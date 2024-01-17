@@ -1,430 +1,1653 @@
 {
-  "2022-10-29": 30678,
-  "2022-10-30": 30690,
-  "2022-10-31": 30701,
-  "2022-11-01": 30715,
-  "2022-11-02": 30725,
-  "2022-11-03": 30733,
-  "2022-11-04": 30747,
-  "2022-11-05": 30763,
-  "2022-11-06": 30774,
-  "2022-11-07": 30782,
-  "2022-11-08": 30792,
-  "2022-11-09": 30808,
-  "2022-11-10": 30817,
-  "2022-11-11": 30832,
-  "2022-11-12": 30842,
-  "2022-11-13": 30867,
-  "2022-11-14": 30891,
-  "2022-11-15": 30903,
-  "2022-11-16": 30918,
-  "2022-11-17": 30934,
-  "2022-11-18": 30939,
-  "2022-11-19": 30947,
-  "2022-11-20": 30966,
-  "2022-11-21": 30987,
-  "2022-11-22": 31000,
-  "2022-11-23": 31019,
-  "2022-11-24": 31052,
-  "2022-11-25": 31088,
-  "2022-11-26": 31111,
-  "2022-11-27": 31142,
-  "2022-11-28": 31159,
-  "2022-11-29": 31176,
-  "2022-11-30": 31196,
-  "2022-12-01": 31212,
-  "2022-12-02": 31229,
-  "2022-12-03": 31248,
-  "2022-12-04": 31282,
-  "2022-12-05": 31299,
-  "2022-12-06": 31308,
-  "2022-12-07": 31331,
-  "2022-12-08": 31340,
-  "2022-12-09": 31358,
-  "2022-12-10": 31372,
-  "2022-12-11": 31394,
-  "2022-12-12": 31405,
-  "2022-12-13": 31419,
-  "2022-12-14": 31436,
-  "2022-12-15": 31463,
-  "2022-12-16": 31478,
-  "2022-12-17": 31492,
-  "2022-12-18": 31514,
-  "2022-12-19": 31527,
-  "2022-12-20": 31558,
-  "2022-12-21": 31558,
-  "2022-12-22": 31563,
-  "2022-12-24": 31587,
-  "2022-12-25": 31601,
-  "2022-12-26": 31610,
-  "2022-12-27": 31625,
-  "2022-12-28": 31640,
-  "2022-12-29": 31650,
-  "2022-12-30": 31654,
-  "2022-12-31": 31688,
-  "2023-01-01": 31709,
-  "2023-01-02": 31738,
-  "2023-01-03": 31750,
-  "2023-01-04": 31761,
-  "2023-01-05": 31782,
-  "2023-01-06": 31802,
-  "2023-01-07": 31830,
-  "2023-01-08": 31831,
-  "2023-01-09": 31847,
-  "2023-01-10": 31860,
-  "2023-01-11": 31875,
-  "2023-01-12": 31885,
-  "2023-01-13": 31896,
-  "2023-01-14": 31913,
-  "2023-01-15": 31929,
-  "2023-01-16": 31946,
-  "2023-01-17": 31966,
-  "2023-01-18": 31986,
-  "2023-01-19": 32010,
-  "2023-01-20": 32032,
-  "2023-01-21": 32058,
-  "2023-01-22": 32084,
-  "2023-01-23": 32103,
-  "2023-01-24": 32121,
-  "2023-01-25": 32142,
-  "2023-01-26": 32154,
-  "2023-01-27": 32160,
-  "2023-01-28": 32171,
-  "2023-01-29": 32184,
-  "2023-01-30": 32197,
-  "2023-01-31": 32197,
-  "2023-02-01": 32233,
-  "2023-02-02": 32256,
-  "2023-02-03": 32272,
-  "2023-02-04": 32290,
-  "2023-02-05": 32308,
-  "2023-02-06": 32320,
-  "2023-02-07": 32343,
-  "2023-02-08": 32395,
-  "2023-02-09": 32395,
-  "2023-02-10": 32417,
-  "2023-02-11": 32439,
-  "2023-02-12": 32464,
-  "2023-02-13": 32475,
-  "2023-02-14": 32475,
-  "2023-02-15": 32493,
-  "2023-02-16": 32507,
-  "2023-02-17": 32530,
-  "2023-02-18": 32558,
-  "2023-02-19": 32569,
-  "2023-02-20": 32577,
-  "2023-02-21": 32580,
-  "2023-02-22": 32596,
-  "2023-02-23": 32613,
-  "2023-02-24": 32621,
-  "2023-02-25": 32642,
-  "2023-02-26": 32656,
-  "2023-02-27": 32678,
-  "2023-02-28": 32678,
-  "2023-03-01": 32705,
-  "2023-03-02": 32732,
-  "2023-03-03": 32757,
-  "2023-03-04": 32769,
-  "2023-03-05": 32795,
-  "2023-03-06": 32795,
-  "2023-03-07": 32811,
-  "2023-03-08": 32833,
-  "2023-03-09": 32851,
-  "2023-03-10": 32859,
-  "2023-03-11": 32866,
-  "2023-03-12": 32884,
-  "2023-03-13": 32891,
-  "2023-03-14": 32899,
-  "2023-03-15": 32917,
-  "2023-03-16": 32917,
-  "2023-03-17": 32917,
-  "2023-03-18": 32947,
-  "2023-03-19": 32947,
-  "2023-03-20": 32985,
-  "2023-03-21": 33000,
-  "2023-03-22": 33012,
-  "2023-03-23": 33026,
-  "2023-03-24": 33026,
-  "2023-03-25": 33051,
-  "2023-03-26": 33069,
-  "2023-03-27": 33082,
-  "2023-03-28": 33091,
-  "2023-03-29": 33104,
-  "2023-03-30": 33122,
-  "2023-03-31": 33122,
-  "2023-04-01": 33147,
-  "2023-04-02": 33159,
-  "2023-04-03": 33171,
-  "2023-04-04": 33173,
-  "2023-04-05": 33190,
-  "2023-04-06": 33212,
-  "2023-04-07": 33229,
-  "2023-04-09": 33262,
-  "2023-04-10": 33268,
-  "2023-04-11": 33287,
-  "2023-04-12": 33287,
-  "2023-04-13": 33300,
-  "2023-04-14": 33316,
-  "2023-04-15": 33335,
-  "2023-04-16": 33347,
-  "2023-04-17": 33356,
-  "2023-04-18": 33374,
-  "2023-04-19": 33391,
-  "2023-04-20": 33402,
-  "2023-04-21": 33429,
-  "2023-04-22": 33446,
-  "2023-04-23": 33462,
-  "2023-04-24": 33474,
-  "2023-04-25": 33488,
-  "2023-04-26": 33502,
-  "2023-04-27": 33519,
-  "2023-04-28": 33532,
-  "2023-04-29": 33543,
-  "2023-04-30": 33563,
-  "2023-05-01": 33569,
-  "2023-05-02": 33585,
-  "2023-05-03": 33595,
-  "2023-05-04": 33607,
-  "2023-05-05": 33629,
-  "2023-05-06": 33642,
-  "2023-05-07": 33654,
-  "2023-05-08": 33669,
-  "2023-05-09": 33685,
-  "2023-05-10": 33697,
-  "2023-05-11": 33710,
-  "2023-05-12": 33727,
-  "2023-05-13": 33745,
-  "2023-05-14": 33759,
-  "2023-05-15": 33763,
-  "2023-05-16": 33773,
-  "2023-05-17": 33791,
-  "2023-05-18": 33804,
-  "2023-05-19": 33820,
-  "2023-05-20": 33850,
-  "2023-05-21": 33850,
-  "2023-05-22": 33850,
-  "2023-05-23": 33871,
-  "2023-05-24": 33900,
-  "2023-05-25": 33904,
-  "2023-05-26": 33921,
-  "2023-05-27": 33930,
-  "2023-05-28": 33943,
-  "2023-05-29": 33943,
-  "2023-05-30": 33977,
-  "2023-05-31": 33999,
-  "2023-06-01": 34018,
-  "2023-06-02": 34035,
-  "2023-06-03": 34052,
-  "2023-06-04": 34066,
-  "2023-06-05": 34077,
-  "2023-06-06": 34094,
-  "2023-06-07": 34099,
-  "2023-06-08": 34114,
-  "2023-06-09": 34130,
-  "2023-06-10": 34160,
-  "2023-06-11": 34185,
-  "2023-06-12": 34194,
-  "2023-06-13": 34211,
-  "2023-06-14": 34229,
-  "2023-06-15": 34244,
-  "2023-06-16": 34257,
-  "2023-06-17": 34270,
-  "2023-06-18": 34280,
-  "2023-06-19": 34291,
-  "2023-06-20": 34302,
-  "2023-06-21": 34314,
-  "2023-06-22": 34329,
-  "2023-06-23": 34345,
-  "2023-06-24": 34361,
-  "2023-06-25": 34371,
-  "2023-06-26": 34391,
-  "2023-06-27": 34402,
-  "2023-06-28": 34417,
-  "2023-06-29": 34442,
-  "2023-06-30": 34455,
-  "2023-07-01": 34492,
-  "2023-07-02": 34492,
-  "2023-07-03": 34506,
-  "2023-07-04": 34517,
-  "2023-07-05": 34532,
-  "2023-07-06": 34560,
-  "2023-07-07": 34560,
-  "2023-07-08": 34567,
-  "2023-07-09": 34580,
-  "2023-07-10": 34591,
-  "2023-07-11": 34606,
-  "2023-07-12": 34617,
-  "2023-07-13": 34634,
-  "2023-07-14": 34648,
-  "2023-07-15": 34664,
-  "2023-07-16": 34675,
-  "2023-07-17": 34690,
-  "2023-07-18": 34710,
-  "2023-07-19": 34721,
-  "2023-07-20": 34728,
-  "2023-07-21": 34738,
-  "2023-07-22": 34754,
-  "2023-07-23": 34766,
-  "2023-07-24": 34771,
-  "2023-07-25": 34779,
-  "2023-07-26": 34797,
-  "2023-07-27": 34806,
-  "2023-07-28": 34823,
-  "2023-07-29": 34838,
-  "2023-07-30": 34853,
-  "2023-07-31": 34868,
-  "2023-08-01": 34879,
-  "2023-08-02": 34900,
-  "2023-08-03": 34918,
-  "2023-08-04": 34940,
-  "2023-08-05": 34947,
-  "2023-08-06": 34966,
-  "2023-08-07": 34966,
-  "2023-08-08": 34967,
-  "2023-08-09": 34974,
-  "2023-08-10": 34984,
-  "2023-08-11": 35000,
-  "2023-08-12": 35000,
-  "2023-08-13": 35000,
-  "2023-08-14": 35033,
-  "2023-08-15": 35033,
-  "2023-08-16": 35033,
-  "2023-08-17": 35072,
-  "2023-08-18": 35072,
-  "2023-08-19": 35072,
-  "2023-08-20": 35110,
-  "2023-08-21": 35110,
-  "2023-08-22": 35136,
-  "2023-08-23": 35136,
-  "2023-08-24": 35163,
-  "2023-08-25": 35163,
-  "2023-08-26": 35204,
-  "2023-08-27": 35204,
-  "2023-08-28": 35229,
-  "2023-08-29": 35229,
-  "2023-08-30": 35229,
-  "2023-08-31": 35276,
-  "2023-09-01": 35287,
-  "2023-09-02": 35287,
-  "2023-09-03": 35318,
-  "2023-09-04": 35318,
-  "2023-09-05": 35318,
-  "2023-09-06": 35362,
-  "2023-09-07": 35362,
-  "2023-09-08": 35362,
-  "2023-09-09": 35362,
-  "2023-09-10": 35421,
-  "2023-09-11": 35421,
-  "2023-09-12": 35421,
-  "2023-09-13": 35470,
-  "2023-09-14": 35470,
-  "2023-09-15": 35470,
-  "2023-09-16": 35510,
-  "2023-09-17": 35510,
-  "2023-09-18": 35510,
-  "2023-09-19": 35529,
-  "2023-09-20": 35529,
-  "2023-09-21": 35529,
-  "2023-09-22": 35569,
-  "2023-09-23": 35569,
-  "2023-09-24": 35569,
-  "2023-09-25": 35569,
-  "2023-09-26": 35607,
-  "2023-09-27": 35607,
-  "2023-09-28": 35607,
-  "2023-09-29": 35607,
-  "2023-09-30": 35607,
-  "2023-10-01": 35607,
-  "2023-10-02": 35684,
-  "2023-10-03": 35684,
-  "2023-10-04": 35684,
-  "2023-10-05": 35712,
-  "2023-10-06": 35712,
-  "2023-10-07": 35712,
-  "2023-10-08": 35712,
-  "2023-10-09": 35712,
-  "2023-10-10": 35712,
-  "2023-10-11": 35776,
-  "2023-10-12": 35776,
-  "2023-10-13": 35776,
-  "2023-10-14": 35776,
-  "2023-10-15": 35776,
-  "2023-10-16": 35776,
-  "2023-10-17": 35776,
-  "2023-10-18": 35776,
-  "2023-10-19": 35776,
-  "2023-10-20": 35776,
-  "2023-10-21": 35776,
-  "2023-10-22": 35776,
-  "2023-10-23": 35776,
-  "2023-10-24": 35776,
-  "2023-10-25": 35776,
-  "2023-10-26": 35776,
-  "2023-10-27": 35776,
-  "2023-10-28": 35776,
-  "2023-10-29": 35776,
-  "2023-10-30": 35776,
-  "2023-10-31": 35776,
-  "2023-11-01": 35776,
-  "2023-11-02": 35776,
-  "2023-11-03": 35776,
-  "2023-11-04": 35776,
-  "2023-11-05": 35776,
-  "2023-11-06": 35776,
-  "2023-11-07": 35776,
-  "2023-11-08": 35776,
-  "2023-11-09": 35776,
-  "2023-11-10": 35776,
-  "2023-11-11": 36134,
-  "2023-11-12": 36134,
-  "2023-11-13": 36134,
-  "2023-11-14": 36134,
-  "2023-11-15": 36134,
-  "2023-11-16": 36134,
-  "2023-11-17": 36134,
-  "2023-11-18": 36134,
-  "2023-11-19": 36134,
-  "2023-11-20": 36134,
-  "2023-11-21": 36134,
-  "2023-11-22": 36134,
-  "2023-11-23": 36134,
-  "2023-11-24": 36134,
-  "2023-11-25": 36134,
-  "2023-11-26": 36134,
-  "2023-11-27": 36134,
-  "2023-11-28": 36134,
-  "2023-11-29": 36134,
-  "2023-11-30": 36134,
-  "2023-12-01": 36134,
-  "2023-12-02": 36134,
-  "2023-12-03": 36134,
-  "2023-12-04": 36134,
-  "2023-12-05": 36134,
-  "2023-12-06": 36134,
-  "2023-12-07": 36134,
-  "2023-12-08": 36134,
-  "2023-12-09": 36134,
-  "2023-12-10": 36134,
-  "2023-12-11": 36134,
-  "2023-12-12": 36134,
-  "2023-12-13": 36134,
-  "2023-12-14": 36410,
-  "2023-12-15": 36418,
-  "2023-12-16": 36430,
-  "2023-12-17": 36440,
-  "2023-12-18": 36453,
-  "2023-12-19": 36466,
-  "2023-12-20": 36472,
-  "2023-12-21": 36480,
-  "2023-12-22": 36492,
-  "2023-12-23": 36503,
-  "2023-12-24": 36507,
-  "2023-12-25": 36513,
-  "2023-12-26": 36522,
-  "2023-12-27": 36530,
-  "2023-12-30": 36560,
-  "2023-12-31": 36571,
-  "2024-01-01": 36577,
-  "2024-01-02": 36573,
-  "2024-01-03": 36579
+  "2024-01-17": 36669,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is City Girls. The essential tracks, all in one playlist.",
+  "name": "This Is City Girls",
+  "tracks": [
+    {
+      "album": {
+        "name": "43VA HEARTLESS",
+        "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142395,
+      "name": "4 Da Moment (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
+    },
+    {
+      "album": {
+        "name": "Act Bad",
+        "url": "https://open.spotify.com/album/7rzfZdTVwlL2gSHPLdizlQ"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Act Bad",
+      "url": "https://open.spotify.com/track/1Bgga0poKKUZftx5p8b16y"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208932,
+      "name": "BILLS PAID (feat. Latto & City Girls)",
+      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 128530,
+      "name": "Broke Boy",
+      "url": "https://open.spotify.com/track/3E7jehnxsH4xZAuxDQg4zC"
+    },
+    {
+      "album": {
+        "name": "Caramel (feat. City Girls)",
+        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Caramel (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "DJ Durel",
+          "url": "https://open.spotify.com/artist/1MHslxKWxauC559dXYEX1C"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 187994,
+      "name": "Come On (City Girls, Saweetie feat. DJ Durel)",
+      "url": "https://open.spotify.com/track/7o3aoh8XuZ6lvn8jQvw6So"
+    },
+    {
+      "album": {
+        "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+        "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255180,
+      "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+      "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    {
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Hot Girl Meg",
+          "url": "https://open.spotify.com/artist/1ZEqGVxGNeiNyssm83CeKP"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167370,
+      "name": "Do It On The Tip (feat. City Girls & Hot Girl Meg)",
+      "url": "https://open.spotify.com/track/2993VQSr7a2Dj5hI5xcWG0"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131631,
+      "name": "Double CC's",
+      "url": "https://open.spotify.com/track/72SrBwk95IXQlnXjf0hoyw"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 152544,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/6RApNG1hgOvOQvrVvkvWNh"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198762,
+      "name": "Emotions (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
+    },
+    {
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225502,
+      "name": "Ex For A Reason (with JT from City Girls)",
+      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+    },
+    {
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/5c1HMH7bxAm1Qd60Ku0Ia1"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/0DEjFljgDbPjkm5460EJnA"
+    },
+    {
+      "album": {
+        "name": "Face Down",
+        "url": "https://open.spotify.com/album/5SeAsHvDrYovJkWIX4Gdfk"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 127058,
+      "name": "Face Down",
+      "url": "https://open.spotify.com/track/3I90vgNPEkwXiUAyeb5aRy"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201783,
+      "name": "Fancy Ass Bitch (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/5fY0QfTotLCJUHo6F7LAiF"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173752,
+      "name": "Female Goat",
+      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "Flashy (feat. Kim Petras)",
+      "url": "https://open.spotify.com/track/7rofRRaFwjPUdcPUnrtFAu"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190491,
+      "name": "Flewed Out",
+      "url": "https://open.spotify.com/track/3Ao4pGywlb4i8WiJgYWRm6"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194693,
+      "name": "Fu*k Dat Ni**a",
+      "url": "https://open.spotify.com/track/12ydfAh0hs1MIyzU0LNOwt"
+    },
+    {
+      "album": {
+        "name": "Fuck It Up (feat. City Girls & Tyga)",
+        "url": "https://open.spotify.com/album/1V4dbLC7PqSzf0cXKWIwzk"
+      },
+      "artists": [
+        {
+          "name": "YBN Nahmir",
+          "url": "https://open.spotify.com/artist/3gGUMEwIX6XodWsYEvKSal"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 174251,
+      "name": "Fuck It Up (feat. City Girls & Tyga)",
+      "url": "https://open.spotify.com/track/1ri9bBxmv1CmAuA55g8Xvh"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 158798,
+      "name": "Give It A Try (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/3xLyP5emNmRuzrddcWAa5z"
+    },
+    {
+      "album": {
+        "name": "Good Love (feat. Usher)",
+        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232787,
+      "name": "Good Love (feat. Usher)",
+      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
+    },
+    {
+      "album": {
+        "name": "Gorgeous Remix (feat. City Girls)",
+        "url": "https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214468,
+      "name": "Gorgeous Remix (feat. City Girls)",
+      "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
+    },
+    {
+      "album": {
+        "name": "Handle It",
+        "url": "https://open.spotify.com/album/78Ov02ocDiQ5aNk5cFUm9M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Kali Cass",
+          "url": "https://open.spotify.com/artist/2BhAM5ZQjA4rH0JmsyfuRe"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 124865,
+      "name": "Handle It",
+      "url": "https://open.spotify.com/track/61PcyQZqlHDf4hiYPdHGGW"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 170413,
+      "name": "How To Pimp A N**ga",
+      "url": "https://open.spotify.com/track/36B9SXT9Pf8mL3F5RyqSAX"
+    },
+    {
+      "album": {
+        "name": "I Need A Thug",
+        "url": "https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117806,
+      "name": "I Need A Thug",
+      "url": "https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "In n Out (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121386,
+      "name": "Jobs",
+      "url": "https://open.spotify.com/track/2fHXAuXRcCDXbZYJIUZCGW"
+    },
+    {
+      "album": {
+        "name": "JT First Day Out",
+        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187679,
+      "name": "JT First Day Out",
+      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
+    },
+    {
+      "album": {
+        "name": "Kitty Talk (feat. Quavo, Lil Wayne, & Jack Harlow) [Remix]",
+        "url": "https://open.spotify.com/album/000xZHv6vq55FegQNqELgN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 199298,
+      "name": "Kitty Talk (feat. Quavo, Lil Wayne, & Jack Harlow) [Remix]",
+      "url": "https://open.spotify.com/track/4n4yWZbhlyHrgFs9ztg21K"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171646,
+      "name": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
+      "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156247,
+      "name": "Line Up",
+      "url": "https://open.spotify.com/track/3ZGLOYhdlBXXCHI4pWP0C8"
+    },
+    {
+      "album": {
+        "name": "Melanin (feat. Lupita Nyong'o, Ester Dean, City Girls, & LA LA)",
+        "url": "https://open.spotify.com/album/0PNfF05nd0te0wodwtcvcn"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Lupita Nyong'o",
+          "url": "https://open.spotify.com/artist/1tAwjP3FOwCCzqLwz44GsW"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "La La",
+          "url": "https://open.spotify.com/artist/1RDWIpR1C3uzTp0ZRtYNKk"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 269416,
+      "name": "Melanin (feat. Lupita Nyong'o, Ester Dean, City Girls, & LA LA)",
+      "url": "https://open.spotify.com/track/5UtN4XWCmeZWsbu5mRpPSQ"
+    },
+    {
+      "album": {
+        "name": "Bad Boys For Life Soundtrack",
+        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 158777,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
+    },
+    {
+      "album": {
+        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
+        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
+      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
+    },
+    {
+      "album": {
+        "name": "No Bars",
+        "url": "https://open.spotify.com/album/4Ad0AJ7kZ296e7wu8Ri4QJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176842,
+      "name": "No Bars",
+      "url": "https://open.spotify.com/track/4aJYaQide0vBqT3ErvVKvp"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 114766,
+      "name": "Panties An Bra",
+      "url": "https://open.spotify.com/track/5Pv2Mupc12dt63SbqkMEhP"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 2",
+        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160013,
+      "name": "Pastor (Quavo, City Girls feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4awve4McsKOqVuOpAbg6BF"
+    },
+    {
+      "album": {
+        "name": "UNDER8ED",
+        "url": "https://open.spotify.com/album/45x9T2H8aU4ckLPOYfGucD"
+      },
+      "artists": [
+        {
+          "name": "Pardison Fontaine",
+          "url": "https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170229,
+      "name": "Peach (feat. City Girls)",
+      "url": "https://open.spotify.com/track/1lgQjuwCLFdDIE6yKz0c5R"
+    },
+    {
+      "album": {
+        "name": "Trying To Find My Next Thrill",
+        "url": "https://open.spotify.com/album/3l9X9abmztD680Rs0HnT98"
+      },
+      "artists": [
+        {
+          "name": "Cousin Stizz",
+          "url": "https://open.spotify.com/artist/0KpCz7V5XRkqKuM1JDf56O"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199266,
+      "name": "Perfect (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0qJ0eDL9Szdylx4kRRCBQD"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "Period (We Live)",
+      "url": "https://open.spotify.com/track/1FdjGON62xLxgPZW8BGeHS"
+    },
+    {
+      "album": {
+        "name": "Pi\u00f1ata",
+        "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Pi\u00f1ata",
+      "url": "https://open.spotify.com/track/1DKwfFIKo93f2oiwZjwyMr"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218332,
+      "name": "Pussy Talk",
+      "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 151186,
+      "name": "Rap Shit",
+      "url": "https://open.spotify.com/track/0m5UGpHzwWRlgky0dmhogh"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177370,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/2I8OJsxoaUByoURNACArMC"
+    },
+    {
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177704,
+      "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
+      "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
+    },
+    {
+      "album": {
+        "name": "Scared (from the \"Bruised\" Soundtrack)",
+        "url": "https://open.spotify.com/album/1VuOFnoveM2MzoLSEeTEHk"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Bruised Soundtrack",
+          "url": "https://open.spotify.com/artist/0CHgnpcHB0yfcUfJ3bdI3W"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 159326,
+      "name": "Scared - from the \"Bruised\" Soundtrack",
+      "url": "https://open.spotify.com/track/0xEIY4zMquic0MRv9lSekG"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 202942,
+      "name": "Season (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6gqvCJJY8Sh4opRxXVO7A7"
+    },
+    {
+      "album": {
+        "name": "Thug Luv",
+        "url": "https://open.spotify.com/album/3JgQJpOk0rmxql353Y3j2G"
+      },
+      "artists": [
+        {
+          "name": "Trouble",
+          "url": "https://open.spotify.com/artist/0701LAQrkY5Il5vt06uNnC"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 182813,
+      "name": "She A Winner",
+      "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "album": {
+        "name": "Shisha",
+        "url": "https://open.spotify.com/album/0uYvcZDVArtKfHmgAiybtl"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Shisha",
+      "url": "https://open.spotify.com/track/3C2mcvtPzGLPSai3XZPmw2"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167441,
+      "name": "Static (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
+    },
+    {
+      "album": {
+        "name": "All Monsters Are Human",
+        "url": "https://open.spotify.com/album/1Ds7Xoj5ihJkFvTKwXWaIA"
+      },
+      "artists": [
+        {
+          "name": "K. Michelle",
+          "url": "https://open.spotify.com/artist/2retT7MFwHDVTeGKDdybEx"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 212230,
+      "name": "Supahood",
+      "url": "https://open.spotify.com/track/0bhUCHVn9o7u6YZwYGLKwi"
+    },
+    {
+      "album": {
+        "name": "Cyncerely, C3",
+        "url": "https://open.spotify.com/album/6uNuXilVlRxt9ryawO1nCS"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "AzChike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 211707,
+      "name": "Surf",
+      "url": "https://open.spotify.com/track/5EgSl85L3mZlAQFUt4I4BG"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 143120,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/5z3gOVUk7km3eNJM8M57tv"
+    },
+    {
+      "album": {
+        "name": "Take Money",
+        "url": "https://open.spotify.com/album/3VHKbIoAqthCRMJ3ZtRpQX"
+      },
+      "artists": [
+        {
+          "name": "Cashflow Harlem",
+          "url": "https://open.spotify.com/artist/46e4kw7Ahn7VwRaVcXiLlZ"
+        },
+        {
+          "name": "Jaleel Knight",
+          "url": "https://open.spotify.com/artist/2xiVuPWzSoDtVRcOQxNNGK"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 128391,
+      "name": "Take Money",
+      "url": "https://open.spotify.com/track/120nygI7DcxAXigooArYKy"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176308,
+      "name": "Take Yo Man",
+      "url": "https://open.spotify.com/track/5aOpKCKguEnViGOKZxZern"
+    },
+    {
+      "album": {
+        "name": "City On Lock",
+        "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115987,
+      "name": "That's My Bitch",
+      "url": "https://open.spotify.com/track/4llNsoTNNhxC1bOm0feE98"
+    },
+    {
+      "album": {
+        "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3ul0AuKohmiolGCIKrEuly"
+      },
+      "artists": [
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202226,
+      "name": "Three Point Stance (feat. City Girls & Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/5g7pNBb6ySnFUJknKiCkEE"
+    },
+    {
+      "album": {
+        "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) [Remix]",
+        "url": "https://open.spotify.com/album/7CaoMilK1vM4KvbbvRVggD"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211609,
+      "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
+      "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
+    },
+    {
+      "album": {
+        "name": "Throw Fits (feat. City Girls & Juvenile)",
+        "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
+      },
+      "artists": [
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203930,
+      "name": "Throw Fits (feat. City Girls & Juvenile)",
+      "url": "https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119893,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
+    },
+    {
+      "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+    },
+    {
+      "album": {
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+    },
+    {
+      "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143426,
+      "name": "What We Doin'",
+      "url": "https://open.spotify.com/track/11TOnapSFVWBUSByMzf1u1"
+    },
+    {
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200560,
+      "name": "Where The Bag At",
+      "url": "https://open.spotify.com/track/7GlZhPkCA259c3ICFU0eaG"
+    },
+    {
+      "album": {
+        "name": "Church on Sunday",
+        "url": "https://open.spotify.com/album/3Pa7JytWVcEf3Unec8qku8"
+      },
+      "artists": [
+        {
+          "name": "Blac Youngsta",
+          "url": "https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 197192,
+      "name": "Whisper (feat. City Girls)",
+      "url": "https://open.spotify.com/track/1oHkXeW88HEtFt6P3TvBIt"
+    },
+    {
+      "album": {
+        "name": "MONTANA",
+        "url": "https://open.spotify.com/album/1jJdkoOAj3Uk6Tbv3S4fsa"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 162201,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/3aFJuEqwuvZRjWULDr0rEx"
+    },
+    {
+      "album": {
+        "name": "Wiggle It (feat. City Girls)",
+        "url": "https://open.spotify.com/album/7AZN74ru3v8P69ef0TTAn0"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172048,
+      "name": "Wiggle It (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vfsh1GHqHZtTlkusq9j5E"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 127559,
+      "name": "Wigs",
+      "url": "https://open.spotify.com/track/2XdeL4FRkc6ADX4XTcpa0s"
+    },
+    {
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106153,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
+    },
+    {
+      "album": {
+        "name": "You Tried It",
+        "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 126870,
+      "name": "You Tried It",
+      "url": "https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb"
+    },
+    {
+      "album": {
+        "name": "15",
+        "url": "https://open.spotify.com/album/5I0eRWD0PLOmswFHZhcD12"
+      },
+      "artists": [
+        {
+          "name": "Bhad Bhabie",
+          "url": "https://open.spotify.com/artist/7DuTB6wdzqFJGFLSH17k8e"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170560,
+      "name": "Yung and Bhad (feat. City Girls)",
+      "url": "https://open.spotify.com/track/4vHf3mf0iZgEmkdHyLTSE9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1NPjOD"
 }

@@ -1,12 +1,12 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2483,
+  "num_followers": 2490,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "MzkwMCxmODkxN2MwZjAwZjVkOTc1MTFlYmIwYzMyYzA2MmU0ZTUxNDE1ZDlh",
+  "snapshot_id": "MzkyMyw2ZjFiOGRkMTdhNTkwNGQ2ZjgwY2E5MGYyMWU0MjJjOTQyZTAwMDhj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:57:30",
@@ -23,6 +23,70 @@
       "duration_ms": 185570,
       "name": "Calling Through The Fire",
       "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
+    },
+    {
+      "added_at": "2024-01-14 14:28:49",
+      "album": {
+        "name": "Wu Tang",
+        "url": "https://open.spotify.com/album/1ebAXsBdHujq09tlX49MuA"
+      },
+      "artists": [
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        }
+      ],
+      "duration_ms": 217790,
+      "name": "Wu Tang",
+      "url": "https://open.spotify.com/track/2pZZo8nD0TTbtad8az4tPF"
+    },
+    {
+      "added_at": "2024-01-14 14:29:45",
+      "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/1FPIVz5o2Hg39u3Z1f9g2p"
+      },
+      "artists": [
+        {
+          "name": "Survival Mode",
+          "url": "https://open.spotify.com/artist/71ZV9O3HAnc2zBk1Pq3LwZ"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/4PBW79WVzYojdwSPdzHXjA"
+    },
+    {
+      "added_at": "2024-01-14 14:28:47",
+      "album": {
+        "name": "Mind Off",
+        "url": "https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK"
+      },
+      "artists": [
+        {
+          "name": "Discip",
+          "url": "https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT"
+        }
+      ],
+      "duration_ms": 190393,
+      "name": "Mind Off",
+      "url": "https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp"
+    },
+    {
+      "added_at": "2023-05-12 16:24:04",
+      "album": {
+        "name": "Trees",
+        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 182659,
+      "name": "Trees",
+      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
       "added_at": "2023-12-10 13:22:58",
@@ -57,6 +121,22 @@
       "url": "https://open.spotify.com/track/2P2earmjJAjuoUbW9du0WB"
     },
     {
+      "added_at": "2024-01-14 14:28:33",
+      "album": {
+        "name": "Give You",
+        "url": "https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Give You",
+      "url": "https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf"
+    },
+    {
       "added_at": "2023-12-10 13:23:00",
       "album": {
         "name": "I Can't Take No More",
@@ -71,22 +151,6 @@
       "duration_ms": 157784,
       "name": "I Can't Take No More",
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
-    },
-    {
-      "added_at": "2023-05-12 16:24:04",
-      "album": {
-        "name": "Trees",
-        "url": "https://open.spotify.com/album/4wmWWcZPAPMUIe0wJ58Fsg"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 182659,
-      "name": "Trees",
-      "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
     },
     {
       "added_at": "2023-11-26 13:38:03",
@@ -119,6 +183,22 @@
       "duration_ms": 221538,
       "name": "Extremos!",
       "url": "https://open.spotify.com/track/4ucfCwuo09MtHrocsyKf2Y"
+    },
+    {
+      "added_at": "2024-01-14 14:28:44",
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/07XMRuimaG7X1vbryMOpib"
+      },
+      "artists": [
+        {
+          "name": "Des & Del",
+          "url": "https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ"
+        }
+      ],
+      "duration_ms": 148953,
+      "name": "Boom",
+      "url": "https://open.spotify.com/track/7AJy67TqJVYSSlp4z01H4d"
     },
     {
       "added_at": "2023-11-26 13:37:55",
@@ -169,50 +249,6 @@
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"
     },
     {
-      "added_at": "2023-11-05 16:56:24",
-      "album": {
-        "name": "Weeping Willow",
-        "url": "https://open.spotify.com/album/474PPVNNsWQ5ae9iilffbD"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 215091,
-      "name": "Weeping Willow",
-      "url": "https://open.spotify.com/track/6yYzEgqwB9rIXKZzEOjBiT"
-    },
-    {
-      "added_at": "2023-11-05 16:56:33",
-      "album": {
-        "name": "Mind Awake, Body Asleep",
-        "url": "https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "OMNOM",
-          "url": "https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy"
-        },
-        {
-          "name": "HYPERBEAM",
-          "url": "https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Mind Awake, Body Asleep",
-      "url": "https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk"
-    },
-    {
       "added_at": "2023-11-26 13:37:51",
       "album": {
         "name": "Eastside",
@@ -253,22 +289,6 @@
       "url": "https://open.spotify.com/track/0e3RJm3cL2AcGz0YWZEEjT"
     },
     {
-      "added_at": "2023-02-10 17:30:44",
-      "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 189196,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
-    },
-    {
       "added_at": "2023-12-10 13:22:50",
       "album": {
         "name": "fall '23",
@@ -285,26 +305,6 @@
       "url": "https://open.spotify.com/track/4jzBcOyhDg2hkDiSVDWzSo"
     },
     {
-      "added_at": "2023-11-05 16:56:30",
-      "album": {
-        "name": "Funk Soul Brother (GENESI Edit)",
-        "url": "https://open.spotify.com/album/55dSkmDjRxOBYIOmItBV2w"
-      },
-      "artists": [
-        {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
-        },
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "Funk Soul Brother - GENESI Edit",
-      "url": "https://open.spotify.com/track/7LkfF06CRUFC5XqnURku9Z"
-    },
-    {
       "added_at": "2023-12-10 13:23:06",
       "album": {
         "name": "Break The Roof EP",
@@ -319,6 +319,38 @@
       "duration_ms": 215813,
       "name": "Twentyk",
       "url": "https://open.spotify.com/track/3FNOkOASmP5RW1kws04Msv"
+    },
+    {
+      "added_at": "2023-02-10 17:30:44",
+      "album": {
+        "name": "Ready Or Not",
+        "url": "https://open.spotify.com/album/4Vmlwmg6QKl3FYqeFZkfM7"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 189196,
+      "name": "Ready Or Not",
+      "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
+    },
+    {
+      "added_at": "2024-01-14 14:28:41",
+      "album": {
+        "name": "Face To Face",
+        "url": "https://open.spotify.com/album/2yQPHbFZ8h17Be5OsICWIi"
+      },
+      "artists": [
+        {
+          "name": "Rimbano",
+          "url": "https://open.spotify.com/artist/3v1oNkquKNV6nyXjpQvF3W"
+        }
+      ],
+      "duration_ms": 326504,
+      "name": "Face To Face",
+      "url": "https://open.spotify.com/track/4xc2PKPPWvHs4z6zRdQwyx"
     },
     {
       "added_at": "2023-11-26 13:38:05",
@@ -373,6 +405,22 @@
       "url": "https://open.spotify.com/track/0A8agun7eBJpnTiFiwAX7c"
     },
     {
+      "added_at": "2022-09-30 05:47:41",
+      "album": {
+        "name": "CLOD",
+        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
+      },
+      "artists": [
+        {
+          "name": "AGLF",
+          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
+        }
+      ],
+      "duration_ms": 139107,
+      "name": "CLOD",
+      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
+    },
+    {
       "added_at": "2023-12-10 13:22:53",
       "album": {
         "name": "2 Pain EP",
@@ -391,74 +439,6 @@
       "duration_ms": 355081,
       "name": "2 Pain",
       "url": "https://open.spotify.com/track/5VJ6AseyaUpoMDiYazmw86"
-    },
-    {
-      "added_at": "2023-11-05 16:56:19",
-      "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/4d1S4boYB2A9crfMQ5nUEm"
-      },
-      "artists": [
-        {
-          "name": "The BeatBoy's",
-          "url": "https://open.spotify.com/artist/1bnYQeMALHUg5i39ujDREE"
-        }
-      ],
-      "duration_ms": 358139,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/0jvrVHIuoIvC8kaxZPjCmO"
-    },
-    {
-      "added_at": "2023-11-05 16:56:44",
-      "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 223631,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
-    },
-    {
-      "added_at": "2022-09-30 05:47:41",
-      "album": {
-        "name": "CLOD",
-        "url": "https://open.spotify.com/album/0kVpJtY2EYon2C3IMAXwwU"
-      },
-      "artists": [
-        {
-          "name": "AGLF",
-          "url": "https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG"
-        }
-      ],
-      "duration_ms": 139107,
-      "name": "CLOD",
-      "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
-    },
-    {
-      "added_at": "2023-11-26 13:38:10",
-      "album": {
-        "name": "Way Back",
-        "url": "https://open.spotify.com/album/76ZIraomSbcDfmAdaJqNa5"
-      },
-      "artists": [
-        {
-          "name": "Duarte",
-          "url": "https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk"
-        },
-        {
-          "name": "Roddy Lima",
-          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Way Back",
-      "url": "https://open.spotify.com/track/1Q1clcocESI1KAgIQ638lS"
     },
     {
       "added_at": "2023-11-26 13:37:06",
@@ -517,20 +497,20 @@
       "url": "https://open.spotify.com/track/5npl72FBCav1cwDDvQlMnt"
     },
     {
-      "added_at": "2023-11-05 16:56:41",
+      "added_at": "2024-01-14 14:28:38",
       "album": {
-        "name": "If U Need It",
-        "url": "https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn"
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm"
       },
       "artists": [
         {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+          "name": "Oppidan",
+          "url": "https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK"
         }
       ],
-      "duration_ms": 179999,
-      "name": "If U Need It",
-      "url": "https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp"
+      "duration_ms": 213333,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv"
     }
   ],
   "unique_name": "AGLF Playlist",

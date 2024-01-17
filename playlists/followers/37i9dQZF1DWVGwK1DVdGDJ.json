@@ -1,166 +1,713 @@
 {
-  "2023-07-22": 6473,
-  "2023-07-23": 12700,
-  "2023-07-24": 17424,
-  "2023-07-25": 19865,
-  "2023-07-26": 22467,
-  "2023-07-27": 25030,
-  "2023-07-28": 27652,
-  "2023-07-29": 31150,
-  "2023-07-30": 34767,
-  "2023-07-31": 37784,
-  "2023-08-01": 40014,
-  "2023-08-02": 42286,
-  "2023-08-03": 44705,
-  "2023-08-04": 47426,
-  "2023-08-05": 50016,
-  "2023-08-06": 54343,
-  "2023-08-07": 54343,
-  "2023-08-08": 55896,
-  "2023-08-09": 57341,
-  "2023-08-10": 58838,
-  "2023-08-11": 60378,
-  "2023-08-12": 61865,
-  "2023-08-13": 63296,
-  "2023-08-14": 64650,
-  "2023-08-15": 67131,
-  "2023-08-16": 67131,
-  "2023-08-17": 68341,
-  "2023-08-18": 69620,
-  "2023-08-19": 70930,
-  "2023-08-20": 72233,
-  "2023-08-21": 73545,
-  "2023-08-22": 74762,
-  "2023-08-23": 76001,
-  "2023-08-24": 77168,
-  "2023-08-25": 78363,
-  "2023-08-26": 79520,
-  "2023-08-27": 80692,
-  "2023-08-28": 81824,
-  "2023-08-29": 82920,
-  "2023-08-30": 83841,
-  "2023-08-31": 84876,
-  "2023-09-01": 86671,
-  "2023-09-02": 86671,
-  "2023-09-03": 87534,
-  "2023-09-04": 88417,
-  "2023-09-05": 89209,
-  "2023-09-06": 89858,
-  "2023-09-07": 90541,
-  "2023-09-08": 91255,
-  "2023-09-09": 92018,
-  "2023-09-10": 92833,
-  "2023-09-11": 93629,
-  "2023-09-12": 94294,
-  "2023-09-13": 94994,
-  "2023-09-14": 95605,
-  "2023-09-15": 96260,
-  "2023-09-16": 96959,
-  "2023-09-17": 97701,
-  "2023-09-18": 98403,
-  "2023-09-19": 98989,
-  "2023-09-20": 99584,
-  "2023-09-21": 100082,
-  "2023-09-22": 100713,
-  "2023-09-23": 101280,
-  "2023-09-24": 101909,
-  "2023-09-25": 102508,
-  "2023-09-26": 103200,
-  "2023-09-27": 103598,
-  "2023-09-28": 104157,
-  "2023-09-29": 104757,
-  "2023-09-30": 105331,
-  "2023-10-01": 105916,
-  "2023-10-02": 106528,
-  "2023-10-03": 107017,
-  "2023-10-04": 107478,
-  "2023-10-05": 108155,
-  "2023-10-06": 108810,
-  "2023-10-07": 109436,
-  "2023-10-08": 110017,
-  "2023-10-09": 110661,
-  "2023-10-10": 111286,
-  "2023-10-11": 112316,
-  "2023-10-12": 112316,
-  "2023-10-13": 112858,
-  "2023-10-14": 113406,
-  "2023-10-15": 113953,
-  "2023-10-16": 114568,
-  "2023-10-17": 115069,
-  "2023-10-18": 115542,
-  "2023-10-19": 116029,
-  "2023-10-20": 116549,
-  "2023-10-21": 117056,
-  "2023-10-22": 117531,
-  "2023-10-23": 118076,
-  "2023-10-24": 118533,
-  "2023-10-25": 119019,
-  "2023-10-26": 119461,
-  "2023-10-27": 119910,
-  "2023-10-28": 120394,
-  "2023-10-29": 120990,
-  "2023-10-30": 121904,
-  "2023-10-31": 121904,
-  "2023-11-01": 122252,
-  "2023-11-02": 122671,
-  "2023-11-03": 123050,
-  "2023-11-04": 123495,
-  "2023-11-05": 123935,
-  "2023-11-06": 124422,
-  "2023-11-07": 124828,
-  "2023-11-08": 125214,
-  "2023-11-09": 125648,
-  "2023-11-10": 126046,
-  "2023-11-11": 126528,
-  "2023-11-12": 126870,
-  "2023-11-13": 127285,
-  "2023-11-14": 127596,
-  "2023-11-15": 127596,
-  "2023-11-16": 128295,
-  "2023-11-17": 129047,
-  "2023-11-18": 129047,
-  "2023-11-19": 129454,
-  "2023-11-20": 129896,
-  "2023-11-21": 130375,
-  "2023-11-22": 130830,
-  "2023-11-23": 131241,
-  "2023-11-24": 131686,
-  "2023-11-25": 132058,
-  "2023-11-26": 132480,
-  "2023-11-27": 132874,
-  "2023-11-28": 133287,
-  "2023-11-29": 134313,
-  "2023-11-30": 134313,
-  "2023-12-01": 135092,
-  "2023-12-02": 135726,
-  "2023-12-03": 136330,
-  "2023-12-04": 136864,
-  "2023-12-05": 137334,
-  "2023-12-06": 137788,
-  "2023-12-07": 138197,
-  "2023-12-08": 138616,
-  "2023-12-09": 139128,
-  "2023-12-10": 139621,
-  "2023-12-11": 140110,
-  "2023-12-12": 140441,
-  "2023-12-13": 140851,
-  "2023-12-14": 141331,
-  "2023-12-15": 141658,
-  "2023-12-16": 142102,
-  "2023-12-17": 142595,
-  "2023-12-18": 143067,
-  "2023-12-19": 143510,
-  "2023-12-20": 143992,
-  "2023-12-21": 144459,
-  "2023-12-22": 144873,
-  "2023-12-23": 145355,
-  "2023-12-24": 145833,
-  "2023-12-25": 146262,
-  "2023-12-26": 146611,
-  "2023-12-27": 147021,
-  "2023-12-30": 148419,
-  "2023-12-31": 149002,
-  "2024-01-01": 149710,
-  "2024-01-02": 150341,
-  "2024-01-03": 150921
+  "2024-01-17": 157112,
+  "date_first_scraped": "2023-07-22",
+  "description": "\ud83d\udc30 This Is NewJeans. The essential tracks, all in one playlist. \ud83d\udc07",
+  "name": "This Is NewJeans",
+  "tracks": [
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11878,
+      "name": "[DANIELLE] Spoiler on Bunnyland #1",
+      "url": "https://open.spotify.com/track/0mOh0t6IP8L7xgc5TVE7J4"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21788,
+      "name": "[HAERIN] Spoiler on Bunnyland #2",
+      "url": "https://open.spotify.com/track/7wCsmqRyZe9pdGeRLD1xw7"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18018,
+      "name": "[HANNI] What Bunnies want",
+      "url": "https://open.spotify.com/track/4VrlvJPm7tRQKBc1We5uhR"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14381,
+      "name": "[HYEIN] Gigantic Spotibunini is coming",
+      "url": "https://open.spotify.com/track/2D4mAyZDFK2TaCaXM48kkv"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15181,
+      "name": "[MINJI] Find the Gigantic Spotibunini",
+      "url": "https://open.spotify.com/track/01vqFhR2lAcee9qj84tUE0"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134386,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5fpyAakgFOm4YTXkgfPzvV"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180066,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Attention (250 Remix)",
+      "url": "https://open.spotify.com/track/2nW48vXnZZ5EYka46v7GOk"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Attention (250 Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/4MhgDz4lSj2HtlUcpe3yrd"
+    },
+    {
+      "album": {
+        "name": "Be Who You Are (Real Magic)",
+        "url": "https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189713,
+      "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
+      "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "album": {
+        "name": "A Time Called You (Original Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Beautiful Restriction",
+      "url": "https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235562,
+      "name": "Cookie",
+      "url": "https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Cookie (FRNK Remix)",
+      "url": "https://open.spotify.com/track/5bwpbZBOY0mrmRhZ94c0kW"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Cookie (FRNK Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/2akxtSALPUX8orriSWyDi4"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/5702raF31K9rvD6KZ6sCTo"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Ditto (250 Remix)",
+      "url": "https://open.spotify.com/track/6JVXVLqCPaodBSEwRFUN8w"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "Ditto (250 Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/3dCCHYqCAMdm1GCuklUaZG"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36226,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/1wUnuiXMMvhudmzvcCtlZP"
+    },
+    {
+      "album": {
+        "name": "GODS",
+        "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220878,
+      "name": "GODS",
+      "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/5expoVGQPvXuwBBFuNGqBd"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Hurt (250 Remix)",
+      "url": "https://open.spotify.com/track/2gWWYL6iXZKkOqCE3TQHBM"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "Hurt (250 Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/1q9V1vsIEehAm2hDT6l53g"
+    },
+    {
+      "album": {
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Hype Boy",
+      "url": "https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hype Boy (250 Remix)",
+      "url": "https://open.spotify.com/track/6CUKsv928uT4561qJovhhG"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251000,
+      "name": "Hype Boy (250 Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/6tU4EeTSSawN9sbfAjWPX4"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23056,
+      "name": "Intro_ Bunnyland",
+      "url": "https://open.spotify.com/track/1tLIYUEPkDbKAuQCAIsnja"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 6740,
+      "name": "Intro_ This Is NewJeans",
+      "url": "https://open.spotify.com/track/5aeLrNV2fRPnfdX8lyOlqd"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108986,
+      "name": "New Jeans",
+      "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'OMG'",
+        "url": "https://open.spotify.com/album/45ozep8uHHnj5CCittuyXj"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/65FftemJ1DbbZ45DUfHJXE"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "OMG (FRNK Remix)",
+      "url": "https://open.spotify.com/track/4yjDMKCAeLovlo9ih0AgXW"
+    },
+    {
+      "album": {
+        "name": "NJWMX",
+        "url": "https://open.spotify.com/album/6XRGc3GNodkhSrPwHnx1KX"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "OMG (FRNK Remix) (Instrumental)",
+      "url": "https://open.spotify.com/track/2oLVT9Lo0SavCNpGw4WfPp"
+    },
+    {
+      "album": {
+        "name": "NewJeans X MY DEMON",
+        "url": "https://open.spotify.com/album/31chdu7JhVd0sC9X7sURNb"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192411,
+      "name": "Our Night is more beautiful than your Day",
+      "url": "https://open.spotify.com/track/11YovYUVkZdLyOFncbecWL"
+    },
+    {
+      "album": {
+        "name": "This Is NewJeans audio liners",
+        "url": "https://open.spotify.com/album/2ayInSVQiVBiyzqWOgZrEw"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 9342,
+      "name": "Outro_ Message from NewJeans",
+      "url": "https://open.spotify.com/track/2XPY4j5oDiu6De1Z4Y9TIO"
+    },
+    {
+      "album": {
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154194,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"
+    },
+    {
+      "album": {
+        "name": "Zero (J.I.D Remix)",
+        "url": "https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224681,
+      "name": "Zero (J.I.D Remix)",
+      "url": "https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVGwK1DVdGDJ"
 }

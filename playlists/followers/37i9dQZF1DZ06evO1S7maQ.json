@@ -1,717 +1,1799 @@
 {
-  "2022-01-12": 490019,
-  "2022-01-13": 490019,
-  "2022-01-14": 490062,
-  "2022-01-15": 490441,
-  "2022-01-16": 490448,
-  "2022-01-17": 490590,
-  "2022-01-18": 490601,
-  "2022-01-19": 490697,
-  "2022-01-20": 490772,
-  "2022-01-21": 490844,
-  "2022-01-22": 490957,
-  "2022-01-23": 491110,
-  "2022-01-24": 491229,
-  "2022-01-25": 491288,
-  "2022-01-26": 491354,
-  "2022-01-27": 491419,
-  "2022-01-28": 491482,
-  "2022-01-29": 491553,
-  "2022-01-30": 491682,
-  "2022-01-31": 491793,
-  "2022-02-01": 491857,
-  "2022-02-02": 491927,
-  "2022-02-03": 492015,
-  "2022-02-04": 492145,
-  "2022-02-05": 492255,
-  "2022-02-06": 492362,
-  "2022-02-07": 492456,
-  "2022-02-08": 492520,
-  "2022-02-09": 492611,
-  "2022-02-10": 492680,
-  "2022-02-11": 492775,
-  "2022-02-12": 492856,
-  "2022-02-13": 492963,
-  "2022-02-14": 493070,
-  "2022-02-15": 493121,
-  "2022-02-16": 493164,
-  "2022-02-17": 493189,
-  "2022-02-18": 493218,
-  "2022-02-19": 493269,
-  "2022-02-20": 493389,
-  "2022-02-21": 493461,
-  "2022-02-22": 493518,
-  "2022-02-23": 493562,
-  "2022-02-24": 493610,
-  "2022-02-25": 493657,
-  "2022-02-26": 493750,
-  "2022-02-27": 493982,
-  "2022-02-28": 493982,
-  "2022-03-01": 494067,
-  "2022-03-02": 494136,
-  "2022-03-03": 494200,
-  "2022-03-04": 494287,
-  "2022-03-05": 494386,
-  "2022-03-06": 494499,
-  "2022-03-07": 494567,
-  "2022-03-08": 494649,
-  "2022-03-09": 494716,
-  "2022-03-10": 494809,
-  "2022-03-11": 494908,
-  "2022-03-12": 494991,
-  "2022-03-13": 495093,
-  "2022-03-14": 495194,
-  "2022-03-15": 495253,
-  "2022-03-16": 495332,
-  "2022-03-17": 495391,
-  "2022-03-18": 495491,
-  "2022-03-19": 495562,
-  "2022-03-20": 495562,
-  "2022-03-21": 495743,
-  "2022-03-22": 495815,
-  "2022-03-23": 495902,
-  "2022-03-24": 495977,
-  "2022-03-25": 496057,
-  "2022-03-26": 496151,
-  "2022-03-27": 496266,
-  "2022-03-28": 496360,
-  "2022-03-30": 496496,
-  "2022-03-31": 496596,
-  "2022-04-01": 496662,
-  "2022-04-02": 496744,
-  "2022-04-03": 496832,
-  "2022-04-04": 496931,
-  "2022-04-05": 497014,
-  "2022-04-06": 497080,
-  "2022-04-07": 497146,
-  "2022-04-08": 497233,
-  "2022-04-09": 497298,
-  "2022-04-10": 497523,
-  "2022-04-11": 497589,
-  "2022-04-12": 497584,
-  "2022-04-13": 497656,
-  "2022-04-14": 497737,
-  "2022-04-15": 497829,
-  "2022-04-16": 497961,
-  "2022-04-17": 498075,
-  "2022-04-18": 498196,
-  "2022-04-19": 498278,
-  "2022-04-20": 498368,
-  "2022-04-21": 498434,
-  "2022-04-22": 498519,
-  "2022-04-23": 498601,
-  "2022-04-24": 498722,
-  "2022-04-25": 498846,
-  "2022-04-26": 498903,
-  "2022-04-27": 498966,
-  "2022-04-28": 499041,
-  "2022-04-29": 499180,
-  "2022-04-30": 499310,
-  "2022-05-01": 499457,
-  "2022-05-02": 499457,
-  "2022-05-03": 499561,
-  "2022-05-04": 499652,
-  "2022-05-05": 499766,
-  "2022-05-06": 499850,
-  "2022-05-07": 499981,
-  "2022-05-08": 500159,
-  "2022-05-09": 500183,
-  "2022-05-10": 500296,
-  "2022-05-11": 500369,
-  "2022-05-12": 500514,
-  "2022-05-13": 500640,
-  "2022-05-14": 500794,
-  "2022-05-15": 500913,
-  "2022-05-16": 501018,
-  "2022-05-17": 501125,
-  "2022-05-18": 501210,
-  "2022-05-19": 501332,
-  "2022-05-20": 501465,
-  "2022-05-21": 501704,
-  "2022-05-22": 501704,
-  "2022-05-23": 501834,
-  "2022-05-24": 501963,
-  "2022-05-25": 502405,
-  "2022-05-26": 502638,
-  "2022-05-27": 502847,
-  "2022-05-28": 503114,
-  "2022-05-29": 503326,
-  "2022-05-30": 503501,
-  "2022-05-31": 503702,
-  "2022-06-01": 504074,
-  "2022-06-02": 504084,
-  "2022-06-03": 504335,
-  "2022-06-04": 504522,
-  "2022-06-05": 504719,
-  "2022-06-06": 504838,
-  "2022-06-07": 505014,
-  "2022-06-08": 505153,
-  "2022-06-09": 505315,
-  "2022-06-10": 505468,
-  "2022-06-11": 505628,
-  "2022-06-12": 505787,
-  "2022-06-13": 505925,
-  "2022-06-14": 506053,
-  "2022-06-15": 506188,
-  "2022-06-16": 506321,
-  "2022-06-17": 506438,
-  "2022-06-18": 506606,
-  "2022-06-19": 506858,
-  "2022-06-20": 506858,
-  "2022-06-21": 506946,
-  "2022-06-22": 507166,
-  "2022-06-23": 507166,
-  "2022-06-24": 507265,
-  "2022-06-25": 507398,
-  "2022-06-26": 507561,
-  "2022-06-27": 507735,
-  "2022-06-28": 507882,
-  "2022-06-29": 508022,
-  "2022-06-30": 508148,
-  "2022-07-01": 508284,
-  "2022-07-02": 508461,
-  "2022-07-03": 508613,
-  "2022-07-04": 508729,
-  "2022-07-05": 508866,
-  "2022-07-06": 508866,
-  "2022-07-07": 509107,
-  "2022-07-08": 509237,
-  "2022-07-09": 509385,
-  "2022-07-10": 509523,
-  "2022-07-11": 509664,
-  "2022-07-12": 509793,
-  "2022-07-13": 509963,
-  "2022-07-14": 510113,
-  "2022-07-15": 510299,
-  "2022-07-16": 510513,
-  "2022-07-17": 510738,
-  "2022-07-18": 510932,
-  "2022-07-19": 511084,
-  "2022-07-20": 511224,
-  "2022-07-21": 511384,
-  "2022-07-22": 511603,
-  "2022-07-23": 511782,
-  "2022-07-24": 511999,
-  "2022-07-25": 512187,
-  "2022-07-26": 512330,
-  "2022-07-27": 512485,
-  "2022-07-28": 512627,
-  "2022-07-29": 512766,
-  "2022-07-30": 513112,
-  "2022-07-31": 513112,
-  "2022-08-01": 513278,
-  "2022-08-02": 513525,
-  "2022-08-03": 513525,
-  "2022-08-04": 513645,
-  "2022-08-05": 513763,
-  "2022-08-06": 513889,
-  "2022-08-07": 514056,
-  "2022-08-08": 514183,
-  "2022-08-09": 514308,
-  "2022-08-10": 514403,
-  "2022-08-11": 514516,
-  "2022-08-12": 514651,
-  "2022-08-13": 514788,
-  "2022-08-14": 514959,
-  "2022-08-15": 515075,
-  "2022-08-16": 515166,
-  "2022-08-17": 515264,
-  "2022-08-18": 515360,
-  "2022-08-19": 515469,
-  "2022-08-20": 515600,
-  "2022-08-21": 515769,
-  "2022-08-22": 515888,
-  "2022-08-23": 515979,
-  "2022-08-24": 516058,
-  "2022-08-25": 516171,
-  "2022-08-26": 516276,
-  "2022-08-27": 516401,
-  "2022-08-28": 516529,
-  "2022-08-29": 516659,
-  "2022-08-30": 516732,
-  "2022-08-31": 516788,
-  "2022-09-01": 516862,
-  "2022-09-02": 516928,
-  "2022-09-03": 516965,
-  "2022-09-04": 517079,
-  "2022-09-05": 517174,
-  "2022-09-06": 517243,
-  "2022-09-07": 517324,
-  "2022-09-09": 517495,
-  "2022-09-10": 517606,
-  "2022-09-11": 517712,
-  "2022-09-12": 517814,
-  "2022-09-13": 517900,
-  "2022-09-15": 518085,
-  "2022-09-16": 518194,
-  "2022-09-17": 518321,
-  "2022-09-18": 518467,
-  "2022-09-19": 518635,
-  "2022-09-20": 518721,
-  "2022-09-21": 518838,
-  "2022-09-22": 518960,
-  "2022-09-23": 519161,
-  "2022-09-24": 519161,
-  "2022-09-25": 519591,
-  "2022-09-26": 519770,
-  "2022-09-27": 519917,
-  "2022-09-28": 520084,
-  "2022-09-29": 520220,
-  "2022-09-30": 520409,
-  "2022-10-01": 520651,
-  "2022-10-02": 520847,
-  "2022-10-03": 521037,
-  "2022-10-04": 521164,
-  "2022-10-05": 521312,
-  "2022-10-06": 521486,
-  "2022-10-07": 521643,
-  "2022-10-08": 521817,
-  "2022-10-09": 522159,
-  "2022-10-10": 522190,
-  "2022-10-11": 522303,
-  "2022-10-12": 522442,
-  "2022-10-13": 522603,
-  "2022-10-14": 522777,
-  "2022-10-15": 523008,
-  "2022-10-16": 523235,
-  "2022-10-17": 523445,
-  "2022-10-18": 523589,
-  "2022-10-19": 523758,
-  "2022-10-20": 523939,
-  "2022-10-21": 524129,
-  "2022-10-22": 524361,
-  "2022-10-23": 524570,
-  "2022-10-24": 524744,
-  "2022-10-25": 524905,
-  "2022-10-26": 525057,
-  "2022-10-27": 525229,
-  "2022-10-28": 525387,
-  "2022-10-29": 525606,
-  "2022-10-30": 525832,
-  "2022-10-31": 526023,
-  "2022-11-01": 526203,
-  "2022-11-02": 526388,
-  "2022-11-03": 526581,
-  "2022-11-04": 526754,
-  "2022-11-05": 526976,
-  "2022-11-06": 527188,
-  "2022-11-07": 527343,
-  "2022-11-08": 527511,
-  "2022-11-09": 527695,
-  "2022-11-10": 527856,
-  "2022-11-11": 528055,
-  "2022-11-12": 528392,
-  "2022-11-13": 528701,
-  "2022-11-14": 528972,
-  "2022-11-15": 529228,
-  "2022-11-16": 529453,
-  "2022-11-17": 529664,
-  "2022-11-18": 529746,
-  "2022-11-19": 529800,
-  "2022-11-20": 529991,
-  "2022-11-21": 530222,
-  "2022-11-22": 530435,
-  "2022-11-23": 530595,
-  "2022-11-24": 530954,
-  "2022-11-25": 531245,
-  "2022-11-26": 531431,
-  "2022-11-27": 531648,
-  "2022-11-28": 531836,
-  "2022-11-29": 532027,
-  "2022-11-30": 532198,
-  "2022-12-01": 532364,
-  "2022-12-02": 532486,
-  "2022-12-03": 532764,
-  "2022-12-04": 532986,
-  "2022-12-05": 533188,
-  "2022-12-06": 533356,
-  "2022-12-07": 533528,
-  "2022-12-08": 533675,
-  "2022-12-09": 533835,
-  "2022-12-10": 533982,
-  "2022-12-11": 534183,
-  "2022-12-12": 534370,
-  "2022-12-13": 534477,
-  "2022-12-14": 534610,
-  "2022-12-15": 534747,
-  "2022-12-16": 534893,
-  "2022-12-17": 535046,
-  "2022-12-18": 535215,
-  "2022-12-19": 535310,
-  "2022-12-20": 535613,
-  "2022-12-21": 535613,
-  "2022-12-22": 535762,
-  "2022-12-24": 536117,
-  "2022-12-25": 536324,
-  "2022-12-26": 536533,
-  "2022-12-27": 536732,
-  "2022-12-28": 536902,
-  "2022-12-29": 537106,
-  "2022-12-30": 537298,
-  "2022-12-31": 537510,
-  "2023-01-01": 537793,
-  "2023-01-02": 537963,
-  "2023-01-03": 538144,
-  "2023-01-04": 538289,
-  "2023-01-05": 538456,
-  "2023-01-06": 538601,
-  "2023-01-07": 538846,
-  "2023-01-08": 538899,
-  "2023-01-09": 539079,
-  "2023-01-10": 539192,
-  "2023-01-11": 539359,
-  "2023-01-12": 539512,
-  "2023-01-13": 539655,
-  "2023-01-14": 539999,
-  "2023-01-15": 540050,
-  "2023-01-16": 540230,
-  "2023-01-17": 540376,
-  "2023-01-18": 540504,
-  "2023-01-19": 540662,
-  "2023-01-20": 540825,
-  "2023-01-21": 540992,
-  "2023-01-22": 541180,
-  "2023-01-23": 541360,
-  "2023-01-24": 541512,
-  "2023-01-25": 541659,
-  "2023-01-26": 541797,
-  "2023-01-27": 541952,
-  "2023-01-28": 542100,
-  "2023-01-29": 542287,
-  "2023-01-30": 542460,
-  "2023-01-31": 542460,
-  "2023-02-01": 542732,
-  "2023-02-02": 542845,
-  "2023-02-03": 543050,
-  "2023-02-04": 543235,
-  "2023-02-05": 543496,
-  "2023-02-06": 543721,
-  "2023-02-07": 543874,
-  "2023-02-08": 544187,
-  "2023-02-09": 544187,
-  "2023-02-10": 544378,
-  "2023-02-11": 544577,
-  "2023-02-12": 544977,
-  "2023-02-13": 545115,
-  "2023-02-14": 545115,
-  "2023-02-15": 545326,
-  "2023-02-16": 545520,
-  "2023-02-17": 545727,
-  "2023-02-18": 546204,
-  "2023-02-19": 546228,
-  "2023-02-20": 546431,
-  "2023-02-21": 546615,
-  "2023-02-22": 546762,
-  "2023-02-23": 546944,
-  "2023-02-24": 547162,
-  "2023-02-25": 547476,
-  "2023-02-26": 547640,
-  "2023-02-27": 548053,
-  "2023-02-28": 548053,
-  "2023-03-01": 548208,
-  "2023-03-02": 548392,
-  "2023-03-03": 548592,
-  "2023-03-04": 548769,
-  "2023-03-05": 549208,
-  "2023-03-06": 549208,
-  "2023-03-07": 549376,
-  "2023-03-08": 549552,
-  "2023-03-09": 549702,
-  "2023-03-10": 549874,
-  "2023-03-11": 550041,
-  "2023-03-12": 550277,
-  "2023-03-13": 550455,
-  "2023-03-14": 550601,
-  "2023-03-15": 550750,
-  "2023-03-16": 550750,
-  "2023-03-17": 550750,
-  "2023-03-18": 551266,
-  "2023-03-19": 551266,
-  "2023-03-20": 551650,
-  "2023-03-21": 551794,
-  "2023-03-22": 551949,
-  "2023-03-23": 552124,
-  "2023-03-24": 552124,
-  "2023-03-25": 552518,
-  "2023-03-26": 552776,
-  "2023-03-27": 553013,
-  "2023-03-28": 553150,
-  "2023-03-29": 553345,
-  "2023-03-30": 553681,
-  "2023-03-31": 553681,
-  "2023-04-01": 553857,
-  "2023-04-02": 554109,
-  "2023-04-03": 554326,
-  "2023-04-04": 554519,
-  "2023-04-05": 554714,
-  "2023-04-06": 554882,
-  "2023-04-07": 555071,
-  "2023-04-09": 555518,
-  "2023-04-10": 555736,
-  "2023-04-11": 556098,
-  "2023-04-12": 556098,
-  "2023-04-13": 556270,
-  "2023-04-14": 556435,
-  "2023-04-15": 556659,
-  "2023-04-16": 556883,
-  "2023-04-17": 557105,
-  "2023-04-18": 557242,
-  "2023-04-19": 557431,
-  "2023-04-20": 557614,
-  "2023-04-21": 557790,
-  "2023-04-22": 558050,
-  "2023-04-23": 558315,
-  "2023-04-24": 558529,
-  "2023-04-25": 558683,
-  "2023-04-26": 558873,
-  "2023-04-27": 559114,
-  "2023-04-28": 559407,
-  "2023-04-29": 559844,
-  "2023-04-30": 560448,
-  "2023-05-01": 560889,
-  "2023-05-02": 561289,
-  "2023-05-03": 561551,
-  "2023-05-04": 561783,
-  "2023-05-05": 562046,
-  "2023-05-06": 562351,
-  "2023-05-07": 562676,
-  "2023-05-08": 562976,
-  "2023-05-09": 563244,
-  "2023-05-10": 563458,
-  "2023-05-11": 563715,
-  "2023-05-12": 563940,
-  "2023-05-13": 564260,
-  "2023-05-14": 564534,
-  "2023-05-15": 564843,
-  "2023-05-16": 565057,
-  "2023-05-17": 565303,
-  "2023-05-18": 565624,
-  "2023-05-19": 565919,
-  "2023-05-20": 566455,
-  "2023-05-21": 566455,
-  "2023-05-22": 566455,
-  "2023-05-23": 566993,
-  "2023-05-24": 567416,
-  "2023-05-25": 567465,
-  "2023-05-26": 567779,
-  "2023-05-27": 568091,
-  "2023-05-28": 568431,
-  "2023-05-29": 568431,
-  "2023-05-30": 568945,
-  "2023-05-31": 569270,
-  "2023-06-01": 569643,
-  "2023-06-02": 569887,
-  "2023-06-03": 570157,
-  "2023-06-04": 570425,
-  "2023-06-05": 570663,
-  "2023-06-06": 570826,
-  "2023-06-07": 571061,
-  "2023-06-08": 571269,
-  "2023-06-09": 571500,
-  "2023-06-10": 571702,
-  "2023-06-11": 571950,
-  "2023-06-12": 572211,
-  "2023-06-13": 572406,
-  "2023-06-14": 572626,
-  "2023-06-15": 572840,
-  "2023-06-16": 573061,
-  "2023-06-17": 573330,
-  "2023-06-18": 573574,
-  "2023-06-19": 573909,
-  "2023-06-20": 574147,
-  "2023-06-21": 574363,
-  "2023-06-22": 574614,
-  "2023-06-23": 574891,
-  "2023-06-24": 575157,
-  "2023-06-25": 575441,
-  "2023-06-26": 575748,
-  "2023-06-27": 575984,
-  "2023-06-28": 576201,
-  "2023-06-29": 576452,
-  "2023-06-30": 576713,
-  "2023-07-01": 577414,
-  "2023-07-02": 577414,
-  "2023-07-03": 577709,
-  "2023-07-04": 577970,
-  "2023-07-05": 578250,
-  "2023-07-06": 578738,
-  "2023-07-07": 578738,
-  "2023-07-08": 579094,
-  "2023-07-09": 579400,
-  "2023-07-10": 579672,
-  "2023-07-11": 579884,
-  "2023-07-12": 580065,
-  "2023-07-13": 580302,
-  "2023-07-14": 580528,
-  "2023-07-15": 580718,
-  "2023-07-16": 581044,
-  "2023-07-17": 581327,
-  "2023-07-18": 581546,
-  "2023-07-19": 581759,
-  "2023-07-20": 581962,
-  "2023-07-21": 582195,
-  "2023-07-22": 582557,
-  "2023-07-23": 582915,
-  "2023-07-24": 583186,
-  "2023-07-25": 583382,
-  "2023-07-26": 583576,
-  "2023-07-27": 583811,
-  "2023-07-28": 584019,
-  "2023-07-29": 584254,
-  "2023-07-30": 584473,
-  "2023-07-31": 584640,
-  "2023-08-01": 584813,
-  "2023-08-02": 584940,
-  "2023-08-03": 585193,
-  "2023-08-04": 585329,
-  "2023-08-05": 585519,
-  "2023-08-06": 586139,
-  "2023-08-07": 586139,
-  "2023-08-08": 586397,
-  "2023-08-09": 586648,
-  "2023-08-10": 586903,
-  "2023-08-11": 587091,
-  "2023-08-12": 587091,
-  "2023-08-13": 587091,
-  "2023-08-14": 587568,
-  "2023-08-15": 587568,
-  "2023-08-16": 587568,
-  "2023-08-17": 587979,
-  "2023-08-18": 587979,
-  "2023-08-19": 587979,
-  "2023-08-20": 588419,
-  "2023-08-21": 588419,
-  "2023-08-22": 588616,
-  "2023-08-23": 588616,
-  "2023-08-24": 588817,
-  "2023-08-25": 588817,
-  "2023-08-26": 589056,
-  "2023-08-27": 589056,
-  "2023-08-28": 589331,
-  "2023-08-29": 589331,
-  "2023-08-30": 589331,
-  "2023-08-31": 589679,
-  "2023-09-01": 589781,
-  "2023-09-02": 589781,
-  "2023-09-03": 590121,
-  "2023-09-04": 590121,
-  "2023-09-05": 590121,
-  "2023-09-06": 590445,
-  "2023-09-07": 590445,
-  "2023-09-08": 590445,
-  "2023-09-09": 590445,
-  "2023-09-10": 590989,
-  "2023-09-11": 590989,
-  "2023-09-12": 590989,
-  "2023-09-13": 591266,
-  "2023-09-14": 591266,
-  "2023-09-15": 591266,
-  "2023-09-16": 591566,
-  "2023-09-17": 591566,
-  "2023-09-18": 591566,
-  "2023-09-19": 591865,
-  "2023-09-20": 591865,
-  "2023-09-21": 591865,
-  "2023-09-22": 592110,
-  "2023-09-23": 592110,
-  "2023-09-24": 592110,
-  "2023-09-25": 592110,
-  "2023-09-26": 592588,
-  "2023-09-27": 592588,
-  "2023-09-28": 592588,
-  "2023-09-29": 592588,
-  "2023-09-30": 592588,
-  "2023-10-01": 592588,
-  "2023-10-02": 593200,
-  "2023-10-03": 593200,
-  "2023-10-04": 593200,
-  "2023-10-05": 593452,
-  "2023-10-06": 593452,
-  "2023-10-07": 593452,
-  "2023-10-08": 593452,
-  "2023-10-09": 593452,
-  "2023-10-10": 593452,
-  "2023-10-11": 593860,
-  "2023-10-12": 593860,
-  "2023-10-13": 593860,
-  "2023-10-14": 593860,
-  "2023-10-15": 593860,
-  "2023-10-16": 593860,
-  "2023-10-17": 593860,
-  "2023-10-18": 593860,
-  "2023-10-19": 593860,
-  "2023-10-20": 593860,
-  "2023-10-21": 593860,
-  "2023-10-22": 593860,
-  "2023-10-23": 593860,
-  "2023-10-24": 593860,
-  "2023-10-25": 593860,
-  "2023-10-26": 593860,
-  "2023-10-27": 593860,
-  "2023-10-28": 593860,
-  "2023-10-29": 593860,
-  "2023-10-30": 593860,
-  "2023-10-31": 593860,
-  "2023-11-01": 593860,
-  "2023-11-02": 593860,
-  "2023-11-03": 593860,
-  "2023-11-04": 593860,
-  "2023-11-05": 593860,
-  "2023-11-06": 593860,
-  "2023-11-07": 593860,
-  "2023-11-08": 593860,
-  "2023-11-09": 593860,
-  "2023-11-10": 593860,
-  "2023-11-11": 597258,
-  "2023-11-12": 597258,
-  "2023-11-13": 597258,
-  "2023-11-14": 597258,
-  "2023-11-15": 597258,
-  "2023-11-16": 597258,
-  "2023-11-17": 597258,
-  "2023-11-18": 597258,
-  "2023-11-19": 597258,
-  "2023-11-20": 597258,
-  "2023-11-21": 597258,
-  "2023-11-22": 597258,
-  "2023-11-23": 597258,
-  "2023-11-24": 597258,
-  "2023-11-25": 597258,
-  "2023-11-26": 597258,
-  "2023-11-27": 597258,
-  "2023-11-28": 597258,
-  "2023-11-29": 597258,
-  "2023-11-30": 597258,
-  "2023-12-01": 597258,
-  "2023-12-02": 597258,
-  "2023-12-03": 597258,
-  "2023-12-04": 597258,
-  "2023-12-05": 597258,
-  "2023-12-06": 597258,
-  "2023-12-07": 597258,
-  "2023-12-08": 597258,
-  "2023-12-09": 597258,
-  "2023-12-10": 597258,
-  "2023-12-11": 597258,
-  "2023-12-12": 597258,
-  "2023-12-13": 597258,
-  "2023-12-14": 600047,
-  "2023-12-15": 600083,
-  "2023-12-16": 600146,
-  "2023-12-17": 600256,
-  "2023-12-18": 600333,
-  "2023-12-19": 600392,
-  "2023-12-20": 600464,
-  "2023-12-21": 600520,
-  "2023-12-22": 600584,
-  "2023-12-23": 600644,
-  "2023-12-24": 600731,
-  "2023-12-25": 600813,
-  "2023-12-26": 600911,
-  "2023-12-27": 600980,
-  "2023-12-30": 601246,
-  "2023-12-31": 601341,
-  "2024-01-01": 601437,
-  "2024-01-02": 601506,
-  "2024-01-03": 601576
+  "2024-01-17": 601954,
+  "date_first_scraped": "2022-01-12",
+  "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
+  "name": "This Is Bruce Springsteen",
+  "tracks": [
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 272040,
+      "name": "Adam Raised a Cain",
+      "url": "https://open.spotify.com/track/39J5RXFJG6MCjHql3a0Hat"
+    },
+    {
+      "album": {
+        "name": "Addicted to Romance (from the film 'She Came to Me')",
+        "url": "https://open.spotify.com/album/1uV57fy7S2AH4DxfgmJDRd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Patti Scialfa",
+          "url": "https://open.spotify.com/artist/6kZQOOVmBEdPxeWYe4xbDj"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 185013,
+      "name": "Addicted to Romance - from the film 'She Came to Me'",
+      "url": "https://open.spotify.com/track/0SQ4VQXznjjfueQeMh0Ve1"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 174720,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/2LRkPUjFJd4YNHZqAPxahC"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236653,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390146,
+      "name": "Backstreets",
+      "url": "https://open.spotify.com/track/4cKJsZuzbNBpdxeMC9pBQG"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242453,
+      "name": "Badlands",
+      "url": "https://open.spotify.com/track/0M1YQiRGel1tTMjA3orfRd"
+    },
+    {
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Because the Night",
+      "url": "https://open.spotify.com/track/47pgnnmY0R0spkwAMMWpNq"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
+        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-19",
+      "duration_ms": 318626,
+      "name": "Because the Night - Live at Nassau Coliseum, Uniondale, NY - December 1980",
+      "url": "https://open.spotify.com/track/24qoogZedlX1wdR4AbzTSB"
+    },
+    {
+      "album": {
+        "name": "Greetings from Asbury Park, N.J.",
+        "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 304440,
+      "name": "Blinded By The Light",
+      "url": "https://open.spotify.com/track/1VyDQtfhX6gqhWTGU7Oe8X"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278680,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269920,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s"
+    },
+    {
+      "album": {
+        "name": "The Live Series: Songs of New Jersey",
+        "url": "https://open.spotify.com/album/6udFcTroKsujHZ8abvReOd"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 278533,
+      "name": "Born to Run - Live at Brendan Byrne Arena, E. Rutherford, NJ - 7/9/1981",
+      "url": "https://open.spotify.com/track/58tSKcqJ0afkdgiHIdgUPc"
+    },
+    {
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254840,
+      "name": "Brilliant Disguise",
+      "url": "https://open.spotify.com/track/0nqbZ17t9v52SCemAm1QP0"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 166240,
+      "name": "Candy's Room",
+      "url": "https://open.spotify.com/track/19aoReRYJtOo2vWKPffECT"
+    },
+    {
+      "album": {
+        "name": "Chinatown",
+        "url": "https://open.spotify.com/album/10fSu9RLAJlasIup4ylHPM"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247968,
+      "name": "Chinatown",
+      "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 205986,
+      "name": "Cover Me",
+      "url": "https://open.spotify.com/track/4U7NhC2rQTAhH7dw7H0goB"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 241306,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-07",
+      "duration_ms": 272426,
+      "name": "Darkness on the Edge of Town",
+      "url": "https://open.spotify.com/track/6fBy4h0spon7gkmZroCRmR"
+    },
+    {
+      "album": {
+        "name": "Strictly A One-Eyed Jack",
+        "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 219333,
+      "name": "Did You Say Such A Thing (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/7tzYZF0cVEwSVdzDFlg1RP"
+    },
+    {
+      "album": {
+        "name": "Do I Love You (Indeed I Do)",
+        "url": "https://open.spotify.com/album/01cCH740dJnp3nhkWWWBzJ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147040,
+      "name": "Do I Love You (Indeed I Do)",
+      "url": "https://open.spotify.com/track/0JsyYwcVC0PwaCewYnEBYJ"
+    },
+    {
+      "album": {
+        "name": "Don't Play That Song",
+        "url": "https://open.spotify.com/album/3bLAXYwCPRW9xSk91gCgOY"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 214773,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/2oedUBDUmEwbmNnC2HJJn8"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 214773,
+      "name": "Don't Play That Song",
+      "url": "https://open.spotify.com/track/5LWhhHChX9bC9fsSKyWA9F"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215426,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4a0oZYU2ntSUof4lkm2PCl"
+    },
+    {
+      "album": {
+        "name": "Dustland (feat. Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/5KOK8MOxvNzrLuqbLJhnVG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264507,
+      "name": "Dustland (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/6F3AStga2KRSJVZvVA5L3c"
+    },
+    {
+      "album": {
+        "name": "The Promise",
+        "url": "https://open.spotify.com/album/7oR8aZ4ECropTmxPydooZ9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/0Tk2agqmwJajtoX6sCxngb"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 259173,
+      "name": "Girls In Their Summer Clothes",
+      "url": "https://open.spotify.com/track/5kVSDFEAqgjKtcD6tRvRzY"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254733,
+      "name": "Glory Days",
+      "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "album": {
+        "name": "Greetings from Asbury Park, N.J.",
+        "url": "https://open.spotify.com/album/4hQ5RfHzq1SGJNfZWrpg7C"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 184973,
+      "name": "Growin' Up",
+      "url": "https://open.spotify.com/track/4Gpao0RtOcrBuedyutJWaP"
+    },
+    {
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "Hello Sunshine",
+      "url": "https://open.spotify.com/track/5bpaHLJ08GNBKW35ZfCYJy"
+    },
+    {
+      "album": {
+        "name": "History Books",
+        "url": "https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "History Books (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/0ORiGVGhQ3Mvb3F18DONlV"
+    },
+    {
+      "album": {
+        "name": "History Books (feat. Bruce Springsteen)",
+        "url": "https://open.spotify.com/album/4WsKcrfETIMvKNJPnsl5KX"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 233320,
+      "name": "History Books (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/621bFmNYKldPwZQExIK3VU"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-08",
+      "duration_ms": 270280,
+      "name": "House Of A Thousand Guitars",
+      "url": "https://open.spotify.com/track/1SlatjHQbN3SO0JERD4Mwk"
+    },
+    {
+      "album": {
+        "name": "Human Touch",
+        "url": "https://open.spotify.com/album/5vza8Bd9yp7kRX45QsUljF"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388800,
+      "name": "Human Touch",
+      "url": "https://open.spotify.com/track/1o53HbxmOy5TzThJdBaDZb"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "Hungry Heart",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT"
+    },
+    {
+      "album": {
+        "name": "The Live Series: Songs on Keys",
+        "url": "https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 235699,
+      "name": "I Wish I Were Blind - Live at Van Andel Arena, Grand Rapids, MI - 8/3/2005",
+      "url": "https://open.spotify.com/track/6Y0e8tZkyR5dDxwpDMaPxf"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 204973,
+      "name": "I Wish It Would Rain",
+      "url": "https://open.spotify.com/track/3K6nQf3cw44yC8INLP4xPS"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209306,
+      "name": "I'll See You In My Dreams",
+      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "I'm Goin' Down",
+      "url": "https://open.spotify.com/track/0VkDedVtP7TQDlaCMq9QVx"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155880,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3PzsbWSQdLCKDLxn7YZfkM"
+    },
+    {
+      "album": {
+        "name": "Lucky Town",
+        "url": "https://open.spotify.com/album/1QhxV1m7N8SppKjXmj510h"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "If I Should Fall Behind",
+      "url": "https://open.spotify.com/track/2mOGLiSTUeki1l9t1BBNRQ"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-01",
+      "duration_ms": 410933,
+      "name": "If I Was The Priest",
+      "url": "https://open.spotify.com/track/23iSWEI5GZAGxHcJKYCuiC"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-16",
+      "duration_ms": 409413,
+      "name": "Janey Needs A Shooter",
+      "url": "https://open.spotify.com/track/3S2bActYBlskH5gtanFIMO"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
+        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390320,
+      "name": "Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981",
+      "url": "https://open.spotify.com/track/3kqC9r9ilM63AogQ47RVpu"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 575653,
+      "name": "Jungleland",
+      "url": "https://open.spotify.com/track/3R2q3FCnNIw2XhuEbYtYk6"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 245840,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/1LQDe2LxhReHitq7sdgLcN"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295493,
+      "name": "Letter To You",
+      "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
+    },
+    {
+      "album": {
+        "name": "The Live Series: Songs Of Location",
+        "url": "https://open.spotify.com/album/3f9gSNrcSQxcEjWDSbOxAK"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-27",
+      "duration_ms": 394786,
+      "name": "Lost in the Flood - Live at C.W. Post Dome Auditorium, Greenvale, NY - December 12, 1975",
+      "url": "https://open.spotify.com/track/33ODNuSzPh9ratGzau67Nx"
+    },
+    {
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 358933,
+      "name": "Mary's Place",
+      "url": "https://open.spotify.com/track/0g0MBBxtDRy8Igs0AzSZR4"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279666,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/6dahFmHrgncgVJjsI1ws7e"
+    },
+    {
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 269813,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+    },
+    {
+      "album": {
+        "name": "Nightshift",
+        "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 296906,
+      "name": "Nightshift",
+      "url": "https://open.spotify.com/track/5f25QtKgXtaNcbZOCmVFUL"
+    },
+    {
+      "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 240146,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "One Minute You're Here",
+      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
+    },
+    {
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261826,
+      "name": "One Step Up",
+      "url": "https://open.spotify.com/track/3ICZte49haM8ID7H6LSSjb"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 179506,
+      "name": "Only the Strong Survive",
+      "url": "https://open.spotify.com/track/6at33NMZgSJIp7jNoCuTd7"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257600,
+      "name": "Out In the Street",
+      "url": "https://open.spotify.com/track/1k7CqKKwQu4zIK6DrsuqKG"
+    },
+    {
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 334493,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5aAfwNuKUeDuZd4wkUPlA2"
+    },
+    {
+      "album": {
+        "name": "Tracks",
+        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213066,
+      "name": "Pink Cadillac - Single B-Side - 1984",
+      "url": "https://open.spotify.com/track/3zG1YiTu53KCt8W56psgs2"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "Prove It All Night",
+      "url": "https://open.spotify.com/track/0Ye9OGxiHF3jylblTCuX7Q"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts",
+        "url": "https://open.spotify.com/album/00V1MSXp0ral9K394aItww"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-02",
+      "duration_ms": 358986,
+      "name": "Prove It All Night - Live at Madison Square Garden, New York, NY - 09/22/79",
+      "url": "https://open.spotify.com/track/0GmzNYfOaekGOARHoPTqxO"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412973,
+      "name": "Racing in the Street",
+      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN"
+    },
+    {
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/7A830iYFt7vb0n0aMLyj5Z"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199066,
+      "name": "Radio Nowhere",
+      "url": "https://open.spotify.com/track/7zrHnJ87htwgS20PzFmgTr"
+    },
+    {
+      "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420840,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
+    },
+    {
+      "album": {
+        "name": "Tracks",
+        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Sad Eyes - Studio Outtake - 1990",
+      "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
+    },
+    {
+      "album": {
+        "name": "Santa Claus Is Comin' to Town (Live at C.W. Post College, Greenvale, NY - December 1975)",
+        "url": "https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 267600,
+      "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
+      "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "album": {
+        "name": "The List",
+        "url": "https://open.spotify.com/album/2ztJpdxupEltRgGuzihTJb"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "Sea Of Heartbreak",
+      "url": "https://open.spotify.com/track/7jOVz43pU3sGMbKdoSBeWU"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266613,
+      "name": "Secret Garden",
+      "url": "https://open.spotify.com/track/68uuz61IqrSJjO6ffO3yHc"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270266,
+      "name": "She's the One",
+      "url": "https://open.spotify.com/track/5St2IxnaIYOPflaomWB3Pz"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Sherry Darling",
+      "url": "https://open.spotify.com/track/5JgS0FY22HtNpFAJTo507k"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        },
+        {
+          "name": "Sam Moore",
+          "url": "https://open.spotify.com/artist/6B0FKbw7fqaxboRuNHi9r3"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 238026,
+      "name": "Soul Days (feat. Sam Moore)",
+      "url": "https://open.spotify.com/track/3a1AyWAQKRSClHI29mqemI"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Tenth Avenue Freeze-Out",
+      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
+    },
+    {
+      "album": {
+        "name": "The Live Series: Songs on Keys",
+        "url": "https://open.spotify.com/album/6pqzdpIh3iUrsuYLehcDq3"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 213499,
+      "name": "Tenth Avenue Freeze-Out - Live at The Shrine, Los Angeles, CA - 11/16/1990- Set 2",
+      "url": "https://open.spotify.com/track/4iMxpkGdGo2sRqYDgOUVHr"
+    },
+    {
+      "album": {
+        "name": "The Ghost Of Tom Joad",
+        "url": "https://open.spotify.com/album/5TmwoxCapHJLw5cdnQupAl"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "The Ghost of Tom Joad",
+      "url": "https://open.spotify.com/track/4RaxnzmTN4bojbbEYtvXjk"
+    },
+    {
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 216773,
+      "name": "The Power Of Prayer",
+      "url": "https://open.spotify.com/track/0bsFL9VF0BQCIvF2cRn0Sk"
+    },
+    {
+      "album": {
+        "name": "Darkness On the Edge of Town",
+        "url": "https://open.spotify.com/album/4KT6G8fj8EEIfsyr75hbgc"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268453,
+      "name": "The Promised Land",
+      "url": "https://open.spotify.com/track/2KQq1pn2eUDEFitdQ4WzzZ"
+    },
+    {
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287040,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301546,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-14",
+      "duration_ms": 224333,
+      "name": "The Sun Ain't Gonna Shine Anymore",
+      "url": "https://open.spotify.com/track/1ppg3cH3NE4gLEwhraZ7jc"
+    },
+    {
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-08",
+      "duration_ms": 243306,
+      "name": "There Goes My Miracle",
+      "url": "https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d"
+    },
+    {
+      "album": {
+        "name": "Bruce Springsteen & The E Street Band Live 1975-85",
+        "url": "https://open.spotify.com/album/4Hbe1M0BDbgMwbw6Tw2fmD"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-17",
+      "duration_ms": 257226,
+      "name": "This Land is Your Land - Live at Nassau Coliseum, Uniondale, NY - December 1980",
+      "url": "https://open.spotify.com/track/4MvJlIpDpdZi4sCXvAhrym"
+    },
+    {
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288720,
+      "name": "Thunder Road",
+      "url": "https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk"
+    },
+    {
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "Tougher Than the Rest",
+      "url": "https://open.spotify.com/track/7i0VrdLCDhvgWXfcT6EQJG"
+    },
+    {
+      "album": {
+        "name": "The Essential Bruce Springsteen (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0ckFRgB1okAecdcOhdkrZL"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 308133,
+      "name": "Trapped - Live at Meadowlands Arena, E. Rutherford, NJ - August 1984",
+      "url": "https://open.spotify.com/track/5xYCSEP2FWHMkVun6GIyDk"
+    },
+    {
+      "album": {
+        "name": "GRRR Live!",
+        "url": "https://open.spotify.com/album/1OMuyzglvKUYkeYUnQm9x2"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 293720,
+      "name": "Tumbling Dice - Live",
+      "url": "https://open.spotify.com/track/4mn5riACKGOZbADntB95wE"
+    },
+    {
+      "album": {
+        "name": "Tunnel Of Love",
+        "url": "https://open.spotify.com/album/5Qcef60m4gcckV24PmPYVq"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309760,
+      "name": "Tunnel of Love",
+      "url": "https://open.spotify.com/track/2rUHBIfbMBB92n1gSfSqwF"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 187400,
+      "name": "Turn Back the Hands of Time",
+      "url": "https://open.spotify.com/track/1UqC0kvyqK0pk7f9MdjBZa"
+    },
+    {
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "Waitin' On A Sunny Day",
+      "url": "https://open.spotify.com/track/7vIyudiO2Tr9hZ2yzfwQmx"
+    },
+    {
+      "album": {
+        "name": "Wasted Days",
+        "url": "https://open.spotify.com/album/2UwZm9HOqn50LEfMb9V1pf"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-25",
+      "duration_ms": 271360,
+      "name": "Wasted Days (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/00KBMCig03dtdMJG4jkrIu"
+    },
+    {
+      "album": {
+        "name": "Strictly A One-Eyed Jack",
+        "url": "https://open.spotify.com/album/2L5XA2EN8XOIIkSiMqbWSY"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-22",
+      "duration_ms": 271360,
+      "name": "Wasted Days (feat. Bruce Springsteen)",
+      "url": "https://open.spotify.com/track/3oWcFWnxGzbcJSrQxZOdBZ"
+    },
+    {
+      "album": {
+        "name": "Western Stars",
+        "url": "https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 278813,
+      "name": "Western Stars",
+      "url": "https://open.spotify.com/track/58YZTutWhYcglUHl3Udnlj"
+    },
+    {
+      "album": {
+        "name": "Only the Strong Survive",
+        "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 197093,
+      "name": "When She Was My Girl",
+      "url": "https://open.spotify.com/track/5Uzcv55FWehC7kW2Nz42zA"
+    },
+    {
+      "album": {
+        "name": "Tracks",
+        "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2022-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 174066,
+      "name": "When You Need Me - Studio Outtake - 1987",
+      "url": "https://open.spotify.com/track/34oYzILaNsdFPt48Yeb8aq"
+    },
+    {
+      "album": {
+        "name": "Working On A Dream",
+        "url": "https://open.spotify.com/album/5xJSVog0izeuIURO34C7Qa"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208946,
+      "name": "Working On a Dream",
+      "url": "https://open.spotify.com/track/08QZBupqwLXOalOpgiTi5e"
+    },
+    {
+      "album": {
+        "name": "Wrecking Ball",
+        "url": "https://open.spotify.com/album/75kN1qUWvE10QcnpE6nEsM"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 347600,
+      "name": "Wrecking Ball",
+      "url": "https://open.spotify.com/track/4LKlmGTWGY8SHfIw0c9jQu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1S7maQ"
 }

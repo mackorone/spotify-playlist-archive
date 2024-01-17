@@ -812,7 +812,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-28",
+      "date_removed": null,
       "duration_ms": 158865,
       "name": "De Copo Em Copo - Ao Vivo",
       "url": "https://open.spotify.com/track/6uf6MiMitjd5RMgU8aamcH"
@@ -910,6 +910,28 @@
       "duration_ms": 161396,
       "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
       "url": "https://open.spotify.com/track/48CAeajgzcGJaVUSsXd7h0"
+    },
+    {
+      "album": {
+        "name": "Amando, Bebendo e Sofrendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/48CmSzaD8bR6AYb7Ic2NdH"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161396,
+      "name": "Declara\u00e7\u00e3o pro Bar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Ge3eW6KYGdmTZbyF7YGVi"
     },
     {
       "album": {
@@ -2178,7 +2200,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 174178,
       "name": "Para, Pensa e Volta - Ao Vivo",
       "url": "https://open.spotify.com/track/2KyXyTrp3kp1Fsg7B1osYD"
@@ -2622,7 +2644,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 184746,
       "name": "Romance Desapegado",
       "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"

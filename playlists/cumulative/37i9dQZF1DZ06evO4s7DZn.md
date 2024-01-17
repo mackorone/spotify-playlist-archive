@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 51 min
+105 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Hoja en Blanco](https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:37 | 2022-06-01 |  |
 | [Juan Colorado](https://open.spotify.com/track/6gmJIbN1gHEE0u2sq3u2bu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lagrimas Del Corazon](https://open.spotify.com/album/0E994bG63U0vbSYRaO9vmo) | 2:37 | 2022-11-04 |  |
 | [Juan Colorado](https://open.spotify.com/track/2ddBgXnu6BB9pQNTbf0v5t) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 2:39 | 2022-06-01 | 2022-11-05 |
+| [La Carcachita](https://open.spotify.com/track/1c27a82906o3Vuy6gdDJzC) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 2:15 | 2024-01-15 |  |
 | [La Danza Del Coyote](https://open.spotify.com/track/2mIy6LxmVeUS0WKSclC81G) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:03 | 2022-06-01 | 2022-10-19 |
 | [La Danza del Coyote](https://open.spotify.com/track/2k8uSmaLryu83VrICrhOjS) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:07 | 2022-10-18 |  |
 | [La Guitarra de Lolo](https://open.spotify.com/track/3Jw3jrSecqtTkc8F4uPvV4) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:23 | 2022-06-01 | 2022-08-27 |
@@ -86,7 +87,7 @@
 | [No Le Digas a Nadie](https://open.spotify.com/track/31X7Ra9TlstdzHE4zTaEJu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 2:58 | 2022-06-01 | 2022-08-27 |
 | [No Llega el Olvido](https://open.spotify.com/track/7jeYlGWTpgjuyNHgOhYmvW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:05 | 2023-12-13 |  |
 | [No Llega El Olvido](https://open.spotify.com/track/6tzP3K1dS3AW7b0byZwSnd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:07 | 2022-06-01 | 2023-12-14 |
-| [No Se Vivir \- En Vivo](https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:13 | 2023-09-25 |  |
+| [No Se Vivir \- En Vivo](https://open.spotify.com/track/7Bxs5oDeIKI8aatDljy6Qs) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:13 | 2023-09-25 | 2024-01-16 |
 | [No Vas a Creer/Te Preguntaras \- En Vivo](https://open.spotify.com/track/3puernBYuD2jnlq3732oG0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! , Vol.2 \(En Vivo\)](https://open.spotify.com/album/3vetEbHsr2ELGdsA7yE2WI) | 4:30 | 2023-05-27 |  |
 | [Oh Gran Dios](https://open.spotify.com/track/3ThVhCjqErJsuajFsMLn3H) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:50 | 2022-06-01 |  |
 | [Para Ellas](https://open.spotify.com/track/0NB5GkAROV33z5pDY7GGpu) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:13 | 2022-06-01 |  |

@@ -1,735 +1,1389 @@
 {
-  "2021-12-25": 189011,
-  "2021-12-26": 189010,
-  "2021-12-27": 189018,
-  "2021-12-28": 189018,
-  "2021-12-29": 189018,
-  "2021-12-30": 189019,
-  "2021-12-31": 189012,
-  "2022-01-01": 189014,
-  "2022-01-02": 189011,
-  "2022-01-03": 189005,
-  "2022-01-04": 189002,
-  "2022-01-05": 188990,
-  "2022-01-06": 188976,
-  "2022-01-07": 188971,
-  "2022-01-08": 188946,
-  "2022-01-09": 188944,
-  "2022-01-10": 188940,
-  "2022-01-11": 188931,
-  "2022-01-12": 188931,
-  "2022-01-13": 188933,
-  "2022-01-14": 188936,
-  "2022-01-15": 188949,
-  "2022-01-16": 188948,
-  "2022-01-17": 188952,
-  "2022-01-18": 188954,
-  "2022-01-19": 188957,
-  "2022-01-20": 188973,
-  "2022-01-21": 188969,
-  "2022-01-22": 188971,
-  "2022-01-23": 188968,
-  "2022-01-24": 188959,
-  "2022-01-25": 188967,
-  "2022-01-26": 188968,
-  "2022-01-27": 188979,
-  "2022-01-28": 188990,
-  "2022-01-29": 188992,
-  "2022-01-30": 189001,
-  "2022-01-31": 189012,
-  "2022-02-01": 189013,
-  "2022-02-02": 189020,
-  "2022-02-03": 189028,
-  "2022-02-04": 189018,
-  "2022-02-05": 189029,
-  "2022-02-06": 189028,
-  "2022-02-07": 189031,
-  "2022-02-08": 189033,
-  "2022-02-09": 189045,
-  "2022-02-10": 189049,
-  "2022-02-11": 189053,
-  "2022-02-12": 189041,
-  "2022-02-13": 189038,
-  "2022-02-14": 189043,
-  "2022-02-15": 189051,
-  "2022-02-16": 189063,
-  "2022-02-17": 189063,
-  "2022-02-18": 189060,
-  "2022-02-19": 189057,
-  "2022-02-20": 189068,
-  "2022-02-21": 189064,
-  "2022-02-22": 189071,
-  "2022-02-23": 189082,
-  "2022-02-24": 189076,
-  "2022-02-25": 189075,
-  "2022-02-26": 189075,
-  "2022-02-27": 189074,
-  "2022-02-28": 189074,
-  "2022-03-01": 189078,
-  "2022-03-02": 189076,
-  "2022-03-03": 189076,
-  "2022-03-04": 189077,
-  "2022-03-05": 189081,
-  "2022-03-06": 189078,
-  "2022-03-07": 189083,
-  "2022-03-08": 189084,
-  "2022-03-09": 189088,
-  "2022-03-10": 189099,
-  "2022-03-11": 189103,
-  "2022-03-12": 189103,
-  "2022-03-13": 189102,
-  "2022-03-14": 189102,
-  "2022-03-15": 189093,
-  "2022-03-16": 189083,
-  "2022-03-17": 189081,
-  "2022-03-18": 189101,
-  "2022-03-19": 189115,
-  "2022-03-20": 189115,
-  "2022-03-21": 189123,
-  "2022-03-22": 189130,
-  "2022-03-23": 189132,
-  "2022-03-24": 189136,
-  "2022-03-25": 189134,
-  "2022-03-26": 189144,
-  "2022-03-27": 189150,
-  "2022-03-28": 189164,
-  "2022-03-30": 189172,
-  "2022-03-31": 189169,
-  "2022-04-01": 189172,
-  "2022-04-02": 189187,
-  "2022-04-03": 189190,
-  "2022-04-04": 189190,
-  "2022-04-05": 189200,
-  "2022-04-06": 189210,
-  "2022-04-07": 189221,
-  "2022-04-08": 189225,
-  "2022-04-09": 189227,
-  "2022-04-10": 189238,
-  "2022-04-11": 189253,
-  "2022-04-12": 189253,
-  "2022-04-13": 189260,
-  "2022-04-14": 189282,
-  "2022-04-15": 189290,
-  "2022-04-16": 189283,
-  "2022-04-17": 189281,
-  "2022-04-18": 189274,
-  "2022-04-19": 189272,
-  "2022-04-20": 189270,
-  "2022-04-21": 189272,
-  "2022-04-22": 189275,
-  "2022-04-23": 189277,
-  "2022-04-24": 189296,
-  "2022-04-25": 189294,
-  "2022-04-26": 189288,
-  "2022-04-27": 189296,
-  "2022-04-28": 189298,
-  "2022-04-29": 189329,
-  "2022-04-30": 189346,
-  "2022-05-01": 189341,
-  "2022-05-02": 189341,
-  "2022-05-03": 189352,
-  "2022-05-04": 189355,
-  "2022-05-05": 189367,
-  "2022-05-06": 189372,
-  "2022-05-07": 189376,
-  "2022-05-08": 189391,
-  "2022-05-09": 189394,
-  "2022-05-10": 189396,
-  "2022-05-11": 189394,
-  "2022-05-12": 189399,
-  "2022-05-13": 189412,
-  "2022-05-14": 189405,
-  "2022-05-15": 189411,
-  "2022-05-16": 189409,
-  "2022-05-17": 189419,
-  "2022-05-18": 189418,
-  "2022-05-19": 189432,
-  "2022-05-20": 189440,
-  "2022-05-21": 189447,
-  "2022-05-22": 189447,
-  "2022-05-23": 189448,
-  "2022-05-24": 189451,
-  "2022-05-25": 189454,
-  "2022-05-26": 189469,
-  "2022-05-27": 189466,
-  "2022-05-28": 189464,
-  "2022-05-29": 189473,
-  "2022-05-30": 189462,
-  "2022-05-31": 189461,
-  "2022-06-01": 189466,
-  "2022-06-02": 189468,
-  "2022-06-03": 189474,
-  "2022-06-04": 189469,
-  "2022-06-05": 189471,
-  "2022-06-06": 189478,
-  "2022-06-07": 189476,
-  "2022-06-08": 189488,
-  "2022-06-09": 189478,
-  "2022-06-10": 189482,
-  "2022-06-11": 189499,
-  "2022-06-12": 189494,
-  "2022-06-13": 189498,
-  "2022-06-14": 189504,
-  "2022-06-15": 189501,
-  "2022-06-16": 189512,
-  "2022-06-17": 189523,
-  "2022-06-18": 189523,
-  "2022-06-19": 189545,
-  "2022-06-20": 189545,
-  "2022-06-21": 189549,
-  "2022-06-22": 189555,
-  "2022-06-23": 189555,
-  "2022-06-24": 189562,
-  "2022-06-25": 189569,
-  "2022-06-26": 189568,
-  "2022-06-27": 189569,
-  "2022-06-28": 189567,
-  "2022-06-29": 189568,
-  "2022-06-30": 189569,
-  "2022-07-01": 189572,
-  "2022-07-02": 189573,
-  "2022-07-03": 189574,
-  "2022-07-04": 189571,
-  "2022-07-05": 189568,
-  "2022-07-06": 189556,
-  "2022-07-07": 189566,
-  "2022-07-08": 189575,
-  "2022-07-09": 189575,
-  "2022-07-10": 189584,
-  "2022-07-11": 189585,
-  "2022-07-12": 189596,
-  "2022-07-13": 189602,
-  "2022-07-14": 189596,
-  "2022-07-15": 189603,
-  "2022-07-16": 189614,
-  "2022-07-17": 189625,
-  "2022-07-18": 189619,
-  "2022-07-19": 189624,
-  "2022-07-20": 189631,
-  "2022-07-21": 189627,
-  "2022-07-22": 189634,
-  "2022-07-23": 189644,
-  "2022-07-24": 189646,
-  "2022-07-25": 189643,
-  "2022-07-26": 189640,
-  "2022-07-27": 189642,
-  "2022-07-28": 189628,
-  "2022-07-29": 189632,
-  "2022-07-30": 189631,
-  "2022-07-31": 189631,
-  "2022-08-01": 189635,
-  "2022-08-02": 189645,
-  "2022-08-03": 189645,
-  "2022-08-04": 189651,
-  "2022-08-05": 189654,
-  "2022-08-06": 189664,
-  "2022-08-07": 189661,
-  "2022-08-08": 189669,
-  "2022-08-09": 189666,
-  "2022-08-10": 189668,
-  "2022-08-11": 189669,
-  "2022-08-12": 189659,
-  "2022-08-13": 189670,
-  "2022-08-14": 189670,
-  "2022-08-15": 189683,
-  "2022-08-16": 189678,
-  "2022-08-17": 189677,
-  "2022-08-18": 189686,
-  "2022-08-19": 189672,
-  "2022-08-20": 189670,
-  "2022-08-21": 189676,
-  "2022-08-22": 189690,
-  "2022-08-23": 189697,
-  "2022-08-24": 189693,
-  "2022-08-25": 189698,
-  "2022-08-26": 189703,
-  "2022-08-27": 189712,
-  "2022-08-28": 189714,
-  "2022-08-29": 189720,
-  "2022-08-30": 189567,
-  "2022-08-31": 189236,
-  "2022-09-01": 188840,
-  "2022-09-02": 188830,
-  "2022-09-03": 188455,
-  "2022-09-04": 187869,
-  "2022-09-05": 187554,
-  "2022-09-06": 187548,
-  "2022-09-07": 187544,
-  "2022-09-09": 187556,
-  "2022-09-10": 187564,
-  "2022-09-11": 187559,
-  "2022-09-12": 187566,
-  "2022-09-13": 187569,
-  "2022-09-15": 187569,
-  "2022-09-16": 187586,
-  "2022-09-17": 187594,
-  "2022-09-18": 187598,
-  "2022-09-19": 187601,
-  "2022-09-20": 187605,
-  "2022-09-21": 187604,
-  "2022-09-22": 187620,
-  "2022-09-23": 187632,
-  "2022-09-24": 187649,
-  "2022-09-25": 187653,
-  "2022-09-26": 187646,
-  "2022-09-27": 187660,
-  "2022-09-28": 187671,
-  "2022-09-29": 187681,
-  "2022-09-30": 187692,
-  "2022-10-01": 187703,
-  "2022-10-02": 187722,
-  "2022-10-03": 187733,
-  "2022-10-04": 187744,
-  "2022-10-05": 187756,
-  "2022-10-06": 187761,
-  "2022-10-07": 187771,
-  "2022-10-08": 187783,
-  "2022-10-09": 187794,
-  "2022-10-10": 187794,
-  "2022-10-11": 187812,
-  "2022-10-12": 187813,
-  "2022-10-13": 187824,
-  "2022-10-14": 187832,
-  "2022-10-15": 187845,
-  "2022-10-16": 187859,
-  "2022-10-17": 187862,
-  "2022-10-18": 187875,
-  "2022-10-19": 187882,
-  "2022-10-20": 187890,
-  "2022-10-21": 187899,
-  "2022-10-22": 187909,
-  "2022-10-23": 187916,
-  "2022-10-24": 187915,
-  "2022-10-25": 187924,
-  "2022-10-26": 187927,
-  "2022-10-27": 187936,
-  "2022-10-28": 187953,
-  "2022-10-29": 187971,
-  "2022-10-30": 187976,
-  "2022-10-31": 187990,
-  "2022-11-01": 187999,
-  "2022-11-02": 188006,
-  "2022-11-03": 188007,
-  "2022-11-04": 188027,
-  "2022-11-05": 188036,
-  "2022-11-06": 188034,
-  "2022-11-07": 188045,
-  "2022-11-08": 188048,
-  "2022-11-09": 188060,
-  "2022-11-10": 188090,
-  "2022-11-11": 188100,
-  "2022-11-12": 188118,
-  "2022-11-13": 188118,
-  "2022-11-14": 188130,
-  "2022-11-15": 188141,
-  "2022-11-16": 188152,
-  "2022-11-17": 188168,
-  "2022-11-18": 188173,
-  "2022-11-19": 188161,
-  "2022-11-20": 188157,
-  "2022-11-21": 188154,
-  "2022-11-22": 188189,
-  "2022-11-23": 188167,
-  "2022-11-24": 188201,
-  "2022-11-25": 188249,
-  "2022-11-26": 188268,
-  "2022-11-27": 188280,
-  "2022-11-28": 188295,
-  "2022-11-29": 188301,
-  "2022-11-30": 188297,
-  "2022-12-01": 188301,
-  "2022-12-02": 188324,
-  "2022-12-03": 188344,
-  "2022-12-04": 188367,
-  "2022-12-05": 188375,
-  "2022-12-06": 188394,
-  "2022-12-07": 188420,
-  "2022-12-08": 188435,
-  "2022-12-09": 188448,
-  "2022-12-10": 188455,
-  "2022-12-11": 188474,
-  "2022-12-12": 188482,
-  "2022-12-13": 188496,
-  "2022-12-14": 188516,
-  "2022-12-15": 188529,
-  "2022-12-16": 188530,
-  "2022-12-17": 188543,
-  "2022-12-18": 188556,
-  "2022-12-19": 188567,
-  "2022-12-20": 188595,
-  "2022-12-21": 188595,
-  "2022-12-22": 188585,
-  "2022-12-24": 188603,
-  "2022-12-25": 188602,
-  "2022-12-26": 188614,
-  "2022-12-27": 188633,
-  "2022-12-28": 188641,
-  "2022-12-29": 188660,
-  "2022-12-30": 188673,
-  "2022-12-31": 188665,
-  "2023-01-01": 188685,
-  "2023-01-02": 188699,
-  "2023-01-03": 188697,
-  "2023-01-04": 188695,
-  "2023-01-05": 188702,
-  "2023-01-06": 188713,
-  "2023-01-07": 188717,
-  "2023-01-08": 188721,
-  "2023-01-09": 188732,
-  "2023-01-10": 188748,
-  "2023-01-11": 188758,
-  "2023-01-12": 188760,
-  "2023-01-13": 188773,
-  "2023-01-14": 188801,
-  "2023-01-15": 188808,
-  "2023-01-16": 188807,
-  "2023-01-17": 188817,
-  "2023-01-18": 188827,
-  "2023-01-19": 188863,
-  "2023-01-20": 188877,
-  "2023-01-21": 188893,
-  "2023-01-22": 188919,
-  "2023-01-23": 188929,
-  "2023-01-24": 188948,
-  "2023-01-25": 188960,
-  "2023-01-26": 188966,
-  "2023-01-27": 188972,
-  "2023-01-28": 188973,
-  "2023-01-29": 188979,
-  "2023-01-30": 188983,
-  "2023-01-31": 188983,
-  "2023-02-01": 188994,
-  "2023-02-02": 189017,
-  "2023-02-03": 189035,
-  "2023-02-04": 189049,
-  "2023-02-05": 189062,
-  "2023-02-06": 189074,
-  "2023-02-07": 189079,
-  "2023-02-08": 189098,
-  "2023-02-09": 189098,
-  "2023-02-10": 189110,
-  "2023-02-11": 189121,
-  "2023-02-12": 189150,
-  "2023-02-13": 189163,
-  "2023-02-14": 189163,
-  "2023-02-15": 189196,
-  "2023-02-16": 189201,
-  "2023-02-17": 189222,
-  "2023-02-18": 189250,
-  "2023-02-19": 189255,
-  "2023-02-20": 189270,
-  "2023-02-21": 189276,
-  "2023-02-22": 189289,
-  "2023-02-23": 189312,
-  "2023-02-24": 189313,
-  "2023-02-25": 189315,
-  "2023-02-26": 189319,
-  "2023-02-27": 189322,
-  "2023-02-28": 189322,
-  "2023-03-01": 189328,
-  "2023-03-02": 189340,
-  "2023-03-03": 189347,
-  "2023-03-04": 189363,
-  "2023-03-05": 189389,
-  "2023-03-06": 189389,
-  "2023-03-07": 189399,
-  "2023-03-08": 189413,
-  "2023-03-09": 189422,
-  "2023-03-10": 189442,
-  "2023-03-11": 189454,
-  "2023-03-12": 189467,
-  "2023-03-13": 189473,
-  "2023-03-14": 189482,
-  "2023-03-15": 189489,
-  "2023-03-16": 189496,
-  "2023-03-17": 189496,
-  "2023-03-18": 189518,
-  "2023-03-19": 189530,
-  "2023-03-20": 189553,
-  "2023-03-21": 189567,
-  "2023-03-22": 189575,
-  "2023-03-23": 189590,
-  "2023-03-24": 189590,
-  "2023-03-25": 189612,
-  "2023-03-26": 189618,
-  "2023-03-27": 189632,
-  "2023-03-28": 189646,
-  "2023-03-29": 189664,
-  "2023-03-30": 189689,
-  "2023-03-31": 189689,
-  "2023-04-01": 189698,
-  "2023-04-02": 189708,
-  "2023-04-03": 189707,
-  "2023-04-04": 189714,
-  "2023-04-05": 189719,
-  "2023-04-06": 189721,
-  "2023-04-07": 189732,
-  "2023-04-09": 189755,
-  "2023-04-10": 189762,
-  "2023-04-11": 189781,
-  "2023-04-12": 189781,
-  "2023-04-13": 189789,
-  "2023-04-14": 189800,
-  "2023-04-15": 189803,
-  "2023-04-16": 189811,
-  "2023-04-17": 189823,
-  "2023-04-18": 189838,
-  "2023-04-19": 189852,
-  "2023-04-20": 189873,
-  "2023-04-21": 189893,
-  "2023-04-22": 189904,
-  "2023-04-23": 189914,
-  "2023-04-24": 189918,
-  "2023-04-25": 189942,
-  "2023-04-26": 189958,
-  "2023-04-27": 189978,
-  "2023-04-28": 189994,
-  "2023-04-29": 190007,
-  "2023-04-30": 190012,
-  "2023-05-01": 190018,
-  "2023-05-02": 190037,
-  "2023-05-03": 190059,
-  "2023-05-04": 190071,
-  "2023-05-05": 190097,
-  "2023-05-06": 190114,
-  "2023-05-07": 190134,
-  "2023-05-08": 190139,
-  "2023-05-09": 190157,
-  "2023-05-10": 190184,
-  "2023-05-11": 190198,
-  "2023-05-12": 190205,
-  "2023-05-13": 190210,
-  "2023-05-14": 190228,
-  "2023-05-15": 190230,
-  "2023-05-16": 190253,
-  "2023-05-17": 190260,
-  "2023-05-18": 190282,
-  "2023-05-19": 190292,
-  "2023-05-20": 190321,
-  "2023-05-21": 190321,
-  "2023-05-22": 190321,
-  "2023-05-23": 190344,
-  "2023-05-24": 190372,
-  "2023-05-25": 190369,
-  "2023-05-26": 190383,
-  "2023-05-27": 190393,
-  "2023-05-28": 190393,
-  "2023-05-29": 190393,
-  "2023-05-30": 190405,
-  "2023-05-31": 190419,
-  "2023-06-01": 190436,
-  "2023-06-02": 190435,
-  "2023-06-03": 190456,
-  "2023-06-04": 190471,
-  "2023-06-05": 190477,
-  "2023-06-06": 190489,
-  "2023-06-07": 190496,
-  "2023-06-08": 190506,
-  "2023-06-09": 190531,
-  "2023-06-10": 190541,
-  "2023-06-11": 190556,
-  "2023-06-12": 190571,
-  "2023-06-13": 190575,
-  "2023-06-14": 190566,
-  "2023-06-15": 190563,
-  "2023-06-16": 190576,
-  "2023-06-17": 190576,
-  "2023-06-18": 190576,
-  "2023-06-19": 190576,
-  "2023-06-20": 190576,
-  "2023-06-21": 190576,
-  "2023-06-22": 190576,
-  "2023-06-23": 190576,
-  "2023-06-24": 190576,
-  "2023-06-25": 190576,
-  "2023-06-26": 190576,
-  "2023-06-27": 190576,
-  "2023-06-28": 190576,
-  "2023-06-29": 190576,
-  "2023-06-30": 190576,
-  "2023-07-01": 190576,
-  "2023-07-02": 190576,
-  "2023-07-03": 190576,
-  "2023-07-04": 190576,
-  "2023-07-05": 190576,
-  "2023-07-06": 190576,
-  "2023-07-07": 190576,
-  "2023-07-08": 190576,
-  "2023-07-09": 190576,
-  "2023-07-10": 190576,
-  "2023-07-11": 190576,
-  "2023-07-12": 190576,
-  "2023-07-13": 190576,
-  "2023-07-14": 190576,
-  "2023-07-15": 190576,
-  "2023-07-16": 190576,
-  "2023-07-17": 190576,
-  "2023-07-18": 190576,
-  "2023-07-19": 190576,
-  "2023-07-20": 190576,
-  "2023-07-21": 190576,
-  "2023-07-22": 190576,
-  "2023-07-23": 190576,
-  "2023-07-24": 190576,
-  "2023-07-25": 190576,
-  "2023-07-26": 190576,
-  "2023-07-27": 190576,
-  "2023-07-28": 190576,
-  "2023-07-29": 190576,
-  "2023-07-30": 190576,
-  "2023-07-31": 190576,
-  "2023-08-01": 190576,
-  "2023-08-02": 190576,
-  "2023-08-03": 190576,
-  "2023-08-04": 190576,
-  "2023-08-05": 190576,
-  "2023-08-06": 190576,
-  "2023-08-07": 190576,
-  "2023-08-08": 190576,
-  "2023-08-09": 190576,
-  "2023-08-10": 190576,
-  "2023-08-11": 190576,
-  "2023-08-12": 190576,
-  "2023-08-13": 190576,
-  "2023-08-14": 190576,
-  "2023-08-15": 190576,
-  "2023-08-16": 190576,
-  "2023-08-17": 190576,
-  "2023-08-18": 190576,
-  "2023-08-19": 190576,
-  "2023-08-20": 190576,
-  "2023-08-21": 190576,
-  "2023-08-22": 190576,
-  "2023-08-23": 190576,
-  "2023-08-24": 190576,
-  "2023-08-25": 190576,
-  "2023-08-26": 190576,
-  "2023-08-27": 190576,
-  "2023-08-28": 190576,
-  "2023-08-29": 190576,
-  "2023-08-30": 190576,
-  "2023-08-31": 190576,
-  "2023-09-01": 190576,
-  "2023-09-02": 190576,
-  "2023-09-03": 190576,
-  "2023-09-04": 190576,
-  "2023-09-05": 190576,
-  "2023-09-06": 190576,
-  "2023-09-07": 190576,
-  "2023-09-08": 190576,
-  "2023-09-09": 190576,
-  "2023-09-10": 190576,
-  "2023-09-11": 190576,
-  "2023-09-12": 190576,
-  "2023-09-13": 190576,
-  "2023-09-14": 190576,
-  "2023-09-15": 190576,
-  "2023-09-16": 190576,
-  "2023-09-17": 190576,
-  "2023-09-18": 190576,
-  "2023-09-19": 190576,
-  "2023-09-20": 190576,
-  "2023-09-21": 190576,
-  "2023-09-22": 190576,
-  "2023-09-23": 190576,
-  "2023-09-24": 190576,
-  "2023-09-25": 190576,
-  "2023-09-26": 190576,
-  "2023-09-27": 190576,
-  "2023-09-28": 190576,
-  "2023-09-29": 190576,
-  "2023-09-30": 190576,
-  "2023-10-01": 190576,
-  "2023-10-02": 190576,
-  "2023-10-03": 190576,
-  "2023-10-04": 190576,
-  "2023-10-05": 190576,
-  "2023-10-06": 190576,
-  "2023-10-07": 190576,
-  "2023-10-08": 190576,
-  "2023-10-09": 190576,
-  "2023-10-10": 190576,
-  "2023-10-11": 190576,
-  "2023-10-12": 190576,
-  "2023-10-13": 190576,
-  "2023-10-14": 190576,
-  "2023-10-15": 190576,
-  "2023-10-16": 190576,
-  "2023-10-17": 190576,
-  "2023-10-18": 190576,
-  "2023-10-19": 190576,
-  "2023-10-20": 190576,
-  "2023-10-21": 190576,
-  "2023-10-22": 190576,
-  "2023-10-23": 190576,
-  "2023-10-24": 190576,
-  "2023-10-25": 190576,
-  "2023-10-26": 190576,
-  "2023-10-27": 190576,
-  "2023-10-28": 190576,
-  "2023-10-29": 190576,
-  "2023-10-30": 190576,
-  "2023-10-31": 190576,
-  "2023-11-01": 190576,
-  "2023-11-02": 190576,
-  "2023-11-03": 190576,
-  "2023-11-04": 190576,
-  "2023-11-05": 190576,
-  "2023-11-06": 190576,
-  "2023-11-07": 190576,
-  "2023-11-08": 190576,
-  "2023-11-09": 190576,
-  "2023-11-10": 190576,
-  "2023-11-11": 190576,
-  "2023-11-12": 190576,
-  "2023-11-13": 190576,
-  "2023-11-14": 190576,
-  "2023-11-15": 190576,
-  "2023-11-16": 190576,
-  "2023-11-17": 190576,
-  "2023-11-18": 190576,
-  "2023-11-19": 190576,
-  "2023-11-20": 190576,
-  "2023-11-21": 190576,
-  "2023-11-22": 190576,
-  "2023-11-23": 190576,
-  "2023-11-24": 190576,
-  "2023-11-25": 190576,
-  "2023-11-26": 190576,
-  "2023-11-27": 190576,
-  "2023-11-28": 190576,
-  "2023-11-29": 190576,
-  "2023-11-30": 190576,
-  "2023-12-01": 190576,
-  "2023-12-02": 190576,
-  "2023-12-03": 190576,
-  "2023-12-04": 190576,
-  "2023-12-05": 190576,
-  "2023-12-06": 190576,
-  "2023-12-07": 190576,
-  "2023-12-08": 190576,
-  "2023-12-09": 190576,
-  "2023-12-10": 190576,
-  "2023-12-11": 190576,
-  "2023-12-12": 190576,
-  "2023-12-13": 190576,
-  "2023-12-14": 190576,
-  "2023-12-15": 190576,
-  "2023-12-16": 190576,
-  "2023-12-17": 190576,
-  "2023-12-18": 190576,
-  "2023-12-19": 190576,
-  "2023-12-20": 190576,
-  "2023-12-21": 190576,
-  "2023-12-22": 190576,
-  "2023-12-23": 190576,
-  "2023-12-24": 190576,
-  "2023-12-25": 190576,
-  "2023-12-26": 190576,
-  "2023-12-27": 190576,
-  "2023-12-30": 190576,
-  "2023-12-31": 190576,
-  "2024-01-01": 190576,
-  "2024-01-02": 190576,
-  "2024-01-03": 190576
+  "2024-01-17": 190576,
+  "date_first_scraped": "2021-12-21",
+  "description": "Curated by A$AP Mob in honor of A$AP Yams.",
+  "name": "This Is A$AP Mob",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lil Black Jean Jacket 3",
+        "url": "https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133679,
+      "name": "3AM in New Orleans",
+      "url": "https://open.spotify.com/track/18kOgPYJgcMCpurna8P23T"
+    },
+    {
+      "album": {
+        "name": "Babushka Boi",
+        "url": "https://open.spotify.com/album/3zOkSAbg9o7gQ3yXtZhx5v"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "Babushka Boi",
+      "url": "https://open.spotify.com/track/643PW82aBMUa1FiWi5VQY7"
+    },
+    {
+      "album": {
+        "name": "Bad Company (feat. BlocBoy JB)",
+        "url": "https://open.spotify.com/album/2IB4u7CExI80gM2KbkDtDp"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "Bad Company (feat. BlocBoy JB)",
+      "url": "https://open.spotify.com/track/3ZYwSDF9knZI0RVlKR4PHC"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 171510,
+      "name": "Bill Collector",
+      "url": "https://open.spotify.com/track/1hgJMdjMg5eyPqWlkVePxx"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171510,
+      "name": "Bill Collector",
+      "url": "https://open.spotify.com/track/56ch95KR0JyJUTbzjKVvAh"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes Vol. 2: Too Cozy",
+        "url": "https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119146,
+      "name": "Black Card (feat. A$AP Rocky & Smooky MarGielaa)",
+      "url": "https://open.spotify.com/track/7yIxGTsByzEpbxmZtyP6rO"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes Vol. 2: Too Cozy",
+        "url": "https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174626,
+      "name": "BYF (feat. A$AP Rocky, A$AP Ant & Smooky MarGielaa)",
+      "url": "https://open.spotify.com/track/6g5exlGGjNqJwIK6OQoolD"
+    },
+    {
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "BONES",
+          "url": "https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227426,
+      "name": "Canal St. (feat. Bones)",
+      "url": "https://open.spotify.com/track/0rBMP6VVGRgwnzZCLpijyl"
+    },
+    {
+      "album": {
+        "name": "D.M.B.",
+        "url": "https://open.spotify.com/album/2gOwXn7u5bV0pETiYXnXbV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291611,
+      "name": "D.M.B.",
+      "url": "https://open.spotify.com/track/1wMkfavYDIX8z0S5fM2Gmg"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192574,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/0A05GBydfE0BGfWDB8Hcl7"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 192574,
+      "name": "Daytona",
+      "url": "https://open.spotify.com/track/2YlK5QOMovLtTN10pWAYyd"
+    },
+    {
+      "album": {
+        "name": "Floor Seats II",
+        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198306,
+      "name": "Dennis Rodman (feat. Tyga)",
+      "url": "https://open.spotify.com/track/2N8jIpNMutjwnt50OroVVL"
+    },
+    {
+      "album": {
+        "name": "Designer Boi",
+        "url": "https://open.spotify.com/album/7Lo5YxRSpt9VcQlxGbIxpa"
+      },
+      "artists": [
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "D33J",
+          "url": "https://open.spotify.com/artist/6DIUUnQRMBTkigLlsAxblR"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130957,
+      "name": "Designer Boi",
+      "url": "https://open.spotify.com/track/5ZHdSdhLl9d79wasqTn3Ax"
+    },
+    {
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184964,
+      "name": "dothatshit!",
+      "url": "https://open.spotify.com/track/1KzNsOkpQthVwpCJrADJEQ"
+    },
+    {
+      "album": {
+        "name": "Trap Lord",
+        "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214826,
+      "name": "Dump Dump",
+      "url": "https://open.spotify.com/track/2xgX6htrEkyF90i6cwnOf6"
+    },
+    {
+      "album": {
+        "name": "Feels So Good (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",
+        "url": "https://open.spotify.com/album/0fPPktynlWuMw4VOFGCS1Y"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205668,
+      "name": "Feels So Good (feat. A$AP Rocky, A$AP Ferg, A$AP Nast & A$AP Twelvyy)",
+      "url": "https://open.spotify.com/track/2GDurWqMjyoIN4tufyWMHw"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157506,
+      "name": "Floor Seats",
+      "url": "https://open.spotify.com/track/645O1frAHmClaFygFT9EZa"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "Floor Seats",
+      "url": "https://open.spotify.com/track/6AomCkEOQUODCYzQwH4SWC"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes Vol. 2: Too Cozy",
+        "url": "https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "KEY!",
+          "url": "https://open.spotify.com/artist/2tMOCIpxj6jwM9e6pmwGiP"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211840,
+      "name": "FYBR (First Year Being Rich) (feat. A$AP Twelvyy, A$AP Rocky, A$AP Ant, A$AP Ferg, KEY! & Playboi Carti)",
+      "url": "https://open.spotify.com/track/1jNrotshHZUS2wj7MU6Lw9"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes Vol. 2: Too Cozy",
+        "url": "https://open.spotify.com/album/0qr1Fvi1haEDWVbFtekZLb"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256560,
+      "name": "Get The Bag (feat. A$AP Rocky, A$AP Ferg, A$AP Ant, A$AP Nast, A$AP TyY, Playboi Carti & Smooky MarGielaa)",
+      "url": "https://open.spotify.com/track/2AyyImkxFBEhfPmIe46Ppl"
+    },
+    {
+      "album": {
+        "name": "Vicious EP",
+        "url": "https://open.spotify.com/album/1dSvdsbgLtbSd7vUckHvKS"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207502,
+      "name": "Ghost Ride",
+      "url": "https://open.spotify.com/track/4bdEXTweGw1O4IEMbnn5Tv"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Hell (feat. Santigold)",
+      "url": "https://open.spotify.com/track/5Uc07fEUpjjFcLEIleEHkJ"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231786,
+      "name": "Hell (feat. Santigold)",
+      "url": "https://open.spotify.com/track/793xe74Xm4VFkkAOI6eZvy"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/41tn9gcVocI693HtBidKfi"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162893,
+      "name": "Hop Out (feat. A$AP Ferg)",
+      "url": "https://open.spotify.com/track/0wSeTpuEBS5uloIJ9tGhFi"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203720,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/0AUurCHJ6A8Ua4yXyKXNuM"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203720,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/2hyF1YWdX8yxExvRelT9nB"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/7fcmjYIIXmpNPM6r3nZ0TE"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184810,
+      "name": "Kratez",
+      "url": "https://open.spotify.com/track/3ZVV12Td7OBXRPEv3uASSz"
+    },
+    {
+      "album": {
+        "name": "Before Noon",
+        "url": "https://open.spotify.com/album/2uckSYAOC5DPO2poCKPYTl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 184810,
+      "name": "Kratez",
+      "url": "https://open.spotify.com/track/3eYXE4SPxwKUVQhRmJS5fD"
+    },
+    {
+      "album": {
+        "name": "Trap Lord",
+        "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282640,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/0jYgfSncMwfefAUpUMcM5X"
+    },
+    {
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220133,
+      "name": "LVL",
+      "url": "https://open.spotify.com/track/4dz4nfY5LeFUR99uspA5e6"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "LVL",
+      "url": "https://open.spotify.com/track/787rCZF9i4L1cXGMkdyIk4"
+    },
+    {
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes: Vol. 1 Friends -",
+        "url": "https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "Yung Lord",
+          "url": "https://open.spotify.com/artist/17laxOcCw3XXLtLNndY9n5"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "Money Man (feat. A$AP Rocky, A$AP Nast & Yung Lord)",
+      "url": "https://open.spotify.com/track/0foRpYmPs9PHIAMyXa5bTc"
+    },
+    {
+      "album": {
+        "name": "Floor Seats II",
+        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144973,
+      "name": "Move Ya Hips (feat. Nicki Minaj & MadeinTYO)",
+      "url": "https://open.spotify.com/track/13v5IXnvO2BccWwOx5rb4s"
+    },
+    {
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Nandos",
+      "url": "https://open.spotify.com/track/5kk89RYrVuGGNtE2pilxci"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes: Vol. 1 Friends -",
+        "url": "https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "Onyx",
+          "url": "https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Nasty's World (feat. A$AP Nast & Onyx)",
+      "url": "https://open.spotify.com/track/2fCoq1wZzsa18L8mD33iuM"
+    },
+    {
+      "album": {
+        "name": "New Level (feat. Future)",
+        "url": "https://open.spotify.com/album/2daK0IhzlPK3pF79yUGaNY"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267211,
+      "name": "New Level (feat. Future)",
+      "url": "https://open.spotify.com/track/11BIoKDpTJHX5mZt6p566h"
+    },
+    {
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Peso",
+      "url": "https://open.spotify.com/track/3tTpvK7QgjjQCKGnHt5xn3"
+    },
+    {
+      "album": {
+        "name": "Pick It Up (feat. A$AP Rocky)",
+        "url": "https://open.spotify.com/album/4NaE34wj8KRWoxRmgbr915"
+      },
+      "artists": [
+        {
+          "name": "Famous Dex",
+          "url": "https://open.spotify.com/artist/0WOxhx4hikIsyF3CRPLC8W"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191251,
+      "name": "PICK IT UP (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/3ncgNpxLoBQ65ABk4djDyd"
+    },
+    {
+      "album": {
+        "name": "Pistol Pete",
+        "url": "https://open.spotify.com/album/35F7pXOirNFkTuXfh3Ou4U"
+      },
+      "artists": [
+        {
+          "name": "Billz Raw",
+          "url": "https://open.spotify.com/artist/5rtWbKKiBOSJDWtvjI1V4k"
+        },
+        {
+          "name": "HitMakerDot",
+          "url": "https://open.spotify.com/artist/6e8macKAt7kcUL5t18ltsg"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200727,
+      "name": "Pistol Pete",
+      "url": "https://open.spotify.com/track/1LdS21yZTO99iKADCvw9Nb"
+    },
+    {
+      "album": {
+        "name": "Still Striving",
+        "url": "https://open.spotify.com/album/0tQ7Iu6EicQTPyhYRNWjaT"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173600,
+      "name": "Plain Jane",
+      "url": "https://open.spotify.com/track/4dVpf9jZjcORqGTLUaeYj9"
+    },
+    {
+      "album": {
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205040,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
+    },
+    {
+      "album": {
+        "name": "Lil Black Jean Jacket 3",
+        "url": "https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "Pudge Rodriguez",
+      "url": "https://open.spotify.com/track/1p0fG2qsRTz5axiF0UEoMc"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148733,
+      "name": "Pups (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/4qqFsDCGpuIBMiMxjJB8w4"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148733,
+      "name": "Pups (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/7vYGVlZg0PqUsClnOqhK5q"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes: Vol. 1 Friends -",
+        "url": "https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199986,
+      "name": "Runner (feat. A$AP Ant & Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/44gZSuP2nPUvab9ajBrnVM"
+    },
+    {
+      "album": {
+        "name": "Stay \"100\"",
+        "url": "https://open.spotify.com/album/1BexHfFIu0svjzHCW9xd9Q"
+      },
+      "artists": [
+        {
+          "name": "Smooky MarGielaa",
+          "url": "https://open.spotify.com/artist/2HO2kO7O5gEnM91dhobllP"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192052,
+      "name": "Stay \"100\"",
+      "url": "https://open.spotify.com/track/1hJjKYqtVt47RmRR0Q1vDA"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/41tn9gcVocI693HtBidKfi"
+      },
+      "artists": [
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Strapped",
+      "url": "https://open.spotify.com/track/3U0xbYGTtYZAUv3lEwPebJ"
+    },
+    {
+      "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "album": {
+        "name": "Lil Black Jean Jacket 3",
+        "url": "https://open.spotify.com/album/1mFoolgRsDNPx9aizPSYDn"
+      },
+      "artists": [
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "The God Hour",
+      "url": "https://open.spotify.com/track/4Acntw4W2FfI7CDAIsCBjq"
+    },
+    {
+      "album": {
+        "name": "Trillmatic (feat. A$AP Nast & Method Man)",
+        "url": "https://open.spotify.com/album/1ImqgYGNjfTGYEfQMYYbRs"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP NAST",
+          "url": "https://open.spotify.com/artist/1uLYUm2A6kpFYAECfAFoH1"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239240,
+      "name": "Trillmatic (feat. A$AP Nast & Method Man)",
+      "url": "https://open.spotify.com/track/4QZxGuNnoAth7qxzVOd3oR"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157586,
+      "name": "WAM",
+      "url": "https://open.spotify.com/track/3tZmmHehdQv4dLyrDajMR0"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157586,
+      "name": "WAM",
+      "url": "https://open.spotify.com/track/7f2HHmhlbdkW5f9Ge26qny"
+    },
+    {
+      "album": {
+        "name": "LIVE.LOVE.A$AP",
+        "url": "https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2022-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158133,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1bjTEsJdDdbuA5JsdRRxhP"
+    },
+    {
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        },
+        {
+          "name": "UGK",
+          "url": "https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303000,
+      "name": "Wavybone (feat. Juicy J & UGK)",
+      "url": "https://open.spotify.com/track/5cYZm4KeDKM8Pw8z5XRKJt"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/6bI4IQKBcLX0KsTjQ9NR97"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        },
+        {
+          "name": "Antha Pantha",
+          "url": "https://open.spotify.com/artist/5bQLHZXLiVPxi2Suodt3wV"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Wigs (feat. Asian Doll & Antha Pantha)",
+      "url": "https://open.spotify.com/track/5mCk85oB2HAPriLqo1R3Jq"
+    },
+    {
+      "album": {
+        "name": "Floor Seats",
+        "url": "https://open.spotify.com/album/0Q3h1Bm5T7QPo8lI1S9mT6"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "date_added": "2019-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219546,
+      "name": "Wigs (feat. Asian Doll)",
+      "url": "https://open.spotify.com/track/4UyN7m30nQQmhyzfhAwNjH"
+    },
+    {
+      "album": {
+        "name": "Wigs (feat. Asian Doll)",
+        "url": "https://open.spotify.com/album/0XLFXhashQVtfchnQ6GiQR"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220863,
+      "name": "Wigs (feat. Asian Doll)",
+      "url": "https://open.spotify.com/track/4lCyyCa0JsIVeP7jbKWlJo"
+    },
+    {
+      "album": {
+        "name": "Trap Lord",
+        "url": "https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Trinidad James",
+          "url": "https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J"
+        },
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283693,
+      "name": "Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)",
+      "url": "https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS"
+    },
+    {
+      "album": {
+        "name": "Yamborghini High (feat. Juicy J)",
+        "url": "https://open.spotify.com/album/788rHiWVrWzM8dF7IiumCB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302004,
+      "name": "Yamborghini High (feat. Juicy J)",
+      "url": "https://open.spotify.com/track/2rqUblDWJKlMVwh9uJc0Vv"
+    },
+    {
+      "album": {
+        "name": "Cozy Tapes: Vol. 1 Friends -",
+        "url": "https://open.spotify.com/album/3RaACfwYTY9uiDy3VSWLLc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Mob",
+          "url": "https://open.spotify.com/artist/7yO4IdJjCEPz7YgZMe25iS"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "A$AP ANT",
+          "url": "https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj"
+        },
+        {
+          "name": "A$AP Twelvyy",
+          "url": "https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P"
+        }
+      ],
+      "date_added": "2018-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258880,
+      "name": "Young N***a Living (feat. A$AP Ferg, A$AP Ant & A$AP Twelvyy)",
+      "url": "https://open.spotify.com/track/3u9HxfcMCFYwJ2R0nkpDWV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXmxXDRgAKVq"
 }

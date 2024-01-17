@@ -1,471 +1,2005 @@
 {
-  "2022-09-18": 109395,
-  "2022-09-19": 109443,
-  "2022-09-20": 109487,
-  "2022-09-21": 109534,
-  "2022-09-22": 109567,
-  "2022-09-23": 109625,
-  "2022-09-24": 109625,
-  "2022-09-25": 109752,
-  "2022-09-26": 109816,
-  "2022-09-27": 109874,
-  "2022-09-28": 109929,
-  "2022-09-29": 109974,
-  "2022-09-30": 110027,
-  "2022-10-01": 110077,
-  "2022-10-02": 110127,
-  "2022-10-03": 110186,
-  "2022-10-04": 110222,
-  "2022-10-05": 110250,
-  "2022-10-06": 110305,
-  "2022-10-07": 110352,
-  "2022-10-08": 110403,
-  "2022-10-09": 110507,
-  "2022-10-10": 110520,
-  "2022-10-11": 110548,
-  "2022-10-12": 110605,
-  "2022-10-13": 110661,
-  "2022-10-14": 110721,
-  "2022-10-15": 110754,
-  "2022-10-16": 110816,
-  "2022-10-17": 110870,
-  "2022-10-18": 110913,
-  "2022-10-19": 110979,
-  "2022-10-20": 111050,
-  "2022-10-21": 111118,
-  "2022-10-22": 111167,
-  "2022-10-23": 111200,
-  "2022-10-24": 111247,
-  "2022-10-25": 111295,
-  "2022-10-26": 111344,
-  "2022-10-27": 111392,
-  "2022-10-28": 111438,
-  "2022-10-29": 111516,
-  "2022-10-30": 111598,
-  "2022-10-31": 111647,
-  "2022-11-01": 111703,
-  "2022-11-02": 111755,
-  "2022-11-03": 111812,
-  "2022-11-04": 111879,
-  "2022-11-05": 111935,
-  "2022-11-06": 111973,
-  "2022-11-07": 112026,
-  "2022-11-08": 112062,
-  "2022-11-09": 112112,
-  "2022-11-10": 112155,
-  "2022-11-11": 112204,
-  "2022-11-12": 112248,
-  "2022-11-13": 112307,
-  "2022-11-14": 112364,
-  "2022-11-15": 112397,
-  "2022-11-16": 112434,
-  "2022-11-17": 112483,
-  "2022-11-18": 112499,
-  "2022-11-19": 112512,
-  "2022-11-20": 112550,
-  "2022-11-21": 112609,
-  "2022-11-22": 112667,
-  "2022-11-23": 112716,
-  "2022-11-24": 112825,
-  "2022-11-25": 112900,
-  "2022-11-26": 112964,
-  "2022-11-27": 113009,
-  "2022-11-28": 113047,
-  "2022-11-29": 113085,
-  "2022-11-30": 113128,
-  "2022-12-01": 113184,
-  "2022-12-02": 113218,
-  "2022-12-03": 113289,
-  "2022-12-04": 113354,
-  "2022-12-05": 113400,
-  "2022-12-06": 113453,
-  "2022-12-07": 113487,
-  "2022-12-08": 113542,
-  "2022-12-09": 113584,
-  "2022-12-10": 113620,
-  "2022-12-11": 113675,
-  "2022-12-12": 113736,
-  "2022-12-13": 113783,
-  "2022-12-14": 113814,
-  "2022-12-15": 113859,
-  "2022-12-16": 113903,
-  "2022-12-17": 113962,
-  "2022-12-18": 114028,
-  "2022-12-19": 114072,
-  "2022-12-20": 114171,
-  "2022-12-21": 114171,
-  "2022-12-22": 114201,
-  "2022-12-24": 114330,
-  "2022-12-25": 114424,
-  "2022-12-26": 114499,
-  "2022-12-27": 114552,
-  "2022-12-28": 114595,
-  "2022-12-29": 114638,
-  "2022-12-30": 114678,
-  "2022-12-31": 114766,
-  "2023-01-01": 114835,
-  "2023-01-02": 114880,
-  "2023-01-03": 114923,
-  "2023-01-04": 114963,
-  "2023-01-05": 114991,
-  "2023-01-06": 115067,
-  "2023-01-07": 115170,
-  "2023-01-08": 115188,
-  "2023-01-09": 115247,
-  "2023-01-10": 115288,
-  "2023-01-11": 115338,
-  "2023-01-12": 115367,
-  "2023-01-13": 115404,
-  "2023-01-14": 115498,
-  "2023-01-15": 115516,
-  "2023-01-16": 115555,
-  "2023-01-17": 115600,
-  "2023-01-18": 115642,
-  "2023-01-19": 115686,
-  "2023-01-20": 115739,
-  "2023-01-21": 115785,
-  "2023-01-22": 115856,
-  "2023-01-23": 115878,
-  "2023-01-24": 115936,
-  "2023-01-25": 115993,
-  "2023-01-26": 116023,
-  "2023-01-27": 116067,
-  "2023-01-28": 116109,
-  "2023-01-29": 116158,
-  "2023-01-30": 116201,
-  "2023-01-31": 116201,
-  "2023-02-01": 116293,
-  "2023-02-02": 116332,
-  "2023-02-03": 116378,
-  "2023-02-04": 116428,
-  "2023-02-05": 116480,
-  "2023-02-06": 116534,
-  "2023-02-07": 116577,
-  "2023-02-08": 116670,
-  "2023-02-09": 116670,
-  "2023-02-10": 116715,
-  "2023-02-11": 116760,
-  "2023-02-12": 116892,
-  "2023-02-13": 116947,
-  "2023-02-14": 116947,
-  "2023-02-15": 116981,
-  "2023-02-16": 117018,
-  "2023-02-17": 117062,
-  "2023-02-18": 117160,
-  "2023-02-19": 117163,
-  "2023-02-20": 117210,
-  "2023-02-21": 117239,
-  "2023-02-22": 117282,
-  "2023-02-23": 117322,
-  "2023-02-24": 117380,
-  "2023-02-25": 117447,
-  "2023-02-26": 117498,
-  "2023-02-27": 117596,
-  "2023-02-28": 117596,
-  "2023-03-01": 117648,
-  "2023-03-02": 117698,
-  "2023-03-03": 117739,
-  "2023-03-04": 117781,
-  "2023-03-05": 117896,
-  "2023-03-06": 117896,
-  "2023-03-07": 117948,
-  "2023-03-08": 117987,
-  "2023-03-09": 118013,
-  "2023-03-10": 118048,
-  "2023-03-11": 118086,
-  "2023-03-12": 118148,
-  "2023-03-13": 118204,
-  "2023-03-14": 118230,
-  "2023-03-15": 118269,
-  "2023-03-16": 118269,
-  "2023-03-17": 118269,
-  "2023-03-18": 118402,
-  "2023-03-19": 118402,
-  "2023-03-20": 118534,
-  "2023-03-21": 118571,
-  "2023-03-22": 118605,
-  "2023-03-23": 118659,
-  "2023-03-24": 118659,
-  "2023-03-25": 118758,
-  "2023-03-26": 118801,
-  "2023-03-27": 118860,
-  "2023-03-28": 118898,
-  "2023-03-29": 118933,
-  "2023-03-30": 119036,
-  "2023-03-31": 119036,
-  "2023-04-01": 119082,
-  "2023-04-02": 119156,
-  "2023-04-03": 119207,
-  "2023-04-04": 119258,
-  "2023-04-05": 119295,
-  "2023-04-06": 119335,
-  "2023-04-07": 119372,
-  "2023-04-09": 119459,
-  "2023-04-10": 119500,
-  "2023-04-11": 119601,
-  "2023-04-12": 119601,
-  "2023-04-13": 119636,
-  "2023-04-14": 119693,
-  "2023-04-15": 119740,
-  "2023-04-16": 119786,
-  "2023-04-17": 119832,
-  "2023-04-18": 119850,
-  "2023-04-19": 119895,
-  "2023-04-20": 119928,
-  "2023-04-21": 119972,
-  "2023-04-22": 120029,
-  "2023-04-23": 120084,
-  "2023-04-24": 120133,
-  "2023-04-25": 120172,
-  "2023-04-26": 120208,
-  "2023-04-27": 120243,
-  "2023-04-28": 120299,
-  "2023-04-29": 120336,
-  "2023-04-30": 120394,
-  "2023-05-01": 120445,
-  "2023-05-02": 120506,
-  "2023-05-03": 120537,
-  "2023-05-04": 120580,
-  "2023-05-05": 120617,
-  "2023-05-06": 120659,
-  "2023-05-07": 120698,
-  "2023-05-08": 120743,
-  "2023-05-09": 120779,
-  "2023-05-10": 120813,
-  "2023-05-11": 120865,
-  "2023-05-12": 120906,
-  "2023-05-13": 120967,
-  "2023-05-14": 121026,
-  "2023-05-15": 121068,
-  "2023-05-16": 121113,
-  "2023-05-17": 121162,
-  "2023-05-18": 121194,
-  "2023-05-19": 121228,
-  "2023-05-20": 121328,
-  "2023-05-21": 121328,
-  "2023-05-22": 121328,
-  "2023-05-23": 121438,
-  "2023-05-24": 121537,
-  "2023-05-25": 121545,
-  "2023-05-26": 121597,
-  "2023-05-27": 121630,
-  "2023-05-28": 121683,
-  "2023-05-29": 121683,
-  "2023-05-30": 121763,
-  "2023-05-31": 121801,
-  "2023-06-01": 121823,
-  "2023-06-02": 121871,
-  "2023-06-03": 121936,
-  "2023-06-04": 121996,
-  "2023-06-05": 122035,
-  "2023-06-06": 122071,
-  "2023-06-07": 122117,
-  "2023-06-08": 122150,
-  "2023-06-09": 122190,
-  "2023-06-10": 122216,
-  "2023-06-11": 122240,
-  "2023-06-12": 122267,
-  "2023-06-13": 122302,
-  "2023-06-14": 122324,
-  "2023-06-15": 122341,
-  "2023-06-16": 122371,
-  "2023-06-17": 122388,
-  "2023-06-18": 122405,
-  "2023-06-19": 122425,
-  "2023-06-20": 122452,
-  "2023-06-21": 122462,
-  "2023-06-22": 122489,
-  "2023-06-23": 122514,
-  "2023-06-24": 122531,
-  "2023-06-25": 122553,
-  "2023-06-26": 122572,
-  "2023-06-27": 122588,
-  "2023-06-28": 122603,
-  "2023-06-29": 122614,
-  "2023-06-30": 122637,
-  "2023-07-01": 122669,
-  "2023-07-02": 122669,
-  "2023-07-03": 122681,
-  "2023-07-04": 122690,
-  "2023-07-05": 122706,
-  "2023-07-06": 122742,
-  "2023-07-07": 122742,
-  "2023-07-08": 122760,
-  "2023-07-09": 122780,
-  "2023-07-10": 122793,
-  "2023-07-11": 122803,
-  "2023-07-12": 122814,
-  "2023-07-13": 122830,
-  "2023-07-14": 122859,
-  "2023-07-15": 122864,
-  "2023-07-16": 122899,
-  "2023-07-17": 122919,
-  "2023-07-18": 122940,
-  "2023-07-19": 122939,
-  "2023-07-20": 122952,
-  "2023-07-21": 122977,
-  "2023-07-22": 122990,
-  "2023-07-23": 123022,
-  "2023-07-24": 123041,
-  "2023-07-25": 123064,
-  "2023-07-26": 123079,
-  "2023-07-27": 123089,
-  "2023-07-28": 123120,
-  "2023-07-29": 123140,
-  "2023-07-30": 123162,
-  "2023-07-31": 123177,
-  "2023-08-01": 123203,
-  "2023-08-02": 123228,
-  "2023-08-03": 123251,
-  "2023-08-04": 123271,
-  "2023-08-05": 123280,
-  "2023-08-06": 123341,
-  "2023-08-07": 123341,
-  "2023-08-08": 123366,
-  "2023-08-09": 123389,
-  "2023-08-10": 123412,
-  "2023-08-11": 123426,
-  "2023-08-12": 123426,
-  "2023-08-13": 123426,
-  "2023-08-14": 123504,
-  "2023-08-15": 123504,
-  "2023-08-16": 123504,
-  "2023-08-17": 123576,
-  "2023-08-18": 123576,
-  "2023-08-19": 123576,
-  "2023-08-20": 123640,
-  "2023-08-21": 123640,
-  "2023-08-22": 123675,
-  "2023-08-23": 123675,
-  "2023-08-24": 123675,
-  "2023-08-25": 123675,
-  "2023-08-26": 123747,
-  "2023-08-27": 123747,
-  "2023-08-28": 123802,
-  "2023-08-29": 123802,
-  "2023-08-30": 123802,
-  "2023-08-31": 123869,
-  "2023-09-01": 123897,
-  "2023-09-02": 123897,
-  "2023-09-03": 123939,
-  "2023-09-04": 123939,
-  "2023-09-05": 123939,
-  "2023-09-06": 123984,
-  "2023-09-07": 123984,
-  "2023-09-08": 123984,
-  "2023-09-09": 123984,
-  "2023-09-10": 124087,
-  "2023-09-11": 124087,
-  "2023-09-12": 124087,
-  "2023-09-13": 124174,
-  "2023-09-14": 124174,
-  "2023-09-15": 124174,
-  "2023-09-16": 124232,
-  "2023-09-17": 124232,
-  "2023-09-18": 124232,
-  "2023-09-19": 124315,
-  "2023-09-20": 124315,
-  "2023-09-21": 124315,
-  "2023-09-22": 124357,
-  "2023-09-23": 124357,
-  "2023-09-24": 124357,
-  "2023-09-25": 124357,
-  "2023-09-26": 124455,
-  "2023-09-27": 124455,
-  "2023-09-28": 124455,
-  "2023-09-29": 124455,
-  "2023-09-30": 124455,
-  "2023-10-01": 124455,
-  "2023-10-02": 124630,
-  "2023-10-03": 124630,
-  "2023-10-04": 124630,
-  "2023-10-05": 124691,
-  "2023-10-06": 124691,
-  "2023-10-07": 124691,
-  "2023-10-08": 124691,
-  "2023-10-09": 124691,
-  "2023-10-10": 124691,
-  "2023-10-11": 124750,
-  "2023-10-12": 124750,
-  "2023-10-13": 124750,
-  "2023-10-14": 124750,
-  "2023-10-15": 124750,
-  "2023-10-16": 124750,
-  "2023-10-17": 124750,
-  "2023-10-18": 124750,
-  "2023-10-19": 124750,
-  "2023-10-20": 124750,
-  "2023-10-21": 124750,
-  "2023-10-22": 124750,
-  "2023-10-23": 124750,
-  "2023-10-24": 124750,
-  "2023-10-25": 124750,
-  "2023-10-26": 124750,
-  "2023-10-27": 124750,
-  "2023-10-28": 124750,
-  "2023-10-29": 124750,
-  "2023-10-30": 124750,
-  "2023-10-31": 124750,
-  "2023-11-01": 124750,
-  "2023-11-02": 124750,
-  "2023-11-03": 124750,
-  "2023-11-04": 124750,
-  "2023-11-05": 124750,
-  "2023-11-06": 124750,
-  "2023-11-07": 124750,
-  "2023-11-08": 124750,
-  "2023-11-09": 124750,
-  "2023-11-10": 124750,
-  "2023-11-11": 125345,
-  "2023-11-12": 125345,
-  "2023-11-13": 125345,
-  "2023-11-14": 125345,
-  "2023-11-15": 125345,
-  "2023-11-16": 125345,
-  "2023-11-17": 125345,
-  "2023-11-18": 125345,
-  "2023-11-19": 125345,
-  "2023-11-20": 125345,
-  "2023-11-21": 125345,
-  "2023-11-22": 125345,
-  "2023-11-23": 125345,
-  "2023-11-24": 125345,
-  "2023-11-25": 125345,
-  "2023-11-26": 125345,
-  "2023-11-27": 125345,
-  "2023-11-28": 125345,
-  "2023-11-29": 125345,
-  "2023-11-30": 125345,
-  "2023-12-01": 125345,
-  "2023-12-02": 125345,
-  "2023-12-03": 125345,
-  "2023-12-04": 125345,
-  "2023-12-05": 125345,
-  "2023-12-06": 125345,
-  "2023-12-07": 125345,
-  "2023-12-08": 125345,
-  "2023-12-09": 125345,
-  "2023-12-10": 125345,
-  "2023-12-11": 125345,
-  "2023-12-12": 125345,
-  "2023-12-13": 125345,
-  "2023-12-14": 126007,
-  "2023-12-15": 126017,
-  "2023-12-16": 126057,
-  "2023-12-17": 126071,
-  "2023-12-18": 126089,
-  "2023-12-19": 126115,
-  "2023-12-20": 126133,
-  "2023-12-21": 126162,
-  "2023-12-22": 126169,
-  "2023-12-23": 126185,
-  "2023-12-24": 126204,
-  "2023-12-25": 126236,
-  "2023-12-26": 126270,
-  "2023-12-27": 126295,
-  "2023-12-30": 126353,
-  "2023-12-31": 126373,
-  "2024-01-01": 126382,
-  "2024-01-02": 126384,
-  "2024-01-03": 126397
+  "2024-01-17": 126437,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
+  "name": "This Is Chuck Berry",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "The Five Demensions",
+          "url": "https://open.spotify.com/artist/354cBlEcGSDQVkiFUMJb4q"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 138360,
+      "name": "After It's Over",
+      "url": "https://open.spotify.com/track/1s0aTfvrUjpVwHZC8WMcds"
+    },
+    {
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132413,
+      "name": "Ain't That Just Like A Woman",
+      "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 141960,
+      "name": "Almost Grown",
+      "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 114040,
+      "name": "Anthony Boy",
+      "url": "https://open.spotify.com/track/43Nyh6ndafXIC9pdiQtmMn"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 162400,
+      "name": "Around And Around",
+      "url": "https://open.spotify.com/track/39AyLDOmmidKqmwvkNfnD9"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Beautiful Delilah - Alternate Takes 15/16",
+      "url": "https://open.spotify.com/track/4RdZsxHKdBVjRj1PgcCe4h"
+    },
+    {
+      "album": {
+        "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
+        "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 151400,
+      "name": "Berry Picking",
+      "url": "https://open.spotify.com/track/6F4aIzp1hASqm61oknBrBQ"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 151893,
+      "name": "Betty Jean",
+      "url": "https://open.spotify.com/track/6ZOsXHXXUg8hvyyGDIo47L"
+    },
+    {
+      "album": {
+        "name": "Johnny B. Goode: His Complete '50s Chess Recordings",
+        "url": "https://open.spotify.com/album/0ph1JYIJWpKRtnStdeAqMy"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 158853,
+      "name": "Betty Jean - Alternate Take 17",
+      "url": "https://open.spotify.com/track/5qtEZ5zWDO3Hk1Ul7TgzZ7"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185845,
+      "name": "Big Boys",
+      "url": "https://open.spotify.com/track/2Srwzgs6tbJDB4Sm8lUDI0"
+    },
+    {
+      "album": {
+        "name": "Bio",
+        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264386,
+      "name": "Bio",
+      "url": "https://open.spotify.com/track/0bfxTlDQs6QGfwGNCiXVWE"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 179400,
+      "name": "Blue Feeling",
+      "url": "https://open.spotify.com/track/5nufXDYNNysRenPf1Kbm0C"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Blues For Hawaiians",
+      "url": "https://open.spotify.com/track/0FvO7DbDxOr5LKyKhMAwe9"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "Bordeaux In My Pirough",
+      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 134000,
+      "name": "Brenda Lee",
+      "url": "https://open.spotify.com/track/6q8K5OecXDxDAcvleP2Jxo"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 137106,
+      "name": "Brown Eyed Handsome Man",
+      "url": "https://open.spotify.com/track/2KIz4ileT7mvzFhAR8U5gS"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 158826,
+      "name": "Butterscotch",
+      "url": "https://open.spotify.com/track/5BIE8dluPeZeets1wQ1Rjz"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122533,
+      "name": "Bye Bye Johnny - Single Version",
+      "url": "https://open.spotify.com/track/6qIMhhXZckFxcWLzevDQaz"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 168600,
+      "name": "Carol",
+      "url": "https://open.spotify.com/track/41ADUIxv4MkkWi7kgaZMrH"
+    },
+    {
+      "album": {
+        "name": "Live From Blueberry Hill",
+        "url": "https://open.spotify.com/album/7e9MQMnwlh4dsIujqbIYPJ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280240,
+      "name": "Carol / Little Queenie (Live from Blueberry Hill)",
+      "url": "https://open.spotify.com/track/2KeDv0gOVD8afM2NhToKqs"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107026,
+      "name": "Come On - Stereo Version",
+      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 126226,
+      "name": "Confessin' The Blues",
+      "url": "https://open.spotify.com/track/26VeLcnNOv7iOtzb7VuHZF"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 200373,
+      "name": "Darlin'",
+      "url": "https://open.spotify.com/track/4yGYG9Md4QOkr8mIGGEbWn"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109466,
+      "name": "Dear Dad - Single Version",
+      "url": "https://open.spotify.com/track/6b27e8J1dUre0H9xBM9rvs"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 138693,
+      "name": "Deep Feeling",
+      "url": "https://open.spotify.com/track/5WzcyZ29VEeMimQpAiDc8q"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 138762,
+      "name": "Deep Feeling",
+      "url": "https://open.spotify.com/track/5prdcGHWUAPxipEShWCt9B"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 126853,
+      "name": "Don't You Lie To Me",
+      "url": "https://open.spotify.com/track/4swHUuuN5IDBFsBYAHBude"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130506,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/40CEDufMDlElkfyBvWUtsE"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 136640,
+      "name": "Driftin' Blues",
+      "url": "https://open.spotify.com/track/2IU72SQcNQd668V0tWToNe"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227606,
+      "name": "Dutchman",
+      "url": "https://open.spotify.com/track/2frsHNDxTSKVM7nPPUdtIk"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 147177,
+      "name": "Eyes Of Man",
+      "url": "https://open.spotify.com/track/5Ct3NYsxo6hZm67Vy0kqQl"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248440,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/5mamyGJMka04qxtY1vtfWG"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 170973,
+      "name": "Fish & Chips",
+      "url": "https://open.spotify.com/track/55Dm1JrlmsD6rO8UYyW8xP"
+    },
+    {
+      "album": {
+        "name": "Live At Fillmore Auditorium",
+        "url": "https://open.spotify.com/album/5FJCM8i8sWEjra1sXI9mIQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161893,
+      "name": "Flying Home - Live At Fillmore Auditorium, San Francisco, CA/1967",
+      "url": "https://open.spotify.com/track/3eswSYTPy8wMVWcc05cLpv"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178106,
+      "name": "Go Bobby Soxer",
+      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151706,
+      "name": "Go Go Go",
+      "url": "https://open.spotify.com/track/7n6DqQOYC6iMvMh9UESzq7"
+    },
+    {
+      "album": {
+        "name": "Bio",
+        "url": "https://open.spotify.com/album/1xp040eLv4xv5lP1JOOeFU"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 258706,
+      "name": "Got It And Gone",
+      "url": "https://open.spotify.com/track/06xBtSrfEFNjcEJ0s92txV"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 139520,
+      "name": "Guitar Boogie",
+      "url": "https://open.spotify.com/track/5ryMXRfAlmV5nyNueN3B1q"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 127880,
+      "name": "Gun - Instrumental - Fast",
+      "url": "https://open.spotify.com/track/2VfqSzJTiokxWLhTQE2icH"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 186706,
+      "name": "Havana Moon",
+      "url": "https://open.spotify.com/track/1dwg7tCqzs616yYWj6NJ2i"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Have Mercy Judge",
+      "url": "https://open.spotify.com/track/3uGQF4XUYwF386cnx84Zjg"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 117066,
+      "name": "Hey Pedro",
+      "url": "https://open.spotify.com/track/0VUc41McjQW8ILujFWlP5t"
+    },
+    {
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/2U6uSo9qSTzQ9HytKNIZuO"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147866,
+      "name": "House Of Blue Lights",
+      "url": "https://open.spotify.com/track/2dp8UKD7PuF6UG0brvp8O2"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150333,
+      "name": "I Do Really Love You",
+      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132973,
+      "name": "I Got To Find My Baby - Single Version",
+      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 126306,
+      "name": "I Just Want To Make Love To You",
+      "url": "https://open.spotify.com/track/7sRg67id5TLWisBSYYJZPa"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 140466,
+      "name": "I Want To Be Your Driver - Stereo Remix",
+      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275440,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108320,
+      "name": "I'm Talking About You",
+      "url": "https://open.spotify.com/track/4Qz94VdIvKAmtBIyuoAZW9"
+    },
+    {
+      "album": {
+        "name": "Deep Down (Live 1988)",
+        "url": "https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 88600,
+      "name": "Instrumental - Live 1988",
+      "url": "https://open.spotify.com/track/3X1IjxYCtYz7y4bklmaZcl"
+    },
+    {
+      "album": {
+        "name": "Toronto Rock 'N' Roll Revival 1969",
+        "url": "https://open.spotify.com/album/73nLDkfjI8BrtGYroJ2m6x"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "Kim Fowley",
+          "url": "https://open.spotify.com/artist/6AgAlEkTLN4m5ZERuhiWnk"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 51813,
+      "name": "Intro - Live",
+      "url": "https://open.spotify.com/track/095WJDgl4V3FCjak55NUYl"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Vault",
+        "url": "https://open.spotify.com/album/7i36DC6cqbbOTH9S2XktgN"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        },
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290546,
+      "name": "It Hurts Me Too - Live",
+      "url": "https://open.spotify.com/track/3k0nHXQLlpb9qyXdUKiIaL"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 108653,
+      "name": "Jaguar And Thunderbird - Single Version",
+      "url": "https://open.spotify.com/track/15GFTL6NH2ZbT4EsX0gYKS"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161560,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
+    },
+    {
+      "album": {
+        "name": "Deep Down (Live 1988)",
+        "url": "https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208448,
+      "name": "Key To The Highway - Live 1988",
+      "url": "https://open.spotify.com/track/0fxHu0a5H445sDyJzgFJXl"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 175560,
+      "name": "Lady B. Goode",
+      "url": "https://open.spotify.com/track/3mtry5ywMoh9yz388egZb9"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 102800,
+      "name": "Let It Rock - Single Version",
+      "url": "https://open.spotify.com/track/2OCoH12t6olzx9bT1PEC8F"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142440,
+      "name": "Let's Do Our Thing Together",
+      "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 155933,
+      "name": "Little Marie",
+      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 163800,
+      "name": "Little Queenie",
+      "url": "https://open.spotify.com/track/0OA0lBeSRzpXyAbv8iTXw6"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 174066,
+      "name": "Liverpool Drive",
+      "url": "https://open.spotify.com/track/4mES1b0btx9sJcIgmYQuNd"
+    },
+    {
+      "album": {
+        "name": "From St. Louie To Frisco",
+        "url": "https://open.spotify.com/album/4qce3g6j5IGks63lY23eTD"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "Louis To Frisco",
+      "url": "https://open.spotify.com/track/6H7OQEC6V2X0mB0ss3yrI8"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 127040,
+      "name": "Mad Lad",
+      "url": "https://open.spotify.com/track/277NWxQbxBdp5zr6UJf7zQ"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143240,
+      "name": "Maybellene",
+      "url": "https://open.spotify.com/track/3SQhmctWreNM0X6Zkm2K5R"
+    },
+    {
+      "album": {
+        "name": "Live From Blueberry Hill",
+        "url": "https://open.spotify.com/album/7e9MQMnwlh4dsIujqbIYPJ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 247226,
+      "name": "Mean Old World (Live from Blueberry Hill)",
+      "url": "https://open.spotify.com/track/3aE0i39IoZfDFINyQJ4SpC"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131800,
+      "name": "Memphis, Tennessee",
+      "url": "https://open.spotify.com/track/3UYtylPa55RqHS1YDGZoLs"
+    },
+    {
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 130746,
+      "name": "Merrily We Rock And Roll",
+      "url": "https://open.spotify.com/track/5XMbHcPHA2Lss3LjaL6urR"
+    },
+    {
+      "album": {
+        "name": "Have Mercy - His Complete Chess Recordings 1969 - 1974",
+        "url": "https://open.spotify.com/album/27q84AdiSVhTtrGOwwoMIW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223573,
+      "name": "My Ding-A-Ling",
+      "url": "https://open.spotify.com/track/2L8mIvM1OwkJyGb3WwDFT3"
+    },
+    {
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136546,
+      "name": "My Mustang Ford",
+      "url": "https://open.spotify.com/track/0IHYNEHVT1zMEeNOgvyg9B"
+    },
+    {
+      "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Nadine - Stereo Remix",
+      "url": "https://open.spotify.com/track/5QHrCl8kOMIFOWYQQzHXFH"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 163600,
+      "name": "Night Beat",
+      "url": "https://open.spotify.com/track/71wEZwBWvq7M2VpC5otqwp"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 177200,
+      "name": "No Money Down",
+      "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "No Particular Place To Go",
+      "url": "https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 156360,
+      "name": "Oh Baby Doll",
+      "url": "https://open.spotify.com/track/6AxUkSoQ9zQdLlBGni4rpf"
+    },
+    {
+      "album": {
+        "name": "Deep Down (Live 1988)",
+        "url": "https://open.spotify.com/album/15u7l4b4ypfwVaLnMZ5UJW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 300080,
+      "name": "Oh Carol/Little Queenie - Live 1988",
+      "url": "https://open.spotify.com/track/2YgmyEnXtKdpKtLN8Yqgxj"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270293,
+      "name": "Oh Louisiana",
+      "url": "https://open.spotify.com/track/0j4srnVsqW8qXpZ5zlwzoI"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 143306,
+      "name": "Promised Land",
+      "url": "https://open.spotify.com/track/2lDArps4owX3Q6rOIA4Osp"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 156173,
+      "name": "Ramblin' Rose",
+      "url": "https://open.spotify.com/track/411K0FJ0dHHCqxy6S3lOvC"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 195186,
+      "name": "Reelin' And Rockin'",
+      "url": "https://open.spotify.com/track/4goByJ8dubc57qxiT7AH9p"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 129626,
+      "name": "Rip It Up",
+      "url": "https://open.spotify.com/track/1UsUBJcQkR4Z1acjqXpXOJ"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 151773,
+      "name": "Rock And Roll Music",
+      "url": "https://open.spotify.com/track/09hxCc0SgV8u46gWsfeqJA"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/6C7aTTCUWRK7dD379yUT3W"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Route 66",
+      "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "School Day (Ring Ring Goes The Bell)",
+      "url": "https://open.spotify.com/track/3RYwxAkUbHCzCmX8M0C0Zd"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "Shake, Rattle And Roll",
+      "url": "https://open.spotify.com/track/1JbHO0Kx2VsukFk0tEZVJt"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry In London",
+        "url": "https://open.spotify.com/album/7iSQ8Jg0DA18JCl4SqpDEW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157320,
+      "name": "St. Louis Blues",
+      "url": "https://open.spotify.com/track/0tsgFZdGoCVMeaXVmnrWbF"
+    },
+    {
+      "album": {
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7tlJjyQw0cDB9R2lIXw2ey"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125106,
+      "name": "Still Got The Blues",
+      "url": "https://open.spotify.com/track/5IpREDjsiqYQNvHqg4Qj3G"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 145000,
+      "name": "Stop And Listen",
+      "url": "https://open.spotify.com/track/5whtQ7ikMFVYSDWtC0Un3P"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 148973,
+      "name": "Surfin' Steel",
+      "url": "https://open.spotify.com/track/5YaHA0d2R9zlKkxkzjpPag"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry",
+        "url": "https://open.spotify.com/album/22lITYheqEYw53CHJiQMgW"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158560,
+      "name": "Swanee River",
+      "url": "https://open.spotify.com/track/0wkqsHA4zsWoY5y4EKLfoO"
+    },
+    {
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/6eedtCtCjibu80yOhylSGL"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142760,
+      "name": "Sweet Little Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/5a38im3bvcPzWWIuMegbTe"
+    },
+    {
+      "album": {
+        "name": "One Dozen Berry's",
+        "url": "https://open.spotify.com/album/7CwgdWMtqOgQRzOdzHMwiQ"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 180746,
+      "name": "Sweet Little Sixteen",
+      "url": "https://open.spotify.com/track/4GWHrdyVTC0AWwuRgoWzE7"
+    },
+    {
+      "album": {
+        "name": "New Juke Box Hits",
+        "url": "https://open.spotify.com/album/66vytUOJAN0XG0AomrREtH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165413,
+      "name": "Sweet Sixteen",
+      "url": "https://open.spotify.com/track/0MOJRZrM1SvFN8mEtHCy5d"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "The Things I Used To Do",
+      "url": "https://open.spotify.com/track/1SN4rhqg4U3mlS6oxSP1jZ"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142586,
+      "name": "Thirty Days - Single Version",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 174133,
+      "name": "Too Much Monkey Business",
+      "url": "https://open.spotify.com/track/0aS1p8fwu06q47zUdShfAv"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 152026,
+      "name": "Too Pooped To Pop - Single Version",
+      "url": "https://open.spotify.com/track/70SnE9a7hQL6H067apySdF"
+    },
+    {
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91666,
+      "name": "Trick Or Treat",
+      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
+    },
+    {
+      "album": {
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Tulane",
+      "url": "https://open.spotify.com/track/5L5RO8srDgDnWcAAy2v5Br"
+    },
+    {
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122480,
+      "name": "Viva Viva Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
+    },
+    {
+      "album": {
+        "name": "Fresh Berry's",
+        "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 193466,
+      "name": "Wee Hour Blues",
+      "url": "https://open.spotify.com/track/0ae4q9XpajNlkTy4BzKdRC"
+    },
+    {
+      "album": {
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 182906,
+      "name": "Wee Wee Hours",
+      "url": "https://open.spotify.com/track/2P7FDhmzGh4iJ2ATb7d9oo"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/74y5Z8TjHts4ATRMPZ7NLi"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 319798,
+      "name": "Wonderful Woman",
+      "url": "https://open.spotify.com/track/66aruvWctg2xPjzAwtaHHk"
+    },
+    {
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 128000,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/1329OxVQDaX1fRbgBz4z9N"
+    },
+    {
+      "album": {
+        "name": "The Great Twenty-Eight",
+        "url": "https://open.spotify.com/album/4hQtcgvaybCqBsTrfiL1jC"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "You Can't Catch Me - Single Version",
+      "url": "https://open.spotify.com/track/4xPPWZKEMw6u2cfmqcswSP"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "You Never Can Tell",
+      "url": "https://open.spotify.com/track/6FT83pFXKhDlXDsNJFAHWz"
+    },
+    {
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129840,
+      "name": "You Two",
+      "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dAid2"
 }

@@ -1,621 +1,1787 @@
 {
-  "2022-04-19": 2306,
-  "2022-04-20": 2311,
-  "2022-04-21": 2321,
-  "2022-04-22": 2327,
-  "2022-04-23": 2333,
-  "2022-04-24": 2342,
-  "2022-04-25": 2351,
-  "2022-04-26": 2361,
-  "2022-04-27": 2368,
-  "2022-04-28": 2376,
-  "2022-04-29": 2385,
-  "2022-04-30": 2394,
-  "2022-05-01": 2403,
-  "2022-05-02": 2403,
-  "2022-05-03": 2408,
-  "2022-05-04": 2414,
-  "2022-05-05": 2418,
-  "2022-05-06": 2424,
-  "2022-05-07": 2434,
-  "2022-05-08": 2446,
-  "2022-05-09": 2446,
-  "2022-05-10": 2450,
-  "2022-05-11": 2456,
-  "2022-05-12": 2466,
-  "2022-05-13": 2468,
-  "2022-05-14": 2476,
-  "2022-05-15": 2484,
-  "2022-05-16": 2488,
-  "2022-05-17": 2492,
-  "2022-05-18": 2508,
-  "2022-05-19": 2518,
-  "2022-05-20": 2533,
-  "2022-05-21": 2545,
-  "2022-05-22": 2545,
-  "2022-05-23": 2558,
-  "2022-05-24": 2566,
-  "2022-05-25": 2580,
-  "2022-05-26": 2589,
-  "2022-05-27": 2594,
-  "2022-05-28": 2611,
-  "2022-05-29": 2625,
-  "2022-05-30": 2631,
-  "2022-05-31": 2646,
-  "2022-06-01": 2670,
-  "2022-06-02": 2671,
-  "2022-06-03": 2686,
-  "2022-06-04": 2698,
-  "2022-06-05": 2715,
-  "2022-06-06": 2729,
-  "2022-06-07": 2738,
-  "2022-06-08": 2748,
-  "2022-06-09": 2761,
-  "2022-06-10": 2771,
-  "2022-06-11": 2781,
-  "2022-06-12": 2788,
-  "2022-06-13": 2798,
-  "2022-06-14": 2805,
-  "2022-06-15": 2815,
-  "2022-06-16": 2825,
-  "2022-06-17": 2838,
-  "2022-06-18": 2846,
-  "2022-06-19": 2874,
-  "2022-06-20": 2874,
-  "2022-06-21": 2886,
-  "2022-06-22": 2997,
-  "2022-06-23": 2997,
-  "2022-06-24": 3039,
-  "2022-06-25": 3074,
-  "2022-06-26": 3107,
-  "2022-06-27": 3147,
-  "2022-06-28": 3175,
-  "2022-06-29": 3187,
-  "2022-06-30": 3204,
-  "2022-07-01": 3211,
-  "2022-07-02": 3220,
-  "2022-07-03": 3234,
-  "2022-07-04": 3246,
-  "2022-07-05": 3259,
-  "2022-07-06": 3275,
-  "2022-07-07": 3288,
-  "2022-07-08": 3298,
-  "2022-07-09": 3314,
-  "2022-07-10": 3334,
-  "2022-07-11": 3339,
-  "2022-07-12": 3344,
-  "2022-07-13": 3358,
-  "2022-07-14": 3371,
-  "2022-07-15": 3377,
-  "2022-07-16": 3390,
-  "2022-07-17": 3401,
-  "2022-07-18": 3412,
-  "2022-07-19": 3425,
-  "2022-07-20": 3432,
-  "2022-07-21": 3445,
-  "2022-07-22": 3462,
-  "2022-07-23": 3467,
-  "2022-07-24": 3479,
-  "2022-07-25": 3490,
-  "2022-07-26": 3506,
-  "2022-07-27": 3509,
-  "2022-07-28": 3512,
-  "2022-07-29": 3516,
-  "2022-07-30": 3538,
-  "2022-07-31": 3538,
-  "2022-08-01": 3549,
-  "2022-08-02": 3562,
-  "2022-08-03": 3562,
-  "2022-08-04": 3573,
-  "2022-08-05": 3578,
-  "2022-08-06": 3586,
-  "2022-08-07": 3599,
-  "2022-08-08": 3602,
-  "2022-08-09": 3608,
-  "2022-08-10": 3614,
-  "2022-08-11": 3618,
-  "2022-08-12": 3630,
-  "2022-08-13": 3639,
-  "2022-08-14": 3650,
-  "2022-08-15": 3657,
-  "2022-08-16": 3666,
-  "2022-08-17": 3673,
-  "2022-08-18": 3675,
-  "2022-08-19": 3682,
-  "2022-08-20": 3686,
-  "2022-08-21": 3694,
-  "2022-08-22": 3703,
-  "2022-08-23": 3708,
-  "2022-08-24": 3714,
-  "2022-08-25": 3716,
-  "2022-08-26": 3724,
-  "2022-08-27": 3733,
-  "2022-08-28": 3737,
-  "2022-08-29": 3739,
-  "2022-08-30": 3746,
-  "2022-08-31": 3747,
-  "2022-09-01": 3750,
-  "2022-09-02": 3752,
-  "2022-09-03": 3760,
-  "2022-09-04": 3765,
-  "2022-09-05": 3770,
-  "2022-09-06": 3774,
-  "2022-09-07": 3780,
-  "2022-09-09": 3788,
-  "2022-09-10": 3792,
-  "2022-09-11": 3800,
-  "2022-09-12": 3802,
-  "2022-09-13": 3805,
-  "2022-09-15": 3819,
-  "2022-09-16": 3828,
-  "2022-09-17": 3830,
-  "2022-09-18": 3835,
-  "2022-09-19": 3839,
-  "2022-09-20": 3838,
-  "2022-09-21": 3838,
-  "2022-09-22": 3837,
-  "2022-09-23": 3843,
-  "2022-09-24": 3846,
-  "2022-09-25": 3852,
-  "2022-09-26": 3853,
-  "2022-09-27": 3851,
-  "2022-09-28": 3852,
-  "2022-09-29": 3855,
-  "2022-09-30": 3858,
-  "2022-10-01": 3861,
-  "2022-10-02": 3861,
-  "2022-10-03": 3863,
-  "2022-10-04": 3866,
-  "2022-10-05": 3869,
-  "2022-10-06": 3871,
-  "2022-10-07": 3878,
-  "2022-10-08": 3876,
-  "2022-10-09": 3880,
-  "2022-10-10": 3880,
-  "2022-10-11": 3884,
-  "2022-10-12": 3885,
-  "2022-10-13": 3890,
-  "2022-10-14": 3893,
-  "2022-10-15": 3892,
-  "2022-10-16": 3895,
-  "2022-10-17": 3898,
-  "2022-10-18": 3900,
-  "2022-10-19": 3902,
-  "2022-10-20": 3903,
-  "2022-10-21": 3904,
-  "2022-10-22": 3909,
-  "2022-10-23": 3910,
-  "2022-10-24": 3913,
-  "2022-10-25": 3916,
-  "2022-10-26": 3921,
-  "2022-10-27": 3921,
-  "2022-10-28": 3924,
-  "2022-10-29": 3926,
-  "2022-10-30": 3931,
-  "2022-10-31": 3932,
-  "2022-11-01": 3934,
-  "2022-11-02": 3934,
-  "2022-11-03": 3937,
-  "2022-11-04": 3939,
-  "2022-11-05": 3943,
-  "2022-11-06": 3947,
-  "2022-11-07": 3949,
-  "2022-11-08": 3952,
-  "2022-11-09": 3953,
-  "2022-11-10": 3953,
-  "2022-11-11": 3957,
-  "2022-11-12": 3960,
-  "2022-11-13": 3963,
-  "2022-11-14": 3967,
-  "2022-11-15": 3974,
-  "2022-11-16": 3979,
-  "2022-11-17": 3983,
-  "2022-11-18": 3983,
-  "2022-11-19": 3980,
-  "2022-11-20": 3981,
-  "2022-11-21": 3980,
-  "2022-11-22": 3988,
-  "2022-11-23": 3986,
-  "2022-11-24": 3991,
-  "2022-11-25": 3999,
-  "2022-11-26": 4002,
-  "2022-11-27": 4002,
-  "2022-11-28": 4004,
-  "2022-11-29": 4006,
-  "2022-11-30": 4008,
-  "2022-12-01": 4009,
-  "2022-12-02": 4015,
-  "2022-12-03": 4014,
-  "2022-12-04": 4017,
-  "2022-12-05": 4019,
-  "2022-12-06": 4022,
-  "2022-12-07": 4022,
-  "2022-12-08": 4023,
-  "2022-12-09": 4023,
-  "2022-12-10": 4025,
-  "2022-12-11": 4027,
-  "2022-12-12": 4026,
-  "2022-12-13": 4029,
-  "2022-12-14": 4029,
-  "2022-12-15": 4029,
-  "2022-12-16": 4032,
-  "2022-12-17": 4033,
-  "2022-12-18": 4035,
-  "2022-12-19": 4041,
-  "2022-12-20": 4043,
-  "2022-12-21": 4043,
-  "2022-12-22": 4046,
-  "2022-12-24": 4045,
-  "2022-12-25": 4045,
-  "2022-12-26": 4048,
-  "2022-12-27": 4049,
-  "2022-12-28": 4049,
-  "2022-12-29": 4049,
-  "2022-12-30": 4046,
-  "2022-12-31": 4049,
-  "2023-01-01": 4054,
-  "2023-01-02": 4055,
-  "2023-01-03": 4058,
-  "2023-01-04": 4060,
-  "2023-01-05": 4063,
-  "2023-01-06": 4066,
-  "2023-01-07": 4069,
-  "2023-01-08": 4070,
-  "2023-01-09": 4074,
-  "2023-01-10": 4074,
-  "2023-01-11": 4079,
-  "2023-01-12": 4084,
-  "2023-01-13": 4082,
-  "2023-01-14": 4091,
-  "2023-01-15": 4091,
-  "2023-01-16": 4090,
-  "2023-01-17": 4093,
-  "2023-01-18": 4097,
-  "2023-01-19": 4099,
-  "2023-01-20": 4104,
-  "2023-01-21": 4108,
-  "2023-01-22": 4116,
-  "2023-01-23": 4119,
-  "2023-01-24": 4123,
-  "2023-01-25": 4129,
-  "2023-01-26": 4128,
-  "2023-01-27": 4129,
-  "2023-01-28": 4132,
-  "2023-01-29": 4133,
-  "2023-01-30": 4136,
-  "2023-01-31": 4136,
-  "2023-02-01": 4143,
-  "2023-02-02": 4147,
-  "2023-02-03": 4147,
-  "2023-02-04": 4150,
-  "2023-02-05": 4151,
-  "2023-02-06": 4156,
-  "2023-02-07": 4160,
-  "2023-02-08": 4164,
-  "2023-02-09": 4164,
-  "2023-02-10": 4165,
-  "2023-02-11": 4168,
-  "2023-02-12": 4172,
-  "2023-02-13": 4175,
-  "2023-02-14": 4175,
-  "2023-02-15": 4177,
-  "2023-02-16": 4180,
-  "2023-02-17": 4180,
-  "2023-02-18": 4184,
-  "2023-02-19": 4184,
-  "2023-02-20": 4184,
-  "2023-02-21": 4186,
-  "2023-02-22": 4189,
-  "2023-02-23": 4189,
-  "2023-02-24": 4190,
-  "2023-02-25": 4195,
-  "2023-02-26": 4194,
-  "2023-02-27": 4199,
-  "2023-02-28": 4199,
-  "2023-03-01": 4199,
-  "2023-03-02": 4202,
-  "2023-03-03": 4203,
-  "2023-03-04": 4208,
-  "2023-03-05": 4215,
-  "2023-03-06": 4215,
-  "2023-03-07": 4217,
-  "2023-03-08": 4219,
-  "2023-03-09": 4223,
-  "2023-03-10": 4225,
-  "2023-03-11": 4226,
-  "2023-03-12": 4225,
-  "2023-03-13": 4226,
-  "2023-03-14": 4228,
-  "2023-03-15": 4231,
-  "2023-03-16": 4234,
-  "2023-03-17": 4234,
-  "2023-03-18": 4237,
-  "2023-03-19": 4239,
-  "2023-03-20": 4240,
-  "2023-03-21": 4240,
-  "2023-03-22": 4239,
-  "2023-03-23": 4240,
-  "2023-03-24": 4240,
-  "2023-03-25": 4241,
-  "2023-03-26": 4244,
-  "2023-03-27": 4246,
-  "2023-03-28": 4244,
-  "2023-03-29": 4248,
-  "2023-03-30": 4255,
-  "2023-03-31": 4255,
-  "2023-04-01": 4257,
-  "2023-04-02": 4259,
-  "2023-04-03": 4260,
-  "2023-04-04": 4263,
-  "2023-04-05": 4264,
-  "2023-04-06": 4270,
-  "2023-04-07": 4272,
-  "2023-04-09": 4279,
-  "2023-04-10": 4282,
-  "2023-04-11": 4286,
-  "2023-04-12": 4286,
-  "2023-04-13": 4286,
-  "2023-04-14": 4291,
-  "2023-04-15": 4289,
-  "2023-04-16": 4290,
-  "2023-04-17": 4291,
-  "2023-04-18": 4291,
-  "2023-04-19": 4293,
-  "2023-04-20": 4294,
-  "2023-04-21": 4297,
-  "2023-04-22": 4299,
-  "2023-04-23": 4303,
-  "2023-04-24": 4304,
-  "2023-04-25": 4306,
-  "2023-04-26": 4306,
-  "2023-04-27": 4309,
-  "2023-04-28": 4307,
-  "2023-04-29": 4312,
-  "2023-04-30": 4316,
-  "2023-05-01": 4317,
-  "2023-05-02": 4320,
-  "2023-05-03": 4322,
-  "2023-05-04": 4327,
-  "2023-05-05": 4328,
-  "2023-05-06": 4328,
-  "2023-05-07": 4330,
-  "2023-05-08": 4332,
-  "2023-05-09": 4334,
-  "2023-05-10": 4333,
-  "2023-05-11": 4337,
-  "2023-05-12": 4336,
-  "2023-05-13": 4343,
-  "2023-05-14": 4346,
-  "2023-05-15": 4354,
-  "2023-05-16": 4353,
-  "2023-05-17": 4358,
-  "2023-05-18": 4362,
-  "2023-05-19": 4364,
-  "2023-05-20": 4368,
-  "2023-05-21": 4368,
-  "2023-05-22": 4368,
-  "2023-05-23": 4373,
-  "2023-05-24": 4376,
-  "2023-05-25": 4376,
-  "2023-05-26": 4379,
-  "2023-05-27": 4377,
-  "2023-05-28": 4384,
-  "2023-05-29": 4384,
-  "2023-05-30": 4388,
-  "2023-05-31": 4386,
-  "2023-06-01": 4390,
-  "2023-06-02": 4393,
-  "2023-06-03": 4394,
-  "2023-06-04": 4400,
-  "2023-06-05": 4400,
-  "2023-06-06": 4407,
-  "2023-06-07": 4409,
-  "2023-06-08": 4410,
-  "2023-06-09": 4413,
-  "2023-06-10": 4413,
-  "2023-06-11": 4415,
-  "2023-06-12": 4418,
-  "2023-06-13": 4419,
-  "2023-06-14": 4420,
-  "2023-06-15": 4422,
-  "2023-06-16": 4427,
-  "2023-06-17": 4428,
-  "2023-06-18": 4432,
-  "2023-06-19": 4436,
-  "2023-06-20": 4436,
-  "2023-06-21": 4437,
-  "2023-06-22": 4436,
-  "2023-06-23": 4437,
-  "2023-06-24": 4437,
-  "2023-06-25": 4435,
-  "2023-06-26": 4438,
-  "2023-06-27": 4439,
-  "2023-06-28": 4445,
-  "2023-06-29": 4444,
-  "2023-06-30": 4446,
-  "2023-07-01": 4447,
-  "2023-07-02": 4447,
-  "2023-07-03": 4449,
-  "2023-07-04": 4450,
-  "2023-07-05": 4452,
-  "2023-07-06": 4454,
-  "2023-07-07": 4454,
-  "2023-07-08": 4456,
-  "2023-07-09": 4460,
-  "2023-07-10": 4463,
-  "2023-07-11": 4463,
-  "2023-07-12": 4463,
-  "2023-07-13": 4465,
-  "2023-07-14": 4467,
-  "2023-07-15": 4468,
-  "2023-07-16": 4475,
-  "2023-07-17": 4476,
-  "2023-07-18": 4477,
-  "2023-07-19": 4480,
-  "2023-07-20": 4477,
-  "2023-07-21": 4479,
-  "2023-07-22": 4480,
-  "2023-07-23": 4480,
-  "2023-07-24": 4484,
-  "2023-07-25": 4485,
-  "2023-07-26": 4487,
-  "2023-07-27": 4487,
-  "2023-07-28": 4487,
-  "2023-07-29": 4489,
-  "2023-07-30": 4490,
-  "2023-07-31": 4492,
-  "2023-08-01": 4493,
-  "2023-08-02": 4491,
-  "2023-08-03": 4492,
-  "2023-08-04": 4491,
-  "2023-08-05": 4494,
-  "2023-08-06": 4498,
-  "2023-08-07": 4498,
-  "2023-08-08": 4497,
-  "2023-08-09": 4498,
-  "2023-08-10": 4505,
-  "2023-08-11": 4509,
-  "2023-08-12": 4507,
-  "2023-08-13": 4509,
-  "2023-08-14": 4513,
-  "2023-08-15": 4514,
-  "2023-08-16": 4514,
-  "2023-08-17": 4519,
-  "2023-08-18": 4518,
-  "2023-08-19": 4521,
-  "2023-08-20": 4523,
-  "2023-08-21": 4524,
-  "2023-08-22": 4526,
-  "2023-08-23": 4527,
-  "2023-08-24": 4529,
-  "2023-08-25": 4529,
-  "2023-08-26": 4527,
-  "2023-08-27": 4528,
-  "2023-08-28": 4530,
-  "2023-08-29": 4530,
-  "2023-08-30": 4533,
-  "2023-08-31": 4532,
-  "2023-09-01": 4535,
-  "2023-09-02": 4535,
-  "2023-09-03": 4539,
-  "2023-09-04": 4537,
-  "2023-09-05": 4540,
-  "2023-09-06": 4541,
-  "2023-09-07": 4541,
-  "2023-09-08": 4543,
-  "2023-09-09": 4542,
-  "2023-09-10": 4543,
-  "2023-09-11": 4543,
-  "2023-09-12": 4543,
-  "2023-09-13": 4546,
-  "2023-09-14": 4546,
-  "2023-09-15": 4547,
-  "2023-09-16": 4548,
-  "2023-09-17": 4547,
-  "2023-09-18": 4550,
-  "2023-09-19": 4550,
-  "2023-09-20": 4552,
-  "2023-09-21": 4554,
-  "2023-09-22": 4553,
-  "2023-09-23": 4558,
-  "2023-09-24": 4558,
-  "2023-09-25": 4561,
-  "2023-09-26": 4562,
-  "2023-09-27": 4563,
-  "2023-09-28": 4563,
-  "2023-09-29": 4562,
-  "2023-09-30": 4566,
-  "2023-10-01": 4566,
-  "2023-10-02": 4566,
-  "2023-10-03": 4569,
-  "2023-10-04": 4570,
-  "2023-10-05": 4569,
-  "2023-10-06": 4568,
-  "2023-10-07": 4568,
-  "2023-10-08": 4567,
-  "2023-10-09": 4567,
-  "2023-10-10": 4567,
-  "2023-10-11": 4567,
-  "2023-10-12": 4567,
-  "2023-10-13": 4565,
-  "2023-10-14": 4564,
-  "2023-10-15": 4566,
-  "2023-10-16": 4566,
-  "2023-10-17": 4567,
-  "2023-10-18": 4568,
-  "2023-10-19": 4568,
-  "2023-10-20": 4567,
-  "2023-10-21": 4568,
-  "2023-10-22": 4568,
-  "2023-10-23": 4569,
-  "2023-10-24": 4570,
-  "2023-10-25": 4573,
-  "2023-10-26": 4574,
-  "2023-10-27": 4573,
-  "2023-10-28": 4573,
-  "2023-10-29": 4575,
-  "2023-10-30": 4575,
-  "2023-10-31": 4575,
-  "2023-11-01": 4574,
-  "2023-11-02": 4575,
-  "2023-11-03": 4575,
-  "2023-11-04": 4575,
-  "2023-11-05": 4576,
-  "2023-11-06": 4576,
-  "2023-11-07": 4575,
-  "2023-11-08": 4576,
-  "2023-11-09": 4575,
-  "2023-11-10": 4575,
-  "2023-11-11": 4576,
-  "2023-11-12": 4579,
-  "2023-11-13": 4579,
-  "2023-11-14": 4581,
-  "2023-11-15": 4581,
-  "2023-11-16": 4582,
-  "2023-11-17": 4583,
-  "2023-11-18": 4583,
-  "2023-11-19": 4581,
-  "2023-11-20": 4581,
-  "2023-11-21": 4581,
-  "2023-11-22": 4581,
-  "2023-11-23": 4582,
-  "2023-11-24": 4581,
-  "2023-11-25": 4580,
-  "2023-11-26": 4581,
-  "2023-11-27": 4580,
-  "2023-11-28": 4580,
-  "2023-11-29": 4581,
-  "2023-11-30": 4581,
-  "2023-12-01": 4579,
-  "2023-12-02": 4579,
-  "2023-12-03": 4579,
-  "2023-12-04": 4579,
-  "2023-12-05": 4580,
-  "2023-12-06": 4581,
-  "2023-12-07": 4581,
-  "2023-12-08": 4580,
-  "2023-12-09": 4581,
-  "2023-12-10": 4582,
-  "2023-12-11": 4583,
-  "2023-12-12": 4584,
-  "2023-12-13": 4585,
-  "2023-12-14": 4588,
-  "2023-12-15": 4587,
-  "2023-12-16": 4586,
-  "2023-12-17": 4586,
-  "2023-12-18": 4585,
-  "2023-12-19": 4583,
-  "2023-12-20": 4583,
-  "2023-12-21": 4582,
-  "2023-12-22": 4582,
-  "2023-12-23": 4582,
-  "2023-12-24": 4582,
-  "2023-12-25": 4583,
-  "2023-12-26": 4582,
-  "2023-12-27": 4582,
-  "2023-12-30": 4581,
-  "2023-12-31": 4580,
-  "2024-01-01": 4581,
-  "2024-01-02": 4582,
-  "2024-01-03": 4581
+  "2024-01-17": 4594,
+  "date_first_scraped": "2022-04-19",
+  "description": "Summer fun for the whole family.",
+  "name": "Summer Camp",
+  "tracks": [
+    {
+      "album": {
+        "name": "1-2-3 Fun Camp!",
+        "url": "https://open.spotify.com/album/2SxkoAjwKwE5G7PpRgvnb1"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99803,
+      "name": "1-2-3 Fun Camp!",
+      "url": "https://open.spotify.com/track/1fIjjOyu3ftxRUvCmwoNLj"
+    },
+    {
+      "album": {
+        "name": "Growing Up with Ella Jenkins: Rhythms, Songs, and Rhymes",
+        "url": "https://open.spotify.com/album/468gIpOuQApGaXw9UFRHMt"
+      },
+      "artists": [
+        {
+          "name": "Ella Jenkins",
+          "url": "https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166746,
+      "name": "A Neighborhood is a Friendly Place",
+      "url": "https://open.spotify.com/track/7iSul9jFKaa0MUQWkiewUw"
+    },
+    {
+      "album": {
+        "name": "Whatever Together",
+        "url": "https://open.spotify.com/album/4FJAhAVYpq5UAwNrxZ31ve"
+      },
+      "artists": [
+        {
+          "name": "Battlebird",
+          "url": "https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169722,
+      "name": "Another Summertime Jam",
+      "url": "https://open.spotify.com/track/1bTe8WVN7jlCAZXbixmASF"
+    },
+    {
+      "album": {
+        "name": "Another Summertime Jam",
+        "url": "https://open.spotify.com/album/0utua6zEwOWEU4nDvD7N5B"
+      },
+      "artists": [
+        {
+          "name": "Battlebird",
+          "url": "https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169722,
+      "name": "Another Summertime Jam",
+      "url": "https://open.spotify.com/track/3MSW5ilujW2T94eBCn3TnP"
+    },
+    {
+      "album": {
+        "name": "Whatever Together",
+        "url": "https://open.spotify.com/album/2IkzHq61rWmsXQ77F6EC9A"
+      },
+      "artists": [
+        {
+          "name": "Battlebird",
+          "url": "https://open.spotify.com/artist/2pC04M8Mo4SNSMsSEk2FH9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169722,
+      "name": "Another Summertime Jam",
+      "url": "https://open.spotify.com/track/4IdkY2v0qHTg3TJkBPTvh4"
+    },
+    {
+      "album": {
+        "name": "Camp Lisa",
+        "url": "https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 81893,
+      "name": "Are You Ready for the Summer?",
+      "url": "https://open.spotify.com/track/2A86c1BHXoAt1JJKEvihKt"
+    },
+    {
+      "album": {
+        "name": "Camp Lisa",
+        "url": "https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR"
+      },
+      "artists": [
+        {
+          "name": "Lisa Loeb",
+          "url": "https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81893,
+      "name": "Are You Ready for the Summer?",
+      "url": "https://open.spotify.com/track/5TPTF6jjfJERlFj8TbLOvX"
+    },
+    {
+      "album": {
+        "name": "Backyard Swimsuit",
+        "url": "https://open.spotify.com/album/21W8fov6jwV3Y8TCFo2SNz"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        },
+        {
+          "name": "Sims",
+          "url": "https://open.spotify.com/artist/3REPW9qXSD6VjeAHr0OENv"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184491,
+      "name": "Backyard Swimsuit",
+      "url": "https://open.spotify.com/track/2b7pVukPLhe7PkzapD4sMy"
+    },
+    {
+      "album": {
+        "name": "Good Foot",
+        "url": "https://open.spotify.com/album/5MW5jSzYtbdDxAdjbYmOin"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Ash",
+          "url": "https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151081,
+      "name": "Be Outside",
+      "url": "https://open.spotify.com/track/0S4kbxKLAQkq4du2h3qDjB"
+    },
+    {
+      "album": {
+        "name": "Beautiful World",
+        "url": "https://open.spotify.com/album/5Ko4WA7utUQPe8HJTDGq5p"
+      },
+      "artists": [
+        {
+          "name": "Dog On Fleas",
+          "url": "https://open.spotify.com/artist/4IeVO9BEsrReZNdAtF2h6L"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Beach Song",
+      "url": "https://open.spotify.com/track/1bDMoH8fmHwGRqEBy0v8Eg"
+    },
+    {
+      "album": {
+        "name": "Best Day Ever",
+        "url": "https://open.spotify.com/album/7DdIJ7bu3xrpsUT2JKy8C5"
+      },
+      "artists": [
+        {
+          "name": "SaulPaul",
+          "url": "https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1JGUj6Cjj3pJHle2QSixMf"
+    },
+    {
+      "album": {
+        "name": "Family Values",
+        "url": "https://open.spotify.com/album/7vxutKdChWEjzcqsvWPahx"
+      },
+      "artists": [
+        {
+          "name": "Charity and the Jamband",
+          "url": "https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261169,
+      "name": "Bike",
+      "url": "https://open.spotify.com/track/431ZpHEAbKo9DqmRet9VEj"
+    },
+    {
+      "album": {
+        "name": "Boom Chicka Boom Summer",
+        "url": "https://open.spotify.com/album/53a614E6KJ1qs57aAhlEw3"
+      },
+      "artists": [
+        {
+          "name": "The Learning Station",
+          "url": "https://open.spotify.com/artist/0qIXXh38Do2fvBqiUjiHbm"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185353,
+      "name": "Boom Chicka Boom Summer",
+      "url": "https://open.spotify.com/track/4g2j36RvM2R2Uf6JLurmoF"
+    },
+    {
+      "album": {
+        "name": "Can You Canoe? A Mississippi River Adventure Album",
+        "url": "https://open.spotify.com/album/5RjOtvEVZ7cHpfvGoscBxd"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "Campin' Tent",
+      "url": "https://open.spotify.com/track/51OVen4fkgobiLXxTmZTrQ"
+    },
+    {
+      "album": {
+        "name": "Can You Canoe? A Mississippi River Adventure Album",
+        "url": "https://open.spotify.com/album/61vBZ7aI8HfnBTTrVMC68v"
+      },
+      "artists": [
+        {
+          "name": "The Okee Dokee Brothers",
+          "url": "https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 180573,
+      "name": "Campin' Tent",
+      "url": "https://open.spotify.com/track/55ArNFldGIcodb1Ai6Re6m"
+    },
+    {
+      "album": {
+        "name": "Don't Gotta Be Cool",
+        "url": "https://open.spotify.com/album/7Dmkj0ruoRevuG1gKXRpfy"
+      },
+      "artists": [
+        {
+          "name": "Mista Cookie Jar",
+          "url": "https://open.spotify.com/artist/0HL2EVwbtbmTaUirGt9hWt"
+        },
+        {
+          "name": "Uncle Dox",
+          "url": "https://open.spotify.com/artist/2f9WUsP1fUz3QLcbPUkiw9"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208085,
+      "name": "Chillin'",
+      "url": "https://open.spotify.com/track/14nJsemfxPFCNfKZ3Pse0o"
+    },
+    {
+      "album": {
+        "name": "Come Dance By the Ocean",
+        "url": "https://open.spotify.com/album/0PIcF0VRdvnEJvpJ1gsZbW"
+      },
+      "artists": [
+        {
+          "name": "Ella Jenkins",
+          "url": "https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Come Dance By the Ocean",
+      "url": "https://open.spotify.com/track/2NjVNK2QMkoIaAtxoIGuCv"
+    },
+    {
+      "album": {
+        "name": "Sing Yourself a Smile",
+        "url": "https://open.spotify.com/album/6SrFFzym0Z7pieo4kLYFSF"
+      },
+      "artists": [
+        {
+          "name": "Piccolo Music",
+          "url": "https://open.spotify.com/artist/1JYuWmfI1YsWKxb050RxRI"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139978,
+      "name": "Dancing in the Summertime",
+      "url": "https://open.spotify.com/track/19AWv57sKz9q5tzltSFKlx"
+    },
+    {
+      "album": {
+        "name": "I Found It!",
+        "url": "https://open.spotify.com/album/10h2NbahLm1oQlkFaqt2m1"
+      },
+      "artists": [
+        {
+          "name": "Brady Rymer and the Little Band That Could",
+          "url": "https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Drawing on the Sidewalk",
+      "url": "https://open.spotify.com/track/4p7qP5YsC0P91kM9XRCjjQ"
+    },
+    {
+      "album": {
+        "name": "Drink More Water",
+        "url": "https://open.spotify.com/album/4GbK3OvBPwgrv6esceerzg"
+      },
+      "artists": [
+        {
+          "name": "Andy Z",
+          "url": "https://open.spotify.com/artist/6ETYDr9Q1fOPzBeUctjWgm"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126054,
+      "name": "Drink More Water",
+      "url": "https://open.spotify.com/track/0luLK7w5gahZCfwt9XhCCW"
+    },
+    {
+      "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/32iDg2yZHThP6rwRA4eeTN"
+      },
+      "artists": [
+        {
+          "name": "Joanie Leeds",
+          "url": "https://open.spotify.com/artist/4KOQZQuOdq1Zllyn7Nr4hK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/3e2ySSCHYJCcdHJ9UR1OXA"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        },
+        {
+          "name": "Divinity Roxx",
+          "url": "https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Family Reunion",
+      "url": "https://open.spotify.com/track/78Qx19TxMk8neTSObl8axa"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Summer Belongs to You",
+        "url": "https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF"
+      },
+      "artists": [
+        {
+          "name": "Danny Jacob",
+          "url": "https://open.spotify.com/artist/3J6ns49mHsAFXgp5EoDJjS"
+        },
+        {
+          "name": "Laura Dickinson",
+          "url": "https://open.spotify.com/artist/24atAUm9yln5x8Os9PEIwv"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82360,
+      "name": "Follow the Sun",
+      "url": "https://open.spotify.com/track/0fGe6WYDEaC9TQLJt2AqRn"
+    },
+    {
+      "album": {
+        "name": "Hey Big World",
+        "url": "https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR"
+      },
+      "artists": [
+        {
+          "name": "Wendy and DB",
+          "url": "https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Get Outside",
+      "url": "https://open.spotify.com/track/0Mx4DMMD8NccivXrUg0DWU"
+    },
+    {
+      "album": {
+        "name": "Desert Island Disc",
+        "url": "https://open.spotify.com/album/15bBuB1A3MOOhfbqv45PbS"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "Getting a Sunburn",
+      "url": "https://open.spotify.com/track/6H7tY1fZgPTAPwl9zhVW16"
+    },
+    {
+      "album": {
+        "name": "Mellow Fever",
+        "url": "https://open.spotify.com/album/0qw5psAH3gSgnisO8mNJz0"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164693,
+      "name": "Getting In A Tree Top",
+      "url": "https://open.spotify.com/track/34neqxm9ArTLTS7l8452Kh"
+    },
+    {
+      "album": {
+        "name": "Gustafer Yellowgold's Mellow Fever",
+        "url": "https://open.spotify.com/album/3YOlWxSCB1Dt2NdwciOBfX"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 164693,
+      "name": "Getting in a Treetop",
+      "url": "https://open.spotify.com/track/6ee0hMZYDgVjRdFA0xyi57"
+    },
+    {
+      "album": {
+        "name": "Kids Trap",
+        "url": "https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C"
+      },
+      "artists": [
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        },
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "Go Play Outside",
+      "url": "https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg"
+    },
+    {
+      "album": {
+        "name": "Brighter Side",
+        "url": "https://open.spotify.com/album/1S95VJgPQTSDT6DFMXv8df"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        },
+        {
+          "name": "Pat Sansone",
+          "url": "https://open.spotify.com/artist/5d2UMbxIe7UqoG329QjrEM"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175336,
+      "name": "Hot Nights",
+      "url": "https://open.spotify.com/track/00lrwYqxiXM1p5Df2QMsFS"
+    },
+    {
+      "album": {
+        "name": "Brighter Side",
+        "url": "https://open.spotify.com/album/5t7evB9uKy03DvgWKnIOOZ"
+      },
+      "artists": [
+        {
+          "name": "Gustafer Yellowgold",
+          "url": "https://open.spotify.com/artist/5sGtc7Y69V5jslrvAzSYxK"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 175336,
+      "name": "Hot Nights (feat. Pat Sansone)",
+      "url": "https://open.spotify.com/track/4lysmuayuw7MrjxNECdhQs"
+    },
+    {
+      "album": {
+        "name": "The Singing Walrus Song Collection #2",
+        "url": "https://open.spotify.com/album/4gNEDodrFskxtJvxZx9m81"
+      },
+      "artists": [
+        {
+          "name": "The Singing Walrus",
+          "url": "https://open.spotify.com/artist/3L5oCwlVHuB94ltjdUbQMi"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "I Love Summertime",
+      "url": "https://open.spotify.com/track/4XVeURpGmtHc65tPkPACvL"
+    },
+    {
+      "album": {
+        "name": "Ice Cold Lemonade",
+        "url": "https://open.spotify.com/album/5sOKX7TjwqvRW6MnTHALn0"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        },
+        {
+          "name": "Murs",
+          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179697,
+      "name": "Ice Cold Lemonade",
+      "url": "https://open.spotify.com/track/6hQBlpN06NkcUUJS1iKKfm"
+    },
+    {
+      "album": {
+        "name": "In the Kid Zone",
+        "url": "https://open.spotify.com/album/4xRmUIxkuX9fIiYmXWqiEC"
+      },
+      "artists": [
+        {
+          "name": "Asheba",
+          "url": "https://open.spotify.com/artist/6VkqEReE8tIwa8wap4TACw"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234826,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5zhOFutkl4I01RjI9NDEsP"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll With the Modern Lovers (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/1GS9e5DqsnGJ8qYlr4eYxm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Richman & The Modern Lovers",
+          "url": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 182440,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/2hOId5iamZtddQ0n0hMKqA"
+    },
+    {
+      "album": {
+        "name": "Rock 'n' Roll With the Modern Lovers (Bonus Track Edition)",
+        "url": "https://open.spotify.com/album/20PmoTQRyWQrXnKDPcwdHO"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Richman & The Modern Lovers",
+          "url": "https://open.spotify.com/artist/0NjdXlUziaK1qv3kgZV4Jy"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7hpoUuu1wzVCdP5ZawoiYI"
+    },
+    {
+      "album": {
+        "name": "The 50 Best Summer Songs",
+        "url": "https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "In the Good Old Summertime",
+      "url": "https://open.spotify.com/track/7iBPYA94l4VkAVViIbePmA"
+    },
+    {
+      "album": {
+        "name": "On the Move",
+        "url": "https://open.spotify.com/album/2q9qHyWX3z0nBwc45axuS9"
+      },
+      "artists": [
+        {
+          "name": "Itty Bitty Beats",
+          "url": "https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117616,
+      "name": "In the Summer",
+      "url": "https://open.spotify.com/track/5lxJBLkBS1H24rXrIeNgmG"
+    },
+    {
+      "album": {
+        "name": "A Potluck",
+        "url": "https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161210,
+      "name": "Lemonade Stand",
+      "url": "https://open.spotify.com/track/5f6LCqqqP2JJ3LhHiR7SFq"
+    },
+    {
+      "album": {
+        "name": "Hey Big World",
+        "url": "https://open.spotify.com/album/7qrmKYtBMFrc7iwhe1I5xR"
+      },
+      "artists": [
+        {
+          "name": "Wendy and DB",
+          "url": "https://open.spotify.com/artist/2DA994szci8jCCBDsPFbpM"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125853,
+      "name": "Let's Go Fly a Kite",
+      "url": "https://open.spotify.com/track/0E13OCGuZX4pWcbAttmRpb"
+    },
+    {
+      "album": {
+        "name": "Pocketful of Wonder",
+        "url": "https://open.spotify.com/album/0TkEqgYEwPXCSki5NFUSnE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Pirtle",
+          "url": "https://open.spotify.com/artist/5G0zt4pPtUa8KW6QIHedRa"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145133,
+      "name": "Let's Go Outside",
+      "url": "https://open.spotify.com/track/5gwhvjQvq5CudsONgBJB9c"
+    },
+    {
+      "album": {
+        "name": "KidQuake!",
+        "url": "https://open.spotify.com/album/1H7T9peQoMiacUDdxi4yvW"
+      },
+      "artists": [
+        {
+          "name": "The Not-Its!",
+          "url": "https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111653,
+      "name": "Let's Skateboard",
+      "url": "https://open.spotify.com/track/7xSX7YXHDWa8ijoFbVBQY7"
+    },
+    {
+      "album": {
+        "name": "Deep Sea Diver",
+        "url": "https://open.spotify.com/album/36XrVhfFQBakUcrnWOsuo8"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/7ya9Wb5ek21dYx06TtD0V5"
+    },
+    {
+      "album": {
+        "name": "It's All Good in the Naturehood! (feat. Grotch the Sasquatch)",
+        "url": "https://open.spotify.com/album/4GEZmb9oHRzVc4SVtArNaU"
+      },
+      "artists": [
+        {
+          "name": "DJ WILLY WOW!",
+          "url": "https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY"
+        },
+        {
+          "name": "Grotch the Sasquatch",
+          "url": "https://open.spotify.com/artist/6ynQJFv4NqfOtgNcLGOANV"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "More S'mores (feat. Grotch the Sasquatch)",
+      "url": "https://open.spotify.com/track/541XBZAT8BZAsUgBZtAdb3"
+    },
+    {
+      "album": {
+        "name": "Best Of Raffi",
+        "url": "https://open.spotify.com/album/3GaCPXbadjZUQrawtkIZuR"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 74786,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/6n3qzK1msumNEERJI17dWi"
+    },
+    {
+      "album": {
+        "name": "Singable Songs for the Very Young",
+        "url": "https://open.spotify.com/album/3U5LJdhLG5ZxKkbHbNCyGH"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76693,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/68oEtRynOZG9E3yeTBWu3k"
+    },
+    {
+      "album": {
+        "name": "Singable Songs for the Very Young (feat. Ken Whiteley)",
+        "url": "https://open.spotify.com/album/2CHwUtcAmryacN8KVedQ4U"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        },
+        {
+          "name": "Ken Whiteley",
+          "url": "https://open.spotify.com/artist/4Nk8lxPEVfK4GbmtN4jW4j"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 76693,
+      "name": "Mr. Sun",
+      "url": "https://open.spotify.com/track/6HTrPuRkxje8ty0C10B6iZ"
+    },
+    {
+      "album": {
+        "name": "A Potluck",
+        "url": "https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183449,
+      "name": "On My Bike",
+      "url": "https://open.spotify.com/track/7pnqGRRdqOYRDjd3qzFyL3"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/57xSXnGNCYLuAaMclMiaj8"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116884,
+      "name": "Out In Nature",
+      "url": "https://open.spotify.com/track/1IHXS8iw4fMPSdHjtleDGB"
+    },
+    {
+      "album": {
+        "name": "Fantastic Voyages",
+        "url": "https://open.spotify.com/album/3zVRLqmMADrwtlvGl7Z4G7"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116884,
+      "name": "Out in Nature",
+      "url": "https://open.spotify.com/track/1udZomeP0QjwkUP9VjhnV7"
+    },
+    {
+      "album": {
+        "name": "Pretend a Parade",
+        "url": "https://open.spotify.com/album/0dtRvzU8LawKOql6nWgCdT"
+      },
+      "artists": [
+        {
+          "name": "The Dreamtree Shakers",
+          "url": "https://open.spotify.com/artist/1AEgbCyg5BRflRNcUyNm24"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Out in the Garden",
+      "url": "https://open.spotify.com/track/5WhiZTcde1jfVQukeoDt0y"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/0DMdkUii6hbvBUPIVEP6XO"
+      },
+      "artists": [
+        {
+          "name": "Dad Jokes Duo",
+          "url": "https://open.spotify.com/artist/4alPoOoReavkZAMBR5E4y0"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172196,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/4dNJKjh9wMCEQ9lA2NiJ8W"
+    },
+    {
+      "album": {
+        "name": "Helpful Songs for Little People",
+        "url": "https://open.spotify.com/album/7jOW68jFVaqKI68MI0esza"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160506,
+      "name": "Pass the Sunscreen",
+      "url": "https://open.spotify.com/track/17bqgNJg9i8T8ETWTwQI79"
+    },
+    {
+      "album": {
+        "name": "Helpful Songs For Little People",
+        "url": "https://open.spotify.com/album/3tiVuLLVWaSi6p9Z0uvAaP"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160506,
+      "name": "Pass The Sunscreen",
+      "url": "https://open.spotify.com/track/1DSXxxBV6mCmIZ1KAwzDz2"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3ZIPdUT5naKLp46U3O94AK"
+      },
+      "artists": [
+        {
+          "name": "Mister G",
+          "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Perfect Day",
+      "url": "https://open.spotify.com/track/2Wwgr79MqEYW2MLRYSSamC"
+    },
+    {
+      "album": {
+        "name": "Going on a Picnic",
+        "url": "https://open.spotify.com/album/6XWUCn9hnJRkRRXcQMDlUx"
+      },
+      "artists": [
+        {
+          "name": "The Dreamtree Shakers",
+          "url": "https://open.spotify.com/artist/1AEgbCyg5BRflRNcUyNm24"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198280,
+      "name": "Picnic in the Park",
+      "url": "https://open.spotify.com/track/4U8NCCyyN2m3BfJgR5a9KJ"
+    },
+    {
+      "album": {
+        "name": "Pretend a Parade",
+        "url": "https://open.spotify.com/album/0dtRvzU8LawKOql6nWgCdT"
+      },
+      "artists": [
+        {
+          "name": "The Dreamtree Shakers",
+          "url": "https://open.spotify.com/artist/1AEgbCyg5BRflRNcUyNm24"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127080,
+      "name": "Play with Your Friends Outside",
+      "url": "https://open.spotify.com/track/6OkidApopWZl5e4iGqayUt"
+    },
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Nanny Nikki",
+          "url": "https://open.spotify.com/artist/4PpVyNXXqA5P9e7letrpAx"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Playground Day",
+      "url": "https://open.spotify.com/track/3BhXUY80wTA1bqekwYpBKV"
+    },
+    {
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/7FKsCQprYp5p6veybFbXr4"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123880,
+      "name": "Pool Safely",
+      "url": "https://open.spotify.com/track/4ESxF1E8egs2Z8JNCzk8Eu"
+    },
+    {
+      "album": {
+        "name": "Superhero",
+        "url": "https://open.spotify.com/album/1tGNPwLqzD7pxAfmx2Uw2L"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126456,
+      "name": "Pool Safely",
+      "url": "https://open.spotify.com/track/1cdao4c5Yqx7DadhD2L24U"
+    },
+    {
+      "album": {
+        "name": "Peanut Butter and JAM",
+        "url": "https://open.spotify.com/album/0NjKamX0KpwHIwp27z0WJw"
+      },
+      "artists": [
+        {
+          "name": "Charity and the Jamband",
+          "url": "https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143826,
+      "name": "Ridin' the Big Waves",
+      "url": "https://open.spotify.com/track/4oGkikhxhR2gdrM3J7MQCW"
+    },
+    {
+      "album": {
+        "name": "Imagination Movers: In a Big Warehouse",
+        "url": "https://open.spotify.com/album/2MmbI5cNJ2twmLFWBTUcNq"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Riding the Waves",
+      "url": "https://open.spotify.com/track/5hXDPy8wqd1O9ypkCTjtqa"
+    },
+    {
+      "album": {
+        "name": "Building Blocks",
+        "url": "https://open.spotify.com/album/33jHk8rzSY28IkVSXBTeou"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "Sand + Imagination",
+      "url": "https://open.spotify.com/track/4PYGLTb9OJOfWUmini8cw2"
+    },
+    {
+      "album": {
+        "name": "Building Blocks",
+        "url": "https://open.spotify.com/album/7dQLT9UwXHYXUCAycMzNxz"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 173983,
+      "name": "Sand + Imagination",
+      "url": "https://open.spotify.com/track/7yfsc3m2EL2ZUPENKX1EE0"
+    },
+    {
+      "album": {
+        "name": "Buggy Baloo",
+        "url": "https://open.spotify.com/album/24RF5ho1pK6uYr8koWc15p"
+      },
+      "artists": [
+        {
+          "name": "D. Jay",
+          "url": "https://open.spotify.com/artist/3qU1mBOKKPVLRQVpsC819M"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141680,
+      "name": "Shine On Me",
+      "url": "https://open.spotify.com/track/0RZlub2aFqupP1eNR3eFne"
+    },
+    {
+      "album": {
+        "name": "Special Kind Of Day",
+        "url": "https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Frezza & Big Truck",
+          "url": "https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207586,
+      "name": "Sidewalk Chalk",
+      "url": "https://open.spotify.com/track/66NiIMKlV477Yxy3FySgIl"
+    },
+    {
+      "album": {
+        "name": "Earth",
+        "url": "https://open.spotify.com/album/5HnnZBu35tUIJBwnp9rXdt"
+      },
+      "artists": [
+        {
+          "name": "Charity and the Jamband",
+          "url": "https://open.spotify.com/artist/5YTYt0ir3CPgXGWTlfWdHT"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257530,
+      "name": "Sing a Summer Song",
+      "url": "https://open.spotify.com/track/6kG8iOFDk8EpadJWLJElBb"
+    },
+    {
+      "album": {
+        "name": "HOT DOG!",
+        "url": "https://open.spotify.com/album/0ye96kydrJrnx9mAENEGG2"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117760,
+      "name": "Snowman In The Summer",
+      "url": "https://open.spotify.com/track/2paUPL56zqStnGSRpQ0DHR"
+    },
+    {
+      "album": {
+        "name": "So Let's Climb Trees",
+        "url": "https://open.spotify.com/album/5z126C0V05gthRF9Ty3fZt"
+      },
+      "artists": [
+        {
+          "name": "Levity Beet",
+          "url": "https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 149374,
+      "name": "So Let's Climb Trees",
+      "url": "https://open.spotify.com/track/2f9ETLVvX9VvZiNST2YAk4"
+    },
+    {
+      "album": {
+        "name": "Little Beets",
+        "url": "https://open.spotify.com/album/0dpmDNHk3eS0p3m21Fk6ET"
+      },
+      "artists": [
+        {
+          "name": "Levity Beet",
+          "url": "https://open.spotify.com/artist/1j776bTgiPHNyTNFa4hARh"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149374,
+      "name": "So Let's Climb Trees",
+      "url": "https://open.spotify.com/track/6FFhwHfYrtWzpbv9nSDEX4"
+    },
+    {
+      "album": {
+        "name": "HOT DOG!",
+        "url": "https://open.spotify.com/album/0ye96kydrJrnx9mAENEGG2"
+      },
+      "artists": [
+        {
+          "name": "Caspar Babypants",
+          "url": "https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177386,
+      "name": "Summer Baby (Let It Ride)",
+      "url": "https://open.spotify.com/track/1ZLiWyeWU3jbQ0B1XARmBf"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Summer Belongs to You",
+        "url": "https://open.spotify.com/album/77jAlhvBI46I7MiMmfsEbF"
+      },
+      "artists": [
+        {
+          "name": "Candace",
+          "url": "https://open.spotify.com/artist/0zAjE3KMGAsizj1VNhYPxf"
+        },
+        {
+          "name": "Phineas",
+          "url": "https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h"
+        },
+        {
+          "name": "Isabella",
+          "url": "https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "Summer Belongs to You",
+      "url": "https://open.spotify.com/track/37wuSLIK22IxGKffovC6jd"
+    },
+    {
+      "album": {
+        "name": "Summer of Fun",
+        "url": "https://open.spotify.com/album/4rDlAFbwFF7pwCeSUpo1vM"
+      },
+      "artists": [
+        {
+          "name": "Kids Imagine Nation",
+          "url": "https://open.spotify.com/artist/21DSdd6cVbYlPHwzjoa4Qq"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174050,
+      "name": "Summer of Fun",
+      "url": "https://open.spotify.com/track/2GymMFv7OEYB1mxbroLYlt"
+    },
+    {
+      "album": {
+        "name": "Special Kind Of Day",
+        "url": "https://open.spotify.com/album/50P0yHZsEryCZ8Uy98b5ET"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Frezza & Big Truck",
+          "url": "https://open.spotify.com/artist/1SeulqPitSZkVs2NChVAlO"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Summer Sunshine",
+      "url": "https://open.spotify.com/track/0QfYy4pgfxQ2Af3ScScLWY"
+    },
+    {
+      "album": {
+        "name": "Kids Trap 11",
+        "url": "https://open.spotify.com/album/2OWJzZ4siTAzILYrL966lT"
+      },
+      "artists": [
+        {
+          "name": "Netherfriends",
+          "url": "https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY"
+        },
+        {
+          "name": "Blake Rules",
+          "url": "https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6Nmc8lZk4YdfeZcqzFXsWR"
+    },
+    {
+      "album": {
+        "name": "The Aquabats! Super Show! (Television Soundtrack), Vol. 1",
+        "url": "https://open.spotify.com/album/2zfV24Z3J5tYbbITneW2Ju"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79213,
+      "name": "Summertime!",
+      "url": "https://open.spotify.com/track/1gAaCOTfapa9tB4nWkUWP2"
+    },
+    {
+      "album": {
+        "name": "Super Show! Vol. 1 (Music from The Aquabats! Super Show! Soundtrack)",
+        "url": "https://open.spotify.com/album/3IrSAQW0Hzh2o4qwoPAmOx"
+      },
+      "artists": [
+        {
+          "name": "The Aquabats!",
+          "url": "https://open.spotify.com/artist/0WgiEOrXlaXJGHKhkd9s4s"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79213,
+      "name": "SUMMERTIME!",
+      "url": "https://open.spotify.com/track/5MwfVQ4xXUMzKTmG9RuoHZ"
+    },
+    {
+      "album": {
+        "name": "Rock & Roll Band",
+        "url": "https://open.spotify.com/album/1Dk4c6BE0JLpjfuIJ43WvG"
+      },
+      "artists": [
+        {
+          "name": "Ernie & Neal",
+          "url": "https://open.spotify.com/artist/6VGrwLiwouKP8h3a4yVgby"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Sunny Day",
+      "url": "https://open.spotify.com/track/1mK8l0dgP7XbDi1dFmcHNT"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/17nFvyQzMs0pbiz9ukUuA5"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/2x9P9IOZIj9t5SNWesDlHe"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/48lHFP0hYmSgR2Bdc2uocH"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/3NDYpgUKtlEREDJLQ1WDl4"
+    },
+    {
+      "album": {
+        "name": "Let's Dance",
+        "url": "https://open.spotify.com/album/6SHJk0npY3mr7SXFX6fcps"
+      },
+      "artists": [
+        {
+          "name": "Noggin",
+          "url": "https://open.spotify.com/artist/3gV7M2xBjZ7dN42b41LHYn"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 83718,
+      "name": "Sunscreen",
+      "url": "https://open.spotify.com/track/69Kf8wQ91FpKltMUuDruBL"
+    },
+    {
+      "album": {
+        "name": "The Baby Grands",
+        "url": "https://open.spotify.com/album/4QNuQTPY9OzOSoiY6BWYc9"
+      },
+      "artists": [
+        {
+          "name": "The Baby Grands",
+          "url": "https://open.spotify.com/artist/5utOgNLzDC1fg5EuztlYbC"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116453,
+      "name": "Surfer Shake",
+      "url": "https://open.spotify.com/track/3KrrtXZHE3w9Aiy5E9pZl1"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/21oqj4VIaceueMP4WuDWv7"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/1YAZmYEermeBg0RZfLMARL"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/7cgGVrEHEiJLhjzWfMfItx"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/4KqqosG1rMSwHl0AyLeatP"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/4abQIptzx1pXZBDq8PF71o"
+    },
+    {
+      "album": {
+        "name": "Keep Styling, Keep Singing",
+        "url": "https://open.spotify.com/album/1uxwtl3M3vwzaZDL5Pg9n6"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day",
+          "url": "https://open.spotify.com/artist/7vbp1MtEikhcZYIr751zDk"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49641,
+      "name": "Surfin' And Sunnin'",
+      "url": "https://open.spotify.com/track/4vLm0SMd4p9OGMuk42R2fh"
+    },
+    {
+      "album": {
+        "name": "Teen Beach Movie",
+        "url": "https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "Maia Mitchell",
+          "url": "https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC"
+        },
+        {
+          "name": "Teen Beach Movie Cast",
+          "url": "https://open.spotify.com/artist/7CU7ADIkPVCEZU9miqxSzy"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181440,
+      "name": "Surf\u2019s Up - From \"Teen Beach Movie\"",
+      "url": "https://open.spotify.com/track/4FLwksoBdffxACteswhNlU"
+    },
+    {
+      "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/3ZIPdUT5naKLp46U3O94AK"
+      },
+      "artists": [
+        {
+          "name": "Mister G",
+          "url": "https://open.spotify.com/artist/6N8KFt7TtxPehyZjgZ9qZd"
+        },
+        {
+          "name": "Charmaine Neville",
+          "url": "https://open.spotify.com/artist/7AgVqoEfh11H0JDdi0YKw1"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "Sweet Summertime",
+      "url": "https://open.spotify.com/track/3NfkDZ5u7vhrSzKVfHKMq1"
+    },
+    {
+      "album": {
+        "name": "One Size Fits All...!",
+        "url": "https://open.spotify.com/album/7H3yDKmXYDYyLiAl5ufOxd"
+      },
+      "artists": [
+        {
+          "name": "Adam And The Couch Potatoes",
+          "url": "https://open.spotify.com/artist/6JlzUJoanJpug4PfcxJlPx"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "Swimming, Swimming, Swimming!",
+      "url": "https://open.spotify.com/track/1IzJqnzuQVLJBeeFphGCci"
+    },
+    {
+      "album": {
+        "name": "Desert Island Disc",
+        "url": "https://open.spotify.com/album/15bBuB1A3MOOhfbqv45PbS"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154746,
+      "name": "Tallest Tree",
+      "url": "https://open.spotify.com/track/2EGQRcs4hglaGziXl5Zw3f"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/1oquswZkCaoZ4EU8fSmSZo"
+      },
+      "artists": [
+        {
+          "name": "Jazzy Ash",
+          "url": "https://open.spotify.com/artist/5zToXUC9I6HoncynKnRMhJ"
+        },
+        {
+          "name": "Chris Wiser",
+          "url": "https://open.spotify.com/artist/1ugH175QTeZ1ZrUUD6ymqV"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "Tandem Bike",
+      "url": "https://open.spotify.com/track/6gZmtHg9LylZ38IQz0ptS0"
+    },
+    {
+      "album": {
+        "name": "Daniel Tiger's Neighborhood: Tiger Family Trip",
+        "url": "https://open.spotify.com/album/5EC5pB1kwSggef5P44laiU"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tiger\u2019s Neighborhood",
+          "url": "https://open.spotify.com/artist/0T91UD2v3byVXh8aSP8oHG"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77661,
+      "name": "There Is so Much to Explore Outside",
+      "url": "https://open.spotify.com/track/34ioa8fm7o4sZ7EjkB7ppK"
+    },
+    {
+      "album": {
+        "name": "It's All Good in the Naturehood! (feat. Grotch the Sasquatch)",
+        "url": "https://open.spotify.com/album/4GEZmb9oHRzVc4SVtArNaU"
+      },
+      "artists": [
+        {
+          "name": "DJ WILLY WOW!",
+          "url": "https://open.spotify.com/artist/1wrWCOgGgDPnyplXzAyphY"
+        },
+        {
+          "name": "Grotch the Sasquatch",
+          "url": "https://open.spotify.com/artist/6ynQJFv4NqfOtgNcLGOANV"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "There's a Party in My Backyard (feat. Grotch the Sasquatch)",
+      "url": "https://open.spotify.com/track/78aqD5FMRbcCCkQHzGVfRt"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Nature Songs",
+        "url": "https://open.spotify.com/album/10plplah7B68rpm61s6ylf"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169426,
+      "name": "Under A Shady Tree",
+      "url": "https://open.spotify.com/track/1bDKfdXvdEOiAHaJ3pFsUe"
+    },
+    {
+      "album": {
+        "name": "Family Photo Album",
+        "url": "https://open.spotify.com/album/5ReK6CXisDMoAfz8dKf1nD"
+      },
+      "artists": [
+        {
+          "name": "Recess Monkey",
+          "url": "https://open.spotify.com/artist/0oXrvAp6NnKeWz1qnKrNLb"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150973,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/750gu0SlvvJ5lGhkjM9bKs"
+    },
+    {
+      "album": {
+        "name": "We Outside",
+        "url": "https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen"
+      },
+      "artists": [
+        {
+          "name": "Pj Panda",
+          "url": "https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "We Outside",
+      "url": "https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW"
+    },
+    {
+      "album": {
+        "name": "The 50 Best Summer Songs",
+        "url": "https://open.spotify.com/album/40legtNV5Qr6WDg9n4z5PJ"
+      },
+      "artists": [
+        {
+          "name": "Kidsongs",
+          "url": "https://open.spotify.com/artist/4kFnO9EhFN74EK1a2UH5ZW"
+        }
+      ],
+      "date_added": "2021-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162693,
+      "name": "We're Gonna Get Wet",
+      "url": "https://open.spotify.com/track/1znpu2LXtC7IjuGlV1VWDo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY53P9WxRUop"
 }

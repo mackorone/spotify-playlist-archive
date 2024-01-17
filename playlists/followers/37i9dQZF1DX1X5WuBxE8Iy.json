@@ -1,99 +1,1257 @@
 {
-  "2023-09-27": 97223,
-  "2023-09-28": 97295,
-  "2023-09-29": 97387,
-  "2023-09-30": 97481,
-  "2023-10-01": 97581,
-  "2023-10-02": 97685,
-  "2023-10-03": 97740,
-  "2023-10-04": 97838,
-  "2023-10-05": 97909,
-  "2023-10-06": 97994,
-  "2023-10-07": 98067,
-  "2023-10-08": 98152,
-  "2023-10-09": 98256,
-  "2023-10-10": 98319,
-  "2023-10-11": 98453,
-  "2023-10-12": 98453,
-  "2023-10-13": 98526,
-  "2023-10-14": 98586,
-  "2023-10-15": 98700,
-  "2023-10-16": 98794,
-  "2023-10-17": 98880,
-  "2023-10-18": 98972,
-  "2023-10-19": 99064,
-  "2023-10-20": 99168,
-  "2023-10-21": 99256,
-  "2023-10-22": 99327,
-  "2023-10-23": 99435,
-  "2023-10-24": 99499,
-  "2023-10-25": 99602,
-  "2023-10-26": 99742,
-  "2023-10-27": 99891,
-  "2023-10-28": 100010,
-  "2023-10-29": 100149,
-  "2023-10-30": 100385,
-  "2023-10-31": 100385,
-  "2023-11-01": 100487,
-  "2023-11-02": 100622,
-  "2023-11-03": 100751,
-  "2023-11-04": 100856,
-  "2023-11-05": 100984,
-  "2023-11-06": 101108,
-  "2023-11-07": 101192,
-  "2023-11-08": 101281,
-  "2023-11-09": 101397,
-  "2023-11-10": 101476,
-  "2023-11-11": 101610,
-  "2023-11-12": 101691,
-  "2023-11-13": 101808,
-  "2023-11-14": 101908,
-  "2023-11-15": 101908,
-  "2023-11-16": 102062,
-  "2023-11-17": 102220,
-  "2023-11-18": 102220,
-  "2023-11-19": 102316,
-  "2023-11-20": 102399,
-  "2023-11-21": 102450,
-  "2023-11-22": 102514,
-  "2023-11-23": 102590,
-  "2023-11-24": 102671,
-  "2023-11-25": 102750,
-  "2023-11-26": 102831,
-  "2023-11-27": 102922,
-  "2023-11-28": 102994,
-  "2023-11-29": 103102,
-  "2023-11-30": 103102,
-  "2023-12-01": 103173,
-  "2023-12-02": 103232,
-  "2023-12-03": 103312,
-  "2023-12-04": 103371,
-  "2023-12-05": 103452,
-  "2023-12-06": 103521,
-  "2023-12-07": 103589,
-  "2023-12-08": 103655,
-  "2023-12-09": 103713,
-  "2023-12-10": 103792,
-  "2023-12-11": 103862,
-  "2023-12-12": 103925,
-  "2023-12-13": 103979,
-  "2023-12-14": 104074,
-  "2023-12-15": 104126,
-  "2023-12-16": 104184,
-  "2023-12-17": 104264,
-  "2023-12-18": 104312,
-  "2023-12-19": 104360,
-  "2023-12-20": 104421,
-  "2023-12-21": 104485,
-  "2023-12-22": 104542,
-  "2023-12-23": 104589,
-  "2023-12-24": 104662,
-  "2023-12-25": 104713,
-  "2023-12-26": 104759,
-  "2023-12-27": 104816,
-  "2023-12-30": 105025,
-  "2023-12-31": 105103,
-  "2024-01-01": 105171,
-  "2024-01-02": 105219,
-  "2024-01-03": 105277
+  "2024-01-17": 106145,
+  "date_first_scraped": "2023-09-27",
+  "description": "Las mejores canciones de Princesas de Disney.",
+  "name": "Disney Princesa Latino",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/1gvcOpncxT71bZSKllfOvF"
+      },
+      "artists": [
+        {
+          "name": "Armando Gama",
+          "url": "https://open.spotify.com/artist/7sHSKikLuN6YhREK9wzeRa"
+        },
+        {
+          "name": "Lourdes Ambriz",
+          "url": "https://open.spotify.com/artist/1VtDgBFZJtPND0gzAqP1aQ"
+        },
+        {
+          "name": "Norma Herrera",
+          "url": "https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA"
+        },
+        {
+          "name": "Mois\u00e9s Palacios",
+          "url": "https://open.spotify.com/artist/68PzdyLpKcftdmRdeHXRSt"
+        },
+        {
+          "name": "Carlos Petrel",
+          "url": "https://open.spotify.com/artist/6GRpQSfSpLhn3eOQJupFTf"
+        },
+        {
+          "name": "Walterio Pesqueira",
+          "url": "https://open.spotify.com/artist/04TgIAGkX9hmR6bAoEAjMB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137346,
+      "name": "Algo Ah\u00ed",
+      "url": "https://open.spotify.com/track/3QQA8bDY84ZZTOIbI6Like"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        },
+        {
+          "name": "Michael Cruz",
+          "url": "https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Bajo el mar",
+      "url": "https://open.spotify.com/track/1CK7FnJxNSZrQhEPLVVa2N"
+    },
+    {
+      "album": {
+        "name": "Sleeping Beauty",
+        "url": "https://open.spotify.com/album/6lmX98s1RHfYVXTMlplw9S"
+      },
+      "artists": [
+        {
+          "name": "Mary Costa",
+          "url": "https://open.spotify.com/artist/1qeo0u3hwxCBcYsn3a4kyo"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "Blue Bird / I Wonder",
+      "url": "https://open.spotify.com/track/4y22ikbRHTRRkZCKsLOGe3"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M"
+      },
+      "artists": [
+        {
+          "name": "Lester Ciarreta Hernandez",
+          "url": "https://open.spotify.com/artist/1qAIRcGT6oNYMEdD4rVoVa"
+        },
+        {
+          "name": "Carla Medina",
+          "url": "https://open.spotify.com/artist/1NMyTvVP1yrzdVsCJr6BPG"
+        },
+        {
+          "name": "Leo Novoa",
+          "url": "https://open.spotify.com/artist/16oOH0RvmOHDjRDzszCR45"
+        },
+        {
+          "name": "Ensemble - The Little Mermaid",
+          "url": "https://open.spotify.com/artist/3WoPXSBmNV9DJnxZgnU224"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196586,
+      "name": "B\u00e9sala",
+      "url": "https://open.spotify.com/track/3OwBqd3EezGZldOJIalnUy"
+    },
+    {
+      "album": {
+        "name": "Pocahontas (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS"
+      },
+      "artists": [
+        {
+          "name": "Susana Zavaleta",
+          "url": "https://open.spotify.com/artist/5XOuR06r1s83I1YgX0BWDE"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Colores en el Viento",
+      "url": "https://open.spotify.com/track/7AsZ5WyFcF0vGRdkPl0F87"
+    },
+    {
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Con Toda Libertad",
+      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
+    },
+    {
+      "album": {
+        "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
+      },
+      "artists": [
+        {
+          "name": "Sara Paula G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164733,
+      "name": "Cu\u00e1n lejos voy",
+      "url": "https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
+      "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
+    },
+    {
+      "album": {
+        "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
+      },
+      "artists": [
+        {
+          "name": "Beto Castillo",
+          "url": "https://open.spotify.com/artist/7zpbcFMqrJCTQDuasYKXCC"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165280,
+      "name": "De nada",
+      "url": "https://open.spotify.com/track/6mHFhk4i8hhQbVnW1yleq2"
+    },
+    {
+      "album": {
+        "name": "Desde hoy",
+        "url": "https://open.spotify.com/album/211cKsvaaQNmmxlxz3QB9y"
+      },
+      "artists": [
+        {
+          "name": "Karol Sevilla",
+          "url": "https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205504,
+      "name": "Desde hoy",
+      "url": "https://open.spotify.com/track/3q8yfHfQqfd0ShcTJC20aH"
+    },
+    {
+      "album": {
+        "name": "La Bella Durmiente (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/39k6mtRUMjSdkFHB88Rms0"
+      },
+      "artists": [
+        {
+          "name": "Coros - La Bella Durmiente",
+          "url": "https://open.spotify.com/artist/07Gig9aJZ6bx2XHB6vMxei"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "Eres T\u00fa el Pr\u00edncipe Azul",
+      "url": "https://open.spotify.com/track/4d2EiN35xmFmta9A6P8Szu"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 129613,
+      "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/7G061Oqw7NXFr1NDTpXoI4"
+    },
+    {
+      "album": {
+        "name": "Disney Summer Songs , Vol. 2",
+        "url": "https://open.spotify.com/album/4AORimNOUL0YaMx9jYx2G8"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Happy Working Song - From \"Enchanted\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6oNKXDX7bpzkXohQdd0MLc"
+    },
+    {
+      "album": {
+        "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Hombres de Acci\u00f3n Ser\u00e1n Hoy",
+      "url": "https://open.spotify.com/track/6tSjLKma2kitI4azWbOK4W"
+    },
+    {
+      "album": {
+        "name": "Moana (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs"
+      },
+      "artists": [
+        {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
+    },
+    {
+      "album": {
+        "name": "Hercules (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wbY6VUchNsZLaDi22eD3J"
+      },
+      "artists": [
+        {
+          "name": "Susan Egan",
+          "url": "https://open.spotify.com/artist/7CckquWatDQSr3PFKkjM8M"
+        },
+        {
+          "name": "Cheryl Freeman",
+          "url": "https://open.spotify.com/artist/3E0MPcbZSjfJ1HsnJKXkqd"
+        },
+        {
+          "name": "LaChanze",
+          "url": "https://open.spotify.com/artist/3zT7dcLl9wbSXsVh3VQx3A"
+        },
+        {
+          "name": "Vaneese Thomas",
+          "url": "https://open.spotify.com/artist/79cmm0PKrLWIrqp80GpJtK"
+        },
+        {
+          "name": "Lillias White",
+          "url": "https://open.spotify.com/artist/5TKKPpY9zr2qrz3JM3Vawq"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140226,
+      "name": "I Won't Say (I'm In Love)",
+      "url": "https://open.spotify.com/track/0PKmDncVOiNQLO6D1P6PXi"
+    },
+    {
+      "album": {
+        "name": "Snow White and the Seven Dwarfs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5nmf2deiZ5EvAsc02RmzRk"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        },
+        {
+          "name": "Harry Stockwell",
+          "url": "https://open.spotify.com/artist/2tCELGtX6ikbBFQomLSCRp"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 186693,
+      "name": "I'm Wishing / One Song",
+      "url": "https://open.spotify.com/track/35yv66uP9q34KpJ4eix9E3"
+    },
+    {
+      "album": {
+        "name": "Princess Collection",
+        "url": "https://open.spotify.com/album/5IxfjB9Ai8tD9cggC4GYkm"
+      },
+      "artists": [
+        {
+          "name": "Adriana Caselotti",
+          "url": "https://open.spotify.com/artist/6AbQqiXLNLzvJSqq2383bZ"
+        },
+        {
+          "name": "Harry Stockwell",
+          "url": "https://open.spotify.com/artist/2tCELGtX6ikbBFQomLSCRp"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187706,
+      "name": "I'm Wishing / One Song - From \"Snow White and the Seven Dwarfs\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0EWPLve8jEV6j9oWAG21oL"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/1gvcOpncxT71bZSKllfOvF"
+      },
+      "artists": [
+        {
+          "name": "Armando Gama",
+          "url": "https://open.spotify.com/artist/7sHSKikLuN6YhREK9wzeRa"
+        },
+        {
+          "name": "Lourdes Ambriz",
+          "url": "https://open.spotify.com/artist/1VtDgBFZJtPND0gzAqP1aQ"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309693,
+      "name": "La Bella",
+      "url": "https://open.spotify.com/track/6z0687KHfVEvwLDgiGqn3Q"
+    },
+    {
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/1gvcOpncxT71bZSKllfOvF"
+      },
+      "artists": [
+        {
+          "name": "Norma Herrera",
+          "url": "https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166480,
+      "name": "La Bella Y La Bestia",
+      "url": "https://open.spotify.com/track/0kXW9pLeOQpzRlSLhdglM3"
+    },
+    {
+      "album": {
+        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223835,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6kOXFFNTzraDTj6fceHenx"
+    },
+    {
+      "album": {
+        "name": "Frozen Canciones de una Aventura Congelada",
+        "url": "https://open.spotify.com/album/2pC5M2j2omSWmqBbZo678t"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Libre Soy",
+      "url": "https://open.spotify.com/track/6X7g8O6vs22Z6sh9q4rrZj"
+    },
+    {
+      "album": {
+        "name": "Like a Princess",
+        "url": "https://open.spotify.com/album/6h9bzkWa7k5BDgiJxG1KqV"
+      },
+      "artists": [
+        {
+          "name": "Ana Kohler",
+          "url": "https://open.spotify.com/artist/3dTChZZWzgIDSSeiEb0qLw"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167004,
+      "name": "Like a Princess",
+      "url": "https://open.spotify.com/track/5sroJvvnv3YE63XRSiPips"
+    },
+    {
+      "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Paula Arias Esquivel",
+          "url": "https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146613,
+      "name": "Llegar\u00e9",
+      "url": "https://open.spotify.com/track/74pJGDsreytr8eTgaG2nGW"
+    },
+    {
+      "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Francisco \"Pancho\" C\u00e9spedes",
+          "url": "https://open.spotify.com/artist/1DLKCZTK6t0NMeKSP8yAj0"
+        },
+        {
+          "name": "Mario Filio",
+          "url": "https://open.spotify.com/artist/6LmZWTPSNbZgohatez6K6X"
+        },
+        {
+          "name": "Paula Arias Esquivel",
+          "url": "https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS"
+        },
+        {
+          "name": "Terence Blanchard",
+          "url": "https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143666,
+      "name": "Lograremos ser humanos",
+      "url": "https://open.spotify.com/track/4afAeCMf15ClvLrAXwA3V9"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166199,
+      "name": "Loyal Brave True",
+      "url": "https://open.spotify.com/track/6GJ9seY4zx11sHMX9xsH6h"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Irasema Terrazas",
+          "url": "https://open.spotify.com/artist/1lLbqV8uwF5D9MK8w4im3j"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "Madre sabe bien",
+      "url": "https://open.spotify.com/track/2QodraEcFfwRrwYBmb1iLp"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Alberto Castillo",
+          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Mi sue\u00f1o ideal",
+      "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Banda Sonora Original en Espa\u00f1ol/Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/1ltVI90usp38HOd7QmSSD2"
+      },
+      "artists": [
+        {
+          "name": "Carmen Sarahi",
+          "url": "https://open.spotify.com/artist/2q8I4WTdPTd07a0IsKLch7"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Mucho M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/6UWaMec3jc3ESl5hfSaejU"
+    },
+    {
+      "album": {
+        "name": "Disney Princesas: Canciones de las Princesas",
+        "url": "https://open.spotify.com/album/3nDUYzBoVY7wDSRAtyKgR0"
+      },
+      "artists": [
+        {
+          "name": "Tatiana y las musas",
+          "url": "https://open.spotify.com/artist/6bIfJirg7c2O0HO0QzvO0t"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140053,
+      "name": "No Hablar\u00e9",
+      "url": "https://open.spotify.com/track/2jyOvWnLtMvw859fM2koYR"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00fal Carballeda",
+          "url": "https://open.spotify.com/artist/6GJcuvrFIs0ZZ9zz0l9L6e"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79293,
+      "name": "Noches De Arabia",
+      "url": "https://open.spotify.com/track/3kqwai1cZj7FwLnAxguoQn"
+    },
+    {
+      "album": {
+        "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
+      },
+      "artists": [
+        {
+          "name": "Analy",
+          "url": "https://open.spotify.com/artist/4aSk2OaHOTGndh1DfTg42F"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "Nos vas a brindar honor",
+      "url": "https://open.spotify.com/track/5fYhurThtSllQ9MgvCSETP"
+    },
+    {
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/1gvcOpncxT71bZSKllfOvF"
+      },
+      "artists": [
+        {
+          "name": "Norma Herrera",
+          "url": "https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA"
+        },
+        {
+          "name": "Mois\u00e9s Palacios",
+          "url": "https://open.spotify.com/artist/68PzdyLpKcftdmRdeHXRSt"
+        },
+        {
+          "name": "Carlos Petrel",
+          "url": "https://open.spotify.com/artist/6GRpQSfSpLhn3eOQJupFTf"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224986,
+      "name": "Nuestro Hu\u00e9sped",
+      "url": "https://open.spotify.com/track/2uXudTne7Jw0mnWLJGivcZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid Special Edition",
+        "url": "https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6"
+      },
+      "artists": [
+        {
+          "name": "Jodi Benson",
+          "url": "https://open.spotify.com/artist/4mmMtabvFCKA6HfmVmitNH"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195493,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT"
+    },
+    {
+      "album": {
+        "name": "La Sirenita (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2fRrKgbvod0kb4eRDknk3M"
+      },
+      "artists": [
+        {
+          "name": "Yatzil Aguirre",
+          "url": "https://open.spotify.com/artist/4VY7dLY79eX2M52UWV7583"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "Parte de \u00e9l",
+      "url": "https://open.spotify.com/track/5siX0Y3orXZzUE0oeAxe8u"
+    },
+    {
+      "album": {
+        "name": "Mulan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1hOU3shHZwl08nsq1LDAJP"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217996,
+      "name": "Reflection (2020)",
+      "url": "https://open.spotify.com/track/5Y1id2NTv2M7x2g2V2q1Sz"
+    },
+    {
+      "album": {
+        "name": "Mul\u00e1n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2IRrjrnWbqf5GPpg8lzGAq"
+      },
+      "artists": [
+        {
+          "name": "Analy",
+          "url": "https://open.spotify.com/artist/4aSk2OaHOTGndh1DfTg42F"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146013,
+      "name": "Reflejo",
+      "url": "https://open.spotify.com/track/4dUdp3SThqYRFFwFnA1cFa"
+    },
+    {
+      "album": {
+        "name": "Moana: un mar de aventuras (Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142320,
+      "name": "Saber volver",
+      "url": "https://open.spotify.com/track/1W3Ec5DR3MTumKVz0W8ahL"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Evan Rachel Wood",
+          "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "Show Yourself",
+      "url": "https://open.spotify.com/track/50WeOnXhM1H7AZEeIDoWfZ"
+    },
+    {
+      "album": {
+        "name": "Disney Princess: The Ultimate Song Collection",
+        "url": "https://open.spotify.com/album/1YlALay0y3WHzVz39xU3AJ"
+      },
+      "artists": [
+        {
+          "name": "Ilene Woods",
+          "url": "https://open.spotify.com/artist/4DovRSplr3yJIeE3r0RtHj"
+        },
+        {
+          "name": "Mike Douglas",
+          "url": "https://open.spotify.com/artist/4lwnV2S8BCbclu9nqBPGvI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92600,
+      "name": "So This Is Love - From \"Cinderella\"",
+      "url": "https://open.spotify.com/track/1EwRMgWXS9U8Oet39tlYwY"
+    },
+    {
+      "album": {
+        "name": "La Cenicienta (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3T3oHdX6EzhQ3YTOjpsnek"
+      },
+      "artists": [
+        {
+          "name": "Nathalia Sosa",
+          "url": "https://open.spotify.com/artist/1XfewjoYSCvCrLBXRsqM8I"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274800,
+      "name": "So\u00f1ar es Desear",
+      "url": "https://open.spotify.com/track/1eTquW56GSXv7UOvv0hLFl"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Speechless (Full)",
+      "url": "https://open.spotify.com/track/0XPsOSYzDJZJArevQNm2AR"
+    },
+    {
+      "album": {
+        "name": "Aladdin (Trilha Sonora Original em Portugu\u00eas)",
+        "url": "https://open.spotify.com/album/6QUeW09M5K56v4NtqM4ScO"
+      },
+      "artists": [
+        {
+          "name": "Naomi Scott",
+          "url": "https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 208800,
+      "name": "Speechless (Full)",
+      "url": "https://open.spotify.com/track/1wH367kMcVEAtZXDKuORNZ"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228960,
+      "name": "That's How You Know - From \"Enchanted\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/1OzSfjFW08DTD51XoNnog7"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216773,
+      "name": "The Next Right Thing",
+      "url": "https://open.spotify.com/track/1gilgPrTkkZTp09Xf8zCmK"
+    },
+    {
+      "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Heidy",
+          "url": "https://open.spotify.com/artist/6urU9QGq4o5mz50NGRL23P"
+        },
+        {
+          "name": "Paula Arias Esquivel",
+          "url": "https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS"
+        },
+        {
+          "name": "The Pinnacle Gospel Choir",
+          "url": "https://open.spotify.com/artist/4R1dpQ2VCZsEutiXZKeIzk"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168946,
+      "name": "Trabajo duro",
+      "url": "https://open.spotify.com/track/5c2gEGVPlMW4HNgLkAaBrq"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3juYz5KfvUJYunlI3caxIc"
+      },
+      "artists": [
+        {
+          "name": "Amy Adams",
+          "url": "https://open.spotify.com/artist/1gkcZQArk5rV8uBwG8y5FX"
+        },
+        {
+          "name": "James Marsden",
+          "url": "https://open.spotify.com/artist/4PMcxAosgYzNpvMCq04K7u"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "True Love's Kiss - From \"Enchanted\"/ Soundtrack Version",
+      "url": "https://open.spotify.com/track/0enYe3J97eUBaxSbZvYNsQ"
+    },
+    {
+      "album": {
+        "name": "Trust Again (Inspired by \"Raya and the Last Dragon\")",
+        "url": "https://open.spotify.com/album/6aJ5OwHbcgDLOvVOTHg2yq"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Yonnyboii",
+          "url": "https://open.spotify.com/artist/13rJ1RvOkiAEQnvbt9SlXR"
+        },
+        {
+          "name": "Matthaios",
+          "url": "https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226909,
+      "name": "Trust Again - Inspired by \"Raya and The Last Dragon\"",
+      "url": "https://open.spotify.com/track/6XDfioly4ZYDHxQFppvPjK"
+    },
+    {
+      "album": {
+        "name": "Aladd\u00edn (Edici\u00f3n Especial/Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/4Aq9s6WnRz26dN0SYEueJk"
+      },
+      "artists": [
+        {
+          "name": "Analy",
+          "url": "https://open.spotify.com/artist/4aSk2OaHOTGndh1DfTg42F"
+        },
+        {
+          "name": "Demian Bichir",
+          "url": "https://open.spotify.com/artist/64QY3QAj4yJWXcpWuw9fMo"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Un Mundo Ideal",
+      "url": "https://open.spotify.com/track/3abaJIO6xhd6hFWgqqXXmZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63586,
+      "name": "Vanessa's Trick",
+      "url": "https://open.spotify.com/track/3tMQKPLplBCDdOgdsZn0SZ"
+    },
+    {
+      "album": {
+        "name": "The Little Mermaid (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1b7rPu376c9APSVH2KKcdk"
+      },
+      "artists": [
+        {
+          "name": "Alan Menken",
+          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-26",
+      "duration_ms": 63586,
+      "name": "Vanessa's Trick",
+      "url": "https://open.spotify.com/track/7KFcG1V5DRuG9822GZzih6"
+    },
+    {
+      "album": {
+        "name": "La Princesa y el sapo (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/6fn8DNr1k7mVD1yRHIrcoe"
+      },
+      "artists": [
+        {
+          "name": "Paula Arias Esquivel",
+          "url": "https://open.spotify.com/artist/5pESGTW9dtycz6kSk8cOmS"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97440,
+      "name": "Ven a Nueva Orleans (Finale)",
+      "url": "https://open.spotify.com/track/1k8UICYSI5KckngdqJdqvj"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Veo en ti la luz",
+      "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
+    },
+    {
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "Viento y Cielo Alcanzar",
+      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
+    },
+    {
+      "album": {
+        "name": "Vive tu historia",
+        "url": "https://open.spotify.com/album/5j6KdKkUHbV1T7RLLhfGny"
+      },
+      "artists": [
+        {
+          "name": "Sara Paula G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT"
+        }
+      ],
+      "date_added": "2021-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Vive tu historia",
+      "url": "https://open.spotify.com/track/6wDIVxNFMKCeSNgV8A3S8z"
+    },
+    {
+      "album": {
+        "name": "La Cenicienta (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/3T3oHdX6EzhQ3YTOjpsnek"
+      },
+      "artists": [
+        {
+          "name": "Norma Herrera",
+          "url": "https://open.spotify.com/artist/0qm5UaAJIQeGpBekAa3ApA"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288333,
+      "name": "\u00bfD\u00f3nde Lo Habr\u00e9 Puesto?/B\u00edbbidi-B\u00e1bbidi-Bu",
+      "url": "https://open.spotify.com/track/16zRwu3cbIqGtSJY249y3J"
+    },
+    {
+      "album": {
+        "name": "Pocahontas (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/1g8v8yll56NuzDysJYsxpS"
+      },
+      "artists": [
+        {
+          "name": "Susana Zavaleta",
+          "url": "https://open.spotify.com/artist/5XOuR06r1s83I1YgX0BWDE"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "\u00bfQu\u00e9 Ser\u00e1? Quiero Saber",
+      "url": "https://open.spotify.com/track/5EzMHt1dIPGDugHyXlp45a"
+    },
+    {
+      "album": {
+        "name": "Frozen Canciones de una Aventura Congelada",
+        "url": "https://open.spotify.com/album/2pC5M2j2omSWmqBbZo678t"
+      },
+      "artists": [
+        {
+          "name": "Romina Marroqu\u00edn Payr\u00f3",
+          "url": "https://open.spotify.com/artist/5f0gcyyPRCUTePOs4YRT5Y"
+        },
+        {
+          "name": "Sara Paula G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT"
+        },
+        {
+          "name": "Andrea Rebeca G\u00f3mez Arias",
+          "url": "https://open.spotify.com/artist/2lIwN9VYopnWydLL1Gz4z0"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "\u00bfY Si Hacemos Un Mu\u00f1eco?",
+      "url": "https://open.spotify.com/track/03FqinKPv27MArnoijp8FT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1X5WuBxE8Iy"
 }

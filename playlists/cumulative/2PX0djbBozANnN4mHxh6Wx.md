@@ -4,10 +4,12 @@
 
 > 
 
-542 songs - 1 day 8 hr 36 min
+542 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [](https://open.spotify.com/track/1SV7FKtq8uOta3AizJ9bJc) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [ｇｅｔ　ａ　ｊｏｂ 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 0:00 | 2023-05-09 |  |
+| [](https://open.spotify.com/track/70c9wwn2pHz2KNw5SPJDAx) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [ｇｅｔ　ａ　ｊｏｂ 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 0:00 | 2023-10-26 |  |
 | ['BIMMER'](https://open.spotify.com/track/46NbAamUC9bSoZVSBYqaSF) | [Passing Currents](https://open.spotify.com/artist/1IOfE2EZJLsJ5H87ucZmrq) | ['BIMMER'](https://open.spotify.com/album/3X25CAVJfkL8O335IYSTyV) | 2:16 | 2023-05-09 |  |
 | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/track/55meeb1WffJW16DfMnWVi0) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\(\)vȯ\)\) ̷̨ʅ\(۝ʅ\(Ɵʅ\(\):::\(\)̵̳̗̊\(Ɵʅ\(\)vȯ\)\) ̷̨ʅ](https://open.spotify.com/album/1ML2pQY7ZpF1q16zaGDv81) | 4:31 | 2023-05-09 |  |
 | [\)✧⃛\*](https://open.spotify.com/track/4IoKhypOMtLZd0qsejlB1C) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [\)✧⃛\*](https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz) | 2:19 | 2023-10-26 |  |
@@ -135,7 +137,7 @@
 | [Cyan Hardcore](https://open.spotify.com/track/3tHuc2GGxetquuJKCleNmK) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/5BPW34xVtNwez7rVSjWQB3) | 5:05 | 2023-10-26 |  |
 | [Cyan Hardcore](https://open.spotify.com/track/5DbCXRs5PXXDgFrsdzjGDg) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [RePorpoised Phantasies](https://open.spotify.com/album/40IjED8bEPBiyVMr936p6o) | 5:05 | 2023-05-09 |  |
 | [Cyberia Lyr1](https://open.spotify.com/track/4bSv6uXAGHnImto1mii9yg) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Cyberia Lyr1+2=3](https://open.spotify.com/album/3qYvxOQTV8tAwpKdHPsnUf) | 4:54 | 2023-10-26 |  |
-| [Cycle](https://open.spotify.com/track/3RARzJMPBwAEHM5As1Ehgx) | [阿保 剛](https://open.spotify.com/artist/5bFP2SJgMM1Yc50OKmVP8q) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 2:34 | 2023-10-26 |  |
+| [Cycle](https://open.spotify.com/track/3RARzJMPBwAEHM5As1Ehgx) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [STEINS;GATE Original Soundtrack](https://open.spotify.com/album/2umS0pLz0t9Uko3X2X928C) | 2:34 | 2023-10-26 |  |
 | [Cyclic Redundancy \- Original Mix](https://open.spotify.com/track/6xYolRpOoQUGizSHvyYQJx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Full Circle](https://open.spotify.com/album/19q3AXbJAxoHkksNulkRmx) | 6:33 | 2023-05-09 |  |
 | [Cymetry](https://open.spotify.com/track/2200dyQ9yH130GSwpLTkJr) | [B12](https://open.spotify.com/artist/66I0uUVKgpOPlEjTiy87nm) | [Time Tourist \(Expanded Edition\)](https://open.spotify.com/album/1jLV4B5W9rjB8VcsyhyuNA) | 5:58 | 2023-05-09 |  |
 | [Daijoubu!](https://open.spotify.com/track/0atKWWdgtBZVjtxmzuZKxG) | [Dan Salvato](https://open.spotify.com/artist/1i0Yz0IcoZXlZOk0kAnw5B) | [Doki Doki Literature Club! \(Original Soundtrack\)](https://open.spotify.com/album/3sQqya1Z1oFg1ueZ18QB7k) | 3:05 | 2023-10-26 |  |
@@ -262,7 +264,6 @@
 | [Kid For Today](https://open.spotify.com/track/3JYEtZycESWmQggXuAbQlZ) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2DcU3XHY41Z1InXHNkiJWe) | 6:23 | 2023-05-09 |  |
 | [KYO](https://open.spotify.com/track/7tVYFD5JBxh0ZH34v2GHsB) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry Maybe](https://open.spotify.com/album/0HKXxNvvVRPynB2t5S3w3S) | 2:31 | 2023-10-26 |  |
 | [KYOUHEI](https://open.spotify.com/track/7GVA7mCJ0vrdRBuhGeuKVP) | [阿保剛](https://open.spotify.com/artist/6Sn7YAvyrm7TzAM1lyaLqV) | [Takeshi Abo KID Collection\~My Merry Maybe](https://open.spotify.com/album/0HKXxNvvVRPynB2t5S3w3S) | 3:00 | 2023-05-09 |  |
-| [L I S A](https://open.spotify.com/track/1SV7FKtq8uOta3AizJ9bJc) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 1:16 | 2023-05-09 |  |
 | [L41N](https://open.spotify.com/track/4VsT2A4GX2Ichk6PD5LeXs) | [Piff Paff Piffi](https://open.spotify.com/artist/2jKVs5nD7UCtKJKGWvyK77) | [L41N](https://open.spotify.com/album/0VdyPqxbI01I2wIzkw5gX2) | 3:49 | 2023-10-26 |  |
 | [Lake Windermere](https://open.spotify.com/track/6THTzSxa8CXiEZpFS8tkea) | [Jega](https://open.spotify.com/artist/6ZYOrTXjWodrWyCuxGY5Yx) | [1995](https://open.spotify.com/album/0E4ITEeSUENpNYQXj7QzWE) | 3:58 | 2023-05-09 |  |
 | [Lazy Daydream](https://open.spotify.com/track/5fVCupn9UtvbUCivIcJUPy) | [Vincent Diamante](https://open.spotify.com/artist/33FyliUEEegVPPrsOaLsn4) | [Flower \(Original Video Game Soundtrack\)](https://open.spotify.com/album/1QOkKa93aubfrbF7MhZWnG) | 3:06 | 2023-05-09 |  |
@@ -543,7 +544,6 @@
 | [幽霊](https://open.spotify.com/track/5k4CETgejw6DSDTfqXvTba) | [desert sand feels warm at night](https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P) | [囚人](https://open.spotify.com/album/6jK1pKKMjVaRAPGKtdrHW9) | 5:20 | 2023-10-26 |  |
 | [心太野](https://open.spotify.com/track/4XqfXZnuwhbHSGafyPSXPj) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [ECO PACK\-王菲\-迷](https://open.spotify.com/album/4fsh0w3YDQFNLXg4VsF2oM) | 5:00 | 2023-05-09 |  |
 | [暗叫](https://open.spotify.com/track/4XSlqvVREKMkNmvLoro1Ku) | [Kikuo](https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu) | [KIKUOWORLD](https://open.spotify.com/album/7dGOliDx7yqVScHqHKSypj) | 4:03 | 2023-05-09 |  |
-| [癌 is the new thin](https://open.spotify.com/track/70c9wwn2pHz2KNw5SPJDAx) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [get a job 林檎](https://open.spotify.com/album/2cRCEdjuLp41HmQltJRsyH) | 2:20 | 2023-10-26 |  |
 | [破壊の塔](https://open.spotify.com/track/4o0xSUr24aN2HlPweIpEkE) | [Haircuts For Men](https://open.spotify.com/artist/68FhxiYwHrzz3DjAgmtg5K) | [Touched By an Angle, Vol\. 2](https://open.spotify.com/album/4zGSJQ8cPjwHbmeDtHrkfO) | 4:13 | 2023-05-09 |  |
 | [羽田新ルート](https://open.spotify.com/track/06TufyTBrvkunboDiXg3LH) | [pomodorosa](https://open.spotify.com/artist/2K5KXj15T4ZlEUvWSjvWPV) | [bouillon](https://open.spotify.com/album/2xQwfB584LWa692VogihHe) | 3:21 | 2023-10-26 |  |
 | [芽生え](https://open.spotify.com/track/6ftmKGG9rxzjoimdzcx9FX) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/7IIIz33snPkVQQtI4imuqJ) | 6:57 | 2023-10-26 |  |

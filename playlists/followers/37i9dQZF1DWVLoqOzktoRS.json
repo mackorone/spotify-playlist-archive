@@ -1,712 +1,1883 @@
 {
-  "2022-01-17": 162563,
-  "2022-01-18": 162572,
-  "2022-01-19": 162567,
-  "2022-01-20": 162564,
-  "2022-01-21": 162562,
-  "2022-01-22": 162556,
-  "2022-01-23": 162565,
-  "2022-01-24": 162566,
-  "2022-01-25": 162575,
-  "2022-01-26": 162587,
-  "2022-01-27": 162589,
-  "2022-01-28": 162596,
-  "2022-01-29": 162607,
-  "2022-01-30": 162611,
-  "2022-01-31": 162621,
-  "2022-02-01": 162632,
-  "2022-02-02": 162637,
-  "2022-02-03": 162646,
-  "2022-02-04": 162657,
-  "2022-02-05": 162672,
-  "2022-02-06": 162673,
-  "2022-02-07": 162687,
-  "2022-02-08": 162691,
-  "2022-02-09": 162689,
-  "2022-02-10": 162685,
-  "2022-02-11": 162683,
-  "2022-02-12": 162692,
-  "2022-02-13": 162698,
-  "2022-02-14": 162703,
-  "2022-02-15": 162715,
-  "2022-02-16": 162709,
-  "2022-02-17": 162700,
-  "2022-02-18": 162697,
-  "2022-02-19": 162691,
-  "2022-02-20": 162694,
-  "2022-02-21": 162694,
-  "2022-02-22": 162690,
-  "2022-02-23": 162690,
-  "2022-02-24": 162691,
-  "2022-02-25": 162692,
-  "2022-02-26": 162695,
-  "2022-02-27": 162709,
-  "2022-02-28": 162709,
-  "2022-03-01": 162711,
-  "2022-03-02": 162713,
-  "2022-03-03": 162706,
-  "2022-03-04": 162712,
-  "2022-03-05": 162725,
-  "2022-03-06": 162731,
-  "2022-03-07": 162736,
-  "2022-03-08": 162738,
-  "2022-03-09": 162748,
-  "2022-03-10": 162756,
-  "2022-03-11": 162758,
-  "2022-03-12": 162765,
-  "2022-03-13": 162758,
-  "2022-03-14": 162763,
-  "2022-03-15": 162768,
-  "2022-03-16": 162770,
-  "2022-03-17": 162782,
-  "2022-03-18": 162796,
-  "2022-03-19": 162797,
-  "2022-03-20": 162797,
-  "2022-03-21": 162817,
-  "2022-03-22": 162819,
-  "2022-03-23": 162828,
-  "2022-03-24": 162837,
-  "2022-03-25": 162836,
-  "2022-03-26": 162836,
-  "2022-03-27": 162834,
-  "2022-03-28": 162836,
-  "2022-03-30": 162862,
-  "2022-03-31": 162865,
-  "2022-04-01": 162883,
-  "2022-04-02": 162885,
-  "2022-04-03": 162885,
-  "2022-04-04": 162880,
-  "2022-04-05": 162897,
-  "2022-04-06": 162897,
-  "2022-04-07": 162898,
-  "2022-04-08": 162895,
-  "2022-04-09": 162904,
-  "2022-04-10": 162920,
-  "2022-04-11": 162922,
-  "2022-04-12": 162919,
-  "2022-04-13": 162920,
-  "2022-04-14": 162931,
-  "2022-04-15": 162931,
-  "2022-04-16": 162921,
-  "2022-04-17": 162919,
-  "2022-04-18": 162938,
-  "2022-04-19": 162934,
-  "2022-04-20": 162931,
-  "2022-04-21": 162935,
-  "2022-04-22": 162931,
-  "2022-04-23": 162928,
-  "2022-04-24": 162929,
-  "2022-04-25": 162935,
-  "2022-04-26": 162939,
-  "2022-04-27": 162952,
-  "2022-04-28": 162948,
-  "2022-04-29": 162936,
-  "2022-04-30": 162929,
-  "2022-05-01": 162920,
-  "2022-05-02": 162920,
-  "2022-05-03": 162909,
-  "2022-05-04": 162912,
-  "2022-05-05": 162909,
-  "2022-05-06": 162904,
-  "2022-05-07": 162895,
-  "2022-05-08": 162890,
-  "2022-05-09": 162889,
-  "2022-05-10": 162874,
-  "2022-05-11": 162860,
-  "2022-05-12": 162853,
-  "2022-05-13": 162838,
-  "2022-05-14": 162832,
-  "2022-05-15": 162822,
-  "2022-05-16": 162807,
-  "2022-05-17": 162798,
-  "2022-05-18": 162795,
-  "2022-05-19": 162789,
-  "2022-05-20": 162781,
-  "2022-05-21": 162756,
-  "2022-05-22": 162756,
-  "2022-05-23": 162743,
-  "2022-05-24": 162736,
-  "2022-05-25": 162728,
-  "2022-05-26": 162722,
-  "2022-05-27": 162710,
-  "2022-05-28": 162704,
-  "2022-05-29": 162696,
-  "2022-05-30": 162680,
-  "2022-05-31": 162675,
-  "2022-06-01": 162657,
-  "2022-06-02": 162654,
-  "2022-06-03": 162642,
-  "2022-06-04": 162636,
-  "2022-06-05": 162624,
-  "2022-06-06": 162616,
-  "2022-06-07": 162610,
-  "2022-06-08": 162600,
-  "2022-06-09": 162595,
-  "2022-06-10": 162588,
-  "2022-06-11": 162579,
-  "2022-06-12": 162569,
-  "2022-06-13": 162560,
-  "2022-06-14": 162550,
-  "2022-06-15": 162541,
-  "2022-06-16": 162537,
-  "2022-06-17": 162529,
-  "2022-06-18": 162522,
-  "2022-06-19": 162503,
-  "2022-06-20": 162503,
-  "2022-06-21": 162499,
-  "2022-06-22": 162489,
-  "2022-06-23": 162489,
-  "2022-06-24": 162482,
-  "2022-06-25": 162471,
-  "2022-06-26": 162464,
-  "2022-06-27": 162455,
-  "2022-06-28": 162447,
-  "2022-06-29": 162440,
-  "2022-06-30": 162436,
-  "2022-07-01": 162426,
-  "2022-07-02": 162416,
-  "2022-07-03": 162406,
-  "2022-07-04": 162399,
-  "2022-07-05": 162395,
-  "2022-07-06": 162387,
-  "2022-07-07": 162384,
-  "2022-07-08": 162376,
-  "2022-07-09": 162371,
-  "2022-07-10": 162363,
-  "2022-07-11": 162352,
-  "2022-07-12": 162348,
-  "2022-07-13": 162341,
-  "2022-07-14": 162323,
-  "2022-07-15": 162314,
-  "2022-07-16": 162306,
-  "2022-07-17": 162300,
-  "2022-07-18": 162288,
-  "2022-07-19": 162282,
-  "2022-07-20": 162276,
-  "2022-07-21": 162261,
-  "2022-07-22": 162254,
-  "2022-07-23": 162242,
-  "2022-07-24": 162235,
-  "2022-07-25": 162230,
-  "2022-07-26": 162226,
-  "2022-07-27": 162222,
-  "2022-07-28": 162218,
-  "2022-07-29": 162213,
-  "2022-07-30": 162193,
-  "2022-07-31": 162193,
-  "2022-08-01": 162182,
-  "2022-08-02": 162167,
-  "2022-08-03": 162167,
-  "2022-08-04": 162160,
-  "2022-08-05": 162149,
-  "2022-08-06": 162146,
-  "2022-08-07": 162141,
-  "2022-08-08": 162136,
-  "2022-08-09": 162129,
-  "2022-08-10": 162121,
-  "2022-08-11": 162110,
-  "2022-08-12": 162107,
-  "2022-08-13": 162101,
-  "2022-08-14": 162092,
-  "2022-08-15": 162081,
-  "2022-08-16": 162069,
-  "2022-08-17": 162062,
-  "2022-08-18": 162061,
-  "2022-08-19": 162057,
-  "2022-08-20": 162048,
-  "2022-08-21": 162038,
-  "2022-08-22": 162030,
-  "2022-08-23": 162024,
-  "2022-08-24": 162020,
-  "2022-08-25": 162007,
-  "2022-08-26": 162003,
-  "2022-08-27": 161992,
-  "2022-08-28": 161982,
-  "2022-08-29": 161980,
-  "2022-08-30": 161977,
-  "2022-08-31": 161960,
-  "2022-09-01": 161947,
-  "2022-09-02": 161942,
-  "2022-09-03": 161927,
-  "2022-09-04": 161904,
-  "2022-09-05": 161885,
-  "2022-09-06": 161877,
-  "2022-09-07": 161869,
-  "2022-09-09": 161859,
-  "2022-09-10": 161856,
-  "2022-09-11": 161847,
-  "2022-09-12": 161839,
-  "2022-09-13": 161835,
-  "2022-09-15": 161829,
-  "2022-09-16": 161822,
-  "2022-09-17": 161818,
-  "2022-09-18": 161808,
-  "2022-09-19": 161805,
-  "2022-09-20": 161805,
-  "2022-09-21": 161799,
-  "2022-09-22": 161798,
-  "2022-09-23": 161798,
-  "2022-09-24": 161794,
-  "2022-09-25": 161791,
-  "2022-09-26": 161781,
-  "2022-09-27": 161780,
-  "2022-09-28": 161778,
-  "2022-09-29": 161773,
-  "2022-09-30": 161762,
-  "2022-10-01": 161755,
-  "2022-10-02": 161750,
-  "2022-10-03": 161746,
-  "2022-10-04": 161738,
-  "2022-10-05": 161729,
-  "2022-10-06": 161723,
-  "2022-10-07": 161718,
-  "2022-10-08": 161711,
-  "2022-10-09": 161706,
-  "2022-10-10": 161702,
-  "2022-10-11": 161698,
-  "2022-10-12": 161696,
-  "2022-10-13": 161689,
-  "2022-10-14": 161691,
-  "2022-10-15": 161688,
-  "2022-10-16": 161686,
-  "2022-10-17": 161689,
-  "2022-10-18": 161697,
-  "2022-10-19": 161693,
-  "2022-10-20": 161687,
-  "2022-10-21": 161689,
-  "2022-10-22": 161683,
-  "2022-10-23": 161684,
-  "2022-10-24": 161677,
-  "2022-10-25": 161677,
-  "2022-10-26": 161677,
-  "2022-10-27": 161673,
-  "2022-10-28": 161671,
-  "2022-10-29": 161660,
-  "2022-10-30": 161654,
-  "2022-10-31": 161652,
-  "2022-11-01": 161649,
-  "2022-11-02": 161644,
-  "2022-11-03": 161639,
-  "2022-11-04": 161635,
-  "2022-11-05": 161626,
-  "2022-11-06": 161619,
-  "2022-11-07": 161617,
-  "2022-11-08": 161612,
-  "2022-11-09": 161606,
-  "2022-11-10": 161597,
-  "2022-11-11": 161594,
-  "2022-11-12": 161591,
-  "2022-11-13": 161586,
-  "2022-11-14": 161580,
-  "2022-11-15": 161578,
-  "2022-11-16": 161577,
-  "2022-11-17": 161583,
-  "2022-11-18": 161574,
-  "2022-11-19": 161567,
-  "2022-11-20": 161561,
-  "2022-11-21": 161561,
-  "2022-11-22": 161566,
-  "2022-11-23": 161560,
-  "2022-11-24": 161562,
-  "2022-11-25": 161571,
-  "2022-11-26": 161577,
-  "2022-11-27": 161575,
-  "2022-11-28": 161572,
-  "2022-11-29": 161571,
-  "2022-11-30": 161572,
-  "2022-12-01": 161562,
-  "2022-12-02": 161556,
-  "2022-12-03": 161554,
-  "2022-12-04": 161542,
-  "2022-12-05": 161538,
-  "2022-12-06": 161530,
-  "2022-12-07": 161531,
-  "2022-12-08": 161527,
-  "2022-12-09": 161520,
-  "2022-12-10": 161514,
-  "2022-12-11": 161507,
-  "2022-12-12": 161501,
-  "2022-12-13": 161498,
-  "2022-12-14": 161494,
-  "2022-12-15": 161490,
-  "2022-12-16": 161483,
-  "2022-12-17": 161475,
-  "2022-12-18": 161469,
-  "2022-12-19": 161463,
-  "2022-12-20": 161447,
-  "2022-12-21": 161447,
-  "2022-12-22": 161448,
-  "2022-12-24": 161434,
-  "2022-12-25": 161424,
-  "2022-12-26": 161415,
-  "2022-12-27": 161409,
-  "2022-12-28": 161397,
-  "2022-12-29": 161393,
-  "2022-12-30": 161390,
-  "2022-12-31": 161380,
-  "2023-01-01": 161376,
-  "2023-01-02": 161372,
-  "2023-01-03": 161364,
-  "2023-01-04": 161362,
-  "2023-01-05": 161349,
-  "2023-01-06": 161338,
-  "2023-01-07": 161328,
-  "2023-01-08": 161325,
-  "2023-01-09": 161317,
-  "2023-01-10": 161314,
-  "2023-01-11": 161308,
-  "2023-01-12": 161296,
-  "2023-01-13": 161292,
-  "2023-01-14": 161286,
-  "2023-01-15": 161285,
-  "2023-01-16": 161314,
-  "2023-01-17": 161317,
-  "2023-01-18": 161313,
-  "2023-01-19": 161317,
-  "2023-01-20": 161308,
-  "2023-01-21": 161307,
-  "2023-01-22": 161301,
-  "2023-01-23": 161296,
-  "2023-01-24": 161284,
-  "2023-01-25": 161279,
-  "2023-01-26": 161276,
-  "2023-01-27": 161264,
-  "2023-01-28": 161254,
-  "2023-01-29": 161248,
-  "2023-01-30": 161242,
-  "2023-01-31": 161242,
-  "2023-02-01": 161238,
-  "2023-02-02": 161232,
-  "2023-02-03": 161229,
-  "2023-02-04": 161228,
-  "2023-02-05": 161222,
-  "2023-02-06": 161217,
-  "2023-02-07": 161211,
-  "2023-02-08": 161204,
-  "2023-02-09": 161204,
-  "2023-02-10": 161200,
-  "2023-02-11": 161194,
-  "2023-02-12": 161175,
-  "2023-02-13": 161167,
-  "2023-02-14": 161167,
-  "2023-02-15": 161158,
-  "2023-02-16": 161155,
-  "2023-02-17": 161154,
-  "2023-02-18": 161147,
-  "2023-02-19": 161147,
-  "2023-02-20": 161146,
-  "2023-02-21": 161142,
-  "2023-02-22": 161142,
-  "2023-02-23": 161142,
-  "2023-02-24": 161139,
-  "2023-02-25": 161139,
-  "2023-02-26": 161139,
-  "2023-02-27": 161139,
-  "2023-02-28": 161139,
-  "2023-03-01": 161139,
-  "2023-03-02": 161139,
-  "2023-03-03": 161139,
-  "2023-03-04": 161139,
-  "2023-03-05": 161139,
-  "2023-03-06": 161139,
-  "2023-03-07": 161139,
-  "2023-03-08": 161139,
-  "2023-03-09": 161139,
-  "2023-03-10": 161139,
-  "2023-03-11": 161139,
-  "2023-03-12": 161139,
-  "2023-03-13": 161139,
-  "2023-03-14": 161139,
-  "2023-03-15": 161139,
-  "2023-03-16": 161139,
-  "2023-03-17": 161139,
-  "2023-03-18": 161139,
-  "2023-03-19": 161139,
-  "2023-03-20": 161139,
-  "2023-03-21": 161139,
-  "2023-03-22": 161139,
-  "2023-03-23": 161139,
-  "2023-03-24": 161139,
-  "2023-03-25": 161139,
-  "2023-03-26": 161139,
-  "2023-03-27": 161139,
-  "2023-03-28": 161139,
-  "2023-03-29": 161139,
-  "2023-03-30": 161139,
-  "2023-03-31": 161139,
-  "2023-04-01": 161139,
-  "2023-04-02": 161139,
-  "2023-04-03": 161139,
-  "2023-04-04": 161139,
-  "2023-04-05": 161139,
-  "2023-04-06": 161139,
-  "2023-04-07": 161139,
-  "2023-04-09": 161139,
-  "2023-04-10": 161139,
-  "2023-04-11": 161139,
-  "2023-04-12": 161139,
-  "2023-04-13": 161139,
-  "2023-04-14": 161139,
-  "2023-04-15": 161139,
-  "2023-04-16": 161139,
-  "2023-04-17": 161139,
-  "2023-04-18": 161139,
-  "2023-04-19": 161139,
-  "2023-04-20": 161139,
-  "2023-04-21": 161139,
-  "2023-04-22": 161139,
-  "2023-04-23": 161139,
-  "2023-04-24": 161139,
-  "2023-04-25": 161139,
-  "2023-04-26": 161139,
-  "2023-04-27": 161139,
-  "2023-04-28": 161139,
-  "2023-04-29": 161139,
-  "2023-04-30": 161139,
-  "2023-05-01": 161139,
-  "2023-05-02": 161139,
-  "2023-05-03": 161139,
-  "2023-05-04": 161139,
-  "2023-05-05": 161139,
-  "2023-05-06": 161139,
-  "2023-05-07": 161139,
-  "2023-05-08": 161139,
-  "2023-05-09": 161139,
-  "2023-05-10": 161139,
-  "2023-05-11": 161139,
-  "2023-05-12": 161139,
-  "2023-05-13": 161139,
-  "2023-05-14": 161139,
-  "2023-05-15": 161139,
-  "2023-05-16": 161139,
-  "2023-05-17": 161139,
-  "2023-05-18": 161139,
-  "2023-05-19": 161139,
-  "2023-05-20": 161139,
-  "2023-05-21": 161139,
-  "2023-05-22": 161139,
-  "2023-05-23": 161139,
-  "2023-05-24": 161139,
-  "2023-05-25": 161139,
-  "2023-05-26": 161139,
-  "2023-05-27": 161139,
-  "2023-05-28": 161139,
-  "2023-05-29": 161139,
-  "2023-05-30": 161139,
-  "2023-05-31": 161139,
-  "2023-06-01": 161139,
-  "2023-06-02": 161139,
-  "2023-06-03": 161139,
-  "2023-06-04": 161139,
-  "2023-06-05": 161139,
-  "2023-06-06": 161139,
-  "2023-06-07": 161139,
-  "2023-06-08": 161139,
-  "2023-06-09": 161139,
-  "2023-06-10": 161139,
-  "2023-06-11": 161139,
-  "2023-06-12": 161139,
-  "2023-06-13": 161139,
-  "2023-06-14": 161139,
-  "2023-06-15": 161139,
-  "2023-06-16": 161139,
-  "2023-06-17": 161139,
-  "2023-06-18": 161139,
-  "2023-06-19": 161139,
-  "2023-06-20": 161139,
-  "2023-06-21": 161139,
-  "2023-06-22": 161139,
-  "2023-06-23": 161139,
-  "2023-06-24": 161139,
-  "2023-06-25": 161139,
-  "2023-06-26": 161139,
-  "2023-06-27": 161139,
-  "2023-06-28": 161139,
-  "2023-06-29": 161139,
-  "2023-06-30": 161139,
-  "2023-07-01": 161139,
-  "2023-07-02": 161139,
-  "2023-07-03": 161139,
-  "2023-07-04": 161139,
-  "2023-07-05": 161139,
-  "2023-07-06": 161139,
-  "2023-07-07": 161139,
-  "2023-07-08": 161139,
-  "2023-07-09": 161139,
-  "2023-07-10": 161139,
-  "2023-07-11": 161139,
-  "2023-07-12": 161139,
-  "2023-07-13": 161139,
-  "2023-07-14": 161139,
-  "2023-07-15": 161139,
-  "2023-07-16": 161139,
-  "2023-07-17": 161139,
-  "2023-07-18": 161139,
-  "2023-07-19": 161139,
-  "2023-07-20": 161139,
-  "2023-07-21": 161139,
-  "2023-07-22": 161139,
-  "2023-07-23": 161139,
-  "2023-07-24": 161139,
-  "2023-07-25": 161139,
-  "2023-07-26": 161139,
-  "2023-07-27": 161139,
-  "2023-07-28": 161139,
-  "2023-07-29": 161139,
-  "2023-07-30": 161139,
-  "2023-07-31": 161139,
-  "2023-08-01": 161139,
-  "2023-08-02": 161139,
-  "2023-08-03": 161139,
-  "2023-08-04": 161139,
-  "2023-08-05": 161139,
-  "2023-08-06": 161139,
-  "2023-08-07": 161139,
-  "2023-08-08": 161139,
-  "2023-08-09": 161139,
-  "2023-08-10": 161139,
-  "2023-08-11": 161139,
-  "2023-08-12": 161139,
-  "2023-08-13": 161139,
-  "2023-08-14": 161139,
-  "2023-08-15": 161139,
-  "2023-08-16": 161139,
-  "2023-08-17": 161139,
-  "2023-08-18": 161139,
-  "2023-08-19": 161139,
-  "2023-08-20": 161139,
-  "2023-08-21": 161139,
-  "2023-08-22": 161139,
-  "2023-08-23": 161139,
-  "2023-08-24": 161139,
-  "2023-08-25": 161139,
-  "2023-08-26": 161139,
-  "2023-08-27": 161139,
-  "2023-08-28": 161139,
-  "2023-08-29": 161139,
-  "2023-08-30": 161139,
-  "2023-08-31": 161139,
-  "2023-09-01": 161139,
-  "2023-09-02": 161139,
-  "2023-09-03": 161139,
-  "2023-09-04": 161139,
-  "2023-09-05": 161139,
-  "2023-09-06": 161139,
-  "2023-09-07": 161139,
-  "2023-09-08": 161139,
-  "2023-09-09": 161139,
-  "2023-09-10": 161139,
-  "2023-09-11": 161139,
-  "2023-09-12": 161139,
-  "2023-09-13": 161139,
-  "2023-09-14": 161139,
-  "2023-09-15": 161139,
-  "2023-09-16": 161139,
-  "2023-09-17": 161139,
-  "2023-09-18": 161139,
-  "2023-09-19": 161139,
-  "2023-09-20": 161139,
-  "2023-09-21": 161139,
-  "2023-09-22": 161139,
-  "2023-09-23": 161139,
-  "2023-09-24": 161139,
-  "2023-09-25": 161139,
-  "2023-09-26": 161139,
-  "2023-09-27": 161139,
-  "2023-09-28": 161139,
-  "2023-09-29": 161139,
-  "2023-09-30": 161139,
-  "2023-10-01": 161139,
-  "2023-10-02": 161139,
-  "2023-10-03": 161139,
-  "2023-10-04": 161139,
-  "2023-10-05": 161139,
-  "2023-10-06": 161139,
-  "2023-10-07": 161139,
-  "2023-10-08": 161139,
-  "2023-10-09": 161139,
-  "2023-10-10": 161139,
-  "2023-10-11": 161139,
-  "2023-10-12": 161139,
-  "2023-10-13": 161139,
-  "2023-10-14": 161139,
-  "2023-10-15": 161139,
-  "2023-10-16": 161139,
-  "2023-10-17": 161139,
-  "2023-10-18": 161139,
-  "2023-10-19": 161139,
-  "2023-10-20": 161139,
-  "2023-10-21": 161139,
-  "2023-10-22": 161139,
-  "2023-10-23": 161139,
-  "2023-10-24": 161139,
-  "2023-10-25": 161139,
-  "2023-10-26": 161139,
-  "2023-10-27": 161139,
-  "2023-10-28": 161139,
-  "2023-10-29": 161139,
-  "2023-10-30": 161139,
-  "2023-10-31": 161139,
-  "2023-11-01": 161139,
-  "2023-11-02": 161139,
-  "2023-11-03": 161139,
-  "2023-11-04": 161139,
-  "2023-11-05": 161139,
-  "2023-11-06": 161139,
-  "2023-11-07": 161139,
-  "2023-11-08": 161139,
-  "2023-11-09": 161139,
-  "2023-11-10": 161139,
-  "2023-11-11": 161139,
-  "2023-11-12": 161139,
-  "2023-11-13": 161139,
-  "2023-11-14": 161139,
-  "2023-11-15": 161139,
-  "2023-11-16": 161139,
-  "2023-11-17": 161139,
-  "2023-11-18": 161139,
-  "2023-11-19": 161139,
-  "2023-11-20": 161139,
-  "2023-11-21": 161139,
-  "2023-11-22": 161139,
-  "2023-11-23": 161139,
-  "2023-11-24": 161139,
-  "2023-11-25": 161139,
-  "2023-11-26": 161139,
-  "2023-11-27": 161139,
-  "2023-11-28": 161139,
-  "2023-11-29": 161139,
-  "2023-11-30": 161139,
-  "2023-12-01": 161139,
-  "2023-12-02": 161139,
-  "2023-12-03": 161139,
-  "2023-12-04": 161139,
-  "2023-12-05": 161139,
-  "2023-12-06": 161139,
-  "2023-12-07": 161139,
-  "2023-12-08": 161139,
-  "2023-12-09": 161139,
-  "2023-12-10": 161139,
-  "2023-12-11": 161139,
-  "2023-12-12": 161139,
-  "2023-12-13": 161139,
-  "2023-12-14": 161139,
-  "2023-12-15": 161139,
-  "2023-12-16": 161139,
-  "2023-12-17": 161139,
-  "2023-12-18": 161139,
-  "2023-12-19": 161139,
-  "2023-12-20": 161139,
-  "2023-12-21": 161139,
-  "2023-12-22": 161139,
-  "2023-12-23": 161139,
-  "2023-12-24": 161139,
-  "2023-12-25": 161139,
-  "2023-12-26": 161139,
-  "2023-12-27": 161139,
-  "2023-12-30": 161139,
-  "2023-12-31": 161139,
-  "2024-01-01": 161139,
-  "2024-01-02": 161139,
-  "2024-01-03": 161139
+  "2024-01-17": 161139,
+  "date_first_scraped": "2022-01-17",
+  "description": "Sweet dreams are made of this. Rel\u00e1jate, es hora de dormir.",
+  "name": "Buenas Noches",
+  "tracks": [
+    {
+      "album": {
+        "name": "RE-FOC",
+        "url": "https://open.spotify.com/album/5lQCvQ48pbjcODGawER5gj"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/0GMT9zHQXBtose5Nz5vytZ"
+    },
+    {
+      "album": {
+        "name": "Re-Foc",
+        "url": "https://open.spotify.com/album/16i22w9V74VL7euoZIjX6G"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo y Gabriela",
+          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "30 De Marzo",
+      "url": "https://open.spotify.com/track/23jaacZ4V3mdoMJYWrDI3n"
+    },
+    {
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
+    },
+    {
+      "album": {
+        "name": "Ventura",
+        "url": "https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u"
+    },
+    {
+      "album": {
+        "name": "Bistro Fada",
+        "url": "https://open.spotify.com/album/5mTSSRzpn80KfvSBitxemy"
+      },
+      "artists": [
+        {
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234188,
+      "name": "Big Brother (from the Motion Picture \"Vicky Cristina Barcelona\")",
+      "url": "https://open.spotify.com/track/0vNtHflJNrmP6EIdtolEs4"
+    },
+    {
+      "album": {
+        "name": "Bistro Fada",
+        "url": "https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ"
+      },
+      "artists": [
+        {
+          "name": "Stephane Wrembel",
+          "url": "https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Bistro Fada",
+      "url": "https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6"
+    },
+    {
+      "album": {
+        "name": "Concierto De Aranjuez",
+        "url": "https://open.spotify.com/album/3kYhw19SFaOanazThWHgK8"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "Orquesta De Cadaques",
+          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
+        },
+        {
+          "name": "Edmon Colomer",
+          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 692373,
+      "name": "Concierto De Aranjuez: 2. Adagio",
+      "url": "https://open.spotify.com/track/7DZKMO6GK3yQEXx3YzxxrW"
+    },
+    {
+      "album": {
+        "name": "Integral",
+        "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        },
+        {
+          "name": "Orquesta De Cadaques",
+          "url": "https://open.spotify.com/artist/1cmiYraSsNQzA3FD1KkmDU"
+        },
+        {
+          "name": "Edmon Colomer",
+          "url": "https://open.spotify.com/artist/7BiMQ3Qho34fOpo2VMjHXJ"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692373,
+      "name": "Concierto De Aranjuez: 2. Adagio",
+      "url": "https://open.spotify.com/track/1XgTqDYeR2L4AWObBUu5rC"
+    },
+    {
+      "album": {
+        "name": "Flamenco Guitar: Flamenco Dance Chillout Music",
+        "url": "https://open.spotify.com/album/3RUanqBy5GAOHjr08irUEz"
+      },
+      "artists": [
+        {
+          "name": "Flamenco Music Musica Flamenca Chill Out",
+          "url": "https://open.spotify.com/artist/6Rc650o8FvccjudHys09Vr"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231500,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/1HLjEoE0Ltos1wfzDTAHUX"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1IXbQTfzPJiozrzpjBEbcf"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/74qOrLoRGaAMJu0DXAsvqY"
+    },
+    {
+      "album": {
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199106,
+      "name": "Coyita",
+      "url": "https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3"
+    },
+    {
+      "album": {
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "De Ushuaia a La Quiaca",
+      "url": "https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa"
+    },
+    {
+      "album": {
+        "name": "En t'attendant",
+        "url": "https://open.spotify.com/album/4zojkjd8EnxhvBQAx1Nd4W"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9lanie Laurent",
+          "url": "https://open.spotify.com/artist/7HS5tD2CPw2AgG4AgWpxpN"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160066,
+      "name": "D\u00e9but",
+      "url": "https://open.spotify.com/track/6YS1MXqso0zlmcL4OV1kXk"
+    },
+    {
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "El Bueno Y El Malo",
+      "url": "https://open.spotify.com/track/07S694jiKDLkJLyBa7pdMn"
+    },
+    {
+      "album": {
+        "name": "Harp Guitar Christmas",
+        "url": "https://open.spotify.com/album/2PVJISam5pbin1Bt99zuO0"
+      },
+      "artists": [
+        {
+          "name": "Muriel Anderson",
+          "url": "https://open.spotify.com/artist/4YzYewhzHdLKLj8xdjaJVC"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "El Noi De La Mare - The Son Of Mary",
+      "url": "https://open.spotify.com/track/7IwbrFYIDqKuZy3L1oWTyl"
+    },
+    {
+      "album": {
+        "name": "Carlos Guastavino: Melodias Argentinas",
+        "url": "https://open.spotify.com/album/1AH1QP1VSX7V4mLbmvfP2n"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+        },
+        {
+          "name": "Marcela Roggeri",
+          "url": "https://open.spotify.com/artist/7eHNjAADUow33FO8ZXTnja"
+        },
+        {
+          "name": "Florent H\u00e9au",
+          "url": "https://open.spotify.com/artist/3TIlkDLL5iVkwYjKo5KUQZ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107213,
+      "name": "Encantamiento (Seis Canciones de Cuna)",
+      "url": "https://open.spotify.com/track/0uFjSoOR9qGHfuS5Q1GFai"
+    },
+    {
+      "album": {
+        "name": "Mi Historia: Paco De Lucia",
+        "url": "https://open.spotify.com/album/4psU1Z4bLtTOwZjmmL6lid"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360426,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/5hVqZ5hnvQGT4LOpUVuJUa"
+    },
+    {
+      "album": {
+        "name": "El Flamenco es... Paco De Lucia",
+        "url": "https://open.spotify.com/album/4EtA69YGY0HJdIluqGUKGP"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/1VvRKrSSsTBctlbilgKHmm"
+    },
+    {
+      "album": {
+        "name": "Entre Dos Aguas",
+        "url": "https://open.spotify.com/album/3pWmGwLDx5CRtha5fhPdOS"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 362093,
+      "name": "Entre Dos Aguas",
+      "url": "https://open.spotify.com/track/7KKx4INB8LyGUeNXKiqQHK"
+    },
+    {
+      "album": {
+        "name": "Sonidos Latinos",
+        "url": "https://open.spotify.com/album/0zsYRUl4gqxe6vggFXsk9h"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Estrellita",
+      "url": "https://open.spotify.com/track/2yw3zRz46K4FE9lZf3tfwb"
+    },
+    {
+      "album": {
+        "name": "El Secreto de Sus Ojos (The Original Motion Pictures Soundtrack) (The Secret In Their Eyes, By Juan Jos\u00e9 Campanella)",
+        "url": "https://open.spotify.com/album/3cdaDNvGnfQiOqzl28VL0c"
+      },
+      "artists": [
+        {
+          "name": "Emilio Kauderer",
+          "url": "https://open.spotify.com/artist/3Ie0iKmYPXlTXUzCiGOmDq"
+        },
+        {
+          "name": "Federico Jusid",
+          "url": "https://open.spotify.com/artist/4Bjfwb6PiXwqru4DHOMwIq"
+        },
+        {
+          "name": "Sebastian Kauderer",
+          "url": "https://open.spotify.com/artist/18tRinDA2SAp0t3qmrh4Ce"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101590,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/1BEYD0bZSeaA8OlMGnyLpj"
+    },
+    {
+      "album": {
+        "name": "Piazzolla / Five Tango Sensations",
+        "url": "https://open.spotify.com/album/2bTSNmLE1THh68IfCqb0wO"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "Bandone\u00f3n",
+          "url": "https://open.spotify.com/artist/2y96EwnUYgJlJ2Xk8fEVex"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328573,
+      "name": "Five Tango Sensations: Asleep - Dreaming",
+      "url": "https://open.spotify.com/track/5DMk4aG97MCz8WhrtUQJ4y"
+    },
+    {
+      "album": {
+        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76560,
+      "name": "Fotos",
+      "url": "https://open.spotify.com/track/5wpkn1RScqLvmUPaWVqtHy"
+    },
+    {
+      "album": {
+        "name": "Starlite Unlimited Plays Music from Woody Allen Movies",
+        "url": "https://open.spotify.com/album/4TYY6UxDiIkDfJ2d914w3H"
+      },
+      "artists": [
+        {
+          "name": "Starlite Unlimited",
+          "url": "https://open.spotify.com/artist/6PrFrHw9A9OGlUJkhzXmXb"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291066,
+      "name": "Granada - From Vicky Cristina Barcelona",
+      "url": "https://open.spotify.com/track/4Lks6csj4oksGZOvpcwrri"
+    },
+    {
+      "album": {
+        "name": "El Secreto de Sus Ojos (The Original Motion Pictures Soundtrack) (The Secret In Their Eyes, By Juan Jos\u00e9 Campanella)",
+        "url": "https://open.spotify.com/album/3cdaDNvGnfQiOqzl28VL0c"
+      },
+      "artists": [
+        {
+          "name": "Emilio Kauderer",
+          "url": "https://open.spotify.com/artist/3Ie0iKmYPXlTXUzCiGOmDq"
+        },
+        {
+          "name": "Federico Jusid",
+          "url": "https://open.spotify.com/artist/4Bjfwb6PiXwqru4DHOMwIq"
+        },
+        {
+          "name": "Sebastian Kauderer",
+          "url": "https://open.spotify.com/artist/18tRinDA2SAp0t3qmrh4Ce"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107102,
+      "name": "Her Eyes",
+      "url": "https://open.spotify.com/track/3Z54DU0Q9LSSqZPD4BBRZU"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/51ng5rSLiaHnqrsCnMmLfC"
+      },
+      "artists": [
+        {
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        },
+        {
+          "name": "AAESPO",
+          "url": "https://open.spotify.com/artist/6zhjVmPJZu9cmiv82lQv5D"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/4efssYq66sMZusM0f9habM"
+    },
+    {
+      "album": {
+        "name": "Klexos",
+        "url": "https://open.spotify.com/album/4rWBjdfcie7h51l3lbDfoJ"
+      },
+      "artists": [
+        {
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194364,
+      "name": "Klexos",
+      "url": "https://open.spotify.com/track/0wZAoM90syxxV83rvNCRvi"
+    },
+    {
+      "album": {
+        "name": "Gypsy Rumble",
+        "url": "https://open.spotify.com/album/3e39bLX6BgsDCaiQmqrlBt"
+      },
+      "artists": [
+        {
+          "name": "The Stephane Wrembel Trio With David Grisman",
+          "url": "https://open.spotify.com/artist/2avaXPIQz3YqYar1jwF0yz"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Les Deux Guitares",
+      "url": "https://open.spotify.com/track/6UJQTS2H8ZuuIdP1GU4oYa"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Leyendo en el Hospital",
+      "url": "https://open.spotify.com/track/3V0TY9qEn3nJUGvufkTOnY"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries",
+        "url": "https://open.spotify.com/album/58pSUpShA89C9by7g4SSIV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187466,
+      "name": "Leyendo en el Hospital",
+      "url": "https://open.spotify.com/track/6XRfJvxL5hIZwPWDJK7Obr"
+    },
+    {
+      "album": {
+        "name": "Lineas de Tu Mano",
+        "url": "https://open.spotify.com/album/0BfKQuiDgerAMSaL173ELr"
+      },
+      "artists": [
+        {
+          "name": "Tiare",
+          "url": "https://open.spotify.com/artist/5tcN4f1kT2KXbUelXPzjKK"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 254058,
+      "name": "Lineas de Tu Mano",
+      "url": "https://open.spotify.com/track/6Gca05CM0s55fDkfvK6uEa"
+    },
+    {
+      "album": {
+        "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203464,
+      "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "album": {
+        "name": "Los Abrazos Rotos - \"Broken Embraces\"OST",
+        "url": "https://open.spotify.com/album/5h7YGDoAThlplQ2POwX6St"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181293,
+      "name": "Los Abrazos Rotos",
+      "url": "https://open.spotify.com/track/3aN3WqqmbORNMqbzUeWV78"
+    },
+    {
+      "album": {
+        "name": "Pedro Almod\u00f3var & Alberto Iglesias Film Music Collection",
+        "url": "https://open.spotify.com/album/62fhhQD67rCCE9AVZg6eqJ"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Los abrazos rotos (From \"Los abrazos rotos\")",
+      "url": "https://open.spotify.com/track/2WU9CCpOZPLXGcGyHeaiXs"
+    },
+    {
+      "album": {
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148929,
+      "name": "Los R\u00edos de Alice",
+      "url": "https://open.spotify.com/track/5gAxyJT89hHM1DRdbD2sd0"
+    },
+    {
+      "album": {
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148929,
+      "name": "Los R\u00edos de Alice",
+      "url": "https://open.spotify.com/track/6Q7dyS0dLXNHaBj2esXTi6"
+    },
+    {
+      "album": {
+        "name": "Hatfields & McCoys (Soundtrack from the Mini Series)",
+        "url": "https://open.spotify.com/album/5BCt6xZhTH1M7F2Q88X71s"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Tony Morales",
+          "url": "https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 175346,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/2r7RDlZD4Zpyt5iUCLp2fF"
+    },
+    {
+      "album": {
+        "name": "Hatfields & McCoys (Soundtrack from the Mini Series)",
+        "url": "https://open.spotify.com/album/37hO4p1ydB2AzfWi6bP6Kg"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        },
+        {
+          "name": "Tony Morales",
+          "url": "https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175346,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/6VByPbxqPFtxFrhfLJQLh9"
+    },
+    {
+      "album": {
+        "name": "Hatfields & McCoys (Soundtrack from the Mini Series)",
+        "url": "https://open.spotify.com/album/2f8WUz32TdEglQiy2cm12Z"
+      },
+      "artists": [
+        {
+          "name": "Tony Morales",
+          "url": "https://open.spotify.com/artist/42N1S7HhIWeL9viIKm5luj"
+        },
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/1doPy3bX81PTHcfujT1nyS"
+    },
+    {
+      "album": {
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/6gaiQ9lS2tcaVcs6JRNtu1"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "Love Theme (from \"Romeo and Juliet\")",
+      "url": "https://open.spotify.com/track/0ntuV7nRcyEH9tigFIV0du"
+    },
+    {
+      "album": {
+        "name": "At the Movies",
+        "url": "https://open.spotify.com/album/2R6mVyFgaSvQXO4IrWs3Id"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Love Theme (from \"Romeo and Juliet\")",
+      "url": "https://open.spotify.com/track/29lZKytTb56zzAwryJ3X38"
+    },
+    {
+      "album": {
+        "name": "Coastal Grandma",
+        "url": "https://open.spotify.com/album/77plCf7jVtTFe7jaHbPwVn"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Rieu",
+          "url": "https://open.spotify.com/artist/3hJv5p2HwekJysNB2NDnEC"
+        },
+        {
+          "name": "Johann Strauss Orchestra",
+          "url": "https://open.spotify.com/artist/51HxUAjeZIOv4aniusaDkT"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 228160,
+      "name": "Love Theme - From \"Romeo And Juliet\"",
+      "url": "https://open.spotify.com/track/2NxpOGLU5LBnBMAXrktQiD"
+    },
+    {
+      "album": {
+        "name": "On The Road [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/1lxrEDfl1a8ZvhD5ZqmXLV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 332346,
+      "name": "Lovin' IT",
+      "url": "https://open.spotify.com/track/4X8aAsQvxASw4qky3hfFRg"
+    },
+    {
+      "album": {
+        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116693,
+      "name": "Luc\u00eda",
+      "url": "https://open.spotify.com/track/1Bq0ca1doheGTHw83KBwPW"
+    },
+    {
+      "album": {
+        "name": "Il Postino (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VpX1xTvwjvN7jpApnSALH"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140693,
+      "name": "Madreselva",
+      "url": "https://open.spotify.com/track/4cRyHa7xgnS8SDHFCG2Rxs"
+    },
+    {
+      "album": {
+        "name": "Il Postino",
+        "url": "https://open.spotify.com/album/1D2qHrYOMQUfChDujPByh0"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140693,
+      "name": "Madreselva - Instrumental version",
+      "url": "https://open.spotify.com/track/4gIn078UAr5uSha7gZmZmU"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/22A1qdhN1QsqpjYYRxSZEJ"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hanlon",
+          "url": "https://open.spotify.com/artist/2tYwhzzfvvDr29BbBFcHhB"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 311000,
+      "name": "Manh\u00e3 de Carnaval",
+      "url": "https://open.spotify.com/track/4lxOxd28qMjBDD7yY1flvm"
+    },
+    {
+      "album": {
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/1AcTU5sHA7qYuH6cWaxRyq"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120129,
+      "name": "Marea Baja",
+      "url": "https://open.spotify.com/track/0cmNd3qjbDcOpY0ePI7UB4"
+    },
+    {
+      "album": {
+        "name": "Los R\u00edos de Alice (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/6C7Q2J5RKfLqcxmzzILwoN"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 120129,
+      "name": "Marea Baja",
+      "url": "https://open.spotify.com/track/2Ub9vJwzAd4bVMeVCWF9Rh"
+    },
+    {
+      "album": {
+        "name": "Lauro: Guitar Music, Vol. 1 - Venezuelan Waltzes",
+        "url": "https://open.spotify.com/album/1U7J8B2DkCOYqYQSrBw4VE"
+      },
+      "artists": [
+        {
+          "name": "Antonio Lauro",
+          "url": "https://open.spotify.com/artist/0V0JCoSmbDzy5hwLsGYoQ7"
+        },
+        {
+          "name": "Adam Holzman",
+          "url": "https://open.spotify.com/artist/1Q4wpwTWP02Nxfa4oTJDlO"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185666,
+      "name": "Maria Carolina",
+      "url": "https://open.spotify.com/track/2GjLFzB8GQBjk8uBVkgGAD"
+    },
+    {
+      "album": {
+        "name": "Up \u2022 Ratatouille \u2022 The Incredibles - Music from the Walt Disney/Pixar Films for Solo Piano by Michael Giacchino",
+        "url": "https://open.spotify.com/album/2hHgm01YtJ5OaMQ4x9hCeQ"
+      },
+      "artists": [
+        {
+          "name": "Mark Northam",
+          "url": "https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275335,
+      "name": "Married Life",
+      "url": "https://open.spotify.com/track/2etvG88hi5pgMyjcFMjOaY"
+    },
+    {
+      "album": {
+        "name": "Up: Music From The Pixar Films For Solo Piano",
+        "url": "https://open.spotify.com/album/2VILAmwCpOQhPe4I6lCPlE"
+      },
+      "artists": [
+        {
+          "name": "Mark Northam",
+          "url": "https://open.spotify.com/artist/4weansSvkFXZmnwOKGHMSg"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275335,
+      "name": "Married Life (From \"Up\")",
+      "url": "https://open.spotify.com/track/7KnFT8NQPRYtWOZXhWcGGZ"
+    },
+    {
+      "album": {
+        "name": "Luc\u00eda y el Sexo (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/4VOap8s0JDD7sFkQUOiYYv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159453,
+      "name": "Me Voy a Morir de Tanto Amor",
+      "url": "https://open.spotify.com/track/4gyM4s4ExrQReXT3M7A4mm"
+    },
+    {
+      "album": {
+        "name": "Glass Piano",
+        "url": "https://open.spotify.com/album/7lCXCQKYVxVwGDePzmEQRj"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Bruce Brubaker",
+          "url": "https://open.spotify.com/artist/400JXdqRhBKf0A6qNoLCSJ"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387490,
+      "name": "Metamorphosis 1",
+      "url": "https://open.spotify.com/track/55v3givMbmHrQvCXF0mJRl"
+    },
+    {
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98040,
+      "name": "Mia & Sebastian\u2019s Theme",
+      "url": "https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv"
+    },
+    {
+      "album": {
+        "name": "De Cerca",
+        "url": "https://open.spotify.com/album/2AaigSjWA8IIk1Gp9Ir0fi"
+      },
+      "artists": [
+        {
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        },
+        {
+          "name": "Javier Colina",
+          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
+        },
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 403000,
+      "name": "Morente Habichuela - Alegrias",
+      "url": "https://open.spotify.com/track/1gugdb6z5gqgFrJF7BCLnB"
+    },
+    {
+      "album": {
+        "name": "De Cerca",
+        "url": "https://open.spotify.com/album/2pdYwg9y5DyRnhwQynk59A"
+      },
+      "artists": [
+        {
+          "name": "Josemi Carmona",
+          "url": "https://open.spotify.com/artist/5sqVBfJ96nXdHOG7jiWvKh"
+        },
+        {
+          "name": "Javier Colina",
+          "url": "https://open.spotify.com/artist/4p0llEkYMGmmC4iKQecJmW"
+        },
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/6niTO70iITOLZSrBscslVN"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403000,
+      "name": "Morente Habichuela - Alegr\u00edas",
+      "url": "https://open.spotify.com/track/21kpXwKXpa2FRP5L5h7WFs"
+    },
+    {
+      "album": {
+        "name": "Arbitrage (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tZ4QseytRXPDK4Q9RJWKY"
+      },
+      "artists": [
+        {
+          "name": "Robi Botos",
+          "url": "https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310306,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0gKeuMAHGVGwChhXGjgQbk"
+    },
+    {
+      "album": {
+        "name": "Arbitrage (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1CkUBQM8M1ZmNAhoTsOwoq"
+      },
+      "artists": [
+        {
+          "name": "Robi Botos",
+          "url": "https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 310306,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/1IsX5dF4FbsqS2LAK7d0Ug"
+    },
+    {
+      "album": {
+        "name": "Arbitrage",
+        "url": "https://open.spotify.com/album/0yJYeEClw7pElTuqSN0ZqV"
+      },
+      "artists": [
+        {
+          "name": "Robi Botos",
+          "url": "https://open.spotify.com/artist/5jU6gDs60eyTyeB2nFxyuY"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310320,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/13D0uDQBuE45fMoPhHGJ1o"
+    },
+    {
+      "album": {
+        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
+        "url": "https://open.spotify.com/album/3yaI16gHYK3yMlCdeIqeXR"
+      },
+      "artists": [
+        {
+          "name": "Accordz\u00eaam",
+          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340506,
+      "name": "Natzurka",
+      "url": "https://open.spotify.com/track/01KKzUvn5d4MHoMcIqnJEy"
+    },
+    {
+      "album": {
+        "name": "Tapas: Le balbum (L'honneur de ceux qui le font, le bonheur de ceux qui l'ont - Musique du monde et d'ailleurs)",
+        "url": "https://open.spotify.com/album/3Yty5AK5k4FUuS9MYNXQmd"
+      },
+      "artists": [
+        {
+          "name": "Accordz\u00eaam",
+          "url": "https://open.spotify.com/artist/0YipPOM5AooNU5bq9F1v0h"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340506,
+      "name": "Natzurka",
+      "url": "https://open.spotify.com/track/1pWRYRMf2eg45qR7QGj1q0"
+    },
+    {
+      "album": {
+        "name": "Tabarly / B.O.F De Yann Tiersen",
+        "url": "https://open.spotify.com/album/77DRf1X1rVBDhXVaIogs2X"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218106,
+      "name": "Naval",
+      "url": "https://open.spotify.com/track/69UGm9BuoiJBEaNzNMZBUb"
+    },
+    {
+      "album": {
+        "name": "Tabarly (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lhd6tN5IW7Ou3ZtX1MGFF"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Naval",
+      "url": "https://open.spotify.com/track/7ujnUuc5TWgPLL1RK2IUz2"
+    },
+    {
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/1mjBQaG4alKuMx2I3wU9xH"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 448493,
+      "name": "On the Wire",
+      "url": "https://open.spotify.com/track/2NxAxyGVNihTzJ4exCrfh4"
+    },
+    {
+      "album": {
+        "name": "The Lighthouse - Everything's Calm",
+        "url": "https://open.spotify.com/album/6mkLpQbCgXvhpcXZGE5DJn"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448493,
+      "name": "On the Wire",
+      "url": "https://open.spotify.com/track/7yfyPp0Fv5quOrbg4CqLRb"
+    },
+    {
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/1cYIgSWWkA7N5Wo0Sg5TTZ"
+      },
+      "artists": [
+        {
+          "name": "Emile Pandolfi",
+          "url": "https://open.spotify.com/artist/5BcEbeQq5n2fz8HbhI9CWU"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Once Upon a December (from Anastasia)",
+      "url": "https://open.spotify.com/track/2PCTrOWob0vs0io6pfGOYS"
+    },
+    {
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257279,
+      "name": "Planetarium",
+      "url": "https://open.spotify.com/track/70RecAVg5QudOXfJs64sM5"
+    },
+    {
+      "album": {
+        "name": "Villa-Lobos: The Complete Solo Guitar Music",
+        "url": "https://open.spotify.com/album/1ULTJVkLSizWYzz9PqKFFa"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Fabio Zanon",
+          "url": "https://open.spotify.com/artist/7CxgDz8p96NJV3OVwDfwJ9"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278693,
+      "name": "Preludes, W419: No. 1 in E Minor",
+      "url": "https://open.spotify.com/track/0hyB8nQAuNkjO4djeVbkA8"
+    },
+    {
+      "album": {
+        "name": "Refuges",
+        "url": "https://open.spotify.com/album/4B0UEYxDC8kmr7Ej6Ge5rR"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Aubry",
+          "url": "https://open.spotify.com/artist/1dyZDfHcTtUJjx0DFBcOvc"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Rasta La Vista",
+      "url": "https://open.spotify.com/track/4pVE63OGS5BkXl04trGVug"
+    },
+    {
+      "album": {
+        "name": "Of Mind And Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3PPNVh577qp8ZEh5fYktoW"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jos\u00e9 Alvarez",
+          "url": "https://open.spotify.com/artist/0lfLTyjFKw6eqPPuifNcrA"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160133,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/3V3moW5CWNCIpAbWHkioRZ"
+    },
+    {
+      "album": {
+        "name": "Of Mind And Music (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16VYDRe5E7hsY4pc90DOC2"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jos\u00e9 Alvarez",
+          "url": "https://open.spotify.com/artist/0lfLTyjFKw6eqPPuifNcrA"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/7A6xs53bFNPhbc6OthfczP"
+    },
+    {
+      "album": {
+        "name": "Flamencos Espa\u00f1oles",
+        "url": "https://open.spotify.com/album/2CKIlrVVRSIAzwovbyYLN0"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234026,
+      "name": "Reflejo De Luna",
+      "url": "https://open.spotify.com/track/1bPqsFaZx6jTlN2CfE1SXM"
+    },
+    {
+      "album": {
+        "name": "Integral",
+        "url": "https://open.spotify.com/album/0LuEOgpfOw7alMC8fXCF3E"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234026,
+      "name": "Reflejo De Luna",
+      "url": "https://open.spotify.com/track/4CmUtaftig3n76lkSCzXjf"
+    },
+    {
+      "album": {
+        "name": "Fuente Y Caudal",
+        "url": "https://open.spotify.com/album/0pHfPUHHm4Ddy2ny04Xn0C"
+      },
+      "artists": [
+        {
+          "name": "Paco de Luc\u00eda",
+          "url": "https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234026,
+      "name": "Reflejo De Luna - Instrumental",
+      "url": "https://open.spotify.com/track/4fuPIdKFxyt5w2KYbmpvWC"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84146,
+      "name": "Riding Horses",
+      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 78813,
+      "name": "Snow",
+      "url": "https://open.spotify.com/track/2A19JbqthRuELixxSCzRg9"
+    },
+    {
+      "album": {
+        "name": "A Time for Us (Silence, on joue!)",
+        "url": "https://open.spotify.com/album/5xVJfEh063VItO9sNxWv8Y"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        },
+        {
+          "name": "Ang\u00e8le Dubeau",
+          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Piet\u00e0",
+          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119085,
+      "name": "Soy Marco (From \"Talk to Her (Hable Con Ella)\")",
+      "url": "https://open.spotify.com/track/11pgYPpViYqlp9vxLqaaHr"
+    },
+    {
+      "album": {
+        "name": "111 Classical Guitar Masterpieces",
+        "url": "https://open.spotify.com/album/0f69sC4ljD29I9BT4X0riH"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "Irina Kircher",
+          "url": "https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 291053,
+      "name": "Suite Espa\u00f1ola No. 1, Op. 47: I. Granada (arr. for Guitar)",
+      "url": "https://open.spotify.com/track/24K6UG9UgYjgGwLkF1DDJO"
+    },
+    {
+      "album": {
+        "name": "Albeniz: Granada; Asturias; Mallorca; Cordoba; Torre Bermeja; Cadiz; Zambra; Tango - Sony Classical Masters",
+        "url": "https://open.spotify.com/album/5lY62FNmxjms4v3OMTGFWl"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372733,
+      "name": "Suite Espa\u00f1ola No. 1, Op. 47: No. 5, Asturias (Leyenda) [Arranged by John Williams for Guitar]",
+      "url": "https://open.spotify.com/track/2u6GTNZF07O4mmFg8CZozY"
+    },
+    {
+      "album": {
+        "name": "Summer Classics: Spanish Nights",
+        "url": "https://open.spotify.com/album/4fHSfiyMWFy6CfYcBjYYeG"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "Irina Kircher",
+          "url": "https://open.spotify.com/artist/1LZITf1RftxFbYALmSwsjK"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291066,
+      "name": "Suite Espa\u00f1ola, Op. 47: I. Granada - arr. for Guitar",
+      "url": "https://open.spotify.com/track/2V0TK5l3PBqgtJNyKJjwnE"
+    },
+    {
+      "album": {
+        "name": "Cascade Street",
+        "url": "https://open.spotify.com/album/3BHCDMeKEafTuyRoKb7NeQ"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133666,
+      "name": "Summer Nursery Rhyme, No. 2",
+      "url": "https://open.spotify.com/track/6POheCDFPmnlAvO0ZWhOJN"
+    },
+    {
+      "album": {
+        "name": "Cascade Street",
+        "url": "https://open.spotify.com/album/7ELV10HZC94beTCa9B7n6y"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133666,
+      "name": "Summer Nursery Rhyme, No. 2",
+      "url": "https://open.spotify.com/track/6XHSHfCA5ddufMu34bDG4n"
+    },
+    {
+      "album": {
+        "name": "Volver (Banda Sonora Original)",
+        "url": "https://open.spotify.com/album/1sOwreBJafc3ZRLKrmJEnz"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 257493,
+      "name": "Tema llor\u00f3n",
+      "url": "https://open.spotify.com/track/7DS6x1F9gPR7m30s6kygfG"
+    },
+    {
+      "album": {
+        "name": "Volver: M\u00fasica De La Pel\u00edcula De Pedro Almodovar",
+        "url": "https://open.spotify.com/album/0jVz9VNj1IkCYGtHFd7S21"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257613,
+      "name": "Tema Llor\u00f3n",
+      "url": "https://open.spotify.com/track/6osLoxQ19YzcocFqDyEmzU"
+    },
+    {
+      "album": {
+        "name": "Las Dos Caras de Enero (Banda Sonora Originale)",
+        "url": "https://open.spotify.com/album/5IKPT89i1wCHfaOTHfyLTP"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126546,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/0MJ9IJEJ0zA55plpT9Xmzk"
+    },
+    {
+      "album": {
+        "name": "The Two Faces of January (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15Cvr11YPSZIWRLhi6ie9s"
+      },
+      "artists": [
+        {
+          "name": "Alberto Iglesias",
+          "url": "https://open.spotify.com/artist/1HRRbATgv6NPHs7Twm74p2"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126546,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/4xiJjmbDFlET0zUwrl2BOy"
+    },
+    {
+      "album": {
+        "name": "Brendan Et Le Secret De Kells",
+        "url": "https://open.spotify.com/album/1SbPjFuWuxQaDb9oV5ijVF"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295025,
+      "name": "The Book of Kells",
+      "url": "https://open.spotify.com/track/1DKdzvYRQiD6ppmFbEOWBI"
+    },
+    {
+      "album": {
+        "name": "Brendan et le secret de Kells",
+        "url": "https://open.spotify.com/album/2KXh9luUpayBMucDcdIrWl"
+      },
+      "artists": [
+        {
+          "name": "Bruno Coulais",
+          "url": "https://open.spotify.com/artist/5kjb55jtwPnbYXXDvP4x7R"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295025,
+      "name": "The Book of Kells",
+      "url": "https://open.spotify.com/track/1SrIqVTPCu442WhQA6A9tU"
+    },
+    {
+      "album": {
+        "name": "The Hours (Music from the Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4F0LJueCDliCH7Bg4PPVil"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "The Poet Acts",
+      "url": "https://open.spotify.com/track/0XiMoe7Dh3CcF5sYNWIwYR"
+    },
+    {
+      "album": {
+        "name": "The Piano: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112546,
+      "name": "The Wings",
+      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
+    },
+    {
+      "album": {
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1)",
+        "url": "https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197986,
+      "name": "Vals Po\u00e9tico (feat. Los Macorinos) - Instrumental",
+      "url": "https://open.spotify.com/track/1nFFFMgrtKN4Tq8WL28qlm"
+    },
+    {
+      "album": {
+        "name": "Yu Yi",
+        "url": "https://open.spotify.com/album/0CYQ8uAttBcTTf3EzEuan6"
+      },
+      "artists": [
+        {
+          "name": "Andre Corea",
+          "url": "https://open.spotify.com/artist/0hjU6uDGJnktoVDL8RUPWe"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281850,
+      "name": "Yu Yi",
+      "url": "https://open.spotify.com/track/29qHzM3DxQloBfrM5PIaOH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVLoqOzktoRS"
 }

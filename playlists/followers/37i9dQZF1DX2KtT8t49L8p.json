@@ -1,291 +1,1491 @@
 {
-  "2023-03-18": 30,
-  "2023-03-19": 93,
-  "2023-03-20": 174,
-  "2023-03-21": 268,
-  "2023-03-22": 377,
-  "2023-03-23": 448,
-  "2023-03-24": 448,
-  "2023-03-25": 627,
-  "2023-03-26": 719,
-  "2023-03-27": 827,
-  "2023-03-28": 930,
-  "2023-03-29": 1065,
-  "2023-03-30": 1407,
-  "2023-03-31": 1407,
-  "2023-04-01": 1514,
-  "2023-04-02": 1621,
-  "2023-04-03": 1780,
-  "2023-04-04": 1949,
-  "2023-04-05": 2058,
-  "2023-04-06": 2190,
-  "2023-04-07": 2315,
-  "2023-04-09": 2510,
-  "2023-04-10": 2631,
-  "2023-04-11": 2884,
-  "2023-04-12": 2884,
-  "2023-04-13": 3003,
-  "2023-04-14": 3129,
-  "2023-04-15": 3221,
-  "2023-04-16": 3295,
-  "2023-04-17": 3383,
-  "2023-04-18": 3498,
-  "2023-04-19": 3604,
-  "2023-04-20": 3720,
-  "2023-04-21": 3851,
-  "2023-04-22": 3966,
-  "2023-04-23": 4060,
-  "2023-04-24": 4156,
-  "2023-04-25": 4262,
-  "2023-04-26": 4388,
-  "2023-04-27": 4520,
-  "2023-04-28": 4601,
-  "2023-04-29": 4693,
-  "2023-04-30": 4793,
-  "2023-05-01": 4899,
-  "2023-05-02": 4998,
-  "2023-05-03": 5094,
-  "2023-05-04": 5190,
-  "2023-05-05": 5271,
-  "2023-05-06": 5380,
-  "2023-05-07": 5479,
-  "2023-05-08": 5558,
-  "2023-05-09": 5650,
-  "2023-05-10": 5743,
-  "2023-05-11": 5828,
-  "2023-05-12": 5917,
-  "2023-05-13": 5993,
-  "2023-05-14": 6081,
-  "2023-05-15": 6157,
-  "2023-05-16": 6247,
-  "2023-05-17": 6358,
-  "2023-05-18": 6464,
-  "2023-05-19": 6578,
-  "2023-05-20": 6766,
-  "2023-05-21": 6766,
-  "2023-05-22": 6766,
-  "2023-05-23": 6929,
-  "2023-05-24": 7041,
-  "2023-05-25": 7063,
-  "2023-05-26": 7125,
-  "2023-05-27": 7193,
-  "2023-05-28": 7245,
-  "2023-05-29": 7245,
-  "2023-05-30": 7406,
-  "2023-05-31": 7467,
-  "2023-06-01": 7550,
-  "2023-06-02": 7626,
-  "2023-06-03": 7682,
-  "2023-06-04": 7754,
-  "2023-06-05": 7832,
-  "2023-06-06": 7922,
-  "2023-06-07": 7993,
-  "2023-06-08": 8062,
-  "2023-06-09": 8149,
-  "2023-06-10": 8201,
-  "2023-06-11": 8266,
-  "2023-06-12": 8349,
-  "2023-06-13": 8411,
-  "2023-06-14": 8468,
-  "2023-06-15": 8527,
-  "2023-06-16": 8599,
-  "2023-06-17": 8656,
-  "2023-06-18": 8708,
-  "2023-06-19": 8776,
-  "2023-06-20": 8862,
-  "2023-06-21": 8926,
-  "2023-06-22": 8986,
-  "2023-06-23": 9067,
-  "2023-06-24": 9130,
-  "2023-06-25": 9189,
-  "2023-06-26": 9255,
-  "2023-06-27": 9329,
-  "2023-06-28": 9387,
-  "2023-06-29": 9438,
-  "2023-06-30": 9506,
-  "2023-07-01": 9647,
-  "2023-07-02": 9647,
-  "2023-07-03": 9729,
-  "2023-07-04": 9810,
-  "2023-07-05": 9884,
-  "2023-07-06": 10030,
-  "2023-07-07": 10030,
-  "2023-07-08": 10095,
-  "2023-07-09": 10165,
-  "2023-07-10": 10251,
-  "2023-07-11": 10304,
-  "2023-07-12": 10388,
-  "2023-07-13": 10462,
-  "2023-07-14": 10532,
-  "2023-07-15": 10579,
-  "2023-07-16": 10669,
-  "2023-07-17": 10751,
-  "2023-07-18": 10826,
-  "2023-07-19": 10900,
-  "2023-07-20": 10975,
-  "2023-07-21": 11049,
-  "2023-07-22": 11128,
-  "2023-07-23": 11212,
-  "2023-07-24": 11291,
-  "2023-07-25": 11384,
-  "2023-07-26": 11472,
-  "2023-07-27": 11556,
-  "2023-07-28": 11642,
-  "2023-07-29": 11718,
-  "2023-07-30": 11806,
-  "2023-07-31": 11883,
-  "2023-08-01": 11964,
-  "2023-08-02": 12034,
-  "2023-08-03": 12106,
-  "2023-08-04": 12186,
-  "2023-08-05": 12258,
-  "2023-08-06": 12359,
-  "2023-08-07": 12359,
-  "2023-08-08": 12444,
-  "2023-08-09": 12504,
-  "2023-08-10": 12571,
-  "2023-08-11": 12640,
-  "2023-08-12": 12691,
-  "2023-08-13": 12770,
-  "2023-08-14": 12850,
-  "2023-08-15": 12974,
-  "2023-08-16": 12974,
-  "2023-08-17": 13034,
-  "2023-08-18": 13096,
-  "2023-08-19": 13154,
-  "2023-08-20": 13212,
-  "2023-08-21": 13288,
-  "2023-08-22": 13354,
-  "2023-08-23": 13426,
-  "2023-08-24": 13485,
-  "2023-08-25": 13560,
-  "2023-08-26": 13625,
-  "2023-08-27": 13699,
-  "2023-08-28": 13773,
-  "2023-08-29": 13847,
-  "2023-08-30": 13938,
-  "2023-08-31": 14023,
-  "2023-09-01": 14111,
-  "2023-09-02": 14111,
-  "2023-09-03": 14153,
-  "2023-09-04": 14192,
-  "2023-09-05": 14247,
-  "2023-09-06": 14312,
-  "2023-09-07": 14369,
-  "2023-09-08": 14418,
-  "2023-09-09": 14486,
-  "2023-09-10": 14524,
-  "2023-09-11": 14592,
-  "2023-09-12": 14648,
-  "2023-09-13": 14705,
-  "2023-09-14": 14757,
-  "2023-09-15": 14825,
-  "2023-09-16": 14872,
-  "2023-09-17": 14919,
-  "2023-09-18": 14980,
-  "2023-09-19": 15035,
-  "2023-09-20": 15083,
-  "2023-09-21": 15133,
-  "2023-09-22": 15203,
-  "2023-09-23": 15253,
-  "2023-09-24": 15298,
-  "2023-09-25": 15348,
-  "2023-09-26": 15425,
-  "2023-09-27": 15472,
-  "2023-09-28": 15535,
-  "2023-09-29": 15588,
-  "2023-09-30": 15636,
-  "2023-10-01": 15678,
-  "2023-10-02": 15725,
-  "2023-10-03": 15776,
-  "2023-10-04": 15833,
-  "2023-10-05": 15887,
-  "2023-10-06": 15962,
-  "2023-10-07": 16034,
-  "2023-10-08": 16108,
-  "2023-10-09": 16163,
-  "2023-10-10": 16233,
-  "2023-10-11": 16341,
-  "2023-10-12": 16341,
-  "2023-10-13": 16392,
-  "2023-10-14": 16452,
-  "2023-10-15": 16510,
-  "2023-10-16": 16584,
-  "2023-10-17": 16687,
-  "2023-10-18": 16796,
-  "2023-10-19": 16876,
-  "2023-10-20": 16954,
-  "2023-10-21": 17041,
-  "2023-10-22": 17128,
-  "2023-10-23": 17201,
-  "2023-10-24": 17283,
-  "2023-10-25": 17356,
-  "2023-10-26": 17441,
-  "2023-10-27": 17535,
-  "2023-10-28": 17606,
-  "2023-10-29": 17669,
-  "2023-10-30": 17802,
-  "2023-10-31": 17802,
-  "2023-11-01": 17858,
-  "2023-11-02": 17930,
-  "2023-11-03": 18001,
-  "2023-11-04": 18065,
-  "2023-11-05": 18116,
-  "2023-11-06": 18187,
-  "2023-11-07": 18272,
-  "2023-11-08": 18342,
-  "2023-11-09": 18423,
-  "2023-11-10": 18489,
-  "2023-11-11": 18547,
-  "2023-11-12": 18603,
-  "2023-11-13": 18663,
-  "2023-11-14": 18735,
-  "2023-11-15": 18735,
-  "2023-11-16": 18858,
-  "2023-11-17": 3800,
-  "2023-11-18": 3800,
-  "2023-11-19": 3800,
-  "2023-11-20": 3800,
-  "2023-11-21": 3800,
-  "2023-11-22": 3800,
-  "2023-11-23": 3800,
-  "2023-11-24": 3800,
-  "2023-11-25": 3800,
-  "2023-11-26": 3800,
-  "2023-11-27": 3800,
-  "2023-11-28": 3800,
-  "2023-11-29": 3800,
-  "2023-11-30": 3800,
-  "2023-12-01": 3800,
-  "2023-12-02": 3800,
-  "2023-12-03": 3800,
-  "2023-12-04": 3800,
-  "2023-12-05": 3800,
-  "2023-12-06": 3800,
-  "2023-12-07": 3800,
-  "2023-12-08": 3800,
-  "2023-12-09": 3800,
-  "2023-12-10": 3800,
-  "2023-12-11": 3800,
-  "2023-12-12": 3800,
-  "2023-12-13": 3800,
-  "2023-12-14": 3800,
-  "2023-12-15": 3800,
-  "2023-12-16": 3800,
-  "2023-12-17": 3800,
-  "2023-12-18": 3800,
-  "2023-12-19": 3800,
-  "2023-12-20": 3800,
-  "2023-12-21": 3800,
-  "2023-12-22": 3800,
-  "2023-12-23": 3800,
-  "2023-12-24": 3800,
-  "2023-12-25": 3800,
-  "2023-12-26": 3800,
-  "2023-12-27": 3800,
-  "2023-12-30": 3800,
-  "2023-12-31": 3800,
-  "2024-01-01": 3800,
-  "2024-01-02": 3800,
-  "2024-01-03": 3800
+  "2024-01-17": 3800,
+  "date_first_scraped": "2023-03-18",
+  "description": "Awaken and connect through meditation with Theta frequencies. ",
+  "name": "Binaural Beats: Mindfulness",
+  "tracks": [
+    {
+      "album": {
+        "name": "4-8 Hz Theta Drones",
+        "url": "https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx"
+      },
+      "artists": [
+        {
+          "name": "Theta Max",
+          "url": "https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "4 Hz Theta Drone",
+      "url": "https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Meditation (Theta Waves)",
+        "url": "https://open.spotify.com/album/0refpAE5wKgOzXc5mw5jKJ"
+      },
+      "artists": [
+        {
+          "name": "Miracle Tones",
+          "url": "https://open.spotify.com/artist/4rXABp4A7KjG9elWFNAbO4"
+        },
+        {
+          "name": "Binaural Beats MT",
+          "url": "https://open.spotify.com/artist/6JQBjYzGitZexdaxngUCH7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134437,
+      "name": "4 Hz Theta Waves - Binaural Beats",
+      "url": "https://open.spotify.com/track/77BrQJ6R1OOjRRqzDSPXSj"
+    },
+    {
+      "album": {
+        "name": "Local Abroad",
+        "url": "https://open.spotify.com/album/2WvTyKXCoe5pc7diLHhzLf"
+      },
+      "artists": [
+        {
+          "name": "Local Abroad",
+          "url": "https://open.spotify.com/artist/6fzGY6vXqUv1OJxFTVlMfu"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "4HZ Theta - 67HZ - 71HZ - Binaural Sines",
+      "url": "https://open.spotify.com/track/4ofyRopQZ9aymwSSQpGi6q"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Theta Waves for Mental Clarity (4-8 Hz)",
+        "url": "https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 96000,
+      "name": "5 Hz Theta Waves - Let Go",
+      "url": "https://open.spotify.com/track/51XYOF4BFV8nbhSl9rKOIU"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Theta Waves for Mental Clarity (4-8 Hz)",
+        "url": "https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 93134,
+      "name": "5.5 Hz Theta Waves - Reduce Hyperactivity",
+      "url": "https://open.spotify.com/track/4otRnCtr0e3jkRIALpUEh5"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Theta Waves for Mental Clarity (4-8 Hz)",
+        "url": "https://open.spotify.com/album/6FLVbqTVIlJYEVcpe3EYrz"
+      },
+      "artists": [
+        {
+          "name": "Spiritual Frequencies",
+          "url": "https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 96716,
+      "name": "5.5 Hz Theta Waves - Stress Relief Meditation",
+      "url": "https://open.spotify.com/track/1UqMcLFcQibp9WcdpBkc61"
+    },
+    {
+      "album": {
+        "name": "Air Waves 5-10hz",
+        "url": "https://open.spotify.com/album/6gIiXBzCo5jD9B1D5QhS87"
+      },
+      "artists": [
+        {
+          "name": "Afar Lux",
+          "url": "https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158624,
+      "name": "Air Theta 5hz",
+      "url": "https://open.spotify.com/track/1HLhFUBUe3EVWindRioCB5"
+    },
+    {
+      "album": {
+        "name": "Awakening Theta Waves 92-96 Hz",
+        "url": "https://open.spotify.com/album/7EcqI0YrJmJZBGFwWhOat8"
+      },
+      "artists": [
+        {
+          "name": "Thomas Pineda",
+          "url": "https://open.spotify.com/artist/7neSzatwxDSpZoOgYhluQa"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Awakening Theta Waves 92-96 Hz",
+      "url": "https://open.spotify.com/track/0Wx5TVRipQ8nLNNq9dha9y"
+    },
+    {
+      "album": {
+        "name": "Healing Sines Binaural 2",
+        "url": "https://open.spotify.com/album/4eCytLY2LUz4QdXeOCf3xd"
+      },
+      "artists": [
+        {
+          "name": "Healing Sines Binaural",
+          "url": "https://open.spotify.com/artist/229WxeHEbUDbjdneDnA9ms"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Binaural 5HZ Theta - 65HZ - 70HZ",
+      "url": "https://open.spotify.com/track/1ceFbynOnDRdIkWnwDpQS9"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Brainwave Therapy: Binaural Beats, Theta Waves, Alpha Waves, Isochronic Tones and Ambient Music For Deep Sleep, Relaxation, Brainwave Entrainment and Sleeping Music, Vol. 2",
+        "url": "https://open.spotify.com/album/3u5zY5MkY6ykRjmQEXLlk8"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        },
+        {
+          "name": "Alpha Brain Waves",
+          "url": "https://open.spotify.com/artist/2DvbYXMiUAQuupPEQnIt1I"
+        },
+        {
+          "name": "Brain Waves Therapy",
+          "url": "https://open.spotify.com/artist/34RGl0uVjzk6plsyUDTssq"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Binaural Beats and Theta Waves",
+      "url": "https://open.spotify.com/track/1m3EOyPM2TzZJHrWrkzijd"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Sleep Music: Soothing Binaural Beats, White Noise, Isochronic Tones, Delta Waves, Theta Waves For Deep Sleep Aid, Brainwave Entrainment and The Best Sleeping Music",
+        "url": "https://open.spotify.com/album/3jd25B1XOG8VHli50qQm9f"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Deep Sleep",
+          "url": "https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi"
+        },
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        },
+        {
+          "name": "Binaural Beats Sleep Aid",
+          "url": "https://open.spotify.com/artist/5phVBQw2c2WXe5V9qUReNL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 107759,
+      "name": "Binaural Beats and Theta Waves",
+      "url": "https://open.spotify.com/track/119bW5LrNRgAzWlJo50pu1"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Deep Sleep: Ambient Music, Isochronic Tones, Alpha Waves, Theta Waves and Relaxing Music For Sleeping, Sleep Music and Brainwave Entrainment",
+        "url": "https://open.spotify.com/album/6Ss53oZMeKiWHOnj3yObSI"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        },
+        {
+          "name": "Binaural Beats Library",
+          "url": "https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB"
+        },
+        {
+          "name": "Binaural Beats Deep Sleep",
+          "url": "https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Binaural Beats and Theta Waves",
+      "url": "https://open.spotify.com/track/0sP4KKzIcBHW7RVHHTqmQk"
+    },
+    {
+      "album": {
+        "name": "Assembly of Sines",
+        "url": "https://open.spotify.com/album/4BrlUJIq4Bb0ZoOQcvpIcy"
+      },
+      "artists": [
+        {
+          "name": "Assembly of Sines",
+          "url": "https://open.spotify.com/artist/16iSnfmdXqHdufWNzURPFt"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Binaural Sines 5hz Theta 112hz -108hz",
+      "url": "https://open.spotify.com/track/7oQnIeX2ExRICtI2GPSXNQ"
+    },
+    {
+      "album": {
+        "name": "Dark Mystique",
+        "url": "https://open.spotify.com/album/4CmjE64z0QhjXWXz9IlJmt"
+      },
+      "artists": [
+        {
+          "name": "Status Calma",
+          "url": "https://open.spotify.com/artist/4MVoXcZwZAjwrFP5G3ogRI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171571,
+      "name": "Binaural Sleep 92 Hz - 93 Hz Theta Wave",
+      "url": "https://open.spotify.com/track/6xSgQntO7qjJrHHn45WLLV"
+    },
+    {
+      "album": {
+        "name": "Theta Mediation Drones",
+        "url": "https://open.spotify.com/album/59rbsAsfZnDTZNl1mHL1WK"
+      },
+      "artists": [
+        {
+          "name": "Ivo Phi",
+          "url": "https://open.spotify.com/artist/7vvyFnhnPCb0gn7QwDwP0C"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Binaural Theta Sinus - 100 Hz - L 104 Hz - R",
+      "url": "https://open.spotify.com/track/6gviYIh8Y5nCzyPKfhigcR"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 300 Hz - L 303 Hz - R",
+        "url": "https://open.spotify.com/album/3EJ0bG54rmUZGuSea8TbIA"
+      },
+      "artists": [
+        {
+          "name": "Flannigan Hymes",
+          "url": "https://open.spotify.com/artist/2LGsIbCyW8WQecWoxgtsMr"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152322,
+      "name": "Binaural Theta Sinus 100 Hz - L 104 Hz - R",
+      "url": "https://open.spotify.com/track/6Pd8xCfxVXrD1sLW7Vorj8"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 100 Hz - L 106 Hz - R",
+        "url": "https://open.spotify.com/album/3EGpIZLTLZuFdrsPi9vSnK"
+      },
+      "artists": [
+        {
+          "name": "Dorthe Gretchen",
+          "url": "https://open.spotify.com/artist/4SEREG9de5QCdwWGK0wYvp"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144149,
+      "name": "Binaural Theta Sinus 100 Hz - L 106 Hz - R",
+      "url": "https://open.spotify.com/track/3wkWpKHoPDmF0TfZlage3z"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 107.5Hz - 112.5Hz",
+        "url": "https://open.spotify.com/album/6VTsDDo2kQHZ63jF62zTGn"
+      },
+      "artists": [
+        {
+          "name": "Altered Source",
+          "url": "https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Binaural Theta Sinus 107.5Hz - 112.5Hz",
+      "url": "https://open.spotify.com/track/2QQROBeI1ZU2UpZvRy02NQ"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 100 Hz - L 106 Hz - R",
+        "url": "https://open.spotify.com/album/3EGpIZLTLZuFdrsPi9vSnK"
+      },
+      "artists": [
+        {
+          "name": "Dorthe Gretchen",
+          "url": "https://open.spotify.com/artist/4SEREG9de5QCdwWGK0wYvp"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137462,
+      "name": "Binaural Theta Sinus 130 Hz - L 137 Hz - R",
+      "url": "https://open.spotify.com/track/1jPN5Xa821C5NdYKw6WDe5"
+    },
+    {
+      "album": {
+        "name": "The Art Of Meditation and Creativity",
+        "url": "https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX"
+      },
+      "artists": [
+        {
+          "name": "Sonic Whales",
+          "url": "https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155629,
+      "name": "Binaural Theta Sinus 131Hz - 137Hz",
+      "url": "https://open.spotify.com/track/4GeVv05S6CEI3MF67uR5Sv"
+    },
+    {
+      "album": {
+        "name": "The Art Of Meditation and Creativity",
+        "url": "https://open.spotify.com/album/05OdJyl7TctTFyUlHgg8EX"
+      },
+      "artists": [
+        {
+          "name": "Sonic Whales",
+          "url": "https://open.spotify.com/artist/64wCZb1sv0BBcay25AYmBH"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211607,
+      "name": "Binaural Theta Sinus 220Hz - 226Hz",
+      "url": "https://open.spotify.com/track/7MIq7As5oZfNjXhVzJugYN"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 250-254 Hz - Meditation",
+        "url": "https://open.spotify.com/album/2HPaar7Vy3qZWdrhdcwC1P"
+      },
+      "artists": [
+        {
+          "name": "Higher Highs",
+          "url": "https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Binaural Theta Sinus 250-254 Hz - Meditation",
+      "url": "https://open.spotify.com/track/0JhhVmnkDq51PNqZ1KkvUe"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 95 Hz - 99 Hz",
+        "url": "https://open.spotify.com/album/5kj2Eg808u8lOQiupkWaaU"
+      },
+      "artists": [
+        {
+          "name": "Maroon Skies",
+          "url": "https://open.spotify.com/artist/6DbYZxD7WulhTEfLKvm9um"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Binaural Theta Sinus 95 Hz - 99 Hz",
+      "url": "https://open.spotify.com/track/37xOsuprF7WMKID6fBXRMO"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus 95 Hz - 99 Hz",
+        "url": "https://open.spotify.com/album/74vYTUE07u6O7Cc2HdhzL0"
+      },
+      "artists": [
+        {
+          "name": "Theta Aum",
+          "url": "https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211570,
+      "name": "Binaural Theta Sinus 95 Hz - 99 Hz",
+      "url": "https://open.spotify.com/track/7pbiAcJ9s27XaPJDgeePok"
+    },
+    {
+      "album": {
+        "name": "Relaxing Theta Drones",
+        "url": "https://open.spotify.com/album/3wyAWfCA8wUEFREHig6xQ8"
+      },
+      "artists": [
+        {
+          "name": "Ambient Tech",
+          "url": "https://open.spotify.com/artist/08Ava0X5w3SgoLnrpJMZf8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218139,
+      "name": "Binaural Theta Sinus 95 Hz - 99 Hz Drone",
+      "url": "https://open.spotify.com/track/494xMwyUCP3q99dYKkQ873"
+    },
+    {
+      "album": {
+        "name": "Cosmic Whispers: Theta Sinus Chronicles",
+        "url": "https://open.spotify.com/album/3ykhspojUB17HqriakCRbM"
+      },
+      "artists": [
+        {
+          "name": "Theta Max",
+          "url": "https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219964,
+      "name": "Binaural Theta Sinus 95 Hz - L 99 Hz - R",
+      "url": "https://open.spotify.com/track/5hl9D7QnQfGpwg4kuII1Ca"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves 103-111 Hz",
+        "url": "https://open.spotify.com/album/6G6Yx1Tg4k4B0JRT11e44r"
+      },
+      "artists": [
+        {
+          "name": "Aya Akatu",
+          "url": "https://open.spotify.com/artist/69uAko6yM9xzNTEkDEwVAs"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147459,
+      "name": "Binaural Theta Waves 103-111 Hz",
+      "url": "https://open.spotify.com/track/3fDIQnFKjuKJhnhykIltc1"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves 116-120 Hz",
+        "url": "https://open.spotify.com/album/3trmSE2AhyJc1oXZZufd6R"
+      },
+      "artists": [
+        {
+          "name": "Miyasato Mana",
+          "url": "https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Binaural Theta Waves 116-120 Hz",
+      "url": "https://open.spotify.com/track/12CEQDCjFeanKalZDqBCEt"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves 144-148 Hz",
+        "url": "https://open.spotify.com/album/5HK3zxZKaDtgp1faiiWZua"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Binaural Theta Waves 144-148 Hz",
+      "url": "https://open.spotify.com/track/748PdWZNFrZfZMCXMaflsJ"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves 90-94 Hz",
+        "url": "https://open.spotify.com/album/7ja9jj86KgVOTVvW7MRmuY"
+      },
+      "artists": [
+        {
+          "name": "Miyasato Mana",
+          "url": "https://open.spotify.com/artist/5OcbNTR6HjYavfDrHplvav"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Binaural Theta Waves 90-94 Hz",
+      "url": "https://open.spotify.com/track/4PLFF3fzIFzabU2aJIDc0Q"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves 98-104 Hz",
+        "url": "https://open.spotify.com/album/6gjnk5KglCtl5369QLEFMT"
+      },
+      "artists": [
+        {
+          "name": "Syntropic Mind",
+          "url": "https://open.spotify.com/artist/01O0xjXft0U8kHePVxE0iC"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Binaural Theta Waves 98-104 Hz",
+      "url": "https://open.spotify.com/track/3bgt5my5lDPV2sRtjv4vp0"
+    },
+    {
+      "album": {
+        "name": "Blind Escape Theta",
+        "url": "https://open.spotify.com/album/1CNElyCMPik9Fe7oiMOobm"
+      },
+      "artists": [
+        {
+          "name": "Peace In Stillness",
+          "url": "https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Blind Escape B Theta (119-126hz)",
+      "url": "https://open.spotify.com/track/1IUJpGhzxv1QVbX7qWMSP2"
+    },
+    {
+      "album": {
+        "name": "Bow Flow Theta 244Hz - 250Hz",
+        "url": "https://open.spotify.com/album/1l6twGHLiV3Iiv48R75MHq"
+      },
+      "artists": [
+        {
+          "name": "Floating States",
+          "url": "https://open.spotify.com/artist/6nw5vPqjIUusQlaEkCagcN"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142307,
+      "name": "Bow Flow Theta 244Hz - 250Hz",
+      "url": "https://open.spotify.com/track/6A2GdPXyUxFtQE1fOmPb0I"
+    },
+    {
+      "album": {
+        "name": "Nameless Static Theta",
+        "url": "https://open.spotify.com/album/59K1vw7ImzS4vtnQlS79Dz"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Brain Waves D Theta (70-77hz)",
+      "url": "https://open.spotify.com/track/3ZRpxcNPH0trqJuVIILWtc"
+    },
+    {
+      "album": {
+        "name": "slowed time & bravery within (theta binaural)",
+        "url": "https://open.spotify.com/album/79lFMqK222Nb8KVQkkPzwS"
+      },
+      "artists": [
+        {
+          "name": "nite sky",
+          "url": "https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "bravery within (theta state)",
+      "url": "https://open.spotify.com/track/1JGbmqkZ4xYI4zM5XgckDP"
+    },
+    {
+      "album": {
+        "name": "Candour (Binaural Theta)",
+        "url": "https://open.spotify.com/album/4bw7ONNOA7niQgt73t9Dt0"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Candour (Binaural Theta)",
+      "url": "https://open.spotify.com/track/23z3Obrr5e50P1n59IsvjN"
+    },
+    {
+      "album": {
+        "name": "Theta Binaural Meditation",
+        "url": "https://open.spotify.com/album/21JtKIzMrJPjYmfJNJ8WZW"
+      },
+      "artists": [
+        {
+          "name": "Arctic Pads",
+          "url": "https://open.spotify.com/artist/4AduPPid79418PHGKIodmw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198839,
+      "name": "Creativity Theta Drone",
+      "url": "https://open.spotify.com/track/1bxUuXieTW8RVMF0Ga6qBC"
+    },
+    {
+      "album": {
+        "name": "Theta Wave Binaural Beats",
+        "url": "https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Deep Skies (Binaural Theta 93.1 Hz - 85.7 Hz)",
+      "url": "https://open.spotify.com/track/4OXSCEIY7gVDCW17nuRiRe"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-29",
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
+    },
+    {
+      "album": {
+        "name": "Theta Binaural Beats",
+        "url": "https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 261265,
+      "name": "Deeply Asleep Theta",
+      "url": "https://open.spotify.com/track/0Wt3S8qTtKY235HoHAfdt5"
+    },
+    {
+      "album": {
+        "name": "Binaural Bliss",
+        "url": "https://open.spotify.com/album/3wOu9ExpMCzOmMKcDFw2fo"
+      },
+      "artists": [
+        {
+          "name": "Beyond Quantum",
+          "url": "https://open.spotify.com/artist/526CTPjTISiN03ICeZO0Nf"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173647,
+      "name": "Doze Off (Theta Waves) 57 Hz - 59 Hz",
+      "url": "https://open.spotify.com/track/50bz3ncIMwkntk3Ohppy7e"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats",
+        "url": "https://open.spotify.com/album/51VyjQNF0KhcJCjhAXBSAR"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1200000,
+      "name": "For Dreaming - Theta Binaural Beats",
+      "url": "https://open.spotify.com/track/7Mq2z9K1rv9rhODKLhVZgO"
+    },
+    {
+      "album": {
+        "name": "Inner Flow Serenity & Sheltered Bliss (Theta Binaural)",
+        "url": "https://open.spotify.com/album/1lRvTChClmHDRTP5ktfo7S"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Inner Flow Serenity (Theta Binaural)",
+      "url": "https://open.spotify.com/track/1MNAD1RGOli6bzQDaZK0tf"
+    },
+    {
+      "album": {
+        "name": "Theta Wave Binaural Beats",
+        "url": "https://open.spotify.com/album/39yhM4UWYzKiIi7EEAGFNp"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Lake Views (Binaural Theta 104 Hz - 98.5 Hz)",
+      "url": "https://open.spotify.com/track/4JfvAvu2mdZPM1s6d6sSXh"
+    },
+    {
+      "album": {
+        "name": "Nearby & Lotus (Theta Binaural)",
+        "url": "https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 168000,
+      "name": "Lotus (Theta 198 Hz - 206 Hz)",
+      "url": "https://open.spotify.com/track/1OTLWciJzBeXHKRycakcPS"
+    },
+    {
+      "album": {
+        "name": "Binaural Warrior",
+        "url": "https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL"
+      },
+      "artists": [
+        {
+          "name": "Binaural Warrior",
+          "url": "https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Memory (Theta 7 Hz)",
+      "url": "https://open.spotify.com/track/7G36qGQQHvi8Ez4WLeQGyq"
+    },
+    {
+      "album": {
+        "name": "Nearby & Lotus (Theta Binaural)",
+        "url": "https://open.spotify.com/album/0wKyJxlJjCjQ4wmcD8fBNu"
+      },
+      "artists": [
+        {
+          "name": "Oliver Skye",
+          "url": "https://open.spotify.com/artist/28gpguwwTDk8q4dFMzGc1H"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Nearby (Theta 120 Hz - 126 Hz)",
+      "url": "https://open.spotify.com/track/3E887SSbVNvWwBVhHg5RvU"
+    },
+    {
+      "album": {
+        "name": "Neptunium Theta 4 Hz",
+        "url": "https://open.spotify.com/album/5jUBUOqZODoiFcjdpjHFON"
+      },
+      "artists": [
+        {
+          "name": "Theta Time",
+          "url": "https://open.spotify.com/artist/036o8KM9eLv1TI1xoclIXw"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "Neptunium Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1wxhO6Vf7NtlSHbl2ykH5z"
+    },
+    {
+      "album": {
+        "name": "New Start (Binaural Theta)",
+        "url": "https://open.spotify.com/album/7JmgbPfah3X5GIqwNbZlSX"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185462,
+      "name": "New Start (Binaural Theta)",
+      "url": "https://open.spotify.com/track/2EekegJ4qOGkwpO4ENePIb"
+    },
+    {
+      "album": {
+        "name": "Pasithea (Binaural Theta)",
+        "url": "https://open.spotify.com/album/6kZRgUFymMFaXzbSHvrvNu"
+      },
+      "artists": [
+        {
+          "name": "Milo Graves",
+          "url": "https://open.spotify.com/artist/5hzPkgJBMM9LUlO00sH6TV"
+        }
+      ],
+      "date_added": "2023-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Pasithea (Binaural Theta)",
+      "url": "https://open.spotify.com/track/72WhvgusoYiMEjQ4JYkXhV"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta for Sleep",
+        "url": "https://open.spotify.com/album/7rpR7N25fNVUyqFZT32xAh"
+      },
+      "artists": [
+        {
+          "name": "NREM",
+          "url": "https://open.spotify.com/artist/1pNPv0QPiEM6e7ITG8JcUm"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Purple Night (Theta Binaural)",
+      "url": "https://open.spotify.com/track/4jMT24JGe191KtWPERax3D"
+    },
+    {
+      "album": {
+        "name": "Recenter Your Mind",
+        "url": "https://open.spotify.com/album/2XAbBsUESUVWkQKY5zYGGM"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Relieving Stress (Binaural Theta)",
+      "url": "https://open.spotify.com/track/1zJrYUIt1IIL6xz6lXjZgL"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/1ws82K8yfBPnVfBUu9BH7P"
+      },
+      "artists": [
+        {
+          "name": "Oxling",
+          "url": "https://open.spotify.com/artist/73SkmKIR5vRmySvCyc45cQ"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Skies REM (Theta version)",
+      "url": "https://open.spotify.com/track/0Eh77Tpr1WLlOEeLnCX0nj"
+    },
+    {
+      "album": {
+        "name": "Blind Escape Theta",
+        "url": "https://open.spotify.com/album/1CNElyCMPik9Fe7oiMOobm"
+      },
+      "artists": [
+        {
+          "name": "Peace In Stillness",
+          "url": "https://open.spotify.com/artist/5cQcKMsuqfhBFgESOmRDzf"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sleepy Bellows F# Theta (88-96hz)",
+      "url": "https://open.spotify.com/track/0bowH5adzgIYrxN9j2VA0c"
+    },
+    {
+      "album": {
+        "name": "Binaural Bliss",
+        "url": "https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181097,
+      "name": "Theta Blossom 107 Hz - 113 Hz",
+      "url": "https://open.spotify.com/track/6xmqpU7vn0W92U4lJxyPRJ"
+    },
+    {
+      "album": {
+        "name": "Theta Brain Waves 185 Hz - 190Hz",
+        "url": "https://open.spotify.com/album/6ta2g3374zEtP6sucEYesr"
+      },
+      "artists": [
+        {
+          "name": "Mission Venus",
+          "url": "https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Theta Brain Waves 185 Hz - 190Hz",
+      "url": "https://open.spotify.com/track/5fdR2Iv1yNWc6GXpTaY1iu"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves",
+        "url": "https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy"
+      },
+      "artists": [
+        {
+          "name": "Polyphonic Grain",
+          "url": "https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211808,
+      "name": "Theta Dreams 64 + 67,3 hz",
+      "url": "https://open.spotify.com/track/2H2LtSnmXMh7yOeCcoyyH3"
+    },
+    {
+      "album": {
+        "name": "Binaural Drift",
+        "url": "https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198620,
+      "name": "Theta Drift 6 Hz",
+      "url": "https://open.spotify.com/track/6XXY8bDfm9IvT2mZL14hir"
+    },
+    {
+      "album": {
+        "name": "Gradual States",
+        "url": "https://open.spotify.com/album/0JAn0eYBFo9i8rZS6uuo6n"
+      },
+      "artists": [
+        {
+          "name": "Binaural Explorer",
+          "url": "https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Theta Flow (101Hz - 108Hz)",
+      "url": "https://open.spotify.com/track/0NzHTf3IWQZT414Qie8iUp"
+    },
+    {
+      "album": {
+        "name": "Binaural Dreams",
+        "url": "https://open.spotify.com/album/0LpUvovOq0Fh4XFaWtKRZ6"
+      },
+      "artists": [
+        {
+          "name": "Orbinaural",
+          "url": "https://open.spotify.com/artist/773OVPfLKsc6qeX8adasFj"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178701,
+      "name": "Theta Mind 71Hz - 75Hz",
+      "url": "https://open.spotify.com/track/3Cx4YoygSfdpjni6gNmWhA"
+    },
+    {
+      "album": {
+        "name": "Mind Fields",
+        "url": "https://open.spotify.com/album/1z9ggktUU722husvf5FCNN"
+      },
+      "artists": [
+        {
+          "name": "Sound Calligraphy",
+          "url": "https://open.spotify.com/artist/1Zp7nKZPuuLgjoPOeWoXVm"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Theta Mind Fields 3Hz",
+      "url": "https://open.spotify.com/track/19yWTDHBGLkocG5uHr9nNu"
+    },
+    {
+      "album": {
+        "name": "Theta Binaural Beats",
+        "url": "https://open.spotify.com/album/2mRSTgtIy2zAq1Ne3hxvSG"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207999,
+      "name": "Theta Mind Tranquility",
+      "url": "https://open.spotify.com/track/6hCmfwKvr68H1v1GjLdihz"
+    },
+    {
+      "album": {
+        "name": "Frame of Mind",
+        "url": "https://open.spotify.com/album/19BNqg67kGHHfX50FIYtIp"
+      },
+      "artists": [
+        {
+          "name": "Binaural Explorer",
+          "url": "https://open.spotify.com/artist/2ZhPgXqdfCoEYgtumgaZ5z"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148926,
+      "name": "Theta Relax (84Hz - 91Hz)",
+      "url": "https://open.spotify.com/track/0rbnJUyp3FzKOEOc6PXZGb"
+    },
+    {
+      "album": {
+        "name": "Binaural Resonance",
+        "url": "https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184185,
+      "name": "Theta Resonance 8 Hz",
+      "url": "https://open.spotify.com/track/5g0JKL5yZQyKnUvksxZnpz"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves",
+        "url": "https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy"
+      },
+      "artists": [
+        {
+          "name": "Polyphonic Grain",
+          "url": "https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217987,
+      "name": "Theta secrets 89,5 + 91,3 hz",
+      "url": "https://open.spotify.com/track/0pnUJj7iSz3XuSrKvP1k9q"
+    },
+    {
+      "album": {
+        "name": "Binaural Serenade",
+        "url": "https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Theta Serenade 7 Hz",
+      "url": "https://open.spotify.com/track/1Np70NnU9Dz4i1J3WJw9JY"
+    },
+    {
+      "album": {
+        "name": "Theta Aum",
+        "url": "https://open.spotify.com/album/1CIuo5ZK4G1l1DAQzRviit"
+      },
+      "artists": [
+        {
+          "name": "Theta Aum",
+          "url": "https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213995,
+      "name": "Theta Sinus 100 Hz - 104 Hz",
+      "url": "https://open.spotify.com/track/3dw2xpPQnX1K5dvUETLDY7"
+    },
+    {
+      "album": {
+        "name": "Subdrones",
+        "url": "https://open.spotify.com/album/2fOWp0iIqd56sO5N2w3x85"
+      },
+      "artists": [
+        {
+          "name": "Subdrones",
+          "url": "https://open.spotify.com/artist/24tr6QQzxUZP2HhpP8FCn7"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Theta Sinus 100 Hz - 106 Hz",
+      "url": "https://open.spotify.com/track/6TqdGloOecWg0tdZj9as16"
+    },
+    {
+      "album": {
+        "name": "Theta Healing",
+        "url": "https://open.spotify.com/album/0dBwW1MpfJtvD9t7z5QjYV"
+      },
+      "artists": [
+        {
+          "name": "Quiet Mind",
+          "url": "https://open.spotify.com/artist/3RfH4VGmFRZJe205JoRCT5"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170222,
+      "name": "Theta State Of Flow 155.56Hz-160.56Hz",
+      "url": "https://open.spotify.com/track/7ClMGXAMTxqLpMV675wngn"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Waves",
+        "url": "https://open.spotify.com/album/0q4tBTB2yPbfE1u4nAvfWy"
+      },
+      "artists": [
+        {
+          "name": "Polyphonic Grain",
+          "url": "https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202044,
+      "name": "Theta Universe 61,5 + 63,9 hz",
+      "url": "https://open.spotify.com/track/4CTbSRguKWHDrhGbxP3iLN"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Brainwave Therapy: Binaural Beats, Theta Waves, Alpha Waves, Isochronic Tones and Ambient Music For Deep Sleep, Relaxation, Brainwave Entrainment and Sleeping Music, Vol. 2",
+        "url": "https://open.spotify.com/album/3u5zY5MkY6ykRjmQEXLlk8"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        },
+        {
+          "name": "Alpha Brain Waves",
+          "url": "https://open.spotify.com/artist/2DvbYXMiUAQuupPEQnIt1I"
+        },
+        {
+          "name": "Brain Waves Therapy",
+          "url": "https://open.spotify.com/artist/34RGl0uVjzk6plsyUDTssq"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Theta Waves",
+      "url": "https://open.spotify.com/track/7o3DoxE6sIG10H7qOxWoYk"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Focus: Study Alpha Waves, Isochronic Tones, Theta Waves, Delta Waves and Ambient Music For Studying, Focus, Concentration and Background Music For Reading",
+        "url": "https://open.spotify.com/album/2xoELtkvoDiNhSWAQ40AYL"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Study Music",
+          "url": "https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e"
+        },
+        {
+          "name": "Study Alpha Waves",
+          "url": "https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 102405,
+      "name": "Theta Waves",
+      "url": "https://open.spotify.com/track/4no9ZnpslbeIdlBoDwAtaQ"
+    },
+    {
+      "album": {
+        "name": "Binaural Tranquility",
+        "url": "https://open.spotify.com/album/3HQEAyM3PVRNxBDRT6PGVQ"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 298125,
+      "name": "Theta Waves 144 hz",
+      "url": "https://open.spotify.com/track/4u6Je18BVjegQP257OdD3G"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Focus: Study Alpha Waves, Isochronic Tones, Theta Waves, Delta Waves and Ambient Music For Studying, Focus, Concentration and Background Music For Reading",
+        "url": "https://open.spotify.com/album/2xoELtkvoDiNhSWAQ40AYL"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Study Music",
+          "url": "https://open.spotify.com/artist/0rV884TJaWtmnJf392FG6e"
+        },
+        {
+          "name": "Study Alpha Waves",
+          "url": "https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129394,
+      "name": "Theta Waves Focus Music",
+      "url": "https://open.spotify.com/track/2WAVUREUvaRAlX0SFr26zf"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Collection",
+        "url": "https://open.spotify.com/album/54mMypYiCNG6gUfcWcxJ1d"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/6j2M7zlPqXKwkEugDHcdjM"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Deep Sleep: Ambient Music, Isochronic Tones, Alpha Waves, Theta Waves and Relaxing Music For Sleeping, Sleep Music and Brainwave Entrainment",
+        "url": "https://open.spotify.com/album/6Ss53oZMeKiWHOnj3yObSI"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        },
+        {
+          "name": "Binaural Beats Library",
+          "url": "https://open.spotify.com/artist/5Mk1SfiKteGGUq5WDcRwOB"
+        },
+        {
+          "name": "Binaural Beats Deep Sleep",
+          "url": "https://open.spotify.com/artist/0wmr2DRyX5KQcSv2jS6ydi"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Theta Waves Sleep Music",
+      "url": "https://open.spotify.com/track/1HgdzuodiBcuHjYiC2u4R6"
+    },
+    {
+      "album": {
+        "name": "Tunnel Light & Trusting Oneself (Binaural Theta)",
+        "url": "https://open.spotify.com/album/0FKnwIuFD2hgFWeQNzMiLf"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Trusting Oneself (Binaural Theta 94 Hz - 100 Hz)",
+      "url": "https://open.spotify.com/track/5GsoC34xzsl8FFFbcALmlP"
+    },
+    {
+      "album": {
+        "name": "Tunnel Light & Trusting Oneself (Binaural Theta)",
+        "url": "https://open.spotify.com/album/0FKnwIuFD2hgFWeQNzMiLf"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Tunnel Light (Binaural Theta 90 Hz - 96 Hz)",
+      "url": "https://open.spotify.com/track/7LkhQscNB0bITZrpD4HyAZ"
+    },
+    {
+      "album": {
+        "name": "Binaural Algorithms",
+        "url": "https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1"
+      },
+      "artists": [
+        {
+          "name": "Big Ordo",
+          "url": "https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Winning Theta Pattern 6Hz",
+      "url": "https://open.spotify.com/track/4KQCZIN3EbQSJQKMNY2xxv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2KtT8t49L8p"
 }

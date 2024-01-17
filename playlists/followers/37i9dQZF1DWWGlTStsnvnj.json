@@ -1,383 +1,639 @@
 {
-  "2022-12-15": 112936,
-  "2022-12-16": 112954,
-  "2022-12-17": 112981,
-  "2022-12-18": 113012,
-  "2022-12-19": 113032,
-  "2022-12-20": 113094,
-  "2022-12-21": 113094,
-  "2022-12-22": 113118,
-  "2022-12-24": 113162,
-  "2022-12-25": 113182,
-  "2022-12-26": 113192,
-  "2022-12-27": 113226,
-  "2022-12-28": 113256,
-  "2022-12-29": 113289,
-  "2022-12-30": 113325,
-  "2022-12-31": 113360,
-  "2023-01-01": 113395,
-  "2023-01-02": 113425,
-  "2023-01-03": 113454,
-  "2023-01-04": 113474,
-  "2023-01-05": 113500,
-  "2023-01-06": 113524,
-  "2023-01-07": 113557,
-  "2023-01-08": 113558,
-  "2023-01-09": 113572,
-  "2023-01-10": 113588,
-  "2023-01-11": 113611,
-  "2023-01-12": 113633,
-  "2023-01-13": 113660,
-  "2023-01-14": 113698,
-  "2023-01-15": 113705,
-  "2023-01-16": 113731,
-  "2023-01-17": 113768,
-  "2023-01-18": 113788,
-  "2023-01-19": 113808,
-  "2023-01-20": 113833,
-  "2023-01-21": 113859,
-  "2023-01-22": 113879,
-  "2023-01-23": 113903,
-  "2023-01-24": 113927,
-  "2023-01-25": 113951,
-  "2023-01-26": 113965,
-  "2023-01-27": 113978,
-  "2023-01-28": 114001,
-  "2023-01-29": 114029,
-  "2023-01-30": 114047,
-  "2023-01-31": 114047,
-  "2023-02-01": 114080,
-  "2023-02-02": 114100,
-  "2023-02-03": 114131,
-  "2023-02-04": 114168,
-  "2023-02-05": 114182,
-  "2023-02-06": 114216,
-  "2023-02-07": 114242,
-  "2023-02-08": 114288,
-  "2023-02-09": 114288,
-  "2023-02-10": 114317,
-  "2023-02-11": 114334,
-  "2023-02-12": 114385,
-  "2023-02-13": 114403,
-  "2023-02-14": 114403,
-  "2023-02-15": 114419,
-  "2023-02-16": 114441,
-  "2023-02-17": 114472,
-  "2023-02-18": 114523,
-  "2023-02-19": 114525,
-  "2023-02-20": 114538,
-  "2023-02-21": 114553,
-  "2023-02-22": 114585,
-  "2023-02-23": 114619,
-  "2023-02-24": 114627,
-  "2023-02-25": 114669,
-  "2023-02-26": 114688,
-  "2023-02-27": 114725,
-  "2023-02-28": 114725,
-  "2023-03-01": 114755,
-  "2023-03-02": 114779,
-  "2023-03-03": 114807,
-  "2023-03-04": 114825,
-  "2023-03-05": 114912,
-  "2023-03-06": 114912,
-  "2023-03-07": 114946,
-  "2023-03-08": 114963,
-  "2023-03-09": 114989,
-  "2023-03-10": 115011,
-  "2023-03-11": 115035,
-  "2023-03-12": 115053,
-  "2023-03-13": 115084,
-  "2023-03-14": 115105,
-  "2023-03-15": 115120,
-  "2023-03-16": 115148,
-  "2023-03-17": 115148,
-  "2023-03-18": 115192,
-  "2023-03-19": 115218,
-  "2023-03-20": 115254,
-  "2023-03-21": 115283,
-  "2023-03-22": 115302,
-  "2023-03-23": 115330,
-  "2023-03-24": 115330,
-  "2023-03-25": 115389,
-  "2023-03-26": 115412,
-  "2023-03-27": 115446,
-  "2023-03-28": 115463,
-  "2023-03-29": 115477,
-  "2023-03-30": 115520,
-  "2023-03-31": 115520,
-  "2023-04-01": 115539,
-  "2023-04-02": 115552,
-  "2023-04-03": 115571,
-  "2023-04-04": 115593,
-  "2023-04-05": 115625,
-  "2023-04-06": 115650,
-  "2023-04-07": 115670,
-  "2023-04-09": 115717,
-  "2023-04-10": 115742,
-  "2023-04-11": 115770,
-  "2023-04-12": 115770,
-  "2023-04-13": 115783,
-  "2023-04-14": 115812,
-  "2023-04-15": 115840,
-  "2023-04-16": 115861,
-  "2023-04-17": 115888,
-  "2023-04-18": 115919,
-  "2023-04-19": 115952,
-  "2023-04-20": 115987,
-  "2023-04-21": 116011,
-  "2023-04-22": 116024,
-  "2023-04-23": 116044,
-  "2023-04-24": 116081,
-  "2023-04-25": 116106,
-  "2023-04-26": 116137,
-  "2023-04-27": 116160,
-  "2023-04-28": 116195,
-  "2023-04-29": 116223,
-  "2023-04-30": 116251,
-  "2023-05-01": 116275,
-  "2023-05-02": 116304,
-  "2023-05-03": 116337,
-  "2023-05-04": 116366,
-  "2023-05-05": 116404,
-  "2023-05-06": 116429,
-  "2023-05-07": 116477,
-  "2023-05-08": 116511,
-  "2023-05-09": 116536,
-  "2023-05-10": 116584,
-  "2023-05-11": 116617,
-  "2023-05-12": 116657,
-  "2023-05-13": 116698,
-  "2023-05-14": 116724,
-  "2023-05-15": 116757,
-  "2023-05-16": 116796,
-  "2023-05-17": 116829,
-  "2023-05-18": 116862,
-  "2023-05-19": 116915,
-  "2023-05-20": 116979,
-  "2023-05-21": 116979,
-  "2023-05-22": 116979,
-  "2023-05-23": 117031,
-  "2023-05-24": 117100,
-  "2023-05-25": 117100,
-  "2023-05-26": 117134,
-  "2023-05-27": 117158,
-  "2023-05-28": 117194,
-  "2023-05-29": 117194,
-  "2023-05-30": 117277,
-  "2023-05-31": 117313,
-  "2023-06-01": 117339,
-  "2023-06-02": 117377,
-  "2023-06-03": 117427,
-  "2023-06-04": 117467,
-  "2023-06-05": 117503,
-  "2023-06-06": 117528,
-  "2023-06-07": 117560,
-  "2023-06-08": 117599,
-  "2023-06-09": 117631,
-  "2023-06-10": 117657,
-  "2023-06-11": 117698,
-  "2023-06-12": 117733,
-  "2023-06-13": 117770,
-  "2023-06-14": 117791,
-  "2023-06-15": 117827,
-  "2023-06-16": 117867,
-  "2023-06-17": 117901,
-  "2023-06-18": 117938,
-  "2023-06-19": 117972,
-  "2023-06-20": 117999,
-  "2023-06-21": 118024,
-  "2023-06-22": 118051,
-  "2023-06-23": 118077,
-  "2023-06-24": 118119,
-  "2023-06-25": 118149,
-  "2023-06-26": 118185,
-  "2023-06-27": 118220,
-  "2023-06-28": 118269,
-  "2023-06-29": 118303,
-  "2023-06-30": 118339,
-  "2023-07-01": 118395,
-  "2023-07-02": 118395,
-  "2023-07-03": 118437,
-  "2023-07-04": 118456,
-  "2023-07-05": 118492,
-  "2023-07-06": 118550,
-  "2023-07-07": 118550,
-  "2023-07-08": 118569,
-  "2023-07-09": 118614,
-  "2023-07-10": 118646,
-  "2023-07-11": 118670,
-  "2023-07-12": 118699,
-  "2023-07-13": 118723,
-  "2023-07-14": 118761,
-  "2023-07-15": 118775,
-  "2023-07-16": 118810,
-  "2023-07-17": 118827,
-  "2023-07-18": 118849,
-  "2023-07-19": 118882,
-  "2023-07-20": 118923,
-  "2023-07-21": 118952,
-  "2023-07-22": 118984,
-  "2023-07-23": 119024,
-  "2023-07-24": 119046,
-  "2023-07-25": 119071,
-  "2023-07-26": 119107,
-  "2023-07-27": 119150,
-  "2023-07-28": 119174,
-  "2023-07-29": 119209,
-  "2023-07-30": 119244,
-  "2023-07-31": 119279,
-  "2023-08-01": 119320,
-  "2023-08-02": 119349,
-  "2023-08-03": 119394,
-  "2023-08-04": 119439,
-  "2023-08-05": 119477,
-  "2023-08-06": 119537,
-  "2023-08-07": 119537,
-  "2023-08-08": 119576,
-  "2023-08-09": 119596,
-  "2023-08-10": 119624,
-  "2023-08-11": 119673,
-  "2023-08-12": 119714,
-  "2023-08-13": 119756,
-  "2023-08-14": 119786,
-  "2023-08-15": 119848,
-  "2023-08-16": 119848,
-  "2023-08-17": 119893,
-  "2023-08-18": 119923,
-  "2023-08-19": 119960,
-  "2023-08-20": 119994,
-  "2023-08-21": 120029,
-  "2023-08-22": 120052,
-  "2023-08-23": 120087,
-  "2023-08-24": 120118,
-  "2023-08-25": 120158,
-  "2023-08-26": 120197,
-  "2023-08-27": 120236,
-  "2023-08-28": 120280,
-  "2023-08-29": 120314,
-  "2023-08-30": 120358,
-  "2023-08-31": 120373,
-  "2023-09-01": 120448,
-  "2023-09-02": 120448,
-  "2023-09-03": 120465,
-  "2023-09-04": 120495,
-  "2023-09-05": 120544,
-  "2023-09-06": 120584,
-  "2023-09-07": 120620,
-  "2023-09-08": 120642,
-  "2023-09-09": 120679,
-  "2023-09-10": 120717,
-  "2023-09-11": 120744,
-  "2023-09-12": 120777,
-  "2023-09-13": 120809,
-  "2023-09-14": 120837,
-  "2023-09-15": 120873,
-  "2023-09-16": 120903,
-  "2023-09-17": 120954,
-  "2023-09-18": 120987,
-  "2023-09-19": 121019,
-  "2023-09-20": 121051,
-  "2023-09-21": 121083,
-  "2023-09-22": 121121,
-  "2023-09-23": 121149,
-  "2023-09-24": 121201,
-  "2023-09-25": 121231,
-  "2023-09-26": 121261,
-  "2023-09-27": 121281,
-  "2023-09-28": 121316,
-  "2023-09-29": 121346,
-  "2023-09-30": 121377,
-  "2023-10-01": 121421,
-  "2023-10-02": 121441,
-  "2023-10-03": 121478,
-  "2023-10-04": 121507,
-  "2023-10-05": 121559,
-  "2023-10-06": 121591,
-  "2023-10-07": 121631,
-  "2023-10-08": 121672,
-  "2023-10-09": 121707,
-  "2023-10-10": 121436,
-  "2023-10-11": 121162,
-  "2023-10-12": 121162,
-  "2023-10-13": 121187,
-  "2023-10-14": 120676,
-  "2023-10-15": 120663,
-  "2023-10-16": 120693,
-  "2023-10-17": 120707,
-  "2023-10-18": 120728,
-  "2023-10-19": 120766,
-  "2023-10-20": 120808,
-  "2023-10-21": 120838,
-  "2023-10-22": 120857,
-  "2023-10-23": 120890,
-  "2023-10-24": 120922,
-  "2023-10-25": 120942,
-  "2023-10-26": 120957,
-  "2023-10-27": 120984,
-  "2023-10-28": 121010,
-  "2023-10-29": 121036,
-  "2023-10-30": 121097,
-  "2023-10-31": 121097,
-  "2023-11-01": 121130,
-  "2023-11-02": 121161,
-  "2023-11-03": 121187,
-  "2023-11-04": 121217,
-  "2023-11-05": 121249,
-  "2023-11-06": 121273,
-  "2023-11-07": 121298,
-  "2023-11-08": 121335,
-  "2023-11-09": 121373,
-  "2023-11-10": 121411,
-  "2023-11-11": 121434,
-  "2023-11-12": 121472,
-  "2023-11-13": 121503,
-  "2023-11-14": 121530,
-  "2023-11-15": 121530,
-  "2023-11-16": 121560,
-  "2023-11-17": 121619,
-  "2023-11-18": 121619,
-  "2023-11-19": 121650,
-  "2023-11-20": 121667,
-  "2023-11-21": 121689,
-  "2023-11-22": 121724,
-  "2023-11-23": 121759,
-  "2023-11-24": 121790,
-  "2023-11-25": 121820,
-  "2023-11-26": 121857,
-  "2023-11-27": 121892,
-  "2023-11-28": 121916,
-  "2023-11-29": 121977,
-  "2023-11-30": 121977,
-  "2023-12-01": 122018,
-  "2023-12-02": 122046,
-  "2023-12-03": 122087,
-  "2023-12-04": 122115,
-  "2023-12-05": 122139,
-  "2023-12-06": 122169,
-  "2023-12-07": 122204,
-  "2023-12-08": 122246,
-  "2023-12-09": 122277,
-  "2023-12-10": 122326,
-  "2023-12-11": 122368,
-  "2023-12-12": 122406,
-  "2023-12-13": 122433,
-  "2023-12-14": 122487,
-  "2023-12-15": 122519,
-  "2023-12-16": 122541,
-  "2023-12-17": 122574,
-  "2023-12-18": 122599,
-  "2023-12-19": 122624,
-  "2023-12-20": 122658,
-  "2023-12-21": 122696,
-  "2023-12-22": 122743,
-  "2023-12-23": 122779,
-  "2023-12-24": 122814,
-  "2023-12-25": 122859,
-  "2023-12-26": 122897,
-  "2023-12-27": 122913,
-  "2023-12-30": 123008,
-  "2023-12-31": 123042,
-  "2024-01-01": 123079,
-  "2024-01-02": 123099,
-  "2024-01-03": 123134
+  "2024-01-17": 121892,
+  "date_first_scraped": "2022-12-15",
+  "description": "Tembang Jowo lawas pancen saget nrenyuhake ati",
+  "name": "Langgam Jawa",
+  "tracks": [
+    {
+      "album": {
+        "name": "The 70th Anniversary of Bengawan Solo",
+        "url": "https://open.spotify.com/album/0p5wFCsaKKKHn2YbPCr3NX"
+      },
+      "artists": [
+        {
+          "name": "Gesang",
+          "url": "https://open.spotify.com/artist/18hMpGu48kBPQyGARDjqkY"
+        },
+        {
+          "name": "Waldjinah",
+          "url": "https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279920,
+      "name": "Bengawan Solo - Original Keroncong Orchestra",
+      "url": "https://open.spotify.com/track/7KMT2ZmthqYSnBzeJKZMtQ"
+    },
+    {
+      "album": {
+        "name": "20 Lagu-Lagu Keroncong Mus Mulyadi & Sundari Sukotjo",
+        "url": "https://open.spotify.com/album/3K6MNZIM3hOYuBIgIqA84D"
+      },
+      "artists": [
+        {
+          "name": "Sundari Soekotjo",
+          "url": "https://open.spotify.com/artist/1IuDMRAhrGICHG8k5vxAOd"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Di Bawah Sinar Bulan Purnama",
+      "url": "https://open.spotify.com/track/3VaEcF8qbzZVlTBMg22nJ1"
+    },
+    {
+      "album": {
+        "name": "Djembatan Merah - EP",
+        "url": "https://open.spotify.com/album/5ntowqlsWG4Ubb6itS66YM"
+      },
+      "artists": [
+        {
+          "name": "Krontjong Ensemble Pantja Warna",
+          "url": "https://open.spotify.com/artist/1APfSsXt4JByIzMVlVenV9"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192266,
+      "name": "Djembatan Merah",
+      "url": "https://open.spotify.com/track/5QqSZoKTfEn4zKLotCGw5U"
+    },
+    {
+      "album": {
+        "name": "Indonesian Folksongs, Vol. 3: Jawa",
+        "url": "https://open.spotify.com/album/6UVOzURBACpJd5v9YJuenq"
+      },
+      "artists": [
+        {
+          "name": "Soleh Akbar",
+          "url": "https://open.spotify.com/artist/6AwrGNhIIIAzcFsutrUpBY"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260720,
+      "name": "Gatot Kaca Edan",
+      "url": "https://open.spotify.com/track/6zE9dgmaBMoIatA1OLRCCU"
+    },
+    {
+      "album": {
+        "name": "Campursari CSGK Manthous (Lagu-Lagu Terbaik)",
+        "url": "https://open.spotify.com/album/1NyRCiMcSUdz0YKKU7qsqE"
+      },
+      "artists": [
+        {
+          "name": "Manthous",
+          "url": "https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233466,
+      "name": "Gethuk",
+      "url": "https://open.spotify.com/track/5Fl0tKlKDPrgsU190oFq2R"
+    },
+    {
+      "album": {
+        "name": "Gubug Asmoro",
+        "url": "https://open.spotify.com/album/653L4zdptwCGw4KbffGG66"
+      },
+      "artists": [
+        {
+          "name": "Langgam Campursari Sangga Buana",
+          "url": "https://open.spotify.com/artist/4GV37x7Nfxl0m3gAk0rU2J"
+        },
+        {
+          "name": "Dimas Tedjo",
+          "url": "https://open.spotify.com/artist/7fYeWW12JYNs9Q0NNeNQfw"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339500,
+      "name": "Gubuk Asmoro (feat. Dimas Tedjo)",
+      "url": "https://open.spotify.com/track/1JFJbWGWE7zdXDTLTpVbWK"
+    },
+    {
+      "album": {
+        "name": "Tembang Jawa Kenangan",
+        "url": "https://open.spotify.com/album/263b3G7UzygOZFCufxjeLj"
+      },
+      "artists": [
+        {
+          "name": "Manthous",
+          "url": "https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn"
+        },
+        {
+          "name": "Lilis Diana",
+          "url": "https://open.spotify.com/artist/4sSTofPgVFn2NKi9rMT0wX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270760,
+      "name": "Gudeg Yogya (feat. Lilis Diana)",
+      "url": "https://open.spotify.com/track/2SgDeaOv1QZQXyPu2n7sPL"
+    },
+    {
+      "album": {
+        "name": "Wuyung",
+        "url": "https://open.spotify.com/album/1UsGFe1aCHvjVxZ5wEJNTI"
+      },
+      "artists": [
+        {
+          "name": "Campursari Sangga Buana",
+          "url": "https://open.spotify.com/artist/3vzL5Lh8QtWRE2JIvAeerl"
+        },
+        {
+          "name": "Ririk",
+          "url": "https://open.spotify.com/artist/4IRcdXzVnitoIfqxpTEY5b"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413822,
+      "name": "Jenang Gulo (feat. Ririk)",
+      "url": "https://open.spotify.com/track/7I8vBafZmFGozFx7HcXwJY"
+    },
+    {
+      "album": {
+        "name": "Langgam Campursari Sangga Buana",
+        "url": "https://open.spotify.com/album/4IUmIEwpU4l0dmHimwEjQn"
+      },
+      "artists": [
+        {
+          "name": "Sangga Buana",
+          "url": "https://open.spotify.com/artist/5ZJX5KoNo9WuUqvYV0NaIH"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229219,
+      "name": "Kelinci Ucul",
+      "url": "https://open.spotify.com/track/5Xj1aZqiR9FzMtv61rMHrd"
+    },
+    {
+      "album": {
+        "name": "Album Emas Keroncong: Sri Widadi",
+        "url": "https://open.spotify.com/album/74TgG3PAC7ezyGRWlO0N6p"
+      },
+      "artists": [
+        {
+          "name": "Sri Widadi",
+          "url": "https://open.spotify.com/artist/4j0a81xxwodxUdWZ3K1Hiz"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "Kr. Idaman Hati",
+      "url": "https://open.spotify.com/track/0UXEGBqp5CmoLBekkF597g"
+    },
+    {
+      "album": {
+        "name": "Keroncong Jawa Sepanjang Masa II",
+        "url": "https://open.spotify.com/album/02YmAo3rmEw5zgNgdAn81K"
+      },
+      "artists": [
+        {
+          "name": "Didi Kempot",
+          "url": "https://open.spotify.com/artist/5LmRNHfiQfvy9zO8U9Q4mp"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255426,
+      "name": "Kuncung",
+      "url": "https://open.spotify.com/track/4fjYW9wSFa9K2C7oqw2VxK"
+    },
+    {
+      "album": {
+        "name": "Bossanova Jawa III",
+        "url": "https://open.spotify.com/album/2ft2fSwVoQCV5alFXinbUu"
+      },
+      "artists": [
+        {
+          "name": "Dina",
+          "url": "https://open.spotify.com/artist/1xDaRoX2eqLbaQYoZwxX7Y"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338146,
+      "name": "Kuncung",
+      "url": "https://open.spotify.com/track/19zdyeVe480utHdz1oJhIJ"
+    },
+    {
+      "album": {
+        "name": "Sukses Nurhana, Vol. 2",
+        "url": "https://open.spotify.com/album/2b7tl2a7SB4dXUsLxwNA0M"
+      },
+      "artists": [
+        {
+          "name": "Nurhana",
+          "url": "https://open.spotify.com/artist/40YY92IUPsSrUfsitkWbv3"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291943,
+      "name": "Kusumaning Ati",
+      "url": "https://open.spotify.com/track/6mKhs9ji8maPgh1yuUj8vj"
+    },
+    {
+      "album": {
+        "name": "C.S.G.K Nyidamsari",
+        "url": "https://open.spotify.com/album/44ebJ2T8nmbaKIlMBroIFw"
+      },
+      "artists": [
+        {
+          "name": "Yanti",
+          "url": "https://open.spotify.com/artist/59POZKBuFaRojcWBmxnCoU"
+        },
+        {
+          "name": "Minul",
+          "url": "https://open.spotify.com/artist/7dPGx2sB1cGg63QgzwMhok"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 532348,
+      "name": "Kutut Manggung",
+      "url": "https://open.spotify.com/track/3Qe1ZdHEaD7Wxut3B15zqg"
+    },
+    {
+      "album": {
+        "name": "3 Ratu Keroncong",
+        "url": "https://open.spotify.com/album/6JhOJJzBNX2wkgYnsLDrlL"
+      },
+      "artists": [
+        {
+          "name": "Tuti Maryati",
+          "url": "https://open.spotify.com/artist/62DEg5GSzqVFYqYGccks4q"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251826,
+      "name": "Lgm. Rangkaian Melati",
+      "url": "https://open.spotify.com/track/6MOYiLhv1H67v7UWdfZb6x"
+    },
+    {
+      "album": {
+        "name": "Emas Legendaris Ratu Campursari Aniek Sunyahni, Vol. 4",
+        "url": "https://open.spotify.com/album/3jTmE4Rua2H5kPYD7P5WHa"
+      },
+      "artists": [
+        {
+          "name": "Aniek Sunyahni",
+          "url": "https://open.spotify.com/artist/5sc7I3orxiNDHXrwRxq6g6"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300460,
+      "name": "Lingsir Wengi",
+      "url": "https://open.spotify.com/track/2UEsnTotIckTJogkzyxzs6"
+    },
+    {
+      "album": {
+        "name": "Legendaris Jawa, Vol. 2",
+        "url": "https://open.spotify.com/album/6Xpky5HBIB4xG4zdCsOu1R"
+      },
+      "artists": [
+        {
+          "name": "Nurhana",
+          "url": "https://open.spotify.com/artist/3tCs9Jx7lq4d6sUnqgC89r"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291560,
+      "name": "Mawar Biru",
+      "url": "https://open.spotify.com/track/3WrHmq0olv2zrX2K77NqSS"
+    },
+    {
+      "album": {
+        "name": "Campursari Gunung Kidul, Vol. 1",
+        "url": "https://open.spotify.com/album/0IHCBWDz3tEdf22JkMTsWg"
+      },
+      "artists": [
+        {
+          "name": "Lasmini",
+          "url": "https://open.spotify.com/artist/3UMbszVhnTMIXvhTWrowUt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300600,
+      "name": "Nginang Karo Ngilo",
+      "url": "https://open.spotify.com/track/3dj56ZRUvBO0z7YQ61vu6C"
+    },
+    {
+      "album": {
+        "name": "Nyidam Sari",
+        "url": "https://open.spotify.com/album/0PzDXUeBIh2GKIx4i2dZ5a"
+      },
+      "artists": [
+        {
+          "name": "Manthous",
+          "url": "https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372191,
+      "name": "Nyidam Sari",
+      "url": "https://open.spotify.com/track/1bh7hzKh2wgW4YdBX39jS0"
+    },
+    {
+      "album": {
+        "name": "Mustika Pop Jawa Koes Plus 2",
+        "url": "https://open.spotify.com/album/6Q7sm6Jcv98IxhB4TxK6MT"
+      },
+      "artists": [
+        {
+          "name": "Koes Plus",
+          "url": "https://open.spotify.com/artist/01qO0VcjpvkpAyrnYuz4bu"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164826,
+      "name": "Ojo Ngece",
+      "url": "https://open.spotify.com/track/5KKw46Zn88G7ONXNStBVdx"
+    },
+    {
+      "album": {
+        "name": "Emas Legendaris Ratu Campursari Aniek Sunyahni, Vol. 4",
+        "url": "https://open.spotify.com/album/3jTmE4Rua2H5kPYD7P5WHa"
+      },
+      "artists": [
+        {
+          "name": "Aniek Sunyahni",
+          "url": "https://open.spotify.com/artist/5sc7I3orxiNDHXrwRxq6g6"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308766,
+      "name": "Panjerino",
+      "url": "https://open.spotify.com/track/7s3G8xByQV5d9PUoVBgo73"
+    },
+    {
+      "album": {
+        "name": "C.S.G.K Nyidamsari",
+        "url": "https://open.spotify.com/album/44ebJ2T8nmbaKIlMBroIFw"
+      },
+      "artists": [
+        {
+          "name": "Nuryanti",
+          "url": "https://open.spotify.com/artist/7C4y26CZOplJK6Zyiffu1e"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312815,
+      "name": "Pripun",
+      "url": "https://open.spotify.com/track/4Iz6LnVALgKgF2wXj4TypC"
+    },
+    {
+      "album": {
+        "name": "Potong Padi",
+        "url": "https://open.spotify.com/album/4x3uhJG8kanuCai1CUZq0b"
+      },
+      "artists": [
+        {
+          "name": "Ismanto",
+          "url": "https://open.spotify.com/artist/1xRq6CIIiUA5xDnA9uNt89"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192100,
+      "name": "Putu Bumbung",
+      "url": "https://open.spotify.com/track/00LRNmdfV6gU9kQLWU54XS"
+    },
+    {
+      "album": {
+        "name": "Langgam Campursari Terbaru",
+        "url": "https://open.spotify.com/album/7ef0UrcSwgXxZc14vFUeAK"
+      },
+      "artists": [
+        {
+          "name": "SESIDEMAN",
+          "url": "https://open.spotify.com/artist/1n9pyYhDHvpqHM87XafxNJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298686,
+      "name": "Sesideman",
+      "url": "https://open.spotify.com/track/54WzEPk5jj1HksfjZIecFg"
+    },
+    {
+      "album": {
+        "name": "Campursari Campur Goyang",
+        "url": "https://open.spotify.com/album/5q8cx91MlrVeyq8M7hoInp"
+      },
+      "artists": [
+        {
+          "name": "Sonny Josz",
+          "url": "https://open.spotify.com/artist/5yapZ4C6jBYI1hpkzrDp3A"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312998,
+      "name": "Sri Wis Bali",
+      "url": "https://open.spotify.com/track/1PC3bOb6wFFBbh2rV22Z2H"
+    },
+    {
+      "album": {
+        "name": "Indonesian Folksongs, Vol. 3: Jawa",
+        "url": "https://open.spotify.com/album/6UVOzURBACpJd5v9YJuenq"
+      },
+      "artists": [
+        {
+          "name": "Waldjinah",
+          "url": "https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "Suwe Ora Jamu",
+      "url": "https://open.spotify.com/track/6aTh3lfCtOGeYg1WYdzMXB"
+    },
+    {
+      "album": {
+        "name": "Koleksi Emas Tembang Jawa Terbaik",
+        "url": "https://open.spotify.com/album/3ie5QTevA0vXHsbvLPSnnA"
+      },
+      "artists": [
+        {
+          "name": "Manthous",
+          "url": "https://open.spotify.com/artist/6Jydsfdvw8nO0NJDL8Mycn"
+        },
+        {
+          "name": "Minul",
+          "url": "https://open.spotify.com/artist/1EuCnZgvCwr8bpPJHrLnf8"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273760,
+      "name": "Tahu Opo Tempe",
+      "url": "https://open.spotify.com/track/1LrfFAi4kGFOYS2Bd8jH2W"
+    },
+    {
+      "album": {
+        "name": "Album Keroncong Cak Diqin",
+        "url": "https://open.spotify.com/album/7f4wqN1xktlBKsa4QVnWBS"
+      },
+      "artists": [
+        {
+          "name": "Cak Diqin",
+          "url": "https://open.spotify.com/artist/2bda51KRW8PwRd4DR5rSfS"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317184,
+      "name": "Tragedi Tali Kotang",
+      "url": "https://open.spotify.com/track/1wOTjiz4kgZjaS5vK6YEhV"
+    },
+    {
+      "album": {
+        "name": "Tresno Waranggono",
+        "url": "https://open.spotify.com/album/1ScGtZUbpAPldwhs51shzJ"
+      },
+      "artists": [
+        {
+          "name": "Campursari Sangga Buana",
+          "url": "https://open.spotify.com/artist/3vzL5Lh8QtWRE2JIvAeerl"
+        },
+        {
+          "name": "Dimas Tedjo",
+          "url": "https://open.spotify.com/artist/7fYeWW12JYNs9Q0NNeNQfw"
+        },
+        {
+          "name": "Ririk",
+          "url": "https://open.spotify.com/artist/4IRcdXzVnitoIfqxpTEY5b"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396000,
+      "name": "Tresno Waranggono (feat. Dimas Tedjo & Ririk)",
+      "url": "https://open.spotify.com/track/5YBxUUuoJJMDMUsNXnKM4K"
+    },
+    {
+      "album": {
+        "name": "Tulung",
+        "url": "https://open.spotify.com/album/29gKDTVr8V8YY2BDRWKdUV"
+      },
+      "artists": [
+        {
+          "name": "Arda Tatu",
+          "url": "https://open.spotify.com/artist/0XoYout1dRTYkg5R2PI9bq"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266750,
+      "name": "Tulung",
+      "url": "https://open.spotify.com/track/565PueGipMUc719CembSCg"
+    },
+    {
+      "album": {
+        "name": "Gamelan Campur Sari Walang Kekek",
+        "url": "https://open.spotify.com/album/35lvs1fRKm1AvKBkzwo6KQ"
+      },
+      "artists": [
+        {
+          "name": "Mus Mulyadi",
+          "url": "https://open.spotify.com/artist/4WnEy38kT3nojRrIlbxlu8"
+        },
+        {
+          "name": "Sriyatun",
+          "url": "https://open.spotify.com/artist/1sr980Ysv9HpJHyGmGct5v"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320888,
+      "name": "Walang Kekek",
+      "url": "https://open.spotify.com/track/036ARyk2seExNK6AR0sxWK"
+    },
+    {
+      "album": {
+        "name": "Emas Didi Kempot Yen Ing Tawang",
+        "url": "https://open.spotify.com/album/5AtrWohkzLw7bqiyuQutt1"
+      },
+      "artists": [
+        {
+          "name": "Didi Kempot",
+          "url": "https://open.spotify.com/artist/0obaLCCWO42LOegAmHhEC4"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Yen Ing Tawang",
+      "url": "https://open.spotify.com/track/6lUr62TwZQX2IjE6bgwsIi"
+    },
+    {
+      "album": {
+        "name": "Album Emas Pop Jawa WALDJINAH Vol. 1",
+        "url": "https://open.spotify.com/album/3f8EroNL1dc01rF1bcenF9"
+      },
+      "artists": [
+        {
+          "name": "Waldjinah",
+          "url": "https://open.spotify.com/artist/5YT20xTlcZCBOKpJ0qaceh"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302533,
+      "name": "Yen Ing Tawang Ana Lintang",
+      "url": "https://open.spotify.com/track/5xb4N5tuOUiMUKBpXjz24L"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWGlTStsnvnj"
 }

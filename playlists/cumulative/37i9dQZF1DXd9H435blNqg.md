@@ -4,7 +4,7 @@
 
 > A different shade of the blues\. Cover: Dan Auerbach
 
-140 songs - 7 hr 47 min
+141 songs - 7 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Howlin'](https://open.spotify.com/track/19nbRiVVV1nsBlpUmP1Hzp) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Howlin’](https://open.spotify.com/album/7brvYKnu3a0WFQe1F2cPgd) | 2:56 | 2021-02-12 | 2023-12-09 |
 | [I See Myself](https://open.spotify.com/track/4TPEq6x5AKefHfLyyyfEu5) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [I See Myself](https://open.spotify.com/album/5ojArqyhIj2WI9z4TBuCgL) | 3:00 | 2023-06-23 |  |
 | [I Wish I Was An Angel](https://open.spotify.com/track/0pVOOew4ywu5YFAbPh7Jfy) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [I Wish I Was An Angel](https://open.spotify.com/album/5j0UDDZFEfwb3hxAOSdYX6) | 2:22 | 2023-09-22 | 2023-12-17 |
-| [I Wish I Was An Angel](https://open.spotify.com/track/2Efifc8Ly5EZTt8Dvk7M3A) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 2:22 | 2023-09-22 |  |
+| [I Wish I Was An Angel](https://open.spotify.com/track/2Efifc8Ly5EZTt8Dvk7M3A) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Howl \(Eagle Rock Version\)](https://open.spotify.com/album/35YxutyHWXk63G3XzauIl0) | 2:22 | 2023-09-22 | 2024-01-13 |
 | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/track/2ZagwBX7kXRGC767ZVBt0H) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13), [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Tarriona 'Tank' Ball](https://open.spotify.com/artist/5XcCraRoLy8cGR4zLJ2JGN) | [I'm so Happy I Cry \(feat\. Tank\)](https://open.spotify.com/album/3QxSxnvXPvwjXM5jAYw4hC) | 3:24 | 2021-02-12 |  |
 | [In the Middle](https://open.spotify.com/track/2QSeOYAeexi7ZxVqlEFGE8) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/1fUWSMrv1jZ7AxOsslJhQX) | 3:34 | 2021-02-12 | 2023-08-31 |
 | [In the Middle](https://open.spotify.com/track/3IX0msf7S9YSOISmcHzttc) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In the Middle](https://open.spotify.com/album/6bcxjiyh1HDJOB83TmpRir) | 3:37 | 2022-08-31 |  |
@@ -131,6 +131,7 @@
 | [The Day Took My Sunshine Away](https://open.spotify.com/track/5ZAhCwTNmmcQTFB6GX1DCR) | [Howlin' Sun](https://open.spotify.com/artist/4BH1zbJ2HjPh8g3yrUEcTw) | [Howlin' Sun](https://open.spotify.com/album/2lWyPYPhVuPEd0fOTRHUwS) | 3:01 | 2021-02-12 |  |
 | [The Drop](https://open.spotify.com/track/4QDU4Wr9Jp0CRV2SaslhGv) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:16 | 2021-02-12 | 2023-06-24 |
 | [The Juice \(feat\. Marcus King\)](https://open.spotify.com/track/3NQ0Q9VSHzSwwlzFBey6QY) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [The Juice](https://open.spotify.com/album/66glD8iZgTv1vKXZRGQWXL) | 3:07 | 2021-02-12 | 2023-09-26 |
+| [The Streets](https://open.spotify.com/track/5NawOYMMhBtYX5zv1Fea8O) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [The Streets](https://open.spotify.com/album/5tjucbZZ4HhSKF5LPtfF0x) | 2:43 | 2024-01-12 |  |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/078Ubk0ej7JTAph4R6NZbJ) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Sand Castles](https://open.spotify.com/album/2jxO3hbH29uTJiGWx7BOpr) | 2:49 | 2022-02-25 |  |
 | [Them That Matter Don't Mind](https://open.spotify.com/track/4MkZfEypSZvaODh7OKhKLK) | [Rehab](https://open.spotify.com/artist/1qh1aHXy7LRcb7eyriuJTS) | [Them That Matter Don't Mind](https://open.spotify.com/album/7M77ODabY87tVTnfnPLscn) | 2:49 | 2022-02-25 | 2022-07-29 |
 | [Thinking 'Bout Myself \- Bluesfest Studio Sessions](https://open.spotify.com/track/08VaEnrwq3FjT6VqWCRipZ) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY) | [The Bluesfest Studio Sessions](https://open.spotify.com/album/3cEaIQqDr4q8Y3hluMRXmA) | 2:56 | 2023-11-17 |  |

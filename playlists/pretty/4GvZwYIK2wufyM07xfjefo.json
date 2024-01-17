@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "NjcyLDA3M2VjMWU5N2RmN2ZiZGU4MWJmYjUyM2NlMjk3MThjYmZlZDQ5NTA=",
+  "snapshot_id": "Njc5LDk4YzdjNzEzOTkzYjYxZTA4OWU0MWQzYjMwODIzMzA3N2Q2MmUwMmY=",
   "tracks": [
+    {
+      "added_at": "2024-01-16 07:17:28",
+      "album": {
+        "name": "\u30d4\u30a2\u30ce\u306e\u8a69",
+        "url": "https://open.spotify.com/album/4VgZGcZwVV1UJSgHQAhQfS"
+      },
+      "artists": [
+        {
+          "name": "\u305f\u304b\u3074\u3043",
+          "url": "https://open.spotify.com/artist/10JYeaYHS7K34njKOD8Baa"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "duration_ms": 221430,
+      "name": "\u30d4\u30a2\u30ce\u306e\u8a69 (feat. \u82b1\u9688\u5343\u51ac)",
+      "url": "https://open.spotify.com/track/5xb81QLvP5JQPWatNOaYU9"
+    },
+    {
+      "added_at": "2024-01-16 07:17:46",
+      "album": {
+        "name": "\u5883\u754c",
+        "url": "https://open.spotify.com/album/283RDmW4zHtiEnfYkaGcTh"
+      },
+      "artists": [
+        {
+          "name": "Adomiori",
+          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
+        },
+        {
+          "name": "\u97f3\u8857\u30a6\u30ca",
+          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
+        }
+      ],
+      "duration_ms": 301868,
+      "name": "\u3088\u308f\u3080\u3057\u3068\u304b\u3052\u306e\u30d5\u30ec\u30fc\u30ec (feat. \u97f3\u8857\u30a6\u30ca)",
+      "url": "https://open.spotify.com/track/28dOFnXc4oLSOA6g5KsHe7"
+    },
+    {
+      "added_at": "2024-01-16 07:18:19",
+      "album": {
+        "name": "\u8679\u306e\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/3039O8YC6PDmuLg9oswEfg"
+      },
+      "artists": [
+        {
+          "name": "\u3066\u3043\u3042\u3089",
+          "url": "https://open.spotify.com/artist/0zw6SLCclosButXipEFrRr"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 257083,
+      "name": "\u8679\u306e\u5f7c\u65b9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6e4D9spzwr9rA55fyKU0jR"
+    },
+    {
+      "added_at": "2024-01-16 07:18:39",
+      "album": {
+        "name": "Purification",
+        "url": "https://open.spotify.com/album/2mX44ObvH2lm03vn0nlTXG"
+      },
+      "artists": [
+        {
+          "name": "okameP",
+          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
+        }
+      ],
+      "duration_ms": 426666,
+      "name": "Kyrie eleison - remind",
+      "url": "https://open.spotify.com/track/5wECKiOZyhKpgtUAPvqe7s"
+    },
+    {
+      "added_at": "2024-01-16 07:19:01",
+      "album": {
+        "name": "A Brief History of Us",
+        "url": "https://open.spotify.com/album/1jL0XxHhRsf0LJafJ6ZerH"
+      },
+      "artists": [
+        {
+          "name": "ryuryu",
+          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 366164,
+      "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/42BYRpjzOnxnlbqjdMZ9fo"
+    },
     {
       "added_at": "2023-12-26 09:06:16",
       "album": {
@@ -627,90 +723,6 @@
       "duration_ms": 270544,
       "name": "\u30a4\u30ed\u30cf\u30e2\u30df\u30b8",
       "url": "https://open.spotify.com/track/4ucFS7AjNRpyDFtxfGWUSk"
-    },
-    {
-      "added_at": "2023-10-31 03:37:40",
-      "album": {
-        "name": "Michinori",
-        "url": "https://open.spotify.com/album/3yBLiyl3uujxNtEchfDJk3"
-      },
-      "artists": [
-        {
-          "name": "\u3054\u30fc\u3076\u3059",
-          "url": "https://open.spotify.com/artist/5lKriRq41PGgbrOzMyAInY"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 181521,
-      "name": "+-0 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6bZr0T0xLIPXeYPJmcbWUR"
-    },
-    {
-      "added_at": "2023-10-31 03:38:01",
-      "album": {
-        "name": "FLOCCINAUCINIHILIPILIFICATION / NJ",
-        "url": "https://open.spotify.com/album/0YkMGFdZpxAv32q6VKqDay"
-      },
-      "artists": [
-        {
-          "name": "ep0d",
-          "url": "https://open.spotify.com/artist/65YT0U6u3xEz3hxyxzMFsg"
-        }
-      ],
-      "duration_ms": 201999,
-      "name": "NJ",
-      "url": "https://open.spotify.com/track/5yrNyy7pbyUPq0EE6gEPGU"
-    },
-    {
-      "added_at": "2023-10-31 03:39:35",
-      "album": {
-        "name": "Sign ep",
-        "url": "https://open.spotify.com/album/6qbtwBAzI2bSRwhMVwVojT"
-      },
-      "artists": [
-        {
-          "name": "yuxuki waga",
-          "url": "https://open.spotify.com/artist/3Oy0ciuDs6ZuM13RtATkol"
-        }
-      ],
-      "duration_ms": 358000,
-      "name": "Soda (in between days)",
-      "url": "https://open.spotify.com/track/0R0KXE4Zr29pfA7ZWYMb9m"
-    },
-    {
-      "added_at": "2023-10-31 03:39:52",
-      "album": {
-        "name": "\u82b1\u7269\u8a9e",
-        "url": "https://open.spotify.com/album/6XyBkbQxFnZ64O1N3djlUd"
-      },
-      "artists": [
-        {
-          "name": "KnuthP",
-          "url": "https://open.spotify.com/artist/3GKlm6IOtBizCFjH0LNzWu"
-        }
-      ],
-      "duration_ms": 261939,
-      "name": "\u82b1\u7269\u8a9e",
-      "url": "https://open.spotify.com/track/4eakW25kb1w6klr6ANNEux"
-    },
-    {
-      "added_at": "2023-10-31 03:42:47",
-      "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ad9uS3CI1YWWGUftRL11i"
-      },
-      "artists": [
-        {
-          "name": "Chiquewa",
-          "url": "https://open.spotify.com/artist/3elqV3RHoG9CYFJAw7DeVL"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "\u6cea",
-      "url": "https://open.spotify.com/track/23psgaA4No7GwdEyD6bPyr"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

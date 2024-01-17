@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2peJPuYDQJMsmEpjqMALnl.md) - [plain]
 
 > A classic playlist full of favorites of the 80s!
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 344,228 likes - 69 songs - 4 hr 45 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 335,294 likes - 69 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

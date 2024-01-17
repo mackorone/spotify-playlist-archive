@@ -722,7 +722,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 163893,
       "name": "Breakdown",
       "url": "https://open.spotify.com/track/5x53pbGk6sbl1BGom19QQ5"
@@ -2483,6 +2483,28 @@
     },
     {
       "album": {
+        "name": "Just Another Rainbow",
+        "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336218,
+      "name": "Just Another Rainbow",
+      "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "album": {
         "name": "The Essential Ted Nugent",
         "url": "https://open.spotify.com/album/0n5v0O4M1D6Cw5d4KZb5mQ"
       },
@@ -3182,7 +3204,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 258973,
       "name": "My Hero",
       "url": "https://open.spotify.com/track/7u5dBtASrtOuBTTZjJrvuJ"
@@ -3600,7 +3622,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 228406,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
@@ -3654,7 +3676,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 316717,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS"
@@ -5396,6 +5418,24 @@
       "duration_ms": 223546,
       "name": "Wall of Glass",
       "url": "https://open.spotify.com/track/3eqhMltljpvMkVNUbAHyQI"
+    },
+    {
+      "album": {
+        "name": "Wanting and Waiting",
+        "url": "https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255560,
+      "name": "Wanting and Waiting",
+      "url": "https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj"
     },
     {
       "album": {

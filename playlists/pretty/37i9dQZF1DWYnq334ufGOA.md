@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 
 > Celebrating the women who shaped electronic music to its current incarnation\. Cover: Wendy Carlos
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,513 likes - 48 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,470 likes - 48 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYnq334ufGOA.md) - [plain]
 | 36 | [Safed \- 1967; Institute of Sonology](https://open.spotify.com/track/7hhhFEsPz9InY63Hlv57M6) | [Tera de Marez Oyens](https://open.spotify.com/artist/5fhR1ilYTVgR1EjqTgvLHm) | [Anthology of Dutch Electronic Tape Music Vol\. 2 \- 1966\-1977](https://open.spotify.com/album/4Lv3H6ySEVvu8e9pC0jZXw) | 7:39 |
 | 37 | [Syrinx](https://open.spotify.com/track/06eSnB7R0JhrwYB4T6Yh9p) | [Ann McMillan](https://open.spotify.com/artist/3nkJlJgyyAaAt65HiVd5sn) | [Gateway Summer Sound: Abstracted Animal and Other Sounds](https://open.spotify.com/album/03fcPtUqa1l0m93RRt6kt4) | 4:37 |
 | 38 | [Terminus](https://open.spotify.com/track/23rTRfyZSCbZP7z5sAHE0Y) | [Jean Eichelberger Ivey](https://open.spotify.com/artist/2TvfvYWGY6crXjGEYU1XmA) | [Music by Jean Eichelberger Ivey for Voices, Instruments and Tape](https://open.spotify.com/album/3RV19vJcXdLXI57sqvGzLe) | 9:48 |
-| 39 | [Novus Pt\. 1: Soul's Journey](https://open.spotify.com/track/7ryUfJfr9GehdSJrTTybbC) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/5qvqdmI2weOLkMU4fyuoxB) | 6:51 |
+| 39 | [Novus Pt\. 1: Soul's Journey](https://open.spotify.com/track/06xEke6qRCcYRRbEkFoYvh) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Novus Magnificat \(Alternate Version\)](https://open.spotify.com/album/2MZbpYRRu5BhPIEPA2Gd8L) | 6:51 |
 | 40 | [Study for Voice and Tape](https://open.spotify.com/track/7vrvKZU7gsRgh3yMBr07OY) | [Alice Shields](https://open.spotify.com/artist/60dHuhMXgrJgD1ZXrDf0ff) | [Columbia\-Princeton Electronic Music Center 1961\-1973](https://open.spotify.com/album/2G4IrmveiWoH0yMAZDPfbe) | 5:17 |
 | 41 | [Eclipse](https://open.spotify.com/track/2cPYANA6HGTOyYdLYoQjqo) | [Pril Smiley](https://open.spotify.com/artist/7z3zG5dWWjAgDd5NMDh3Sy) | [Electronic Music 1967](https://open.spotify.com/album/3sH2QZehoq1FOFAB2L2AmF) | 7:55 |
 | 42 | [Excerpt from Stain \- The Music Rooms \- Live Version](https://open.spotify.com/track/0VbIwUl22NcbovAN43hEc2) | [Maryanne Amacher](https://open.spotify.com/artist/1xjZbUHqwdtYlK0Tc8rAag) | [Imaginary Landscapes: New Electronic Music](https://open.spotify.com/album/7uVH3k1UYqWFpn96M2Vn89) | 4:03 |

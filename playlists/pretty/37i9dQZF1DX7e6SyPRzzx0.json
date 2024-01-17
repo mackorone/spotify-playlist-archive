@@ -1,13 +1,37 @@
 {
   "description": "Open that sh*t up! ",
-  "num_followers": 48848,
+  "num_followers": 50217,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQxOTZkYjkxOWJjZGFmOTdhOTY5NTVlNTdmNjhmODcxOWMyNjE0",
+  "snapshot_id": "MCxkYTRjYWZiZjY5YjAzY2E0ZGU1MzU3NDQxODc3M2Y1OTFjOTU3NDM4",
   "tracks": [
+    {
+      "added_at": "2024-01-05 16:31:42",
+      "album": {
+        "name": "SONY",
+        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
+      },
+      "artists": [
+        {
+          "name": "Ufo361",
+          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
+        },
+        {
+          "name": "lucidbeatz",
+          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 130136,
+      "name": "RICK OWENS (feat. Ken Carson)",
+      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
+    },
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
@@ -51,22 +75,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150401,
-      "name": "Fighting My Demons",
-      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -79,6 +87,22 @@
       "duration_ms": 97769,
       "name": "Spin Again",
       "url": "https://open.spotify.com/track/1pDbGAAH5GQ8U0KG4fI77H"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150401,
+      "name": "Fighting My Demons",
+      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -181,20 +205,24 @@
       "url": "https://open.spotify.com/track/6GNG0YQixWuLE0M5FtrRxY"
     },
     {
-      "added_at": "2023-12-01 03:00:00",
+      "added_at": "2024-01-12 05:00:00",
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+        "name": "Lyfe - Instrumental",
+        "url": "https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5"
       },
       "artists": [
         {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+          "name": "teefaygoo",
+          "url": "https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV"
+        },
+        {
+          "name": "prodbysky",
+          "url": "https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh"
         }
       ],
-      "duration_ms": 135122,
-      "name": "ILoveUIHateU",
-      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
+      "duration_ms": 175716,
+      "name": "Lyfe",
+      "url": "https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -263,6 +291,22 @@
       "duration_ms": 124093,
       "name": "Vamp Anthem",
       "url": "https://open.spotify.com/track/4CzhtKifG867Lu5DNQVBSA"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 135122,
+      "name": "ILoveUIHateU",
+      "url": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -585,22 +629,6 @@
       "url": "https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn"
     },
     {
-      "added_at": "2023-12-18 16:10:48",
-      "album": {
-        "name": "Ghetto Fabulous",
-        "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
-      },
-      "artists": [
-        {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
-        }
-      ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C"
-    },
-    {
       "added_at": "2023-12-01 03:00:00",
       "album": {
         "name": "22Joeyy",
@@ -827,22 +855,6 @@
       "duration_ms": 192114,
       "name": "off the leash! (feat. yvngxchris and Luisss)",
       "url": "https://open.spotify.com/track/6x3BWyMi95035qz5pB8snv"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "on dat shit",
-        "url": "https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE"
-      },
-      "artists": [
-        {
-          "name": "Highway",
-          "url": "https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej"
-        }
-      ],
-      "duration_ms": 178496,
-      "name": "on dat shit",
-      "url": "https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h"
     },
     {
       "added_at": "2023-12-01 03:00:00",

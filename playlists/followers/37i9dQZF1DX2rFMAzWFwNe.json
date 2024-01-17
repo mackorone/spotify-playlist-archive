@@ -1,577 +1,2947 @@
 {
-  "2022-06-02": 1186040,
-  "2022-06-03": 1186329,
-  "2022-06-04": 1186659,
-  "2022-06-05": 1187059,
-  "2022-06-06": 1187354,
-  "2022-06-07": 1187585,
-  "2022-06-08": 1187953,
-  "2022-06-09": 1188156,
-  "2022-06-10": 1188455,
-  "2022-06-11": 1188822,
-  "2022-06-12": 1189248,
-  "2022-06-13": 1189585,
-  "2022-06-14": 1189854,
-  "2022-06-15": 1190114,
-  "2022-06-16": 1190389,
-  "2022-06-17": 1190647,
-  "2022-06-18": 1190981,
-  "2022-06-19": 1191649,
-  "2022-06-20": 1191649,
-  "2022-06-21": 1191912,
-  "2022-06-22": 1192533,
-  "2022-06-23": 1192533,
-  "2022-06-24": 1192881,
-  "2022-06-25": 1193223,
-  "2022-06-26": 1193593,
-  "2022-06-27": 1193891,
-  "2022-06-28": 1194146,
-  "2022-06-29": 1194356,
-  "2022-06-30": 1194610,
-  "2022-07-01": 1194944,
-  "2022-07-02": 1195248,
-  "2022-07-03": 1195709,
-  "2022-07-04": 1196087,
-  "2022-07-05": 1196378,
-  "2022-07-06": 1196671,
-  "2022-07-07": 1196943,
-  "2022-07-08": 1197289,
-  "2022-07-09": 1197629,
-  "2022-07-10": 1198008,
-  "2022-07-11": 1198384,
-  "2022-07-12": 1198654,
-  "2022-07-13": 1198886,
-  "2022-07-14": 1199189,
-  "2022-07-15": 1199477,
-  "2022-07-16": 1199761,
-  "2022-07-17": 1200129,
-  "2022-07-18": 1200473,
-  "2022-07-19": 1200745,
-  "2022-07-20": 1201033,
-  "2022-07-21": 1201332,
-  "2022-07-22": 1201641,
-  "2022-07-23": 1201989,
-  "2022-07-24": 1202378,
-  "2022-07-25": 1202686,
-  "2022-07-26": 1202924,
-  "2022-07-27": 1203220,
-  "2022-07-28": 1203535,
-  "2022-07-29": 1203832,
-  "2022-07-30": 1204596,
-  "2022-07-31": 1204596,
-  "2022-08-01": 1204953,
-  "2022-08-02": 1205526,
-  "2022-08-03": 1205526,
-  "2022-08-04": 1205835,
-  "2022-08-05": 1206121,
-  "2022-08-06": 1206456,
-  "2022-08-07": 1206852,
-  "2022-08-08": 1207164,
-  "2022-08-09": 1207427,
-  "2022-08-10": 1207729,
-  "2022-08-11": 1207975,
-  "2022-08-12": 1208292,
-  "2022-08-13": 1208560,
-  "2022-08-14": 1208874,
-  "2022-08-15": 1209148,
-  "2022-08-16": 1209369,
-  "2022-08-17": 1209613,
-  "2022-08-18": 1209874,
-  "2022-08-19": 1210121,
-  "2022-08-20": 1210397,
-  "2022-08-21": 1210681,
-  "2022-08-22": 1211002,
-  "2022-08-23": 1211213,
-  "2022-08-24": 1211446,
-  "2022-08-25": 1211662,
-  "2022-08-26": 1211901,
-  "2022-08-27": 1212205,
-  "2022-08-28": 1212502,
-  "2022-08-29": 1212786,
-  "2022-08-30": 1213010,
-  "2022-08-31": 1213315,
-  "2022-09-01": 1213590,
-  "2022-09-02": 1213887,
-  "2022-09-03": 1214183,
-  "2022-09-04": 1214503,
-  "2022-09-05": 1214789,
-  "2022-09-06": 1215016,
-  "2022-09-07": 1215225,
-  "2022-09-09": 1215720,
-  "2022-09-10": 1216007,
-  "2022-09-11": 1216326,
-  "2022-09-12": 1216590,
-  "2022-09-13": 1216780,
-  "2022-09-15": 1217202,
-  "2022-09-16": 1217518,
-  "2022-09-17": 1217804,
-  "2022-09-18": 1218079,
-  "2022-09-19": 1218288,
-  "2022-09-20": 1218462,
-  "2022-09-21": 1218683,
-  "2022-09-22": 1218922,
-  "2022-09-23": 1219185,
-  "2022-09-24": 1219464,
-  "2022-09-25": 1219740,
-  "2022-09-26": 1220041,
-  "2022-09-27": 1220304,
-  "2022-09-28": 1220586,
-  "2022-09-29": 1220868,
-  "2022-09-30": 1221173,
-  "2022-10-01": 1221497,
-  "2022-10-02": 1221849,
-  "2022-10-03": 1222150,
-  "2022-10-04": 1222422,
-  "2022-10-05": 1222700,
-  "2022-10-06": 1222959,
-  "2022-10-07": 1223237,
-  "2022-10-08": 1223573,
-  "2022-10-09": 1224107,
-  "2022-10-10": 1224190,
-  "2022-10-11": 1224435,
-  "2022-10-12": 1224700,
-  "2022-10-13": 1224976,
-  "2022-10-14": 1225248,
-  "2022-10-15": 1225603,
-  "2022-10-16": 1225963,
-  "2022-10-17": 1226260,
-  "2022-10-18": 1226519,
-  "2022-10-19": 1226845,
-  "2022-10-20": 1227136,
-  "2022-10-21": 1227458,
-  "2022-10-22": 1227945,
-  "2022-10-23": 1228349,
-  "2022-10-24": 1228711,
-  "2022-10-25": 1229045,
-  "2022-10-26": 1229385,
-  "2022-10-27": 1229708,
-  "2022-10-28": 1230018,
-  "2022-10-29": 1230347,
-  "2022-10-30": 1230690,
-  "2022-10-31": 1231001,
-  "2022-11-01": 1231248,
-  "2022-11-02": 1231564,
-  "2022-11-03": 1231859,
-  "2022-11-04": 1232174,
-  "2022-11-05": 1232492,
-  "2022-11-06": 1232800,
-  "2022-11-07": 1233087,
-  "2022-11-08": 1233386,
-  "2022-11-09": 1233684,
-  "2022-11-10": 1233997,
-  "2022-11-11": 1234337,
-  "2022-11-12": 1234769,
-  "2022-11-13": 1235099,
-  "2022-11-14": 1235417,
-  "2022-11-15": 1235694,
-  "2022-11-16": 1236003,
-  "2022-11-17": 1236293,
-  "2022-11-18": 1236372,
-  "2022-11-19": 1236249,
-  "2022-11-20": 1236697,
-  "2022-11-21": 1236577,
-  "2022-11-22": 1237347,
-  "2022-11-23": 1237242,
-  "2022-11-24": 1238049,
-  "2022-11-25": 1238496,
-  "2022-11-26": 1238802,
-  "2022-11-27": 1239086,
-  "2022-11-28": 1239360,
-  "2022-11-29": 1239600,
-  "2022-11-30": 1239879,
-  "2022-12-01": 1240102,
-  "2022-12-02": 1240270,
-  "2022-12-03": 1240724,
-  "2022-12-04": 1241080,
-  "2022-12-05": 1241433,
-  "2022-12-06": 1241655,
-  "2022-12-07": 1241973,
-  "2022-12-08": 1242247,
-  "2022-12-09": 1242654,
-  "2022-12-10": 1243027,
-  "2022-12-11": 1243343,
-  "2022-12-12": 1243676,
-  "2022-12-13": 1243930,
-  "2022-12-14": 1244176,
-  "2022-12-15": 1244419,
-  "2022-12-16": 1244693,
-  "2022-12-17": 1244947,
-  "2022-12-18": 1245213,
-  "2022-12-19": 1245455,
-  "2022-12-20": 1245876,
-  "2022-12-21": 1245876,
-  "2022-12-22": 1246095,
-  "2022-12-24": 1246689,
-  "2022-12-25": 1246979,
-  "2022-12-26": 1247255,
-  "2022-12-27": 1247448,
-  "2022-12-28": 1247695,
-  "2022-12-29": 1247936,
-  "2022-12-30": 1248183,
-  "2022-12-31": 1248526,
-  "2023-01-01": 1248847,
-  "2023-01-02": 1249191,
-  "2023-01-03": 1249384,
-  "2023-01-04": 1249603,
-  "2023-01-05": 1249796,
-  "2023-01-06": 1250049,
-  "2023-01-07": 1250377,
-  "2023-01-08": 1250459,
-  "2023-01-09": 1250728,
-  "2023-01-10": 1250927,
-  "2023-01-11": 1251130,
-  "2023-01-12": 1251336,
-  "2023-01-13": 1251549,
-  "2023-01-14": 1251936,
-  "2023-01-15": 1252016,
-  "2023-01-16": 1252217,
-  "2023-01-17": 1252367,
-  "2023-01-18": 1252548,
-  "2023-01-19": 1252738,
-  "2023-01-20": 1252928,
-  "2023-01-21": 1253134,
-  "2023-01-22": 1253395,
-  "2023-01-23": 1253644,
-  "2023-01-24": 1253871,
-  "2023-01-25": 1254058,
-  "2023-01-26": 1254206,
-  "2023-01-27": 1254416,
-  "2023-01-28": 1254680,
-  "2023-01-29": 1254964,
-  "2023-01-30": 1255210,
-  "2023-01-31": 1255210,
-  "2023-02-01": 1255719,
-  "2023-02-02": 1255970,
-  "2023-02-03": 1256254,
-  "2023-02-04": 1256553,
-  "2023-02-05": 1256847,
-  "2023-02-06": 1257172,
-  "2023-02-07": 1257443,
-  "2023-02-08": 1257922,
-  "2023-02-09": 1257922,
-  "2023-02-10": 1258159,
-  "2023-02-11": 1258434,
-  "2023-02-12": 1258967,
-  "2023-02-13": 1259180,
-  "2023-02-14": 1259180,
-  "2023-02-15": 1259393,
-  "2023-02-16": 1259620,
-  "2023-02-17": 1259893,
-  "2023-02-18": 1260460,
-  "2023-02-19": 1260542,
-  "2023-02-20": 1260757,
-  "2023-02-21": 1261023,
-  "2023-02-22": 1261326,
-  "2023-02-23": 1261649,
-  "2023-02-24": 1261962,
-  "2023-02-25": 1262371,
-  "2023-02-26": 1262657,
-  "2023-02-27": 1263248,
-  "2023-02-28": 1263248,
-  "2023-03-01": 1263513,
-  "2023-03-02": 1263801,
-  "2023-03-03": 1264109,
-  "2023-03-04": 1264326,
-  "2023-03-05": 1264985,
-  "2023-03-06": 1264985,
-  "2023-03-07": 1265237,
-  "2023-03-08": 1265466,
-  "2023-03-09": 1265684,
-  "2023-03-10": 1265933,
-  "2023-03-11": 1266160,
-  "2023-03-12": 1266438,
-  "2023-03-13": 1266703,
-  "2023-03-14": 1266913,
-  "2023-03-15": 1267140,
-  "2023-03-16": 1267419,
-  "2023-03-17": 1267419,
-  "2023-03-18": 1268060,
-  "2023-03-19": 1268393,
-  "2023-03-20": 1268698,
-  "2023-03-21": 1268942,
-  "2023-03-22": 1269168,
-  "2023-03-23": 1269459,
-  "2023-03-24": 1269459,
-  "2023-03-25": 1269947,
-  "2023-03-26": 1270308,
-  "2023-03-27": 1270612,
-  "2023-03-28": 1270861,
-  "2023-03-29": 1271210,
-  "2023-03-30": 1271720,
-  "2023-03-31": 1271720,
-  "2023-04-01": 1272009,
-  "2023-04-02": 1272400,
-  "2023-04-03": 1272755,
-  "2023-04-04": 1273091,
-  "2023-04-05": 1273395,
-  "2023-04-06": 1273726,
-  "2023-04-07": 1274096,
-  "2023-04-09": 1274690,
-  "2023-04-10": 1274911,
-  "2023-04-11": 1275431,
-  "2023-04-12": 1275431,
-  "2023-04-13": 1275715,
-  "2023-04-14": 1276016,
-  "2023-04-15": 1276298,
-  "2023-04-16": 1276628,
-  "2023-04-17": 1276898,
-  "2023-04-18": 1277129,
-  "2023-04-19": 1277370,
-  "2023-04-20": 1277642,
-  "2023-04-21": 1277917,
-  "2023-04-22": 1278200,
-  "2023-04-23": 1278507,
-  "2023-04-24": 1278753,
-  "2023-04-25": 1279009,
-  "2023-04-26": 1279254,
-  "2023-04-27": 1279540,
-  "2023-04-28": 1279812,
-  "2023-04-29": 1280121,
-  "2023-04-30": 1280434,
-  "2023-05-01": 1280695,
-  "2023-05-02": 1280967,
-  "2023-05-03": 1281201,
-  "2023-05-04": 1281457,
-  "2023-05-05": 1281721,
-  "2023-05-06": 1282064,
-  "2023-05-07": 1282427,
-  "2023-05-08": 1282693,
-  "2023-05-09": 1282961,
-  "2023-05-10": 1283200,
-  "2023-05-11": 1283458,
-  "2023-05-12": 1283724,
-  "2023-05-13": 1284042,
-  "2023-05-14": 1284395,
-  "2023-05-15": 1284741,
-  "2023-05-16": 1284975,
-  "2023-05-17": 1285209,
-  "2023-05-18": 1285475,
-  "2023-05-19": 1285771,
-  "2023-05-20": 1286405,
-  "2023-05-21": 1286405,
-  "2023-05-22": 1286405,
-  "2023-05-23": 1286956,
-  "2023-05-24": 1287425,
-  "2023-05-25": 1287491,
-  "2023-05-26": 1287787,
-  "2023-05-27": 1288027,
-  "2023-05-28": 1288333,
-  "2023-05-29": 1288333,
-  "2023-05-30": 1288757,
-  "2023-05-31": 1288970,
-  "2023-06-01": 1289224,
-  "2023-06-02": 1289457,
-  "2023-06-03": 1289763,
-  "2023-06-04": 1290054,
-  "2023-06-05": 1290334,
-  "2023-06-06": 1290547,
-  "2023-06-07": 1290754,
-  "2023-06-08": 1290985,
-  "2023-06-09": 1291224,
-  "2023-06-10": 1291504,
-  "2023-06-11": 1291796,
-  "2023-06-12": 1292036,
-  "2023-06-13": 1292238,
-  "2023-06-14": 1292289,
-  "2023-06-15": 1292434,
-  "2023-06-16": 265351,
-  "2023-06-17": 265351,
-  "2023-06-18": 265351,
-  "2023-06-19": 265351,
-  "2023-06-20": 265351,
-  "2023-06-21": 265351,
-  "2023-06-22": 265351,
-  "2023-06-23": 265351,
-  "2023-06-24": 265351,
-  "2023-06-25": 265351,
-  "2023-06-26": 265351,
-  "2023-06-27": 265351,
-  "2023-06-28": 265351,
-  "2023-06-29": 265351,
-  "2023-06-30": 265351,
-  "2023-07-01": 265351,
-  "2023-07-02": 265351,
-  "2023-07-03": 265351,
-  "2023-07-04": 265351,
-  "2023-07-05": 265351,
-  "2023-07-06": 265351,
-  "2023-07-07": 265351,
-  "2023-07-08": 265351,
-  "2023-07-09": 265351,
-  "2023-07-10": 265351,
-  "2023-07-11": 265351,
-  "2023-07-12": 265351,
-  "2023-07-13": 265351,
-  "2023-07-14": 265351,
-  "2023-07-15": 265351,
-  "2023-07-16": 265351,
-  "2023-07-17": 265351,
-  "2023-07-18": 265351,
-  "2023-07-19": 265351,
-  "2023-07-20": 265351,
-  "2023-07-21": 265351,
-  "2023-07-22": 265351,
-  "2023-07-23": 265351,
-  "2023-07-24": 265351,
-  "2023-07-25": 265351,
-  "2023-07-26": 265351,
-  "2023-07-27": 265351,
-  "2023-07-28": 265351,
-  "2023-07-29": 265351,
-  "2023-07-30": 265351,
-  "2023-07-31": 265351,
-  "2023-08-01": 265351,
-  "2023-08-02": 265351,
-  "2023-08-03": 265351,
-  "2023-08-04": 265351,
-  "2023-08-05": 265351,
-  "2023-08-06": 265351,
-  "2023-08-07": 265351,
-  "2023-08-08": 265351,
-  "2023-08-09": 265351,
-  "2023-08-10": 265351,
-  "2023-08-11": 265351,
-  "2023-08-12": 265351,
-  "2023-08-13": 265351,
-  "2023-08-14": 265351,
-  "2023-08-15": 265351,
-  "2023-08-16": 265351,
-  "2023-08-17": 265351,
-  "2023-08-18": 265351,
-  "2023-08-19": 265351,
-  "2023-08-20": 265351,
-  "2023-08-21": 265351,
-  "2023-08-22": 265351,
-  "2023-08-23": 265351,
-  "2023-08-24": 265351,
-  "2023-08-25": 265351,
-  "2023-08-26": 265351,
-  "2023-08-27": 265351,
-  "2023-08-28": 265351,
-  "2023-08-29": 265351,
-  "2023-08-30": 265351,
-  "2023-08-31": 265351,
-  "2023-09-01": 265351,
-  "2023-09-02": 265351,
-  "2023-09-03": 265351,
-  "2023-09-04": 265351,
-  "2023-09-05": 265351,
-  "2023-09-06": 265351,
-  "2023-09-07": 265351,
-  "2023-09-08": 265351,
-  "2023-09-09": 265351,
-  "2023-09-10": 265351,
-  "2023-09-11": 265351,
-  "2023-09-12": 265351,
-  "2023-09-13": 265351,
-  "2023-09-14": 265351,
-  "2023-09-15": 265351,
-  "2023-09-16": 265351,
-  "2023-09-17": 265351,
-  "2023-09-18": 265351,
-  "2023-09-19": 265351,
-  "2023-09-20": 265351,
-  "2023-09-21": 265351,
-  "2023-09-22": 265351,
-  "2023-09-23": 265351,
-  "2023-09-24": 265351,
-  "2023-09-25": 265351,
-  "2023-09-26": 265351,
-  "2023-09-27": 265351,
-  "2023-09-28": 265351,
-  "2023-09-29": 265351,
-  "2023-09-30": 265351,
-  "2023-10-01": 265351,
-  "2023-10-02": 265351,
-  "2023-10-03": 265351,
-  "2023-10-04": 265351,
-  "2023-10-05": 265351,
-  "2023-10-06": 265351,
-  "2023-10-07": 265351,
-  "2023-10-08": 265351,
-  "2023-10-09": 265351,
-  "2023-10-10": 265351,
-  "2023-10-11": 265351,
-  "2023-10-12": 265351,
-  "2023-10-13": 265351,
-  "2023-10-14": 265351,
-  "2023-10-15": 265351,
-  "2023-10-16": 265351,
-  "2023-10-17": 265351,
-  "2023-10-18": 265351,
-  "2023-10-19": 265351,
-  "2023-10-20": 265351,
-  "2023-10-21": 265351,
-  "2023-10-22": 265351,
-  "2023-10-23": 265351,
-  "2023-10-24": 265351,
-  "2023-10-25": 265351,
-  "2023-10-26": 265351,
-  "2023-10-27": 265351,
-  "2023-10-28": 265351,
-  "2023-10-29": 265351,
-  "2023-10-30": 265351,
-  "2023-10-31": 265351,
-  "2023-11-01": 265351,
-  "2023-11-02": 265351,
-  "2023-11-03": 265351,
-  "2023-11-04": 265351,
-  "2023-11-05": 265351,
-  "2023-11-06": 265351,
-  "2023-11-07": 265351,
-  "2023-11-08": 265351,
-  "2023-11-09": 265351,
-  "2023-11-10": 265351,
-  "2023-11-11": 265351,
-  "2023-11-12": 265351,
-  "2023-11-13": 265351,
-  "2023-11-14": 265351,
-  "2023-11-15": 265351,
-  "2023-11-16": 265351,
-  "2023-11-17": 265351,
-  "2023-11-18": 265351,
-  "2023-11-19": 265351,
-  "2023-11-20": 265351,
-  "2023-11-21": 265351,
-  "2023-11-22": 265351,
-  "2023-11-23": 265351,
-  "2023-11-24": 265351,
-  "2023-11-25": 265351,
-  "2023-11-26": 265351,
-  "2023-11-27": 265351,
-  "2023-11-28": 265351,
-  "2023-11-29": 265351,
-  "2023-11-30": 265351,
-  "2023-12-01": 265351,
-  "2023-12-02": 265351,
-  "2023-12-03": 265351,
-  "2023-12-04": 265351,
-  "2023-12-05": 265351,
-  "2023-12-06": 265351,
-  "2023-12-07": 265351,
-  "2023-12-08": 265351,
-  "2023-12-09": 265351,
-  "2023-12-10": 265351,
-  "2023-12-11": 265351,
-  "2023-12-12": 265351,
-  "2023-12-13": 265351,
-  "2023-12-14": 265351,
-  "2023-12-15": 265351,
-  "2023-12-16": 265351,
-  "2023-12-17": 265351,
-  "2023-12-18": 265351,
-  "2023-12-19": 265351,
-  "2023-12-20": 265351,
-  "2023-12-21": 265351,
-  "2023-12-22": 265351,
-  "2023-12-23": 265351,
-  "2023-12-24": 265351,
-  "2023-12-25": 265351,
-  "2023-12-26": 265351,
-  "2023-12-27": 265351,
-  "2023-12-30": 265351,
-  "2023-12-31": 265351,
-  "2024-01-01": 265351,
-  "2024-01-02": 265351,
-  "2024-01-03": 265351
+  "2024-01-17": 265351,
+  "date_first_scraped": "2022-06-02",
+  "description": "\u00a1Y suena y suena... MS!",
+  "name": "This Is Banda MS",
+  "tracks": [
+    {
+      "album": {
+        "name": "141",
+        "url": "https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175102,
+      "name": "141",
+      "url": "https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/15uGaaM2tqSiPUIOlaZThG"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181320,
+      "name": "A Lo Mejor - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/7c35IABO5BCymbBoxpCdRD"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225960,
+      "name": "A M\u00ed Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225960,
+      "name": "A M\u00ed Me Est\u00e1 Doliendo",
+      "url": "https://open.spotify.com/track/5VZ7bLHUmR3lLvPvav0rNK"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Ah\u00ed Amarra Usted",
+      "url": "https://open.spotify.com/track/3L9wKrlj2FY6V2bJkXn3IR"
+    },
+    {
+      "album": {
+        "name": "Al Despertar (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/57s38NYjHuY9ARU6M9s7jX"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 164693,
+      "name": "Al Despertar - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4v3iVijH4Ms5xYRfjOdc5H"
+    },
+    {
+      "album": {
+        "name": "Altamente Probable",
+        "url": "https://open.spotify.com/album/5YgaW4C5RzO939vG04yBdV"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "Altamente Probable",
+      "url": "https://open.spotify.com/track/0RFxSN4HcsjQF80fkH1q78"
+    },
+    {
+      "album": {
+        "name": "Amigos \u00bfDe Qui\u00e9n?",
+        "url": "https://open.spotify.com/album/3RNl5xBdlJA02tSLV3fSeL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 165428,
+      "name": "Amigos \u00bfDe Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/472RYrDoNry11jkmJIWeat"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215106,
+      "name": "Amor Express - En Vivo",
+      "url": "https://open.spotify.com/track/5re4p4Vuou12spvIZsc91A"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Guadalajara - Monterrey",
+        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215106,
+      "name": "Amor Express - En Vivo",
+      "url": "https://open.spotify.com/track/68DF2Wut8oUQAQQLlkn50M"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Brindemos Por El Presente",
+      "url": "https://open.spotify.com/track/4HSrr2MJLMxUsbfi2jTHVN"
+    },
+    {
+      "album": {
+        "name": "Recordando",
+        "url": "https://open.spotify.com/album/2cqCq27I1OaONHlIWf99ZH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178666,
+      "name": "Cahuates Pistaches",
+      "url": "https://open.spotify.com/track/7HC1VYrZCVTfD3ixs9M7tW"
+    },
+    {
+      "album": {
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
+    },
+    {
+      "album": {
+        "name": "Unforgettable Quebradita",
+        "url": "https://open.spotify.com/album/4KA1FZmv7QkC9o4lFd5MU9"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177466,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/3GmjTmgInb123CQcIDM1VI"
+    },
+    {
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195453,
+      "name": "Cerrando Ciclos",
+      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 214773,
+      "name": "Cerrando Ciclos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/4Ms2XP93Pyq8axdnm4TOrB"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238426,
+      "name": "Como Dejo De Quererte",
+      "url": "https://open.spotify.com/track/4kWSjThlxWBli7PzGQJ3EQ"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 215386,
+      "name": "Contacto Cero - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2hckuZwyc2HffYl8FRDQVJ"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242426,
+      "name": "De Haber Sabido",
+      "url": "https://open.spotify.com/track/3Odhzg269lNP45GDxXTY8Y"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242426,
+      "name": "De Haber Sabido",
+      "url": "https://open.spotify.com/track/7KvZ3df7tZ0rKoXMZ7ntTm"
+    },
+    {
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "De Ti Enamorado",
+      "url": "https://open.spotify.com/track/3LkdhRNCXimKvOrO5vl0rC"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 131160,
+      "name": "De Una Vez",
+      "url": "https://open.spotify.com/track/6D8qailERyov9NzV2d5kwh"
+    },
+    {
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/0fK7EQycUMyl2lCiIaxltA"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196240,
+      "name": "Dos Mundos",
+      "url": "https://open.spotify.com/track/5bcwDKs6i2A4FQWRlPTvDA"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Guadalajara - Monterrey",
+        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136933,
+      "name": "El 24 - En Vivo",
+      "url": "https://open.spotify.com/track/1yxOveaYgIqumsTfb36jxO"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136933,
+      "name": "El 24 - En Vivo",
+      "url": "https://open.spotify.com/track/2LHIzZVNDkxn23ElDUI7cM"
+    },
+    {
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202560,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq"
+    },
+    {
+      "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4BvJvj4xBfkxQ1WZiO9Xdd"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245946,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/1foxMPXhpLxGJxATRl5rYg"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 253800,
+      "name": "El Color de Tus Ojos - En Vivo",
+      "url": "https://open.spotify.com/track/6cWGUGzeYFYIFOUyhBpS2C"
+    },
+    {
+      "album": {
+        "name": "El Color de Tus Ojos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230213,
+      "name": "El Color de Tus Ojos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ"
+    },
+    {
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139986,
+      "name": "El Patr\u00f3n",
+      "url": "https://open.spotify.com/track/7y8euUGZzG1E58Nt6bOKNb"
+    },
+    {
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185493,
+      "name": "El Trabajo Es La Suerte",
+      "url": "https://open.spotify.com/track/2PQcAZu2OweqjtlzuCbBoT"
+    },
+    {
+      "album": {
+        "name": "Es Tuyo Mi Amor - Single",
+        "url": "https://open.spotify.com/album/5khQ7lkhdQhJZH2IijmGij"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175000,
+      "name": "Es Tuyo Mi Amor",
+      "url": "https://open.spotify.com/track/2eW9CRtyLNhjgyLFJNHhtD"
+    },
+    {
+      "album": {
+        "name": "Es Tuyo Mi Amor",
+        "url": "https://open.spotify.com/album/6azkxP424VV5wchQ97Ufdr"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 175000,
+      "name": "Es Tuyo Mi Amor",
+      "url": "https://open.spotify.com/track/3gKm50XbXVnjJfNmCk4LZ0"
+    },
+    {
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Es Tuyo Mi Amor",
+      "url": "https://open.spotify.com/track/3Tshb8DCw7TEdnNMJc8Yuw"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145853,
+      "name": "Este Borracho",
+      "url": "https://open.spotify.com/track/0BNGiz0sIkVj1YzhWELMpd"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 145853,
+      "name": "Este Borracho",
+      "url": "https://open.spotify.com/track/4VghreA0NSTAgYWOOzpCrm"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154474,
+      "name": "Gente Mentirosa",
+      "url": "https://open.spotify.com/track/0rPXCzK5TCeqL2oliq0imp"
+    },
+    {
+      "album": {
+        "name": "Gracias a Ti",
+        "url": "https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205461,
+      "name": "Gracias a Ti",
+      "url": "https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB"
+    },
+    {
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Gracias Por Eso",
+      "url": "https://open.spotify.com/track/1KXvZAHfm7U1dnz9FhQcTm"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195320,
+      "name": "Hace Un Mes",
+      "url": "https://open.spotify.com/track/72CgVXtryN8G1i1KHxsmge"
+    },
+    {
+      "album": {
+        "name": "Hay Que Hacer Dinero",
+        "url": "https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179130,
+      "name": "Hay Que Hacer Dinero",
+      "url": "https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Ha\u0301blame De Ti",
+      "url": "https://open.spotify.com/track/1O18MtSAMUk7JfAVB8gGzs"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190773,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/4YCWsVdCoVQieev0hyeesj"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168693,
+      "name": "Incre\u00edble",
+      "url": "https://open.spotify.com/track/2vlIZuftr5G7S3VYYzxYww"
+    },
+    {
+      "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168706,
+      "name": "Incre\u00edble",
+      "url": "https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy"
+    },
+    {
+      "album": {
+        "name": "Banda #1\u00b4s 2012",
+        "url": "https://open.spotify.com/album/5o4xE2p6pLdffh5kjmyWUR"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 168733,
+      "name": "Incre\u00edble",
+      "url": "https://open.spotify.com/track/2wqnCLYHxZBpAkPEU0TC9Q"
+    },
+    {
+      "album": {
+        "name": "Jalo",
+        "url": "https://open.spotify.com/album/5ItVyjlKmm3vm9bJUBgKPc"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 145277,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7b6XzXDscAvlxofcXveZIz"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145992,
+      "name": "Jalo",
+      "url": "https://open.spotify.com/track/7MZXDizytu1Bu46s1AbN7K"
+    },
+    {
+      "album": {
+        "name": "La Amistad No Cuesta",
+        "url": "https://open.spotify.com/album/0xtfcf7tNKDoeRLHKzIp0E"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 208693,
+      "name": "La Amistad No Cuesta",
+      "url": "https://open.spotify.com/track/71K1ZMlNRkjdiqXLRNIeUB"
+    },
+    {
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217600,
+      "name": "La Casita",
+      "url": "https://open.spotify.com/track/0vtYnEw1eJwW26BrBnOAYJ"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 205400,
+      "name": "La Sacamos Del Estadio",
+      "url": "https://open.spotify.com/track/4UMEfSlU8YwRDHfXQWDYxc"
+    },
+    {
+      "album": {
+        "name": "La Sinverg\u00fcenza",
+        "url": "https://open.spotify.com/album/2KfndxPOnsZsAWAllEsBfc"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198529,
+      "name": "La Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "La \u00daltima Sombra",
+      "url": "https://open.spotify.com/track/5UlcSU0MIFY2AhXpIcN9of"
+    },
+    {
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/5SzJp8oUbif3wT3BixnJHT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222399,
+      "name": "La \u00daltima Sombra",
+      "url": "https://open.spotify.com/track/35Ln9FPCBaom3wb4LrUqUP"
+    },
+    {
+      "album": {
+        "name": "Las Retro Chingonas",
+        "url": "https://open.spotify.com/album/0fMAtWzhCFU9f50MQPaAqB"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 222373,
+      "name": "La \u00daltima Sombra",
+      "url": "https://open.spotify.com/track/7mWqTd8wWsTBEfT0g6YIuZ"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151568,
+      "name": "Labios Resecos",
+      "url": "https://open.spotify.com/track/0ltj2Z7drHzMm03LxtA8Xm"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128800,
+      "name": "Las Calles De Mi Rancho",
+      "url": "https://open.spotify.com/track/27rVDDLTVGtxzAH9aSdin4"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165853,
+      "name": "Mala Experiencia",
+      "url": "https://open.spotify.com/track/2DoMFmHhWfCK97IlFygOpI"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Mala Experiencia",
+      "url": "https://open.spotify.com/track/5leINazMrsgEq4SYHXWTaC"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152823,
+      "name": "Me Dej\u00e9 Ir Con Todo",
+      "url": "https://open.spotify.com/track/1kBqb0BA14qxbXrgqlLHie"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/1gsnQp7YDID2sgAjheBT5e"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 204053,
+      "name": "Me Vas a Extran\u0303ar - En Vivo",
+      "url": "https://open.spotify.com/track/4Bi9dcIokRS8KP5dSSQfL5"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176800,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/25OzGW80CnAcWPL9tWUZ2D"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/2yS8aYWXEWJ1NlZ7VPDroT"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Mejor Me Alejo",
+      "url": "https://open.spotify.com/track/5OUGSwa2eadrcAsMdUItmO"
+    },
+    {
+      "album": {
+        "name": "Mejor Me Alejo (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/56t2BF9MwPYYI6O5D6T5yY"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 193093,
+      "name": "Mejor Me Alejo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1PBYIKAdgeteUZy4aX8k3S"
+    },
+    {
+      "album": {
+        "name": "Mentira No Es",
+        "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Mentira No Es",
+      "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
+    },
+    {
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
+    },
+    {
+      "album": {
+        "name": "Mi Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/6kJW6rPKdlwMl6taKSJn9Z"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211760,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/4QX1qy6wFOoCuQlmxciEQV"
+    },
+    {
+      "album": {
+        "name": "Tusa y Tequila",
+        "url": "https://open.spotify.com/album/76pxa9SGCrMFTgJE4r4ESx"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo - Balada",
+      "url": "https://open.spotify.com/track/19lD7swUHH4kgdnzlwsawp"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272853,
+      "name": "Mi Mayor Anhelo - En Vivo",
+      "url": "https://open.spotify.com/track/2JA2VnC5rbR1KxlJOQdShe"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Mi Mayor Anhelo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6su1JLPMZ5ytCWIowfgrEG"
+    },
+    {
+      "album": {
+        "name": "Amor Enfermo",
+        "url": "https://open.spotify.com/album/0WS7m1l6aKMdpsdIWeodxo"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "Mi Olvido",
+      "url": "https://open.spotify.com/track/0sfs8U4743dBlUKKxN7pye"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Mi Olvido - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/2458lFmtMzoeH41bvLnuVf"
+    },
+    {
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210493,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/5JaMGjY9Ltvo9CFQfmUdYW"
+    },
+    {
+      "album": {
+        "name": "Dany, Te Dedico Esta Canci\u00f3n Con Todo Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5Zm6BtWH4CgLV83H2nWBsL"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "Mi Raz\u00f3n De Ser",
+      "url": "https://open.spotify.com/track/7EDEbNBsxgsTOfrOifN37a"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254853,
+      "name": "No Elegi Conocerte",
+      "url": "https://open.spotify.com/track/7EY91l11hOnYIytcxFgvDN"
+    },
+    {
+      "album": {
+        "name": "No Eleg\u00ed Conocerte (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7tigZ2nxGbQCtazk4bqm8v"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 252493,
+      "name": "No Elegi\u0301 Conocerte - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/09via3SMh6p9TyjnuOvGdO"
+    },
+    {
+      "album": {
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166800,
+      "name": "No Me Interesa",
+      "url": "https://open.spotify.com/track/7Momt4XxZO0OSwpZry2Zi3"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perdo\u0301n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0DTgMwVSKvd1jneI0QGMzL"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218360,
+      "name": "No Me Pidas Perd\u00f3n - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6a7DmCqUQNLS9pHlsBCBo3"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "No Me Veo Con Alguien M\u00e1s - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/15t8EzzBBhAPvsLud9nrc8"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 222480,
+      "name": "No Ser\u00e1 La Ultima Vez",
+      "url": "https://open.spotify.com/track/3G7YrtjZ1j8rH9K8NsWzuv"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222480,
+      "name": "No Ser\u00e1 la \u00daltima Vez",
+      "url": "https://open.spotify.com/track/0wA0fu3iQg2bEXpojfQkzt"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "No Soy Como Piensas",
+      "url": "https://open.spotify.com/track/3HWuHR6qCwwwpXU192XJcq"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210333,
+      "name": "No Soy Como Piensas",
+      "url": "https://open.spotify.com/track/6zMePwSGxh7KIvwFhZOOT5"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/6XBcXHqRUxlUlVmyv4Scjm"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Nom\u00e1s Imagina",
+      "url": "https://open.spotify.com/track/03KHME9Npqhqzm8ivhghLX"
+    },
+    {
+      "album": {
+        "name": "Ojitos Caf\u00e9s",
+        "url": "https://open.spotify.com/album/6SRWhE60fWiqYa4BkYF4xT"
+      },
+      "artists": [
+        {
+          "name": "Omar Robles",
+          "url": "https://open.spotify.com/artist/3UQ81bCwqbKmqtsZXPxSLL"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190981,
+      "name": "Ojitos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/1nXSQbUEIutffxscuSE33T"
+    },
+    {
+      "album": {
+        "name": "Ojos Cerrados",
+        "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Ojos Cerrados",
+      "url": "https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Otra",
+      "url": "https://open.spotify.com/track/50bGZzlFcee3MEmacYBw3e"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 149053,
+      "name": "Parte De Mi Porte",
+      "url": "https://open.spotify.com/track/5Xegk9DaIkv4Bt9nSbLrQR"
+    },
+    {
+      "album": {
+        "name": "Pi\u00e9nsalo",
+        "url": "https://open.spotify.com/album/0XC4FrOkcwvdBFgKVk3wuI"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156121,
+      "name": "Pi\u00e9nsalo",
+      "url": "https://open.spotify.com/track/77WafDONtlrz9LgS8zPlCT"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "Pi\u00e9nsalo - In\u00e9dita",
+      "url": "https://open.spotify.com/track/33i30iRaIfo7ABAaT5oqDy"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629026,
+      "name": "Popurr\u00ed Acustico - En Vivo",
+      "url": "https://open.spotify.com/track/70ze28E0ye7nGsaj7yXvh7"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517026,
+      "name": "Popurr\u00ed Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/7FgLx7CNxdhLMbHXQFdarp"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1ktsCeaosI2GPvhk2igVO9"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224840,
+      "name": "Por Este Amor",
+      "url": "https://open.spotify.com/track/0MjMiJSbGhQCHco65874pL"
+    },
+    {
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224840,
+      "name": "Por Este Amor",
+      "url": "https://open.spotify.com/track/0b8ONx6Vjfuq2u4G0uouuW"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225213,
+      "name": "Por Mi No Te Detengas",
+      "url": "https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147733,
+      "name": "Por Que Al Conocerte",
+      "url": "https://open.spotify.com/track/4SfAYd9hmXBG1IrtoCbvhp"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Por Siempre Mi Amor",
+      "url": "https://open.spotify.com/track/38ofGhTF7TlGS4HkM6e2VS"
+    },
+    {
+      "album": {
+        "name": "Por Siempre Mi Amor (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/67bgveDWejGjBPpY09JcLV"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Por Siempre Mi Amor - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0Xtln8sTYKPvc0hFxA3IXn"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147733,
+      "name": "Porque al Conocerte",
+      "url": "https://open.spotify.com/track/0fOMZgmDTl60jHBgVkqg1a"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 187440,
+      "name": "Positivo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1YcV3zr7FTJUcoUH3H5fWT"
+    },
+    {
+      "album": {
+        "name": "Positivo (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2vnOjqiTU5nvrwey17bjIE"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188346,
+      "name": "Positivo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/7xBaj7vkjg8MveG4qMlUNh"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 206906,
+      "name": "Prefiero Perderte",
+      "url": "https://open.spotify.com/track/4qhD6IpAD9iNS2FefCCtjE"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Punto Y Aparte",
+      "url": "https://open.spotify.com/track/674KkMr78BLwDVfWnjkceE"
+    },
+    {
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207946,
+      "name": "P\u00eddeme Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk"
+    },
+    {
+      "album": {
+        "name": "Mi Raz\u00f3n De Ser",
+        "url": "https://open.spotify.com/album/3OoJLeyo9pK8V2zov6Hkgw"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "P\u00eddeme Perd\u00f3n",
+      "url": "https://open.spotify.com/track/0WcdEM7jdkl33XsQtm0RW9"
+    },
+    {
+      "album": {
+        "name": "Despecho Mix",
+        "url": "https://open.spotify.com/album/51PfYlKICXpXkjeLbkTkRd"
+      },
+      "artists": [
+        {
+          "name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/6Y6rrQjzcZhaM4RXusI8UP"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207946,
+      "name": "P\u00eddeme Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6hfmOHiYYQYLWmjCFhjG8l"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150546,
+      "name": "Que Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/1ZYQWPWnQvr11DLF3Vj102"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150546,
+      "name": "Que Bendici\u00f3n",
+      "url": "https://open.spotify.com/track/72IbD3ksdURfqyHqnq1NvX"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217133,
+      "name": "Que Fuimos",
+      "url": "https://open.spotify.com/track/32gRgkMpVDluqlkNHZ1yZn"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Que Fuimos",
+      "url": "https://open.spotify.com/track/56OTBUIn4xlmDhtPowlA2d"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194442,
+      "name": "Que Ganas de Volver",
+      "url": "https://open.spotify.com/track/1VeukJ1fVZvpEun3uwWnJu"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bueno Es Tenerte",
+        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Fuimos (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/1qWCtbX9VL7AZGCZeJp15O"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Qu\u00e9 Fuimos - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6lDRkJZe7pTlpAHqsBbnM6"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Maldici\u00f3n",
+        "url": "https://open.spotify.com/album/3w8ZmQeTQo1390hdupmxvJ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 203360,
+      "name": "Qu\u00e9 Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr"
+    },
+    {
+      "album": {
+        "name": "Santo Patr\u00f3n",
+        "url": "https://open.spotify.com/album/4ymTuJ84CKaHgqxP8BElM0"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Santo Patr\u00f3n",
+      "url": "https://open.spotify.com/track/2aejtdTxSKhsCkT51Wixhm"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "Se Podria Decir",
+      "url": "https://open.spotify.com/track/5VbucfTj1hPH1Kpvs6uLqy"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Guadalajara - Monterrey",
+        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/7tI2l7YmIEsSaJflFhlf5r"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229453,
+      "name": "Si Cruzas La Puerta",
+      "url": "https://open.spotify.com/track/3tDBo1xhNQvT8FcKUMZxZa"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 144933,
+      "name": "Si Te Dejo de Querer",
+      "url": "https://open.spotify.com/track/20N5T2Zun2FZQqrMMRzEQ5"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144933,
+      "name": "Si Te Dejo de Querer",
+      "url": "https://open.spotify.com/track/71fKo0M50tJgVd8clwwKz8"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Guadalajara - Monterrey",
+        "url": "https://open.spotify.com/album/7KORT5GNhfJMeBzx5yrSWI"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125240,
+      "name": "Sigue - En Vivo",
+      "url": "https://open.spotify.com/track/2GzgEAg0x09IVWVsUA3Bkd"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 125240,
+      "name": "Sigue - En Vivo",
+      "url": "https://open.spotify.com/track/2SsvjLYpiUIGLvAoMFYVyq"
+    },
+    {
+      "album": {
+        "name": "P\u00f3ker De Ases Banda Vol. 1",
+        "url": "https://open.spotify.com/album/4FdJecU6rWHWJG2xoBDkh2"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 161866,
+      "name": "Sin Evidencia",
+      "url": "https://open.spotify.com/track/1uKIMkHwpAd9vlS9rWT770"
+    },
+    {
+      "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162253,
+      "name": "Sin Evidencia",
+      "url": "https://open.spotify.com/track/62w2zglpnJApdA3VqepzBZ"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163493,
+      "name": "Sin Evidencia",
+      "url": "https://open.spotify.com/track/2W83CUz2xGFSm2Sfvj5P1q"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192973,
+      "name": "Solo Con Verte",
+      "url": "https://open.spotify.com/track/5O8KgU7bOUJAl39ncNNNn7"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192973,
+      "name": "Solo Con Verte",
+      "url": "https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP"
+    },
+    {
+      "album": {
+        "name": "Solo Con Verte (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/7cslEVuLWm9Jisjx6nuzkV"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "Solo Con Verte - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0AmOTCiLE3SBFILfqf4e7d"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Te Amo - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1nFi16f2WqO3V4v1RdInJz"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200746,
+      "name": "Te Equivocas",
+      "url": "https://open.spotify.com/track/4vpa8qqUPEHOg2KapXxwqb"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/0H84MmPUGDOZx7hS7ec5Bb"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200760,
+      "name": "Te Equivocas",
+      "url": "https://open.spotify.com/track/5CyLgVfF5C3q3ra6PZKPYZ"
+    },
+    {
+      "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201026,
+      "name": "Te Equivocas",
+      "url": "https://open.spotify.com/track/09T1GOcYbjJFxfYFmMqrbn"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218352,
+      "name": "Te Lo Advert\u00ed",
+      "url": "https://open.spotify.com/track/5AdAs5ALKRkiIkvDDN9G3Y"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248120,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/2yGNkkwU2iT0doFxkxhcXH"
+    },
+    {
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5iCAbAQCi21EREKse2kJgy"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248120,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/7wIQuubY137iT5dC8HxNcQ"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 376373,
+      "name": "Tengo Que Colgar - En Vivo",
+      "url": "https://open.spotify.com/track/24pGufgMQoZtrESlKSLPlf"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 266213,
+      "name": "Tratando de Sobrevivir - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1uKMD72TDLIXEjIWRRzA9P"
+    },
+    {
+      "album": {
+        "name": "Tributo A Un Grande",
+        "url": "https://open.spotify.com/album/4m4GMnfZhlCJWWyaQoKzdE"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365693,
+      "name": "Tributo A Un Grande",
+      "url": "https://open.spotify.com/track/69zpGBwP0ETKEI3nsITJli"
+    },
+    {
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281400,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
+    },
+    {
+      "album": {
+        "name": "Tu Postura (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/740rycJJKT7XpcJIj5rNhS"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275160,
+      "name": "Tu Postura - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3z2Q58llEa6gx6mlhHSpgx"
+    },
+    {
+      "album": {
+        "name": "Un Chingazo",
+        "url": "https://open.spotify.com/album/6yIjtEXYE92H1czjpyq2VG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Un Chingazo",
+      "url": "https://open.spotify.com/track/2BZo8z5xUPzrj4dhxulJYh"
+    },
+    {
+      "album": {
+        "name": "Un Chingo de Tequila",
+        "url": "https://open.spotify.com/album/30Hta2ADfO018Wef7ycbBh"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Mario Domm",
+          "url": "https://open.spotify.com/artist/7tLRDdqaS3HlX9cLbpY3Hl"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214684,
+      "name": "Un Chingo de Tequila",
+      "url": "https://open.spotify.com/track/3mUe9jWtdpNk9qkE976D1j"
+    },
+    {
+      "album": {
+        "name": "Con Todas Las Fuerzas",
+        "url": "https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 170666,
+      "name": "Verme Brillar",
+      "url": "https://open.spotify.com/track/6ze9VusaYl2wjZjDAik7dr"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 191338,
+      "name": "Vivo Y Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/1hwJF9Inw8fisbDsC8AEUu"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163509,
+      "name": "Ya No Eres Importante",
+      "url": "https://open.spotify.com/track/5KPCMtnetHrw2J02fJuXro"
+    },
+    {
+      "album": {
+        "name": "PUNTO Y APARTE",
+        "url": "https://open.spotify.com/album/7gweMRej5j0jzExxgwreci"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218762,
+      "name": "Ya Tom\u00e9 Y Tom\u00e9",
+      "url": "https://open.spotify.com/track/5ujlkz1yuq2yjMK7Lf79ET"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+        "url": "https://open.spotify.com/album/43bj9QP3hwY68to13K9TYZ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199800,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+      "url": "https://open.spotify.com/track/0QINzFpxcbStmnHsf00khl"
+    },
+    {
+      "album": {
+        "name": "Positivo",
+        "url": "https://open.spotify.com/album/24eUqyJPZ39GNoQsvc7ffM"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224440,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s? - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/54uLPB8SDBgBWszrDiohBX"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2rFMAzWFwNe"
 }

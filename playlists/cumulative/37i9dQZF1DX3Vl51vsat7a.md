@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-275 songs - 14 hr 47 min
+276 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
 | [Circles](https://open.spotify.com/track/4qPXc1ajqVrsYN4geH1SJp) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Circles](https://open.spotify.com/album/17Ufy7sNjGkWJltsGUTFb7) | 3:33 | 2023-07-27 | 2023-11-05 |
 | [Circles](https://open.spotify.com/track/6D58jfjLetnyFszeEyllcz) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [The Good Life](https://open.spotify.com/album/7rrD1cHZGGUo9DUQwm9mDR) | 3:33 | 2023-10-27 |  |
-| [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 | 2023-11-09 |  |
+| [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 | 2023-11-09 | 2024-01-12 |
 | [Confession](https://open.spotify.com/track/3SV6D7J2G3LUxhuybgHJg4) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Confession](https://open.spotify.com/album/6xg0GJEU0lf60zcSdsjCel) | 3:09 | 2022-06-30 | 2023-04-14 |
 | [coq au vin](https://open.spotify.com/track/4NERmR0700rwstJpWkFO5b) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [coq au vin](https://open.spotify.com/album/1GreCrihbUzlxlT6sI6RRM) | 3:44 | 2022-08-11 | 2023-04-14 |
 | [Cover Up My Face](https://open.spotify.com/track/0t4N3qUMwdnDZNumcVxPRu) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/4vj7dl0foafvI0OOVmB4s2) | 3:24 | 2023-11-16 |  |
@@ -193,6 +193,7 @@
 | [Paula](https://open.spotify.com/track/5WgCx3Lcq48Vj2kJUYmK8I) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Paula](https://open.spotify.com/album/751dH1KYjFvLpraxTQ64nS) | 3:16 | 2023-08-10 |  |
 | [Physical Aspects Of Disco](https://open.spotify.com/track/10UQj7uJ2RPG481QII1xpv) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Somebody EP](https://open.spotify.com/album/5pU5K5SdRh93tZ7gOrJ2s7) | 6:26 | 2023-03-16 |  |
 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 | 2023-09-14 |  |
+| [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 | 2024-01-11 |  |
 | [pressure & release](https://open.spotify.com/track/6BzTik1v9IdQpXMxsBXAsY) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [pressure & release](https://open.spotify.com/album/2aCwGrHZVzuNtjUlxZY9JU) | 3:20 | 2023-02-02 | 2023-04-14 |
 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 | 2023-10-12 |  |
 | [REMIND ME](https://open.spotify.com/track/3sQwXoHktwhzOKT2rFBo9Z) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [REMIND ME](https://open.spotify.com/album/084HROOXCRrykD5zzuGXZ1) | 5:32 | 2022-08-18 | 2022-09-09 |

@@ -1,243 +1,359 @@
 {
-  "2023-05-06": 562,
-  "2023-05-07": 572,
-  "2023-05-08": 584,
-  "2023-05-09": 590,
-  "2023-05-10": 601,
-  "2023-05-11": 616,
-  "2023-05-12": 627,
-  "2023-05-13": 641,
-  "2023-05-14": 647,
-  "2023-05-15": 659,
-  "2023-05-16": 667,
-  "2023-05-17": 680,
-  "2023-05-18": 687,
-  "2023-05-19": 695,
-  "2023-05-20": 718,
-  "2023-05-21": 718,
-  "2023-05-22": 718,
-  "2023-05-23": 734,
-  "2023-05-24": 746,
-  "2023-05-25": 747,
-  "2023-05-26": 757,
-  "2023-05-27": 774,
-  "2023-05-28": 785,
-  "2023-05-29": 785,
-  "2023-05-30": 798,
-  "2023-05-31": 809,
-  "2023-06-01": 825,
-  "2023-06-02": 828,
-  "2023-06-03": 838,
-  "2023-06-04": 850,
-  "2023-06-05": 863,
-  "2023-06-06": 871,
-  "2023-06-07": 874,
-  "2023-06-08": 888,
-  "2023-06-09": 898,
-  "2023-06-10": 913,
-  "2023-06-11": 920,
-  "2023-06-12": 926,
-  "2023-06-13": 930,
-  "2023-06-14": 938,
-  "2023-06-15": 949,
-  "2023-06-16": 955,
-  "2023-06-17": 969,
-  "2023-06-18": 986,
-  "2023-06-19": 993,
-  "2023-06-20": 999,
-  "2023-06-21": 1009,
-  "2023-06-22": 1014,
-  "2023-06-23": 1029,
-  "2023-06-24": 1034,
-  "2023-06-25": 1042,
-  "2023-06-26": 1052,
-  "2023-06-27": 1058,
-  "2023-06-28": 1067,
-  "2023-06-29": 1082,
-  "2023-06-30": 1094,
-  "2023-07-01": 1117,
-  "2023-07-02": 1117,
-  "2023-07-03": 1130,
-  "2023-07-04": 1141,
-  "2023-07-05": 1156,
-  "2023-07-06": 1181,
-  "2023-07-07": 1181,
-  "2023-07-08": 1195,
-  "2023-07-09": 1211,
-  "2023-07-10": 1219,
-  "2023-07-11": 1228,
-  "2023-07-12": 1249,
-  "2023-07-13": 1258,
-  "2023-07-14": 1272,
-  "2023-07-15": 1284,
-  "2023-07-16": 1297,
-  "2023-07-17": 1313,
-  "2023-07-18": 1326,
-  "2023-07-19": 1330,
-  "2023-07-20": 1344,
-  "2023-07-21": 1359,
-  "2023-07-22": 1367,
-  "2023-07-23": 1378,
-  "2023-07-24": 1381,
-  "2023-07-25": 1387,
-  "2023-07-26": 1398,
-  "2023-07-27": 1405,
-  "2023-07-28": 1416,
-  "2023-07-29": 1426,
-  "2023-07-30": 1432,
-  "2023-07-31": 1441,
-  "2023-08-01": 1453,
-  "2023-08-02": 1464,
-  "2023-08-03": 1468,
-  "2023-08-04": 1477,
-  "2023-08-05": 1493,
-  "2023-08-06": 1509,
-  "2023-08-07": 1509,
-  "2023-08-08": 1514,
-  "2023-08-09": 1522,
-  "2023-08-10": 1542,
-  "2023-08-11": 1548,
-  "2023-08-12": 1552,
-  "2023-08-13": 1567,
-  "2023-08-14": 1580,
-  "2023-08-15": 1600,
-  "2023-08-16": 1600,
-  "2023-08-17": 1606,
-  "2023-08-18": 1620,
-  "2023-08-19": 1626,
-  "2023-08-20": 1636,
-  "2023-08-21": 1642,
-  "2023-08-22": 1647,
-  "2023-08-23": 1651,
-  "2023-08-24": 1661,
-  "2023-08-25": 1664,
-  "2023-08-26": 1673,
-  "2023-08-27": 1680,
-  "2023-08-28": 1690,
-  "2023-08-29": 1695,
-  "2023-08-30": 1709,
-  "2023-08-31": 1712,
-  "2023-09-01": 1728,
-  "2023-09-02": 1728,
-  "2023-09-03": 1730,
-  "2023-09-04": 1741,
-  "2023-09-05": 1749,
-  "2023-09-06": 1759,
-  "2023-09-07": 1768,
-  "2023-09-08": 1778,
-  "2023-09-09": 1784,
-  "2023-09-10": 1790,
-  "2023-09-11": 1799,
-  "2023-09-12": 1804,
-  "2023-09-13": 1805,
-  "2023-09-14": 1814,
-  "2023-09-15": 1822,
-  "2023-09-16": 1830,
-  "2023-09-17": 1833,
-  "2023-09-18": 1842,
-  "2023-09-19": 1854,
-  "2023-09-20": 1858,
-  "2023-09-21": 1867,
-  "2023-09-22": 1872,
-  "2023-09-23": 1878,
-  "2023-09-24": 1886,
-  "2023-09-25": 1889,
-  "2023-09-26": 1903,
-  "2023-09-27": 1908,
-  "2023-09-28": 1917,
-  "2023-09-29": 1920,
-  "2023-09-30": 1926,
-  "2023-10-01": 1936,
-  "2023-10-02": 1943,
-  "2023-10-03": 1952,
-  "2023-10-04": 1955,
-  "2023-10-05": 1958,
-  "2023-10-06": 1965,
-  "2023-10-07": 1972,
-  "2023-10-08": 1981,
-  "2023-10-09": 1988,
-  "2023-10-10": 1992,
-  "2023-10-11": 2007,
-  "2023-10-12": 2007,
-  "2023-10-13": 2008,
-  "2023-10-14": 2015,
-  "2023-10-15": 2019,
-  "2023-10-16": 2022,
-  "2023-10-17": 2023,
-  "2023-10-18": 2030,
-  "2023-10-19": 2035,
-  "2023-10-20": 2042,
-  "2023-10-21": 2043,
-  "2023-10-22": 2048,
-  "2023-10-23": 2051,
-  "2023-10-24": 2059,
-  "2023-10-25": 2065,
-  "2023-10-26": 2074,
-  "2023-10-27": 2075,
-  "2023-10-28": 2085,
-  "2023-10-29": 2088,
-  "2023-10-30": 2102,
-  "2023-10-31": 2102,
-  "2023-11-01": 2102,
-  "2023-11-02": 2107,
-  "2023-11-03": 2117,
-  "2023-11-04": 2121,
-  "2023-11-05": 2125,
-  "2023-11-06": 2131,
-  "2023-11-07": 2131,
-  "2023-11-08": 2131,
-  "2023-11-09": 2131,
-  "2023-11-10": 2131,
-  "2023-11-11": 2131,
-  "2023-11-12": 2131,
-  "2023-11-13": 2131,
-  "2023-11-14": 2131,
-  "2023-11-15": 2131,
-  "2023-11-16": 2131,
-  "2023-11-17": 2131,
-  "2023-11-18": 2131,
-  "2023-11-19": 2131,
-  "2023-11-20": 2131,
-  "2023-11-21": 2131,
-  "2023-11-22": 2131,
-  "2023-11-23": 2131,
-  "2023-11-24": 2131,
-  "2023-11-25": 2131,
-  "2023-11-26": 2131,
-  "2023-11-27": 2131,
-  "2023-11-28": 2131,
-  "2023-11-29": 2131,
-  "2023-11-30": 2131,
-  "2023-12-01": 2131,
-  "2023-12-02": 2131,
-  "2023-12-03": 2131,
-  "2023-12-04": 2131,
-  "2023-12-05": 2131,
-  "2023-12-06": 2131,
-  "2023-12-07": 2131,
-  "2023-12-08": 2131,
-  "2023-12-09": 2131,
-  "2023-12-10": 2131,
-  "2023-12-11": 2131,
-  "2023-12-12": 2131,
-  "2023-12-13": 2131,
-  "2023-12-14": 2131,
-  "2023-12-15": 2131,
-  "2023-12-16": 2131,
-  "2023-12-17": 2131,
-  "2023-12-18": 2131,
-  "2023-12-19": 2131,
-  "2023-12-20": 2131,
-  "2023-12-21": 2131,
-  "2023-12-22": 2131,
-  "2023-12-23": 2131,
-  "2023-12-24": 2131,
-  "2023-12-25": 2131,
-  "2023-12-26": 2131,
-  "2023-12-27": 2131,
-  "2023-12-30": 2131,
-  "2023-12-31": 2131,
-  "2024-01-01": 2131,
-  "2024-01-02": 2131,
-  "2024-01-03": 2131
+  "2024-01-17": 2131,
+  "date_first_scraped": "2023-05-06",
+  "description": "<a href=\"spotify:artist:6bxLLapj6NByiP5cr6jMeK\">Matthias Tanzmann'</a>s Deep & Tech House influences have never sounded better than in his latest mix!\n",
+  "name": "Gray Area: Matthias Tanzmann's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aftermath (Mixed)",
+        "url": "https://open.spotify.com/album/5KFXUySRn5CzG3OPbAxHSB"
+      },
+      "artists": [
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        },
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Aftermath - Mixed",
+      "url": "https://open.spotify.com/track/1IWYDahO5g2GclRy6aNhRQ"
+    },
+    {
+      "album": {
+        "name": "Bad Boys Ft Diddy - Matthias Tanzmann Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4wE2AB604nzjrvHh0wxOXK"
+      },
+      "artists": [
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        },
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Bad Boys Ft Diddy - Matthias Tanzmann Remix - Mixed",
+      "url": "https://open.spotify.com/track/60C0bqrUs4WTQRNIakX0Fg"
+    },
+    {
+      "album": {
+        "name": "Bocat - Michael Bibi Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1GFoCGwUFSpKFruHq0BH7J"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "Albertina",
+          "url": "https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq"
+        },
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Bocat - Michael Bibi Remix - Mixed",
+      "url": "https://open.spotify.com/track/6wxK3jpcMIolsUs1M7f5lY"
+    },
+    {
+      "album": {
+        "name": "Dancing Kingdom - Edit (Mixed)",
+        "url": "https://open.spotify.com/album/333jVhMaE13by4tJMr9HrH"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Dancing Kingdom - Edit - Mixed",
+      "url": "https://open.spotify.com/track/16jcZZdqnNP6l6W8YiOsRG"
+    },
+    {
+      "album": {
+        "name": "Don't Make Sense (Mixed)",
+        "url": "https://open.spotify.com/album/31OviQZgwmYtH3nnXAnVlN"
+      },
+      "artists": [
+        {
+          "name": "Claude VonStroke",
+          "url": "https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313571,
+      "name": "Don't Make Sense - Mixed",
+      "url": "https://open.spotify.com/track/7lOF8LLU2V9T0tM9wjtSHn"
+    },
+    {
+      "album": {
+        "name": "Footprints (Mixed)",
+        "url": "https://open.spotify.com/album/7FKJcq5GdoBhRCFVNqY17K"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Footprints - Mixed",
+      "url": "https://open.spotify.com/track/3sSOJgpedBcy74gdbMjOMO"
+    },
+    {
+      "album": {
+        "name": "ICV - Double Flake Mix (Mixed)",
+        "url": "https://open.spotify.com/album/0WZeXh1rm3Znnz7OVrcphd"
+      },
+      "artists": [
+        {
+          "name": "Enzo Siragusa",
+          "url": "https://open.spotify.com/artist/3tXRNjxWCFyWyJdjMwtaSX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "ICV - Double Flake Mix - Mixed",
+      "url": "https://open.spotify.com/track/0wdrYYrbQrIRRm7uk34Z0i"
+    },
+    {
+      "album": {
+        "name": "No Worries - Dennis Quin Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1JNmwLDe0mySuu26KMq1SW"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        },
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293000,
+      "name": "No Worries - Dennis Quin Remix - Mixed",
+      "url": "https://open.spotify.com/track/5zqV4IR5WTtmbafExwNJwQ"
+    },
+    {
+      "album": {
+        "name": "Overboard (feat. CHANEY) - Dennis Ferrer Remix [Mixed]",
+        "url": "https://open.spotify.com/album/13wDnjbuv9fIg5ubphYjhk"
+      },
+      "artists": [
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        },
+        {
+          "name": "Better Lost Than Stupid",
+          "url": "https://open.spotify.com/artist/0XOcl1zHdeEJxvrbgWpcTI"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Overboard (feat. CHANEY) - Dennis Ferrer Remix - Mixed",
+      "url": "https://open.spotify.com/track/3TJU8XkqwiFOGZEPWRJm8O"
+    },
+    {
+      "album": {
+        "name": "Pasteles (Mixed)",
+        "url": "https://open.spotify.com/album/0U6eEJNMsgvkPeCznvp4Ik"
+      },
+      "artists": [
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Pasteles - Mixed",
+      "url": "https://open.spotify.com/track/2oOZr5RikwresM5Ol4iZcj"
+    },
+    {
+      "album": {
+        "name": "Que Te Toca (Mixed)",
+        "url": "https://open.spotify.com/album/20V7TGjEfRIng5HifPD1Uy"
+      },
+      "artists": [
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        },
+        {
+          "name": "Maceo El Perro Blanco",
+          "url": "https://open.spotify.com/artist/1CUMM7r8Ujvj3J3DCsx0p6"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351000,
+      "name": "Que Te Toca - Mixed",
+      "url": "https://open.spotify.com/track/5TdLwVpggU5TPe9BFhU1Fv"
+    },
+    {
+      "album": {
+        "name": "Shakti (Mixed)",
+        "url": "https://open.spotify.com/album/0z6YwVKcNSSTfCrBZBQshK"
+      },
+      "artists": [
+        {
+          "name": "Francisco Allendes",
+          "url": "https://open.spotify.com/artist/6hYoWCCWGbTcVbAChJRbko"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Shakti - Mixed",
+      "url": "https://open.spotify.com/track/5WyaAFyYazFg527SjgaqBr"
+    },
+    {
+      "album": {
+        "name": "So Sweet - Matthias Tanzmann Remix (Mixed)",
+        "url": "https://open.spotify.com/album/22uMRaUO9EMZSmBU1RiYkO"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        },
+        {
+          "name": "Matthias Tanzmann",
+          "url": "https://open.spotify.com/artist/6bxLLapj6NByiP5cr6jMeK"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "So Sweet - Matthias Tanzmann Remix - Mixed",
+      "url": "https://open.spotify.com/track/7p7FZsPDWn1iG32GPOrc8R"
+    },
+    {
+      "album": {
+        "name": "The Bomb (Mixed)",
+        "url": "https://open.spotify.com/album/3CBURRwp2QMvRrKgcN2SdU"
+      },
+      "artists": [
+        {
+          "name": "Big Miz",
+          "url": "https://open.spotify.com/artist/16bJAXH14R42AnpN0FtaQo"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "The Bomb - Mixed",
+      "url": "https://open.spotify.com/track/731P3AgObaaQ6yB2gEepyR"
+    },
+    {
+      "album": {
+        "name": "The Climax (Mixed)",
+        "url": "https://open.spotify.com/album/2lYrNNTzaRVPd3dvCRSvWw"
+      },
+      "artists": [
+        {
+          "name": "Manda Moor",
+          "url": "https://open.spotify.com/artist/5TkMEJqmPYr0QRgX6uFOhP"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "The Climax - Mixed",
+      "url": "https://open.spotify.com/track/5aSuN0yVgLrOHhsYsEbviz"
+    },
+    {
+      "album": {
+        "name": "This Is Acid (Mixed)",
+        "url": "https://open.spotify.com/album/66VP8Q3zx5GbbsvkT8HQAD"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo De Blanck",
+          "url": "https://open.spotify.com/artist/3Px9ffXH2SBEcJWr5fSojM"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "This Is Acid - Mixed",
+      "url": "https://open.spotify.com/track/1s0WzVSwBUbc7USpu5hJQ0"
+    },
+    {
+      "album": {
+        "name": "What I Do (Mixed)",
+        "url": "https://open.spotify.com/album/0GFKuCZCMJtP42kAc093eY"
+      },
+      "artists": [
+        {
+          "name": "Kid Enigma",
+          "url": "https://open.spotify.com/artist/6xh20mDGCfR9jH2tYotdBE"
+        },
+        {
+          "name": "The Deepshakerz",
+          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "What I Do - Mixed",
+      "url": "https://open.spotify.com/track/6F4HPDYpZ1VuO3vVWXfUL8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTydbG3ihV8F"
 }

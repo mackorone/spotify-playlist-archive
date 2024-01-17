@@ -1,535 +1,1467 @@
 {
-  "2022-07-14": 4923,
-  "2022-07-15": 4983,
-  "2022-07-16": 5044,
-  "2022-07-17": 5098,
-  "2022-07-18": 5163,
-  "2022-07-19": 5232,
-  "2022-07-20": 5290,
-  "2022-07-21": 5352,
-  "2022-07-22": 5397,
-  "2022-07-23": 5457,
-  "2022-07-24": 5509,
-  "2022-07-25": 5528,
-  "2022-07-26": 5531,
-  "2022-07-27": 5536,
-  "2022-07-28": 5557,
-  "2022-07-29": 5569,
-  "2022-07-30": 5603,
-  "2022-07-31": 5603,
-  "2022-08-01": 5618,
-  "2022-08-02": 5620,
-  "2022-08-03": 5620,
-  "2022-08-04": 5619,
-  "2022-08-05": 5621,
-  "2022-08-06": 5621,
-  "2022-08-07": 5624,
-  "2022-08-08": 5625,
-  "2022-08-09": 5623,
-  "2022-08-10": 5622,
-  "2022-08-11": 5621,
-  "2022-08-12": 5621,
-  "2022-08-13": 5621,
-  "2022-08-14": 5621,
-  "2022-08-15": 5620,
-  "2022-08-16": 5619,
-  "2022-08-17": 5618,
-  "2022-08-18": 5614,
-  "2022-08-19": 5612,
-  "2022-08-20": 5613,
-  "2022-08-21": 5612,
-  "2022-08-22": 5608,
-  "2022-08-23": 5609,
-  "2022-08-24": 5609,
-  "2022-08-25": 5606,
-  "2022-08-26": 5607,
-  "2022-08-27": 5606,
-  "2022-08-28": 5603,
-  "2022-08-29": 5608,
-  "2022-08-30": 5607,
-  "2022-08-31": 5607,
-  "2022-09-01": 5608,
-  "2022-09-02": 5607,
-  "2022-09-03": 5605,
-  "2022-09-04": 5605,
-  "2022-09-05": 5603,
-  "2022-09-06": 5608,
-  "2022-09-07": 5611,
-  "2022-09-09": 5608,
-  "2022-09-10": 5609,
-  "2022-09-11": 5610,
-  "2022-09-12": 5609,
-  "2022-09-13": 5609,
-  "2022-09-15": 5612,
-  "2022-09-16": 5612,
-  "2022-09-17": 5612,
-  "2022-09-18": 5612,
-  "2022-09-19": 5612,
-  "2022-09-20": 5613,
-  "2022-09-21": 5615,
-  "2022-09-22": 5615,
-  "2022-09-23": 5616,
-  "2022-09-24": 5616,
-  "2022-09-25": 5618,
-  "2022-09-26": 5618,
-  "2022-09-27": 5619,
-  "2022-09-28": 5617,
-  "2022-09-29": 5617,
-  "2022-09-30": 5617,
-  "2022-10-01": 5617,
-  "2022-10-02": 5620,
-  "2022-10-03": 5623,
-  "2022-10-04": 5624,
-  "2022-10-05": 5624,
-  "2022-10-06": 5625,
-  "2022-10-07": 5624,
-  "2022-10-08": 5624,
-  "2022-10-09": 5627,
-  "2022-10-10": 5627,
-  "2022-10-11": 5625,
-  "2022-10-12": 5627,
-  "2022-10-13": 5628,
-  "2022-10-14": 5627,
-  "2022-10-15": 5625,
-  "2022-10-16": 5626,
-  "2022-10-17": 5629,
-  "2022-10-18": 5629,
-  "2022-10-19": 5628,
-  "2022-10-20": 5627,
-  "2022-10-21": 5628,
-  "2022-10-22": 5627,
-  "2022-10-23": 5627,
-  "2022-10-24": 5628,
-  "2022-10-25": 5630,
-  "2022-10-26": 5634,
-  "2022-10-27": 5635,
-  "2022-10-28": 5634,
-  "2022-10-29": 5637,
-  "2022-10-30": 5636,
-  "2022-10-31": 5635,
-  "2022-11-01": 5634,
-  "2022-11-02": 5636,
-  "2022-11-03": 5636,
-  "2022-11-04": 5637,
-  "2022-11-05": 5635,
-  "2022-11-06": 5635,
-  "2022-11-07": 5636,
-  "2022-11-08": 5636,
-  "2022-11-09": 5637,
-  "2022-11-10": 5637,
-  "2022-11-11": 5641,
-  "2022-11-12": 5644,
-  "2022-11-13": 5643,
-  "2022-11-14": 5641,
-  "2022-11-15": 5641,
-  "2022-11-16": 5639,
-  "2022-11-17": 5641,
-  "2022-11-18": 5639,
-  "2022-11-19": 5639,
-  "2022-11-20": 5640,
-  "2022-11-21": 5639,
-  "2022-11-22": 5639,
-  "2022-11-23": 5638,
-  "2022-11-24": 5640,
-  "2022-11-25": 5642,
-  "2022-11-26": 5645,
-  "2022-11-27": 5641,
-  "2022-11-28": 5639,
-  "2022-11-29": 5639,
-  "2022-11-30": 5640,
-  "2022-12-01": 5640,
-  "2022-12-02": 5634,
-  "2022-12-03": 5637,
-  "2022-12-04": 5638,
-  "2022-12-05": 5638,
-  "2022-12-06": 5636,
-  "2022-12-07": 5635,
-  "2022-12-08": 5637,
-  "2022-12-09": 5637,
-  "2022-12-10": 5638,
-  "2022-12-11": 5637,
-  "2022-12-12": 5638,
-  "2022-12-13": 5640,
-  "2022-12-14": 5642,
-  "2022-12-15": 5641,
-  "2022-12-16": 5640,
-  "2022-12-17": 5638,
-  "2022-12-18": 5640,
-  "2022-12-19": 5642,
-  "2022-12-20": 5645,
-  "2022-12-21": 5645,
-  "2022-12-22": 5646,
-  "2022-12-24": 5648,
-  "2022-12-25": 5648,
-  "2022-12-26": 5650,
-  "2022-12-27": 5650,
-  "2022-12-28": 5646,
-  "2022-12-29": 5645,
-  "2022-12-30": 5644,
-  "2022-12-31": 5644,
-  "2023-01-01": 5646,
-  "2023-01-02": 5645,
-  "2023-01-03": 5644,
-  "2023-01-04": 5644,
-  "2023-01-05": 5641,
-  "2023-01-06": 5641,
-  "2023-01-07": 5642,
-  "2023-01-08": 5642,
-  "2023-01-09": 5643,
-  "2023-01-10": 5640,
-  "2023-01-11": 5640,
-  "2023-01-12": 5642,
-  "2023-01-13": 5641,
-  "2023-01-14": 5641,
-  "2023-01-15": 5641,
-  "2023-01-16": 5638,
-  "2023-01-17": 5638,
-  "2023-01-18": 5637,
-  "2023-01-19": 5637,
-  "2023-01-20": 5636,
-  "2023-01-21": 5633,
-  "2023-01-22": 5628,
-  "2023-01-23": 5628,
-  "2023-01-24": 5631,
-  "2023-01-25": 5629,
-  "2023-01-26": 5629,
-  "2023-01-27": 5628,
-  "2023-01-28": 5627,
-  "2023-01-29": 5629,
-  "2023-01-30": 5627,
-  "2023-01-31": 5627,
-  "2023-02-01": 5629,
-  "2023-02-02": 5629,
-  "2023-02-03": 5630,
-  "2023-02-04": 5630,
-  "2023-02-05": 5633,
-  "2023-02-06": 5633,
-  "2023-02-07": 5632,
-  "2023-02-08": 5639,
-  "2023-02-09": 5639,
-  "2023-02-10": 5641,
-  "2023-02-11": 5640,
-  "2023-02-12": 5641,
-  "2023-02-13": 5640,
-  "2023-02-14": 5640,
-  "2023-02-15": 5639,
-  "2023-02-16": 5640,
-  "2023-02-17": 5639,
-  "2023-02-18": 5641,
-  "2023-02-19": 5641,
-  "2023-02-20": 5645,
-  "2023-02-21": 5645,
-  "2023-02-22": 5645,
-  "2023-02-23": 5647,
-  "2023-02-24": 5648,
-  "2023-02-25": 5650,
-  "2023-02-26": 5649,
-  "2023-02-27": 5652,
-  "2023-02-28": 5652,
-  "2023-03-01": 5654,
-  "2023-03-02": 5655,
-  "2023-03-03": 5654,
-  "2023-03-04": 5655,
-  "2023-03-05": 5652,
-  "2023-03-06": 5652,
-  "2023-03-07": 5651,
-  "2023-03-08": 5651,
-  "2023-03-09": 5652,
-  "2023-03-10": 5654,
-  "2023-03-11": 5653,
-  "2023-03-12": 5653,
-  "2023-03-13": 5652,
-  "2023-03-14": 5653,
-  "2023-03-15": 5659,
-  "2023-03-16": 5693,
-  "2023-03-17": 5693,
-  "2023-03-18": 5750,
-  "2023-03-19": 5767,
-  "2023-03-20": 5797,
-  "2023-03-21": 5820,
-  "2023-03-22": 5852,
-  "2023-03-23": 5883,
-  "2023-03-24": 5883,
-  "2023-03-25": 5927,
-  "2023-03-26": 5951,
-  "2023-03-27": 5973,
-  "2023-03-28": 5993,
-  "2023-03-29": 6033,
-  "2023-03-30": 6080,
-  "2023-03-31": 6080,
-  "2023-04-01": 6107,
-  "2023-04-02": 6133,
-  "2023-04-03": 6152,
-  "2023-04-04": 6171,
-  "2023-04-05": 6204,
-  "2023-04-06": 6231,
-  "2023-04-07": 6258,
-  "2023-04-09": 6309,
-  "2023-04-10": 6343,
-  "2023-04-11": 6384,
-  "2023-04-12": 6384,
-  "2023-04-13": 6397,
-  "2023-04-14": 6410,
-  "2023-04-15": 6434,
-  "2023-04-16": 6463,
-  "2023-04-17": 6488,
-  "2023-04-18": 6509,
-  "2023-04-19": 6530,
-  "2023-04-20": 6560,
-  "2023-04-21": 6590,
-  "2023-04-22": 6615,
-  "2023-04-23": 6646,
-  "2023-04-24": 6675,
-  "2023-04-25": 6702,
-  "2023-04-26": 6727,
-  "2023-04-27": 6753,
-  "2023-04-28": 6782,
-  "2023-04-29": 6806,
-  "2023-04-30": 6834,
-  "2023-05-01": 6861,
-  "2023-05-02": 6890,
-  "2023-05-03": 6919,
-  "2023-05-04": 6946,
-  "2023-05-05": 6966,
-  "2023-05-06": 6986,
-  "2023-05-07": 6999,
-  "2023-05-08": 7015,
-  "2023-05-09": 7030,
-  "2023-05-10": 7055,
-  "2023-05-11": 7073,
-  "2023-05-12": 7093,
-  "2023-05-13": 7107,
-  "2023-05-14": 7121,
-  "2023-05-15": 7144,
-  "2023-05-16": 7161,
-  "2023-05-17": 7182,
-  "2023-05-18": 7197,
-  "2023-05-19": 7225,
-  "2023-05-20": 7274,
-  "2023-05-21": 7274,
-  "2023-05-22": 7274,
-  "2023-05-23": 7326,
-  "2023-05-24": 7362,
-  "2023-05-25": 7365,
-  "2023-05-26": 7392,
-  "2023-05-27": 7416,
-  "2023-05-28": 7430,
-  "2023-05-29": 7430,
-  "2023-05-30": 7473,
-  "2023-05-31": 7492,
-  "2023-06-01": 7507,
-  "2023-06-02": 7523,
-  "2023-06-03": 7538,
-  "2023-06-04": 7563,
-  "2023-06-05": 7583,
-  "2023-06-06": 7603,
-  "2023-06-07": 7617,
-  "2023-06-08": 7629,
-  "2023-06-09": 7654,
-  "2023-06-10": 7671,
-  "2023-06-11": 7683,
-  "2023-06-12": 7704,
-  "2023-06-13": 7734,
-  "2023-06-14": 7747,
-  "2023-06-15": 7765,
-  "2023-06-16": 7796,
-  "2023-06-17": 7831,
-  "2023-06-18": 7849,
-  "2023-06-19": 7869,
-  "2023-06-20": 7890,
-  "2023-06-21": 7915,
-  "2023-06-22": 7946,
-  "2023-06-23": 7983,
-  "2023-06-24": 8015,
-  "2023-06-25": 8032,
-  "2023-06-26": 8070,
-  "2023-06-27": 8087,
-  "2023-06-28": 8105,
-  "2023-06-29": 8126,
-  "2023-06-30": 8146,
-  "2023-07-01": 8178,
-  "2023-07-02": 8178,
-  "2023-07-03": 8199,
-  "2023-07-04": 8215,
-  "2023-07-05": 8233,
-  "2023-07-06": 8280,
-  "2023-07-07": 8280,
-  "2023-07-08": 8293,
-  "2023-07-09": 8323,
-  "2023-07-10": 8340,
-  "2023-07-11": 8354,
-  "2023-07-12": 8365,
-  "2023-07-13": 8396,
-  "2023-07-14": 8410,
-  "2023-07-15": 8420,
-  "2023-07-16": 8442,
-  "2023-07-17": 8467,
-  "2023-07-18": 8494,
-  "2023-07-19": 8510,
-  "2023-07-20": 8529,
-  "2023-07-21": 8536,
-  "2023-07-22": 8554,
-  "2023-07-23": 8570,
-  "2023-07-24": 8588,
-  "2023-07-25": 8612,
-  "2023-07-26": 8626,
-  "2023-07-27": 8646,
-  "2023-07-28": 8666,
-  "2023-07-29": 8684,
-  "2023-07-30": 8693,
-  "2023-07-31": 8706,
-  "2023-08-01": 8723,
-  "2023-08-02": 8745,
-  "2023-08-03": 8758,
-  "2023-08-04": 8772,
-  "2023-08-05": 8796,
-  "2023-08-06": 8835,
-  "2023-08-07": 8835,
-  "2023-08-08": 8852,
-  "2023-08-09": 8871,
-  "2023-08-10": 8893,
-  "2023-08-11": 8906,
-  "2023-08-12": 8921,
-  "2023-08-13": 8945,
-  "2023-08-14": 8967,
-  "2023-08-15": 9000,
-  "2023-08-16": 9000,
-  "2023-08-17": 9020,
-  "2023-08-18": 9046,
-  "2023-08-19": 9059,
-  "2023-08-20": 9075,
-  "2023-08-21": 9094,
-  "2023-08-22": 9111,
-  "2023-08-23": 9122,
-  "2023-08-24": 9140,
-  "2023-08-25": 9154,
-  "2023-08-26": 9177,
-  "2023-08-27": 9196,
-  "2023-08-28": 9216,
-  "2023-08-29": 9234,
-  "2023-08-30": 9249,
-  "2023-08-31": 9275,
-  "2023-09-01": 9298,
-  "2023-09-02": 9298,
-  "2023-09-03": 9307,
-  "2023-09-04": 9317,
-  "2023-09-05": 9325,
-  "2023-09-06": 9336,
-  "2023-09-07": 9342,
-  "2023-09-08": 9352,
-  "2023-09-09": 9363,
-  "2023-09-10": 9379,
-  "2023-09-11": 9385,
-  "2023-09-12": 9406,
-  "2023-09-13": 9416,
-  "2023-09-14": 9428,
-  "2023-09-15": 9443,
-  "2023-09-16": 9461,
-  "2023-09-17": 9468,
-  "2023-09-18": 9481,
-  "2023-09-19": 9493,
-  "2023-09-20": 9502,
-  "2023-09-21": 9516,
-  "2023-09-22": 9528,
-  "2023-09-23": 9541,
-  "2023-09-24": 9552,
-  "2023-09-25": 9560,
-  "2023-09-26": 9584,
-  "2023-09-27": 9592,
-  "2023-09-28": 9609,
-  "2023-09-29": 9628,
-  "2023-09-30": 9641,
-  "2023-10-01": 9658,
-  "2023-10-02": 9673,
-  "2023-10-03": 9676,
-  "2023-10-04": 9692,
-  "2023-10-05": 9707,
-  "2023-10-06": 9718,
-  "2023-10-07": 9727,
-  "2023-10-08": 9730,
-  "2023-10-09": 9745,
-  "2023-10-10": 9760,
-  "2023-10-11": 9784,
-  "2023-10-12": 9784,
-  "2023-10-13": 9791,
-  "2023-10-14": 9803,
-  "2023-10-15": 9817,
-  "2023-10-16": 9824,
-  "2023-10-17": 9833,
-  "2023-10-18": 9846,
-  "2023-10-19": 9856,
-  "2023-10-20": 9859,
-  "2023-10-21": 9875,
-  "2023-10-22": 9882,
-  "2023-10-23": 9892,
-  "2023-10-24": 9909,
-  "2023-10-25": 9920,
-  "2023-10-26": 9925,
-  "2023-10-27": 9939,
-  "2023-10-28": 9949,
-  "2023-10-29": 9966,
-  "2023-10-30": 9989,
-  "2023-10-31": 9989,
-  "2023-11-01": 10007,
-  "2023-11-02": 10018,
-  "2023-11-03": 10024,
-  "2023-11-04": 10038,
-  "2023-11-05": 10049,
-  "2023-11-06": 10058,
-  "2023-11-07": 10072,
-  "2023-11-08": 10084,
-  "2023-11-09": 10088,
-  "2023-11-10": 10101,
-  "2023-11-11": 10118,
-  "2023-11-12": 10127,
-  "2023-11-13": 10139,
-  "2023-11-14": 10148,
-  "2023-11-15": 10148,
-  "2023-11-16": 10168,
-  "2023-11-17": 10192,
-  "2023-11-18": 10192,
-  "2023-11-19": 10202,
-  "2023-11-20": 10229,
-  "2023-11-21": 10243,
-  "2023-11-22": 10259,
-  "2023-11-23": 10270,
-  "2023-11-24": 10276,
-  "2023-11-25": 10285,
-  "2023-11-26": 10300,
-  "2023-11-27": 10310,
-  "2023-11-28": 10322,
-  "2023-11-29": 10345,
-  "2023-11-30": 10345,
-  "2023-12-01": 10365,
-  "2023-12-02": 10367,
-  "2023-12-03": 10375,
-  "2023-12-04": 10394,
-  "2023-12-05": 10416,
-  "2023-12-06": 10427,
-  "2023-12-07": 10438,
-  "2023-12-08": 10443,
-  "2023-12-09": 10452,
-  "2023-12-10": 10461,
-  "2023-12-11": 10473,
-  "2023-12-12": 10478,
-  "2023-12-13": 10483,
-  "2023-12-14": 10491,
-  "2023-12-15": 10499,
-  "2023-12-16": 10505,
-  "2023-12-17": 10509,
-  "2023-12-18": 10517,
-  "2023-12-19": 10525,
-  "2023-12-20": 10540,
-  "2023-12-21": 10548,
-  "2023-12-22": 10558,
-  "2023-12-23": 10558,
-  "2023-12-24": 10568,
-  "2023-12-25": 10574,
-  "2023-12-26": 10577,
-  "2023-12-27": 10579,
-  "2023-12-30": 10604,
-  "2023-12-31": 10613,
-  "2024-01-01": 10615,
-  "2024-01-02": 10624,
-  "2024-01-03": 10632
+  "2024-01-17": 10744,
+  "date_first_scraped": "2022-07-14",
+  "description": "Music from \"Laid-Back Camp\"! /\u97f3\u697d\u3067\u8fbf\u308b\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u306e\u4e16\u754c\u3002\u00a9\u3042f\u308d\u30fb\u82b3\u6587\u793e\uff0f\u91ce\u5916\u6d3b\u52d5\u59d4\u54e1\u4f1a",
+  "name": "Laid-Back Camp \u3086\u308b\u30ad\u30e3\u30f3\u25b3",
+  "tracks": [
+    {
+      "album": {
+        "name": "Colon",
+        "url": "https://open.spotify.com/album/0YB96tShohEzQ7YQYdrnwJ"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u6075\u68a8",
+          "url": "https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Harunotonari",
+      "url": "https://open.spotify.com/track/1ofuW1sPpPGsWu4LTOeeBV"
+    },
+    {
+      "album": {
+        "name": "Heya Camp Original Soundtrack",
+        "url": "https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176096,
+      "name": "Hinoko mitsumete",
+      "url": "https://open.spotify.com/track/0xCt5jT58tgSbHXrjx7FHm"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159741,
+      "name": "Imadakara dekirukoto",
+      "url": "https://open.spotify.com/track/1lq51zC4rFAtaQVWzV0IED"
+    },
+    {
+      "album": {
+        "name": "The Sunshower",
+        "url": "https://open.spotify.com/album/21WidAbDB2jXy2FmMzEGJ7"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281263,
+      "name": "Isn't It Fun?",
+      "url": "https://open.spotify.com/track/4HzlcsZwiQ5JJVaYrREgrK"
+    },
+    {
+      "album": {
+        "name": "Pontoon",
+        "url": "https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283240,
+      "name": "Isn\u2018t It Fun?",
+      "url": "https://open.spotify.com/track/1BxH5nn4iV7l6nqHDYyf5O"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178085,
+      "name": "Koko ga watashi no shintenchi",
+      "url": "https://open.spotify.com/track/62Zn49o7p2SxsGWHUgLGJW"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u5185\u6d3b\u52d5\u30b5\u30fc\u30af\u30eb(\u7acb\u5c71\u79cb\u822a\u3001\u4f50\u3005\u6728\u6075\u68a8\u3001\u4e9c\u54b2\u82b1)",
+          "url": "https://open.spotify.com/artist/0khjN6aAVJszju1hovxoB5"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247933,
+      "name": "Konobasyode",
+      "url": "https://open.spotify.com/track/6ZfGaKBm2qGaVPc3qLxCAd"
+    },
+    {
+      "album": {
+        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341240,
+      "name": "Kyanpujou no theme fumoto",
+      "url": "https://open.spotify.com/track/3xBmk2aC7rRLuCVLQKNOcv"
+    },
+    {
+      "album": {
+        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348226,
+      "name": "Kyanpujou no theme motosuko",
+      "url": "https://open.spotify.com/track/6lGuj4kx91qsnLXcXWGqsb"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141932,
+      "name": "Meguru natsukashi no campjyo",
+      "url": "https://open.spotify.com/track/3Ed8PEfwochl0cU4zREmMt"
+    },
+    {
+      "album": {
+        "name": "Mimosa",
+        "url": "https://open.spotify.com/album/5M0BERj5L8qIRfxU4Emjdg"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u6075\u68a8",
+          "url": "https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259200,
+      "name": "Mimosa",
+      "url": "https://open.spotify.com/track/3oWzRxN7qFqjeoMgfZkgRE"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142738,
+      "name": "Nadeshiko",
+      "url": "https://open.spotify.com/track/6pvY7Wz41c8kkkhB8Rv9GU"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182284,
+      "name": "Natsuno yozara ni tairin saite",
+      "url": "https://open.spotify.com/track/5chcn3o6g4jde7G5xjiUTJ"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130910,
+      "name": "Oohasyagi Route136",
+      "url": "https://open.spotify.com/track/2d94sMgDaxFW2CejeORUXZ"
+    },
+    {
+      "album": {
+        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113080,
+      "name": "Oshaberi to mug cup",
+      "url": "https://open.spotify.com/track/5U2IpOZgfkaEFXByYUIjaM"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134174,
+      "name": "Pending no munasawagi",
+      "url": "https://open.spotify.com/track/5TdA35dt8glXvYlhRiD5VR"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151395,
+      "name": "Sashinomi, tebasaki, saikaidesu",
+      "url": "https://open.spotify.com/track/1QAjQXQPZzl0pY5w6bMFUn"
+    },
+    {
+      "album": {
+        "name": "Pontoon",
+        "url": "https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244346,
+      "name": "Seize The Day",
+      "url": "https://open.spotify.com/track/6YbbRVO81tTxFObgdSJa2N"
+    },
+    {
+      "album": {
+        "name": "Seize The Day (TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300fOP\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/61mvdcavPEkHIqNJ5gwGLV"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244413,
+      "name": "Seize The Day",
+      "url": "https://open.spotify.com/track/0SQsn1nZORgrdNSbbXD0V4"
+    },
+    {
+      "album": {
+        "name": "Seize The Day",
+        "url": "https://open.spotify.com/album/5Cy9bBWrqR2rbabTiYsFoH"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244413,
+      "name": "Seize The Day",
+      "url": "https://open.spotify.com/track/5GEzwiv2acSw73nEVR3WHz"
+    },
+    {
+      "album": {
+        "name": "SHINY DAYS(TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300dOP\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/799UkSmpzMBG2Ni6PO3zDc"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "SHINY DAYS",
+      "url": "https://open.spotify.com/track/3V7mWY7bwabSRPOOuJ7rcN"
+    },
+    {
+      "album": {
+        "name": "Heya Camp Original Soundtrack",
+        "url": "https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192885,
+      "name": "Slow air na kisetsu",
+      "url": "https://open.spotify.com/track/3bghWYK0Bs48xmDnquA9DQ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e7\u30fc\u30c8\u30a2\u30cb\u30e1\u300e\u3078\u3084\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4t7hTYcuWHZELqLhK6yICM"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192885,
+      "name": "SlowAir\u306a\u5b63\u7bc0",
+      "url": "https://open.spotify.com/track/4Mu3gBs0jGtN3RNMXBgOrw"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150854,
+      "name": "Solocamp girl=Office girl",
+      "url": "https://open.spotify.com/track/1NokdTTU2Ysn27WyX0r2rJ"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176677,
+      "name": "Solocamp no tashinami",
+      "url": "https://open.spotify.com/track/1MxA4kkdieg2klzRC6ds0I"
+    },
+    {
+      "album": {
+        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133120,
+      "name": "Sorokyanpu no susume",
+      "url": "https://open.spotify.com/track/5FblIDq5dkGzXNuIKC1iPX"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132296,
+      "name": "Suite \u201dMatsubokkuri\u201d -Campjyozukuri start-",
+      "url": "https://open.spotify.com/track/6ctDGiaDVtMh7qfMElPRVU"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134007,
+      "name": "Suite \u201dMatsubokkuri\u201d -Funki saichousen!-",
+      "url": "https://open.spotify.com/track/4VSE6IQVNCSaA7ZJgghMFY"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "Suite \u201dMatsubokkuri\u201d -Hiizurusato-",
+      "url": "https://open.spotify.com/track/1uxEIJHRaDofInxZ1Bmgac"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149325,
+      "name": "Suite \u201dMatsubokkuri\u201d -Kusakari hot lemon-",
+      "url": "https://open.spotify.com/track/0Y0qu4G6Lk7tF1IzSmXOxC"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157660,
+      "name": "Suite \u201dMatsubokkuri\u201d -Natsuzora to daikeikaku-",
+      "url": "https://open.spotify.com/track/1VLABP6DxPB7CbWqYDLiLC"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161279,
+      "name": "Suite \u201dMatsubokkuri\u201d -Seijyaku to hakumei-",
+      "url": "https://open.spotify.com/track/4vpQbs5hnfP1sFzUhZprfQ"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163949,
+      "name": "Suite \u201dMatsubokkuri\u201d -Shovelcar no dynamism-",
+      "url": "https://open.spotify.com/track/04h5YlkIZDKArCeJMtjiO5"
+    },
+    {
+      "album": {
+        "name": "Sun Is Coming Up",
+        "url": "https://open.spotify.com/album/69f1AKnu2Lr4CwbmWjfbQp"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255160,
+      "name": "Sun Is Coming Up",
+      "url": "https://open.spotify.com/track/3QF909rQu5LgpXxrPL81Nz"
+    },
+    {
+      "album": {
+        "name": "Sun Is Coming Up",
+        "url": "https://open.spotify.com/album/6idCwCmUoXnX8ITg8PfHEj"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 255160,
+      "name": "Sun Is Coming Up",
+      "url": "https://open.spotify.com/track/4Tzy19BN954GdgSiUH62jD"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Me?",
+        "url": "https://open.spotify.com/album/0Rkxo1b5OMjDR3II0flvm4"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "Sun is coming up",
+      "url": "https://open.spotify.com/track/4lJh5osg5IhxYdD2WbnFYh"
+    },
+    {
+      "album": {
+        "name": "Heya Camp Original Soundtrack",
+        "url": "https://open.spotify.com/album/25AH7MvyN3We1bYtlGAkzH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141221,
+      "name": "Tabiga bokurawo yondeiru \u201dHeya Camp's Theme\u201d",
+      "url": "https://open.spotify.com/track/6bY9GhQxnsgs52GSchnIiU"
+    },
+    {
+      "album": {
+        "name": "The Sunshower",
+        "url": "https://open.spotify.com/album/56MlsQ9Ae6tePRnUAw8fEK"
+      },
+      "artists": [
+        {
+          "name": "Asaka",
+          "url": "https://open.spotify.com/artist/6salj1HNtQW4jfRxuiaPmK"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270077,
+      "name": "The Sunshower",
+      "url": "https://open.spotify.com/track/0Av7Z4aPWBbxsaZ6Ddh3Dc"
+    },
+    {
+      "album": {
+        "name": "The Sunshower",
+        "url": "https://open.spotify.com/album/21WidAbDB2jXy2FmMzEGJ7"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270077,
+      "name": "The Sunshower",
+      "url": "https://open.spotify.com/track/49qxg2ltT02IeGg242ajro"
+    },
+    {
+      "album": {
+        "name": "Pontoon",
+        "url": "https://open.spotify.com/album/3IqT5PMCjApxtrnxJxLbBD"
+      },
+      "artists": [
+        {
+          "name": "\u4e9c\u54b2\u82b1",
+          "url": "https://open.spotify.com/artist/0QwTvn35AQMMELpKDU176h"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270160,
+      "name": "The Sunshower",
+      "url": "https://open.spotify.com/track/7JdPXD5GFX7Q09gB7mAE9e"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157068,
+      "name": "Tsugi no camp ha dousiyokka?",
+      "url": "https://open.spotify.com/track/3iIWffb2a2uLcOYXXfnAAg"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118834,
+      "name": "Umi!Yama!Misaki!Doukutsu!",
+      "url": "https://open.spotify.com/track/5FsE4N1Qi5ZaDIFOmCBOCq"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132801,
+      "name": "Yakusyoku wo sazukeyou",
+      "url": "https://open.spotify.com/track/51FkkpiydHV3D5lJzoCkhe"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209421,
+      "name": "Yappa group camp!",
+      "url": "https://open.spotify.com/track/6UMOsXnPTLGNGqHclHKll1"
+    },
+    {
+      "album": {
+        "name": "Laid-Back Camp the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h6vCZ9iFg5sESGWvKePvH"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170576,
+      "name": "Yukimichi to eisen",
+      "url": "https://open.spotify.com/track/7gDqspaUX8uvgBLTpta93o"
+    },
+    {
+      "album": {
+        "name": "TV Animation \u201dLaid-back Camp Season2\u201d Original Soundtrack",
+        "url": "https://open.spotify.com/album/3GTjnJhIoRsTVoIvhyX0t0"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "Yuru Camp Season2 no Theme",
+      "url": "https://open.spotify.com/track/6IJ2ZG03rZuBN5WZOl0g3n"
+    },
+    {
+      "album": {
+        "name": "TV anime \u201cYurukyan\u25b3\u201doriginal sound track",
+        "url": "https://open.spotify.com/album/04fr3cTBvVOa3FQPtZQCyg"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "Yurukyan no theme",
+      "url": "https://open.spotify.com/track/4XhqkGQe00L6zCkaWxldr2"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QJa61sImIx3yjN8kINmcP"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113080,
+      "name": "\u304a\u3057\u3083\u3079\u308a\u3068\u30de\u30b0\u30ab\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/0iGjMNCO3BEQ1oxGaoKQzk"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178085,
+      "name": "\u3053\u3053\u304c\u79c1\u306e\u65b0\u5929\u5730",
+      "url": "https://open.spotify.com/track/5Po6aQmDwppOn3rYITrDwz"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "\u5c4b\u5185\u6d3b\u52d5\u30b5\u30fc\u30af\u30eb(\u7acb\u5c71\u79cb\u822a\u3001\u4f50\u3005\u6728\u6075\u68a8\u3001\u4e9c\u54b2\u82b1)",
+          "url": "https://open.spotify.com/artist/0khjN6aAVJszju1hovxoB5"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247933,
+      "name": "\u3053\u306e\u5834\u6240\u3067\u3002",
+      "url": "https://open.spotify.com/track/1VXtJBlLI87N33zI9blapQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142738,
+      "name": "\u306a\u3067\u3057\u3053",
+      "url": "https://open.spotify.com/track/6fbnCbFdttReU2hcDOM1cH"
+    },
+    {
+      "album": {
+        "name": "\u306f\u308b\u306e\u3068\u306a\u308a (TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300fED\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/7z7MVGlrWdChbo0vxA5O1f"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u6075\u68a8",
+          "url": "https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217996,
+      "name": "\u306f\u308b\u306e\u3068\u306a\u308a",
+      "url": "https://open.spotify.com/track/1GbqvMmDMQjTQoxUTCsgxD"
+    },
+    {
+      "album": {
+        "name": "\u3075\u3086\u3073\u3088\u308a(TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300dED\u30c6\u30fc\u30de)",
+        "url": "https://open.spotify.com/album/4M5mceOoTiPvE9bPXSy1iN"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u6075\u68a8",
+          "url": "https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277573,
+      "name": "\u3075\u3086\u3073\u3088\u308a",
+      "url": "https://open.spotify.com/track/08atpBEogaRGz58N7yVi0J"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209421,
+      "name": "\u3084\u3063\u3071\u30b0\u30eb\u30fc\u30d7\u30ad\u30e3\u30f3\u30d7!",
+      "url": "https://open.spotify.com/track/0MnRtGYlKFeVwbBZ1ThUgu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146880,
+      "name": "\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/7eCWbwJYsHxyaZYmHEcwMQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QJa61sImIx3yjN8kINmcP"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133226,
+      "name": "\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/5ZlNg85NGWxGktnvHMQgw3"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QJa61sImIx3yjN8kINmcP"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 348226,
+      "name": "\u30ad\u30e3\u30f3\u30d7\u5834\u306e\u30c6\u30fc\u30de\u301c\u672c\u6816\u6e56\u301c",
+      "url": "https://open.spotify.com/track/7nEchL00kNK58ZUvOb5svL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QJa61sImIx3yjN8kINmcP"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341240,
+      "name": "\u30ad\u30e3\u30f3\u30d7\u5834\u306e\u30c6\u30fc\u30de\u301c\u9e93\u301c",
+      "url": "https://open.spotify.com/track/1vsK0NLJhCLQVGlPIfc3Vm"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151395,
+      "name": "\u30b5\u30b7\u98f2\u307f\u3001\u624b\u7fbd\u5148\u3001\u518d\u4f1a\u3067\u3059\u3002",
+      "url": "https://open.spotify.com/track/3By6wYLjXhR7K15HaUxa8i"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0QJa61sImIx3yjN8kINmcP"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133120,
+      "name": "\u30bd\u30ed\u30ad\u30e3\u30f3\u25b3\u306e\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/0X7CS2QaTkxCyidKLIvEiy"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176677,
+      "name": "\u30bd\u30ed\u30ad\u30e3\u30f3\u306e\u55dc\u307f",
+      "url": "https://open.spotify.com/track/2oIVKOKjim7AkEaMzVNfY7"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150854,
+      "name": "\u30bd\u30ed\u30ad\u30e3\u30f3\u30ac\u30fc\u30eb=\u30aa\u30d5\u30a3\u30b9\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/1WxV9AE3tPsJ9bXY59Iqxc"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134174,
+      "name": "\u30da\u30f3\u30c7\u30a3\u30f3\u30b0\u306e\u80f8\u9a12\u304e",
+      "url": "https://open.spotify.com/track/16guhmgQE9K6cTv9S4IXtO"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e2\u30b6",
+        "url": "https://open.spotify.com/album/2ESFPcPX5RoduZwvSoByyI"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u3005\u6728\u6075\u68a8",
+          "url": "https://open.spotify.com/artist/4ES04xmx6ZGMYGyGIfGQgf"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259200,
+      "name": "\u30df\u30e2\u30b6",
+      "url": "https://open.spotify.com/track/7oSvz1fNg3dcm5JVN4irN8"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159741,
+      "name": "\u4eca\u3060\u304b\u3089\u51fa\u6765\u308b\u4e8b",
+      "url": "https://open.spotify.com/track/7plmlR2COAA074Se7CA58q"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182284,
+      "name": "\u590f\u306e\u591c\u7a7a\u306b\u5927\u8f2a\u54b2\u3044\u3066",
+      "url": "https://open.spotify.com/track/1BYFc2amjWyfvwU2GURxzZ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130910,
+      "name": "\u5927\u30cf\u30b7\u30e3\u30aeROUTE136",
+      "url": "https://open.spotify.com/track/6UrxHaT5Cdr4JX4nEVXG5A"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141932,
+      "name": "\u5de1\u308b\u61d0\u304b\u3057\u306e\u30ad\u30e3\u30f3\u30d7\u5834",
+      "url": "https://open.spotify.com/track/6w5J9qzsFhDWLr6Tpk1xC4"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132801,
+      "name": "\u5f79\u8077\u3092\u6388\u3051\u3088\u3046",
+      "url": "https://open.spotify.com/track/7aVCai5IO9jJxNdEMHNBku"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e7\u30fc\u30c8\u30a2\u30cb\u30e1\u300e\u3078\u3084\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4t7hTYcuWHZELqLhK6yICM"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141221,
+      "name": "\u65c5\u304c\u50d5\u3089\u3092\u547c\u3093\u3067\u3044\u308b \u301c\u3078\u3084\u30ad\u30e3\u30f3\u25b3\u306e\u30c6\u30fc\u30de\u301c",
+      "url": "https://open.spotify.com/track/4gzTiLdYH8l1fObIjT4rU8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157068,
+      "name": "\u6b21\u306e\u30ad\u30e3\u30f3\u30d7\u306f\u3069\u3046\u3057\u3088\u3063\u304b?",
+      "url": "https://open.spotify.com/track/3GrtZQWx2KeHDLt8rVcKFR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3 SEASON2\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fk0IBRQjfp97nVeEDicjN"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 118834,
+      "name": "\u6d77!\u5c71!\u5cac!\u6d1e\u7a9f!",
+      "url": "https://open.spotify.com/track/1q5T2SjyJjRellmRpNfPO7"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e7\u30fc\u30c8\u30a2\u30cb\u30e1\u300e\u3078\u3084\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4t7hTYcuWHZELqLhK6yICM"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176096,
+      "name": "\u706b\u306e\u7c89\u898b\u3064\u3081\u3066",
+      "url": "https://open.spotify.com/track/3sfYIFMQCNv1UYadSk4qpQ"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132296,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u30ad\u30e3\u30f3\u30d7\u5834\u4f5c\u308a\u30b9\u30bf\u30fc\u30c8!~",
+      "url": "https://open.spotify.com/track/5fnuxyrsGP8OK8uPMydF4Y"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163949,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u30b7\u30e7\u30d9\u30eb\u30ab\u30fc\u306e\u30c0\u30a4\u30ca\u30df\u30ba\u30e0~",
+      "url": "https://open.spotify.com/track/3NInXsaWCqQB6if6iDqChD"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157660,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u590f\u7a7a\u3068\u5927\u8a08\u753b~",
+      "url": "https://open.spotify.com/track/2M6blI1LppolIRsaVrfTVl"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134007,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u596e\u8d77\u3001\u518d\u6311\u6226!~",
+      "url": "https://open.spotify.com/track/1nDfPLbtZKOphYb85bq2Dd"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175160,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u65e5\u51fa\u3065\u308b\u91cc~",
+      "url": "https://open.spotify.com/track/5wDHiNwRwmxOMwbwfK8OQs"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149325,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u8349\u5208\u308a\u3068\u30db\u30c3\u30c8\u30ec\u30e2\u30f3~",
+      "url": "https://open.spotify.com/track/5NJl7IRZbqy5iQHX3W5xKO"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161279,
+      "name": "\u7d44\u66f2\u300c\u677e\u307c\u3063\u304f\u308a\u300d ~\u9759\u5bc2\u3068\u8584\u660e~",
+      "url": "https://open.spotify.com/track/4Ts2GmqC4BLoHs2dbJKmW3"
+    },
+    {
+      "album": {
+        "name": "\u6620\u753b\u300e\u3086\u308b\u30ad\u30e3\u30f3\u25b3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6VjklxJS4hBW1LnVFfqGqC"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Tateyama",
+          "url": "https://open.spotify.com/artist/6sh08wBSmiwwgvfgNG1hrA"
+        }
+      ],
+      "date_added": "2022-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170576,
+      "name": "\u96ea\u9053\u3068\u30a2\u30a4\u30bc\u30f3",
+      "url": "https://open.spotify.com/track/0PK4W6nz1KpIrHeFOJAaaM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWosUgW8r4Gq"
 }

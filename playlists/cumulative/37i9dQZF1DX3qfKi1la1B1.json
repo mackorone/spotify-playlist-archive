@@ -490,7 +490,7 @@
       ],
       "date_added": "2023-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 187204,
       "name": "Bed Room",
       "url": "https://open.spotify.com/track/1ZLB7XGT8I56pR9ibUlEQR"
@@ -920,7 +920,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 201022,
       "name": "Candlelight - Spotify Singles",
       "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 171858,
       "name": "Chill Pad Deluxe",
       "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 153226,
       "name": "Christmas Dreaming",
       "url": "https://open.spotify.com/track/2UOmGbjOCNrnpnujfgjGKS"
@@ -2242,7 +2242,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 183493,
       "name": "How You Feel",
       "url": "https://open.spotify.com/track/3LIhLCx8GJIxEgBjjliNAt"
@@ -2732,7 +2732,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 223538,
       "name": "Leaving",
       "url": "https://open.spotify.com/track/2VsCSKol8i9vHyc9S1kI7y"
@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "Loved",
+        "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243263,
+      "name": "Loved",
+      "url": "https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68"
+    },
+    {
+      "album": {
         "name": "Statues I",
         "url": "https://open.spotify.com/album/126uaBLz5spQHGfNcDMIA0"
       },
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": "2024-01-17",
       "duration_ms": 193600,
       "name": "Militerian (feat. Naira Marley)",
       "url": "https://open.spotify.com/track/0oBDJWGnTJs9C0Ax90tMj0"
@@ -3630,7 +3648,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"
@@ -3656,6 +3674,24 @@
       "duration_ms": 212773,
       "name": "Nothing #2 (feat. Alex Siegel)",
       "url": "https://open.spotify.com/track/3K7vtKv08nn7omt5S2d4eo"
+    },
+    {
+      "album": {
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199468,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N"
     },
     {
       "album": {
@@ -3714,7 +3750,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-02",
+      "date_removed": null,
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
@@ -4459,6 +4495,28 @@
     },
     {
       "album": {
+        "name": "See, Saw",
+        "url": "https://open.spotify.com/album/7bx3h1AxJ7yfXiIFi0SfQy"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Gagle",
+          "url": "https://open.spotify.com/artist/7EEGSEHvuzEc2x4dhZPb50"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248275,
+      "name": "See, Saw",
+      "url": "https://open.spotify.com/track/0QUniQsyXZwtkaEBLw29Qg"
+    },
+    {
+      "album": {
         "name": "Sentiment / Your Song",
         "url": "https://open.spotify.com/album/6F8hynSC3oLBpTqcdSjK8a"
       },
@@ -4850,7 +4908,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": "2024-01-16",
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
@@ -5031,6 +5089,24 @@
     },
     {
       "album": {
+        "name": "Story of Your Life",
+        "url": "https://open.spotify.com/album/0lzWuGfDwRhsNuQIChTO4S"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "Story of Your Life",
+      "url": "https://open.spotify.com/track/4euKZ2girgz0uU2yZjSgTl"
+    },
+    {
+      "album": {
         "name": "Streets Of Heaven",
         "url": "https://open.spotify.com/album/6mDhDu6IcH3irMtTu3ExXD"
       },
@@ -5108,6 +5184,24 @@
       "duration_ms": 199785,
       "name": "Sunbursting",
       "url": "https://open.spotify.com/track/5i35BpUHPzdgWY6YJNFige"
+    },
+    {
+      "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172355,
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
     },
     {
       "album": {
@@ -5874,7 +5968,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 186000,
       "name": "WE'LL DIE THIS WAY",
       "url": "https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t"
@@ -5892,7 +5986,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193973,
       "name": "Weeping Willow / \u679d\u5782\u67f3",
       "url": "https://open.spotify.com/track/3jzFhXdkG5EPbF0TkbWDlj"
@@ -6074,7 +6168,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-27",
+      "date_removed": null,
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
@@ -6306,10 +6400,36 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 215625,
       "name": "\u30df\u30a2\u30cd",
       "url": "https://open.spotify.com/track/30q1rvO7Kck0OYKvPaKJ1X"
+    },
+    {
+      "album": {
+        "name": "\u5b63\u7bc0\u306e\u97f3",
+        "url": "https://open.spotify.com/album/1zy47HoZLcCq9NmkKwyFrG"
+      },
+      "artists": [
+        {
+          "name": "Jane Jade",
+          "url": "https://open.spotify.com/artist/6wmQqcVc9s7XztjlNNL2sm"
+        },
+        {
+          "name": "Yuga",
+          "url": "https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT"
+        },
+        {
+          "name": "SAKURA FUJIWARA",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242432,
+      "name": "\u5b63\u7bc0\u306e\u97f3",
+      "url": "https://open.spotify.com/track/6tYb3UcartboOJaq2PZhE5"
     },
     {
       "album": {
@@ -6368,6 +6488,24 @@
       "duration_ms": 263600,
       "name": "\u661f\u5c51\u306e\u591c\u306b",
       "url": "https://open.spotify.com/track/4RW1yU2KOJFz91cprWoIhj"
+    },
+    {
+      "album": {
+        "name": "POP OUT!",
+        "url": "https://open.spotify.com/album/1VfpN0zgdLujwepllGpJVo"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235142,
+      "name": "\u6ce1\u3068\u6587\u5b78",
+      "url": "https://open.spotify.com/track/5bnFfYJoLdQjS44T1UVOK6"
     },
     {
       "album": {

@@ -1,99 +1,1089 @@
 {
-  "2023-09-27": 10043,
-  "2023-09-28": 10060,
-  "2023-09-29": 10072,
-  "2023-09-30": 10087,
-  "2023-10-01": 10098,
-  "2023-10-02": 10111,
-  "2023-10-03": 10125,
-  "2023-10-04": 10143,
-  "2023-10-05": 10151,
-  "2023-10-06": 10160,
-  "2023-10-07": 10179,
-  "2023-10-08": 10186,
-  "2023-10-09": 10201,
-  "2023-10-10": 10207,
-  "2023-10-11": 10240,
-  "2023-10-12": 10240,
-  "2023-10-13": 10249,
-  "2023-10-14": 10258,
-  "2023-10-15": 10264,
-  "2023-10-16": 10286,
-  "2023-10-17": 10297,
-  "2023-10-18": 10318,
-  "2023-10-19": 10332,
-  "2023-10-20": 10342,
-  "2023-10-21": 10352,
-  "2023-10-22": 10364,
-  "2023-10-23": 10383,
-  "2023-10-24": 10394,
-  "2023-10-25": 10404,
-  "2023-10-26": 10419,
-  "2023-10-27": 10429,
-  "2023-10-28": 10443,
-  "2023-10-29": 10458,
-  "2023-10-30": 10491,
-  "2023-10-31": 10491,
-  "2023-11-01": 10504,
-  "2023-11-02": 10518,
-  "2023-11-03": 10537,
-  "2023-11-04": 10542,
-  "2023-11-05": 10556,
-  "2023-11-06": 10585,
-  "2023-11-07": 10601,
-  "2023-11-08": 10613,
-  "2023-11-09": 10627,
-  "2023-11-10": 10646,
-  "2023-11-11": 10667,
-  "2023-11-12": 10686,
-  "2023-11-13": 10706,
-  "2023-11-14": 10736,
-  "2023-11-15": 10736,
-  "2023-11-16": 10759,
-  "2023-11-17": 10801,
-  "2023-11-18": 10801,
-  "2023-11-19": 10819,
-  "2023-11-20": 10829,
-  "2023-11-21": 10842,
-  "2023-11-22": 10858,
-  "2023-11-23": 10876,
-  "2023-11-24": 10893,
-  "2023-11-25": 10909,
-  "2023-11-26": 10930,
-  "2023-11-27": 10952,
-  "2023-11-28": 10961,
-  "2023-11-29": 10996,
-  "2023-11-30": 10996,
-  "2023-12-01": 11016,
-  "2023-12-02": 11027,
-  "2023-12-03": 11049,
-  "2023-12-04": 11060,
-  "2023-12-05": 11069,
-  "2023-12-06": 11082,
-  "2023-12-07": 11094,
-  "2023-12-08": 11108,
-  "2023-12-09": 11126,
-  "2023-12-10": 11145,
-  "2023-12-11": 11169,
-  "2023-12-12": 11184,
-  "2023-12-13": 11201,
-  "2023-12-14": 11213,
-  "2023-12-15": 11225,
-  "2023-12-16": 11230,
-  "2023-12-17": 11245,
-  "2023-12-18": 11255,
-  "2023-12-19": 11266,
-  "2023-12-20": 11273,
-  "2023-12-21": 11282,
-  "2023-12-22": 11299,
-  "2023-12-23": 11315,
-  "2023-12-24": 11327,
-  "2023-12-25": 11339,
-  "2023-12-26": 11345,
-  "2023-12-27": 11360,
-  "2023-12-30": 11418,
-  "2023-12-31": 11433,
-  "2024-01-01": 11448,
-  "2024-01-02": 11458,
-  "2024-01-03": 11469
+  "2024-01-17": 11732,
+  "date_first_scraped": "2023-09-27",
+  "description": "Grandes cl\u00e1sicos del rock para grandes y peque\u00f1os.",
+  "name": "Rockeando desde la Cuna",
+  "tracks": [
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/1md3NBM9loj4Y4XAwEKtxu"
+      },
+      "artists": [
+        {
+          "name": "Banda Dormir",
+          "url": "https://open.spotify.com/artist/0KbndakhFbee2AsqetfP7Y"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/1VvmdLGdGKtb1RNyII228d"
+    },
+    {
+      "album": {
+        "name": "Hypersomniac: Lullaby Renditions of Green Day Songs",
+        "url": "https://open.spotify.com/album/1G3BCnXWg72qfyLsMMgC5h"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339539,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/0JJgaICBGvxYPjitVldJBB"
+    },
+    {
+      "album": {
+        "name": "Babies Go Rolling Stones",
+        "url": "https://open.spotify.com/album/7vjvtyjCgozMa4wVUrtVgz"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229160,
+      "name": "Angie",
+      "url": "https://open.spotify.com/track/5xJk4wzTHDpRozGF7wiuQH"
+    },
+    {
+      "album": {
+        "name": "Rock Para Beb\u00e9s",
+        "url": "https://open.spotify.com/album/5bJxzPTNOZzSlA3bKg7EjT"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Para Beb\u00e9s Exigentes de I\u2019m In Records",
+          "url": "https://open.spotify.com/artist/4NOFYnTaifQQHEmsx3nDn0"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168330,
+      "name": "Another Brick in the Wall - Instrumental",
+      "url": "https://open.spotify.com/track/7q916cx3hVERBcwrnaT6st"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queen",
+        "url": "https://open.spotify.com/album/7GWzwOQTOGlyqwUOJSWPCN"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198133,
+      "name": "Another One Bites the Dust",
+      "url": "https://open.spotify.com/track/5RUakqBWxPFazwhAVpgpi2"
+    },
+    {
+      "album": {
+        "name": "Anyone Else But You",
+        "url": "https://open.spotify.com/album/5Rx3XkV6SP2ijhjr0PnFA0"
+      },
+      "artists": [
+        {
+          "name": "Sue\u00f1os Dulces",
+          "url": "https://open.spotify.com/artist/7fVUxkJvwEmYpMWYG9lbNs"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175945,
+      "name": "Anyone Else But You",
+      "url": "https://open.spotify.com/track/6OlUdTdnSS6FAXuHKuyXaO"
+    },
+    {
+      "album": {
+        "name": "Rock Para Beb\u00e9s",
+        "url": "https://open.spotify.com/album/5bJxzPTNOZzSlA3bKg7EjT"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Para Beb\u00e9s Exigentes de I\u2019m In Records",
+          "url": "https://open.spotify.com/artist/4NOFYnTaifQQHEmsx3nDn0"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115463,
+      "name": "Back in Black - Instrumental",
+      "url": "https://open.spotify.com/track/5XJPUgTPE1Mc9957LV6ZMq"
+    },
+    {
+      "album": {
+        "name": "Hypersomniac: Lullaby Renditions of Green Day Songs",
+        "url": "https://open.spotify.com/album/1G3BCnXWg72qfyLsMMgC5h"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391810,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/1HLWR6uDnukw9sucYHPKnY"
+    },
+    {
+      "album": {
+        "name": "The Bed Album: Lullaby renditions of Weezer songs",
+        "url": "https://open.spotify.com/album/20s4tp5z91zvUAyfMrVIrT"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248543,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/0bmCCnTLVqkeslOMS5Hky3"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Ramones",
+        "url": "https://open.spotify.com/album/7s38mWSBjIzyiLGos0gAQf"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/0abxz0H1AfOWtxD3OSstcX"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queen",
+        "url": "https://open.spotify.com/album/7GWzwOQTOGlyqwUOJSWPCN"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274280,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2OWOkkAQv7KFlScZymrfZ4"
+    },
+    {
+      "album": {
+        "name": "Totally 80's Lullaby Arrangements, Vol. 6",
+        "url": "https://open.spotify.com/album/63WdGzH0862chzwyEJ3u9i"
+      },
+      "artists": [
+        {
+          "name": "Rock N' Roll Baby Lullaby Ensemble",
+          "url": "https://open.spotify.com/artist/3w7F4iuvShKcaVSMVikhY4"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287472,
+      "name": "Boys Don't Cry (Lullaby Arrangement of the Cure)",
+      "url": "https://open.spotify.com/track/2yF8fSSkCw4wTyS2hmvDsa"
+    },
+    {
+      "album": {
+        "name": "The Bed Album: Lullaby renditions of Weezer songs",
+        "url": "https://open.spotify.com/album/20s4tp5z91zvUAyfMrVIrT"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231302,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/5xmWeMhi9VwuLyiju0ofRS"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Red Hot Chili Peppers",
+        "url": "https://open.spotify.com/album/6fcJ5hR9e2nr4hrAosFKdL"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250153,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/2vkSD2p0x0nnouua688npq"
+    },
+    {
+      "album": {
+        "name": "Rock para Beb\u00e9s, Vol. 2",
+        "url": "https://open.spotify.com/album/1LGdRKXbh2RfOxxGU63vH8"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Para Beb\u00e9s Exigentes de I\u2019m In Records",
+          "url": "https://open.spotify.com/artist/4NOFYnTaifQQHEmsx3nDn0"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344305,
+      "name": "Champagne Supernova",
+      "url": "https://open.spotify.com/track/0E3aQtq7IDJkdj1MJtUjx4"
+    },
+    {
+      "album": {
+        "name": "Chasing Cars",
+        "url": "https://open.spotify.com/album/1x5u0J9yL0RbjSNbhIyLN0"
+      },
+      "artists": [
+        {
+          "name": "Contando Ovejas",
+          "url": "https://open.spotify.com/artist/1Bthkz4oRL6XLosY8YxsJu"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165411,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/36TR6gLtGazIcdpaJ1yjm8"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Coldplay",
+        "url": "https://open.spotify.com/album/024hcYNo4l8DXgCfoXR4JA"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307600,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/7gB0K0wT0YHvZp2rMeYNEE"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions Of Radiohead",
+        "url": "https://open.spotify.com/album/0JMfy5tkYdCR1ymdgw6aws"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Creep (made famous by \"Radiohead\")",
+      "url": "https://open.spotify.com/track/5yB9kJ7dtdI29lox7vZKlL"
+    },
+    {
+      "album": {
+        "name": "Good Day, Goodnight",
+        "url": "https://open.spotify.com/album/68gKLBpYEGzjm5XPPOtNS3"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "Dream On (Lullaby Rendition of Aerosmith)",
+      "url": "https://open.spotify.com/track/3cTsezd2mOqcABN3uJ5I6E"
+    },
+    {
+      "album": {
+        "name": "Good Day, Goodnight",
+        "url": "https://open.spotify.com/album/68gKLBpYEGzjm5XPPOtNS3"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Enter Sandman (Lullaby Rendition of Metallica)",
+      "url": "https://open.spotify.com/track/53ts6goB1OVuOuIUzi73M0"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Foo Fighters",
+        "url": "https://open.spotify.com/album/0qNWA2H7IyVI1FLQ5Rtog4"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238172,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/2peJkv2WJzMa6C96MwDMOZ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Arctic Monkeys",
+        "url": "https://open.spotify.com/album/1Jbdd8jeTWele21em0LA4v"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221311,
+      "name": "Flourescent Adolescent",
+      "url": "https://open.spotify.com/track/1Xsd6QYIyzrbPQi7OMbRWd"
+    },
+    {
+      "album": {
+        "name": "The Bed Album: Lullaby renditions of Weezer songs",
+        "url": "https://open.spotify.com/album/20s4tp5z91zvUAyfMrVIrT"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292245,
+      "name": "Hash Pipe",
+      "url": "https://open.spotify.com/track/6p5g5DMRTvoxWvfW8IsmIm"
+    },
+    {
+      "album": {
+        "name": "Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep",
+        "url": "https://open.spotify.com/album/1nRG1dzjOsGUfsGutW61Zw"
+      },
+      "artists": [
+        {
+          "name": "Happy Baby Lullaby Collection",
+          "url": "https://open.spotify.com/artist/1iqR6Cz7VsSxZcJKaUEtHk"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252029,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/0gmchHebES8Gl07S3h0LKu"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of David Bowie",
+        "url": "https://open.spotify.com/album/1zaWr78BGkZVNkn6Jxdv2x"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "Heroes",
+      "url": "https://open.spotify.com/track/5WR4r6miyqq3xyshoGRshH"
+    },
+    {
+      "album": {
+        "name": "Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep",
+        "url": "https://open.spotify.com/album/1nRG1dzjOsGUfsGutW61Zw"
+      },
+      "artists": [
+        {
+          "name": "Happy Baby Lullaby Collection",
+          "url": "https://open.spotify.com/artist/1iqR6Cz7VsSxZcJKaUEtHk"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289270,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/6O8Ki1ICskCCL23Rgr2x5U"
+    },
+    {
+      "album": {
+        "name": "I'll Try Anything Once",
+        "url": "https://open.spotify.com/album/4cPAYAnihnccuzrmEc9Zr6"
+      },
+      "artists": [
+        {
+          "name": "Noche Larga",
+          "url": "https://open.spotify.com/artist/4QOp3aQnEKX1eFwZiT5U3I"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "I'll Try Anything Once",
+      "url": "https://open.spotify.com/track/6J74cPo8htepTgNlFSNI8t"
+    },
+    {
+      "album": {
+        "name": "Baby Beatles Lullaby Children Songs. Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep",
+        "url": "https://open.spotify.com/album/1nRG1dzjOsGUfsGutW61Zw"
+      },
+      "artists": [
+        {
+          "name": "Happy Baby Lullaby Collection",
+          "url": "https://open.spotify.com/artist/1iqR6Cz7VsSxZcJKaUEtHk"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207062,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/1igGCweIaNTvsKf1s4bbop"
+    },
+    {
+      "album": {
+        "name": "The Bed Album: Lullaby renditions of Weezer songs",
+        "url": "https://open.spotify.com/album/20s4tp5z91zvUAyfMrVIrT"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314815,
+      "name": "Island in the Sun",
+      "url": "https://open.spotify.com/track/0Bcbyxocy7r1AXdTDOKtwW"
+    },
+    {
+      "album": {
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/58uJT0HSf54t2Nz5NB8TYi"
+      },
+      "artists": [
+        {
+          "name": "Dreamlandia",
+          "url": "https://open.spotify.com/artist/4790FBLqPiA1NQMjcWA8CC"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190263,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/7cJfqP4wkoUz8Kyo7wLU0H"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of David Bowie",
+        "url": "https://open.spotify.com/album/1zaWr78BGkZVNkn6Jxdv2x"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Let's Dance",
+      "url": "https://open.spotify.com/track/75aMbDB8HJpP1sKBuo72q2"
+    },
+    {
+      "album": {
+        "name": "Lisztomania",
+        "url": "https://open.spotify.com/album/3DkHCdgHlyaWyEcBzB55z8"
+      },
+      "artists": [
+        {
+          "name": "Bajo La Estrella",
+          "url": "https://open.spotify.com/artist/7s1HQEzaCvDcYYtr8qr8sN"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134545,
+      "name": "Lisztomania",
+      "url": "https://open.spotify.com/track/61W9kTDD6jCwbDSFLb1RwV"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Clash",
+        "url": "https://open.spotify.com/album/7JEwoxnhx0LdtPCh2sgLFq"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/5qj5C42PfQtZMUhLH4MfXt"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/7pX2hZ0IDSHV1cKFPsp1c4"
+      },
+      "artists": [
+        {
+          "name": "Dormir Cansado",
+          "url": "https://open.spotify.com/artist/2k5Xd0Y1xLJbl4cUlELEdv"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/6KDsdqE5RxSHLuFy0qv7y6"
+    },
+    {
+      "album": {
+        "name": "Rock para Beb\u00e9s, Vol. 3",
+        "url": "https://open.spotify.com/album/75CgaPMlxOe7RcpTSJoaTy"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Para Beb\u00e9s Exigentes de I\u2019m In Records",
+          "url": "https://open.spotify.com/artist/4NOFYnTaifQQHEmsx3nDn0"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115226,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2MF0FZDa1gKYXUcVqEqsOC"
+    },
+    {
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2bss97YLOf9CV576LURoGN"
+      },
+      "artists": [
+        {
+          "name": "Una Sola Luna",
+          "url": "https://open.spotify.com/artist/6ITQLDj2chSWcXZ2sLjbd3"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/3V54dtiZDJLI0f3sgPC0fj"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Guns N' Roses",
+        "url": "https://open.spotify.com/album/05yTrZpLgwcKRsILpjDtSi"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/1D4AmpKXaRhLHGGoCsJxzx"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queen",
+        "url": "https://open.spotify.com/album/7GWzwOQTOGlyqwUOJSWPCN"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Radio Ga Ga",
+      "url": "https://open.spotify.com/track/1lntq3ITTmztgxwiXbw5tn"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Clash",
+        "url": "https://open.spotify.com/album/5uYUR7HqfGtPZrhL1qhcPq"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161920,
+      "name": "Rock the Casbah",
+      "url": "https://open.spotify.com/track/50II44HZBCH4ZOEkTNhh1G"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the White Stripes",
+        "url": "https://open.spotify.com/album/2m6g1cDTiTLL7G46DPpMFi"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/5xTtX3g7Q5Qufz8Ck74Ccp"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Kings of Leon",
+        "url": "https://open.spotify.com/album/0Osn7elgAmOV1cGB3YdLEW"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246813,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/2u3RwIsOM8mc8g3w5CVeR6"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions Of The Killers",
+        "url": "https://open.spotify.com/album/6JDo5LSDBkyDV8UmuNYrcY"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233172,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/7cCfcm94t7PCfh8ANqovxt"
+    },
+    {
+      "album": {
+        "name": "Baby Beatles Lullaby Children Songs: Sweet Lullaby Renditions of Beatles Fav's Help Rock a Bye Your Kids & Baby to Sleep, Vol.2",
+        "url": "https://open.spotify.com/album/5iH1vmioHtV8EGOF9aIGBm"
+      },
+      "artists": [
+        {
+          "name": "Happy Baby Lullaby Band",
+          "url": "https://open.spotify.com/artist/595sSXSxt1PkbmEGTJjOaZ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226185,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/1WCHawH2LOw9QLb2HDvwGg"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Muse",
+        "url": "https://open.spotify.com/album/6hlkSvXh6t4QALZmJSTJcv"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/4mKHjsRBHyQwyc51FUfNYH"
+    },
+    {
+      "album": {
+        "name": "Rolling Stones for Babies",
+        "url": "https://open.spotify.com/album/0LXu8zxHPpodnMQM7W0ISb"
+      },
+      "artists": [
+        {
+          "name": "Cool Babies",
+          "url": "https://open.spotify.com/artist/1JEM06PA0tdBvO5bvOqdB7"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225306,
+      "name": "Start Me Up",
+      "url": "https://open.spotify.com/track/1K5Hd5oAId5c0d6ZyNJKph"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Guns N' Roses",
+        "url": "https://open.spotify.com/album/05yTrZpLgwcKRsILpjDtSi"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247714,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/4qs1JVhsu2ivfGEZVLvE7X"
+    },
+    {
+      "album": {
+        "name": "Sweet Disposition",
+        "url": "https://open.spotify.com/album/0SYwFRS1KihFySI9BYGjQh"
+      },
+      "artists": [
+        {
+          "name": "Cortando Troncos",
+          "url": "https://open.spotify.com/artist/5K2ipzlsy5eOnGSr8Q9jCn"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223667,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/6HBgCtC5gmoeqRVNfcTDsS"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the White Stripes",
+        "url": "https://open.spotify.com/album/2m6g1cDTiTLL7G46DPpMFi"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/0manm6PulVvLqx7NSMSZq8"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of David Bowie",
+        "url": "https://open.spotify.com/album/1zaWr78BGkZVNkn6Jxdv2x"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "The Man Who Sold the World",
+      "url": "https://open.spotify.com/track/0Jsf0LYifzwtZSr3mdRs8q"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Foo Fighters",
+        "url": "https://open.spotify.com/album/0qNWA2H7IyVI1FLQ5Rtog4"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238466,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/6JBSBYjksH0uFUjisNTlmR"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Coldplay",
+        "url": "https://open.spotify.com/album/024hcYNo4l8DXgCfoXR4JA"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/3o6X5VYFU4XktNWlsYaHvx"
+    },
+    {
+      "album": {
+        "name": "Good Day, Goodnight",
+        "url": "https://open.spotify.com/album/68gKLBpYEGzjm5XPPOtNS3"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Tonight, Tonight (Lullaby Rendition of Smashing Pumpkins)",
+      "url": "https://open.spotify.com/track/5eHa7IRVwIwWFn7v7ZFisj"
+    },
+    {
+      "album": {
+        "name": "Babies Go Rolling Stones",
+        "url": "https://open.spotify.com/album/7vjvtyjCgozMa4wVUrtVgz"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195386,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/2gibOqT6YdemHGt9gWBVKm"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queen",
+        "url": "https://open.spotify.com/album/7GWzwOQTOGlyqwUOJSWPCN"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218413,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4b4inATXkXR2Z2idhdXfNN"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Muse",
+        "url": "https://open.spotify.com/album/6hlkSvXh6t4QALZmJSTJcv"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Uprising",
+      "url": "https://open.spotify.com/track/0OBkHpmo0XZkyJh9SoJcab"
+    },
+    {
+      "album": {
+        "name": "VCR",
+        "url": "https://open.spotify.com/album/05AsoIzFmsdbAtHYwkYFop"
+      },
+      "artists": [
+        {
+          "name": "Duerme Bebe",
+          "url": "https://open.spotify.com/artist/4KaV693MEVrREqsEhM2hKQ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207209,
+      "name": "VCR",
+      "url": "https://open.spotify.com/track/7qoXrEAglzcAlfvjaBzT1h"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Green Day",
+        "url": "https://open.spotify.com/album/2TLCCLv44eXZGgiE5VKfuc"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247714,
+      "name": "Wake Me Up When September Ends",
+      "url": "https://open.spotify.com/track/51dJ3QCSWInbWLxr4F7ybu"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Guns N' Roses",
+        "url": "https://open.spotify.com/album/05yTrZpLgwcKRsILpjDtSi"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202727,
+      "name": "Welcome to the Jungle",
+      "url": "https://open.spotify.com/track/3t0ytNeJAITmUW52tQVf9Q"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Pink Floyd",
+        "url": "https://open.spotify.com/album/6HZTgttO4nB11xvRs7h1UP"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/7y1URPJebj9O2ib5aejOmD"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Oasis",
+        "url": "https://open.spotify.com/album/2LA4GaaI4G7S4B4jKHRjhd"
+      },
+      "artists": [
+        {
+          "name": "Baby Music from I'm In Records",
+          "url": "https://open.spotify.com/artist/1PBuUzNkU3O6mXliO7Mpih"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255105,
+      "name": "Wonderwall - Lullaby Version",
+      "url": "https://open.spotify.com/track/329ZyZKf60aOArjoqicHnd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYQcxgTJZWi5"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RmYiHQWCdR.md) - [plain]
 
 > indescribable tension\. lingering eyes\. that slow burn kind of love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,482 likes - 42 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,974 likes - 42 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

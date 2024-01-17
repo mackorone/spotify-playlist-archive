@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 
 > I'll do yours if you do mine...The official playlist for Do Revenge, out now on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,121 likes - 28 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,495 likes - 28 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KTIOxdCy0E.md) - [plain]
 | 21 | [Bitter Bitch](https://open.spotify.com/track/6SN58S8GAqUhl5SXcxmpiY) | [Helen](https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM) | [Bitter Bitch](https://open.spotify.com/album/6Si3G23umj6SBMFGiUbTTm) | 2:17 |
 | 22 | [Dead To Me \- Do Revenge remix](https://open.spotify.com/track/06WXwDsXgpeZkSLKehzQzJ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Dead To Me \(Do Revenge remix\)](https://open.spotify.com/album/6D2yohFJQYiwNvIIMXYQN5) | 2:38 |
 | 23 | [she's all i wanna be](https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [she's all i wanna be](https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8) | 3:26 |
-| 24 | [Shame Reactions](https://open.spotify.com/track/4N7dBKVIo7ZrStAGThgPzQ) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/0iSh2sXytE5jbpPiKts3z4) | 1:32 |
+| 24 | [Shame Reactions](https://open.spotify.com/track/0GaNf8DeuRwRadtqNrfvYu) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Death of a Cheerleader](https://open.spotify.com/album/4jhKUGRhFwUqc2427ydBi3) | 1:32 |
 | 25 | [Happier Than Ever](https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:58 |
 | 26 | [Praise You](https://open.spotify.com/track/3yGy1JYz3zQKlxSgjgpQqX) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [You've Come A Long Way Baby](https://open.spotify.com/album/5oF9RaCKaF7e5siW9zdl6L) | 5:23 |
 | 27 | [Bitch](https://open.spotify.com/track/3i6qNxyVgIdUZTTi5m25EM) | [Meredith Brooks](https://open.spotify.com/artist/2QmLFuIDtNDmmJY3OtvinN) | [Blurring The Edges](https://open.spotify.com/album/56viTB3cu7FbFwAWDctRz1) | 4:12 |

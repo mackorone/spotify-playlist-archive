@@ -4,7 +4,7 @@
 
 > A groovy and soulful house collection\. Cover: Calvin Harris, Eliza Rose
 
-103 songs - 6 hr 13 min
+104 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-09-05 |  |
 | [Gold Dust](https://open.spotify.com/track/3oM99tbLGsBZtI4zLfZvpG) | [Daniel Steinberg](https://open.spotify.com/artist/6mU76NVrD4mcmA5WIoiUMV) | [Gold Dust / Fulton Street](https://open.spotify.com/album/7xiXSkwq2AZskCCi9z3zd1) | 4:01 | 2023-09-05 | 2023-10-07 |
 | [Got What U Need \(feat\. MELLY OHH\)](https://open.spotify.com/track/5udjRtxA0Ivt0wt8Kz5lSG) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [MELLY OHH](https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa) | [Got What U Need \(feat\. MELLY OHH\)](https://open.spotify.com/album/4IhXKu4TOSmYb9xA986wad) | 2:56 | 2023-09-05 | 2023-10-28 |
-| [Groove It Up \- Radio\-Edit](https://open.spotify.com/track/6TX8ZxZRwGIpxSaMQMRJxI) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Groove It Up](https://open.spotify.com/album/5kVt5OxMsyzpuWfmHN3O0O) | 3:37 | 2023-09-05 |  |
+| [Groove It Up \- Radio\-Edit](https://open.spotify.com/track/6TX8ZxZRwGIpxSaMQMRJxI) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [Groove It Up](https://open.spotify.com/album/5kVt5OxMsyzpuWfmHN3O0O) | 3:37 | 2023-09-05 | 2024-01-06 |
 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-09-05 |  |
 | [Happy Highs](https://open.spotify.com/track/6PqmmjJRo2Ab8JrH78n3Gc) | [Nyra](https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8) | [Canoe 15](https://open.spotify.com/album/5gKBaKrN1IygCErcL8WSPw) | 5:46 | 2023-09-05 | 2023-12-02 |
 | [He's Alright \- David Penn Extended Edit](https://open.spotify.com/track/6Il5eeNU4qrvbxy97v3P3u) | [Jame Starck](https://open.spotify.com/artist/7vlDs9hVx8VrrFFn60SX8Y), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3), [Zetaphunk](https://open.spotify.com/artist/5Ib1N02pK2hNPOjNlJZ4Jx), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Alfreda Gerald](https://open.spotify.com/artist/5eyXnF9kHVXWX8wsheHHz7) | [He's Alright \(David Penn Edit\)](https://open.spotify.com/album/3XChj0aXEjhj2ZFmZ3eBmq) | 5:28 | 2023-11-10 |  |
@@ -101,6 +101,7 @@
 | [Technicolour Kenny](https://open.spotify.com/track/6CKztDSyFEe7ti6HEGCHng) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d), [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Technicolour Kenny](https://open.spotify.com/album/1Sl4ptxEnHWL678iC3xSLK) | 3:50 | 2023-09-05 | 2023-09-30 |
 | [Tell Me](https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv) | [gome](https://open.spotify.com/artist/2kXp8r42AOwb6s5GzdiukU) | [Tell Me](https://open.spotify.com/album/1wR8GmaQ6xYVL1i1918Ilw) | 3:53 | 2023-11-23 |  |
 | [The Big Easy](https://open.spotify.com/track/3Q4DJp31Dat8RoPN3KwpJy) | [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [The Big Easy](https://open.spotify.com/album/3zfEQld2beOeYmEU9uQONf) | 3:05 | 2023-09-05 |  |
+| [The Good Times \- Radio\-Edit](https://open.spotify.com/track/5pD8VMXDNrb9UkGHOEIHZZ) | [Dompe](https://open.spotify.com/artist/6izT1rIpURdkh4cjgsileU) | [The Good Times](https://open.spotify.com/album/3ZHcQ7pexuhTzT0xFT3Low) | 3:43 | 2024-01-05 |  |
 | [The One](https://open.spotify.com/track/0ZqgZiFqhDivCdXwltw7Up) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [The One](https://open.spotify.com/album/2ImuqZJqJQ3ad6lM0Nwem2) | 2:46 | 2023-09-05 |  |
 | [This Track](https://open.spotify.com/track/4aultJJqviNskMrhj3Ji3N) | [Musumeci](https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf), [Phunkadelica](https://open.spotify.com/artist/33cby3EjCXw067xjlgOzBj), [Ready In LED](https://open.spotify.com/artist/6VfpeLTukyuFbKMgQdeNkZ) | [The Weather Report, Vol\. 1](https://open.spotify.com/album/2hk8zHNUFuevB3xdG2wRbS) | 4:57 | 2023-10-13 |  |
 | [Too Late to Say Sorry](https://open.spotify.com/track/2ML4DCDP2d0xg9O6Haatin) | [MANIBA](https://open.spotify.com/artist/4XAXNc9B0uZ8iKANChhZIx), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Too Late to Say Sorry](https://open.spotify.com/album/4R5UWjU93Xjx8v2HrEtd8V) | 2:15 | 2023-09-05 | 2023-09-30 |

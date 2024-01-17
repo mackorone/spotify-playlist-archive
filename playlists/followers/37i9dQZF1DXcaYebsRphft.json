@@ -1,290 +1,639 @@
 {
-  "2023-03-19": 4813,
-  "2023-03-20": 4830,
-  "2023-03-21": 4845,
-  "2023-03-22": 4863,
-  "2023-03-23": 4873,
-  "2023-03-24": 4873,
-  "2023-03-25": 4894,
-  "2023-03-26": 4905,
-  "2023-03-27": 4916,
-  "2023-03-28": 4934,
-  "2023-03-29": 4949,
-  "2023-03-30": 4978,
-  "2023-03-31": 4978,
-  "2023-04-01": 4997,
-  "2023-04-02": 5005,
-  "2023-04-03": 5017,
-  "2023-04-04": 5025,
-  "2023-04-05": 5035,
-  "2023-04-06": 5049,
-  "2023-04-07": 5069,
-  "2023-04-09": 5100,
-  "2023-04-10": 5108,
-  "2023-04-11": 5129,
-  "2023-04-12": 5129,
-  "2023-04-13": 5130,
-  "2023-04-14": 5137,
-  "2023-04-15": 5152,
-  "2023-04-16": 5172,
-  "2023-04-17": 5184,
-  "2023-04-18": 5188,
-  "2023-04-19": 5201,
-  "2023-04-20": 5213,
-  "2023-04-21": 5224,
-  "2023-04-22": 5225,
-  "2023-04-23": 5235,
-  "2023-04-24": 5243,
-  "2023-04-25": 5259,
-  "2023-04-26": 5265,
-  "2023-04-27": 5278,
-  "2023-04-28": 5290,
-  "2023-04-29": 5295,
-  "2023-04-30": 5306,
-  "2023-05-01": 5314,
-  "2023-05-02": 5321,
-  "2023-05-03": 5332,
-  "2023-05-04": 5343,
-  "2023-05-05": 5350,
-  "2023-05-06": 5356,
-  "2023-05-07": 5371,
-  "2023-05-08": 5379,
-  "2023-05-09": 5401,
-  "2023-05-10": 5412,
-  "2023-05-11": 5414,
-  "2023-05-12": 5425,
-  "2023-05-13": 5438,
-  "2023-05-14": 5448,
-  "2023-05-15": 5460,
-  "2023-05-16": 5474,
-  "2023-05-17": 5482,
-  "2023-05-18": 5489,
-  "2023-05-19": 5496,
-  "2023-05-20": 5515,
-  "2023-05-21": 5515,
-  "2023-05-22": 5515,
-  "2023-05-23": 5532,
-  "2023-05-24": 5543,
-  "2023-05-25": 5543,
-  "2023-05-26": 5554,
-  "2023-05-27": 5563,
-  "2023-05-28": 5567,
-  "2023-05-29": 5567,
-  "2023-05-30": 5668,
-  "2023-05-31": 5704,
-  "2023-06-01": 5730,
-  "2023-06-02": 5737,
-  "2023-06-03": 5751,
-  "2023-06-04": 5768,
-  "2023-06-05": 5781,
-  "2023-06-06": 5793,
-  "2023-06-07": 5806,
-  "2023-06-08": 5814,
-  "2023-06-09": 5823,
-  "2023-06-10": 5828,
-  "2023-06-11": 5833,
-  "2023-06-12": 5841,
-  "2023-06-13": 5844,
-  "2023-06-14": 5846,
-  "2023-06-15": 5850,
-  "2023-06-16": 5858,
-  "2023-06-17": 5861,
-  "2023-06-18": 5869,
-  "2023-06-19": 5873,
-  "2023-06-20": 5872,
-  "2023-06-21": 5877,
-  "2023-06-22": 5880,
-  "2023-06-23": 5883,
-  "2023-06-24": 5886,
-  "2023-06-25": 5894,
-  "2023-06-26": 5897,
-  "2023-06-27": 5901,
-  "2023-06-28": 5907,
-  "2023-06-29": 5910,
-  "2023-06-30": 5912,
-  "2023-07-01": 5924,
-  "2023-07-02": 5924,
-  "2023-07-03": 5936,
-  "2023-07-04": 5938,
-  "2023-07-05": 5951,
-  "2023-07-06": 5960,
-  "2023-07-07": 5960,
-  "2023-07-08": 5962,
-  "2023-07-09": 5973,
-  "2023-07-10": 5977,
-  "2023-07-11": 5978,
-  "2023-07-12": 5983,
-  "2023-07-13": 5990,
-  "2023-07-14": 5996,
-  "2023-07-15": 5996,
-  "2023-07-16": 6005,
-  "2023-07-17": 6009,
-  "2023-07-18": 6012,
-  "2023-07-19": 6019,
-  "2023-07-20": 6023,
-  "2023-07-21": 6030,
-  "2023-07-22": 6027,
-  "2023-07-23": 6027,
-  "2023-07-24": 6035,
-  "2023-07-25": 6045,
-  "2023-07-26": 6051,
-  "2023-07-27": 6054,
-  "2023-07-28": 6060,
-  "2023-07-29": 6061,
-  "2023-07-30": 6067,
-  "2023-07-31": 6067,
-  "2023-08-01": 6075,
-  "2023-08-02": 6078,
-  "2023-08-03": 6079,
-  "2023-08-04": 6082,
-  "2023-08-05": 6084,
-  "2023-08-06": 6089,
-  "2023-08-07": 6089,
-  "2023-08-08": 6091,
-  "2023-08-09": 6097,
-  "2023-08-10": 6099,
-  "2023-08-11": 6100,
-  "2023-08-12": 6105,
-  "2023-08-13": 6105,
-  "2023-08-14": 6117,
-  "2023-08-15": 6120,
-  "2023-08-16": 6120,
-  "2023-08-17": 6128,
-  "2023-08-18": 6131,
-  "2023-08-19": 6135,
-  "2023-08-20": 6137,
-  "2023-08-21": 6144,
-  "2023-08-22": 6143,
-  "2023-08-23": 6153,
-  "2023-08-24": 6160,
-  "2023-08-25": 6163,
-  "2023-08-26": 6165,
-  "2023-08-27": 6172,
-  "2023-08-28": 6180,
-  "2023-08-29": 6184,
-  "2023-08-30": 6186,
-  "2023-08-31": 6187,
-  "2023-09-01": 6222,
-  "2023-09-02": 6222,
-  "2023-09-03": 6230,
-  "2023-09-04": 6245,
-  "2023-09-05": 6266,
-  "2023-09-06": 6286,
-  "2023-09-07": 6298,
-  "2023-09-08": 6317,
-  "2023-09-09": 6339,
-  "2023-09-10": 6374,
-  "2023-09-11": 6398,
-  "2023-09-12": 6430,
-  "2023-09-13": 6451,
-  "2023-09-14": 6451,
-  "2023-09-15": 6480,
-  "2023-09-16": 6494,
-  "2023-09-17": 6494,
-  "2023-09-18": 6535,
-  "2023-09-19": 6550,
-  "2023-09-20": 6568,
-  "2023-09-21": 6596,
-  "2023-09-22": 6618,
-  "2023-09-23": 6636,
-  "2023-09-24": 6636,
-  "2023-09-25": 6636,
-  "2023-09-26": 6709,
-  "2023-09-27": 6727,
-  "2023-09-28": 6743,
-  "2023-09-29": 6756,
-  "2023-09-30": 6756,
-  "2023-10-01": 6796,
-  "2023-10-02": 6811,
-  "2023-10-03": 6828,
-  "2023-10-04": 6843,
-  "2023-10-05": 6850,
-  "2023-10-06": 6864,
-  "2023-10-07": 6885,
-  "2023-10-08": 6913,
-  "2023-10-09": 6913,
-  "2023-10-10": 6962,
-  "2023-10-11": 6991,
-  "2023-10-12": 6991,
-  "2023-10-13": 7028,
-  "2023-10-14": 7028,
-  "2023-10-15": 7028,
-  "2023-10-16": 7028,
-  "2023-10-17": 7028,
-  "2023-10-18": 7028,
-  "2023-10-19": 7028,
-  "2023-10-20": 7028,
-  "2023-10-21": 7028,
-  "2023-10-22": 7028,
-  "2023-10-23": 7028,
-  "2023-10-24": 7218,
-  "2023-10-25": 7218,
-  "2023-10-26": 7218,
-  "2023-10-27": 7218,
-  "2023-10-28": 7218,
-  "2023-10-29": 7218,
-  "2023-10-30": 7218,
-  "2023-10-31": 7218,
-  "2023-11-01": 7218,
-  "2023-11-02": 7218,
-  "2023-11-03": 7218,
-  "2023-11-04": 7218,
-  "2023-11-05": 7218,
-  "2023-11-06": 7218,
-  "2023-11-07": 7218,
-  "2023-11-08": 7218,
-  "2023-11-09": 7218,
-  "2023-11-10": 7218,
-  "2023-11-11": 7482,
-  "2023-11-12": 7482,
-  "2023-11-13": 7482,
-  "2023-11-14": 7482,
-  "2023-11-15": 7482,
-  "2023-11-16": 7482,
-  "2023-11-17": 7594,
-  "2023-11-18": 7594,
-  "2023-11-19": 7594,
-  "2023-11-20": 7594,
-  "2023-11-21": 7594,
-  "2023-11-22": 7594,
-  "2023-11-23": 7647,
-  "2023-11-24": 7647,
-  "2023-11-25": 7647,
-  "2023-11-26": 7647,
-  "2023-11-27": 7647,
-  "2023-11-28": 7647,
-  "2023-11-29": 7647,
-  "2023-11-30": 7647,
-  "2023-12-01": 7647,
-  "2023-12-02": 7647,
-  "2023-12-03": 7647,
-  "2023-12-04": 7647,
-  "2023-12-05": 7647,
-  "2023-12-06": 7647,
-  "2023-12-07": 7647,
-  "2023-12-08": 7647,
-  "2023-12-09": 7843,
-  "2023-12-10": 7843,
-  "2023-12-11": 7858,
-  "2023-12-12": 7858,
-  "2023-12-13": 7858,
-  "2023-12-14": 7861,
-  "2023-12-15": 7865,
-  "2023-12-16": 7865,
-  "2023-12-17": 7866,
-  "2023-12-18": 7868,
-  "2023-12-19": 7876,
-  "2023-12-20": 7878,
-  "2023-12-21": 7880,
-  "2023-12-22": 7884,
-  "2023-12-23": 7885,
-  "2023-12-24": 7892,
-  "2023-12-25": 7889,
-  "2023-12-26": 7890,
-  "2023-12-27": 7891,
-  "2023-12-30": 7904,
-  "2023-12-31": 7906,
-  "2024-01-01": 7906,
-  "2024-01-02": 7907,
-  "2024-01-03": 7912
+  "2024-01-17": 7942,
+  "date_first_scraped": "2023-03-19",
+  "description": "\u30bb\u30c8\u30ea\u3067\u4f59\u97fb\u306b\u6d78\u308d\u3046\uff012023\u5e742\u670817\u65e5~19\u65e5\u306b\u4eac\u30bb\u30e9\u30c9\u30fc\u30e0\u5927\u962a\u3067\u884c\u308f\u308c\u305f\"NCT DREAM TOUR \u2018THE DREAM SHOW2 : In A DREAM\u2019 - in JAPAN\"\u306e\u30bb\u30c3\u30c8\u30ea\u30b9\u30c8\u3092\u516c\u958b\u3002",
+  "name": "On Tour Japan: NCT DREAM",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "ANL",
+      "url": "https://open.spotify.com/track/3zIvzPKUUdSpDCm1uua6Be"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Beatbox",
+      "url": "https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB"
+    },
+    {
+      "album": {
+        "name": "Best Friend Ever",
+        "url": "https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201440,
+      "name": "Best Friend Ever",
+      "url": "https://open.spotify.com/track/1Z5Dmg7Dvu0X4oSdqLZ3Lu"
+    },
+    {
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200746,
+      "name": "Better Than Gold",
+      "url": "https://open.spotify.com/track/0tIkUSA5njpsBaTAx3z25z"
+    },
+    {
+      "album": {
+        "name": "We Boom - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT"
+    },
+    {
+      "album": {
+        "name": "We Boom - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207155,
+      "name": "Bye My First\u2026",
+      "url": "https://open.spotify.com/track/0qhTNlYrAJBXpHHzay7qvM"
+    },
+    {
+      "album": {
+        "name": "Candle Light - SM STATION",
+        "url": "https://open.spotify.com/album/077Bz6P3dTrhGjYx2vF0yY"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236536,
+      "name": "Candle Light",
+      "url": "https://open.spotify.com/track/6nUpdTLUSel3Zp6lhHZRbX"
+    },
+    {
+      "album": {
+        "name": "Candy - Winter Special Mini Album",
+        "url": "https://open.spotify.com/album/6lqazNXadymQLwUh41qW2K"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/27bIik73QCu8Xzt3xpG1bI"
+    },
+    {
+      "album": {
+        "name": "Chewing Gum",
+        "url": "https://open.spotify.com/album/53wPhgvCnPI6QMvF7SABkX"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197462,
+      "name": "Chewing Gum",
+      "url": "https://open.spotify.com/track/1oacrRLAurXf6ylXFhF2YT"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "Countdown (3, 2, 1)",
+      "url": "https://open.spotify.com/track/5ngy93w3QaZl3mN9YinIux"
+    },
+    {
+      "album": {
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189546,
+      "name": "Dear DREAM",
+      "url": "https://open.spotify.com/track/42HB7NqTtooRK7Lrwvwrq2"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "Diggity",
+      "url": "https://open.spotify.com/track/2JEaSgRiEra5OQrZlnyqXG"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Dive Into You",
+      "url": "https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3Ru4GfBP4JJJtExGBJw2ud"
+    },
+    {
+      "album": {
+        "name": "NCT RESONANCE Pt. 1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/6kudlOyCqSQfsBVSdPZEu4"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/1fFcWSwHHYdrNlDIJWNT0R"
+    },
+    {
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192506,
+      "name": "Fire Alarm",
+      "url": "https://open.spotify.com/track/4HhjBzw5QUpkPzswMsIWZR"
+    },
+    {
+      "album": {
+        "name": "Best Friend Ever",
+        "url": "https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Glitch Mode - Japanese ver.",
+      "url": "https://open.spotify.com/track/5dSHsI8qS9fIE2mYzHqXR0"
+    },
+    {
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Hot Sauce",
+      "url": "https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Irreplaceable",
+      "url": "https://open.spotify.com/track/3EFNqXf54nYARxXm5b7kGT"
+    },
+    {
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218586,
+      "name": "Life Is Still Going On",
+      "url": "https://open.spotify.com/track/3THdOskGxdJcRbp0DcS4s0"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210866,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/2eqehaP6hg04FQ82CLErFd"
+    },
+    {
+      "album": {
+        "name": "Hot Sauce - The 1st Album",
+        "url": "https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "My Youth",
+      "url": "https://open.spotify.com/track/3vG5ilGpaYA2MhVtyTORF1"
+    },
+    {
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Never Goodbye",
+      "url": "https://open.spotify.com/track/5EAfUqytXYbH0yUZR3QGli"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Puzzle Piece",
+      "url": "https://open.spotify.com/track/4hMYovC1APX8ojuANCoeuF"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Quiet Down",
+      "url": "https://open.spotify.com/track/3l8JuoE2LHb7hiFo7lKrkh"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/1V5ilz8ghPl1PZJA1hbw3r"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201773,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/0EMD15EVNwDlgGH2CH6ZEL"
+    },
+    {
+      "album": {
+        "name": "Glitch Mode - The 2nd Album",
+        "url": "https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "Saturday Drip",
+      "url": "https://open.spotify.com/track/2ohOA4P55RsoU1bOanNGyB"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Sorry, Heart",
+      "url": "https://open.spotify.com/track/6GKShCAPVjtOWJTH5tcSoj"
+    },
+    {
+      "album": {
+        "name": "We Boom - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/31ln9LpD1WyhFlOvDp9YJc"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206536,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/6pHjX4thmIYqqmODsW1kIy"
+    },
+    {
+      "album": {
+        "name": "Beatbox - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "To My First",
+      "url": "https://open.spotify.com/track/7cjojsJwncbiCI0rqOOf9j"
+    },
+    {
+      "album": {
+        "name": "We Young - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206791,
+      "name": "Trigger the fever - Bonus Track",
+      "url": "https://open.spotify.com/track/1b0EgjAcJAkOlMh1U5zXLU"
+    },
+    {
+      "album": {
+        "name": "We Go Up",
+        "url": "https://open.spotify.com/album/0pIWpPef8UFx8iQ5KSZsYj"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "We Go Up",
+      "url": "https://open.spotify.com/track/26vOBLHS116a4WNUVlvAUW"
+    },
+    {
+      "album": {
+        "name": "We Young - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/2cEYyauffphZuDONGi6z9b"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "\uac19\uc740 \uc2dc\uac04 \uac19\uc740 \uc790\ub9ac Walk you home",
+      "url": "https://open.spotify.com/track/48U7tDoHquyAGPW119Xpvi"
+    },
+    {
+      "album": {
+        "name": "The First - The 1st Single Album",
+        "url": "https://open.spotify.com/album/4wmCJoHoVwHdSBnLq5d4Sm"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "date_added": "2023-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201980,
+      "name": "\ub9c8\uc9c0\ub9c9 \uccab\uc0ac\ub791 My First and Last",
+      "url": "https://open.spotify.com/track/24PhZrRiALtUXgdwXkEwGt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft"
 }

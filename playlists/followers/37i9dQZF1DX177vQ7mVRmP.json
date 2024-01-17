@@ -1,735 +1,1361 @@
 {
-  "2021-12-25": 3158006,
-  "2021-12-26": 3158640,
-  "2021-12-27": 3160147,
-  "2021-12-28": 3160158,
-  "2021-12-29": 3160991,
-  "2021-12-30": 3161825,
-  "2021-12-31": 3162893,
-  "2022-01-01": 3164739,
-  "2022-01-02": 3165100,
-  "2022-01-03": 3165687,
-  "2022-01-04": 3166541,
-  "2022-01-05": 3167390,
-  "2022-01-06": 3168187,
-  "2022-01-07": 3169034,
-  "2022-01-08": 3170674,
-  "2022-01-09": 3170716,
-  "2022-01-10": 3171516,
-  "2022-01-11": 3172254,
-  "2022-01-12": 3173050,
-  "2022-01-13": 3173824,
-  "2022-01-14": 3174617,
-  "2022-01-15": 3176231,
-  "2022-01-16": 3176282,
-  "2022-01-17": 3177967,
-  "2022-01-18": 3178056,
-  "2022-01-19": 3178580,
-  "2022-01-20": 3179312,
-  "2022-01-21": 3180031,
-  "2022-01-22": 3180757,
-  "2022-01-23": 3181653,
-  "2022-01-24": 3182382,
-  "2022-01-25": 3183011,
-  "2022-01-26": 3183744,
-  "2022-01-27": 3184545,
-  "2022-01-28": 3185410,
-  "2022-01-29": 3186125,
-  "2022-01-30": 3186914,
-  "2022-01-31": 3187620,
-  "2022-02-01": 3188282,
-  "2022-02-02": 3188924,
-  "2022-02-03": 3189513,
-  "2022-02-04": 3190283,
-  "2022-02-05": 3191028,
-  "2022-02-06": 3191805,
-  "2022-02-07": 3192499,
-  "2022-02-08": 3193140,
-  "2022-02-09": 3193871,
-  "2022-02-10": 3194594,
-  "2022-02-11": 3195272,
-  "2022-02-12": 3196202,
-  "2022-02-13": 3197121,
-  "2022-02-14": 3197811,
-  "2022-02-15": 3198560,
-  "2022-02-16": 3199464,
-  "2022-02-17": 3200346,
-  "2022-02-18": 3201220,
-  "2022-02-19": 3202173,
-  "2022-02-20": 3203156,
-  "2022-02-21": 3203995,
-  "2022-02-22": 3204747,
-  "2022-02-23": 3205507,
-  "2022-02-24": 3206500,
-  "2022-02-25": 3207182,
-  "2022-02-26": 3208087,
-  "2022-02-27": 3209710,
-  "2022-02-28": 3209710,
-  "2022-03-01": 3210442,
-  "2022-03-02": 3211182,
-  "2022-03-03": 3211893,
-  "2022-03-04": 3212575,
-  "2022-03-05": 3213357,
-  "2022-03-06": 3214058,
-  "2022-03-07": 3214757,
-  "2022-03-08": 3215415,
-  "2022-03-09": 3216147,
-  "2022-03-10": 3216994,
-  "2022-03-11": 3217762,
-  "2022-03-12": 3218602,
-  "2022-03-13": 3219351,
-  "2022-03-14": 3220065,
-  "2022-03-15": 3220694,
-  "2022-03-16": 3221433,
-  "2022-03-17": 3222226,
-  "2022-03-18": 3223359,
-  "2022-03-19": 3223922,
-  "2022-03-20": 3223922,
-  "2022-03-21": 3225520,
-  "2022-03-22": 3226031,
-  "2022-03-23": 3226669,
-  "2022-03-24": 3227383,
-  "2022-03-25": 3228101,
-  "2022-03-26": 3228797,
-  "2022-03-27": 3229533,
-  "2022-03-28": 3230287,
-  "2022-03-30": 3231564,
-  "2022-03-31": 3232363,
-  "2022-04-01": 3233283,
-  "2022-04-02": 3234328,
-  "2022-04-03": 3235310,
-  "2022-04-04": 3236320,
-  "2022-04-05": 3237816,
-  "2022-04-06": 3239153,
-  "2022-04-07": 3240627,
-  "2022-04-08": 3241872,
-  "2022-04-09": 3243044,
-  "2022-04-10": 3245216,
-  "2022-04-11": 3246237,
-  "2022-04-12": 3246403,
-  "2022-04-13": 3247277,
-  "2022-04-14": 3248356,
-  "2022-04-15": 3249509,
-  "2022-04-16": 3250533,
-  "2022-04-17": 3251680,
-  "2022-04-18": 3252767,
-  "2022-04-19": 3253484,
-  "2022-04-20": 3254444,
-  "2022-04-21": 3255489,
-  "2022-04-22": 3256509,
-  "2022-04-23": 3257539,
-  "2022-04-24": 3258590,
-  "2022-04-25": 3259474,
-  "2022-04-26": 3260369,
-  "2022-04-27": 3261386,
-  "2022-04-28": 3262117,
-  "2022-04-29": 3263572,
-  "2022-04-30": 3264444,
-  "2022-05-01": 3265431,
-  "2022-05-02": 3265431,
-  "2022-05-03": 3266158,
-  "2022-05-04": 3266908,
-  "2022-05-05": 3267650,
-  "2022-05-06": 3268411,
-  "2022-05-07": 3269297,
-  "2022-05-08": 3270408,
-  "2022-05-09": 3270544,
-  "2022-05-10": 3271211,
-  "2022-05-11": 3271880,
-  "2022-05-12": 3272660,
-  "2022-05-13": 3273410,
-  "2022-05-14": 3274260,
-  "2022-05-15": 3275025,
-  "2022-05-16": 3275672,
-  "2022-05-17": 3276269,
-  "2022-05-18": 3276965,
-  "2022-05-19": 3277626,
-  "2022-05-20": 3278484,
-  "2022-05-21": 3279769,
-  "2022-05-22": 3279769,
-  "2022-05-23": 3280467,
-  "2022-05-24": 3281080,
-  "2022-05-25": 3281761,
-  "2022-05-26": 3282364,
-  "2022-05-27": 3283028,
-  "2022-05-28": 3283776,
-  "2022-05-29": 3284402,
-  "2022-05-30": 3285051,
-  "2022-05-31": 3285602,
-  "2022-06-01": 3286702,
-  "2022-06-02": 3286807,
-  "2022-06-03": 3287456,
-  "2022-06-04": 3288118,
-  "2022-06-05": 3288793,
-  "2022-06-06": 3289463,
-  "2022-06-07": 3290105,
-  "2022-06-08": 3290840,
-  "2022-06-09": 3291321,
-  "2022-06-10": 3292027,
-  "2022-06-11": 3292768,
-  "2022-06-12": 3293468,
-  "2022-06-13": 3294105,
-  "2022-06-14": 3294807,
-  "2022-06-15": 3295509,
-  "2022-06-16": 3296105,
-  "2022-06-17": 3296751,
-  "2022-06-18": 3297453,
-  "2022-06-19": 3298715,
-  "2022-06-20": 3298715,
-  "2022-06-21": 3299336,
-  "2022-06-22": 3300528,
-  "2022-06-23": 3300528,
-  "2022-06-24": 3301200,
-  "2022-06-25": 3301851,
-  "2022-06-26": 3302463,
-  "2022-06-27": 3303037,
-  "2022-06-28": 3303562,
-  "2022-06-29": 3304156,
-  "2022-06-30": 3304700,
-  "2022-07-01": 3305421,
-  "2022-07-02": 3306106,
-  "2022-07-03": 3306821,
-  "2022-07-04": 3307393,
-  "2022-07-05": 3307994,
-  "2022-07-06": 3308546,
-  "2022-07-07": 3309156,
-  "2022-07-08": 3309857,
-  "2022-07-09": 3310565,
-  "2022-07-10": 3311302,
-  "2022-07-11": 3311890,
-  "2022-07-12": 3312494,
-  "2022-07-13": 3313068,
-  "2022-07-14": 3313726,
-  "2022-07-15": 3314349,
-  "2022-07-16": 3315058,
-  "2022-07-17": 3315822,
-  "2022-07-18": 3316489,
-  "2022-07-19": 3317126,
-  "2022-07-20": 3317748,
-  "2022-07-21": 3318331,
-  "2022-07-22": 3319005,
-  "2022-07-23": 3319728,
-  "2022-07-24": 3320481,
-  "2022-07-25": 3321123,
-  "2022-07-26": 3321793,
-  "2022-07-27": 3322460,
-  "2022-07-28": 3323186,
-  "2022-07-29": 3323900,
-  "2022-07-30": 3325334,
-  "2022-07-31": 3325334,
-  "2022-08-01": 3326034,
-  "2022-08-02": 3327375,
-  "2022-08-03": 3327375,
-  "2022-08-04": 3327987,
-  "2022-08-05": 3328628,
-  "2022-08-06": 3328628,
-  "2022-08-07": 3328628,
-  "2022-08-08": 3328628,
-  "2022-08-09": 3328628,
-  "2022-08-10": 3328628,
-  "2022-08-11": 3328628,
-  "2022-08-12": 3328628,
-  "2022-08-13": 3328628,
-  "2022-08-14": 3328628,
-  "2022-08-15": 3328628,
-  "2022-08-16": 3328628,
-  "2022-08-17": 3328628,
-  "2022-08-18": 3328628,
-  "2022-08-19": 1445884,
-  "2022-08-20": 1445942,
-  "2022-08-21": 717262,
-  "2022-08-22": 542390,
-  "2022-08-23": 542479,
-  "2022-08-24": 535585,
-  "2022-08-25": 535450,
-  "2022-08-26": 535540,
-  "2022-08-27": 535601,
-  "2022-08-28": 535704,
-  "2022-08-29": 535756,
-  "2022-08-30": 535809,
-  "2022-08-31": 535853,
-  "2022-09-01": 535885,
-  "2022-09-02": 536005,
-  "2022-09-03": 536095,
-  "2022-09-04": 536107,
-  "2022-09-05": 536176,
-  "2022-09-06": 536274,
-  "2022-09-07": 536368,
-  "2022-09-09": 536528,
-  "2022-09-10": 536641,
-  "2022-09-11": 536745,
-  "2022-09-12": 536833,
-  "2022-09-13": 536877,
-  "2022-09-15": 107632,
-  "2022-09-16": 21849,
-  "2022-09-17": 4805,
-  "2022-09-18": 1512,
-  "2022-09-19": 961,
-  "2022-09-20": 956,
-  "2022-09-21": 1073,
-  "2022-09-22": 1200,
-  "2022-09-23": 1345,
-  "2022-09-24": 1491,
-  "2022-09-25": 1639,
-  "2022-09-26": 1783,
-  "2022-09-27": 1921,
-  "2022-09-28": 2066,
-  "2022-09-29": 2219,
-  "2022-09-30": 2361,
-  "2022-10-01": 2502,
-  "2022-10-02": 2618,
-  "2022-10-03": 2745,
-  "2022-10-04": 2865,
-  "2022-10-05": 2983,
-  "2022-10-06": 3095,
-  "2022-10-07": 3239,
-  "2022-10-08": 3368,
-  "2022-10-09": 3636,
-  "2022-10-10": 3665,
-  "2022-10-11": 3787,
-  "2022-10-12": 3947,
-  "2022-10-13": 4053,
-  "2022-10-14": 4190,
-  "2022-10-15": 4333,
-  "2022-10-16": 4487,
-  "2022-10-17": 4658,
-  "2022-10-18": 4778,
-  "2022-10-19": 4912,
-  "2022-10-20": 5033,
-  "2022-10-21": 5165,
-  "2022-10-22": 5274,
-  "2022-10-23": 5443,
-  "2022-10-24": 5583,
-  "2022-10-25": 5721,
-  "2022-10-26": 5856,
-  "2022-10-27": 6040,
-  "2022-10-28": 6192,
-  "2022-10-29": 6320,
-  "2022-10-30": 6469,
-  "2022-10-31": 6611,
-  "2022-11-01": 6739,
-  "2022-11-02": 6839,
-  "2022-11-03": 6979,
-  "2022-11-04": 7111,
-  "2022-11-05": 7233,
-  "2022-11-06": 7357,
-  "2022-11-07": 7466,
-  "2022-11-08": 7589,
-  "2022-11-09": 7709,
-  "2022-11-10": 7822,
-  "2022-11-11": 7949,
-  "2022-11-12": 8107,
-  "2022-11-13": 8197,
-  "2022-11-14": 8327,
-  "2022-11-15": 8449,
-  "2022-11-16": 8557,
-  "2022-11-17": 8668,
-  "2022-11-18": 8718,
-  "2022-11-19": 8699,
-  "2022-11-20": 8835,
-  "2022-11-21": 8814,
-  "2022-11-22": 9072,
-  "2022-11-23": 9058,
-  "2022-11-24": 9372,
-  "2022-11-25": 9533,
-  "2022-11-26": 9618,
-  "2022-11-27": 9742,
-  "2022-11-28": 9865,
-  "2022-11-29": 9956,
-  "2022-11-30": 10043,
-  "2022-12-01": 10207,
-  "2022-12-02": 10291,
-  "2022-12-03": 10473,
-  "2022-12-04": 10653,
-  "2022-12-05": 10836,
-  "2022-12-06": 10967,
-  "2022-12-07": 11092,
-  "2022-12-08": 11249,
-  "2022-12-09": 11362,
-  "2022-12-10": 11491,
-  "2022-12-11": 11608,
-  "2022-12-12": 11736,
-  "2022-12-13": 11858,
-  "2022-12-14": 11965,
-  "2022-12-15": 12097,
-  "2022-12-16": 12226,
-  "2022-12-17": 12339,
-  "2022-12-18": 12450,
-  "2022-12-19": 12575,
-  "2022-12-20": 12786,
-  "2022-12-21": 12786,
-  "2022-12-22": 12884,
-  "2022-12-24": 13120,
-  "2022-12-25": 13209,
-  "2022-12-26": 13312,
-  "2022-12-27": 13428,
-  "2022-12-28": 13554,
-  "2022-12-29": 13678,
-  "2022-12-30": 13826,
-  "2022-12-31": 13939,
-  "2023-01-01": 14035,
-  "2023-01-02": 14123,
-  "2023-01-03": 14229,
-  "2023-01-04": 14298,
-  "2023-01-05": 14390,
-  "2023-01-06": 14498,
-  "2023-01-07": 14651,
-  "2023-01-08": 14670,
-  "2023-01-09": 14792,
-  "2023-01-10": 14890,
-  "2023-01-11": 14985,
-  "2023-01-12": 15070,
-  "2023-01-13": 15171,
-  "2023-01-14": 15358,
-  "2023-01-15": 15395,
-  "2023-01-16": 15494,
-  "2023-01-17": 15602,
-  "2023-01-18": 15729,
-  "2023-01-19": 15828,
-  "2023-01-20": 15937,
-  "2023-01-21": 16058,
-  "2023-01-22": 16188,
-  "2023-01-23": 16295,
-  "2023-01-24": 16401,
-  "2023-01-25": 16516,
-  "2023-01-26": 16591,
-  "2023-01-27": 16701,
-  "2023-01-28": 16801,
-  "2023-01-29": 16901,
-  "2023-01-30": 17011,
-  "2023-01-31": 17011,
-  "2023-02-01": 17170,
-  "2023-02-02": 17249,
-  "2023-02-03": 17356,
-  "2023-02-04": 17482,
-  "2023-02-05": 17611,
-  "2023-02-06": 17723,
-  "2023-02-07": 17800,
-  "2023-02-08": 17997,
-  "2023-02-09": 17997,
-  "2023-02-10": 18086,
-  "2023-02-11": 18415,
-  "2023-02-12": 20300,
-  "2023-02-13": 21638,
-  "2023-02-14": 21638,
-  "2023-02-15": 22962,
-  "2023-02-16": 24252,
-  "2023-02-17": 25535,
-  "2023-02-18": 28100,
-  "2023-02-19": 28371,
-  "2023-02-20": 29259,
-  "2023-02-21": 30363,
-  "2023-02-22": 31492,
-  "2023-02-23": 32645,
-  "2023-02-24": 33700,
-  "2023-02-25": 35247,
-  "2023-02-26": 36102,
-  "2023-02-27": 38221,
-  "2023-02-28": 38221,
-  "2023-03-01": 39276,
-  "2023-03-02": 40344,
-  "2023-03-03": 41505,
-  "2023-03-04": 42533,
-  "2023-03-05": 44794,
-  "2023-03-06": 44794,
-  "2023-03-07": 45852,
-  "2023-03-08": 46730,
-  "2023-03-09": 47686,
-  "2023-03-10": 48716,
-  "2023-03-11": 49773,
-  "2023-03-12": 50790,
-  "2023-03-13": 51844,
-  "2023-03-14": 52791,
-  "2023-03-15": 53948,
-  "2023-03-16": 55357,
-  "2023-03-17": 55357,
-  "2023-03-18": 57637,
-  "2023-03-19": 58761,
-  "2023-03-20": 59770,
-  "2023-03-21": 60797,
-  "2023-03-22": 61871,
-  "2023-03-23": 62864,
-  "2023-03-24": 62864,
-  "2023-03-25": 64909,
-  "2023-03-26": 65997,
-  "2023-03-27": 67054,
-  "2023-03-28": 68139,
-  "2023-03-29": 69342,
-  "2023-03-30": 71282,
-  "2023-03-31": 71282,
-  "2023-04-01": 72297,
-  "2023-04-02": 73311,
-  "2023-04-03": 74308,
-  "2023-04-04": 75366,
-  "2023-04-05": 76367,
-  "2023-04-06": 77321,
-  "2023-04-07": 78362,
-  "2023-04-09": 80263,
-  "2023-04-10": 81150,
-  "2023-04-11": 83006,
-  "2023-04-12": 83006,
-  "2023-04-13": 83950,
-  "2023-04-14": 84950,
-  "2023-04-15": 85877,
-  "2023-04-16": 86811,
-  "2023-04-17": 87720,
-  "2023-04-18": 88611,
-  "2023-04-19": 89620,
-  "2023-04-20": 90690,
-  "2023-04-21": 92194,
-  "2023-04-22": 93516,
-  "2023-04-23": 94734,
-  "2023-04-24": 95873,
-  "2023-04-25": 96911,
-  "2023-04-26": 97954,
-  "2023-04-27": 99009,
-  "2023-04-28": 100224,
-  "2023-04-29": 101388,
-  "2023-04-30": 102529,
-  "2023-05-01": 103649,
-  "2023-05-02": 104722,
-  "2023-05-03": 105749,
-  "2023-05-04": 106814,
-  "2023-05-05": 107915,
-  "2023-05-06": 108922,
-  "2023-05-07": 109996,
-  "2023-05-08": 110994,
-  "2023-05-09": 111903,
-  "2023-05-10": 112877,
-  "2023-05-11": 113863,
-  "2023-05-12": 114898,
-  "2023-05-13": 115946,
-  "2023-05-14": 116889,
-  "2023-05-15": 117819,
-  "2023-05-16": 118701,
-  "2023-05-17": 119648,
-  "2023-05-18": 120541,
-  "2023-05-19": 121545,
-  "2023-05-20": 123360,
-  "2023-05-21": 123360,
-  "2023-05-22": 123360,
-  "2023-05-23": 125027,
-  "2023-05-24": 126609,
-  "2023-05-25": 126877,
-  "2023-05-26": 127962,
-  "2023-05-27": 128977,
-  "2023-05-28": 129895,
-  "2023-05-29": 129895,
-  "2023-05-30": 131594,
-  "2023-05-31": 132467,
-  "2023-06-01": 133364,
-  "2023-06-02": 134276,
-  "2023-06-03": 135176,
-  "2023-06-04": 136094,
-  "2023-06-05": 136931,
-  "2023-06-06": 137647,
-  "2023-06-07": 138564,
-  "2023-06-08": 139516,
-  "2023-06-09": 140544,
-  "2023-06-10": 141461,
-  "2023-06-11": 142361,
-  "2023-06-12": 143300,
-  "2023-06-13": 144231,
-  "2023-06-14": 145126,
-  "2023-06-15": 146049,
-  "2023-06-16": 146953,
-  "2023-06-17": 147926,
-  "2023-06-18": 149305,
-  "2023-06-19": 151551,
-  "2023-06-20": 153992,
-  "2023-06-21": 156003,
-  "2023-06-22": 157696,
-  "2023-06-23": 159219,
-  "2023-06-24": 160713,
-  "2023-06-25": 162396,
-  "2023-06-26": 165203,
-  "2023-06-27": 168103,
-  "2023-06-28": 170757,
-  "2023-06-29": 173241,
-  "2023-06-30": 175301,
-  "2023-07-01": 179298,
-  "2023-07-02": 179298,
-  "2023-07-03": 180954,
-  "2023-07-04": 182655,
-  "2023-07-05": 184116,
-  "2023-07-06": 187108,
-  "2023-07-07": 187108,
-  "2023-07-08": 188682,
-  "2023-07-09": 190164,
-  "2023-07-10": 191470,
-  "2023-07-11": 192750,
-  "2023-07-12": 193965,
-  "2023-07-13": 195275,
-  "2023-07-14": 196519,
-  "2023-07-15": 197571,
-  "2023-07-16": 199041,
-  "2023-07-17": 200285,
-  "2023-07-18": 201407,
-  "2023-07-19": 202540,
-  "2023-07-20": 203676,
-  "2023-07-21": 204757,
-  "2023-07-22": 205985,
-  "2023-07-23": 207168,
-  "2023-07-24": 208471,
-  "2023-07-25": 209619,
-  "2023-07-26": 210748,
-  "2023-07-27": 211906,
-  "2023-07-28": 213143,
-  "2023-07-29": 214440,
-  "2023-07-30": 215655,
-  "2023-07-31": 216755,
-  "2023-08-01": 217883,
-  "2023-08-02": 219001,
-  "2023-08-03": 220085,
-  "2023-08-04": 221241,
-  "2023-08-05": 222468,
-  "2023-08-06": 224606,
-  "2023-08-07": 224606,
-  "2023-08-08": 225585,
-  "2023-08-09": 226580,
-  "2023-08-10": 227734,
-  "2023-08-11": 228828,
-  "2023-08-12": 230017,
-  "2023-08-13": 231118,
-  "2023-08-14": 232235,
-  "2023-08-15": 234448,
-  "2023-08-16": 234448,
-  "2023-08-17": 235563,
-  "2023-08-18": 236766,
-  "2023-08-19": 238075,
-  "2023-08-20": 239312,
-  "2023-08-21": 240527,
-  "2023-08-22": 241724,
-  "2023-08-23": 242860,
-  "2023-08-24": 244086,
-  "2023-08-25": 245260,
-  "2023-08-26": 246561,
-  "2023-08-27": 247804,
-  "2023-08-28": 249004,
-  "2023-08-29": 250168,
-  "2023-08-30": 251340,
-  "2023-08-31": 252579,
-  "2023-09-01": 255194,
-  "2023-09-02": 255194,
-  "2023-09-03": 256523,
-  "2023-09-04": 258121,
-  "2023-09-05": 265965,
-  "2023-09-06": 269226,
-  "2023-09-07": 271994,
-  "2023-09-08": 274730,
-  "2023-09-09": 277181,
-  "2023-09-10": 279365,
-  "2023-09-11": 281241,
-  "2023-09-12": 286401,
-  "2023-09-13": 289740,
-  "2023-09-14": 292477,
-  "2023-09-15": 294940,
-  "2023-09-16": 297139,
-  "2023-09-17": 299196,
-  "2023-09-18": 300988,
-  "2023-09-19": 302565,
-  "2023-09-20": 303969,
-  "2023-09-21": 305465,
-  "2023-09-22": 306860,
-  "2023-09-23": 308278,
-  "2023-09-24": 309624,
-  "2023-09-25": 310821,
-  "2023-09-26": 312217,
-  "2023-09-27": 312217,
-  "2023-09-28": 312217,
-  "2023-09-29": 312217,
-  "2023-09-30": 312217,
-  "2023-10-01": 312217,
-  "2023-10-02": 312217,
-  "2023-10-03": 312217,
-  "2023-10-04": 312217,
-  "2023-10-05": 312217,
-  "2023-10-06": 312217,
-  "2023-10-07": 312217,
-  "2023-10-08": 312217,
-  "2023-10-09": 312217,
-  "2023-10-10": 312217,
-  "2023-10-11": 312217,
-  "2023-10-12": 312217,
-  "2023-10-13": 312217,
-  "2023-10-14": 312217,
-  "2023-10-15": 312217,
-  "2023-10-16": 312217,
-  "2023-10-17": 312217,
-  "2023-10-18": 312217,
-  "2023-10-19": 312217,
-  "2023-10-20": 312217,
-  "2023-10-21": 312217,
-  "2023-10-22": 312217,
-  "2023-10-23": 312217,
-  "2023-10-24": 312217,
-  "2023-10-25": 312217,
-  "2023-10-26": 312217,
-  "2023-10-27": 312217,
-  "2023-10-28": 312217,
-  "2023-10-29": 312217,
-  "2023-10-30": 312217,
-  "2023-10-31": 312217,
-  "2023-11-01": 312217,
-  "2023-11-02": 312217,
-  "2023-11-03": 312217,
-  "2023-11-04": 312217,
-  "2023-11-05": 312217,
-  "2023-11-06": 312217,
-  "2023-11-07": 312217,
-  "2023-11-08": 312217,
-  "2023-11-09": 312217,
-  "2023-11-10": 312217,
-  "2023-11-11": 312217,
-  "2023-11-12": 312217,
-  "2023-11-13": 312217,
-  "2023-11-14": 312217,
-  "2023-11-15": 312217,
-  "2023-11-16": 312217,
-  "2023-11-17": 312217,
-  "2023-11-18": 312217,
-  "2023-11-19": 312217,
-  "2023-11-20": 312217,
-  "2023-11-21": 312217,
-  "2023-11-22": 312217,
-  "2023-11-23": 312217,
-  "2023-11-24": 312217,
-  "2023-11-25": 312217,
-  "2023-11-26": 312217,
-  "2023-11-27": 312217,
-  "2023-11-28": 312217,
-  "2023-11-29": 312217,
-  "2023-11-30": 312217,
-  "2023-12-01": 312217,
-  "2023-12-02": 312217,
-  "2023-12-03": 312217,
-  "2023-12-04": 312217,
-  "2023-12-05": 312217,
-  "2023-12-06": 312217,
-  "2023-12-07": 312217,
-  "2023-12-08": 312217,
-  "2023-12-09": 312217,
-  "2023-12-10": 312217,
-  "2023-12-11": 312217,
-  "2023-12-12": 312217,
-  "2023-12-13": 312217,
-  "2023-12-14": 312217,
-  "2023-12-15": 312217,
-  "2023-12-16": 312217,
-  "2023-12-17": 312217,
-  "2023-12-18": 312217,
-  "2023-12-19": 312217,
-  "2023-12-20": 312217,
-  "2023-12-21": 312217,
-  "2023-12-22": 312217,
-  "2023-12-23": 312217,
-  "2023-12-24": 312217,
-  "2023-12-25": 312217,
-  "2023-12-26": 312217,
-  "2023-12-27": 312217,
-  "2023-12-30": 312217,
-  "2023-12-31": 312217,
-  "2024-01-01": 312217,
-  "2024-01-02": 312217,
-  "2024-01-03": 312217
+  "2024-01-17": 312217,
+  "date_first_scraped": "2021-12-21",
+  "description": "Silk Sonic plus all the essential Bruno Mars hits!",
+  "name": "This Is Bruno Mars",
+  "tracks": [
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/5EA4kogB3cZr2qykFlZDYV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw"
+    },
+    {
+      "album": {
+        "name": "Billionaire - 10's Most Upbeat Pop",
+        "url": "https://open.spotify.com/album/7CVsVD2xyKRlOTLnNvCD90"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/3bO7y94nEH5eIhC1licVVa"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
+    {
+      "album": {
+        "name": "24K Magic (R3hab Remix)",
+        "url": "https://open.spotify.com/album/1onK6XeDccA2NW6SlzQMNK"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158678,
+      "name": "24K Magic - R3hab Remix",
+      "url": "https://open.spotify.com/track/1nSzCAvAvzJj5oIt7m90G0"
+    },
+    {
+      "album": {
+        "name": "Billionaire (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/1PruwGvQDfgh6CTSFWPNtn"
+      },
+      "artists": [
+        {
+          "name": "Travie McCoy",
+          "url": "https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "Billionaire (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2M9ULmQwTaTGmAdXaXpfz5"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2NqyjfDXy0XfXCSPXMsKzi"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/2kpoReN3MY7I0tSF902n0z"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/0S0r2RFucaW9kVjBtcBOV1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284870,
+      "name": "Blast Off",
+      "url": "https://open.spotify.com/track/5ywsqu9AEJnEJhJ05Vf9Me"
+    },
+    {
+      "album": {
+        "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+        "url": "https://open.spotify.com/album/4uoEruXjt0APvHaSqrwqPH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209120,
+      "name": "BLOW (with Chris Stapleton & Bruno Mars)",
+      "url": "https://open.spotify.com/track/6EbduYTr62sSzvl36wWiFM"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250080,
+      "name": "Calling All My Lovelies",
+      "url": "https://open.spotify.com/track/6ObpR8ek44tvWefQRcSo8K"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197469,
+      "name": "Count on Me",
+      "url": "https://open.spotify.com/track/7l1qvxWjxcKpB9PCtBuTbU"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+    },
+    {
+      "album": {
+        "name": "Finesse (Remix) [feat. Cardi B]",
+        "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Finesse - Remix; feat. Cardi B",
+      "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244493,
+      "name": "Gorilla",
+      "url": "https://open.spotify.com/track/2ih2U8ttFzCjnQ5njF3SrR"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222091,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/2tJulUYLDKOg9XrtVkMgcJ"
+    },
+    {
+      "album": {
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Passion Pit",
+          "url": "https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370811,
+      "name": "Grenade - Passion Pit Remix",
+      "url": "https://open.spotify.com/track/7HjK2whApIuUgRVP8akqjk"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "If I Knew",
+      "url": "https://open.spotify.com/track/7lXOqE38eCr979gp27O5wr"
+    },
+    {
+      "album": {
+        "name": "It Will Rain",
+        "url": "https://open.spotify.com/album/4A0vJtV9ok7vmr9ursSKj8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0M3HkE321xpCbCYqVKzr1q"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: Breaking Dawn - Part 1 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
+    },
+    {
+      "album": {
+        "name": "Awesome Movie Mix",
+        "url": "https://open.spotify.com/album/0ZsAVG1OGTDbXQXix4ntXX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257720,
+      "name": "It Will Rain",
+      "url": "https://open.spotify.com/track/2BzceWN3C9fltE2fUJryU9"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open (Live)",
+        "url": "https://open.spotify.com/album/4rRB9bAIwawVcrdLXuq9Qu"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260269,
+      "name": "Leave The Door Open - Live",
+      "url": "https://open.spotify.com/track/1Ffw1qFqCw2IaozOJ5mL2O"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229383,
+      "name": "Liquor Store Blues (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/4KykoaJQ5UxjCpp3lYkvTE"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233478,
+      "name": "Locked out of Heaven",
+      "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+    },
+    {
+      "album": {
+        "name": "Locked out of Heaven (Remix)",
+        "url": "https://open.spotify.com/album/2vf1K6KumbRZnRHa1JeKyD"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Locked out of Heaven - The M Machine Remix",
+      "url": "https://open.spotify.com/track/5WlVx0a6VedSJ60JFYpRBp"
+    },
+    {
+      "album": {
+        "name": "Love's Train",
+        "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307014,
+      "name": "Love's Train",
+      "url": "https://open.spotify.com/track/60gTdTwaNtGAzIxKfeGVfJ"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230192,
+      "name": "Marry You",
+      "url": "https://open.spotify.com/track/22PMfvdz35fFKYnJyMn077"
+    },
+    {
+      "album": {
+        "name": "Tha Carter IV (Deluxe)",
+        "url": "https://open.spotify.com/album/1uuSC0RCJB3dSp8Mb6GflZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228093,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/05pdoheuKPSotkjMgIVX6I"
+    },
+    {
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5hUYsaOyMY32yjRXeuQwGj"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268320,
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/5AkZntfhC6IBpNtWyWTWhk"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "Perm",
+      "url": "https://open.spotify.com/track/1I6pKIyaBp4OebTGLJpCCC"
+    },
+    {
+      "album": {
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148448,
+      "name": "Runaway Baby",
+      "url": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr"
+    },
+    {
+      "album": {
+        "name": "Skate",
+        "url": "https://open.spotify.com/album/4AsebSFI8STBGRcVUJ3Tmo"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/2sXf2JdbB2GlNju00kw9WE"
+    },
+    {
+      "album": {
+        "name": "New RnB",
+        "url": "https://open.spotify.com/album/15xKdOlSlqKg6mwhKQcLmC"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/4wvrMJx6Y1Vc5ZZ2KR518W"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197442,
+      "name": "Smokin Out The Window",
+      "url": "https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb"
+    },
+    {
+      "album": {
+        "name": "Smokin Out The Window",
+        "url": "https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197442,
+      "name": "Smokin Out The Window",
+      "url": "https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl"
+    },
+    {
+      "album": {
+        "name": "Cool Now",
+        "url": "https://open.spotify.com/album/6PjzGbV7eT73zheWbjrh4z"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 197442,
+      "name": "Smokin Out the Window",
+      "url": "https://open.spotify.com/track/5VDxfBZ9BaaTnDoMJsufHX"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198186,
+      "name": "Straight up & Down",
+      "url": "https://open.spotify.com/track/2mrZYZGmPFV3QOyYPZ1zsn"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "album": {
+        "name": "That's What I Like (feat. Gucci Mane) [Remix]",
+        "url": "https://open.spotify.com/album/1z4Zl2hcCiRyB4uIPeqEfr"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234596,
+      "name": "That's What I Like (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/1BEMASUZQDqN5UGxMb1m6A"
+    },
+    {
+      "album": {
+        "name": "That's What I Like (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195888,
+      "name": "That's What I Like - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
+    },
+    {
+      "album": {
+        "name": "That's What I Like (BLVK JVCK Remix)",
+        "url": "https://open.spotify.com/album/0219JhsyibMkftKsI94Mv1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "That's What I Like - BLVK JVCK Remix",
+      "url": "https://open.spotify.com/track/4YS0JF9kSLe15ggwOQqQit"
+    },
+    {
+      "album": {
+        "name": "That's What I Like (PARTYNEXTDOOR Remix)",
+        "url": "https://open.spotify.com/album/2xclonI4faQWl6lhqecGM5"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206696,
+      "name": "That's What I Like - PARTYNEXTDOOR Remix",
+      "url": "https://open.spotify.com/track/64TkpV7m7f09JY7K436pju"
+    },
+    {
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189109,
+      "name": "The Lazy Song",
+      "url": "https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281826,
+      "name": "Too Good to Say Goodbye",
+      "url": "https://open.spotify.com/track/0B0tYbVp7pDQAqKDhgMeaL"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7"
+    },
+    {
+      "album": {
+        "name": "Treasure Remix EP",
+        "url": "https://open.spotify.com/album/7yBnuW3SpMKy3EB9iU0C7p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208278,
+      "name": "Treasure - Cash Cash Radio Mix",
+      "url": "https://open.spotify.com/track/7dQGDSVjt1vS6BsDURjYhS"
+    },
+    {
+      "album": {
+        "name": "Uptown Special",
+        "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269666,
+      "name": "Uptown Funk (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
+        "name": "Uptown Funk (Remixes) (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/6oJPf4A0f047HhhANIFJVK"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277226,
+      "name": "Uptown Funk (feat. Bruno Mars) - Will Sparks Remix",
+      "url": "https://open.spotify.com/track/5MpKzeXvOBFiZpQWV9iP5O"
+    },
+    {
+      "album": {
+        "name": "Late Nite Vibes",
+        "url": "https://open.spotify.com/album/3oEFuwJOovTYyUX8S5lvr4"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 261239,
+      "name": "Versace On the Floor",
+      "url": "https://open.spotify.com/track/1P2Gaaa4dL9TP5Ojwhh0pC"
+    },
+    {
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP"
+    },
+    {
+      "album": {
+        "name": "Versace on the Floor",
+        "url": "https://open.spotify.com/album/3X801hUAmbUAHmatvmMhfA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261240,
+      "name": "Versace on the Floor",
+      "url": "https://open.spotify.com/track/3trg82Eql6tqi2EAxluhy8"
+    },
+    {
+      "album": {
+        "name": "Versace On The Floor (Bruno Mars vs. David Guetta)",
+        "url": "https://open.spotify.com/album/0yDiMZdbFwO5lGB9Dq5wlL"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228300,
+      "name": "Versace on the Floor (Bruno Mars vs. David Guetta)",
+      "url": "https://open.spotify.com/track/5UJshy5HDHdNEVqlJwzsQB"
+    },
+    {
+      "album": {
+        "name": "Wake Up in the Sky",
+        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204664,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213826,
+      "name": "When I Was Your Man",
+      "url": "https://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh"
+    },
+    {
+      "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/58ufpQsJ1DS5kq4hhzQDiI"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228720,
+      "name": "Young Girls",
+      "url": "https://open.spotify.com/track/3G5iN5QBqMeXx3uZPy8tgB"
+    },
+    {
+      "album": {
+        "name": "Mac and Devin Go To High School (Music From and Inspired By The Movie)",
+        "url": "https://open.spotify.com/album/0lRlbYQMtETkabg9fNSqAl"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2021-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Young, Wild & Free (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/2g7uRZ68eLtv74XrxgdT2q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX177vQ7mVRmP"
 }

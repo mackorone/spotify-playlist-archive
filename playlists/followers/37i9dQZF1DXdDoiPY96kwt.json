@@ -1,270 +1,513 @@
 {
-  "2023-04-09": 297,
-  "2023-04-10": 571,
-  "2023-04-11": 1311,
-  "2023-04-12": 1311,
-  "2023-04-13": 2044,
-  "2023-04-14": 2907,
-  "2023-04-15": 3761,
-  "2023-04-16": 4828,
-  "2023-04-17": 5929,
-  "2023-04-18": 6786,
-  "2023-04-19": 7537,
-  "2023-04-20": 8524,
-  "2023-04-21": 9224,
-  "2023-04-22": 9888,
-  "2023-04-23": 10716,
-  "2023-04-24": 11486,
-  "2023-04-25": 11997,
-  "2023-04-26": 12458,
-  "2023-04-27": 12895,
-  "2023-04-28": 13363,
-  "2023-04-29": 13850,
-  "2023-04-30": 14472,
-  "2023-05-01": 15079,
-  "2023-05-02": 15618,
-  "2023-05-03": 16080,
-  "2023-05-04": 16432,
-  "2023-05-05": 16763,
-  "2023-05-06": 17076,
-  "2023-05-07": 17396,
-  "2023-05-08": 17741,
-  "2023-05-09": 18032,
-  "2023-05-10": 18295,
-  "2023-05-11": 18536,
-  "2023-05-12": 18754,
-  "2023-05-13": 18900,
-  "2023-05-14": 19095,
-  "2023-05-15": 19273,
-  "2023-05-16": 19416,
-  "2023-05-17": 19579,
-  "2023-05-18": 19731,
-  "2023-05-19": 19898,
-  "2023-05-20": 20275,
-  "2023-05-21": 20275,
-  "2023-05-22": 20275,
-  "2023-05-23": 20540,
-  "2023-05-24": 20696,
-  "2023-05-25": 20730,
-  "2023-05-26": 20821,
-  "2023-05-27": 20936,
-  "2023-05-28": 21059,
-  "2023-05-29": 21059,
-  "2023-05-30": 21258,
-  "2023-05-31": 21334,
-  "2023-06-01": 21417,
-  "2023-06-02": 21511,
-  "2023-06-03": 21565,
-  "2023-06-04": 21646,
-  "2023-06-05": 21732,
-  "2023-06-06": 21802,
-  "2023-06-07": 21861,
-  "2023-06-08": 21938,
-  "2023-06-09": 21990,
-  "2023-06-10": 22049,
-  "2023-06-11": 22127,
-  "2023-06-12": 22199,
-  "2023-06-13": 22267,
-  "2023-06-14": 22379,
-  "2023-06-15": 22511,
-  "2023-06-16": 22614,
-  "2023-06-17": 22693,
-  "2023-06-18": 22769,
-  "2023-06-19": 22833,
-  "2023-06-20": 22893,
-  "2023-06-21": 22944,
-  "2023-06-22": 23020,
-  "2023-06-23": 23063,
-  "2023-06-24": 23117,
-  "2023-06-25": 23176,
-  "2023-06-26": 23233,
-  "2023-06-27": 23267,
-  "2023-06-28": 23325,
-  "2023-06-29": 23375,
-  "2023-06-30": 23428,
-  "2023-07-01": 23487,
-  "2023-07-02": 23487,
-  "2023-07-03": 23537,
-  "2023-07-04": 23576,
-  "2023-07-05": 23611,
-  "2023-07-06": 23697,
-  "2023-07-07": 23697,
-  "2023-07-08": 23734,
-  "2023-07-09": 23766,
-  "2023-07-10": 23816,
-  "2023-07-11": 23854,
-  "2023-07-12": 23886,
-  "2023-07-13": 23932,
-  "2023-07-14": 23971,
-  "2023-07-15": 24008,
-  "2023-07-16": 24045,
-  "2023-07-17": 24081,
-  "2023-07-18": 24113,
-  "2023-07-19": 24149,
-  "2023-07-20": 24184,
-  "2023-07-21": 24214,
-  "2023-07-22": 24253,
-  "2023-07-23": 24282,
-  "2023-07-24": 24311,
-  "2023-07-25": 24365,
-  "2023-07-26": 24407,
-  "2023-07-27": 24439,
-  "2023-07-28": 24486,
-  "2023-07-29": 24533,
-  "2023-07-30": 24556,
-  "2023-07-31": 24583,
-  "2023-08-01": 24623,
-  "2023-08-02": 24654,
-  "2023-08-03": 24671,
-  "2023-08-04": 24680,
-  "2023-08-05": 24717,
-  "2023-08-06": 24789,
-  "2023-08-07": 24789,
-  "2023-08-08": 24819,
-  "2023-08-09": 24845,
-  "2023-08-10": 24886,
-  "2023-08-11": 24907,
-  "2023-08-12": 24943,
-  "2023-08-13": 24979,
-  "2023-08-14": 25003,
-  "2023-08-15": 25042,
-  "2023-08-16": 25042,
-  "2023-08-17": 25069,
-  "2023-08-18": 25088,
-  "2023-08-19": 25120,
-  "2023-08-20": 25142,
-  "2023-08-21": 25173,
-  "2023-08-22": 25206,
-  "2023-08-23": 25229,
-  "2023-08-24": 25256,
-  "2023-08-25": 25278,
-  "2023-08-26": 25305,
-  "2023-08-27": 25333,
-  "2023-08-28": 25354,
-  "2023-08-29": 25376,
-  "2023-08-30": 25417,
-  "2023-08-31": 25444,
-  "2023-09-01": 25490,
-  "2023-09-02": 25490,
-  "2023-09-03": 25511,
-  "2023-09-04": 25543,
-  "2023-09-05": 25568,
-  "2023-09-06": 25598,
-  "2023-09-07": 25614,
-  "2023-09-08": 25637,
-  "2023-09-09": 25658,
-  "2023-09-10": 25695,
-  "2023-09-11": 25723,
-  "2023-09-12": 25723,
-  "2023-09-13": 25761,
-  "2023-09-14": 25761,
-  "2023-09-15": 25806,
-  "2023-09-16": 25825,
-  "2023-09-17": 25825,
-  "2023-09-18": 25825,
-  "2023-09-19": 25889,
-  "2023-09-20": 25905,
-  "2023-09-21": 25918,
-  "2023-09-22": 25937,
-  "2023-09-23": 25937,
-  "2023-09-24": 25937,
-  "2023-09-25": 25937,
-  "2023-09-26": 25998,
-  "2023-09-27": 25998,
-  "2023-09-28": 26017,
-  "2023-09-29": 26030,
-  "2023-09-30": 26030,
-  "2023-10-01": 26050,
-  "2023-10-02": 26059,
-  "2023-10-03": 26073,
-  "2023-10-04": 26081,
-  "2023-10-05": 26088,
-  "2023-10-06": 26107,
-  "2023-10-07": 26107,
-  "2023-10-08": 26126,
-  "2023-10-09": 26126,
-  "2023-10-10": 26126,
-  "2023-10-11": 26138,
-  "2023-10-12": 26138,
-  "2023-10-13": 26171,
-  "2023-10-14": 26171,
-  "2023-10-15": 26171,
-  "2023-10-16": 26171,
-  "2023-10-17": 26171,
-  "2023-10-18": 26171,
-  "2023-10-19": 26171,
-  "2023-10-20": 26171,
-  "2023-10-21": 26171,
-  "2023-10-22": 26171,
-  "2023-10-23": 26171,
-  "2023-10-24": 26370,
-  "2023-10-25": 26370,
-  "2023-10-26": 26370,
-  "2023-10-27": 26370,
-  "2023-10-28": 26370,
-  "2023-10-29": 26370,
-  "2023-10-30": 26370,
-  "2023-10-31": 26370,
-  "2023-11-01": 26370,
-  "2023-11-02": 26370,
-  "2023-11-03": 26370,
-  "2023-11-04": 26370,
-  "2023-11-05": 26370,
-  "2023-11-06": 26370,
-  "2023-11-07": 26370,
-  "2023-11-08": 26370,
-  "2023-11-09": 26370,
-  "2023-11-10": 26370,
-  "2023-11-11": 26468,
-  "2023-11-12": 26468,
-  "2023-11-13": 26468,
-  "2023-11-14": 26468,
-  "2023-11-15": 26468,
-  "2023-11-16": 26468,
-  "2023-11-17": 26490,
-  "2023-11-18": 26490,
-  "2023-11-19": 26490,
-  "2023-11-20": 26490,
-  "2023-11-21": 26490,
-  "2023-11-22": 26490,
-  "2023-11-23": 26532,
-  "2023-11-24": 26532,
-  "2023-11-25": 26532,
-  "2023-11-26": 26532,
-  "2023-11-27": 26532,
-  "2023-11-28": 26532,
-  "2023-11-29": 26532,
-  "2023-11-30": 26532,
-  "2023-12-01": 26532,
-  "2023-12-02": 26532,
-  "2023-12-03": 26532,
-  "2023-12-04": 26532,
-  "2023-12-05": 26532,
-  "2023-12-06": 26532,
-  "2023-12-07": 26532,
-  "2023-12-08": 26532,
-  "2023-12-09": 26532,
-  "2023-12-10": 26532,
-  "2023-12-11": 26586,
-  "2023-12-12": 26586,
-  "2023-12-13": 26586,
-  "2023-12-14": 26620,
-  "2023-12-15": 26630,
-  "2023-12-16": 26643,
-  "2023-12-17": 26648,
-  "2023-12-18": 26656,
-  "2023-12-19": 26664,
-  "2023-12-20": 26677,
-  "2023-12-21": 26687,
-  "2023-12-22": 26692,
-  "2023-12-23": 26711,
-  "2023-12-24": 26720,
-  "2023-12-25": 26729,
-  "2023-12-26": 26739,
-  "2023-12-27": 26751,
-  "2023-12-30": 26802,
-  "2023-12-31": 26809,
-  "2024-01-01": 26820,
-  "2024-01-02": 26841,
-  "2024-01-03": 26847
+  "2024-01-17": 27190,
+  "date_first_scraped": "2023-04-09",
+  "description": "Revenge is best served raw...Watch Ali Wong and Steven Yeun in Beef, now streaming on Netflix.",
+  "name": "Beef Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287000,
+      "name": "All Is Full of Love",
+      "url": "https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129343,
+      "name": "Cho Bros",
+      "url": "https://open.spotify.com/track/07rS5ito8pMfxeBfaKb7UF"
+    },
+    {
+      "album": {
+        "name": "Under the Pink",
+        "url": "https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD"
+      },
+      "artists": [
+        {
+          "name": "Tori Amos",
+          "url": "https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305493,
+      "name": "Cornflake Girl",
+      "url": "https://open.spotify.com/track/1300POeOaj8qho30FRHjgf"
+    },
+    {
+      "album": {
+        "name": "Cure for Pain",
+        "url": "https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6"
+      },
+      "artists": [
+        {
+          "name": "Morphine",
+          "url": "https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "Cure for Pain",
+      "url": "https://open.spotify.com/track/3hO9gaVixKDoYDrlTBrEWf"
+    },
+    {
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232453,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Steven Yeun as Danny from BEEF",
+          "url": "https://open.spotify.com/artist/0ZfV3vpOQplK2GTGGIvmSq"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/0lCtncsVqIg9uqaS2UKcKB"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204616,
+      "name": "Figures of Light",
+      "url": "https://open.spotify.com/track/3d6TRxA3f7sOZ4oRjW8Nmh"
+    },
+    {
+      "album": {
+        "name": "Floored",
+        "url": "https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74507,
+      "name": "Hibachi Suicide",
+      "url": "https://open.spotify.com/track/6xGcJ2HaHeFJY3YvohOVCc"
+    },
+    {
+      "album": {
+        "name": "This Fire",
+        "url": "https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs"
+      },
+      "artists": [
+        {
+          "name": "Paula Cole",
+          "url": "https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320026,
+      "name": "I Don't Want to Wait",
+      "url": "https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL"
+    },
+    {
+      "album": {
+        "name": "8-Way Santa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/453ha4HyeCoEcH0zCa6VV1"
+      },
+      "artists": [
+        {
+          "name": "Tad",
+          "url": "https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "Jinx - Remastered",
+      "url": "https://open.spotify.com/track/78n6WlaPuUb3th6RNtVJLL"
+    },
+    {
+      "album": {
+        "name": "O-Town",
+        "url": "https://open.spotify.com/album/2yWrBg2LjW4oPnCRQrJJLV"
+      },
+      "artists": [
+        {
+          "name": "O-Town",
+          "url": "https://open.spotify.com/artist/4zKhX6hYCQPNs406umP9Fx"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210400,
+      "name": "Liquid Dreams",
+      "url": "https://open.spotify.com/track/2Pxzfzd1jaZT2F2uqLkZUr"
+    },
+    {
+      "album": {
+        "name": "Hypnotize",
+        "url": "https://open.spotify.com/album/3QxX3NbWyLlLG6lP1xveL3"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167906,
+      "name": "Lonely Day",
+      "url": "https://open.spotify.com/track/1VNWaY3uNfoeWqb5U8x2QX"
+    },
+    {
+      "album": {
+        "name": "Sixteen Stone (Remastered)",
+        "url": "https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y"
+      },
+      "artists": [
+        {
+          "name": "Bush",
+          "url": "https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Machinehead",
+      "url": "https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2"
+    },
+    {
+      "album": {
+        "name": "Siamese Dream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348773,
+      "name": "Mayonaise - 2011 Remaster",
+      "url": "https://open.spotify.com/track/0jmKzJmUEKNbC7eU8YfOiA"
+    },
+    {
+      "album": {
+        "name": "Mighty Joe Moon",
+        "url": "https://open.spotify.com/album/6PtEmK9iNNZVuwYCFePLd4"
+      },
+      "artists": [
+        {
+          "name": "Grant Lee Buffalo",
+          "url": "https://open.spotify.com/artist/31ir0nQWMLTowZmZO8CiBw"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280120,
+      "name": "Mockingbirds",
+      "url": "https://open.spotify.com/track/5x19KF85NUG8HvzvKG0HNk"
+    },
+    {
+      "album": {
+        "name": "Fellow Travelers",
+        "url": "https://open.spotify.com/album/4yzgWf28xZsmCBeZnWvXCv"
+      },
+      "artists": [
+        {
+          "name": "Shearwater",
+          "url": "https://open.spotify.com/artist/0CoiIc6ZLBvF9Cjmb1Cj49"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "Natural One",
+      "url": "https://open.spotify.com/track/4Gqy2Hhl142fdjgVjR3bNx"
+    },
+    {
+      "album": {
+        "name": "Significant Other",
+        "url": "https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289560,
+      "name": "Nookie",
+      "url": "https://open.spotify.com/track/1TEZWG1FdjzDdercCguTwj"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37897,
+      "name": "On the Up",
+      "url": "https://open.spotify.com/track/2TlTxMXBt9GZCDyPmc1yEb"
+    },
+    {
+      "album": {
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151053,
+      "name": "same squad",
+      "url": "https://open.spotify.com/track/0YCl0i8CTDqtISiphhLIE8"
+    },
+    {
+      "album": {
+        "name": "Smash",
+        "url": "https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257826,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP"
+    },
+    {
+      "album": {
+        "name": "Hints, Allegations & Things Left Unsaid",
+        "url": "https://open.spotify.com/album/2B2KQTgQr3UhQf4n2VtoUG"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306040,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/77YKoNCjP5hWqiXMRG2839"
+    },
+    {
+      "album": {
+        "name": "Hopes And Fears",
+        "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Stealing for Church",
+      "url": "https://open.spotify.com/track/4Ixsn3jrJedgDkEltFPUQx"
+    },
+    {
+      "album": {
+        "name": "BEEF (Original Score)",
+        "url": "https://open.spotify.com/album/2JxflpxGl1wCTjfSWRuQ0E"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148445,
+      "name": "The Beef",
+      "url": "https://open.spotify.com/track/4crNEFCXTTeNawMD0s9sqa"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13027,
+      "name": "The Birds Don't Sing, They Screech in Pain",
+      "url": "https://open.spotify.com/track/2VeV0h40xsSK74CL0e9yE4"
+    },
+    {
+      "album": {
+        "name": "BEEF: The Bonus Tracks",
+        "url": "https://open.spotify.com/album/6QW1I8DET9EdgK6JSL5rSP"
+      },
+      "artists": [
+        {
+          "name": "Bobby Krlic",
+          "url": "https://open.spotify.com/artist/0e3tj3Rn5xXhUmOjn2cv1J"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54299,
+      "name": "The Drama of Original Choice",
+      "url": "https://open.spotify.com/track/6zTNkNW9DzQy5D5kivid1D"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6471rrLPKqZgXQ6TqN5AgU"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/58AwxWLaRHn2lTqqH9dLkU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdDoiPY96kwt"
 }

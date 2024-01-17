@@ -1,13 +1,45 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 238849,
+  "num_followers": 237076,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNmFjZmQxMDczZWU4Mzc2OGQ1ZjExOWFjODk0ZjM1MjdiZjIwZDhl",
+  "snapshot_id": "MCxmNzY4NzI5ZjYyZDlkMmQ1NWUwMWExNWM5OTc1Mjc3MWM5YWIyYjcw",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2Ppjt5d0ji1XA23brHycxm"
+      },
+      "artists": [
+        {
+          "name": "Outasight",
+          "url": "https://open.spotify.com/artist/1zuG3w1Zgeou53fb3Vu3bO"
+        }
+      ],
+      "duration_ms": 163728,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/0PBUTMqh9GWgG97rTqBz9P"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/1FwN3IGuFUEUQrGsHLkMyS"
+      },
+      "artists": [
+        {
+          "name": "Louis II",
+          "url": "https://open.spotify.com/artist/0i387pRmgJfOoxYD3oDeFW"
+        }
+      ],
+      "duration_ms": 202663,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6Oh8HtHL9o5qpDKNv2buNO"
+    },
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
@@ -816,7 +848,7 @@
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/59dbHZHA0lEwU9hEW3YVfy"
+        "url": "https://open.spotify.com/album/35bt6528u2ti71tqFUFKWb"
       },
       "artists": [
         {
@@ -826,7 +858,7 @@
       ],
       "duration_ms": 154754,
       "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/2yicVJl6Tv5Nmb3FiJEb8S"
+      "url": "https://open.spotify.com/track/3978TfFJu8PXuiAOkVCT5e"
     },
     {
       "added_at": "2023-03-17 04:01:00",
@@ -1613,26 +1645,6 @@
       "url": "https://open.spotify.com/track/34wtPgiGEIbKHuyfleN84N"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/5sMzsRvJjnJCJp53H4VFO3"
-      },
-      "artists": [
-        {
-          "name": "Neo Arc",
-          "url": "https://open.spotify.com/artist/3HA56QnsISHLd4eqHsgyH5"
-        },
-        {
-          "name": "Eliana Veinberga",
-          "url": "https://open.spotify.com/artist/2T0Mc26hJQq4Ax6NQCWWwO"
-        }
-      ],
-      "duration_ms": 217812,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/6ghyebyKTLw7ITymWy5y3g"
-    },
-    {
       "added_at": "2022-03-18 04:01:00",
       "album": {
         "name": "Sir Woman",
@@ -1735,26 +1747,6 @@
       "duration_ms": 141002,
       "name": "Turn Up",
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
-    },
-    {
-      "added_at": "2022-08-08 19:18:25",
-      "album": {
-        "name": "Dreamboat",
-        "url": "https://open.spotify.com/album/2923kCvLK48x4Yy8Abqw29"
-      },
-      "artists": [
-        {
-          "name": "Brasstracks",
-          "url": "https://open.spotify.com/artist/5sKvgmG84C0bIMWeS2SRPr"
-        },
-        {
-          "name": "Rothstein",
-          "url": "https://open.spotify.com/artist/0Qta34kIeeonfyC692s5b8"
-        }
-      ],
-      "duration_ms": 187412,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/0bXnX6oozY4qDbNTBqdJwe"
     },
     {
       "added_at": "2022-09-09 04:00:00",

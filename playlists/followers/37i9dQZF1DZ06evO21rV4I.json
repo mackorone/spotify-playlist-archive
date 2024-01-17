@@ -1,731 +1,2283 @@
 {
-  "2021-12-29": 130,
-  "2021-12-30": 130,
-  "2021-12-31": 130,
-  "2022-01-01": 130,
-  "2022-01-02": 130,
-  "2022-01-03": 130,
-  "2022-01-04": 130,
-  "2022-01-05": 130,
-  "2022-01-06": 130,
-  "2022-01-07": 130,
-  "2022-01-08": 130,
-  "2022-01-09": 130,
-  "2022-01-10": 130,
-  "2022-01-11": 132,
-  "2022-01-12": 155,
-  "2022-01-13": 183,
-  "2022-01-14": 241,
-  "2022-01-15": 381,
-  "2022-01-16": 386,
-  "2022-01-17": 77391,
-  "2022-01-18": 77390,
-  "2022-01-19": 77418,
-  "2022-01-20": 77464,
-  "2022-01-21": 77493,
-  "2022-01-22": 77528,
-  "2022-01-23": 77563,
-  "2022-01-24": 77586,
-  "2022-01-25": 77607,
-  "2022-01-26": 77636,
-  "2022-01-27": 77669,
-  "2022-01-28": 77710,
-  "2022-01-29": 77747,
-  "2022-01-30": 77779,
-  "2022-01-31": 77821,
-  "2022-02-01": 77839,
-  "2022-02-02": 77876,
-  "2022-02-03": 77905,
-  "2022-02-04": 77932,
-  "2022-02-05": 77960,
-  "2022-02-06": 78002,
-  "2022-02-07": 78042,
-  "2022-02-08": 78084,
-  "2022-02-09": 78110,
-  "2022-02-10": 78136,
-  "2022-02-11": 78195,
-  "2022-02-12": 78233,
-  "2022-02-13": 78264,
-  "2022-02-14": 78297,
-  "2022-02-15": 78330,
-  "2022-02-16": 78372,
-  "2022-02-17": 78399,
-  "2022-02-18": 78426,
-  "2022-02-19": 78457,
-  "2022-02-20": 78485,
-  "2022-02-21": 78508,
-  "2022-02-22": 78543,
-  "2022-02-23": 78574,
-  "2022-02-24": 78608,
-  "2022-02-25": 78635,
-  "2022-02-26": 78684,
-  "2022-02-27": 78766,
-  "2022-02-28": 78766,
-  "2022-03-01": 78798,
-  "2022-03-02": 78843,
-  "2022-03-03": 78878,
-  "2022-03-04": 78907,
-  "2022-03-05": 78944,
-  "2022-03-06": 78978,
-  "2022-03-07": 79014,
-  "2022-03-08": 79052,
-  "2022-03-09": 79093,
-  "2022-03-10": 79131,
-  "2022-03-11": 79163,
-  "2022-03-12": 79201,
-  "2022-03-13": 79245,
-  "2022-03-14": 79290,
-  "2022-03-15": 79321,
-  "2022-03-16": 79351,
-  "2022-03-17": 79394,
-  "2022-03-18": 79446,
-  "2022-03-19": 79475,
-  "2022-03-20": 79475,
-  "2022-03-21": 79554,
-  "2022-03-22": 79606,
-  "2022-03-23": 79655,
-  "2022-03-24": 79700,
-  "2022-03-25": 79730,
-  "2022-03-26": 79775,
-  "2022-03-27": 79803,
-  "2022-03-28": 79844,
-  "2022-03-30": 79908,
-  "2022-03-31": 79940,
-  "2022-04-01": 79968,
-  "2022-04-02": 80016,
-  "2022-04-03": 80045,
-  "2022-04-04": 80091,
-  "2022-04-05": 80137,
-  "2022-04-06": 80172,
-  "2022-04-07": 80222,
-  "2022-04-08": 80269,
-  "2022-04-09": 80309,
-  "2022-04-10": 80415,
-  "2022-04-11": 80456,
-  "2022-04-12": 80456,
-  "2022-04-13": 80495,
-  "2022-04-14": 80525,
-  "2022-04-15": 80557,
-  "2022-04-16": 80616,
-  "2022-04-17": 80654,
-  "2022-04-18": 80686,
-  "2022-04-19": 80723,
-  "2022-04-20": 80761,
-  "2022-04-21": 80802,
-  "2022-04-22": 80842,
-  "2022-04-23": 80880,
-  "2022-04-24": 80904,
-  "2022-04-25": 80940,
-  "2022-04-26": 80970,
-  "2022-04-27": 81021,
-  "2022-04-28": 81056,
-  "2022-04-29": 81119,
-  "2022-04-30": 81176,
-  "2022-05-01": 81213,
-  "2022-05-02": 81213,
-  "2022-05-03": 81265,
-  "2022-05-04": 81300,
-  "2022-05-05": 81321,
-  "2022-05-06": 81366,
-  "2022-05-07": 81420,
-  "2022-05-08": 81489,
-  "2022-05-09": 81498,
-  "2022-05-10": 81528,
-  "2022-05-11": 81555,
-  "2022-05-12": 81604,
-  "2022-05-13": 81637,
-  "2022-05-14": 81670,
-  "2022-05-15": 81711,
-  "2022-05-16": 81738,
-  "2022-05-17": 81776,
-  "2022-05-18": 81813,
-  "2022-05-19": 81862,
-  "2022-05-20": 81909,
-  "2022-05-21": 81998,
-  "2022-05-22": 81998,
-  "2022-05-23": 82045,
-  "2022-05-24": 82101,
-  "2022-05-25": 82147,
-  "2022-05-26": 82189,
-  "2022-05-27": 82251,
-  "2022-05-28": 82288,
-  "2022-05-29": 82329,
-  "2022-05-30": 82377,
-  "2022-05-31": 82419,
-  "2022-06-01": 82501,
-  "2022-06-02": 82505,
-  "2022-06-03": 82549,
-  "2022-06-04": 82598,
-  "2022-06-05": 82629,
-  "2022-06-06": 82671,
-  "2022-06-07": 82698,
-  "2022-06-08": 82750,
-  "2022-06-09": 82792,
-  "2022-06-10": 82835,
-  "2022-06-11": 82870,
-  "2022-06-12": 82933,
-  "2022-06-13": 82982,
-  "2022-06-14": 83021,
-  "2022-06-15": 83073,
-  "2022-06-16": 83122,
-  "2022-06-17": 83156,
-  "2022-06-18": 83199,
-  "2022-06-19": 83294,
-  "2022-06-20": 83294,
-  "2022-06-21": 83339,
-  "2022-06-22": 83418,
-  "2022-06-23": 83418,
-  "2022-06-24": 83460,
-  "2022-06-25": 83502,
-  "2022-06-26": 83548,
-  "2022-06-27": 83585,
-  "2022-06-28": 83655,
-  "2022-06-29": 83696,
-  "2022-06-30": 83752,
-  "2022-07-01": 83814,
-  "2022-07-02": 83862,
-  "2022-07-03": 83918,
-  "2022-07-04": 83970,
-  "2022-07-05": 83970,
-  "2022-07-06": 83970,
-  "2022-07-07": 84120,
-  "2022-07-08": 84155,
-  "2022-07-09": 84201,
-  "2022-07-10": 84257,
-  "2022-07-11": 84306,
-  "2022-07-12": 84346,
-  "2022-07-13": 84381,
-  "2022-07-14": 84456,
-  "2022-07-15": 84507,
-  "2022-07-16": 84548,
-  "2022-07-17": 84597,
-  "2022-07-18": 84641,
-  "2022-07-19": 84682,
-  "2022-07-20": 84723,
-  "2022-07-21": 84791,
-  "2022-07-22": 84819,
-  "2022-07-23": 84866,
-  "2022-07-24": 84913,
-  "2022-07-25": 84951,
-  "2022-07-26": 84991,
-  "2022-07-27": 85049,
-  "2022-07-28": 85081,
-  "2022-07-29": 85130,
-  "2022-07-30": 85205,
-  "2022-07-31": 85205,
-  "2022-08-01": 85242,
-  "2022-08-02": 85333,
-  "2022-08-03": 85333,
-  "2022-08-04": 85371,
-  "2022-08-05": 85430,
-  "2022-08-06": 85482,
-  "2022-08-07": 85519,
-  "2022-08-08": 85564,
-  "2022-08-09": 85604,
-  "2022-08-10": 85643,
-  "2022-08-11": 85701,
-  "2022-08-12": 85745,
-  "2022-08-13": 85785,
-  "2022-08-14": 85829,
-  "2022-08-15": 85865,
-  "2022-08-16": 85895,
-  "2022-08-17": 85920,
-  "2022-08-18": 85968,
-  "2022-08-19": 86011,
-  "2022-08-20": 86042,
-  "2022-08-21": 86093,
-  "2022-08-22": 86126,
-  "2022-08-23": 86168,
-  "2022-08-24": 86206,
-  "2022-08-25": 86282,
-  "2022-08-26": 86360,
-  "2022-08-27": 86414,
-  "2022-08-28": 86470,
-  "2022-08-29": 86517,
-  "2022-08-30": 86556,
-  "2022-08-31": 86594,
-  "2022-09-01": 86625,
-  "2022-09-02": 86662,
-  "2022-09-03": 86666,
-  "2022-09-04": 86701,
-  "2022-09-05": 86761,
-  "2022-09-06": 86817,
-  "2022-09-07": 86866,
-  "2022-09-09": 86988,
-  "2022-09-10": 87069,
-  "2022-09-11": 87138,
-  "2022-09-12": 87202,
-  "2022-09-13": 87275,
-  "2022-09-15": 87439,
-  "2022-09-16": 87527,
-  "2022-09-17": 87600,
-  "2022-09-18": 87696,
-  "2022-09-19": 87733,
-  "2022-09-20": 87800,
-  "2022-09-21": 87851,
-  "2022-09-22": 87896,
-  "2022-09-23": 87965,
-  "2022-09-24": 87965,
-  "2022-09-25": 88054,
-  "2022-09-26": 88099,
-  "2022-09-27": 88150,
-  "2022-09-28": 88191,
-  "2022-09-29": 88235,
-  "2022-09-30": 88289,
-  "2022-10-01": 88346,
-  "2022-10-02": 88399,
-  "2022-10-03": 88448,
-  "2022-10-04": 88490,
-  "2022-10-05": 88533,
-  "2022-10-06": 88578,
-  "2022-10-07": 88628,
-  "2022-10-08": 88675,
-  "2022-10-09": 88747,
-  "2022-10-10": 88752,
-  "2022-10-11": 88789,
-  "2022-10-12": 88839,
-  "2022-10-13": 88886,
-  "2022-10-14": 88923,
-  "2022-10-15": 88965,
-  "2022-10-16": 89008,
-  "2022-10-17": 89057,
-  "2022-10-18": 89094,
-  "2022-10-19": 89136,
-  "2022-10-20": 89171,
-  "2022-10-21": 89199,
-  "2022-10-22": 89257,
-  "2022-10-23": 89298,
-  "2022-10-24": 89331,
-  "2022-10-25": 89370,
-  "2022-10-26": 89411,
-  "2022-10-27": 89449,
-  "2022-10-28": 89538,
-  "2022-10-29": 89904,
-  "2022-10-30": 89964,
-  "2022-10-31": 90016,
-  "2022-11-01": 90059,
-  "2022-11-02": 90092,
-  "2022-11-03": 90141,
-  "2022-11-04": 90176,
-  "2022-11-05": 90230,
-  "2022-11-06": 90267,
-  "2022-11-07": 90299,
-  "2022-11-08": 90343,
-  "2022-11-09": 90389,
-  "2022-11-10": 90430,
-  "2022-11-11": 90492,
-  "2022-11-12": 90596,
-  "2022-11-13": 90649,
-  "2022-11-14": 90692,
-  "2022-11-15": 90745,
-  "2022-11-16": 90794,
-  "2022-11-17": 90862,
-  "2022-11-18": 90884,
-  "2022-11-19": 90906,
-  "2022-11-20": 90965,
-  "2022-11-21": 91024,
-  "2022-11-22": 91067,
-  "2022-11-23": 91136,
-  "2022-11-24": 91248,
-  "2022-11-25": 91351,
-  "2022-11-26": 91418,
-  "2022-11-27": 91472,
-  "2022-11-28": 91510,
-  "2022-11-29": 91573,
-  "2022-11-30": 91627,
-  "2022-12-01": 91702,
-  "2022-12-02": 91748,
-  "2022-12-03": 91834,
-  "2022-12-04": 91920,
-  "2022-12-05": 91965,
-  "2022-12-06": 92024,
-  "2022-12-07": 92089,
-  "2022-12-08": 92154,
-  "2022-12-09": 92226,
-  "2022-12-10": 92291,
-  "2022-12-11": 92343,
-  "2022-12-12": 92393,
-  "2022-12-13": 92436,
-  "2022-12-14": 92493,
-  "2022-12-15": 92545,
-  "2022-12-16": 92614,
-  "2022-12-17": 92650,
-  "2022-12-18": 92702,
-  "2022-12-19": 92753,
-  "2022-12-20": 92864,
-  "2022-12-21": 92864,
-  "2022-12-22": 92921,
-  "2022-12-24": 93014,
-  "2022-12-25": 93075,
-  "2022-12-26": 93128,
-  "2022-12-27": 93184,
-  "2022-12-28": 93223,
-  "2022-12-29": 93291,
-  "2022-12-30": 93369,
-  "2022-12-31": 93422,
-  "2023-01-01": 93480,
-  "2023-01-02": 93543,
-  "2023-01-03": 93586,
-  "2023-01-04": 93639,
-  "2023-01-05": 93689,
-  "2023-01-06": 93750,
-  "2023-01-07": 93832,
-  "2023-01-08": 93846,
-  "2023-01-09": 93898,
-  "2023-01-10": 93949,
-  "2023-01-11": 94012,
-  "2023-01-12": 94072,
-  "2023-01-13": 94118,
-  "2023-01-14": 94216,
-  "2023-01-15": 94221,
-  "2023-01-16": 94269,
-  "2023-01-17": 94329,
-  "2023-01-18": 94375,
-  "2023-01-19": 94441,
-  "2023-01-20": 94496,
-  "2023-01-21": 94538,
-  "2023-01-22": 94596,
-  "2023-01-23": 94664,
-  "2023-01-24": 94726,
-  "2023-01-25": 94771,
-  "2023-01-26": 94839,
-  "2023-01-27": 94903,
-  "2023-01-28": 94973,
-  "2023-01-29": 95043,
-  "2023-01-30": 95097,
-  "2023-01-31": 95097,
-  "2023-02-01": 95191,
-  "2023-02-02": 95244,
-  "2023-02-03": 95316,
-  "2023-02-04": 95363,
-  "2023-02-05": 95411,
-  "2023-02-06": 95450,
-  "2023-02-07": 95504,
-  "2023-02-08": 95616,
-  "2023-02-09": 95616,
-  "2023-02-10": 95654,
-  "2023-02-11": 95710,
-  "2023-02-12": 95810,
-  "2023-02-13": 95846,
-  "2023-02-14": 95846,
-  "2023-02-15": 95891,
-  "2023-02-16": 95937,
-  "2023-02-17": 96013,
-  "2023-02-18": 96113,
-  "2023-02-19": 96120,
-  "2023-02-20": 96172,
-  "2023-02-21": 96224,
-  "2023-02-22": 96268,
-  "2023-02-23": 96313,
-  "2023-02-24": 96359,
-  "2023-02-25": 96438,
-  "2023-02-26": 96483,
-  "2023-02-27": 96608,
-  "2023-02-28": 96608,
-  "2023-03-01": 96663,
-  "2023-03-02": 96720,
-  "2023-03-03": 96764,
-  "2023-03-04": 96814,
-  "2023-03-05": 96940,
-  "2023-03-06": 96940,
-  "2023-03-07": 96977,
-  "2023-03-08": 97026,
-  "2023-03-09": 97072,
-  "2023-03-10": 97119,
-  "2023-03-11": 97168,
-  "2023-03-12": 97238,
-  "2023-03-13": 97277,
-  "2023-03-14": 97334,
-  "2023-03-15": 97395,
-  "2023-03-16": 97395,
-  "2023-03-17": 97395,
-  "2023-03-18": 97538,
-  "2023-03-19": 97538,
-  "2023-03-20": 97639,
-  "2023-03-21": 97679,
-  "2023-03-22": 97714,
-  "2023-03-23": 97761,
-  "2023-03-24": 97761,
-  "2023-03-25": 97850,
-  "2023-03-26": 97920,
-  "2023-03-27": 97983,
-  "2023-03-28": 98022,
-  "2023-03-29": 98075,
-  "2023-03-30": 98177,
-  "2023-03-31": 98177,
-  "2023-04-01": 98270,
-  "2023-04-02": 98326,
-  "2023-04-03": 98394,
-  "2023-04-04": 98457,
-  "2023-04-05": 98539,
-  "2023-04-06": 98609,
-  "2023-04-07": 98672,
-  "2023-04-09": 98771,
-  "2023-04-10": 98818,
-  "2023-04-11": 98950,
-  "2023-04-12": 98950,
-  "2023-04-13": 99033,
-  "2023-04-14": 99095,
-  "2023-04-15": 99146,
-  "2023-04-16": 99199,
-  "2023-04-17": 99238,
-  "2023-04-18": 99280,
-  "2023-04-19": 99328,
-  "2023-04-20": 99388,
-  "2023-04-21": 99431,
-  "2023-04-22": 99492,
-  "2023-04-23": 99558,
-  "2023-04-24": 99606,
-  "2023-04-25": 99659,
-  "2023-04-26": 99726,
-  "2023-04-27": 99789,
-  "2023-04-28": 99875,
-  "2023-04-29": 99929,
-  "2023-04-30": 99981,
-  "2023-05-01": 100033,
-  "2023-05-02": 100090,
-  "2023-05-03": 100129,
-  "2023-05-04": 100188,
-  "2023-05-05": 100247,
-  "2023-05-06": 100305,
-  "2023-05-07": 100359,
-  "2023-05-08": 100430,
-  "2023-05-09": 100502,
-  "2023-05-10": 100569,
-  "2023-05-11": 100623,
-  "2023-05-12": 100695,
-  "2023-05-13": 100762,
-  "2023-05-14": 100834,
-  "2023-05-15": 100890,
-  "2023-05-16": 100947,
-  "2023-05-17": 101012,
-  "2023-05-18": 101070,
-  "2023-05-19": 101117,
-  "2023-05-20": 101220,
-  "2023-05-21": 101220,
-  "2023-05-22": 101220,
-  "2023-05-23": 101337,
-  "2023-05-24": 101435,
-  "2023-05-25": 101451,
-  "2023-05-26": 101498,
-  "2023-05-27": 101553,
-  "2023-05-28": 101601,
-  "2023-05-29": 101601,
-  "2023-05-30": 101725,
-  "2023-05-31": 101775,
-  "2023-06-01": 101838,
-  "2023-06-02": 101886,
-  "2023-06-03": 101954,
-  "2023-06-04": 102015,
-  "2023-06-05": 102068,
-  "2023-06-06": 102131,
-  "2023-06-07": 102195,
-  "2023-06-08": 102235,
-  "2023-06-09": 102289,
-  "2023-06-10": 102371,
-  "2023-06-11": 102434,
-  "2023-06-12": 102488,
-  "2023-06-13": 102541,
-  "2023-06-14": 102606,
-  "2023-06-15": 102668,
-  "2023-06-16": 102733,
-  "2023-06-17": 102779,
-  "2023-06-18": 102843,
-  "2023-06-19": 102908,
-  "2023-06-20": 102975,
-  "2023-06-21": 103028,
-  "2023-06-22": 103093,
-  "2023-06-23": 103156,
-  "2023-06-24": 103260,
-  "2023-06-25": 103389,
-  "2023-06-26": 103478,
-  "2023-06-27": 103555,
-  "2023-06-28": 103624,
-  "2023-06-29": 103683,
-  "2023-06-30": 103729,
-  "2023-07-01": 103863,
-  "2023-07-02": 103863,
-  "2023-07-03": 103929,
-  "2023-07-04": 104005,
-  "2023-07-05": 104090,
-  "2023-07-06": 104219,
-  "2023-07-07": 104219,
-  "2023-07-08": 104219,
-  "2023-07-09": 104350,
-  "2023-07-10": 104433,
-  "2023-07-11": 104486,
-  "2023-07-12": 104560,
-  "2023-07-13": 104599,
-  "2023-07-14": 104639,
-  "2023-07-15": 104701,
-  "2023-07-16": 104765,
-  "2023-07-17": 104862,
-  "2023-07-18": 104926,
-  "2023-07-19": 104985,
-  "2023-07-20": 105043,
-  "2023-07-21": 105104,
-  "2023-07-22": 105167,
-  "2023-07-23": 105231,
-  "2023-07-24": 105298,
-  "2023-07-25": 105362,
-  "2023-07-26": 105415,
-  "2023-07-27": 105502,
-  "2023-07-28": 105583,
-  "2023-07-29": 105659,
-  "2023-07-30": 105754,
-  "2023-07-31": 105824,
-  "2023-08-01": 105877,
-  "2023-08-02": 105940,
-  "2023-08-03": 105988,
-  "2023-08-04": 106059,
-  "2023-08-05": 106100,
-  "2023-08-06": 106211,
-  "2023-08-07": 106211,
-  "2023-08-08": 106263,
-  "2023-08-09": 106328,
-  "2023-08-10": 106400,
-  "2023-08-11": 106456,
-  "2023-08-12": 106456,
-  "2023-08-13": 106456,
-  "2023-08-14": 106644,
-  "2023-08-15": 106644,
-  "2023-08-16": 106644,
-  "2023-08-17": 106644,
-  "2023-08-18": 106644,
-  "2023-08-19": 106644,
-  "2023-08-20": 106969,
-  "2023-08-21": 106969,
-  "2023-08-22": 107064,
-  "2023-08-23": 107064,
-  "2023-08-24": 107064,
-  "2023-08-25": 107064,
-  "2023-08-26": 107295,
-  "2023-08-27": 107295,
-  "2023-08-28": 107385,
-  "2023-08-29": 107385,
-  "2023-08-30": 107385,
-  "2023-08-31": 107512,
-  "2023-09-01": 107556,
-  "2023-09-02": 107556,
-  "2023-09-03": 107633,
-  "2023-09-04": 107633,
-  "2023-09-05": 107633,
-  "2023-09-06": 107762,
-  "2023-09-07": 107762,
-  "2023-09-08": 107762,
-  "2023-09-09": 107762,
-  "2023-09-10": 107974,
-  "2023-09-11": 107974,
-  "2023-09-12": 107974,
-  "2023-09-13": 108091,
-  "2023-09-14": 108091,
-  "2023-09-15": 108091,
-  "2023-09-16": 108225,
-  "2023-09-17": 108225,
-  "2023-09-18": 108225,
-  "2023-09-19": 108342,
-  "2023-09-20": 108342,
-  "2023-09-21": 108342,
-  "2023-09-22": 108478,
-  "2023-09-23": 108478,
-  "2023-09-24": 108478,
-  "2023-09-25": 108478,
-  "2023-09-26": 108666,
-  "2023-09-27": 108666,
-  "2023-09-28": 108666,
-  "2023-09-29": 108666,
-  "2023-09-30": 108666,
-  "2023-10-01": 108666,
-  "2023-10-02": 108666,
-  "2023-10-03": 108666,
-  "2023-10-04": 108666,
-  "2023-10-05": 109056,
-  "2023-10-06": 109056,
-  "2023-10-07": 109056,
-  "2023-10-08": 109056,
-  "2023-10-09": 109056,
-  "2023-10-10": 109056,
-  "2023-10-11": 109315,
-  "2023-10-12": 109315,
-  "2023-10-13": 109315,
-  "2023-10-14": 109315,
-  "2023-10-15": 109315,
-  "2023-10-16": 109315,
-  "2023-10-17": 109315,
-  "2023-10-18": 109315,
-  "2023-10-19": 109315,
-  "2023-10-20": 109315,
-  "2023-10-21": 109315,
-  "2023-10-22": 109315,
-  "2023-10-23": 109315,
-  "2023-10-24": 109315,
-  "2023-10-25": 109315,
-  "2023-10-26": 109315,
-  "2023-10-27": 109315,
-  "2023-10-28": 109315,
-  "2023-10-29": 109315,
-  "2023-10-30": 109315,
-  "2023-10-31": 109315,
-  "2023-11-01": 109315,
-  "2023-11-02": 109315,
-  "2023-11-03": 109315,
-  "2023-11-04": 109315,
-  "2023-11-05": 109315,
-  "2023-11-06": 109315,
-  "2023-11-07": 109315,
-  "2023-11-08": 109315,
-  "2023-11-09": 109315,
-  "2023-11-10": 109315,
-  "2023-11-11": 110726,
-  "2023-11-12": 110726,
-  "2023-11-13": 110726,
-  "2023-11-14": 110726,
-  "2023-11-15": 110726,
-  "2023-11-16": 110726,
-  "2023-11-17": 110726,
-  "2023-11-18": 110726,
-  "2023-11-19": 110726,
-  "2023-11-20": 110726,
-  "2023-11-21": 110726,
-  "2023-11-22": 110726,
-  "2023-11-23": 110726,
-  "2023-11-24": 110726,
-  "2023-11-25": 110726,
-  "2023-11-26": 110726,
-  "2023-11-27": 110726,
-  "2023-11-28": 110726,
-  "2023-11-29": 110726,
-  "2023-11-30": 110726,
-  "2023-12-01": 110726,
-  "2023-12-02": 110726,
-  "2023-12-03": 110726,
-  "2023-12-04": 110726,
-  "2023-12-05": 110726,
-  "2023-12-06": 110726,
-  "2023-12-07": 110726,
-  "2023-12-08": 110726,
-  "2023-12-09": 110726,
-  "2023-12-10": 110726,
-  "2023-12-11": 110726,
-  "2023-12-12": 110726,
-  "2023-12-13": 110726,
-  "2023-12-14": 112384,
-  "2023-12-15": 112424,
-  "2023-12-16": 112479,
-  "2023-12-17": 112528,
-  "2023-12-18": 112581,
-  "2023-12-19": 112622,
-  "2023-12-20": 112676,
-  "2023-12-21": 112720,
-  "2023-12-22": 112845,
-  "2023-12-23": 112968,
-  "2023-12-24": 113032,
-  "2023-12-25": 113073,
-  "2023-12-26": 113129,
-  "2023-12-27": 113185,
-  "2023-12-30": 113317,
-  "2023-12-31": 113369,
-  "2024-01-01": 113417,
-  "2024-01-02": 113448,
-  "2024-01-03": 113487
+  "2024-01-17": 114096,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Wizkid. The essential tracks, all in one playlist.",
+  "name": "This Is Wizkid",
+  "tracks": [
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187906,
+      "name": "2 Sugar (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw"
+    },
+    {
+      "album": {
+        "name": "Abracadabra (Remix)",
+        "url": "https://open.spotify.com/album/6YMeH1rG1CtkXvv9zKI7f3"
+      },
+      "artists": [
+        {
+          "name": "Rexxie",
+          "url": "https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172062,
+      "name": "Abracadabra - Remix",
+      "url": "https://open.spotify.com/track/7CDmOoIXrtknQN5zcpHRBr"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 205346,
+      "name": "African Bad Gyal (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4FRKGdgOh9G5sub5GiknfS"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 265280,
+      "name": "All For Love (feat. Bucie)",
+      "url": "https://open.spotify.com/track/73J7ROhWCZB9UDHombzlSr"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181360,
+      "name": "Anoti",
+      "url": "https://open.spotify.com/track/60lUecrFeE2t6QMJ1Nmsve"
+    },
+    {
+      "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "album": {
+        "name": "Bad To Me",
+        "url": "https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 176850,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/0sHyVWNc3nfxAYOTOwOlPx"
+    },
+    {
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2RyStD6P60MtZWqq23c1xw"
+      },
+      "artists": [
+        {
+          "name": "MHD",
+          "url": "https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183745,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/0O4XHiuVt3dBaOzSI49BtF"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262973,
+      "name": "Blessed (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/3QO1m6i0nsrp8aOnapvbkx"
+    },
+    {
+      "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/7Jczi3QQN1oiJPa2k2mrpx"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ALcYeD6JELUFLL3obyUDt"
+    },
+    {
+      "album": {
+        "name": "Blessings (feat. Wizkid & Gimba)",
+        "url": "https://open.spotify.com/album/6fPVhhrCdtuafrFfil03oc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Gimba",
+          "url": "https://open.spotify.com/artist/6ce9dKPssK7XOIyar9S4vK"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 196725,
+      "name": "Blessings (feat. Wizkid & Gimba)",
+      "url": "https://open.spotify.com/track/1ivfXozvPZtJi4Z2ann7v2"
+    },
+    {
+      "album": {
+        "name": "Peace Is The Mission : Extended",
+        "url": "https://open.spotify.com/album/2U0b5MfkMUgzdvRUI69mya"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186447,
+      "name": "Boom (feat. MOTi, Ty Dolla $ign, Wizkid & Kranium)",
+      "url": "https://open.spotify.com/track/6kBXZ8j8IuJeRjb6kV6fol"
+    },
+    {
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230240,
+      "name": "Borrowed Love (feat. Swae Lee & WizKid)",
+      "url": "https://open.spotify.com/track/0NA5xAtDra50d0Lfs2uvoh"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Blue Ivy",
+          "url": "https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr"
+        },
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248472,
+      "name": "BROWN SKIN GIRL",
+      "url": "https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP"
+    },
+    {
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs"
+    },
+    {
+      "album": {
+        "name": "Call Me Every Day (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/6FKhBgElPu5RBHlarPE1aO"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 146840,
+      "name": "Call Me Every Day (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7vVs4XCsQyGn1Au3drvo9Z"
+    },
+    {
+      "album": {
+        "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
+        "url": "https://open.spotify.com/album/7fvnfIXtw00lgcCncIhoJv"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213306,
+      "name": "Can't Believe (feat. Ty Dolla $ign & WizKid)",
+      "url": "https://open.spotify.com/track/10C1ZwdAwSEmMeYAFvuTtv"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/75u7OvDfLHg0574MoNQhyd"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246832,
+      "name": "Caro",
+      "url": "https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft"
+    },
+    {
+      "album": {
+        "name": "Normani x Calvin Harris",
+        "url": "https://open.spotify.com/album/2D4xMG9wNWT3D2JZiVqLNe"
+      },
+      "artists": [
+        {
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
+        },
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 169813,
+      "name": "Checklist (with Calvin Harris) (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5xesHO6GLWTrjsKOjAXRmf"
+    },
+    {
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Agent Sasco (Assassin)",
+          "url": "https://open.spotify.com/artist/0CiLVKp7LJTm0c8jdUmQNy"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-15",
+      "duration_ms": 180350,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211293,
+      "name": "Come Closer (feat. Drake)",
+      "url": "https://open.spotify.com/track/2zYs4BonN2ydkbrRk333SN"
+    },
+    {
+      "album": {
+        "name": "Cool Me Down (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/1fJOTO0iW1rGmQDb9wcrkM"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 208758,
+      "name": "Cool Me Down (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5EVEYkrTzqm3Q4ZVXXL02n"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160293,
+      "name": "Daddy Yo",
+      "url": "https://open.spotify.com/track/2hKLu5akQZ9BbrCQVXM2cZ"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 154733,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5iTsvRTl65FFgqZZLNLEOC"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149170,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/0UEct6UTSjqEex8AHOUf5z"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181120,
+      "name": "Dirty Wine (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/47AMYhY7w49L3rv6UZdlXV"
+    },
+    {
+      "album": {
+        "name": "Grace",
+        "url": "https://open.spotify.com/album/5POlBPtjdKCxmJQBXw191I"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 155000,
+      "name": "Dis Love",
+      "url": "https://open.spotify.com/track/4yF6ykrqb0iDtMjPtQMG8O"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/6C6xlP5zYRhYSNI5ORl6Wd"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 279353,
+      "name": "Don't Dull",
+      "url": "https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v"
+    },
+    {
+      "album": {
+        "name": "Drogba (Joanna) [feat. WizKid]",
+        "url": "https://open.spotify.com/album/1YNTbT0uHszzYnMeUIUHCk"
+      },
+      "artists": [
+        {
+          "name": "Afro B",
+          "url": "https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 197922,
+      "name": "Drogba (Joanna) [feat. WizKid]",
+      "url": "https://open.spotify.com/track/5Z3H2xgKsw5Sa3p0MGAVnT"
+    },
+    {
+      "album": {
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/6GxsePQAbaPlzWefozE62n"
+    },
+    {
+      "album": {
+        "name": "Energy (Stay Far Away)",
+        "url": "https://open.spotify.com/album/6c2FMAZeFKi8pui6dlZqXB"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199521,
+      "name": "Energy (Stay Far Away)",
+      "url": "https://open.spotify.com/track/11RIJRbBfyLlJut96itSFd"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/3xnSra5dUSn71dn8xSKRLT"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 209411,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/0o5WUKlwttAkORRkVcOOqL"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "album": {
+        "name": "Eve Bounce",
+        "url": "https://open.spotify.com/album/715RAdaas5D9Fx38E9blPJ"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204631,
+      "name": "Eve Bounce - Remix",
+      "url": "https://open.spotify.com/track/70XKM6b0oyRXMSagZABK5v"
+    },
+    {
+      "album": {
+        "name": "Yaadman Kingsize",
+        "url": "https://open.spotify.com/album/4ZiTa0fzBxRjQYrhxZUjJA"
+      },
+      "artists": [
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 204631,
+      "name": "Eve Bounce - Remix",
+      "url": "https://open.spotify.com/track/4WivCZ8PeXzDPuoPHfNSaq"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 200146,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/5xFQlD4ITOWjZdHXjNghbX"
+    },
+    {
+      "album": {
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/5KBalcanPNHMGSNkyE7HG2"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252244,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/5mN3xSyvCmFy1jkdA98IfS"
+    },
+    {
+      "album": {
+        "name": "Final (Baba Nla) - Single",
+        "url": "https://open.spotify.com/album/3PhMIu5CI6S79XdmXzou4t"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Final (Baba Nla)",
+      "url": "https://open.spotify.com/track/5bPpNuK3qgt1UbI18QEUYx"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 207720,
+      "name": "Flower Pads",
+      "url": "https://open.spotify.com/track/2arzk4Lrn05DmGTPvm9JSx"
+    },
+    {
+      "album": {
+        "name": "Revenge Is Sweet",
+        "url": "https://open.spotify.com/album/352aXyfcekSqY1ZvC0jrBe"
+      },
+      "artists": [
+        {
+          "name": "Krept & Konan",
+          "url": "https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165774,
+      "name": "G Love",
+      "url": "https://open.spotify.com/track/2uuAE79hwuYDzEI20wDRpy"
+    },
+    {
+      "album": {
+        "name": "Ghetto Love",
+        "url": "https://open.spotify.com/album/2HEw2wkLTBWlbk8lGSqnY2"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198367,
+      "name": "Ghetto Love",
+      "url": "https://open.spotify.com/track/4lzkcjVC7xT3HBIg2PjJ30"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "album": {
+        "name": "Ignorance is Bliss",
+        "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Lay-Z",
+          "url": "https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Glow In The Dark",
+      "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
+    },
+    {
+      "album": {
+        "name": "I Like (feat. WizKid)",
+        "url": "https://open.spotify.com/album/7b57oWMZmdG8wjwjtRiKSO"
+      },
+      "artists": [
+        {
+          "name": "Kojo Funds",
+          "url": "https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 192784,
+      "name": "I Like (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5s7j77zpP6e9uz2Q1DU851"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/5rvJ4cyNUU0jI9DF3r596d"
+      },
+      "artists": [
+        {
+          "name": "A\u1e63a",
+          "url": "https://open.spotify.com/artist/0upXUo04k4k8bGVSkmgrSc"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 187500,
+      "name": "IDG",
+      "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180638,
+      "name": "IDK (feat. Zlatan)",
+      "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 230557,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/002qGVBq254LJPG0t5uNv8"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-21",
+      "duration_ms": 230557,
+      "name": "In My Bed",
+      "url": "https://open.spotify.com/track/4yFQ8dqrFKghN8uGfQoUca"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 246126,
+      "name": "Jaiye Jaiye",
+      "url": "https://open.spotify.com/track/2gRzl3pbDoFoHfzRsmkQhf"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Femi Kuti",
+          "url": "https://open.spotify.com/artist/6kgrtA0dlnVpWB6zjpXrRb"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 246126,
+      "name": "Jaiye Jaiye",
+      "url": "https://open.spotify.com/track/2vXJl10Kiu3IqMo8moFBFK"
+    },
+    {
+      "album": {
+        "name": "Joro",
+        "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262736,
+      "name": "Joro",
+      "url": "https://open.spotify.com/track/3Yt1ovsh3v3VEzRuhI1TL5"
+    },
+    {
+      "album": {
+        "name": "KANA",
+        "url": "https://open.spotify.com/album/7atwkbkL6GTv6w3ksI1BYC"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207378,
+      "name": "KANA",
+      "url": "https://open.spotify.com/track/3uTe5oVxtAO1cnsJm4uFCJ"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
+        },
+        {
+          "name": "Toian",
+          "url": "https://open.spotify.com/artist/5sBdzqT2jx5jacEUcBn6X1"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195386,
+      "name": "Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )",
+      "url": "https://open.spotify.com/track/0y8Pu7x5jXgUjOIJvQIF5L"
+    },
+    {
+      "album": {
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239893,
+      "name": "Longtime (feat. Skepta)",
+      "url": "https://open.spotify.com/track/1JiR4RJaZlbZ5b3HG8jkeL"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 246828,
+      "name": "Love My Baby",
+      "url": "https://open.spotify.com/track/4kmE1PtvaPTK00AKCpN19V"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 246828,
+      "name": "Love My Baby",
+      "url": "https://open.spotify.com/track/7xdHQUxVj0aOAvUOGLCYj3"
+    },
+    {
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+    },
+    {
+      "album": {
+        "name": "LV N ATTN",
+        "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "LV N ATTN feat. Wizkid",
+      "url": "https://open.spotify.com/track/2M6LmH53eUJdyG00LjKouA"
+    },
+    {
+      "album": {
+        "name": "Sugarcane",
+        "url": "https://open.spotify.com/album/15Sj69bAIyYGBLuh1UhZKo"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Spellz",
+          "url": "https://open.spotify.com/artist/5fOppW3chS7Mz6MAoFaN7J"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Ma Lo",
+      "url": "https://open.spotify.com/track/6U9jxxdQ6TNzjshIpwWMTf"
+    },
+    {
+      "album": {
+        "name": "Majo (feat. Wizkid, Alpha P & Tay Iwar)",
+        "url": "https://open.spotify.com/album/3Rz3SAnhOnXaf2llHOBDCo"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153018,
+      "name": "Majo (feat. Wizkid, Alpha P & Tay Iwar)",
+      "url": "https://open.spotify.com/track/0KLY7SCQuVA4Hk1nzk61p4"
+    },
+    {
+      "album": {
+        "name": "Mamacita (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/5MLHZ8Z3GltBClK999iEEb"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 219946,
+      "name": "Mamacita (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/5lZ8wDFNEFnFq3ahC08yBX"
+    },
+    {
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227328,
+      "name": "Many Ways (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
+    },
+    {
+      "album": {
+        "name": "Master Groove",
+        "url": "https://open.spotify.com/album/6533uOhO0WDdMzgsd8LWyK"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179439,
+      "name": "Master Groove",
+      "url": "https://open.spotify.com/track/6NynQjhojcFZ9iYhuezO6B"
+    },
+    {
+      "album": {
+        "name": "Money & Love",
+        "url": "https://open.spotify.com/album/1a936IexPb6wtpMlymctZz"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 191505,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/3nIj7jkWVKKmmKPdhgrddu"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "Money & Love",
+      "url": "https://open.spotify.com/track/213Ymlnss7DUsqG7Ut1HW0"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Mood (feat. BNXN)",
+      "url": "https://open.spotify.com/track/6jdTkoEaer7XNGSblczoSu"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228706,
+      "name": "My Love (feat. Major Lazer, WizKid, Dua Lipa)",
+      "url": "https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB"
+    },
+    {
+      "album": {
+        "name": "Sounds From The Other Side",
+        "url": "https://open.spotify.com/album/2yUhcn7kF408KjNVuMwV2P"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 192560,
+      "name": "Naughty Ride (feat. Major Lazer)",
+      "url": "https://open.spotify.com/track/0erJdrkQUJlA7nbtn1qxQR"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 218174,
+      "name": "No Lele",
+      "url": "https://open.spotify.com/track/4cKNCruCZcXEfiIKEG6m7b"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-01",
+      "duration_ms": 218174,
+      "name": "No Lele",
+      "url": "https://open.spotify.com/track/57Gu531HyBd4QmPsQXl165"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/5C3vZiMOn2KHMbNQOhL6oQ"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/1AtBzcUzKLh4BGwXhFA9K6"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 216242,
+      "name": "Ojuelegba",
+      "url": "https://open.spotify.com/track/6cTLhp8a39TClL2iqGpPVc"
+    },
+    {
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+    },
+    {
+      "album": {
+        "name": "Omo Olomo",
+        "url": "https://open.spotify.com/album/6EQxI2JlN9WV4hXWCbdhfl"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 183315,
+      "name": "Omo Olomo",
+      "url": "https://open.spotify.com/track/52dfPXnhw6T9PJZ839w169"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 218626,
+      "name": "Only You (feat. WizKid, Offset & J Balvin)",
+      "url": "https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi"
+    },
+    {
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 227970,
+      "name": "Opo (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1aPT4OyFWsqPp004pH2DuY"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/2EahSgwzCKSvJMM2BOzDDu"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/4o0rVyqZMIvO3PCgbchcgo"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 212005,
+      "name": "Pakurumo",
+      "url": "https://open.spotify.com/track/5YgyvTZmdkIfFOnj8ri8mZ"
+    },
+    {
+      "album": {
+        "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+        "url": "https://open.spotify.com/album/6OTNestAuAxK7wytwRiq9q"
+      },
+      "artists": [
+        {
+          "name": "DJ Tunez",
+          "url": "https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213599,
+      "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
+      "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "album": {
+        "name": "Diamond in the Rough",
+        "url": "https://open.spotify.com/album/6t7hQNIVpEOG7Lpk5rJIYZ"
+      },
+      "artists": [
+        {
+          "name": "Ceeza Milli",
+          "url": "https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 172427,
+      "name": "Shayo",
+      "url": "https://open.spotify.com/track/37KRtNYpPJ2tK6UcT8PGr0"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/2O8egayngzl1fm5dcE4VX9"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-24",
+      "duration_ms": 191506,
+      "name": "Show You the Money",
+      "url": "https://open.spotify.com/track/1xSFHuA4aLD6NBRqvDwtce"
+    },
+    {
+      "album": {
+        "name": "Ayo",
+        "url": "https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 191506,
+      "name": "Show You the Money",
+      "url": "https://open.spotify.com/track/31FgIP47GdYyYKLqrs2qk3"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209672,
+      "name": "Slip N Slide (feat. Skillibeng & Shenseea)",
+      "url": "https://open.spotify.com/track/1w5cQpiBrPmwcIgRrz1Jcc"
+    },
+    {
+      "album": {
+        "name": "Refuse to Be Broke: Da Revolution 2",
+        "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261545,
+      "name": "Slow Down (feat. Wiz Kid)",
+      "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
+    },
+    {
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "Slow Motion (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1OdxQvBNOgCDE3SyqoEDha"
+    },
+    {
+      "album": {
+        "name": "I Am The King Of Amapiano: Sweet & Dust",
+        "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 395044,
+      "name": "Sponono",
+      "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 205773,
+      "name": "Sundown (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/1yQ8woSt5tJ7pGJyQGuc2q"
+    },
+    {
+      "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 188817,
+      "name": "Tease Me / Bad Guys",
+      "url": "https://open.spotify.com/track/6ST6x5sSLYArqrh30p3KBs"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 229128,
+      "name": "This Kind Luv",
+      "url": "https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 229133,
+      "name": "This Kind Luv",
+      "url": "https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9"
+    },
+    {
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183499,
+      "name": "Tinkerbell (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/0tBpxTpcKDamZkjfHqVCEC"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        },
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "True Love (feat. Tay Iwar & Projexx)",
+      "url": "https://open.spotify.com/track/4204hwPYuToiuSunPFUoML"
+    },
+    {
+      "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Naira Marley",
+          "url": "https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Wow (feat. Skepta & Naira Marley)",
+      "url": "https://open.spotify.com/track/0Z5HVNSXGXHf7MDb0zJHVW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO21rV4I"
 }

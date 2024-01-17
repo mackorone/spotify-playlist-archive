@@ -1,735 +1,1137 @@
 {
-  "2021-12-25": 109623,
-  "2021-12-26": 109617,
-  "2021-12-27": 109610,
-  "2021-12-28": 109610,
-  "2021-12-29": 109615,
-  "2021-12-30": 109623,
-  "2021-12-31": 109622,
-  "2022-01-01": 109610,
-  "2022-01-02": 109607,
-  "2022-01-03": 109606,
-  "2022-01-04": 109602,
-  "2022-01-05": 109599,
-  "2022-01-06": 109596,
-  "2022-01-07": 109595,
-  "2022-01-08": 109593,
-  "2022-01-09": 109593,
-  "2022-01-10": 109591,
-  "2022-01-11": 109586,
-  "2022-01-12": 109584,
-  "2022-01-13": 109578,
-  "2022-01-14": 109579,
-  "2022-01-15": 109597,
-  "2022-01-16": 109602,
-  "2022-01-17": 109625,
-  "2022-01-18": 109623,
-  "2022-01-19": 109635,
-  "2022-01-20": 109646,
-  "2022-01-21": 109653,
-  "2022-01-22": 109657,
-  "2022-01-23": 109670,
-  "2022-01-24": 109682,
-  "2022-01-25": 109701,
-  "2022-01-26": 109700,
-  "2022-01-27": 109706,
-  "2022-01-28": 109712,
-  "2022-01-29": 109721,
-  "2022-01-30": 109726,
-  "2022-01-31": 109743,
-  "2022-02-01": 109747,
-  "2022-02-02": 109747,
-  "2022-02-03": 109752,
-  "2022-02-04": 109754,
-  "2022-02-05": 109750,
-  "2022-02-06": 109759,
-  "2022-02-07": 109765,
-  "2022-02-08": 109769,
-  "2022-02-09": 109777,
-  "2022-02-10": 109784,
-  "2022-02-11": 109792,
-  "2022-02-12": 109791,
-  "2022-02-13": 109793,
-  "2022-02-14": 109790,
-  "2022-02-15": 109790,
-  "2022-02-16": 109797,
-  "2022-02-17": 109796,
-  "2022-02-18": 109797,
-  "2022-02-19": 109801,
-  "2022-02-20": 109812,
-  "2022-02-21": 109811,
-  "2022-02-22": 109819,
-  "2022-02-23": 109827,
-  "2022-02-24": 109826,
-  "2022-02-25": 109827,
-  "2022-02-26": 109837,
-  "2022-02-27": 109858,
-  "2022-02-28": 109858,
-  "2022-03-01": 109870,
-  "2022-03-02": 109881,
-  "2022-03-03": 109881,
-  "2022-03-04": 109884,
-  "2022-03-05": 109896,
-  "2022-03-06": 109906,
-  "2022-03-07": 109916,
-  "2022-03-08": 109926,
-  "2022-03-09": 109942,
-  "2022-03-10": 109946,
-  "2022-03-11": 109964,
-  "2022-03-12": 109988,
-  "2022-03-13": 109994,
-  "2022-03-14": 110006,
-  "2022-03-15": 110031,
-  "2022-03-16": 110044,
-  "2022-03-17": 110050,
-  "2022-03-18": 110056,
-  "2022-03-19": 110065,
-  "2022-03-20": 110065,
-  "2022-03-21": 110078,
-  "2022-03-22": 110085,
-  "2022-03-23": 110099,
-  "2022-03-24": 110107,
-  "2022-03-25": 110113,
-  "2022-03-26": 110121,
-  "2022-03-27": 110122,
-  "2022-03-28": 110132,
-  "2022-03-30": 110140,
-  "2022-03-31": 110155,
-  "2022-04-01": 110175,
-  "2022-04-02": 110180,
-  "2022-04-03": 110181,
-  "2022-04-04": 110190,
-  "2022-04-05": 110190,
-  "2022-04-06": 110194,
-  "2022-04-07": 110197,
-  "2022-04-08": 110203,
-  "2022-04-09": 110210,
-  "2022-04-10": 110227,
-  "2022-04-11": 110226,
-  "2022-04-12": 110226,
-  "2022-04-13": 110228,
-  "2022-04-14": 110227,
-  "2022-04-15": 110224,
-  "2022-04-16": 110224,
-  "2022-04-17": 110226,
-  "2022-04-18": 110229,
-  "2022-04-19": 110230,
-  "2022-04-20": 110240,
-  "2022-04-21": 110239,
-  "2022-04-22": 110241,
-  "2022-04-23": 110242,
-  "2022-04-24": 110245,
-  "2022-04-25": 110255,
-  "2022-04-26": 110261,
-  "2022-04-27": 110277,
-  "2022-04-28": 110291,
-  "2022-04-29": 110312,
-  "2022-04-30": 110331,
-  "2022-05-01": 110361,
-  "2022-05-02": 110361,
-  "2022-05-03": 110372,
-  "2022-05-04": 110390,
-  "2022-05-05": 110394,
-  "2022-05-06": 110412,
-  "2022-05-07": 110432,
-  "2022-05-08": 110466,
-  "2022-05-09": 110465,
-  "2022-05-10": 110484,
-  "2022-05-11": 110498,
-  "2022-05-12": 110503,
-  "2022-05-13": 110527,
-  "2022-05-14": 110539,
-  "2022-05-15": 110562,
-  "2022-05-16": 110584,
-  "2022-05-17": 110597,
-  "2022-05-18": 110621,
-  "2022-05-19": 110634,
-  "2022-05-20": 110667,
-  "2022-05-21": 110691,
-  "2022-05-22": 110691,
-  "2022-05-23": 110710,
-  "2022-05-24": 110723,
-  "2022-05-25": 110746,
-  "2022-05-26": 110763,
-  "2022-05-27": 110786,
-  "2022-05-28": 110794,
-  "2022-05-29": 110812,
-  "2022-05-30": 110836,
-  "2022-05-31": 110848,
-  "2022-06-01": 110879,
-  "2022-06-02": 110882,
-  "2022-06-03": 110897,
-  "2022-06-04": 110918,
-  "2022-06-05": 110926,
-  "2022-06-06": 110938,
-  "2022-06-07": 110962,
-  "2022-06-08": 110989,
-  "2022-06-09": 110991,
-  "2022-06-10": 111015,
-  "2022-06-11": 111029,
-  "2022-06-12": 111043,
-  "2022-06-13": 111058,
-  "2022-06-14": 111072,
-  "2022-06-15": 111097,
-  "2022-06-16": 111118,
-  "2022-06-17": 111133,
-  "2022-06-18": 111158,
-  "2022-06-19": 111190,
-  "2022-06-20": 111190,
-  "2022-06-21": 111203,
-  "2022-06-22": 111241,
-  "2022-06-23": 111241,
-  "2022-06-24": 111256,
-  "2022-06-25": 111256,
-  "2022-06-26": 111262,
-  "2022-06-27": 111262,
-  "2022-06-28": 111273,
-  "2022-06-29": 111281,
-  "2022-06-30": 111286,
-  "2022-07-01": 111321,
-  "2022-07-02": 111346,
-  "2022-07-03": 111374,
-  "2022-07-04": 111399,
-  "2022-07-05": 111425,
-  "2022-07-06": 111452,
-  "2022-07-07": 111471,
-  "2022-07-08": 111492,
-  "2022-07-09": 111524,
-  "2022-07-10": 111534,
-  "2022-07-11": 111576,
-  "2022-07-12": 111601,
-  "2022-07-13": 111623,
-  "2022-07-14": 111651,
-  "2022-07-15": 111674,
-  "2022-07-16": 111697,
-  "2022-07-17": 111727,
-  "2022-07-18": 111746,
-  "2022-07-19": 111779,
-  "2022-07-20": 111799,
-  "2022-07-21": 111823,
-  "2022-07-22": 111859,
-  "2022-07-23": 111888,
-  "2022-07-24": 111910,
-  "2022-07-25": 111943,
-  "2022-07-26": 111971,
-  "2022-07-27": 111998,
-  "2022-07-28": 112030,
-  "2022-07-29": 112055,
-  "2022-07-30": 112111,
-  "2022-07-31": 112111,
-  "2022-08-01": 112126,
-  "2022-08-02": 112174,
-  "2022-08-03": 112174,
-  "2022-08-04": 112207,
-  "2022-08-05": 112235,
-  "2022-08-06": 112268,
-  "2022-08-07": 112275,
-  "2022-08-08": 112296,
-  "2022-08-09": 112312,
-  "2022-08-10": 112330,
-  "2022-08-11": 112359,
-  "2022-08-12": 112389,
-  "2022-08-13": 112435,
-  "2022-08-14": 112453,
-  "2022-08-15": 112482,
-  "2022-08-16": 112512,
-  "2022-08-17": 112555,
-  "2022-08-18": 112567,
-  "2022-08-19": 112603,
-  "2022-08-20": 112638,
-  "2022-08-21": 112674,
-  "2022-08-22": 112704,
-  "2022-08-23": 112729,
-  "2022-08-24": 112757,
-  "2022-08-25": 112802,
-  "2022-08-26": 112825,
-  "2022-08-27": 112860,
-  "2022-08-28": 112879,
-  "2022-08-29": 112920,
-  "2022-08-30": 112931,
-  "2022-08-31": 112941,
-  "2022-09-01": 112924,
-  "2022-09-02": 112936,
-  "2022-09-03": 112968,
-  "2022-09-04": 112956,
-  "2022-09-05": 112988,
-  "2022-09-06": 113035,
-  "2022-09-07": 113043,
-  "2022-09-09": 113101,
-  "2022-09-10": 113138,
-  "2022-09-11": 113156,
-  "2022-09-12": 113181,
-  "2022-09-13": 113190,
-  "2022-09-15": 113213,
-  "2022-09-16": 113238,
-  "2022-09-17": 113265,
-  "2022-09-18": 113292,
-  "2022-09-19": 113321,
-  "2022-09-20": 113355,
-  "2022-09-21": 113379,
-  "2022-09-22": 113393,
-  "2022-09-23": 113423,
-  "2022-09-24": 113446,
-  "2022-09-25": 113465,
-  "2022-09-26": 113479,
-  "2022-09-27": 113510,
-  "2022-09-28": 113529,
-  "2022-09-29": 113548,
-  "2022-09-30": 113563,
-  "2022-10-01": 113586,
-  "2022-10-02": 113613,
-  "2022-10-03": 113622,
-  "2022-10-04": 113641,
-  "2022-10-05": 113658,
-  "2022-10-06": 113671,
-  "2022-10-07": 113682,
-  "2022-10-08": 113707,
-  "2022-10-09": 113753,
-  "2022-10-10": 113759,
-  "2022-10-11": 113777,
-  "2022-10-12": 113809,
-  "2022-10-13": 113841,
-  "2022-10-14": 113863,
-  "2022-10-15": 113886,
-  "2022-10-16": 113900,
-  "2022-10-17": 113939,
-  "2022-10-18": 113956,
-  "2022-10-19": 113970,
-  "2022-10-20": 113987,
-  "2022-10-21": 114000,
-  "2022-10-22": 114030,
-  "2022-10-23": 114052,
-  "2022-10-24": 114073,
-  "2022-10-25": 114097,
-  "2022-10-26": 114108,
-  "2022-10-27": 114118,
-  "2022-10-28": 114142,
-  "2022-10-29": 114168,
-  "2022-10-30": 114180,
-  "2022-10-31": 114197,
-  "2022-11-01": 114210,
-  "2022-11-02": 114228,
-  "2022-11-03": 114251,
-  "2022-11-04": 114266,
-  "2022-11-05": 114284,
-  "2022-11-06": 114304,
-  "2022-11-07": 114332,
-  "2022-11-08": 114346,
-  "2022-11-09": 114369,
-  "2022-11-10": 114384,
-  "2022-11-11": 114399,
-  "2022-11-12": 114426,
-  "2022-11-13": 114439,
-  "2022-11-14": 114465,
-  "2022-11-15": 114487,
-  "2022-11-16": 114500,
-  "2022-11-17": 114528,
-  "2022-11-18": 114537,
-  "2022-11-19": 114530,
-  "2022-11-20": 114568,
-  "2022-11-21": 114559,
-  "2022-11-22": 114620,
-  "2022-11-23": 114612,
-  "2022-11-24": 114702,
-  "2022-11-25": 114732,
-  "2022-11-26": 114755,
-  "2022-11-27": 114773,
-  "2022-11-28": 114793,
-  "2022-11-29": 114833,
-  "2022-11-30": 114858,
-  "2022-12-01": 114879,
-  "2022-12-02": 114887,
-  "2022-12-03": 114902,
-  "2022-12-04": 114922,
-  "2022-12-05": 114949,
-  "2022-12-06": 114960,
-  "2022-12-07": 114978,
-  "2022-12-08": 115007,
-  "2022-12-09": 115019,
-  "2022-12-10": 115051,
-  "2022-12-11": 115071,
-  "2022-12-12": 115097,
-  "2022-12-13": 115118,
-  "2022-12-14": 115131,
-  "2022-12-15": 115152,
-  "2022-12-16": 115168,
-  "2022-12-17": 115184,
-  "2022-12-18": 115217,
-  "2022-12-19": 115245,
-  "2022-12-20": 115280,
-  "2022-12-21": 115280,
-  "2022-12-22": 115301,
-  "2022-12-24": 115335,
-  "2022-12-25": 115345,
-  "2022-12-26": 115366,
-  "2022-12-27": 115382,
-  "2022-12-28": 115393,
-  "2022-12-29": 115398,
-  "2022-12-30": 115408,
-  "2022-12-31": 115424,
-  "2023-01-01": 115449,
-  "2023-01-02": 115463,
-  "2023-01-03": 115472,
-  "2023-01-04": 115486,
-  "2023-01-05": 115507,
-  "2023-01-06": 115540,
-  "2023-01-07": 115580,
-  "2023-01-08": 115593,
-  "2023-01-09": 115619,
-  "2023-01-10": 115644,
-  "2023-01-11": 115661,
-  "2023-01-12": 115684,
-  "2023-01-13": 115702,
-  "2023-01-14": 115750,
-  "2023-01-15": 115756,
-  "2023-01-16": 115777,
-  "2023-01-17": 115796,
-  "2023-01-18": 115804,
-  "2023-01-19": 115815,
-  "2023-01-20": 115832,
-  "2023-01-21": 115849,
-  "2023-01-22": 115870,
-  "2023-01-23": 115901,
-  "2023-01-24": 115910,
-  "2023-01-25": 115916,
-  "2023-01-26": 115938,
-  "2023-01-27": 115961,
-  "2023-01-28": 115977,
-  "2023-01-29": 115993,
-  "2023-01-30": 116009,
-  "2023-01-31": 116009,
-  "2023-02-01": 116048,
-  "2023-02-02": 116068,
-  "2023-02-03": 116087,
-  "2023-02-04": 116108,
-  "2023-02-05": 116133,
-  "2023-02-06": 116141,
-  "2023-02-07": 116154,
-  "2023-02-08": 116194,
-  "2023-02-09": 116194,
-  "2023-02-10": 116218,
-  "2023-02-11": 116249,
-  "2023-02-12": 116284,
-  "2023-02-13": 116301,
-  "2023-02-14": 116301,
-  "2023-02-15": 116328,
-  "2023-02-16": 116340,
-  "2023-02-17": 116363,
-  "2023-02-18": 116402,
-  "2023-02-19": 116408,
-  "2023-02-20": 116423,
-  "2023-02-21": 116440,
-  "2023-02-22": 116451,
-  "2023-02-23": 116473,
-  "2023-02-24": 116492,
-  "2023-02-25": 116512,
-  "2023-02-26": 116535,
-  "2023-02-27": 116574,
-  "2023-02-28": 116574,
-  "2023-03-01": 116585,
-  "2023-03-02": 116597,
-  "2023-03-03": 116609,
-  "2023-03-04": 116626,
-  "2023-03-05": 116665,
-  "2023-03-06": 116665,
-  "2023-03-07": 116687,
-  "2023-03-08": 116702,
-  "2023-03-09": 116709,
-  "2023-03-10": 116727,
-  "2023-03-11": 116735,
-  "2023-03-12": 116765,
-  "2023-03-13": 116786,
-  "2023-03-14": 116811,
-  "2023-03-15": 116821,
-  "2023-03-16": 116847,
-  "2023-03-17": 116847,
-  "2023-03-18": 116878,
-  "2023-03-19": 116898,
-  "2023-03-20": 116918,
-  "2023-03-21": 116930,
-  "2023-03-22": 116955,
-  "2023-03-23": 116968,
-  "2023-03-24": 116968,
-  "2023-03-25": 116995,
-  "2023-03-26": 117005,
-  "2023-03-27": 117021,
-  "2023-03-28": 117028,
-  "2023-03-29": 117043,
-  "2023-03-30": 117065,
-  "2023-03-31": 117065,
-  "2023-04-01": 117082,
-  "2023-04-02": 117096,
-  "2023-04-03": 117106,
-  "2023-04-04": 117109,
-  "2023-04-05": 117117,
-  "2023-04-06": 117126,
-  "2023-04-07": 117127,
-  "2023-04-09": 117153,
-  "2023-04-10": 117164,
-  "2023-04-11": 117191,
-  "2023-04-12": 117191,
-  "2023-04-13": 117196,
-  "2023-04-14": 117208,
-  "2023-04-15": 117227,
-  "2023-04-16": 117238,
-  "2023-04-17": 117256,
-  "2023-04-18": 117272,
-  "2023-04-19": 117279,
-  "2023-04-20": 117290,
-  "2023-04-21": 117299,
-  "2023-04-22": 117313,
-  "2023-04-23": 117323,
-  "2023-04-24": 117337,
-  "2023-04-25": 117345,
-  "2023-04-26": 117352,
-  "2023-04-27": 117369,
-  "2023-04-28": 117386,
-  "2023-04-29": 117399,
-  "2023-04-30": 117413,
-  "2023-05-01": 117418,
-  "2023-05-02": 117428,
-  "2023-05-03": 117441,
-  "2023-05-04": 117462,
-  "2023-05-05": 117477,
-  "2023-05-06": 117494,
-  "2023-05-07": 117503,
-  "2023-05-08": 117522,
-  "2023-05-09": 117539,
-  "2023-05-10": 117550,
-  "2023-05-11": 117558,
-  "2023-05-12": 117567,
-  "2023-05-13": 117589,
-  "2023-05-14": 117598,
-  "2023-05-15": 117620,
-  "2023-05-16": 117625,
-  "2023-05-17": 117644,
-  "2023-05-18": 117654,
-  "2023-05-19": 117668,
-  "2023-05-20": 117690,
-  "2023-05-21": 117690,
-  "2023-05-22": 117690,
-  "2023-05-23": 117700,
-  "2023-05-24": 117723,
-  "2023-05-25": 117728,
-  "2023-05-26": 117730,
-  "2023-05-27": 117740,
-  "2023-05-28": 117755,
-  "2023-05-29": 117755,
-  "2023-05-30": 117787,
-  "2023-05-31": 117808,
-  "2023-06-01": 117823,
-  "2023-06-02": 117833,
-  "2023-06-03": 117855,
-  "2023-06-04": 117868,
-  "2023-06-05": 117883,
-  "2023-06-06": 117893,
-  "2023-06-07": 117904,
-  "2023-06-08": 117911,
-  "2023-06-09": 117917,
-  "2023-06-10": 117940,
-  "2023-06-11": 117952,
-  "2023-06-12": 117971,
-  "2023-06-13": 117984,
-  "2023-06-14": 117993,
-  "2023-06-15": 118002,
-  "2023-06-16": 118007,
-  "2023-06-17": 118020,
-  "2023-06-18": 118036,
-  "2023-06-19": 118046,
-  "2023-06-20": 118059,
-  "2023-06-21": 118070,
-  "2023-06-22": 118080,
-  "2023-06-23": 118099,
-  "2023-06-24": 118103,
-  "2023-06-25": 118120,
-  "2023-06-26": 118125,
-  "2023-06-27": 118144,
-  "2023-06-28": 118152,
-  "2023-06-29": 118167,
-  "2023-06-30": 118181,
-  "2023-07-01": 118210,
-  "2023-07-02": 118210,
-  "2023-07-03": 118221,
-  "2023-07-04": 118232,
-  "2023-07-05": 118252,
-  "2023-07-06": 118265,
-  "2023-07-07": 118265,
-  "2023-07-08": 118277,
-  "2023-07-09": 118283,
-  "2023-07-10": 118306,
-  "2023-07-11": 118322,
-  "2023-07-12": 118340,
-  "2023-07-13": 118353,
-  "2023-07-14": 118366,
-  "2023-07-15": 118384,
-  "2023-07-16": 118393,
-  "2023-07-17": 118399,
-  "2023-07-18": 118410,
-  "2023-07-19": 118419,
-  "2023-07-20": 118427,
-  "2023-07-21": 118436,
-  "2023-07-22": 118444,
-  "2023-07-23": 118452,
-  "2023-07-24": 118467,
-  "2023-07-25": 118473,
-  "2023-07-26": 118484,
-  "2023-07-27": 118493,
-  "2023-07-28": 118503,
-  "2023-07-29": 118521,
-  "2023-07-30": 118538,
-  "2023-07-31": 118544,
-  "2023-08-01": 118555,
-  "2023-08-02": 118569,
-  "2023-08-03": 118587,
-  "2023-08-04": 118600,
-  "2023-08-05": 118613,
-  "2023-08-06": 118641,
-  "2023-08-07": 118641,
-  "2023-08-08": 118652,
-  "2023-08-09": 118662,
-  "2023-08-10": 118677,
-  "2023-08-11": 118696,
-  "2023-08-12": 118714,
-  "2023-08-13": 118724,
-  "2023-08-14": 118734,
-  "2023-08-15": 118744,
-  "2023-08-16": 118744,
-  "2023-08-17": 118761,
-  "2023-08-18": 118772,
-  "2023-08-19": 118784,
-  "2023-08-20": 118791,
-  "2023-08-21": 118805,
-  "2023-08-22": 118818,
-  "2023-08-23": 118820,
-  "2023-08-24": 118827,
-  "2023-08-25": 118834,
-  "2023-08-26": 118849,
-  "2023-08-27": 118859,
-  "2023-08-28": 118865,
-  "2023-08-29": 118866,
-  "2023-08-30": 118877,
-  "2023-08-31": 118884,
-  "2023-09-01": 118917,
-  "2023-09-02": 118917,
-  "2023-09-03": 118936,
-  "2023-09-04": 118954,
-  "2023-09-05": 118964,
-  "2023-09-06": 118975,
-  "2023-09-07": 118975,
-  "2023-09-08": 118986,
-  "2023-09-09": 118995,
-  "2023-09-10": 119010,
-  "2023-09-11": 119017,
-  "2023-09-12": 119033,
-  "2023-09-13": 119043,
-  "2023-09-14": 119047,
-  "2023-09-15": 119055,
-  "2023-09-16": 119068,
-  "2023-09-17": 119082,
-  "2023-09-18": 119089,
-  "2023-09-19": 119102,
-  "2023-09-20": 119119,
-  "2023-09-21": 119121,
-  "2023-09-22": 119130,
-  "2023-09-23": 119128,
-  "2023-09-24": 119135,
-  "2023-09-25": 119144,
-  "2023-09-26": 119153,
-  "2023-09-27": 119156,
-  "2023-09-28": 119155,
-  "2023-09-29": 119160,
-  "2023-09-30": 119156,
-  "2023-10-01": 119157,
-  "2023-10-02": 119162,
-  "2023-10-03": 119164,
-  "2023-10-04": 119162,
-  "2023-10-05": 119166,
-  "2023-10-06": 119173,
-  "2023-10-07": 119180,
-  "2023-10-08": 119183,
-  "2023-10-09": 119182,
-  "2023-10-10": 118880,
-  "2023-10-11": 118583,
-  "2023-10-12": 118583,
-  "2023-10-13": 118329,
-  "2023-10-14": 118125,
-  "2023-10-15": 118092,
-  "2023-10-16": 118086,
-  "2023-10-17": 118083,
-  "2023-10-18": 118080,
-  "2023-10-19": 118087,
-  "2023-10-20": 118094,
-  "2023-10-21": 118096,
-  "2023-10-22": 118097,
-  "2023-10-23": 118096,
-  "2023-10-24": 118099,
-  "2023-10-25": 118104,
-  "2023-10-26": 118109,
-  "2023-10-27": 118118,
-  "2023-10-28": 118129,
-  "2023-10-29": 118132,
-  "2023-10-30": 118138,
-  "2023-10-31": 118138,
-  "2023-11-01": 118136,
-  "2023-11-02": 118138,
-  "2023-11-03": 118142,
-  "2023-11-04": 118140,
-  "2023-11-05": 118139,
-  "2023-11-06": 118132,
-  "2023-11-07": 118131,
-  "2023-11-08": 118126,
-  "2023-11-09": 118132,
-  "2023-11-10": 118134,
-  "2023-11-11": 118134,
-  "2023-11-12": 118141,
-  "2023-11-13": 118140,
-  "2023-11-14": 118143,
-  "2023-11-15": 118143,
-  "2023-11-16": 118149,
-  "2023-11-17": 118145,
-  "2023-11-18": 118145,
-  "2023-11-19": 118143,
-  "2023-11-20": 118146,
-  "2023-11-21": 118147,
-  "2023-11-22": 118147,
-  "2023-11-23": 118149,
-  "2023-11-24": 118151,
-  "2023-11-25": 118149,
-  "2023-11-26": 118153,
-  "2023-11-27": 118145,
-  "2023-11-28": 118147,
-  "2023-11-29": 118155,
-  "2023-11-30": 118155,
-  "2023-12-01": 118154,
-  "2023-12-02": 118152,
-  "2023-12-03": 118154,
-  "2023-12-04": 118152,
-  "2023-12-05": 118144,
-  "2023-12-06": 118146,
-  "2023-12-07": 118142,
-  "2023-12-08": 118138,
-  "2023-12-09": 118135,
-  "2023-12-10": 118139,
-  "2023-12-11": 118132,
-  "2023-12-12": 118142,
-  "2023-12-13": 118140,
-  "2023-12-14": 118146,
-  "2023-12-15": 118153,
-  "2023-12-16": 118162,
-  "2023-12-17": 118159,
-  "2023-12-18": 118157,
-  "2023-12-19": 118160,
-  "2023-12-20": 118160,
-  "2023-12-21": 118166,
-  "2023-12-22": 118170,
-  "2023-12-23": 118170,
-  "2023-12-24": 118165,
-  "2023-12-25": 118160,
-  "2023-12-26": 118166,
-  "2023-12-27": 118169,
-  "2023-12-30": 118173,
-  "2023-12-31": 118174,
-  "2024-01-01": 118175,
-  "2024-01-02": 118176,
-  "2024-01-03": 118172
+  "2024-01-17": 116825,
+  "date_first_scraped": "2021-12-21",
+  "description": "Acid blues, psy-blues and the early pioneers of psychedelic rock.",
+  "name": "Acid Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ultimate Spinach",
+        "url": "https://open.spotify.com/album/3g1Dzj83jWRcQMCtmLHTka"
+      },
+      "artists": [
+        {
+          "name": "Ultimate Spinach",
+          "url": "https://open.spotify.com/artist/38ULknnQK6G4oLJtTtPkkM"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494933,
+      "name": "(BALLAD OF) THE HIP DEATH GODDESS",
+      "url": "https://open.spotify.com/track/1IQmZ2Hz0HEtb8rwXNci4i"
+    },
+    {
+      "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
+    },
+    {
+      "album": {
+        "name": "Ragamuffin Man / A \u2018B\u2019 Side",
+        "url": "https://open.spotify.com/album/0x7WEKNnRKa9Du2PzXyBP0"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313480,
+      "name": "A \"B\" Side",
+      "url": "https://open.spotify.com/track/32j6XpAsQ47PFtSyXHTMuI"
+    },
+    {
+      "album": {
+        "name": "A Child's Guide To Good And Evil",
+        "url": "https://open.spotify.com/album/7wieiJFEfvS2tWCxv8IBhF"
+      },
+      "artists": [
+        {
+          "name": "The West Coast Pop Art Experimental Band",
+          "url": "https://open.spotify.com/artist/2z4eiJkDaXYCR9kv2UuSgz"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161400,
+      "name": "A Child of a Few Hours Is Burning to Death",
+      "url": "https://open.spotify.com/track/1U0JgQRSufNmWPvD9aklZt"
+    },
+    {
+      "album": {
+        "name": "Vanilla Fudge",
+        "url": "https://open.spotify.com/album/4rvXyAx9phjxiU4cQS1AJh"
+      },
+      "artists": [
+        {
+          "name": "Vanilla Fudge",
+          "url": "https://open.spotify.com/artist/0vIMq3W8V63uR4Ymgm2pF1"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235133,
+      "name": "a) Take Me For A Little While b) RYFI (Illusions Of My Childhood-Part Three)",
+      "url": "https://open.spotify.com/track/2AXigUpz4ycfVS550RH8wI"
+    },
+    {
+      "album": {
+        "name": "Inner Mystique",
+        "url": "https://open.spotify.com/album/59gjybUFPdD8weo8AOFjzd"
+      },
+      "artists": [
+        {
+          "name": "The Chocolate Watchband",
+          "url": "https://open.spotify.com/artist/0BNTrhhkZLsbcWAidMz98A"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4f2kQCUusGjKrUeowAtUOc"
+    },
+    {
+      "album": {
+        "name": "Journey To The Center Of The Mind",
+        "url": "https://open.spotify.com/album/1C7Z6X7m9uxVP9Jtaoyvj5"
+      },
+      "artists": [
+        {
+          "name": "The Amboy Dukes",
+          "url": "https://open.spotify.com/artist/5cVLuEqb7aOHuzwssXHzWI"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338719,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/5FDGmW9TgycCTVwPnKZ4xC"
+    },
+    {
+      "album": {
+        "name": "Eve",
+        "url": "https://open.spotify.com/album/6YCt59wLxD0RXqTvt3kz1k"
+      },
+      "artists": [
+        {
+          "name": "Speed, Glue & Shinki",
+          "url": "https://open.spotify.com/artist/67DVoI1yayIO8DcKKtlbWk"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375800,
+      "name": "Big Headed Woman",
+      "url": "https://open.spotify.com/track/2yb0ZoqqGX4XDzt2CZarWF"
+    },
+    {
+      "album": {
+        "name": "Ptoof!",
+        "url": "https://open.spotify.com/album/1a2WI9UBwySfTtOdC9sJox"
+      },
+      "artists": [
+        {
+          "name": "The Deviants",
+          "url": "https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238320,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/0nJMdD3Q7q31SpY3r9pOxp"
+    },
+    {
+      "album": {
+        "name": "Ptoof!",
+        "url": "https://open.spotify.com/album/3xXRXr2O9mesGZFm5yvclT"
+      },
+      "artists": [
+        {
+          "name": "The Deviants",
+          "url": "https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238320,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/55rOMTH7SKUpHtj7qnAhdB"
+    },
+    {
+      "album": {
+        "name": "Ptoof!",
+        "url": "https://open.spotify.com/album/4fWuFitMDgLkzDLIpu8Tzr"
+      },
+      "artists": [
+        {
+          "name": "The Deviants",
+          "url": "https://open.spotify.com/artist/6gFbwCDrKMQJpxSPclIUnu"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 238320,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/6FNHbGuJ8GkB0bty9Jm3c6"
+    },
+    {
+      "album": {
+        "name": "The Studio Outtakes",
+        "url": "https://open.spotify.com/album/0rXM1CIG0xeDoHABrXHACR"
+      },
+      "artists": [
+        {
+          "name": "Frumious Bandersnatch",
+          "url": "https://open.spotify.com/artist/6oGriTn7yPNEco3WkbNqS9"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 582906,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/4KWLEtCcc13YDp6YogeVMB"
+    },
+    {
+      "album": {
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/0L7ktraAFQOxPHgK2zLbyf"
+      },
+      "artists": [
+        {
+          "name": "The Litter",
+          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 272493,
+      "name": "Codine",
+      "url": "https://open.spotify.com/track/1D5PLr1KOnXSo5sJyPUmXP"
+    },
+    {
+      "album": {
+        "name": "Distortions",
+        "url": "https://open.spotify.com/album/1jNPpX5H1F1xJNQR8Xe2CF"
+      },
+      "artists": [
+        {
+          "name": "The Litter",
+          "url": "https://open.spotify.com/artist/6wvtyGNtNtLlkHONVzOocm"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272493,
+      "name": "Codine",
+      "url": "https://open.spotify.com/track/77508QPMrHixHl0ORGZWTA"
+    },
+    {
+      "album": {
+        "name": "Mk. II (Remastered)",
+        "url": "https://open.spotify.com/album/1BSUQlD675LWJVS4owvcQn"
+      },
+      "artists": [
+        {
+          "name": "Steamhammer",
+          "url": "https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "Contemporary Chick Con Song - Remastered",
+      "url": "https://open.spotify.com/track/0ejMOOcG8JLEum6LfoPVtl"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Drugstore - Remastered",
+        "url": "https://open.spotify.com/album/6TrlKpZSlcw3qzdHc42QzP"
+      },
+      "artists": [
+        {
+          "name": "Aguaturbia",
+          "url": "https://open.spotify.com/artist/1GGnADQvJeAIqtrjWc0CFc"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635271,
+      "name": "Crimson & Clover",
+      "url": "https://open.spotify.com/track/67kP4RjiGxSggSO5YniuLC"
+    },
+    {
+      "album": {
+        "name": "Here We Are Again",
+        "url": "https://open.spotify.com/album/0WXiQbXXPlYw5STWA7ucPH"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "Crystal Blues",
+      "url": "https://open.spotify.com/track/3dHhbraAAG40gNtVUkn0uf"
+    },
+    {
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Death Sound",
+      "url": "https://open.spotify.com/track/0H0g1bov9Zf2Ebqgod7R9R"
+    },
+    {
+      "album": {
+        "name": "Don't Call Us, We'll Call You (Re-Recorded)",
+        "url": "https://open.spotify.com/album/6uQESzHRJ2UBK9EEK5Hvic"
+      },
+      "artists": [
+        {
+          "name": "Sugarloaf",
+          "url": "https://open.spotify.com/artist/1T3RPiMH711kvoXymKUTYH"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202304,
+      "name": "Don't Call Us, We'll Call You (Re-Recorded / Remastered)",
+      "url": "https://open.spotify.com/track/6Hrik94vQpSpxSjMfFKGfC"
+    },
+    {
+      "album": {
+        "name": "Boogie With Canned Heat",
+        "url": "https://open.spotify.com/album/4GIv54tOpYbmQ2eGojw4Rr"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/5hZHU4ODhJJhB28Q5MdQHa"
+    },
+    {
+      "album": {
+        "name": "Electric Music For The Mind And Body",
+        "url": "https://open.spotify.com/album/1PdqT2EZfFkWTsN18x1SZk"
+      },
+      "artists": [
+        {
+          "name": "Country Joe & The Fish",
+          "url": "https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Flying High",
+      "url": "https://open.spotify.com/track/5v0ibjQegpYdMUGL95dI1a"
+    },
+    {
+      "album": {
+        "name": "The Savage Resurrection",
+        "url": "https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu"
+      },
+      "artists": [
+        {
+          "name": "The Savage Resurrection",
+          "url": "https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Fox Is Sick",
+      "url": "https://open.spotify.com/track/7uEw55wwByGZnEUTX0MaEI"
+    },
+    {
+      "album": {
+        "name": "The Pretty Things",
+        "url": "https://open.spotify.com/album/6nvDLETCnewLyApKUIuqO3"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136904,
+      "name": "Get Yourself Home",
+      "url": "https://open.spotify.com/track/6tQiTNUD3qgZPDqAml3wFy"
+    },
+    {
+      "album": {
+        "name": "The Pretty Things (Remastered)",
+        "url": "https://open.spotify.com/album/2y4spnYViVnOtvdRLakH4q"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135026,
+      "name": "Get Yourself Home - Remastered",
+      "url": "https://open.spotify.com/track/1I6z0Y0PBQvDPJUmsV8Uk4"
+    },
+    {
+      "album": {
+        "name": "Quicksilver Messenger Service",
+        "url": "https://open.spotify.com/album/2jQEpak8oXYb6dh9sCZqqY"
+      },
+      "artists": [
+        {
+          "name": "Quicksilver Messenger Service",
+          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403533,
+      "name": "Gold And Silver",
+      "url": "https://open.spotify.com/track/6qwwAbxSYq9MTEIn0UMFNA"
+    },
+    {
+      "album": {
+        "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
+        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
+      },
+      "artists": [
+        {
+          "name": "Blue Cheer",
+          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Good Times Are So Hard To Find",
+      "url": "https://open.spotify.com/track/1RCaB8ZclzAsuw9jRi0SIx"
+    },
+    {
+      "album": {
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/0eom2ZJPDeUyS4XTaDpAXR"
+      },
+      "artists": [
+        {
+          "name": "The Apple Pie Motherhood Band",
+          "url": "https://open.spotify.com/artist/174pJcct3i25tITNgPxnFO"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Grandmother Hooker",
+      "url": "https://open.spotify.com/track/6LzjPE9lvGc6xCXdvgf0VO"
+    },
+    {
+      "album": {
+        "name": "Level with Me",
+        "url": "https://open.spotify.com/album/0hURuklitZ9QZFg6OBnWCM"
+      },
+      "artists": [
+        {
+          "name": "Barry Melton",
+          "url": "https://open.spotify.com/artist/1ugWCcIaInMcgJN2ghXfXi"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "I Can't Dance",
+      "url": "https://open.spotify.com/track/4MT7JJWn6AOcUHvakxSbpN"
+    },
+    {
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/2MOklupP8q76rVakZOlEDj"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/2HlO7aYhiN86NBC9j4l3SO"
+    },
+    {
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/7j7IHDXm1vXmDBqQqpzHDz"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/2KMpYgngWaBaCNgrod4AMW"
+    },
+    {
+      "album": {
+        "name": "The Crazy World of Arthur Brown",
+        "url": "https://open.spotify.com/album/6wPnXZPPznO6pG86IqAVxr"
+      },
+      "artists": [
+        {
+          "name": "The Crazy World Of Arthur Brown",
+          "url": "https://open.spotify.com/artist/2LpdhgwN0mYKMjnzrBQU8H"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 224600,
+      "name": "I Put a Spell on You",
+      "url": "https://open.spotify.com/track/4mLPC3KlU71mb4eDMddLmT"
+    },
+    {
+      "album": {
+        "name": "Cauldron",
+        "url": "https://open.spotify.com/album/487Nr5JAIFc9mHhZRcYRwX"
+      },
+      "artists": [
+        {
+          "name": "Fifty Foot Hose",
+          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218666,
+      "name": "If Not This Time",
+      "url": "https://open.spotify.com/track/6NhX2JBY2l4iF5x5FSMtDS"
+    },
+    {
+      "album": {
+        "name": "Cauldron",
+        "url": "https://open.spotify.com/album/7aDnFNJkraWwSxMNtPLcfz"
+      },
+      "artists": [
+        {
+          "name": "Fifty Foot Hose",
+          "url": "https://open.spotify.com/artist/2sQPJFyaYBVSNB9NiEUnMM"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "If Not This Time",
+      "url": "https://open.spotify.com/track/6PKIEPXO7B1tIH1XMUy3fV"
+    },
+    {
+      "album": {
+        "name": "Inkpot & Attila",
+        "url": "https://open.spotify.com/album/5liqryZxZvie3pfCR21liP"
+      },
+      "artists": [
+        {
+          "name": "Shocking Blue",
+          "url": "https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Inkpot",
+      "url": "https://open.spotify.com/track/0KFnCHVyyzOQvWoJbjXi1n"
+    },
+    {
+      "album": {
+        "name": "The Seeds",
+        "url": "https://open.spotify.com/album/6VSc96KWdejRIgMrmo4v8N"
+      },
+      "artists": [
+        {
+          "name": "The Seeds",
+          "url": "https://open.spotify.com/artist/5mcarhiatlvfCghqcn73rC"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "It's A Hard Life",
+      "url": "https://open.spotify.com/track/3i9f1ZX8IbZVsZSoSuHO8D"
+    },
+    {
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/40W7aEPhpfepQePPuDNLTu"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/01jsGSZbfjxbo99LI8Osr9"
+    },
+    {
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/4ORvCABBxkkKdYS2TCYIeQ"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/1rxnKNmNwu6LSEKZ71LFBQ"
+    },
+    {
+      "album": {
+        "name": "Sov Gott Rose-Mari",
+        "url": "https://open.spotify.com/album/5zAAhGhqKvtOyseYGIbF6f"
+      },
+      "artists": [
+        {
+          "name": "International Harvester",
+          "url": "https://open.spotify.com/artist/1RVXcYQXUeC2pPHINEJcWA"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 100253,
+      "name": "It's Only Love",
+      "url": "https://open.spotify.com/track/7mFaMrnsaE9YdZrZYyllUI"
+    },
+    {
+      "album": {
+        "name": "Halfbreed",
+        "url": "https://open.spotify.com/album/0jB7KRF2763gFcrl11luHi"
+      },
+      "artists": [
+        {
+          "name": "Sleepy John Estes",
+          "url": "https://open.spotify.com/artist/00UuF3fAevVz8L0f1WfiQ6"
+        },
+        {
+          "name": "Keef Hartley Band",
+          "url": "https://open.spotify.com/artist/2CPDvRMU1VZcPlwoCyKWZ2"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356360,
+      "name": "Leavin' Trunk",
+      "url": "https://open.spotify.com/track/4SoICrZ3Gf9Dlv8XdJ166H"
+    },
+    {
+      "album": {
+        "name": "Fuzz Freakout 1970-1971",
+        "url": "https://open.spotify.com/album/2jUV53kqy8Y04JLKXNdZU5"
+      },
+      "artists": [
+        {
+          "name": "The Pink Fairies",
+          "url": "https://open.spotify.com/artist/45BIdHR6MPeNr1aNT10GJE"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162893,
+      "name": "Lucille (1970 BBC Top Gear Radio Broadcast)",
+      "url": "https://open.spotify.com/track/2oRsUm3jbPiZNp3cIs6cOP"
+    },
+    {
+      "album": {
+        "name": "Both Sides of the Sky",
+        "url": "https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/0hnlRgTh80b1emNnM0jmwt"
+    },
+    {
+      "album": {
+        "name": "Mannish Boy",
+        "url": "https://open.spotify.com/album/5rE080Yu5iVAGcIkpHBOOX"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301520,
+      "name": "Mannish Boy",
+      "url": "https://open.spotify.com/track/6U1pCoqFElrx7kpiFIqpYb"
+    },
+    {
+      "album": {
+        "name": "Hibernated - Earth Omen",
+        "url": "https://open.spotify.com/album/6BCvuOvXBZmM68vSgtRR2F"
+      },
+      "artists": [
+        {
+          "name": "Frijid Pink",
+          "url": "https://open.spotify.com/artist/0K24Tk5QTxx6tkcCdnY3Od"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384533,
+      "name": "Miss Evil",
+      "url": "https://open.spotify.com/track/0Ta7eXWE6geBJjuj9tAuzb"
+    },
+    {
+      "album": {
+        "name": "Listen My Friends! The Best Of Moby Grape",
+        "url": "https://open.spotify.com/album/5J7SaPEpEp91QraSb8WkRV"
+      },
+      "artists": [
+        {
+          "name": "Moby Grape",
+          "url": "https://open.spotify.com/artist/0NHSh9S0VQiFfsEFbvhRXN"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118093,
+      "name": "Mr. Blues",
+      "url": "https://open.spotify.com/track/2ENMAIS4aSOHzqaPIXCHiI"
+    },
+    {
+      "album": {
+        "name": "The Legendary Goldstar Album & Golden Glass",
+        "url": "https://open.spotify.com/album/06mZtBRnJeufBaT0TFkqLf"
+      },
+      "artists": [
+        {
+          "name": "The Misunderstood",
+          "url": "https://open.spotify.com/artist/4UuXO2W0oFIBZMArMPDXev"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271173,
+      "name": "Never Had A Girl",
+      "url": "https://open.spotify.com/track/0KwbZlIbKH0ntZjrvPsxXU"
+    },
+    {
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
+      },
+      "artists": [
+        {
+          "name": "Big Brother & The Holding Company",
+          "url": "https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo"
+        },
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253333,
+      "name": "Piece of My Heart",
+      "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
+    },
+    {
+      "album": {
+        "name": "Grace Slick & The Great Society",
+        "url": "https://open.spotify.com/album/74cJP3XQnuylRJDguGCRyY"
+      },
+      "artists": [
+        {
+          "name": "Grace Slick",
+          "url": "https://open.spotify.com/artist/3wNX7r7t4Vaahrx9XzyYIY"
+        },
+        {
+          "name": "The Great Society",
+          "url": "https://open.spotify.com/artist/2ukLYCAJW8XDlyobhmWQ8x"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392000,
+      "name": "Sally Go 'Round the Roses",
+      "url": "https://open.spotify.com/track/1w7Gu4ohc5YLkgJMdRwin1"
+    },
+    {
+      "album": {
+        "name": "Easter Everywhere",
+        "url": "https://open.spotify.com/album/5RQNjPQbqY82MBTwaQp3ik"
+      },
+      "artists": [
+        {
+          "name": "13th Floor Elevators",
+          "url": "https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482278,
+      "name": "Slip Inside This House - Stereo LP Version",
+      "url": "https://open.spotify.com/track/4GVRHAwABAV0v63YX9Go0p"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Lollipop",
+        "url": "https://open.spotify.com/album/5WSiEiH8BtgVil5xR2pYEX"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "Sometimes I Think About",
+      "url": "https://open.spotify.com/track/23fMtT3EAnM0Nz3DPVKQxL"
+    },
+    {
+      "album": {
+        "name": "Power Plant",
+        "url": "https://open.spotify.com/album/77sNTMqrlhhqfo1fOcbjBb"
+      },
+      "artists": [
+        {
+          "name": "The Golden Dawn",
+          "url": "https://open.spotify.com/artist/5zATwJgFNdxKRj3xxLtdAx"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172946,
+      "name": "Starvation",
+      "url": "https://open.spotify.com/track/77LqKLpqMUiXqqrnrZx7hX"
+    },
+    {
+      "album": {
+        "name": "Disraeli Gears (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3W6CI0Lw7lElAPID2Fd3B4"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 166280,
+      "name": "Strange Brew",
+      "url": "https://open.spotify.com/track/47bXIv24jthL4vzZy3j7CY"
+    },
+    {
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166600,
+      "name": "Strange Brew",
+      "url": "https://open.spotify.com/track/3ET8TZWF5sP4SPfJK1lKun"
+    },
+    {
+      "album": {
+        "name": "The Yardbirds Story - Pt. 3 - 1965/66 - Big Hits & America Calling",
+        "url": "https://open.spotify.com/album/0lYmtEuL0fLXPP4XKr5O8K"
+      },
+      "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208493,
+      "name": "The Train Kept A-Rollin'",
+      "url": "https://open.spotify.com/track/6pW2lKORQaIC6JR4qBNG9e"
+    },
+    {
+      "album": {
+        "name": "Psychotic Reaction",
+        "url": "https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA"
+      },
+      "artists": [
+        {
+          "name": "Count Five",
+          "url": "https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133133,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6URPlvJyBNQfASywtcLKKj"
+    },
+    {
+      "album": {
+        "name": "Incense And Peppermints",
+        "url": "https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd"
+      },
+      "artists": [
+        {
+          "name": "Strawberry Alarm Clock",
+          "url": "https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505266,
+      "name": "The World's On Fire",
+      "url": "https://open.spotify.com/track/5Osu3BeGYl2t0auN3IXHam"
+    },
+    {
+      "album": {
+        "name": "The Great Conspiracy (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/676LQ4bm6IMzPIhndDVQM8"
+      },
+      "artists": [
+        {
+          "name": "The Peanut Butter Conspiracy",
+          "url": "https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392440,
+      "name": "Too Many Do",
+      "url": "https://open.spotify.com/track/68dutymBmCsq2jVjPe4Jek"
+    },
+    {
+      "album": {
+        "name": "Mighty Baby",
+        "url": "https://open.spotify.com/album/5jU1NiboO5jmmadDMnUsC2"
+      },
+      "artists": [
+        {
+          "name": "Mighty Baby",
+          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 361333,
+      "name": "Trials Of A City",
+      "url": "https://open.spotify.com/track/1UGt3tch67tL9AqiolBcCy"
+    },
+    {
+      "album": {
+        "name": "Mighty Baby",
+        "url": "https://open.spotify.com/album/32ZtQafs8OxDkFTOFvprN7"
+      },
+      "artists": [
+        {
+          "name": "Mighty Baby",
+          "url": "https://open.spotify.com/artist/0OCbY2Rzt59ilutteUnG8I"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361333,
+      "name": "Trials of a City",
+      "url": "https://open.spotify.com/track/3b5jvjpB3Uf88uilq0aGLF"
+    },
+    {
+      "album": {
+        "name": "American Beauty (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306973,
+      "name": "Truckin' - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1I6l01BaBgBCVkfQCpIlR6"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1J2sJJSNlSoWAT9JWBEBeW"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150533,
+      "name": "Unconscious Power",
+      "url": "https://open.spotify.com/track/1nE3arIIBRNwzzbBxhhSC4"
+    },
+    {
+      "album": {
+        "name": "Psychedelic Resurrection",
+        "url": "https://open.spotify.com/album/1FzOC8f2m4Gc5vFQkufqwJ"
+      },
+      "artists": [
+        {
+          "name": "The Blues Magoos",
+          "url": "https://open.spotify.com/artist/7peASGSN6FkIFQ3XjLfBtB"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137346,
+      "name": "We Ain't Got Nothin' yet",
+      "url": "https://open.spotify.com/track/7xwf45gey53Ftmo3duaAei"
+    },
+    {
+      "album": {
+        "name": "In Search of Space",
+        "url": "https://open.spotify.com/album/1cgsYqtDTMTetu7FjEsIhI"
+      },
+      "artists": [
+        {
+          "name": "Hawkwind",
+          "url": "https://open.spotify.com/artist/2jK54ZlZhTF1TxygsVeR05"
+        }
+      ],
+      "date_added": "2018-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 941773,
+      "name": "You Shouldn't Do That - 1996 Remaster",
+      "url": "https://open.spotify.com/track/1yC4zXWJuywuVp5Hm5nobQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5NXVhu59GCz"
 }

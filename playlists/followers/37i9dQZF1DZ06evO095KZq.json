@@ -1,148 +1,1247 @@
 {
-  "2023-08-09": 418188,
-  "2023-08-10": 418255,
-  "2023-08-11": 418340,
-  "2023-08-12": 418414,
-  "2023-08-13": 418414,
-  "2023-08-14": 418577,
-  "2023-08-15": 418657,
-  "2023-08-16": 418657,
-  "2023-08-17": 418796,
-  "2023-08-18": 418917,
-  "2023-08-19": 419027,
-  "2023-08-20": 419159,
-  "2023-08-21": 419238,
-  "2023-08-22": 419323,
-  "2023-08-23": 419398,
-  "2023-08-24": 419500,
-  "2023-08-25": 419587,
-  "2023-08-26": 419678,
-  "2023-08-27": 419790,
-  "2023-08-28": 419910,
-  "2023-08-29": 419973,
-  "2023-08-30": 419973,
-  "2023-08-31": 420101,
-  "2023-09-01": 420289,
-  "2023-09-02": 420289,
-  "2023-09-03": 420400,
-  "2023-09-04": 420400,
-  "2023-09-05": 420582,
-  "2023-09-06": 420664,
-  "2023-09-07": 420664,
-  "2023-09-08": 420664,
-  "2023-09-09": 420664,
-  "2023-09-10": 421047,
-  "2023-09-11": 421127,
-  "2023-09-12": 421127,
-  "2023-09-13": 421283,
-  "2023-09-14": 421283,
-  "2023-09-15": 421283,
-  "2023-09-16": 421545,
-  "2023-09-17": 421545,
-  "2023-09-18": 421545,
-  "2023-09-19": 421792,
-  "2023-09-20": 421792,
-  "2023-09-21": 421792,
-  "2023-09-22": 421983,
-  "2023-09-23": 421983,
-  "2023-09-24": 421983,
-  "2023-09-25": 421983,
-  "2023-09-26": 422286,
-  "2023-09-27": 422286,
-  "2023-09-28": 422286,
-  "2023-09-29": 422286,
-  "2023-09-30": 422286,
-  "2023-10-01": 422286,
-  "2023-10-02": 422746,
-  "2023-10-03": 422746,
-  "2023-10-04": 422746,
-  "2023-10-05": 422946,
-  "2023-10-06": 423011,
-  "2023-10-07": 423011,
-  "2023-10-08": 423011,
-  "2023-10-09": 423011,
-  "2023-10-10": 423011,
-  "2023-10-11": 422888,
-  "2023-10-12": 422888,
-  "2023-10-13": 422888,
-  "2023-10-14": 422888,
-  "2023-10-15": 422888,
-  "2023-10-16": 422888,
-  "2023-10-17": 422888,
-  "2023-10-18": 422888,
-  "2023-10-19": 422888,
-  "2023-10-20": 422888,
-  "2023-10-21": 422888,
-  "2023-10-22": 422888,
-  "2023-10-23": 422888,
-  "2023-10-24": 422888,
-  "2023-10-25": 422888,
-  "2023-10-26": 422888,
-  "2023-10-27": 422888,
-  "2023-10-28": 422888,
-  "2023-10-29": 422888,
-  "2023-10-30": 422888,
-  "2023-10-31": 422888,
-  "2023-11-01": 422888,
-  "2023-11-02": 422888,
-  "2023-11-03": 422888,
-  "2023-11-04": 422888,
-  "2023-11-05": 422888,
-  "2023-11-06": 422888,
-  "2023-11-07": 422888,
-  "2023-11-08": 422888,
-  "2023-11-09": 422888,
-  "2023-11-10": 422888,
-  "2023-11-11": 424550,
-  "2023-11-12": 424550,
-  "2023-11-13": 424550,
-  "2023-11-14": 424550,
-  "2023-11-15": 424550,
-  "2023-11-16": 424550,
-  "2023-11-17": 424550,
-  "2023-11-18": 424550,
-  "2023-11-19": 424550,
-  "2023-11-20": 424550,
-  "2023-11-21": 424550,
-  "2023-11-22": 424550,
-  "2023-11-23": 424550,
-  "2023-11-24": 424550,
-  "2023-11-25": 424550,
-  "2023-11-26": 424550,
-  "2023-11-27": 424550,
-  "2023-11-28": 424550,
-  "2023-11-29": 424550,
-  "2023-11-30": 424550,
-  "2023-12-01": 424550,
-  "2023-12-02": 424550,
-  "2023-12-03": 424550,
-  "2023-12-04": 424550,
-  "2023-12-05": 424550,
-  "2023-12-06": 424550,
-  "2023-12-07": 424550,
-  "2023-12-08": 424550,
-  "2023-12-09": 424550,
-  "2023-12-10": 424550,
-  "2023-12-11": 424550,
-  "2023-12-12": 424550,
-  "2023-12-13": 424550,
-  "2023-12-14": 426747,
-  "2023-12-15": 426794,
-  "2023-12-16": 426870,
-  "2023-12-17": 426977,
-  "2023-12-18": 427044,
-  "2023-12-19": 427089,
-  "2023-12-20": 427154,
-  "2023-12-21": 427248,
-  "2023-12-22": 427327,
-  "2023-12-23": 427410,
-  "2023-12-24": 427485,
-  "2023-12-25": 427592,
-  "2023-12-26": 427656,
-  "2023-12-27": 427703,
-  "2023-12-30": 427911,
-  "2023-12-31": 427982,
-  "2024-01-01": 428063,
-  "2024-01-02": 428132,
-  "2024-01-03": 428173
+  "2024-01-17": 426830,
+  "date_first_scraped": "2023-08-09",
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
+  "name": "This Is El Fantasma",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agarra Tu Camino",
+        "url": "https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234895,
+      "name": "Agarra Tu Camino",
+      "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
+    },
+    {
+      "album": {
+        "name": "El Fantasma Sin Limites",
+        "url": "https://open.spotify.com/album/20DBzLmBV3sbpgST1u1575"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173132,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/7iUHkEl7p5ooN0Kq2IrmwH"
+    },
+    {
+      "album": {
+        "name": "Apenas es Martes",
+        "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216633,
+      "name": "Apenas es Martes",
+      "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "album": {
+        "name": "Bien EnRRedado",
+        "url": "https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Nueva Partida",
+          "url": "https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172993,
+      "name": "Bien EnRRedado",
+      "url": "https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186408,
+      "name": "Borracho de Cochera",
+      "url": "https://open.spotify.com/track/0acLovnnWxsN8JwjTr0ecY"
+    },
+    {
+      "album": {
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 152762,
+      "name": "Catarino y los Rurales",
+      "url": "https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU"
+    },
+    {
+      "album": {
+        "name": "Chalito (En Vivo)",
+        "url": "https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 157306,
+      "name": "Chalito - En Vivo",
+      "url": "https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158442,
+      "name": "Cuanto Me Gusta Este Rancho",
+      "url": "https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc"
+    },
+    {
+      "album": {
+        "name": "Al Rey Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b"
+      },
+      "artists": [
+        {
+          "name": "Banda Lirio",
+          "url": "https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156307,
+      "name": "Cuatro Caminos",
+      "url": "https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH"
+    },
+    {
+      "album": {
+        "name": "DE 8 A 5",
+        "url": "https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194477,
+      "name": "De 8 A 5",
+      "url": "https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE"
+    },
+    {
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183057,
+      "name": "De Mi Viejo",
+      "url": "https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko"
+    },
+    {
+      "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159597,
+      "name": "De Puntitas",
+      "url": "https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9"
+    },
+    {
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
+    },
+    {
+      "album": {
+        "name": "El ABL",
+        "url": "https://open.spotify.com/album/56MTChSy899m0jYs8fwX2f"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 153745,
+      "name": "El ABL",
+      "url": "https://open.spotify.com/track/2f0ZbdqyOgH4AqdDDNFCUc"
+    },
+    {
+      "album": {
+        "name": "Carteles",
+        "url": "https://open.spotify.com/album/1c53AOH8tvbZb1mY3jpAHq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125818,
+      "name": "El B\u00e9lico",
+      "url": "https://open.spotify.com/track/50pkO56KXHoH53sVPRSbZ3"
+    },
+    {
+      "album": {
+        "name": "El Chavo",
+        "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226101,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
+    },
+    {
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/66gKx66gYItGzihEKkNnQh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
+    },
+    {
+      "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/1A58Tldo1ULvhFrVYwPrec"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/2nbZDGc8nrRk7pUtuuPBsU"
+    },
+    {
+      "album": {
+        "name": "El Exitoso",
+        "url": "https://open.spotify.com/album/4SQZsm1mpAPJuxKW7Nlauy"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 222270,
+      "name": "El Exitoso",
+      "url": "https://open.spotify.com/track/4E1QkNe7kxIzBAOvOWGgPH"
+    },
+    {
+      "album": {
+        "name": "El Gato",
+        "url": "https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199462,
+      "name": "El Gato",
+      "url": "https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx"
+    },
+    {
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167338,
+      "name": "El Mes de Mayo",
+      "url": "https://open.spotify.com/track/6YYh0uf1CI0gQxlVScpZw4"
+    },
+    {
+      "album": {
+        "name": "El Morro Pirata",
+        "url": "https://open.spotify.com/album/3Ax5dRVVL3pI79xcN5MWzJ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158174,
+      "name": "El Morro Pirata",
+      "url": "https://open.spotify.com/track/7HwLI71eU0WXztrg2F6uLx"
+    },
+    {
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198814,
+      "name": "El Nano - Versi\u00f3n Estudio",
+      "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
+    },
+    {
+      "album": {
+        "name": "10 Kilates (Con Norte\u00f1o)",
+        "url": "https://open.spotify.com/album/3bTNvG7R2BbLUE9zyaLCPt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167282,
+      "name": "El Perseverante",
+      "url": "https://open.spotify.com/track/2Kn1fCHlf6ODnYKqCSfBni"
+    },
+    {
+      "album": {
+        "name": "El Regreso de Chico",
+        "url": "https://open.spotify.com/album/1Ra2BPrNy06eSGnZ3VBoYG"
+      },
+      "artists": [
+        {
+          "name": "GERARDO DIAZ Y SU GERARQUIA",
+          "url": "https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261140,
+      "name": "El Regreso de Chico",
+      "url": "https://open.spotify.com/track/2i5Xvxnmb2WLK9m9kaHota"
+    },
+    {
+      "album": {
+        "name": "El Selectivo",
+        "url": "https://open.spotify.com/album/2ZNSAHSv7PttcfGTfooL7s"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187743,
+      "name": "El Selectivo",
+      "url": "https://open.spotify.com/track/3XSEYfxNxAkTgmPSQeJgnA"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189494,
+      "name": "El Viejo del Monte",
+      "url": "https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm"
+    },
+    {
+      "album": {
+        "name": "El Zorro",
+        "url": "https://open.spotify.com/album/4HMkP0BVe9AzwYsMJX7SSZ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Varones de Culiacan",
+          "url": "https://open.spotify.com/artist/3Bz4vStA4p6jwPXL6SDZ9d"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 239201,
+      "name": "El Zorro",
+      "url": "https://open.spotify.com/track/5U1bP3nRulk7egjqWQSkNA"
+    },
+    {
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168425,
+      "name": "En El Camino",
+      "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
+    },
+    {
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "En Esta Vida",
+      "url": "https://open.spotify.com/track/7joCaTxiKe7olUY4aQRSN4"
+    },
+    {
+      "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144512,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
+    },
+    {
+      "album": {
+        "name": "Ense\u00f1anza De Los Viejos",
+        "url": "https://open.spotify.com/album/5oMG64KBWeilrKCVKQ4fEH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186435,
+      "name": "Ense\u00f1anza De Los Viejos",
+      "url": "https://open.spotify.com/track/05Lnoy1GuU0GNzVIthSYBo"
+    },
+    {
+      "album": {
+        "name": "Equipo RR",
+        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159976,
+      "name": "Equipo RR",
+      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
+    },
+    {
+      "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
+    },
+    {
+      "album": {
+        "name": "Fuera de Servicio (En Vivo)",
+        "url": "https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Fuera de Servicio - En Vivo",
+      "url": "https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah"
+    },
+    {
+      "album": {
+        "name": "Fuerza (En Vivo)",
+        "url": "https://open.spotify.com/album/6G1g7WLocSom0KCw8A74Ro"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Fuerza - En Vivo",
+      "url": "https://open.spotify.com/track/3tu2oUievxRm4ekR8IeCaO"
+    },
+    {
+      "album": {
+        "name": "Pa las Baby's Y Belikeada",
+        "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164491,
+      "name": "GDL",
+      "url": "https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176841,
+      "name": "Gu\u00e1rdame Esta Noche",
+      "url": "https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks"
+    },
+    {
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155416,
+      "name": "Hombre de Rancho",
+      "url": "https://open.spotify.com/track/59IyKRSgCwLyKS3e46TlYM"
+    },
+    {
+      "album": {
+        "name": "La Vida Cara",
+        "url": "https://open.spotify.com/album/2V1p0bHZ7tataWUYqkwbM1"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 102640,
+      "name": "La Vida Cara",
+      "url": "https://open.spotify.com/track/04jNYEutK3ApreB4VK2OWc"
+    },
+    {
+      "album": {
+        "name": "Coronas Doradas",
+        "url": "https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob"
+      },
+      "artists": [
+        {
+          "name": "Kanales",
+          "url": "https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167470,
+      "name": "Los Cuervos",
+      "url": "https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl"
+    },
+    {
+      "album": {
+        "name": "Los Inicios",
+        "url": "https://open.spotify.com/album/2wZIWBfIpZXVDkdULrKFsI"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152704,
+      "name": "Los Inicios",
+      "url": "https://open.spotify.com/track/05ySOTPwLvGKE6e1fz6EaY"
+    },
+    {
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 137438,
+      "name": "Los Pajaros",
+      "url": "https://open.spotify.com/track/3SkmvfVgPItn0p54T83GAA"
+    },
+    {
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+    },
+    {
+      "album": {
+        "name": "Equipo Armado",
+        "url": "https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151903,
+      "name": "Mi 45",
+      "url": "https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145781,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
+    },
+    {
+      "album": {
+        "name": "Cabrones y Vagos",
+        "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153086,
+      "name": "Mis Ra\u00edces",
+      "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "album": {
+        "name": "Nemesio",
+        "url": "https://open.spotify.com/album/7dDDAkoT9xPwxcCc9cn28o"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222008,
+      "name": "Nemesio",
+      "url": "https://open.spotify.com/track/6bd5RNCLkKrNTdMBiehixh"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Nemesio",
+      "url": "https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP"
+    },
+    {
+      "album": {
+        "name": "Gu\u00e1rdame Esta Noche",
+        "url": "https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196099,
+      "name": "Palabra de Hombre",
+      "url": "https://open.spotify.com/track/4CLkDJ4xLqkV4Vt2vPOny1"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 3",
+        "url": "https://open.spotify.com/album/1o06mmQbAcZrYFlCZzINP0"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146775,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/6LhMqt2flhSBwwnS3Z5GyJ"
+    },
+    {
+      "album": {
+        "name": "Quien Te Dio Permiso",
+        "url": "https://open.spotify.com/album/15ZaNM3eSNZ7MdFyPHBED3"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173206,
+      "name": "Quien Te Dio Permiso",
+      "url": "https://open.spotify.com/track/6ZzZIt4GgQTDeHXMxRvxNN"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
+    },
+    {
+      "album": {
+        "name": "Soldado Ca\u00eddo",
+        "url": "https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182686,
+      "name": "Soldado Ca\u00eddo",
+      "url": "https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs"
+    },
+    {
+      "album": {
+        "name": "Soy Buen Amigo",
+        "url": "https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153967,
+      "name": "Soy Buen Amigo",
+      "url": "https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3"
+    },
+    {
+      "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
+    },
+    {
+      "album": {
+        "name": "Todo Cuanto Tuve",
+        "url": "https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 149665,
+      "name": "Todo Cuanto Tuve",
+      "url": "https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA"
+    },
+    {
+      "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3w5R3lzfQbj5UuB1WxboSp"
+    },
+    {
+      "album": {
+        "name": "Hay pa' Toro",
+        "url": "https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 110825,
+      "name": "Una Enorme Distancia",
+      "url": "https://open.spotify.com/track/0lOCeRlDcp66rN0chuRIoU"
+    },
+    {
+      "album": {
+        "name": "Vengo a Aclarar",
+        "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150944,
+      "name": "Vengo a Aclarar",
+      "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO095KZq"
 }

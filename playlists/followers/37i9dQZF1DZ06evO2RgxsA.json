@@ -1,472 +1,1637 @@
 {
-  "2022-09-17": 75004,
-  "2022-09-18": 75036,
-  "2022-09-19": 75060,
-  "2022-09-20": 75083,
-  "2022-09-21": 75112,
-  "2022-09-22": 75128,
-  "2022-09-23": 75148,
-  "2022-09-24": 75148,
-  "2022-09-25": 75205,
-  "2022-09-26": 75233,
-  "2022-09-27": 75234,
-  "2022-09-28": 75249,
-  "2022-09-29": 75285,
-  "2022-09-30": 75316,
-  "2022-10-01": 75350,
-  "2022-10-02": 75374,
-  "2022-10-03": 75389,
-  "2022-10-04": 75421,
-  "2022-10-05": 75447,
-  "2022-10-06": 75473,
-  "2022-10-07": 75502,
-  "2022-10-08": 75522,
-  "2022-10-09": 75569,
-  "2022-10-10": 75576,
-  "2022-10-11": 75597,
-  "2022-10-12": 75619,
-  "2022-10-13": 75652,
-  "2022-10-14": 75683,
-  "2022-10-15": 75709,
-  "2022-10-16": 75733,
-  "2022-10-17": 75756,
-  "2022-10-18": 75784,
-  "2022-10-19": 75806,
-  "2022-10-20": 75830,
-  "2022-10-21": 75858,
-  "2022-10-22": 75894,
-  "2022-10-23": 75918,
-  "2022-10-24": 75941,
-  "2022-10-25": 75966,
-  "2022-10-26": 75999,
-  "2022-10-27": 76025,
-  "2022-10-28": 76044,
-  "2022-10-29": 76063,
-  "2022-10-30": 76091,
-  "2022-10-31": 76115,
-  "2022-11-01": 76145,
-  "2022-11-02": 76170,
-  "2022-11-03": 76191,
-  "2022-11-04": 76235,
-  "2022-11-05": 76278,
-  "2022-11-06": 76311,
-  "2022-11-07": 76327,
-  "2022-11-08": 76353,
-  "2022-11-09": 76383,
-  "2022-11-10": 76415,
-  "2022-11-11": 76445,
-  "2022-11-12": 76479,
-  "2022-11-13": 76505,
-  "2022-11-14": 76533,
-  "2022-11-15": 76556,
-  "2022-11-16": 76583,
-  "2022-11-17": 76603,
-  "2022-11-18": 76604,
-  "2022-11-19": 76611,
-  "2022-11-20": 76621,
-  "2022-11-21": 76640,
-  "2022-11-22": 76652,
-  "2022-11-23": 76674,
-  "2022-11-24": 76725,
-  "2022-11-25": 76768,
-  "2022-11-26": 76791,
-  "2022-11-27": 76811,
-  "2022-11-28": 76825,
-  "2022-11-29": 76843,
-  "2022-11-30": 76876,
-  "2022-12-01": 76914,
-  "2022-12-02": 76928,
-  "2022-12-03": 76989,
-  "2022-12-04": 77017,
-  "2022-12-05": 77042,
-  "2022-12-06": 77070,
-  "2022-12-07": 77098,
-  "2022-12-08": 77130,
-  "2022-12-09": 77156,
-  "2022-12-10": 77197,
-  "2022-12-11": 77221,
-  "2022-12-12": 77257,
-  "2022-12-13": 77272,
-  "2022-12-14": 77294,
-  "2022-12-15": 77316,
-  "2022-12-16": 77340,
-  "2022-12-17": 77370,
-  "2022-12-18": 77401,
-  "2022-12-19": 77413,
-  "2022-12-20": 77477,
-  "2022-12-21": 77477,
-  "2022-12-22": 77511,
-  "2022-12-24": 77560,
-  "2022-12-25": 77590,
-  "2022-12-26": 77619,
-  "2022-12-27": 77633,
-  "2022-12-28": 77653,
-  "2022-12-29": 77677,
-  "2022-12-30": 77705,
-  "2022-12-31": 77717,
-  "2023-01-01": 77735,
-  "2023-01-02": 77745,
-  "2023-01-03": 77762,
-  "2023-01-04": 77769,
-  "2023-01-05": 77788,
-  "2023-01-06": 77831,
-  "2023-01-07": 77865,
-  "2023-01-08": 77872,
-  "2023-01-09": 77891,
-  "2023-01-10": 77914,
-  "2023-01-11": 77931,
-  "2023-01-12": 77967,
-  "2023-01-13": 77988,
-  "2023-01-14": 78030,
-  "2023-01-15": 78034,
-  "2023-01-16": 78055,
-  "2023-01-17": 78087,
-  "2023-01-18": 78115,
-  "2023-01-19": 78135,
-  "2023-01-20": 78161,
-  "2023-01-21": 78189,
-  "2023-01-22": 78212,
-  "2023-01-23": 78241,
-  "2023-01-24": 78274,
-  "2023-01-25": 78297,
-  "2023-01-26": 78317,
-  "2023-01-27": 78346,
-  "2023-01-28": 78374,
-  "2023-01-29": 78407,
-  "2023-01-30": 78436,
-  "2023-01-31": 78436,
-  "2023-02-01": 78477,
-  "2023-02-02": 78505,
-  "2023-02-03": 78533,
-  "2023-02-04": 78553,
-  "2023-02-05": 78579,
-  "2023-02-06": 78601,
-  "2023-02-07": 78627,
-  "2023-02-08": 78659,
-  "2023-02-09": 78659,
-  "2023-02-10": 78694,
-  "2023-02-11": 78715,
-  "2023-02-12": 78759,
-  "2023-02-13": 78779,
-  "2023-02-14": 78779,
-  "2023-02-15": 78809,
-  "2023-02-16": 78840,
-  "2023-02-17": 78870,
-  "2023-02-18": 78916,
-  "2023-02-19": 78917,
-  "2023-02-20": 78930,
-  "2023-02-21": 78953,
-  "2023-02-22": 78981,
-  "2023-02-23": 78996,
-  "2023-02-24": 79030,
-  "2023-02-25": 79063,
-  "2023-02-26": 79079,
-  "2023-02-27": 79114,
-  "2023-02-28": 79114,
-  "2023-03-01": 79134,
-  "2023-03-02": 79157,
-  "2023-03-03": 79181,
-  "2023-03-04": 79199,
-  "2023-03-05": 79248,
-  "2023-03-06": 79248,
-  "2023-03-07": 79285,
-  "2023-03-08": 79300,
-  "2023-03-09": 79322,
-  "2023-03-10": 79346,
-  "2023-03-11": 79378,
-  "2023-03-12": 79409,
-  "2023-03-13": 79426,
-  "2023-03-14": 79449,
-  "2023-03-15": 79471,
-  "2023-03-16": 79471,
-  "2023-03-17": 79471,
-  "2023-03-18": 79551,
-  "2023-03-19": 79551,
-  "2023-03-20": 79584,
-  "2023-03-21": 79600,
-  "2023-03-22": 79638,
-  "2023-03-23": 79670,
-  "2023-03-24": 79670,
-  "2023-03-25": 79717,
-  "2023-03-26": 79752,
-  "2023-03-27": 79779,
-  "2023-03-28": 79792,
-  "2023-03-29": 79818,
-  "2023-03-30": 79877,
-  "2023-03-31": 79877,
-  "2023-04-01": 79895,
-  "2023-04-02": 79918,
-  "2023-04-03": 79938,
-  "2023-04-04": 79953,
-  "2023-04-05": 79976,
-  "2023-04-06": 80004,
-  "2023-04-07": 80034,
-  "2023-04-09": 80090,
-  "2023-04-10": 80104,
-  "2023-04-11": 80144,
-  "2023-04-12": 80144,
-  "2023-04-13": 80163,
-  "2023-04-14": 80186,
-  "2023-04-15": 80208,
-  "2023-04-16": 80246,
-  "2023-04-17": 80268,
-  "2023-04-18": 80283,
-  "2023-04-19": 80309,
-  "2023-04-20": 80343,
-  "2023-04-21": 80366,
-  "2023-04-22": 80398,
-  "2023-04-23": 80437,
-  "2023-04-24": 80461,
-  "2023-04-25": 80486,
-  "2023-04-26": 80517,
-  "2023-04-27": 80546,
-  "2023-04-28": 80577,
-  "2023-04-29": 80602,
-  "2023-04-30": 80631,
-  "2023-05-01": 80645,
-  "2023-05-02": 80678,
-  "2023-05-03": 80704,
-  "2023-05-04": 80733,
-  "2023-05-05": 80763,
-  "2023-05-06": 80794,
-  "2023-05-07": 80827,
-  "2023-05-08": 80847,
-  "2023-05-09": 80869,
-  "2023-05-10": 80900,
-  "2023-05-11": 80932,
-  "2023-05-12": 80958,
-  "2023-05-13": 80987,
-  "2023-05-14": 81014,
-  "2023-05-15": 81046,
-  "2023-05-16": 81072,
-  "2023-05-17": 81099,
-  "2023-05-18": 81134,
-  "2023-05-19": 81168,
-  "2023-05-20": 81220,
-  "2023-05-21": 81220,
-  "2023-05-22": 81220,
-  "2023-05-23": 81260,
-  "2023-05-24": 81295,
-  "2023-05-25": 81300,
-  "2023-05-26": 81321,
-  "2023-05-27": 81353,
-  "2023-05-28": 81370,
-  "2023-05-29": 81370,
-  "2023-05-30": 81410,
-  "2023-05-31": 81455,
-  "2023-06-01": 81488,
-  "2023-06-02": 81510,
-  "2023-06-03": 81554,
-  "2023-06-04": 81576,
-  "2023-06-05": 81606,
-  "2023-06-06": 81643,
-  "2023-06-07": 81666,
-  "2023-06-08": 81691,
-  "2023-06-09": 81708,
-  "2023-06-10": 81744,
-  "2023-06-11": 81765,
-  "2023-06-12": 81781,
-  "2023-06-13": 81801,
-  "2023-06-14": 81824,
-  "2023-06-15": 81840,
-  "2023-06-16": 81863,
-  "2023-06-17": 81893,
-  "2023-06-18": 81913,
-  "2023-06-19": 81925,
-  "2023-06-20": 81953,
-  "2023-06-21": 81972,
-  "2023-06-22": 82009,
-  "2023-06-23": 82039,
-  "2023-06-24": 82069,
-  "2023-06-25": 82090,
-  "2023-06-26": 82105,
-  "2023-06-27": 82125,
-  "2023-06-28": 82148,
-  "2023-06-29": 82159,
-  "2023-06-30": 82178,
-  "2023-07-01": 82231,
-  "2023-07-02": 82231,
-  "2023-07-03": 82244,
-  "2023-07-04": 82267,
-  "2023-07-05": 82281,
-  "2023-07-06": 82314,
-  "2023-07-07": 82314,
-  "2023-07-08": 82314,
-  "2023-07-09": 82339,
-  "2023-07-10": 82359,
-  "2023-07-11": 82371,
-  "2023-07-12": 82392,
-  "2023-07-13": 82412,
-  "2023-07-14": 82432,
-  "2023-07-15": 82441,
-  "2023-07-16": 82465,
-  "2023-07-17": 82482,
-  "2023-07-18": 82507,
-  "2023-07-19": 82531,
-  "2023-07-20": 82555,
-  "2023-07-21": 82574,
-  "2023-07-22": 82600,
-  "2023-07-23": 82626,
-  "2023-07-24": 82650,
-  "2023-07-25": 82672,
-  "2023-07-26": 82697,
-  "2023-07-27": 82718,
-  "2023-07-28": 82742,
-  "2023-07-29": 82776,
-  "2023-07-30": 82784,
-  "2023-07-31": 82796,
-  "2023-08-01": 82813,
-  "2023-08-02": 82833,
-  "2023-08-03": 82840,
-  "2023-08-04": 82849,
-  "2023-08-05": 82864,
-  "2023-08-06": 82897,
-  "2023-08-07": 82897,
-  "2023-08-08": 82918,
-  "2023-08-09": 82938,
-  "2023-08-10": 82961,
-  "2023-08-11": 82988,
-  "2023-08-12": 82988,
-  "2023-08-13": 82988,
-  "2023-08-14": 83052,
-  "2023-08-15": 83052,
-  "2023-08-16": 83052,
-  "2023-08-17": 83052,
-  "2023-08-18": 83052,
-  "2023-08-19": 83052,
-  "2023-08-20": 83166,
-  "2023-08-21": 83166,
-  "2023-08-22": 83207,
-  "2023-08-23": 83207,
-  "2023-08-24": 83207,
-  "2023-08-25": 83207,
-  "2023-08-26": 83277,
-  "2023-08-27": 83277,
-  "2023-08-28": 83323,
-  "2023-08-29": 83323,
-  "2023-08-30": 83323,
-  "2023-08-31": 83377,
-  "2023-09-01": 83405,
-  "2023-09-02": 83405,
-  "2023-09-03": 83405,
-  "2023-09-04": 83405,
-  "2023-09-05": 83405,
-  "2023-09-06": 83485,
-  "2023-09-07": 83485,
-  "2023-09-08": 83485,
-  "2023-09-09": 83485,
-  "2023-09-10": 83566,
-  "2023-09-11": 83566,
-  "2023-09-12": 83566,
-  "2023-09-13": 83566,
-  "2023-09-14": 83566,
-  "2023-09-15": 83566,
-  "2023-09-16": 83684,
-  "2023-09-17": 83684,
-  "2023-09-18": 83684,
-  "2023-09-19": 83744,
-  "2023-09-20": 83744,
-  "2023-09-21": 83744,
-  "2023-09-22": 83800,
-  "2023-09-23": 83800,
-  "2023-09-24": 83800,
-  "2023-09-25": 83800,
-  "2023-09-26": 83870,
-  "2023-09-27": 83870,
-  "2023-09-28": 83870,
-  "2023-09-29": 83870,
-  "2023-09-30": 83870,
-  "2023-10-01": 83870,
-  "2023-10-02": 83870,
-  "2023-10-03": 83870,
-  "2023-10-04": 83870,
-  "2023-10-05": 83870,
-  "2023-10-06": 83870,
-  "2023-10-07": 83870,
-  "2023-10-08": 83870,
-  "2023-10-09": 83870,
-  "2023-10-10": 83870,
-  "2023-10-11": 84093,
-  "2023-10-12": 84093,
-  "2023-10-13": 84093,
-  "2023-10-14": 84093,
-  "2023-10-15": 84093,
-  "2023-10-16": 84093,
-  "2023-10-17": 84093,
-  "2023-10-18": 84093,
-  "2023-10-19": 84093,
-  "2023-10-20": 84093,
-  "2023-10-21": 84093,
-  "2023-10-22": 84093,
-  "2023-10-23": 84093,
-  "2023-10-24": 84093,
-  "2023-10-25": 84093,
-  "2023-10-26": 84093,
-  "2023-10-27": 84093,
-  "2023-10-28": 84093,
-  "2023-10-29": 84093,
-  "2023-10-30": 84093,
-  "2023-10-31": 84093,
-  "2023-11-01": 84093,
-  "2023-11-02": 84093,
-  "2023-11-03": 84093,
-  "2023-11-04": 84093,
-  "2023-11-05": 84093,
-  "2023-11-06": 84093,
-  "2023-11-07": 84093,
-  "2023-11-08": 84093,
-  "2023-11-09": 84093,
-  "2023-11-10": 84093,
-  "2023-11-11": 84480,
-  "2023-11-12": 84480,
-  "2023-11-13": 84480,
-  "2023-11-14": 84480,
-  "2023-11-15": 84480,
-  "2023-11-16": 84480,
-  "2023-11-17": 84480,
-  "2023-11-18": 84480,
-  "2023-11-19": 84480,
-  "2023-11-20": 84480,
-  "2023-11-21": 84480,
-  "2023-11-22": 84480,
-  "2023-11-23": 84480,
-  "2023-11-24": 84480,
-  "2023-11-25": 84480,
-  "2023-11-26": 84480,
-  "2023-11-27": 84480,
-  "2023-11-28": 84480,
-  "2023-11-29": 84480,
-  "2023-11-30": 84480,
-  "2023-12-01": 84480,
-  "2023-12-02": 84480,
-  "2023-12-03": 84480,
-  "2023-12-04": 84480,
-  "2023-12-05": 84480,
-  "2023-12-06": 84480,
-  "2023-12-07": 84480,
-  "2023-12-08": 84480,
-  "2023-12-09": 84480,
-  "2023-12-10": 84480,
-  "2023-12-11": 84480,
-  "2023-12-12": 84480,
-  "2023-12-13": 84480,
-  "2023-12-14": 85153,
-  "2023-12-15": 85166,
-  "2023-12-16": 85185,
-  "2023-12-17": 85203,
-  "2023-12-18": 85216,
-  "2023-12-19": 85225,
-  "2023-12-20": 85237,
-  "2023-12-21": 85256,
-  "2023-12-22": 85278,
-  "2023-12-23": 85289,
-  "2023-12-24": 85312,
-  "2023-12-25": 85324,
-  "2023-12-26": 85341,
-  "2023-12-27": 85357,
-  "2023-12-30": 85409,
-  "2023-12-31": 85433,
-  "2024-01-01": 85444,
-  "2024-01-02": 85455,
-  "2024-01-03": 85472
+  "2024-01-17": 85507,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is NOFX. The essential tracks, all in one playlist.",
+  "name": "This Is NOFX",
+  "tracks": [
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 115426,
+      "name": "13 Stitches",
+      "url": "https://open.spotify.com/track/0Nc3hRP3VVWniBqHQtTjVY"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145360,
+      "name": "60%",
+      "url": "https://open.spotify.com/track/6Rnht7CdElV3gwvTGv6It0"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/7d70MVYrP46R4he4Zsvpzo"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 147688,
+      "name": "Alcopollack",
+      "url": "https://open.spotify.com/track/26scu1sIFxV4g9O1Sg9fZn"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 111533,
+      "name": "American Errorist (I Hate Hate Haters)",
+      "url": "https://open.spotify.com/track/0yvFtTUjTDunqx1nK9gjtR"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "And Now For Something Completely Similar",
+      "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 107106,
+      "name": "Bath of Least Resistance",
+      "url": "https://open.spotify.com/track/1yrJDBzciRhmWHl3fFCzrM"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122160,
+      "name": "Bob",
+      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "Bottles To The Ground",
+      "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2qwCYIsEj4vtsROxuEBss1"
+    },
+    {
+      "album": {
+        "name": "Cokie the Clown",
+        "url": "https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 88800,
+      "name": "Codependence Day",
+      "url": "https://open.spotify.com/track/3poORAd5Fbx6nQp2WFizYQ"
+    },
+    {
+      "album": {
+        "name": "Cokie the Clown",
+        "url": "https://open.spotify.com/album/0Ho8Jl9kBUG9HmVAdCTiNU"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 146586,
+      "name": "Cokie the Clown",
+      "url": "https://open.spotify.com/track/1veqDqKxdHHxxBPYDnofLk"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 125133,
+      "name": "Cool and Unusual Punishment",
+      "url": "https://open.spotify.com/track/3XIt5NVAgzUteXlfiUE6Yp"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 165653,
+      "name": "Creeping out Sara",
+      "url": "https://open.spotify.com/track/6w8BMvIEGU1JYkR1mdIGJt"
+    },
+    {
+      "album": {
+        "name": "Darby Crashing Your Party",
+        "url": "https://open.spotify.com/album/1CeF4JeD01o7FbPRmDu25J"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/2LpbBDD1Qrn8lGGi8B6BxW"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144878,
+      "name": "Darby Crashing Your Party",
+      "url": "https://open.spotify.com/track/7HCSNplNjvyPOXAH4MhXT6"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 136266,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/2IcAmkhCn1OrxoP3SZeF5N"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Dinosaurs Will Die",
+      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153426,
+      "name": "Don't Call Me White",
+      "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 259084,
+      "name": "Don't Count on Me",
+      "url": "https://open.spotify.com/track/319N7QUdPMVS1WemoPEZfF"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138840,
+      "name": "Drugs Are Good",
+      "url": "https://open.spotify.com/track/0biTGVjFrAfNQHnAjnuqnZ"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Eat The Meek",
+      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
+    },
+    {
+      "album": {
+        "name": "Estranged Fruit",
+        "url": "https://open.spotify.com/album/5rrfqGMrmebvdA4YdYAn2N"
+      },
+      "artists": [
+        {
+          "name": "Fishbone",
+          "url": "https://open.spotify.com/artist/2X3pNc13eRGofTO9Yt3sMi"
+        },
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 219669,
+      "name": "Estranged Fruit",
+      "url": "https://open.spotify.com/track/0ntWDwPFaWKHmbjtIjjBQI"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 153640,
+      "name": "First Call",
+      "url": "https://open.spotify.com/track/626xezshYGvfjC9tBG0xqz"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/180jsAPdTdsP31LyuYdGan"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142596,
+      "name": "Fuck Day Six",
+      "url": "https://open.spotify.com/track/12wDhK0tBvsvj3mvmJB6OR"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Fuck Euphemism",
+      "url": "https://open.spotify.com/track/2GBrJjTBrCDY10chjDi4sJ"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 73933,
+      "name": "Getting High on the Down Low",
+      "url": "https://open.spotify.com/track/1VYCjvOWb3Xy9CcMKLxKK1"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104466,
+      "name": "Green Corn",
+      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118973,
+      "name": "Happy Guy",
+      "url": "https://open.spotify.com/track/5JRHkcSjh9NEo4AqvrPxzt"
+    },
+    {
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48933,
+      "name": "Hobophobic (Scared of Bums)",
+      "url": "https://open.spotify.com/track/0t4H9RKqVSyD5OmX1V7GcH"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 156746,
+      "name": "I Am an Alcoholic",
+      "url": "https://open.spotify.com/track/2IFrfL2yAlMpGodYe26e0M"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/3yLkOvGA3vHtwEyqMcnp18"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94760,
+      "name": "I Believe in Goddess",
+      "url": "https://open.spotify.com/track/7K9QY042GZM4UFn2L6oyWP"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150053,
+      "name": "I Don't Like Me Anymore",
+      "url": "https://open.spotify.com/track/01w1IdzXfNmu033rWe4XrT"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32133,
+      "name": "I Gotta Pee",
+      "url": "https://open.spotify.com/track/1T2LrvpmZ8q9e9LaHFQICn"
+    },
+    {
+      "album": {
+        "name": "I Love You More Than I Hate Me",
+        "url": "https://open.spotify.com/album/0mbnURuAoEnF4ws1qhhUWb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 158094,
+      "name": "I Love You More Than I Hate Me",
+      "url": "https://open.spotify.com/track/3AqzfDm9ekws7ht3DgHO6Q"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 77066,
+      "name": "I'm Telling Tim",
+      "url": "https://open.spotify.com/track/2zQX7Sakdph6PcI3oTHuhI"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/7DtwSlXsEy9mrsxxQW9Mm8"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 34826,
+      "name": "Instant Crassic",
+      "url": "https://open.spotify.com/track/6VS4sE4kaGhZ9MMb52gwo2"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 138575,
+      "name": "Is It Too Soon If Time is Relative?",
+      "url": "https://open.spotify.com/track/0q3BQGKPYPvZyJVhzE0gIh"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 78633,
+      "name": "Johanna Constant Teen",
+      "url": "https://open.spotify.com/track/2OhLCVl0dNAo3qhtnXofo1"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Kids Of The K-Hole",
+      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 91600,
+      "name": "Last Caress",
+      "url": "https://open.spotify.com/track/0Si3djvGhbLItxlCIXvpNA"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124426,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/36PdVonsEg4xr0ucIcGInj"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199781,
+      "name": "Linewleum (feat. Avenged Sevenfold)",
+      "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Linoleum",
+      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142466,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/3YJZeoD7lWN2mPbs7FbCgj"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 109640,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 148960,
+      "name": "Mattersville",
+      "url": "https://open.spotify.com/track/05IpaSItsMpDT4TRDg4zht"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45960,
+      "name": "Murder The Government",
+      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154106,
+      "name": "My Favorite Enemy",
+      "url": "https://open.spotify.com/track/6pPQKiJ4UWzgNeTmJlo4dU"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 236026,
+      "name": "Oxy Moronic",
+      "url": "https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 126026,
+      "name": "Perfect Government",
+      "url": "https://open.spotify.com/track/0pe2du168zXMGZJlMcyyIb"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 118506,
+      "name": "Pharmacist's Daughter",
+      "url": "https://open.spotify.com/track/0J47B7bsCr9zLZzIWryVSM"
+    },
+    {
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Please Play This Song On The Radio",
+      "url": "https://open.spotify.com/track/4zvfgpO3ZUsBXKg2Ikw6D9"
+    },
+    {
+      "album": {
+        "name": "Punk Rock Clich\u00e9",
+        "url": "https://open.spotify.com/album/5hfLFZaRWTnYl0kcXeCSWE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 202447,
+      "name": "Punk Rock Clich\u00e9",
+      "url": "https://open.spotify.com/track/4s0DdV6CwjzFaZuIVKuj9x"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 98293,
+      "name": "Quart In Session",
+      "url": "https://open.spotify.com/track/35L8JI1o2llRWMuc8NK3pN"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 31573,
+      "name": "See Her Pee",
+      "url": "https://open.spotify.com/track/4civZE6DnycEynRO2VeK5u"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5QegaMGMY7mORFEBngkFxy"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 176666,
+      "name": "She's Gone",
+      "url": "https://open.spotify.com/track/4UorLuTcNNjQ67w8rFF3V8"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92106,
+      "name": "Six Years on Dope",
+      "url": "https://open.spotify.com/track/5HHR8lHtLowKzMavnA6GyW"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "Stickin In My Eye",
+      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
+    },
+    {
+      "album": {
+        "name": "West Coast vs. Wessex",
+        "url": "https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 165857,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 145466,
+      "name": "Take Two Placebos And Call Me Lame",
+      "url": "https://open.spotify.com/track/21iXdVnWCEpYuOmeY9YKPh"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99333,
+      "name": "Thank God It's Monday",
+      "url": "https://open.spotify.com/track/1eX2rmSdoUWX2XcvHKHHpu"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 348055,
+      "name": "The Big Drag",
+      "url": "https://open.spotify.com/track/79FLRV9bif83LXWIMDYEC4"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "The Brews",
+      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 97973,
+      "name": "The Cause",
+      "url": "https://open.spotify.com/track/5b2RQDbNlMt7DE8cuv0hsC"
+    },
+    {
+      "album": {
+        "name": "The Decline",
+        "url": "https://open.spotify.com/album/0LW2FwC8ay4hXNDzaw7jWY"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 1101773,
+      "name": "The Decline",
+      "url": "https://open.spotify.com/track/2Wm84PF0DHyRQx79Lj9NwI"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 152066,
+      "name": "The Irrationality of Rationality",
+      "url": "https://open.spotify.com/track/7c4YrSBb9GYKWn4XSPl6kj"
+    },
+    {
+      "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/0pwLAY3H4kkrldJTCMe3vt"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/3IWxhcxfOIUN25f4HryRfJ"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78800,
+      "name": "The Man I Killed",
+      "url": "https://open.spotify.com/track/1tqZNNfMFZPjUtpmBCrEQd"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78271,
+      "name": "The Quass",
+      "url": "https://open.spotify.com/track/56Cpy3VcGAzjxDqtdB3adO"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111960,
+      "name": "The Quitter",
+      "url": "https://open.spotify.com/track/1HFz1YvBXVAJ0lSn3rgYgk"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/1NVjbk3Q06lEvAPUlTauzr"
+    },
+    {
+      "album": {
+        "name": "Double Album",
+        "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 148939,
+      "name": "Three Against Me",
+      "url": "https://open.spotify.com/track/7bjNdKxPeW9ykYmhSvUxJW"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 72373,
+      "name": "Together On The Sand",
+      "url": "https://open.spotify.com/track/7wyuKMQjuII5e1mr59iiKV"
+    },
+    {
+      "album": {
+        "name": "Wolves in Wolves' Clothing",
+        "url": "https://open.spotify.com/album/0bb9iLMHdUJhFIVwOars3P"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "Usa-Holes",
+      "url": "https://open.spotify.com/track/4AI2o7lsEDj5eEjE2qgT1b"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/5l2QTQ0OoyQw9luosyCe9X"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127853,
+      "name": "We Called It America",
+      "url": "https://open.spotify.com/track/5UkBszllVTOdWs9mKVJSE2"
+    },
+    {
+      "album": {
+        "name": "War on Errorism",
+        "url": "https://open.spotify.com/album/579FRQBE6RnFZXn6dG0DeV"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 123506,
+      "name": "We Got Two Jealous Agains",
+      "url": "https://open.spotify.com/track/2tahr8bIxTlu2jpO8kj8Gi"
+    },
+    {
+      "album": {
+        "name": "45 or 46 Songs That Weren't Good Enough to Go on Our Other Records",
+        "url": "https://open.spotify.com/album/63jEOTmpfVTKYzeJ6hvIAn"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline.......",
+      "url": "https://open.spotify.com/track/5DLHSd1oWuutQW60XrPHAP"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "What's The Matter With Parents Today?",
+      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    },
+    {
+      "album": {
+        "name": "White Trash, Two Heebs and a Bean",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 132133,
+      "name": "You're Bleeding",
+      "url": "https://open.spotify.com/track/6hcda71AReBXmBC2iqyFCB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2RgxsA"
 }

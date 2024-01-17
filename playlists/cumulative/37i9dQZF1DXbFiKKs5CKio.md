@@ -4,7 +4,7 @@
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-72 songs - 4 hr 2 min
+73 songs - 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Doses](https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa) | [Kanda Ent](https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze), [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [Ouroboros](https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU) | 2:32 | 2023-09-15 |  |
 | [E EU?](https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0), [prx](https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe) | [MOVA \- Algumas Verdades, Outras Mentiras](https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3) | 2:56 | 2023-09-15 |  |
 | [Efeito Moral](https://open.spotify.com/track/5V5k3Ml3unt4bH4sIw9Gi4) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Efeito Moral](https://open.spotify.com/album/5bWoFCqvQwN8Q93tbhNHCq) | 2:09 | 2023-11-24 |  |
-| [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 | 2023-09-15 |  |
+| [Entre Memórias Tristes](https://open.spotify.com/track/7CD5cl7ctI7x6SYBLHN1mL) | [C.I.D](https://open.spotify.com/artist/6z9GhT6hHDjgsc516Txhsl) | [Entre Memórias Tristes](https://open.spotify.com/album/3DXLWxQqSBqWNRCgLQP0Tf) | 5:17 | 2023-09-15 | 2024-01-13 |
 | [Eu Tava Em Casa](https://open.spotify.com/track/6XoSJgy9m0TeYNZuCen1xW) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 4:09 | 2023-09-15 |  |
 | [Falando Dela 2](https://open.spotify.com/track/1ebphlBWJHENEs1StX3FYP) | [Zero](https://open.spotify.com/artist/1t58HpJzdyzWvRl2mo0ZIR), [Mc Maha](https://open.spotify.com/artist/2tz0dkPlnWB4NcHNIqWPgh), [Jean Tassy](https://open.spotify.com/artist/6XQrv3AiNUS61JFK1VITTU) | [Falando Dela 2](https://open.spotify.com/album/68pf9T0gTuRSDWO9rdCjaF) | 2:02 | 2023-09-15 | 2023-12-16 |
 | [Final \- Ao Vivo](https://open.spotify.com/track/55WX9xWKtq43Ee22IE7KPA) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG), [Macaco Gordo](https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9) | [Joyce Alane Ao Vivo na Macaco Gordo](https://open.spotify.com/album/31u9EIWTs32kTxnw4eg6NG) | 3:12 | 2023-12-22 |  |
@@ -47,6 +47,7 @@
 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 | 2023-09-15 | 2023-10-07 |
 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 | 2023-09-15 |  |
 | [Noite em Febre](https://open.spotify.com/track/46T1WRW3KTm0kReMW0cCJZ) | [Sarah Soul](https://open.spotify.com/artist/1V1MSClQaA45C4QG3my6Xv), [Carol Terra](https://open.spotify.com/artist/322TdXC5aJjj4jFTtmFiJp) | [Correria](https://open.spotify.com/album/6IapQS07s6lMRIX0MTMEjQ) | 2:26 | 2023-09-15 |  |
+| [Nossa Resenha](https://open.spotify.com/track/5EaOVYUrQB5Hp9zkXxcFpL) | [Os Garotin](https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Cupertino](https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD), [Anchietx](https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp) | [Nossa Resenha](https://open.spotify.com/album/6bFqfgfvRkjciDVVQCZZYr) | 2:41 | 2024-01-12 |  |
 | [Nunca Te Deixei](https://open.spotify.com/track/6p1NbvGtfNKgsRsVU9eLDG) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Nunca Te Deixei](https://open.spotify.com/album/0pF4py857zGGCEty1CeelF) | 3:46 | 2023-09-15 | 2023-11-11 |
 | [Nêga](https://open.spotify.com/track/37AIEnveDvWcRdjyqeYam1) | [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW) | [Nêga](https://open.spotify.com/album/0ILkyF8v2r8RHS8e2ZAFQ7) | 3:00 | 2023-09-15 |  |
 | [Onda \- Remix](https://open.spotify.com/track/3ixozEXArgOxWDKiemyRPU) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [DJ Nato\_PK](https://open.spotify.com/artist/2FLpwpKAbkrZDlyTuOBg3W) | [Onda \(Remix\)](https://open.spotify.com/album/1tUH0tMpxSzRvIXY91dyjs) | 5:46 | 2023-12-15 |  |

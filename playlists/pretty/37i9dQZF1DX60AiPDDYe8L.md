@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX60AiPDDYe8L.md) - [plain]
 
 > Las mejores canciones de la reina del pop argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,442 likes - 60 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,276 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

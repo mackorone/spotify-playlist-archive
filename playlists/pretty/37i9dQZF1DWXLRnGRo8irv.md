@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 
 > 한국의 재능있는 여성 아티스트들을 만나보세요! \(Listen Korea’s talented female artists!\) \(Cover: Red Velvet\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,204 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,209 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLRnGRo8irv.md) - [plain]
 | 22 | [Mood Indigo](https://open.spotify.com/track/6EECimWNKDk1PM0f6fLfX8) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Mood Indigo](https://open.spotify.com/album/7fqZQwAdUdGCvff2hl6mFS) | 3:41 |
 | 23 | [Love or Die \- SOLE Version](https://open.spotify.com/track/3UkoqvqMvtg1Dv33wJ6Pst) | [THE NEW SIX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Love or Die \(SOLE Version\)](https://open.spotify.com/album/2fdKElCiX82wx9n6HbQyCk) | 3:57 |
 | 24 | [GGBB](https://open.spotify.com/track/04qiPs2ScJrI7hgQ8mz4im) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [ACT 1, SCENE 1](https://open.spotify.com/album/3DZzeqdwhn9Q5ScxdaJbkH) | 3:05 |
-| 25 | [Love or Hate](https://open.spotify.com/track/3d3tyA6cIMxNz3afJXTIYG) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:29 |
+| 25 | [Love or Hate](https://open.spotify.com/track/3d3tyA6cIMxNz3afJXTIYG) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:29 |
 | 26 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 |
 | 27 | [daydream](https://open.spotify.com/track/3CMR94d8HbST2a0VPfy0NS) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:06 |
-| 28 | [Daydreaming](https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks) | [Ryu Su Jeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:16 |
+| 28 | [Daydreaming](https://open.spotify.com/track/143uhMdnt6VRpHwDKSp4Ks) | [Ryu Sujeong](https://open.spotify.com/artist/6hrti7kBnnfAgy5Mq9wrQc) | [Archive of Emotions](https://open.spotify.com/album/4SO5d4ADjiyd17Tl9E1e03) | 3:16 |
 | 29 | [Chico malo](https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Chico malo](https://open.spotify.com/album/3M5zCYcr3RtRy4wdE2Vam9) | 2:39 |
 | 30 | [GOOD DAY](https://open.spotify.com/track/22TruoFI39QbtdjeLMyCZE) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [GOOD DAY](https://open.spotify.com/album/3rGn47PdNXu28HVHcGbWOG) | 3:00 |
 | 31 | [Don't be sad](https://open.spotify.com/track/3GyPscDVg9nntpI6AWgz1v) | [Osole](https://open.spotify.com/artist/2MvwNqaFxSXxeyLKOrINRR) | [네가 슬픔에 잠기지 않게](https://open.spotify.com/album/5X7gCwHrxXgDeoICqZpBoH) | 2:44 |

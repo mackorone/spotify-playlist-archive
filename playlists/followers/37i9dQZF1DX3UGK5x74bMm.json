@@ -1,512 +1,415 @@
 {
-  "2022-08-06": 23,
-  "2022-08-07": 31,
-  "2022-08-08": 33,
-  "2022-08-09": 37,
-  "2022-08-10": 42,
-  "2022-08-11": 45,
-  "2022-08-12": 53,
-  "2022-08-13": 58,
-  "2022-08-14": 62,
-  "2022-08-15": 71,
-  "2022-08-16": 80,
-  "2022-08-17": 84,
-  "2022-08-18": 91,
-  "2022-08-19": 101,
-  "2022-08-20": 116,
-  "2022-08-21": 130,
-  "2022-08-22": 138,
-  "2022-08-23": 150,
-  "2022-08-24": 163,
-  "2022-08-25": 174,
-  "2022-08-26": 178,
-  "2022-08-27": 190,
-  "2022-08-28": 201,
-  "2022-08-29": 213,
-  "2022-08-30": 222,
-  "2022-08-31": 235,
-  "2022-09-01": 244,
-  "2022-09-02": 251,
-  "2022-09-03": 257,
-  "2022-09-04": 272,
-  "2022-09-05": 281,
-  "2022-09-06": 291,
-  "2022-09-07": 300,
-  "2022-09-09": 332,
-  "2022-09-10": 345,
-  "2022-09-11": 356,
-  "2022-09-12": 362,
-  "2022-09-13": 369,
-  "2022-09-15": 391,
-  "2022-09-16": 394,
-  "2022-09-17": 400,
-  "2022-09-18": 402,
-  "2022-09-19": 410,
-  "2022-09-20": 417,
-  "2022-09-21": 425,
-  "2022-09-22": 429,
-  "2022-09-23": 432,
-  "2022-09-24": 439,
-  "2022-09-25": 449,
-  "2022-09-26": 453,
-  "2022-09-27": 454,
-  "2022-09-28": 458,
-  "2022-09-29": 462,
-  "2022-09-30": 468,
-  "2022-10-01": 476,
-  "2022-10-02": 481,
-  "2022-10-03": 483,
-  "2022-10-04": 485,
-  "2022-10-05": 493,
-  "2022-10-06": 502,
-  "2022-10-07": 508,
-  "2022-10-08": 513,
-  "2022-10-09": 519,
-  "2022-10-10": 519,
-  "2022-10-11": 524,
-  "2022-10-12": 529,
-  "2022-10-13": 533,
-  "2022-10-14": 538,
-  "2022-10-15": 544,
-  "2022-10-16": 550,
-  "2022-10-17": 558,
-  "2022-10-18": 561,
-  "2022-10-19": 568,
-  "2022-10-20": 574,
-  "2022-10-21": 580,
-  "2022-10-22": 582,
-  "2022-10-23": 584,
-  "2022-10-24": 590,
-  "2022-10-25": 590,
-  "2022-10-26": 590,
-  "2022-10-27": 590,
-  "2022-10-28": 590,
-  "2022-10-29": 590,
-  "2022-10-30": 590,
-  "2022-10-31": 590,
-  "2022-11-01": 590,
-  "2022-11-02": 590,
-  "2022-11-03": 590,
-  "2022-11-04": 590,
-  "2022-11-05": 590,
-  "2022-11-06": 590,
-  "2022-11-07": 590,
-  "2022-11-08": 590,
-  "2022-11-09": 590,
-  "2022-11-10": 590,
-  "2022-11-11": 590,
-  "2022-11-12": 590,
-  "2022-11-13": 590,
-  "2022-11-14": 590,
-  "2022-11-15": 590,
-  "2022-11-16": 590,
-  "2022-11-17": 590,
-  "2022-11-18": 590,
-  "2022-11-19": 590,
-  "2022-11-20": 590,
-  "2022-11-21": 590,
-  "2022-11-22": 590,
-  "2022-11-23": 590,
-  "2022-11-24": 590,
-  "2022-11-25": 590,
-  "2022-11-26": 590,
-  "2022-11-27": 590,
-  "2022-11-28": 590,
-  "2022-11-29": 590,
-  "2022-11-30": 590,
-  "2022-12-01": 590,
-  "2022-12-02": 590,
-  "2022-12-03": 590,
-  "2022-12-04": 590,
-  "2022-12-05": 590,
-  "2022-12-06": 590,
-  "2022-12-07": 590,
-  "2022-12-08": 590,
-  "2022-12-09": 590,
-  "2022-12-10": 590,
-  "2022-12-11": 590,
-  "2022-12-12": 590,
-  "2022-12-13": 590,
-  "2022-12-14": 590,
-  "2022-12-15": 590,
-  "2022-12-16": 590,
-  "2022-12-17": 590,
-  "2022-12-18": 590,
-  "2022-12-19": 590,
-  "2022-12-20": 590,
-  "2022-12-21": 590,
-  "2022-12-22": 590,
-  "2022-12-24": 590,
-  "2022-12-25": 590,
-  "2022-12-26": 590,
-  "2022-12-27": 590,
-  "2022-12-28": 590,
-  "2022-12-29": 590,
-  "2022-12-30": 590,
-  "2022-12-31": 590,
-  "2023-01-01": 590,
-  "2023-01-02": 590,
-  "2023-01-03": 590,
-  "2023-01-04": 590,
-  "2023-01-05": 590,
-  "2023-01-06": 590,
-  "2023-01-07": 590,
-  "2023-01-08": 590,
-  "2023-01-09": 590,
-  "2023-01-10": 590,
-  "2023-01-11": 590,
-  "2023-01-12": 590,
-  "2023-01-13": 590,
-  "2023-01-14": 590,
-  "2023-01-15": 590,
-  "2023-01-16": 590,
-  "2023-01-17": 590,
-  "2023-01-18": 590,
-  "2023-01-19": 590,
-  "2023-01-20": 590,
-  "2023-01-21": 590,
-  "2023-01-22": 590,
-  "2023-01-23": 590,
-  "2023-01-24": 590,
-  "2023-01-25": 590,
-  "2023-01-26": 590,
-  "2023-01-27": 590,
-  "2023-01-28": 590,
-  "2023-01-29": 590,
-  "2023-01-30": 590,
-  "2023-01-31": 590,
-  "2023-02-01": 590,
-  "2023-02-02": 590,
-  "2023-02-03": 590,
-  "2023-02-04": 590,
-  "2023-02-05": 590,
-  "2023-02-06": 590,
-  "2023-02-07": 590,
-  "2023-02-08": 590,
-  "2023-02-09": 590,
-  "2023-02-10": 590,
-  "2023-02-11": 590,
-  "2023-02-12": 590,
-  "2023-02-13": 590,
-  "2023-02-14": 590,
-  "2023-02-15": 590,
-  "2023-02-16": 590,
-  "2023-02-17": 590,
-  "2023-02-18": 590,
-  "2023-02-19": 590,
-  "2023-02-20": 590,
-  "2023-02-21": 590,
-  "2023-02-22": 590,
-  "2023-02-23": 590,
-  "2023-02-24": 590,
-  "2023-02-25": 590,
-  "2023-02-26": 590,
-  "2023-02-27": 590,
-  "2023-02-28": 590,
-  "2023-03-01": 590,
-  "2023-03-02": 590,
-  "2023-03-03": 590,
-  "2023-03-04": 590,
-  "2023-03-05": 590,
-  "2023-03-06": 590,
-  "2023-03-07": 590,
-  "2023-03-08": 590,
-  "2023-03-09": 590,
-  "2023-03-10": 590,
-  "2023-03-11": 590,
-  "2023-03-12": 590,
-  "2023-03-13": 590,
-  "2023-03-14": 590,
-  "2023-03-15": 590,
-  "2023-03-16": 590,
-  "2023-03-17": 590,
-  "2023-03-18": 590,
-  "2023-03-19": 590,
-  "2023-03-20": 590,
-  "2023-03-21": 590,
-  "2023-03-22": 590,
-  "2023-03-23": 590,
-  "2023-03-24": 590,
-  "2023-03-25": 590,
-  "2023-03-26": 590,
-  "2023-03-27": 590,
-  "2023-03-28": 590,
-  "2023-03-29": 590,
-  "2023-03-30": 590,
-  "2023-03-31": 590,
-  "2023-04-01": 590,
-  "2023-04-02": 590,
-  "2023-04-03": 590,
-  "2023-04-04": 590,
-  "2023-04-05": 590,
-  "2023-04-06": 590,
-  "2023-04-07": 590,
-  "2023-04-09": 590,
-  "2023-04-10": 590,
-  "2023-04-11": 590,
-  "2023-04-12": 590,
-  "2023-04-13": 590,
-  "2023-04-14": 590,
-  "2023-04-15": 590,
-  "2023-04-16": 590,
-  "2023-04-17": 590,
-  "2023-04-18": 590,
-  "2023-04-19": 590,
-  "2023-04-20": 590,
-  "2023-04-21": 590,
-  "2023-04-22": 590,
-  "2023-04-23": 590,
-  "2023-04-24": 590,
-  "2023-04-25": 590,
-  "2023-04-26": 590,
-  "2023-04-27": 590,
-  "2023-04-28": 590,
-  "2023-04-29": 590,
-  "2023-04-30": 590,
-  "2023-05-01": 590,
-  "2023-05-02": 590,
-  "2023-05-03": 590,
-  "2023-05-04": 590,
-  "2023-05-05": 590,
-  "2023-05-06": 590,
-  "2023-05-07": 590,
-  "2023-05-08": 590,
-  "2023-05-09": 590,
-  "2023-05-10": 590,
-  "2023-05-11": 590,
-  "2023-05-12": 590,
-  "2023-05-13": 590,
-  "2023-05-14": 590,
-  "2023-05-15": 590,
-  "2023-05-16": 590,
-  "2023-05-17": 590,
-  "2023-05-18": 590,
-  "2023-05-19": 590,
-  "2023-05-20": 590,
-  "2023-05-21": 590,
-  "2023-05-22": 590,
-  "2023-05-23": 590,
-  "2023-05-24": 590,
-  "2023-05-25": 590,
-  "2023-05-26": 590,
-  "2023-05-27": 590,
-  "2023-05-28": 590,
-  "2023-05-29": 590,
-  "2023-05-30": 590,
-  "2023-05-31": 590,
-  "2023-06-01": 590,
-  "2023-06-02": 590,
-  "2023-06-03": 590,
-  "2023-06-04": 590,
-  "2023-06-05": 590,
-  "2023-06-06": 590,
-  "2023-06-07": 590,
-  "2023-06-08": 590,
-  "2023-06-09": 590,
-  "2023-06-10": 590,
-  "2023-06-11": 590,
-  "2023-06-12": 590,
-  "2023-06-13": 590,
-  "2023-06-14": 590,
-  "2023-06-15": 590,
-  "2023-06-16": 590,
-  "2023-06-17": 590,
-  "2023-06-18": 590,
-  "2023-06-19": 590,
-  "2023-06-20": 590,
-  "2023-06-21": 590,
-  "2023-06-22": 590,
-  "2023-06-23": 590,
-  "2023-06-24": 590,
-  "2023-06-25": 590,
-  "2023-06-26": 590,
-  "2023-06-27": 590,
-  "2023-06-28": 590,
-  "2023-06-29": 590,
-  "2023-06-30": 590,
-  "2023-07-01": 590,
-  "2023-07-02": 590,
-  "2023-07-03": 590,
-  "2023-07-04": 590,
-  "2023-07-05": 590,
-  "2023-07-06": 590,
-  "2023-07-07": 590,
-  "2023-07-08": 590,
-  "2023-07-09": 590,
-  "2023-07-10": 590,
-  "2023-07-11": 590,
-  "2023-07-12": 590,
-  "2023-07-13": 590,
-  "2023-07-14": 590,
-  "2023-07-15": 590,
-  "2023-07-16": 590,
-  "2023-07-17": 590,
-  "2023-07-18": 590,
-  "2023-07-19": 590,
-  "2023-07-20": 590,
-  "2023-07-21": 590,
-  "2023-07-22": 590,
-  "2023-07-23": 590,
-  "2023-07-24": 590,
-  "2023-07-25": 590,
-  "2023-07-26": 590,
-  "2023-07-27": 590,
-  "2023-07-28": 590,
-  "2023-07-29": 590,
-  "2023-07-30": 590,
-  "2023-07-31": 590,
-  "2023-08-01": 590,
-  "2023-08-02": 590,
-  "2023-08-03": 590,
-  "2023-08-04": 590,
-  "2023-08-05": 590,
-  "2023-08-06": 590,
-  "2023-08-07": 590,
-  "2023-08-08": 590,
-  "2023-08-09": 590,
-  "2023-08-10": 590,
-  "2023-08-11": 590,
-  "2023-08-12": 590,
-  "2023-08-13": 590,
-  "2023-08-14": 590,
-  "2023-08-15": 590,
-  "2023-08-16": 590,
-  "2023-08-17": 590,
-  "2023-08-18": 590,
-  "2023-08-19": 590,
-  "2023-08-20": 590,
-  "2023-08-21": 590,
-  "2023-08-22": 590,
-  "2023-08-23": 590,
-  "2023-08-24": 590,
-  "2023-08-25": 590,
-  "2023-08-26": 590,
-  "2023-08-27": 590,
-  "2023-08-28": 590,
-  "2023-08-29": 590,
-  "2023-08-30": 590,
-  "2023-08-31": 590,
-  "2023-09-01": 590,
-  "2023-09-02": 590,
-  "2023-09-03": 590,
-  "2023-09-04": 590,
-  "2023-09-05": 590,
-  "2023-09-06": 590,
-  "2023-09-07": 590,
-  "2023-09-08": 590,
-  "2023-09-09": 590,
-  "2023-09-10": 590,
-  "2023-09-11": 590,
-  "2023-09-12": 590,
-  "2023-09-13": 590,
-  "2023-09-14": 590,
-  "2023-09-15": 590,
-  "2023-09-16": 590,
-  "2023-09-17": 590,
-  "2023-09-18": 590,
-  "2023-09-19": 590,
-  "2023-09-20": 590,
-  "2023-09-21": 590,
-  "2023-09-22": 590,
-  "2023-09-23": 590,
-  "2023-09-24": 590,
-  "2023-09-25": 590,
-  "2023-09-26": 590,
-  "2023-09-27": 590,
-  "2023-09-28": 590,
-  "2023-09-29": 590,
-  "2023-09-30": 590,
-  "2023-10-01": 590,
-  "2023-10-02": 590,
-  "2023-10-03": 590,
-  "2023-10-04": 590,
-  "2023-10-05": 590,
-  "2023-10-06": 590,
-  "2023-10-07": 590,
-  "2023-10-08": 590,
-  "2023-10-09": 590,
-  "2023-10-10": 590,
-  "2023-10-11": 590,
-  "2023-10-12": 590,
-  "2023-10-13": 590,
-  "2023-10-14": 590,
-  "2023-10-15": 590,
-  "2023-10-16": 590,
-  "2023-10-17": 590,
-  "2023-10-18": 590,
-  "2023-10-19": 590,
-  "2023-10-20": 590,
-  "2023-10-21": 590,
-  "2023-10-22": 590,
-  "2023-10-23": 590,
-  "2023-10-24": 590,
-  "2023-10-25": 590,
-  "2023-10-26": 590,
-  "2023-10-27": 590,
-  "2023-10-28": 590,
-  "2023-10-29": 590,
-  "2023-10-30": 590,
-  "2023-10-31": 590,
-  "2023-11-01": 590,
-  "2023-11-02": 590,
-  "2023-11-03": 590,
-  "2023-11-04": 590,
-  "2023-11-05": 590,
-  "2023-11-06": 590,
-  "2023-11-07": 590,
-  "2023-11-08": 590,
-  "2023-11-09": 590,
-  "2023-11-10": 590,
-  "2023-11-11": 590,
-  "2023-11-12": 590,
-  "2023-11-13": 590,
-  "2023-11-14": 590,
-  "2023-11-15": 590,
-  "2023-11-16": 590,
-  "2023-11-17": 590,
-  "2023-11-18": 590,
-  "2023-11-19": 590,
-  "2023-11-20": 590,
-  "2023-11-21": 590,
-  "2023-11-22": 590,
-  "2023-11-23": 590,
-  "2023-11-24": 590,
-  "2023-11-25": 590,
-  "2023-11-26": 590,
-  "2023-11-27": 590,
-  "2023-11-28": 590,
-  "2023-11-29": 590,
-  "2023-11-30": 590,
-  "2023-12-01": 590,
-  "2023-12-02": 590,
-  "2023-12-03": 590,
-  "2023-12-04": 590,
-  "2023-12-05": 590,
-  "2023-12-06": 590,
-  "2023-12-07": 590,
-  "2023-12-08": 590,
-  "2023-12-09": 590,
-  "2023-12-10": 590,
-  "2023-12-11": 590,
-  "2023-12-12": 590,
-  "2023-12-13": 590,
-  "2023-12-14": 590,
-  "2023-12-15": 590,
-  "2023-12-16": 590,
-  "2023-12-17": 590,
-  "2023-12-18": 590,
-  "2023-12-19": 590,
-  "2023-12-20": 590,
-  "2023-12-21": 590,
-  "2023-12-22": 590,
-  "2023-12-23": 590,
-  "2023-12-24": 590,
-  "2023-12-25": 590,
-  "2023-12-26": 590,
-  "2023-12-27": 590,
-  "2023-12-30": 590,
-  "2023-12-31": 590,
-  "2024-01-01": 590,
-  "2024-01-02": 590,
-  "2024-01-03": 590
+  "2024-01-17": 590,
+  "date_first_scraped": "2022-08-06",
+  "description": "Music produced by Kanye West and their original soul samples inspired by jeen-yuhs: A Kanye Trilogy.",
+  "name": "In the Queue",
+  "tracks": [
+    {
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427693,
+      "name": "A House Is Not a Home",
+      "url": "https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W"
+    },
+    {
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
+      },
+      "artists": [
+        {
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233560,
+      "name": "Ain't No Love In The Heart Of The City - Single Version",
+      "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280853,
+      "name": "Ain't Nobody",
+      "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359800,
+      "name": "Blood On The Leaves",
+      "url": "https://open.spotify.com/track/42GcjriRK6srwHkfbkBqVl"
+    },
+    {
+      "album": {
+        "name": "2+2+1 = (Digitally Remastered)",
+        "url": "https://open.spotify.com/album/1xdgLmTFMSyJyI5DJOOX7T"
+      },
+      "artists": [
+        {
+          "name": "The Ponderosa Twins Plus One",
+          "url": "https://open.spotify.com/artist/4U8RRuQqYoeXH2JuTr6QMM"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191204,
+      "name": "Bound",
+      "url": "https://open.spotify.com/track/7zye9v6B785eFWEFYs13C2"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+    },
+    {
+      "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Distant Lover",
+      "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
+    },
+    {
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "album": {
+        "name": "The Blueprint (Explicit Version)",
+        "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Heart Of The City (Ain't No Love)",
+      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA"
+    },
+    {
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "album": {
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
+    },
+    {
+      "album": {
+        "name": "The Blueprint",
+        "url": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240626,
+      "name": "Izzo (H.O.V.A.)",
+      "url": "https://open.spotify.com/track/10EGxvr4fSE42ABWZeJ3K3"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx"
+    },
+    {
+      "album": {
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged No. 2.0",
+        "url": "https://open.spotify.com/album/22tn8fUpD1lurSga9yuqhM"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310733,
+      "name": "Mystery of Iniquity - Live",
+      "url": "https://open.spotify.com/track/5KZwRD3KklSP73jnLoNWtF"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316053,
+      "name": "Slow Jamz",
+      "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+        },
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324226,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Through The Wire",
+      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo"
+    },
+    {
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236600,
+      "name": "Touch The Sky",
+      "url": "https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3UGK5x74bMm"
 }

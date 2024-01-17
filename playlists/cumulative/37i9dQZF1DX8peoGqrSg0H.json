@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PiXXiE",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e0a\u0e48\u0e27\u0e07\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01\u0e1b\u0e35\u0e19\u0e35\u0e49! \u0e40\u0e1e\u0e25\u0e07\u0e44\u0e17\u0e22\u0e1b\u0e4a\u0e2d\u0e1b\u0e42\u0e14\u0e19\u0e43\u0e08 \u0e2d\u0e31\u0e1e\u0e40\u0e14\u0e15\u0e43\u0e2b\u0e49\u0e04\u0e38\u0e13\u0e1f\u0e31\u0e07\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NuNew",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "ALALA (To The Top) - Single",
+        "url": "https://open.spotify.com/album/2sLjFbcHqYmFW0ue0Ivlwl"
+      },
+      "artists": [
+        {
+          "name": "ALALA",
+          "url": "https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186683,
+      "name": "ALALA (To The Top)",
+      "url": "https://open.spotify.com/track/77Sye1USZZ2xmy18ln7dWe"
+    },
+    {
+      "album": {
         "name": "All Night (feat. Loco)",
         "url": "https://open.spotify.com/album/3PlPXgmBBVh9LK2czA9DPo"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 251602,
       "name": "BABY CRUSH (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Cooking Crush \u0e2d\u0e32\u0e2b\u0e32\u0e23\u0e40\u0e1b\u0e47\u0e19\u0e22\u0e31\u0e07\u0e44\u0e07\u0e04\u0e23\u0e31\u0e1a\u0e2b\u0e21\u0e2d)",
       "url": "https://open.spotify.com/track/6MHNB1rJyaBOmLxe307JiN"
@@ -1838,7 +1856,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 190162,
       "name": "\u0e01\u0e25\u0e49\u0e27\u0e22\u0e2b\u0e2d\u0e21",
       "url": "https://open.spotify.com/track/2O0RznofHnlpBs6VSMNbP8"
@@ -3366,6 +3384,24 @@
       "duration_ms": 155862,
       "name": "\u0e15\u0e31\u0e49\u0e07\u0e43\u0e08\u0e23\u0e31\u0e01 (happy accident)",
       "url": "https://open.spotify.com/track/6LXKd4e0i2EPLh86GWvWOE"
+    },
+    {
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196896,
+      "name": "\u0e15\u0e34\u0e14\u0e1d\u0e19 (rain)",
+      "url": "https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F"
     },
     {
       "album": {
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 227256,
       "name": "\u0e23\u0e49\u0e32\u0e22\u0e01\u0e32\u0e08 Lifeguard",
       "url": "https://open.spotify.com/track/4kVNbGOSIcNpkS94R0NYFh"
@@ -6944,6 +6980,24 @@
       "duration_ms": 206062,
       "name": "\u0e41\u0e01\u0e25\u0e49\u0e07\u0e25\u0e37\u0e21 (Boyfriend)",
       "url": "https://open.spotify.com/track/1fd0ICmxYdKSlfk9bXmJpx"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e04\u0e37\u0e1a - Single",
+        "url": "https://open.spotify.com/album/2nuWP2sSzKDOa2g1DH5WkZ"
+      },
+      "artists": [
+        {
+          "name": "Satang Kittiphop",
+          "url": "https://open.spotify.com/artist/6UfGTKUkDy6P5RhU1MNocv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202682,
+      "name": "\u0e41\u0e04\u0e48\u0e04\u0e37\u0e1a (\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c Last Twilight \u0e20\u0e32\u0e1e\u0e19\u0e32\u0e22\u0e44\u0e21\u0e48\u0e40\u0e04\u0e22\u0e25\u0e37\u0e21)",
+      "url": "https://open.spotify.com/track/0m0yjlnu8IeuDddotXQyRQ"
     },
     {
       "album": {

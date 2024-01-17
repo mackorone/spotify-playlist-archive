@@ -1,289 +1,1107 @@
 {
-  "2023-03-20": 1475207,
-  "2023-03-21": 1475692,
-  "2023-03-22": 1476134,
-  "2023-03-23": 1476625,
-  "2023-03-24": 1476625,
-  "2023-03-25": 1477608,
-  "2023-03-26": 1478225,
-  "2023-03-27": 1478724,
-  "2023-03-28": 1479251,
-  "2023-03-29": 1479842,
-  "2023-03-30": 1480689,
-  "2023-03-31": 1480689,
-  "2023-04-01": 1481134,
-  "2023-04-02": 1481592,
-  "2023-04-03": 1482076,
-  "2023-04-04": 1482603,
-  "2023-04-05": 1483138,
-  "2023-04-06": 1483625,
-  "2023-04-07": 1484103,
-  "2023-04-09": 1484928,
-  "2023-04-10": 1485322,
-  "2023-04-11": 1486281,
-  "2023-04-12": 1486281,
-  "2023-04-13": 1487041,
-  "2023-04-14": 1487923,
-  "2023-04-15": 1488630,
-  "2023-04-16": 1489148,
-  "2023-04-17": 1489593,
-  "2023-04-18": 1490138,
-  "2023-04-19": 1490758,
-  "2023-04-20": 1491468,
-  "2023-04-21": 1492052,
-  "2023-04-22": 1492625,
-  "2023-04-23": 1493083,
-  "2023-04-24": 1493532,
-  "2023-04-25": 1494012,
-  "2023-04-26": 1494628,
-  "2023-04-27": 1495098,
-  "2023-04-28": 1495654,
-  "2023-04-29": 1496200,
-  "2023-04-30": 1496718,
-  "2023-05-01": 1497188,
-  "2023-05-02": 1497679,
-  "2023-05-03": 1498173,
-  "2023-05-04": 1498723,
-  "2023-05-05": 1499202,
-  "2023-05-06": 1499714,
-  "2023-05-07": 1500200,
-  "2023-05-08": 1500758,
-  "2023-05-09": 1501309,
-  "2023-05-10": 1501836,
-  "2023-05-11": 1502375,
-  "2023-05-12": 1502945,
-  "2023-05-13": 1503470,
-  "2023-05-14": 1503900,
-  "2023-05-15": 1504317,
-  "2023-05-16": 1504818,
-  "2023-05-17": 1505345,
-  "2023-05-18": 1505873,
-  "2023-05-19": 1506438,
-  "2023-05-20": 1507310,
-  "2023-05-21": 1507310,
-  "2023-05-22": 1507310,
-  "2023-05-23": 1508201,
-  "2023-05-24": 1509012,
-  "2023-05-25": 1509112,
-  "2023-05-26": 1509556,
-  "2023-05-27": 1510031,
-  "2023-05-28": 1510477,
-  "2023-05-29": 1510477,
-  "2023-05-30": 1511482,
-  "2023-05-31": 1512119,
-  "2023-06-01": 1512806,
-  "2023-06-02": 1513446,
-  "2023-06-03": 1514049,
-  "2023-06-04": 1514690,
-  "2023-06-05": 1515260,
-  "2023-06-06": 1515831,
-  "2023-06-07": 1516433,
-  "2023-06-08": 1517119,
-  "2023-06-09": 1517722,
-  "2023-06-10": 1518396,
-  "2023-06-11": 1518984,
-  "2023-06-12": 1519550,
-  "2023-06-13": 1520082,
-  "2023-06-14": 1520562,
-  "2023-06-15": 1521146,
-  "2023-06-16": 1521746,
-  "2023-06-17": 1522494,
-  "2023-06-18": 1523195,
-  "2023-06-19": 1523836,
-  "2023-06-20": 1524494,
-  "2023-06-21": 1525092,
-  "2023-06-22": 1525695,
-  "2023-06-23": 1526257,
-  "2023-06-24": 1527690,
-  "2023-06-25": 1529032,
-  "2023-06-26": 1529896,
-  "2023-06-27": 1530647,
-  "2023-06-28": 1531367,
-  "2023-06-29": 1531998,
-  "2023-06-30": 1532595,
-  "2023-07-01": 1533836,
-  "2023-07-02": 1533836,
-  "2023-07-03": 1534346,
-  "2023-07-04": 1534899,
-  "2023-07-05": 1535412,
-  "2023-07-06": 1536466,
-  "2023-07-07": 1536466,
-  "2023-07-08": 1536466,
-  "2023-07-09": 1537607,
-  "2023-07-10": 1538175,
-  "2023-07-11": 1538626,
-  "2023-07-12": 1539158,
-  "2023-07-13": 1539736,
-  "2023-07-14": 1540316,
-  "2023-07-15": 1540778,
-  "2023-07-16": 1541386,
-  "2023-07-17": 1541946,
-  "2023-07-18": 1542525,
-  "2023-07-19": 1543024,
-  "2023-07-20": 1543024,
-  "2023-07-21": 1544055,
-  "2023-07-22": 1544569,
-  "2023-07-23": 1545067,
-  "2023-07-24": 1545582,
-  "2023-07-25": 1546053,
-  "2023-07-26": 1546523,
-  "2023-07-27": 1547072,
-  "2023-07-28": 1547072,
-  "2023-07-29": 1548039,
-  "2023-07-30": 1548039,
-  "2023-07-31": 1548925,
-  "2023-08-01": 1549378,
-  "2023-08-02": 1549777,
-  "2023-08-03": 1550244,
-  "2023-08-04": 1550665,
-  "2023-08-05": 1551107,
-  "2023-08-06": 1551909,
-  "2023-08-07": 1551909,
-  "2023-08-08": 1552255,
-  "2023-08-09": 1552630,
-  "2023-08-10": 1552935,
-  "2023-08-11": 1553360,
-  "2023-08-12": 1553360,
-  "2023-08-13": 1553360,
-  "2023-08-14": 1553360,
-  "2023-08-15": 1553360,
-  "2023-08-16": 1553360,
-  "2023-08-17": 1553360,
-  "2023-08-18": 1553360,
-  "2023-08-19": 1553360,
-  "2023-08-20": 1557170,
-  "2023-08-21": 1557170,
-  "2023-08-22": 1557903,
-  "2023-08-23": 1557903,
-  "2023-08-24": 1557903,
-  "2023-08-25": 1557903,
-  "2023-08-26": 1559613,
-  "2023-08-27": 1559613,
-  "2023-08-28": 1560360,
-  "2023-08-29": 1560360,
-  "2023-08-30": 1560360,
-  "2023-08-31": 1561627,
-  "2023-09-01": 1562115,
-  "2023-09-02": 1562115,
-  "2023-09-03": 1562115,
-  "2023-09-04": 1562115,
-  "2023-09-05": 1562115,
-  "2023-09-06": 1562115,
-  "2023-09-07": 1562115,
-  "2023-09-08": 1562115,
-  "2023-09-09": 1562115,
-  "2023-09-10": 1562115,
-  "2023-09-11": 1562115,
-  "2023-09-12": 1562115,
-  "2023-09-13": 1562115,
-  "2023-09-14": 1562115,
-  "2023-09-15": 1562115,
-  "2023-09-16": 1562115,
-  "2023-09-17": 1562115,
-  "2023-09-18": 1562115,
-  "2023-09-19": 1562115,
-  "2023-09-20": 1562115,
-  "2023-09-21": 1562115,
-  "2023-09-22": 1571660,
-  "2023-09-23": 1571660,
-  "2023-09-24": 1571660,
-  "2023-09-25": 1571660,
-  "2023-09-26": 1573514,
-  "2023-09-27": 1573514,
-  "2023-09-28": 1573514,
-  "2023-09-29": 1573514,
-  "2023-09-30": 1573514,
-  "2023-10-01": 1573514,
-  "2023-10-02": 1573514,
-  "2023-10-03": 1573514,
-  "2023-10-04": 1573514,
-  "2023-10-05": 1573514,
-  "2023-10-06": 1573514,
-  "2023-10-07": 1573514,
-  "2023-10-08": 1573514,
-  "2023-10-09": 1573514,
-  "2023-10-10": 1573514,
-  "2023-10-11": 1573514,
-  "2023-10-12": 1573514,
-  "2023-10-13": 1573514,
-  "2023-10-14": 1573514,
-  "2023-10-15": 1573514,
-  "2023-10-16": 1573514,
-  "2023-10-17": 1573514,
-  "2023-10-18": 1573514,
-  "2023-10-19": 1573514,
-  "2023-10-20": 1573514,
-  "2023-10-21": 1573514,
-  "2023-10-22": 1573514,
-  "2023-10-23": 1573514,
-  "2023-10-24": 1573514,
-  "2023-10-25": 1573514,
-  "2023-10-26": 1573514,
-  "2023-10-27": 1573514,
-  "2023-10-28": 1573514,
-  "2023-10-29": 1573514,
-  "2023-10-30": 1573514,
-  "2023-10-31": 1573514,
-  "2023-11-01": 1573514,
-  "2023-11-02": 1573514,
-  "2023-11-03": 1573514,
-  "2023-11-04": 1573514,
-  "2023-11-05": 1573514,
-  "2023-11-06": 1573514,
-  "2023-11-07": 1573514,
-  "2023-11-08": 1573514,
-  "2023-11-09": 1573514,
-  "2023-11-10": 1573514,
-  "2023-11-11": 1591807,
-  "2023-11-12": 1591807,
-  "2023-11-13": 1591807,
-  "2023-11-14": 1591807,
-  "2023-11-15": 1591807,
-  "2023-11-16": 1591807,
-  "2023-11-17": 1591807,
-  "2023-11-18": 1591807,
-  "2023-11-19": 1591807,
-  "2023-11-20": 1591807,
-  "2023-11-21": 1591807,
-  "2023-11-22": 1591807,
-  "2023-11-23": 1591807,
-  "2023-11-24": 1591807,
-  "2023-11-25": 1591807,
-  "2023-11-26": 1591807,
-  "2023-11-27": 1591807,
-  "2023-11-28": 1591807,
-  "2023-11-29": 1591807,
-  "2023-11-30": 1591807,
-  "2023-12-01": 1591807,
-  "2023-12-02": 1591807,
-  "2023-12-03": 1591807,
-  "2023-12-04": 1591807,
-  "2023-12-05": 1591807,
-  "2023-12-06": 1591807,
-  "2023-12-07": 1591807,
-  "2023-12-08": 1591807,
-  "2023-12-09": 1591807,
-  "2023-12-10": 1591807,
-  "2023-12-11": 1591807,
-  "2023-12-12": 1591807,
-  "2023-12-13": 1591807,
-  "2023-12-14": 1602561,
-  "2023-12-15": 1602809,
-  "2023-12-16": 1603190,
-  "2023-12-17": 1603581,
-  "2023-12-18": 1603875,
-  "2023-12-19": 1604177,
-  "2023-12-20": 1604524,
-  "2023-12-21": 1604872,
-  "2023-12-22": 1605204,
-  "2023-12-23": 1605585,
-  "2023-12-24": 1605910,
-  "2023-12-25": 1606218,
-  "2023-12-26": 1606459,
-  "2023-12-27": 1606811,
-  "2023-12-30": 1607900,
-  "2023-12-31": 1608296,
-  "2024-01-01": 1608575,
-  "2024-01-02": 1608798,
-  "2024-01-03": 1609054
+  "2024-01-17": 1612419,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Arctic Monkeys. The essential tracks, all in one playlist.",
+  "name": "This Is Arctic Monkeys",
+  "tracks": [
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
+    },
+    {
+      "album": {
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/4L2Rh2ogH9nwQNVbNAWRa7"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128506,
+      "name": "7",
+      "url": "https://open.spotify.com/track/5IKz3HfzRT3EAhxCsrBqwf"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 331200,
+      "name": "A Certain Romance",
+      "url": "https://open.spotify.com/track/0eDQj41kzBhMKQIkTt6OJR"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207356,
+      "name": "Arabella",
+      "url": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ"
+    },
+    {
+      "album": {
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152613,
+      "name": "Baby I'm Yours",
+      "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237984,
+      "name": "Big Ideas",
+      "url": "https://open.spotify.com/track/4KPi4VNvPOfKqIp1sx19Xf"
+    },
+    {
+      "album": {
+        "name": "I Bet You Look Good On The Dancefloor",
+        "url": "https://open.spotify.com/album/2rkuPRtC7rZlcsOCwTmdpF"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "Bigger Boys and Stolen Sweethearts",
+      "url": "https://open.spotify.com/track/4TC0dnB5DxvoKcsalffFZe"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Black Treacle",
+      "url": "https://open.spotify.com/track/7EUcOIbJSePmXGvAe7G79C"
+    },
+    {
+      "album": {
+        "name": "Body Paint",
+        "url": "https://open.spotify.com/album/0AtlEQ56o0yKOd9qM1EBp0"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/11jRCxY01k9jvCdUru0EeP"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Brianstorm",
+      "url": "https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "Cornerstone",
+      "url": "https://open.spotify.com/track/5bsnLiT00hG37qd8p2jdVl"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Crying Lightning",
+      "url": "https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283493,
+      "name": "Dance Little Liar",
+      "url": "https://open.spotify.com/track/3u16Clmxz7dJpnQWXXynok"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "Dancing Shoes",
+      "url": "https://open.spotify.com/track/0hAMkY2kwdXPPDfQ1e3BmJ"
+    },
+    {
+      "album": {
+        "name": "Who The F*** Are Arctic Monkeys?",
+        "url": "https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202853,
+      "name": "Despair In The Departure Lounge",
+      "url": "https://open.spotify.com/track/605E2oDpy3uSIhbRFcrQyn"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "Do Me a Favour",
+      "url": "https://open.spotify.com/track/2BqfIlpahcebJPeu1IUTEo"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Don't Sit Down 'Cause I've Moved Your Chair",
+      "url": "https://open.spotify.com/track/3czdA0j4iaLDJJCoT5D8iP"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177946,
+      "name": "Fake Tales Of San Francisco",
+      "url": "https://open.spotify.com/track/7BuzJmV2h6eBbSDdRaDY7C"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "Fluorescent Adolescent",
+      "url": "https://open.spotify.com/track/2x8evxqUlF0eRabbW2JBJd"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/3nhzPKCm2yqGmgEhdAg19u"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312346,
+      "name": "Four Out Of Five",
+      "url": "https://open.spotify.com/track/5Z5nbOXhsSbySVC7WUc6y9"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "From The Ritz To The Rubble",
+      "url": "https://open.spotify.com/track/2vQQfWTanvD99OeHLAoyhW"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244932,
+      "name": "Hello You",
+      "url": "https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW"
+    },
+    {
+      "album": {
+        "name": "I Ain't Quite Where I Think I Am",
+        "url": "https://open.spotify.com/album/1iXbmA1guiEgh69kIcr0On"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191173,
+      "name": "I Ain\u2019t Quite Where I Think I Am",
+      "url": "https://open.spotify.com/track/7DPhusadsTZ2VrXOGcuX2y"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197576,
+      "name": "Jet Skis On The Moat",
+      "url": "https://open.spotify.com/track/2HReNSxrMRcJ0cYMzKAJK6"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257563,
+      "name": "Knee Socks",
+      "url": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG"
+    },
+    {
+      "album": {
+        "name": "Leave Before The Lights Come On",
+        "url": "https://open.spotify.com/album/219r3vm32Uzj5Ef7lu9aKw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233946,
+      "name": "Leave Before The Lights Come On",
+      "url": "https://open.spotify.com/track/4Du0BRUJvKybzxcRplp7HF"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191426,
+      "name": "Love is a Laserquest",
+      "url": "https://open.spotify.com/track/0S6CXA5LpRDX6b4akgrOot"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175440,
+      "name": "Mardy Bum",
+      "url": "https://open.spotify.com/track/2fyIS6GXMgUcSv4oejx63f"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210012,
+      "name": "Mr Schwartz",
+      "url": "https://open.spotify.com/track/5fClRRa7P9nPIpstj50veV"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "My Propeller",
+      "url": "https://open.spotify.com/track/2hmHlBM0kPBm17Y7nVIW9f"
+    },
+    {
+      "album": {
+        "name": "Who The F*** Are Arctic Monkeys?",
+        "url": "https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "No Buses",
+      "url": "https://open.spotify.com/track/6mOiT65GFmXgBAviM3lrsE"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Old Yellow Bricks",
+      "url": "https://open.spotify.com/track/5KGbRvZyVyKP2AEJMHErB4"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208640,
+      "name": "One Point Perspective",
+      "url": "https://open.spotify.com/track/1t67WYNfUxfOiwaz7SJ66b"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208640,
+      "name": "One Point Perspective",
+      "url": "https://open.spotify.com/track/2AKwcNHeGAqCpD6etK425X"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Only Ones Who Know",
+      "url": "https://open.spotify.com/track/71ytDkCnYc11VRiRCrhDHX"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203880,
+      "name": "Piledriver Waltz",
+      "url": "https://open.spotify.com/track/4Ai0ANRDYwx6mCD4Uty1WS"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Pretty Visitors",
+      "url": "https://open.spotify.com/track/45n7uujqwmMyBMjBu9SwRu"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201726,
+      "name": "R U Mine?",
+      "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239151,
+      "name": "Sculptures Of Anything Goes",
+      "url": "https://open.spotify.com/track/5hljqZrl0h7RcIhUnOPuve"
+    },
+    {
+      "album": {
+        "name": "Humbug",
+        "url": "https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "Secret Door",
+      "url": "https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234920,
+      "name": "She's Thunderstorms",
+      "url": "https://open.spotify.com/track/5xw2cHVLw1rlDPp3cL9Zuv"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193030,
+      "name": "Snap Out Of It",
+      "url": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 354640,
+      "name": "Star Treatment",
+      "url": "https://open.spotify.com/track/0FgNSsaSZTvbLXUumSO8LQ"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354640,
+      "name": "Star Treatment",
+      "url": "https://open.spotify.com/track/0b93tWwuoAC0nXe1CfR30I"
+    },
+    {
+      "album": {
+        "name": "Why'd You Only Call Me When You're High?",
+        "url": "https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Stop The World I Wanna Get Off With You",
+      "url": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet"
+    },
+    {
+      "album": {
+        "name": "Suck It and See",
+        "url": "https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Suck It and See",
+      "url": "https://open.spotify.com/track/0LxeKwg9t7HOnyfv4bTALT"
+    },
+    {
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Teddy Picker",
+      "url": "https://open.spotify.com/track/5kxVyCgEUND7E2QKG7JmoF"
+    },
+    {
+      "album": {
+        "name": "Fluorescent Adolescent",
+        "url": "https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "The Bakery",
+      "url": "https://open.spotify.com/track/2amJsWuU8ohAth78f2QOLD"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198554,
+      "name": "The Car",
+      "url": "https://open.spotify.com/track/0C6dSPCqwKqwos6s1CrDrh"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 217720,
+      "name": "The Ultracheese",
+      "url": "https://open.spotify.com/track/3PhbzvTllkq1rkULafc6ns"
+    },
+    {
+      "album": {
+        "name": "There\u2019d Better Be A Mirrorball",
+        "url": "https://open.spotify.com/album/0ZUmodAwUq8cQJFvyibKwT"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/0yowbJnnbTLpr99f9l1uba"
+    },
+    {
+      "album": {
+        "name": "Fluorescent Adolescent",
+        "url": "https://open.spotify.com/album/5SkPWtT5QFPsV2ix1J5Lnm"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183253,
+      "name": "Too Much To Ask",
+      "url": "https://open.spotify.com/track/1LSwssG5oIAMXYcvpOoPLC"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211967,
+      "name": "Tranquility Base Hotel & Casino",
+      "url": "https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC"
+    },
+    {
+      "album": {
+        "name": "Tranquility Base Hotel & Casino",
+        "url": "https://open.spotify.com/album/1jeMiSeSnNS0Oys375qegp"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 212093,
+      "name": "Tranquility Base Hotel & Casino",
+      "url": "https://open.spotify.com/track/7co8zvT6HJuyT81IDukyID"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "When The Sun Goes Down",
+      "url": "https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2"
+    },
+    {
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "album": {
+        "name": "One For The Road",
+        "url": "https://open.spotify.com/album/7FwV5ibe9JVQZvnR9brOz2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182751,
+      "name": "You're So Dark",
+      "url": "https://open.spotify.com/track/40DwUg5zPX8H23WpTdD2iW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BaAkp"
 }

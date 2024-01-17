@@ -1,732 +1,2275 @@
 {
-  "2021-12-28": 44553,
-  "2021-12-29": 44557,
-  "2021-12-30": 44560,
-  "2021-12-31": 44565,
-  "2022-01-01": 44571,
-  "2022-01-02": 44571,
-  "2022-01-03": 44571,
-  "2022-01-04": 44577,
-  "2022-01-05": 44586,
-  "2022-01-06": 44598,
-  "2022-01-07": 44604,
-  "2022-01-08": 44612,
-  "2022-01-09": 44612,
-  "2022-01-10": 44616,
-  "2022-01-11": 44625,
-  "2022-01-12": 44629,
-  "2022-01-13": 44642,
-  "2022-01-14": 44656,
-  "2022-01-15": 44674,
-  "2022-01-16": 44675,
-  "2022-01-17": 44687,
-  "2022-01-18": 44686,
-  "2022-01-19": 44691,
-  "2022-01-20": 44691,
-  "2022-01-21": 44705,
-  "2022-01-22": 44718,
-  "2022-01-23": 8968,
-  "2022-01-24": 1835,
-  "2022-01-25": 1835,
-  "2022-01-26": 1835,
-  "2022-01-27": 1835,
-  "2022-01-28": 1835,
-  "2022-01-29": 1835,
-  "2022-01-30": 1835,
-  "2022-01-31": 1835,
-  "2022-02-01": 1835,
-  "2022-02-02": 1835,
-  "2022-02-03": 1835,
-  "2022-02-04": 1835,
-  "2022-02-05": 1835,
-  "2022-02-06": 1835,
-  "2022-02-07": 1835,
-  "2022-02-08": 1835,
-  "2022-02-09": 1835,
-  "2022-02-10": 1835,
-  "2022-02-11": 1835,
-  "2022-02-12": 1835,
-  "2022-02-13": 1835,
-  "2022-02-14": 1835,
-  "2022-02-15": 1835,
-  "2022-02-16": 1835,
-  "2022-02-17": 1835,
-  "2022-02-18": 1835,
-  "2022-02-19": 1835,
-  "2022-02-20": 1835,
-  "2022-02-21": 1835,
-  "2022-02-22": 1835,
-  "2022-02-23": 1835,
-  "2022-02-24": 1835,
-  "2022-02-25": 1835,
-  "2022-02-26": 1835,
-  "2022-02-27": 1835,
-  "2022-02-28": 1835,
-  "2022-03-01": 1835,
-  "2022-03-02": 1835,
-  "2022-03-03": 1835,
-  "2022-03-04": 1835,
-  "2022-03-05": 1835,
-  "2022-03-06": 1835,
-  "2022-03-07": 1835,
-  "2022-03-08": 1835,
-  "2022-03-09": 1835,
-  "2022-03-10": 1835,
-  "2022-03-11": 1835,
-  "2022-03-12": 1835,
-  "2022-03-13": 1835,
-  "2022-03-14": 1835,
-  "2022-03-15": 1835,
-  "2022-03-16": 1835,
-  "2022-03-17": 1835,
-  "2022-03-18": 1835,
-  "2022-03-19": 1835,
-  "2022-03-20": 1835,
-  "2022-03-21": 1835,
-  "2022-03-22": 1835,
-  "2022-03-23": 1835,
-  "2022-03-24": 1835,
-  "2022-03-25": 1835,
-  "2022-03-26": 1835,
-  "2022-03-27": 1835,
-  "2022-03-28": 1835,
-  "2022-03-30": 1835,
-  "2022-03-31": 1835,
-  "2022-04-01": 1835,
-  "2022-04-02": 1835,
-  "2022-04-03": 1835,
-  "2022-04-04": 1835,
-  "2022-04-05": 1835,
-  "2022-04-06": 1835,
-  "2022-04-07": 1835,
-  "2022-04-08": 1835,
-  "2022-04-09": 1835,
-  "2022-04-10": 1835,
-  "2022-04-11": 1835,
-  "2022-04-12": 1835,
-  "2022-04-13": 1835,
-  "2022-04-14": 1835,
-  "2022-04-15": 1835,
-  "2022-04-16": 1835,
-  "2022-04-17": 1835,
-  "2022-04-18": 1835,
-  "2022-04-19": 1835,
-  "2022-04-20": 1835,
-  "2022-04-21": 1835,
-  "2022-04-22": 1835,
-  "2022-04-23": 1835,
-  "2022-04-24": 1835,
-  "2022-04-25": 1835,
-  "2022-04-26": 1835,
-  "2022-04-27": 1835,
-  "2022-04-28": 1835,
-  "2022-04-29": 1835,
-  "2022-04-30": 1835,
-  "2022-05-01": 1835,
-  "2022-05-02": 1835,
-  "2022-05-03": 1835,
-  "2022-05-04": 1835,
-  "2022-05-05": 1835,
-  "2022-05-06": 1835,
-  "2022-05-07": 1835,
-  "2022-05-08": 1835,
-  "2022-05-09": 1835,
-  "2022-05-10": 1835,
-  "2022-05-11": 1835,
-  "2022-05-12": 1835,
-  "2022-05-13": 1835,
-  "2022-05-14": 1835,
-  "2022-05-15": 1835,
-  "2022-05-16": 1835,
-  "2022-05-17": 1835,
-  "2022-05-18": 1835,
-  "2022-05-19": 1835,
-  "2022-05-20": 1835,
-  "2022-05-21": 1835,
-  "2022-05-22": 1835,
-  "2022-05-23": 1835,
-  "2022-05-24": 1835,
-  "2022-05-25": 1835,
-  "2022-05-26": 1835,
-  "2022-05-27": 1835,
-  "2022-05-28": 1835,
-  "2022-05-29": 1835,
-  "2022-05-30": 1835,
-  "2022-05-31": 1835,
-  "2022-06-01": 1835,
-  "2022-06-02": 1835,
-  "2022-06-03": 1835,
-  "2022-06-04": 1835,
-  "2022-06-05": 1835,
-  "2022-06-06": 1835,
-  "2022-06-07": 1835,
-  "2022-06-08": 1835,
-  "2022-06-09": 1835,
-  "2022-06-10": 1835,
-  "2022-06-11": 1835,
-  "2022-06-12": 1835,
-  "2022-06-13": 1835,
-  "2022-06-14": 1835,
-  "2022-06-15": 1835,
-  "2022-06-16": 1835,
-  "2022-06-17": 1835,
-  "2022-06-18": 1835,
-  "2022-06-19": 1835,
-  "2022-06-20": 1835,
-  "2022-06-21": 1835,
-  "2022-06-22": 1835,
-  "2022-06-23": 1835,
-  "2022-06-24": 1835,
-  "2022-06-25": 1835,
-  "2022-06-26": 1835,
-  "2022-06-27": 1835,
-  "2022-06-28": 1835,
-  "2022-06-29": 1835,
-  "2022-06-30": 1835,
-  "2022-07-01": 1835,
-  "2022-07-02": 1835,
-  "2022-07-03": 1835,
-  "2022-07-04": 1835,
-  "2022-07-05": 1835,
-  "2022-07-06": 1835,
-  "2022-07-07": 1835,
-  "2022-07-08": 1835,
-  "2022-07-09": 1835,
-  "2022-07-10": 1835,
-  "2022-07-11": 1835,
-  "2022-07-12": 1835,
-  "2022-07-13": 1835,
-  "2022-07-14": 1835,
-  "2022-07-15": 1835,
-  "2022-07-16": 1835,
-  "2022-07-17": 1835,
-  "2022-07-18": 1835,
-  "2022-07-19": 1835,
-  "2022-07-20": 1835,
-  "2022-07-21": 1835,
-  "2022-07-22": 1835,
-  "2022-07-23": 1835,
-  "2022-07-24": 1835,
-  "2022-07-25": 1835,
-  "2022-07-26": 1835,
-  "2022-07-27": 1835,
-  "2022-07-28": 1835,
-  "2022-07-29": 1835,
-  "2022-07-30": 1835,
-  "2022-07-31": 1835,
-  "2022-08-01": 1835,
-  "2022-08-02": 1835,
-  "2022-08-03": 1835,
-  "2022-08-04": 1835,
-  "2022-08-05": 1835,
-  "2022-08-06": 1835,
-  "2022-08-07": 1835,
-  "2022-08-08": 1835,
-  "2022-08-09": 1835,
-  "2022-08-10": 1835,
-  "2022-08-11": 1835,
-  "2022-08-12": 1835,
-  "2022-08-13": 1835,
-  "2022-08-14": 1835,
-  "2022-08-15": 1835,
-  "2022-08-16": 1835,
-  "2022-08-17": 1835,
-  "2022-08-18": 1835,
-  "2022-08-19": 1835,
-  "2022-08-20": 1835,
-  "2022-08-21": 1835,
-  "2022-08-22": 1835,
-  "2022-08-23": 1835,
-  "2022-08-24": 1835,
-  "2022-08-25": 1835,
-  "2022-08-26": 1835,
-  "2022-08-27": 1835,
-  "2022-08-28": 1835,
-  "2022-08-29": 1835,
-  "2022-08-30": 1835,
-  "2022-08-31": 1835,
-  "2022-09-01": 1835,
-  "2022-09-02": 1835,
-  "2022-09-03": 1835,
-  "2022-09-04": 1835,
-  "2022-09-05": 1835,
-  "2022-09-06": 1835,
-  "2022-09-07": 1835,
-  "2022-09-09": 1835,
-  "2022-09-10": 1835,
-  "2022-09-11": 1835,
-  "2022-09-12": 1835,
-  "2022-09-13": 1835,
-  "2022-09-15": 1835,
-  "2022-09-16": 1835,
-  "2022-09-17": 1835,
-  "2022-09-18": 1835,
-  "2022-09-19": 1835,
-  "2022-09-20": 1835,
-  "2022-09-21": 1835,
-  "2022-09-22": 1835,
-  "2022-09-23": 1835,
-  "2022-09-24": 1835,
-  "2022-09-25": 1835,
-  "2022-09-26": 1835,
-  "2022-09-27": 1835,
-  "2022-09-28": 1835,
-  "2022-09-29": 1835,
-  "2022-09-30": 1835,
-  "2022-10-01": 1835,
-  "2022-10-02": 1835,
-  "2022-10-03": 1835,
-  "2022-10-04": 1835,
-  "2022-10-05": 1835,
-  "2022-10-06": 1835,
-  "2022-10-07": 1835,
-  "2022-10-08": 1835,
-  "2022-10-09": 1835,
-  "2022-10-10": 1835,
-  "2022-10-11": 1835,
-  "2022-10-12": 1835,
-  "2022-10-13": 1835,
-  "2022-10-14": 1835,
-  "2022-10-15": 1835,
-  "2022-10-16": 1835,
-  "2022-10-17": 1835,
-  "2022-10-18": 1835,
-  "2022-10-19": 1835,
-  "2022-10-20": 1835,
-  "2022-10-21": 1835,
-  "2022-10-22": 1835,
-  "2022-10-23": 1835,
-  "2022-10-24": 1835,
-  "2022-10-25": 1835,
-  "2022-10-26": 1835,
-  "2022-10-27": 1835,
-  "2022-10-28": 1835,
-  "2022-10-29": 1835,
-  "2022-10-30": 1835,
-  "2022-10-31": 1835,
-  "2022-11-01": 1835,
-  "2022-11-02": 1835,
-  "2022-11-03": 1835,
-  "2022-11-04": 1835,
-  "2022-11-05": 1835,
-  "2022-11-06": 1835,
-  "2022-11-07": 1835,
-  "2022-11-08": 1835,
-  "2022-11-09": 1835,
-  "2022-11-10": 1835,
-  "2022-11-11": 1835,
-  "2022-11-12": 1835,
-  "2022-11-13": 1835,
-  "2022-11-14": 1835,
-  "2022-11-15": 1835,
-  "2022-11-16": 1835,
-  "2022-11-17": 1835,
-  "2022-11-18": 1835,
-  "2022-11-19": 1835,
-  "2022-11-20": 1835,
-  "2022-11-21": 1835,
-  "2022-11-22": 1835,
-  "2022-11-23": 1835,
-  "2022-11-24": 1835,
-  "2022-11-25": 1835,
-  "2022-11-26": 1835,
-  "2022-11-27": 1835,
-  "2022-11-28": 1835,
-  "2022-11-29": 1835,
-  "2022-11-30": 1835,
-  "2022-12-01": 1835,
-  "2022-12-02": 1835,
-  "2022-12-03": 1835,
-  "2022-12-04": 1835,
-  "2022-12-05": 1835,
-  "2022-12-06": 1835,
-  "2022-12-07": 1835,
-  "2022-12-08": 1835,
-  "2022-12-09": 1835,
-  "2022-12-10": 1835,
-  "2022-12-11": 1835,
-  "2022-12-12": 1835,
-  "2022-12-13": 1835,
-  "2022-12-14": 1835,
-  "2022-12-15": 1835,
-  "2022-12-16": 1835,
-  "2022-12-17": 1835,
-  "2022-12-18": 1835,
-  "2022-12-19": 1835,
-  "2022-12-20": 1835,
-  "2022-12-21": 1835,
-  "2022-12-22": 1835,
-  "2022-12-24": 1835,
-  "2022-12-25": 1835,
-  "2022-12-26": 1835,
-  "2022-12-27": 1835,
-  "2022-12-28": 1835,
-  "2022-12-29": 1835,
-  "2022-12-30": 1835,
-  "2022-12-31": 1835,
-  "2023-01-01": 1835,
-  "2023-01-02": 1835,
-  "2023-01-03": 1835,
-  "2023-01-04": 1835,
-  "2023-01-05": 1835,
-  "2023-01-06": 1835,
-  "2023-01-07": 1835,
-  "2023-01-08": 1835,
-  "2023-01-09": 1835,
-  "2023-01-10": 1835,
-  "2023-01-11": 1835,
-  "2023-01-12": 1835,
-  "2023-01-13": 1835,
-  "2023-01-14": 1835,
-  "2023-01-15": 1835,
-  "2023-01-16": 1835,
-  "2023-01-17": 1835,
-  "2023-01-18": 1835,
-  "2023-01-19": 1835,
-  "2023-01-20": 1835,
-  "2023-01-21": 1835,
-  "2023-01-22": 1835,
-  "2023-01-23": 1835,
-  "2023-01-24": 1835,
-  "2023-01-25": 1835,
-  "2023-01-26": 1835,
-  "2023-01-27": 1835,
-  "2023-01-28": 1835,
-  "2023-01-29": 1835,
-  "2023-01-30": 1835,
-  "2023-01-31": 1835,
-  "2023-02-01": 1835,
-  "2023-02-02": 1835,
-  "2023-02-03": 1835,
-  "2023-02-04": 1835,
-  "2023-02-05": 1835,
-  "2023-02-06": 1835,
-  "2023-02-07": 1835,
-  "2023-02-08": 1835,
-  "2023-02-09": 1835,
-  "2023-02-10": 1835,
-  "2023-02-11": 1835,
-  "2023-02-12": 1835,
-  "2023-02-13": 1835,
-  "2023-02-14": 1835,
-  "2023-02-15": 1835,
-  "2023-02-16": 1835,
-  "2023-02-17": 1835,
-  "2023-02-18": 1835,
-  "2023-02-19": 1835,
-  "2023-02-20": 1835,
-  "2023-02-21": 1835,
-  "2023-02-22": 1835,
-  "2023-02-23": 1835,
-  "2023-02-24": 1835,
-  "2023-02-25": 1835,
-  "2023-02-26": 1835,
-  "2023-02-27": 1835,
-  "2023-02-28": 1835,
-  "2023-03-01": 1835,
-  "2023-03-02": 1835,
-  "2023-03-03": 1835,
-  "2023-03-04": 1835,
-  "2023-03-05": 1835,
-  "2023-03-06": 1835,
-  "2023-03-07": 1835,
-  "2023-03-08": 1835,
-  "2023-03-09": 1835,
-  "2023-03-10": 1835,
-  "2023-03-11": 1835,
-  "2023-03-12": 1835,
-  "2023-03-13": 1835,
-  "2023-03-14": 1835,
-  "2023-03-15": 1835,
-  "2023-03-16": 1835,
-  "2023-03-17": 1835,
-  "2023-03-18": 1835,
-  "2023-03-19": 1835,
-  "2023-03-20": 1835,
-  "2023-03-21": 1835,
-  "2023-03-22": 1835,
-  "2023-03-23": 1835,
-  "2023-03-24": 1835,
-  "2023-03-25": 1835,
-  "2023-03-26": 1835,
-  "2023-03-27": 1835,
-  "2023-03-28": 1835,
-  "2023-03-29": 1835,
-  "2023-03-30": 1835,
-  "2023-03-31": 1835,
-  "2023-04-01": 1835,
-  "2023-04-02": 1835,
-  "2023-04-03": 1835,
-  "2023-04-04": 1835,
-  "2023-04-05": 1835,
-  "2023-04-06": 1835,
-  "2023-04-07": 1835,
-  "2023-04-09": 1835,
-  "2023-04-10": 1835,
-  "2023-04-11": 1835,
-  "2023-04-12": 1835,
-  "2023-04-13": 1835,
-  "2023-04-14": 1835,
-  "2023-04-15": 1835,
-  "2023-04-16": 1835,
-  "2023-04-17": 1835,
-  "2023-04-18": 1835,
-  "2023-04-19": 1835,
-  "2023-04-20": 1835,
-  "2023-04-21": 1835,
-  "2023-04-22": 1835,
-  "2023-04-23": 1835,
-  "2023-04-24": 1835,
-  "2023-04-25": 1835,
-  "2023-04-26": 1835,
-  "2023-04-27": 1835,
-  "2023-04-28": 1835,
-  "2023-04-29": 1835,
-  "2023-04-30": 1835,
-  "2023-05-01": 1835,
-  "2023-05-02": 1835,
-  "2023-05-03": 1835,
-  "2023-05-04": 1835,
-  "2023-05-05": 1835,
-  "2023-05-06": 1835,
-  "2023-05-07": 1835,
-  "2023-05-08": 1835,
-  "2023-05-09": 1835,
-  "2023-05-10": 1835,
-  "2023-05-11": 1835,
-  "2023-05-12": 1835,
-  "2023-05-13": 1835,
-  "2023-05-14": 1835,
-  "2023-05-15": 1835,
-  "2023-05-16": 1835,
-  "2023-05-17": 1835,
-  "2023-05-18": 1835,
-  "2023-05-19": 1835,
-  "2023-05-20": 1835,
-  "2023-05-21": 1835,
-  "2023-05-22": 1835,
-  "2023-05-23": 1835,
-  "2023-05-24": 1835,
-  "2023-05-25": 1835,
-  "2023-05-26": 1835,
-  "2023-05-27": 1835,
-  "2023-05-28": 1835,
-  "2023-05-29": 1835,
-  "2023-05-30": 1835,
-  "2023-05-31": 1835,
-  "2023-06-01": 1835,
-  "2023-06-02": 1835,
-  "2023-06-03": 1835,
-  "2023-06-04": 1835,
-  "2023-06-05": 1835,
-  "2023-06-06": 1835,
-  "2023-06-07": 1835,
-  "2023-06-08": 1835,
-  "2023-06-09": 1835,
-  "2023-06-10": 1835,
-  "2023-06-11": 1835,
-  "2023-06-12": 1835,
-  "2023-06-13": 1835,
-  "2023-06-14": 1835,
-  "2023-06-15": 1835,
-  "2023-06-16": 1835,
-  "2023-06-17": 1835,
-  "2023-06-18": 1835,
-  "2023-06-19": 1835,
-  "2023-06-20": 1835,
-  "2023-06-21": 1835,
-  "2023-06-22": 1835,
-  "2023-06-23": 1835,
-  "2023-06-24": 1835,
-  "2023-06-25": 1835,
-  "2023-06-26": 1835,
-  "2023-06-27": 1835,
-  "2023-06-28": 1835,
-  "2023-06-29": 1835,
-  "2023-06-30": 1835,
-  "2023-07-01": 1835,
-  "2023-07-02": 1835,
-  "2023-07-03": 1835,
-  "2023-07-04": 1835,
-  "2023-07-05": 1835,
-  "2023-07-06": 1835,
-  "2023-07-07": 1835,
-  "2023-07-08": 1835,
-  "2023-07-09": 1835,
-  "2023-07-10": 1835,
-  "2023-07-11": 1835,
-  "2023-07-12": 1835,
-  "2023-07-13": 1835,
-  "2023-07-14": 1835,
-  "2023-07-15": 1835,
-  "2023-07-16": 1835,
-  "2023-07-17": 1835,
-  "2023-07-18": 1835,
-  "2023-07-19": 1835,
-  "2023-07-20": 1835,
-  "2023-07-21": 1835,
-  "2023-07-22": 1835,
-  "2023-07-23": 1835,
-  "2023-07-24": 1835,
-  "2023-07-25": 1835,
-  "2023-07-26": 1835,
-  "2023-07-27": 1835,
-  "2023-07-28": 1835,
-  "2023-07-29": 1835,
-  "2023-07-30": 1835,
-  "2023-07-31": 1835,
-  "2023-08-01": 1835,
-  "2023-08-02": 1835,
-  "2023-08-03": 1835,
-  "2023-08-04": 1835,
-  "2023-08-05": 1835,
-  "2023-08-06": 1835,
-  "2023-08-07": 1835,
-  "2023-08-08": 1835,
-  "2023-08-09": 1835,
-  "2023-08-10": 1835,
-  "2023-08-11": 1835,
-  "2023-08-12": 1835,
-  "2023-08-13": 1835,
-  "2023-08-14": 1835,
-  "2023-08-15": 1835,
-  "2023-08-16": 1835,
-  "2023-08-17": 1835,
-  "2023-08-18": 1835,
-  "2023-08-19": 1835,
-  "2023-08-20": 1835,
-  "2023-08-21": 1835,
-  "2023-08-22": 1835,
-  "2023-08-23": 1835,
-  "2023-08-24": 1835,
-  "2023-08-25": 1835,
-  "2023-08-26": 1835,
-  "2023-08-27": 1835,
-  "2023-08-28": 1835,
-  "2023-08-29": 1835,
-  "2023-08-30": 1835,
-  "2023-08-31": 1835,
-  "2023-09-01": 1835,
-  "2023-09-02": 1835,
-  "2023-09-03": 1835,
-  "2023-09-04": 1835,
-  "2023-09-05": 1835,
-  "2023-09-06": 1835,
-  "2023-09-07": 1835,
-  "2023-09-08": 1835,
-  "2023-09-09": 1835,
-  "2023-09-10": 1835,
-  "2023-09-11": 1835,
-  "2023-09-12": 1835,
-  "2023-09-13": 1835,
-  "2023-09-14": 1835,
-  "2023-09-15": 1835,
-  "2023-09-16": 1835,
-  "2023-09-17": 1835,
-  "2023-09-18": 1835,
-  "2023-09-19": 1835,
-  "2023-09-20": 1835,
-  "2023-09-21": 1835,
-  "2023-09-22": 1835,
-  "2023-09-23": 1835,
-  "2023-09-24": 1835,
-  "2023-09-25": 1835,
-  "2023-09-26": 1835,
-  "2023-09-27": 1835,
-  "2023-09-28": 1835,
-  "2023-09-29": 1835,
-  "2023-09-30": 1835,
-  "2023-10-01": 1835,
-  "2023-10-02": 1835,
-  "2023-10-03": 1835,
-  "2023-10-04": 1835,
-  "2023-10-05": 1835,
-  "2023-10-06": 1835,
-  "2023-10-07": 1835,
-  "2023-10-08": 1835,
-  "2023-10-09": 1835,
-  "2023-10-10": 1835,
-  "2023-10-11": 1835,
-  "2023-10-12": 1835,
-  "2023-10-13": 1835,
-  "2023-10-14": 1835,
-  "2023-10-15": 1835,
-  "2023-10-16": 1835,
-  "2023-10-17": 1835,
-  "2023-10-18": 1835,
-  "2023-10-19": 1835,
-  "2023-10-20": 1835,
-  "2023-10-21": 1835,
-  "2023-10-22": 1835,
-  "2023-10-23": 1835,
-  "2023-10-24": 1835,
-  "2023-10-25": 1835,
-  "2023-10-26": 1835,
-  "2023-10-27": 1835,
-  "2023-10-28": 1835,
-  "2023-10-29": 1835,
-  "2023-10-30": 1835,
-  "2023-10-31": 1835,
-  "2023-11-01": 1835,
-  "2023-11-02": 1835,
-  "2023-11-03": 1835,
-  "2023-11-04": 1835,
-  "2023-11-05": 1835,
-  "2023-11-06": 1835,
-  "2023-11-07": 1835,
-  "2023-11-08": 1835,
-  "2023-11-09": 1835,
-  "2023-11-10": 1835,
-  "2023-11-11": 1835,
-  "2023-11-12": 1835,
-  "2023-11-13": 1835,
-  "2023-11-14": 1835,
-  "2023-11-15": 1835,
-  "2023-11-16": 1835,
-  "2023-11-17": 1835,
-  "2023-11-18": 1835,
-  "2023-11-19": 1835,
-  "2023-11-20": 1835,
-  "2023-11-21": 1835,
-  "2023-11-22": 1835,
-  "2023-11-23": 1835,
-  "2023-11-24": 1835,
-  "2023-11-25": 1835,
-  "2023-11-26": 1835,
-  "2023-11-27": 1835,
-  "2023-11-28": 1835,
-  "2023-11-29": 1835,
-  "2023-11-30": 1835,
-  "2023-12-01": 1835,
-  "2023-12-02": 1835,
-  "2023-12-03": 1835,
-  "2023-12-04": 1835,
-  "2023-12-05": 1835,
-  "2023-12-06": 1835,
-  "2023-12-07": 1835,
-  "2023-12-08": 1835,
-  "2023-12-09": 1835,
-  "2023-12-10": 1835,
-  "2023-12-11": 1835,
-  "2023-12-12": 1835,
-  "2023-12-13": 1835,
-  "2023-12-14": 1835,
-  "2023-12-15": 1835,
-  "2023-12-16": 1835,
-  "2023-12-17": 1835,
-  "2023-12-18": 1835,
-  "2023-12-19": 1835,
-  "2023-12-20": 1835,
-  "2023-12-21": 1835,
-  "2023-12-22": 1835,
-  "2023-12-23": 1835,
-  "2023-12-24": 1835,
-  "2023-12-25": 1835,
-  "2023-12-26": 1835,
-  "2023-12-27": 1835,
-  "2023-12-30": 1835,
-  "2023-12-31": 1835,
-  "2024-01-01": 1835,
-  "2024-01-02": 1835,
-  "2024-01-03": 1835
+  "2024-01-17": 1835,
+  "date_first_scraped": "2021-12-28",
+  "description": "Explore the rich string quartet repertoire in this collection of 101 sublime pieces from 101 composers, performed by 101 outstanding ensembles. From baroque works that paved the way for the genre, classical and romantic era masterpieces, to many splendid 20/21st century compositions, from all over the world.",
+  "name": "String Quartet 101",
+  "tracks": [
+    {
+      "album": {
+        "name": "Szymanowski: String Quartets / Stravinsky: Concertino",
+        "url": "https://open.spotify.com/album/0s73O7CUluF3pafA2DvFxY"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Goldner String Quartet",
+          "url": "https://open.spotify.com/artist/6VKcLgN5JFIdercEcaTmAS"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253893,
+      "name": "3 Pieces for String Quartet: No. 3",
+      "url": "https://open.spotify.com/track/5I290s0CuzQ7tTh3tA8OdS"
+    },
+    {
+      "album": {
+        "name": "Kurtag: Complete Works for String Quartet",
+        "url": "https://open.spotify.com/album/4jThJDO9wKEMEICPgoG0Lo"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Kurt\u00e1g",
+          "url": "https://open.spotify.com/artist/1ygboTdafDwlY7TUYEj37E"
+        },
+        {
+          "name": "Athena String Quartet",
+          "url": "https://open.spotify.com/artist/39lBjeGgan6QtFJa6XsL8n"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "6 Moments musicaux, Op. 44: No. 6. Les adieux (in Janaceks manier)",
+      "url": "https://open.spotify.com/track/6KOv6QCAjRwLdwWNFsOB9n"
+    },
+    {
+      "album": {
+        "name": "Asian Music for String Quartet",
+        "url": "https://open.spotify.com/album/2YudYL9aDKM4tvdoQedPeN"
+      },
+      "artists": [
+        {
+          "name": "Toru Takemitsu",
+          "url": "https://open.spotify.com/artist/5p6TCmGe9IygOnvamIaZpA"
+        },
+        {
+          "name": "New Zealand String Quartet",
+          "url": "https://open.spotify.com/artist/26HQzcLVZCRKDBjxTkpOeK"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 703093,
+      "name": "A Way a Lone",
+      "url": "https://open.spotify.com/track/2BxxtO6XS7MScvXsPmBYRz"
+    },
+    {
+      "album": {
+        "name": "Berg, A.: Lyric Suite / Dutilleux, H.: Ainsi La Nuit / Webern, A.: Langsamer Satz",
+        "url": "https://open.spotify.com/album/16GbD3qC52LsvxIQePfOAc"
+      },
+      "artists": [
+        {
+          "name": "Henri Dutilleux",
+          "url": "https://open.spotify.com/artist/3A5qNDgaeTFBD5pDxSvlJ0"
+        },
+        {
+          "name": "Ludwig Quartet",
+          "url": "https://open.spotify.com/artist/39r3FZs7ZqOIa3U2kuhsLX"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466426,
+      "name": "Ainsi la nuit: I. Nocturne - II. Miroir d'espace - III. Litanies",
+      "url": "https://open.spotify.com/track/0l48h8nqqhDOBvC3FyTY01"
+    },
+    {
+      "album": {
+        "name": "An Exaltation of Larks",
+        "url": "https://open.spotify.com/album/7irhxdnYxPHjSroAGZU9IR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Higdon",
+          "url": "https://open.spotify.com/artist/74DKkK5qRjAcHfifGufH4b"
+        },
+        {
+          "name": "Blair McMillen",
+          "url": "https://open.spotify.com/artist/4QLhtqI4lLJFZqx5hX0Eoe"
+        },
+        {
+          "name": "Gary Graffman",
+          "url": "https://open.spotify.com/artist/3zLWEngWeXSzXzvZxQJP0O"
+        },
+        {
+          "name": "Todd Palmer",
+          "url": "https://open.spotify.com/artist/565P3ziXGxpI2q8dRyAE1h"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965026,
+      "name": "An Exaltation of Larks",
+      "url": "https://open.spotify.com/track/1MJ8Ry85GImx4LwChmfzDG"
+    },
+    {
+      "album": {
+        "name": "The Twenty-Fifth Hour: The Chamber Music of Thomas Ad\u00e8s",
+        "url": "https://open.spotify.com/album/0gA18Dwq9chk3k7NP7VsoI"
+      },
+      "artists": [
+        {
+          "name": "Thomas Ad\u00e8s",
+          "url": "https://open.spotify.com/artist/4F7KfJQw9lIXvFydi4TOyi"
+        },
+        {
+          "name": "Calder Quartet",
+          "url": "https://open.spotify.com/artist/7CRr5a9zEn4PUKYGnptHCw"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "Arcadiana: VI. O Albion",
+      "url": "https://open.spotify.com/track/6MuIlfUOPjUdWujl7ZGupD"
+    },
+    {
+      "album": {
+        "name": "Haydn/Berio - String Quartets",
+        "url": "https://open.spotify.com/album/5H2RXObH1UoZqpbWB1uGYP"
+      },
+      "artists": [
+        {
+          "name": "Luciano Berio",
+          "url": "https://open.spotify.com/artist/5M1ZBrPeHjV8y3qFKnq7hO"
+        },
+        {
+          "name": "Alban Berg Quartett",
+          "url": "https://open.spotify.com/artist/39bcPlnQijRpADa2yk6SGS"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1369893,
+      "name": "Berio: Notturno (Quartetto III) [Live at Queen Elizabeth Hall, London, 1994]",
+      "url": "https://open.spotify.com/track/0w7rkHe6mYXVUqROS977O2"
+    },
+    {
+      "album": {
+        "name": "Hosokawa: String Quartets",
+        "url": "https://open.spotify.com/album/3OW6ujoO80jYPGiifMrjFM"
+      },
+      "artists": [
+        {
+          "name": "Toshio Hosokawa",
+          "url": "https://open.spotify.com/artist/7CVjE65ZnFdMQL7RzK7Nnt"
+        },
+        {
+          "name": "Quatuor Diotima",
+          "url": "https://open.spotify.com/artist/20IVgPE6mplGk2pUYlhRYU"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 844333,
+      "name": "Blossoming",
+      "url": "https://open.spotify.com/track/3IgngGtPYO1WIBwL1CtAoS"
+    },
+    {
+      "album": {
+        "name": "Britten: String Quartets Nos 1-3 & 3 Divertimenti",
+        "url": "https://open.spotify.com/album/71f5HQXpXG8kIEmZBhW1Tu"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Endellion String Quartet",
+          "url": "https://open.spotify.com/artist/1jZGb7wdNVHUedPTAP0GSN"
+        }
+      ],
+      "date_added": "2017-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570866,
+      "name": "Britten: String Quartet No. 3, Op. 94: V. Recitative & Passacaglia (La Serenissima)",
+      "url": "https://open.spotify.com/track/5q6UB0km8X63zsdNVnzm1f"
+    },
+    {
+      "album": {
+        "name": "Fairouz: Native Informant",
+        "url": "https://open.spotify.com/album/5ou731vrAACsa4LgHB9CDx"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Fairouz",
+          "url": "https://open.spotify.com/artist/54pBUxJmS6K0O1JGOPwiDf"
+        },
+        {
+          "name": "Borromeo String Quartet",
+          "url": "https://open.spotify.com/artist/30k75p9zpsXTx3XO1SCl99"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343306,
+      "name": "Chorale Fantasy",
+      "url": "https://open.spotify.com/track/13cbIXvRsotGo7rFRBwmZY"
+    },
+    {
+      "album": {
+        "name": "Galuppi: Concerti \u00e0 4",
+        "url": "https://open.spotify.com/album/575STbsqtBKPo8YVfZOkQ7"
+      },
+      "artists": [
+        {
+          "name": "Baldassare Galuppi",
+          "url": "https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT"
+        },
+        {
+          "name": "Aglaia Ensemble",
+          "url": "https://open.spotify.com/artist/6ZxEOEUhodLIF4bjk0QAgV"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "Concerto \u00e0 4 No. 1 in G Minor: III. Allegro",
+      "url": "https://open.spotify.com/track/4h3CfCPUsM2cQooxqU4QJA"
+    },
+    {
+      "album": {
+        "name": "In the South",
+        "url": "https://open.spotify.com/album/0H12Wm4LuQuGs2S9C5cBho"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Brodsky Quartet",
+          "url": "https://open.spotify.com/artist/4H0zGQILA7vJKl0ot2OYBf"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442893,
+      "name": "Crisantemi",
+      "url": "https://open.spotify.com/track/541xQgpeXQOsw696DYlXn5"
+    },
+    {
+      "album": {
+        "name": "Ben Johnston: String Quartets Nos. 2, 3, 4, & 9",
+        "url": "https://open.spotify.com/album/44iAGEblRQbz9vLbrEhEX6"
+      },
+      "artists": [
+        {
+          "name": "Ben Johnston",
+          "url": "https://open.spotify.com/artist/075OzURxftv1bWToNH91E5"
+        },
+        {
+          "name": "Sharan Leventhal",
+          "url": "https://open.spotify.com/artist/7GYFpeJBvbx0proglfO3Zp"
+        },
+        {
+          "name": "Eric Segnitz",
+          "url": "https://open.spotify.com/artist/2C3edjfHKUQAomgmviLgLp"
+        },
+        {
+          "name": "Brek Renzelman",
+          "url": "https://open.spotify.com/artist/6dWDKKUkZLv2LJVOa5CYxo"
+        },
+        {
+          "name": "Karl Lavine",
+          "url": "https://open.spotify.com/artist/3ErkY1PQzQloV0zjKHlbO3"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634400,
+      "name": "Crossings: The Ascent, String Quartet No. 4, Amazing Grace",
+      "url": "https://open.spotify.com/track/4jaIcLz6wAcGCDAVnx4x6U"
+    },
+    {
+      "album": {
+        "name": "Debussy, Dutilleux & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/00PgELS3TnenZZtCeWqSFG"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Belcea Quartet",
+          "url": "https://open.spotify.com/artist/3w7DwDLRBfI6SfZnLVj7AB"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "Debussy: String Quartet in G Minor, Op. 10, CD 91, L. 85: I. Anim\u00e9 et tr\u00e8s d\u00e9cid\u00e9",
+      "url": "https://open.spotify.com/track/7xVe34ISJHMWoMQm2pthok"
+    },
+    {
+      "album": {
+        "name": "Different Trains",
+        "url": "https://open.spotify.com/album/41bSXp4lMnks7g91U9ic6K"
+      },
+      "artists": [
+        {
+          "name": "Steve Reich",
+          "url": "https://open.spotify.com/artist/1aVONoJ0EM97BB26etc1vo"
+        },
+        {
+          "name": "The Smith Quartet",
+          "url": "https://open.spotify.com/artist/5ezYVqpTT1oJ9iCsPD1HjH"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628573,
+      "name": "Different Trains: After The War",
+      "url": "https://open.spotify.com/track/3EKtHDM9mPtnbsh8de5KEd"
+    },
+    {
+      "album": {
+        "name": "Sunrise of the Planetary Dream Collector",
+        "url": "https://open.spotify.com/album/2UxxjlRWyWovbWCZCOCpyu"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579293,
+      "name": "G Song",
+      "url": "https://open.spotify.com/track/6A0PC9wNdn0xvBIKnzVkRh"
+    },
+    {
+      "album": {
+        "name": "Fellow Traveler - The Complete String Quartet Works of John Adams",
+        "url": "https://open.spotify.com/album/76MhP9wR5CML55bQyRIeU9"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Attacca Quartet",
+          "url": "https://open.spotify.com/artist/5EUJNZmcXCk9vkeD9GjtzF"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391226,
+      "name": "John's Book of Alleged Dances: Pavane: She's So Fine",
+      "url": "https://open.spotify.com/track/3N08MjugFuqHKcfxrlFkCs"
+    },
+    {
+      "album": {
+        "name": "Jewish String Quartets",
+        "url": "https://open.spotify.com/album/7jCeNNHNGV6pzk408Sy8ws"
+      },
+      "artists": [
+        {
+          "name": "John Zorn",
+          "url": "https://open.spotify.com/artist/3gkJ7lXtLpE4KauFHpk2vK"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Perrin Yang",
+          "url": "https://open.spotify.com/artist/4qgvsueJ9NxNYxtBN9Uq5p"
+        },
+        {
+          "name": "George Taylor",
+          "url": "https://open.spotify.com/artist/4KADOOdHV342csfCrH4xsM"
+        },
+        {
+          "name": "Steven Doane",
+          "url": "https://open.spotify.com/artist/3JFyh0i6Mx6GjCaHrZ9G9r"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390066,
+      "name": "Kol Nidre",
+      "url": "https://open.spotify.com/track/0FeODIInJrxspXdb6wJKog"
+    },
+    {
+      "album": {
+        "name": "Mozetich, M.: Lament in the Trampled Garden",
+        "url": "https://open.spotify.com/album/5FuewcYALQzbUgNlnOHumw"
+      },
+      "artists": [
+        {
+          "name": "Marjan Mozetich",
+          "url": "https://open.spotify.com/artist/4gV2sJGkviSLAJY1ojI4Ps"
+        },
+        {
+          "name": "Penderecki String Quartet",
+          "url": "https://open.spotify.com/artist/26UZ3kgvb33yqfdbh3xV4J"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 782053,
+      "name": "Lament in the Trampled Garden",
+      "url": "https://open.spotify.com/track/1KUcR1e2O9gVADu9ZNxR86"
+    },
+    {
+      "album": {
+        "name": "Webern, Beethoven, Yun",
+        "url": "https://open.spotify.com/album/6kg41DF5iSTx0eq202lmVW"
+      },
+      "artists": [
+        {
+          "name": "Anton Webern",
+          "url": "https://open.spotify.com/artist/6cg7ooZDeSSLYVTWGpASjX"
+        },
+        {
+          "name": "Novus Quartet",
+          "url": "https://open.spotify.com/artist/6dcC2RM1yv7hd8DGUQ7f9o"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571013,
+      "name": "Langsamer Satz",
+      "url": "https://open.spotify.com/track/0R2qyLsZ2RGLTVuWYqaRWS"
+    },
+    {
+      "album": {
+        "name": "Amoroso: Jan\u00e1\u010dek: Quartet No. 1 - Berg: Lyric Suite - Webern: Langsamer Satz",
+        "url": "https://open.spotify.com/album/2129fHHLLj6kr25KfA6eTX"
+      },
+      "artists": [
+        {
+          "name": "Alban Berg",
+          "url": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+        },
+        {
+          "name": "Cecilia String Quartet",
+          "url": "https://open.spotify.com/artist/5EVxrthwU9hfv7MPlogwap"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Lyric Suite: I. Allegretto gioviale",
+      "url": "https://open.spotify.com/track/2ylBFnrrPsTVwuXOWEe7pz"
+    },
+    {
+      "album": {
+        "name": "Maxwell Davies, P.: Naxos Quartets Nos. 9 and 10",
+        "url": "https://open.spotify.com/album/6BWwZxdvtzmadFQyyBYpCJ"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Maggini Quartet",
+          "url": "https://open.spotify.com/artist/19EBfpy3q2Pj5WOxNeEIdX"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 643346,
+      "name": "Naxos Quartet No. 9: II. Largo flessibile",
+      "url": "https://open.spotify.com/track/63cxBY9KhKWDTMK91W72cv"
+    },
+    {
+      "album": {
+        "name": "Tavener : The last sleep of the Virgin & Thunder entered her",
+        "url": "https://open.spotify.com/album/4cbe6jYb8aSCifIgwIaCjZ"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Chilingirian Quartet",
+          "url": "https://open.spotify.com/artist/31Q9Bw9JjyG9ySC2d0aZa2"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274053,
+      "name": "P\u00e4rt: Summa for String Quartet",
+      "url": "https://open.spotify.com/track/2LOqH2a42gdMiHINgF45xc"
+    },
+    {
+      "album": {
+        "name": "Henry Cowell: Mosaic",
+        "url": "https://open.spotify.com/album/6ScsGMqbehmnAX3s8DHJc8"
+      },
+      "artists": [
+        {
+          "name": "Henry Cowell",
+          "url": "https://open.spotify.com/artist/0AMoPrd9OLxMC38dQPnSQA"
+        },
+        {
+          "name": "Colorado String Quartet",
+          "url": "https://open.spotify.com/artist/3WJeBAh06hF45JqjC0fmc2"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "Quartet Euphometric",
+      "url": "https://open.spotify.com/track/2y9DTUX8lwccOoNiLcVRfd"
+    },
+    {
+      "album": {
+        "name": "Belle Epoque - French Works for String Quartet",
+        "url": "https://open.spotify.com/album/055sjDGyhszcb6K9PMM4jE"
+      },
+      "artists": [
+        {
+          "name": "Darius Milhaud",
+          "url": "https://open.spotify.com/artist/6bwXuNL4AuC7w3AxspKXn6"
+        },
+        {
+          "name": "Galatea Quartet",
+          "url": "https://open.spotify.com/artist/7iBGJNUzLYumsW0drH1qN7"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315080,
+      "name": "Quatour \u00e0 cordes No. 1, Op. 5: II. Intime, contenu",
+      "url": "https://open.spotify.com/track/4tZm66QU0GZxWrZPgF4u0n"
+    },
+    {
+      "album": {
+        "name": "Jadin: Quatuors",
+        "url": "https://open.spotify.com/album/4O7ZE6ySa8Nw8uaDk4249c"
+      },
+      "artists": [
+        {
+          "name": "Hyacinthe Jadin",
+          "url": "https://open.spotify.com/artist/0JkOkTz9IA0hEaxOi33Xuq"
+        },
+        {
+          "name": "Quatuor Mosa\u00efques",
+          "url": "https://open.spotify.com/artist/36FfcyHQ19PvmvFnq8q7Ab"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569040,
+      "name": "Quatuor No 1 in C Major Op. 3: Allegro Moderato",
+      "url": "https://open.spotify.com/track/0S6LoTyrLKrNC2mZFAx88V"
+    },
+    {
+      "album": {
+        "name": "Boxe Boxe",
+        "url": "https://open.spotify.com/album/1FPez0ZsZpZQtPfKgsTw0I"
+      },
+      "artists": [
+        {
+          "name": "Henryk G\u00f3recki",
+          "url": "https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI"
+        },
+        {
+          "name": "Quatuor Debussy",
+          "url": "https://open.spotify.com/artist/4bfEWjehfwurFNBgOEl5J4"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357006,
+      "name": "Quatuor No. 2, Op. 64 \"Quasi una Fantasia\": Decisio - Energico - Marcatissimo sempre - Tranquillo",
+      "url": "https://open.spotify.com/track/4LZ62YfyuZ9wrpqbweXC3R"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k, Bart\u00f3k & Dohn\u00e1nyi",
+        "url": "https://open.spotify.com/album/0CnNk6zQDIGTFkvG0oU6qf"
+      },
+      "artists": [
+        {
+          "name": "Ernst von Dohn\u00e1nyi",
+          "url": "https://open.spotify.com/artist/4svbYK3Jck5FTklqYmeRPK"
+        },
+        {
+          "name": "Quatuor Modigliani",
+          "url": "https://open.spotify.com/artist/2fbteiPyBVLs1bq9Vw6ucK"
+        }
+      ],
+      "date_added": "2017-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 597346,
+      "name": "Quatuor \u00e0 cordes No. 3 en La Mineur, Op. 33: Quatuor \u00e0 cordes No. 3 en La Mineur, Op. 33: II. Andante religioso con variazioni",
+      "url": "https://open.spotify.com/track/6gUqkudLqWrw5xf2ZFamIM"
+    },
+    {
+      "album": {
+        "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
+        "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Quatuor \u00c9b\u00e8ne",
+          "url": "https://open.spotify.com/artist/2fFxNneQmtCTdIwEpfXnqe"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389213,
+      "name": "Ravel: String Quartet, M. 35: II. Assez vif - Tr\u00e8s rythm\u00e9",
+      "url": "https://open.spotify.com/track/5erj8jK6bq8MWFnDVv2HtI"
+    },
+    {
+      "album": {
+        "name": "Sea to Sea",
+        "url": "https://open.spotify.com/album/0TrxuM8UKBocyoCa6GLLfh"
+      },
+      "artists": [
+        {
+          "name": "Derek Charke",
+          "url": "https://open.spotify.com/artist/5zfqsOpQcybkmTVh4CDBZx"
+        },
+        {
+          "name": "St. Lawrence String Quartet",
+          "url": "https://open.spotify.com/artist/58YsnduEdytXyJYLELXpJk"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 797706,
+      "name": "Sepia Fragments",
+      "url": "https://open.spotify.com/track/42aHvPABiBgHHSuWaMlAJx"
+    },
+    {
+      "album": {
+        "name": "In the Moment: Short Pieces for String Quartet",
+        "url": "https://open.spotify.com/album/7mgk9B0ymMhjeRAN4KvC3z"
+      },
+      "artists": [
+        {
+          "name": "Hugo Wolf",
+          "url": "https://open.spotify.com/artist/3JvFTHGx6J55BUnjL8l04T"
+        },
+        {
+          "name": "Arabella Quartet",
+          "url": "https://open.spotify.com/artist/39tEYdXixvHhrV7NREZlOm"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395213,
+      "name": "Serenade in G Major, \"Italienische Serenade\" (Italian Serenade)",
+      "url": "https://open.spotify.com/track/5RaV95V0Kw9Nwmn0ijEbci"
+    },
+    {
+      "album": {
+        "name": "Armida Quartett: Fuga Magna",
+        "url": "https://open.spotify.com/album/1EZhWXs0p9yDC1sRqlct8F"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Scarlatti",
+          "url": "https://open.spotify.com/artist/5HGksnSVY91s4g1SOHHACw"
+        },
+        {
+          "name": "Armida Quartett",
+          "url": "https://open.spotify.com/artist/6jSc082t5MTgD0nxsAgjKF"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201666,
+      "name": "Sonata a quattro No. 4: I. Largo",
+      "url": "https://open.spotify.com/track/5lSrktpC65incAVqK04DQg"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn: String Quartet in A Minor, Op. 13 - Berg: Lyric Suite",
+        "url": "https://open.spotify.com/album/3BOQYy6RD7X4rKBWZE3iwB"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Tetzlaff Quartet",
+          "url": "https://open.spotify.com/artist/18VvueaAISlxixvIj2jQn3"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465285,
+      "name": "String Quartet in A Minor, Op. 13: String Quartet in A Minor, Op. 13: I. Adagio - Allegro vivace",
+      "url": "https://open.spotify.com/track/6ITp4sykeMzy1gaKlAWFOT"
+    },
+    {
+      "album": {
+        "name": "Schumann: String Quartets, Op. 41",
+        "url": "https://open.spotify.com/album/15PFKZZdZNBOtjXm3trrN1"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Eroica Quartet",
+          "url": "https://open.spotify.com/artist/6z96ueb7rJXW154he1m0xC"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238226,
+      "name": "String Quartet in A Minor, Op. 41 No. 1: String Quartet in A Minor, Op. 41 No. 1: II. Scherzo (Presto - Intermezzo)",
+      "url": "https://open.spotify.com/track/7rzAckMFKeIItyYRvtYPnf"
+    },
+    {
+      "album": {
+        "name": "Walton: String Quartets",
+        "url": "https://open.spotify.com/album/21AQP4y2NZyg1c3siEXxlo"
+      },
+      "artists": [
+        {
+          "name": "William Walton",
+          "url": "https://open.spotify.com/artist/6RsX7qYw5KVKiOjS8BxjL5"
+        },
+        {
+          "name": "Gabrieli String Quartet",
+          "url": "https://open.spotify.com/artist/1AQXiejnHAMaKOreCoiuf7"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599333,
+      "name": "String Quartet in A Minor: III. Lento",
+      "url": "https://open.spotify.com/track/0HhPRGm0XJZF83JKuacAFD"
+    },
+    {
+      "album": {
+        "name": "Richter: String Quartets Nos. 1-3 / Mozart: Bach Transcriptions for String Quartet",
+        "url": "https://open.spotify.com/album/1GSBmaDaOWX6aHvETwdJBK"
+      },
+      "artists": [
+        {
+          "name": "Franz Xaver Richter",
+          "url": "https://open.spotify.com/artist/3QyU1fkxw1jcYIy3V8Rn2e"
+        },
+        {
+          "name": "Rincontro Quartet",
+          "url": "https://open.spotify.com/artist/4mjWEakvvj7DLQVHXWbmLv"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333533,
+      "name": "String Quartet in B-Flat Major, Op. 5, No. 2: III. Fugato: Presto",
+      "url": "https://open.spotify.com/track/3T8obANgeagQSa40KwjCXG"
+    },
+    {
+      "album": {
+        "name": "Chausson: Concert for Violin, Piano and String Quartet - String Quartet",
+        "url": "https://open.spotify.com/album/4slQRzDyv4K8zARWVj2G75"
+      },
+      "artists": [
+        {
+          "name": "Ernest Chausson",
+          "url": "https://open.spotify.com/artist/4dadMoMQOTGa96FlnhEzCi"
+        },
+        {
+          "name": "Doric String Quartet",
+          "url": "https://open.spotify.com/artist/5eY6Yc7jVMpdIXgUI2spLr"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439400,
+      "name": "String Quartet in C Minor, Op. 35: II. Tres calme",
+      "url": "https://open.spotify.com/track/2m6042H20lOWojKlsLF9Uf"
+    },
+    {
+      "album": {
+        "name": "Franck, C.: String Quartet in D Major / Piano Quintet in F Minor",
+        "url": "https://open.spotify.com/album/2aAd0gMXg9QZ6EtM2R2iyS"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9sar Franck",
+          "url": "https://open.spotify.com/artist/1C3sffOOvQNUwg4YIsvKqy"
+        },
+        {
+          "name": "Fine Arts Quartet",
+          "url": "https://open.spotify.com/artist/0nTkbCsLXquVd1Dqtn1uBl"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 618733,
+      "name": "String Quartet in D Major, M. 9: III. Larghetto",
+      "url": "https://open.spotify.com/track/77C1wYpaQzPvTvw6MDg5aw"
+    },
+    {
+      "album": {
+        "name": "Schubert: Der Tod und das M\u00e4dchen",
+        "url": "https://open.spotify.com/album/52TpHWTzSBf8SRsvbpsPDz"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jerusalem Quartet",
+          "url": "https://open.spotify.com/artist/7AnE8Jpu1vxLeXcs6OKYHE"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543200,
+      "name": "String Quartet in D Minor, Op. posth. D.810 \"Death and the Maiden\": IV. Presto",
+      "url": "https://open.spotify.com/track/4Et5ML6PGUMcCJn59QEPEd"
+    },
+    {
+      "album": {
+        "name": "Death and the Maiden",
+        "url": "https://open.spotify.com/album/2W9dQsZRtquI8ehpCphlIz"
+      },
+      "artists": [
+        {
+          "name": "Jean Sibelius",
+          "url": "https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr"
+        },
+        {
+          "name": "Ehnes Quartet",
+          "url": "https://open.spotify.com/artist/66ZOS6eUUlaQ8zDSJO3EO8"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671413,
+      "name": "String Quartet in D Minor, \u2018Intimate Voices\u2019 Op. 56: III. Adagio di molto",
+      "url": "https://open.spotify.com/track/0JQMnf7uItT0eLS98qK2kL"
+    },
+    {
+      "album": {
+        "name": "Delius & Elgar: String Quartets",
+        "url": "https://open.spotify.com/album/0WpGqeDS6P8bFCOHAz8qCp"
+      },
+      "artists": [
+        {
+          "name": "Edward Elgar",
+          "url": "https://open.spotify.com/artist/430byzy0c5bPn5opiu0SRd"
+        },
+        {
+          "name": "Villiers Quartet",
+          "url": "https://open.spotify.com/artist/5pFzmf4IOwywB25yQqOJBM"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537600,
+      "name": "String Quartet in E Minor, Op. 83: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/0zffZ8fShyUwmsKeYzhxO5"
+    },
+    {
+      "album": {
+        "name": "Verdi / Tchaikovsky / Smetana: String Quartets",
+        "url": "https://open.spotify.com/album/6swMvu6qTV9phpwUxDQ7TY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Amadeus Quartet",
+          "url": "https://open.spotify.com/artist/76P71z1u6vn8zfQuDtnY7I"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454640,
+      "name": "String Quartet In E Minor: 1. Allegro",
+      "url": "https://open.spotify.com/track/2gatPIMLujqL95kfUUugYm"
+    },
+    {
+      "album": {
+        "name": "Strings Quartets by Felix & Fanny Mendelssohn",
+        "url": "https://open.spotify.com/album/3jBWJYGwwqTu4g8DPSlPNA"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Merel Quartet",
+          "url": "https://open.spotify.com/artist/5srI8h7Cq8Of5o44HpEonN"
+        }
+      ],
+      "date_added": "2017-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219240,
+      "name": "String Quartet in E-Flat Major: II. Allegretto",
+      "url": "https://open.spotify.com/track/6NJikVKDHBZRp6SGJQz4QJ"
+    },
+    {
+      "album": {
+        "name": "Nielsen, C.: String Quartets, Vol. 1",
+        "url": "https://open.spotify.com/album/2FmAncU2JT6sPRe3wTA87F"
+      },
+      "artists": [
+        {
+          "name": "Carl Nielsen",
+          "url": "https://open.spotify.com/artist/73I7vbj7hzsw8rW4LUoxtz"
+        },
+        {
+          "name": "Oslo Quartet",
+          "url": "https://open.spotify.com/artist/2CENWLcJKOSG2rL4sotGKh"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482533,
+      "name": "String Quartet in F Major, Op. 44, FS 36: I. Allegro non tanto e comodo",
+      "url": "https://open.spotify.com/track/5T3eVvvaORyrkXxFw2K9w0"
+    },
+    {
+      "album": {
+        "name": "Lutoslawski: String Quartet (1964) / Penderecki: Quartetto per archi (1960) / Mayuzumi: Prelude for String Quartet (1961) / Cage: String Quartet in Four Parts (1950)",
+        "url": "https://open.spotify.com/album/2hoU78cyXvMJlGMI3OW7PY"
+      },
+      "artists": [
+        {
+          "name": "John Cage",
+          "url": "https://open.spotify.com/artist/1Z3fF5lZdCM0ZHugkGoH8s"
+        },
+        {
+          "name": "LaSalle Quartet",
+          "url": "https://open.spotify.com/artist/1mIuhlEoWepcSBZp60nd57"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256066,
+      "name": "String Quartet in Four Parts: Quietly Flowing Along",
+      "url": "https://open.spotify.com/track/4Jy9tXL0dBHtZC82KQOcEv"
+    },
+    {
+      "album": {
+        "name": "Carter: The Five String Quartets",
+        "url": "https://open.spotify.com/album/5S7mRe1ADPrYVUfak9vmkv"
+      },
+      "artists": [
+        {
+          "name": "Elliott Carter",
+          "url": "https://open.spotify.com/artist/7IqwNdpG9USkkEH36pkKEB"
+        },
+        {
+          "name": "Juilliard String Quartet",
+          "url": "https://open.spotify.com/artist/10viy7E6l3QXaWVz1PuGGP"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572066,
+      "name": "String Quartet No. 1 (1951): I. Fantasia: Maestoso (quarter note=72) {m.1} *",
+      "url": "https://open.spotify.com/track/4Pm6RdKWwhdisexdLAhxJ3"
+    },
+    {
+      "album": {
+        "name": "Moeran: String Quartet No. 1 / Fantasy Quartet / Violin Sonata in E Minor",
+        "url": "https://open.spotify.com/album/7qAf94gjRSNaN0Z8JRVCOa"
+      },
+      "artists": [
+        {
+          "name": "Ernest John Moeran",
+          "url": "https://open.spotify.com/artist/6ERCyNYicU2GRfODcd6fHQ"
+        },
+        {
+          "name": "Melbourne Quartet",
+          "url": "https://open.spotify.com/artist/0iof9r0MBhLSUDgQkzoE0l"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569520,
+      "name": "String Quartet No. 1 in A Minor: I. Allegro",
+      "url": "https://open.spotify.com/track/3g39uycXmm8HMbZqEhJtU5"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: String Quartets Nos. 1 & 3",
+        "url": "https://open.spotify.com/album/32iNiEf8jWMvbiYGi2U3pk"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Heath Quartet",
+          "url": "https://open.spotify.com/artist/5MvZXG0LIbhA4XPss20Hvc"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394066,
+      "name": "String Quartet No. 1 in D Major, Op. 11: String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/7FPwihEQCzkxfdJi7Iy7WV"
+    },
+    {
+      "album": {
+        "name": "Cherubini: String Quartets Nos. 1 in E-Flat Major and 2 in C Major",
+        "url": "https://open.spotify.com/album/0xbvaW0rEaniZ1Eme9JlSg"
+      },
+      "artists": [
+        {
+          "name": "Luigi Cherubini",
+          "url": "https://open.spotify.com/artist/1SXRDJxjOty2T43t4gXAnk"
+        },
+        {
+          "name": "David Quartet",
+          "url": "https://open.spotify.com/artist/4EFYOFKq1JNjjTKVp8bkkT"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 718360,
+      "name": "String Quartet No. 1 in E-Flat Major: I. Adagio - Allegro agitato",
+      "url": "https://open.spotify.com/track/7xM1RTbKKKu2jw4T3s8s4f"
+    },
+    {
+      "album": {
+        "name": "Grieg, Thommessen & Sibelius: String Quartets",
+        "url": "https://open.spotify.com/album/48tTXSsQ4S5qm34LSlX5ch"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "The Engeg\u00e5rd Quartet",
+          "url": "https://open.spotify.com/artist/2CP5P27reDXcIxIfZw4IVo"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398066,
+      "name": "String Quartet No. 1 in G Minor, Op. 27: II. Romanze: Andantino - Allegro agitato",
+      "url": "https://open.spotify.com/track/0Boc6LyrGkqxtdLHpoMyD7"
+    },
+    {
+      "album": {
+        "name": "Ginastera / Dvorak / Shostakovich",
+        "url": "https://open.spotify.com/album/208eGB8O4BsRG9tnHr4X6J"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ginastera",
+          "url": "https://open.spotify.com/artist/08yq6CRUV0KSOn1J3t3vZk"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar String Quartet",
+          "url": "https://open.spotify.com/artist/1Khw0wTULBrc66NNEwq54p"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534133,
+      "name": "String Quartet No. 1, Op. 20: 3. Calmo e poetico",
+      "url": "https://open.spotify.com/track/2LmMX32dnpPV7crPfhBwq9"
+    },
+    {
+      "album": {
+        "name": "Leifs: String Quartets Nos. I-3",
+        "url": "https://open.spotify.com/album/2jg2VnpWvBDNyOjAKAPRXp"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3n Leifs",
+          "url": "https://open.spotify.com/artist/4AbbeRo7y2r9qnXXOwMArE"
+        },
+        {
+          "name": "The Yggdrasil Quartet",
+          "url": "https://open.spotify.com/artist/4nzi5qLAdlhbhGMjdWJr7l"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1052000,
+      "name": "String Quartet No. 1, Op. 21, \"Mors et vita\"",
+      "url": "https://open.spotify.com/track/4BeFKwzJagEKeDvHah90qS"
+    },
+    {
+      "album": {
+        "name": "Norgard, P.: String Quartets Nos. 7, 8, 9, 10",
+        "url": "https://open.spotify.com/album/7JyTU2UXV1LFskFksDuV4R"
+      },
+      "artists": [
+        {
+          "name": "Per N\u00f8rg\u00e5rd",
+          "url": "https://open.spotify.com/artist/10mzFTtKhsuZr5RWNBnJoY"
+        },
+        {
+          "name": "Kroger Quartet",
+          "url": "https://open.spotify.com/artist/7LC31G9VJFi3rdHYLuHx2j"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 820400,
+      "name": "String Quartet No. 10, \"Hosttidlos\" (Harvest Timeless): Allegro fluente",
+      "url": "https://open.spotify.com/track/4Wr28Ded0IqqlHkltqRMrI"
+    },
+    {
+      "album": {
+        "name": "R. Murray Schafer: 12 String Quartets",
+        "url": "https://open.spotify.com/album/5HFQiv11XZlLjoYyZxQ5LM"
+      },
+      "artists": [
+        {
+          "name": "R. Murray Schafer",
+          "url": "https://open.spotify.com/artist/497I5Pj2wS3M5ynasw1Fmf"
+        },
+        {
+          "name": "Molinari Quartet",
+          "url": "https://open.spotify.com/artist/5VHFI9N7eN51lqi48wFzwQ"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015640,
+      "name": "String Quartet No. 12",
+      "url": "https://open.spotify.com/track/2jw7mH4cC6DKuwmYTJnXh6"
+    },
+    {
+      "album": {
+        "name": "Dvor\u030c\u00e1k: American String Quartet & Quintet, Op. 96-97",
+        "url": "https://open.spotify.com/album/48x6JqIrcPPzbN8AydS2dQ"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "\u0160kampa Quartet",
+          "url": "https://open.spotify.com/artist/6vpf4VHLivdrVlO7yfaGwI"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427586,
+      "name": "String Quartet No. 12 in F Major, Op. 96 'The American': II. Lento",
+      "url": "https://open.spotify.com/track/2OMCOq8H6caZacNtcfYpxu"
+    },
+    {
+      "album": {
+        "name": "Myaskovsky: Complete String Quartets, Vol. 5: Nos. 12 & 13",
+        "url": "https://open.spotify.com/album/7qGgWjl6Uo2Pjm1vrY0nEW"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Myaskovsky",
+          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
+        },
+        {
+          "name": "Taneyev Quartet",
+          "url": "https://open.spotify.com/artist/7hlACqPoC2UueGaQ2DkdW4"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413333,
+      "name": "String Quartet No. 13 in A Minor, Op. 86: I. Moderato",
+      "url": "https://open.spotify.com/track/1k9ZjQyA1MVHBlLlawJGJZ"
+    },
+    {
+      "album": {
+        "name": "Sculthorpe: The Complete String Quartets with Didjeridu",
+        "url": "https://open.spotify.com/album/45j46uQSWtEAMDh0MlUdLc"
+      },
+      "artists": [
+        {
+          "name": "Peter Sculthorpe",
+          "url": "https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J"
+        },
+        {
+          "name": "Del Sol Quartet",
+          "url": "https://open.spotify.com/artist/5keTow3JGXZRACyDjl2tMH"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349480,
+      "name": "String Quartet No. 16: III. Yearning",
+      "url": "https://open.spotify.com/track/5fZsLSdf46EzQpyraICZZs"
+    },
+    {
+      "album": {
+        "name": "Mozart: String Quartets dedicated to Joseph Haydn (Extended Version)",
+        "url": "https://open.spotify.com/album/3Y7DzyldjGah4XAjUd6MSc"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cuarteto Casals",
+          "url": "https://open.spotify.com/artist/1FUwvrAST5IPF5fxqMz7vS"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 827533,
+      "name": "String Quartet No. 19 in C Major, K. 465 - \"Dissonances\": String Quartet No. 19 in C Major, K. 465 - \"Dissonances\": I. Adagio - Allegro - Extended Version",
+      "url": "https://open.spotify.com/track/4lZlwjVWioE0ftOiYmUmSs"
+    },
+    {
+      "album": {
+        "name": "Gubaidulina: Complete String Quartets",
+        "url": "https://open.spotify.com/album/16vvK9p2gMQD5MWfoAFhBm"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gubaidulina",
+          "url": "https://open.spotify.com/artist/2xcUqNAHTLVnHeK0YLA9IO"
+        },
+        {
+          "name": "Stamic Quartet",
+          "url": "https://open.spotify.com/artist/6pagFefNG4JUFeA3ghMuUF"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 491160,
+      "name": "String Quartet No. 2",
+      "url": "https://open.spotify.com/track/4vi2ejGurmyM8rOaCeHhog"
+    },
+    {
+      "album": {
+        "name": "Janacek: String Quartets Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6EVEuUJSjUegjNrrD7dBNJ"
+      },
+      "artists": [
+        {
+          "name": "Leo\u0161 Jan\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/46xXzoOdtD7SL2PTRq5irp"
+        },
+        {
+          "name": "Melos Quartet",
+          "url": "https://open.spotify.com/artist/0lKtzF4ocJKLhHVeBuCo2A"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458666,
+      "name": "String Quartet No. 2 \"Intimate Letters\": String Quartet No. 2 \"Intimate Letters\": IV. Allegro. Andante. Adagio",
+      "url": "https://open.spotify.com/track/73wwn5fLy8E1pF5dGZs6Uf"
+    },
+    {
+      "album": {
+        "name": "The Essential Borodin",
+        "url": "https://open.spotify.com/album/0rLTZWyPWGqChicENEqX0d"
+      },
+      "artists": [
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        },
+        {
+          "name": "Borodin Quartet",
+          "url": "https://open.spotify.com/artist/1PsknnitlKhm7SOszdGWB1"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488666,
+      "name": "String Quartet No. 2 in D Major: 3. Notturno",
+      "url": "https://open.spotify.com/track/6ILkT7M5vfKCN869KBlkZj"
+    },
+    {
+      "album": {
+        "name": "Shostakovich & Prokofiev: String Quartets",
+        "url": "https://open.spotify.com/album/0PtvU2TetPK8whGsZbpqki"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Kopelman Quartet",
+          "url": "https://open.spotify.com/artist/38PObJLETbjyD3TPuEbWhk"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458800,
+      "name": "String Quartet No. 2 in F Major, Op. 92: II. Adagio",
+      "url": "https://open.spotify.com/track/6bTGsOWBcuPc7cNTT2EWiQ"
+    },
+    {
+      "album": {
+        "name": "The Kernis Project: Beethoven",
+        "url": "https://open.spotify.com/album/3GXGErSr8pegql7cu6nGuR"
+      },
+      "artists": [
+        {
+          "name": "Aaron Jay Kernis",
+          "url": "https://open.spotify.com/artist/1nBFYjnV0WPd4AmkrsiZei"
+        },
+        {
+          "name": "Jasper String Quartet",
+          "url": "https://open.spotify.com/artist/7C6XFbFQwMBjjmMYjXrvdu"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 691293,
+      "name": "String Quartet No. 2, \"musica instrumentalis\": I. Overture",
+      "url": "https://open.spotify.com/track/72ioBgBFKUPg0Nh2liWMKh"
+    },
+    {
+      "album": {
+        "name": "Lavista: Complete String Quartets",
+        "url": "https://open.spotify.com/album/0rBlgXY7bSN2pWfCO5gvVm"
+      },
+      "artists": [
+        {
+          "name": "Mario Lavista",
+          "url": "https://open.spotify.com/artist/63zdzoc4GAfNirMfylIa6v"
+        },
+        {
+          "name": "Cuarteto Latinoamericano",
+          "url": "https://open.spotify.com/artist/3zZfi0cvqvHHJZILFiYZdv"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644093,
+      "name": "String Quartet No. 2, \"Reflejos de la noche\"",
+      "url": "https://open.spotify.com/track/5y8T9i6vyARokTRWICspTc"
+    },
+    {
+      "album": {
+        "name": "Janacek: String Quartets Nos. 1 and 2 / Szymanowski: String Quartets Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/2w4CXbk8J0bC8i4P8a5TqR"
+      },
+      "artists": [
+        {
+          "name": "Karol Szymanowski",
+          "url": "https://open.spotify.com/artist/3WLh1Qe8WgEBbb2QJWYYal"
+        },
+        {
+          "name": "Schoenberg Quartet",
+          "url": "https://open.spotify.com/artist/3Q1P8oSPRPQDUeSSEIec0s"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434640,
+      "name": "String Quartet No. 2, Op. 56: I. Moderato dolce e tranquillo",
+      "url": "https://open.spotify.com/track/36DODn8MEImurnnbmWS0fl"
+    },
+    {
+      "album": {
+        "name": "Mozart, Ives & Verdi: String Quartets",
+        "url": "https://open.spotify.com/album/6HEwIqForkJYOwfNJ9y8R2"
+      },
+      "artists": [
+        {
+          "name": "Charles Ives",
+          "url": "https://open.spotify.com/artist/73s17iW5LTtXRMVoofi9sU"
+        },
+        {
+          "name": "Schumann Quartett",
+          "url": "https://open.spotify.com/artist/0QyOyCDcUJxl5IEHV5Ybsr"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662506,
+      "name": "String Quartet No. 2: III. The Call of the Mountains",
+      "url": "https://open.spotify.com/track/56BcBiLOFppjuYs1cerKq8"
+    },
+    {
+      "album": {
+        "name": "Wuorinen: String Sextet / String Quartet No. 2 / Piano Quintet / Divertimento",
+        "url": "https://open.spotify.com/album/4SX7IAiBk9Iv6LI1TdHkm9"
+      },
+      "artists": [
+        {
+          "name": "Charles Wuorinen",
+          "url": "https://open.spotify.com/artist/5XymGDm97lwt7hLHZJ0zq6"
+        },
+        {
+          "name": "Group for Contemporary Music",
+          "url": "https://open.spotify.com/artist/2y7JXHCq8yuHmTNVxvh6tu"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397986,
+      "name": "String Quartet No. 2: IV. \u2014",
+      "url": "https://open.spotify.com/track/7oURn3uUhPB1dqwEQcIiTf"
+    },
+    {
+      "album": {
+        "name": "Ligeti, G.: String Quartets",
+        "url": "https://open.spotify.com/album/74o1k6G5fCIXMWmvfrMKUL"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Ligeti",
+          "url": "https://open.spotify.com/artist/1zb5zmIuX2lTbzcn7YeQlg"
+        },
+        {
+          "name": "Parker Quartet",
+          "url": "https://open.spotify.com/artist/6g7iCX6VvRBYBP9WleYDvF"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323333,
+      "name": "String Quartet No. 2: V. Allegro con delicatezza",
+      "url": "https://open.spotify.com/track/6nxinu2FAcwQveJkJRoS1t"
+    },
+    {
+      "album": {
+        "name": "Brooklyn Rider Plays Philip Glass",
+        "url": "https://open.spotify.com/album/4OMDJQLOfBgNMSxsgnBV9o"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Brooklyn Rider",
+          "url": "https://open.spotify.com/artist/1yKtWbh9O4CvqvYIV3HMg9"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "String Quartet No. 3 \"Mishima\": VI. Mishima / Closing",
+      "url": "https://open.spotify.com/track/4AP07Dho717JM5MgHRySQ8"
+    },
+    {
+      "album": {
+        "name": "Hindemith: Complete String Quartets",
+        "url": "https://open.spotify.com/album/4q3knzzMekuwXiTedWXuS3"
+      },
+      "artists": [
+        {
+          "name": "Paul Hindemith",
+          "url": "https://open.spotify.com/artist/3u1fWmwpwPOmMelTAo0Gb8"
+        },
+        {
+          "name": "Amar Quartet",
+          "url": "https://open.spotify.com/artist/2fir0xlJJdCii4XEd8OMjQ"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615746,
+      "name": "String Quartet No. 3 in C Major, Op. 16: I. Lebhaft und sehr energisch",
+      "url": "https://open.spotify.com/track/1Aj2sSN30sq4UaqqEEGhTc"
+    },
+    {
+      "album": {
+        "name": "Arriaga: String Quartets (Complete)",
+        "url": "https://open.spotify.com/album/7i4d2iCCui22y22n9AGObm"
+      },
+      "artists": [
+        {
+          "name": "Juan Cris\u00f3stomo Arriaga",
+          "url": "https://open.spotify.com/artist/2Gm9NzyysLqttBHOmwzEOS"
+        },
+        {
+          "name": "Camerata Boccherini",
+          "url": "https://open.spotify.com/artist/21HcQbxYddQphNH2IVxk7x"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378013,
+      "name": "String Quartet No. 3 in E-Flat Major: IV. Presto agitato",
+      "url": "https://open.spotify.com/track/4vqpDRpbfMyVEHwujtC6Da"
+    },
+    {
+      "album": {
+        "name": "Rasmussen / Sorensen: Arditti String Quartet",
+        "url": "https://open.spotify.com/album/4VODDhIMwVGzrBQRtlqzKq"
+      },
+      "artists": [
+        {
+          "name": "Bent S\u00f8rensen",
+          "url": "https://open.spotify.com/artist/6jp02kDgHsgyzUxLTKo6Mb"
+        },
+        {
+          "name": "Arditti Quartet",
+          "url": "https://open.spotify.com/artist/1A6VSPPUJADy9l9nHcGFG5"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015200,
+      "name": "String Quartet No. 3, \"Angels' Music\": Angels' Music",
+      "url": "https://open.spotify.com/track/21xi7ED2V7n1VUIPaPZFqK"
+    },
+    {
+      "album": {
+        "name": "Jan\u00e1\u010dek: String Quartet No. 1 / Haas: String Quartets Nos 1 & 3",
+        "url": "https://open.spotify.com/album/0upyLAVW6u6G7tvZGyywFf"
+      },
+      "artists": [
+        {
+          "name": "Pavel Haas",
+          "url": "https://open.spotify.com/artist/6hBijlytywRoRQ87dGuNRq"
+        },
+        {
+          "name": "Pavel Haas Quartet",
+          "url": "https://open.spotify.com/artist/2x7X3t5RZDXMpcxHabxPiN"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370440,
+      "name": "String Quartet No. 3, Op. 15: II. Lento ma na non troppo e poco rubato",
+      "url": "https://open.spotify.com/track/2L67LWnR22Q9JPtadjnipH"
+    },
+    {
+      "album": {
+        "name": "Hovhaness, A.: 4 Bagatelles / String Quartet Nos. 1-4 / Zhou, L.: Song of the Ch'In ( Spirit Murmur)",
+        "url": "https://open.spotify.com/album/6hGZq2eIk82SSEw9c5HisB"
+      },
+      "artists": [
+        {
+          "name": "Alan Hovhaness",
+          "url": "https://open.spotify.com/artist/1nLYb4XbZumQcIqwEmYlli"
+        },
+        {
+          "name": "Shanghai Quartet",
+          "url": "https://open.spotify.com/artist/1XRgNG2r8ZEc0vHV6HrO5A"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482933,
+      "name": "String Quartet No. 3, Op. 208, No. 1: I. Andante - Adagio",
+      "url": "https://open.spotify.com/track/1e5LIneNoJTaDzApzLyshB"
+    },
+    {
+      "album": {
+        "name": "Schoenberg: String Quartets Nos. 3 and 4 - Phantasy",
+        "url": "https://open.spotify.com/album/52vQDYrKQnl4SiVsdJFK48"
+      },
+      "artists": [
+        {
+          "name": "Arnold Schoenberg",
+          "url": "https://open.spotify.com/artist/5U827e4jbYz6EjtN0fIDt9"
+        },
+        {
+          "name": "Fred Sherry String Quartet",
+          "url": "https://open.spotify.com/artist/3JGHJW4xezVRYTV8ZG5OZf"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526120,
+      "name": "String Quartet No. 3, Op. 30: II. Adagio",
+      "url": "https://open.spotify.com/track/67pJ0XheO1vI7nJNKofuqB"
+    },
+    {
+      "album": {
+        "name": "Schnittke: String Quartets Nos. 1-3",
+        "url": "https://open.spotify.com/album/0p6JUqoy79z61JBNomlzov"
+      },
+      "artists": [
+        {
+          "name": "Alfred Schnittke",
+          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
+        },
+        {
+          "name": "Tale Quartet",
+          "url": "https://open.spotify.com/artist/3XTafpnfQ7RgeGgOZ7EhmC"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310320,
+      "name": "String Quartet No. 3: I. Andante",
+      "url": "https://open.spotify.com/track/3aS1ZjRZDqEVgSUoGDCl2P"
+    },
+    {
+      "album": {
+        "name": "Zemlinsky: String Quartets, Vol. 1",
+        "url": "https://open.spotify.com/album/5QCNUPhqF3kWdzm4HLr3y7"
+      },
+      "artists": [
+        {
+          "name": "Alexander von Zemlinsky",
+          "url": "https://open.spotify.com/artist/5z1DT2Qv5crikZIIJt5uO9"
+        },
+        {
+          "name": "Escher String Quartet",
+          "url": "https://open.spotify.com/artist/5gb3mKSWVwRNqAq8TwFBZ2"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190493,
+      "name": "String Quartet No. 4, Op. 25, \"Suite\": III. Adagietto: Adagio",
+      "url": "https://open.spotify.com/track/2PEWEUbcpGduw5XanfgVz3"
+    },
+    {
+      "album": {
+        "name": "Bacewicz: Complete String Quartets, Vol. 2",
+        "url": "https://open.spotify.com/album/1qOJ6QUM7K98zigo9lYFir"
+      },
+      "artists": [
+        {
+          "name": "Gra\u017cyna Bacewicz",
+          "url": "https://open.spotify.com/artist/3NcNY4xIKsMItzdecOxWrB"
+        },
+        {
+          "name": "Lutos\u0142awski Quartet",
+          "url": "https://open.spotify.com/artist/2g9YI0iSmo7TDbMZrnKZLM"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 550600,
+      "name": "String Quartet No. 4: I. Andante - Allegro moderato",
+      "url": "https://open.spotify.com/track/3XNCXkhuVNS5gsVHE216nY"
+    },
+    {
+      "album": {
+        "name": "String Quartet No.4; Three Quartets",
+        "url": "https://open.spotify.com/album/4ee8wp1YX6gPkdfWVJlGqY"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        },
+        {
+          "name": "Camilli String Quartet",
+          "url": "https://open.spotify.com/artist/2f5BSiiigpWAIzBgdYdnPa"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "String Quartet No. 4: V",
+      "url": "https://open.spotify.com/track/6X0FcYT6LJUgLx6gV8oYRf"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: String Quartets No.5 & 6",
+        "url": "https://open.spotify.com/album/2JV5qGgI1D46tlGKNveSGL"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Arcanto Quartett",
+          "url": "https://open.spotify.com/artist/0gVY2rjhsAi1kDaw45bnwZ"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458960,
+      "name": "String Quartet No. 5, Sz.102: String Quartet No. 5, Sz.102: I. Allegro",
+      "url": "https://open.spotify.com/track/2je9YSXkL1nblbC59YKYNX"
+    },
+    {
+      "album": {
+        "name": "Haydn: String Quartets Op. 64, Nos. 4 - 6",
+        "url": "https://open.spotify.com/album/5dzKAF5uGpOAUwg1YXBmOU"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Kod\u00e1ly Quartet",
+          "url": "https://open.spotify.com/artist/1LP6gYZMSGJNpso6MWoOWr"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398413,
+      "name": "String Quartet No. 53 in D Major, Op. 64, No. 5, Hob.III:63, \"The Lark\": II. Adagio - Cantabile",
+      "url": "https://open.spotify.com/track/1IQN9j898fkUIJp4ZOKECx"
+    },
+    {
+      "album": {
+        "name": "Villa-Lobos, H.: The Complete String Quartets",
+        "url": "https://open.spotify.com/album/4xTmBSbtKoQUOcSC9TYfR4"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Cuarteto Latinoamericano",
+          "url": "https://open.spotify.com/artist/3zZfi0cvqvHHJZILFiYZdv"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357133,
+      "name": "String Quartet No. 5: I. Poco Andantino - Un poco vivo - Tempo Primo - Lento - Allegro vivace - Vivo - Presto",
+      "url": "https://open.spotify.com/track/4MafcjCchkKwvkJjTpxrAn"
+    },
+    {
+      "album": {
+        "name": "Brahms: String Quartets & Piano Quintet",
+        "url": "https://open.spotify.com/album/0jKzHBHLPj4t7GzjoY9V9b"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Emerson String Quartet",
+          "url": "https://open.spotify.com/artist/4IBl8k6ZsBagsI5zRjyXH7"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389013,
+      "name": "String Quartet No.1 In C Minor, Op.51 No.1: 2. Romanze (Poco adagio) - 2007 Recording",
+      "url": "https://open.spotify.com/track/7fdBOlfKncyhDNaAhMncmw"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Quartet No.12 - Smetana: Quartet No.1",
+        "url": "https://open.spotify.com/album/6JQrcMPYSO3sV0Sg7WQaAD"
+      },
+      "artists": [
+        {
+          "name": "Bed\u0159ich Smetana",
+          "url": "https://open.spotify.com/artist/25Eab1kIY1gh0Yo1oV04G4"
+        },
+        {
+          "name": "Tokyo String Quartet",
+          "url": "https://open.spotify.com/artist/15G9RnBNBDCFUMANna2CvO"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344291,
+      "name": "String Quartet No.1 in E Minor (\"From My Life\"): String Quartet No.1 in E Minor (\"From My Life\"): IV. Finale: Vivace",
+      "url": "https://open.spotify.com/track/2far71bKJ98Ks6DK7yxV7f"
+    },
+    {
+      "album": {
+        "name": "Beethoven: String Quartets Vol.3 (3 CDs)",
+        "url": "https://open.spotify.com/album/6tFl4rPDztyza1TSAOZP8i"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Tak\u00e1cs Quartet",
+          "url": "https://open.spotify.com/artist/5DwQvVHPVspRvStEAN722N"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1030760,
+      "name": "String Quartet No.15 in A minor, Op.132: 3. Heiliger Dankgesang e.Genesenden an die Gottheit, in der lydischen Tonart.Molto adagio -. Andante - Molto adagio - Andante - Molto adagio.",
+      "url": "https://open.spotify.com/track/7gGLtziOk0OdQg6ognpRj2"
+    },
+    {
+      "album": {
+        "name": "Volans: String Quartets Nos.2 & 3",
+        "url": "https://open.spotify.com/album/3hZ8ZT1HQjr1Ljm8rLBZQ8"
+      },
+      "artists": [
+        {
+          "name": "Kevin Volans",
+          "url": "https://open.spotify.com/artist/1W58f2nCd0AL3F7eCdyvqI"
+        },
+        {
+          "name": "Balanescu Quartet",
+          "url": "https://open.spotify.com/artist/39nJA4NmdZE5sJecB0zjXY"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175250,
+      "name": "String Quartet No.2 'Hunting, Gathering': 3. Third Expedition",
+      "url": "https://open.spotify.com/track/5btzUwR455XVLFp8TKLgon"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: String Quartets Nos. 3, 7 & 8",
+        "url": "https://open.spotify.com/album/3yITDLahXxrtGWOIlVGRjL"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Hagen Quartett",
+          "url": "https://open.spotify.com/artist/4301XXSbiO4YrZZcuyktbB"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294226,
+      "name": "String Quartet No.8 in C minor, Op.110: 1. Largo",
+      "url": "https://open.spotify.com/track/3kamLIfzME9af9LyFu7mJg"
+    },
+    {
+      "album": {
+        "name": "Wolfgang Rihm: String Quartets Vol. 1",
+        "url": "https://open.spotify.com/album/0H8BElmcwu655N4V9gKC0Z"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Rihm",
+          "url": "https://open.spotify.com/artist/1LqZaxmZNvkNyC5FaICGkW"
+        },
+        {
+          "name": "Minguet Quartett",
+          "url": "https://open.spotify.com/artist/5We7NLZ3voncQ3Fm65gFpn"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 574093,
+      "name": "String Quartet n\u00b0 3, Im Innersten (1976): Vi",
+      "url": "https://open.spotify.com/track/3kHSlw7tVf8Rvi4ikkVuZ9"
+    },
+    {
+      "album": {
+        "name": "Boccherini, Haydn, Mendelssohn, Mica: 4 String Quartets",
+        "url": "https://open.spotify.com/album/78BQYHPD36YXAfZ0OhGJVt"
+      },
+      "artists": [
+        {
+          "name": "Luigi Boccherini",
+          "url": "https://open.spotify.com/artist/2l4vGfFV7e46yO8lxfxR76"
+        },
+        {
+          "name": "Talich Quartet",
+          "url": "https://open.spotify.com/artist/5wFMu3TzjTA0gaHsy5ElTY"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193360,
+      "name": "String Quartet Op. 58 No. 2 in E flat-Major: String Quartet Op. 58 No. 2 in E flat-Major: IV. Finale: Allegro vivo assai",
+      "url": "https://open.spotify.com/track/2hiBQK6N9qyfXEC4vwFdSh"
+    },
+    {
+      "album": {
+        "name": "Magnard, Faur\u00e9: String Quartets",
+        "url": "https://open.spotify.com/album/3kG3W957coGtnob7eYuTIU"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Quatuor Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/2iTZOJLFH5tqZcCRZAdNm9"
+        }
+      ],
+      "date_added": "2017-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392053,
+      "name": "String Quartet op.121: String Quartet op.121: I. Allegro Moderato",
+      "url": "https://open.spotify.com/track/4in3FQ5XGH50rq7ij0Mw2p"
+    },
+    {
+      "album": {
+        "name": "Crawford / Hindemith / Janacek: String Quartets",
+        "url": "https://open.spotify.com/album/06VlQoUiOGBx9pdKAzw1xJ"
+      },
+      "artists": [
+        {
+          "name": "Ruth Crawford Seeger",
+          "url": "https://open.spotify.com/artist/1xw2D0SqXA6qm7akRYJCMg"
+        },
+        {
+          "name": "Pacifica Quartet",
+          "url": "https://open.spotify.com/artist/5GjkcqIydny9jzY75qdutt"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257279,
+      "name": "String Quartet, \"1931\": III. Andante",
+      "url": "https://open.spotify.com/track/6bwkFsnEgY0jJ4msUKWok7"
+    },
+    {
+      "album": {
+        "name": "Vasks: String Quartets 1, 3 & 4",
+        "url": "https://open.spotify.com/album/0wJFbHVI6n58rK37a13QWe"
+      },
+      "artists": [
+        {
+          "name": "P\u0113teris Vasks",
+          "url": "https://open.spotify.com/artist/5pDXC7kLwFougTLVv2KFNJ"
+        },
+        {
+          "name": "Sp\u012b\u0137eru String Quartet",
+          "url": "https://open.spotify.com/artist/20WrRTOGHP9zxpUJrfZ0Ja"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490253,
+      "name": "String Quartet, No. 4: I. Elegy",
+      "url": "https://open.spotify.com/track/0jusfwN6EO3oVp5x3TD68g"
+    },
+    {
+      "album": {
+        "name": "American Anthem",
+        "url": "https://open.spotify.com/album/1rbLYGKxBNxtv1rtBOQ4B7"
+      },
+      "artists": [
+        {
+          "name": "Samuel Barber",
+          "url": "https://open.spotify.com/artist/4XDJurjQCnWLlE7KLZCT9x"
+        },
+        {
+          "name": "Ying Quartet",
+          "url": "https://open.spotify.com/artist/7LOa5KEvERLChy8XYO4gbb"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412154,
+      "name": "String Quartet, Op. 11: II. Molto adagio",
+      "url": "https://open.spotify.com/track/1CA5IRs7tPWlrfozSL0MKE"
+    },
+    {
+      "album": {
+        "name": "Kreutzer Quartet: Northern Lights (British String Quartets)",
+        "url": "https://open.spotify.com/album/79dm1NX4d7fPgGswc23nDP"
+      },
+      "artists": [
+        {
+          "name": "Judith Weir",
+          "url": "https://open.spotify.com/artist/4AhGJX48US2OIdpSG7oo5c"
+        },
+        {
+          "name": "Kreutzer Quartet",
+          "url": "https://open.spotify.com/artist/4FAnGRl0vEIsGbqUWgFFhd"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316480,
+      "name": "String Quartet: I. Serene",
+      "url": "https://open.spotify.com/track/2uSXzPDf5SjjlUSwFHUWJf"
+    },
+    {
+      "album": {
+        "name": "The Piazzolla Project",
+        "url": "https://open.spotify.com/album/6s5oVkH73zy1Knt2eM9A4H"
+      },
+      "artists": [
+        {
+          "name": "Artemis Quartet",
+          "url": "https://open.spotify.com/artist/48Asba2lsKF1gSwQ0ed1j8"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296440,
+      "name": "Suite del Angel \"Angel Suite\" for String Quartet: Introduccion al Angel - Tango, moderato",
+      "url": "https://open.spotify.com/track/5HYG60fey9HTm9HgRsVn5M"
+    },
+    {
+      "album": {
+        "name": "Illuminations",
+        "url": "https://open.spotify.com/album/5kdtqdnqKPvxuPUJtRdlFz"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Golijov",
+          "url": "https://open.spotify.com/artist/4MFSQmb7Y47xW7JJmJboCv"
+        },
+        {
+          "name": "Avalon String Quartet",
+          "url": "https://open.spotify.com/artist/33fd1AAkMoikHbvEzQ5plU"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 763557,
+      "name": "Tenebrae (version for string quartet)",
+      "url": "https://open.spotify.com/track/4aGH0n6lQgzDb4jfP4RpkB"
+    },
+    {
+      "album": {
+        "name": "Cantante E Tranquillo",
+        "url": "https://open.spotify.com/album/4WsTrSLoI1A2MHfa70eLW1"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Keller Quartett",
+          "url": "https://open.spotify.com/artist/1j2JoegYw7YxhO7woNFZAa"
+        }
+      ],
+      "date_added": "2017-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630093,
+      "name": "The Art Of Fugue, BWV 1080: Contrapunctus 14",
+      "url": "https://open.spotify.com/track/46D9iC7b5NEqjw3ijgJVcf"
+    },
+    {
+      "album": {
+        "name": "Tavener - Svyati",
+        "url": "https://open.spotify.com/album/6nt3JDe07fdzhKvUuTYxLh"
+      },
+      "artists": [
+        {
+          "name": "John Tavener",
+          "url": "https://open.spotify.com/artist/45ff9QmiC1LkmDPk5TBN21"
+        },
+        {
+          "name": "Steven Isserlis",
+          "url": "https://open.spotify.com/artist/3lqUltCfNNgeU38vDVBbI1"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1531600,
+      "name": "The Hidden Treasure",
+      "url": "https://open.spotify.com/track/27m564ZItQRwF0tknjrooG"
+    },
+    {
+      "album": {
+        "name": "The Wind in High Places",
+        "url": "https://open.spotify.com/album/1UTMhJVQfIDVS8z8KoSScE"
+      },
+      "artists": [
+        {
+          "name": "John Luther Adams",
+          "url": "https://open.spotify.com/artist/2Aoyn1J7INkcUzoWzyP8yB"
+        },
+        {
+          "name": "JACK Quartet",
+          "url": "https://open.spotify.com/artist/5IIlEwQ9WqXulFI8JZ8QNw"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295640,
+      "name": "The Wind in High Places: II. Maclaren Summit",
+      "url": "https://open.spotify.com/track/1XCZpT1N99FvmHtfZxBFoW"
+    },
+    {
+      "album": {
+        "name": "Martinu: String Quartets Nos. 1 and 2 / Three Horsemen",
+        "url": "https://open.spotify.com/album/1tEIG0tAsGy1Dhpeyg5wOH"
+      },
+      "artists": [
+        {
+          "name": "Bohuslav Martin\u016f",
+          "url": "https://open.spotify.com/artist/2cN9SgfyZo6l6TijoewUaZ"
+        },
+        {
+          "name": "Martin\u016f Quartet",
+          "url": "https://open.spotify.com/artist/02lUjBZqrjS6f1pnKvI6XJ"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 717600,
+      "name": "Tri jezdci (Three Horsemen)",
+      "url": "https://open.spotify.com/track/0m9AmPJe7869PpcOVb3QCA"
+    },
+    {
+      "album": {
+        "name": "Wood Works",
+        "url": "https://open.spotify.com/album/2Wf5EwRWblXDs1aiAAvxal"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Rune Tonsgaard Sorensen",
+          "url": "https://open.spotify.com/artist/4dT8PaYmm1Uh44OnChMU9p"
+        },
+        {
+          "name": "Frederik Oland",
+          "url": "https://open.spotify.com/artist/4oXnOkONbafVs2brsZwepr"
+        },
+        {
+          "name": "Fredrik Sch\u00f8yen Sj\u00f6lin",
+          "url": "https://open.spotify.com/artist/1XIZGuu2MIhH25WtQg0jCL"
+        },
+        {
+          "name": "Asbjorn Norgaard",
+          "url": "https://open.spotify.com/artist/7BxNYXfWTNXnyNO5h4JADu"
+        },
+        {
+          "name": "Danish String Quartet",
+          "url": "https://open.spotify.com/artist/7dkujWxvEqOlFAo979V68D"
+        }
+      ],
+      "date_added": "2017-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282560,
+      "name": "Waltz after Lasse in Lyby",
+      "url": "https://open.spotify.com/track/1yPP0toSGdg4yW5Cj7Ry1x"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbrSeoLHavML"
 }

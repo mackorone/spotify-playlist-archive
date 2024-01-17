@@ -1,569 +1,2801 @@
 {
-  "2022-06-10": 20607,
-  "2022-06-11": 20648,
-  "2022-06-12": 20696,
-  "2022-06-13": 20747,
-  "2022-06-14": 20782,
-  "2022-06-15": 20818,
-  "2022-06-16": 20872,
-  "2022-06-17": 20914,
-  "2022-06-18": 20960,
-  "2022-06-19": 21033,
-  "2022-06-20": 21033,
-  "2022-06-21": 21071,
-  "2022-06-22": 21145,
-  "2022-06-23": 21145,
-  "2022-06-24": 21196,
-  "2022-06-25": 21233,
-  "2022-06-26": 21266,
-  "2022-06-27": 21294,
-  "2022-06-28": 21334,
-  "2022-06-29": 21377,
-  "2022-06-30": 21435,
-  "2022-07-01": 21483,
-  "2022-07-02": 21531,
-  "2022-07-03": 21596,
-  "2022-07-04": 21642,
-  "2022-07-05": 21676,
-  "2022-07-06": 21715,
-  "2022-07-07": 21751,
-  "2022-07-08": 21784,
-  "2022-07-09": 21821,
-  "2022-07-10": 21849,
-  "2022-07-11": 21901,
-  "2022-07-12": 21935,
-  "2022-07-13": 21990,
-  "2022-07-14": 22021,
-  "2022-07-15": 22051,
-  "2022-07-16": 22091,
-  "2022-07-17": 22122,
-  "2022-07-18": 22159,
-  "2022-07-19": 22187,
-  "2022-07-20": 22218,
-  "2022-07-21": 22246,
-  "2022-07-22": 22279,
-  "2022-07-23": 22309,
-  "2022-07-24": 22336,
-  "2022-07-25": 22369,
-  "2022-07-26": 22408,
-  "2022-07-27": 22468,
-  "2022-07-28": 22533,
-  "2022-07-29": 22582,
-  "2022-07-30": 22671,
-  "2022-07-31": 22671,
-  "2022-08-01": 22705,
-  "2022-08-02": 22793,
-  "2022-08-03": 22793,
-  "2022-08-04": 22843,
-  "2022-08-05": 22889,
-  "2022-08-06": 22927,
-  "2022-08-07": 22973,
-  "2022-08-08": 23010,
-  "2022-08-09": 23038,
-  "2022-08-10": 23066,
-  "2022-08-11": 23110,
-  "2022-08-12": 23152,
-  "2022-08-13": 23192,
-  "2022-08-14": 23230,
-  "2022-08-15": 23281,
-  "2022-08-16": 23310,
-  "2022-08-17": 23356,
-  "2022-08-18": 23402,
-  "2022-08-19": 23432,
-  "2022-08-20": 23469,
-  "2022-08-21": 23519,
-  "2022-08-22": 23552,
-  "2022-08-23": 23577,
-  "2022-08-24": 23611,
-  "2022-08-25": 23634,
-  "2022-08-26": 23687,
-  "2022-08-27": 23717,
-  "2022-08-28": 23742,
-  "2022-08-29": 23763,
-  "2022-08-30": 23781,
-  "2022-08-31": 23817,
-  "2022-09-01": 23838,
-  "2022-09-02": 23873,
-  "2022-09-03": 23874,
-  "2022-09-04": 23864,
-  "2022-09-05": 23884,
-  "2022-09-06": 23917,
-  "2022-09-07": 23941,
-  "2022-09-09": 24004,
-  "2022-09-10": 24047,
-  "2022-09-11": 24083,
-  "2022-09-12": 24109,
-  "2022-09-13": 24139,
-  "2022-09-15": 24215,
-  "2022-09-16": 24238,
-  "2022-09-17": 24279,
-  "2022-09-18": 24306,
-  "2022-09-19": 24341,
-  "2022-09-20": 24363,
-  "2022-09-21": 24391,
-  "2022-09-22": 24421,
-  "2022-09-23": 24450,
-  "2022-09-24": 24472,
-  "2022-09-25": 24502,
-  "2022-09-26": 24525,
-  "2022-09-27": 24548,
-  "2022-09-28": 24576,
-  "2022-09-29": 24609,
-  "2022-09-30": 24642,
-  "2022-10-01": 24668,
-  "2022-10-02": 24698,
-  "2022-10-03": 24733,
-  "2022-10-04": 24753,
-  "2022-10-05": 24776,
-  "2022-10-06": 24803,
-  "2022-10-07": 24836,
-  "2022-10-08": 24864,
-  "2022-10-09": 24910,
-  "2022-10-10": 24915,
-  "2022-10-11": 24947,
-  "2022-10-12": 24971,
-  "2022-10-13": 25011,
-  "2022-10-14": 25038,
-  "2022-10-15": 25074,
-  "2022-10-16": 25103,
-  "2022-10-17": 25144,
-  "2022-10-18": 25176,
-  "2022-10-19": 25201,
-  "2022-10-20": 25234,
-  "2022-10-21": 25259,
-  "2022-10-22": 25283,
-  "2022-10-23": 25310,
-  "2022-10-24": 25338,
-  "2022-10-25": 25368,
-  "2022-10-26": 25396,
-  "2022-10-27": 25434,
-  "2022-10-28": 25460,
-  "2022-10-29": 25478,
-  "2022-10-30": 25506,
-  "2022-10-31": 25531,
-  "2022-11-01": 25550,
-  "2022-11-02": 25571,
-  "2022-11-03": 25602,
-  "2022-11-04": 25628,
-  "2022-11-05": 25654,
-  "2022-11-06": 25681,
-  "2022-11-07": 25720,
-  "2022-11-08": 25762,
-  "2022-11-09": 25794,
-  "2022-11-10": 25834,
-  "2022-11-11": 25880,
-  "2022-11-12": 25924,
-  "2022-11-13": 25938,
-  "2022-11-14": 25975,
-  "2022-11-15": 25998,
-  "2022-11-16": 26034,
-  "2022-11-17": 26060,
-  "2022-11-18": 26073,
-  "2022-11-19": 26066,
-  "2022-11-20": 26068,
-  "2022-11-21": 26092,
-  "2022-11-22": 26171,
-  "2022-11-23": 26163,
-  "2022-11-24": 26205,
-  "2022-11-25": 26279,
-  "2022-11-26": 26331,
-  "2022-11-27": 26375,
-  "2022-11-28": 26415,
-  "2022-11-29": 26435,
-  "2022-11-30": 26468,
-  "2022-12-01": 26528,
-  "2022-12-02": 26583,
-  "2022-12-03": 26648,
-  "2022-12-04": 26690,
-  "2022-12-05": 26730,
-  "2022-12-06": 26764,
-  "2022-12-07": 26810,
-  "2022-12-08": 26860,
-  "2022-12-09": 26890,
-  "2022-12-10": 26922,
-  "2022-12-11": 26965,
-  "2022-12-12": 26996,
-  "2022-12-13": 27033,
-  "2022-12-14": 27059,
-  "2022-12-15": 27096,
-  "2022-12-16": 27129,
-  "2022-12-17": 27160,
-  "2022-12-18": 27189,
-  "2022-12-19": 27219,
-  "2022-12-20": 27274,
-  "2022-12-21": 27274,
-  "2022-12-22": 27301,
-  "2022-12-24": 27363,
-  "2022-12-25": 27391,
-  "2022-12-26": 27401,
-  "2022-12-27": 27419,
-  "2022-12-28": 27441,
-  "2022-12-29": 27473,
-  "2022-12-30": 27505,
-  "2022-12-31": 27530,
-  "2023-01-01": 27556,
-  "2023-01-02": 27576,
-  "2023-01-03": 27600,
-  "2023-01-04": 27617,
-  "2023-01-05": 27635,
-  "2023-01-06": 27675,
-  "2023-01-07": 27716,
-  "2023-01-08": 27718,
-  "2023-01-09": 27746,
-  "2023-01-10": 27777,
-  "2023-01-11": 27810,
-  "2023-01-12": 27848,
-  "2023-01-13": 27898,
-  "2023-01-14": 27976,
-  "2023-01-15": 27984,
-  "2023-01-16": 28034,
-  "2023-01-17": 28073,
-  "2023-01-18": 28102,
-  "2023-01-19": 28141,
-  "2023-01-20": 28182,
-  "2023-01-21": 28214,
-  "2023-01-22": 28241,
-  "2023-01-23": 28273,
-  "2023-01-24": 28307,
-  "2023-01-25": 28351,
-  "2023-01-26": 28395,
-  "2023-01-27": 28424,
-  "2023-01-28": 28458,
-  "2023-01-29": 28497,
-  "2023-01-30": 28521,
-  "2023-01-31": 28521,
-  "2023-02-01": 28627,
-  "2023-02-02": 28689,
-  "2023-02-03": 28746,
-  "2023-02-04": 28790,
-  "2023-02-05": 28839,
-  "2023-02-06": 28893,
-  "2023-02-07": 28938,
-  "2023-02-08": 29029,
-  "2023-02-09": 29029,
-  "2023-02-10": 29067,
-  "2023-02-11": 29105,
-  "2023-02-12": 29166,
-  "2023-02-13": 29192,
-  "2023-02-14": 29192,
-  "2023-02-15": 29223,
-  "2023-02-16": 29263,
-  "2023-02-17": 29288,
-  "2023-02-18": 29355,
-  "2023-02-19": 29367,
-  "2023-02-20": 29391,
-  "2023-02-21": 29417,
-  "2023-02-22": 29458,
-  "2023-02-23": 29494,
-  "2023-02-24": 29527,
-  "2023-02-25": 29573,
-  "2023-02-26": 29598,
-  "2023-02-27": 29656,
-  "2023-02-28": 29656,
-  "2023-03-01": 29685,
-  "2023-03-02": 29724,
-  "2023-03-03": 29747,
-  "2023-03-04": 29767,
-  "2023-03-05": 29809,
-  "2023-03-06": 29809,
-  "2023-03-07": 29825,
-  "2023-03-08": 29855,
-  "2023-03-09": 29872,
-  "2023-03-10": 29906,
-  "2023-03-11": 29934,
-  "2023-03-12": 29975,
-  "2023-03-13": 30008,
-  "2023-03-14": 30035,
-  "2023-03-15": 30086,
-  "2023-03-16": 30121,
-  "2023-03-17": 30121,
-  "2023-03-18": 30208,
-  "2023-03-19": 30253,
-  "2023-03-20": 30296,
-  "2023-03-21": 30339,
-  "2023-03-22": 30382,
-  "2023-03-23": 30413,
-  "2023-03-24": 30413,
-  "2023-03-25": 30522,
-  "2023-03-26": 30562,
-  "2023-03-27": 30611,
-  "2023-03-28": 30653,
-  "2023-03-29": 30697,
-  "2023-03-30": 30765,
-  "2023-03-31": 30765,
-  "2023-04-01": 30804,
-  "2023-04-02": 30830,
-  "2023-04-03": 30875,
-  "2023-04-04": 30898,
-  "2023-04-05": 30926,
-  "2023-04-06": 30961,
-  "2023-04-07": 31000,
-  "2023-04-09": 31075,
-  "2023-04-10": 31132,
-  "2023-04-11": 31182,
-  "2023-04-12": 31182,
-  "2023-04-13": 31215,
-  "2023-04-14": 31246,
-  "2023-04-15": 31284,
-  "2023-04-16": 31322,
-  "2023-04-17": 31355,
-  "2023-04-18": 31399,
-  "2023-04-19": 31432,
-  "2023-04-20": 31464,
-  "2023-04-21": 31501,
-  "2023-04-22": 31530,
-  "2023-04-23": 31569,
-  "2023-04-24": 31586,
-  "2023-04-25": 31627,
-  "2023-04-26": 31662,
-  "2023-04-27": 31708,
-  "2023-04-28": 31756,
-  "2023-04-29": 31782,
-  "2023-04-30": 31808,
-  "2023-05-01": 31824,
-  "2023-05-02": 31849,
-  "2023-05-03": 31881,
-  "2023-05-04": 31913,
-  "2023-05-05": 31952,
-  "2023-05-06": 31986,
-  "2023-05-07": 32023,
-  "2023-05-08": 32063,
-  "2023-05-09": 32097,
-  "2023-05-10": 32133,
-  "2023-05-11": 32174,
-  "2023-05-12": 32209,
-  "2023-05-13": 32246,
-  "2023-05-14": 32276,
-  "2023-05-15": 32323,
-  "2023-05-16": 32350,
-  "2023-05-17": 32377,
-  "2023-05-18": 32411,
-  "2023-05-19": 32429,
-  "2023-05-20": 32493,
-  "2023-05-21": 32493,
-  "2023-05-22": 32493,
-  "2023-05-23": 32617,
-  "2023-05-24": 32695,
-  "2023-05-25": 32707,
-  "2023-05-26": 32746,
-  "2023-05-27": 32793,
-  "2023-05-28": 32839,
-  "2023-05-29": 32839,
-  "2023-05-30": 32906,
-  "2023-05-31": 32945,
-  "2023-06-01": 32978,
-  "2023-06-02": 33002,
-  "2023-06-03": 33040,
-  "2023-06-04": 33086,
-  "2023-06-05": 33139,
-  "2023-06-06": 33174,
-  "2023-06-07": 33207,
-  "2023-06-08": 33240,
-  "2023-06-09": 33273,
-  "2023-06-10": 33300,
-  "2023-06-11": 33336,
-  "2023-06-12": 33375,
-  "2023-06-13": 33409,
-  "2023-06-14": 33439,
-  "2023-06-15": 33471,
-  "2023-06-16": 33489,
-  "2023-06-17": 33518,
-  "2023-06-18": 33546,
-  "2023-06-19": 33580,
-  "2023-06-20": 33605,
-  "2023-06-21": 33626,
-  "2023-06-22": 33654,
-  "2023-06-23": 33685,
-  "2023-06-24": 33722,
-  "2023-06-25": 33760,
-  "2023-06-26": 33786,
-  "2023-06-27": 33800,
-  "2023-06-28": 33823,
-  "2023-06-29": 33838,
-  "2023-06-30": 33867,
-  "2023-07-01": 33921,
-  "2023-07-02": 33921,
-  "2023-07-03": 33950,
-  "2023-07-04": 33988,
-  "2023-07-05": 34016,
-  "2023-07-06": 34078,
-  "2023-07-07": 34078,
-  "2023-07-08": 34094,
-  "2023-07-09": 34115,
-  "2023-07-10": 34140,
-  "2023-07-11": 34158,
-  "2023-07-12": 34182,
-  "2023-07-13": 34205,
-  "2023-07-14": 34235,
-  "2023-07-15": 34248,
-  "2023-07-16": 34273,
-  "2023-07-17": 34289,
-  "2023-07-18": 34323,
-  "2023-07-19": 34354,
-  "2023-07-20": 34380,
-  "2023-07-21": 34398,
-  "2023-07-22": 34423,
-  "2023-07-23": 34443,
-  "2023-07-24": 34460,
-  "2023-07-25": 34470,
-  "2023-07-26": 34494,
-  "2023-07-27": 34506,
-  "2023-07-28": 34526,
-  "2023-07-29": 34544,
-  "2023-07-30": 34566,
-  "2023-07-31": 34599,
-  "2023-08-01": 34617,
-  "2023-08-02": 34637,
-  "2023-08-03": 34661,
-  "2023-08-04": 34673,
-  "2023-08-05": 34698,
-  "2023-08-06": 34737,
-  "2023-08-07": 34737,
-  "2023-08-08": 34755,
-  "2023-08-09": 34777,
-  "2023-08-10": 34801,
-  "2023-08-11": 34834,
-  "2023-08-12": 34864,
-  "2023-08-13": 34885,
-  "2023-08-14": 34900,
-  "2023-08-15": 34956,
-  "2023-08-16": 34956,
-  "2023-08-17": 34979,
-  "2023-08-18": 34997,
-  "2023-08-19": 35010,
-  "2023-08-20": 35037,
-  "2023-08-21": 35070,
-  "2023-08-22": 35095,
-  "2023-08-23": 35117,
-  "2023-08-24": 35148,
-  "2023-08-25": 35178,
-  "2023-08-26": 35200,
-  "2023-08-27": 35232,
-  "2023-08-28": 35265,
-  "2023-08-29": 35295,
-  "2023-08-30": 35316,
-  "2023-08-31": 35336,
-  "2023-09-01": 35358,
-  "2023-09-02": 35358,
-  "2023-09-03": 35364,
-  "2023-09-04": 35365,
-  "2023-09-05": 35367,
-  "2023-09-06": 35373,
-  "2023-09-07": 35377,
-  "2023-09-08": 35380,
-  "2023-09-09": 35390,
-  "2023-09-10": 35401,
-  "2023-09-11": 35416,
-  "2023-09-12": 35421,
-  "2023-09-13": 35427,
-  "2023-09-14": 35436,
-  "2023-09-15": 35442,
-  "2023-09-16": 35465,
-  "2023-09-17": 35456,
-  "2023-09-18": 35463,
-  "2023-09-19": 35468,
-  "2023-09-20": 35474,
-  "2023-09-21": 35482,
-  "2023-09-22": 35491,
-  "2023-09-23": 35501,
-  "2023-09-24": 35504,
-  "2023-09-25": 35514,
-  "2023-09-26": 35533,
-  "2023-09-27": 35528,
-  "2023-09-28": 35536,
-  "2023-09-29": 35543,
-  "2023-09-30": 35551,
-  "2023-10-01": 35569,
-  "2023-10-02": 35583,
-  "2023-10-03": 35592,
-  "2023-10-04": 35640,
-  "2023-10-05": 35721,
-  "2023-10-06": 35784,
-  "2023-10-07": 35840,
-  "2023-10-08": 35900,
-  "2023-10-09": 35983,
-  "2023-10-10": 36046,
-  "2023-10-11": 36216,
-  "2023-10-12": 36216,
-  "2023-10-13": 36282,
-  "2023-10-14": 36344,
-  "2023-10-15": 36411,
-  "2023-10-16": 36477,
-  "2023-10-17": 36515,
-  "2023-10-18": 36587,
-  "2023-10-19": 36649,
-  "2023-10-20": 36718,
-  "2023-10-21": 36782,
-  "2023-10-22": 36845,
-  "2023-10-23": 36906,
-  "2023-10-24": 36961,
-  "2023-10-25": 37119,
-  "2023-10-26": 37212,
-  "2023-10-27": 37275,
-  "2023-10-28": 37322,
-  "2023-10-29": 37361,
-  "2023-10-30": 37469,
-  "2023-10-31": 37469,
-  "2023-11-01": 37499,
-  "2023-11-02": 37544,
-  "2023-11-03": 37580,
-  "2023-11-04": 37631,
-  "2023-11-05": 37675,
-  "2023-11-06": 37728,
-  "2023-11-07": 37763,
-  "2023-11-08": 37804,
-  "2023-11-09": 37849,
-  "2023-11-10": 37885,
-  "2023-11-11": 37923,
-  "2023-11-12": 37941,
-  "2023-11-13": 37969,
-  "2023-11-14": 37988,
-  "2023-11-15": 37988,
-  "2023-11-16": 38053,
-  "2023-11-17": 38123,
-  "2023-11-18": 38123,
-  "2023-11-19": 38156,
-  "2023-11-20": 38176,
-  "2023-11-21": 38200,
-  "2023-11-22": 38238,
-  "2023-11-23": 38296,
-  "2023-11-24": 38341,
-  "2023-11-25": 38357,
-  "2023-11-26": 38398,
-  "2023-11-27": 38439,
-  "2023-11-28": 38460,
-  "2023-11-29": 38534,
-  "2023-11-30": 38534,
-  "2023-12-01": 38575,
-  "2023-12-02": 38602,
-  "2023-12-03": 38637,
-  "2023-12-04": 38668,
-  "2023-12-05": 38690,
-  "2023-12-06": 38716,
-  "2023-12-07": 38744,
-  "2023-12-08": 38764,
-  "2023-12-09": 38800,
-  "2023-12-10": 38833,
-  "2023-12-11": 38861,
-  "2023-12-12": 38883,
-  "2023-12-13": 38926,
-  "2023-12-14": 38957,
-  "2023-12-15": 38976,
-  "2023-12-16": 38996,
-  "2023-12-17": 39029,
-  "2023-12-18": 39055,
-  "2023-12-19": 39070,
-  "2023-12-20": 39100,
-  "2023-12-21": 39133,
-  "2023-12-22": 39172,
-  "2023-12-23": 39212,
-  "2023-12-24": 39247,
-  "2023-12-25": 39274,
-  "2023-12-26": 39295,
-  "2023-12-27": 39326,
-  "2023-12-30": 39395,
-  "2023-12-31": 39431,
-  "2024-01-01": 39458,
-  "2024-01-02": 39485,
-  "2024-01-03": 39502
+  "2024-01-17": 39840,
+  "date_first_scraped": "2022-06-10",
+  "description": "Enjoy music From \"Paradox Live\"! HIPHOP\u30e1\u30c7\u30a3\u30a2\u30df\u30c3\u30af\u30b9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300cParadox Live\uff08\u30d1\u30e9\u30e9\u30a4\uff09\u300d\u306e\u697d\u66f2&\u30c9\u30e9\u30de\u30c8\u30e9\u30c3\u30af\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002 \u00a9Paradox Live2023",
+  "name": "Paradox Live -\u30d1\u30e9\u30e9\u30a4-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"PRIDE\"",
+        "url": "https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "4 REAL",
+      "url": "https://open.spotify.com/track/2GApfqFmeLykh9LRz9yqQ7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 1st album \"TRAP\"",
+        "url": "https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233080,
+      "name": "A.K.Y.R - \u60aa\u6f22\u5974\u7b49 Go over da TRAP-",
+      "url": "https://open.spotify.com/track/5qD5nSHCBE9QfqdFrw4ZOv"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cLOVE\"",
+        "url": "https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Ain\u2019t No Love",
+      "url": "https://open.spotify.com/track/3p75UqgnQ50yPCTrYc8XfJ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"DESIRE\"",
+        "url": "https://open.spotify.com/album/1flWzBBYS2auFKxG9R3Qxw"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "AmBitious!!!",
+      "url": "https://open.spotify.com/track/07ipyff0j2rkZQ1U7vsKBW"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -cozmez-",
+        "url": "https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192228,
+      "name": "Back Off",
+      "url": "https://open.spotify.com/track/35bPsvF8kxTHd5y9BBfxvG"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "BAD BOYZ -\u60aa\u6f22\u5974\u7b49 Underground-",
+      "url": "https://open.spotify.com/track/4mo7Icur4vDvZrDmEHwfss"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231306,
+      "name": "BaNG!!!",
+      "url": "https://open.spotify.com/track/5SinNGF0VqJENVU294uCje"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "BE A STAR",
+      "url": "https://open.spotify.com/track/1Wp8xRAX9eE9k2j2OuG2px"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 1st album \"TRAP\"",
+        "url": "https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227693,
+      "name": "BErmud\u25b3 Tri\u25b3nglE",
+      "url": "https://open.spotify.com/track/6eUkuZXR20HfX52EFcV1iy"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 2nd album \"LIVE\"",
+        "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/5EGuPxc7UwMrMUQYXvnqzs"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Break Outta Here",
+      "url": "https://open.spotify.com/track/4dZF3VFr64aMMUZUM3kXMo"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"FAMILY\"",
+        "url": "https://open.spotify.com/album/6nxWApKJGlploLVAYSivXZ"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "CALL FOR FAMILIEZ -\u60aa\u6f22\u5974\u7b49 is Forever-",
+      "url": "https://open.spotify.com/track/4NWiYbUfiHafYYng1tPbmH"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u95c7\u5802\u56db\u5b63",
+          "url": "https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi"
+        },
+        {
+          "name": "\u68d7\u30ea\u30e5\u30a6",
+          "url": "https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp"
+        },
+        {
+          "name": "\u5f81\u6728\u5317\u658e",
+          "url": "https://open.spotify.com/artist/5o6NZK2tUyqNZhpynx4Rdn"
+        },
+        {
+          "name": "\u5186\u5c71\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274786,
+      "name": "CHILLIN'",
+      "url": "https://open.spotify.com/track/001XbLzehFlaNWsoWXkma9"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213886,
+      "name": "Ch\u25b3mp1on",
+      "url": "https://open.spotify.com/track/7CvTAPl3FkhRI0BJ7ADjKu"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "Do as I say",
+      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212850,
+      "name": "DO or DIE",
+      "url": "https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u6797\u30e8\u30a6\u5e73",
+          "url": "https://open.spotify.com/artist/38140G7vQbueXVUWNQkJym"
+        },
+        {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54",
+          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211906,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/4c7cKemfmTOd952m9F3JQ4"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236442,
+      "name": "edN",
+      "url": "https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"PRIDE\"",
+        "url": "https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "EmBlem!!!",
+      "url": "https://open.spotify.com/track/5Dd8nsOEsEMWvD1CWdIC0P"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -\u60aa\u6f22\u5974\u7b49-",
+        "url": "https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234584,
+      "name": "EMPEROR - WE ON FIRE!! - - feat. \u5016\u7530\u4f86\u672a",
+      "url": "https://open.spotify.com/track/6Ih3BC1tbYyNqrebW6z8GN"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228085,
+      "name": "Endless Dream",
+      "url": "https://open.spotify.com/track/0nd2vulAlXnULt6RLfpImm"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"JUSTICE\"",
+        "url": "https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226778,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/6lqEiNZgdHxWlNm0Rs6v21"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241297,
+      "name": "Fight For Liberty",
+      "url": "https://open.spotify.com/track/3T6HSNJ19xJCrk9gJ8bHiC"
+    },
+    {
+      "album": {
+        "name": "Paradox Live THE ANIMATION Opening Track\u300cRISE UP\u300d",
+        "url": "https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224954,
+      "name": "FLY HIGH!!!",
+      "url": "https://open.spotify.com/track/1GD8J2VAVWcWHQqpK2Ekyg"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218253,
+      "name": "For my Stella",
+      "url": "https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234276,
+      "name": "FRE\u25b3KOUT",
+      "url": "https://open.spotify.com/track/0zacDFf8WX2QZS9y9A2Kih"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cVIBES\"",
+        "url": "https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226826,
+      "name": "F\u25b3Bulous",
+      "url": "https://open.spotify.com/track/3piRNhTT2avDb6LIMkjhmF"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"DESIRE\"",
+        "url": "https://open.spotify.com/album/1flWzBBYS2auFKxG9R3Qxw"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Get it",
+      "url": "https://open.spotify.com/track/0ehowoQbxrforbcVf2a7Q7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -cozmez-",
+        "url": "https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168822,
+      "name": "Good Time - feat. SKY-HI",
+      "url": "https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- (Round2 \u201cWILL\")",
+        "url": "https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218436,
+      "name": "G\u25b3L\u25b3XY\u221e",
+      "url": "https://open.spotify.com/track/2Pj7rQnLezTLpEaSprP5KP"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167927,
+      "name": "Hit em up",
+      "url": "https://open.spotify.com/track/3hIlHC3TNC3rB5Bb1duN2q"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        },
+        {
+          "name": "\u68d7\u30ea\u30e5\u30a6",
+          "url": "https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp"
+        },
+        {
+          "name": "\u5186\u5c71\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212093,
+      "name": "Jumping Into My World",
+      "url": "https://open.spotify.com/track/6dcdGwSr1UYjTqrjqbZok7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -The Cat\u2019s Whiskers-",
+        "url": "https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206942,
+      "name": "Life Is Beautiful",
+      "url": "https://open.spotify.com/track/5YCuRO5C1Njp2qLviXpwo5"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262306,
+      "name": "MASTER OF MUSIC",
+      "url": "https://open.spotify.com/track/5AC8Tcm230qVwmCUJcPae7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cLOVE\"",
+        "url": "https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227373,
+      "name": "Mercy On Me",
+      "url": "https://open.spotify.com/track/4qwWEjyBecq8UhxntDOtPt"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -The Cat\u2019s Whiskers-",
+        "url": "https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u30df\u30c3\u30c1\u30a7\u30eb\u548c\u99ac",
+          "url": "https://open.spotify.com/artist/5zTmFDG1UQZv21KlJp3SVH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272729,
+      "name": "My Sweetest Love - feat. \u30df\u30c3\u30c1\u30a7\u30eb\u548c\u99ac",
+      "url": "https://open.spotify.com/track/3Vy07r6U50pdOEhMFNoz5v"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u96c0\u91ce\u30a2\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn"
+        },
+        {
+          "name": "\u897f\u9580\u76f4\u660e",
+          "url": "https://open.spotify.com/artist/5Mc3s7ESahaPs9jUPNLn33"
+        },
+        {
+          "name": "\u71d5\u590f\u6e96",
+          "url": "https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I"
+        },
+        {
+          "name": "New&Classic",
+          "url": "https://open.spotify.com/artist/1DZmCPWaQd3veiPUAZaMHm"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205920,
+      "name": "New & Classic",
+      "url": "https://open.spotify.com/track/6pkYkpcB1VbexZRe7Epz3o"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- (Round2 \u201cWILL\")",
+        "url": "https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188935,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/7DZ7IveWyOt03jkxMGxpPT"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "Nobody But Me",
+      "url": "https://open.spotify.com/track/1z66lEenIxfivIqx3jwVXP"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 1st album \"TRAP\"",
+        "url": "https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "One Shot One Kill",
+      "url": "https://open.spotify.com/track/3nlyxsekQQVFpzC8slEypK"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"JUSTICE\"",
+        "url": "https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203074,
+      "name": "OUTSIDERZ -\u60aa\u6f22\u5974\u7b49 is Justice-",
+      "url": "https://open.spotify.com/track/2GwNa8lTXk44cGNpNQaMc9"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "ISSA",
+          "url": "https://open.spotify.com/artist/55qUCocACeYAjC0FwPCYxT"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "P\u25b3R\u25b3DISE - feat. ISSA",
+      "url": "https://open.spotify.com/track/3JsLZ9MZpwnk9e18KU8l01"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 1st album \"TRAP\"",
+        "url": "https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333293,
+      "name": "Rap Guerrilla - Paradox Live All ARTISTS-",
+      "url": "https://open.spotify.com/track/6qULKH59EzPaQ1dYC3urTh"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        },
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        },
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        },
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        },
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568175,
+      "name": "Rap Guerrilla Reload -Paradox Live All ARTISTS-",
+      "url": "https://open.spotify.com/track/5BAmqJ3OTGJnN25PE69d5c"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u71d5\u590f\u6e96",
+          "url": "https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u53ef\u6ce2\u6c70",
+          "url": "https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288586,
+      "name": "Rats & Nobles",
+      "url": "https://open.spotify.com/track/5puGKhaphVDO2yaU9ycynd"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -\u60aa\u6f22\u5974\u7b49-",
+        "url": "https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236724,
+      "name": "REBELLION -\u60aa\u6f22\u5974\u7b49 is still Burning-",
+      "url": "https://open.spotify.com/track/1A41PE1Z8ho4FMsswv8CMX"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194826,
+      "name": "Ride Out",
+      "url": "https://open.spotify.com/track/6pG5LKAHWEtItr80wXd1wB"
+    },
+    {
+      "album": {
+        "name": "Paradox Live THE ANIMATION Opening Track\u300cRISE UP\u300d",
+        "url": "https://open.spotify.com/album/19rtC1twZKhiqLfnOZT6bS"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2023-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220110,
+      "name": "RISE UP",
+      "url": "https://open.spotify.com/track/1fB1NOeELQJwHw5kLeQEf4"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Road to Legend",
+      "url": "https://open.spotify.com/track/5Pj0XVgXzilQpaMUemNeDr"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u95c7\u5802\u56db\u5b63",
+          "url": "https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199893,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/6rriREMck8MKJGyIvDz8RM"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cVIBES\"",
+        "url": "https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "ROWDIEZ - \u60aa\u6f22\u5974\u7b49 Wanted Vibes-",
+      "url": "https://open.spotify.com/track/1zpEnLXTatOpkqPZOmaWqJ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 1st album \"TRAP\"",
+        "url": "https://open.spotify.com/album/41AGmsnU96M9VEhyHrnUOw"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207413,
+      "name": "Runnin\u2019",
+      "url": "https://open.spotify.com/track/4SrtbP8GsHwTqPTVHq5Vn0"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204971,
+      "name": "S.W.A.G.",
+      "url": "https://open.spotify.com/track/1zXouHes5cmxiDoJfhuGrJ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228594,
+      "name": "Shooting Arrows",
+      "url": "https://open.spotify.com/track/5u7oxCfcgsA24S2baVyE2j"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "STRONGER",
+      "url": "https://open.spotify.com/track/4n5g8NKjsfFFbQAXZkzf52"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241442,
+      "name": "S\u2200G\u2200",
+      "url": "https://open.spotify.com/track/1904WDc1vPTyicKpWOjYCY"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Takin' Over",
+      "url": "https://open.spotify.com/track/3aijFXMY9wo62fKdRPgNtS"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u96c0\u91ce\u30a2\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u53ef\u6ce2\u6c70",
+          "url": "https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205706,
+      "name": "The Sound Of Voltage",
+      "url": "https://open.spotify.com/track/3kOkZp9RyrsqHyHZ593tTS"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"FAMILY\"",
+        "url": "https://open.spotify.com/album/6nxWApKJGlploLVAYSivXZ"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180520,
+      "name": "This Is My Love",
+      "url": "https://open.spotify.com/track/7JoohALUM4CnnB6hjEMlKH"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/17TfJV2sZ7qWMtYgNATuKj"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "True Pride",
+      "url": "https://open.spotify.com/track/4In63Qb9rOWsjrxJsaAYii"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "TURN IT UP!!!!!! -\u60aa\u6f22SOUL FEVER-",
+      "url": "https://open.spotify.com/track/7dAK7EjBfYVhVVr2RmFLJi"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Two Crowns",
+      "url": "https://open.spotify.com/track/3zexZYulEPhRXeyUjF8Kq2"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1242266,
+      "name": "Voice Drama \"FATE\" - Part1",
+      "url": "https://open.spotify.com/track/7czgOku3mdy6UbDxfcRwhv"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 726693,
+      "name": "Voice Drama \"FATE\" - Part2",
+      "url": "https://open.spotify.com/track/3WOC7vZoY49WfHVLcCqsS3"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 992133,
+      "name": "Voice Drama \"FATE\" - Part3",
+      "url": "https://open.spotify.com/track/0uFvTwnuX94kgnF0PmmehK"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1034480,
+      "name": "Voice Drama \"FATE\" - Part4",
+      "url": "https://open.spotify.com/track/4kmr23H13XEzuA1W4DssWT"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 2nd album \"LIVE\"",
+        "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 948733,
+      "name": "Voice Drama \"LIVE\" - Part1",
+      "url": "https://open.spotify.com/track/1RXiApnt95ZuxSVY6eCLFx"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 2nd album \"LIVE\"",
+        "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1220066,
+      "name": "Voice Drama \"LIVE\" - Part2",
+      "url": "https://open.spotify.com/track/7J9vyC82sWaEIaGS8Ba1Mr"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 2nd album \"LIVE\"",
+        "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1338506,
+      "name": "Voice Drama \"LIVE\" - Part3",
+      "url": "https://open.spotify.com/track/4WclRD4J1tGr2fs6hrQaJZ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live 2nd album \"LIVE\"",
+        "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1091986,
+      "name": "Voice Drama \"LIVE\" - Part4",
+      "url": "https://open.spotify.com/track/491jPMQw5StUgOS5Fz0Yme"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cLOVE\"",
+        "url": "https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021720,
+      "name": "Voice Drama \"LOVE\" - Part1",
+      "url": "https://open.spotify.com/track/44iZ1U5EyeHaz2qwlVQYTG"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cLOVE\"",
+        "url": "https://open.spotify.com/album/29HhqoHBKrxYODgrc1Klk0"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1094813,
+      "name": "Voice Drama \"LOVE\" - Part2",
+      "url": "https://open.spotify.com/track/0xcg4e9Zeo1oMlVLwI1uLu"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 945805,
+      "name": "Voice Drama \"RAGE\" - Part1",
+      "url": "https://open.spotify.com/track/42Fz8fsVLQQZNc8PvUdMPp"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1119458,
+      "name": "Voice Drama \"RAGE\" - Part2",
+      "url": "https://open.spotify.com/track/05nT2kfeO92jLVBwPgstb0"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1249732,
+      "name": "Voice Drama \"RAGE\" - Part3",
+      "url": "https://open.spotify.com/track/74pSRelGCXekyEbUPFfvAF"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1010674,
+      "name": "Voice Drama \"RAGE\" - Part4",
+      "url": "https://open.spotify.com/track/4tWjRebdIp42mtpp4tiCVt"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1536031,
+      "name": "Voice Drama \"REVOLUTION\" Part BAE",
+      "url": "https://open.spotify.com/track/62IaMNggMnppg8NnLmfMgC"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1488128,
+      "name": "Voice Drama \"REVOLUTION\" Part cozmez",
+      "url": "https://open.spotify.com/track/2nMvFsWpFSTXGQRomiL1nQ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 575393,
+      "name": "Voice Drama \"REVOLUTION\" Part \u6b66\u96f7\u7ba1",
+      "url": "https://open.spotify.com/track/3kNz1BrOSRkPTdF2DuiUoc"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1490735,
+      "name": "Voice Drama \"REVOLUTION\" Part \u7344Luck",
+      "url": "https://open.spotify.com/track/0u6e9hBFyCyCxTozoq6hEi"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cVIBES\"",
+        "url": "https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645120,
+      "name": "Voice Drama \"VIBES\" - Part1",
+      "url": "https://open.spotify.com/track/0Q7N7ExRmKeGN9RQeA01v9"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- (Round2 \u201cWILL\")",
+        "url": "https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1215148,
+      "name": "Voice Drama \"WILL\" - Part1",
+      "url": "https://open.spotify.com/track/52CQHV0hMBY7rXr2Ov6MLz"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- (Round2 \u201cWILL\")",
+        "url": "https://open.spotify.com/album/0eeHzEubbMtSUAQPx2Yv2T"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1148681,
+      "name": "Voice Drama \"WILL\" - Part2",
+      "url": "https://open.spotify.com/track/152xTTIkBj4g1iqa3jS4H6"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54",
+          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
+        },
+        {
+          "name": "\u96c5\u90a6\u5584",
+          "url": "https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78"
+        },
+        {
+          "name": "\u4f0a\u85e4\u7d17\u6708",
+          "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436133,
+      "name": "Voice Drama - \"CLUB CANDY\"",
+      "url": "https://open.spotify.com/track/1U6POaU9mVJpbigT1O0G4u"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        },
+        {
+          "name": "\u68d7\u30ea\u30e5\u30a6",
+          "url": "https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp"
+        },
+        {
+          "name": "\u5186\u5c71\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "Voice Drama - \"Lollipop*universe\"",
+      "url": "https://open.spotify.com/track/0JCY1LtR6GmmJJNIkIaMXe"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u96c0\u91ce\u30a2\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn"
+        },
+        {
+          "name": "\u897f\u9580\u76f4\u660e",
+          "url": "https://open.spotify.com/artist/5Mc3s7ESahaPs9jUPNLn33"
+        },
+        {
+          "name": "\u71d5\u590f\u6e96",
+          "url": "https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I"
+        },
+        {
+          "name": "New&Classic",
+          "url": "https://open.spotify.com/artist/1DZmCPWaQd3veiPUAZaMHm"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341413,
+      "name": "Voice Drama - \"New & Classic\"",
+      "url": "https://open.spotify.com/track/5Y0HzmlPQSBJyxzz91KOTs"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460560,
+      "name": "Voice Drama - \"Opening\"",
+      "url": "https://open.spotify.com/track/2aCIRMKQF0G7aN6IE2Q7Sl"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u95c7\u5802\u56db\u5b63",
+          "url": "https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413280,
+      "name": "Voice Drama - \"\u5c4b\u4e0a\u306e\u30c8\u30e2\u30c0\u30c1\"",
+      "url": "https://open.spotify.com/track/4zSKOBmBtiW80MDNhUyiYa"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u71d5\u590f\u6e96",
+          "url": "https://open.spotify.com/artist/6IQXL6FP1MHrFrMO329e8I"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u53ef\u6ce2\u6c70",
+          "url": "https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70",
+          "url": "https://open.spotify.com/artist/7nVUI9CT2OrfnsQSyyU5wK"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361653,
+      "name": "Voice Drama - 48 & cozmez",
+      "url": "https://open.spotify.com/track/0YcdXL1fSWJrGLrj5q0Yxu"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u4f0a\u85e4\u7d17\u6708",
+          "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325426,
+      "name": "Voice Drama - Beauty & Beast",
+      "url": "https://open.spotify.com/track/6R5ULM1EPJCEORyNgMenR9"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u6797\u30e8\u30a6\u5e73",
+          "url": "https://open.spotify.com/artist/38140G7vQbueXVUWNQkJym"
+        },
+        {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54",
+          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429586,
+      "name": "Voice Drama - Double Trouble",
+      "url": "https://open.spotify.com/track/7wCUJbOQVdASg5tl1jfnOO"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \u201cVIBES\"",
+        "url": "https://open.spotify.com/album/5zwNzFPeOEHHAbl4fguBIa"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1076600,
+      "name": "Voice Drama - Part2",
+      "url": "https://open.spotify.com/track/5bAjD7fDAoZdS6ihrxL1Pm"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u96c0\u91ce\u30a2\u30ec\u30f3",
+          "url": "https://open.spotify.com/artist/3L2R5NrRednQ8aK3fCrsqn"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u53ef\u6ce2\u6c70",
+          "url": "https://open.spotify.com/artist/2V7qMRMjNcuZmu3JQyFkqa"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346720,
+      "name": "Voice Drama - SUZAKU & KANATA",
+      "url": "https://open.spotify.com/track/1GGTql5gvWeFeciKzBcQFp"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u95c7\u5802\u56db\u5b63",
+          "url": "https://open.spotify.com/artist/5BVVhDIGYa7cfSVBoBUAKi"
+        },
+        {
+          "name": "\u68d7\u30ea\u30e5\u30a6",
+          "url": "https://open.spotify.com/artist/0t6oyiG4NxLbNHKxE4U9Tp"
+        },
+        {
+          "name": "\u5f81\u6728\u5317\u658e",
+          "url": "https://open.spotify.com/artist/5o6NZK2tUyqNZhpynx4Rdn"
+        },
+        {
+          "name": "\u5186\u5c71\u73b2\u592e",
+          "url": "https://open.spotify.com/artist/6Nqu7vY2QyTha9ZbcdvXnc"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461586,
+      "name": "Voice Drama - \u5317\u658e with \u3042\u304b\u3093\u30ad\u30e3\u30c3\u30c4\u3089",
+      "url": "https://open.spotify.com/track/5ralScvvbsoRITjjGvO29O"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"DESIRE\"",
+        "url": "https://open.spotify.com/album/1flWzBBYS2auFKxG9R3Qxw"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 925240,
+      "name": "Voice Drama DESIRE - Part1",
+      "url": "https://open.spotify.com/track/5MCKkhe28aCtvpN5wfcQwF"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"DESIRE\"",
+        "url": "https://open.spotify.com/album/1flWzBBYS2auFKxG9R3Qxw"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1086013,
+      "name": "Voice Drama DESIRE - Part2",
+      "url": "https://open.spotify.com/track/2zWgAyAXVlGmaEUsvvqczV"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1078115,
+      "name": "Voice Drama Exibition - Part1",
+      "url": "https://open.spotify.com/track/6pjnsYi24mTbTS7sZIe3Yg"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1293974,
+      "name": "Voice Drama Exibition - Part2",
+      "url": "https://open.spotify.com/track/0ooh3M5EJXCHEY24gIEWVS"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1133616,
+      "name": "Voice Drama Exibition - Part3",
+      "url": "https://open.spotify.com/track/64ju6pm3nmAUfl32VxzDHW"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Exhibition Show -BAE-",
+        "url": "https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1211889,
+      "name": "Voice Drama Exibition - Part4",
+      "url": "https://open.spotify.com/track/5sXxLSR1l0UASHGJQARZjG"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"FAMILY\"",
+        "url": "https://open.spotify.com/album/6nxWApKJGlploLVAYSivXZ"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1109613,
+      "name": "Voice Drama FAMILY - Part1",
+      "url": "https://open.spotify.com/track/536ipigv8F1CdJLBWwUXN7"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"FAMILY\"",
+        "url": "https://open.spotify.com/album/6nxWApKJGlploLVAYSivXZ"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1085466,
+      "name": "Voice Drama FAMILY - Part2",
+      "url": "https://open.spotify.com/track/2REITXwmGCHGb4B4HTpaJJ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"JUSTICE\"",
+        "url": "https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1122055,
+      "name": "Voice Drama JUSTICE - Part1",
+      "url": "https://open.spotify.com/track/5dO8xfRyv2uFjiUQn5opJU"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"JUSTICE\"",
+        "url": "https://open.spotify.com/album/3i54Y4LgI4XGwheoY6lejl"
+      },
+      "artists": [
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1005567,
+      "name": "Voice Drama JUSTICE - Part2",
+      "url": "https://open.spotify.com/track/01oYWLhnA1e87DmeKbROaJ"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 792188,
+      "name": "Voice Drama Part \"1Nm8\"",
+      "url": "https://open.spotify.com/track/7h0ze6izTjslEQx0xufMbH"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 725252,
+      "name": "Voice Drama Part \"AMPRULE\"",
+      "url": "https://open.spotify.com/track/0iEgZAnDcvrcG3lVuudtzI"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "\u6731\u96c0\u91ce\u30a2\u30ec\u30f3(CV.\u68b6\u539f\u5cb3\u4eba)",
+          "url": "https://open.spotify.com/artist/2dNQkQ2SonTp21hBXqLaGO"
+        },
+        {
+          "name": "\u71d5\u590f\u6e96(CV.\u6751\u702c\u6b69)",
+          "url": "https://open.spotify.com/artist/3kVq6GF0WSMducZXfMC4Xa"
+        },
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc(CV.96\u732b)",
+          "url": "https://open.spotify.com/artist/0WcxLZPELa9iXVthooPpkp"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1061800,
+      "name": "Voice Drama Part \"BAE\"",
+      "url": "https://open.spotify.com/track/2l93CmpuwPW1c2T0YfEgi0"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u73c2\u6ce2\u6c70(CV.\u5c0f\u6797\u88d5\u4ecb)",
+          "url": "https://open.spotify.com/artist/3j1aAl83rPDkUFZHFICplr"
+        },
+        {
+          "name": "\u77e2\u6238\u4e43\u4e0a\u90a3\u7531\u6c70(CV.\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/4GKgEeKlFq3juruaS1QCYw"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1031400,
+      "name": "Voice Drama Part \"cozmez\"",
+      "url": "https://open.spotify.com/track/4OZGBy2m4uxPlQUIHfrefS"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "\u897f\u9580\u76f4\u660e(CV.\u7af9\u5185\u826f\u592a)",
+          "url": "https://open.spotify.com/artist/0rtwOZ3TLI4POnOuIWCd2n"
+        },
+        {
+          "name": "\u795e\u6797\u3088\u3046\u5e73(CV.\u6797\u52c7)",
+          "url": "https://open.spotify.com/artist/1TEZ5FIfv3ODtFcWw69iKq"
+        },
+        {
+          "name": "\u68d7\u30ea\u30e5\u30a6(CV.\u82b1\u6c5f\u590f\u6a39)",
+          "url": "https://open.spotify.com/artist/5yHA4iw4swck2WPcBEcsp1"
+        },
+        {
+          "name": "\u95c7\u5802\u56db\u5b63(CV.\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/1oz2kPWesRGNl6LhZB1OnX"
+        },
+        {
+          "name": "\u4ed6",
+          "url": "https://open.spotify.com/artist/0lX3SRG4CSTJowqVUSCudO"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1259546,
+      "name": "Voice Drama Part \"The Cat's Whiskers\"",
+      "url": "https://open.spotify.com/track/7fvdkrqX1QI7IXeC25Y5Dw"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1144395,
+      "name": "Voice Drama Part \"VISTY\"",
+      "url": "https://open.spotify.com/track/63zcEqMqnqxKtqqDlWcv7H"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54(CV.\u8fd1\u85e4\u5b5d\u884c)",
+          "url": "https://open.spotify.com/artist/6l7puW870soJvX99zcS3S4"
+        },
+        {
+          "name": "\u96c5\u90a6\u5584(CV.\u5fd7\u9ebb)",
+          "url": "https://open.spotify.com/artist/00QHpY36vsIZNzmiMlf7Dw"
+        },
+        {
+          "name": "\u5f81\u6728\u5317\u658e(CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/5i1bRp59ArquwRhlRbPYBC"
+        },
+        {
+          "name": "\u4f0a\u85e4\u7d17\u6708(CV.\u7560\u4e2d\u7950)",
+          "url": "https://open.spotify.com/artist/5gAWfHqr5RaqEDbcPeCrcl"
+        },
+        {
+          "name": "\u5186\u5c71\u73b2\u592e(CV.\u77e2\u91ce\u5968\u543e)",
+          "url": "https://open.spotify.com/artist/2QkrIt8pM9uOqJwOeU6ZPj"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1018240,
+      "name": "Voice Drama Part \"\u60aa\u6f22\u5974\u7b49\"",
+      "url": "https://open.spotify.com/track/4wSXlT1Ls8ogy4QviPaEjO"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838860,
+      "name": "Voice Drama Part \"\u7344Luck\"",
+      "url": "https://open.spotify.com/track/3mWMzW7fmdkmtMXLCUHKan"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        },
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525697,
+      "name": "Voice Drama Part \u201ccozmez & \u6b66\u96f7\u7ba1 -Final Battle-\u201d",
+      "url": "https://open.spotify.com/track/69pHYwOmq9a494hxIRZXC2"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        },
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        },
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        },
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        },
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        },
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        },
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 907363,
+      "name": "Voice Drama Part \u201cOpening Show -Road to Legend-\u201d",
+      "url": "https://open.spotify.com/track/5s6L3O5XRVbwcx1loTDLOm"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"PRIDE\"",
+        "url": "https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1026066,
+      "name": "Voice Drama PRIDE Part1",
+      "url": "https://open.spotify.com/track/4vOqTzcwluedfjxD7dfeBI"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Stage Battle \"PRIDE\"",
+        "url": "https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        },
+        {
+          "name": "The Cat's Whiskers",
+          "url": "https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1143373,
+      "name": "Voice Drama PRIDE Part2",
+      "url": "https://open.spotify.com/track/2nryPPg5EvKjPNKHXU763u"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1841604,
+      "name": "Voice Drama \u201cSHOWDOWN\u201d Part 1Nm8",
+      "url": "https://open.spotify.com/track/3WUhoAz69ASwUPvkJA6y23"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1495821,
+      "name": "Voice Drama \u201cSHOWDOWN\u201d Part AMPRULE",
+      "url": "https://open.spotify.com/track/6cB1IScnwy5QTUQ1MSizfx"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1409394,
+      "name": "Voice Drama \u201cSHOWDOWN\u201d Part VISTY",
+      "url": "https://open.spotify.com/track/1HKkbD5R3fNp4xQHgEDTMb"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "\u6b66\u96f7\u7ba1",
+          "url": "https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520148,
+      "name": "Voice Drama \u201cSHOWDOWN\u201d Part \u6b66\u96f7\u7ba1",
+      "url": "https://open.spotify.com/track/5ZNIMs9tOKtN1KbRHoFPKo"
+    },
+    {
+      "album": {
+        "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
+        "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1377807,
+      "name": "Voice Drama \u201cSHOWDOWN\u201d Part \u7344Luck",
+      "url": "https://open.spotify.com/track/65hRgPKRfJDhBcsMvWU070"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197325,
+      "name": "We \u25b3re The Future",
+      "url": "https://open.spotify.com/track/1LkErfWBdLQhB8WsnoBHNs"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Where they at",
+      "url": "https://open.spotify.com/track/4uLcrIt7ZONd7AzhmsAAxA"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.2)",
+        "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u4f0a\u85e4\u7d17\u6708",
+          "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Why do you like me??",
+      "url": "https://open.spotify.com/track/4bACB0QtfXGVoezkhd8IwI"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "Bae",
+          "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268146,
+      "name": "W\u25b3vin' FL\u25b3g",
+      "url": "https://open.spotify.com/track/3QvISTHoFVlCgQbCtHsmt5"
+    },
+    {
+      "album": {
+        "name": "Paradox Live Shuffle Team Show (Vol.1)",
+        "url": "https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30fb\u30d5\u30a9\u30fc\u30af\u30ca\u30fc",
+          "url": "https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM"
+        },
+        {
+          "name": "\u7fe0\u77f3\u4f9d\u7e54",
+          "url": "https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z"
+        },
+        {
+          "name": "\u96c5\u90a6\u5584",
+          "url": "https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78"
+        },
+        {
+          "name": "\u4f0a\u85e4\u7d17\u6708",
+          "url": "https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231386,
+      "name": "\u30ae\u30e9\u30ae\u30e9CANDY NIGHT",
+      "url": "https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH"
+    },
+    {
+      "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
+        "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
+      },
+      "artists": [
+        {
+          "name": "\u60aa\u6f22\u5974\u7b49",
+          "url": "https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228617,
+      "name": "\u5927\u706b\u50b7 - License To Kill -",
+      "url": "https://open.spotify.com/track/1rIyhhyKKKxVJ59x6LqIjx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3izH056ADq"
 }

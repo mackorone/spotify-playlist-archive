@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,967 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,992 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

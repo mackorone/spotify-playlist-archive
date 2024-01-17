@@ -4,7 +4,7 @@
 
 > Les hits algériens du moment\. Cover: Moha K, Lyna Mahyem
 
-182 songs - 11 hr 8 min
+183 songs - 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Galbi 3lik Nberdah](https://open.spotify.com/track/1dNtGFaYXVYZScOHJDxHop) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A), [Yousri Osqar](https://open.spotify.com/artist/7g2JUs53eAMoNovszsQtay) | [Galbi 3lik Nberdah](https://open.spotify.com/album/3NPdCimnGE3NROx5bGPr4y) | 5:07 | 2022-12-27 | 2023-02-01 |
 | [Galbi Khasah Molah](https://open.spotify.com/track/1sKCCDynLxGhHesdlLGT7s) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Galbi Khasah Molah](https://open.spotify.com/album/3SPNmQhrvYytlwGUYhZ0KT) | 4:26 | 2023-08-14 |  |
 | [GHAZALI](https://open.spotify.com/track/1hZrz8xkp0QEJNNmdKYNVP) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [GHAZALI](https://open.spotify.com/album/7Abvw9BQxOgFT6FTld7zoC) | 5:04 | 2022-10-25 | 2022-11-04 |
-| [GHAZALI](https://open.spotify.com/track/2JCxNic0pS1pAXNnRKS3QH) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/1bMeGmCiuPxq3TyiK0zmWm) | 3:16 | 2023-03-23 |  |
+| [GHAZALI](https://open.spotify.com/track/2JCxNic0pS1pAXNnRKS3QH) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/1bMeGmCiuPxq3TyiK0zmWm) | 3:16 | 2023-03-23 | 2024-01-04 |
 | [GHAZALI](https://open.spotify.com/track/1SYjg4Ff4aGzZVJKfK7OEA) | [MOUHAMED GRINE](https://open.spotify.com/artist/5Sj8EjR3eENxsr4Tgv9OGh), [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [GHAZALI](https://open.spotify.com/album/6q4ADoh3h7OHkFJsCFcx6l) | 3:16 | 2022-08-19 | 2023-03-28 |
 | [Ghir Enti](https://open.spotify.com/track/1ZboOiAPI8yQ3wYOnOzxg7) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Yasmine Ammari](https://open.spotify.com/artist/5XoRKOk0xPtJKh38ECeW0f) | [Ghir Enti](https://open.spotify.com/album/2Z2BC5qzu48N2roU7SC8Wc) | 3:25 | 2023-08-14 |  |
 | [Ghorba](https://open.spotify.com/track/3toSazVCqpqb4gbDv5oFu1) | [Medi Meyz](https://open.spotify.com/artist/4XCcYzu2zRJvBp3QZct3Oj), [Souf](https://open.spotify.com/artist/2tsnxjntsRI6iFL9ZeC0ec), [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Ghorba](https://open.spotify.com/album/2fzJHkMuLWU9nHXstA5cw8) | 3:45 | 2023-01-30 | 2023-11-07 |
@@ -141,6 +141,7 @@
 | [Nostalgia](https://open.spotify.com/track/4tEw6bifHyNYiWY04AA4AG) | [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S), [Paris](https://open.spotify.com/artist/0jdmK9qg8xJkvDRpPfNBVz) | [Nostalgia](https://open.spotify.com/album/2oqxBfFJJmFRs2DQikkWjK) | 2:34 | 2023-01-11 | 2023-02-01 |
 | [Nouveaux parrains](https://open.spotify.com/track/4ycyOBm9iFoiNVkafhb1WW) | [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Nouveaux parrains](https://open.spotify.com/album/6gXYP4nPpC5k6B25h3upDa) | 2:45 | 2021-12-09 | 2023-02-07 |
 | [nrml](https://open.spotify.com/track/3KXqOio8jnBKwYSoft0zmn) | [Syc](https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu) | [nrml](https://open.spotify.com/album/6qACahl9BKPtWckNidkfMO) | 2:57 | 2022-12-05 | 2023-08-15 |
+| [Nsel Fik](https://open.spotify.com/track/4Eijnd1EdtWNuWHLOxYolj) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX), [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Nsel Fik](https://open.spotify.com/album/1Ju1trvRQQcY2VLU0GdSMg) | 4:10 | 2024-01-03 |  |
 | [Nta Gudami \- Remix](https://open.spotify.com/track/7pxJK697fEgxphm1fxwczS) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [Cheikha Rimitti](https://open.spotify.com/artist/364dHqe2BwXqmOhgdBXpw8) | [Nta Gudami](https://open.spotify.com/album/1eI7koC3KRAIe8jukAL2GA) | 4:15 | 2022-12-05 | 2022-12-26 |
 | [Omri Pardon](https://open.spotify.com/track/5GgTFjEOukdET42VOXAj1F) | [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Omri Pardon](https://open.spotify.com/album/7wAumpI28u7ZYk1yfa9DyV) | 3:57 | 2023-05-10 | 2023-07-10 |
 | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/track/14JOApiTQdswbX0QOcW23Z) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [On s'fait du mal \(feat\. Dadju\)](https://open.spotify.com/album/738GXDEcvHwzXy2FZZeNQB) | 3:02 | 2023-10-11 |  |

@@ -1,735 +1,855 @@
 {
-  "2021-12-25": 96,
-  "2021-12-26": 96,
-  "2021-12-27": 96,
-  "2021-12-28": 96,
-  "2021-12-29": 96,
-  "2021-12-30": 96,
-  "2021-12-31": 96,
-  "2022-01-01": 96,
-  "2022-01-02": 96,
-  "2022-01-03": 96,
-  "2022-01-04": 96,
-  "2022-01-05": 96,
-  "2022-01-06": 96,
-  "2022-01-07": 96,
-  "2022-01-08": 96,
-  "2022-01-09": 96,
-  "2022-01-10": 96,
-  "2022-01-11": 96,
-  "2022-01-12": 96,
-  "2022-01-13": 96,
-  "2022-01-14": 96,
-  "2022-01-15": 96,
-  "2022-01-16": 96,
-  "2022-01-17": 96,
-  "2022-01-18": 96,
-  "2022-01-19": 96,
-  "2022-01-20": 96,
-  "2022-01-21": 96,
-  "2022-01-22": 96,
-  "2022-01-23": 96,
-  "2022-01-24": 96,
-  "2022-01-25": 96,
-  "2022-01-26": 96,
-  "2022-01-27": 96,
-  "2022-01-28": 96,
-  "2022-01-29": 96,
-  "2022-01-30": 96,
-  "2022-01-31": 96,
-  "2022-02-01": 96,
-  "2022-02-02": 96,
-  "2022-02-03": 96,
-  "2022-02-04": 96,
-  "2022-02-05": 96,
-  "2022-02-06": 96,
-  "2022-02-07": 96,
-  "2022-02-08": 96,
-  "2022-02-09": 96,
-  "2022-02-10": 96,
-  "2022-02-11": 96,
-  "2022-02-12": 96,
-  "2022-02-13": 96,
-  "2022-02-14": 96,
-  "2022-02-15": 96,
-  "2022-02-16": 96,
-  "2022-02-17": 96,
-  "2022-02-18": 96,
-  "2022-02-19": 96,
-  "2022-02-20": 96,
-  "2022-02-21": 96,
-  "2022-02-22": 96,
-  "2022-02-23": 96,
-  "2022-02-24": 96,
-  "2022-02-25": 96,
-  "2022-02-26": 96,
-  "2022-02-27": 96,
-  "2022-02-28": 96,
-  "2022-03-01": 96,
-  "2022-03-02": 96,
-  "2022-03-03": 96,
-  "2022-03-04": 96,
-  "2022-03-05": 96,
-  "2022-03-06": 96,
-  "2022-03-07": 96,
-  "2022-03-08": 96,
-  "2022-03-09": 96,
-  "2022-03-10": 96,
-  "2022-03-11": 96,
-  "2022-03-12": 96,
-  "2022-03-13": 96,
-  "2022-03-14": 96,
-  "2022-03-15": 96,
-  "2022-03-16": 96,
-  "2022-03-17": 96,
-  "2022-03-18": 96,
-  "2022-03-19": 96,
-  "2022-03-20": 96,
-  "2022-03-21": 96,
-  "2022-03-22": 96,
-  "2022-03-23": 96,
-  "2022-03-24": 96,
-  "2022-03-25": 96,
-  "2022-03-26": 96,
-  "2022-03-27": 96,
-  "2022-03-28": 96,
-  "2022-03-30": 96,
-  "2022-03-31": 96,
-  "2022-04-01": 96,
-  "2022-04-02": 96,
-  "2022-04-03": 96,
-  "2022-04-04": 96,
-  "2022-04-05": 96,
-  "2022-04-06": 96,
-  "2022-04-07": 96,
-  "2022-04-08": 96,
-  "2022-04-09": 96,
-  "2022-04-10": 96,
-  "2022-04-11": 96,
-  "2022-04-12": 96,
-  "2022-04-13": 96,
-  "2022-04-14": 96,
-  "2022-04-15": 96,
-  "2022-04-16": 96,
-  "2022-04-17": 96,
-  "2022-04-18": 96,
-  "2022-04-19": 96,
-  "2022-04-20": 96,
-  "2022-04-21": 96,
-  "2022-04-22": 96,
-  "2022-04-23": 96,
-  "2022-04-24": 96,
-  "2022-04-25": 96,
-  "2022-04-26": 96,
-  "2022-04-27": 96,
-  "2022-04-28": 96,
-  "2022-04-29": 96,
-  "2022-04-30": 96,
-  "2022-05-01": 96,
-  "2022-05-02": 96,
-  "2022-05-03": 96,
-  "2022-05-04": 96,
-  "2022-05-05": 96,
-  "2022-05-06": 96,
-  "2022-05-07": 96,
-  "2022-05-08": 96,
-  "2022-05-09": 96,
-  "2022-05-10": 96,
-  "2022-05-11": 96,
-  "2022-05-12": 96,
-  "2022-05-13": 96,
-  "2022-05-14": 96,
-  "2022-05-15": 96,
-  "2022-05-16": 96,
-  "2022-05-17": 96,
-  "2022-05-18": 96,
-  "2022-05-19": 96,
-  "2022-05-20": 96,
-  "2022-05-21": 96,
-  "2022-05-22": 96,
-  "2022-05-23": 96,
-  "2022-05-24": 96,
-  "2022-05-25": 96,
-  "2022-05-26": 96,
-  "2022-05-27": 96,
-  "2022-05-28": 96,
-  "2022-05-29": 96,
-  "2022-05-30": 96,
-  "2022-05-31": 96,
-  "2022-06-01": 96,
-  "2022-06-02": 96,
-  "2022-06-03": 96,
-  "2022-06-04": 96,
-  "2022-06-05": 96,
-  "2022-06-06": 96,
-  "2022-06-07": 96,
-  "2022-06-08": 96,
-  "2022-06-09": 96,
-  "2022-06-10": 96,
-  "2022-06-11": 96,
-  "2022-06-12": 96,
-  "2022-06-13": 96,
-  "2022-06-14": 96,
-  "2022-06-15": 96,
-  "2022-06-16": 96,
-  "2022-06-17": 96,
-  "2022-06-18": 96,
-  "2022-06-19": 96,
-  "2022-06-20": 96,
-  "2022-06-21": 96,
-  "2022-06-22": 96,
-  "2022-06-23": 96,
-  "2022-06-24": 96,
-  "2022-06-25": 96,
-  "2022-06-26": 96,
-  "2022-06-27": 96,
-  "2022-06-28": 96,
-  "2022-06-29": 96,
-  "2022-06-30": 96,
-  "2022-07-01": 96,
-  "2022-07-02": 96,
-  "2022-07-03": 96,
-  "2022-07-04": 96,
-  "2022-07-05": 96,
-  "2022-07-06": 96,
-  "2022-07-07": 96,
-  "2022-07-08": 96,
-  "2022-07-09": 96,
-  "2022-07-10": 96,
-  "2022-07-11": 96,
-  "2022-07-12": 96,
-  "2022-07-13": 96,
-  "2022-07-14": 96,
-  "2022-07-15": 96,
-  "2022-07-16": 96,
-  "2022-07-17": 96,
-  "2022-07-18": 96,
-  "2022-07-19": 96,
-  "2022-07-20": 96,
-  "2022-07-21": 96,
-  "2022-07-22": 96,
-  "2022-07-23": 96,
-  "2022-07-24": 96,
-  "2022-07-25": 96,
-  "2022-07-26": 96,
-  "2022-07-27": 96,
-  "2022-07-28": 96,
-  "2022-07-29": 96,
-  "2022-07-30": 96,
-  "2022-07-31": 96,
-  "2022-08-01": 96,
-  "2022-08-02": 96,
-  "2022-08-03": 96,
-  "2022-08-04": 96,
-  "2022-08-05": 96,
-  "2022-08-06": 96,
-  "2022-08-07": 96,
-  "2022-08-08": 96,
-  "2022-08-09": 96,
-  "2022-08-10": 96,
-  "2022-08-11": 96,
-  "2022-08-12": 96,
-  "2022-08-13": 96,
-  "2022-08-14": 96,
-  "2022-08-15": 96,
-  "2022-08-16": 96,
-  "2022-08-17": 96,
-  "2022-08-18": 96,
-  "2022-08-19": 96,
-  "2022-08-20": 96,
-  "2022-08-21": 96,
-  "2022-08-22": 96,
-  "2022-08-23": 96,
-  "2022-08-24": 96,
-  "2022-08-25": 96,
-  "2022-08-26": 96,
-  "2022-08-27": 96,
-  "2022-08-28": 96,
-  "2022-08-29": 96,
-  "2022-08-30": 96,
-  "2022-08-31": 96,
-  "2022-09-01": 96,
-  "2022-09-02": 96,
-  "2022-09-03": 96,
-  "2022-09-04": 96,
-  "2022-09-05": 96,
-  "2022-09-06": 96,
-  "2022-09-07": 96,
-  "2022-09-09": 96,
-  "2022-09-10": 96,
-  "2022-09-11": 96,
-  "2022-09-12": 96,
-  "2022-09-13": 96,
-  "2022-09-15": 96,
-  "2022-09-16": 96,
-  "2022-09-17": 96,
-  "2022-09-18": 96,
-  "2022-09-19": 96,
-  "2022-09-20": 96,
-  "2022-09-21": 96,
-  "2022-09-22": 96,
-  "2022-09-23": 97,
-  "2022-09-24": 97,
-  "2022-09-25": 96,
-  "2022-09-26": 96,
-  "2022-09-27": 96,
-  "2022-09-28": 96,
-  "2022-09-29": 96,
-  "2022-09-30": 96,
-  "2022-10-01": 96,
-  "2022-10-02": 96,
-  "2022-10-03": 96,
-  "2022-10-04": 96,
-  "2022-10-05": 96,
-  "2022-10-06": 96,
-  "2022-10-07": 96,
-  "2022-10-08": 96,
-  "2022-10-09": 96,
-  "2022-10-10": 96,
-  "2022-10-11": 96,
-  "2022-10-12": 96,
-  "2022-10-13": 96,
-  "2022-10-14": 96,
-  "2022-10-15": 96,
-  "2022-10-16": 96,
-  "2022-10-17": 96,
-  "2022-10-18": 96,
-  "2022-10-19": 96,
-  "2022-10-20": 96,
-  "2022-10-21": 96,
-  "2022-10-22": 96,
-  "2022-10-23": 96,
-  "2022-10-24": 96,
-  "2022-10-25": 96,
-  "2022-10-26": 96,
-  "2022-10-27": 97,
-  "2022-10-28": 97,
-  "2022-10-29": 97,
-  "2022-10-30": 97,
-  "2022-10-31": 97,
-  "2022-11-01": 97,
-  "2022-11-02": 98,
-  "2022-11-03": 98,
-  "2022-11-04": 98,
-  "2022-11-05": 98,
-  "2022-11-06": 98,
-  "2022-11-07": 98,
-  "2022-11-08": 100,
-  "2022-11-09": 100,
-  "2022-11-10": 109,
-  "2022-11-11": 110,
-  "2022-11-12": 109,
-  "2022-11-13": 109,
-  "2022-11-14": 109,
-  "2022-11-15": 109,
-  "2022-11-16": 109,
-  "2022-11-17": 109,
-  "2022-11-18": 109,
-  "2022-11-19": 109,
-  "2022-11-20": 101,
-  "2022-11-21": 100,
-  "2022-11-22": 100,
-  "2022-11-23": 100,
-  "2022-11-24": 100,
-  "2022-11-25": 100,
-  "2022-11-26": 100,
-  "2022-11-27": 99,
-  "2022-11-28": 99,
-  "2022-11-29": 99,
-  "2022-11-30": 99,
-  "2022-12-01": 99,
-  "2022-12-02": 99,
-  "2022-12-03": 99,
-  "2022-12-04": 99,
-  "2022-12-05": 99,
-  "2022-12-06": 99,
-  "2022-12-07": 99,
-  "2022-12-08": 99,
-  "2022-12-09": 99,
-  "2022-12-10": 99,
-  "2022-12-11": 99,
-  "2022-12-12": 99,
-  "2022-12-13": 99,
-  "2022-12-14": 99,
-  "2022-12-15": 98,
-  "2022-12-16": 98,
-  "2022-12-17": 98,
-  "2022-12-18": 98,
-  "2022-12-19": 98,
-  "2022-12-20": 98,
-  "2022-12-21": 98,
-  "2022-12-22": 98,
-  "2022-12-24": 98,
-  "2022-12-25": 96,
-  "2022-12-26": 96,
-  "2022-12-27": 96,
-  "2022-12-28": 96,
-  "2022-12-29": 96,
-  "2022-12-30": 96,
-  "2022-12-31": 96,
-  "2023-01-01": 96,
-  "2023-01-02": 96,
-  "2023-01-03": 96,
-  "2023-01-04": 96,
-  "2023-01-05": 96,
-  "2023-01-06": 96,
-  "2023-01-07": 96,
-  "2023-01-08": 96,
-  "2023-01-09": 96,
-  "2023-01-10": 96,
-  "2023-01-11": 96,
-  "2023-01-12": 96,
-  "2023-01-13": 96,
-  "2023-01-14": 96,
-  "2023-01-15": 96,
-  "2023-01-16": 96,
-  "2023-01-17": 96,
-  "2023-01-18": 96,
-  "2023-01-19": 96,
-  "2023-01-20": 96,
-  "2023-01-21": 96,
-  "2023-01-22": 96,
-  "2023-01-23": 96,
-  "2023-01-24": 96,
-  "2023-01-25": 96,
-  "2023-01-26": 96,
-  "2023-01-27": 96,
-  "2023-01-28": 96,
-  "2023-01-29": 96,
-  "2023-01-30": 96,
-  "2023-01-31": 96,
-  "2023-02-01": 96,
-  "2023-02-02": 96,
-  "2023-02-03": 96,
-  "2023-02-04": 96,
-  "2023-02-05": 96,
-  "2023-02-06": 96,
-  "2023-02-07": 96,
-  "2023-02-08": 96,
-  "2023-02-09": 96,
-  "2023-02-10": 96,
-  "2023-02-11": 96,
-  "2023-02-12": 96,
-  "2023-02-13": 96,
-  "2023-02-14": 96,
-  "2023-02-15": 96,
-  "2023-02-16": 96,
-  "2023-02-17": 96,
-  "2023-02-18": 96,
-  "2023-02-19": 96,
-  "2023-02-20": 96,
-  "2023-02-21": 96,
-  "2023-02-22": 96,
-  "2023-02-23": 96,
-  "2023-02-24": 96,
-  "2023-02-25": 96,
-  "2023-02-26": 96,
-  "2023-02-27": 96,
-  "2023-02-28": 96,
-  "2023-03-01": 96,
-  "2023-03-02": 96,
-  "2023-03-03": 96,
-  "2023-03-04": 96,
-  "2023-03-05": 96,
-  "2023-03-06": 96,
-  "2023-03-07": 96,
-  "2023-03-08": 96,
-  "2023-03-09": 96,
-  "2023-03-10": 96,
-  "2023-03-11": 96,
-  "2023-03-12": 96,
-  "2023-03-13": 96,
-  "2023-03-14": 96,
-  "2023-03-15": 96,
-  "2023-03-16": 96,
-  "2023-03-17": 96,
-  "2023-03-18": 96,
-  "2023-03-19": 96,
-  "2023-03-20": 96,
-  "2023-03-21": 96,
-  "2023-03-22": 96,
-  "2023-03-23": 96,
-  "2023-03-24": 96,
-  "2023-03-25": 96,
-  "2023-03-26": 96,
-  "2023-03-27": 96,
-  "2023-03-28": 96,
-  "2023-03-29": 96,
-  "2023-03-30": 96,
-  "2023-03-31": 96,
-  "2023-04-01": 96,
-  "2023-04-02": 96,
-  "2023-04-03": 96,
-  "2023-04-04": 96,
-  "2023-04-05": 96,
-  "2023-04-06": 96,
-  "2023-04-07": 96,
-  "2023-04-09": 96,
-  "2023-04-10": 96,
-  "2023-04-11": 96,
-  "2023-04-12": 96,
-  "2023-04-13": 96,
-  "2023-04-14": 96,
-  "2023-04-15": 96,
-  "2023-04-16": 96,
-  "2023-04-17": 96,
-  "2023-04-18": 96,
-  "2023-04-19": 96,
-  "2023-04-20": 96,
-  "2023-04-21": 96,
-  "2023-04-22": 96,
-  "2023-04-23": 96,
-  "2023-04-24": 96,
-  "2023-04-25": 96,
-  "2023-04-26": 96,
-  "2023-04-27": 96,
-  "2023-04-28": 96,
-  "2023-04-29": 96,
-  "2023-04-30": 96,
-  "2023-05-01": 96,
-  "2023-05-02": 96,
-  "2023-05-03": 96,
-  "2023-05-04": 96,
-  "2023-05-05": 96,
-  "2023-05-06": 96,
-  "2023-05-07": 96,
-  "2023-05-08": 96,
-  "2023-05-09": 96,
-  "2023-05-10": 96,
-  "2023-05-11": 96,
-  "2023-05-12": 96,
-  "2023-05-13": 96,
-  "2023-05-14": 96,
-  "2023-05-15": 96,
-  "2023-05-16": 96,
-  "2023-05-17": 96,
-  "2023-05-18": 96,
-  "2023-05-19": 96,
-  "2023-05-20": 96,
-  "2023-05-21": 96,
-  "2023-05-22": 96,
-  "2023-05-23": 96,
-  "2023-05-24": 96,
-  "2023-05-25": 96,
-  "2023-05-26": 96,
-  "2023-05-27": 96,
-  "2023-05-28": 96,
-  "2023-05-29": 96,
-  "2023-05-30": 96,
-  "2023-05-31": 96,
-  "2023-06-01": 96,
-  "2023-06-02": 96,
-  "2023-06-03": 96,
-  "2023-06-04": 96,
-  "2023-06-05": 96,
-  "2023-06-06": 96,
-  "2023-06-07": 96,
-  "2023-06-08": 96,
-  "2023-06-09": 96,
-  "2023-06-10": 96,
-  "2023-06-11": 96,
-  "2023-06-12": 96,
-  "2023-06-13": 96,
-  "2023-06-14": 96,
-  "2023-06-15": 96,
-  "2023-06-16": 96,
-  "2023-06-17": 96,
-  "2023-06-18": 96,
-  "2023-06-19": 96,
-  "2023-06-20": 96,
-  "2023-06-21": 96,
-  "2023-06-22": 96,
-  "2023-06-23": 96,
-  "2023-06-24": 96,
-  "2023-06-25": 96,
-  "2023-06-26": 96,
-  "2023-06-27": 97,
-  "2023-06-28": 97,
-  "2023-06-29": 97,
-  "2023-06-30": 97,
-  "2023-07-01": 97,
-  "2023-07-02": 97,
-  "2023-07-03": 97,
-  "2023-07-04": 97,
-  "2023-07-05": 97,
-  "2023-07-06": 97,
-  "2023-07-07": 97,
-  "2023-07-08": 97,
-  "2023-07-09": 96,
-  "2023-07-10": 96,
-  "2023-07-11": 96,
-  "2023-07-12": 96,
-  "2023-07-13": 96,
-  "2023-07-14": 96,
-  "2023-07-15": 96,
-  "2023-07-16": 96,
-  "2023-07-17": 96,
-  "2023-07-18": 96,
-  "2023-07-19": 96,
-  "2023-07-20": 96,
-  "2023-07-21": 96,
-  "2023-07-22": 96,
-  "2023-07-23": 96,
-  "2023-07-24": 96,
-  "2023-07-25": 96,
-  "2023-07-26": 96,
-  "2023-07-27": 96,
-  "2023-07-28": 96,
-  "2023-07-29": 96,
-  "2023-07-30": 96,
-  "2023-07-31": 96,
-  "2023-08-01": 96,
-  "2023-08-02": 96,
-  "2023-08-03": 96,
-  "2023-08-04": 96,
-  "2023-08-05": 96,
-  "2023-08-06": 96,
-  "2023-08-07": 96,
-  "2023-08-08": 96,
-  "2023-08-09": 96,
-  "2023-08-10": 96,
-  "2023-08-11": 96,
-  "2023-08-12": 96,
-  "2023-08-13": 96,
-  "2023-08-14": 96,
-  "2023-08-15": 96,
-  "2023-08-16": 96,
-  "2023-08-17": 96,
-  "2023-08-18": 96,
-  "2023-08-19": 96,
-  "2023-08-20": 96,
-  "2023-08-21": 96,
-  "2023-08-22": 96,
-  "2023-08-23": 96,
-  "2023-08-24": 96,
-  "2023-08-25": 96,
-  "2023-08-26": 96,
-  "2023-08-27": 96,
-  "2023-08-28": 96,
-  "2023-08-29": 96,
-  "2023-08-30": 96,
-  "2023-08-31": 96,
-  "2023-09-01": 96,
-  "2023-09-02": 96,
-  "2023-09-03": 96,
-  "2023-09-04": 96,
-  "2023-09-05": 96,
-  "2023-09-06": 96,
-  "2023-09-07": 96,
-  "2023-09-08": 96,
-  "2023-09-09": 96,
-  "2023-09-10": 96,
-  "2023-09-11": 96,
-  "2023-09-12": 96,
-  "2023-09-13": 96,
-  "2023-09-14": 96,
-  "2023-09-15": 96,
-  "2023-09-16": 96,
-  "2023-09-17": 96,
-  "2023-09-18": 96,
-  "2023-09-19": 96,
-  "2023-09-20": 96,
-  "2023-09-21": 96,
-  "2023-09-22": 96,
-  "2023-09-23": 96,
-  "2023-09-24": 96,
-  "2023-09-25": 96,
-  "2023-09-26": 96,
-  "2023-09-27": 96,
-  "2023-09-28": 96,
-  "2023-09-29": 96,
-  "2023-09-30": 96,
-  "2023-10-01": 96,
-  "2023-10-02": 96,
-  "2023-10-03": 96,
-  "2023-10-04": 96,
-  "2023-10-05": 96,
-  "2023-10-06": 96,
-  "2023-10-07": 96,
-  "2023-10-08": 96,
-  "2023-10-09": 96,
-  "2023-10-10": 96,
-  "2023-10-11": 96,
-  "2023-10-12": 96,
-  "2023-10-13": 96,
-  "2023-10-14": 96,
-  "2023-10-15": 96,
-  "2023-10-16": 96,
-  "2023-10-17": 96,
-  "2023-10-18": 96,
-  "2023-10-19": 96,
-  "2023-10-20": 96,
-  "2023-10-21": 96,
-  "2023-10-22": 96,
-  "2023-10-23": 96,
-  "2023-10-24": 96,
-  "2023-10-25": 96,
-  "2023-10-26": 96,
-  "2023-10-27": 96,
-  "2023-10-28": 96,
-  "2023-10-29": 96,
-  "2023-10-30": 96,
-  "2023-10-31": 96,
-  "2023-11-01": 96,
-  "2023-11-02": 96,
-  "2023-11-03": 96,
-  "2023-11-04": 96,
-  "2023-11-05": 96,
-  "2023-11-06": 96,
-  "2023-11-07": 96,
-  "2023-11-08": 96,
-  "2023-11-09": 96,
-  "2023-11-10": 96,
-  "2023-11-11": 96,
-  "2023-11-12": 96,
-  "2023-11-13": 96,
-  "2023-11-14": 96,
-  "2023-11-15": 96,
-  "2023-11-16": 96,
-  "2023-11-17": 96,
-  "2023-11-18": 96,
-  "2023-11-19": 96,
-  "2023-11-20": 96,
-  "2023-11-21": 96,
-  "2023-11-22": 96,
-  "2023-11-23": 96,
-  "2023-11-24": 96,
-  "2023-11-25": 96,
-  "2023-11-26": 96,
-  "2023-11-27": 96,
-  "2023-11-28": 96,
-  "2023-11-29": 96,
-  "2023-11-30": 96,
-  "2023-12-01": 96,
-  "2023-12-02": 96,
-  "2023-12-03": 96,
-  "2023-12-04": 96,
-  "2023-12-05": 96,
-  "2023-12-06": 96,
-  "2023-12-07": 96,
-  "2023-12-08": 96,
-  "2023-12-09": 96,
-  "2023-12-10": 96,
-  "2023-12-11": 96,
-  "2023-12-12": 96,
-  "2023-12-13": 96,
-  "2023-12-14": 95,
-  "2023-12-15": 95,
-  "2023-12-16": 95,
-  "2023-12-17": 95,
-  "2023-12-18": 95,
-  "2023-12-19": 95,
-  "2023-12-20": 95,
-  "2023-12-21": 95,
-  "2023-12-22": 95,
-  "2023-12-23": 95,
-  "2023-12-24": 95,
-  "2023-12-25": 95,
-  "2023-12-26": 95,
-  "2023-12-27": 95,
-  "2023-12-30": 95,
-  "2023-12-31": 95,
-  "2024-01-01": 95,
-  "2024-01-02": 95,
-  "2024-01-03": 95
+  "2024-01-17": 93,
+  "date_first_scraped": "2021-12-21",
+  "description": "Grand Hustle Gang top picks chosen by Spotify.",
+  "name": "Grand Hustle Gang Spotify Picks",
+  "tracks": [
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319293,
+      "name": "Airplanes, Pt. II (feat. Eminem & Hayley Williams of Paramore)",
+      "url": "https://open.spotify.com/track/4zlS6uTUQFankHs3wpTEM1"
+    },
+    {
+      "album": {
+        "name": "Trouble Man: Heavy is the Head",
+        "url": "https://open.spotify.com/album/4XDEh0x3M1ajC6vxJ1PNCD"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Ball - feat. Lil Wayne",
+      "url": "https://open.spotify.com/track/2FrBHYuuMOAQlGiyWtndMg"
+    },
+    {
+      "album": {
+        "name": "Musical Evolution (Hosted By DJ Chuck T)",
+        "url": "https://open.spotify.com/album/50kPLJUjBZdzpgvDSU7C8T"
+      },
+      "artists": [
+        {
+          "name": "Ricco Barrino",
+          "url": "https://open.spotify.com/artist/4Sm4OwmPnnZ6L4EYX4AhOc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182909,
+      "name": "Bar Hop",
+      "url": "https://open.spotify.com/track/67mbD2hryc3Na6tPRDoq6e"
+    },
+    {
+      "album": {
+        "name": "R.A.P. Music",
+        "url": "https://open.spotify.com/album/0I2VFkosuGRfni7LnmlxYB"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "Big Beast - feat. Bun B, T.I., and Trouble",
+      "url": "https://open.spotify.com/track/0MAHA8TsUmBPbPjAoasuJA"
+    },
+    {
+      "album": {
+        "name": "Champion (feat. Chris Brown)",
+        "url": "https://open.spotify.com/album/0g6Ig5P7Y2qt1rk1cl33IA"
+      },
+      "artists": [
+        {
+          "name": "Chip",
+          "url": "https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238253,
+      "name": "Champion (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6PVucDgNmJ3ICAbxG6DKf4"
+    },
+    {
+      "album": {
+        "name": "Musical Evolution (Hosted By DJ Chuck T)",
+        "url": "https://open.spotify.com/album/50kPLJUjBZdzpgvDSU7C8T"
+      },
+      "artists": [
+        {
+          "name": "Ricco Barrino",
+          "url": "https://open.spotify.com/artist/4Sm4OwmPnnZ6L4EYX4AhOc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230817,
+      "name": "Circo No Rocks",
+      "url": "https://open.spotify.com/track/7gwj7PmkBDN8YOANy68ICM"
+    },
+    {
+      "album": {
+        "name": "The Incredible Truth (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6qxEbu2pV8La7M57mANnTU"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kardinal Official",
+          "url": "https://open.spotify.com/artist/0PRv5cBFV3OnzGXkSDOQL3"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255860,
+      "name": "Colorful Clothes",
+      "url": "https://open.spotify.com/track/78m3HLWmNqmhUgXLA9t0gu"
+    },
+    {
+      "album": {
+        "name": "Ignorant Art",
+        "url": "https://open.spotify.com/album/0F6NHynBmwA2igtsM7gdp1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67186,
+      "name": "Dirt In Your P*ssy Ass B*tch (Intro)",
+      "url": "https://open.spotify.com/track/0nd3gon1IZ6tu3P9nJYbq2"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275386,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/556gFGIwADoqDnKK0vmoiB"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293040,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/55779z5khRVWmsMaxzFovw"
+    },
+    {
+      "album": {
+        "name": "Trouble Man: Heavy is the Head",
+        "url": "https://open.spotify.com/album/4XDEh0x3M1ajC6vxJ1PNCD"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217520,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/3ZfACixzMNAbRcpGwEkLRe"
+    },
+    {
+      "album": {
+        "name": "BANGx3",
+        "url": "https://open.spotify.com/album/26BmsM9kCoN20PS3R9VFPH"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310758,
+      "name": "Go Out On The Town",
+      "url": "https://open.spotify.com/track/5JrvwJ5eDNToWWl5oHA78b"
+    },
+    {
+      "album": {
+        "name": "Musical Evolution (Hosted By DJ Chuck T)",
+        "url": "https://open.spotify.com/album/50kPLJUjBZdzpgvDSU7C8T"
+      },
+      "artists": [
+        {
+          "name": "Ricco Barrino",
+          "url": "https://open.spotify.com/artist/4Sm4OwmPnnZ6L4EYX4AhOc"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248946,
+      "name": "Hold U Down",
+      "url": "https://open.spotify.com/track/1YCohiOuN0IHZb0fgqgfAU"
+    },
+    {
+      "album": {
+        "name": "BANGx3",
+        "url": "https://open.spotify.com/album/26BmsM9kCoN20PS3R9VFPH"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251261,
+      "name": "In My City",
+      "url": "https://open.spotify.com/track/7CkNqgLg1bqHx3VDuYKajn"
+    },
+    {
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338853,
+      "name": "Live Your Life - feat. Rihanna",
+      "url": "https://open.spotify.com/track/16GHcGtW9Io7AuVdNmTjv3"
+    },
+    {
+      "album": {
+        "name": "The Incredible Truth (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6qxEbu2pV8La7M57mANnTU"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "The Dream",
+          "url": "https://open.spotify.com/artist/0tdFP7YYasjER1oi3YlRca"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302811,
+      "name": "Love vs. Money II",
+      "url": "https://open.spotify.com/track/0eztEOoQ9PcO7VJCYWfxUQ"
+    },
+    {
+      "album": {
+        "name": "Ignorant Art",
+        "url": "https://open.spotify.com/album/0F6NHynBmwA2igtsM7gdp1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199853,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/6wQ23fXXzURmj0tDgoKAUC"
+    },
+    {
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315680,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0xJT5szWpZSjZhm7WeaEvd"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5TT9ztREtG1lHBTSuWm05e"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "No Mercy (feat. The-Dream)",
+      "url": "https://open.spotify.com/track/0C1KlvRBPF9xsJukwEy9PU"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Past My Shades (feat. Lupe Fiasco)",
+      "url": "https://open.spotify.com/track/3Q6Uh2Cctb5Aeg605Fbfd5"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5TT9ztREtG1lHBTSuWm05e"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320160,
+      "name": "Poppin Bottles (feat. Drake)",
+      "url": "https://open.spotify.com/track/0Q7Ztso5bOtLbXpPDXb80E"
+    },
+    {
+      "album": {
+        "name": "Ignorant Art",
+        "url": "https://open.spotify.com/album/0F6NHynBmwA2igtsM7gdp1"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163386,
+      "name": "Pu$$y",
+      "url": "https://open.spotify.com/track/54ohgeZ4ESJDlffKb9Ktrt"
+    },
+    {
+      "album": {
+        "name": "R.A.P. Music",
+        "url": "https://open.spotify.com/album/0I2VFkosuGRfni7LnmlxYB"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264426,
+      "name": "R.A.P. Music",
+      "url": "https://open.spotify.com/track/2PmjuqvZWrvOYrB02zlhHy"
+    },
+    {
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/5JXkw4LxF9hvWECwy2Mzgy"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "Ray Bands",
+      "url": "https://open.spotify.com/track/1NK5fZvPkVKrbiAbKv1ybz"
+    },
+    {
+      "album": {
+        "name": "BANGx3",
+        "url": "https://open.spotify.com/album/26BmsM9kCoN20PS3R9VFPH"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Big Boi",
+          "url": "https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290986,
+      "name": "Ready Set Go (Remix)",
+      "url": "https://open.spotify.com/track/42cVkpsKWPO7S7XsWN9zVl"
+    },
+    {
+      "album": {
+        "name": "R.A.P. Music",
+        "url": "https://open.spotify.com/album/0I2VFkosuGRfni7LnmlxYB"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252533,
+      "name": "Reagan",
+      "url": "https://open.spotify.com/track/5SXlPyf9tHISDYW51h917G"
+    },
+    {
+      "album": {
+        "name": "Red Bottoms (feat. Wine-O)",
+        "url": "https://open.spotify.com/album/6IdajC9qEoN5jwWBlswFyk"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185516,
+      "name": "Red Bottoms (feat. Wine-O)",
+      "url": "https://open.spotify.com/track/4fLSh6ftw596AOFkDM5Kru"
+    },
+    {
+      "album": {
+        "name": "The Incredible Truth (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6qxEbu2pV8La7M57mANnTU"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222911,
+      "name": "Rock Bread",
+      "url": "https://open.spotify.com/track/58eGBEv3lh0KUTQAe04TYS"
+    },
+    {
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/5JXkw4LxF9hvWECwy2Mzgy"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/3FjPRoxtACgDhIK3u60CsP"
+    },
+    {
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/5JXkw4LxF9hvWECwy2Mzgy"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "So Hard to Breathe",
+      "url": "https://open.spotify.com/track/4JSjoTATNlDj1UfNN0RoRl"
+    },
+    {
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/5JXkw4LxF9hvWECwy2Mzgy"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Strange Clouds (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/1c2OFmKVJf1L7UTXEJvMaA"
+    },
+    {
+      "album": {
+        "name": "Take My Pic (feat. Mekya)",
+        "url": "https://open.spotify.com/album/4N53dKbZyvO99Jb5PXFSXU"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192673,
+      "name": "Take My Pic (feat. Mekya)",
+      "url": "https://open.spotify.com/track/1cwFyeL6ZMZeOEK8gAnkNe"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5TT9ztREtG1lHBTSuWm05e"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318360,
+      "name": "That's All She Wrote (feat. Eminem)",
+      "url": "https://open.spotify.com/track/0TUToYIBxyqHfDuEDS1O5l"
+    },
+    {
+      "album": {
+        "name": "B.o.B Presents: The Adventures of Bobby Ray",
+        "url": "https://open.spotify.com/album/7juIU7sRw4Oj9DpuadXILZ"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206906,
+      "name": "The Kids (feat. Janelle Mon\u00e1e)",
+      "url": "https://open.spotify.com/track/02aA8rxDfbpIBvDJjQNiWm"
+    },
+    {
+      "album": {
+        "name": "The Incredible Truth (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6qxEbu2pV8La7M57mANnTU"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        },
+        {
+          "name": "Shawty Lo",
+          "url": "https://open.spotify.com/artist/5mNB8ykTlENptzmsxXRtdS"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258972,
+      "name": "Universal Language",
+      "url": "https://open.spotify.com/track/7yMrvMXk8KCcJR1myAUmPQ"
+    },
+    {
+      "album": {
+        "name": "We Still in This Bitch (feat. T.I. and Juicy J)",
+        "url": "https://open.spotify.com/album/0mffCgRjG8VocPm57JR6NS"
+      },
+      "artists": [
+        {
+          "name": "B.o.B",
+          "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247494,
+      "name": "We Still in this Bitch (feat. T.I. and Juicy J)",
+      "url": "https://open.spotify.com/track/63ZKUKbwb6Zozlk8LJCiPB"
+    },
+    {
+      "album": {
+        "name": "No Mercy",
+        "url": "https://open.spotify.com/album/5TT9ztREtG1lHBTSuWm05e"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254226,
+      "name": "Welcome To The World (feat. Kanye West & Kid Cudi)",
+      "url": "https://open.spotify.com/track/6Bxhbd2xWZU41NCfbjJBdF"
+    },
+    {
+      "album": {
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/68E0atuSszPQYckBQ6cQnv"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Whatever You Like",
+      "url": "https://open.spotify.com/track/3tvWMBIblzT5FSjKtIeRR1"
+    },
+    {
+      "album": {
+        "name": "Trouble Man: Heavy is the Head",
+        "url": "https://open.spotify.com/album/4XDEh0x3M1ajC6vxJ1PNCD"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328186,
+      "name": "Wildside (feat. A$AP Rocky)",
+      "url": "https://open.spotify.com/track/672LwiiHSEDmEVYiNtcx6i"
+    },
+    {
+      "album": {
+        "name": "Trouble Man: Heavy is the Head",
+        "url": "https://open.spotify.com/album/4XDEh0x3M1ajC6vxJ1PNCD"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321453,
+      "name": "Wonderful Life (feat. Akon)",
+      "url": "https://open.spotify.com/track/1yPPEqLnGRNYgiUZPauP4P"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/5jgw1sSpsqOleQbXu4HfDL"
+      },
+      "artists": [
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2013-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223196,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/1MY9YpojGn9VGTlWDloNoC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/4C0S1zvtcMtk2notLxCL1J"
 }

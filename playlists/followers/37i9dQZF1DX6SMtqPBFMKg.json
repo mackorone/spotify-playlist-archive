@@ -1,299 +1,1157 @@
 {
-  "2023-03-10": 83744,
-  "2023-03-11": 83811,
-  "2023-03-12": 83895,
-  "2023-03-13": 83961,
-  "2023-03-14": 83994,
-  "2023-03-15": 84030,
-  "2023-03-16": 84071,
-  "2023-03-17": 84071,
-  "2023-03-18": 84196,
-  "2023-03-19": 84282,
-  "2023-03-20": 84334,
-  "2023-03-21": 84389,
-  "2023-03-22": 84434,
-  "2023-03-23": 84479,
-  "2023-03-24": 84479,
-  "2023-03-25": 84572,
-  "2023-03-26": 84637,
-  "2023-03-27": 84702,
-  "2023-03-28": 84759,
-  "2023-03-29": 84821,
-  "2023-03-30": 84899,
-  "2023-03-31": 84899,
-  "2023-04-01": 84970,
-  "2023-04-02": 85039,
-  "2023-04-03": 85120,
-  "2023-04-04": 85200,
-  "2023-04-05": 85251,
-  "2023-04-06": 85319,
-  "2023-04-07": 85409,
-  "2023-04-09": 85519,
-  "2023-04-10": 85564,
-  "2023-04-11": 85636,
-  "2023-04-12": 85636,
-  "2023-04-13": 85690,
-  "2023-04-14": 85760,
-  "2023-04-15": 85827,
-  "2023-04-16": 85896,
-  "2023-04-17": 85942,
-  "2023-04-18": 85987,
-  "2023-04-19": 86045,
-  "2023-04-20": 86097,
-  "2023-04-21": 86168,
-  "2023-04-22": 86216,
-  "2023-04-23": 86295,
-  "2023-04-24": 86351,
-  "2023-04-25": 86387,
-  "2023-04-26": 86433,
-  "2023-04-27": 86494,
-  "2023-04-28": 86554,
-  "2023-04-29": 86620,
-  "2023-04-30": 86700,
-  "2023-05-01": 86763,
-  "2023-05-02": 86805,
-  "2023-05-03": 86857,
-  "2023-05-04": 86905,
-  "2023-05-05": 86952,
-  "2023-05-06": 87005,
-  "2023-05-07": 87075,
-  "2023-05-08": 87136,
-  "2023-05-09": 87172,
-  "2023-05-10": 87212,
-  "2023-05-11": 87255,
-  "2023-05-12": 87291,
-  "2023-05-13": 87337,
-  "2023-05-14": 87393,
-  "2023-05-15": 87421,
-  "2023-05-16": 87456,
-  "2023-05-17": 87485,
-  "2023-05-18": 87524,
-  "2023-05-19": 87569,
-  "2023-05-20": 87686,
-  "2023-05-21": 87686,
-  "2023-05-22": 87686,
-  "2023-05-23": 87771,
-  "2023-05-24": 87841,
-  "2023-05-25": 87852,
-  "2023-05-26": 87895,
-  "2023-05-27": 87945,
-  "2023-05-28": 87993,
-  "2023-05-29": 87993,
-  "2023-05-30": 88084,
-  "2023-05-31": 88115,
-  "2023-06-01": 88159,
-  "2023-06-02": 88208,
-  "2023-06-03": 88225,
-  "2023-06-04": 88274,
-  "2023-06-05": 88320,
-  "2023-06-06": 88350,
-  "2023-06-07": 88389,
-  "2023-06-08": 88418,
-  "2023-06-09": 88460,
-  "2023-06-10": 88513,
-  "2023-06-11": 88560,
-  "2023-06-12": 88608,
-  "2023-06-13": 88642,
-  "2023-06-14": 88672,
-  "2023-06-15": 88720,
-  "2023-06-16": 88775,
-  "2023-06-17": 88840,
-  "2023-06-18": 88929,
-  "2023-06-19": 89000,
-  "2023-06-20": 89027,
-  "2023-06-21": 89076,
-  "2023-06-22": 89121,
-  "2023-06-23": 89177,
-  "2023-06-24": 89228,
-  "2023-06-25": 89301,
-  "2023-06-26": 89364,
-  "2023-06-27": 89398,
-  "2023-06-28": 89429,
-  "2023-06-29": 89476,
-  "2023-06-30": 89536,
-  "2023-07-01": 89638,
-  "2023-07-02": 89638,
-  "2023-07-03": 89678,
-  "2023-07-04": 89712,
-  "2023-07-05": 89765,
-  "2023-07-06": 89894,
-  "2023-07-07": 89894,
-  "2023-07-08": 89944,
-  "2023-07-09": 90007,
-  "2023-07-10": 90050,
-  "2023-07-11": 90086,
-  "2023-07-12": 90137,
-  "2023-07-13": 90188,
-  "2023-07-14": 90243,
-  "2023-07-15": 90279,
-  "2023-07-16": 90356,
-  "2023-07-17": 90401,
-  "2023-07-18": 90445,
-  "2023-07-19": 90490,
-  "2023-07-20": 90539,
-  "2023-07-21": 90587,
-  "2023-07-22": 90638,
-  "2023-07-23": 90699,
-  "2023-07-24": 90742,
-  "2023-07-25": 90797,
-  "2023-07-26": 90835,
-  "2023-07-27": 90897,
-  "2023-07-28": 90946,
-  "2023-07-29": 90992,
-  "2023-07-30": 91046,
-  "2023-07-31": 91105,
-  "2023-08-01": 91150,
-  "2023-08-02": 91188,
-  "2023-08-03": 91251,
-  "2023-08-04": 91297,
-  "2023-08-05": 91351,
-  "2023-08-06": 91466,
-  "2023-08-07": 91466,
-  "2023-08-08": 91481,
-  "2023-08-09": 91528,
-  "2023-08-10": 91573,
-  "2023-08-11": 91603,
-  "2023-08-12": 91650,
-  "2023-08-13": 91712,
-  "2023-08-14": 91753,
-  "2023-08-15": 91824,
-  "2023-08-16": 91824,
-  "2023-08-17": 91864,
-  "2023-08-18": 91931,
-  "2023-08-19": 91982,
-  "2023-08-20": 92061,
-  "2023-08-21": 92120,
-  "2023-08-22": 92178,
-  "2023-08-23": 92221,
-  "2023-08-24": 92261,
-  "2023-08-25": 92329,
-  "2023-08-26": 92374,
-  "2023-08-27": 92442,
-  "2023-08-28": 92495,
-  "2023-08-29": 92522,
-  "2023-08-30": 92572,
-  "2023-08-31": 92617,
-  "2023-09-01": 92737,
-  "2023-09-02": 92737,
-  "2023-09-03": 92774,
-  "2023-09-04": 92870,
-  "2023-09-05": 92918,
-  "2023-09-06": 92966,
-  "2023-09-07": 93023,
-  "2023-09-08": 93089,
-  "2023-09-09": 93159,
-  "2023-09-10": 93223,
-  "2023-09-11": 93287,
-  "2023-09-12": 93343,
-  "2023-09-13": 93400,
-  "2023-09-14": 93461,
-  "2023-09-15": 93524,
-  "2023-09-16": 93601,
-  "2023-09-17": 93685,
-  "2023-09-18": 93726,
-  "2023-09-19": 93762,
-  "2023-09-20": 93798,
-  "2023-09-21": 93861,
-  "2023-09-22": 93918,
-  "2023-09-23": 93972,
-  "2023-09-24": 94028,
-  "2023-09-25": 94116,
-  "2023-09-26": 94188,
-  "2023-09-27": 94239,
-  "2023-09-28": 94291,
-  "2023-09-29": 94336,
-  "2023-09-30": 94421,
-  "2023-10-01": 94494,
-  "2023-10-02": 94575,
-  "2023-10-03": 94617,
-  "2023-10-04": 94665,
-  "2023-10-05": 94736,
-  "2023-10-06": 94798,
-  "2023-10-07": 94866,
-  "2023-10-08": 94952,
-  "2023-10-09": 95007,
-  "2023-10-10": 95063,
-  "2023-10-11": 95161,
-  "2023-10-12": 95161,
-  "2023-10-13": 95212,
-  "2023-10-14": 95276,
-  "2023-10-15": 95346,
-  "2023-10-16": 95414,
-  "2023-10-17": 95449,
-  "2023-10-18": 95512,
-  "2023-10-19": 95572,
-  "2023-10-20": 95645,
-  "2023-10-21": 95720,
-  "2023-10-22": 95803,
-  "2023-10-23": 95860,
-  "2023-10-24": 95907,
-  "2023-10-25": 95953,
-  "2023-10-26": 96008,
-  "2023-10-27": 96092,
-  "2023-10-28": 96158,
-  "2023-10-29": 96231,
-  "2023-10-30": 96382,
-  "2023-10-31": 96382,
-  "2023-11-01": 96448,
-  "2023-11-02": 96523,
-  "2023-11-03": 96618,
-  "2023-11-04": 96704,
-  "2023-11-05": 96783,
-  "2023-11-06": 96835,
-  "2023-11-07": 96896,
-  "2023-11-08": 96957,
-  "2023-11-09": 97014,
-  "2023-11-10": 97086,
-  "2023-11-11": 97174,
-  "2023-11-12": 97242,
-  "2023-11-13": 97334,
-  "2023-11-14": 97405,
-  "2023-11-15": 97405,
-  "2023-11-16": 97571,
-  "2023-11-17": 97733,
-  "2023-11-18": 97733,
-  "2023-11-19": 97809,
-  "2023-11-20": 97898,
-  "2023-11-21": 97983,
-  "2023-11-22": 98060,
-  "2023-11-23": 98132,
-  "2023-11-24": 98201,
-  "2023-11-25": 98287,
-  "2023-11-26": 98366,
-  "2023-11-27": 98465,
-  "2023-11-28": 98538,
-  "2023-11-29": 98712,
-  "2023-11-30": 98712,
-  "2023-12-01": 98824,
-  "2023-12-02": 98911,
-  "2023-12-03": 99031,
-  "2023-12-04": 99120,
-  "2023-12-05": 99189,
-  "2023-12-06": 99249,
-  "2023-12-07": 99300,
-  "2023-12-08": 99363,
-  "2023-12-09": 99434,
-  "2023-12-10": 99529,
-  "2023-12-11": 99611,
-  "2023-12-12": 99658,
-  "2023-12-13": 99741,
-  "2023-12-14": 99863,
-  "2023-12-15": 99920,
-  "2023-12-16": 99998,
-  "2023-12-17": 100079,
-  "2023-12-18": 100147,
-  "2023-12-19": 100223,
-  "2023-12-20": 100303,
-  "2023-12-21": 100395,
-  "2023-12-22": 100471,
-  "2023-12-23": 100561,
-  "2023-12-24": 100656,
-  "2023-12-25": 100775,
-  "2023-12-26": 100859,
-  "2023-12-27": 100930,
-  "2023-12-30": 101153,
-  "2023-12-31": 101239,
-  "2024-01-01": 101351,
-  "2024-01-02": 101434,
-  "2024-01-03": 101490
+  "2024-01-17": 102595,
+  "date_first_scraped": "2023-03-10",
+  "description": "\u00a1De la tarima a tus bocinas! Las mejores bandas en vivo. Lenin Ram\u00edrez & Luis R Conriquez en portada. ",
+  "name": "Banda en Vivo",
+  "tracks": [
+    {
+      "album": {
+        "name": "A La Antig\u00fcita (En Vivo)",
+        "url": "https://open.spotify.com/album/5jPw5qjvMpafTX2ynchnAh"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "A La Antig\u00fcita - En Vivo",
+      "url": "https://open.spotify.com/track/3qLGC9pnNACqjokQZA5iBZ"
+    },
+    {
+      "album": {
+        "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
+        "url": "https://open.spotify.com/album/5gJytBbQyZB1voWvuVk6of"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214199,
+      "name": "Ac\u00e1bame de Matar (Feat. Luis Angel \"El Flaco\")",
+      "url": "https://open.spotify.com/track/3Tq17cNZ19NxBlNgLPXx7u"
+    },
+    {
+      "album": {
+        "name": "Pisteando Con La Regida Vol. 2",
+        "url": "https://open.spotify.com/album/3sVXSzrTDtqu3SazsdAKzb"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Alma Enamorada",
+      "url": "https://open.spotify.com/track/3yS8KJmIqB8CFBGKi4SNZF"
+    },
+    {
+      "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/4V7LGD03uKHxCJrIy6gjOK"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 175777,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/2yzM8Nq2ykj03M6OGhgLTW"
+    },
+    {
+      "album": {
+        "name": "Amor Borrachito",
+        "url": "https://open.spotify.com/album/0P615coDq1h7bjj9UURk0d"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175798,
+      "name": "Amor Borrachito",
+      "url": "https://open.spotify.com/track/7hSEneMeYg58qG23eYj97m"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150697,
+      "name": "Amor Pajarito",
+      "url": "https://open.spotify.com/track/6VrAr4ZicvVZgMmbNotsrD"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/7uaMeqdodI0KdfMSg6wfeV"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "Ando Bien Pedo",
+      "url": "https://open.spotify.com/track/2ycoVRXrk4YwRKGa7EgA2s"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184186,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/1AlNIMZNKZbNe12VZUQH8P"
+    },
+    {
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
+    },
+    {
+      "album": {
+        "name": "Chingas A Tu Madre",
+        "url": "https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205125,
+      "name": "Chingas A Tu Madre",
+      "url": "https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194651,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/3w2ic4tPpzdlqSuj4Uhtmn"
+    },
+    {
+      "album": {
+        "name": "Creo Estar So\u00f1ando (En Vivo)",
+        "url": "https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154408,
+      "name": "Creo Estar So\u00f1ando (En Vivo)",
+      "url": "https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212423,
+      "name": "Disculpe Usted - En vivo",
+      "url": "https://open.spotify.com/track/0ZZuut71uB0C6NWJw9GWMz"
+    },
+    {
+      "album": {
+        "name": "Las Preferidas, Vol. 5 (En vivo)",
+        "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245183,
+      "name": "Due\u00f1o De Ti - En vivo",
+      "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "album": {
+        "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Coloso",
+          "url": "https://open.spotify.com/artist/4SmIb5onxiijhyC8BilFED"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226815,
+      "name": "El Amor No Fue Pa\u00b4 M\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/3dkEwOKhFselY2m22Nj2vi"
+    },
+    {
+      "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "album": {
+        "name": "Pisteando Con La Regida",
+        "url": "https://open.spotify.com/album/6XCfOtEcXJgbq6ka1C7eAc"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156322,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/2jFf11yM0aRv4DrNOcJtFX"
+    },
+    {
+      "album": {
+        "name": "El Precio De La Soledad",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "album": {
+        "name": "El Rey De Mil Coronas (En Vivo)",
+        "url": "https://open.spotify.com/album/4CK2UFpYOeRduNaxEaWLwx"
+      },
+      "artists": [
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154218,
+      "name": "El Rey De Mil Coronas (En Vivo)",
+      "url": "https://open.spotify.com/track/0YO0eVBZsdEgFdUgY59O6g"
+    },
+    {
+      "album": {
+        "name": "Destapando Las Heladas (En Vivo)",
+        "url": "https://open.spotify.com/album/4CCbhB3L8NKrk5c0gUdjo8"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222906,
+      "name": "En La Sierra Y En la Ciudad \"La China\" - En Vivo",
+      "url": "https://open.spotify.com/track/1QlKbuErU9ALeM2qT9fYw9"
+    },
+    {
+      "album": {
+        "name": "En Tu Perra Vida",
+        "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238677,
+      "name": "En Tu Perra Vida",
+      "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
+    },
+    {
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235221,
+      "name": "Gracias - En Vivo",
+      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
+    },
+    {
+      "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+    },
+    {
+      "album": {
+        "name": "JGL",
+        "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "JGL",
+      "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Juro Por Dios - En Vivo",
+      "url": "https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66"
+    },
+    {
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/4oudemVp2TYfCxL56Go6lk"
+    },
+    {
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/6f58BEZ1o41iN4p6a1ylWX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215882,
+      "name": "La Farsante",
+      "url": "https://open.spotify.com/track/63iq1gIl7v0KiFCFR8U530"
+    },
+    {
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En vivo)",
+      "url": "https://open.spotify.com/track/63z6pfIFHMXPUvZCuXOL9W"
+    },
+    {
+      "album": {
+        "name": "Jalando la Bandona",
+        "url": "https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 129500,
+      "name": "Levantando Polvadera (En Vivo) [feat. Los Populares del Llano]",
+      "url": "https://open.spotify.com/track/065QGFIfARtgUoTeJifVvJ"
+    },
+    {
+      "album": {
+        "name": "Una Copa Por Cada Reina",
+        "url": "https://open.spotify.com/album/5QGlAMO6nrRusU6c1XfjU0"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Lo Siento Mi Amor",
+      "url": "https://open.spotify.com/track/62I0X7wop9jcj9MpDQvv5U"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        },
+        {
+          "name": "El Cachorro",
+          "url": "https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 1187749,
+      "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
+      "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
+    },
+    {
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/7ehOg9A1Xm3hLX8Cg8hZs4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1187749,
+      "name": "Mi Ranchito / La Feria De Las Flores / Los P\u00e1jaros / La Vaquilla / Mi Gusto Es / \u00c1rboles De La Barranca - En Vivo",
+      "url": "https://open.spotify.com/track/4M6DBE4zEgc0r4i3lMBXpr"
+    },
+    {
+      "album": {
+        "name": "Mil Gracias Por Existir",
+        "url": "https://open.spotify.com/album/6jVnCF1Qar2w4ZuAVkxKb6"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225541,
+      "name": "Mil Gracias Por Existir",
+      "url": "https://open.spotify.com/track/1HAvMItHMFRlnrbOXZBL8X"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/5B6pvL3W5WyqxiZ8k70y8U"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "M\u00fasica Rom\u00e1ntica",
+      "url": "https://open.spotify.com/track/0gOwkN1piWLMINfj97SogV"
+    },
+    {
+      "album": {
+        "name": "No Me Ense\u00f1aste",
+        "url": "https://open.spotify.com/album/0p6Q8mu88Bg0vLsPrwwdJE"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183893,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/6iuhmVeGj7e7hfkOhqzdnF"
+    },
+    {
+      "album": {
+        "name": "Cumbias Septimeras Pa'bailar",
+        "url": "https://open.spotify.com/album/22c7ZD3duu00CxzhcHKjIb"
+      },
+      "artists": [
+        {
+          "name": "La Septima Banda",
+          "url": "https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Popurri El Mexicano (Envivo)",
+      "url": "https://open.spotify.com/track/5FNYjiqxvpX29jR6rtjQrj"
+    },
+    {
+      "album": {
+        "name": "En Vivo CDMX",
+        "url": "https://open.spotify.com/album/1x7UM1LXYNvVuWhZbZf9uT"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517026,
+      "name": "Popurr\u00ed Ranchero - En Vivo",
+      "url": "https://open.spotify.com/track/7FgLx7CNxdhLMbHXQFdarp"
+    },
+    {
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 3",
+        "url": "https://open.spotify.com/album/1o06mmQbAcZrYFlCZzINP0"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146775,
+      "name": "Por Esa Calle Vive",
+      "url": "https://open.spotify.com/track/6LhMqt2flhSBwwnS3Z5GyJ"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde El R\u00edo Nilo",
+        "url": "https://open.spotify.com/album/0scZRkf8k4yVXsb13tU3pt"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170746,
+      "name": "Por Una Mujer Casada - En Vivo",
+      "url": "https://open.spotify.com/track/6glNvFYGMuGoLgLdeRRy2Q"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/5PAiedNHLOpWoG32pVHO27"
+    },
+    {
+      "album": {
+        "name": "Jalando La Bandona (En Vivo)",
+        "url": "https://open.spotify.com/album/1XOu9hIZACtCfv5XyK7Ns7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Prohibido (En vivo)",
+      "url": "https://open.spotify.com/track/1WBk7QTwuuFbBnSCEEpk8D"
+    },
+    {
+      "album": {
+        "name": "Jalando la Bandona",
+        "url": "https://open.spotify.com/album/1pO3OK249I1ZJd61TDk92e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Los Populares Del Llano",
+          "url": "https://open.spotify.com/artist/5ZZ2zIylJkPJVKZDVwW29B"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 172000,
+      "name": "Prohibido (En Vivo) [feat. Los Populares del Llano]",
+      "url": "https://open.spotify.com/track/16sw1shH9nt1rEhKvVbyp6"
+    },
+    {
+      "album": {
+        "name": "Se Acabo (En Vivo)",
+        "url": "https://open.spotify.com/album/24fixrB7tstEtjF9NlbnIR"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Se Acabo - En Vivo",
+      "url": "https://open.spotify.com/track/0lyZyn18awzOJuVM7qzCmd"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/6r04T8tMrbESCITPfmeSE6"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/4VinpEidS9wmMuqmljyd21"
+    },
+    {
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Se Va Muriendo Mi Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+    },
+    {
+      "album": {
+        "name": "En Concierto",
+        "url": "https://open.spotify.com/album/2P2ZYypvyZ4lo9ylhAl3fa"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "Si Tu Amor No Vuelve - En Directo",
+      "url": "https://open.spotify.com/track/4Ht8pYtSlED2lckPC1azip"
+    },
+    {
+      "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "album": {
+        "name": "Somos Los Que Somos (En Vivo)",
+        "url": "https://open.spotify.com/album/4fyPhbp4TVAcAePO24DPQE"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280093,
+      "name": "Somos Los Que Somos - En Vivo",
+      "url": "https://open.spotify.com/track/2HF7et3dSdyQqq7aIMLoQ5"
+    },
+    {
+      "album": {
+        "name": "Tambien Las Mujeres Pueden (En Vivo)",
+        "url": "https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Tambien Las Mujeres Pueden (En Vivo)",
+      "url": "https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY"
+    },
+    {
+      "album": {
+        "name": "YakiFest, Vol. 3 (En Vivo)",
+        "url": "https://open.spotify.com/album/5MJpYaF6Ya09cDXqjYX11z"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186502,
+      "name": "Te Compro - En Vivo",
+      "url": "https://open.spotify.com/track/0iMKw1oCEQps2Gdl3gmRt4"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157274,
+      "name": "Trienta Cartas",
+      "url": "https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU"
+    },
+    {
+      "album": {
+        "name": "Puras Con Acordeon (En Vivo)",
+        "url": "https://open.spotify.com/album/74jBu4fnVRZZfq0uTewmEg"
+      },
+      "artists": [
+        {
+          "name": "Banda Imperio De Colima",
+          "url": "https://open.spotify.com/artist/56SZMqIcnEJrJOEG0DoT9s"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234242,
+      "name": "Un Rinconcito En El Cielo (En Vivo)",
+      "url": "https://open.spotify.com/track/6oZi7hrsTR45Kd4W65mJlw"
+    },
+    {
+      "album": {
+        "name": "\u00bfSer\u00e1 Prudente Jalar La Banda?",
+        "url": "https://open.spotify.com/album/0KGUDXu3WiMAd4jkhg16G3"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Banda Punto Medio",
+          "url": "https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240040,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/0Ltc8Ixf77xbl93ZmvUUsi"
+    },
+    {
+      "album": {
+        "name": "Voy A Superarte (En Vivo)",
+        "url": "https://open.spotify.com/album/6tMFnDvudKXUOlsfkefgdx"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165746,
+      "name": "Voy A Superarte - En Vivo",
+      "url": "https://open.spotify.com/track/4j0gW8CD4w9qiX3JBvVcei"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/4dKY6JFNvj2yWzENIL1P6s"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6SMtqPBFMKg"
 }

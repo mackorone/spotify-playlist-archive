@@ -4,7 +4,7 @@
 
 > Real rap music from the golden era.
 
-216 songs - 15 hr 24 min
+217 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,7 @@
 | [Real Muthaphuckkin G's](https://open.spotify.com/track/4G19iP1Ltd4GLknCiS2k7y) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [It's On \(Dr\. Dre\) 187um Killa](https://open.spotify.com/album/71eBk8GA96rDQYOhIparqH) | 5:32 | 2021-12-16 | 2022-07-29 |
 | [Real Muthaphuckkin G's](https://open.spotify.com/track/7q6lr1W6cmGWijl5kCv5RG) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [It's On \(Dr\. Dre\) 187um Killa](https://open.spotify.com/album/1SZNTl621XOcjFwOKtVy56) | 5:32 | 2023-10-11 |  |
 | [Real Muthaphuckkin' G's](https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq) | [Eazy\-E](https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX) | [Gangsta Memorial](https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb) | 5:32 | 2022-07-13 | 2023-09-15 |
-| [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 | 2022-10-13 | 2023-10-05 |
+| [Rebirth Of Slick \(Cool Like Dat\)](https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Reachin' \(A New Refutation Of Time And Space\)](https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP) | 4:21 | 2022-10-13 |  |
 | [Regulate](https://open.spotify.com/track/68pWLkspLFIfIPPtzyTkQy) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era \(Special Edition\)](https://open.spotify.com/album/5qkK1yRfXz2JBpVZdKQHEv) | 4:08 | 2021-12-16 | 2022-07-29 |
 | [Regulate](https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 4:08 | 2022-07-13 |  |
 | [Resurrection](https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc) | [Resurrection](https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje) | 3:47 | 2021-12-21 | 2022-04-29 |
@@ -177,8 +177,9 @@
 | [Shimmy Shimmy Ya](https://open.spotify.com/track/3ABG1UQTk0eLYUAeWkmfMi) | [Ol' Dirty Bastard](https://open.spotify.com/artist/50NoVNy9GU1lCrDV8iGpyu) | [Return to the 36 Chambers: The Dirty Version](https://open.spotify.com/album/4tI4WJdTN5MzDMRMl2i7VR) | 2:41 | 2021-12-16 |  |
 | [Shook Ones, Pt\. II](https://open.spotify.com/track/33ZXjLCpiINn8eQIDYEPTD) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 5:25 | 2021-12-16 |  |
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2022-07-13 |  |
-| [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 | 2022-07-13 |  |
+| [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 | 2022-07-13 | 2024-01-16 |
 | [Simon Says](https://open.spotify.com/track/7F9FgsJXWvFENrhLYtYymg) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/4q8xMEhezZWAqvoESNbGSf) | 2:53 | 2022-05-10 | 2022-07-29 |
+| [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 | 2023-12-07 |  |
 | [Slam](https://open.spotify.com/track/0W2mz7mvaBaEsC4rmoRNPn) | [Onyx](https://open.spotify.com/artist/10Khz9BDdDT2mzm3330Cvu) | [Bacdafucup](https://open.spotify.com/album/5lUgtggG1KroP0qHkpxQ4K) | 3:38 | 2022-07-13 | 2023-01-13 |
 | [So What'Cha Want](https://open.spotify.com/track/25pl7kV4OxafIc9wPAggYf) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Anthology: The Sounds Of Science](https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2) | 3:37 | 2022-10-13 | 2022-11-13 |
 | [Sound of da Police](https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [Return of the Boom Bap](https://open.spotify.com/album/64ub4SfdC8wvPjdUXw8QY9) | 4:18 | 2022-07-13 |  |
@@ -193,7 +194,7 @@
 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 | 2022-10-13 | 2022-11-13 |
 | [The Humpty Dance](https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu) | [Digital Underground](https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye) | [Sex Packets](https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL) | 6:31 | 2022-07-13 |  |
 | [The Next Episode](https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 2:41 | 2022-07-13 |  |
-| [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 | 2021-12-16 |  |
+| [They Reminisce Over You \(T.R.O.Y.\)](https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy) | [Pete Rock & C.L\. Smooth](https://open.spotify.com/artist/3fJ60AcIgLzQkVitEvA7uq) | [Mecca And The Soul Brother](https://open.spotify.com/album/2AgTKAULjbHpqqtyI53hdp) | 4:46 | 2021-12-16 | 2024-01-15 |
 | [This D.J.](https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [O.G.L.B.](https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK) | [Regulate… G Funk Era](https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu) | 3:23 | 2021-12-16 |  |
 | [Thuggish Ruggish Bone](https://open.spotify.com/track/2myYajO2Ip0zxKaXvm5YRL) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/02tkBY16aaQduVQKpoT8AN) | 4:41 | 2021-12-16 | 2022-07-29 |
 | [Thuggish Ruggish Bone](https://open.spotify.com/track/7qHAjAL7CpadaZLamuBZRm) | [Bone Thugs\-N\-Harmony](https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg) | [Creepin on Ah Come Up](https://open.spotify.com/album/5g2FfZVMvBqRmuHjNsaf3l) | 4:41 | 2022-07-13 |  |

@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-295 songs - 11 hr 35 min
+303 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-04 |  |
 | [At Last, Sunrise](https://open.spotify.com/track/4z0spwzLajA7R76czkAIEE) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/0Rv82yRFV9inly8ChKaO72) | 2:00 | 2021-06-27 | 2022-07-29 |
 | [At Last, Sunrise](https://open.spotify.com/track/04yKORm7EBZbrdzjf9jD3X) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:02 | 2022-07-05 | 2023-05-16 |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Azalea](https://open.spotify.com/track/0Y8MBkgAK872pVX48wWpL5) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Azalea](https://open.spotify.com/album/7JrtcBMTT9RUSzxWGREtNU) | 2:23 | 2023-05-15 |  |
 | [Back to you](https://open.spotify.com/track/58fIHb9sDH1QCsVLRBaUVq) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Back to you](https://open.spotify.com/album/3OpMdkUcg1dq1JBc60ZVwz) | 2:20 | 2023-05-15 |  |
 | [Balm \(Scaled Down Version\)](https://open.spotify.com/track/5eIifmrzK2XxqiABsZhYGK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Balm](https://open.spotify.com/album/6MLFHwt3qK0OQNEHryutgw) | 2:06 | 2021-06-27 | 2022-07-29 |
@@ -70,6 +71,7 @@
 | [Borrowed Peace](https://open.spotify.com/track/6S8a2phix2XOZBcTybxP3m) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [KEEN: Sweet Dreams Vol\. 1](https://open.spotify.com/album/4EysyfJFTHrX08jYXvyfd1) | 1:45 | 2022-07-05 | 2022-11-13 |
 | [Borrowed Peace](https://open.spotify.com/track/7CBRVxkndOKeWUEfRclXNK) | [Peter Sandberg](https://open.spotify.com/artist/3LtlJprzuq0Ii8p8YFZXai) | [Nainsook](https://open.spotify.com/album/22327BzhUptdLP59olNlXK) | 1:45 | 2022-07-05 | 2023-05-16 |
 | [Boulevards](https://open.spotify.com/track/3Ksw6edSMORoOtRUA9X3Sb) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Boulevards](https://open.spotify.com/album/276BZz0OVn5NYizTSMknxV) | 2:11 | 2023-05-15 |  |
+| [Breathable](https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Breathable](https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk) | 2:41 | 2024-01-09 |  |
 | [Calendula](https://open.spotify.com/track/03Nkx8cSVdDlS7FOQ3kQm6) | [Leandra Masi](https://open.spotify.com/artist/6fWhWlXrWSGvZMWrsL0lim) | [Calendula](https://open.spotify.com/album/2V3g7LmL3tX3XNsSpUZJOz) | 2:54 | 2023-05-15 |  |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2023-05-15 |  |
 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2023-05-15 | 2023-08-16 |
@@ -83,6 +85,8 @@
 | [City Lights](https://open.spotify.com/track/041EqVueOI4pszWGJfKerh) | [Oliver Évilo](https://open.spotify.com/artist/6pr16671AS8qchaPqDDM0Y) | [City Lights](https://open.spotify.com/album/5edrSUkO57ts9EwVVjvPAx) | 2:06 | 2021-06-27 | 2023-05-16 |
 | [Closed to shadow](https://open.spotify.com/track/5EsZoxHaxhT4IxsYsa0l9T) | [Tom Leaman](https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l) | [Closed to shadow](https://open.spotify.com/album/7AQOl9RkQgZQY9Xdxg1zNn) | 1:55 | 2023-06-19 | 2023-08-16 |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-05-15 |  |
+| [Countryside Mansion](https://open.spotify.com/track/0TsKyZ33N0VP8ZXYgTXPUz) | [Joanne Gardiner](https://open.spotify.com/artist/3bXI7okxW0V3IBXPgnfcG5) | [Countryside Mansion](https://open.spotify.com/album/7CThvsvHfSAk9OBoERTzMH) | 3:02 | 2024-01-09 |  |
+| [Crimson](https://open.spotify.com/track/50nkap2cbLP4X1VzDt1qtR) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Crimson](https://open.spotify.com/album/0wMx534abVWJwncT3JAP6i) | 2:15 | 2024-01-09 |  |
 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 | 2023-05-15 |  |
 | [Darkness of days](https://open.spotify.com/track/7Jo0X730aLdGcB9rgkSOgl) | [Jens Larsson](https://open.spotify.com/artist/35Qsb23bqJr3tzyA7GICWT) | [Darkness of days](https://open.spotify.com/album/0Rub3dRIWJgHeyfDRn6R5J) | 3:10 | 2023-05-15 |  |
 | [Dawn](https://open.spotify.com/track/1E0RGmeX5QjPeWTdd99mAh) | [Landwerm](https://open.spotify.com/artist/2YDG8LcPW20IKhL1GgQmDJ) | [Dawn](https://open.spotify.com/album/3j4pp3rJJGI43C1SbK0wnR) | 1:49 | 2021-06-27 | 2023-05-16 |
@@ -145,6 +149,7 @@
 | [Keszthely](https://open.spotify.com/track/0GxXg9FfNq1yqwqrrY6W1F) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Keszthely](https://open.spotify.com/album/4pL64wCXuXYe318Z4mZolF) | 2:32 | 2023-05-15 |  |
 | [Kungsholmen](https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq) | [Anders Linros](https://open.spotify.com/artist/7LP66e9QcCrSWAFDyyueTv) | [Staden](https://open.spotify.com/album/6UGN2Ak9xJKduYP9dnpns3) | 1:44 | 2023-05-15 | 2023-08-16 |
 | [Kyle \(Northern Line\)](https://open.spotify.com/track/2rHefyfbrhfXVaquedNvnR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:44 | 2021-06-27 | 2023-05-16 |
+| [La Luna de Sangre](https://open.spotify.com/track/0hJj0MC6Vej33ZexcY2jCg) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [La Luna de Sangre](https://open.spotify.com/album/7hOEvWbLsmJENthSUfXJch) | 2:19 | 2024-01-09 |  |
 | [La Luz De La Primavera](https://open.spotify.com/track/2ommqT5NELWdMHjcKN5tTG) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [La Luz De La Primavera](https://open.spotify.com/album/4qdsR63xjUXgBeFwDkPTIc) | 2:08 | 2023-05-15 |  |
 | [lachlan](https://open.spotify.com/track/3244j0tITFKsVbSrc0fUya) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [lachlan](https://open.spotify.com/album/4upy9Hil2WVSEwu8eYEVWB) | 2:00 | 2023-05-15 |  |
 | [Laiski](https://open.spotify.com/track/6gZhFlpLE3Db3yvOI3lR4p) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Laiski](https://open.spotify.com/album/3sSuYj8MOCvxON4t84vdek) | 1:55 | 2023-05-15 | 2023-08-16 |
@@ -245,6 +250,7 @@
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-05-15 |  |
 | [Sinsonte](https://open.spotify.com/track/4mKFWJLMUWBN7m24TVCPqH) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Ischia](https://open.spotify.com/album/5SZ3jzYbl4SZt0fhs32sw7) | 2:45 | 2023-05-15 |  |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2023-05-15 |  |
+| [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-09 |  |
 | [Small Memory](https://open.spotify.com/track/5sWFhWNyWU55TDmGSXQMpM) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2t8hYss2U3w8cJqs9ZzeqW) | 1:40 | 2021-06-27 | 2022-07-29 |
 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 | 2022-07-05 | 2023-05-16 |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-05-15 |  |
@@ -276,6 +282,7 @@
 | [The Girl With Flowers](https://open.spotify.com/track/490U5azHzbaJRShKWPtOwX) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [The Girl With Flowers](https://open.spotify.com/album/4gQ0JmZKmSpm5sO9EP8i1V) | 2:13 | 2023-05-15 |  |
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2023-05-15 |  |
 | [The Last Spring](https://open.spotify.com/track/23DarNj68Jdadgb8ETaSV9) | [Elba](https://open.spotify.com/artist/3vyBIFbCPSFdrzamx6G60r) | [The Last Spring](https://open.spotify.com/album/1FQidmEkogespC5aJ6rJe1) | 2:10 | 2021-06-27 | 2023-05-16 |
+| [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
 | [The Ones Left Behind](https://open.spotify.com/track/1pfOyfuKafxJXajfsnU731) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [The Ones Left Behind](https://open.spotify.com/album/6j0thUmUXxZmX8XFhFuudh) | 2:28 | 2021-06-27 | 2023-05-16 |
 | [The Optimist](https://open.spotify.com/track/4wJd6cER10JZRuU5y3DBkZ) | [Matt Stewart\-Evans](https://open.spotify.com/artist/7x67OgZ8Iu8FEYpvRAPuh7) | [The Optimist](https://open.spotify.com/album/3KzZstlr8d3MiiO1swIRJX) | 2:39 | 2023-05-15 |  |
 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 | 2021-06-27 | 2023-05-16 |
@@ -295,6 +302,7 @@
 | [Unwind](https://open.spotify.com/track/3OkgEgwg2ju4JcPDJxVDUY) | [Samuel Meadow](https://open.spotify.com/artist/7yNqNp5N9rCZJLcJPxDHHS) | [Clarity](https://open.spotify.com/album/4gwIzFYM5sKgPPeLIG5AP9) | 3:42 | 2021-06-27 | 2023-05-16 |
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-05-15 |  |
 | [Waltz in a Dream](https://open.spotify.com/track/7fFC24ppNibtsubi84bSwH) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Waltz in a Dream](https://open.spotify.com/album/2CcupVOPa2cwYlzWWbd4OE) | 2:29 | 2023-05-15 |  |
+| [What I Was Then What I Am Now](https://open.spotify.com/track/2AiuwFSEqy1y8v9vPuVKos) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [What I Was Then What I Am Now](https://open.spotify.com/album/4Vy1qg9dykeTQDeHcoNlkq) | 3:47 | 2024-01-09 |  |
 | [When the leaves start to fall](https://open.spotify.com/track/70vSsnVESDO3ASOxKlgRkI) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When the leaves start to fall](https://open.spotify.com/album/65pB6B1PKVYEZ41xxkpHdn) | 2:20 | 2023-05-15 |  |
 | [Whistling Fields](https://open.spotify.com/track/1yfU7I4NmdN44ztLDlGsmh) | [Riley Santos](https://open.spotify.com/artist/4LEExWliqooeTNczZkiBBd) | [Twelve Doves](https://open.spotify.com/album/2BHstuxhhN0fjiJy72WUac) | 2:15 | 2023-05-15 |  |
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2023-05-15 |  |

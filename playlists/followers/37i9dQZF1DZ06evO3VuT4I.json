@@ -1,580 +1,2027 @@
 {
-  "2022-05-30": 1868,
-  "2022-05-31": 1869,
-  "2022-06-01": 1873,
-  "2022-06-02": 1874,
-  "2022-06-03": 1875,
-  "2022-06-04": 1875,
-  "2022-06-05": 1877,
-  "2022-06-06": 1879,
-  "2022-06-07": 1885,
-  "2022-06-08": 1887,
-  "2022-06-09": 1886,
-  "2022-06-10": 1891,
-  "2022-06-11": 1891,
-  "2022-06-12": 1891,
-  "2022-06-13": 1892,
-  "2022-06-14": 1892,
-  "2022-06-15": 1895,
-  "2022-06-16": 1897,
-  "2022-06-17": 1902,
-  "2022-06-18": 1904,
-  "2022-06-19": 1909,
-  "2022-06-20": 1909,
-  "2022-06-21": 1908,
-  "2022-06-22": 1908,
-  "2022-06-23": 1908,
-  "2022-06-24": 1911,
-  "2022-06-25": 1911,
-  "2022-06-26": 1915,
-  "2022-06-27": 1918,
-  "2022-06-28": 1918,
-  "2022-06-29": 1921,
-  "2022-06-30": 1921,
-  "2022-07-01": 1922,
-  "2022-07-02": 1923,
-  "2022-07-03": 1926,
-  "2022-07-04": 1925,
-  "2022-07-05": 1925,
-  "2022-07-06": 1925,
-  "2022-07-07": 1929,
-  "2022-07-08": 1931,
-  "2022-07-09": 1935,
-  "2022-07-10": 1937,
-  "2022-07-11": 1939,
-  "2022-07-12": 1938,
-  "2022-07-13": 1941,
-  "2022-07-14": 1943,
-  "2022-07-15": 1947,
-  "2022-07-16": 1948,
-  "2022-07-17": 1947,
-  "2022-07-18": 1947,
-  "2022-07-19": 1948,
-  "2022-07-20": 1951,
-  "2022-07-21": 1956,
-  "2022-07-22": 1959,
-  "2022-07-23": 1962,
-  "2022-07-24": 1962,
-  "2022-07-25": 1967,
-  "2022-07-26": 1969,
-  "2022-07-27": 1970,
-  "2022-07-28": 1970,
-  "2022-07-29": 1972,
-  "2022-07-30": 1974,
-  "2022-07-31": 1974,
-  "2022-08-01": 1975,
-  "2022-08-02": 1980,
-  "2022-08-03": 1980,
-  "2022-08-04": 1983,
-  "2022-08-05": 1985,
-  "2022-08-06": 1987,
-  "2022-08-07": 1992,
-  "2022-08-08": 1998,
-  "2022-08-09": 2001,
-  "2022-08-10": 2004,
-  "2022-08-11": 2005,
-  "2022-08-12": 2009,
-  "2022-08-13": 2009,
-  "2022-08-14": 2010,
-  "2022-08-15": 2012,
-  "2022-08-16": 2015,
-  "2022-08-17": 2016,
-  "2022-08-18": 2020,
-  "2022-08-19": 2023,
-  "2022-08-20": 2022,
-  "2022-08-21": 2023,
-  "2022-08-22": 2021,
-  "2022-08-23": 2021,
-  "2022-08-24": 2025,
-  "2022-08-25": 2029,
-  "2022-08-26": 2030,
-  "2022-08-27": 2032,
-  "2022-08-28": 2036,
-  "2022-08-29": 2039,
-  "2022-08-30": 2039,
-  "2022-08-31": 2038,
-  "2022-09-01": 2034,
-  "2022-09-02": 2031,
-  "2022-09-03": 2027,
-  "2022-09-04": 2027,
-  "2022-09-05": 2029,
-  "2022-09-06": 2033,
-  "2022-09-07": 2033,
-  "2022-09-09": 2036,
-  "2022-09-10": 2039,
-  "2022-09-11": 2041,
-  "2022-09-12": 2046,
-  "2022-09-13": 2048,
-  "2022-09-15": 2051,
-  "2022-09-16": 2052,
-  "2022-09-17": 2052,
-  "2022-09-18": 2055,
-  "2022-09-19": 2060,
-  "2022-09-20": 2064,
-  "2022-09-21": 2065,
-  "2022-09-22": 2067,
-  "2022-09-23": 2071,
-  "2022-09-24": 2071,
-  "2022-09-25": 2075,
-  "2022-09-26": 2079,
-  "2022-09-27": 2080,
-  "2022-09-28": 2081,
-  "2022-09-29": 2083,
-  "2022-09-30": 2084,
-  "2022-10-01": 2088,
-  "2022-10-02": 2092,
-  "2022-10-03": 2095,
-  "2022-10-04": 2097,
-  "2022-10-05": 2099,
-  "2022-10-06": 2097,
-  "2022-10-07": 2095,
-  "2022-10-08": 2097,
-  "2022-10-09": 2098,
-  "2022-10-10": 2100,
-  "2022-10-11": 2102,
-  "2022-10-12": 2106,
-  "2022-10-13": 2108,
-  "2022-10-14": 2111,
-  "2022-10-15": 2113,
-  "2022-10-16": 2115,
-  "2022-10-17": 2122,
-  "2022-10-18": 2125,
-  "2022-10-19": 2128,
-  "2022-10-20": 2132,
-  "2022-10-21": 2136,
-  "2022-10-22": 2150,
-  "2022-10-23": 2159,
-  "2022-10-24": 2163,
-  "2022-10-25": 2166,
-  "2022-10-26": 2168,
-  "2022-10-27": 2171,
-  "2022-10-28": 2175,
-  "2022-10-29": 2176,
-  "2022-10-30": 2183,
-  "2022-10-31": 2188,
-  "2022-11-01": 2194,
-  "2022-11-02": 2197,
-  "2022-11-03": 2201,
-  "2022-11-04": 2203,
-  "2022-11-05": 2208,
-  "2022-11-06": 2212,
-  "2022-11-07": 2211,
-  "2022-11-08": 2213,
-  "2022-11-09": 2219,
-  "2022-11-10": 2222,
-  "2022-11-11": 2227,
-  "2022-11-12": 2227,
-  "2022-11-13": 2228,
-  "2022-11-14": 2230,
-  "2022-11-15": 2237,
-  "2022-11-16": 2238,
-  "2022-11-17": 2241,
-  "2022-11-18": 2240,
-  "2022-11-19": 2240,
-  "2022-11-20": 2243,
-  "2022-11-21": 2246,
-  "2022-11-22": 2250,
-  "2022-11-23": 2250,
-  "2022-11-24": 2255,
-  "2022-11-25": 2259,
-  "2022-11-26": 2260,
-  "2022-11-27": 2261,
-  "2022-11-28": 2263,
-  "2022-11-29": 2267,
-  "2022-11-30": 2272,
-  "2022-12-01": 2274,
-  "2022-12-02": 2274,
-  "2022-12-03": 2278,
-  "2022-12-04": 2280,
-  "2022-12-05": 2285,
-  "2022-12-06": 2288,
-  "2022-12-07": 2289,
-  "2022-12-08": 2291,
-  "2022-12-09": 2292,
-  "2022-12-10": 2294,
-  "2022-12-11": 2294,
-  "2022-12-12": 2296,
-  "2022-12-13": 2300,
-  "2022-12-14": 2300,
-  "2022-12-15": 2302,
-  "2022-12-16": 2304,
-  "2022-12-17": 2304,
-  "2022-12-18": 2307,
-  "2022-12-19": 2311,
-  "2022-12-20": 2316,
-  "2022-12-21": 2316,
-  "2022-12-22": 2319,
-  "2022-12-24": 2321,
-  "2022-12-25": 2324,
-  "2022-12-26": 2326,
-  "2022-12-27": 2325,
-  "2022-12-28": 2324,
-  "2022-12-29": 2325,
-  "2022-12-30": 2325,
-  "2022-12-31": 2327,
-  "2023-01-01": 2330,
-  "2023-01-02": 2332,
-  "2023-01-03": 2334,
-  "2023-01-04": 2336,
-  "2023-01-05": 2340,
-  "2023-01-06": 2342,
-  "2023-01-07": 2347,
-  "2023-01-08": 2347,
-  "2023-01-09": 2350,
-  "2023-01-10": 2353,
-  "2023-01-11": 2355,
-  "2023-01-12": 2358,
-  "2023-01-13": 2359,
-  "2023-01-14": 2362,
-  "2023-01-15": 2363,
-  "2023-01-16": 2362,
-  "2023-01-17": 2362,
-  "2023-01-18": 2363,
-  "2023-01-19": 2365,
-  "2023-01-20": 2367,
-  "2023-01-21": 2369,
-  "2023-01-22": 2372,
-  "2023-01-23": 2376,
-  "2023-01-24": 2380,
-  "2023-01-25": 2384,
-  "2023-01-26": 2388,
-  "2023-01-27": 2389,
-  "2023-01-28": 2393,
-  "2023-01-29": 2400,
-  "2023-01-30": 2399,
-  "2023-01-31": 2399,
-  "2023-02-01": 2403,
-  "2023-02-02": 2408,
-  "2023-02-03": 2413,
-  "2023-02-04": 2414,
-  "2023-02-05": 2415,
-  "2023-02-06": 2427,
-  "2023-02-07": 2430,
-  "2023-02-08": 2434,
-  "2023-02-09": 2434,
-  "2023-02-10": 2442,
-  "2023-02-11": 2450,
-  "2023-02-12": 2458,
-  "2023-02-13": 2458,
-  "2023-02-14": 2458,
-  "2023-02-15": 2464,
-  "2023-02-16": 2469,
-  "2023-02-17": 2472,
-  "2023-02-18": 2480,
-  "2023-02-19": 2480,
-  "2023-02-20": 2484,
-  "2023-02-21": 2486,
-  "2023-02-22": 2488,
-  "2023-02-23": 2490,
-  "2023-02-24": 2496,
-  "2023-02-25": 2500,
-  "2023-02-26": 2503,
-  "2023-02-27": 2508,
-  "2023-02-28": 2508,
-  "2023-03-01": 2512,
-  "2023-03-02": 2511,
-  "2023-03-03": 2514,
-  "2023-03-04": 2517,
-  "2023-03-05": 2523,
-  "2023-03-06": 2523,
-  "2023-03-07": 2524,
-  "2023-03-08": 2526,
-  "2023-03-09": 2529,
-  "2023-03-10": 2529,
-  "2023-03-11": 2532,
-  "2023-03-12": 2534,
-  "2023-03-13": 2536,
-  "2023-03-14": 2537,
-  "2023-03-15": 2541,
-  "2023-03-16": 2541,
-  "2023-03-17": 2541,
-  "2023-03-18": 2547,
-  "2023-03-19": 2547,
-  "2023-03-20": 2552,
-  "2023-03-21": 2556,
-  "2023-03-22": 2556,
-  "2023-03-23": 2559,
-  "2023-03-24": 2559,
-  "2023-03-25": 2561,
-  "2023-03-26": 2564,
-  "2023-03-27": 2566,
-  "2023-03-28": 2568,
-  "2023-03-29": 2574,
-  "2023-03-30": 2575,
-  "2023-03-31": 2575,
-  "2023-04-01": 2575,
-  "2023-04-02": 2582,
-  "2023-04-03": 2585,
-  "2023-04-04": 2586,
-  "2023-04-05": 2584,
-  "2023-04-06": 2586,
-  "2023-04-07": 2591,
-  "2023-04-09": 2593,
-  "2023-04-10": 2599,
-  "2023-04-11": 2600,
-  "2023-04-12": 2600,
-  "2023-04-13": 2599,
-  "2023-04-14": 2598,
-  "2023-04-15": 2601,
-  "2023-04-16": 2604,
-  "2023-04-17": 2604,
-  "2023-04-18": 2605,
-  "2023-04-19": 2607,
-  "2023-04-20": 2607,
-  "2023-04-21": 2607,
-  "2023-04-22": 2610,
-  "2023-04-23": 2613,
-  "2023-04-24": 2615,
-  "2023-04-25": 2618,
-  "2023-04-26": 2618,
-  "2023-04-27": 2619,
-  "2023-04-28": 2621,
-  "2023-04-29": 2620,
-  "2023-04-30": 2623,
-  "2023-05-01": 2627,
-  "2023-05-02": 2631,
-  "2023-05-03": 2633,
-  "2023-05-04": 2638,
-  "2023-05-05": 2637,
-  "2023-05-06": 2640,
-  "2023-05-07": 2646,
-  "2023-05-08": 2649,
-  "2023-05-09": 2650,
-  "2023-05-10": 2651,
-  "2023-05-11": 2650,
-  "2023-05-12": 2653,
-  "2023-05-13": 2653,
-  "2023-05-14": 2655,
-  "2023-05-15": 2657,
-  "2023-05-16": 2659,
-  "2023-05-17": 2663,
-  "2023-05-18": 2664,
-  "2023-05-19": 2666,
-  "2023-05-20": 2677,
-  "2023-05-21": 2677,
-  "2023-05-22": 2677,
-  "2023-05-23": 2688,
-  "2023-05-24": 2692,
-  "2023-05-25": 2692,
-  "2023-05-26": 2697,
-  "2023-05-27": 2699,
-  "2023-05-28": 2701,
-  "2023-05-29": 2701,
-  "2023-05-30": 2704,
-  "2023-05-31": 2703,
-  "2023-06-01": 2707,
-  "2023-06-02": 2707,
-  "2023-06-03": 2708,
-  "2023-06-04": 2717,
-  "2023-06-05": 2725,
-  "2023-06-06": 2728,
-  "2023-06-07": 2729,
-  "2023-06-08": 2732,
-  "2023-06-09": 2735,
-  "2023-06-10": 2738,
-  "2023-06-11": 2739,
-  "2023-06-12": 2742,
-  "2023-06-13": 2745,
-  "2023-06-14": 2748,
-  "2023-06-15": 2750,
-  "2023-06-16": 2754,
-  "2023-06-17": 2754,
-  "2023-06-18": 2755,
-  "2023-06-19": 2756,
-  "2023-06-20": 2757,
-  "2023-06-21": 2759,
-  "2023-06-22": 2761,
-  "2023-06-23": 2763,
-  "2023-06-24": 2764,
-  "2023-06-25": 2767,
-  "2023-06-26": 2773,
-  "2023-06-27": 2773,
-  "2023-06-28": 2775,
-  "2023-06-29": 2776,
-  "2023-06-30": 2776,
-  "2023-07-01": 2780,
-  "2023-07-02": 2780,
-  "2023-07-03": 2782,
-  "2023-07-04": 2781,
-  "2023-07-05": 2785,
-  "2023-07-06": 2788,
-  "2023-07-07": 2788,
-  "2023-07-08": 2788,
-  "2023-07-09": 2791,
-  "2023-07-10": 2794,
-  "2023-07-11": 2794,
-  "2023-07-12": 2794,
-  "2023-07-13": 2796,
-  "2023-07-14": 2797,
-  "2023-07-15": 2798,
-  "2023-07-16": 2801,
-  "2023-07-17": 2806,
-  "2023-07-18": 2808,
-  "2023-07-19": 2811,
-  "2023-07-20": 2811,
-  "2023-07-21": 2815,
-  "2023-07-22": 2817,
-  "2023-07-23": 2820,
-  "2023-07-24": 2818,
-  "2023-07-25": 2818,
-  "2023-07-26": 2819,
-  "2023-07-27": 2821,
-  "2023-07-28": 2823,
-  "2023-07-29": 2828,
-  "2023-07-30": 2832,
-  "2023-07-31": 2838,
-  "2023-08-01": 2839,
-  "2023-08-02": 2842,
-  "2023-08-03": 2843,
-  "2023-08-04": 2843,
-  "2023-08-05": 2847,
-  "2023-08-06": 2851,
-  "2023-08-07": 2851,
-  "2023-08-08": 2855,
-  "2023-08-09": 2858,
-  "2023-08-10": 2859,
-  "2023-08-11": 2857,
-  "2023-08-12": 2857,
-  "2023-08-13": 2857,
-  "2023-08-14": 2857,
-  "2023-08-15": 2857,
-  "2023-08-16": 2857,
-  "2023-08-17": 2857,
-  "2023-08-18": 2857,
-  "2023-08-19": 2857,
-  "2023-08-20": 2868,
-  "2023-08-21": 2868,
-  "2023-08-22": 2872,
-  "2023-08-23": 2872,
-  "2023-08-24": 2872,
-  "2023-08-25": 2872,
-  "2023-08-26": 2879,
-  "2023-08-27": 2879,
-  "2023-08-28": 2879,
-  "2023-08-29": 2879,
-  "2023-08-30": 2879,
-  "2023-08-31": 2885,
-  "2023-09-01": 2891,
-  "2023-09-02": 2891,
-  "2023-09-03": 2891,
-  "2023-09-04": 2891,
-  "2023-09-05": 2891,
-  "2023-09-06": 2891,
-  "2023-09-07": 2891,
-  "2023-09-08": 2891,
-  "2023-09-09": 2891,
-  "2023-09-10": 2891,
-  "2023-09-11": 2891,
-  "2023-09-12": 2891,
-  "2023-09-13": 2891,
-  "2023-09-14": 2891,
-  "2023-09-15": 2891,
-  "2023-09-16": 2939,
-  "2023-09-17": 2939,
-  "2023-09-18": 2939,
-  "2023-09-19": 2945,
-  "2023-09-20": 2945,
-  "2023-09-21": 2945,
-  "2023-09-22": 2948,
-  "2023-09-23": 2948,
-  "2023-09-24": 2948,
-  "2023-09-25": 2948,
-  "2023-09-26": 2964,
-  "2023-09-27": 2964,
-  "2023-09-28": 2964,
-  "2023-09-29": 2964,
-  "2023-09-30": 2964,
-  "2023-10-01": 2964,
-  "2023-10-02": 2964,
-  "2023-10-03": 2964,
-  "2023-10-04": 2964,
-  "2023-10-05": 2964,
-  "2023-10-06": 2964,
-  "2023-10-07": 2964,
-  "2023-10-08": 2964,
-  "2023-10-09": 2964,
-  "2023-10-10": 2964,
-  "2023-10-11": 2987,
-  "2023-10-12": 2987,
-  "2023-10-13": 2987,
-  "2023-10-14": 2987,
-  "2023-10-15": 2987,
-  "2023-10-16": 2987,
-  "2023-10-17": 2987,
-  "2023-10-18": 2987,
-  "2023-10-19": 2987,
-  "2023-10-20": 2987,
-  "2023-10-21": 2987,
-  "2023-10-22": 2987,
-  "2023-10-23": 2987,
-  "2023-10-24": 2987,
-  "2023-10-25": 2987,
-  "2023-10-26": 2987,
-  "2023-10-27": 2987,
-  "2023-10-28": 2987,
-  "2023-10-29": 2987,
-  "2023-10-30": 2987,
-  "2023-10-31": 2987,
-  "2023-11-01": 2987,
-  "2023-11-02": 2987,
-  "2023-11-03": 2987,
-  "2023-11-04": 2987,
-  "2023-11-05": 2987,
-  "2023-11-06": 2987,
-  "2023-11-07": 2987,
-  "2023-11-08": 2987,
-  "2023-11-09": 2987,
-  "2023-11-10": 2987,
-  "2023-11-11": 3053,
-  "2023-11-12": 3053,
-  "2023-11-13": 3053,
-  "2023-11-14": 3053,
-  "2023-11-15": 3053,
-  "2023-11-16": 3053,
-  "2023-11-17": 3053,
-  "2023-11-18": 3053,
-  "2023-11-19": 3053,
-  "2023-11-20": 3053,
-  "2023-11-21": 3053,
-  "2023-11-22": 3053,
-  "2023-11-23": 3053,
-  "2023-11-24": 3053,
-  "2023-11-25": 3053,
-  "2023-11-26": 3053,
-  "2023-11-27": 3053,
-  "2023-11-28": 3053,
-  "2023-11-29": 3053,
-  "2023-11-30": 3053,
-  "2023-12-01": 3053,
-  "2023-12-02": 3053,
-  "2023-12-03": 3053,
-  "2023-12-04": 3053,
-  "2023-12-05": 3053,
-  "2023-12-06": 3053,
-  "2023-12-07": 3053,
-  "2023-12-08": 3053,
-  "2023-12-09": 3053,
-  "2023-12-10": 3053,
-  "2023-12-11": 3053,
-  "2023-12-12": 3053,
-  "2023-12-13": 3053,
-  "2023-12-14": 3093,
-  "2023-12-15": 3094,
-  "2023-12-16": 3098,
-  "2023-12-17": 3097,
-  "2023-12-18": 3098,
-  "2023-12-19": 3098,
-  "2023-12-20": 3098,
-  "2023-12-21": 3102,
-  "2023-12-22": 3102,
-  "2023-12-23": 3104,
-  "2023-12-24": 3104,
-  "2023-12-25": 3105,
-  "2023-12-26": 3106,
-  "2023-12-27": 3108,
-  "2023-12-30": 3115,
-  "2023-12-31": 3116,
-  "2024-01-01": 3117,
-  "2024-01-02": 3118,
-  "2024-01-03": 3119
+  "2024-01-17": 3143,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
+  "name": "This Is Suzanne Ciani",
+  "tracks": [
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 234200,
+      "name": "'til Time and Times Are Done",
+      "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 229333,
+      "name": "4 O'Clock in the Morning",
+      "url": "https://open.spotify.com/track/1z4wE7bLDQrf5B5CJKHXjv"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 232026,
+      "name": "4 O'Clock in the Morning",
+      "url": "https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF"
+    },
+    {
+      "album": {
+        "name": "Conatus",
+        "url": "https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269320,
+      "name": "432 - Suzanne Ciani Rework",
+      "url": "https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy"
+    },
+    {
+      "album": {
+        "name": "Improvisation on Four Sequences Live at Festival Antigel",
+        "url": "https://open.spotify.com/album/7JMjtT9wBDupShzuacvuMQ"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 235015,
+      "name": "A Higher Place - Live",
+      "url": "https://open.spotify.com/track/2deGGE7ZjGD0Wd4T48bXJc"
+    },
+    {
+      "album": {
+        "name": "FRKWYS Vol. 13: Sunergy",
+        "url": "https://open.spotify.com/album/23lc2uS9fRiCApwcNhCvUT"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 1388249,
+      "name": "A New Day",
+      "url": "https://open.spotify.com/track/0FSw4ppnsTatvOcjKYlofZ"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228680,
+      "name": "A Sonic Womb Pt. 2",
+      "url": "https://open.spotify.com/track/5d33aVJpOrCLzfoIfSk8pp"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 195365,
+      "name": "A Sonic Womb Pt. 3",
+      "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 247142,
+      "name": "A Sonic Womb Pt. 4",
+      "url": "https://open.spotify.com/track/6PauezcrjQSTFsPPIgJmD7"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174162,
+      "name": "A Sonic Womb Pt. 5",
+      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
+    },
+    {
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 250371,
+      "name": "A Sonic Womb Pt. 6",
+      "url": "https://open.spotify.com/track/3kQvR0w9RRE2cnsvokyaca"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 172133,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/7lfC2lNlSDiH1SgeSWSYLn"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "Aegean Wave",
+      "url": "https://open.spotify.com/track/6umfm9P4dsJFympcydmVtQ"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261800,
+      "name": "Andalusian Dream",
+      "url": "https://open.spotify.com/track/0xAe35lAnTKENUi5VgO2Hk"
+    },
+    {
+      "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 235133,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/139eUwhBrU1dg4AbwksYYs"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235146,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/2Sz004J4cE9JezxQ511een"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123666,
+      "name": "Bel Canto",
+      "url": "https://open.spotify.com/track/2AoTWMO8PyX6kyUHVcIxxH"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 249120,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/5aGZITWQm7wTBeoffHTaA7"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285986,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/4yUwQRabaQZMbVOkPxxdap"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 213706,
+      "name": "Capri",
+      "url": "https://open.spotify.com/track/2M5QxNMs83xjGeKba51o4w"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Celtic Nights",
+      "url": "https://open.spotify.com/track/2xMUE2MRptR7uc8r8i2brq"
+    },
+    {
+      "album": {
+        "name": "Closed Circuit",
+        "url": "https://open.spotify.com/album/3KTOLx2jl7FYJG93VGvs6F"
+      },
+      "artists": [
+        {
+          "name": "Kaitlyn Aurelia Smith",
+          "url": "https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324709,
+      "name": "Closed Circuit",
+      "url": "https://open.spotify.com/track/3boYC8PtVEiSCBsAfw7hah"
+    },
+    {
+      "album": {
+        "name": "Buchla Concerts 1975",
+        "url": "https://open.spotify.com/album/2eRdpXgHPeltZL4nMr3Qxr"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 1200519,
+      "name": "Concert at Phil Niblock's Loft",
+      "url": "https://open.spotify.com/track/0t7H4g6R10lDoGMvM9Vt5n"
+    },
+    {
+      "album": {
+        "name": "Buchla Concerts 1975",
+        "url": "https://open.spotify.com/album/2eRdpXgHPeltZL4nMr3Qxr"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 1189141,
+      "name": "Concert at Wbai Free Music Store",
+      "url": "https://open.spotify.com/track/1SrKUJ1r6wNGSqaF7aKvzv"
+    },
+    {
+      "album": {
+        "name": "Coral Reef",
+        "url": "https://open.spotify.com/album/6Wm6Kek2O1stXbYi75wWKJ"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 286386,
+      "name": "Coral Reef",
+      "url": "https://open.spotify.com/track/2rjMOz1O2RRmVZyQoXHgzv"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286386,
+      "name": "Coral Reef",
+      "url": "https://open.spotify.com/track/55XSfNp6o9TVp8F7Xjp0va"
+    },
+    {
+      "album": {
+        "name": "Music For Denali",
+        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 215977,
+      "name": "Denali",
+      "url": "https://open.spotify.com/track/2B3Ak3JxzXgQDO9VztLMj1"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Dentecane",
+      "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 218640,
+      "name": "Dream of the Pink Zebra",
+      "url": "https://open.spotify.com/track/5soT0vJ6kTN1pRDYtVeRev"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 255333,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/44oGOmVIujTmRF3rLP1A4Y"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 247960,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5qSxp12DHTXYyqeDlOnMr9"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/4loFAwDRPaSB1QMJyO7jdZ"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 207826,
+      "name": "Etude",
+      "url": "https://open.spotify.com/track/4mOCUgov9WwOt40RAbD3xX"
+    },
+    {
+      "album": {
+        "name": "Flowers Of Evil",
+        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 848256,
+      "name": "Flowers Of Evil",
+      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 243586,
+      "name": "For Lise",
+      "url": "https://open.spotify.com/track/5gZN21iMNI3onWDpyzdtcl"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306680,
+      "name": "Full Moon Sonata",
+      "url": "https://open.spotify.com/track/1EOVZetVBUEfMFV8g0hsRv"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297506,
+      "name": "Go Gently",
+      "url": "https://open.spotify.com/track/0vY6jcdgXhuZcVfAjqZx7r"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 273053,
+      "name": "Golden Apples Of The Sun",
+      "url": "https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ"
+    },
+    {
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 586880,
+      "name": "History Of My Heart",
+      "url": "https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Hotel Luna",
+      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "I Believe in Love",
+      "url": "https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 243773,
+      "name": "I Believe In Love",
+      "url": "https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 254800,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx"
+    },
+    {
+      "album": {
+        "name": "Improvisation On Four Sequences",
+        "url": "https://open.spotify.com/album/4lRCOMQrNZJFQPhkIgs6bT"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 1140857,
+      "name": "Improvisation On Four Sequences Pt.1",
+      "url": "https://open.spotify.com/track/3gE5fhbWGw66EdEz8OJSOW"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 248733,
+      "name": "Inverness",
+      "url": "https://open.spotify.com/track/1xeHo019QG0x1zh3Hob3tX"
+    },
+    {
+      "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "Italia (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/0u3W3lf8rbN2NuB7ky4SMy"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312186,
+      "name": "L'Azzuro",
+      "url": "https://open.spotify.com/track/7icrlwHpkpnxEL2tVrdOxV"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 258000,
+      "name": "La Mer",
+      "url": "https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP"
+    },
+    {
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507906,
+      "name": "Lay Down Beside Me",
+      "url": "https://open.spotify.com/track/0XKPezlchnbQ55vC0vZET8"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 241426,
+      "name": "Lime Marmalade Reverie",
+      "url": "https://open.spotify.com/track/4u4ziYdZXAINlX6ASYxJMo"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 229466,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 295266,
+      "name": "Lumiere",
+      "url": "https://open.spotify.com/track/1KnxOiS6IdrYyWY708m7Tf"
+    },
+    {
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531933,
+      "name": "Malibuzios",
+      "url": "https://open.spotify.com/track/6oGEP52vbx81jMcMFwvS0w"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 286973,
+      "name": "Meeting Mozart",
+      "url": "https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 288933,
+      "name": "Meeting Mozart",
+      "url": "https://open.spotify.com/track/3i8nE1O4lO7ohT654OM1VV"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 218973,
+      "name": "Megan's Dream",
+      "url": "https://open.spotify.com/track/3ALDShaf3QEX1OcfvwLURW"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 210400,
+      "name": "Midnight Rendezvous",
+      "url": "https://open.spotify.com/track/4Otn2jAeW577E6tVVb3gJ7"
+    },
+    {
+      "album": {
+        "name": "Meditations for Dreams, Relaxation, and Sleep",
+        "url": "https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 211013,
+      "name": "Midnight Rendezvous",
+      "url": "https://open.spotify.com/track/6tnvxeYDrXFQo576xBXRsh"
+    },
+    {
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "Mother's Song",
+      "url": "https://open.spotify.com/track/6W4j8iooBlnZGKxYziaJT5"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191733,
+      "name": "Mozart",
+      "url": "https://open.spotify.com/track/4d1prmnOfbPlO0n03tUC1Q"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/2Q0WqaHMpXRA8l2rCvlkrw"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 254600,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/3bqA2pghklVzvAn4U04qLO"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478986,
+      "name": "Oceanium",
+      "url": "https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh"
+    },
+    {
+      "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Ondine (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 216666,
+      "name": "Open Seas",
+      "url": "https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94"
+    },
+    {
+      "album": {
+        "name": "LIVE Quadraphonic",
+        "url": "https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 79702,
+      "name": "Part Eight",
+      "url": "https://open.spotify.com/track/4Ug32kdtEa1Jy8gJmFK8JU"
+    },
+    {
+      "album": {
+        "name": "LIVE Quadraphonic",
+        "url": "https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 171261,
+      "name": "Part Four",
+      "url": "https://open.spotify.com/track/2N4S5fkh6rzNphvt9EqdVh"
+    },
+    {
+      "album": {
+        "name": "LIVE Quadraphonic",
+        "url": "https://open.spotify.com/album/1WWOmrEQHpvibV3bQBvcIN"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 313283,
+      "name": "Part Two",
+      "url": "https://open.spotify.com/track/3ipLNSWCkDMjiRyplhkps8"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 264493,
+      "name": "Princess",
+      "url": "https://open.spotify.com/track/70vOVnKnIbS5Z1weX918jL"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154973,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252506,
+      "name": "Rainbow Sequence",
+      "url": "https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 251226,
+      "name": "Riding Heaven's Wave: Eulogy to a Surfer",
+      "url": "https://open.spotify.com/track/0bgUeNfG2l4STlnn2CBV59"
+    },
+    {
+      "album": {
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 342760,
+      "name": "Sailing To Byzantium - (New)",
+      "url": "https://open.spotify.com/track/4VujPCSGU7lUU6QOIpxAs8"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Sargasso Sea",
+      "url": "https://open.spotify.com/track/4UfL9zy2IO26JAO0jNvkhH"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 229080,
+      "name": "Silver Ship",
+      "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 195093,
+      "name": "Simple Song - Live",
+      "url": "https://open.spotify.com/track/6M64D6EyQPPkQLuLH1EGfs"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Snow Crystals",
+      "url": "https://open.spotify.com/track/6HX7BkAHystUyxunvavwmx"
+    },
+    {
+      "album": {
+        "name": "Dream Suite",
+        "url": "https://open.spotify.com/album/12w6StuJjgjQgaGuiLMvUo"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 196333,
+      "name": "Sogno Agitato",
+      "url": "https://open.spotify.com/track/3vuYkYDHb4mSJfP0ewpBUh"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
+    },
+    {
+      "album": {
+        "name": "Soul Cruiser",
+        "url": "https://open.spotify.com/album/7ydN8OWmIKaQoNLsDiQScz"
+      },
+      "artists": [
+        {
+          "name": "Sleepyard",
+          "url": "https://open.spotify.com/artist/64e3bEnNXtalk8Mft1dSyn"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 352041,
+      "name": "Soul Cruiser",
+      "url": "https://open.spotify.com/track/6CS5Lm4wev6bipUzcxB6vG"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 246293,
+      "name": "Stromboli",
+      "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 244866,
+      "name": "Summer's Day",
+      "url": "https://open.spotify.com/track/11xXOsfjQTOUtpp0Db633j"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 207640,
+      "name": "Terra Mesa",
+      "url": "https://open.spotify.com/track/5vhLS9WUO8KndhHqfCPwoD"
+    },
+    {
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307573,
+      "name": "The Eighth Wave",
+      "url": "https://open.spotify.com/track/0hfdtb8oN7bWS0P5aqRbyZ"
+    },
+    {
+      "album": {
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 192000,
+      "name": "The Enchantress",
+      "url": "https://open.spotify.com/track/2rjR6HcLE20PXToShdF1QP"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347626,
+      "name": "The Fifth Wave - Water Lullaby",
+      "url": "https://open.spotify.com/track/48Ts7bGN2VeEVaLzKWet5U"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304026,
+      "name": "The First Wave - Birth Of Venus",
+      "url": "https://open.spotify.com/track/6wG4izwDQdTxkpBEB6CRlk"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226573,
+      "name": "The Fourth Wave - Wind In The Sea",
+      "url": "https://open.spotify.com/track/0RsCzzwmJYdUTRGk6ozqlX"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437933,
+      "name": "The Second Wave - Sirens",
+      "url": "https://open.spotify.com/track/0IYLjpP98C3lsANXTbQHRT"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 396826,
+      "name": "The Seventh Wave - Sailing Away",
+      "url": "https://open.spotify.com/track/3mIudsQ5RoTpT6FgGMKhfj"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424973,
+      "name": "The Sixth Wave - Deep In The Sea",
+      "url": "https://open.spotify.com/track/2ctoTMoMSToFFu9PRRAVrK"
+    },
+    {
+      "album": {
+        "name": "Seven Waves",
+        "url": "https://open.spotify.com/album/3YBrOpJsyXHP4JeKaICHf3"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317733,
+      "name": "The Third Wave - Love In The Waves",
+      "url": "https://open.spotify.com/track/5ikCRvgA7JC7Fa9ygBQpmG"
+    },
+    {
+      "album": {
+        "name": "The Velocity Of Love",
+        "url": "https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270813,
+      "name": "The Velocity Of Love",
+      "url": "https://open.spotify.com/track/5Z8drOEmdVTtwixfM4FGzN"
+    },
+    {
+      "album": {
+        "name": "Tide Pools",
+        "url": "https://open.spotify.com/album/3xT2c2VcLlawCPbdBMJOxH"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268043,
+      "name": "Tide Pools",
+      "url": "https://open.spotify.com/track/1xc9Cc2F9A2kfLnjmrBsIw"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 410120,
+      "name": "Time Lapse",
+      "url": "https://open.spotify.com/track/2e9rLJNPeV9HzCNIhHaQES"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Time Stops",
+      "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"
+    },
+    {
+      "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-04",
+      "duration_ms": 215360,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/5voa2qWyVFrcjihOdFq4hF"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249600,
+      "name": "Turning",
+      "url": "https://open.spotify.com/track/5XaVqwrN4WXABLiX969wG0"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218333,
+      "name": "Tuscany",
+      "url": "https://open.spotify.com/track/7MKHnn1icO9Ce7FRHPY2pv"
+    },
+    {
+      "album": {
+        "name": "decades ( in space )",
+        "url": "https://open.spotify.com/album/3avAolAqIsnHBEQ3TTSN5X"
+      },
+      "artists": [
+        {
+          "name": "Emily Kokal",
+          "url": "https://open.spotify.com/artist/5cjR3WlUBpSCQ6il8Gqsfu"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 308333,
+      "name": "Una",
+      "url": "https://open.spotify.com/track/30BiDK1eyjRNq7ZUXuCpCx"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 243733,
+      "name": "Waltz For Julia",
+      "url": "https://open.spotify.com/track/7orVWspB20r4L2975OkwF5"
+    },
+    {
+      "album": {
+        "name": "Pianissimo",
+        "url": "https://open.spotify.com/album/5hD6gGLoTIZApXRCIvREBh"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 229333,
+      "name": "When Love Dies",
+      "url": "https://open.spotify.com/track/1eOUGIRdH32km2jou6g9oA"
+    },
+    {
+      "album": {
+        "name": "Silver Ship",
+        "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 255866,
+      "name": "Wine Dark Sea",
+      "url": "https://open.spotify.com/track/6fx3pLWTbmyaCo8z64LrPI"
+    },
+    {
+      "album": {
+        "name": "Turning",
+        "url": "https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201426,
+      "name": "Yang Ming Shen",
+      "url": "https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj"
+    },
+    {
+      "album": {
+        "name": "Music For Denali",
+        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90810,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I"
 }

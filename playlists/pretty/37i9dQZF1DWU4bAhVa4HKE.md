@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4bAhVa4HKE.md) - [plain]
 
 > Catch Rauw's setlist for the Club Saturno tour en el Choli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,973 likes - 37 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 447 likes - 37 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4bAhVa4HKE.md) - [plain]
 | 36 | [Strawberry Kiwi](https://open.spotify.com/track/4jkZjaZkOCpgk2pqV8Wrw3) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:32 |
 | 37 | [INQUIETO](https://open.spotify.com/track/4TL3dMZzEQZxVyZTfeRlav) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:42 |
 
-Snapshot ID: `MCw2YTlhMTMwZjQwMjIyNjY2MzUyNGIwYWI4YTM4YjVhZDRiZTk4OWIy`
+Snapshot ID: `MCw5NTAwYzIyNDAzNThlNTI2Y2IxMjdkZTA2OTNmMjUyNGZjZGZkMjFh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,461 likes - 85 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,998 likes - 85 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BChUV4Ga35.md) - [plain]
 | 27 | [The Busy Beaver Bop](https://open.spotify.com/track/47FgC7YjxcKOiAkDd01lU1) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:29 |
 | 28 | [Shake Ya Tail](https://open.spotify.com/track/0ORDTWwFN2gdyMwzpyXr0v) | [Urban Tails](https://open.spotify.com/artist/06UozYz8Pa1cAYrMSWUYXI) | [Urban Tails](https://open.spotify.com/album/3CfzVCZnB0PR5HGfu7B5t5) | 1:46 |
 | 29 | [What is a Bird?](https://open.spotify.com/track/6zKoMXI1ApEnbiWyOA1Qy6) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Pancake Manor](https://open.spotify.com/album/5nfoLW8Ut0picjRjdGcC0g) | 1:57 |
-| 30 | [Five Little Monkeys](https://open.spotify.com/track/6JXrKmSeYSM4AhmJMO34fd) | [Cooltime Kids](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Kids Road Trip](https://open.spotify.com/album/6yx2Pda5LExOqJvJTkUfBe) | 1:39 |
+| 30 | [Five Little Monkeys](https://open.spotify.com/track/6JXrKmSeYSM4AhmJMO34fd) | [Cooltime](https://open.spotify.com/artist/3Pz7ikGxe5TQMPq12seVjf) | [Kids Road Trip](https://open.spotify.com/album/6yx2Pda5LExOqJvJTkUfBe) | 1:39 |
 | 31 | [Animal Tea Party](https://open.spotify.com/track/12xKVbyhbv4xYuV6ix6X87) | [Mr Yipadee](https://open.spotify.com/artist/2EDBzZNew0M639G7RKCTsS), [Deano Yipadee](https://open.spotify.com/artist/7hQbFjNyMcJxjwmlieqPy1) | [Animal Tea Party](https://open.spotify.com/album/2fgkAS7QhojInU1K29KjvF) | 2:18 |
 | 32 | [Bounce Like a Bunny](https://open.spotify.com/track/2NIFGVRr4hkbefiViKjGpb) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Bounce Like a Bunny](https://open.spotify.com/album/7iPcccVEN3J8les524Hbc9) | 1:49 |
 | 33 | [Animal Bop](https://open.spotify.com/track/1Y7maeiqIvifJbs5iP0NB2) | [YolanDa](https://open.spotify.com/artist/4hm4WFGcx2tbuHgHkGGLjq), [YolanDa Brown](https://open.spotify.com/artist/4VGGxAkrs07Y4vyCdiaxq0) | [YolanDa's Band Jam](https://open.spotify.com/album/5ao41Lw4krw6XAn8KI0jbc) | 2:56 |

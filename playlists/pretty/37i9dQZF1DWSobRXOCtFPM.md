@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,584 likes - 67 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,253 likes - 67 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Box Groove](https://open.spotify.com/track/2z4fO8KcFzRJfOTd1lB5Ky) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 5:47 |
+| 1 | [Box Groove \- Live](https://open.spotify.com/track/2z4fO8KcFzRJfOTd1lB5Ky) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 5:47 |
 | 2 | [Hanenda \(Will Clarke Remix \- Edit\)](https://open.spotify.com/track/6jikiaPQj8g6DRXevBj8jZ) | [Marc Romboy](https://open.spotify.com/artist/623ecFS6T9xsx9Rb98eii5), [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Hanenda \- EP](https://open.spotify.com/album/0wlfopjB4ZSHMriUb4DaCD) | 3:30 |
 | 3 | [The Way I Want](https://open.spotify.com/track/2w6sztEz9aeDYQFPIwMF47) | [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Tender Perceptions](https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K) | 7:08 |
-| 4 | [Sequences of Self Sabotage](https://open.spotify.com/track/7sJXNYULybaUX2O0ayVOiZ) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 7:33 |
+| 4 | [Sequences of Self Sabotage \- Live](https://open.spotify.com/track/7sJXNYULybaUX2O0ayVOiZ) | [Saytek](https://open.spotify.com/artist/51c1s2fN5DVKxQJ0mMhSHD) | [Twenty \(Live\)](https://open.spotify.com/album/7lIIQ36oaMlRPMOLStAqRy) | 7:33 |
 | 5 | [Dfam on the Field](https://open.spotify.com/track/0QeHUJwpsr6JnHgQnRYIqX) | [Stimming](https://open.spotify.com/artist/2yPveJtn9DpeN0CgNJHvAQ) | [Elderberry](https://open.spotify.com/album/6lwKzII8SY9xBrzVGhpmPX) | 9:26 |
 | 6 | [I Am the Projector](https://open.spotify.com/track/3gjDMSkLime3TyHZXpgSbi) | [An On Bast](https://open.spotify.com/artist/4qIHzBkWUueYNuEl3xCDHs) | [Tender Perceptions](https://open.spotify.com/album/4O5hCAjwwVOh42ictNAf0K) | 6:49 |
 | 7 | [Nocturnal \- Rebuke Edit](https://open.spotify.com/track/6S6NVm1rjajtGhZpBv2L9i) | [Cox and Coe](https://open.spotify.com/artist/03GSrqz7SauxZR5JXQvgp7), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj), [Christopher Coe](https://open.spotify.com/artist/3LLc5jMIE1UHX5eF2cN8rP) | [Mindset \(The Rebuke Edits\)](https://open.spotify.com/album/2cdMahFloyLuCPKzRDpfCw) | 6:27 |

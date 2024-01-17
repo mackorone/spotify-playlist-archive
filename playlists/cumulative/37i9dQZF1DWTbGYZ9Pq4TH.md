@@ -4,7 +4,7 @@
 
 > Le canzoni italiane più romantiche di sempre ❤️
 
-199 songs - 12 hr 50 min
+200 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,7 @@
 | [Minuetto](https://open.spotify.com/track/5DPp64xvym2n9tHE8nuhn7) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il giorno dopo \(Gli Indimenticabili\)](https://open.spotify.com/album/2n9uS88r6JmABiCy4CbhBM) | 4:43 | 2023-02-20 | 2023-03-20 |
 | [Minuetto](https://open.spotify.com/track/5UKMdUAChYAllKDye6qDGb) | [Mia Martini](https://open.spotify.com/artist/05JkDGFMHqlIz0GPjLh2p3) | [Il Giorno Dopo](https://open.spotify.com/album/3RULCQndss1A5Ix2NAlV8M) | 4:43 | 2021-09-26 | 2022-07-28 |
 | [Motivo \(feat\. Coez\)](https://open.spotify.com/track/6SZMYfcEOgv7a7fhArmrQQ) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [La Differenza](https://open.spotify.com/album/6NN8ud1qr77iiGxHSDN7rk) | 3:11 | 2021-09-26 | 2022-07-25 |
-| [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 | 2021-09-26 |  |
+| [Niente Canzoni D'Amore](https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5) | [Elodie](https://open.spotify.com/artist/7GgpsUpkj3olseoaTY7TEY) | [This Is Elodie](https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd) | 3:25 | 2021-09-26 | 2024-01-16 |
 | [Noi casomai](https://open.spotify.com/track/6wJ4kGBnctTHgftMhmuaTg) | [Tiromancino](https://open.spotify.com/artist/6hVfhenDWtc36gNLmWIRG5) | [Fino a qui](https://open.spotify.com/album/28rK6KrZTDZqPBoM9bGFR4) | 3:53 | 2021-09-26 | 2022-07-24 |
 | [Noi due nel mondo e nell'anima](https://open.spotify.com/track/1GFzFvjy10d71MDMypiqCy) | [Pooh](https://open.spotify.com/artist/6dmT9Ks01aMhsYEKitt5oR) | [Noi due nel mondo e nell'anima](https://open.spotify.com/album/5FgFQFEW0RoI8PH17ogJGU) | 3:43 | 2021-09-26 | 2022-07-29 |
 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 | 2021-09-26 |  |
@@ -185,6 +185,7 @@
 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 | 2021-09-26 |  |
 | [Ti ho voluto bene veramente](https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e) | [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Le cose che non ho](https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG) | 2:49 | 2021-09-26 |  |
 | [Ti porto a cena con me](https://open.spotify.com/track/4q5gpE90NNbtuVLczJmKfu) | [Giusy Ferreri](https://open.spotify.com/artist/0dwEXtB6gceh7EO7tCsxhD) | [L'attesa](https://open.spotify.com/album/0loxSv6A3y8bGG4V3KXlUo) | 3:54 | 2021-09-26 | 2022-06-04 |
+| [Ti scatterò una foto](https://open.spotify.com/track/2IDNV0ttledZreT0JtzFMp) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Nessuno è solo](https://open.spotify.com/album/56gXoHRll4A4KZBTZsSMNi) | 4:32 | 2023-02-20 |  |
 | [Ti sposerò perché](https://open.spotify.com/track/0Jp3BOdSROQLzAnfUGl8ce) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Musica è](https://open.spotify.com/album/0OCZyh2eM52kiVJYBZZ3fJ) | 4:01 | 2021-09-26 | 2022-07-27 |
 | [Ti vorrei sollevare \- With Giuliano Sangiorgi](https://open.spotify.com/track/26DAbhgVoOIPBCfDxyP7xN) | [Elisa](https://open.spotify.com/artist/2ARH58Hit3yC6ziGdhma23), [Giuliano Sangiorgi](https://open.spotify.com/artist/4nVlr3WO33XWrBFDwtUlW4) | [Heart \(Deluxe Edition\)](https://open.spotify.com/album/2XiF0XJOfyOtD5m3QgBDBH) | 4:27 | 2021-09-26 | 2022-07-29 |
 | [Tu](https://open.spotify.com/track/0ZZsGEpFws0EDn7Kos1U2z) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/1gmgzeAMpCDunSHil00fXW) | 4:11 | 2021-09-26 | 2022-07-22 |

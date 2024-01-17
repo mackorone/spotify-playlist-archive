@@ -1,472 +1,1555 @@
 {
-  "2022-09-17": 112743,
-  "2022-09-18": 112786,
-  "2022-09-19": 112832,
-  "2022-09-20": 112875,
-  "2022-09-21": 112936,
-  "2022-09-22": 112977,
-  "2022-09-23": 113035,
-  "2022-09-24": 113076,
-  "2022-09-25": 113132,
-  "2022-09-26": 113178,
-  "2022-09-27": 113217,
-  "2022-09-28": 113266,
-  "2022-09-29": 113327,
-  "2022-09-30": 113391,
-  "2022-10-01": 113461,
-  "2022-10-02": 113515,
-  "2022-10-03": 113571,
-  "2022-10-04": 113624,
-  "2022-10-05": 113685,
-  "2022-10-06": 113761,
-  "2022-10-07": 113816,
-  "2022-10-08": 113869,
-  "2022-10-09": 113958,
-  "2022-10-10": 113967,
-  "2022-10-11": 114027,
-  "2022-10-12": 114070,
-  "2022-10-13": 114126,
-  "2022-10-14": 114178,
-  "2022-10-15": 114229,
-  "2022-10-16": 114280,
-  "2022-10-17": 114315,
-  "2022-10-18": 114349,
-  "2022-10-19": 114421,
-  "2022-10-20": 114522,
-  "2022-10-21": 114598,
-  "2022-10-22": 114682,
-  "2022-10-23": 114743,
-  "2022-10-24": 114809,
-  "2022-10-25": 114880,
-  "2022-10-26": 114935,
-  "2022-10-27": 114983,
-  "2022-10-28": 115032,
-  "2022-10-29": 115102,
-  "2022-10-30": 115161,
-  "2022-10-31": 115212,
-  "2022-11-01": 115265,
-  "2022-11-02": 115313,
-  "2022-11-03": 115360,
-  "2022-11-04": 115421,
-  "2022-11-05": 115483,
-  "2022-11-06": 115532,
-  "2022-11-07": 115578,
-  "2022-11-08": 115637,
-  "2022-11-09": 115704,
-  "2022-11-10": 115766,
-  "2022-11-11": 115811,
-  "2022-11-12": 115887,
-  "2022-11-13": 115934,
-  "2022-11-14": 115974,
-  "2022-11-15": 116011,
-  "2022-11-16": 116076,
-  "2022-11-17": 116123,
-  "2022-11-18": 116124,
-  "2022-11-19": 116130,
-  "2022-11-20": 116168,
-  "2022-11-21": 116195,
-  "2022-11-22": 116220,
-  "2022-11-23": 116261,
-  "2022-11-24": 116335,
-  "2022-11-25": 116411,
-  "2022-11-26": 116455,
-  "2022-11-27": 116503,
-  "2022-11-28": 116534,
-  "2022-11-29": 116567,
-  "2022-11-30": 116618,
-  "2022-12-01": 116672,
-  "2022-12-02": 116698,
-  "2022-12-03": 116814,
-  "2022-12-04": 116851,
-  "2022-12-05": 116890,
-  "2022-12-06": 116933,
-  "2022-12-07": 116992,
-  "2022-12-08": 117064,
-  "2022-12-09": 117141,
-  "2022-12-10": 117196,
-  "2022-12-11": 117242,
-  "2022-12-12": 117292,
-  "2022-12-13": 117345,
-  "2022-12-14": 117392,
-  "2022-12-15": 117448,
-  "2022-12-16": 117505,
-  "2022-12-17": 117557,
-  "2022-12-18": 117609,
-  "2022-12-19": 117648,
-  "2022-12-20": 117765,
-  "2022-12-21": 117765,
-  "2022-12-22": 117807,
-  "2022-12-24": 117891,
-  "2022-12-25": 117925,
-  "2022-12-26": 117972,
-  "2022-12-27": 118013,
-  "2022-12-28": 118067,
-  "2022-12-29": 118119,
-  "2022-12-30": 118176,
-  "2022-12-31": 118238,
-  "2023-01-01": 118298,
-  "2023-01-02": 118339,
-  "2023-01-03": 118371,
-  "2023-01-04": 118404,
-  "2023-01-05": 118458,
-  "2023-01-06": 118501,
-  "2023-01-07": 118606,
-  "2023-01-08": 118630,
-  "2023-01-09": 118683,
-  "2023-01-10": 118739,
-  "2023-01-11": 118786,
-  "2023-01-12": 118854,
-  "2023-01-13": 118928,
-  "2023-01-14": 119041,
-  "2023-01-15": 119055,
-  "2023-01-16": 119112,
-  "2023-01-17": 119167,
-  "2023-01-18": 119236,
-  "2023-01-19": 119313,
-  "2023-01-20": 119382,
-  "2023-01-21": 119456,
-  "2023-01-22": 119519,
-  "2023-01-23": 119583,
-  "2023-01-24": 119645,
-  "2023-01-25": 119717,
-  "2023-01-26": 119784,
-  "2023-01-27": 119861,
-  "2023-01-28": 119959,
-  "2023-01-29": 120047,
-  "2023-01-30": 120131,
-  "2023-01-31": 120131,
-  "2023-02-01": 120281,
-  "2023-02-02": 120356,
-  "2023-02-03": 120458,
-  "2023-02-04": 120539,
-  "2023-02-05": 120609,
-  "2023-02-06": 120661,
-  "2023-02-07": 120728,
-  "2023-02-08": 120880,
-  "2023-02-09": 120880,
-  "2023-02-10": 120942,
-  "2023-02-11": 121021,
-  "2023-02-12": 121171,
-  "2023-02-13": 121246,
-  "2023-02-14": 121246,
-  "2023-02-15": 121302,
-  "2023-02-16": 121387,
-  "2023-02-17": 121454,
-  "2023-02-18": 121619,
-  "2023-02-19": 121635,
-  "2023-02-20": 121673,
-  "2023-02-21": 121741,
-  "2023-02-22": 121814,
-  "2023-02-23": 121911,
-  "2023-02-24": 122010,
-  "2023-02-25": 122634,
-  "2023-02-26": 122818,
-  "2023-02-27": 123192,
-  "2023-02-28": 123192,
-  "2023-03-01": 123371,
-  "2023-03-02": 123541,
-  "2023-03-03": 123754,
-  "2023-03-04": 123914,
-  "2023-03-05": 124278,
-  "2023-03-06": 124278,
-  "2023-03-07": 124447,
-  "2023-03-08": 124583,
-  "2023-03-09": 124704,
-  "2023-03-10": 124855,
-  "2023-03-11": 125041,
-  "2023-03-12": 125270,
-  "2023-03-13": 125672,
-  "2023-03-14": 125984,
-  "2023-03-15": 126267,
-  "2023-03-16": 126508,
-  "2023-03-17": 126508,
-  "2023-03-18": 126912,
-  "2023-03-19": 127072,
-  "2023-03-20": 127246,
-  "2023-03-21": 127497,
-  "2023-03-22": 127749,
-  "2023-03-23": 127980,
-  "2023-03-24": 127980,
-  "2023-03-25": 128433,
-  "2023-03-26": 128689,
-  "2023-03-27": 128970,
-  "2023-03-28": 129198,
-  "2023-03-29": 129465,
-  "2023-03-30": 129818,
-  "2023-03-31": 129818,
-  "2023-04-01": 129984,
-  "2023-04-02": 130150,
-  "2023-04-03": 130296,
-  "2023-04-04": 130433,
-  "2023-04-05": 130589,
-  "2023-04-06": 130710,
-  "2023-04-07": 130832,
-  "2023-04-09": 131043,
-  "2023-04-10": 131120,
-  "2023-04-11": 131264,
-  "2023-04-12": 131264,
-  "2023-04-13": 131362,
-  "2023-04-14": 131459,
-  "2023-04-15": 131537,
-  "2023-04-16": 131621,
-  "2023-04-17": 131689,
-  "2023-04-18": 131778,
-  "2023-04-19": 131841,
-  "2023-04-20": 131920,
-  "2023-04-21": 132016,
-  "2023-04-22": 132109,
-  "2023-04-23": 132191,
-  "2023-04-24": 132259,
-  "2023-04-25": 132326,
-  "2023-04-26": 132396,
-  "2023-04-27": 132452,
-  "2023-04-28": 132539,
-  "2023-04-29": 132614,
-  "2023-04-30": 132694,
-  "2023-05-01": 132756,
-  "2023-05-02": 132829,
-  "2023-05-03": 132893,
-  "2023-05-04": 132969,
-  "2023-05-05": 133040,
-  "2023-05-06": 133154,
-  "2023-05-07": 133238,
-  "2023-05-08": 133309,
-  "2023-05-09": 133390,
-  "2023-05-10": 133446,
-  "2023-05-11": 133511,
-  "2023-05-12": 133583,
-  "2023-05-13": 133664,
-  "2023-05-14": 133754,
-  "2023-05-15": 133823,
-  "2023-05-16": 133913,
-  "2023-05-17": 133989,
-  "2023-05-18": 134068,
-  "2023-05-19": 134166,
-  "2023-05-20": 134324,
-  "2023-05-21": 134324,
-  "2023-05-22": 134324,
-  "2023-05-23": 134456,
-  "2023-05-24": 134568,
-  "2023-05-25": 134589,
-  "2023-05-26": 134647,
-  "2023-05-27": 134738,
-  "2023-05-28": 134812,
-  "2023-05-29": 134812,
-  "2023-05-30": 134955,
-  "2023-05-31": 135030,
-  "2023-06-01": 135110,
-  "2023-06-02": 135185,
-  "2023-06-03": 135266,
-  "2023-06-04": 135348,
-  "2023-06-05": 135423,
-  "2023-06-06": 135517,
-  "2023-06-07": 135631,
-  "2023-06-08": 135740,
-  "2023-06-09": 135906,
-  "2023-06-10": 136029,
-  "2023-06-11": 136098,
-  "2023-06-12": 136168,
-  "2023-06-13": 136231,
-  "2023-06-14": 136231,
-  "2023-06-15": 136269,
-  "2023-06-16": 27316,
-  "2023-06-17": 27316,
-  "2023-06-18": 27316,
-  "2023-06-19": 27316,
-  "2023-06-20": 27316,
-  "2023-06-21": 27316,
-  "2023-06-22": 27316,
-  "2023-06-23": 27316,
-  "2023-06-24": 27316,
-  "2023-06-25": 27316,
-  "2023-06-26": 27316,
-  "2023-06-27": 27316,
-  "2023-06-28": 27316,
-  "2023-06-29": 27316,
-  "2023-06-30": 27316,
-  "2023-07-01": 27316,
-  "2023-07-02": 27316,
-  "2023-07-03": 27316,
-  "2023-07-04": 27316,
-  "2023-07-05": 27316,
-  "2023-07-06": 27316,
-  "2023-07-07": 27316,
-  "2023-07-08": 27316,
-  "2023-07-09": 27316,
-  "2023-07-10": 27316,
-  "2023-07-11": 27316,
-  "2023-07-12": 27316,
-  "2023-07-13": 27316,
-  "2023-07-14": 27316,
-  "2023-07-15": 27316,
-  "2023-07-16": 27316,
-  "2023-07-17": 27316,
-  "2023-07-18": 27316,
-  "2023-07-19": 27316,
-  "2023-07-20": 27316,
-  "2023-07-21": 27316,
-  "2023-07-22": 27316,
-  "2023-07-23": 27316,
-  "2023-07-24": 27316,
-  "2023-07-25": 27316,
-  "2023-07-26": 27316,
-  "2023-07-27": 27316,
-  "2023-07-28": 27316,
-  "2023-07-29": 27316,
-  "2023-07-30": 27316,
-  "2023-07-31": 27316,
-  "2023-08-01": 27316,
-  "2023-08-02": 27316,
-  "2023-08-03": 27316,
-  "2023-08-04": 27316,
-  "2023-08-05": 27316,
-  "2023-08-06": 27316,
-  "2023-08-07": 27316,
-  "2023-08-08": 27316,
-  "2023-08-09": 27316,
-  "2023-08-10": 27316,
-  "2023-08-11": 27316,
-  "2023-08-12": 27316,
-  "2023-08-13": 27316,
-  "2023-08-14": 27316,
-  "2023-08-15": 27316,
-  "2023-08-16": 27316,
-  "2023-08-17": 27316,
-  "2023-08-18": 27316,
-  "2023-08-19": 27316,
-  "2023-08-20": 27316,
-  "2023-08-21": 27316,
-  "2023-08-22": 27316,
-  "2023-08-23": 27316,
-  "2023-08-24": 27316,
-  "2023-08-25": 27316,
-  "2023-08-26": 27316,
-  "2023-08-27": 27316,
-  "2023-08-28": 27316,
-  "2023-08-29": 27316,
-  "2023-08-30": 27316,
-  "2023-08-31": 27316,
-  "2023-09-01": 27316,
-  "2023-09-02": 27316,
-  "2023-09-03": 27316,
-  "2023-09-04": 27316,
-  "2023-09-05": 27316,
-  "2023-09-06": 27316,
-  "2023-09-07": 27316,
-  "2023-09-08": 27316,
-  "2023-09-09": 27316,
-  "2023-09-10": 27316,
-  "2023-09-11": 27316,
-  "2023-09-12": 27316,
-  "2023-09-13": 27316,
-  "2023-09-14": 27316,
-  "2023-09-15": 27316,
-  "2023-09-16": 27316,
-  "2023-09-17": 27316,
-  "2023-09-18": 27316,
-  "2023-09-19": 27316,
-  "2023-09-20": 27316,
-  "2023-09-21": 27316,
-  "2023-09-22": 27316,
-  "2023-09-23": 27316,
-  "2023-09-24": 27316,
-  "2023-09-25": 27316,
-  "2023-09-26": 27316,
-  "2023-09-27": 27316,
-  "2023-09-28": 27316,
-  "2023-09-29": 27316,
-  "2023-09-30": 27316,
-  "2023-10-01": 27316,
-  "2023-10-02": 27316,
-  "2023-10-03": 27316,
-  "2023-10-04": 27316,
-  "2023-10-05": 27316,
-  "2023-10-06": 27316,
-  "2023-10-07": 27316,
-  "2023-10-08": 27316,
-  "2023-10-09": 27316,
-  "2023-10-10": 27316,
-  "2023-10-11": 27316,
-  "2023-10-12": 27316,
-  "2023-10-13": 27316,
-  "2023-10-14": 27316,
-  "2023-10-15": 27316,
-  "2023-10-16": 27316,
-  "2023-10-17": 27316,
-  "2023-10-18": 27316,
-  "2023-10-19": 27316,
-  "2023-10-20": 27316,
-  "2023-10-21": 27316,
-  "2023-10-22": 27316,
-  "2023-10-23": 27316,
-  "2023-10-24": 27316,
-  "2023-10-25": 27316,
-  "2023-10-26": 27316,
-  "2023-10-27": 27316,
-  "2023-10-28": 27316,
-  "2023-10-29": 27316,
-  "2023-10-30": 27316,
-  "2023-10-31": 27316,
-  "2023-11-01": 27316,
-  "2023-11-02": 27316,
-  "2023-11-03": 27316,
-  "2023-11-04": 27316,
-  "2023-11-05": 27316,
-  "2023-11-06": 27316,
-  "2023-11-07": 27316,
-  "2023-11-08": 27316,
-  "2023-11-09": 27316,
-  "2023-11-10": 27316,
-  "2023-11-11": 27316,
-  "2023-11-12": 27316,
-  "2023-11-13": 27316,
-  "2023-11-14": 27316,
-  "2023-11-15": 27316,
-  "2023-11-16": 27316,
-  "2023-11-17": 27316,
-  "2023-11-18": 27316,
-  "2023-11-19": 27316,
-  "2023-11-20": 27316,
-  "2023-11-21": 27316,
-  "2023-11-22": 27316,
-  "2023-11-23": 27316,
-  "2023-11-24": 27316,
-  "2023-11-25": 27316,
-  "2023-11-26": 27316,
-  "2023-11-27": 27316,
-  "2023-11-28": 27316,
-  "2023-11-29": 27316,
-  "2023-11-30": 27316,
-  "2023-12-01": 27316,
-  "2023-12-02": 27316,
-  "2023-12-03": 27316,
-  "2023-12-04": 27316,
-  "2023-12-05": 27316,
-  "2023-12-06": 27316,
-  "2023-12-07": 27316,
-  "2023-12-08": 27316,
-  "2023-12-09": 27316,
-  "2023-12-10": 27316,
-  "2023-12-11": 27316,
-  "2023-12-12": 27316,
-  "2023-12-13": 27316,
-  "2023-12-14": 27316,
-  "2023-12-15": 27316,
-  "2023-12-16": 27316,
-  "2023-12-17": 27316,
-  "2023-12-18": 27316,
-  "2023-12-19": 27316,
-  "2023-12-20": 27316,
-  "2023-12-21": 27316,
-  "2023-12-22": 27316,
-  "2023-12-23": 27316,
-  "2023-12-24": 27316,
-  "2023-12-25": 27316,
-  "2023-12-26": 27316,
-  "2023-12-27": 27316,
-  "2023-12-30": 27316,
-  "2023-12-31": 27316,
-  "2024-01-01": 27316,
-  "2024-01-02": 27316,
-  "2024-01-03": 27316
+  "2024-01-17": 27316,
+  "date_first_scraped": "2022-09-17",
+  "description": "Los hermanos Dur\u00e1n, L\u00f3pez y Basualto nos dejaron estos temas desde Concepci\u00f3n al mundo... \u00a1Grande Los Bunkers!",
+  "name": "This is Los Bunkers",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nacional Records Esenciales: Chile",
+        "url": "https://open.spotify.com/album/2PSuiUqwHHlW8C993bssMB"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 351626,
+      "name": "Ahora Que No Estas",
+      "url": "https://open.spotify.com/track/5CZCd2o6GTom7hnWajd488"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351642,
+      "name": "Ahora Que No Estas",
+      "url": "https://open.spotify.com/track/4YtvPDN9v12yXIwRdGWXYz"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366893,
+      "name": "Ahora que no est\u00e1s",
+      "url": "https://open.spotify.com/track/77gNm6LVUmxxg4zevFVzwB"
+    },
+    {
+      "album": {
+        "name": "Ahora Que No Est\u00e1s",
+        "url": "https://open.spotify.com/album/3pgK6tM2kqeKSBh0ADiqKd"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549602,
+      "name": "Ahora Que No Est\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/3yoEVNxsoWxTNAtQE3THWv"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201280,
+      "name": "Al Final De Este Viaje En La Vida",
+      "url": "https://open.spotify.com/track/4PkVa3T0Y0KS3piaCzOl62"
+    },
+    {
+      "album": {
+        "name": "Vibras Indie",
+        "url": "https://open.spotify.com/album/7FNYEh2I6CAE0hHPmONpwZ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203146,
+      "name": "Al Final De Este Viaje En La Vida",
+      "url": "https://open.spotify.com/track/7v0rn13tEGudJf9AxUhWH7"
+    },
+    {
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225173,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/02woIwq9GpKIDH6tMACUcH"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "And\u00e9n",
+      "url": "https://open.spotify.com/track/5u5CEsc2MTX5MrnRNhlXzr"
+    },
+    {
+      "album": {
+        "name": "Rock in Chile",
+        "url": "https://open.spotify.com/album/4RQKozjqNrJMi9psRtWWbS"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253120,
+      "name": "And\u00e9n",
+      "url": "https://open.spotify.com/track/7eIWPqGO4t3PVtiPYEELdS"
+    },
+    {
+      "album": {
+        "name": "Bailando Solo",
+        "url": "https://open.spotify.com/album/0OnzKh81TkfvqqJX3JZCfm"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 267746,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/5AmJkJE6LvQvIUDe4yj4Pm"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267826,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137239,
+      "name": "Buscando Cuadros",
+      "url": "https://open.spotify.com/track/6ao3pU40h3dryXfa82QyGV"
+    },
+    {
+      "album": {
+        "name": "Canci\u00f3n De Lejos",
+        "url": "https://open.spotify.com/album/6mEv2ZSIvmq8hMtnBDPpCK"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "Canci\u00f3n de Lejos",
+      "url": "https://open.spotify.com/track/2zpX1lQX2uMQtZu9OrLyUB"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193920,
+      "name": "Canci\u00f3n para ma\u00f1ana",
+      "url": "https://open.spotify.com/track/3IJJPdrDIk0lFT4mDg9iq0"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/2EVknDXzYBubG2COE7hMxI"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413160,
+      "name": "Desperd\u00edciame",
+      "url": "https://open.spotify.com/track/3O8hKcAqHvmdZbGBHvkUsP"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "Deudas",
+      "url": "https://open.spotify.com/track/6xYHwad51a4ViDXwbWaZTT"
+    },
+    {
+      "album": {
+        "name": "Vibras Nacionales: Chile",
+        "url": "https://open.spotify.com/album/3RGh5HGqmqSochs9N5SOpL"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249373,
+      "name": "Deudas",
+      "url": "https://open.spotify.com/track/0Gst0BwcodZoNptKxDqhLS"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/2UluJAKRI4wOZYfB0Bw0wv"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271258,
+      "name": "El Derecho de Vivir en Paz",
+      "url": "https://open.spotify.com/track/55jUtyEpTBef5QLraNMl6r"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311802,
+      "name": "El Detenido",
+      "url": "https://open.spotify.com/track/0hlvSa0mrCsGq3SzlJsN3k"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "El d\u00eda en Que Dejaste de Fingir",
+      "url": "https://open.spotify.com/track/2fzn3EaklnRkKiWsKpLtfE"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "El d\u00eda feliz",
+      "url": "https://open.spotify.com/track/1vTYglMytivlFzd3cnYGWz"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "El Necio",
+      "url": "https://open.spotify.com/track/2y3TFms2edlkSu1Vya4cFb"
+    },
+    {
+      "album": {
+        "name": "CANTAR COCINANDO",
+        "url": "https://open.spotify.com/album/1XtnSag2DrhhcdF00Hc8uL"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 208066,
+      "name": "El Necio",
+      "url": "https://open.spotify.com/track/6wW2j9QMWMYgMY4Vi4vmCu"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302538,
+      "name": "Entre Mis Brazos",
+      "url": "https://open.spotify.com/track/1hM3r9AKtL3XZwPqRHcCMG"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131511,
+      "name": "Fantas\u00edas Animadas de Ayer y Hoy",
+      "url": "https://open.spotify.com/track/5XCMOdOQye1SbZhFbjDA33"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275026,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/0r2TxXdotE9RYmbhZVcPbx"
+    },
+    {
+      "album": {
+        "name": "Hitazos Chilenos",
+        "url": "https://open.spotify.com/album/26w9xibbK5aIvP4DUQGGHb"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276106,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/2TLYVIvSXDBE5yRLG9yP3B"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204115,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/4PdRt0QN1voqTvPb2dTi1z"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286360,
+      "name": "La Era Esta Pariendo Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/02JGvW8R5DQ7a7bCu75Y0T"
+    },
+    {
+      "album": {
+        "name": "Grito Latinoamericano",
+        "url": "https://open.spotify.com/album/2mKCOt1cUwMvJqFY2T6JQy"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 286666,
+      "name": "La Era Esta Pariendo Un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0AFeaPSiGG4yQN2MJMuwjD"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "La Estaci\u00f3n Final",
+      "url": "https://open.spotify.com/track/2NDAfCmlXG0qAAPHDJpMIC"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251800,
+      "name": "La Exiliada del Sur",
+      "url": "https://open.spotify.com/track/6OE6ZLMe8RXLUuzYdQQm1T"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266440,
+      "name": "La exiliada del sur",
+      "url": "https://open.spotify.com/track/51SvwCyO7TtLBC7rb3I7J1"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "La Velocidad de la Luz",
+      "url": "https://open.spotify.com/track/4zaLmlOC7t1QJSCZHq9IfJ"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Las Cosas Que Cambi\u00e9 y Dej\u00e9 For Ti",
+      "url": "https://open.spotify.com/track/1YCUqK1BYwLMUmZIP7JRxp"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "Llueve sobre la ciudad",
+      "url": "https://open.spotify.com/track/5ZtePsjXwleIBXXS4UBl2o"
+    },
+    {
+      "album": {
+        "name": "Nacional Records Esenciales: Chile",
+        "url": "https://open.spotify.com/album/2PSuiUqwHHlW8C993bssMB"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236426,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/11LGmfLrLWLjEdtpHrYY2J"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236472,
+      "name": "Llueve Sobre La Ciudad",
+      "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160760,
+      "name": "Los Premios",
+      "url": "https://open.spotify.com/track/0c5nb7GGMHfuCsbTvBIdcp"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222386,
+      "name": "Mariposa",
+      "url": "https://open.spotify.com/track/1WWd1aKaT4zMWMwvgW7Iij"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239080,
+      "name": "Me Muelen A Palos",
+      "url": "https://open.spotify.com/track/6JG0gpvOG87SkMWClf5yFx"
+    },
+    {
+      "album": {
+        "name": "Chile Rock Hits",
+        "url": "https://open.spotify.com/album/7aooI3K7JJVYXrMJPXSP84"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239106,
+      "name": "Me Muelen A Palos",
+      "url": "https://open.spotify.com/track/7bqKCZXhKnhWeP64hK5J2R"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238422,
+      "name": "Mientele",
+      "url": "https://open.spotify.com/track/2D7i2dmTCqHMlWFa0pz3Kw"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "Mira lo que dicen sobre nuestro amor",
+      "url": "https://open.spotify.com/track/0auop5V4gFKXYwQu56Bkdp"
+    },
+    {
+      "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 238386,
+      "name": "Mi\u00e9ntele",
+      "url": "https://open.spotify.com/track/3GISWjNRCtkaReipcMY7Fr"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255146,
+      "name": "Mi\u00e9ntele",
+      "url": "https://open.spotify.com/track/5hiFP6ovQqLvla7RQnHOyQ"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "Mi\u00f1o",
+      "url": "https://open.spotify.com/track/1lSSSGxlchhDCPzL7LXk4Z"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236843,
+      "name": "Nada Es Igual",
+      "url": "https://open.spotify.com/track/7niEic2atQVHSzfc2eau3s"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220445,
+      "name": "Nada Me Importa",
+      "url": "https://open.spotify.com/track/1pMfeOthYG28cHZqAFLWVJ"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193979,
+      "name": "Nada M\u00e1s De Mi",
+      "url": "https://open.spotify.com/track/3ccqnu4sNRcyeRUW1HxvA6"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286106,
+      "name": "Nada Nuevo Bajo El Sol",
+      "url": "https://open.spotify.com/track/6hBfF54vgIAdtb5kbbvt75"
+    },
+    {
+      "album": {
+        "name": "\u00a1Dame Rock!",
+        "url": "https://open.spotify.com/album/7nZYV7oimC52ufvzJv2OfU"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 286186,
+      "name": "Nada Nuevo Bajo El Sol",
+      "url": "https://open.spotify.com/track/76dlIPH0zzkTpH2HRwyDnL"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234640,
+      "name": "No Me Hables de sufrir",
+      "url": "https://open.spotify.com/track/7y8UFkYgOei3yc3EG3u8BX"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305345,
+      "name": "No S\u00e9",
+      "url": "https://open.spotify.com/track/0zsTU02zr5uzYFcJxSE1Ox"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183213,
+      "name": "No!",
+      "url": "https://open.spotify.com/track/3oWZJ3sMIsSyYH1uM2IlNH"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208725,
+      "name": "Pap\u00e1 No Llores M\u00e1s",
+      "url": "https://open.spotify.com/track/6MqHBhD3wH1kzcxaqpHEiC"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239520,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2kNlAwND2a6rXbhDa4sNbM"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "Que Ya Viv\u00ed, Que Te Vas",
+      "url": "https://open.spotify.com/track/4eTzYXTqDOpAFD6eyhakvb"
+    },
+    {
+      "album": {
+        "name": "Transportate al recital",
+        "url": "https://open.spotify.com/album/7dREN2bYKCvgWqcgbZfsrY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217426,
+      "name": "Que Ya Viv\u00ed, Que Te Vas",
+      "url": "https://open.spotify.com/track/01nvmWlFU5DfeEGwyTutDt"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226843,
+      "name": "Quiero Descansar",
+      "url": "https://open.spotify.com/track/3mFn0joMJjQyKcNwLXDPGA"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217906,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/3hkX3WJXFykBE9ZlaBTWkQ"
+    },
+    {
+      "album": {
+        "name": "S\u00e1bado Rockero",
+        "url": "https://open.spotify.com/album/1vQUiaOHqGsWLTsuKsCDSc"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218120,
+      "name": "Qui\u00e9n Fuera",
+      "url": "https://open.spotify.com/track/5LkCTdFnh4JYEJSLcePrO1"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236986,
+      "name": "Sabes Que...",
+      "url": "https://open.spotify.com/track/2bZxsFH4yf5hGi1zEdOIh8"
+    },
+    {
+      "album": {
+        "name": "Esp\u00edritu Rockero",
+        "url": "https://open.spotify.com/album/1VTZeXXUXBsCWUFmo8fI82"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197120,
+      "name": "Santiago De Chile",
+      "url": "https://open.spotify.com/track/0gqzqEngpHP7yMMLTlg2vP"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "Santiago De Chile",
+      "url": "https://open.spotify.com/track/3D4iziSjHi4jxG8r4pta7z"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266546,
+      "name": "Si Est\u00e1s Pensando Mal de M\u00ed",
+      "url": "https://open.spotify.com/track/1ToDgrH9HTOkxRD6irXDD4"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259880,
+      "name": "Siniestra",
+      "url": "https://open.spotify.com/track/251JQpvhu8ORiyJWhJX2o2"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "Sue\u00f1o Con Serpientes",
+      "url": "https://open.spotify.com/track/2zJzHDjhHYD61j6kBzL3aO"
+    },
+    {
+      "album": {
+        "name": "Tiempos Rockeros",
+        "url": "https://open.spotify.com/album/7hD7sehxKwFUTOkicq3R2F"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265080,
+      "name": "Sue\u00f1o Con Serpientes",
+      "url": "https://open.spotify.com/track/1mD64rMFuAOUfzU3WIzUCT"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/6CmlAJmHnakv3DYwUAsFFU"
+    },
+    {
+      "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218173,
+      "name": "S\u00e1bado",
+      "url": "https://open.spotify.com/track/1MZfEEGOGdbqhATwhef2m6"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210001,
+      "name": "Te Vistes y Te Vas",
+      "url": "https://open.spotify.com/track/5tz0gxE0XJgPEEVpKAJh3Q"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/2JDMtGpoF2DyI8SgiwMHNJ"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/4nTCqGfi86F9LLJd9ozdDJ"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364653,
+      "name": "Ultima canci\u00f3n",
+      "url": "https://open.spotify.com/track/3XpjptPqJkxtcvxHsNe8AG"
+    },
+    {
+      "album": {
+        "name": "Barrio Estaci\u00f3n",
+        "url": "https://open.spotify.com/album/28VjwDx4sL5GJRBUgOlJ7v"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Una Nube Cuelga Sobre M\u00ed",
+      "url": "https://open.spotify.com/track/56ZuPaIa3XjagOfzRDmMBV"
+    },
+    {
+      "album": {
+        "name": "Atardeceres Rockeros",
+        "url": "https://open.spotify.com/album/27Pv1OjUBDl6opcY1yDzOu"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234106,
+      "name": "Una Nube Cuelga Sobre M\u00ed",
+      "url": "https://open.spotify.com/track/2MSJ50aq8QDUguqpb49FR8"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/177h7SmvoBDOpzeI3V7qcY"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "Ven aqu\u00ed",
+      "url": "https://open.spotify.com/track/3uKjM5crw2OAlv484dEhxS"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217849,
+      "name": "Ven Aqu\u00ed",
+      "url": "https://open.spotify.com/track/13eBG1b8pd7PxlEAAChfHO"
+    },
+    {
+      "album": {
+        "name": "Vida de Perros",
+        "url": "https://open.spotify.com/album/6GWKx06gvqMvKrDECSuYx4"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215573,
+      "name": "Vida de Perros",
+      "url": "https://open.spotify.com/track/6cls8mj5tJbn0VSwSzIkvg"
+    },
+    {
+      "album": {
+        "name": "Vida De Perros",
+        "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215574,
+      "name": "Vida De Perros",
+      "url": "https://open.spotify.com/track/7xQqhz5NJSJaj8WDZnfarb"
+    },
+    {
+      "album": {
+        "name": "Los Bunkers",
+        "url": "https://open.spotify.com/album/2q3hCmiutB5Q1myHXBEpZV"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171334,
+      "name": "Yo Sembr\u00e9 Mis Penas de Amor en Tu Jard\u00edn",
+      "url": "https://open.spotify.com/track/3zqgb7lucBJqv4Tkgj3pPY"
+    },
+    {
+      "album": {
+        "name": "HITS CHILENOS",
+        "url": "https://open.spotify.com/album/0uXHKJeHNrDT8ljHUFpxz5"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 243160,
+      "name": "\u00c1ngel Para Un Final",
+      "url": "https://open.spotify.com/track/7mxb50sHPN1QwWdOYVwpT3"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Libre",
+        "url": "https://open.spotify.com/album/4ZIg4y7DVpIBYJAOHKXsx0"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243213,
+      "name": "\u00c1ngel Para Un Final",
+      "url": "https://open.spotify.com/track/6MV5epXO1r9krAVGSDJz5L"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa1oAkEHKtiU"
 }

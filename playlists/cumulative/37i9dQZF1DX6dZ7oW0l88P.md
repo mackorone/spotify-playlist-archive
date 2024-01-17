@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-162 songs - 8 hr 13 min
+163 songs - 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [By Candlelight](https://open.spotify.com/track/6KtdYGSfCIoAkiWkJ1qxDh) | [Zimdizi](https://open.spotify.com/artist/144HUlx66zGheUbx0092oN) | [Imagination](https://open.spotify.com/album/59ngJWf69ZTOcqluzAxTta) | 3:05 | 2023-01-05 |  |
 | [Calamando](https://open.spotify.com/track/77XBwa9tqUjpbMfmbv2m9y) | [Kristján Martinsson](https://open.spotify.com/artist/7EUwSjmuVB6O8MVce7ceWq), [Laura Lotti](https://open.spotify.com/artist/2RIXIXkQwCbradmk0Scqjj) | [Calamando](https://open.spotify.com/album/0aMir98KjLji6j1PYeuk6T) | 3:08 | 2023-07-11 |  |
 | [Celestial Reverie](https://open.spotify.com/track/7sGkpEkUkgpKd98sI5wYk3) | [Transcendence](https://open.spotify.com/artist/1jGHNKN2qxsBC5L5TnoRRt) | [Celestial Reverie](https://open.spotify.com/album/1aAJoSPiaBycvkhBdeEFcW) | 3:08 | 2023-09-20 |  |
-| [Chakra, Pt\. 4 \- Emerald Green](https://open.spotify.com/track/2giDhCrRq3CyYPEkhOYySC) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [Ave\-Maria Meditation](https://open.spotify.com/album/7u8JlNAwwWy0UtFTPvx1Wt) | 3:14 | 2022-05-11 |  |
+| [Chakra, Pt\. 4 \- Emerald Green](https://open.spotify.com/track/2HlIZuLqOk7g3mFXJQPWSU) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [Ave\-Maria Meditation](https://open.spotify.com/album/43XCqvqJAlv5SwSwOG18h1) | 3:14 | 2023-11-24 |  |
+| [Chakra, Pt\. 4 \- Emerald Green](https://open.spotify.com/track/2giDhCrRq3CyYPEkhOYySC) | [Joel Andrews](https://open.spotify.com/artist/0Wowmx0w1IqFPCGYYhLaNT) | [Ave\-Maria Meditation](https://open.spotify.com/album/7u8JlNAwwWy0UtFTPvx1Wt) | 3:14 | 2022-05-11 | 2024-01-15 |
 | [Clearings](https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Clearings](https://open.spotify.com/album/60o397RIevLIAx8f17RRss) | 2:40 | 2023-07-11 |  |
 | [Come Along](https://open.spotify.com/track/0sTXG5pN6SNmIeldiAS5PX) | [Rod Parsons](https://open.spotify.com/artist/0t294nMoDXNQcR1vvnMgdh) | [Come Along](https://open.spotify.com/album/52ZAk7muo8bcR2WWehJTtL) | 1:52 | 2022-05-11 | 2023-10-05 |
 | [Compassion](https://open.spotify.com/track/5tfjNUVtd6wbHnIwGUuHA8) | [Calma Totalis](https://open.spotify.com/artist/1s9skrP96FBxQyrPC3mlVy) | [Compassion](https://open.spotify.com/album/6MLWy4hrYqW1T3Z3bghUQd) | 3:07 | 2023-10-09 |  |

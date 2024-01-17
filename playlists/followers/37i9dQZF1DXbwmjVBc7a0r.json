@@ -1,97 +1,1521 @@
 {
-  "2023-09-29": 803,
-  "2023-09-30": 803,
-  "2023-10-01": 803,
-  "2023-10-02": 804,
-  "2023-10-03": 805,
-  "2023-10-04": 808,
-  "2023-10-05": 809,
-  "2023-10-06": 810,
-  "2023-10-07": 810,
-  "2023-10-08": 810,
-  "2023-10-09": 810,
-  "2023-10-10": 812,
-  "2023-10-11": 813,
-  "2023-10-12": 813,
-  "2023-10-13": 814,
-  "2023-10-14": 814,
-  "2023-10-15": 814,
-  "2023-10-16": 814,
-  "2023-10-17": 814,
-  "2023-10-18": 814,
-  "2023-10-19": 820,
-  "2023-10-20": 820,
-  "2023-10-21": 820,
-  "2023-10-22": 820,
-  "2023-10-23": 826,
-  "2023-10-24": 828,
-  "2023-10-25": 828,
-  "2023-10-26": 828,
-  "2023-10-27": 828,
-  "2023-10-28": 828,
-  "2023-10-29": 828,
-  "2023-10-30": 828,
-  "2023-10-31": 828,
-  "2023-11-01": 828,
-  "2023-11-02": 828,
-  "2023-11-03": 828,
-  "2023-11-04": 828,
-  "2023-11-05": 828,
-  "2023-11-06": 828,
-  "2023-11-07": 828,
-  "2023-11-08": 828,
-  "2023-11-09": 828,
-  "2023-11-10": 828,
-  "2023-11-11": 849,
-  "2023-11-12": 849,
-  "2023-11-13": 849,
-  "2023-11-14": 849,
-  "2023-11-15": 849,
-  "2023-11-16": 849,
-  "2023-11-17": 853,
-  "2023-11-18": 853,
-  "2023-11-19": 853,
-  "2023-11-20": 853,
-  "2023-11-21": 853,
-  "2023-11-22": 853,
-  "2023-11-23": 869,
-  "2023-11-24": 869,
-  "2023-11-25": 869,
-  "2023-11-26": 869,
-  "2023-11-27": 869,
-  "2023-11-28": 869,
-  "2023-11-29": 869,
-  "2023-11-30": 869,
-  "2023-12-01": 869,
-  "2023-12-02": 869,
-  "2023-12-03": 869,
-  "2023-12-04": 869,
-  "2023-12-05": 869,
-  "2023-12-06": 869,
-  "2023-12-07": 869,
-  "2023-12-08": 869,
-  "2023-12-09": 893,
-  "2023-12-10": 893,
-  "2023-12-11": 892,
-  "2023-12-12": 892,
-  "2023-12-13": 892,
-  "2023-12-14": 896,
-  "2023-12-15": 897,
-  "2023-12-16": 898,
-  "2023-12-17": 900,
-  "2023-12-18": 902,
-  "2023-12-19": 902,
-  "2023-12-20": 903,
-  "2023-12-21": 906,
-  "2023-12-22": 906,
-  "2023-12-23": 907,
-  "2023-12-24": 910,
-  "2023-12-25": 910,
-  "2023-12-26": 915,
-  "2023-12-27": 916,
-  "2023-12-30": 921,
-  "2023-12-31": 926,
-  "2024-01-01": 926,
-  "2024-01-02": 927,
-  "2024-01-03": 928
+  "2024-01-17": 952,
+  "date_first_scraped": "2023-09-29",
+  "description": "Les plus grands tubes rock en version berceuse",
+  "name": "Berceuses rock",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lullaby Versions of Vampire Weekend",
+        "url": "https://open.spotify.com/album/6wt8LUtZEArmMIy5JZ3Uec"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304556,
+      "name": "A-Punk",
+      "url": "https://open.spotify.com/track/0oHBHI0gLtbivLGL1f8522"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Pearl Jam",
+        "url": "https://open.spotify.com/album/2SgCSkkVRFZTlGkninuX3w"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256240,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4MtqvEEQBXad6YeK9dDVPN"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Used",
+        "url": "https://open.spotify.com/album/0HXX8flnNroHrIF8GchmcC"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296307,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/2IakASaAbUmjemmfqG4mai"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Blink-182",
+        "url": "https://open.spotify.com/album/5zWn6wnfdOojDAhg6n9HNn"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165400,
+      "name": "All the Small Things",
+      "url": "https://open.spotify.com/track/6VR2LQT41FYZ0mRhNVoTiT"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Green Day",
+        "url": "https://open.spotify.com/album/7l0iAe1xf56h81Bj6QsqLL"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266853,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/4GrdadcC8Oc9J6gjIF5TlI"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Jane's Addiction",
+        "url": "https://open.spotify.com/album/4zgL5VIVFx9MbsFDnhXeL8"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237026,
+      "name": "Been Caught Stealing",
+      "url": "https://open.spotify.com/track/1MJq7RqXyLmjlv3BGtRUly"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Imagine Dragons",
+        "url": "https://open.spotify.com/album/5kHBVYjNPZFkxVjPZvUmRv"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/04TRvhvDWqDNre58iIriL4"
+    },
+    {
+      "album": {
+        "name": "Grunge Baby! Lullaby Versions of the Seattle Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQCNWwrzbpmsvWJODOUwy"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245294,
+      "name": "Black Hole Sun (Lullaby Version of Soundgarden)",
+      "url": "https://open.spotify.com/track/1MfTCN2GiGrUM140OPxKGx"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Greta Van Fleet",
+        "url": "https://open.spotify.com/album/0e1cBYNt9CVa43gxftqAdS"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262388,
+      "name": "Black Smoke Rising",
+      "url": "https://open.spotify.com/track/6w4rmlN8rq07LwSLGMOoQV"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Ramones",
+        "url": "https://open.spotify.com/album/7s38mWSBjIzyiLGos0gAQf"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/0abxz0H1AfOWtxD3OSstcX"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queen",
+        "url": "https://open.spotify.com/album/7GWzwOQTOGlyqwUOJSWPCN"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274280,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/2OWOkkAQv7KFlScZymrfZ4"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Bruce Springsteen",
+        "url": "https://open.spotify.com/album/2y0gWHIDqgzqwmoObRDR8y"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Born to Run",
+      "url": "https://open.spotify.com/track/7pAjOHEZrOyH1hu427U07W"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Cold War Kids",
+        "url": "https://open.spotify.com/album/1BmaqdPk5EbWslyaFVtD7N"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251304,
+      "name": "Can We Hang On?",
+      "url": "https://open.spotify.com/track/0Y4Lug2UZxNWgMJhwCq9f3"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Twenty One Pilots (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Vv4ZRONKBvoPlhcVgHzJv"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Car Radio",
+      "url": "https://open.spotify.com/track/2JSAAmmf4O1uiTJVnyR2Bj"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Grateful Dead",
+        "url": "https://open.spotify.com/album/3044fAIY3bkEN5wOmX2qG4"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196653,
+      "name": "Casey Jones",
+      "url": "https://open.spotify.com/track/3BCuwkZh4oUJJ7bBNjYgyP"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Deftones",
+        "url": "https://open.spotify.com/album/5zZQsaxA2Bzr5oFlgnLUZH"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240733,
+      "name": "Change (In the House of Flies)",
+      "url": "https://open.spotify.com/track/6TtU5CyxXfLgb7bXxNKrxG"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of System of a Down",
+        "url": "https://open.spotify.com/album/0YZC71hlsY6XUQXpgqe09D"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249253,
+      "name": "Chop Suey!",
+      "url": "https://open.spotify.com/track/5uA3n7XZxrU4xGjw46h3bW"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Led Zeppelin",
+        "url": "https://open.spotify.com/album/1Oh3WlVu772L1b03TjCRD0"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "D'yer Mak'er",
+      "url": "https://open.spotify.com/track/0tj67lpp4xcGRoifPC7y6r"
+    },
+    {
+      "album": {
+        "name": "Grunge Baby! Lullaby Versions of the Seattle Sound, Vol. 1",
+        "url": "https://open.spotify.com/album/3tQCNWwrzbpmsvWJODOUwy"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262388,
+      "name": "Doll Parts (Lullaby Version of Hole)",
+      "url": "https://open.spotify.com/track/15g7xGdN9aO5FPJhED2dXI"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Tom Petty",
+        "url": "https://open.spotify.com/album/0SEsER9b8rooO1ptC3zQ3U"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187506,
+      "name": "Don't Come Around Here No More",
+      "url": "https://open.spotify.com/track/4ULTfRffEyLbX2L0XVqrIe"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Creedence Clearwater Revival",
+        "url": "https://open.spotify.com/album/5FVBwaOj3dPpMks17brLlh"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "Down on the Corner",
+      "url": "https://open.spotify.com/track/4feU992K6ERvfdwpVZik0R"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Aerosmith",
+        "url": "https://open.spotify.com/album/3GqWOQKyysSnCSFUbUCLYX"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Dream on",
+      "url": "https://open.spotify.com/track/1ngZyK6IcqzX974nO0Ntmo"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Bring Me The Horizon",
+        "url": "https://open.spotify.com/album/3jRs4HVqjDj9qF0wMwakCP"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253363,
+      "name": "Drown",
+      "url": "https://open.spotify.com/track/0cl4EMF2lx8aPb8K5uM86P"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Faith No More",
+        "url": "https://open.spotify.com/album/3R1ZmLqVhlFvH0LhGqCcll"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227619,
+      "name": "Epic",
+      "url": "https://open.spotify.com/track/1Z2SWvKBqPbruTKnMXXsQY"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Korn",
+        "url": "https://open.spotify.com/album/5Kd6kUhHik33cjJnnWLfe7"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237230,
+      "name": "Freak on a Leash",
+      "url": "https://open.spotify.com/track/4x94F1payOQdycLTd00Nma"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Tom Petty",
+        "url": "https://open.spotify.com/album/0SEsER9b8rooO1ptC3zQ3U"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/27XdovDqTX9HjDGuXaiN7x"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5IjKOvmeL2vHVBN5OBaRKx"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "Go Your Own Way",
+      "url": "https://open.spotify.com/track/4aWjLB63Unoq41yXse4OqZ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of My Morning Jacket",
+        "url": "https://open.spotify.com/album/5buCAcyO6sQhqehRHqzejN"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/09cdxttePUcDzrW48jeYmQ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Panic! at the Disco",
+        "url": "https://open.spotify.com/album/31E7y91YU5cIUeO3aRcEIJ"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Hey Look Ma, I Made It",
+      "url": "https://open.spotify.com/track/5jr2Jah1MrhP2fjdTs0h4O"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Lumineers",
+        "url": "https://open.spotify.com/album/7w0fva1nkAw00PVEDpMl9n"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161612,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/3GHz2nH6F2CqhgB2sDfiaZ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Nine Inch Nails",
+        "url": "https://open.spotify.com/album/0o1CG1LQfDLrs7fY5OBpfU"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271613,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/0wVeCTB43N1MjAK5SxwzUt"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Rolling Stones",
+        "url": "https://open.spotify.com/album/2cuLhqah3qIUMbGgiJvdqx"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160746,
+      "name": "I Can't Get No Satisfaction",
+      "url": "https://open.spotify.com/track/3SwK6w3cRrHUP5sJQSgxP8"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Clash",
+        "url": "https://open.spotify.com/album/5uYUR7HqfGtPZrhL1qhcPq"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131400,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/5einlOrECTUKERg4Qy8K9A"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/5WQcyQbOboamqTCuUr2Txy"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "I Sat By the Ocean",
+      "url": "https://open.spotify.com/track/2P2p6fAFO0HpaQsZ9nnNVX"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Dropkick Murphys",
+        "url": "https://open.spotify.com/album/2285vIYk8p5SNMj0nI7KLK"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180188,
+      "name": "I'm Shipping Up to Boston",
+      "url": "https://open.spotify.com/track/5OLJA3YhoXmjsgti9jDkCN"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Van Halen",
+        "url": "https://open.spotify.com/album/0j7Z3SrF21C9O2WyED9Sft"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227920,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/2ZSW181FaR3xLEvSMXVMXG"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Rage Against the Machine",
+        "url": "https://open.spotify.com/album/4yslAA9RRunFv794tGbDMw"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244761,
+      "name": "Killing in the Name",
+      "url": "https://open.spotify.com/track/2XTgNzgRdS9BrcMPGrYP3p"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Strokes",
+        "url": "https://open.spotify.com/album/71tX4ZqjcbFtbp4lKrkJ6d"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235108,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/43Qfl0a0Rt6qs6HtW6U9ls"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Doors",
+        "url": "https://open.spotify.com/album/6CulHAZ4jqaP8Dcn0Lr4bQ"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Light My Fire",
+      "url": "https://open.spotify.com/track/3VaQbOJ2Tm89JLsTWZYeAL"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Rush",
+        "url": "https://open.spotify.com/album/5gLTamqHPFdaF7g2YyXHXV"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189160,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/5UpHgruZLjIMrlJmgsSIaE"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Clash",
+        "url": "https://open.spotify.com/album/7JEwoxnhx0LdtPCh2sgLFq"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214687,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/5qj5C42PfQtZMUhLH4MfXt"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Black Keys",
+        "url": "https://open.spotify.com/album/0SFveBsGSJs2EOJUIQBPDP"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Lonely Boy",
+      "url": "https://open.spotify.com/track/20b1d1JIrSRqoYyzHSkaY4"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Foo Fighters",
+        "url": "https://open.spotify.com/album/6p9nnPzyqcbXtExdmNbmgA"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227066,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/1sIQbngKvyYVmhXxYDEU60"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Metallica",
+        "url": "https://open.spotify.com/album/0VIdUzsOKA5u24DbTOwAv9"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281173,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/2FYslLHxQbVkwLgKE3ACLO"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Guns N' Roses",
+        "url": "https://open.spotify.com/album/5dEdYpJR27Ggmc0jp0Oflg"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287413,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/7l7hhlpkcxs4zA5cOBC1jI"
+    },
+    {
+      "album": {
+        "name": "Emo Baby! Lullabies for the Dark, Vol. 1",
+        "url": "https://open.spotify.com/album/4OnLYNnD0FV7QGXeMLvVHk"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252685,
+      "name": "Numb (Lullaby Version of Linkin Park)",
+      "url": "https://open.spotify.com/track/267kMw0OZ15EzIVhX1whJ2"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Ween",
+        "url": "https://open.spotify.com/album/4OLi4KqpJIfU7xEe2J7JuJ"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/7Ctnq4nYgiXJwN0EWhgn6U"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Bob Seger",
+        "url": "https://open.spotify.com/album/2X7x9SOMeZD2OHHgssNOGK"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326865,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5B5ucLzyQvA1lKKmFR97Ih"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Coldplay V2",
+        "url": "https://open.spotify.com/album/0r0IvBbyytnDt2H1ODGpYk"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/774FFwUcKoMzugGX23EyuS"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Black Sabbath",
+        "url": "https://open.spotify.com/album/4SrB289qsZNWWXtEOhJbb1"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/5waelgYrwr4DRx1oUayi2o"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Radiohead",
+        "url": "https://open.spotify.com/album/2jCCFU789Xzw5W8i07UjRb"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189906,
+      "name": "Paranoid Android",
+      "url": "https://open.spotify.com/track/47q6ap198ZTVlsE6iqry9P"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Def Leppard",
+        "url": "https://open.spotify.com/album/6UJgoeBv9sXhd4pdeaMSdY"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246893,
+      "name": "Pour Some Sugar on Me",
+      "url": "https://open.spotify.com/track/5IGYCYKVrOgZFtpiPO4nOM"
+    },
+    {
+      "album": {
+        "name": "More Lullaby Renditions of U2",
+        "url": "https://open.spotify.com/album/0cbM6Gq8NIf9fex2tKsKll"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145626,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/2w4CimxbmymGSVZtrFffjt"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Imagine Dragons",
+        "url": "https://open.spotify.com/album/5kHBVYjNPZFkxVjPZvUmRv"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Radioactive",
+      "url": "https://open.spotify.com/track/37J1FMq02vB8uJkq1InyEw"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of David Bowie",
+        "url": "https://open.spotify.com/album/1zaWr78BGkZVNkn6Jxdv2x"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168880,
+      "name": "Rebel Rebel",
+      "url": "https://open.spotify.com/track/6ATtE9ug0dj3d0enN4JxHP"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Nick Cave & The Bad Seeds",
+        "url": "https://open.spotify.com/album/5QaWfGlxOo8NTEZj8bkx5g"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240213,
+      "name": "Red Right Hand",
+      "url": "https://open.spotify.com/track/3bOkKzbnzAWcDFEUDjEFLv"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Scorpions",
+        "url": "https://open.spotify.com/album/6I3Ur46B0louQbFlVHOCmS"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265161,
+      "name": "Rock You Like a Hurricane",
+      "url": "https://open.spotify.com/track/5VxQrWHZNxCAvosI5EQPzr"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Police",
+        "url": "https://open.spotify.com/album/6S82s8uEZaX53luB5cpq5P"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180346,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/77IfZ3UnNoSaQxZ4SV0dE2"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Iron Maiden",
+        "url": "https://open.spotify.com/album/1XSMeekCezPaPv9NR68TXL"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "Run to the Hills",
+      "url": "https://open.spotify.com/track/2couyxChgF7gjEgorRlDvO"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Sublime",
+        "url": "https://open.spotify.com/album/1IrDWaCRnhAN4ZTG70KzhV"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192865,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/4AIFZTIMiCw1rDmPElUEsQ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Journey",
+        "url": "https://open.spotify.com/album/6fARrMGBVH6dY5hwCTph6L"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263186,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/7hSugp4An5sSu0P0106qXW"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the White Stripes",
+        "url": "https://open.spotify.com/album/2m6g1cDTiTLL7G46DPpMFi"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/5xTtX3g7Q5Qufz8Ck74Ccp"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of the Flaming Lips",
+        "url": "https://open.spotify.com/album/1D56MHNW4oacmIO4srCW2x"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285762,
+      "name": "She Don't Use Jelly",
+      "url": "https://open.spotify.com/track/79yGeYNGRnZm0N3asUUlD2"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of The Black Crowes",
+        "url": "https://open.spotify.com/album/3ldfRzRaX0Ogu9LBgI2Qkj"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "She Talks to Angels",
+      "url": "https://open.spotify.com/track/1hydLysR7ZW2orDKaS0lKU"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Kiss",
+        "url": "https://open.spotify.com/album/13y9xlxwJmitAIp6idq27v"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Shout It out Loud",
+      "url": "https://open.spotify.com/track/2BOMUtVqtTrktk4b7vzA1t"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Nirvana",
+        "url": "https://open.spotify.com/album/7fd0wn1M14ldJdqmSXYK1y"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/4z7QGidwzfe59eny2SF8aj"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Blur",
+        "url": "https://open.spotify.com/album/7tCACXh52vj8Lwwd7f3Cn1"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116186,
+      "name": "Song 2",
+      "url": "https://open.spotify.com/track/4NGjXNyjHGHPNnccVyIeB8"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Fall out Boy",
+        "url": "https://open.spotify.com/album/2RUqGraSOVHDpSyX7NSU05"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/6qN8gOQS3I92Bt2UTyijDQ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Muse",
+        "url": "https://open.spotify.com/album/6hlkSvXh6t4QALZmJSTJcv"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "Supermassive Black Hole",
+      "url": "https://open.spotify.com/track/1MGxAV2FtDX1lnSBFDUqGs"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Lynyrd Skynyrd",
+        "url": "https://open.spotify.com/album/5jDWEJLzTUM76lCC0kbOu1"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236052,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7yjhNlzgIJC3p7yirS85Vc"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Weezer",
+        "url": "https://open.spotify.com/album/5jhCeQyNbAP3ibLJP0kV6M"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185906,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2Utpm8jmsKlT59U1iBjf8y"
+    },
+    {
+      "album": {
+        "name": "Babies Go Iggy Pop",
+        "url": "https://open.spotify.com/album/2EKscvNLRnWpWwOa4u2mq3"
+      },
+      "artists": [
+        {
+          "name": "Sweet Little Band",
+          "url": "https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/63Bv4pufejq4Tk1mGzU06y"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Queens of the Stone Age",
+        "url": "https://open.spotify.com/album/5nAkKJVCUOIyHYkDZLTjn6"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134453,
+      "name": "This Lullaby",
+      "url": "https://open.spotify.com/track/6XmWLYl4EkASD95orrC821"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Rancid",
+        "url": "https://open.spotify.com/album/5NlsOPsesbuiPgL5AJAqCC"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "Time Bomb",
+      "url": "https://open.spotify.com/track/1JsNCUlL9J1CGTdQcxnmIR"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of the Smashing Pumpkins",
+        "url": "https://open.spotify.com/album/38sO4TL4bpNIo2ktcvT4pm"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247120,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/0CjwUTj25GtxWWWWpbW2gy"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Silverchair",
+        "url": "https://open.spotify.com/album/0QFIRzKmxCEySMjic1W0aq"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247920,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/499gUWmRtFypFh0PllvhaR"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Red Hot Chili Peppers",
+        "url": "https://open.spotify.com/album/4Fck4epvhHLWVUwH5UoGad"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/45VCZtguiCNu5zJ3YkmcWC"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of My Chemical Romance",
+        "url": "https://open.spotify.com/album/6q02IJX313N5vEndiqVwPa"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259946,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/4Ewgjhu7TYQyC2OuyN9aer"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Hollywood Undead",
+        "url": "https://open.spotify.com/album/2PW8pDYD9W6d7LemkcN1sn"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287307,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/5D8UEVjMh2u0DZsxYPELKd"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Pixies",
+        "url": "https://open.spotify.com/album/4LewWS2da1D9BHRhoZnbUK"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258387,
+      "name": "Where is My Mind?",
+      "url": "https://open.spotify.com/track/3udi6mEVGNhpLJnLuFWuev"
+    },
+    {
+      "album": {
+        "name": "Rock the Cradle: A Lullaby Tribute to Billy Idol",
+        "url": "https://open.spotify.com/album/5sZMZrDEfxx4exlu92twRH"
+      },
+      "artists": [
+        {
+          "name": "Jammy Jams",
+          "url": "https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297226,
+      "name": "White Wedding (Lullaby Rendition)",
+      "url": "https://open.spotify.com/track/6ajNmJQdPqtqyqYktONYce"
+    },
+    {
+      "album": {
+        "name": "Lullaby Versions of Oasis",
+        "url": "https://open.spotify.com/album/7kAOsKTPgypDXxAOp2AEZM"
+      },
+      "artists": [
+        {
+          "name": "Twinkle Twinkle Little Rock Star",
+          "url": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249264,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/5DyPMHoYMDLtpNSwmqVjrZ"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Bon Jovi",
+        "url": "https://open.spotify.com/album/6E8ta9hmuGzvn0dWvCsl3i"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "You Give Love a Bad Name",
+      "url": "https://open.spotify.com/track/5hQBDUuTDapmvGhAWjxcgt"
+    },
+    {
+      "album": {
+        "name": "Lullaby Renditions of Ac/Dc",
+        "url": "https://open.spotify.com/album/6gCLDzIvpTwlVlel71zTmm"
+      },
+      "artists": [
+        {
+          "name": "Rockabye Baby!",
+          "url": "https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237280,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/76tGAhKu2qVl9c6GT0bnri"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbwmjVBc7a0r"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZue9qdu9pH.md) - [plain]
 
 > Come, lets take a soulful journey through rhythmic grooves
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,874 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

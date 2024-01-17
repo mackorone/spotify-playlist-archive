@@ -1,15 +1,31 @@
 {
   "description": "\u00a1Pura Doble P! Chachaaauuuuuu",
-  "num_followers": 810480,
+  "num_followers": 819302,
   "original_name": "This Is Peso Pluma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTZkNjRjOTM2MGFiMjVlYjc1NWVlNGIzMWM1M2QyMDBhNDQ2MmVj",
+  "snapshot_id": "MCwxNmI5MWM0NzU2YWI4ZDkzNzk4ZDgwNDIxZjBlZGEyZjA4YzBmYjUy",
   "tracks": [
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Rompe La Dompe",
         "url": "https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ"
@@ -33,83 +49,7 @@
       "url": "https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "BELLAKEO",
-        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Ella Baila Sola",
-        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 165671,
-      "name": "Ella Baila Sola",
-      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188361,
-      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
-      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
@@ -129,43 +69,47 @@
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+        "name": "Ella Baila Sola",
+        "url": "https://open.spotify.com/album/3Mm1P5CEEAiuJqBclr2EyU"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+      "duration_ms": 165671,
+      "name": "Ella Baila Sola",
+      "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+        "url": "https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6"
       },
       "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 238447,
-      "name": "RUBICON",
-      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
+      "duration_ms": 188361,
+      "name": "Peso Pluma: Bzrp Music Sessions, Vol. 55",
+      "url": "https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -185,7 +129,7 @@
       "url": "https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -194,22 +138,74 @@
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 212878,
-      "name": "LADY GAGA",
-      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+      "duration_ms": 190680,
+      "name": "NUEVA VIDA",
+      "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "BELLAKEO",
+        "url": "https://open.spotify.com/album/3VLY9g3CAG1Y5r2eGVEaZ0"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
@@ -233,7 +229,83 @@
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 238447,
+      "name": "RUBICON",
+      "url": "https://open.spotify.com/track/0xGZjxYqcNQ8WqxyeZ4eSN"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 212878,
+      "name": "LADY GAGA",
+      "url": "https://open.spotify.com/track/7mXuWTczZNxG5EDcjFEuJR"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Las Morras",
+        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 155550,
+      "name": "Las Morras",
+      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "BIPOLAR",
         "url": "https://open.spotify.com/album/6obRcLVFuI4x6jan7GNkYJ"
@@ -257,115 +329,7 @@
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "NUEVA VIDA",
-      "url": "https://open.spotify.com/track/4Nf5EZ40JenjMUKXOiyRU5"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Las Morras",
-        "url": "https://open.spotify.com/album/4UzpURCRisCfPfYZ96rsLE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 155550,
-      "name": "Las Morras",
-      "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "1 1 1",
-        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "UNA BALA",
-      "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Peligro",
-        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 145970,
-      "name": "Peligro",
-      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Rosa Pastel",
         "url": "https://open.spotify.com/album/1PFKd6UNr0AHTNpfPbcd7v"
@@ -385,67 +349,47 @@
       "url": "https://open.spotify.com/track/4LreWoO3cpgiIfrRwbOUSF"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "Ex-Special",
-        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 229626,
-      "name": "Ex-Special",
-      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "El Belic\u00f3n",
-        "url": "https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur"
+        "name": "1 1 1",
+        "url": "https://open.spotify.com/album/3AROvUBUe1mMAauVt73kRF"
       },
       "artists": [
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
         },
-        {
-          "name": "Raul Vega",
-          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
-        }
-      ],
-      "duration_ms": 214397,
-      "name": "El Belicon",
-      "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
-      },
-      "artists": [
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 183890,
+      "name": "UNA BALA",
+      "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -465,10 +409,26 @@
       "url": "https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/3k8sgSmYuXjyFdFv0Zhc3M"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 145970,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/231mWjDxgJH5OEQFkVIW5p"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "El Belic\u00f3n",
+        "url": "https://open.spotify.com/album/6JkrkH0UYCBE6uHrfP2Aur"
       },
       "artists": [
         {
@@ -476,56 +436,16 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+          "name": "Raul Vega",
+          "url": "https://open.spotify.com/artist/3RG6ihKgeBkOsLAPZxoPp9"
         }
       ],
-      "duration_ms": 231246,
-      "name": "LAGUNAS",
-      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+      "duration_ms": 214397,
+      "name": "El Belicon",
+      "url": "https://open.spotify.com/track/5bU6rOWXTwagpjUcGp7I8N"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "PLEBADA",
-        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
-      },
-      "artists": [
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 221739,
-      "name": "PLEBADA",
-      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 225480,
-      "name": "GAVIL\u00c1N II",
-      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -545,27 +465,107 @@
       "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
         },
         {
           "name": "Peso Pluma",
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 231246,
+      "name": "LAGUNAS",
+      "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 225480,
+      "name": "GAVIL\u00c1N II",
+      "url": "https://open.spotify.com/track/775hCSePn3GW4h9nZ636kq"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Ex-Special",
+        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Ex-Special",
+      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Pa Que Hablen",
         "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
@@ -585,7 +585,47 @@
       "url": "https://open.spotify.com/track/17js0w8GTkTUFGFM6PYvBd"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "77",
+        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 215745,
+      "name": "77",
+      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "El Gavil\u00e1n",
         "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
@@ -609,10 +649,26 @@
       "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "77",
-        "url": "https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 181433,
+      "name": "Lo Que Me Das",
+      "url": "https://open.spotify.com/track/5rGJkSCM6ZDi69eZb7qoNx"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -620,16 +676,16 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
         }
       ],
-      "duration_ms": 215745,
-      "name": "77",
-      "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+      "duration_ms": 174522,
+      "name": "CARNAL",
+      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
@@ -653,43 +709,7 @@
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "LA CHAMBA",
-        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 173617,
-      "name": "LA CHAMBA",
-      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 177652,
-      "name": "ZAPATA",
-      "url": "https://open.spotify.com/track/3CEk3KwDixeCKOVPacup7L"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "El Tsurito",
         "url": "https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA"
@@ -713,43 +733,7 @@
       "url": "https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 174522,
-      "name": "CARNAL",
-      "url": "https://open.spotify.com/track/2bXJMQZSJND3UYq5mjV4cB"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 181433,
-      "name": "Lo Que Me Das",
-      "url": "https://open.spotify.com/track/5rGJkSCM6ZDi69eZb7qoNx"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "EL HECHIZO",
         "url": "https://open.spotify.com/album/7cWrHFNgZmtltUv0ZW0BNE"
@@ -769,7 +753,75 @@
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 177652,
+      "name": "ZAPATA",
+      "url": "https://open.spotify.com/track/3CEk3KwDixeCKOVPacup7L"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Disco en Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "Fuentes de Ortiz - En Vivo",
+      "url": "https://open.spotify.com/track/0qDWzwE43rC80PSPppB37o"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "LA CHAMBA",
+        "url": "https://open.spotify.com/album/3ZXdnHFjtmYBMSMogYTvVK"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 173617,
+      "name": "LA CHAMBA",
+      "url": "https://open.spotify.com/track/1gjAVqB8sPT5i96wXUWcJR"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 238711,
+      "name": "Me Convert\u00ed",
+      "url": "https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Ando Enfocado",
         "url": "https://open.spotify.com/album/74aFegGXDQOr3fJPtf5QYq"
@@ -793,59 +845,7 @@
       "url": "https://open.spotify.com/track/1Gm2qMRuxnuqnM62xyp89d"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 138559,
-      "name": "SU CASA",
-      "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Disco en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "Fuentes de Ortiz - En Vivo",
-      "url": "https://open.spotify.com/track/0qDWzwE43rC80PSPppB37o"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "La Melena",
-      "url": "https://open.spotify.com/track/4w5hSBHaXu849xt0g9eeDg"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Sentosa",
         "url": "https://open.spotify.com/album/71uful9xpvujTHKTS16Ykc"
@@ -873,7 +873,43 @@
       "url": "https://open.spotify.com/track/3PKN5j2dKkzsLbrpcdyzLX"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 138559,
+      "name": "SU CASA",
+      "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Todo Es Playa",
+        "url": "https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 228949,
+      "name": "Todo Es Playa",
+      "url": "https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Delivery",
         "url": "https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9"
@@ -893,10 +929,10 @@
       "url": "https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
       },
       "artists": [
         {
@@ -904,44 +940,12 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 238711,
-      "name": "Me Convert\u00ed",
-      "url": "https://open.spotify.com/track/3trOWFkmVZzBgAmvzPPXI1"
+      "duration_ms": 175935,
+      "name": "La Melena",
+      "url": "https://open.spotify.com/track/4w5hSBHaXu849xt0g9eeDg"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Todo Es Playa",
-        "url": "https://open.spotify.com/album/3zTdYxlP3AQMBvbLtJQeBE"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 228949,
-      "name": "Todo Es Playa",
-      "url": "https://open.spotify.com/track/7pnRCKAqERqg6dQRKfZoFm"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Ah y Que?",
-        "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "La Pluma de Wax",
-      "url": "https://open.spotify.com/track/3df0OA3jp7WbRgbkA4zBN7"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -957,7 +961,23 @@
       "url": "https://open.spotify.com/track/7KHr7EmqGbVIHNhUVogEPw"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Ah y Que?",
+        "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "La Pluma de Wax",
+      "url": "https://open.spotify.com/track/3df0OA3jp7WbRgbkA4zBN7"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "30 Tiros",
         "url": "https://open.spotify.com/album/6TaC0bj5LB0ivBCK0cseIH"
@@ -973,7 +993,7 @@
       "url": "https://open.spotify.com/track/2SfL8jCTC7XxKhsD4YhSmV"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -984,15 +1004,15 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 109551,
-      "name": "Y Qu\u00e9?",
-      "url": "https://open.spotify.com/track/3IeL2BjoIaLICr6QDXxlcj"
+      "duration_ms": 225034,
+      "name": "Con Dinero Baila el Perro",
+      "url": "https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
       },
       "artists": [
         {
@@ -1000,12 +1020,32 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 171024,
-      "name": "El G\u00fcero",
-      "url": "https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G"
+      "duration_ms": 166016,
+      "name": "No Est\u00e1 Facil",
+      "url": "https://open.spotify.com/track/2BfYlQPq501DdEfc2inL9t"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Ah y Que?",
+        "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Lalo Reyes",
+          "url": "https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj"
+        }
+      ],
+      "duration_ms": 181782,
+      "name": "Los Pixeliados",
+      "url": "https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Feria en el Sobre",
         "url": "https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc"
@@ -1029,10 +1069,10 @@
       "url": "https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "Disco en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
       },
       "artists": [
         {
@@ -1040,84 +1080,12 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 160341,
-      "name": "Un Suspiro - En Vivo",
-      "url": "https://open.spotify.com/track/4E6s2aBCZuoHdo2ADKmX1R"
+      "duration_ms": 171024,
+      "name": "El G\u00fcero",
+      "url": "https://open.spotify.com/track/5ldwGkEmEZxNY3mXPxWr6G"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Disco en Vivo, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/38axttNElf1zwOUvInHwpx"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 211029,
-      "name": "El 08 - En Vivo",
-      "url": "https://open.spotify.com/track/4hpYhZhGn6JyUv62qpu2WP"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Ah y Que?",
-        "url": "https://open.spotify.com/album/4tO6I5yocnvc0sSkyqyE29"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Lalo Reyes",
-          "url": "https://open.spotify.com/artist/2uXjfliPmAWgaiY2mSAdnj"
-        }
-      ],
-      "duration_ms": 181782,
-      "name": "Los Pixeliados",
-      "url": "https://open.spotify.com/track/06l90deFB5B3MY8i2Ud6Yo"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Pisteando Con Amigos",
-        "url": "https://open.spotify.com/album/0C9MlBweseVhFJVpnfpLN8"
-      },
-      "artists": [
-        {
-          "name": "Jorge Morales El Jilguero",
-          "url": "https://open.spotify.com/artist/6WDM3vQTsUQ4pMBUhAlHQv"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 227285,
-      "name": "Gente del Cartel",
-      "url": "https://open.spotify.com/track/3hMW9VmTRV1ghqCj2efoRJ"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
-      "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/0e4cbWt2IcUYPXn7jCQXt0"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 184062,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/5rw1Kmm5BklmJzbgh1HCXr"
-    },
-    {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Efectos Secundarios",
         "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
@@ -1128,12 +1096,12 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 166016,
-      "name": "No Est\u00e1 Facil",
-      "url": "https://open.spotify.com/track/2BfYlQPq501DdEfc2inL9t"
+      "duration_ms": 109551,
+      "name": "Y Qu\u00e9?",
+      "url": "https://open.spotify.com/track/3IeL2BjoIaLICr6QDXxlcj"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
         "name": "Sembrando",
         "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
@@ -1149,10 +1117,10 @@
       "url": "https://open.spotify.com/track/7wqz5T8euVMYuv3BAOxWdu"
     },
     {
-      "added_at": "2023-12-30 00:00:00",
+      "added_at": "2024-01-15 15:49:51",
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/1OFfEo5jIQpvjQXD8OFcsx"
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/0e4cbWt2IcUYPXn7jCQXt0"
       },
       "artists": [
         {
@@ -1160,9 +1128,41 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 225034,
-      "name": "Con Dinero Baila el Perro",
-      "url": "https://open.spotify.com/track/6BLwiPtCG3OxqBpWQitbGR"
+      "duration_ms": 184062,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/5rw1Kmm5BklmJzbgh1HCXr"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Disco en Vivo, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/38axttNElf1zwOUvInHwpx"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 211029,
+      "name": "El 08 - En Vivo",
+      "url": "https://open.spotify.com/track/4hpYhZhGn6JyUv62qpu2WP"
+    },
+    {
+      "added_at": "2024-01-15 15:49:51",
+      "album": {
+        "name": "Disco en Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/6GFrP5y4e18yKiRnCnRYom"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 160341,
+      "name": "Un Suspiro - En Vivo",
+      "url": "https://open.spotify.com/track/4E6s2aBCZuoHdo2ADKmX1R"
     }
   ],
   "unique_name": "This Is Peso Pluma",

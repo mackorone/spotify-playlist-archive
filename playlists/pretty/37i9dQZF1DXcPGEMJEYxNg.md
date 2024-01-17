@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,755 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,896 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

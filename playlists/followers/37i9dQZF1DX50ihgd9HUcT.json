@@ -1,732 +1,669 @@
 {
-  "2021-12-28": 11505,
-  "2021-12-29": 11510,
-  "2021-12-30": 11520,
-  "2021-12-31": 11523,
-  "2022-01-01": 11549,
-  "2022-01-02": 11552,
-  "2022-01-03": 11558,
-  "2022-01-04": 11568,
-  "2022-01-05": 11579,
-  "2022-01-06": 11584,
-  "2022-01-07": 11594,
-  "2022-01-08": 11605,
-  "2022-01-09": 11608,
-  "2022-01-10": 11622,
-  "2022-01-11": 11622,
-  "2022-01-12": 11635,
-  "2022-01-13": 11635,
-  "2022-01-14": 11635,
-  "2022-01-15": 11635,
-  "2022-01-16": 11635,
-  "2022-01-17": 11635,
-  "2022-01-18": 11635,
-  "2022-01-19": 11635,
-  "2022-01-20": 11635,
-  "2022-01-21": 11635,
-  "2022-01-22": 11635,
-  "2022-01-23": 11635,
-  "2022-01-24": 11635,
-  "2022-01-25": 11635,
-  "2022-01-26": 11635,
-  "2022-01-27": 11635,
-  "2022-01-28": 11635,
-  "2022-01-29": 11635,
-  "2022-01-30": 11635,
-  "2022-01-31": 11635,
-  "2022-02-01": 11635,
-  "2022-02-02": 11635,
-  "2022-02-03": 11635,
-  "2022-02-04": 11635,
-  "2022-02-05": 11635,
-  "2022-02-06": 11635,
-  "2022-02-07": 11635,
-  "2022-02-08": 11635,
-  "2022-02-09": 11635,
-  "2022-02-10": 11635,
-  "2022-02-11": 11635,
-  "2022-02-12": 11635,
-  "2022-02-13": 11635,
-  "2022-02-14": 11635,
-  "2022-02-15": 11635,
-  "2022-02-16": 11635,
-  "2022-02-17": 11635,
-  "2022-02-18": 11635,
-  "2022-02-19": 11635,
-  "2022-02-20": 11635,
-  "2022-02-21": 11635,
-  "2022-02-22": 11635,
-  "2022-02-23": 11635,
-  "2022-02-24": 11635,
-  "2022-02-25": 11635,
-  "2022-02-26": 11635,
-  "2022-02-27": 11635,
-  "2022-02-28": 11635,
-  "2022-03-01": 11635,
-  "2022-03-02": 11635,
-  "2022-03-03": 11635,
-  "2022-03-04": 11635,
-  "2022-03-05": 11635,
-  "2022-03-06": 11635,
-  "2022-03-07": 11635,
-  "2022-03-08": 11635,
-  "2022-03-09": 11635,
-  "2022-03-10": 11635,
-  "2022-03-11": 11635,
-  "2022-03-12": 11635,
-  "2022-03-13": 11635,
-  "2022-03-14": 11635,
-  "2022-03-15": 11635,
-  "2022-03-16": 11635,
-  "2022-03-17": 11635,
-  "2022-03-18": 11635,
-  "2022-03-19": 11635,
-  "2022-03-20": 11635,
-  "2022-03-21": 11635,
-  "2022-03-22": 11635,
-  "2022-03-23": 11635,
-  "2022-03-24": 11635,
-  "2022-03-25": 11635,
-  "2022-03-26": 11635,
-  "2022-03-27": 11635,
-  "2022-03-28": 11635,
-  "2022-03-30": 11635,
-  "2022-03-31": 11635,
-  "2022-04-01": 11635,
-  "2022-04-02": 11635,
-  "2022-04-03": 11635,
-  "2022-04-04": 11635,
-  "2022-04-05": 11635,
-  "2022-04-06": 11635,
-  "2022-04-07": 11635,
-  "2022-04-08": 11635,
-  "2022-04-09": 11635,
-  "2022-04-10": 11635,
-  "2022-04-11": 11635,
-  "2022-04-12": 11635,
-  "2022-04-13": 11635,
-  "2022-04-14": 11635,
-  "2022-04-15": 11635,
-  "2022-04-16": 11635,
-  "2022-04-17": 11635,
-  "2022-04-18": 11635,
-  "2022-04-19": 11635,
-  "2022-04-20": 11635,
-  "2022-04-21": 11635,
-  "2022-04-22": 11635,
-  "2022-04-23": 11635,
-  "2022-04-24": 11635,
-  "2022-04-25": 11635,
-  "2022-04-26": 11635,
-  "2022-04-27": 11635,
-  "2022-04-28": 11635,
-  "2022-04-29": 11635,
-  "2022-04-30": 11635,
-  "2022-05-01": 11635,
-  "2022-05-02": 11635,
-  "2022-05-03": 11635,
-  "2022-05-04": 11635,
-  "2022-05-05": 11635,
-  "2022-05-06": 11635,
-  "2022-05-07": 11635,
-  "2022-05-08": 11635,
-  "2022-05-09": 11635,
-  "2022-05-10": 11635,
-  "2022-05-11": 11635,
-  "2022-05-12": 11635,
-  "2022-05-13": 11635,
-  "2022-05-14": 11635,
-  "2022-05-15": 11635,
-  "2022-05-16": 11635,
-  "2022-05-17": 11635,
-  "2022-05-18": 11635,
-  "2022-05-19": 11635,
-  "2022-05-20": 11635,
-  "2022-05-21": 11635,
-  "2022-05-22": 11635,
-  "2022-05-23": 11635,
-  "2022-05-24": 11635,
-  "2022-05-25": 11635,
-  "2022-05-26": 11635,
-  "2022-05-27": 11635,
-  "2022-05-28": 11635,
-  "2022-05-29": 11635,
-  "2022-05-30": 11635,
-  "2022-05-31": 11635,
-  "2022-06-01": 11635,
-  "2022-06-02": 11635,
-  "2022-06-03": 11635,
-  "2022-06-04": 11635,
-  "2022-06-05": 11635,
-  "2022-06-06": 11635,
-  "2022-06-07": 11635,
-  "2022-06-08": 11635,
-  "2022-06-09": 11635,
-  "2022-06-10": 11635,
-  "2022-06-11": 11635,
-  "2022-06-12": 11635,
-  "2022-06-13": 11635,
-  "2022-06-14": 11635,
-  "2022-06-15": 11635,
-  "2022-06-16": 11635,
-  "2022-06-17": 11635,
-  "2022-06-18": 11635,
-  "2022-06-19": 11635,
-  "2022-06-20": 11635,
-  "2022-06-21": 11635,
-  "2022-06-22": 11635,
-  "2022-06-23": 11635,
-  "2022-06-24": 11635,
-  "2022-06-25": 11635,
-  "2022-06-26": 11635,
-  "2022-06-27": 11635,
-  "2022-06-28": 11635,
-  "2022-06-29": 11635,
-  "2022-06-30": 11635,
-  "2022-07-01": 11635,
-  "2022-07-02": 11635,
-  "2022-07-03": 11635,
-  "2022-07-04": 11635,
-  "2022-07-05": 11635,
-  "2022-07-06": 11635,
-  "2022-07-07": 11635,
-  "2022-07-08": 11635,
-  "2022-07-09": 11635,
-  "2022-07-10": 11635,
-  "2022-07-11": 11635,
-  "2022-07-12": 11635,
-  "2022-07-13": 11635,
-  "2022-07-14": 11635,
-  "2022-07-15": 11635,
-  "2022-07-16": 11635,
-  "2022-07-17": 11635,
-  "2022-07-18": 11635,
-  "2022-07-19": 11635,
-  "2022-07-20": 11635,
-  "2022-07-21": 11635,
-  "2022-07-22": 11635,
-  "2022-07-23": 11635,
-  "2022-07-24": 11635,
-  "2022-07-25": 11635,
-  "2022-07-26": 11635,
-  "2022-07-27": 11635,
-  "2022-07-28": 11635,
-  "2022-07-29": 11635,
-  "2022-07-30": 11635,
-  "2022-07-31": 11635,
-  "2022-08-01": 11635,
-  "2022-08-02": 11635,
-  "2022-08-03": 11635,
-  "2022-08-04": 11635,
-  "2022-08-05": 11635,
-  "2022-08-06": 11635,
-  "2022-08-07": 11635,
-  "2022-08-08": 11635,
-  "2022-08-09": 11635,
-  "2022-08-10": 11635,
-  "2022-08-11": 11635,
-  "2022-08-12": 11635,
-  "2022-08-13": 11635,
-  "2022-08-14": 11635,
-  "2022-08-15": 11635,
-  "2022-08-16": 11635,
-  "2022-08-17": 11635,
-  "2022-08-18": 11635,
-  "2022-08-19": 11635,
-  "2022-08-20": 11635,
-  "2022-08-21": 11635,
-  "2022-08-22": 11635,
-  "2022-08-23": 11635,
-  "2022-08-24": 11635,
-  "2022-08-25": 11635,
-  "2022-08-26": 11635,
-  "2022-08-27": 11635,
-  "2022-08-28": 11635,
-  "2022-08-29": 11635,
-  "2022-08-30": 11635,
-  "2022-08-31": 11635,
-  "2022-09-01": 11635,
-  "2022-09-02": 11635,
-  "2022-09-03": 11635,
-  "2022-09-04": 11635,
-  "2022-09-05": 11635,
-  "2022-09-06": 11635,
-  "2022-09-07": 11635,
-  "2022-09-09": 11635,
-  "2022-09-10": 11635,
-  "2022-09-11": 11635,
-  "2022-09-12": 11635,
-  "2022-09-13": 11635,
-  "2022-09-15": 11635,
-  "2022-09-16": 11635,
-  "2022-09-17": 11635,
-  "2022-09-18": 11635,
-  "2022-09-19": 11635,
-  "2022-09-20": 11635,
-  "2022-09-21": 11635,
-  "2022-09-22": 11635,
-  "2022-09-23": 11635,
-  "2022-09-24": 11635,
-  "2022-09-25": 11635,
-  "2022-09-26": 11635,
-  "2022-09-27": 11635,
-  "2022-09-28": 11635,
-  "2022-09-29": 11635,
-  "2022-09-30": 11635,
-  "2022-10-01": 11635,
-  "2022-10-02": 11635,
-  "2022-10-03": 11635,
-  "2022-10-04": 11635,
-  "2022-10-05": 11635,
-  "2022-10-06": 11635,
-  "2022-10-07": 11635,
-  "2022-10-08": 11635,
-  "2022-10-09": 11635,
-  "2022-10-10": 11635,
-  "2022-10-11": 11635,
-  "2022-10-12": 11635,
-  "2022-10-13": 11635,
-  "2022-10-14": 11635,
-  "2022-10-15": 11635,
-  "2022-10-16": 11635,
-  "2022-10-17": 11635,
-  "2022-10-18": 11635,
-  "2022-10-19": 11635,
-  "2022-10-20": 11635,
-  "2022-10-21": 11635,
-  "2022-10-22": 11635,
-  "2022-10-23": 11635,
-  "2022-10-24": 11635,
-  "2022-10-25": 11635,
-  "2022-10-26": 11635,
-  "2022-10-27": 11635,
-  "2022-10-28": 11635,
-  "2022-10-29": 11635,
-  "2022-10-30": 11635,
-  "2022-10-31": 11635,
-  "2022-11-01": 11635,
-  "2022-11-02": 11635,
-  "2022-11-03": 11635,
-  "2022-11-04": 11635,
-  "2022-11-05": 11635,
-  "2022-11-06": 11635,
-  "2022-11-07": 11635,
-  "2022-11-08": 11635,
-  "2022-11-09": 11635,
-  "2022-11-10": 11635,
-  "2022-11-11": 11635,
-  "2022-11-12": 11635,
-  "2022-11-13": 11635,
-  "2022-11-14": 11635,
-  "2022-11-15": 11635,
-  "2022-11-16": 11635,
-  "2022-11-17": 11635,
-  "2022-11-18": 11635,
-  "2022-11-19": 11635,
-  "2022-11-20": 11635,
-  "2022-11-21": 11635,
-  "2022-11-22": 11635,
-  "2022-11-23": 11635,
-  "2022-11-24": 11635,
-  "2022-11-25": 11635,
-  "2022-11-26": 11635,
-  "2022-11-27": 11635,
-  "2022-11-28": 11635,
-  "2022-11-29": 11635,
-  "2022-11-30": 11635,
-  "2022-12-01": 11635,
-  "2022-12-02": 11635,
-  "2022-12-03": 11635,
-  "2022-12-04": 11635,
-  "2022-12-05": 11635,
-  "2022-12-06": 11635,
-  "2022-12-07": 11635,
-  "2022-12-08": 11635,
-  "2022-12-09": 11635,
-  "2022-12-10": 11635,
-  "2022-12-11": 11635,
-  "2022-12-12": 11635,
-  "2022-12-13": 11635,
-  "2022-12-14": 11635,
-  "2022-12-15": 11635,
-  "2022-12-16": 11635,
-  "2022-12-17": 11635,
-  "2022-12-18": 11635,
-  "2022-12-19": 11635,
-  "2022-12-20": 11635,
-  "2022-12-21": 11635,
-  "2022-12-22": 11635,
-  "2022-12-24": 11635,
-  "2022-12-25": 11635,
-  "2022-12-26": 11635,
-  "2022-12-27": 11635,
-  "2022-12-28": 11635,
-  "2022-12-29": 11635,
-  "2022-12-30": 11635,
-  "2022-12-31": 11635,
-  "2023-01-01": 11635,
-  "2023-01-02": 11635,
-  "2023-01-03": 11635,
-  "2023-01-04": 11635,
-  "2023-01-05": 11635,
-  "2023-01-06": 11635,
-  "2023-01-07": 11635,
-  "2023-01-08": 11635,
-  "2023-01-09": 11635,
-  "2023-01-10": 11635,
-  "2023-01-11": 11635,
-  "2023-01-12": 11635,
-  "2023-01-13": 11635,
-  "2023-01-14": 11635,
-  "2023-01-15": 11635,
-  "2023-01-16": 11635,
-  "2023-01-17": 11635,
-  "2023-01-18": 11635,
-  "2023-01-19": 11635,
-  "2023-01-20": 11635,
-  "2023-01-21": 11635,
-  "2023-01-22": 11635,
-  "2023-01-23": 11635,
-  "2023-01-24": 11635,
-  "2023-01-25": 11635,
-  "2023-01-26": 11635,
-  "2023-01-27": 11635,
-  "2023-01-28": 11635,
-  "2023-01-29": 11635,
-  "2023-01-30": 11635,
-  "2023-01-31": 11635,
-  "2023-02-01": 11635,
-  "2023-02-02": 11635,
-  "2023-02-03": 11635,
-  "2023-02-04": 11635,
-  "2023-02-05": 11635,
-  "2023-02-06": 11635,
-  "2023-02-07": 11635,
-  "2023-02-08": 11635,
-  "2023-02-09": 11635,
-  "2023-02-10": 11635,
-  "2023-02-11": 11635,
-  "2023-02-12": 11635,
-  "2023-02-13": 11635,
-  "2023-02-14": 11635,
-  "2023-02-15": 11635,
-  "2023-02-16": 11635,
-  "2023-02-17": 11635,
-  "2023-02-18": 11635,
-  "2023-02-19": 11635,
-  "2023-02-20": 11635,
-  "2023-02-21": 11635,
-  "2023-02-22": 11635,
-  "2023-02-23": 11635,
-  "2023-02-24": 11635,
-  "2023-02-25": 11635,
-  "2023-02-26": 11635,
-  "2023-02-27": 11635,
-  "2023-02-28": 11635,
-  "2023-03-01": 11635,
-  "2023-03-02": 11635,
-  "2023-03-03": 11635,
-  "2023-03-04": 11635,
-  "2023-03-05": 11635,
-  "2023-03-06": 11635,
-  "2023-03-07": 11635,
-  "2023-03-08": 11635,
-  "2023-03-09": 11635,
-  "2023-03-10": 11635,
-  "2023-03-11": 11635,
-  "2023-03-12": 11635,
-  "2023-03-13": 11635,
-  "2023-03-14": 11635,
-  "2023-03-15": 11635,
-  "2023-03-16": 11635,
-  "2023-03-17": 11635,
-  "2023-03-18": 11635,
-  "2023-03-19": 11635,
-  "2023-03-20": 11635,
-  "2023-03-21": 11635,
-  "2023-03-22": 11635,
-  "2023-03-23": 11635,
-  "2023-03-24": 11635,
-  "2023-03-25": 11635,
-  "2023-03-26": 11635,
-  "2023-03-27": 11635,
-  "2023-03-28": 11635,
-  "2023-03-29": 11635,
-  "2023-03-30": 11635,
-  "2023-03-31": 11635,
-  "2023-04-01": 11635,
-  "2023-04-02": 11635,
-  "2023-04-03": 11635,
-  "2023-04-04": 11635,
-  "2023-04-05": 11635,
-  "2023-04-06": 11635,
-  "2023-04-07": 11635,
-  "2023-04-09": 11635,
-  "2023-04-10": 11635,
-  "2023-04-11": 11635,
-  "2023-04-12": 11635,
-  "2023-04-13": 11635,
-  "2023-04-14": 11635,
-  "2023-04-15": 11635,
-  "2023-04-16": 11635,
-  "2023-04-17": 11635,
-  "2023-04-18": 11635,
-  "2023-04-19": 11635,
-  "2023-04-20": 11635,
-  "2023-04-21": 11635,
-  "2023-04-22": 11635,
-  "2023-04-23": 11635,
-  "2023-04-24": 11635,
-  "2023-04-25": 11635,
-  "2023-04-26": 11635,
-  "2023-04-27": 11635,
-  "2023-04-28": 11635,
-  "2023-04-29": 11635,
-  "2023-04-30": 11635,
-  "2023-05-01": 11635,
-  "2023-05-02": 11635,
-  "2023-05-03": 11635,
-  "2023-05-04": 11635,
-  "2023-05-05": 11635,
-  "2023-05-06": 11635,
-  "2023-05-07": 11635,
-  "2023-05-08": 11635,
-  "2023-05-09": 11635,
-  "2023-05-10": 11635,
-  "2023-05-11": 11635,
-  "2023-05-12": 11635,
-  "2023-05-13": 11635,
-  "2023-05-14": 11635,
-  "2023-05-15": 11635,
-  "2023-05-16": 11635,
-  "2023-05-17": 11635,
-  "2023-05-18": 11635,
-  "2023-05-19": 11635,
-  "2023-05-20": 11635,
-  "2023-05-21": 11635,
-  "2023-05-22": 11635,
-  "2023-05-23": 11635,
-  "2023-05-24": 11635,
-  "2023-05-25": 11635,
-  "2023-05-26": 11635,
-  "2023-05-27": 11635,
-  "2023-05-28": 11635,
-  "2023-05-29": 11635,
-  "2023-05-30": 11635,
-  "2023-05-31": 11635,
-  "2023-06-01": 11635,
-  "2023-06-02": 11635,
-  "2023-06-03": 11635,
-  "2023-06-04": 11635,
-  "2023-06-05": 11635,
-  "2023-06-06": 11635,
-  "2023-06-07": 11635,
-  "2023-06-08": 11635,
-  "2023-06-09": 11635,
-  "2023-06-10": 11635,
-  "2023-06-11": 11635,
-  "2023-06-12": 11635,
-  "2023-06-13": 11635,
-  "2023-06-14": 11635,
-  "2023-06-15": 11635,
-  "2023-06-16": 11635,
-  "2023-06-17": 11635,
-  "2023-06-18": 11635,
-  "2023-06-19": 11635,
-  "2023-06-20": 11635,
-  "2023-06-21": 11635,
-  "2023-06-22": 11635,
-  "2023-06-23": 11635,
-  "2023-06-24": 11635,
-  "2023-06-25": 11635,
-  "2023-06-26": 11635,
-  "2023-06-27": 11635,
-  "2023-06-28": 11635,
-  "2023-06-29": 11635,
-  "2023-06-30": 11635,
-  "2023-07-01": 11635,
-  "2023-07-02": 11635,
-  "2023-07-03": 11635,
-  "2023-07-04": 11635,
-  "2023-07-05": 11635,
-  "2023-07-06": 11635,
-  "2023-07-07": 11635,
-  "2023-07-08": 11635,
-  "2023-07-09": 11635,
-  "2023-07-10": 11635,
-  "2023-07-11": 11635,
-  "2023-07-12": 11635,
-  "2023-07-13": 11635,
-  "2023-07-14": 11635,
-  "2023-07-15": 11635,
-  "2023-07-16": 11635,
-  "2023-07-17": 11635,
-  "2023-07-18": 11635,
-  "2023-07-19": 11635,
-  "2023-07-20": 11635,
-  "2023-07-21": 11635,
-  "2023-07-22": 11635,
-  "2023-07-23": 11635,
-  "2023-07-24": 11635,
-  "2023-07-25": 11635,
-  "2023-07-26": 11635,
-  "2023-07-27": 11635,
-  "2023-07-28": 11635,
-  "2023-07-29": 11635,
-  "2023-07-30": 11635,
-  "2023-07-31": 11635,
-  "2023-08-01": 11635,
-  "2023-08-02": 11635,
-  "2023-08-03": 11635,
-  "2023-08-04": 11635,
-  "2023-08-05": 11635,
-  "2023-08-06": 11635,
-  "2023-08-07": 11635,
-  "2023-08-08": 11635,
-  "2023-08-09": 11635,
-  "2023-08-10": 11635,
-  "2023-08-11": 11635,
-  "2023-08-12": 11635,
-  "2023-08-13": 11635,
-  "2023-08-14": 11635,
-  "2023-08-15": 11635,
-  "2023-08-16": 11635,
-  "2023-08-17": 11635,
-  "2023-08-18": 11635,
-  "2023-08-19": 11635,
-  "2023-08-20": 11635,
-  "2023-08-21": 11635,
-  "2023-08-22": 11635,
-  "2023-08-23": 11635,
-  "2023-08-24": 11635,
-  "2023-08-25": 11635,
-  "2023-08-26": 11635,
-  "2023-08-27": 11635,
-  "2023-08-28": 11635,
-  "2023-08-29": 11635,
-  "2023-08-30": 11635,
-  "2023-08-31": 11635,
-  "2023-09-01": 11635,
-  "2023-09-02": 11635,
-  "2023-09-03": 11635,
-  "2023-09-04": 11635,
-  "2023-09-05": 11635,
-  "2023-09-06": 11635,
-  "2023-09-07": 11635,
-  "2023-09-08": 11635,
-  "2023-09-09": 11635,
-  "2023-09-10": 11635,
-  "2023-09-11": 11635,
-  "2023-09-12": 11635,
-  "2023-09-13": 11635,
-  "2023-09-14": 11635,
-  "2023-09-15": 11635,
-  "2023-09-16": 11635,
-  "2023-09-17": 11635,
-  "2023-09-18": 11635,
-  "2023-09-19": 11635,
-  "2023-09-20": 11635,
-  "2023-09-21": 11635,
-  "2023-09-22": 11635,
-  "2023-09-23": 11635,
-  "2023-09-24": 11635,
-  "2023-09-25": 11635,
-  "2023-09-26": 11635,
-  "2023-09-27": 11635,
-  "2023-09-28": 11635,
-  "2023-09-29": 11635,
-  "2023-09-30": 11635,
-  "2023-10-01": 11635,
-  "2023-10-02": 11635,
-  "2023-10-03": 11635,
-  "2023-10-04": 11635,
-  "2023-10-05": 11635,
-  "2023-10-06": 11635,
-  "2023-10-07": 11635,
-  "2023-10-08": 11635,
-  "2023-10-09": 11635,
-  "2023-10-10": 11635,
-  "2023-10-11": 11635,
-  "2023-10-12": 11635,
-  "2023-10-13": 11635,
-  "2023-10-14": 11635,
-  "2023-10-15": 11635,
-  "2023-10-16": 11635,
-  "2023-10-17": 11635,
-  "2023-10-18": 11635,
-  "2023-10-19": 11635,
-  "2023-10-20": 11635,
-  "2023-10-21": 11635,
-  "2023-10-22": 11635,
-  "2023-10-23": 11635,
-  "2023-10-24": 11635,
-  "2023-10-25": 11635,
-  "2023-10-26": 11635,
-  "2023-10-27": 11635,
-  "2023-10-28": 11635,
-  "2023-10-29": 11635,
-  "2023-10-30": 11635,
-  "2023-10-31": 11635,
-  "2023-11-01": 11635,
-  "2023-11-02": 11635,
-  "2023-11-03": 11635,
-  "2023-11-04": 11635,
-  "2023-11-05": 11635,
-  "2023-11-06": 11635,
-  "2023-11-07": 11635,
-  "2023-11-08": 11635,
-  "2023-11-09": 11635,
-  "2023-11-10": 11635,
-  "2023-11-11": 11635,
-  "2023-11-12": 11635,
-  "2023-11-13": 11635,
-  "2023-11-14": 11635,
-  "2023-11-15": 11635,
-  "2023-11-16": 11635,
-  "2023-11-17": 11635,
-  "2023-11-18": 11635,
-  "2023-11-19": 11635,
-  "2023-11-20": 11635,
-  "2023-11-21": 11635,
-  "2023-11-22": 11635,
-  "2023-11-23": 11635,
-  "2023-11-24": 11635,
-  "2023-11-25": 11635,
-  "2023-11-26": 11635,
-  "2023-11-27": 11635,
-  "2023-11-28": 11635,
-  "2023-11-29": 11635,
-  "2023-11-30": 11635,
-  "2023-12-01": 11635,
-  "2023-12-02": 11635,
-  "2023-12-03": 11635,
-  "2023-12-04": 11635,
-  "2023-12-05": 11635,
-  "2023-12-06": 11635,
-  "2023-12-07": 11635,
-  "2023-12-08": 11635,
-  "2023-12-09": 11635,
-  "2023-12-10": 11635,
-  "2023-12-11": 11635,
-  "2023-12-12": 11635,
-  "2023-12-13": 11635,
-  "2023-12-14": 11635,
-  "2023-12-15": 11635,
-  "2023-12-16": 11635,
-  "2023-12-17": 11635,
-  "2023-12-18": 11635,
-  "2023-12-19": 11635,
-  "2023-12-20": 11635,
-  "2023-12-21": 11635,
-  "2023-12-22": 11635,
-  "2023-12-23": 11635,
-  "2023-12-24": 11635,
-  "2023-12-25": 11635,
-  "2023-12-26": 11635,
-  "2023-12-27": 11635,
-  "2023-12-30": 11635,
-  "2023-12-31": 11635,
-  "2024-01-01": 11635,
-  "2024-01-02": 11635,
-  "2024-01-03": 11635
+  "2024-01-17": 11635,
+  "date_first_scraped": "2021-12-28",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This is Valerie June",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
+    },
+    {
+      "album": {
+        "name": "Pour une \u00e2me souveraine (A Dedication to Nina Simone)",
+        "url": "https://open.spotify.com/album/1lT36ulyIW5DOr7sqMR0i2"
+      },
+      "artists": [
+        {
+          "name": "Meshell Ndegeocello",
+          "url": "https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234506,
+      "name": "Black Is the Color of My True Love's Hair",
+      "url": "https://open.spotify.com/track/1407c8FnSAQmWL9gEiKVR7"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Carla Thomas",
+          "url": "https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Call Me A Fool [Feat. Carla Thomas]",
+      "url": "https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l"
+    },
+    {
+      "album": {
+        "name": "Cosmic Dancer",
+        "url": "https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265995,
+      "name": "Cosmic Dancer",
+      "url": "https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI"
+    },
+    {
+      "album": {
+        "name": "Live At KCRW",
+        "url": "https://open.spotify.com/album/1mIACXXGwOHVahrsulysNG"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240588,
+      "name": "Got Soul - Live At KCRW",
+      "url": "https://open.spotify.com/track/5K6qWSbzGHuaN2JoNxGSff"
+    },
+    {
+      "album": {
+        "name": "Sweetheart 2014",
+        "url": "https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111853,
+      "name": "Happy Or Lonesome",
+      "url": "https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "If And",
+      "url": "https://open.spotify.com/track/0xnirEyt7tGGvC63fpYfrb"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230640,
+      "name": "Just In Time",
+      "url": "https://open.spotify.com/track/6DhAtCKvimhvynXMUVAqmP"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "Long Lonely Road",
+      "url": "https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk"
+    },
+    {
+      "album": {
+        "name": "For The Loved & Loveless",
+        "url": "https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "Love Told A Lie",
+      "url": "https://open.spotify.com/track/13AbPBJkIgSlvwZoW7z8GF"
+    },
+    {
+      "album": {
+        "name": "Love You Once Made (Demo)",
+        "url": "https://open.spotify.com/album/73GFVtpOV7wIWns0ZmaQ0F"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187234,
+      "name": "Love You Once Made - Demo",
+      "url": "https://open.spotify.com/track/2Oe4CQUFzHy5KFiYqgdmSX"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186773,
+      "name": "Man Done Wrong",
+      "url": "https://open.spotify.com/track/33w72MNohZL6i5oAU99XT0"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479280,
+      "name": "On My Way / Somebody To Love (Acoustic Version)",
+      "url": "https://open.spotify.com/track/3RcfgmWI83QQI7ASb7LsuD"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
+    },
+    {
+      "album": {
+        "name": "Homeward Bound: A Loving Tribute to John-Alex Mason",
+        "url": "https://open.spotify.com/album/6t4biSlDYGNkqUe45aSDQr"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Rain Dance",
+      "url": "https://open.spotify.com/track/0C5bZyqxOaCQt5w4uR3H7t"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/6OzIWgMx0ZQl2MTQJdGdOQ"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244146,
+      "name": "Slip Slide On By",
+      "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212573,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181786,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+    },
+    {
+      "album": {
+        "name": "Red Hot: A Memphis Celebration of Sun Records",
+        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171693,
+      "name": "Sure to Fall",
+      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
+    },
+    {
+      "album": {
+        "name": "Lead Belly, Baby!",
+        "url": "https://open.spotify.com/album/1ulQwPQsikdxnFe3HsQzlF"
+      },
+      "artists": [
+        {
+          "name": "Dan Zanes",
+          "url": "https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196373,
+      "name": "Take This Hammer",
+      "url": "https://open.spotify.com/track/3e10T1QmXKgkER3zSOLY9y"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Tennessee Time",
+      "url": "https://open.spotify.com/track/3L2DzPh6UCxtgehSnjSB4s"
+    },
+    {
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "The Front Door",
+      "url": "https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "The Hour",
+      "url": "https://open.spotify.com/track/5m2kIH8AkRcWafNJejjUDn"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182093,
+      "name": "Trials, Troubles, Tribulations",
+      "url": "https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Twined & Twisted",
+      "url": "https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f"
+    },
+    {
+      "album": {
+        "name": "For The Loved & Loveless",
+        "url": "https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Two Hearts",
+      "url": "https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236346,
+      "name": "Wanna Be On Your Mind",
+      "url": "https://open.spotify.com/track/0sEkBF6SBgYoHTpJ7wfaXs"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "Why The Bright Stars Glow",
+      "url": "https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8"
+    },
+    {
+      "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Workin' Woman Blues",
+      "url": "https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz"
+    },
+    {
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "You And I",
+      "url": "https://open.spotify.com/track/2KY7UK4IBIXjUya41cMnYl"
+    },
+    {
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195280,
+      "name": "You Can\u2019t Be Told",
+      "url": "https://open.spotify.com/track/4afYc6b90xaA04w6Cm8Xa2"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX50ihgd9HUcT"
 }

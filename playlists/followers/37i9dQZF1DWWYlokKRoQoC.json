@@ -1,735 +1,1869 @@
 {
-  "2021-12-25": 110051,
-  "2021-12-26": 110092,
-  "2021-12-27": 110185,
-  "2021-12-28": 110187,
-  "2021-12-29": 110214,
-  "2021-12-30": 110235,
-  "2021-12-31": 110273,
-  "2022-01-01": 110337,
-  "2022-01-02": 110363,
-  "2022-01-03": 110391,
-  "2022-01-04": 110417,
-  "2022-01-05": 110457,
-  "2022-01-06": 110482,
-  "2022-01-07": 110497,
-  "2022-01-08": 110564,
-  "2022-01-09": 110563,
-  "2022-01-10": 110599,
-  "2022-01-11": 110619,
-  "2022-01-12": 110645,
-  "2022-01-13": 110685,
-  "2022-01-14": 110725,
-  "2022-01-15": 110806,
-  "2022-01-16": 110809,
-  "2022-01-17": 110914,
-  "2022-01-18": 110920,
-  "2022-01-19": 110946,
-  "2022-01-20": 110973,
-  "2022-01-21": 111007,
-  "2022-01-22": 111060,
-  "2022-01-23": 111110,
-  "2022-01-24": 111161,
-  "2022-01-25": 111207,
-  "2022-01-26": 111239,
-  "2022-01-27": 111285,
-  "2022-01-28": 111320,
-  "2022-01-29": 111370,
-  "2022-01-30": 111402,
-  "2022-01-31": 111439,
-  "2022-02-01": 111464,
-  "2022-02-02": 111498,
-  "2022-02-03": 111539,
-  "2022-02-04": 111567,
-  "2022-02-05": 111616,
-  "2022-02-06": 111652,
-  "2022-02-07": 111714,
-  "2022-02-08": 111755,
-  "2022-02-09": 111810,
-  "2022-02-10": 111842,
-  "2022-02-11": 111874,
-  "2022-02-12": 111901,
-  "2022-02-13": 111967,
-  "2022-02-14": 112015,
-  "2022-02-15": 112015,
-  "2022-02-16": 112014,
-  "2022-02-17": 112014,
-  "2022-02-18": 112038,
-  "2022-02-19": 112063,
-  "2022-02-20": 112092,
-  "2022-02-21": 112133,
-  "2022-02-22": 112166,
-  "2022-02-23": 112195,
-  "2022-02-24": 112233,
-  "2022-02-25": 112260,
-  "2022-02-26": 112289,
-  "2022-02-27": 112348,
-  "2022-02-28": 112348,
-  "2022-03-01": 112368,
-  "2022-03-02": 112397,
-  "2022-03-03": 112429,
-  "2022-03-04": 112465,
-  "2022-03-05": 112507,
-  "2022-03-06": 112533,
-  "2022-03-07": 112563,
-  "2022-03-08": 112599,
-  "2022-03-09": 112630,
-  "2022-03-10": 112666,
-  "2022-03-11": 112701,
-  "2022-03-12": 112736,
-  "2022-03-13": 112789,
-  "2022-03-14": 112827,
-  "2022-03-15": 112848,
-  "2022-03-16": 112869,
-  "2022-03-17": 112911,
-  "2022-03-18": 112949,
-  "2022-03-19": 112984,
-  "2022-03-20": 112984,
-  "2022-03-21": 113074,
-  "2022-03-22": 113111,
-  "2022-03-23": 113139,
-  "2022-03-24": 113189,
-  "2022-03-25": 113227,
-  "2022-03-26": 113261,
-  "2022-03-27": 113313,
-  "2022-03-28": 113371,
-  "2022-03-30": 113442,
-  "2022-03-31": 113488,
-  "2022-04-01": 113524,
-  "2022-04-02": 113557,
-  "2022-04-03": 113611,
-  "2022-04-04": 113657,
-  "2022-04-05": 113691,
-  "2022-04-06": 113721,
-  "2022-04-07": 113746,
-  "2022-04-08": 113797,
-  "2022-04-09": 113847,
-  "2022-04-10": 113934,
-  "2022-04-11": 113967,
-  "2022-04-12": 113982,
-  "2022-04-13": 114012,
-  "2022-04-14": 114056,
-  "2022-04-15": 114083,
-  "2022-04-16": 114123,
-  "2022-04-17": 114163,
-  "2022-04-18": 114214,
-  "2022-04-19": 114240,
-  "2022-04-20": 114278,
-  "2022-04-21": 114311,
-  "2022-04-22": 114355,
-  "2022-04-23": 114403,
-  "2022-04-24": 114452,
-  "2022-04-25": 114478,
-  "2022-04-26": 114518,
-  "2022-04-27": 114551,
-  "2022-04-28": 114585,
-  "2022-04-29": 114654,
-  "2022-04-30": 114707,
-  "2022-05-01": 114773,
-  "2022-05-02": 114773,
-  "2022-05-03": 114805,
-  "2022-05-04": 114836,
-  "2022-05-05": 114869,
-  "2022-05-06": 114908,
-  "2022-05-07": 114957,
-  "2022-05-08": 115030,
-  "2022-05-09": 115042,
-  "2022-05-10": 115070,
-  "2022-05-11": 115100,
-  "2022-05-12": 115130,
-  "2022-05-13": 115177,
-  "2022-05-14": 115226,
-  "2022-05-15": 115268,
-  "2022-05-16": 115306,
-  "2022-05-17": 115338,
-  "2022-05-18": 115375,
-  "2022-05-19": 115412,
-  "2022-05-20": 115467,
-  "2022-05-21": 115540,
-  "2022-05-22": 115540,
-  "2022-05-23": 115583,
-  "2022-05-24": 115605,
-  "2022-05-25": 115642,
-  "2022-05-26": 115683,
-  "2022-05-27": 115719,
-  "2022-05-28": 115759,
-  "2022-05-29": 115811,
-  "2022-05-30": 115864,
-  "2022-05-31": 115915,
-  "2022-06-01": 115964,
-  "2022-06-02": 115978,
-  "2022-06-03": 116023,
-  "2022-06-04": 116051,
-  "2022-06-05": 116090,
-  "2022-06-06": 116126,
-  "2022-06-07": 116155,
-  "2022-06-08": 116196,
-  "2022-06-09": 116223,
-  "2022-06-10": 116260,
-  "2022-06-11": 116306,
-  "2022-06-12": 116362,
-  "2022-06-13": 116410,
-  "2022-06-14": 116456,
-  "2022-06-15": 116502,
-  "2022-06-16": 116535,
-  "2022-06-17": 116573,
-  "2022-06-18": 116607,
-  "2022-06-19": 116694,
-  "2022-06-20": 116694,
-  "2022-06-21": 116737,
-  "2022-06-22": 116795,
-  "2022-06-23": 116795,
-  "2022-06-24": 116826,
-  "2022-06-25": 116876,
-  "2022-06-26": 116919,
-  "2022-06-27": 116963,
-  "2022-06-28": 117003,
-  "2022-06-29": 117033,
-  "2022-06-30": 117074,
-  "2022-07-01": 117105,
-  "2022-07-02": 117153,
-  "2022-07-03": 117214,
-  "2022-07-04": 117247,
-  "2022-07-05": 117281,
-  "2022-07-06": 117332,
-  "2022-07-07": 117373,
-  "2022-07-08": 117413,
-  "2022-07-09": 117460,
-  "2022-07-10": 117527,
-  "2022-07-11": 117592,
-  "2022-07-12": 117630,
-  "2022-07-13": 117661,
-  "2022-07-14": 117702,
-  "2022-07-15": 117730,
-  "2022-07-16": 117774,
-  "2022-07-17": 117826,
-  "2022-07-18": 117875,
-  "2022-07-19": 117913,
-  "2022-07-20": 117952,
-  "2022-07-21": 117994,
-  "2022-07-22": 118030,
-  "2022-07-23": 118087,
-  "2022-07-24": 118137,
-  "2022-07-25": 118164,
-  "2022-07-26": 118201,
-  "2022-07-27": 118235,
-  "2022-07-28": 118271,
-  "2022-07-29": 118313,
-  "2022-07-30": 118406,
-  "2022-07-31": 118406,
-  "2022-08-01": 118476,
-  "2022-08-02": 118533,
-  "2022-08-03": 118533,
-  "2022-08-04": 118577,
-  "2022-08-05": 118608,
-  "2022-08-06": 118669,
-  "2022-08-07": 118725,
-  "2022-08-08": 118760,
-  "2022-08-09": 118789,
-  "2022-08-10": 118821,
-  "2022-08-11": 118848,
-  "2022-08-12": 118886,
-  "2022-08-13": 118926,
-  "2022-08-14": 118989,
-  "2022-08-15": 119042,
-  "2022-08-16": 119096,
-  "2022-08-17": 119128,
-  "2022-08-18": 119174,
-  "2022-08-19": 119196,
-  "2022-08-20": 119250,
-  "2022-08-21": 119300,
-  "2022-08-22": 119350,
-  "2022-08-23": 119395,
-  "2022-08-24": 119440,
-  "2022-08-25": 119475,
-  "2022-08-26": 119518,
-  "2022-08-27": 119552,
-  "2022-08-28": 119597,
-  "2022-08-29": 119653,
-  "2022-08-30": 119703,
-  "2022-08-31": 119748,
-  "2022-09-01": 119795,
-  "2022-09-02": 119841,
-  "2022-09-03": 119878,
-  "2022-09-04": 119924,
-  "2022-09-05": 119972,
-  "2022-09-06": 120004,
-  "2022-09-07": 120044,
-  "2022-09-09": 120136,
-  "2022-09-10": 120186,
-  "2022-09-11": 120241,
-  "2022-09-12": 120283,
-  "2022-09-13": 120312,
-  "2022-09-15": 120396,
-  "2022-09-16": 120427,
-  "2022-09-17": 120476,
-  "2022-09-18": 120526,
-  "2022-09-19": 120571,
-  "2022-09-20": 120608,
-  "2022-09-21": 120644,
-  "2022-09-22": 120693,
-  "2022-09-23": 120743,
-  "2022-09-24": 120797,
-  "2022-09-25": 120845,
-  "2022-09-26": 120889,
-  "2022-09-27": 120920,
-  "2022-09-28": 120968,
-  "2022-09-29": 121015,
-  "2022-09-30": 121056,
-  "2022-10-01": 121111,
-  "2022-10-02": 121142,
-  "2022-10-03": 121183,
-  "2022-10-04": 121218,
-  "2022-10-05": 121257,
-  "2022-10-06": 121291,
-  "2022-10-07": 121324,
-  "2022-10-08": 121376,
-  "2022-10-09": 121476,
-  "2022-10-10": 121492,
-  "2022-10-11": 121544,
-  "2022-10-12": 121613,
-  "2022-10-13": 121673,
-  "2022-10-14": 121728,
-  "2022-10-15": 121773,
-  "2022-10-16": 121855,
-  "2022-10-17": 121919,
-  "2022-10-18": 121952,
-  "2022-10-19": 122008,
-  "2022-10-20": 122055,
-  "2022-10-21": 122093,
-  "2022-10-22": 122154,
-  "2022-10-23": 122208,
-  "2022-10-24": 122262,
-  "2022-10-25": 122308,
-  "2022-10-26": 122335,
-  "2022-10-27": 122377,
-  "2022-10-28": 122427,
-  "2022-10-29": 122470,
-  "2022-10-30": 122525,
-  "2022-10-31": 122561,
-  "2022-11-01": 122604,
-  "2022-11-02": 122658,
-  "2022-11-03": 122691,
-  "2022-11-04": 122726,
-  "2022-11-05": 122771,
-  "2022-11-06": 122809,
-  "2022-11-07": 122850,
-  "2022-11-08": 122892,
-  "2022-11-09": 122931,
-  "2022-11-10": 122970,
-  "2022-11-11": 123031,
-  "2022-11-12": 123103,
-  "2022-11-13": 123146,
-  "2022-11-14": 123188,
-  "2022-11-15": 123230,
-  "2022-11-16": 123272,
-  "2022-11-17": 123317,
-  "2022-11-18": 123323,
-  "2022-11-19": 123314,
-  "2022-11-20": 123313,
-  "2022-11-21": 123350,
-  "2022-11-22": 123443,
-  "2022-11-23": 123432,
-  "2022-11-24": 123511,
-  "2022-11-25": 123616,
-  "2022-11-26": 123677,
-  "2022-11-27": 123724,
-  "2022-11-28": 123767,
-  "2022-11-29": 123807,
-  "2022-11-30": 123832,
-  "2022-12-01": 123875,
-  "2022-12-02": 123932,
-  "2022-12-03": 123954,
-  "2022-12-04": 124030,
-  "2022-12-05": 124071,
-  "2022-12-06": 124107,
-  "2022-12-07": 124135,
-  "2022-12-08": 124172,
-  "2022-12-09": 124215,
-  "2022-12-10": 124256,
-  "2022-12-11": 124305,
-  "2022-12-12": 124327,
-  "2022-12-13": 124358,
-  "2022-12-14": 124386,
-  "2022-12-15": 124427,
-  "2022-12-16": 124454,
-  "2022-12-17": 124492,
-  "2022-12-18": 124542,
-  "2022-12-19": 124585,
-  "2022-12-20": 124644,
-  "2022-12-21": 124644,
-  "2022-12-22": 124676,
-  "2022-12-24": 124748,
-  "2022-12-25": 124797,
-  "2022-12-26": 124844,
-  "2022-12-27": 124878,
-  "2022-12-28": 124933,
-  "2022-12-29": 124969,
-  "2022-12-30": 125014,
-  "2022-12-31": 125061,
-  "2023-01-01": 125100,
-  "2023-01-02": 125137,
-  "2023-01-03": 125187,
-  "2023-01-04": 125219,
-  "2023-01-05": 125266,
-  "2023-01-06": 125310,
-  "2023-01-07": 125376,
-  "2023-01-08": 125392,
-  "2023-01-09": 125446,
-  "2023-01-10": 125495,
-  "2023-01-11": 125547,
-  "2023-01-12": 125567,
-  "2023-01-13": 125602,
-  "2023-01-14": 125674,
-  "2023-01-15": 125705,
-  "2023-01-16": 125767,
-  "2023-01-17": 125802,
-  "2023-01-18": 125844,
-  "2023-01-19": 125889,
-  "2023-01-20": 125915,
-  "2023-01-21": 125965,
-  "2023-01-22": 126020,
-  "2023-01-23": 126071,
-  "2023-01-24": 126103,
-  "2023-01-25": 126154,
-  "2023-01-26": 126190,
-  "2023-01-27": 126230,
-  "2023-01-28": 126276,
-  "2023-01-29": 126321,
-  "2023-01-30": 126361,
-  "2023-01-31": 126361,
-  "2023-02-01": 126430,
-  "2023-02-02": 126450,
-  "2023-02-03": 126492,
-  "2023-02-04": 126525,
-  "2023-02-05": 126570,
-  "2023-02-06": 126624,
-  "2023-02-07": 126710,
-  "2023-02-08": 126784,
-  "2023-02-09": 126784,
-  "2023-02-10": 126839,
-  "2023-02-11": 126893,
-  "2023-02-12": 127000,
-  "2023-02-13": 127038,
-  "2023-02-14": 127038,
-  "2023-02-15": 127065,
-  "2023-02-16": 127091,
-  "2023-02-17": 127131,
-  "2023-02-18": 127219,
-  "2023-02-19": 127226,
-  "2023-02-20": 127264,
-  "2023-02-21": 127302,
-  "2023-02-22": 127343,
-  "2023-02-23": 127385,
-  "2023-02-24": 127423,
-  "2023-02-25": 127485,
-  "2023-02-26": 127532,
-  "2023-02-27": 127615,
-  "2023-02-28": 127615,
-  "2023-03-01": 127654,
-  "2023-03-02": 127692,
-  "2023-03-03": 127718,
-  "2023-03-04": 127741,
-  "2023-03-05": 127843,
-  "2023-03-06": 127843,
-  "2023-03-07": 127877,
-  "2023-03-08": 127906,
-  "2023-03-09": 128009,
-  "2023-03-10": 128062,
-  "2023-03-11": 128111,
-  "2023-03-12": 128165,
-  "2023-03-13": 128225,
-  "2023-03-14": 128258,
-  "2023-03-15": 128294,
-  "2023-03-16": 128320,
-  "2023-03-17": 128320,
-  "2023-03-18": 128397,
-  "2023-03-19": 128429,
-  "2023-03-20": 128476,
-  "2023-03-21": 128503,
-  "2023-03-22": 128546,
-  "2023-03-23": 128578,
-  "2023-03-24": 128578,
-  "2023-03-25": 128648,
-  "2023-03-26": 128696,
-  "2023-03-27": 128737,
-  "2023-03-28": 128775,
-  "2023-03-29": 128817,
-  "2023-03-30": 128883,
-  "2023-03-31": 128883,
-  "2023-04-01": 128930,
-  "2023-04-02": 128978,
-  "2023-04-03": 129019,
-  "2023-04-04": 129049,
-  "2023-04-05": 129097,
-  "2023-04-06": 129138,
-  "2023-04-07": 129174,
-  "2023-04-09": 129280,
-  "2023-04-10": 129338,
-  "2023-04-11": 129421,
-  "2023-04-12": 129421,
-  "2023-04-13": 129477,
-  "2023-04-14": 129502,
-  "2023-04-15": 129548,
-  "2023-04-16": 129617,
-  "2023-04-17": 129672,
-  "2023-04-18": 129704,
-  "2023-04-19": 129753,
-  "2023-04-20": 129792,
-  "2023-04-21": 129829,
-  "2023-04-22": 129851,
-  "2023-04-23": 129899,
-  "2023-04-24": 129949,
-  "2023-04-25": 129980,
-  "2023-04-26": 130036,
-  "2023-04-27": 130084,
-  "2023-04-28": 130109,
-  "2023-04-29": 130156,
-  "2023-04-30": 130208,
-  "2023-05-01": 130249,
-  "2023-05-02": 130282,
-  "2023-05-03": 130343,
-  "2023-05-04": 130390,
-  "2023-05-05": 130440,
-  "2023-05-06": 130493,
-  "2023-05-07": 130538,
-  "2023-05-08": 130583,
-  "2023-05-09": 130624,
-  "2023-05-10": 130669,
-  "2023-05-11": 130713,
-  "2023-05-12": 130765,
-  "2023-05-13": 130818,
-  "2023-05-14": 130872,
-  "2023-05-15": 130929,
-  "2023-05-16": 130955,
-  "2023-05-17": 130988,
-  "2023-05-18": 131019,
-  "2023-05-19": 131062,
-  "2023-05-20": 131167,
-  "2023-05-21": 131167,
-  "2023-05-22": 131167,
-  "2023-05-23": 131263,
-  "2023-05-24": 131329,
-  "2023-05-25": 131340,
-  "2023-05-26": 131378,
-  "2023-05-27": 131416,
-  "2023-05-28": 131463,
-  "2023-05-29": 131463,
-  "2023-05-30": 131539,
-  "2023-05-31": 131576,
-  "2023-06-01": 131624,
-  "2023-06-02": 131649,
-  "2023-06-03": 131696,
-  "2023-06-04": 131745,
-  "2023-06-05": 131777,
-  "2023-06-06": 131806,
-  "2023-06-07": 131846,
-  "2023-06-08": 131887,
-  "2023-06-09": 131939,
-  "2023-06-10": 131979,
-  "2023-06-11": 132027,
-  "2023-06-12": 132070,
-  "2023-06-13": 132101,
-  "2023-06-14": 132101,
-  "2023-06-15": 132140,
-  "2023-06-16": 132167,
-  "2023-06-17": 132167,
-  "2023-06-18": 132167,
-  "2023-06-19": 132167,
-  "2023-06-20": 132167,
-  "2023-06-21": 132167,
-  "2023-06-22": 132167,
-  "2023-06-23": 132167,
-  "2023-06-24": 132167,
-  "2023-06-25": 132167,
-  "2023-06-26": 132167,
-  "2023-06-27": 132167,
-  "2023-06-28": 132167,
-  "2023-06-29": 132167,
-  "2023-06-30": 132167,
-  "2023-07-01": 132167,
-  "2023-07-02": 132167,
-  "2023-07-03": 132167,
-  "2023-07-04": 132167,
-  "2023-07-05": 132167,
-  "2023-07-06": 132167,
-  "2023-07-07": 132167,
-  "2023-07-08": 132167,
-  "2023-07-09": 132167,
-  "2023-07-10": 132167,
-  "2023-07-11": 132167,
-  "2023-07-12": 132167,
-  "2023-07-13": 132167,
-  "2023-07-14": 132167,
-  "2023-07-15": 132167,
-  "2023-07-16": 132167,
-  "2023-07-17": 132167,
-  "2023-07-18": 132167,
-  "2023-07-19": 132167,
-  "2023-07-20": 132167,
-  "2023-07-21": 132167,
-  "2023-07-22": 132167,
-  "2023-07-23": 132167,
-  "2023-07-24": 132167,
-  "2023-07-25": 132167,
-  "2023-07-26": 132167,
-  "2023-07-27": 132167,
-  "2023-07-28": 132167,
-  "2023-07-29": 132167,
-  "2023-07-30": 132167,
-  "2023-07-31": 132167,
-  "2023-08-01": 132167,
-  "2023-08-02": 132167,
-  "2023-08-03": 132167,
-  "2023-08-04": 132167,
-  "2023-08-05": 132167,
-  "2023-08-06": 132167,
-  "2023-08-07": 132167,
-  "2023-08-08": 132167,
-  "2023-08-09": 132167,
-  "2023-08-10": 132167,
-  "2023-08-11": 132167,
-  "2023-08-12": 132167,
-  "2023-08-13": 132167,
-  "2023-08-14": 132167,
-  "2023-08-15": 132167,
-  "2023-08-16": 132167,
-  "2023-08-17": 132167,
-  "2023-08-18": 132167,
-  "2023-08-19": 132167,
-  "2023-08-20": 132167,
-  "2023-08-21": 132167,
-  "2023-08-22": 132167,
-  "2023-08-23": 132167,
-  "2023-08-24": 132167,
-  "2023-08-25": 132167,
-  "2023-08-26": 132167,
-  "2023-08-27": 132167,
-  "2023-08-28": 132167,
-  "2023-08-29": 132167,
-  "2023-08-30": 132167,
-  "2023-08-31": 132167,
-  "2023-09-01": 132167,
-  "2023-09-02": 132167,
-  "2023-09-03": 132167,
-  "2023-09-04": 132167,
-  "2023-09-05": 132167,
-  "2023-09-06": 132167,
-  "2023-09-07": 132167,
-  "2023-09-08": 132167,
-  "2023-09-09": 132167,
-  "2023-09-10": 132167,
-  "2023-09-11": 132167,
-  "2023-09-12": 132167,
-  "2023-09-13": 132167,
-  "2023-09-14": 132167,
-  "2023-09-15": 132167,
-  "2023-09-16": 132167,
-  "2023-09-17": 132167,
-  "2023-09-18": 132167,
-  "2023-09-19": 132167,
-  "2023-09-20": 132167,
-  "2023-09-21": 132167,
-  "2023-09-22": 132167,
-  "2023-09-23": 132167,
-  "2023-09-24": 132167,
-  "2023-09-25": 132167,
-  "2023-09-26": 132167,
-  "2023-09-27": 132167,
-  "2023-09-28": 132167,
-  "2023-09-29": 132167,
-  "2023-09-30": 132167,
-  "2023-10-01": 132167,
-  "2023-10-02": 132167,
-  "2023-10-03": 132167,
-  "2023-10-04": 132167,
-  "2023-10-05": 132167,
-  "2023-10-06": 132167,
-  "2023-10-07": 132167,
-  "2023-10-08": 132167,
-  "2023-10-09": 132167,
-  "2023-10-10": 132167,
-  "2023-10-11": 132167,
-  "2023-10-12": 132167,
-  "2023-10-13": 132167,
-  "2023-10-14": 132167,
-  "2023-10-15": 132167,
-  "2023-10-16": 132167,
-  "2023-10-17": 132167,
-  "2023-10-18": 132167,
-  "2023-10-19": 132167,
-  "2023-10-20": 132167,
-  "2023-10-21": 132167,
-  "2023-10-22": 132167,
-  "2023-10-23": 132167,
-  "2023-10-24": 132167,
-  "2023-10-25": 132167,
-  "2023-10-26": 132167,
-  "2023-10-27": 132167,
-  "2023-10-28": 132167,
-  "2023-10-29": 132167,
-  "2023-10-30": 132167,
-  "2023-10-31": 132167,
-  "2023-11-01": 132167,
-  "2023-11-02": 132167,
-  "2023-11-03": 132167,
-  "2023-11-04": 132167,
-  "2023-11-05": 132167,
-  "2023-11-06": 132167,
-  "2023-11-07": 132167,
-  "2023-11-08": 132167,
-  "2023-11-09": 132167,
-  "2023-11-10": 132167,
-  "2023-11-11": 132167,
-  "2023-11-12": 132167,
-  "2023-11-13": 132167,
-  "2023-11-14": 132167,
-  "2023-11-15": 132167,
-  "2023-11-16": 132167,
-  "2023-11-17": 132167,
-  "2023-11-18": 132167,
-  "2023-11-19": 132167,
-  "2023-11-20": 132167,
-  "2023-11-21": 132167,
-  "2023-11-22": 132167,
-  "2023-11-23": 132167,
-  "2023-11-24": 132167,
-  "2023-11-25": 132167,
-  "2023-11-26": 132167,
-  "2023-11-27": 132167,
-  "2023-11-28": 132167,
-  "2023-11-29": 132167,
-  "2023-11-30": 132167,
-  "2023-12-01": 132167,
-  "2023-12-02": 132167,
-  "2023-12-03": 132167,
-  "2023-12-04": 132167,
-  "2023-12-05": 132167,
-  "2023-12-06": 132167,
-  "2023-12-07": 132167,
-  "2023-12-08": 132167,
-  "2023-12-09": 132167,
-  "2023-12-10": 132167,
-  "2023-12-11": 132167,
-  "2023-12-12": 132167,
-  "2023-12-13": 132167,
-  "2023-12-14": 132167,
-  "2023-12-15": 132167,
-  "2023-12-16": 132167,
-  "2023-12-17": 132167,
-  "2023-12-18": 132167,
-  "2023-12-19": 132167,
-  "2023-12-20": 132167,
-  "2023-12-21": 132167,
-  "2023-12-22": 132167,
-  "2023-12-23": 132167,
-  "2023-12-24": 132167,
-  "2023-12-25": 132167,
-  "2023-12-26": 132167,
-  "2023-12-27": 132167,
-  "2023-12-30": 132167,
-  "2023-12-31": 132167,
-  "2024-01-01": 132167,
-  "2024-01-02": 132167,
-  "2024-01-03": 132167
+  "2024-01-17": 132167,
+  "date_first_scraped": "2021-12-21",
+  "description": "Celebrating the life and legacy of the songwriting legend.",
+  "name": "This Is John Prine",
+  "tracks": [
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "(We're Not) The Jet Set (feat. Iris DeMent)",
+      "url": "https://open.spotify.com/track/04UYdVTRzJGtJ5gUxIDDJX"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208840,
+      "name": "All the Best",
+      "url": "https://open.spotify.com/track/00NJC5H7lMteO234u8BvcN"
+    },
+    {
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251226,
+      "name": "Angel from Montgomery",
+      "url": "https://open.spotify.com/track/6ui3dhzFbLHkSZUcM5lmpx"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224186,
+      "name": "Angel from Montgomery",
+      "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Patty Loveless",
+          "url": "https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167693,
+      "name": "Back Street Affair (feat. Patty Loveless)",
+      "url": "https://open.spotify.com/track/3uK7mFFXkNJbXNTPI401H0"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285293,
+      "name": "Bear Creek Blues",
+      "url": "https://open.spotify.com/track/5Tt4oMn44RjRkzBFdvOH7A"
+    },
+    {
+      "album": {
+        "name": "Standard Songs for Average People",
+        "url": "https://open.spotify.com/album/0JafNTEJPn2G6iDbxyY1h4"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Mac Wiseman",
+          "url": "https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154720,
+      "name": "Blue Eyed Elaine",
+      "url": "https://open.spotify.com/track/7qYAVSalYQTSM1cqGTxyjO"
+    },
+    {
+      "album": {
+        "name": "The Singing Mailman Delivers",
+        "url": "https://open.spotify.com/album/569ly0dw4OcEFcXQcivUMY"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151413,
+      "name": "Blue Umbrella",
+      "url": "https://open.spotify.com/track/6PtnW1nlfStSr2W5KxXnil"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215013,
+      "name": "Boundless Love",
+      "url": "https://open.spotify.com/track/4cwuAYkhbb775IejX7YgGn"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148298,
+      "name": "Caravan of Fools",
+      "url": "https://open.spotify.com/track/0XP9ngwJpoFXVEeA7xcKHU"
+    },
+    {
+      "album": {
+        "name": "Sweet Revenge",
+        "url": "https://open.spotify.com/album/7eTnSXnD9wlvizElNtq2aK"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193773,
+      "name": "Christmas in Prison",
+      "url": "https://open.spotify.com/track/47zzGSaqmo9KuSLEGXnsZ2"
+    },
+    {
+      "album": {
+        "name": "A John Prine Christmas",
+        "url": "https://open.spotify.com/album/0334eprllGwHX6smvyb3Ox"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240306,
+      "name": "Christmas In Prison",
+      "url": "https://open.spotify.com/track/25z8giKBoUbu99BAZha3UA"
+    },
+    {
+      "album": {
+        "name": "A John Prine Christmas",
+        "url": "https://open.spotify.com/album/51feGjlV8hDiJ4U7XO9Kcb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240306,
+      "name": "Christmas in Prison (Live)",
+      "url": "https://open.spotify.com/track/6YkcuKacLTyK6X64j3y242"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267133,
+      "name": "Clay Pigeons",
+      "url": "https://open.spotify.com/track/5UDoMj8EIEXrQ4N0UR0nos"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/7lJLYTHfQ1MF7Z88SebX7b"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Clocks and Spoons",
+      "url": "https://open.spotify.com/track/57M2Tzakrrj4pecyVet6kM"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303306,
+      "name": "Crazy as a Loon",
+      "url": "https://open.spotify.com/track/6CX3K4UXAPXk9BymJZQTIP"
+    },
+    {
+      "album": {
+        "name": "September 78",
+        "url": "https://open.spotify.com/album/4OxEPgT1BSdazHaWApf609"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173400,
+      "name": "Crooked Piece of Time - Live",
+      "url": "https://open.spotify.com/track/7faIltoh9NufOiLAPmFH5d"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161026,
+      "name": "Daddy's Little Pumpkin",
+      "url": "https://open.spotify.com/track/2K7TF6UZkbBfB6GwOqJ4Q0"
+    },
+    {
+      "album": {
+        "name": "Lost Dogs + Mixed Blessings",
+        "url": "https://open.spotify.com/album/0fxX7wTVTsz4oSfzZw8TKG"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Day Is Done",
+      "url": "https://open.spotify.com/track/2Di9dyLnotlGyKPKCRgKVh"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145400,
+      "name": "Dear John (I Sent Your Saddle Home)",
+      "url": "https://open.spotify.com/track/4Dv96SclaQUYxL69Jy133j"
+    },
+    {
+      "album": {
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "Dim Lights, Thick Smoke, And Loud, Loud Music (feat. Amanda Shires)",
+      "url": "https://open.spotify.com/track/1y286kkcOI8kBCvlWFJsnW"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Donald and Lydia",
+      "url": "https://open.spotify.com/track/1nwynMID6GR8sZ37l1Fp0N"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245225,
+      "name": "Egg & Daughter Nite, Lincoln Nebraska, 1967 (Crazy Bone)",
+      "url": "https://open.spotify.com/track/1k9khuqqY0wHE5IYEyK791"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309706,
+      "name": "Far from Me",
+      "url": "https://open.spotify.com/track/46nYMfEIsocWQTpKG3Cf9y"
+    },
+    {
+      "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194706,
+      "name": "Fish and Whistle",
+      "url": "https://open.spotify.com/track/4qA8M5hJn45rtFyWH5Ixar"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Glory of True Love",
+      "url": "https://open.spotify.com/track/7E2e9oK7zJrnUoQdEh8mIP"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Grandpa Was a Carpenter",
+      "url": "https://open.spotify.com/track/1hqGLaotgP0ehqsSnjRfwR"
+    },
+    {
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283333,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/70tHVNHe7wbeHHTTkaWPn0"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272026,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/7IijX5DkLaf3G4qF6xDLYa"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297173,
+      "name": "Hello in There",
+      "url": "https://open.spotify.com/track/0rXCeTgjXDJOwWnPA591Tt"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149422,
+      "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
+      "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247102,
+      "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
+      "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
+    },
+    {
+      "album": {
+        "name": "German Afternoons",
+        "url": "https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "I Just Want to Dance with You",
+      "url": "https://open.spotify.com/track/6YQs5ByntuMrSBLFY80ucS"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "I Know One (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6PqLroacFtPK59TkT43S9N"
+    },
+    {
+      "album": {
+        "name": "I Remember Everything",
+        "url": "https://open.spotify.com/album/0BQ0mFAuMKBqGfcfIii9Zi"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/5jYq5kj7kt6Iokzv7XeZhZ"
+    },
+    {
+      "album": {
+        "name": "The Singing Mailman Delivers",
+        "url": "https://open.spotify.com/album/569ly0dw4OcEFcXQcivUMY"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "Illegal Smile",
+      "url": "https://open.spotify.com/track/1SprDkyeYb0pdJJIRN4LXL"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Dolores Keane",
+          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "In a Town This Size (feat. Dolores Keane)",
+      "url": "https://open.spotify.com/track/0vF21hbUVeRs1deGWr1TTx"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "In Spite of Ourselves (feat. Iris DeMent)",
+      "url": "https://open.spotify.com/track/1k691v8ChLgDiuLLKnjyj6"
+    },
+    {
+      "album": {
+        "name": "September 78",
+        "url": "https://open.spotify.com/album/4OxEPgT1BSdazHaWApf609"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "Iron Ore Betty - Live",
+      "url": "https://open.spotify.com/track/7Fwx1fQ6Qeruz09nNsUAbe"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310866,
+      "name": "It's a Big Old Goofy World",
+      "url": "https://open.spotify.com/track/1HC7y9PcVOBSUHl053nKj6"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Dolores Keane",
+          "url": "https://open.spotify.com/artist/6nYVwBK8nCQCYlb7rA763B"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176666,
+      "name": "It's a Cheating Situation (feat. Dolores Keane)",
+      "url": "https://open.spotify.com/track/5JbiSS1mikI9w5lHVygk17"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357400,
+      "name": "Jesus, The Missing Years",
+      "url": "https://open.spotify.com/track/21Zn4iMPBEuGtukbb1KpGz"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139893,
+      "name": "Knockin' on Your Screen Door",
+      "url": "https://open.spotify.com/track/2BrJD5vKA2nv5fqBTqkPlZ"
+    },
+    {
+      "album": {
+        "name": "Lost Dogs & Mixed Blessings",
+        "url": "https://open.spotify.com/album/2W4N5sTgM3qbYYPA2teW4e"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 360440,
+      "name": "Lake Marie",
+      "url": "https://open.spotify.com/track/0tEjTLnTwbf1I7z3cow9qy"
+    },
+    {
+      "album": {
+        "name": "Lost Dogs + Mixed Blessings",
+        "url": "https://open.spotify.com/album/0fxX7wTVTsz4oSfzZw8TKG"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360440,
+      "name": "Lake Marie",
+      "url": "https://open.spotify.com/track/5KB869ycQ5H23d7N8u0mor"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131066,
+      "name": "Let's Invite Them Over (feat. Iris DeMent)",
+      "url": "https://open.spotify.com/track/2e9NPaO3TUoq1SiQDAqjhJ"
+    },
+    {
+      "album": {
+        "name": "German Afternoons",
+        "url": "https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "Let's Talk Dirty in Hawaiian",
+      "url": "https://open.spotify.com/track/7tXKYCMVUmillzaz2ZtrYM"
+    },
+    {
+      "album": {
+        "name": "German Afternoons",
+        "url": "https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Linda Goes to Mars",
+      "url": "https://open.spotify.com/track/7xM8JrazqpSsgk4YcEXXGy"
+    },
+    {
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Living in the Future - Live",
+      "url": "https://open.spotify.com/track/1rv6XgCscmrysVUX5IRz4n"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281308,
+      "name": "Lonesome Friends of Science",
+      "url": "https://open.spotify.com/track/2VxDC0naFJBgA8rOc2BK1l"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202626,
+      "name": "Long Monday",
+      "url": "https://open.spotify.com/track/5mQsvob7sHv2vRhRkTXOvl"
+    },
+    {
+      "album": {
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Morgane Stapleton",
+          "url": "https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Look at Us (feat. Morgane Stapleton)",
+      "url": "https://open.spotify.com/track/783JfOa6qKdh869RO4cleX"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "Loose Talk (feat. Connie Smith)",
+      "url": "https://open.spotify.com/track/2S8sgHKgoOyH1OEDaiEJYk"
+    },
+    {
+      "album": {
+        "name": "For Better, Or Worse",
+        "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "Mental Cruelty (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/186UgiKH2aZi0G3f6s0Ydf"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Melba Montgomery",
+          "url": "https://open.spotify.com/artist/6TeB6t5E1uJfbJGRZvJAAv"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141760,
+      "name": "Milwaukee Here I Come (feat. Melba Montgomery)",
+      "url": "https://open.spotify.com/track/6Rtvo85QCMxqsaJEeyGFhz"
+    },
+    {
+      "album": {
+        "name": "My Old Kentucky Home, Goodnight",
+        "url": "https://open.spotify.com/album/6NVpVhMqlNUu4M7vQuOez1"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225906,
+      "name": "My Old Kentucky Home, Goodnight",
+      "url": "https://open.spotify.com/track/0jo2BDAxfgNrL5VplFuulx"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176256,
+      "name": "No Ordinary Blue",
+      "url": "https://open.spotify.com/track/3ZpVLbq4iu2xJG8cj9yqrY"
+    },
+    {
+      "album": {
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh"
+      },
+      "artists": [
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187146,
+      "name": "One Red Rose",
+      "url": "https://open.spotify.com/track/7FFNz3vdpVdRVzpQLs3kdS"
+    },
+    {
+      "album": {
+        "name": "Aimless Love",
+        "url": "https://open.spotify.com/album/2FQiaeXfljBO8PwmyjVmUK"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/6hP89p82XQ860EjVXah1ak"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/47QsP5uPZp3he5UrVsK8bs"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Picture Show",
+      "url": "https://open.spotify.com/track/2jF66y6wX8Ge4478XcwgW8"
+    },
+    {
+      "album": {
+        "name": "Standard Songs for Average People",
+        "url": "https://open.spotify.com/album/0JafNTEJPn2G6iDbxyY1h4"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Mac Wiseman",
+          "url": "https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Pistol Packin' Mama",
+      "url": "https://open.spotify.com/track/08xZC2eNhxgpW0sesoIJEF"
+    },
+    {
+      "album": {
+        "name": "Standard Songs for Average People",
+        "url": "https://open.spotify.com/album/5iSZe9tL5GRhzJYtuiaTQX"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Mac Wiseman",
+          "url": "https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163840,
+      "name": "Pistol Packin' Mama",
+      "url": "https://open.spotify.com/track/1Zzew0Zr3nS0s5kV9poyvj"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Please Don't Bury Me",
+      "url": "https://open.spotify.com/track/4R248BfIOimjxJ7hjPJ5lB"
+    },
+    {
+      "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Sabu Visits the Twin Cities Alone",
+      "url": "https://open.spotify.com/track/21Ygx5God9fR59DdBPVbDs"
+    },
+    {
+      "album": {
+        "name": "German Afternoons",
+        "url": "https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Sailin' Around",
+      "url": "https://open.spotify.com/track/5Vym95uUAcImZe4hbuYy2F"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256906,
+      "name": "Sam Stone",
+      "url": "https://open.spotify.com/track/4BIej0swGWja46j5B7l4s1"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265720,
+      "name": "She Is My Everything",
+      "url": "https://open.spotify.com/track/4BLj3rDG2BGOfqtupojlHE"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171066,
+      "name": "Six O'Clock News",
+      "url": "https://open.spotify.com/track/0FAFmU0CdwFScNZcg7HjNO"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Connie Smith",
+          "url": "https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149906,
+      "name": "So Sad (To Watch Good Love Go Bad) [feat. Connie Smith]",
+      "url": "https://open.spotify.com/track/0zqo5bjHigfuVguOq8p5z5"
+    },
+    {
+      "album": {
+        "name": "American Folk (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5OmGs0KA0MeJMcP2zbN06L"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 420737,
+      "name": "Some Humans Ain't Human",
+      "url": "https://open.spotify.com/track/6aBV71st4wUG22f6z6eLey"
+    },
+    {
+      "album": {
+        "name": "Fair and Square",
+        "url": "https://open.spotify.com/album/44sOCUUf8kp3Oj1yBYAKiZ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423413,
+      "name": "Some Humans Ain't Human",
+      "url": "https://open.spotify.com/track/3SoIk5HRZ8jTwW6NmpWTOJ"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Souvenirs",
+      "url": "https://open.spotify.com/track/0YqwZcztnGN3Rjh4yPGmic"
+    },
+    {
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Souvenirs - Live",
+      "url": "https://open.spotify.com/track/3EfjcUzovzECxN7OYOk8CW"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161173,
+      "name": "Spanish Pipedream",
+      "url": "https://open.spotify.com/track/7zrxGPR1UVK2iSK793vLPl"
+    },
+    {
+      "album": {
+        "name": "In Person & On Stage (Live)",
+        "url": "https://open.spotify.com/album/2skV2PixT8oIPKoc100Tro"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "Spanish Pipedream - Live",
+      "url": "https://open.spotify.com/track/5snFZw8fw9iv7MWF0Jwoyy"
+    },
+    {
+      "album": {
+        "name": "German Afternoons",
+        "url": "https://open.spotify.com/album/2mrzBV6nowUVeDVDeHloFm"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/09lYnM5tc8vDqq6trDepcz"
+    },
+    {
+      "album": {
+        "name": "Live on Tour",
+        "url": "https://open.spotify.com/album/6zp7ghEdrDUC30MQ06QmoF"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272066,
+      "name": "Storm Windows - Live",
+      "url": "https://open.spotify.com/track/2GxmuzYNZ9c7EyZmROPsnw"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209047,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/511dXUrzAfeivY8f0LUMZd"
+    },
+    {
+      "album": {
+        "name": "Sweet Revenge",
+        "url": "https://open.spotify.com/album/7eTnSXnD9wlvizElNtq2aK"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161866,
+      "name": "Sweet Revenge",
+      "url": "https://open.spotify.com/track/3OjQfS3lbILlruNItB3ShG"
+    },
+    {
+      "album": {
+        "name": "September 78",
+        "url": "https://open.spotify.com/album/4OxEPgT1BSdazHaWApf609"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178666,
+      "name": "Sweet Revenge - Live",
+      "url": "https://open.spotify.com/track/3FCtiTn8G3s63V1UkgfX41"
+    },
+    {
+      "album": {
+        "name": "Bruised Orange",
+        "url": "https://open.spotify.com/album/1fW0Oyx3p2kVzo2INfW7Lb"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "That's the Way That the World Goes 'Round",
+      "url": "https://open.spotify.com/track/6IcU0P6Ec5CM9qVqV1U2JH"
+    },
+    {
+      "album": {
+        "name": "John Prine (Live)",
+        "url": "https://open.spotify.com/album/5WNkdBedxiVxtWZH1xkYoQ"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227800,
+      "name": "That's the Way That the World Goes Round - Live",
+      "url": "https://open.spotify.com/track/0OqcrFJ6qaUefw5cdD3jhm"
+    },
+    {
+      "album": {
+        "name": "Souvenirs",
+        "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "The Late John Garfield Blues",
+      "url": "https://open.spotify.com/track/6xMIOFYN7OcKeRRJlWcUVX"
+    },
+    {
+      "album": {
+        "name": "The Ways of a Woman in Love",
+        "url": "https://open.spotify.com/album/6lSGX9XwWhQDb6RgN3pdTe"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96906,
+      "name": "The Ways of a Woman in Love",
+      "url": "https://open.spotify.com/track/5roLsOuQDdWzdDYonQZNrn"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Fiona Prine",
+          "url": "https://open.spotify.com/artist/56guN2NYtFiK7bhRdDAzvI"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Til a Tear Becomes a Rose (feat. Fiona Prine)",
+      "url": "https://open.spotify.com/track/3rYvczZtOiIOknzJZdFtqg"
+    },
+    {
+      "album": {
+        "name": "September 78",
+        "url": "https://open.spotify.com/album/4OxEPgT1BSdazHaWApf609"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Try to Find Another Man - Live",
+      "url": "https://open.spotify.com/track/4qaaIBLJomzFGfdYMzBZYW"
+    },
+    {
+      "album": {
+        "name": "Aimless Love",
+        "url": "https://open.spotify.com/album/2FQiaeXfljBO8PwmyjVmUK"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210826,
+      "name": "Unwed Fathers",
+      "url": "https://open.spotify.com/track/0cXWMzsFVYkb8rTti0IvO1"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137106,
+      "name": "We Could (feat. Iris DeMent)",
+      "url": "https://open.spotify.com/track/6EEXFzKVxxwYvs0GPUeTPi"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Melba Montgomery",
+          "url": "https://open.spotify.com/artist/6TeB6t5E1uJfbJGRZvJAAv"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "We Must Have Been out of Our Minds (feat. Melba Montgomery)",
+      "url": "https://open.spotify.com/track/5B16b8zPUe8EGGjoZw7You"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Wedding Bells / Let's Turn Back the Years (feat. Lucinda Williams)",
+      "url": "https://open.spotify.com/track/5NKxPy7MoRfPG4Tg0USJnD"
+    },
+    {
+      "album": {
+        "name": "The Tree of Forgiveness",
+        "url": "https://open.spotify.com/album/13UwfQZqne7ZQIkUZsAPLg"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222573,
+      "name": "When I Get to Heaven",
+      "url": "https://open.spotify.com/track/5O0h2Fq8byNYT5tHwymFkH"
+    },
+    {
+      "album": {
+        "name": "In Spite of Ourselves",
+        "url": "https://open.spotify.com/album/2t6hK5ERtgjbHXVgHlpqJ5"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141826,
+      "name": "When Two Worlds Collide (feat. Trisha Yearwood)",
+      "url": "https://open.spotify.com/track/52MrnpJG9CyA95KZr0mHTE"
+    },
+    {
+      "album": {
+        "name": "Sittin' on a Rainbow",
+        "url": "https://open.spotify.com/album/1gtFcfpZ7vHETb9CO1G36I"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        },
+        {
+          "name": "Iris DeMent",
+          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161127,
+      "name": "Who's Gonna Take the Garbage out (feat. Iris Dement)",
+      "url": "https://open.spotify.com/track/5YL6q78kiPbudtogO4H7T4"
+    },
+    {
+      "album": {
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/7lJLYTHfQ1MF7Z88SebX7b"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130039,
+      "name": "Yes I Guess They Oughta Name a Drink After You",
+      "url": "https://open.spotify.com/track/1YDqT7oCwEeubNLf12ZngT"
+    },
+    {
+      "album": {
+        "name": "The Missing Years",
+        "url": "https://open.spotify.com/album/0Z7pWwWanmkAagklXFp8ch"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278360,
+      "name": "You Got Gold",
+      "url": "https://open.spotify.com/track/2uzKH20V5pwuUGdPN7xbAb"
+    },
+    {
+      "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "Your Flag Decal Won't Get You into Heaven Anymore",
+      "url": "https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV"
+    },
+    {
+      "album": {
+        "name": "The Singing Mailman Delivers",
+        "url": "https://open.spotify.com/album/569ly0dw4OcEFcXQcivUMY"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "Your Flag Decal Won't Get You into Heaven Anymore (Live)",
+      "url": "https://open.spotify.com/track/2BgIwINSnhNLTLwgFlaBsv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWYlokKRoQoC"
 }

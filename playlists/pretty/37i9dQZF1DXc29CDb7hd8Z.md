@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc29CDb7hd8Z.md) - [plain]
 
 > Everything will look beautiful if you're inspired by the simplicity of instrumental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,431 likes - 134 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,267 likes - 134 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

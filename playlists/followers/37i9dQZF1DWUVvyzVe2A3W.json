@@ -1,97 +1,973 @@
 {
-  "2023-09-29": 2556,
-  "2023-09-30": 2558,
-  "2023-10-01": 2558,
-  "2023-10-02": 2559,
-  "2023-10-03": 2563,
-  "2023-10-04": 2562,
-  "2023-10-05": 2565,
-  "2023-10-06": 2565,
-  "2023-10-07": 2567,
-  "2023-10-08": 2569,
-  "2023-10-09": 2572,
-  "2023-10-10": 2572,
-  "2023-10-11": 2573,
-  "2023-10-12": 2573,
-  "2023-10-13": 2575,
-  "2023-10-14": 2578,
-  "2023-10-15": 2579,
-  "2023-10-16": 2586,
-  "2023-10-17": 2586,
-  "2023-10-18": 2589,
-  "2023-10-19": 2589,
-  "2023-10-20": 2591,
-  "2023-10-21": 2597,
-  "2023-10-22": 2602,
-  "2023-10-23": 2603,
-  "2023-10-24": 2605,
-  "2023-10-25": 2609,
-  "2023-10-26": 2611,
-  "2023-10-27": 2613,
-  "2023-10-28": 2618,
-  "2023-10-29": 2621,
-  "2023-10-30": 2625,
-  "2023-10-31": 2625,
-  "2023-11-01": 2631,
-  "2023-11-02": 2633,
-  "2023-11-03": 2637,
-  "2023-11-04": 2642,
-  "2023-11-05": 2643,
-  "2023-11-06": 2649,
-  "2023-11-07": 2650,
-  "2023-11-08": 2652,
-  "2023-11-09": 2655,
-  "2023-11-10": 2655,
-  "2023-11-11": 2658,
-  "2023-11-12": 2659,
-  "2023-11-13": 2657,
-  "2023-11-14": 2660,
-  "2023-11-15": 2660,
-  "2023-11-16": 2666,
-  "2023-11-17": 2673,
-  "2023-11-18": 2673,
-  "2023-11-19": 2675,
-  "2023-11-20": 2678,
-  "2023-11-21": 2684,
-  "2023-11-22": 2686,
-  "2023-11-23": 2690,
-  "2023-11-24": 2695,
-  "2023-11-25": 2696,
-  "2023-11-26": 2700,
-  "2023-11-27": 2702,
-  "2023-11-28": 2704,
-  "2023-11-29": 2707,
-  "2023-11-30": 2707,
-  "2023-12-01": 2707,
-  "2023-12-02": 2711,
-  "2023-12-03": 2713,
-  "2023-12-04": 2717,
-  "2023-12-05": 2716,
-  "2023-12-06": 2716,
-  "2023-12-07": 2717,
-  "2023-12-08": 2718,
-  "2023-12-09": 2719,
-  "2023-12-10": 2720,
-  "2023-12-11": 2720,
-  "2023-12-12": 2722,
-  "2023-12-13": 2724,
-  "2023-12-14": 2724,
-  "2023-12-15": 2725,
-  "2023-12-16": 2729,
-  "2023-12-17": 2728,
-  "2023-12-18": 2728,
-  "2023-12-19": 2728,
-  "2023-12-20": 2728,
-  "2023-12-21": 2728,
-  "2023-12-22": 2729,
-  "2023-12-23": 2732,
-  "2023-12-24": 2732,
-  "2023-12-25": 2729,
-  "2023-12-26": 2730,
-  "2023-12-27": 2730,
-  "2023-12-30": 2737,
-  "2023-12-31": 2736,
-  "2024-01-01": 2736,
-  "2024-01-02": 2739,
-  "2024-01-03": 2741
+  "2024-01-17": 2754,
+  "date_first_scraped": "2023-09-29",
+  "description": "Chantez ces comptines \u00e0 vos enfants... et n'oubliez pas les gestes!",
+  "name": "Ainsi font font font",
+  "tracks": [
+    {
+      "album": {
+        "name": "Comptines TV, vol. 4",
+        "url": "https://open.spotify.com/album/2qTsX02I0H9kXU3VKfCD6t"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92503,
+      "name": "1, 2, 3 nous irons au bois",
+      "url": "https://open.spotify.com/track/4hCXhWdsdxnUAsi6A68W5w"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 3",
+        "url": "https://open.spotify.com/album/4FC671DSP3EAYOMh27M34Z"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Les amis de tous les enfants du monde",
+          "url": "https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR"
+        },
+        {
+          "name": "\u00c9ric Bessot",
+          "url": "https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91994,
+      "name": "Ainsi font, font, font",
+      "url": "https://open.spotify.com/track/6YBMiyDbvr2Kb2qB99WV4C"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Francine Chantereau",
+          "url": "https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98706,
+      "name": "Alouette, gentille alouette",
+      "url": "https://open.spotify.com/track/3CZxTlgDDh71hlC33SrjWI"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Francine Chantereau",
+          "url": "https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73634,
+      "name": "Bonjour ma cousine",
+      "url": "https://open.spotify.com/track/2BGjRJoBLcy9cNeQVWdEQO"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jany",
+          "url": "https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75200,
+      "name": "Brrr.... il fait froid",
+      "url": "https://open.spotify.com/track/1xZ5IuDUNtolxSHQKlAd3G"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46306,
+      "name": "C'est la baleine",
+      "url": "https://open.spotify.com/track/1qXOgIZQ8tYQJOUcPjA7wj"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jany",
+          "url": "https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111551,
+      "name": "Cinq gros pois",
+      "url": "https://open.spotify.com/track/47ukIySF5lFT0jkHSqQhig"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67400,
+      "name": "Coccinelle demoiselle",
+      "url": "https://open.spotify.com/track/5JUPYmI0xaqVX1XRLC5m4c"
+    },
+    {
+      "album": {
+        "name": "Comptines Volume 2",
+        "url": "https://open.spotify.com/album/6MIeC7yQcX4xtNmYsjLnjt"
+      },
+      "artists": [
+        {
+          "name": "Collection Comptines",
+          "url": "https://open.spotify.com/artist/5R2GSCPn8FshtqQbf8ENaR"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95600,
+      "name": "Dans la ferme \u00e0 Mathurin",
+      "url": "https://open.spotify.com/track/2oLjRpzASaAXloHWC0NopH"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68520,
+      "name": "Dans la for\u00eat lointaine",
+      "url": "https://open.spotify.com/track/1kFSaw8FyShcJ4pgWnqLQT"
+    },
+    {
+      "album": {
+        "name": "Dans sa maison un grand cerf (Les plus belles comptines d'Okoo)",
+        "url": "https://open.spotify.com/album/7sVKIIkUq1ANcWZBMHaTZB"
+      },
+      "artists": [
+        {
+          "name": "Kad Merad",
+          "url": "https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8"
+        },
+        {
+          "name": "Nolwenn Leroy",
+          "url": "https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Dans sa maison un grand cerf - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/5VlNJRsRhXGGxVqdMYGILd"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90176,
+      "name": "Dor\u00e9mifasollasido",
+      "url": "https://open.spotify.com/track/4MxQXSflDP7IU8pyhYK17q"
+    },
+    {
+      "album": {
+        "name": "100 Comptines cr\u00e8ches et maternelles",
+        "url": "https://open.spotify.com/album/6TrqK5o5UZF08Mv4SbntCb"
+      },
+      "artists": [
+        {
+          "name": "Catherine Vaniscotte",
+          "url": "https://open.spotify.com/artist/1f77Nsy3M8OxLYr6yt0vPd"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "Gugusse",
+      "url": "https://open.spotify.com/track/3jMgacRlTozfADKJSuTTid"
+    },
+    {
+      "album": {
+        "name": "60 Comptines et berceuses des saisons",
+        "url": "https://open.spotify.com/album/5STcgLFPNPBx5bJ7J0QOmY"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Conry",
+          "url": "https://open.spotify.com/artist/6G6yx3KhP0aPrBtNeIuZPV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44173,
+      "name": "Il court, il court, le furet",
+      "url": "https://open.spotify.com/track/3ujFXkZvr3qtjRBjqnePQm"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69000,
+      "name": "J'ai un gros nez rouge",
+      "url": "https://open.spotify.com/track/4AcSfeyxy4caGMj8vpKgwT"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99200,
+      "name": "Je cache mes yeux",
+      "url": "https://open.spotify.com/track/59VpBIyqaoXMnVq2o7Hzt9"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Titia&Gg",
+          "url": "https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155878,
+      "name": "Je fais le tour de ma maison",
+      "url": "https://open.spotify.com/track/4IgLZpeWcbgdmG795amxCL"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 2",
+        "url": "https://open.spotify.com/album/0XPDlGgNbusJVVFAuFZyDy"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Michel Barouille",
+          "url": "https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209005,
+      "name": "Jean Petit qui danse",
+      "url": "https://open.spotify.com/track/31hqhNMdqOTI894c6mR3LR"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62893,
+      "name": "L'araign\u00e9e Gipsy",
+      "url": "https://open.spotify.com/track/1xz2R4M3WsJDnrPqb7TJA7"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jany",
+          "url": "https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146746,
+      "name": "La famille des doigts",
+      "url": "https://open.spotify.com/track/0NpFHSfDIXCEJy4hsEwr5L"
+    },
+    {
+      "album": {
+        "name": "Comptines TV, vol. 4",
+        "url": "https://open.spotify.com/album/2qTsX02I0H9kXU3VKfCD6t"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101028,
+      "name": "La fourmi m'a piqu\u00e9 la main",
+      "url": "https://open.spotify.com/track/01DILTuzLap9yrWikMbqyt"
+    },
+    {
+      "album": {
+        "name": "Mon imagier des r\u00e9cr\u00e9s (Comptine)",
+        "url": "https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D"
+      },
+      "artists": [
+        {
+          "name": "Gallimard Jeunesse",
+          "url": "https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3"
+        },
+        {
+          "name": "Les P'tites Voix",
+          "url": "https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72173,
+      "name": "Le facteur n'est pas pass\u00e9 - Comptine",
+      "url": "https://open.spotify.com/track/4q6FTsYXCsZUBWJVbh74wG"
+    },
+    {
+      "album": {
+        "name": "100 Comptines cr\u00e8ches et maternelles",
+        "url": "https://open.spotify.com/album/6TrqK5o5UZF08Mv4SbntCb"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Laporte",
+          "url": "https://open.spotify.com/artist/0vtfBa0fLhllA1mwMNGGnj"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133241,
+      "name": "Le fermier dans son pr\u00e9",
+      "url": "https://open.spotify.com/track/0E3Yz2MLrVCp2QpExwOlvv"
+    },
+    {
+      "album": {
+        "name": "Chante, danse et mime les \u00e9motions avec Cali et ses amis",
+        "url": "https://open.spotify.com/album/56Nm90dDLjPeK5sTwadH9K"
+      },
+      "artists": [
+        {
+          "name": "Laurent Lahaye",
+          "url": "https://open.spotify.com/artist/5lRn9apGTlxwumPrDN6m2B"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112384,
+      "name": "Les bras en haut, les bras en bas",
+      "url": "https://open.spotify.com/track/4GMjBJN54qELidKZrXlrh9"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91493,
+      "name": "Les petits poissons dans l'eau",
+      "url": "https://open.spotify.com/track/6tvrDc3v0O9gBfIGKaGNHV"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Francine Chantereau",
+          "url": "https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107200,
+      "name": "Maman les petits bateaux",
+      "url": "https://open.spotify.com/track/3PsvK6Y0BU4qg0hm22660T"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92693,
+      "name": "Mes petites mains font tap, tap",
+      "url": "https://open.spotify.com/track/3Ki7k0IBdAPgCYGEhBjzWv"
+    },
+    {
+      "album": {
+        "name": "Jeux de doigts",
+        "url": "https://open.spotify.com/album/6xr1BdvXS8uRY7wIp5ZrM6"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85346,
+      "name": "Meunier, tu dors",
+      "url": "https://open.spotify.com/track/2XKiyNB1ypVn6PiszdOBwg"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85144,
+      "name": "Mon petit lapin",
+      "url": "https://open.spotify.com/track/5ucIoEZnj7u70PKgIJsXep"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jany",
+          "url": "https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75300,
+      "name": "Monsieur l'escargot",
+      "url": "https://open.spotify.com/track/7DUUrNIqCOtFIjHwk3EvHr"
+    },
+    {
+      "album": {
+        "name": "OH ! Les mains, Vol. 1",
+        "url": "https://open.spotify.com/album/3zoaiy6GfxW331YDtNGjRG"
+      },
+      "artists": [
+        {
+          "name": "Jacques Haurogn\u00e9",
+          "url": "https://open.spotify.com/artist/5AkvGzVPfzJaJivUB4y7NB"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49253,
+      "name": "Monsieur Pouce es-tu l\u00e0 ?",
+      "url": "https://open.spotify.com/track/7Ao827ASZPIDeSG4Hgy5XW"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Francine Chantereau",
+          "url": "https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88772,
+      "name": "Passe passera",
+      "url": "https://open.spotify.com/track/5rhpwj5bb0vtqL5nPZp7UZ"
+    },
+    {
+      "album": {
+        "name": "69 comptines et jeux chant\u00e9s des tout-petits",
+        "url": "https://open.spotify.com/album/5485Wpk0c5HlWpfM6oV1Et"
+      },
+      "artists": [
+        {
+          "name": "Le Ch\u0153ur des enfants",
+          "url": "https://open.spotify.com/artist/58qpouPnLYMIzR5CgBSool"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31613,
+      "name": "Petit escargot porte sur son dos",
+      "url": "https://open.spotify.com/track/7C96x4gy7INy9H1QZuqtHR"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Pirouette, cacahu\u00e8te",
+      "url": "https://open.spotify.com/track/3yCoWlqfp2wnOS4PeNsADE"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 1",
+        "url": "https://open.spotify.com/album/2NouuH51OY98HOh8rlficN"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Michel Barouille",
+          "url": "https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl"
+        },
+        {
+          "name": "Les amis de tous les enfants du monde",
+          "url": "https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR"
+        },
+        {
+          "name": "\u00c9ric Bessot",
+          "url": "https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40003,
+      "name": "Pomme de reinette et pomme d'api",
+      "url": "https://open.spotify.com/track/7vgCw8AiOzjiwDGwUFOeOE"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151693,
+      "name": "Promenons-nous dans les bois",
+      "url": "https://open.spotify.com/track/1AJhMfIYCZ5mQHwYVGZRto"
+    },
+    {
+      "album": {
+        "name": "50 comptines pour bien grandir",
+        "url": "https://open.spotify.com/album/60R438sTOiMnhtynzS7jIc"
+      },
+      "artists": [
+        {
+          "name": "Jany",
+          "url": "https://open.spotify.com/artist/5A6k6twCRuUAEsCyGQLHhI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158363,
+      "name": "Quand Fanny",
+      "url": "https://open.spotify.com/track/6NEtaQqcU2UNTqujdmClmM"
+    },
+    {
+      "album": {
+        "name": "Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/3csaG6T5ovjOHgqOmxboJo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9my",
+          "url": "https://open.spotify.com/artist/6sl5aNXd2SMbJxyiOIg3xI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63800,
+      "name": "Qui se cache",
+      "url": "https://open.spotify.com/track/7e7BOACAJMcTk7sRxwWVEx"
+    },
+    {
+      "album": {
+        "name": "20 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/1sll6PeEkOXCFHIq0AizU3"
+      },
+      "artists": [
+        {
+          "name": "La Superstar Des Comptines Rondes Et Berceuses",
+          "url": "https://open.spotify.com/artist/6TaGVnSdzIsOLVxiAKxotV"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "Savez-vous planter les choux",
+      "url": "https://open.spotify.com/track/3WEwruu7TrngI1ytUbWIeM"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 1",
+        "url": "https://open.spotify.com/album/2NouuH51OY98HOh8rlficN"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Michel Barouille",
+          "url": "https://open.spotify.com/artist/0eLozZih4AkQ9laivfUYIl"
+        },
+        {
+          "name": "Les amis de tous les enfants du monde",
+          "url": "https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR"
+        },
+        {
+          "name": "\u00c9ric Bessot",
+          "url": "https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120010,
+      "name": "Sur le pont d'Avignon",
+      "url": "https://open.spotify.com/track/3Wyb7Z6qhumaRrAC1shAT7"
+    },
+    {
+      "album": {
+        "name": "Tape tape dans tes mains, vol. 2",
+        "url": "https://open.spotify.com/album/1pzDarrIV26ObTvUtsQaL0"
+      },
+      "artists": [
+        {
+          "name": "Jean Ren\u00e9",
+          "url": "https://open.spotify.com/artist/62xg7Dj10uZUHswBlCYIkI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198149,
+      "name": "Tape tape dans tes mains",
+      "url": "https://open.spotify.com/track/4kZrl2XN9G6qbE17bQmHkI"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Titia&Gg",
+          "url": "https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Tourne, tourne petit moulin",
+      "url": "https://open.spotify.com/track/4hAlYODF9lmtx4tdHynyGo"
+    },
+    {
+      "album": {
+        "name": "Mon imagier des r\u00e9cr\u00e9s (Comptine)",
+        "url": "https://open.spotify.com/album/7CYBBg6QQNpSmBay6MLL2D"
+      },
+      "artists": [
+        {
+          "name": "Gallimard Jeunesse",
+          "url": "https://open.spotify.com/artist/08aTF1PSpukHGxuQPoOUD3"
+        },
+        {
+          "name": "Les P'tites Voix",
+          "url": "https://open.spotify.com/artist/3moUfmF718JYOMbyUgKuGI"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87973,
+      "name": "Trois p'tits chats - Comptine",
+      "url": "https://open.spotify.com/track/5Dw2CffaEfOrkqHstuP5X4"
+    },
+    {
+      "album": {
+        "name": "Chansons Pour S'amuser",
+        "url": "https://open.spotify.com/album/53vgzRn5hfTZpW6na6jKRO"
+      },
+      "artists": [
+        {
+          "name": "Les Petits Zouzous",
+          "url": "https://open.spotify.com/artist/0HoPMQE1US9eqqc96YppjH"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82240,
+      "name": "T\u00eate Epaule Genoux Pieds",
+      "url": "https://open.spotify.com/track/4fToPSaAyhwyloAcYa56kM"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82755,
+      "name": "Un petit cochon pendu au plafond",
+      "url": "https://open.spotify.com/track/2X9NnuAocIMYgByxDupr6q"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Jemy",
+          "url": "https://open.spotify.com/artist/41e0JHTjVOTI9AnIgxaGfo"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61293,
+      "name": "Un petit pouce qui danse",
+      "url": "https://open.spotify.com/track/3RKNRjrWBiW6DZxZsfbkSC"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/0nZ0Q8MFYfrSEXDTleUIH4"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Un \u00e9l\u00e9phant qui se balan\u00e7ait - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/23dwpRvxImSXGWXSFJ2ldh"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Francine Chantereau",
+          "url": "https://open.spotify.com/artist/5t22QkCGHMIptzquDUL3ql"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64093,
+      "name": "Une araign\u00e9e sur le plancher",
+      "url": "https://open.spotify.com/track/2mrX2pS7gm4usEihmQXfYK"
+    },
+    {
+      "album": {
+        "name": "50 Comptines \u00e0 gestes",
+        "url": "https://open.spotify.com/album/6vcnC7r88aIaEU99SmJnl1"
+      },
+      "artists": [
+        {
+          "name": "Titia&Gg",
+          "url": "https://open.spotify.com/artist/7MaiuvopZTT5lwfkc65HFv"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Une souris verte",
+      "url": "https://open.spotify.com/track/5nuj2vFLnmFTucZApI1fE5"
+    },
+    {
+      "album": {
+        "name": "69 comptines et jeux chant\u00e9s des tout-petits",
+        "url": "https://open.spotify.com/album/5485Wpk0c5HlWpfM6oV1Et"
+      },
+      "artists": [
+        {
+          "name": "Le Ch\u0153ur des enfants",
+          "url": "https://open.spotify.com/artist/58qpouPnLYMIzR5CgBSool"
+        }
+      ],
+      "date_added": "2021-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68093,
+      "name": "Vole, vole, vole papillon",
+      "url": "https://open.spotify.com/track/7GaJX6Rzid7yJp6bPRyLUZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUVvyzVe2A3W"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa86veiIta9X.md) - [plain]
 
 > take over the aux cord and scream sing down Broadway
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,693 likes - 105 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,757 likes - 105 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

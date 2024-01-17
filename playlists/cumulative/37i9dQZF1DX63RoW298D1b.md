@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-138 songs - 5 hr 46 min
+143 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,9 @@
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-05-09 |  |
 | [Akeleie](https://open.spotify.com/track/0UmaYgHfAEEMwxYGHSDMmu) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Akeleie](https://open.spotify.com/album/4wuBcYPsziuMtuafKDpDlP) | 3:53 | 2023-05-09 |  |
 | [Al fín](https://open.spotify.com/track/3F1jev8GAdSB1jyKHuAqhZ) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Al fín](https://open.spotify.com/album/0FjpiJwqP0wFPTdi0tbTs7) | 2:28 | 2023-05-09 |  |
+| [Amable](https://open.spotify.com/track/16VZ9OzusJbud7xZsPnq1V) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Amable](https://open.spotify.com/album/0fXfiMKFMlS4dQWBRkguej) | 2:12 | 2024-01-04 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2023-05-09 |  |
+| [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 | 2024-01-04 |  |
 | [Autumn Song](https://open.spotify.com/track/5D1S7lI0guR6YcGcKjtNbq) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Autumn Song](https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA) | 2:30 | 2023-11-07 |  |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2023-05-09 |  |
 | [Beauty](https://open.spotify.com/track/0Q2cbRo8CSarvKg6rGc4iK) | [Oscar Mallen](https://open.spotify.com/artist/0rpHfK2QFCVaoXwooHki3o) | [Beauty](https://open.spotify.com/album/0Pnz15lqGUeDTCs8eQNnLP) | 2:36 | 2023-05-09 |  |
@@ -29,6 +31,7 @@
 | [Calming Sky](https://open.spotify.com/track/1A3lmCXtc1NCYmxgPDxnQJ) | [Fulvio Neri](https://open.spotify.com/artist/6uYBrTfn9labgPGjkU4OkO) | [Calming Sky](https://open.spotify.com/album/5sF1p2bO9lZne7G6qUepO9) | 3:06 | 2023-05-09 |  |
 | [Can't Wait](https://open.spotify.com/track/4mv7yv3xb6CFLUEZ0ndowA) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Can't Wait](https://open.spotify.com/album/5BOUDuuez1jkMjVmlvnyNQ) | 2:05 | 2023-05-09 |  |
 | [Carpet](https://open.spotify.com/track/3z64a9dJWCBWpRgDnrs7qn) | [Norvik](https://open.spotify.com/artist/1NjriDX47WYVvGjeVMQ8R6) | [The Drawing Board II](https://open.spotify.com/album/4EY1Ee8FpxReZsWxJVPnSv) | 2:50 | 2023-05-09 | 2023-06-21 |
+| [Changes](https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Changes](https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp) | 3:05 | 2024-01-04 |  |
 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 | 2023-10-16 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2023-05-09 |  |
 | [Compass](https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX) | [Niwa Nova](https://open.spotify.com/artist/0R0y4nv4vZlqcgbNYVhwIo) | [Compass](https://open.spotify.com/album/0fzkfmZfihS41wJFGLjmrv) | 2:20 | 2023-05-09 |  |
@@ -37,6 +40,7 @@
 | [Deferment](https://open.spotify.com/track/0ibKzzyo527y98eTHe7Ktg) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Deferment](https://open.spotify.com/album/24Ldw57mkv72yL3aq8yYV6) | 2:06 | 2023-11-07 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
+| [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-05 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2023-05-09 |  |
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-09 |  |
@@ -47,6 +51,7 @@
 | [Eventually](https://open.spotify.com/track/3sJwsJwjoyAbGNVwxU7d24) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Eventually](https://open.spotify.com/album/4LusZsXbt0WraluCEPUbMF) | 2:20 | 2023-05-09 |  |
 | [Falling](https://open.spotify.com/track/4E8wWBFP9pcapPCwhaweEu) | [Amida Lei](https://open.spotify.com/artist/02GzPLj2yWvXwcVC1ZRFsx) | [Falling](https://open.spotify.com/album/5w3OkVag9yEJQzY9nY1hVJ) | 3:06 | 2023-05-09 |  |
 | [Farewell](https://open.spotify.com/track/4FJ7BBCJ5Nxo1p8dtWq93K) | [Chris Palmer](https://open.spotify.com/artist/28VnidW62NnJOQAExf4HH6) | [Farewell](https://open.spotify.com/album/78yo6whvPqHfNZ4WZJcW5M) | 1:38 | 2023-05-09 | 2023-06-21 |
+| [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-04 |  |
 | [flor](https://open.spotify.com/track/1ftHK8HKEueKLkKY61TJFr) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1944QlJu9F7lesW1b3X7Hw) | 3:04 | 2023-05-09 | 2023-11-10 |
 | [flor](https://open.spotify.com/track/5VvIqPCeFRYLFlD9XSJrzs) | [Entre Tantas Notas](https://open.spotify.com/artist/028oRjxIqjrDjalf9Uf2vw) | [flor](https://open.spotify.com/album/1Lro5VHOUr0lg0PBqE8dD7) | 3:04 | 2023-11-07 |  |
 | [Follow the Light](https://open.spotify.com/track/5ZBKGYQu4Z0U69UE2MNNMN) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Follow the Light](https://open.spotify.com/album/2v87Aa7L3NsKjr3G0OpPx9) | 1:53 | 2023-05-09 |  |

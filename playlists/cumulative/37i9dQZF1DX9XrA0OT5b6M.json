@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Dear sunrise",
+        "url": "https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo"
+      },
+      "artists": [
+        {
+          "name": "Maki Otsuki",
+          "url": "https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219386,
+      "name": "Dear sunrise",
+      "url": "https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi"
+    },
+    {
+      "album": {
         "name": "SiX",
         "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
@@ -434,6 +452,24 @@
       "duration_ms": 223760,
       "name": "Wake up!",
       "url": "https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2"
+    },
+    {
+      "album": {
+        "name": "\u3042\u30fc\u30fc\u3063\u3059\uff01",
+        "url": "https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1"
+      },
+      "artists": [
+        {
+          "name": "Hiroshi Kitadani",
+          "url": "https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197802,
+      "name": "\u3042\u30fc\u30fc\u3063\u3059\uff01",
+      "url": "https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB"
     },
     {
       "album": {
@@ -924,7 +960,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 88600,
       "name": "\u9802\u4e0a\u6226\u4e89",
       "url": "https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0"

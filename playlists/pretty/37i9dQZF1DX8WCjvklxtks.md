@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WCjvklxtks.md) - [plain]
 
 > A raspar las botas con las más bailables de la banda\. La Adictiva Banda San José de Mesillas en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,355 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,154 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

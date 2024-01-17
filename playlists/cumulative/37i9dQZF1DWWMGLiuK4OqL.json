@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "Pieces of Treasure",
+        "url": "https://open.spotify.com/album/2NnmbJtQghR6oPP96CRHPE"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 151213,
+      "name": "All the Way",
+      "url": "https://open.spotify.com/track/5oGarhTcFKX2KuQ9UtBl19"
+    },
+    {
+      "album": {
         "name": "Always on my mind",
         "url": "https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL"
       },
@@ -1348,6 +1366,24 @@
     {
       "album": {
         "name": "Nikki By Starlight",
+        "url": "https://open.spotify.com/album/6qinGfHy2uxsXICIzwKtnx"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "Comment Allez Vous",
+      "url": "https://open.spotify.com/track/4PpEdpAMhNSRA0iTFxKCtE"
+    },
+    {
+      "album": {
+        "name": "Nikki By Starlight",
         "url": "https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz"
       },
       "artists": [
@@ -1380,7 +1416,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 366306,
       "name": "Cover Up",
       "url": "https://open.spotify.com/track/4uG1SPiRluQnbhRdfsgSYU"
@@ -2630,6 +2666,24 @@
       "duration_ms": 245866,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/2VHSj38QBpDCqCrAYv5ErA"
+    },
+    {
+      "album": {
+        "name": "Isn't It Romantic?",
+        "url": "https://open.spotify.com/album/7lgznc93SEj6gYWbO9MOmi"
+      },
+      "artists": [
+        {
+          "name": "Judy Whitmore",
+          "url": "https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245866,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/6MRAq9ZKRtBV8NzWOcWLwy"
     },
     {
       "album": {
@@ -5340,7 +5394,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 126093,
       "name": "The Game",
       "url": "https://open.spotify.com/track/1g7bWSgup8GCqIGjdM2XfO"

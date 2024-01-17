@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 持續發掘世一超新聲！Cover: Lau Heung King
+> 持續發掘世一超新聲！Cover: Arches
 
-157 songs - 9 hr 4 min
+159 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Dancing in Delirium](https://open.spotify.com/track/6VPECBUXUyqaHNdwJTRaYs) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m) | [Dancing in Delirium](https://open.spotify.com/album/072k6yfPLKbZG2iz7cBL51) | 2:40 | 2023-04-13 |  |
 | [DEMONS](https://open.spotify.com/track/0UMhOCEAdwvxWaZ0K7V6KU) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [DEMONS](https://open.spotify.com/album/4ZCF8pOZliBXL2RhM7VDFW) | 2:27 | 2023-09-15 |  |
 | [do//die](https://open.spotify.com/track/5sr6RPNfMWh9tWF4OqJrWV) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [do//die](https://open.spotify.com/album/0GhcEHmamKaqSOlCc3sWfv) | 2:24 | 2022-11-24 | 2023-04-14 |
+| [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 | 2024-01-11 |  |
 | [Feelings](https://open.spotify.com/track/0WkAHpwITTLqlhYVoxMOYp) | [盧華](https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ) | [Feelings](https://open.spotify.com/album/0fze6yVFkk6MrYRcneUrZq) | 3:33 | 2022-05-26 | 2023-04-14 |
 | [FINE WINE](https://open.spotify.com/track/2TKieTpuTR9fs9u476JpQ3) | [DEREK DALI](https://open.spotify.com/artist/6ysBnLN6adcJ61Icq0KFk6) | [FINE WINE](https://open.spotify.com/album/0fQfupuh1UH7VTkUx4kM1l) | 2:49 | 2023-09-15 |  |
 | [FIREFLY](https://open.spotify.com/track/2BCiUbp91GsIFGJ5STNJb5) | [KALAI 家麗](https://open.spotify.com/artist/1TwAmYMVhBwnBdNVKCHsOT) | [FIREFLY](https://open.spotify.com/album/47RtToMA85gdb9x5weDMLy) | 3:37 | 2023-04-13 |  |
@@ -140,7 +141,8 @@
 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 | 2022-07-28 | 2023-04-14 |
 | [橋橋](https://open.spotify.com/track/6S5GiwCiruw4YSY8S20zdZ) | [MC $oHo & KidNey](https://open.spotify.com/artist/0OzYRJJgttqlhZ63PHMndj) | [橋橋](https://open.spotify.com/album/4Fm76Jj5H8gq8g5BuLC7bD) | 4:12 | 2023-05-11 |  |
 | [歌手職訓101](https://open.spotify.com/track/2tM6ukbTDeDLHPpdPCe3oC) | [Gordon Flanders](https://open.spotify.com/artist/2yMjXqAPoOehNikcWBRdfD) | [歌手職訓101](https://open.spotify.com/album/7HrKG5OOMmKIjMur9xHlDF) | 2:54 | 2023-04-27 |  |
-| [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 |  |
+| [江湖](https://open.spotify.com/track/5ZgBfHfHeVhvN2t5myBaE3) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/3XcdCXNiAgIfVhqRSLow4e) | 3:41 | 2023-12-28 |  |
+| [江湖](https://open.spotify.com/track/2cXTxu3CZrGXSuyLTRSF1c) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [梟](https://open.spotify.com/album/7zq20yZuWRdXJWM3JAszls) | 3:41 | 2022-12-29 | 2024-01-05 |
 | [深山女妖](https://open.spotify.com/track/7ug5EOPE3Wql5P1uw4gBM3) | [P.R.O.J.E.C.T\. 9](https://open.spotify.com/artist/5vXHFDWT0spUFXucafkyV7), [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [Micol](https://open.spotify.com/artist/6sjrXwjrI7oTl73bClCKER) | [深山女妖](https://open.spotify.com/album/6kk0062rrDQoskoXG34PqX) | 4:28 | 2023-06-22 |  |
 | [深水埗](https://open.spotify.com/track/26OsQ62m0ETrCQ7Dby7EVg) | [Novel Fergus](https://open.spotify.com/artist/2JFP3hk2ys0hH6nnoduRkR) | [深水埗](https://open.spotify.com/album/6OuKUVx3AM5Fjz4dluR2mM) | 2:00 | 2022-05-26 | 2023-04-14 |
 | [溫飽藝術家Grounded](https://open.spotify.com/track/3uirvgoCuUj6dHsFKC4hEy) | [TIAB](https://open.spotify.com/artist/2JbEBRuLXBuU1Cm4SLYQJ0), [PetPetShawn](https://open.spotify.com/artist/3yL4X4Lk7qA5q9FShkremM) | [溫飽藝術家Grounded](https://open.spotify.com/album/0WAWOZlVkEwV9V7aIhcWzE) | 2:42 | 2023-11-02 |  |

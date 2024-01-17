@@ -1,735 +1,633 @@
 {
-  "2021-12-25": 263,
-  "2021-12-26": 263,
-  "2021-12-27": 263,
-  "2021-12-28": 263,
-  "2021-12-29": 263,
-  "2021-12-30": 262,
-  "2021-12-31": 262,
-  "2022-01-01": 262,
-  "2022-01-02": 262,
-  "2022-01-03": 262,
-  "2022-01-04": 262,
-  "2022-01-05": 262,
-  "2022-01-06": 262,
-  "2022-01-07": 262,
-  "2022-01-08": 262,
-  "2022-01-09": 262,
-  "2022-01-10": 262,
-  "2022-01-11": 262,
-  "2022-01-12": 262,
-  "2022-01-13": 262,
-  "2022-01-14": 262,
-  "2022-01-15": 262,
-  "2022-01-16": 262,
-  "2022-01-17": 262,
-  "2022-01-18": 262,
-  "2022-01-19": 262,
-  "2022-01-20": 262,
-  "2022-01-21": 262,
-  "2022-01-22": 262,
-  "2022-01-23": 262,
-  "2022-01-24": 261,
-  "2022-01-25": 261,
-  "2022-01-26": 261,
-  "2022-01-27": 261,
-  "2022-01-28": 261,
-  "2022-01-29": 261,
-  "2022-01-30": 261,
-  "2022-01-31": 261,
-  "2022-02-01": 261,
-  "2022-02-02": 261,
-  "2022-02-03": 261,
-  "2022-02-04": 261,
-  "2022-02-05": 261,
-  "2022-02-06": 261,
-  "2022-02-07": 261,
-  "2022-02-08": 261,
-  "2022-02-09": 261,
-  "2022-02-10": 261,
-  "2022-02-11": 261,
-  "2022-02-12": 261,
-  "2022-02-13": 261,
-  "2022-02-14": 261,
-  "2022-02-15": 261,
-  "2022-02-16": 260,
-  "2022-02-17": 260,
-  "2022-02-18": 260,
-  "2022-02-19": 260,
-  "2022-02-20": 260,
-  "2022-02-21": 260,
-  "2022-02-22": 260,
-  "2022-02-23": 260,
-  "2022-02-24": 260,
-  "2022-02-25": 260,
-  "2022-02-26": 261,
-  "2022-02-27": 261,
-  "2022-02-28": 261,
-  "2022-03-01": 261,
-  "2022-03-02": 261,
-  "2022-03-03": 261,
-  "2022-03-04": 261,
-  "2022-03-05": 261,
-  "2022-03-06": 261,
-  "2022-03-07": 261,
-  "2022-03-08": 261,
-  "2022-03-09": 261,
-  "2022-03-10": 261,
-  "2022-03-11": 261,
-  "2022-03-12": 261,
-  "2022-03-13": 261,
-  "2022-03-14": 261,
-  "2022-03-15": 261,
-  "2022-03-16": 261,
-  "2022-03-17": 261,
-  "2022-03-18": 261,
-  "2022-03-19": 261,
-  "2022-03-20": 261,
-  "2022-03-21": 261,
-  "2022-03-22": 261,
-  "2022-03-23": 261,
-  "2022-03-24": 261,
-  "2022-03-25": 261,
-  "2022-03-26": 261,
-  "2022-03-27": 261,
-  "2022-03-28": 261,
-  "2022-03-30": 261,
-  "2022-03-31": 261,
-  "2022-04-01": 261,
-  "2022-04-02": 261,
-  "2022-04-03": 261,
-  "2022-04-04": 257,
-  "2022-04-05": 261,
-  "2022-04-06": 261,
-  "2022-04-07": 261,
-  "2022-04-08": 261,
-  "2022-04-09": 261,
-  "2022-04-10": 261,
-  "2022-04-11": 261,
-  "2022-04-12": 261,
-  "2022-04-13": 261,
-  "2022-04-14": 261,
-  "2022-04-15": 261,
-  "2022-04-16": 261,
-  "2022-04-17": 261,
-  "2022-04-18": 261,
-  "2022-04-19": 261,
-  "2022-04-20": 261,
-  "2022-04-21": 261,
-  "2022-04-22": 261,
-  "2022-04-23": 261,
-  "2022-04-24": 261,
-  "2022-04-25": 261,
-  "2022-04-26": 261,
-  "2022-04-27": 261,
-  "2022-04-28": 261,
-  "2022-04-29": 261,
-  "2022-04-30": 261,
-  "2022-05-01": 261,
-  "2022-05-02": 261,
-  "2022-05-03": 261,
-  "2022-05-04": 261,
-  "2022-05-05": 261,
-  "2022-05-06": 261,
-  "2022-05-07": 261,
-  "2022-05-08": 261,
-  "2022-05-09": 261,
-  "2022-05-10": 261,
-  "2022-05-11": 261,
-  "2022-05-12": 261,
-  "2022-05-13": 261,
-  "2022-05-14": 261,
-  "2022-05-15": 261,
-  "2022-05-16": 261,
-  "2022-05-17": 261,
-  "2022-05-18": 261,
-  "2022-05-19": 261,
-  "2022-05-20": 261,
-  "2022-05-21": 261,
-  "2022-05-22": 261,
-  "2022-05-23": 261,
-  "2022-05-24": 261,
-  "2022-05-25": 261,
-  "2022-05-26": 261,
-  "2022-05-27": 261,
-  "2022-05-28": 261,
-  "2022-05-29": 261,
-  "2022-05-30": 261,
-  "2022-05-31": 261,
-  "2022-06-01": 261,
-  "2022-06-02": 261,
-  "2022-06-03": 261,
-  "2022-06-04": 260,
-  "2022-06-05": 260,
-  "2022-06-06": 260,
-  "2022-06-07": 260,
-  "2022-06-08": 260,
-  "2022-06-09": 260,
-  "2022-06-10": 260,
-  "2022-06-11": 260,
-  "2022-06-12": 260,
-  "2022-06-13": 260,
-  "2022-06-14": 260,
-  "2022-06-15": 260,
-  "2022-06-16": 260,
-  "2022-06-17": 260,
-  "2022-06-18": 260,
-  "2022-06-19": 260,
-  "2022-06-20": 260,
-  "2022-06-21": 260,
-  "2022-06-22": 260,
-  "2022-06-23": 260,
-  "2022-06-24": 260,
-  "2022-06-25": 260,
-  "2022-06-26": 260,
-  "2022-06-27": 260,
-  "2022-06-28": 260,
-  "2022-06-29": 260,
-  "2022-06-30": 260,
-  "2022-07-01": 260,
-  "2022-07-02": 260,
-  "2022-07-03": 260,
-  "2022-07-04": 260,
-  "2022-07-05": 260,
-  "2022-07-06": 260,
-  "2022-07-07": 260,
-  "2022-07-08": 260,
-  "2022-07-09": 260,
-  "2022-07-10": 260,
-  "2022-07-11": 260,
-  "2022-07-12": 260,
-  "2022-07-13": 260,
-  "2022-07-14": 260,
-  "2022-07-15": 260,
-  "2022-07-16": 260,
-  "2022-07-17": 260,
-  "2022-07-18": 260,
-  "2022-07-19": 260,
-  "2022-07-20": 260,
-  "2022-07-21": 260,
-  "2022-07-22": 260,
-  "2022-07-23": 260,
-  "2022-07-24": 260,
-  "2022-07-25": 260,
-  "2022-07-26": 260,
-  "2022-07-27": 260,
-  "2022-07-28": 260,
-  "2022-07-29": 260,
-  "2022-07-30": 260,
-  "2022-07-31": 260,
-  "2022-08-01": 260,
-  "2022-08-02": 260,
-  "2022-08-03": 260,
-  "2022-08-04": 261,
-  "2022-08-05": 261,
-  "2022-08-06": 261,
-  "2022-08-07": 261,
-  "2022-08-08": 261,
-  "2022-08-09": 261,
-  "2022-08-10": 261,
-  "2022-08-11": 261,
-  "2022-08-12": 261,
-  "2022-08-13": 261,
-  "2022-08-14": 261,
-  "2022-08-15": 261,
-  "2022-08-16": 261,
-  "2022-08-17": 261,
-  "2022-08-18": 261,
-  "2022-08-19": 261,
-  "2022-08-20": 261,
-  "2022-08-21": 261,
-  "2022-08-22": 261,
-  "2022-08-23": 261,
-  "2022-08-24": 261,
-  "2022-08-25": 261,
-  "2022-08-26": 261,
-  "2022-08-27": 261,
-  "2022-08-28": 261,
-  "2022-08-29": 261,
-  "2022-08-30": 261,
-  "2022-08-31": 261,
-  "2022-09-01": 261,
-  "2022-09-02": 261,
-  "2022-09-03": 261,
-  "2022-09-04": 261,
-  "2022-09-05": 261,
-  "2022-09-06": 261,
-  "2022-09-07": 261,
-  "2022-09-09": 261,
-  "2022-09-10": 261,
-  "2022-09-11": 261,
-  "2022-09-12": 261,
-  "2022-09-13": 261,
-  "2022-09-15": 261,
-  "2022-09-16": 261,
-  "2022-09-17": 261,
-  "2022-09-18": 261,
-  "2022-09-19": 261,
-  "2022-09-20": 261,
-  "2022-09-21": 261,
-  "2022-09-22": 261,
-  "2022-09-23": 262,
-  "2022-09-24": 262,
-  "2022-09-25": 262,
-  "2022-09-26": 262,
-  "2022-09-27": 262,
-  "2022-09-28": 262,
-  "2022-09-29": 262,
-  "2022-09-30": 262,
-  "2022-10-01": 262,
-  "2022-10-02": 262,
-  "2022-10-03": 262,
-  "2022-10-04": 262,
-  "2022-10-05": 262,
-  "2022-10-06": 262,
-  "2022-10-07": 262,
-  "2022-10-08": 262,
-  "2022-10-09": 261,
-  "2022-10-10": 261,
-  "2022-10-11": 261,
-  "2022-10-12": 261,
-  "2022-10-13": 260,
-  "2022-10-14": 260,
-  "2022-10-15": 260,
-  "2022-10-16": 260,
-  "2022-10-17": 260,
-  "2022-10-18": 260,
-  "2022-10-19": 260,
-  "2022-10-20": 260,
-  "2022-10-21": 260,
-  "2022-10-22": 260,
-  "2022-10-23": 260,
-  "2022-10-24": 260,
-  "2022-10-25": 260,
-  "2022-10-26": 260,
-  "2022-10-27": 260,
-  "2022-10-28": 260,
-  "2022-10-29": 260,
-  "2022-10-30": 260,
-  "2022-10-31": 260,
-  "2022-11-01": 260,
-  "2022-11-02": 261,
-  "2022-11-03": 262,
-  "2022-11-04": 263,
-  "2022-11-05": 263,
-  "2022-11-06": 263,
-  "2022-11-07": 263,
-  "2022-11-08": 263,
-  "2022-11-09": 263,
-  "2022-11-10": 268,
-  "2022-11-11": 270,
-  "2022-11-12": 270,
-  "2022-11-13": 270,
-  "2022-11-14": 270,
-  "2022-11-15": 270,
-  "2022-11-16": 270,
-  "2022-11-17": 270,
-  "2022-11-18": 270,
-  "2022-11-19": 269,
-  "2022-11-20": 263,
-  "2022-11-21": 261,
-  "2022-11-22": 261,
-  "2022-11-23": 261,
-  "2022-11-24": 261,
-  "2022-11-25": 261,
-  "2022-11-26": 261,
-  "2022-11-27": 261,
-  "2022-11-28": 261,
-  "2022-11-29": 261,
-  "2022-11-30": 261,
-  "2022-12-01": 261,
-  "2022-12-02": 261,
-  "2022-12-03": 261,
-  "2022-12-04": 261,
-  "2022-12-05": 261,
-  "2022-12-06": 261,
-  "2022-12-07": 261,
-  "2022-12-08": 261,
-  "2022-12-09": 261,
-  "2022-12-10": 261,
-  "2022-12-11": 261,
-  "2022-12-12": 261,
-  "2022-12-13": 261,
-  "2022-12-14": 260,
-  "2022-12-15": 260,
-  "2022-12-16": 260,
-  "2022-12-17": 260,
-  "2022-12-18": 260,
-  "2022-12-19": 260,
-  "2022-12-20": 260,
-  "2022-12-21": 260,
-  "2022-12-22": 260,
-  "2022-12-24": 260,
-  "2022-12-25": 260,
-  "2022-12-26": 260,
-  "2022-12-27": 260,
-  "2022-12-28": 260,
-  "2022-12-29": 260,
-  "2022-12-30": 260,
-  "2022-12-31": 260,
-  "2023-01-01": 260,
-  "2023-01-02": 260,
-  "2023-01-03": 260,
-  "2023-01-04": 260,
-  "2023-01-05": 260,
-  "2023-01-06": 260,
-  "2023-01-07": 260,
-  "2023-01-08": 260,
-  "2023-01-09": 260,
-  "2023-01-10": 260,
-  "2023-01-11": 260,
-  "2023-01-12": 260,
-  "2023-01-13": 260,
-  "2023-01-14": 260,
-  "2023-01-15": 260,
-  "2023-01-16": 260,
-  "2023-01-17": 260,
-  "2023-01-18": 260,
-  "2023-01-19": 260,
-  "2023-01-20": 260,
-  "2023-01-21": 260,
-  "2023-01-22": 260,
-  "2023-01-23": 260,
-  "2023-01-24": 260,
-  "2023-01-25": 260,
-  "2023-01-26": 260,
-  "2023-01-27": 260,
-  "2023-01-28": 260,
-  "2023-01-29": 260,
-  "2023-01-30": 260,
-  "2023-01-31": 260,
-  "2023-02-01": 260,
-  "2023-02-02": 260,
-  "2023-02-03": 260,
-  "2023-02-04": 260,
-  "2023-02-05": 260,
-  "2023-02-06": 260,
-  "2023-02-07": 260,
-  "2023-02-08": 261,
-  "2023-02-09": 261,
-  "2023-02-10": 261,
-  "2023-02-11": 261,
-  "2023-02-12": 261,
-  "2023-02-13": 261,
-  "2023-02-14": 261,
-  "2023-02-15": 261,
-  "2023-02-16": 261,
-  "2023-02-17": 261,
-  "2023-02-18": 261,
-  "2023-02-19": 261,
-  "2023-02-20": 261,
-  "2023-02-21": 261,
-  "2023-02-22": 261,
-  "2023-02-23": 261,
-  "2023-02-24": 261,
-  "2023-02-25": 261,
-  "2023-02-26": 261,
-  "2023-02-27": 261,
-  "2023-02-28": 261,
-  "2023-03-01": 261,
-  "2023-03-02": 261,
-  "2023-03-03": 261,
-  "2023-03-04": 261,
-  "2023-03-05": 261,
-  "2023-03-06": 261,
-  "2023-03-07": 261,
-  "2023-03-08": 261,
-  "2023-03-09": 261,
-  "2023-03-10": 261,
-  "2023-03-11": 261,
-  "2023-03-12": 261,
-  "2023-03-13": 261,
-  "2023-03-14": 261,
-  "2023-03-15": 261,
-  "2023-03-16": 261,
-  "2023-03-17": 261,
-  "2023-03-18": 261,
-  "2023-03-19": 261,
-  "2023-03-20": 261,
-  "2023-03-21": 261,
-  "2023-03-22": 261,
-  "2023-03-23": 261,
-  "2023-03-24": 261,
-  "2023-03-25": 262,
-  "2023-03-26": 262,
-  "2023-03-27": 262,
-  "2023-03-28": 262,
-  "2023-03-29": 262,
-  "2023-03-30": 262,
-  "2023-03-31": 262,
-  "2023-04-01": 262,
-  "2023-04-02": 262,
-  "2023-04-03": 262,
-  "2023-04-04": 262,
-  "2023-04-05": 262,
-  "2023-04-06": 262,
-  "2023-04-07": 262,
-  "2023-04-09": 262,
-  "2023-04-10": 262,
-  "2023-04-11": 262,
-  "2023-04-12": 262,
-  "2023-04-13": 262,
-  "2023-04-14": 262,
-  "2023-04-15": 262,
-  "2023-04-16": 262,
-  "2023-04-17": 262,
-  "2023-04-18": 262,
-  "2023-04-19": 262,
-  "2023-04-20": 262,
-  "2023-04-21": 262,
-  "2023-04-22": 262,
-  "2023-04-23": 262,
-  "2023-04-24": 262,
-  "2023-04-25": 262,
-  "2023-04-26": 262,
-  "2023-04-27": 262,
-  "2023-04-28": 262,
-  "2023-04-29": 262,
-  "2023-04-30": 262,
-  "2023-05-01": 262,
-  "2023-05-02": 262,
-  "2023-05-03": 262,
-  "2023-05-04": 263,
-  "2023-05-05": 262,
-  "2023-05-06": 262,
-  "2023-05-07": 262,
-  "2023-05-08": 262,
-  "2023-05-09": 262,
-  "2023-05-10": 262,
-  "2023-05-11": 262,
-  "2023-05-12": 262,
-  "2023-05-13": 262,
-  "2023-05-14": 262,
-  "2023-05-15": 262,
-  "2023-05-16": 262,
-  "2023-05-17": 262,
-  "2023-05-18": 262,
-  "2023-05-19": 262,
-  "2023-05-20": 262,
-  "2023-05-21": 262,
-  "2023-05-22": 262,
-  "2023-05-23": 262,
-  "2023-05-24": 261,
-  "2023-05-25": 261,
-  "2023-05-26": 261,
-  "2023-05-27": 261,
-  "2023-05-28": 261,
-  "2023-05-29": 261,
-  "2023-05-30": 261,
-  "2023-05-31": 261,
-  "2023-06-01": 261,
-  "2023-06-02": 261,
-  "2023-06-03": 261,
-  "2023-06-04": 261,
-  "2023-06-05": 261,
-  "2023-06-06": 261,
-  "2023-06-07": 261,
-  "2023-06-08": 261,
-  "2023-06-09": 261,
-  "2023-06-10": 261,
-  "2023-06-11": 261,
-  "2023-06-12": 261,
-  "2023-06-13": 261,
-  "2023-06-14": 261,
-  "2023-06-15": 260,
-  "2023-06-16": 260,
-  "2023-06-17": 260,
-  "2023-06-18": 260,
-  "2023-06-19": 260,
-  "2023-06-20": 260,
-  "2023-06-21": 259,
-  "2023-06-22": 259,
-  "2023-06-23": 259,
-  "2023-06-24": 259,
-  "2023-06-25": 259,
-  "2023-06-26": 259,
-  "2023-06-27": 261,
-  "2023-06-28": 261,
-  "2023-06-29": 260,
-  "2023-06-30": 260,
-  "2023-07-01": 260,
-  "2023-07-02": 260,
-  "2023-07-03": 260,
-  "2023-07-04": 260,
-  "2023-07-05": 260,
-  "2023-07-06": 260,
-  "2023-07-07": 260,
-  "2023-07-08": 260,
-  "2023-07-09": 259,
-  "2023-07-10": 259,
-  "2023-07-11": 259,
-  "2023-07-12": 259,
-  "2023-07-13": 259,
-  "2023-07-14": 259,
-  "2023-07-15": 259,
-  "2023-07-16": 259,
-  "2023-07-17": 259,
-  "2023-07-18": 259,
-  "2023-07-19": 259,
-  "2023-07-20": 259,
-  "2023-07-21": 259,
-  "2023-07-22": 258,
-  "2023-07-23": 258,
-  "2023-07-24": 258,
-  "2023-07-25": 258,
-  "2023-07-26": 258,
-  "2023-07-27": 258,
-  "2023-07-28": 258,
-  "2023-07-29": 258,
-  "2023-07-30": 258,
-  "2023-07-31": 258,
-  "2023-08-01": 258,
-  "2023-08-02": 259,
-  "2023-08-03": 259,
-  "2023-08-04": 259,
-  "2023-08-05": 259,
-  "2023-08-06": 259,
-  "2023-08-07": 259,
-  "2023-08-08": 259,
-  "2023-08-09": 260,
-  "2023-08-10": 260,
-  "2023-08-11": 260,
-  "2023-08-12": 260,
-  "2023-08-13": 260,
-  "2023-08-14": 260,
-  "2023-08-15": 260,
-  "2023-08-16": 260,
-  "2023-08-17": 260,
-  "2023-08-18": 260,
-  "2023-08-19": 260,
-  "2023-08-20": 260,
-  "2023-08-21": 260,
-  "2023-08-22": 260,
-  "2023-08-23": 260,
-  "2023-08-24": 260,
-  "2023-08-25": 260,
-  "2023-08-26": 260,
-  "2023-08-27": 260,
-  "2023-08-28": 260,
-  "2023-08-29": 260,
-  "2023-08-30": 260,
-  "2023-08-31": 260,
-  "2023-09-01": 260,
-  "2023-09-02": 260,
-  "2023-09-03": 260,
-  "2023-09-04": 260,
-  "2023-09-05": 260,
-  "2023-09-06": 260,
-  "2023-09-07": 260,
-  "2023-09-08": 260,
-  "2023-09-09": 260,
-  "2023-09-10": 260,
-  "2023-09-11": 260,
-  "2023-09-12": 260,
-  "2023-09-13": 260,
-  "2023-09-14": 260,
-  "2023-09-15": 260,
-  "2023-09-16": 260,
-  "2023-09-17": 260,
-  "2023-09-18": 260,
-  "2023-09-19": 260,
-  "2023-09-20": 260,
-  "2023-09-21": 260,
-  "2023-09-22": 260,
-  "2023-09-23": 260,
-  "2023-09-24": 260,
-  "2023-09-25": 260,
-  "2023-09-26": 259,
-  "2023-09-27": 259,
-  "2023-09-28": 259,
-  "2023-09-29": 259,
-  "2023-09-30": 259,
-  "2023-10-01": 259,
-  "2023-10-02": 259,
-  "2023-10-03": 259,
-  "2023-10-04": 259,
-  "2023-10-05": 259,
-  "2023-10-06": 259,
-  "2023-10-07": 259,
-  "2023-10-08": 259,
-  "2023-10-09": 259,
-  "2023-10-10": 259,
-  "2023-10-11": 259,
-  "2023-10-12": 259,
-  "2023-10-13": 259,
-  "2023-10-14": 259,
-  "2023-10-15": 259,
-  "2023-10-16": 259,
-  "2023-10-17": 259,
-  "2023-10-18": 259,
-  "2023-10-19": 259,
-  "2023-10-20": 259,
-  "2023-10-21": 259,
-  "2023-10-22": 259,
-  "2023-10-23": 259,
-  "2023-10-24": 259,
-  "2023-10-25": 259,
-  "2023-10-26": 259,
-  "2023-10-27": 259,
-  "2023-10-28": 259,
-  "2023-10-29": 259,
-  "2023-10-30": 259,
-  "2023-10-31": 259,
-  "2023-11-01": 259,
-  "2023-11-02": 259,
-  "2023-11-03": 259,
-  "2023-11-04": 259,
-  "2023-11-05": 259,
-  "2023-11-06": 259,
-  "2023-11-07": 259,
-  "2023-11-08": 259,
-  "2023-11-09": 259,
-  "2023-11-10": 259,
-  "2023-11-11": 259,
-  "2023-11-12": 259,
-  "2023-11-13": 259,
-  "2023-11-14": 259,
-  "2023-11-15": 259,
-  "2023-11-16": 259,
-  "2023-11-17": 259,
-  "2023-11-18": 259,
-  "2023-11-19": 259,
-  "2023-11-20": 259,
-  "2023-11-21": 259,
-  "2023-11-22": 259,
-  "2023-11-23": 259,
-  "2023-11-24": 259,
-  "2023-11-25": 259,
-  "2023-11-26": 259,
-  "2023-11-27": 259,
-  "2023-11-28": 259,
-  "2023-11-29": 259,
-  "2023-11-30": 259,
-  "2023-12-01": 259,
-  "2023-12-02": 259,
-  "2023-12-03": 259,
-  "2023-12-04": 259,
-  "2023-12-05": 259,
-  "2023-12-06": 259,
-  "2023-12-07": 259,
-  "2023-12-08": 259,
-  "2023-12-09": 259,
-  "2023-12-10": 259,
-  "2023-12-11": 259,
-  "2023-12-12": 259,
-  "2023-12-13": 259,
-  "2023-12-14": 258,
-  "2023-12-15": 258,
-  "2023-12-16": 258,
-  "2023-12-17": 258,
-  "2023-12-18": 258,
-  "2023-12-19": 258,
-  "2023-12-20": 258,
-  "2023-12-21": 258,
-  "2023-12-22": 258,
-  "2023-12-23": 258,
-  "2023-12-24": 258,
-  "2023-12-25": 258,
-  "2023-12-26": 258,
-  "2023-12-27": 258,
-  "2023-12-30": 258,
-  "2023-12-31": 258,
-  "2024-01-01": 258,
-  "2024-01-02": 258,
-  "2024-01-03": 258
+  "2024-01-17": 256,
+  "date_first_scraped": "2021-12-21",
+  "description": "&quot;Sleep is the best meditation.&quot; -Dalai Lama",
+  "name": "Nightly Meditations",
+  "tracks": [
+    {
+      "album": {
+        "name": "Entspannung",
+        "url": "https://open.spotify.com/album/1g4psgx0pDkAHJUoE1PPlf"
+      },
+      "artists": [
+        {
+          "name": "Isha Erskine",
+          "url": "https://open.spotify.com/artist/0C1AYF4hqd6mVzl9pwGneD"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287947,
+      "name": "Ambient Meditation",
+      "url": "https://open.spotify.com/track/1tJOhSNKZvWpyMxuV887FZ"
+    },
+    {
+      "album": {
+        "name": "All Will Prosper",
+        "url": "https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "Ashoken Farewell",
+      "url": "https://open.spotify.com/track/1F8eHbbrXTSRQTPLEREItt"
+    },
+    {
+      "album": {
+        "name": "Des Plumes Dans La T\u00eate",
+        "url": "https://open.spotify.com/album/7cjNz6iJnJcUMel8xoDfsr"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Chauveau",
+          "url": "https://open.spotify.com/artist/0IfkFoyLbsgahVvNfPnV2y"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118026,
+      "name": "Blanche Comme L'infini",
+      "url": "https://open.spotify.com/track/1WWV96ynfSoZF0jIq9jXrM"
+    },
+    {
+      "album": {
+        "name": "Song Spells, No.1: Cedarsmoke",
+        "url": "https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ"
+      },
+      "artists": [
+        {
+          "name": "Sea Wolf",
+          "url": "https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Cedarsmoke",
+      "url": "https://open.spotify.com/track/6xBv2Rlq9DiYeTBFno0uR5"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114184,
+      "name": "Departure (Reflection)",
+      "url": "https://open.spotify.com/track/2NhGcMAHy8PNqu0uxqmatC"
+    },
+    {
+      "album": {
+        "name": "Poor Moon",
+        "url": "https://open.spotify.com/album/3BF5fk5AfyJqju6wx4qXEi"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205093,
+      "name": "Dreamwood",
+      "url": "https://open.spotify.com/track/3Ov8v8qH0okeWC4uKswx8S"
+    },
+    {
+      "album": {
+        "name": "Night Currents",
+        "url": "https://open.spotify.com/album/4vLnwl11d2or8FKuL4nY0G"
+      },
+      "artists": [
+        {
+          "name": "Oophoi",
+          "url": "https://open.spotify.com/artist/2MlUYzToSXyCl8suZYhnAy"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 846000,
+      "name": "Floating, Part One",
+      "url": "https://open.spotify.com/track/40150Nw39HsKsBMtFmkUSS"
+    },
+    {
+      "album": {
+        "name": "Relax Music, M\u00fasica Relajaci\u00f3n, Meditation Music, M\u00fasica Meditaci\u00f3n, Reiki Music, Yoga Music (Spiritual Music for Yoga, Mantra, Karma, Tantra, Zen, Mindfullness, Massage & Meditation)",
+        "url": "https://open.spotify.com/album/18DHjcJVxkIBIf7wt2Ku9u"
+      },
+      "artists": [
+        {
+          "name": "Be Mindful",
+          "url": "https://open.spotify.com/artist/4GeJKp4XWky47WHyyvyAg0"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194812,
+      "name": "Garden of Bliss",
+      "url": "https://open.spotify.com/track/5qxZ33XUgm0j3fx8tn4JsS"
+    },
+    {
+      "album": {
+        "name": "Om: Tibetan Gongs, Bowls, Om Chanting and Music for Deep Meditation",
+        "url": "https://open.spotify.com/album/27LzPjGhiPxFSha2xHawFu"
+      },
+      "artists": [
+        {
+          "name": "Om - Tibetan Relaxation",
+          "url": "https://open.spotify.com/artist/2Gjwx7RV70vM50XNKBffIp"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232196,
+      "name": "Hatha Yoga - High Tibetan Singing Bowl For Chakra Meditataion",
+      "url": "https://open.spotify.com/track/26TCOy35ZSRYNmfDk4LVwU"
+    },
+    {
+      "album": {
+        "name": "In",
+        "url": "https://open.spotify.com/album/5rz3jWSJTScuYhuY4ZEuzG"
+      },
+      "artists": [
+        {
+          "name": "ERSATZ",
+          "url": "https://open.spotify.com/artist/2UFZzJy82501ZBlEyH9H0L"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426693,
+      "name": "In The Beginning There Was This",
+      "url": "https://open.spotify.com/track/56DZat6J15YYUVg2ekhX4N"
+    },
+    {
+      "album": {
+        "name": "Borderline EP",
+        "url": "https://open.spotify.com/album/1VxX55qCuKaP5gjHspVWgb"
+      },
+      "artists": [
+        {
+          "name": "Paul Spring",
+          "url": "https://open.spotify.com/artist/3nm10RPR7Ts3qPCwhQBUew"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Itasca",
+      "url": "https://open.spotify.com/track/3qsfBj0XK75ndx6adpE656"
+    },
+    {
+      "album": {
+        "name": "Edgar Meyer",
+        "url": "https://open.spotify.com/album/7HFqnPWC3zNQ5FqG4n2xzw"
+      },
+      "artists": [
+        {
+          "name": "Edgar Meyer",
+          "url": "https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269226,
+      "name": "Just As I Thought",
+      "url": "https://open.spotify.com/track/36uGtAZrcHFtivt7nHSDgQ"
+    },
+    {
+      "album": {
+        "name": "Tibetan Bowls, Bells & Flutes: For Massage, Chakra & Reiki",
+        "url": "https://open.spotify.com/album/4d3zxdW5JOGBGaiOU5Bpcx"
+      },
+      "artists": [
+        {
+          "name": "Massage Tribe",
+          "url": "https://open.spotify.com/artist/14RkTXnwrf6D09TfPWcR5C"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375706,
+      "name": "Karmic Connection - Gongs, Flutes & Chimes",
+      "url": "https://open.spotify.com/track/1bb22zFD77panCj8AOqBrs"
+    },
+    {
+      "album": {
+        "name": "The Sitting Room Piano (Chapter I)",
+        "url": "https://open.spotify.com/album/11lGnHkjB0FdhRvkWP0sVU"
+      },
+      "artists": [
+        {
+          "name": "Dirk Maassen",
+          "url": "https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6"
+        },
+        {
+          "name": "An Imaginal Space",
+          "url": "https://open.spotify.com/artist/0GrXkOv9olscQg0FCluQss"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235280,
+      "name": "Lichter (feat. an Imaginal Space)",
+      "url": "https://open.spotify.com/track/6nxR5xJSuHc71WLiJqa0uR"
+    },
+    {
+      "album": {
+        "name": "Flowers of Silence",
+        "url": "https://open.spotify.com/album/0QvuDxprj9lG4Tf5CxGK96"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370373,
+      "name": "Lotus for Lao Tzu",
+      "url": "https://open.spotify.com/track/3YkDGIAAMBbzIPBfZGu9Uv"
+    },
+    {
+      "album": {
+        "name": "Biutiful",
+        "url": "https://open.spotify.com/album/4qOA2JupYTQ8KGxnoRMeWG"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Escofet",
+          "url": "https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191773,
+      "name": "Meditacion #9",
+      "url": "https://open.spotify.com/track/6HvJ6qqcOzDCqVqLFHN9nR"
+    },
+    {
+      "album": {
+        "name": "Kundalini: Yoga, Meditation, Relaxation",
+        "url": "https://open.spotify.com/album/7z46HD34zZQcgebsYDtZfo"
+      },
+      "artists": [
+        {
+          "name": "Kundalini: Yoga, Meditation, Relaxation",
+          "url": "https://open.spotify.com/artist/2AXNDqT86nQcoDCRrjFPGI"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143204,
+      "name": "Om",
+      "url": "https://open.spotify.com/track/2KeKzT8I8Ek0tQLk60Rq4f"
+    },
+    {
+      "album": {
+        "name": "Om: Tibetan Gongs, Bowls, Om Chanting and Music for Deep Meditation",
+        "url": "https://open.spotify.com/album/27LzPjGhiPxFSha2xHawFu"
+      },
+      "artists": [
+        {
+          "name": "Om - Tibetan Relaxation",
+          "url": "https://open.spotify.com/artist/2Gjwx7RV70vM50XNKBffIp"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615504,
+      "name": "Om Chant",
+      "url": "https://open.spotify.com/track/21n4WLOZgqQQQ4TsdrCkXn"
+    },
+    {
+      "album": {
+        "name": "Ten Thousand Buddhas",
+        "url": "https://open.spotify.com/album/30L8rKad6biW4kavVqQjw8"
+      },
+      "artists": [
+        {
+          "name": "OshO",
+          "url": "https://open.spotify.com/artist/4g0GeoGdzgTwyXdm5NKNom"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392707,
+      "name": "Om Mani Podme Hum",
+      "url": "https://open.spotify.com/track/0qE1BChib5kG1P0lqdEhGA"
+    },
+    {
+      "album": {
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376066,
+      "name": "Om Nashi Me",
+      "url": "https://open.spotify.com/track/1h1S9UXPwutvXLKaa79d2W"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77418,
+      "name": "Only Questions",
+      "url": "https://open.spotify.com/track/2Ua2U7enh9ErAF6DaJh4hg"
+    },
+    {
+      "album": {
+        "name": "Yoga Flutes (For Yoga, Spa, Massage, New Age Relaxation & Reiki)",
+        "url": "https://open.spotify.com/album/3TMeA0zC7LMLh8DjowsOiP"
+      },
+      "artists": [
+        {
+          "name": "Yoga Tribe",
+          "url": "https://open.spotify.com/artist/3uC78ojWmi0c7NdLU7uwvY"
+        },
+        {
+          "name": "Jessita Reyes",
+          "url": "https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108826,
+      "name": "Renew, Reflex - Reflect (With Himalayan Bells & Bowls)",
+      "url": "https://open.spotify.com/track/251r3bYIRnNwwaVNdyOhH4"
+    },
+    {
+      "album": {
+        "name": "Gone To Earth",
+        "url": "https://open.spotify.com/album/3EUFd022KoJbAC5imHT1ba"
+      },
+      "artists": [
+        {
+          "name": "David Sylvian",
+          "url": "https://open.spotify.com/artist/2oyWkw7sq99yqj12hVUHtw"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "Silver Moon Over Sleeping Steeples - Remastered 2003",
+      "url": "https://open.spotify.com/track/1BGLOs2QX1Ig4aO8sbDknx"
+    },
+    {
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/3heNYqE1CUM8WlJGm6UPEj"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124560,
+      "name": "Static Orphans",
+      "url": "https://open.spotify.com/track/217H94y73OgLMiT7LswFEn"
+    },
+    {
+      "album": {
+        "name": "Sustaining Cylinders",
+        "url": "https://open.spotify.com/album/2w4ZV4EHQVaFMKfA6GdqPJ"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1843720,
+      "name": "Sustaining Cylinders",
+      "url": "https://open.spotify.com/track/2xCRGEykOFyem4aHbFgMYO"
+    },
+    {
+      "album": {
+        "name": "All Will Prosper",
+        "url": "https://open.spotify.com/album/675K5zFrbNiUcuHMfLVKix"
+      },
+      "artists": [
+        {
+          "name": "Goldmund",
+          "url": "https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103573,
+      "name": "The Ballad of Barbara Allen",
+      "url": "https://open.spotify.com/track/47yKkSXhPH2YG8hmdGqCpW"
+    },
+    {
+      "album": {
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/20RJRsAPD9Yx3Nols5cAGR"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127640,
+      "name": "The Cascades",
+      "url": "https://open.spotify.com/track/6X3618mK5K2tKZ1w71309J"
+    },
+    {
+      "album": {
+        "name": "Ambient 2: The Plateaux Of Mirror (Remastered 2004)",
+        "url": "https://open.spotify.com/album/5ma9r5NFV0poevmydI2qgO"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133706,
+      "name": "The Chill Air - Remastered 2004",
+      "url": "https://open.spotify.com/track/1ijeMou08IoCT7ZhjPvu42"
+    },
+    {
+      "album": {
+        "name": "Blue Cosmos",
+        "url": "https://open.spotify.com/album/6XpGe8ue2wcvkDc0RWpsff"
+      },
+      "artists": [
+        {
+          "name": "Meg Bowles",
+          "url": "https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527826,
+      "name": "The Fire Sower",
+      "url": "https://open.spotify.com/track/5Pxm2DfLPXVLo9CLboB3bw"
+    },
+    {
+      "album": {
+        "name": "Sleep Music: Lullabies to Help You Relax, Sleep, Meditate and Heal With Relaxing Piano Music, Nature Sounds and Natural Noise",
+        "url": "https://open.spotify.com/album/0yB3m49PTZx8DtWADiO0oy"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep",
+          "url": "https://open.spotify.com/artist/4gGGFclZZyED2i5BgzGAlD"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246153,
+      "name": "Tibetan Singing Bowls",
+      "url": "https://open.spotify.com/track/113Opej4f1BUPFrCVheg71"
+    },
+    {
+      "album": {
+        "name": "Living Room Songs",
+        "url": "https://open.spotify.com/album/4zj4920hZrnQHYv4jGeyjp"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2015-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Tomorrow's Song",
+      "url": "https://open.spotify.com/track/3Cf47MOQsa3ijid90gr5Io"
+    },
+    {
+      "album": {
+        "name": "Where The Earth Meets The Sky",
+        "url": "https://open.spotify.com/album/7pkVlq8EAvPWzMFvvaWZRV"
+      },
+      "artists": [
+        {
+          "name": "Tom Heasley",
+          "url": "https://open.spotify.com/artist/431MDRxvR8Gt8VHD7C4lQh"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 886373,
+      "name": "Western Sky",
+      "url": "https://open.spotify.com/track/6bsbXEl2lH2DT6nSSyJYcl"
+    },
+    {
+      "album": {
+        "name": "Tear of the Moon",
+        "url": "https://open.spotify.com/album/1zNqmNWpaBvqWZ9AniEHkn"
+      },
+      "artists": [
+        {
+          "name": "Coyote Oldman",
+          "url": "https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP"
+        }
+      ],
+      "date_added": "2015-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195773,
+      "name": "Ziricote",
+      "url": "https://open.spotify.com/track/3y1oPeqkIaF23ZtrpecX9g"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/4MLFX9OXy9ncfBlTfei9Ok"
 }

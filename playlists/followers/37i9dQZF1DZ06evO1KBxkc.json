@@ -1,349 +1,1749 @@
 {
-  "2023-01-19": 168284,
-  "2023-01-20": 168418,
-  "2023-01-21": 168575,
-  "2023-01-22": 168730,
-  "2023-01-23": 168868,
-  "2023-01-24": 168956,
-  "2023-01-25": 169109,
-  "2023-01-26": 169242,
-  "2023-01-27": 169349,
-  "2023-01-28": 169457,
-  "2023-01-29": 169555,
-  "2023-01-30": 169634,
-  "2023-01-31": 169634,
-  "2023-02-01": 169858,
-  "2023-02-02": 169961,
-  "2023-02-03": 170059,
-  "2023-02-04": 170173,
-  "2023-02-05": 170314,
-  "2023-02-06": 170461,
-  "2023-02-07": 170526,
-  "2023-02-08": 170663,
-  "2023-02-09": 170663,
-  "2023-02-10": 170765,
-  "2023-02-11": 170837,
-  "2023-02-12": 170971,
-  "2023-02-13": 171042,
-  "2023-02-14": 171042,
-  "2023-02-15": 171099,
-  "2023-02-16": 171190,
-  "2023-02-17": 171284,
-  "2023-02-18": 171409,
-  "2023-02-19": 171424,
-  "2023-02-20": 171480,
-  "2023-02-21": 171554,
-  "2023-02-22": 171698,
-  "2023-02-23": 171796,
-  "2023-02-24": 171908,
-  "2023-02-25": 172055,
-  "2023-02-26": 172130,
-  "2023-02-27": 172338,
-  "2023-02-28": 172338,
-  "2023-03-01": 172442,
-  "2023-03-02": 172592,
-  "2023-03-03": 172723,
-  "2023-03-04": 172830,
-  "2023-03-05": 173016,
-  "2023-03-06": 173016,
-  "2023-03-07": 173131,
-  "2023-03-08": 173277,
-  "2023-03-09": 173424,
-  "2023-03-10": 173553,
-  "2023-03-11": 173690,
-  "2023-03-12": 173792,
-  "2023-03-13": 173876,
-  "2023-03-14": 173968,
-  "2023-03-15": 174056,
-  "2023-03-16": 174056,
-  "2023-03-17": 174056,
-  "2023-03-18": 174391,
-  "2023-03-19": 174391,
-  "2023-03-20": 174586,
-  "2023-03-21": 174708,
-  "2023-03-22": 174870,
-  "2023-03-23": 175054,
-  "2023-03-24": 175054,
-  "2023-03-25": 175421,
-  "2023-03-26": 175623,
-  "2023-03-27": 175775,
-  "2023-03-28": 175942,
-  "2023-03-29": 176119,
-  "2023-03-30": 176367,
-  "2023-03-31": 176367,
-  "2023-04-01": 176470,
-  "2023-04-02": 176578,
-  "2023-04-03": 176693,
-  "2023-04-04": 176810,
-  "2023-04-05": 176918,
-  "2023-04-06": 177050,
-  "2023-04-07": 177162,
-  "2023-04-09": 177379,
-  "2023-04-10": 177447,
-  "2023-04-11": 177659,
-  "2023-04-12": 177659,
-  "2023-04-13": 177770,
-  "2023-04-14": 177859,
-  "2023-04-15": 177948,
-  "2023-04-16": 178023,
-  "2023-04-17": 178096,
-  "2023-04-18": 178202,
-  "2023-04-19": 178304,
-  "2023-04-20": 178382,
-  "2023-04-21": 178467,
-  "2023-04-22": 178586,
-  "2023-04-23": 178649,
-  "2023-04-24": 178721,
-  "2023-04-25": 178802,
-  "2023-04-26": 178870,
-  "2023-04-27": 178951,
-  "2023-04-28": 179076,
-  "2023-04-29": 179191,
-  "2023-04-30": 179274,
-  "2023-05-01": 179355,
-  "2023-05-02": 179410,
-  "2023-05-03": 179502,
-  "2023-05-04": 179585,
-  "2023-05-05": 179659,
-  "2023-05-06": 179769,
-  "2023-05-07": 179844,
-  "2023-05-08": 179901,
-  "2023-05-09": 180001,
-  "2023-05-10": 180081,
-  "2023-05-11": 180179,
-  "2023-05-12": 180268,
-  "2023-05-13": 180350,
-  "2023-05-14": 180408,
-  "2023-05-15": 180476,
-  "2023-05-16": 180547,
-  "2023-05-17": 180643,
-  "2023-05-18": 180728,
-  "2023-05-19": 180826,
-  "2023-05-20": 180987,
-  "2023-05-21": 180987,
-  "2023-05-22": 180987,
-  "2023-05-23": 181129,
-  "2023-05-24": 181265,
-  "2023-05-25": 181275,
-  "2023-05-26": 181347,
-  "2023-05-27": 181379,
-  "2023-05-28": 181433,
-  "2023-05-29": 181433,
-  "2023-05-30": 181531,
-  "2023-05-31": 181585,
-  "2023-06-01": 181668,
-  "2023-06-02": 181737,
-  "2023-06-03": 181822,
-  "2023-06-04": 181879,
-  "2023-06-05": 181962,
-  "2023-06-06": 182043,
-  "2023-06-07": 182114,
-  "2023-06-08": 182206,
-  "2023-06-09": 182286,
-  "2023-06-10": 182380,
-  "2023-06-11": 182459,
-  "2023-06-12": 182533,
-  "2023-06-13": 182617,
-  "2023-06-14": 182705,
-  "2023-06-15": 182801,
-  "2023-06-16": 182889,
-  "2023-06-17": 182998,
-  "2023-06-18": 183082,
-  "2023-06-19": 183183,
-  "2023-06-20": 183378,
-  "2023-06-21": 183585,
-  "2023-06-22": 183720,
-  "2023-06-23": 183874,
-  "2023-06-24": 183983,
-  "2023-06-25": 184109,
-  "2023-06-26": 184223,
-  "2023-06-27": 184303,
-  "2023-06-28": 184354,
-  "2023-06-29": 184422,
-  "2023-06-30": 184506,
-  "2023-07-01": 184633,
-  "2023-07-02": 184633,
-  "2023-07-03": 184698,
-  "2023-07-04": 184759,
-  "2023-07-05": 184820,
-  "2023-07-06": 184921,
-  "2023-07-07": 184921,
-  "2023-07-08": 185000,
-  "2023-07-09": 185034,
-  "2023-07-10": 185082,
-  "2023-07-11": 185132,
-  "2023-07-12": 185194,
-  "2023-07-13": 185242,
-  "2023-07-14": 185269,
-  "2023-07-15": 185291,
-  "2023-07-16": 185359,
-  "2023-07-17": 185403,
-  "2023-07-18": 185457,
-  "2023-07-19": 185513,
-  "2023-07-20": 185555,
-  "2023-07-21": 185614,
-  "2023-07-22": 185680,
-  "2023-07-23": 185753,
-  "2023-07-24": 185806,
-  "2023-07-25": 185879,
-  "2023-07-26": 185945,
-  "2023-07-27": 186011,
-  "2023-07-28": 186086,
-  "2023-07-29": 186153,
-  "2023-07-30": 186180,
-  "2023-07-31": 186215,
-  "2023-08-01": 186260,
-  "2023-08-02": 186294,
-  "2023-08-03": 186320,
-  "2023-08-04": 186375,
-  "2023-08-05": 186427,
-  "2023-08-06": 186518,
-  "2023-08-07": 186518,
-  "2023-08-08": 186570,
-  "2023-08-09": 186610,
-  "2023-08-10": 186652,
-  "2023-08-11": 186674,
-  "2023-08-12": 186674,
-  "2023-08-13": 186674,
-  "2023-08-14": 186853,
-  "2023-08-15": 186853,
-  "2023-08-16": 186853,
-  "2023-08-17": 187007,
-  "2023-08-18": 187007,
-  "2023-08-19": 187007,
-  "2023-08-20": 187153,
-  "2023-08-21": 187153,
-  "2023-08-22": 187227,
-  "2023-08-23": 187227,
-  "2023-08-24": 187334,
-  "2023-08-25": 187334,
-  "2023-08-26": 187423,
-  "2023-08-27": 187423,
-  "2023-08-28": 187475,
-  "2023-08-29": 187475,
-  "2023-08-30": 187475,
-  "2023-08-31": 187590,
-  "2023-09-01": 187634,
-  "2023-09-02": 187634,
-  "2023-09-03": 187712,
-  "2023-09-04": 187712,
-  "2023-09-05": 187712,
-  "2023-09-06": 187844,
-  "2023-09-07": 187844,
-  "2023-09-08": 187844,
-  "2023-09-09": 187844,
-  "2023-09-10": 188100,
-  "2023-09-11": 188100,
-  "2023-09-12": 188100,
-  "2023-09-13": 188212,
-  "2023-09-14": 188212,
-  "2023-09-15": 188212,
-  "2023-09-16": 188402,
-  "2023-09-17": 188402,
-  "2023-09-18": 188402,
-  "2023-09-19": 188513,
-  "2023-09-20": 188513,
-  "2023-09-21": 188513,
-  "2023-09-22": 188625,
-  "2023-09-23": 188625,
-  "2023-09-24": 188625,
-  "2023-09-25": 188625,
-  "2023-09-26": 188790,
-  "2023-09-27": 188790,
-  "2023-09-28": 188790,
-  "2023-09-29": 188790,
-  "2023-09-30": 188790,
-  "2023-10-01": 188790,
-  "2023-10-02": 189094,
-  "2023-10-03": 189094,
-  "2023-10-04": 189094,
-  "2023-10-05": 189240,
-  "2023-10-06": 189240,
-  "2023-10-07": 189240,
-  "2023-10-08": 189240,
-  "2023-10-09": 189240,
-  "2023-10-10": 189240,
-  "2023-10-11": 189314,
-  "2023-10-12": 189314,
-  "2023-10-13": 189314,
-  "2023-10-14": 189314,
-  "2023-10-15": 189314,
-  "2023-10-16": 189314,
-  "2023-10-17": 189314,
-  "2023-10-18": 189314,
-  "2023-10-19": 189314,
-  "2023-10-20": 189314,
-  "2023-10-21": 189314,
-  "2023-10-22": 189314,
-  "2023-10-23": 189314,
-  "2023-10-24": 189314,
-  "2023-10-25": 189314,
-  "2023-10-26": 189314,
-  "2023-10-27": 189314,
-  "2023-10-28": 189314,
-  "2023-10-29": 189314,
-  "2023-10-30": 189314,
-  "2023-10-31": 189314,
-  "2023-11-01": 189314,
-  "2023-11-02": 189314,
-  "2023-11-03": 189314,
-  "2023-11-04": 189314,
-  "2023-11-05": 189314,
-  "2023-11-06": 189314,
-  "2023-11-07": 189314,
-  "2023-11-08": 189314,
-  "2023-11-09": 189314,
-  "2023-11-10": 189314,
-  "2023-11-11": 190017,
-  "2023-11-12": 190017,
-  "2023-11-13": 190017,
-  "2023-11-14": 190017,
-  "2023-11-15": 190017,
-  "2023-11-16": 190017,
-  "2023-11-17": 190017,
-  "2023-11-18": 190017,
-  "2023-11-19": 190017,
-  "2023-11-20": 190017,
-  "2023-11-21": 190017,
-  "2023-11-22": 190017,
-  "2023-11-23": 190017,
-  "2023-11-24": 190017,
-  "2023-11-25": 190017,
-  "2023-11-26": 190017,
-  "2023-11-27": 190017,
-  "2023-11-28": 190017,
-  "2023-11-29": 190017,
-  "2023-11-30": 190017,
-  "2023-12-01": 190017,
-  "2023-12-02": 190017,
-  "2023-12-03": 190017,
-  "2023-12-04": 190017,
-  "2023-12-05": 190017,
-  "2023-12-06": 190017,
-  "2023-12-07": 190017,
-  "2023-12-08": 190017,
-  "2023-12-09": 190017,
-  "2023-12-10": 190017,
-  "2023-12-11": 190017,
-  "2023-12-12": 190017,
-  "2023-12-13": 190017,
-  "2023-12-14": 190960,
-  "2023-12-15": 190994,
-  "2023-12-16": 191042,
-  "2023-12-17": 191066,
-  "2023-12-18": 191094,
-  "2023-12-19": 191127,
-  "2023-12-20": 191134,
-  "2023-12-21": 191155,
-  "2023-12-22": 191188,
-  "2023-12-23": 191221,
-  "2023-12-24": 191246,
-  "2023-12-25": 191271,
-  "2023-12-26": 191274,
-  "2023-12-27": 191319,
-  "2023-12-30": 191385,
-  "2023-12-31": 191402,
-  "2024-01-01": 191416,
-  "2024-01-02": 191442,
-  "2024-01-03": 191448
+  "2024-01-17": 191336,
+  "date_first_scraped": "2023-01-19",
+  "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
+  "name": "This Is A Boogie Wit da Hoodie",
+  "tracks": [
+    {
+      "album": {
+        "name": "24 Hours (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/3nyQMczxyW20jgN3f8Qe9N"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 205702,
+      "name": "24 Hours (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/0YH1xT3Z7wR6dZyaCwSziK"
+    },
+    {
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205702,
+      "name": "24 Hours (feat. Lil Durk) [Bonus]",
+      "url": "https://open.spotify.com/track/4O7FYAjDATiyylfIIAuRNE"
+    },
+    {
+      "album": {
+        "name": "Already Know",
+        "url": "https://open.spotify.com/album/4WzqoNvuz17jbj8dSg4quA"
+      },
+      "artists": [
+        {
+          "name": "Yung Pooda",
+          "url": "https://open.spotify.com/artist/1mfiClklwHVNZySnN2K1Ai"
+        },
+        {
+          "name": "Angelica Vila",
+          "url": "https://open.spotify.com/artist/4uGEwrSd2U7vy5jyEK5qLX"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 163310,
+      "name": "Already Know",
+      "url": "https://open.spotify.com/track/1ULXtm9lperZGjyVW8IYyB"
+    },
+    {
+      "album": {
+        "name": "Ask (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/2gMtZrMgZ3SIDETUbApfwj"
+      },
+      "artists": [
+        {
+          "name": "Tay B",
+          "url": "https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 156404,
+      "name": "Ask (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4hMugsbwjPBoyYwCIsqnoD"
+    },
+    {
+      "album": {
+        "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+        "url": "https://open.spotify.com/album/0tk8XMpaIuk587IlC8aIfP"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 178041,
+      "name": "B.R.O. (Better Ride Out) [feat. Roddy Ricch]",
+      "url": "https://open.spotify.com/track/23pGZ6n6Xd3yV7qK4xw7dx"
+    },
+    {
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174100,
+      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
+    },
+    {
+      "album": {
+        "name": "Ballin",
+        "url": "https://open.spotify.com/album/0dzZgJ3jzWe2WD7rG6nPaE"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 176133,
+      "name": "Ballin",
+      "url": "https://open.spotify.com/track/2eWHHPZS4pb7mEMcow4bqT"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176958,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/5XzombolzpiaOSTdj1W0VS"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196618,
+      "name": "Blood On My Denim",
+      "url": "https://open.spotify.com/track/0LHWHUcUYhFAUkCt2q4Gad"
+    },
+    {
+      "album": {
+        "name": "Booby Trap",
+        "url": "https://open.spotify.com/album/0hgNcobdiPWSRYZMuBlJph"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136973,
+      "name": "Booby Trap",
+      "url": "https://open.spotify.com/track/4DaPOR4NVoIR8QOlWBn0r7"
+    },
+    {
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 136973,
+      "name": "Booby Trap",
+      "url": "https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 181625,
+      "name": "Bounce Back",
+      "url": "https://open.spotify.com/track/79A2BaLkeTqE1ShSEKrSaa"
+    },
+    {
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5rurggqwwudn9clMdcchxT"
+    },
+    {
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Chills (LA Hills)",
+      "url": "https://open.spotify.com/track/2N5cFPLy0TIasTWkfT1hri"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287555,
+      "name": "D.T.B. (Interlude)",
+      "url": "https://open.spotify.com/track/6dKHEOxmG7I6SraR7QFT6e"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214592,
+      "name": "Demons and Angels (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/3L19besdNQzd342qL78xqm"
+    },
+    {
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Did Me Wrong",
+      "url": "https://open.spotify.com/track/2hkcNrUwTVwKqjfUO1Kx3d"
+    },
+    {
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
+    },
+    {
+      "album": {
+        "name": "Drowning (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174517,
+      "name": "Drowning - Sped Up Version",
+      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214857,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+    },
+    {
+      "album": {
+        "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158994,
+      "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
+    },
+    {
+      "album": {
+        "name": "BEFORE LOVE CAME TO KILL US (Deluxe)",
+        "url": "https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215213,
+      "name": "FAR AWAY II (feat. A Boogie Wit da Hoodie & JID)",
+      "url": "https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/5GfZjk9VyJRX8wZKwSbT88"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6nCV2ldwVNe7xjRDgXO7ZC"
+    },
+    {
+      "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161120,
+      "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235776,
+      "name": "Friend Zone",
+      "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
+    },
+    {
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 202133,
+      "name": "Glasses",
+      "url": "https://open.spotify.com/track/3CUqjIsPPuncCJFIydwq5a"
+    },
+    {
+      "album": {
+        "name": "Head Melodies",
+        "url": "https://open.spotify.com/album/6re1rqVtyS8MqSe5iKbz9P"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 231111,
+      "name": "Head Melodies",
+      "url": "https://open.spotify.com/track/0AyY8MxDo1xasovQD79Man"
+    },
+    {
+      "album": {
+        "name": "Head Melodies",
+        "url": "https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj"
+      },
+      "artists": [
+        {
+          "name": "Luh Kel",
+          "url": "https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Head Melodies",
+      "url": "https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190534,
+      "name": "Hello (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2r6OAV3WsYtXuXjvJ1lIDi"
+    },
+    {
+      "album": {
+        "name": "B4 BOA",
+        "url": "https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Her Birthday",
+      "url": "https://open.spotify.com/track/3QFsrWUa6maL7T9K6LoCmd"
+    },
+    {
+      "album": {
+        "name": "HO4ME",
+        "url": "https://open.spotify.com/album/3PZSUpUm106HYZ1nkB9xe0"
+      },
+      "artists": [
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 235711,
+      "name": "HO4ME",
+      "url": "https://open.spotify.com/track/7hrcHfHWaLhooHzGltlCYB"
+    },
+    {
+      "album": {
+        "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249240,
+      "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/6RTLnOk36W68I78qjRi0XB"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135017,
+      "name": "It's Crazy (feat. Melody)",
+      "url": "https://open.spotify.com/track/43KDvvVHjDBtx8qD5hs5qH"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174192,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5uZm7EFtP5aoTJvx5gv9Xf"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220888,
+      "name": "Just Like Me (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/0uH6JssU7mWkTT9mqeqEvL"
+    },
+    {
+      "album": {
+        "name": "Day69: Graduation Day",
+        "url": "https://open.spotify.com/album/1ubczeMvCrPHbSEjgfu4a7"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 151914,
+      "name": "KEKE",
+      "url": "https://open.spotify.com/track/14PlDNjNh3pXyHXzkhX8n5"
+    },
+    {
+      "album": {
+        "name": "Day69: Graduation Day",
+        "url": "https://open.spotify.com/album/5RPGNLQhSag601FMPT2VW6"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151914,
+      "name": "KEKE",
+      "url": "https://open.spotify.com/track/7ELPiYjcp2DjvbrKdqcAx1"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/4bgfOF85wLRLtVtDeuwlNH"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179209,
+      "name": "Last Time (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/5rDt0wjt4BrYGrveWoIKXB"
+    },
+    {
+      "album": {
+        "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/58Y1ZnM9IYAywv0lOWPZBg"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 153735,
+      "name": "Lay Up N\u2019 Chill (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6FxdAycUNPT8gHH5JhG2xI"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179449,
+      "name": "Look Back at It",
+      "url": "https://open.spotify.com/track/3Ol2xnObFdKV9pmRD2t9x8"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157862,
+      "name": "Love Drugs and Sex",
+      "url": "https://open.spotify.com/track/1Gno5IBUHh6vUKp4nxu2Yd"
+    },
+    {
+      "album": {
+        "name": "B4 AVA",
+        "url": "https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215303,
+      "name": "Man in the Mirror",
+      "url": "https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Me and My Guitar",
+      "url": "https://open.spotify.com/track/6cZH4rX1KTt1aJ3Ql6Ynja"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191861,
+      "name": "Money Conversations",
+      "url": "https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 191861,
+      "name": "Money Conversations",
+      "url": "https://open.spotify.com/track/6ZGJxCrdcILAro3kM3wvRA"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 200474,
+      "name": "Monica Lewinsky (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4hTErxf8ZqFNGH0hZqEoAI"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200474,
+      "name": "Monica Lewinsky [Feat. A Boogie Wit da Hoodie]",
+      "url": "https://open.spotify.com/track/0am7uLivhU1mwPNYpK30al"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 156960,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/0VZe8C7xgAIQC0E0qEVIEh"
+    },
+    {
+      "album": {
+        "name": "MVP (feat. G-Eazy)",
+        "url": "https://open.spotify.com/album/4pyhYSKl4jBqkemyG94DSG"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173948,
+      "name": "MVP (feat. G-Eazy)",
+      "url": "https://open.spotify.com/track/3iRCr53b2ZOvoKMTNvBn5d"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128156,
+      "name": "My Shit",
+      "url": "https://open.spotify.com/track/5uQOauh47VFt3B2kV9kRXw"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 206294,
+      "name": "Needed That",
+      "url": "https://open.spotify.com/track/1Pgu551wrKnGA82NiytP9G"
+    },
+    {
+      "album": {
+        "name": "No 808\u2019s (feat. Vory)",
+        "url": "https://open.spotify.com/album/2XToR89sscO3iyINxEvv7Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 200000,
+      "name": "No 808\u2019s (feat. Vory)",
+      "url": "https://open.spotify.com/track/7E68rHH6CrKbBYPfpiCLiQ"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0",
+        "url": "https://open.spotify.com/album/0cZAE6guibfcYmTZD7hiae"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188563,
+      "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
+      "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
+    },
+    {
+      "album": {
+        "name": "Party (feat. A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210315,
+      "name": "Party (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0"
+    },
+    {
+      "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293434,
+      "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
+      "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "album": {
+        "name": "PMR (feat. A Boogie wit da Hoodie)",
+        "url": "https://open.spotify.com/album/64QGA3ueY3dG8RZvmolsgI"
+      },
+      "artists": [
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 136176,
+      "name": "PMR (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/72etwrPRuhvISzuCc9w81f"
+    },
+    {
+      "album": {
+        "name": "Hood Life Krisis Vol. 3 EP",
+        "url": "https://open.spotify.com/album/7hnTROF1tApL0cLtQIztFA"
+      },
+      "artists": [
+        {
+          "name": "J.I the Prince of N.Y",
+          "url": "https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212695,
+      "name": "R&B Shit (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/70C5mlnBodNJqRYpQi7O9x"
+    },
+    {
+      "album": {
+        "name": "Remember That (feat. A Boogie wit da Hoodie)",
+        "url": "https://open.spotify.com/album/7jUo1wxEtUCyHZaLvPIdO1"
+      },
+      "artists": [
+        {
+          "name": "RJAE",
+          "url": "https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 198461,
+      "name": "Remember That (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/470JBksqa9k9VlTs0kA7f6"
+    },
+    {
+      "album": {
+        "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/36Mq31otog86NGRflpMmkg"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254999,
+      "name": "Right Back (feat. A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/6PYnUsNEpYC7A4BS2sjw3L"
+    },
+    {
+      "album": {
+        "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
+        "url": "https://open.spotify.com/album/1U0q68MEzbooMCtsjn4oLe"
+      },
+      "artists": [
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 171938,
+      "name": "Run It Up (feat. Sleepy Hallow & A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/1GjWE4T7qZNeIy1hgm98R9"
+    },
+    {
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 214853,
+      "name": "Say A'",
+      "url": "https://open.spotify.com/track/3AMnOVxEHUgVrythGgqPhI"
+    },
+    {
+      "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Skeezers",
+      "url": "https://open.spotify.com/track/2A4vCndSkZ3jd5nfh3a8gc"
+    },
+    {
+      "album": {
+        "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+        "url": "https://open.spotify.com/album/7LMJKPGcBZjZf6AEnTBS2t"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296011,
+      "name": "Slide (Remix) (feat. Pop Smoke, A Boogie Wit da Hoodie & Chris Brown) (feat. Pop Smoke)",
+      "url": "https://open.spotify.com/track/6MO2bfLHKykUgCChFdw91H"
+    },
+    {
+      "album": {
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/2tGRWs8mrUVyjgbMIQpWQN"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/735RSTb2xbtWbDtKD9XDYi"
+    },
+    {
+      "album": {
+        "name": "Artist",
+        "url": "https://open.spotify.com/album/2OQEAqShAl6SodrGhmYZ4Z"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246987,
+      "name": "Still Think About You",
+      "url": "https://open.spotify.com/track/2FTeQQ5Rg9tBpgpTF5mnhE"
+    },
+    {
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143493,
+      "name": "Stretch You Out (feat. A Boogie wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4Qxn47gWPSucovKrMyRf1z"
+    },
+    {
+      "album": {
+        "name": "Hoodie SZN",
+        "url": "https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189486,
+      "name": "Swervin (feat. 6ix9ine)",
+      "url": "https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6"
+    },
+    {
+      "album": {
+        "name": "Take Shots (feat. Tory Lanez)",
+        "url": "https://open.spotify.com/album/6ZDt6HZAFajVtwvNOjJb2b"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 281985,
+      "name": "Take Shots (feat. Tory Lanez)",
+      "url": "https://open.spotify.com/track/2tFwYCvY0x9IfeW63AdMpM"
+    },
+    {
+      "album": {
+        "name": "TBA",
+        "url": "https://open.spotify.com/album/2apbRBAafIKmcWwESmLHJi"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "DJ SpinKing",
+          "url": "https://open.spotify.com/artist/1qSJaftSab2kTTsj7fLxvM"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Timeless (feat. DJ SPINKING)",
+      "url": "https://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe"
+    },
+    {
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Tip Toe (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/6ztvsy3C6hPjVg9j4x1XKJ"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 185201,
+      "name": "Turn Off The Radio",
+      "url": "https://open.spotify.com/track/1Jm9YFU7BLkDR2dSOb8ebB"
+    },
+    {
+      "album": {
+        "name": "DUMMY BOY",
+        "url": "https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 128769,
+      "name": "WAKA",
+      "url": "https://open.spotify.com/track/6ZyjQTlZxDtdjYKDwcAWNk"
+    },
+    {
+      "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128769,
+      "name": "WAKA (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/4uax9U22ZAdqUxTMF1beUf"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
+    },
+    {
+      "album": {
+        "name": "Scriptures",
+        "url": "https://open.spotify.com/album/7FYP4Y8W3UJK4YCN0efAi3"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "YNW Melly",
+          "url": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332195,
+      "name": "Young Grizzley World (feat. A Boogie Wit Da Hoodie & YNW Melly)",
+      "url": "https://open.spotify.com/track/2HsSzwrvvgiYSCdsYLiJWB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBxkc"
 }

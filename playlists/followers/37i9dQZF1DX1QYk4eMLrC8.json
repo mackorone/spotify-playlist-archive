@@ -1,78 +1,535 @@
 {
-  "2023-10-18": 0,
-  "2023-10-19": 4,
-  "2023-10-20": 11,
-  "2023-10-21": 23,
-  "2023-10-22": 37,
-  "2023-10-23": 51,
-  "2023-10-24": 61,
-  "2023-10-25": 72,
-  "2023-10-26": 94,
-  "2023-10-27": 105,
-  "2023-10-28": 121,
-  "2023-10-29": 126,
-  "2023-10-30": 152,
-  "2023-10-31": 152,
-  "2023-11-01": 157,
-  "2023-11-02": 174,
-  "2023-11-03": 187,
-  "2023-11-04": 203,
-  "2023-11-05": 219,
-  "2023-11-06": 227,
-  "2023-11-07": 241,
-  "2023-11-08": 245,
-  "2023-11-09": 254,
-  "2023-11-10": 262,
-  "2023-11-11": 274,
-  "2023-11-12": 283,
-  "2023-11-13": 293,
-  "2023-11-14": 308,
-  "2023-11-15": 308,
-  "2023-11-16": 331,
-  "2023-11-17": 356,
-  "2023-11-18": 356,
-  "2023-11-19": 370,
-  "2023-11-20": 378,
-  "2023-11-21": 392,
-  "2023-11-22": 405,
-  "2023-11-23": 414,
-  "2023-11-24": 422,
-  "2023-11-25": 433,
-  "2023-11-26": 443,
-  "2023-11-27": 454,
-  "2023-11-28": 465,
-  "2023-11-29": 504,
-  "2023-11-30": 504,
-  "2023-12-01": 517,
-  "2023-12-02": 526,
-  "2023-12-03": 539,
-  "2023-12-04": 545,
-  "2023-12-05": 551,
-  "2023-12-06": 558,
-  "2023-12-07": 567,
-  "2023-12-08": 567,
-  "2023-12-09": 569,
-  "2023-12-10": 577,
-  "2023-12-11": 576,
-  "2023-12-12": 585,
-  "2023-12-13": 587,
-  "2023-12-14": 588,
-  "2023-12-15": 592,
-  "2023-12-16": 597,
-  "2023-12-17": 605,
-  "2023-12-18": 608,
-  "2023-12-19": 612,
-  "2023-12-20": 614,
-  "2023-12-21": 617,
-  "2023-12-22": 621,
-  "2023-12-23": 622,
-  "2023-12-24": 628,
-  "2023-12-25": 630,
-  "2023-12-26": 635,
-  "2023-12-27": 640,
-  "2023-12-30": 650,
-  "2023-12-31": 653,
-  "2024-01-01": 656,
-  "2024-01-02": 659,
-  "2024-01-03": 662
+  "2024-01-17": 707,
+  "date_first_scraped": "2023-10-18",
+  "description": "Saiko takes over Fuego! Featuring Myke Towers, Feid, Cruz Cafun\u00e9 & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
+  "name": "Fuego #072 - Saiko's Mixtape",
+  "tracks": [
+    {
+      "album": {
+        "name": "13/18",
+        "url": "https://open.spotify.com/album/2vqsIpeznjILJ2pnouZdXe"
+      },
+      "artists": [
+        {
+          "name": "DELLAFUENTE",
+          "url": "https://open.spotify.com/artist/4bJh7sMPcVRiqe5jlnsWQV"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213368,
+      "name": "13/18",
+      "url": "https://open.spotify.com/track/0rO36aEzoamawMEAo8ivCL"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "712PM",
+      "url": "https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R"
+    },
+    {
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1vjvZkoc8FZz26axllh6yD"
+    },
+    {
+      "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186091,
+      "name": "Air France",
+      "url": "https://open.spotify.com/track/6wrHRPtw1Z37iP5PGDbS6g"
+    },
+    {
+      "album": {
+        "name": "5 Noches en el Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/3GOLtIQTw4gCyZyyfIzq3C"
+      },
+      "artists": [
+        {
+          "name": "Raul Clyde",
+          "url": "https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136421,
+      "name": "BUENISSSIMA",
+      "url": "https://open.spotify.com/track/2F9HWvzgiLAIuhGdK0NoQA"
+    },
+    {
+      "album": {
+        "name": "Chambean",
+        "url": "https://open.spotify.com/album/5JyYjkVmEgpPet9nOTvuL3"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Chambean",
+      "url": "https://open.spotify.com/track/27xdbLOIQOd3wdAsDCbvBz"
+    },
+    {
+      "album": {
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/5Elzn9h8VI6e6tvnfzCoPS"
+      },
+      "artists": [
+        {
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168168,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/70KOjiemVZgKODq1M0rovb"
+    },
+    {
+      "album": {
+        "name": "Antes de Ameri",
+        "url": "https://open.spotify.com/album/26nUVuonXEdbJTo9PeBYoR"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250933,
+      "name": "CSIpher (audio latino)",
+      "url": "https://open.spotify.com/track/4bp3MHLtiKfPaNL3iSbQ20"
+    },
+    {
+      "album": {
+        "name": "CODA",
+        "url": "https://open.spotify.com/album/4Z3uC2a3xxwnTCeCbAz6t1"
+      },
+      "artists": [
+        {
+          "name": "Yeruza",
+          "url": "https://open.spotify.com/artist/6NyPX5jymkvSPaJhCh1crb"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "De Luto",
+      "url": "https://open.spotify.com/track/0WSKJY5hXkdmR8gbA3AXX3"
+    },
+    {
+      "album": {
+        "name": "Diablo (Remix)",
+        "url": "https://open.spotify.com/album/4S4DV8o5ASH2Ry6R4sJOVl"
+      },
+      "artists": [
+        {
+          "name": "Sticky M.A.",
+          "url": "https://open.spotify.com/artist/5o7fmoqHl79fzoCzeApdxm"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235370,
+      "name": "Diablo - Remix",
+      "url": "https://open.spotify.com/track/5HFF0o9i4YcVuEpoCOGlSZ"
+    },
+    {
+      "album": {
+        "name": "INTER SHIBUYA - LA MAFIA",
+        "url": "https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "EL PADRINO",
+      "url": "https://open.spotify.com/track/0zWkVCi9eFjcVAM839IkCZ"
+    },
+    {
+      "album": {
+        "name": "En To Lao",
+        "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
+      },
+      "artists": [
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "En To Lao",
+      "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
+    },
+    {
+      "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225974,
+      "name": "Gallery Dept.",
+      "url": "https://open.spotify.com/track/5hugDpgYWBPYM1IofQkWmz"
+    },
+    {
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170920,
+      "name": "GATITA GANGSTER",
+      "url": "https://open.spotify.com/track/5bD6mFl116xCxVMLy7IK9F"
+    },
+    {
+      "album": {
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "Imaginaste",
+      "url": "https://open.spotify.com/track/6MvqgVj98rzMGuxdpIyzeh"
+    },
+    {
+      "album": {
+        "name": "Me Muevo Con Dios",
+        "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
+      },
+      "artists": [
+        {
+          "name": "Cruz Cafun\u00e9",
+          "url": "https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193165,
+      "name": "Ja Morant",
+      "url": "https://open.spotify.com/track/74Y6PcHH1FU0ZXb34GHbsB"
+    },
+    {
+      "album": {
+        "name": "LOS DUE\u00d1OS DE LA CALLE (Remix)",
+        "url": "https://open.spotify.com/album/1bMraLBSDiOxNs3G4bf4dL"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306493,
+      "name": "LOS DUE\u00d1OS DE LA CALLE - Remix",
+      "url": "https://open.spotify.com/track/772VU8O47TkYt9Dxf6kZYE"
+    },
+    {
+      "album": {
+        "name": "Me Voy Contigo",
+        "url": "https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198556,
+      "name": "Me Voy Contigo",
+      "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"
+    },
+    {
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "Metro Spider (with Young Thug)",
+      "url": "https://open.spotify.com/track/2VtgzixdB967bHDNu5A1nh"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211879,
+      "name": "REINA",
+      "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
+    },
+    {
+      "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185813,
+      "name": "RELXJXTE",
+      "url": "https://open.spotify.com/track/0eI8yxgCGbguwbK26n22RQ"
+    },
+    {
+      "album": {
+        "name": "Icy Hot",
+        "url": "https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Solo $exo",
+      "url": "https://open.spotify.com/track/79Mko9WRph1VIsxiUom4zv"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190909,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+    },
+    {
+      "album": {
+        "name": "VVS",
+        "url": "https://open.spotify.com/album/2elH16RB2XdMs5wpP6dedX"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164822,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
+    },
+    {
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1QYk4eMLrC8"
 }

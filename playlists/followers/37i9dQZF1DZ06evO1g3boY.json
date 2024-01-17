@@ -1,107 +1,1415 @@
 {
-  "2023-09-19": 165666,
-  "2023-09-20": 165666,
-  "2023-09-21": 165666,
-  "2023-09-22": 165729,
-  "2023-09-23": 165729,
-  "2023-09-24": 165729,
-  "2023-09-25": 165729,
-  "2023-09-26": 165801,
-  "2023-09-27": 165801,
-  "2023-09-28": 165801,
-  "2023-09-29": 165801,
-  "2023-09-30": 165801,
-  "2023-10-01": 165801,
-  "2023-10-02": 165897,
-  "2023-10-03": 165897,
-  "2023-10-04": 165897,
-  "2023-10-05": 165974,
-  "2023-10-06": 165974,
-  "2023-10-07": 165974,
-  "2023-10-08": 165974,
-  "2023-10-09": 165974,
-  "2023-10-10": 165974,
-  "2023-10-11": 165979,
-  "2023-10-12": 165979,
-  "2023-10-13": 165979,
-  "2023-10-14": 165979,
-  "2023-10-15": 165979,
-  "2023-10-16": 165979,
-  "2023-10-17": 165979,
-  "2023-10-18": 165979,
-  "2023-10-19": 165979,
-  "2023-10-20": 165979,
-  "2023-10-21": 165979,
-  "2023-10-22": 165979,
-  "2023-10-23": 165979,
-  "2023-10-24": 165979,
-  "2023-10-25": 165979,
-  "2023-10-26": 165979,
-  "2023-10-27": 165979,
-  "2023-10-28": 165979,
-  "2023-10-29": 165979,
-  "2023-10-30": 165979,
-  "2023-10-31": 165979,
-  "2023-11-01": 165979,
-  "2023-11-02": 165979,
-  "2023-11-03": 165979,
-  "2023-11-04": 165979,
-  "2023-11-05": 165979,
-  "2023-11-06": 165979,
-  "2023-11-07": 165979,
-  "2023-11-08": 165979,
-  "2023-11-09": 165979,
-  "2023-11-10": 165979,
-  "2023-11-11": 166441,
-  "2023-11-12": 166441,
-  "2023-11-13": 166441,
-  "2023-11-14": 166441,
-  "2023-11-15": 166441,
-  "2023-11-16": 166441,
-  "2023-11-17": 166441,
-  "2023-11-18": 166441,
-  "2023-11-19": 166441,
-  "2023-11-20": 166441,
-  "2023-11-21": 166441,
-  "2023-11-22": 166441,
-  "2023-11-23": 166441,
-  "2023-11-24": 166441,
-  "2023-11-25": 166441,
-  "2023-11-26": 166441,
-  "2023-11-27": 166441,
-  "2023-11-28": 166441,
-  "2023-11-29": 166441,
-  "2023-11-30": 166441,
-  "2023-12-01": 166441,
-  "2023-12-02": 166441,
-  "2023-12-03": 166441,
-  "2023-12-04": 166441,
-  "2023-12-05": 166441,
-  "2023-12-06": 166441,
-  "2023-12-07": 166441,
-  "2023-12-08": 166441,
-  "2023-12-09": 166441,
-  "2023-12-10": 166441,
-  "2023-12-11": 166441,
-  "2023-12-12": 166441,
-  "2023-12-13": 166441,
-  "2023-12-14": 167089,
-  "2023-12-15": 167112,
-  "2023-12-16": 167122,
-  "2023-12-17": 167130,
-  "2023-12-18": 167144,
-  "2023-12-19": 167153,
-  "2023-12-20": 167159,
-  "2023-12-21": 167171,
-  "2023-12-22": 167176,
-  "2023-12-23": 167181,
-  "2023-12-24": 167193,
-  "2023-12-25": 167210,
-  "2023-12-26": 167214,
-  "2023-12-27": 167230,
-  "2023-12-30": 167269,
-  "2023-12-31": 167276,
-  "2024-01-01": 167280,
-  "2024-01-02": 167289,
-  "2024-01-03": 167292
+  "2024-01-17": 166938,
+  "date_first_scraped": "2023-09-19",
+  "description": "This is Emicida. The essential tracks, all in one playlist.",
+  "name": "This Is Emicida",
+  "tracks": [
+    {
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305213,
+      "name": "9nha / Eu Gosto Dela - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OR3l3lAJBgkQb0viiYjKJ"
+    },
+    {
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312680,
+      "name": "A Cada Vento (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5PfR5Cm2WcxZMCEej8Muo8"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "A Cada Vento - Live",
+      "url": "https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235866,
+      "name": "A Ordem Natural das Coisas (feat. Mc Tha)",
+      "url": "https://open.spotify.com/track/7MK6sYlWniVj8D1mrAAIwb"
+    },
+    {
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mc Tha",
+          "url": "https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340080,
+      "name": "A Ordem Natural das Coisas / Chiclete com Banana - Ao Vivo",
+      "url": "https://open.spotify.com/track/4G3kLyHp4335rXLzaoTmVu"
+    },
+    {
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rafa Kabelo",
+          "url": "https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240117,
+      "name": "Alma G\u00eamea",
+      "url": "https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8"
+    },
+    {
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 152106,
+      "name": "Alma G\u00eamea - Ao Vivo",
+      "url": "https://open.spotify.com/track/148Qd4GVoZ3b4yLji6s7s3"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Majur",
+          "url": "https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320800,
+      "name": "AmarElo (Sample: Sujeito de Sorte - Belchior)",
+      "url": "https://open.spotify.com/track/5p3LIyy38s0QQNoSTwbZXX"
+    },
+    {
+      "album": {
+        "name": "Dai a Cesar o Que \u00c9 de Cesar",
+        "url": "https://open.spotify.com/album/54gZAkXRSRi7kmetAOBlux"
+      },
+      "artists": [
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        },
+        {
+          "name": "Felipe Artioli",
+          "url": "https://open.spotify.com/artist/1CQPPiPRlXbiMvDBO67c6w"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Jaddy",
+          "url": "https://open.spotify.com/artist/4mZA1cH9B0SBDue0fa1ok6"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Antes Que a Bala Perdida Me Ache",
+      "url": "https://open.spotify.com/track/07OvVAqHyJi4ffgeLbAPUe"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/14SO7JAN6L7Mk1ZUmabJaI"
+    },
+    {
+      "album": {
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "X\u00eania Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 228786,
+      "name": "Beira de Piscina",
+      "url": "https://open.spotify.com/track/25XUxLporfgzl2rf2mtgmj"
+    },
+    {
+      "album": {
+        "name": "Sambabook Zeca Pagodinho, Vol. 2",
+        "url": "https://open.spotify.com/album/1SYy6QlPiObmtHW2PqpZWu"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Sombrinha",
+          "url": "https://open.spotify.com/artist/5GmHrvfki94D20jsW5PRTi"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        },
+        {
+          "name": "Monarco",
+          "url": "https://open.spotify.com/artist/0Aqcba7AHmDUp7UeAQbEDm"
+        },
+        {
+          "name": "VELHA GUARDA DA PORTELA",
+          "url": "https://open.spotify.com/artist/4RYW3x4z6FDvERvHE2UPJl"
+        },
+        {
+          "name": "Almir Guineto",
+          "url": "https://open.spotify.com/artist/2x5fdOl1kpBgD74cOkzNY0"
+        },
+        {
+          "name": "Rildo Hora",
+          "url": "https://open.spotify.com/artist/5XFhdlu8WIceUcGjqLwjKA"
+        },
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        },
+        {
+          "name": "Nilze Carvalho",
+          "url": "https://open.spotify.com/artist/2bKdKvWKErRrUpSrLsDjyH"
+        },
+        {
+          "name": "Gabrielzinho Do Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/0SkmRxt8o9RTKms28v15MA"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168948,
+      "name": "Camar\u00e3o Que Dorme a Onda Leva",
+      "url": "https://open.spotify.com/track/7lzfMZak2HjNPXXSxksjPB"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335600,
+      "name": "Canan\u00e9ia, Iguape e Ilha Comprida",
+      "url": "https://open.spotify.com/track/3aXbjjFVHC86pSZey62vbS"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127053,
+      "name": "Cap\u00edtulo 4, Vers\u00edculo 3 - Live",
+      "url": "https://open.spotify.com/track/0ITzKSRykU81569IrYUhVC"
+    },
+    {
+      "album": {
+        "name": "Um Gosto de Sol",
+        "url": "https://open.spotify.com/album/3KHEbkkbnX5ioSzVXwXw8V"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194183,
+      "name": "Deixa acontecer",
+      "url": "https://open.spotify.com/track/0pkXLmHhKRO11n5TtyFq4S"
+    },
+    {
+      "album": {
+        "name": "MEM\u00d3RIAS (de onde eu nunca fui)",
+        "url": "https://open.spotify.com/album/2bZbGKs0jc0gxVguR9fCYr"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188518,
+      "name": "DESCOBRIDOR",
+      "url": "https://open.spotify.com/track/2pg5jMIT8VlxYnwWFff9UT"
+    },
+    {
+      "album": {
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Cohen",
+          "url": "https://open.spotify.com/artist/6YANUKWAHOVnWhG0wnvm2M"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197746,
+      "name": "Eu Gosto Dela",
+      "url": "https://open.spotify.com/track/5yqbISO0lUFwY3wdrLgiR0"
+    },
+    {
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194194,
+      "name": "Hoje Cedo",
+      "url": "https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU"
+    },
+    {
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150439,
+      "name": "Levanta e Anda",
+      "url": "https://open.spotify.com/track/0JSux25Te5HYMSr2D64d02"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rodrigo Campos",
+          "url": "https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 240373,
+      "name": "Linha De Frente - Live",
+      "url": "https://open.spotify.com/track/6KzAGApzyPBttDCH9rKUNv"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232733,
+      "name": "Madagascar",
+      "url": "https://open.spotify.com/track/0FAisOr5R8iaelTo9j6nQ4"
+    },
+    {
+      "album": {
+        "name": "Eu Sou a Mar\u00e9 Viva",
+        "url": "https://open.spotify.com/album/4qCFlCubvkYe8ZRmCCdcV6"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 274145,
+      "name": "Manifesto (feat. Lenine & Emicida)",
+      "url": "https://open.spotify.com/track/3GYRPyVcdXoiUzDkJ1RBvJ"
+    },
+    {
+      "album": {
+        "name": "Eu Sou a Mar\u00e9 Viva",
+        "url": "https://open.spotify.com/album/2RhCVgGIB5dd4k8z8rsdYe"
+      },
+      "artists": [
+        {
+          "name": "Fresno",
+          "url": "https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274145,
+      "name": "Manifesto (feat. Lenine & Emicida)",
+      "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
+    },
+    {
+      "album": {
+        "name": "Casas",
+        "url": "https://open.spotify.com/album/37svAARdwTp6vApCWBwoec"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294049,
+      "name": "Mantra (feat. Emicida)",
+      "url": "https://open.spotify.com/track/4pkcufYBrwhYMi5mZ8276B"
+    },
+    {
+      "album": {
+        "name": "Quintal",
+        "url": "https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW"
+      },
+      "artists": [
+        {
+          "name": "Melim",
+          "url": "https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180448,
+      "name": "Melhor Rem\u00e9dio",
+      "url": "https://open.spotify.com/track/5NtTHQEcdXhVZbevOxAh5a"
+    },
+    {
+      "album": {
+        "name": "Mil Coisas",
+        "url": "https://open.spotify.com/album/5531Q6ELSF96I2DG5ECnPY"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Mil Coisas",
+      "url": "https://open.spotify.com/track/0c68eyAdaqYMdyVBjygaOK"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Dona Jacira",
+          "url": "https://open.spotify.com/artist/5qiBrPROw2IWolMIjPf2ax"
+        },
+        {
+          "name": "Anna Tr\u00e9a",
+          "url": "https://open.spotify.com/artist/0nffPOYWCX8Kx9mrxBkyUS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 298226,
+      "name": "M\u00e3e",
+      "url": "https://open.spotify.com/track/3z32Uk7vU6GWjpALDkV3Vv"
+    },
+    {
+      "album": {
+        "name": "Doozicabraba e a Revolu\u00e7\u00e3o Silenciosa",
+        "url": "https://open.spotify.com/album/24FRiS4aTYXDcL48UPknP7"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Beatnick",
+          "url": "https://open.spotify.com/artist/1wvKPzgThaFccAELYVQzKI"
+        },
+        {
+          "name": "K-Salaam",
+          "url": "https://open.spotify.com/artist/7eDtRejmiXPmd5LeRZeuM6"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 258666,
+      "name": "Num \u00c9 S\u00f3 Ver",
+      "url": "https://open.spotify.com/track/3tJPVeNIvz1AWtQZXYZagx"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+        "url": "https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "N\u00e3o Quero Vingan\u00e7a - Spotify Singles",
+      "url": "https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz"
+    },
+    {
+      "album": {
+        "name": "O Amor \u00c9 Tudo de Bom",
+        "url": "https://open.spotify.com/album/4Id5nvGsp6yQhkoSxCcauN"
+      },
+      "artists": [
+        {
+          "name": "Mundo Bita",
+          "url": "https://open.spotify.com/artist/47iSWoNrLjnWCWesR14gL2"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "O Amor \u00c9 Tudo de Bom",
+      "url": "https://open.spotify.com/track/6FgOPZIzN8J8Cssm1U5FlG"
+    },
+    {
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249373,
+      "name": "O Pequeno Burgu\u00eas/ Canta Canta Minha Gente - Ao Vivo",
+      "url": "https://open.spotify.com/track/6EVlrirhIuJd7uMJ0FlbEs"
+    },
+    {
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246320,
+      "name": "Oi Compadre - Ao Vivo",
+      "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
+    },
+    {
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284693,
+      "name": "Ooorra - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda"
+    },
+    {
+      "album": {
+        "name": "Quintal dos Prettos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/159BRsin1LHfEaJAcvcLnc"
+      },
+      "artists": [
+        {
+          "name": "Prettos",
+          "url": "https://open.spotify.com/artist/7htTHUkgfSZeRhK6pqMLHB"
+        },
+        {
+          "name": "Magnu Sous\u00e1",
+          "url": "https://open.spotify.com/artist/2eN5C7mT6TLPTxdIG9DiRP"
+        },
+        {
+          "name": "Maurilio de Oliveira",
+          "url": "https://open.spotify.com/artist/5DM4yO0oJhBI392KIInTu6"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277480,
+      "name": "Oy\u00e1 - Sorriso Negro - Ao Vivo",
+      "url": "https://open.spotify.com/track/7rrlAo0OyWwpaRbDDSe9BB"
+    },
+    {
+      "album": {
+        "name": "10 Anos de Triunfo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "O\u00e1sis (feat. Rael) - Ao Vivo",
+      "url": "https://open.spotify.com/track/5hNjHU5ZE4m0ykAEYLYsQH"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189680,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/5mvd9zBoRstEcAJC2VwEOi"
+    },
+    {
+      "album": {
+        "name": "Pantera Negra",
+        "url": "https://open.spotify.com/album/235FXq3fhpJ3VqUX5Qjvrj"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199613,
+      "name": "Pantera Negra",
+      "url": "https://open.spotify.com/track/3oA8ovg8QzMjPTwG7kezA3"
+    },
+    {
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/77ye4kGcWBmzcLWFiSCljE"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221626,
+      "name": "Passarinhos",
+      "url": "https://open.spotify.com/track/0gGjX0aUg7OaUSAhi1CmDk"
+    },
+    {
+      "album": {
+        "name": "Pa\u00eds do Futebol",
+        "url": "https://open.spotify.com/album/7DAKbgEabUfwJwztyMp009"
+      },
+      "artists": [
+        {
+          "name": "MC Guime",
+          "url": "https://open.spotify.com/artist/3ge4xOaKvWfhRwgx0Rldov"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149002,
+      "name": "Pa\u00eds do Futebol",
+      "url": "https://open.spotify.com/track/7AD7hNwGOOSRe33QtnyprD"
+    },
+    {
+      "album": {
+        "name": "Rock In Rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
+      },
+      "artists": [
+        {
+          "name": "Cidade Negra",
+          "url": "https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "Pensamento - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zmRdTMzCtNKGncGO7SF6w"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Lukinhas",
+          "url": "https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "Pipa Voada (feat. Emicida)",
+      "url": "https://open.spotify.com/track/3oqC4Ta40ft6NnTJwcUTdi"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Fabiana Cozza",
+          "url": "https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151"
+        },
+        {
+          "name": "Pastor Henrique Vieira",
+          "url": "https://open.spotify.com/artist/34Bz0hL5bQMYbaYzn4ZmCZ"
+        },
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355866,
+      "name": "Principia (feat. Fabiana Cozza, Pastor Henrique Vieira & Pastoras do Ros\u00e1rio)",
+      "url": "https://open.spotify.com/track/1wTuMYmA3AJC7zKg6cuu19"
+    },
+    {
+      "album": {
+        "name": "AmarElo",
+        "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Quem Tem Um Amigo (Tem Tudo) (feat. Zeca Pagodinho & Tokyo Ska Paradise Orchestra)",
+      "url": "https://open.spotify.com/track/4yEBOuDHhrFeGXyXNJ3C4y"
+    },
+    {
+      "album": {
+        "name": "AmarElo - Ao Vivo",
+        "url": "https://open.spotify.com/album/1OEj74ygMvQHFyypp3COpw"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371466,
+      "name": "Quem Tem Um Amigo (Tem Tudo) / A Amizade - Ao Vivo",
+      "url": "https://open.spotify.com/track/4H4eSq6Z17gKau4TEUTO5q"
+    },
+    {
+      "album": {
+        "name": "Emicidio",
+        "url": "https://open.spotify.com/album/1xTiVYWuLx7GkZN9NLRVEs"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153053,
+      "name": "Rua Augusta",
+      "url": "https://open.spotify.com/track/4vHOJK3A4vxlMjVEBdL8Xs"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177560,
+      "name": "Rua Augusta - Live",
+      "url": "https://open.spotify.com/track/09sMZakpoYDwZIdqgg9YKS"
+    },
+    {
+      "album": {
+        "name": "Essa \u00c9 a Nossa M\u00fasica",
+        "url": "https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237108,
+      "name": "Seu Jogo",
+      "url": "https://open.spotify.com/track/7uNabDOOlOVjODe3upP0eI"
+    },
+    {
+      "album": {
+        "name": "Sobe junto",
+        "url": "https://open.spotify.com/album/07yciL9GEXXT0kEzFEsKlt"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Sobe junto",
+      "url": "https://open.spotify.com/track/1EicRoOBP95i5CNcBMGXyA"
+    },
+    {
+      "album": {
+        "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
+        "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Estela Verg\u00edlio",
+          "url": "https://open.spotify.com/artist/2Yo86np78XwT8Y6ug7Dg1p"
+        },
+        {
+          "name": "Tulipa Ruiz",
+          "url": "https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138448,
+      "name": "Sol de Giz de Cera",
+      "url": "https://open.spotify.com/track/7LsxnS3jwRa0EB7Gq78lkf"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Subirusdoistiozin - Live",
+      "url": "https://open.spotify.com/track/7bLMLwx6gJrCXoppD2YqOu"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209480,
+      "name": "S\u00e3o Pixinguinha - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Evandro Fi\u00f3ti",
+          "url": "https://open.spotify.com/artist/0mXdPvdqQete31NQDPBlT4"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188666,
+      "name": "S\u00f3 Mais Uma Noite - Live",
+      "url": "https://open.spotify.com/track/4dr8LN0s4WhnLLTzfsZkj5"
+    },
+    {
+      "album": {
+        "name": "ADMIR\u00c1VEL CHIP NOVO (RE)ATIVADO",
+        "url": "https://open.spotify.com/album/6bIHDpi2YUAO3C2CinsGSZ"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189306,
+      "name": "Teto De Vidro (Reativado)",
+      "url": "https://open.spotify.com/track/6GMcxrTk2q9fvUZ1mxrUw6"
+    },
+    {
+      "album": {
+        "name": "Trevo, Figuinha e Suor na Camisa",
+        "url": "https://open.spotify.com/album/5AYV4MJslPN48xaab39ZuW"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "Trevo, Figuinha e Suor na Camisa",
+      "url": "https://open.spotify.com/track/5XlSsxpTi0usJnQSUwBORk"
+    },
+    {
+      "album": {
+        "name": "Pra Quem J\u00e1 Mordeu um Cachorro por Comida At\u00e9 Que Eu Cheguei Longe",
+        "url": "https://open.spotify.com/album/3ZA85zeudxFA1NGeb6avXS"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209373,
+      "name": "Triunfo (A Rua \u00c9 N\u00f3iz)",
+      "url": "https://open.spotify.com/track/3XELYgcY0b9mGsJE28r4Fh"
+    },
+    {
+      "album": {
+        "name": "Criolo E Emicida Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271840,
+      "name": "Vida Loka I - Live",
+      "url": "https://open.spotify.com/track/3KYbhVPCxYHIeZg8Zy07ay"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Tudo Pra Ontem",
+        "url": "https://open.spotify.com/album/3pJfsGB12RRU7KDDsRkAh1"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310400,
+      "name": "\u00c9 Tudo Pra Ontem",
+      "url": "https://open.spotify.com/track/1FpjfHwVh1ziha91Ng2o4P"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1g3boY"
 }

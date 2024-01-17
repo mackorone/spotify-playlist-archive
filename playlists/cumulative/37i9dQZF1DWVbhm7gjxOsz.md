@@ -4,7 +4,7 @@
 
 > Crusin' is not a crime, it's a lifestyle!
 
-161 songs - 9 hr 20 min
+163 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Outstanding \- Original 12" Mix](https://open.spotify.com/track/6korvxtUEyt590jUFOfADm) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The 12" Collection And More \(Funk Essentials\)](https://open.spotify.com/album/2RBgodUUn2EzbMDSq0shGH) | 6:15 | 2023-05-01 |  |
 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 | 2023-05-01 |  |
 | [Porque Te Quiero](https://open.spotify.com/track/7FAA8FEuRTmHlIT3dP9zSo) | [La Mission](https://open.spotify.com/artist/1TVxYSi4P15H2g58HDdWaG), [Orlando Torriente](https://open.spotify.com/artist/378d3VKREhA9ih9n29qSno) | [Songs from La Mission \(Original Motion Soundtrack\)](https://open.spotify.com/album/7ynAgX8j9lBMzF7oiVZnNJ) | 4:11 | 2023-05-01 |  |
+| [Pure Intentions \(feat\. Gabriella\)](https://open.spotify.com/track/4AnEPPs5a8lmsEY75mikDd) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Gabriella](https://open.spotify.com/artist/1WA3tuuJI10x4j7SB1XXf7) | [Pure Intentions](https://open.spotify.com/album/3rIYdmlRAN8JIvD2B1hvaP) | 2:56 | 2024-01-05 |  |
 | [Reaper of Love](https://open.spotify.com/track/6olpTbCFIRPCO99iz2DzRO) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/1JVWbgxF1ylN2Z19qetAKc) | 3:31 | 2023-05-01 | 2023-08-19 |
 | [Reaper of Love](https://open.spotify.com/track/7MhanQlUmy0p1vvn4JCEQX) | [Rocky Padilla](https://open.spotify.com/artist/1Kfned5OWID7n6bue7YKb0) | [Reaper of Love](https://open.spotify.com/album/6cYE3duwuvONqnxnKply8o) | 3:31 | 2023-05-01 |  |
 | [Reasons](https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 4:59 | 2023-05-01 |  |
@@ -139,7 +140,7 @@
 | [Tell Me That You Love Me](https://open.spotify.com/track/57ffRh0Tc4pGL1JGGhvanb) | [Jonny Benavidez](https://open.spotify.com/artist/7M7dZApoFDjFxwIfGGNvRa), [Cold Diamond & Mink](https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b) | [My Echo, Shadow and Me](https://open.spotify.com/album/2f70selQPrtTaUvHyn4dbo) | 3:42 | 2023-08-29 |  |
 | [The Agony And The Ecstasy](https://open.spotify.com/track/5tJtbMylDCdtsQf4R02qer) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [A Quiet Storm](https://open.spotify.com/album/7LRGv7pDjDJtqhThkocBXZ) | 4:49 | 2023-05-01 |  |
 | [The Bells](https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH) | [The Originals](https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl) | [The Complete Motown Singles Vol\. 10: 1970](https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe) | 2:52 | 2023-05-01 |  |
-| [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 | 2023-05-01 |  |
+| [The Entertainer](https://open.spotify.com/track/5cnaeNo5ODjXiUrqWMD0iA) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Cota](https://open.spotify.com/artist/2e1yGR8FqYaOz962igAVIM), [The Vibes](https://open.spotify.com/artist/21SkzTtJjXO1tnoRPziAzv) | [The Entertainer](https://open.spotify.com/album/0ywM9vXLCWhCAthJ0aHnv0) | 2:40 | 2023-05-01 | 2024-01-06 |
 | [The One Who Really Loves You \- Album Version / Mono](https://open.spotify.com/track/3NmHNVe0vfbkmD6a8OlxEr) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Smash Hits Of '62](https://open.spotify.com/album/1SGTPYNrkXswEcQTuuVQKh) | 2:23 | 2023-05-01 |  |
 | [The One Who Really Loves You \- Single Version](https://open.spotify.com/track/4M732X5J2BE6M8VIHHfxMx) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [The One Who Really Loves You](https://open.spotify.com/album/3LOSPDjqK3UrZ0Ab5rGMdm) | 2:27 | 2023-05-01 |  |
 | [The Town I Live In](https://open.spotify.com/track/4vGzFH1JVhQTkTCidx2pnE) | [Thee Midniters](https://open.spotify.com/artist/2Z66arG61B0TdhwE9kWy23) | [Greatest Slow Jams](https://open.spotify.com/album/0zMWHOjYyuv41k1Aw7Logw) | 3:18 | 2023-05-01 |  |
@@ -168,6 +169,7 @@
 | [You're Still a Young Man](https://open.spotify.com/track/0LDauNxnqI5nsyCa2Xsc5W) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Bump City](https://open.spotify.com/album/4LXDYSJXbPftFYawbEMMLI) | 5:37 | 2023-05-01 |  |
 | [You've Really Got A Hold On Me](https://open.spotify.com/track/7wLRmjiDYI6flIVzboUqSV) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [The Fabulous Miracles](https://open.spotify.com/album/6WXuBDGbgFKz4rYLVC9a0W) | 2:57 | 2023-05-01 |  |
 | [You've Really Got A Hold On Me \- Alternate Stereo Mix](https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [OOO Baby Baby: The Anthlogy](https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4) | 3:12 | 2023-05-01 |  |
-| [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 | 2023-05-01 |  |
+| [Young Love](https://open.spotify.com/track/0gGGMJtavPCoD5Ydobp6JV) | [Teena Marie](https://open.spotify.com/artist/61UT1Zj9dFgPAjZfwnsqsb) | [Irons In The Fire](https://open.spotify.com/album/5xkX5ZagTMNm1xEYNHht5a) | 5:29 | 2023-05-01 | 2024-01-06 |
+| [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 | 2024-01-05 |  |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

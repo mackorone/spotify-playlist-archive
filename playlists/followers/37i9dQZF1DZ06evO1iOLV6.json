@@ -1,731 +1,2729 @@
 {
-  "2021-12-29": 17,
-  "2021-12-30": 17,
-  "2021-12-31": 17,
-  "2022-01-01": 17,
-  "2022-01-02": 17,
-  "2022-01-03": 17,
-  "2022-01-04": 17,
-  "2022-01-05": 17,
-  "2022-01-06": 17,
-  "2022-01-07": 17,
-  "2022-01-08": 17,
-  "2022-01-09": 17,
-  "2022-01-10": 17,
-  "2022-01-11": 17,
-  "2022-01-12": 18,
-  "2022-01-13": 21,
-  "2022-01-14": 27,
-  "2022-01-15": 40,
-  "2022-01-16": 40,
-  "2022-01-17": 4760,
-  "2022-01-18": 4760,
-  "2022-01-19": 4761,
-  "2022-01-20": 4768,
-  "2022-01-21": 4771,
-  "2022-01-22": 4770,
-  "2022-01-23": 4774,
-  "2022-01-24": 4776,
-  "2022-01-25": 4778,
-  "2022-01-26": 4782,
-  "2022-01-27": 4784,
-  "2022-01-28": 4788,
-  "2022-01-29": 4792,
-  "2022-01-30": 4794,
-  "2022-01-31": 4799,
-  "2022-02-01": 4804,
-  "2022-02-02": 4806,
-  "2022-02-03": 4810,
-  "2022-02-04": 4812,
-  "2022-02-05": 4814,
-  "2022-02-06": 4815,
-  "2022-02-07": 4818,
-  "2022-02-08": 4824,
-  "2022-02-09": 4828,
-  "2022-02-10": 4837,
-  "2022-02-11": 4838,
-  "2022-02-12": 4843,
-  "2022-02-13": 4847,
-  "2022-02-14": 4849,
-  "2022-02-15": 4852,
-  "2022-02-16": 4855,
-  "2022-02-17": 4858,
-  "2022-02-18": 4860,
-  "2022-02-19": 4867,
-  "2022-02-20": 4872,
-  "2022-02-21": 4874,
-  "2022-02-22": 4876,
-  "2022-02-23": 4881,
-  "2022-02-24": 4885,
-  "2022-02-25": 4888,
-  "2022-02-26": 4890,
-  "2022-02-27": 4899,
-  "2022-02-28": 4899,
-  "2022-03-01": 4903,
-  "2022-03-02": 4906,
-  "2022-03-03": 4910,
-  "2022-03-04": 4916,
-  "2022-03-05": 4918,
-  "2022-03-06": 4923,
-  "2022-03-07": 4926,
-  "2022-03-08": 4930,
-  "2022-03-09": 4936,
-  "2022-03-10": 4940,
-  "2022-03-11": 4940,
-  "2022-03-12": 4946,
-  "2022-03-13": 4952,
-  "2022-03-14": 4957,
-  "2022-03-15": 4961,
-  "2022-03-16": 4966,
-  "2022-03-17": 4967,
-  "2022-03-18": 4969,
-  "2022-03-19": 4970,
-  "2022-03-20": 4970,
-  "2022-03-21": 4981,
-  "2022-03-22": 4981,
-  "2022-03-23": 4985,
-  "2022-03-24": 4988,
-  "2022-03-25": 4990,
-  "2022-03-26": 4995,
-  "2022-03-27": 4996,
-  "2022-03-28": 4999,
-  "2022-03-30": 5005,
-  "2022-03-31": 5009,
-  "2022-04-01": 5011,
-  "2022-04-02": 5017,
-  "2022-04-03": 5023,
-  "2022-04-04": 5028,
-  "2022-04-05": 5030,
-  "2022-04-06": 5033,
-  "2022-04-07": 5037,
-  "2022-04-08": 5040,
-  "2022-04-09": 5042,
-  "2022-04-10": 5050,
-  "2022-04-11": 5053,
-  "2022-04-12": 5053,
-  "2022-04-13": 5052,
-  "2022-04-14": 5055,
-  "2022-04-15": 5056,
-  "2022-04-16": 5060,
-  "2022-04-17": 5066,
-  "2022-04-18": 5072,
-  "2022-04-19": 5075,
-  "2022-04-20": 5078,
-  "2022-04-21": 5079,
-  "2022-04-22": 5084,
-  "2022-04-23": 5084,
-  "2022-04-24": 5086,
-  "2022-04-25": 5090,
-  "2022-04-26": 5093,
-  "2022-04-27": 5097,
-  "2022-04-28": 5099,
-  "2022-04-29": 5105,
-  "2022-04-30": 5108,
-  "2022-05-01": 5109,
-  "2022-05-02": 5109,
-  "2022-05-03": 5114,
-  "2022-05-04": 5119,
-  "2022-05-05": 5124,
-  "2022-05-06": 5126,
-  "2022-05-07": 5128,
-  "2022-05-08": 5141,
-  "2022-05-09": 5144,
-  "2022-05-10": 5151,
-  "2022-05-11": 5152,
-  "2022-05-12": 5154,
-  "2022-05-13": 5154,
-  "2022-05-14": 5157,
-  "2022-05-15": 5163,
-  "2022-05-16": 5164,
-  "2022-05-17": 5171,
-  "2022-05-18": 5174,
-  "2022-05-19": 5180,
-  "2022-05-20": 5181,
-  "2022-05-21": 5190,
-  "2022-05-22": 5190,
-  "2022-05-23": 5194,
-  "2022-05-24": 5198,
-  "2022-05-25": 5204,
-  "2022-05-26": 5208,
-  "2022-05-27": 5211,
-  "2022-05-28": 5215,
-  "2022-05-29": 5219,
-  "2022-05-30": 5224,
-  "2022-05-31": 5229,
-  "2022-06-01": 5233,
-  "2022-06-02": 5233,
-  "2022-06-03": 5235,
-  "2022-06-04": 5239,
-  "2022-06-05": 5244,
-  "2022-06-06": 5249,
-  "2022-06-07": 5251,
-  "2022-06-08": 5255,
-  "2022-06-09": 5262,
-  "2022-06-10": 5269,
-  "2022-06-11": 5273,
-  "2022-06-12": 5274,
-  "2022-06-13": 5275,
-  "2022-06-14": 5275,
-  "2022-06-15": 5275,
-  "2022-06-16": 5279,
-  "2022-06-17": 5282,
-  "2022-06-18": 5281,
-  "2022-06-19": 5291,
-  "2022-06-20": 5291,
-  "2022-06-21": 5297,
-  "2022-06-22": 5307,
-  "2022-06-23": 5307,
-  "2022-06-24": 5313,
-  "2022-06-25": 5319,
-  "2022-06-26": 5326,
-  "2022-06-27": 5334,
-  "2022-06-28": 5337,
-  "2022-06-29": 5341,
-  "2022-06-30": 5344,
-  "2022-07-01": 5347,
-  "2022-07-02": 5349,
-  "2022-07-03": 5351,
-  "2022-07-04": 5358,
-  "2022-07-05": 5358,
-  "2022-07-06": 5358,
-  "2022-07-07": 5365,
-  "2022-07-08": 5370,
-  "2022-07-09": 5372,
-  "2022-07-10": 5376,
-  "2022-07-11": 5382,
-  "2022-07-12": 5386,
-  "2022-07-13": 5389,
-  "2022-07-14": 5392,
-  "2022-07-15": 5395,
-  "2022-07-16": 5398,
-  "2022-07-17": 5402,
-  "2022-07-18": 5407,
-  "2022-07-19": 5409,
-  "2022-07-20": 5413,
-  "2022-07-21": 5414,
-  "2022-07-22": 5420,
-  "2022-07-23": 5425,
-  "2022-07-24": 5430,
-  "2022-07-25": 5433,
-  "2022-07-26": 5437,
-  "2022-07-27": 5441,
-  "2022-07-28": 5443,
-  "2022-07-29": 5446,
-  "2022-07-30": 5451,
-  "2022-07-31": 5451,
-  "2022-08-01": 5451,
-  "2022-08-02": 5458,
-  "2022-08-03": 5458,
-  "2022-08-04": 5460,
-  "2022-08-05": 5463,
-  "2022-08-06": 5467,
-  "2022-08-07": 5471,
-  "2022-08-08": 5480,
-  "2022-08-09": 5486,
-  "2022-08-10": 5489,
-  "2022-08-11": 5493,
-  "2022-08-12": 5493,
-  "2022-08-13": 5503,
-  "2022-08-14": 5504,
-  "2022-08-15": 5507,
-  "2022-08-16": 5509,
-  "2022-08-17": 5514,
-  "2022-08-18": 5516,
-  "2022-08-19": 5521,
-  "2022-08-20": 5523,
-  "2022-08-21": 5524,
-  "2022-08-22": 5525,
-  "2022-08-23": 5530,
-  "2022-08-24": 5536,
-  "2022-08-25": 5540,
-  "2022-08-26": 5544,
-  "2022-08-27": 5548,
-  "2022-08-28": 5549,
-  "2022-08-29": 5551,
-  "2022-08-30": 5556,
-  "2022-08-31": 5558,
-  "2022-09-01": 5560,
-  "2022-09-02": 5562,
-  "2022-09-03": 5563,
-  "2022-09-04": 5567,
-  "2022-09-05": 5569,
-  "2022-09-06": 5573,
-  "2022-09-07": 5574,
-  "2022-09-09": 5581,
-  "2022-09-10": 5587,
-  "2022-09-11": 5591,
-  "2022-09-12": 5601,
-  "2022-09-13": 5612,
-  "2022-09-15": 5624,
-  "2022-09-16": 5629,
-  "2022-09-17": 5634,
-  "2022-09-18": 5640,
-  "2022-09-19": 5644,
-  "2022-09-20": 5651,
-  "2022-09-21": 5657,
-  "2022-09-22": 5662,
-  "2022-09-23": 5667,
-  "2022-09-24": 5667,
-  "2022-09-25": 5673,
-  "2022-09-26": 5678,
-  "2022-09-27": 5680,
-  "2022-09-28": 5684,
-  "2022-09-29": 5691,
-  "2022-09-30": 5696,
-  "2022-10-01": 5699,
-  "2022-10-02": 5701,
-  "2022-10-03": 5704,
-  "2022-10-04": 5710,
-  "2022-10-05": 5714,
-  "2022-10-06": 5724,
-  "2022-10-07": 5731,
-  "2022-10-08": 5737,
-  "2022-10-09": 5751,
-  "2022-10-10": 5751,
-  "2022-10-11": 5756,
-  "2022-10-12": 5761,
-  "2022-10-13": 5766,
-  "2022-10-14": 5769,
-  "2022-10-15": 5773,
-  "2022-10-16": 5778,
-  "2022-10-17": 5783,
-  "2022-10-18": 5786,
-  "2022-10-19": 5791,
-  "2022-10-20": 5793,
-  "2022-10-21": 5797,
-  "2022-10-22": 5803,
-  "2022-10-23": 5809,
-  "2022-10-24": 5811,
-  "2022-10-25": 5813,
-  "2022-10-26": 5814,
-  "2022-10-27": 5819,
-  "2022-10-28": 5822,
-  "2022-10-29": 5824,
-  "2022-10-30": 5826,
-  "2022-10-31": 5832,
-  "2022-11-01": 5837,
-  "2022-11-02": 5839,
-  "2022-11-03": 5844,
-  "2022-11-04": 5845,
-  "2022-11-05": 5849,
-  "2022-11-06": 5854,
-  "2022-11-07": 5859,
-  "2022-11-08": 5857,
-  "2022-11-09": 5860,
-  "2022-11-10": 5862,
-  "2022-11-11": 5866,
-  "2022-11-12": 5871,
-  "2022-11-13": 5876,
-  "2022-11-14": 5878,
-  "2022-11-15": 5879,
-  "2022-11-16": 5881,
-  "2022-11-17": 5884,
-  "2022-11-18": 5884,
-  "2022-11-19": 5888,
-  "2022-11-20": 5895,
-  "2022-11-21": 5901,
-  "2022-11-22": 5904,
-  "2022-11-23": 5906,
-  "2022-11-24": 5915,
-  "2022-11-25": 5923,
-  "2022-11-26": 5931,
-  "2022-11-27": 5934,
-  "2022-11-28": 5940,
-  "2022-11-29": 5946,
-  "2022-11-30": 5951,
-  "2022-12-01": 5958,
-  "2022-12-02": 5958,
-  "2022-12-03": 5966,
-  "2022-12-04": 5969,
-  "2022-12-05": 5971,
-  "2022-12-06": 5977,
-  "2022-12-07": 5978,
-  "2022-12-08": 5979,
-  "2022-12-09": 5986,
-  "2022-12-10": 5993,
-  "2022-12-11": 5997,
-  "2022-12-12": 6000,
-  "2022-12-13": 6005,
-  "2022-12-14": 6009,
-  "2022-12-15": 6016,
-  "2022-12-16": 6020,
-  "2022-12-17": 6019,
-  "2022-12-18": 6022,
-  "2022-12-19": 6024,
-  "2022-12-20": 6034,
-  "2022-12-21": 6034,
-  "2022-12-22": 6042,
-  "2022-12-24": 6053,
-  "2022-12-25": 6054,
-  "2022-12-26": 6061,
-  "2022-12-27": 6063,
-  "2022-12-28": 6065,
-  "2022-12-29": 6069,
-  "2022-12-30": 6071,
-  "2022-12-31": 6074,
-  "2023-01-01": 6076,
-  "2023-01-02": 6081,
-  "2023-01-03": 6082,
-  "2023-01-04": 6084,
-  "2023-01-05": 6090,
-  "2023-01-06": 6093,
-  "2023-01-07": 6104,
-  "2023-01-08": 6105,
-  "2023-01-09": 6107,
-  "2023-01-10": 6110,
-  "2023-01-11": 6112,
-  "2023-01-12": 6116,
-  "2023-01-13": 6120,
-  "2023-01-14": 6126,
-  "2023-01-15": 6129,
-  "2023-01-16": 6133,
-  "2023-01-17": 6135,
-  "2023-01-18": 6138,
-  "2023-01-19": 6143,
-  "2023-01-20": 6144,
-  "2023-01-21": 6147,
-  "2023-01-22": 6150,
-  "2023-01-23": 6158,
-  "2023-01-24": 6162,
-  "2023-01-25": 6165,
-  "2023-01-26": 6170,
-  "2023-01-27": 6172,
-  "2023-01-28": 6173,
-  "2023-01-29": 6177,
-  "2023-01-30": 6179,
-  "2023-01-31": 6179,
-  "2023-02-01": 6185,
-  "2023-02-02": 6186,
-  "2023-02-03": 6190,
-  "2023-02-04": 6198,
-  "2023-02-05": 6202,
-  "2023-02-06": 6206,
-  "2023-02-07": 6209,
-  "2023-02-08": 6214,
-  "2023-02-09": 6214,
-  "2023-02-10": 6222,
-  "2023-02-11": 6228,
-  "2023-02-12": 6234,
-  "2023-02-13": 6236,
-  "2023-02-14": 6236,
-  "2023-02-15": 6238,
-  "2023-02-16": 6243,
-  "2023-02-17": 6250,
-  "2023-02-18": 6262,
-  "2023-02-19": 6263,
-  "2023-02-20": 6271,
-  "2023-02-21": 6273,
-  "2023-02-22": 6278,
-  "2023-02-23": 6283,
-  "2023-02-24": 6290,
-  "2023-02-25": 6295,
-  "2023-02-26": 6297,
-  "2023-02-27": 6306,
-  "2023-02-28": 6306,
-  "2023-03-01": 6308,
-  "2023-03-02": 6314,
-  "2023-03-03": 6318,
-  "2023-03-04": 6324,
-  "2023-03-05": 6341,
-  "2023-03-06": 6341,
-  "2023-03-07": 6345,
-  "2023-03-08": 6345,
-  "2023-03-09": 6351,
-  "2023-03-10": 6359,
-  "2023-03-11": 6372,
-  "2023-03-12": 6378,
-  "2023-03-13": 6386,
-  "2023-03-14": 6391,
-  "2023-03-15": 6401,
-  "2023-03-16": 6401,
-  "2023-03-17": 6401,
-  "2023-03-18": 6416,
-  "2023-03-19": 6416,
-  "2023-03-20": 6426,
-  "2023-03-21": 6432,
-  "2023-03-22": 6433,
-  "2023-03-23": 6435,
-  "2023-03-24": 6435,
-  "2023-03-25": 6439,
-  "2023-03-26": 6446,
-  "2023-03-27": 6449,
-  "2023-03-28": 6452,
-  "2023-03-29": 6458,
-  "2023-03-30": 6463,
-  "2023-03-31": 6463,
-  "2023-04-01": 6465,
-  "2023-04-02": 6470,
-  "2023-04-03": 6474,
-  "2023-04-04": 6478,
-  "2023-04-05": 6483,
-  "2023-04-06": 6486,
-  "2023-04-07": 6491,
-  "2023-04-09": 6504,
-  "2023-04-10": 6508,
-  "2023-04-11": 6514,
-  "2023-04-12": 6514,
-  "2023-04-13": 6521,
-  "2023-04-14": 6528,
-  "2023-04-15": 6534,
-  "2023-04-16": 6536,
-  "2023-04-17": 6541,
-  "2023-04-18": 6541,
-  "2023-04-19": 6544,
-  "2023-04-20": 6544,
-  "2023-04-21": 6548,
-  "2023-04-22": 6552,
-  "2023-04-23": 6555,
-  "2023-04-24": 6561,
-  "2023-04-25": 6565,
-  "2023-04-26": 6568,
-  "2023-04-27": 6569,
-  "2023-04-28": 6572,
-  "2023-04-29": 6585,
-  "2023-04-30": 6589,
-  "2023-05-01": 6595,
-  "2023-05-02": 6598,
-  "2023-05-03": 6606,
-  "2023-05-04": 6616,
-  "2023-05-05": 6619,
-  "2023-05-06": 6623,
-  "2023-05-07": 6629,
-  "2023-05-08": 6634,
-  "2023-05-09": 6640,
-  "2023-05-10": 6643,
-  "2023-05-11": 6644,
-  "2023-05-12": 6649,
-  "2023-05-13": 6658,
-  "2023-05-14": 6659,
-  "2023-05-15": 6661,
-  "2023-05-16": 6668,
-  "2023-05-17": 6675,
-  "2023-05-18": 6681,
-  "2023-05-19": 6691,
-  "2023-05-20": 6706,
-  "2023-05-21": 6706,
-  "2023-05-22": 6706,
-  "2023-05-23": 6717,
-  "2023-05-24": 6725,
-  "2023-05-25": 6728,
-  "2023-05-26": 6734,
-  "2023-05-27": 6736,
-  "2023-05-28": 6742,
-  "2023-05-29": 6742,
-  "2023-05-30": 6756,
-  "2023-05-31": 6764,
-  "2023-06-01": 6766,
-  "2023-06-02": 6770,
-  "2023-06-03": 6778,
-  "2023-06-04": 6784,
-  "2023-06-05": 6790,
-  "2023-06-06": 6797,
-  "2023-06-07": 6798,
-  "2023-06-08": 6802,
-  "2023-06-09": 6811,
-  "2023-06-10": 6819,
-  "2023-06-11": 6824,
-  "2023-06-12": 6828,
-  "2023-06-13": 6829,
-  "2023-06-14": 6831,
-  "2023-06-15": 6837,
-  "2023-06-16": 6838,
-  "2023-06-17": 6848,
-  "2023-06-18": 6854,
-  "2023-06-19": 6858,
-  "2023-06-20": 6862,
-  "2023-06-21": 6868,
-  "2023-06-22": 6870,
-  "2023-06-23": 6874,
-  "2023-06-24": 6879,
-  "2023-06-25": 6888,
-  "2023-06-26": 6892,
-  "2023-06-27": 6896,
-  "2023-06-28": 6906,
-  "2023-06-29": 6915,
-  "2023-06-30": 6921,
-  "2023-07-01": 6935,
-  "2023-07-02": 6935,
-  "2023-07-03": 6939,
-  "2023-07-04": 6943,
-  "2023-07-05": 6950,
-  "2023-07-06": 6966,
-  "2023-07-07": 6966,
-  "2023-07-08": 6975,
-  "2023-07-09": 6978,
-  "2023-07-10": 6987,
-  "2023-07-11": 6992,
-  "2023-07-12": 7000,
-  "2023-07-13": 7012,
-  "2023-07-14": 7017,
-  "2023-07-15": 7023,
-  "2023-07-16": 7035,
-  "2023-07-17": 7040,
-  "2023-07-18": 7048,
-  "2023-07-19": 7052,
-  "2023-07-20": 7055,
-  "2023-07-21": 7062,
-  "2023-07-22": 7069,
-  "2023-07-23": 7073,
-  "2023-07-24": 7079,
-  "2023-07-25": 7080,
-  "2023-07-26": 7082,
-  "2023-07-27": 7088,
-  "2023-07-28": 7092,
-  "2023-07-29": 7099,
-  "2023-07-30": 7106,
-  "2023-07-31": 7111,
-  "2023-08-01": 7113,
-  "2023-08-02": 7124,
-  "2023-08-03": 7132,
-  "2023-08-04": 7136,
-  "2023-08-05": 7141,
-  "2023-08-06": 7145,
-  "2023-08-07": 7145,
-  "2023-08-08": 7146,
-  "2023-08-09": 7147,
-  "2023-08-10": 7155,
-  "2023-08-11": 7158,
-  "2023-08-12": 7158,
-  "2023-08-13": 7158,
-  "2023-08-14": 7168,
-  "2023-08-15": 7168,
-  "2023-08-16": 7168,
-  "2023-08-17": 7186,
-  "2023-08-18": 7186,
-  "2023-08-19": 7186,
-  "2023-08-20": 7214,
-  "2023-08-21": 7214,
-  "2023-08-22": 7231,
-  "2023-08-23": 7231,
-  "2023-08-24": 7231,
-  "2023-08-25": 7231,
-  "2023-08-26": 7251,
-  "2023-08-27": 7251,
-  "2023-08-28": 7583,
-  "2023-08-29": 7583,
-  "2023-08-30": 7583,
-  "2023-08-31": 7601,
-  "2023-09-01": 7610,
-  "2023-09-02": 7610,
-  "2023-09-03": 7618,
-  "2023-09-04": 7618,
-  "2023-09-05": 7618,
-  "2023-09-06": 7627,
-  "2023-09-07": 7627,
-  "2023-09-08": 7627,
-  "2023-09-09": 7627,
-  "2023-09-10": 7654,
-  "2023-09-11": 7654,
-  "2023-09-12": 7654,
-  "2023-09-13": 7673,
-  "2023-09-14": 7673,
-  "2023-09-15": 7673,
-  "2023-09-16": 7695,
-  "2023-09-17": 7695,
-  "2023-09-18": 7695,
-  "2023-09-19": 7728,
-  "2023-09-20": 7728,
-  "2023-09-21": 7728,
-  "2023-09-22": 7762,
-  "2023-09-23": 7762,
-  "2023-09-24": 7762,
-  "2023-09-25": 7762,
-  "2023-09-26": 7794,
-  "2023-09-27": 7794,
-  "2023-09-28": 7794,
-  "2023-09-29": 7794,
-  "2023-09-30": 7794,
-  "2023-10-01": 7794,
-  "2023-10-02": 7830,
-  "2023-10-03": 7830,
-  "2023-10-04": 7830,
-  "2023-10-05": 7854,
-  "2023-10-06": 7854,
-  "2023-10-07": 7854,
-  "2023-10-08": 7854,
-  "2023-10-09": 7854,
-  "2023-10-10": 7854,
-  "2023-10-11": 7887,
-  "2023-10-12": 7887,
-  "2023-10-13": 7887,
-  "2023-10-14": 7887,
-  "2023-10-15": 7887,
-  "2023-10-16": 7887,
-  "2023-10-17": 7887,
-  "2023-10-18": 7887,
-  "2023-10-19": 7887,
-  "2023-10-20": 7887,
-  "2023-10-21": 7887,
-  "2023-10-22": 7887,
-  "2023-10-23": 7887,
-  "2023-10-24": 7887,
-  "2023-10-25": 7887,
-  "2023-10-26": 7887,
-  "2023-10-27": 7887,
-  "2023-10-28": 7887,
-  "2023-10-29": 7887,
-  "2023-10-30": 7887,
-  "2023-10-31": 7887,
-  "2023-11-01": 7887,
-  "2023-11-02": 7887,
-  "2023-11-03": 7887,
-  "2023-11-04": 7887,
-  "2023-11-05": 7887,
-  "2023-11-06": 7887,
-  "2023-11-07": 7887,
-  "2023-11-08": 7887,
-  "2023-11-09": 7887,
-  "2023-11-10": 7887,
-  "2023-11-11": 8070,
-  "2023-11-12": 8070,
-  "2023-11-13": 8070,
-  "2023-11-14": 8070,
-  "2023-11-15": 8070,
-  "2023-11-16": 8070,
-  "2023-11-17": 8070,
-  "2023-11-18": 8070,
-  "2023-11-19": 8070,
-  "2023-11-20": 8070,
-  "2023-11-21": 8070,
-  "2023-11-22": 8070,
-  "2023-11-23": 8070,
-  "2023-11-24": 8070,
-  "2023-11-25": 8070,
-  "2023-11-26": 8070,
-  "2023-11-27": 8070,
-  "2023-11-28": 8070,
-  "2023-11-29": 8070,
-  "2023-11-30": 8070,
-  "2023-12-01": 8070,
-  "2023-12-02": 8070,
-  "2023-12-03": 8070,
-  "2023-12-04": 8070,
-  "2023-12-05": 8070,
-  "2023-12-06": 8070,
-  "2023-12-07": 8070,
-  "2023-12-08": 8070,
-  "2023-12-09": 8070,
-  "2023-12-10": 8070,
-  "2023-12-11": 8070,
-  "2023-12-12": 8070,
-  "2023-12-13": 8070,
-  "2023-12-14": 8271,
-  "2023-12-15": 8277,
-  "2023-12-16": 8283,
-  "2023-12-17": 8294,
-  "2023-12-18": 8298,
-  "2023-12-19": 8303,
-  "2023-12-20": 8308,
-  "2023-12-21": 8310,
-  "2023-12-22": 8315,
-  "2023-12-23": 8322,
-  "2023-12-24": 8329,
-  "2023-12-25": 8335,
-  "2023-12-26": 8335,
-  "2023-12-27": 8343,
-  "2023-12-30": 8369,
-  "2023-12-31": 8372,
-  "2024-01-01": 8375,
-  "2024-01-02": 8380,
-  "2024-01-03": 8386
+  "2024-01-17": 8432,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Patoranking. The essential tracks, all in one playlist.",
+  "name": "This Is Patoranking",
+  "tracks": [
+    {
+      "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199198,
+      "name": "Abule",
+      "url": "https://open.spotify.com/track/5GmvLu8Ok9KqBakA6jTEVK"
+    },
+    {
+      "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/7A5sOBdTQwFUlE3D0JbIVB"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 191681,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 204000,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/4iUR52Vde7PjuXJDdQzUaq"
+    },
+    {
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/1el7Fb3Dc9L7FRB0bKGkD9"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 245133,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/1wI7Fv20S6Cp26dwIu1aZJ"
+    },
+    {
+      "album": {
+        "name": "Patoranking",
+        "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 245133,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
+    },
+    {
+      "album": {
+        "name": "Aunty Lovina",
+        "url": "https://open.spotify.com/album/41TFQ5OW8R2G36vyKu3U0H"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 240500,
+      "name": "Aunty Lovina",
+      "url": "https://open.spotify.com/track/53gPrOWfnUvZSzx4erfaG1"
+    },
+    {
+      "album": {
+        "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/5d0oU10qoxpnSpa4PCaKXo"
+      },
+      "artists": [
+        {
+          "name": "Ycee",
+          "url": "https://open.spotify.com/artist/5zqRdlPXeCIuxgaPimSKXj"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 240500,
+      "name": "Aunty Lovina",
+      "url": "https://open.spotify.com/track/71ijJzLMwiBuUsYTNU5Th9"
+    },
+    {
+      "album": {
+        "name": "Available",
+        "url": "https://open.spotify.com/album/52Av15Tg6Sx7Ye0Rn20ONE"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 214575,
+      "name": "Available",
+      "url": "https://open.spotify.com/track/5m6aJAmW3ZJ50eK0Gg0HgL"
+    },
+    {
+      "album": {
+        "name": "Aye Yo Remix by DJ Buddha (feat. Shaggy & Angela Hunte)",
+        "url": "https://open.spotify.com/album/0UGOtntfqAZeZEIjxEiIVI"
+      },
+      "artists": [
+        {
+          "name": "Quincy",
+          "url": "https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "DJ Buddha",
+          "url": "https://open.spotify.com/artist/2m7JzVtYyAwdU0CnET9IvA"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 192077,
+      "name": "Aye Yo Remix by DJ Buddha",
+      "url": "https://open.spotify.com/track/6wa05sv2gvswBwkmXjHBRB"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+    },
+    {
+      "album": {
+        "name": "Dance, Vol. 1",
+        "url": "https://open.spotify.com/album/1TqeVetMJteizoDDEIZDqw"
+      },
+      "artists": [
+        {
+          "name": "Henry Knight",
+          "url": "https://open.spotify.com/artist/4xjNGIY2iJZwaFJnEPQ1r9"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 246492,
+      "name": "Bami Mujo (feat. Yung L & Patoranking)",
+      "url": "https://open.spotify.com/track/7JB8DUFRFWhAPd1bhEZRuo"
+    },
+    {
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/2lKgeWMfVOQ9USzl6DzN4l"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 241037,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/4cdFbzrgFOTisZt3Jyp5rX"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-18",
+      "duration_ms": 201970,
+      "name": "Black Girl Magic",
+      "url": "https://open.spotify.com/track/6CVUbSUCw5SeWk2S7f7vTN"
+    },
+    {
+      "album": {
+        "name": "Blessed More Blessed (The Remixes)",
+        "url": "https://open.spotify.com/album/5PBxaktc70K6Fe8P9APQKB"
+      },
+      "artists": [
+        {
+          "name": "Buju Banton",
+          "url": "https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 185451,
+      "name": "Blessed - Remix",
+      "url": "https://open.spotify.com/track/28CK6XonxLP2z48QwNXezY"
+    },
+    {
+      "album": {
+        "name": "ONLY ONE KING",
+        "url": "https://open.spotify.com/album/0u649Gff5qgywplGmwA74P"
+      },
+      "artists": [
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205137,
+      "name": "Bwana Mdogo (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/7MsF2wr8ZVkZoT6Xi5BQ14"
+    },
+    {
+      "album": {
+        "name": "Celebrate Me",
+        "url": "https://open.spotify.com/album/6PmMID2Cb2rHTfsJ9Wme56"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 239706,
+      "name": "Celebrate Me",
+      "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-01",
+      "duration_ms": 214869,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/1MgeahgsOalFDm0cdsqnMu"
+    },
+    {
+      "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "album": {
+        "name": "Madina to the Universe",
+        "url": "https://open.spotify.com/album/4q2dTArxnUt4hiWxXK0xPW"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190636,
+      "name": "Clean and Pure",
+      "url": "https://open.spotify.com/track/4FfweIA6z8WoNKGMv6G2S0"
+    },
+    {
+      "album": {
+        "name": "Confirm (feat. Davido)",
+        "url": "https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229013,
+      "name": "Confirm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175316,
+      "name": "Control Me",
+      "url": "https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv"
+    },
+    {
+      "album": {
+        "name": "Daniella Whine - single",
+        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 244840,
+      "name": "Daniella Whine",
+      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
+    },
+    {
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/56f5Gq8bsHwIWak9Odfxxk"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 259230,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg"
+    },
+    {
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/33Z98rZrWu6F89gCE6uqIl"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Kly",
+          "url": "https://open.spotify.com/artist/4eaCG3qI4Qq9aRbKSB3xO6"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Riky Rick",
+          "url": "https://open.spotify.com/artist/61ZRdppZ5sCtl9m5gfhoGO"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-19",
+      "duration_ms": 259231,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/25VYHFaeWtChxOAxsTuqV3"
+    },
+    {
+      "album": {
+        "name": "Soundgod Fest Vol.1",
+        "url": "https://open.spotify.com/album/6m2ccnWsYoPtpVHgeSx249"
+      },
+      "artists": [
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Skales",
+          "url": "https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv"
+        },
+        {
+          "name": "Wizzypro",
+          "url": "https://open.spotify.com/artist/7vSyM7Nq31eUp86VhgvCk3"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 232463,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/71YmAdIb6DJrNmlglPzUQz"
+    },
+    {
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/58l6rZ45OBZX9kNLZilIQw"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 167940,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/4CXcqCKkhtsOoDyWDv2juY"
+    },
+    {
+      "album": {
+        "name": "Feelings - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5LJvUFehOgLrzRpDzMAH9o"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Feelings - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/6pM36Gc15BBIwefH7Zy4GI"
+    },
+    {
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/1zAtHn3MeyWk3EiUzm1dcY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 213162,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2yuBg1LUCRE4Yun6vshLhd"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-31",
+      "duration_ms": 232026,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/52S1Zai36NYRS1mbVZCHH5"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232027,
+      "name": "G.O.E",
+      "url": "https://open.spotify.com/track/2VjfpkJblXjy1qc6DqmfP8"
+    },
+    {
+      "album": {
+        "name": "Gal Ting (Remix)",
+        "url": "https://open.spotify.com/album/5BWZkwc7LWDSHTa7bxWnoH"
+      },
+      "artists": [
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 175017,
+      "name": "Gal Ting - Remix",
+      "url": "https://open.spotify.com/track/2SEZTPBqXBfsimqx66lfNl"
+    },
+    {
+      "album": {
+        "name": "Gaza",
+        "url": "https://open.spotify.com/album/649OPfRLyt6r7b8MHDvZkk"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-20",
+      "duration_ms": 167546,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/2bm3xKzPQcg6KzyJHTwrk1"
+    },
+    {
+      "album": {
+        "name": "Greatness 2.0",
+        "url": "https://open.spotify.com/album/09HVEH824tr4OBfQmxgIxT"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 167546,
+      "name": "Gaza",
+      "url": "https://open.spotify.com/track/39LvOyRoIbHktXe1U4fPR4"
+    },
+    {
+      "album": {
+        "name": "Girlie 'O' (Remix)",
+        "url": "https://open.spotify.com/album/7IY6ObgWKvAbyqUAQ2wqf4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235514,
+      "name": "Girlie 'O' - Remix",
+      "url": "https://open.spotify.com/track/7eE7wjlxscWbY9K1vwIC6m"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/3oqIdStQ3DiR0g3Ne5KJzt"
+      },
+      "artists": [
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 217114,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/509woaokKvDfZIyt5lxCrJ"
+    },
+    {
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-12",
+      "duration_ms": 209493,
+      "name": "Girls Dem",
+      "url": "https://open.spotify.com/track/2zXALsJFKguDSbGZK6i1mB"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 205714,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/5ZEyOWZ3MTkLXyfMmgybID"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/627kAlU9VnbfhMjyUvhqxU"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Gyal Like You",
+      "url": "https://open.spotify.com/track/3GaNUHY0Mcjygfrwto7afl"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-13",
+      "duration_ms": 208360,
+      "name": "Hale Hale",
+      "url": "https://open.spotify.com/track/2iSeKtlHJAc9COUxZ5f57p"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 208355,
+      "name": "Hal\u00e9 Hal\u00e9",
+      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
+    },
+    {
+      "album": {
+        "name": "Happy Day",
+        "url": "https://open.spotify.com/album/34hT5nhS00WwzxLY9IhbUD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 260146,
+      "name": "Happy Day",
+      "url": "https://open.spotify.com/track/2SWqkpJmHPnLFaEf4HW7xr"
+    },
+    {
+      "album": {
+        "name": "Heal D World",
+        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 224026,
+      "name": "Heal D World",
+      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+    },
+    {
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/4yXr5GRRquWlt7ExXmh7CY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 191945,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/6S1W6Ll9DEAFMsQYoiem4l"
+    },
+    {
+      "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/1OiCzZuH7QlqqnX2sGe5VF"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209638,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/1V9xax1XoP0YpVp941UHJt"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/0GJWhWInQgWTI9iA7Pi2v1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194417,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5ooiTZRRjdOlMcNw5hsKlT"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 195428,
+      "name": "Inshallah",
+      "url": "https://open.spotify.com/track/6PfPfk6nwJFu5XX38R2obK"
+    },
+    {
+      "album": {
+        "name": "Yagi",
+        "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Kesh",
+          "url": "https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Is It Because I Love You",
+      "url": "https://open.spotify.com/track/2AdSFvM8oRvXkL7y0HqP7r"
+    },
+    {
+      "album": {
+        "name": "Jah Eli Jah",
+        "url": "https://open.spotify.com/album/0NB8X5tOAMMgU4lDWei9B4"
+      },
+      "artists": [
+        {
+          "name": "Cobhams Asuquo",
+          "url": "https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2022-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233764,
+      "name": "Jah Eli Jah",
+      "url": "https://open.spotify.com/track/1PLOmSVGYrTRycWnUAWIaF"
+    },
+    {
+      "album": {
+        "name": "Jama",
+        "url": "https://open.spotify.com/album/0jAZGDBm9i8MoD5AENa1xQ"
+      },
+      "artists": [
+        {
+          "name": "DJ Mic Smith",
+          "url": "https://open.spotify.com/artist/55vSMtCiV6fMgUMh9TEl6i"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Shaker",
+          "url": "https://open.spotify.com/artist/7ArAbdLBhHHZbkJI4cfndo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 234312,
+      "name": "Jama",
+      "url": "https://open.spotify.com/track/4dskoEQk5pAg9HKyEC2m1y"
+    },
+    {
+      "album": {
+        "name": "Omo Charlie Champagne Vol. 1",
+        "url": "https://open.spotify.com/album/0DfMhXwJEtsRauBcpb2rz7"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 195000,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/6PrImSndUslYTiN77tqlp8"
+    },
+    {
+      "album": {
+        "name": "Omo Charlie Champagne Vol.1",
+        "url": "https://open.spotify.com/album/2c8Mf9ScYdKrb9foJiNaGe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195030,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/1Am00a8Tk3uEaMMToIYNQo"
+    },
+    {
+      "album": {
+        "name": "Katika (Coke Studio Africa)",
+        "url": "https://open.spotify.com/album/4CpIInNMD9r5Pnhzv64uPU"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Alikiba",
+          "url": "https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 229719,
+      "name": "Katika (Coke Studio Africa)",
+      "url": "https://open.spotify.com/track/5BOuo9YApuhIMiNXhERwy0"
+    },
+    {
+      "album": {
+        "name": "SPOTLIGHT",
+        "url": "https://open.spotify.com/album/1HvZC18RODcUSqng5Q9KJ9"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 197519,
+      "name": "Killah Whyna",
+      "url": "https://open.spotify.com/track/3ZVVKGHWqmKa5T5ltl6EwV"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 194720,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/2XEIz6MxIuQ1pkWMwKzNAz"
+    },
+    {
+      "album": {
+        "name": "Kolo Kolo",
+        "url": "https://open.spotify.com/album/6o46JSSqZAcJSma0j37t4u"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195135,
+      "name": "Kolo Kolo",
+      "url": "https://open.spotify.com/track/2RnkJgwCzgvQU3MUysO1fG"
+    },
+    {
+      "album": {
+        "name": "Kom Kom",
+        "url": "https://open.spotify.com/album/43OG5eoAN9ERfSMTjPvq1c"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Kom Kom",
+      "url": "https://open.spotify.com/track/2KA51yRovba1V4rtRfOEqj"
+    },
+    {
+      "album": {
+        "name": "Lenge Lenge",
+        "url": "https://open.spotify.com/album/3xQdd0TuAMRx6A5lHsyAlu"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-22",
+      "duration_ms": 221225,
+      "name": "Lenge Lenge",
+      "url": "https://open.spotify.com/track/01SDjSBy0TBgA5O1dWynph"
+    },
+    {
+      "album": {
+        "name": "Highlife Konnect",
+        "url": "https://open.spotify.com/album/72NulXFtskbFG6htwcte2C"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212741,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/1N0GdFeRwgEeiDqkX0m4HB"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 202600,
+      "name": "Love Town",
+      "url": "https://open.spotify.com/track/0OUWMVacRugPsCYoccZewJ"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202603,
+      "name": "Love Town",
+      "url": "https://open.spotify.com/track/2xcjNO0DriNFkGhKihOIcZ"
+    },
+    {
+      "album": {
+        "name": "Love You Die (feat. Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/55VuLbTps49geEwrRAB0OD"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195597,
+      "name": "Love You Die (feat. Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6BnKiK0FwqJoqCdVKh442g"
+    },
+    {
+      "album": {
+        "name": "Ma girl",
+        "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207272,
+      "name": "Ma girl",
+      "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
+    },
+    {
+      "album": {
+        "name": "Alagbe",
+        "url": "https://open.spotify.com/album/5rTOCA3AYjkVc01JULfZhn"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "Magbe (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/2eMMRo8tqHXxnFBl9cbqK7"
+    },
+    {
+      "album": {
+        "name": "Make Am (feat. Ebonyi State Band)",
+        "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ebonyi State Band",
+          "url": "https://open.spotify.com/artist/6JQldf5pWbOLK5TsOjjRur"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 232893,
+      "name": "Make Am (feat. Ebonyi State Band)",
+      "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 199436,
+      "name": "Matter (feat. Tiwa Savage)",
+      "url": "https://open.spotify.com/track/2SbhvxUez3pZpXgZgxbe8g"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/3lVYhpsc6SAnMhagWrbwkm"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 267993,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/16MBuXj2eqRPa1Vs9AzUsF"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 267993,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/2iauO3C7vEcmJAyP9HXKYX"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267993,
+      "name": "Melanin",
+      "url": "https://open.spotify.com/track/6P4kIjBGUzlieJBkUFobTL"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/5XF4bvaQTx8VMACNbwWmt1"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 267993,
+      "name": "Melanin (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/3JkNYiDKTtwfmhJgolVcdg"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Miracle Baby",
+      "url": "https://open.spotify.com/track/4SiIa6dMiUzC9X1gz0OSYq"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205450,
+      "name": "Mon B\u00e9b\u00e9 (feat. Flavour)",
+      "url": "https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 224028,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
+    },
+    {
+      "album": {
+        "name": "Afro Killers",
+        "url": "https://open.spotify.com/album/578Mg0DXXNzt3UskNXOYU2"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-02",
+      "duration_ms": 224040,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/0snuocO9hiu2v4Vxzty6Q3"
+    },
+    {
+      "album": {
+        "name": "Summer Rap",
+        "url": "https://open.spotify.com/album/0kUBQPxKYmThRtsTHgaHzK"
+      },
+      "artists": [
+        {
+          "name": "Seyi Shay",
+          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Shadrach Adeboye",
+          "url": "https://open.spotify.com/artist/1xCR4iDc0Ix7Y0qcLzbtLM"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-06",
+      "duration_ms": 210680,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/28jhrL786YXY5tImmnrTLb"
+    },
+    {
+      "album": {
+        "name": "My Woman (DJ Tizo Remix)",
+        "url": "https://open.spotify.com/album/4b4Q5fpQXJtW7dp0f8pDwy"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Pappy Kojo",
+          "url": "https://open.spotify.com/artist/05wqlCGQReohsxStVBR052"
+        },
+        {
+          "name": "Wandy Coal",
+          "url": "https://open.spotify.com/artist/6dpA7fYLp2LadwO1bMgeMu"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165585,
+      "name": "My Woman - DJ Tizo Remix",
+      "url": "https://open.spotify.com/track/1bViJKzkE51jmulIdTCnUS"
+    },
+    {
+      "album": {
+        "name": "My Woman, My Everything (feat. Wandecoal) - Single",
+        "url": "https://open.spotify.com/album/0cUhwhoX9Yi7vhJgHfgRm4"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233717,
+      "name": "My Woman, My Everything (feat. Wandecoal)",
+      "url": "https://open.spotify.com/track/5MAScTGPHzWAeivPjpATa9"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 204787,
+      "name": "Nakupenda (feat. Nyashinski)",
+      "url": "https://open.spotify.com/track/3i8Uqoaftzmk7Lq6YBRMVy"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 221600,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/0aUfOf3FhEd8IKCjCHJDky"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221603,
+      "name": "No Kissing Baby",
+      "url": "https://open.spotify.com/track/16ygpIPe2ClOoOypX6QAuH"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2022-04-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 213716,
+      "name": "Odo Bra (feat. King Promise)",
+      "url": "https://open.spotify.com/track/5elIVN9RKGhzZjBGeHrDEy"
+    },
+    {
+      "album": {
+        "name": "Africa Unite",
+        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153057,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5SbbWSuCgpX1FrEx08LlU8"
+    },
+    {
+      "album": {
+        "name": "One Love (in support of UNICEF)",
+        "url": "https://open.spotify.com/album/0GYG8mzT02965RRFiBxfxX"
+      },
+      "artists": [
+        {
+          "name": "The Amplified Project",
+          "url": "https://open.spotify.com/artist/0O84UJcaMyncTUcA49HEch"
+        },
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Cedella Marley",
+          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
+        },
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Ghetto Youths Foundation",
+          "url": "https://open.spotify.com/artist/1EunaVmcxPZ3W0OEWd4enl"
+        },
+        {
+          "name": "Kim Nain",
+          "url": "https://open.spotify.com/artist/1sUh9PuHuNHe1ElLUHVLOC"
+        },
+        {
+          "name": "Manifesto Ja",
+          "url": "https://open.spotify.com/artist/5VNiqJUBfbraWrVFJEHjM6"
+        },
+        {
+          "name": "TEEKS",
+          "url": "https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ"
+        },
+        {
+          "name": "Natty",
+          "url": "https://open.spotify.com/artist/2bYR6To8Z49UmceWctNMIb"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "249TooDope",
+          "url": "https://open.spotify.com/artist/4ASAIQZCLWzcBvCmEVLOkm"
+        },
+        {
+          "name": "Mermans Mosengo",
+          "url": "https://open.spotify.com/artist/1F1ezryBLCpGjEm4hFnaDc"
+        },
+        {
+          "name": "Jason Tamba",
+          "url": "https://open.spotify.com/artist/7gfuxIgr15DM6ZgZyFCd1N"
+        },
+        {
+          "name": "Dawtas of Aya",
+          "url": "https://open.spotify.com/artist/13pgjqyXBaaIbsAkdRChFg"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Amrit Kaur",
+          "url": "https://open.spotify.com/artist/7G4R492mjIIVQbQPH2q6JS"
+        },
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/6lZtR7OsMOiWt7r59r217Z"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207341,
+      "name": "One Love (in support of UNICEF)",
+      "url": "https://open.spotify.com/track/1KA7SVX5x7TqYvCusGxmc7"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 226773,
+      "name": "Open Fire (feat. Busiswa)",
+      "url": "https://open.spotify.com/track/00X3BV84d52AMLuHC3bjvY"
+    },
+    {
+      "album": {
+        "name": "Know No Better",
+        "url": "https://open.spotify.com/album/4PJtsH62RuojHmS3VCAHXx"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Ice Prince",
+          "url": "https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Jidenna",
+          "url": "https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn"
+        },
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204654,
+      "name": "Particula (feat. DJ Maphorisa, Nasty C, Ice Prince, Patoranking & Jidenna)",
+      "url": "https://open.spotify.com/track/2mZLaQDdLplafm3Y5HMr51"
+    },
+    {
+      "album": {
+        "name": "Penetrate",
+        "url": "https://open.spotify.com/album/51viQUw5o1TqDJM1BLY7N2"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Del B",
+          "url": "https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 210311,
+      "name": "Penetrate",
+      "url": "https://open.spotify.com/track/3iaGr6kK4g3kZFms0ASb5S"
+    },
+    {
+      "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "album": {
+        "name": "Roll On Me",
+        "url": "https://open.spotify.com/album/5fNWSpENYMGAqIYehytNyU"
+      },
+      "artists": [
+        {
+          "name": "evrYwhr",
+          "url": "https://open.spotify.com/artist/11xAvdpLHrDd9f2VIG8QB3"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169006,
+      "name": "Roll On Me",
+      "url": "https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo"
+    },
+    {
+      "album": {
+        "name": "Roll On Me",
+        "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
+      },
+      "artists": [
+        {
+          "name": "Lavaud",
+          "url": "https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Saint & Citizen",
+          "url": "https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Roll On Me",
+      "url": "https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC"
+    },
+    {
+      "album": {
+        "name": "Rudi (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/7GBbTkIxylA9vWLPJkBNDt"
+      },
+      "artists": [
+        {
+          "name": "Rich Mavoko",
+          "url": "https://open.spotify.com/artist/0KajUilOQQilNNtReM67Kp"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 219820,
+      "name": "Rudi (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5UTUhxdfkdIxXoXSJzOeUO"
+    },
+    {
+      "album": {
+        "name": "Simma",
+        "url": "https://open.spotify.com/album/2tjoYWbKdQ7F8uYsSU1d9n"
+      },
+      "artists": [
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 236037,
+      "name": "Sharpshooter",
+      "url": "https://open.spotify.com/track/3FuyPh7fJNOBJCX3qSlThe"
+    },
+    {
+      "album": {
+        "name": "Sing My Name (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/54wYyB89BpQsUSsNv87zdb"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214769,
+      "name": "Sing My Name (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/49ON6nzE795sVqUQ0o01l2"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219552,
+      "name": "Smoke & Vibes",
+      "url": "https://open.spotify.com/track/6jFlpzEpvEPKDgLGrmgS7O"
+    },
+    {
+      "album": {
+        "name": "Blaqboy",
+        "url": "https://open.spotify.com/album/16zh7jmeDwScYf38d87qUK"
+      },
+      "artists": [
+        {
+          "name": "DJ Maphorisa",
+          "url": "https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "K-LY",
+          "url": "https://open.spotify.com/artist/4P2M1oQNJnRYMxiEbjMN3m"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196800,
+      "name": "Snapdatsh!t",
+      "url": "https://open.spotify.com/track/5gkUG4ebUgpKEbnaZYIfCz"
+    },
+    {
+      "album": {
+        "name": "Something Nice",
+        "url": "https://open.spotify.com/album/1Q334n1rC4ZZ2Me1EC4Okv"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209502,
+      "name": "Something Nice",
+      "url": "https://open.spotify.com/track/6kue96ttd26sO4QQi4djEy"
+    },
+    {
+      "album": {
+        "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+        "url": "https://open.spotify.com/album/2QjPqoUeJkw9kJGyOAzaSP"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/1639uOVB9OMIRiaLEENYoX"
+    },
+    {
+      "album": {
+        "name": "The Golden Boy",
+        "url": "https://open.spotify.com/album/7sX992U7KTu4up4jW1LEPX"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Spiritual (feat. Kuami Eugene & Patoranking)",
+      "url": "https://open.spotify.com/track/20v09gzHogJdM5a3GLpR4p"
+    },
+    {
+      "album": {
+        "name": "Suh Different",
+        "url": "https://open.spotify.com/album/0FGE6PIsjF1Dk9OFq3iQU7"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218488,
+      "name": "Suh Different",
+      "url": "https://open.spotify.com/track/3mdPtsarSxesXYqBP8OxJ5"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/1m0vtbXSdmJ9lz8iBPBtlC"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 202343,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4IW5rI50E0ioz1Vd2NTaMa"
+    },
+    {
+      "album": {
+        "name": "Headliner",
+        "url": "https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf"
+      },
+      "artists": [
+        {
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215412,
+      "name": "Suzanna (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5yftPkWxksVGPSi21pFuJQ"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-26",
+      "duration_ms": 188577,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/6BCgqecN4NyIbgDaJy0u2q"
+    },
+    {
+      "album": {
+        "name": "Tetema Remix (feat. Patoranking, Zlatan & Diamond Platnumz)",
+        "url": "https://open.spotify.com/album/5LLYgXNnd4Igbln9aNjVQi"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 254087,
+      "name": "Tetema Remix (feat. Patoranking, Zlatan & Diamond Platnumz)",
+      "url": "https://open.spotify.com/track/6Ia713o9xJsQ0eHb2cMknt"
+    },
+    {
+      "album": {
+        "name": "Tetema Remix II",
+        "url": "https://open.spotify.com/album/6tOeItN4bVuLiVospiI2nJ"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-19",
+      "duration_ms": 254093,
+      "name": "Tetema Remix II",
+      "url": "https://open.spotify.com/track/4GKQBdxakaunlyBB21sRJa"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229128,
+      "name": "This Kind Luv",
+      "url": "https://open.spotify.com/track/2UrxkIScshPyPlgRpy57Fm"
+    },
+    {
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/1BDk1Fo6GHwaHRFlMiZPvR"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 229133,
+      "name": "This Kind Luv",
+      "url": "https://open.spotify.com/track/7iZUOZ4wEtpKEhR9ySgHp9"
+    },
+    {
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5y6mPZFSHQbPx4j8qVGng2"
+      },
+      "artists": [
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
+    },
+    {
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
+    },
+    {
+      "album": {
+        "name": "TONIGHT (SPED UP)",
+        "url": "https://open.spotify.com/album/35G3wbgsPubiXVaUV73MXb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73800,
+      "name": "Tonight SPED UP",
+      "url": "https://open.spotify.com/track/7BdYlZyuqWGtW5fD31fMNM"
+    },
+    {
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/0Ka05Dg15vP2Sc4VbRstVo"
+      },
+      "artists": [
+        {
+          "name": "Toofan",
+          "url": "https://open.spotify.com/artist/5BfpzKNakWiXUNm1RfBgUi"
+        },
+        {
+          "name": "Tony X",
+          "url": "https://open.spotify.com/artist/5JCtawfBeAUB4UKzxRE8sR"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191145,
+      "name": "Twerk Nam",
+      "url": "https://open.spotify.com/track/2DGqBPqO06GpfBWhu8LEVv"
+    },
+    {
+      "album": {
+        "name": "W.E.E.D.",
+        "url": "https://open.spotify.com/album/23BR88E4ycb1L19PLZbEuP"
+      },
+      "artists": [
+        {
+          "name": "Solidstar",
+          "url": "https://open.spotify.com/artist/1Nuq9WJb01OoR56vu02bhX"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 281453,
+      "name": "Wait Refix",
+      "url": "https://open.spotify.com/track/630ORw8FxlwBCIK3uGPb22"
+    },
+    {
+      "album": {
+        "name": "We Run The Road",
+        "url": "https://open.spotify.com/album/74DfDzN8aWJRVVfRKSSBIG"
+      },
+      "artists": [
+        {
+          "name": "Big Zulu",
+          "url": "https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 221223,
+      "name": "We Run The Road",
+      "url": "https://open.spotify.com/track/29zDAYgVf05ipZ8mndZzmJ"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Whine It (feat. Sauti Sol)",
+      "url": "https://open.spotify.com/track/5mFGk1g417gDhAvrafXjEK"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Bera",
+          "url": "https://open.spotify.com/artist/280SVkMc8Ij2T4n6EMhWuB"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224597,
+      "name": "Wilmer (feat. Bera)",
+      "url": "https://open.spotify.com/track/4BSYq4DF84PXs9i7P8comh"
+    },
+    {
+      "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Zion Foster",
+          "url": "https://open.spotify.com/artist/7z5nU71I7KTEdTHiPMfwL6"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 189761,
+      "name": "Woman Of The Year",
+      "url": "https://open.spotify.com/track/641Y779nv9hwQmq37QOvWX"
+    },
+    {
+      "album": {
+        "name": "7 Wonders",
+        "url": "https://open.spotify.com/album/4S36d5juEkrwjEpFdAizUN"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Erigga",
+          "url": "https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 66116,
+      "name": "Wonder (feat. Erigga & Patoranking)",
+      "url": "https://open.spotify.com/track/7xRBmiCJKt420Ybs7PebYf"
+    },
+    {
+      "album": {
+        "name": "Wonder (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/1ywLmHZrCdZs0TlcXlGQdB"
+      },
+      "artists": [
+        {
+          "name": "Dremo",
+          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 173547,
+      "name": "Wonder (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/4cr9TB2EIAb3uDgvjbYYL0"
+    },
+    {
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/7d81pDqBMRftoYFdi07C8m"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Spice",
+          "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 194115,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/0jJD1bkgMc3XkBtRShAkAv"
+    },
+    {
+      "album": {
+        "name": "Three",
+        "url": "https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189598,
+      "name": "Yo Body",
+      "url": "https://open.spotify.com/track/7gw2JZuedwF7jQEaoG8vPP"
+    },
+    {
+      "album": {
+        "name": "Wilmer",
+        "url": "https://open.spotify.com/album/4nMoBj5wMHccOCYB62ipcc"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 190158,
+      "name": "Z\u00e9ro Probl\u00e9m\u00e9 (feat. Dadju)",
+      "url": "https://open.spotify.com/track/5UA1OrJp2DnBWrCuOS9t53"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iOLV6"
 }

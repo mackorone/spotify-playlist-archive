@@ -550,7 +550,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-05",
+      "date_removed": null,
       "duration_ms": 216331,
       "name": "Abeseed",
       "url": "https://open.spotify.com/track/1kaogg2CPZHgT4yafdj205"
@@ -1312,7 +1312,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 235921,
       "name": "Back to Hastings",
       "url": "https://open.spotify.com/track/0Pt4TBaEaUmzU5QW2IE7VN"
@@ -2064,7 +2064,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 232867,
       "name": "Closed - Yosemite Version",
       "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
@@ -2772,7 +2772,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 184500,
       "name": "Dreams Without Gravity",
       "url": "https://open.spotify.com/track/2aMxrruZ1dkEzrfzshxvs2"
@@ -3328,7 +3328,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": "2024-01-11",
       "duration_ms": 277199,
       "name": "EveryWhen - Bonus Track",
       "url": "https://open.spotify.com/track/2HGeIYpOrU9u5UR9Z98mx9"
@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 166080,
       "name": "Ficus II",
       "url": "https://open.spotify.com/track/0gSMfmDg40ayq9jAMj779s"
@@ -4834,7 +4834,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 177971,
       "name": "Info Pandemie",
       "url": "https://open.spotify.com/track/7ISJqbzViFwAHboObjStGL"
@@ -5058,6 +5058,24 @@
       "duration_ms": 300000,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3WSIWq7U5bbM0sLrllq7gr"
+    },
+    {
+      "album": {
+        "name": "Tracing Back the Radiance",
+        "url": "https://open.spotify.com/album/7cGsWLE0Hde48FV4MCftR3"
+      },
+      "artists": [
+        {
+          "name": "Jefre Cantu-Ledesma",
+          "url": "https://open.spotify.com/artist/5MqgtmMdtrsZIQpZzLhpX5"
+        }
+      ],
+      "date_added": "2021-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/5CNvpsmmuWL9qChEbFbBcc"
     },
     {
       "album": {
@@ -6515,6 +6533,24 @@
     },
     {
       "album": {
+        "name": "Sprig Songs",
+        "url": "https://open.spotify.com/album/4ct3nDg9TPM4vURcOQ9hfd"
+      },
+      "artists": [
+        {
+          "name": "ddwy",
+          "url": "https://open.spotify.com/artist/2WrVgrATbqKvkO3VmPSiy9"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415615,
+      "name": "Naini's Call",
+      "url": "https://open.spotify.com/track/2KI2fI3aggHeBM4PGyWLvE"
+    },
+    {
+      "album": {
         "name": "One Life : four remixes",
         "url": "https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9"
       },
@@ -6530,7 +6566,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 360193,
       "name": "Nana (Like A Star Made For Me) - Julianna Barwick remix",
       "url": "https://open.spotify.com/track/7gfK7eKZ3aM4RqNstDEzcU"
@@ -7386,7 +7422,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 403346,
       "name": "Pink Noise",
       "url": "https://open.spotify.com/track/3lroHSuomu8fkbk7raTLAk"
@@ -8190,7 +8226,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 274800,
       "name": "Shadows (The Light of Light)",
       "url": "https://open.spotify.com/track/3BhwZ5q8KjXLEazLX5Kuhv"
@@ -9690,7 +9726,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 182030,
       "name": "The Fog of The Shire",
       "url": "https://open.spotify.com/track/0Nz8av1JB2HnG35kNljUUL"
@@ -9712,7 +9748,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 328063,
       "name": "The Last Retention - Thomas Ragsdale's Deep Space Mix",
       "url": "https://open.spotify.com/track/0SzKbI4scZulf94FEjJMx3"
@@ -9788,6 +9824,36 @@
       "duration_ms": 268000,
       "name": "The Psychedelic One",
       "url": "https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg"
+    },
+    {
+      "album": {
+        "name": "Solar Bridge",
+        "url": "https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7"
+      },
+      "artists": [
+        {
+          "name": "Emeralds",
+          "url": "https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv"
+        },
+        {
+          "name": "Steve Hauschildt",
+          "url": "https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO"
+        },
+        {
+          "name": "Mark McGuire",
+          "url": "https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By"
+        },
+        {
+          "name": "Imaginary Softwoods",
+          "url": "https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 855493,
+      "name": "The Quaking Mess",
+      "url": "https://open.spotify.com/track/0Yd9nY8GQExedAjm18b0Wr"
     },
     {
       "album": {

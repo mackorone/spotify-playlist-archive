@@ -1,577 +1,2815 @@
 {
-  "2022-06-02": 101550,
-  "2022-06-03": 101873,
-  "2022-06-04": 102279,
-  "2022-06-05": 102747,
-  "2022-06-06": 103100,
-  "2022-06-07": 103445,
-  "2022-06-08": 103881,
-  "2022-06-09": 104146,
-  "2022-06-10": 104510,
-  "2022-06-11": 104879,
-  "2022-06-12": 105334,
-  "2022-06-13": 105727,
-  "2022-06-14": 106040,
-  "2022-06-15": 106388,
-  "2022-06-16": 106779,
-  "2022-06-17": 107181,
-  "2022-06-18": 107698,
-  "2022-06-19": 108559,
-  "2022-06-20": 108559,
-  "2022-06-21": 108901,
-  "2022-06-22": 109677,
-  "2022-06-23": 109677,
-  "2022-06-24": 110061,
-  "2022-06-25": 110540,
-  "2022-06-26": 110950,
-  "2022-06-27": 111336,
-  "2022-06-28": 111627,
-  "2022-06-29": 111997,
-  "2022-06-30": 112431,
-  "2022-07-01": 112914,
-  "2022-07-02": 113468,
-  "2022-07-03": 113966,
-  "2022-07-04": 114425,
-  "2022-07-05": 114764,
-  "2022-07-06": 114764,
-  "2022-07-07": 115634,
-  "2022-07-08": 116154,
-  "2022-07-09": 116665,
-  "2022-07-10": 117199,
-  "2022-07-11": 117608,
-  "2022-07-12": 118001,
-  "2022-07-13": 118418,
-  "2022-07-14": 118825,
-  "2022-07-15": 119301,
-  "2022-07-16": 119839,
-  "2022-07-17": 120411,
-  "2022-07-18": 120936,
-  "2022-07-19": 121350,
-  "2022-07-20": 121782,
-  "2022-07-21": 122223,
-  "2022-07-22": 122742,
-  "2022-07-23": 123287,
-  "2022-07-24": 123875,
-  "2022-07-25": 124331,
-  "2022-07-26": 124725,
-  "2022-07-27": 125086,
-  "2022-07-28": 125439,
-  "2022-07-29": 125813,
-  "2022-07-30": 126690,
-  "2022-07-31": 126690,
-  "2022-08-01": 127095,
-  "2022-08-02": 127860,
-  "2022-08-03": 127860,
-  "2022-08-04": 128273,
-  "2022-08-05": 128718,
-  "2022-08-06": 129289,
-  "2022-08-07": 129799,
-  "2022-08-08": 130229,
-  "2022-08-09": 130651,
-  "2022-08-10": 131113,
-  "2022-08-11": 131545,
-  "2022-08-12": 132048,
-  "2022-08-13": 132592,
-  "2022-08-14": 133238,
-  "2022-08-15": 133813,
-  "2022-08-16": 134311,
-  "2022-08-17": 134802,
-  "2022-08-18": 135265,
-  "2022-08-19": 135782,
-  "2022-08-20": 136293,
-  "2022-08-21": 136846,
-  "2022-08-22": 137276,
-  "2022-08-23": 137690,
-  "2022-08-24": 138081,
-  "2022-08-25": 138491,
-  "2022-08-26": 138887,
-  "2022-08-27": 139378,
-  "2022-08-28": 139890,
-  "2022-08-29": 140278,
-  "2022-08-30": 140631,
-  "2022-08-31": 141000,
-  "2022-09-01": 141426,
-  "2022-09-02": 141820,
-  "2022-09-03": 142224,
-  "2022-09-04": 142645,
-  "2022-09-05": 143017,
-  "2022-09-06": 143358,
-  "2022-09-07": 143704,
-  "2022-09-09": 144379,
-  "2022-09-10": 144761,
-  "2022-09-11": 145188,
-  "2022-09-12": 145644,
-  "2022-09-13": 145975,
-  "2022-09-15": 146655,
-  "2022-09-16": 147027,
-  "2022-09-17": 147427,
-  "2022-09-18": 147785,
-  "2022-09-19": 148107,
-  "2022-09-20": 148393,
-  "2022-09-21": 148702,
-  "2022-09-22": 149069,
-  "2022-09-23": 149397,
-  "2022-09-24": 149759,
-  "2022-09-25": 150180,
-  "2022-09-26": 150557,
-  "2022-09-27": 150876,
-  "2022-09-28": 151221,
-  "2022-09-29": 151594,
-  "2022-09-30": 152000,
-  "2022-10-01": 152397,
-  "2022-10-02": 152789,
-  "2022-10-03": 153104,
-  "2022-10-04": 153408,
-  "2022-10-05": 153754,
-  "2022-10-06": 154127,
-  "2022-10-07": 154561,
-  "2022-10-08": 155057,
-  "2022-10-09": 155823,
-  "2022-10-10": 155969,
-  "2022-10-11": 156332,
-  "2022-10-12": 156727,
-  "2022-10-13": 157187,
-  "2022-10-14": 157613,
-  "2022-10-15": 158071,
-  "2022-10-16": 158561,
-  "2022-10-17": 158966,
-  "2022-10-18": 159321,
-  "2022-10-19": 159692,
-  "2022-10-20": 160067,
-  "2022-10-21": 160497,
-  "2022-10-22": 160916,
-  "2022-10-23": 161411,
-  "2022-10-24": 161857,
-  "2022-10-25": 162231,
-  "2022-10-26": 162572,
-  "2022-10-27": 162900,
-  "2022-10-28": 163295,
-  "2022-10-29": 163709,
-  "2022-10-30": 164156,
-  "2022-10-31": 164472,
-  "2022-11-01": 164784,
-  "2022-11-02": 165057,
-  "2022-11-03": 165419,
-  "2022-11-04": 165762,
-  "2022-11-05": 166124,
-  "2022-11-06": 166518,
-  "2022-11-07": 166959,
-  "2022-11-08": 167269,
-  "2022-11-09": 167698,
-  "2022-11-10": 168081,
-  "2022-11-11": 168462,
-  "2022-11-12": 168883,
-  "2022-11-13": 169174,
-  "2022-11-14": 169500,
-  "2022-11-15": 169810,
-  "2022-11-16": 170112,
-  "2022-11-17": 170475,
-  "2022-11-18": 170566,
-  "2022-11-19": 170686,
-  "2022-11-20": 171034,
-  "2022-11-21": 171421,
-  "2022-11-22": 171746,
-  "2022-11-23": 172030,
-  "2022-11-24": 172537,
-  "2022-11-25": 173007,
-  "2022-11-26": 173365,
-  "2022-11-27": 173651,
-  "2022-11-28": 173953,
-  "2022-11-29": 174222,
-  "2022-11-30": 174523,
-  "2022-12-01": 174814,
-  "2022-12-02": 175053,
-  "2022-12-03": 175517,
-  "2022-12-04": 175890,
-  "2022-12-05": 176228,
-  "2022-12-06": 176508,
-  "2022-12-07": 176794,
-  "2022-12-08": 177070,
-  "2022-12-09": 177438,
-  "2022-12-10": 177756,
-  "2022-12-11": 178119,
-  "2022-12-12": 178512,
-  "2022-12-13": 178806,
-  "2022-12-14": 179104,
-  "2022-12-15": 179363,
-  "2022-12-16": 179661,
-  "2022-12-17": 179948,
-  "2022-12-18": 180337,
-  "2022-12-19": 180597,
-  "2022-12-20": 181146,
-  "2022-12-21": 181146,
-  "2022-12-22": 181420,
-  "2022-12-24": 182088,
-  "2022-12-25": 182465,
-  "2022-12-26": 182816,
-  "2022-12-27": 183088,
-  "2022-12-28": 183421,
-  "2022-12-29": 183726,
-  "2022-12-30": 184037,
-  "2022-12-31": 184447,
-  "2023-01-01": 184914,
-  "2023-01-02": 185280,
-  "2023-01-03": 185599,
-  "2023-01-04": 185904,
-  "2023-01-05": 186868,
-  "2023-01-06": 187966,
-  "2023-01-07": 188432,
-  "2023-01-08": 188537,
-  "2023-01-09": 188853,
-  "2023-01-10": 189104,
-  "2023-01-11": 189385,
-  "2023-01-12": 189708,
-  "2023-01-13": 190038,
-  "2023-01-14": 190584,
-  "2023-01-15": 190661,
-  "2023-01-16": 191044,
-  "2023-01-17": 191307,
-  "2023-01-18": 191609,
-  "2023-01-19": 191946,
-  "2023-01-20": 192214,
-  "2023-01-21": 192528,
-  "2023-01-22": 192864,
-  "2023-01-23": 193191,
-  "2023-01-24": 193451,
-  "2023-01-25": 193728,
-  "2023-01-26": 193973,
-  "2023-01-27": 194235,
-  "2023-01-28": 194524,
-  "2023-01-29": 194840,
-  "2023-01-30": 195115,
-  "2023-01-31": 195115,
-  "2023-02-01": 195610,
-  "2023-02-02": 195841,
-  "2023-02-03": 196096,
-  "2023-02-04": 196345,
-  "2023-02-05": 196627,
-  "2023-02-06": 196857,
-  "2023-02-07": 197125,
-  "2023-02-08": 197550,
-  "2023-02-09": 197550,
-  "2023-02-10": 197783,
-  "2023-02-11": 198037,
-  "2023-02-12": 198552,
-  "2023-02-13": 198747,
-  "2023-02-14": 198747,
-  "2023-02-15": 198949,
-  "2023-02-16": 199176,
-  "2023-02-17": 199414,
-  "2023-02-18": 199972,
-  "2023-02-19": 200048,
-  "2023-02-20": 200249,
-  "2023-02-21": 200502,
-  "2023-02-22": 200731,
-  "2023-02-23": 201004,
-  "2023-02-24": 201293,
-  "2023-02-25": 201733,
-  "2023-02-26": 201964,
-  "2023-02-27": 202551,
-  "2023-02-28": 202551,
-  "2023-03-01": 202836,
-  "2023-03-02": 203195,
-  "2023-03-03": 203541,
-  "2023-03-04": 203817,
-  "2023-03-05": 204498,
-  "2023-03-06": 204498,
-  "2023-03-07": 204758,
-  "2023-03-08": 204974,
-  "2023-03-09": 205205,
-  "2023-03-10": 205525,
-  "2023-03-11": 205870,
-  "2023-03-12": 206267,
-  "2023-03-13": 206583,
-  "2023-03-14": 206830,
-  "2023-03-15": 207112,
-  "2023-03-16": 207112,
-  "2023-03-17": 207112,
-  "2023-03-18": 207907,
-  "2023-03-19": 207907,
-  "2023-03-20": 208473,
-  "2023-03-21": 208718,
-  "2023-03-22": 208991,
-  "2023-03-23": 209228,
-  "2023-03-24": 209228,
-  "2023-03-25": 209811,
-  "2023-03-26": 210106,
-  "2023-03-27": 210414,
-  "2023-03-28": 210670,
-  "2023-03-29": 210960,
-  "2023-03-30": 211399,
-  "2023-03-31": 211399,
-  "2023-04-01": 211660,
-  "2023-04-02": 211969,
-  "2023-04-03": 212231,
-  "2023-04-04": 212455,
-  "2023-04-05": 212734,
-  "2023-04-06": 213028,
-  "2023-04-07": 213346,
-  "2023-04-09": 213864,
-  "2023-04-10": 214049,
-  "2023-04-11": 214398,
-  "2023-04-12": 214398,
-  "2023-04-13": 214614,
-  "2023-04-14": 214832,
-  "2023-04-15": 215050,
-  "2023-04-16": 215285,
-  "2023-04-17": 215507,
-  "2023-04-18": 215708,
-  "2023-04-19": 215893,
-  "2023-04-20": 216072,
-  "2023-04-21": 216292,
-  "2023-04-22": 216507,
-  "2023-04-23": 216767,
-  "2023-04-24": 216959,
-  "2023-04-25": 217131,
-  "2023-04-26": 217342,
-  "2023-04-27": 217553,
-  "2023-04-28": 217879,
-  "2023-04-29": 218150,
-  "2023-04-30": 218441,
-  "2023-05-01": 218660,
-  "2023-05-02": 218853,
-  "2023-05-03": 219033,
-  "2023-05-04": 219230,
-  "2023-05-05": 219409,
-  "2023-05-06": 219672,
-  "2023-05-07": 219927,
-  "2023-05-08": 220139,
-  "2023-05-09": 220335,
-  "2023-05-10": 220510,
-  "2023-05-11": 220712,
-  "2023-05-12": 220945,
-  "2023-05-13": 221176,
-  "2023-05-14": 221413,
-  "2023-05-15": 221650,
-  "2023-05-16": 221869,
-  "2023-05-17": 222006,
-  "2023-05-18": 222162,
-  "2023-05-19": 222321,
-  "2023-05-20": 222706,
-  "2023-05-21": 222706,
-  "2023-05-22": 222706,
-  "2023-05-23": 223096,
-  "2023-05-24": 223371,
-  "2023-05-25": 223422,
-  "2023-05-26": 223582,
-  "2023-05-27": 223743,
-  "2023-05-28": 223934,
-  "2023-05-29": 223934,
-  "2023-05-30": 224207,
-  "2023-05-31": 224352,
-  "2023-06-01": 224512,
-  "2023-06-02": 224673,
-  "2023-06-03": 224862,
-  "2023-06-04": 225083,
-  "2023-06-05": 225287,
-  "2023-06-06": 225489,
-  "2023-06-07": 225668,
-  "2023-06-08": 225859,
-  "2023-06-09": 226080,
-  "2023-06-10": 226370,
-  "2023-06-11": 226648,
-  "2023-06-12": 226870,
-  "2023-06-13": 227095,
-  "2023-06-14": 227279,
-  "2023-06-15": 227469,
-  "2023-06-16": 227680,
-  "2023-06-17": 227892,
-  "2023-06-18": 228135,
-  "2023-06-19": 228347,
-  "2023-06-20": 228521,
-  "2023-06-21": 228670,
-  "2023-06-22": 228834,
-  "2023-06-23": 229003,
-  "2023-06-24": 229297,
-  "2023-06-25": 229592,
-  "2023-06-26": 230473,
-  "2023-06-27": 230635,
-  "2023-06-28": 230791,
-  "2023-06-29": 230938,
-  "2023-06-30": 231070,
-  "2023-07-01": 231418,
-  "2023-07-02": 231418,
-  "2023-07-03": 231553,
-  "2023-07-04": 231709,
-  "2023-07-05": 231860,
-  "2023-07-06": 232162,
-  "2023-07-07": 232162,
-  "2023-07-08": 232328,
-  "2023-07-09": 232509,
-  "2023-07-10": 232694,
-  "2023-07-11": 232862,
-  "2023-07-12": 233015,
-  "2023-07-13": 233184,
-  "2023-07-14": 233357,
-  "2023-07-15": 233460,
-  "2023-07-16": 233724,
-  "2023-07-17": 233883,
-  "2023-07-18": 234022,
-  "2023-07-19": 234190,
-  "2023-07-20": 234365,
-  "2023-07-21": 234526,
-  "2023-07-22": 234717,
-  "2023-07-23": 234922,
-  "2023-07-24": 235084,
-  "2023-07-25": 235234,
-  "2023-07-26": 235383,
-  "2023-07-27": 235562,
-  "2023-07-28": 235779,
-  "2023-07-29": 235930,
-  "2023-07-30": 236127,
-  "2023-07-31": 236276,
-  "2023-08-01": 236446,
-  "2023-08-02": 236602,
-  "2023-08-03": 236748,
-  "2023-08-04": 236869,
-  "2023-08-05": 237019,
-  "2023-08-06": 237363,
-  "2023-08-07": 237363,
-  "2023-08-08": 237450,
-  "2023-08-09": 237549,
-  "2023-08-10": 237714,
-  "2023-08-11": 237838,
-  "2023-08-12": 238005,
-  "2023-08-13": 238005,
-  "2023-08-14": 238309,
-  "2023-08-15": 238452,
-  "2023-08-16": 238452,
-  "2023-08-17": 238700,
-  "2023-08-18": 238700,
-  "2023-08-19": 239989,
-  "2023-08-20": 240326,
-  "2023-08-21": 240517,
-  "2023-08-22": 240643,
-  "2023-08-23": 240782,
-  "2023-08-24": 240928,
-  "2023-08-25": 240928,
-  "2023-08-26": 241232,
-  "2023-08-27": 241395,
-  "2023-08-28": 241527,
-  "2023-08-29": 241527,
-  "2023-08-30": 241527,
-  "2023-08-31": 241855,
-  "2023-09-01": 242166,
-  "2023-09-02": 242166,
-  "2023-09-03": 242360,
-  "2023-09-04": 242360,
-  "2023-09-05": 242360,
-  "2023-09-06": 242792,
-  "2023-09-07": 242792,
-  "2023-09-08": 242792,
-  "2023-09-09": 242792,
-  "2023-09-10": 243499,
-  "2023-09-11": 243723,
-  "2023-09-12": 243723,
-  "2023-09-13": 244179,
-  "2023-09-14": 244179,
-  "2023-09-15": 244179,
-  "2023-09-16": 244789,
-  "2023-09-17": 244789,
-  "2023-09-18": 244789,
-  "2023-09-19": 245225,
-  "2023-09-20": 245225,
-  "2023-09-21": 245225,
-  "2023-09-22": 245699,
-  "2023-09-23": 245699,
-  "2023-09-24": 245699,
-  "2023-09-25": 245699,
-  "2023-09-26": 246363,
-  "2023-09-27": 246363,
-  "2023-09-28": 246363,
-  "2023-09-29": 246363,
-  "2023-09-30": 246363,
-  "2023-10-01": 246363,
-  "2023-10-02": 247259,
-  "2023-10-03": 247259,
-  "2023-10-04": 247259,
-  "2023-10-05": 247717,
-  "2023-10-06": 247894,
-  "2023-10-07": 247894,
-  "2023-10-08": 247894,
-  "2023-10-09": 247894,
-  "2023-10-10": 247894,
-  "2023-10-11": 248661,
-  "2023-10-12": 248661,
-  "2023-10-13": 248661,
-  "2023-10-14": 248661,
-  "2023-10-15": 248661,
-  "2023-10-16": 248661,
-  "2023-10-17": 248661,
-  "2023-10-18": 248661,
-  "2023-10-19": 248661,
-  "2023-10-20": 248661,
-  "2023-10-21": 248661,
-  "2023-10-22": 248661,
-  "2023-10-23": 248661,
-  "2023-10-24": 248661,
-  "2023-10-25": 248661,
-  "2023-10-26": 248661,
-  "2023-10-27": 248661,
-  "2023-10-28": 248661,
-  "2023-10-29": 248661,
-  "2023-10-30": 248661,
-  "2023-10-31": 248661,
-  "2023-11-01": 248661,
-  "2023-11-02": 248661,
-  "2023-11-03": 248661,
-  "2023-11-04": 248661,
-  "2023-11-05": 248661,
-  "2023-11-06": 248661,
-  "2023-11-07": 248661,
-  "2023-11-08": 248661,
-  "2023-11-09": 248661,
-  "2023-11-10": 248661,
-  "2023-11-11": 253440,
-  "2023-11-12": 253440,
-  "2023-11-13": 253440,
-  "2023-11-14": 253440,
-  "2023-11-15": 253440,
-  "2023-11-16": 253440,
-  "2023-11-17": 253440,
-  "2023-11-18": 253440,
-  "2023-11-19": 253440,
-  "2023-11-20": 253440,
-  "2023-11-21": 253440,
-  "2023-11-22": 253440,
-  "2023-11-23": 253440,
-  "2023-11-24": 253440,
-  "2023-11-25": 253440,
-  "2023-11-26": 253440,
-  "2023-11-27": 253440,
-  "2023-11-28": 253440,
-  "2023-11-29": 253440,
-  "2023-11-30": 253440,
-  "2023-12-01": 253440,
-  "2023-12-02": 253440,
-  "2023-12-03": 253440,
-  "2023-12-04": 253440,
-  "2023-12-05": 253440,
-  "2023-12-06": 253440,
-  "2023-12-07": 253440,
-  "2023-12-08": 253440,
-  "2023-12-09": 253440,
-  "2023-12-10": 253440,
-  "2023-12-11": 253440,
-  "2023-12-12": 253440,
-  "2023-12-13": 253440,
-  "2023-12-14": 258374,
-  "2023-12-15": 258517,
-  "2023-12-16": 258670,
-  "2023-12-17": 258825,
-  "2023-12-18": 258948,
-  "2023-12-19": 259042,
-  "2023-12-20": 259166,
-  "2023-12-21": 259321,
-  "2023-12-22": 259456,
-  "2023-12-23": 259615,
-  "2023-12-24": 259802,
-  "2023-12-25": 259972,
-  "2023-12-26": 260123,
-  "2023-12-27": 260265,
-  "2023-12-30": 260760,
-  "2023-12-31": 260909,
-  "2024-01-01": 261074,
-  "2024-01-02": 261215,
-  "2024-01-03": 261308
+  "2024-01-17": 263096,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
+  "name": "This Is Luis R Conriquez",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ahog\u00e1ndome en Alcohol",
+        "url": "https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257846,
+      "name": "Ahog\u00e1ndome en Alcohol",
+      "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "album": {
+        "name": "Andamos Recio",
+        "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Andamos Recio",
+      "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184274,
+      "name": "Aquellos Botones",
+      "url": "https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN"
+    },
+    {
+      "album": {
+        "name": "Aqui Seguimos De Pie",
+        "url": "https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 240930,
+      "name": "Aqu\u00ed Seguimos De Pie",
+      "url": "https://open.spotify.com/track/7KGs838LI4AjgRDlDkQYPD"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137207,
+      "name": "Arre Pues",
+      "url": "https://open.spotify.com/track/79Nct1bkYzzraWpkMI9tpT"
+    },
+    {
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205299,
+      "name": "As\u00ed Lo Quiso Dios",
+      "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "album": {
+        "name": "Ay mam\u00e1 por dios",
+        "url": "https://open.spotify.com/album/1Vdp87oXiKBfEG6Q8CyVRS"
+      },
+      "artists": [
+        {
+          "name": "Javier Rosas Y Su Artiller\u00eda Pesada",
+          "url": "https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 191103,
+      "name": "Ay mam\u00e1 por dios",
+      "url": "https://open.spotify.com/track/1GYBUOYZaFzrOJTj7vsysI"
+    },
+    {
+      "album": {
+        "name": "Cosas Del Diablo",
+        "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
+      },
+      "artists": [
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 161733,
+      "name": "Bayo 17",
+      "url": "https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM"
+    },
+    {
+      "album": {
+        "name": "Corridones Belicones Duetos",
+        "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 195050,
+      "name": "Belico",
+      "url": "https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY"
+    },
+    {
+      "album": {
+        "name": "Bien Alerta (En vivo)",
+        "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 153500,
+      "name": "Bien Alerta - En vivo",
+      "url": "https://open.spotify.com/track/4Up6b4TbzzUCxqWDHaxslv"
+    },
+    {
+      "album": {
+        "name": "Bien EnRRedado",
+        "url": "https://open.spotify.com/album/1iXDvhAunMV7qEEMFDzCvp"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Nueva Partida",
+          "url": "https://open.spotify.com/artist/1phGBErM9y4sQEDZv2zORR"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 172993,
+      "name": "Bien EnRRedado",
+      "url": "https://open.spotify.com/track/6Qld1xtQDQS4FqdhgOQ6V7"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/4hH7njS67Xgt6TRcBwK8A8"
+      },
+      "artists": [
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
+    },
+    {
+      "album": {
+        "name": "Botelleo",
+        "url": "https://open.spotify.com/album/28ktg5hd5Wq6CoobsbOwom"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Lunaty",
+          "url": "https://open.spotify.com/artist/1ioIJEt6VBdMiQxOTL8Bmv"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 163329,
+      "name": "Botelleo",
+      "url": "https://open.spotify.com/track/2X5Po5rj4QpNFlB15Ahj9f"
+    },
+    {
+      "album": {
+        "name": "Buenas Rachas",
+        "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153655,
+      "name": "Buenas Rachas",
+      "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
+    },
+    {
+      "album": {
+        "name": "B\u00e9lica Como Ninguna",
+        "url": "https://open.spotify.com/album/2kEeiftlpYDuSfRmlwCh1K"
+      },
+      "artists": [
+        {
+          "name": "Los Ejemplares del Rancho",
+          "url": "https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 141386,
+      "name": "B\u00e9lica Como Ninguna",
+      "url": "https://open.spotify.com/track/59XObm1gFYaUOdzsg0QApT"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138077,
+      "name": "B\u00e9licos",
+      "url": "https://open.spotify.com/track/2EulHlOwhv7KPV7avsSZnA"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 154090,
+      "name": "Chingandole Macizo",
+      "url": "https://open.spotify.com/track/7d6Om5zkPVABcMU9dat8kF"
+    },
+    {
+      "album": {
+        "name": "Ciega Por El",
+        "url": "https://open.spotify.com/album/3DVWC67qQXYuxAC1zWGZg5"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 208461,
+      "name": "Ciega Por El",
+      "url": "https://open.spotify.com/track/0WRIitsjs8BB1klVE6T1R5"
+    },
+    {
+      "album": {
+        "name": "CLN",
+        "url": "https://open.spotify.com/album/52Ij8fQl3EpG7mRgGENZQR"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2o9qwAYrLQE4XxQ5uFnwC2"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 160000,
+      "name": "CLN",
+      "url": "https://open.spotify.com/track/10hlkW8KoA1yCfi5vCdfMj"
+    },
+    {
+      "album": {
+        "name": "Como el Viento",
+        "url": "https://open.spotify.com/album/6UKDsAVlMkqKqWJgsnCYAK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 198938,
+      "name": "Como el Viento",
+      "url": "https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s"
+    },
+    {
+      "album": {
+        "name": "Con la Meta en Mente",
+        "url": "https://open.spotify.com/album/1tJ8jVE0eJvXa58qpQfwdw"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 189312,
+      "name": "Con la Meta en Mente",
+      "url": "https://open.spotify.com/track/6fs72AIGkExohWAzIhjoLp"
+    },
+    {
+      "album": {
+        "name": "Con Muchas Ganas (En Vivo)",
+        "url": "https://open.spotify.com/album/2a8WVnHLCJ1UJLKI1xNz0S"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 271189,
+      "name": "Con Muchas Ganas (En Vivo)",
+      "url": "https://open.spotify.com/track/1oTk6S6kcUuekg3SmrLpG5"
+    },
+    {
+      "album": {
+        "name": "Creo Estar So\u00f1ando (En Vivo)",
+        "url": "https://open.spotify.com/album/5MM8PZx0hPCGqOXemg9OjJ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 154408,
+      "name": "Creo Estar So\u00f1ando (En Vivo)",
+      "url": "https://open.spotify.com/track/03nTMMyuSh6FRmf4ZTVS0N"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Acuerdes De M\u00ed",
+        "url": "https://open.spotify.com/album/2qJlOmYuUzGNznB2wh6EZD"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 198669,
+      "name": "Cuando Te Acuerdes De M\u00ed",
+      "url": "https://open.spotify.com/track/3G5vqzmeIK8tSATYaFLvC2"
+    },
+    {
+      "album": {
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180946,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
+    },
+    {
+      "album": {
+        "name": "Corridos 2019 Vol. 2",
+        "url": "https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178561,
+      "name": "De Aqui Paya",
+      "url": "https://open.spotify.com/track/6U5rCJ8xJmZxNe3fbg1X7Q"
+    },
+    {
+      "album": {
+        "name": "De Fresa y Coco",
+        "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165447,
+      "name": "De Fresa y Coco",
+      "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
+    },
+    {
+      "album": {
+        "name": "De Mezclilla el Chalec\u00f3n",
+        "url": "https://open.spotify.com/album/4kmRpSEkmZ4h0n5Miz1kkG"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "De Mezclilla el Chalec\u00f3n",
+      "url": "https://open.spotify.com/track/0L5lQTiLxwbCk1dZzPWCDV"
+    },
+    {
+      "album": {
+        "name": "De Seattle Hasta San Diego",
+        "url": "https://open.spotify.com/album/2JpiptY2bA7LrAdybMIY7f"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 202036,
+      "name": "De Seattle Hasta San Diego",
+      "url": "https://open.spotify.com/track/6cJZ0jt8KxTz8RXQDpmiUK"
+    },
+    {
+      "album": {
+        "name": "Dejate De Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/15Agp87LSD2IlX96CKQ3ZD"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 125062,
+      "name": "Dejate De Cosas",
+      "url": "https://open.spotify.com/track/3as1oPfPMw6Dj4r0T8wRDF"
+    },
+    {
+      "album": {
+        "name": "DEMBOW B\u00c9LICO",
+        "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126522,
+      "name": "DEMBOW B\u00c9LICO",
+      "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
+    },
+    {
+      "album": {
+        "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+        "url": "https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 231137,
+      "name": "Dicen Que Soy B\u00e9lico (En Vivo)",
+      "url": "https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL"
+    },
+    {
+      "album": {
+        "name": "Duro Le Chingamos",
+        "url": "https://open.spotify.com/album/3fyvcS54kHLuEpxwG3d2UV"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 147213,
+      "name": "Duro Le Chingamos",
+      "url": "https://open.spotify.com/track/3QmhokuGV0SJeVExRiVybT"
+    },
+    {
+      "album": {
+        "name": "El 27 o el Perris (En Vivo)",
+        "url": "https://open.spotify.com/album/46BHSHTKsQezmW3lZoikjI"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Nivel C",
+          "url": "https://open.spotify.com/artist/0CUbRHUcHesT778ioJt9oM"
+        }
+      ],
+      "date_added": "2023-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 230400,
+      "name": "El 27 o el Perris (En Vivo)",
+      "url": "https://open.spotify.com/track/2Baeml3Al7Wts8T8rJHNCt"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 202248,
+      "name": "El 50",
+      "url": "https://open.spotify.com/track/4fuXs2iGbUPp7ReStvNegS"
+    },
+    {
+      "album": {
+        "name": "El 8",
+        "url": "https://open.spotify.com/album/7qfb8kvm6smyCu5HXefnME"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-14",
+      "duration_ms": 165407,
+      "name": "El 8",
+      "url": "https://open.spotify.com/track/3MlwQd4W9ySCi505CK5N26"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143507,
+      "name": "El Agujero",
+      "url": "https://open.spotify.com/track/3nIbByNpERy2YQnBJLwVVl"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "date_added": "2022-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 168277,
+      "name": "El Apache",
+      "url": "https://open.spotify.com/track/6JtzRe7OZeTp3np1d3qULV"
+    },
+    {
+      "album": {
+        "name": "El Baleado",
+        "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219264,
+      "name": "El Baleado",
+      "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "album": {
+        "name": "El Buho",
+        "url": "https://open.spotify.com/album/2Xuu8wGSDeBPCzhYJtMExb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176703,
+      "name": "El Buho",
+      "url": "https://open.spotify.com/track/1quaoU1wjFHLkDXC3bNghk"
+    },
+    {
+      "album": {
+        "name": "Aqui Seguimos De Pie",
+        "url": "https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 279127,
+      "name": "El Chene",
+      "url": "https://open.spotify.com/track/1tL6WxMlCow0c0MzbrIZhK"
+    },
+    {
+      "album": {
+        "name": "El Chino (En Vivo)",
+        "url": "https://open.spotify.com/album/38WE0G7MQhz8f9hJjuK1rK"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "El Chino (En Vivo)",
+      "url": "https://open.spotify.com/track/4b148u8CHf38OU1yW5Xf1F"
+    },
+    {
+      "album": {
+        "name": "El Cinco",
+        "url": "https://open.spotify.com/album/166e2R73BtlDAk6RVHV2qC"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218685,
+      "name": "El Cinco",
+      "url": "https://open.spotify.com/track/3NOK9RbGnj09fhGFlqwUT3"
+    },
+    {
+      "album": {
+        "name": "El Coach (En Vivo)",
+        "url": "https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 211477,
+      "name": "El Coach (En Vivo)",
+      "url": "https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl"
+    },
+    {
+      "album": {
+        "name": "El Comandante",
+        "url": "https://open.spotify.com/album/0vumH1IfChTf4mBo9iJtOM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 134000,
+      "name": "El Comandante",
+      "url": "https://open.spotify.com/track/5ZZIduUosHfi5GQQsbhGGu"
+    },
+    {
+      "album": {
+        "name": "El Comando del Diablo (En Vivo)",
+        "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 173250,
+      "name": "El Comando del Diablo - En Vivo",
+      "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
+    },
+    {
+      "album": {
+        "name": "El Corrido De Everardo (En Vivo)",
+        "url": "https://open.spotify.com/album/2ckQ5uVNtddHHVofCnSPOv"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 211500,
+      "name": "El Corrido De Everardo - En Vivo",
+      "url": "https://open.spotify.com/track/3rKROLx067SgcAOrZzg2v1"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196571,
+      "name": "El De La P",
+      "url": "https://open.spotify.com/track/3iFhFNQ1TC3OmkPGEb4bwB"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 142863,
+      "name": "El De La S",
+      "url": "https://open.spotify.com/track/2EJ690TBn8abbcqJiml4X9"
+    },
+    {
+      "album": {
+        "name": "El Del Palenque",
+        "url": "https://open.spotify.com/album/4yWgittlnciR60xapf9IYH"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 203760,
+      "name": "El Del Palenque",
+      "url": "https://open.spotify.com/track/6LWj1Vkb8eAtvGm4kAc2bD"
+    },
+    {
+      "album": {
+        "name": "El Dinero No Me Cambia (En Vivo)",
+        "url": "https://open.spotify.com/album/5iVAYE7Ra3Avw3ygesMP2Z"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 196835,
+      "name": "El Dinero No Me Cambia - En Vivo",
+      "url": "https://open.spotify.com/track/20PIire7LH4Wjkc6zVHbAS"
+    },
+    {
+      "album": {
+        "name": "El Doble R",
+        "url": "https://open.spotify.com/album/0qitEBP6yqG4OJNw4NjR7a"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 161041,
+      "name": "El Doble R",
+      "url": "https://open.spotify.com/track/516mMyMpgX5AvGZ773buQd"
+    },
+    {
+      "album": {
+        "name": "El Gabito (En Vivo)",
+        "url": "https://open.spotify.com/album/1oWBe0hMfCUMrr1PgH4mDo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 197555,
+      "name": "El Gabito (En Vivo)",
+      "url": "https://open.spotify.com/track/2KlWJQJY4iQ0wacmBrBFdj"
+    },
+    {
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/5yRjJl7zzslQpbCX76s6Vi"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175295,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/4ygQ5wSuzzNRevVjup1qV2"
+    },
+    {
+      "album": {
+        "name": "El Gordo",
+        "url": "https://open.spotify.com/album/7r4O4UQOJwzBBu4dq5vatA"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/0hIwzRYTOPZPkFFv84MdQz"
+    },
+    {
+      "album": {
+        "name": "El G\u00fcero (En Vivo)",
+        "url": "https://open.spotify.com/album/4X4D0S2WG2GGTSFi7mJ9TZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 135302,
+      "name": "El G\u00fcero (En Vivo)",
+      "url": "https://open.spotify.com/track/15J0GGYsaeGj0jyoGXPKXY"
+    },
+    {
+      "album": {
+        "name": "Pisteando Con Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/3eyWMTbJs0XLxLaOaUFLSU"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 180323,
+      "name": "El H (En Vivo)",
+      "url": "https://open.spotify.com/track/6053Is00EA36bQRzjvairQ"
+    },
+    {
+      "album": {
+        "name": "Corridos 2019 Vol. 2",
+        "url": "https://open.spotify.com/album/7qWQtf7ia2Bf8q22TPMn8D"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 245318,
+      "name": "El Menon",
+      "url": "https://open.spotify.com/track/3F9XBs8RPNylnwllVddzt1"
+    },
+    {
+      "album": {
+        "name": "El Mickey",
+        "url": "https://open.spotify.com/album/2rGybDkmfUvIxy7bWS2tH1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 203075,
+      "name": "El Mickey",
+      "url": "https://open.spotify.com/track/120PEdxV65LmPyrTNFEMTp"
+    },
+    {
+      "album": {
+        "name": "El Nano",
+        "url": "https://open.spotify.com/album/0lwkPnZICyG9OkD77unsot"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 160261,
+      "name": "El Nano",
+      "url": "https://open.spotify.com/track/6QeQdtPudjr0dcr9fcT8qv"
+    },
+    {
+      "album": {
+        "name": "El Primito (En Vivo)",
+        "url": "https://open.spotify.com/album/7sGozLOnXBrjgjocsW14ih"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 185527,
+      "name": "El Primito (En Vivo)",
+      "url": "https://open.spotify.com/track/5IWf4feNMKgijlJugOLYkJ"
+    },
+    {
+      "album": {
+        "name": "No Paramos de Chambear",
+        "url": "https://open.spotify.com/album/1ktHCfbNTgJqNskCciws97"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 194063,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/4nPvBCUA5Oo47v4z6i1VfM"
+    },
+    {
+      "album": {
+        "name": "En Blindadas",
+        "url": "https://open.spotify.com/album/3jyPLQ5JSlA2SlDEgquSvY"
+      },
+      "artists": [
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190154,
+      "name": "En Blindadas",
+      "url": "https://open.spotify.com/track/5SnT0c4vYrR93Zb7wqEAqo"
+    },
+    {
+      "album": {
+        "name": "En El Radio Un Cochinero (Remix)",
+        "url": "https://open.spotify.com/album/5yZka2dPlS6Vgh6e0fL9v1"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215125,
+      "name": "En El Radio Un Cochinero (Remix)",
+      "url": "https://open.spotify.com/track/78nK6LUy3FutFRJpRU9Guy"
+    },
+    {
+      "album": {
+        "name": "En Phoenix Ruleteamos",
+        "url": "https://open.spotify.com/album/2Kjrnq2AqljOmHQPTzwT4t"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 235427,
+      "name": "En Phoenix Ruleteamos",
+      "url": "https://open.spotify.com/track/4u5OPcN6zuLd9hJGB1PPjM"
+    },
+    {
+      "album": {
+        "name": "Equipo RR",
+        "url": "https://open.spotify.com/album/7HQuRjZy8385A0Yfn7D9H5"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159976,
+      "name": "Equipo RR",
+      "url": "https://open.spotify.com/track/01OAhZvrPcUBko04aEy1Hh"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 176195,
+      "name": "Equipo RR",
+      "url": "https://open.spotify.com/track/14C4FsfMkXf4dmqKF2apqG"
+    },
+    {
+      "album": {
+        "name": "Es Amor",
+        "url": "https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 164933,
+      "name": "Es Amor",
+      "url": "https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140987,
+      "name": "Fresas Con Crema",
+      "url": "https://open.spotify.com/track/0zoYPA5OMLiGwzRAXaEft7"
+    },
+    {
+      "album": {
+        "name": "Guisao",
+        "url": "https://open.spotify.com/album/2llE874y2h7CZWyMeTfbAo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Rod Contreras",
+          "url": "https://open.spotify.com/artist/4SbYUG4R0ZDhpDZaJqap9Y"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Jay Silva",
+          "url": "https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn"
+        }
+      ],
+      "date_added": "2022-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139842,
+      "name": "Guisao",
+      "url": "https://open.spotify.com/track/0FPDGbsYjSZUJljhz6FewQ"
+    },
+    {
+      "album": {
+        "name": "Ivan y Vienen Rumores (En Vivo)",
+        "url": "https://open.spotify.com/album/50R8qtC1On4lV23Oscr4E7"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Dinamicos Jrs",
+          "url": "https://open.spotify.com/artist/3GEFlcbzfzakUiKCx038mZ"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 139114,
+      "name": "Ivan y Vienen Rumores - En Vivo",
+      "url": "https://open.spotify.com/track/5fP3PHAzG3AsZO7RmGlkVY"
+    },
+    {
+      "album": {
+        "name": "JGL",
+        "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "JGL",
+      "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
+    },
+    {
+      "album": {
+        "name": "LA 701",
+        "url": "https://open.spotify.com/album/1olJpo7uMM41kxy7MTrBd3"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164482,
+      "name": "LA 701",
+      "url": "https://open.spotify.com/track/62vhlXTC4rrb13dVUlyYpO"
+    },
+    {
+      "album": {
+        "name": "La Belikiza",
+        "url": "https://open.spotify.com/album/4hxTlTfCesXn8NjNDqr4QA"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 129921,
+      "name": "La Belikiza",
+      "url": "https://open.spotify.com/track/5tSt4evQmEStMoVBsq7mzT"
+    },
+    {
+      "album": {
+        "name": "La Mamoncita del Insta",
+        "url": "https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193193,
+      "name": "La Mamoncita del Insta",
+      "url": "https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV"
+    },
+    {
+      "album": {
+        "name": "La Mercedes Cuadradita (En Vivo)",
+        "url": "https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 155280,
+      "name": "La Mercedes Cuadradita (En Vivo)",
+      "url": "https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY"
+    },
+    {
+      "album": {
+        "name": "La Pobreza Buena",
+        "url": "https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209683,
+      "name": "La Pobreza Buena",
+      "url": "https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8"
+    },
+    {
+      "album": {
+        "name": "La Tamalera",
+        "url": "https://open.spotify.com/album/6XBGCAXEeBcbxItgTV54YV"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "La Tamalera",
+      "url": "https://open.spotify.com/track/3UNYe5t3IqkJq0m8OBZw82"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150045,
+      "name": "Las Dos R",
+      "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
+    },
+    {
+      "album": {
+        "name": "Le Compre Casa A Mi Ama",
+        "url": "https://open.spotify.com/album/1DNXHL4tTugdaeGBow9s5x"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 204437,
+      "name": "Le Compre Casa A Mi Ama",
+      "url": "https://open.spotify.com/track/0BeBLgI1gpn9rJHqcUjJSX"
+    },
+    {
+      "album": {
+        "name": "Mi Vida En Un Cigarro 2",
+        "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135611,
+      "name": "Los Botones Azules",
+      "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
+    },
+    {
+      "album": {
+        "name": "Los Chiquinarcos (En Vivo)",
+        "url": "https://open.spotify.com/album/5fzhrKGlhdhCUiXQgtOXUz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 164778,
+      "name": "Los Chiquinarcos - En Vivo",
+      "url": "https://open.spotify.com/track/3mpj2US9h2mHqO2FYTU2wk"
+    },
+    {
+      "album": {
+        "name": "Los Mire Con Talento",
+        "url": "https://open.spotify.com/album/55ALbKLzliLSlrbVRcWft9"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Los Mire Con Talento",
+      "url": "https://open.spotify.com/track/1trAoZKkvVjuuQpUzTI6KV"
+    },
+    {
+      "album": {
+        "name": "Los Pajaros (En Vivo)",
+        "url": "https://open.spotify.com/album/3V1HnCC6js35Pw7NFctA6Y"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 151104,
+      "name": "Los Pajaros (En Vivo)",
+      "url": "https://open.spotify.com/track/5cDiDT7E88eUXiVhkUYEpf"
+    },
+    {
+      "album": {
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260285,
+      "name": "Malas Rachas",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/7KNSQcLwrl3bNEuV1OVHtv"
+    },
+    {
+      "album": {
+        "name": "Me Met\u00ed en el Ruedo (Remix)",
+        "url": "https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 174174,
+      "name": "Me Met\u00ed en el Ruedo - Remix",
+      "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
+    },
+    {
+      "album": {
+        "name": "Me Veran Relajado",
+        "url": "https://open.spotify.com/album/3IOA8hIuW1vRN4qA5lIvGl"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jesus Payan e Imparables",
+          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 202454,
+      "name": "Me Veran Relajado",
+      "url": "https://open.spotify.com/track/4rNCNL3SaHHDe77U7gMez1"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162624,
+      "name": "Mi Momento",
+      "url": "https://open.spotify.com/track/0yhduE0AtElWqyPkgeSMja"
+    },
+    {
+      "album": {
+        "name": "Muchacha Guapa (En Vivo)",
+        "url": "https://open.spotify.com/album/2DUzNKffl9x9jgogqjT9Q9"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 151253,
+      "name": "Muchacha Guapa (En Vivo)",
+      "url": "https://open.spotify.com/track/7gFeiAqPfuDTbJAxFKhWGR"
+    },
+    {
+      "album": {
+        "name": "Nemesio",
+        "url": "https://open.spotify.com/album/7dDDAkoT9xPwxcCc9cn28o"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 222008,
+      "name": "Nemesio",
+      "url": "https://open.spotify.com/track/6bd5RNCLkKrNTdMBiehixh"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 160625,
+      "name": "Nemesio",
+      "url": "https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 198552,
+      "name": "No Le Busquen (JG)",
+      "url": "https://open.spotify.com/track/2VaY5MqPffz37MMmjSH3iK"
+    },
+    {
+      "album": {
+        "name": "Aqui Seguimos De Pie",
+        "url": "https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 245806,
+      "name": "No Se Vallan Por Los Mitotes",
+      "url": "https://open.spotify.com/track/1sQJkxf5nPTs2gEcr7YaUl"
+    },
+    {
+      "album": {
+        "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2CRrebtUMFQMKDXqcMJLyW"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 165613,
+      "name": "Pa Que Se Me Quite Lo Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/4M0OAqAsJmmkUpvw4xNXyp"
+    },
+    {
+      "album": {
+        "name": "Para Que Regreses (En Vivo)",
+        "url": "https://open.spotify.com/album/0GZFCSHYZCxmSDDMpI3wn8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 161514,
+      "name": "Para Que Regreses (En Vivo)",
+      "url": "https://open.spotify.com/track/0NkmRK1su043rBIUrr6HDe"
+    },
+    {
+      "album": {
+        "name": "Desde La Oficina (En Vivo)",
+        "url": "https://open.spotify.com/album/6Ze9Ja5wGsNBu6igmWWBNy"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 206393,
+      "name": "Paz En Este Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/559TDjQpWrtOnZXdFnRfYj"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235061,
+      "name": "Pixelados",
+      "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "album": {
+        "name": "PLEBITA",
+        "url": "https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147228,
+      "name": "PLEBITA",
+      "url": "https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs"
+    },
+    {
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144932,
+      "name": "Pobre No",
+      "url": "https://open.spotify.com/track/1P2j2F7AjZxUl0Uo102539"
+    },
+    {
+      "album": {
+        "name": "Por Apodo Soy Sobrino (En Vivo)",
+        "url": "https://open.spotify.com/album/7B52dEX4yFDEYHZszTnQhk"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 206000,
+      "name": "Por Apodo Soy Sobrino (En Vivo)",
+      "url": "https://open.spotify.com/track/49qfoWzVYUENMSdwzBjgs3"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 197714,
+      "name": "Por Clave 9-1",
+      "url": "https://open.spotify.com/track/0TnUV2vPKYf0TSgKuchTXU"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/5WWAwbRCM3CyiZNO9rsfWS"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 166347,
+      "name": "Por Clave El 02",
+      "url": "https://open.spotify.com/track/66gge7FSp4QFJs5usnSvJm"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 197781,
+      "name": "Por Clave el 3",
+      "url": "https://open.spotify.com/track/2YPVZzjY8uLt7QUUPg0dU8"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179617,
+      "name": "Por Clave El Chino",
+      "url": "https://open.spotify.com/track/7MH1vx6qW9AUHk3sRriH7K"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 245424,
+      "name": "Por Clave El Doble R",
+      "url": "https://open.spotify.com/track/0XgKAiK0HGLecgxi6vcvsN"
+    },
+    {
+      "album": {
+        "name": "Corridos Belicos",
+        "url": "https://open.spotify.com/album/4SaM1i0w9dhbRkIadAPX3c"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144927,
+      "name": "Por Clave El Fresa",
+      "url": "https://open.spotify.com/track/3tS0oKoHSZdsAZpPxjmrBC"
+    },
+    {
+      "album": {
+        "name": "Puro Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196437,
+      "name": "Puro Campe\u00f3n",
+      "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "album": {
+        "name": "Querido Ex Amor (En Vivo)",
+        "url": "https://open.spotify.com/album/3EE2AwVMOWthcfk1b5d6iR"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Querido Ex Amor (En Vivo)",
+      "url": "https://open.spotify.com/track/0sxUALE5zJjNBlida8NALL"
+    },
+    {
+      "album": {
+        "name": "Recostada En La Cama (En Vivo)",
+        "url": "https://open.spotify.com/album/0IFlKx4CBD5vRGKNkjZ2oU"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 187152,
+      "name": "Recostada En La Cama (En Vivo)",
+      "url": "https://open.spotify.com/track/67ooe4ll0LOFRzvfTeJHCQ"
+    },
+    {
+      "album": {
+        "name": "Sangre De Reyes (En Vivo)",
+        "url": "https://open.spotify.com/album/6PzecOlrZjmYIGkNkVtY6E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 203174,
+      "name": "Sangre De Reyes (En Vivo)",
+      "url": "https://open.spotify.com/track/2aTuyF8tSigB00E9CNMkHm"
+    },
+    {
+      "album": {
+        "name": "Secreto De Confesi\u00f3n (En Vivo)",
+        "url": "https://open.spotify.com/album/5ZrBQ9O755ENcevMCv3sJf"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 177000,
+      "name": "Secreto De Confesi\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/43MLA97SYGqGbSoT7tSVAg"
+    },
+    {
+      "album": {
+        "name": "Seguimos Bateando (En Vivo)",
+        "url": "https://open.spotify.com/album/428LK3nKU8Wf0HE6KY1oYv"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 144917,
+      "name": "Seguimos Bateando - En Vivo",
+      "url": "https://open.spotify.com/track/5smmZhNxvXuacsJ6pEzMDw"
+    },
+    {
+      "album": {
+        "name": "Si de B\u00e9licos Hablamos (En Vivo)",
+        "url": "https://open.spotify.com/album/3l4KUKS3RgieBHWLmyjJ3Q"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 156781,
+      "name": "Si de B\u00e9licos Hablamos (En Vivo)",
+      "url": "https://open.spotify.com/track/2fTo0N3x8JCEy3iSVNMiHx"
+    },
+    {
+      "album": {
+        "name": "Si Respetan, Respeto",
+        "url": "https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 216509,
+      "name": "Si Respetan, Respeto",
+      "url": "https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn"
+    },
+    {
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+    },
+    {
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
+    },
+    {
+      "album": {
+        "name": "Corridones Belicones Duetos",
+        "url": "https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 214165,
+      "name": "Sigo Aqui",
+      "url": "https://open.spotify.com/track/12wuxFcfZF015vy3XgoZsr"
+    },
+    {
+      "album": {
+        "name": "Sin Apodo (En Vivo)",
+        "url": "https://open.spotify.com/album/2jDt8iQGBpf0kHtlKm7ZdM"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 201038,
+      "name": "Sin Apodo (En Vivo)",
+      "url": "https://open.spotify.com/track/0Up3NfbU2p9keQHqcPZYQO"
+    },
+    {
+      "album": {
+        "name": "Sin Tanto Royo",
+        "url": "https://open.spotify.com/album/0IrdgtJfP85uNxe8Ks3vcc"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148573,
+      "name": "Sin Tanto Royo",
+      "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
+    },
+    {
+      "album": {
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138559,
+      "name": "SU CASA",
+      "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
+    },
+    {
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/7DOIN787fF8Jv9KFZEBcW6"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 138559,
+      "name": "SU CASA",
+      "url": "https://open.spotify.com/track/626vswICsSvlVh4ILUhZJ1"
+    },
+    {
+      "album": {
+        "name": "Te Quiero As\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/1aZUBgnvIvC9q544aBUBxo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Joel De La P",
+          "url": "https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 209557,
+      "name": "Te Quiero As\u00ed (En Vivo)",
+      "url": "https://open.spotify.com/track/3T0c5gIYl2iGD2kGZoPo4K"
+    },
+    {
+      "album": {
+        "name": "Todo Depende de Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/6Uw8SR3sqcGD58x8PVvkn1"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 209365,
+      "name": "Todo Depende de Ti - En Vivo",
+      "url": "https://open.spotify.com/track/5rSx6fcfJvoCqy6JHcLv7d"
+    },
+    {
+      "album": {
+        "name": "Traigo El Mando",
+        "url": "https://open.spotify.com/album/4uSaOLMXunvlUMi9sTRAoa"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182911,
+      "name": "Traigo El Mando",
+      "url": "https://open.spotify.com/track/5CNlGSmdMGd13s45QZVCzV"
+    },
+    {
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 3",
+        "url": "https://open.spotify.com/album/2tqw9Hsyxr5G3bCR5NgWGo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 185130,
+      "name": "Tropa del Infierno",
+      "url": "https://open.spotify.com/track/414oo6t5s8XI1paph23B3D"
+    },
+    {
+      "album": {
+        "name": "Un Amor Como Este",
+        "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185770,
+      "name": "Un Amor Como Este",
+      "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/1YzV3eSAyofYe6QqIaZrj7"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 170000,
+      "name": "Viejo Lobo",
+      "url": "https://open.spotify.com/track/0lfnjkAemrVz8J9l7khK2t"
+    },
+    {
+      "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Viejo Lobo",
+      "url": "https://open.spotify.com/track/1UwCSHDl10Hga2jswZ6plN"
+    },
+    {
+      "album": {
+        "name": "Y Si Me Miran",
+        "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213141,
+      "name": "Y Si Me Miran",
+      "url": "https://open.spotify.com/track/1WHml9IbQkFUtVz8ZXEkUb"
+    },
+    {
+      "album": {
+        "name": "Aqui Seguimos De Pie",
+        "url": "https://open.spotify.com/album/5orVNsB3W9HccGcVgU4Khu"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-27",
+      "duration_ms": 202779,
+      "name": "Yo Fui El Choki",
+      "url": "https://open.spotify.com/track/1k7BcLftj6rmgBDRuK3bpc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0aI7Qc"
 }

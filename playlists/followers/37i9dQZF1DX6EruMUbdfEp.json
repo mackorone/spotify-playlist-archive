@@ -1,535 +1,1979 @@
 {
-  "2022-07-14": 7382,
-  "2022-07-15": 7431,
-  "2022-07-16": 7468,
-  "2022-07-17": 7497,
-  "2022-07-18": 7544,
-  "2022-07-19": 7584,
-  "2022-07-20": 7635,
-  "2022-07-21": 7680,
-  "2022-07-22": 7728,
-  "2022-07-23": 7779,
-  "2022-07-24": 7820,
-  "2022-07-25": 7857,
-  "2022-07-26": 7887,
-  "2022-07-27": 7933,
-  "2022-07-28": 7962,
-  "2022-07-29": 8001,
-  "2022-07-30": 8097,
-  "2022-07-31": 8097,
-  "2022-08-01": 8142,
-  "2022-08-02": 8230,
-  "2022-08-03": 8230,
-  "2022-08-04": 8277,
-  "2022-08-05": 8354,
-  "2022-08-06": 8396,
-  "2022-08-07": 8442,
-  "2022-08-08": 8481,
-  "2022-08-09": 8543,
-  "2022-08-10": 8578,
-  "2022-08-11": 8613,
-  "2022-08-12": 8662,
-  "2022-08-13": 8718,
-  "2022-08-14": 8781,
-  "2022-08-15": 8830,
-  "2022-08-16": 8883,
-  "2022-08-17": 8941,
-  "2022-08-18": 8997,
-  "2022-08-19": 9040,
-  "2022-08-20": 9100,
-  "2022-08-21": 9146,
-  "2022-08-22": 9188,
-  "2022-08-23": 9228,
-  "2022-08-24": 9290,
-  "2022-08-25": 9343,
-  "2022-08-26": 9395,
-  "2022-08-27": 9444,
-  "2022-08-28": 9506,
-  "2022-08-29": 9556,
-  "2022-08-30": 9620,
-  "2022-08-31": 9667,
-  "2022-09-01": 9706,
-  "2022-09-02": 9754,
-  "2022-09-03": 9808,
-  "2022-09-04": 9865,
-  "2022-09-05": 9912,
-  "2022-09-06": 9963,
-  "2022-09-07": 10012,
-  "2022-09-09": 10114,
-  "2022-09-10": 10175,
-  "2022-09-11": 10240,
-  "2022-09-12": 10296,
-  "2022-09-13": 10351,
-  "2022-09-15": 10440,
-  "2022-09-16": 10483,
-  "2022-09-17": 10527,
-  "2022-09-18": 10548,
-  "2022-09-19": 10604,
-  "2022-09-20": 10663,
-  "2022-09-21": 10714,
-  "2022-09-22": 10765,
-  "2022-09-23": 10843,
-  "2022-09-24": 10898,
-  "2022-09-25": 10956,
-  "2022-09-26": 11020,
-  "2022-09-27": 11067,
-  "2022-09-28": 11118,
-  "2022-09-29": 11172,
-  "2022-09-30": 11238,
-  "2022-10-01": 11279,
-  "2022-10-02": 11324,
-  "2022-10-03": 11379,
-  "2022-10-04": 11439,
-  "2022-10-05": 11492,
-  "2022-10-06": 11538,
-  "2022-10-07": 11589,
-  "2022-10-08": 11646,
-  "2022-10-09": 11739,
-  "2022-10-10": 11754,
-  "2022-10-11": 11799,
-  "2022-10-12": 11846,
-  "2022-10-13": 11924,
-  "2022-10-14": 12005,
-  "2022-10-15": 12061,
-  "2022-10-16": 12106,
-  "2022-10-17": 12159,
-  "2022-10-18": 12191,
-  "2022-10-19": 12242,
-  "2022-10-20": 12309,
-  "2022-10-21": 12369,
-  "2022-10-22": 12425,
-  "2022-10-23": 12461,
-  "2022-10-24": 12527,
-  "2022-10-25": 12577,
-  "2022-10-26": 12622,
-  "2022-10-27": 12679,
-  "2022-10-28": 12749,
-  "2022-10-29": 12828,
-  "2022-10-30": 12875,
-  "2022-10-31": 12919,
-  "2022-11-01": 12980,
-  "2022-11-02": 13043,
-  "2022-11-03": 13114,
-  "2022-11-04": 13186,
-  "2022-11-05": 13249,
-  "2022-11-06": 13303,
-  "2022-11-07": 13362,
-  "2022-11-08": 13431,
-  "2022-11-09": 13483,
-  "2022-11-10": 13525,
-  "2022-11-11": 13575,
-  "2022-11-12": 13647,
-  "2022-11-13": 13681,
-  "2022-11-14": 13739,
-  "2022-11-15": 13789,
-  "2022-11-16": 13856,
-  "2022-11-17": 13915,
-  "2022-11-18": 13942,
-  "2022-11-19": 13964,
-  "2022-11-20": 14004,
-  "2022-11-21": 13994,
-  "2022-11-22": 14118,
-  "2022-11-23": 14097,
-  "2022-11-24": 14248,
-  "2022-11-25": 14332,
-  "2022-11-26": 14401,
-  "2022-11-27": 14461,
-  "2022-11-28": 14524,
-  "2022-11-29": 14598,
-  "2022-11-30": 14676,
-  "2022-12-01": 14759,
-  "2022-12-02": 14813,
-  "2022-12-03": 14926,
-  "2022-12-04": 14986,
-  "2022-12-05": 15060,
-  "2022-12-06": 15128,
-  "2022-12-07": 15190,
-  "2022-12-08": 15281,
-  "2022-12-09": 15348,
-  "2022-12-10": 15436,
-  "2022-12-11": 15487,
-  "2022-12-12": 15549,
-  "2022-12-13": 15608,
-  "2022-12-14": 15681,
-  "2022-12-15": 15764,
-  "2022-12-16": 15851,
-  "2022-12-17": 15942,
-  "2022-12-18": 16016,
-  "2022-12-19": 16084,
-  "2022-12-20": 16267,
-  "2022-12-21": 16267,
-  "2022-12-22": 16348,
-  "2022-12-24": 16506,
-  "2022-12-25": 16584,
-  "2022-12-26": 16677,
-  "2022-12-27": 16757,
-  "2022-12-28": 16844,
-  "2022-12-29": 16940,
-  "2022-12-30": 17010,
-  "2022-12-31": 17080,
-  "2023-01-01": 17152,
-  "2023-01-02": 17223,
-  "2023-01-03": 17321,
-  "2023-01-04": 17392,
-  "2023-01-05": 17477,
-  "2023-01-06": 17574,
-  "2023-01-07": 17698,
-  "2023-01-08": 17715,
-  "2023-01-09": 17806,
-  "2023-01-10": 17879,
-  "2023-01-11": 17954,
-  "2023-01-12": 18056,
-  "2023-01-13": 18144,
-  "2023-01-14": 18294,
-  "2023-01-15": 18301,
-  "2023-01-16": 18406,
-  "2023-01-17": 18484,
-  "2023-01-18": 18554,
-  "2023-01-19": 18622,
-  "2023-01-20": 18700,
-  "2023-01-21": 18767,
-  "2023-01-22": 18868,
-  "2023-01-23": 18951,
-  "2023-01-24": 19033,
-  "2023-01-25": 19102,
-  "2023-01-26": 19173,
-  "2023-01-27": 19252,
-  "2023-01-28": 19321,
-  "2023-01-29": 19396,
-  "2023-01-30": 19461,
-  "2023-01-31": 19461,
-  "2023-02-01": 19606,
-  "2023-02-02": 19688,
-  "2023-02-03": 19761,
-  "2023-02-04": 19844,
-  "2023-02-05": 19905,
-  "2023-02-06": 19968,
-  "2023-02-07": 20055,
-  "2023-02-08": 20248,
-  "2023-02-09": 20248,
-  "2023-02-10": 20351,
-  "2023-02-11": 20443,
-  "2023-02-12": 20621,
-  "2023-02-13": 20705,
-  "2023-02-14": 20705,
-  "2023-02-15": 20771,
-  "2023-02-16": 20883,
-  "2023-02-17": 20947,
-  "2023-02-18": 21102,
-  "2023-02-19": 21122,
-  "2023-02-20": 21194,
-  "2023-02-21": 21271,
-  "2023-02-22": 21351,
-  "2023-02-23": 21412,
-  "2023-02-24": 21491,
-  "2023-02-25": 21596,
-  "2023-02-26": 21654,
-  "2023-02-27": 21853,
-  "2023-02-28": 21853,
-  "2023-03-01": 21942,
-  "2023-03-02": 21999,
-  "2023-03-03": 22084,
-  "2023-03-04": 22141,
-  "2023-03-05": 22301,
-  "2023-03-06": 22301,
-  "2023-03-07": 22389,
-  "2023-03-08": 22484,
-  "2023-03-09": 22578,
-  "2023-03-10": 22682,
-  "2023-03-11": 22751,
-  "2023-03-12": 22823,
-  "2023-03-13": 22958,
-  "2023-03-14": 23097,
-  "2023-03-15": 23205,
-  "2023-03-16": 23321,
-  "2023-03-17": 23321,
-  "2023-03-18": 23522,
-  "2023-03-19": 23612,
-  "2023-03-20": 23699,
-  "2023-03-21": 23780,
-  "2023-03-22": 23882,
-  "2023-03-23": 23978,
-  "2023-03-24": 23978,
-  "2023-03-25": 24154,
-  "2023-03-26": 24246,
-  "2023-03-27": 24353,
-  "2023-03-28": 24455,
-  "2023-03-29": 24573,
-  "2023-03-30": 24756,
-  "2023-03-31": 24756,
-  "2023-04-01": 24853,
-  "2023-04-02": 24929,
-  "2023-04-03": 25012,
-  "2023-04-04": 25116,
-  "2023-04-05": 25210,
-  "2023-04-06": 25302,
-  "2023-04-07": 25397,
-  "2023-04-09": 25580,
-  "2023-04-10": 25692,
-  "2023-04-11": 25865,
-  "2023-04-12": 25865,
-  "2023-04-13": 25944,
-  "2023-04-14": 26023,
-  "2023-04-15": 26111,
-  "2023-04-16": 26185,
-  "2023-04-17": 26303,
-  "2023-04-18": 26396,
-  "2023-04-19": 26509,
-  "2023-04-20": 26618,
-  "2023-04-21": 26716,
-  "2023-04-22": 26799,
-  "2023-04-23": 26878,
-  "2023-04-24": 26967,
-  "2023-04-25": 27044,
-  "2023-04-26": 27140,
-  "2023-04-27": 27232,
-  "2023-04-28": 27327,
-  "2023-04-29": 27418,
-  "2023-04-30": 27506,
-  "2023-05-01": 27579,
-  "2023-05-02": 27680,
-  "2023-05-03": 27777,
-  "2023-05-04": 27877,
-  "2023-05-05": 27966,
-  "2023-05-06": 28056,
-  "2023-05-07": 28136,
-  "2023-05-08": 28209,
-  "2023-05-09": 28285,
-  "2023-05-10": 28370,
-  "2023-05-11": 28438,
-  "2023-05-12": 28508,
-  "2023-05-13": 28600,
-  "2023-05-14": 28679,
-  "2023-05-15": 28751,
-  "2023-05-16": 28846,
-  "2023-05-17": 28935,
-  "2023-05-18": 29041,
-  "2023-05-19": 29133,
-  "2023-05-20": 29307,
-  "2023-05-21": 29307,
-  "2023-05-22": 29307,
-  "2023-05-23": 29481,
-  "2023-05-24": 29601,
-  "2023-05-25": 29612,
-  "2023-05-26": 29682,
-  "2023-05-27": 29767,
-  "2023-05-28": 29838,
-  "2023-05-29": 29838,
-  "2023-05-30": 29996,
-  "2023-05-31": 30062,
-  "2023-06-01": 30129,
-  "2023-06-02": 30187,
-  "2023-06-03": 30243,
-  "2023-06-04": 30321,
-  "2023-06-05": 30378,
-  "2023-06-06": 30464,
-  "2023-06-07": 30548,
-  "2023-06-08": 30586,
-  "2023-06-09": 30679,
-  "2023-06-10": 30752,
-  "2023-06-11": 30811,
-  "2023-06-12": 30904,
-  "2023-06-13": 30985,
-  "2023-06-14": 30985,
-  "2023-06-15": 31127,
-  "2023-06-16": 31199,
-  "2023-06-17": 31275,
-  "2023-06-18": 31345,
-  "2023-06-19": 31424,
-  "2023-06-20": 31508,
-  "2023-06-21": 31556,
-  "2023-06-22": 31624,
-  "2023-06-23": 31692,
-  "2023-06-24": 31757,
-  "2023-06-25": 31816,
-  "2023-06-26": 31879,
-  "2023-06-27": 31947,
-  "2023-06-28": 32017,
-  "2023-06-29": 32088,
-  "2023-06-30": 32169,
-  "2023-07-01": 32300,
-  "2023-07-02": 32300,
-  "2023-07-03": 32372,
-  "2023-07-04": 32437,
-  "2023-07-05": 32494,
-  "2023-07-06": 32627,
-  "2023-07-07": 32627,
-  "2023-07-08": 32696,
-  "2023-07-09": 32768,
-  "2023-07-10": 32837,
-  "2023-07-11": 32918,
-  "2023-07-12": 32983,
-  "2023-07-13": 33053,
-  "2023-07-14": 33122,
-  "2023-07-15": 33185,
-  "2023-07-16": 33266,
-  "2023-07-17": 33335,
-  "2023-07-18": 33423,
-  "2023-07-19": 33507,
-  "2023-07-20": 33572,
-  "2023-07-21": 33638,
-  "2023-07-22": 33706,
-  "2023-07-23": 33779,
-  "2023-07-24": 33840,
-  "2023-07-25": 33912,
-  "2023-07-26": 33983,
-  "2023-07-27": 34052,
-  "2023-07-28": 34144,
-  "2023-07-29": 34220,
-  "2023-07-30": 34277,
-  "2023-07-31": 34365,
-  "2023-08-01": 34438,
-  "2023-08-02": 34508,
-  "2023-08-03": 34588,
-  "2023-08-04": 34662,
-  "2023-08-05": 34735,
-  "2023-08-06": 34884,
-  "2023-08-07": 34884,
-  "2023-08-08": 34941,
-  "2023-08-09": 35013,
-  "2023-08-10": 35062,
-  "2023-08-11": 35111,
-  "2023-08-12": 35147,
-  "2023-08-13": 35209,
-  "2023-08-14": 35268,
-  "2023-08-15": 35393,
-  "2023-08-16": 35393,
-  "2023-08-17": 35455,
-  "2023-08-18": 35526,
-  "2023-08-19": 35600,
-  "2023-08-20": 35671,
-  "2023-08-21": 35739,
-  "2023-08-22": 35813,
-  "2023-08-23": 35896,
-  "2023-08-24": 35985,
-  "2023-08-25": 36053,
-  "2023-08-26": 36126,
-  "2023-08-27": 36219,
-  "2023-08-28": 36306,
-  "2023-08-29": 36371,
-  "2023-08-30": 36455,
-  "2023-08-31": 36533,
-  "2023-09-01": 36670,
-  "2023-09-02": 36670,
-  "2023-09-03": 36703,
-  "2023-09-04": 36770,
-  "2023-09-05": 36837,
-  "2023-09-06": 36899,
-  "2023-09-07": 36955,
-  "2023-09-08": 37034,
-  "2023-09-09": 37111,
-  "2023-09-10": 37172,
-  "2023-09-11": 37247,
-  "2023-09-12": 37306,
-  "2023-09-13": 37372,
-  "2023-09-14": 37464,
-  "2023-09-15": 37539,
-  "2023-09-16": 37609,
-  "2023-09-17": 37656,
-  "2023-09-18": 37719,
-  "2023-09-19": 37788,
-  "2023-09-20": 37841,
-  "2023-09-21": 37925,
-  "2023-09-22": 37992,
-  "2023-09-23": 38062,
-  "2023-09-24": 38126,
-  "2023-09-25": 38200,
-  "2023-09-26": 38297,
-  "2023-09-27": 38353,
-  "2023-09-28": 38424,
-  "2023-09-29": 38487,
-  "2023-09-30": 38540,
-  "2023-10-01": 38605,
-  "2023-10-02": 38665,
-  "2023-10-03": 38709,
-  "2023-10-04": 38811,
-  "2023-10-05": 38883,
-  "2023-10-06": 38942,
-  "2023-10-07": 38990,
-  "2023-10-08": 39048,
-  "2023-10-09": 39099,
-  "2023-10-10": 39153,
-  "2023-10-11": 39261,
-  "2023-10-12": 39261,
-  "2023-10-13": 39328,
-  "2023-10-14": 39397,
-  "2023-10-15": 39452,
-  "2023-10-16": 39498,
-  "2023-10-17": 39541,
-  "2023-10-18": 39588,
-  "2023-10-19": 39647,
-  "2023-10-20": 39705,
-  "2023-10-21": 39767,
-  "2023-10-22": 39812,
-  "2023-10-23": 39868,
-  "2023-10-24": 39904,
-  "2023-10-25": 39958,
-  "2023-10-26": 40014,
-  "2023-10-27": 40088,
-  "2023-10-28": 40152,
-  "2023-10-29": 40208,
-  "2023-10-30": 40340,
-  "2023-10-31": 40340,
-  "2023-11-01": 40412,
-  "2023-11-02": 40479,
-  "2023-11-03": 40535,
-  "2023-11-04": 40586,
-  "2023-11-05": 40665,
-  "2023-11-06": 40762,
-  "2023-11-07": 40831,
-  "2023-11-08": 40915,
-  "2023-11-09": 40974,
-  "2023-11-10": 41051,
-  "2023-11-11": 41124,
-  "2023-11-12": 41173,
-  "2023-11-13": 41224,
-  "2023-11-14": 41291,
-  "2023-11-15": 41291,
-  "2023-11-16": 41420,
-  "2023-11-17": 41546,
-  "2023-11-18": 41546,
-  "2023-11-19": 41602,
-  "2023-11-20": 41671,
-  "2023-11-21": 41728,
-  "2023-11-22": 41797,
-  "2023-11-23": 41857,
-  "2023-11-24": 41913,
-  "2023-11-25": 41968,
-  "2023-11-26": 42015,
-  "2023-11-27": 42069,
-  "2023-11-28": 42122,
-  "2023-11-29": 42250,
-  "2023-11-30": 42250,
-  "2023-12-01": 42314,
-  "2023-12-02": 42374,
-  "2023-12-03": 42442,
-  "2023-12-04": 42492,
-  "2023-12-05": 42541,
-  "2023-12-06": 42594,
-  "2023-12-07": 42628,
-  "2023-12-08": 42691,
-  "2023-12-09": 42748,
-  "2023-12-10": 42798,
-  "2023-12-11": 42872,
-  "2023-12-12": 42931,
-  "2023-12-13": 43000,
-  "2023-12-14": 43115,
-  "2023-12-15": 43172,
-  "2023-12-16": 43232,
-  "2023-12-17": 43285,
-  "2023-12-18": 43343,
-  "2023-12-19": 43413,
-  "2023-12-20": 43478,
-  "2023-12-21": 43537,
-  "2023-12-22": 43583,
-  "2023-12-23": 43651,
-  "2023-12-24": 43723,
-  "2023-12-25": 43766,
-  "2023-12-26": 43819,
-  "2023-12-27": 43886,
-  "2023-12-30": 44080,
-  "2023-12-31": 44145,
-  "2024-01-01": 44195,
-  "2024-01-02": 44248,
-  "2024-01-03": 44304
+  "2024-01-17": 45204,
+  "date_first_scraped": "2022-07-14",
+  "description": "Enjoy music from \"FULLMETAL ALCHEMIST BROTHERHOOD\"! / \u97f3\u697d\u3067\u8fbf\u308b\u30012009\u5e74\u653e\u9001\u958b\u59cb\u306e\u30a2\u30cb\u30e1\u300c\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST\u300d\u306e\u4e16\u754c\u3002<a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147\">\u92fc\u306e\u932c\u91d1\u8853\u5e2b</a>(2003\u5e74\u653e\u9001\u958b\u59cb)\u306f\u3053\u3061\u3089(C)\u8352\u5ddd\u5f18\uff0f\u92fc\u306e\u932c\u91d1\u8853\u5e2b\u88fd\u4f5c\u59d4\u54e1\u4f1a \u00a9Hiromu Arakawa/FA Project",
+  "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST / FULLMETAL ALCHEMIST BROTHERHOOD",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 133733,
+      "name": "A Soldier's Honor",
+      "url": "https://open.spotify.com/track/2xjkzmVweKB2ThHTjCHQ05"
+    },
+    {
+      "album": {
+        "name": "HOLIDAYS IN THE SUN",
+        "url": "https://open.spotify.com/album/2rOHJ6kE8LjvDegataPviX"
+      },
+      "artists": [
+        {
+          "name": "YUI",
+          "url": "https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "again",
+      "url": "https://open.spotify.com/track/4OQq1bcP12GQQXJNupxqfR"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 125080,
+      "name": "Amestris Military March",
+      "url": "https://open.spotify.com/track/2QTGV921Mtye08qJMHJ1Fg"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119960,
+      "name": "Ante Meridiem",
+      "url": "https://open.spotify.com/track/3BWsA9seIus7pOgwqaHjDS"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 85520,
+      "name": "Anticipation",
+      "url": "https://open.spotify.com/track/6pXRv1QvmIYvPhDsYKkSjn"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "Battle Scherzo",
+      "url": "https://open.spotify.com/track/002wRsVbNPo6r6FXRJa6dI"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 101680,
+      "name": "Beneath the City",
+      "url": "https://open.spotify.com/track/6uPHF1pZg3O8bzQ1LM7YHX"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Beyond the Walls",
+      "url": "https://open.spotify.com/track/5lIEMkO8Rxkm0M6urdTKSu"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Riza Hawkeye (CV:Fumiko Orikasa)",
+          "url": "https://open.spotify.com/artist/2LhcWBx8zrPmKfSyDH4yNp"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219666,
+      "name": "Bonne nuit",
+      "url": "https://open.spotify.com/track/1G5mRVI5Glere2gXBXMUdr"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 83253,
+      "name": "Brotherhood -Postlude-",
+      "url": "https://open.spotify.com/track/6VPAHD6Aw34saMjzAS6IIS"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105560,
+      "name": "Clash of the Alchemists",
+      "url": "https://open.spotify.com/track/1a1EpobC2UgW9J0UokXxuF"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Concerto \uff5eBrotherhood\uff5e",
+      "url": "https://open.spotify.com/track/36in7Rxh0SBxbCYjC5kTcu"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Consonance",
+      "url": "https://open.spotify.com/track/6byTyPRiFM2dlzsIPvBdtC"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132786,
+      "name": "Crime and Punishment",
+      "url": "https://open.spotify.com/track/6jA4Dc0ev7BGAAueX0CL9l"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95506,
+      "name": "Crisis in the North",
+      "url": "https://open.spotify.com/track/1XjQ6031on5RGCzWmGqegq"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 85840,
+      "name": "Daylight in Amestris",
+      "url": "https://open.spotify.com/track/636T6L5D1n6L5T5wb3vZNu"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 135613,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/0cuDUQE3uE7DdsRMZOYQFC"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Edward Elric (CV:Romi Park)",
+          "url": "https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310946,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/1bG0odfFjC13woHUAvzJWZ"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 118106,
+      "name": "Dissident's Creed",
+      "url": "https://open.spotify.com/track/458Osk4q1YqL6A8NLZiyPO"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 86533,
+      "name": "Entr'acte",
+      "url": "https://open.spotify.com/track/34m9f8XXp0zSVhpHiE3L0d"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119253,
+      "name": "Envy Revealed",
+      "url": "https://open.spotify.com/track/00m7taUkCMvHFVBVhjf4Xk"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Envy Revealed \uff5eAdagio\uff5e",
+      "url": "https://open.spotify.com/track/4Uma3lLFGGUSjGVIL4kxK7"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 179653,
+      "name": "Epilogue ~A New Journey~",
+      "url": "https://open.spotify.com/track/4uY3JR59w4UFK3WkyB7gVP"
+    },
+    {
+      "album": {
+        "name": "EVERLASTING\uff0f\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/2nVMaMPC2mCUsCCJGKDZZj"
+      },
+      "artists": [
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242066,
+      "name": "EVERLASTING",
+      "url": "https://open.spotify.com/track/3yUn3VJ4i211Tgu7cLpGfn"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88426,
+      "name": "Fanfare for the Brave",
+      "url": "https://open.spotify.com/track/5XSNOzcwdM8FMSQinCxAch"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96800,
+      "name": "Far East Suite",
+      "url": "https://open.spotify.com/track/7HRrSgDVq9yM1HMBzE9VDD"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 91160,
+      "name": "Far East Suite -Pizzicato-",
+      "url": "https://open.spotify.com/track/2BxdoB5Ou4UzCZTWzXh5Pp"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 165746,
+      "name": "Fifth Laboratory",
+      "url": "https://open.spotify.com/track/5WEEyOabgbtwWBONOrHiv0"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145546,
+      "name": "Fire in the Sky",
+      "url": "https://open.spotify.com/track/7emW0GESrrBADouaxNiJ14"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124733,
+      "name": "Happiness \uff5eRequiem from\u201cThe Blind Alchemist\u201d\uff5e",
+      "url": "https://open.spotify.com/track/2sBtNMATZHgcJS2cV2ehqQ"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 144746,
+      "name": "Heroic Bolero",
+      "url": "https://open.spotify.com/track/6GltNmDwKOq2DIymDRCftW"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 123000,
+      "name": "Home ~a house on the hill~",
+      "url": "https://open.spotify.com/track/47JRuqptPLLmDWFqrkJoIX"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 74600,
+      "name": "Home ~en route to Resembool~",
+      "url": "https://open.spotify.com/track/7uLcForrQZEABtsl0hZ0KH"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 68773,
+      "name": "Hum of the Streets",
+      "url": "https://open.spotify.com/track/5dHjLMbhZk8T05rhMn0hkt"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 112893,
+      "name": "In the Fray",
+      "url": "https://open.spotify.com/track/7g3cYn6yUnrbMkjTUwpqrY"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 65546,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/3Vnf07t1BuY0Hazyywod1p"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135786,
+      "name": "Knives and Shadows",
+      "url": "https://open.spotify.com/track/5sd4CgMPY2fGgfXBCOwzvh"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Warsaw Philharmonic Orchestra & Choir",
+          "url": "https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Lapis Philosophorum",
+      "url": "https://open.spotify.com/track/1cIUQGItsM40NSUJoNYaSd"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 97186,
+      "name": "Lapis Philosophorum -Piano Solo-",
+      "url": "https://open.spotify.com/track/3vxA6W1pEP4n9oEZg7cESj"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178466,
+      "name": "Lapis Philosophorum \uff5eChant\uff5e",
+      "url": "https://open.spotify.com/track/7bcb3Fln7dOeiu97Fne1M9"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87146,
+      "name": "Laws of Alchemy",
+      "url": "https://open.spotify.com/track/4bTRvh0TGQnQ90bHoPOrpc"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 88026,
+      "name": "Laws of Alchemy ~Instrumental~",
+      "url": "https://open.spotify.com/track/0xXLSIUmtCpmDzAW3aKTFe"
+    },
+    {
+      "album": {
+        "name": "LET IT OUT",
+        "url": "https://open.spotify.com/album/1HrYt6AXwsWvj6x0eJTy8J"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260680,
+      "name": "LET IT OUT",
+      "url": "https://open.spotify.com/track/3O6uWEmwDlkT7EmucuRdvB"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 90986,
+      "name": "LET IT OUT -\u300c\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST\u300dED ver.-",
+      "url": "https://open.spotify.com/track/10U5ZR2TOj7mJYH0b7heN7"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133773,
+      "name": "Lullaby of Resembool",
+      "url": "https://open.spotify.com/track/3GVVHFeGI8VgbJ9y27KreF"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80320,
+      "name": "Lurking",
+      "url": "https://open.spotify.com/track/7zbuvZtQAtioUaT3iTmyO4"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 88840,
+      "name": "Main Theme ~Homage to Alchemy~",
+      "url": "https://open.spotify.com/track/5dVc2bPYcMhrQ9FGGdGPBt"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121866,
+      "name": "Main Theme \uff5eThe Alchemist\uff5e",
+      "url": "https://open.spotify.com/track/3vrqHeabohTaCnlemvSXUR"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222520,
+      "name": "Main Theme \uff5eThe Fullmetal Alchemist\uff5e",
+      "url": "https://open.spotify.com/track/7c9OHViTralZa26DFOSTs2"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 113533,
+      "name": "March of the Moving Dolls",
+      "url": "https://open.spotify.com/track/1ZWdWq8BHOhMRstfKCuzUS"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149480,
+      "name": "Mist",
+      "url": "https://open.spotify.com/track/5Gsqu7lexTVxuG07Yq1t8c"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 132666,
+      "name": "Mortal Sin",
+      "url": "https://open.spotify.com/track/5rhIlruf3ebUaV78y8Ka4i"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 146720,
+      "name": "Mount Briggs -Overture-",
+      "url": "https://open.spotify.com/track/2j68IP3VUltr4reMHMhUIj"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 91933,
+      "name": "Mount Briggs -Undulation-",
+      "url": "https://open.spotify.com/track/41kRcWlcuQ2aCUSMTO8zWb"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 148800,
+      "name": "Next Chapter",
+      "url": "https://open.spotify.com/track/7LgjUvCInRsBeMp9eE6EjO"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 155946,
+      "name": "Nightfall in Central City",
+      "url": "https://open.spotify.com/track/1FjzpDveqiaE7hIDlnkvV6"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 196693,
+      "name": "Nightfall in Central City ~Fin~",
+      "url": "https://open.spotify.com/track/3CNHELYQkpi7BkP1qHC8JM"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 98346,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2iIJty0Jx65sYMduOM5eJ2"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 83066,
+      "name": "No Answer",
+      "url": "https://open.spotify.com/track/65MuTPna7lufoiguiPhTaj"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 111120,
+      "name": "Nocturne of Amestris",
+      "url": "https://open.spotify.com/track/5uk2OM09sZzmJ0gtv3a17M"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97906,
+      "name": "Nocturne of Amestris -Duet-",
+      "url": "https://open.spotify.com/track/2Eow4oODrO7y3cl4TtyIU0"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99826,
+      "name": "One is All, All is One",
+      "url": "https://open.spotify.com/track/0OuJvo7X6KXQRCivDryiOx"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137253,
+      "name": "Overture \uff5eBrotherhood\uff5e",
+      "url": "https://open.spotify.com/track/6c5XcNNCMcCArqV1hsdrop"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 82173,
+      "name": "Pastorale Rondo",
+      "url": "https://open.spotify.com/track/6YuCrp5ICDq1cBhGA0TJXO"
+    },
+    {
+      "album": {
+        "name": "Period",
+        "url": "https://open.spotify.com/album/2wuaOJR1IPuwlaURm3IGDN"
+      },
+      "artists": [
+        {
+          "name": "CHEMISTRY",
+          "url": "https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217306,
+      "name": "Period",
+      "url": "https://open.spotify.com/track/2Hv8CIxNzaCJoRPEzdvMTY"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 111613,
+      "name": "Philosophorum Omega",
+      "url": "https://open.spotify.com/track/2B2uKp6o6EUpqiMnwDC8Ss"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 115360,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/2rxpkz0xwJfBN9fZdR2M4A"
+    },
+    {
+      "album": {
+        "name": "RAY OF LIGHT",
+        "url": "https://open.spotify.com/album/3DGLAF57uoHLso75hDU7cx"
+      },
+      "artists": [
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "RAY OF LIGHT",
+      "url": "https://open.spotify.com/track/18dGnO3Gc6dGTgLoQLwsVN"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Requiem for the Brigadier General",
+      "url": "https://open.spotify.com/track/3PFIk7dMh4uDEvSMkTRtDF"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 119800,
+      "name": "Resembool's Lullaby",
+      "url": "https://open.spotify.com/track/1yN974RhReddGul1kIZuNL"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Elric (CV:Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6Ef76xkexgGXlHTGrYIakA"
+        },
+        {
+          "name": "Edward Elric (CV:Romi Park)",
+          "url": "https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246933,
+      "name": "Restore steppin'",
+      "url": "https://open.spotify.com/track/1w5U9qWuijzS3i2Gyht2hb"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "Sorrowful Stone",
+      "url": "https://open.spotify.com/track/0eOl2uwpktFMs90MCXNnjd"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85013,
+      "name": "Spiral of Truth",
+      "url": "https://open.spotify.com/track/63LZjHCqO2RUBNhrVmjsx5"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94413,
+      "name": "Stepping Along",
+      "url": "https://open.spotify.com/track/3JrcQDFCOKFTzM9N1Uonst"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82066,
+      "name": "T.B.C.",
+      "url": "https://open.spotify.com/track/1zhZt5WuRYGwKnIOz9aASm"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 160040,
+      "name": "The Awakening",
+      "url": "https://open.spotify.com/track/6IKKehUNyULbVcnU82p9Kg"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 83280,
+      "name": "The Day the Sun Disappeared",
+      "url": "https://open.spotify.com/track/0pvF5rYDlTnzmlF9XGz9W8"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 120906,
+      "name": "The Forbearer",
+      "url": "https://open.spotify.com/track/2QH4X8Qr5cYZPIZEJU8Pdz"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 145866,
+      "name": "The Fullmetal Alchemist -Legato-",
+      "url": "https://open.spotify.com/track/1uGqQ3BEpGIjiHncExRe1p"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "The Intrepid",
+      "url": "https://open.spotify.com/track/7MFjCAY52StmoVKTbbyLEF"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 106066,
+      "name": "The Land of Ishvala",
+      "url": "https://open.spotify.com/track/01CzhExyfzzVgM0eRp7z67"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 108986,
+      "name": "The Pendulum",
+      "url": "https://open.spotify.com/track/0Ay4KjajUSF1fUSaUKf5OS"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 101066,
+      "name": "The Plot Thickens",
+      "url": "https://open.spotify.com/track/4JJlRhxn0OAxjgT2bkDNoe"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122133,
+      "name": "To Be King",
+      "url": "https://open.spotify.com/track/4SAuXCgJtTykLyMqwiUO96"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 22880,
+      "name": "Tribute to W.C. I",
+      "url": "https://open.spotify.com/track/01KqdZmfMeWrK5Brtcv96i"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 21586,
+      "name": "Tribute to W.C. II",
+      "url": "https://open.spotify.com/track/4Rk9QZ8AENSXKAhqdn39K9"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/5AyohASGLv7HW6vZuYjYxT"
+      },
+      "artists": [
+        {
+          "name": "Warsaw Philharmonic Orchestra & Choir",
+          "url": "https://open.spotify.com/artist/10LmYfv5wE9or9EBI60asK"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "Trisha's Lullaby",
+      "url": "https://open.spotify.com/track/3Acs78RQqrAQNEuDd4ucOP"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 212946,
+      "name": "Trisha's Lullaby ~A Reminiscence~",
+      "url": "https://open.spotify.com/track/53KveDCI4d2T3LbqJNxS2l"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106853,
+      "name": "Versus Homunculus",
+      "url": "https://open.spotify.com/track/2wObSszOZU77j4a8H3kVJR"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 3",
+        "url": "https://open.spotify.com/album/2gyIPme2VBOvJAWgqg6sOw"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 230453,
+      "name": "Violoncello's Lament",
+      "url": "https://open.spotify.com/track/3t0qPCuYlTcaycLsgXZprj"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 62746,
+      "name": "What Lies Beneath",
+      "url": "https://open.spotify.com/track/1SehRwD7ZcnH00kBkj0Ygo"
+    },
+    {
+      "album": {
+        "name": "\u92fc\u306e\u932c\u91d1\u8853\u5e2b FULLMETAL ALCHEMIST Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/7jgi0qvRnVS8A2JoueOmM5"
+      },
+      "artists": [
+        {
+          "name": "Akira Senju",
+          "url": "https://open.spotify.com/artist/0OkFVhBMPKQtmBj2YRy3Vu"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90440,
+      "name": "Xing Symphony -Overture-",
+      "url": "https://open.spotify.com/track/04knKfXzN5Tb1BMSAaCkEq"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Lan Fan (CV:Nana Mizuki)",
+          "url": "https://open.spotify.com/artist/6Yv18aNTgVikc1wOY2XQwU"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "\u305d\u3063\u3068\u3001\u305d\u3063\u3068",
+      "url": "https://open.spotify.com/track/7mpHcM74tMUKQx2nGhzjMP"
+    },
+    {
+      "album": {
+        "name": "\u3064\u306a\u3044\u3060\u624b",
+        "url": "https://open.spotify.com/album/2H4rThitVL3Z8g8hJyO7zi"
+      },
+      "artists": [
+        {
+          "name": "Lil'B",
+          "url": "https://open.spotify.com/artist/73RYTxKqVXkXo52SYyFJAC"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279800,
+      "name": "\u3064\u306a\u3044\u3060\u624b",
+      "url": "https://open.spotify.com/track/2s6bnkPox8TOQQo3slqMSN"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0\u30e9\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4VBStx3XhYhQiWJSTLEwg4"
+      },
+      "artists": [
+        {
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340800,
+      "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0\u30e9\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/66DAA9F0AFPpDvezYunqm3"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
+        "url": "https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251333,
+      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
+      "url": "https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Ling Yao (CV:Mamoru Miyano)",
+          "url": "https://open.spotify.com/artist/0SlP61y5P2WrKwJDAUbmv1"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220560,
+      "name": "\u30ca\u30f3\u30d0\u30fc\u738b",
+      "url": "https://open.spotify.com/track/1HQYZxSvKNOtz5SitWJI1X"
+    },
+    {
+      "album": {
+        "name": "\u30db\u30ed\u30b0\u30e9\u30e0",
+        "url": "https://open.spotify.com/album/0ZSwUMBw5vqZQMPqpousBo"
+      },
+      "artists": [
+        {
+          "name": "NICO Touches the Walls",
+          "url": "https://open.spotify.com/artist/16FpDRuy5xMHpuLYZV0Hkt"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249066,
+      "name": "\u30db\u30ed\u30b0\u30e9\u30e0",
+      "url": "https://open.spotify.com/track/3yQACgMuy2G7EXCTeGtjlt"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30a4\u30f3",
+        "url": "https://open.spotify.com/album/1GbrjrBv1o9AHZolbFP9Jw"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256213,
+      "name": "\u30ec\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/4hKUNjXvTRp1Xpv9n4O8IK"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Ling Yao (CV:Mamoru Miyano)",
+          "url": "https://open.spotify.com/artist/0SlP61y5P2WrKwJDAUbmv1"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292266,
+      "name": "\u5149\u306e\u5c04\u3059\u5834\u6240",
+      "url": "https://open.spotify.com/track/7GtfAidKUjQxf28lBxMt72"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Roy Mustang (CV:Shinichiro Miki)",
+          "url": "https://open.spotify.com/artist/4YJ87lYZW8VmendkBWO6rZ"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "\u547d~MEI~",
+      "url": "https://open.spotify.com/track/36y7eLCwKI1dlEiNaMgOP4"
+    },
+    {
+      "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/4fQMNtjSYRHT1HarzAnqNy"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 205973,
+      "name": "\u5618",
+      "url": "https://open.spotify.com/track/0ODOmKxO0CKv4DzoP3HHIC"
+    },
+    {
+      "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/201JmzIdtXjfIM1mhgqSfK"
+      },
+      "artists": [
+        {
+          "name": "SID",
+          "url": "https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "\u5618",
+      "url": "https://open.spotify.com/track/5hyuqT3PwqSKtH1EUSST20"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Edward Elric (CV:Romi Park)",
+          "url": "https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259838,
+      "name": "\u5922\u306e\u539f\u77f3",
+      "url": "https://open.spotify.com/track/5MKN8qMkq6jllEnXh8nuVz"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u9593\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
+        "url": "https://open.spotify.com/album/62O4WeE1UZtdtCFrAcjHBP"
+      },
+      "artists": [
+        {
+          "name": "SCANDAL",
+          "url": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "\u77ac\u9593\u30bb\u30f3\u30c1\u30e1\u30f3\u30bf\u30eb",
+      "url": "https://open.spotify.com/track/2CFY24ovop3Ueel7ECzw0Y"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Winry Rockbell (CV:Megumi Takamoto)",
+          "url": "https://open.spotify.com/artist/5A67I4O5hr14w5vq98sZp7"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260480,
+      "name": "\u7a7a\u3092\u4ef0\u3052\u3070",
+      "url": "https://open.spotify.com/track/6GJhawyIwPE8FkyuDI5Wdf"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Lan Fan (CV:Nana Mizuki)",
+          "url": "https://open.spotify.com/artist/6Yv18aNTgVikc1wOY2XQwU"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300293,
+      "name": "\u7a7a\u98a8",
+      "url": "https://open.spotify.com/track/2Ke5FuwU0tF0ZgLtoeCShe"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Edward Elric (CV:Romi Park)",
+          "url": "https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt"
+        },
+        {
+          "name": "Alphonse Elric (CV:Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6Ef76xkexgGXlHTGrYIakA"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267813,
+      "name": "\u7d05\u6708",
+      "url": "https://open.spotify.com/track/0sb5JkTZ83P23kcJfNs6LE"
+    },
+    {
+      "album": {
+        "name": "Theme of Fullmetal Alchemist by THE ALCHEMISTS",
+        "url": "https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh"
+      },
+      "artists": [
+        {
+          "name": "Alphonse Elric (CV:Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6Ef76xkexgGXlHTGrYIakA"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242693,
+      "name": "\u98a8\u306b\u62b1\u304b\u308c\u3066",
+      "url": "https://open.spotify.com/track/0fan0PoGef5WQPmn8buRY5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6EruMUbdfEp"
 }

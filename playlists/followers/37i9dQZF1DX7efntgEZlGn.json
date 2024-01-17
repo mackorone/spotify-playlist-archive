@@ -1,458 +1,1369 @@
 {
-  "2022-10-01": 884,
-  "2022-10-02": 888,
-  "2022-10-03": 893,
-  "2022-10-04": 895,
-  "2022-10-05": 901,
-  "2022-10-06": 910,
-  "2022-10-07": 917,
-  "2022-10-08": 923,
-  "2022-10-09": 933,
-  "2022-10-10": 935,
-  "2022-10-11": 945,
-  "2022-10-12": 954,
-  "2022-10-13": 963,
-  "2022-10-14": 971,
-  "2022-10-15": 987,
-  "2022-10-16": 1000,
-  "2022-10-17": 1013,
-  "2022-10-18": 1028,
-  "2022-10-19": 1040,
-  "2022-10-20": 1053,
-  "2022-10-21": 1062,
-  "2022-10-22": 1075,
-  "2022-10-23": 1083,
-  "2022-10-24": 1093,
-  "2022-10-25": 1102,
-  "2022-10-26": 1113,
-  "2022-10-27": 1125,
-  "2022-10-28": 1136,
-  "2022-10-29": 1142,
-  "2022-10-30": 1153,
-  "2022-10-31": 1161,
-  "2022-11-01": 1170,
-  "2022-11-02": 1181,
-  "2022-11-03": 1184,
-  "2022-11-04": 1200,
-  "2022-11-05": 1219,
-  "2022-11-06": 1239,
-  "2022-11-07": 1249,
-  "2022-11-08": 1264,
-  "2022-11-09": 1279,
-  "2022-11-10": 1302,
-  "2022-11-11": 1308,
-  "2022-11-12": 1314,
-  "2022-11-13": 1320,
-  "2022-11-14": 1334,
-  "2022-11-15": 1344,
-  "2022-11-16": 1356,
-  "2022-11-17": 1366,
-  "2022-11-18": 1371,
-  "2022-11-19": 1374,
-  "2022-11-20": 1378,
-  "2022-11-21": 1388,
-  "2022-11-22": 1396,
-  "2022-11-23": 1404,
-  "2022-11-24": 1424,
-  "2022-11-25": 1436,
-  "2022-11-26": 1444,
-  "2022-11-27": 1452,
-  "2022-11-28": 1464,
-  "2022-11-29": 1475,
-  "2022-11-30": 1486,
-  "2022-12-01": 1490,
-  "2022-12-02": 1497,
-  "2022-12-03": 1510,
-  "2022-12-04": 1523,
-  "2022-12-05": 1549,
-  "2022-12-06": 1560,
-  "2022-12-07": 1568,
-  "2022-12-08": 1581,
-  "2022-12-09": 1596,
-  "2022-12-10": 1602,
-  "2022-12-11": 1608,
-  "2022-12-12": 1618,
-  "2022-12-13": 1632,
-  "2022-12-14": 1639,
-  "2022-12-15": 1647,
-  "2022-12-16": 1663,
-  "2022-12-17": 1680,
-  "2022-12-18": 1688,
-  "2022-12-19": 1703,
-  "2022-12-20": 1711,
-  "2022-12-21": 1711,
-  "2022-12-22": 1719,
-  "2022-12-24": 1740,
-  "2022-12-25": 1748,
-  "2022-12-26": 1753,
-  "2022-12-27": 1762,
-  "2022-12-28": 1770,
-  "2022-12-29": 1782,
-  "2022-12-30": 1795,
-  "2022-12-31": 1813,
-  "2023-01-01": 1823,
-  "2023-01-02": 1836,
-  "2023-01-03": 1844,
-  "2023-01-04": 1855,
-  "2023-01-05": 1868,
-  "2023-01-06": 1882,
-  "2023-01-07": 1906,
-  "2023-01-08": 1906,
-  "2023-01-09": 1919,
-  "2023-01-10": 1926,
-  "2023-01-11": 1936,
-  "2023-01-12": 1943,
-  "2023-01-13": 1957,
-  "2023-01-14": 1968,
-  "2023-01-15": 1969,
-  "2023-01-16": 1988,
-  "2023-01-17": 2011,
-  "2023-01-18": 2019,
-  "2023-01-19": 2023,
-  "2023-01-20": 2035,
-  "2023-01-21": 2046,
-  "2023-01-22": 2061,
-  "2023-01-23": 2076,
-  "2023-01-24": 2084,
-  "2023-01-25": 2092,
-  "2023-01-26": 2097,
-  "2023-01-27": 2112,
-  "2023-01-28": 2122,
-  "2023-01-29": 2140,
-  "2023-01-30": 2147,
-  "2023-01-31": 2147,
-  "2023-02-01": 2163,
-  "2023-02-02": 2170,
-  "2023-02-03": 2182,
-  "2023-02-04": 2191,
-  "2023-02-05": 2194,
-  "2023-02-06": 2206,
-  "2023-02-07": 2215,
-  "2023-02-08": 2222,
-  "2023-02-09": 2222,
-  "2023-02-10": 2235,
-  "2023-02-11": 2239,
-  "2023-02-12": 2261,
-  "2023-02-13": 2265,
-  "2023-02-14": 2265,
-  "2023-02-15": 2274,
-  "2023-02-16": 2281,
-  "2023-02-17": 2285,
-  "2023-02-18": 2297,
-  "2023-02-19": 2297,
-  "2023-02-20": 2302,
-  "2023-02-21": 2307,
-  "2023-02-22": 2313,
-  "2023-02-23": 2320,
-  "2023-02-24": 2327,
-  "2023-02-25": 2336,
-  "2023-02-26": 2343,
-  "2023-02-27": 2354,
-  "2023-02-28": 2354,
-  "2023-03-01": 2362,
-  "2023-03-02": 2375,
-  "2023-03-03": 2384,
-  "2023-03-04": 2391,
-  "2023-03-05": 2401,
-  "2023-03-06": 2401,
-  "2023-03-07": 2409,
-  "2023-03-08": 2418,
-  "2023-03-09": 2425,
-  "2023-03-10": 2427,
-  "2023-03-11": 2431,
-  "2023-03-12": 2434,
-  "2023-03-13": 2443,
-  "2023-03-14": 2450,
-  "2023-03-15": 2459,
-  "2023-03-16": 2464,
-  "2023-03-17": 2464,
-  "2023-03-18": 2487,
-  "2023-03-19": 2489,
-  "2023-03-20": 2500,
-  "2023-03-21": 2507,
-  "2023-03-22": 2514,
-  "2023-03-23": 2516,
-  "2023-03-24": 2516,
-  "2023-03-25": 2520,
-  "2023-03-26": 2532,
-  "2023-03-27": 2541,
-  "2023-03-28": 2549,
-  "2023-03-29": 2553,
-  "2023-03-30": 2562,
-  "2023-03-31": 2562,
-  "2023-04-01": 2568,
-  "2023-04-02": 2572,
-  "2023-04-03": 2589,
-  "2023-04-04": 2593,
-  "2023-04-05": 2599,
-  "2023-04-06": 2605,
-  "2023-04-07": 2613,
-  "2023-04-09": 2623,
-  "2023-04-10": 2629,
-  "2023-04-11": 2639,
-  "2023-04-12": 2639,
-  "2023-04-13": 2643,
-  "2023-04-14": 2647,
-  "2023-04-15": 2649,
-  "2023-04-16": 2650,
-  "2023-04-17": 2654,
-  "2023-04-18": 2657,
-  "2023-04-19": 2663,
-  "2023-04-20": 2669,
-  "2023-04-21": 2674,
-  "2023-04-22": 2677,
-  "2023-04-23": 2675,
-  "2023-04-24": 2683,
-  "2023-04-25": 2687,
-  "2023-04-26": 2689,
-  "2023-04-27": 2690,
-  "2023-04-28": 2694,
-  "2023-04-29": 2699,
-  "2023-04-30": 2707,
-  "2023-05-01": 2712,
-  "2023-05-02": 2714,
-  "2023-05-03": 2715,
-  "2023-05-04": 2716,
-  "2023-05-05": 2720,
-  "2023-05-06": 2722,
-  "2023-05-07": 2725,
-  "2023-05-08": 2728,
-  "2023-05-09": 2732,
-  "2023-05-10": 2731,
-  "2023-05-11": 2734,
-  "2023-05-12": 2740,
-  "2023-05-13": 2741,
-  "2023-05-14": 2743,
-  "2023-05-15": 2749,
-  "2023-05-16": 2750,
-  "2023-05-17": 2752,
-  "2023-05-18": 2756,
-  "2023-05-19": 2758,
-  "2023-05-20": 2765,
-  "2023-05-21": 2765,
-  "2023-05-22": 2765,
-  "2023-05-23": 2771,
-  "2023-05-24": 2774,
-  "2023-05-25": 2775,
-  "2023-05-26": 2776,
-  "2023-05-27": 2778,
-  "2023-05-28": 2781,
-  "2023-05-29": 2781,
-  "2023-05-30": 2787,
-  "2023-05-31": 2789,
-  "2023-06-01": 2796,
-  "2023-06-02": 2803,
-  "2023-06-03": 2805,
-  "2023-06-04": 2804,
-  "2023-06-05": 2808,
-  "2023-06-06": 2810,
-  "2023-06-07": 2811,
-  "2023-06-08": 2814,
-  "2023-06-09": 2820,
-  "2023-06-10": 2824,
-  "2023-06-11": 2826,
-  "2023-06-12": 2833,
-  "2023-06-13": 2833,
-  "2023-06-14": 2836,
-  "2023-06-15": 2843,
-  "2023-06-16": 2843,
-  "2023-06-17": 2848,
-  "2023-06-18": 2852,
-  "2023-06-19": 2857,
-  "2023-06-20": 2859,
-  "2023-06-21": 2862,
-  "2023-06-22": 2866,
-  "2023-06-23": 2867,
-  "2023-06-24": 2867,
-  "2023-06-25": 2870,
-  "2023-06-26": 2876,
-  "2023-06-27": 2881,
-  "2023-06-28": 2884,
-  "2023-06-29": 2893,
-  "2023-06-30": 2897,
-  "2023-07-01": 2901,
-  "2023-07-02": 2901,
-  "2023-07-03": 2906,
-  "2023-07-04": 2906,
-  "2023-07-05": 2909,
-  "2023-07-06": 2914,
-  "2023-07-07": 2914,
-  "2023-07-08": 2916,
-  "2023-07-09": 2918,
-  "2023-07-10": 2921,
-  "2023-07-11": 2926,
-  "2023-07-12": 2927,
-  "2023-07-13": 2929,
-  "2023-07-14": 2930,
-  "2023-07-15": 2932,
-  "2023-07-16": 2936,
-  "2023-07-17": 2943,
-  "2023-07-18": 2945,
-  "2023-07-19": 2949,
-  "2023-07-20": 2949,
-  "2023-07-21": 2952,
-  "2023-07-22": 2956,
-  "2023-07-23": 2960,
-  "2023-07-24": 2966,
-  "2023-07-25": 2969,
-  "2023-07-26": 2972,
-  "2023-07-27": 2978,
-  "2023-07-28": 2978,
-  "2023-07-29": 2979,
-  "2023-07-30": 2983,
-  "2023-07-31": 2984,
-  "2023-08-01": 2984,
-  "2023-08-02": 2988,
-  "2023-08-03": 2992,
-  "2023-08-04": 2995,
-  "2023-08-05": 2999,
-  "2023-08-06": 3006,
-  "2023-08-07": 3006,
-  "2023-08-08": 3010,
-  "2023-08-09": 3012,
-  "2023-08-10": 3021,
-  "2023-08-11": 3022,
-  "2023-08-12": 3021,
-  "2023-08-13": 3023,
-  "2023-08-14": 3033,
-  "2023-08-15": 3039,
-  "2023-08-16": 3039,
-  "2023-08-17": 3045,
-  "2023-08-18": 3046,
-  "2023-08-19": 3052,
-  "2023-08-20": 3053,
-  "2023-08-21": 3057,
-  "2023-08-22": 3066,
-  "2023-08-23": 3068,
-  "2023-08-24": 3069,
-  "2023-08-25": 3074,
-  "2023-08-26": 3079,
-  "2023-08-27": 3080,
-  "2023-08-28": 3087,
-  "2023-08-29": 3089,
-  "2023-08-30": 3090,
-  "2023-08-31": 3096,
-  "2023-09-01": 3110,
-  "2023-09-02": 3110,
-  "2023-09-03": 3111,
-  "2023-09-04": 3115,
-  "2023-09-05": 3118,
-  "2023-09-06": 3126,
-  "2023-09-07": 3133,
-  "2023-09-08": 3139,
-  "2023-09-09": 3145,
-  "2023-09-10": 3154,
-  "2023-09-11": 3166,
-  "2023-09-12": 3168,
-  "2023-09-13": 3175,
-  "2023-09-14": 3182,
-  "2023-09-15": 3186,
-  "2023-09-16": 3198,
-  "2023-09-17": 3204,
-  "2023-09-18": 3210,
-  "2023-09-19": 3213,
-  "2023-09-20": 3218,
-  "2023-09-21": 3221,
-  "2023-09-22": 3227,
-  "2023-09-23": 3237,
-  "2023-09-24": 3249,
-  "2023-09-25": 3257,
-  "2023-09-26": 3269,
-  "2023-09-27": 3273,
-  "2023-09-28": 3278,
-  "2023-09-29": 3285,
-  "2023-09-30": 3295,
-  "2023-10-01": 3303,
-  "2023-10-02": 3307,
-  "2023-10-03": 3316,
-  "2023-10-04": 3323,
-  "2023-10-05": 3328,
-  "2023-10-06": 3331,
-  "2023-10-07": 3340,
-  "2023-10-08": 3349,
-  "2023-10-09": 3355,
-  "2023-10-10": 3358,
-  "2023-10-11": 3374,
-  "2023-10-12": 3374,
-  "2023-10-13": 3381,
-  "2023-10-14": 3389,
-  "2023-10-15": 3397,
-  "2023-10-16": 3402,
-  "2023-10-17": 3412,
-  "2023-10-18": 3415,
-  "2023-10-19": 3418,
-  "2023-10-20": 3425,
-  "2023-10-21": 3430,
-  "2023-10-22": 3435,
-  "2023-10-23": 3441,
-  "2023-10-24": 3444,
-  "2023-10-25": 3455,
-  "2023-10-26": 3460,
-  "2023-10-27": 3472,
-  "2023-10-28": 3475,
-  "2023-10-29": 3481,
-  "2023-10-30": 3490,
-  "2023-10-31": 3490,
-  "2023-11-01": 3499,
-  "2023-11-02": 3507,
-  "2023-11-03": 3513,
-  "2023-11-04": 3518,
-  "2023-11-05": 3524,
-  "2023-11-06": 3524,
-  "2023-11-07": 3532,
-  "2023-11-08": 3536,
-  "2023-11-09": 3540,
-  "2023-11-10": 3543,
-  "2023-11-11": 3552,
-  "2023-11-12": 3559,
-  "2023-11-13": 3568,
-  "2023-11-14": 3572,
-  "2023-11-15": 3572,
-  "2023-11-16": 3583,
-  "2023-11-17": 3594,
-  "2023-11-18": 3594,
-  "2023-11-19": 3601,
-  "2023-11-20": 3608,
-  "2023-11-21": 3611,
-  "2023-11-22": 3616,
-  "2023-11-23": 3622,
-  "2023-11-24": 3627,
-  "2023-11-25": 3633,
-  "2023-11-26": 3637,
-  "2023-11-27": 3649,
-  "2023-11-28": 3656,
-  "2023-11-29": 3669,
-  "2023-11-30": 3669,
-  "2023-12-01": 3675,
-  "2023-12-02": 3684,
-  "2023-12-03": 3696,
-  "2023-12-04": 3700,
-  "2023-12-05": 3704,
-  "2023-12-06": 3708,
-  "2023-12-07": 3712,
-  "2023-12-08": 3715,
-  "2023-12-09": 3771,
-  "2023-12-10": 3803,
-  "2023-12-11": 3815,
-  "2023-12-12": 3826,
-  "2023-12-13": 3828,
-  "2023-12-14": 3831,
-  "2023-12-15": 3835,
-  "2023-12-16": 3839,
-  "2023-12-17": 3841,
-  "2023-12-18": 3846,
-  "2023-12-19": 3849,
-  "2023-12-20": 3851,
-  "2023-12-21": 3854,
-  "2023-12-22": 3857,
-  "2023-12-23": 3864,
-  "2023-12-24": 3867,
-  "2023-12-25": 3871,
-  "2023-12-26": 3871,
-  "2023-12-27": 3871,
-  "2023-12-30": 3883,
-  "2023-12-31": 3887,
-  "2024-01-01": 3894,
-  "2024-01-02": 3897,
-  "2024-01-03": 3901
+  "2024-01-17": 3957,
+  "date_first_scraped": "2022-10-01",
+  "description": "Fresh Gospel tracks to make you move and bop your head in Praise",
+  "name": "Trinity Connect ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Action Talk",
+        "url": "https://open.spotify.com/album/7A5eEvwFO7chIh9EHxHvOi"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 217411,
+      "name": "Action Talk",
+      "url": "https://open.spotify.com/track/6VBCB9pZvaSGv9nCvCmph6"
+    },
+    {
+      "album": {
+        "name": "Preacher Bwoy",
+        "url": "https://open.spotify.com/album/6oKaA1feSLrZFXRqqxhthu"
+      },
+      "artists": [
+        {
+          "name": "Dafari",
+          "url": "https://open.spotify.com/artist/30Hds5akpJ0ZpGCLz8pB6x"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237191,
+      "name": "Adoration",
+      "url": "https://open.spotify.com/track/0quCpzMnchCoa6QoQBuCXc"
+    },
+    {
+      "album": {
+        "name": "Anaweza",
+        "url": "https://open.spotify.com/album/6ihadbtYKqtsTJMWWBY3n3"
+      },
+      "artists": [
+        {
+          "name": "Muhanjii",
+          "url": "https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq"
+        },
+        {
+          "name": "Mwinda",
+          "url": "https://open.spotify.com/artist/385E4qebI5ISB89FLVuP1w"
+        },
+        {
+          "name": "Kris Erroh",
+          "url": "https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2"
+        },
+        {
+          "name": "Yo Alex",
+          "url": "https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT"
+        },
+        {
+          "name": "Shani",
+          "url": "https://open.spotify.com/artist/6KYXhgWVbPSFpndvKW0jVe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
+      "duration_ms": 200489,
+      "name": "Anaweza",
+      "url": "https://open.spotify.com/track/0kjoe34OL34ON1BiilcX2e"
+    },
+    {
+      "album": {
+        "name": "Anza Na Mimi",
+        "url": "https://open.spotify.com/album/437wUYeGnL8aZcWtA7g9uL"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222650,
+      "name": "Anza Na Mimi",
+      "url": "https://open.spotify.com/track/1IbqQnaUT7ZJdG9vZmVOlV"
+    },
+    {
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/57scRjZ0ZDIsTcd7jQ3n4q"
+      },
+      "artists": [
+        {
+          "name": "Ringtone",
+          "url": "https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB"
+        },
+        {
+          "name": "Martha Mwaipaja",
+          "url": "https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233569,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/53HY4MHnRRh3hOLZQ1yE4c"
+    },
+    {
+      "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/1SfBM3PER9TurMOWK7GC0S"
+      },
+      "artists": [
+        {
+          "name": "Ringtone",
+          "url": "https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB"
+        },
+        {
+          "name": "Martha Mwaipaja",
+          "url": "https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 233569,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/6XGUIaVkvoyc5An6h0uotV"
+    },
+    {
+      "album": {
+        "name": "Bless Me",
+        "url": "https://open.spotify.com/album/6kFhQl2OOFDdzxXx3NIHss"
+      },
+      "artists": [
+        {
+          "name": "Alemba",
+          "url": "https://open.spotify.com/artist/6seiRQSfruP9bJmmLAxo9k"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221231,
+      "name": "Bless Me",
+      "url": "https://open.spotify.com/track/0pBoHMgxGSbffE3GXHTOTw"
+    },
+    {
+      "album": {
+        "name": "Blessings",
+        "url": "https://open.spotify.com/album/4lzj9zBDLZQbhZxjx3PtUr"
+      },
+      "artists": [
+        {
+          "name": "Exodus Ug",
+          "url": "https://open.spotify.com/artist/3y5h8SoIQSra1VQX5qWQoI"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152477,
+      "name": "Blessings",
+      "url": "https://open.spotify.com/track/1TFlHktKw98b1v1fnp7Ivx"
+    },
+    {
+      "album": {
+        "name": "Breakthrough",
+        "url": "https://open.spotify.com/album/4u3F02QumGxaRq7GtQ3l7Z"
+      },
+      "artists": [
+        {
+          "name": "Engincan Onar",
+          "url": "https://open.spotify.com/artist/08WRe2gvrGn6UczJKbU9Il"
+        },
+        {
+          "name": "Havoc",
+          "url": "https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Breakthrough",
+      "url": "https://open.spotify.com/track/75PIDjhtJiLKMMLzpZMMPR"
+    },
+    {
+      "album": {
+        "name": "Can't Style Me",
+        "url": "https://open.spotify.com/album/4BD9pAseOoO6vjBlSYWzqx"
+      },
+      "artists": [
+        {
+          "name": "Bura",
+          "url": "https://open.spotify.com/artist/368JQ3ZxIJ55JQaKaGdh8k"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240901,
+      "name": "Can't Style Me",
+      "url": "https://open.spotify.com/track/5aPAFKyR7ydaaR9B1Mdbzg"
+    },
+    {
+      "album": {
+        "name": "Cheza Gospel",
+        "url": "https://open.spotify.com/album/2VH1TToc1g3wnCzl3cGIM7"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Cheza Gospel",
+      "url": "https://open.spotify.com/track/23QRgJ0c7GmQens8wuX9N3"
+    },
+    {
+      "album": {
+        "name": "Chapter IV",
+        "url": "https://open.spotify.com/album/58JBueyer8tCatNlJ1f3OM"
+      },
+      "artists": [
+        {
+          "name": "Daddy Owen",
+          "url": "https://open.spotify.com/artist/0C0jx86ffVZNW144tEpETy"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198060,
+      "name": "Donjo",
+      "url": "https://open.spotify.com/track/7s61PhYsflmINKwYsQfPpI"
+    },
+    {
+      "album": {
+        "name": "ENJOY",
+        "url": "https://open.spotify.com/album/2rsZP3S0j81N42gu4NWRna"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Weber",
+          "url": "https://open.spotify.com/artist/6eebIf2iLkgsPBujMxRnwZ"
+        },
+        {
+          "name": "PAUL CLEMENT",
+          "url": "https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR"
+        },
+        {
+          "name": "Josh Cleopa",
+          "url": "https://open.spotify.com/artist/57OQOZ0jKyNW8bsOTgCdT3"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282353,
+      "name": "Enjoy",
+      "url": "https://open.spotify.com/track/5TaYOrcT1oTXhkbpDt7Kkg"
+    },
+    {
+      "album": {
+        "name": "Enjoy (Yo Blessings)",
+        "url": "https://open.spotify.com/album/24SeTWvJHoEFzO7zcxKOzy"
+      },
+      "artists": [
+        {
+          "name": "Levixone",
+          "url": "https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195056,
+      "name": "Enjoy (Yo Blessings)",
+      "url": "https://open.spotify.com/track/4y9lTRxtVT0OZgzpGRbRqT"
+    },
+    {
+      "album": {
+        "name": "Bright Dawn Riddim",
+        "url": "https://open.spotify.com/album/56dKSbQijsJuvVxdQNiUkm"
+      },
+      "artists": [
+        {
+          "name": "Danny Gift",
+          "url": "https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216511,
+      "name": "Far Above",
+      "url": "https://open.spotify.com/track/4xJ6LdzyX4BBx19XuGqR6q"
+    },
+    {
+      "album": {
+        "name": "Bright Dawn Riddim",
+        "url": "https://open.spotify.com/album/7kM83QA7i1CaBIByXSIIzh"
+      },
+      "artists": [
+        {
+          "name": "Danny Gift",
+          "url": "https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 216511,
+      "name": "Far Above",
+      "url": "https://open.spotify.com/track/7hiGfUcMXTdILXfIlFDD3S"
+    },
+    {
+      "album": {
+        "name": "Fundi Wa Mbao",
+        "url": "https://open.spotify.com/album/4ZJzh5CyMF3pMI2Fz71PmK"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
+      "duration_ms": 204434,
+      "name": "Fundi Wa Mbao",
+      "url": "https://open.spotify.com/track/0bDMecbVcSax1k9yz1j8yi"
+    },
+    {
+      "album": {
+        "name": "Halellujah",
+        "url": "https://open.spotify.com/album/7IaUFhIEkUBCgQ0dwsPgTo"
+      },
+      "artists": [
+        {
+          "name": "Stivo simple boy",
+          "url": "https://open.spotify.com/artist/6xB2biiMZCEImA2wB1qm5s"
+        },
+        {
+          "name": "Made in Kibera",
+          "url": "https://open.spotify.com/artist/1az6RcKSE89nahPJFRImGB"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184058,
+      "name": "Halellujah",
+      "url": "https://open.spotify.com/track/5sEKcXRZ3vGZmIoMKa931I"
+    },
+    {
+      "album": {
+        "name": "NOW THAT WE ARE HERE",
+        "url": "https://open.spotify.com/album/1lvyxxI5vdtdLTY64WUVYP"
+      },
+      "artists": [
+        {
+          "name": "JOSH XTRA",
+          "url": "https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe"
+        },
+        {
+          "name": "Yo Alex",
+          "url": "https://open.spotify.com/artist/3PA8YnbJW4N0PuiPamfEJb"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316460,
+      "name": "Hinya",
+      "url": "https://open.spotify.com/track/2vp3E0GaE2VBHY1EbVuy5p"
+    },
+    {
+      "album": {
+        "name": "Horera",
+        "url": "https://open.spotify.com/album/0HKGeIN1EWRdZXvL84U9mX"
+      },
+      "artists": [
+        {
+          "name": "Muhanjii",
+          "url": "https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq"
+        },
+        {
+          "name": "Yo Alex",
+          "url": "https://open.spotify.com/artist/2dyAmcFC6RZpQdECgopzAT"
+        },
+        {
+          "name": "JOSH XTRA",
+          "url": "https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206471,
+      "name": "Horera",
+      "url": "https://open.spotify.com/track/3SZtn6Vo9q9zaLRrx02UkZ"
+    },
+    {
+      "album": {
+        "name": "Black Child",
+        "url": "https://open.spotify.com/album/5ufvjfxwFSEJqTxRO4fmSK"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "BELLA KOMBO",
+          "url": "https://open.spotify.com/artist/4fCg09CBWzbspIIuw8wfVk"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275435,
+      "name": "Hubadiliki",
+      "url": "https://open.spotify.com/track/4E9ND957QouLYyU97gMFeg"
+    },
+    {
+      "album": {
+        "name": "Black Child",
+        "url": "https://open.spotify.com/album/0IrAxhlwwL6RsdDdyeQyBm"
+      },
+      "artists": [
+        {
+          "name": "Mr Seed",
+          "url": "https://open.spotify.com/artist/6worshay3dx3NqPNl8PRSw"
+        },
+        {
+          "name": "Bella Kombo",
+          "url": "https://open.spotify.com/artist/72i32gJ4wl0C1b0RG4h5iN"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 275435,
+      "name": "Hubadiliki (feat. Bella Kombo)",
+      "url": "https://open.spotify.com/track/1A3uvglKkwzkm3kIE0B67I"
+    },
+    {
+      "album": {
+        "name": "Huru",
+        "url": "https://open.spotify.com/album/12mhhGL28768lIEYqcnQvk"
+      },
+      "artists": [
+        {
+          "name": "Jay General",
+          "url": "https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186331,
+      "name": "Huru",
+      "url": "https://open.spotify.com/track/0MKqUGeZLxjJeNlMQqMTBz"
+    },
+    {
+      "album": {
+        "name": "Huru",
+        "url": "https://open.spotify.com/album/6Pe7sUSnckGI6edYYYQXPi"
+      },
+      "artists": [
+        {
+          "name": "Jay General",
+          "url": "https://open.spotify.com/artist/7dNS5Gtohaw7dCBdeX5oud"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 186331,
+      "name": "Huru",
+      "url": "https://open.spotify.com/track/5zFw2qypqYA2rZfeoR7YbD"
+    },
+    {
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/3omHcm5ucQJ26WUjdoF9DA"
+      },
+      "artists": [
+        {
+          "name": "Angel Benard",
+          "url": "https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247379,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6aDDgd5crYJ0OQPdq3TUmQ"
+    },
+    {
+      "album": {
+        "name": "Ipo Siku Remix",
+        "url": "https://open.spotify.com/album/0fUXgCbVaU1Qysy6B6nH9C"
+      },
+      "artists": [
+        {
+          "name": "Ringtone",
+          "url": "https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB"
+        },
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253561,
+      "name": "Ipo Siku Remix",
+      "url": "https://open.spotify.com/track/0HBD0KvuD49oRoBmqMNxu9"
+    },
+    {
+      "album": {
+        "name": "Ipo Siku Remix",
+        "url": "https://open.spotify.com/album/5xXmXsgHB2Aj7s0SN1Fg9l"
+      },
+      "artists": [
+        {
+          "name": "Ringtone",
+          "url": "https://open.spotify.com/artist/2O0K1UvQgheBpotSCzRPlB"
+        },
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 253561,
+      "name": "Ipo Siku Remix",
+      "url": "https://open.spotify.com/track/70MBx9XPb9qib4iXbezNnl"
+    },
+    {
+      "album": {
+        "name": "Jirani Yangu",
+        "url": "https://open.spotify.com/album/54PH3Kh5DpoE0zOJIODMke"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 182073,
+      "name": "Jirani Yangu",
+      "url": "https://open.spotify.com/track/2fnXwytCokjzrd1S5EgxP1"
+    },
+    {
+      "album": {
+        "name": "Jirani Yangu",
+        "url": "https://open.spotify.com/album/2UnScWHFQuZSELZ5nWMpAc"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "Jirani Yangu",
+      "url": "https://open.spotify.com/track/5ssNZTVFgpT5z058zUtmcA"
+    },
+    {
+      "album": {
+        "name": "Kanyaga Lami (Based on the verse Psalms 119:105)",
+        "url": "https://open.spotify.com/album/1evUn3qTNUiY06RANg0Djr"
+      },
+      "artists": [
+        {
+          "name": "Timeless Noel",
+          "url": "https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE"
+        },
+        {
+          "name": "Jabidii",
+          "url": "https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192966,
+      "name": "Kanyaga Lami - Based on the verse Psalms 119:105",
+      "url": "https://open.spotify.com/track/4sAkd1zhj9luj4Jn00IKze"
+    },
+    {
+      "album": {
+        "name": "Kesho",
+        "url": "https://open.spotify.com/album/4sylMukFQrAHtmk9a6h3e9"
+      },
+      "artists": [
+        {
+          "name": "Phil Kimemia",
+          "url": "https://open.spotify.com/artist/4r3O40RWed6CmE6XY51PRB"
+        },
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172903,
+      "name": "Kesho",
+      "url": "https://open.spotify.com/track/0TCgBgpoXiTiXC6dLrjzqZ"
+    },
+    {
+      "album": {
+        "name": "Kingdom Choir",
+        "url": "https://open.spotify.com/album/5lKTag6OC0bAxAqPIHOMnt"
+      },
+      "artists": [
+        {
+          "name": "Jfam",
+          "url": "https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya"
+        },
+        {
+          "name": "Moodkai",
+          "url": "https://open.spotify.com/artist/5fDrroPhERu1w9tkKVbG2d"
+        },
+        {
+          "name": "Davy Noty",
+          "url": "https://open.spotify.com/artist/0Evb0Rducxsch65j5KJ1Iv"
+        },
+        {
+          "name": "Dj Ruff",
+          "url": "https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212040,
+      "name": "Kingdom Choir",
+      "url": "https://open.spotify.com/track/1sFfVH2LOKkI0f2s6pV4dh"
+    },
+    {
+      "album": {
+        "name": "Lenga",
+        "url": "https://open.spotify.com/album/5hanZO8J0Uv5LQy9c9c4am"
+      },
+      "artists": [
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        },
+        {
+          "name": "Size 8",
+          "url": "https://open.spotify.com/artist/4ZnnTnbEvzqmp1r52XTbBe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196858,
+      "name": "Lenga",
+      "url": "https://open.spotify.com/track/3bEDq23F2zS6kG8SMhvA2C"
+    },
+    {
+      "album": {
+        "name": "Macho, Pt. 2 (Remix)",
+        "url": "https://open.spotify.com/album/34Ww4qGyCdUohbJdq1kMkK"
+      },
+      "artists": [
+        {
+          "name": "Kris Erroh",
+          "url": "https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2"
+        },
+        {
+          "name": "Juliani",
+          "url": "https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7"
+        },
+        {
+          "name": "Ngashville",
+          "url": "https://open.spotify.com/artist/6qHpqIoM0dqh30aDg10SCe"
+        },
+        {
+          "name": "MR.T",
+          "url": "https://open.spotify.com/artist/1sUyZcWKUqXMhdqQOwLaTp"
+        },
+        {
+          "name": "SkBlue",
+          "url": "https://open.spotify.com/artist/380ykbGsnwdSS0m69fz8sM"
+        },
+        {
+          "name": "Mc L.C",
+          "url": "https://open.spotify.com/artist/5UJ1BoR7GIgf5u5TtoMOhb"
+        },
+        {
+          "name": "Dunco",
+          "url": "https://open.spotify.com/artist/5fBnSAypAHI1lSCizDRhyH"
+        },
+        {
+          "name": "Mutua",
+          "url": "https://open.spotify.com/artist/3hWuR6uWx3avBgadzqVjwj"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 280790,
+      "name": "Macho, Pt. 2 - Remix",
+      "url": "https://open.spotify.com/track/3JEUWoHFELLQD5YFHHuJFg"
+    },
+    {
+      "album": {
+        "name": "Manweri",
+        "url": "https://open.spotify.com/album/1dKIFmNNW3k1MSnya4E9Jb"
+      },
+      "artists": [
+        {
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257647,
+      "name": "Manweri",
+      "url": "https://open.spotify.com/track/0Sv9WTeghj3jZZDdYmrEzQ"
+    },
+    {
+      "album": {
+        "name": "Mema",
+        "url": "https://open.spotify.com/album/3Hqy9SSDsYpFNHOG5EOuyD"
+      },
+      "artists": [
+        {
+          "name": "Muhanjii",
+          "url": "https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mema",
+      "url": "https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW"
+    },
+    {
+      "album": {
+        "name": "Mfalme",
+        "url": "https://open.spotify.com/album/0hlOZli0GBXO6LSrJ914Xk"
+      },
+      "artists": [
+        {
+          "name": "Kris Erroh",
+          "url": "https://open.spotify.com/artist/3KD0mT6UkGVUdNLFYwrYw2"
+        },
+        {
+          "name": "Lydia Ndwiga",
+          "url": "https://open.spotify.com/artist/2rwjHvuk1Raby2BbaSe3K3"
+        },
+        {
+          "name": "Dunco Atalaku",
+          "url": "https://open.spotify.com/artist/4exKG7ovOYAfVhfoMUZuhe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Mfalme",
+      "url": "https://open.spotify.com/track/1Mgoe4AVSoYoiDplMNk83O"
+    },
+    {
+      "album": {
+        "name": "moyo unauma",
+        "url": "https://open.spotify.com/album/1hUJ2wPQ5Rl2VwYYxFVIHc"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208587,
+      "name": "moyo unauma",
+      "url": "https://open.spotify.com/track/7e9AVrgGiIyfYa7TNJhhyo"
+    },
+    {
+      "album": {
+        "name": "Mukbang",
+        "url": "https://open.spotify.com/album/5P7vPbmu2Mgq7JPQxdBuGy"
+      },
+      "artists": [
+        {
+          "name": "Shani",
+          "url": "https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-13",
+      "duration_ms": 154319,
+      "name": "Mukbang",
+      "url": "https://open.spotify.com/track/5APruxOCs1HP4aDkqi7FbG"
+    },
+    {
+      "album": {
+        "name": "Mungu Ni Upendo (feat. Pitson)",
+        "url": "https://open.spotify.com/album/3rxqx10BOlKbhcu4RkWcGS"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        },
+        {
+          "name": "Pitson",
+          "url": "https://open.spotify.com/artist/4eck3OWpx2oKPgHeSSgsMM"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Mungu Ni Upendo (feat. Pitson)",
+      "url": "https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw"
+    },
+    {
+      "album": {
+        "name": "New Song",
+        "url": "https://open.spotify.com/album/4MQwDxDIAqaZ6WwJMUnEPb"
+      },
+      "artists": [
+        {
+          "name": "Ben Cyco",
+          "url": "https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215051,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/6GCPnmXPqNap4pXckghuZF"
+    },
+    {
+      "album": {
+        "name": "Nifungue",
+        "url": "https://open.spotify.com/album/7srblHhdVFR1b98ytNkCep"
+      },
+      "artists": [
+        {
+          "name": "Mash Mwana",
+          "url": "https://open.spotify.com/artist/5RDbIB3h8z9qD3ALmSfjmt"
+        },
+        {
+          "name": "Masterpiece King",
+          "url": "https://open.spotify.com/artist/4JVrLMd2BhgXFwrNCOmHsF"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 189219,
+      "name": "Nifungue",
+      "url": "https://open.spotify.com/track/2WznROVaHV9p0h23V2xK9X"
+    },
+    {
+      "album": {
+        "name": "Ninyeshee",
+        "url": "https://open.spotify.com/album/4dIgeqqMlPdyIyQBRieAJa"
+      },
+      "artists": [
+        {
+          "name": "BRANNY",
+          "url": "https://open.spotify.com/artist/2wBg0iI6AFCm42fUkvIZ6u"
+        },
+        {
+          "name": "Shani",
+          "url": "https://open.spotify.com/artist/1ZbZCoHYPTyGtMK5W56sUp"
+        },
+        {
+          "name": "Havoc",
+          "url": "https://open.spotify.com/artist/5bYp8wilbCtNvQ0naeQ4rQ"
+        },
+        {
+          "name": "Laura Karwirwa",
+          "url": "https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "Ninyeshee",
+      "url": "https://open.spotify.com/track/7evPaguX9dGzgv8hu1kcn3"
+    },
+    {
+      "album": {
+        "name": "Shukurani",
+        "url": "https://open.spotify.com/album/5R0ccaog0qDe7Ubztu6ChM"
+      },
+      "artists": [
+        {
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320536,
+      "name": "Nipe Kukumbuka",
+      "url": "https://open.spotify.com/track/2MY7dMPcDPmn7MZd5Y3a6R"
+    },
+    {
+      "album": {
+        "name": "Nishike Mkono",
+        "url": "https://open.spotify.com/album/0EMDXYWyD4OqNqpVVGhp8S"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280450,
+      "name": "Nishike Mkono",
+      "url": "https://open.spotify.com/track/7imPIKeaJaEyHPH8m5Xocq"
+    },
+    {
+      "album": {
+        "name": "Zaidi",
+        "url": "https://open.spotify.com/album/1XUrgCEu95MYR1z6rZfm5J"
+      },
+      "artists": [
+        {
+          "name": "Mercy Masika",
+          "url": "https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223965,
+      "name": "Nivute",
+      "url": "https://open.spotify.com/track/5Fpv3Rb1a9SfjmG6oGm4g1"
+    },
+    {
+      "album": {
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/1cUuFH5XRoh4obzfpmeYuq"
+      },
+      "artists": [
+        {
+          "name": "Jfam",
+          "url": "https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 214736,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/6zWk1fAOi5LfbehPCYZb5j"
+    },
+    {
+      "album": {
+        "name": "One Day",
+        "url": "https://open.spotify.com/album/5CGUHm691ejFiKc3m91WoI"
+      },
+      "artists": [
+        {
+          "name": "Moji Shortbabaa",
+          "url": "https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197809,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/0MOzUJ917rUtbNAHeNhOJx"
+    },
+    {
+      "album": {
+        "name": "Afro Soca Riddim",
+        "url": "https://open.spotify.com/album/1S7lkoGGLrZv5j0HEPqA1J"
+      },
+      "artists": [
+        {
+          "name": "Samukat",
+          "url": "https://open.spotify.com/artist/2NhNt3TWmy8G557wEPTxBQ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220408,
+      "name": "Possible",
+      "url": "https://open.spotify.com/track/1xjHrr88CIn17q7gaSpV2I"
+    },
+    {
+      "album": {
+        "name": "Praise God Lalala",
+        "url": "https://open.spotify.com/album/3is3xI92tpOefQmnmmITrv"
+      },
+      "artists": [
+        {
+          "name": "Jfam",
+          "url": "https://open.spotify.com/artist/7IzrPz6N96D0Hu8QsnfAya"
+        },
+        {
+          "name": "Dj Ruff",
+          "url": "https://open.spotify.com/artist/3dqEUMduRYEmtMa8IoOStr"
+        },
+        {
+          "name": "Danny Gift",
+          "url": "https://open.spotify.com/artist/7f9xkFaeoq9PAsyzVwqXAK"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184868,
+      "name": "Praise God Lalala",
+      "url": "https://open.spotify.com/track/4OIHpTzlgweG0KAtHrGAWi"
+    },
+    {
+      "album": {
+        "name": "Lost in Translation",
+        "url": "https://open.spotify.com/album/3GMOrfNSGWRFBHH9WjcmIX"
+      },
+      "artists": [
+        {
+          "name": "Muhanjii",
+          "url": "https://open.spotify.com/artist/4GTn2aRghVmPtv57P5Opaq"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-23",
+      "duration_ms": 182400,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/3avVX1w6NdckUgIBL6s6bA"
+    },
+    {
+      "album": {
+        "name": "Dancehall Royalty",
+        "url": "https://open.spotify.com/album/2y8wX65LAWt7pZefN4lyRr"
+      },
+      "artists": [
+        {
+          "name": "Garvey Royal",
+          "url": "https://open.spotify.com/artist/16Kak1UGaE15pDnmAhdH2N"
+        },
+        {
+          "name": "Timeless Noel",
+          "url": "https://open.spotify.com/artist/5NdCpoI2mGRLFZEuR3oxKE"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185730,
+      "name": "Rada Safi",
+      "url": "https://open.spotify.com/track/6w4RIy7cpJCY52DSfTeFdB"
+    },
+    {
+      "album": {
+        "name": "Rada!",
+        "url": "https://open.spotify.com/album/0FYVz8qoGeSnA52VosS6tu"
+      },
+      "artists": [
+        {
+          "name": "Karwirwa Laura",
+          "url": "https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA"
+        },
+        {
+          "name": "Stonee Jiwe",
+          "url": "https://open.spotify.com/artist/7fBagWqtKxfG3Zxr7H38Eb"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189675,
+      "name": "Rada!",
+      "url": "https://open.spotify.com/track/42hNeofs70B4RNLFQQylsu"
+    },
+    {
+      "album": {
+        "name": "Sai Sai",
+        "url": "https://open.spotify.com/album/1SYiz7Byni0BIZjkrFbssj"
+      },
+      "artists": [
+        {
+          "name": "JOSH XTRA",
+          "url": "https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215675,
+      "name": "Sai Sai",
+      "url": "https://open.spotify.com/track/2F0tznyLelKeeMWZ56srtS"
+    },
+    {
+      "album": {
+        "name": "Secret Agenda",
+        "url": "https://open.spotify.com/album/6UIjHzdbqYtMSCfccGDx0j"
+      },
+      "artists": [
+        {
+          "name": "Rose Muhando",
+          "url": "https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219183,
+      "name": "Secret Agenda",
+      "url": "https://open.spotify.com/track/4pqiEhBDAO49UNYZkA5OD9"
+    },
+    {
+      "album": {
+        "name": "Tawala",
+        "url": "https://open.spotify.com/album/2SvM1aj4W4cHTwdSuTyHQs"
+      },
+      "artists": [
+        {
+          "name": "Ben Cyco",
+          "url": "https://open.spotify.com/artist/357UDX6McIJEWiI0ttqWug"
+        },
+        {
+          "name": "Laura Karwirwa",
+          "url": "https://open.spotify.com/artist/7wkxMxxw3LihaaaWQA7tYT"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186720,
+      "name": "Tawala",
+      "url": "https://open.spotify.com/track/6dvk6TqiOxnkLL3T7zkup5"
+    },
+    {
+      "album": {
+        "name": "Tembea",
+        "url": "https://open.spotify.com/album/2ydl5E3CtrBhi0dAInUiCt"
+      },
+      "artists": [
+        {
+          "name": "HopeKid",
+          "url": "https://open.spotify.com/artist/3MZDn7MH1suAOBBp9VioKG"
+        },
+        {
+          "name": "Phyllis Mbuthia",
+          "url": "https://open.spotify.com/artist/2Gmusr1VjYGXRYJ7uib6Ii"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187271,
+      "name": "Tembea",
+      "url": "https://open.spotify.com/track/6UrjlQls3bB7lXtfsMLnb7"
+    },
+    {
+      "album": {
+        "name": "Trust Him",
+        "url": "https://open.spotify.com/album/4TF0VK6inwxETbYP3g9nMP"
+      },
+      "artists": [
+        {
+          "name": "Nahash Mwathi",
+          "url": "https://open.spotify.com/artist/76hAkhGlb3BipUcUL4thD1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200289,
+      "name": "Trust Him",
+      "url": "https://open.spotify.com/track/5iT7KTkPuHJI6P3PfS5L0G"
+    },
+    {
+      "album": {
+        "name": "Ukiokoka",
+        "url": "https://open.spotify.com/album/2q1iT6EVxA3V9Af9GUHgIX"
+      },
+      "artists": [
+        {
+          "name": "Eko Dydda",
+          "url": "https://open.spotify.com/artist/0F0AWv6Giki7xrNkzI27hs"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181968,
+      "name": "Ukiokoka",
+      "url": "https://open.spotify.com/track/1QtFu0IWKC9XM93ZeiYFyP"
+    },
+    {
+      "album": {
+        "name": "Ulimi wangu",
+        "url": "https://open.spotify.com/album/4ehQVrrB1CKU7lE0ZIFG5A"
+      },
+      "artists": [
+        {
+          "name": "Timam Evans",
+          "url": "https://open.spotify.com/artist/3Pl2sjphziaizyq0JUBzVO"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 219428,
+      "name": "Ulimi wangu",
+      "url": "https://open.spotify.com/track/67J85D0hnKBI12SKKPTLi5"
+    },
+    {
+      "album": {
+        "name": "Utukuzwe (Halleluya)",
+        "url": "https://open.spotify.com/album/6irsYLZiyEfgChGo1goy9U"
+      },
+      "artists": [
+        {
+          "name": "Ben Pol",
+          "url": "https://open.spotify.com/artist/6rJsgXeCA9ZvRlPFgSpnw4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Utukuzwe (Halleluya)",
+      "url": "https://open.spotify.com/track/0Mhw11b3DBBKQPWX80WPkZ"
+    },
+    {
+      "album": {
+        "name": "Wakati wa Mungu",
+        "url": "https://open.spotify.com/album/1LdcLlRYIxLzewRjiLDNnK"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 194037,
+      "name": "Wakati wa Mungu",
+      "url": "https://open.spotify.com/track/4DTPr7ltGCqXwYa5wARFP5"
+    },
+    {
+      "album": {
+        "name": "Thamani",
+        "url": "https://open.spotify.com/album/5TdcUkGkE9Z4ZMiKJscBdF"
+      },
+      "artists": [
+        {
+          "name": "Joel Lwaga",
+          "url": "https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253403,
+      "name": "Wanitazama",
+      "url": "https://open.spotify.com/track/33LoZtHwsnaJsCTu9TAIep"
+    },
+    {
+      "album": {
+        "name": "Yeah",
+        "url": "https://open.spotify.com/album/6EvSEGPSfl9vnGyXmWSbzm"
+      },
+      "artists": [
+        {
+          "name": "JOSH XTRA",
+          "url": "https://open.spotify.com/artist/63x9j9cCyZ9IxyR3iC3awe"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217312,
+      "name": "Yeah",
+      "url": "https://open.spotify.com/track/1KxhoSzSYTM1EWNFEe8iBk"
+    },
+    {
+      "album": {
+        "name": "Zionist",
+        "url": "https://open.spotify.com/album/0rMnHPw0hqaPMOc5LLSoPr"
+      },
+      "artists": [
+        {
+          "name": "Kevoh Yout",
+          "url": "https://open.spotify.com/artist/47tpJKL7Xfm4UIWps8j4hk"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218044,
+      "name": "Zionist",
+      "url": "https://open.spotify.com/track/3an3GSreXVVMPpo1dvz7GX"
+    },
+    {
+      "album": {
+        "name": "Zungusha",
+        "url": "https://open.spotify.com/album/09i9zQr2d7m5rxiXCgtAKp"
+      },
+      "artists": [
+        {
+          "name": "Jabidii",
+          "url": "https://open.spotify.com/artist/67NSWMQJx1JvJ6su9fACTU"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156186,
+      "name": "Zungusha",
+      "url": "https://open.spotify.com/track/2IzGYWr08ntzKVeQ1fTvue"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7efntgEZlGn"
 }

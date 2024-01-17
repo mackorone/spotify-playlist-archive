@@ -1,289 +1,1135 @@
 {
-  "2023-03-20": 1954,
-  "2023-03-21": 1956,
-  "2023-03-22": 1956,
-  "2023-03-23": 1959,
-  "2023-03-24": 1959,
-  "2023-03-25": 1963,
-  "2023-03-26": 1964,
-  "2023-03-27": 1965,
-  "2023-03-28": 1968,
-  "2023-03-29": 1972,
-  "2023-03-30": 1977,
-  "2023-03-31": 1977,
-  "2023-04-01": 1977,
-  "2023-04-02": 1979,
-  "2023-04-03": 1980,
-  "2023-04-04": 1982,
-  "2023-04-05": 1984,
-  "2023-04-06": 1984,
-  "2023-04-07": 1989,
-  "2023-04-09": 1990,
-  "2023-04-10": 1994,
-  "2023-04-11": 1995,
-  "2023-04-12": 1995,
-  "2023-04-13": 1997,
-  "2023-04-14": 1997,
-  "2023-04-15": 1996,
-  "2023-04-16": 1998,
-  "2023-04-17": 1999,
-  "2023-04-18": 2002,
-  "2023-04-19": 2003,
-  "2023-04-20": 2004,
-  "2023-04-21": 2006,
-  "2023-04-22": 2008,
-  "2023-04-23": 2010,
-  "2023-04-24": 2010,
-  "2023-04-25": 2011,
-  "2023-04-26": 2012,
-  "2023-04-27": 2014,
-  "2023-04-28": 2015,
-  "2023-04-29": 2018,
-  "2023-04-30": 2018,
-  "2023-05-01": 2018,
-  "2023-05-02": 2022,
-  "2023-05-03": 2025,
-  "2023-05-04": 2026,
-  "2023-05-05": 2029,
-  "2023-05-06": 2029,
-  "2023-05-07": 2034,
-  "2023-05-08": 2036,
-  "2023-05-09": 2037,
-  "2023-05-10": 2037,
-  "2023-05-11": 2039,
-  "2023-05-12": 2040,
-  "2023-05-13": 2041,
-  "2023-05-14": 2043,
-  "2023-05-15": 2043,
-  "2023-05-16": 2043,
-  "2023-05-17": 2044,
-  "2023-05-18": 2047,
-  "2023-05-19": 2047,
-  "2023-05-20": 2049,
-  "2023-05-21": 2049,
-  "2023-05-22": 2049,
-  "2023-05-23": 2051,
-  "2023-05-24": 2054,
-  "2023-05-25": 2056,
-  "2023-05-26": 2056,
-  "2023-05-27": 2056,
-  "2023-05-28": 2058,
-  "2023-05-29": 2058,
-  "2023-05-30": 2061,
-  "2023-05-31": 2063,
-  "2023-06-01": 2064,
-  "2023-06-02": 2067,
-  "2023-06-03": 2068,
-  "2023-06-04": 2068,
-  "2023-06-05": 2067,
-  "2023-06-06": 2067,
-  "2023-06-07": 2068,
-  "2023-06-08": 2069,
-  "2023-06-09": 2071,
-  "2023-06-10": 2073,
-  "2023-06-11": 2074,
-  "2023-06-12": 2076,
-  "2023-06-13": 2087,
-  "2023-06-14": 2254,
-  "2023-06-15": 207415,
-  "2023-06-16": 207478,
-  "2023-06-17": 207819,
-  "2023-06-18": 207964,
-  "2023-06-19": 208042,
-  "2023-06-20": 208099,
-  "2023-06-21": 208186,
-  "2023-06-22": 208236,
-  "2023-06-23": 208297,
-  "2023-06-24": 208351,
-  "2023-06-25": 208404,
-  "2023-06-26": 208473,
-  "2023-06-27": 208529,
-  "2023-06-28": 208599,
-  "2023-06-29": 208635,
-  "2023-06-30": 208689,
-  "2023-07-01": 208783,
-  "2023-07-02": 208783,
-  "2023-07-03": 208827,
-  "2023-07-04": 208876,
-  "2023-07-05": 208950,
-  "2023-07-06": 209055,
-  "2023-07-07": 209055,
-  "2023-07-08": 209055,
-  "2023-07-09": 209187,
-  "2023-07-10": 209221,
-  "2023-07-11": 209260,
-  "2023-07-12": 209305,
-  "2023-07-13": 209333,
-  "2023-07-14": 209399,
-  "2023-07-15": 209437,
-  "2023-07-16": 209507,
-  "2023-07-17": 209569,
-  "2023-07-18": 209633,
-  "2023-07-19": 209693,
-  "2023-07-20": 209693,
-  "2023-07-21": 209839,
-  "2023-07-22": 209916,
-  "2023-07-23": 209996,
-  "2023-07-24": 210052,
-  "2023-07-25": 210107,
-  "2023-07-26": 210178,
-  "2023-07-27": 210265,
-  "2023-07-28": 210342,
-  "2023-07-29": 210409,
-  "2023-07-30": 210409,
-  "2023-07-31": 210529,
-  "2023-08-01": 210603,
-  "2023-08-02": 210665,
-  "2023-08-03": 210753,
-  "2023-08-04": 210889,
-  "2023-08-05": 211059,
-  "2023-08-06": 211265,
-  "2023-08-07": 211265,
-  "2023-08-08": 211366,
-  "2023-08-09": 211483,
-  "2023-08-10": 211557,
-  "2023-08-11": 211657,
-  "2023-08-12": 211657,
-  "2023-08-13": 211657,
-  "2023-08-14": 211657,
-  "2023-08-15": 211657,
-  "2023-08-16": 211657,
-  "2023-08-17": 211657,
-  "2023-08-18": 211657,
-  "2023-08-19": 211657,
-  "2023-08-20": 212454,
-  "2023-08-21": 212454,
-  "2023-08-22": 212609,
-  "2023-08-23": 212609,
-  "2023-08-24": 212609,
-  "2023-08-25": 212609,
-  "2023-08-26": 212960,
-  "2023-08-27": 212960,
-  "2023-08-28": 213114,
-  "2023-08-29": 213114,
-  "2023-08-30": 213114,
-  "2023-08-31": 213349,
-  "2023-09-01": 213403,
-  "2023-09-02": 213403,
-  "2023-09-03": 213403,
-  "2023-09-04": 213403,
-  "2023-09-05": 213403,
-  "2023-09-06": 213403,
-  "2023-09-07": 213403,
-  "2023-09-08": 213403,
-  "2023-09-09": 213403,
-  "2023-09-10": 213403,
-  "2023-09-11": 213403,
-  "2023-09-12": 213403,
-  "2023-09-13": 213403,
-  "2023-09-14": 213403,
-  "2023-09-15": 213403,
-  "2023-09-16": 214509,
-  "2023-09-17": 214509,
-  "2023-09-18": 214509,
-  "2023-09-19": 214679,
-  "2023-09-20": 214679,
-  "2023-09-21": 214679,
-  "2023-09-22": 214889,
-  "2023-09-23": 214889,
-  "2023-09-24": 214889,
-  "2023-09-25": 214889,
-  "2023-09-26": 215167,
-  "2023-09-27": 215167,
-  "2023-09-28": 215167,
-  "2023-09-29": 215167,
-  "2023-09-30": 215167,
-  "2023-10-01": 215167,
-  "2023-10-02": 215167,
-  "2023-10-03": 215167,
-  "2023-10-04": 215167,
-  "2023-10-05": 215167,
-  "2023-10-06": 215167,
-  "2023-10-07": 215167,
-  "2023-10-08": 215167,
-  "2023-10-09": 215167,
-  "2023-10-10": 215167,
-  "2023-10-11": 215167,
-  "2023-10-12": 215167,
-  "2023-10-13": 215167,
-  "2023-10-14": 215167,
-  "2023-10-15": 215167,
-  "2023-10-16": 215167,
-  "2023-10-17": 215167,
-  "2023-10-18": 215167,
-  "2023-10-19": 215167,
-  "2023-10-20": 215167,
-  "2023-10-21": 215167,
-  "2023-10-22": 215167,
-  "2023-10-23": 215167,
-  "2023-10-24": 215167,
-  "2023-10-25": 215167,
-  "2023-10-26": 215167,
-  "2023-10-27": 215167,
-  "2023-10-28": 215167,
-  "2023-10-29": 215167,
-  "2023-10-30": 215167,
-  "2023-10-31": 215167,
-  "2023-11-01": 215167,
-  "2023-11-02": 215167,
-  "2023-11-03": 215167,
-  "2023-11-04": 215167,
-  "2023-11-05": 215167,
-  "2023-11-06": 215167,
-  "2023-11-07": 215167,
-  "2023-11-08": 215167,
-  "2023-11-09": 215167,
-  "2023-11-10": 215167,
-  "2023-11-11": 218305,
-  "2023-11-12": 218305,
-  "2023-11-13": 218305,
-  "2023-11-14": 218305,
-  "2023-11-15": 218305,
-  "2023-11-16": 218305,
-  "2023-11-17": 218305,
-  "2023-11-18": 218305,
-  "2023-11-19": 218305,
-  "2023-11-20": 218305,
-  "2023-11-21": 218305,
-  "2023-11-22": 218305,
-  "2023-11-23": 218305,
-  "2023-11-24": 218305,
-  "2023-11-25": 218305,
-  "2023-11-26": 218305,
-  "2023-11-27": 218305,
-  "2023-11-28": 218305,
-  "2023-11-29": 218305,
-  "2023-11-30": 218305,
-  "2023-12-01": 218305,
-  "2023-12-02": 218305,
-  "2023-12-03": 218305,
-  "2023-12-04": 218305,
-  "2023-12-05": 218305,
-  "2023-12-06": 218305,
-  "2023-12-07": 218305,
-  "2023-12-08": 218305,
-  "2023-12-09": 218305,
-  "2023-12-10": 218305,
-  "2023-12-11": 218305,
-  "2023-12-12": 218305,
-  "2023-12-13": 218305,
-  "2023-12-14": 220732,
-  "2023-12-15": 220773,
-  "2023-12-16": 220840,
-  "2023-12-17": 220900,
-  "2023-12-18": 220942,
-  "2023-12-19": 221007,
-  "2023-12-20": 221063,
-  "2023-12-21": 221155,
-  "2023-12-22": 221219,
-  "2023-12-23": 221283,
-  "2023-12-24": 221349,
-  "2023-12-25": 221389,
-  "2023-12-26": 221410,
-  "2023-12-27": 221471,
-  "2023-12-30": 221645,
-  "2023-12-31": 221707,
-  "2024-01-01": 221741,
-  "2024-01-02": 221760,
-  "2024-01-03": 221794
+  "2024-01-17": 222399,
+  "date_first_scraped": "2023-03-20",
+  "description": "This is Danna Paola. The essential tracks, all in one playlist.",
+  "name": "This Is Danna Paola",
+  "tracks": [
+    {
+      "album": {
+        "name": "1Trago",
+        "url": "https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201106,
+      "name": "1Trago",
+      "url": "https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl"
+    },
+    {
+      "album": {
+        "name": "A Un Beso",
+        "url": "https://open.spotify.com/album/5x4CHqbGKiDrkE8CNcdlwk"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "A Un Beso",
+      "url": "https://open.spotify.com/track/5c8KTKmAo3zlqBSsvnQrmB"
+    },
+    {
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219693,
+      "name": "Ag\u00fcita",
+      "url": "https://open.spotify.com/track/1XPqp3k2ZmetP4xMIbrSYN"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Amor Ordinario",
+      "url": "https://open.spotify.com/track/4WbKmrxCQ8gp8qEjyRpXtb"
+    },
+    {
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "AQYNE",
+      "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
+    },
+    {
+      "album": {
+        "name": "A\u00daN TE QUIERO",
+        "url": "https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205533,
+      "name": "A\u00daN TE QUIERO",
+      "url": "https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n"
+    },
+    {
+      "album": {
+        "name": "Cachito",
+        "url": "https://open.spotify.com/album/0OcBXPOOzTDvQKUJxnQSvf"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Cachito",
+      "url": "https://open.spotify.com/track/5S4rNAIyjLyUVdrGWy48Ub"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "Cu\u00e1ndo empezar\u00e9 a vivir",
+      "url": "https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC"
+    },
+    {
+      "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/4RM8yIYxFJlOx9IZMsJbR5"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/4fjf3wTDqNYJcZswg01K6B"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/3m3QK4iaF4yBwce3cKMIpb"
+      },
+      "artists": [
+        {
+          "name": "Isabela Merced",
+          "url": "https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167495,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/493DYJ6bdsVtHCpWBQlADr"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Dos Extra\u00f1os",
+      "url": "https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt"
+    },
+    {
+      "album": {
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/1AKTMo2eJTgo9X37EiGaPR"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234413,
+      "name": "El Primer Dia Sin Ti",
+      "url": "https://open.spotify.com/track/0SyiBeCbCEdZolhFoAvz94"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184760,
+      "name": "Final Feliz",
+      "url": "https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208773,
+      "name": "Friend De Semana",
+      "url": "https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71"
+    },
+    {
+      "album": {
+        "name": "Raya y el \u00daltimo Drag\u00f3n (Banda Sonora Original en Espa\u00f1ol)",
+        "url": "https://open.spotify.com/album/2oZQAdZR7MN3FAqyjamR0B"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 224150,
+      "name": "Hasta vencer",
+      "url": "https://open.spotify.com/track/7BdR0he8VuKnBK94I8FlWf"
+    },
+    {
+      "album": {
+        "name": "\u00bfA D\u00f3nde Vamos?",
+        "url": "https://open.spotify.com/album/01R2vYq9iDhn4ZXtM5dd7i"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Idiota",
+      "url": "https://open.spotify.com/track/0cS0bJ0oBylj3TFtz6x9pC"
+    },
+    {
+      "album": {
+        "name": "IDIOTA (Real Magic)",
+        "url": "https://open.spotify.com/album/5fuZD1Yv8ypB8ir1yJ9EGo"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205454,
+      "name": "IDIOTA (Real Magic)",
+      "url": "https://open.spotify.com/track/6oCieauXPhRe9kNLw1UF2F"
+    },
+    {
+      "album": {
+        "name": "Kaprichosa",
+        "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Kaprichosa",
+      "url": "https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq"
+    },
+    {
+      "album": {
+        "name": "New Hope Club",
+        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
+      },
+      "artists": [
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200600,
+      "name": "Know Me Too Well (with Danna Paola)",
+      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
+    },
+    {
+      "album": {
+        "name": "Cuatro Estaciones",
+        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Ladrones",
+      "url": "https://open.spotify.com/track/23R6LNvr5YGUw4iJiPhXOb"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Mala Fama",
+      "url": "https://open.spotify.com/track/2D9itdl85AQVNpTfrxvUGj"
+    },
+    {
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/6dn1PltXAnQZB5i5jJoeN6"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6yTaG6eJDi6T0VSawfMTQy"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Alberto Castillo",
+          "url": "https://open.spotify.com/artist/14KUc7zg3OndrAMbCNxPBD"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "Mi sue\u00f1o ideal",
+      "url": "https://open.spotify.com/track/1vWWJKXt6TGw0eFfVO2Xs7"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109906,
+      "name": "Mi vida empieza as\u00ed",
+      "url": "https://open.spotify.com/track/41KimlWs5QREjhE8wUVQM6"
+    },
+    {
+      "album": {
+        "name": "Atrevete A So\u00f1ar",
+        "url": "https://open.spotify.com/album/4YQ7hShKeFJQKC4tgYenmb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Mundo De Caramelo",
+      "url": "https://open.spotify.com/track/2VBGG7IiTHvfE3JfYlUyQk"
+    },
+    {
+      "album": {
+        "name": "M\u00cdA",
+        "url": "https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "M\u00cdA",
+      "url": "https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS"
+    },
+    {
+      "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/05JQChm5ZKQLFvBeywelCU"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173613,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/1U7QlWG6O98xgsJtVjYREj"
+    },
+    {
+      "album": {
+        "name": "No Bailes Sola",
+        "url": "https://open.spotify.com/album/2fDBlYHy3clr2Q3JRq89Rd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180866,
+      "name": "No Bailes Sola",
+      "url": "https://open.spotify.com/track/1GNSWpe2SB30zYGbNTD96b"
+    },
+    {
+      "album": {
+        "name": "Danna Paola (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "No Es Cierto",
+      "url": "https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "Oye Pablo",
+      "url": "https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz"
+    },
+    {
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
+    },
+    {
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Pintando El Amor",
+      "url": "https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "SANTU",
+          "url": "https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L"
+        },
+        {
+          "name": "Yera",
+          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+        },
+        {
+          "name": "Trapical",
+          "url": "https://open.spotify.com/artist/1akovilveREPmx1E535jJU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Polo A Tierra",
+      "url": "https://open.spotify.com/track/5lhrcKbHyhPjlxEzzL9HPm"
+    },
+    {
+      "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "album": {
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 190213,
+      "name": "Ruleta",
+      "url": "https://open.spotify.com/track/59gcKA5TjGOyBh5yss1jBn"
+    },
+    {
+      "album": {
+        "name": "Santer\u00eda",
+        "url": "https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
+    },
+    {
+      "album": {
+        "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
+        "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197550,
+      "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
+      "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/2cjSAsmn2oTNyeAVVum23R"
+    },
+    {
+      "album": {
+        "name": "Cuatro Estaciones",
+        "url": "https://open.spotify.com/album/6Ur6AsWdJDIdihiDWqNz7m"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Subt\u00edtulos",
+      "url": "https://open.spotify.com/track/3GXLEtcY0SsmpRoiGWGuZM"
+    },
+    {
+      "album": {
+        "name": "Sugar Mami",
+        "url": "https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131671,
+      "name": "Sugar Mami",
+      "url": "https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/6GIZBF6pkjNmBGgSCeLrPB"
+      },
+      "artists": [
+        {
+          "name": "Moderatto",
+          "url": "https://open.spotify.com/artist/5XsWrYhwadPBjW20qYbdZg"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235360,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "T.A.C.O.",
+      "url": "https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M"
+    },
+    {
+      "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar 2",
+        "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 204373,
+      "name": "Te Quiero Tanto",
+      "url": "https://open.spotify.com/track/0WXSnjqHBvN7dHNCzWmTPk"
+    },
+    {
+      "album": {
+        "name": "Tenemos que hablar",
+        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190213,
+      "name": "Tenemos que hablar",
+      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
+    },
+    {
+      "album": {
+        "name": "Danna Paola",
+        "url": "https://open.spotify.com/album/67RD8Z8LQDbT41v2UoJzV5"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Todo Fue Un Show",
+      "url": "https://open.spotify.com/track/79SMx2ReU4oLwcHvouYkfA"
+    },
+    {
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "TQ Y YA",
+      "url": "https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z"
+    },
+    {
+      "album": {
+        "name": "tqum",
+        "url": "https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149589,
+      "name": "tqum",
+      "url": "https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr"
+    },
+    {
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 194506,
+      "name": "Valientes",
+      "url": "https://open.spotify.com/track/7Fyobg4Z7w4IWA36f8Sx0G"
+    },
+    {
+      "album": {
+        "name": "Enredados",
+        "url": "https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Veo en ti la luz",
+      "url": "https://open.spotify.com/track/199LDzwbUTc2wEroyRxhBM"
+    },
+    {
+      "album": {
+        "name": "Viaje A La Luz (De \"M\u00e1s All\u00e1 De La Luna\" Soundtrack)",
+        "url": "https://open.spotify.com/album/29hfMCh9vKqYakjav3UU4Y"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 137413,
+      "name": "Viaje A La Luz",
+      "url": "https://open.spotify.com/track/7mQbHLZzQLP1kD3cOiAlMJ"
+    },
+    {
+      "album": {
+        "name": "Vuelve, Vuelve",
+        "url": "https://open.spotify.com/album/4xTMKZ0p01gSgO0YW5aJud"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167741,
+      "name": "Vuelve, Vuelve",
+      "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"
+    },
+    {
+      "album": {
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+        "url": "https://open.spotify.com/album/4Zh7uV38M1p6v2JdS8lUA2"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "\u00bfD\u00f3nde Estabas T\u00fa?",
+      "url": "https://open.spotify.com/track/1PyINqIUN9HFVrmhBACtBz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3grxzg"
 }

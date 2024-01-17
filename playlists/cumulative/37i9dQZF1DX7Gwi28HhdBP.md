@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52?si=v7EAopWETMqME3LXKcLsdw">  مصطفى حجاج </a>
 
-236 songs - 17 hr 36 min
+237 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
 | [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-05-12 |
+| [الجدع](https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الجدع](https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ) | 3:19 | 2024-01-11 |  |
 | [الجدع](https://open.spotify.com/track/65iBEzBlfrnq5bomk0H3Yt) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/4uQI74QdNzXydIZjk26zuR) | 3:49 | 2021-12-16 | 2022-07-29 |
 | [الجدع](https://open.spotify.com/track/7oaqaNAe0kXQUe2oBugT8O) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [الجدع](https://open.spotify.com/album/1OXDd4jZ6djLOxHIwOj4s0) | 3:49 | 2022-07-14 | 2023-05-12 |
 | [الجدعنة](https://open.spotify.com/track/20Al2SXH2t2M0hfbQelm8H) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [الجدعنة](https://open.spotify.com/album/0mEgEkPb9YX5Sd6buu5omT) | 5:30 | 2021-12-16 | 2022-12-21 |
@@ -165,7 +166,7 @@
 | [الرزق](https://open.spotify.com/track/6KcPpxoGf9sHrW0s44agGM) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq), [Eman Al Hakamy](https://open.spotify.com/artist/72UE9fxM1TrbjIFN82vlXW) | [الرزق](https://open.spotify.com/album/2fxJY4BM9ias683sm0fuWz) | 5:28 | 2022-07-14 | 2023-05-12 |
 | [السخان](https://open.spotify.com/track/41XLRr32qGDjmcSs3GKa7B) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [السخان](https://open.spotify.com/album/5dYVZRHfYxMnpizVoXyane) | 3:06 | 2023-07-26 |  |
 | [السم جوه العسل](https://open.spotify.com/track/7i2pvvHw2DbOxQQqdErN2H) | [Semsem Shehab](https://open.spotify.com/artist/7z6lX09yzAUCeEsYVCimo4) | [السم جوه العسل](https://open.spotify.com/album/5oeVGgDGQOn7N0TcV4cjSi) | 4:20 | 2021-12-16 | 2023-09-01 |
-| [الغل مني هاريكو](https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الغل مني هاريكو](https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g) | 4:02 | 2023-07-11 |  |
+| [الغل مني هاريكو](https://open.spotify.com/track/4KACpmTcHspHtJCupdVozK) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الغل مني هاريكو](https://open.spotify.com/album/7MF1GeEM83pFtcYHNY7M9g) | 4:02 | 2023-07-11 | 2024-01-12 |
 | [القلوب طرحت حجارة](https://open.spotify.com/track/6ZrC8g6j9V0e0dBGpUKD0E) | [Tarek El Sheikh](https://open.spotify.com/artist/1yi5rDKyrkV1zdDXOzOMkk) | [القلوب طرحت حجارة](https://open.spotify.com/album/5DigNXSH1AyfVXElOKsKy6) | 5:11 | 2021-12-16 | 2022-04-22 |
 | [اللي تقلان عليك](https://open.spotify.com/track/151ZFGZaaDCHf420EUWxQg) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/3eX927m0S5mkV7WtSeqC2P) | 3:08 | 2022-07-14 | 2023-05-12 |
 | [اللي تقلان عليك](https://open.spotify.com/track/5hQyXnuYgvcMZRhjBKrscl) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اللي تقلان عليك](https://open.spotify.com/album/7hqx427YVS0gwr25TSduvT) | 3:08 | 2021-12-16 | 2022-07-29 |

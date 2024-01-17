@@ -1,479 +1,1287 @@
 {
-  "2022-09-09": 51679,
-  "2022-09-10": 51717,
-  "2022-09-11": 51742,
-  "2022-09-12": 51775,
-  "2022-09-13": 51803,
-  "2022-09-15": 51842,
-  "2022-09-16": 51876,
-  "2022-09-17": 51910,
-  "2022-09-18": 51937,
-  "2022-09-19": 51980,
-  "2022-09-20": 52001,
-  "2022-09-21": 52031,
-  "2022-09-22": 52073,
-  "2022-09-23": 52112,
-  "2022-09-24": 52112,
-  "2022-09-25": 52217,
-  "2022-09-26": 52262,
-  "2022-09-27": 52313,
-  "2022-09-28": 52349,
-  "2022-09-29": 52407,
-  "2022-09-30": 52477,
-  "2022-10-01": 52535,
-  "2022-10-02": 52579,
-  "2022-10-03": 52622,
-  "2022-10-04": 52697,
-  "2022-10-05": 52732,
-  "2022-10-06": 52773,
-  "2022-10-07": 52813,
-  "2022-10-08": 52857,
-  "2022-10-09": 52928,
-  "2022-10-10": 52940,
-  "2022-10-11": 52961,
-  "2022-10-12": 53012,
-  "2022-10-13": 53048,
-  "2022-10-14": 53084,
-  "2022-10-15": 53116,
-  "2022-10-16": 53146,
-  "2022-10-17": 53168,
-  "2022-10-18": 53188,
-  "2022-10-19": 53224,
-  "2022-10-20": 53256,
-  "2022-10-21": 53300,
-  "2022-10-22": 53322,
-  "2022-10-23": 53340,
-  "2022-10-24": 53371,
-  "2022-10-25": 53391,
-  "2022-10-26": 53403,
-  "2022-10-27": 53429,
-  "2022-10-28": 53453,
-  "2022-10-29": 53491,
-  "2022-10-30": 53523,
-  "2022-10-31": 53550,
-  "2022-11-01": 53578,
-  "2022-11-02": 53610,
-  "2022-11-03": 53633,
-  "2022-11-04": 53654,
-  "2022-11-05": 53687,
-  "2022-11-06": 53712,
-  "2022-11-07": 53740,
-  "2022-11-08": 53754,
-  "2022-11-09": 53777,
-  "2022-11-10": 53799,
-  "2022-11-11": 53858,
-  "2022-11-12": 53898,
-  "2022-11-13": 53924,
-  "2022-11-14": 53952,
-  "2022-11-15": 53987,
-  "2022-11-16": 54014,
-  "2022-11-17": 54056,
-  "2022-11-18": 54061,
-  "2022-11-19": 54075,
-  "2022-11-20": 54112,
-  "2022-11-21": 54139,
-  "2022-11-22": 54171,
-  "2022-11-23": 54203,
-  "2022-11-24": 54255,
-  "2022-11-25": 54312,
-  "2022-11-26": 54332,
-  "2022-11-27": 54349,
-  "2022-11-28": 54365,
-  "2022-11-29": 54388,
-  "2022-11-30": 54409,
-  "2022-12-01": 54432,
-  "2022-12-02": 54441,
-  "2022-12-03": 54473,
-  "2022-12-04": 54515,
-  "2022-12-05": 54545,
-  "2022-12-06": 54571,
-  "2022-12-07": 54589,
-  "2022-12-08": 54609,
-  "2022-12-09": 54626,
-  "2022-12-10": 54655,
-  "2022-12-11": 54676,
-  "2022-12-12": 54689,
-  "2022-12-13": 54699,
-  "2022-12-14": 54718,
-  "2022-12-15": 54736,
-  "2022-12-16": 54758,
-  "2022-12-17": 54786,
-  "2022-12-18": 54808,
-  "2022-12-19": 54834,
-  "2022-12-20": 54877,
-  "2022-12-21": 54877,
-  "2022-12-22": 54910,
-  "2022-12-24": 54943,
-  "2022-12-25": 54963,
-  "2022-12-26": 54995,
-  "2022-12-27": 55019,
-  "2022-12-28": 55053,
-  "2022-12-29": 55080,
-  "2022-12-30": 55111,
-  "2022-12-31": 55137,
-  "2023-01-01": 55161,
-  "2023-01-02": 55276,
-  "2023-01-03": 55325,
-  "2023-01-04": 55354,
-  "2023-01-05": 55387,
-  "2023-01-06": 55421,
-  "2023-01-07": 55476,
-  "2023-01-08": 55487,
-  "2023-01-09": 55530,
-  "2023-01-10": 55572,
-  "2023-01-11": 55600,
-  "2023-01-12": 55641,
-  "2023-01-13": 55675,
-  "2023-01-14": 55743,
-  "2023-01-15": 55752,
-  "2023-01-16": 55808,
-  "2023-01-17": 55841,
-  "2023-01-18": 55877,
-  "2023-01-19": 55925,
-  "2023-01-20": 55970,
-  "2023-01-21": 55996,
-  "2023-01-22": 56033,
-  "2023-01-23": 56068,
-  "2023-01-24": 56096,
-  "2023-01-25": 56117,
-  "2023-01-26": 56149,
-  "2023-01-27": 56182,
-  "2023-01-28": 56214,
-  "2023-01-29": 56248,
-  "2023-01-30": 56277,
-  "2023-01-31": 56277,
-  "2023-02-01": 56334,
-  "2023-02-02": 56364,
-  "2023-02-03": 56392,
-  "2023-02-04": 56416,
-  "2023-02-05": 56447,
-  "2023-02-06": 56493,
-  "2023-02-07": 56518,
-  "2023-02-08": 56581,
-  "2023-02-09": 56581,
-  "2023-02-10": 56633,
-  "2023-02-11": 56673,
-  "2023-02-12": 56753,
-  "2023-02-13": 56797,
-  "2023-02-14": 56797,
-  "2023-02-15": 56891,
-  "2023-02-16": 56993,
-  "2023-02-17": 57081,
-  "2023-02-18": 57287,
-  "2023-02-19": 57304,
-  "2023-02-20": 57375,
-  "2023-02-21": 57472,
-  "2023-02-22": 57579,
-  "2023-02-23": 57743,
-  "2023-02-24": 57913,
-  "2023-02-25": 58113,
-  "2023-02-26": 58221,
-  "2023-02-27": 58474,
-  "2023-02-28": 58474,
-  "2023-03-01": 58566,
-  "2023-03-02": 58665,
-  "2023-03-03": 58787,
-  "2023-03-04": 58880,
-  "2023-03-05": 59250,
-  "2023-03-06": 59250,
-  "2023-03-07": 59429,
-  "2023-03-08": 59606,
-  "2023-03-09": 59852,
-  "2023-03-10": 60095,
-  "2023-03-11": 60257,
-  "2023-03-12": 60408,
-  "2023-03-13": 60595,
-  "2023-03-14": 60753,
-  "2023-03-15": 60925,
-  "2023-03-16": 60925,
-  "2023-03-17": 60925,
-  "2023-03-18": 61416,
-  "2023-03-19": 61416,
-  "2023-03-20": 61703,
-  "2023-03-21": 61830,
-  "2023-03-22": 61968,
-  "2023-03-23": 62082,
-  "2023-03-24": 62082,
-  "2023-03-25": 62334,
-  "2023-03-26": 62485,
-  "2023-03-27": 62609,
-  "2023-03-28": 62704,
-  "2023-03-29": 62834,
-  "2023-03-30": 63020,
-  "2023-03-31": 63020,
-  "2023-04-01": 63116,
-  "2023-04-02": 63213,
-  "2023-04-03": 63298,
-  "2023-04-04": 63820,
-  "2023-04-05": 64297,
-  "2023-04-06": 64608,
-  "2023-04-07": 64861,
-  "2023-04-09": 65188,
-  "2023-04-10": 65273,
-  "2023-04-11": 65509,
-  "2023-04-12": 65509,
-  "2023-04-13": 65607,
-  "2023-04-14": 65700,
-  "2023-04-15": 65797,
-  "2023-04-16": 65885,
-  "2023-04-17": 65986,
-  "2023-04-18": 66066,
-  "2023-04-19": 66139,
-  "2023-04-20": 66231,
-  "2023-04-21": 66322,
-  "2023-04-22": 66386,
-  "2023-04-23": 66477,
-  "2023-04-24": 66555,
-  "2023-04-25": 66635,
-  "2023-04-26": 66698,
-  "2023-04-27": 66787,
-  "2023-04-28": 66871,
-  "2023-04-29": 66955,
-  "2023-04-30": 67049,
-  "2023-05-01": 67126,
-  "2023-05-02": 67181,
-  "2023-05-03": 67267,
-  "2023-05-04": 67308,
-  "2023-05-05": 67348,
-  "2023-05-06": 67416,
-  "2023-05-07": 67462,
-  "2023-05-08": 67544,
-  "2023-05-09": 67617,
-  "2023-05-10": 67679,
-  "2023-05-11": 67741,
-  "2023-05-12": 67812,
-  "2023-05-13": 67880,
-  "2023-05-14": 67970,
-  "2023-05-15": 68049,
-  "2023-05-16": 68129,
-  "2023-05-17": 68193,
-  "2023-05-18": 68262,
-  "2023-05-19": 68331,
-  "2023-05-20": 68474,
-  "2023-05-21": 68474,
-  "2023-05-22": 68474,
-  "2023-05-23": 68591,
-  "2023-05-24": 68701,
-  "2023-05-25": 68727,
-  "2023-05-26": 68795,
-  "2023-05-27": 68891,
-  "2023-05-28": 68953,
-  "2023-05-29": 68953,
-  "2023-05-30": 69107,
-  "2023-05-31": 69151,
-  "2023-06-01": 69201,
-  "2023-06-02": 69266,
-  "2023-06-03": 69335,
-  "2023-06-04": 69398,
-  "2023-06-05": 69459,
-  "2023-06-06": 69526,
-  "2023-06-07": 69581,
-  "2023-06-08": 69649,
-  "2023-06-09": 69716,
-  "2023-06-10": 69804,
-  "2023-06-11": 69872,
-  "2023-06-12": 69953,
-  "2023-06-13": 70013,
-  "2023-06-14": 70090,
-  "2023-06-15": 70162,
-  "2023-06-16": 70223,
-  "2023-06-17": 70295,
-  "2023-06-18": 70377,
-  "2023-06-19": 70473,
-  "2023-06-20": 70572,
-  "2023-06-21": 70671,
-  "2023-06-22": 70754,
-  "2023-06-23": 70836,
-  "2023-06-24": 70921,
-  "2023-06-25": 71008,
-  "2023-06-26": 71182,
-  "2023-06-27": 71294,
-  "2023-06-28": 71419,
-  "2023-06-29": 71551,
-  "2023-06-30": 71672,
-  "2023-07-01": 71918,
-  "2023-07-02": 71918,
-  "2023-07-03": 72002,
-  "2023-07-04": 72071,
-  "2023-07-05": 72152,
-  "2023-07-06": 72296,
-  "2023-07-07": 72296,
-  "2023-07-08": 72296,
-  "2023-07-09": 72467,
-  "2023-07-10": 72537,
-  "2023-07-11": 72611,
-  "2023-07-12": 72665,
-  "2023-07-13": 72741,
-  "2023-07-14": 72804,
-  "2023-07-15": 72866,
-  "2023-07-16": 72947,
-  "2023-07-17": 73013,
-  "2023-07-18": 73057,
-  "2023-07-19": 73125,
-  "2023-07-20": 73175,
-  "2023-07-21": 73237,
-  "2023-07-22": 73311,
-  "2023-07-23": 73355,
-  "2023-07-24": 73395,
-  "2023-07-25": 73458,
-  "2023-07-26": 73492,
-  "2023-07-27": 73560,
-  "2023-07-28": 73615,
-  "2023-07-29": 73652,
-  "2023-07-30": 73712,
-  "2023-07-31": 73744,
-  "2023-08-01": 73801,
-  "2023-08-02": 73861,
-  "2023-08-03": 73916,
-  "2023-08-04": 73960,
-  "2023-08-05": 74003,
-  "2023-08-06": 74084,
-  "2023-08-07": 74084,
-  "2023-08-08": 74121,
-  "2023-08-09": 74157,
-  "2023-08-10": 74204,
-  "2023-08-11": 74257,
-  "2023-08-12": 74257,
-  "2023-08-13": 74257,
-  "2023-08-14": 74546,
-  "2023-08-15": 74546,
-  "2023-08-16": 74546,
-  "2023-08-17": 74546,
-  "2023-08-18": 74546,
-  "2023-08-19": 74546,
-  "2023-08-20": 74903,
-  "2023-08-21": 74903,
-  "2023-08-22": 75010,
-  "2023-08-23": 75010,
-  "2023-08-24": 75010,
-  "2023-08-25": 75010,
-  "2023-08-26": 75204,
-  "2023-08-27": 75204,
-  "2023-08-28": 75292,
-  "2023-08-29": 75292,
-  "2023-08-30": 75292,
-  "2023-08-31": 75409,
-  "2023-09-01": 75450,
-  "2023-09-02": 75450,
-  "2023-09-03": 75450,
-  "2023-09-04": 75450,
-  "2023-09-05": 75450,
-  "2023-09-06": 75450,
-  "2023-09-07": 75450,
-  "2023-09-08": 75450,
-  "2023-09-09": 75450,
-  "2023-09-10": 75811,
-  "2023-09-11": 75811,
-  "2023-09-12": 75811,
-  "2023-09-13": 75811,
-  "2023-09-14": 75811,
-  "2023-09-15": 75811,
-  "2023-09-16": 76350,
-  "2023-09-17": 76350,
-  "2023-09-18": 76350,
-  "2023-09-19": 76570,
-  "2023-09-20": 76570,
-  "2023-09-21": 76570,
-  "2023-09-22": 76805,
-  "2023-09-23": 76805,
-  "2023-09-24": 76805,
-  "2023-09-25": 76805,
-  "2023-09-26": 77039,
-  "2023-09-27": 77039,
-  "2023-09-28": 77039,
-  "2023-09-29": 77039,
-  "2023-09-30": 77039,
-  "2023-10-01": 77039,
-  "2023-10-02": 77039,
-  "2023-10-03": 77039,
-  "2023-10-04": 77039,
-  "2023-10-05": 77039,
-  "2023-10-06": 77039,
-  "2023-10-07": 77039,
-  "2023-10-08": 77039,
-  "2023-10-09": 77039,
-  "2023-10-10": 77039,
-  "2023-10-11": 77723,
-  "2023-10-12": 77723,
-  "2023-10-13": 77723,
-  "2023-10-14": 77723,
-  "2023-10-15": 77723,
-  "2023-10-16": 77723,
-  "2023-10-17": 77723,
-  "2023-10-18": 77723,
-  "2023-10-19": 77723,
-  "2023-10-20": 77723,
-  "2023-10-21": 77723,
-  "2023-10-22": 77723,
-  "2023-10-23": 77723,
-  "2023-10-24": 77723,
-  "2023-10-25": 77723,
-  "2023-10-26": 77723,
-  "2023-10-27": 77723,
-  "2023-10-28": 77723,
-  "2023-10-29": 77723,
-  "2023-10-30": 77723,
-  "2023-10-31": 77723,
-  "2023-11-01": 77723,
-  "2023-11-02": 77723,
-  "2023-11-03": 77723,
-  "2023-11-04": 77723,
-  "2023-11-05": 77723,
-  "2023-11-06": 77723,
-  "2023-11-07": 77723,
-  "2023-11-08": 77723,
-  "2023-11-09": 77723,
-  "2023-11-10": 77723,
-  "2023-11-11": 78796,
-  "2023-11-12": 78796,
-  "2023-11-13": 78796,
-  "2023-11-14": 78796,
-  "2023-11-15": 78796,
-  "2023-11-16": 78796,
-  "2023-11-17": 78796,
-  "2023-11-18": 78796,
-  "2023-11-19": 78796,
-  "2023-11-20": 78796,
-  "2023-11-21": 78796,
-  "2023-11-22": 78796,
-  "2023-11-23": 78796,
-  "2023-11-24": 78796,
-  "2023-11-25": 78796,
-  "2023-11-26": 78796,
-  "2023-11-27": 78796,
-  "2023-11-28": 78796,
-  "2023-11-29": 78796,
-  "2023-11-30": 78796,
-  "2023-12-01": 78796,
-  "2023-12-02": 78796,
-  "2023-12-03": 78796,
-  "2023-12-04": 78796,
-  "2023-12-05": 78796,
-  "2023-12-06": 78796,
-  "2023-12-07": 78796,
-  "2023-12-08": 78796,
-  "2023-12-09": 78796,
-  "2023-12-10": 78796,
-  "2023-12-11": 78796,
-  "2023-12-12": 78796,
-  "2023-12-13": 78796,
-  "2023-12-14": 79896,
-  "2023-12-15": 79919,
-  "2023-12-16": 79943,
-  "2023-12-17": 79956,
-  "2023-12-18": 79978,
-  "2023-12-19": 79998,
-  "2023-12-20": 80033,
-  "2023-12-21": 80056,
-  "2023-12-22": 80083,
-  "2023-12-23": 80101,
-  "2023-12-24": 80127,
-  "2023-12-25": 80146,
-  "2023-12-26": 80168,
-  "2023-12-27": 80193,
-  "2023-12-30": 80266,
-  "2023-12-31": 80282,
-  "2024-01-01": 80312,
-  "2024-01-02": 80325,
-  "2024-01-03": 80352
+  "2024-01-17": 80690,
+  "date_first_scraped": "2022-09-09",
+  "description": "This is Kelsea Ballerini. The essential tracks, all in one playlist.",
+  "name": "This Is Kelsea Ballerini",
+  "tracks": [
+    {
+      "album": {
+        "name": "Better Luck Next Time",
+        "url": "https://open.spotify.com/album/7LmEKG3k6DaJXsKa89qBo6"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172371,
+      "name": "Better Luck Next Time",
+      "url": "https://open.spotify.com/track/7vejWqYK7NFsxbxQsAjTrC"
+    },
+    {
+      "album": {
+        "name": "Girl Of My Dreams (Deluxe)",
+        "url": "https://open.spotify.com/album/5KbQGzcWL7VgTeLqjftNWH"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Better Version (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/4hVTfI6ZXLt0BAeTZhAalr"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167013,
+      "name": "Blindsided (Yeah, Sure, Okay)",
+      "url": "https://open.spotify.com/track/65eeFF3JE3YytATkV5Ga1Y"
+    },
+    {
+      "album": {
+        "name": "Center Point Road",
+        "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "Center Point Road",
+      "url": "https://open.spotify.com/track/7p9zIciejn8GXnsRdG9EQR"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 181099,
+      "name": "club",
+      "url": "https://open.spotify.com/track/0SzOCqaLfsLODI4blj7cbx"
+    },
+    {
+      "album": {
+        "name": "Things That We Drink To",
+        "url": "https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc"
+      },
+      "artists": [
+        {
+          "name": "Morgan Evans",
+          "url": "https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-20",
+      "duration_ms": 199501,
+      "name": "Dance with Me (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/07sa7qkxpemze5BBE7jufs"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Dibs",
+      "url": "https://open.spotify.com/track/6FWrlXo99QRmPtOeUSWDjv"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 157259,
+      "name": "DOIN' MY BEST",
+      "url": "https://open.spotify.com/track/2XZ2iNsKb70iobqOYqcnpw"
+    },
+    {
+      "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 204106,
+      "name": "First Time Again",
+      "url": "https://open.spotify.com/track/2aPIgCNuLT9TWUN9be2rpR"
+    },
+    {
+      "album": {
+        "name": "They Don't Know",
+        "url": "https://open.spotify.com/album/2EhCp9jUMBdrJIrnDrhw4L"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204106,
+      "name": "First Time Again",
+      "url": "https://open.spotify.com/track/7dRnLA0SZFVn62weznwJnk"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200066,
+      "name": "Get over Yourself",
+      "url": "https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231832,
+      "name": "half of my hometown (feat. Kenny Chesney)",
+      "url": "https://open.spotify.com/track/1yRke3PmsyFrYlFZOAkABk"
+    },
+    {
+      "album": {
+        "name": "HEARTFIRST",
+        "url": "https://open.spotify.com/album/34lEWEkrMZmB2WTzMXsk2s"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/1S55d7hhptRt8PS6nC1fSY"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187016,
+      "name": "HEARTFIRST",
+      "url": "https://open.spotify.com/track/5uflYpTmuK0np3jxcQC85M"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155668,
+      "name": "hole in the bottle",
+      "url": "https://open.spotify.com/track/2yySWxfeRN2QRZnFMnYMQl"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "homecoming queen?",
+      "url": "https://open.spotify.com/track/1ytCra0qH6gcHnCVQwREvu"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "How Do I Do This",
+      "url": "https://open.spotify.com/track/2I3LMMYVOZBsnAkHmKaSke"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 201966,
+      "name": "I CAN'T HELP MYSELF",
+      "url": "https://open.spotify.com/track/5NZviEn3DnOa2ZYqP5gIl2"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 241420,
+      "name": "I GUESS THEY CALL IT FALLIN'",
+      "url": "https://open.spotify.com/track/6lUpyPbjbjWGDszwpV4eqB"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191186,
+      "name": "I Hate Love Songs",
+      "url": "https://open.spotify.com/track/0Sbeihd75SGitymHS8Bqbh"
+    },
+    {
+      "album": {
+        "name": "I Quit Drinking",
+        "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "I Quit Drinking",
+      "url": "https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152386,
+      "name": "I Think I Fell in Love Today",
+      "url": "https://open.spotify.com/track/5ZdZVXpB7hLKPwx1xhb6q3"
+    },
+    {
+      "album": {
+        "name": "love + everything else",
+        "url": "https://open.spotify.com/album/1LA3eirJ1NylPXjS1gbiD5"
+      },
+      "artists": [
+        {
+          "name": "John K",
+          "url": "https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144243,
+      "name": "if we never met (feat. Kelsea Ballerini)",
+      "url": "https://open.spotify.com/track/5vDA0WiwxOzj4AJDKDl1Bz"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/1jX9wlAgVkAl0fCZqkCI73"
+    },
+    {
+      "album": {
+        "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+        "url": "https://open.spotify.com/album/7FE1lCQJo6eqLL7dKCyDH0"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 166035,
+      "name": "IF YOU GO DOWN (I'M GOIN' DOWN TOO)",
+      "url": "https://open.spotify.com/track/6KryVEgkMGOWZHQLwTbU7E"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 45786,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/0nkOSp2DLhgrElR8lPPteZ"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139933,
+      "name": "Interlude (Full Length)",
+      "url": "https://open.spotify.com/track/7dSg4FtT2opE2O7O0bYcL2"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/0rSwks1AwRZG3OhnUZ4g0E"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 198053,
+      "name": "Just Married",
+      "url": "https://open.spotify.com/track/3jwLmTcTwuE0xLR3sm6SqI"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/4LikBrGVLKO61HoPwHAygC"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 178746,
+      "name": "Leave Me Again",
+      "url": "https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244466,
+      "name": "Legends",
+      "url": "https://open.spotify.com/track/6vlxmQGwmlyp07YjkugV6K"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199914,
+      "name": "Lost In Japan - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 177565,
+      "name": "love and hate",
+      "url": "https://open.spotify.com/track/2NL3J9q2FJPSuPw2HS6vPO"
+    },
+    {
+      "album": {
+        "name": "LOVE IS A COWBOY",
+        "url": "https://open.spotify.com/album/2DNSEaiDOlocUHvQn37ylQ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 163531,
+      "name": "LOVE IS A COWBOY",
+      "url": "https://open.spotify.com/track/0syI1uKOPmjaRAdnpC1LUr"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163531,
+      "name": "LOVE IS A COWBOY",
+      "url": "https://open.spotify.com/track/6RB8DdrSlYmf3JPhySyXvI"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200026,
+      "name": "Love Me Like You Mean It",
+      "url": "https://open.spotify.com/track/0knbW9EwgSLfNFMWys1mQm"
+    },
+    {
+      "album": {
+        "name": "Love Song to the Earth",
+        "url": "https://open.spotify.com/album/5DZQzPTCPCpLGKQrG9iTPl"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Jon Bon Jovi",
+          "url": "https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+        },
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        },
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Johnny Rzeznik",
+          "url": "https://open.spotify.com/artist/6VZlYTq8lqmm4EFmZwK2fQ"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Nicole Scherzinger",
+          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
+        },
+        {
+          "name": "Christina Grimmie",
+          "url": "https://open.spotify.com/artist/0Cav8jyZKAHMFbAusOmjku"
+        },
+        {
+          "name": "Victoria Justice",
+          "url": "https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6"
+        },
+        {
+          "name": "Q'orianka Kilcher",
+          "url": "https://open.spotify.com/artist/1tHm53NBBuFigo0RrjqDfe"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231679,
+      "name": "Love Song to the Earth",
+      "url": "https://open.spotify.com/track/2Rbq28aQomoEswOXeK27CE"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 206986,
+      "name": "MARILYN",
+      "url": "https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "Miss Me More",
+      "url": "https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat (For Good)",
+        "url": "https://open.spotify.com/album/09eLFhImEeeEDKlaLznMOv"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177920,
+      "name": "Mountain With A View",
+      "url": "https://open.spotify.com/track/3Uq2F5YXXDui1m55h7r6JF"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211843,
+      "name": "MUSCLE MEMORY",
+      "url": "https://open.spotify.com/track/3rLEBpW17OHOovVl0kcFKZ"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6PCPxCkN8ClnHN1AESmSJg"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191811,
+      "name": "needy",
+      "url": "https://open.spotify.com/track/1pF52VPPTgPeBzOjg3PyjH"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 170441,
+      "name": "overshare",
+      "url": "https://open.spotify.com/track/7exnPa3Da17WUEVuZwO3xp"
+    },
+    {
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Penthouse",
+      "url": "https://open.spotify.com/track/5rCt377EMkCJ0D0sldd5t8"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Stilettos",
+      "url": "https://open.spotify.com/track/2q1VQXH254t7zGWpZOQU8x"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 179645,
+      "name": "SUBJECT TO CHANGE",
+      "url": "https://open.spotify.com/track/2JEWiDPkSPFc28NWLZoI9t"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177657,
+      "name": "THE LITTLE THINGS",
+      "url": "https://open.spotify.com/track/6D5Rtbk33c876AkZJWxmbm"
+    },
+    {
+      "album": {
+        "name": "THE LITTLE THINGS",
+        "url": "https://open.spotify.com/album/2ZMQtJp9Slw5uKYWnCgpSV"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 177657,
+      "name": "THE LITTLE THINGS",
+      "url": "https://open.spotify.com/track/72Z98wFFZyZjwc3D6thXtf"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201343,
+      "name": "the other girl (with Halsey)",
+      "url": "https://open.spotify.com/track/3CS5zwqrjggxlRD0QGJAva"
+    },
+    {
+      "album": {
+        "name": "kelsea",
+        "url": "https://open.spotify.com/album/11sr6VmBTa9Tkzwte11LDZ"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195403,
+      "name": "the way i used to",
+      "url": "https://open.spotify.com/track/7F3vjCKPlhvWKGl0h4p3lm"
+    },
+    {
+      "album": {
+        "name": "Sick Boy",
+        "url": "https://open.spotify.com/album/6ZvDJs17O3woQirttKRYCG"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197946,
+      "name": "This Feeling",
+      "url": "https://open.spotify.com/track/4NBTZtAt1F13VvlSKe6KTl"
+    },
+    {
+      "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 218813,
+      "name": "Unapologetically",
+      "url": "https://open.spotify.com/track/6DeMC9qUOznRorpgNW6dYe"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 200658,
+      "name": "WALK IN THE PARK",
+      "url": "https://open.spotify.com/track/1UYc1yNy5jVZbE29tMZRjX"
+    },
+    {
+      "album": {
+        "name": "We Were Like",
+        "url": "https://open.spotify.com/album/0yJAsGozlILYqinG4rzjKc"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "We Were Like",
+      "url": "https://open.spotify.com/track/5wdwd46vdGxRsy6tBRCSAY"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 174637,
+      "name": "WEATHER",
+      "url": "https://open.spotify.com/track/2ioPOUIEdDPabQsQly3tWX"
+    },
+    {
+      "album": {
+        "name": "WHAT I HAVE",
+        "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/3MAsvuKpI0k45dWmaYKSnl"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178681,
+      "name": "WHAT I HAVE",
+      "url": "https://open.spotify.com/track/6NQRyB65XYawngq6Cq1uKm"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Xo",
+      "url": "https://open.spotify.com/track/2sYJeORxYzEQItfa9VmiwZ"
+    },
+    {
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194413,
+      "name": "Yeah Boy",
+      "url": "https://open.spotify.com/track/2WaOQWSv0D1tZNxyLvnGAI"
+    },
+    {
+      "album": {
+        "name": "SUBJECT TO CHANGE",
+        "url": "https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "date_added": "2022-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 175229,
+      "name": "YOU'RE DRUNK, GO HOME",
+      "url": "https://open.spotify.com/track/0XVBahLtPyfg5m1LxPxRTd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fAyZy"
 }

@@ -1,135 +1,513 @@
 {
-  "2023-08-22": 8,
-  "2023-08-23": 40,
-  "2023-08-24": 67,
-  "2023-08-25": 104,
-  "2023-08-26": 235,
-  "2023-08-27": 377,
-  "2023-08-28": 509,
-  "2023-08-29": 668,
-  "2023-08-30": 896,
-  "2023-08-31": 1174,
-  "2023-09-01": 1577,
-  "2023-09-02": 1577,
-  "2023-09-03": 1749,
-  "2023-09-04": 1951,
-  "2023-09-05": 2176,
-  "2023-09-06": 2447,
-  "2023-09-07": 2688,
-  "2023-09-08": 2952,
-  "2023-09-09": 3167,
-  "2023-09-10": 3386,
-  "2023-09-11": 3560,
-  "2023-09-12": 3767,
-  "2023-09-13": 3976,
-  "2023-09-14": 4162,
-  "2023-09-15": 4369,
-  "2023-09-16": 4535,
-  "2023-09-17": 4699,
-  "2023-09-18": 4826,
-  "2023-09-19": 4980,
-  "2023-09-20": 5110,
-  "2023-09-21": 5258,
-  "2023-09-22": 5427,
-  "2023-09-23": 5660,
-  "2023-09-24": 5847,
-  "2023-09-25": 5981,
-  "2023-09-26": 6242,
-  "2023-09-27": 6396,
-  "2023-09-28": 6608,
-  "2023-09-29": 6827,
-  "2023-09-30": 7014,
-  "2023-10-01": 7162,
-  "2023-10-02": 7296,
-  "2023-10-03": 7419,
-  "2023-10-04": 7550,
-  "2023-10-05": 7668,
-  "2023-10-06": 7795,
-  "2023-10-07": 7911,
-  "2023-10-08": 8010,
-  "2023-10-09": 8083,
-  "2023-10-10": 8162,
-  "2023-10-11": 8276,
-  "2023-10-12": 8276,
-  "2023-10-13": 8351,
-  "2023-10-14": 8408,
-  "2023-10-15": 8492,
-  "2023-10-16": 8564,
-  "2023-10-17": 8645,
-  "2023-10-18": 8703,
-  "2023-10-19": 8766,
-  "2023-10-20": 8837,
-  "2023-10-21": 8903,
-  "2023-10-22": 8967,
-  "2023-10-23": 9014,
-  "2023-10-24": 9070,
-  "2023-10-25": 9111,
-  "2023-10-26": 9171,
-  "2023-10-27": 9227,
-  "2023-10-28": 9283,
-  "2023-10-29": 9330,
-  "2023-10-30": 9411,
-  "2023-10-31": 9411,
-  "2023-11-01": 9453,
-  "2023-11-02": 9502,
-  "2023-11-03": 9552,
-  "2023-11-04": 9608,
-  "2023-11-05": 9659,
-  "2023-11-06": 9717,
-  "2023-11-07": 9760,
-  "2023-11-08": 9806,
-  "2023-11-09": 9858,
-  "2023-11-10": 9928,
-  "2023-11-11": 9992,
-  "2023-11-12": 10026,
-  "2023-11-13": 10067,
-  "2023-11-14": 10090,
-  "2023-11-15": 10090,
-  "2023-11-16": 10176,
-  "2023-11-17": 10293,
-  "2023-11-18": 10293,
-  "2023-11-19": 10326,
-  "2023-11-20": 10370,
-  "2023-11-21": 10426,
-  "2023-11-22": 10469,
-  "2023-11-23": 10511,
-  "2023-11-24": 10552,
-  "2023-11-25": 10595,
-  "2023-11-26": 10646,
-  "2023-11-27": 10688,
-  "2023-11-28": 10738,
-  "2023-11-29": 10847,
-  "2023-11-30": 10847,
-  "2023-12-01": 10888,
-  "2023-12-02": 10913,
-  "2023-12-03": 10944,
-  "2023-12-04": 10979,
-  "2023-12-05": 11021,
-  "2023-12-06": 11066,
-  "2023-12-07": 11104,
-  "2023-12-08": 11154,
-  "2023-12-09": 11200,
-  "2023-12-10": 11257,
-  "2023-12-11": 11310,
-  "2023-12-12": 11363,
-  "2023-12-13": 11421,
-  "2023-12-14": 11467,
-  "2023-12-15": 11508,
-  "2023-12-16": 11554,
-  "2023-12-17": 11600,
-  "2023-12-18": 11631,
-  "2023-12-19": 11661,
-  "2023-12-20": 11699,
-  "2023-12-21": 11744,
-  "2023-12-22": 11786,
-  "2023-12-23": 11830,
-  "2023-12-24": 11877,
-  "2023-12-25": 11911,
-  "2023-12-26": 11944,
-  "2023-12-27": 11997,
-  "2023-12-30": 12134,
-  "2023-12-31": 12182,
-  "2024-01-01": 12226,
-  "2024-01-02": 12262,
-  "2024-01-03": 12305
+  "2024-01-17": 12922,
+  "date_first_scraped": "2023-08-22",
+  "description": "All the best songs inspired by Street Fighter all in one place. ",
+  "name": "Street Fighter Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Above The Rim (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/2mk5XOGtfuxx7ZqqjkwYVD"
+      },
+      "artists": [
+        {
+          "name": "The Lady Of Rage",
+          "url": "https://open.spotify.com/artist/5CxwOBCoGSvWxfDgNoa1Nv"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288840,
+      "name": "Afro Puffs",
+      "url": "https://open.spotify.com/track/156hYP1YuXlLEEtWVtuIIw"
+    },
+    {
+      "album": {
+        "name": "ROADRUNNER: NEW LIGHT, NEW MACHINE",
+        "url": "https://open.spotify.com/album/6sPcgDto5EI6EBPc2jhDC7"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        },
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201253,
+      "name": "CHAIN ON (feat. JPEGMAFIA)",
+      "url": "https://open.spotify.com/track/5Tutv8aK0ZJFciloVv6WDT"
+    },
+    {
+      "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258426,
+      "name": "Change Clothes",
+      "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E"
+    },
+    {
+      "album": {
+        "name": "Z",
+        "url": "https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216234,
+      "name": "Childs Play (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/7GPstnufSTScEaw9dMxO9H"
+    },
+    {
+      "album": {
+        "name": "Folarin",
+        "url": "https://open.spotify.com/album/3m3w8mC8a3JnEMBHFHqIpn"
+      },
+      "artists": [
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245253,
+      "name": "Chun Li",
+      "url": "https://open.spotify.com/track/70R8XpfbFyLgjZwFS78uZ3"
+    },
+    {
+      "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191600,
+      "name": "Chun-Li",
+      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
+    },
+    {
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216703,
+      "name": "Endless Fashion (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7"
+    },
+    {
+      "album": {
+        "name": "Lupe Fiasco's The Cool",
+        "url": "https://open.spotify.com/album/0MihD70HInk2rDaChdAdEy"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "Gold Watch",
+      "url": "https://open.spotify.com/track/2DGMORz6TjhKgCYM7quaZh"
+    },
+    {
+      "album": {
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Jeni Fujita",
+          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+    },
+    {
+      "album": {
+        "name": "Pink Friday ... Roman Reloaded",
+        "url": "https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "I Am Your Leader",
+      "url": "https://open.spotify.com/track/6WEDEPZSqLBM69CRwga7I5"
+    },
+    {
+      "album": {
+        "name": "Mr. Smith",
+        "url": "https://open.spotify.com/album/0EtG0ataZEORGDhkNtSWQo"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164066,
+      "name": "Life As...",
+      "url": "https://open.spotify.com/track/04TS4QD1sbFRyh4dUAGrk5"
+    },
+    {
+      "album": {
+        "name": "The R.E.D. Album",
+        "url": "https://open.spotify.com/album/6PvZnd9Q2ymDo3gpoM5I37"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228826,
+      "name": "Martians Vs Goblins",
+      "url": "https://open.spotify.com/track/1UIcqXAA24eg76EFWViwr5"
+    },
+    {
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286853,
+      "name": "No Pressure",
+      "url": "https://open.spotify.com/track/23UV8pJEvRnAZd6ZAXBC0H"
+    },
+    {
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/1hNdA7lmK8KNVq99faGmbM"
+      },
+      "artists": [
+        {
+          "name": "Action Bronson",
+          "url": "https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ"
+        },
+        {
+          "name": "Statik Selektah",
+          "url": "https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196160,
+      "name": "Not Enough Words",
+      "url": "https://open.spotify.com/track/26dvKZpovRcoR76a40Okjf"
+    },
+    {
+      "album": {
+        "name": "Labcabincalifornia (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/05Qg48LlYGKYdeXrNGg00g"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260813,
+      "name": "Pandemonium",
+      "url": "https://open.spotify.com/track/7dXTYbB4dzSxPfls25UfmU"
+    },
+    {
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/5pF05wJrbrIvqunE41vWP8"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100291,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/5jbDih9bLGmI8ycUKkN5XA"
+    },
+    {
+      "album": {
+        "name": "Theater Of The Mind (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4zK2YeF922VXfzyxFteIfT"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "Press The Start Button",
+      "url": "https://open.spotify.com/track/1YCGoXU7dCNz1F7iFoZSUl"
+    },
+    {
+      "album": {
+        "name": "Red Ruby Da Sleeze",
+        "url": "https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214445,
+      "name": "Red Ruby Da Sleeze",
+      "url": "https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2"
+    },
+    {
+      "album": {
+        "name": "Halfway House",
+        "url": "https://open.spotify.com/album/2janCj80RxtnpJWPaJCLMt"
+      },
+      "artists": [
+        {
+          "name": "Joe Budden",
+          "url": "https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6"
+        },
+        {
+          "name": "Joell Ortiz",
+          "url": "https://open.spotify.com/artist/1q13yHC6Syg5Y8iPLrRnCq"
+        },
+        {
+          "name": "KXNG Crooked",
+          "url": "https://open.spotify.com/artist/6fFfnKGVI6X3lkCr8Qw1g1"
+        },
+        {
+          "name": "Nino Bless",
+          "url": "https://open.spotify.com/artist/0o32493qFObEidnHJwBZ5o"
+        },
+        {
+          "name": "Royce Da 5'9\"",
+          "url": "https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421853,
+      "name": "Slaughterhouse (feat. Joell Ortiz, Nino Bless, Crooked I, Royce da 5'9)",
+      "url": "https://open.spotify.com/track/6rI2bflAlTLFCMKYf2xykB"
+    },
+    {
+      "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200760,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/16bHRxM89ue0TiCKARYbRp"
+    },
+    {
+      "album": {
+        "name": "Street Fighter Riddim",
+        "url": "https://open.spotify.com/album/2LYLKTCW9mLI3EGl35RgVg"
+      },
+      "artists": [
+        {
+          "name": "D Double E",
+          "url": "https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193706,
+      "name": "Street Fighter Riddim",
+      "url": "https://open.spotify.com/track/77MlbRsFh9nlS3G3OPh7HA"
+    },
+    {
+      "album": {
+        "name": "Guerrilla Funk (The Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7LyFlbYjrAVkFHnQRUcCuB"
+      },
+      "artists": [
+        {
+          "name": "Paris",
+          "url": "https://open.spotify.com/artist/6UPRFx3Gnn5N67opROnwA5"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266746,
+      "name": "Street Soldier",
+      "url": "https://open.spotify.com/track/23U80fxrD6uiOVfpbNl6kU"
+    },
+    {
+      "album": {
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221493,
+      "name": "Switch Lanes",
+      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177737,
+      "name": "Tunechi Rollin'",
+      "url": "https://open.spotify.com/track/4ULBkFaSgMbC5kIajMTSjP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWLWaBFTNqEL"
 }

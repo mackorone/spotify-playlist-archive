@@ -1,735 +1,949 @@
 {
-  "2021-12-25": 70596,
-  "2021-12-26": 70610,
-  "2021-12-27": 70661,
-  "2021-12-28": 70661,
-  "2021-12-29": 70692,
-  "2021-12-30": 70718,
-  "2021-12-31": 70742,
-  "2022-01-01": 70781,
-  "2022-01-02": 70789,
-  "2022-01-03": 70802,
-  "2022-01-04": 70807,
-  "2022-01-05": 70849,
-  "2022-01-06": 70869,
-  "2022-01-07": 70884,
-  "2022-01-08": 70943,
-  "2022-01-09": 70946,
-  "2022-01-10": 70968,
-  "2022-01-11": 70976,
-  "2022-01-12": 70982,
-  "2022-01-13": 70982,
-  "2022-01-14": 70982,
-  "2022-01-15": 70982,
-  "2022-01-16": 70982,
-  "2022-01-17": 70982,
-  "2022-01-18": 70982,
-  "2022-01-19": 70982,
-  "2022-01-20": 70982,
-  "2022-01-21": 70982,
-  "2022-01-22": 70982,
-  "2022-01-23": 70982,
-  "2022-01-24": 70982,
-  "2022-01-25": 70982,
-  "2022-01-26": 70982,
-  "2022-01-27": 70982,
-  "2022-01-28": 70982,
-  "2022-01-29": 70982,
-  "2022-01-30": 70982,
-  "2022-01-31": 70982,
-  "2022-02-01": 70982,
-  "2022-02-02": 70982,
-  "2022-02-03": 70982,
-  "2022-02-04": 70982,
-  "2022-02-05": 70982,
-  "2022-02-06": 70982,
-  "2022-02-07": 70982,
-  "2022-02-08": 70982,
-  "2022-02-09": 70982,
-  "2022-02-10": 70982,
-  "2022-02-11": 70982,
-  "2022-02-12": 70982,
-  "2022-02-13": 70982,
-  "2022-02-14": 70982,
-  "2022-02-15": 70982,
-  "2022-02-16": 70982,
-  "2022-02-17": 70982,
-  "2022-02-18": 70982,
-  "2022-02-19": 70982,
-  "2022-02-20": 70982,
-  "2022-02-21": 70982,
-  "2022-02-22": 70982,
-  "2022-02-23": 70982,
-  "2022-02-24": 70982,
-  "2022-02-25": 70982,
-  "2022-02-26": 70982,
-  "2022-02-27": 70982,
-  "2022-02-28": 70982,
-  "2022-03-01": 70982,
-  "2022-03-02": 70982,
-  "2022-03-03": 70982,
-  "2022-03-04": 70982,
-  "2022-03-05": 70982,
-  "2022-03-06": 70982,
-  "2022-03-07": 70982,
-  "2022-03-08": 70982,
-  "2022-03-09": 70982,
-  "2022-03-10": 70982,
-  "2022-03-11": 70982,
-  "2022-03-12": 70982,
-  "2022-03-13": 70982,
-  "2022-03-14": 70982,
-  "2022-03-15": 70982,
-  "2022-03-16": 70982,
-  "2022-03-17": 70982,
-  "2022-03-18": 70982,
-  "2022-03-19": 70982,
-  "2022-03-20": 70982,
-  "2022-03-21": 70982,
-  "2022-03-22": 70982,
-  "2022-03-23": 70982,
-  "2022-03-24": 70982,
-  "2022-03-25": 70982,
-  "2022-03-26": 70982,
-  "2022-03-27": 70982,
-  "2022-03-28": 70982,
-  "2022-03-30": 70982,
-  "2022-03-31": 70982,
-  "2022-04-01": 70982,
-  "2022-04-02": 70982,
-  "2022-04-03": 70982,
-  "2022-04-04": 70982,
-  "2022-04-05": 70982,
-  "2022-04-06": 70982,
-  "2022-04-07": 70982,
-  "2022-04-08": 70982,
-  "2022-04-09": 70982,
-  "2022-04-10": 70982,
-  "2022-04-11": 70982,
-  "2022-04-12": 70982,
-  "2022-04-13": 70982,
-  "2022-04-14": 70982,
-  "2022-04-15": 70982,
-  "2022-04-16": 70982,
-  "2022-04-17": 70982,
-  "2022-04-18": 70982,
-  "2022-04-19": 70982,
-  "2022-04-20": 70982,
-  "2022-04-21": 70982,
-  "2022-04-22": 70982,
-  "2022-04-23": 70982,
-  "2022-04-24": 70982,
-  "2022-04-25": 70982,
-  "2022-04-26": 70982,
-  "2022-04-27": 70982,
-  "2022-04-28": 70982,
-  "2022-04-29": 70982,
-  "2022-04-30": 70982,
-  "2022-05-01": 70982,
-  "2022-05-02": 70982,
-  "2022-05-03": 70982,
-  "2022-05-04": 70982,
-  "2022-05-05": 70982,
-  "2022-05-06": 70982,
-  "2022-05-07": 70982,
-  "2022-05-08": 70982,
-  "2022-05-09": 70982,
-  "2022-05-10": 70982,
-  "2022-05-11": 70982,
-  "2022-05-12": 70982,
-  "2022-05-13": 70982,
-  "2022-05-14": 70982,
-  "2022-05-15": 70982,
-  "2022-05-16": 70982,
-  "2022-05-17": 70982,
-  "2022-05-18": 70982,
-  "2022-05-19": 70982,
-  "2022-05-20": 70982,
-  "2022-05-21": 70982,
-  "2022-05-22": 70982,
-  "2022-05-23": 70982,
-  "2022-05-24": 70982,
-  "2022-05-25": 70982,
-  "2022-05-26": 70982,
-  "2022-05-27": 70982,
-  "2022-05-28": 70982,
-  "2022-05-29": 70982,
-  "2022-05-30": 70982,
-  "2022-05-31": 70982,
-  "2022-06-01": 70982,
-  "2022-06-02": 70982,
-  "2022-06-03": 70982,
-  "2022-06-04": 70982,
-  "2022-06-05": 70982,
-  "2022-06-06": 70982,
-  "2022-06-07": 70982,
-  "2022-06-08": 70982,
-  "2022-06-09": 70982,
-  "2022-06-10": 70982,
-  "2022-06-11": 70982,
-  "2022-06-12": 70982,
-  "2022-06-13": 70982,
-  "2022-06-14": 70982,
-  "2022-06-15": 70982,
-  "2022-06-16": 70982,
-  "2022-06-17": 70982,
-  "2022-06-18": 70982,
-  "2022-06-19": 70982,
-  "2022-06-20": 70982,
-  "2022-06-21": 70982,
-  "2022-06-22": 70982,
-  "2022-06-23": 70982,
-  "2022-06-24": 70982,
-  "2022-06-25": 70982,
-  "2022-06-26": 70982,
-  "2022-06-27": 70982,
-  "2022-06-28": 70982,
-  "2022-06-29": 70982,
-  "2022-06-30": 70982,
-  "2022-07-01": 70982,
-  "2022-07-02": 70982,
-  "2022-07-03": 70982,
-  "2022-07-04": 70982,
-  "2022-07-05": 70982,
-  "2022-07-06": 70982,
-  "2022-07-07": 70982,
-  "2022-07-08": 70982,
-  "2022-07-09": 70982,
-  "2022-07-10": 70982,
-  "2022-07-11": 70982,
-  "2022-07-12": 70982,
-  "2022-07-13": 70982,
-  "2022-07-14": 70982,
-  "2022-07-15": 70982,
-  "2022-07-16": 70982,
-  "2022-07-17": 70982,
-  "2022-07-18": 70982,
-  "2022-07-19": 70982,
-  "2022-07-20": 70982,
-  "2022-07-21": 70982,
-  "2022-07-22": 70982,
-  "2022-07-23": 70982,
-  "2022-07-24": 70982,
-  "2022-07-25": 70982,
-  "2022-07-26": 70982,
-  "2022-07-27": 70982,
-  "2022-07-28": 70982,
-  "2022-07-29": 70982,
-  "2022-07-30": 70982,
-  "2022-07-31": 70982,
-  "2022-08-01": 70982,
-  "2022-08-02": 70982,
-  "2022-08-03": 70982,
-  "2022-08-04": 70982,
-  "2022-08-05": 70982,
-  "2022-08-06": 70982,
-  "2022-08-07": 70982,
-  "2022-08-08": 70982,
-  "2022-08-09": 70982,
-  "2022-08-10": 70982,
-  "2022-08-11": 70982,
-  "2022-08-12": 70982,
-  "2022-08-13": 70982,
-  "2022-08-14": 70982,
-  "2022-08-15": 70982,
-  "2022-08-16": 70982,
-  "2022-08-17": 70982,
-  "2022-08-18": 70982,
-  "2022-08-19": 70982,
-  "2022-08-20": 70982,
-  "2022-08-21": 70982,
-  "2022-08-22": 70982,
-  "2022-08-23": 70982,
-  "2022-08-24": 70982,
-  "2022-08-25": 70982,
-  "2022-08-26": 70982,
-  "2022-08-27": 70982,
-  "2022-08-28": 70982,
-  "2022-08-29": 70982,
-  "2022-08-30": 70982,
-  "2022-08-31": 70982,
-  "2022-09-01": 70982,
-  "2022-09-02": 70982,
-  "2022-09-03": 70982,
-  "2022-09-04": 70982,
-  "2022-09-05": 70982,
-  "2022-09-06": 70982,
-  "2022-09-07": 70982,
-  "2022-09-09": 70982,
-  "2022-09-10": 70982,
-  "2022-09-11": 70982,
-  "2022-09-12": 70982,
-  "2022-09-13": 70982,
-  "2022-09-15": 70982,
-  "2022-09-16": 70982,
-  "2022-09-17": 70982,
-  "2022-09-18": 70982,
-  "2022-09-19": 70982,
-  "2022-09-20": 70982,
-  "2022-09-21": 70982,
-  "2022-09-22": 70982,
-  "2022-09-23": 70982,
-  "2022-09-24": 70982,
-  "2022-09-25": 70982,
-  "2022-09-26": 70982,
-  "2022-09-27": 70982,
-  "2022-09-28": 70982,
-  "2022-09-29": 70982,
-  "2022-09-30": 70982,
-  "2022-10-01": 70982,
-  "2022-10-02": 70982,
-  "2022-10-03": 70982,
-  "2022-10-04": 70982,
-  "2022-10-05": 70982,
-  "2022-10-06": 70982,
-  "2022-10-07": 70982,
-  "2022-10-08": 70982,
-  "2022-10-09": 70982,
-  "2022-10-10": 70982,
-  "2022-10-11": 70982,
-  "2022-10-12": 70982,
-  "2022-10-13": 70982,
-  "2022-10-14": 70982,
-  "2022-10-15": 70982,
-  "2022-10-16": 70982,
-  "2022-10-17": 70982,
-  "2022-10-18": 70982,
-  "2022-10-19": 70982,
-  "2022-10-20": 70982,
-  "2022-10-21": 70982,
-  "2022-10-22": 70982,
-  "2022-10-23": 70982,
-  "2022-10-24": 70982,
-  "2022-10-25": 70982,
-  "2022-10-26": 70982,
-  "2022-10-27": 70982,
-  "2022-10-28": 70982,
-  "2022-10-29": 70982,
-  "2022-10-30": 70982,
-  "2022-10-31": 70982,
-  "2022-11-01": 70982,
-  "2022-11-02": 70982,
-  "2022-11-03": 70982,
-  "2022-11-04": 70982,
-  "2022-11-05": 70982,
-  "2022-11-06": 70982,
-  "2022-11-07": 70982,
-  "2022-11-08": 70982,
-  "2022-11-09": 70982,
-  "2022-11-10": 70982,
-  "2022-11-11": 70982,
-  "2022-11-12": 70982,
-  "2022-11-13": 70982,
-  "2022-11-14": 70982,
-  "2022-11-15": 70982,
-  "2022-11-16": 70982,
-  "2022-11-17": 70982,
-  "2022-11-18": 70982,
-  "2022-11-19": 70982,
-  "2022-11-20": 70982,
-  "2022-11-21": 70982,
-  "2022-11-22": 70982,
-  "2022-11-23": 70982,
-  "2022-11-24": 70982,
-  "2022-11-25": 70982,
-  "2022-11-26": 70982,
-  "2022-11-27": 70982,
-  "2022-11-28": 70982,
-  "2022-11-29": 70982,
-  "2022-11-30": 70982,
-  "2022-12-01": 70982,
-  "2022-12-02": 70982,
-  "2022-12-03": 70982,
-  "2022-12-04": 70982,
-  "2022-12-05": 70982,
-  "2022-12-06": 70982,
-  "2022-12-07": 70982,
-  "2022-12-08": 70982,
-  "2022-12-09": 70982,
-  "2022-12-10": 70982,
-  "2022-12-11": 70982,
-  "2022-12-12": 70982,
-  "2022-12-13": 70982,
-  "2022-12-14": 70982,
-  "2022-12-15": 70982,
-  "2022-12-16": 70982,
-  "2022-12-17": 70982,
-  "2022-12-18": 70982,
-  "2022-12-19": 70982,
-  "2022-12-20": 70982,
-  "2022-12-21": 70982,
-  "2022-12-22": 70982,
-  "2022-12-24": 70982,
-  "2022-12-25": 70982,
-  "2022-12-26": 70982,
-  "2022-12-27": 70982,
-  "2022-12-28": 70982,
-  "2022-12-29": 70982,
-  "2022-12-30": 70982,
-  "2022-12-31": 70982,
-  "2023-01-01": 70982,
-  "2023-01-02": 70982,
-  "2023-01-03": 70982,
-  "2023-01-04": 70982,
-  "2023-01-05": 70982,
-  "2023-01-06": 70982,
-  "2023-01-07": 70982,
-  "2023-01-08": 70982,
-  "2023-01-09": 70982,
-  "2023-01-10": 70982,
-  "2023-01-11": 70982,
-  "2023-01-12": 70982,
-  "2023-01-13": 70982,
-  "2023-01-14": 70982,
-  "2023-01-15": 70982,
-  "2023-01-16": 70982,
-  "2023-01-17": 70982,
-  "2023-01-18": 70982,
-  "2023-01-19": 70982,
-  "2023-01-20": 70982,
-  "2023-01-21": 70982,
-  "2023-01-22": 70982,
-  "2023-01-23": 70982,
-  "2023-01-24": 70982,
-  "2023-01-25": 70982,
-  "2023-01-26": 70982,
-  "2023-01-27": 70982,
-  "2023-01-28": 70982,
-  "2023-01-29": 70982,
-  "2023-01-30": 70982,
-  "2023-01-31": 70982,
-  "2023-02-01": 70982,
-  "2023-02-02": 70982,
-  "2023-02-03": 70982,
-  "2023-02-04": 70982,
-  "2023-02-05": 70982,
-  "2023-02-06": 70982,
-  "2023-02-07": 70982,
-  "2023-02-08": 70982,
-  "2023-02-09": 70982,
-  "2023-02-10": 70982,
-  "2023-02-11": 70982,
-  "2023-02-12": 70982,
-  "2023-02-13": 70982,
-  "2023-02-14": 70982,
-  "2023-02-15": 70982,
-  "2023-02-16": 70982,
-  "2023-02-17": 70982,
-  "2023-02-18": 70982,
-  "2023-02-19": 70982,
-  "2023-02-20": 70982,
-  "2023-02-21": 70982,
-  "2023-02-22": 70982,
-  "2023-02-23": 70982,
-  "2023-02-24": 70982,
-  "2023-02-25": 70982,
-  "2023-02-26": 70982,
-  "2023-02-27": 70982,
-  "2023-02-28": 70982,
-  "2023-03-01": 70982,
-  "2023-03-02": 70982,
-  "2023-03-03": 70982,
-  "2023-03-04": 70982,
-  "2023-03-05": 70982,
-  "2023-03-06": 70982,
-  "2023-03-07": 70982,
-  "2023-03-08": 70982,
-  "2023-03-09": 70982,
-  "2023-03-10": 70982,
-  "2023-03-11": 70982,
-  "2023-03-12": 70982,
-  "2023-03-13": 70982,
-  "2023-03-14": 70982,
-  "2023-03-15": 70982,
-  "2023-03-16": 70982,
-  "2023-03-17": 70982,
-  "2023-03-18": 70982,
-  "2023-03-19": 70982,
-  "2023-03-20": 70982,
-  "2023-03-21": 70982,
-  "2023-03-22": 70982,
-  "2023-03-23": 70982,
-  "2023-03-24": 70982,
-  "2023-03-25": 70982,
-  "2023-03-26": 70982,
-  "2023-03-27": 70982,
-  "2023-03-28": 70982,
-  "2023-03-29": 70982,
-  "2023-03-30": 70982,
-  "2023-03-31": 70982,
-  "2023-04-01": 70982,
-  "2023-04-02": 70982,
-  "2023-04-03": 70982,
-  "2023-04-04": 70982,
-  "2023-04-05": 70982,
-  "2023-04-06": 70982,
-  "2023-04-07": 70982,
-  "2023-04-09": 70982,
-  "2023-04-10": 70982,
-  "2023-04-11": 70982,
-  "2023-04-12": 70982,
-  "2023-04-13": 70982,
-  "2023-04-14": 70982,
-  "2023-04-15": 70982,
-  "2023-04-16": 70982,
-  "2023-04-17": 70982,
-  "2023-04-18": 70982,
-  "2023-04-19": 70982,
-  "2023-04-20": 70982,
-  "2023-04-21": 70982,
-  "2023-04-22": 70982,
-  "2023-04-23": 70982,
-  "2023-04-24": 70982,
-  "2023-04-25": 70982,
-  "2023-04-26": 70982,
-  "2023-04-27": 70982,
-  "2023-04-28": 70982,
-  "2023-04-29": 70982,
-  "2023-04-30": 70982,
-  "2023-05-01": 70982,
-  "2023-05-02": 70982,
-  "2023-05-03": 70982,
-  "2023-05-04": 70982,
-  "2023-05-05": 70982,
-  "2023-05-06": 70982,
-  "2023-05-07": 70982,
-  "2023-05-08": 70982,
-  "2023-05-09": 70982,
-  "2023-05-10": 70982,
-  "2023-05-11": 70982,
-  "2023-05-12": 70982,
-  "2023-05-13": 70982,
-  "2023-05-14": 70982,
-  "2023-05-15": 70982,
-  "2023-05-16": 70982,
-  "2023-05-17": 70982,
-  "2023-05-18": 70982,
-  "2023-05-19": 70982,
-  "2023-05-20": 70982,
-  "2023-05-21": 70982,
-  "2023-05-22": 70982,
-  "2023-05-23": 70982,
-  "2023-05-24": 70982,
-  "2023-05-25": 70982,
-  "2023-05-26": 70982,
-  "2023-05-27": 70982,
-  "2023-05-28": 70982,
-  "2023-05-29": 70982,
-  "2023-05-30": 70982,
-  "2023-05-31": 70982,
-  "2023-06-01": 70982,
-  "2023-06-02": 70982,
-  "2023-06-03": 70982,
-  "2023-06-04": 70982,
-  "2023-06-05": 70982,
-  "2023-06-06": 70982,
-  "2023-06-07": 70982,
-  "2023-06-08": 70982,
-  "2023-06-09": 70982,
-  "2023-06-10": 70982,
-  "2023-06-11": 70982,
-  "2023-06-12": 70982,
-  "2023-06-13": 70982,
-  "2023-06-14": 70982,
-  "2023-06-15": 70982,
-  "2023-06-16": 70982,
-  "2023-06-17": 70982,
-  "2023-06-18": 70982,
-  "2023-06-19": 70982,
-  "2023-06-20": 70982,
-  "2023-06-21": 70982,
-  "2023-06-22": 70982,
-  "2023-06-23": 70982,
-  "2023-06-24": 70982,
-  "2023-06-25": 70982,
-  "2023-06-26": 70982,
-  "2023-06-27": 70982,
-  "2023-06-28": 70982,
-  "2023-06-29": 70982,
-  "2023-06-30": 70982,
-  "2023-07-01": 70982,
-  "2023-07-02": 70982,
-  "2023-07-03": 70982,
-  "2023-07-04": 70982,
-  "2023-07-05": 70982,
-  "2023-07-06": 70982,
-  "2023-07-07": 70982,
-  "2023-07-08": 70982,
-  "2023-07-09": 70982,
-  "2023-07-10": 70982,
-  "2023-07-11": 70982,
-  "2023-07-12": 70982,
-  "2023-07-13": 70982,
-  "2023-07-14": 70982,
-  "2023-07-15": 70982,
-  "2023-07-16": 70982,
-  "2023-07-17": 70982,
-  "2023-07-18": 70982,
-  "2023-07-19": 70982,
-  "2023-07-20": 70982,
-  "2023-07-21": 70982,
-  "2023-07-22": 70982,
-  "2023-07-23": 70982,
-  "2023-07-24": 70982,
-  "2023-07-25": 70982,
-  "2023-07-26": 70982,
-  "2023-07-27": 70982,
-  "2023-07-28": 70982,
-  "2023-07-29": 70982,
-  "2023-07-30": 70982,
-  "2023-07-31": 70982,
-  "2023-08-01": 70982,
-  "2023-08-02": 70982,
-  "2023-08-03": 70982,
-  "2023-08-04": 70982,
-  "2023-08-05": 70982,
-  "2023-08-06": 70982,
-  "2023-08-07": 70982,
-  "2023-08-08": 70982,
-  "2023-08-09": 70982,
-  "2023-08-10": 70982,
-  "2023-08-11": 70982,
-  "2023-08-12": 70982,
-  "2023-08-13": 70982,
-  "2023-08-14": 70982,
-  "2023-08-15": 70982,
-  "2023-08-16": 70982,
-  "2023-08-17": 70982,
-  "2023-08-18": 70982,
-  "2023-08-19": 70982,
-  "2023-08-20": 70982,
-  "2023-08-21": 70982,
-  "2023-08-22": 70982,
-  "2023-08-23": 70982,
-  "2023-08-24": 70982,
-  "2023-08-25": 70982,
-  "2023-08-26": 70982,
-  "2023-08-27": 70982,
-  "2023-08-28": 70982,
-  "2023-08-29": 70982,
-  "2023-08-30": 70982,
-  "2023-08-31": 70982,
-  "2023-09-01": 70982,
-  "2023-09-02": 70982,
-  "2023-09-03": 70982,
-  "2023-09-04": 70982,
-  "2023-09-05": 70982,
-  "2023-09-06": 70982,
-  "2023-09-07": 70982,
-  "2023-09-08": 70982,
-  "2023-09-09": 70982,
-  "2023-09-10": 70982,
-  "2023-09-11": 70982,
-  "2023-09-12": 70982,
-  "2023-09-13": 70982,
-  "2023-09-14": 70982,
-  "2023-09-15": 70982,
-  "2023-09-16": 70982,
-  "2023-09-17": 70982,
-  "2023-09-18": 70982,
-  "2023-09-19": 70982,
-  "2023-09-20": 70982,
-  "2023-09-21": 70982,
-  "2023-09-22": 70982,
-  "2023-09-23": 70982,
-  "2023-09-24": 70982,
-  "2023-09-25": 70982,
-  "2023-09-26": 70982,
-  "2023-09-27": 70982,
-  "2023-09-28": 70982,
-  "2023-09-29": 70982,
-  "2023-09-30": 70982,
-  "2023-10-01": 70982,
-  "2023-10-02": 70982,
-  "2023-10-03": 70982,
-  "2023-10-04": 70982,
-  "2023-10-05": 70982,
-  "2023-10-06": 70982,
-  "2023-10-07": 70982,
-  "2023-10-08": 70982,
-  "2023-10-09": 70982,
-  "2023-10-10": 70982,
-  "2023-10-11": 70982,
-  "2023-10-12": 70982,
-  "2023-10-13": 70982,
-  "2023-10-14": 70982,
-  "2023-10-15": 70982,
-  "2023-10-16": 70982,
-  "2023-10-17": 70982,
-  "2023-10-18": 70982,
-  "2023-10-19": 70982,
-  "2023-10-20": 70982,
-  "2023-10-21": 70982,
-  "2023-10-22": 70982,
-  "2023-10-23": 70982,
-  "2023-10-24": 70982,
-  "2023-10-25": 70982,
-  "2023-10-26": 70982,
-  "2023-10-27": 70982,
-  "2023-10-28": 70982,
-  "2023-10-29": 70982,
-  "2023-10-30": 70982,
-  "2023-10-31": 70982,
-  "2023-11-01": 70982,
-  "2023-11-02": 70982,
-  "2023-11-03": 70982,
-  "2023-11-04": 70982,
-  "2023-11-05": 70982,
-  "2023-11-06": 70982,
-  "2023-11-07": 70982,
-  "2023-11-08": 70982,
-  "2023-11-09": 70982,
-  "2023-11-10": 70982,
-  "2023-11-11": 70982,
-  "2023-11-12": 70982,
-  "2023-11-13": 70982,
-  "2023-11-14": 70982,
-  "2023-11-15": 70982,
-  "2023-11-16": 70982,
-  "2023-11-17": 70982,
-  "2023-11-18": 70982,
-  "2023-11-19": 70982,
-  "2023-11-20": 70982,
-  "2023-11-21": 70982,
-  "2023-11-22": 70982,
-  "2023-11-23": 70982,
-  "2023-11-24": 70982,
-  "2023-11-25": 70982,
-  "2023-11-26": 70982,
-  "2023-11-27": 70982,
-  "2023-11-28": 70982,
-  "2023-11-29": 70982,
-  "2023-11-30": 70982,
-  "2023-12-01": 70982,
-  "2023-12-02": 70982,
-  "2023-12-03": 70982,
-  "2023-12-04": 70982,
-  "2023-12-05": 70982,
-  "2023-12-06": 70982,
-  "2023-12-07": 70982,
-  "2023-12-08": 70982,
-  "2023-12-09": 70982,
-  "2023-12-10": 70982,
-  "2023-12-11": 70982,
-  "2023-12-12": 70982,
-  "2023-12-13": 70982,
-  "2023-12-14": 70982,
-  "2023-12-15": 70982,
-  "2023-12-16": 70982,
-  "2023-12-17": 70982,
-  "2023-12-18": 70982,
-  "2023-12-19": 70982,
-  "2023-12-20": 70982,
-  "2023-12-21": 70982,
-  "2023-12-22": 70982,
-  "2023-12-23": 70982,
-  "2023-12-24": 70982,
-  "2023-12-25": 70982,
-  "2023-12-26": 70982,
-  "2023-12-27": 70982,
-  "2023-12-30": 70982,
-  "2023-12-31": 70982,
-  "2024-01-01": 70982,
-  "2024-01-02": 70982,
-  "2024-01-03": 70982
+  "2024-01-17": 70982,
+  "date_first_scraped": "2021-12-21",
+  "description": "All of the classics songs, all in one place.",
+  "name": "This Is NOFX (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "WAR ON ERRORISM",
+        "url": "https://open.spotify.com/album/1VXa39MgJU8qDE1ASn9Wgp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115426,
+      "name": "13 Stitches",
+      "url": "https://open.spotify.com/track/3XIhqwQ3E9RvSNhqmRUwzK"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216146,
+      "name": "72 Hookers",
+      "url": "https://open.spotify.com/track/6ygt47IVZadpbiTa7VOrTS"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112493,
+      "name": "All Outta Angst",
+      "url": "https://open.spotify.com/track/0eVZhPIexAYqdwKNqSp3Qm"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58000,
+      "name": "And Now For Something Completely Similar",
+      "url": "https://open.spotify.com/track/4VL8aja5WvfzgHUaoMxJsB"
+    },
+    {
+      "album": {
+        "name": "45 Or 46 Songs That Weren't Good Enough To Go On Our Other Records",
+        "url": "https://open.spotify.com/album/1SjtlpLTKdp5MdNZ2cnVTp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107106,
+      "name": "Bath Of Least Resistance",
+      "url": "https://open.spotify.com/track/0qVdQqVeBLkV9CJ07gKVjd"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214662,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/3BAQ7xXZ3D5xYTicUXeX2B"
+    },
+    {
+      "album": {
+        "name": "White Trash ......",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122160,
+      "name": "Bob",
+      "url": "https://open.spotify.com/track/5XhMeCYrRhQjL4sUoOmUCE"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "Bottles To The Ground",
+      "url": "https://open.spotify.com/track/3HAaAv2B4K8spZoYiTJjC3"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194373,
+      "name": "California Drought",
+      "url": "https://open.spotify.com/track/4MgByHpR0xQGWAVgj3g2n1"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122746,
+      "name": "Cell Out",
+      "url": "https://open.spotify.com/track/2zqwhcgI0rSMbSCNUTb1f1"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/6V43R4bYJqOBI9Iv60NgDR"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165653,
+      "name": "Creeping Out Sara",
+      "url": "https://open.spotify.com/track/2AJBnWVcK4bUWlTuIQAEyS"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178573,
+      "name": "Dinosaurs Will Die",
+      "url": "https://open.spotify.com/track/4kRDPODRnN9Cbyrcg9qTkE"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153426,
+      "name": "Don't Call Me White",
+      "url": "https://open.spotify.com/track/0cntShbC3GmWXygfH98brk"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "Eat The Meek",
+      "url": "https://open.spotify.com/track/1nROHtrrwFTvT0TuvFr91D"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/1blXCsgU60TIzpMInvXihb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "First Call",
+      "url": "https://open.spotify.com/track/5h522Jn83DAt587P3tYSCu"
+    },
+    {
+      "album": {
+        "name": "WAR ON ERRORISM",
+        "url": "https://open.spotify.com/album/1VXa39MgJU8qDE1ASn9Wgp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Franco Un-American",
+      "url": "https://open.spotify.com/track/5fkZFWms1Z7r9QtZ20aEbS"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134581,
+      "name": "Fuck Euphemism",
+      "url": "https://open.spotify.com/track/2GBrJjTBrCDY10chjDi4sJ"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104466,
+      "name": "Green Corn",
+      "url": "https://open.spotify.com/track/7a8JLhUwa7IWKEKsyJjk9X"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/6V43R4bYJqOBI9Iv60NgDR"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156746,
+      "name": "I Am an Alcoholic",
+      "url": "https://open.spotify.com/track/7eu4YeUsHL7D8iROkspiCQ"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150053,
+      "name": "I Don't Like Me Anymore",
+      "url": "https://open.spotify.com/track/3V5YvDJvJYLrjzuzl23dC9"
+    },
+    {
+      "album": {
+        "name": "I Love You More Than I Hate Me",
+        "url": "https://open.spotify.com/album/0mbnURuAoEnF4ws1qhhUWb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158094,
+      "name": "I Love You More Than I Hate Me",
+      "url": "https://open.spotify.com/track/3AqzfDm9ekws7ht3DgHO6Q"
+    },
+    {
+      "album": {
+        "name": "WAR ON ERRORISM",
+        "url": "https://open.spotify.com/album/1VXa39MgJU8qDE1ASn9Wgp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201493,
+      "name": "Idiots Are Taking Over",
+      "url": "https://open.spotify.com/track/4VbxdisxYEkQhSWVE5kwn8"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93973,
+      "name": "It Ain't Lonely at the Bottom",
+      "url": "https://open.spotify.com/track/70d04T9HM4HTFbiaMOffHr"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80800,
+      "name": "It's My Job To Keep Punk Rock Elite",
+      "url": "https://open.spotify.com/track/6vWVPfnyCENt9znrCy2UNj"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Kids Of The K-Hole",
+      "url": "https://open.spotify.com/track/0VA74cZ3LW5Ne8NwxXjnQk"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124426,
+      "name": "Leave It Alone",
+      "url": "https://open.spotify.com/track/2EPi4anyxVjKTcJwPtntjM"
+    },
+    {
+      "album": {
+        "name": "Wolves In Wolves' Clothing",
+        "url": "https://open.spotify.com/album/6wC19Jlqxk3xU9PJ5sOO2d"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174226,
+      "name": "Leaving Jesusland",
+      "url": "https://open.spotify.com/track/1PgvtqADjMIff8OQIP5VZc"
+    },
+    {
+      "album": {
+        "name": "Single Album",
+        "url": "https://open.spotify.com/album/7clMEugC4qJ1ApbscpXsaL"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        },
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199781,
+      "name": "Linewleum (feat. Avenged Sevenfold)",
+      "url": "https://open.spotify.com/track/0LIfpDM2OVNy2acS0aghJi"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Linoleum",
+      "url": "https://open.spotify.com/track/4uB28m7RAflobYpnLMb6A2"
+    },
+    {
+      "album": {
+        "name": "White Trash ......",
+        "url": "https://open.spotify.com/album/1DU4G6LgsFpUvCh0wr4pXC"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142466,
+      "name": "Liza And Louise",
+      "url": "https://open.spotify.com/track/70hkq8LFledZTjTTbMKHix"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109640,
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/6JV3drSaqeGAcKjglOtopa"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54600,
+      "name": "Monosyllabic Girl",
+      "url": "https://open.spotify.com/track/0yDDdizXdRx2qVceUPHYNF"
+    },
+    {
+      "album": {
+        "name": "So Long & Thanks For All The Shoes",
+        "url": "https://open.spotify.com/album/1EaixZGxjvdZIsRiyMBZDb"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45960,
+      "name": "Murder The Government",
+      "url": "https://open.spotify.com/track/206dccqnCtUSlHpDE2t216"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Oxy Moronic",
+      "url": "https://open.spotify.com/track/3Sp7KjYl7Wyh5GIq3AaXRz"
+    },
+    {
+      "album": {
+        "name": "Heavy Petting Zoo",
+        "url": "https://open.spotify.com/album/5SoeTpVu2MFq5RlCsdRBf2"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Philthy Phil Philanthropist",
+      "url": "https://open.spotify.com/track/6Hzi3cauk9QwPekt38AYUe"
+    },
+    {
+      "album": {
+        "name": "45 Or 46 Songs That Weren't Good Enough To Go On Our Other Records",
+        "url": "https://open.spotify.com/album/1SjtlpLTKdp5MdNZ2cnVTp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133760,
+      "name": "Pimps And Hookers",
+      "url": "https://open.spotify.com/track/7r6aC224HJLx9bXvLYUV6n"
+    },
+    {
+      "album": {
+        "name": "White Trash ......",
+        "url": "https://open.spotify.com/album/1DU4G6LgsFpUvCh0wr4pXC"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Please Play This Song On The Radio",
+      "url": "https://open.spotify.com/track/40veYoWOSnBsEGI0Tf22q4"
+    },
+    {
+      "album": {
+        "name": "Self Entitled",
+        "url": "https://open.spotify.com/album/0JjybJOVXNKD7qyD5CRU2n"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129213,
+      "name": "Ronnie & Mags",
+      "url": "https://open.spotify.com/track/6uLS0XfJl42rfzmPCz0CEa"
+    },
+    {
+      "album": {
+        "name": "Wolves In Wolves' Clothing",
+        "url": "https://open.spotify.com/album/3ZsIGWbfDsZ87gEALGMyrg"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129666,
+      "name": "Seeing Double at the Triple Rock",
+      "url": "https://open.spotify.com/track/5toHVn824NjXwfl0ADuv1Z"
+    },
+    {
+      "album": {
+        "name": "Stoke Extinguisher",
+        "url": "https://open.spotify.com/album/45yaHIfsCvCNLGUMEM0KA4"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133653,
+      "name": "Shortest Pier",
+      "url": "https://open.spotify.com/track/4hTA6eiYpgA0IMELmDWj6p"
+    },
+    {
+      "album": {
+        "name": "First Ditch Effort",
+        "url": "https://open.spotify.com/album/7C0KC68isgrHpV43072lYE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92106,
+      "name": "Six Years on Dope",
+      "url": "https://open.spotify.com/track/2eKVo1JrBjEM7fiR6JPiU7"
+    },
+    {
+      "album": {
+        "name": "White Trash ......",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166333,
+      "name": "Soul Doubt",
+      "url": "https://open.spotify.com/track/3TYC9jm4RXCPomDD4V3KRD"
+    },
+    {
+      "album": {
+        "name": "White Trash ......",
+        "url": "https://open.spotify.com/album/5dbWoqjHDExyrEJD9ftnay"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "Stickin In My Eye",
+      "url": "https://open.spotify.com/track/46mov5j25a6BXrxNQKUwiA"
+    },
+    {
+      "album": {
+        "name": "West Coast vs. Wessex",
+        "url": "https://open.spotify.com/album/1V0jqCyz5StIhGp16Ggdz7"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165857,
+      "name": "Substitute",
+      "url": "https://open.spotify.com/track/6FOktD0ZXPpXdGQDHgEdrJ"
+    },
+    {
+      "album": {
+        "name": "Punk In Drublic",
+        "url": "https://open.spotify.com/album/6Z8BYH27wINoUk4QMUx7gh"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "The Brews",
+      "url": "https://open.spotify.com/track/4khRfibu32AGybm3FmGzk0"
+    },
+    {
+      "album": {
+        "name": "The Longest Line",
+        "url": "https://open.spotify.com/album/3D1HfxzgfVMOjfQ8aW9oTy"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124026,
+      "name": "The Longest Line",
+      "url": "https://open.spotify.com/track/0OaIacT5NA9aP9x32f9MbW"
+    },
+    {
+      "album": {
+        "name": "Ribbed",
+        "url": "https://open.spotify.com/album/1zSh4dywDdr83HQGpvOwCQ"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146933,
+      "name": "The Moron Brothers",
+      "url": "https://open.spotify.com/track/7B0XWr4O3lvYjNHSXPLsbI"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/6V43R4bYJqOBI9Iv60NgDR"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111960,
+      "name": "The Quitter",
+      "url": "https://open.spotify.com/track/6SyiOqzp5nXfNyH9G4eyns"
+    },
+    {
+      "album": {
+        "name": "WAR ON ERRORISM",
+        "url": "https://open.spotify.com/album/1VXa39MgJU8qDE1ASn9Wgp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189733,
+      "name": "The Separation of Church and Skate",
+      "url": "https://open.spotify.com/track/3h9fmKrVyR3qluy5SAeg9a"
+    },
+    {
+      "album": {
+        "name": "Coaster",
+        "url": "https://open.spotify.com/album/6V43R4bYJqOBI9Iv60NgDR"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127853,
+      "name": "We Called It America",
+      "url": "https://open.spotify.com/track/3OSP4UQXbUFTcnqn6Y89MF"
+    },
+    {
+      "album": {
+        "name": "45 Or 46 Songs That Weren't Good Enough To Go On Our Other Records",
+        "url": "https://open.spotify.com/album/1SjtlpLTKdp5MdNZ2cnVTp"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "We Threw Gasoline On The Fire And Now We Have Stumps For Arms And No Eyebrows",
+      "url": "https://open.spotify.com/track/5YdWwJNrJk7q8TARe5lmwB"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Valuum",
+        "url": "https://open.spotify.com/album/37hvw6OVfRLktCmFcU9zHE"
+      },
+      "artists": [
+        {
+          "name": "NOFX",
+          "url": "https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "What's The Matter With Parents Today?",
+      "url": "https://open.spotify.com/track/6SWTXSLOkxrFqJc6WPM0bu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6KE9M7aTCxK"
 }

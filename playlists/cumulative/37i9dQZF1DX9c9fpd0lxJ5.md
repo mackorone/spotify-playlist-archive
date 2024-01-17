@@ -4,7 +4,7 @@
 
 > indie tunes to make you shine bby :\)
 
-216 songs - 12 hr 8 min
+217 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [Qué Dulce](https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W) | [Jorge Cajías](https://open.spotify.com/artist/2z2C1fMK0nlrWR2pGqfdNe), [Claudia Prieto](https://open.spotify.com/artist/3sjhqldeYK5lqWkyefb1jG) | [Qué Dulce](https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5) | 2:13 | 2021-12-29 |  |
 | [Quédate](https://open.spotify.com/track/5SCfCT6p0jWAgsXoY8iES1) | [Sofá Kids](https://open.spotify.com/artist/4pAPbmRONLpIIfWz3jHDsI) | [Necesito Calma](https://open.spotify.com/album/0ng3ANiVuCmLwaaq9Vl4zA) | 3:19 | 2021-12-29 | 2022-07-29 |
 | [Reconciliados](https://open.spotify.com/track/1udMSoGRgHpRvPMqCuc4m2) | [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Reconciliados](https://open.spotify.com/album/35XiSHghDUxUBzj7oXDau3) | 2:49 | 2022-12-02 |  |
+| [Reina Leona](https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Reina Leona](https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE) | 3:07 | 2024-01-12 |  |
 | [Ritmo Natural](https://open.spotify.com/track/13h03rdDvweAVeunMnw8si) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6) | [Ritmo Natural](https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu) | 3:22 | 2023-04-04 |  |
 | [Rompecabezas](https://open.spotify.com/track/2pT8BGhoG1InTRD3LIjyB8) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/3Q6G0bA46mkuuYWGXvaVAH) | 5:32 | 2023-04-21 |  |
 | [Rompecabezas](https://open.spotify.com/track/3Y5l5pPl8dsQa302fZYf5z) | [Solo Fernández](https://open.spotify.com/artist/0bvP91QlkYvAFP71Cw6PkM) | [Multicolor](https://open.spotify.com/album/2STyrwQukQzXgPvu3uuFUN) | 5:32 | 2021-12-29 | 2022-12-11 |
@@ -204,7 +205,7 @@
 | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/track/12MFhpEpwzmtNkO1r8Kqxa) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Todo Is Gonna Be Alright, Mi Amor](https://open.spotify.com/album/544UD49q01Pe3ItnRi0tRw) | 3:12 | 2021-12-29 | 2023-03-04 |
 | [Todo Lamento](https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Todo Lamento](https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm) | 2:35 | 2022-01-26 |  |
 | [Todo Pasa](https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Todo Pasa](https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR) | 2:38 | 2022-06-15 | 2023-12-10 |
-| [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-12-02 |  |
+| [Trebol](https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o) | [Ben Aler](https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R) | [Trebol](https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD) | 3:46 | 2022-12-02 | 2024-01-13 |
 | [Tu Forma](https://open.spotify.com/track/6SullLVOVzuWkaCCHJhQaS) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Tu Forma](https://open.spotify.com/album/5C4E1kwoa7VWHEXIwdEOoK) | 2:34 | 2023-04-21 |  |
 | [tu y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [ARIEL](https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 | 2023-04-07 |  |
 | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/track/3CQ8mdIze27yCr4DNGas7f) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Tumbado En El Jardín Viendo Atardecer](https://open.spotify.com/album/3MMWQpliapfNub2AegCIYq) | 4:34 | 2021-12-29 | 2023-03-04 |

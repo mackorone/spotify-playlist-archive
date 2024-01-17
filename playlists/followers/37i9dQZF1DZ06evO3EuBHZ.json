@@ -1,512 +1,2573 @@
 {
-  "2022-08-06": 6400,
-  "2022-08-07": 6421,
-  "2022-08-08": 6448,
-  "2022-08-09": 6467,
-  "2022-08-10": 6490,
-  "2022-08-11": 6504,
-  "2022-08-12": 6525,
-  "2022-08-13": 6547,
-  "2022-08-14": 6568,
-  "2022-08-15": 6587,
-  "2022-08-16": 6609,
-  "2022-08-17": 6636,
-  "2022-08-18": 6656,
-  "2022-08-19": 6673,
-  "2022-08-20": 6689,
-  "2022-08-21": 6702,
-  "2022-08-22": 6727,
-  "2022-08-23": 6737,
-  "2022-08-24": 6757,
-  "2022-08-25": 6772,
-  "2022-08-26": 6787,
-  "2022-08-27": 6794,
-  "2022-08-28": 6814,
-  "2022-08-29": 6827,
-  "2022-08-30": 6831,
-  "2022-08-31": 6839,
-  "2022-09-01": 6852,
-  "2022-09-02": 6865,
-  "2022-09-03": 6873,
-  "2022-09-04": 6893,
-  "2022-09-05": 6924,
-  "2022-09-06": 6953,
-  "2022-09-07": 6969,
-  "2022-09-09": 6999,
-  "2022-09-10": 7008,
-  "2022-09-11": 7028,
-  "2022-09-12": 7054,
-  "2022-09-13": 7069,
-  "2022-09-15": 7096,
-  "2022-09-16": 7108,
-  "2022-09-17": 7116,
-  "2022-09-18": 7137,
-  "2022-09-19": 7152,
-  "2022-09-20": 7161,
-  "2022-09-21": 7171,
-  "2022-09-22": 7187,
-  "2022-09-23": 7203,
-  "2022-09-24": 7203,
-  "2022-09-25": 7239,
-  "2022-09-26": 7255,
-  "2022-09-27": 7267,
-  "2022-09-28": 7278,
-  "2022-09-29": 7284,
-  "2022-09-30": 7295,
-  "2022-10-01": 7302,
-  "2022-10-02": 7319,
-  "2022-10-03": 7333,
-  "2022-10-04": 7346,
-  "2022-10-05": 7361,
-  "2022-10-06": 7370,
-  "2022-10-07": 7379,
-  "2022-10-08": 7389,
-  "2022-10-09": 7414,
-  "2022-10-10": 7416,
-  "2022-10-11": 7434,
-  "2022-10-12": 7448,
-  "2022-10-13": 7456,
-  "2022-10-14": 7467,
-  "2022-10-15": 7476,
-  "2022-10-16": 7482,
-  "2022-10-17": 7495,
-  "2022-10-18": 7499,
-  "2022-10-19": 7512,
-  "2022-10-20": 7522,
-  "2022-10-21": 7535,
-  "2022-10-22": 7551,
-  "2022-10-23": 7566,
-  "2022-10-24": 7575,
-  "2022-10-25": 7584,
-  "2022-10-26": 7590,
-  "2022-10-27": 7592,
-  "2022-10-28": 7602,
-  "2022-10-29": 7613,
-  "2022-10-30": 7624,
-  "2022-10-31": 7631,
-  "2022-11-01": 7643,
-  "2022-11-02": 7660,
-  "2022-11-03": 7667,
-  "2022-11-04": 7676,
-  "2022-11-05": 7689,
-  "2022-11-06": 7696,
-  "2022-11-07": 7709,
-  "2022-11-08": 7722,
-  "2022-11-09": 7738,
-  "2022-11-10": 7747,
-  "2022-11-11": 7753,
-  "2022-11-12": 7771,
-  "2022-11-13": 7778,
-  "2022-11-14": 7789,
-  "2022-11-15": 7789,
-  "2022-11-16": 7798,
-  "2022-11-17": 7805,
-  "2022-11-18": 7807,
-  "2022-11-19": 7812,
-  "2022-11-20": 7818,
-  "2022-11-21": 7829,
-  "2022-11-22": 7838,
-  "2022-11-23": 7849,
-  "2022-11-24": 7862,
-  "2022-11-25": 7875,
-  "2022-11-26": 7883,
-  "2022-11-27": 7890,
-  "2022-11-28": 7899,
-  "2022-11-29": 7905,
-  "2022-11-30": 7908,
-  "2022-12-01": 7911,
-  "2022-12-02": 7918,
-  "2022-12-03": 7929,
-  "2022-12-04": 7942,
-  "2022-12-05": 7947,
-  "2022-12-06": 7949,
-  "2022-12-07": 7956,
-  "2022-12-08": 7968,
-  "2022-12-09": 7978,
-  "2022-12-10": 7988,
-  "2022-12-11": 7997,
-  "2022-12-12": 8019,
-  "2022-12-13": 8032,
-  "2022-12-14": 8044,
-  "2022-12-15": 8055,
-  "2022-12-16": 8063,
-  "2022-12-17": 8069,
-  "2022-12-18": 8083,
-  "2022-12-19": 8091,
-  "2022-12-20": 8101,
-  "2022-12-21": 8101,
-  "2022-12-22": 8113,
-  "2022-12-24": 8137,
-  "2022-12-25": 8146,
-  "2022-12-26": 8161,
-  "2022-12-27": 8175,
-  "2022-12-28": 8182,
-  "2022-12-29": 8191,
-  "2022-12-30": 8204,
-  "2022-12-31": 8219,
-  "2023-01-01": 8232,
-  "2023-01-02": 8243,
-  "2023-01-03": 8249,
-  "2023-01-04": 8257,
-  "2023-01-05": 8261,
-  "2023-01-06": 8268,
-  "2023-01-07": 8287,
-  "2023-01-08": 8290,
-  "2023-01-09": 8301,
-  "2023-01-10": 8308,
-  "2023-01-11": 8319,
-  "2023-01-12": 8324,
-  "2023-01-13": 8333,
-  "2023-01-14": 8351,
-  "2023-01-15": 8353,
-  "2023-01-16": 8367,
-  "2023-01-17": 8369,
-  "2023-01-18": 8375,
-  "2023-01-19": 8386,
-  "2023-01-20": 8405,
-  "2023-01-21": 8414,
-  "2023-01-22": 8428,
-  "2023-01-23": 8446,
-  "2023-01-24": 8456,
-  "2023-01-25": 8472,
-  "2023-01-26": 8481,
-  "2023-01-27": 8493,
-  "2023-01-28": 8502,
-  "2023-01-29": 8521,
-  "2023-01-30": 8543,
-  "2023-01-31": 8543,
-  "2023-02-01": 8563,
-  "2023-02-02": 8573,
-  "2023-02-03": 8586,
-  "2023-02-04": 8591,
-  "2023-02-05": 8607,
-  "2023-02-06": 8620,
-  "2023-02-07": 8630,
-  "2023-02-08": 8660,
-  "2023-02-09": 8660,
-  "2023-02-10": 8666,
-  "2023-02-11": 8678,
-  "2023-02-12": 8696,
-  "2023-02-13": 8707,
-  "2023-02-14": 8707,
-  "2023-02-15": 8715,
-  "2023-02-16": 8721,
-  "2023-02-17": 8737,
-  "2023-02-18": 8773,
-  "2023-02-19": 8775,
-  "2023-02-20": 8785,
-  "2023-02-21": 8805,
-  "2023-02-22": 8821,
-  "2023-02-23": 8830,
-  "2023-02-24": 8851,
-  "2023-02-25": 8878,
-  "2023-02-26": 8895,
-  "2023-02-27": 8937,
-  "2023-02-28": 8937,
-  "2023-03-01": 8950,
-  "2023-03-02": 8957,
-  "2023-03-03": 8979,
-  "2023-03-04": 8991,
-  "2023-03-05": 9038,
-  "2023-03-06": 9038,
-  "2023-03-07": 9059,
-  "2023-03-08": 9078,
-  "2023-03-09": 9091,
-  "2023-03-10": 9131,
-  "2023-03-11": 9146,
-  "2023-03-12": 9156,
-  "2023-03-13": 9168,
-  "2023-03-14": 9183,
-  "2023-03-15": 9200,
-  "2023-03-16": 9200,
-  "2023-03-17": 9200,
-  "2023-03-18": 9233,
-  "2023-03-19": 9233,
-  "2023-03-20": 9269,
-  "2023-03-21": 9288,
-  "2023-03-22": 9303,
-  "2023-03-23": 9301,
-  "2023-03-24": 9301,
-  "2023-03-25": 9327,
-  "2023-03-26": 9334,
-  "2023-03-27": 9350,
-  "2023-03-28": 9359,
-  "2023-03-29": 9371,
-  "2023-03-30": 9402,
-  "2023-03-31": 9402,
-  "2023-04-01": 9410,
-  "2023-04-02": 9427,
-  "2023-04-03": 9434,
-  "2023-04-04": 9455,
-  "2023-04-05": 9466,
-  "2023-04-06": 9479,
-  "2023-04-07": 9492,
-  "2023-04-09": 9525,
-  "2023-04-10": 9539,
-  "2023-04-11": 9558,
-  "2023-04-12": 9558,
-  "2023-04-13": 9571,
-  "2023-04-14": 9578,
-  "2023-04-15": 9590,
-  "2023-04-16": 9612,
-  "2023-04-17": 9615,
-  "2023-04-18": 9628,
-  "2023-04-19": 9639,
-  "2023-04-20": 9648,
-  "2023-04-21": 9660,
-  "2023-04-22": 9663,
-  "2023-04-23": 9669,
-  "2023-04-24": 9674,
-  "2023-04-25": 9686,
-  "2023-04-26": 9696,
-  "2023-04-27": 9704,
-  "2023-04-28": 9709,
-  "2023-04-29": 9715,
-  "2023-04-30": 9726,
-  "2023-05-01": 9739,
-  "2023-05-02": 9756,
-  "2023-05-03": 9767,
-  "2023-05-04": 9776,
-  "2023-05-05": 9785,
-  "2023-05-06": 9793,
-  "2023-05-07": 9801,
-  "2023-05-08": 9809,
-  "2023-05-09": 9820,
-  "2023-05-10": 9831,
-  "2023-05-11": 9831,
-  "2023-05-12": 9836,
-  "2023-05-13": 9845,
-  "2023-05-14": 9849,
-  "2023-05-15": 9861,
-  "2023-05-16": 9866,
-  "2023-05-17": 9874,
-  "2023-05-18": 9879,
-  "2023-05-19": 9884,
-  "2023-05-20": 9900,
-  "2023-05-21": 9900,
-  "2023-05-22": 9900,
-  "2023-05-23": 9916,
-  "2023-05-24": 9927,
-  "2023-05-25": 9927,
-  "2023-05-26": 9937,
-  "2023-05-27": 9945,
-  "2023-05-28": 9952,
-  "2023-05-29": 9952,
-  "2023-05-30": 9962,
-  "2023-05-31": 9973,
-  "2023-06-01": 9977,
-  "2023-06-02": 9990,
-  "2023-06-03": 9998,
-  "2023-06-04": 10004,
-  "2023-06-05": 10019,
-  "2023-06-06": 10025,
-  "2023-06-07": 10038,
-  "2023-06-08": 10049,
-  "2023-06-09": 10054,
-  "2023-06-10": 10066,
-  "2023-06-11": 10073,
-  "2023-06-12": 10083,
-  "2023-06-13": 10091,
-  "2023-06-14": 10103,
-  "2023-06-15": 10112,
-  "2023-06-16": 10128,
-  "2023-06-17": 10132,
-  "2023-06-18": 10141,
-  "2023-06-19": 10147,
-  "2023-06-20": 10152,
-  "2023-06-21": 10156,
-  "2023-06-22": 10167,
-  "2023-06-23": 10173,
-  "2023-06-24": 10180,
-  "2023-06-25": 10182,
-  "2023-06-26": 10187,
-  "2023-06-27": 10193,
-  "2023-06-28": 10199,
-  "2023-06-29": 10207,
-  "2023-06-30": 10217,
-  "2023-07-01": 10227,
-  "2023-07-02": 10227,
-  "2023-07-03": 10238,
-  "2023-07-04": 10248,
-  "2023-07-05": 10256,
-  "2023-07-06": 10270,
-  "2023-07-07": 10270,
-  "2023-07-08": 10270,
-  "2023-07-09": 10274,
-  "2023-07-10": 10283,
-  "2023-07-11": 10286,
-  "2023-07-12": 10291,
-  "2023-07-13": 10293,
-  "2023-07-14": 10298,
-  "2023-07-15": 10307,
-  "2023-07-16": 10312,
-  "2023-07-17": 10320,
-  "2023-07-18": 10324,
-  "2023-07-19": 10332,
-  "2023-07-20": 10332,
-  "2023-07-21": 10344,
-  "2023-07-22": 10354,
-  "2023-07-23": 10364,
-  "2023-07-24": 10370,
-  "2023-07-25": 10381,
-  "2023-07-26": 10392,
-  "2023-07-27": 10396,
-  "2023-07-28": 10410,
-  "2023-07-29": 10414,
-  "2023-07-30": 10418,
-  "2023-07-31": 10426,
-  "2023-08-01": 10433,
-  "2023-08-02": 10435,
-  "2023-08-03": 10446,
-  "2023-08-04": 10447,
-  "2023-08-05": 10451,
-  "2023-08-06": 10461,
-  "2023-08-07": 10461,
-  "2023-08-08": 10471,
-  "2023-08-09": 10481,
-  "2023-08-10": 10488,
-  "2023-08-11": 10494,
-  "2023-08-12": 10494,
-  "2023-08-13": 10494,
-  "2023-08-14": 10522,
-  "2023-08-15": 10522,
-  "2023-08-16": 10522,
-  "2023-08-17": 10522,
-  "2023-08-18": 10522,
-  "2023-08-19": 10522,
-  "2023-08-20": 10568,
-  "2023-08-21": 10568,
-  "2023-08-22": 10584,
-  "2023-08-23": 10584,
-  "2023-08-24": 10584,
-  "2023-08-25": 10584,
-  "2023-08-26": 10610,
-  "2023-08-27": 10610,
-  "2023-08-28": 10630,
-  "2023-08-29": 10630,
-  "2023-08-30": 10630,
-  "2023-08-31": 10649,
-  "2023-09-01": 10653,
-  "2023-09-02": 10653,
-  "2023-09-03": 10653,
-  "2023-09-04": 10653,
-  "2023-09-05": 10653,
-  "2023-09-06": 10653,
-  "2023-09-07": 10653,
-  "2023-09-08": 10653,
-  "2023-09-09": 10653,
-  "2023-09-10": 10653,
-  "2023-09-11": 10653,
-  "2023-09-12": 10653,
-  "2023-09-13": 10653,
-  "2023-09-14": 10653,
-  "2023-09-15": 10653,
-  "2023-09-16": 10839,
-  "2023-09-17": 10839,
-  "2023-09-18": 10839,
-  "2023-09-19": 10871,
-  "2023-09-20": 10871,
-  "2023-09-21": 10871,
-  "2023-09-22": 10894,
-  "2023-09-23": 10894,
-  "2023-09-24": 10894,
-  "2023-09-25": 10894,
-  "2023-09-26": 10936,
-  "2023-09-27": 10936,
-  "2023-09-28": 10936,
-  "2023-09-29": 10936,
-  "2023-09-30": 10936,
-  "2023-10-01": 10936,
-  "2023-10-02": 10936,
-  "2023-10-03": 10936,
-  "2023-10-04": 10936,
-  "2023-10-05": 10936,
-  "2023-10-06": 10936,
-  "2023-10-07": 10936,
-  "2023-10-08": 10936,
-  "2023-10-09": 10936,
-  "2023-10-10": 10936,
-  "2023-10-11": 11023,
-  "2023-10-12": 11023,
-  "2023-10-13": 11023,
-  "2023-10-14": 11023,
-  "2023-10-15": 11023,
-  "2023-10-16": 11023,
-  "2023-10-17": 11023,
-  "2023-10-18": 11023,
-  "2023-10-19": 11023,
-  "2023-10-20": 11023,
-  "2023-10-21": 11023,
-  "2023-10-22": 11023,
-  "2023-10-23": 11023,
-  "2023-10-24": 11023,
-  "2023-10-25": 11023,
-  "2023-10-26": 11023,
-  "2023-10-27": 11023,
-  "2023-10-28": 11023,
-  "2023-10-29": 11023,
-  "2023-10-30": 11023,
-  "2023-10-31": 11023,
-  "2023-11-01": 11023,
-  "2023-11-02": 11023,
-  "2023-11-03": 11023,
-  "2023-11-04": 11023,
-  "2023-11-05": 11023,
-  "2023-11-06": 11023,
-  "2023-11-07": 11023,
-  "2023-11-08": 11023,
-  "2023-11-09": 11023,
-  "2023-11-10": 11023,
-  "2023-11-11": 11277,
-  "2023-11-12": 11277,
-  "2023-11-13": 11277,
-  "2023-11-14": 11277,
-  "2023-11-15": 11277,
-  "2023-11-16": 11277,
-  "2023-11-17": 11277,
-  "2023-11-18": 11277,
-  "2023-11-19": 11277,
-  "2023-11-20": 11277,
-  "2023-11-21": 11277,
-  "2023-11-22": 11277,
-  "2023-11-23": 11277,
-  "2023-11-24": 11277,
-  "2023-11-25": 11277,
-  "2023-11-26": 11277,
-  "2023-11-27": 11277,
-  "2023-11-28": 11277,
-  "2023-11-29": 11277,
-  "2023-11-30": 11277,
-  "2023-12-01": 11277,
-  "2023-12-02": 11277,
-  "2023-12-03": 11277,
-  "2023-12-04": 11277,
-  "2023-12-05": 11277,
-  "2023-12-06": 11277,
-  "2023-12-07": 11277,
-  "2023-12-08": 11277,
-  "2023-12-09": 11277,
-  "2023-12-10": 11277,
-  "2023-12-11": 11277,
-  "2023-12-12": 11277,
-  "2023-12-13": 11277,
-  "2023-12-14": 11490,
-  "2023-12-15": 11501,
-  "2023-12-16": 11511,
-  "2023-12-17": 11530,
-  "2023-12-18": 11536,
-  "2023-12-19": 11546,
-  "2023-12-20": 11556,
-  "2023-12-21": 11558,
-  "2023-12-22": 11562,
-  "2023-12-23": 11573,
-  "2023-12-24": 11585,
-  "2023-12-25": 11593,
-  "2023-12-26": 11601,
-  "2023-12-27": 11610,
-  "2023-12-30": 11623,
-  "2023-12-31": 11627,
-  "2024-01-01": 11638,
-  "2024-01-02": 11645,
-  "2024-01-03": 11657
+  "2024-01-17": 11764,
+  "date_first_scraped": "2022-08-06",
+  "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
+  "name": "This Is Big Mama Thornton",
+  "tracks": [
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 148053,
+      "name": "All Right Baby",
+      "url": "https://open.spotify.com/track/4JirhwNMpXAVL6XfNf9bkt"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 184613,
+      "name": "Bad Luck Got My Man",
+      "url": "https://open.spotify.com/track/0AVZXE7kqpIezn7HaYYzsw"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 186120,
+      "name": "Bad Luck Got My Man",
+      "url": "https://open.spotify.com/track/0kbDkZ4f0rgBbk6MEBDboq"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Harlem Stars",
+          "url": "https://open.spotify.com/artist/5J4ZUjIIEFtqhr3Jlhrt5f"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 186120,
+      "name": "Bad Luck Got My Man",
+      "url": "https://open.spotify.com/track/18LivOj3LQY7Ps8aPsjj4c"
+    },
+    {
+      "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 418640,
+      "name": "Ball 'n' Chain - Live",
+      "url": "https://open.spotify.com/track/5WB5WkcKbdgBZa7s2a8Zi5"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 435640,
+      "name": "Ball And Chain",
+      "url": "https://open.spotify.com/track/4Xrk3j5waSfsMpxJLfu6UO"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271200,
+      "name": "Ball N' Chain",
+      "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311906,
+      "name": "Big Mama Swings",
+      "url": "https://open.spotify.com/track/4T3FE0qQMLbWPzLjejvW9G"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 248053,
+      "name": "Big Mama's Blues (My Love)",
+      "url": "https://open.spotify.com/track/3l1Pf2ItsE3bt36BG3GySo"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 253080,
+      "name": "Big Mama's Bumble Bee",
+      "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "Big Mama's New Love",
+      "url": "https://open.spotify.com/track/4iodRZymyDaCqX4746CZEV"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 218146,
+      "name": "Big Mama's Shuffle",
+      "url": "https://open.spotify.com/track/1MsBIf9kuuVsTujZlDxz6w"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Black Rat - Take 4",
+      "url": "https://open.spotify.com/track/20OvWgveuLJbs6asSB8ncL"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Born Under A Bad Sign",
+      "url": "https://open.spotify.com/track/3hDh6pcJGXHPcTHPoswHN0"
+    },
+    {
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307306,
+      "name": "Chauffeur Blues",
+      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 169200,
+      "name": "Cotton Picking Blues",
+      "url": "https://open.spotify.com/track/32u9hRHJy738q7SqST4XJN"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 169200,
+      "name": "Cotton Picking Blues",
+      "url": "https://open.spotify.com/track/3KBJEKGaVuP1Uk1HDWt8An"
+    },
+    {
+      "album": {
+        "name": "Hound Dog - The Essential Collection",
+        "url": "https://open.spotify.com/album/5ae5Gdn2dc9snnBHV3fnE9"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 168594,
+      "name": "Don't Talk Back",
+      "url": "https://open.spotify.com/track/0BH8mz5msbTd1KRx9mOaja"
+    },
+    {
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "Down Home Shake-Down",
+      "url": "https://open.spotify.com/track/6QDIT5BB8mJDa1EBjeFL1y"
+    },
+    {
+      "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Everybody's Happy (But Me)",
+      "url": "https://open.spotify.com/track/4kxMP800A7HYTwvbYS7wFS"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 305893,
+      "name": "Everything Gonna Be Alright",
+      "url": "https://open.spotify.com/track/5VK783FVcaNdsx5iN0O7dN"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278013,
+      "name": "Gimme a Penny - Take 6",
+      "url": "https://open.spotify.com/track/5XDdfhTKYX8rzmxXZPZs0e"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 245977,
+      "name": "Goin' Down Slow - Live",
+      "url": "https://open.spotify.com/track/26vU7wmBi4sU0Snu4x0OAI"
+    },
+    {
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536533,
+      "name": "Gonna Leave You",
+      "url": "https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7"
+    },
+    {
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265346,
+      "name": "Good Time in London",
+      "url": "https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 263306,
+      "name": "Guide Me Home",
+      "url": "https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 133133,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/2cxSu8wg4ajFoco74HDG2N"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133160,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/1a190bvAYqk1wyChVSm6s1"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 133160,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/7H8a0ZcXknPTS3myoea6cE"
+    },
+    {
+      "album": {
+        "name": "Hard Times",
+        "url": "https://open.spotify.com/album/3HnaIhAXOz3yQcxyjYa9EF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133413,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/66oEmS5dIy9HIqTBZ6wrGQ"
+    },
+    {
+      "album": {
+        "name": "Hound Dog",
+        "url": "https://open.spotify.com/album/3WIcUr910RAoOgYbjc8tal"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 171885,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/6CdrBfgM40K9D1v5hM6qtE"
+    },
+    {
+      "album": {
+        "name": "Precious & Rare: Big Mama Thornton",
+        "url": "https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 172266,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/6ET5yCqDaaPJP6w7rvy1uM"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Hound Dog",
+      "url": "https://open.spotify.com/track/5Oc0vLGWdEWeCqIU8zyELt"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 171666,
+      "name": "Hound Dog - Single Version",
+      "url": "https://open.spotify.com/track/4GgmAsaolWaBPn4DofdCck"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251426,
+      "name": "Hound Dog / Walkin' the Dog",
+      "url": "https://open.spotify.com/track/3pZxCAMSg4Rky0QzlzqltY"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 251426,
+      "name": "Hound Dog / Walkin' the Dog",
+      "url": "https://open.spotify.com/track/5Xc5VFCpLZyLLA3stSErZI"
+    },
+    {
+      "album": {
+        "name": "The Orginal Hound Dog",
+        "url": "https://open.spotify.com/album/658zaQmPASrqYsobMOMJaq"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 156200,
+      "name": "How Come",
+      "url": "https://open.spotify.com/track/0Yd1gsErZKbd273wwt3QFg"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 143133,
+      "name": "I Ain't No Fool Either",
+      "url": "https://open.spotify.com/track/7531kRO4g6zJHiMlYVYOy6"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 145440,
+      "name": "I Ain't No Fool Either",
+      "url": "https://open.spotify.com/track/2cm4GcjBJXcuPIZYTblyDL"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 145440,
+      "name": "I Ain't No Fool Either",
+      "url": "https://open.spotify.com/track/4iTrXAA31RrdTSmWTeZHkZ"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 305040,
+      "name": "I Feel the Way I Feel",
+      "url": "https://open.spotify.com/track/4H6dFbaVG3OLNPsU4fAiaA"
+    },
+    {
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "I Need Your Love",
+      "url": "https://open.spotify.com/track/6rFIrlE27ICQ9FQ3n3ZCVo"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 105400,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/1AWq5kngyk5AnpNSxP7bdK"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 105426,
+      "name": "I Smell a Rat",
+      "url": "https://open.spotify.com/track/0cmaDKffwFzu66an87Yyc5"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 105426,
+      "name": "I Smell a Rat",
+      "url": "https://open.spotify.com/track/6ZNk5OwHUQereZqnUZClqX"
+    },
+    {
+      "album": {
+        "name": "The Singles Collection 1951-61",
+        "url": "https://open.spotify.com/album/0d6eyA2kqKoZBBq5YmPd0f"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 155120,
+      "name": "I'm All Fed Up",
+      "url": "https://open.spotify.com/track/3lz4NsL7dgpkZcHQbViZP1"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181586,
+      "name": "I'm Feeling Alright",
+      "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
+    },
+    {
+      "album": {
+        "name": "Partnership Blues",
+        "url": "https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 141526,
+      "name": "I've Searched the World Over",
+      "url": "https://open.spotify.com/track/5YZjX7oAmuRKTxWPeq2VwA"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 143840,
+      "name": "I've Searched the World Over",
+      "url": "https://open.spotify.com/track/0bvOaYXInXq13aY6mPUaih"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 136760,
+      "name": "Instrumental, Pt.1 - Live",
+      "url": "https://open.spotify.com/track/6j2cPdiSCFNdGKkNVcEilF"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 176332,
+      "name": "Instrumental, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ"
+    },
+    {
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356472,
+      "name": "Jail",
+      "url": "https://open.spotify.com/track/6UfkzygIHyHn7UeMTzWsny"
+    },
+    {
+      "album": {
+        "name": "Precious & Rare: Big Mama Thornton",
+        "url": "https://open.spotify.com/album/2pOwJN6EjTB2vKLIIcmXXV"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 177693,
+      "name": "Just Can't Help Myself",
+      "url": "https://open.spotify.com/track/5frqneKJk7urRuJop06Pun"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 178693,
+      "name": "Just Can't Help Myself",
+      "url": "https://open.spotify.com/track/5ASJo7Vj82KvvloMmBurYW"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 178693,
+      "name": "Just Can't Help Myself",
+      "url": "https://open.spotify.com/track/5gUZ3K7ooE6UbMxMPNVCsM"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 169360,
+      "name": "Just Like a Dog",
+      "url": "https://open.spotify.com/track/1bfv08EFNzn09Ra7bLQfHB"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 170173,
+      "name": "Just Like a Dog (Barking up the Wrong Tree)",
+      "url": "https://open.spotify.com/track/2NdDWHHIXW4LxmCk1mAFMT"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170173,
+      "name": "Just Like a Dog (Barking up the Wrong Tree)",
+      "url": "https://open.spotify.com/track/6nAJwqA8sE5t3IQOgUHj6y"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 169333,
+      "name": "Just Like A Dog, Barking Up The Wrong Tree",
+      "url": "https://open.spotify.com/track/5kprualteHZKW9pEwrA03O"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 163700,
+      "name": "Laugh Laugh Laugh",
+      "url": "https://open.spotify.com/track/5BoS5f4x2T4nr8bJm2py4m"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 165140,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/58ZJKSu9uU1k1YOzQokiJm"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 166320,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/7EHM2kH6qSrSNnI7xOe5j3"
+    },
+    {
+      "album": {
+        "name": "The Best Of Duke-Peacock Blues",
+        "url": "https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey's Band",
+          "url": "https://open.spotify.com/artist/6jX8HKKEUu7YeziSkHr6Jo"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 166200,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/4jaIplVCcJyNzTzFi3DOj1"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey's Band",
+          "url": "https://open.spotify.com/artist/6jX8HKKEUu7YeziSkHr6Jo"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 166333,
+      "name": "Let Your Tears Fall Baby",
+      "url": "https://open.spotify.com/track/1mYhbqDWuCqtXxpap0Aox3"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Let's Go Get Stoned",
+      "url": "https://open.spotify.com/track/6q4nKjfQh3HMJfN9E9KAmc"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208213,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/6WnteapB2WkfyK6MVHX55h"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268693,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/0zIJi6fLCA0e11rBZ20Z2X"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 132746,
+      "name": "Looking the World Over",
+      "url": "https://open.spotify.com/track/3quA3vwMpCEFWdfFZg5yRu"
+    },
+    {
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292973,
+      "name": "Lost City",
+      "url": "https://open.spotify.com/track/3WGHCI52pWHbcVPTouKbOK"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 154040,
+      "name": "Mischievous Boogie",
+      "url": "https://open.spotify.com/track/43h9Q81HlWhbEgXTxWXDj3"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Joe Scott Orchestra",
+          "url": "https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 154893,
+      "name": "Mischievous Boogie",
+      "url": "https://open.spotify.com/track/6tzb9BII2Q8M0DrjLETwvz"
+    },
+    {
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/0eMiiulE8GKSGnjGFkienk"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568560,
+      "name": "Mixed Up Feeling",
+      "url": "https://open.spotify.com/track/1hYupqdrdwcUtS6zdlZ0Yb"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 465106,
+      "name": "Mr. Cool",
+      "url": "https://open.spotify.com/track/78qFFh8ovPynpVChRwz8I8"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 348081,
+      "name": "My Baby Left Me - Live",
+      "url": "https://open.spotify.com/track/5kCcsWPQ78fqUdAJqmRmJ6"
+    },
+    {
+      "album": {
+        "name": "Greatest Moments",
+        "url": "https://open.spotify.com/album/5BvB0Ht7jQfeOWo2rvKVav"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 160840,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/6Yg6G5EhOmcFPYCYIo6mnr"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160853,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/6VyhQsQIKMAnrLAzQ8mnHL"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 160853,
+      "name": "My Man Called Me",
+      "url": "https://open.spotify.com/track/6tnOqc5lsMQYqfvo7wVWk7"
+    },
+    {
+      "album": {
+        "name": "The Singles Collection 1951-61",
+        "url": "https://open.spotify.com/album/0d6eyA2kqKoZBBq5YmPd0f"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Night Mare",
+      "url": "https://open.spotify.com/track/7ubiWCNLdo6z4oHVeUqZXG"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 166906,
+      "name": "No Jody for Me",
+      "url": "https://open.spotify.com/track/2ciOcWzmHiNinO1rSwMrEm"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/0HtnbKhdYVZBJmVcQcd7o2"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 166906,
+      "name": "No Jody for Me",
+      "url": "https://open.spotify.com/track/76gDzIcSqbv1yBagYemuB2"
+    },
+    {
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "Oh Happy Day",
+      "url": "https://open.spotify.com/track/7licYK3c8r4IcQ4DyiHDeE"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Joe Scott Orchestra",
+          "url": "https://open.spotify.com/artist/4Rh5i0t7SMGdzk7UkvGMR7"
+        }
+      ],
+      "date_added": "2023-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 162346,
+      "name": "Partnership Blues",
+      "url": "https://open.spotify.com/track/7pqi5KNMRF2OgDZTpDpWzq"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405146,
+      "name": "Rock Me Baby",
+      "url": "https://open.spotify.com/track/4HYvUhFFqlzCpObJL8YBmp"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 155875,
+      "name": "Rock-a-Bye Baby",
+      "url": "https://open.spotify.com/track/1mhHHEq4LG5QzlFwC6SokL"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 158173,
+      "name": "Rock-A-Bye Baby",
+      "url": "https://open.spotify.com/track/42fi7mad9sNmXL1Cl4nKRb"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 160880,
+      "name": "Rockabye Baby",
+      "url": "https://open.spotify.com/track/6HsK5pZqorfBAdupEG6M2b"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/7HnlJFHCO11PLFRztEsGba"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278986,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/4YSbLqmsZdXwnATOo6w1ER"
+    },
+    {
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 294826,
+      "name": "Sassy Mama",
+      "url": "https://open.spotify.com/track/33RcmXrV5n8FtyY6mOfCTQ"
+    },
+    {
+      "album": {
+        "name": "Jail",
+        "url": "https://open.spotify.com/album/21axeJzgy0XEWJAU8sx3SP"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/09FeLwnxUGibd5q41UkRYj"
+    },
+    {
+      "album": {
+        "name": "The Complete Vanguard Recordings",
+        "url": "https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 215560,
+      "name": "Sheriff O.E. & Me",
+      "url": "https://open.spotify.com/track/4ztWqaJdhYTEYNZvTPYIVP"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 272733,
+      "name": "Since I Fell for You",
+      "url": "https://open.spotify.com/track/1QdABlr6fABVNlZxwaRk2e"
+    },
+    {
+      "album": {
+        "name": "Vanishing Point",
+        "url": "https://open.spotify.com/album/053STPytCvyZ8o5bxI8OvQ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107731,
+      "name": "Sing Out For Jesus",
+      "url": "https://open.spotify.com/track/1QYIfoRVZRbiHbzEUmG2x1"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229320,
+      "name": "Sometimes I Have a Heartache",
+      "url": "https://open.spotify.com/track/0mkG3CMFnK6W1sudP0CxuK"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 147539,
+      "name": "Stop A-Hoppin on Me",
+      "url": "https://open.spotify.com/track/3PPeUx1ykkFtqzoKnUN9TT"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 148773,
+      "name": "Stop A-Hoppin' on Me",
+      "url": "https://open.spotify.com/track/3OGe6jBpiBcS5wBlVKFz3l"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 148800,
+      "name": "Stop A-Hoppin' On Me",
+      "url": "https://open.spotify.com/track/0YHdJk8n5hfypfHVzhUXrN"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Burt Kendricks Orchestra",
+          "url": "https://open.spotify.com/artist/0R7qxJ6jQj6ziYipwDhQ96"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 149560,
+      "name": "Stop A-Hoppin' on Me",
+      "url": "https://open.spotify.com/track/5uAAGjbcfXgNW3dT7r0WAb"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "The Burt Kendricks Orchestra",
+          "url": "https://open.spotify.com/artist/0R7qxJ6jQj6ziYipwDhQ96"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 155080,
+      "name": "Story of My Blues",
+      "url": "https://open.spotify.com/track/0tauo4H01Gw0kyTNPTEE1U"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0p7xqMK5hqYDXrkzrkA2dT"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330893,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/0pgpmYkOwFnNLsyyIETixm"
+    },
+    {
+      "album": {
+        "name": "Sweet Little Angel / 3 O'Clock in the Mornin' (Live)",
+        "url": "https://open.spotify.com/album/6UGlzWEaWRNnef9mjDFmQ2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock in the Mornin' - Live",
+      "url": "https://open.spotify.com/track/0u5MLqP6l42vCjFb1Oewcu"
+    },
+    {
+      "album": {
+        "name": "Sweet Little Angel / 3 O'Clock in the Mornin' (Live)",
+        "url": "https://open.spotify.com/album/0pxGarF1Ya8aUTKu5UjaKZ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock in the Mornin' - Live",
+      "url": "https://open.spotify.com/track/4hn74a4VSF1tV1dE9DepkK"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/3oaKdEHNcaRYIr1W8Z1W48"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357600,
+      "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
+      "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115000,
+      "name": "Swing It on Home",
+      "url": "https://open.spotify.com/track/4C6XHSfw5w0VVjGCw1wd6f"
+    },
+    {
+      "album": {
+        "name": "Have Mercy! (Live 1973)",
+        "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44369,
+      "name": "Talking, Pt.2 - Live",
+      "url": "https://open.spotify.com/track/2DlRCvaBH6adqBosfUbNES"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 307946,
+      "name": "Tell Me Pretty Baby",
+      "url": "https://open.spotify.com/track/4UlyQrREv6y6TbCoOJ7Pjq"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama - Live at The Rising Sun Celebrity Jazz Club (2022 Remaster)",
+        "url": "https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307946,
+      "name": "Tell Me Pretty Baby - 2022 Remaster",
+      "url": "https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM"
+    },
+    {
+      "album": {
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "That Lucky Old Sun",
+      "url": "https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 164002,
+      "name": "The Big Change",
+      "url": "https://open.spotify.com/track/3bZBypHEmW6TUx7JVHJ5FB"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 165573,
+      "name": "The Big Change",
+      "url": "https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK"
+    },
+    {
+      "album": {
+        "name": "Guitar Women, Vol.4",
+        "url": "https://open.spotify.com/album/7wlp6DWh36rHDUiteuu1yj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 161440,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/2KyZPxIKzw4skONqNfKEzB"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Bill Harvey Orchestra",
+          "url": "https://open.spotify.com/artist/6btaa5XwQQFROFEWCVMeuI"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 165160,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/6JQlGL1g5oIB29YOEyFyaA"
+    },
+    {
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 124480,
+      "name": "They Call Me Big Mama",
+      "url": "https://open.spotify.com/track/5Jh3NzWY3k48uUxuSUhSip"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 124506,
+      "name": "They Call Me Big Mama",
+      "url": "https://open.spotify.com/track/61ChIhjgqnw9Qxw5GvunMR"
+    },
+    {
+      "album": {
+        "name": "Partnership Blues",
+        "url": "https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125191,
+      "name": "They Call Me Big Mama",
+      "url": "https://open.spotify.com/track/2i2whoANAvSNNPCmtnvsvH"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Unlucky Girl",
+      "url": "https://open.spotify.com/track/4GtgMARJnScBp2ligd4IjB"
+    },
+    {
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 176200,
+      "name": "Wade in the Water",
+      "url": "https://open.spotify.com/track/5jNf4ySgw6CCnBUuOZNUYL"
+    },
+    {
+      "album": {
+        "name": "The Blues Collective - Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 180442,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/6DZ1pkIq00eZLC8pnHP8gF"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 181040,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/1bFxv3bIERaEr5VGLXVHwh"
+    },
+    {
+      "album": {
+        "name": "Partnership Blues",
+        "url": "https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184100,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/5r9QVHvSVZ5Ch9Dj0TVCVS"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/1ecriLTawFnXSoMjszqjSl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/0GGUZVkxnuYn7sNSa2OkNQ"
+    },
+    {
+      "album": {
+        "name": "Sassy Mama",
+        "url": "https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245306,
+      "name": "Watermelon Man",
+      "url": "https://open.spotify.com/track/3Xa1DxxOvSp9N74g7EgVaD"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/7FAJRphvLjolVgfOiDaUVt"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 163520,
+      "name": "Willie Mae's Blues",
+      "url": "https://open.spotify.com/track/58eoA5jzgc1EQ0mpiY8PKl"
+    },
+    {
+      "album": {
+        "name": "Big Mama's Home (35 Classic Tracks)",
+        "url": "https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 163520,
+      "name": "Willie Mae's Blues",
+      "url": "https://open.spotify.com/track/7lxPw7eh3hoQXdd8I6a4B6"
+    },
+    {
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "Wrapped Tight",
+      "url": "https://open.spotify.com/track/5dsIoP7IpHaFr8brlWN5Ux"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 172906,
+      "name": "Yes, Baby",
+      "url": "https://open.spotify.com/track/6pbty1OxEC31a2NdhiHhbq"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Ace",
+          "url": "https://open.spotify.com/artist/3sFl2kyQgKddOq2sKgv6ah"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 172933,
+      "name": "Yes, Baby",
+      "url": "https://open.spotify.com/track/4Mnmy9UK6VMOS2MVXdsa13"
+    },
+    {
+      "album": {
+        "name": "I Smell a Rat",
+        "url": "https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 163818,
+      "name": "You Don't Move Me No More",
+      "url": "https://open.spotify.com/track/76Q5gNEm1yxP7NDzdo2aOp"
+    },
+    {
+      "album": {
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 163866,
+      "name": "You Don't Move Me No More",
+      "url": "https://open.spotify.com/track/6hLAZpaUTEz80mH14TVkcL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3EuBHZ"
 }

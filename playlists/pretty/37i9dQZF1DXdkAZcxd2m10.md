@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdkAZcxd2m10.md) - [plain]
 
 > La playlist oficial de A través de mi ventana\.  <a href=“https://www.netflix.com/title/81388078”>Ver en Netflix </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,977 likes - 29 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,138 likes - 29 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

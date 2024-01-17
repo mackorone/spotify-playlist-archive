@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 
 > Who runs the world? GIRLS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,320 likes - 105 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 196 likes - 105 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jMMNK4VZkK.md) - [plain]
 | 104 | [Break Free](https://open.spotify.com/track/12KUFSHFgT0XCoiSlvdQi4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:34 |
 | 105 | [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 |
 
-Snapshot ID: `MCw3NWRlZDRiY2I5MDQ3YmI5YmNjMjVlZThkOTk0YTY4MzdhMmVkMjgw`
+Snapshot ID: `MCw3ZDVkOWRlOTA3YjQzMzA5ZDVlNDQ0YjM2NmY0NWM0OGJiZTc5OGYz`

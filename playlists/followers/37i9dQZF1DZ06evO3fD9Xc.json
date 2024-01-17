@@ -1,298 +1,1161 @@
 {
-  "2023-03-11": 97191,
-  "2023-03-12": 97231,
-  "2023-03-13": 97266,
-  "2023-03-14": 97312,
-  "2023-03-15": 97353,
-  "2023-03-16": 97353,
-  "2023-03-17": 97353,
-  "2023-03-18": 97460,
-  "2023-03-19": 97460,
-  "2023-03-20": 97520,
-  "2023-03-21": 97546,
-  "2023-03-22": 97565,
-  "2023-03-23": 97594,
-  "2023-03-24": 97594,
-  "2023-03-25": 97676,
-  "2023-03-26": 97705,
-  "2023-03-27": 97728,
-  "2023-03-28": 97747,
-  "2023-03-29": 97782,
-  "2023-03-30": 97833,
-  "2023-03-31": 97833,
-  "2023-04-01": 97868,
-  "2023-04-02": 97905,
-  "2023-04-03": 97931,
-  "2023-04-04": 97954,
-  "2023-04-05": 97995,
-  "2023-04-06": 98030,
-  "2023-04-07": 98062,
-  "2023-04-09": 98122,
-  "2023-04-10": 98144,
-  "2023-04-11": 98184,
-  "2023-04-12": 98184,
-  "2023-04-13": 98212,
-  "2023-04-14": 98238,
-  "2023-04-15": 98260,
-  "2023-04-16": 98287,
-  "2023-04-17": 98308,
-  "2023-04-18": 98325,
-  "2023-04-19": 98343,
-  "2023-04-20": 98366,
-  "2023-04-21": 98396,
-  "2023-04-22": 98429,
-  "2023-04-23": 98444,
-  "2023-04-24": 98458,
-  "2023-04-25": 98483,
-  "2023-04-26": 98508,
-  "2023-04-27": 98536,
-  "2023-04-28": 98568,
-  "2023-04-29": 98594,
-  "2023-04-30": 98624,
-  "2023-05-01": 98633,
-  "2023-05-02": 98658,
-  "2023-05-03": 98672,
-  "2023-05-04": 98692,
-  "2023-05-05": 98728,
-  "2023-05-06": 98754,
-  "2023-05-07": 98785,
-  "2023-05-08": 98806,
-  "2023-05-09": 98822,
-  "2023-05-10": 98840,
-  "2023-05-11": 98855,
-  "2023-05-12": 98883,
-  "2023-05-13": 98901,
-  "2023-05-14": 98925,
-  "2023-05-15": 98942,
-  "2023-05-16": 98964,
-  "2023-05-17": 98983,
-  "2023-05-18": 99002,
-  "2023-05-19": 99028,
-  "2023-05-20": 99088,
-  "2023-05-21": 99088,
-  "2023-05-22": 99088,
-  "2023-05-23": 99126,
-  "2023-05-24": 99173,
-  "2023-05-25": 99185,
-  "2023-05-26": 99219,
-  "2023-05-27": 99246,
-  "2023-05-28": 99283,
-  "2023-05-29": 99283,
-  "2023-05-30": 99347,
-  "2023-05-31": 99366,
-  "2023-06-01": 99404,
-  "2023-06-02": 99437,
-  "2023-06-03": 99463,
-  "2023-06-04": 99500,
-  "2023-06-05": 99517,
-  "2023-06-06": 99537,
-  "2023-06-07": 99563,
-  "2023-06-08": 99580,
-  "2023-06-09": 99606,
-  "2023-06-10": 99633,
-  "2023-06-11": 99666,
-  "2023-06-12": 99684,
-  "2023-06-13": 99694,
-  "2023-06-14": 99713,
-  "2023-06-15": 99737,
-  "2023-06-16": 99766,
-  "2023-06-17": 99797,
-  "2023-06-18": 99820,
-  "2023-06-19": 99836,
-  "2023-06-20": 99853,
-  "2023-06-21": 99862,
-  "2023-06-22": 99890,
-  "2023-06-23": 99916,
-  "2023-06-24": 99934,
-  "2023-06-25": 99958,
-  "2023-06-26": 99977,
-  "2023-06-27": 99999,
-  "2023-06-28": 100016,
-  "2023-06-29": 100029,
-  "2023-06-30": 100056,
-  "2023-07-01": 100092,
-  "2023-07-02": 100092,
-  "2023-07-03": 100113,
-  "2023-07-04": 100132,
-  "2023-07-05": 100154,
-  "2023-07-06": 100216,
-  "2023-07-07": 100216,
-  "2023-07-08": 100216,
-  "2023-07-09": 100260,
-  "2023-07-10": 100286,
-  "2023-07-11": 100291,
-  "2023-07-12": 100308,
-  "2023-07-13": 100325,
-  "2023-07-14": 100347,
-  "2023-07-15": 100359,
-  "2023-07-16": 100381,
-  "2023-07-17": 100403,
-  "2023-07-18": 100432,
-  "2023-07-19": 100455,
-  "2023-07-20": 100455,
-  "2023-07-21": 100499,
-  "2023-07-22": 100524,
-  "2023-07-23": 100548,
-  "2023-07-24": 100573,
-  "2023-07-25": 100594,
-  "2023-07-26": 100596,
-  "2023-07-27": 100624,
-  "2023-07-28": 100647,
-  "2023-07-29": 100673,
-  "2023-07-30": 100673,
-  "2023-07-31": 100696,
-  "2023-08-01": 100721,
-  "2023-08-02": 100739,
-  "2023-08-03": 100760,
-  "2023-08-04": 100778,
-  "2023-08-05": 100793,
-  "2023-08-06": 100811,
-  "2023-08-07": 100811,
-  "2023-08-08": 100822,
-  "2023-08-09": 100850,
-  "2023-08-10": 100869,
-  "2023-08-11": 100896,
-  "2023-08-12": 100896,
-  "2023-08-13": 100896,
-  "2023-08-14": 100896,
-  "2023-08-15": 100896,
-  "2023-08-16": 100896,
-  "2023-08-17": 100896,
-  "2023-08-18": 100896,
-  "2023-08-19": 100896,
-  "2023-08-20": 101074,
-  "2023-08-21": 101074,
-  "2023-08-22": 101119,
-  "2023-08-23": 101119,
-  "2023-08-24": 101119,
-  "2023-08-25": 101119,
-  "2023-08-26": 101209,
-  "2023-08-27": 101209,
-  "2023-08-28": 101250,
-  "2023-08-29": 101250,
-  "2023-08-30": 101250,
-  "2023-08-31": 101329,
-  "2023-09-01": 101370,
-  "2023-09-02": 101370,
-  "2023-09-03": 101370,
-  "2023-09-04": 101370,
-  "2023-09-05": 101370,
-  "2023-09-06": 101370,
-  "2023-09-07": 101370,
-  "2023-09-08": 101370,
-  "2023-09-09": 101370,
-  "2023-09-10": 101370,
-  "2023-09-11": 101370,
-  "2023-09-12": 101370,
-  "2023-09-13": 101370,
-  "2023-09-14": 101370,
-  "2023-09-15": 101370,
-  "2023-09-16": 101736,
-  "2023-09-17": 101736,
-  "2023-09-18": 101736,
-  "2023-09-19": 101774,
-  "2023-09-20": 101774,
-  "2023-09-21": 101774,
-  "2023-09-22": 101837,
-  "2023-09-23": 101837,
-  "2023-09-24": 101837,
-  "2023-09-25": 101837,
-  "2023-09-26": 101920,
-  "2023-09-27": 101920,
-  "2023-09-28": 101920,
-  "2023-09-29": 101920,
-  "2023-09-30": 101920,
-  "2023-10-01": 101920,
-  "2023-10-02": 101920,
-  "2023-10-03": 101920,
-  "2023-10-04": 101920,
-  "2023-10-05": 101920,
-  "2023-10-06": 101920,
-  "2023-10-07": 101920,
-  "2023-10-08": 101920,
-  "2023-10-09": 101920,
-  "2023-10-10": 101920,
-  "2023-10-11": 101920,
-  "2023-10-12": 101920,
-  "2023-10-13": 101920,
-  "2023-10-14": 101920,
-  "2023-10-15": 101920,
-  "2023-10-16": 101920,
-  "2023-10-17": 101920,
-  "2023-10-18": 101920,
-  "2023-10-19": 101920,
-  "2023-10-20": 101920,
-  "2023-10-21": 101920,
-  "2023-10-22": 101920,
-  "2023-10-23": 101920,
-  "2023-10-24": 101920,
-  "2023-10-25": 101920,
-  "2023-10-26": 101920,
-  "2023-10-27": 101920,
-  "2023-10-28": 101920,
-  "2023-10-29": 101920,
-  "2023-10-30": 101920,
-  "2023-10-31": 101920,
-  "2023-11-01": 101920,
-  "2023-11-02": 101920,
-  "2023-11-03": 101920,
-  "2023-11-04": 101920,
-  "2023-11-05": 101920,
-  "2023-11-06": 101920,
-  "2023-11-07": 101920,
-  "2023-11-08": 101920,
-  "2023-11-09": 101920,
-  "2023-11-10": 101920,
-  "2023-11-11": 102464,
-  "2023-11-12": 102464,
-  "2023-11-13": 102464,
-  "2023-11-14": 102464,
-  "2023-11-15": 102464,
-  "2023-11-16": 102464,
-  "2023-11-17": 102464,
-  "2023-11-18": 102464,
-  "2023-11-19": 102464,
-  "2023-11-20": 102464,
-  "2023-11-21": 102464,
-  "2023-11-22": 102464,
-  "2023-11-23": 102464,
-  "2023-11-24": 102464,
-  "2023-11-25": 102464,
-  "2023-11-26": 102464,
-  "2023-11-27": 102464,
-  "2023-11-28": 102464,
-  "2023-11-29": 102464,
-  "2023-11-30": 102464,
-  "2023-12-01": 102464,
-  "2023-12-02": 102464,
-  "2023-12-03": 102464,
-  "2023-12-04": 102464,
-  "2023-12-05": 102464,
-  "2023-12-06": 102464,
-  "2023-12-07": 102464,
-  "2023-12-08": 102464,
-  "2023-12-09": 102464,
-  "2023-12-10": 102464,
-  "2023-12-11": 102464,
-  "2023-12-12": 102464,
-  "2023-12-13": 102464,
-  "2023-12-14": 102864,
-  "2023-12-15": 102867,
-  "2023-12-16": 102875,
-  "2023-12-17": 102883,
-  "2023-12-18": 102890,
-  "2023-12-19": 102901,
-  "2023-12-20": 102911,
-  "2023-12-21": 102922,
-  "2023-12-22": 102937,
-  "2023-12-23": 102943,
-  "2023-12-24": 102951,
-  "2023-12-25": 102955,
-  "2023-12-26": 102957,
-  "2023-12-27": 102972,
-  "2023-12-30": 103011,
-  "2023-12-31": 103014,
-  "2024-01-01": 103023,
-  "2024-01-02": 103025,
-  "2024-01-03": 103028
+  "2024-01-17": 102940,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
+  "name": "This Is Carolina Ross",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224656,
+      "name": "Adios Amor",
+      "url": "https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc"
+    },
+    {
+      "album": {
+        "name": "Apur\u00e9 Mi Caf\u00e9",
+        "url": "https://open.spotify.com/album/2REMNzHUcsxbQgxdB79wDh"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191863,
+      "name": "Apur\u00e9 Mi Caf\u00e9",
+      "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
+    },
+    {
+      "album": {
+        "name": "Buena Se\u00f1al",
+        "url": "https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Buena Se\u00f1al",
+      "url": "https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175543,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 205217,
+      "name": "Como No Adorarla",
+      "url": "https://open.spotify.com/track/1aqJMMLk8toQzNxYucJAxx"
+    },
+    {
+      "album": {
+        "name": "Complicado",
+        "url": "https://open.spotify.com/album/1ah2JVpqSNdjezgxYgmQlC"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181961,
+      "name": "Complicado",
+      "url": "https://open.spotify.com/track/41nkvQRQEdwl7xXV6SOLEQ"
+    },
+    {
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Cuando Fuimos Nada",
+      "url": "https://open.spotify.com/track/4aVZpMuRkWElSJwJdRCa8n"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158884,
+      "name": "Cuesti\u00f3n De Tiempo",
+      "url": "https://open.spotify.com/track/76TSxUT33s9fslNr8fIqIJ"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156752,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/0A9HmbxmsodmqLujdz5c7d"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197141,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg"
+    },
+    {
+      "album": {
+        "name": "El Triste",
+        "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263429,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "En Peligro de Extinci\u00f3n",
+      "url": "https://open.spotify.com/track/4hl4QsudusiDu4IMnoOmGl"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/1rDuAQCkEgIQlI8c6MIN97"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        },
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        },
+        {
+          "name": "Omar Chaparro",
+          "url": "https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
+        {
+          "name": "Tapy Quintero",
+          "url": "https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356293,
+      "name": "Hoy M\u00e1s Que Nunca",
+      "url": "https://open.spotify.com/track/5tzFhFJLFWuuLvlqgWi7uK"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182706,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/0LmqvjaR1jom4ThUPqAmgV"
+    },
+    {
+      "album": {
+        "name": "MAS Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2qZpfoPNjNiteXskjgTICQ"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 199333,
+      "name": "Inv\u00e9ntame",
+      "url": "https://open.spotify.com/track/6T8R9TnadyABz3IWs0F9Zi"
+    },
+    {
+      "album": {
+        "name": "Jugar a Los Besos",
+        "url": "https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168850,
+      "name": "Jugar a Los Besos",
+      "url": "https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t"
+    },
+    {
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/0vx6yN3peiZnWGIK3yxgZX"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 226048,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5AOEudcsj9BbSfDbRjxkpO"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148656,
+      "name": "La Mejor Versi\u00f3n de M\u00ed",
+      "url": "https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186073,
+      "name": "Me Hubieras Dicho",
+      "url": "https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204778,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249974,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179459,
+      "name": "Me Vas a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/1SAZFG8t1qjlzNZYdXswqw"
+    },
+    {
+      "album": {
+        "name": "Mentirme",
+        "url": "https://open.spotify.com/album/5SFNFxzjXy4C2RB5WHKT3Y"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188087,
+      "name": "Mentirme",
+      "url": "https://open.spotify.com/track/0ObFC2XXTtE8k9sLVnV9LY"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/5GF4Jwl28VSwPZrweQEXst"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Mi Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239142,
+      "name": "Mi Sorpresa Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/3UncEao5y2QXGbDFaDsMQl"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182787,
+      "name": "Nadie Es Indispensable",
+      "url": "https://open.spotify.com/track/73nDfaFbDrTQIFEUG6Q2nY"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 214696,
+      "name": "Ni El Alcohol",
+      "url": "https://open.spotify.com/track/5ggxJg5dMINcUxXWzs8dh7"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197137,
+      "name": "No Me Hubiera Enamorado",
+      "url": "https://open.spotify.com/track/4iQ12cbctsVMoP3t7vHTm4"
+    },
+    {
+      "album": {
+        "name": "Para No Pensar en Ti",
+        "url": "https://open.spotify.com/album/3M12MLKuvzlOXkNij49MFw"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209702,
+      "name": "Para No Pensar en Ti",
+      "url": "https://open.spotify.com/track/0R8fg6Kf7VCjQLU1vTrTCb"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187477,
+      "name": "Por Siempre Mi Amor",
+      "url": "https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233244,
+      "name": "Pu\u00f1o de Diamantes",
+      "url": "https://open.spotify.com/track/205jUQPoqMVQZUQe81yJmB"
+    },
+    {
+      "album": {
+        "name": "Que Bonito Es Querer",
+        "url": "https://open.spotify.com/album/6mUpfaWK4lckq6UTypkreO"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197238,
+      "name": "Que Bonito Es Querer",
+      "url": "https://open.spotify.com/track/1EsSPmiioHQVbdwyrnJGwC"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
+        "url": "https://open.spotify.com/album/24IaXitockhdYJSE4flwTG"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/2QnN3woxO9KqDd1DAW0zUF"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 186570,
+      "name": "Ser\u00eda un Error",
+      "url": "https://open.spotify.com/track/2zITVc64nUa5mhtdA7SLUu"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 4",
+        "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240593,
+      "name": "Si Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5"
+    },
+    {
+      "album": {
+        "name": "Si Quieres (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
+      },
+      "artists": [
+        {
+          "name": "Neto Bernal",
+          "url": "https://open.spotify.com/artist/0X8PwlFMDK85fIadwq3cA5"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258480,
+      "name": "Si Quieres - Versi\u00f3n Mariachi",
+      "url": "https://open.spotify.com/track/1KOoIXcpacszpKQMhHhY1A"
+    },
+    {
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175890,
+      "name": "Solo Con Verte",
+      "url": "https://open.spotify.com/track/4kap0K8QvEZUKKwmKUtKb8"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164040,
+      "name": "Te Lo Pido por Favor",
+      "url": "https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 2",
+        "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242091,
+      "name": "Tengo Que Colgar",
+      "url": "https://open.spotify.com/track/5k9In7MRqmG3fSxjpaLIzD"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243751,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/7HQukhNUX9auhsatuRIaVs"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Eres Mi Lugar",
+        "url": "https://open.spotify.com/album/3a9NkLItY49twhBwLBRGEo"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 167936,
+      "name": "T\u00fa Eres Mi Lugar",
+      "url": "https://open.spotify.com/track/07kodbU6prewaQmLdqvpFl"
+    },
+    {
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233879,
+      "name": "Uno Y Uno",
+      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
+    },
+    {
+      "album": {
+        "name": "Vivir Sin Ti",
+        "url": "https://open.spotify.com/album/3LxoHWSzat0tBsMewBnnSt"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 179826,
+      "name": "Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/5NQQoUP7bt9cr8OG4DSaXq"
+    },
+    {
+      "album": {
+        "name": "Vivir Sin Ti ( Version Acustica )",
+        "url": "https://open.spotify.com/album/4cupD82naLrPTfwr14oMPq"
+      },
+      "artists": [
+        {
+          "name": "Ana Emilia",
+          "url": "https://open.spotify.com/artist/1kxxYp7QI9TB9iWTzf7gTG"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172813,
+      "name": "Vivir Sin Ti ( Version Acustica )",
+      "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
+    },
+    {
+      "album": {
+        "name": "We Never Give Up (Todo Venceremos)",
+        "url": "https://open.spotify.com/album/7wWbD4WnxyLy7bix3d07r3"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        },
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Flor Amargo",
+          "url": "https://open.spotify.com/artist/7CcCaAFz7j2igNmrHpieIb"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Armando Manzanero",
+          "url": "https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT"
+        },
+        {
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        },
+        {
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
+        },
+        {
+          "name": "Vaezques Sounds",
+          "url": "https://open.spotify.com/artist/22umhHGysrBolX8U1xQbPw"
+        },
+        {
+          "name": "Jos\u00e9 Maria Napole\u00f3n",
+          "url": "https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        },
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        },
+        {
+          "name": "Juan Carlos Baglietto",
+          "url": "https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9"
+        },
+        {
+          "name": "Deepak Chopra",
+          "url": "https://open.spotify.com/artist/5tf2pB9J3WNowIKQTFkxU6"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245760,
+      "name": "We Never Give Up (Todo Venceremos)",
+      "url": "https://open.spotify.com/track/2G6gnsbzUJYDCGHOtIBoWy"
+    },
+    {
+      "album": {
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126458,
+      "name": "Y T\u00fa",
+      "url": "https://open.spotify.com/track/2yPP1AqeDgkVK1H2cZPsLS"
+    },
+    {
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Ya Lo S\u00e9 Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc"
 }

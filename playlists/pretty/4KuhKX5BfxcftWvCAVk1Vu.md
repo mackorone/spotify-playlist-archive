@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > songs that remind me of my beautiful, perfect gf
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 44 songs - 2 hr 24 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,5 +52,10 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 42 | [Serendipity](https://open.spotify.com/track/5yIuA6g8P4nwWGMzXfhX4a) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:39 |
 | 43 | [While You Were Sleeping](https://open.spotify.com/track/753iehfOnYSmjVfjx20znR) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 2:57 |
 | 44 | [Crumbs](https://open.spotify.com/track/1LKMQKAJhaM6xnO2Xn04Gz) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:10 |
+| 45 | [tiny things](https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [tiny things](https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB) | 2:30 |
+| 46 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
+| 47 | [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 |
+| 48 | [I Love You Too](https://open.spotify.com/track/4Hvm9R3JYXBF8fcdi2F3oA) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [I Love You Too](https://open.spotify.com/album/0mpTFaay8FNrXyeHibAxMK) | 3:09 |
+| 49 | [Hold My Girl](https://open.spotify.com/track/42bbDWZ8WmXTH7PkYAlGLu) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:31 |
 
-Snapshot ID: `NzEsOTAzN2IxNDJmZTM5ODEzMjE2MzEzZjE0MTg5MTcyMGQ3ZDkzNTY2Nw==`
+Snapshot ID: `NzYsZWRhMDA5NzhhODhhNTM4OTlhZjE5ODgwYTBiOGJmNjlhZGQwMGRhNQ==`

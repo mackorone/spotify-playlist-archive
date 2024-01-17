@@ -1,57 +1,4711 @@
 {
-  "2023-11-08": 451,
-  "2023-11-09": 452,
-  "2023-11-10": 451,
-  "2023-11-11": 451,
-  "2023-11-12": 451,
-  "2023-11-13": 451,
-  "2023-11-14": 451,
-  "2023-11-15": 451,
-  "2023-11-16": 451,
-  "2023-11-17": 453,
-  "2023-11-18": 453,
-  "2023-11-19": 453,
-  "2023-11-20": 453,
-  "2023-11-21": 453,
-  "2023-11-22": 453,
-  "2023-11-23": 453,
-  "2023-11-24": 453,
-  "2023-11-25": 454,
-  "2023-11-26": 454,
-  "2023-11-27": 454,
-  "2023-11-28": 454,
-  "2023-11-29": 454,
-  "2023-11-30": 454,
-  "2023-12-01": 454,
-  "2023-12-02": 454,
-  "2023-12-03": 454,
-  "2023-12-04": 454,
-  "2023-12-05": 454,
-  "2023-12-06": 455,
-  "2023-12-07": 455,
-  "2023-12-08": 455,
-  "2023-12-09": 456,
-  "2023-12-10": 456,
-  "2023-12-11": 456,
-  "2023-12-12": 457,
-  "2023-12-13": 457,
-  "2023-12-14": 457,
-  "2023-12-15": 457,
-  "2023-12-16": 457,
-  "2023-12-17": 457,
-  "2023-12-18": 458,
-  "2023-12-19": 458,
-  "2023-12-20": 458,
-  "2023-12-21": 459,
-  "2023-12-22": 459,
-  "2023-12-23": 459,
-  "2023-12-24": 459,
-  "2023-12-25": 459,
-  "2023-12-26": 459,
-  "2023-12-27": 460,
-  "2023-12-30": 460,
-  "2023-12-31": 460,
-  "2024-01-01": 460,
-  "2024-01-02": 460,
-  "2024-01-03": 460
+  "2024-01-17": 459,
+  "date_first_scraped": "2023-11-08",
+  "description": "Close your eyes and relax to calm, peaceful piano melodies.",
+  "name": "Calming Piano",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Feather In The Wind",
+        "url": "https://open.spotify.com/album/0yXYxFsn8MxNM9PveKNq61"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "A Feather In The Wind",
+      "url": "https://open.spotify.com/track/1z4sYtRlmdLA3DV4VruHDo"
+    },
+    {
+      "album": {
+        "name": "Cold Feet",
+        "url": "https://open.spotify.com/album/2LgHzwcKDB5fc3cCSfeNOs"
+      },
+      "artists": [
+        {
+          "name": "Immerson",
+          "url": "https://open.spotify.com/artist/2meYskUwJ0LnnuaG5xybWr"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167642,
+      "name": "A Frozen Lullaby",
+      "url": "https://open.spotify.com/track/3QwpjkfCWzd8bFDTppQB3K"
+    },
+    {
+      "album": {
+        "name": "Milk & Cookies",
+        "url": "https://open.spotify.com/album/58TNXgclbG7fVsLdmTAoDE"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182862,
+      "name": "A Glass Of Warm Milk",
+      "url": "https://open.spotify.com/track/1SNGNv7MEaZ21gN9bNkvPm"
+    },
+    {
+      "album": {
+        "name": "The End of a Dream",
+        "url": "https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87678,
+      "name": "A New Chapter",
+      "url": "https://open.spotify.com/track/2HKRm71ioSf15zdxfWhaRS"
+    },
+    {
+      "album": {
+        "name": "Sketches On The Piano",
+        "url": "https://open.spotify.com/album/3kXjTvTmdrbZwsPnnPmB5y"
+      },
+      "artists": [
+        {
+          "name": "Josh McCausland",
+          "url": "https://open.spotify.com/artist/70EghZfRvZlYZt3JcdMIGe"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 85250,
+      "name": "A Way Out",
+      "url": "https://open.spotify.com/track/3bvPOP4bnjqam9K8zaBkVL"
+    },
+    {
+      "album": {
+        "name": "Columbina Theme - Genshin Impact Chapter Teaser",
+        "url": "https://open.spotify.com/album/1949WQoRiToAhE0oHwDmFw"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75636,
+      "name": "A Winter Night Lazzo (Piano Version)",
+      "url": "https://open.spotify.com/track/0nKVrNJLvidujrPa7CJAA0"
+    },
+    {
+      "album": {
+        "name": "afar",
+        "url": "https://open.spotify.com/album/7gmtrQUa2nv1FhKHu9coVr"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120125,
+      "name": "afar",
+      "url": "https://open.spotify.com/track/59XkY8RCM8NCARpFi9ij5s"
+    },
+    {
+      "album": {
+        "name": "Africa",
+        "url": "https://open.spotify.com/album/1Qf98MVaL0E0rzi0QEnJ0a"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Africa",
+      "url": "https://open.spotify.com/track/2SfxpMlpho7YykopJV4yil"
+    },
+    {
+      "album": {
+        "name": "All Is Well",
+        "url": "https://open.spotify.com/album/7pz0sEEtgxubidy8iMhpz8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95590,
+      "name": "All Is Well",
+      "url": "https://open.spotify.com/track/45IOz3RCT0IIgTCkb4N39m"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 76500,
+      "name": "All That Glitters (Piano)",
+      "url": "https://open.spotify.com/track/0daHjqHGWWq3KhnzaCeP7P"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73066,
+      "name": "All That's Left Are The Snapshots",
+      "url": "https://open.spotify.com/track/1NWmY8R51GriAfUdNVDcGW"
+    },
+    {
+      "album": {
+        "name": "American Beauty",
+        "url": "https://open.spotify.com/album/1R4edudfEcXCidprDq6Mnb"
+      },
+      "artists": [
+        {
+          "name": "IRSNa",
+          "url": "https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115875,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/4dTQkPMK1LY1l15Q79zjMd"
+    },
+    {
+      "album": {
+        "name": "As I Breathe",
+        "url": "https://open.spotify.com/album/5h4j3BZMDAqibxAH5fHBpR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105460,
+      "name": "As I Breathe",
+      "url": "https://open.spotify.com/track/18MhPNyH0MliZWymshDdM6"
+    },
+    {
+      "album": {
+        "name": "Awakened",
+        "url": "https://open.spotify.com/album/1cMa5zSzpob64TL7yTczwa"
+      },
+      "artists": [
+        {
+          "name": "Ralph Thomas Puett IV",
+          "url": "https://open.spotify.com/artist/4qla4YmkcVA8U6654RyWhF"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84500,
+      "name": "Awakened",
+      "url": "https://open.spotify.com/track/7KMKLweg2TP1kSLJffXZ6m"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - Inazuma Snow Princess",
+        "url": "https://open.spotify.com/album/5GQKLOLCiHPEdzOcTEHuHO"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 103384,
+      "name": "Ayaka's Story (Piano)",
+      "url": "https://open.spotify.com/track/3haxXB5t7GYggMv8huvZKh"
+    },
+    {
+      "album": {
+        "name": "Aztec Puzzle",
+        "url": "https://open.spotify.com/album/6Tx1NyYy8ihJiVUmeNSoxj"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103351,
+      "name": "Aztec Puzzle",
+      "url": "https://open.spotify.com/track/2ei6QpmwJwYwEDIkjm4qGY"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136932,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/0jZxdSQspa4rnhge8sGGRG"
+    },
+    {
+      "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/2K2lea0eO7tpnwMWpVwlF9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100717,
+      "name": "Before the Rain",
+      "url": "https://open.spotify.com/track/3EVLubPcTKGd8eX2sdCqsS"
+    },
+    {
+      "album": {
+        "name": "Sketches On The Piano",
+        "url": "https://open.spotify.com/album/3kXjTvTmdrbZwsPnnPmB5y"
+      },
+      "artists": [
+        {
+          "name": "Josh McCausland",
+          "url": "https://open.spotify.com/artist/70EghZfRvZlYZt3JcdMIGe"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108500,
+      "name": "Beginning With The End In Mind",
+      "url": "https://open.spotify.com/track/4uKZoAPbn9LSxVg8jJLarJ"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131427,
+      "name": "Between The Lines",
+      "url": "https://open.spotify.com/track/7bgZvnwkrwwGFmDQJ5Dg4f"
+    },
+    {
+      "album": {
+        "name": "Beyond",
+        "url": "https://open.spotify.com/album/7q4YFkHYbk2qJ8oYd3E9oO"
+      },
+      "artists": [
+        {
+          "name": "Eskricke",
+          "url": "https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137208,
+      "name": "Beyond",
+      "url": "https://open.spotify.com/track/4Y1kktVof6j6tC0wwoomn8"
+    },
+    {
+      "album": {
+        "name": "Beyond Self",
+        "url": "https://open.spotify.com/album/4hiVyoKOrYluOuJ5BgNuZm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105153,
+      "name": "Beyond Self",
+      "url": "https://open.spotify.com/track/0xWD9bGry0I8R9BiTpXN0t"
+    },
+    {
+      "album": {
+        "name": "Beyond the Moon",
+        "url": "https://open.spotify.com/album/2DlaNrVF8bQZKLwL0xuFJR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 104356,
+      "name": "Beyond the Moon",
+      "url": "https://open.spotify.com/track/5TomtKpTQSdGAHCEfk9zx0"
+    },
+    {
+      "album": {
+        "name": "brudesl\u00f8r",
+        "url": "https://open.spotify.com/album/5dIOIZlK7LbVHeHkEZCOWY"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111398,
+      "name": "brudesl\u00f8r",
+      "url": "https://open.spotify.com/track/7vFUJtfkdIobStuWimu92o"
+    },
+    {
+      "album": {
+        "name": "Sketches On The Piano",
+        "url": "https://open.spotify.com/album/3kXjTvTmdrbZwsPnnPmB5y"
+      },
+      "artists": [
+        {
+          "name": "Josh McCausland",
+          "url": "https://open.spotify.com/artist/70EghZfRvZlYZt3JcdMIGe"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Brush Strokes",
+      "url": "https://open.spotify.com/track/3jFs0PPLJO7FRwapViFdxo"
+    },
+    {
+      "album": {
+        "name": "Call for Help",
+        "url": "https://open.spotify.com/album/20yv4F7YgkAj8g3pJv9b4j"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103375,
+      "name": "Call for Help",
+      "url": "https://open.spotify.com/track/7aMgPG0dJcCoacszd4vPhY"
+    },
+    {
+      "album": {
+        "name": "Camille's Waltz",
+        "url": "https://open.spotify.com/album/4kO0yC7QgrLczqzsFMP1KP"
+      },
+      "artists": [
+        {
+          "name": "Helder Boutens",
+          "url": "https://open.spotify.com/artist/66kU70xhLdbz9P5PUKljUE"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176714,
+      "name": "Camille's Waltz",
+      "url": "https://open.spotify.com/track/4Eftb5OHGISJnTQLfhRCzF"
+    },
+    {
+      "album": {
+        "name": "Careless Romance",
+        "url": "https://open.spotify.com/album/5FwJQTvTo2WkqK5td8oP8k"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107419,
+      "name": "Careless Romance",
+      "url": "https://open.spotify.com/track/7AIr7mV3gDyP7KaYnEaikz"
+    },
+    {
+      "album": {
+        "name": "Nighty-Night, My Sweet Angel",
+        "url": "https://open.spotify.com/album/2lw8d9MOrG8OtzpDaxtd5q"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Catching Dreams",
+      "url": "https://open.spotify.com/track/4yDdQHpDTSREQHAeRXowjO"
+    },
+    {
+      "album": {
+        "name": "Charlotte's Catch",
+        "url": "https://open.spotify.com/album/3lYazMSDyTAPaPcNojhCpS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103751,
+      "name": "Charlotte's Catch",
+      "url": "https://open.spotify.com/track/39ZSHMD2CB8yExzYl3LnDG"
+    },
+    {
+      "album": {
+        "name": "The Chasm Depth (From Genshin Impact Game)",
+        "url": "https://open.spotify.com/album/4QMeRxbYa2SjB3j9xB4qrA"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Chasm Depth (Piano Version)",
+      "url": "https://open.spotify.com/track/0u6yrI3gPI8qWvUpwIKOzt"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/0Mo0geSwTH8fHZ4agFlWB8"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146378,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/2k3Qt21uyNtqhSgn3sOX1u"
+    },
+    {
+      "album": {
+        "name": "Desconocida",
+        "url": "https://open.spotify.com/album/2ag9vJhRk0464rZDfuKgWv"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Cie\u0144",
+      "url": "https://open.spotify.com/track/6VG0ittu1KfLn8FofKd227"
+    },
+    {
+      "album": {
+        "name": "Clear View",
+        "url": "https://open.spotify.com/album/1eSa1CKjMbCOI5ZbPkrgGA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99353,
+      "name": "Clear View",
+      "url": "https://open.spotify.com/track/23NtrwTLLL3NUw3QVYVwJs"
+    },
+    {
+      "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/2DGf83Jg0Cmb4V0DMeSAdm"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 177549,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/57b8FvUqnDN7SS2NfnLtKT"
+    },
+    {
+      "album": {
+        "name": "cloud watching",
+        "url": "https://open.spotify.com/album/4EZbsFj0PkhTos5DW3gk1L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129718,
+      "name": "cloud watching",
+      "url": "https://open.spotify.com/track/2MSD6VZVfw2N8H7GQ3VzKA"
+    },
+    {
+      "album": {
+        "name": "Colors of the Wind",
+        "url": "https://open.spotify.com/album/0DoR4wQZ1heGpvRacZUUJI"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211329,
+      "name": "Colors of the Wind",
+      "url": "https://open.spotify.com/track/4uEFwVkFCkKRPMY6YkJAbb"
+    },
+    {
+      "album": {
+        "name": "Come As You Are",
+        "url": "https://open.spotify.com/album/5WtFO005gBt6dfBjCvVdJB"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146819,
+      "name": "Come As You Are",
+      "url": "https://open.spotify.com/track/2UBtFxY2eahofjK8xYRH6o"
+    },
+    {
+      "album": {
+        "name": "comforts of my home",
+        "url": "https://open.spotify.com/album/6DGBy524Vl7oPw4xFN9xsI"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163411,
+      "name": "comforts of my home",
+      "url": "https://open.spotify.com/track/1hhQmJMdkjz2zIwGWbspLT"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 67453,
+      "name": "Considering The Extended Warranty",
+      "url": "https://open.spotify.com/track/2oC5NDGacmS3Iae2UisXX5"
+    },
+    {
+      "album": {
+        "name": "Cornfield Chase",
+        "url": "https://open.spotify.com/album/0rf5gS71mCIj3rvrzfKHTv"
+      },
+      "artists": [
+        {
+          "name": "Dorian Marko",
+          "url": "https://open.spotify.com/artist/4aajGre4nwTLmu8tbZ2vom"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127817,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/4fhFlHloSh3y8qC3z7teXt"
+    },
+    {
+      "album": {
+        "name": "Counting Sheep",
+        "url": "https://open.spotify.com/album/5dbX3jTIjm10ObwDLIwdjJ"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169263,
+      "name": "Counting Sheep",
+      "url": "https://open.spotify.com/track/1GR6UVi4MRNJ2AEV4Hfse9"
+    },
+    {
+      "album": {
+        "name": "Courage",
+        "url": "https://open.spotify.com/album/19aRCgohNVAudp83mHFW3p"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104721,
+      "name": "Courage",
+      "url": "https://open.spotify.com/track/5JY2rNmkirIvGPOSMJxMxT"
+    },
+    {
+      "album": {
+        "name": "cozy afternoon",
+        "url": "https://open.spotify.com/album/6Bl4hOdFPKt2CSUCu5Z67W"
+      },
+      "artists": [
+        {
+          "name": "Sonyakisa",
+          "url": "https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105454,
+      "name": "cozy afternoon",
+      "url": "https://open.spotify.com/track/12zTtdUl4JctacOgVOEHzJ"
+    },
+    {
+      "album": {
+        "name": "Crisp Air",
+        "url": "https://open.spotify.com/album/5rgMBodbVFZ2BZJqqZjg33"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104822,
+      "name": "Crisp Air",
+      "url": "https://open.spotify.com/track/5fSHGwaRo4cnUMpblWCh35"
+    },
+    {
+      "album": {
+        "name": "Cry Out",
+        "url": "https://open.spotify.com/album/2JJno7kf0mJ4MNC4J3MSB4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103780,
+      "name": "Cry Out",
+      "url": "https://open.spotify.com/track/54AIK3sejhhH1mcjRXB3NA"
+    },
+    {
+      "album": {
+        "name": "daily routine",
+        "url": "https://open.spotify.com/album/5aTdl9PQmiS2rZ1nFv7oTp"
+      },
+      "artists": [
+        {
+          "name": "Melodique",
+          "url": "https://open.spotify.com/artist/0upqSGuW20Xp5lBpKbc34n"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "daily routine",
+      "url": "https://open.spotify.com/track/2KzcpvschTClsRfNDdulQ5"
+    },
+    {
+      "album": {
+        "name": "Dear Father",
+        "url": "https://open.spotify.com/album/0iKQ9PiKWnMmBzZI0IpqoY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102500,
+      "name": "Dear Father",
+      "url": "https://open.spotify.com/track/22cZQNIaZRFV7BctvqXf4a"
+    },
+    {
+      "album": {
+        "name": "Dear Mother",
+        "url": "https://open.spotify.com/album/5nQLyyJTS7xNXVGJzwu6nB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99527,
+      "name": "Dear Mother",
+      "url": "https://open.spotify.com/track/3XKC8tC3YMJjxrIRNbQSmM"
+    },
+    {
+      "album": {
+        "name": "War Time",
+        "url": "https://open.spotify.com/album/7Ls8KgBDSfyWTDDtzRR8uu"
+      },
+      "artists": [
+        {
+          "name": "Serge Quadrado",
+          "url": "https://open.spotify.com/artist/3OE3mY6tzTJI6HUbUlfR0X"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48000,
+      "name": "Desolation",
+      "url": "https://open.spotify.com/track/2QgtSusCe8TwsoSBvLqtUG"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Dragonspine Flourishing Past (Piano)",
+      "url": "https://open.spotify.com/track/2itaD56DZaaR14MA3oAxo5"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Dragonspine Ice Crystal (Piano)",
+      "url": "https://open.spotify.com/track/40PDgSac63TceR2qfg4Lu7"
+    },
+    {
+      "album": {
+        "name": "War Time",
+        "url": "https://open.spotify.com/album/7Ls8KgBDSfyWTDDtzRR8uu"
+      },
+      "artists": [
+        {
+          "name": "Serge Quadrado",
+          "url": "https://open.spotify.com/artist/3OE3mY6tzTJI6HUbUlfR0X"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 196363,
+      "name": "Dramatic Piano Story",
+      "url": "https://open.spotify.com/track/1ciOZCndDvFKAcc0TOtob0"
+    },
+    {
+      "album": {
+        "name": "Dream Waltz",
+        "url": "https://open.spotify.com/album/6I5PJDVDGP2zlNvqbI3MmF"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Dream Waltz",
+      "url": "https://open.spotify.com/track/62O35G0iHVKb9W6uSZmWEv"
+    },
+    {
+      "album": {
+        "name": "Echoes of Sorrow",
+        "url": "https://open.spotify.com/album/35EDuHL7lV9Ods1BupPUm2"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Le\u00f3n",
+          "url": "https://open.spotify.com/artist/55pax7nWiHFl6lErm3SH0I"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137874,
+      "name": "Echoes of Sorrow",
+      "url": "https://open.spotify.com/track/6Zw6FJFQ5FfRYiK4xse09x"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/5C12mSYwbHnmiemOmZfCHx"
+      },
+      "artists": [
+        {
+          "name": "collie",
+          "url": "https://open.spotify.com/artist/3ZyPOKDC1JiQp6y37pjxMW"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165378,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/1zr3vsJAFOhKGhkyeOrRpZ"
+    },
+    {
+      "album": {
+        "name": "Ecstacy",
+        "url": "https://open.spotify.com/album/27UToKv2F9xlYM2Sv73WQC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Ecstacy",
+      "url": "https://open.spotify.com/track/3VAAw4fCVhHYSfGYRgy0j9"
+    },
+    {
+      "album": {
+        "name": "Eternity",
+        "url": "https://open.spotify.com/album/0EoSIxxYfrIEtIgnhQfbn0"
+      },
+      "artists": [
+        {
+          "name": "Eskricke",
+          "url": "https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97125,
+      "name": "Eternity",
+      "url": "https://open.spotify.com/track/58kHAfcUFSZ0Pp3jATXdqh"
+    },
+    {
+      "album": {
+        "name": "Evening Shadows",
+        "url": "https://open.spotify.com/album/0wT1JpYtmy39kl9ERXc2Fn"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195728,
+      "name": "Evening Shadows",
+      "url": "https://open.spotify.com/track/16hBvC2XOkUpHmLVEcCc6x"
+    },
+    {
+      "album": {
+        "name": "eventide",
+        "url": "https://open.spotify.com/album/5TS3tkf2mFWmWAyuyVeUSK"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141337,
+      "name": "eventide",
+      "url": "https://open.spotify.com/track/3j4iLDNdAXiUc7oP5Nyi44"
+    },
+    {
+      "album": {
+        "name": "Expectation",
+        "url": "https://open.spotify.com/album/6y7PpnFKoKskt9VbQV8MHO"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196905,
+      "name": "Expectation",
+      "url": "https://open.spotify.com/track/54k6c3xAQbgJyzax0cTkUO"
+    },
+    {
+      "album": {
+        "name": "fable",
+        "url": "https://open.spotify.com/album/0PgDvzkzNQ54WDXqmaGgmv"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        },
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149142,
+      "name": "fable",
+      "url": "https://open.spotify.com/track/2x4JUfTNw6Ht4lUxtAS0OP"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Darker (Crazy in Love)",
+        "url": "https://open.spotify.com/album/6YlFtB8YLeclZvUKrOyvJN"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "Fifty Shades Darker (Crazy in Love)",
+      "url": "https://open.spotify.com/track/6SiqDm2VW8x6YVoEIPM9S2"
+    },
+    {
+      "album": {
+        "name": "Floating Away",
+        "url": "https://open.spotify.com/album/3gkbxrch1pUoGSsSf8EMS5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103864,
+      "name": "Floating Away",
+      "url": "https://open.spotify.com/track/7GSyagbj0E9OI6mJDAPPDO"
+    },
+    {
+      "album": {
+        "name": "Flying Home",
+        "url": "https://open.spotify.com/album/1QHQLw99RG7SpFevpDf1dv"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103923,
+      "name": "Flying Home",
+      "url": "https://open.spotify.com/track/2NcL1ofi0cVpUSJxN8VvLo"
+    },
+    {
+      "album": {
+        "name": "For Elizabeth",
+        "url": "https://open.spotify.com/album/0UUZJdd9C7zgvtU24MhQY1"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 100382,
+      "name": "For Elizabeth",
+      "url": "https://open.spotify.com/track/2RDmpLQY1UCkv4lZs5nnc8"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68626,
+      "name": "for kissing and to sing with (for Sarah)",
+      "url": "https://open.spotify.com/track/4UykjTX6ahaJNyWjHWGxb6"
+    },
+    {
+      "album": {
+        "name": "For My Love",
+        "url": "https://open.spotify.com/album/0VbOp7fj3Xix4kZbDmrERb"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109912,
+      "name": "For My Love",
+      "url": "https://open.spotify.com/track/02bplJwSJ3EXQuIGypAmyM"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/7dcJjFVZIDGd7FW5dvjMxe"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 98449,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4Y8DQCuqgG9xFFU5eLhd3U"
+    },
+    {
+      "album": {
+        "name": "Just Wright",
+        "url": "https://open.spotify.com/album/4CfCbDbyj8PZW88eWlcht4"
+      },
+      "artists": [
+        {
+          "name": "Danny Wright",
+          "url": "https://open.spotify.com/artist/61iLE8UCtC0CquRuILASQm"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302146,
+      "name": "Forever Together",
+      "url": "https://open.spotify.com/track/08s74bD4VBcwn3v7ddwsv9"
+    },
+    {
+      "album": {
+        "name": "Forgive Me",
+        "url": "https://open.spotify.com/album/3aSzuvibL22DnQBF8jjD4f"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-20",
+      "duration_ms": 101157,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/7Lu7UAHWXnXPKDdWOpJqBH"
+    },
+    {
+      "album": {
+        "name": "Fountains",
+        "url": "https://open.spotify.com/album/3xyyXyaIBUaaeKAYEExZCK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97307,
+      "name": "Fountains",
+      "url": "https://open.spotify.com/track/0oNWI69uwVhklsZUtmXANF"
+    },
+    {
+      "album": {
+        "name": "gentle",
+        "url": "https://open.spotify.com/album/6JA3chXmV8FvSBvM34ervY"
+      },
+      "artists": [
+        {
+          "name": "moonstone beach",
+          "url": "https://open.spotify.com/artist/689WgVDqchqAEciHYc7xiz"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "gentle pt. 1",
+      "url": "https://open.spotify.com/track/10IrZVg59WAlbc1t7kcfOi"
+    },
+    {
+      "album": {
+        "name": "gentle",
+        "url": "https://open.spotify.com/album/6JA3chXmV8FvSBvM34ervY"
+      },
+      "artists": [
+        {
+          "name": "moonstone beach",
+          "url": "https://open.spotify.com/artist/689WgVDqchqAEciHYc7xiz"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "gentle pt. 2",
+      "url": "https://open.spotify.com/track/4gi39Ep884GfXBIyUjY3oI"
+    },
+    {
+      "album": {
+        "name": "After the Rain (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2U2FdzXTntiVlT0lnifm5u"
+      },
+      "artists": [
+        {
+          "name": "Neil Tatar",
+          "url": "https://open.spotify.com/artist/2mOlDl6Cor1vtv5FKeaTaf"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278706,
+      "name": "Gentle Steps",
+      "url": "https://open.spotify.com/track/1nhMbHYS4G0xNPMM9flamb"
+    },
+    {
+      "album": {
+        "name": "Gently",
+        "url": "https://open.spotify.com/album/4phsGQKYqBO1H1SDY0G0a4"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165194,
+      "name": "Gently",
+      "url": "https://open.spotify.com/track/40n8qM80nzHbh8GzkHHZQM"
+    },
+    {
+      "album": {
+        "name": "Golden Hourglass (piano version)",
+        "url": "https://open.spotify.com/album/4m0B4VP5oTd1Wks9UWGsVk"
+      },
+      "artists": [
+        {
+          "name": "Luminious Dreams",
+          "url": "https://open.spotify.com/artist/5ePse43Q0Wakx5FBZOhZIL"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Golden Hourglass (piano version)",
+      "url": "https://open.spotify.com/track/1kH0T5k0ryiI1H8spI77Zm"
+    },
+    {
+      "album": {
+        "name": "golden sunset",
+        "url": "https://open.spotify.com/album/21kqeomupEL6PUU7KW1mKv"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168522,
+      "name": "golden sunset",
+      "url": "https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6"
+    },
+    {
+      "album": {
+        "name": "growing old",
+        "url": "https://open.spotify.com/album/5BzW6onKV8CMZTQXGGgUeo"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155821,
+      "name": "growing old",
+      "url": "https://open.spotify.com/track/1d51vvubceobrHPXDJ6Wvs"
+    },
+    {
+      "album": {
+        "name": "Growing Stir",
+        "url": "https://open.spotify.com/album/7fAPb4OJetJAkcGEL37OOR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102668,
+      "name": "Growing Stir",
+      "url": "https://open.spotify.com/track/3dRd7BC1B47oBewvFhJdNE"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - Guizhong's Lullaby",
+        "url": "https://open.spotify.com/album/0KPYPglvrs3cXBJKWjZML2"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        },
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Guizhong's Lullaby (Piano Version)",
+      "url": "https://open.spotify.com/track/21W2dM2jPfm4voCR4Hjf8a"
+    },
+    {
+      "album": {
+        "name": "hand in hand",
+        "url": "https://open.spotify.com/album/0fakI72UnZ9Kb8Te93wDZ1"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174555,
+      "name": "hand in hand",
+      "url": "https://open.spotify.com/track/4wS1swxaWAgGOjgzhSSzto"
+    },
+    {
+      "album": {
+        "name": "Heavenly Peace",
+        "url": "https://open.spotify.com/album/6lWmnWfVbwHVO60lSz45b8"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88934,
+      "name": "Heavenly Peace",
+      "url": "https://open.spotify.com/track/6Pyl2jjDC1sUqQoqabdZFv"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2HrbVGg6S8khRN1Uwyj9OI"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107201,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0iYz3Hv97Pg01fHQhIGTM6"
+    },
+    {
+      "album": {
+        "name": "Hope is Not Lost",
+        "url": "https://open.spotify.com/album/3UFH0kyg0WpzA2jJouk8ZP"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101198,
+      "name": "Hope is Not Lost",
+      "url": "https://open.spotify.com/track/34Bi6s0sTP6DFR1Iki7M1W"
+    },
+    {
+      "album": {
+        "name": "hopes and dreams",
+        "url": "https://open.spotify.com/album/6XE3q3xNa3wKpFdK0RXmcz"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128559,
+      "name": "hopes and dreams",
+      "url": "https://open.spotify.com/track/4hXWldGSiSSOruDiLC2lBN"
+    },
+    {
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/1VjMZ7Zq9fn4wJlm63hwHe"
+      },
+      "artists": [
+        {
+          "name": "Eskricke",
+          "url": "https://open.spotify.com/artist/1KOUwp1r17iEdhFuYeXaIt"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5cyDDOI8VTNwruABo72u1U"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling",
+        "url": "https://open.spotify.com/album/5rr2IEb9miejb8C8G3YkSW"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling (Remixes)",
+        "url": "https://open.spotify.com/album/7C3vdNqcYqulM5qMji85Na"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214117,
+      "name": "Hotline Bling (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/6WXKjhrdg0awYCTk9vBDsH"
+    },
+    {
+      "album": {
+        "name": "Nightertale II",
+        "url": "https://open.spotify.com/album/4Pqto01NYZXUhTgkW4XJ7L"
+      },
+      "artists": [
+        {
+          "name": "Silent Chill",
+          "url": "https://open.spotify.com/artist/5oV70UsPwWn3DogUJkxLDs"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65632,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/0m3g26QiIPYtGjmHI827s6"
+    },
+    {
+      "album": {
+        "name": "The End of a Dream",
+        "url": "https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105511,
+      "name": "I Remember",
+      "url": "https://open.spotify.com/track/2y7eXoUagvUMkLb8P0T4Wx"
+    },
+    {
+      "album": {
+        "name": "Idea 1",
+        "url": "https://open.spotify.com/album/189goDikUHhtkmt0Yjbn5O"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Idea 1",
+      "url": "https://open.spotify.com/track/3kJACFlgn1rg0I0l4XmzLI"
+    },
+    {
+      "album": {
+        "name": "Idea 10",
+        "url": "https://open.spotify.com/album/4R2Z0HemQaOkocIj0UZdJA"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Laurent",
+          "url": "https://open.spotify.com/artist/75ZWaiSvETPQzvOXF1CixO"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134782,
+      "name": "Idea 10",
+      "url": "https://open.spotify.com/track/3ZPuDhyEPF24w2SvIWYvHr"
+    },
+    {
+      "album": {
+        "name": "Idea 10",
+        "url": "https://open.spotify.com/album/537DpzZYvcwyR7Fvl3QnXE"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Idea 10",
+      "url": "https://open.spotify.com/track/1lb3H41lbvAN28N7yqRNL9"
+    },
+    {
+      "album": {
+        "name": "Idea 15",
+        "url": "https://open.spotify.com/album/3wUrxJDVqMv50SEfvTsHHA"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Idea 15",
+      "url": "https://open.spotify.com/track/7MJ8g0egEkhvGu44IamrDE"
+    },
+    {
+      "album": {
+        "name": "Idea 9",
+        "url": "https://open.spotify.com/album/2BpRxtAl6IrHI2OQtd60PK"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137547,
+      "name": "Idea 9",
+      "url": "https://open.spotify.com/track/3TdROUy5JZz1OcBKMZjeux"
+    },
+    {
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/63uupaK2j08GL5Xgf3QK0b"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155189,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/2rz92UCbIOP9R07EpL2cVn"
+    },
+    {
+      "album": {
+        "name": "Imposter Syndrome",
+        "url": "https://open.spotify.com/album/1zCQ0ywJ8iRpkEQMzTp2Xt"
+      },
+      "artists": [
+        {
+          "name": "Dave Lewis",
+          "url": "https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156699,
+      "name": "Imposter Syndrome",
+      "url": "https://open.spotify.com/track/3dJE6NiiWpyxK1W9jG3OHx"
+    },
+    {
+      "album": {
+        "name": "In the Beginning",
+        "url": "https://open.spotify.com/album/6CyDRsZPVpxJWbVsDqK1Oy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105402,
+      "name": "In the Beginning",
+      "url": "https://open.spotify.com/track/5M4A4Zt9RFprKRzOUhQ3UD"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "Invitation of Windblume (Piano)",
+      "url": "https://open.spotify.com/track/1x2ixEb4JrpEuN4m7T5O7V"
+    },
+    {
+      "album": {
+        "name": "Je te laisserai des mots (Piano Cover)",
+        "url": "https://open.spotify.com/album/7D4SmxkKkjHsBJ16gFkPLI"
+      },
+      "artists": [
+        {
+          "name": "IRSNa",
+          "url": "https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Je te laisserai des mots (Piano Cover)",
+      "url": "https://open.spotify.com/track/24WOoQMfbeUe0AAqPKiiq6"
+    },
+    {
+      "album": {
+        "name": "journeys",
+        "url": "https://open.spotify.com/album/5czOiehtV066HzlLpPgiMb"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "journeys",
+      "url": "https://open.spotify.com/track/2L2h70wu17gYivj6aK4tkU"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67862,
+      "name": "Kazuha Moonlit Breeze (Piano)",
+      "url": "https://open.spotify.com/track/3uVb8OWiRgmETfxJRIdw0O"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact - Kazuha Story",
+        "url": "https://open.spotify.com/album/03PXiJXgeqPiayWPTT8wWs"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72000,
+      "name": "Kazuha's Sorrow (Piano Version)",
+      "url": "https://open.spotify.com/track/137O2HFPwNv9qwlwHoV1qQ"
+    },
+    {
+      "album": {
+        "name": "Kotana",
+        "url": "https://open.spotify.com/album/644hlQiCQ140ivB33GxXFx"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153428,
+      "name": "Kotana",
+      "url": "https://open.spotify.com/track/1gEtU3eBHifTx1qJ2iwciw"
+    },
+    {
+      "album": {
+        "name": "lazy town",
+        "url": "https://open.spotify.com/album/2CurKH3gs88MhS90vCMyqD"
+      },
+      "artists": [
+        {
+          "name": "magical keys",
+          "url": "https://open.spotify.com/artist/5dySZfFegeX2Lh4yDR6kkv"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 125091,
+      "name": "lazy town",
+      "url": "https://open.spotify.com/track/0PpaKrZfroenLC1QXSff3N"
+    },
+    {
+      "album": {
+        "name": "Letter to the Sky",
+        "url": "https://open.spotify.com/album/3UqYYdaLEycqJjCHn61Hmn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 101636,
+      "name": "Letter to the Sky",
+      "url": "https://open.spotify.com/track/21FAB8qW6KfjaRK6546RbG"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/79GtiQBYScxAa4uUIbataS"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 101836,
+      "name": "Limitless",
+      "url": "https://open.spotify.com/track/5AxV1Idfa08FK2j6LztK9B"
+    },
+    {
+      "album": {
+        "name": "Lis",
+        "url": "https://open.spotify.com/album/3R4825725fGNCm2qfCqXcu"
+      },
+      "artists": [
+        {
+          "name": "Mu'gambi",
+          "url": "https://open.spotify.com/artist/0POFV4SryqA52VkOW2aTNj"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156350,
+      "name": "Lis (Piano Version)",
+      "url": "https://open.spotify.com/track/16rISbFHL5KBy4ii3dHV62"
+    },
+    {
+      "album": {
+        "name": "listening",
+        "url": "https://open.spotify.com/album/507yNQNug3ziFZiSTAroIe"
+      },
+      "artists": [
+        {
+          "name": "Sonyakisa",
+          "url": "https://open.spotify.com/artist/728hgfnSJp9RITrCa8Se51"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/6sajUbc6aBP8WJi6nPUkfh"
+    },
+    {
+      "album": {
+        "name": "Long Kiss Goodnight",
+        "url": "https://open.spotify.com/album/6nRo3jCPNS3ytpXC616P5m"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152054,
+      "name": "Long Kiss Goodnight",
+      "url": "https://open.spotify.com/track/2F6jA8WX5BlI6I7fQCBOdl"
+    },
+    {
+      "album": {
+        "name": "The End of a Dream",
+        "url": "https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Lost Love",
+      "url": "https://open.spotify.com/track/2hP4GZx9KdKM60p8hG9u9o"
+    },
+    {
+      "album": {
+        "name": "Loves",
+        "url": "https://open.spotify.com/album/7pnjndOuZeyanOxlZr1WFC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Noah Klein",
+          "url": "https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101622,
+      "name": "Loves",
+      "url": "https://open.spotify.com/track/6cvAbImWeu3AwErvxMsoU1"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/5C5wipvz7i8KMJA2KXIDZY"
+      },
+      "artists": [
+        {
+          "name": "Sidney Chopin",
+          "url": "https://open.spotify.com/artist/1bxajqVPVL8V1o0gc3pcxm"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1jmy9hJUnjA0XyeCr5ncP3"
+    },
+    {
+      "album": {
+        "name": "Lydia",
+        "url": "https://open.spotify.com/album/4We02dQ2W9Aa9SFy2fjKjj"
+      },
+      "artists": [
+        {
+          "name": "Time Interior",
+          "url": "https://open.spotify.com/artist/4adzyetIQxhziqUUA11WXb"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 180000,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/2QhxYdJlftCyYW3fk43KCQ"
+    },
+    {
+      "album": {
+        "name": "Man's Search for Meaning",
+        "url": "https://open.spotify.com/album/6sZm2GdwKPWmNAPw1prRsp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98497,
+      "name": "Man's Search for Meaning",
+      "url": "https://open.spotify.com/track/3DKqWbmB4QDvEK4juTS7Sh"
+    },
+    {
+      "album": {
+        "name": "Mashama",
+        "url": "https://open.spotify.com/album/5PXtgu3ZxP9d9WWRzDRNAv"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Mashama",
+      "url": "https://open.spotify.com/track/5AGJtGhI61lHjGvXyNld2Z"
+    },
+    {
+      "album": {
+        "name": "Meadows",
+        "url": "https://open.spotify.com/album/5tZAtgixML1n1DYcW5MbZr"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145090,
+      "name": "Meadows",
+      "url": "https://open.spotify.com/track/23OMI2sduy3hGrZaQEx3cs"
+    },
+    {
+      "album": {
+        "name": "Chill Music Vol. 1",
+        "url": "https://open.spotify.com/album/3myVSgw73Z9hKHWLPgrco7"
+      },
+      "artists": [
+        {
+          "name": "BLKBOK",
+          "url": "https://open.spotify.com/artist/2WaCahd01B8w8WrIdkQrqt"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170689,
+      "name": "Meditation for Moe",
+      "url": "https://open.spotify.com/track/0kVw0Rd170tY33aBqqtHiL"
+    },
+    {
+      "album": {
+        "name": "Merry-Go-Round of Life (From \"Howl\u00b4s Moving Castle\")",
+        "url": "https://open.spotify.com/album/34FXmDV4FBd12htsvMBNB3"
+      },
+      "artists": [
+        {
+          "name": "Morunas",
+          "url": "https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165126,
+      "name": "Merry-Go-Round of Life (From \"Howl\u00b4s Moving Castle\")",
+      "url": "https://open.spotify.com/track/2uGzwciZEchVvt2glv4Fpj"
+    },
+    {
+      "album": {
+        "name": "mid-morning fog",
+        "url": "https://open.spotify.com/album/4RieggBEnXrqTDfZ2q5wLa"
+      },
+      "artists": [
+        {
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+        },
+        {
+          "name": "fantompower",
+          "url": "https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317130,
+      "name": "mid-morning fog",
+      "url": "https://open.spotify.com/track/2TI6jYgdVqwB9LSndm0onN"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/6KjOZHcjb4wp1slHW8rEqP"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111455,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0d7aUcbr6SSi3FQWESwCpR"
+    },
+    {
+      "album": {
+        "name": "Moon Gloom",
+        "url": "https://open.spotify.com/album/77cuMyyzaGNBcqrmh7JeA4"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127991,
+      "name": "Moon Gloom",
+      "url": "https://open.spotify.com/track/3zr5TBvPW54B8Ou33rDoXL"
+    },
+    {
+      "album": {
+        "name": "Nightlight",
+        "url": "https://open.spotify.com/album/1eg33ImJPDTLtOLos69Zis"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166138,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5OpsnM0UAKLx7MYxuaYd63"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/0UW7Mtr1r7jNBaxb37DWyp"
+      },
+      "artists": [
+        {
+          "name": "Joe Sinha Semple",
+          "url": "https://open.spotify.com/artist/1A7OPDVDUqq417nwKzAVu6"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109838,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/0GEbxK3DRICzhVpSorrdWa"
+    },
+    {
+      "album": {
+        "name": "Moonrise",
+        "url": "https://open.spotify.com/album/1220iFWZlehxubiHDyBqh1"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101693,
+      "name": "Moonrise",
+      "url": "https://open.spotify.com/track/7IfKbSLVoZfONWi6mFql8o"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65653,
+      "name": "Moving Day At Her Third Floor Walk Up",
+      "url": "https://open.spotify.com/track/28emNUpv5CbA8uKvCI68vT"
+    },
+    {
+      "album": {
+        "name": "My Favorite Creek",
+        "url": "https://open.spotify.com/album/3l78Jr5YV3lZa9B4mPDNGg"
+      },
+      "artists": [
+        {
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129231,
+      "name": "My Favorite Creek",
+      "url": "https://open.spotify.com/track/6vfGX7wYYLJELZXSEh9J5Q"
+    },
+    {
+      "album": {
+        "name": "My Quiet Place",
+        "url": "https://open.spotify.com/album/6AgvMajrpbLe2yH1LyZpE1"
+      },
+      "artists": [
+        {
+          "name": "Chris Phillips",
+          "url": "https://open.spotify.com/artist/6h270wAsFRuU5OCsi6PTsk"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 130545,
+      "name": "My Quiet Place",
+      "url": "https://open.spotify.com/track/1PTLnmKhISHwtR87qZU1mf"
+    },
+    {
+      "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/5hF0kbDhM6PDXyi2Pwb64c"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 93781,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/4X2WZP9fcxv4E890G7Xle6"
+    },
+    {
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4vEudwlcrPV1yNKemuPrv4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Noah Klein",
+          "url": "https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101760,
+      "name": "New Moon",
+      "url": "https://open.spotify.com/track/3oZvfMByFaXnbw2hsMoDG7"
+    },
+    {
+      "album": {
+        "name": "Evening Shadows",
+        "url": "https://open.spotify.com/album/0wT1JpYtmy39kl9ERXc2Fn"
+      },
+      "artists": [
+        {
+          "name": "Boyd",
+          "url": "https://open.spotify.com/artist/32X14g5e0uOfzySXxatCHA"
+        },
+        {
+          "name": "David S. Park",
+          "url": "https://open.spotify.com/artist/56ktVDec0voYjJtU66J090"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104347,
+      "name": "Night Cabin",
+      "url": "https://open.spotify.com/track/08alJ7m0Ui1St7WKJPD0EV"
+    },
+    {
+      "album": {
+        "name": "night lights",
+        "url": "https://open.spotify.com/album/6W7nOgUpePMLd2rd79Y0VE"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111520,
+      "name": "night lights",
+      "url": "https://open.spotify.com/track/19JJCUZmRcL6I4zG6O8wC5"
+    },
+    {
+      "album": {
+        "name": "Nkiru",
+        "url": "https://open.spotify.com/album/5agtfkE503uIGoHgUsCtiF"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Nkiru",
+      "url": "https://open.spotify.com/track/55zxJfvUgLfLKUwFPksaSr"
+    },
+    {
+      "album": {
+        "name": "Nocturnal no. 1",
+        "url": "https://open.spotify.com/album/3XzIaLC1Dk0CVHMKsqbzcx"
+      },
+      "artists": [
+        {
+          "name": "Bettina Hummler",
+          "url": "https://open.spotify.com/artist/1W87kQ3emPG0HkiBBuOthS"
+        },
+        {
+          "name": "Sueno",
+          "url": "https://open.spotify.com/artist/5LqQjFKdMHRJkhIe8tC7ym"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129175,
+      "name": "Nocturnal no. 1",
+      "url": "https://open.spotify.com/track/30LknuH5MOLqS5w5arD37Q"
+    },
+    {
+      "album": {
+        "name": "nocturnal whispers",
+        "url": "https://open.spotify.com/album/6NuhUO3IMr6dnUQYZlm70c"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124978,
+      "name": "nocturnal whispers",
+      "url": "https://open.spotify.com/track/4tveVtTOFUe5JqUP25g7xs"
+    },
+    {
+      "album": {
+        "name": "Merush\u00ef",
+        "url": "https://open.spotify.com/album/6B5V33OXRlJmVApVOgGYDQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Park",
+          "url": "https://open.spotify.com/artist/01NXB5dRKo7u1GcRovVyB2"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "October",
+      "url": "https://open.spotify.com/track/2sxA88AoEjjPrWJDjfAFAe"
+    },
+    {
+      "album": {
+        "name": "Old Flame",
+        "url": "https://open.spotify.com/album/0ZlDSBygypWBBuVDbM9OH3"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104195,
+      "name": "Old Flame",
+      "url": "https://open.spotify.com/track/65uNh1wIKZHla5FAHjhKDI"
+    },
+    {
+      "album": {
+        "name": "One Year",
+        "url": "https://open.spotify.com/album/1zr2DXYzyjAc5zCulGPym0"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146517,
+      "name": "One Year",
+      "url": "https://open.spotify.com/track/0BMY9nY0nOBSWsDLOnvHIi"
+    },
+    {
+      "album": {
+        "name": "The End of a Dream",
+        "url": "https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85449,
+      "name": "Only One Choice",
+      "url": "https://open.spotify.com/track/4EhoVeJaRztgYGzTNaoV7q"
+    },
+    {
+      "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134722,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/0BBKjFhpMoNfhwEkp1vrOL"
+    },
+    {
+      "album": {
+        "name": "onset",
+        "url": "https://open.spotify.com/album/5XHePjFMyP5y6DBdHfNwhD"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "onset",
+      "url": "https://open.spotify.com/track/1bYyA6zLjC57wsu04g1zHd"
+    },
+    {
+      "album": {
+        "name": "Our Different Path",
+        "url": "https://open.spotify.com/album/15Q32bCMYG1Pvcuz1GdrZw"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        },
+        {
+          "name": "Jordy Chandra Orchestra",
+          "url": "https://open.spotify.com/artist/6GIie3fBA4zReOkm3gMwiQ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206264,
+      "name": "Our Different Path",
+      "url": "https://open.spotify.com/track/1hIShYhRK01uHTplOqiGHu"
+    },
+    {
+      "album": {
+        "name": "Our Different Path",
+        "url": "https://open.spotify.com/album/6izjKc0CD37mPGAUt6t6Ws"
+      },
+      "artists": [
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        },
+        {
+          "name": "Jordy Chandra Orchestra",
+          "url": "https://open.spotify.com/artist/6GIie3fBA4zReOkm3gMwiQ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209032,
+      "name": "Our Different Path",
+      "url": "https://open.spotify.com/track/19jfHCIIpr896sGZUQ8e4e"
+    },
+    {
+      "album": {
+        "name": "Over The Mountain",
+        "url": "https://open.spotify.com/album/2NHYDwh5jerc6y9XdxlenC"
+      },
+      "artists": [
+        {
+          "name": "Jona Alvas",
+          "url": "https://open.spotify.com/artist/4uKSeDjgX5mVDQ8qQ0azvQ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135367,
+      "name": "Over The Mountain",
+      "url": "https://open.spotify.com/track/62EPOGMh5NcSKKqAS10ycP"
+    },
+    {
+      "album": {
+        "name": "Over The Rainbow",
+        "url": "https://open.spotify.com/album/1z7ysEPWEbcCM66Nop6QaJ"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149690,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/2AjOUqz9VSg7jd0OTZUQeX"
+    },
+    {
+      "album": {
+        "name": "Wash Away",
+        "url": "https://open.spotify.com/album/5FA99bHIbC3rcxqI8QPkrP"
+      },
+      "artists": [
+        {
+          "name": "Colour Tones",
+          "url": "https://open.spotify.com/artist/5jkLnVqre8POPBFGsapMsK"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Palette Blu",
+      "url": "https://open.spotify.com/track/0o5BzHnMNgU6ysIoYBjoQU"
+    },
+    {
+      "album": {
+        "name": "Paris Night",
+        "url": "https://open.spotify.com/album/4m5i6Iof0SWCFwt4uT0YfC"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96026,
+      "name": "Paris Night",
+      "url": "https://open.spotify.com/track/4EzW9D2k0VsLlXL2LZoInc"
+    },
+    {
+      "album": {
+        "name": "Part of Your World",
+        "url": "https://open.spotify.com/album/1j2QeKNeYKuHmjZYsrazHq"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210150,
+      "name": "Part of Your World",
+      "url": "https://open.spotify.com/track/3p5vlyfvSyTAWolW0WHSiX"
+    },
+    {
+      "album": {
+        "name": "peaceful sunset",
+        "url": "https://open.spotify.com/album/0tgMphuS7kJOb8ehLmSuPC"
+      },
+      "artists": [
+        {
+          "name": "boy with piano",
+          "url": "https://open.spotify.com/artist/0ozUqgvSW55CfPryMGidHK"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 117984,
+      "name": "peaceful sunset",
+      "url": "https://open.spotify.com/track/0BUpsRYC2ssKx4kj0LvzCM"
+    },
+    {
+      "album": {
+        "name": "Periods of Happiness",
+        "url": "https://open.spotify.com/album/1R0raGVweqmCeezLhifk3R"
+      },
+      "artists": [
+        {
+          "name": "Playing To Pitch In",
+          "url": "https://open.spotify.com/artist/6TRj5grL3SgjzITEJyMOx5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132096,
+      "name": "Periods of Happiness",
+      "url": "https://open.spotify.com/track/0lMGJuCfhC5JMB0lTKKHoG"
+    },
+    {
+      "album": {
+        "name": "perspectives",
+        "url": "https://open.spotify.com/album/7GpNjtiELHZb7B0SGPyJRf"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130716,
+      "name": "perspectives",
+      "url": "https://open.spotify.com/track/6hbuWP4JWS0dCygah2smZF"
+    },
+    {
+      "album": {
+        "name": "Piano Peace",
+        "url": "https://open.spotify.com/album/4z5HA8e4copgHDHSwBg70o"
+      },
+      "artists": [
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2385000,
+      "name": "Piano Peace",
+      "url": "https://open.spotify.com/track/2XF9NUpHwCYk7IDoeKOuQE"
+    },
+    {
+      "album": {
+        "name": "Pink Lightning",
+        "url": "https://open.spotify.com/album/4gLfnUHU8nujvU7h6pvxfl"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "Pink Lightning",
+      "url": "https://open.spotify.com/track/3uzRLP6BmoemR6P4j4WUrA"
+    },
+    {
+      "album": {
+        "name": "Prelude to Fire (Chopin, E Minor #4)",
+        "url": "https://open.spotify.com/album/5RhW05ZsifDMkO1wLAfLEz"
+      },
+      "artists": [
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        },
+        {
+          "name": "Eugene Friesen",
+          "url": "https://open.spotify.com/artist/71pFOOzd9MF73Sl7WsBoFW"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Prelude to Fire (Chopin, E Minor #4)",
+      "url": "https://open.spotify.com/track/02MJNu93Tm9Y11FC7nver2"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77142,
+      "name": "Pure Sky (Piano)",
+      "url": "https://open.spotify.com/track/2POwmNePWWgbeyEFAp38pt"
+    },
+    {
+      "album": {
+        "name": "p\u00e6oner",
+        "url": "https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112884,
+      "name": "p\u00e6oner",
+      "url": "https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd"
+    },
+    {
+      "album": {
+        "name": "raindrops",
+        "url": "https://open.spotify.com/album/7D0dlYz2XBjxINaBVrCzF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124778,
+      "name": "raindrops",
+      "url": "https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95400,
+      "name": "Relaxing in Peaceful Island (Piano)",
+      "url": "https://open.spotify.com/track/4NVgO4AF5Ef5lDoCgUavsT"
+    },
+    {
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/3Bz5mhO640taWciqY8KIMS"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127864,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/5vLqV0SjGrPu5wcom7hj2h"
+    },
+    {
+      "album": {
+        "name": "Reminiscence",
+        "url": "https://open.spotify.com/album/37D80M4wHHBz3Cw9Kd1UIg"
+      },
+      "artists": [
+        {
+          "name": "Naekun Naekan",
+          "url": "https://open.spotify.com/artist/1aV4QGGSXCmQJxTcV3g0DX"
+        },
+        {
+          "name": "Saki.",
+          "url": "https://open.spotify.com/artist/7qWv4b0xOHAuGnCdrq80rC"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/1mJ52alTdFa9p7YN8s7F3c"
+    },
+    {
+      "album": {
+        "name": "rise",
+        "url": "https://open.spotify.com/album/5fYRpW4pKqnsB2dtvhmGZM"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        }
+      ],
+      "date_added": "2023-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152250,
+      "name": "rise",
+      "url": "https://open.spotify.com/track/2Ni1zoQRJL9bCPeegBzDGB"
+    },
+    {
+      "album": {
+        "name": "River's End",
+        "url": "https://open.spotify.com/album/7HciAXCbyW7EI4hb571yhM"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95174,
+      "name": "River's End",
+      "url": "https://open.spotify.com/track/4iB8rFBmdY2qSJ1DDIVRnF"
+    },
+    {
+      "album": {
+        "name": "Roses are Fine",
+        "url": "https://open.spotify.com/album/2D2FlBgxjEV4qojFN7MZCG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105123,
+      "name": "Roses are Fine",
+      "url": "https://open.spotify.com/track/7qjmoVTdz6CiB8Ymxnnt9q"
+    },
+    {
+      "album": {
+        "name": "Save a Life",
+        "url": "https://open.spotify.com/album/0hRS6XDA2RHIxvo3YlnI1o"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187271,
+      "name": "Save a Life",
+      "url": "https://open.spotify.com/track/6HxTlSPLrwmIzp33OuLW0J"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/6Qlqzau4QqTCt1FgMc0nkv"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101222,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/3WIG2MNOdJDK9njb6D3WsW"
+    },
+    {
+      "album": {
+        "name": "Genshin Impact Relaxing Beside Bed Collection",
+        "url": "https://open.spotify.com/album/2kxtzO6eCq7YwgybnWMyP3"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Secret Island Story (Piano)",
+      "url": "https://open.spotify.com/track/4zyPQPc9nEcJsCw1dQu1mR"
+    },
+    {
+      "album": {
+        "name": "September - Piano Cover",
+        "url": "https://open.spotify.com/album/0Bxh1tnf5II9k1Y1oxJ8H3"
+      },
+      "artists": [
+        {
+          "name": "mono._",
+          "url": "https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4"
+        },
+        {
+          "name": "shilou.",
+          "url": "https://open.spotify.com/artist/7fVo25BMTuMao6idndJ5eK"
+        },
+        {
+          "name": "hiraeth vibe",
+          "url": "https://open.spotify.com/artist/6RH4mUZKpakXMv1x8yFzpr"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 133548,
+      "name": "September - Piano Cover",
+      "url": "https://open.spotify.com/track/6XjqCtJBgZY1uUJCORW4t2"
+    },
+    {
+      "album": {
+        "name": "She Cooks",
+        "url": "https://open.spotify.com/album/3x10zysnvcCZilx5I8OWXM"
+      },
+      "artists": [
+        {
+          "name": "Louis Mevel",
+          "url": "https://open.spotify.com/artist/1hhMRHJAUq7NSgAcRB7fuK"
+        },
+        {
+          "name": "Simon Park",
+          "url": "https://open.spotify.com/artist/01NXB5dRKo7u1GcRovVyB2"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "She Cooks",
+      "url": "https://open.spotify.com/track/2gg0kpVKvmRvlNxjsNumR9"
+    },
+    {
+      "album": {
+        "name": "Merush\u00ef",
+        "url": "https://open.spotify.com/album/6B5V33OXRlJmVApVOgGYDQ"
+      },
+      "artists": [
+        {
+          "name": "Simon Park",
+          "url": "https://open.spotify.com/artist/01NXB5dRKo7u1GcRovVyB2"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "She Cooks",
+      "url": "https://open.spotify.com/track/2dIvXYhB8ZO03FlMLPH6Xi"
+    },
+    {
+      "album": {
+        "name": "Signature (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/736ws74W6xWx2vFNgjoruV"
+      },
+      "artists": [
+        {
+          "name": "Fiona Joy Hawkins",
+          "url": "https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d"
+        },
+        {
+          "name": "Will Ackerman",
+          "url": "https://open.spotify.com/artist/5MHSgzpt7607DgUgvOTlLd"
+        },
+        {
+          "name": "Paul Jarman",
+          "url": "https://open.spotify.com/artist/1r5RcNpuLOKh9gQvPrpfRV"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177566,
+      "name": "Signature",
+      "url": "https://open.spotify.com/track/6jJm023qG8hm4iABExHif5"
+    },
+    {
+      "album": {
+        "name": "Silent Sea",
+        "url": "https://open.spotify.com/album/0kGX2mMSCvSX1qHYfxbJ9j"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104633,
+      "name": "Silent Sea",
+      "url": "https://open.spotify.com/track/78zqrbRbszTVXShPubu4xE"
+    },
+    {
+      "album": {
+        "name": "sleepless (Piano Version)",
+        "url": "https://open.spotify.com/album/5kkac8LaN2YehweQ2DiGym"
+      },
+      "artists": [
+        {
+          "name": "\u00d8dyzon",
+          "url": "https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140658,
+      "name": "sleepless (Piano Version)",
+      "url": "https://open.spotify.com/track/0vrFoAcR2KXIuLK8pgO4GA"
+    },
+    {
+      "album": {
+        "name": "So What if We're Dreaming (piano version)",
+        "url": "https://open.spotify.com/album/2pUn6ufNkMST0hivK9ARmH"
+      },
+      "artists": [
+        {
+          "name": "Luminious Dreams",
+          "url": "https://open.spotify.com/artist/5ePse43Q0Wakx5FBZOhZIL"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131625,
+      "name": "So What if We're Dreaming (piano version)",
+      "url": "https://open.spotify.com/track/58PfU4BXc7c9IjJ22iPwoO"
+    },
+    {
+      "album": {
+        "name": "Solas",
+        "url": "https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Solas",
+      "url": "https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge"
+    },
+    {
+      "album": {
+        "name": "Somata",
+        "url": "https://open.spotify.com/album/6H0mbJthlu9MzP9XyrUhnF"
+      },
+      "artists": [
+        {
+          "name": "Local Color",
+          "url": "https://open.spotify.com/artist/1wmzyttuIX3fh5j7JFRDbO"
+        },
+        {
+          "name": "Bayboat",
+          "url": "https://open.spotify.com/artist/31Zl5KANpXmuRElfltiPXV"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225998,
+      "name": "Somata",
+      "url": "https://open.spotify.com/track/5VyKjdbg0okTRL26PxdUtA"
+    },
+    {
+      "album": {
+        "name": "Soothe, Vol. 5: Lullaby Dreams - Music for a Peaceful Escape",
+        "url": "https://open.spotify.com/album/6O5uhu8C7c1QYQ7cKFxbea"
+      },
+      "artists": [
+        {
+          "name": "Jim Brickman",
+          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 244782,
+      "name": "Somewhere Over The Rainbow",
+      "url": "https://open.spotify.com/track/3Ta5OTDDDLmWcVXeQAobZ5"
+    },
+    {
+      "album": {
+        "name": "song for julia",
+        "url": "https://open.spotify.com/album/00lpGNixgmYpvRBRZyAnDA"
+      },
+      "artists": [
+        {
+          "name": "Archish Arun",
+          "url": "https://open.spotify.com/artist/4f5hsDIno1YcAWvudVPyeu"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120424,
+      "name": "song for julia",
+      "url": "https://open.spotify.com/track/3CC7IF5Tg2koRmGhkACo6s"
+    },
+    {
+      "album": {
+        "name": "songbirds",
+        "url": "https://open.spotify.com/album/73gSEb8RZcUUxpMly4cbtm"
+      },
+      "artists": [
+        {
+          "name": "charm",
+          "url": "https://open.spotify.com/artist/0TEdQjWX05xRJI7efi3ioE"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117187,
+      "name": "songbirds",
+      "url": "https://open.spotify.com/track/1osH8wUZDrgVR7yDdV6mcC"
+    },
+    {
+      "album": {
+        "name": "Songs of You",
+        "url": "https://open.spotify.com/album/5S0rZotBwChgnwc4su4Gsy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Luuk Van Dijk",
+          "url": "https://open.spotify.com/artist/3wBqFOsRiw0tvIgZzO6CxB"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99239,
+      "name": "Songs of You",
+      "url": "https://open.spotify.com/track/7cP0TS1fVS0X8VGsYj4DKa"
+    },
+    {
+      "album": {
+        "name": "Sorrow Serenade",
+        "url": "https://open.spotify.com/album/6Tu6Qk35PNRC9KVezzwBmd"
+      },
+      "artists": [
+        {
+          "name": "Moein Zand",
+          "url": "https://open.spotify.com/artist/7l7vY4LOPGfYb0btc0RyO1"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122308,
+      "name": "Sorrow Serenade",
+      "url": "https://open.spotify.com/track/7A4Ua2CgdoxjoWmfMXRhRh"
+    },
+    {
+      "album": {
+        "name": "Soup Season",
+        "url": "https://open.spotify.com/album/3K6rFrOUsSPKDLnpjLCaTT"
+      },
+      "artists": [
+        {
+          "name": "Jason Fabus",
+          "url": "https://open.spotify.com/artist/7LKwCmWLsExZi4MfMZd0w5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164500,
+      "name": "Soup Season",
+      "url": "https://open.spotify.com/track/2Im8lyVGR3t6tYJV51nPq1"
+    },
+    {
+      "album": {
+        "name": "Spring Honey",
+        "url": "https://open.spotify.com/album/1fVA1ZoYQhQEy6zwE9k1Z4"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Noah Klein",
+          "url": "https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101725,
+      "name": "Spring Honey",
+      "url": "https://open.spotify.com/track/5HxYZZni3uzWlb0K80lC61"
+    },
+    {
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5zxaCN52xn6ZbF5SOQR1tn"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Anna Zo\u00ebga",
+          "url": "https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 97621,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/12BhGc66xd134OiVIvwHVy"
+    },
+    {
+      "album": {
+        "name": "Steal the Show",
+        "url": "https://open.spotify.com/album/6HQFAzKJjdaVcjbmcv0vB9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Noah Klein",
+          "url": "https://open.spotify.com/artist/0vIlNpYXMDWEBxpvlqTD8o"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103260,
+      "name": "Steal the Show",
+      "url": "https://open.spotify.com/track/5Tom2hIEiW0JUkZxFTLaQZ"
+    },
+    {
+      "album": {
+        "name": "Sumeru Vimara Village (From Genshin Impact)",
+        "url": "https://open.spotify.com/album/4upJyaSWzSFFQOkb8fomef"
+      },
+      "artists": [
+        {
+          "name": "Beside Bed",
+          "url": "https://open.spotify.com/artist/33dcvB5ZSg7z2mTenygZuj"
+        },
+        {
+          "name": "Jordy Chandra",
+          "url": "https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 95257,
+      "name": "Sumeru Vimara Village (Piano Version)",
+      "url": "https://open.spotify.com/track/6GOuoO55LeXr9Pe4X4sV9S"
+    },
+    {
+      "album": {
+        "name": "symmetry",
+        "url": "https://open.spotify.com/album/3U0ml7WC87T5srSOb6GCmy"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132187,
+      "name": "symmetry",
+      "url": "https://open.spotify.com/track/55z79jhrBGK9r7eYC9GAal"
+    },
+    {
+      "album": {
+        "name": "tales of hope",
+        "url": "https://open.spotify.com/album/0cVyKh4p0xcF3KKTecu3eh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90750,
+      "name": "tales of hope",
+      "url": "https://open.spotify.com/track/2cSY1J8gukDf1gsKlk3nqc"
+    },
+    {
+      "album": {
+        "name": "The Attic",
+        "url": "https://open.spotify.com/album/6Un8iFf3GjdARGkJAC0qvw"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Gunnar Kemp",
+          "url": "https://open.spotify.com/artist/15S1zhM8CFkbicfXEPCT05"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104436,
+      "name": "The Attic",
+      "url": "https://open.spotify.com/track/3cgRgtV13K9BCkyIxWfVyD"
+    },
+    {
+      "album": {
+        "name": "The Day Before",
+        "url": "https://open.spotify.com/album/4cgeDzu2XPOMsh5BLnkUov"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101243,
+      "name": "The Day Before",
+      "url": "https://open.spotify.com/track/7xCfDiumTXcUbM8XgEi9gm"
+    },
+    {
+      "album": {
+        "name": "The End of a Dream",
+        "url": "https://open.spotify.com/album/3gQg54JbUapufd8LjKlQEY"
+      },
+      "artists": [
+        {
+          "name": "Soheil Bostani",
+          "url": "https://open.spotify.com/artist/5v7gJdbkBahCQTJrKCPga9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107740,
+      "name": "The End of a Dream",
+      "url": "https://open.spotify.com/track/1HdVwaztiRB7rKna79Arg8"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74586,
+      "name": "The Good Advice You Just Don't Take",
+      "url": "https://open.spotify.com/track/0uZBFZ2ER97c9EtxjvDEgj"
+    },
+    {
+      "album": {
+        "name": "The gravity of the moment",
+        "url": "https://open.spotify.com/album/6J5u24dYFPTHv0Km7NhQPd"
+      },
+      "artists": [
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "The gravity of the moment",
+      "url": "https://open.spotify.com/track/6xqqbekGqdfAJ7JqC9doNK"
+    },
+    {
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/0PjWlA3jt5Se7xlxLzV9S1"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177830,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/6p302cM5x1Ba98znYH4bL9"
+    },
+    {
+      "album": {
+        "name": "The Soul",
+        "url": "https://open.spotify.com/album/2sNud9Y15tXDXNdbRP85tl"
+      },
+      "artists": [
+        {
+          "name": "David Redding",
+          "url": "https://open.spotify.com/artist/5FRnsphqNLrZB0XuzdSx4H"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "The Soul",
+      "url": "https://open.spotify.com/track/4bb9ZHJFbG7LXz6byYoLFe"
+    },
+    {
+      "album": {
+        "name": "This Little Fairytale",
+        "url": "https://open.spotify.com/album/203NIpBRN361805M37Jf50"
+      },
+      "artists": [
+        {
+          "name": "Jona Alvas",
+          "url": "https://open.spotify.com/artist/4uKSeDjgX5mVDQ8qQ0azvQ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101546,
+      "name": "This Little Fairytale",
+      "url": "https://open.spotify.com/track/09CYiwVBdIlt6KQVtU5QYh"
+    },
+    {
+      "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/3kVAn3kw1Ze0bx4NQYRe8e"
+      },
+      "artists": [
+        {
+          "name": "l'eupe",
+          "url": "https://open.spotify.com/artist/67AA1XRZU4GSLZQe83BVk9"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Time Will Tell",
+      "url": "https://open.spotify.com/track/6lOr97IGvvwiPThcmSRIu7"
+    },
+    {
+      "album": {
+        "name": "Time Will Tell (Piano Version)",
+        "url": "https://open.spotify.com/album/3pvatIsDF0TOwP7vwhWYhZ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Time Will Tell (Piano Version)",
+      "url": "https://open.spotify.com/track/0vfsa8HGCINniJqnd4fvlH"
+    },
+    {
+      "album": {
+        "name": "To the Attuned",
+        "url": "https://open.spotify.com/album/43WTOK7wDG7rFXYiC2Pgrc"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103320,
+      "name": "To the Attuned",
+      "url": "https://open.spotify.com/track/4sJNTEtl43OaqvZKP4tuhX"
+    },
+    {
+      "album": {
+        "name": "together",
+        "url": "https://open.spotify.com/album/1N3rRkkX2znarCs5zd1Vj2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141395,
+      "name": "together",
+      "url": "https://open.spotify.com/track/49HEyKAlJJy0pWUOBdriq5"
+    },
+    {
+      "album": {
+        "name": "Snapshots",
+        "url": "https://open.spotify.com/album/0RHElHjIE2Bt4O6zwzefZI"
+      },
+      "artists": [
+        {
+          "name": "Tom Eaton",
+          "url": "https://open.spotify.com/artist/6I7GK3bsZhKD2nPbNEIMh5"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70640,
+      "name": "Tom's Tree",
+      "url": "https://open.spotify.com/track/2itVcHUiqI1eIK8oYGEcm8"
+    },
+    {
+      "album": {
+        "name": "Tranquillity",
+        "url": "https://open.spotify.com/album/3pP6RlzrZ32xBIPqgHGNaO"
+      },
+      "artists": [
+        {
+          "name": "Tom Merrall",
+          "url": "https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135222,
+      "name": "Tranquillity",
+      "url": "https://open.spotify.com/track/4lRwDwQyL14NBRRKCvJLpH"
+    },
+    {
+      "album": {
+        "name": "Morphology",
+        "url": "https://open.spotify.com/album/4TBaJ7SIkkd39spLmyvIW4"
+      },
+      "artists": [
+        {
+          "name": "Alpha Mound",
+          "url": "https://open.spotify.com/artist/46wX2M8YuRb5vr2p5xEwxO"
+        },
+        {
+          "name": "v e n n",
+          "url": "https://open.spotify.com/artist/7K80bdPzdWRFqAHBfk1cPi"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98571,
+      "name": "Tripinnante",
+      "url": "https://open.spotify.com/track/0b8D2p5v2s94JTp4pOrp98"
+    },
+    {
+      "album": {
+        "name": "twilight",
+        "url": "https://open.spotify.com/album/5CD4lvfMM6IC3dyKy3xRl7"
+      },
+      "artists": [
+        {
+          "name": "laurel green",
+          "url": "https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk"
+        },
+        {
+          "name": "Andy Feldman",
+          "url": "https://open.spotify.com/artist/3rnRik46TfCZnejgHgnCRQ"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120120,
+      "name": "twilight",
+      "url": "https://open.spotify.com/track/2jgCeM3IjLBPS5drRytGFV"
+    },
+    {
+      "album": {
+        "name": "Two Feathers",
+        "url": "https://open.spotify.com/album/1nhfCIq76swdyOOjCtKF6m"
+      },
+      "artists": [
+        {
+          "name": "Matthew Paull",
+          "url": "https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3"
+        },
+        {
+          "name": "Atawhai",
+          "url": "https://open.spotify.com/artist/6yZTM1ybSrsoRwcfFi8964"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138548,
+      "name": "Two Feathers",
+      "url": "https://open.spotify.com/track/34y1dcgVu2rH3O9DrI03Wr"
+    },
+    {
+      "album": {
+        "name": "Una Mattina",
+        "url": "https://open.spotify.com/album/6k4JPeTYueJiM1o6jlFAB6"
+      },
+      "artists": [
+        {
+          "name": "IRSNa",
+          "url": "https://open.spotify.com/artist/3hPqxI3SsQNfUDfNIpJDeR"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132750,
+      "name": "Una Mattina",
+      "url": "https://open.spotify.com/track/0mRQ62gINTuXybrgr6dNZ0"
+    },
+    {
+      "album": {
+        "name": "Unfolding",
+        "url": "https://open.spotify.com/album/1A1hqVdSgrtTL8r5A061Cp"
+      },
+      "artists": [
+        {
+          "name": "Norman D\u00fcck",
+          "url": "https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122675,
+      "name": "Unfolding",
+      "url": "https://open.spotify.com/track/3o0GCkyaprXDYTUG6Yr1Ub"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0ObhBppfYDpTGYGN8ffvJ9"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Emilia Fuchs",
+          "url": "https://open.spotify.com/artist/2TaZkKYbW0ADcb9ugITcx3"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 104516,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/1qyPMSn0CcYirtrCSJHPtv"
+    },
+    {
+      "album": {
+        "name": "until forever",
+        "url": "https://open.spotify.com/album/6LqXzYcZBTXTpAttTh573v"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103296,
+      "name": "until forever",
+      "url": "https://open.spotify.com/track/3M80Vfo6sw2qQCdmabj0hH"
+    },
+    {
+      "album": {
+        "name": "Velvet Cloud",
+        "url": "https://open.spotify.com/album/0GAyZv24PkilUmkNjNclTm"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Stef\u00e1n Helgason",
+          "url": "https://open.spotify.com/artist/1L25mdO45dyWd3jVTEzoi5"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 104132,
+      "name": "Velvet Cloud",
+      "url": "https://open.spotify.com/track/0zx7RA4vQD2Ur4tHiA1YTL"
+    },
+    {
+      "album": {
+        "name": "Wake Me up When September Ends",
+        "url": "https://open.spotify.com/album/1udYWMGtznpjouFckdjwA4"
+      },
+      "artists": [
+        {
+          "name": "Eliza Ukko",
+          "url": "https://open.spotify.com/artist/16isM9Ct3czi3TQjh1yHRn"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160303,
+      "name": "Wake Me up When September Ends",
+      "url": "https://open.spotify.com/track/09BspZPpU4zuTq1BD3ywrf"
+    },
+    {
+      "album": {
+        "name": "Warmth",
+        "url": "https://open.spotify.com/album/3nSu4UnCngz855S6Au2nNJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Felix Weber",
+          "url": "https://open.spotify.com/artist/6OR4yJYLqq4mmw2wMW9Cly"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104958,
+      "name": "Warmth",
+      "url": "https://open.spotify.com/track/6CYRRfBiWyHVTJGL1rM65q"
+    },
+    {
+      "album": {
+        "name": "Waterfalls of Life",
+        "url": "https://open.spotify.com/album/5WhWDpYMihfjPk0QxRFBiY"
+      },
+      "artists": [
+        {
+          "name": "Daniel Zachary",
+          "url": "https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO"
+        },
+        {
+          "name": "Levi Meyer",
+          "url": "https://open.spotify.com/artist/1xzi3oDoPShzW8iOY8KtEN"
+        },
+        {
+          "name": "Cozy",
+          "url": "https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq"
+        },
+        {
+          "name": "Cozy Piano",
+          "url": "https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Waterfalls of Life",
+      "url": "https://open.spotify.com/track/6aeRz2hfrtz5oWtiu5do0a"
+    },
+    {
+      "album": {
+        "name": "watermelon sugar (piano instrumental)",
+        "url": "https://open.spotify.com/album/2pPeVMycSTC5MqlW8mdYJq"
+      },
+      "artists": [
+        {
+          "name": "Chilled Kitten",
+          "url": "https://open.spotify.com/artist/4bAR3McB7SPBGgDmWTRmvP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "watermelon sugar - piano instrumental",
+      "url": "https://open.spotify.com/track/4gEBcjMwIh1r8KfiMMhGbo"
+    },
+    {
+      "album": {
+        "name": "What a Wonderful World",
+        "url": "https://open.spotify.com/album/2gisOn5fvvmElje0126Q43"
+      },
+      "artists": [
+        {
+          "name": "Julian Byrd",
+          "url": "https://open.spotify.com/artist/6xuFoS81N7OFQKHhhCdeVC"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191189,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/0ezstBMKdNcP41AgsCbYse"
+    },
+    {
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"] (Piano Instrumental)",
+        "url": "https://open.spotify.com/album/02L48TZ94RAA9cWs99fgEa"
+      },
+      "artists": [
+        {
+          "name": "Re:Imagine",
+          "url": "https://open.spotify.com/artist/4VwpVXEXhfbmpwJKIBFrFi"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159373,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"] (Piano Instrumental)",
+      "url": "https://open.spotify.com/track/7DHBf64lC6WSLvdIFx0B9x"
+    },
+    {
+      "album": {
+        "name": "Whenever We Speak",
+        "url": "https://open.spotify.com/album/21dwQheJ9HzsOrfpYfai8m"
+      },
+      "artists": [
+        {
+          "name": "Jona Alvas",
+          "url": "https://open.spotify.com/artist/4uKSeDjgX5mVDQ8qQ0azvQ"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133571,
+      "name": "Whenever We Speak",
+      "url": "https://open.spotify.com/track/6QuUbuOYC5pJsZ32Ptp7UB"
+    },
+    {
+      "album": {
+        "name": "white dahlias",
+        "url": "https://open.spotify.com/album/1pvrhTxWb7d4EQvte9FFAh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125056,
+      "name": "white dahlias",
+      "url": "https://open.spotify.com/track/2I87Dbuf1mWXgzG6JDGDt1"
+    },
+    {
+      "album": {
+        "name": "Chill Music Vol. 1",
+        "url": "https://open.spotify.com/album/3myVSgw73Z9hKHWLPgrco7"
+      },
+      "artists": [
+        {
+          "name": "BLKBOK",
+          "url": "https://open.spotify.com/artist/2WaCahd01B8w8WrIdkQrqt"
+        }
+      ],
+      "date_added": "2023-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209297,
+      "name": "Zen Mood 2023",
+      "url": "https://open.spotify.com/track/2fNmPO31OcxJIW3g4PqkLS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/360efsjHeGOQCxim8gFlBc"
 }

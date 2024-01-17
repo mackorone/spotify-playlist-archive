@@ -282,7 +282,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-07",
       "duration_ms": 184280,
       "name": "A Flower Is A Lovesome Thing",
       "url": "https://open.spotify.com/track/3dblN4E9Dy4cum70D0Fy2L"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
@@ -668,7 +668,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 202133,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX"
@@ -1776,7 +1776,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 456360,
       "name": "Blue Monk - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/2C3rh8eX5vltOmwrz9I78n"
@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 164400,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/7tWsRN4De6t361FzF74Mtc"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 185866,
       "name": "Cast Your Fate To The Wind",
       "url": "https://open.spotify.com/track/2Uyv4IymecQUPjKchJKC3R"
@@ -2292,6 +2292,24 @@
       "duration_ms": 941360,
       "name": "Chameleon",
       "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
+    },
+    {
+      "album": {
+        "name": "Miles Davis And Milt Jackson Quintet/Sextet",
+        "url": "https://open.spotify.com/album/6QV1iyREyud3AGQZxf8Yt7"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis And Milt Jackson Quintet",
+          "url": "https://open.spotify.com/artist/51gulqh1DpAHn0ZUNMRBRu"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 430693,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6B0aELa2yqLyeu2ULt8bEq"
     },
     {
       "album": {
@@ -3090,7 +3108,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 254000,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/7oxwhQxkGegjlMf3k9sWgm"
@@ -3324,7 +3342,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-05",
+      "date_removed": null,
       "duration_ms": 279013,
       "name": "Don't Love Me",
       "url": "https://open.spotify.com/track/0zDUzk5CwhgMctfuIP4eez"
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 374626,
       "name": "Dorene Don't Cry, I - Remastered",
       "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
@@ -4226,7 +4244,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 322133,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
@@ -4298,7 +4316,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 230173,
       "name": "Graceful Touch",
       "url": "https://open.spotify.com/track/4vTZifau5Us490e0sQCU1y"
@@ -6220,7 +6238,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 153826,
       "name": "John Hardy's Wife",
       "url": "https://open.spotify.com/track/5ZaLdSX0UJdLWkOJOVDyzK"
@@ -7414,7 +7432,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 218973,
       "name": "Mo' Better Blues (feat. Terence Blanchard)",
       "url": "https://open.spotify.com/track/78P3mF3w6APwFpnd6UFH4J"
@@ -7450,7 +7468,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 306600,
       "name": "Moanin'",
       "url": "https://open.spotify.com/track/1qLlkVWv58M8mcoRZPHD3I"
@@ -7540,7 +7558,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 385466,
       "name": "Monk's Dream - Take 8",
       "url": "https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev"
@@ -8038,7 +8056,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 372015,
       "name": "My Reverie",
       "url": "https://open.spotify.com/track/0qPQYLhCwZlVQ0yyTYUSTe"
@@ -8092,7 +8110,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 212586,
       "name": "My Wish",
       "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
@@ -8772,7 +8790,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 273760,
       "name": "Poinciana",
       "url": "https://open.spotify.com/track/4lyupu0V7V9CoKhH52sfS8"
@@ -8970,7 +8988,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-11",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "Quiet Nights Of Quiet Stars (Corcovado)",
       "url": "https://open.spotify.com/track/3lTyliusZgm29TXJyfFO3B"
@@ -9350,7 +9368,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 291500,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT"
@@ -9524,7 +9542,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 184560,
       "name": "Smooch",
       "url": "https://open.spotify.com/track/2EgJi1CKzLgsbSRH7A5lcA"
@@ -9786,7 +9804,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-06",
       "duration_ms": 222880,
       "name": "Something To Remember You By",
       "url": "https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l"
@@ -11114,7 +11132,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 241392,
       "name": "The Last Verse",
       "url": "https://open.spotify.com/track/3kmQxusMYqIaXIoWeatRDh"
@@ -11980,7 +11998,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 396520,
       "name": "Two Sleepy People",
       "url": "https://open.spotify.com/track/75A0vJQiBzAxkC7pMjoSeX"
@@ -12514,7 +12532,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 222360,
       "name": "What's The Rush",
       "url": "https://open.spotify.com/track/7yRMYF0BqrqPjinbG9Ja3Z"
@@ -12612,6 +12630,24 @@
       "duration_ms": 282320,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/1J9iVCaEriyoMXpj2XszhU"
+    },
+    {
+      "album": {
+        "name": "2 Trumpets",
+        "url": "https://open.spotify.com/album/4xMWuvN8wdA7k4NPfzo0EN"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310666,
+      "name": "When Your Lover Has Gone - Instrumental",
+      "url": "https://open.spotify.com/track/2OqRnfC8QqRdcUfVGtidcr"
     },
     {
       "album": {

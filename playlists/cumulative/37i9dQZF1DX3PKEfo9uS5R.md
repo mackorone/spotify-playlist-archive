@@ -4,7 +4,7 @@
 
 > Chill house tracks to power your pilates session.
 
-204 songs - 10 hr 27 min
+205 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [How We Do It](https://open.spotify.com/track/7Fangq5H3r0uFVnBmtjqPB) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:10 | 2022-05-20 | 2022-07-22 |
 | [I ADORE U](https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc) | [Hank Lotion](https://open.spotify.com/artist/6d71KgnO30CCz8iSQuzFkM) | [I ADORE U](https://open.spotify.com/album/5xnqBY02HrPts7DQlfXtnK) | 4:02 | 2022-05-10 | 2022-07-01 |
 | [I Don't Wanna Live Forever \- Taladego Tropical Mix](https://open.spotify.com/track/1MAwVy9fDWnicj5xtzzaAD) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV), [Simon Samaeng](https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw) | [I Don't Wanna Live Forever \(Taladego Tropical Mix\)](https://open.spotify.com/album/6udScTmYkOealnMC3AAd7K) | 4:03 | 2021-11-11 | 2022-02-11 |
+| [I Hope You Find What You're Looking For](https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Hope You Find What You're Looking For](https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb) | 3:16 | 2024-01-11 |  |
 | [I Wish We Had More Time](https://open.spotify.com/track/71F5R77kgxulxZTtgzli7j) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [Outside My Window](https://open.spotify.com/album/4LbymBMUIVzLVYePiouiVh) | 4:28 | 2022-08-19 | 2023-02-10 |
 | [I've Got The Feeling](https://open.spotify.com/track/5bDGO5ORzFsUdXQzgxeACC) | [Cymbal Dealers](https://open.spotify.com/artist/4FanGEgeRprmNv0EeYZcje) | [I've Got The Feeling](https://open.spotify.com/album/5HPOU4FAiniS1VDgx3BQw1) | 2:31 | 2022-05-10 | 2023-03-10 |
 | [Ibittsa](https://open.spotify.com/track/6icxpvjxlKDbj62NO4Uq3F) | [Lil Harry](https://open.spotify.com/artist/5T1ysNHc5KEa6gjPBahyBc) | [Ibittsa](https://open.spotify.com/album/6GVsl5RdQPKlGEvUYbETI9) | 3:57 | 2022-09-02 | 2023-08-05 |
@@ -187,7 +188,7 @@
 | [Switch to Mandarin](https://open.spotify.com/track/0zAxSm7pUHr0rZ8OGsaJvA) | [Himari Aoki](https://open.spotify.com/artist/5wymut0det0V9Vf6l8t0mD) | [Switch to Mandarin](https://open.spotify.com/album/6rdVhNeC9SJXYbOvkMlRCB) | 3:11 | 2023-05-26 | 2023-09-16 |
 | [Takamagahara](https://open.spotify.com/track/1ZwyC2Nz4XZVngLbIiBEGR) | [Innocent Panda](https://open.spotify.com/artist/4YxGTSc5GifPVUD3ILmbsv) | [Takamagahara](https://open.spotify.com/album/6WPNmPlwsoIgdlgmebraT7) | 2:19 | 2023-11-17 |  |
 | [The Dove](https://open.spotify.com/track/1z2cIPvykmRJQ99WG7Qytb) | [Svalka](https://open.spotify.com/artist/3sKxosk24x3adgfDCvOBCr) | [The Dove](https://open.spotify.com/album/6kanlvfIHHu37y1qIO7iES) | 2:16 | 2021-11-11 | 2023-08-05 |
-| [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 | 2021-11-11 |  |
+| [The Good Ones](https://open.spotify.com/track/5l4L0T8QAFd3BYInKaurCn) | [Simon Hawking](https://open.spotify.com/artist/76o1itwHoGVElGCaKgeysV) | [Paradise](https://open.spotify.com/album/6PHcvL4SPEaSy1Ny818JnF) | 2:53 | 2021-11-11 | 2024-01-12 |
 | [The House](https://open.spotify.com/track/2ButdsowcftDJQOYPeBes7) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [The House](https://open.spotify.com/album/7ekED2arGdfKQsg1Gqekiw) | 2:37 | 2023-04-21 |  |
 | [Think im falling](https://open.spotify.com/track/3imE71iFvzkD6UUkYkDkDu) | [WingIt](https://open.spotify.com/artist/47DyyyhbkdgZhVnA6GSjpy) | [Island Bypass](https://open.spotify.com/album/1XxoGgi1KmVTJXtgDWQWW4) | 2:06 | 2023-06-02 |  |
 | [Thoughts](https://open.spotify.com/track/3etZY7gz2AHkVFX1bgOMBa) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Another Dream Room EP](https://open.spotify.com/album/2pe3jQkLqd0vjnxxxJuSDW) | 5:16 | 2021-11-11 | 2022-02-11 |

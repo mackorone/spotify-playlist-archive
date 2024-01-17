@@ -1,472 +1,1133 @@
 {
-  "2022-09-17": 2437,
-  "2022-09-18": 2434,
-  "2022-09-19": 2437,
-  "2022-09-20": 2438,
-  "2022-09-21": 2441,
-  "2022-09-22": 2443,
-  "2022-09-23": 2448,
-  "2022-09-24": 2451,
-  "2022-09-25": 2452,
-  "2022-09-26": 2457,
-  "2022-09-27": 2459,
-  "2022-09-28": 2458,
-  "2022-09-29": 2459,
-  "2022-09-30": 2463,
-  "2022-10-01": 2462,
-  "2022-10-02": 2463,
-  "2022-10-03": 2462,
-  "2022-10-04": 2461,
-  "2022-10-05": 2463,
-  "2022-10-06": 2463,
-  "2022-10-07": 2464,
-  "2022-10-08": 2468,
-  "2022-10-09": 2471,
-  "2022-10-10": 2474,
-  "2022-10-11": 2479,
-  "2022-10-12": 2478,
-  "2022-10-13": 2479,
-  "2022-10-14": 2482,
-  "2022-10-15": 2483,
-  "2022-10-16": 2488,
-  "2022-10-17": 2491,
-  "2022-10-18": 2493,
-  "2022-10-19": 2495,
-  "2022-10-20": 2500,
-  "2022-10-21": 2501,
-  "2022-10-22": 2505,
-  "2022-10-23": 2506,
-  "2022-10-24": 2507,
-  "2022-10-25": 2512,
-  "2022-10-26": 2514,
-  "2022-10-27": 2516,
-  "2022-10-28": 2519,
-  "2022-10-29": 2521,
-  "2022-10-30": 2524,
-  "2022-10-31": 2525,
-  "2022-11-01": 2528,
-  "2022-11-02": 2528,
-  "2022-11-03": 2530,
-  "2022-11-04": 2533,
-  "2022-11-05": 2535,
-  "2022-11-06": 2534,
-  "2022-11-07": 2536,
-  "2022-11-08": 2536,
-  "2022-11-09": 2542,
-  "2022-11-10": 2545,
-  "2022-11-11": 2548,
-  "2022-11-12": 2551,
-  "2022-11-13": 2551,
-  "2022-11-14": 2551,
-  "2022-11-15": 2554,
-  "2022-11-16": 2554,
-  "2022-11-17": 2557,
-  "2022-11-18": 2558,
-  "2022-11-19": 2556,
-  "2022-11-20": 2559,
-  "2022-11-21": 2562,
-  "2022-11-22": 2563,
-  "2022-11-23": 2563,
-  "2022-11-24": 2564,
-  "2022-11-25": 2568,
-  "2022-11-26": 2569,
-  "2022-11-27": 2570,
-  "2022-11-28": 2573,
-  "2022-11-29": 2574,
-  "2022-11-30": 2577,
-  "2022-12-01": 2577,
-  "2022-12-02": 2576,
-  "2022-12-03": 2583,
-  "2022-12-04": 2585,
-  "2022-12-05": 2586,
-  "2022-12-06": 2586,
-  "2022-12-07": 2587,
-  "2022-12-08": 2594,
-  "2022-12-09": 2599,
-  "2022-12-10": 2600,
-  "2022-12-11": 2601,
-  "2022-12-12": 2600,
-  "2022-12-13": 2599,
-  "2022-12-14": 2602,
-  "2022-12-15": 2604,
-  "2022-12-16": 2605,
-  "2022-12-17": 2607,
-  "2022-12-18": 2607,
-  "2022-12-19": 2607,
-  "2022-12-20": 2606,
-  "2022-12-21": 2606,
-  "2022-12-22": 2609,
-  "2022-12-24": 2616,
-  "2022-12-25": 2619,
-  "2022-12-26": 2620,
-  "2022-12-27": 2624,
-  "2022-12-28": 2625,
-  "2022-12-29": 2627,
-  "2022-12-30": 2628,
-  "2022-12-31": 2630,
-  "2023-01-01": 2637,
-  "2023-01-02": 2642,
-  "2023-01-03": 2648,
-  "2023-01-04": 2650,
-  "2023-01-05": 2653,
-  "2023-01-06": 2653,
-  "2023-01-07": 2658,
-  "2023-01-08": 2659,
-  "2023-01-09": 2662,
-  "2023-01-10": 2662,
-  "2023-01-11": 2661,
-  "2023-01-12": 2661,
-  "2023-01-13": 2662,
-  "2023-01-14": 2665,
-  "2023-01-15": 2667,
-  "2023-01-16": 2666,
-  "2023-01-17": 2668,
-  "2023-01-18": 2668,
-  "2023-01-19": 2672,
-  "2023-01-20": 2673,
-  "2023-01-21": 2677,
-  "2023-01-22": 2676,
-  "2023-01-23": 2678,
-  "2023-01-24": 2680,
-  "2023-01-25": 2681,
-  "2023-01-26": 2683,
-  "2023-01-27": 2686,
-  "2023-01-28": 2687,
-  "2023-01-29": 2694,
-  "2023-01-30": 2694,
-  "2023-01-31": 2694,
-  "2023-02-01": 2694,
-  "2023-02-02": 2695,
-  "2023-02-03": 2698,
-  "2023-02-04": 2702,
-  "2023-02-05": 2703,
-  "2023-02-06": 2704,
-  "2023-02-07": 2706,
-  "2023-02-08": 2710,
-  "2023-02-09": 2710,
-  "2023-02-10": 2712,
-  "2023-02-11": 2719,
-  "2023-02-12": 2718,
-  "2023-02-13": 2719,
-  "2023-02-14": 2719,
-  "2023-02-15": 2719,
-  "2023-02-16": 2724,
-  "2023-02-17": 2723,
-  "2023-02-18": 2727,
-  "2023-02-19": 2727,
-  "2023-02-20": 2729,
-  "2023-02-21": 2732,
-  "2023-02-22": 2734,
-  "2023-02-23": 2734,
-  "2023-02-24": 2735,
-  "2023-02-25": 2735,
-  "2023-02-26": 2736,
-  "2023-02-27": 2743,
-  "2023-02-28": 2743,
-  "2023-03-01": 2751,
-  "2023-03-02": 2754,
-  "2023-03-03": 2761,
-  "2023-03-04": 2764,
-  "2023-03-05": 2770,
-  "2023-03-06": 2770,
-  "2023-03-07": 2773,
-  "2023-03-08": 2774,
-  "2023-03-09": 2774,
-  "2023-03-10": 2776,
-  "2023-03-11": 2779,
-  "2023-03-12": 2782,
-  "2023-03-13": 2783,
-  "2023-03-14": 2784,
-  "2023-03-15": 2786,
-  "2023-03-16": 2793,
-  "2023-03-17": 2793,
-  "2023-03-18": 2806,
-  "2023-03-19": 2809,
-  "2023-03-20": 2808,
-  "2023-03-21": 2814,
-  "2023-03-22": 2816,
-  "2023-03-23": 2819,
-  "2023-03-24": 2819,
-  "2023-03-25": 2826,
-  "2023-03-26": 2828,
-  "2023-03-27": 2829,
-  "2023-03-28": 2829,
-  "2023-03-29": 2832,
-  "2023-03-30": 2840,
-  "2023-03-31": 2840,
-  "2023-04-01": 2843,
-  "2023-04-02": 2845,
-  "2023-04-03": 2847,
-  "2023-04-04": 2849,
-  "2023-04-05": 2854,
-  "2023-04-06": 2857,
-  "2023-04-07": 2857,
-  "2023-04-09": 2858,
-  "2023-04-10": 2859,
-  "2023-04-11": 2866,
-  "2023-04-12": 2866,
-  "2023-04-13": 2872,
-  "2023-04-14": 2872,
-  "2023-04-15": 2875,
-  "2023-04-16": 2879,
-  "2023-04-17": 2880,
-  "2023-04-18": 2885,
-  "2023-04-19": 2885,
-  "2023-04-20": 2885,
-  "2023-04-21": 2887,
-  "2023-04-22": 2889,
-  "2023-04-23": 2893,
-  "2023-04-24": 2893,
-  "2023-04-25": 2897,
-  "2023-04-26": 2898,
-  "2023-04-27": 2898,
-  "2023-04-28": 2898,
-  "2023-04-29": 2901,
-  "2023-04-30": 2902,
-  "2023-05-01": 2902,
-  "2023-05-02": 2902,
-  "2023-05-03": 2903,
-  "2023-05-04": 2903,
-  "2023-05-05": 2900,
-  "2023-05-06": 2899,
-  "2023-05-07": 2902,
-  "2023-05-08": 2902,
-  "2023-05-09": 2903,
-  "2023-05-10": 2908,
-  "2023-05-11": 2910,
-  "2023-05-12": 2913,
-  "2023-05-13": 2915,
-  "2023-05-14": 2915,
-  "2023-05-15": 2917,
-  "2023-05-16": 2917,
-  "2023-05-17": 2920,
-  "2023-05-18": 2924,
-  "2023-05-19": 2925,
-  "2023-05-20": 2926,
-  "2023-05-21": 2926,
-  "2023-05-22": 2926,
-  "2023-05-23": 2930,
-  "2023-05-24": 2933,
-  "2023-05-25": 2935,
-  "2023-05-26": 2937,
-  "2023-05-27": 2941,
-  "2023-05-28": 2942,
-  "2023-05-29": 2942,
-  "2023-05-30": 2943,
-  "2023-05-31": 2945,
-  "2023-06-01": 2945,
-  "2023-06-02": 2950,
-  "2023-06-03": 2953,
-  "2023-06-04": 2960,
-  "2023-06-05": 2963,
-  "2023-06-06": 2967,
-  "2023-06-07": 2968,
-  "2023-06-08": 2974,
-  "2023-06-09": 2976,
-  "2023-06-10": 2980,
-  "2023-06-11": 2982,
-  "2023-06-12": 2985,
-  "2023-06-13": 2985,
-  "2023-06-14": 2986,
-  "2023-06-15": 2987,
-  "2023-06-16": 2989,
-  "2023-06-17": 2991,
-  "2023-06-18": 2994,
-  "2023-06-19": 2996,
-  "2023-06-20": 2999,
-  "2023-06-21": 3006,
-  "2023-06-22": 3011,
-  "2023-06-23": 3013,
-  "2023-06-24": 3013,
-  "2023-06-25": 3015,
-  "2023-06-26": 3019,
-  "2023-06-27": 3024,
-  "2023-06-28": 3025,
-  "2023-06-29": 3026,
-  "2023-06-30": 3030,
-  "2023-07-01": 3032,
-  "2023-07-02": 3032,
-  "2023-07-03": 3035,
-  "2023-07-04": 3037,
-  "2023-07-05": 3038,
-  "2023-07-06": 3044,
-  "2023-07-07": 3044,
-  "2023-07-08": 3050,
-  "2023-07-09": 3053,
-  "2023-07-10": 3053,
-  "2023-07-11": 3053,
-  "2023-07-12": 3053,
-  "2023-07-13": 3052,
-  "2023-07-14": 3054,
-  "2023-07-15": 3052,
-  "2023-07-16": 3053,
-  "2023-07-17": 3053,
-  "2023-07-18": 3053,
-  "2023-07-19": 3055,
-  "2023-07-20": 3054,
-  "2023-07-21": 3055,
-  "2023-07-22": 3059,
-  "2023-07-23": 3058,
-  "2023-07-24": 3061,
-  "2023-07-25": 3063,
-  "2023-07-26": 3063,
-  "2023-07-27": 3068,
-  "2023-07-28": 3070,
-  "2023-07-29": 3071,
-  "2023-07-30": 3072,
-  "2023-07-31": 3073,
-  "2023-08-01": 3074,
-  "2023-08-02": 3073,
-  "2023-08-03": 3073,
-  "2023-08-04": 3074,
-  "2023-08-05": 3075,
-  "2023-08-06": 3080,
-  "2023-08-07": 3080,
-  "2023-08-08": 3083,
-  "2023-08-09": 3084,
-  "2023-08-10": 3085,
-  "2023-08-11": 3087,
-  "2023-08-12": 3086,
-  "2023-08-13": 3086,
-  "2023-08-14": 3090,
-  "2023-08-15": 3090,
-  "2023-08-16": 3090,
-  "2023-08-17": 3093,
-  "2023-08-18": 3096,
-  "2023-08-19": 3097,
-  "2023-08-20": 3097,
-  "2023-08-21": 3099,
-  "2023-08-22": 3101,
-  "2023-08-23": 3102,
-  "2023-08-24": 3105,
-  "2023-08-25": 3108,
-  "2023-08-26": 3108,
-  "2023-08-27": 3108,
-  "2023-08-28": 3109,
-  "2023-08-29": 3108,
-  "2023-08-30": 3108,
-  "2023-08-31": 3107,
-  "2023-09-01": 3108,
-  "2023-09-02": 3108,
-  "2023-09-03": 3111,
-  "2023-09-04": 3111,
-  "2023-09-05": 3113,
-  "2023-09-06": 3114,
-  "2023-09-07": 3114,
-  "2023-09-08": 3114,
-  "2023-09-09": 3114,
-  "2023-09-10": 3117,
-  "2023-09-11": 3119,
-  "2023-09-12": 3119,
-  "2023-09-13": 3123,
-  "2023-09-14": 3123,
-  "2023-09-15": 3123,
-  "2023-09-16": 3120,
-  "2023-09-17": 3120,
-  "2023-09-18": 3120,
-  "2023-09-19": 3120,
-  "2023-09-20": 3120,
-  "2023-09-21": 3120,
-  "2023-09-22": 3125,
-  "2023-09-23": 3125,
-  "2023-09-24": 3125,
-  "2023-09-25": 3125,
-  "2023-09-26": 3135,
-  "2023-09-27": 3135,
-  "2023-09-28": 3135,
-  "2023-09-29": 3135,
-  "2023-09-30": 3135,
-  "2023-10-01": 3135,
-  "2023-10-02": 3140,
-  "2023-10-03": 3140,
-  "2023-10-04": 3140,
-  "2023-10-05": 3143,
-  "2023-10-06": 3145,
-  "2023-10-07": 3145,
-  "2023-10-08": 3145,
-  "2023-10-09": 3145,
-  "2023-10-10": 3145,
-  "2023-10-11": 3148,
-  "2023-10-12": 3148,
-  "2023-10-13": 3148,
-  "2023-10-14": 3148,
-  "2023-10-15": 3148,
-  "2023-10-16": 3148,
-  "2023-10-17": 3148,
-  "2023-10-18": 3148,
-  "2023-10-19": 3148,
-  "2023-10-20": 3148,
-  "2023-10-21": 3148,
-  "2023-10-22": 3148,
-  "2023-10-23": 3148,
-  "2023-10-24": 3148,
-  "2023-10-25": 3148,
-  "2023-10-26": 3148,
-  "2023-10-27": 3148,
-  "2023-10-28": 3148,
-  "2023-10-29": 3148,
-  "2023-10-30": 3148,
-  "2023-10-31": 3148,
-  "2023-11-01": 3148,
-  "2023-11-02": 3148,
-  "2023-11-03": 3148,
-  "2023-11-04": 3148,
-  "2023-11-05": 3148,
-  "2023-11-06": 3148,
-  "2023-11-07": 3148,
-  "2023-11-08": 3148,
-  "2023-11-09": 3148,
-  "2023-11-10": 3148,
-  "2023-11-11": 3166,
-  "2023-11-12": 3166,
-  "2023-11-13": 3166,
-  "2023-11-14": 3166,
-  "2023-11-15": 3166,
-  "2023-11-16": 3166,
-  "2023-11-17": 3166,
-  "2023-11-18": 3166,
-  "2023-11-19": 3166,
-  "2023-11-20": 3166,
-  "2023-11-21": 3166,
-  "2023-11-22": 3166,
-  "2023-11-23": 3166,
-  "2023-11-24": 3166,
-  "2023-11-25": 3166,
-  "2023-11-26": 3166,
-  "2023-11-27": 3166,
-  "2023-11-28": 3166,
-  "2023-11-29": 3166,
-  "2023-11-30": 3166,
-  "2023-12-01": 3166,
-  "2023-12-02": 3166,
-  "2023-12-03": 3166,
-  "2023-12-04": 3166,
-  "2023-12-05": 3166,
-  "2023-12-06": 3166,
-  "2023-12-07": 3166,
-  "2023-12-08": 3166,
-  "2023-12-09": 3166,
-  "2023-12-10": 3166,
-  "2023-12-11": 3166,
-  "2023-12-12": 3166,
-  "2023-12-13": 3166,
-  "2023-12-14": 3211,
-  "2023-12-15": 3212,
-  "2023-12-16": 3213,
-  "2023-12-17": 3212,
-  "2023-12-18": 3212,
-  "2023-12-19": 3213,
-  "2023-12-20": 3216,
-  "2023-12-21": 3217,
-  "2023-12-22": 3217,
-  "2023-12-23": 3215,
-  "2023-12-24": 3216,
-  "2023-12-25": 3216,
-  "2023-12-26": 3218,
-  "2023-12-27": 3219,
-  "2023-12-30": 3224,
-  "2023-12-31": 3225,
-  "2024-01-01": 3225,
-  "2024-01-02": 3225,
-  "2024-01-03": 3226
+  "2024-01-17": 3243,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
+  "name": "This Is Touch\u00e9 Amor\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 181817,
+      "name": "A Broadcast",
+      "url": "https://open.spotify.com/track/0XKPSoioAF6jB3nFFNwWMs"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 218263,
+      "name": "A Forecast",
+      "url": "https://open.spotify.com/track/3YJjOAN5gE1CW03WjHROpQ"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85929,
+      "name": "Adieux",
+      "url": "https://open.spotify.com/track/5w1kK7BBfB9BPL0kM4MiGu"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 131130,
+      "name": "Always Running Never Looking Back",
+      "url": "https://open.spotify.com/track/6jtUHlH97ALHhY53veFd20"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 104800,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/4QM0w0rYkuT9jAt2x0bS6s"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97429,
+      "name": "And Now It's Happening in Mine",
+      "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "Anyone / Anything",
+      "url": "https://open.spotify.com/track/6Pr9rKp3Y63aXROEH1dfDZ"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 98866,
+      "name": "Art Official",
+      "url": "https://open.spotify.com/track/1d51f4Xw1FjpwVTC8gsAHk"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 219533,
+      "name": "Benediction",
+      "url": "https://open.spotify.com/track/5P6RywcZKqvD8BvirxO58l"
+    },
+    {
+      "album": {
+        "name": "Dead Horse X",
+        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99320,
+      "name": "Cadence (Anniversary Version)",
+      "url": "https://open.spotify.com/track/5wzEnAa997Py5C7jACiYr9"
+    },
+    {
+      "album": {
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 137106,
+      "name": "Changing Lanes",
+      "url": "https://open.spotify.com/track/6KZALHMfxxtqMCjQ3rJepi"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170001,
+      "name": "Come Heroine",
+      "url": "https://open.spotify.com/track/3z5IRvQG3paO0p5Ewyqa97"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 107880,
+      "name": "Condolences",
+      "url": "https://open.spotify.com/track/5uvVvVHRL65QoJpPFQ3uD8"
+    },
+    {
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Displacement",
+      "url": "https://open.spotify.com/track/1cgbkpTMiVUsmNhBfL9MJf"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5OHvfgN01RehNXl84nT9Pa"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92040,
+      "name": "Eight Seconds",
+      "url": "https://open.spotify.com/track/4zyomJpB6fgmXZ6A79721l"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 136830,
+      "name": "Exit Row",
+      "url": "https://open.spotify.com/track/0gUiVIie3uU4zKNwtjSmZE"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 140986,
+      "name": "Face Ghost",
+      "url": "https://open.spotify.com/track/6W6I5rGZstGt35nJvRpWK2"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168225,
+      "name": "Feign",
+      "url": "https://open.spotify.com/track/22XeCtcmvFRKEotV0kQshn"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "Flowers and You",
+      "url": "https://open.spotify.com/track/2GnLhhzlKak1Q12b8jw25W"
+    },
+    {
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Barry Johnson",
+          "url": "https://open.spotify.com/artist/3KkCw5JlMYT7NTmqbdGVdd"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 140821,
+      "name": "Game of Pricks",
+      "url": "https://open.spotify.com/track/38273IlTEes0F91y4R2PZE"
+    },
+    {
+      "album": {
+        "name": "Gravity, Metaphorically",
+        "url": "https://open.spotify.com/album/4NNlC5tN96eheQr10GJ704"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 247875,
+      "name": "Gravity, Metaphorically",
+      "url": "https://open.spotify.com/track/26994se78CHOdd1ulik6ZN"
+    },
+    {
+      "album": {
+        "name": "Deflector",
+        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184920,
+      "name": "Harbor",
+      "url": "https://open.spotify.com/track/1eZVWlibiTTrKiZJyZGvTn"
+    },
+    {
+      "album": {
+        "name": "Covers Vol. 1",
+        "url": "https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210154,
+      "name": "Hard to Explain",
+      "url": "https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92976,
+      "name": "History Reshits Itself",
+      "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110333,
+      "name": "Home Away from Here",
+      "url": "https://open.spotify.com/track/698tUiegVocxceqJSBKK4S"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152985,
+      "name": "Honest Sleep",
+      "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+    },
+    {
+      "album": {
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 104893,
+      "name": "Huckleberry",
+      "url": "https://open.spotify.com/track/3Q6Sv1clwS3d9cJDBgzlYX"
+    },
+    {
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/7zKDC3zIId5lJy0ycwPFDD"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-20",
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/1VKRkpRK1ABeE3GmGmkbLc"
+    },
+    {
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G"
+    },
+    {
+      "album": {
+        "name": "Touch\u00e9 Amor\u00e9 / La Dispute Split",
+        "url": "https://open.spotify.com/album/2jP8JB4JR5B9nqS1rn3kyi"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 103520,
+      "name": "I'll Deserve Just That",
+      "url": "https://open.spotify.com/track/65j0RolSwc2Cn44tsaHiv9"
+    },
+    {
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/7zKDC3zIId5lJy0ycwPFDD"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 94133,
+      "name": "I'll Get My Just Deserve",
+      "url": "https://open.spotify.com/track/1U0EMRx1NrpF8ZabB7soNI"
+    },
+    {
+      "album": {
+        "name": "Searching For A Pulse/The Worth Of The World",
+        "url": "https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94133,
+      "name": "I'll Get My Just Deserve",
+      "url": "https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 210173,
+      "name": "Is Survived By",
+      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
+    },
+    {
+      "album": {
+        "name": "Is Survived By [Revived (Remixed / Remastered)]",
+        "url": "https://open.spotify.com/album/01oCTgRHMWrBh7aZBl4iHA"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 210173,
+      "name": "Is Survived By - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/3YziDJBWITRQFF4XrcjlmU"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137520,
+      "name": "Just Exist",
+      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200871,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302514,
+      "name": "Limelight",
+      "url": "https://open.spotify.com/track/1VWs302APzvQSw94xr7SSN"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113040,
+      "name": "Method Act",
+      "url": "https://open.spotify.com/track/4dnRxoWjd0xHcqxpt6UZsL"
+    },
+    {
+      "album": {
+        "name": "Touch\u00e9 Amor\u00e9",
+        "url": "https://open.spotify.com/album/5K6eWqesCPkdNr7iiK2fnf"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75600,
+      "name": "Negotiating the Charade",
+      "url": "https://open.spotify.com/track/7Hvl5UF5AKkQiyHL2UC5ku"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207973,
+      "name": "New Halloween",
+      "url": "https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 185653,
+      "name": "Non Fiction",
+      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146520,
+      "name": "Palm Dreams",
+      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66053,
+      "name": "Pathfinder",
+      "url": "https://open.spotify.com/track/2KSpm6frQIkfgKiiS33d2z"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61346,
+      "name": "Praise / Love",
+      "url": "https://open.spotify.com/track/1A8DwHJSNibbVTqPLN0zlc"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6E5nupnnwz0PdA0fTGYp57"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183338,
+      "name": "Reminders",
+      "url": "https://open.spotify.com/track/6zR9nTk4eJ4TdbbNzE4wW0"
+    },
+    {
+      "album": {
+        "name": "Lament",
+        "url": "https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176242,
+      "name": "Savoring",
+      "url": "https://open.spotify.com/track/78PPN8ZdlhotO6wvNaA9IV"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 233186,
+      "name": "Skyscraper",
+      "url": "https://open.spotify.com/track/3Ni6RhAIjbaDvkHep6Afnr"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 183533,
+      "name": "Social Caterpillar",
+      "url": "https://open.spotify.com/track/3ST2MhuSUaSbDv9G4edwDU"
+    },
+    {
+      "album": {
+        "name": "Stage Four (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6KiS2t3EapTmHSt9xGUqe7"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 115946,
+      "name": "Softer Spoken",
+      "url": "https://open.spotify.com/track/7aoOy4QXKGhecDODluw2c6"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-04",
+      "duration_ms": 158480,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98517,
+      "name": "Suckerfish",
+      "url": "https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4"
+    },
+    {
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63000,
+      "name": "Swimming with Sharks",
+      "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108280,
+      "name": "The Great Repetition",
+      "url": "https://open.spotify.com/track/2xcb8LjowO44LjXMpmUtgP"
+    },
+    {
+      "album": {
+        "name": "Dead Horse X",
+        "url": "https://open.spotify.com/album/18mkStcF82XtIJT9ENw9pa"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 140080,
+      "name": "Throwing Copper (Anniversary Version)",
+      "url": "https://open.spotify.com/track/15kxOx6AWB1BzmuBiflGGp"
+    },
+    {
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "To Write Content",
+      "url": "https://open.spotify.com/track/5x0Jn9gZDKu0IO6pXaQrKr"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66226,
+      "name": "Uppers / Downers",
+      "url": "https://open.spotify.com/track/047jxhoDnbSg8mviStkR0Z"
+    },
+    {
+      "album": {
+        "name": "Parting the Sea Between Brightness and Me",
+        "url": "https://open.spotify.com/album/3IcaDZx8NwboAOJItYq6lh"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89106,
+      "name": "~",
+      "url": "https://open.spotify.com/track/5jVJxCRKn3ofBQpwL0tdo0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AX458"
 }

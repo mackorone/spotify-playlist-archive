@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Country Music that rocks. Cover: Treaty Oak Revival",
+  "description": "Country Music that rocks. Cover: HARDY",
   "name": "Country Rocks",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 230344,
       "name": "All It Cost Me Was Everything",
       "url": "https://open.spotify.com/track/0pE4AMTKXsXRwCJWFLtqx5"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 252840,
       "name": "Dig A Hole",
       "url": "https://open.spotify.com/track/5sl5dwbfQqkigMNUjQQ4PI"
@@ -1653,6 +1653,24 @@
     },
     {
       "album": {
+        "name": "Even The Devil",
+        "url": "https://open.spotify.com/album/2lMv82sDWSdhIcva2Wr47e"
+      },
+      "artists": [
+        {
+          "name": "Murphy Elmore",
+          "url": "https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172504,
+      "name": "Even The Devil",
+      "url": "https://open.spotify.com/track/0R5xOrUdw4bDHlaJ96bWYM"
+    },
+    {
+      "album": {
         "name": "Excuse the Mess",
         "url": "https://open.spotify.com/album/2R4rXNiml3fuEmG76hWzyQ"
       },
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 171819,
       "name": "Excuse the Mess",
       "url": "https://open.spotify.com/track/32Hy43xgxbFrv20GkhH0MI"
@@ -3465,6 +3483,24 @@
     },
     {
       "album": {
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
+      },
+      "artists": [
+        {
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
+    },
+    {
+      "album": {
         "name": "From A Room: Volume 2",
         "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
@@ -3962,6 +3998,24 @@
       "duration_ms": 225613,
       "name": "Poor Everybody Else",
       "url": "https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT"
+    },
+    {
+      "album": {
+        "name": "Pray All The Way Home",
+        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "Pray All The Way Home",
+      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
     },
     {
       "album": {
@@ -4697,6 +4751,24 @@
     },
     {
       "album": {
+        "name": "Something's Gonna Kill Me",
+        "url": "https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183680,
+      "name": "Something's Gonna Kill Me",
+      "url": "https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6"
+    },
+    {
+      "album": {
         "name": "Sound of a Saturday Night",
         "url": "https://open.spotify.com/album/2b13avuST7edA3frvztBUq"
       },
@@ -5152,7 +5224,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 169813,
       "name": "There's Always Next Year",
       "url": "https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8"

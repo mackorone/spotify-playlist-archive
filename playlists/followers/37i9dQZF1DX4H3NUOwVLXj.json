@@ -1,735 +1,1649 @@
 {
-  "2021-12-25": 964290,
-  "2021-12-26": 964834,
-  "2021-12-27": 965600,
-  "2021-12-28": 965609,
-  "2021-12-29": 965918,
-  "2021-12-30": 966286,
-  "2021-12-31": 966646,
-  "2022-01-01": 967566,
-  "2022-01-02": 967694,
-  "2022-01-03": 967950,
-  "2022-01-04": 968211,
-  "2022-01-05": 968477,
-  "2022-01-06": 968757,
-  "2022-01-07": 969026,
-  "2022-01-08": 969642,
-  "2022-01-09": 969655,
-  "2022-01-10": 969950,
-  "2022-01-11": 970244,
-  "2022-01-12": 970459,
-  "2022-01-13": 970725,
-  "2022-01-14": 971002,
-  "2022-01-15": 971595,
-  "2022-01-16": 971644,
-  "2022-01-17": 972261,
-  "2022-01-18": 972283,
-  "2022-01-19": 972537,
-  "2022-01-20": 972758,
-  "2022-01-21": 972950,
-  "2022-01-22": 973219,
-  "2022-01-23": 973554,
-  "2022-01-24": 973887,
-  "2022-01-25": 974163,
-  "2022-01-26": 974434,
-  "2022-01-27": 974671,
-  "2022-01-28": 974907,
-  "2022-01-29": 975199,
-  "2022-01-30": 975502,
-  "2022-01-31": 975761,
-  "2022-02-01": 975926,
-  "2022-02-02": 976127,
-  "2022-02-03": 976358,
-  "2022-02-04": 976536,
-  "2022-02-05": 976773,
-  "2022-02-06": 977004,
-  "2022-02-07": 977247,
-  "2022-02-08": 977444,
-  "2022-02-09": 977636,
-  "2022-02-10": 977829,
-  "2022-02-11": 978105,
-  "2022-02-12": 978357,
-  "2022-02-13": 978611,
-  "2022-02-14": 978904,
-  "2022-02-15": 979131,
-  "2022-02-16": 979343,
-  "2022-02-17": 979545,
-  "2022-02-18": 979714,
-  "2022-02-19": 979911,
-  "2022-02-20": 980216,
-  "2022-02-21": 980445,
-  "2022-02-22": 980664,
-  "2022-02-23": 980858,
-  "2022-02-24": 981089,
-  "2022-02-25": 981307,
-  "2022-02-26": 981524,
-  "2022-02-27": 981965,
-  "2022-02-28": 981965,
-  "2022-03-01": 982169,
-  "2022-03-02": 982367,
-  "2022-03-03": 982566,
-  "2022-03-04": 982770,
-  "2022-03-05": 982969,
-  "2022-03-06": 983166,
-  "2022-03-07": 983348,
-  "2022-03-08": 983524,
-  "2022-03-09": 983680,
-  "2022-03-10": 983902,
-  "2022-03-11": 984089,
-  "2022-03-12": 984313,
-  "2022-03-13": 984546,
-  "2022-03-14": 984779,
-  "2022-03-15": 984971,
-  "2022-03-16": 985130,
-  "2022-03-17": 985283,
-  "2022-03-18": 985534,
-  "2022-03-19": 985672,
-  "2022-03-20": 985672,
-  "2022-03-21": 986136,
-  "2022-03-22": 986305,
-  "2022-03-23": 986468,
-  "2022-03-24": 986648,
-  "2022-03-25": 986829,
-  "2022-03-26": 987018,
-  "2022-03-27": 987265,
-  "2022-03-28": 987508,
-  "2022-03-30": 987853,
-  "2022-03-31": 988091,
-  "2022-04-01": 988292,
-  "2022-04-02": 988515,
-  "2022-04-03": 988790,
-  "2022-04-04": 989029,
-  "2022-04-05": 989231,
-  "2022-04-06": 989426,
-  "2022-04-07": 989630,
-  "2022-04-08": 989825,
-  "2022-04-09": 990089,
-  "2022-04-10": 990604,
-  "2022-04-11": 990840,
-  "2022-04-12": 990865,
-  "2022-04-13": 991080,
-  "2022-04-14": 991315,
-  "2022-04-15": 991558,
-  "2022-04-16": 991824,
-  "2022-04-17": 992080,
-  "2022-04-18": 992396,
-  "2022-04-19": 992568,
-  "2022-04-20": 992800,
-  "2022-04-21": 992996,
-  "2022-04-22": 993224,
-  "2022-04-23": 993470,
-  "2022-04-24": 993718,
-  "2022-04-25": 993991,
-  "2022-04-26": 994155,
-  "2022-04-27": 994401,
-  "2022-04-28": 994609,
-  "2022-04-29": 994987,
-  "2022-04-30": 995246,
-  "2022-05-01": 995629,
-  "2022-05-02": 995629,
-  "2022-05-03": 995843,
-  "2022-05-04": 996059,
-  "2022-05-05": 996290,
-  "2022-05-06": 996484,
-  "2022-05-07": 996819,
-  "2022-05-08": 997212,
-  "2022-05-09": 997283,
-  "2022-05-10": 997475,
-  "2022-05-11": 997746,
-  "2022-05-12": 997984,
-  "2022-05-13": 998195,
-  "2022-05-14": 998459,
-  "2022-05-15": 998729,
-  "2022-05-16": 999003,
-  "2022-05-17": 999261,
-  "2022-05-18": 999483,
-  "2022-05-19": 999717,
-  "2022-05-20": 1000030,
-  "2022-05-21": 1000487,
-  "2022-05-22": 1000487,
-  "2022-05-23": 1000688,
-  "2022-05-24": 1000894,
-  "2022-05-25": 1001118,
-  "2022-05-26": 1001395,
-  "2022-05-27": 1001638,
-  "2022-05-28": 1001875,
-  "2022-05-29": 1002123,
-  "2022-05-30": 1002427,
-  "2022-05-31": 1002606,
-  "2022-06-01": 1002981,
-  "2022-06-02": 1002992,
-  "2022-06-03": 1003207,
-  "2022-06-04": 1003468,
-  "2022-06-05": 1003750,
-  "2022-06-06": 1004007,
-  "2022-06-07": 1004209,
-  "2022-06-08": 1004419,
-  "2022-06-09": 1004547,
-  "2022-06-10": 1004790,
-  "2022-06-11": 1005032,
-  "2022-06-12": 1005283,
-  "2022-06-13": 1005513,
-  "2022-06-14": 1005693,
-  "2022-06-15": 1005887,
-  "2022-06-16": 1006071,
-  "2022-06-17": 1006272,
-  "2022-06-18": 1006518,
-  "2022-06-19": 1007072,
-  "2022-06-20": 1007072,
-  "2022-06-21": 1007270,
-  "2022-06-22": 1007671,
-  "2022-06-23": 1007671,
-  "2022-06-24": 1007881,
-  "2022-06-25": 1008115,
-  "2022-06-26": 1008339,
-  "2022-06-27": 1008583,
-  "2022-06-28": 1008792,
-  "2022-06-29": 1008986,
-  "2022-06-30": 1009176,
-  "2022-07-01": 1009423,
-  "2022-07-02": 1009656,
-  "2022-07-03": 1009918,
-  "2022-07-04": 1010130,
-  "2022-07-05": 1010339,
-  "2022-07-06": 1010528,
-  "2022-07-07": 1010743,
-  "2022-07-08": 1010961,
-  "2022-07-09": 1011202,
-  "2022-07-10": 1011529,
-  "2022-07-11": 1011833,
-  "2022-07-12": 1012100,
-  "2022-07-13": 1012352,
-  "2022-07-14": 1012565,
-  "2022-07-15": 1012843,
-  "2022-07-16": 1013118,
-  "2022-07-17": 1013395,
-  "2022-07-18": 1013693,
-  "2022-07-19": 1013916,
-  "2022-07-20": 1014181,
-  "2022-07-21": 1014368,
-  "2022-07-22": 1014577,
-  "2022-07-23": 1014846,
-  "2022-07-24": 1015128,
-  "2022-07-25": 1015374,
-  "2022-07-26": 1015656,
-  "2022-07-27": 1015930,
-  "2022-07-28": 1016256,
-  "2022-07-29": 1016497,
-  "2022-07-30": 1017046,
-  "2022-07-31": 1017046,
-  "2022-08-01": 1017330,
-  "2022-08-02": 1017790,
-  "2022-08-03": 1017790,
-  "2022-08-04": 1018043,
-  "2022-08-05": 1018280,
-  "2022-08-06": 1018545,
-  "2022-08-07": 1018867,
-  "2022-08-08": 1019132,
-  "2022-08-09": 1019378,
-  "2022-08-10": 1019607,
-  "2022-08-11": 1019863,
-  "2022-08-12": 1020140,
-  "2022-08-13": 1020427,
-  "2022-08-14": 1020738,
-  "2022-08-15": 1021057,
-  "2022-08-16": 1021358,
-  "2022-08-17": 1021578,
-  "2022-08-18": 1021852,
-  "2022-08-19": 1022132,
-  "2022-08-20": 1022388,
-  "2022-08-21": 1022679,
-  "2022-08-22": 1022890,
-  "2022-08-23": 1023127,
-  "2022-08-24": 1023359,
-  "2022-08-25": 1023618,
-  "2022-08-26": 1023847,
-  "2022-08-27": 1024154,
-  "2022-08-28": 1024441,
-  "2022-08-29": 1024732,
-  "2022-08-30": 1024708,
-  "2022-08-31": 1024401,
-  "2022-09-01": 1023983,
-  "2022-09-02": 1023630,
-  "2022-09-03": 1023917,
-  "2022-09-04": 1022692,
-  "2022-09-05": 1022884,
-  "2022-09-06": 1023103,
-  "2022-09-07": 1023363,
-  "2022-09-09": 1023808,
-  "2022-09-10": 1024079,
-  "2022-09-11": 1024408,
-  "2022-09-12": 1024747,
-  "2022-09-13": 1024985,
-  "2022-09-15": 1025447,
-  "2022-09-16": 1025717,
-  "2022-09-17": 1026014,
-  "2022-09-18": 1026308,
-  "2022-09-19": 1026585,
-  "2022-09-20": 1026845,
-  "2022-09-21": 1027081,
-  "2022-09-22": 1027373,
-  "2022-09-23": 1027684,
-  "2022-09-24": 1028002,
-  "2022-09-25": 1028341,
-  "2022-09-26": 1028652,
-  "2022-09-27": 1028934,
-  "2022-09-28": 1029219,
-  "2022-09-29": 1029495,
-  "2022-09-30": 1029772,
-  "2022-10-01": 1030087,
-  "2022-10-02": 1030344,
-  "2022-10-03": 1030629,
-  "2022-10-04": 1030902,
-  "2022-10-05": 1031149,
-  "2022-10-06": 1031463,
-  "2022-10-07": 1031793,
-  "2022-10-08": 1032102,
-  "2022-10-09": 1032639,
-  "2022-10-10": 1032707,
-  "2022-10-11": 1032993,
-  "2022-10-12": 1033272,
-  "2022-10-13": 1033545,
-  "2022-10-14": 1033797,
-  "2022-10-15": 1034085,
-  "2022-10-16": 1034447,
-  "2022-10-17": 1034802,
-  "2022-10-18": 1035059,
-  "2022-10-19": 1035368,
-  "2022-10-20": 1035624,
-  "2022-10-21": 1035896,
-  "2022-10-22": 1036192,
-  "2022-10-23": 1036468,
-  "2022-10-24": 1036810,
-  "2022-10-25": 1037043,
-  "2022-10-26": 1037313,
-  "2022-10-27": 1037589,
-  "2022-10-28": 1037844,
-  "2022-10-29": 1038129,
-  "2022-10-30": 1038421,
-  "2022-10-31": 1038732,
-  "2022-11-01": 1038974,
-  "2022-11-02": 1039254,
-  "2022-11-03": 1039511,
-  "2022-11-04": 1039777,
-  "2022-11-05": 1040044,
-  "2022-11-06": 1040336,
-  "2022-11-07": 1040642,
-  "2022-11-08": 1040914,
-  "2022-11-09": 1041240,
-  "2022-11-10": 1041525,
-  "2022-11-11": 1041853,
-  "2022-11-12": 1042248,
-  "2022-11-13": 1042527,
-  "2022-11-14": 1042911,
-  "2022-11-15": 1043225,
-  "2022-11-16": 1043550,
-  "2022-11-17": 1043844,
-  "2022-11-18": 1043914,
-  "2022-11-19": 1043779,
-  "2022-11-20": 1044273,
-  "2022-11-21": 1044131,
-  "2022-11-22": 1045012,
-  "2022-11-23": 1044872,
-  "2022-11-24": 1045931,
-  "2022-11-25": 1046497,
-  "2022-11-26": 1046906,
-  "2022-11-27": 1047282,
-  "2022-11-28": 1047686,
-  "2022-11-29": 1048003,
-  "2022-11-30": 1048336,
-  "2022-12-01": 1048707,
-  "2022-12-02": 1048941,
-  "2022-12-03": 1049478,
-  "2022-12-04": 1049894,
-  "2022-12-05": 1050358,
-  "2022-12-06": 1050704,
-  "2022-12-07": 1051025,
-  "2022-12-08": 1051373,
-  "2022-12-09": 1051692,
-  "2022-12-10": 1051997,
-  "2022-12-11": 1052316,
-  "2022-12-12": 1052693,
-  "2022-12-13": 1053054,
-  "2022-12-14": 1053356,
-  "2022-12-15": 1053639,
-  "2022-12-16": 1053976,
-  "2022-12-17": 1054304,
-  "2022-12-18": 1054699,
-  "2022-12-19": 1054990,
-  "2022-12-20": 1055525,
-  "2022-12-21": 1055525,
-  "2022-12-22": 1055822,
-  "2022-12-24": 1056522,
-  "2022-12-25": 1056998,
-  "2022-12-26": 1057414,
-  "2022-12-27": 1057731,
-  "2022-12-28": 1058068,
-  "2022-12-29": 1058403,
-  "2022-12-30": 1058723,
-  "2022-12-31": 1059118,
-  "2023-01-01": 1059597,
-  "2023-01-02": 1059974,
-  "2023-01-03": 1060325,
-  "2023-01-04": 1060618,
-  "2023-01-05": 1060918,
-  "2023-01-06": 1061291,
-  "2023-01-07": 1061767,
-  "2023-01-08": 1061888,
-  "2023-01-09": 1062209,
-  "2023-01-10": 1062512,
-  "2023-01-11": 1062781,
-  "2023-01-12": 1063041,
-  "2023-01-13": 1063311,
-  "2023-01-14": 1063841,
-  "2023-01-15": 1063974,
-  "2023-01-16": 1064327,
-  "2023-01-17": 1064642,
-  "2023-01-18": 1065022,
-  "2023-01-19": 1065282,
-  "2023-01-20": 1065529,
-  "2023-01-21": 1065824,
-  "2023-01-22": 1066126,
-  "2023-01-23": 1066426,
-  "2023-01-24": 1066634,
-  "2023-01-25": 1066873,
-  "2023-01-26": 1067105,
-  "2023-01-27": 1067335,
-  "2023-01-28": 1067577,
-  "2023-01-29": 1067870,
-  "2023-01-30": 1068115,
-  "2023-01-31": 1068115,
-  "2023-02-01": 1068626,
-  "2023-02-02": 1068910,
-  "2023-02-03": 1069215,
-  "2023-02-04": 1069538,
-  "2023-02-05": 1069893,
-  "2023-02-06": 1070212,
-  "2023-02-07": 1070481,
-  "2023-02-08": 1070968,
-  "2023-02-09": 1070968,
-  "2023-02-10": 1071271,
-  "2023-02-11": 1071591,
-  "2023-02-12": 1072162,
-  "2023-02-13": 1072376,
-  "2023-02-14": 1072376,
-  "2023-02-15": 1072637,
-  "2023-02-16": 1072914,
-  "2023-02-17": 1073209,
-  "2023-02-18": 1073766,
-  "2023-02-19": 1073822,
-  "2023-02-20": 1074085,
-  "2023-02-21": 1074290,
-  "2023-02-22": 1074511,
-  "2023-02-23": 1074688,
-  "2023-02-24": 1074926,
-  "2023-02-25": 1075265,
-  "2023-02-26": 1075447,
-  "2023-02-27": 1075892,
-  "2023-02-28": 1075892,
-  "2023-03-01": 1076110,
-  "2023-03-02": 1076359,
-  "2023-03-03": 1076651,
-  "2023-03-04": 1076891,
-  "2023-03-05": 1077452,
-  "2023-03-06": 1077452,
-  "2023-03-07": 1077683,
-  "2023-03-08": 1077879,
-  "2023-03-09": 1078103,
-  "2023-03-10": 1078359,
-  "2023-03-11": 1078560,
-  "2023-03-12": 1078810,
-  "2023-03-13": 1079076,
-  "2023-03-14": 1079262,
-  "2023-03-15": 1079480,
-  "2023-03-16": 1079680,
-  "2023-03-17": 1079680,
-  "2023-03-18": 1080143,
-  "2023-03-19": 1080393,
-  "2023-03-20": 1080601,
-  "2023-03-21": 1080799,
-  "2023-03-22": 1081015,
-  "2023-03-23": 1081217,
-  "2023-03-24": 1081217,
-  "2023-03-25": 1081667,
-  "2023-03-26": 1081945,
-  "2023-03-27": 1082250,
-  "2023-03-28": 1082472,
-  "2023-03-29": 1082720,
-  "2023-03-30": 1083125,
-  "2023-03-31": 1083125,
-  "2023-04-01": 1083351,
-  "2023-04-02": 1083625,
-  "2023-04-03": 1083871,
-  "2023-04-04": 1084098,
-  "2023-04-05": 1084336,
-  "2023-04-06": 1084532,
-  "2023-04-07": 1084746,
-  "2023-04-09": 1085200,
-  "2023-04-10": 1085462,
-  "2023-04-11": 1085872,
-  "2023-04-12": 1085872,
-  "2023-04-13": 1086168,
-  "2023-04-14": 1086446,
-  "2023-04-15": 1086800,
-  "2023-04-16": 1087102,
-  "2023-04-17": 1087423,
-  "2023-04-18": 1087715,
-  "2023-04-19": 1088037,
-  "2023-04-20": 1088345,
-  "2023-04-21": 1088704,
-  "2023-04-22": 1089026,
-  "2023-04-23": 1089365,
-  "2023-04-24": 1089708,
-  "2023-04-25": 1089989,
-  "2023-04-26": 1090287,
-  "2023-04-27": 1090529,
-  "2023-04-28": 1090799,
-  "2023-04-29": 1091086,
-  "2023-04-30": 1091360,
-  "2023-05-01": 1091649,
-  "2023-05-02": 1091929,
-  "2023-05-03": 1092124,
-  "2023-05-04": 1092341,
-  "2023-05-05": 1092527,
-  "2023-05-06": 1092757,
-  "2023-05-07": 1093005,
-  "2023-05-08": 1093316,
-  "2023-05-09": 1093498,
-  "2023-05-10": 1093710,
-  "2023-05-11": 1093942,
-  "2023-05-12": 1094157,
-  "2023-05-13": 1094478,
-  "2023-05-14": 1094765,
-  "2023-05-15": 1095103,
-  "2023-05-16": 1095377,
-  "2023-05-17": 1095639,
-  "2023-05-18": 1095911,
-  "2023-05-19": 1096197,
-  "2023-05-20": 1096766,
-  "2023-05-21": 1096766,
-  "2023-05-22": 1096766,
-  "2023-05-23": 1097361,
-  "2023-05-24": 1097844,
-  "2023-05-25": 1097899,
-  "2023-05-26": 1098181,
-  "2023-05-27": 1098494,
-  "2023-05-28": 1098786,
-  "2023-05-29": 1098786,
-  "2023-05-30": 1099363,
-  "2023-05-31": 1099656,
-  "2023-06-01": 1100043,
-  "2023-06-02": 1100305,
-  "2023-06-03": 1100485,
-  "2023-06-04": 1100695,
-  "2023-06-05": 844917,
-  "2023-06-06": 793953,
-  "2023-06-07": 159202,
-  "2023-06-08": 32484,
-  "2023-06-09": 32484,
-  "2023-06-10": 32484,
-  "2023-06-11": 32484,
-  "2023-06-12": 32484,
-  "2023-06-13": 32484,
-  "2023-06-14": 32484,
-  "2023-06-15": 32484,
-  "2023-06-16": 32484,
-  "2023-06-17": 32484,
-  "2023-06-18": 32484,
-  "2023-06-19": 32484,
-  "2023-06-20": 32484,
-  "2023-06-21": 32484,
-  "2023-06-22": 32484,
-  "2023-06-23": 32484,
-  "2023-06-24": 32484,
-  "2023-06-25": 32484,
-  "2023-06-26": 32484,
-  "2023-06-27": 32484,
-  "2023-06-28": 32484,
-  "2023-06-29": 32484,
-  "2023-06-30": 32484,
-  "2023-07-01": 32484,
-  "2023-07-02": 32484,
-  "2023-07-03": 32484,
-  "2023-07-04": 32484,
-  "2023-07-05": 32484,
-  "2023-07-06": 32484,
-  "2023-07-07": 32484,
-  "2023-07-08": 32484,
-  "2023-07-09": 32484,
-  "2023-07-10": 32484,
-  "2023-07-11": 32484,
-  "2023-07-12": 32484,
-  "2023-07-13": 32484,
-  "2023-07-14": 32484,
-  "2023-07-15": 32484,
-  "2023-07-16": 32484,
-  "2023-07-17": 32484,
-  "2023-07-18": 32484,
-  "2023-07-19": 32484,
-  "2023-07-20": 32484,
-  "2023-07-21": 32484,
-  "2023-07-22": 32484,
-  "2023-07-23": 32484,
-  "2023-07-24": 32484,
-  "2023-07-25": 32484,
-  "2023-07-26": 32484,
-  "2023-07-27": 32484,
-  "2023-07-28": 32484,
-  "2023-07-29": 32484,
-  "2023-07-30": 32484,
-  "2023-07-31": 32484,
-  "2023-08-01": 32484,
-  "2023-08-02": 32484,
-  "2023-08-03": 32484,
-  "2023-08-04": 32484,
-  "2023-08-05": 32484,
-  "2023-08-06": 32484,
-  "2023-08-07": 32484,
-  "2023-08-08": 32484,
-  "2023-08-09": 32484,
-  "2023-08-10": 32484,
-  "2023-08-11": 32484,
-  "2023-08-12": 32484,
-  "2023-08-13": 32484,
-  "2023-08-14": 32484,
-  "2023-08-15": 32484,
-  "2023-08-16": 32484,
-  "2023-08-17": 32484,
-  "2023-08-18": 32484,
-  "2023-08-19": 32484,
-  "2023-08-20": 32484,
-  "2023-08-21": 32484,
-  "2023-08-22": 32484,
-  "2023-08-23": 32484,
-  "2023-08-24": 32484,
-  "2023-08-25": 32484,
-  "2023-08-26": 32484,
-  "2023-08-27": 32484,
-  "2023-08-28": 32484,
-  "2023-08-29": 32484,
-  "2023-08-30": 32484,
-  "2023-08-31": 32484,
-  "2023-09-01": 32484,
-  "2023-09-02": 32484,
-  "2023-09-03": 32484,
-  "2023-09-04": 32484,
-  "2023-09-05": 32484,
-  "2023-09-06": 32484,
-  "2023-09-07": 32484,
-  "2023-09-08": 32484,
-  "2023-09-09": 32484,
-  "2023-09-10": 32484,
-  "2023-09-11": 32484,
-  "2023-09-12": 32484,
-  "2023-09-13": 32484,
-  "2023-09-14": 32484,
-  "2023-09-15": 32484,
-  "2023-09-16": 32484,
-  "2023-09-17": 32484,
-  "2023-09-18": 32484,
-  "2023-09-19": 32484,
-  "2023-09-20": 32484,
-  "2023-09-21": 32484,
-  "2023-09-22": 32484,
-  "2023-09-23": 32484,
-  "2023-09-24": 32484,
-  "2023-09-25": 32484,
-  "2023-09-26": 32484,
-  "2023-09-27": 32484,
-  "2023-09-28": 32484,
-  "2023-09-29": 32484,
-  "2023-09-30": 32484,
-  "2023-10-01": 32484,
-  "2023-10-02": 32484,
-  "2023-10-03": 32484,
-  "2023-10-04": 32484,
-  "2023-10-05": 32484,
-  "2023-10-06": 32484,
-  "2023-10-07": 32484,
-  "2023-10-08": 32484,
-  "2023-10-09": 32484,
-  "2023-10-10": 32484,
-  "2023-10-11": 32484,
-  "2023-10-12": 32484,
-  "2023-10-13": 32484,
-  "2023-10-14": 32484,
-  "2023-10-15": 32484,
-  "2023-10-16": 32484,
-  "2023-10-17": 32484,
-  "2023-10-18": 32484,
-  "2023-10-19": 32484,
-  "2023-10-20": 32484,
-  "2023-10-21": 32484,
-  "2023-10-22": 32484,
-  "2023-10-23": 32484,
-  "2023-10-24": 32484,
-  "2023-10-25": 32484,
-  "2023-10-26": 32484,
-  "2023-10-27": 32484,
-  "2023-10-28": 32484,
-  "2023-10-29": 32484,
-  "2023-10-30": 32484,
-  "2023-10-31": 32484,
-  "2023-11-01": 32484,
-  "2023-11-02": 32484,
-  "2023-11-03": 32484,
-  "2023-11-04": 32484,
-  "2023-11-05": 32484,
-  "2023-11-06": 32484,
-  "2023-11-07": 32484,
-  "2023-11-08": 32484,
-  "2023-11-09": 32484,
-  "2023-11-10": 32484,
-  "2023-11-11": 32484,
-  "2023-11-12": 32484,
-  "2023-11-13": 32484,
-  "2023-11-14": 32484,
-  "2023-11-15": 32484,
-  "2023-11-16": 32484,
-  "2023-11-17": 32484,
-  "2023-11-18": 32484,
-  "2023-11-19": 32484,
-  "2023-11-20": 32484,
-  "2023-11-21": 32484,
-  "2023-11-22": 32484,
-  "2023-11-23": 32484,
-  "2023-11-24": 32484,
-  "2023-11-25": 32484,
-  "2023-11-26": 32484,
-  "2023-11-27": 32484,
-  "2023-11-28": 32484,
-  "2023-11-29": 32484,
-  "2023-11-30": 32484,
-  "2023-12-01": 32484,
-  "2023-12-02": 32484,
-  "2023-12-03": 32484,
-  "2023-12-04": 32484,
-  "2023-12-05": 32484,
-  "2023-12-06": 32484,
-  "2023-12-07": 32484,
-  "2023-12-08": 32484,
-  "2023-12-09": 32484,
-  "2023-12-10": 32484,
-  "2023-12-11": 32484,
-  "2023-12-12": 32484,
-  "2023-12-13": 32484,
-  "2023-12-14": 32484,
-  "2023-12-15": 32484,
-  "2023-12-16": 32484,
-  "2023-12-17": 32484,
-  "2023-12-18": 32484,
-  "2023-12-19": 32484,
-  "2023-12-20": 32484,
-  "2023-12-21": 32484,
-  "2023-12-22": 32484,
-  "2023-12-23": 32484,
-  "2023-12-24": 32484,
-  "2023-12-25": 32484,
-  "2023-12-26": 32484,
-  "2023-12-27": 32484,
-  "2023-12-30": 32484,
-  "2023-12-31": 32484,
-  "2024-01-01": 32484,
-  "2024-01-02": 32484,
-  "2024-01-03": 32484
+  "2024-01-17": 32484,
+  "date_first_scraped": "2021-12-21",
+  "description": "Favorites, hits and deep cuts: this is Francis Albert Sinatra, one of the most popular and influential musical artists of the 20th century.",
+  "name": "This Is Frank Sinatra",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sinatra 80th: All The Best",
+        "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159226,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/7oaQGNtzgBEHBGyMMy5UGN"
+    },
+    {
+      "album": {
+        "name": "My Songs",
+        "url": "https://open.spotify.com/album/3GhjBNxqQUwgQHK69isMYx"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160835,
+      "name": "(How Little It Matters) How Little We Know",
+      "url": "https://open.spotify.com/track/6erZXV5rC1f95G8CB1BeSa"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
+    },
+    {
+      "album": {
+        "name": "Francis A. & Edward K.",
+        "url": "https://open.spotify.com/album/5GFkm37IrMR9a4rc6JABkw"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299106,
+      "name": "All I Need Is The Girl",
+      "url": "https://open.spotify.com/track/0y7Nk5lVh2Qpxp2nlON7Ml"
+    },
+    {
+      "album": {
+        "name": "Francis A. & Edward K.",
+        "url": "https://open.spotify.com/album/1uaKrYwlRj8AzTxqkk2u3H"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299106,
+      "name": "All I Need Is The Girl",
+      "url": "https://open.spotify.com/track/5rj323bRwKVymBaiScDazB"
+    },
+    {
+      "album": {
+        "name": "The Complete Harry James And His Orchestra featuring Frank Sinatra (feat. Frank Sinatra)",
+        "url": "https://open.spotify.com/album/2dQlX72ZvhsMRSRSNxhTgL"
+      },
+      "artists": [
+        {
+          "name": "Harry James",
+          "url": "https://open.spotify.com/artist/5MpELOfAiq7aIBTij30phD"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "All Or Nothing At All",
+      "url": "https://open.spotify.com/track/4ObsUll5eY9caJrdkauYuj"
+    },
+    {
+      "album": {
+        "name": "Romance: Songs From The Heart",
+        "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
+      "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 3",
+        "url": "https://open.spotify.com/album/5BoSBPiaIMAPs87jvtAvFi"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180200,
+      "name": "All Through The Day",
+      "url": "https://open.spotify.com/track/5ZG1JwCKyUWBRizunThX1i"
+    },
+    {
+      "album": {
+        "name": "Sinatra At The Sands",
+        "url": "https://open.spotify.com/album/36nWm961vB4aKdEJVdtPTa"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206173,
+      "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
+      "url": "https://open.spotify.com/track/0pp87GAn8qE3eUfm7cdCRf"
+    },
+    {
+      "album": {
+        "name": "Sinatra At The Sands",
+        "url": "https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206173,
+      "name": "Angel Eyes - Live At The Sands Hotel And Casino/1966",
+      "url": "https://open.spotify.com/track/25lUUKmQZgYv9hHMO9ysr5"
+    },
+    {
+      "album": {
+        "name": "Where Are You? (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1at99XgjdjaKVcQajGq3G1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172866,
+      "name": "Autumn Leaves - 1999 / Digital Remaster",
+      "url": "https://open.spotify.com/track/1Yv6PMPkvLdCIFbm9kanaz"
+    },
+    {
+      "album": {
+        "name": "She Shot Me Down",
+        "url": "https://open.spotify.com/album/2lXDbQM86qsRAkTeYhv2ZT"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/2imEJFMzabMMNbgqkhJ11a"
+    },
+    {
+      "album": {
+        "name": "She Shot Me Down",
+        "url": "https://open.spotify.com/album/1sqODvLUBT5XnZudfwnFtR"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205773,
+      "name": "Bang Bang (My Baby Shot Me Down)",
+      "url": "https://open.spotify.com/track/5VsEIRPFEk6Oww8NHgvStd"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Jobim: The Complete Reprise Recordings",
+        "url": "https://open.spotify.com/album/5280NkLzxe2w7K1JW9I8jX"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163186,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/5LMDR9OJOVfRAB99Vr96zn"
+    },
+    {
+      "album": {
+        "name": "Francis Albert Sinatra & Antonio Carlos Jobim",
+        "url": "https://open.spotify.com/album/1DcmsgvmP94BH8XShg74N0"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160840,
+      "name": "Change Partners",
+      "url": "https://open.spotify.com/track/6RHu1h1VUhH2eHSes4AG24"
+    },
+    {
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199093,
+      "name": "Come Fly With Me - Remastered 1998",
+      "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190346,
+      "name": "Drinking Again",
+      "url": "https://open.spotify.com/track/3vyKQ9OCX48TtW41Thoqlx"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "Drinking Again",
+      "url": "https://open.spotify.com/track/6aLmYwLuSOA9WowYrwgfcK"
+    },
+    {
+      "album": {
+        "name": "It Might As Well Be Swing",
+        "url": "https://open.spotify.com/album/5lXF6AFeXG8UsIUfBJNsNH"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "Fly Me To The Moon (In Other Words)",
+      "url": "https://open.spotify.com/track/1iZgzgmsFsi0deffe0rleB"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 147520,
+      "name": "Fly Me To The Moon - 2008 Remastered",
+      "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+    },
+    {
+      "album": {
+        "name": "Watertown (Deluxe Edition / 2022 Mix)",
+        "url": "https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Goodbye (She Quietly Says) - 2022 Mix",
+      "url": "https://open.spotify.com/track/0oGkLDCHNcKnNffFkkfh13"
+    },
+    {
+      "album": {
+        "name": "Goodbye (She Quietly Says) / Watertown [2022 Mix]",
+        "url": "https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 192320,
+      "name": "Goodbye (She Quietly Says) - 2022 Mix",
+      "url": "https://open.spotify.com/track/2RZDNXFAMWrbdS62KTAggO"
+    },
+    {
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
+    },
+    {
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "album": {
+        "name": "Sinatra And Swingin' Brass",
+        "url": "https://open.spotify.com/album/6bLuwLvr2FVGzqZZvi8CEN"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194093,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/7bzfyzaZjqai1wTEJsxTOF"
+    },
+    {
+      "album": {
+        "name": "Classic Sinatra - His Great Performances 1953-1960",
+        "url": "https://open.spotify.com/album/4VEpFmuBpIMHBtynE2wcVl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130600,
+      "name": "I've Got The World On A String - Remastered 2000",
+      "url": "https://open.spotify.com/track/24C5ft0x93vqND1buSn8ZL"
+    },
+    {
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223760,
+      "name": "I've Got You Under My Skin - Remastered 1998",
+      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings: Volume 1",
+        "url": "https://open.spotify.com/album/3M2qBfA1BijmP7q5b5QAh2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Bobby Tucker Singers",
+          "url": "https://open.spotify.com/artist/4jNIrx3QUJuUcarfj4YINz"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "If You Are But A Dream (with The Bobby Tucker Singers)",
+      "url": "https://open.spotify.com/track/5rBUuAPGWc6ldmatX7XpUH"
+    },
+    {
+      "album": {
+        "name": "Reprise Rarities (Vol. 3)",
+        "url": "https://open.spotify.com/album/6qrORtuBjx6f4d3oViVPgU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175500,
+      "name": "In The Shadow Of The Moon",
+      "url": "https://open.spotify.com/track/3q9rI7IerdhQSSulvWTkcM"
+    },
+    {
+      "album": {
+        "name": "In The Wee Small Hours",
+        "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180933,
+      "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
+      "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/5UDtvtKbMydcgiCtnDTqs4"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 265613,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/5MSvwL3rDui52pKBkHRExv"
+    },
+    {
+      "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y"
+    },
+    {
+      "album": {
+        "name": "September Of My Years (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4R7TQJ3SZGpbTV8kSq6POA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267240,
+      "name": "It Was A Very Good Year",
+      "url": "https://open.spotify.com/track/2MAMKyVDaei008snxzXzT8"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra Sings For Only The Lonely (Remastered)",
+        "url": "https://open.spotify.com/album/3Pwg6fBaMoPmgfNNVJ5y8O"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256839,
+      "name": "It's A Lonesome Old Town - Remastered",
+      "url": "https://open.spotify.com/track/3sa51kHJqK5SOVWqKlMxcz"
+    },
+    {
+      "album": {
+        "name": "Concepts",
+        "url": "https://open.spotify.com/album/0XCMp3IS7fWPwKo372vhjr"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256840,
+      "name": "It's A Lonesome Old Town - Remastered",
+      "url": "https://open.spotify.com/track/2sRFg7qcMwGPVEmBREeIja"
+    },
+    {
+      "album": {
+        "name": "Come Dance With Me! (Remastered)",
+        "url": "https://open.spotify.com/album/2XgFfM6SNKtNLGcN3joZro"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144133,
+      "name": "Just In Time - 1998 Remaster",
+      "url": "https://open.spotify.com/track/4atI4s4twgaBjdjfupti2e"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "Learnin' The Blues",
+      "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
+    },
+    {
+      "album": {
+        "name": "Christmas Songs by Sinatra",
+        "url": "https://open.spotify.com/album/4XbPmVHP7EYBMoE7ZVjKCU"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "B. Swanson Quartet",
+          "url": "https://open.spotify.com/artist/0JXiS2FrAg3wQYJHcmZdrc"
+        }
+      ],
+      "date_added": "2021-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet)",
+      "url": "https://open.spotify.com/track/4kKdvXD0ez7jp1296JmAts"
+    },
+    {
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/4pA0MHfxB10F9Q8HhoItIh"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3AgY5gLURlcdYBVGv1RVm7"
+    },
+    {
+      "album": {
+        "name": "My Kind Of Broadway",
+        "url": "https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS"
+    },
+    {
+      "album": {
+        "name": "Summer Jazz",
+        "url": "https://open.spotify.com/album/51ijRg36KOxsdJqvqKYfQI"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 314133,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/4ji3PeTlPqf234Ign4BkS5"
+    },
+    {
+      "album": {
+        "name": "Come Fly With Me (Remastered)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Moonlight In Vermont - Remastered",
+      "url": "https://open.spotify.com/track/1ymaji9iiLLfPOq91srHeH"
+    },
+    {
+      "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/4ioZdFZJWnQ43UOItd1oLA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/2eOBQx9Yi6LQST0yHJiFyJ"
+    },
+    {
+      "album": {
+        "name": "Sinatra \u201965",
+        "url": "https://open.spotify.com/album/22dAgxWXl4mZ8L3O0YPMkA"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "My Kind Of Town",
+      "url": "https://open.spotify.com/track/4beDjVImBfBTSaFM7dKNEy"
+    },
+    {
+      "album": {
+        "name": "Nothing But The Best (Remastered)",
+        "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191213,
+      "name": "My Kind Of Town - 2008 Remastered",
+      "url": "https://open.spotify.com/track/6jnmiFauoWEtg5yXLJYzzF"
+    },
+    {
+      "album": {
+        "name": "Best Picture Awards 2021",
+        "url": "https://open.spotify.com/album/3Lt1ZmZ7qG44cDWBfkYR9c"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/34Y6Rofv2CfhJRnMOpnY8i"
+    },
+    {
+      "album": {
+        "name": "My Way (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/3spdoTYpuCpmq19tuD0bOe"
+    },
+    {
+      "album": {
+        "name": "My Way (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/23li6udW3NL6nhHDyJiR7d"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276800,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/76Zi40dd2HoTn3sehttJhY"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings His Greatest Hits",
+        "url": "https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Nancy (With the Laughing Face) - 78rpm Version",
+      "url": "https://open.spotify.com/track/4Pnzw1nLOpDNV6MKI5ueIR"
+    },
+    {
+      "album": {
+        "name": "Nice 'n' Easy (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Xp6c8OMMolIoix6KLyun2"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "Nice 'n' Easy - Remastered",
+      "url": "https://open.spotify.com/track/5Z7bkW3dsu8jLdv3dEGxly"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141760,
+      "name": "Nice Work If You Can Get It - Remastered",
+      "url": "https://open.spotify.com/track/1mxW31WHnp0Rq1RQrhMPDj"
+    },
+    {
+      "album": {
+        "name": "The Concert Sinatra",
+        "url": "https://open.spotify.com/album/0wwOisWeSkvTIPiyPcU9Fr"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 264306,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/4myyFa9YrZzbqLNzfXDiAU"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/7F1DRunIUlihQZ44KWVnMZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264906,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/2ZTPL4fDK3vvI1h54nF4c6"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 264906,
+      "name": "Ol' Man River",
+      "url": "https://open.spotify.com/track/6XppiJ3Z1trI3uDVUh7Mu7"
+    },
+    {
+      "album": {
+        "name": "The Essential Frank Sinatra",
+        "url": "https://open.spotify.com/album/0r7da132K35RCtPvE7H7U3"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185693,
+      "name": "Put Your Dreams Away (For Another Day)",
+      "url": "https://open.spotify.com/track/43W48lcGiBl7KZU6pRtLtR"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings His Greatest Hits",
+        "url": "https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186173,
+      "name": "Put Your Dreams Away (For Another Day)",
+      "url": "https://open.spotify.com/track/6kD1SNGPkfX9LwaGd1FG92"
+    },
+    {
+      "album": {
+        "name": "The Columbia Years (1943-1952): The Complete Recordings",
+        "url": "https://open.spotify.com/album/7IB2vtJdc9zz7g9A3Ddqnk"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186333,
+      "name": "Put Your Dreams Away (For Another Day)",
+      "url": "https://open.spotify.com/track/1Hf41bz4arxF8qMyekRMu2"
+    },
+    {
+      "album": {
+        "name": "Ring-A-Ding-Ding! (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/1SQS7CS79nPTPosf9cgCb0"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164320,
+      "name": "Ring-A-Ding-Ding",
+      "url": "https://open.spotify.com/track/3mYKVGjd2OYEOdL3j8PZ5Q"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings His Greatest Hits",
+        "url": "https://open.spotify.com/album/57vPH8jXw3PF0zD6zeaNOD"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Saturday Night (Is The Loneliest Night In The Week)",
+      "url": "https://open.spotify.com/track/7GLmfKOe5BfOXk7334DoKt"
+    },
+    {
+      "album": {
+        "name": "Sinatra Sings Gershwin",
+        "url": "https://open.spotify.com/album/4U7vkvL15SPDsCXeeT9lcZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Someone to Watch Over Me",
+      "url": "https://open.spotify.com/track/2W889aLIKxULEefrleFBFI"
+    },
+    {
+      "album": {
+        "name": "Valentin-napi Jazz V\u00e1logat\u00e1s 2022",
+        "url": "https://open.spotify.com/album/5WV3jCmB68IFZKbZEIb1JZ"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/2GTmulSwiIlJVcX7t3s468"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/3cVWNLd0uEHkc2tnBoE3Ay"
+    },
+    {
+      "album": {
+        "name": "The World We Knew",
+        "url": "https://open.spotify.com/album/67Evm6gPc9wFSUf1aXOrKO"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/4feXcsElKIVsGwkbnTHAfV"
+    },
+    {
+      "album": {
+        "name": "Crooners Hits",
+        "url": "https://open.spotify.com/album/5yh0ofdTBCKlDmV9xxQ1xn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/2l9ae2xs5ZFSNPWRi0w2jy"
+    },
+    {
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
+    },
+    {
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "album": {
+        "name": "Ultimate Sinatra: The Centennial Collection",
+        "url": "https://open.spotify.com/album/22KCcelRH1AeHz7S7x5XhY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186133,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/7lLTj7unQKZ8Kb8biJlgEF"
+    },
+    {
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/7JzUaMFasZyjbnLobEHhb7"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/1krJjodZxgpjs6luOlB9uO"
+    },
+    {
+      "album": {
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/3gNsjaUsu9cRckgUFx5NsY"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "That's Life",
+      "url": "https://open.spotify.com/track/4FmCUATNIarCQh72JYdvnm"
+    },
+    {
+      "album": {
+        "name": "Sinatra/Basie: The Complete Reprise Studio Recordings",
+        "url": "https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173226,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/3HXdy2r9RzawSwqQCwkjnP"
+    },
+    {
+      "album": {
+        "name": "It Might As Well Be Swing",
+        "url": "https://open.spotify.com/album/1fxXDTummZJyUWozKIqUcM"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 174800,
+      "name": "The Best Is Yet To Come",
+      "url": "https://open.spotify.com/track/4xoZG3UuPDFEN8djm8mlwo"
+    },
+    {
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194306,
+      "name": "The Lady Is A Tramp - Remastered",
+      "url": "https://open.spotify.com/track/4Z4eU8yoBtBGIQPQrhCFr2"
+    },
+    {
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2021-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/0elmUoU7eMPwZX1Mw1MnQo"
+    },
+    {
+      "album": {
+        "name": "Crooners Hits",
+        "url": "https://open.spotify.com/album/5yh0ofdTBCKlDmV9xxQ1xn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205946,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/2nk3bgTFohbTB4ENN9agSy"
+    },
+    {
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/7gChBuHze71yZc6aOTXQpV"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/2uXn30sSSGCcCRvyuf5F3E"
+    },
+    {
+      "album": {
+        "name": "Trilogy: Past, Present & Future",
+        "url": "https://open.spotify.com/album/4Cv61B08yHx3fwkylkhCxe"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Theme From New York, New York",
+      "url": "https://open.spotify.com/track/3QksrtI9VFCBHWA4rgvcV8"
+    },
+    {
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS"
+    },
+    {
+      "album": {
+        "name": "Days Of Wine And Roses, Moon River And Other Academy Award Winners",
+        "url": "https://open.spotify.com/album/1BA6ebXEZ79g2TQ1o6dklD"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225426,
+      "name": "Three Coins In The Fountain",
+      "url": "https://open.spotify.com/track/5rg9sDw8EIKyy9fZOqdgx1"
+    },
+    {
+      "album": {
+        "name": "Goodbye (She Quietly Says) / Watertown [2022 Mix]",
+        "url": "https://open.spotify.com/album/3dU31hUC2CEI1yKSNaH0f1"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 216760,
+      "name": "Watertown - 2022 Mix",
+      "url": "https://open.spotify.com/track/0k4yvoJxWxJzQe6JpJZ07l"
+    },
+    {
+      "album": {
+        "name": "Watertown (Deluxe Edition / 2022 Mix)",
+        "url": "https://open.spotify.com/album/1r6CYUhkI07HNT5ONg6AqL"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Watertown - 2022 Mix",
+      "url": "https://open.spotify.com/track/15AD0dVRa56knhKRVJrhtY"
+    },
+    {
+      "album": {
+        "name": "Sinatra's Swingin' Session!!! And More (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/0rnnzYSJbxKoxcp9U5I2zF"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120333,
+      "name": "When You're Smiling (The Whole World Smiles With You) - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
+    },
+    {
+      "album": {
+        "name": "No One Cares (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/1nnCD4VLdJ4n6lnOOUNUMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Why Try To Change Me Now? - Remastered",
+      "url": "https://open.spotify.com/track/4FylEaO7ZcbRNLhRairniu"
+    },
+    {
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF"
+    },
+    {
+      "album": {
+        "name": "Close To You And More (Remastered)",
+        "url": "https://open.spotify.com/album/0ntYrgH2CUtgdpuEsqKzEn"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "With Every Breath I Take - Remastered",
+      "url": "https://open.spotify.com/track/3xW8q9WgpTGfHr78ZHb0d0"
+    },
+    {
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177400,
+      "name": "You Make Me Feel So Young - Remastered 1998",
+      "url": "https://open.spotify.com/track/2WaYW84yWij5NSCpgSeU2R"
+    },
+    {
+      "album": {
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
+    },
+    {
+      "album": {
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/1yvhOL2IIgwSpbU8fZDLGg"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2018-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174466,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/1wBgJ90w5KTjNUyoJiSjea"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4H3NUOwVLXj"
 }

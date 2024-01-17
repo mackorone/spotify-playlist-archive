@@ -1,125 +1,1361 @@
 {
-  "2023-09-01": 19353,
-  "2023-09-02": 19353,
-  "2023-09-03": 19353,
-  "2023-09-04": 19353,
-  "2023-09-05": 19353,
-  "2023-09-06": 19449,
-  "2023-09-07": 19449,
-  "2023-09-08": 19449,
-  "2023-09-09": 19449,
-  "2023-09-10": 19515,
-  "2023-09-11": 19515,
-  "2023-09-12": 19515,
-  "2023-09-13": 19515,
-  "2023-09-14": 19515,
-  "2023-09-15": 19515,
-  "2023-09-16": 19607,
-  "2023-09-17": 19607,
-  "2023-09-18": 19607,
-  "2023-09-19": 19644,
-  "2023-09-20": 19644,
-  "2023-09-21": 19644,
-  "2023-09-22": 19678,
-  "2023-09-23": 19678,
-  "2023-09-24": 19678,
-  "2023-09-25": 19678,
-  "2023-09-26": 19762,
-  "2023-09-27": 19762,
-  "2023-09-28": 19762,
-  "2023-09-29": 19762,
-  "2023-09-30": 19762,
-  "2023-10-01": 19762,
-  "2023-10-02": 19762,
-  "2023-10-03": 19762,
-  "2023-10-04": 19762,
-  "2023-10-05": 19762,
-  "2023-10-06": 19762,
-  "2023-10-07": 19762,
-  "2023-10-08": 19762,
-  "2023-10-09": 19762,
-  "2023-10-10": 19762,
-  "2023-10-11": 19962,
-  "2023-10-12": 19962,
-  "2023-10-13": 19962,
-  "2023-10-14": 19962,
-  "2023-10-15": 19962,
-  "2023-10-16": 19962,
-  "2023-10-17": 19962,
-  "2023-10-18": 19962,
-  "2023-10-19": 19962,
-  "2023-10-20": 19962,
-  "2023-10-21": 19962,
-  "2023-10-22": 19962,
-  "2023-10-23": 19962,
-  "2023-10-24": 19962,
-  "2023-10-25": 19962,
-  "2023-10-26": 19962,
-  "2023-10-27": 19962,
-  "2023-10-28": 19962,
-  "2023-10-29": 19962,
-  "2023-10-30": 19962,
-  "2023-10-31": 19962,
-  "2023-11-01": 19962,
-  "2023-11-02": 19962,
-  "2023-11-03": 19962,
-  "2023-11-04": 19962,
-  "2023-11-05": 19962,
-  "2023-11-06": 19962,
-  "2023-11-07": 19962,
-  "2023-11-08": 19962,
-  "2023-11-09": 19962,
-  "2023-11-10": 19962,
-  "2023-11-11": 20267,
-  "2023-11-12": 20267,
-  "2023-11-13": 20267,
-  "2023-11-14": 20267,
-  "2023-11-15": 20267,
-  "2023-11-16": 20267,
-  "2023-11-17": 20267,
-  "2023-11-18": 20267,
-  "2023-11-19": 20267,
-  "2023-11-20": 20267,
-  "2023-11-21": 20267,
-  "2023-11-22": 20267,
-  "2023-11-23": 20267,
-  "2023-11-24": 20267,
-  "2023-11-25": 20267,
-  "2023-11-26": 20267,
-  "2023-11-27": 20267,
-  "2023-11-28": 20267,
-  "2023-11-29": 20267,
-  "2023-11-30": 20267,
-  "2023-12-01": 20267,
-  "2023-12-02": 20267,
-  "2023-12-03": 20267,
-  "2023-12-04": 20267,
-  "2023-12-05": 20267,
-  "2023-12-06": 20267,
-  "2023-12-07": 20267,
-  "2023-12-08": 20267,
-  "2023-12-09": 20267,
-  "2023-12-10": 20267,
-  "2023-12-11": 20267,
-  "2023-12-12": 20267,
-  "2023-12-13": 20267,
-  "2023-12-14": 20594,
-  "2023-12-15": 20606,
-  "2023-12-16": 20622,
-  "2023-12-17": 20634,
-  "2023-12-18": 20650,
-  "2023-12-19": 20650,
-  "2023-12-20": 20654,
-  "2023-12-21": 20662,
-  "2023-12-22": 20664,
-  "2023-12-23": 20676,
-  "2023-12-24": 20678,
-  "2023-12-25": 20686,
-  "2023-12-26": 20692,
-  "2023-12-27": 20700,
-  "2023-12-30": 20715,
-  "2023-12-31": 20721,
-  "2024-01-01": 20727,
-  "2024-01-02": 20732,
-  "2024-01-03": 20740
+  "2024-01-17": 20815,
+  "date_first_scraped": "2023-09-01",
+  "description": "This is Gustavo Santaolalla. The essential tracks, all in one playlist.",
+  "name": "This Is Gustavo Santaolalla",
+  "tracks": [
+    {
+      "album": {
+        "name": "Wild Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3d5NFBQKOA2tM2grdoj746"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 91882,
+      "name": "A Life with Intention",
+      "url": "https://open.spotify.com/track/7Dwre4QY2Q2UnYbFlJD29y"
+    },
+    {
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Algun Dia (Unplugged) (En Vivo) (with Gustavo Santaolalla)",
+      "url": "https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Alan Umstead",
+          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64440,
+      "name": "All Gone (Aftermath)",
+      "url": "https://open.spotify.com/track/05704F5Uk32MIb9tX5omWQ"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Alan Umstead",
+          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 174333,
+      "name": "All Gone (No Escape)",
+      "url": "https://open.spotify.com/track/6zezOLouSWKEfMizbzcsad"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168680,
+      "name": "Allowed to be Happy",
+      "url": "https://open.spotify.com/track/5WGCkFCPDoi06SAXIF05bu"
+    },
+    {
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154906,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/4TKIm82qgyDWDHizsayzs1"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60560,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/3Lsj6qcvdmFEyqnaliTMmO"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 168560,
+      "name": "Apertura",
+      "url": "https://open.spotify.com/track/2pUfIeF044S7DQNdaOEAoR"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86757,
+      "name": "Bravery",
+      "url": "https://open.spotify.com/track/52vx8NiPyDTV8HjTqcdPGl"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Brokeback Mountain 1",
+      "url": "https://open.spotify.com/track/2MMboiwtvpKYz1jyB0FUnK"
+    },
+    {
+      "album": {
+        "name": "Qhapaq \u00d1an",
+        "url": "https://open.spotify.com/album/7z2o3Kb9hCVB416isvUIce"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89133,
+      "name": "Calmamente",
+      "url": "https://open.spotify.com/track/0plusgVzCSjJIN69OVi99w"
+    },
+    {
+      "album": {
+        "name": "21 Grams (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4VjqWzO8AsxgpOhjnbzJTr"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79000,
+      "name": "Can Things Be Better?",
+      "url": "https://open.spotify.com/track/4picv6NPkhMDEBNTk8uenV"
+    },
+    {
+      "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Orozco-Barrientos",
+          "url": "https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218213,
+      "name": "Celador De Sue\u00f1os (with Gustavo Santaolalla & Orozco - Barrientos)",
+      "url": "https://open.spotify.com/track/69ZSjgExJ8S5y7eDbNPDer"
+    },
+    {
+      "album": {
+        "name": "Magnetismo",
+        "url": "https://open.spotify.com/album/5h6es3HPWeIkaF5YALh3yp"
+      },
+      "artists": [
+        {
+          "name": "La Yegros",
+          "url": "https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185265,
+      "name": "Chicha Roja",
+      "url": "https://open.spotify.com/track/2DgzBlX9HecudC3rowLkXa"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91893,
+      "name": "Chichina",
+      "url": "https://open.spotify.com/track/2LvMK31iQVKDoRZ9QeHHvW"
+    },
+    {
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174586,
+      "name": "Cordon de Plata",
+      "url": "https://open.spotify.com/track/2PGqbsSYbNYhfqEOtiH4k7"
+    },
+    {
+      "album": {
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 199106,
+      "name": "Coyita",
+      "url": "https://open.spotify.com/track/016vA5iOfrn9LdFWpoIYr3"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Albert Hammond",
+          "url": "https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g"
+        },
+        {
+          "name": "Michael Hazlewood",
+          "url": "https://open.spotify.com/artist/66SJTRUL592V4rIDdooRLI"
+        },
+        {
+          "name": "Colin Greenwood",
+          "url": "https://open.spotify.com/artist/6bdotkIeFswBydfQqzHnKS"
+        },
+        {
+          "name": "Jonathan Greenwood",
+          "url": "https://open.spotify.com/artist/4MXwPoGvThdwdlgErk9ZW9"
+        },
+        {
+          "name": "Philip Selway",
+          "url": "https://open.spotify.com/artist/2A59wav3PGiJij2rK7HQYH"
+        },
+        {
+          "name": "Thomas Yorke",
+          "url": "https://open.spotify.com/artist/7HrWtyO4zAClpj774sDYDO"
+        },
+        {
+          "name": "Ed O'Brien",
+          "url": "https://open.spotify.com/artist/3E7aH1Yv84NoaP9JWcrMpE"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80893,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/6Hrdertyam29E9LcljtfmW"
+    },
+    {
+      "album": {
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "De Ushuaia a La Quiaca",
+      "url": "https://open.spotify.com/track/1pdz8zR8gb1qfEBi64H1fa"
+    },
+    {
+      "album": {
+        "name": "Nanga Parbat (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75293,
+      "name": "Dream Of Higher Altitudes",
+      "url": "https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR"
+    },
+    {
+      "album": {
+        "name": "Camino",
+        "url": "https://open.spotify.com/album/6ZYBjNB7SqYvsbAs9F78CN"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100933,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5Uz25QNtRcdOKZhqkpATne"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42197,
+      "name": "Forsaken",
+      "url": "https://open.spotify.com/track/632EUtBelECssjKp9ZX1tL"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Jake Staley",
+          "url": "https://open.spotify.com/artist/40gj4UseDxGVmEPXkfZudj"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63442,
+      "name": "Greater Purpose",
+      "url": "https://open.spotify.com/track/6OjSyUp4cLDv9RYvVYYrQc"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93791,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/1LT4QUpKPE9Y7oTD1uYT0A"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187853,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5PvWM8RrfJ1vNBoRHviWMB"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 41821,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1UZJCcCJJgGEi7MtWVruGu"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155320,
+      "name": "I Love You Too Much",
+      "url": "https://open.spotify.com/track/3Za4yViy4wKFEF0gkqCH3j"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Lovett",
+          "url": "https://open.spotify.com/artist/2Gus4xBrtOyuunRjNDIlV8"
+        },
+        {
+          "name": "Winston Marshall",
+          "url": "https://open.spotify.com/artist/17QwpKEew3b7k2PE4VOhFM"
+        },
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/0r15OuzJ85q0gaMJivB2im"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        },
+        {
+          "name": "Joe Matthews",
+          "url": "https://open.spotify.com/artist/4K7V2xUTGryDePccU54D3u"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115546,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/5SLdZ5VyAGBrT4BbIeIEQO"
+    },
+    {
+      "album": {
+        "name": "Ronroco",
+        "url": "https://open.spotify.com/album/2wXkcCpf4OwYvPDVkswpV9"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188813,
+      "name": "Iguazu",
+      "url": "https://open.spotify.com/track/0ts9VjKOtCpvR3gBxwfHW5"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 94877,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/1M9pbKaLoE8i1U5w4G2lHV"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139480,
+      "name": "It Can't Last",
+      "url": "https://open.spotify.com/track/5aWsp08r0De8hxXPKWbx0C"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89173,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/0XQchatEKAnLfN4E3YFfrX"
+    },
+    {
+      "album": {
+        "name": "Sancocho Stereo",
+        "url": "https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq"
+      },
+      "artists": [
+        {
+          "name": "Los Espiritus",
+          "url": "https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 228986,
+      "name": "Lagunas Blancas",
+      "url": "https://open.spotify.com/track/27JtkRIPhPLYmlbmmVD7j7"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries",
+        "url": "https://open.spotify.com/album/0BbOGiJCvoIZJw2xKUJDJP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91893,
+      "name": "Leaving Miramar",
+      "url": "https://open.spotify.com/track/4ApwDm3A0jY2RM19EfQoEK"
+    },
+    {
+      "album": {
+        "name": "The Last of Us - Vol. 2 (Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/4NXjMFIEp6eJWM3ZRxWDoV"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163479,
+      "name": "Left Behind (Together)",
+      "url": "https://open.spotify.com/track/46MXNACYPdyqfGvkaptf2Z"
+    },
+    {
+      "album": {
+        "name": "Liebes Kind (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4D1pxDnypVfBMkBlz2rb9y"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 241346,
+      "name": "Liebes Kind",
+      "url": "https://open.spotify.com/track/5wvHsiI4C3ZLZ2KDU0mhEu"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81693,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/45vzHJ2WPyO8WvTjCw6M6W"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105773,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/0VLEB9HAFntcswJYRRTTd1"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Juan Luqui",
+          "url": "https://open.spotify.com/artist/6lt8CZydFV47oahQc38LL5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 91493,
+      "name": "Murals",
+      "url": "https://open.spotify.com/track/1v1OjOgLVvOtPjHBLl3bWS"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91480,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/5uUkMMDpggRSQ4hRfI3lV7"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113400,
+      "name": "Partida del Leprosario",
+      "url": "https://open.spotify.com/track/33IC7R7wIuBZJcY9xb6q4v"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Diaries with additional Music",
+        "url": "https://open.spotify.com/album/3Y2pRAJIiCHHqWzTLcv2je"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Don Markese",
+          "url": "https://open.spotify.com/artist/5GBrdYO6HLPO0orNmJnac1"
+        },
+        {
+          "name": "Braulio Barrera",
+          "url": "https://open.spotify.com/artist/1IdXWAKUCloVBDohCswWEz"
+        },
+        {
+          "name": "Javier Casalla",
+          "url": "https://open.spotify.com/artist/2LzLXJNPrHvw62NE5vKIHo"
+        },
+        {
+          "name": "Anibal Kerpel",
+          "url": "https://open.spotify.com/artist/1tkoCroEpHe2UexqTAd8Wh"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71400,
+      "name": "Procesi\u00f3n",
+      "url": "https://open.spotify.com/track/6ySFgqa18AfFhFQUjRaK83"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108425,
+      "name": "Resolve",
+      "url": "https://open.spotify.com/track/1WxUcACrb7ZM2UcIRRYNFZ"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 84146,
+      "name": "Riding Horses",
+      "url": "https://open.spotify.com/track/1VcuJnxxrWeoJwQqF00Ggw"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104280,
+      "name": "Si Puedes Perdonar",
+      "url": "https://open.spotify.com/track/3SGypgzY5gC0K9ve9gfxll"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Paul Williams",
+          "url": "https://open.spotify.com/artist/3f626JSVauIhTQgatsFcs4"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Te Amo y M\u00e1s",
+      "url": "https://open.spotify.com/track/5I0aHj2JSQpoxSQnh3XcjO"
+    },
+    {
+      "album": {
+        "name": "The Book of Life (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7f0cdftcxwu61TCHkwVrs0"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Diego Luna",
+          "url": "https://open.spotify.com/artist/5rSlhtcAytdvAnlZXcKLjE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172226,
+      "name": "The Apology Song",
+      "url": "https://open.spotify.com/track/7nnbb77c4fLnosiTk5QpxQ"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Alan Umstead",
+          "url": "https://open.spotify.com/artist/6dwp73sWeoHMobWygzWYDP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102373,
+      "name": "The Choice",
+      "url": "https://open.spotify.com/track/2IXJyG1DX93g2EhFXghz37"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "The Last of Us",
+      "url": "https://open.spotify.com/track/285ieonEuLkll3zknYK2TY"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "The Last of Us Part II",
+      "url": "https://open.spotify.com/track/0NsG1b9koK74vTJ2VJUJQU"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "The Path (A New Beginning)",
+      "url": "https://open.spotify.com/track/1hdDnQRPinE8hxYhW3uy6u"
+    },
+    {
+      "album": {
+        "name": "The Last of Us: Season 1 (Soundtrack from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50077,
+      "name": "The Settlement",
+      "url": "https://open.spotify.com/track/7naQN2rKMnye6uuzV2L0wh"
+    },
+    {
+      "album": {
+        "name": "Brokeback Mountain Soundtrack",
+        "url": "https://open.spotify.com/album/5GUrIS6mlz9kfnnSsit3DT"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112546,
+      "name": "The Wings",
+      "url": "https://open.spotify.com/track/3oQpVsTPxbMobnIjeogbJz"
+    },
+    {
+      "album": {
+        "name": "Before the Flood (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/6nFtsE7rZHInooqb9QYGrn"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65776,
+      "name": "Thin Ice",
+      "url": "https://open.spotify.com/track/65ROuREUdXBKfTVoSkQRRJ"
+    },
+    {
+      "album": {
+        "name": "Tu Raz\u00f3n de Ser",
+        "url": "https://open.spotify.com/album/2ckiB0VrtKwKt14mgNqOWn"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Mollo",
+          "url": "https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206265,
+      "name": "Tu Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/6sOfBWX3tE0VV7Vs00lFfF"
+    },
+    {
+      "album": {
+        "name": "G.A.S. (Remasterizado)",
+        "url": "https://open.spotify.com/album/4V5SgHTbnLS1ZR4ToEFGqM"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175893,
+      "name": "Un Poquito de Tu Amor - Remasterizado",
+      "url": "https://open.spotify.com/track/1M2nk7ZecdvJJYEHuiPyYd"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117093,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/5DgYdvipuyu3YWmo2MDWDu"
+    },
+    {
+      "album": {
+        "name": "The Last of Us Part II (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0tNUmClLcWptIcnoCXpPUC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Unbroken",
+      "url": "https://open.spotify.com/track/6KAf1Y6OHR34qdmgUFO5zf"
+    },
+    {
+      "album": {
+        "name": "The Last of Us",
+        "url": "https://open.spotify.com/album/2GFFxj8aR2XpwIMYanOPjh"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126053,
+      "name": "Vanishing Grace",
+      "url": "https://open.spotify.com/track/5TBJdXataXjsbjcXsCtUeP"
+    },
+    {
+      "album": {
+        "name": "SUR",
+        "url": "https://open.spotify.com/album/3sjAEWf2QbTLsJZ93YSWVA"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Gustavo Santaolalla",
+          "url": "https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170919,
+      "name": "Yarar\u00e1",
+      "url": "https://open.spotify.com/track/5yZF5BdTmtdQitz89YBMYL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2TG848"
 }

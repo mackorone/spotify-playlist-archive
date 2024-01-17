@@ -1,580 +1,5245 @@
 {
-  "2022-05-30": 403625,
-  "2022-05-31": 403786,
-  "2022-06-01": 404093,
-  "2022-06-02": 404111,
-  "2022-06-03": 404227,
-  "2022-06-04": 404346,
-  "2022-06-05": 404466,
-  "2022-06-06": 404565,
-  "2022-06-07": 404695,
-  "2022-06-08": 404971,
-  "2022-06-09": 405083,
-  "2022-06-10": 405204,
-  "2022-06-11": 405285,
-  "2022-06-12": 405419,
-  "2022-06-13": 405519,
-  "2022-06-14": 405602,
-  "2022-06-15": 405687,
-  "2022-06-16": 405773,
-  "2022-06-17": 405849,
-  "2022-06-18": 405928,
-  "2022-06-19": 406092,
-  "2022-06-20": 406092,
-  "2022-06-21": 406159,
-  "2022-06-22": 406312,
-  "2022-06-23": 406312,
-  "2022-06-24": 406366,
-  "2022-06-25": 406449,
-  "2022-06-26": 406502,
-  "2022-06-27": 406570,
-  "2022-06-28": 406635,
-  "2022-06-29": 406699,
-  "2022-06-30": 406762,
-  "2022-07-01": 406829,
-  "2022-07-02": 406890,
-  "2022-07-03": 406944,
-  "2022-07-04": 407000,
-  "2022-07-05": 407043,
-  "2022-07-06": 407085,
-  "2022-07-07": 407128,
-  "2022-07-08": 407165,
-  "2022-07-09": 407227,
-  "2022-07-10": 407252,
-  "2022-07-11": 407305,
-  "2022-07-12": 407352,
-  "2022-07-13": 407407,
-  "2022-07-14": 407461,
-  "2022-07-15": 407497,
-  "2022-07-16": 407542,
-  "2022-07-17": 407585,
-  "2022-07-18": 407634,
-  "2022-07-19": 407671,
-  "2022-07-20": 407711,
-  "2022-07-21": 407743,
-  "2022-07-22": 407780,
-  "2022-07-23": 407840,
-  "2022-07-24": 407896,
-  "2022-07-25": 407945,
-  "2022-07-26": 407957,
-  "2022-07-27": 408013,
-  "2022-07-28": 408056,
-  "2022-07-29": 408125,
-  "2022-07-30": 408232,
-  "2022-07-31": 408232,
-  "2022-08-01": 408264,
-  "2022-08-02": 408343,
-  "2022-08-03": 408343,
-  "2022-08-04": 408391,
-  "2022-08-05": 408451,
-  "2022-08-06": 408496,
-  "2022-08-07": 408550,
-  "2022-08-08": 408601,
-  "2022-08-09": 408626,
-  "2022-08-10": 408675,
-  "2022-08-11": 408731,
-  "2022-08-12": 408752,
-  "2022-08-13": 408810,
-  "2022-08-14": 408844,
-  "2022-08-15": 408890,
-  "2022-08-16": 408947,
-  "2022-08-17": 408987,
-  "2022-08-18": 409018,
-  "2022-08-19": 409086,
-  "2022-08-20": 409156,
-  "2022-08-21": 409221,
-  "2022-08-22": 409290,
-  "2022-08-23": 409334,
-  "2022-08-24": 409398,
-  "2022-08-25": 409454,
-  "2022-08-26": 409504,
-  "2022-08-27": 409554,
-  "2022-08-28": 409603,
-  "2022-08-29": 409673,
-  "2022-08-30": 409590,
-  "2022-08-31": 409225,
-  "2022-09-01": 408831,
-  "2022-09-02": 408431,
-  "2022-09-03": 408495,
-  "2022-09-04": 407506,
-  "2022-09-05": 407482,
-  "2022-09-06": 407490,
-  "2022-09-07": 407519,
-  "2022-09-09": 407617,
-  "2022-09-10": 407659,
-  "2022-09-11": 407702,
-  "2022-09-12": 407748,
-  "2022-09-13": 407769,
-  "2022-09-15": 407814,
-  "2022-09-16": 407851,
-  "2022-09-17": 407894,
-  "2022-09-18": 407913,
-  "2022-09-19": 407950,
-  "2022-09-20": 407969,
-  "2022-09-21": 408012,
-  "2022-09-22": 408055,
-  "2022-09-23": 408093,
-  "2022-09-24": 408167,
-  "2022-09-25": 408184,
-  "2022-09-26": 408217,
-  "2022-09-27": 408273,
-  "2022-09-28": 408313,
-  "2022-09-29": 408342,
-  "2022-09-30": 408372,
-  "2022-10-01": 408387,
-  "2022-10-02": 408440,
-  "2022-10-03": 408473,
-  "2022-10-04": 408511,
-  "2022-10-05": 408558,
-  "2022-10-06": 408576,
-  "2022-10-07": 408602,
-  "2022-10-08": 408650,
-  "2022-10-09": 408713,
-  "2022-10-10": 408719,
-  "2022-10-11": 408728,
-  "2022-10-12": 408778,
-  "2022-10-13": 408805,
-  "2022-10-14": 408854,
-  "2022-10-15": 408904,
-  "2022-10-16": 408941,
-  "2022-10-17": 408980,
-  "2022-10-18": 409042,
-  "2022-10-19": 409103,
-  "2022-10-20": 409151,
-  "2022-10-21": 409183,
-  "2022-10-22": 409216,
-  "2022-10-23": 409225,
-  "2022-10-24": 409245,
-  "2022-10-25": 409354,
-  "2022-10-26": 409430,
-  "2022-10-27": 409536,
-  "2022-10-28": 409656,
-  "2022-10-29": 409761,
-  "2022-10-30": 409883,
-  "2022-10-31": 409935,
-  "2022-11-01": 410034,
-  "2022-11-02": 410133,
-  "2022-11-03": 410202,
-  "2022-11-04": 410263,
-  "2022-11-05": 410333,
-  "2022-11-06": 410370,
-  "2022-11-07": 410423,
-  "2022-11-08": 410479,
-  "2022-11-09": 410508,
-  "2022-11-10": 410555,
-  "2022-11-11": 410679,
-  "2022-11-12": 410859,
-  "2022-11-13": 410938,
-  "2022-11-14": 411016,
-  "2022-11-15": 411067,
-  "2022-11-16": 411123,
-  "2022-11-17": 411167,
-  "2022-11-18": 411184,
-  "2022-11-19": 411117,
-  "2022-11-20": 411198,
-  "2022-11-21": 411133,
-  "2022-11-22": 411318,
-  "2022-11-23": 411252,
-  "2022-11-24": 411539,
-  "2022-11-25": 411672,
-  "2022-11-26": 411758,
-  "2022-11-27": 411801,
-  "2022-11-28": 411846,
-  "2022-11-29": 411911,
-  "2022-11-30": 411974,
-  "2022-12-01": 412031,
-  "2022-12-02": 412052,
-  "2022-12-03": 412131,
-  "2022-12-04": 412163,
-  "2022-12-05": 412217,
-  "2022-12-06": 412271,
-  "2022-12-07": 412333,
-  "2022-12-08": 412356,
-  "2022-12-09": 412397,
-  "2022-12-10": 412446,
-  "2022-12-11": 412494,
-  "2022-12-12": 412526,
-  "2022-12-13": 412561,
-  "2022-12-14": 412603,
-  "2022-12-15": 412641,
-  "2022-12-16": 412663,
-  "2022-12-17": 412715,
-  "2022-12-18": 412752,
-  "2022-12-19": 412781,
-  "2022-12-20": 412866,
-  "2022-12-21": 412866,
-  "2022-12-22": 412891,
-  "2022-12-24": 412958,
-  "2022-12-25": 412986,
-  "2022-12-26": 413005,
-  "2022-12-27": 413023,
-  "2022-12-28": 413038,
-  "2022-12-29": 413091,
-  "2022-12-30": 413136,
-  "2022-12-31": 413174,
-  "2023-01-01": 413178,
-  "2023-01-02": 413205,
-  "2023-01-03": 413243,
-  "2023-01-04": 413282,
-  "2023-01-05": 413334,
-  "2023-01-06": 413369,
-  "2023-01-07": 413455,
-  "2023-01-08": 413459,
-  "2023-01-09": 413502,
-  "2023-01-10": 413558,
-  "2023-01-11": 413604,
-  "2023-01-12": 413633,
-  "2023-01-13": 413668,
-  "2023-01-14": 413761,
-  "2023-01-15": 413762,
-  "2023-01-16": 413832,
-  "2023-01-17": 413863,
-  "2023-01-18": 413926,
-  "2023-01-19": 413985,
-  "2023-01-20": 414047,
-  "2023-01-21": 414098,
-  "2023-01-22": 414150,
-  "2023-01-23": 414195,
-  "2023-01-24": 414259,
-  "2023-01-25": 414294,
-  "2023-01-26": 414349,
-  "2023-01-27": 414410,
-  "2023-01-28": 414417,
-  "2023-01-29": 414444,
-  "2023-01-30": 414494,
-  "2023-01-31": 414494,
-  "2023-02-01": 414562,
-  "2023-02-02": 414589,
-  "2023-02-03": 414636,
-  "2023-02-04": 414657,
-  "2023-02-05": 414682,
-  "2023-02-06": 414732,
-  "2023-02-07": 414757,
-  "2023-02-08": 414810,
-  "2023-02-09": 414810,
-  "2023-02-10": 414827,
-  "2023-02-11": 414859,
-  "2023-02-12": 414933,
-  "2023-02-13": 414960,
-  "2023-02-14": 414960,
-  "2023-02-15": 414992,
-  "2023-02-16": 415016,
-  "2023-02-17": 415035,
-  "2023-02-18": 415120,
-  "2023-02-19": 415119,
-  "2023-02-20": 415149,
-  "2023-02-21": 415205,
-  "2023-02-22": 415236,
-  "2023-02-23": 415273,
-  "2023-02-24": 415320,
-  "2023-02-25": 415357,
-  "2023-02-26": 415380,
-  "2023-02-27": 415432,
-  "2023-02-28": 415432,
-  "2023-03-01": 415475,
-  "2023-03-02": 415504,
-  "2023-03-03": 415528,
-  "2023-03-04": 415567,
-  "2023-03-05": 415611,
-  "2023-03-06": 415611,
-  "2023-03-07": 415639,
-  "2023-03-08": 415652,
-  "2023-03-09": 415667,
-  "2023-03-10": 415696,
-  "2023-03-11": 415717,
-  "2023-03-12": 415748,
-  "2023-03-13": 415788,
-  "2023-03-14": 415825,
-  "2023-03-15": 415831,
-  "2023-03-16": 415864,
-  "2023-03-17": 415864,
-  "2023-03-18": 415898,
-  "2023-03-19": 415922,
-  "2023-03-20": 415928,
-  "2023-03-21": 415934,
-  "2023-03-22": 415951,
-  "2023-03-23": 415968,
-  "2023-03-24": 415968,
-  "2023-03-25": 416003,
-  "2023-03-26": 416031,
-  "2023-03-27": 416047,
-  "2023-03-28": 416053,
-  "2023-03-29": 416075,
-  "2023-03-30": 416133,
-  "2023-03-31": 416133,
-  "2023-04-01": 416179,
-  "2023-04-02": 416199,
-  "2023-04-03": 416200,
-  "2023-04-04": 416217,
-  "2023-04-05": 416231,
-  "2023-04-06": 416254,
-  "2023-04-07": 416280,
-  "2023-04-09": 416314,
-  "2023-04-10": 416322,
-  "2023-04-11": 416335,
-  "2023-04-12": 416335,
-  "2023-04-13": 416332,
-  "2023-04-14": 416347,
-  "2023-04-15": 416372,
-  "2023-04-16": 416380,
-  "2023-04-17": 416393,
-  "2023-04-18": 416434,
-  "2023-04-19": 416435,
-  "2023-04-20": 416461,
-  "2023-04-21": 416494,
-  "2023-04-22": 416520,
-  "2023-04-23": 416563,
-  "2023-04-24": 416578,
-  "2023-04-25": 416618,
-  "2023-04-26": 416662,
-  "2023-04-27": 416700,
-  "2023-04-28": 416747,
-  "2023-04-29": 416785,
-  "2023-04-30": 416810,
-  "2023-05-01": 416821,
-  "2023-05-02": 416838,
-  "2023-05-03": 416860,
-  "2023-05-04": 416876,
-  "2023-05-05": 416899,
-  "2023-05-06": 416934,
-  "2023-05-07": 416961,
-  "2023-05-08": 416999,
-  "2023-05-09": 417031,
-  "2023-05-10": 417062,
-  "2023-05-11": 417083,
-  "2023-05-12": 417087,
-  "2023-05-13": 417121,
-  "2023-05-14": 417148,
-  "2023-05-15": 417175,
-  "2023-05-16": 417201,
-  "2023-05-17": 417238,
-  "2023-05-18": 417271,
-  "2023-05-19": 417284,
-  "2023-05-20": 417341,
-  "2023-05-21": 417341,
-  "2023-05-22": 417341,
-  "2023-05-23": 417412,
-  "2023-05-24": 417443,
-  "2023-05-25": 417451,
-  "2023-05-26": 417488,
-  "2023-05-27": 417523,
-  "2023-05-28": 417549,
-  "2023-05-29": 417549,
-  "2023-05-30": 417569,
-  "2023-05-31": 417583,
-  "2023-06-01": 417579,
-  "2023-06-02": 417596,
-  "2023-06-03": 417627,
-  "2023-06-04": 417648,
-  "2023-06-05": 417643,
-  "2023-06-06": 417674,
-  "2023-06-07": 417687,
-  "2023-06-08": 417684,
-  "2023-06-09": 417684,
-  "2023-06-10": 417683,
-  "2023-06-11": 417703,
-  "2023-06-12": 417716,
-  "2023-06-13": 417715,
-  "2023-06-14": 417721,
-  "2023-06-15": 417720,
-  "2023-06-16": 417739,
-  "2023-06-17": 417752,
-  "2023-06-18": 417752,
-  "2023-06-19": 417763,
-  "2023-06-20": 417776,
-  "2023-06-21": 417793,
-  "2023-06-22": 417796,
-  "2023-06-23": 417805,
-  "2023-06-24": 417810,
-  "2023-06-25": 417825,
-  "2023-06-26": 417832,
-  "2023-06-27": 417826,
-  "2023-06-28": 417826,
-  "2023-06-29": 417847,
-  "2023-06-30": 417853,
-  "2023-07-01": 417877,
-  "2023-07-02": 417877,
-  "2023-07-03": 417882,
-  "2023-07-04": 417889,
-  "2023-07-05": 417903,
-  "2023-07-06": 417946,
-  "2023-07-07": 417946,
-  "2023-07-08": 417969,
-  "2023-07-09": 417990,
-  "2023-07-10": 417999,
-  "2023-07-11": 417988,
-  "2023-07-12": 418006,
-  "2023-07-13": 418017,
-  "2023-07-14": 418035,
-  "2023-07-15": 418040,
-  "2023-07-16": 418062,
-  "2023-07-17": 418080,
-  "2023-07-18": 418088,
-  "2023-07-19": 418097,
-  "2023-07-20": 418096,
-  "2023-07-21": 418105,
-  "2023-07-22": 418084,
-  "2023-07-23": 418092,
-  "2023-07-24": 418073,
-  "2023-07-25": 418101,
-  "2023-07-26": 418102,
-  "2023-07-27": 418108,
-  "2023-07-28": 418107,
-  "2023-07-29": 418121,
-  "2023-07-30": 418121,
-  "2023-07-31": 418122,
-  "2023-08-01": 418131,
-  "2023-08-02": 418143,
-  "2023-08-03": 418168,
-  "2023-08-04": 418171,
-  "2023-08-05": 418173,
-  "2023-08-06": 418203,
-  "2023-08-07": 418203,
-  "2023-08-08": 418213,
-  "2023-08-09": 418222,
-  "2023-08-10": 418234,
-  "2023-08-11": 418231,
-  "2023-08-12": 418244,
-  "2023-08-13": 418235,
-  "2023-08-14": 418251,
-  "2023-08-15": 418264,
-  "2023-08-16": 418264,
-  "2023-08-17": 418248,
-  "2023-08-18": 418271,
-  "2023-08-19": 418281,
-  "2023-08-20": 418292,
-  "2023-08-21": 418270,
-  "2023-08-22": 418291,
-  "2023-08-23": 418300,
-  "2023-08-24": 418335,
-  "2023-08-25": 418330,
-  "2023-08-26": 418332,
-  "2023-08-27": 418366,
-  "2023-08-28": 418366,
-  "2023-08-29": 418402,
-  "2023-08-30": 418395,
-  "2023-08-31": 418410,
-  "2023-09-01": 418434,
-  "2023-09-02": 418434,
-  "2023-09-03": 418452,
-  "2023-09-04": 418469,
-  "2023-09-05": 418474,
-  "2023-09-06": 418499,
-  "2023-09-07": 418519,
-  "2023-09-08": 418535,
-  "2023-09-09": 418581,
-  "2023-09-10": 418596,
-  "2023-09-11": 418606,
-  "2023-09-12": 418628,
-  "2023-09-13": 418653,
-  "2023-09-14": 418676,
-  "2023-09-15": 418694,
-  "2023-09-16": 418706,
-  "2023-09-17": 418716,
-  "2023-09-18": 418724,
-  "2023-09-19": 418753,
-  "2023-09-20": 418749,
-  "2023-09-21": 418787,
-  "2023-09-22": 418804,
-  "2023-09-23": 418836,
-  "2023-09-24": 418874,
-  "2023-09-25": 418890,
-  "2023-09-26": 418935,
-  "2023-09-27": 418954,
-  "2023-09-28": 418992,
-  "2023-09-29": 419019,
-  "2023-09-30": 419045,
-  "2023-10-01": 419070,
-  "2023-10-02": 419101,
-  "2023-10-03": 419107,
-  "2023-10-04": 419114,
-  "2023-10-05": 419146,
-  "2023-10-06": 419144,
-  "2023-10-07": 419159,
-  "2023-10-08": 419183,
-  "2023-10-09": 419184,
-  "2023-10-10": 418462,
-  "2023-10-11": 417674,
-  "2023-10-12": 417674,
-  "2023-10-13": 417017,
-  "2023-10-14": 416490,
-  "2023-10-15": 416383,
-  "2023-10-16": 416391,
-  "2023-10-17": 416411,
-  "2023-10-18": 416436,
-  "2023-10-19": 416451,
-  "2023-10-20": 416464,
-  "2023-10-21": 416471,
-  "2023-10-22": 416454,
-  "2023-10-23": 416457,
-  "2023-10-24": 416456,
-  "2023-10-25": 416460,
-  "2023-10-26": 416471,
-  "2023-10-27": 416477,
-  "2023-10-28": 416474,
-  "2023-10-29": 416474,
-  "2023-10-30": 416496,
-  "2023-10-31": 416496,
-  "2023-11-01": 416517,
-  "2023-11-02": 416521,
-  "2023-11-03": 416542,
-  "2023-11-04": 416545,
-  "2023-11-05": 416564,
-  "2023-11-06": 416580,
-  "2023-11-07": 416607,
-  "2023-11-08": 416605,
-  "2023-11-09": 416615,
-  "2023-11-10": 416623,
-  "2023-11-11": 416618,
-  "2023-11-12": 416615,
-  "2023-11-13": 416616,
-  "2023-11-14": 416623,
-  "2023-11-15": 416623,
-  "2023-11-16": 416633,
-  "2023-11-17": 416651,
-  "2023-11-18": 416651,
-  "2023-11-19": 416674,
-  "2023-11-20": 416677,
-  "2023-11-21": 416690,
-  "2023-11-22": 416691,
-  "2023-11-23": 416703,
-  "2023-11-24": 416713,
-  "2023-11-25": 416716,
-  "2023-11-26": 416725,
-  "2023-11-27": 416708,
-  "2023-11-28": 416711,
-  "2023-11-29": 416698,
-  "2023-11-30": 416698,
-  "2023-12-01": 416674,
-  "2023-12-02": 416673,
-  "2023-12-03": 416674,
-  "2023-12-04": 416679,
-  "2023-12-05": 416673,
-  "2023-12-06": 416685,
-  "2023-12-07": 416687,
-  "2023-12-08": 416694,
-  "2023-12-09": 416707,
-  "2023-12-10": 416730,
-  "2023-12-11": 416738,
-  "2023-12-12": 416754,
-  "2023-12-13": 416794,
-  "2023-12-14": 416836,
-  "2023-12-15": 416854,
-  "2023-12-16": 416872,
-  "2023-12-17": 416882,
-  "2023-12-18": 416884,
-  "2023-12-19": 416910,
-  "2023-12-20": 416940,
-  "2023-12-21": 416972,
-  "2023-12-22": 416986,
-  "2023-12-23": 417007,
-  "2023-12-24": 417029,
-  "2023-12-25": 417028,
-  "2023-12-26": 417048,
-  "2023-12-27": 417056,
-  "2023-12-30": 417077,
-  "2023-12-31": 417079,
-  "2024-01-01": 417095,
-  "2024-01-02": 417109,
-  "2024-01-03": 417115
+  "2024-01-17": 413362,
+  "date_first_scraped": "2022-05-30",
+  "description": "Ahgases! 7 or nothing.",
+  "name": "This Is GOT7",
+  "tracks": [
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194960,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/0LtVFKHMvcozpzjEpWgs4u"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194960,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/1hcdSZ6FasEAByx6BrjGXY"
+    },
+    {
+      "album": {
+        "name": "100 Ways",
+        "url": "https://open.spotify.com/album/5lSO3Vtlfqu8BJZ9lKa4va"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "100 Ways",
+      "url": "https://open.spotify.com/track/4mQMvcRtQou5yI8mjuJ1lf"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231260,
+      "name": "1:31AM",
+      "url": "https://open.spotify.com/track/6nfP1uaKSowLJYW2TOuSnj"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194594,
+      "name": "1\u00b0",
+      "url": "https://open.spotify.com/track/2He6Fqx5ZW7VJkbtph9y98"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194594,
+      "name": "1\u00b0",
+      "url": "https://open.spotify.com/track/6y6ahMwoZniXQNurGMT296"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go (Complete Edition)",
+        "url": "https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205173,
+      "name": "25",
+      "url": "https://open.spotify.com/track/2Ny6mqaPLEhCS1bJvo7YKE"
+    },
+    {
+      "album": {
+        "name": "I WON'T LET YOU GO (Complete Edition)",
+        "url": "https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205173,
+      "name": "25",
+      "url": "https://open.spotify.com/track/4EUNVRZddtcAnPy1vHM1Nn"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 181800,
+      "name": "A",
+      "url": "https://open.spotify.com/track/26yRudD12w6Tlr9jWmGxIC"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/2KrRof53R397vP2TROZO6N"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "A",
+      "url": "https://open.spotify.com/track/2KAsxwOMeRSsLy6RcP9PWl"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/71Wa5uY1X8SPiAzpoVzS04"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182613,
+      "name": "A",
+      "url": "https://open.spotify.com/track/0r3LYm9Wtj94WyOO3AchZ9"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/5FtIYnrmxlfQH0qC4OgBbR"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 182613,
+      "name": "A",
+      "url": "https://open.spotify.com/track/1dHGpyLRqLnBqyWzlfvyFh"
+    },
+    {
+      "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "All Your Fault (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/4PP4siQamrO7i5Me9GOpqQ"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186067,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/5n7raBayk9E4vqz5OcGZYF"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 186067,
+      "name": "AURA",
+      "url": "https://open.spotify.com/track/7MthitzhOiulghCWPy3AhK"
+    },
+    {
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192585,
+      "name": "B.T.W (feat. Jay Park) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/4f3wldin8UmItfSJKK5BF2"
+    },
+    {
+      "album": {
+        "name": "Blow",
+        "url": "https://open.spotify.com/album/2y6aTfBouCa2nRJadWq0WX"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163933,
+      "name": "Blow",
+      "url": "https://open.spotify.com/track/0QPPJN3d42PINVAyBPZTC3"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 159719,
+      "name": "Born Ready",
+      "url": "https://open.spotify.com/track/04YPwOU37XTnzrPTltJz1B"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159728,
+      "name": "Born Ready",
+      "url": "https://open.spotify.com/track/6sFqSFS3g0zCTIXqb7uoHa"
+    },
+    {
+      "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/2DUCTJhmXzOWNpjYnzt7Sz"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 187251,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/2tVkFxyePqB0o4Y4SYKV0Q"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187251,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/48iEeKVDuRYEqpksJJAELP"
+    },
+    {
+      "album": {
+        "name": "BULLET TO THE HEART",
+        "url": "https://open.spotify.com/album/4e2ISy1Q6CSMwlDNfnYXkO"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "BULLET TO THE HEART",
+      "url": "https://open.spotify.com/track/1HMMRRcLsRARU4fzuycnRo"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194273,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/1dP5CF0eQaMuODEH5AvSMc"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212836,
+      "name": "Confession Song",
+      "url": "https://open.spotify.com/track/60uS4DyHMAdsNwJXn89C8R"
+    },
+    {
+      "album": {
+        "name": "Chapter 0: WITH",
+        "url": "https://open.spotify.com/album/30vQSjAJPOlFj0otYyvYki"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199040,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4DxEb2Pk4KAAFqqD241whz"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 204782,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/2QOI51497Fk1yh8ctvTZQ2"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204782,
+      "name": "Crash & Burn",
+      "url": "https://open.spotify.com/track/67VKMX5np3CcKOsqAMokQ1"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 231352,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3abduCH8DYXjfwlkjLYH65"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231352,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/5KaoFUcjEP0jhsgG4eseuP"
+    },
+    {
+      "album": {
+        "name": "Love and Wish (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/64ZR0AoOV4VJ89QVvmwgEx"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229560,
+      "name": "Day by Day",
+      "url": "https://open.spotify.com/track/7zo6QXVQfHlycm8dsxkRGv"
+    },
+    {
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH"
+      },
+      "artists": [
+        {
+          "name": "Jinyoung",
+          "url": "https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Don't Care About Me",
+      "url": "https://open.spotify.com/track/1Sy1ZJBwL22SG1QGwkmwqC"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Don't Leave Me Alone",
+      "url": "https://open.spotify.com/track/4fMQoUbHEDQuunJiYbLXpL"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "Drive Me To The Moon",
+      "url": "https://open.spotify.com/track/3Cvk6D9zA67WnPtKCa4ZZ0"
+    },
+    {
+      "album": {
+        "name": "Drive You Home",
+        "url": "https://open.spotify.com/album/7AiL3QPCgFxmG64c8gXkvD"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216163,
+      "name": "Drive You Home",
+      "url": "https://open.spotify.com/track/7uidJM7xBikobIitpHQKZ4"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 226069,
+      "name": "DRUNK ON YOU",
+      "url": "https://open.spotify.com/track/3py7jF8h0hJ0QiYoyqUBz5"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226069,
+      "name": "DRUNK ON YOU",
+      "url": "https://open.spotify.com/track/4bKYSsMbo15rYFkJcUAeES"
+    },
+    {
+      "album": {
+        "name": "DWAY!",
+        "url": "https://open.spotify.com/album/08UXf4p7zAdrb7Vq0XA8Lg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145253,
+      "name": "DWAY!",
+      "url": "https://open.spotify.com/track/5XfamJkzfdtJ8MvxYmEDhJ"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 209519,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3FoiMgXMrO3D5FeJuotKyZ"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209519,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/7Foj5OSXpA054zOMxNfPrG"
+    },
+    {
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212869,
+      "name": "Encore",
+      "url": "https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208787,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/46C0toppaJOPT6VYYdixV8"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 208787,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/5Z9I7qD6pPsAyWMBZTnjAw"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208787,
+      "name": "Face",
+      "url": "https://open.spotify.com/track/5sAuJgcO45I2Y3F5CAowAe"
+    },
+    {
+      "album": {
+        "name": "When My Love Blooms (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/0EPhS9fBHZJtxB7sm9ScTJ"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        },
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/2UoliG4yLL0PSXJaTo22Jg"
+    },
+    {
+      "album": {
+        "name": "When My Love Blooms (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/2GDTaNWlrHYenTpVsCb5ay"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        },
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202000,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/4lpMmdpOCEc2LJVgTFny46"
+    },
+    {
+      "album": {
+        "name": "When My Love Blooms (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/30YV3hJFnPGQOQRU1lv8bP"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        },
+        {
+          "name": "Choi Jungyoon",
+          "url": "https://open.spotify.com/artist/1jpRO6feBr1rjOCSHzu3Xi"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202000,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/4sJjKC2OTZwqcJ4U6pkb01"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/0I0J7uOt0XlSx9jPXj62Ym"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 191575,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/3CK5Fc55KyS4Tg9Q9XrCYC"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/4VnVKxKmuCz0FVIKSj6kg9"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191575,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/4zpdzjbrkuahEdCqCCAwcA"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/5EkihQrxaHCA90ySQsV8jl"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191575,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/60UEnuG7U7URpqGpUrXSsq"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 216458,
+      "name": "FOCUS ON ME",
+      "url": "https://open.spotify.com/track/1JQPZKIXKU3wdOSjk2ILgM"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216458,
+      "name": "FOCUS ON ME",
+      "url": "https://open.spotify.com/track/48oPOxN4MwjqXAkkzDC5EB"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/2KrRof53R397vP2TROZO6N"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224946,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4hbbD7L1h6Q1cHvnOfHm3c"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/5FtIYnrmxlfQH0qC4OgBbR"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 224946,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5JGKtiiv6BUB3EeSgWSAMr"
+    },
+    {
+      "album": {
+        "name": "GOT\u2661",
+        "url": "https://open.spotify.com/album/71Wa5uY1X8SPiAzpoVzS04"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224946,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/6SElSsXjg8PqWQRTaxvKZX"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199730,
+      "name": "From Now",
+      "url": "https://open.spotify.com/track/06aBqmxwpJU0mRuwvXHPpZ"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/3gFfgWCPBzgzQKbLlmBQ5S"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213884,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/2BcQtLqnVgEG8JGpLq66Zj"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 213884,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/2dETpDlDJxEGqDzDMBEksb"
+    },
+    {
+      "album": {
+        "name": "Got It?",
+        "url": "https://open.spotify.com/album/7E3W9C5Ac3RKnFpKErEgGD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213884,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/4CF7kR9MIRiuYG2pqr1IOh"
+    },
+    {
+      "album": {
+        "name": "Got It?",
+        "url": "https://open.spotify.com/album/2WAQjbbYLWMkoGFr2g2LYw"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213884,
+      "name": "Girls Girls Girls",
+      "url": "https://open.spotify.com/track/5ThLhHMjeLLPFzhlXRm6xt"
+    },
+    {
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "go UP",
+      "url": "https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193578,
+      "name": "Hard Carry",
+      "url": "https://open.spotify.com/track/0QJk64Xo6tdXNjXg4RnqpI"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 209000,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/10As4dmozw8Fmezqn1tEaU"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209000,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/3cb12axfu56RGiqS4qsLP0"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "HEY",
+      "url": "https://open.spotify.com/track/4hiLmAkrsuIeoJUGNBO6Fu"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156052,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/30TN16O9f5KZaQRiWIQ5CI"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 156052,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4FvleEiBzOIsG5Ksjg2mfk"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156052,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/4uKjiJsKXmQFgyYa4DWt7j"
+    },
+    {
+      "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/6wc7cl1ITpbVKUQzxsRcng"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 188119,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/1vPSrs2DSjDUjqCaGBhCNF"
+    },
+    {
+      "album": {
+        "name": "HOME RUN",
+        "url": "https://open.spotify.com/album/3OTqD6dSNPYY0pSsU0Dbae"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188119,
+      "name": "HOME RUN",
+      "url": "https://open.spotify.com/track/6QnQWyeueTZTipJY8Cv6PY"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211656,
+      "name": "I Am Me",
+      "url": "https://open.spotify.com/track/0LLak2AzpwmZXtbkKTeffT"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 211656,
+      "name": "I Am Me",
+      "url": "https://open.spotify.com/track/0sTfJY7Ij9idnH7plzxkkS"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211656,
+      "name": "I Am Me",
+      "url": "https://open.spotify.com/track/1HaaaJCvvIEukZgx2z1Mrp"
+    },
+    {
+      "album": {
+        "name": "Got It?",
+        "url": "https://open.spotify.com/album/47yWEcNGaaabbMgUKpgHgc"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203358,
+      "name": "I Like You",
+      "url": "https://open.spotify.com/track/5CsuMQzH4gKCHsoY4eHegv"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 180802,
+      "name": "I Mean It",
+      "url": "https://open.spotify.com/track/2Efpgql2LGwTC3TGEed2ol"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180802,
+      "name": "I Mean It",
+      "url": "https://open.spotify.com/track/2tHEGUBvcmcF6n9D2cdesm"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180802,
+      "name": "I Mean It",
+      "url": "https://open.spotify.com/track/6mXr5vmowQR05FUCm0EnJs"
+    },
+    {
+      "album": {
+        "name": "Point Of View: U",
+        "url": "https://open.spotify.com/album/0KZ5gVcGCuAEFBDKmWL4bM"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191106,
+      "name": "I Want U Around (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/2JCUuaIDwYaoS0jWGxa7X9"
+    },
+    {
+      "album": {
+        "name": "I Want U Around",
+        "url": "https://open.spotify.com/album/0NCuf8EjsH0z06AdgzmQxi"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191106,
+      "name": "I Want U Around (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/5zI721DtTDWjLbDvZoWKGZ"
+    },
+    {
+      "album": {
+        "name": "I WON'T LET YOU GO (Complete Edition)",
+        "url": "https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217733,
+      "name": "I WON'T LET YOU GO",
+      "url": "https://open.spotify.com/track/3cdHL2ljh7IFnOtRsUOnej"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go (Complete Edition)",
+        "url": "https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217733,
+      "name": "I WON'T LET YOU GO",
+      "url": "https://open.spotify.com/track/7MbapO3ZrXWMm4dCJDchlt"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/2CbU9JhqInjKPgsYdSAKAk"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210834,
+      "name": "If You Do",
+      "url": "https://open.spotify.com/track/2Yzb7XLjtfZCeVm6XYH55s"
+    },
+    {
+      "album": {
+        "name": "Just Right",
+        "url": "https://open.spotify.com/album/0hRtcVLlfHj4zkc1vZOku5"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222398,
+      "name": "Just Right",
+      "url": "https://open.spotify.com/track/16dL6zhP5MLxEwX8sbqCOa"
+    },
+    {
+      "album": {
+        "name": "Just Right",
+        "url": "https://open.spotify.com/album/4159syQKTGC1JSJN4xBScv"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 222398,
+      "name": "Just Right",
+      "url": "https://open.spotify.com/track/4ER58qECydWokIsgqtysWu"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183443,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1Tr5QznlSLLsrgoSL9hSE7"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183443,
+      "name": "King",
+      "url": "https://open.spotify.com/track/5pK75uKpa88Cblrqhwqcjd"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 183443,
+      "name": "King",
+      "url": "https://open.spotify.com/track/7cst48ixgIYEvdmIaCMoIm"
+    },
+    {
+      "album": {
+        "name": "last breath",
+        "url": "https://open.spotify.com/album/1j6ugJWxbjmxT2nukjUIQj"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "last breath",
+      "url": "https://open.spotify.com/track/3oBrXFR59oxbYVBJZ6lHG2"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222119,
+      "name": "LAST PIECE",
+      "url": "https://open.spotify.com/track/1NNH8BS6sgMnEtymDwE0zZ"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222119,
+      "name": "LAST PIECE",
+      "url": "https://open.spotify.com/track/6oZK2OtYfjLk6FLdXJW6FI"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 222119,
+      "name": "LAST PIECE",
+      "url": "https://open.spotify.com/track/6xrjIHbm6ga5J8HhOS2Rmn"
+    },
+    {
+      "album": {
+        "name": "LMLY",
+        "url": "https://open.spotify.com/album/09UJf8ZqCuv5NHRZIqTZgh"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209998,
+      "name": "LMLY",
+      "url": "https://open.spotify.com/track/3Jbpo2slhW2bbVneiJnC9G"
+    },
+    {
+      "album": {
+        "name": "lonely",
+        "url": "https://open.spotify.com/album/2Ay01bZKWRqWUrRWydeSsC"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213180,
+      "name": "lonely",
+      "url": "https://open.spotify.com/track/6tHHDLX1jZNzlT4vZmqm5n"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 182604,
+      "name": "LONG BLACK",
+      "url": "https://open.spotify.com/track/3AwqFq8Vxr5uF7oJftjld9"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182604,
+      "name": "LONG BLACK",
+      "url": "https://open.spotify.com/track/6FW9Kc2X71bkGHeOhMqZVj"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194535,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/1ZFQugO7BqYJjw8FVQHcze"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/4ndf5HnQwdqnlFpL5BriPL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194535,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/4Y7F4TEELSbinTS7mWbXCf"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2k15VazqnRuva8vbh1iZWA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194535,
+      "name": "Look",
+      "url": "https://open.spotify.com/track/5JwuXvMV8f7ftQczIPCzmm"
+    },
+    {
+      "album": {
+        "name": "LOVE LOOP",
+        "url": "https://open.spotify.com/album/1cBRrnniShJMLAiHmZnSen"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222453,
+      "name": "LOVE LOOP",
+      "url": "https://open.spotify.com/track/3HaBKv0aPB9s7gK2G1bR8V"
+    },
+    {
+      "album": {
+        "name": "LOVE LOOP",
+        "url": "https://open.spotify.com/album/4GcJuT0qH5hBPqRdWWMdpt"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "LOVE LOOP",
+      "url": "https://open.spotify.com/track/5aXG85maTCL3GBVPTGKzPj"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233048,
+      "name": "LOVE TALK",
+      "url": "https://open.spotify.com/track/2gfkI0g4ZJtZrfHe4vlIqJ"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 233048,
+      "name": "Love Talk",
+      "url": "https://open.spotify.com/track/5ukZlGN2l9WFC0kguXNMwv"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 201528,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/15VM72GLYwNAfOvuTWVQkw"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201528,
+      "name": "LOVE YOU BETTER",
+      "url": "https://open.spotify.com/track/7inzKPIYYPKhOBIXBsycho"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0ZsEQfX9EtqFMXzmnEK0AL"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0n92ByvQ6uLY7nUG0G9xmO"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/1aDarBap4uQgOt9k4fxWd8"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 217486,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2iXvnjL5CH66UpnGjXHDmZ"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217507,
+      "name": "Lullaby (English Version)",
+      "url": "https://open.spotify.com/track/1zvZnlX0WYqXPOyPNJ7H7a"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217506,
+      "name": "Lullaby (Spanish Version)",
+      "url": "https://open.spotify.com/track/1puhxtesBxmxctTYu6YbEK"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 217507,
+      "name": "Lullaby - English Ver.",
+      "url": "https://open.spotify.com/track/16eRR7XkOtzj8ViIjiN1Cu"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217507,
+      "name": "Lullaby - English Ver.",
+      "url": "https://open.spotify.com/track/4e7i6UozW4fqVGOw08g0o8"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217507,
+      "name": "Lullaby - English.Ver",
+      "url": "https://open.spotify.com/track/7MfJtG2dnKJXnVV4oece7v"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217506,
+      "name": "Lullaby - Spanish Ver.",
+      "url": "https://open.spotify.com/track/0WQwiIbBX6JaVw1w9awD6E"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 217506,
+      "name": "Lullaby - Spanish Ver.",
+      "url": "https://open.spotify.com/track/3FmOKx68A1cQ42cpIerO7o"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217506,
+      "name": "Lullaby - Spanish.Ver",
+      "url": "https://open.spotify.com/track/1LH2jPx3VR7tTSvFwB5bD8"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156485,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/3GCYyf6uY0OfW1POuqr6rN"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156485,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/4xiRJ15zOnHS7AzbZ7ciJW"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 156485,
+      "name": "Made It",
+      "url": "https://open.spotify.com/track/6eLxipfx6UCHq4klwepHZH"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 203084,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/3qLNtf8mMhjivYM84iVmy8"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/3gFfgWCPBzgzQKbLlmBQ5S"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203084,
+      "name": "Magnetic",
+      "url": "https://open.spotify.com/track/7rZRllPDe0NWHOvVuCGT0k"
+    },
+    {
+      "album": {
+        "name": "Meet Me When The Sun Goes Down (From \"Midnight Sun\" Original Musical Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/49ePyMlTA6mOwNv7cVHgTk"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205422,
+      "name": "Meet Me When The Sun Goes Down (From \"Midnight Sun\" Original Musical Soundtrack, Pt. 1)",
+      "url": "https://open.spotify.com/track/4AaQHFtHzcj9qAI2vPoXih"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 250848,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1yG6zmlUw5Zxxje3nBIjlu"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250848,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/6ReajuD6q3JKQWBsq8m3fj"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250848,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/7EuwGgjGV5mZdiFxkNVNDd"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 207320,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/0M0hPIskg4OVC11rkp4Xnp"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207320,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/3FkTOVCW2yekG0hOWAOB2J"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207320,
+      "name": "My Home",
+      "url": "https://open.spotify.com/track/5c0qoM1fLadD2D0TW6tpsM"
+    },
+    {
+      "album": {
+        "name": "my life",
+        "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174990,
+      "name": "my life",
+      "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "album": {
+        "name": "My Swagger",
+        "url": "https://open.spotify.com/album/4Rr87CeS5NaWCWQWRKb1Ff"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187053,
+      "name": "MY SWAGGER",
+      "url": "https://open.spotify.com/track/31Q8Gbx4f6Pfv2fDaTLAFk"
+    },
+    {
+      "album": {
+        "name": "MY SWAGGER",
+        "url": "https://open.spotify.com/album/1O7vYLrpBkyZOXnh18MQhH"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187053,
+      "name": "MY SWAGGER",
+      "url": "https://open.spotify.com/track/7f7FSUQH5HDZBJRZoQJd5W"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 212819,
+      "name": "My Youth",
+      "url": "https://open.spotify.com/track/38u3ye3vz5k67AlwndgWDb"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212819,
+      "name": "My Youth",
+      "url": "https://open.spotify.com/track/4aLfsWNLeAWFKyR024EEvo"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212819,
+      "name": "My Youth",
+      "url": "https://open.spotify.com/track/6U5jQigohsLdToySCbQJUe"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "NANANA",
+      "url": "https://open.spotify.com/track/2tEMbypmvYhf84mzVbhxwZ"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go (Complete Edition)",
+        "url": "https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246613,
+      "name": "NEVER ENDING STORY",
+      "url": "https://open.spotify.com/track/0GrJHL8wfU6TCS7iRhGlZM"
+    },
+    {
+      "album": {
+        "name": "I WON'T LET YOU GO (Complete Edition)",
+        "url": "https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246613,
+      "name": "NEVER ENDING STORY",
+      "url": "https://open.spotify.com/track/4pML43K2gy34lzIFnrvQzG"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/5r30o1iIr8sdoRsu6qPKrK"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194407,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/0ygy8bNjL9pk58nHibd3Bz"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/35c38TkgFG0AIh3P9ARrzZ"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194407,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/4qSmg9wB3Ju6S3SiETOlXU"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194407,
+      "name": "Never Ever",
+      "url": "https://open.spotify.com/track/4tzkSoh450XnimhNWVmBhg"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 202003,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/4QHs3gzvQ0vOMRH5cBxBWY"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202003,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/5QBZXB121DgCLxT5PGsW6v"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202003,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6ctPCGmPl2mALYgkgXENrN"
+    },
+    {
+      "album": {
+        "name": "nostalgia",
+        "url": "https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196866,
+      "name": "nostalgia",
+      "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204701,
+      "name": "NOT BY THE MOON",
+      "url": "https://open.spotify.com/track/0LrhTHjmH2ATnbCbsqKZyf"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 204701,
+      "name": "NOT BY THE MOON",
+      "url": "https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/6oygMvl93dCA3xOJqT50m5"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/48Ow2RXXaLwWVEp2Y4F6DV"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 188262,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/1183GPHs7Sovg29p4ym8rP"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188262,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2IlllGKeodJvE3XgZfF4Km"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188262,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/669Z7w8ax1PZlSZuonUAOs"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 200540,
+      "name": "One And Only You",
+      "url": "https://open.spotify.com/track/261LXApprrMeuczNAGqjav"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/4ndf5HnQwdqnlFpL5BriPL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "HYOLYN",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200540,
+      "name": "One And Only You",
+      "url": "https://open.spotify.com/track/6zeN8JegGShP3VFXqN0TAM"
+    },
+    {
+      "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/5S6CBbZZlniYlULmOmMDP3"
+      },
+      "artists": [
+        {
+          "name": "Mark Tuan",
+          "url": "https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1dkhx3oH7UVYnWaVCPSQY7"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/1L3l7GXxByDSriYTwbwuZm"
+    },
+    {
+      "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/4dFfCZIvIWu23WLE2u3R3U"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158709,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/5AfIBd0sANtSZaubjtnnJr"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 224393,
+      "name": "PAGE",
+      "url": "https://open.spotify.com/track/3BTaItolEPypIOZd8pxKoM"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224393,
+      "name": "PAGE",
+      "url": "https://open.spotify.com/track/6wuKTYIALaY34Olr0UU6mk"
+    },
+    {
+      "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/4lME2s2UVffNWZQ905GoLg"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195036,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/0sHZzinNs6zUXnxcwhFYES"
+    },
+    {
+      "album": {
+        "name": "Papillon",
+        "url": "https://open.spotify.com/album/2LLTZRSzfiLDjIxHrcbmNW"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195036,
+      "name": "Papillon",
+      "url": "https://open.spotify.com/track/7Cy5lVtive8cM718xgr1TN"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/35c38TkgFG0AIh3P9ARrzZ"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211148,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1MFBggWrb1j7376vU3iriR"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/5r30o1iIr8sdoRsu6qPKrK"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211148,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/42eRNUvD1BJ9QFPUlN0Oam"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : ARRIVAL",
+        "url": "https://open.spotify.com/album/4jMq9hcatjFMJlPb4IpoI5"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 211148,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/5J7LpvVQDhSErvu6GVX5yg"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 184733,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4N38gZ1gE9OPR55BncXUAC"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5OXBJas87bPp02lCfIwUab"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184733,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5XO0LmpnGeKV5geZj2lbT1"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 175602,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/5t9w5O8sLvbB7hwfyzNXi5"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175602,
+      "name": "POISON",
+      "url": "https://open.spotify.com/track/6bTwoNDpDDnXaTwZbDJRqX"
+    },
+    {
+      "album": {
+        "name": "Ponytail",
+        "url": "https://open.spotify.com/album/1VwRHtgoE6qo1Kng6wiMg0"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205284,
+      "name": "Ponytail (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3H1B6KuqXvRCBNrln32Bpa"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 227369,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/1yWd5r0QK4XslQ4tX3TcR6"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227369,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/2SDgKMYCh6UWIfSSIG5nVJ"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174880,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/158rpsE6Sdru1Y11EUSIjs"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 174880,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1JawNrC8uFnFomifyONahL"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174880,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/4M540pqSgERNRFXRWDNW94"
+    },
+    {
+      "album": {
+        "name": "riBBon",
+        "url": "https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "riBBon",
+      "url": "https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 244276,
+      "name": "RUN AWAY",
+      "url": "https://open.spotify.com/track/1XXyHhgmhMYqn55Gej4NXs"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244276,
+      "name": "RUN AWAY",
+      "url": "https://open.spotify.com/track/3JRpqnCVFSbyOrkr4TKeUN"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 205625,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/2E2bFthdXWisDc8PC75rZt"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/2Kkte1APGRFuPLmjRUgu4i"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205625,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/5WgJBvrMplNTqTIlfOeQGu"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/0I0J7uOt0XlSx9jPXj62Ym"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 204840,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/0sa0z0V3q9DFrhpXxKIAli"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/4VnVKxKmuCz0FVIKSj6kg9"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204840,
+      "name": "See The Light",
+      "url": "https://open.spotify.com/track/4zZhGjhGGZn6SsoK9L740v"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go (Complete Edition)",
+        "url": "https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214773,
+      "name": "SEESAW",
+      "url": "https://open.spotify.com/track/1jJrOj07b8AgaOVKxWX6rF"
+    },
+    {
+      "album": {
+        "name": "I WON'T LET YOU GO (Complete Edition)",
+        "url": "https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "SEESAW",
+      "url": "https://open.spotify.com/track/7Axxzd54bcm9ATCns93vhN"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 195052,
+      "name": "SENSES",
+      "url": "https://open.spotify.com/track/3C7hRslMCduBjjDyfEYors"
+    },
+    {
+      "album": {
+        "name": "FOCUS -Japan Edition-",
+        "url": "https://open.spotify.com/album/0ApPaZaot44MomX154TtAY"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "SENSES -Japanese ver.-",
+      "url": "https://open.spotify.com/track/5DqeVrwmjOtkvwBgcOK42X"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "skyway",
+      "url": "https://open.spotify.com/track/0hwx7RPh1CuvcpKEMh4bRl"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217706,
+      "name": "skyway",
+      "url": "https://open.spotify.com/track/4b6WACfiB2h4SEXFWJdSXu"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 217706,
+      "name": "skyway",
+      "url": "https://open.spotify.com/track/5i1RcRRodwy5lelFacx6AM"
+    },
+    {
+      "album": {
+        "name": "B",
+        "url": "https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "Slow Mo",
+      "url": "https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206928,
+      "name": "SPECIAL",
+      "url": "https://open.spotify.com/track/1rMn0ksQVhSBrEq8gIMR67"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206928,
+      "name": "SPECIAL",
+      "url": "https://open.spotify.com/track/3VTaSTJwPundWfQHw1jy4x"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 206928,
+      "name": "SPECIAL",
+      "url": "https://open.spotify.com/track/64vGGXR2JO75ngSyAsvb8d"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/3gFfgWCPBzgzQKbLlmBQ5S"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196701,
+      "name": "Stop stop it",
+      "url": "https://open.spotify.com/track/69rWpV92uNFSlAENFT5OQp"
+    },
+    {
+      "album": {
+        "name": "SUGAR",
+        "url": "https://open.spotify.com/album/5kmy3uN2XugLp8DLoL48ef"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "SUGAR",
+      "url": "https://open.spotify.com/track/4WFTVcLuQuQlzzO8aS4iRM"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211142,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/48CxrZ0ylpwhBHt9KswVQo"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211142,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5HfUlXzNYON1VJc4FpEs7N"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211142,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/5pvTepsiCPdcIzPngIm3D8"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/5bZagDONazVp43sbHlf3RD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 211142,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/74pFS2LJmnYm7GckBLSVOJ"
+    },
+    {
+      "album": {
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+      },
+      "artists": [
+        {
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203269,
+      "name": "SUNSET WITH YOU",
+      "url": "https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i"
+    },
+    {
+      "album": {
+        "name": "Switch It Up (feat. sokodomo) [Prod. Cha Cha Malone]",
+        "url": "https://open.spotify.com/album/5mFDH66iKlo3pBjMSRxddK"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "sokodomo",
+          "url": "https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215197,
+      "name": "Switch It Up (feat. sokodomo) - Prod. Cha Cha Malone",
+      "url": "https://open.spotify.com/track/1m1ho1lkZHAGe7rv5K8Ift"
+    },
+    {
+      "album": {
+        "name": "HE IS PSYCHOMETRIC (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/64X5eTosvyBfgG2gXamatJ"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192154,
+      "name": "TAKE",
+      "url": "https://open.spotify.com/track/0wX7DQSE4BDyng6kpF2uPq"
+    },
+    {
+      "album": {
+        "name": "HE IS PSYCHOMETRIC (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3rqvJoshIPePxrNH6Oj3Iv"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192154,
+      "name": "TAKE",
+      "url": "https://open.spotify.com/track/4KeRCk1CaMCFH9ekISSgZo"
+    },
+    {
+      "album": {
+        "name": "HE IS PSYCHOMETRIC (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6NjWRY4d4XN0CNELA9Qn0T"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192154,
+      "name": "TAKE",
+      "url": "https://open.spotify.com/track/6A5zIuNYZ2IlgqZoTFcjE1"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194234,
+      "name": "Take Me To You",
+      "url": "https://open.spotify.com/track/1BR9Y1N9OLNMqEGcKAdy0K"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194234,
+      "name": "Take Me To You",
+      "url": "https://open.spotify.com/track/4CB1w0b0DObsE7F856Gg0e"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194234,
+      "name": "Take Me To You",
+      "url": "https://open.spotify.com/track/4CtTi2tSRjUc6vABWAgUNp"
+    },
+    {
+      "album": {
+        "name": "Take You Down",
+        "url": "https://open.spotify.com/album/55igE6NKmOq7BthH5S0iZZ"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207560,
+      "name": "Take You Down (Feat. Coogie)",
+      "url": "https://open.spotify.com/track/4BJoCk9oiInkkAMqgjiRek"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189378,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/00epHVn0WOaXiT3UhpIINp"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189378,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/6D7PMEnCmHMC5WJb2HOGc3"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 189378,
+      "name": "Teenager",
+      "url": "https://open.spotify.com/track/7fiiia7w18MLmPBcjmxeFJ"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/4ndf5HnQwdqnlFpL5BriPL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226483,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4R3c5kIWwKO6ZToMBGMYBN"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 226483,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/4zqhiObNLChqnBSEzR9Jla"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2k15VazqnRuva8vbh1iZWA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226483,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/6VJBgozq1aryUtpNOOLKb1"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223838,
+      "name": "Thank You, Sorry",
+      "url": "https://open.spotify.com/track/1i1B47g1uwOPR2qeBYMshE"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223838,
+      "name": "Thank You, Sorry",
+      "url": "https://open.spotify.com/track/3GY6fCYXBHgH66SDG050TU"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 223838,
+      "name": "Thank You, Sorry",
+      "url": "https://open.spotify.com/track/72CFnNVdYSWvH70PkovdM2"
+    },
+    {
+      "album": {
+        "name": "THE New Era",
+        "url": "https://open.spotify.com/album/5AP7jGeJR6GjMVBtsdIEuY"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217118,
+      "name": "THE New Era",
+      "url": "https://open.spotify.com/track/2V8IitegdOtpbH1uB5M7bD"
+    },
+    {
+      "album": {
+        "name": "The New Era (Special Edition)",
+        "url": "https://open.spotify.com/album/5th9ym279qG6pjSklZNsCw"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219680,
+      "name": "THE New Era",
+      "url": "https://open.spotify.com/track/6gJJ3geKv7UkSxOD2JmTQC"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1wUQQbKxfzhAR8WsJL6yl3"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188210,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/3lOyWo3j9qehSoNqoQdlXg"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 188210,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/4EPSCgvJCYlw563M1UqZxQ"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206577,
+      "name": "THURSDAY",
+      "url": "https://open.spotify.com/track/2oR3LyhJcuy0GOHhCPcoHo"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 206577,
+      "name": "THURSDAY",
+      "url": "https://open.spotify.com/track/3v5BOhyPrVQN7PYE6JnY7j"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 181323,
+      "name": "Time Out",
+      "url": "https://open.spotify.com/track/4YQKoTs6QESahc7N4OI82A"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181323,
+      "name": "TIME OUT",
+      "url": "https://open.spotify.com/track/5ZynmbezT5MBrXfkjbr3La"
+    },
+    {
+      "album": {
+        "name": "MIRRORS",
+        "url": "https://open.spotify.com/album/38Haveja8WznqiccCDJKHz"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141146,
+      "name": "TITANIC (feat. Rich Brian)",
+      "url": "https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe"
+    },
+    {
+      "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/2nuQHw26iU71RvViaMx5Rl"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235068,
+      "name": "Tomorrow, Today",
+      "url": "https://open.spotify.com/track/6GKHrYccvceiS3AFZtfFxm"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3OdrlJTeueqRWR7Wbh9maH"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199990,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/0ozMNbPm8SGyDWK8rHS8o0"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2QjrhGUZWWHnUFEMFzCsx5"
+      },
+      "artists": [
+        {
+          "name": "Jus2",
+          "url": "https://open.spotify.com/artist/1pXX6uuufA0Zrk4Ksuh4nv"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 199990,
+      "name": "TOUCH",
+      "url": "https://open.spotify.com/track/5nOofjl5oaTWGeivGfNzDs"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 192959,
+      "name": "TRUST MY LOVE",
+      "url": "https://open.spotify.com/track/2A6ipjxIZnIBWj09CPftUG"
+    },
+    {
+      "album": {
+        "name": "DYE",
+        "url": "https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192959,
+      "name": "TRUST MY LOVE",
+      "url": "https://open.spotify.com/track/39qKn5wFGqrVvnQ0CKcKFb"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186053,
+      "name": "TRUTH",
+      "url": "https://open.spotify.com/track/5fHsQ2MSaBD1wId7lGGBaK"
+    },
+    {
+      "album": {
+        "name": "GOT7",
+        "url": "https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Two",
+      "url": "https://open.spotify.com/track/3aAgLPtl0SMPmrY6go45pe"
+    },
+    {
+      "album": {
+        "name": "COLORS from Ars",
+        "url": "https://open.spotify.com/album/1nq1Qy5rv1VKFV6HbbSv8c"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202035,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/3nbTkTlILrKTGpjF6X8pEN"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 174069,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/0nC5ebLXfpgOKOw05joNkq"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174069,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/4VLpCoD3wVymlUyYVkL5HE"
+    },
+    {
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/3E4D5ojNyym9TEc9uTlwAd"
+      },
+      "artists": [
+        {
+          "name": "Youngjae",
+          "url": "https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246320,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/71awe49SI4ZCz4JYChmSV0"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194464,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/1aLzIbvBMPf8ol2zuZdkEx"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194464,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/3M8CQvgEqW3aEO6FAgL6zf"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 194464,
+      "name": "WAVE",
+      "url": "https://open.spotify.com/track/6oEgj9nOyX7mqEbgP6bKBH"
+    },
+    {
+      "album": {
+        "name": "Breath of Love : Last Piece",
+        "url": "https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210130,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/2kodbMeIJaydSa0gni4g7j"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210130,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/6yWTkg75CyLpz7M0FYNUmN"
+    },
+    {
+      "album": {
+        "name": "Breath of Love: Last Piece",
+        "url": "https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 210130,
+      "name": "We Are Young",
+      "url": "https://open.spotify.com/track/7JkWbwxCqmm913MgcxIozF"
+    },
+    {
+      "album": {
+        "name": "Wheels Up",
+        "url": "https://open.spotify.com/album/7EX8mGWkjAW6Ik4AqhxsIP"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Mayzin",
+          "url": "https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 200393,
+      "name": "Wheels Up",
+      "url": "https://open.spotify.com/track/46By0NR1h14uaYIQ21U9rn"
+    },
+    {
+      "album": {
+        "name": "Wheels Up",
+        "url": "https://open.spotify.com/album/2Y7QaFILwkGntXl2kMpz0v"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Mayzin",
+          "url": "https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200393,
+      "name": "Wheels Up",
+      "url": "https://open.spotify.com/track/6EIPwNizGzlytC9Mon0L12"
+    },
+    {
+      "album": {
+        "name": "Wheels Up (feat. Mayzin)",
+        "url": "https://open.spotify.com/album/7fN1n8ytw8i6sxJ1i5lzMI"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "Mayzin",
+          "url": "https://open.spotify.com/artist/52bD0lfgcUwxbQMrCrYMRd"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200393,
+      "name": "Wheels Up (feat. Mayzin)",
+      "url": "https://open.spotify.com/track/5rnqEo666hoD4r0CajmrJm"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/7cvrTHkHU8UBnmhHLVUWnL"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "Who Are You (Feat. SEULGI of Red Velvet)",
+      "url": "https://open.spotify.com/track/1IjWbIMe1uXqp9tDfC3QLL"
+    },
+    {
+      "album": {
+        "name": "Why Why Why",
+        "url": "https://open.spotify.com/album/5MkkiVN4hu8eQ4vTTuma2q"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159936,
+      "name": "Why Why Why",
+      "url": "https://open.spotify.com/track/7KJFzhA8d0IpIZLNt367Po"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/3fU27GNCldKKSE40oLZPlD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184172,
+      "name": "WOLO",
+      "url": "https://open.spotify.com/track/1pKRdePRCoEY0nenc16tZa"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 184172,
+      "name": "WOLO",
+      "url": "https://open.spotify.com/track/2A27zEZagIqtgpzLtnmjbb"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184172,
+      "name": "WOLO",
+      "url": "https://open.spotify.com/track/3xGbos6JtVvcD8Y7kk3V57"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/16Ul1UuhyHVi3iyHuq2rHf"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 200663,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/0onCsNOWfUMt1ERQ0TI9Zt"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/2ZTGndXcRVVjqyi3BJ5zFy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200663,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/5THFfbp23EcJsygTyiBDzJ"
+    },
+    {
+      "album": {
+        "name": "7 for 7",
+        "url": "https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200663,
+      "name": "You Are",
+      "url": "https://open.spotify.com/track/6NyPIDsbl4hEm9tFKcKzsU"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/0IxEQbRKjdc0fKPmovjEYw"
+    },
+    {
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 194707,
+      "name": "You Calling My Name",
+      "url": "https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go (Complete Edition)",
+        "url": "https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228946,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH"
+    },
+    {
+      "album": {
+        "name": "I WON'T LET YOU GO (Complete Edition)",
+        "url": "https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228946,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/4jXgqvdN5MZPu1ge87vqu4"
+    },
+    {
+      "album": {
+        "name": "\u738b\u5609\u723e",
+        "url": "https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "\u738b\u5609\u723e",
+      "url": "https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 212836,
+      "name": "\uace0\ubc31\uc1a1 Confession Song",
+      "url": "https://open.spotify.com/track/0Lw61bzbNQz9Nkw4uRlx4F"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/6T1mbOaUO00lxV0GNFlKHB"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212836,
+      "name": "\uace0\ubc31\uc1a1 Confession Song",
+      "url": "https://open.spotify.com/track/34gltOTtqFDuaPrieClQ7K"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 243324,
+      "name": "\ub05d",
+      "url": "https://open.spotify.com/track/00i5R78QV23krGPEVZyZVH"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243324,
+      "name": "\ub05d",
+      "url": "https://open.spotify.com/track/7DnPteUnAFmch8KGmFqBMC"
+    },
+    {
+      "album": {
+        "name": "Got It?",
+        "url": "https://open.spotify.com/album/7E3W9C5Ac3RKnFpKErEgGD"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 203358,
+      "name": "\ub09c \ub2c8\uac00 \uc88b\uc544 I Like You",
+      "url": "https://open.spotify.com/track/4w5xK5HwkJyqzlnK9kqaIB"
+    },
+    {
+      "album": {
+        "name": "Got It?",
+        "url": "https://open.spotify.com/album/2WAQjbbYLWMkoGFr2g2LYw"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203358,
+      "name": "\ub09c \ub2c8\uac00 \uc88b\uc544 I Like You",
+      "url": "https://open.spotify.com/track/5tcBJ22l1dxIyQLtm116XI"
+    },
+    {
+      "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/3njOv3C2UJ9fqjGhj4O4cN"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/0pBjBL0a6gcLfwgtFsuw10"
+    },
+    {
+      "album": {
+        "name": "Verse 2",
+        "url": "https://open.spotify.com/album/2O4QAke357wfM3frf8KPFb"
+      },
+      "artists": [
+        {
+          "name": "JJ Project",
+          "url": "https://open.spotify.com/artist/0yvw5zYym2ZnM2vngHvfWW"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235068,
+      "name": "\ub0b4\uc77c, \uc624\ub298 Tomorrow, Today",
+      "url": "https://open.spotify.com/track/4j50FLtXl7SjtdQoLAJLoE"
+    },
+    {
+      "album": {
+        "name": "Eyes On You",
+        "url": "https://open.spotify.com/album/2k15VazqnRuva8vbh1iZWA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        },
+        {
+          "name": "Hyolyn",
+          "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200540,
+      "name": "\ub108 \ud558\ub098\ub9cc One And Only You",
+      "url": "https://open.spotify.com/track/0ImOeRJIA9YL9gmSOeC544"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/4oCmvuYZnOnHKF1tgs5PNr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203084,
+      "name": "\ub108\ub780 Girl Magnetic",
+      "url": "https://open.spotify.com/track/613QzBRkxLUdfxtxgoQ5ib"
+    },
+    {
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/2IDflF7tLh4qEySNgH6Pp4"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210834,
+      "name": "\ub2c8\uac00 \ud558\uba74 If You Do",
+      "url": "https://open.spotify.com/track/3cXdDKg2KaUwtt6XZStNTE"
+    },
+    {
+      "album": {
+        "name": "MAD Winter Edition",
+        "url": "https://open.spotify.com/album/3D4sDxSTwqNnsyYlI3ueb4"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 210834,
+      "name": "\ub2c8\uac00 \ud558\uba74 If You Do",
+      "url": "https://open.spotify.com/track/72HYwYmfl6Y8AzbJO0z6vB"
+    },
+    {
+      "album": {
+        "name": "Just right",
+        "url": "https://open.spotify.com/album/1Rm8iq43biy7UQRfde5hwN"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222398,
+      "name": "\ub531 \uc88b\uc544(Just right)",
+      "url": "https://open.spotify.com/track/2zSwsJyjrP0G8wUm0eiSuw"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185638,
+      "name": "\ubbff\uc5b4\uc904\ub798",
+      "url": "https://open.spotify.com/track/301ofNHiTFBWOGTnGABecz"
+    },
+    {
+      "album": {
+        "name": "SPINNING TOP : BETWEEN SECURITY & INSECURITY",
+        "url": "https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 185638,
+      "name": "\ubbff\uc5b4\uc904\ub798",
+      "url": "https://open.spotify.com/track/3t9aeFQEtd2dhuTeNCtZ6Z"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : DEPARTURE",
+        "url": "https://open.spotify.com/album/5EkihQrxaHCA90ySQsV8jl"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204840,
+      "name": "\ube5b\uc774\ub098 See The Light",
+      "url": "https://open.spotify.com/track/3f2iDHcfqXlgWQruGIUA2Z"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194273,
+      "name": "\uc548 \ubcf4\uc5ec Come On",
+      "url": "https://open.spotify.com/track/49gW1Q6mjQGCeVdELNShHE"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 194273,
+      "name": "\uc548 \ubcf4\uc5ec Come On",
+      "url": "https://open.spotify.com/track/7owtO9ZBTqTggJojaTKEkE"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199730,
+      "name": "\uc774\uc820 From Now",
+      "url": "https://open.spotify.com/track/08C7QGRAULRMwOg7IiqA8n"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 199730,
+      "name": "\uc774\uc820 From Now",
+      "url": "https://open.spotify.com/track/1ZM75OgbDpCxACUufAKVvE"
+    },
+    {
+      "album": {
+        "name": "<Present : YOU> &ME Edition",
+        "url": "https://open.spotify.com/album/0YN16PVfGV8fZM7YTuHZiA"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231260,
+      "name": "\uc798 \uc9c0\ub0b4\uc57c\ud574 1:31AM",
+      "url": "https://open.spotify.com/track/4pc7Opg9CeewptBRYxq1Xm"
+    },
+    {
+      "album": {
+        "name": "&ME Edition",
+        "url": "https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 231260,
+      "name": "\uc798 \uc9c0\ub0b4\uc57c\ud574 1:31AM",
+      "url": "https://open.spotify.com/track/5vUyOyf1JRJglgkO8YwScG"
+    },
+    {
+      "album": {
+        "name": "Present : YOU",
+        "url": "https://open.spotify.com/album/7h09nVKw1n6H86mPRBTzEL"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205625,
+      "name": "\uc9c0\ucf1c\uc904\uac8c Save You",
+      "url": "https://open.spotify.com/track/3rm78XQvVwzbvrz11YSUTe"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 193578,
+      "name": "\ud558\ub4dc\uce90\ub9ac Hard Carry",
+      "url": "https://open.spotify.com/track/1xzCUpXSMnAbckUXDwBTlW"
+    },
+    {
+      "album": {
+        "name": "FLIGHT LOG : TURBULENCE",
+        "url": "https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193578,
+      "name": "\ud558\ub4dc\uce90\ub9ac Hard Carry",
+      "url": "https://open.spotify.com/track/7Cd4glTUgV0vr0DBncEg8S"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/02dvCQbuBKdU1QHHGtrCHy"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 196701,
+      "name": "\ud558\uc9c0\ud558\uc9c0\ub9c8 Stop stop it",
+      "url": "https://open.spotify.com/track/5DMJmSSOWD6Zx0Jg0TXEB6"
+    },
+    {
+      "album": {
+        "name": "Identify",
+        "url": "https://open.spotify.com/album/4oCmvuYZnOnHKF1tgs5PNr"
+      },
+      "artists": [
+        {
+          "name": "GOT7",
+          "url": "https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df"
+        }
+      ],
+      "date_added": "2022-05-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196701,
+      "name": "\ud558\uc9c0\ud558\uc9c0\ub9c8 Stop stop it",
+      "url": "https://open.spotify.com/track/7dgdLpjJZZmhmGrSo1eFCh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4AYptQIdI2R"
 }

@@ -211,6 +211,50 @@
     },
     {
       "album": {
+        "name": "CHEMYxSTORY (TV version)",
+        "url": "https://open.spotify.com/album/5Jv4Ytf5brdKi1BNk2BFQi"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 86033,
+      "name": "CHEMYxSTORY - TV Version",
+      "url": "https://open.spotify.com/track/3RTRCnWq84YZJC8P1q8qZk"
+    },
+    {
+      "album": {
+        "name": "CHEMY\u00d7STORY (TV size\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/4We8VuTLtwzqksQYIlcoVb"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86033,
+      "name": "CHEMY\u00d7STORY - TV size\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/5BMgeaZhdDePSnXWXTonTq"
+    },
+    {
+      "album": {
         "name": "CLOSER",
         "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
       },
@@ -1180,7 +1224,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
@@ -1216,7 +1260,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 227706,
       "name": "WORD OF THE VOICE",
       "url": "https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM"
@@ -1722,6 +1766,24 @@
       "duration_ms": 256160,
       "name": "\u6d41\u661f",
       "url": "https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v"
+    },
+    {
+      "album": {
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
     },
     {
       "album": {

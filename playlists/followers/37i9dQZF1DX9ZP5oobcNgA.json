@@ -1,734 +1,3403 @@
 {
-  "2021-12-25": 77017,
-  "2021-12-26": 77064,
-  "2021-12-27": 77131,
-  "2021-12-28": 77131,
-  "2021-12-29": 77154,
-  "2021-12-30": 77189,
-  "2021-12-31": 77215,
-  "2022-01-01": 77247,
-  "2022-01-02": 77256,
-  "2022-01-03": 77283,
-  "2022-01-04": 77312,
-  "2022-01-05": 77339,
-  "2022-01-06": 77388,
-  "2022-01-07": 77414,
-  "2022-01-08": 77488,
-  "2022-01-09": 77487,
-  "2022-01-10": 77531,
-  "2022-01-11": 77555,
-  "2022-01-12": 77591,
-  "2022-01-13": 77633,
-  "2022-01-14": 77676,
-  "2022-01-15": 77716,
-  "2022-01-16": 77718,
-  "2022-01-17": 77782,
-  "2022-01-18": 77784,
-  "2022-01-19": 77810,
-  "2022-01-20": 77821,
-  "2022-01-21": 77847,
-  "2022-01-22": 77876,
-  "2022-01-23": 77919,
-  "2022-01-24": 77945,
-  "2022-01-25": 77971,
-  "2022-01-26": 78014,
-  "2022-01-27": 78053,
-  "2022-01-28": 78091,
-  "2022-01-29": 78125,
-  "2022-01-30": 78166,
-  "2022-01-31": 78203,
-  "2022-02-01": 78243,
-  "2022-02-02": 78280,
-  "2022-02-03": 78314,
-  "2022-02-04": 78342,
-  "2022-02-05": 78383,
-  "2022-02-06": 78414,
-  "2022-02-07": 78458,
-  "2022-02-08": 78490,
-  "2022-02-09": 78525,
-  "2022-02-10": 78542,
-  "2022-02-11": 78571,
-  "2022-02-12": 78602,
-  "2022-02-13": 78628,
-  "2022-02-14": 78654,
-  "2022-02-15": 78685,
-  "2022-02-16": 78707,
-  "2022-02-17": 78720,
-  "2022-02-18": 78745,
-  "2022-02-19": 78768,
-  "2022-02-20": 78804,
-  "2022-02-21": 78849,
-  "2022-02-22": 78871,
-  "2022-02-23": 78889,
-  "2022-02-24": 78941,
-  "2022-02-25": 78964,
-  "2022-02-26": 78999,
-  "2022-02-27": 79049,
-  "2022-02-28": 79049,
-  "2022-03-01": 79071,
-  "2022-03-02": 79091,
-  "2022-03-03": 79116,
-  "2022-03-04": 79142,
-  "2022-03-05": 79167,
-  "2022-03-06": 79196,
-  "2022-03-07": 79239,
-  "2022-03-08": 79265,
-  "2022-03-09": 79284,
-  "2022-03-10": 79314,
-  "2022-03-11": 79337,
-  "2022-03-12": 79368,
-  "2022-03-13": 79385,
-  "2022-03-14": 79409,
-  "2022-03-15": 79442,
-  "2022-03-16": 79475,
-  "2022-03-17": 79498,
-  "2022-03-18": 79545,
-  "2022-03-19": 79560,
-  "2022-03-20": 79560,
-  "2022-03-21": 79615,
-  "2022-03-22": 79638,
-  "2022-03-23": 79673,
-  "2022-03-24": 79702,
-  "2022-03-25": 79739,
-  "2022-03-26": 79767,
-  "2022-03-27": 79801,
-  "2022-03-28": 79835,
-  "2022-03-30": 79886,
-  "2022-03-31": 79909,
-  "2022-04-01": 79939,
-  "2022-04-02": 79961,
-  "2022-04-03": 79994,
-  "2022-04-04": 80015,
-  "2022-04-05": 80039,
-  "2022-04-06": 80072,
-  "2022-04-07": 80102,
-  "2022-04-08": 80135,
-  "2022-04-09": 80158,
-  "2022-04-10": 80223,
-  "2022-04-11": 80258,
-  "2022-04-12": 80262,
-  "2022-04-13": 80291,
-  "2022-04-14": 80314,
-  "2022-04-15": 80352,
-  "2022-04-16": 80394,
-  "2022-04-17": 80433,
-  "2022-04-18": 80486,
-  "2022-04-19": 80507,
-  "2022-04-20": 80525,
-  "2022-04-21": 80562,
-  "2022-04-22": 80590,
-  "2022-04-23": 80614,
-  "2022-04-24": 80641,
-  "2022-04-25": 80671,
-  "2022-04-26": 80706,
-  "2022-04-27": 80744,
-  "2022-04-28": 80763,
-  "2022-04-29": 80813,
-  "2022-04-30": 80842,
-  "2022-05-01": 80886,
-  "2022-05-02": 80886,
-  "2022-05-03": 80923,
-  "2022-05-04": 80950,
-  "2022-05-05": 80980,
-  "2022-05-06": 81018,
-  "2022-05-07": 81047,
-  "2022-05-08": 81104,
-  "2022-05-09": 81107,
-  "2022-05-10": 81120,
-  "2022-05-11": 81139,
-  "2022-05-12": 81153,
-  "2022-05-13": 81173,
-  "2022-05-14": 81195,
-  "2022-05-15": 81217,
-  "2022-05-16": 81238,
-  "2022-05-17": 81258,
-  "2022-05-18": 81285,
-  "2022-05-19": 81304,
-  "2022-05-20": 81330,
-  "2022-05-21": 81370,
-  "2022-05-22": 81370,
-  "2022-05-23": 81395,
-  "2022-05-24": 81420,
-  "2022-05-25": 81450,
-  "2022-05-26": 81475,
-  "2022-05-27": 81491,
-  "2022-05-28": 81513,
-  "2022-05-29": 81535,
-  "2022-05-30": 81562,
-  "2022-05-31": 81600,
-  "2022-06-01": 81644,
-  "2022-06-02": 81650,
-  "2022-06-03": 81670,
-  "2022-06-04": 81700,
-  "2022-06-05": 81727,
-  "2022-06-06": 81748,
-  "2022-06-07": 81770,
-  "2022-06-08": 81800,
-  "2022-06-09": 81819,
-  "2022-06-10": 81844,
-  "2022-06-11": 81874,
-  "2022-06-12": 81898,
-  "2022-06-13": 81916,
-  "2022-06-14": 81948,
-  "2022-06-15": 81975,
-  "2022-06-16": 81988,
-  "2022-06-17": 82006,
-  "2022-06-18": 82006,
-  "2022-06-19": 82096,
-  "2022-06-20": 82096,
-  "2022-06-21": 82115,
-  "2022-06-22": 82169,
-  "2022-06-23": 82169,
-  "2022-06-24": 82200,
-  "2022-06-25": 82225,
-  "2022-06-26": 82248,
-  "2022-06-27": 82266,
-  "2022-06-28": 82292,
-  "2022-06-29": 82329,
-  "2022-06-30": 82358,
-  "2022-07-01": 82377,
-  "2022-07-02": 82395,
-  "2022-07-03": 82419,
-  "2022-07-04": 82453,
-  "2022-07-05": 82485,
-  "2022-07-06": 82505,
-  "2022-07-07": 82519,
-  "2022-07-08": 82544,
-  "2022-07-09": 93964,
-  "2022-07-10": 93980,
-  "2022-07-11": 93995,
-  "2022-07-12": 94020,
-  "2022-07-13": 94044,
-  "2022-07-14": 94070,
-  "2022-07-15": 94087,
-  "2022-07-16": 94104,
-  "2022-07-17": 94138,
-  "2022-07-18": 94163,
-  "2022-07-19": 94186,
-  "2022-07-20": 94208,
-  "2022-07-21": 94246,
-  "2022-07-22": 94268,
-  "2022-07-23": 94291,
-  "2022-07-24": 94327,
-  "2022-07-25": 94358,
-  "2022-07-26": 94400,
-  "2022-07-27": 94421,
-  "2022-07-28": 94450,
-  "2022-07-29": 94472,
-  "2022-07-30": 94524,
-  "2022-07-31": 94524,
-  "2022-08-01": 94558,
-  "2022-08-02": 94616,
-  "2022-08-03": 94616,
-  "2022-08-04": 94653,
-  "2022-08-05": 94666,
-  "2022-08-06": 94690,
-  "2022-08-07": 94724,
-  "2022-08-08": 94757,
-  "2022-08-09": 94781,
-  "2022-08-10": 94798,
-  "2022-08-11": 94826,
-  "2022-08-12": 94851,
-  "2022-08-13": 94881,
-  "2022-08-14": 94917,
-  "2022-08-15": 94948,
-  "2022-08-16": 94982,
-  "2022-08-17": 95011,
-  "2022-08-18": 95040,
-  "2022-08-19": 95083,
-  "2022-08-20": 95120,
-  "2022-08-21": 95155,
-  "2022-08-22": 95188,
-  "2022-08-23": 95232,
-  "2022-08-25": 95288,
-  "2022-08-26": 95328,
-  "2022-08-27": 95371,
-  "2022-08-28": 95415,
-  "2022-08-29": 95445,
-  "2022-08-30": 95441,
-  "2022-08-31": 95394,
-  "2022-09-01": 95363,
-  "2022-09-02": 95334,
-  "2022-09-03": 95222,
-  "2022-09-04": 95219,
-  "2022-09-05": 95239,
-  "2022-09-06": 95266,
-  "2022-09-07": 95315,
-  "2022-09-09": 95400,
-  "2022-09-10": 95455,
-  "2022-09-11": 95493,
-  "2022-09-12": 95571,
-  "2022-09-13": 95623,
-  "2022-09-15": 95736,
-  "2022-09-16": 95791,
-  "2022-09-17": 95831,
-  "2022-09-18": 95876,
-  "2022-09-19": 95937,
-  "2022-09-20": 95982,
-  "2022-09-21": 96036,
-  "2022-09-22": 96075,
-  "2022-09-23": 96112,
-  "2022-09-24": 96150,
-  "2022-09-25": 96189,
-  "2022-09-26": 96238,
-  "2022-09-27": 96275,
-  "2022-09-28": 96327,
-  "2022-09-29": 96377,
-  "2022-09-30": 96416,
-  "2022-10-01": 96472,
-  "2022-10-02": 96521,
-  "2022-10-03": 96564,
-  "2022-10-04": 96601,
-  "2022-10-05": 96649,
-  "2022-10-06": 96707,
-  "2022-10-07": 96742,
-  "2022-10-08": 96782,
-  "2022-10-09": 96883,
-  "2022-10-10": 96890,
-  "2022-10-11": 96914,
-  "2022-10-12": 96975,
-  "2022-10-13": 97025,
-  "2022-10-14": 97066,
-  "2022-10-15": 97103,
-  "2022-10-16": 97162,
-  "2022-10-17": 97213,
-  "2022-10-18": 97278,
-  "2022-10-19": 97344,
-  "2022-10-20": 97393,
-  "2022-10-21": 97420,
-  "2022-10-22": 97487,
-  "2022-10-23": 97540,
-  "2022-10-24": 97600,
-  "2022-10-25": 97657,
-  "2022-10-26": 97702,
-  "2022-10-27": 97766,
-  "2022-10-28": 97814,
-  "2022-10-29": 97859,
-  "2022-10-30": 97913,
-  "2022-10-31": 97951,
-  "2022-11-01": 98013,
-  "2022-11-02": 98053,
-  "2022-11-03": 98093,
-  "2022-11-04": 98135,
-  "2022-11-05": 98169,
-  "2022-11-06": 98223,
-  "2022-11-07": 98264,
-  "2022-11-08": 98326,
-  "2022-11-09": 98395,
-  "2022-11-10": 98417,
-  "2022-11-11": 98471,
-  "2022-11-12": 98517,
-  "2022-11-13": 98558,
-  "2022-11-14": 98598,
-  "2022-11-15": 98649,
-  "2022-11-16": 98706,
-  "2022-11-17": 98747,
-  "2022-11-18": 98768,
-  "2022-11-19": 98784,
-  "2022-11-20": 98831,
-  "2022-11-21": 98884,
-  "2022-11-22": 98933,
-  "2022-11-23": 98988,
-  "2022-11-24": 99081,
-  "2022-11-25": 99160,
-  "2022-11-26": 99218,
-  "2022-11-27": 99294,
-  "2022-11-28": 99362,
-  "2022-11-29": 99422,
-  "2022-11-30": 99473,
-  "2022-12-01": 99532,
-  "2022-12-02": 99573,
-  "2022-12-03": 99659,
-  "2022-12-04": 99714,
-  "2022-12-05": 99771,
-  "2022-12-06": 99829,
-  "2022-12-07": 99895,
-  "2022-12-08": 99941,
-  "2022-12-09": 99989,
-  "2022-12-10": 100046,
-  "2022-12-11": 100103,
-  "2022-12-12": 100154,
-  "2022-12-13": 100223,
-  "2022-12-14": 100274,
-  "2022-12-15": 100310,
-  "2022-12-16": 100373,
-  "2022-12-17": 100432,
-  "2022-12-18": 100494,
-  "2022-12-19": 100542,
-  "2022-12-20": 100642,
-  "2022-12-21": 100642,
-  "2022-12-22": 100694,
-  "2022-12-24": 100823,
-  "2022-12-25": 100867,
-  "2022-12-26": 100921,
-  "2022-12-27": 100986,
-  "2022-12-28": 101041,
-  "2022-12-29": 101102,
-  "2022-12-30": 101150,
-  "2022-12-31": 101211,
-  "2023-01-01": 101275,
-  "2023-01-02": 101332,
-  "2023-01-03": 101391,
-  "2023-01-04": 101456,
-  "2023-01-05": 101517,
-  "2023-01-06": 101595,
-  "2023-01-07": 101695,
-  "2023-01-08": 101705,
-  "2023-01-09": 101787,
-  "2023-01-10": 101849,
-  "2023-01-11": 101903,
-  "2023-01-12": 101957,
-  "2023-01-13": 102020,
-  "2023-01-14": 102110,
-  "2023-01-15": 102133,
-  "2023-01-16": 102203,
-  "2023-01-17": 102246,
-  "2023-01-18": 102297,
-  "2023-01-19": 102360,
-  "2023-01-20": 102396,
-  "2023-01-21": 102452,
-  "2023-01-22": 102513,
-  "2023-01-23": 102577,
-  "2023-01-24": 102639,
-  "2023-01-25": 102687,
-  "2023-01-26": 102740,
-  "2023-01-27": 102791,
-  "2023-01-28": 102861,
-  "2023-01-29": 102915,
-  "2023-01-30": 102973,
-  "2023-01-31": 102973,
-  "2023-02-01": 103085,
-  "2023-02-02": 103133,
-  "2023-02-03": 103200,
-  "2023-02-04": 103257,
-  "2023-02-05": 103325,
-  "2023-02-06": 103398,
-  "2023-02-07": 103445,
-  "2023-02-08": 103570,
-  "2023-02-09": 103570,
-  "2023-02-10": 103611,
-  "2023-02-11": 103661,
-  "2023-02-12": 103793,
-  "2023-02-13": 103837,
-  "2023-02-14": 103837,
-  "2023-02-15": 103890,
-  "2023-02-16": 103955,
-  "2023-02-17": 104021,
-  "2023-02-18": 104133,
-  "2023-02-19": 104142,
-  "2023-02-20": 104178,
-  "2023-02-21": 104239,
-  "2023-02-22": 104293,
-  "2023-02-23": 104357,
-  "2023-02-24": 104410,
-  "2023-02-25": 104506,
-  "2023-02-26": 104548,
-  "2023-02-27": 104664,
-  "2023-02-28": 104664,
-  "2023-03-01": 104709,
-  "2023-03-02": 104773,
-  "2023-03-03": 104839,
-  "2023-03-04": 104897,
-  "2023-03-05": 105012,
-  "2023-03-06": 105012,
-  "2023-03-07": 105082,
-  "2023-03-08": 105138,
-  "2023-03-09": 105178,
-  "2023-03-10": 105226,
-  "2023-03-11": 105274,
-  "2023-03-12": 105326,
-  "2023-03-13": 105395,
-  "2023-03-14": 105442,
-  "2023-03-15": 105482,
-  "2023-03-16": 105518,
-  "2023-03-17": 105518,
-  "2023-03-18": 105608,
-  "2023-03-19": 105653,
-  "2023-03-20": 105710,
-  "2023-03-21": 105769,
-  "2023-03-22": 105823,
-  "2023-03-23": 105883,
-  "2023-03-24": 105883,
-  "2023-03-25": 105986,
-  "2023-03-26": 106040,
-  "2023-03-27": 106092,
-  "2023-03-28": 106137,
-  "2023-03-29": 106185,
-  "2023-03-30": 106279,
-  "2023-03-31": 106279,
-  "2023-04-01": 106324,
-  "2023-04-02": 106379,
-  "2023-04-03": 106440,
-  "2023-04-04": 106494,
-  "2023-04-05": 106534,
-  "2023-04-06": 106588,
-  "2023-04-07": 106654,
-  "2023-04-09": 106799,
-  "2023-04-10": 106877,
-  "2023-04-11": 107003,
-  "2023-04-12": 107003,
-  "2023-04-13": 107040,
-  "2023-04-14": 107095,
-  "2023-04-15": 107149,
-  "2023-04-16": 107208,
-  "2023-04-17": 107273,
-  "2023-04-18": 107321,
-  "2023-04-19": 107405,
-  "2023-04-20": 107463,
-  "2023-04-21": 107509,
-  "2023-04-22": 107563,
-  "2023-04-23": 107615,
-  "2023-04-24": 107673,
-  "2023-04-25": 107723,
-  "2023-04-26": 107782,
-  "2023-04-27": 107828,
-  "2023-04-28": 107889,
-  "2023-04-29": 107930,
-  "2023-04-30": 107993,
-  "2023-05-01": 108058,
-  "2023-05-02": 108124,
-  "2023-05-03": 108177,
-  "2023-05-04": 108223,
-  "2023-05-05": 108284,
-  "2023-05-06": 108341,
-  "2023-05-07": 108489,
-  "2023-05-08": 108616,
-  "2023-05-09": 108702,
-  "2023-05-10": 108778,
-  "2023-05-11": 108829,
-  "2023-05-12": 108885,
-  "2023-05-13": 108947,
-  "2023-05-14": 109016,
-  "2023-05-15": 109072,
-  "2023-05-16": 109134,
-  "2023-05-17": 109185,
-  "2023-05-18": 109241,
-  "2023-05-19": 109316,
-  "2023-05-20": 109463,
-  "2023-05-21": 109463,
-  "2023-05-22": 109463,
-  "2023-05-23": 109589,
-  "2023-05-24": 109671,
-  "2023-05-25": 109686,
-  "2023-05-26": 109740,
-  "2023-05-27": 109775,
-  "2023-05-28": 109822,
-  "2023-05-29": 109822,
-  "2023-05-30": 109927,
-  "2023-05-31": 109992,
-  "2023-06-01": 110051,
-  "2023-06-02": 110102,
-  "2023-06-03": 110152,
-  "2023-06-04": 110222,
-  "2023-06-05": 110281,
-  "2023-06-06": 110320,
-  "2023-06-07": 110360,
-  "2023-06-08": 110406,
-  "2023-06-09": 110459,
-  "2023-06-10": 110494,
-  "2023-06-11": 110556,
-  "2023-06-12": 110586,
-  "2023-06-13": 110621,
-  "2023-06-14": 110621,
-  "2023-06-15": 110719,
-  "2023-06-16": 110744,
-  "2023-06-17": 110789,
-  "2023-06-18": 110824,
-  "2023-06-19": 110867,
-  "2023-06-20": 110912,
-  "2023-06-21": 110937,
-  "2023-06-22": 110981,
-  "2023-06-23": 111019,
-  "2023-06-24": 111053,
-  "2023-06-25": 111097,
-  "2023-06-26": 111136,
-  "2023-06-27": 111183,
-  "2023-06-28": 111225,
-  "2023-06-29": 111237,
-  "2023-06-30": 111270,
-  "2023-07-01": 111355,
-  "2023-07-02": 111355,
-  "2023-07-03": 111403,
-  "2023-07-04": 111454,
-  "2023-07-05": 111490,
-  "2023-07-06": 111567,
-  "2023-07-07": 111567,
-  "2023-07-08": 111591,
-  "2023-07-09": 111619,
-  "2023-07-10": 111661,
-  "2023-07-11": 111700,
-  "2023-07-12": 111713,
-  "2023-07-13": 111758,
-  "2023-07-14": 111789,
-  "2023-07-15": 111810,
-  "2023-07-16": 111859,
-  "2023-07-17": 111902,
-  "2023-07-18": 111942,
-  "2023-07-19": 111973,
-  "2023-07-20": 112002,
-  "2023-07-21": 112048,
-  "2023-07-22": 112088,
-  "2023-07-23": 112137,
-  "2023-07-24": 112187,
-  "2023-07-25": 112225,
-  "2023-07-26": 112257,
-  "2023-07-27": 112289,
-  "2023-07-28": 112335,
-  "2023-07-29": 112372,
-  "2023-07-30": 112407,
-  "2023-07-31": 112447,
-  "2023-08-01": 112496,
-  "2023-08-02": 112536,
-  "2023-08-03": 112576,
-  "2023-08-04": 112611,
-  "2023-08-05": 112652,
-  "2023-08-06": 112735,
-  "2023-08-07": 112735,
-  "2023-08-08": 112777,
-  "2023-08-09": 112811,
-  "2023-08-10": 112846,
-  "2023-08-11": 112889,
-  "2023-08-12": 112931,
-  "2023-08-13": 112960,
-  "2023-08-14": 112995,
-  "2023-08-15": 113073,
-  "2023-08-16": 113073,
-  "2023-08-17": 113110,
-  "2023-08-18": 113134,
-  "2023-08-19": 113166,
-  "2023-08-20": 113218,
-  "2023-08-21": 113269,
-  "2023-08-22": 113325,
-  "2023-08-23": 113371,
-  "2023-08-24": 113419,
-  "2023-08-25": 113465,
-  "2023-08-26": 113514,
-  "2023-08-27": 113558,
-  "2023-08-28": 113608,
-  "2023-08-29": 113655,
-  "2023-08-30": 113704,
-  "2023-08-31": 113750,
-  "2023-09-01": 113824,
-  "2023-09-02": 113824,
-  "2023-09-03": 113863,
-  "2023-09-04": 113919,
-  "2023-09-05": 113979,
-  "2023-09-06": 114025,
-  "2023-09-07": 114069,
-  "2023-09-08": 114103,
-  "2023-09-09": 114133,
-  "2023-09-10": 114167,
-  "2023-09-11": 114205,
-  "2023-09-12": 114239,
-  "2023-09-13": 114269,
-  "2023-09-14": 114299,
-  "2023-09-15": 114345,
-  "2023-09-16": 114372,
-  "2023-09-17": 114424,
-  "2023-09-18": 114469,
-  "2023-09-19": 114516,
-  "2023-09-20": 114546,
-  "2023-09-21": 114585,
-  "2023-09-22": 114614,
-  "2023-09-23": 114648,
-  "2023-09-24": 114683,
-  "2023-09-25": 114719,
-  "2023-09-26": 114778,
-  "2023-09-27": 114809,
-  "2023-09-28": 114844,
-  "2023-09-29": 114873,
-  "2023-09-30": 114918,
-  "2023-10-01": 114946,
-  "2023-10-02": 115007,
-  "2023-10-03": 115056,
-  "2023-10-04": 115103,
-  "2023-10-05": 115133,
-  "2023-10-06": 115166,
-  "2023-10-07": 115205,
-  "2023-10-08": 115251,
-  "2023-10-09": 115293,
-  "2023-10-10": 115262,
-  "2023-10-11": 115280,
-  "2023-10-12": 115280,
-  "2023-10-13": 115273,
-  "2023-10-14": 115284,
-  "2023-10-15": 115310,
-  "2023-10-16": 115358,
-  "2023-10-17": 115407,
-  "2023-10-18": 115442,
-  "2023-10-19": 115482,
-  "2023-10-20": 115515,
-  "2023-10-21": 115562,
-  "2023-10-22": 115597,
-  "2023-10-23": 115661,
-  "2023-10-24": 115695,
-  "2023-10-25": 115732,
-  "2023-10-26": 115774,
-  "2023-10-27": 115814,
-  "2023-10-28": 115814,
-  "2023-10-29": 115814,
-  "2023-10-30": 115979,
-  "2023-10-31": 115979,
-  "2023-11-01": 116061,
-  "2023-11-02": 116102,
-  "2023-11-03": 116151,
-  "2023-11-04": 116187,
-  "2023-11-05": 116234,
-  "2023-11-06": 116283,
-  "2023-11-07": 116323,
-  "2023-11-08": 116355,
-  "2023-11-09": 116382,
-  "2023-11-10": 116432,
-  "2023-11-11": 116481,
-  "2023-11-12": 116523,
-  "2023-11-13": 116576,
-  "2023-11-14": 116607,
-  "2023-11-15": 116607,
-  "2023-11-16": 116682,
-  "2023-11-17": 116766,
-  "2023-11-18": 116766,
-  "2023-11-19": 116812,
-  "2023-11-20": 116871,
-  "2023-11-21": 116946,
-  "2023-11-22": 117001,
-  "2023-11-23": 117051,
-  "2023-11-24": 117051,
-  "2023-11-25": 117135,
-  "2023-11-26": 117183,
-  "2023-11-27": 117241,
-  "2023-11-28": 117290,
-  "2023-11-29": 117376,
-  "2023-11-30": 117376,
-  "2023-12-01": 117436,
-  "2023-12-02": 117493,
-  "2023-12-03": 117543,
-  "2023-12-04": 117591,
-  "2023-12-05": 117633,
-  "2023-12-06": 117673,
-  "2023-12-07": 117719,
-  "2023-12-08": 117761,
-  "2023-12-09": 117818,
-  "2023-12-10": 117854,
-  "2023-12-11": 117895,
-  "2023-12-12": 117895,
-  "2023-12-13": 117949,
-  "2023-12-14": 117999,
-  "2023-12-15": 118034,
-  "2023-12-16": 118069,
-  "2023-12-17": 118097,
-  "2023-12-18": 118132,
-  "2023-12-19": 118171,
-  "2023-12-20": 118222,
-  "2023-12-21": 118257,
-  "2023-12-22": 118317,
-  "2023-12-23": 118358,
-  "2023-12-24": 118409,
-  "2023-12-25": 118444,
-  "2023-12-26": 118482,
-  "2023-12-27": 118530,
-  "2023-12-30": 118673,
-  "2023-12-31": 118713,
-  "2024-01-01": 118773,
-  "2024-01-02": 118825,
-  "2024-01-03": 118869
+  "2024-01-17": 119264,
+  "date_first_scraped": "2021-12-21",
+  "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
+  "name": "This Is Handel",
+  "tracks": [
+    {
+      "album": {
+        "name": "Handel: Acis and Galatea",
+        "url": "https://open.spotify.com/album/2e0iQ9xJmH2nAPKr6Qet8O"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Kym Amps",
+          "url": "https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST"
+        },
+        {
+          "name": "Angus Davidson",
+          "url": "https://open.spotify.com/artist/6HteGO0FuB2L1ldQb4IEbO"
+        },
+        {
+          "name": "Robin Doveton",
+          "url": "https://open.spotify.com/artist/79X0t1rhkujwcqUg9wV8ns"
+        },
+        {
+          "name": "David van Asch",
+          "url": "https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195733,
+      "name": "Acis and Galatea, HWV 49b: Sinfonia",
+      "url": "https://open.spotify.com/track/2jYOhQxoIxNR5gLuXb7ZGy"
+    },
+    {
+      "album": {
+        "name": "Handel: Acis and Galatea",
+        "url": "https://open.spotify.com/album/67FiEJLByVu4Wp6DMc1TQV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Kym Amps",
+          "url": "https://open.spotify.com/artist/56oDszbm45yCU64AkDCjST"
+        },
+        {
+          "name": "Angus Davidson",
+          "url": "https://open.spotify.com/artist/6HteGO0FuB2L1ldQb4IEbO"
+        },
+        {
+          "name": "Robin Doveton",
+          "url": "https://open.spotify.com/artist/79X0t1rhkujwcqUg9wV8ns"
+        },
+        {
+          "name": "David van Asch",
+          "url": "https://open.spotify.com/artist/1pkHduzgfdb8ahbhAFZQl3"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Acis and Galatea, HWV 49b: Sinfonia",
+      "url": "https://open.spotify.com/track/71pNhBvkgw48JAyQPymLbO"
+    },
+    {
+      "album": {
+        "name": "Handel: Italian Cantatas, Vol. 7",
+        "url": "https://open.spotify.com/album/31JoLNy9sV0D728V4VS03y"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Roberta Invernizzi",
+          "url": "https://open.spotify.com/artist/0CrfzmhF7GGaTVWiNdcTLR"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "La Risonanza",
+          "url": "https://open.spotify.com/artist/7FrKGbYIlgr6sbfteKJTGG"
+        },
+        {
+          "name": "Fabio Bonizzoni",
+          "url": "https://open.spotify.com/artist/3JGdmPNIbYKNEROazLwYHA"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318720,
+      "name": "Apollo e Dafne, HWV 122: Aria: Felicissima quest'alma (Most fortunate is this soul) (Dafne)",
+      "url": "https://open.spotify.com/track/3KHh3k2Ty3XQ2iRzklx6H3"
+    },
+    {
+      "album": {
+        "name": "Handel: Athalia",
+        "url": "https://open.spotify.com/album/31YY7KhOeNJ7YVCHsC7QAA"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Markus Brutscher",
+          "url": "https://open.spotify.com/artist/2U1uBcuykeRBhLFNM27FK5"
+        },
+        {
+          "name": "Friederike Holzhausen",
+          "url": "https://open.spotify.com/artist/7tgnn19wBfm6xdWXBkdjbg"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Annette Reinhold",
+          "url": "https://open.spotify.com/artist/4kKmdMTJEnhaqbFWVbQR9L"
+        },
+        {
+          "name": "Barbara Schlick",
+          "url": "https://open.spotify.com/artist/0gmKLfaE6sG19fpCMJWhe3"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 309360,
+      "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
+      "url": "https://open.spotify.com/track/0OeR0ktvuAKyIzgzd8MQZy"
+    },
+    {
+      "album": {
+        "name": "Handel: Athalia",
+        "url": "https://open.spotify.com/album/6tiExi2Ol2HpGMPTtBvAcU"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Markus Brutscher",
+          "url": "https://open.spotify.com/artist/2U1uBcuykeRBhLFNM27FK5"
+        },
+        {
+          "name": "Friederike Holzhausen",
+          "url": "https://open.spotify.com/artist/7tgnn19wBfm6xdWXBkdjbg"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Annette Reinhold",
+          "url": "https://open.spotify.com/artist/4kKmdMTJEnhaqbFWVbQR9L"
+        },
+        {
+          "name": "Barbara Schlick",
+          "url": "https://open.spotify.com/artist/0gmKLfaE6sG19fpCMJWhe3"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309360,
+      "name": "Athalia, HWV 52: Part 1 - No. 1 Sinfonia: Allegro - Grave - Allegro",
+      "url": "https://open.spotify.com/track/04OWdUznQBH1jS7WLPQvJL"
+    },
+    {
+      "album": {
+        "name": "Handel: Athalia",
+        "url": "https://open.spotify.com/album/6yfWi9QhuntAE4tzhVuhMW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Markus Brutscher",
+          "url": "https://open.spotify.com/artist/2U1uBcuykeRBhLFNM27FK5"
+        },
+        {
+          "name": "Friederike Holzhausen",
+          "url": "https://open.spotify.com/artist/7tgnn19wBfm6xdWXBkdjbg"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Annette Reinhold",
+          "url": "https://open.spotify.com/artist/4kKmdMTJEnhaqbFWVbQR9L"
+        },
+        {
+          "name": "Barbara Schlick",
+          "url": "https://open.spotify.com/artist/0gmKLfaE6sG19fpCMJWhe3"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309360,
+      "name": "Athalia, HWV 52: Pt. 1 - No. 1 Sinfonia. Allegro - Grave - Allegro",
+      "url": "https://open.spotify.com/track/53VT7ZdZqUDYXHg8bsoqoO"
+    },
+    {
+      "album": {
+        "name": "Handel: Belshazzar",
+        "url": "https://open.spotify.com/album/64jpRJoBITmrqWeqnqNOff"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "William Christie",
+          "url": "https://open.spotify.com/artist/7mkcqdifmNkhfJ7XZ7WFFS"
+        },
+        {
+          "name": "Les Arts Florissants",
+          "url": "https://open.spotify.com/artist/652tly1eoAkKzhJ5z4LsEx"
+        },
+        {
+          "name": "Iestyn Davies",
+          "url": "https://open.spotify.com/artist/0oKLScf6HtYdmZgAEXpSzl"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293920,
+      "name": "Belshazzar, HWV 61: Arioso: \"O Sacred Oracles of Truth!\" - Aria: \"Amaz'd to Find the Foe So Near\" - Chorus of Persians: \"to Arms, to Arms, No More Delay\"",
+      "url": "https://open.spotify.com/track/1XMx2uskl2JWKXoMkupyRi"
+    },
+    {
+      "album": {
+        "name": "Handel: Concerti Grossi, Op. 6 Nos. 1-12",
+        "url": "https://open.spotify.com/album/5JJJExciT83RSox2KrwQKg"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Andrew Manze",
+          "url": "https://open.spotify.com/artist/0MPbAeGQj0YatrUMdY2KEr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Concerti grossi, Op. 6, Concerto Grosso No. 3 in E Minor, HWV 321: IV. Polonaise",
+      "url": "https://open.spotify.com/track/7cp6Eo0en3PyejoEQv1bg2"
+    },
+    {
+      "album": {
+        "name": "Handel: Organ Concertos, Op. 7",
+        "url": "https://open.spotify.com/album/5OQJ9lv225IZAL4YNVO8L5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285840,
+      "name": "Concerto in D Minor, Op.7, No.4: I. Adagio",
+      "url": "https://open.spotify.com/track/05iURKvut2OWEzPHQUhDT5"
+    },
+    {
+      "album": {
+        "name": "Handel: Oboe Concertos",
+        "url": "https://open.spotify.com/album/6CyYye9AOrng3cvwIuLHfL"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Klaip\u0117da Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/6CEg6ay5qn4WHoGPDgyk7w"
+        },
+        {
+          "name": "Andrius Puskunigis",
+          "url": "https://open.spotify.com/artist/50fAMhb98yIJeuM9x6D6tx"
+        },
+        {
+          "name": "Vincent Bernhardt",
+          "url": "https://open.spotify.com/artist/352uU24PUp3B7UXHe3Q4JU"
+        },
+        {
+          "name": "Mindaugas Ba\u010dkus",
+          "url": "https://open.spotify.com/artist/0oBFZAe6ZmzR1vNhI6wGho"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106133,
+      "name": "Concerto-Pasticcio in C Major: I. Largo",
+      "url": "https://open.spotify.com/track/0fTJ7spoLjRgriBgsftWR8"
+    },
+    {
+      "album": {
+        "name": "Handel: Deborah",
+        "url": "https://open.spotify.com/album/156Bet7mEgg569uxjJkffl"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Natacha Ducret",
+          "url": "https://open.spotify.com/artist/1eZyeFSTKLDC6TUnbmEIcm"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Ewa Wolak",
+          "url": "https://open.spotify.com/artist/2tPolsL0SFQq4RFIPcFFWc"
+        },
+        {
+          "name": "Lawrence Zazzo",
+          "url": "https://open.spotify.com/artist/71X707NVudhAZaXg30sx8Z"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Deborah, HWV 51: Part I: Chorus - Let thy deeds be glorious",
+      "url": "https://open.spotify.com/track/2vjvCb7bgJH5ix8bfwp8MR"
+    },
+    {
+      "album": {
+        "name": "Handel: Deborah",
+        "url": "https://open.spotify.com/album/2dz5YyXkdRTWCVmA9SyPtL"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Natacha Ducret",
+          "url": "https://open.spotify.com/artist/1eZyeFSTKLDC6TUnbmEIcm"
+        },
+        {
+          "name": "Elisabeth Scholl",
+          "url": "https://open.spotify.com/artist/08rODWASMZcb2LashgmiqJ"
+        },
+        {
+          "name": "Ewa Wolak",
+          "url": "https://open.spotify.com/artist/2tPolsL0SFQq4RFIPcFFWc"
+        },
+        {
+          "name": "Lawrence Zazzo",
+          "url": "https://open.spotify.com/artist/71X707NVudhAZaXg30sx8Z"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205360,
+      "name": "Deborah, HWV 51: Pt. I: Chorus - Let thy deeds be glorious",
+      "url": "https://open.spotify.com/track/6uUr0OtuFd7tK2NwiriwIw"
+    },
+    {
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/2uMMhv5wCu2TYTUwgkKidh"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/0W9G1wEdZmG7yIWmaqMZo4"
+    },
+    {
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/1MBPFCji7GQORO2bXUlUwS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334466,
+      "name": "Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/2m8EwexHkPVQCNpSTidgPf"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Gloria / Handel: Dixit Dominus",
+        "url": "https://open.spotify.com/album/7pikDMmSZjD9jw2wEi2oqC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Angela Kazimierczuk",
+          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 255693,
+      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
+      "url": "https://open.spotify.com/track/4b6p7Vo4afViaRLGwgjfX2"
+    },
+    {
+      "album": {
+        "name": "Baroque Chill & Relax",
+        "url": "https://open.spotify.com/album/5yfoGD9YHyh0oaVwqceIwv"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Angela Kazimierczuk",
+          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 255693,
+      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
+      "url": "https://open.spotify.com/track/4hsy20puIHqcq6LQNPVp3z"
+    },
+    {
+      "album": {
+        "name": "Handel - Messiah and other works",
+        "url": "https://open.spotify.com/album/2qlWVekqnJi8P20XdwT6z4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Angela Kazimierczuk",
+          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
+      "url": "https://open.spotify.com/track/4tjILrO9lD8DC5ExpE520A"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Gloria / Handel: Dixit Dominus",
+        "url": "https://open.spotify.com/album/6UHOc5x250EPfUKKvx4fT0"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Angela Kazimierczuk",
+          "url": "https://open.spotify.com/artist/29ooH5TakUn2iNafnJUT8u"
+        },
+        {
+          "name": "Katherine Fuge",
+          "url": "https://open.spotify.com/artist/0A67d1Kg9y0mNiX4zUuw9b"
+        },
+        {
+          "name": "The Monteverdi Choir",
+          "url": "https://open.spotify.com/artist/0Cqfz92flAzrp94pgN1jEW"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255693,
+      "name": "Dixit Dominus, HWV 232: Die Torrente in via bibet",
+      "url": "https://open.spotify.com/track/6bxf6pkgSmAAOrD24ZOa7Z"
+    },
+    {
+      "album": {
+        "name": "Handel: Dixit Dominus / Salve Regina / Nisi Dominus",
+        "url": "https://open.spotify.com/album/4a5UH406k9IT7DYpXE4nX8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Scholars Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/79zqMJ0Tc0wATqK0eszdsJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334466,
+      "name": "Dixit Dominus, HWV 232: Dixit Dominus Domino meo",
+      "url": "https://open.spotify.com/track/22vjnVheeYH6HQcKNNDNvH"
+    },
+    {
+      "album": {
+        "name": "Esther (1718 version)",
+        "url": "https://open.spotify.com/album/4kZlY4e1NQHLSvYHsxUuZM"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Michael Chance",
+          "url": "https://open.spotify.com/artist/3vzk8TZItuZszZdyQjrG3g"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        },
+        {
+          "name": "The Sixteen",
+          "url": "https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408213,
+      "name": "Esther, HWV 50a: O Jordan, Jordan, Sacred Tide (Aria - Priest of the Israelites)",
+      "url": "https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5KOkG3hZnXJYrfipgTIeaL"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230786,
+      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+      "url": "https://open.spotify.com/track/0drHxdDHQr20RWySE9TM7I"
+    },
+    {
+      "album": {
+        "name": "Best of Handel",
+        "url": "https://open.spotify.com/album/2kvMgK5fsB3TGdvYROToy2"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233760,
+      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+      "url": "https://open.spotify.com/track/301GhrxRRyQ0h8NP6NQQxc"
+    },
+    {
+      "album": {
+        "name": "Queen's Platinum Jubilee Classical Music",
+        "url": "https://open.spotify.com/album/4agVxFg16QsfMcm6fUDWAG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Elin Manahan Thomas",
+          "url": "https://open.spotify.com/artist/42lAvOjda4aRK629Oqplue"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Christophers",
+          "url": "https://open.spotify.com/artist/6URHrQ8te9u9mD6Q2PjVnu"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233760,
+      "name": "Eternal Source Of Light Divine (Ode For The Birthday Of Queen Anne), HWV 74",
+      "url": "https://open.spotify.com/track/6L3WCjEup0otNLHKCbwEOs"
+    },
+    {
+      "album": {
+        "name": "Nuove Invenzioni",
+        "url": "https://open.spotify.com/album/6mPNYpx47nLYi6pekAqhoK"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Rolf Lislevand",
+          "url": "https://open.spotify.com/artist/6JM9ijNSKNjSXzxVrFjmuh"
+        },
+        {
+          "name": "Concerto Stella Matutina",
+          "url": "https://open.spotify.com/artist/5MtjwE0QvUGLeepPhEu7gU"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353720,
+      "name": "Eternal Source of Light Divine, HWV 74 (Arrangement)",
+      "url": "https://open.spotify.com/track/2GTQ3iVNLw90PLPVUdPE4t"
+    },
+    {
+      "album": {
+        "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
+        "url": "https://open.spotify.com/album/0RLMdqR1Pc7CNaw01NtaXx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Cordier",
+          "url": "https://open.spotify.com/artist/7c3xuGGE9BOGOaefba2Jqt"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Linda Perillo",
+          "url": "https://open.spotify.com/artist/38WMUWJLSoiJvA8geyx1GS"
+        },
+        {
+          "name": "Knut Schoch",
+          "url": "https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA"
+        },
+        {
+          "name": "Nicola Wemyss",
+          "url": "https://open.spotify.com/artist/5I2BCNklyqXTXRFu8ImG0I"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261040,
+      "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
+      "url": "https://open.spotify.com/track/16CYKG2vIIbN3Get4hqanl"
+    },
+    {
+      "album": {
+        "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
+        "url": "https://open.spotify.com/album/6NTBjimjmNneq3aobriEPI"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Cordier",
+          "url": "https://open.spotify.com/artist/7c3xuGGE9BOGOaefba2Jqt"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Linda Perillo",
+          "url": "https://open.spotify.com/artist/38WMUWJLSoiJvA8geyx1GS"
+        },
+        {
+          "name": "Knut Schoch",
+          "url": "https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA"
+        },
+        {
+          "name": "Nicola Wemyss",
+          "url": "https://open.spotify.com/artist/5I2BCNklyqXTXRFu8ImG0I"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 261040,
+      "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
+      "url": "https://open.spotify.com/track/3pcjGfgnGS3TKuDdTpuOh4"
+    },
+    {
+      "album": {
+        "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
+        "url": "https://open.spotify.com/album/4wJY8J6zZCwbkz2m6h63MQ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "David Cordier",
+          "url": "https://open.spotify.com/artist/7c3xuGGE9BOGOaefba2Jqt"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Stephan MacLeod",
+          "url": "https://open.spotify.com/artist/0q97TXwQIlhiPhSyBnc5uY"
+        },
+        {
+          "name": "Linda Perillo",
+          "url": "https://open.spotify.com/artist/38WMUWJLSoiJvA8geyx1GS"
+        },
+        {
+          "name": "Knut Schoch",
+          "url": "https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA"
+        },
+        {
+          "name": "Nicola Wemyss",
+          "url": "https://open.spotify.com/artist/5I2BCNklyqXTXRFu8ImG0I"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261040,
+      "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
+      "url": "https://open.spotify.com/track/6mEr3K1z35IBp0U80Mr9Yg"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/12nHQd8bo9cQKwNSwNKhQ4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/12ktimQujDhMiyagaxac6K"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/1WlUctCmXbyC5eKbJZ8Un0"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/2Jn5XTpSMBwnzF4Wn3A3SY"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 292373,
+      "name": "Giulio Cesare / Act 2: \"V'adoro, pupille\"",
+      "url": "https://open.spotify.com/track/35w4JniG0eqFchonJycQ39"
+    },
+    {
+      "album": {
+        "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
+        "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/1SSaWY93eyPcEOtDyMaMab"
+    },
+    {
+      "album": {
+        "name": "John Eliot Gardiner Conducts Handel",
+        "url": "https://open.spotify.com/album/5c1KNy2PXJttM46NhAq3hN"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "English Baroque Soloists",
+          "url": "https://open.spotify.com/artist/3OtZV9aCZ6G004vjOQcf59"
+        },
+        {
+          "name": "John Eliot Gardiner",
+          "url": "https://open.spotify.com/artist/1qIRoGEKXINqrCx5N1engi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131479,
+      "name": "Handel: Concerto grosso in F Major, Op. 3 No. 4, HWV 315: II. Andante",
+      "url": "https://open.spotify.com/track/6cWPW3Z6t4ECwzYVybTA6T"
+    },
+    {
+      "album": {
+        "name": "Handel Coronation Anthems",
+        "url": "https://open.spotify.com/album/4c8lcNQ6aSjGJ2pJEWACw8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Choir of King's College, Cambridge",
+          "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Stephen Cleobury",
+          "url": "https://open.spotify.com/artist/0ugRf6ECGBFRCHlv9iG1No"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164320,
+      "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
+      "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "album": {
+        "name": "Royal Fireworks",
+        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Balsom Ensemble",
+          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133106,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: I. Overture (Adagio)",
+      "url": "https://open.spotify.com/track/3rUZoFYbTiFJc4gxQDz3Hg"
+    },
+    {
+      "album": {
+        "name": "Royal Fireworks",
+        "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alison Balsom",
+          "url": "https://open.spotify.com/artist/44Z5ZP2F1omniNpGEdNDdt"
+        },
+        {
+          "name": "Balsom Ensemble",
+          "url": "https://open.spotify.com/artist/3sC8MocOBsrZcedSzCmVLE"
+        },
+        {
+          "name": "Simon Wright",
+          "url": "https://open.spotify.com/artist/1ZRTbgZMGs9HTI6SpMkySa"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314066,
+      "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
+      "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
+    },
+    {
+      "album": {
+        "name": "In War & Peace - Harmony through Music",
+        "url": "https://open.spotify.com/album/1TjvQpGgD9gaEQbUt5inKM"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Maxim Emelyanychev",
+          "url": "https://open.spotify.com/artist/36CgM42AtIA5SEne7Wou7q"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332320,
+      "name": "Handel: Rinaldo, HWV 7, Act 2: \"Lascia ch'io pianga\" (Almirena)",
+      "url": "https://open.spotify.com/track/2Sbb5o2R6zci4L0xEQhsvK"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84693,
+      "name": "Handel: Water Music Suite No. 3, HWV 350: I. Lento (Ed. Boyling)",
+      "url": "https://open.spotify.com/track/0sHaJUGowZZkbjtC4FoPCl"
+    },
+    {
+      "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249680,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: II. Alla Hornpipe",
+      "url": "https://open.spotify.com/track/3tWp3CE214ezoQYNbjNKuX"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121493,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
+      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
+    },
+    {
+      "album": {
+        "name": "Baroque Masterpieces",
+        "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174320,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
+      "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+    },
+    {
+      "album": {
+        "name": "Handel: Water & Fireworks Music",
+        "url": "https://open.spotify.com/album/1r6mINeeXdCrL32kDdzPsB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Prague Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/7hrleJxjf4KJbeiQirb6BL"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60480,
+      "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: V. Menuet II",
+      "url": "https://open.spotify.com/track/44M4vpSmB7t901dAGz0rDA"
+    },
+    {
+      "album": {
+        "name": "Handel: Judas Maccabaeus",
+        "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Nicholas McGegan",
+          "url": "https://open.spotify.com/artist/6tW7J49UTzVDW9ns4E37D1"
+        },
+        {
+          "name": "Philharmonia Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/01qUOft2n8sCRfZZ4ha52o"
+        },
+        {
+          "name": "Lisa Saffer",
+          "url": "https://open.spotify.com/artist/5ird6pJUDzdYUeBQPTIpzR"
+        },
+        {
+          "name": "Patricia Spence",
+          "url": "https://open.spotify.com/artist/4lkyNv96a6BEgb5FMzZlsW"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395026,
+      "name": "Judas Maccabaeus, HWV 63, Act III: Duet \"O lovely peace\"",
+      "url": "https://open.spotify.com/track/1o8KteyWoKK4HGEuUOCzS6"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/7KWXZfDQtpcDqOQdv96fzJ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181626,
+      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/1BtdzzDdHDLoCuMlzO6KNO"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181626,
+      "name": "Keyboard Suite No. 2 (Set I) in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/30HCgiGH4R8rgUMdF7njJK"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/7KWXZfDQtpcDqOQdv96fzJ"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247760,
+      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
+      "url": "https://open.spotify.com/track/146RNShLmmRzeyizGCD7bk"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247760,
+      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
+      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/3UdKO86YCgjHG20bXFiIRR"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air and Doubles (\"Harmonious Blacksmith\")",
+      "url": "https://open.spotify.com/track/2bYyrku1w6I6hjHkiIND1x"
+    },
+    {
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 2",
+        "url": "https://open.spotify.com/album/47vojU05repRCuFmKWGFDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283000,
+      "name": "Keyboard Suite No. 5 in E Major, HWV 430: IV. Air mit 5 variationen \"Harmonious Blacksmith\"",
+      "url": "https://open.spotify.com/track/6WRlr8ukqcLu9J7AfWFuwg"
+    },
+    {
+      "album": {
+        "name": "Handel: Laudate Pueri, Nisi Dominus",
+        "url": "https://open.spotify.com/album/6W9KFtCnix2uLaJtEBLPIx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Alfred Deller",
+          "url": "https://open.spotify.com/artist/1A4CqshmD4SFeTbu1mJ8Q7"
+        },
+        {
+          "name": "The Deller Consort",
+          "url": "https://open.spotify.com/artist/3GIgkzvdc1l9dMzlhsnuZV"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203066,
+      "name": "Laudate Pueri (Psalm 112): Laudate Pueri Dominum",
+      "url": "https://open.spotify.com/track/2iypBiPebvQux3ZyZY5Sbe"
+    },
+    {
+      "album": {
+        "name": "Baroque Duet",
+        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "John Nelson",
+          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
+        },
+        {
+          "name": "Orchestra of St. Luke's",
+          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332026,
+      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
+      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "album": {
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/5x9EvAw0dkkUCYQ02RLrDw"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127440,
+      "name": "Let Thy Hand Be Strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/15aU4c6nVujpcrYMLT53hA"
+    },
+    {
+      "album": {
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/32NQs9mZyabnTcGGsDfprX"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127440,
+      "name": "Let Thy Hand Be Strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/1kNoMlpsAmV9uKn9BkKbWj"
+    },
+    {
+      "album": {
+        "name": "Handel: Coronation Anthems / Silete Venti",
+        "url": "https://open.spotify.com/album/1korDY7V0uEE7W6RB7t4T2"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Thomas Tallis Chamber Choir",
+          "url": "https://open.spotify.com/artist/5kl66pasgbqK6LFuqImrFN"
+        },
+        {
+          "name": "Royal Academy Consort",
+          "url": "https://open.spotify.com/artist/4Ki3YmkyJwKtoBwqySbpW2"
+        },
+        {
+          "name": "Jeremy Summerly",
+          "url": "https://open.spotify.com/artist/0eaRvM9NkpTV399cyiZUwf"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127440,
+      "name": "Let thy Hand be strengthened, HWV 259: Alleluia",
+      "url": "https://open.spotify.com/track/3udJMoXeAemwdJm2HH2eQT"
+    },
+    {
+      "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/4fMwLdKBFB0A2XjrB8vvM5"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St Martin in the Fields Chorus",
+          "url": "https://open.spotify.com/artist/1GxYERY1PDh1dEuFqvTDa5"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219360,
+      "name": "Messiah, HWV 56 / Pt. 2: \"Hallelujah\"",
+      "url": "https://open.spotify.com/track/4TNCQyG2gmepsGoeLdRKn4"
+    },
+    {
+      "album": {
+        "name": "Handel: Messiah",
+        "url": "https://open.spotify.com/album/7kZLrZGiSDrErwiNh0rCDb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Apollo's Fire",
+          "url": "https://open.spotify.com/artist/4yCuIgkycBRN7pSeP4OSbi"
+        },
+        {
+          "name": "Jeannette Sorrell",
+          "url": "https://open.spotify.com/artist/0bkA8dvOFQ9VzxKS9Pwkfm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Messiah, HWV 56, Pt. 1: For unto us a child is born - Part I",
+      "url": "https://open.spotify.com/track/3462hQTzF5oHhoJfJJ5ULK"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274866,
+      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
+      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music/Music for the Royal Fireworks etc.",
+        "url": "https://open.spotify.com/album/0XbYMdmqIrwWcXBjaZUWS0"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "Music for the Royal Fireworks: Suite HWV 351: 4. La r\u00e9jouissance",
+      "url": "https://open.spotify.com/track/2H8nKAoMk1B7yKrd0uppGb"
+    },
+    {
+      "album": {
+        "name": "Handel : The Best of Handel",
+        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 191000,
+      "name": "Oboe Concerto No. 3 in G Minor Largo",
+      "url": "https://open.spotify.com/track/1abJ3dYI9uHjmXLW771deF"
+    },
+    {
+      "album": {
+        "name": "HANDEL: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
+        "url": "https://open.spotify.com/album/4GU7XfRe0pC1qeIvCWAOOS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182200,
+      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande. Largo",
+      "url": "https://open.spotify.com/track/3frij1etbhokEz1aEZr6rB"
+    },
+    {
+      "album": {
+        "name": "Handel: Oboe Concertos Nos. 1- 3 / Suite in G Minor",
+        "url": "https://open.spotify.com/album/3TjxqWoMqsVNKOyCcw09jb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182200,
+      "name": "Oboe Concerto No. 3 in G Minor, HWV 287: III. Sarabande: Largo",
+      "url": "https://open.spotify.com/track/375eVZkpa9bfZmx7khLebT"
+    },
+    {
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Anthony Camden",
+          "url": "https://open.spotify.com/artist/1iNHrIYKqHXQONIKKClI73"
+        },
+        {
+          "name": "City of London Sinfonia",
+          "url": "https://open.spotify.com/artist/4JKHXlntTvmZnLxjbeRcPL"
+        },
+        {
+          "name": "Nicholas Ward",
+          "url": "https://open.spotify.com/artist/4fgDrYK3Ua8O0eV4cU8Pl2"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 187386,
+      "name": "Oboe Concerto No. 3 in G Minor, Hwv 287: Iii. Sarabande: Largo",
+      "url": "https://open.spotify.com/track/5dQlUxRQKHq8EgR7x4HMvc"
+    },
+    {
+      "album": {
+        "name": "Handel: Ode for St. Cecilia's Day",
+        "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Dorothee Mields",
+          "url": "https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW"
+        },
+        {
+          "name": "Mark Wilde",
+          "url": "https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg"
+        },
+        {
+          "name": "Alsfelder Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU"
+        },
+        {
+          "name": "Concerto Polacco",
+          "url": "https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS"
+        },
+        {
+          "name": "Wolfgang Helbich",
+          "url": "https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498200,
+      "name": "Ode for St. Cecilia's Day, HWV 76: Air: What passion cannot Music raise",
+      "url": "https://open.spotify.com/track/28Lhq1AbMJVtbSQbWjF8zl"
+    },
+    {
+      "album": {
+        "name": "Handel with Care",
+        "url": "https://open.spotify.com/album/0d3i4wfMk362hxTuO0ppOg"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Concerto Polacco",
+          "url": "https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS"
+        },
+        {
+          "name": "Wolfgang Helbich",
+          "url": "https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 213360,
+      "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
+      "url": "https://open.spotify.com/track/2a11ocMT3QxALB2CFJ1nSl"
+    },
+    {
+      "album": {
+        "name": "Handel: Ode for St. Cecilia's Day",
+        "url": "https://open.spotify.com/album/45aTL6VJMdUD5uWfzLy96c"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Dorothee Mields",
+          "url": "https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW"
+        },
+        {
+          "name": "Mark Wilde",
+          "url": "https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg"
+        },
+        {
+          "name": "Alsfelder Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU"
+        },
+        {
+          "name": "Concerto Polacco",
+          "url": "https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS"
+        },
+        {
+          "name": "Wolfgang Helbich",
+          "url": "https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213360,
+      "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
+      "url": "https://open.spotify.com/track/0kmdowp839iUBkJLB8w0eM"
+    },
+    {
+      "album": {
+        "name": "Handel: Ode for St. Cecilia's Day",
+        "url": "https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Dorothee Mields",
+          "url": "https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW"
+        },
+        {
+          "name": "Mark Wilde",
+          "url": "https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg"
+        },
+        {
+          "name": "Alsfelder Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU"
+        },
+        {
+          "name": "Concerto Polacco",
+          "url": "https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS"
+        },
+        {
+          "name": "Wolfgang Helbich",
+          "url": "https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213360,
+      "name": "Ode for St. Cecilia's Day, HWV 76: Overture",
+      "url": "https://open.spotify.com/track/0mloLmeqwsy2l54NuGVOks"
+    },
+    {
+      "album": {
+        "name": "Handel: Ode for St. Cecilia's Day",
+        "url": "https://open.spotify.com/album/5U0Py9YY5AwiH2BiH5nrI8"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Dorothee Mields",
+          "url": "https://open.spotify.com/artist/1gIjaA2XzQwFRHIvVuKwJW"
+        },
+        {
+          "name": "Mark Wilde",
+          "url": "https://open.spotify.com/artist/4t6daUBglCyJx1nkfd9Ujg"
+        },
+        {
+          "name": "Alsfelder Vocal Ensemble",
+          "url": "https://open.spotify.com/artist/2lrvc8UMdJ2BhGovPvtvUU"
+        },
+        {
+          "name": "Concerto Polacco",
+          "url": "https://open.spotify.com/artist/0bkbqZQcQ6YuF9n5VqP2RS"
+        },
+        {
+          "name": "Wolfgang Helbich",
+          "url": "https://open.spotify.com/artist/2SO4aqT8yXQjufs0DhVS61"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 498200,
+      "name": "Ode for St. Cecilia's Day, HWV 76: What Passion Cannot Music Raise and Quell",
+      "url": "https://open.spotify.com/track/352FMQLrt2Ppl2RdOUn9AA"
+    },
+    {
+      "album": {
+        "name": "Handel: Organ Concertos, Op. 4",
+        "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Richard Egarr",
+          "url": "https://open.spotify.com/artist/0wIAnpAug0yADcWCSB4jKq"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434333,
+      "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
+      "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major Op. 1, No. 11, Hwv 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/5eh6xpaICKfdIfvWu54zw9"
+    },
+    {
+      "album": {
+        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
+        "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
+    },
+    {
+      "album": {
+        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
+        "url": "https://open.spotify.com/album/5gyztja7azlAeO3Lnra6pR"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/3SDqDOLou1woXz22uTauxC"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 630320,
+      "name": "Rinaldo, HWV 7, Act I Scene 7: Aria. Cara sposa, amante cara, dove sei? (Rinaldo)",
+      "url": "https://open.spotify.com/track/4m9AaW06KPOUrite3eja5l"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 330880,
+      "name": "Rinaldo, HWV 7, Act I: Overture",
+      "url": "https://open.spotify.com/track/72YigZmIxr7hHQgCoDw3ui"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/73sgulPZjDhSvSogFTiRhP"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 363386,
+      "name": "Rinaldo, HWV 7, Act II Scene 4: Aria. Lascia ch\u2019io pianga (Almirena)",
+      "url": "https://open.spotify.com/track/1a9eDzT7v66nE7xReK31nx"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 630320,
+      "name": "Rinaldo, HWV 7b: Act I Scene 7: Aria: Cara sposa, amante cara, dove sei? (Rinaldo)",
+      "url": "https://open.spotify.com/track/5arfFVyZnQnu2hzdWUlenq"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330880,
+      "name": "Rinaldo, HWV 7b: Act I: Overture",
+      "url": "https://open.spotify.com/track/6DikE6mXpr6GfXWW94jug1"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo",
+        "url": "https://open.spotify.com/album/5Jd7LRZm76VWAiPnaa42XF"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marion Newman",
+          "url": "https://open.spotify.com/artist/75vVcn9hLeYBBg0huooqUT"
+        },
+        {
+          "name": "Laura Whalen",
+          "url": "https://open.spotify.com/artist/6CPV8Gp7FgNODTXGiLbIPk"
+        },
+        {
+          "name": "Kimberley Barber",
+          "url": "https://open.spotify.com/artist/6nkeyUzgUIV3Rixm7FFJ1X"
+        },
+        {
+          "name": "Jennifer Ens Modolo",
+          "url": "https://open.spotify.com/artist/5xYPtzEIWBCvHEUbKmuql6"
+        },
+        {
+          "name": "Sean Watson",
+          "url": "https://open.spotify.com/artist/3wTSCuKXDYYjNHnBO8415A"
+        },
+        {
+          "name": "Barbara Hannigan",
+          "url": "https://open.spotify.com/artist/3j1x7avIuQvbywKCRSvdIq"
+        },
+        {
+          "name": "Giles Tomkins",
+          "url": "https://open.spotify.com/artist/6HvEGmJfZwQp5muiZMHO7A"
+        },
+        {
+          "name": "Nicole Bower",
+          "url": "https://open.spotify.com/artist/7okUWPLNp8hYl0qUunJt79"
+        },
+        {
+          "name": "Catherine Affleck",
+          "url": "https://open.spotify.com/artist/7siOn03bL8FpZ1roVqpflv"
+        },
+        {
+          "name": "Melinda Delorme",
+          "url": "https://open.spotify.com/artist/1haKY9W8yelYsNlhY89ufS"
+        },
+        {
+          "name": "Lenard Whiting",
+          "url": "https://open.spotify.com/artist/0cUqY7VI9p5M6gSyeLHiY6"
+        },
+        {
+          "name": "Opera in Concert",
+          "url": "https://open.spotify.com/artist/5vSieuKQcFT2byBKVk7xS6"
+        },
+        {
+          "name": "Aradia Ensemble",
+          "url": "https://open.spotify.com/artist/2KXYFI4KgMpIDpkHisArTk"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363386,
+      "name": "Rinaldo, HWV 7b: Act II Scene 4: Aria: Lascia ch\u2019io pianga (Almirena)",
+      "url": "https://open.spotify.com/track/74gUbrOJ7oRGrCVZTpuiFm"
+    },
+    {
+      "album": {
+        "name": "Handel: Rodelinda",
+        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
+    },
+    {
+      "album": {
+        "name": "Handel: Rodelinda",
+        "url": "https://open.spotify.com/album/4XMKStre7PB6P9EvrzVJLI"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/7cTmdaL6cGWzHk1GVy7L4Y"
+    },
+    {
+      "album": {
+        "name": "Alan Curtis - Great Handel Operas",
+        "url": "https://open.spotify.com/album/4ZmegS0GABelr9xhlGnpOo"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/7lv5cc4yKH8V6QKfgIyBZn"
+    },
+    {
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Serse (Xerxes), Hwv 40 (arr. for oboe and orchestra): Act I: Ombra mai fu, \"largo\"",
+      "url": "https://open.spotify.com/track/0Bzw4breRe6YyvaHpjaSYD"
+    },
+    {
+      "album": {
+        "name": "Handel : The Best of Handel",
+        "url": "https://open.spotify.com/album/1lI9PZenCOZripnDuxdpvc"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 223000,
+      "name": "Serse (Xerxes), HWV 40: Larghetto from \"Xerxes\"",
+      "url": "https://open.spotify.com/track/5ZARQmEMqdfgyyjHAN87cf"
+    },
+    {
+      "album": {
+        "name": "Cinema Classics, Vol. 8",
+        "url": "https://open.spotify.com/album/7HF7vMPkHLyENkHbFpuPqV"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227000,
+      "name": "Serse (Xerxes), HWV 40: Largo [Dangerous Liasons]",
+      "url": "https://open.spotify.com/track/3y9R4KrgxP5fXcbxMOEGlV"
+    },
+    {
+      "album": {
+        "name": "Pastorale - Classical Favourites for Relaxing and Dreaming",
+        "url": "https://open.spotify.com/album/3Tzmm7fE567ZFNI8E3Troc"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
+        },
+        {
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 223066,
+      "name": "Serse (Xerxes), HWV 40: Ombra mai fu: Larghetto (arr. for oboe and orchestra)",
+      "url": "https://open.spotify.com/track/0FizzANUcVDA7SBwoZ4KAz"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Serse, HWV 40, Act I: Ombra mai fu",
+      "url": "https://open.spotify.com/track/1qNNg6vuSZqdeSWrnmqgS2"
+    },
+    {
+      "album": {
+        "name": "The Essential Handel",
+        "url": "https://open.spotify.com/album/1MwHHEnhgkb07HA5Av42m6"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "Solomon HWV 67 / Act 3: The Arrival Of The Queen Of Sheba",
+      "url": "https://open.spotify.com/track/1bTXAKwE2Hztv13xTAhMQB"
+    },
+    {
+      "album": {
+        "name": "Handel: Theodora",
+        "url": "https://open.spotify.com/album/6C9z2htcBrONBLOXW8Rf9Z"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Diana Schmid",
+          "url": "https://open.spotify.com/artist/6fdZdWllAGNyvWN0qrizAS"
+        },
+        {
+          "name": "Franz Vitzthum",
+          "url": "https://open.spotify.com/artist/7aPQjgseUQ6SbEYUST7DlV"
+        },
+        {
+          "name": "Knut Schoch",
+          "url": "https://open.spotify.com/artist/7wRKUyRFa78oIENRaZhPtA"
+        },
+        {
+          "name": "Klaus Mertens",
+          "url": "https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V"
+        },
+        {
+          "name": "Junge Kantorei",
+          "url": "https://open.spotify.com/artist/2gIaO6SColHQT8ah4a6uuO"
+        },
+        {
+          "name": "Barockorchester Frankfurt",
+          "url": "https://open.spotify.com/artist/1G9LByHgxIytuQs7L9u2rC"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180133,
+      "name": "Theodora, HWV 68, Act I Scene 5: Air. Angels, ever bright and fair (Theodora)",
+      "url": "https://open.spotify.com/track/6fpILeounzhWhvHWgHxsMm"
+    },
+    {
+      "album": {
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Christina Wieland",
+          "url": "https://open.spotify.com/artist/0pwEmXXpHyP7CYrkMmNzEf"
+        },
+        {
+          "name": "Frankfurt Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/4fFOSPDZSong8uLTliazsa"
+        },
+        {
+          "name": "Joachim Carlos Martini",
+          "url": "https://open.spotify.com/artist/19pKZ73EPlzeffharlVpsp"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180133,
+      "name": "Theodora, Hwv 68: Act I Scene 5: Air: Angels, ever bright and fair",
+      "url": "https://open.spotify.com/track/4vbsranpQUYHHQe46YfZij"
+    },
+    {
+      "album": {
+        "name": "Handel: Trio Sonatas for Two Violins and Basso Continuo",
+        "url": "https://open.spotify.com/album/59YvN2nfiOBRZgqcYpTfHT"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "The Brook Street Band",
+          "url": "https://open.spotify.com/artist/6mJSP9ISM0Ag4eIRCUO3Ow"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173060,
+      "name": "Trio Sonata in F Major, HWV 392: IV. Allegro assai",
+      "url": "https://open.spotify.com/track/5JECMr6LxcxhW9U0YjDglW"
+    },
+    {
+      "album": {
+        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
+        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303933,
+      "name": "Water Music Suite - Water Music Suite in G Major: Menuet & Trio",
+      "url": "https://open.spotify.com/track/1hk00nf0xFMmluArrik8vD"
+    },
+    {
+      "album": {
+        "name": "Handel: Music for the Royal Fireworks; Water Music Suites",
+        "url": "https://open.spotify.com/album/0W4OhMLKiSF0yACzBMjQ2c"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Academy of St. Martin in the Fields",
+          "url": "https://open.spotify.com/artist/77CaCn32H4mOMQA7UElzfF"
+        },
+        {
+          "name": "Sir Neville Marriner",
+          "url": "https://open.spotify.com/artist/6NUhQz7eAEsZvjEHTKHux9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Water Music Suite - Water Music Suite in G Major: Rigaudon I and II",
+      "url": "https://open.spotify.com/track/3fnqfP2OovvicGYzJdBN1B"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music; Music For The Royal Fireworks",
+        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Concertgebouw Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155666,
+      "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
+      "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music; Music For The Royal Fireworks",
+        "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Concertgebouw Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/254914edb11tMrw8vCDjut"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Water Music Suite No. 1 in F, HWV 348: 3b. Andante",
+      "url": "https://open.spotify.com/track/4UwwMfQVuDqTCdI7oSS8M0"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192452,
+      "name": "Water Music, Suite No. 1, HWV 348: I. Overture: Largo - Allegro",
+      "url": "https://open.spotify.com/track/5qGrDJspH7rSB1OFmT6A2N"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128599,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
+      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70786,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 8, Bourr\u00e9e",
+      "url": "https://open.spotify.com/track/6jzEwUfXtY2tlZj9O158b8"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
+      "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
+    },
+    {
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+    },
+    {
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
+    },
+    {
+      "album": {
+        "name": "Handel: 4 Coronation Anthems Including \"Zadok The Priest\"; Dixit Dominus",
+        "url": "https://open.spotify.com/album/37UqGKATaxRKIWMzsVaksq"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        },
+        {
+          "name": "The Choir Of Westminster Abbey",
+          "url": "https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 315613,
+      "name": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
+      "url": "https://open.spotify.com/track/2JoH4WelznXZHJeWxu8ALt"
+    },
+    {
+      "album": {
+        "name": "Emotions - Classical Music: Handel",
+        "url": "https://open.spotify.com/album/32cGNZRVSWp2Qt5Nf3ONnb"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        },
+        {
+          "name": "The Choir Of Westminster Abbey",
+          "url": "https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 316280,
+      "name": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
+      "url": "https://open.spotify.com/track/67ueGIZKSAHMdyMaWJV4oT"
+    },
+    {
+      "album": {
+        "name": "Handel: Coronation Anthems; Concerti a Due Cori",
+        "url": "https://open.spotify.com/album/7Gi7VwRTgcVL9jKilHtztX"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Trevor Pinnock",
+          "url": "https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83"
+        },
+        {
+          "name": "The English Concert",
+          "url": "https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA"
+        },
+        {
+          "name": "Simon Preston",
+          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
+        },
+        {
+          "name": "The Choir Of Westminster Abbey",
+          "url": "https://open.spotify.com/artist/1dDKUFwinr4kwEjiznLwdm"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323426,
+      "name": "Zadok the Priest (Coronation Anthem No. 1, HWV 258)",
+      "url": "https://open.spotify.com/track/30bQxViotttoZ7x2iUP2L9"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9ZP5oobcNgA"
 }

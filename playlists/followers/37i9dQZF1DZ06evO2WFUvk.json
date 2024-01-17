@@ -1,354 +1,587 @@
 {
-  "2023-01-14": 2230,
-  "2023-01-15": 2229,
-  "2023-01-16": 2233,
-  "2023-01-17": 2235,
-  "2023-01-18": 2237,
-  "2023-01-19": 2241,
-  "2023-01-20": 2244,
-  "2023-01-21": 2246,
-  "2023-01-22": 2250,
-  "2023-01-23": 2252,
-  "2023-01-24": 2256,
-  "2023-01-25": 2258,
-  "2023-01-26": 2262,
-  "2023-01-27": 2262,
-  "2023-01-28": 2263,
-  "2023-01-29": 2266,
-  "2023-01-30": 2265,
-  "2023-01-31": 2265,
-  "2023-02-01": 2270,
-  "2023-02-02": 2270,
-  "2023-02-03": 2271,
-  "2023-02-04": 2274,
-  "2023-02-05": 2279,
-  "2023-02-06": 2280,
-  "2023-02-07": 2280,
-  "2023-02-08": 2288,
-  "2023-02-09": 2288,
-  "2023-02-10": 2293,
-  "2023-02-11": 2294,
-  "2023-02-12": 2303,
-  "2023-02-13": 2303,
-  "2023-02-14": 2303,
-  "2023-02-15": 2308,
-  "2023-02-16": 2311,
-  "2023-02-17": 2312,
-  "2023-02-18": 2319,
-  "2023-02-19": 2319,
-  "2023-02-20": 2318,
-  "2023-02-21": 2319,
-  "2023-02-22": 2322,
-  "2023-02-23": 2323,
-  "2023-02-24": 2328,
-  "2023-02-25": 2332,
-  "2023-02-26": 2331,
-  "2023-02-27": 2334,
-  "2023-02-28": 2334,
-  "2023-03-01": 2337,
-  "2023-03-02": 2338,
-  "2023-03-03": 2343,
-  "2023-03-04": 2344,
-  "2023-03-05": 2355,
-  "2023-03-06": 2355,
-  "2023-03-07": 2359,
-  "2023-03-08": 2361,
-  "2023-03-09": 2364,
-  "2023-03-10": 2364,
-  "2023-03-11": 2366,
-  "2023-03-12": 2367,
-  "2023-03-13": 2370,
-  "2023-03-14": 2375,
-  "2023-03-15": 2375,
-  "2023-03-16": 2375,
-  "2023-03-17": 2375,
-  "2023-03-18": 2391,
-  "2023-03-19": 2391,
-  "2023-03-20": 2394,
-  "2023-03-21": 2394,
-  "2023-03-22": 2395,
-  "2023-03-23": 2395,
-  "2023-03-24": 2395,
-  "2023-03-25": 2399,
-  "2023-03-26": 2402,
-  "2023-03-27": 2403,
-  "2023-03-28": 2408,
-  "2023-03-29": 2414,
-  "2023-03-30": 2421,
-  "2023-03-31": 2421,
-  "2023-04-01": 2422,
-  "2023-04-02": 2428,
-  "2023-04-03": 2430,
-  "2023-04-04": 2434,
-  "2023-04-05": 2437,
-  "2023-04-06": 2438,
-  "2023-04-07": 2440,
-  "2023-04-09": 2444,
-  "2023-04-10": 2446,
-  "2023-04-11": 2451,
-  "2023-04-12": 2451,
-  "2023-04-13": 2454,
-  "2023-04-14": 2456,
-  "2023-04-15": 2462,
-  "2023-04-16": 2463,
-  "2023-04-17": 2465,
-  "2023-04-18": 2470,
-  "2023-04-19": 2470,
-  "2023-04-20": 2472,
-  "2023-04-21": 2473,
-  "2023-04-22": 2478,
-  "2023-04-23": 2479,
-  "2023-04-24": 2478,
-  "2023-04-25": 2480,
-  "2023-04-26": 2484,
-  "2023-04-27": 2486,
-  "2023-04-28": 2486,
-  "2023-04-29": 2490,
-  "2023-04-30": 2494,
-  "2023-05-01": 2496,
-  "2023-05-02": 2498,
-  "2023-05-03": 2498,
-  "2023-05-04": 2501,
-  "2023-05-05": 2506,
-  "2023-05-06": 2508,
-  "2023-05-07": 2511,
-  "2023-05-08": 2518,
-  "2023-05-09": 2521,
-  "2023-05-10": 2522,
-  "2023-05-11": 2523,
-  "2023-05-12": 2523,
-  "2023-05-13": 2524,
-  "2023-05-14": 2526,
-  "2023-05-15": 2530,
-  "2023-05-16": 2533,
-  "2023-05-17": 2535,
-  "2023-05-18": 2537,
-  "2023-05-19": 2539,
-  "2023-05-20": 2542,
-  "2023-05-21": 2542,
-  "2023-05-22": 2542,
-  "2023-05-23": 2546,
-  "2023-05-24": 2552,
-  "2023-05-25": 2553,
-  "2023-05-26": 2557,
-  "2023-05-27": 2559,
-  "2023-05-28": 2565,
-  "2023-05-29": 2565,
-  "2023-05-30": 2569,
-  "2023-05-31": 2571,
-  "2023-06-01": 2573,
-  "2023-06-02": 2575,
-  "2023-06-03": 2576,
-  "2023-06-04": 2578,
-  "2023-06-05": 2584,
-  "2023-06-06": 2586,
-  "2023-06-07": 2585,
-  "2023-06-08": 2590,
-  "2023-06-09": 2591,
-  "2023-06-10": 2594,
-  "2023-06-11": 2599,
-  "2023-06-12": 2603,
-  "2023-06-13": 2607,
-  "2023-06-14": 2612,
-  "2023-06-15": 2617,
-  "2023-06-16": 2628,
-  "2023-06-17": 2631,
-  "2023-06-18": 2635,
-  "2023-06-19": 2636,
-  "2023-06-20": 2638,
-  "2023-06-21": 2639,
-  "2023-06-22": 2646,
-  "2023-06-23": 2646,
-  "2023-06-24": 2646,
-  "2023-06-25": 2651,
-  "2023-06-26": 2652,
-  "2023-06-27": 2654,
-  "2023-06-28": 2658,
-  "2023-06-29": 2659,
-  "2023-06-30": 2659,
-  "2023-07-01": 2659,
-  "2023-07-02": 2659,
-  "2023-07-03": 2663,
-  "2023-07-04": 2666,
-  "2023-07-05": 2668,
-  "2023-07-06": 2675,
-  "2023-07-07": 2675,
-  "2023-07-08": 2675,
-  "2023-07-09": 2681,
-  "2023-07-10": 2685,
-  "2023-07-11": 2688,
-  "2023-07-12": 2695,
-  "2023-07-13": 2697,
-  "2023-07-14": 2703,
-  "2023-07-15": 2701,
-  "2023-07-16": 2707,
-  "2023-07-17": 2711,
-  "2023-07-18": 2715,
-  "2023-07-19": 2718,
-  "2023-07-20": 2721,
-  "2023-07-21": 2720,
-  "2023-07-22": 2720,
-  "2023-07-23": 2721,
-  "2023-07-24": 2727,
-  "2023-07-25": 2728,
-  "2023-07-26": 2730,
-  "2023-07-27": 2734,
-  "2023-07-28": 2738,
-  "2023-07-29": 2741,
-  "2023-07-30": 2744,
-  "2023-07-31": 2745,
-  "2023-08-01": 2749,
-  "2023-08-02": 2753,
-  "2023-08-03": 2754,
-  "2023-08-04": 2754,
-  "2023-08-05": 2756,
-  "2023-08-06": 2762,
-  "2023-08-07": 2762,
-  "2023-08-08": 2766,
-  "2023-08-09": 2770,
-  "2023-08-10": 2773,
-  "2023-08-11": 2775,
-  "2023-08-12": 2775,
-  "2023-08-13": 2775,
-  "2023-08-14": 2783,
-  "2023-08-15": 2783,
-  "2023-08-16": 2783,
-  "2023-08-17": 2783,
-  "2023-08-18": 2783,
-  "2023-08-19": 2783,
-  "2023-08-20": 2803,
-  "2023-08-21": 2803,
-  "2023-08-22": 2808,
-  "2023-08-23": 2808,
-  "2023-08-24": 2808,
-  "2023-08-25": 2808,
-  "2023-08-26": 2814,
-  "2023-08-27": 2814,
-  "2023-08-28": 2818,
-  "2023-08-29": 2818,
-  "2023-08-30": 2818,
-  "2023-08-31": 2826,
-  "2023-09-01": 2833,
-  "2023-09-02": 2833,
-  "2023-09-03": 2833,
-  "2023-09-04": 2833,
-  "2023-09-05": 2833,
-  "2023-09-06": 2846,
-  "2023-09-07": 2846,
-  "2023-09-08": 2846,
-  "2023-09-09": 2846,
-  "2023-09-10": 2854,
-  "2023-09-11": 2854,
-  "2023-09-12": 2854,
-  "2023-09-13": 2854,
-  "2023-09-14": 2854,
-  "2023-09-15": 2854,
-  "2023-09-16": 2867,
-  "2023-09-17": 2867,
-  "2023-09-18": 2867,
-  "2023-09-19": 2870,
-  "2023-09-20": 2870,
-  "2023-09-21": 2870,
-  "2023-09-22": 2878,
-  "2023-09-23": 2878,
-  "2023-09-24": 2878,
-  "2023-09-25": 2878,
-  "2023-09-26": 2885,
-  "2023-09-27": 2885,
-  "2023-09-28": 2885,
-  "2023-09-29": 2885,
-  "2023-09-30": 2885,
-  "2023-10-01": 2885,
-  "2023-10-02": 2885,
-  "2023-10-03": 2885,
-  "2023-10-04": 2885,
-  "2023-10-05": 2885,
-  "2023-10-06": 2885,
-  "2023-10-07": 2885,
-  "2023-10-08": 2885,
-  "2023-10-09": 2885,
-  "2023-10-10": 2885,
-  "2023-10-11": 2931,
-  "2023-10-12": 2931,
-  "2023-10-13": 2931,
-  "2023-10-14": 2931,
-  "2023-10-15": 2931,
-  "2023-10-16": 2931,
-  "2023-10-17": 2931,
-  "2023-10-18": 2931,
-  "2023-10-19": 2931,
-  "2023-10-20": 2931,
-  "2023-10-21": 2931,
-  "2023-10-22": 2931,
-  "2023-10-23": 2931,
-  "2023-10-24": 2931,
-  "2023-10-25": 2931,
-  "2023-10-26": 2931,
-  "2023-10-27": 2931,
-  "2023-10-28": 2931,
-  "2023-10-29": 2931,
-  "2023-10-30": 2931,
-  "2023-10-31": 2931,
-  "2023-11-01": 2931,
-  "2023-11-02": 2931,
-  "2023-11-03": 2931,
-  "2023-11-04": 2931,
-  "2023-11-05": 2931,
-  "2023-11-06": 2931,
-  "2023-11-07": 2931,
-  "2023-11-08": 2931,
-  "2023-11-09": 2931,
-  "2023-11-10": 2931,
-  "2023-11-11": 2999,
-  "2023-11-12": 2999,
-  "2023-11-13": 2999,
-  "2023-11-14": 2999,
-  "2023-11-15": 2999,
-  "2023-11-16": 2999,
-  "2023-11-17": 2999,
-  "2023-11-18": 2999,
-  "2023-11-19": 2999,
-  "2023-11-20": 2999,
-  "2023-11-21": 2999,
-  "2023-11-22": 2999,
-  "2023-11-23": 2999,
-  "2023-11-24": 2999,
-  "2023-11-25": 2999,
-  "2023-11-26": 2999,
-  "2023-11-27": 2999,
-  "2023-11-28": 2999,
-  "2023-11-29": 2999,
-  "2023-11-30": 2999,
-  "2023-12-01": 2999,
-  "2023-12-02": 2999,
-  "2023-12-03": 2999,
-  "2023-12-04": 2999,
-  "2023-12-05": 2999,
-  "2023-12-06": 2999,
-  "2023-12-07": 2999,
-  "2023-12-08": 2999,
-  "2023-12-09": 2999,
-  "2023-12-10": 2999,
-  "2023-12-11": 2999,
-  "2023-12-12": 2999,
-  "2023-12-13": 2999,
-  "2023-12-14": 3059,
-  "2023-12-15": 3062,
-  "2023-12-16": 3062,
-  "2023-12-17": 3066,
-  "2023-12-18": 3065,
-  "2023-12-19": 3063,
-  "2023-12-20": 3064,
-  "2023-12-21": 3069,
-  "2023-12-22": 3070,
-  "2023-12-23": 3070,
-  "2023-12-24": 3071,
-  "2023-12-25": 3072,
-  "2023-12-26": 3072,
-  "2023-12-27": 3074,
-  "2023-12-30": 3085,
-  "2023-12-31": 3086,
-  "2024-01-01": 3088,
-  "2024-01-02": 3089,
-  "2024-01-03": 3088
+  "2024-01-17": 3107,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is Rodrigo Gonzalez. The essential tracks, all in one playlist.",
+  "name": "This Is Rodrigo Gonzalez",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "Algo De Suerte",
+      "url": "https://open.spotify.com/track/0ZGgIES5fy3c5W135lykST"
+    },
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270333,
+      "name": "Ama De Casa Un Poco Triste",
+      "url": "https://open.spotify.com/track/1UkPZxEEM5ck5gWTI2iNu3"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Amor De Telefono Esquinero",
+      "url": "https://open.spotify.com/track/1DKz8s5Ro0wVgt9f7zXsEi"
+    },
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "Asalto Chido",
+      "url": "https://open.spotify.com/track/0HX6AibpN8ejlt4JYGfkGw"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "Balada Del Asalariado",
+      "url": "https://open.spotify.com/track/4DTyt4bAO9MTLeef7ARbvj"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Cancion De Amor (De Jack El Destripador)",
+      "url": "https://open.spotify.com/track/6CT5XpnHcgwICjWRRfH9Qk"
+    },
+    {
+      "album": {
+        "name": "Decibels Loudness And Perception",
+        "url": "https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 559369,
+      "name": "Close The Door - Original Mix",
+      "url": "https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "Dicen Que La Muerte",
+      "url": "https://open.spotify.com/track/4XwZFbFwHEZlFMwXSzSpPv"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Distante Instante",
+      "url": "https://open.spotify.com/track/6q5ITxhCRAK98hh03pbgK4"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137573,
+      "name": "Diva Francesa",
+      "url": "https://open.spotify.com/track/7p2EqlcvushiV5rykUlIDZ"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351173,
+      "name": "El Feo",
+      "url": "https://open.spotify.com/track/3l6pDQO0OfeHTeXzr6rTfn"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288360,
+      "name": "Estacion Del Metro Balderas",
+      "url": "https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU"
+    },
+    {
+      "album": {
+        "name": "Get In",
+        "url": "https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef"
+      },
+      "artists": [
+        {
+          "name": "Mekane",
+          "url": "https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390236,
+      "name": "Get In - Bass In A Box Remix",
+      "url": "https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM"
+    },
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250880,
+      "name": "Huapanguero",
+      "url": "https://open.spotify.com/track/6j8hjB5DiTxtq7W4MHFDeM"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282773,
+      "name": "La Maquina Del Tiempo",
+      "url": "https://open.spotify.com/track/5kS9UDQMhmoDXLdm2zFYQb"
+    },
+    {
+      "album": {
+        "name": "El Viaje (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1qkhgSzOSCwZ809JLv4fJS"
+      },
+      "artists": [
+        {
+          "name": "Chico Trujillo",
+          "url": "https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co"
+        },
+        {
+          "name": "Wiracocha",
+          "url": "https://open.spotify.com/artist/3Bed96BaBI1MxnoggMiACW"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "La Partida",
+      "url": "https://open.spotify.com/track/6mes0R2e1oe1RZMPHymcHt"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206960,
+      "name": "Las Aventuras En El Defe",
+      "url": "https://open.spotify.com/track/5xI8SnxPGQA4kSt1InLWud"
+    },
+    {
+      "album": {
+        "name": "Aventuras En El Defe",
+        "url": "https://open.spotify.com/album/0YEo5rYkXvYJ8l2oJgJEed"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196426,
+      "name": "Los Intelectuales",
+      "url": "https://open.spotify.com/track/7zPsqNF4oTx9XQMRoNZt5y"
+    },
+    {
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/31sPRBlkwIXf4wGo3HnA6T"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456000,
+      "name": "Make Me Feel - Original Mix",
+      "url": "https://open.spotify.com/track/77LQaMRRaciUEzl0NgQN2v"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130146,
+      "name": "No Estoy Loco",
+      "url": "https://open.spotify.com/track/6qMMS6BRlyKrVU7uApmK3I"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271560,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1vD2RhbLWWdGZRUvUkWjAQ"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132466,
+      "name": "Oh, Yo No Se",
+      "url": "https://open.spotify.com/track/3fsyB1v2nRTk0Gkvq2Ju5g"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230026,
+      "name": "Puedes",
+      "url": "https://open.spotify.com/track/6nvQEtpzgZ6RWY4WVOsJqK"
+    },
+    {
+      "album": {
+        "name": "Take Me Higher",
+        "url": "https://open.spotify.com/album/04nHAVldhSET2NsLsAMn8u"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323301,
+      "name": "Samambaila - Original Mix",
+      "url": "https://open.spotify.com/track/3jF1PS0bJl7QMkYswXE31U"
+    },
+    {
+      "album": {
+        "name": "Naked Kings",
+        "url": "https://open.spotify.com/album/4Wa8qkocXOX38OVaWlkdlu"
+      },
+      "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 216927,
+      "name": "Schlechte T\u00e4nzer",
+      "url": "https://open.spotify.com/track/1FCiQlIciSBQK6sxSq9fiz"
+    },
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266773,
+      "name": "Solares Baldios",
+      "url": "https://open.spotify.com/track/6D8LxaWbw8V8gPG5RFusMc"
+    },
+    {
+      "album": {
+        "name": "El Profeta Del Nopal",
+        "url": "https://open.spotify.com/album/5jlpAuX1fjo6f3a5CN8LCt"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "Tiempo De Hibridos",
+      "url": "https://open.spotify.com/track/4Hf8kMwW4SEAm256nL6gbL"
+    },
+    {
+      "album": {
+        "name": "Hurbanistorias",
+        "url": "https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188173,
+      "name": "Vieja Ciudad De Hierro",
+      "url": "https://open.spotify.com/track/7pQiufMiF96UFnhmqB43Lo"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "\u00bfPor Que?",
+      "url": "https://open.spotify.com/track/6tOoL5m17SSwwpilAsyfmD"
+    },
+    {
+      "album": {
+        "name": "No Estoy Loco",
+        "url": "https://open.spotify.com/album/7iTLSVhwf8c3gSfuqhtKSq"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "\u00bfQue Hacer?",
+      "url": "https://open.spotify.com/track/7MfBvuWaFMjjPPT8ytfyin"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0443\u0447\u0448\u0438\u0435 \u0438\u0437 \u043b\u0443\u0447\u0448\u0438\u0445",
+        "url": "https://open.spotify.com/album/1hLwpeMefyrzXqv9ZXzx8u"
+      },
+      "artists": [
+        {
+          "name": "Tarakany!",
+          "url": "https://open.spotify.com/artist/3OZMcYBFNSr0ztFd82aJK9"
+        },
+        {
+          "name": "Rodrigo Gonzalez",
+          "url": "https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216686,
+      "name": "\u041f\u043b\u043e\u0445\u0438\u0435 \u0442\u0430\u043d\u0446\u043e\u0440\u044b",
+      "url": "https://open.spotify.com/track/1BL9LAr8nGZqXX3pYzEbMr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WFUvk"
 }

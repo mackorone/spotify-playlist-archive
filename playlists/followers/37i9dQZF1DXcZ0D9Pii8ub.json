@@ -1,54 +1,529 @@
 {
-  "2023-11-11": 764,
-  "2023-11-12": 764,
-  "2023-11-13": 764,
-  "2023-11-14": 764,
-  "2023-11-15": 764,
-  "2023-11-16": 764,
-  "2023-11-17": 883,
-  "2023-11-18": 883,
-  "2023-11-19": 883,
-  "2023-11-20": 883,
-  "2023-11-21": 883,
-  "2023-11-22": 883,
-  "2023-11-23": 907,
-  "2023-11-24": 907,
-  "2023-11-25": 907,
-  "2023-11-26": 907,
-  "2023-11-27": 907,
-  "2023-11-28": 907,
-  "2023-11-29": 907,
-  "2023-11-30": 907,
-  "2023-12-01": 907,
-  "2023-12-02": 907,
-  "2023-12-03": 907,
-  "2023-12-04": 907,
-  "2023-12-05": 907,
-  "2023-12-06": 907,
-  "2023-12-07": 907,
-  "2023-12-08": 907,
-  "2023-12-09": 970,
-  "2023-12-10": 970,
-  "2023-12-11": 976,
-  "2023-12-12": 976,
-  "2023-12-13": 976,
-  "2023-12-14": 984,
-  "2023-12-15": 985,
-  "2023-12-16": 986,
-  "2023-12-17": 987,
-  "2023-12-18": 989,
-  "2023-12-19": 993,
-  "2023-12-20": 993,
-  "2023-12-21": 995,
-  "2023-12-22": 992,
-  "2023-12-23": 994,
-  "2023-12-24": 995,
-  "2023-12-25": 1000,
-  "2023-12-26": 1002,
-  "2023-12-27": 1001,
-  "2023-12-30": 1009,
-  "2023-12-31": 1014,
-  "2024-01-01": 1015,
-  "2024-01-02": 1017,
-  "2024-01-03": 1020
+  "2024-01-17": 1052,
+  "date_first_scraped": "2023-11-11",
+  "description": "Spotify\u30aa\u30ea\u30b8\u30ca\u30eb\u4f01\u753b\u300cLiner Voice+(\u30e9\u30a4\u30ca\u30fc\u30dc\u30a4\u30b9\u30d7\u30e9\u30b9)\u300d\u3002Awich \u30cb\u30e5\u30fc\u30a2\u30eb\u30d0\u30e0\u300eTHE UNION\u300f\u3092Awich\u672c\u4eba\u304c\u5168\u66f2\u30c7\u30a3\u30fc\u30d7\u306b\u89e3\u8aac\uff01\u30a4\u30f3\u30bf\u30d3\u30e5\u30a2\u30fc\uff1a\u6e21\u8fba\u5fd7\u4fdd",
+  "name": "Liner Voice+  Awich\u300eTHE UNION\u300f",
+  "tracks": [
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204568,
+      "name": "Ali Baba (feat. MFS & ralph) - Remix",
+      "url": "https://open.spotify.com/track/3Gmwg6yc89O20kDpWSn06o"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94271,
+      "name": "Awich Liner Voice+ Epilogue",
+      "url": "https://open.spotify.com/track/1fGIePmdqNAJmXBx0i5oOl"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412408,
+      "name": "Awich Liner Voice+ Prologue",
+      "url": "https://open.spotify.com/track/3ikx9gasWU0dtX2lE0Obds"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427336,
+      "name": "Awich\u304c\u8a9e\u308b\u300c Wait For Me (Prod. JIGG)\u300d",
+      "url": "https://open.spotify.com/track/0j1ZztqINUq2VRZwULuca5"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319801,
+      "name": "Awich\u304c\u8a9e\u308b\u300cALI BABA Remix feat. MFS, ralph\u300d",
+      "url": "https://open.spotify.com/track/1vLzFfOj0SeUicfrwzOXHv"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475299,
+      "name": "Awich\u304c\u8a9e\u308b\u300cBad Bitch \u7f8e\u5b66 Remix with NENE, MaRI, LANA, AI, YURIYAN RETRIEVER\u300d",
+      "url": "https://open.spotify.com/track/1JztsTKXwqzOImXL0rQUkN"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410308,
+      "name": "Awich\u304c\u8a9e\u308b\u300cBurn Down feat. GADORO (Prod. Trill Dynasty)\u300d",
+      "url": "https://open.spotify.com/track/67sBTukEx9jPmwv8HJ3nSJ"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317718,
+      "name": "Awich\u304c\u8a9e\u308b\u300cCall On Me (Prod. STY, Chaki Zulu)\u300d",
+      "url": "https://open.spotify.com/track/5ET5DemWGfOBDWQmeXlm3h"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263008,
+      "name": "Awich\u304c\u8a9e\u308b\u300cGuerilla (Prod. Dr.R)\u300d",
+      "url": "https://open.spotify.com/track/3SViD90kEOBX7u9EF6cuVK"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153974,
+      "name": "Awich\u304c\u8a9e\u308b\u300cInterlude\u300d",
+      "url": "https://open.spotify.com/track/0hIrsdxRrkDZWCjP0ZitWk"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502308,
+      "name": "Awich\u304c\u8a9e\u308b\u300cRASEN in OKINAWA (Prod. Diego Ave) with \u553e\u5947 OZworld, CHICO CARLITO\u300d",
+      "url": "https://open.spotify.com/track/7eVtxbz9crMvoTKWO9D94G"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 668282,
+      "name": "Awich\u304c\u8a9e\u308b\u300cTHE UNION (Prod. Chaki Zulu)\u300d",
+      "url": "https://open.spotify.com/track/0XxsW59cC5TwqF74i7RZgJ"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385808,
+      "name": "Awich\u304c\u8a9e\u308b\u300cTwinkle Star (Prod. STUTS) feat. BIM\u300d",
+      "url": "https://open.spotify.com/track/2xefC4JZrURzgz7jpJYD0a"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447607,
+      "name": "Awich\u304c\u8a9e\u308b\u300c\u304b\u304f\u308c\u3093\u307c(Prod. Chaki Zulu)\u300d",
+      "url": "https://open.spotify.com/track/0dIhTvkjh8e4DyuqCefP0w"
+    },
+    {
+      "album": {
+        "name": "Liner Voice+ Awich\u300cTHE UNION\u300d",
+        "url": "https://open.spotify.com/album/6XrW58OJdHYiZnsFbwNd80"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320702,
+      "name": "Awich\u304c\u8a9e\u308b\u300c\u53e3\u306b\u51fa\u3057\u3066 2 (Prod. KM)\u300d",
+      "url": "https://open.spotify.com/track/789VclWti6oYxWvHefmSYJ"
+    },
+    {
+      "album": {
+        "name": "United Queens",
+        "url": "https://open.spotify.com/album/016yxPrHB2gjtuvx6SqGyr"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        },
+        {
+          "name": "LANA",
+          "url": "https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT"
+        },
+        {
+          "name": "MaRI",
+          "url": "https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi"
+        },
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "YURIYAN RETRIEVER",
+          "url": "https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369111,
+      "name": "Bad Bitch Bigaku Remix",
+      "url": "https://open.spotify.com/track/7HBhfTW2zcldEs0qsXuvT2"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "GADORO",
+          "url": "https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296617,
+      "name": "Burn Down (feat. GADORO)",
+      "url": "https://open.spotify.com/track/52hIH0CnuWdYCGAPLyUEye"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196175,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1e3mXhGDxuntmvO1sVACT2"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168599,
+      "name": "Guerilla",
+      "url": "https://open.spotify.com/track/5DNC77KlKgEIzkZVZBAtdS"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19920,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/5XQp1Rvq9IAaxpGS0brOvI"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184240,
+      "name": "Kakurembo",
+      "url": "https://open.spotify.com/track/3vAOwkClLD0cwNrQ5i5dDg"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "Tsubaki",
+          "url": "https://open.spotify.com/artist/1kTgsTapNxgD7vcgcBoxMx"
+        },
+        {
+          "name": "OZworld",
+          "url": "https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289846,
+      "name": "RASEN in OKINAWA",
+      "url": "https://open.spotify.com/track/0fMmPHi9En7OQBH08Zqxq9"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217067,
+      "name": "Say It All 2",
+      "url": "https://open.spotify.com/track/4eVvOOMDDk7Axq3hK8AlGp"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219331,
+      "name": "THE UNION",
+      "url": "https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286366,
+      "name": "Twinkle Stars (feat. BIM)",
+      "url": "https://open.spotify.com/track/2xOLmtjnAX12xklZD05SOw"
+    },
+    {
+      "album": {
+        "name": "THE UNION",
+        "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2023-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252361,
+      "name": "Wait For Me",
+      "url": "https://open.spotify.com/track/5fqDukIEgU8Zn8aJxumLdd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcZ0D9Pii8ub"
 }

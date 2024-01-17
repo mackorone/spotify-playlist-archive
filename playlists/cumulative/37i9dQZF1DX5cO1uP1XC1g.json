@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Arabic hits all in one place. Cover:  Ahmed Saad & Bahaa Sultan",
+  "description": "The biggest Arabic hits all in one place. Cover:  DYSTINCT",
   "name": "Yalla ",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 253384,
       "name": "Ader Akmel",
       "url": "https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q"
@@ -1340,6 +1340,32 @@
       "duration_ms": 196952,
       "name": "Di Halawa",
       "url": "https://open.spotify.com/track/3BW4RcvJUYGtnPOzppeVW9"
+    },
+    {
+      "album": {
+        "name": "Di Mochkila",
+        "url": "https://open.spotify.com/album/0O3gGUuUaEOMLyhFH91KHK"
+      },
+      "artists": [
+        {
+          "name": "Oualid",
+          "url": "https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y"
+        },
+        {
+          "name": "Norel",
+          "url": "https://open.spotify.com/artist/5GDRJ2wLCUGI1ryefQ3f3t"
+        },
+        {
+          "name": "YAM",
+          "url": "https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145783,
+      "name": "Di Mochkila",
+      "url": "https://open.spotify.com/track/3iEya2BDyWT88tM8fOJJx3"
     },
     {
       "album": {
@@ -3188,6 +3214,24 @@
       "duration_ms": 203076,
       "name": "Koun",
       "url": "https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j"
+    },
+    {
+      "album": {
+        "name": "LAYALI",
+        "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148328,
+      "name": "La",
+      "url": "https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0"
     },
     {
       "album": {
@@ -5058,7 +5102,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 280000,
       "name": "Ya 3araf",
       "url": "https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF"
@@ -5638,7 +5682,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 172232,
       "name": "\u0627\u0644\u064a\u0648\u0645 \u0627\u0644\u062d\u0644\u0648 \u062f\u0647",
       "url": "https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR"
@@ -5668,8 +5712,8 @@
       },
       "artists": [
         {
-          "name": "Farid",
-          "url": "https://open.spotify.com/artist/6hcm0x8MMc4txLimxz3PeK"
+          "name": "farid",
+          "url": "https://open.spotify.com/artist/1gSaqK4ZkM1P44SeOi3ay9"
         },
         {
           "name": "Ramy Gamal",

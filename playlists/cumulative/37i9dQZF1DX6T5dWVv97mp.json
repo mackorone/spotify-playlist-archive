@@ -1074,10 +1074,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 315813,
       "name": "London Bridges",
       "url": "https://open.spotify.com/track/1QxJy1uqmjbcWUvg0OxIxH"
+    },
+    {
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/585xvDnZd0xCi0ZZ8vqUTJ"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317296,
+      "name": "London Bridges",
+      "url": "https://open.spotify.com/track/6h3NclauCIt8Gh6LOtAhWV"
     },
     {
       "album": {
@@ -1514,6 +1532,24 @@
     {
       "album": {
         "name": "All the Unknown",
+        "url": "https://open.spotify.com/album/1KH7ZMxIWPvw5tCDO43ZUX"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298730,
+      "name": "Shorelines",
+      "url": "https://open.spotify.com/track/4kFQlkYrZRr172migt59Ww"
+    },
+    {
+      "album": {
+        "name": "All the Unknown",
         "url": "https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q"
       },
       "artists": [
@@ -1524,7 +1560,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 298733,
       "name": "Shorelines",
       "url": "https://open.spotify.com/track/3jp7xKenvg8D6KsMNDglGI"
@@ -1806,10 +1842,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 133727,
       "name": "Valentin's Blood Flows",
       "url": "https://open.spotify.com/track/0BS0GX5BGXKP2keUYwEe0D"
+    },
+    {
+      "album": {
+        "name": "Bloodflow",
+        "url": "https://open.spotify.com/album/7JqNcyb6iNM60DwWg6TubE"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "date_added": "2023-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133727,
+      "name": "Valentin's Blood Flows",
+      "url": "https://open.spotify.com/track/4k4VnadumDheYScQVoY94f"
     },
     {
       "album": {

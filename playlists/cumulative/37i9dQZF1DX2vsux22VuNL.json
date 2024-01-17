@@ -3807,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "mapa da mina",
+        "url": "https://open.spotify.com/album/1uVdxFe5nZky5FoesZaM3F"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163375,
+      "name": "mapa da mina",
+      "url": "https://open.spotify.com/track/5FJHgBu1z2ou3xRqwtCbzq"
+    },
+    {
+      "album": {
         "name": "Mar Azul",
         "url": "https://open.spotify.com/album/2hQCBlSmSzix8XhwW3Pvpp"
       },
@@ -3822,7 +3840,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 231009,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/6Hybh8fGT56gt4519e8RCy"
@@ -4042,6 +4060,32 @@
       "duration_ms": 208725,
       "name": "Meu Fechamento",
       "url": "https://open.spotify.com/track/1Qh2N24WF6Vm0hJsWixrGr"
+    },
+    {
+      "album": {
+        "name": "Meus Olhos",
+        "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188548,
+      "name": "Meus Olhos",
+      "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
     },
     {
       "album": {
@@ -4710,7 +4754,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 193411,
       "name": "O Mundo Diz Que N\u00e3o",
       "url": "https://open.spotify.com/track/7LIV1m645RIzjOnAft6A7Q"
@@ -6226,8 +6270,8 @@
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "MVP Hits",
+          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
         },
         {
           "name": "Som de Faculdade",
@@ -6250,8 +6294,8 @@
           "url": "https://open.spotify.com/artist/4V1YcMK3Rf6sXJiCg19fBZ"
         },
         {
-          "name": "MVP Hits",
-          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         }
       ],
       "date_added": "2023-12-15",

@@ -4,7 +4,7 @@
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-216 songs - 13 hr 21 min
+217 songs - 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 | 2022-03-11 | 2022-07-29 |
 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 | 2022-03-11 |  |
 | [El tiempo no sana](https://open.spotify.com/track/1NsdgBODEl2SjYdpS1KjaR) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [El tiempo no sana](https://open.spotify.com/album/1DcGluHwbA2dFO1NFr8D45) | 3:14 | 2022-03-11 | 2022-07-29 |
-| [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 | 2022-03-11 | 2023-12-30 |
+| [El Viejo](https://open.spotify.com/track/0OeQTNHCtHLc9KX7X7GFbb) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 2:55 | 2022-03-11 | 2024-01-10 |
 | [El Vuelo](https://open.spotify.com/track/5Pk69ZIXRM609NzKwR4qh7) | [El Cuatro](https://open.spotify.com/artist/4mvxsiRtfNI2fXwYJBNEJk), [Juan Galeano](https://open.spotify.com/artist/3jOMjx1le3Pyy4bFQ16nOG) | [El Vuelo](https://open.spotify.com/album/0GzgTFqH0ryq3Y4RQWQhxY) | 4:20 | 2022-03-11 | 2022-06-24 |
 | [Elliott](https://open.spotify.com/track/46szXyZQiOn41KjlqN2l6c) | [Electric Mistakes](https://open.spotify.com/artist/0ldUZhQvtuQocn7G6eQuHf) | [Vicente](https://open.spotify.com/album/0JcrscYFkFYhXwHpIDpM1k) | 4:13 | 2022-03-11 | 2022-06-22 |
 | [Emergencia](https://open.spotify.com/track/30LYwIjX1dWUaz7iLnW37U) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV), [Francisco Martí](https://open.spotify.com/artist/3MpSMrGGc9T5Ko5Il5awPL) | [Emergencia](https://open.spotify.com/album/682f5lyI07hukhfvdyzK8p) | 3:28 | 2022-03-11 | 2022-07-25 |
@@ -98,7 +98,8 @@
 | [Imperfecto](https://open.spotify.com/track/4R6DD2CkTKYbykmWhudPwT) | [LAPM](https://open.spotify.com/artist/35JXVdeNoxBKqiP2e618h3) | [Laberinto](https://open.spotify.com/album/4gBc1WuLPdxC0WP1EY8Hz4) | 2:51 | 2022-03-11 | 2022-07-27 |
 | [Izquierdo](https://open.spotify.com/track/4aaMXe35v7KRZN0OjIq7Tq) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [Pnmt Corrosion](https://open.spotify.com/album/0xOHxNbGBa4EwxHddofv96) | 3:35 | 2022-06-24 |  |
 | [Izquierdo](https://open.spotify.com/track/6SvhyqpDzYVJSCz9OC74LO) | [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [PORNOMOTORA](https://open.spotify.com/album/5pqsiSUd55b6uedgXKtaXo) | 3:35 | 2022-03-11 | 2022-07-29 |
-| [Jardines](https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:38 | 2023-04-14 |  |
+| [Jardines](https://open.spotify.com/track/4xvuJOjKCZCdGwbr2Hfz61) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:38 | 2023-04-14 | 2024-01-13 |
+| [Jardines](https://open.spotify.com/track/6q170s6Dnxe4njEXGcZPM4) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3pYi6ViS4cT8KBME5Qqg56) | 3:38 | 2023-10-07 |  |
 | [John](https://open.spotify.com/track/28eWqDEuNv9Fd24c5VJzKd) | [Electric Mistakes](https://open.spotify.com/artist/0ldUZhQvtuQocn7G6eQuHf), [Camilo Maldonado](https://open.spotify.com/artist/64npCwEEK41zwGH9XpfI0d) | [John](https://open.spotify.com/album/1PbYex30EYVc60qE5YPZeV) | 4:04 | 2022-03-11 | 2022-06-23 |
 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 | 2022-03-11 | 2022-07-29 |
 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 | 2022-03-11 | 2022-11-11 |

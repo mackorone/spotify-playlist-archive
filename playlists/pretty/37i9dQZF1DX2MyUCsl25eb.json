@@ -1,13 +1,33 @@
 {
   "description": "Easy feels on your way to work, or wherever you're commuting to this morning.",
-  "num_followers": 984442,
+  "num_followers": 977982,
   "original_name": "Morning Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ODA5MGYxOWFhZTA2ZjA4OTMzMGZlYjBlODE0NTI4NTk0MmNiZWY4",
+  "snapshot_id": "MCxhOTBhNGQ0YjU3MjNjYjQ0ODE3OWNlMjcyZTc5NGQ2NGYzOTE1NmQ4",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "If you love me",
+        "url": "https://open.spotify.com/album/60nVtffyFBqZuhUiHiGPUe"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 216306,
+      "name": "If you love me",
+      "url": "https://open.spotify.com/track/1u2PALe54ded9KMIhb9chD"
+    },
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
@@ -23,6 +43,38 @@
       "duration_ms": 188875,
       "name": "Don't Need to Sleep",
       "url": "https://open.spotify.com/track/0CGrKBmgI0jrkt3Qd1PM4t"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Ain't She",
+        "url": "https://open.spotify.com/album/12fYeAlRe8VerekcXcHZvy"
+      },
+      "artists": [
+        {
+          "name": "Adam Doleac",
+          "url": "https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Ain't She",
+      "url": "https://open.spotify.com/track/5jSjOdVDA4pL4geykH3riL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 228376,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -45,20 +97,20 @@
       "url": "https://open.spotify.com/track/73OY8N8vCvK9iKuPoEtSNG"
     },
     {
-      "added_at": "2023-12-15 05:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Sleepwalking",
-        "url": "https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU"
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
       },
       "artists": [
         {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 228376,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
       "added_at": "2023-12-08 05:01:00",
@@ -75,6 +127,22 @@
       "duration_ms": 232304,
       "name": "I'm Going To Love You",
       "url": "https://open.spotify.com/track/4pc5bjb46APavK40b2LC6W"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Learn To Live Without You / Better Than Anything",
+        "url": "https://open.spotify.com/album/1EzOWqVvTiEDzWaWt5YLxV"
+      },
+      "artists": [
+        {
+          "name": "Corey Harper",
+          "url": "https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm"
+        }
+      ],
+      "duration_ms": 190052,
+      "name": "Learn To Live Without You",
+      "url": "https://open.spotify.com/track/4JU2iK9bpsfGrd5UMvt0D7"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -141,38 +209,6 @@
       "url": "https://open.spotify.com/track/3oSGigVd5RezNkTV9PRGmL"
     },
     {
-      "added_at": "2023-12-01 05:01:00",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
-    },
-    {
       "added_at": "2023-11-17 05:01:00",
       "album": {
         "name": "Loved",
@@ -187,6 +223,22 @@
       "duration_ms": 194772,
       "name": "Loved",
       "url": "https://open.spotify.com/track/5TrIYP0VcwpwSs2Qk9G8Rn"
+    },
+    {
+      "added_at": "2023-12-01 05:01:00",
+      "album": {
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1285,26 +1337,6 @@
       "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
     },
     {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
-    },
-    {
       "added_at": "2023-09-15 04:01:00",
       "album": {
         "name": "Somebody",
@@ -1629,22 +1661,6 @@
       "url": "https://open.spotify.com/track/7HPAtYzMyBkf5eBcHK6T4x"
     },
     {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "we all could use some help",
-        "url": "https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 143146,
-      "name": "we all could use some help",
-      "url": "https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
@@ -1723,22 +1739,6 @@
       "duration_ms": 213000,
       "name": "On Fire (Ingrid Andress Version)",
       "url": "https://open.spotify.com/track/79z7tGjpNtsgHwZxYCb5EM"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Love Lines",
-        "url": "https://open.spotify.com/album/6E7FmOKkt2McJF0I411HzL"
-      },
-      "artists": [
-        {
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "duration_ms": 210980,
-      "name": "Dayglow",
-      "url": "https://open.spotify.com/track/4YAaaOovDd3v20msKGvqdp"
     }
   ],
   "unique_name": "Morning Commute",

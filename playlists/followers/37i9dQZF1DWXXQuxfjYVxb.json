@@ -1,430 +1,877 @@
 {
-  "2022-10-29": 621506,
-  "2022-10-30": 621624,
-  "2022-10-31": 621716,
-  "2022-11-01": 621830,
-  "2022-11-02": 621954,
-  "2022-11-03": 622127,
-  "2022-11-04": 622245,
-  "2022-11-05": 622372,
-  "2022-11-06": 622515,
-  "2022-11-07": 622614,
-  "2022-11-08": 622711,
-  "2022-11-09": 622827,
-  "2022-11-10": 622975,
-  "2022-11-11": 623133,
-  "2022-11-12": 623339,
-  "2022-11-13": 623492,
-  "2022-11-14": 623642,
-  "2022-11-15": 623787,
-  "2022-11-16": 623971,
-  "2022-11-17": 624137,
-  "2022-11-18": 624187,
-  "2022-11-19": 624118,
-  "2022-11-20": 624132,
-  "2022-11-21": 624295,
-  "2022-11-22": 624713,
-  "2022-11-23": 624635,
-  "2022-11-24": 625008,
-  "2022-11-25": 625427,
-  "2022-11-26": 625706,
-  "2022-11-27": 625941,
-  "2022-11-28": 626145,
-  "2022-11-29": 626279,
-  "2022-11-30": 626398,
-  "2022-12-01": 626567,
-  "2022-12-02": 626733,
-  "2022-12-03": 626901,
-  "2022-12-04": 627109,
-  "2022-12-05": 627289,
-  "2022-12-06": 627448,
-  "2022-12-07": 627646,
-  "2022-12-08": 627840,
-  "2022-12-09": 628019,
-  "2022-12-10": 628175,
-  "2022-12-11": 628385,
-  "2022-12-12": 628543,
-  "2022-12-13": 628708,
-  "2022-12-14": 628856,
-  "2022-12-15": 629042,
-  "2022-12-16": 629170,
-  "2022-12-17": 629394,
-  "2022-12-18": 629609,
-  "2022-12-19": 629779,
-  "2022-12-20": 630139,
-  "2022-12-21": 630139,
-  "2022-12-22": 630309,
-  "2022-12-24": 630617,
-  "2022-12-25": 630798,
-  "2022-12-26": 630934,
-  "2022-12-27": 631080,
-  "2022-12-28": 631244,
-  "2022-12-29": 631410,
-  "2022-12-30": 631574,
-  "2022-12-31": 631782,
-  "2023-01-01": 631993,
-  "2023-01-02": 632140,
-  "2023-01-03": 632312,
-  "2023-01-04": 632466,
-  "2023-01-05": 632605,
-  "2023-01-06": 632798,
-  "2023-01-07": 633095,
-  "2023-01-08": 633139,
-  "2023-01-09": 633279,
-  "2023-01-10": 633461,
-  "2023-01-11": 633621,
-  "2023-01-12": 633816,
-  "2023-01-13": 633991,
-  "2023-01-14": 634268,
-  "2023-01-15": 634330,
-  "2023-01-16": 634470,
-  "2023-01-17": 634616,
-  "2023-01-18": 634792,
-  "2023-01-19": 634984,
-  "2023-01-20": 635135,
-  "2023-01-21": 635314,
-  "2023-01-22": 635496,
-  "2023-01-23": 635672,
-  "2023-01-24": 635811,
-  "2023-01-25": 635934,
-  "2023-01-26": 636067,
-  "2023-01-27": 636231,
-  "2023-01-28": 636410,
-  "2023-01-29": 636579,
-  "2023-01-30": 636755,
-  "2023-01-31": 636755,
-  "2023-02-01": 637018,
-  "2023-02-02": 637168,
-  "2023-02-03": 637347,
-  "2023-02-04": 637496,
-  "2023-02-05": 637663,
-  "2023-02-06": 637835,
-  "2023-02-07": 638018,
-  "2023-02-08": 638379,
-  "2023-02-09": 638379,
-  "2023-02-10": 638558,
-  "2023-02-11": 638747,
-  "2023-02-12": 639095,
-  "2023-02-13": 639261,
-  "2023-02-14": 639261,
-  "2023-02-15": 639455,
-  "2023-02-16": 639587,
-  "2023-02-17": 639778,
-  "2023-02-18": 640110,
-  "2023-02-19": 640126,
-  "2023-02-20": 640246,
-  "2023-02-21": 640388,
-  "2023-02-22": 640528,
-  "2023-02-23": 640670,
-  "2023-02-24": 640830,
-  "2023-02-25": 641068,
-  "2023-02-26": 641176,
-  "2023-02-27": 641495,
-  "2023-02-28": 641495,
-  "2023-03-01": 641604,
-  "2023-03-02": 641781,
-  "2023-03-03": 641928,
-  "2023-03-04": 642062,
-  "2023-03-05": 642340,
-  "2023-03-06": 642340,
-  "2023-03-07": 642472,
-  "2023-03-08": 642618,
-  "2023-03-09": 642754,
-  "2023-03-10": 642876,
-  "2023-03-11": 643029,
-  "2023-03-12": 643193,
-  "2023-03-13": 643310,
-  "2023-03-14": 643435,
-  "2023-03-15": 643546,
-  "2023-03-16": 643708,
-  "2023-03-17": 643708,
-  "2023-03-18": 643986,
-  "2023-03-19": 644142,
-  "2023-03-20": 644268,
-  "2023-03-21": 644381,
-  "2023-03-22": 644507,
-  "2023-03-23": 644618,
-  "2023-03-24": 644618,
-  "2023-03-25": 644884,
-  "2023-03-26": 645049,
-  "2023-03-27": 645140,
-  "2023-03-28": 645242,
-  "2023-03-29": 645374,
-  "2023-03-30": 645628,
-  "2023-03-31": 645628,
-  "2023-04-01": 645796,
-  "2023-04-02": 645948,
-  "2023-04-03": 646078,
-  "2023-04-04": 646180,
-  "2023-04-05": 646321,
-  "2023-04-06": 646460,
-  "2023-04-07": 646594,
-  "2023-04-09": 646890,
-  "2023-04-10": 647006,
-  "2023-04-11": 647269,
-  "2023-04-12": 647269,
-  "2023-04-13": 647372,
-  "2023-04-14": 647487,
-  "2023-04-15": 647608,
-  "2023-04-16": 647773,
-  "2023-04-17": 647919,
-  "2023-04-18": 648061,
-  "2023-04-19": 648160,
-  "2023-04-20": 648299,
-  "2023-04-21": 648464,
-  "2023-04-22": 648630,
-  "2023-04-23": 648748,
-  "2023-04-24": 648878,
-  "2023-04-25": 648969,
-  "2023-04-26": 649083,
-  "2023-04-27": 649227,
-  "2023-04-28": 649374,
-  "2023-04-29": 649510,
-  "2023-04-30": 649646,
-  "2023-05-01": 649789,
-  "2023-05-02": 649894,
-  "2023-05-03": 650024,
-  "2023-05-04": 650173,
-  "2023-05-05": 650299,
-  "2023-05-06": 650479,
-  "2023-05-07": 650624,
-  "2023-05-08": 650754,
-  "2023-05-09": 650868,
-  "2023-05-10": 651005,
-  "2023-05-11": 651171,
-  "2023-05-12": 651318,
-  "2023-05-13": 651477,
-  "2023-05-14": 651644,
-  "2023-05-15": 651784,
-  "2023-05-16": 651895,
-  "2023-05-17": 652051,
-  "2023-05-18": 652162,
-  "2023-05-19": 652292,
-  "2023-05-20": 652536,
-  "2023-05-21": 652536,
-  "2023-05-22": 652536,
-  "2023-05-23": 652748,
-  "2023-05-24": 652956,
-  "2023-05-25": 652974,
-  "2023-05-26": 653097,
-  "2023-05-27": 653233,
-  "2023-05-28": 653327,
-  "2023-05-29": 653327,
-  "2023-05-30": 653550,
-  "2023-05-31": 653679,
-  "2023-06-01": 653800,
-  "2023-06-02": 653909,
-  "2023-06-03": 654076,
-  "2023-06-04": 654251,
-  "2023-06-05": 654390,
-  "2023-06-06": 654526,
-  "2023-06-07": 654698,
-  "2023-06-08": 654812,
-  "2023-06-09": 654990,
-  "2023-06-10": 655179,
-  "2023-06-11": 655389,
-  "2023-06-12": 655520,
-  "2023-06-13": 655634,
-  "2023-06-14": 655712,
-  "2023-06-15": 655790,
-  "2023-06-16": 131419,
-  "2023-06-17": 131419,
-  "2023-06-18": 131419,
-  "2023-06-19": 131419,
-  "2023-06-20": 131419,
-  "2023-06-21": 131419,
-  "2023-06-22": 131419,
-  "2023-06-23": 131419,
-  "2023-06-24": 131419,
-  "2023-06-25": 131419,
-  "2023-06-26": 131419,
-  "2023-06-27": 131419,
-  "2023-06-28": 131419,
-  "2023-06-29": 131419,
-  "2023-06-30": 131419,
-  "2023-07-01": 131419,
-  "2023-07-02": 131419,
-  "2023-07-03": 131419,
-  "2023-07-04": 131419,
-  "2023-07-05": 131419,
-  "2023-07-06": 131419,
-  "2023-07-07": 131419,
-  "2023-07-08": 131419,
-  "2023-07-09": 131419,
-  "2023-07-10": 131419,
-  "2023-07-11": 131419,
-  "2023-07-12": 131419,
-  "2023-07-13": 131419,
-  "2023-07-14": 131419,
-  "2023-07-15": 131419,
-  "2023-07-16": 131419,
-  "2023-07-17": 131419,
-  "2023-07-18": 131419,
-  "2023-07-19": 131419,
-  "2023-07-20": 131419,
-  "2023-07-21": 131419,
-  "2023-07-22": 131419,
-  "2023-07-23": 131419,
-  "2023-07-24": 131419,
-  "2023-07-25": 131419,
-  "2023-07-26": 131419,
-  "2023-07-27": 131419,
-  "2023-07-28": 131419,
-  "2023-07-29": 131419,
-  "2023-07-30": 131419,
-  "2023-07-31": 131419,
-  "2023-08-01": 131419,
-  "2023-08-02": 131419,
-  "2023-08-03": 131419,
-  "2023-08-04": 131419,
-  "2023-08-05": 131419,
-  "2023-08-06": 131419,
-  "2023-08-07": 131419,
-  "2023-08-08": 131419,
-  "2023-08-09": 131419,
-  "2023-08-10": 131419,
-  "2023-08-11": 131419,
-  "2023-08-12": 131419,
-  "2023-08-13": 131419,
-  "2023-08-14": 131419,
-  "2023-08-15": 131419,
-  "2023-08-16": 131419,
-  "2023-08-17": 131419,
-  "2023-08-18": 131419,
-  "2023-08-19": 131419,
-  "2023-08-20": 131419,
-  "2023-08-21": 131419,
-  "2023-08-22": 131419,
-  "2023-08-23": 131419,
-  "2023-08-24": 131419,
-  "2023-08-25": 131419,
-  "2023-08-26": 131419,
-  "2023-08-27": 131419,
-  "2023-08-28": 131419,
-  "2023-08-29": 131419,
-  "2023-08-30": 131419,
-  "2023-08-31": 131419,
-  "2023-09-01": 131419,
-  "2023-09-02": 131419,
-  "2023-09-03": 131419,
-  "2023-09-04": 131419,
-  "2023-09-05": 131419,
-  "2023-09-06": 131419,
-  "2023-09-07": 131419,
-  "2023-09-08": 131419,
-  "2023-09-09": 131419,
-  "2023-09-10": 131419,
-  "2023-09-11": 131419,
-  "2023-09-12": 131419,
-  "2023-09-13": 131419,
-  "2023-09-14": 131419,
-  "2023-09-15": 131419,
-  "2023-09-16": 131419,
-  "2023-09-17": 131419,
-  "2023-09-18": 131419,
-  "2023-09-19": 131419,
-  "2023-09-20": 131419,
-  "2023-09-21": 131419,
-  "2023-09-22": 131419,
-  "2023-09-23": 131419,
-  "2023-09-24": 131419,
-  "2023-09-25": 131419,
-  "2023-09-26": 131419,
-  "2023-09-27": 131419,
-  "2023-09-28": 131419,
-  "2023-09-29": 131419,
-  "2023-09-30": 131419,
-  "2023-10-01": 131419,
-  "2023-10-02": 131419,
-  "2023-10-03": 131419,
-  "2023-10-04": 131419,
-  "2023-10-05": 131419,
-  "2023-10-06": 131419,
-  "2023-10-07": 131419,
-  "2023-10-08": 131419,
-  "2023-10-09": 131419,
-  "2023-10-10": 131419,
-  "2023-10-11": 131419,
-  "2023-10-12": 131419,
-  "2023-10-13": 131419,
-  "2023-10-14": 131419,
-  "2023-10-15": 131419,
-  "2023-10-16": 131419,
-  "2023-10-17": 131419,
-  "2023-10-18": 131419,
-  "2023-10-19": 131419,
-  "2023-10-20": 131419,
-  "2023-10-21": 131419,
-  "2023-10-22": 131419,
-  "2023-10-23": 131419,
-  "2023-10-24": 131419,
-  "2023-10-25": 131419,
-  "2023-10-26": 131419,
-  "2023-10-27": 131419,
-  "2023-10-28": 131419,
-  "2023-10-29": 131419,
-  "2023-10-30": 131419,
-  "2023-10-31": 131419,
-  "2023-11-01": 131419,
-  "2023-11-02": 131419,
-  "2023-11-03": 131419,
-  "2023-11-04": 131419,
-  "2023-11-05": 131419,
-  "2023-11-06": 131419,
-  "2023-11-07": 131419,
-  "2023-11-08": 131419,
-  "2023-11-09": 131419,
-  "2023-11-10": 131419,
-  "2023-11-11": 131419,
-  "2023-11-12": 131419,
-  "2023-11-13": 131419,
-  "2023-11-14": 131419,
-  "2023-11-15": 131419,
-  "2023-11-16": 131419,
-  "2023-11-17": 131419,
-  "2023-11-18": 131419,
-  "2023-11-19": 131419,
-  "2023-11-20": 131419,
-  "2023-11-21": 131419,
-  "2023-11-22": 131419,
-  "2023-11-23": 131419,
-  "2023-11-24": 131419,
-  "2023-11-25": 131419,
-  "2023-11-26": 131419,
-  "2023-11-27": 131419,
-  "2023-11-28": 131419,
-  "2023-11-29": 131419,
-  "2023-11-30": 131419,
-  "2023-12-01": 131419,
-  "2023-12-02": 131419,
-  "2023-12-03": 131419,
-  "2023-12-04": 131419,
-  "2023-12-05": 131419,
-  "2023-12-06": 131419,
-  "2023-12-07": 131419,
-  "2023-12-08": 131419,
-  "2023-12-09": 131419,
-  "2023-12-10": 131419,
-  "2023-12-11": 131419,
-  "2023-12-12": 131419,
-  "2023-12-13": 131419,
-  "2023-12-14": 131419,
-  "2023-12-15": 131419,
-  "2023-12-16": 131419,
-  "2023-12-17": 131419,
-  "2023-12-18": 131419,
-  "2023-12-19": 131419,
-  "2023-12-20": 131419,
-  "2023-12-21": 131419,
-  "2023-12-22": 131419,
-  "2023-12-23": 131419,
-  "2023-12-24": 131419,
-  "2023-12-25": 131419,
-  "2023-12-26": 131419,
-  "2023-12-27": 131419,
-  "2023-12-30": 131419,
-  "2023-12-31": 131419,
-  "2024-01-01": 131419,
-  "2024-01-02": 131419,
-  "2024-01-03": 131419
+  "2024-01-17": 131419,
+  "date_first_scraped": "2022-10-29",
+  "description": "The very best of Cardi B. Listen to Cardi's new song  \"UP\" Okurr!",
+  "name": "This Is Cardi B (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Konshens",
+          "url": "https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW"
+        },
+        {
+          "name": "Tina (Hoodcelebrityy)",
+          "url": "https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157613,
+      "name": "Back It Up (feat. Konshens & Hoodcelebrityy)",
+      "url": "https://open.spotify.com/track/6J4khM5qxAUjCsxoURWem1"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224284,
+      "name": "Bartier Cardi (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210787,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd"
+    },
+    {
+      "album": {
+        "name": "Hip Hop Millennials",
+        "url": "https://open.spotify.com/album/5XbNM7tm5uidGzfxCQbJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 210787,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/7GC5lsImioJu5DLUF3Sj0U"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284855,
+      "name": "Best Life (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/00B7TZ0Xawar6NZ00JFomN"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181623,
+      "name": "Bickenhead",
+      "url": "https://open.spotify.com/track/17Yq72h0p15OhCbZ5lJ5gd"
+    },
+    {
+      "album": {
+        "name": "Workout Hip-Hop",
+        "url": "https://open.spotify.com/album/1qZeX7Pp3WQTaWF6BygaER"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/5HJVxXaEPzAyuWaUVrYCs6"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142456,
+      "name": "Bronx Season",
+      "url": "https://open.spotify.com/track/5rsH1ezDwyf4o8JJguPgRc"
+    },
+    {
+      "album": {
+        "name": "Cheap Ass Weave - Single",
+        "url": "https://open.spotify.com/album/5Ixfxd50clmGkqX5ZsfIrz"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168150,
+      "name": "Cheap Ass Weave",
+      "url": "https://open.spotify.com/track/1KTkfG53uAWmD5AknK8qWY"
+    },
+    {
+      "album": {
+        "name": "Cute (Remix) [feat. Cardi B]",
+        "url": "https://open.spotify.com/album/3AquWPa5RWSiV4PTUuzXXI"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233833,
+      "name": "Cute - Remix",
+      "url": "https://open.spotify.com/track/0s12zeNh080RjPnV8gWngY"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262308,
+      "name": "Drip (feat. Migos)",
+      "url": "https://open.spotify.com/track/2qcG0nZ6S3zZV0UrkY5nFo"
+    },
+    {
+      "album": {
+        "name": "Finesse (Remix) [feat. Cardi B]",
+        "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217288,
+      "name": "Finesse - Remix; feat. Cardi B",
+      "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202919,
+      "name": "Foreva",
+      "url": "https://open.spotify.com/track/5mwQ8wQElaMO1joDd5vtwd"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231453,
+      "name": "Get Up 10",
+      "url": "https://open.spotify.com/track/7p2ewixAShLpjDZrnzZK7c"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "DJ Hardwerk",
+          "url": "https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Hectic (feat. DJ Hardwerk)",
+      "url": "https://open.spotify.com/track/6GBEjkFlNzM2trwa8rgnIU"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200205,
+      "name": "I Do (feat. SZA)",
+      "url": "https://open.spotify.com/track/1f5PNhkNgUpvDEeZfcIlO1"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253390,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233793,
+      "name": "Lick (feat. Offset)",
+      "url": "https://open.spotify.com/track/5XdHz3HfGGOsvdhe06oxts"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "Lit Thot",
+      "url": "https://open.spotify.com/track/0kfumbp5lPQvPrMTrqsaNv"
+    },
+    {
+      "album": {
+        "name": "El Hombre",
+        "url": "https://open.spotify.com/album/5hzbgBTxfikktf9cOvggGF"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185710,
+      "name": "Mi Mami",
+      "url": "https://open.spotify.com/track/5NbmeIxqXL0MCT5VQDj5eZ"
+    },
+    {
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183527,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229004,
+      "name": "Money Bag",
+      "url": "https://open.spotify.com/track/1vBeIXlzbAieGoDqInav5j"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303076,
+      "name": "MotorSport",
+      "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "album": {
+        "name": "The Beautiful & Damned",
+        "url": "https://open.spotify.com/album/1VAc77UvK5wj8ZSWCo3V2b"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245386,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/2DQ1ITjI0YoLFzuADN1ZBW"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166217,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/67co9ZN8NRGnB7tiaF8yen"
+    },
+    {
+      "album": {
+        "name": "Please Me",
+        "url": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200889,
+      "name": "Please Me",
+      "url": "https://open.spotify.com/track/0PG9fbaaHFHfre2gUVo7AN"
+    },
+    {
+      "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/6zfTXn9P1NS9Vapp9mA7QY"
+      },
+      "artists": [
+        {
+          "name": "PHresher",
+          "url": "https://open.spotify.com/artist/0FTrIsp2Mg7Bkf8eXQrISa"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224544,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/4fc7s6ducbIc1gpaHqLJfJ"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177139,
+      "name": "Ring (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol. 2",
+        "url": "https://open.spotify.com/album/47IM97GbpNyDREWlr2HtNM"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214185,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/5FY4uYtImpQporoncKhclK"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173792,
+      "name": "Sauce Boyz",
+      "url": "https://open.spotify.com/track/5W8U3zV3xjeZL0gjKapWxZ"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230952,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0CfmNX2TXk7yoJqHJiixnp"
+    },
+    {
+      "album": {
+        "name": "Stripper Hoe - Single",
+        "url": "https://open.spotify.com/album/1fFUujB5tYMc1ar0VMvAhr"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129044,
+      "name": "Stripper Hoe",
+      "url": "https://open.spotify.com/track/2g5TgTjDM64RjrPL5eC0Q1"
+    },
+    {
+      "album": {
+        "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+        "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188523,
+      "name": "Thru Your Phone",
+      "url": "https://open.spotify.com/track/74cVJfmK18rhWnscIpGXjt"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144483,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/4cxKwt0mdy35povvGlyirE"
+    },
+    {
+      "album": {
+        "name": "Quality Control: Control The Streets Volume 1",
+        "url": "https://open.spotify.com/album/07Jvk8tGuaMhR4H72znlLJ"
+      },
+      "artists": [
+        {
+          "name": "Quality Control",
+          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219226,
+      "name": "Um Yea",
+      "url": "https://open.spotify.com/track/6XTetcNx1W6CKG0lSSnvrq"
+    },
+    {
+      "album": {
+        "name": "Up",
+        "url": "https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156944,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl"
+    },
+    {
+      "album": {
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187541,
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "album": {
+        "name": "Gangsta Bitch Music Vol 1",
+        "url": "https://open.spotify.com/album/4hRSrC7bRqBqDDSfhe5qRO"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200228,
+      "name": "Washpoppin",
+      "url": "https://open.spotify.com/track/4GDhJN2w2fLMovXBvjWywV"
+    },
+    {
+      "album": {
+        "name": "What a Girl Likes",
+        "url": "https://open.spotify.com/album/4uVh0v1aUwlSPeKWINQDLa"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2020-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144347,
+      "name": "What a Girl Likes",
+      "url": "https://open.spotify.com/track/7LLJoOUTcfaZDrFTZgmtE3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXXQuxfjYVxb"
 }

@@ -832,6 +832,36 @@
     {
       "album": {
         "name": "Dos Pr\u00e9dios",
+        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Luchinha Jr",
+          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        },
+        {
+          "name": "Baby",
+          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
+        }
+      ],
+      "date_added": "2023-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122177,
+      "name": "Mandraka",
+      "url": "https://open.spotify.com/track/29uxcZEFonwiErtNvn0VXA"
+    },
+    {
+      "album": {
+        "name": "Dos Pr\u00e9dios",
         "url": "https://open.spotify.com/album/7ARyKbobUo0oE30Arwe67d"
       },
       "artists": [
@@ -858,36 +888,6 @@
       "duration_ms": 122177,
       "name": "Mandraka",
       "url": "https://open.spotify.com/track/1rLahQ58edFplZKDcjJ7cH"
-    },
-    {
-      "album": {
-        "name": "Dos Pr\u00e9dios",
-        "url": "https://open.spotify.com/album/4WTmjVL1HD0QQCiht2scSM"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Luchinha Jr",
-          "url": "https://open.spotify.com/artist/5v2bQ2dsdQmr2ARUYwnDHX"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        },
-        {
-          "name": "prod by baby",
-          "url": "https://open.spotify.com/artist/2lW4v8QBN9C7ENq22OTS9V"
-        }
-      ],
-      "date_added": "2023-11-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 122177,
-      "name": "Mandraka",
-      "url": "https://open.spotify.com/track/29uxcZEFonwiErtNvn0VXA"
     },
     {
       "album": {

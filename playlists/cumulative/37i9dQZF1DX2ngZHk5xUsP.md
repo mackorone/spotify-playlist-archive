@@ -4,7 +4,7 @@
 
 > Temukan musisi kesayanganmu dari berbagai penjuru Jawa Barat\. Cover: Rossa
 
-89 songs - 5 hr 35 min
+90 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Bandung](https://open.spotify.com/track/7itshdCnfN3pbP88rQYHIr) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 3:47 | 2023-03-16 |  |
 | [Bebende](https://open.spotify.com/track/6QM1lU1VMJlSROw6ZJ40u5) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Ferdinan Sule](https://open.spotify.com/artist/1CrwRIUK36rqXADc2O6YdP) | [Bebende](https://open.spotify.com/album/2l8HYZ1xJsX7GbKxvjsE3U) | 5:12 | 2023-03-30 |  |
 | [Berdiri Teman](https://open.spotify.com/track/2wzLryGH80h3RkzuzVOriD) | [Closehead](https://open.spotify.com/artist/51kLNLcGpqb9eXGfCl0vrR) | [Discopunkhead](https://open.spotify.com/album/6sSnkZGa92joNiWAeFr44B) | 4:25 | 2023-03-16 |  |
-| [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 | 2023-03-16 |  |
+| [Berita Harian](https://open.spotify.com/track/59f5nQg8cJ13gCveZvIhjo) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/0itsjd6Jrhx08eITy5hjUj) | 3:37 | 2023-09-20 |  |
+| [Berita Harian](https://open.spotify.com/track/69MOVP8IuQ2qOGhTO5H4UO) | [Swellow](https://open.spotify.com/artist/0oHQ2Lif0zo9gofe3YPAw2) | [Karet](https://open.spotify.com/album/51K8wlMSll4FQYNKWgk934) | 3:39 | 2023-03-16 | 2024-01-11 |
 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 | 2023-07-13 |  |
 | [Bertaruh Pada Api](https://open.spotify.com/track/0TblrOwGd4j8YK0cdTRo5v) | [Dongker](https://open.spotify.com/artist/6sf1OnuDZM48bgFQvPkbYm) | [Bertaruh Pada Api](https://open.spotify.com/album/2VOfBP9LA5KsNMFyM35iR1) | 4:30 | 2023-03-16 |  |
 | [best](https://open.spotify.com/track/3uEBGhWCNso3D2rC1znd4H) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [best](https://open.spotify.com/album/3gcGZY4TK0erIrHrtCaTl9) | 3:35 | 2023-06-08 |  |

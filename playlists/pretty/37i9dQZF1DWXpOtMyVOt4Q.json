@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 253922,
+  "num_followers": 254549,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
@@ -71,22 +71,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Preludes, Book 2 - Torrents",
-        "url": "https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY"
-      },
-      "artists": [
-        {
-          "name": "Yehezkel Raz",
-          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
-        }
-      ],
-      "duration_ms": 105940,
-      "name": "Behind Every Decision",
-      "url": "https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Solas",
         "url": "https://open.spotify.com/album/2XZXXXuThQ8JwPjoTcGIkF"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 146000,
       "name": "Solas",
       "url": "https://open.spotify.com/track/0yfMign5fsLtw5I4pK73ge"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Preludes, Book 2 - Torrents",
+        "url": "https://open.spotify.com/album/23evXngVDHzY3P9A2wNDJY"
+      },
+      "artists": [
+        {
+          "name": "Yehezkel Raz",
+          "url": "https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY"
+        }
+      ],
+      "duration_ms": 105940,
+      "name": "Behind Every Decision",
+      "url": "https://open.spotify.com/track/2kbruQXVXFmxxm4l75zuwy"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -149,6 +149,22 @@
       "url": "https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO"
     },
     {
+      "added_at": "2023-09-20 19:49:54",
+      "album": {
+        "name": "comfortable silence",
+        "url": "https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x"
+      },
+      "artists": [
+        {
+          "name": "tomcbumpz",
+          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
+        }
+      ],
+      "duration_ms": 59999,
+      "name": "braincells",
+      "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
+    },
+    {
       "added_at": "2023-09-08 14:39:34",
       "album": {
         "name": "apathy",
@@ -183,22 +199,6 @@
       "duration_ms": 77261,
       "name": "forgotten thoughts - nightcore",
       "url": "https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs"
-    },
-    {
-      "added_at": "2023-09-20 19:49:54",
-      "album": {
-        "name": "comfortable silence",
-        "url": "https://open.spotify.com/album/1Mlp2X6DPCWVLoN6QqH25x"
-      },
-      "artists": [
-        {
-          "name": "tomcbumpz",
-          "url": "https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy"
-        }
-      ],
-      "duration_ms": 59999,
-      "name": "braincells",
-      "url": "https://open.spotify.com/track/6aMk9gUq9pjZgmjsAm3FjS"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -241,20 +241,40 @@
       "url": "https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
+      "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "Futari",
-        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ"
       },
       "artists": [
         {
-          "name": "Hentaidesu",
-          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
+          "name": "Lord Belphegor",
+          "url": "https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll"
         }
       ],
-      "duration_ms": 66611,
-      "name": "I'm Fine",
-      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
+      "duration_ms": 277800,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "rescue",
+        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "ashess",
+          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
+        }
+      ],
+      "duration_ms": 136363,
+      "name": "rescue",
+      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -271,6 +291,22 @@
       "duration_ms": 96000,
       "name": "in the bleak midwinter",
       "url": "https://open.spotify.com/track/5WEBVd7HoSDLMAaJnk6yTT"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Futari",
+        "url": "https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5"
+      },
+      "artists": [
+        {
+          "name": "Hentaidesu",
+          "url": "https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK"
+        }
+      ],
+      "duration_ms": 66611,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -319,42 +355,6 @@
       "duration_ms": 81908,
       "name": "Star Shopping - Slowed + Reverb",
       "url": "https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "rescue",
-        "url": "https://open.spotify.com/album/4zVgqmITVLk905VoQ7mbVA"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "ashess",
-          "url": "https://open.spotify.com/artist/1hhLt9cFkv19R49FGbQAow"
-        }
-      ],
-      "duration_ms": 136363,
-      "name": "rescue",
-      "url": "https://open.spotify.com/track/7zGy5IJuIH6r9lxLLLRJ1m"
-    },
-    {
-      "added_at": "2023-11-29 20:21:28",
-      "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/2LjePrIEdfjjqQvxlxidUJ"
-      },
-      "artists": [
-        {
-          "name": "Lord Belphegor",
-          "url": "https://open.spotify.com/artist/7Ihaz9qzDaF2OtnBkdpbll"
-        }
-      ],
-      "duration_ms": 277800,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/5AG0X3UeMHs63YmQRFi1ER"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -417,6 +417,42 @@
       "url": "https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu"
     },
     {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "fairytale",
+        "url": "https://open.spotify.com/album/0bdTwJydCNRYCyqiqb8UUV"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "leadwave",
+          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "fairytale",
+      "url": "https://open.spotify.com/track/0mHCR2WCxeM22a7Na8dMU6"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N"
+      },
+      "artists": [
+        {
+          "name": "Sviral.",
+          "url": "https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE"
+        }
+      ],
+      "duration_ms": 180023,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB"
+    },
+    {
       "added_at": "2023-09-08 14:39:34",
       "album": {
         "name": "LOUIE",
@@ -431,6 +467,38 @@
       "duration_ms": 109586,
       "name": "Last Words",
       "url": "https://open.spotify.com/track/1rOKAsJZJDIikOKDeUfPRV"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "i watch the moon",
+        "url": "https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM"
+      },
+      "artists": [
+        {
+          "name": "Flemish Bond",
+          "url": "https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "i watch the moon",
+      "url": "https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Long Whale Song",
+        "url": "https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv"
+      },
+      "artists": [
+        {
+          "name": "SymphoCat",
+          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
+        }
+      ],
+      "duration_ms": 1165355,
+      "name": "Long Whale Song",
+      "url": "https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -453,36 +521,20 @@
       "url": "https://open.spotify.com/track/3krTCz4RFiTFUE4Eyw0mIq"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Long Whale Song",
-        "url": "https://open.spotify.com/album/5VwTFSh4mFOM0VleoTFPZv"
-      },
-      "artists": [
-        {
-          "name": "SymphoCat",
-          "url": "https://open.spotify.com/artist/4cX8nm4XgKt3U0hfVx9NqN"
-        }
-      ],
-      "duration_ms": 1165355,
-      "name": "Long Whale Song",
-      "url": "https://open.spotify.com/track/47UkAwI7ygrMl6JZ5ZExPQ"
-    },
-    {
       "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/5UpWqT6j0EeQW6kM4WlG4N"
+        "name": "the lonely tree",
+        "url": "https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe"
       },
       "artists": [
         {
-          "name": "Sviral.",
-          "url": "https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE"
+          "name": "ciaffa",
+          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
         }
       ],
-      "duration_ms": 180023,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/3W2nd0NueKuLO0K599RZzB"
+      "duration_ms": 165564,
+      "name": "the lonely tree (slowed)",
+      "url": "https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -501,72 +553,20 @@
       "url": "https://open.spotify.com/track/3Ttu9jVJBNSkyOuydS9RZ6"
     },
     {
-      "added_at": "2023-11-29 20:21:28",
-      "album": {
-        "name": "fairytale",
-        "url": "https://open.spotify.com/album/0bdTwJydCNRYCyqiqb8UUV"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "leadwave",
-          "url": "https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "fairytale",
-      "url": "https://open.spotify.com/track/0mHCR2WCxeM22a7Na8dMU6"
-    },
-    {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "i watch the moon",
-        "url": "https://open.spotify.com/album/2pe0JZv3mO7GYLnfv86QMM"
+        "name": "Novella",
+        "url": "https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP"
       },
       "artists": [
         {
-          "name": "Flemish Bond",
-          "url": "https://open.spotify.com/artist/4DAPVs6oobdlMxB54nt0Ik"
+          "name": "Jordan Critz",
+          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
         }
       ],
-      "duration_ms": 102857,
-      "name": "i watch the moon",
-      "url": "https://open.spotify.com/track/7yyO5lmOGN4l5TNl8AwDpV"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Help Me Out",
-        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
-      },
-      "artists": [
-        {
-          "name": "Alicks",
-          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
-        }
-      ],
-      "duration_ms": 207046,
-      "name": "A Time to Wait",
-      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 114613,
-      "name": "walk",
-      "url": "https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9"
+      "duration_ms": 298320,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -587,34 +587,18 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Novella",
-        "url": "https://open.spotify.com/album/6N1QTJSMGI3hXRpfqNJdTP"
+        "name": "hollow",
+        "url": "https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG"
       },
       "artists": [
         {
-          "name": "Jordan Critz",
-          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
+          "name": "james king",
+          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
         }
       ],
-      "duration_ms": 298320,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/2CHU4jx0WDXqgid08iZOB6"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Drifting Away",
-        "url": "https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa"
-      },
-      "artists": [
-        {
-          "name": "Austin Farwell",
-          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
-        }
-      ],
-      "duration_ms": 165365,
-      "name": "Drifting Away",
-      "url": "https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE"
+      "duration_ms": 114613,
+      "name": "walk",
+      "url": "https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -635,6 +619,38 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
+        "name": "Drifting Away",
+        "url": "https://open.spotify.com/album/1hQ6aHQZssr7VVzIczYZMa"
+      },
+      "artists": [
+        {
+          "name": "Austin Farwell",
+          "url": "https://open.spotify.com/artist/3gfeKrOBLlmoaUXfGJzmS5"
+        }
+      ],
+      "duration_ms": 165365,
+      "name": "Drifting Away",
+      "url": "https://open.spotify.com/track/2eNGGlykvjQyStOU7DBHvE"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Help Me Out",
+        "url": "https://open.spotify.com/album/5aOvfgizZIKyUeZ37oNYRi"
+      },
+      "artists": [
+        {
+          "name": "Alicks",
+          "url": "https://open.spotify.com/artist/60J5TDNg9Xxp9zxDXpBOjM"
+        }
+      ],
+      "duration_ms": 207046,
+      "name": "A Time to Wait",
+      "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
         "name": "The Beach",
         "url": "https://open.spotify.com/album/0b7YKgSQgWkVxpYsbd4oBQ"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Safe in the Steep Cliffs",
-        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
-      },
-      "artists": [
-        {
-          "name": "Emancipator",
-          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
-        }
-      ],
-      "duration_ms": 191066,
-      "name": "Greenland",
-      "url": "https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
         "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 291805,
       "name": "Organ Variation",
       "url": "https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Safe in the Steep Cliffs",
+        "url": "https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs"
+      },
+      "artists": [
+        {
+          "name": "Emancipator",
+          "url": "https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm"
+        }
+      ],
+      "duration_ms": 191066,
+      "name": "Greenland",
+      "url": "https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -705,52 +721,20 @@
       "url": "https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw"
     },
     {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
-      },
-      "artists": [
-        {
-          "name": "Tycho",
-          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
-        }
-      ],
-      "duration_ms": 173337,
-      "name": "Melanine",
-      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz"
-      },
-      "artists": [
-        {
-          "name": "Hazy",
-          "url": "https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl"
-        }
-      ],
-      "duration_ms": 105000,
-      "name": "No Time Left",
-      "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
-    },
-    {
       "added_at": "2023-11-29 20:21:28",
       "album": {
-        "name": "the lonely tree",
-        "url": "https://open.spotify.com/album/6RPBdWsjsNsJWN9i2M3tDe"
+        "name": "star struck",
+        "url": "https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr"
       },
       "artists": [
         {
-          "name": "ciaffa",
-          "url": "https://open.spotify.com/artist/40jlY1amdIaVtPMKjdBj7x"
+          "name": "alixe.",
+          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
         }
       ],
-      "duration_ms": 165564,
-      "name": "the lonely tree (slowed)",
-      "url": "https://open.spotify.com/track/4Jjsn1g5vJJPdbPuJD2XBM"
+      "duration_ms": 96000,
+      "name": "star struck",
+      "url": "https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -769,20 +753,20 @@
       "url": "https://open.spotify.com/track/278zobyI14d3iaE39jGfHM"
     },
     {
-      "added_at": "2023-11-29 20:21:28",
+      "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "star struck",
-        "url": "https://open.spotify.com/album/0lWOg0zxjpIS81tzwUB0qr"
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/4YakhJKIpxIx7HGD8WI4oz"
       },
       "artists": [
         {
-          "name": "alixe.",
-          "url": "https://open.spotify.com/artist/5CqGgJNg6sTMBr8KbBCqYn"
+          "name": "Hazy",
+          "url": "https://open.spotify.com/artist/4zoz0st7CqesHkO58AbJtl"
         }
       ],
-      "duration_ms": 96000,
-      "name": "star struck",
-      "url": "https://open.spotify.com/track/3JcRY9LLi7aLBqceAbAJaC"
+      "duration_ms": 105000,
+      "name": "No Time Left",
+      "url": "https://open.spotify.com/track/1ZHRQbm7S54eSKEhKiw1rl"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -803,50 +787,34 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Exo One (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/22rQYIwZ0eL57N6FQ3ixme"
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst"
       },
       "artists": [
         {
-          "name": "Rhys Lindsay",
-          "url": "https://open.spotify.com/artist/1LD84W4loy082VZ4Mw7Td8"
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
         }
       ],
-      "duration_ms": 65000,
-      "name": "Dead Metal",
-      "url": "https://open.spotify.com/track/7CCPRhIy6VHd4ZmquuIggW"
+      "duration_ms": 173337,
+      "name": "Melanine",
+      "url": "https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH"
     },
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "livin",
-        "url": "https://open.spotify.com/album/3EKBf6jNY2loEs6R7BBdsq"
+        "name": "Dreamscapes",
+        "url": "https://open.spotify.com/album/6KceKyMe95omjB1FNWRhJR"
       },
       "artists": [
         {
-          "name": "yassprodd",
-          "url": "https://open.spotify.com/artist/0WZLL9XHd4QId3RNI2kZ6Y"
+          "name": "kyu",
+          "url": "https://open.spotify.com/artist/4vLg4WFBnzNgIpLWyxQJMW"
         }
       ],
-      "duration_ms": 91808,
-      "name": "livin",
-      "url": "https://open.spotify.com/track/2XgZ0iZEOrqjiXMUyPcFqJ"
-    },
-    {
-      "added_at": "2023-11-29 20:21:28",
-      "album": {
-        "name": "The Lonely Tree Corecore Depressed",
-        "url": "https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd"
-      },
-      "artists": [
-        {
-          "name": "Leox",
-          "url": "https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r"
-        }
-      ],
-      "duration_ms": 82526,
-      "name": "The Lonely Tree Corecore Depressed",
-      "url": "https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap"
+      "duration_ms": 133437,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/1R83WQM8LXRqT2hu8qK59I"
     },
     {
       "added_at": "2023-11-29 20:21:28",
@@ -867,6 +835,38 @@
       "duration_ms": 157974,
       "name": "Rain",
       "url": "https://open.spotify.com/track/2zFpMThv5f6y4OW79sUR91"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "The Lonely Tree Corecore Depressed",
+        "url": "https://open.spotify.com/album/5MS01aBztEzPQLUN5OZhpd"
+      },
+      "artists": [
+        {
+          "name": "Leox",
+          "url": "https://open.spotify.com/artist/7c4E98MuM8NBQGrSDC2n9r"
+        }
+      ],
+      "duration_ms": 82526,
+      "name": "The Lonely Tree Corecore Depressed",
+      "url": "https://open.spotify.com/track/6op1kH6zHU9JJu7vRZwrap"
+    },
+    {
+      "added_at": "2023-11-29 20:21:28",
+      "album": {
+        "name": "where the light is",
+        "url": "https://open.spotify.com/album/2HbCizSbNyoJ9pLJX9b0R1"
+      },
+      "artists": [
+        {
+          "name": "Nectry",
+          "url": "https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG"
+        }
+      ],
+      "duration_ms": 126562,
+      "name": "where the light is",
+      "url": "https://open.spotify.com/track/5QpYrdghLwv6nXcakC4ZXI"
     }
   ],
   "unique_name": "Chill Gaming",

@@ -1,735 +1,2099 @@
 {
-  "2021-12-25": 102326,
-  "2021-12-26": 102332,
-  "2021-12-27": 102353,
-  "2021-12-28": 102353,
-  "2021-12-29": 102358,
-  "2021-12-30": 102362,
-  "2021-12-31": 102362,
-  "2022-01-01": 102373,
-  "2022-01-02": 102367,
-  "2022-01-03": 102370,
-  "2022-01-04": 102379,
-  "2022-01-05": 102380,
-  "2022-01-06": 102383,
-  "2022-01-07": 102393,
-  "2022-01-08": 102402,
-  "2022-01-09": 102402,
-  "2022-01-10": 102410,
-  "2022-01-11": 102409,
-  "2022-01-12": 102421,
-  "2022-01-13": 102430,
-  "2022-01-14": 102428,
-  "2022-01-15": 102455,
-  "2022-01-16": 102456,
-  "2022-01-17": 102476,
-  "2022-01-18": 102478,
-  "2022-01-19": 102481,
-  "2022-01-20": 102479,
-  "2022-01-21": 102484,
-  "2022-01-22": 102501,
-  "2022-01-23": 102511,
-  "2022-01-24": 102508,
-  "2022-01-25": 102517,
-  "2022-01-26": 102529,
-  "2022-01-27": 102532,
-  "2022-01-28": 102542,
-  "2022-01-29": 102548,
-  "2022-01-30": 102560,
-  "2022-01-31": 102566,
-  "2022-02-01": 102579,
-  "2022-02-02": 102579,
-  "2022-02-03": 102590,
-  "2022-02-04": 102597,
-  "2022-02-05": 102598,
-  "2022-02-06": 102608,
-  "2022-02-07": 102616,
-  "2022-02-08": 102625,
-  "2022-02-09": 102632,
-  "2022-02-10": 102633,
-  "2022-02-11": 102637,
-  "2022-02-12": 102642,
-  "2022-02-13": 102650,
-  "2022-02-14": 102651,
-  "2022-02-15": 102655,
-  "2022-02-16": 102654,
-  "2022-02-17": 102652,
-  "2022-02-18": 102649,
-  "2022-02-19": 102654,
-  "2022-02-20": 102668,
-  "2022-02-21": 102668,
-  "2022-02-22": 102679,
-  "2022-02-23": 102684,
-  "2022-02-24": 102688,
-  "2022-02-25": 102682,
-  "2022-02-26": 102693,
-  "2022-02-27": 102705,
-  "2022-02-28": 102705,
-  "2022-03-01": 102717,
-  "2022-03-02": 102710,
-  "2022-03-03": 102715,
-  "2022-03-04": 102724,
-  "2022-03-05": 102724,
-  "2022-03-06": 102731,
-  "2022-03-07": 102738,
-  "2022-03-08": 102736,
-  "2022-03-09": 102740,
-  "2022-03-10": 102753,
-  "2022-03-11": 102754,
-  "2022-03-12": 102765,
-  "2022-03-13": 102778,
-  "2022-03-14": 102781,
-  "2022-03-15": 102780,
-  "2022-03-16": 102783,
-  "2022-03-17": 102793,
-  "2022-03-18": 102800,
-  "2022-03-19": 102806,
-  "2022-03-20": 102806,
-  "2022-03-21": 102824,
-  "2022-03-22": 102835,
-  "2022-03-23": 102848,
-  "2022-03-24": 102851,
-  "2022-03-25": 102864,
-  "2022-03-26": 102865,
-  "2022-03-27": 102875,
-  "2022-03-28": 102882,
-  "2022-03-30": 102901,
-  "2022-03-31": 102912,
-  "2022-04-01": 102919,
-  "2022-04-02": 102926,
-  "2022-04-03": 102924,
-  "2022-04-04": 102934,
-  "2022-04-05": 102945,
-  "2022-04-06": 102950,
-  "2022-04-07": 102947,
-  "2022-04-08": 102956,
-  "2022-04-09": 102966,
-  "2022-04-10": 102984,
-  "2022-04-11": 102990,
-  "2022-04-12": 102991,
-  "2022-04-13": 102997,
-  "2022-04-14": 103009,
-  "2022-04-15": 103013,
-  "2022-04-16": 103018,
-  "2022-04-17": 103032,
-  "2022-04-18": 103045,
-  "2022-04-19": 103053,
-  "2022-04-20": 103057,
-  "2022-04-21": 103069,
-  "2022-04-22": 103071,
-  "2022-04-23": 103084,
-  "2022-04-24": 103099,
-  "2022-04-25": 103111,
-  "2022-04-26": 103119,
-  "2022-04-27": 103127,
-  "2022-04-28": 103133,
-  "2022-04-29": 103146,
-  "2022-04-30": 103154,
-  "2022-05-01": 103167,
-  "2022-05-02": 103167,
-  "2022-05-03": 103166,
-  "2022-05-04": 103170,
-  "2022-05-05": 103171,
-  "2022-05-06": 103179,
-  "2022-05-07": 103184,
-  "2022-05-08": 103183,
-  "2022-05-09": 103183,
-  "2022-05-10": 103188,
-  "2022-05-11": 103197,
-  "2022-05-12": 103202,
-  "2022-05-13": 103200,
-  "2022-05-14": 103205,
-  "2022-05-15": 103216,
-  "2022-05-16": 103213,
-  "2022-05-17": 103214,
-  "2022-05-18": 103222,
-  "2022-05-19": 103228,
-  "2022-05-20": 103234,
-  "2022-05-21": 103240,
-  "2022-05-22": 103240,
-  "2022-05-23": 103246,
-  "2022-05-24": 103246,
-  "2022-05-25": 103258,
-  "2022-05-26": 103258,
-  "2022-05-27": 103259,
-  "2022-05-28": 103261,
-  "2022-05-29": 103264,
-  "2022-05-30": 103275,
-  "2022-05-31": 103278,
-  "2022-06-01": 103287,
-  "2022-06-02": 103289,
-  "2022-06-03": 103297,
-  "2022-06-04": 103300,
-  "2022-06-05": 103307,
-  "2022-06-06": 103314,
-  "2022-06-07": 103317,
-  "2022-06-08": 103317,
-  "2022-06-09": 103323,
-  "2022-06-10": 103332,
-  "2022-06-11": 103336,
-  "2022-06-12": 103340,
-  "2022-06-13": 103345,
-  "2022-06-14": 103350,
-  "2022-06-15": 103355,
-  "2022-06-16": 103358,
-  "2022-06-17": 103363,
-  "2022-06-18": 103363,
-  "2022-06-19": 103373,
-  "2022-06-20": 103373,
-  "2022-06-21": 103382,
-  "2022-06-22": 103392,
-  "2022-06-23": 103392,
-  "2022-06-24": 103404,
-  "2022-06-25": 103406,
-  "2022-06-26": 103414,
-  "2022-06-27": 103418,
-  "2022-06-28": 103416,
-  "2022-06-29": 103424,
-  "2022-06-30": 103435,
-  "2022-07-01": 103442,
-  "2022-07-02": 103442,
-  "2022-07-03": 103448,
-  "2022-07-04": 103452,
-  "2022-07-05": 103456,
-  "2022-07-06": 103462,
-  "2022-07-07": 103468,
-  "2022-07-08": 103477,
-  "2022-07-09": 103484,
-  "2022-07-10": 103494,
-  "2022-07-11": 103496,
-  "2022-07-12": 103504,
-  "2022-07-13": 103504,
-  "2022-07-14": 103512,
-  "2022-07-15": 103516,
-  "2022-07-16": 103524,
-  "2022-07-17": 103536,
-  "2022-07-18": 103543,
-  "2022-07-19": 103564,
-  "2022-07-20": 103576,
-  "2022-07-21": 103584,
-  "2022-07-22": 103591,
-  "2022-07-23": 103604,
-  "2022-07-24": 103608,
-  "2022-07-25": 103625,
-  "2022-07-26": 103638,
-  "2022-07-27": 103653,
-  "2022-07-28": 103665,
-  "2022-07-29": 103679,
-  "2022-07-30": 103722,
-  "2022-07-31": 103722,
-  "2022-08-01": 103749,
-  "2022-08-02": 103768,
-  "2022-08-03": 103768,
-  "2022-08-04": 103787,
-  "2022-08-05": 103805,
-  "2022-08-06": 103830,
-  "2022-08-07": 103847,
-  "2022-08-08": 103887,
-  "2022-08-09": 103912,
-  "2022-08-10": 103933,
-  "2022-08-11": 103956,
-  "2022-08-12": 103983,
-  "2022-08-13": 104011,
-  "2022-08-14": 104029,
-  "2022-08-15": 104057,
-  "2022-08-16": 104071,
-  "2022-08-17": 104088,
-  "2022-08-18": 104116,
-  "2022-08-19": 104149,
-  "2022-08-20": 104181,
-  "2022-08-21": 104213,
-  "2022-08-22": 104253,
-  "2022-08-23": 104280,
-  "2022-08-24": 104312,
-  "2022-08-25": 104354,
-  "2022-08-26": 104381,
-  "2022-08-27": 104419,
-  "2022-08-28": 104455,
-  "2022-08-29": 104489,
-  "2022-08-30": 104513,
-  "2022-08-31": 104495,
-  "2022-09-01": 104484,
-  "2022-09-02": 104474,
-  "2022-09-03": 104428,
-  "2022-09-04": 104422,
-  "2022-09-05": 104449,
-  "2022-09-06": 104477,
-  "2022-09-07": 104506,
-  "2022-09-09": 104541,
-  "2022-09-10": 104575,
-  "2022-09-11": 104600,
-  "2022-09-12": 104629,
-  "2022-09-13": 104652,
-  "2022-09-15": 104704,
-  "2022-09-16": 104733,
-  "2022-09-17": 104759,
-  "2022-09-18": 104787,
-  "2022-09-19": 104815,
-  "2022-09-20": 104831,
-  "2022-09-21": 104864,
-  "2022-09-22": 104878,
-  "2022-09-23": 104902,
-  "2022-09-24": 104928,
-  "2022-09-25": 104950,
-  "2022-09-26": 104975,
-  "2022-09-27": 104988,
-  "2022-09-28": 105023,
-  "2022-09-29": 105045,
-  "2022-09-30": 105065,
-  "2022-10-01": 105089,
-  "2022-10-02": 105117,
-  "2022-10-03": 105154,
-  "2022-10-04": 105182,
-  "2022-10-05": 105205,
-  "2022-10-06": 105230,
-  "2022-10-07": 105259,
-  "2022-10-08": 105294,
-  "2022-10-09": 105346,
-  "2022-10-10": 105351,
-  "2022-10-11": 105376,
-  "2022-10-12": 105410,
-  "2022-10-13": 105437,
-  "2022-10-14": 105458,
-  "2022-10-15": 105501,
-  "2022-10-16": 105532,
-  "2022-10-17": 105553,
-  "2022-10-18": 105581,
-  "2022-10-19": 105604,
-  "2022-10-20": 105631,
-  "2022-10-21": 105659,
-  "2022-10-22": 105689,
-  "2022-10-23": 105716,
-  "2022-10-24": 105741,
-  "2022-10-25": 105774,
-  "2022-10-26": 105799,
-  "2022-10-27": 105824,
-  "2022-10-28": 105852,
-  "2022-10-29": 105884,
-  "2022-10-30": 105920,
-  "2022-10-31": 105958,
-  "2022-11-01": 105978,
-  "2022-11-02": 105991,
-  "2022-11-03": 106021,
-  "2022-11-04": 106042,
-  "2022-11-05": 106072,
-  "2022-11-06": 106095,
-  "2022-11-07": 106123,
-  "2022-11-08": 106159,
-  "2022-11-09": 106188,
-  "2022-11-10": 106222,
-  "2022-11-11": 106255,
-  "2022-11-12": 106290,
-  "2022-11-13": 106319,
-  "2022-11-14": 106349,
-  "2022-11-15": 106370,
-  "2022-11-16": 106397,
-  "2022-11-17": 106425,
-  "2022-11-18": 106435,
-  "2022-11-19": 106442,
-  "2022-11-20": 106472,
-  "2022-11-21": 106499,
-  "2022-11-22": 106532,
-  "2022-11-23": 106566,
-  "2022-11-24": 106625,
-  "2022-11-25": 106696,
-  "2022-11-26": 106731,
-  "2022-11-27": 106766,
-  "2022-11-28": 106798,
-  "2022-11-29": 106833,
-  "2022-11-30": 106867,
-  "2022-12-01": 106906,
-  "2022-12-02": 106928,
-  "2022-12-03": 106969,
-  "2022-12-04": 107003,
-  "2022-12-05": 107024,
-  "2022-12-06": 107041,
-  "2022-12-07": 107073,
-  "2022-12-08": 107092,
-  "2022-12-09": 107135,
-  "2022-12-10": 107151,
-  "2022-12-11": 107192,
-  "2022-12-12": 107234,
-  "2022-12-13": 107268,
-  "2022-12-14": 107308,
-  "2022-12-15": 107332,
-  "2022-12-16": 107362,
-  "2022-12-17": 107390,
-  "2022-12-18": 107421,
-  "2022-12-19": 107453,
-  "2022-12-20": 107529,
-  "2022-12-21": 107529,
-  "2022-12-22": 107558,
-  "2022-12-24": 107615,
-  "2022-12-25": 107655,
-  "2022-12-26": 107669,
-  "2022-12-27": 107703,
-  "2022-12-28": 107734,
-  "2022-12-29": 107770,
-  "2022-12-30": 107800,
-  "2022-12-31": 107828,
-  "2023-01-01": 107857,
-  "2023-01-02": 107895,
-  "2023-01-03": 107930,
-  "2023-01-04": 107945,
-  "2023-01-05": 107980,
-  "2023-01-06": 108015,
-  "2023-01-07": 108068,
-  "2023-01-08": 108075,
-  "2023-01-09": 108124,
-  "2023-01-10": 108150,
-  "2023-01-11": 108187,
-  "2023-01-12": 108238,
-  "2023-01-13": 108274,
-  "2023-01-14": 108342,
-  "2023-01-15": 108352,
-  "2023-01-16": 108399,
-  "2023-01-17": 108430,
-  "2023-01-18": 108470,
-  "2023-01-19": 108508,
-  "2023-01-20": 108548,
-  "2023-01-21": 108582,
-  "2023-01-22": 108619,
-  "2023-01-23": 108652,
-  "2023-01-24": 108686,
-  "2023-01-25": 108713,
-  "2023-01-26": 108758,
-  "2023-01-27": 108787,
-  "2023-01-28": 108818,
-  "2023-01-29": 108848,
-  "2023-01-30": 108899,
-  "2023-01-31": 108899,
-  "2023-02-01": 108968,
-  "2023-02-02": 108985,
-  "2023-02-03": 109025,
-  "2023-02-04": 109057,
-  "2023-02-05": 109094,
-  "2023-02-06": 109128,
-  "2023-02-07": 109152,
-  "2023-02-08": 109206,
-  "2023-02-09": 109206,
-  "2023-02-10": 109243,
-  "2023-02-11": 109270,
-  "2023-02-12": 109331,
-  "2023-02-13": 109359,
-  "2023-02-14": 109359,
-  "2023-02-15": 109386,
-  "2023-02-16": 109428,
-  "2023-02-17": 109465,
-  "2023-02-18": 109531,
-  "2023-02-19": 109539,
-  "2023-02-20": 109565,
-  "2023-02-21": 109601,
-  "2023-02-22": 109631,
-  "2023-02-23": 109663,
-  "2023-02-24": 109693,
-  "2023-02-25": 109736,
-  "2023-02-26": 109762,
-  "2023-02-27": 109829,
-  "2023-02-28": 109829,
-  "2023-03-01": 109865,
-  "2023-03-02": 109901,
-  "2023-03-03": 109936,
-  "2023-03-04": 109966,
-  "2023-03-05": 110035,
-  "2023-03-06": 110035,
-  "2023-03-07": 110075,
-  "2023-03-08": 110130,
-  "2023-03-09": 110161,
-  "2023-03-10": 110215,
-  "2023-03-11": 110266,
-  "2023-03-12": 110302,
-  "2023-03-13": 110335,
-  "2023-03-14": 110382,
-  "2023-03-15": 110416,
-  "2023-03-16": 110448,
-  "2023-03-17": 110448,
-  "2023-03-18": 110514,
-  "2023-03-19": 110538,
-  "2023-03-20": 110567,
-  "2023-03-21": 110603,
-  "2023-03-22": 110631,
-  "2023-03-23": 110657,
-  "2023-03-24": 110657,
-  "2023-03-25": 110737,
-  "2023-03-26": 110774,
-  "2023-03-27": 110808,
-  "2023-03-28": 110841,
-  "2023-03-29": 110873,
-  "2023-03-30": 110943,
-  "2023-03-31": 110943,
-  "2023-04-01": 110985,
-  "2023-04-02": 111018,
-  "2023-04-03": 111052,
-  "2023-04-04": 111080,
-  "2023-04-05": 111115,
-  "2023-04-06": 111153,
-  "2023-04-07": 111194,
-  "2023-04-09": 111274,
-  "2023-04-10": 111317,
-  "2023-04-11": 111395,
-  "2023-04-12": 111395,
-  "2023-04-13": 111439,
-  "2023-04-14": 111456,
-  "2023-04-15": 111505,
-  "2023-04-16": 111552,
-  "2023-04-17": 111597,
-  "2023-04-18": 111640,
-  "2023-04-19": 111691,
-  "2023-04-20": 111740,
-  "2023-04-21": 111818,
-  "2023-04-22": 111921,
-  "2023-04-23": 111967,
-  "2023-04-24": 112015,
-  "2023-04-25": 112048,
-  "2023-04-26": 112080,
-  "2023-04-27": 112119,
-  "2023-04-28": 112172,
-  "2023-04-29": 112227,
-  "2023-04-30": 112262,
-  "2023-05-01": 112304,
-  "2023-05-02": 112358,
-  "2023-05-03": 112410,
-  "2023-05-04": 112439,
-  "2023-05-05": 112481,
-  "2023-05-06": 112514,
-  "2023-05-07": 112550,
-  "2023-05-08": 112576,
-  "2023-05-09": 112604,
-  "2023-05-10": 112634,
-  "2023-05-11": 112683,
-  "2023-05-12": 112713,
-  "2023-05-13": 112748,
-  "2023-05-14": 112785,
-  "2023-05-15": 112817,
-  "2023-05-16": 112851,
-  "2023-05-17": 112899,
-  "2023-05-18": 112923,
-  "2023-05-19": 112972,
-  "2023-05-20": 113061,
-  "2023-05-21": 113061,
-  "2023-05-22": 113061,
-  "2023-05-23": 113158,
-  "2023-05-24": 113215,
-  "2023-05-25": 113227,
-  "2023-05-26": 113271,
-  "2023-05-27": 113312,
-  "2023-05-28": 113358,
-  "2023-05-29": 113358,
-  "2023-05-30": 113437,
-  "2023-05-31": 113475,
-  "2023-06-01": 113521,
-  "2023-06-02": 113559,
-  "2023-06-03": 113588,
-  "2023-06-04": 113625,
-  "2023-06-05": 113662,
-  "2023-06-06": 113696,
-  "2023-06-07": 113739,
-  "2023-06-08": 113774,
-  "2023-06-09": 113813,
-  "2023-06-10": 113858,
-  "2023-06-11": 113900,
-  "2023-06-12": 113948,
-  "2023-06-13": 113988,
-  "2023-06-14": 114019,
-  "2023-06-15": 114054,
-  "2023-06-16": 114098,
-  "2023-06-17": 114131,
-  "2023-06-18": 114178,
-  "2023-06-19": 114212,
-  "2023-06-20": 114232,
-  "2023-06-21": 114261,
-  "2023-06-22": 114306,
-  "2023-06-23": 114354,
-  "2023-06-24": 114378,
-  "2023-06-25": 114420,
-  "2023-06-26": 114462,
-  "2023-06-27": 114495,
-  "2023-06-28": 114506,
-  "2023-06-29": 114546,
-  "2023-06-30": 114589,
-  "2023-07-01": 114670,
-  "2023-07-02": 114670,
-  "2023-07-03": 114710,
-  "2023-07-04": 114742,
-  "2023-07-05": 114771,
-  "2023-07-06": 114834,
-  "2023-07-07": 114834,
-  "2023-07-08": 114890,
-  "2023-07-09": 114918,
-  "2023-07-10": 114963,
-  "2023-07-11": 114994,
-  "2023-07-12": 115035,
-  "2023-07-13": 115064,
-  "2023-07-14": 115102,
-  "2023-07-15": 115140,
-  "2023-07-16": 115182,
-  "2023-07-17": 115213,
-  "2023-07-18": 115247,
-  "2023-07-19": 115276,
-  "2023-07-20": 115307,
-  "2023-07-21": 115336,
-  "2023-07-22": 115364,
-  "2023-07-23": 115401,
-  "2023-07-24": 115423,
-  "2023-07-25": 115455,
-  "2023-07-26": 115479,
-  "2023-07-27": 115519,
-  "2023-07-28": 115560,
-  "2023-07-29": 115600,
-  "2023-07-30": 115642,
-  "2023-07-31": 115669,
-  "2023-08-01": 115689,
-  "2023-08-02": 115722,
-  "2023-08-03": 115762,
-  "2023-08-04": 115806,
-  "2023-08-05": 115851,
-  "2023-08-06": 115902,
-  "2023-08-07": 115902,
-  "2023-08-08": 115925,
-  "2023-08-09": 115949,
-  "2023-08-10": 115982,
-  "2023-08-11": 116012,
-  "2023-08-12": 116044,
-  "2023-08-13": 116076,
-  "2023-08-14": 116105,
-  "2023-08-15": 116185,
-  "2023-08-16": 116185,
-  "2023-08-17": 116214,
-  "2023-08-18": 116252,
-  "2023-08-19": 116302,
-  "2023-08-20": 116328,
-  "2023-08-21": 116355,
-  "2023-08-22": 116372,
-  "2023-08-23": 116420,
-  "2023-08-24": 116455,
-  "2023-08-25": 116486,
-  "2023-08-26": 116528,
-  "2023-08-27": 116556,
-  "2023-08-28": 116590,
-  "2023-08-29": 116621,
-  "2023-08-30": 116632,
-  "2023-08-31": 116668,
-  "2023-09-01": 116723,
-  "2023-09-02": 116723,
-  "2023-09-03": 116762,
-  "2023-09-04": 116787,
-  "2023-09-05": 116814,
-  "2023-09-06": 116846,
-  "2023-09-07": 116871,
-  "2023-09-08": 116895,
-  "2023-09-09": 116932,
-  "2023-09-10": 116978,
-  "2023-09-11": 117010,
-  "2023-09-12": 117041,
-  "2023-09-13": 117059,
-  "2023-09-14": 117081,
-  "2023-09-15": 117105,
-  "2023-09-16": 117133,
-  "2023-09-17": 117162,
-  "2023-09-18": 117199,
-  "2023-09-19": 117219,
-  "2023-09-20": 117251,
-  "2023-09-21": 117286,
-  "2023-09-22": 117318,
-  "2023-09-23": 117349,
-  "2023-09-24": 117380,
-  "2023-09-25": 117404,
-  "2023-09-26": 117440,
-  "2023-09-27": 117456,
-  "2023-09-28": 117487,
-  "2023-09-29": 117510,
-  "2023-09-30": 117545,
-  "2023-10-01": 117568,
-  "2023-10-02": 117581,
-  "2023-10-03": 117612,
-  "2023-10-04": 117638,
-  "2023-10-05": 117658,
-  "2023-10-06": 117682,
-  "2023-10-07": 117696,
-  "2023-10-08": 117721,
-  "2023-10-09": 117740,
-  "2023-10-10": 117598,
-  "2023-10-11": 117445,
-  "2023-10-12": 117445,
-  "2023-10-13": 117342,
-  "2023-10-14": 117235,
-  "2023-10-15": 117228,
-  "2023-10-16": 117240,
-  "2023-10-17": 117255,
-  "2023-10-18": 117268,
-  "2023-10-19": 117290,
-  "2023-10-20": 117318,
-  "2023-10-21": 117337,
-  "2023-10-22": 117358,
-  "2023-10-23": 117371,
-  "2023-10-24": 117383,
-  "2023-10-25": 117396,
-  "2023-10-26": 117408,
-  "2023-10-27": 117425,
-  "2023-10-28": 117425,
-  "2023-10-29": 117425,
-  "2023-10-30": 117477,
-  "2023-10-31": 117477,
-  "2023-11-01": 117510,
-  "2023-11-02": 117536,
-  "2023-11-03": 117556,
-  "2023-11-04": 117556,
-  "2023-11-05": 117594,
-  "2023-11-06": 117616,
-  "2023-11-07": 117634,
-  "2023-11-08": 117650,
-  "2023-11-09": 117666,
-  "2023-11-10": 117673,
-  "2023-11-11": 117690,
-  "2023-11-12": 117705,
-  "2023-11-13": 117720,
-  "2023-11-14": 117735,
-  "2023-11-15": 117735,
-  "2023-11-16": 117772,
-  "2023-11-17": 117803,
-  "2023-11-18": 117803,
-  "2023-11-19": 117826,
-  "2023-11-20": 117860,
-  "2023-11-21": 117881,
-  "2023-11-22": 117899,
-  "2023-11-23": 117915,
-  "2023-11-24": 117915,
-  "2023-11-25": 117954,
-  "2023-11-26": 117968,
-  "2023-11-27": 117983,
-  "2023-11-28": 117999,
-  "2023-11-29": 118027,
-  "2023-11-30": 118027,
-  "2023-12-01": 118049,
-  "2023-12-02": 118068,
-  "2023-12-03": 118090,
-  "2023-12-04": 118090,
-  "2023-12-05": 118137,
-  "2023-12-06": 118156,
-  "2023-12-07": 118175,
-  "2023-12-08": 118200,
-  "2023-12-09": 118213,
-  "2023-12-10": 118213,
-  "2023-12-11": 118265,
-  "2023-12-12": 118265,
-  "2023-12-13": 118316,
-  "2023-12-14": 118346,
-  "2023-12-15": 118363,
-  "2023-12-16": 118389,
-  "2023-12-17": 118414,
-  "2023-12-18": 118428,
-  "2023-12-19": 118452,
-  "2023-12-20": 118479,
-  "2023-12-21": 118503,
-  "2023-12-22": 118521,
-  "2023-12-23": 118542,
-  "2023-12-24": 118554,
-  "2023-12-25": 118561,
-  "2023-12-26": 118578,
-  "2023-12-27": 118597,
-  "2023-12-30": 118648,
-  "2023-12-31": 118667,
-  "2024-01-01": 118686,
-  "2024-01-02": 118698,
-  "2024-01-03": 118725
+  "2024-01-17": 118226,
+  "date_first_scraped": "2021-12-21",
+  "description": "Mellow out with this dub music.",
+  "name": "Heavy Dub",
+  "tracks": [
+    {
+      "album": {
+        "name": "Scientific Dub",
+        "url": "https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 256866,
+      "name": "Bad Days Dub",
+      "url": "https://open.spotify.com/track/1yTU3DL2zuCdgINqtabaNh"
+    },
+    {
+      "album": {
+        "name": "The Scientist - Scientific Dub",
+        "url": "https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256992,
+      "name": "Bad Days Dub",
+      "url": "https://open.spotify.com/track/5fUNBGKzM2Czt9f2Pd5wrM"
+    },
+    {
+      "album": {
+        "name": "Black Roses Barrington Levy & the Jah Life Compendium",
+        "url": "https://open.spotify.com/album/2dJEyYCrSCQR5O6sSfkKAs"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178370,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/5xsafxCwTSz1TLSDdE3Er7"
+    },
+    {
+      "album": {
+        "name": "Original Ragga Muffin, Pt.1",
+        "url": "https://open.spotify.com/album/5GT7CLKowdpkKRFaiYXfmN"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/7a2FaJBUsniyDAOFoopHuM"
+    },
+    {
+      "album": {
+        "name": "Original Ragga Muffin, Pt. 1",
+        "url": "https://open.spotify.com/album/0moZgBJ6jA54D1Fvm4dqf3"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-12",
+      "duration_ms": 187611,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/2ZDkZV0SUhoP3mXGX6ASZm"
+    },
+    {
+      "album": {
+        "name": "Original Ragga Muffin, Pt. 1",
+        "url": "https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-11",
+      "duration_ms": 187611,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/4iZxFlcCg5Z6bVYsxqiT61"
+    },
+    {
+      "album": {
+        "name": "Original Ragga Muffin, Pt. 1",
+        "url": "https://open.spotify.com/album/2jLNKZ0HQJ4OJOprvVkDvV"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187611,
+      "name": "Black Roses",
+      "url": "https://open.spotify.com/track/58hdQ6kllWBvhUmBxOtz3H"
+    },
+    {
+      "album": {
+        "name": "Bass Chalice",
+        "url": "https://open.spotify.com/album/1SQnIX2WdFm8wmGikJpSSu"
+      },
+      "artists": [
+        {
+          "name": "10 Ft. Ganja Plant",
+          "url": "https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236253,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/1ZdnLZoguvZj5T8apkvX6t"
+    },
+    {
+      "album": {
+        "name": "Top Reggae",
+        "url": "https://open.spotify.com/album/72X8uWLihZXQO0qoFuO7bt"
+      },
+      "artists": [
+        {
+          "name": "10 Ft. Ganja Plant",
+          "url": "https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236253,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/3Nk2khAdYAvDmp1Klu0Obl"
+    },
+    {
+      "album": {
+        "name": "Bass Chalice",
+        "url": "https://open.spotify.com/album/7kbd0wisKvRa3FSMkPItKw"
+      },
+      "artists": [
+        {
+          "name": "10 Ft. Ganja Plant",
+          "url": "https://open.spotify.com/artist/0lsuCH8qG9UM8BihdL1Vsc"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236253,
+      "name": "Blood Money",
+      "url": "https://open.spotify.com/track/7EGPjajqOZC7XvV7UgR8pW"
+    },
+    {
+      "album": {
+        "name": "Butches Brew",
+        "url": "https://open.spotify.com/album/772bVEvhc7IUfBZALChmh6"
+      },
+      "artists": [
+        {
+          "name": "Butch Cassidy Sound System",
+          "url": "https://open.spotify.com/artist/5G63bkLymqmiaIkrUZExGG"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275893,
+      "name": "Brothers and Sisters",
+      "url": "https://open.spotify.com/track/2OLssDLdq7vwHOlhRe53Zy"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD"
+      },
+      "artists": [
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI"
+        },
+        {
+          "name": "Robbie",
+          "url": "https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Burru Saturday",
+      "url": "https://open.spotify.com/track/3lyehLFWwaQgRl8Hbjc3Ux"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 245226,
+      "name": "Burru Saturday",
+      "url": "https://open.spotify.com/track/2sL606OHLDkdUooRCuaOK5"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/0OX6gKGN8qW2dEjXCuWbFr"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 245226,
+      "name": "Burru Saturday",
+      "url": "https://open.spotify.com/track/36uWGGkp14f5WNIQaStgAM"
+    },
+    {
+      "album": {
+        "name": "Burundi Black",
+        "url": "https://open.spotify.com/album/5wZAX3KJkkV0iCL5a3J7Ew"
+      },
+      "artists": [
+        {
+          "name": "Burundi Steiphenson Black",
+          "url": "https://open.spotify.com/artist/5MJbGsO1l8G1er1HaygWe0"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429256,
+      "name": "Burundi Black - Rusty Egan First Remix",
+      "url": "https://open.spotify.com/track/720qeUt7AMzpRC2wMUb1BW"
+    },
+    {
+      "album": {
+        "name": "Haunted Halloween Dub",
+        "url": "https://open.spotify.com/album/6EZaAwvsxhKRoy4AzTWSz5"
+      },
+      "artists": [
+        {
+          "name": "The Robotiks",
+          "url": "https://open.spotify.com/artist/6A14AEcZSKVvJ0YaBx1wxW"
+        },
+        {
+          "name": "Jah Shaka",
+          "url": "https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "Chanting Down The Wicked",
+      "url": "https://open.spotify.com/track/7fbjerF8AlMCF4lCkyEiyG"
+    },
+    {
+      "album": {
+        "name": "One Love, One Heart",
+        "url": "https://open.spotify.com/album/4ZhtDrkN0vMmMR4VRpMsLs"
+      },
+      "artists": [
+        {
+          "name": "Yabby You",
+          "url": "https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Conquering Lion",
+      "url": "https://open.spotify.com/track/14oeeDI2wQO396JduPaWpx"
+    },
+    {
+      "album": {
+        "name": "One Love, One Heart",
+        "url": "https://open.spotify.com/album/2KWAhjPFelNL9e0QjEX7Og"
+      },
+      "artists": [
+        {
+          "name": "Yabby You",
+          "url": "https://open.spotify.com/artist/2vKNIZgOzsdLs8W40OZ4X8"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201266,
+      "name": "Conquering Lion",
+      "url": "https://open.spotify.com/track/6eA1fv9WkhSDvWfxpL3lti"
+    },
+    {
+      "album": {
+        "name": "Underwater Dub",
+        "url": "https://open.spotify.com/album/2O97JixmG3MtrHSe3rV0RZ"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 238626,
+      "name": "Daphne",
+      "url": "https://open.spotify.com/track/0X0zMRbHt3xuh3dNxY1WVh"
+    },
+    {
+      "album": {
+        "name": "Underwater Dub",
+        "url": "https://open.spotify.com/album/5i09kveNkDrJEX7boW9ASU"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238626,
+      "name": "Daphne",
+      "url": "https://open.spotify.com/track/39LAeYCw8RfxNSDOLDuyzP"
+    },
+    {
+      "album": {
+        "name": "Underwater Dub",
+        "url": "https://open.spotify.com/album/1RpUnan6rOTw8GdwhrkKE6"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 238626,
+      "name": "Daphne",
+      "url": "https://open.spotify.com/track/3fnc75xoQYkyfCaeAXOIUS"
+    },
+    {
+      "album": {
+        "name": "Blackheart Man",
+        "url": "https://open.spotify.com/album/0Z3LzsnqFDWU10sTu31Cfm"
+      },
+      "artists": [
+        {
+          "name": "Bunny Wailer",
+          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165893,
+      "name": "Dream Land",
+      "url": "https://open.spotify.com/track/1haHZa75ytryLGUOtHiGl5"
+    },
+    {
+      "album": {
+        "name": "Blackheart Man",
+        "url": "https://open.spotify.com/album/45Ae5UMjDuXNXot7PvJCjr"
+      },
+      "artists": [
+        {
+          "name": "Bunny Wailer",
+          "url": "https://open.spotify.com/artist/389zc5Rwe0MPcE6mSF4AjC"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 166773,
+      "name": "Dream Land",
+      "url": "https://open.spotify.com/track/7vp89zcbYncoBCbX5HA3tZ"
+    },
+    {
+      "album": {
+        "name": "The Scientist - Scientific Dub",
+        "url": "https://open.spotify.com/album/1NdhY0QEhlyGOZ3BzLGSWB"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224078,
+      "name": "Drum Song",
+      "url": "https://open.spotify.com/track/7qDzu5cRpe4rfM6cePzRel"
+    },
+    {
+      "album": {
+        "name": "Scientific Dub",
+        "url": "https://open.spotify.com/album/1JR5J7Al2dvM8Mg3P03wLP"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 222066,
+      "name": "Drum Song Dub",
+      "url": "https://open.spotify.com/track/0xFSQCZu1J1YwE8O7mdzCZ"
+    },
+    {
+      "album": {
+        "name": "Sly & Robbie Dub",
+        "url": "https://open.spotify.com/album/63ASfPPq6Sdf7z7nNGFw8b"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Dub Glory",
+      "url": "https://open.spotify.com/track/7kA02bY8j1woxuOCfAyvcv"
+    },
+    {
+      "album": {
+        "name": "Dub Massive Vol. 1",
+        "url": "https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw"
+      },
+      "artists": [
+        {
+          "name": "Mad Professor and Scientist",
+          "url": "https://open.spotify.com/artist/06iQ6TH82zx4zV3PCsqMOO"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144572,
+      "name": "Dub Of Excellence",
+      "url": "https://open.spotify.com/track/4XbeYLrMzKzEQIY4IiJxGT"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby In Dub",
+        "url": "https://open.spotify.com/album/4XDfjZdg3dyVSghKsaoty4"
+      },
+      "artists": [
+        {
+          "name": "African Brothers",
+          "url": "https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549"
+        },
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Dub On Fire",
+      "url": "https://open.spotify.com/track/0Z2zoo789arqc8VYvCeHzT"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby In Dub",
+        "url": "https://open.spotify.com/album/0TFhySyNe3yuznZBzB1zxc"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149373,
+      "name": "Dub On Fire",
+      "url": "https://open.spotify.com/track/7Gcpl9C0T9spWV1EhaJLxr"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby",
+        "url": "https://open.spotify.com/album/154ysaAUhoSi8eerWcaOd2"
+      },
+      "artists": [
+        {
+          "name": "The African Brothers",
+          "url": "https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt"
+        },
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 149446,
+      "name": "Dub on Fire",
+      "url": "https://open.spotify.com/track/6C8zb9jYENgXRuu2tuhYTl"
+    },
+    {
+      "album": {
+        "name": "Dub To Africa",
+        "url": "https://open.spotify.com/album/24MzWMDXdW02PBfEuwTaVK"
+      },
+      "artists": [
+        {
+          "name": "Prince Far I",
+          "url": "https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL"
+        },
+        {
+          "name": "The Arabs",
+          "url": "https://open.spotify.com/artist/0S2viS9F705zYKiMW13XeV"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199973,
+      "name": "Dub To Africa",
+      "url": "https://open.spotify.com/track/0UHy0scck2g0wJoltLTwDi"
+    },
+    {
+      "album": {
+        "name": "Dub To Africa",
+        "url": "https://open.spotify.com/album/5SzyrmaXqCRRzTeQQAXi7i"
+      },
+      "artists": [
+        {
+          "name": "Prince Far I",
+          "url": "https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL"
+        },
+        {
+          "name": "The Arabs",
+          "url": "https://open.spotify.com/artist/0S2viS9F705zYKiMW13XeV"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199973,
+      "name": "Dub To Africa",
+      "url": "https://open.spotify.com/track/7pf8Z5F8XvsGbxAIC1SRRu"
+    },
+    {
+      "album": {
+        "name": "At Channel One",
+        "url": "https://open.spotify.com/album/5KSdupp6VuqFBBwxuS0Gyq"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156933,
+      "name": "Enjoyment Dub",
+      "url": "https://open.spotify.com/track/4aD2IlvdN5ubh1WSPyI5VN"
+    },
+    {
+      "album": {
+        "name": "At Channel One",
+        "url": "https://open.spotify.com/album/5zoRhVb2gGr5TKQJIlUSE4"
+      },
+      "artists": [
+        {
+          "name": "Scientist",
+          "url": "https://open.spotify.com/artist/1edl5fzpdS471TaQ8Bgs3w"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Enjoyment Dub",
+      "url": "https://open.spotify.com/track/6SNtkh68RmIXCMLgHAsFLI"
+    },
+    {
+      "album": {
+        "name": "Fruit Of The Void",
+        "url": "https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284093,
+      "name": "Ferocious",
+      "url": "https://open.spotify.com/track/3aYXFRlQQmujy4UhrTOspP"
+    },
+    {
+      "album": {
+        "name": "Ferocious",
+        "url": "https://open.spotify.com/album/19DG1L2hMDF3Zd1Tk3SrYk"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 284093,
+      "name": "Ferocious",
+      "url": "https://open.spotify.com/track/6hQ16WF5bvIhW7OeHiFPsO"
+    },
+    {
+      "album": {
+        "name": "Essential Dub Masters",
+        "url": "https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN"
+      },
+      "artists": [
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218680,
+      "name": "Fisher Man Dub",
+      "url": "https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl"
+    },
+    {
+      "album": {
+        "name": "100 Dub Reggae Classics!",
+        "url": "https://open.spotify.com/album/7gufnq3tXw1XMiPIsonq1k"
+      },
+      "artists": [
+        {
+          "name": "Dub Masters",
+          "url": "https://open.spotify.com/artist/5hkl3ikch6ReyPmeC20wsx"
+        }
+      ],
+      "date_added": "2020-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228840,
+      "name": "Flabba Dub",
+      "url": "https://open.spotify.com/track/7eWuk2l3f7kLxzaiuxBWd3"
+    },
+    {
+      "album": {
+        "name": "Hit The Road Jack",
+        "url": "https://open.spotify.com/album/7Dtvr1ilH8VeNO0G1kV3xl"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190564,
+      "name": "Hit The Road Jack",
+      "url": "https://open.spotify.com/track/3No0oRVLAX4LG65iPNSHf5"
+    },
+    {
+      "album": {
+        "name": "Lov3",
+        "url": "https://open.spotify.com/album/2LQ8WI3myWEdXPOsVoCYSb"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190641,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/4EXKqlpnpSamlN1YgFGo0O"
+    },
+    {
+      "album": {
+        "name": "State Of Evolution",
+        "url": "https://open.spotify.com/album/6MUtJAAWkL8uNMecX7iJ4M"
+      },
+      "artists": [
+        {
+          "name": "Revolutionary Dub Warriors",
+          "url": "https://open.spotify.com/artist/6Rm6NVcciywWEZXRJRkNIu"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 471733,
+      "name": "Irie Warrior",
+      "url": "https://open.spotify.com/track/0meBxg5YqkOkxViCw38udQ"
+    },
+    {
+      "album": {
+        "name": "State Of Evolution",
+        "url": "https://open.spotify.com/album/1ps2bfGmthXxS4GCOI1O5E"
+      },
+      "artists": [
+        {
+          "name": "Revolutionary Dub Warriors",
+          "url": "https://open.spotify.com/artist/6Rm6NVcciywWEZXRJRkNIu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471733,
+      "name": "Irie Warrior",
+      "url": "https://open.spotify.com/track/3H5i4gzy3H6hWhM90oqy7Z"
+    },
+    {
+      "album": {
+        "name": "Dubwise",
+        "url": "https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2"
+      },
+      "artists": [
+        {
+          "name": "Prince Far I",
+          "url": "https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "Jah Do That",
+      "url": "https://open.spotify.com/track/3gH0VFRynyl6xC6nfFZYG7"
+    },
+    {
+      "album": {
+        "name": "Dub Rocker's Delight",
+        "url": "https://open.spotify.com/album/7byfckarXzMlSqDOIpE06Z"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212106,
+      "name": "Jah In Dub",
+      "url": "https://open.spotify.com/track/3ShdCF10PgPkKPLRdqkPSl"
+    },
+    {
+      "album": {
+        "name": "Don't Cut Off Your Dreadlocks",
+        "url": "https://open.spotify.com/album/3ruHUtqQ3d0f7Wyhyg5VqX"
+      },
+      "artists": [
+        {
+          "name": "Linval Thompson",
+          "url": "https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 178760,
+      "name": "Jah Jah Is the Conqueror",
+      "url": "https://open.spotify.com/track/7mEEngQNeIP0cZbFiycwfH"
+    },
+    {
+      "album": {
+        "name": "Cool Down",
+        "url": "https://open.spotify.com/album/0NTysYBPyN1RowPK1BJeZ6"
+      },
+      "artists": [
+        {
+          "name": "Linval Thompson",
+          "url": "https://open.spotify.com/artist/7IURtrIM8SBTlCI9qrAuUQ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180373,
+      "name": "Jah Jah The Conqueror",
+      "url": "https://open.spotify.com/track/3O1wnSP7bSKBlunGymIaX7"
+    },
+    {
+      "album": {
+        "name": "Dub Salute 5 (feat. Twinkle Brothers)",
+        "url": "https://open.spotify.com/album/6cce0CPwVkWV74QuHISSbY"
+      },
+      "artists": [
+        {
+          "name": "Jah Shaka",
+          "url": "https://open.spotify.com/artist/3UdoO8DiElu02b95ig57cC"
+        },
+        {
+          "name": "The Twinkle Brothers",
+          "url": "https://open.spotify.com/artist/129UGN7LRFtvMzCf0h2Y8s"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226373,
+      "name": "Jah Shall Reign Dub",
+      "url": "https://open.spotify.com/track/4W9vnsbTJuSNFQeSsRWfK5"
+    },
+    {
+      "album": {
+        "name": "The Roots Of Dubstep",
+        "url": "https://open.spotify.com/album/6lIdi0b22HDe9Ic9E1zsMF"
+      },
+      "artists": [
+        {
+          "name": "Mad Professor",
+          "url": "https://open.spotify.com/artist/3hbnUwHvxyFxeJ9veCzOE7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253453,
+      "name": "Jail House Dub",
+      "url": "https://open.spotify.com/track/1tszACVAezDsw71KyLOCpR"
+    },
+    {
+      "album": {
+        "name": "No Bed Of Roses",
+        "url": "https://open.spotify.com/album/0CrqzO1kdOYR66naUosing"
+      },
+      "artists": [
+        {
+          "name": "Dub Syndicate",
+          "url": "https://open.spotify.com/artist/4KIjA6Q0lA17xuBwA5KkW4"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-10",
+      "duration_ms": 255533,
+      "name": "Jamaican Proverb",
+      "url": "https://open.spotify.com/track/5jYVj4prrAjmXd0mNDaGAt"
+    },
+    {
+      "album": {
+        "name": "Prince Buster - Fabulous Greatest Hits [Diamond Range]",
+        "url": "https://open.spotify.com/album/3pLpyasCCfOs6mG4FylfVc"
+      },
+      "artists": [
+        {
+          "name": "Prince Buster",
+          "url": "https://open.spotify.com/artist/75S63f1AmZUa9gpQvlt5NB"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Judge Dread",
+      "url": "https://open.spotify.com/track/0XmbuWZ2vn1i8bim4Ug6BL"
+    },
+    {
+      "album": {
+        "name": "With the Artists",
+        "url": "https://open.spotify.com/album/0rrr4SP4dOoCynCyPFxA9j"
+      },
+      "artists": [
+        {
+          "name": "Rhythm & Sound",
+          "url": "https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386240,
+      "name": "King in My Empire",
+      "url": "https://open.spotify.com/track/5zfR5yKsmAiyiH6AbaNiOY"
+    },
+    {
+      "album": {
+        "name": "Late Night Tales: Hot Chip",
+        "url": "https://open.spotify.com/album/3ZqNP8EI8Q1drBos8oGnkz"
+      },
+      "artists": [
+        {
+          "name": "Rhythm & Sound",
+          "url": "https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo"
+        },
+        {
+          "name": "Cornell Campbell",
+          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 386240,
+      "name": "King in My Empire (Burial Mix)",
+      "url": "https://open.spotify.com/track/1nLS7g5glFo0Pnd8gMWZOt"
+    },
+    {
+      "album": {
+        "name": "With The Artists",
+        "url": "https://open.spotify.com/album/0wmxAOYBMqz436kZJBmNQK"
+      },
+      "artists": [
+        {
+          "name": "Rhythm & Sound",
+          "url": "https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo"
+        },
+        {
+          "name": "Cornell Campbell",
+          "url": "https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 386240,
+      "name": "King in My Empire (with Cornel Campbell)",
+      "url": "https://open.spotify.com/track/1i4KkAHiiTKHh8ysCSMvsJ"
+    },
+    {
+      "album": {
+        "name": "King With A Crown",
+        "url": "https://open.spotify.com/album/6ba9mFdypEhOmvrLHt2vCk"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "Koba Brown",
+          "url": "https://open.spotify.com/artist/7oS1yVWJ9p35xy7kXhfO75"
+        },
+        {
+          "name": "Addis Pablo",
+          "url": "https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159046,
+      "name": "King With A Crown",
+      "url": "https://open.spotify.com/track/2swExCMWD0ujcVyejt8Pvx"
+    },
+    {
+      "album": {
+        "name": "Drum Sound - More Gems From the Channel One Dub Room 1974 -1980",
+        "url": "https://open.spotify.com/album/405ttrp5xbSJKSkBz98poB"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 265333,
+      "name": "Kunta Kinte Dub",
+      "url": "https://open.spotify.com/track/6eCsMxyabKZWLOjoW3cgNF"
+    },
+    {
+      "album": {
+        "name": "Drum Sound - More Gems From the Channel One Dub Room 1974 -1980",
+        "url": "https://open.spotify.com/album/0VLAJO6is3voHtYLzk7fM8"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 265333,
+      "name": "Kunta Kinte Dub",
+      "url": "https://open.spotify.com/track/7622Jo93hnCOkViAgertAz"
+    },
+    {
+      "album": {
+        "name": "Black Redemption Sounds, Pt. 1",
+        "url": "https://open.spotify.com/album/7tXjOH5s5Yp50SEZ83xAvP"
+      },
+      "artists": [
+        {
+          "name": "Judah Eskender Tafari",
+          "url": "https://open.spotify.com/artist/6eXwWBiejwKVaFD9PRnVWi"
+        },
+        {
+          "name": "Mighty Massa",
+          "url": "https://open.spotify.com/artist/06NDo8XKiHzcqQo3UiIUTY"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257880,
+      "name": "Land of Version",
+      "url": "https://open.spotify.com/track/4iPFmddLTNRzXlrHnijIPz"
+    },
+    {
+      "album": {
+        "name": "Loser / Now We Know",
+        "url": "https://open.spotify.com/album/7bhfa8DcC4KPRqDWJmvlcu"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218653,
+      "name": "Loser",
+      "url": "https://open.spotify.com/track/1ZlRjoXqR9PdHNGQ707sJV"
+    },
+    {
+      "album": {
+        "name": "Reggae Gold 2019",
+        "url": "https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6"
+      },
+      "artists": [
+        {
+          "name": "Bitty McLean",
+          "url": "https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2"
+        },
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224535,
+      "name": "Made To Fall In Love",
+      "url": "https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq"
+    },
+    {
+      "album": {
+        "name": "Skylarking - The Best Of Horace Andy",
+        "url": "https://open.spotify.com/album/60SXBpogTJ43eoYbCRqgSo"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Natty Dread A Weh She Want",
+      "url": "https://open.spotify.com/track/5MXcMl4RWRLXRigOfuFEuT"
+    },
+    {
+      "album": {
+        "name": "Natty Dread A Weh She Want",
+        "url": "https://open.spotify.com/album/77wn3hpHMjZ8EPg0smijlp"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233706,
+      "name": "Natty Dread A Weh She Want",
+      "url": "https://open.spotify.com/track/6LTTvMt9fQwVc3a6IjS35d"
+    },
+    {
+      "album": {
+        "name": "Negus Negast, Pt. 2",
+        "url": "https://open.spotify.com/album/0NBJDoj7yR2SvnzDVGB2EG"
+      },
+      "artists": [
+        {
+          "name": "Rootz Dimensionz",
+          "url": "https://open.spotify.com/artist/7oOL5gkoBJBXQV7WOxgkC0"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222146,
+      "name": "Negus Negast, Pt. 2",
+      "url": "https://open.spotify.com/track/2SUzyAhKsaIC987kD1Ow1K"
+    },
+    {
+      "album": {
+        "name": "Modern Mantra",
+        "url": "https://open.spotify.com/album/4EOMQi0exEn5o6M6uUEj0F"
+      },
+      "artists": [
+        {
+          "name": "DJ Krush",
+          "url": "https://open.spotify.com/artist/00G1NTDAoU7rBpjG4KoYAM"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121280,
+      "name": "On the Dub-ble",
+      "url": "https://open.spotify.com/track/1pWAOjPUV6rrGcmLJaXgPR"
+    },
+    {
+      "album": {
+        "name": "Reggae Essentials",
+        "url": "https://open.spotify.com/album/0uACL997Wz16EQiZGT1iPh"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 310333,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/1B6eOSR65KTMIQCvmQ6nXS"
+    },
+    {
+      "album": {
+        "name": "War Ina Babylon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7xlWX3qBfCI68LjswqlBH6"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/2BX7M95kDw1NbmgZLgFl8H"
+    },
+    {
+      "album": {
+        "name": "War Ina Babylon",
+        "url": "https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV"
+      },
+      "artists": [
+        {
+          "name": "Max Romeo",
+          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
+        },
+        {
+          "name": "The Upsetters",
+          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313506,
+      "name": "One Step Forward",
+      "url": "https://open.spotify.com/track/5Xmplqj77ATmZcVdvhtzoo"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby In Dub",
+        "url": "https://open.spotify.com/album/4XDfjZdg3dyVSghKsaoty4"
+      },
+      "artists": [
+        {
+          "name": "African Brothers",
+          "url": "https://open.spotify.com/artist/11k2m9qpCFizHgqiXn1549"
+        },
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144093,
+      "name": "Original Dub",
+      "url": "https://open.spotify.com/track/6vadf2MtuWZwwLSUuv90p6"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby In Dub",
+        "url": "https://open.spotify.com/album/0TFhySyNe3yuznZBzB1zxc"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144093,
+      "name": "Original Dub",
+      "url": "https://open.spotify.com/track/5mPByd2ppul73z0C5zo1Ug"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby",
+        "url": "https://open.spotify.com/album/7nFgr9InWRRLROgJMMkgSl"
+      },
+      "artists": [
+        {
+          "name": "The African Brothers",
+          "url": "https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt"
+        },
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 144169,
+      "name": "Original Dub",
+      "url": "https://open.spotify.com/track/3f4KPHMjmnzBK3pAQXeT0N"
+    },
+    {
+      "album": {
+        "name": "The African Brothers Meet King Tubby",
+        "url": "https://open.spotify.com/album/154ysaAUhoSi8eerWcaOd2"
+      },
+      "artists": [
+        {
+          "name": "The African Brothers",
+          "url": "https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt"
+        },
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 144169,
+      "name": "Original Dub",
+      "url": "https://open.spotify.com/track/4wHRY65n20xsC0QBMu1hrW"
+    },
+    {
+      "album": {
+        "name": "Fruit Of The Void",
+        "url": "https://open.spotify.com/album/0UMI4uzrMRGjtGAWak26Em"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Ototoxic",
+      "url": "https://open.spotify.com/track/1FIwG4D6XLou0SEvt236bI"
+    },
+    {
+      "album": {
+        "name": "Ototoxic",
+        "url": "https://open.spotify.com/album/3FMyDjTyD8rLMPkpcwE4rm"
+      },
+      "artists": [
+        {
+          "name": "Kosmo Sound",
+          "url": "https://open.spotify.com/artist/55w8joyd87y5aaIix4xQBj"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 239693,
+      "name": "Ototoxic",
+      "url": "https://open.spotify.com/track/6o039qN5jgxb8WmA1gjk9Q"
+    },
+    {
+      "album": {
+        "name": "Rocker's Almighty Dub",
+        "url": "https://open.spotify.com/album/6mRMbxld2opUcbNYtc5pMk"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 221840,
+      "name": "Rocker's Almighty Dub",
+      "url": "https://open.spotify.com/track/20XxcYoQx7MrAYcHLLn30x"
+    },
+    {
+      "album": {
+        "name": "Horace Andy Deluxe Edition",
+        "url": "https://open.spotify.com/album/1OHdxeDzAr1MwrjtutQ33i"
+      },
+      "artists": [
+        {
+          "name": "Horace Andy",
+          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Rockers Almighty Dub",
+      "url": "https://open.spotify.com/track/7deOMfp7bDjTocSA0oZKLi"
+    },
+    {
+      "album": {
+        "name": "The Prime of Mikey Dread",
+        "url": "https://open.spotify.com/album/7dlFlZoYIJSaEX7zc8ZhZ8"
+      },
+      "artists": [
+        {
+          "name": "Mikey Dread",
+          "url": "https://open.spotify.com/artist/6xKQ3GOnt3gjzja4IcLyg4"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365760,
+      "name": "Roots and Culture",
+      "url": "https://open.spotify.com/track/2FvW1kJGtL2gx9xUT7Zfo2"
+    },
+    {
+      "album": {
+        "name": "Dub Massive Vol. 1",
+        "url": "https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw"
+      },
+      "artists": [
+        {
+          "name": "Prince Jammy",
+          "url": "https://open.spotify.com/artist/2ofzePirTpSz2qzyVt1Eoe"
+        },
+        {
+          "name": "Lee \"Scratch\" Perry",
+          "url": "https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218906,
+      "name": "Rude Boy",
+      "url": "https://open.spotify.com/track/4f1GpbYe1TAYTS6NJkhr4Y"
+    },
+    {
+      "album": {
+        "name": "At Channel One",
+        "url": "https://open.spotify.com/album/5zoRhVb2gGr5TKQJIlUSE4"
+      },
+      "artists": [
+        {
+          "name": "The Crazy Mad Professor",
+          "url": "https://open.spotify.com/artist/5n4FlWt1mBjuiNkx3vvyfI"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "Sailors Dub",
+      "url": "https://open.spotify.com/track/4Flx2sSsdxRNpbykvZJeQL"
+    },
+    {
+      "album": {
+        "name": "At Channel One",
+        "url": "https://open.spotify.com/album/5KSdupp6VuqFBBwxuS0Gyq"
+      },
+      "artists": [
+        {
+          "name": "The Crazy Mad Professor",
+          "url": "https://open.spotify.com/artist/5n4FlWt1mBjuiNkx3vvyfI"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180760,
+      "name": "Sailors Dub",
+      "url": "https://open.spotify.com/track/6nH9254NEli6m6KXKS98XS"
+    },
+    {
+      "album": {
+        "name": "Jah Shaka Meets Mad Professor at Ariwa Sounds",
+        "url": "https://open.spotify.com/album/4jIChdFhiHXOtCP8tOxD8a"
+      },
+      "artists": [
+        {
+          "name": "Jah Shaka & Mad Professor",
+          "url": "https://open.spotify.com/artist/7uyJYWtpq9vKSgCz35dfEJ"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278961,
+      "name": "Satta Dub",
+      "url": "https://open.spotify.com/track/3Rh4wkbhJihnCkTITD2b74"
+    },
+    {
+      "album": {
+        "name": "Screaming Target",
+        "url": "https://open.spotify.com/album/00SL37vqaciIS4sS8WhetN"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Screaming Target",
+      "url": "https://open.spotify.com/track/0KJiaXJha6yhlBjGZID13j"
+    },
+    {
+      "album": {
+        "name": "Big Youth Speaks: Life Is Not an Easy Road",
+        "url": "https://open.spotify.com/album/7xxG8iDbfmj6yiPFUA2B2Z"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219706,
+      "name": "Screaming Target",
+      "url": "https://open.spotify.com/track/1CdUusyZEdRcqBdWqZHva4"
+    },
+    {
+      "album": {
+        "name": "Screaming Target",
+        "url": "https://open.spotify.com/album/0xpk3CbfeTZGLrHNTwFhsn"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 219706,
+      "name": "Screaming Target",
+      "url": "https://open.spotify.com/track/3MOAQQuIAzsGp13Ux9rEN9"
+    },
+    {
+      "album": {
+        "name": "Screaming Target",
+        "url": "https://open.spotify.com/album/7IIPaUPCEYVQiXLP3R6ROW"
+      },
+      "artists": [
+        {
+          "name": "Big Youth",
+          "url": "https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219706,
+      "name": "Screaming Target",
+      "url": "https://open.spotify.com/track/6jxka5AJgy5VReTKJJIAyw"
+    },
+    {
+      "album": {
+        "name": "So Jah Seh Dub",
+        "url": "https://open.spotify.com/album/5h5cLRQS7wtLstpIV7xjxL"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260906,
+      "name": "So Jah Seh Dub",
+      "url": "https://open.spotify.com/track/43ls1XlSliW7SAiEFWruIW"
+    },
+    {
+      "album": {
+        "name": "So Jah Sey Dub",
+        "url": "https://open.spotify.com/album/6qTqqeTkJfcPWq8vA1gVV2"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260906,
+      "name": "So Jah Sey Dub",
+      "url": "https://open.spotify.com/track/0T5p5JWseJxbqGr3cILhL4"
+    },
+    {
+      "album": {
+        "name": "Kaya Dub",
+        "url": "https://open.spotify.com/album/4eR5VAI9SZFFF06XfVkoaG"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "So Jah Sey Dub",
+      "url": "https://open.spotify.com/track/2RjHmvBzbOHs2J3tfE7Hbn"
+    },
+    {
+      "album": {
+        "name": "Kaya Dub",
+        "url": "https://open.spotify.com/album/6XR63b4xn1zvqA8Dyy8tkC"
+      },
+      "artists": [
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 260906,
+      "name": "So Jah Sey Dub",
+      "url": "https://open.spotify.com/track/6e6ao104zNnDUeA4v8FN6H"
+    },
+    {
+      "album": {
+        "name": "Red",
+        "url": "https://open.spotify.com/album/3evCEzHbkLPXuMqw9ISd3T"
+      },
+      "artists": [
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293493,
+      "name": "Sponji Reggae",
+      "url": "https://open.spotify.com/track/1NeZjWdwvsEEDpHbuj54we"
+    },
+    {
+      "album": {
+        "name": "Summer Reggae",
+        "url": "https://open.spotify.com/album/3Bq2Hgnn115mbiwCZ2Gm6c"
+      },
+      "artists": [
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 294653,
+      "name": "Sponji Reggae",
+      "url": "https://open.spotify.com/track/0kXpteSMhbzhvgtvuDxd8e"
+    },
+    {
+      "album": {
+        "name": "What Is Life - An Introduction To Black Uhuru",
+        "url": "https://open.spotify.com/album/5RW6q6JEscCOVIN0BiEFKg"
+      },
+      "artists": [
+        {
+          "name": "Black Uhuru",
+          "url": "https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297066,
+      "name": "Sponji Reggae",
+      "url": "https://open.spotify.com/track/6lnl40FdAdAmUZt1mtTOC3"
+    },
+    {
+      "album": {
+        "name": "Dub Roots",
+        "url": "https://open.spotify.com/album/7atry0zfZzKkBqq5hwscnB"
+      },
+      "artists": [
+        {
+          "name": "Prince Douglas",
+          "url": "https://open.spotify.com/artist/1Z5aeTi3AY3GaKZr6m1sJu"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "Sunshine Dub",
+      "url": "https://open.spotify.com/track/0j54ClXNKqQLFweBk0oawv"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/09DhBkExGYrp5TH8EMWSiD"
+      },
+      "artists": [
+        {
+          "name": "Sly",
+          "url": "https://open.spotify.com/artist/7mh5yWKyUcN4xYhEJsWcxI"
+        },
+        {
+          "name": "Robbie",
+          "url": "https://open.spotify.com/artist/52f9xu2VBr99vFO7bzxiLP"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270826,
+      "name": "The Bomber",
+      "url": "https://open.spotify.com/track/4z1wB5oMJcTrh0kUT5UCZJ"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/0OX6gKGN8qW2dEjXCuWbFr"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 270826,
+      "name": "The Bomber",
+      "url": "https://open.spotify.com/track/5F39feJJYyUgRCwZJ5RBSP"
+    },
+    {
+      "album": {
+        "name": "Blackwood Dub",
+        "url": "https://open.spotify.com/album/3DEo0xobmfAfLrIvJAjZli"
+      },
+      "artists": [
+        {
+          "name": "Sly & Robbie",
+          "url": "https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 270826,
+      "name": "The Bomber",
+      "url": "https://open.spotify.com/track/7DdyGXi2DLbxWyOJT20P12"
+    },
+    {
+      "album": {
+        "name": "The Loser / Now We Know",
+        "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
+    },
+    {
+      "album": {
+        "name": "Derrick Harriott Rocksteady 1965 to 1968 - 10 Singles Set Pt. 1",
+        "url": "https://open.spotify.com/album/6nEU8MIp585oxwMgF3EvFS"
+      },
+      "artists": [
+        {
+          "name": "Derrick Harriott",
+          "url": "https://open.spotify.com/artist/1ht9oSlPiNywrg22T2sM8d"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218653,
+      "name": "The Loser",
+      "url": "https://open.spotify.com/track/4ZIZ5fAAfqyhkscTVTwuiz"
+    },
+    {
+      "album": {
+        "name": "Dubwise",
+        "url": "https://open.spotify.com/album/06PpN3LxxkiDYB5miBhUa2"
+      },
+      "artists": [
+        {
+          "name": "Prince Far I",
+          "url": "https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263639,
+      "name": "Throw Away Your Gun - 1991 Digital Remaster",
+      "url": "https://open.spotify.com/track/65TNC2zSsAOnTcHcvZ1o76"
+    },
+    {
+      "album": {
+        "name": "Here I Come",
+        "url": "https://open.spotify.com/album/2FYgSbuEn19zQd7ek9azyl"
+      },
+      "artists": [
+        {
+          "name": "Barrington Levy",
+          "url": "https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-10",
+      "duration_ms": 191400,
+      "name": "Under Mi Sensi",
+      "url": "https://open.spotify.com/track/2TBOlAo3jhW00nKl5EIhYo"
+    },
+    {
+      "album": {
+        "name": "Vlinders (Collignon Remix)",
+        "url": "https://open.spotify.com/album/0DONJ6LO4vFjtijjjnGXGM"
+      },
+      "artists": [
+        {
+          "name": "KOFFIE",
+          "url": "https://open.spotify.com/artist/1RVrNwHf4vDvBALBS2W5xA"
+        },
+        {
+          "name": "COLLIGNON",
+          "url": "https://open.spotify.com/artist/48OTFVKJ0VEviIC2leEbXp"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207292,
+      "name": "Vlinders - Collignon Remix",
+      "url": "https://open.spotify.com/track/49ST6EAK525PBdMXkzVa7m"
+    },
+    {
+      "album": {
+        "name": "40 Buddha Lounge Essentials",
+        "url": "https://open.spotify.com/album/6EDCQ5DKRNwkPpGnPmoTQK"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 398053,
+      "name": "Waiting In The Park Dub",
+      "url": "https://open.spotify.com/track/10Iv0caBaOPyGs27YJHmUV"
+    },
+    {
+      "album": {
+        "name": "Essential Dub 1977",
+        "url": "https://open.spotify.com/album/4XCmpOHan0DRPWFVUSxaIN"
+      },
+      "artists": [
+        {
+          "name": "The Revolutionaries",
+          "url": "https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398053,
+      "name": "Waiting In The Park Dub",
+      "url": "https://open.spotify.com/track/5mtj35n4s76W4N03p1x4i0"
+    },
+    {
+      "album": {
+        "name": "Bad Bad Things",
+        "url": "https://open.spotify.com/album/3gayu58nRRL9fDpd5Az8kz"
+      },
+      "artists": [
+        {
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227645,
+      "name": "White Birds (Instrumental Version)",
+      "url": "https://open.spotify.com/track/6u2g6f67PqUMJq9GHajjXn"
+    },
+    {
+      "album": {
+        "name": "Bad Bad Thing",
+        "url": "https://open.spotify.com/album/75PPqLtADwkI4qSkOqVe6e"
+      },
+      "artists": [
+        {
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227645,
+      "name": "White Birds - Instrumental Version",
+      "url": "https://open.spotify.com/track/4AMIE42Vs2c0AhAoO1sJpr"
+    },
+    {
+      "album": {
+        "name": "Dub Massive Vol. 1",
+        "url": "https://open.spotify.com/album/5tiCR9iGhxWu8R4oqcKDzw"
+      },
+      "artists": [
+        {
+          "name": "Jah Thomas",
+          "url": "https://open.spotify.com/artist/6HlApAOH4X51mkur3KeMGr"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179266,
+      "name": "White Rice Dub",
+      "url": "https://open.spotify.com/track/2cqbNNonGbQE0zfF9HRLan"
+    },
+    {
+      "album": {
+        "name": "This Is Trojan Dub",
+        "url": "https://open.spotify.com/album/5tA2nuPhQz0AVIzQtayJKi"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        },
+        {
+          "name": "The Aggrovators",
+          "url": "https://open.spotify.com/artist/2qX63C7rYqUDrY3CD7sbUm"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 193346,
+      "name": "Zion Gate - Dub",
+      "url": "https://open.spotify.com/track/47FAgQPir7zP5ki006SaCo"
+    },
+    {
+      "album": {
+        "name": "From The Palace Of Dub",
+        "url": "https://open.spotify.com/album/0Tx1mUzIAdN43N7lMW2LUW"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 190439,
+      "name": "Zion Gate Dub",
+      "url": "https://open.spotify.com/track/0XDFYnvZANTULQxWofURlH"
+    },
+    {
+      "album": {
+        "name": "Ska Jam: The Rude Boy Mixtape",
+        "url": "https://open.spotify.com/album/2Mr8jBQeCqWMTBDMJfoXBk"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192520,
+      "name": "Zion Gate Dub",
+      "url": "https://open.spotify.com/track/243ucbIZFFKFdIYQhfNNon"
+    },
+    {
+      "album": {
+        "name": "30 Years of Dub Music on the Go",
+        "url": "https://open.spotify.com/album/0kznl5dkzF6bOQU30BAe3F"
+      },
+      "artists": [
+        {
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 194666,
+      "name": "Zion Gate Dub",
+      "url": "https://open.spotify.com/track/1ipNNP3bwILX6W2nMa29S7"
+    },
+    {
+      "album": {
+        "name": "Keep The Pressure Down - Essential Roots Reggae Rarities",
+        "url": "https://open.spotify.com/album/2QDnGgCbcB48ZMCprCvoaf"
+      },
+      "artists": [
+        {
+          "name": "Vin Gordon",
+          "url": "https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188893,
+      "name": "Zionyouth",
+      "url": "https://open.spotify.com/track/2FrZoMAivb7RSId6R8z7ZW"
+    },
+    {
+      "album": {
+        "name": "Kings of Kingston, Jamaica",
+        "url": "https://open.spotify.com/album/379KfVQQh06TbtgHUfflJH"
+      },
+      "artists": [
+        {
+          "name": "Vin Gordon",
+          "url": "https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj"
+        }
+      ],
+      "date_added": "2020-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Zionyouth",
+      "url": "https://open.spotify.com/track/3wy8aJfGwaTO8D6ZkV9bwJ"
+    },
+    {
+      "album": {
+        "name": "Keep the Pressure Down",
+        "url": "https://open.spotify.com/album/5WuRzPhWIEMwdpHu3FR2yg"
+      },
+      "artists": [
+        {
+          "name": "Vin Gordon",
+          "url": "https://open.spotify.com/artist/1mgF8WKDBi8uBzzC93wIyj"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188893,
+      "name": "Zionyouth",
+      "url": "https://open.spotify.com/track/6W8qaYPPWL5CxGbvLKpvT4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9udeSemCofA"
 }

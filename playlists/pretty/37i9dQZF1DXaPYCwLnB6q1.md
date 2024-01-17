@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 
 > These are the songs that shape <a href="https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy?si=ead57c8c75c94c3a">PVRIS'</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI"> here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,454 likes - 31 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,657 likes - 31 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPYCwLnB6q1.md) - [plain]
 | 30 | [Comme Des Garçons \(Like The Boys\)](https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:01 |
 | 31 | [GODDESS](https://open.spotify.com/track/1ZngTOTM9nWJZOnG3vWkUF) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [EVERGREEN](https://open.spotify.com/album/4CLLPZzm1QDzUZ8FTkNPyy) | 2:32 |
 
-Snapshot ID: `MCwwZjZkNjZhOTE1ZDQ0Mjg2MTMyY2U2NDM4YjFmNjg2N2FmOTZmMzBj`
+Snapshot ID: `MCwxNjRmYzhiMzUxYmYwMGM2ZWJhYTcwMjYxODlhMmUxNWFkZWYxODYx`

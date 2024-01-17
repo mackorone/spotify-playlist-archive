@@ -4,7 +4,7 @@
 
 > Global crossovers by/with Arab artists\. Cover: Mishaal Tamer
 
-318 songs - 17 hr 48 min
+320 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Awake](https://open.spotify.com/track/4hLN4fsuA4E5HyOQM7d5Fo) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Awake](https://open.spotify.com/album/4EVEmumfv1Maw79Kipv0Uw) | 3:00 | 2021-12-16 | 2022-10-09 |
 | [Bahja Bidha](https://open.spotify.com/track/75pvUJiPQ2Eg0wSiZokVe9) | [Dahmane El Harrachi](https://open.spotify.com/artist/0WtlXlCzfp2mJyINCsf1tb) | [Le Chaâbi, Vol\. 2](https://open.spotify.com/album/0kNtY2VnymD3B7veZcLoaR) | 5:57 | 2022-06-06 | 2022-06-24 |
 | [Bansa 7aly](https://open.spotify.com/track/4eJk6TUT561QX2BE73Q208) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Bansa 7aly](https://open.spotify.com/album/01cwuv9Yy87R1HmNsKJsbi) | 2:36 | 2023-12-15 |  |
+| [Batwanes Beek](https://open.spotify.com/track/1GeYUET3K5CwpkhsiwzUrV) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Batwanes Beek](https://open.spotify.com/album/4YxeCQ6xwltgmLZQyLwVVe) | 2:09 | 2024-01-05 |  |
 | [Batwanes Beek](https://open.spotify.com/track/2A4xTe1uOdRKKJUyilAqrF) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Batwanes Beek](https://open.spotify.com/album/3w6wliAjhJS16hZyimZpT7) | 13:24 | 2022-06-06 | 2022-06-24 |
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-12-08 |
 | [Believing In Me \(feat\. King Los\)](https://open.spotify.com/track/7JwWZEXsbB1Fb7cmrmpoOo) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC) | [Believing In Me](https://open.spotify.com/album/6oLdufnqZzlL643clLTGmM) | 2:24 | 2023-01-25 | 2023-09-07 |
@@ -43,6 +44,7 @@
 | [Busy Body](https://open.spotify.com/track/0hJZIXgZqNFBMtBZIKVMXw) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [Busy Body](https://open.spotify.com/album/0WppIcrW3CFf6hjP1iPb7O) | 2:32 | 2021-12-16 | 2022-07-29 |
 | [Busy Body](https://open.spotify.com/track/3jpDQxRLXSMFLcYqGWdSP2) | [Omar Basaad](https://open.spotify.com/artist/4DEJR7clVpc8EpPHMWz4RZ), [Emmy Jhay](https://open.spotify.com/artist/2Ge8G4o4JRxi9X0sfEQYW6) | [MINDCATION](https://open.spotify.com/album/5qsVDa6vDXkyMZPe7tBqPc) | 2:32 | 2022-07-28 | 2022-10-09 |
 | [Call Her Right Now](https://open.spotify.com/track/3ZZNpESGS4HnRlT1iZQVWq) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3), [HADY MOAMER](https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD), [Motif Alumni](https://open.spotify.com/artist/00FC4KkW4wnmRtEA7tq7mC) | [Call Her Right Now](https://open.spotify.com/album/3UUqKY7fBTEr4pVVpJQU14) | 2:17 | 2023-08-06 |  |
+| [CALM DOWN](https://open.spotify.com/track/6cCVxAMuRfgCuRzHhATwAu) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf), [Shepard](https://open.spotify.com/artist/7cOAU2gxgUOgRTMxoMWXwM) | [CALM DOWN](https://open.spotify.com/album/1S35vubI5QNZUlmYK6p0Zz) | 1:30 | 2024-01-05 |  |
 | [Can't Decide](https://open.spotify.com/track/6LO5PBp7goiKDYoWZTcF84) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Nader Khalil](https://open.spotify.com/album/4llHNpLrRq526dI2BqATuG) | 1:52 | 2022-03-03 | 2022-07-18 |
 | [Can't Keep Up](https://open.spotify.com/track/1qoDPqAfOGz0STUUN8G2IO) | [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Can't Keep Up](https://open.spotify.com/album/4Mf12pqdYijMWkerNxZZRk) | 3:34 | 2023-06-13 | 2023-09-20 |
 | [Can't Let You Go](https://open.spotify.com/track/5RfrZ5Lgr3fdtgnvhh3va8) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Can't Let You Go](https://open.spotify.com/album/4Mxvm1AvvhrohYFo1VlhXZ) | 3:24 | 2021-12-16 | 2022-04-09 |
@@ -74,7 +76,7 @@
 | [Drunk in Berlin](https://open.spotify.com/track/7nwoZs2HNMZd1XjNcktiTq) | [Not.Fay](https://open.spotify.com/artist/5oBXBDfbDztCCPGHXqJKUo) | [Drunk in Berlin](https://open.spotify.com/album/7cJ2iXTJa0ksMtgnjj0uPK) | 2:37 | 2021-12-16 | 2022-05-28 |
 | [Dw About Me](https://open.spotify.com/track/0YegRkJ8GuJHMsyY0KOpKw) | [YAS](https://open.spotify.com/artist/62yJAMA6CSwcNTcdsnK9P6) | [Dw About Me](https://open.spotify.com/album/5dg7kVLoiLciidyIkrT2yD) | 2:57 | 2021-12-16 | 2022-11-20 |
 | [Effects Of Thoughts](https://open.spotify.com/track/78ACXVGjnl6C0R8IbMhePg) | [Rhita Nattah](https://open.spotify.com/artist/5JLjlEpNZTK5CTJdvpKZVr) | [Effects Of Thoughts](https://open.spotify.com/album/0ZuwDdFNfDG6bCRmGyLpPa) | 2:51 | 2021-12-16 | 2022-03-30 |
-| [Egyptian Lover](https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Egyptian Lover](https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2) | 1:58 | 2023-04-21 |  |
+| [Egyptian Lover](https://open.spotify.com/track/6cXwmgaPgKyLDL0xWiVNyX) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F) | [Egyptian Lover](https://open.spotify.com/album/40CEKSB4zJErS8ZFdpuss2) | 1:58 | 2023-04-21 | 2024-01-06 |
 | [Egyptian Wifey](https://open.spotify.com/track/2XBEQM6MEQW0JCEhrsFQp1) | [Bayou](https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3) | [Egyptian Wifey](https://open.spotify.com/album/3OCMyZIbBTWyCYqk7lcI1o) | 2:51 | 2023-05-12 |  |
 | [EL DAYNASOUR](https://open.spotify.com/track/2mmIcXD5vTJwngdlnp4g0q) | [Islam Chipsy](https://open.spotify.com/artist/1EKPc0xUrJKAQrYtEwuzvT), [EEK](https://open.spotify.com/artist/6VHaYN8XFVjXRhQYkHmFgF) | [EL DAYNASOUR](https://open.spotify.com/album/5vscrHtVOzo7UV9yc9UypS) | 4:00 | 2022-06-06 | 2022-06-24 |
 | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/track/21A4JaxvfhCINfSV7opcUv) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO), [Amal Maghrabi](https://open.spotify.com/artist/5QzA0opnA9ZIGWF5ZFFnNI) | [El Radio \(feat\. Amal Maghrabi\)](https://open.spotify.com/album/23h8qFcArj3keLTY0jmyJl) | 3:28 | 2021-12-16 | 2022-07-29 |

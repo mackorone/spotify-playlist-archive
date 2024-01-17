@@ -1,13 +1,997 @@
 {
-  "2023-12-22": 3450,
-  "2023-12-23": 3656,
-  "2023-12-24": 3899,
-  "2023-12-25": 4277,
-  "2023-12-26": 4551,
-  "2023-12-27": 4733,
-  "2023-12-30": 5494,
-  "2023-12-31": 5794,
-  "2024-01-01": 6248,
-  "2024-01-02": 6541,
-  "2024-01-03": 6726
+  "2024-01-17": 9509,
+  "date_first_scraped": "2023-12-22",
+  "description": "Ya no vuelvas, a menos que sea cuarteteando. Foto: Luck Ra.",
+  "name": "Lo Mejor De 100% Cuarteto",
+  "tracks": [
+    {
+      "album": {
+        "name": "Aguardiente",
+        "url": "https://open.spotify.com/album/6yVuaS43iSMINaK3LTPBbR"
+      },
+      "artists": [
+        {
+          "name": "Dale Q' Va",
+          "url": "https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V"
+        },
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199445,
+      "name": "Aguardiente",
+      "url": "https://open.spotify.com/track/4VmeOrqo71YrPEjPgdKOBy"
+    },
+    {
+      "album": {
+        "name": "Amor Gitano",
+        "url": "https://open.spotify.com/album/6H5UEE12J4faOSsikrdyP4"
+      },
+      "artists": [
+        {
+          "name": "La Barra",
+          "url": "https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332351,
+      "name": "Amor Gitano",
+      "url": "https://open.spotify.com/track/6TLM8tTLV1UsJMKyL5fXvt"
+    },
+    {
+      "album": {
+        "name": "Aqui No Es",
+        "url": "https://open.spotify.com/album/39ONwIdsefek7bPlFV75an"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188944,
+      "name": "Aqui No Es",
+      "url": "https://open.spotify.com/track/7xUuyJLGZg0osGSxhlI8MV"
+    },
+    {
+      "album": {
+        "name": "Aunque Sea En Otra Vida",
+        "url": "https://open.spotify.com/album/2xzf1jeqi5Fe3FkP8EI2fo"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231509,
+      "name": "Aunque Sea En Otra Vida",
+      "url": "https://open.spotify.com/track/3vqqZWAdmThQFxMAiuEZzK"
+    },
+    {
+      "album": {
+        "name": "Bebe Dame",
+        "url": "https://open.spotify.com/album/5e5fMGbf8nWb0gLok4HZxC"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167843,
+      "name": "Bebe Dame",
+      "url": "https://open.spotify.com/track/6BaE9YFxMmXVeo8vm33pdH"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same Bonito (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/3pjmbJtNGm5Hkk1nvkhQZd"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232032,
+      "name": "B\u00e9same Bonito (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/59Pu5MCWIYRfF2LSHmtOAc"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/5L2L50FpHH4Ap0EDby2A7I"
+      },
+      "artists": [
+        {
+          "name": "Diego Giannini",
+          "url": "https://open.spotify.com/artist/0Wb8Pu3pQBRYRhuc9yRZOU"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200978,
+      "name": "Carne y Hueso",
+      "url": "https://open.spotify.com/track/7bUhlsgbmyOXhUxiE1g381"
+    },
+    {
+      "album": {
+        "name": "Casi Que Me Pierdo",
+        "url": "https://open.spotify.com/album/5IQ4cyCs8yk8NSQfZ9VYao"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145334,
+      "name": "Casi Que Me Pierdo",
+      "url": "https://open.spotify.com/track/5MRkyjBeo8hg0KGGI7q7lg"
+    },
+    {
+      "album": {
+        "name": "Como La Primera Vez",
+        "url": "https://open.spotify.com/album/25bmi5QxyxzTbweYEeTtUd"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233720,
+      "name": "Como La Primera Vez",
+      "url": "https://open.spotify.com/track/04yNy2x0uJKE3iWHlmNTX0"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Guerrero (En Vivo)",
+        "url": "https://open.spotify.com/album/1P3h9bf0TZNzLarS1G6CsX"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186004,
+      "name": "Coraz\u00f3n Guerrero (En Vivo)",
+      "url": "https://open.spotify.com/track/5UHDpDK2zHJJFObMEfNk2b"
+    },
+    {
+      "album": {
+        "name": "Crimenes Perfectos",
+        "url": "https://open.spotify.com/album/7pSRkjpTzpxjqfgzcrbQO3"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122387,
+      "name": "Crimenes Perfectos",
+      "url": "https://open.spotify.com/track/2nk3FvvhXu6IPCVuEbIh60"
+    },
+    {
+      "album": {
+        "name": "De Nada",
+        "url": "https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3"
+      },
+      "artists": [
+        {
+          "name": "Magui Olave",
+          "url": "https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197565,
+      "name": "De Nada",
+      "url": "https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf"
+    },
+    {
+      "album": {
+        "name": "Despechada (Cover) [En Vivo]",
+        "url": "https://open.spotify.com/album/7uXNegW0zpr5lrRo9YNiOl"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172585,
+      "name": "Despechada (Cover) - En Vivo",
+      "url": "https://open.spotify.com/track/1487Hvk6G70cTk3LcD4zZP"
+    },
+    {
+      "album": {
+        "name": "Diganle",
+        "url": "https://open.spotify.com/album/12f3s7wfWqaxmulXQLRcIc"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133251,
+      "name": "Diganle",
+      "url": "https://open.spotify.com/track/4tvxEdNhLHdhYkplr2YVot"
+    },
+    {
+      "album": {
+        "name": "Dime Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/5gGUOdk6ryPztvUtN6VVZx"
+      },
+      "artists": [
+        {
+          "name": "Agus Cassano",
+          "url": "https://open.spotify.com/artist/5Jmui4kpdCfcyz8KFSpHRY"
+        },
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189327,
+      "name": "Dime Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/3aflQMCMmqhs9S8JjGNIUG"
+    },
+    {
+      "album": {
+        "name": "El Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/60S9uAjCXNZsDn43UqOXCO"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174292,
+      "name": "El Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7Mg5Hrttpnys754rC7vmwA"
+    },
+    {
+      "album": {
+        "name": "Ferxxo 100",
+        "url": "https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169589,
+      "name": "Ferxxo 100",
+      "url": "https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6xwX7AvhBv0yhUOyHAsbEZ"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        },
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/1j3hgXfIOJ5WrNiNiXs4uw"
+    },
+    {
+      "album": {
+        "name": "Ji Ji Ji",
+        "url": "https://open.spotify.com/album/2RXtIUWgZ3CynngFotIDUF"
+      },
+      "artists": [
+        {
+          "name": "THE PALMERS",
+          "url": "https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193928,
+      "name": "Ji Ji Ji",
+      "url": "https://open.spotify.com/track/2716BxBC12mBVOH9uNNsHR"
+    },
+    {
+      "album": {
+        "name": "Ahora Comienza la Fiesta",
+        "url": "https://open.spotify.com/album/2cO9I5YwkAPG98SW5udxz4"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "La Luna",
+      "url": "https://open.spotify.com/track/1jWktdZ4aaiaPAP5EiIBov"
+    },
+    {
+      "album": {
+        "name": "La Morocha",
+        "url": "https://open.spotify.com/album/1cNasYwHwTr9U5QFNNXd61"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/7aPsseax6rNFyipHn9A5CR"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a de los Ojos Tristes",
+        "url": "https://open.spotify.com/album/2P9PHXR0KEBu9Wzcmm4r8B"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278067,
+      "name": "La Ni\u00f1a de los Ojos Tristes",
+      "url": "https://open.spotify.com/track/5rMBBvl7sfvBhCvZsLwbxh"
+    },
+    {
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/307d2X9AdbxbyFd008xmn7"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181538,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/2WFrChyI5KlmxunG45Sqws"
+    },
+    {
+      "album": {
+        "name": "Latidos",
+        "url": "https://open.spotify.com/album/6qAaJdy2UM3q2ZGvm0v3jy"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173873,
+      "name": "Latidos",
+      "url": "https://open.spotify.com/track/4Dky5d2domAbinmF4gjjiF"
+    },
+    {
+      "album": {
+        "name": "Loca de Amor - Vestido Azul",
+        "url": "https://open.spotify.com/album/38iP1WBkUkBCLK1pwedSlk"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366368,
+      "name": "Loca de Amor - Vestido Azul",
+      "url": "https://open.spotify.com/track/3GdmO5bwrMkfitfcOS3MZv"
+    },
+    {
+      "album": {
+        "name": "Luck Ra | Mission 15",
+        "url": "https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133284,
+      "name": "Luck Ra | Mission 15",
+      "url": "https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn"
+    },
+    {
+      "album": {
+        "name": "Me Encanta / Latidos",
+        "url": "https://open.spotify.com/album/3wsVKXC06eJiTL43eMgceJ"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230766,
+      "name": "Me Encanta / Latidos",
+      "url": "https://open.spotify.com/track/3Thxy7NVkqg97PVWLrlt2n"
+    },
+    {
+      "album": {
+        "name": "No me pueden parar",
+        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208750,
+      "name": "Me levante",
+      "url": "https://open.spotify.com/track/0DGJyRo4L8p3AAz1WmUoZ3"
+    },
+    {
+      "album": {
+        "name": "Mentiras | CROSSOVER #3",
+        "url": "https://open.spotify.com/album/1adrM169dtUitpsQomXsX3"
+      },
+      "artists": [
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Mentiras | CROSSOVER #3",
+      "url": "https://open.spotify.com/track/6Z28dALKtAgZ7AZRfjMQjY"
+    },
+    {
+      "album": {
+        "name": "Desde el Bar",
+        "url": "https://open.spotify.com/album/7afSoxmiNzFuUnjmbDN3eF"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142361,
+      "name": "Monotonia",
+      "url": "https://open.spotify.com/track/73PhGO0aMHskiHBvmqiNDU"
+    },
+    {
+      "album": {
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+      },
+      "artists": [
+        {
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+        "url": "https://open.spotify.com/album/4abxB4hx5B9197BK6hAccz"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179876,
+      "name": "MYA LIVE P2: Coraz\u00f3n Guerrero",
+      "url": "https://open.spotify.com/track/4Rs4ijFlNvhJ2fuRFNCH9h"
+    },
+    {
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220753,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/44VMZB1D8fovWxdDIwIPo6"
+    },
+    {
+      "album": {
+        "name": "Alberto Plaza Duetos",
+        "url": "https://open.spotify.com/album/4W9nA58mTOEPOPV7G9BUer"
+      },
+      "artists": [
+        {
+          "name": "Alberto Plaza",
+          "url": "https://open.spotify.com/artist/0Up8AZmXDecXiMirZhRLmw"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236474,
+      "name": "No Seas Cruel",
+      "url": "https://open.spotify.com/track/0dy6Q3f9kST1KvUU0hov6J"
+    },
+    {
+      "album": {
+        "name": "No_se_ve.mp3",
+        "url": "https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135902,
+      "name": "No_se_ve.mp3",
+      "url": "https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9"
+    },
+    {
+      "album": {
+        "name": "Arriba las Palmas (En Vivo)",
+        "url": "https://open.spotify.com/album/0VpKJA0JWIwIReM53ay6hs"
+      },
+      "artists": [
+        {
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315157,
+      "name": "Ojala Que No Puedas / Me Parece Que - En Vivo",
+      "url": "https://open.spotify.com/track/7akGuN97NN6pwt8zwR07hY"
+    },
+    {
+      "album": {
+        "name": "Otra Noche",
+        "url": "https://open.spotify.com/album/72SN7yLFYzocX4639W6YJj"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195552,
+      "name": "Otra Noche",
+      "url": "https://open.spotify.com/track/6RMnctkTxWZgzrFlxCHjXG"
+    },
+    {
+      "album": {
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/3XCYiTerlIp8BcwJKteFbJ"
+      },
+      "artists": [
+        {
+          "name": "ARRIBA LAS PALMAS",
+          "url": "https://open.spotify.com/artist/3UwhcTFnEvxWVudjilDwu2"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234718,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/6pb0BcGj3j5J8jE4qw0Vkq"
+    },
+    {
+      "album": {
+        "name": "Provenza / Te Felicito / Despechao",
+        "url": "https://open.spotify.com/album/1hCM28lo42mccoq9t3H9Dc"
+      },
+      "artists": [
+        {
+          "name": "La Fiesta",
+          "url": "https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362817,
+      "name": "Provenza / Te Felicito / Despechao",
+      "url": "https://open.spotify.com/track/6fRxpmgnQVpIlqQ7qxjy7M"
+    },
+    {
+      "album": {
+        "name": "Que Agon\u00eda / Carne y Hueso",
+        "url": "https://open.spotify.com/album/0238rKvgAcoYEs9ATsjn9O"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+        },
+        {
+          "name": "La banda de Carlitos",
+          "url": "https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291313,
+      "name": "Que Agonia - Carne y Hueso",
+      "url": "https://open.spotify.com/track/58gpjoW1gjN1TzvWRU58Sm"
+    },
+    {
+      "album": {
+        "name": "Si Me Dices Que Si (Estadio V\u00e9lez)",
+        "url": "https://open.spotify.com/album/5MFQ2u5jkOxOmZ2IsrK3pf"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172311,
+      "name": "Si Me Dices Que Si (Estadio V\u00e9lez)",
+      "url": "https://open.spotify.com/track/1bfjDohijZVRKHWT53QNFk"
+    },
+    {
+      "album": {
+        "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng"
+      },
+      "artists": [
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/2LKH2ETjHqGm651jEmVeSm"
+    },
+    {
+      "album": {
+        "name": "Inigualable",
+        "url": "https://open.spotify.com/album/68PKvkcvRVELb5ZC9P7pi2"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283933,
+      "name": "Te Pido Que La Dejes",
+      "url": "https://open.spotify.com/track/1UulnHKEaoxBGu6v3j6LVN"
+    },
+    {
+      "album": {
+        "name": "Triste Canci\u00f3n de Amor / Lo Que Me Duele",
+        "url": "https://open.spotify.com/album/5eKO50JWT0nlxZnCjU6yF6"
+      },
+      "artists": [
+        {
+          "name": "Tru La La",
+          "url": "https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113700,
+      "name": "Triste Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/1VB9mgCv8xb4KvtBjLp994"
+    },
+    {
+      "album": {
+        "name": "No me pueden parar",
+        "url": "https://open.spotify.com/album/7jwj5GOWFKWl0HNQErZi3N"
+      },
+      "artists": [
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Tu nombre",
+      "url": "https://open.spotify.com/track/7q5VTxJ96XkX0z8Q7KZOVQ"
+    },
+    {
+      "album": {
+        "name": "Tu Peor Enemigo",
+        "url": "https://open.spotify.com/album/1AYfMYpSl6Lvsfh0rVKJKl"
+      },
+      "artists": [
+        {
+          "name": "Dami\u00e1n C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201109,
+      "name": "Tu Peor Enemigo",
+      "url": "https://open.spotify.com/track/3DTYLTAZIcMiNSFFI6rSwC"
+    },
+    {
+      "album": {
+        "name": "Uno los Dos Cuarteto Sessions #1",
+        "url": "https://open.spotify.com/album/3pByc8VZkttOs8mq3Lw2Kd"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235221,
+      "name": "Uno los Dos Cuarteto Sessions #1",
+      "url": "https://open.spotify.com/track/3GJtk3noiskSGHCc9EcxAm"
+    },
+    {
+      "album": {
+        "name": "Ya No Llora (En Vivo)",
+        "url": "https://open.spotify.com/album/587zI6AqCzZv9ZItyl8h6S"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178431,
+      "name": "Ya No Llora - En Vivo",
+      "url": "https://open.spotify.com/track/0wW9gBzVnskOA1xqDXvsVb"
+    },
+    {
+      "album": {
+        "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+        "url": "https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN"
+    },
+    {
+      "album": {
+        "name": "Yo Quer\u00eda (Estadio V\u00e9lez)",
+        "url": "https://open.spotify.com/album/1w06EiB5vVFIfZcdKa7OTY"
+      },
+      "artists": [
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "date_added": "2023-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245845,
+      "name": "Yo Quer\u00eda (Estadio V\u00e9lez)",
+      "url": "https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6EnWBWmEoM4"
 }

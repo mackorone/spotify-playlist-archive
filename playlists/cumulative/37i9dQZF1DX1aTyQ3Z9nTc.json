@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 160855,
       "name": "BACK 2 U",
       "url": "https://open.spotify.com/track/5xihG1vCTRe0kh1Pdacscb"
@@ -1640,7 +1640,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 121731,
       "name": "Coconut Oil",
       "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
@@ -1692,6 +1692,32 @@
       "duration_ms": 163655,
       "name": "Comfy",
       "url": "https://open.spotify.com/track/3wdHjg6olS8kdwepTW4jJm"
+    },
+    {
+      "album": {
+        "name": "Comfy",
+        "url": "https://open.spotify.com/album/5gtMkVplF5F6ESsgE1PHP0"
+      },
+      "artists": [
+        {
+          "name": "Jelani Blackman",
+          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
+        },
+        {
+          "name": "Moonchild Sanelly",
+          "url": "https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw"
+        },
+        {
+          "name": "Trillary Banks",
+          "url": "https://open.spotify.com/artist/6WX6lXXKTBrmL9kqVTztfY"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163655,
+      "name": "Comfy",
+      "url": "https://open.spotify.com/track/4kz1rNa9hMw2aTq7XNRllx"
     },
     {
       "album": {
@@ -1874,7 +1900,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 207194,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
@@ -4468,7 +4494,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": "2024-01-16",
       "duration_ms": 225937,
       "name": "Mirrors",
       "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
@@ -4668,7 +4694,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-28",
+      "date_removed": "2024-01-14",
       "duration_ms": 183453,
       "name": "MY FAVORITE DRUG",
       "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"

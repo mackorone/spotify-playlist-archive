@@ -4,11 +4,12 @@
 
 > 가장 트렌디한 예술 경험 Sync Next 23의 참여 아티스트가 직접 선곡한 노래들을 즐겨보세요! \(Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!\)
 
-40 songs - 2 hr 36 min
+41 songs - 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Fish Map](https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/6MYao96QUzW6tn5JvN5EZi) | 3:08 | 2023-07-06 |  |
+| [A Fish Map](https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/6MYao96QUzW6tn5JvN5EZi) | 3:08 | 2023-07-06 | 2024-01-04 |
+| [A Fish Map](https://open.spotify.com/track/5yMr8TkBo7mMFAtbB1LPTz) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW) | 3:08 | 2023-07-06 |  |
 | [Concerto in D Minor \(After Alessandro Marcello\), BWV 974: II\. Adagio](https://open.spotify.com/track/4BFB5iUZSnsHJL69VEU9rf) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Sharp Objects \(Music from the HBO Limited Series\)](https://open.spotify.com/album/5PR10VRZ9EFNP6vHeBN6rK) | 4:47 | 2023-07-06 | 2023-12-23 |
 | [Concerto in D Minor \(After Alessandro Marcello\), BWV 974: II\. Adagio](https://open.spotify.com/track/4FiHyAEbe8UH8Oy4rFewkQ) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Sharp Objects \(Music from the HBO Limited Series\)](https://open.spotify.com/album/2UXDdNs3CSozXPUFnqx4PS) | 4:47 | 2023-07-06 |  |
 | [Curated by 250](https://open.spotify.com/track/5TZ1mbFUnICHppztgXA8E0) | [Sync Next 23](https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E) | [Sync Next 23 audio liners](https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc) | 0:15 | 2023-07-06 |  |

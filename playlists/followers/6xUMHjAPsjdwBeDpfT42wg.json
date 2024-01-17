@@ -1,226 +1,467 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 0,
-  "2023-06-03": 0,
-  "2023-06-04": 0,
-  "2023-06-05": 0,
-  "2023-06-06": 0,
-  "2023-06-07": 0,
-  "2023-06-08": 0,
-  "2023-06-09": 0,
-  "2023-06-10": 0,
-  "2023-06-11": 0,
-  "2023-06-12": 0,
-  "2023-06-13": 0,
-  "2023-06-14": 0,
-  "2023-06-15": 0,
-  "2023-06-16": 0,
-  "2023-06-17": 0,
-  "2023-06-18": 0,
-  "2023-06-19": 0,
-  "2023-06-20": 0,
-  "2023-06-21": 0,
-  "2023-06-22": 0,
-  "2023-06-23": 0,
-  "2023-06-24": 0,
-  "2023-06-25": 0,
-  "2023-06-26": 0,
-  "2023-06-27": 0,
-  "2023-06-28": 0,
-  "2023-06-29": 0,
-  "2023-06-30": 0,
-  "2023-07-01": 0,
-  "2023-07-02": 0,
-  "2023-07-03": 0,
-  "2023-07-04": 0,
-  "2023-07-05": 0,
-  "2023-07-06": 0,
-  "2023-07-07": 0,
-  "2023-07-08": 0,
-  "2023-07-09": 0,
-  "2023-07-10": 0,
-  "2023-07-11": 0,
-  "2023-07-12": 0,
-  "2023-07-13": 0,
-  "2023-07-14": 0,
-  "2023-07-15": 0,
-  "2023-07-16": 0,
-  "2023-07-17": 0,
-  "2023-07-18": 0,
-  "2023-07-19": 0,
-  "2023-07-20": 0,
-  "2023-07-21": 0,
-  "2023-07-22": 0,
-  "2023-07-23": 0,
-  "2023-07-24": 0,
-  "2023-07-25": 0,
-  "2023-07-26": 0,
-  "2023-07-27": 0,
-  "2023-07-28": 0,
-  "2023-07-29": 0,
-  "2023-07-30": 0,
-  "2023-07-31": 0,
-  "2023-08-01": 0,
-  "2023-08-02": 0,
-  "2023-08-03": 0,
-  "2023-08-04": 0,
-  "2023-08-05": 0,
-  "2023-08-06": 0,
-  "2023-08-07": 0,
-  "2023-08-08": 0,
-  "2023-08-09": 0,
-  "2023-08-10": 0,
-  "2023-08-11": 0,
-  "2023-08-12": 0,
-  "2023-08-13": 0,
-  "2023-08-14": 0,
-  "2023-08-15": 0,
-  "2023-08-16": 0,
-  "2023-08-17": 0,
-  "2023-08-18": 0,
-  "2023-08-19": 0,
-  "2023-08-20": 0,
-  "2023-08-21": 0,
-  "2023-08-22": 0,
-  "2023-08-23": 0,
-  "2023-08-24": 0,
-  "2023-08-25": 0,
-  "2023-08-26": 0,
-  "2023-08-27": 0,
-  "2023-08-28": 0,
-  "2023-08-29": 0,
-  "2023-08-30": 0,
-  "2023-08-31": 0,
-  "2023-09-01": 0,
-  "2023-09-02": 0,
-  "2023-09-03": 0,
-  "2023-09-04": 0,
-  "2023-09-05": 0,
-  "2023-09-06": 0,
-  "2023-09-07": 0,
-  "2023-09-08": 0,
-  "2023-09-09": 0,
-  "2023-09-10": 0,
-  "2023-09-11": 0,
-  "2023-09-12": 0,
-  "2023-09-13": 0,
-  "2023-09-14": 0,
-  "2023-09-15": 0,
-  "2023-09-16": 0,
-  "2023-09-17": 0,
-  "2023-09-18": 0,
-  "2023-09-19": 0,
-  "2023-09-20": 0,
-  "2023-09-21": 0,
-  "2023-09-22": 0,
-  "2023-09-23": 0,
-  "2023-09-24": 0,
-  "2023-09-25": 0,
-  "2023-09-26": 0,
-  "2023-09-27": 0,
-  "2023-09-28": 0,
-  "2023-09-29": 0,
-  "2023-09-30": 0,
-  "2023-10-01": 0,
-  "2023-10-02": 0,
-  "2023-10-03": 0,
-  "2023-10-04": 0,
-  "2023-10-05": 0,
-  "2023-10-06": 0,
-  "2023-10-07": 0,
-  "2023-10-08": 0,
-  "2023-10-09": 0,
-  "2023-10-10": 0,
-  "2023-10-11": 0,
-  "2023-10-12": 0,
-  "2023-10-13": 0,
-  "2023-10-14": 0,
-  "2023-10-15": 0,
-  "2023-10-16": 0,
-  "2023-10-17": 0,
-  "2023-10-18": 0,
-  "2023-10-19": 0,
-  "2023-10-20": 0,
-  "2023-10-21": 0,
-  "2023-10-22": 0,
-  "2023-10-23": 0,
-  "2023-10-24": 0,
-  "2023-10-25": 0,
-  "2023-10-26": 0,
-  "2023-10-27": 0,
-  "2023-10-28": 0,
-  "2023-10-29": 0,
-  "2023-10-30": 0,
-  "2023-10-31": 0,
-  "2023-11-01": 0,
-  "2023-11-02": 0,
-  "2023-11-03": 0,
-  "2023-11-04": 0,
-  "2023-11-05": 0,
-  "2023-11-06": 0,
-  "2023-11-07": 0,
-  "2023-11-08": 0,
-  "2023-11-09": 0,
-  "2023-11-10": 0,
-  "2023-11-11": 0,
-  "2023-11-12": 0,
-  "2023-11-13": 0,
-  "2023-11-14": 0,
-  "2023-11-15": 0,
-  "2023-11-16": 0,
-  "2023-11-17": 0,
-  "2023-11-18": 0,
-  "2023-11-19": 0,
-  "2023-11-20": 0,
-  "2023-11-21": 0,
-  "2023-11-22": 0,
-  "2023-11-23": 0,
-  "2023-11-24": 0,
-  "2023-11-25": 0,
-  "2023-11-26": 0,
-  "2023-11-27": 0,
-  "2023-11-28": 0,
-  "2023-11-29": 0,
-  "2023-11-30": 0,
-  "2023-12-01": 0,
-  "2023-12-02": 0,
-  "2023-12-03": 0,
-  "2023-12-04": 0,
-  "2023-12-05": 0,
-  "2023-12-06": 0,
-  "2023-12-07": 0,
-  "2023-12-08": 0,
-  "2023-12-09": 0,
-  "2023-12-10": 0,
-  "2023-12-11": 0,
-  "2023-12-12": 0,
-  "2023-12-13": 0,
-  "2023-12-14": 0,
-  "2023-12-15": 0,
-  "2023-12-16": 0,
-  "2023-12-17": 0,
-  "2023-12-18": 0,
-  "2023-12-19": 0,
-  "2023-12-20": 0,
-  "2023-12-21": 0,
-  "2023-12-22": 0,
-  "2023-12-23": 0,
-  "2023-12-24": 0,
-  "2023-12-25": 0,
-  "2023-12-26": 0,
-  "2023-12-27": 0,
-  "2023-12-30": 0,
-  "2023-12-31": 0,
-  "2024-01-01": 0,
-  "2024-01-02": 0,
-  "2024-01-03": 0
+  "2024-01-17": 0,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "The Year was 1929",
+  "tracks": [
+    {
+      "album": {
+        "name": "In A Perfect World (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
+      },
+      "artists": [
+        {
+          "name": "Kodaline",
+          "url": "https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305746,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "album": {
+        "name": "Broadway: The American Musical",
+        "url": "https://open.spotify.com/album/2BeQ3RCly0E11KKO66jRp4"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191613,
+      "name": "Brother, Can You Spare A Dime",
+      "url": "https://open.spotify.com/track/5DdErvDJ6HOq2qkO31jryS"
+    },
+    {
+      "album": {
+        "name": "The Cutting Edge 1965-1966: The Bootleg Series, Vol.12 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xk3AEGdw9ha1NAMKWtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649986,
+      "name": "Desolation Row - Take 5 Remake, Complete",
+      "url": "https://open.spotify.com/track/4IpKNjsuI9jnJyJmfZNbS1"
+    },
+    {
+      "album": {
+        "name": "Dust Cain't Kill Me",
+        "url": "https://open.spotify.com/album/15hGn4dEhC4o4tkQMLQGCA"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Dust Cain't Kill Me",
+      "url": "https://open.spotify.com/track/2gf0zcBLZQnHvgpeKLya6w"
+    },
+    {
+      "album": {
+        "name": "X&Y",
+        "url": "https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295533,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "We Shall Overcome: The Seeger Sessions (American Land Edition)",
+        "url": "https://open.spotify.com/album/2O3avtEIE8xX9F0zcIjIZI"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "How Can a Poor Man Stand Such Times and Live",
+      "url": "https://open.spotify.com/track/3uPImxAltF6FcSGIC3OPWq"
+    },
+    {
+      "album": {
+        "name": "How Dare You Want More",
+        "url": "https://open.spotify.com/album/5VcCCWAqGq1Sl9VgSU7DOv"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240200,
+      "name": "How Dare You Want More",
+      "url": "https://open.spotify.com/track/3ofm3iqaRbHBCGvqf5jK7H"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Idylls of the King",
+      "url": "https://open.spotify.com/track/6vwZbf0q5axjmh57lk5LD3"
+    },
+    {
+      "album": {
+        "name": "Mama Said Knock You Out",
+        "url": "https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289693,
+      "name": "Mama Said Knock You Out",
+      "url": "https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw"
+    },
+    {
+      "album": {
+        "name": "Not Dead Yet",
+        "url": "https://open.spotify.com/album/044x9ycjGCrCHA6TcjaK8w"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177366,
+      "name": "Not Dead Yet",
+      "url": "https://open.spotify.com/track/5NRbNXwXHM9mYgxMhzVWTP"
+    },
+    {
+      "album": {
+        "name": "The Great Depression - American Music In The 30's",
+        "url": "https://open.spotify.com/album/3oPzUSGFOOAdSwnwShf9Jz"
+      },
+      "artists": [
+        {
+          "name": "Bill Cox",
+          "url": "https://open.spotify.com/artist/3m7G0WegGYiVqlsd0Kgq0p"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170480,
+      "name": "NRA Blues",
+      "url": "https://open.spotify.com/track/3zZhvuHqDsGGcK2MUDuNun"
+    },
+    {
+      "album": {
+        "name": "The Times They Are A-Changin'",
+        "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Only a Pawn in Their Game",
+      "url": "https://open.spotify.com/track/6lib77q4koq52srysevRfT"
+    },
+    {
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/20vMfB4zgelkULugladUD3"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        },
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283266,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/4eZP0Tyh1p06Nk1aHOzNrt"
+    },
+    {
+      "album": {
+        "name": "After Laughter",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Rose-Colored Boy",
+      "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k"
+    },
+    {
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl"
+      },
+      "artists": [
+        {
+          "name": "A Great Big World",
+          "url": "https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N"
+    },
+    {
+      "album": {
+        "name": "Tallahassee",
+        "url": "https://open.spotify.com/album/6g3n0C6d4v81DnDheoLMvX"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "See America Right",
+      "url": "https://open.spotify.com/track/0IXl9HE9k2s0QTfp8mPGWC"
+    },
+    {
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301133,
+      "name": "Shelter from the Storm",
+      "url": "https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5"
+    },
+    {
+      "album": {
+        "name": "Transcendental Youth",
+        "url": "https://open.spotify.com/album/1AOcKK0PoTQtuRZVhOgJlp"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165840,
+      "name": "The Diaz Brothers",
+      "url": "https://open.spotify.com/track/7AuKsDPq3LCMHHfT7Dh0RL"
+    },
+    {
+      "album": {
+        "name": "Woody at 100: The Woody Guthrie Centennial Collection",
+        "url": "https://open.spotify.com/album/0HLyBbcohIOD6hkz5EigTo"
+      },
+      "artists": [
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "The Jolly Banker",
+      "url": "https://open.spotify.com/track/4jLdVofa8rftqztNvOSVTd"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/2ocbRv0D5t7xaSCW6NJ8sZ"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/0s9aeZriwqyBYfxFzsd20R"
+    },
+    {
+      "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/14JRI2yc9nKosojndoQxTv"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "Ticking Bomb",
+      "url": "https://open.spotify.com/track/5DPJRKOh4xA5aMCabNSLCS"
+    },
+    {
+      "album": {
+        "name": "If I Had a Hammer: Songs of Hope and Struggle",
+        "url": "https://open.spotify.com/album/21k0wecYa9yprQ937HR62H"
+      },
+      "artists": [
+        {
+          "name": "Pete Seeger",
+          "url": "https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129800,
+      "name": "Which Side are You On?",
+      "url": "https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO"
+    },
+    {
+      "album": {
+        "name": "Country Music Hall Of Fame",
+        "url": "https://open.spotify.com/album/3MpewfbJva3YBXrlzDHaHy"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe",
+          "url": "https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132133,
+      "name": "White House Blues",
+      "url": "https://open.spotify.com/track/1QgQaW8fW27DU6U4uYpeNT"
+    },
+    {
+      "album": {
+        "name": "With A Little Help From My Friends (Remix)",
+        "url": "https://open.spotify.com/album/2z7mGjKiWbqBZVfyuOMIYI"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2021-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165293,
+      "name": "With A Little Help From My Friends - Remix",
+      "url": "https://open.spotify.com/track/1ub9sWktOY37BArPD9trKF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/6xUMHjAPsjdwBeDpfT42wg"
 }

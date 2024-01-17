@@ -1,125 +1,1775 @@
 {
-  "2023-09-01": 89,
-  "2023-09-02": 89,
-  "2023-09-03": 233,
-  "2023-09-04": 446,
-  "2023-09-05": 615,
-  "2023-09-06": 814,
-  "2023-09-07": 979,
-  "2023-09-08": 1152,
-  "2023-09-09": 1356,
-  "2023-09-10": 1580,
-  "2023-09-11": 1786,
-  "2023-09-12": 1956,
-  "2023-09-13": 2166,
-  "2023-09-14": 2370,
-  "2023-09-15": 2549,
-  "2023-09-16": 2755,
-  "2023-09-17": 2979,
-  "2023-09-18": 3228,
-  "2023-09-19": 3455,
-  "2023-09-20": 4113,
-  "2023-09-21": 4331,
-  "2023-09-22": 4581,
-  "2023-09-23": 4809,
-  "2023-09-24": 5052,
-  "2023-09-25": 5258,
-  "2023-09-26": 5504,
-  "2023-09-27": 5684,
-  "2023-09-28": 5880,
-  "2023-09-29": 6060,
-  "2023-09-30": 6276,
-  "2023-10-01": 6510,
-  "2023-10-02": 6759,
-  "2023-10-03": 6918,
-  "2023-10-04": 7144,
-  "2023-10-05": 7380,
-  "2023-10-06": 7637,
-  "2023-10-07": 7863,
-  "2023-10-08": 8132,
-  "2023-10-09": 8342,
-  "2023-10-10": 8534,
-  "2023-10-11": 9002,
-  "2023-10-12": 9002,
-  "2023-10-13": 9250,
-  "2023-10-14": 9501,
-  "2023-10-15": 9777,
-  "2023-10-16": 10021,
-  "2023-10-17": 10252,
-  "2023-10-18": 10504,
-  "2023-10-19": 10762,
-  "2023-10-20": 10958,
-  "2023-10-21": 11235,
-  "2023-10-22": 11509,
-  "2023-10-23": 11772,
-  "2023-10-24": 11994,
-  "2023-10-25": 12242,
-  "2023-10-26": 12478,
-  "2023-10-27": 12750,
-  "2023-10-28": 13002,
-  "2023-10-29": 13261,
-  "2023-10-30": 13705,
-  "2023-10-31": 13705,
-  "2023-11-01": 13927,
-  "2023-11-02": 14150,
-  "2023-11-03": 14419,
-  "2023-11-04": 14713,
-  "2023-11-05": 15020,
-  "2023-11-06": 15291,
-  "2023-11-07": 15571,
-  "2023-11-08": 15793,
-  "2023-11-09": 16081,
-  "2023-11-10": 16418,
-  "2023-11-11": 16748,
-  "2023-11-12": 16970,
-  "2023-11-13": 17257,
-  "2023-11-14": 17482,
-  "2023-11-15": 17482,
-  "2023-11-16": 18034,
-  "2023-11-17": 18580,
-  "2023-11-18": 18580,
-  "2023-11-19": 18867,
-  "2023-11-20": 19158,
-  "2023-11-21": 19427,
-  "2023-11-22": 19692,
-  "2023-11-23": 20017,
-  "2023-11-24": 20326,
-  "2023-11-25": 20589,
-  "2023-11-26": 20855,
-  "2023-11-27": 21119,
-  "2023-11-28": 21338,
-  "2023-11-29": 21870,
-  "2023-11-30": 21870,
-  "2023-12-01": 22142,
-  "2023-12-02": 22390,
-  "2023-12-03": 22670,
-  "2023-12-04": 22921,
-  "2023-12-05": 23159,
-  "2023-12-06": 23408,
-  "2023-12-07": 23683,
-  "2023-12-08": 23960,
-  "2023-12-09": 24196,
-  "2023-12-10": 24458,
-  "2023-12-11": 24710,
-  "2023-12-12": 24919,
-  "2023-12-13": 25119,
-  "2023-12-14": 25401,
-  "2023-12-15": 25567,
-  "2023-12-16": 25832,
-  "2023-12-17": 26112,
-  "2023-12-18": 26382,
-  "2023-12-19": 26637,
-  "2023-12-20": 26852,
-  "2023-12-21": 27059,
-  "2023-12-22": 27315,
-  "2023-12-23": 27577,
-  "2023-12-24": 27839,
-  "2023-12-25": 28091,
-  "2023-12-26": 28331,
-  "2023-12-27": 28600,
-  "2023-12-30": 29449,
-  "2023-12-31": 29708,
-  "2024-01-01": 30005,
-  "2024-01-02": 30252,
-  "2024-01-03": 30484
+  "2024-01-17": 34182,
+  "date_first_scraped": "2023-09-02",
+  "description": "We're celebrating 100 years of Hank Williams on Classic Country! ",
+  "name": "Classic Country",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Essential Tammy Wynette",
+        "url": "https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "'Til I Can Make It on My Own",
+      "url": "https://open.spotify.com/track/0aJHZYjwbfTmeyUWF7zGxI"
+    },
+    {
+      "album": {
+        "name": "Ultimate Collection: Barbara Mandrell",
+        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
+    },
+    {
+      "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        },
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "A White Sport Coat (with Ray Conniff)",
+      "url": "https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9"
+    },
+    {
+      "album": {
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+      },
+      "artists": [
+        {
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139733,
+      "name": "Am I Losing You",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+    },
+    {
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Ballad Of Forty Dollars",
+      "url": "https://open.spotify.com/track/1phh5V7T5JAaiIww22ARZk"
+    },
+    {
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235733,
+      "name": "Big Iron",
+      "url": "https://open.spotify.com/track/0AQquaENerGps8BQmbPw14"
+    },
+    {
+      "album": {
+        "name": "Blue Kentucky Girl",
+        "url": "https://open.spotify.com/album/5958wwjPRxw2GmGJbOVuLc"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163640,
+      "name": "Blue Kentucky Girl",
+      "url": "https://open.spotify.com/track/2mqXqQnxcFq5tmG98kUQZw"
+    },
+    {
+      "album": {
+        "name": "The Dance Album",
+        "url": "https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK"
+      },
+      "artists": [
+        {
+          "name": "Carl Perkins",
+          "url": "https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134445,
+      "name": "Blue Suede Shoes",
+      "url": "https://open.spotify.com/track/5d6ZRqgbz26Sg4bk1oifQw"
+    },
+    {
+      "album": {
+        "name": "The Essential Don Gibson",
+        "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113240,
+      "name": "Blue, Blue Day",
+      "url": "https://open.spotify.com/track/0lgckCZ94ZjtCBpjfRL5Su"
+    },
+    {
+      "album": {
+        "name": "16 All Time Favorite Songs",
+        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
+      },
+      "artists": [
+        {
+          "name": "The Delmore Brothers",
+          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174693,
+      "name": "Blues, Stay Away From Me",
+      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+    },
+    {
+      "album": {
+        "name": "The Essential Eddy Arnold",
+        "url": "https://open.spotify.com/album/2JQPr2Z79G7wkvZ8w5EzVs"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163346,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/6Ha2dwEqdLBrDhImosfrBA"
+    },
+    {
+      "album": {
+        "name": "Coal Miner's Daughter",
+        "url": "https://open.spotify.com/album/2SayIIdZkrtb9I4BbdnyOr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Coal Miner's Daughter - Single Version",
+      "url": "https://open.spotify.com/track/3mM14WXoPaLRjjkmxHe99L"
+    },
+    {
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
+    },
+    {
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165800,
+      "name": "Cold, Cold Heart",
+      "url": "https://open.spotify.com/track/1lnQ6kkVaHg0Itdx88REdJ"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164573,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175253,
+      "name": "D-I-V-O-R-C-E",
+      "url": "https://open.spotify.com/track/5f38UWziNmvOjdMHvwxsL9"
+    },
+    {
+      "album": {
+        "name": "Delta Dawn",
+        "url": "https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "Delta Dawn",
+      "url": "https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127520,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind) - Single Version",
+      "url": "https://open.spotify.com/track/6zQnzN80m28yNfz544YBI2"
+    },
+    {
+      "album": {
+        "name": "We Must Believe In Magic",
+        "url": "https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8"
+      },
+      "artists": [
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157653,
+      "name": "Don't It Make My Brown Eyes Blue",
+      "url": "https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV"
+    },
+    {
+      "album": {
+        "name": "Number One Hits",
+        "url": "https://open.spotify.com/album/6QkVGhAnrjHauwCSYuTuI8"
+      },
+      "artists": [
+        {
+          "name": "Eddie Rabbitt",
+          "url": "https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "Every Which Way but Loose - 2009 Remaster",
+      "url": "https://open.spotify.com/track/73xcnqBwjnGwAlrfBomLP3"
+    },
+    {
+      "album": {
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
+    },
+    {
+      "album": {
+        "name": "Fist City",
+        "url": "https://open.spotify.com/album/069layftQtjJZ6KqZWHk6q"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133933,
+      "name": "Fist City",
+      "url": "https://open.spotify.com/track/1YaPhbIo2oKWT5ejlMEL5Z"
+    },
+    {
+      "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168554,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/1Vw5YUBbtlUmkhEnee55Zo"
+    },
+    {
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
+    },
+    {
+      "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4IvUOgEsxPjkOgiF1Xpg1T"
+      },
+      "artists": [
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        },
+        {
+          "name": "Red Foley",
+          "url": "https://open.spotify.com/artist/56tggwKsz5OqCDf1i0Str9"
+        },
+        {
+          "name": "Sunshine Trio",
+          "url": "https://open.spotify.com/artist/0qDfuhpFr8McyDDbSa9BHn"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181653,
+      "name": "Goodnight, Irene",
+      "url": "https://open.spotify.com/track/70uBQNPGrjgfvwYhkWZksR"
+    },
+    {
+      "album": {
+        "name": "Gotta Travel On: The Very Best Of Billy Grammar",
+        "url": "https://open.spotify.com/album/6TZZUvrKXCvjrJQuV8aZfY"
+      },
+      "artists": [
+        {
+          "name": "Billy Grammer",
+          "url": "https://open.spotify.com/artist/33OmSxFFBOPQL3AcoAFAmA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150493,
+      "name": "Gotta Travel On",
+      "url": "https://open.spotify.com/track/3HynxUWKnm7rtzjVkyXoHu"
+    },
+    {
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Heartaches By The Number",
+      "url": "https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1"
+    },
+    {
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
+    },
+    {
+      "album": {
+        "name": "Here You Come Again",
+        "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179491,
+      "name": "Here You Come Again",
+      "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "album": {
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
+    },
+    {
+      "album": {
+        "name": "The Best Of Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137106,
+      "name": "Honeycomb",
+      "url": "https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113640,
+      "name": "I Ain't Never - Single Version",
+      "url": "https://open.spotify.com/track/57X5xjtkK1Mo9TYAcxgJlx"
+    },
+    {
+      "album": {
+        "name": "Tammy's Greatest Hits",
+        "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "I Don't Wanna Play House",
+      "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "I Fall To Pieces - Single Version",
+      "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
+    },
+    {
+      "album": {
+        "name": "With His Hot and Blue Guitar",
+        "url": "https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6CzIVuYfqWNYNw46XpITBl"
+      },
+      "artists": [
+        {
+          "name": "Hank Snow, The Singing Ranger, And His Rainbow Ranch Boys",
+          "url": "https://open.spotify.com/artist/4F2Wz6nsyGRJWISzANL6vQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "I'm Movin' On",
+      "url": "https://open.spotify.com/track/446eGf6Afa6PuZYTsF19U1"
+    },
+    {
+      "album": {
+        "name": "Moanin' The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3cusZESjkIDnDXyQwbpSsT"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "I'm So Lonesome I Could Cry",
+      "url": "https://open.spotify.com/track/0hveAq1VSNWo9MQYGMHvFF"
+    },
+    {
+      "album": {
+        "name": "Best Of The Bellamy Brothers",
+        "url": "https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "If I Said You Had A Beautiful Body Would You Hold It Against Me",
+      "url": "https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE"
+    },
+    {
+      "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
+    },
+    {
+      "album": {
+        "name": "20 Greatest Hits",
+        "url": "https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146733,
+      "name": "It Must Be Love - Single Version",
+      "url": "https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi"
+    },
+    {
+      "album": {
+        "name": "Kitty Wells\u2019 Country Hit Parade",
+        "url": "https://open.spotify.com/album/1bRZbNn0690YIdeabIs7aY"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+      "url": "https://open.spotify.com/track/5qYp7YDkLAaSd1nBWejkAD"
+    },
+    {
+      "album": {
+        "name": "Conway Twitty Sings",
+        "url": "https://open.spotify.com/album/3niZ3iipFSFzO6335VBZiP"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132026,
+      "name": "It's Only Make Believe",
+      "url": "https://open.spotify.com/track/1xVOttVNT27FBTD8iHjOfU"
+    },
+    {
+      "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6Xq66Tp330KlzKuFyVS4MX"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134786,
+      "name": "Just Between You and Me",
+      "url": "https://open.spotify.com/track/7lSgl6fOpD1aeeXS1mhKcd"
+    },
+    {
+      "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+    },
+    {
+      "album": {
+        "name": "Bellamy Brothers",
+        "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+      },
+      "artists": [
+        {
+          "name": "The Bellamy Brothers",
+          "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198760,
+      "name": "Let Your Love Flow",
+      "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "album": {
+        "name": "I'm Countryfied",
+        "url": "https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5"
+      },
+      "artists": [
+        {
+          "name": "Mel McDaniel",
+          "url": "https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144186,
+      "name": "Louisiana Saturday Night",
+      "url": "https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y"
+    },
+    {
+      "album": {
+        "name": "Louisiana Woman, Mississippi Man",
+        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
+      },
+      "artists": [
+        {
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151731,
+      "name": "Louisiana Woman, Mississippi Man",
+      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+    },
+    {
+      "album": {
+        "name": "Love In The Hot Afternoon",
+        "url": "https://open.spotify.com/album/4NFaunfYQOLB85ZHBSTw77"
+      },
+      "artists": [
+        {
+          "name": "Gene Watson",
+          "url": "https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Love In The Hot Afternoon",
+      "url": "https://open.spotify.com/track/3MwNnB3W5pi8URHRKlksGt"
+    },
+    {
+      "album": {
+        "name": "Kenny Rogers",
+        "url": "https://open.spotify.com/album/5LYk7eiOau7NSQn6GQbF9k"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/15ADURMdkO25JGD5mIcodM"
+    },
+    {
+      "album": {
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "album": {
+        "name": "Mama Tried/ Pride In What I Am",
+        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134453,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "album": {
+        "name": "Bobby Helms Sings To My Special Angel",
+        "url": "https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179293,
+      "name": "My Special Angel",
+      "url": "https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8"
+    },
+    {
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263760,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd"
+    },
+    {
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "Please Help Me, I'm Falling",
+      "url": "https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN"
+    },
+    {
+      "album": {
+        "name": "Pure Love",
+        "url": "https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Milsap",
+          "url": "https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Pure Love",
+      "url": "https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg"
+    },
+    {
+      "album": {
+        "name": "Rhinestone Cowboy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Rhinestone Cowboy",
+      "url": "https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/5rDkA2TFOImbiVenmnE9r4"
+    },
+    {
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
+    },
+    {
+      "album": {
+        "name": "The New Favorites Of George Jones",
+        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
+    },
+    {
+      "album": {
+        "name": "The Essential Marty Robbins 1951-1982",
+        "url": "https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Singing the Blues",
+      "url": "https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp"
+    },
+    {
+      "album": {
+        "name": "Ultimate Collection: Barbara Mandrell",
+        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138853,
+      "name": "Sleeping Single In A Double Bed - Single Version",
+      "url": "https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C"
+    },
+    {
+      "album": {
+        "name": "This Way Is My Way",
+        "url": "https://open.spotify.com/album/1VTWCkA6n7QtJefDSlPC2F"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134226,
+      "name": "Snowbird",
+      "url": "https://open.spotify.com/track/2ik5qJAcmrjbpON5QPxmRr"
+    },
+    {
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Duncan",
+        "url": "https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan",
+          "url": "https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm"
+        },
+        {
+          "name": "Janie Fricke",
+          "url": "https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3"
+    },
+    {
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Rosanne Cash",
+        "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "album": {
+        "name": "The Essential Porter Wagoner",
+        "url": "https://open.spotify.com/album/1OIGVkIdVSz2t0vIYnuA7S"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "The Carroll County Accident",
+      "url": "https://open.spotify.com/track/5b3Bvd2m81gEQRWrShNkx2"
+    },
+    {
+      "album": {
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+    },
+    {
+      "album": {
+        "name": "The Gambler",
+        "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
+    },
+    {
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "album": {
+        "name": "Streets of Baltimore",
+        "url": "https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157640,
+      "name": "The Streets of Baltimore",
+      "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Brazos Valley",
+        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
+      },
+      "artists": [
+        {
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "The Wild Side Of Life",
+      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+    },
+    {
+      "album": {
+        "name": "In Search Of A Song",
+        "url": "https://open.spotify.com/album/7896HKNHKgVnuiOh401iX2"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "The Year That Clayton Delaney Died",
+      "url": "https://open.spotify.com/track/1sfXFEpGVK5s5i8eHEtNPj"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Webb Pierce",
+        "url": "https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy"
+      },
+      "artists": [
+        {
+          "name": "Webb Pierce",
+          "url": "https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "There Stands The Glass",
+      "url": "https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME"
+    },
+    {
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/4cpW1bxbkuQuOmeFZoOd4W"
+      },
+      "artists": [
+        {
+          "name": "Don Williams",
+          "url": "https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "Tulsa Time",
+      "url": "https://open.spotify.com/track/0cThXovxrvU68JuzYUXhJT"
+    },
+    {
+      "album": {
+        "name": "Buck Owens Country Legends",
+        "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 159570,
+      "name": "Under Your Spell Again",
+      "url": "https://open.spotify.com/track/5NFZTWVwhc1NmPSqgiLZOq"
+    },
+    {
+      "album": {
+        "name": "The Complete Capitol Singles: 1957-1966",
+        "url": "https://open.spotify.com/album/1WllgaSsuf3emf53KiMKAy"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens & The Buckaroos",
+          "url": "https://open.spotify.com/artist/41GBMTInlbb2bey1N6VAzV"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Under Your Spell Again - Mono Single Version",
+      "url": "https://open.spotify.com/track/5Qng3PODaPge1Pn2btusKJ"
+    },
+    {
+      "album": {
+        "name": "Patsy Cline",
+        "url": "https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/7E8nKMtXMqIQbvl1Ta9Ucw"
+    },
+    {
+      "album": {
+        "name": "Tanya Tucker / Super Hits",
+        "url": "https://open.spotify.com/album/6oaors3y98ssmPuvBcc343"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "What's Your Mama's Name Child",
+      "url": "https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs"
+    },
+    {
+      "album": {
+        "name": "Wichita Lineman (Remastered)",
+        "url": "https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Wichita Lineman - Remastered 2001",
+      "url": "https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i"
+    },
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/7hdLJRd4vHkHbMzaGgQsJ2"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132320,
+      "name": "You Ain't Woman Enough - Single Version",
+      "url": "https://open.spotify.com/track/41jCeKeeVTxxDli1XdCPnx"
+    },
+    {
+      "album": {
+        "name": "Capitol Collectors Series",
+        "url": "https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr"
+      },
+      "artists": [
+        {
+          "name": "Sonny James",
+          "url": "https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5gMBaRFQjOY"
 }

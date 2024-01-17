@@ -1,577 +1,1817 @@
 {
-  "2022-06-02": 51325,
-  "2022-06-03": 51356,
-  "2022-06-04": 51380,
-  "2022-06-05": 51427,
-  "2022-06-06": 51473,
-  "2022-06-07": 51490,
-  "2022-06-08": 51514,
-  "2022-06-09": 51533,
-  "2022-06-10": 51547,
-  "2022-06-11": 51565,
-  "2022-06-12": 51599,
-  "2022-06-13": 51629,
-  "2022-06-14": 51658,
-  "2022-06-15": 51681,
-  "2022-06-16": 51703,
-  "2022-06-17": 51732,
-  "2022-06-18": 51762,
-  "2022-06-19": 51865,
-  "2022-06-20": 51865,
-  "2022-06-21": 51884,
-  "2022-06-22": 51934,
-  "2022-06-23": 51934,
-  "2022-06-24": 51948,
-  "2022-06-25": 51988,
-  "2022-06-26": 52043,
-  "2022-06-27": 52077,
-  "2022-06-28": 52090,
-  "2022-06-29": 52111,
-  "2022-06-30": 52132,
-  "2022-07-01": 52149,
-  "2022-07-02": 52190,
-  "2022-07-03": 52232,
-  "2022-07-04": 52271,
-  "2022-07-05": 52271,
-  "2022-07-06": 52271,
-  "2022-07-07": 52343,
-  "2022-07-08": 52384,
-  "2022-07-09": 52423,
-  "2022-07-10": 52462,
-  "2022-07-11": 52491,
-  "2022-07-12": 52512,
-  "2022-07-13": 52545,
-  "2022-07-14": 52566,
-  "2022-07-15": 52596,
-  "2022-07-16": 52638,
-  "2022-07-17": 52670,
-  "2022-07-18": 52712,
-  "2022-07-19": 52734,
-  "2022-07-20": 52745,
-  "2022-07-21": 52769,
-  "2022-07-22": 52794,
-  "2022-07-23": 52830,
-  "2022-07-24": 52877,
-  "2022-07-25": 52923,
-  "2022-07-26": 52964,
-  "2022-07-27": 52982,
-  "2022-07-28": 53005,
-  "2022-07-29": 53031,
-  "2022-07-30": 53109,
-  "2022-07-31": 53109,
-  "2022-08-01": 53140,
-  "2022-08-02": 53197,
-  "2022-08-03": 53197,
-  "2022-08-04": 53210,
-  "2022-08-05": 53233,
-  "2022-08-06": 53270,
-  "2022-08-07": 53323,
-  "2022-08-08": 53367,
-  "2022-08-09": 53401,
-  "2022-08-10": 53421,
-  "2022-08-11": 53440,
-  "2022-08-12": 53469,
-  "2022-08-13": 53509,
-  "2022-08-14": 53549,
-  "2022-08-15": 53589,
-  "2022-08-16": 53601,
-  "2022-08-17": 53633,
-  "2022-08-18": 53649,
-  "2022-08-19": 53683,
-  "2022-08-20": 53715,
-  "2022-08-21": 53765,
-  "2022-08-22": 53798,
-  "2022-08-23": 53819,
-  "2022-08-24": 53839,
-  "2022-08-25": 53874,
-  "2022-08-26": 53903,
-  "2022-08-27": 53936,
-  "2022-08-28": 53975,
-  "2022-08-29": 54004,
-  "2022-08-30": 54032,
-  "2022-08-31": 54055,
-  "2022-09-01": 54091,
-  "2022-09-02": 54126,
-  "2022-09-03": 54156,
-  "2022-09-04": 54208,
-  "2022-09-05": 54235,
-  "2022-09-06": 54257,
-  "2022-09-07": 54284,
-  "2022-09-09": 54344,
-  "2022-09-10": 54378,
-  "2022-09-11": 54418,
-  "2022-09-12": 54450,
-  "2022-09-13": 54463,
-  "2022-09-15": 54506,
-  "2022-09-16": 54544,
-  "2022-09-17": 54589,
-  "2022-09-18": 54637,
-  "2022-09-19": 54669,
-  "2022-09-20": 54693,
-  "2022-09-21": 54713,
-  "2022-09-22": 54750,
-  "2022-09-23": 54766,
-  "2022-09-24": 54766,
-  "2022-09-25": 54825,
-  "2022-09-26": 54877,
-  "2022-09-27": 54905,
-  "2022-09-28": 54941,
-  "2022-09-29": 54980,
-  "2022-09-30": 55023,
-  "2022-10-01": 55080,
-  "2022-10-02": 55137,
-  "2022-10-03": 55183,
-  "2022-10-04": 55218,
-  "2022-10-05": 55240,
-  "2022-10-06": 55267,
-  "2022-10-07": 55298,
-  "2022-10-08": 55337,
-  "2022-10-09": 55418,
-  "2022-10-10": 55434,
-  "2022-10-11": 55458,
-  "2022-10-12": 55489,
-  "2022-10-13": 55537,
-  "2022-10-14": 55569,
-  "2022-10-15": 55636,
-  "2022-10-16": 55698,
-  "2022-10-17": 55749,
-  "2022-10-18": 55788,
-  "2022-10-19": 55822,
-  "2022-10-20": 55847,
-  "2022-10-21": 55869,
-  "2022-10-22": 55919,
-  "2022-10-23": 55976,
-  "2022-10-24": 56010,
-  "2022-10-25": 56023,
-  "2022-10-26": 56048,
-  "2022-10-27": 56076,
-  "2022-10-28": 56101,
-  "2022-10-29": 56142,
-  "2022-10-30": 56179,
-  "2022-10-31": 56228,
-  "2022-11-01": 56258,
-  "2022-11-02": 56292,
-  "2022-11-03": 56329,
-  "2022-11-04": 56372,
-  "2022-11-05": 56401,
-  "2022-11-06": 56450,
-  "2022-11-07": 56480,
-  "2022-11-08": 56497,
-  "2022-11-09": 56529,
-  "2022-11-10": 56559,
-  "2022-11-11": 56583,
-  "2022-11-12": 56633,
-  "2022-11-13": 56680,
-  "2022-11-14": 56728,
-  "2022-11-15": 56751,
-  "2022-11-16": 56779,
-  "2022-11-17": 56824,
-  "2022-11-18": 56837,
-  "2022-11-19": 56840,
-  "2022-11-20": 56868,
-  "2022-11-21": 56902,
-  "2022-11-22": 56937,
-  "2022-11-23": 56955,
-  "2022-11-24": 57002,
-  "2022-11-25": 57054,
-  "2022-11-26": 57099,
-  "2022-11-27": 57136,
-  "2022-11-28": 57171,
-  "2022-11-29": 57183,
-  "2022-11-30": 57214,
-  "2022-12-01": 57242,
-  "2022-12-02": 57253,
-  "2022-12-03": 57298,
-  "2022-12-04": 57347,
-  "2022-12-05": 57381,
-  "2022-12-06": 57410,
-  "2022-12-07": 57440,
-  "2022-12-08": 57471,
-  "2022-12-09": 57512,
-  "2022-12-10": 57557,
-  "2022-12-11": 57606,
-  "2022-12-12": 57642,
-  "2022-12-13": 57676,
-  "2022-12-14": 57714,
-  "2022-12-15": 57752,
-  "2022-12-16": 57788,
-  "2022-12-17": 57820,
-  "2022-12-18": 57867,
-  "2022-12-19": 57927,
-  "2022-12-20": 57996,
-  "2022-12-21": 57996,
-  "2022-12-22": 58033,
-  "2022-12-24": 58114,
-  "2022-12-25": 58183,
-  "2022-12-26": 58233,
-  "2022-12-27": 58271,
-  "2022-12-28": 58310,
-  "2022-12-29": 58348,
-  "2022-12-30": 58387,
-  "2022-12-31": 58464,
-  "2023-01-01": 58535,
-  "2023-01-02": 58630,
-  "2023-01-03": 58653,
-  "2023-01-04": 58669,
-  "2023-01-05": 58693,
-  "2023-01-06": 58723,
-  "2023-01-07": 58768,
-  "2023-01-08": 58784,
-  "2023-01-09": 58834,
-  "2023-01-10": 58860,
-  "2023-01-11": 58877,
-  "2023-01-12": 58906,
-  "2023-01-13": 58942,
-  "2023-01-14": 59011,
-  "2023-01-15": 59024,
-  "2023-01-16": 59070,
-  "2023-01-17": 59105,
-  "2023-01-18": 59131,
-  "2023-01-19": 59167,
-  "2023-01-20": 59222,
-  "2023-01-21": 59263,
-  "2023-01-22": 59302,
-  "2023-01-23": 59351,
-  "2023-01-24": 59366,
-  "2023-01-25": 59390,
-  "2023-01-26": 59430,
-  "2023-01-27": 59472,
-  "2023-01-28": 59510,
-  "2023-01-29": 59574,
-  "2023-01-30": 59631,
-  "2023-01-31": 59631,
-  "2023-02-01": 59685,
-  "2023-02-02": 59706,
-  "2023-02-03": 59731,
-  "2023-02-04": 59771,
-  "2023-02-05": 59830,
-  "2023-02-06": 59885,
-  "2023-02-07": 59932,
-  "2023-02-08": 59996,
-  "2023-02-09": 59996,
-  "2023-02-10": 60027,
-  "2023-02-11": 60064,
-  "2023-02-12": 60159,
-  "2023-02-13": 60179,
-  "2023-02-14": 60179,
-  "2023-02-15": 60197,
-  "2023-02-16": 60222,
-  "2023-02-17": 60252,
-  "2023-02-18": 60345,
-  "2023-02-19": 60365,
-  "2023-02-20": 60396,
-  "2023-02-21": 60432,
-  "2023-02-22": 60461,
-  "2023-02-23": 60487,
-  "2023-02-24": 60529,
-  "2023-02-25": 60600,
-  "2023-02-26": 60635,
-  "2023-02-27": 60718,
-  "2023-02-28": 60718,
-  "2023-03-01": 60754,
-  "2023-03-02": 60783,
-  "2023-03-03": 60825,
-  "2023-03-04": 60868,
-  "2023-03-05": 60955,
-  "2023-03-06": 60955,
-  "2023-03-07": 60997,
-  "2023-03-08": 61025,
-  "2023-03-09": 61045,
-  "2023-03-10": 61077,
-  "2023-03-11": 61108,
-  "2023-03-12": 61161,
-  "2023-03-13": 61206,
-  "2023-03-14": 61236,
-  "2023-03-15": 61254,
-  "2023-03-16": 61254,
-  "2023-03-17": 61254,
-  "2023-03-18": 61364,
-  "2023-03-19": 61364,
-  "2023-03-20": 61436,
-  "2023-03-21": 61462,
-  "2023-03-22": 61491,
-  "2023-03-23": 61514,
-  "2023-03-24": 61514,
-  "2023-03-25": 61568,
-  "2023-03-26": 61619,
-  "2023-03-27": 61663,
-  "2023-03-28": 61687,
-  "2023-03-29": 61732,
-  "2023-03-30": 61810,
-  "2023-03-31": 61810,
-  "2023-04-01": 61859,
-  "2023-04-02": 61940,
-  "2023-04-03": 61990,
-  "2023-04-04": 62030,
-  "2023-04-05": 62077,
-  "2023-04-06": 62130,
-  "2023-04-07": 62199,
-  "2023-04-09": 62315,
-  "2023-04-10": 62364,
-  "2023-04-11": 62428,
-  "2023-04-12": 62428,
-  "2023-04-13": 62460,
-  "2023-04-14": 62503,
-  "2023-04-15": 62542,
-  "2023-04-16": 62587,
-  "2023-04-17": 62631,
-  "2023-04-18": 62656,
-  "2023-04-19": 62679,
-  "2023-04-20": 62712,
-  "2023-04-21": 62747,
-  "2023-04-22": 62780,
-  "2023-04-23": 62825,
-  "2023-04-24": 62861,
-  "2023-04-25": 62888,
-  "2023-04-26": 62919,
-  "2023-04-27": 62972,
-  "2023-04-28": 63017,
-  "2023-04-29": 63074,
-  "2023-04-30": 63110,
-  "2023-05-01": 63166,
-  "2023-05-02": 63212,
-  "2023-05-03": 63236,
-  "2023-05-04": 63281,
-  "2023-05-05": 63305,
-  "2023-05-06": 63352,
-  "2023-05-07": 63419,
-  "2023-05-08": 63471,
-  "2023-05-09": 63508,
-  "2023-05-10": 63531,
-  "2023-05-11": 63584,
-  "2023-05-12": 63624,
-  "2023-05-13": 63669,
-  "2023-05-14": 63722,
-  "2023-05-15": 63759,
-  "2023-05-16": 63794,
-  "2023-05-17": 63830,
-  "2023-05-18": 63849,
-  "2023-05-19": 63878,
-  "2023-05-20": 63994,
-  "2023-05-21": 63994,
-  "2023-05-22": 63994,
-  "2023-05-23": 64064,
-  "2023-05-24": 64119,
-  "2023-05-25": 64130,
-  "2023-05-26": 64181,
-  "2023-05-27": 64216,
-  "2023-05-28": 64259,
-  "2023-05-29": 64259,
-  "2023-05-30": 64328,
-  "2023-05-31": 64363,
-  "2023-06-01": 64402,
-  "2023-06-02": 64434,
-  "2023-06-03": 64500,
-  "2023-06-04": 64555,
-  "2023-06-05": 64617,
-  "2023-06-06": 64654,
-  "2023-06-07": 64691,
-  "2023-06-08": 64725,
-  "2023-06-09": 64766,
-  "2023-06-10": 64809,
-  "2023-06-11": 64863,
-  "2023-06-12": 64925,
-  "2023-06-13": 64959,
-  "2023-06-14": 64990,
-  "2023-06-15": 65028,
-  "2023-06-16": 65070,
-  "2023-06-17": 65116,
-  "2023-06-18": 65161,
-  "2023-06-19": 65217,
-  "2023-06-20": 65259,
-  "2023-06-21": 65294,
-  "2023-06-22": 65333,
-  "2023-06-23": 65369,
-  "2023-06-24": 65410,
-  "2023-06-25": 65452,
-  "2023-06-26": 65499,
-  "2023-06-27": 65529,
-  "2023-06-28": 65552,
-  "2023-06-29": 65586,
-  "2023-06-30": 65620,
-  "2023-07-01": 65704,
-  "2023-07-02": 65704,
-  "2023-07-03": 65739,
-  "2023-07-04": 65771,
-  "2023-07-05": 65809,
-  "2023-07-06": 65889,
-  "2023-07-07": 65889,
-  "2023-07-08": 65889,
-  "2023-07-09": 65970,
-  "2023-07-10": 66026,
-  "2023-07-11": 66065,
-  "2023-07-12": 66118,
-  "2023-07-13": 66160,
-  "2023-07-14": 66191,
-  "2023-07-15": 66218,
-  "2023-07-16": 66272,
-  "2023-07-17": 66312,
-  "2023-07-18": 66339,
-  "2023-07-19": 66381,
-  "2023-07-20": 66416,
-  "2023-07-21": 66461,
-  "2023-07-22": 66519,
-  "2023-07-23": 66589,
-  "2023-07-24": 66632,
-  "2023-07-25": 66665,
-  "2023-07-26": 66704,
-  "2023-07-27": 66748,
-  "2023-07-28": 66790,
-  "2023-07-29": 66833,
-  "2023-07-30": 66906,
-  "2023-07-31": 66955,
-  "2023-08-01": 66982,
-  "2023-08-02": 67021,
-  "2023-08-03": 67049,
-  "2023-08-04": 67097,
-  "2023-08-05": 67157,
-  "2023-08-06": 67270,
-  "2023-08-07": 67270,
-  "2023-08-08": 67302,
-  "2023-08-09": 67333,
-  "2023-08-10": 67370,
-  "2023-08-11": 67403,
-  "2023-08-12": 67403,
-  "2023-08-13": 67403,
-  "2023-08-14": 67548,
-  "2023-08-15": 67548,
-  "2023-08-16": 67548,
-  "2023-08-17": 67548,
-  "2023-08-18": 67548,
-  "2023-08-19": 67548,
-  "2023-08-20": 67833,
-  "2023-08-21": 67833,
-  "2023-08-22": 67927,
-  "2023-08-23": 67927,
-  "2023-08-24": 67927,
-  "2023-08-25": 67927,
-  "2023-08-26": 68184,
-  "2023-08-27": 68184,
-  "2023-08-28": 68346,
-  "2023-08-29": 68346,
-  "2023-08-30": 68346,
-  "2023-08-31": 68486,
-  "2023-09-01": 68549,
-  "2023-09-02": 68549,
-  "2023-09-03": 68549,
-  "2023-09-04": 68549,
-  "2023-09-05": 68549,
-  "2023-09-06": 68549,
-  "2023-09-07": 68549,
-  "2023-09-08": 68549,
-  "2023-09-09": 68549,
-  "2023-09-10": 68549,
-  "2023-09-11": 68549,
-  "2023-09-12": 68549,
-  "2023-09-13": 68549,
-  "2023-09-14": 68549,
-  "2023-09-15": 68549,
-  "2023-09-16": 69516,
-  "2023-09-17": 69516,
-  "2023-09-18": 69516,
-  "2023-09-19": 69693,
-  "2023-09-20": 69693,
-  "2023-09-21": 69693,
-  "2023-09-22": 69778,
-  "2023-09-23": 69778,
-  "2023-09-24": 69778,
-  "2023-09-25": 69778,
-  "2023-09-26": 69943,
-  "2023-09-27": 69943,
-  "2023-09-28": 69943,
-  "2023-09-29": 69943,
-  "2023-09-30": 69943,
-  "2023-10-01": 69943,
-  "2023-10-02": 69943,
-  "2023-10-03": 69943,
-  "2023-10-04": 69943,
-  "2023-10-05": 69943,
-  "2023-10-06": 69943,
-  "2023-10-07": 69943,
-  "2023-10-08": 69943,
-  "2023-10-09": 69943,
-  "2023-10-10": 69943,
-  "2023-10-11": 70425,
-  "2023-10-12": 70425,
-  "2023-10-13": 70425,
-  "2023-10-14": 70425,
-  "2023-10-15": 70425,
-  "2023-10-16": 70425,
-  "2023-10-17": 70425,
-  "2023-10-18": 70425,
-  "2023-10-19": 70425,
-  "2023-10-20": 70425,
-  "2023-10-21": 70425,
-  "2023-10-22": 70425,
-  "2023-10-23": 70425,
-  "2023-10-24": 70425,
-  "2023-10-25": 70425,
-  "2023-10-26": 70425,
-  "2023-10-27": 70425,
-  "2023-10-28": 70425,
-  "2023-10-29": 70425,
-  "2023-10-30": 70425,
-  "2023-10-31": 70425,
-  "2023-11-01": 70425,
-  "2023-11-02": 70425,
-  "2023-11-03": 70425,
-  "2023-11-04": 70425,
-  "2023-11-05": 70425,
-  "2023-11-06": 70425,
-  "2023-11-07": 70425,
-  "2023-11-08": 70425,
-  "2023-11-09": 70425,
-  "2023-11-10": 70425,
-  "2023-11-11": 71808,
-  "2023-11-12": 71808,
-  "2023-11-13": 71808,
-  "2023-11-14": 71808,
-  "2023-11-15": 71808,
-  "2023-11-16": 71808,
-  "2023-11-17": 71808,
-  "2023-11-18": 71808,
-  "2023-11-19": 71808,
-  "2023-11-20": 71808,
-  "2023-11-21": 71808,
-  "2023-11-22": 71808,
-  "2023-11-23": 71808,
-  "2023-11-24": 71808,
-  "2023-11-25": 71808,
-  "2023-11-26": 71808,
-  "2023-11-27": 71808,
-  "2023-11-28": 71808,
-  "2023-11-29": 71808,
-  "2023-11-30": 71808,
-  "2023-12-01": 71808,
-  "2023-12-02": 71808,
-  "2023-12-03": 71808,
-  "2023-12-04": 71808,
-  "2023-12-05": 71808,
-  "2023-12-06": 71808,
-  "2023-12-07": 71808,
-  "2023-12-08": 71808,
-  "2023-12-09": 71808,
-  "2023-12-10": 71808,
-  "2023-12-11": 71808,
-  "2023-12-12": 71808,
-  "2023-12-13": 71808,
-  "2023-12-14": 72976,
-  "2023-12-15": 72992,
-  "2023-12-16": 73018,
-  "2023-12-17": 73068,
-  "2023-12-18": 73103,
-  "2023-12-19": 73130,
-  "2023-12-20": 73152,
-  "2023-12-21": 73167,
-  "2023-12-22": 73192,
-  "2023-12-23": 73231,
-  "2023-12-24": 73257,
-  "2023-12-25": 73302,
-  "2023-12-26": 73334,
-  "2023-12-27": 73349,
-  "2023-12-30": 73411,
-  "2023-12-31": 73452,
-  "2024-01-01": 73496,
-  "2024-01-02": 73525,
-  "2024-01-03": 73544
+  "2024-01-17": 73609,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
+  "name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
+  "tracks": [
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261800,
+      "name": "Arrancame El Coraz\u00f3n - (En Vivo)",
+      "url": "https://open.spotify.com/track/7KDfKZEN3KXHrwIrfKp73Z"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 219733,
+      "name": "Atras De La Raya - (En Vivo)",
+      "url": "https://open.spotify.com/track/7AZLFXk4B3eA2Rp5nNcr8w"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Baraja De Oro",
+      "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "album": {
+        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
+        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "Bonita Finca de Adobe",
+      "url": "https://open.spotify.com/track/3I8xz1gfBtfz4qYC8VzTuT"
+    },
+    {
+      "album": {
+        "name": "MI PIQUITO DE ORO (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 188266,
+      "name": "Capullito De Rosa",
+      "url": "https://open.spotify.com/track/5ympd0p1sdlayiksIkfWeD"
+    },
+    {
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 174692,
+      "name": "Carino Mio",
+      "url": "https://open.spotify.com/track/0jobOWmn5t5VmSXkld0SWi"
+    },
+    {
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/2fWw0YNDXjCSJs8rjWMKqg"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 193720,
+      "name": "Carretera 585",
+      "url": "https://open.spotify.com/track/0EciRjAjJDFoQ14Zy4EVBk"
+    },
+    {
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
+    },
+    {
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Central Camionera",
+      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+    },
+    {
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Chaparra De Mi Amor",
+      "url": "https://open.spotify.com/track/6O520IZgFxvuPnBms0But5"
+    },
+    {
+      "album": {
+        "name": "Como el Topo",
+        "url": "https://open.spotify.com/album/76MCJSsUiEBdqkPUHSTas6"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 208240,
+      "name": "Copa Tras Copa",
+      "url": "https://open.spotify.com/track/27Rg03fybbYtpqddr7RhAx"
+    },
+    {
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/7y9jDwPPG28iiioNFnrvYY"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 201440,
+      "name": "Corrido De Chito Cano",
+      "url": "https://open.spotify.com/track/0rbIlYG7SYNXL8cwE1keGA"
+    },
+    {
+      "album": {
+        "name": "CORRIDOS FAMOSOS VOL. 2 (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/4HHc12osVCVVYZgJ8JYLd7"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 207751,
+      "name": "Corrido de Chito Cano",
+      "url": "https://open.spotify.com/track/4jKUq8Q2ME0g3cukpQJE7X"
+    },
+    {
+      "album": {
+        "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
+        "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "Corrido De Chito Cano",
+      "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
+    },
+    {
+      "album": {
+        "name": "Corridos Y Tragedias De La Frontera",
+        "url": "https://open.spotify.com/album/2jBFdIcdBMztm4pXMrsIxM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221719,
+      "name": "Corrido de Macario Leyva",
+      "url": "https://open.spotify.com/track/1wWkXyBQGnmAua5LKPXWv3"
+    },
+    {
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167160,
+      "name": "Cuando Yo Era Un Jovencito",
+      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda De Un Rey Vol. II - 30 Joyas Musicales",
+        "url": "https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169200,
+      "name": "Cuando Yo Era Un Jovencito",
+      "url": "https://open.spotify.com/track/34HiQ9eroaoXlS4b5ZJQWh"
+    },
+    {
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Cu\u00e1nto Me Cuesta",
+      "url": "https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK"
+    },
+    {
+      "album": {
+        "name": "Celebrando a una Leyenda, Segunda Parte (En Vivo)",
+        "url": "https://open.spotify.com/album/7vvK1TuP5ZPZxmq28YKAgv"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        },
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172346,
+      "name": "Cu\u00e1nto Me Cuesta (Me Cuesta Ponerle Letra) - En Vivo",
+      "url": "https://open.spotify.com/track/55BQZ6AqbzlvR7fBfJgesF"
+    },
+    {
+      "album": {
+        "name": "Seis Rosas Amarillas",
+        "url": "https://open.spotify.com/album/2bCKxNRKxS9Twqqkto0Zpf"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 214520,
+      "name": "Debajo De Aquel \u00c1rbol",
+      "url": "https://open.spotify.com/track/36KaZfJWJnupwYWgKFReQy"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero 100",
+        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "Del Otro Lado del Port\u00f3n",
+      "url": "https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda De Un Rey Vol. II - 30 Joyas Musicales",
+        "url": "https://open.spotify.com/album/472vMgzbpIpdZ4WAQgxu9Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 174173,
+      "name": "Despeinada",
+      "url": "https://open.spotify.com/track/3xOiGSFA9YdlPJj03SRYXV"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 207506,
+      "name": "Donde Estas - (En Vivo)",
+      "url": "https://open.spotify.com/track/2EUD3y0s05HTyxex8m9Sah"
+    },
+    {
+      "album": {
+        "name": "DOS HOJAS SIN RUMBO / ENS\u00c9\u00d1AME A OLVIDAR (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/5igh7OUbG6jyg5yXVWnTQk"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 207701,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/6yWXKiGLhagm6f9biSM7Bk"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211181,
+      "name": "Dos Hojas Sin Rumbo",
+      "url": "https://open.spotify.com/track/3uLPwbEVinsPoM1XAeMOIh"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 203562,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/7eVY9hPDlrY6M23hiR239q"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Dos Monedas",
+      "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
+    },
+    {
+      "album": {
+        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144426,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Los Rel\u00e1mpagos Con",
+        "url": "https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 146920,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/6vFceYiO9H6rsW5pLKF3Tv"
+    },
+    {
+      "album": {
+        "name": "Corridos Con",
+        "url": "https://open.spotify.com/album/4hOI70GYvjg7PXpcyowngB"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "El Federal De Caminos",
+      "url": "https://open.spotify.com/track/2P9XuggCZbHMOHI6Upkahb"
+    },
+    {
+      "album": {
+        "name": "Amigos Del Alma",
+        "url": "https://open.spotify.com/album/1ec2ZvSs6ZXYW2PxyfaS1t"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 160040,
+      "name": "El Tonto Que Te Am\u00f3",
+      "url": "https://open.spotify.com/track/0U8vL1iTfY59FNyUNeVQxx"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208000,
+      "name": "Ens\u00e9n\u0303ame A Olvidar",
+      "url": "https://open.spotify.com/track/60omHo4CkdXorYTrOzZQUO"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Ens\u00e9\u00f1ame A Olvidar",
+      "url": "https://open.spotify.com/track/4hFXPOaJg12M1NT67WlHCa"
+    },
+    {
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252374,
+      "name": "Enti\u00e9rrenme Cantando",
+      "url": "https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI"
+    },
+    {
+      "album": {
+        "name": "\u00bfPor Qu\u00e9?",
+        "url": "https://open.spotify.com/album/3yPIKcaIMhOmRStCt9MfPe"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 183586,
+      "name": "Florita Del Alma",
+      "url": "https://open.spotify.com/track/1mqYLkiDrFo2YM7EUBTfyT"
+    },
+    {
+      "album": {
+        "name": "Antolog\u00eda De Un Rey - 30 Joyas Musicales",
+        "url": "https://open.spotify.com/album/22zGSXwVHPmZqSrMXaZkNk"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 174506,
+      "name": "Gaviota",
+      "url": "https://open.spotify.com/track/3mmWb4tMQ5hN74KRhCDfcE"
+    },
+    {
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156079,
+      "name": "Gerardo Gonzalez",
+      "url": "https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta"
+    },
+    {
+      "album": {
+        "name": "Gaviota",
+        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 154493,
+      "name": "Hasta Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf"
+    },
+    {
+      "album": {
+        "name": "No Vengas A Rogarme",
+        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180880,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 164653,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/4QZ7045krnEuSUxrKOntxP"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164653,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/4YmYjgg9BiISgPM7XivQsl"
+    },
+    {
+      "album": {
+        "name": "CELEBRANDO CINCO DE MAYO",
+        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "Juramos Amarnos",
+      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
+    },
+    {
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 156920,
+      "name": "La Latosa",
+      "url": "https://open.spotify.com/track/74aQZ1NHn8RjsZKGgCKZ7p"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo (Aferrado Por Ti)",
+        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 197906,
+      "name": "La Miedosa",
+      "url": "https://open.spotify.com/track/6bzNLOc4Gpxj2MakSFVmyq"
+    },
+    {
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223853,
+      "name": "La Rama Del Mezquite",
+      "url": "https://open.spotify.com/track/1UNqn7QxAZFGlaHqKOK1tp"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "La Vecina Me Puso El Dedo - (En Vivo)",
+      "url": "https://open.spotify.com/track/48WxZIQmHcE8spvOV78bih"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9mame Los Ojos (Remasterizado)",
+        "url": "https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 167919,
+      "name": "Lamento Vallenato",
+      "url": "https://open.spotify.com/track/7aHajo5HTUrU5ZYZuhrbF4"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 183000,
+      "name": "Linda Chiquilla - (En Vivo)",
+      "url": "https://open.spotify.com/track/3P1s3K8V03Dhwq4o6LDAWH"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 171893,
+      "name": "Llegaste Tu",
+      "url": "https://open.spotify.com/track/0TfW20hfAW1DxHkeiKN8R5"
+    },
+    {
+      "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/4gNEQSuUGtz13sLf11vchI"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 172533,
+      "name": "Llegaste T\u00fa",
+      "url": "https://open.spotify.com/track/1QD2rHcwpS0XqIrKbSvONX"
+    },
+    {
+      "album": {
+        "name": "No Vengas A Rogarme",
+        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 190733,
+      "name": "Los Ojitos De Mi Elena",
+      "url": "https://open.spotify.com/track/1DXMAe1PCJrXt6ZYYQFOpO"
+    },
+    {
+      "album": {
+        "name": "Lagrimas",
+        "url": "https://open.spotify.com/album/0JN8mZ3miJNMroapco383C"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 138226,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2NGw51VQMr7suG30O3iFsF"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "Me Llega Me Llega",
+      "url": "https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT"
+    },
+    {
+      "album": {
+        "name": "(DE LA PELICULA) DINASTIA DE LA MUERTE (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 212666,
+      "name": "Me Llega, Me Llega",
+      "url": "https://open.spotify.com/track/4IfVVQ9w59vx0eoepbO9Mu"
+    },
+    {
+      "album": {
+        "name": "Gaviota",
+        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 215400,
+      "name": "Me Puso El Dedo",
+      "url": "https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun"
+    },
+    {
+      "album": {
+        "name": "En Las Alas De Un Angel",
+        "url": "https://open.spotify.com/album/5GkrB7ooBMxKFvOM4LCQep"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-28",
+      "duration_ms": 157933,
+      "name": "Me Sacaron del Tenampa",
+      "url": "https://open.spotify.com/track/1D6YQw9yPionscrYA1wycI"
+    },
+    {
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177826,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171413,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 178600,
+      "name": "Mi Golondrina - En Vivo",
+      "url": "https://open.spotify.com/track/1oXTiFmljKee2o6tmOO8sR"
+    },
+    {
+      "album": {
+        "name": "MI PIQUITO DE ORO (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128773,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/6mUBSPJ6SORgOLz1uaMYTc"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Los Rel\u00e1mpagos Con",
+        "url": "https://open.spotify.com/album/5Alc676cqJGN5rqCWY4tl1"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 188066,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/0PlfaOMZLbBOLBIl54cFMf"
+    },
+    {
+      "album": {
+        "name": "2 Grandes Mano a Mano",
+        "url": "https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx"
+    },
+    {
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 235706,
+      "name": "M\u00e1ndame A La Tumba",
+      "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
+    },
+    {
+      "album": {
+        "name": "Ni Por Mil Punados De Oro",
+        "url": "https://open.spotify.com/album/6EznMOZQJh3StfuuffDbzX"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 152210,
+      "name": "Ni Por Mil Punados De Oro",
+      "url": "https://open.spotify.com/track/55tDGwgbcDOaMzCaHaBjk1"
+    },
+    {
+      "album": {
+        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
+        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Ni por Mil Pu\u00f1ados de Oro",
+      "url": "https://open.spotify.com/track/5vqvts8qIppDyCDfTW3jn7"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142640,
+      "name": "No Porque Seas T\u00fa",
+      "url": "https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9mame Los Ojos (Remasterizado)",
+        "url": "https://open.spotify.com/album/6fhPiiOb9ptKqk6dBFEWG1"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169593,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/4rOVkiMwnw9j9dIoza5lKL"
+    },
+    {
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181640,
+      "name": "Para Poder Llegar A Ti",
+      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
+    },
+    {
+      "album": {
+        "name": "El N\u00famero 100",
+        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 172306,
+      "name": "Pero Ya No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/5FOUvS4T19gUE0wHrWO5sd"
+    },
+    {
+      "album": {
+        "name": "Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
+    },
+    {
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
+    },
+    {
+      "album": {
+        "name": "RECORDANDO A LOS RELAMPAGOS (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 116693,
+      "name": "Que Tal Si Te Compro",
+      "url": "https://open.spotify.com/track/0uCuMs49RrVr6aTAjItT8c"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211226,
+      "name": "Quisiera Tener Alas",
+      "url": "https://open.spotify.com/track/2HTIJanLHMBCu6PpzvpruE"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 182906,
+      "name": "Qu\u00e9 Casualidad",
+      "url": "https://open.spotify.com/track/2IeZVwidxkQVzmt4Lyza8m"
+    },
+    {
+      "album": {
+        "name": "En Vivo...El Hombre Y Su Musica",
+        "url": "https://open.spotify.com/album/6HniHEkUrAv3Gb14p7qayA"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Qu\u00e9 Casualidad - En Vivo",
+      "url": "https://open.spotify.com/track/6lZCAX3knOgcY1Qul2wHJu"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+        "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185280,
+      "name": "Recuerdos Tristes",
+      "url": "https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos Pesados De La Cantina",
+        "url": "https://open.spotify.com/album/6e5tTNCr3N7p2gjyyN2Kwo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203689,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/1P75JJKulGQaF4Xeeab8oa"
+    },
+    {
+      "album": {
+        "name": "Cruzando Fronteras",
+        "url": "https://open.spotify.com/album/2LoxSZQBdZ3JjaBwFJbbJQ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 224986,
+      "name": "Rey Pobre",
+      "url": "https://open.spotify.com/track/242gbpUCr70K1VjsNgyAAt"
+    },
+    {
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/0uJUohjIxJs0FHE53qOCvX"
+    },
+    {
+      "album": {
+        "name": "Amor Vaquero",
+        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+    },
+    {
+      "album": {
+        "name": "DEBAJO DE AQUEL \u00c1RBOL / CUATRO CAMINOS (GRABACI\u00d3N ORIGINAL REMASTERIZADA)",
+        "url": "https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 162173,
+      "name": "Seis Rosas Amarillas",
+      "url": "https://open.spotify.com/track/4H5c5b83c5IvAJmdojrmFe"
+    },
+    {
+      "album": {
+        "name": "Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 201573,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/7oFrzDDNmPCGbPDnvYdZXv"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 201666,
+      "name": "Se\u00f1or Dios",
+      "url": "https://open.spotify.com/track/76pn7rTenurEuF5ZPTfIG3"
+    },
+    {
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166906,
+      "name": "S\u00f3lo una Patada",
+      "url": "https://open.spotify.com/track/34x84kiFbL2pdwlGT8BYcd"
+    },
+    {
+      "album": {
+        "name": "Calles De Piedra",
+        "url": "https://open.spotify.com/album/7kOrdFKcrKHNAk5Di7pDlf"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-16",
+      "duration_ms": 175906,
+      "name": "Te Quedaste Sola",
+      "url": "https://open.spotify.com/track/44Zfw3S5elENnz9NGDwQ1T"
+    },
+    {
+      "album": {
+        "name": "Hits 1972",
+        "url": "https://open.spotify.com/album/7JYjOSnsG8doJy8KF0u7zT"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 156618,
+      "name": "Te Traigo Estas Flores",
+      "url": "https://open.spotify.com/track/3yaFC2YHbTer30cngj3AVZ"
+    },
+    {
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
+    },
+    {
+      "album": {
+        "name": "RECORDANDO A LOS RELAMPAGOS (Grabaci\u00f3n Original Remasterizada)",
+        "url": "https://open.spotify.com/album/4FulDas7jKIV4h7JS4ay7x"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 172333,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3ecmw1gIHba4NGkifXwkdv"
+    },
+    {
+      "album": {
+        "name": "Ayer, Hoy Y Siempre Con... Ram\u00f3n Ayala Y Sus Bravos Del Norte",
+        "url": "https://open.spotify.com/album/7qJ2TrDx6uZFKaaV0YzZRu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172733,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/77FF2WQOvh9yCxtTDi8qSv"
+    },
+    {
+      "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161253,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo (Aferrado Por Ti)",
+        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 136693,
+      "name": "Una Carta",
+      "url": "https://open.spotify.com/track/5FQ3QnqgmDQABJRQvpS6UT"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/4hZzcu2j0XVti6j8hVV0Oz"
+    },
+    {
+      "album": {
+        "name": "Quisiera Tener Alas",
+        "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 189280,
+      "name": "Vestida De Color De Rosa",
+      "url": "https://open.spotify.com/track/1rtdxwg7ZQB6yZn5SIMaj6"
+    },
+    {
+      "album": {
+        "name": "15 Norte\u00f1as De Exito Herencia Musical De",
+        "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "Vino Maldito",
+      "url": "https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx"
+    },
+    {
+      "album": {
+        "name": "DEBAJO DE AQUEL \u00c1RBOL / CUATRO CAMINOS (GRABACI\u00d3N ORIGINAL REMASTERIZADA)",
+        "url": "https://open.spotify.com/album/2dlKrcyJLsELo2zbU6WjpJ"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 189506,
+      "name": "Volv\u00ed A Mi Finca De Adobe",
+      "url": "https://open.spotify.com/track/7CJSiAMo8EUdQde8Tv1wJp"
+    },
+    {
+      "album": {
+        "name": "Pero Yo No La Conozco",
+        "url": "https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173120,
+      "name": "Y Lloro Por Ella Mi Gorri\u00f3n",
+      "url": "https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT"
+    },
+    {
+      "album": {
+        "name": "Esos Dos Amigos (Remasterizado)",
+        "url": "https://open.spotify.com/album/3Yg0OfHOXsczieJwV5gq76"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        },
+        {
+          "name": "Jody Farias",
+          "url": "https://open.spotify.com/artist/0AvLxgq8bvY2bXqzeQSgIA"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-24",
+      "duration_ms": 216234,
+      "name": "\u00c9sos Dos Amigos Brindaron Por Ella",
+      "url": "https://open.spotify.com/track/3XalTDHy6XRXM1DjFIESot"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Acog"
 }

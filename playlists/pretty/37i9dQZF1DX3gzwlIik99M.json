@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 210909,
+  "num_followers": 207736,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
+      },
+      "artists": [
+        {
+          "name": "Bar\u00f3n Rojo",
+          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
+        }
+      ],
+      "duration_ms": 259733,
+      "name": "Los Rockeros Van al Infierno",
+      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Arise",
         "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 223440,
       "name": "Acido",
       "url": "https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/0vZFmEVF9HyhtkYy5ZHAIN"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00f3n Rojo",
-          "url": "https://open.spotify.com/artist/0R5dtryP4tKLlMZA0vhBvF"
-        }
-      ],
-      "duration_ms": 259733,
-      "name": "Los Rockeros Van al Infierno",
-      "url": "https://open.spotify.com/track/2uvkYLYqFTHh5n0q0cISNX"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Beneath the Remains",
-        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 265853,
-      "name": "Mass Hypnosis",
-      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "R\u00edo Extra\u00f1o",
         "url": "https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL"
       },
@@ -283,22 +267,6 @@
       "duration_ms": 286653,
       "name": "Pueblo Motoquero",
       "url": "https://open.spotify.com/track/3Qwk2xcvEh6VDp5QiKdmS4"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Un Paso Mas en la Batalla",
-        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
-      },
-      "artists": [
-        {
-          "name": "V8",
-          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
-        }
-      ],
-      "duration_ms": 316413,
-      "name": "Deseando Destruir y Matar",
-      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -335,6 +303,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Un Paso Mas en la Batalla",
+        "url": "https://open.spotify.com/album/0zHdtlc987CwJR3Pr5TV5z"
+      },
+      "artists": [
+        {
+          "name": "V8",
+          "url": "https://open.spotify.com/artist/2GOgGMMJooNV8Yk2PjvzAa"
+        }
+      ],
+      "duration_ms": 316413,
+      "name": "Deseando Destruir y Matar",
+      "url": "https://open.spotify.com/track/2zumIZU09Iz2eGRJ5UXHms"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "La Industria del Poder",
         "url": "https://open.spotify.com/album/6EzOsuKn38yWoNgpy9veNr"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 300066,
       "name": "Como Rel\u00e1mpago en la Oscuridad",
       "url": "https://open.spotify.com/track/1f4XTlw5UXx9jIkl3rr0PA"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Beneath the Remains",
+        "url": "https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 265853,
+      "name": "Mass Hypnosis",
+      "url": "https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Nuevo Orden Mundial",
-        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
-      },
-      "artists": [
-        {
-          "name": "Malon",
-          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "Nuevo Orden Mundial",
-      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Satanico-Dramatico",
         "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 71000,
       "name": "Sigo Siendo El Rey",
       "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Nuevo Orden Mundial",
+        "url": "https://open.spotify.com/album/1CKYZwGXNP0YdKitzWdF7r"
+      },
+      "artists": [
+        {
+          "name": "Malon",
+          "url": "https://open.spotify.com/artist/3MBsvBr8B6mfjO6txfT6uL"
+        }
+      ],
+      "duration_ms": 231426,
+      "name": "Nuevo Orden Mundial",
+      "url": "https://open.spotify.com/track/3vqtXUHVs1i5sB8QZOm6UU"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Kollong",
-        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
+        "name": "Carnivora",
+        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
       },
       "artists": [
         {
-          "name": "Mawiza",
-          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+          "name": "Mastifal",
+          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
         }
       ],
-      "duration_ms": 237062,
-      "name": "Mawiza \u00d1i Piwke",
-      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
+      "duration_ms": 287573,
+      "name": "Culto vacio radical",
+      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -523,22 +523,6 @@
       "duration_ms": 107693,
       "name": "Policia",
       "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Carnivora",
-        "url": "https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS"
-      },
-      "artists": [
-        {
-          "name": "Mastifal",
-          "url": "https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Culto vacio radical",
-      "url": "https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -575,6 +559,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Kollong",
+        "url": "https://open.spotify.com/album/1JMbEcPOXo8DKOMsu7Rmo1"
+      },
+      "artists": [
+        {
+          "name": "Mawiza",
+          "url": "https://open.spotify.com/artist/4oJP24bXA2fbdVmNGNmCtt"
+        }
+      ],
+      "duration_ms": 237062,
+      "name": "Mawiza \u00d1i Piwke",
+      "url": "https://open.spotify.com/track/4ljxScl9mHiMwfwjLbXexV"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Esp\u00edritu Combativo",
         "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
@@ -607,22 +607,18 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
+        "name": "Khafra",
+        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
       "artists": [
         {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
+          "name": "Khafra",
+          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Pueblos erguidos",
-      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
+      "duration_ms": 182323,
+      "name": "Esquizofrenia",
+      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -643,34 +639,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Khafra",
-        "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
+        "name": "El Nuevo Camino del Hombre",
+        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
       "artists": [
         {
-          "name": "Khafra",
-          "url": "https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo"
-        }
-      ],
-      "duration_ms": 182323,
-      "name": "Esquizofrenia",
-      "url": "https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Sentir Metalero",
-        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
-      },
-      "artists": [
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        },
         {
-          "name": "Aonikenk",
-          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+          "name": "Mario Altamirano and A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
         }
       ],
-      "duration_ms": 256360,
-      "name": "Cacique Yatel",
-      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
+      "duration_ms": 198893,
+      "name": "Pueblos erguidos",
+      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -687,6 +671,22 @@
       "duration_ms": 257773,
       "name": "Darse Cuenta",
       "url": "https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Sentir Metalero",
+        "url": "https://open.spotify.com/album/1ptYeB038RINyS0cxPoP4J"
+      },
+      "artists": [
+        {
+          "name": "Aonikenk",
+          "url": "https://open.spotify.com/artist/7hjJ0q7oXYcl866xlKLmu7"
+        }
+      ],
+      "duration_ms": 256360,
+      "name": "Cacique Yatel",
+      "url": "https://open.spotify.com/track/564R2CUjKmBW3hNTghZeKk"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "El Cielo Ser\u00e1 Testigo",
+        "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
+      },
+      "artists": [
+        {
+          "name": "Arcadia Libre",
+          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
+        }
+      ],
+      "duration_ms": 270471,
+      "name": "Credo de Darwin",
+      "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Nulo",
         "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 225312,
       "name": "Apatrida",
       "url": "https://open.spotify.com/track/5F1qBUKeV22jGhX7oIrOUf"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "El Cielo Ser\u00e1 Testigo",
-        "url": "https://open.spotify.com/album/3lBZvKEOQYC8mWG9KgQC7W"
-      },
-      "artists": [
-        {
-          "name": "Arcadia Libre",
-          "url": "https://open.spotify.com/artist/6gZhuSVFXoFtwkPM0T1o4q"
-        }
-      ],
-      "duration_ms": 270471,
-      "name": "Credo de Darwin",
-      "url": "https://open.spotify.com/track/7f09nZnYNPChCvEiGvQDi3"
     },
     {
       "added_at": "2023-04-28 03:00:00",

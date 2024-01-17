@@ -1,621 +1,873 @@
 {
-  "2022-04-19": 2282,
-  "2022-04-20": 2289,
-  "2022-04-21": 2297,
-  "2022-04-22": 2304,
-  "2022-04-23": 2311,
-  "2022-04-24": 2316,
-  "2022-04-25": 2320,
-  "2022-04-26": 2331,
-  "2022-04-27": 2337,
-  "2022-04-28": 2349,
-  "2022-04-29": 2363,
-  "2022-04-30": 2373,
-  "2022-05-01": 2380,
-  "2022-05-02": 2380,
-  "2022-05-03": 2389,
-  "2022-05-04": 2393,
-  "2022-05-05": 2398,
-  "2022-05-06": 2401,
-  "2022-05-07": 2410,
-  "2022-05-08": 2415,
-  "2022-05-09": 2416,
-  "2022-05-10": 2424,
-  "2022-05-11": 2429,
-  "2022-05-12": 2436,
-  "2022-05-13": 2443,
-  "2022-05-14": 2451,
-  "2022-05-15": 2455,
-  "2022-05-16": 2461,
-  "2022-05-17": 2467,
-  "2022-05-18": 2470,
-  "2022-05-19": 2478,
-  "2022-05-20": 2488,
-  "2022-05-21": 2505,
-  "2022-05-22": 2505,
-  "2022-05-23": 2513,
-  "2022-05-24": 2515,
-  "2022-05-25": 2522,
-  "2022-05-26": 2529,
-  "2022-05-27": 2529,
-  "2022-05-28": 2536,
-  "2022-05-29": 2541,
-  "2022-05-30": 2546,
-  "2022-05-31": 2553,
-  "2022-06-01": 2564,
-  "2022-06-02": 2565,
-  "2022-06-03": 2567,
-  "2022-06-04": 2575,
-  "2022-06-05": 2579,
-  "2022-06-06": 2581,
-  "2022-06-07": 2583,
-  "2022-06-08": 2591,
-  "2022-06-09": 2596,
-  "2022-06-10": 2598,
-  "2022-06-11": 2607,
-  "2022-06-12": 2611,
-  "2022-06-13": 2618,
-  "2022-06-14": 2619,
-  "2022-06-15": 2621,
-  "2022-06-16": 2624,
-  "2022-06-17": 2627,
-  "2022-06-18": 2626,
-  "2022-06-19": 2633,
-  "2022-06-20": 2633,
-  "2022-06-21": 2636,
-  "2022-06-22": 2647,
-  "2022-06-23": 2647,
-  "2022-06-24": 2651,
-  "2022-06-25": 2657,
-  "2022-06-26": 2660,
-  "2022-06-27": 2662,
-  "2022-06-28": 2670,
-  "2022-06-29": 2674,
-  "2022-06-30": 2675,
-  "2022-07-01": 2679,
-  "2022-07-02": 2687,
-  "2022-07-03": 2693,
-  "2022-07-04": 2698,
-  "2022-07-05": 2699,
-  "2022-07-06": 2702,
-  "2022-07-07": 2709,
-  "2022-07-08": 2713,
-  "2022-07-09": 2718,
-  "2022-07-10": 2722,
-  "2022-07-11": 2725,
-  "2022-07-12": 2728,
-  "2022-07-13": 2731,
-  "2022-07-14": 2734,
-  "2022-07-15": 2737,
-  "2022-07-16": 2742,
-  "2022-07-17": 2744,
-  "2022-07-18": 2750,
-  "2022-07-19": 2753,
-  "2022-07-20": 2761,
-  "2022-07-21": 2764,
-  "2022-07-22": 2767,
-  "2022-07-23": 2772,
-  "2022-07-24": 2771,
-  "2022-07-25": 2781,
-  "2022-07-26": 2791,
-  "2022-07-27": 2795,
-  "2022-07-28": 2802,
-  "2022-07-29": 2803,
-  "2022-07-30": 2813,
-  "2022-07-31": 2813,
-  "2022-08-01": 2820,
-  "2022-08-02": 2835,
-  "2022-08-03": 2835,
-  "2022-08-04": 2844,
-  "2022-08-05": 2847,
-  "2022-08-06": 2850,
-  "2022-08-07": 2854,
-  "2022-08-08": 2858,
-  "2022-08-09": 2866,
-  "2022-08-10": 2866,
-  "2022-08-11": 2865,
-  "2022-08-12": 2873,
-  "2022-08-13": 2875,
-  "2022-08-14": 2884,
-  "2022-08-15": 2890,
-  "2022-08-16": 2893,
-  "2022-08-17": 2894,
-  "2022-08-18": 2897,
-  "2022-08-19": 2902,
-  "2022-08-20": 2905,
-  "2022-08-21": 2910,
-  "2022-08-22": 2916,
-  "2022-08-23": 2919,
-  "2022-08-24": 2926,
-  "2022-08-25": 2933,
-  "2022-08-26": 2933,
-  "2022-08-27": 2935,
-  "2022-08-28": 2939,
-  "2022-08-29": 2943,
-  "2022-08-30": 2948,
-  "2022-08-31": 2949,
-  "2022-09-01": 2950,
-  "2022-09-02": 2957,
-  "2022-09-03": 2964,
-  "2022-09-04": 2967,
-  "2022-09-05": 2971,
-  "2022-09-06": 2978,
-  "2022-09-07": 2983,
-  "2022-09-09": 2995,
-  "2022-09-10": 2998,
-  "2022-09-11": 3008,
-  "2022-09-12": 3013,
-  "2022-09-13": 3016,
-  "2022-09-15": 3030,
-  "2022-09-16": 3033,
-  "2022-09-17": 3036,
-  "2022-09-18": 3037,
-  "2022-09-19": 3043,
-  "2022-09-20": 3052,
-  "2022-09-21": 3054,
-  "2022-09-22": 3058,
-  "2022-09-23": 3062,
-  "2022-09-24": 3065,
-  "2022-09-25": 3071,
-  "2022-09-26": 3076,
-  "2022-09-27": 3082,
-  "2022-09-28": 3093,
-  "2022-09-29": 3098,
-  "2022-09-30": 3101,
-  "2022-10-01": 3104,
-  "2022-10-02": 3111,
-  "2022-10-03": 3114,
-  "2022-10-04": 3115,
-  "2022-10-05": 3117,
-  "2022-10-06": 3122,
-  "2022-10-07": 3128,
-  "2022-10-08": 3134,
-  "2022-10-09": 3142,
-  "2022-10-10": 3144,
-  "2022-10-11": 3145,
-  "2022-10-12": 3153,
-  "2022-10-13": 3160,
-  "2022-10-14": 3162,
-  "2022-10-15": 3165,
-  "2022-10-16": 3168,
-  "2022-10-17": 3173,
-  "2022-10-18": 3178,
-  "2022-10-19": 3182,
-  "2022-10-20": 3189,
-  "2022-10-21": 3196,
-  "2022-10-22": 3197,
-  "2022-10-23": 3201,
-  "2022-10-24": 3204,
-  "2022-10-25": 3208,
-  "2022-10-26": 3208,
-  "2022-10-27": 3209,
-  "2022-10-28": 3214,
-  "2022-10-29": 3222,
-  "2022-10-30": 3227,
-  "2022-10-31": 3230,
-  "2022-11-01": 3232,
-  "2022-11-02": 3240,
-  "2022-11-03": 3243,
-  "2022-11-04": 3250,
-  "2022-11-05": 3255,
-  "2022-11-06": 3258,
-  "2022-11-07": 3262,
-  "2022-11-08": 3267,
-  "2022-11-09": 3273,
-  "2022-11-10": 3282,
-  "2022-11-11": 3287,
-  "2022-11-12": 3298,
-  "2022-11-13": 3302,
-  "2022-11-14": 3307,
-  "2022-11-15": 3315,
-  "2022-11-16": 3320,
-  "2022-11-17": 3325,
-  "2022-11-18": 3327,
-  "2022-11-19": 3326,
-  "2022-11-20": 3331,
-  "2022-11-21": 3331,
-  "2022-11-22": 3346,
-  "2022-11-23": 3344,
-  "2022-11-24": 3364,
-  "2022-11-25": 3368,
-  "2022-11-26": 3369,
-  "2022-11-27": 3372,
-  "2022-11-28": 3379,
-  "2022-11-29": 3383,
-  "2022-11-30": 3395,
-  "2022-12-01": 3401,
-  "2022-12-02": 3400,
-  "2022-12-03": 3407,
-  "2022-12-04": 3408,
-  "2022-12-05": 3410,
-  "2022-12-06": 3410,
-  "2022-12-07": 3415,
-  "2022-12-08": 3421,
-  "2022-12-09": 3428,
-  "2022-12-10": 3433,
-  "2022-12-11": 3437,
-  "2022-12-12": 3437,
-  "2022-12-13": 3441,
-  "2022-12-14": 3443,
-  "2022-12-15": 3451,
-  "2022-12-16": 3459,
-  "2022-12-17": 3463,
-  "2022-12-18": 3464,
-  "2022-12-19": 3469,
-  "2022-12-20": 3476,
-  "2022-12-21": 3476,
-  "2022-12-22": 3480,
-  "2022-12-24": 3489,
-  "2022-12-25": 3489,
-  "2022-12-26": 3495,
-  "2022-12-27": 3506,
-  "2022-12-28": 3510,
-  "2022-12-29": 3519,
-  "2022-12-30": 3525,
-  "2022-12-31": 3529,
-  "2023-01-01": 3532,
-  "2023-01-02": 3534,
-  "2023-01-03": 3540,
-  "2023-01-04": 3550,
-  "2023-01-05": 3559,
-  "2023-01-06": 3567,
-  "2023-01-07": 3581,
-  "2023-01-08": 3584,
-  "2023-01-09": 3590,
-  "2023-01-10": 3596,
-  "2023-01-11": 3600,
-  "2023-01-12": 3605,
-  "2023-01-13": 3611,
-  "2023-01-14": 3626,
-  "2023-01-15": 3631,
-  "2023-01-16": 3637,
-  "2023-01-17": 3641,
-  "2023-01-18": 3645,
-  "2023-01-19": 3652,
-  "2023-01-20": 3661,
-  "2023-01-21": 3667,
-  "2023-01-22": 3675,
-  "2023-01-23": 3682,
-  "2023-01-24": 3687,
-  "2023-01-25": 3696,
-  "2023-01-26": 3701,
-  "2023-01-27": 3705,
-  "2023-01-28": 3710,
-  "2023-01-29": 3715,
-  "2023-01-30": 3719,
-  "2023-01-31": 3719,
-  "2023-02-01": 3730,
-  "2023-02-02": 3736,
-  "2023-02-03": 3741,
-  "2023-02-04": 3749,
-  "2023-02-05": 3756,
-  "2023-02-06": 3762,
-  "2023-02-07": 3769,
-  "2023-02-08": 3780,
-  "2023-02-09": 3780,
-  "2023-02-10": 3789,
-  "2023-02-11": 3792,
-  "2023-02-12": 3805,
-  "2023-02-13": 3812,
-  "2023-02-14": 3812,
-  "2023-02-15": 3817,
-  "2023-02-16": 3825,
-  "2023-02-17": 3833,
-  "2023-02-18": 3852,
-  "2023-02-19": 3853,
-  "2023-02-20": 3857,
-  "2023-02-21": 3867,
-  "2023-02-22": 3879,
-  "2023-02-23": 3904,
-  "2023-02-24": 3921,
-  "2023-02-25": 3951,
-  "2023-02-26": 3964,
-  "2023-02-27": 4007,
-  "2023-02-28": 4007,
-  "2023-03-01": 4022,
-  "2023-03-02": 4039,
-  "2023-03-03": 4076,
-  "2023-03-04": 4106,
-  "2023-03-05": 4163,
-  "2023-03-06": 4163,
-  "2023-03-07": 4197,
-  "2023-03-08": 4224,
-  "2023-03-09": 4247,
-  "2023-03-10": 4284,
-  "2023-03-11": 4311,
-  "2023-03-12": 4340,
-  "2023-03-13": 4370,
-  "2023-03-14": 4395,
-  "2023-03-15": 4427,
-  "2023-03-16": 4458,
-  "2023-03-17": 4458,
-  "2023-03-18": 4519,
-  "2023-03-19": 4545,
-  "2023-03-20": 4584,
-  "2023-03-21": 4614,
-  "2023-03-22": 4633,
-  "2023-03-23": 4670,
-  "2023-03-24": 4670,
-  "2023-03-25": 4725,
-  "2023-03-26": 4752,
-  "2023-03-27": 4782,
-  "2023-03-28": 4810,
-  "2023-03-29": 4841,
-  "2023-03-30": 4881,
-  "2023-03-31": 4881,
-  "2023-04-01": 4903,
-  "2023-04-02": 4923,
-  "2023-04-03": 4942,
-  "2023-04-04": 4966,
-  "2023-04-05": 4994,
-  "2023-04-06": 5018,
-  "2023-04-07": 5034,
-  "2023-04-09": 5060,
-  "2023-04-10": 5075,
-  "2023-04-11": 5117,
-  "2023-04-12": 5117,
-  "2023-04-13": 5135,
-  "2023-04-14": 5154,
-  "2023-04-15": 5175,
-  "2023-04-16": 5187,
-  "2023-04-17": 5212,
-  "2023-04-18": 5235,
-  "2023-04-19": 5262,
-  "2023-04-20": 5285,
-  "2023-04-21": 5293,
-  "2023-04-22": 5309,
-  "2023-04-23": 5330,
-  "2023-04-24": 5346,
-  "2023-04-25": 5371,
-  "2023-04-26": 5391,
-  "2023-04-27": 5410,
-  "2023-04-28": 5424,
-  "2023-04-29": 5448,
-  "2023-04-30": 5465,
-  "2023-05-01": 5484,
-  "2023-05-02": 5500,
-  "2023-05-03": 5515,
-  "2023-05-04": 5542,
-  "2023-05-05": 5554,
-  "2023-05-06": 5575,
-  "2023-05-07": 5593,
-  "2023-05-08": 5605,
-  "2023-05-09": 5627,
-  "2023-05-10": 5646,
-  "2023-05-11": 5663,
-  "2023-05-12": 5683,
-  "2023-05-13": 5702,
-  "2023-05-14": 5722,
-  "2023-05-15": 5737,
-  "2023-05-16": 5747,
-  "2023-05-17": 5766,
-  "2023-05-18": 5785,
-  "2023-05-19": 5801,
-  "2023-05-20": 5835,
-  "2023-05-21": 5835,
-  "2023-05-22": 5835,
-  "2023-05-23": 5868,
-  "2023-05-24": 5899,
-  "2023-05-25": 5902,
-  "2023-05-26": 5922,
-  "2023-05-27": 5930,
-  "2023-05-28": 5939,
-  "2023-05-29": 5939,
-  "2023-05-30": 5962,
-  "2023-05-31": 5977,
-  "2023-06-01": 5983,
-  "2023-06-02": 6023,
-  "2023-06-03": 6042,
-  "2023-06-04": 6063,
-  "2023-06-05": 6080,
-  "2023-06-06": 6100,
-  "2023-06-07": 6116,
-  "2023-06-08": 6139,
-  "2023-06-09": 6150,
-  "2023-06-10": 6174,
-  "2023-06-11": 6187,
-  "2023-06-12": 6210,
-  "2023-06-13": 6223,
-  "2023-06-14": 6247,
-  "2023-06-15": 6258,
-  "2023-06-16": 6270,
-  "2023-06-17": 6284,
-  "2023-06-18": 6307,
-  "2023-06-19": 6327,
-  "2023-06-20": 6345,
-  "2023-06-21": 6360,
-  "2023-06-22": 6374,
-  "2023-06-23": 6386,
-  "2023-06-24": 6402,
-  "2023-06-25": 6418,
-  "2023-06-26": 6440,
-  "2023-06-27": 6460,
-  "2023-06-28": 6468,
-  "2023-06-29": 6482,
-  "2023-06-30": 6509,
-  "2023-07-01": 6547,
-  "2023-07-02": 6547,
-  "2023-07-03": 6565,
-  "2023-07-04": 6580,
-  "2023-07-05": 6599,
-  "2023-07-06": 6636,
-  "2023-07-07": 6636,
-  "2023-07-08": 6652,
-  "2023-07-09": 6670,
-  "2023-07-10": 6692,
-  "2023-07-11": 6717,
-  "2023-07-12": 6738,
-  "2023-07-13": 6761,
-  "2023-07-14": 6781,
-  "2023-07-15": 6784,
-  "2023-07-16": 6811,
-  "2023-07-17": 6825,
-  "2023-07-18": 6843,
-  "2023-07-19": 6856,
-  "2023-07-20": 6875,
-  "2023-07-21": 6894,
-  "2023-07-22": 6910,
-  "2023-07-23": 6928,
-  "2023-07-24": 6943,
-  "2023-07-25": 6960,
-  "2023-07-26": 6988,
-  "2023-07-27": 7016,
-  "2023-07-28": 7033,
-  "2023-07-29": 7050,
-  "2023-07-30": 7070,
-  "2023-07-31": 7093,
-  "2023-08-01": 7112,
-  "2023-08-02": 7134,
-  "2023-08-03": 7158,
-  "2023-08-04": 7170,
-  "2023-08-05": 7191,
-  "2023-08-06": 7230,
-  "2023-08-07": 7230,
-  "2023-08-08": 7246,
-  "2023-08-09": 7269,
-  "2023-08-10": 7289,
-  "2023-08-11": 7310,
-  "2023-08-12": 7326,
-  "2023-08-13": 7349,
-  "2023-08-14": 7382,
-  "2023-08-15": 7419,
-  "2023-08-16": 7419,
-  "2023-08-17": 7447,
-  "2023-08-18": 7466,
-  "2023-08-19": 7488,
-  "2023-08-20": 7531,
-  "2023-08-21": 7556,
-  "2023-08-22": 7581,
-  "2023-08-23": 7598,
-  "2023-08-24": 7620,
-  "2023-08-25": 7654,
-  "2023-08-26": 7686,
-  "2023-08-27": 7710,
-  "2023-08-28": 7731,
-  "2023-08-29": 7763,
-  "2023-08-30": 7784,
-  "2023-08-31": 7808,
-  "2023-09-01": 7859,
-  "2023-09-02": 7859,
-  "2023-09-03": 7880,
-  "2023-09-04": 7912,
-  "2023-09-05": 7948,
-  "2023-09-06": 7985,
-  "2023-09-07": 8027,
-  "2023-09-08": 8072,
-  "2023-09-09": 8102,
-  "2023-09-10": 8143,
-  "2023-09-11": 8186,
-  "2023-09-12": 8230,
-  "2023-09-13": 8276,
-  "2023-09-14": 8320,
-  "2023-09-15": 8373,
-  "2023-09-16": 8398,
-  "2023-09-17": 8440,
-  "2023-09-18": 8478,
-  "2023-09-19": 8515,
-  "2023-09-20": 8564,
-  "2023-09-21": 8620,
-  "2023-09-22": 8665,
-  "2023-09-23": 8720,
-  "2023-09-24": 8760,
-  "2023-09-25": 8801,
-  "2023-09-26": 8854,
-  "2023-09-27": 8883,
-  "2023-09-28": 8935,
-  "2023-09-29": 8980,
-  "2023-09-30": 9018,
-  "2023-10-01": 9067,
-  "2023-10-02": 9111,
-  "2023-10-03": 9152,
-  "2023-10-04": 9205,
-  "2023-10-05": 9252,
-  "2023-10-06": 9292,
-  "2023-10-07": 9313,
-  "2023-10-08": 9344,
-  "2023-10-09": 9387,
-  "2023-10-10": 9417,
-  "2023-10-11": 9479,
-  "2023-10-12": 9479,
-  "2023-10-13": 9526,
-  "2023-10-14": 9556,
-  "2023-10-15": 9585,
-  "2023-10-16": 9613,
-  "2023-10-17": 9644,
-  "2023-10-18": 9684,
-  "2023-10-19": 9736,
-  "2023-10-20": 9767,
-  "2023-10-21": 9802,
-  "2023-10-22": 9831,
-  "2023-10-23": 9873,
-  "2023-10-24": 9910,
-  "2023-10-25": 9937,
-  "2023-10-26": 9967,
-  "2023-10-27": 10003,
-  "2023-10-28": 10033,
-  "2023-10-29": 10059,
-  "2023-10-30": 10133,
-  "2023-10-31": 10133,
-  "2023-11-01": 10152,
-  "2023-11-02": 10191,
-  "2023-11-03": 10225,
-  "2023-11-04": 10262,
-  "2023-11-05": 10299,
-  "2023-11-06": 10330,
-  "2023-11-07": 10364,
-  "2023-11-08": 10402,
-  "2023-11-09": 10438,
-  "2023-11-10": 10476,
-  "2023-11-11": 10512,
-  "2023-11-12": 10541,
-  "2023-11-13": 10588,
-  "2023-11-14": 10622,
-  "2023-11-15": 10622,
-  "2023-11-16": 10725,
-  "2023-11-17": 10801,
-  "2023-11-18": 10801,
-  "2023-11-19": 10834,
-  "2023-11-20": 10890,
-  "2023-11-21": 10930,
-  "2023-11-22": 10984,
-  "2023-11-23": 11032,
-  "2023-11-24": 11067,
-  "2023-11-25": 11094,
-  "2023-11-26": 11130,
-  "2023-11-27": 11176,
-  "2023-11-28": 11217,
-  "2023-11-29": 11286,
-  "2023-11-30": 11286,
-  "2023-12-01": 11335,
-  "2023-12-02": 11360,
-  "2023-12-03": 11389,
-  "2023-12-04": 11429,
-  "2023-12-05": 11454,
-  "2023-12-06": 11493,
-  "2023-12-07": 11509,
-  "2023-12-08": 11539,
-  "2023-12-09": 11552,
-  "2023-12-10": 11574,
-  "2023-12-11": 11594,
-  "2023-12-12": 11617,
-  "2023-12-13": 11629,
-  "2023-12-14": 11652,
-  "2023-12-15": 11669,
-  "2023-12-16": 11679,
-  "2023-12-17": 11695,
-  "2023-12-18": 11713,
-  "2023-12-19": 11732,
-  "2023-12-20": 11744,
-  "2023-12-21": 11763,
-  "2023-12-22": 11786,
-  "2023-12-23": 11802,
-  "2023-12-24": 11820,
-  "2023-12-25": 11835,
-  "2023-12-26": 11856,
-  "2023-12-27": 11875,
-  "2023-12-30": 11961,
-  "2023-12-31": 11988,
-  "2024-01-01": 12019,
-  "2024-01-02": 12048,
-  "2024-01-03": 12066
+  "2024-01-17": 12405,
+  "date_first_scraped": "2022-04-19",
+  "description": "A collection of family-friendly stories in five minutes or less.",
+  "name": "Short Stories For Kids",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl"
+      },
+      "artists": [
+        {
+          "name": "Fairy Tales",
+          "url": "https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Aladdin And His Wonderful Lamp",
+      "url": "https://open.spotify.com/track/3m4MxkeYXuRxUMldItsi4S"
+    },
+    {
+      "album": {
+        "name": "Champion Daddy Pig",
+        "url": "https://open.spotify.com/album/4drhK7QL3MvfBRd2WRuvIL"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 280575,
+      "name": "Champion Daddy Pig",
+      "url": "https://open.spotify.com/track/5iMgLwRqO1EpALBabpQmvp"
+    },
+    {
+      "album": {
+        "name": "Peppa Pig: Family Stories",
+        "url": "https://open.spotify.com/album/3c1twHCTnFqgC2Re0NWuwo"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280576,
+      "name": "Champion Daddy Pig",
+      "url": "https://open.spotify.com/track/2vfYACT83kY9LQC2Dk1yaa"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales, Kid Stories and Fun Vol. 2",
+        "url": "https://open.spotify.com/album/11fiyuFsAYvKBIzv8uSrVB"
+      },
+      "artists": [
+        {
+          "name": "Smiley Storytellers",
+          "url": "https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325866,
+      "name": "Chicken Licken",
+      "url": "https://open.spotify.com/track/6abzjmJziIfTl7UkOcZG8k"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales, Kid Stories and Fun Vol. 3",
+        "url": "https://open.spotify.com/album/4glSOhrOYAV235TuVlsGkf"
+      },
+      "artists": [
+        {
+          "name": "Smiley Storytellers",
+          "url": "https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/6TUS7KrPsLHyrbHdKQcuK4"
+    },
+    {
+      "album": {
+        "name": "Classic Bedtime Stories",
+        "url": "https://open.spotify.com/album/4DcZEZQp6xa3uZQlkk6awM"
+      },
+      "artists": [
+        {
+          "name": "Moonbug Story Time",
+          "url": "https://open.spotify.com/artist/05GWFF4TH8RTJQf8V4RGg5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194012,
+      "name": "Eat Your Vegetables",
+      "url": "https://open.spotify.com/track/0hmFZDawypCbYscxE78tVe"
+    },
+    {
+      "album": {
+        "name": "Story Time with Little Baby Bum, Vol. 1",
+        "url": "https://open.spotify.com/album/3e7dcDIRVZFdXHrFR6psl9"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 194012,
+      "name": "Eat Your Vegetables! - Story",
+      "url": "https://open.spotify.com/track/4DD2o7YxJUTgN2oikRdhL2"
+    },
+    {
+      "album": {
+        "name": "Story Time with Little Baby Bum, Vol. 1",
+        "url": "https://open.spotify.com/album/1GHo6KlmEFUER7cCpvO0rv"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 194012,
+      "name": "Eat Your Vegetables! - Story",
+      "url": "https://open.spotify.com/track/7xNsgiWVy4XZeLayzRgHi5"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss Presents Fox In Sox, Horton Hatches the Egg & Other Stories",
+        "url": "https://open.spotify.com/album/60hEQENR7JBkF1G69v0AkT"
+      },
+      "artists": [
+        {
+          "name": "Dr. Seuss",
+          "url": "https://open.spotify.com/artist/4mi47OiK1uIz0TygMvYgW2"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Fox In Socks - Fast Version",
+      "url": "https://open.spotify.com/track/5ofJLCVuxIwH0dCUDbMBvD"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Goldilocks",
+      "url": "https://open.spotify.com/track/2wmO0cO96FvkiqhS3mpewh"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246000,
+      "name": "Goldilocks",
+      "url": "https://open.spotify.com/track/4w6TCD2TZnAKjlvZiXmnII"
+    },
+    {
+      "album": {
+        "name": "Peppa Pig: Family Stories",
+        "url": "https://open.spotify.com/album/3c1twHCTnFqgC2Re0NWuwo"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292823,
+      "name": "Grandpa Pig's Greenhouse",
+      "url": "https://open.spotify.com/track/0JKpXbfZTuiPmremiKiHRg"
+    },
+    {
+      "album": {
+        "name": "Grandpa Pig's Greenhouse",
+        "url": "https://open.spotify.com/album/0INJJ0vLQXZpUclqlbSUgB"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 292860,
+      "name": "Grandpa Pig's Greenhouse",
+      "url": "https://open.spotify.com/track/5dtUmR3YwpQ8OK4pKri9Zg"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: The Sesame Street Fairy Tale Album",
+        "url": "https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244663,
+      "name": "Hansel and Gretel",
+      "url": "https://open.spotify.com/track/6rAAnCV6AP6u6JHJf4UFYW"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/2jmaIV7Hxl2K7hayGzGRLx"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236831,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/1YBWnB0xyRVMFwqtd7shN3"
+    },
+    {
+      "album": {
+        "name": "Kids Storytime with Pancake Manor",
+        "url": "https://open.spotify.com/album/01vsNBdsUB3dvH8Coqltrm"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236831,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/50EoKRgVWV8U4pQ04EK4hO"
+    },
+    {
+      "album": {
+        "name": "157 Kids Best Songs And Stories",
+        "url": "https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290786,
+      "name": "Little Red Riding Hood",
+      "url": "https://open.spotify.com/track/1bg1YoDRjBKYyv30pguig8"
+    },
+    {
+      "album": {
+        "name": "Mandy Mouse",
+        "url": "https://open.spotify.com/album/5WYoSMuqhb4P5IhLoxQN9Z"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 285865,
+      "name": "Mandy Mouse",
+      "url": "https://open.spotify.com/track/3plR4Br6f2QpxnPaQokXzH"
+    },
+    {
+      "album": {
+        "name": "Mandy Mouse",
+        "url": "https://open.spotify.com/album/1ReshIpC8o2xwHg8oKiWto"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285865,
+      "name": "Mandy Mouse",
+      "url": "https://open.spotify.com/track/4yazEiOnMYLdQXot3g10gb"
+    },
+    {
+      "album": {
+        "name": "Pirate Treasure",
+        "url": "https://open.spotify.com/album/2vJT3uAZWSWznH9bAqt6KW"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300254,
+      "name": "Pirate Treasure",
+      "url": "https://open.spotify.com/track/0t6df87Lpjiz7o9XTn9fr7"
+    },
+    {
+      "album": {
+        "name": "Pirate Treasure",
+        "url": "https://open.spotify.com/album/3hfnU4gXOokoXNh9zzesoO"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 300254,
+      "name": "Pirate Treasure",
+      "url": "https://open.spotify.com/track/5HbS4avLoZIYTVcElQmtmE"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: The Sesame Street Fairy Tale Album",
+        "url": "https://open.spotify.com/album/0hqmmMhV62n51CaXNYO7sS"
+      },
+      "artists": [
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300378,
+      "name": "Princess and the Pea",
+      "url": "https://open.spotify.com/track/17ALnKIuxnxeiqzLYQScJw"
+    },
+    {
+      "album": {
+        "name": "157 Kids Best Songs And Stories",
+        "url": "https://open.spotify.com/album/36giPQAFtuqJjEhLEWHD0e"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286040,
+      "name": "Rapunzel",
+      "url": "https://open.spotify.com/track/0rOgThYi39qOzEiWL8lCHD"
+    },
+    {
+      "album": {
+        "name": "Sea, Sun and Snow",
+        "url": "https://open.spotify.com/album/6cSUdAlg7z3NGroFa1wnYy"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 293183,
+      "name": "Sea, Sun and Snow",
+      "url": "https://open.spotify.com/track/1cm49rUMUA8c2LwPFGTCLq"
+    },
+    {
+      "album": {
+        "name": "Sea, Sun and Snow",
+        "url": "https://open.spotify.com/album/4AUSwIjz6bTfeymU10SWY0"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293183,
+      "name": "Sea, Sun and Snow",
+      "url": "https://open.spotify.com/track/76TOAzxbJYS0IFSdxHqR7U"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Fairy Tales Vol. 2",
+        "url": "https://open.spotify.com/album/2WEOAXPbDiAhGp6eBg7Bem"
+      },
+      "artists": [
+        {
+          "name": "The Ultimate Storyteller",
+          "url": "https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171101,
+      "name": "Sleeping Beauty",
+      "url": "https://open.spotify.com/track/7aqZyEaametOI8ZKTYGhql"
+    },
+    {
+      "album": {
+        "name": "Talent Day",
+        "url": "https://open.spotify.com/album/5FsNE4pas4QxbAwA4Ch0mO"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280288,
+      "name": "Talent Day",
+      "url": "https://open.spotify.com/track/1WryyKBZ3XaJqDBUGfZ1Lx"
+    },
+    {
+      "album": {
+        "name": "Talent Day",
+        "url": "https://open.spotify.com/album/0lJqL5GWW0JF9ptafbhBKC"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 280288,
+      "name": "Talent Day",
+      "url": "https://open.spotify.com/track/2LLlH12XHOZjv9gFA9ibax"
+    },
+    {
+      "album": {
+        "name": "157 Kids Best Songs and Stories",
+        "url": "https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "The 3 Wishes",
+      "url": "https://open.spotify.com/track/6stEWRa1Mssvf9qpd4WHOr"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Fairy Tales Vol. 1",
+        "url": "https://open.spotify.com/album/1YfBuHSOsF1RWfTmL6g5Ky"
+      },
+      "artists": [
+        {
+          "name": "The Ultimate Storyteller",
+          "url": "https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68283,
+      "name": "The Ant and The Grasshopper",
+      "url": "https://open.spotify.com/track/4HCE073x3OH0ZIJCmoT2Yu"
+    },
+    {
+      "album": {
+        "name": "157 Kids Best Songs and Stories",
+        "url": "https://open.spotify.com/album/7m4LmrH0AirZWWzadQzYuY"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "The Country Mouse And The City Mouse",
+      "url": "https://open.spotify.com/track/3Lq4VY03Ry28qQIV0IT7jN"
+    },
+    {
+      "album": {
+        "name": "The Diner",
+        "url": "https://open.spotify.com/album/0EEYcOitNRGDjQUXE9nu5J"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291183,
+      "name": "The Diner",
+      "url": "https://open.spotify.com/track/5SGAw4gBV1S7oS5rqsMFTG"
+    },
+    {
+      "album": {
+        "name": "The Diner",
+        "url": "https://open.spotify.com/album/5YwKoIQPdAFUHk4HILFEFj"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 291183,
+      "name": "The Diner",
+      "url": "https://open.spotify.com/track/65pAgzaSTTz9K92UJ0voMM"
+    },
+    {
+      "album": {
+        "name": "25 Best Kids Stories, Vol. 1",
+        "url": "https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "The Elves and the Shoemaker",
+      "url": "https://open.spotify.com/track/3RxXRKAHUGVElHojNgdh93"
+    },
+    {
+      "album": {
+        "name": "Children's Songs & Stories, Vol. 3",
+        "url": "https://open.spotify.com/album/3wO7waw9AjjdmbeRtbPrSB"
+      },
+      "artists": [
+        {
+          "name": "Kidzone",
+          "url": "https://open.spotify.com/artist/6i1qu6ITcSL2Ss6qr7Nzkn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251920,
+      "name": "The Gingerbread Man (Story)",
+      "url": "https://open.spotify.com/track/4y6kx6DmTICA1ejeGrXmWn"
+    },
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl"
+      },
+      "artists": [
+        {
+          "name": "Fairy Tales",
+          "url": "https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165133,
+      "name": "The Little Mermaid Of Copenhagen",
+      "url": "https://open.spotify.com/track/4Kkrxk0hL6nTjvVx1SYiPB"
+    },
+    {
+      "album": {
+        "name": "The Market",
+        "url": "https://open.spotify.com/album/3B8mE99K2j8RAlYXZw4fMg"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 291693,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/4G2Qswzk6xldWWX5sGQXId"
+    },
+    {
+      "album": {
+        "name": "The Market",
+        "url": "https://open.spotify.com/album/0LeQ4eCH7Xos77dxzcOIm7"
+      },
+      "artists": [
+        {
+          "name": "Peppa Pig Stories",
+          "url": "https://open.spotify.com/artist/7paD0Gb7ds5SE45UyOhGr8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291693,
+      "name": "The Market",
+      "url": "https://open.spotify.com/track/71xhikheTImqXtFIQjWusk"
+    },
+    {
+      "album": {
+        "name": "25 Best Kids Stories, Vol. 1",
+        "url": "https://open.spotify.com/album/63O04CjLofFffxZtxuzo5R"
+      },
+      "artists": [
+        {
+          "name": "The Hit Crew Kids",
+          "url": "https://open.spotify.com/artist/25WMrBRksXDi16Zjr23VUN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103906,
+      "name": "The Owl and the Pussycat",
+      "url": "https://open.spotify.com/track/3u4KqPXfRX1zMNZYUVMvvE"
+    },
+    {
+      "album": {
+        "name": "Love You Forever: The Best Of Robert Munsch",
+        "url": "https://open.spotify.com/album/1mQk59N5wkGNsNMiYgI3G9"
+      },
+      "artists": [
+        {
+          "name": "Robert Munsch",
+          "url": "https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255280,
+      "name": "The Paper Bag Princess",
+      "url": "https://open.spotify.com/track/4Wf8T4ploXSXPDnrXjIMoY"
+    },
+    {
+      "album": {
+        "name": "Love You Forever: The Best Of Robert Munsch",
+        "url": "https://open.spotify.com/album/4ognI8DTCx12FeCi09K2ei"
+      },
+      "artists": [
+        {
+          "name": "Robert Munsch",
+          "url": "https://open.spotify.com/artist/2Dzn2ANNU5Ft9r3htzo6ZN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255280,
+      "name": "The Paper Bag Princess",
+      "url": "https://open.spotify.com/track/6jV89Vk3lDlpEdSsxSkuT7"
+    },
+    {
+      "album": {
+        "name": "Bedtime Music and Stories",
+        "url": "https://open.spotify.com/album/2J98ZqbfftUsN4bHkABOz4"
+      },
+      "artists": [
+        {
+          "name": "Nicki White",
+          "url": "https://open.spotify.com/artist/4VDyrc6J8Q3hyDX8QFu0BN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "The Tale of Two Bad Mice by Beatrix Potter",
+      "url": "https://open.spotify.com/track/43yWk7ICZ39NDXa6XD89Jy"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Stories Vol. 1",
+        "url": "https://open.spotify.com/album/0KXu1z6wfYBXVGdT71GwCJ"
+      },
+      "artists": [
+        {
+          "name": "The Ultimate Storyteller",
+          "url": "https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "The Three Little Pigs",
+      "url": "https://open.spotify.com/track/0kVGxFrBZRLHoSWtnmSxfR"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Stories Vol. 2",
+        "url": "https://open.spotify.com/album/3ySFiawXRQ9lOTptuQI4gQ"
+      },
+      "artists": [
+        {
+          "name": "The Ultimate Storyteller",
+          "url": "https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73821,
+      "name": "The Tortoise and the Hare",
+      "url": "https://open.spotify.com/track/73yeCECLym0lytowUjWvn7"
+    },
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl"
+      },
+      "artists": [
+        {
+          "name": "Fairy Tales",
+          "url": "https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "The Wizard Of Oz",
+      "url": "https://open.spotify.com/track/3yL94mLdFZP6qW8WS3ZhK2"
+    },
+    {
+      "album": {
+        "name": "Ultimate Kids Stories Vol. 1",
+        "url": "https://open.spotify.com/album/0KXu1z6wfYBXVGdT71GwCJ"
+      },
+      "artists": [
+        {
+          "name": "The Ultimate Storyteller",
+          "url": "https://open.spotify.com/artist/7EUAjyQlDwLUeWAG1JoyG5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237243,
+      "name": "Three Billy Goats Gruff",
+      "url": "https://open.spotify.com/track/0XEa2Xtzu9ZjWfWbA7TSYH"
+    },
+    {
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/05XRi68zVYcNjLOkDC7FSl"
+      },
+      "artists": [
+        {
+          "name": "Fairy Tales",
+          "url": "https://open.spotify.com/artist/1NyKett1dn0nNoZMNTTShB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Thumbelina",
+      "url": "https://open.spotify.com/track/3QH4xgr3qH889F0Jo55RXE"
+    },
+    {
+      "album": {
+        "name": "Fairy Tales, Kid Stories and Fun Vol. 4",
+        "url": "https://open.spotify.com/album/4jUVjpL3MQaigupwkFFh16"
+      },
+      "artists": [
+        {
+          "name": "Smiley Storytellers",
+          "url": "https://open.spotify.com/artist/3n9wR7PMuhgv2QgF7tuvTt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226706,
+      "name": "Tom Thumb",
+      "url": "https://open.spotify.com/track/47RnUUD5NINEqodaRDaCHj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0XoBNTJR4ti"
 }

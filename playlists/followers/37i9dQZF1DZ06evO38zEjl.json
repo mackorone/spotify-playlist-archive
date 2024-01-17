@@ -1,580 +1,2551 @@
 {
-  "2022-05-30": 1940,
-  "2022-05-31": 1945,
-  "2022-06-01": 1949,
-  "2022-06-02": 1948,
-  "2022-06-03": 1948,
-  "2022-06-04": 1953,
-  "2022-06-05": 1953,
-  "2022-06-06": 1956,
-  "2022-06-07": 1960,
-  "2022-06-08": 1961,
-  "2022-06-09": 1961,
-  "2022-06-10": 1966,
-  "2022-06-11": 1966,
-  "2022-06-12": 1967,
-  "2022-06-13": 1971,
-  "2022-06-14": 1972,
-  "2022-06-15": 1974,
-  "2022-06-16": 1975,
-  "2022-06-17": 1977,
-  "2022-06-18": 1979,
-  "2022-06-19": 1985,
-  "2022-06-20": 1985,
-  "2022-06-21": 1985,
-  "2022-06-22": 1987,
-  "2022-06-23": 1987,
-  "2022-06-24": 1988,
-  "2022-06-25": 1987,
-  "2022-06-26": 1987,
-  "2022-06-27": 1988,
-  "2022-06-28": 1989,
-  "2022-06-29": 1990,
-  "2022-06-30": 1992,
-  "2022-07-01": 1994,
-  "2022-07-02": 1994,
-  "2022-07-03": 1995,
-  "2022-07-04": 1998,
-  "2022-07-05": 1998,
-  "2022-07-06": 1998,
-  "2022-07-07": 2005,
-  "2022-07-08": 2007,
-  "2022-07-09": 2010,
-  "2022-07-10": 2011,
-  "2022-07-11": 2013,
-  "2022-07-12": 2016,
-  "2022-07-13": 2019,
-  "2022-07-14": 2021,
-  "2022-07-15": 2022,
-  "2022-07-16": 2024,
-  "2022-07-17": 2024,
-  "2022-07-18": 2024,
-  "2022-07-19": 2023,
-  "2022-07-20": 2024,
-  "2022-07-21": 2023,
-  "2022-07-22": 2023,
-  "2022-07-23": 2023,
-  "2022-07-24": 2026,
-  "2022-07-25": 2029,
-  "2022-07-26": 2031,
-  "2022-07-27": 2031,
-  "2022-07-28": 2030,
-  "2022-07-29": 2029,
-  "2022-07-30": 2033,
-  "2022-07-31": 2033,
-  "2022-08-01": 2036,
-  "2022-08-02": 2040,
-  "2022-08-03": 2040,
-  "2022-08-04": 2042,
-  "2022-08-05": 2043,
-  "2022-08-06": 2043,
-  "2022-08-07": 2047,
-  "2022-08-08": 2046,
-  "2022-08-09": 2046,
-  "2022-08-10": 2049,
-  "2022-08-11": 2051,
-  "2022-08-12": 2054,
-  "2022-08-13": 2057,
-  "2022-08-14": 2057,
-  "2022-08-15": 2060,
-  "2022-08-16": 2060,
-  "2022-08-17": 2063,
-  "2022-08-18": 2064,
-  "2022-08-19": 2067,
-  "2022-08-20": 2068,
-  "2022-08-21": 2072,
-  "2022-08-22": 2072,
-  "2022-08-23": 2074,
-  "2022-08-24": 2076,
-  "2022-08-25": 2076,
-  "2022-08-26": 2080,
-  "2022-08-27": 2081,
-  "2022-08-28": 2083,
-  "2022-08-29": 2087,
-  "2022-08-30": 2084,
-  "2022-08-31": 2079,
-  "2022-09-01": 2076,
-  "2022-09-02": 2074,
-  "2022-09-03": 2072,
-  "2022-09-04": 2072,
-  "2022-09-05": 2074,
-  "2022-09-06": 2077,
-  "2022-09-07": 2079,
-  "2022-09-09": 2081,
-  "2022-09-10": 2083,
-  "2022-09-11": 2083,
-  "2022-09-12": 2085,
-  "2022-09-13": 2085,
-  "2022-09-15": 2088,
-  "2022-09-16": 2088,
-  "2022-09-17": 2091,
-  "2022-09-18": 2093,
-  "2022-09-19": 2095,
-  "2022-09-20": 2097,
-  "2022-09-21": 2099,
-  "2022-09-22": 2102,
-  "2022-09-23": 2103,
-  "2022-09-24": 2103,
-  "2022-09-25": 2108,
-  "2022-09-26": 2111,
-  "2022-09-27": 2113,
-  "2022-09-28": 2114,
-  "2022-09-29": 2114,
-  "2022-09-30": 2116,
-  "2022-10-01": 2116,
-  "2022-10-02": 2120,
-  "2022-10-03": 2120,
-  "2022-10-04": 2120,
-  "2022-10-05": 2121,
-  "2022-10-06": 2123,
-  "2022-10-07": 2123,
-  "2022-10-08": 2123,
-  "2022-10-09": 2125,
-  "2022-10-10": 2125,
-  "2022-10-11": 2126,
-  "2022-10-12": 2129,
-  "2022-10-13": 2131,
-  "2022-10-14": 2134,
-  "2022-10-15": 2136,
-  "2022-10-16": 2139,
-  "2022-10-17": 2138,
-  "2022-10-18": 2139,
-  "2022-10-19": 2140,
-  "2022-10-20": 2143,
-  "2022-10-21": 2144,
-  "2022-10-22": 2143,
-  "2022-10-23": 2143,
-  "2022-10-24": 2143,
-  "2022-10-25": 2146,
-  "2022-10-26": 2149,
-  "2022-10-27": 2151,
-  "2022-10-28": 2152,
-  "2022-10-29": 2152,
-  "2022-10-30": 2155,
-  "2022-10-31": 2155,
-  "2022-11-01": 2158,
-  "2022-11-02": 2160,
-  "2022-11-03": 2163,
-  "2022-11-04": 2164,
-  "2022-11-05": 2166,
-  "2022-11-06": 2168,
-  "2022-11-07": 2171,
-  "2022-11-08": 2173,
-  "2022-11-09": 2173,
-  "2022-11-10": 2175,
-  "2022-11-11": 2178,
-  "2022-11-12": 2181,
-  "2022-11-13": 2186,
-  "2022-11-14": 2186,
-  "2022-11-15": 2189,
-  "2022-11-16": 2191,
-  "2022-11-17": 2193,
-  "2022-11-18": 2194,
-  "2022-11-19": 2194,
-  "2022-11-20": 2194,
-  "2022-11-21": 2197,
-  "2022-11-22": 2202,
-  "2022-11-23": 2203,
-  "2022-11-24": 2211,
-  "2022-11-25": 2216,
-  "2022-11-26": 2220,
-  "2022-11-27": 2223,
-  "2022-11-28": 2230,
-  "2022-11-29": 2234,
-  "2022-11-30": 2239,
-  "2022-12-01": 2241,
-  "2022-12-02": 2240,
-  "2022-12-03": 2245,
-  "2022-12-04": 2247,
-  "2022-12-05": 2247,
-  "2022-12-06": 2248,
-  "2022-12-07": 2250,
-  "2022-12-08": 2252,
-  "2022-12-09": 2252,
-  "2022-12-10": 2253,
-  "2022-12-11": 2254,
-  "2022-12-12": 2254,
-  "2022-12-13": 2255,
-  "2022-12-14": 2255,
-  "2022-12-15": 2257,
-  "2022-12-16": 2259,
-  "2022-12-17": 2259,
-  "2022-12-18": 2262,
-  "2022-12-19": 2266,
-  "2022-12-20": 2270,
-  "2022-12-21": 2270,
-  "2022-12-22": 2274,
-  "2022-12-24": 2279,
-  "2022-12-25": 2283,
-  "2022-12-26": 2282,
-  "2022-12-27": 2283,
-  "2022-12-28": 2282,
-  "2022-12-29": 2283,
-  "2022-12-30": 2284,
-  "2022-12-31": 2287,
-  "2023-01-01": 2288,
-  "2023-01-02": 2290,
-  "2023-01-03": 2290,
-  "2023-01-04": 2293,
-  "2023-01-05": 2297,
-  "2023-01-06": 2299,
-  "2023-01-07": 2304,
-  "2023-01-08": 2305,
-  "2023-01-09": 2309,
-  "2023-01-10": 2312,
-  "2023-01-11": 2315,
-  "2023-01-12": 2318,
-  "2023-01-13": 2319,
-  "2023-01-14": 2324,
-  "2023-01-15": 2325,
-  "2023-01-16": 2326,
-  "2023-01-17": 2325,
-  "2023-01-18": 2327,
-  "2023-01-19": 2329,
-  "2023-01-20": 2331,
-  "2023-01-21": 2334,
-  "2023-01-22": 2336,
-  "2023-01-23": 2339,
-  "2023-01-24": 2344,
-  "2023-01-25": 2348,
-  "2023-01-26": 2349,
-  "2023-01-27": 2349,
-  "2023-01-28": 2350,
-  "2023-01-29": 2352,
-  "2023-01-30": 2352,
-  "2023-01-31": 2352,
-  "2023-02-01": 2354,
-  "2023-02-02": 2356,
-  "2023-02-03": 2357,
-  "2023-02-04": 2358,
-  "2023-02-05": 2360,
-  "2023-02-06": 2363,
-  "2023-02-07": 2366,
-  "2023-02-08": 2369,
-  "2023-02-09": 2369,
-  "2023-02-10": 2373,
-  "2023-02-11": 2375,
-  "2023-02-12": 2383,
-  "2023-02-13": 2386,
-  "2023-02-14": 2386,
-  "2023-02-15": 2388,
-  "2023-02-16": 2389,
-  "2023-02-17": 2392,
-  "2023-02-18": 2397,
-  "2023-02-19": 2397,
-  "2023-02-20": 2399,
-  "2023-02-21": 2398,
-  "2023-02-22": 2400,
-  "2023-02-23": 2403,
-  "2023-02-24": 2404,
-  "2023-02-25": 2406,
-  "2023-02-26": 2412,
-  "2023-02-27": 2414,
-  "2023-02-28": 2414,
-  "2023-03-01": 2414,
-  "2023-03-02": 2414,
-  "2023-03-03": 2419,
-  "2023-03-04": 2419,
-  "2023-03-05": 2423,
-  "2023-03-06": 2423,
-  "2023-03-07": 2424,
-  "2023-03-08": 2426,
-  "2023-03-09": 2428,
-  "2023-03-10": 2431,
-  "2023-03-11": 2433,
-  "2023-03-12": 2434,
-  "2023-03-13": 2436,
-  "2023-03-14": 2436,
-  "2023-03-15": 2436,
-  "2023-03-16": 2436,
-  "2023-03-17": 2436,
-  "2023-03-18": 2444,
-  "2023-03-19": 2444,
-  "2023-03-20": 2449,
-  "2023-03-21": 2449,
-  "2023-03-22": 2450,
-  "2023-03-23": 2450,
-  "2023-03-24": 2450,
-  "2023-03-25": 2450,
-  "2023-03-26": 2453,
-  "2023-03-27": 2454,
-  "2023-03-28": 2455,
-  "2023-03-29": 2461,
-  "2023-03-30": 2466,
-  "2023-03-31": 2466,
-  "2023-04-01": 2466,
-  "2023-04-02": 2472,
-  "2023-04-03": 2476,
-  "2023-04-04": 2481,
-  "2023-04-05": 2481,
-  "2023-04-06": 2484,
-  "2023-04-07": 2490,
-  "2023-04-09": 2495,
-  "2023-04-10": 2500,
-  "2023-04-11": 2506,
-  "2023-04-12": 2506,
-  "2023-04-13": 2506,
-  "2023-04-14": 2507,
-  "2023-04-15": 2508,
-  "2023-04-16": 2511,
-  "2023-04-17": 2511,
-  "2023-04-18": 2514,
-  "2023-04-19": 2515,
-  "2023-04-20": 2516,
-  "2023-04-21": 2519,
-  "2023-04-22": 2522,
-  "2023-04-23": 2522,
-  "2023-04-24": 2522,
-  "2023-04-25": 2524,
-  "2023-04-26": 2524,
-  "2023-04-27": 2525,
-  "2023-04-28": 2527,
-  "2023-04-29": 2527,
-  "2023-04-30": 2529,
-  "2023-05-01": 2530,
-  "2023-05-02": 2531,
-  "2023-05-03": 2534,
-  "2023-05-04": 2534,
-  "2023-05-05": 2534,
-  "2023-05-06": 2535,
-  "2023-05-07": 2536,
-  "2023-05-08": 2538,
-  "2023-05-09": 2538,
-  "2023-05-10": 2538,
-  "2023-05-11": 2539,
-  "2023-05-12": 2539,
-  "2023-05-13": 2540,
-  "2023-05-14": 2539,
-  "2023-05-15": 2542,
-  "2023-05-16": 2545,
-  "2023-05-17": 2547,
-  "2023-05-18": 2550,
-  "2023-05-19": 2550,
-  "2023-05-20": 2556,
-  "2023-05-21": 2556,
-  "2023-05-22": 2556,
-  "2023-05-23": 2556,
-  "2023-05-24": 2562,
-  "2023-05-25": 2562,
-  "2023-05-26": 2563,
-  "2023-05-27": 2566,
-  "2023-05-28": 2567,
-  "2023-05-29": 2567,
-  "2023-05-30": 2568,
-  "2023-05-31": 2567,
-  "2023-06-01": 2571,
-  "2023-06-02": 2571,
-  "2023-06-03": 2573,
-  "2023-06-04": 2577,
-  "2023-06-05": 2580,
-  "2023-06-06": 2582,
-  "2023-06-07": 2582,
-  "2023-06-08": 2584,
-  "2023-06-09": 2584,
-  "2023-06-10": 2586,
-  "2023-06-11": 2586,
-  "2023-06-12": 2587,
-  "2023-06-13": 2589,
-  "2023-06-14": 2589,
-  "2023-06-15": 2598,
-  "2023-06-16": 2598,
-  "2023-06-17": 2601,
-  "2023-06-18": 2605,
-  "2023-06-19": 2606,
-  "2023-06-20": 2607,
-  "2023-06-21": 2609,
-  "2023-06-22": 2610,
-  "2023-06-23": 2612,
-  "2023-06-24": 2613,
-  "2023-06-25": 2614,
-  "2023-06-26": 2617,
-  "2023-06-27": 2624,
-  "2023-06-28": 2627,
-  "2023-06-29": 2631,
-  "2023-06-30": 2631,
-  "2023-07-01": 2633,
-  "2023-07-02": 2633,
-  "2023-07-03": 2636,
-  "2023-07-04": 2636,
-  "2023-07-05": 2640,
-  "2023-07-06": 2641,
-  "2023-07-07": 2641,
-  "2023-07-08": 2641,
-  "2023-07-09": 2642,
-  "2023-07-10": 2643,
-  "2023-07-11": 2643,
-  "2023-07-12": 2644,
-  "2023-07-13": 2646,
-  "2023-07-14": 2647,
-  "2023-07-15": 2647,
-  "2023-07-16": 2649,
-  "2023-07-17": 2650,
-  "2023-07-18": 2652,
-  "2023-07-19": 2653,
-  "2023-07-20": 2654,
-  "2023-07-21": 2657,
-  "2023-07-22": 2660,
-  "2023-07-23": 2660,
-  "2023-07-24": 2659,
-  "2023-07-25": 2660,
-  "2023-07-26": 2663,
-  "2023-07-27": 2666,
-  "2023-07-28": 2669,
-  "2023-07-29": 2673,
-  "2023-07-30": 2672,
-  "2023-07-31": 2675,
-  "2023-08-01": 2679,
-  "2023-08-02": 2682,
-  "2023-08-03": 2686,
-  "2023-08-04": 2688,
-  "2023-08-05": 2691,
-  "2023-08-06": 2697,
-  "2023-08-07": 2697,
-  "2023-08-08": 2699,
-  "2023-08-09": 2699,
-  "2023-08-10": 2702,
-  "2023-08-11": 2702,
-  "2023-08-12": 2702,
-  "2023-08-13": 2702,
-  "2023-08-14": 2707,
-  "2023-08-15": 2707,
-  "2023-08-16": 2707,
-  "2023-08-17": 2707,
-  "2023-08-18": 2707,
-  "2023-08-19": 2707,
-  "2023-08-20": 2712,
-  "2023-08-21": 2712,
-  "2023-08-22": 2713,
-  "2023-08-23": 2713,
-  "2023-08-24": 2713,
-  "2023-08-25": 2713,
-  "2023-08-26": 2723,
-  "2023-08-27": 2723,
-  "2023-08-28": 2728,
-  "2023-08-29": 2728,
-  "2023-08-30": 2728,
-  "2023-08-31": 2734,
-  "2023-09-01": 2735,
-  "2023-09-02": 2735,
-  "2023-09-03": 2735,
-  "2023-09-04": 2735,
-  "2023-09-05": 2735,
-  "2023-09-06": 2735,
-  "2023-09-07": 2735,
-  "2023-09-08": 2735,
-  "2023-09-09": 2735,
-  "2023-09-10": 2735,
-  "2023-09-11": 2735,
-  "2023-09-12": 2735,
-  "2023-09-13": 2735,
-  "2023-09-14": 2735,
-  "2023-09-15": 2735,
-  "2023-09-16": 2763,
-  "2023-09-17": 2763,
-  "2023-09-18": 2763,
-  "2023-09-19": 2768,
-  "2023-09-20": 2768,
-  "2023-09-21": 2768,
-  "2023-09-22": 2776,
-  "2023-09-23": 2776,
-  "2023-09-24": 2776,
-  "2023-09-25": 2776,
-  "2023-09-26": 2784,
-  "2023-09-27": 2784,
-  "2023-09-28": 2784,
-  "2023-09-29": 2784,
-  "2023-09-30": 2784,
-  "2023-10-01": 2784,
-  "2023-10-02": 2784,
-  "2023-10-03": 2784,
-  "2023-10-04": 2784,
-  "2023-10-05": 2784,
-  "2023-10-06": 2784,
-  "2023-10-07": 2784,
-  "2023-10-08": 2784,
-  "2023-10-09": 2784,
-  "2023-10-10": 2784,
-  "2023-10-11": 2810,
-  "2023-10-12": 2810,
-  "2023-10-13": 2810,
-  "2023-10-14": 2810,
-  "2023-10-15": 2810,
-  "2023-10-16": 2810,
-  "2023-10-17": 2810,
-  "2023-10-18": 2810,
-  "2023-10-19": 2810,
-  "2023-10-20": 2810,
-  "2023-10-21": 2810,
-  "2023-10-22": 2810,
-  "2023-10-23": 2810,
-  "2023-10-24": 2810,
-  "2023-10-25": 2810,
-  "2023-10-26": 2810,
-  "2023-10-27": 2810,
-  "2023-10-28": 2810,
-  "2023-10-29": 2810,
-  "2023-10-30": 2810,
-  "2023-10-31": 2810,
-  "2023-11-01": 2810,
-  "2023-11-02": 2810,
-  "2023-11-03": 2810,
-  "2023-11-04": 2810,
-  "2023-11-05": 2810,
-  "2023-11-06": 2810,
-  "2023-11-07": 2810,
-  "2023-11-08": 2810,
-  "2023-11-09": 2810,
-  "2023-11-10": 2810,
-  "2023-11-11": 2849,
-  "2023-11-12": 2849,
-  "2023-11-13": 2849,
-  "2023-11-14": 2849,
-  "2023-11-15": 2849,
-  "2023-11-16": 2849,
-  "2023-11-17": 2849,
-  "2023-11-18": 2849,
-  "2023-11-19": 2849,
-  "2023-11-20": 2849,
-  "2023-11-21": 2849,
-  "2023-11-22": 2849,
-  "2023-11-23": 2849,
-  "2023-11-24": 2849,
-  "2023-11-25": 2849,
-  "2023-11-26": 2849,
-  "2023-11-27": 2849,
-  "2023-11-28": 2849,
-  "2023-11-29": 2849,
-  "2023-11-30": 2849,
-  "2023-12-01": 2849,
-  "2023-12-02": 2849,
-  "2023-12-03": 2849,
-  "2023-12-04": 2849,
-  "2023-12-05": 2849,
-  "2023-12-06": 2849,
-  "2023-12-07": 2849,
-  "2023-12-08": 2849,
-  "2023-12-09": 2849,
-  "2023-12-10": 2849,
-  "2023-12-11": 2849,
-  "2023-12-12": 2849,
-  "2023-12-13": 2849,
-  "2023-12-14": 2876,
-  "2023-12-15": 2876,
-  "2023-12-16": 2877,
-  "2023-12-17": 2881,
-  "2023-12-18": 2880,
-  "2023-12-19": 2881,
-  "2023-12-20": 2882,
-  "2023-12-21": 2883,
-  "2023-12-22": 2884,
-  "2023-12-23": 2883,
-  "2023-12-24": 2883,
-  "2023-12-25": 2883,
-  "2023-12-26": 2884,
-  "2023-12-27": 2883,
-  "2023-12-30": 2891,
-  "2023-12-31": 2894,
-  "2024-01-01": 2895,
-  "2024-01-02": 2894,
-  "2024-01-03": 2896
+  "2024-01-17": 2911,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Jon Hassell. The essential tracks, all in one playlist.",
+  "name": "This Is Jon Hassell",
+  "tracks": [
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 283333,
+      "name": "(Like) Warriors Everywhere (Courage)",
+      "url": "https://open.spotify.com/track/4NFTr6KZ3HGVVhCXmNu6Hm"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 207640,
+      "name": "A La Dina",
+      "url": "https://open.spotify.com/track/70KaHXdLkWGpYpxITkeBzM"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 784560,
+      "name": "Abu Gil - Live",
+      "url": "https://open.spotify.com/track/3X0BvVXZ5Xpx0oPN0di5yO"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 117266,
+      "name": "Adios Saturn",
+      "url": "https://open.spotify.com/track/3qT7EXtReLltWcnlpsYaur"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117266,
+      "name": "Adios Saturn",
+      "url": "https://open.spotify.com/track/7HmsqYHRq6RJ9Ecfodc42J"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 153920,
+      "name": "Aerial View",
+      "url": "https://open.spotify.com/track/4eQq64VWTwNJfMiEminGAK"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 320266,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/5ocNutZquWbyiajH4MJQ9s"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 239866,
+      "name": "Air Afrique (Wind)",
+      "url": "https://open.spotify.com/track/0O6sbqgaXZMfE6m1iuh7lT"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 312666,
+      "name": "Al Kongo Udu",
+      "url": "https://open.spotify.com/track/10FHvZrlRbTxfInlNxzO7F"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312666,
+      "name": "Al Kongo Udu",
+      "url": "https://open.spotify.com/track/6ShYYoQkpI5wmGl8jKGudv"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322946,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/1h8mF0iwlMSf9BCoUP9sX6"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256533,
+      "name": "Ayshyin Raquin",
+      "url": "https://open.spotify.com/track/4w72TCoWaoE11mynCinysb"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377066,
+      "name": "Ba-benz\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 280066,
+      "name": "Balia",
+      "url": "https://open.spotify.com/track/2sqjeTEr4oFDnMA4478E3M"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 280066,
+      "name": "Balia",
+      "url": "https://open.spotify.com/track/2zzfAe9dSic2L9MGTCDxPk"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478253,
+      "name": "Blue Period",
+      "url": "https://open.spotify.com/track/7MZitNYMeHDjFamSe2azBa"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594757,
+      "name": "Blues Nile",
+      "url": "https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 594757,
+      "name": "Blues Nile",
+      "url": "https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb"
+    },
+    {
+      "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 656233,
+      "name": "Brussels",
+      "url": "https://open.spotify.com/track/4ycirWx3Y9ZVlwbfD4s0ga"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127040,
+      "name": "Caracas Night September 11, 1975",
+      "url": "https://open.spotify.com/track/7dUACqKWi92PQti04r4cLO"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 127040,
+      "name": "Caracas Night September 11, 1975",
+      "url": "https://open.spotify.com/track/7yQNBiIgh5QpDo4Bzr9ocp"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1290160,
+      "name": "Charm (Over \"Burundi Cloud\")",
+      "url": "https://open.spotify.com/track/5V5NS2wWOiu9uOPDVOgwOT"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414026,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65933,
+      "name": "Clairvoyance",
+      "url": "https://open.spotify.com/track/0SXeDhoNKnhp3h1R1wGtd2"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 295666,
+      "name": "Cobra Moon",
+      "url": "https://open.spotify.com/track/7fxJEhbvh96daiTbfCSx8P"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 105533,
+      "name": "Cool Down Coda",
+      "url": "https://open.spotify.com/track/37hDxJi6gOtqqqAKmrrxUL"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105533,
+      "name": "Cool Down Coda",
+      "url": "https://open.spotify.com/track/5WVkNw9y3FH9lxjjPjfoka"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 344093,
+      "name": "Courtrais - Live",
+      "url": "https://open.spotify.com/track/2UKP0Z8tMyjI7NprsS6GsB"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 208040,
+      "name": "Cuba Libre",
+      "url": "https://open.spotify.com/track/1D2EVnedAlPNh6Ax17Exsi"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 702146,
+      "name": "Darbari Bridge",
+      "url": "https://open.spotify.com/track/0EiW7uVV0szH089yAUf5xX"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 702146,
+      "name": "Darbari Bridge",
+      "url": "https://open.spotify.com/track/3IG17OU64mtHaPXz6ziFqN"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 832160,
+      "name": "Darbari Extension I",
+      "url": "https://open.spotify.com/track/0yIk6ZU9HgVjBFv0LEO7WO"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 443773,
+      "name": "Darbari Extension II",
+      "url": "https://open.spotify.com/track/7yeOaqzx9sciyl2vOyUzrD"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Delicado",
+      "url": "https://open.spotify.com/track/3JJAL8JjdRS3JiTSh9h50o"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 242200,
+      "name": "Delicado",
+      "url": "https://open.spotify.com/track/6OqlazjaFOPqlZI6gWvuvJ"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 435200,
+      "name": "Divine S.O.S",
+      "url": "https://open.spotify.com/track/1mB1tpj1JCNNHRdSpQABTE"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 435200,
+      "name": "Divine S.O.S",
+      "url": "https://open.spotify.com/track/5f8iTVIIHWjBPdu4X5ympV"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369013,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/02QTbDphw88yuDpYRiX6yu"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 369013,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/20x7Yl5RbR4KVXbm3zrfJT"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 308443,
+      "name": "Emerald City",
+      "url": "https://open.spotify.com/track/09bEaFophDjQMFCUcHSjL6"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120426,
+      "name": "Empire I",
+      "url": "https://open.spotify.com/track/2i9UYFJDHwoLSRiib3recu"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293973,
+      "name": "Empire II",
+      "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429133,
+      "name": "Empire III",
+      "url": "https://open.spotify.com/track/0WLUAMAW1FsplcSNeTHzKg"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 313980,
+      "name": "Empire IV",
+      "url": "https://open.spotify.com/track/4ZRIdK87L5YOfVZoywWV60"
+    },
+    {
+      "album": {
+        "name": "Aka / Darbari / Java",
+        "url": "https://open.spotify.com/album/02Y32UFWcdkRluO5EPWKAK"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Empire V",
+      "url": "https://open.spotify.com/track/0KB13CC3lwVUmO8B324xBF"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 355813,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/5c5stvn9idPulAh0dy4xHD"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 482146,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/0E5Qd7mge1e9gfkCKfGOUR"
+    },
+    {
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/4Keo1capq90Jwzf1ZsKUdd"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482146,
+      "name": "Fearless",
+      "url": "https://open.spotify.com/track/4Tru6czY37f4dPCRpLrxK3"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 345293,
+      "name": "Flash of the Spirit (Laughter)",
+      "url": "https://open.spotify.com/track/1KvWa9WllBJcqmqOhr7YdR"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 289000,
+      "name": "Freeway",
+      "url": "https://open.spotify.com/track/3Sk6uOd120wSIECrFkbEUu"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Griot (Over \"Contagious Magic\") - Live From The Art Gallery Of Ontario,Canada/1980",
+      "url": "https://open.spotify.com/track/3GWhZoyuZonyiD3QmpYTnX"
+    },
+    {
+      "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429381,
+      "name": "Hamburg",
+      "url": "https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 226933,
+      "name": "Harambe",
+      "url": "https://open.spotify.com/track/4jYBcL0CH3IG0r6sQMpYIA"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 98453,
+      "name": "Her First Rain",
+      "url": "https://open.spotify.com/track/0RxCW8AjgsL2PDHf7uka9U"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98453,
+      "name": "Her First Rain",
+      "url": "https://open.spotify.com/track/6c5YdmrqRZA8Dg1wvN0VjG"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 384256,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/31Iy5UMFTcL1vjWc5zFVVF"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384256,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/4JMozDRCLvmpEPI7s84zX5"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403186,
+      "name": "Itimad",
+      "url": "https://open.spotify.com/track/5IHnMKUAkcYkf6eKfIgudL"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317093,
+      "name": "Jadwa",
+      "url": "https://open.spotify.com/track/0YaS2FdbEGt2huzABrHQYJ"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 174533,
+      "name": "Kaboo (Play)",
+      "url": "https://open.spotify.com/track/2TdwrQYsa1eTOH1R5NeZHX"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 675853,
+      "name": "Last Night The Moon Came",
+      "url": "https://open.spotify.com/track/7EVB8TpxzTh6llHIcPANAi"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 479893,
+      "name": "Light On Water - Live",
+      "url": "https://open.spotify.com/track/6A3NOW4IW0NtAKavtXeu6W"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 392933,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392933,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 429160,
+      "name": "Maarifa Street",
+      "url": "https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 429160,
+      "name": "Maarifa Street",
+      "url": "https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 344653,
+      "name": "Manga Scene",
+      "url": "https://open.spotify.com/track/2RHtLQ1gxmqL6kCBvY4mlH"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344653,
+      "name": "Manga Scene",
+      "url": "https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 261173,
+      "name": "Miracle Steps",
+      "url": "https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258653,
+      "name": "Moons Of Titan",
+      "url": "https://open.spotify.com/track/0H1QPJWtruyZ0rTBBnwUeO"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 258653,
+      "name": "Moons Of Titan",
+      "url": "https://open.spotify.com/track/6czIMGJni7jAuZP2OFEsel"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 427400,
+      "name": "Ndeya",
+      "url": "https://open.spotify.com/track/3d5NKtguBkKIHjvsNqK6hc"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 320386,
+      "name": "Neon Night (Rain)",
+      "url": "https://open.spotify.com/track/2Ry5IaOeSVK48Zky7tVMty"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 475706,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/3b80tMXogTgBVth0GyhSVU"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 475706,
+      "name": "New Gods",
+      "url": "https://open.spotify.com/track/6B3A4jhHUQ9m4hOROhvo8p"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 144506,
+      "name": "Night Moves (Fear)",
+      "url": "https://open.spotify.com/track/5lFfcGyrJTTR2GvaxdtraU"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 403040,
+      "name": "Northline - Live",
+      "url": "https://open.spotify.com/track/1m3zsapoK5CGtujd680k4c"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "Ondas Do Mar De Vigo",
+      "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 704413,
+      "name": "Open Secret (Milano)",
+      "url": "https://open.spotify.com/track/0CLzsmGlAls9QleJuUuXOI"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 707320,
+      "name": "Open Secret (Paris)",
+      "url": "https://open.spotify.com/track/2oNjchovVMPVouByxj0Zfv"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 707320,
+      "name": "Open Secret (Paris)",
+      "url": "https://open.spotify.com/track/6cF4oYq62PHIy1SCj0oJ2d"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 434293,
+      "name": "Out Pours (Kongo) Blue [Prayer]",
+      "url": "https://open.spotify.com/track/1GEjkGIXfNLZpV4XINVy94"
+    },
+    {
+      "album": {
+        "name": "Utopies",
+        "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
+      },
+      "artists": [
+        {
+          "name": "Hadouk Trio",
+          "url": "https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js"
+        },
+        {
+          "name": "Didier Malherbe",
+          "url": "https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl"
+        },
+        {
+          "name": "Loy Ehrlich",
+          "url": "https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167880,
+      "name": "Parasol Blanc, pt. 1",
+      "url": "https://open.spotify.com/track/6v5duRp0Su1k7s8GNqrfns"
+    },
+    {
+      "album": {
+        "name": "Utopies",
+        "url": "https://open.spotify.com/album/5P3rzTOomkM7iFV1uRDHy7"
+      },
+      "artists": [
+        {
+          "name": "Hadouk Trio",
+          "url": "https://open.spotify.com/artist/6LGJztKkpc9F9yNpPSh8Js"
+        },
+        {
+          "name": "Didier Malherbe",
+          "url": "https://open.spotify.com/artist/29ZPj7LSaUStGFCPyivcOl"
+        },
+        {
+          "name": "Loy Ehrlich",
+          "url": "https://open.spotify.com/artist/1Y21TMXwcmh3J7ScCMRQdH"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 213253,
+      "name": "Parasol Blanc, pt. 2",
+      "url": "https://open.spotify.com/track/1VeMQPvEgDpbmszWba9vIR"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325786,
+      "name": "Passage D.E.",
+      "url": "https://open.spotify.com/track/20CaaX6tsB7XeuThOZjNgk"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 239706,
+      "name": "Pastorale Vassant",
+      "url": "https://open.spotify.com/track/7429GeBCGutDEUPy1L4Uv4"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239706,
+      "name": "Pastorale Vassant",
+      "url": "https://open.spotify.com/track/7FLZV65L6y99GmidDfjnn1"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 358506,
+      "name": "Picnic",
+      "url": "https://open.spotify.com/track/1VCvYkf9BjcXlAXzBCSALt"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427533,
+      "name": "Power Spot",
+      "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136826,
+      "name": "Reykjavik",
+      "url": "https://open.spotify.com/track/0A4uK12VvfptV5QTJinuV6"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 136826,
+      "name": "Reykjavik",
+      "url": "https://open.spotify.com/track/7GgsPMF25JBJtXdC50bhSc"
+    },
+    {
+      "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Rising Thermal 14\u00b0 16' N; 32\u00b0 28' E",
+      "url": "https://open.spotify.com/track/7horIPcJtLv6fHinLNPPNH"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50800,
+      "name": "Scintilla",
+      "url": "https://open.spotify.com/track/4hyKeaBJh35akJQrdMmCVx"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 174773,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/1lX2KIOOTSUPRCAB0jjyO0"
+    },
+    {
+      "album": {
+        "name": "Listening To Pictures (Pentimento Volume One)",
+        "url": "https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "Slipstream",
+      "url": "https://open.spotify.com/track/2RxYle9Er6QGqrrzzwYDfi"
+    },
+    {
+      "album": {
+        "name": "Pink Noir",
+        "url": "https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB"
+      },
+      "artists": [
+        {
+          "name": "David Toop",
+          "url": "https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563026,
+      "name": "Slow Loris Versus Poison Snail",
+      "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409693,
+      "name": "Solaire",
+      "url": "https://open.spotify.com/track/7Le2FN7uEVuHdbaxvxMTH4"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 293373,
+      "name": "Sundown Dance",
+      "url": "https://open.spotify.com/track/2r8ZZIipWHs1cDJk5Ot2Fx"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 293373,
+      "name": "Sundown Dance",
+      "url": "https://open.spotify.com/track/5DGHn0xwZBebRFt4g4tzq9"
+    },
+    {
+      "album": {
+        "name": "Flash of the Spirit",
+        "url": "https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Farafina",
+          "url": "https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL"
+        }
+      ],
+      "date_added": "2023-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 259173,
+      "name": "Tales of the Near Future (Clairvoyance)",
+      "url": "https://open.spotify.com/track/41NtDamY27bjNQwwvKGCww"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 668840,
+      "name": "The Elephant And The Orchid",
+      "url": "https://open.spotify.com/track/5eVpu8sD59T14iFoXwTxR5"
+    },
+    {
+      "album": {
+        "name": "the nothing of roselight (edit)",
+        "url": "https://open.spotify.com/album/4e2tiNxypnLpIpMuu9i4cY"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Rick Cox",
+          "url": "https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2"
+        },
+        {
+          "name": "Luke Schwartz",
+          "url": "https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 242080,
+      "name": "the nothing of roselight - edit",
+      "url": "https://open.spotify.com/track/0qFmsIBGZnhS0qMFkof3YZ"
+    },
+    {
+      "album": {
+        "name": "the nothing of roselight (edit)",
+        "url": "https://open.spotify.com/album/4F0LdeP9nvjc7aBJNDEMhe"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Rick Cox",
+          "url": "https://open.spotify.com/artist/3F2G8rwhK4XegnxPhJ6yM2"
+        },
+        {
+          "name": "Luke Schwartz",
+          "url": "https://open.spotify.com/artist/0Hhx2tus2H9rRDqlu9SOCI"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 242080,
+      "name": "the nothing of roselight - edit",
+      "url": "https://open.spotify.com/track/1trGT0xuOHxyC1nkzD85Kz"
+    },
+    {
+      "album": {
+        "name": "Last Night The Moon Came Dropping Its Clothes In The Street",
+        "url": "https://open.spotify.com/album/6p97ys8xZeV60gh427TwMz"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Time And Place",
+      "url": "https://open.spotify.com/track/4yV0BSDSa2rphekLPysCy5"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 499546,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/2rHlFsC6bnBxeJkjYvNea9"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 499546,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/6eQWCVgV708C306UXiyJ9V"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 229861,
+      "name": "Toucan Ocean",
+      "url": "https://open.spotify.com/track/7IAGZpMEBO143Y7zZ17KsH"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/5ZEnEV4z7ReTohEwubgImu"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232826,
+      "name": "Tribal Secret",
+      "url": "https://open.spotify.com/track/5kM7RxjXVATfazOdFkcPJt"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 232826,
+      "name": "Tribal Secret",
+      "url": "https://open.spotify.com/track/6kfsbwtYLZkcBP2lwfWVVb"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 296493,
+      "name": "Tuchia",
+      "url": "https://open.spotify.com/track/6G964j7YDebUoVPmUuVMeL"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "Unknown Wish",
+      "url": "https://open.spotify.com/track/2HPoZ2u0s3mYTBNmV0sVey"
+    },
+    {
+      "album": {
+        "name": "Seeing Through Sound (Pentimento Volume Two)",
+        "url": "https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 177480,
+      "name": "Unknown Wish",
+      "url": "https://open.spotify.com/track/6LjICn4qIqegu9oHm7yqvg"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 1314912,
+      "name": "Vernal Equinox",
+      "url": "https://open.spotify.com/track/3EIv3TZlRfeTpmXS7uoRFq"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1314912,
+      "name": "Vernal Equinox",
+      "url": "https://open.spotify.com/track/5GIGWcHy4Z9MZcXfPwRd7z"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 425178,
+      "name": "Viva Shona",
+      "url": "https://open.spotify.com/track/2R1yNQay5uRyZsoOFB8vx5"
+    },
+    {
+      "album": {
+        "name": "Vernal Equinox (Remastered)",
+        "url": "https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425178,
+      "name": "Viva Shona",
+      "url": "https://open.spotify.com/track/6eVb6kUeuLlYfliUnX3fgU"
+    },
+    {
+      "album": {
+        "name": "City: Works Of Fiction",
+        "url": "https://open.spotify.com/album/5UpDvjDr7JKJIKcMLQjMfV"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 348333,
+      "name": "Voiceprint (Blind From The Facts)",
+      "url": "https://open.spotify.com/track/3iuDuxuhuNUzCfS7YXydTO"
+    },
+    {
+      "album": {
+        "name": "Earthquake Island",
+        "url": "https://open.spotify.com/album/4tXeNxb4cUhDUrWMmG1eF8"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 582093,
+      "name": "Voodoo Wind",
+      "url": "https://open.spotify.com/track/2IP0rXILAoixHo1zUBKGx9"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 263306,
+      "name": "Warm Shift",
+      "url": "https://open.spotify.com/track/148rRRlYecJVRehmVnY5yQ"
+    },
+    {
+      "album": {
+        "name": "Maarifa Street",
+        "url": "https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "Warm Shift",
+      "url": "https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l"
+    },
+    {
+      "album": {
+        "name": "Psychogeography (Zones Of Feeling)",
+        "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 322906,
+      "name": "Waterfront District",
+      "url": "https://open.spotify.com/track/1x8zmbCwwpjk9FtZXwmZrG"
+    },
+    {
+      "album": {
+        "name": "Power Spot",
+        "url": "https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 453120,
+      "name": "Wing Melodies",
+      "url": "https://open.spotify.com/track/3nWWMBKHbfhQGZOYHKynKb"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "Ya Andalucin",
+      "url": "https://open.spotify.com/track/47DrzRMA800FMIMRi5eBsB"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Amina Alaoui",
+          "url": "https://open.spotify.com/artist/0WdAPCdAuLR0PIS1jgfSkz"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317986,
+      "name": "Ya Safwa Ti",
+      "url": "https://open.spotify.com/track/3HIOAlsSQQI8PtI5sNcK1F"
+    },
+    {
+      "album": {
+        "name": "Siwan",
+        "url": "https://open.spotify.com/album/6zpxjckkFZRINm5R685Ir3"
+      },
+      "artists": [
+        {
+          "name": "Jon Balke",
+          "url": "https://open.spotify.com/artist/1rFjt7CpwkXN6SB7PjKviq"
+        },
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Kheir Eddine M'Kachiche",
+          "url": "https://open.spotify.com/artist/7GJ4m9g0c1uSLMrhTAV97I"
+        },
+        {
+          "name": "Bjarte Eike",
+          "url": "https://open.spotify.com/artist/0Cfr4nJjCg2UyybWBMbE7t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 296960,
+      "name": "Zahori",
+      "url": "https://open.spotify.com/track/5HYLKZoFm2V3RLCNGP4lDl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl"
 }

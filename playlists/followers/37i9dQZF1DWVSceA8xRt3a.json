@@ -1,99 +1,915 @@
 {
-  "2023-09-27": 5,
-  "2023-09-28": 12,
-  "2023-09-29": 50,
-  "2023-09-30": 130,
-  "2023-10-01": 254,
-  "2023-10-02": 391,
-  "2023-10-03": 501,
-  "2023-10-04": 639,
-  "2023-10-05": 791,
-  "2023-10-06": 920,
-  "2023-10-07": 1067,
-  "2023-10-08": 1183,
-  "2023-10-09": 1327,
-  "2023-10-10": 1466,
-  "2023-10-11": 1732,
-  "2023-10-12": 1732,
-  "2023-10-13": 1834,
-  "2023-10-14": 1943,
-  "2023-10-15": 2064,
-  "2023-10-16": 2182,
-  "2023-10-17": 2305,
-  "2023-10-18": 2421,
-  "2023-10-19": 2521,
-  "2023-10-20": 2624,
-  "2023-10-21": 2744,
-  "2023-10-22": 2844,
-  "2023-10-23": 2974,
-  "2023-10-24": 3102,
-  "2023-10-25": 3211,
-  "2023-10-26": 3334,
-  "2023-10-27": 3444,
-  "2023-10-28": 3544,
-  "2023-10-29": 3633,
-  "2023-10-30": 3870,
-  "2023-10-31": 3870,
-  "2023-11-01": 3970,
-  "2023-11-02": 4068,
-  "2023-11-03": 4189,
-  "2023-11-04": 4296,
-  "2023-11-05": 4386,
-  "2023-11-06": 4493,
-  "2023-11-07": 4596,
-  "2023-11-08": 4700,
-  "2023-11-09": 4803,
-  "2023-11-10": 4907,
-  "2023-11-11": 5016,
-  "2023-11-12": 5102,
-  "2023-11-13": 5182,
-  "2023-11-14": 5274,
-  "2023-11-15": 5274,
-  "2023-11-16": 5468,
-  "2023-11-17": 5660,
-  "2023-11-18": 5660,
-  "2023-11-19": 5748,
-  "2023-11-20": 5834,
-  "2023-11-21": 5931,
-  "2023-11-22": 6044,
-  "2023-11-23": 6127,
-  "2023-11-24": 6214,
-  "2023-11-25": 6304,
-  "2023-11-26": 6410,
-  "2023-11-27": 6536,
-  "2023-11-28": 6650,
-  "2023-11-29": 6891,
-  "2023-11-30": 6891,
-  "2023-12-01": 7019,
-  "2023-12-02": 7127,
-  "2023-12-03": 7210,
-  "2023-12-04": 7301,
-  "2023-12-05": 7384,
-  "2023-12-06": 7480,
-  "2023-12-07": 7575,
-  "2023-12-08": 7640,
-  "2023-12-09": 7704,
-  "2023-12-10": 7762,
-  "2023-12-11": 7833,
-  "2023-12-12": 7900,
-  "2023-12-13": 7972,
-  "2023-12-14": 8050,
-  "2023-12-15": 8088,
-  "2023-12-16": 8152,
-  "2023-12-17": 8216,
-  "2023-12-18": 8273,
-  "2023-12-19": 8321,
-  "2023-12-20": 8381,
-  "2023-12-21": 8455,
-  "2023-12-22": 8509,
-  "2023-12-23": 8573,
-  "2023-12-24": 8699,
-  "2023-12-25": 8781,
-  "2023-12-26": 8853,
-  "2023-12-27": 8929,
-  "2023-12-30": 9123,
-  "2023-12-31": 9183,
-  "2024-01-01": 9249,
-  "2024-01-02": 9313,
-  "2024-01-03": 9385
+  "2024-01-17": 10527,
+  "date_first_scraped": "2023-09-27",
+  "description": "Celine Song of A24's Past Lives curates a playlist of \"love songs about cities\" ",
+  "name": "Mixtape #5 Celine Song \"love songs about cities\" ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Paris 1919",
+        "url": "https://open.spotify.com/album/3WkD4YxRCzgXG2MJF9yDpk"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234186,
+      "name": "Andalucia",
+      "url": "https://open.spotify.com/track/5E2CoOxdJsOLeRoyfujlRn"
+    },
+    {
+      "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182939,
+      "name": "Angeles - Live",
+      "url": "https://open.spotify.com/track/3EvG1X6yWsqEaaI6wJufbO"
+    },
+    {
+      "album": {
+        "name": "Let It Be Me (Live)",
+        "url": "https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281466,
+      "name": "Baltimore - Live At Vine St. Bar & Grill/1987",
+      "url": "https://open.spotify.com/track/0Ix6OZz7O5Dh7fRKvrViZs"
+    },
+    {
+      "album": {
+        "name": "Le Bataclan (Live)",
+        "url": "https://open.spotify.com/album/1imtPf4xS6VsWv5Fpsh1do"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310040,
+      "name": "Berlin - Live, 2023 Remaster",
+      "url": "https://open.spotify.com/track/6MshkkcakXJfwxz2vZkW7j"
+    },
+    {
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "Beverly Hills",
+      "url": "https://open.spotify.com/track/1yKu2MhpwzDXXH2tzG6xoa"
+    },
+    {
+      "album": {
+        "name": "Deulgukhwa",
+        "url": "https://open.spotify.com/album/0e8lh3uJqASTtR8fqgxm13"
+      },
+      "artists": [
+        {
+          "name": "Deul Guk Hwa",
+          "url": "https://open.spotify.com/artist/1sgkTCF42JGJUIaBP68n6H"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293757,
+      "name": "Blue Night On Jeju",
+      "url": "https://open.spotify.com/track/3kwk52VNXhtofbOQ38mmCg"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Calgary",
+      "url": "https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877"
+    },
+    {
+      "album": {
+        "name": "Illinois",
+        "url": "https://open.spotify.com/album/1pOl0KEC1iQnA6F0XxV4To"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364613,
+      "name": "Chicago",
+      "url": "https://open.spotify.com/track/1yupbrI7ROhigIHpQBevPh"
+    },
+    {
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168066,
+      "name": "Come Back From San Francisco",
+      "url": "https://open.spotify.com/track/6iHrqAF6XO2rzl4OLFb4eo"
+    },
+    {
+      "album": {
+        "name": "Wrong Way Up",
+        "url": "https://open.spotify.com/album/4g5l1EL67yWvsXnbetjh70"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "Cordoba",
+      "url": "https://open.spotify.com/track/6r2rhePeCqu7J7XwTkfe55"
+    },
+    {
+      "album": {
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195160,
+      "name": "Daytona Sand",
+      "url": "https://open.spotify.com/track/5D9fWPC6JwA8SgksEpO0jC"
+    },
+    {
+      "album": {
+        "name": "The Magic Whip",
+        "url": "https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299133,
+      "name": "Ghost Ship",
+      "url": "https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "album": {
+        "name": "Bootleg Vol. I: Personal File",
+        "url": "https://open.spotify.com/album/5TabR5rIBRxBD6XzWhCiBE"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136133,
+      "name": "Girl in Saskatoon",
+      "url": "https://open.spotify.com/track/0ZOREY0IXhxjwzScOn0HUK"
+    },
+    {
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "Hackensack",
+      "url": "https://open.spotify.com/track/11PUdjgVfGEZLG9zs9UeTp"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/35KiiILklye1JRRctaLUb4"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203493,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/4iz9lGMjU1lXS51oPmUmTe"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299960,
+      "name": "I Love Paris",
+      "url": "https://open.spotify.com/track/1oWzJpxMSPWiUvedmfsKWQ"
+    },
+    {
+      "album": {
+        "name": "La De Da",
+        "url": "https://open.spotify.com/album/5xAoCYVctfaml9amhUrVzQ"
+      },
+      "artists": [
+        {
+          "name": "Joel Plaskett",
+          "url": "https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210306,
+      "name": "I Love This Town",
+      "url": "https://open.spotify.com/track/4OtJU2DLiJcneeXnKLjdMm"
+    },
+    {
+      "album": {
+        "name": "Volume II",
+        "url": "https://open.spotify.com/album/1xG5S6sfeFZcekU2qjGlGf"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/7GoBeudlghOYGNoRuz9yLI"
+    },
+    {
+      "album": {
+        "name": "London Calling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3TZuLZx0zB3Q45aQXDswb9"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "London Calling",
+      "url": "https://open.spotify.com/track/124Y9LPRCAz3q2OP0iCvcJ"
+    },
+    {
+      "album": {
+        "name": "Her Majesty The Decemberists",
+        "url": "https://open.spotify.com/album/60U7volY4FsumurSI46srR"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257640,
+      "name": "Los Angeles, I'm Yours",
+      "url": "https://open.spotify.com/track/29ZyMSas57RRsqumvc0BSw"
+    },
+    {
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi"
+    },
+    {
+      "album": {
+        "name": "The Flying Club Cup",
+        "url": "https://open.spotify.com/album/71udkw2yxFqNK4SNSYcCce"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230200,
+      "name": "Nantes",
+      "url": "https://open.spotify.com/track/1WBSFlSLyOZnSa8fj7a5yC"
+    },
+    {
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
+    },
+    {
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335480,
+      "name": "New York, I Love You but You're Bringing Me Down",
+      "url": "https://open.spotify.com/track/5rAff9XfcWx7rguN3t0fkW"
+    },
+    {
+      "album": {
+        "name": "Reconstruction Site",
+        "url": "https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N"
+      },
+      "artists": [
+        {
+          "name": "The Weakerthans",
+          "url": "https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "One Great City!",
+      "url": "https://open.spotify.com/track/79jIauLDQffSrwtY0ostxv"
+    },
+    {
+      "album": {
+        "name": "Paris 1919",
+        "url": "https://open.spotify.com/album/3WkD4YxRCzgXG2MJF9yDpk"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246799,
+      "name": "Paris 1919",
+      "url": "https://open.spotify.com/track/5Zpy2HR2vYLjlTQVd81DLH"
+    },
+    {
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206722,
+      "name": "Paris, Texas (feat. SYML)",
+      "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
+    },
+    {
+      "album": {
+        "name": "I Want to See Pulaski at Night",
+        "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289093,
+      "name": "Pulaski at Night",
+      "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
+    },
+    {
+      "album": {
+        "name": "Built on Squares",
+        "url": "https://open.spotify.com/album/1upSOFGjov4vu0lN6XQsPa"
+      },
+      "artists": [
+        {
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155880,
+      "name": "San Diego",
+      "url": "https://open.spotify.com/track/27SYHtDA4WsdcLTJx55Sao"
+    },
+    {
+      "album": {
+        "name": "The Voice of Scott McKenzie (Expanded Edition)",
+        "url": "https://open.spotify.com/album/58TeEraOu8GyAFSUwF4fQZ"
+      },
+      "artists": [
+        {
+          "name": "Scott McKenzie",
+          "url": "https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "San Francisco (Be Sure to Wear Some Flowers In Your Hair)",
+      "url": "https://open.spotify.com/track/77qBwefBIdzymXNCuAI8YX"
+    },
+    {
+      "album": {
+        "name": "Before the Rain",
+        "url": "https://open.spotify.com/album/1dCO1DxYlCvbRRfX0zZANI"
+      },
+      "artists": [
+        {
+          "name": "Lee Oskar",
+          "url": "https://open.spotify.com/artist/0ZjB2OpMQL3LKJyEdeIz7o"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445106,
+      "name": "San Francisco Bay",
+      "url": "https://open.spotify.com/track/0TaatujAlsDlmmZPLlu5dR"
+    },
+    {
+      "album": {
+        "name": "Meddle",
+        "url": "https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223066,
+      "name": "San Tropez",
+      "url": "https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd"
+    },
+    {
+      "album": {
+        "name": "Midnight Candy",
+        "url": "https://open.spotify.com/album/0kWnxvoMqesePXEQVvIB3x"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254943,
+      "name": "Seoul Night",
+      "url": "https://open.spotify.com/track/5KUs4mhoWSpZmJKXABJocU"
+    },
+    {
+      "album": {
+        "name": "Midnight Candy",
+        "url": "https://open.spotify.com/album/4pR1y1pV9CyrFm6LL4N65M"
+      },
+      "artists": [
+        {
+          "name": "Fromm",
+          "url": "https://open.spotify.com/artist/4ht1mwP4ouSu79jOOktCY3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-03",
+      "duration_ms": 254953,
+      "name": "Seoul Night",
+      "url": "https://open.spotify.com/track/6u6k8rPxlffYclES8o04Ng"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/211iJYKUbpqrykRsPG27CG"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195080,
+      "name": "Streets of Philadelphia - Single Edit",
+      "url": "https://open.spotify.com/track/3fbnbn6A5O5RNb08tlUEgd"
+    },
+    {
+      "album": {
+        "name": "More Best Of",
+        "url": "https://open.spotify.com/album/5Tt73Fi2zEcfDJEPopgEv7"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357840,
+      "name": "Take This Waltz",
+      "url": "https://open.spotify.com/track/59BwHvrOj0amgz17FgDn1C"
+    },
+    {
+      "album": {
+        "name": "All Hail West Texas (Remastered)",
+        "url": "https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "The Best Ever Death Metal Band in Denton",
+      "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/4us3GOm42EubfNyOqYf55R"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184453,
+      "name": "The Girl from Ipanema",
+      "url": "https://open.spotify.com/track/1aucqAQImjlcxcQajOBUAv"
+    },
+    {
+      "album": {
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "The Only Living Boy in New York",
+      "url": "https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA"
+    },
+    {
+      "album": {
+        "name": "Has A Good Home",
+        "url": "https://open.spotify.com/album/17EcSC0HhQC3x7clTT9Mn7"
+      },
+      "artists": [
+        {
+          "name": "Owen Pallett",
+          "url": "https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204434,
+      "name": "This Is The Dream Of Win & Regine",
+      "url": "https://open.spotify.com/track/65tg2FnizGXtnOt8PnDSU7"
+    },
+    {
+      "album": {
+        "name": "Music@Work",
+        "url": "https://open.spotify.com/album/1HUCg8G3crYzn2sGujgSho"
+      },
+      "artists": [
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Toronto 4",
+      "url": "https://open.spotify.com/track/36mfVVBV9EHw5UyrHxzLvs"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/2QVrJXsVZIgwNwOhtu31wd"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 139256,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/5q6Fabq1sHrItopagxkIgc"
+    },
+    {
+      "album": {
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139256,
+      "name": "Vegas - 2023 Remaster",
+      "url": "https://open.spotify.com/track/2KgWGc5KgyNS0scSS6KLmJ"
+    },
+    {
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113173,
+      "name": "Washington, D.C.",
+      "url": "https://open.spotify.com/track/22reYeFPVc6i15XGmbUs7i"
+    },
+    {
+      "album": {
+        "name": "Wendy",
+        "url": "https://open.spotify.com/album/0eI20QwDDcx6kA3NzVhVuW"
+      },
+      "artists": [
+        {
+          "name": "Will Epstein",
+          "url": "https://open.spotify.com/artist/6frw6zaHCiKF24nG7ch52I"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Way Down in Stockholm",
+      "url": "https://open.spotify.com/track/6WGtg05ZcrOpqS1cVZYUtV"
+    },
+    {
+      "album": {
+        "name": "\ub354 \ud32c 2ROUND Part.1",
+        "url": "https://open.spotify.com/album/7Ls2OqCIyHG87kdU5qhspV"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236578,
+      "name": "\uba85\ub3d9\ucf5c\ub9c1",
+      "url": "https://open.spotify.com/track/47Euae10UxFEcbnR9I9Vgt"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVSceA8xRt3a"
 }

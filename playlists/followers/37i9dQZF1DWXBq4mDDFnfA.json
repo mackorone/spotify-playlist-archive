@@ -1,735 +1,1085 @@
 {
-  "2021-12-25": 124989,
-  "2021-12-26": 125033,
-  "2021-12-27": 125163,
-  "2021-12-28": 125164,
-  "2021-12-29": 125225,
-  "2021-12-30": 125295,
-  "2021-12-31": 125355,
-  "2022-01-01": 125442,
-  "2022-01-02": 125472,
-  "2022-01-03": 125536,
-  "2022-01-04": 125591,
-  "2022-01-05": 125642,
-  "2022-01-06": 125680,
-  "2022-01-07": 125750,
-  "2022-01-08": 125889,
-  "2022-01-09": 125891,
-  "2022-01-10": 125973,
-  "2022-01-11": 126050,
-  "2022-01-12": 126123,
-  "2022-01-13": 126206,
-  "2022-01-14": 126280,
-  "2022-01-15": 126414,
-  "2022-01-16": 126420,
-  "2022-01-17": 126566,
-  "2022-01-18": 126572,
-  "2022-01-19": 126620,
-  "2022-01-20": 126691,
-  "2022-01-21": 126756,
-  "2022-01-22": 135075,
-  "2022-01-23": 135132,
-  "2022-01-24": 135207,
-  "2022-01-25": 135262,
-  "2022-01-26": 135329,
-  "2022-01-27": 137955,
-  "2022-01-28": 138007,
-  "2022-01-29": 138059,
-  "2022-01-30": 138158,
-  "2022-01-31": 138228,
-  "2022-02-01": 138279,
-  "2022-02-02": 138342,
-  "2022-02-03": 138393,
-  "2022-02-04": 138467,
-  "2022-02-05": 138534,
-  "2022-02-06": 138612,
-  "2022-02-07": 138681,
-  "2022-02-08": 138740,
-  "2022-02-09": 138799,
-  "2022-02-10": 138859,
-  "2022-02-11": 138929,
-  "2022-02-12": 138996,
-  "2022-02-13": 139048,
-  "2022-02-14": 139088,
-  "2022-02-15": 139110,
-  "2022-02-16": 139155,
-  "2022-02-17": 139216,
-  "2022-02-18": 139263,
-  "2022-02-19": 139305,
-  "2022-02-20": 139366,
-  "2022-02-21": 139428,
-  "2022-02-22": 139472,
-  "2022-02-23": 139546,
-  "2022-02-24": 139588,
-  "2022-02-25": 139628,
-  "2022-02-26": 139685,
-  "2022-02-27": 139794,
-  "2022-02-28": 139794,
-  "2022-03-01": 139847,
-  "2022-03-02": 139902,
-  "2022-03-03": 139959,
-  "2022-03-04": 140008,
-  "2022-03-05": 140066,
-  "2022-03-06": 140122,
-  "2022-03-07": 140178,
-  "2022-03-08": 140228,
-  "2022-03-09": 140289,
-  "2022-03-10": 140353,
-  "2022-03-11": 140434,
-  "2022-03-12": 140483,
-  "2022-03-13": 140550,
-  "2022-03-14": 140621,
-  "2022-03-15": 140682,
-  "2022-03-16": 140747,
-  "2022-03-17": 140804,
-  "2022-03-18": 140873,
-  "2022-03-19": 140904,
-  "2022-03-20": 140904,
-  "2022-03-21": 141008,
-  "2022-03-22": 141076,
-  "2022-03-23": 141137,
-  "2022-03-24": 141185,
-  "2022-03-25": 141244,
-  "2022-03-26": 141296,
-  "2022-03-27": 141356,
-  "2022-03-28": 141414,
-  "2022-03-30": 141501,
-  "2022-03-31": 141553,
-  "2022-04-01": 141602,
-  "2022-04-02": 141642,
-  "2022-04-03": 141685,
-  "2022-04-04": 141717,
-  "2022-04-05": 141764,
-  "2022-04-06": 141813,
-  "2022-04-07": 141860,
-  "2022-04-08": 141901,
-  "2022-04-09": 141955,
-  "2022-04-10": 142063,
-  "2022-04-11": 142132,
-  "2022-04-12": 142140,
-  "2022-04-13": 142179,
-  "2022-04-14": 142226,
-  "2022-04-15": 142271,
-  "2022-04-16": 142309,
-  "2022-04-17": 142346,
-  "2022-04-18": 142417,
-  "2022-04-19": 142449,
-  "2022-04-20": 142489,
-  "2022-04-21": 142552,
-  "2022-04-22": 142610,
-  "2022-04-23": 142667,
-  "2022-04-24": 142730,
-  "2022-04-25": 142800,
-  "2022-04-26": 142870,
-  "2022-04-27": 142935,
-  "2022-04-28": 142995,
-  "2022-04-29": 143091,
-  "2022-04-30": 143174,
-  "2022-05-01": 143254,
-  "2022-05-02": 143254,
-  "2022-05-03": 143312,
-  "2022-05-04": 143368,
-  "2022-05-05": 143438,
-  "2022-05-06": 143482,
-  "2022-05-07": 143544,
-  "2022-05-08": 143645,
-  "2022-05-09": 143662,
-  "2022-05-10": 143721,
-  "2022-05-11": 143771,
-  "2022-05-12": 143821,
-  "2022-05-13": 143868,
-  "2022-05-14": 143912,
-  "2022-05-15": 143961,
-  "2022-05-16": 144025,
-  "2022-05-17": 144081,
-  "2022-05-18": 144138,
-  "2022-05-19": 144210,
-  "2022-05-20": 144288,
-  "2022-05-21": 144379,
-  "2022-05-22": 144379,
-  "2022-05-23": 144434,
-  "2022-05-24": 144488,
-  "2022-05-25": 144541,
-  "2022-05-26": 144585,
-  "2022-05-27": 144647,
-  "2022-05-28": 144702,
-  "2022-05-29": 144749,
-  "2022-05-30": 144810,
-  "2022-05-31": 144857,
-  "2022-06-01": 144939,
-  "2022-06-02": 144945,
-  "2022-06-03": 144982,
-  "2022-06-04": 145018,
-  "2022-06-05": 145064,
-  "2022-06-06": 145125,
-  "2022-06-07": 145189,
-  "2022-06-08": 145236,
-  "2022-06-09": 145277,
-  "2022-06-10": 145313,
-  "2022-06-11": 145368,
-  "2022-06-12": 145414,
-  "2022-06-13": 145476,
-  "2022-06-14": 145527,
-  "2022-06-15": 145576,
-  "2022-06-16": 145639,
-  "2022-06-17": 145708,
-  "2022-06-18": 145788,
-  "2022-06-19": 145922,
-  "2022-06-20": 145922,
-  "2022-06-21": 145964,
-  "2022-06-22": 146100,
-  "2022-06-23": 146100,
-  "2022-06-24": 146143,
-  "2022-06-25": 146191,
-  "2022-06-26": 146230,
-  "2022-06-27": 146281,
-  "2022-06-28": 146333,
-  "2022-06-29": 146401,
-  "2022-06-30": 146465,
-  "2022-07-01": 146512,
-  "2022-07-02": 146560,
-  "2022-07-03": 146613,
-  "2022-07-04": 146692,
-  "2022-07-05": 146758,
-  "2022-07-06": 146799,
-  "2022-07-07": 146866,
-  "2022-07-08": 146920,
-  "2022-07-09": 146976,
-  "2022-07-10": 147045,
-  "2022-07-11": 147125,
-  "2022-07-12": 147192,
-  "2022-07-13": 147227,
-  "2022-07-14": 147295,
-  "2022-07-15": 147373,
-  "2022-07-16": 147439,
-  "2022-07-17": 147504,
-  "2022-07-18": 147566,
-  "2022-07-19": 147632,
-  "2022-07-20": 147692,
-  "2022-07-21": 147752,
-  "2022-07-22": 147826,
-  "2022-07-23": 147881,
-  "2022-07-24": 147940,
-  "2022-07-25": 148003,
-  "2022-07-26": 148076,
-  "2022-07-27": 148126,
-  "2022-07-28": 148194,
-  "2022-07-29": 148248,
-  "2022-07-30": 148375,
-  "2022-07-31": 148375,
-  "2022-08-01": 148445,
-  "2022-08-02": 148567,
-  "2022-08-03": 148567,
-  "2022-08-04": 148631,
-  "2022-08-05": 148687,
-  "2022-08-06": 148742,
-  "2022-08-07": 148814,
-  "2022-08-08": 148875,
-  "2022-08-09": 148923,
-  "2022-08-10": 148979,
-  "2022-08-11": 149040,
-  "2022-08-12": 149105,
-  "2022-08-13": 149163,
-  "2022-08-14": 149243,
-  "2022-08-15": 149308,
-  "2022-08-16": 149390,
-  "2022-08-17": 149468,
-  "2022-08-18": 149528,
-  "2022-08-19": 149571,
-  "2022-08-20": 149625,
-  "2022-08-21": 149681,
-  "2022-08-22": 149761,
-  "2022-08-23": 149814,
-  "2022-08-24": 149876,
-  "2022-08-25": 149950,
-  "2022-08-26": 150030,
-  "2022-08-27": 150107,
-  "2022-08-28": 150201,
-  "2022-08-29": 150290,
-  "2022-08-30": 150354,
-  "2022-08-31": 150399,
-  "2022-09-01": 150411,
-  "2022-09-02": 150471,
-  "2022-09-03": 150489,
-  "2022-09-04": 150467,
-  "2022-09-05": 150472,
-  "2022-09-06": 150556,
-  "2022-09-07": 150638,
-  "2022-09-09": 150812,
-  "2022-09-10": 150903,
-  "2022-09-11": 150978,
-  "2022-09-12": 151068,
-  "2022-09-13": 151154,
-  "2022-09-15": 151277,
-  "2022-09-16": 151342,
-  "2022-09-17": 151403,
-  "2022-09-18": 151482,
-  "2022-09-19": 151559,
-  "2022-09-20": 151627,
-  "2022-09-21": 151697,
-  "2022-09-22": 151770,
-  "2022-09-23": 151844,
-  "2022-09-24": 151913,
-  "2022-09-25": 151988,
-  "2022-09-26": 152070,
-  "2022-09-27": 152133,
-  "2022-09-28": 152206,
-  "2022-09-29": 152269,
-  "2022-09-30": 152316,
-  "2022-10-01": 152377,
-  "2022-10-02": 152443,
-  "2022-10-03": 152511,
-  "2022-10-04": 152564,
-  "2022-10-05": 152633,
-  "2022-10-06": 152716,
-  "2022-10-07": 152795,
-  "2022-10-08": 152858,
-  "2022-10-09": 152985,
-  "2022-10-10": 153005,
-  "2022-10-11": 153061,
-  "2022-10-12": 153135,
-  "2022-10-13": 153216,
-  "2022-10-14": 153301,
-  "2022-10-15": 153388,
-  "2022-10-16": 153478,
-  "2022-10-17": 153551,
-  "2022-10-18": 153635,
-  "2022-10-19": 153711,
-  "2022-10-20": 153799,
-  "2022-10-21": 153882,
-  "2022-10-22": 153976,
-  "2022-10-23": 154059,
-  "2022-10-24": 154138,
-  "2022-10-25": 154225,
-  "2022-10-26": 154300,
-  "2022-10-27": 154392,
-  "2022-10-28": 154495,
-  "2022-10-29": 154594,
-  "2022-10-30": 154688,
-  "2022-10-31": 154779,
-  "2022-11-01": 154881,
-  "2022-11-02": 154961,
-  "2022-11-03": 155062,
-  "2022-11-04": 155132,
-  "2022-11-05": 155219,
-  "2022-11-06": 155303,
-  "2022-11-07": 155380,
-  "2022-11-08": 155475,
-  "2022-11-09": 155551,
-  "2022-11-10": 155650,
-  "2022-11-11": 155749,
-  "2022-11-12": 155858,
-  "2022-11-13": 155937,
-  "2022-11-14": 156041,
-  "2022-11-15": 156154,
-  "2022-11-16": 156249,
-  "2022-11-17": 156338,
-  "2022-11-18": 156381,
-  "2022-11-19": 156361,
-  "2022-11-20": 156381,
-  "2022-11-21": 156469,
-  "2022-11-22": 156667,
-  "2022-11-23": 156643,
-  "2022-11-24": 156801,
-  "2022-11-25": 156980,
-  "2022-11-26": 157122,
-  "2022-11-27": 157207,
-  "2022-11-28": 157309,
-  "2022-11-29": 157403,
-  "2022-11-30": 157477,
-  "2022-12-01": 157551,
-  "2022-12-02": 157650,
-  "2022-12-03": 157686,
-  "2022-12-04": 157800,
-  "2022-12-05": 157873,
-  "2022-12-06": 157938,
-  "2022-12-07": 158019,
-  "2022-12-08": 158103,
-  "2022-12-09": 158196,
-  "2022-12-10": 158283,
-  "2022-12-11": 158369,
-  "2022-12-12": 158452,
-  "2022-12-13": 158533,
-  "2022-12-14": 158618,
-  "2022-12-15": 158698,
-  "2022-12-16": 158792,
-  "2022-12-17": 158867,
-  "2022-12-18": 158946,
-  "2022-12-19": 159083,
-  "2022-12-20": 159247,
-  "2022-12-21": 159247,
-  "2022-12-22": 159327,
-  "2022-12-24": 159449,
-  "2022-12-25": 159511,
-  "2022-12-26": 159571,
-  "2022-12-27": 159650,
-  "2022-12-28": 159712,
-  "2022-12-29": 159803,
-  "2022-12-30": 159855,
-  "2022-12-31": 159934,
-  "2023-01-01": 160015,
-  "2023-01-02": 160116,
-  "2023-01-03": 160166,
-  "2023-01-04": 160255,
-  "2023-01-05": 160344,
-  "2023-01-06": 160447,
-  "2023-01-07": 160579,
-  "2023-01-08": 160611,
-  "2023-01-09": 160736,
-  "2023-01-10": 160838,
-  "2023-01-11": 160943,
-  "2023-01-12": 161035,
-  "2023-01-13": 161130,
-  "2023-01-14": 161309,
-  "2023-01-15": 161344,
-  "2023-01-16": 161463,
-  "2023-01-17": 161557,
-  "2023-01-18": 161649,
-  "2023-01-19": 161753,
-  "2023-01-20": 161848,
-  "2023-01-21": 161944,
-  "2023-01-22": 162058,
-  "2023-01-23": 162178,
-  "2023-01-24": 162293,
-  "2023-01-25": 162409,
-  "2023-01-26": 162498,
-  "2023-01-27": 162599,
-  "2023-01-28": 162694,
-  "2023-01-29": 162834,
-  "2023-01-30": 162936,
-  "2023-01-31": 162936,
-  "2023-02-01": 163140,
-  "2023-02-02": 163238,
-  "2023-02-03": 163340,
-  "2023-02-04": 163414,
-  "2023-02-05": 163498,
-  "2023-02-06": 163584,
-  "2023-02-07": 163683,
-  "2023-02-08": 163879,
-  "2023-02-09": 163879,
-  "2023-02-10": 163966,
-  "2023-02-11": 164051,
-  "2023-02-12": 164251,
-  "2023-02-13": 164342,
-  "2023-02-14": 164342,
-  "2023-02-15": 164422,
-  "2023-02-16": 164506,
-  "2023-02-17": 164592,
-  "2023-02-18": 164798,
-  "2023-02-19": 164817,
-  "2023-02-20": 164885,
-  "2023-02-21": 164982,
-  "2023-02-22": 165093,
-  "2023-02-23": 165170,
-  "2023-02-24": 165238,
-  "2023-02-25": 165374,
-  "2023-02-26": 165470,
-  "2023-02-27": 165643,
-  "2023-02-28": 165643,
-  "2023-03-01": 165765,
-  "2023-03-02": 165859,
-  "2023-03-03": 165981,
-  "2023-03-04": 166072,
-  "2023-03-05": 166244,
-  "2023-03-06": 166244,
-  "2023-03-07": 166324,
-  "2023-03-08": 166388,
-  "2023-03-09": 166476,
-  "2023-03-10": 166572,
-  "2023-03-11": 166634,
-  "2023-03-12": 166739,
-  "2023-03-13": 166837,
-  "2023-03-14": 166912,
-  "2023-03-15": 167009,
-  "2023-03-16": 167067,
-  "2023-03-17": 167067,
-  "2023-03-18": 167247,
-  "2023-03-19": 167323,
-  "2023-03-20": 167402,
-  "2023-03-21": 167469,
-  "2023-03-22": 167548,
-  "2023-03-23": 167642,
-  "2023-03-24": 167642,
-  "2023-03-25": 167826,
-  "2023-03-26": 167915,
-  "2023-03-27": 168020,
-  "2023-03-28": 168124,
-  "2023-03-29": 168224,
-  "2023-03-30": 168377,
-  "2023-03-31": 168377,
-  "2023-04-01": 168439,
-  "2023-04-02": 168519,
-  "2023-04-03": 168632,
-  "2023-04-04": 168694,
-  "2023-04-05": 168769,
-  "2023-04-06": 168843,
-  "2023-04-07": 168885,
-  "2023-04-09": 169063,
-  "2023-04-10": 169125,
-  "2023-04-11": 169256,
-  "2023-04-12": 169256,
-  "2023-04-13": 169320,
-  "2023-04-14": 169393,
-  "2023-04-15": 169467,
-  "2023-04-16": 169529,
-  "2023-04-17": 169623,
-  "2023-04-18": 169701,
-  "2023-04-19": 169773,
-  "2023-04-20": 169838,
-  "2023-04-21": 169904,
-  "2023-04-22": 169975,
-  "2023-04-23": 170060,
-  "2023-04-24": 170124,
-  "2023-04-25": 170182,
-  "2023-04-26": 170260,
-  "2023-04-27": 170343,
-  "2023-04-28": 170404,
-  "2023-04-29": 170494,
-  "2023-04-30": 170579,
-  "2023-05-01": 170652,
-  "2023-05-02": 170711,
-  "2023-05-03": 170776,
-  "2023-05-04": 170836,
-  "2023-05-05": 170893,
-  "2023-05-06": 170971,
-  "2023-05-07": 171045,
-  "2023-05-08": 171123,
-  "2023-05-09": 171212,
-  "2023-05-10": 171278,
-  "2023-05-11": 171358,
-  "2023-05-12": 171410,
-  "2023-05-13": 171484,
-  "2023-05-14": 171539,
-  "2023-05-15": 171605,
-  "2023-05-16": 171680,
-  "2023-05-17": 171730,
-  "2023-05-18": 171804,
-  "2023-05-19": 171881,
-  "2023-05-20": 172048,
-  "2023-05-21": 172048,
-  "2023-05-22": 172048,
-  "2023-05-23": 172222,
-  "2023-05-24": 172317,
-  "2023-05-25": 172336,
-  "2023-05-26": 172412,
-  "2023-05-27": 172471,
-  "2023-05-28": 172528,
-  "2023-05-29": 172528,
-  "2023-05-30": 172665,
-  "2023-05-31": 172726,
-  "2023-06-01": 172784,
-  "2023-06-02": 172832,
-  "2023-06-03": 172901,
-  "2023-06-04": 172964,
-  "2023-06-05": 173023,
-  "2023-06-06": 173083,
-  "2023-06-07": 173118,
-  "2023-06-08": 173181,
-  "2023-06-09": 173227,
-  "2023-06-10": 173277,
-  "2023-06-11": 173334,
-  "2023-06-12": 173403,
-  "2023-06-13": 173485,
-  "2023-06-14": 173485,
-  "2023-06-15": 173615,
-  "2023-06-16": 173680,
-  "2023-06-17": 173743,
-  "2023-06-18": 173813,
-  "2023-06-19": 173880,
-  "2023-06-20": 173949,
-  "2023-06-21": 173988,
-  "2023-06-22": 174035,
-  "2023-06-23": 174103,
-  "2023-06-24": 174165,
-  "2023-06-25": 174217,
-  "2023-06-26": 174271,
-  "2023-06-27": 174334,
-  "2023-06-28": 174394,
-  "2023-06-29": 174439,
-  "2023-06-30": 174519,
-  "2023-07-01": 174640,
-  "2023-07-02": 174640,
-  "2023-07-03": 174698,
-  "2023-07-04": 174745,
-  "2023-07-05": 174809,
-  "2023-07-06": 174944,
-  "2023-07-07": 174944,
-  "2023-07-08": 175010,
-  "2023-07-09": 175069,
-  "2023-07-10": 175147,
-  "2023-07-11": 175203,
-  "2023-07-12": 175258,
-  "2023-07-13": 175326,
-  "2023-07-14": 175401,
-  "2023-07-15": 175441,
-  "2023-07-16": 175508,
-  "2023-07-17": 175592,
-  "2023-07-18": 175669,
-  "2023-07-19": 175725,
-  "2023-07-20": 175781,
-  "2023-07-21": 175824,
-  "2023-07-22": 175858,
-  "2023-07-23": 175937,
-  "2023-07-24": 176000,
-  "2023-07-25": 176076,
-  "2023-07-26": 176110,
-  "2023-07-27": 176168,
-  "2023-07-28": 176219,
-  "2023-07-29": 176272,
-  "2023-07-30": 176352,
-  "2023-07-31": 176445,
-  "2023-08-01": 176495,
-  "2023-08-02": 176557,
-  "2023-08-03": 176632,
-  "2023-08-04": 176692,
-  "2023-08-05": 176768,
-  "2023-08-06": 176912,
-  "2023-08-07": 176912,
-  "2023-08-08": 176993,
-  "2023-08-09": 177073,
-  "2023-08-10": 177147,
-  "2023-08-11": 177231,
-  "2023-08-12": 177318,
-  "2023-08-13": 177383,
-  "2023-08-14": 177461,
-  "2023-08-15": 177604,
-  "2023-08-16": 177604,
-  "2023-08-17": 177675,
-  "2023-08-18": 177745,
-  "2023-08-19": 177825,
-  "2023-08-20": 177912,
-  "2023-08-21": 177996,
-  "2023-08-22": 178073,
-  "2023-08-23": 178140,
-  "2023-08-24": 178213,
-  "2023-08-25": 178298,
-  "2023-08-26": 178352,
-  "2023-08-27": 178432,
-  "2023-08-28": 178514,
-  "2023-08-29": 178574,
-  "2023-08-30": 178650,
-  "2023-08-31": 178714,
-  "2023-09-01": 178862,
-  "2023-09-02": 178862,
-  "2023-09-03": 178921,
-  "2023-09-04": 179008,
-  "2023-09-05": 179068,
-  "2023-09-06": 179134,
-  "2023-09-07": 179199,
-  "2023-09-08": 179269,
-  "2023-09-09": 179331,
-  "2023-09-10": 179398,
-  "2023-09-11": 179462,
-  "2023-09-12": 179525,
-  "2023-09-13": 179590,
-  "2023-09-14": 179652,
-  "2023-09-15": 179733,
-  "2023-09-16": 179792,
-  "2023-09-17": 179868,
-  "2023-09-18": 179934,
-  "2023-09-19": 180001,
-  "2023-09-20": 180070,
-  "2023-09-21": 180129,
-  "2023-09-22": 180185,
-  "2023-09-23": 180257,
-  "2023-09-24": 180315,
-  "2023-09-25": 180392,
-  "2023-09-26": 180465,
-  "2023-09-27": 180511,
-  "2023-09-28": 180561,
-  "2023-09-29": 180613,
-  "2023-09-30": 180666,
-  "2023-10-01": 180711,
-  "2023-10-02": 180766,
-  "2023-10-03": 180836,
-  "2023-10-04": 180894,
-  "2023-10-05": 180961,
-  "2023-10-06": 181005,
-  "2023-10-07": 181058,
-  "2023-10-08": 181113,
-  "2023-10-09": 181179,
-  "2023-10-10": 181157,
-  "2023-10-11": 181182,
-  "2023-10-12": 181182,
-  "2023-10-13": 181181,
-  "2023-10-14": 181164,
-  "2023-10-15": 181201,
-  "2023-10-16": 181258,
-  "2023-10-17": 181335,
-  "2023-10-18": 181368,
-  "2023-10-19": 181433,
-  "2023-10-20": 181491,
-  "2023-10-21": 181548,
-  "2023-10-22": 181600,
-  "2023-10-23": 181651,
-  "2023-10-24": 181709,
-  "2023-10-25": 181764,
-  "2023-10-26": 181828,
-  "2023-10-27": 181886,
-  "2023-10-28": 181942,
-  "2023-10-29": 181994,
-  "2023-10-30": 182104,
-  "2023-10-31": 182104,
-  "2023-11-01": 182154,
-  "2023-11-02": 182224,
-  "2023-11-03": 182274,
-  "2023-11-04": 182333,
-  "2023-11-05": 182381,
-  "2023-11-06": 182427,
-  "2023-11-07": 182479,
-  "2023-11-08": 182544,
-  "2023-11-09": 182604,
-  "2023-11-10": 182668,
-  "2023-11-11": 182731,
-  "2023-11-12": 182800,
-  "2023-11-13": 182851,
-  "2023-11-14": 182915,
-  "2023-11-15": 182915,
-  "2023-11-16": 183037,
-  "2023-11-17": 183128,
-  "2023-11-18": 183128,
-  "2023-11-19": 183175,
-  "2023-11-20": 183229,
-  "2023-11-21": 183282,
-  "2023-11-22": 183330,
-  "2023-11-23": 183379,
-  "2023-11-24": 183404,
-  "2023-11-25": 183451,
-  "2023-11-26": 183509,
-  "2023-11-27": 183561,
-  "2023-11-28": 183610,
-  "2023-11-29": 183704,
-  "2023-11-30": 183704,
-  "2023-12-01": 183744,
-  "2023-12-02": 183793,
-  "2023-12-03": 183832,
-  "2023-12-04": 183875,
-  "2023-12-05": 183900,
-  "2023-12-06": 183936,
-  "2023-12-07": 183985,
-  "2023-12-08": 184020,
-  "2023-12-09": 184059,
-  "2023-12-10": 184101,
-  "2023-12-11": 184167,
-  "2023-12-12": 184218,
-  "2023-12-13": 184256,
-  "2023-12-14": 184321,
-  "2023-12-15": 184336,
-  "2023-12-16": 184371,
-  "2023-12-17": 184420,
-  "2023-12-18": 184473,
-  "2023-12-19": 184510,
-  "2023-12-20": 184542,
-  "2023-12-21": 184591,
-  "2023-12-22": 184639,
-  "2023-12-23": 184684,
-  "2023-12-24": 184719,
-  "2023-12-25": 184759,
-  "2023-12-26": 184797,
-  "2023-12-27": 184835,
-  "2023-12-30": 184958,
-  "2023-12-31": 185028,
-  "2024-01-01": 185067,
-  "2024-01-02": 185124,
-  "2024-01-03": 185169
+  "2024-01-17": 185484,
+  "date_first_scraped": "2021-12-21",
+  "description": "Relax to the sound of classical guitar. ",
+  "name": "Relaxing Classical Guitar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Japanese Guitar Music, Vol. 2",
+        "url": "https://open.spotify.com/album/2E2ITFCZ58fF0inaqgjsQo"
+      },
+      "artists": [
+        {
+          "name": "Akira Nakata",
+          "url": "https://open.spotify.com/artist/5mn3sK9mXv1TW38Xim9dxp"
+        },
+        {
+          "name": "Shin-ichi Fukuda",
+          "url": "https://open.spotify.com/artist/1VpxOqn6Ruc8z3AS7yexEm"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "12 Songs for Guitar: Gita no tame no juni no uta (12 Songs for Guitar): No. 7. A Song of Early Spring (Akira Nakada)",
+      "url": "https://open.spotify.com/track/0o4y8ldMS6SuWSxRrpy1SQ"
+    },
+    {
+      "album": {
+        "name": "Debussy: 2 Arabesques / Preludes (Selections) / Pour L'Egyptienne",
+        "url": "https://open.spotify.com/album/3WLgXHnZiDlcdyiBV2VHCq"
+      },
+      "artists": [
+        {
+          "name": "Anders Miolin",
+          "url": "https://open.spotify.com/artist/0BNlCKQPbiGIRTVnzKfJgy"
+        },
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379800,
+      "name": "2 Arabesques (arr. A. Miolin): Arabesque No. 1",
+      "url": "https://open.spotify.com/track/15p1shEFbxSlTTwxdGMggG"
+    },
+    {
+      "album": {
+        "name": "Sor: Fantasias Nos. 7, 10, 13 / 24 Studies (Excerpts)",
+        "url": "https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R"
+      },
+      "artists": [
+        {
+          "name": "Fernando Sor",
+          "url": "https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd"
+        },
+        {
+          "name": "Timo Korhonen",
+          "url": "https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104733,
+      "name": "24 Studies, Op. 35, \"Exercises\": Study No. 17 in D Major",
+      "url": "https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16"
+    },
+    {
+      "album": {
+        "name": "Soul of Spanish Guitar",
+        "url": "https://open.spotify.com/album/4A9G71QsLJKKFK5ffodQfZ"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Pablo Sainz Villegas",
+          "url": "https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "Adelita",
+      "url": "https://open.spotify.com/track/5NAskgmV5OCbHSu7y3dHcy"
+    },
+    {
+      "album": {
+        "name": "En Otra Parte",
+        "url": "https://open.spotify.com/album/3TRN62RoTGNXKtKEu2JvxW"
+      },
+      "artists": [
+        {
+          "name": "Leo Brouwer",
+          "url": "https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0"
+        },
+        {
+          "name": "Zs\u00f3fia Boros",
+          "url": "https://open.spotify.com/artist/6T9wLNtkKE8Z5GusLK6v9c"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "An Idea",
+      "url": "https://open.spotify.com/track/1PINN6x0Riouab3wPSglpp"
+    },
+    {
+      "album": {
+        "name": "Bach Concertos",
+        "url": "https://open.spotify.com/album/61b2J7MNTyjenILRadtoK0"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243946,
+      "name": "Bach, JS: Orchestral Suite No. 3 in D Major, BWV 1068: II. Air (Arr. Yang for Guitar)",
+      "url": "https://open.spotify.com/track/7C0LbWtZgDYjmaSuz10AeD"
+    },
+    {
+      "album": {
+        "name": "Bachianinha No. 1 (Arr. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/0y1JGIEV2FBpVJKJHY0k4b"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Nogueira",
+          "url": "https://open.spotify.com/artist/5ReVxzuREWusYE4ovnMbBn"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200917,
+      "name": "Bachianinha No. 1 (Arr. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/1FO2czopUN5qjFzZfXKExk"
+    },
+    {
+      "album": {
+        "name": "El Bohemio - Barrios: Preludio en do menor",
+        "url": "https://open.spotify.com/album/2KTwajQx4QxyI9cDDGiNe4"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Barrios Mangor\u00e9",
+          "url": "https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR"
+        },
+        {
+          "name": "Thibaut Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136893,
+      "name": "Barrios Mangor\u00e9: Preludio en do menor",
+      "url": "https://open.spotify.com/track/7Lyrk6z6Cik8y3zXsEevr5"
+    },
+    {
+      "album": {
+        "name": "Latin-American Music for Guitar",
+        "url": "https://open.spotify.com/album/6mNnvVKDa9EMkRQNBSnbn6"
+      },
+      "artists": [
+        {
+          "name": "Leo Brouwer",
+          "url": "https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0"
+        },
+        {
+          "name": "Vicente Coves",
+          "url": "https://open.spotify.com/artist/4T4Kpco9Elfm3HvFVVLJif"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282573,
+      "name": "Cancion de cuna",
+      "url": "https://open.spotify.com/track/2WfTVYdHjDvFaaVLGN1wEO"
+    },
+    {
+      "album": {
+        "name": "S\u00e1inz de la Maza: Guitar Music",
+        "url": "https://open.spotify.com/album/3rMQ4eOWBraORsb3rCrN2z"
+      },
+      "artists": [
+        {
+          "name": "Regino S\u00e1inz de la Maza",
+          "url": "https://open.spotify.com/artist/4IDnRdiIVKS0ylECWh8t2V"
+        },
+        {
+          "name": "Franz Hal\u00e1sz",
+          "url": "https://open.spotify.com/artist/6u7TanQ3Tv1dx5RmaERfdV"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320026,
+      "name": "Canciones Castellanas",
+      "url": "https://open.spotify.com/track/3KgdTCMN9V5XPX7icisnyf"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Guitar Concertos",
+        "url": "https://open.spotify.com/album/0gAYmLP8jf2qhn3SNVMvy1"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Angel Romero",
+          "url": "https://open.spotify.com/artist/6qqiGoXhL3gjX1QH6MgmdT"
+        },
+        {
+          "name": "Celedonio Romero",
+          "url": "https://open.spotify.com/artist/3MrHF5OuH8MoEuzMI50rUf"
+        },
+        {
+          "name": "Celin Romero",
+          "url": "https://open.spotify.com/artist/2gn4g9mmcTLNbHxTZCJs2n"
+        },
+        {
+          "name": "Pepe Romero",
+          "url": "https://open.spotify.com/artist/2uaXicUC7B0nIKCFaxlTHj"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Concerto for Lute, 2 Violins and Continuo in D Major, RV 93 - Arr. for 4 Guitars: II. Largo",
+      "url": "https://open.spotify.com/track/0g3yuLnrlrpjgLe2xuxm5g"
+    },
+    {
+      "album": {
+        "name": "Concerto in D Minor, BWV 974: II. Adagio (Transc. for Guitar by S\u00e9rgio Assad)",
+        "url": "https://open.spotify.com/album/1a3C7JAEFz40G49hiLef5p"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Pl\u00ednio Fernandes",
+          "url": "https://open.spotify.com/artist/0FK16dJDaoLTqNO9YhawG8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266922,
+      "name": "Concerto in D Minor, BWV 974: II. Adagio (Transc. for Guitar by S\u00e9rgio Assad)",
+      "url": "https://open.spotify.com/track/5oyziYlJvUJIXCm4dK8Ur6"
+    },
+    {
+      "album": {
+        "name": "Dance of the Orient",
+        "url": "https://open.spotify.com/album/3pp4uPI0g7aPrY5uUpdFYK"
+      },
+      "artists": [
+        {
+          "name": "Mark Houghton",
+          "url": "https://open.spotify.com/artist/4Ea5PMxvKtI6BUhrBvzrc4"
+        },
+        {
+          "name": "Xuefei Yang",
+          "url": "https://open.spotify.com/artist/0HTpLUNPRxYfmKRrnluHfq"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260972,
+      "name": "Dance of the Orient",
+      "url": "https://open.spotify.com/track/0gVh7rovZhz00UTwcME08u"
+    },
+    {
+      "album": {
+        "name": "Gitara",
+        "url": "https://open.spotify.com/album/2DKwha77ngWfSgAHmCxplF"
+      },
+      "artists": [
+        {
+          "name": "Ana Vidovi\u0107",
+          "url": "https://open.spotify.com/artist/7yXC9t8JOSJx6TkLZsl4sE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1287146,
+      "name": "Druga Sonata Za Violinu Solo U A-Molu",
+      "url": "https://open.spotify.com/track/3K7YkHqCJHA7OTPvdHeA1i"
+    },
+    {
+      "album": {
+        "name": "Relaxing Guitar for Insomnia, Dreaming and Romance",
+        "url": "https://open.spotify.com/album/720bY37FzXk2RHn7soZuPi"
+      },
+      "artists": [
+        {
+          "name": "Liona Boyd",
+          "url": "https://open.spotify.com/artist/33lm6MIpEXiHzv06MUIUBu"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122245,
+      "name": "El Noy De La Mare",
+      "url": "https://open.spotify.com/track/5nJbq6tLA1tvxV7XA562Kf"
+    },
+    {
+      "album": {
+        "name": "Dreams and Fancies: English Music for Solo Guitar",
+        "url": "https://open.spotify.com/album/7C98BOibMcnelCnpzHm4CH"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Arnold",
+          "url": "https://open.spotify.com/artist/5kM4H3hu2dxxk9erCAZA2e"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123537,
+      "name": "Fantasy for Guitar Op. 107: III. Arietta 1",
+      "url": "https://open.spotify.com/track/5EEYKvwrOhDDKTR2yeaxD7"
+    },
+    {
+      "album": {
+        "name": "Goldberg Variations, BWV 988: XIII. Variation 13 (arr. David Juritz)",
+        "url": "https://open.spotify.com/album/5Qf3KbhDYJF9hcHP9cBtVY"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "David Juritz",
+          "url": "https://open.spotify.com/artist/5Xyu14RdgJeW896p80XDFU"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        },
+        {
+          "name": "Tim Hugh",
+          "url": "https://open.spotify.com/artist/1O6njeMdZ3Jm2lnR9s5lEk"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219136,
+      "name": "Goldberg Variations, BWV 988: XIII. Variation 13 (arr. David Juritz)",
+      "url": "https://open.spotify.com/track/1kYPoC4fHUqj31mC53gB9e"
+    },
+    {
+      "album": {
+        "name": "Isaac Alb\u00e9niz: Spanish Music For Classical Guitar",
+        "url": "https://open.spotify.com/album/4QCQZHWcq0oD9sz6egf992"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302893,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/5S1Nh02afzIgjwYPZSbh6N"
+    },
+    {
+      "album": {
+        "name": "Isaac Alb\u00e9niz: Spanish Music For Classical Guitar",
+        "url": "https://open.spotify.com/album/1PDm57C6SPXg9MNMnOPe5Z"
+      },
+      "artists": [
+        {
+          "name": "Isaac Alb\u00e9niz",
+          "url": "https://open.spotify.com/artist/4sbcjbyksdT4dJ5Lh0SvZp"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302893,
+      "name": "Granada",
+      "url": "https://open.spotify.com/track/5uTkGuNtweBM8i2fIDEQ4Z"
+    },
+    {
+      "album": {
+        "name": "Christopher Parkening: The Great Recordings",
+        "url": "https://open.spotify.com/album/7DwlG60CQDfIVEHam3erNE"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Christopher Parkening",
+          "url": "https://open.spotify.com/artist/2e3OImB8yCNVk1SppFne96"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Gymnopedie No. 1",
+      "url": "https://open.spotify.com/track/3Z5ypKicdExfF37VpnPOps"
+    },
+    {
+      "album": {
+        "name": "Chansons fran\u00e7aises (Paris guitare)",
+        "url": "https://open.spotify.com/album/6Zp3lHvX486zv8iDPeeXR7"
+      },
+      "artists": [
+        {
+          "name": "Roland Dyens",
+          "url": "https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184510,
+      "name": "Hymne \u00e0 l'amour",
+      "url": "https://open.spotify.com/track/7233BUcS5dQ65F2b5pNMXN"
+    },
+    {
+      "album": {
+        "name": "Latin Romances for Guitar",
+        "url": "https://open.spotify.com/album/3NUzY7X9ebHv9lJpQBtIrQ"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        },
+        {
+          "name": "Sharon Isbin",
+          "url": "https://open.spotify.com/artist/3TXeUeBzDNk93uvzr0byAu"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Jobim: Road to the Sun",
+      "url": "https://open.spotify.com/track/6LhNIBQ3c711HIIhwWoFpx"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
+        "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Milo\u0161 Karadagli\u0107",
+          "url": "https://open.spotify.com/artist/7jQSqBxct7Aa8b3GsZFkO4"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215800,
+      "name": "Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
+      "url": "https://open.spotify.com/track/2Imxyb3LiuXsDFo7Gq5YDs"
+    },
+    {
+      "album": {
+        "name": "Classical Guitar Music for Reading and Studying",
+        "url": "https://open.spotify.com/album/0UAfu361s41QtSeGArjPYq"
+      },
+      "artists": [
+        {
+          "name": "William Wilson",
+          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88531,
+      "name": "Lakm\u00e9: Flower Duet",
+      "url": "https://open.spotify.com/track/10RYcLM6seFPApCHvxRoZ7"
+    },
+    {
+      "album": {
+        "name": "Eleven String Baroque",
+        "url": "https://open.spotify.com/album/5PLhV92TFsYvktcyaSVOlj"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "G\u00f6ran S\u00f6llscher",
+          "url": "https://open.spotify.com/artist/5jF2METFutHd3av3ITYTrL"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163733,
+      "name": "Les baricades myst\u00e9rieuses - Arranged By G\u00f6ran S\u00f6llscher",
+      "url": "https://open.spotify.com/track/6sLr7HzQe2xQVhBmhrT3vU"
+    },
+    {
+      "album": {
+        "name": "Romantic Guitar Favourites",
+        "url": "https://open.spotify.com/album/5PLszKT70e0hh9wWR4HOv1"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Gerald Garcia",
+          "url": "https://open.spotify.com/artist/5yVFKMGcxmH6Sy0nyEOQ1u"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Lieder ohne Worte (Songs without Words), Book 1, Op. 19b: Song without Words, Op. 19, No. 6, Venetian Boat Song I",
+      "url": "https://open.spotify.com/track/690jGhkElcf7vNPq0lvYtS"
+    },
+    {
+      "album": {
+        "name": "Romantic Guitar",
+        "url": "https://open.spotify.com/album/0qPOwxdotqb7ODOOzhn5y3"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Julian Bream",
+          "url": "https://open.spotify.com/artist/6vjF8XdNoqVRj5G021FBM6"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123426,
+      "name": "L\u00e1grima",
+      "url": "https://open.spotify.com/track/1aMeBqrCnPf1CzRXlKyNFs"
+    },
+    {
+      "album": {
+        "name": "Cantos y Danzas",
+        "url": "https://open.spotify.com/album/1kvzY07bTwNc2lSSdSYGTF"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Manuel Barrueco",
+          "url": "https://open.spotify.com/artist/2Ji7pIcY1oJeS2tevigVaE"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166533,
+      "name": "Ponce: Estrellita",
+      "url": "https://open.spotify.com/track/1RpfRhBZohSyNWoVaJKC8M"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h"
+      },
+      "artists": [
+        {
+          "name": "Manuel Ponce",
+          "url": "https://open.spotify.com/artist/3sam97auWZppQpYU1HWNxK"
+        },
+        {
+          "name": "Jason Vieaux",
+          "url": "https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197346,
+      "name": "Por ti mi Corazon (version for guitar)",
+      "url": "https://open.spotify.com/track/1CuyfxNWIiewyISCi8rWIk"
+    },
+    {
+      "album": {
+        "name": "Americano",
+        "url": "https://open.spotify.com/album/3TVHDS4WRtLks6XC5ct7E5"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Pablo Sainz Villegas",
+          "url": "https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292640,
+      "name": "Prelude No.1 - Melod\u00eda l\u00edrica",
+      "url": "https://open.spotify.com/track/246kWB3pAv70EQvA6OrTpt"
+    },
+    {
+      "album": {
+        "name": "Debussy, C.: Children's Corner / Piece Pour Le Vetement Du Blesse / Ravel, M.: Ma Mere L'Oye (Arr. for Guitar) (French Impressions) (Gilbraith)",
+        "url": "https://open.spotify.com/album/2QreoeKjIJraazPddIuvVq"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Paul Galbraith",
+          "url": "https://open.spotify.com/artist/1AORP7RPoxyE8dtP8V6Yr5"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153946,
+      "name": "Preludes, Book 1: No. 8. La fille aux cheveux de lin (arr. for guitar)",
+      "url": "https://open.spotify.com/track/3prOOjZVKg5Y8yp4RxIiZY"
+    },
+    {
+      "album": {
+        "name": "Aranjuez",
+        "url": "https://open.spotify.com/album/2K6XjvDKO2HTCDqGZkph9e"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Thibaut Garc\u00eda",
+          "url": "https://open.spotify.com/artist/6ZgXLDSjEsWxgYP8MeLS1t"
+        },
+        {
+          "name": "Ben Glassberg",
+          "url": "https://open.spotify.com/artist/52P7S7AfcrT8ZmHaTWqXaQ"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 640266,
+      "name": "Rodrigo: Concierto de Aranjuez: II. Adagio",
+      "url": "https://open.spotify.com/track/0k6P9cdEA9K3k0ASde2Kof"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Guitar Collection",
+        "url": "https://open.spotify.com/album/7gGDntw1EndFOxhpTWmmQZ"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "John C. Williams",
+          "url": "https://open.spotify.com/artist/6mBYeMZZUhJKEvRXagJYzY"
+        },
+        {
+          "name": "William Goodchild",
+          "url": "https://open.spotify.com/artist/6rdlJExUAyM362j8SH6WG8"
+        },
+        {
+          "name": "String Orchestra",
+          "url": "https://open.spotify.com/artist/2ur2pK3VjH3wAl4tO1eBGG"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Romance (Arr. J. Williams for Guitar & Orchestra)",
+      "url": "https://open.spotify.com/track/6kPqRhYyJuK2jmKGUIjYCZ"
+    },
+    {
+      "album": {
+        "name": "Llobet: Guitar Works (Complete)",
+        "url": "https://open.spotify.com/album/5XzOZZtOhTgL5yFthYxn6Q"
+      },
+      "artists": [
+        {
+          "name": "Miguel Llobet Sol\u00e9s",
+          "url": "https://open.spotify.com/artist/0Ag2rHCb9q0jmQ6Jaj1GUT"
+        },
+        {
+          "name": "Lorenzo Micheli",
+          "url": "https://open.spotify.com/artist/0j7TdouVq0DtMZZRWiwcjq"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309586,
+      "name": "Romanza",
+      "url": "https://open.spotify.com/track/1ezqle0CLSBPjjZcjKhFuh"
+    },
+    {
+      "album": {
+        "name": "Reveries",
+        "url": "https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM"
+      },
+      "artists": [
+        {
+          "name": "Mario Castelnuovo-Tedesco",
+          "url": "https://open.spotify.com/artist/28c3Va3dnSLY1av3ym8XT2"
+        },
+        {
+          "name": "Andr\u00e9s Segovia",
+          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190560,
+      "name": "Ronsard (De Platero y Yo)",
+      "url": "https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY"
+    },
+    {
+      "album": {
+        "name": "Poulenc: Complete Chamber Music",
+        "url": "https://open.spotify.com/album/1wuDEkqo7hR06VieUrIGeB"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166120,
+      "name": "Sarabande for Guitar, FP 179",
+      "url": "https://open.spotify.com/track/57kjlZb922AMJJKWCfpNLl"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+        "url": "https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Sleepers, Awake, BWV 645 (Transcr. for Guitar)",
+      "url": "https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY"
+    },
+    {
+      "album": {
+        "name": "Chitarra Giocosa",
+        "url": "https://open.spotify.com/album/4hsz409ORqBPBdd9BkpzFr"
+      },
+      "artists": [
+        {
+          "name": "Joaqu\u00edn Rodrigo",
+          "url": "https://open.spotify.com/artist/3eqv9LW7ZXlYWXVFjHS4Mr"
+        },
+        {
+          "name": "Marcin Dylla",
+          "url": "https://open.spotify.com/artist/12Wd9ttq7EUbesXRqEGhRB"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259333,
+      "name": "Sonata giocosa: II. Andante moderato",
+      "url": "https://open.spotify.com/track/7lCykZv6dxrbN7p7GbKxMz"
+    },
+    {
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/0YRcR0lcnYBZcGrCML3O9h"
+      },
+      "artists": [
+        {
+          "name": "Stanley Myers",
+          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+        },
+        {
+          "name": "Jason Vieaux",
+          "url": "https://open.spotify.com/artist/0wHPFvTTjnGMQ6bvUn2KlO"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225693,
+      "name": "The Deer Hunter: Cavatina",
+      "url": "https://open.spotify.com/track/0OjeJ8wBPo0AYTMbFp1QBI"
+    },
+    {
+      "album": {
+        "name": "Mister Dowland's Midnight",
+        "url": "https://open.spotify.com/album/57ywLala59SjhhaFuqHiNd"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Christoph Denoth",
+          "url": "https://open.spotify.com/artist/4mROVpgaeFTNmKG7dpsg8B"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130266,
+      "name": "The Frog Galliard",
+      "url": "https://open.spotify.com/track/3vAlgcCLgVr6VpYzIdwffA"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier / Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
+        "url": "https://open.spotify.com/album/5NZeobdPF0gjjynPpSLf3d"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rapha\u00ebl Feuill\u00e2tre",
+          "url": "https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115946,
+      "name": "The Well-Tempered Clavier, Book 1, BWV 846-869 / Prelude & Fugue in C Major, BWV 846: I. Prelude (Transcr. for Guitar)",
+      "url": "https://open.spotify.com/track/79TcGoLB19MBED0O2YZLtn"
+    },
+    {
+      "album": {
+        "name": "LAGQ",
+        "url": "https://open.spotify.com/album/0I5t5uzRPaDKjYdj2dowcO"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Los Angeles Guitar Quartet",
+          "url": "https://open.spotify.com/artist/6HNEnXVjt13cvaZ9HN4tu5"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "The Yellow Cake Review, Farewell to Stromness (Excerpt)",
+      "url": "https://open.spotify.com/track/4rFxf3jRHH8YoOEh7opTli"
+    },
+    {
+      "album": {
+        "name": "Thibault Cauvin",
+        "url": "https://open.spotify.com/album/3xh9nAAn1jntzf6phXqYcG"
+      },
+      "artists": [
+        {
+          "name": "Leo Brouwer",
+          "url": "https://open.spotify.com/artist/4PdumqEAuo2EQzukVWnxa0"
+        },
+        {
+          "name": "Thibault Cauvin",
+          "url": "https://open.spotify.com/artist/6d81rjlV6r9u8qPMAjavRV"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266013,
+      "name": "Un Dia de Noviembre",
+      "url": "https://open.spotify.com/track/4Cpv0VEkedN82bUfShsifl"
+    },
+    {
+      "album": {
+        "name": "Sor & Giuliani: Works for Guitar",
+        "url": "https://open.spotify.com/album/45jaogtlNFDDF9kkwNdA1w"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Roland Dyens",
+          "url": "https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 566293,
+      "name": "Variations on a Theme by Handel, Op. 107",
+      "url": "https://open.spotify.com/track/5AGKNyF81mGvIvzR66Rpko"
+    },
+    {
+      "album": {
+        "name": "Sor & Giuliani: Works for Guitar",
+        "url": "https://open.spotify.com/album/3SIyzWpwfd34roLBguutqB"
+      },
+      "artists": [
+        {
+          "name": "Mauro Giuliani",
+          "url": "https://open.spotify.com/artist/4qXtGiJP51BsAIi4bJNeir"
+        },
+        {
+          "name": "Roland Dyens",
+          "url": "https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566293,
+      "name": "Variazioni su un tema di Handel, Op. 107",
+      "url": "https://open.spotify.com/track/2U8txmAISucM2Q52xo8Ldq"
+    },
+    {
+      "album": {
+        "name": "The Grandeur Of The Baroque",
+        "url": "https://open.spotify.com/album/4Q3uvTgHlRz2ZAcDCEtcnA"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "David Russell",
+          "url": "https://open.spotify.com/artist/1Ni1doOFD6ATODkZJSRT70"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276400,
+      "name": "Vingt-Sixi\u00e9me Ordre - L'Epineuse",
+      "url": "https://open.spotify.com/track/6xUzJQQCGnUExqTlUaGHXo"
+    },
+    {
+      "album": {
+        "name": "Ogden, Craig: Guitar Meditations",
+        "url": "https://open.spotify.com/album/4RtyjZv9GmdOMRDGTHd87V"
+      },
+      "artists": [
+        {
+          "name": "Takashi Yoshimatsu",
+          "url": "https://open.spotify.com/artist/1l5ZTaHQFvNzEiP5rZ4Zat"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        }
+      ],
+      "date_added": "2021-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297360,
+      "name": "Wind color Vector, Op. 48: I. Leeward",
+      "url": "https://open.spotify.com/track/2Umz720ywwrJCewAX9Rysd"
+    },
+    {
+      "album": {
+        "name": "Craig Ogden: Guitar Meditations",
+        "url": "https://open.spotify.com/album/6rMWH2ggzYHo9yvRVC62vj"
+      },
+      "artists": [
+        {
+          "name": "Takashi Yoshimatsu",
+          "url": "https://open.spotify.com/artist/1l5ZTaHQFvNzEiP5rZ4Zat"
+        },
+        {
+          "name": "Craig Ogden",
+          "url": "https://open.spotify.com/artist/07pZelCNTBK93CD474588Q"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297000,
+      "name": "Wind Color Vector: I. Leeward",
+      "url": "https://open.spotify.com/track/69eTjfaXWJgapw4jMxCcTs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXBq4mDDFnfA"
 }

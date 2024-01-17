@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,371 likes - 21 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,904 likes - 21 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

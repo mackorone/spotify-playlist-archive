@@ -1,731 +1,697 @@
 {
-  "2021-12-29": 11155,
-  "2021-12-30": 11163,
-  "2021-12-31": 11172,
-  "2022-01-01": 11186,
-  "2022-01-02": 11189,
-  "2022-01-03": 11197,
-  "2022-01-04": 11201,
-  "2022-01-05": 11205,
-  "2022-01-06": 11209,
-  "2022-01-07": 11212,
-  "2022-01-08": 11229,
-  "2022-01-09": 11229,
-  "2022-01-10": 11232,
-  "2022-01-11": 11232,
-  "2022-01-12": 11233,
-  "2022-01-13": 11233,
-  "2022-01-14": 11233,
-  "2022-01-15": 11233,
-  "2022-01-16": 11233,
-  "2022-01-17": 11233,
-  "2022-01-18": 11233,
-  "2022-01-19": 11233,
-  "2022-01-20": 11233,
-  "2022-01-21": 11233,
-  "2022-01-22": 11233,
-  "2022-01-23": 11233,
-  "2022-01-24": 11233,
-  "2022-01-25": 11233,
-  "2022-01-26": 11233,
-  "2022-01-27": 11233,
-  "2022-01-28": 11233,
-  "2022-01-29": 11233,
-  "2022-01-30": 11233,
-  "2022-01-31": 11233,
-  "2022-02-01": 11233,
-  "2022-02-02": 11233,
-  "2022-02-03": 11233,
-  "2022-02-04": 11233,
-  "2022-02-05": 11233,
-  "2022-02-06": 11233,
-  "2022-02-07": 11233,
-  "2022-02-08": 11233,
-  "2022-02-09": 11233,
-  "2022-02-10": 11233,
-  "2022-02-11": 11233,
-  "2022-02-12": 11233,
-  "2022-02-13": 11233,
-  "2022-02-14": 11233,
-  "2022-02-15": 11233,
-  "2022-02-16": 11233,
-  "2022-02-17": 11233,
-  "2022-02-18": 11233,
-  "2022-02-19": 11233,
-  "2022-02-20": 11233,
-  "2022-02-21": 11233,
-  "2022-02-22": 11233,
-  "2022-02-23": 11233,
-  "2022-02-24": 11233,
-  "2022-02-25": 11233,
-  "2022-02-26": 11233,
-  "2022-02-27": 11233,
-  "2022-02-28": 11233,
-  "2022-03-01": 11233,
-  "2022-03-02": 11233,
-  "2022-03-03": 11233,
-  "2022-03-04": 11233,
-  "2022-03-05": 11233,
-  "2022-03-06": 11233,
-  "2022-03-07": 11233,
-  "2022-03-08": 11233,
-  "2022-03-09": 11233,
-  "2022-03-10": 11233,
-  "2022-03-11": 11233,
-  "2022-03-12": 11233,
-  "2022-03-13": 11233,
-  "2022-03-14": 11233,
-  "2022-03-15": 11233,
-  "2022-03-16": 11233,
-  "2022-03-17": 11233,
-  "2022-03-18": 11233,
-  "2022-03-19": 11233,
-  "2022-03-20": 11233,
-  "2022-03-21": 11233,
-  "2022-03-22": 11233,
-  "2022-03-23": 11233,
-  "2022-03-24": 11233,
-  "2022-03-25": 11233,
-  "2022-03-26": 11233,
-  "2022-03-27": 11233,
-  "2022-03-28": 11233,
-  "2022-03-30": 11233,
-  "2022-03-31": 11233,
-  "2022-04-01": 11233,
-  "2022-04-02": 11233,
-  "2022-04-03": 11233,
-  "2022-04-04": 11233,
-  "2022-04-05": 11233,
-  "2022-04-06": 11233,
-  "2022-04-07": 11233,
-  "2022-04-08": 11233,
-  "2022-04-09": 11233,
-  "2022-04-10": 11233,
-  "2022-04-11": 11233,
-  "2022-04-12": 11233,
-  "2022-04-13": 11233,
-  "2022-04-14": 11233,
-  "2022-04-15": 11233,
-  "2022-04-16": 11233,
-  "2022-04-17": 11233,
-  "2022-04-18": 11233,
-  "2022-04-19": 11233,
-  "2022-04-20": 11233,
-  "2022-04-21": 11233,
-  "2022-04-22": 11233,
-  "2022-04-23": 11233,
-  "2022-04-24": 11233,
-  "2022-04-25": 11233,
-  "2022-04-26": 11233,
-  "2022-04-27": 11233,
-  "2022-04-28": 11233,
-  "2022-04-29": 11233,
-  "2022-04-30": 11233,
-  "2022-05-01": 11233,
-  "2022-05-02": 11233,
-  "2022-05-03": 11233,
-  "2022-05-04": 11233,
-  "2022-05-05": 11233,
-  "2022-05-06": 11233,
-  "2022-05-07": 11233,
-  "2022-05-08": 11233,
-  "2022-05-09": 11233,
-  "2022-05-10": 11233,
-  "2022-05-11": 11233,
-  "2022-05-12": 11233,
-  "2022-05-13": 11233,
-  "2022-05-14": 11233,
-  "2022-05-15": 11233,
-  "2022-05-16": 11233,
-  "2022-05-17": 11233,
-  "2022-05-18": 11233,
-  "2022-05-19": 11233,
-  "2022-05-20": 11233,
-  "2022-05-21": 11233,
-  "2022-05-22": 11233,
-  "2022-05-23": 11233,
-  "2022-05-24": 11233,
-  "2022-05-25": 11233,
-  "2022-05-26": 11233,
-  "2022-05-27": 11233,
-  "2022-05-28": 11233,
-  "2022-05-29": 11233,
-  "2022-05-30": 11233,
-  "2022-05-31": 11233,
-  "2022-06-01": 11233,
-  "2022-06-02": 11233,
-  "2022-06-03": 11233,
-  "2022-06-04": 11233,
-  "2022-06-05": 11233,
-  "2022-06-06": 11233,
-  "2022-06-07": 11233,
-  "2022-06-08": 11233,
-  "2022-06-09": 11233,
-  "2022-06-10": 11233,
-  "2022-06-11": 11233,
-  "2022-06-12": 11233,
-  "2022-06-13": 11233,
-  "2022-06-14": 11233,
-  "2022-06-15": 11233,
-  "2022-06-16": 11233,
-  "2022-06-17": 11233,
-  "2022-06-18": 11233,
-  "2022-06-19": 11233,
-  "2022-06-20": 11233,
-  "2022-06-21": 11233,
-  "2022-06-22": 11233,
-  "2022-06-23": 11233,
-  "2022-06-24": 11233,
-  "2022-06-25": 11233,
-  "2022-06-26": 11233,
-  "2022-06-27": 11233,
-  "2022-06-28": 11233,
-  "2022-06-29": 11233,
-  "2022-06-30": 11233,
-  "2022-07-01": 11233,
-  "2022-07-02": 11233,
-  "2022-07-03": 11233,
-  "2022-07-04": 11233,
-  "2022-07-05": 11233,
-  "2022-07-06": 11233,
-  "2022-07-07": 11233,
-  "2022-07-08": 11233,
-  "2022-07-09": 11233,
-  "2022-07-10": 11233,
-  "2022-07-11": 11233,
-  "2022-07-12": 11233,
-  "2022-07-13": 11233,
-  "2022-07-14": 11233,
-  "2022-07-15": 11233,
-  "2022-07-16": 11233,
-  "2022-07-17": 11233,
-  "2022-07-18": 11233,
-  "2022-07-19": 11233,
-  "2022-07-20": 11233,
-  "2022-07-21": 11233,
-  "2022-07-22": 11233,
-  "2022-07-23": 11233,
-  "2022-07-24": 11233,
-  "2022-07-25": 11233,
-  "2022-07-26": 11233,
-  "2022-07-27": 11233,
-  "2022-07-28": 11233,
-  "2022-07-29": 11233,
-  "2022-07-30": 11233,
-  "2022-07-31": 11233,
-  "2022-08-01": 11233,
-  "2022-08-02": 11233,
-  "2022-08-03": 11233,
-  "2022-08-04": 11233,
-  "2022-08-05": 11233,
-  "2022-08-06": 11233,
-  "2022-08-07": 11233,
-  "2022-08-08": 11233,
-  "2022-08-09": 11233,
-  "2022-08-10": 11233,
-  "2022-08-11": 11233,
-  "2022-08-12": 11233,
-  "2022-08-13": 11233,
-  "2022-08-14": 11233,
-  "2022-08-15": 11233,
-  "2022-08-16": 11233,
-  "2022-08-17": 11233,
-  "2022-08-18": 11233,
-  "2022-08-19": 11233,
-  "2022-08-20": 11233,
-  "2022-08-21": 11233,
-  "2022-08-22": 11233,
-  "2022-08-23": 11233,
-  "2022-08-24": 11233,
-  "2022-08-25": 11233,
-  "2022-08-26": 11233,
-  "2022-08-27": 11233,
-  "2022-08-28": 11233,
-  "2022-08-29": 11233,
-  "2022-08-30": 11233,
-  "2022-08-31": 11233,
-  "2022-09-01": 11233,
-  "2022-09-02": 11233,
-  "2022-09-03": 11233,
-  "2022-09-04": 11233,
-  "2022-09-05": 11233,
-  "2022-09-06": 11233,
-  "2022-09-07": 11233,
-  "2022-09-09": 11233,
-  "2022-09-10": 11233,
-  "2022-09-11": 11233,
-  "2022-09-12": 11233,
-  "2022-09-13": 11233,
-  "2022-09-15": 11233,
-  "2022-09-16": 11233,
-  "2022-09-17": 11233,
-  "2022-09-18": 11233,
-  "2022-09-19": 11233,
-  "2022-09-20": 11233,
-  "2022-09-21": 11233,
-  "2022-09-22": 11233,
-  "2022-09-23": 11233,
-  "2022-09-24": 11233,
-  "2022-09-25": 11233,
-  "2022-09-26": 11233,
-  "2022-09-27": 11233,
-  "2022-09-28": 11233,
-  "2022-09-29": 11233,
-  "2022-09-30": 11233,
-  "2022-10-01": 11233,
-  "2022-10-02": 11233,
-  "2022-10-03": 11233,
-  "2022-10-04": 11233,
-  "2022-10-05": 11233,
-  "2022-10-06": 11233,
-  "2022-10-07": 11233,
-  "2022-10-08": 11233,
-  "2022-10-09": 11233,
-  "2022-10-10": 11233,
-  "2022-10-11": 11233,
-  "2022-10-12": 11233,
-  "2022-10-13": 11233,
-  "2022-10-14": 11233,
-  "2022-10-15": 11233,
-  "2022-10-16": 11233,
-  "2022-10-17": 11233,
-  "2022-10-18": 11233,
-  "2022-10-19": 11233,
-  "2022-10-20": 11233,
-  "2022-10-21": 11233,
-  "2022-10-22": 11233,
-  "2022-10-23": 11233,
-  "2022-10-24": 11233,
-  "2022-10-25": 11233,
-  "2022-10-26": 11233,
-  "2022-10-27": 11233,
-  "2022-10-28": 11233,
-  "2022-10-29": 11233,
-  "2022-10-30": 11233,
-  "2022-10-31": 11233,
-  "2022-11-01": 11233,
-  "2022-11-02": 11233,
-  "2022-11-03": 11233,
-  "2022-11-04": 11233,
-  "2022-11-05": 11233,
-  "2022-11-06": 11233,
-  "2022-11-07": 11233,
-  "2022-11-08": 11233,
-  "2022-11-09": 11233,
-  "2022-11-10": 11233,
-  "2022-11-11": 11233,
-  "2022-11-12": 11233,
-  "2022-11-13": 11233,
-  "2022-11-14": 11233,
-  "2022-11-15": 11233,
-  "2022-11-16": 11233,
-  "2022-11-17": 11233,
-  "2022-11-18": 11233,
-  "2022-11-19": 11233,
-  "2022-11-20": 11233,
-  "2022-11-21": 11233,
-  "2022-11-22": 11233,
-  "2022-11-23": 11233,
-  "2022-11-24": 11233,
-  "2022-11-25": 11233,
-  "2022-11-26": 11233,
-  "2022-11-27": 11233,
-  "2022-11-28": 11233,
-  "2022-11-29": 11233,
-  "2022-11-30": 11233,
-  "2022-12-01": 11233,
-  "2022-12-02": 11233,
-  "2022-12-03": 11233,
-  "2022-12-04": 11233,
-  "2022-12-05": 11233,
-  "2022-12-06": 11233,
-  "2022-12-07": 11233,
-  "2022-12-08": 11233,
-  "2022-12-09": 11233,
-  "2022-12-10": 11233,
-  "2022-12-11": 11233,
-  "2022-12-12": 11233,
-  "2022-12-13": 11233,
-  "2022-12-14": 11233,
-  "2022-12-15": 11233,
-  "2022-12-16": 11233,
-  "2022-12-17": 11233,
-  "2022-12-18": 11233,
-  "2022-12-19": 11233,
-  "2022-12-20": 11233,
-  "2022-12-21": 11233,
-  "2022-12-22": 11233,
-  "2022-12-24": 11233,
-  "2022-12-25": 11233,
-  "2022-12-26": 11233,
-  "2022-12-27": 11233,
-  "2022-12-28": 11233,
-  "2022-12-29": 11233,
-  "2022-12-30": 11233,
-  "2022-12-31": 11233,
-  "2023-01-01": 11233,
-  "2023-01-02": 11233,
-  "2023-01-03": 11233,
-  "2023-01-04": 11233,
-  "2023-01-05": 11233,
-  "2023-01-06": 11233,
-  "2023-01-07": 11233,
-  "2023-01-08": 11233,
-  "2023-01-09": 11233,
-  "2023-01-10": 11233,
-  "2023-01-11": 11233,
-  "2023-01-12": 11233,
-  "2023-01-13": 11233,
-  "2023-01-14": 11233,
-  "2023-01-15": 11233,
-  "2023-01-16": 11233,
-  "2023-01-17": 11233,
-  "2023-01-18": 11233,
-  "2023-01-19": 11233,
-  "2023-01-20": 11233,
-  "2023-01-21": 11233,
-  "2023-01-22": 11233,
-  "2023-01-23": 11233,
-  "2023-01-24": 11233,
-  "2023-01-25": 11233,
-  "2023-01-26": 11233,
-  "2023-01-27": 11233,
-  "2023-01-28": 11233,
-  "2023-01-29": 11233,
-  "2023-01-30": 11233,
-  "2023-01-31": 11233,
-  "2023-02-01": 11233,
-  "2023-02-02": 11233,
-  "2023-02-03": 11233,
-  "2023-02-04": 11233,
-  "2023-02-05": 11233,
-  "2023-02-06": 11233,
-  "2023-02-07": 11233,
-  "2023-02-08": 11233,
-  "2023-02-09": 11233,
-  "2023-02-10": 11233,
-  "2023-02-11": 11233,
-  "2023-02-12": 11233,
-  "2023-02-13": 11233,
-  "2023-02-14": 11233,
-  "2023-02-15": 11233,
-  "2023-02-16": 11233,
-  "2023-02-17": 11233,
-  "2023-02-18": 11233,
-  "2023-02-19": 11233,
-  "2023-02-20": 11233,
-  "2023-02-21": 11233,
-  "2023-02-22": 11233,
-  "2023-02-23": 11233,
-  "2023-02-24": 11233,
-  "2023-02-25": 11233,
-  "2023-02-26": 11233,
-  "2023-02-27": 11233,
-  "2023-02-28": 11233,
-  "2023-03-01": 11233,
-  "2023-03-02": 11233,
-  "2023-03-03": 11233,
-  "2023-03-04": 11233,
-  "2023-03-05": 11233,
-  "2023-03-06": 11233,
-  "2023-03-07": 11233,
-  "2023-03-08": 11233,
-  "2023-03-09": 11233,
-  "2023-03-10": 11233,
-  "2023-03-11": 11233,
-  "2023-03-12": 11233,
-  "2023-03-13": 11233,
-  "2023-03-14": 11233,
-  "2023-03-15": 11233,
-  "2023-03-16": 11233,
-  "2023-03-17": 11233,
-  "2023-03-18": 11233,
-  "2023-03-19": 11233,
-  "2023-03-20": 11233,
-  "2023-03-21": 11233,
-  "2023-03-22": 11233,
-  "2023-03-23": 11233,
-  "2023-03-24": 11233,
-  "2023-03-25": 11233,
-  "2023-03-26": 11233,
-  "2023-03-27": 11233,
-  "2023-03-28": 11233,
-  "2023-03-29": 11233,
-  "2023-03-30": 11233,
-  "2023-03-31": 11233,
-  "2023-04-01": 11233,
-  "2023-04-02": 11233,
-  "2023-04-03": 11233,
-  "2023-04-04": 11233,
-  "2023-04-05": 11233,
-  "2023-04-06": 11233,
-  "2023-04-07": 11233,
-  "2023-04-09": 11233,
-  "2023-04-10": 11233,
-  "2023-04-11": 11233,
-  "2023-04-12": 11233,
-  "2023-04-13": 11233,
-  "2023-04-14": 11233,
-  "2023-04-15": 11233,
-  "2023-04-16": 11233,
-  "2023-04-17": 11233,
-  "2023-04-18": 11233,
-  "2023-04-19": 11233,
-  "2023-04-20": 11233,
-  "2023-04-21": 11233,
-  "2023-04-22": 11233,
-  "2023-04-23": 11233,
-  "2023-04-24": 11233,
-  "2023-04-25": 11233,
-  "2023-04-26": 11233,
-  "2023-04-27": 11233,
-  "2023-04-28": 11233,
-  "2023-04-29": 11233,
-  "2023-04-30": 11233,
-  "2023-05-01": 11233,
-  "2023-05-02": 11233,
-  "2023-05-03": 11233,
-  "2023-05-04": 11233,
-  "2023-05-05": 11233,
-  "2023-05-06": 11233,
-  "2023-05-07": 11233,
-  "2023-05-08": 11233,
-  "2023-05-09": 11233,
-  "2023-05-10": 11233,
-  "2023-05-11": 11233,
-  "2023-05-12": 11233,
-  "2023-05-13": 11233,
-  "2023-05-14": 11233,
-  "2023-05-15": 11233,
-  "2023-05-16": 11233,
-  "2023-05-17": 11233,
-  "2023-05-18": 11233,
-  "2023-05-19": 11233,
-  "2023-05-20": 11233,
-  "2023-05-21": 11233,
-  "2023-05-22": 11233,
-  "2023-05-23": 11233,
-  "2023-05-24": 11233,
-  "2023-05-25": 11233,
-  "2023-05-26": 11233,
-  "2023-05-27": 11233,
-  "2023-05-28": 11233,
-  "2023-05-29": 11233,
-  "2023-05-30": 11233,
-  "2023-05-31": 11233,
-  "2023-06-01": 11233,
-  "2023-06-02": 11233,
-  "2023-06-03": 11233,
-  "2023-06-04": 11233,
-  "2023-06-05": 11233,
-  "2023-06-06": 11233,
-  "2023-06-07": 11233,
-  "2023-06-08": 11233,
-  "2023-06-09": 11233,
-  "2023-06-10": 11233,
-  "2023-06-11": 11233,
-  "2023-06-12": 11233,
-  "2023-06-13": 11233,
-  "2023-06-14": 11233,
-  "2023-06-15": 11233,
-  "2023-06-16": 11233,
-  "2023-06-17": 11233,
-  "2023-06-18": 11233,
-  "2023-06-19": 11233,
-  "2023-06-20": 11233,
-  "2023-06-21": 11233,
-  "2023-06-22": 11233,
-  "2023-06-23": 11233,
-  "2023-06-24": 11233,
-  "2023-06-25": 11233,
-  "2023-06-26": 11233,
-  "2023-06-27": 11233,
-  "2023-06-28": 11233,
-  "2023-06-29": 11233,
-  "2023-06-30": 11233,
-  "2023-07-01": 11233,
-  "2023-07-02": 11233,
-  "2023-07-03": 11233,
-  "2023-07-04": 11233,
-  "2023-07-05": 11233,
-  "2023-07-06": 11233,
-  "2023-07-07": 11233,
-  "2023-07-08": 11233,
-  "2023-07-09": 11233,
-  "2023-07-10": 11233,
-  "2023-07-11": 11233,
-  "2023-07-12": 11233,
-  "2023-07-13": 11233,
-  "2023-07-14": 11233,
-  "2023-07-15": 11233,
-  "2023-07-16": 11233,
-  "2023-07-17": 11233,
-  "2023-07-18": 11233,
-  "2023-07-19": 11233,
-  "2023-07-20": 11233,
-  "2023-07-21": 11233,
-  "2023-07-22": 11233,
-  "2023-07-23": 11233,
-  "2023-07-24": 11233,
-  "2023-07-25": 11233,
-  "2023-07-26": 11233,
-  "2023-07-27": 11233,
-  "2023-07-28": 11233,
-  "2023-07-29": 11233,
-  "2023-07-30": 11233,
-  "2023-07-31": 11233,
-  "2023-08-01": 11233,
-  "2023-08-02": 11233,
-  "2023-08-03": 11233,
-  "2023-08-04": 11233,
-  "2023-08-05": 11233,
-  "2023-08-06": 11233,
-  "2023-08-07": 11233,
-  "2023-08-08": 11233,
-  "2023-08-09": 11233,
-  "2023-08-10": 11233,
-  "2023-08-11": 11233,
-  "2023-08-12": 11233,
-  "2023-08-13": 11233,
-  "2023-08-14": 11233,
-  "2023-08-15": 11233,
-  "2023-08-16": 11233,
-  "2023-08-17": 11233,
-  "2023-08-18": 11233,
-  "2023-08-19": 11233,
-  "2023-08-20": 11233,
-  "2023-08-21": 11233,
-  "2023-08-22": 11233,
-  "2023-08-23": 11233,
-  "2023-08-24": 11233,
-  "2023-08-25": 11233,
-  "2023-08-26": 11233,
-  "2023-08-27": 11233,
-  "2023-08-28": 11233,
-  "2023-08-29": 11233,
-  "2023-08-30": 11233,
-  "2023-08-31": 11233,
-  "2023-09-01": 11233,
-  "2023-09-02": 11233,
-  "2023-09-03": 11233,
-  "2023-09-04": 11233,
-  "2023-09-05": 11233,
-  "2023-09-06": 11233,
-  "2023-09-07": 11233,
-  "2023-09-08": 11233,
-  "2023-09-09": 11233,
-  "2023-09-10": 11233,
-  "2023-09-11": 11233,
-  "2023-09-12": 11233,
-  "2023-09-13": 11233,
-  "2023-09-14": 11233,
-  "2023-09-15": 11233,
-  "2023-09-16": 11233,
-  "2023-09-17": 11233,
-  "2023-09-18": 11233,
-  "2023-09-19": 11233,
-  "2023-09-20": 11233,
-  "2023-09-21": 11233,
-  "2023-09-22": 11233,
-  "2023-09-23": 11233,
-  "2023-09-24": 11233,
-  "2023-09-25": 11233,
-  "2023-09-26": 11233,
-  "2023-09-27": 11233,
-  "2023-09-28": 11233,
-  "2023-09-29": 11233,
-  "2023-09-30": 11233,
-  "2023-10-01": 11233,
-  "2023-10-02": 11233,
-  "2023-10-03": 11233,
-  "2023-10-04": 11233,
-  "2023-10-05": 11233,
-  "2023-10-06": 11233,
-  "2023-10-07": 11233,
-  "2023-10-08": 11233,
-  "2023-10-09": 11233,
-  "2023-10-10": 11233,
-  "2023-10-11": 11233,
-  "2023-10-12": 11233,
-  "2023-10-13": 11233,
-  "2023-10-14": 11233,
-  "2023-10-15": 11233,
-  "2023-10-16": 11233,
-  "2023-10-17": 11233,
-  "2023-10-18": 11233,
-  "2023-10-19": 11233,
-  "2023-10-20": 11233,
-  "2023-10-21": 11233,
-  "2023-10-22": 11233,
-  "2023-10-23": 11233,
-  "2023-10-24": 11233,
-  "2023-10-25": 11233,
-  "2023-10-26": 11233,
-  "2023-10-27": 11233,
-  "2023-10-28": 11233,
-  "2023-10-29": 11233,
-  "2023-10-30": 11233,
-  "2023-10-31": 11233,
-  "2023-11-01": 11233,
-  "2023-11-02": 11233,
-  "2023-11-03": 11233,
-  "2023-11-04": 11233,
-  "2023-11-05": 11233,
-  "2023-11-06": 11233,
-  "2023-11-07": 11233,
-  "2023-11-08": 11233,
-  "2023-11-09": 11233,
-  "2023-11-10": 11233,
-  "2023-11-11": 11233,
-  "2023-11-12": 11233,
-  "2023-11-13": 11233,
-  "2023-11-14": 11233,
-  "2023-11-15": 11233,
-  "2023-11-16": 11233,
-  "2023-11-17": 11233,
-  "2023-11-18": 11233,
-  "2023-11-19": 11233,
-  "2023-11-20": 11233,
-  "2023-11-21": 11233,
-  "2023-11-22": 11233,
-  "2023-11-23": 11233,
-  "2023-11-24": 11233,
-  "2023-11-25": 11233,
-  "2023-11-26": 11233,
-  "2023-11-27": 11233,
-  "2023-11-28": 11233,
-  "2023-11-29": 11233,
-  "2023-11-30": 11233,
-  "2023-12-01": 11233,
-  "2023-12-02": 11233,
-  "2023-12-03": 11233,
-  "2023-12-04": 11233,
-  "2023-12-05": 11233,
-  "2023-12-06": 11233,
-  "2023-12-07": 11233,
-  "2023-12-08": 11233,
-  "2023-12-09": 11233,
-  "2023-12-10": 11233,
-  "2023-12-11": 11233,
-  "2023-12-12": 11233,
-  "2023-12-13": 11233,
-  "2023-12-14": 11233,
-  "2023-12-15": 11233,
-  "2023-12-16": 11233,
-  "2023-12-17": 11233,
-  "2023-12-18": 11233,
-  "2023-12-19": 11233,
-  "2023-12-20": 11233,
-  "2023-12-21": 11233,
-  "2023-12-22": 11233,
-  "2023-12-23": 11233,
-  "2023-12-24": 11233,
-  "2023-12-25": 11233,
-  "2023-12-26": 11233,
-  "2023-12-27": 11233,
-  "2023-12-30": 11233,
-  "2023-12-31": 11233,
-  "2024-01-01": 11233,
-  "2024-01-02": 11233,
-  "2024-01-03": 11233
+  "2024-01-17": 11233,
+  "date_first_scraped": "2021-12-29",
+  "description": "In memory of the South African jazz pioneer (1939\u20132018).",
+  "name": "This Is Hugh Masekela",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2Ubm26bDPar5pEM0wsajZt"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302693,
+      "name": "Abangoma (The Healers)",
+      "url": "https://open.spotify.com/track/44QaU861OUsxD6fBJ0hzDT"
+    },
+    {
+      "album": {
+        "name": "Presents the Chissa Years 1965-1975",
+        "url": "https://open.spotify.com/album/3kAccw0xfJEIayWAiyvKI4"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Ojah",
+          "url": "https://open.spotify.com/artist/4rdXJh5pnHQxhvmlCPJKwp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407160,
+      "name": "Afro Beat Blues (Feat. Ojah)",
+      "url": "https://open.spotify.com/track/4Ua2SU25r2XCnT8CpmYAyM"
+    },
+    {
+      "album": {
+        "name": "Still Grazing",
+        "url": "https://open.spotify.com/album/1Fu67AET7JzPJZSspXMCWZ"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239426,
+      "name": "Been Such A Long Time Gone",
+      "url": "https://open.spotify.com/track/4wG28SEzjz5yEVDJ0d7fi0"
+    },
+    {
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285026,
+      "name": "Bring Him Back Home (Nelson Mandela)",
+      "url": "https://open.spotify.com/track/7jXFz9TJBLQ8FcVWMtg2G5"
+    },
+    {
+      "album": {
+        "name": "Grazing In The Grass: The Best Of Hugh Masekela",
+        "url": "https://open.spotify.com/album/35YSmtpQl7AQKr39nMDKD9"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377360,
+      "name": "Chileshe",
+      "url": "https://open.spotify.com/track/0g9NniRmRTQsCVHMST0Z4H"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3tVXsHKwCoQqCgisln9vMY"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Colonial Man",
+      "url": "https://open.spotify.com/track/3BfQjJnJmsloA8hUhkIda0"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5aToAoOFpCP6cETb803Fmz"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419240,
+      "name": "Conchita",
+      "url": "https://open.spotify.com/track/23EuI1z7Gffmb7ez8n61tq"
+    },
+    {
+      "album": {
+        "name": "Grazing In The Grass: The Best Of Hugh Masekela",
+        "url": "https://open.spotify.com/album/35YSmtpQl7AQKr39nMDKD9"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410973,
+      "name": "Don't Go Lose It Baby",
+      "url": "https://open.spotify.com/track/6OmycgKSlz5VDri540KrIc"
+    },
+    {
+      "album": {
+        "name": "Grazing In The Grass: The Best Of Hugh Masekela",
+        "url": "https://open.spotify.com/album/35YSmtpQl7AQKr39nMDKD9"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174066,
+      "name": "Grazing In The Grass",
+      "url": "https://open.spotify.com/track/4ewr2YZx2pXsxDTC4mWFob"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5aToAoOFpCP6cETb803Fmz"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Happy Mama",
+      "url": "https://open.spotify.com/track/37FRVlc63dOOmmdBZoIK5A"
+    },
+    {
+      "album": {
+        "name": "Grazing In The Grass: The Best Of Hugh Masekela",
+        "url": "https://open.spotify.com/album/35YSmtpQl7AQKr39nMDKD9"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315733,
+      "name": "Khauleza",
+      "url": "https://open.spotify.com/track/2HjZB3cdvHytvCyECaKzpH"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2Ubm26bDPar5pEM0wsajZt"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422360,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/1zCRcycmVgz6Mq1MO67n5N"
+    },
+    {
+      "album": {
+        "name": "Presents the Chissa Years 1965-1975",
+        "url": "https://open.spotify.com/album/3kAccw0xfJEIayWAiyvKI4"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Letta Mbulu",
+          "url": "https://open.spotify.com/artist/7iwwcDXXToUdUoDYP70EA0"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268506,
+      "name": "Mahlalela (Feat. Letta Mbulu)",
+      "url": "https://open.spotify.com/track/79vn8aL5iSKxAfJL0rRHIw"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2bEh6USdBs2EIUopY19TdG"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346240,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6E3tTH2pCrECZKTUulcyI5"
+    },
+    {
+      "album": {
+        "name": "Im Ghetto von Soweto (Auntie's House)",
+        "url": "https://open.spotify.com/album/5cKVJDGTZYzdkpUx43rZNF"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157240,
+      "name": "Mamani",
+      "url": "https://open.spotify.com/track/6pho1AoUYje8KbVbUc2R1Q"
+    },
+    {
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351240,
+      "name": "Market Place",
+      "url": "https://open.spotify.com/track/7k5NirlwBKs4LimkoYW444"
+    },
+    {
+      "album": {
+        "name": "Herb Alpert / Hugh Masekela",
+        "url": "https://open.spotify.com/album/1PBWH6SJCatM6dBCHLod5A"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278586,
+      "name": "Moonza",
+      "url": "https://open.spotify.com/track/0WHqQkgIxYOPe2FnPHlI3J"
+    },
+    {
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/3OhHUq4BFb2LlrqkDWNqRE"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304466,
+      "name": "Naughty Naughty",
+      "url": "https://open.spotify.com/track/7wzWv7lDJmwzvrvMQ0Prtg"
+    },
+    {
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/061q5E43gIp25oJxVxvAav"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233680,
+      "name": "Never (Lagos Never Gonna Be the Same)",
+      "url": "https://open.spotify.com/track/4aTcopxonBr4JVajnsGi6K"
+    },
+    {
+      "album": {
+        "name": "Main Event Live",
+        "url": "https://open.spotify.com/album/0SxYs2dDMYntFDPxQdUCYJ"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333653,
+      "name": "People Make The World Go 'Round",
+      "url": "https://open.spotify.com/track/7061GEUBdrbWacWIZs6Zjg"
+    },
+    {
+      "album": {
+        "name": "Herb Alpert / Hugh Masekela",
+        "url": "https://open.spotify.com/album/1PBWH6SJCatM6dBCHLod5A"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203146,
+      "name": "Ring Bell",
+      "url": "https://open.spotify.com/track/1LjeaqT5o2gqLQTFynkeQb"
+    },
+    {
+      "album": {
+        "name": "Sarafina! The Sound Of Freedom",
+        "url": "https://open.spotify.com/album/2lumpSO6GsjUwZhvIto0Mp"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Sechaba",
+      "url": "https://open.spotify.com/track/0e5UqCO2phP2DgD4aYSeEA"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5aToAoOFpCP6cETb803Fmz"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364240,
+      "name": "Send Me",
+      "url": "https://open.spotify.com/track/5qGYulTDwei2GxidoiRbfP"
+    },
+    {
+      "album": {
+        "name": "Herb Alpert / Hugh Masekela",
+        "url": "https://open.spotify.com/album/1PBWH6SJCatM6dBCHLod5A"
+      },
+      "artists": [
+        {
+          "name": "Herb Alpert",
+          "url": "https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220640,
+      "name": "Skokiaan",
+      "url": "https://open.spotify.com/track/5By54UfIlbEMnXTrsKpbWJ"
+    },
+    {
+      "album": {
+        "name": "Greatest Moments Of",
+        "url": "https://open.spotify.com/album/64OQNeTS9r2vmrDWSmhSvy"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401458,
+      "name": "Sossie",
+      "url": "https://open.spotify.com/track/3bAsAVaVeoWk4zZqVcz5X2"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2Ubm26bDPar5pEM0wsajZt"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600506,
+      "name": "Stimela (The Coal Train)",
+      "url": "https://open.spotify.com/track/6MHWjwVdE9ZWQZdDXXLocN"
+    },
+    {
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/7cSZwj3u1FR4AQqI3ANO5r"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602493,
+      "name": "Stimela - The Dowry Song",
+      "url": "https://open.spotify.com/track/5CzM7bCPqFUF1eWh4nvVXy"
+    },
+    {
+      "album": {
+        "name": "Black To The Future",
+        "url": "https://open.spotify.com/album/5uh6r0ws4FRmNAAsO0R798"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295560,
+      "name": "Strawberries",
+      "url": "https://open.spotify.com/track/6m1HBE9TBXTMeRFLWObgGP"
+    },
+    {
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324120,
+      "name": "Thanayi",
+      "url": "https://open.spotify.com/track/4D26OBdQX1JPs2yYwAugea"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/2bEh6USdBs2EIUopY19TdG"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244160,
+      "name": "The Boy's Doin' It",
+      "url": "https://open.spotify.com/track/2TFCvJDlt3aoTqzN7LRl5D"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5aToAoOFpCP6cETb803Fmz"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467226,
+      "name": "Thimlela",
+      "url": "https://open.spotify.com/track/5gHX89WgncqrmdH3ojN95d"
+    },
+    {
+      "album": {
+        "name": "Still Grazing",
+        "url": "https://open.spotify.com/album/1Fu67AET7JzPJZSspXMCWZ"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332773,
+      "name": "Up Up And Away",
+      "url": "https://open.spotify.com/track/6aRJ9GPXWOLcatUSZQOaQn"
+    },
+    {
+      "album": {
+        "name": "Grazing In The Grass: The Best Of Hugh Masekela",
+        "url": "https://open.spotify.com/album/35YSmtpQl7AQKr39nMDKD9"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261265,
+      "name": "Vasco Da Gama (The Sailor Man)",
+      "url": "https://open.spotify.com/track/7JF8ihWdCyY2z8gOEVO620"
+    },
+    {
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/061q5E43gIp25oJxVxvAav"
+      },
+      "artists": [
+        {
+          "name": "Tony Allen",
+          "url": "https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2020-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278318,
+      "name": "We've Landed",
+      "url": "https://open.spotify.com/track/1fcF3A2sQXYMzqnlDMVEpr"
+    },
+    {
+      "album": {
+        "name": "Presents the Chissa Years 1965-1975",
+        "url": "https://open.spotify.com/album/3kAccw0xfJEIayWAiyvKI4"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Baranta with Miatta Fahinbulleh",
+          "url": "https://open.spotify.com/artist/57SqA0w60AJyD7Y4RgLCkW"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389160,
+      "name": "Witch Doctor (Feat. Baranta & Miatta Fahinbulleh)",
+      "url": "https://open.spotify.com/track/32lqu8N1mAgbDZhnhMPezR"
+    },
+    {
+      "album": {
+        "name": "Pure Sounds of Africa",
+        "url": "https://open.spotify.com/album/4Gmh2qeyIv04wytrc9F5Ab"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2018-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404160,
+      "name": "Ziph' Nkomo",
+      "url": "https://open.spotify.com/track/1RIWujZXXFjvCVSZJUlb6t"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0do1Z6kTyyR"
 }

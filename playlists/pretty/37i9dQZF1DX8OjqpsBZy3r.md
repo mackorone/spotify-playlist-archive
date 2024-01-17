@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,930 likes - 108 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,963 likes - 108 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 95 | [The Git Up](https://open.spotify.com/track/01tA4XmJ4fGQNwti6b2hPm) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [Honeysuckle & Lightning Bugs](https://open.spotify.com/album/2oxv6Q0GYUkYqz2dhUKo12) | 3:20 |
 | 96 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 |
 | 97 | [F\-150](https://open.spotify.com/track/1k090Cp4kVflIXkQTcqIT9) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [F\-150](https://open.spotify.com/album/09m2n7rJs6daBxySqetJ9R) | 2:48 |
-| 98 | [Dicked Down in Dallas](https://open.spotify.com/track/1yhft6ZqYadd4GOrKrmK3a) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/4l5bLOtUFmUkD9RbsvJV9R) | 3:21 |
+| 98 | [Dicked Down in Dallas](https://open.spotify.com/track/3R0l4ivVzkajiNAYH07ZKl) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/0LOmxOPfggmCP2Lhtxf25Z) | 3:21 |
 | 99 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
 | 100 | [Tell Your Mom](https://open.spotify.com/track/6uxGwZV2t6c7Nq2oy1MHvU) | [Georgia Webster](https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl) | [Tell Your Mom](https://open.spotify.com/album/49hM7XdEYqFUlVdUGn40Fg) | 3:02 |
 | 101 | [Liquor & Pills](https://open.spotify.com/track/1xTexcIY9YipgP8UiQbSOk) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Liquor & Pills](https://open.spotify.com/album/6pQ9QAPUXGlY8YrKEdgkhY) | 4:15 |

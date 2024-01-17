@@ -1,115 +1,291 @@
 {
-  "2023-09-11": 1464,
-  "2023-09-12": 1492,
-  "2023-09-13": 1523,
-  "2023-09-14": 1548,
-  "2023-09-15": 1566,
-  "2023-09-16": 1605,
-  "2023-09-17": 1630,
-  "2023-09-18": 1645,
-  "2023-09-19": 1666,
-  "2023-09-20": 1688,
-  "2023-09-21": 1697,
-  "2023-09-22": 1710,
-  "2023-09-23": 1730,
-  "2023-09-24": 1748,
-  "2023-09-25": 1761,
-  "2023-09-26": 1794,
-  "2023-09-27": 1808,
-  "2023-09-28": 1824,
-  "2023-09-29": 1832,
-  "2023-09-30": 1841,
-  "2023-10-01": 1858,
-  "2023-10-02": 1884,
-  "2023-10-03": 1901,
-  "2023-10-04": 1926,
-  "2023-10-05": 1940,
-  "2023-10-06": 1958,
-  "2023-10-07": 1968,
-  "2023-10-08": 1988,
-  "2023-10-09": 2009,
-  "2023-10-10": 2029,
-  "2023-10-11": 2056,
-  "2023-10-12": 2056,
-  "2023-10-13": 2072,
-  "2023-10-14": 2093,
-  "2023-10-15": 2104,
-  "2023-10-16": 2120,
-  "2023-10-17": 2132,
-  "2023-10-18": 2139,
-  "2023-10-19": 2156,
-  "2023-10-20": 2165,
-  "2023-10-21": 2179,
-  "2023-10-22": 2200,
-  "2023-10-23": 2220,
-  "2023-10-24": 2236,
-  "2023-10-25": 2247,
-  "2023-10-26": 2264,
-  "2023-10-27": 2274,
-  "2023-10-28": 2288,
-  "2023-10-29": 2299,
-  "2023-10-30": 2340,
-  "2023-10-31": 2340,
-  "2023-11-01": 2350,
-  "2023-11-02": 2367,
-  "2023-11-03": 2384,
-  "2023-11-04": 2396,
-  "2023-11-05": 2407,
-  "2023-11-06": 2425,
-  "2023-11-07": 2425,
-  "2023-11-08": 2425,
-  "2023-11-09": 2425,
-  "2023-11-10": 2425,
-  "2023-11-11": 2425,
-  "2023-11-12": 2425,
-  "2023-11-13": 2425,
-  "2023-11-14": 2425,
-  "2023-11-15": 2425,
-  "2023-11-16": 2425,
-  "2023-11-17": 2425,
-  "2023-11-18": 2425,
-  "2023-11-19": 2425,
-  "2023-11-20": 2425,
-  "2023-11-21": 2425,
-  "2023-11-22": 2425,
-  "2023-11-23": 2425,
-  "2023-11-24": 2425,
-  "2023-11-25": 2425,
-  "2023-11-26": 2425,
-  "2023-11-27": 2425,
-  "2023-11-28": 2425,
-  "2023-11-29": 2425,
-  "2023-11-30": 2425,
-  "2023-12-01": 2425,
-  "2023-12-02": 2425,
-  "2023-12-03": 2425,
-  "2023-12-04": 2425,
-  "2023-12-05": 2425,
-  "2023-12-06": 2425,
-  "2023-12-07": 2425,
-  "2023-12-08": 2425,
-  "2023-12-09": 2425,
-  "2023-12-10": 2425,
-  "2023-12-11": 2425,
-  "2023-12-12": 2425,
-  "2023-12-13": 2425,
-  "2023-12-14": 2425,
-  "2023-12-15": 2425,
-  "2023-12-16": 2425,
-  "2023-12-17": 2425,
-  "2023-12-18": 2425,
-  "2023-12-19": 2425,
-  "2023-12-20": 2425,
-  "2023-12-21": 2425,
-  "2023-12-22": 2425,
-  "2023-12-23": 2425,
-  "2023-12-24": 2425,
-  "2023-12-25": 2425,
-  "2023-12-26": 2425,
-  "2023-12-27": 2425,
-  "2023-12-30": 2425,
-  "2023-12-31": 2425,
-  "2024-01-01": 2425,
-  "2024-01-02": 2425,
-  "2024-01-03": 2425
+  "2024-01-17": 2425,
+  "date_first_scraped": "2023-09-11",
+  "description": "British producer <a href=\"spotify:artist:3KOHpygRuo1ruQAbEneR3t\">George FitzGerald</a> explores the ethereal world of Electronic Music in his latest DJ mix.",
+  "name": "George FitzGerald DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "Akire (Mixed)",
+        "url": "https://open.spotify.com/album/2mPyU0vJvoU69E8xiHINJr"
+      },
+      "artists": [
+        {
+          "name": "Aril Brikha",
+          "url": "https://open.spotify.com/artist/3zWrv3ns5knPAVMR30hxxO"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425000,
+      "name": "Akire - Mixed",
+      "url": "https://open.spotify.com/track/4GKUlt76pwc4XiJ048Og1Q"
+    },
+    {
+      "album": {
+        "name": "Cherry (Mixed)",
+        "url": "https://open.spotify.com/album/356psZZSKpC8SiYBWyEHPN"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Cherry - Mixed",
+      "url": "https://open.spotify.com/track/12npRyqRTLyJ5i0W6puGZb"
+    },
+    {
+      "album": {
+        "name": "Chlorophyll (Mixed)",
+        "url": "https://open.spotify.com/album/21KtFRZLrCckfp8jfFjVQJ"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Chlorophyll - Mixed",
+      "url": "https://open.spotify.com/track/7JByseUBJrikdXEPw13tHi"
+    },
+    {
+      "album": {
+        "name": "Cold (Mixed)",
+        "url": "https://open.spotify.com/album/3Ssa0kWRkjt1BJGjbQc552"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Cold - Mixed",
+      "url": "https://open.spotify.com/track/3L7oKZrLmFyFzblKBgxqxR"
+    },
+    {
+      "album": {
+        "name": "Edgeware Rd (Mixed)",
+        "url": "https://open.spotify.com/album/4VaKFIRZKWtpXNn0SM63U9"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Edgeware Rd - Mixed",
+      "url": "https://open.spotify.com/track/4EadSFF1sAsukhLQYlJkbW"
+    },
+    {
+      "album": {
+        "name": "Escape the Night (Mixed)",
+        "url": "https://open.spotify.com/album/3vGDNKz8TpuNmaQ7xVfclS"
+      },
+      "artists": [
+        {
+          "name": "Jun Kamoda",
+          "url": "https://open.spotify.com/artist/2HPkBQMPtdjBbZkAeKTpLm"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Escape the Night - Mixed",
+      "url": "https://open.spotify.com/track/0XutgIdLnAuoqEApvKvPTB"
+    },
+    {
+      "album": {
+        "name": "Excursion (Mixed)",
+        "url": "https://open.spotify.com/album/4l4cFt81u1aqsKWEOffX9X"
+      },
+      "artists": [
+        {
+          "name": "John Tejada",
+          "url": "https://open.spotify.com/artist/2JWmMcE8Z0vapxOIiT7PLq"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Excursion - Mixed",
+      "url": "https://open.spotify.com/track/0QaR4F9AdLF4cktbFAZbpI"
+    },
+    {
+      "album": {
+        "name": "First Fermat (Mixed)",
+        "url": "https://open.spotify.com/album/1QyYsdlOZB1Ch2PY18X5zC"
+      },
+      "artists": [
+        {
+          "name": "Will & Ink",
+          "url": "https://open.spotify.com/artist/6qEVfmUByabRSv2pQcUWOW"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "First Fermat - Mixed",
+      "url": "https://open.spotify.com/track/315D7vBwVAiM7acHOJuMgQ"
+    },
+    {
+      "album": {
+        "name": "Flashback (Mixed)",
+        "url": "https://open.spotify.com/album/12INAY1c9aVMZXh3504fD1"
+      },
+      "artists": [
+        {
+          "name": "2562",
+          "url": "https://open.spotify.com/artist/2leze82lbuNUn3K4c7nS1B"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Flashback - Mixed",
+      "url": "https://open.spotify.com/track/1Yo8wq4WQAeEbWqRNGl6WX"
+    },
+    {
+      "album": {
+        "name": "GBLFT1740068 (Mixed)",
+        "url": "https://open.spotify.com/album/4HButK9YKnmlHdckqQvS5q"
+      },
+      "artists": [
+        {
+          "name": "Aleksi Per\u00e4l\u00e4",
+          "url": "https://open.spotify.com/artist/3hjBVvW03HcmXfKUipv1Fx"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "GBLFT1740068 - Mixed",
+      "url": "https://open.spotify.com/track/70gdeZAWnza32aP4FVNBI0"
+    },
+    {
+      "album": {
+        "name": "High & Choking - Jacques Greene Remix (Mixed)",
+        "url": "https://open.spotify.com/album/50vWsmLKVyPXPFBjyPSfPA"
+      },
+      "artists": [
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        },
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "High & Choking - Jacques Greene Remix - Mixed",
+      "url": "https://open.spotify.com/track/51fQMothpr4a9Ru7STS8fG"
+    },
+    {
+      "album": {
+        "name": "Salty - Nosaj Thing Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4QAIUdBKJNzHzYONzNtXAZ"
+      },
+      "artists": [
+        {
+          "name": "KAZU",
+          "url": "https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo"
+        },
+        {
+          "name": "Nosaj Thing",
+          "url": "https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Salty - Nosaj Thing Remix - Mixed",
+      "url": "https://open.spotify.com/track/2ItdebGjWxlB4cGrNjYRG7"
+    },
+    {
+      "album": {
+        "name": "SErving BIG time [133 BPM] (Mixed)",
+        "url": "https://open.spotify.com/album/7t6cPv2g1yKyT1WJRoztLW"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91000,
+      "name": "SErving BIG time [133 BPM] - Mixed",
+      "url": "https://open.spotify.com/track/5LD7no4IzGPodxqaKWMk64"
+    },
+    {
+      "album": {
+        "name": "Setting Sun (Mixed)",
+        "url": "https://open.spotify.com/album/7xRnMprUlAAhYvwZDxsxrp"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330000,
+      "name": "Setting Sun - Mixed",
+      "url": "https://open.spotify.com/track/03Und09BzzokRVugD5TlMV"
+    },
+    {
+      "album": {
+        "name": "Valmer (Mixed)",
+        "url": "https://open.spotify.com/album/7Ik56yEYxeAew39Izdlph8"
+      },
+      "artists": [
+        {
+          "name": "Minioca",
+          "url": "https://open.spotify.com/artist/5Qsp7Pt0mECjvM6MNtPr0M"
+        },
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Valmer - Mixed",
+      "url": "https://open.spotify.com/track/39tWSAz4XeVFgV1WcGA8oV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZitQcAqBlfq"
 }

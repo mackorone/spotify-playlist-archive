@@ -1,569 +1,2105 @@
 {
-  "2022-06-10": 10532,
-  "2022-06-11": 10551,
-  "2022-06-12": 10580,
-  "2022-06-13": 10612,
-  "2022-06-14": 10644,
-  "2022-06-15": 10688,
-  "2022-06-16": 10716,
-  "2022-06-17": 10761,
-  "2022-06-18": 10793,
-  "2022-06-19": 10863,
-  "2022-06-20": 10863,
-  "2022-06-21": 10898,
-  "2022-06-22": 10944,
-  "2022-06-23": 10944,
-  "2022-06-24": 10969,
-  "2022-06-25": 10969,
-  "2022-06-26": 11049,
-  "2022-06-27": 11073,
-  "2022-06-28": 11099,
-  "2022-06-29": 11115,
-  "2022-06-30": 11144,
-  "2022-07-01": 11166,
-  "2022-07-02": 11184,
-  "2022-07-03": 11203,
-  "2022-07-04": 11232,
-  "2022-07-05": 11252,
-  "2022-07-06": 11284,
-  "2022-07-07": 11324,
-  "2022-07-08": 11357,
-  "2022-07-09": 11386,
-  "2022-07-10": 11414,
-  "2022-07-11": 11439,
-  "2022-07-12": 11454,
-  "2022-07-13": 11493,
-  "2022-07-14": 11529,
-  "2022-07-15": 11565,
-  "2022-07-16": 11594,
-  "2022-07-17": 11616,
-  "2022-07-18": 11641,
-  "2022-07-19": 11659,
-  "2022-07-20": 11709,
-  "2022-07-21": 11751,
-  "2022-07-22": 11780,
-  "2022-07-23": 11804,
-  "2022-07-24": 11828,
-  "2022-07-25": 11854,
-  "2022-07-26": 11876,
-  "2022-07-27": 11906,
-  "2022-07-28": 11931,
-  "2022-07-29": 11957,
-  "2022-07-30": 12023,
-  "2022-07-31": 12023,
-  "2022-08-01": 12049,
-  "2022-08-02": 12113,
-  "2022-08-03": 12113,
-  "2022-08-04": 12146,
-  "2022-08-05": 12166,
-  "2022-08-06": 12203,
-  "2022-08-07": 12231,
-  "2022-08-08": 12252,
-  "2022-08-09": 12279,
-  "2022-08-10": 12305,
-  "2022-08-11": 12341,
-  "2022-08-12": 12365,
-  "2022-08-13": 12394,
-  "2022-08-14": 12430,
-  "2022-08-15": 12468,
-  "2022-08-16": 12494,
-  "2022-08-17": 12518,
-  "2022-08-18": 12536,
-  "2022-08-19": 12568,
-  "2022-08-20": 12603,
-  "2022-08-21": 12622,
-  "2022-08-22": 12645,
-  "2022-08-23": 12672,
-  "2022-08-24": 12704,
-  "2022-08-25": 12733,
-  "2022-08-26": 12767,
-  "2022-08-27": 12792,
-  "2022-08-28": 12813,
-  "2022-08-29": 12844,
-  "2022-08-30": 12856,
-  "2022-08-31": 12826,
-  "2022-09-01": 12843,
-  "2022-09-02": 12795,
-  "2022-09-03": 12741,
-  "2022-09-04": 12648,
-  "2022-09-05": 12613,
-  "2022-09-06": 12653,
-  "2022-09-07": 12676,
-  "2022-09-09": 12731,
-  "2022-09-10": 12754,
-  "2022-09-11": 12782,
-  "2022-09-12": 12804,
-  "2022-09-13": 12833,
-  "2022-09-15": 12885,
-  "2022-09-16": 12916,
-  "2022-09-17": 12948,
-  "2022-09-18": 12962,
-  "2022-09-19": 12976,
-  "2022-09-20": 12990,
-  "2022-09-21": 13022,
-  "2022-09-22": 13043,
-  "2022-09-23": 13063,
-  "2022-09-24": 13089,
-  "2022-09-25": 13113,
-  "2022-09-26": 13132,
-  "2022-09-27": 13152,
-  "2022-09-28": 13164,
-  "2022-09-29": 13189,
-  "2022-09-30": 13203,
-  "2022-10-01": 13220,
-  "2022-10-02": 13233,
-  "2022-10-03": 13268,
-  "2022-10-04": 13281,
-  "2022-10-05": 13308,
-  "2022-10-06": 13320,
-  "2022-10-07": 13332,
-  "2022-10-08": 13349,
-  "2022-10-09": 13378,
-  "2022-10-10": 13382,
-  "2022-10-11": 13409,
-  "2022-10-12": 13429,
-  "2022-10-13": 13454,
-  "2022-10-14": 13476,
-  "2022-10-15": 13486,
-  "2022-10-16": 13495,
-  "2022-10-17": 13513,
-  "2022-10-18": 13521,
-  "2022-10-19": 13541,
-  "2022-10-20": 13555,
-  "2022-10-21": 13582,
-  "2022-10-22": 13594,
-  "2022-10-23": 13616,
-  "2022-10-24": 13631,
-  "2022-10-25": 13661,
-  "2022-10-26": 13677,
-  "2022-10-27": 13702,
-  "2022-10-28": 13725,
-  "2022-10-29": 13747,
-  "2022-10-30": 13767,
-  "2022-10-31": 13795,
-  "2022-11-01": 13811,
-  "2022-11-02": 13819,
-  "2022-11-03": 13834,
-  "2022-11-04": 13849,
-  "2022-11-05": 13869,
-  "2022-11-06": 13895,
-  "2022-11-07": 13921,
-  "2022-11-08": 13937,
-  "2022-11-09": 13955,
-  "2022-11-10": 13979,
-  "2022-11-11": 14005,
-  "2022-11-12": 14034,
-  "2022-11-13": 14048,
-  "2022-11-14": 14069,
-  "2022-11-15": 14092,
-  "2022-11-16": 14106,
-  "2022-11-17": 14126,
-  "2022-11-18": 14129,
-  "2022-11-19": 14123,
-  "2022-11-20": 14116,
-  "2022-11-21": 14131,
-  "2022-11-22": 14152,
-  "2022-11-23": 14173,
-  "2022-11-24": 14215,
-  "2022-11-25": 14274,
-  "2022-11-26": 14305,
-  "2022-11-27": 14326,
-  "2022-11-28": 14342,
-  "2022-11-29": 14354,
-  "2022-11-30": 14371,
-  "2022-12-01": 14394,
-  "2022-12-02": 14418,
-  "2022-12-03": 14429,
-  "2022-12-04": 14469,
-  "2022-12-05": 14498,
-  "2022-12-06": 14514,
-  "2022-12-07": 14551,
-  "2022-12-08": 14582,
-  "2022-12-09": 14607,
-  "2022-12-10": 14628,
-  "2022-12-11": 14656,
-  "2022-12-12": 14678,
-  "2022-12-13": 14701,
-  "2022-12-14": 14735,
-  "2022-12-15": 14769,
-  "2022-12-16": 14801,
-  "2022-12-17": 14821,
-  "2022-12-18": 14850,
-  "2022-12-19": 14880,
-  "2022-12-20": 14931,
-  "2022-12-21": 14931,
-  "2022-12-22": 14947,
-  "2022-12-24": 14996,
-  "2022-12-25": 15019,
-  "2022-12-26": 15039,
-  "2022-12-27": 15064,
-  "2022-12-28": 15097,
-  "2022-12-29": 15124,
-  "2022-12-30": 15145,
-  "2022-12-31": 15179,
-  "2023-01-01": 15199,
-  "2023-01-02": 15215,
-  "2023-01-03": 15232,
-  "2023-01-04": 15256,
-  "2023-01-05": 15270,
-  "2023-01-06": 15297,
-  "2023-01-07": 15323,
-  "2023-01-08": 15322,
-  "2023-01-09": 15354,
-  "2023-01-10": 15374,
-  "2023-01-11": 15402,
-  "2023-01-12": 15427,
-  "2023-01-13": 15447,
-  "2023-01-14": 15510,
-  "2023-01-15": 15523,
-  "2023-01-16": 15558,
-  "2023-01-17": 15590,
-  "2023-01-18": 15605,
-  "2023-01-19": 15631,
-  "2023-01-20": 15665,
-  "2023-01-21": 15686,
-  "2023-01-22": 15708,
-  "2023-01-23": 15729,
-  "2023-01-24": 15769,
-  "2023-01-25": 15800,
-  "2023-01-26": 15822,
-  "2023-01-27": 15841,
-  "2023-01-28": 15852,
-  "2023-01-29": 15864,
-  "2023-01-30": 15876,
-  "2023-01-31": 15876,
-  "2023-02-01": 15926,
-  "2023-02-02": 15947,
-  "2023-02-03": 15972,
-  "2023-02-04": 15983,
-  "2023-02-05": 16005,
-  "2023-02-06": 16021,
-  "2023-02-07": 16043,
-  "2023-02-08": 16093,
-  "2023-02-09": 16093,
-  "2023-02-10": 16126,
-  "2023-02-11": 16141,
-  "2023-02-12": 16194,
-  "2023-02-13": 16225,
-  "2023-02-14": 16225,
-  "2023-02-15": 16250,
-  "2023-02-16": 16270,
-  "2023-02-17": 16292,
-  "2023-02-18": 16321,
-  "2023-02-19": 16327,
-  "2023-02-20": 16346,
-  "2023-02-21": 16379,
-  "2023-02-22": 16413,
-  "2023-02-23": 16434,
-  "2023-02-24": 16453,
-  "2023-02-25": 16478,
-  "2023-02-26": 16492,
-  "2023-02-27": 16531,
-  "2023-02-28": 16531,
-  "2023-03-01": 16553,
-  "2023-03-02": 16565,
-  "2023-03-03": 16577,
-  "2023-03-04": 16588,
-  "2023-03-05": 16609,
-  "2023-03-06": 16609,
-  "2023-03-07": 16626,
-  "2023-03-08": 16635,
-  "2023-03-09": 16654,
-  "2023-03-10": 16679,
-  "2023-03-11": 16689,
-  "2023-03-12": 16702,
-  "2023-03-13": 16719,
-  "2023-03-14": 16750,
-  "2023-03-15": 16774,
-  "2023-03-16": 16800,
-  "2023-03-17": 16800,
-  "2023-03-18": 16877,
-  "2023-03-19": 16920,
-  "2023-03-20": 16963,
-  "2023-03-21": 17008,
-  "2023-03-22": 17052,
-  "2023-03-23": 17110,
-  "2023-03-24": 17110,
-  "2023-03-25": 17218,
-  "2023-03-26": 17282,
-  "2023-03-27": 17355,
-  "2023-03-28": 17428,
-  "2023-03-29": 17470,
-  "2023-03-30": 17568,
-  "2023-03-31": 17568,
-  "2023-04-01": 17623,
-  "2023-04-02": 17677,
-  "2023-04-03": 17704,
-  "2023-04-04": 17762,
-  "2023-04-05": 17823,
-  "2023-04-06": 17846,
-  "2023-04-07": 17903,
-  "2023-04-09": 18019,
-  "2023-04-10": 18095,
-  "2023-04-11": 18214,
-  "2023-04-12": 18214,
-  "2023-04-13": 18275,
-  "2023-04-14": 18322,
-  "2023-04-15": 18376,
-  "2023-04-16": 18446,
-  "2023-04-17": 18495,
-  "2023-04-18": 18548,
-  "2023-04-19": 18615,
-  "2023-04-20": 18684,
-  "2023-04-21": 18747,
-  "2023-04-22": 18802,
-  "2023-04-23": 18850,
-  "2023-04-24": 18908,
-  "2023-04-25": 18981,
-  "2023-04-26": 19046,
-  "2023-04-27": 19101,
-  "2023-04-28": 19150,
-  "2023-04-29": 19190,
-  "2023-04-30": 19245,
-  "2023-05-01": 19286,
-  "2023-05-02": 19330,
-  "2023-05-03": 19376,
-  "2023-05-04": 19424,
-  "2023-05-05": 19462,
-  "2023-05-06": 19506,
-  "2023-05-07": 19558,
-  "2023-05-08": 19603,
-  "2023-05-09": 19635,
-  "2023-05-10": 19665,
-  "2023-05-11": 19701,
-  "2023-05-12": 19753,
-  "2023-05-13": 19798,
-  "2023-05-14": 19838,
-  "2023-05-15": 19878,
-  "2023-05-16": 19916,
-  "2023-05-17": 19978,
-  "2023-05-18": 20030,
-  "2023-05-19": 20083,
-  "2023-05-20": 20179,
-  "2023-05-21": 20179,
-  "2023-05-22": 20179,
-  "2023-05-23": 20272,
-  "2023-05-24": 20351,
-  "2023-05-25": 20364,
-  "2023-05-26": 20389,
-  "2023-05-27": 20422,
-  "2023-05-28": 20481,
-  "2023-05-29": 20481,
-  "2023-05-30": 20594,
-  "2023-05-31": 20620,
-  "2023-06-01": 20654,
-  "2023-06-02": 20703,
-  "2023-06-03": 20759,
-  "2023-06-04": 20810,
-  "2023-06-05": 20842,
-  "2023-06-06": 20883,
-  "2023-06-07": 20920,
-  "2023-06-08": 20950,
-  "2023-06-09": 20985,
-  "2023-06-10": 21017,
-  "2023-06-11": 21059,
-  "2023-06-12": 21085,
-  "2023-06-13": 21098,
-  "2023-06-14": 21098,
-  "2023-06-15": 21182,
-  "2023-06-16": 21217,
-  "2023-06-17": 21243,
-  "2023-06-18": 21301,
-  "2023-06-19": 21348,
-  "2023-06-20": 21386,
-  "2023-06-21": 21425,
-  "2023-06-22": 21460,
-  "2023-06-23": 21500,
-  "2023-06-24": 21548,
-  "2023-06-25": 21577,
-  "2023-06-26": 21629,
-  "2023-06-27": 21671,
-  "2023-06-28": 21722,
-  "2023-06-29": 21755,
-  "2023-06-30": 21790,
-  "2023-07-01": 21867,
-  "2023-07-02": 21867,
-  "2023-07-03": 21899,
-  "2023-07-04": 21927,
-  "2023-07-05": 21960,
-  "2023-07-06": 22003,
-  "2023-07-07": 22003,
-  "2023-07-08": 22040,
-  "2023-07-09": 22078,
-  "2023-07-10": 22118,
-  "2023-07-11": 22138,
-  "2023-07-12": 22181,
-  "2023-07-13": 22225,
-  "2023-07-14": 22263,
-  "2023-07-15": 22290,
-  "2023-07-16": 22308,
-  "2023-07-17": 22336,
-  "2023-07-18": 22373,
-  "2023-07-19": 22422,
-  "2023-07-20": 22454,
-  "2023-07-21": 22502,
-  "2023-07-22": 22534,
-  "2023-07-23": 22584,
-  "2023-07-24": 22613,
-  "2023-07-25": 22650,
-  "2023-07-26": 22680,
-  "2023-07-27": 22704,
-  "2023-07-28": 22751,
-  "2023-07-29": 22792,
-  "2023-07-30": 22822,
-  "2023-07-31": 22857,
-  "2023-08-01": 22889,
-  "2023-08-02": 22915,
-  "2023-08-03": 22975,
-  "2023-08-04": 23011,
-  "2023-08-05": 23041,
-  "2023-08-06": 23119,
-  "2023-08-07": 23119,
-  "2023-08-08": 23164,
-  "2023-08-09": 23213,
-  "2023-08-10": 23261,
-  "2023-08-11": 23284,
-  "2023-08-12": 23313,
-  "2023-08-13": 23337,
-  "2023-08-14": 23371,
-  "2023-08-15": 23444,
-  "2023-08-16": 23444,
-  "2023-08-17": 23474,
-  "2023-08-18": 23507,
-  "2023-08-19": 23549,
-  "2023-08-20": 23592,
-  "2023-08-21": 23643,
-  "2023-08-22": 23681,
-  "2023-08-23": 23724,
-  "2023-08-24": 23750,
-  "2023-08-25": 23781,
-  "2023-08-26": 23819,
-  "2023-08-27": 23862,
-  "2023-08-28": 23904,
-  "2023-08-29": 23947,
-  "2023-08-30": 23990,
-  "2023-08-31": 24035,
-  "2023-09-01": 24124,
-  "2023-09-02": 24124,
-  "2023-09-03": 24139,
-  "2023-09-04": 24174,
-  "2023-09-05": 24209,
-  "2023-09-06": 24249,
-  "2023-09-07": 24276,
-  "2023-09-08": 24309,
-  "2023-09-09": 24356,
-  "2023-09-10": 24394,
-  "2023-09-11": 24434,
-  "2023-09-12": 24477,
-  "2023-09-13": 24518,
-  "2023-09-14": 24551,
-  "2023-09-15": 24590,
-  "2023-09-16": 24627,
-  "2023-09-17": 24663,
-  "2023-09-18": 24695,
-  "2023-09-19": 24726,
-  "2023-09-20": 24748,
-  "2023-09-21": 24778,
-  "2023-09-22": 24826,
-  "2023-09-23": 24854,
-  "2023-09-24": 24893,
-  "2023-09-25": 24926,
-  "2023-09-26": 24977,
-  "2023-09-27": 25000,
-  "2023-09-28": 25025,
-  "2023-09-29": 25059,
-  "2023-09-30": 25093,
-  "2023-10-01": 25111,
-  "2023-10-02": 25147,
-  "2023-10-03": 25192,
-  "2023-10-04": 25217,
-  "2023-10-05": 25249,
-  "2023-10-06": 25286,
-  "2023-10-07": 25327,
-  "2023-10-08": 25358,
-  "2023-10-09": 25385,
-  "2023-10-10": 25435,
-  "2023-10-11": 25506,
-  "2023-10-12": 25506,
-  "2023-10-13": 25544,
-  "2023-10-14": 25572,
-  "2023-10-15": 25603,
-  "2023-10-16": 25633,
-  "2023-10-17": 25678,
-  "2023-10-18": 25712,
-  "2023-10-19": 25748,
-  "2023-10-20": 25766,
-  "2023-10-21": 25783,
-  "2023-10-22": 25824,
-  "2023-10-23": 25860,
-  "2023-10-24": 25883,
-  "2023-10-25": 25905,
-  "2023-10-26": 25927,
-  "2023-10-27": 25949,
-  "2023-10-28": 25974,
-  "2023-10-29": 26006,
-  "2023-10-30": 26076,
-  "2023-10-31": 26076,
-  "2023-11-01": 26096,
-  "2023-11-02": 26117,
-  "2023-11-03": 26161,
-  "2023-11-04": 26185,
-  "2023-11-05": 26212,
-  "2023-11-06": 26242,
-  "2023-11-07": 26272,
-  "2023-11-08": 26294,
-  "2023-11-09": 26330,
-  "2023-11-10": 26368,
-  "2023-11-11": 26407,
-  "2023-11-12": 26428,
-  "2023-11-13": 26460,
-  "2023-11-14": 26481,
-  "2023-11-15": 26481,
-  "2023-11-16": 26555,
-  "2023-11-17": 26640,
-  "2023-11-18": 26640,
-  "2023-11-19": 26675,
-  "2023-11-20": 26706,
-  "2023-11-21": 26738,
-  "2023-11-22": 26779,
-  "2023-11-23": 26814,
-  "2023-11-24": 26838,
-  "2023-11-25": 26873,
-  "2023-11-26": 26926,
-  "2023-11-27": 26950,
-  "2023-11-28": 26986,
-  "2023-11-29": 27047,
-  "2023-11-30": 27047,
-  "2023-12-01": 27090,
-  "2023-12-02": 27119,
-  "2023-12-03": 27143,
-  "2023-12-04": 27175,
-  "2023-12-05": 27215,
-  "2023-12-06": 27237,
-  "2023-12-07": 27269,
-  "2023-12-08": 27307,
-  "2023-12-09": 27373,
-  "2023-12-10": 27413,
-  "2023-12-11": 27455,
-  "2023-12-12": 27499,
-  "2023-12-13": 27532,
-  "2023-12-14": 27615,
-  "2023-12-15": 27647,
-  "2023-12-16": 27690,
-  "2023-12-17": 27733,
-  "2023-12-18": 27787,
-  "2023-12-19": 27840,
-  "2023-12-20": 27889,
-  "2023-12-21": 27933,
-  "2023-12-22": 27976,
-  "2023-12-23": 28012,
-  "2023-12-24": 28053,
-  "2023-12-25": 28092,
-  "2023-12-26": 28121,
-  "2023-12-27": 28165,
-  "2023-12-30": 28291,
-  "2023-12-31": 28322,
-  "2024-01-01": 28351,
-  "2024-01-02": 28382,
-  "2024-01-03": 28422
+  "2024-01-17": 29081,
+  "date_first_scraped": "2022-06-10",
+  "description": "Music From \"BEASTARS\"! \u4e3b\u984c\u6b4c\u3001\u633f\u5165\u6b4c\u3001\u30b5\u30f3\u30c8\u30e9\u3067\u8fbf\u308b\u300cBEASTARS\u300d\u306e\u4e16\u754c! (C) \u677f\u57a3\u5df4\u7559\uff08\u79cb\u7530\u66f8\u5e97\uff09\uff0fBEASTARS\u88fd\u4f5c\u59d4\u54e1",
+  "name": "BEASTARS -\u30d3\u30fc\u30b9\u30bf\u30fc\u30ba-",
+  "tracks": [
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54373,
+      "name": "A Tale of Moon",
+      "url": "https://open.spotify.com/track/6kPD2kV1rvSin87qEh4Rii"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81466,
+      "name": "A Tale of Moon -reprise-",
+      "url": "https://open.spotify.com/track/6xUIPZmxvR8q0yBPlZ64Ps"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 89560,
+      "name": "Animal's whisper",
+      "url": "https://open.spotify.com/track/5WCMfhEFBTgz6uHDGpnARs"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117466,
+      "name": "Are you the perpetrator?",
+      "url": "https://open.spotify.com/track/56kMKXTMbaytMaqUWFsTi8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 117466,
+      "name": "Are you the perpetrator?",
+      "url": "https://open.spotify.com/track/7HY8S1diGmh6KmMtFk9kS7"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131693,
+      "name": "Back market",
+      "url": "https://open.spotify.com/track/2pYhieS5pOJv6qjkPIvFOP"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 97000,
+      "name": "Back market's darkness",
+      "url": "https://open.spotify.com/track/3KSMLhElPOpHC0kCmFtXoY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 97000,
+      "name": "Back market's darkness",
+      "url": "https://open.spotify.com/track/3cCZlEu0x4NEyBYafF3Hkr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "BEASTARS",
+      "url": "https://open.spotify.com/track/1Iiq3tVtUZF0y8TYRENOHv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "BEASTARS -pf solo-",
+      "url": "https://open.spotify.com/track/1WKXs9BlXdmN9qsBw2Cgcn"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 135160,
+      "name": "BEASTARS -will-",
+      "url": "https://open.spotify.com/track/1Y117Nb6eHwTtPyV2yQHSZ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234573,
+      "name": "BEASTARS -wolf and rabbit-",
+      "url": "https://open.spotify.com/track/65AwCdeFJe1ysdBgyjkYC0"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212826,
+      "name": "BEASTARS-don't forget-",
+      "url": "https://open.spotify.com/track/1ewtLkn4AAI61aZspvt85s"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212826,
+      "name": "BEASTARS-don't forget-",
+      "url": "https://open.spotify.com/track/5vLpTu5TNUnsAGD7vLMyjM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74333,
+      "name": "BEASTARS-lady LEGOSHI-",
+      "url": "https://open.spotify.com/track/27JXuzzKUgWI5dKygo9hy3"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 74333,
+      "name": "BEASTARS-lady LEGOSHI-",
+      "url": "https://open.spotify.com/track/7gSTxgjFotBFvVSjkhDyzd"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 98133,
+      "name": "Beautiful memory",
+      "url": "https://open.spotify.com/track/2MsuSP53gyAD5e8h0Nf8tE"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98133,
+      "name": "Beautiful memory",
+      "url": "https://open.spotify.com/track/3d7NkTioRCLk84tkOAuguW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89840,
+      "name": "Beautiful PINA",
+      "url": "https://open.spotify.com/track/0rfUC8m1otF3XMqkrxD6IG"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 89840,
+      "name": "Beautiful PINA",
+      "url": "https://open.spotify.com/track/2JUO9eiOHJF3gbDLgIQMXH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "Aztech",
+          "url": "https://open.spotify.com/artist/5BwHAtNpcEoDlIQqaBCBvc"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158093,
+      "name": "Between the Soil & Skyline",
+      "url": "https://open.spotify.com/track/3xVMJ4l03jXOkNjHn1r3bg"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "Aztech",
+          "url": "https://open.spotify.com/artist/5BwHAtNpcEoDlIQqaBCBvc"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158093,
+      "name": "Between the Soil & Skyline",
+      "url": "https://open.spotify.com/track/5PvsCWHTthzJ9qXku6dtzB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 63906,
+      "name": "Bite me!",
+      "url": "https://open.spotify.com/track/2P5lx7MpJuG5ofhWX1mMvk"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 206733,
+      "name": "Cannibalism",
+      "url": "https://open.spotify.com/track/6oc0WfNFdQya4GDiT2iyi0"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79506,
+      "name": "Carnivores",
+      "url": "https://open.spotify.com/track/6P8I4Rlekg5V4SbQsK8iGH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 87533,
+      "name": "Carrot and stick",
+      "url": "https://open.spotify.com/track/5y4VQ0xvb3yh6WJlpLnAhB"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 109266,
+      "name": "Cherryton Academy",
+      "url": "https://open.spotify.com/track/1azWhATBZypbb5t0U47PK5"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 106440,
+      "name": "Coexistence",
+      "url": "https://open.spotify.com/track/7DMGShJIjmvSRB8gJ22Hmx"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106440,
+      "name": "Coexistence",
+      "url": "https://open.spotify.com/track/7iOz3pHUEruoduejG91WQR"
+    },
+    {
+      "album": {
+        "name": "E-SIDE",
+        "url": "https://open.spotify.com/album/2Il38p3xyKeLHM5tHa4b6R"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213692,
+      "name": "Comet",
+      "url": "https://open.spotify.com/track/7LrT6Lpn0hOQ58pbBP6D2M"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 74373,
+      "name": "Declaration of war",
+      "url": "https://open.spotify.com/track/4USz05xlpYSNIY8KRIERmD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 74373,
+      "name": "Declaration of war",
+      "url": "https://open.spotify.com/track/6mMZuZzrK841BFXKo3K9Hv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 365826,
+      "name": "Desperate war",
+      "url": "https://open.spotify.com/track/1R7AtjWeND2nUzEVYlibab"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "Desperate war",
+      "url": "https://open.spotify.com/track/60tbJbHeatrYWFaoOwgImo"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117533,
+      "name": "Desperate war-once more-",
+      "url": "https://open.spotify.com/track/39OTs7hZTpgrKuRIy9u09P"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 117533,
+      "name": "Desperate war-once more-",
+      "url": "https://open.spotify.com/track/4swduSlGMpcJziaqT9sUpY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 102826,
+      "name": "Devour this\u2026",
+      "url": "https://open.spotify.com/track/1CFVFZQyoezEIbFgO5Y8xt"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 100000,
+      "name": "Everyday life",
+      "url": "https://open.spotify.com/track/0udxdic6rVIh2jXdzi4VWd"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100000,
+      "name": "Everyday life",
+      "url": "https://open.spotify.com/track/33mwrNDTrnG27fEa59wlFv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 102520,
+      "name": "Fighting animals",
+      "url": "https://open.spotify.com/track/4LI5nMBKs8TRWm4iVIrezS"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140866,
+      "name": "Genuine friendship",
+      "url": "https://open.spotify.com/track/2eHPTnhv207dPziRFNORHL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 140866,
+      "name": "Genuine friendship",
+      "url": "https://open.spotify.com/track/35hfe7QgMykeqB8uB5Xt0B"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 103533,
+      "name": "Harlequin Rabbits",
+      "url": "https://open.spotify.com/track/53gGmT5kF0o5KRDCqSeban"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 118840,
+      "name": "Harlequin Rabbits -reprise-",
+      "url": "https://open.spotify.com/track/2mDcy9T2FVo5yQuyCbuC4R"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66333,
+      "name": "Herbivores instinct",
+      "url": "https://open.spotify.com/track/7MdlaVQzD2G1a72WdgG0kL"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 93066,
+      "name": "Herbivorous stripper",
+      "url": "https://open.spotify.com/track/1ZrWEir1DOy4AXMGwnVCVw"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93066,
+      "name": "Herbivorous stripper",
+      "url": "https://open.spotify.com/track/6Cb2pvui4fTVzPy5YzSMiv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72573,
+      "name": "Hope of this world",
+      "url": "https://open.spotify.com/track/3z4R2TQAZtTgKlr8pjiG4g"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "I'm SIX EYES!",
+      "url": "https://open.spotify.com/track/5S710LiR2gVcSHxdcwreXS"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229466,
+      "name": "I'm SIX EYES!",
+      "url": "https://open.spotify.com/track/5TSbjg5SOnJTAWNe8hMhV2"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82493,
+      "name": "Impatience",
+      "url": "https://open.spotify.com/track/1qdbzh2UA4uu06mXlcM6xD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103666,
+      "name": "Impending darkness",
+      "url": "https://open.spotify.com/track/4ncrUYFW5NAiEuiQEtEudd"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 76813,
+      "name": "Invasion",
+      "url": "https://open.spotify.com/track/3wLMitL1JNiBQ3IqHoSO0A"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38800,
+      "name": "Invisible world",
+      "url": "https://open.spotify.com/track/1OhHuEz32WQN4u729uR0Xw"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103533,
+      "name": "Jungle Theater",
+      "url": "https://open.spotify.com/track/56VsiEzVAl5aj8lsEMO6FF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 103533,
+      "name": "Jungle Theater",
+      "url": "https://open.spotify.com/track/5tvvqdM6PZNNObTKwufqnT"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "JUNO is in love",
+      "url": "https://open.spotify.com/track/3r4X4pzmLDPmGVK9cBbjlp"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 54600,
+      "name": "JUNO is in love -adult-",
+      "url": "https://open.spotify.com/track/6zLoNA6o0D96BEf9KYO8ix"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cLe zoo\u300d (\u30a2\u30cb\u30e1\u76e4)",
+        "url": "https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O"
+      },
+      "artists": [
+        {
+          "name": "YURiKA",
+          "url": "https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299666,
+      "name": "Le zoo",
+      "url": "https://open.spotify.com/track/4MD7NIoJrvqTveOK8yyBZ6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131333,
+      "name": "LEGOSHI's feelings",
+      "url": "https://open.spotify.com/track/1PiFfHm118iRqtcoPUOCvr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111360,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/0UfqgULlcxPiCqPcWdvJtJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 111360,
+      "name": "Madness",
+      "url": "https://open.spotify.com/track/2pnJXVFOERXlN0wWaMmBA7"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Many Stories",
+      "url": "https://open.spotify.com/track/6HoAoNkxpkqRd0uClplvZz"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "Chica",
+          "url": "https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141566,
+      "name": "Many Stories-epilogue-",
+      "url": "https://open.spotify.com/track/0rfB4kWjCRkrNWMzKBNdto"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "Chica",
+          "url": "https://open.spotify.com/artist/7vjO0NvBdNmLrE1sljP7VQ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141566,
+      "name": "Many Stories-epilogue-",
+      "url": "https://open.spotify.com/track/5cGfXWpoSUSOgxa7Zk5ycU"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 50400,
+      "name": "Me and TEM",
+      "url": "https://open.spotify.com/track/5dav8x1K92zcgje1aEkzbY"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50400,
+      "name": "Me and TEM",
+      "url": "https://open.spotify.com/track/6IjAhoOIMWETDqFrsOiyxR"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        },
+        {
+          "name": "TEM",
+          "url": "https://open.spotify.com/artist/2XaQMG4toYRzfqrOM2Shs5"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 98626,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0iWji5x70hiMUsxS4biZl8"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        },
+        {
+          "name": "TEM",
+          "url": "https://open.spotify.com/artist/2XaQMG4toYRzfqrOM2Shs5"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98626,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/5XEWfG8Q6m5YwaEY9mq8FC"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/3GUW4WpvJPXgzsOW1hVifv"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7M9lc2hHXKQobbHQ31Yg2v"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121040,
+      "name": "Moonlight dance",
+      "url": "https://open.spotify.com/track/02mm3vS5WtkGb6PwaiTAXC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121040,
+      "name": "Moonlight dance",
+      "url": "https://open.spotify.com/track/5KNbAqVnyJ6toRH4l10Lq9"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 172466,
+      "name": "My life to the fullest",
+      "url": "https://open.spotify.com/track/736evzM5NUFpQKSOzsQIc6"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 114293,
+      "name": "My true self",
+      "url": "https://open.spotify.com/track/6KMTcgD5kbWyl1pjZ2MMOl"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96840,
+      "name": "My true self -slow-",
+      "url": "https://open.spotify.com/track/3l5Mv4jACPKak3wpQKFHNc"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111093,
+      "name": "One and the same",
+      "url": "https://open.spotify.com/track/5hEigmsjAYS4YazwxitPTb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163826,
+      "name": "PINA's love talk",
+      "url": "https://open.spotify.com/track/3zTrUCqsPijnMKLJzmNwcn"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "PINA's love talk",
+      "url": "https://open.spotify.com/track/5H4kedMrlCcj7Yx0SJ164i"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178826,
+      "name": "President of academy",
+      "url": "https://open.spotify.com/track/6ppW72baPNiGJ7AWXl7NzH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 56160,
+      "name": "Renewed LEGOSHI",
+      "url": "https://open.spotify.com/track/6K0I7UxQyBsBehFctCArBM"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126000,
+      "name": "Respect for life",
+      "url": "https://open.spotify.com/track/2R0ccGhkDnYRlsQjNxLhaG"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 126000,
+      "name": "Respect for life",
+      "url": "https://open.spotify.com/track/3rpzHUE15hjB9BcrGzv0WA"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 79933,
+      "name": "RIZ's cooking time",
+      "url": "https://open.spotify.com/track/3V9JvQWFHXDN55vTjC9c4Z"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79933,
+      "name": "RIZ's cooking time",
+      "url": "https://open.spotify.com/track/7ykgSWX6fTa98jaV0n0Q9l"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 131000,
+      "name": "ROUIS's feelings",
+      "url": "https://open.spotify.com/track/0Gfuj0BmIYf0Ez5B6YtiLa"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158933,
+      "name": "ROUIS's feelings-reliable boss-",
+      "url": "https://open.spotify.com/track/1KxGDOvkbAF0eziOQ7JCch"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158933,
+      "name": "ROUIS's feelings-reliable boss-",
+      "url": "https://open.spotify.com/track/5fFTEvRfjirJin5XtF78lF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 51773,
+      "name": "ROUIS's heart",
+      "url": "https://open.spotify.com/track/672tsg25x2AgYfa4llOjYi"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 47866,
+      "name": "ROUIS's heart -remember-",
+      "url": "https://open.spotify.com/track/2016ImYnav65BoF2opNZ8z"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144066,
+      "name": "ROUIS's heart-truth-",
+      "url": "https://open.spotify.com/track/4rYpSto2mhcf9pRO7svyZU"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "ROUIS's heart-truth-",
+      "url": "https://open.spotify.com/track/6rofki7d9gIsryu6xHbSrC"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "SHISHI-GUMI",
+      "url": "https://open.spotify.com/track/1Yn5EDcnCS5c4Ij1j5gJC7"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109026,
+      "name": "Similar background",
+      "url": "https://open.spotify.com/track/01WjQqMyW44k7z5wgelCqb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 109026,
+      "name": "Similar background",
+      "url": "https://open.spotify.com/track/2kha6M9YYQF6p8on90ZPho"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155600,
+      "name": "Sudden accident",
+      "url": "https://open.spotify.com/track/4URKujdZge6veiGr7OAeNQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 155600,
+      "name": "Sudden accident",
+      "url": "https://open.spotify.com/track/732oRuuOvhyJqt0kiiKBrT"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 109173,
+      "name": "Taste of life",
+      "url": "https://open.spotify.com/track/0dMncysP1ntWlvbMc8SFdD"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u7530\u9f8d\u4e00",
+          "url": "https://open.spotify.com/artist/0SdYGTrth8K6bMpdFdB9qJ"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 109173,
+      "name": "Taste of life",
+      "url": "https://open.spotify.com/track/0kXtWmdE9204kAxBknVWVQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 121373,
+      "name": "TEM is my friend",
+      "url": "https://open.spotify.com/track/5lDn4CRJfnvl4j1lCrtgTq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121373,
+      "name": "TEM is my friend",
+      "url": "https://open.spotify.com/track/7Gc4bZ6QGNCUcGuPYXRTsv"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/0TtyxaWjB5YDGDyhx2T6AX"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 138906,
+      "name": "That day was also night\u2026",
+      "url": "https://open.spotify.com/track/0w3ku04EMw8TKHTioEwIef"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af2",
+        "url": "https://open.spotify.com/album/5HKHiREYPMDIUlzfHyJ0ZI"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138906,
+      "name": "That day was also night\u2026",
+      "url": "https://open.spotify.com/track/60wTdZiGqpcQp29awtqMYZ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 104000,
+      "name": "The garden of temptation",
+      "url": "https://open.spotify.com/track/4BlHrubN1JZnqQbrZD2r0z"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74666,
+      "name": "The keeper",
+      "url": "https://open.spotify.com/track/2gTOmdS640WWVGr5fSNVjF"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 181573,
+      "name": "The limits",
+      "url": "https://open.spotify.com/track/4ezsZbcT1sZ465ZIIePduO"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 79666,
+      "name": "Two animals",
+      "url": "https://open.spotify.com/track/7sJ3ILxG1Sswbncxw2Y3uK"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91173,
+      "name": "We are chicken",
+      "url": "https://open.spotify.com/track/7HFXnI5SKxcqpvKgP0Qp62"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2rVmetH0Kki1VtcXuABSAH"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u524d \u6681",
+          "url": "https://open.spotify.com/artist/1IdRNuzZylVdtc9oA3wZTk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-15",
+      "duration_ms": 76866,
+      "name": "Whereabouts of truth",
+      "url": "https://open.spotify.com/track/1wDgmi2B5aztrN9aja8y5N"
+    },
+    {
+      "album": {
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/2RSPQJ483jRL1KNtMuKqgh"
+    },
+    {
+      "album": {
+        "name": "YOASOBI THE BOOK 2 SPOTIFY EDITION",
+        "url": "https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u53cb\u6a39",
+          "url": "https://open.spotify.com/artist/7tCijmBsVuU68ChD05AXEk"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560977,
+      "name": "\u300c\u512a\u3057\u3044\u5f57\u661f\u300d\u539f\u4f5c\u300c\u7345\u5b50\u5ea7\u6d41\u661f\u7fa4\u306e\u307e\u307e\u306b\u300d\u677f\u57a3\u5df4\u7559",
+      "url": "https://open.spotify.com/track/6IZCwR01FZDfN5lr2gGHl0"
+    },
+    {
+      "album": {
+        "name": "YOASOBI THE BOOK 2 SPOTIFY EDITION",
+        "url": "https://open.spotify.com/album/0V8jsT3W9BHVUiq4rJAY2H"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u6797\u89aa\u5f18",
+          "url": "https://open.spotify.com/artist/3MxQSv3Aor49FCaki1Vfql"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514430,
+      "name": "\u300c\u602a\u7269\u300d\u539f\u4f5c\u300c\u81ea\u5206\u306e\u80f8\u306b\u81ea\u5206\u306e\u8033\u3092\u62bc\u3057\u5f53\u3066\u3066\u300d\u677f\u57a3\u5df4\u7559",
+      "url": "https://open.spotify.com/track/405SMhw5iHVNLeiYdX2uJQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cLe zoo\u300d (\u30a2\u30cb\u30e1\u76e4)",
+        "url": "https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O"
+      },
+      "artists": [
+        {
+          "name": "YURiKA",
+          "url": "https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293586,
+      "name": "\u30de\u30fc\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/0enY7XMbYUYLl82cLtmIgX"
+    },
+    {
+      "album": {
+        "name": "\u512a\u3057\u3044\u5f57\u661f",
+        "url": "https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "\u512a\u3057\u3044\u5f57\u661f",
+      "url": "https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c"
+    },
+    {
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
+    },
+    {
+      "album": {
+        "name": "\u6708\u306b\u6d6e\u304b\u3076\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/5dRHgyZnZiO4Hks792iU2X"
+      },
+      "artists": [
+        {
+          "name": "YURiKA",
+          "url": "https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274300,
+      "name": "\u6708\u306b\u6d6e\u304b\u3076\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/1n1RtW2V8PKoOhO2p1cTth"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300cBEASTARS\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cLe zoo\u300d (\u30a2\u30cb\u30e1\u76e4)",
+        "url": "https://open.spotify.com/album/0twpxDNTcXnEkGuSvs7B7O"
+      },
+      "artists": [
+        {
+          "name": "YURiKA",
+          "url": "https://open.spotify.com/artist/69nJcqdEQREOnXx4VFAdkS"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273838,
+      "name": "\u7720\u308c\u308b\u672c\u80fd",
+      "url": "https://open.spotify.com/track/4x3g8bpzufkxRPox2jnPXA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTIFbsBStcyg"
 }

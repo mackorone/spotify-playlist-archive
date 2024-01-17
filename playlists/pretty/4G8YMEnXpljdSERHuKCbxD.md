@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 
 > Listen to the same playlist that’s playing through the halls of the world famous Warner Records!
 
-[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 8,132 likes - 68 songs - 3 hr 27 min
+[Warner Records](https://open.spotify.com/user/uesix1sjzgnk8uo47jh3wxy3h) - 7,940 likes - 68 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/4G8YMEnXpljdSERHuKCbxD.md) - [plain]
 | 47 | [Break My Heart Myself \(feat\. Travis Barker\)](https://open.spotify.com/track/3UjGudrhckjEQjKHLR3p5G) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Better Mistakes](https://open.spotify.com/album/0ypVp54cO3kexiJNu33wYp) | 2:31 |
 | 48 | [Ur Gonna Wish U Believed Me](https://open.spotify.com/track/3f9Xt5Bcu1QooplxlTPEtb) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Ur Gonna Wish U Believed Me](https://open.spotify.com/album/7Ddogby9L1bwm8sPaKfCf6) | 4:31 |
 | 49 | [NEVER MET! \(feat\. Glitch Gum\)](https://open.spotify.com/track/4Bh7x70sJfofaZMdq32DcR) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [MUSIC BOX](https://open.spotify.com/album/4FdAkhYfsuzkBy2z5elUAy) | 2:27 |
-| 50 | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 |
+| 50 | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/track/3RLshk3cDQOqWhSIRCVaXL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [la di die \(feat\. Jaden Hossler\)](https://open.spotify.com/album/1KBoH5xsMCXPuVsZMORvtO) | 3:15 |
 | 51 | [Smackables](https://open.spotify.com/track/3ucNTEXkAf6cdPOVMNkhSg) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Smackables \(Deluxe Edition\)](https://open.spotify.com/album/3KK93JiPtKqMDsD7TpcTvJ) | 3:15 |
 | 52 | [Grape Jelly](https://open.spotify.com/track/39kLeozCD2qAml1jUwejeC) | [Big Homie Ty.Ni](https://open.spotify.com/artist/0IiQOvnmgZpXMLB1fLVYko), [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw) | [Grape Jelly](https://open.spotify.com/album/2rPaGukdkyxbA2vM3z9dlP) | 2:42 |
 | 53 | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/track/4cSSL3YafYjM3yjgFO1vJg) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Walk Em Down \(feat\. Roddy Ricch\)](https://open.spotify.com/album/3EYg0XBIcyz3OvhIy7gsZQ) | 2:53 |

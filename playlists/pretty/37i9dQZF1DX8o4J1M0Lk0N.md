@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8o4J1M0Lk0N.md) - [plain]
 
 > Classic instrumental Soul for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,991 likes - 88 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,608 likes - 88 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

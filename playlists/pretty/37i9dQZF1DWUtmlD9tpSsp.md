@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUtmlD9tpSsp.md) - [plain]
 
 > <a href="https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR?si=139b36be70ba4df1">「RADAR:Early Noise 2023」</a>選出アーティスト、DURDNの楽曲を一つのプレイリストで。All the essentials from RADAR: Early Noise 2023 artist, DURDN.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,899 likes - 25 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,957 likes - 25 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

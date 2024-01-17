@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 225080,
       "name": "El Amor Despu\u00e9s Del Amor",
       "url": "https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 410004,
       "name": "Jogando Capoiera",
       "url": "https://open.spotify.com/track/7x3s31ac8xceWrYDpmFAUi"
@@ -3051,6 +3051,28 @@
     },
     {
       "album": {
+        "name": "Guajiro",
+        "url": "https://open.spotify.com/album/39vitD8qvwlGrvGfmDywSD"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231493,
+      "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/259jTueOctsYFvy7mv1yMp"
+    },
+    {
+      "album": {
         "name": "Pajarito Vol\u00f3 (feat. Rub\u00e9n Blades)",
         "url": "https://open.spotify.com/album/4JUwwqtbrYubzzARMb5j6C"
       },
@@ -3314,7 +3336,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 229609,
       "name": "Por Si las Dudas",
       "url": "https://open.spotify.com/track/1mSZtzrkyjPVHryN28833M"

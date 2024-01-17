@@ -1,15 +1,15 @@
 {
   "description": "This is Emilia. The essential tracks, all in one playlist.",
-  "num_followers": 106532,
+  "num_followers": 112224,
   "original_name": "This Is Emilia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTYsMDAwMDAwMDA5NTFmYzUzMTQwY2VjYjUwYTAyNDNmN2I3MmJkYTJjMA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDA2ZTA1ZGUzNDM4YTIyNmJiMGY3ODZiOTBhMDQyMjM0Zg==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "intoxicao",
         "url": "https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
@@ -89,7 +89,35 @@
       "url": "https://open.spotify.com/track/5f4mOETLngamMDTJnbF9s7"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Una Foto Remix (feat. Emilia)",
+        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Una Foto Remix (feat. Emilia)",
+      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Salgo a Bailar",
         "url": "https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs"
@@ -109,7 +137,7 @@
       "url": "https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "En La Intimidad | CROSSOVER #1",
         "url": "https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82"
@@ -133,7 +161,27 @@
       "url": "https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 140625,
+      "name": "La_Original.mp3",
+      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
@@ -157,43 +205,7 @@
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 140625,
-      "name": "La_Original.mp3",
-      "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -213,7 +225,7 @@
       "url": "https://open.spotify.com/track/7M0mBls29IohQIPGqegcyE"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Quieres",
         "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
@@ -237,7 +249,7 @@
       "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
@@ -248,12 +260,48 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 181043,
-      "name": "IConic.mp3",
-      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/6hv8hai0yo19JF2c6pppj6"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "JET_Set.mp3",
+        "url": "https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 145919,
+      "name": "JET_Set.mp3",
+      "url": "https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "T\u00fa crees en m\u00ed?",
+        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 133894,
+      "name": "cuatro veinte",
+      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Hotel Miranda!",
         "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
@@ -273,10 +321,10 @@
       "url": "https://open.spotify.com/track/6tjz2ZCL2jmPY1jPsbRk2H"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
-        "name": "T\u00fa crees en m\u00ed?",
-        "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
       },
       "artists": [
         {
@@ -284,12 +332,12 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 133894,
-      "name": "cuatro veinte",
-      "url": "https://open.spotify.com/track/3ushwCdjpWNdSnZgRFU6Oc"
+      "duration_ms": 181043,
+      "name": "IConic.mp3",
+      "url": "https://open.spotify.com/track/6ZVLfXr015ogdhov4FW4pG"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "De Enero a Diciembre",
         "url": "https://open.spotify.com/album/6y5L7zU8rOw5f3Lywj1CPl"
@@ -309,23 +357,7 @@
       "url": "https://open.spotify.com/track/1p22yVi9e8DT6BEUvOZ0TL"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 130098,
-      "name": "Facts.mp3",
-      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/2npWGbycKmVVwOn4vo2xBr"
@@ -341,7 +373,7 @@
       "url": "https://open.spotify.com/track/3QWCxOv2YharMus6KbfiPJ"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "La Chain",
         "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
@@ -357,7 +389,23 @@
       "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": ".mp3",
+        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 130098,
+      "name": "Facts.mp3",
+      "url": "https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "SUENA MYA!",
         "url": "https://open.spotify.com/album/2nLjYM4nHgWje6HrOK0mzO"
@@ -377,23 +425,7 @@
       "url": "https://open.spotify.com/track/3sVuWmggRqfAK3qk7OIEAz"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": ".mp3",
-        "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 155861,
-      "name": "Jagger.mp3",
-      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "r\u00e1pido lento",
         "url": "https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn"
@@ -413,31 +445,7 @@
       "url": "https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 209203,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/5eqFHmdJbYwxVQ9xDMF7Ql"
@@ -461,7 +469,7 @@
       "url": "https://open.spotify.com/track/7kwWynCThNe0IhUTxjRxtW"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
@@ -472,12 +480,12 @@
           "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 171944,
-      "name": "Ojitos_Verdes.mp3",
-      "url": "https://open.spotify.com/track/1iOr558nKZFEUisItQldh8"
+      "duration_ms": 155861,
+      "name": "Jagger.mp3",
+      "url": "https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Esto Reci\u00e9n Empieza",
         "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
@@ -497,7 +505,31 @@
       "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/0BmSD2UxwSB1g6ptVMv3xy"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 209203,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/3K4vutqVlY3eINQWb6jSJF"
+    },
+    {
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -513,7 +545,7 @@
       "url": "https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "NAGASAKI",
         "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
@@ -533,7 +565,7 @@
       "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Perreito Salvaje",
         "url": "https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
@@ -573,7 +605,7 @@
       "url": "https://open.spotify.com/track/3OFS5I1SC248VIuWFe4NPJ"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -589,7 +621,7 @@
       "url": "https://open.spotify.com/track/0Q1NGtkEts8tjIC4eSWiya"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "HISTERIQUEO",
         "url": "https://open.spotify.com/album/0ajHIug4wUF4TowpnpQoPc"
@@ -609,7 +641,7 @@
       "url": "https://open.spotify.com/track/3z4y1bSwBoz21QuVqKVnEM"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Boomshakalaka",
         "url": "https://open.spotify.com/album/2dO6HvLMmEFMuOLasVY9eC"
@@ -641,7 +673,7 @@
       "url": "https://open.spotify.com/track/4yb5Z9dwnKhO9gC0AZQYDe"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "No Soy Yo",
         "url": "https://open.spotify.com/album/3Qmka2ojW5eJwfbunxP6rj"
@@ -661,7 +693,7 @@
       "url": "https://open.spotify.com/track/67OKX8DNYygddabwIjExsp"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -677,7 +709,7 @@
       "url": "https://open.spotify.com/track/5hgjF68xugLDOyLSjfe8QN"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
@@ -697,7 +729,7 @@
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Recalienta",
         "url": "https://open.spotify.com/album/5R757Dq6goWEZpF0Sym23i"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/2O0WiTabKj4e5CdY1mIFe4"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Billion",
         "url": "https://open.spotify.com/album/52wcnAEamts2IYdOxpDMcm"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/0LX3DnrnDI7dkiKsfWbgj5"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "T\u00fa crees en m\u00ed?",
         "url": "https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/42uno8Ku7ydFRwjD7OcXDI"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Q-Lito",
         "url": "https://open.spotify.com/album/7vy05msyjhqtzv6wgemce7"
@@ -765,7 +797,7 @@
       "url": "https://open.spotify.com/track/1W9c0BUe6ETdtBfQyqeOgw"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Pal Perreo",
         "url": "https://open.spotify.com/album/7GRrr1fX97vePkRz5ATbi6"
@@ -789,7 +821,7 @@
       "url": "https://open.spotify.com/track/607uAAsoV2mkEZuZR5J59s"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "No M\u00e1s",
         "url": "https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ"
@@ -805,7 +837,7 @@
       "url": "https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Emilia en Vivo",
         "url": "https://open.spotify.com/album/3jxfIy0En401wjrtIZcBXh"
@@ -821,7 +853,7 @@
       "url": "https://open.spotify.com/track/2EaqSjTQuzsQ3F8ncmsFKW"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "828",
         "url": "https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS"
@@ -841,7 +873,7 @@
       "url": "https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Te Doy Mi Vida (Masters en Parranda)",
         "url": "https://open.spotify.com/album/4zRYBvcLwIaCeEBHqQQ5Di"
@@ -873,7 +905,7 @@
       "url": "https://open.spotify.com/track/5qVqk68C5AmFL2faVr8iCg"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Polic\u00eda",
         "url": "https://open.spotify.com/album/3zvNDd5D18bAtpul2jTyLY"
@@ -889,7 +921,7 @@
       "url": "https://open.spotify.com/track/6qv6O0VQhXbhzEu4v5ASv5"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "El Chisme",
         "url": "https://open.spotify.com/album/5If6uMVCAomlkSSJABMaMq"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/0aWljNVWewwIAmIYTjH1y8"
     },
     {
-      "added_at": "2024-01-02 12:16:07",
+      "added_at": "2024-01-16 12:10:31",
       "album": {
         "name": "Diva (feat. Emilia)",
         "url": "https://open.spotify.com/album/74e4WmTJM2riGEO94bnG6i"
@@ -931,30 +963,6 @@
       "duration_ms": 215000,
       "name": "Diva (feat. Emilia)",
       "url": "https://open.spotify.com/track/0Be0IFTqpOBkJeGQYaXvY6"
-    },
-    {
-      "added_at": "2024-01-02 12:16:07",
-      "album": {
-        "name": "J\u00e1 \u00e9 Tarde (No M\u00e1s)",
-        "url": "https://open.spotify.com/album/52XNWdUMP7Ln42XtpKI33y"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Bianca",
-          "url": "https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg"
-        },
-        {
-          "name": "Cabrera",
-          "url": "https://open.spotify.com/artist/0f8YWLcN51Um9z8C1fbEr2"
-        }
-      ],
-      "duration_ms": 149211,
-      "name": "J\u00e1 \u00e9 Tarde (No M\u00e1s)",
-      "url": "https://open.spotify.com/track/3zOM8olfYjhEY4gARuV8gU"
     }
   ],
   "unique_name": "This Is Emilia",

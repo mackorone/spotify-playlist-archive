@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,585 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,644 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KARSfd7WcM.md) - [plain]
 | 79 | [Bang Bang Bang](https://open.spotify.com/track/62Tbkc4dhrraGN9tWrlssr) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Bang Bang Bang](https://open.spotify.com/album/7CgGvRhJBdcQDrCqAXLlyJ) | 2:22 |
 | 80 | [Tired](https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:19 |
 | 81 | [Any Other Way](https://open.spotify.com/track/2O2A2kGaLJ3u2GQ4Gn4Lu3) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/3fNsNoodAejnATNg10sXgr) | 3:22 |
-| 82 | [Smokey Eyes](https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 3:15 |
+| 82 | [Smokey Eyes](https://open.spotify.com/track/0VeJZDfCOxBFSmocsNIBei) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/3a3XFNgXZLHSuUXORJgvmV) | 3:15 |
 | 83 | [Our Window](https://open.spotify.com/track/0xz7CaiJF9LVhoWeBfCovF) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [The First Days Of Spring](https://open.spotify.com/album/7wSY8MNBuFKLIRhEXBwl9s) | 5:48 |
 | 84 | [Because I Love You](https://open.spotify.com/track/6PLazKHpb8YMtGh1J2C5qe) | [Montaigne](https://open.spotify.com/artist/1ZcnsSFqWusWlRK01vKE6b) | [Glorious Heights](https://open.spotify.com/album/6CRLOlHtioVtK0Q3oIBJpI) | 3:37 |
 | 85 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 |

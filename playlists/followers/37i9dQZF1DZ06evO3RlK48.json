@@ -1,291 +1,729 @@
 {
-  "2023-03-18": 4158,
-  "2023-03-19": 4158,
-  "2023-03-20": 4194,
-  "2023-03-21": 4204,
-  "2023-03-22": 4221,
-  "2023-03-23": 4239,
-  "2023-03-24": 4239,
-  "2023-03-25": 4285,
-  "2023-03-26": 4318,
-  "2023-03-27": 4328,
-  "2023-03-28": 4348,
-  "2023-03-29": 4371,
-  "2023-03-30": 4406,
-  "2023-03-31": 4406,
-  "2023-04-01": 4434,
-  "2023-04-02": 4461,
-  "2023-04-03": 4495,
-  "2023-04-04": 4529,
-  "2023-04-05": 4555,
-  "2023-04-06": 4573,
-  "2023-04-07": 4600,
-  "2023-04-09": 4623,
-  "2023-04-10": 4642,
-  "2023-04-11": 4664,
-  "2023-04-12": 4664,
-  "2023-04-13": 4676,
-  "2023-04-14": 4693,
-  "2023-04-15": 4732,
-  "2023-04-16": 4779,
-  "2023-04-17": 4835,
-  "2023-04-18": 4914,
-  "2023-04-19": 4988,
-  "2023-04-20": 5060,
-  "2023-04-21": 5145,
-  "2023-04-22": 5233,
-  "2023-04-23": 5313,
-  "2023-04-24": 5418,
-  "2023-04-25": 5500,
-  "2023-04-26": 5575,
-  "2023-04-27": 5648,
-  "2023-04-28": 5716,
-  "2023-04-29": 5766,
-  "2023-04-30": 5802,
-  "2023-05-01": 5852,
-  "2023-05-02": 5914,
-  "2023-05-03": 5973,
-  "2023-05-04": 6015,
-  "2023-05-05": 6072,
-  "2023-05-06": 6131,
-  "2023-05-07": 6178,
-  "2023-05-08": 6209,
-  "2023-05-09": 6264,
-  "2023-05-10": 6332,
-  "2023-05-11": 6428,
-  "2023-05-12": 6490,
-  "2023-05-13": 6556,
-  "2023-05-14": 6610,
-  "2023-05-15": 6664,
-  "2023-05-16": 6722,
-  "2023-05-17": 6779,
-  "2023-05-18": 6822,
-  "2023-05-19": 6858,
-  "2023-05-20": 6968,
-  "2023-05-21": 6968,
-  "2023-05-22": 6968,
-  "2023-05-23": 7034,
-  "2023-05-24": 7088,
-  "2023-05-25": 7106,
-  "2023-05-26": 7136,
-  "2023-05-27": 7168,
-  "2023-05-28": 7197,
-  "2023-05-29": 7197,
-  "2023-05-30": 7267,
-  "2023-05-31": 7293,
-  "2023-06-01": 7340,
-  "2023-06-02": 7375,
-  "2023-06-03": 7410,
-  "2023-06-04": 7448,
-  "2023-06-05": 7496,
-  "2023-06-06": 7543,
-  "2023-06-07": 7584,
-  "2023-06-08": 7631,
-  "2023-06-09": 7666,
-  "2023-06-10": 7694,
-  "2023-06-11": 7716,
-  "2023-06-12": 7735,
-  "2023-06-13": 7763,
-  "2023-06-14": 7808,
-  "2023-06-15": 7837,
-  "2023-06-16": 7867,
-  "2023-06-17": 7900,
-  "2023-06-18": 7924,
-  "2023-06-19": 7961,
-  "2023-06-20": 7999,
-  "2023-06-21": 8027,
-  "2023-06-22": 8055,
-  "2023-06-23": 8085,
-  "2023-06-24": 8151,
-  "2023-06-25": 8196,
-  "2023-06-26": 8245,
-  "2023-06-27": 8269,
-  "2023-06-28": 8307,
-  "2023-06-29": 8341,
-  "2023-06-30": 8372,
-  "2023-07-01": 8445,
-  "2023-07-02": 8445,
-  "2023-07-03": 8496,
-  "2023-07-04": 8551,
-  "2023-07-05": 8582,
-  "2023-07-06": 8647,
-  "2023-07-07": 8647,
-  "2023-07-08": 8647,
-  "2023-07-09": 8755,
-  "2023-07-10": 8806,
-  "2023-07-11": 8830,
-  "2023-07-12": 8871,
-  "2023-07-13": 8917,
-  "2023-07-14": 8957,
-  "2023-07-15": 8976,
-  "2023-07-16": 9042,
-  "2023-07-17": 9104,
-  "2023-07-18": 9145,
-  "2023-07-19": 9182,
-  "2023-07-20": 9182,
-  "2023-07-21": 9254,
-  "2023-07-22": 9295,
-  "2023-07-23": 9328,
-  "2023-07-24": 9364,
-  "2023-07-25": 9385,
-  "2023-07-26": 9413,
-  "2023-07-27": 9454,
-  "2023-07-28": 9496,
-  "2023-07-29": 9527,
-  "2023-07-30": 9548,
-  "2023-07-31": 9582,
-  "2023-08-01": 9606,
-  "2023-08-02": 9628,
-  "2023-08-03": 9667,
-  "2023-08-04": 9693,
-  "2023-08-05": 9708,
-  "2023-08-06": 9758,
-  "2023-08-07": 9758,
-  "2023-08-08": 9774,
-  "2023-08-09": 9793,
-  "2023-08-10": 9818,
-  "2023-08-11": 9849,
-  "2023-08-12": 9849,
-  "2023-08-13": 9849,
-  "2023-08-14": 9849,
-  "2023-08-15": 9849,
-  "2023-08-16": 9849,
-  "2023-08-17": 9849,
-  "2023-08-18": 9849,
-  "2023-08-19": 9849,
-  "2023-08-20": 10239,
-  "2023-08-21": 10239,
-  "2023-08-22": 10402,
-  "2023-08-23": 10402,
-  "2023-08-24": 10402,
-  "2023-08-25": 10402,
-  "2023-08-26": 10618,
-  "2023-08-27": 10618,
-  "2023-08-28": 10689,
-  "2023-08-29": 10689,
-  "2023-08-30": 10689,
-  "2023-08-31": 10812,
-  "2023-09-01": 10846,
-  "2023-09-02": 10846,
-  "2023-09-03": 10846,
-  "2023-09-04": 10846,
-  "2023-09-05": 10846,
-  "2023-09-06": 10846,
-  "2023-09-07": 10846,
-  "2023-09-08": 10846,
-  "2023-09-09": 10846,
-  "2023-09-10": 10846,
-  "2023-09-11": 10846,
-  "2023-09-12": 10846,
-  "2023-09-13": 10846,
-  "2023-09-14": 10846,
-  "2023-09-15": 10846,
-  "2023-09-16": 11215,
-  "2023-09-17": 11215,
-  "2023-09-18": 11215,
-  "2023-09-19": 11271,
-  "2023-09-20": 11271,
-  "2023-09-21": 11271,
-  "2023-09-22": 11313,
-  "2023-09-23": 11313,
-  "2023-09-24": 11313,
-  "2023-09-25": 11313,
-  "2023-09-26": 11372,
-  "2023-09-27": 11372,
-  "2023-09-28": 11372,
-  "2023-09-29": 11372,
-  "2023-09-30": 11372,
-  "2023-10-01": 11372,
-  "2023-10-02": 11372,
-  "2023-10-03": 11372,
-  "2023-10-04": 11372,
-  "2023-10-05": 11372,
-  "2023-10-06": 11372,
-  "2023-10-07": 11372,
-  "2023-10-08": 11372,
-  "2023-10-09": 11372,
-  "2023-10-10": 11372,
-  "2023-10-11": 11676,
-  "2023-10-12": 11676,
-  "2023-10-13": 11676,
-  "2023-10-14": 11676,
-  "2023-10-15": 11676,
-  "2023-10-16": 11676,
-  "2023-10-17": 11676,
-  "2023-10-18": 11676,
-  "2023-10-19": 11676,
-  "2023-10-20": 11676,
-  "2023-10-21": 11676,
-  "2023-10-22": 11676,
-  "2023-10-23": 11676,
-  "2023-10-24": 11676,
-  "2023-10-25": 11676,
-  "2023-10-26": 11676,
-  "2023-10-27": 11676,
-  "2023-10-28": 11676,
-  "2023-10-29": 11676,
-  "2023-10-30": 11676,
-  "2023-10-31": 11676,
-  "2023-11-01": 11676,
-  "2023-11-02": 11676,
-  "2023-11-03": 11676,
-  "2023-11-04": 11676,
-  "2023-11-05": 11676,
-  "2023-11-06": 11676,
-  "2023-11-07": 11676,
-  "2023-11-08": 11676,
-  "2023-11-09": 11676,
-  "2023-11-10": 11676,
-  "2023-11-11": 12124,
-  "2023-11-12": 12124,
-  "2023-11-13": 12124,
-  "2023-11-14": 12124,
-  "2023-11-15": 12124,
-  "2023-11-16": 12124,
-  "2023-11-17": 12124,
-  "2023-11-18": 12124,
-  "2023-11-19": 12124,
-  "2023-11-20": 12124,
-  "2023-11-21": 12124,
-  "2023-11-22": 12124,
-  "2023-11-23": 12124,
-  "2023-11-24": 12124,
-  "2023-11-25": 12124,
-  "2023-11-26": 12124,
-  "2023-11-27": 12124,
-  "2023-11-28": 12124,
-  "2023-11-29": 12124,
-  "2023-11-30": 12124,
-  "2023-12-01": 12124,
-  "2023-12-02": 12124,
-  "2023-12-03": 12124,
-  "2023-12-04": 12124,
-  "2023-12-05": 12124,
-  "2023-12-06": 12124,
-  "2023-12-07": 12124,
-  "2023-12-08": 12124,
-  "2023-12-09": 12124,
-  "2023-12-10": 12124,
-  "2023-12-11": 12124,
-  "2023-12-12": 12124,
-  "2023-12-13": 12124,
-  "2023-12-14": 12480,
-  "2023-12-15": 12488,
-  "2023-12-16": 12504,
-  "2023-12-17": 12515,
-  "2023-12-18": 12516,
-  "2023-12-19": 12530,
-  "2023-12-20": 12535,
-  "2023-12-21": 12548,
-  "2023-12-22": 12561,
-  "2023-12-23": 12571,
-  "2023-12-24": 12580,
-  "2023-12-25": 12587,
-  "2023-12-26": 12590,
-  "2023-12-27": 12593,
-  "2023-12-30": 12626,
-  "2023-12-31": 12632,
-  "2024-01-01": 12637,
-  "2024-01-02": 12639,
-  "2024-01-03": 12649
+  "2024-01-17": 12803,
+  "date_first_scraped": "2023-03-18",
+  "description": "This is MUNA. The essential tracks, all in one playlist.",
+  "name": "This Is MUNA",
+  "tracks": [
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213024,
+      "name": "Anything But Me",
+      "url": "https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313253,
+      "name": "Around U",
+      "url": "https://open.spotify.com/track/7jStM0aMv8WoG91YrrDMbw"
+    },
+    {
+      "album": {
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+    },
+    {
+      "album": {
+        "name": "Bad At Letting Go",
+        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
+      },
+      "artists": [
+        {
+          "name": "Leland",
+          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 200959,
+      "name": "Bad At Letting Go",
+      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
+    },
+    {
+      "album": {
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/16mo5DcJexdaBnL0u5QAoS"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209293,
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/5mueyPaJsGl0bGiZSu1z0e"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255506,
+      "name": "Crying On The Bathroom Floor",
+      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+    },
+    {
+      "album": {
+        "name": "Empathy (MUNA Remix)",
+        "url": "https://open.spotify.com/album/6PMsHKfKhE6hXSS7LDJVYG"
+      },
+      "artists": [
+        {
+          "name": "Lauren Aquilina",
+          "url": "https://open.spotify.com/artist/22qLnGc8B1btqty6d0Qnlm"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188369,
+      "name": "Empathy - MUNA Remix",
+      "url": "https://open.spotify.com/track/2biwJRdhdBM2Zq4mHBje3z"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250653,
+      "name": "Good News (Ya-Ya Song)",
+      "url": "https://open.spotify.com/track/3OQXqukbEw1EKu9veODhFi"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268992,
+      "name": "Home By Now",
+      "url": "https://open.spotify.com/track/5vYaBqOAT6JpZlAD3gO1AO"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 272813,
+      "name": "I Know A Place",
+      "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
+    },
+    {
+      "album": {
+        "name": "In My Way",
+        "url": "https://open.spotify.com/album/2AYySKA04nhtLWNvxjGbG9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200772,
+      "name": "In My Way",
+      "url": "https://open.spotify.com/track/5NfpIjvaqEbrG46NmE3adV"
+    },
+    {
+      "album": {
+        "name": "Into Your Room (with MUNA)",
+        "url": "https://open.spotify.com/album/5xoc8PmIs7xsuxaA7t4Oun"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211235,
+      "name": "Into Your Room (with MUNA)",
+      "url": "https://open.spotify.com/track/3RaG1pAMRHFiCAqcE9KKNo"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 344960,
+      "name": "It's Gonna Be Okay, Baby",
+      "url": "https://open.spotify.com/track/5lH5KTgUiP5CSjGctZusTQ"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 246119,
+      "name": "Kind Of Girl",
+      "url": "https://open.spotify.com/track/2kNnSv2CB0MO3O5WMspcSC"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 190692,
+      "name": "Loose Garment",
+      "url": "https://open.spotify.com/track/1CE5yIkftpwJ3dhtfc3ndl"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "Loudspeaker",
+      "url": "https://open.spotify.com/track/5ztCcMNmFiq5ZnID9jY9SP"
+    },
+    {
+      "album": {
+        "name": "In the End It Always Does",
+        "url": "https://open.spotify.com/album/1pflleeGIJGEAillSnSetf"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227706,
+      "name": "Morning Pages",
+      "url": "https://open.spotify.com/track/0hUUCxji9cN0gb8Twf0a0n"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7xPNSOtnXFMOsTnvQrLeXH"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206079,
+      "name": "Motivation - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/6vFifFwgq4Z3csFE6zi9Fd"
+    },
+    {
+      "album": {
+        "name": "My Heart Will Go On (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/3itkPk0ru3z6Ve5MMnQTrF"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223458,
+      "name": "My Heart Will Go On - triple j Like a Version",
+      "url": "https://open.spotify.com/track/3FofBrXUZOUD9KynMnodol"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "Navy Blue",
+      "url": "https://open.spotify.com/track/62fQs5LcdcyambpTxDnjmi"
+    },
+    {
+      "album": {
+        "name": "Promising Young Woman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Nihilist - From \"Promising Young Woman\" Soundtrack",
+      "url": "https://open.spotify.com/track/2yCtn6X5xZUjD049EllMFq"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174179,
+      "name": "No Idea",
+      "url": "https://open.spotify.com/track/4X0P4EdiA3HBqqKFnlV5n7"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Number One Fan",
+      "url": "https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27"
+    },
+    {
+      "album": {
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "Pink Light",
+      "url": "https://open.spotify.com/track/2zmGJTOfCKljp9HEffLM78"
+    },
+    {
+      "album": {
+        "name": "Tegan and Sara Present the Con X: Covers",
+        "url": "https://open.spotify.com/album/3ADMYew7OUYnMPF1EHOIe9"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177320,
+      "name": "Relief Next to Me",
+      "url": "https://open.spotify.com/track/5sCJS9pnT3xPShr4TeMGFV"
+    },
+    {
+      "album": {
+        "name": "Seeing Things (MUNA's Version)",
+        "url": "https://open.spotify.com/album/1WDUYbdjkO3jOWMzpyfIrW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Hickey",
+          "url": "https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 222218,
+      "name": "Seeing Things (MUNA's Version)",
+      "url": "https://open.spotify.com/track/7MW0iJ9bDHpijQyj1jq9ed"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Silk Chiffon",
+      "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "So Special",
+      "url": "https://open.spotify.com/track/50EsWUxLBSS4nQnTuagVjF"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141389,
+      "name": "Solid",
+      "url": "https://open.spotify.com/track/3TN26MWVgoxlt7rbtZ8Xb8"
+    },
+    {
+      "album": {
+        "name": "Sometimes (From \"Fire Island\")",
+        "url": "https://open.spotify.com/album/1OHC7T6smHk6ApFRemE8VE"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183811,
+      "name": "Sometimes - From \"Fire Island\"",
+      "url": "https://open.spotify.com/track/18O6oj2DtAA9lPlP9Kl9R2"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "Stayaway",
+      "url": "https://open.spotify.com/track/3vnyzhfVRh3agMjP6nABJw"
+    },
+    {
+      "album": {
+        "name": "Stayaway (Now, Now Remix)",
+        "url": "https://open.spotify.com/album/5AlYKpAvPaHDXPhKO2g5FV"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        },
+        {
+          "name": "Now, Now",
+          "url": "https://open.spotify.com/artist/6ZitSwtBSGqj00w11GvMU3"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 199000,
+      "name": "Stayaway - Now, Now Remix",
+      "url": "https://open.spotify.com/track/0ojEn2GpidI32hiVF5nblj"
+    },
+    {
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245853,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7"
+    },
+    {
+      "album": {
+        "name": "MUNA",
+        "url": "https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243236,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/7uvxkcv7FWVh4wE91I8Bi2"
+    },
+    {
+      "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297040,
+      "name": "Winterbreak",
+      "url": "https://open.spotify.com/track/4B6BiC4TZUbvXMbrdx2rhq"
+    },
+    {
+      "album": {
+        "name": "With Myself (MUNA Remix)",
+        "url": "https://open.spotify.com/album/2H6mRDnIJw7cpXSeSdC9XY"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189793,
+      "name": "With Myself - MUNA Remix",
+      "url": "https://open.spotify.com/track/1e2HAlEuK8NAEYwXbr1BAO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RlK48"
 }

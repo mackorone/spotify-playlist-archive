@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzvkbLgvQvI.md) - [plain]
 
 > All the Latin hits that have graced the top of the charts\. Cover: Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 19 songs - 1 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,498 likes - 19 songs - 1 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,12 +4,13 @@
 
 > Listen to the music from all 3 seasons of Ragnarok, now streaming on Netflix.
 
-37 songs - 2 hr 25 min
+39 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Amber](https://open.spotify.com/track/3Q7pMTdLGTyIl8xUVpd4NN) | [Farveblind](https://open.spotify.com/artist/5AlPqg8caYE9Dc7r9pCN3g) | [Amber](https://open.spotify.com/album/1zIbOH8yRTEttnb58qUfDj) | 4:24 | 2023-08-24 |  |
-| [Bad Bad Thing](https://open.spotify.com/track/6W7YVVTjv1o7sZNhC9UxYZ) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL), [AamityMae](https://open.spotify.com/artist/2aInR6g8otK9hxZIhb41Gj) | [Bad Bad Thing](https://open.spotify.com/album/2XjpjAXobOPnebIkp9XEyb) | 3:34 | 2023-08-24 |  |
+| [Bad Bad Thing](https://open.spotify.com/track/08qOBOkagQCSC0hjtEVmza) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL), [AamityMae](https://open.spotify.com/artist/2aInR6g8otK9hxZIhb41Gj) | [Bad Bad Thing](https://open.spotify.com/album/0M2azJi1DDdM7ToeXPaXu1) | 3:34 | 2023-08-24 |  |
+| [Bad Bad Thing](https://open.spotify.com/track/6W7YVVTjv1o7sZNhC9UxYZ) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL), [AamityMae](https://open.spotify.com/artist/2aInR6g8otK9hxZIhb41Gj) | [Bad Bad Thing](https://open.spotify.com/album/2XjpjAXobOPnebIkp9XEyb) | 3:34 | 2023-08-24 | 2024-01-13 |
 | [Blue State](https://open.spotify.com/track/3bXSc0hXa51FbTFjuCYZKz) | [Wolf & Cub](https://open.spotify.com/artist/3wEIRSXFy04QTus6vbd8rf) | [NIL](https://open.spotify.com/album/60jpJMnGU2Gnn0TU0lZWwt) | 5:20 | 2023-08-24 |  |
 | [Born in the North](https://open.spotify.com/track/64gyxc6DgaFUyuipGQ7Mn0) | [Blue in Tokio](https://open.spotify.com/artist/5ognvIR2zg8WcWCb76LKL3) | [Dark Sky Nights](https://open.spotify.com/album/79zT1Vet14wryMHrrxUFK7) | 3:21 | 2023-08-24 |  |
 | [Brimið](https://open.spotify.com/track/60DzBDtTyxKDm5678ku4XD) | [Elinborg](https://open.spotify.com/artist/2j72t3vN5xAeKaSyssN6Co) | [Brimið](https://open.spotify.com/album/7CFGVJdwJV6qvO4aZiniFX) | 3:33 | 2023-08-24 |  |
@@ -36,7 +37,8 @@
 | [Time Is the Tiger](https://open.spotify.com/track/6yivrEIpYjyiuihy3k57hG) | [Deportees](https://open.spotify.com/artist/64WsK4rMjSwnyuzTPFHVH4) | [All Future](https://open.spotify.com/album/0VxXVai1X4rMtoFD6wuuL3) | 4:12 | 2023-08-24 |  |
 | [Too Good To Be True](https://open.spotify.com/track/3S8TlIymBl9rgBjPVr0ovZ) | [Entertaining Mona](https://open.spotify.com/artist/5hTrfElcDbATkhNzAVnOe0) | [10,000 Roads to Wisdom](https://open.spotify.com/album/3qRQgJZ3E4hq0sYIOXcLa0) | 4:33 | 2023-08-24 |  |
 | [Tur](https://open.spotify.com/track/1hvpkfNJ1EfkF9SS2yBuml) | [Marco Egeberg](https://open.spotify.com/artist/3gVKrWrg5Y4UfbvKUpsjp6) | [Stund](https://open.spotify.com/album/13sRnTDeMnay6MFmrsFJIe) | 4:04 | 2023-08-24 |  |
-| [Wandering Girl](https://open.spotify.com/track/1pN6erZYtidSPV6GtxnJsV) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL) | [Wandering Girl](https://open.spotify.com/album/5SCSo7WwIPy27Yf7cbiKlf) | 3:12 | 2023-08-24 |  |
+| [Wandering Girl](https://open.spotify.com/track/0ml6VRj83ATU6oeRgKW7cm) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL) | [Wandering Girl](https://open.spotify.com/album/1cFNjo4jRsTv857lL8jRjd) | 3:12 | 2023-08-24 |  |
+| [Wandering Girl](https://open.spotify.com/track/1pN6erZYtidSPV6GtxnJsV) | [Future Royalty](https://open.spotify.com/artist/6lDL8J1jfaqyOc9fMIy0fL) | [Wandering Girl](https://open.spotify.com/album/5SCSo7WwIPy27Yf7cbiKlf) | 3:12 | 2023-08-24 | 2024-01-13 |
 | [Watchout](https://open.spotify.com/track/45qQWY9ropnrjbabKAi1ER) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67) | [Watchout](https://open.spotify.com/album/6hu1pbFOGXiX6tfbDI9gk3) | 3:47 | 2023-08-24 |  |
 | [Where Is My Mind](https://open.spotify.com/track/2X8S0sObGFG5rkSvieOx9M) | [Safari Riot](https://open.spotify.com/artist/2B1AeLc4tMEDVTcn4XXpjT), [Grayson Sanders](https://open.spotify.com/artist/0MlGMVJlkgkO40TgR65itd) | [Where Is My Mind](https://open.spotify.com/album/71M6lU1mI1Ry8awQjnOP0z) | 3:02 | 2023-08-24 |  |
 | [Who?](https://open.spotify.com/track/3HB6iBmLd4AWVJz4R9VqRE) | [Resa Saffa Park](https://open.spotify.com/artist/0eVD8YFz8ylVof7NE1HkGv) | [Spaces](https://open.spotify.com/album/10vsHRQxrUT0ZsbzDDaHfm) | 2:50 | 2023-08-24 |  |

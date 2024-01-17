@@ -1,549 +1,925 @@
 {
-  "2022-06-30": 2091,
-  "2022-07-01": 2091,
-  "2022-07-02": 2092,
-  "2022-07-03": 2091,
-  "2022-07-04": 2092,
-  "2022-07-05": 2093,
-  "2022-07-06": 2093,
-  "2022-07-07": 2094,
-  "2022-07-08": 2094,
-  "2022-07-09": 2095,
-  "2022-07-10": 2096,
-  "2022-07-11": 2099,
-  "2022-07-12": 2099,
-  "2022-07-13": 2099,
-  "2022-07-14": 2099,
-  "2022-07-15": 2099,
-  "2022-07-16": 2099,
-  "2022-07-17": 2099,
-  "2022-07-18": 2099,
-  "2022-07-19": 2099,
-  "2022-07-20": 2099,
-  "2022-07-21": 2099,
-  "2022-07-22": 2099,
-  "2022-07-23": 2099,
-  "2022-07-24": 2099,
-  "2022-07-25": 2099,
-  "2022-07-26": 2099,
-  "2022-07-27": 2099,
-  "2022-07-28": 2099,
-  "2022-07-29": 2099,
-  "2022-07-30": 2099,
-  "2022-07-31": 2099,
-  "2022-08-01": 2099,
-  "2022-08-02": 2099,
-  "2022-08-03": 2099,
-  "2022-08-04": 2099,
-  "2022-08-05": 2099,
-  "2022-08-06": 2099,
-  "2022-08-07": 2099,
-  "2022-08-08": 2099,
-  "2022-08-09": 2099,
-  "2022-08-10": 2099,
-  "2022-08-11": 2099,
-  "2022-08-12": 2099,
-  "2022-08-13": 2099,
-  "2022-08-14": 2099,
-  "2022-08-15": 2099,
-  "2022-08-16": 2099,
-  "2022-08-17": 2099,
-  "2022-08-18": 2099,
-  "2022-08-19": 2099,
-  "2022-08-20": 2099,
-  "2022-08-21": 2099,
-  "2022-08-22": 2099,
-  "2022-08-23": 2099,
-  "2022-08-24": 2099,
-  "2022-08-25": 2099,
-  "2022-08-26": 2099,
-  "2022-08-27": 2099,
-  "2022-08-28": 2099,
-  "2022-08-29": 2099,
-  "2022-08-30": 2099,
-  "2022-08-31": 2099,
-  "2022-09-01": 2099,
-  "2022-09-02": 2099,
-  "2022-09-03": 2099,
-  "2022-09-04": 2099,
-  "2022-09-05": 2099,
-  "2022-09-06": 2099,
-  "2022-09-07": 2099,
-  "2022-09-09": 2099,
-  "2022-09-10": 2099,
-  "2022-09-11": 2099,
-  "2022-09-12": 2099,
-  "2022-09-13": 2099,
-  "2022-09-15": 2099,
-  "2022-09-16": 2099,
-  "2022-09-17": 2099,
-  "2022-09-18": 2099,
-  "2022-09-19": 2099,
-  "2022-09-20": 2099,
-  "2022-09-21": 2099,
-  "2022-09-22": 2099,
-  "2022-09-23": 2099,
-  "2022-09-24": 2099,
-  "2022-09-25": 2099,
-  "2022-09-26": 2099,
-  "2022-09-27": 2099,
-  "2022-09-28": 2099,
-  "2022-09-29": 2099,
-  "2022-09-30": 2099,
-  "2022-10-01": 2099,
-  "2022-10-02": 2099,
-  "2022-10-03": 2099,
-  "2022-10-04": 2099,
-  "2022-10-05": 2099,
-  "2022-10-06": 2099,
-  "2022-10-07": 2099,
-  "2022-10-08": 2099,
-  "2022-10-09": 2099,
-  "2022-10-10": 2099,
-  "2022-10-11": 2099,
-  "2022-10-12": 2099,
-  "2022-10-13": 2099,
-  "2022-10-14": 2099,
-  "2022-10-15": 2099,
-  "2022-10-16": 2099,
-  "2022-10-17": 2099,
-  "2022-10-18": 2099,
-  "2022-10-19": 2099,
-  "2022-10-20": 2099,
-  "2022-10-21": 2099,
-  "2022-10-22": 2099,
-  "2022-10-23": 2099,
-  "2022-10-24": 2099,
-  "2022-10-25": 2099,
-  "2022-10-26": 2099,
-  "2022-10-27": 2099,
-  "2022-10-28": 2099,
-  "2022-10-29": 2099,
-  "2022-10-30": 2099,
-  "2022-10-31": 2099,
-  "2022-11-01": 2099,
-  "2022-11-02": 2099,
-  "2022-11-03": 2099,
-  "2022-11-04": 2099,
-  "2022-11-05": 2099,
-  "2022-11-06": 2099,
-  "2022-11-07": 2099,
-  "2022-11-08": 2099,
-  "2022-11-09": 2099,
-  "2022-11-10": 2099,
-  "2022-11-11": 2099,
-  "2022-11-12": 2099,
-  "2022-11-13": 2099,
-  "2022-11-14": 2099,
-  "2022-11-15": 2099,
-  "2022-11-16": 2099,
-  "2022-11-17": 2099,
-  "2022-11-18": 2099,
-  "2022-11-19": 2099,
-  "2022-11-20": 2099,
-  "2022-11-21": 2099,
-  "2022-11-22": 2099,
-  "2022-11-23": 2099,
-  "2022-11-24": 2099,
-  "2022-11-25": 2099,
-  "2022-11-26": 2099,
-  "2022-11-27": 2099,
-  "2022-11-28": 2099,
-  "2022-11-29": 2099,
-  "2022-11-30": 2099,
-  "2022-12-01": 2099,
-  "2022-12-02": 2099,
-  "2022-12-03": 2099,
-  "2022-12-04": 2099,
-  "2022-12-05": 2099,
-  "2022-12-06": 2099,
-  "2022-12-07": 2099,
-  "2022-12-08": 2099,
-  "2022-12-09": 2099,
-  "2022-12-10": 2099,
-  "2022-12-11": 2099,
-  "2022-12-12": 2099,
-  "2022-12-13": 2099,
-  "2022-12-14": 2099,
-  "2022-12-15": 2099,
-  "2022-12-16": 2099,
-  "2022-12-17": 2099,
-  "2022-12-18": 2099,
-  "2022-12-19": 2099,
-  "2022-12-20": 2099,
-  "2022-12-21": 2099,
-  "2022-12-22": 2099,
-  "2022-12-24": 2099,
-  "2022-12-25": 2099,
-  "2022-12-26": 2099,
-  "2022-12-27": 2099,
-  "2022-12-28": 2099,
-  "2022-12-29": 2099,
-  "2022-12-30": 2099,
-  "2022-12-31": 2099,
-  "2023-01-01": 2099,
-  "2023-01-02": 2099,
-  "2023-01-03": 2099,
-  "2023-01-04": 2099,
-  "2023-01-05": 2099,
-  "2023-01-06": 2099,
-  "2023-01-07": 2099,
-  "2023-01-08": 2099,
-  "2023-01-09": 2099,
-  "2023-01-10": 2099,
-  "2023-01-11": 2099,
-  "2023-01-12": 2099,
-  "2023-01-13": 2099,
-  "2023-01-14": 2099,
-  "2023-01-15": 2099,
-  "2023-01-16": 2099,
-  "2023-01-17": 2099,
-  "2023-01-18": 2099,
-  "2023-01-19": 2099,
-  "2023-01-20": 2099,
-  "2023-01-21": 2099,
-  "2023-01-22": 2099,
-  "2023-01-23": 2099,
-  "2023-01-24": 2099,
-  "2023-01-25": 2099,
-  "2023-01-26": 2099,
-  "2023-01-27": 2099,
-  "2023-01-28": 2099,
-  "2023-01-29": 2099,
-  "2023-01-30": 2099,
-  "2023-01-31": 2099,
-  "2023-02-01": 2099,
-  "2023-02-02": 2099,
-  "2023-02-03": 2099,
-  "2023-02-04": 2099,
-  "2023-02-05": 2099,
-  "2023-02-06": 2099,
-  "2023-02-07": 2099,
-  "2023-02-08": 2099,
-  "2023-02-09": 2099,
-  "2023-02-10": 2099,
-  "2023-02-11": 2099,
-  "2023-02-12": 2099,
-  "2023-02-13": 2099,
-  "2023-02-14": 2099,
-  "2023-02-15": 2099,
-  "2023-02-16": 2099,
-  "2023-02-17": 2099,
-  "2023-02-18": 2099,
-  "2023-02-19": 2099,
-  "2023-02-20": 2099,
-  "2023-02-21": 2099,
-  "2023-02-22": 2099,
-  "2023-02-23": 2099,
-  "2023-02-24": 2099,
-  "2023-02-25": 2099,
-  "2023-02-26": 2099,
-  "2023-02-27": 2099,
-  "2023-02-28": 2099,
-  "2023-03-01": 2099,
-  "2023-03-02": 2099,
-  "2023-03-03": 2099,
-  "2023-03-04": 2099,
-  "2023-03-05": 2099,
-  "2023-03-06": 2099,
-  "2023-03-07": 2099,
-  "2023-03-08": 2099,
-  "2023-03-09": 2099,
-  "2023-03-10": 2099,
-  "2023-03-11": 2099,
-  "2023-03-12": 2099,
-  "2023-03-13": 2099,
-  "2023-03-14": 2099,
-  "2023-03-15": 2099,
-  "2023-03-16": 2099,
-  "2023-03-17": 2099,
-  "2023-03-18": 2099,
-  "2023-03-19": 2099,
-  "2023-03-20": 2099,
-  "2023-03-21": 2099,
-  "2023-03-22": 2099,
-  "2023-03-23": 2099,
-  "2023-03-24": 2099,
-  "2023-03-25": 2099,
-  "2023-03-26": 2099,
-  "2023-03-27": 2099,
-  "2023-03-28": 2099,
-  "2023-03-29": 2099,
-  "2023-03-30": 2099,
-  "2023-03-31": 2099,
-  "2023-04-01": 2099,
-  "2023-04-02": 2099,
-  "2023-04-03": 2099,
-  "2023-04-04": 2099,
-  "2023-04-05": 2099,
-  "2023-04-06": 2099,
-  "2023-04-07": 2099,
-  "2023-04-09": 2099,
-  "2023-04-10": 2099,
-  "2023-04-11": 2099,
-  "2023-04-12": 2099,
-  "2023-04-13": 2099,
-  "2023-04-14": 2099,
-  "2023-04-15": 2099,
-  "2023-04-16": 2099,
-  "2023-04-17": 2099,
-  "2023-04-18": 2099,
-  "2023-04-19": 2099,
-  "2023-04-20": 2099,
-  "2023-04-21": 2099,
-  "2023-04-22": 2099,
-  "2023-04-23": 2099,
-  "2023-04-24": 2099,
-  "2023-04-25": 2099,
-  "2023-04-26": 2099,
-  "2023-04-27": 2099,
-  "2023-04-28": 2099,
-  "2023-04-29": 2099,
-  "2023-04-30": 2099,
-  "2023-05-01": 2099,
-  "2023-05-02": 2099,
-  "2023-05-03": 2099,
-  "2023-05-04": 2099,
-  "2023-05-05": 2099,
-  "2023-05-06": 2099,
-  "2023-05-07": 2099,
-  "2023-05-08": 2099,
-  "2023-05-09": 2099,
-  "2023-05-10": 2099,
-  "2023-05-11": 2099,
-  "2023-05-12": 2099,
-  "2023-05-13": 2099,
-  "2023-05-14": 2099,
-  "2023-05-15": 2099,
-  "2023-05-16": 2099,
-  "2023-05-17": 2099,
-  "2023-05-18": 2099,
-  "2023-05-19": 2099,
-  "2023-05-20": 2099,
-  "2023-05-21": 2099,
-  "2023-05-22": 2099,
-  "2023-05-23": 2099,
-  "2023-05-24": 2099,
-  "2023-05-25": 2099,
-  "2023-05-26": 2099,
-  "2023-05-27": 2099,
-  "2023-05-28": 2099,
-  "2023-05-29": 2099,
-  "2023-05-30": 2099,
-  "2023-05-31": 2099,
-  "2023-06-01": 2099,
-  "2023-06-02": 2099,
-  "2023-06-03": 2099,
-  "2023-06-04": 2099,
-  "2023-06-05": 2099,
-  "2023-06-06": 2099,
-  "2023-06-07": 2099,
-  "2023-06-08": 2099,
-  "2023-06-09": 2099,
-  "2023-06-10": 2099,
-  "2023-06-11": 2099,
-  "2023-06-12": 2099,
-  "2023-06-13": 2099,
-  "2023-06-14": 2099,
-  "2023-06-15": 2099,
-  "2023-06-16": 2099,
-  "2023-06-17": 2099,
-  "2023-06-18": 2099,
-  "2023-06-19": 2099,
-  "2023-06-20": 2099,
-  "2023-06-21": 2099,
-  "2023-06-22": 2099,
-  "2023-06-23": 2099,
-  "2023-06-24": 2099,
-  "2023-06-25": 2099,
-  "2023-06-26": 2099,
-  "2023-06-27": 2099,
-  "2023-06-28": 2099,
-  "2023-06-29": 2099,
-  "2023-06-30": 2099,
-  "2023-07-01": 2099,
-  "2023-07-02": 2099,
-  "2023-07-03": 2099,
-  "2023-07-04": 2099,
-  "2023-07-05": 2099,
-  "2023-07-06": 2099,
-  "2023-07-07": 2099,
-  "2023-07-08": 2099,
-  "2023-07-09": 2099,
-  "2023-07-10": 2099,
-  "2023-07-11": 2099,
-  "2023-07-12": 2099,
-  "2023-07-13": 2099,
-  "2023-07-14": 2099,
-  "2023-07-15": 2099,
-  "2023-07-16": 2099,
-  "2023-07-17": 2099,
-  "2023-07-18": 2099,
-  "2023-07-19": 2099,
-  "2023-07-20": 2099,
-  "2023-07-21": 2099,
-  "2023-07-22": 2099,
-  "2023-07-23": 2099,
-  "2023-07-24": 2099,
-  "2023-07-25": 2099,
-  "2023-07-26": 2099,
-  "2023-07-27": 2099,
-  "2023-07-28": 2099,
-  "2023-07-29": 2099,
-  "2023-07-30": 2099,
-  "2023-07-31": 2099,
-  "2023-08-01": 2099,
-  "2023-08-02": 2099,
-  "2023-08-03": 2099,
-  "2023-08-04": 2099,
-  "2023-08-05": 2099,
-  "2023-08-06": 2099,
-  "2023-08-07": 2099,
-  "2023-08-08": 2099,
-  "2023-08-09": 2099,
-  "2023-08-10": 2099,
-  "2023-08-11": 2099,
-  "2023-08-12": 2099,
-  "2023-08-13": 2099,
-  "2023-08-14": 2099,
-  "2023-08-15": 2099,
-  "2023-08-16": 2099,
-  "2023-08-17": 2099,
-  "2023-08-18": 2099,
-  "2023-08-19": 2099,
-  "2023-08-20": 2099,
-  "2023-08-21": 2099,
-  "2023-08-22": 2099,
-  "2023-08-23": 2099,
-  "2023-08-24": 2099,
-  "2023-08-25": 2099,
-  "2023-08-26": 2099,
-  "2023-08-27": 2099,
-  "2023-08-28": 2099,
-  "2023-08-29": 2099,
-  "2023-08-30": 2099,
-  "2023-08-31": 2099,
-  "2023-09-01": 2099,
-  "2023-09-02": 2099,
-  "2023-09-03": 2099,
-  "2023-09-04": 2099,
-  "2023-09-05": 2099,
-  "2023-09-06": 2099,
-  "2023-09-07": 2099,
-  "2023-09-08": 2099,
-  "2023-09-09": 2099,
-  "2023-09-10": 2099,
-  "2023-09-11": 2099,
-  "2023-09-12": 2099,
-  "2023-09-13": 2099,
-  "2023-09-14": 2099,
-  "2023-09-15": 2099,
-  "2023-09-16": 2099,
-  "2023-09-17": 2099,
-  "2023-09-18": 2099,
-  "2023-09-19": 2099,
-  "2023-09-20": 2099,
-  "2023-09-21": 2099,
-  "2023-09-22": 2099,
-  "2023-09-23": 2099,
-  "2023-09-24": 2099,
-  "2023-09-25": 2099,
-  "2023-09-26": 2099,
-  "2023-09-27": 2099,
-  "2023-09-28": 2099,
-  "2023-09-29": 2099,
-  "2023-09-30": 2099,
-  "2023-10-01": 2099,
-  "2023-10-02": 2099,
-  "2023-10-03": 2099,
-  "2023-10-04": 2099,
-  "2023-10-05": 2099,
-  "2023-10-06": 2099,
-  "2023-10-07": 2099,
-  "2023-10-08": 2099,
-  "2023-10-09": 2099,
-  "2023-10-10": 2099,
-  "2023-10-11": 2099,
-  "2023-10-12": 2099,
-  "2023-10-13": 2099,
-  "2023-10-14": 2099,
-  "2023-10-15": 2099,
-  "2023-10-16": 2099,
-  "2023-10-17": 2099,
-  "2023-10-18": 2099,
-  "2023-10-19": 2099,
-  "2023-10-20": 2099,
-  "2023-10-21": 2099,
-  "2023-10-22": 2099,
-  "2023-10-23": 2099,
-  "2023-10-24": 2099,
-  "2023-10-25": 2099,
-  "2023-10-26": 2099,
-  "2023-10-27": 2099,
-  "2023-10-28": 2099,
-  "2023-10-29": 2099,
-  "2023-10-30": 2099,
-  "2023-10-31": 2099,
-  "2023-11-01": 2099,
-  "2023-11-02": 2099,
-  "2023-11-03": 2099,
-  "2023-11-04": 2099,
-  "2023-11-05": 2099,
-  "2023-11-06": 2099,
-  "2023-11-07": 2099,
-  "2023-11-08": 2099,
-  "2023-11-09": 2099,
-  "2023-11-10": 2099,
-  "2023-11-11": 2099,
-  "2023-11-12": 2099,
-  "2023-11-13": 2099,
-  "2023-11-14": 2099,
-  "2023-11-15": 2099,
-  "2023-11-16": 2099,
-  "2023-11-17": 2099,
-  "2023-11-18": 2099,
-  "2023-11-19": 2099,
-  "2023-11-20": 2099,
-  "2023-11-21": 2099,
-  "2023-11-22": 2099,
-  "2023-11-23": 2099,
-  "2023-11-24": 2099,
-  "2023-11-25": 2099,
-  "2023-11-26": 2099,
-  "2023-11-27": 2099,
-  "2023-11-28": 2099,
-  "2023-11-29": 2099,
-  "2023-11-30": 2099,
-  "2023-12-01": 2099,
-  "2023-12-02": 2099,
-  "2023-12-03": 2099,
-  "2023-12-04": 2099,
-  "2023-12-05": 2099,
-  "2023-12-06": 2099,
-  "2023-12-07": 2099,
-  "2023-12-08": 2099,
-  "2023-12-09": 2099,
-  "2023-12-10": 2099,
-  "2023-12-11": 2099,
-  "2023-12-12": 2099,
-  "2023-12-13": 2099,
-  "2023-12-14": 2099,
-  "2023-12-15": 2099,
-  "2023-12-16": 2099,
-  "2023-12-17": 2099,
-  "2023-12-18": 2099,
-  "2023-12-19": 2099,
-  "2023-12-20": 2099,
-  "2023-12-21": 2099,
-  "2023-12-22": 2099,
-  "2023-12-23": 2099,
-  "2023-12-24": 2099,
-  "2023-12-25": 2099,
-  "2023-12-26": 2099,
-  "2023-12-27": 2099,
-  "2023-12-30": 2099,
-  "2023-12-31": 2099,
-  "2024-01-01": 2099,
-  "2024-01-02": 2099,
-  "2024-01-03": 2099
+  "2024-01-17": 2099,
+  "date_first_scraped": "2022-06-30",
+  "description": "Disfruta esta selecci\u00f3n musical, de la mano de Las Pelotas.",
+  "name": "Musicaliza: Las Pelotas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vibrate: The Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3gnHdybV7CsMxPGwmzFXyS"
+      },
+      "artists": [
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249386,
+      "name": "Across The Universe - Remix",
+      "url": "https://open.spotify.com/track/2vucrHkf1k9Kz5VU8cw1R2"
+    },
+    {
+      "album": {
+        "name": "Nonsuch",
+        "url": "https://open.spotify.com/album/6WK4H6AhFAt4RhuTzLFJws"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Ballad Of Peter Pumpkinhead - 2001 Remaster",
+      "url": "https://open.spotify.com/track/50GQrTJ85qG7wSPoGjvuCM"
+    },
+    {
+      "album": {
+        "name": "Who's Next",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221426,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/0cKk8BKEi7zXbdrYdyqBP5"
+    },
+    {
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "Between The Bars",
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
+    },
+    {
+      "album": {
+        "name": "II",
+        "url": "https://open.spotify.com/album/4HldSjdMhcrxIXsJee4FPo"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        },
+        {
+          "name": "La Skandalosa Tripulaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293665,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/1tgYWMpHWhhvr0hgOyCZsp"
+    },
+    {
+      "album": {
+        "name": "Brindando por Nada",
+        "url": "https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220226,
+      "name": "Brindando por Nada",
+      "url": "https://open.spotify.com/track/2PQJDGKbbSh5rLC0rsdHCQ"
+    },
+    {
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212066,
+      "name": "Chilanga banda",
+      "url": "https://open.spotify.com/track/6004tMws4nCQqtGBaInsF0"
+    },
+    {
+      "album": {
+        "name": "Mutations",
+        "url": "https://open.spotify.com/album/3IY3Oh7Gge0GCx7kWieEHc"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Cold Brains",
+      "url": "https://open.spotify.com/track/0Y9zSIe2qhbOP7PAcsQoCa"
+    },
+    {
+      "album": {
+        "name": "Los Ni\u00f1os Que Escriben En El Cielo",
+        "url": "https://open.spotify.com/album/1EvxxViNArpX7YXmgMd4Zw"
+      },
+      "artists": [
+        {
+          "name": "Spinetta Jade",
+          "url": "https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "Contra Todos Los Males De Este Mundo",
+      "url": "https://open.spotify.com/track/5C36ZFzzQlMWLMrwLabYtL"
+    },
+    {
+      "album": {
+        "name": "Mr. Fantasy",
+        "url": "https://open.spotify.com/album/0tAMTTxU0e84QFhrNhQNIT"
+      },
+      "artists": [
+        {
+          "name": "Traffic",
+          "url": "https://open.spotify.com/artist/1CD77o9fbdyQFrHnUPUEsF"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Dear Mr. Fantasy",
+      "url": "https://open.spotify.com/track/5CGpPUcUahMuLzkNK9ZgPP"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Donde Se Esconden",
+      "url": "https://open.spotify.com/track/2JaSU2SZJ0s7BwKKsYVfwu"
+    },
+    {
+      "album": {
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/2p53eKYYG1kCcjIyjS7pOc"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Elephant Talk",
+      "url": "https://open.spotify.com/track/50hHJSwex1XXEq6tTsfTpg"
+    },
+    {
+      "album": {
+        "name": "Lucy Patan\u00e9",
+        "url": "https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w"
+      },
+      "artists": [
+        {
+          "name": "Lucy Patan\u00e9",
+          "url": "https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246594,
+      "name": "En Toneles",
+      "url": "https://open.spotify.com/track/0AKSlOfNxuM2c3ydqUPYdg"
+    },
+    {
+      "album": {
+        "name": "Brindando por Nada",
+        "url": "https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241840,
+      "name": "Era",
+      "url": "https://open.spotify.com/track/360c0jDKsarxhu3cpUFX5V"
+    },
+    {
+      "album": {
+        "name": "La Danza de los Principiantes",
+        "url": "https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353086,
+      "name": "Gato Negro Pasa",
+      "url": "https://open.spotify.com/track/31apfQL1LZBL1z3PaD8WBR"
+    },
+    {
+      "album": {
+        "name": "Parklife (Special Edition)",
+        "url": "https://open.spotify.com/album/0DBkFC6739trhCoVreZyds"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291200,
+      "name": "Girls & Boys - 2012 Remaster",
+      "url": "https://open.spotify.com/track/2qrL1YF9aA865b6SKhLZ78"
+    },
+    {
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Gold on the Ceiling",
+      "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin (Remaster)",
+        "url": "https://open.spotify.com/album/1J8QW9qsMLx3staWaHpQmU"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166106,
+      "name": "Good Times Bad Times - Remaster",
+      "url": "https://open.spotify.com/track/0kfjZ0JCXU9sSg99gbQpbJ"
+    },
+    {
+      "album": {
+        "name": "Here Come The Warm Jets",
+        "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244773,
+      "name": "Here Come The Warm Jets - 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/5AiNr1E4t8n1T4NebVLKyK"
+    },
+    {
+      "album": {
+        "name": "\"Heroes\" (2017 Remaster)",
+        "url": "https://open.spotify.com/album/4I5zzKYd2SKDgZ9DRf5LVk"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371413,
+      "name": "Heroes - 2017 Remaster",
+      "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/3DQVgcqaP3iSMbaKsd57l5"
+    },
+    {
+      "album": {
+        "name": "The Velvet Underground & Nico 45th Anniversary",
+        "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
+      },
+      "artists": [
+        {
+          "name": "The Velvet Underground",
+          "url": "https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC"
+        },
+        {
+          "name": "Nico",
+          "url": "https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279520,
+      "name": "I'm Waiting For The Man",
+      "url": "https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb"
+    },
+    {
+      "album": {
+        "name": "Rather Ripped",
+        "url": "https://open.spotify.com/album/57V5TA5DLxNvwPCPyXW1tB"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "Incinerate",
+      "url": "https://open.spotify.com/track/6bGnkppjxJJY4HeOQ5dheD"
+    },
+    {
+      "album": {
+        "name": "Homogenic",
+        "url": "https://open.spotify.com/album/3knDOJUQBAATXsKYLWO4k8"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305360,
+      "name": "J\u00f3ga",
+      "url": "https://open.spotify.com/track/18NehrWLUFK7NPH522YQMQ"
+    },
+    {
+      "album": {
+        "name": "Physical Graffiti (1994 Remaster)",
+        "url": "https://open.spotify.com/album/1lZahjeu4AhPkg9JARZr5F"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508200,
+      "name": "Kashmir - 1990 Remaster",
+      "url": "https://open.spotify.com/track/2nVHqZbOGkKWzlcy1aMbE7"
+    },
+    {
+      "album": {
+        "name": "Gieco Querido! Cantando al Le\u00f3n, Parte 1",
+        "url": "https://open.spotify.com/album/2JeKiE6Zrtt0ZiNEa9hNWr"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294573,
+      "name": "La Colina de la Vida",
+      "url": "https://open.spotify.com/track/2Zj7DmSEVXmyFMt4WFdMPu"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195960,
+      "name": "La Marmota",
+      "url": "https://open.spotify.com/track/6AOVeEqm394cuWxNuB1gl6"
+    },
+    {
+      "album": {
+        "name": "Lullabies To Paralyze",
+        "url": "https://open.spotify.com/album/03srSIJshSQQOh2vJ3uVZi"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174026,
+      "name": "Little Sister",
+      "url": "https://open.spotify.com/track/1rzYrkxgRuLLJDqWdB32pK"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "Matrimanicomio",
+      "url": "https://open.spotify.com/track/0zBq70xJ9F34JD9SWwoUb0"
+    },
+    {
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/5GRQEDV6B6rZ89jQcIkAa6"
+      },
+      "artists": [
+        {
+          "name": "Octafonic",
+          "url": "https://open.spotify.com/artist/0zH8fHWkJtawv3gpK43wIf"
+        },
+        {
+          "name": "Nico Sorin",
+          "url": "https://open.spotify.com/artist/1tXOIb9gcNlk9fWbFNabdL"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Mistifying",
+      "url": "https://open.spotify.com/track/3JQZV8nDGtxGxMvNpift1N"
+    },
+    {
+      "album": {
+        "name": "La Danza de los Principiantes",
+        "url": "https://open.spotify.com/album/0609boj0n6y9QvmgeNcUzr"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263976,
+      "name": "M\u00e1quina del Tiempo",
+      "url": "https://open.spotify.com/track/15Y7Dc86Wj6jMnwnuyza7j"
+    },
+    {
+      "album": {
+        "name": "Cerca de las Nubes",
+        "url": "https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249492,
+      "name": "M\u00e1s de Todo",
+      "url": "https://open.spotify.com/track/7p8PBTRbPqqmd0fzaJaNV9"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298506,
+      "name": "M\u00e1s Que un Deseo",
+      "url": "https://open.spotify.com/track/11d5Sy4GHarJES7ylzCmNh"
+    },
+    {
+      "album": {
+        "name": "Brindando por Nada",
+        "url": "https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217560,
+      "name": "Nada Es Real",
+      "url": "https://open.spotify.com/track/6SrG832Ui4yIm1IWCPb4hD"
+    },
+    {
+      "album": {
+        "name": "Nadie Fue",
+        "url": "https://open.spotify.com/album/6s8fmQxkac1PRwn6TRQsQx"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234035,
+      "name": "Nadie Fue",
+      "url": "https://open.spotify.com/track/68EV73oEUjGEt7HpQ0ds2c"
+    },
+    {
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
+    },
+    {
+      "album": {
+        "name": "OUKE",
+        "url": "https://open.spotify.com/album/3JBQlYOqSgbdGgltjf35f2"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178263,
+      "name": "OUKE",
+      "url": "https://open.spotify.com/track/02vK8PPOQPDcbxNe4YHdme"
+    },
+    {
+      "album": {
+        "name": "Basta",
+        "url": "https://open.spotify.com/album/6TX2RKQxlhWMa6Bb7iXfAU"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Partidos",
+      "url": "https://open.spotify.com/track/2NwhbjdbFPk9NyBLyVB5rw"
+    },
+    {
+      "album": {
+        "name": "Computer World (2009 Remaster)",
+        "url": "https://open.spotify.com/album/42hCHiMtfs7mfBTVX3V6k7"
+      },
+      "artists": [
+        {
+          "name": "Kraftwerk",
+          "url": "https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296800,
+      "name": "Pocket Calculator - 2009 Remaster",
+      "url": "https://open.spotify.com/track/4xa1gzSKd6ihtVGd8dWs69"
+    },
+    {
+      "album": {
+        "name": "Billy Bond y la Pesada del Rock And Roll",
+        "url": "https://open.spotify.com/album/7aUqnB7wm0Ak4Hh7magbIG"
+      },
+      "artists": [
+        {
+          "name": "Billy Bond y La Pesada",
+          "url": "https://open.spotify.com/artist/4Se6WxeebNL0yEAs7NvCMY"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199653,
+      "name": "Salgan al Sol",
+      "url": "https://open.spotify.com/track/6p8mHQFj6xcNyizDj6ly0s"
+    },
+    {
+      "album": {
+        "name": "Brindando por Nada",
+        "url": "https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156520,
+      "name": "Se Puede Romper",
+      "url": "https://open.spotify.com/track/4JDuAqcMQECKGtHGVirbV0"
+    },
+    {
+      "album": {
+        "name": "Amor Seco",
+        "url": "https://open.spotify.com/album/3t90MnfsdsOrSw9EyoDnfO"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Se Quema",
+      "url": "https://open.spotify.com/track/5jvw2T2G0vAvjgSI2ptL7j"
+    },
+    {
+      "album": {
+        "name": "Cerca de las Nubes",
+        "url": "https://open.spotify.com/album/74lHbJkzv0QSuxVoSebpxW"
+      },
+      "artists": [
+        {
+          "name": "Las Pelotas",
+          "url": "https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239586,
+      "name": "Siempre Estar\u00e1",
+      "url": "https://open.spotify.com/track/3c8ML36o5wIUL0La0Cb2qH"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin II (1994 Remaster)",
+        "url": "https://open.spotify.com/album/70lQYZtypdCALtFVlQAcvx"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289466,
+      "name": "Thank You - 1990 Remaster",
+      "url": "https://open.spotify.com/track/4ZkhFcoS3apzze9w2yI9NO"
+    },
+    {
+      "album": {
+        "name": "Quadrophenia",
+        "url": "https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200706,
+      "name": "The Real Me",
+      "url": "https://open.spotify.com/track/0bNdtECaLZcHA4B9QPjeUk"
+    },
+    {
+      "album": {
+        "name": "Don't Be Scared",
+        "url": "https://open.spotify.com/album/2PXZM8IASLuLDCp5JqBq5G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Johnston",
+          "url": "https://open.spotify.com/artist/1jeYbk5eqo6wgsQPjLeU5w"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310413,
+      "name": "The Story Of An Artist",
+      "url": "https://open.spotify.com/track/73cER0SBGggJuZ9wfnfZmp"
+    },
+    {
+      "album": {
+        "name": "Forfun",
+        "url": "https://open.spotify.com/album/6NIqpybaq4hFvrsHEnmxCM"
+      },
+      "artists": [
+        {
+          "name": "Juana Molina",
+          "url": "https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252167,
+      "name": "Un D\u00eda Punk",
+      "url": "https://open.spotify.com/track/2Lk7Ib4YynkYwevr8L0Anw"
+    },
+    {
+      "album": {
+        "name": "The Frenz Experiment",
+        "url": "https://open.spotify.com/album/3rirpZpS2CYSIxb37cRsMo"
+      },
+      "artists": [
+        {
+          "name": "The Fall",
+          "url": "https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165933,
+      "name": "Victoria",
+      "url": "https://open.spotify.com/track/7IZhGuH9p2w3Bwpgajolkf"
+    },
+    {
+      "album": {
+        "name": "In Rainbows",
+        "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318186,
+      "name": "Weird Fishes/ Arpeggi",
+      "url": "https://open.spotify.com/track/4Iyo50UoYhuuYORMLrGDci"
+    },
+    {
+      "album": {
+        "name": "Who's Next",
+        "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2020-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511400,
+      "name": "Won't Get Fooled Again - Original Album Version",
+      "url": "https://open.spotify.com/track/0cJPLFrlV7TTCyPLupHzcH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUbj4FOlcnLy"
 }

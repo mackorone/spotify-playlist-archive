@@ -1,472 +1,1143 @@
 {
-  "2022-09-17": 222214,
-  "2022-09-18": 222262,
-  "2022-09-19": 222325,
-  "2022-09-20": 222372,
-  "2022-09-21": 222425,
-  "2022-09-22": 222486,
-  "2022-09-23": 222543,
-  "2022-09-24": 222543,
-  "2022-09-25": 222648,
-  "2022-09-26": 222733,
-  "2022-09-27": 222790,
-  "2022-09-28": 222845,
-  "2022-09-29": 222903,
-  "2022-09-30": 222953,
-  "2022-10-01": 223011,
-  "2022-10-02": 223066,
-  "2022-10-03": 223149,
-  "2022-10-04": 223206,
-  "2022-10-05": 223265,
-  "2022-10-06": 223335,
-  "2022-10-07": 223381,
-  "2022-10-08": 223462,
-  "2022-10-09": 223582,
-  "2022-10-10": 223599,
-  "2022-10-11": 223666,
-  "2022-10-12": 223714,
-  "2022-10-13": 223784,
-  "2022-10-14": 223863,
-  "2022-10-15": 223935,
-  "2022-10-16": 224008,
-  "2022-10-17": 224082,
-  "2022-10-18": 224162,
-  "2022-10-19": 224257,
-  "2022-10-20": 224341,
-  "2022-10-21": 224449,
-  "2022-10-22": 224539,
-  "2022-10-23": 224622,
-  "2022-10-24": 224700,
-  "2022-10-25": 224810,
-  "2022-10-26": 224965,
-  "2022-10-27": 225140,
-  "2022-10-28": 225321,
-  "2022-10-29": 225397,
-  "2022-10-30": 225479,
-  "2022-10-31": 225561,
-  "2022-11-01": 225659,
-  "2022-11-02": 225783,
-  "2022-11-03": 225883,
-  "2022-11-04": 226021,
-  "2022-11-05": 226135,
-  "2022-11-06": 226243,
-  "2022-11-07": 226387,
-  "2022-11-08": 226498,
-  "2022-11-09": 226620,
-  "2022-11-10": 226716,
-  "2022-11-11": 226831,
-  "2022-11-12": 226929,
-  "2022-11-13": 227013,
-  "2022-11-14": 227071,
-  "2022-11-15": 227150,
-  "2022-11-16": 227221,
-  "2022-11-17": 227287,
-  "2022-11-18": 227305,
-  "2022-11-19": 227323,
-  "2022-11-20": 227391,
-  "2022-11-21": 227465,
-  "2022-11-22": 227513,
-  "2022-11-23": 227584,
-  "2022-11-24": 227695,
-  "2022-11-25": 227790,
-  "2022-11-26": 227835,
-  "2022-11-27": 227890,
-  "2022-11-28": 227958,
-  "2022-11-29": 227995,
-  "2022-11-30": 228050,
-  "2022-12-01": 228088,
-  "2022-12-02": 228118,
-  "2022-12-03": 228219,
-  "2022-12-04": 228299,
-  "2022-12-05": 228372,
-  "2022-12-06": 228450,
-  "2022-12-07": 228509,
-  "2022-12-08": 228549,
-  "2022-12-09": 228606,
-  "2022-12-10": 228657,
-  "2022-12-11": 228713,
-  "2022-12-12": 228761,
-  "2022-12-13": 228816,
-  "2022-12-14": 228867,
-  "2022-12-15": 228913,
-  "2022-12-16": 228944,
-  "2022-12-17": 229004,
-  "2022-12-18": 229054,
-  "2022-12-19": 229088,
-  "2022-12-20": 229195,
-  "2022-12-21": 229195,
-  "2022-12-22": 229250,
-  "2022-12-24": 229345,
-  "2022-12-25": 229387,
-  "2022-12-26": 229448,
-  "2022-12-27": 229503,
-  "2022-12-28": 229552,
-  "2022-12-29": 229602,
-  "2022-12-30": 229670,
-  "2022-12-31": 229737,
-  "2023-01-01": 229793,
-  "2023-01-02": 229854,
-  "2023-01-03": 229918,
-  "2023-01-04": 229988,
-  "2023-01-05": 230042,
-  "2023-01-06": 230110,
-  "2023-01-07": 230235,
-  "2023-01-08": 230260,
-  "2023-01-09": 230317,
-  "2023-01-10": 230373,
-  "2023-01-11": 230424,
-  "2023-01-12": 230471,
-  "2023-01-13": 230520,
-  "2023-01-14": 230636,
-  "2023-01-15": 230644,
-  "2023-01-16": 230715,
-  "2023-01-17": 230794,
-  "2023-01-18": 230824,
-  "2023-01-19": 230901,
-  "2023-01-20": 230952,
-  "2023-01-21": 231034,
-  "2023-01-22": 231093,
-  "2023-01-23": 231170,
-  "2023-01-24": 231237,
-  "2023-01-25": 231277,
-  "2023-01-26": 231349,
-  "2023-01-27": 231415,
-  "2023-01-28": 231477,
-  "2023-01-29": 231539,
-  "2023-01-30": 231641,
-  "2023-01-31": 231641,
-  "2023-02-01": 231771,
-  "2023-02-02": 231828,
-  "2023-02-03": 231880,
-  "2023-02-04": 231942,
-  "2023-02-05": 232007,
-  "2023-02-06": 232071,
-  "2023-02-07": 232113,
-  "2023-02-08": 232206,
-  "2023-02-09": 232206,
-  "2023-02-10": 232250,
-  "2023-02-11": 232316,
-  "2023-02-12": 232438,
-  "2023-02-13": 232486,
-  "2023-02-14": 232486,
-  "2023-02-15": 232526,
-  "2023-02-16": 232583,
-  "2023-02-17": 232632,
-  "2023-02-18": 232785,
-  "2023-02-19": 232800,
-  "2023-02-20": 232846,
-  "2023-02-21": 232916,
-  "2023-02-22": 232976,
-  "2023-02-23": 233030,
-  "2023-02-24": 233079,
-  "2023-02-25": 233157,
-  "2023-02-26": 233198,
-  "2023-02-27": 233306,
-  "2023-02-28": 233306,
-  "2023-03-01": 233374,
-  "2023-03-02": 233437,
-  "2023-03-03": 233533,
-  "2023-03-04": 233606,
-  "2023-03-05": 233773,
-  "2023-03-06": 233773,
-  "2023-03-07": 233835,
-  "2023-03-08": 233912,
-  "2023-03-09": 233968,
-  "2023-03-10": 234030,
-  "2023-03-11": 234100,
-  "2023-03-12": 234179,
-  "2023-03-13": 234235,
-  "2023-03-14": 234266,
-  "2023-03-15": 234304,
-  "2023-03-16": 234304,
-  "2023-03-17": 234304,
-  "2023-03-18": 234421,
-  "2023-03-19": 234421,
-  "2023-03-20": 234502,
-  "2023-03-21": 234549,
-  "2023-03-22": 234609,
-  "2023-03-23": 234763,
-  "2023-03-24": 234763,
-  "2023-03-25": 234919,
-  "2023-03-26": 234994,
-  "2023-03-27": 235078,
-  "2023-03-28": 235127,
-  "2023-03-29": 235193,
-  "2023-03-30": 235260,
-  "2023-03-31": 235260,
-  "2023-04-01": 235295,
-  "2023-04-02": 235339,
-  "2023-04-03": 235385,
-  "2023-04-04": 235429,
-  "2023-04-05": 235471,
-  "2023-04-06": 235513,
-  "2023-04-07": 235561,
-  "2023-04-09": 235668,
-  "2023-04-10": 235722,
-  "2023-04-11": 235833,
-  "2023-04-12": 235833,
-  "2023-04-13": 235897,
-  "2023-04-14": 235940,
-  "2023-04-15": 235978,
-  "2023-04-16": 236030,
-  "2023-04-17": 236076,
-  "2023-04-18": 236114,
-  "2023-04-19": 236148,
-  "2023-04-20": 236198,
-  "2023-04-21": 236217,
-  "2023-04-22": 236281,
-  "2023-04-23": 236324,
-  "2023-04-24": 236380,
-  "2023-04-25": 236411,
-  "2023-04-26": 236446,
-  "2023-04-27": 236492,
-  "2023-04-28": 236521,
-  "2023-04-29": 236594,
-  "2023-04-30": 236641,
-  "2023-05-01": 236701,
-  "2023-05-02": 236734,
-  "2023-05-03": 236775,
-  "2023-05-04": 236827,
-  "2023-05-05": 236875,
-  "2023-05-06": 236921,
-  "2023-05-07": 236956,
-  "2023-05-08": 236987,
-  "2023-05-09": 237040,
-  "2023-05-10": 237086,
-  "2023-05-11": 237120,
-  "2023-05-12": 237174,
-  "2023-05-13": 237200,
-  "2023-05-14": 237237,
-  "2023-05-15": 237279,
-  "2023-05-16": 237303,
-  "2023-05-17": 237348,
-  "2023-05-18": 237409,
-  "2023-05-19": 237467,
-  "2023-05-20": 237576,
-  "2023-05-21": 237576,
-  "2023-05-22": 237576,
-  "2023-05-23": 237671,
-  "2023-05-24": 237780,
-  "2023-05-25": 237835,
-  "2023-05-26": 238036,
-  "2023-05-27": 238229,
-  "2023-05-28": 238504,
-  "2023-05-29": 238504,
-  "2023-05-30": 239061,
-  "2023-05-31": 239441,
-  "2023-06-01": 239702,
-  "2023-06-02": 239769,
-  "2023-06-03": 239844,
-  "2023-06-04": 239899,
-  "2023-06-05": 239966,
-  "2023-06-06": 240028,
-  "2023-06-07": 240096,
-  "2023-06-08": 240164,
-  "2023-06-09": 240230,
-  "2023-06-10": 240303,
-  "2023-06-11": 240386,
-  "2023-06-12": 240477,
-  "2023-06-13": 240541,
-  "2023-06-14": 240604,
-  "2023-06-15": 240662,
-  "2023-06-16": 240733,
-  "2023-06-17": 240829,
-  "2023-06-18": 240908,
-  "2023-06-19": 240998,
-  "2023-06-20": 241094,
-  "2023-06-21": 241151,
-  "2023-06-22": 241208,
-  "2023-06-23": 241272,
-  "2023-06-24": 241314,
-  "2023-06-25": 241367,
-  "2023-06-26": 241415,
-  "2023-06-27": 241465,
-  "2023-06-28": 241512,
-  "2023-06-29": 241544,
-  "2023-06-30": 241590,
-  "2023-07-01": 241670,
-  "2023-07-02": 241670,
-  "2023-07-03": 241720,
-  "2023-07-04": 241762,
-  "2023-07-05": 241803,
-  "2023-07-06": 241913,
-  "2023-07-07": 241913,
-  "2023-07-08": 241913,
-  "2023-07-09": 242015,
-  "2023-07-10": 242076,
-  "2023-07-11": 242106,
-  "2023-07-12": 242157,
-  "2023-07-13": 242201,
-  "2023-07-14": 242253,
-  "2023-07-15": 242281,
-  "2023-07-16": 242341,
-  "2023-07-17": 242398,
-  "2023-07-18": 242427,
-  "2023-07-19": 242472,
-  "2023-07-20": 242530,
-  "2023-07-21": 242594,
-  "2023-07-22": 242654,
-  "2023-07-23": 242706,
-  "2023-07-24": 242739,
-  "2023-07-25": 242789,
-  "2023-07-26": 242841,
-  "2023-07-27": 242888,
-  "2023-07-28": 242936,
-  "2023-07-29": 242995,
-  "2023-07-30": 243072,
-  "2023-07-31": 243136,
-  "2023-08-01": 243189,
-  "2023-08-02": 243239,
-  "2023-08-03": 243288,
-  "2023-08-04": 243330,
-  "2023-08-05": 243390,
-  "2023-08-06": 243493,
-  "2023-08-07": 243493,
-  "2023-08-08": 243559,
-  "2023-08-09": 243635,
-  "2023-08-10": 243694,
-  "2023-08-11": 243775,
-  "2023-08-12": 243775,
-  "2023-08-13": 243775,
-  "2023-08-14": 243991,
-  "2023-08-15": 243991,
-  "2023-08-16": 243991,
-  "2023-08-17": 243991,
-  "2023-08-18": 243991,
-  "2023-08-19": 243991,
-  "2023-08-20": 244362,
-  "2023-08-21": 244362,
-  "2023-08-22": 244473,
-  "2023-08-23": 244473,
-  "2023-08-24": 244473,
-  "2023-08-25": 244473,
-  "2023-08-26": 244749,
-  "2023-08-27": 244749,
-  "2023-08-28": 244885,
-  "2023-08-29": 244885,
-  "2023-08-30": 244885,
-  "2023-08-31": 245039,
-  "2023-09-01": 245102,
-  "2023-09-02": 245102,
-  "2023-09-03": 245253,
-  "2023-09-04": 245253,
-  "2023-09-05": 245253,
-  "2023-09-06": 245398,
-  "2023-09-07": 245398,
-  "2023-09-08": 245398,
-  "2023-09-09": 245398,
-  "2023-09-10": 245630,
-  "2023-09-11": 245630,
-  "2023-09-12": 245630,
-  "2023-09-13": 245630,
-  "2023-09-14": 245630,
-  "2023-09-15": 245630,
-  "2023-09-16": 245944,
-  "2023-09-17": 245944,
-  "2023-09-18": 245944,
-  "2023-09-19": 246089,
-  "2023-09-20": 246089,
-  "2023-09-21": 246089,
-  "2023-09-22": 246297,
-  "2023-09-23": 246297,
-  "2023-09-24": 246297,
-  "2023-09-25": 246297,
-  "2023-09-26": 246664,
-  "2023-09-27": 246664,
-  "2023-09-28": 246664,
-  "2023-09-29": 246664,
-  "2023-09-30": 246664,
-  "2023-10-01": 246664,
-  "2023-10-02": 246664,
-  "2023-10-03": 246664,
-  "2023-10-04": 246664,
-  "2023-10-05": 246664,
-  "2023-10-06": 246664,
-  "2023-10-07": 246664,
-  "2023-10-08": 246664,
-  "2023-10-09": 246664,
-  "2023-10-10": 246664,
-  "2023-10-11": 247449,
-  "2023-10-12": 247449,
-  "2023-10-13": 247449,
-  "2023-10-14": 247449,
-  "2023-10-15": 247449,
-  "2023-10-16": 247449,
-  "2023-10-17": 247449,
-  "2023-10-18": 247449,
-  "2023-10-19": 247449,
-  "2023-10-20": 247449,
-  "2023-10-21": 247449,
-  "2023-10-22": 247449,
-  "2023-10-23": 247449,
-  "2023-10-24": 247449,
-  "2023-10-25": 247449,
-  "2023-10-26": 247449,
-  "2023-10-27": 247449,
-  "2023-10-28": 247449,
-  "2023-10-29": 247449,
-  "2023-10-30": 247449,
-  "2023-10-31": 247449,
-  "2023-11-01": 247449,
-  "2023-11-02": 247449,
-  "2023-11-03": 247449,
-  "2023-11-04": 247449,
-  "2023-11-05": 247449,
-  "2023-11-06": 247449,
-  "2023-11-07": 247449,
-  "2023-11-08": 247449,
-  "2023-11-09": 247449,
-  "2023-11-10": 247449,
-  "2023-11-11": 248908,
-  "2023-11-12": 248908,
-  "2023-11-13": 248908,
-  "2023-11-14": 248908,
-  "2023-11-15": 248908,
-  "2023-11-16": 248908,
-  "2023-11-17": 248908,
-  "2023-11-18": 248908,
-  "2023-11-19": 248908,
-  "2023-11-20": 248908,
-  "2023-11-21": 248908,
-  "2023-11-22": 248908,
-  "2023-11-23": 248908,
-  "2023-11-24": 248908,
-  "2023-11-25": 248908,
-  "2023-11-26": 248908,
-  "2023-11-27": 248908,
-  "2023-11-28": 248908,
-  "2023-11-29": 248908,
-  "2023-11-30": 248908,
-  "2023-12-01": 248908,
-  "2023-12-02": 248908,
-  "2023-12-03": 248908,
-  "2023-12-04": 248908,
-  "2023-12-05": 248908,
-  "2023-12-06": 248908,
-  "2023-12-07": 248908,
-  "2023-12-08": 248908,
-  "2023-12-09": 248908,
-  "2023-12-10": 248908,
-  "2023-12-11": 248908,
-  "2023-12-12": 248908,
-  "2023-12-13": 248908,
-  "2023-12-14": 250539,
-  "2023-12-15": 250584,
-  "2023-12-16": 250642,
-  "2023-12-17": 250687,
-  "2023-12-18": 250736,
-  "2023-12-19": 250779,
-  "2023-12-20": 250822,
-  "2023-12-21": 250872,
-  "2023-12-22": 250933,
-  "2023-12-23": 250997,
-  "2023-12-24": 251060,
-  "2023-12-25": 251090,
-  "2023-12-26": 251123,
-  "2023-12-27": 251179,
-  "2023-12-30": 251358,
-  "2023-12-31": 251410,
-  "2024-01-01": 251459,
-  "2024-01-02": 251491,
-  "2024-01-03": 251530
+  "2024-01-17": 252067,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Bon Iver. The essential tracks, all in one playlist.",
+  "name": "This Is Bon Iver",
+  "tracks": [
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 233982,
+      "name": "00000 Million",
+      "url": "https://open.spotify.com/track/2lJNtl3CiHlGlW9OJHftZo"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "22 (OVER S\u221e\u221eN)",
+      "url": "https://open.spotify.com/track/3EYj5rxRbNM3nijF9dOtry"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "33 \u201cGOD\u201d",
+      "url": "https://open.spotify.com/track/5sWF1EZGm727f3b620vkbC"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "666 \u0287",
+      "url": "https://open.spotify.com/track/0CH4Zcnru3JDValapqx3BO"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "715 - CR\u2211\u2211KS",
+      "url": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
+    },
+    {
+      "album": {
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309013,
+      "name": "8 (circle)",
+      "url": "https://open.spotify.com/track/16WkFbQRW2BhvMUwuIaIsx"
+    },
+    {
+      "album": {
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 283613,
+      "name": "Babys",
+      "url": "https://open.spotify.com/track/5FGsZbvRZer28nY0cU82D7"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Beach Baby",
+      "url": "https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 316800,
+      "name": "Beth/Rest",
+      "url": "https://open.spotify.com/track/2Eh12jPXjq0DKVQmFy3675"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 329266,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/4mOqHhznOkkYrhfgssktbZ"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285160,
+      "name": "Blood Bank",
+      "url": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+    },
+    {
+      "album": {
+        "name": "Boys Of Faith",
+        "url": "https://open.spotify.com/album/5wKVor4aDuvn09tJO7WZpY"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6pRRHgDjfIGhTUCGlHX2p8"
+    },
+    {
+      "album": {
+        "name": "Dark Was The Night (Red Hot Compilation)",
+        "url": "https://open.spotify.com/album/1ZgPLRwQF58fsgciZl1PO4"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "Brackett, WI",
+      "url": "https://open.spotify.com/track/6nC0OeALgrXNmyFFMGKNqO"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Calgary",
+      "url": "https://open.spotify.com/track/3rL3jc6CA4SS1eqzGwR877"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "Creature Fear",
+      "url": "https://open.spotify.com/track/7jJH5jAOUvR0FxkbYBmAQA"
+    },
+    {
+      "album": {
+        "name": "Creed II: The Album",
+        "url": "https://open.spotify.com/album/7kSa9AwcDQ6ZUScaXxp8zP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 115849,
+      "name": "Do You Need Power? (Walk Out Music)",
+      "url": "https://open.spotify.com/track/4zaK7pzY7D5GkOlkT4i8ru"
+    },
+    {
+      "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/3O5osWf1rSoKMwe6E9ZaXP"
+    },
+    {
+      "album": {
+        "name": "evermore (deluxe version)",
+        "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304106,
+      "name": "evermore (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6Wlq9rqkxrqj5Kls4Kw14H"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285634,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/4dIMGmkew7pLWVoJ7de8Wg"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Flume",
+      "url": "https://open.spotify.com/track/0bhBtXHQX3u6dSAPF59qGx"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188336,
+      "name": "Friends (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/0ZpBPavoID3eDbaXKSWpAD"
+    },
+    {
+      "album": {
+        "name": "Heart of Gold (with Bon Iver)",
+        "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
+      },
+      "artists": [
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172190,
+      "name": "Heart of Gold (with Bon Iver)",
+      "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0RstfX9nRY1Lfuy1808MoT"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "Hinnom, TX",
+      "url": "https://open.spotify.com/track/07JjtrTqsBg6hE0xoAU1xZ"
+    },
+    {
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/6DESft0qm6RhoYf5wzeoGH"
+    },
+    {
+      "album": {
+        "name": "The Colour In Anything",
+        "url": "https://open.spotify.com/album/1WyrGCkFDlH1xPadZ5qTkL"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257219,
+      "name": "I Need A Forest Fire",
+      "url": "https://open.spotify.com/track/0TLAptKgYxe7F0KewWH6X6"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "iMi",
+      "url": "https://open.spotify.com/track/56A3kiXcOAmz6LxxUNfIYf"
+    },
+    {
+      "album": {
+        "name": "EPHEMERA",
+        "url": "https://open.spotify.com/album/1TFgjl0bCMERMukkaPtY9m"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 167636,
+      "name": "Jeanie",
+      "url": "https://open.spotify.com/track/0yyLXG8mShBAwGk0oC7JCx"
+    },
+    {
+      "album": {
+        "name": "Jeanie (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/5jWHspWCxRbx19wglIUYkd"
+      },
+      "artists": [
+        {
+          "name": "Jim-E Stack",
+          "url": "https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 167636,
+      "name": "Jeanie (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/6nv9RCo0IXNzCSGeYtzT82"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256586,
+      "name": "Lost In The World",
+      "url": "https://open.spotify.com/track/2Im64pIz6m0EJKdUe6eZ8r"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201066,
+      "name": "Lump Sum",
+      "url": "https://open.spotify.com/track/6MpKc6ceAd2fAMEpkLxkiF"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141666,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/4Pzg3KLuXxPJ2eFsPiN134"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Michicant",
+      "url": "https://open.spotify.com/track/43d83eCd7GzmVOKsLwV3QN"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232440,
+      "name": "Minnesota, WI",
+      "url": "https://open.spotify.com/track/6dmqnKIOvBfqjP317AT2tT"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378893,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262266,
+      "name": "Naeem",
+      "url": "https://open.spotify.com/track/0XOsqpvDLx0FhizUCqwSNf"
+    },
+    {
+      "album": {
+        "name": "PDLIF",
+        "url": "https://open.spotify.com/album/7qndMGjqK9djNHcROVSd1J"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177285,
+      "name": "PDLIF",
+      "url": "https://open.spotify.com/track/0kT1QOkgYYaW0lnMpXY76h"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262079,
+      "name": "Perth",
+      "url": "https://open.spotify.com/track/5sYAPWzsEk8pd1OFhcQ67T"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 212266,
+      "name": "RABi",
+      "url": "https://open.spotify.com/track/4nOHprlBR2OHWZe1EGrxdr"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401413,
+      "name": "Re: Stacks",
+      "url": "https://open.spotify.com/track/20AC70RUlVz6A6dCcQ5tRS"
+    },
+    {
+      "album": {
+        "name": "The Twilight Saga: New Moon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289560,
+      "name": "Rosyln",
+      "url": "https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 224706,
+      "name": "Salem",
+      "url": "https://open.spotify.com/track/1u7cLB3jSUdBTfttKd1LeN"
+    },
+    {
+      "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242149,
+      "name": "Second Nature",
+      "url": "https://open.spotify.com/track/0ZiZoJuytgBABtjeR9nzhE"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238520,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+    },
+    {
+      "album": {
+        "name": "So Unimportant",
+        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263320,
+      "name": "So Unimportant",
+      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 322040,
+      "name": "The Wolves (Act I and II)",
+      "url": "https://open.spotify.com/track/3TO6wG55HdfwC8zfOaXAlJ"
+    },
+    {
+      "album": {
+        "name": "Bon Iver (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/2qHl2VvpKJ6ciB45nCtLB2"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "U (Man Like)",
+      "url": "https://open.spotify.com/track/59lQwJcWbr9x3OvTvW5NNX"
+    },
+    {
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298586,
+      "name": "Wash.",
+      "url": "https://open.spotify.com/track/7rIhp6EWLNtM8qFIQruJPT"
+    },
+    {
+      "album": {
+        "name": "Weird Goodbyes (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N"
+    },
+    {
+      "album": {
+        "name": "Laugh Track",
+        "url": "https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303173,
+      "name": "Weird Goodbyes (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/75JaY0e1HDkTfetsrQ5vUR"
+    },
+    {
+      "album": {
+        "name": "Blood Bank",
+        "url": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 285440,
+      "name": "Woods",
+      "url": "https://open.spotify.com/track/2cx019HWgBsIrv3zLCdSHS"
+    },
+    {
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/0aldG5AoqOUDkEbsGtI9TW"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 31546,
+      "name": "Yi",
+      "url": "https://open.spotify.com/track/5vEWPY949yZvv8GtixRR6W"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2NpR0A"
 }

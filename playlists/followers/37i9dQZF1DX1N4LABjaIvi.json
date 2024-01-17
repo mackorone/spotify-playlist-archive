@@ -1,727 +1,2683 @@
 {
-  "2022-01-02": 196879,
-  "2022-01-03": 196963,
-  "2022-01-04": 197033,
-  "2022-01-05": 197120,
-  "2022-01-06": 197210,
-  "2022-01-07": 197293,
-  "2022-01-08": 197480,
-  "2022-01-09": 197486,
-  "2022-01-10": 197613,
-  "2022-01-11": 197703,
-  "2022-01-12": 197790,
-  "2022-01-13": 197860,
-  "2022-01-14": 197976,
-  "2022-01-15": 198173,
-  "2022-01-16": 198184,
-  "2022-01-17": 198442,
-  "2022-01-18": 198447,
-  "2022-01-19": 198553,
-  "2022-01-20": 198682,
-  "2022-01-21": 198802,
-  "2022-01-22": 198911,
-  "2022-01-23": 199002,
-  "2022-01-24": 199102,
-  "2022-01-25": 199207,
-  "2022-01-26": 199297,
-  "2022-01-27": 199409,
-  "2022-01-28": 199579,
-  "2022-01-29": 199710,
-  "2022-01-30": 199838,
-  "2022-01-31": 199959,
-  "2022-02-01": 200076,
-  "2022-02-02": 200181,
-  "2022-02-03": 200291,
-  "2022-02-04": 200414,
-  "2022-02-05": 200529,
-  "2022-02-06": 200667,
-  "2022-02-07": 200805,
-  "2022-02-08": 200913,
-  "2022-02-09": 201022,
-  "2022-02-10": 201101,
-  "2022-02-11": 201203,
-  "2022-02-12": 201328,
-  "2022-02-13": 201443,
-  "2022-02-14": 201559,
-  "2022-02-15": 201673,
-  "2022-02-16": 201771,
-  "2022-02-17": 201892,
-  "2022-02-18": 202022,
-  "2022-02-19": 202132,
-  "2022-02-20": 202245,
-  "2022-02-21": 202356,
-  "2022-02-22": 202447,
-  "2022-02-23": 202534,
-  "2022-02-24": 202635,
-  "2022-02-25": 202700,
-  "2022-02-26": 202784,
-  "2022-02-27": 203014,
-  "2022-02-28": 203014,
-  "2022-03-01": 203113,
-  "2022-03-02": 203223,
-  "2022-03-03": 203264,
-  "2022-03-04": 203342,
-  "2022-03-05": 203404,
-  "2022-03-06": 203502,
-  "2022-03-07": 203587,
-  "2022-03-08": 203658,
-  "2022-03-09": 203738,
-  "2022-03-10": 203812,
-  "2022-03-11": 203895,
-  "2022-03-12": 203976,
-  "2022-03-13": 204075,
-  "2022-03-14": 204170,
-  "2022-03-15": 204221,
-  "2022-03-16": 204313,
-  "2022-03-17": 204364,
-  "2022-03-18": 204445,
-  "2022-03-19": 204507,
-  "2022-03-20": 204507,
-  "2022-03-21": 204680,
-  "2022-03-22": 204719,
-  "2022-03-23": 204789,
-  "2022-03-24": 204834,
-  "2022-03-25": 204904,
-  "2022-03-26": 204984,
-  "2022-03-27": 205065,
-  "2022-03-28": 205137,
-  "2022-03-30": 205254,
-  "2022-03-31": 205327,
-  "2022-04-01": 205400,
-  "2022-04-02": 205479,
-  "2022-04-03": 205558,
-  "2022-04-04": 205638,
-  "2022-04-05": 205709,
-  "2022-04-06": 205791,
-  "2022-04-07": 205859,
-  "2022-04-08": 205943,
-  "2022-04-09": 206016,
-  "2022-04-10": 206172,
-  "2022-04-11": 206252,
-  "2022-04-12": 206269,
-  "2022-04-13": 206365,
-  "2022-04-14": 206448,
-  "2022-04-15": 206551,
-  "2022-04-16": 206650,
-  "2022-04-17": 206727,
-  "2022-04-18": 206817,
-  "2022-04-19": 206861,
-  "2022-04-20": 206930,
-  "2022-04-21": 207000,
-  "2022-04-22": 207064,
-  "2022-04-23": 207143,
-  "2022-04-24": 207235,
-  "2022-04-25": 207307,
-  "2022-04-26": 207368,
-  "2022-04-27": 207438,
-  "2022-04-28": 207493,
-  "2022-04-29": 207632,
-  "2022-04-30": 207695,
-  "2022-05-01": 207805,
-  "2022-05-02": 207805,
-  "2022-05-03": 207871,
-  "2022-05-04": 207926,
-  "2022-05-05": 207985,
-  "2022-05-06": 208051,
-  "2022-05-07": 208117,
-  "2022-05-08": 208220,
-  "2022-05-09": 208240,
-  "2022-05-10": 208299,
-  "2022-05-11": 208387,
-  "2022-05-12": 208445,
-  "2022-05-13": 208523,
-  "2022-05-14": 208573,
-  "2022-05-15": 208656,
-  "2022-05-16": 208715,
-  "2022-05-17": 208784,
-  "2022-05-18": 208846,
-  "2022-05-19": 208903,
-  "2022-05-20": 208967,
-  "2022-05-21": 209085,
-  "2022-05-22": 209085,
-  "2022-05-23": 209162,
-  "2022-05-24": 209213,
-  "2022-05-25": 209281,
-  "2022-05-26": 209351,
-  "2022-05-27": 209397,
-  "2022-05-28": 209455,
-  "2022-05-29": 209515,
-  "2022-05-30": 209591,
-  "2022-05-31": 209659,
-  "2022-06-01": 209768,
-  "2022-06-02": 209771,
-  "2022-06-03": 209829,
-  "2022-06-04": 209881,
-  "2022-06-05": 209933,
-  "2022-06-06": 210002,
-  "2022-06-07": 210044,
-  "2022-06-08": 210102,
-  "2022-06-09": 210139,
-  "2022-06-10": 210184,
-  "2022-06-11": 210229,
-  "2022-06-12": 210293,
-  "2022-06-13": 210349,
-  "2022-06-14": 210415,
-  "2022-06-15": 210481,
-  "2022-06-16": 210548,
-  "2022-06-17": 210603,
-  "2022-06-18": 210672,
-  "2022-06-19": 210827,
-  "2022-06-20": 210827,
-  "2022-06-21": 210880,
-  "2022-06-22": 210990,
-  "2022-06-23": 210990,
-  "2022-06-24": 211039,
-  "2022-06-25": 211039,
-  "2022-06-26": 211039,
-  "2022-06-27": 211184,
-  "2022-06-28": 211223,
-  "2022-06-29": 211289,
-  "2022-06-30": 211355,
-  "2022-07-01": 211395,
-  "2022-07-02": 211472,
-  "2022-07-03": 211525,
-  "2022-07-04": 211594,
-  "2022-07-05": 211656,
-  "2022-07-06": 211708,
-  "2022-07-07": 211769,
-  "2022-07-08": 211819,
-  "2022-07-09": 211895,
-  "2022-07-10": 211978,
-  "2022-07-11": 212063,
-  "2022-07-12": 212137,
-  "2022-07-13": 212194,
-  "2022-07-14": 212255,
-  "2022-07-15": 212342,
-  "2022-07-16": 212426,
-  "2022-07-17": 212515,
-  "2022-07-18": 212628,
-  "2022-07-19": 212706,
-  "2022-07-20": 212771,
-  "2022-07-21": 212865,
-  "2022-07-22": 212943,
-  "2022-07-23": 213024,
-  "2022-07-24": 213111,
-  "2022-07-25": 213211,
-  "2022-07-26": 213282,
-  "2022-07-27": 213372,
-  "2022-07-28": 213428,
-  "2022-07-29": 213499,
-  "2022-07-30": 213667,
-  "2022-07-31": 213667,
-  "2022-08-01": 213750,
-  "2022-08-02": 213876,
-  "2022-08-03": 213876,
-  "2022-08-04": 213926,
-  "2022-08-05": 213986,
-  "2022-08-06": 214065,
-  "2022-08-07": 214141,
-  "2022-08-08": 214212,
-  "2022-08-09": 214266,
-  "2022-08-10": 214321,
-  "2022-08-11": 214389,
-  "2022-08-12": 214480,
-  "2022-08-13": 214596,
-  "2022-08-14": 214686,
-  "2022-08-15": 214826,
-  "2022-08-16": 214926,
-  "2022-08-17": 214998,
-  "2022-08-18": 215089,
-  "2022-08-19": 215149,
-  "2022-08-20": 215217,
-  "2022-08-21": 215301,
-  "2022-08-22": 215400,
-  "2022-08-23": 215449,
-  "2022-08-24": 215524,
-  "2022-08-25": 215608,
-  "2022-08-26": 215690,
-  "2022-08-27": 215787,
-  "2022-08-28": 215872,
-  "2022-08-29": 215961,
-  "2022-08-30": 216030,
-  "2022-08-31": 216093,
-  "2022-09-01": 216174,
-  "2022-09-02": 216256,
-  "2022-09-03": 216343,
-  "2022-09-04": 216441,
-  "2022-09-05": 216522,
-  "2022-09-06": 216586,
-  "2022-09-07": 216675,
-  "2022-09-09": 216814,
-  "2022-09-10": 216899,
-  "2022-09-11": 216981,
-  "2022-09-12": 217077,
-  "2022-09-13": 217146,
-  "2022-09-15": 217312,
-  "2022-09-16": 217382,
-  "2022-09-17": 217453,
-  "2022-09-18": 217530,
-  "2022-09-19": 217600,
-  "2022-09-20": 217693,
-  "2022-09-21": 217753,
-  "2022-09-22": 217825,
-  "2022-09-23": 217888,
-  "2022-09-24": 217986,
-  "2022-09-25": 218058,
-  "2022-09-26": 218169,
-  "2022-09-27": 218249,
-  "2022-09-28": 218333,
-  "2022-09-29": 218416,
-  "2022-09-30": 218497,
-  "2022-10-01": 218586,
-  "2022-10-02": 218671,
-  "2022-10-03": 218768,
-  "2022-10-04": 218833,
-  "2022-10-05": 218913,
-  "2022-10-06": 218989,
-  "2022-10-07": 219096,
-  "2022-10-08": 219220,
-  "2022-10-09": 219378,
-  "2022-10-10": 219405,
-  "2022-10-11": 219510,
-  "2022-10-12": 219570,
-  "2022-10-13": 219633,
-  "2022-10-14": 219723,
-  "2022-10-15": 219816,
-  "2022-10-16": 219935,
-  "2022-10-17": 220044,
-  "2022-10-18": 220125,
-  "2022-10-19": 220206,
-  "2022-10-20": 220290,
-  "2022-10-21": 220367,
-  "2022-10-22": 220463,
-  "2022-10-23": 220554,
-  "2022-10-24": 220634,
-  "2022-10-25": 220706,
-  "2022-10-26": 220768,
-  "2022-10-27": 220839,
-  "2022-10-28": 220914,
-  "2022-10-29": 221004,
-  "2022-10-30": 221099,
-  "2022-10-31": 221155,
-  "2022-11-01": 221243,
-  "2022-11-02": 221336,
-  "2022-11-03": 221417,
-  "2022-11-04": 221484,
-  "2022-11-05": 221589,
-  "2022-11-06": 221676,
-  "2022-11-07": 221788,
-  "2022-11-08": 221866,
-  "2022-11-09": 221928,
-  "2022-11-10": 222013,
-  "2022-11-11": 222101,
-  "2022-11-12": 222201,
-  "2022-11-13": 222286,
-  "2022-11-14": 222368,
-  "2022-11-15": 222442,
-  "2022-11-16": 222522,
-  "2022-11-17": 222585,
-  "2022-11-18": 222607,
-  "2022-11-19": 222577,
-  "2022-11-20": 222707,
-  "2022-11-21": 222691,
-  "2022-11-22": 222851,
-  "2022-11-23": 222830,
-  "2022-11-24": 223055,
-  "2022-11-25": 223161,
-  "2022-11-26": 223217,
-  "2022-11-27": 223288,
-  "2022-11-28": 223353,
-  "2022-11-29": 223398,
-  "2022-11-30": 223448,
-  "2022-12-01": 223476,
-  "2022-12-02": 223516,
-  "2022-12-03": 223585,
-  "2022-12-04": 223649,
-  "2022-12-05": 223714,
-  "2022-12-06": 223787,
-  "2022-12-07": 223852,
-  "2022-12-08": 223929,
-  "2022-12-09": 224021,
-  "2022-12-10": 224084,
-  "2022-12-11": 224144,
-  "2022-12-12": 224239,
-  "2022-12-13": 224304,
-  "2022-12-14": 224370,
-  "2022-12-15": 224435,
-  "2022-12-16": 224509,
-  "2022-12-17": 224578,
-  "2022-12-18": 224660,
-  "2022-12-19": 224709,
-  "2022-12-20": 224828,
-  "2022-12-21": 224828,
-  "2022-12-22": 224882,
-  "2022-12-24": 225009,
-  "2022-12-25": 225077,
-  "2022-12-26": 225168,
-  "2022-12-27": 225243,
-  "2022-12-28": 225315,
-  "2022-12-29": 225388,
-  "2022-12-30": 225478,
-  "2022-12-31": 225561,
-  "2023-01-01": 225655,
-  "2023-01-02": 225741,
-  "2023-01-03": 225854,
-  "2023-01-04": 225929,
-  "2023-01-05": 226027,
-  "2023-01-06": 226134,
-  "2023-01-07": 226294,
-  "2023-01-08": 226330,
-  "2023-01-09": 226453,
-  "2023-01-10": 226547,
-  "2023-01-11": 226665,
-  "2023-01-12": 226755,
-  "2023-01-13": 226891,
-  "2023-01-14": 227135,
-  "2023-01-15": 227177,
-  "2023-01-16": 227317,
-  "2023-01-17": 227414,
-  "2023-01-18": 227510,
-  "2023-01-19": 227614,
-  "2023-01-20": 227694,
-  "2023-01-21": 227782,
-  "2023-01-22": 227919,
-  "2023-01-23": 228020,
-  "2023-01-24": 228116,
-  "2023-01-25": 228194,
-  "2023-01-26": 228284,
-  "2023-01-27": 228399,
-  "2023-01-28": 228519,
-  "2023-01-29": 228668,
-  "2023-01-30": 228788,
-  "2023-01-31": 228788,
-  "2023-02-01": 229000,
-  "2023-02-02": 229094,
-  "2023-02-03": 229204,
-  "2023-02-04": 229317,
-  "2023-02-05": 229426,
-  "2023-02-06": 229531,
-  "2023-02-07": 229625,
-  "2023-02-08": 229783,
-  "2023-02-09": 229783,
-  "2023-02-10": 229874,
-  "2023-02-11": 229947,
-  "2023-02-12": 230176,
-  "2023-02-13": 230257,
-  "2023-02-14": 230257,
-  "2023-02-15": 230336,
-  "2023-02-16": 230442,
-  "2023-02-17": 230543,
-  "2023-02-18": 230768,
-  "2023-02-19": 230790,
-  "2023-02-20": 230864,
-  "2023-02-21": 230969,
-  "2023-02-22": 231092,
-  "2023-02-23": 231174,
-  "2023-02-24": 231263,
-  "2023-02-25": 231356,
-  "2023-02-26": 231435,
-  "2023-02-27": 231626,
-  "2023-02-28": 231626,
-  "2023-03-01": 231708,
-  "2023-03-02": 231762,
-  "2023-03-03": 231845,
-  "2023-03-04": 231901,
-  "2023-03-05": 232056,
-  "2023-03-06": 232056,
-  "2023-03-07": 232134,
-  "2023-03-08": 232181,
-  "2023-03-09": 232249,
-  "2023-03-10": 232336,
-  "2023-03-11": 232404,
-  "2023-03-12": 232475,
-  "2023-03-13": 232548,
-  "2023-03-14": 232607,
-  "2023-03-15": 232659,
-  "2023-03-16": 232723,
-  "2023-03-17": 232723,
-  "2023-03-18": 232847,
-  "2023-03-19": 232911,
-  "2023-03-20": 232973,
-  "2023-03-21": 233028,
-  "2023-03-22": 233069,
-  "2023-03-23": 233129,
-  "2023-03-24": 233129,
-  "2023-03-25": 233261,
-  "2023-03-26": 233342,
-  "2023-03-27": 233408,
-  "2023-03-28": 233456,
-  "2023-03-29": 233507,
-  "2023-03-30": 233613,
-  "2023-03-31": 233613,
-  "2023-04-01": 233678,
-  "2023-04-02": 233733,
-  "2023-04-03": 233800,
-  "2023-04-04": 233853,
-  "2023-04-05": 233936,
-  "2023-04-06": 234009,
-  "2023-04-07": 234078,
-  "2023-04-09": 234253,
-  "2023-04-10": 234312,
-  "2023-04-11": 234385,
-  "2023-04-12": 234385,
-  "2023-04-13": 234385,
-  "2023-04-14": 234385,
-  "2023-04-15": 234385,
-  "2023-04-16": 234385,
-  "2023-04-17": 234385,
-  "2023-04-18": 234385,
-  "2023-04-19": 234385,
-  "2023-04-20": 234385,
-  "2023-04-21": 234385,
-  "2023-04-22": 234385,
-  "2023-04-23": 234385,
-  "2023-04-24": 234385,
-  "2023-04-25": 234385,
-  "2023-04-26": 234385,
-  "2023-04-27": 234385,
-  "2023-04-28": 234385,
-  "2023-04-29": 234385,
-  "2023-04-30": 234385,
-  "2023-05-01": 234385,
-  "2023-05-02": 234385,
-  "2023-05-03": 234385,
-  "2023-05-04": 234385,
-  "2023-05-05": 234385,
-  "2023-05-06": 234385,
-  "2023-05-07": 234385,
-  "2023-05-08": 234385,
-  "2023-05-09": 234385,
-  "2023-05-10": 234385,
-  "2023-05-11": 234385,
-  "2023-05-12": 234385,
-  "2023-05-13": 234385,
-  "2023-05-14": 234385,
-  "2023-05-15": 234385,
-  "2023-05-16": 234385,
-  "2023-05-17": 234385,
-  "2023-05-18": 234385,
-  "2023-05-19": 234385,
-  "2023-05-20": 234385,
-  "2023-05-21": 234385,
-  "2023-05-22": 234385,
-  "2023-05-23": 234385,
-  "2023-05-24": 234385,
-  "2023-05-25": 234385,
-  "2023-05-26": 234385,
-  "2023-05-27": 234385,
-  "2023-05-28": 234385,
-  "2023-05-29": 234385,
-  "2023-05-30": 234385,
-  "2023-05-31": 234385,
-  "2023-06-01": 234385,
-  "2023-06-02": 234385,
-  "2023-06-03": 234385,
-  "2023-06-04": 234385,
-  "2023-06-05": 234385,
-  "2023-06-06": 234385,
-  "2023-06-07": 234385,
-  "2023-06-08": 234385,
-  "2023-06-09": 234385,
-  "2023-06-10": 234385,
-  "2023-06-11": 234385,
-  "2023-06-12": 234385,
-  "2023-06-13": 234385,
-  "2023-06-14": 234385,
-  "2023-06-15": 234385,
-  "2023-06-16": 234385,
-  "2023-06-17": 234385,
-  "2023-06-18": 234385,
-  "2023-06-19": 234385,
-  "2023-06-20": 234385,
-  "2023-06-21": 234385,
-  "2023-06-22": 234385,
-  "2023-06-23": 234385,
-  "2023-06-24": 234385,
-  "2023-06-25": 234385,
-  "2023-06-26": 234385,
-  "2023-06-27": 234385,
-  "2023-06-28": 234385,
-  "2023-06-29": 234385,
-  "2023-06-30": 234385,
-  "2023-07-01": 234385,
-  "2023-07-02": 234385,
-  "2023-07-03": 234385,
-  "2023-07-04": 234385,
-  "2023-07-05": 234385,
-  "2023-07-06": 234385,
-  "2023-07-07": 234385,
-  "2023-07-08": 234385,
-  "2023-07-09": 234385,
-  "2023-07-10": 234385,
-  "2023-07-11": 234385,
-  "2023-07-12": 234385,
-  "2023-07-13": 234385,
-  "2023-07-14": 234385,
-  "2023-07-15": 234385,
-  "2023-07-16": 234385,
-  "2023-07-17": 234385,
-  "2023-07-18": 234385,
-  "2023-07-19": 234385,
-  "2023-07-20": 234385,
-  "2023-07-21": 234385,
-  "2023-07-22": 234385,
-  "2023-07-23": 234385,
-  "2023-07-24": 234385,
-  "2023-07-25": 234385,
-  "2023-07-26": 234385,
-  "2023-07-27": 234385,
-  "2023-07-28": 234385,
-  "2023-07-29": 234385,
-  "2023-07-30": 234385,
-  "2023-07-31": 234385,
-  "2023-08-01": 234385,
-  "2023-08-02": 234385,
-  "2023-08-03": 234385,
-  "2023-08-04": 234385,
-  "2023-08-05": 234385,
-  "2023-08-06": 234385,
-  "2023-08-07": 234385,
-  "2023-08-08": 234385,
-  "2023-08-09": 234385,
-  "2023-08-10": 234385,
-  "2023-08-11": 234385,
-  "2023-08-12": 234385,
-  "2023-08-13": 234385,
-  "2023-08-14": 234385,
-  "2023-08-15": 234385,
-  "2023-08-16": 234385,
-  "2023-08-17": 234385,
-  "2023-08-18": 234385,
-  "2023-08-19": 234385,
-  "2023-08-20": 234385,
-  "2023-08-21": 234385,
-  "2023-08-22": 234385,
-  "2023-08-23": 234385,
-  "2023-08-24": 234385,
-  "2023-08-25": 234385,
-  "2023-08-26": 234385,
-  "2023-08-27": 234385,
-  "2023-08-28": 234385,
-  "2023-08-29": 234385,
-  "2023-08-30": 234385,
-  "2023-08-31": 234385,
-  "2023-09-01": 234385,
-  "2023-09-02": 234385,
-  "2023-09-03": 234385,
-  "2023-09-04": 234385,
-  "2023-09-05": 234385,
-  "2023-09-06": 234385,
-  "2023-09-07": 234385,
-  "2023-09-08": 234385,
-  "2023-09-09": 234385,
-  "2023-09-10": 234385,
-  "2023-09-11": 234385,
-  "2023-09-12": 234385,
-  "2023-09-13": 234385,
-  "2023-09-14": 234385,
-  "2023-09-15": 234385,
-  "2023-09-16": 234385,
-  "2023-09-17": 234385,
-  "2023-09-18": 234385,
-  "2023-09-19": 234385,
-  "2023-09-20": 234385,
-  "2023-09-21": 234385,
-  "2023-09-22": 234385,
-  "2023-09-23": 234385,
-  "2023-09-24": 234385,
-  "2023-09-25": 234385,
-  "2023-09-26": 234385,
-  "2023-09-27": 234385,
-  "2023-09-28": 234385,
-  "2023-09-29": 234385,
-  "2023-09-30": 234385,
-  "2023-10-01": 234385,
-  "2023-10-02": 234385,
-  "2023-10-03": 234385,
-  "2023-10-04": 234385,
-  "2023-10-05": 234385,
-  "2023-10-06": 234385,
-  "2023-10-07": 234385,
-  "2023-10-08": 234385,
-  "2023-10-09": 234385,
-  "2023-10-10": 234385,
-  "2023-10-11": 234385,
-  "2023-10-12": 234385,
-  "2023-10-13": 234385,
-  "2023-10-14": 234385,
-  "2023-10-15": 234385,
-  "2023-10-16": 234385,
-  "2023-10-17": 234385,
-  "2023-10-18": 234385,
-  "2023-10-19": 234385,
-  "2023-10-20": 234385,
-  "2023-10-21": 234385,
-  "2023-10-22": 234385,
-  "2023-10-23": 234385,
-  "2023-10-24": 234385,
-  "2023-10-25": 234385,
-  "2023-10-26": 234385,
-  "2023-10-27": 234385,
-  "2023-10-28": 234385,
-  "2023-10-29": 234385,
-  "2023-10-30": 234385,
-  "2023-10-31": 234385,
-  "2023-11-01": 234385,
-  "2023-11-02": 234385,
-  "2023-11-03": 234385,
-  "2023-11-04": 234385,
-  "2023-11-05": 234385,
-  "2023-11-06": 234385,
-  "2023-11-07": 234385,
-  "2023-11-08": 234385,
-  "2023-11-09": 234385,
-  "2023-11-10": 234385,
-  "2023-11-11": 234385,
-  "2023-11-12": 234385,
-  "2023-11-13": 234385,
-  "2023-11-14": 234385,
-  "2023-11-15": 234385,
-  "2023-11-16": 234385,
-  "2023-11-17": 234385,
-  "2023-11-18": 234385,
-  "2023-11-19": 234385,
-  "2023-11-20": 234385,
-  "2023-11-21": 234385,
-  "2023-11-22": 234385,
-  "2023-11-23": 234385,
-  "2023-11-24": 234385,
-  "2023-11-25": 234385,
-  "2023-11-26": 234385,
-  "2023-11-27": 234385,
-  "2023-11-28": 234385,
-  "2023-11-29": 234385,
-  "2023-11-30": 234385,
-  "2023-12-01": 234385,
-  "2023-12-02": 234385,
-  "2023-12-03": 234385,
-  "2023-12-04": 234385,
-  "2023-12-05": 234385,
-  "2023-12-06": 234385,
-  "2023-12-07": 234385,
-  "2023-12-08": 234385,
-  "2023-12-09": 234385,
-  "2023-12-10": 234385,
-  "2023-12-11": 234385,
-  "2023-12-12": 234385,
-  "2023-12-13": 234385,
-  "2023-12-14": 234385,
-  "2023-12-15": 234385,
-  "2023-12-16": 234385,
-  "2023-12-17": 234385,
-  "2023-12-18": 234385,
-  "2023-12-19": 234385,
-  "2023-12-20": 234385,
-  "2023-12-21": 234385,
-  "2023-12-22": 234385,
-  "2023-12-23": 234385,
-  "2023-12-24": 234385,
-  "2023-12-25": 234385,
-  "2023-12-26": 234385,
-  "2023-12-27": 234385,
-  "2023-12-30": 234385,
-  "2023-12-31": 234385,
-  "2024-01-01": 234385,
-  "2024-01-02": 234385,
-  "2024-01-03": 234385
+  "2024-01-17": 234385,
+  "date_first_scraped": "2022-01-02",
+  "description": "Todo lo nuevo y lo esencial de Luciano en una sola lista.",
+  "name": "This Is Luciano Pereyra",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/5ZR3yqdHl4rkEIKmCnGg2x"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224426,
+      "name": "Ahora",
+      "url": "https://open.spotify.com/track/1K99rDEQIeW9M9FdHp2M5M"
+    },
+    {
+      "album": {
+        "name": "Amor En Silencio",
+        "url": "https://open.spotify.com/album/5mrebxYgmW2IZV9U21o3Mw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226386,
+      "name": "Amor En Silencio",
+      "url": "https://open.spotify.com/track/0d6jcLcqLCSQ0hLwbKnbd2"
+    },
+    {
+      "album": {
+        "name": "Nuevo Folclore",
+        "url": "https://open.spotify.com/album/0gIPAF7rvgn8tB103ae3pY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264266,
+      "name": "Amor, Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/3RS3pDz6DhcTaFkxVZqNqu"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/5bAg7t2jeILlZQ4v05FTiA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264266,
+      "name": "Amor, Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/4vt3wTL949uworObGppgbY"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/0lx7C9Yc2cKgk2uN8p0tp6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264266,
+      "name": "Amor, Donde Hubo Fuego",
+      "url": "https://open.spotify.com/track/5FoXvx3sylED5u14z0ahVg"
+    },
+    {
+      "album": {
+        "name": "Aunque Te Enamores",
+        "url": "https://open.spotify.com/album/4m4KiRsQNV8wWvrfDgqBgA"
+      },
+      "artists": [
+        {
+          "name": "Marama",
+          "url": "https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/2qDQiPI2F0tMefcNQHGrQS"
+    },
+    {
+      "album": {
+        "name": "Sin Estribos",
+        "url": "https://open.spotify.com/album/2lFIjlBjuK7275OXuyjlPR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218253,
+      "name": "Bajo la Sombra de un \u00c1rbol",
+      "url": "https://open.spotify.com/track/5Jq1FEHslo8xNloO9CHtC0"
+    },
+    {
+      "album": {
+        "name": "Ckayna Cunan Vol. II",
+        "url": "https://open.spotify.com/album/75IDvIit5HUmdaIylKPR7t"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218600,
+      "name": "Bajo la Sombra de un \u00c1rbol",
+      "url": "https://open.spotify.com/track/0XIwh9vtNbnXEhmRMcfMGa"
+    },
+    {
+      "album": {
+        "name": "Ckayna Cunan, Vol. 2",
+        "url": "https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        },
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218600,
+      "name": "Bajo la Sombra de un \u00c1rbol",
+      "url": "https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251520,
+      "name": "Cara O Cruz",
+      "url": "https://open.spotify.com/track/1Uh8PBWIM7816C24IzNcAX"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251520,
+      "name": "Cara O Cruz",
+      "url": "https://open.spotify.com/track/2ygZUatsdnRNHbVURILaen"
+    },
+    {
+      "album": {
+        "name": "Estudia & Trabaja",
+        "url": "https://open.spotify.com/album/3VuMmEWx9nhOI1hDTO1keK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251520,
+      "name": "Cara O Cruz",
+      "url": "https://open.spotify.com/track/3H57SUlhg62P8HpHN6byjH"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/6zjtfjicypa3EeerjkkXgt"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239733,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0B3xV5JXApgNjeFctQvgIR"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239733,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/2EVLmBQuVZmfAQArawHpRu"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/5bAg7t2jeILlZQ4v05FTiA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251960,
+      "name": "Como Puedes Vivir Sin Mi",
+      "url": "https://open.spotify.com/track/0b7ZpoZs88RqKbCVjjk05x"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/3dMMO1ZRDwgZy8gjhbyn8V"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 251960,
+      "name": "Como Puedes Vivir Sin Mi",
+      "url": "https://open.spotify.com/track/19knLDTbQftTEIMDIG9Etb"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/0lx7C9Yc2cKgk2uN8p0tp6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251960,
+      "name": "Como Puedes Vivir Sin Mi",
+      "url": "https://open.spotify.com/track/6S7o5OwOJ4k9daeZgWO2Ga"
+    },
+    {
+      "album": {
+        "name": "Como Siempre",
+        "url": "https://open.spotify.com/album/0uPL477tKrfnU7UzzyB2nU"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186808,
+      "name": "Como Siempre",
+      "url": "https://open.spotify.com/track/0WCh8Ma4nPEKJvoZTcHPor"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217760,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/1Zv7PhLP7ohXZ2rIrsnT3R"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217760,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/7IwNPHjpZMkggv0qlh1rUO"
+    },
+    {
+      "album": {
+        "name": "Modo Primaveral",
+        "url": "https://open.spotify.com/album/4Q9sluaBT0pIeNsMqZBL3o"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 218040,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/5qZfN8g97K6P68Clru99Og"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2KzYCpdLQDhmUAd5DCYsCy"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247786,
+      "name": "Con Todo y Mi Tristeza",
+      "url": "https://open.spotify.com/track/1RSt1i091uQ8rKQqsYobk6"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/2JqdigoVWQNWwbPf0N9wbS"
+    },
+    {
+      "album": {
+        "name": "Folclore por las venas",
+        "url": "https://open.spotify.com/album/6J4zZ0GDcrNU1o1TgmHSdx"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247786,
+      "name": "Con Todo Y Mi Tristeza",
+      "url": "https://open.spotify.com/track/5TXWYAzQ8rcJNcKrYhKfuI"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico En El Teatro Col\u00f3n (Live At Teatro Col\u00f3n, Argentina / 2019)",
+        "url": "https://open.spotify.com/album/66terILLwOxCjnUvFDUnAi"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 234440,
+      "name": "Cuando T\u00fa No Est\u00e1s - Live",
+      "url": "https://open.spotify.com/track/4SJkhuW6yxm4CcODKO62QO"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "Cuentos De Amor",
+      "url": "https://open.spotify.com/track/3McPoRgdbObbD2JMwJLBdm"
+    },
+    {
+      "album": {
+        "name": "Quiero Folclore",
+        "url": "https://open.spotify.com/album/55arX0p3dpmKppOSmXyNmK"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177840,
+      "name": "Cuentos De Amor",
+      "url": "https://open.spotify.com/track/4thse65gf8ELnKPhJ39nLr"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/3UtLNjFC9CjMScE66QH4C6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177840,
+      "name": "Cuentos De Amor",
+      "url": "https://open.spotify.com/track/7FJfSuoLBXuKlpgg5FzPoL"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-19",
+      "duration_ms": 227533,
+      "name": "C\u00f3rdoba Sin Ti",
+      "url": "https://open.spotify.com/track/6astyRCNHin1Fabs9ZeOQm"
+    },
+    {
+      "album": {
+        "name": "Verano Folcl\u00f3rico",
+        "url": "https://open.spotify.com/album/4rRTBy56u7fvUoo5rpVIn7"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 203533,
+      "name": "Desde Que Tu Te Has Ido",
+      "url": "https://open.spotify.com/track/1MbBgDiiPweNBqy0bTnWhV"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos (Vol. 2)",
+        "url": "https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203533,
+      "name": "Desde Que Tu Te Has Ido",
+      "url": "https://open.spotify.com/track/27ODN9ulbrFYkq7DGGoexE"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203533,
+      "name": "Desde Que Tu Te Has Ido",
+      "url": "https://open.spotify.com/track/6kKLk2AB44c072tYEUhN5D"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/6zjtfjicypa3EeerjkkXgt"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231080,
+      "name": "Dispuesto A Amarte",
+      "url": "https://open.spotify.com/track/2kqc2jKlgzzjEvHoWipxpa"
+    },
+    {
+      "album": {
+        "name": "Amor Retro",
+        "url": "https://open.spotify.com/album/44sUVlCGoMQzKOQO3fecxL"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231080,
+      "name": "Dispuesto A Amarte",
+      "url": "https://open.spotify.com/track/3B4rtn9NxSkowzn4Gv9T4t"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231080,
+      "name": "Dispuesto A Amarte",
+      "url": "https://open.spotify.com/track/64o3c1fTqqnWKIi9rXetdU"
+    },
+    {
+      "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/2RsSCX7aBvJKg1JsIPGHRW"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216826,
+      "name": "Dos Mundos",
+      "url": "https://open.spotify.com/track/1MLrJ1RgOWEUwErtUl7qxR"
+    },
+    {
+      "album": {
+        "name": "Hits para la pega",
+        "url": "https://open.spotify.com/album/38Bia4ThpaaQHk5al7JPwC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216826,
+      "name": "Dos Mundos",
+      "url": "https://open.spotify.com/track/7aaRIFKnwLWjY2rStvfD0q"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Dos Mundos - Bonus Track",
+      "url": "https://open.spotify.com/track/6sPgKvHZLP0v9LJ5RLgev0"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "El Elegido - En Vivo",
+      "url": "https://open.spotify.com/track/1QLmo7tnWFArDjm3jMtcka"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/6kJsPyrmi4EeF3ugF5J7yI"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232040,
+      "name": "El Elegido - En Vivo",
+      "url": "https://open.spotify.com/track/25RyOCUIRMJAsBe3gdfgHO"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "El Vestido Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2Soe7SDCoBbwDUU8eMPwqx"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/6kJsPyrmi4EeF3ugF5J7yI"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191666,
+      "name": "El Vestido Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/5Kg7i1lrJGt19DJIbGXAbO"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico En El Teatro Col\u00f3n (Live At Teatro Col\u00f3n, Argentina / 2019)",
+        "url": "https://open.spotify.com/album/66terILLwOxCjnUvFDUnAi"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252586,
+      "name": "En Busca De Los Dos - Live",
+      "url": "https://open.spotify.com/track/1dx7XGB8DyLj10X6o0Tlqe"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/36oB7aSIbJE9qcBvv4I6Q7"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/59f765mlM08j2POCl3zPvd"
+    },
+    {
+      "album": {
+        "name": "Hitazos Latinos On Fire",
+        "url": "https://open.spotify.com/album/4LFzn4VYkQSAUTH5cXZFAU"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 212400,
+      "name": "Ens\u00e9\u00f1ame A Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/5NaP07vRTCO9qgUFtXTS7E"
+    },
+    {
+      "album": {
+        "name": "Eres Perfecta",
+        "url": "https://open.spotify.com/album/3aAewL5m0z1jCxEWDk3t1n"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164499,
+      "name": "Eres Perfecta",
+      "url": "https://open.spotify.com/track/4zT2BSHExM4ZdTOTaEhqtt"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228186,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/1GTPOqKjHVcnOto4JwGTtF"
+    },
+    {
+      "album": {
+        "name": "Baladas para dedicar",
+        "url": "https://open.spotify.com/album/2FwxGZKfibJgutSls3QQD4"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228186,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/49lyyxqZKVFHjC4d1KZveX"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228186,
+      "name": "Es Mi Culpa",
+      "url": "https://open.spotify.com/track/6w145sHWdykyab2D6sE5wl"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252880,
+      "name": "Historia De Amor",
+      "url": "https://open.spotify.com/track/1GP3UgOdlHuZUpp44SNr45"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252880,
+      "name": "Historia De Amor",
+      "url": "https://open.spotify.com/track/69ol0O3P5fMcBYe2UkZRwZ"
+    },
+    {
+      "album": {
+        "name": "Siestas al sol",
+        "url": "https://open.spotify.com/album/264OfsVrD86xAK0etuaR3P"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 252880,
+      "name": "Historia De Amor",
+      "url": "https://open.spotify.com/track/7u2MP6s7HEHVEIDkcRRdcK"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Juntos En La Vida - Bonus Track",
+      "url": "https://open.spotify.com/track/5wkgCJO4qMxrQnSIwp7LKm"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/6kJsPyrmi4EeF3ugF5J7yI"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193226,
+      "name": "Juntos En La Vida - Bonus Track",
+      "url": "https://open.spotify.com/track/6QAIsuQ72oqckEnpf3W6WH"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/0ydbjBVo6rFNAqvTAy1oWP"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/3UtLNjFC9CjMScE66QH4C6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204973,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/27xbGQzu8iVHJQNEHGdB0I"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4X3xiOeAP7xY7cyd89ESDV"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204973,
+      "name": "La Distancia",
+      "url": "https://open.spotify.com/track/3p43AcBmdl5JwUSDp1Azf1"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220453,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/0VLQ2FLqDP7wrtZWoAW1lW"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220453,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/304iTp026IPR2mlgnEEFQx"
+    },
+    {
+      "album": {
+        "name": "Almuerzo Oto\u00f1al",
+        "url": "https://open.spotify.com/album/1ovQH0j0sikWDFibw4MQXh"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220453,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/7DJICcAqz7pIVp6TLj0rTC"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246533,
+      "name": "Los Recuerdos No Abrazan",
+      "url": "https://open.spotify.com/track/0Xhe9HeRJdYyGOJRJfTr5G"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos (Vol. 2)",
+        "url": "https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246533,
+      "name": "Los Recuerdos No Abrazan",
+      "url": "https://open.spotify.com/track/0n1GrYEydfTX1cgBjR9qtE"
+    },
+    {
+      "album": {
+        "name": "Folcloreando vol. I",
+        "url": "https://open.spotify.com/album/44QAV5jEes6sSMie6mcTI6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 246533,
+      "name": "Los Recuerdos No Abrazan",
+      "url": "https://open.spotify.com/track/2IAmREBdgu1feaB2C59WWL"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221146,
+      "name": "Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/1G968tTPV1CMLKB1zp9ywa"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221146,
+      "name": "Luz De Mis Ojos",
+      "url": "https://open.spotify.com/track/2Lzq3f8WDhkg1402IlEYCR"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/3dMMO1ZRDwgZy8gjhbyn8V"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 159306,
+      "name": "Mar De Amor",
+      "url": "https://open.spotify.com/track/3HBOPvS56T1dmEpKRxaOJU"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/5bAg7t2jeILlZQ4v05FTiA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159306,
+      "name": "Mar De Amor",
+      "url": "https://open.spotify.com/track/7JR9W1Gem5RplREXsO202Q"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos (Vol. 2)",
+        "url": "https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160306,
+      "name": "Mar De Amor",
+      "url": "https://open.spotify.com/track/2DC8gwH5V8sIgtCMmPLkwt"
+    },
+    {
+      "album": {
+        "name": "Inspiraci\u00f3n Folcl\u00f3rica",
+        "url": "https://open.spotify.com/album/3wglvECXTucdrdAC0JIeBl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 235000,
+      "name": "Me Acostumbre",
+      "url": "https://open.spotify.com/track/07zsfiQQHti01qjoUcGTXD"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/5bAg7t2jeILlZQ4v05FTiA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Me Acostumbre",
+      "url": "https://open.spotify.com/track/1GfrAlJauJ8sFtSxnGqSAp"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/0lx7C9Yc2cKgk2uN8p0tp6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235000,
+      "name": "Me Acostumbre",
+      "url": "https://open.spotify.com/track/6rFtTpj8CoOmPhuS5JbGaj"
+    },
+    {
+      "album": {
+        "name": "Me Enamore De Ti",
+        "url": "https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281002,
+      "name": "Me Enamor\u00e9 De Ti",
+      "url": "https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/3UtLNjFC9CjMScE66QH4C6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262040,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/3FZ2t2tFRmjsN4QAY1POJR"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/4X3xiOeAP7xY7cyd89ESDV"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 262040,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/6qxfYjCRtcc8psb6aGD5as"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262040,
+      "name": "Me Gusta",
+      "url": "https://open.spotify.com/track/7HbfNjd2TY64DeCidC7mhm"
+    },
+    {
+      "album": {
+        "name": "Me Mentiste",
+        "url": "https://open.spotify.com/album/6gxRNiuPDWxbaFTN556rEj"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164880,
+      "name": "Me Mentiste",
+      "url": "https://open.spotify.com/track/3I0BY51N78SJsuRrDohDFk"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/3UtLNjFC9CjMScE66QH4C6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208026,
+      "name": "No Quisiera Quererte",
+      "url": "https://open.spotify.com/track/2OxN5vRMNhBfiYH7wF6zFf"
+    },
+    {
+      "album": {
+        "name": "Cl\u00e1sicos del Folklore",
+        "url": "https://open.spotify.com/album/690LjHI6oNlyRmOgwPm8ej"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 208026,
+      "name": "No Quisiera Quererte",
+      "url": "https://open.spotify.com/track/2Q4UyEWcfs8QzXwADlmGyu"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "No Quisiera Quererte",
+      "url": "https://open.spotify.com/track/4w8n42v93e52rBKckO7SLr"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207066,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/0qFpIdWgPq7SnDg0liigoQ"
+    },
+    {
+      "album": {
+        "name": "Amor Veraniego",
+        "url": "https://open.spotify.com/album/7mm7DMKYuVOyuZ28ySCVdm"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 207066,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/1WhHxQfWVQRqlyEKPtYRJE"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/2oeNTfyu1eeol2L4vc6O7n"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/0T9MRW8afYdk3Gnxh4ISl9"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250120,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/3oCXYJzFznsQsErKO3zrI2"
+    },
+    {
+      "album": {
+        "name": "C\u00e1ntame un son",
+        "url": "https://open.spotify.com/album/2UTVmmxLnaSEIG5WLDOddN"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 250120,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5r0bGyxXltCz4B98rLpIdr"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/6zjtfjicypa3EeerjkkXgt"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244746,
+      "name": "Por Volverte A Ver",
+      "url": "https://open.spotify.com/track/53SbpdowhRiUr2UGR4rq6B"
+    },
+    {
+      "album": {
+        "name": "Mejor de a dos",
+        "url": "https://open.spotify.com/album/1LHyI9hR9YjeQfVMjiYemi"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 244746,
+      "name": "Por Volverte A Ver",
+      "url": "https://open.spotify.com/track/1hLCHrOE3HUdA9XLucEgfL"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244746,
+      "name": "Por Volverte A Ver",
+      "url": "https://open.spotify.com/track/6mIIi6XwM54cnOvjY5tAig"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/6zjtfjicypa3EeerjkkXgt"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209613,
+      "name": "Porque Aun Te Amo",
+      "url": "https://open.spotify.com/track/42GUV0BhifaN5MZiZWZiO4"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209613,
+      "name": "Porque Aun Te Amo",
+      "url": "https://open.spotify.com/track/4xXIrj1bhJP2X0x3WhAgqp"
+    },
+    {
+      "album": {
+        "name": "Puro Amor Latino",
+        "url": "https://open.spotify.com/album/6SqsKgVZcp7IQq6aqwFMXM"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209613,
+      "name": "Porque Aun Te Amo",
+      "url": "https://open.spotify.com/track/5K3b0mvwbvfsZpYZ0y9YJO"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/6zjtfjicypa3EeerjkkXgt"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239693,
+      "name": "Puede Suceder",
+      "url": "https://open.spotify.com/track/4Zqzh40WAJj321KwEw6bYz"
+    },
+    {
+      "album": {
+        "name": "Dispuesto A Amarte",
+        "url": "https://open.spotify.com/album/2TjcppxUUfwFZ7H9XAxwfw"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239693,
+      "name": "Puede Suceder",
+      "url": "https://open.spotify.com/track/7tTnUNnrUH3dQ5oCPyrB4T"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202453,
+      "name": "Que Suerte Tiene El",
+      "url": "https://open.spotify.com/track/1Pc4HQCKJbvDoCdC0TqR4P"
+    },
+    {
+      "album": {
+        "name": "Hitazos Ruteros",
+        "url": "https://open.spotify.com/album/2iM7TGRpyteJDz2gumsDBu"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202453,
+      "name": "Que Suerte Tiene El",
+      "url": "https://open.spotify.com/track/4Ns7smiEmRcJ9IZCDqJ0wz"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202453,
+      "name": "Que Suerte Tiene El",
+      "url": "https://open.spotify.com/track/5EQLXPuQNoqDyXR4Ap4uLh"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/4EYlb0ZXGrnqxykHQUO3Wf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208306,
+      "name": "Quedate Conmigo",
+      "url": "https://open.spotify.com/track/55rH1UUC6WFiHhEY1vxnUf"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179386,
+      "name": "Quiero Que Te Quedes Conmigo",
+      "url": "https://open.spotify.com/track/1fb7gThs5Lgu4GNitHC1PY"
+    },
+    {
+      "album": {
+        "name": "Argentina Folcl\u00f3rica",
+        "url": "https://open.spotify.com/album/2e2eBIsP6iNpB8lbxZbUOX"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179386,
+      "name": "Quiero Que Te Quedes Conmigo",
+      "url": "https://open.spotify.com/track/6HiTQvdQ7MpT2vFtSFzTTC"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179386,
+      "name": "Quiero Que Te Quedes Conmigo",
+      "url": "https://open.spotify.com/track/7zoJQHdVjImQw9pEIcM3br"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223226,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/0ZJkflZJFgdxy2ewkjkT8V"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223226,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/1K4g87EWKlqN1JPkeRyk3H"
+    },
+    {
+      "album": {
+        "name": "Energ\u00eda para las ma\u00f1anas",
+        "url": "https://open.spotify.com/album/6DxB5v9MV5JSPwiDRYRqIU"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223226,
+      "name": "Quiero Volver",
+      "url": "https://open.spotify.com/track/4Iyzbvj5VHyNfBLHmDiyxI"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date",
+        "url": "https://open.spotify.com/album/711RfL6UNIcE0yoFGJTRSO"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195036,
+      "name": "Qu\u00e9date",
+      "url": "https://open.spotify.com/track/4qaZgDX8Yp9iwboMUZaQgu"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/6kJsPyrmi4EeF3ugF5J7yI"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 747186,
+      "name": "Ser\u00e1 Mejor Medley - En Vivo",
+      "url": "https://open.spotify.com/track/2aq7Z8dChJQBde0iyMdUgf"
+    },
+    {
+      "album": {
+        "name": "#TuMano En Vivo",
+        "url": "https://open.spotify.com/album/3RkJ014vEJFNOjqvnQWXn5"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 747186,
+      "name": "Ser\u00e1 Mejor Medley - En Vivo",
+      "url": "https://open.spotify.com/track/5b7dwvZRy5mCZXyca2gszV"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/1qzRDavvgtZctsRhrbUP9Y"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica pal cora",
+        "url": "https://open.spotify.com/album/0cGmhN8KKTabnZ0DQ8b77Y"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/2Ki5IuySXXtq6N2gDGFuw4"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249333,
+      "name": "Ser\u00e9",
+      "url": "https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico En El Teatro Col\u00f3n (Live At Teatro Col\u00f3n, Argentina / 2019)",
+        "url": "https://open.spotify.com/album/66terILLwOxCjnUvFDUnAi"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319000,
+      "name": "Ser\u00e9 - Live",
+      "url": "https://open.spotify.com/track/5LryS9a8i3XW9qx0z4I6rW"
+    },
+    {
+      "album": {
+        "name": "Si No Es Muy Tarde (En Vivo Luna Park / 2016)",
+        "url": "https://open.spotify.com/album/7EwQYK20s9GcMX67V0falQ"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246680,
+      "name": "Si No Es Muy Tarde - En Vivo Luna Park / 2016",
+      "url": "https://open.spotify.com/track/4evJzKiGMN9aXlLUIa69J7"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223986,
+      "name": "Sin Testigos",
+      "url": "https://open.spotify.com/track/2jpHp8Vkyg9b9whkhPyeDJ"
+    },
+    {
+      "album": {
+        "name": "Mucha M\u00fasica",
+        "url": "https://open.spotify.com/album/1wVWthE4ftWURmAX6GVQqa"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223986,
+      "name": "Sin Testigos",
+      "url": "https://open.spotify.com/track/2p9VQI8E0ebi36gJvtfWqo"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "Sin Testigos",
+      "url": "https://open.spotify.com/track/45XPaGD819HyrMaQCQNRhS"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/3dMMO1ZRDwgZy8gjhbyn8V"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 268266,
+      "name": "Solo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/0HKtK2BqW9Bm3CJuKQUjdR"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/5bAg7t2jeILlZQ4v05FTiA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268266,
+      "name": "Solo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/1sWUDpCBgUAuDKFhldq1Fx"
+    },
+    {
+      "album": {
+        "name": "Record\u00e1ndote",
+        "url": "https://open.spotify.com/album/0lx7C9Yc2cKgk2uN8p0tp6"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268266,
+      "name": "Solo Le Pido A Dios",
+      "url": "https://open.spotify.com/track/4aPAu8jri9y5V3eAb5hqe7"
+    },
+    {
+      "album": {
+        "name": "Iconos Nacionales",
+        "url": "https://open.spotify.com/album/113rZmyceByySbwODu80jq"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181133,
+      "name": "Soy Un Inconsciente",
+      "url": "https://open.spotify.com/track/2Eg2TZFqMZ7gCjQrhLJdU9"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2KzYCpdLQDhmUAd5DCYsCy"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181133,
+      "name": "Soy un Inconsciente",
+      "url": "https://open.spotify.com/track/5SC08laUPtj9p2UoaPe9ye"
+    },
+    {
+      "album": {
+        "name": "Amaneciendo",
+        "url": "https://open.spotify.com/album/2mwNRP6pKKgjAAC1zSmKDF"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Soy Un Inconsciente",
+      "url": "https://open.spotify.com/track/6NKyD3WhlSo192ah4Vuo97"
+    },
+    {
+      "album": {
+        "name": "Te Est\u00e1s Enamorando de M\u00ed",
+        "url": "https://open.spotify.com/album/6dIOyfEblWiLaoRfJkNdLY"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165680,
+      "name": "Te Est\u00e1s Enamorando de M\u00ed",
+      "url": "https://open.spotify.com/track/0VKNy1fBPb3ZcMJE3v17VF"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234613,
+      "name": "Tu Dolor",
+      "url": "https://open.spotify.com/track/29geLo00uWkx8V8t0RGENS"
+    },
+    {
+      "album": {
+        "name": "Noches Latinas",
+        "url": "https://open.spotify.com/album/64IgNT7ZkTgZ9SsZqur0oM"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234613,
+      "name": "Tu Dolor",
+      "url": "https://open.spotify.com/track/5NK924P7dMa56U1uL2i4PI"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234613,
+      "name": "Tu Dolor",
+      "url": "https://open.spotify.com/track/5P7bJ4VegDbBMZw78MasjE"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/2Aa1gwLfI35DaQfiLERM5S"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225853,
+      "name": "Tu Mano",
+      "url": "https://open.spotify.com/track/12x0csZYDWQA29PY85qc6X"
+    },
+    {
+      "album": {
+        "name": "Tu Mano",
+        "url": "https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225853,
+      "name": "Tu Mano",
+      "url": "https://open.spotify.com/track/6apokhLEbYesac4LHR6Utk"
+    },
+    {
+      "album": {
+        "name": "Estilo Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/2Jz0lXj2tcyaCCyAe3nnw2"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225853,
+      "name": "Tu Mano",
+      "url": "https://open.spotify.com/track/7GTGVk6D7jrRN6AjQXrI8G"
+    },
+    {
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/0DnxDAR0sZH2XZzpKv02hc"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200040,
+      "name": "Un Mundo Ideal",
+      "url": "https://open.spotify.com/track/2LMymeYhSRJAJ62l1OLpWb"
+    },
+    {
+      "album": {
+        "name": "We Love Disney (Latino)",
+        "url": "https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Un Mundo Ideal",
+      "url": "https://open.spotify.com/track/374W2LUkFHs3WIRoRaskWi"
+    },
+    {
+      "album": {
+        "name": "Tardes de Galletas y Chocolates",
+        "url": "https://open.spotify.com/album/6o6stv8Sv9XdpmoDFB2zWM"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200040,
+      "name": "Un Mundo Ideal",
+      "url": "https://open.spotify.com/track/4wyx0IQZn01l3UTurIR0NN"
+    },
+    {
+      "album": {
+        "name": "Mes del Amor",
+        "url": "https://open.spotify.com/album/3kUXIJPEir21H7pCHtHqkn"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 233666,
+      "name": "Una Noche De Amor",
+      "url": "https://open.spotify.com/track/3o6hhOrBPZHOHGPkvQG7OR"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/2Cb4GVmEcVOHY2t958Xt4D"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "Una Noche De Amor",
+      "url": "https://open.spotify.com/track/5LyB0fuSLZsKKbgGBduwHU"
+    },
+    {
+      "album": {
+        "name": "Luciano",
+        "url": "https://open.spotify.com/album/77poFK2svTOFzf5MptTlkl"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233666,
+      "name": "Una Noche De Amor",
+      "url": "https://open.spotify.com/track/5dxeiqAWACqewTLQatJrBV"
+    },
+    {
+      "album": {
+        "name": "Vivir A Tu Lado",
+        "url": "https://open.spotify.com/album/2BUKmW6iqT2OKd9mPIU3yv"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214973,
+      "name": "Vivir A Tu Lado",
+      "url": "https://open.spotify.com/track/5JFAgiMI8gzakkpKHLGELS"
+    },
+    {
+      "album": {
+        "name": "Para Olvidar",
+        "url": "https://open.spotify.com/album/2TCxQNvf7yBVSuyTwAwLtb"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Vivir A Tu Lado",
+      "url": "https://open.spotify.com/track/6pYuufxujA3lak00NroA4A"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica pal cora",
+        "url": "https://open.spotify.com/album/0cGmhN8KKTabnZ0DQ8b77Y"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 214973,
+      "name": "Vivir A Tu Lado",
+      "url": "https://open.spotify.com/track/7yG6pGlDiE5M63NAuHuqqv"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/4Z4upwv7wMiZv0K1vzgzbC"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237586,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/2zCKaNn5ty8yjeQAJhNH8e"
+    },
+    {
+      "album": {
+        "name": "La Vida Al Viento",
+        "url": "https://open.spotify.com/album/01DlTlGo79EZmSX0QIqTtp"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237586,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/4hqTMf1fKyynRgKasOlpB7"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1nticos Bajoneros",
+        "url": "https://open.spotify.com/album/34bGeKA2JZDurzh1EEIYER"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 237986,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/5YS25KnAQt5KmxU6IYblpO"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos (Vol. 2)",
+        "url": "https://open.spotify.com/album/6DKD35LqJV5hG7oKSXrYfG"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219853,
+      "name": "Y Asi, Asi",
+      "url": "https://open.spotify.com/track/4kqqEXOV0hS1CYLq3Cyf5b"
+    },
+    {
+      "album": {
+        "name": "Soy Tuyo",
+        "url": "https://open.spotify.com/album/75UJv8LULojeRTLWrhHPOf"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219853,
+      "name": "Y Asi, Asi",
+      "url": "https://open.spotify.com/track/56aZTP0bsaANRHEnoDjoB2"
+    },
+    {
+      "album": {
+        "name": "Vibrando el Carnaval",
+        "url": "https://open.spotify.com/album/6jRdEJVNul9grSt7v4PwAM"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219853,
+      "name": "Y Asi, Asi",
+      "url": "https://open.spotify.com/track/6q3lvPmaVBLaihUie1cVvZ"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/07R9tu4qZnWCviNTWHKvNS"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Yo No Se Que Me Han Hecho Tus Ojos",
+      "url": "https://open.spotify.com/track/1fWVcl28j0PoHicOWKJjvy"
+    },
+    {
+      "album": {
+        "name": "\u00bfPara Qu\u00e9 Quieres Volver?",
+        "url": "https://open.spotify.com/album/1rByHoBuAPQcayS0fYEGul"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        }
+      ],
+      "date_added": "2021-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "\u00bfPara Qu\u00e9 Quieres Volver?",
+      "url": "https://open.spotify.com/track/0DRB4J5qRJ4gNbJAuIEZwZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1N4LABjaIvi"
 }

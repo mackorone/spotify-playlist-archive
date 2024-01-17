@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLDm348RRYK.md) - [plain]
 
 > Shut out the noise around you with these acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,105 likes - 63 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,424 likes - 63 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

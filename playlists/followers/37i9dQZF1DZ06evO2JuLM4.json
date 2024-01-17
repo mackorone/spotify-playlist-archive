@@ -1,277 +1,981 @@
 {
-  "2023-04-01": 98767,
-  "2023-04-02": 98850,
-  "2023-04-03": 98907,
-  "2023-04-04": 98949,
-  "2023-04-05": 99000,
-  "2023-04-06": 99049,
-  "2023-04-07": 99092,
-  "2023-04-09": 99202,
-  "2023-04-10": 99239,
-  "2023-04-11": 99313,
-  "2023-04-12": 99313,
-  "2023-04-13": 99345,
-  "2023-04-14": 99383,
-  "2023-04-15": 99429,
-  "2023-04-16": 99478,
-  "2023-04-17": 99522,
-  "2023-04-18": 99558,
-  "2023-04-19": 99593,
-  "2023-04-20": 99633,
-  "2023-04-21": 99682,
-  "2023-04-22": 99727,
-  "2023-04-23": 99764,
-  "2023-04-24": 99798,
-  "2023-04-25": 99818,
-  "2023-04-26": 99858,
-  "2023-04-27": 99886,
-  "2023-04-28": 99909,
-  "2023-04-29": 99944,
-  "2023-04-30": 99978,
-  "2023-05-01": 100010,
-  "2023-05-02": 100035,
-  "2023-05-03": 100075,
-  "2023-05-04": 100113,
-  "2023-05-05": 100137,
-  "2023-05-06": 100190,
-  "2023-05-07": 100238,
-  "2023-05-08": 100277,
-  "2023-05-09": 100301,
-  "2023-05-10": 100342,
-  "2023-05-11": 100379,
-  "2023-05-12": 100416,
-  "2023-05-13": 100468,
-  "2023-05-14": 100504,
-  "2023-05-15": 100557,
-  "2023-05-16": 100581,
-  "2023-05-17": 100629,
-  "2023-05-18": 100677,
-  "2023-05-19": 100716,
-  "2023-05-20": 100784,
-  "2023-05-21": 100784,
-  "2023-05-22": 100784,
-  "2023-05-23": 100851,
-  "2023-05-24": 100924,
-  "2023-05-25": 100935,
-  "2023-05-26": 100969,
-  "2023-05-27": 101006,
-  "2023-05-28": 101051,
-  "2023-05-29": 101051,
-  "2023-05-30": 101122,
-  "2023-05-31": 101159,
-  "2023-06-01": 101184,
-  "2023-06-02": 101227,
-  "2023-06-03": 101274,
-  "2023-06-04": 101305,
-  "2023-06-05": 101347,
-  "2023-06-06": 101384,
-  "2023-06-07": 101419,
-  "2023-06-08": 101465,
-  "2023-06-09": 101502,
-  "2023-06-10": 101554,
-  "2023-06-11": 101593,
-  "2023-06-12": 101629,
-  "2023-06-13": 101654,
-  "2023-06-14": 101654,
-  "2023-06-15": 101738,
-  "2023-06-16": 101780,
-  "2023-06-17": 101815,
-  "2023-06-18": 101841,
-  "2023-06-19": 101886,
-  "2023-06-20": 101911,
-  "2023-06-21": 101942,
-  "2023-06-22": 101964,
-  "2023-06-23": 102006,
-  "2023-06-24": 102032,
-  "2023-06-25": 102076,
-  "2023-06-26": 102118,
-  "2023-06-27": 102153,
-  "2023-06-28": 102190,
-  "2023-06-29": 102217,
-  "2023-06-30": 102248,
-  "2023-07-01": 102329,
-  "2023-07-02": 102329,
-  "2023-07-03": 102368,
-  "2023-07-04": 102409,
-  "2023-07-05": 102438,
-  "2023-07-06": 102524,
-  "2023-07-07": 102524,
-  "2023-07-08": 102524,
-  "2023-07-09": 102619,
-  "2023-07-10": 102657,
-  "2023-07-11": 102700,
-  "2023-07-12": 102732,
-  "2023-07-13": 102757,
-  "2023-07-14": 102797,
-  "2023-07-15": 102837,
-  "2023-07-16": 102879,
-  "2023-07-17": 102916,
-  "2023-07-18": 102966,
-  "2023-07-19": 103002,
-  "2023-07-20": 103051,
-  "2023-07-21": 103089,
-  "2023-07-22": 103128,
-  "2023-07-23": 103173,
-  "2023-07-24": 103223,
-  "2023-07-25": 103263,
-  "2023-07-26": 103313,
-  "2023-07-27": 103367,
-  "2023-07-28": 103415,
-  "2023-07-29": 103470,
-  "2023-07-30": 103509,
-  "2023-07-31": 103553,
-  "2023-08-01": 103584,
-  "2023-08-02": 103616,
-  "2023-08-03": 103652,
-  "2023-08-04": 103692,
-  "2023-08-05": 103740,
-  "2023-08-06": 103816,
-  "2023-08-07": 103816,
-  "2023-08-08": 103849,
-  "2023-08-09": 103886,
-  "2023-08-10": 103914,
-  "2023-08-11": 103946,
-  "2023-08-12": 103946,
-  "2023-08-13": 103946,
-  "2023-08-14": 104082,
-  "2023-08-15": 104082,
-  "2023-08-16": 104082,
-  "2023-08-17": 104082,
-  "2023-08-18": 104082,
-  "2023-08-19": 104082,
-  "2023-08-20": 104278,
-  "2023-08-21": 104278,
-  "2023-08-22": 104350,
-  "2023-08-23": 104350,
-  "2023-08-24": 104350,
-  "2023-08-25": 104350,
-  "2023-08-26": 104473,
-  "2023-08-27": 104473,
-  "2023-08-28": 104553,
-  "2023-08-29": 104553,
-  "2023-08-30": 104553,
-  "2023-08-31": 104654,
-  "2023-09-01": 104700,
-  "2023-09-02": 104700,
-  "2023-09-03": 104766,
-  "2023-09-04": 104766,
-  "2023-09-05": 104766,
-  "2023-09-06": 104855,
-  "2023-09-07": 104855,
-  "2023-09-08": 104855,
-  "2023-09-09": 104855,
-  "2023-09-10": 104989,
-  "2023-09-11": 104989,
-  "2023-09-12": 104989,
-  "2023-09-13": 104989,
-  "2023-09-14": 104989,
-  "2023-09-15": 104989,
-  "2023-09-16": 105171,
-  "2023-09-17": 105171,
-  "2023-09-18": 105171,
-  "2023-09-19": 105267,
-  "2023-09-20": 105267,
-  "2023-09-21": 105267,
-  "2023-09-22": 105360,
-  "2023-09-23": 105360,
-  "2023-09-24": 105360,
-  "2023-09-25": 105360,
-  "2023-09-26": 105498,
-  "2023-09-27": 105498,
-  "2023-09-28": 105498,
-  "2023-09-29": 105498,
-  "2023-09-30": 105498,
-  "2023-10-01": 105498,
-  "2023-10-02": 105498,
-  "2023-10-03": 105498,
-  "2023-10-04": 105498,
-  "2023-10-05": 105498,
-  "2023-10-06": 105498,
-  "2023-10-07": 105498,
-  "2023-10-08": 105498,
-  "2023-10-09": 105498,
-  "2023-10-10": 105498,
-  "2023-10-11": 106003,
-  "2023-10-12": 106003,
-  "2023-10-13": 106003,
-  "2023-10-14": 106003,
-  "2023-10-15": 106003,
-  "2023-10-16": 106003,
-  "2023-10-17": 106003,
-  "2023-10-18": 106003,
-  "2023-10-19": 106003,
-  "2023-10-20": 106003,
-  "2023-10-21": 106003,
-  "2023-10-22": 106003,
-  "2023-10-23": 106003,
-  "2023-10-24": 106003,
-  "2023-10-25": 106003,
-  "2023-10-26": 106003,
-  "2023-10-27": 106003,
-  "2023-10-28": 106003,
-  "2023-10-29": 106003,
-  "2023-10-30": 106003,
-  "2023-10-31": 106003,
-  "2023-11-01": 106003,
-  "2023-11-02": 106003,
-  "2023-11-03": 106003,
-  "2023-11-04": 106003,
-  "2023-11-05": 106003,
-  "2023-11-06": 106003,
-  "2023-11-07": 106003,
-  "2023-11-08": 106003,
-  "2023-11-09": 106003,
-  "2023-11-10": 106003,
-  "2023-11-11": 106971,
-  "2023-11-12": 106971,
-  "2023-11-13": 106971,
-  "2023-11-14": 106971,
-  "2023-11-15": 106971,
-  "2023-11-16": 106971,
-  "2023-11-17": 106971,
-  "2023-11-18": 106971,
-  "2023-11-19": 106971,
-  "2023-11-20": 106971,
-  "2023-11-21": 106971,
-  "2023-11-22": 106971,
-  "2023-11-23": 106971,
-  "2023-11-24": 106971,
-  "2023-11-25": 106971,
-  "2023-11-26": 106971,
-  "2023-11-27": 106971,
-  "2023-11-28": 106971,
-  "2023-11-29": 106971,
-  "2023-11-30": 106971,
-  "2023-12-01": 106971,
-  "2023-12-02": 106971,
-  "2023-12-03": 106971,
-  "2023-12-04": 106971,
-  "2023-12-05": 106971,
-  "2023-12-06": 106971,
-  "2023-12-07": 106971,
-  "2023-12-08": 106971,
-  "2023-12-09": 106971,
-  "2023-12-10": 106971,
-  "2023-12-11": 106971,
-  "2023-12-12": 106971,
-  "2023-12-13": 106971,
-  "2023-12-14": 107885,
-  "2023-12-15": 107905,
-  "2023-12-16": 107931,
-  "2023-12-17": 107955,
-  "2023-12-18": 107970,
-  "2023-12-19": 107995,
-  "2023-12-20": 108028,
-  "2023-12-21": 108049,
-  "2023-12-22": 108078,
-  "2023-12-23": 108103,
-  "2023-12-24": 108138,
-  "2023-12-25": 108156,
-  "2023-12-26": 108180,
-  "2023-12-27": 108197,
-  "2023-12-30": 108280,
-  "2023-12-31": 108311,
-  "2024-01-01": 108346,
-  "2024-01-02": 108360,
-  "2024-01-03": 108408
+  "2024-01-17": 108724,
+  "date_first_scraped": "2023-04-01",
+  "description": "This is The White Stripes. The essential tracks, all in one playlist.",
+  "name": "This Is The White Stripes",
+  "tracks": [
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133293,
+      "name": "Apple Blossom",
+      "url": "https://open.spotify.com/track/5Z10YWrfpP2UAUwmmHIR8y"
+    },
+    {
+      "album": {
+        "name": "Party of Special Things to Do",
+        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "Ashtray Heart",
+      "url": "https://open.spotify.com/track/3jUXDyGRhU0y4IUdtjUVMU"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438551,
+      "name": "Ball and Biscuit",
+      "url": "https://open.spotify.com/track/0O2SYh5AZ0y8MAPOVC4Mxz"
+    },
+    {
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306453,
+      "name": "Black Jack Davey",
+      "url": "https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Black Math",
+      "url": "https://open.spotify.com/track/47daaR9V5NnoSo68Geb8wm"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157560,
+      "name": "Blue Orchid",
+      "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111040,
+      "name": "Broken Bricks",
+      "url": "https://open.spotify.com/track/1kw5Mr19smLQWlZPzJkLCL"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 170013,
+      "name": "Cannon / Party Of Special Things to Do - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/7e0KsgQMDmxpeNLLtZKy6x"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258066,
+      "name": "Catch Hell Blues",
+      "url": "https://open.spotify.com/track/064unATFKRpnOwL1Yfvp39"
+    },
+    {
+      "album": {
+        "name": "City Lights (Previously Unreleased)",
+        "url": "https://open.spotify.com/album/6BwGSxv8V0quMFwljl6jcF"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "City Lights - Previously Unreleased",
+      "url": "https://open.spotify.com/track/40yDK5dtwoxe7HM60Mwreh"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Conquest",
+      "url": "https://open.spotify.com/track/53ofSOPSvejQkQQLhpEN6X"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132511,
+      "name": "Cool Drink Of Water Blues - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/1N3GwTTeUMN4wE9B80ZBGK"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Dead Leaves and the Dirty Ground",
+      "url": "https://open.spotify.com/track/2ewjgFhHDTE8BkV8kzpiX2"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269946,
+      "name": "Death Letter",
+      "url": "https://open.spotify.com/track/78ZPgT0agDUG95ByxpTNBP"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110093,
+      "name": "Fell In Love With a Girl",
+      "url": "https://open.spotify.com/track/21Qsj3cMVCx2xF2EVVNbEu"
+    },
+    {
+      "album": {
+        "name": "Seven Nation Army",
+        "url": "https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126413,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU"
+    },
+    {
+      "album": {
+        "name": "Hand Springs",
+        "url": "https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176045,
+      "name": "Hand Springs",
+      "url": "https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156266,
+      "name": "Hello Operator",
+      "url": "https://open.spotify.com/track/7zPxIh1c3kJaNwmjdZ3GQX"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130332,
+      "name": "Hotel Yorba",
+      "url": "https://open.spotify.com/track/4faZbPZPQAmHADVtQNsv5E"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "I Just Don't Know What to Do With Myself",
+      "url": "https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274533,
+      "name": "I'm Slowly Turning Into You",
+      "url": "https://open.spotify.com/track/3MsWy7Is42kx8OImv41rUG"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254533,
+      "name": "Icky Thump",
+      "url": "https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "In The Cold, Cold Night",
+      "url": "https://open.spotify.com/track/0U3iqYVmE62HzF50ydBd05"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149066,
+      "name": "Jimmy the Exploder",
+      "url": "https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK"
+    },
+    {
+      "album": {
+        "name": "Jolene (Live Under Blackpool Lights)",
+        "url": "https://open.spotify.com/album/6k7MyXIENM8UY50GMHZIFZ"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "Jolene - Live Under Blackpool Lights",
+      "url": "https://open.spotify.com/track/3tEP0x51lSCw35zMyXtgtC"
+    },
+    {
+      "album": {
+        "name": "Lafayette Blues",
+        "url": "https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135800,
+      "name": "Lafayette Blues",
+      "url": "https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0"
+    },
+    {
+      "album": {
+        "name": "The White Stripes Greatest Hits",
+        "url": "https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124040,
+      "name": "Let's Shake Hands",
+      "url": "https://open.spotify.com/track/5baca16TrfnaLlaYemmTYt"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/7uYoO8Jt7BUib2teUpLFLZ"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138893,
+      "name": "Little Ghost",
+      "url": "https://open.spotify.com/track/1S7QP5JYv6IuHGoQsOXzwR"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50373,
+      "name": "Little Room",
+      "url": "https://open.spotify.com/track/1ltf1XEP18QMCMRRQtFbAl"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230463,
+      "name": "Lovesick - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3UKeA8QpDcYCfSSwP129Sw"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241866,
+      "name": "My Doorbell",
+      "url": "https://open.spotify.com/track/0pzjcWYkyynxhONSm5C8Cu"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Offend In Every Way",
+      "url": "https://open.spotify.com/track/1nO9QTV0ifjpleS2NDypin"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193693,
+      "name": "One More Cup of Coffee",
+      "url": "https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6"
+    },
+    {
+      "album": {
+        "name": "Party of Special Things to Do",
+        "url": "https://open.spotify.com/album/5fXunSrJYG8SNGKeGrHZ6U"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170133,
+      "name": "Party of Special Things to Do",
+      "url": "https://open.spotify.com/track/18bpRIiJ9dOYBSxgpaJItO"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35226,
+      "name": "Passive Manipulation",
+      "url": "https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Rag and Bone",
+      "url": "https://open.spotify.com/track/37SxzqcjbwYfZxZlW8jZYA"
+    },
+    {
+      "album": {
+        "name": "Hotel Yorba (Live at Hotel Yorba)",
+        "url": "https://open.spotify.com/album/2upyV5uITU3hDbdDPPKUGA"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 172573,
+      "name": "Rated X - Live at Hotel Yorba",
+      "url": "https://open.spotify.com/track/7j7M5QszpIxwh6u9dvjT8x"
+    },
+    {
+      "album": {
+        "name": "The Big Three Killed My Baby",
+        "url": "https://open.spotify.com/album/4dnpMWVcgNv2IDv7bDjmxP"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 127480,
+      "name": "Red Bowling Ball Ruth",
+      "url": "https://open.spotify.com/track/30siUDNDehoZno3ovCjRlm"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232106,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144266,
+      "name": "St. James Infirmary Blues",
+      "url": "https://open.spotify.com/track/0ujFmyKkSXQnlVMBz4plMM"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160826,
+      "name": "Stones In My Passway - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140194,
+      "name": "Stop Breaking Down",
+      "url": "https://open.spotify.com/track/2zUo58hpXMdR1GUcGYyfmP"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262573,
+      "name": "Take, Take, Take",
+      "url": "https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH"
+    },
+    {
+      "album": {
+        "name": "Elephant (Deluxe)",
+        "url": "https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 171168,
+      "name": "The Air Near My Fingers - Live at The Aragon Ballroom, July 2, 2003",
+      "url": "https://open.spotify.com/track/3ghB4ioxsIapyD6VJF5VGI"
+    },
+    {
+      "album": {
+        "name": "Get Behind Me Satan",
+        "url": "https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155773,
+      "name": "The Denial Twist",
+      "url": "https://open.spotify.com/track/4Hzg7Hcqo2aUooTQ0pnBYC"
+    },
+    {
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "Truth Doesn't Make a Noise",
+      "url": "https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ"
+    },
+    {
+      "album": {
+        "name": "Under Great White Northern Lights (Live)",
+        "url": "https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144120,
+      "name": "We Are Going to Be Friends - Live",
+      "url": "https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2"
+    },
+    {
+      "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140178,
+      "name": "We're Going to Be Friends",
+      "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
+    },
+    {
+      "album": {
+        "name": "The White Stripes",
+        "url": "https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114360,
+      "name": "When I Hear My Name",
+      "url": "https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 202240,
+      "name": "Why Can't You Be Nicer to Me?",
+      "url": "https://open.spotify.com/track/2mcIqH8wKpaRr554Tj4tFM"
+    },
+    {
+      "album": {
+        "name": "Icky Thump",
+        "url": "https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "You Don't Know What Love Is (You Just Do as You're Told)",
+      "url": "https://open.spotify.com/track/2PVq6RRjQpycXb6yQEkHHt"
+    },
+    {
+      "album": {
+        "name": "De Stijl",
+        "url": "https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109720,
+      "name": "You're Pretty Good Looking (For a Girl)",
+      "url": "https://open.spotify.com/track/5OjQHOLMSzm9gkcIhtsgMO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JuLM4"
 }

@@ -1,731 +1,1437 @@
 {
-  "2021-12-29": 1604,
-  "2021-12-30": 1606,
-  "2021-12-31": 1609,
-  "2022-01-01": 1614,
-  "2022-01-02": 1615,
-  "2022-01-03": 1616,
-  "2022-01-04": 1614,
-  "2022-01-05": 1615,
-  "2022-01-06": 1615,
-  "2022-01-07": 1615,
-  "2022-01-08": 1620,
-  "2022-01-09": 1620,
-  "2022-01-10": 1621,
-  "2022-01-11": 1621,
-  "2022-01-12": 1622,
-  "2022-01-13": 1623,
-  "2022-01-14": 1623,
-  "2022-01-15": 1624,
-  "2022-01-16": 1624,
-  "2022-01-17": 1626,
-  "2022-01-18": 1626,
-  "2022-01-19": 1626,
-  "2022-01-20": 1626,
-  "2022-01-21": 1626,
-  "2022-01-22": 1626,
-  "2022-01-23": 1628,
-  "2022-01-24": 1629,
-  "2022-01-25": 1630,
-  "2022-01-26": 1632,
-  "2022-01-27": 1632,
-  "2022-01-28": 1633,
-  "2022-01-29": 1633,
-  "2022-01-30": 1636,
-  "2022-01-31": 1637,
-  "2022-02-01": 1638,
-  "2022-02-02": 1638,
-  "2022-02-03": 1639,
-  "2022-02-04": 1639,
-  "2022-02-05": 1641,
-  "2022-02-06": 1643,
-  "2022-02-07": 1644,
-  "2022-02-08": 1643,
-  "2022-02-09": 1644,
-  "2022-02-10": 1646,
-  "2022-02-11": 1647,
-  "2022-02-12": 1647,
-  "2022-02-13": 1648,
-  "2022-02-14": 1648,
-  "2022-02-15": 1652,
-  "2022-02-16": 1655,
-  "2022-02-17": 1656,
-  "2022-02-18": 1657,
-  "2022-02-19": 1658,
-  "2022-02-20": 1658,
-  "2022-02-21": 1658,
-  "2022-02-22": 1659,
-  "2022-02-23": 1663,
-  "2022-02-24": 1663,
-  "2022-02-25": 1663,
-  "2022-02-26": 1662,
-  "2022-02-27": 1663,
-  "2022-02-28": 1663,
-  "2022-03-01": 1663,
-  "2022-03-02": 1664,
-  "2022-03-03": 1665,
-  "2022-03-04": 1668,
-  "2022-03-05": 1668,
-  "2022-03-06": 1669,
-  "2022-03-07": 1672,
-  "2022-03-08": 1674,
-  "2022-03-09": 1674,
-  "2022-03-10": 1676,
-  "2022-03-11": 1678,
-  "2022-03-12": 1678,
-  "2022-03-13": 1680,
-  "2022-03-14": 1682,
-  "2022-03-15": 1683,
-  "2022-03-16": 1684,
-  "2022-03-17": 1684,
-  "2022-03-18": 1684,
-  "2022-03-19": 1684,
-  "2022-03-20": 1684,
-  "2022-03-21": 1686,
-  "2022-03-22": 1687,
-  "2022-03-23": 1688,
-  "2022-03-24": 1689,
-  "2022-03-25": 1689,
-  "2022-03-26": 1689,
-  "2022-03-27": 1691,
-  "2022-03-28": 1693,
-  "2022-03-30": 1692,
-  "2022-03-31": 1692,
-  "2022-04-01": 1695,
-  "2022-04-02": 1697,
-  "2022-04-03": 1698,
-  "2022-04-04": 1700,
-  "2022-04-05": 1700,
-  "2022-04-06": 1703,
-  "2022-04-07": 1702,
-  "2022-04-08": 1703,
-  "2022-04-09": 1704,
-  "2022-04-10": 1709,
-  "2022-04-11": 1711,
-  "2022-04-12": 1712,
-  "2022-04-13": 1713,
-  "2022-04-14": 1714,
-  "2022-04-15": 1718,
-  "2022-04-16": 1720,
-  "2022-04-17": 1722,
-  "2022-04-18": 1727,
-  "2022-04-19": 1729,
-  "2022-04-20": 1732,
-  "2022-04-21": 1734,
-  "2022-04-22": 1734,
-  "2022-04-23": 1736,
-  "2022-04-24": 1740,
-  "2022-04-25": 1741,
-  "2022-04-26": 1744,
-  "2022-04-27": 1745,
-  "2022-04-28": 1748,
-  "2022-04-29": 1754,
-  "2022-04-30": 1758,
-  "2022-05-01": 1761,
-  "2022-05-02": 1761,
-  "2022-05-03": 1763,
-  "2022-05-04": 1765,
-  "2022-05-05": 1765,
-  "2022-05-06": 1768,
-  "2022-05-07": 1769,
-  "2022-05-08": 1771,
-  "2022-05-09": 1771,
-  "2022-05-10": 1770,
-  "2022-05-11": 1771,
-  "2022-05-12": 1772,
-  "2022-05-13": 1772,
-  "2022-05-14": 1773,
-  "2022-05-15": 1775,
-  "2022-05-16": 1778,
-  "2022-05-17": 1780,
-  "2022-05-18": 1780,
-  "2022-05-19": 1782,
-  "2022-05-20": 1785,
-  "2022-05-21": 1792,
-  "2022-05-22": 1792,
-  "2022-05-23": 1792,
-  "2022-05-24": 1796,
-  "2022-05-25": 1797,
-  "2022-05-26": 1798,
-  "2022-05-27": 1799,
-  "2022-05-28": 1800,
-  "2022-05-29": 1800,
-  "2022-05-30": 1803,
-  "2022-05-31": 1804,
-  "2022-06-01": 1805,
-  "2022-06-02": 1807,
-  "2022-06-03": 1810,
-  "2022-06-04": 1813,
-  "2022-06-05": 1814,
-  "2022-06-06": 1818,
-  "2022-06-07": 1820,
-  "2022-06-08": 1821,
-  "2022-06-09": 1821,
-  "2022-06-10": 1822,
-  "2022-06-11": 1823,
-  "2022-06-12": 1824,
-  "2022-06-13": 1824,
-  "2022-06-14": 1825,
-  "2022-06-15": 1828,
-  "2022-06-16": 1830,
-  "2022-06-17": 1829,
-  "2022-06-18": 1832,
-  "2022-06-19": 1835,
-  "2022-06-20": 1835,
-  "2022-06-21": 1837,
-  "2022-06-22": 1839,
-  "2022-06-23": 1839,
-  "2022-06-24": 1841,
-  "2022-06-25": 1842,
-  "2022-06-26": 1845,
-  "2022-06-27": 1848,
-  "2022-06-28": 1848,
-  "2022-06-29": 1849,
-  "2022-06-30": 1851,
-  "2022-07-01": 1850,
-  "2022-07-02": 1855,
-  "2022-07-03": 1855,
-  "2022-07-04": 1855,
-  "2022-07-05": 1855,
-  "2022-07-06": 1855,
-  "2022-07-07": 1860,
-  "2022-07-08": 1860,
-  "2022-07-09": 1862,
-  "2022-07-10": 1863,
-  "2022-07-11": 1866,
-  "2022-07-12": 1865,
-  "2022-07-13": 1866,
-  "2022-07-14": 1869,
-  "2022-07-15": 1871,
-  "2022-07-16": 1870,
-  "2022-07-17": 1875,
-  "2022-07-18": 1878,
-  "2022-07-19": 1878,
-  "2022-07-20": 1879,
-  "2022-07-21": 1882,
-  "2022-07-22": 1887,
-  "2022-07-23": 1887,
-  "2022-07-24": 1888,
-  "2022-07-25": 1893,
-  "2022-07-26": 1894,
-  "2022-07-27": 1893,
-  "2022-07-28": 1894,
-  "2022-07-29": 1895,
-  "2022-07-30": 1895,
-  "2022-07-31": 1895,
-  "2022-08-01": 1896,
-  "2022-08-02": 1900,
-  "2022-08-03": 1900,
-  "2022-08-04": 1901,
-  "2022-08-05": 1902,
-  "2022-08-06": 1904,
-  "2022-08-07": 1904,
-  "2022-08-08": 1905,
-  "2022-08-09": 1906,
-  "2022-08-10": 1907,
-  "2022-08-11": 1908,
-  "2022-08-12": 1910,
-  "2022-08-13": 1911,
-  "2022-08-14": 1915,
-  "2022-08-15": 1917,
-  "2022-08-16": 1918,
-  "2022-08-17": 1919,
-  "2022-08-18": 1923,
-  "2022-08-19": 1923,
-  "2022-08-20": 1925,
-  "2022-08-21": 1929,
-  "2022-08-22": 1930,
-  "2022-08-23": 1932,
-  "2022-08-24": 1934,
-  "2022-08-25": 1934,
-  "2022-08-26": 1935,
-  "2022-08-27": 1937,
-  "2022-08-28": 1936,
-  "2022-08-29": 1937,
-  "2022-08-30": 1938,
-  "2022-08-31": 1940,
-  "2022-09-01": 1940,
-  "2022-09-02": 1941,
-  "2022-09-03": 1941,
-  "2022-09-04": 1943,
-  "2022-09-05": 1943,
-  "2022-09-06": 1945,
-  "2022-09-07": 1946,
-  "2022-09-09": 1949,
-  "2022-09-10": 1952,
-  "2022-09-11": 1952,
-  "2022-09-12": 1956,
-  "2022-09-13": 1957,
-  "2022-09-15": 1960,
-  "2022-09-16": 1965,
-  "2022-09-17": 1966,
-  "2022-09-18": 1966,
-  "2022-09-19": 1966,
-  "2022-09-20": 1966,
-  "2022-09-21": 1966,
-  "2022-09-22": 1967,
-  "2022-09-23": 1967,
-  "2022-09-24": 1967,
-  "2022-09-25": 1971,
-  "2022-09-26": 1972,
-  "2022-09-27": 1973,
-  "2022-09-28": 1974,
-  "2022-09-29": 1976,
-  "2022-09-30": 1978,
-  "2022-10-01": 1980,
-  "2022-10-02": 1981,
-  "2022-10-03": 1983,
-  "2022-10-04": 1984,
-  "2022-10-05": 1983,
-  "2022-10-06": 1982,
-  "2022-10-07": 1983,
-  "2022-10-08": 1985,
-  "2022-10-09": 1985,
-  "2022-10-10": 1985,
-  "2022-10-11": 1986,
-  "2022-10-12": 1987,
-  "2022-10-13": 1987,
-  "2022-10-14": 1988,
-  "2022-10-15": 1989,
-  "2022-10-16": 1991,
-  "2022-10-17": 1992,
-  "2022-10-18": 1992,
-  "2022-10-19": 1993,
-  "2022-10-20": 1997,
-  "2022-10-21": 1999,
-  "2022-10-22": 2000,
-  "2022-10-23": 2001,
-  "2022-10-24": 2002,
-  "2022-10-25": 2004,
-  "2022-10-26": 2003,
-  "2022-10-27": 2003,
-  "2022-10-28": 2004,
-  "2022-10-29": 2004,
-  "2022-10-30": 2004,
-  "2022-10-31": 2004,
-  "2022-11-01": 2004,
-  "2022-11-02": 2005,
-  "2022-11-03": 2007,
-  "2022-11-04": 2010,
-  "2022-11-05": 2011,
-  "2022-11-06": 2017,
-  "2022-11-07": 2017,
-  "2022-11-08": 2017,
-  "2022-11-09": 2018,
-  "2022-11-10": 2021,
-  "2022-11-11": 2021,
-  "2022-11-12": 2022,
-  "2022-11-13": 2024,
-  "2022-11-14": 2026,
-  "2022-11-15": 2027,
-  "2022-11-16": 2029,
-  "2022-11-17": 2030,
-  "2022-11-18": 2030,
-  "2022-11-19": 2028,
-  "2022-11-20": 2030,
-  "2022-11-21": 2033,
-  "2022-11-22": 2037,
-  "2022-11-23": 2041,
-  "2022-11-24": 2042,
-  "2022-11-25": 2047,
-  "2022-11-26": 2047,
-  "2022-11-27": 2051,
-  "2022-11-28": 2053,
-  "2022-11-29": 2054,
-  "2022-11-30": 2055,
-  "2022-12-01": 2056,
-  "2022-12-02": 2056,
-  "2022-12-03": 2061,
-  "2022-12-04": 2063,
-  "2022-12-05": 2064,
-  "2022-12-06": 2066,
-  "2022-12-07": 2067,
-  "2022-12-08": 2067,
-  "2022-12-09": 2069,
-  "2022-12-10": 2070,
-  "2022-12-11": 2074,
-  "2022-12-12": 2074,
-  "2022-12-13": 2076,
-  "2022-12-14": 2077,
-  "2022-12-15": 2076,
-  "2022-12-16": 2076,
-  "2022-12-17": 2077,
-  "2022-12-18": 2078,
-  "2022-12-19": 2078,
-  "2022-12-20": 2078,
-  "2022-12-21": 2078,
-  "2022-12-22": 2079,
-  "2022-12-24": 2081,
-  "2022-12-25": 2082,
-  "2022-12-26": 2084,
-  "2022-12-27": 2084,
-  "2022-12-28": 2086,
-  "2022-12-29": 2091,
-  "2022-12-30": 2093,
-  "2022-12-31": 2097,
-  "2023-01-01": 2097,
-  "2023-01-02": 2098,
-  "2023-01-03": 2101,
-  "2023-01-04": 2102,
-  "2023-01-05": 2105,
-  "2023-01-06": 2106,
-  "2023-01-07": 2110,
-  "2023-01-08": 2110,
-  "2023-01-09": 2115,
-  "2023-01-10": 2115,
-  "2023-01-11": 2116,
-  "2023-01-12": 2117,
-  "2023-01-13": 2118,
-  "2023-01-14": 2121,
-  "2023-01-15": 2121,
-  "2023-01-16": 2125,
-  "2023-01-17": 2126,
-  "2023-01-18": 2129,
-  "2023-01-19": 2132,
-  "2023-01-20": 2135,
-  "2023-01-21": 2136,
-  "2023-01-22": 2136,
-  "2023-01-23": 2138,
-  "2023-01-24": 2138,
-  "2023-01-25": 2138,
-  "2023-01-26": 2138,
-  "2023-01-27": 2139,
-  "2023-01-28": 2141,
-  "2023-01-29": 2143,
-  "2023-01-30": 2143,
-  "2023-01-31": 2143,
-  "2023-02-01": 2146,
-  "2023-02-02": 2147,
-  "2023-02-03": 2148,
-  "2023-02-04": 2149,
-  "2023-02-05": 2149,
-  "2023-02-06": 2152,
-  "2023-02-07": 2153,
-  "2023-02-08": 2157,
-  "2023-02-09": 2157,
-  "2023-02-10": 2158,
-  "2023-02-11": 2158,
-  "2023-02-12": 2159,
-  "2023-02-13": 2160,
-  "2023-02-14": 2160,
-  "2023-02-15": 2160,
-  "2023-02-16": 2160,
-  "2023-02-17": 2160,
-  "2023-02-18": 2164,
-  "2023-02-19": 2164,
-  "2023-02-20": 2166,
-  "2023-02-21": 2166,
-  "2023-02-22": 2165,
-  "2023-02-23": 2165,
-  "2023-02-24": 2165,
-  "2023-02-25": 2167,
-  "2023-02-26": 2167,
-  "2023-02-27": 2169,
-  "2023-02-28": 2169,
-  "2023-03-01": 2171,
-  "2023-03-02": 2172,
-  "2023-03-03": 2174,
-  "2023-03-04": 2175,
-  "2023-03-05": 2183,
-  "2023-03-06": 2183,
-  "2023-03-07": 2182,
-  "2023-03-08": 2184,
-  "2023-03-09": 2185,
-  "2023-03-10": 2185,
-  "2023-03-11": 2190,
-  "2023-03-12": 2194,
-  "2023-03-13": 2196,
-  "2023-03-14": 2196,
-  "2023-03-15": 2197,
-  "2023-03-16": 2197,
-  "2023-03-17": 2197,
-  "2023-03-18": 2203,
-  "2023-03-19": 2203,
-  "2023-03-20": 2207,
-  "2023-03-21": 2208,
-  "2023-03-22": 2209,
-  "2023-03-23": 2212,
-  "2023-03-24": 2212,
-  "2023-03-25": 2215,
-  "2023-03-26": 2218,
-  "2023-03-27": 2219,
-  "2023-03-28": 2219,
-  "2023-03-29": 2222,
-  "2023-03-30": 2225,
-  "2023-03-31": 2225,
-  "2023-04-01": 2226,
-  "2023-04-02": 2231,
-  "2023-04-03": 2232,
-  "2023-04-04": 2233,
-  "2023-04-05": 2235,
-  "2023-04-06": 2238,
-  "2023-04-07": 2241,
-  "2023-04-09": 2246,
-  "2023-04-10": 2248,
-  "2023-04-11": 2251,
-  "2023-04-12": 2251,
-  "2023-04-13": 2254,
-  "2023-04-14": 2258,
-  "2023-04-15": 2259,
-  "2023-04-16": 2261,
-  "2023-04-17": 2264,
-  "2023-04-18": 2265,
-  "2023-04-19": 2269,
-  "2023-04-20": 2268,
-  "2023-04-21": 2269,
-  "2023-04-22": 2271,
-  "2023-04-23": 2272,
-  "2023-04-24": 2273,
-  "2023-04-25": 2274,
-  "2023-04-26": 2276,
-  "2023-04-27": 2277,
-  "2023-04-28": 2279,
-  "2023-04-29": 2282,
-  "2023-04-30": 2284,
-  "2023-05-01": 2287,
-  "2023-05-02": 2289,
-  "2023-05-03": 2292,
-  "2023-05-04": 2295,
-  "2023-05-05": 2294,
-  "2023-05-06": 2294,
-  "2023-05-07": 2296,
-  "2023-05-08": 2300,
-  "2023-05-09": 2300,
-  "2023-05-10": 2300,
-  "2023-05-11": 2302,
-  "2023-05-12": 2303,
-  "2023-05-13": 2304,
-  "2023-05-14": 2307,
-  "2023-05-15": 2311,
-  "2023-05-16": 2312,
-  "2023-05-17": 2314,
-  "2023-05-18": 2316,
-  "2023-05-19": 2318,
-  "2023-05-20": 2325,
-  "2023-05-21": 2325,
-  "2023-05-22": 2325,
-  "2023-05-23": 2333,
-  "2023-05-24": 2337,
-  "2023-05-25": 2337,
-  "2023-05-26": 2338,
-  "2023-05-27": 2339,
-  "2023-05-28": 2339,
-  "2023-05-29": 2339,
-  "2023-05-30": 2344,
-  "2023-05-31": 2345,
-  "2023-06-01": 2346,
-  "2023-06-02": 2346,
-  "2023-06-03": 2348,
-  "2023-06-04": 2350,
-  "2023-06-05": 2354,
-  "2023-06-06": 2355,
-  "2023-06-07": 2355,
-  "2023-06-08": 2357,
-  "2023-06-09": 2361,
-  "2023-06-10": 2365,
-  "2023-06-11": 2368,
-  "2023-06-12": 2371,
-  "2023-06-13": 2373,
-  "2023-06-14": 2373,
-  "2023-06-15": 2377,
-  "2023-06-16": 2377,
-  "2023-06-17": 2377,
-  "2023-06-18": 2377,
-  "2023-06-19": 2379,
-  "2023-06-20": 2379,
-  "2023-06-21": 2380,
-  "2023-06-22": 2385,
-  "2023-06-23": 2386,
-  "2023-06-24": 2387,
-  "2023-06-25": 2388,
-  "2023-06-26": 2391,
-  "2023-06-27": 2394,
-  "2023-06-28": 2396,
-  "2023-06-29": 2396,
-  "2023-06-30": 2397,
-  "2023-07-01": 2402,
-  "2023-07-02": 2402,
-  "2023-07-03": 2402,
-  "2023-07-04": 2406,
-  "2023-07-05": 2408,
-  "2023-07-06": 2414,
-  "2023-07-07": 2414,
-  "2023-07-08": 2414,
-  "2023-07-09": 2417,
-  "2023-07-10": 2417,
-  "2023-07-11": 2418,
-  "2023-07-12": 2420,
-  "2023-07-13": 2421,
-  "2023-07-14": 2423,
-  "2023-07-15": 2423,
-  "2023-07-16": 2426,
-  "2023-07-17": 2426,
-  "2023-07-18": 2429,
-  "2023-07-19": 2431,
-  "2023-07-20": 2433,
-  "2023-07-21": 2433,
-  "2023-07-22": 2439,
-  "2023-07-23": 2440,
-  "2023-07-24": 2443,
-  "2023-07-25": 2445,
-  "2023-07-26": 2447,
-  "2023-07-27": 2449,
-  "2023-07-28": 2451,
-  "2023-07-29": 2452,
-  "2023-07-30": 2452,
-  "2023-07-31": 2452,
-  "2023-08-01": 2453,
-  "2023-08-02": 2454,
-  "2023-08-03": 2457,
-  "2023-08-04": 2461,
-  "2023-08-05": 2462,
-  "2023-08-06": 2469,
-  "2023-08-07": 2469,
-  "2023-08-08": 2472,
-  "2023-08-09": 2477,
-  "2023-08-10": 2478,
-  "2023-08-11": 2480,
-  "2023-08-12": 2480,
-  "2023-08-13": 2480,
-  "2023-08-14": 2488,
-  "2023-08-15": 2488,
-  "2023-08-16": 2488,
-  "2023-08-17": 2488,
-  "2023-08-18": 2488,
-  "2023-08-19": 2488,
-  "2023-08-20": 2505,
-  "2023-08-21": 2505,
-  "2023-08-22": 2514,
-  "2023-08-23": 2514,
-  "2023-08-24": 2514,
-  "2023-08-25": 2514,
-  "2023-08-26": 2518,
-  "2023-08-27": 2518,
-  "2023-08-28": 2523,
-  "2023-08-29": 2523,
-  "2023-08-30": 2523,
-  "2023-08-31": 2530,
-  "2023-09-01": 2534,
-  "2023-09-02": 2534,
-  "2023-09-03": 2534,
-  "2023-09-04": 2534,
-  "2023-09-05": 2534,
-  "2023-09-06": 2547,
-  "2023-09-07": 2547,
-  "2023-09-08": 2547,
-  "2023-09-09": 2547,
-  "2023-09-10": 2559,
-  "2023-09-11": 2559,
-  "2023-09-12": 2559,
-  "2023-09-13": 2559,
-  "2023-09-14": 2559,
-  "2023-09-15": 2559,
-  "2023-09-16": 2574,
-  "2023-09-17": 2574,
-  "2023-09-18": 2574,
-  "2023-09-19": 2582,
-  "2023-09-20": 2582,
-  "2023-09-21": 2582,
-  "2023-09-22": 2587,
-  "2023-09-23": 2587,
-  "2023-09-24": 2587,
-  "2023-09-25": 2587,
-  "2023-09-26": 2597,
-  "2023-09-27": 2597,
-  "2023-09-28": 2597,
-  "2023-09-29": 2597,
-  "2023-09-30": 2597,
-  "2023-10-01": 2597,
-  "2023-10-02": 2597,
-  "2023-10-03": 2597,
-  "2023-10-04": 2597,
-  "2023-10-05": 2597,
-  "2023-10-06": 2597,
-  "2023-10-07": 2597,
-  "2023-10-08": 2597,
-  "2023-10-09": 2597,
-  "2023-10-10": 2597,
-  "2023-10-11": 2637,
-  "2023-10-12": 2637,
-  "2023-10-13": 2637,
-  "2023-10-14": 2637,
-  "2023-10-15": 2637,
-  "2023-10-16": 2637,
-  "2023-10-17": 2637,
-  "2023-10-18": 2637,
-  "2023-10-19": 2637,
-  "2023-10-20": 2637,
-  "2023-10-21": 2637,
-  "2023-10-22": 2637,
-  "2023-10-23": 2637,
-  "2023-10-24": 2637,
-  "2023-10-25": 2637,
-  "2023-10-26": 2637,
-  "2023-10-27": 2637,
-  "2023-10-28": 2637,
-  "2023-10-29": 2637,
-  "2023-10-30": 2637,
-  "2023-10-31": 2637,
-  "2023-11-01": 2637,
-  "2023-11-02": 2637,
-  "2023-11-03": 2637,
-  "2023-11-04": 2637,
-  "2023-11-05": 2637,
-  "2023-11-06": 2637,
-  "2023-11-07": 2637,
-  "2023-11-08": 2637,
-  "2023-11-09": 2637,
-  "2023-11-10": 2637,
-  "2023-11-11": 2708,
-  "2023-11-12": 2708,
-  "2023-11-13": 2708,
-  "2023-11-14": 2708,
-  "2023-11-15": 2708,
-  "2023-11-16": 2708,
-  "2023-11-17": 2708,
-  "2023-11-18": 2708,
-  "2023-11-19": 2708,
-  "2023-11-20": 2708,
-  "2023-11-21": 2708,
-  "2023-11-22": 2708,
-  "2023-11-23": 2708,
-  "2023-11-24": 2708,
-  "2023-11-25": 2708,
-  "2023-11-26": 2708,
-  "2023-11-27": 2708,
-  "2023-11-28": 2708,
-  "2023-11-29": 2708,
-  "2023-11-30": 2708,
-  "2023-12-01": 2708,
-  "2023-12-02": 2708,
-  "2023-12-03": 2708,
-  "2023-12-04": 2708,
-  "2023-12-05": 2708,
-  "2023-12-06": 2708,
-  "2023-12-07": 2708,
-  "2023-12-08": 2708,
-  "2023-12-09": 2708,
-  "2023-12-10": 2708,
-  "2023-12-11": 2708,
-  "2023-12-12": 2708,
-  "2023-12-13": 2708,
-  "2023-12-14": 2783,
-  "2023-12-15": 2784,
-  "2023-12-16": 2788,
-  "2023-12-17": 2791,
-  "2023-12-18": 2792,
-  "2023-12-19": 2793,
-  "2023-12-20": 2793,
-  "2023-12-21": 2796,
-  "2023-12-22": 2797,
-  "2023-12-23": 2802,
-  "2023-12-24": 2807,
-  "2023-12-25": 2810,
-  "2023-12-26": 2811,
-  "2023-12-27": 2815,
-  "2023-12-30": 2820,
-  "2023-12-31": 2822,
-  "2024-01-01": 2822,
-  "2024-01-02": 2827,
-  "2024-01-03": 2825
+  "2024-01-17": 2853,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Chief Commander Ebenezer Obey. The essential tracks, all in one playlist.",
+  "name": "This Is Chief Commander Ebenezer Obey",
+  "tracks": [
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 14",
+        "url": "https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-27",
+      "duration_ms": 378653,
+      "name": "Africa Is My Home",
+      "url": "https://open.spotify.com/track/2IIdifWhdDVTOlTGrXH1qS"
+    },
+    {
+      "album": {
+        "name": "Aimasiko",
+        "url": "https://open.spotify.com/album/3WzWQLb4XBRhgsHMSZBmYD"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1062573,
+      "name": "Aimasiko Lo N Damu Eda Medley (Part 1)",
+      "url": "https://open.spotify.com/track/7sYKjNN1DAw38RNIH2shDl"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: London La Wa Yi",
+        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1218813,
+      "name": "Aiye Wa a Toro",
+      "url": "https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Osika Gbagbe Ola",
+        "url": "https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Ajo Ni Mowa",
+      "url": "https://open.spotify.com/track/2qXfBppgA4buq508Kdo7ZG"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 15",
+        "url": "https://open.spotify.com/album/1dSXP0OB4XJywalCs07tHx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-16",
+      "duration_ms": 163973,
+      "name": "Ajo Ni Mowa",
+      "url": "https://open.spotify.com/track/4Eq2VdKph12OIZ92EgZMio"
+    },
+    {
+      "album": {
+        "name": "Nigeria 70 - Sweet Times: Afro-Funk, Highlife & Juju from 1970s Lagos",
+        "url": "https://open.spotify.com/album/6Md7Px2lT7kYkKAUq6AMqW"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        },
+        {
+          "name": "His International Brothers",
+          "url": "https://open.spotify.com/artist/17QTCTNCIuruw8FQlCHJvm"
+        }
+      ],
+      "date_added": "2022-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399843,
+      "name": "Ajoyio",
+      "url": "https://open.spotify.com/track/3tWmLZjzhvnQq7Xci21luT"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 32",
+        "url": "https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 1052560,
+      "name": "Austerity Measure",
+      "url": "https://open.spotify.com/track/4xHAk3d35NjPe5zb9WJ9CD"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Ajo Yio",
+        "url": "https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1128266,
+      "name": "Baba Fona Han Wa",
+      "url": "https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 50",
+        "url": "https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/5aabOGm40vt2ibeVN0SLr9"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 32",
+        "url": "https://open.spotify.com/album/3SLsmP1ydaSxN39MLRXGYx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 262413,
+      "name": "Bonus Track1",
+      "url": "https://open.spotify.com/track/2taVMmndMmnT6dwF0RUh8F"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 16",
+        "url": "https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 276866,
+      "name": "E Sa Ma Miliki",
+      "url": "https://open.spotify.com/track/37ezuxUJSRvFfkSKfA3p7t"
+    },
+    {
+      "album": {
+        "name": "Leaving Everything to God",
+        "url": "https://open.spotify.com/album/3zux0WffqNPIJLdq2hd5L8"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 1048226,
+      "name": "Edumare A De Medley (Part 2)",
+      "url": "https://open.spotify.com/track/0QHsDTLmdWcDRC7v52LRff"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Edumare Dari Jiwon",
+        "url": "https://open.spotify.com/album/5IAW3IhjPWA6sYIVjsDunu"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1178000,
+      "name": "Edumare Dari Jiwon Medley, Pt. 2",
+      "url": "https://open.spotify.com/track/4nqYmetLP1PHenzQiIlLud"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178933,
+      "name": "Edumare Lon Pese",
+      "url": "https://open.spotify.com/track/1CXTFyrMaGRK6MboiNuQIp"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Board Members",
+        "url": "https://open.spotify.com/album/1AjpzZFOINVgNGQT9FmEG5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1131320,
+      "name": "Edumare Soro Mi Dayo",
+      "url": "https://open.spotify.com/track/4pEkHTDnQCL8ZueyeUytzL"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204973,
+      "name": "Egba (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/5E9hldNlMRT988fAuOOS9r"
+    },
+    {
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/2JWjSBPuysOVwV2Oq7sMYX"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1045800,
+      "name": "Eni to Ba Mbe Laye Medley (Part 1)",
+      "url": "https://open.spotify.com/track/1uxhKAKWwVmBDhf9xPNfKu"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 1",
+        "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370320,
+      "name": "Enia Lasan",
+      "url": "https://open.spotify.com/track/3dvKQwFDsbdZ2dQuI07BlI"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "Ero Mi Ko Lonso",
+      "url": "https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ"
+    },
+    {
+      "album": {
+        "name": "What God Has joined Together",
+        "url": "https://open.spotify.com/album/5UjlIAVqMMzxlirjeDU5Wg"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1078333,
+      "name": "Eto Igbeyawo Medley (Part 2)",
+      "url": "https://open.spotify.com/track/0SFGLsLGJPGHWYYkcj1uV9"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 20",
+        "url": "https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1189973,
+      "name": "Eye To Ba Fara Wegun",
+      "url": "https://open.spotify.com/track/7kZ3SIZ3QgNFfx3HyrIhex"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 31",
+        "url": "https://open.spotify.com/album/1FRuvCuE2w3g62pdK23o56"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-04",
+      "duration_ms": 1056853,
+      "name": "Eyi Yato",
+      "url": "https://open.spotify.com/track/4rA4sGmKw1B3jLfF71QUO6"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 16",
+        "url": "https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1202093,
+      "name": "Fimi Lokan Bale",
+      "url": "https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Gbe Bemi Oluwa",
+      "url": "https://open.spotify.com/track/1cvpTxtzz7QXNk6ptyfUNX"
+    },
+    {
+      "album": {
+        "name": "I'm a M.E.S",
+        "url": "https://open.spotify.com/album/7InBzOkVxG3bw7j4zuBGxS"
+      },
+      "artists": [
+        {
+          "name": "Tosin Martins",
+          "url": "https://open.spotify.com/artist/1xXSnI0KdIC6hqXq5vlr41"
+        },
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        },
+        {
+          "name": "Cobhams",
+          "url": "https://open.spotify.com/artist/026xF7bO9mbwrrycgwDQdg"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331346,
+      "name": "Iba (feat. Ebenezer Obey & Cobhams)",
+      "url": "https://open.spotify.com/track/5SqUdHCb7DIMQWH6TDgd97"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457360,
+      "name": "Iba F'Oluwa/Ajokodabi Ile (Highlife Juju Yoruba)",
+      "url": "https://open.spotify.com/track/6kkJJ1jkn03m7TVR8DyXFA"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 1",
+        "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "Iba Folouwa",
+      "url": "https://open.spotify.com/track/4a2npWSuIXbcAP9H4ihPZ9"
+    },
+    {
+      "album": {
+        "name": "Obey @ 70",
+        "url": "https://open.spotify.com/album/5v8ddiIYTFRVuDHotcK9mw"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63733,
+      "name": "Iba Lo Ye Ka Se Medley",
+      "url": "https://open.spotify.com/track/2jY15gQFGRrPE4kUXoGl0q"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189093,
+      "name": "Ibadan (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/0EFqxIoVWjF3Zjz71n86bc"
+    },
+    {
+      "album": {
+        "name": "Igba Owuro Lawa",
+        "url": "https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1211266,
+      "name": "Igba Owuro Lawa Medley (Part 1)",
+      "url": "https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3"
+    },
+    {
+      "album": {
+        "name": "Ija Pari",
+        "url": "https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 283840,
+      "name": "Ija Pari, Pt. 1",
+      "url": "https://open.spotify.com/track/7yDmN4ygRPPzhT0vwDDvYU"
+    },
+    {
+      "album": {
+        "name": "Ija Pari",
+        "url": "https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 271573,
+      "name": "Ija Pari, Pt. 2",
+      "url": "https://open.spotify.com/track/1Xj9GldWUOA7rA5JNIsynM"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 226920,
+      "name": "Ijebu (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/2W0yVDLjp6ZJIQqgIFtjOr"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Ijesha (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/61L0RfTitMi3HTIGUnIecI"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Inter Reformers a Tunde",
+        "url": "https://open.spotify.com/album/55KjlxkYpSkpQIZKGY3JiL"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1169320,
+      "name": "Inter Reformers a Tunde Medley, Pt. 2",
+      "url": "https://open.spotify.com/track/5k6PMMcpIdrTzR9VYQuGWO"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 18",
+        "url": "https://open.spotify.com/album/1cVqfnT493osb77rsvxenZ"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 428066,
+      "name": "Isokan/Ka Ma Mosi",
+      "url": "https://open.spotify.com/track/2pGxqJMvokWeI6bUUdxXcj"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 19",
+        "url": "https://open.spotify.com/album/5NCGXv1sa4xIZR0iduICFp"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Ki Oluwa So Ipade Wa",
+      "url": "https://open.spotify.com/track/7gNdq3CRaeDz56htUR1mxa"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Lagos State",
+        "url": "https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1061680,
+      "name": "Kii Seru Akata",
+      "url": "https://open.spotify.com/track/18ML5VJvdASIIKsJ8DOco2"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Lagos State",
+        "url": "https://open.spotify.com/album/6clOb1TAebCOKWATrVry5V"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 1201653,
+      "name": "Lagos State",
+      "url": "https://open.spotify.com/track/2N6jX10BX0mTuoKuWIurw4"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Enia Lasan",
+        "url": "https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361293,
+      "name": "Lanre Badmus",
+      "url": "https://open.spotify.com/track/6kJ0R8uuYZ1V7iZ3jDU8Qb"
+    },
+    {
+      "album": {
+        "name": "Late Oke Aminu",
+        "url": "https://open.spotify.com/album/795ex3oCr24uJMjiUFUkA1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1195653,
+      "name": "Late Oke Aminu Medley (Part 1)",
+      "url": "https://open.spotify.com/track/0Q2qr34BuIWPCNFkFNSc8O"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 2)",
+        "url": "https://open.spotify.com/album/3YAXXz0OUxJQqFlYAOOu7a"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "London Lawa Yi",
+      "url": "https://open.spotify.com/track/4AlnFun5TaCZYO2GdLUfLl"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 13",
+        "url": "https://open.spotify.com/album/0tSO1qWWk1hfdNhM9mBezw"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 378306,
+      "name": "Mo Ti Wa E",
+      "url": "https://open.spotify.com/track/1MO0ImHhswv2NahAIw5BMC"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 3",
+        "url": "https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 1147480,
+      "name": "Mo Tun Gbede",
+      "url": "https://open.spotify.com/track/6O3jggcZey498goeEfHCjA"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Moti Pinu Laye Mi",
+        "url": "https://open.spotify.com/album/24uw9hm06urQF3Vscg9bKc"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-27",
+      "duration_ms": 1023373,
+      "name": "Moti Pinu Laye Mi Medley, Part. 1",
+      "url": "https://open.spotify.com/track/38UJmmcG2Z0owGXz5TArtF"
+    },
+    {
+      "album": {
+        "name": "Aventure of Mr Wise",
+        "url": "https://open.spotify.com/album/5m3EbKLiHXZzHbZngSgihK"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1188440,
+      "name": "Motun Gbede Medley (Part 2)",
+      "url": "https://open.spotify.com/track/0evTQ3fBARmOEtBZ2X8yYE"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Ajo Yio",
+        "url": "https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 1178733,
+      "name": "Motun Gboro Agba De",
+      "url": "https://open.spotify.com/track/1T6EbE0kopuOCppKElTrVW"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Mukulu Muke Maa Jo",
+        "url": "https://open.spotify.com/album/0xX3HKPxKe7AvHgDwS3MYS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        },
+        {
+          "name": "Inter Reformers Band",
+          "url": "https://open.spotify.com/artist/19fFyidF8bB0CkXRXVEf4S"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1161666,
+      "name": "Mukulu Muke Maa Jo Medley, Part. 2",
+      "url": "https://open.spotify.com/track/28jPzP1GfuAmxXXHqEaRul"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Ore Oluwa Akari",
+        "url": "https://open.spotify.com/album/28qC6iw0bcZqvsUMFAV5AW"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1077680,
+      "name": "Nibiti Lekeleke Ti Nfo'so",
+      "url": "https://open.spotify.com/track/03nvXDFR3xeFz8jn5Y0Cyw"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 20",
+        "url": "https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 171080,
+      "name": "Ode To Nso Eledumare",
+      "url": "https://open.spotify.com/track/65mkrNX8bI3xWdmYO8BViB"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 50",
+        "url": "https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "Ode Toun So Eledumare",
+      "url": "https://open.spotify.com/track/4of69GBKALe3D8g5xVsavw"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Ohun Oju Ri Laye",
+        "url": "https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 1026986,
+      "name": "Ohun Oju Ri Laye Medley, Pt. 1",
+      "url": "https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "Olomi Gbe Temi",
+      "url": "https://open.spotify.com/track/1if3tatVPScaikXCriZGgk"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Enia Lasan",
+        "url": "https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Olomi Gbo Temi",
+      "url": "https://open.spotify.com/track/5trq0eR9YenZqpqZl35M62"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 1",
+        "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 183320,
+      "name": "Olomi Gbo Temi",
+      "url": "https://open.spotify.com/track/7LnoC93HpoWZnZzE75yoiV"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 14",
+        "url": "https://open.spotify.com/album/3QxcVFoET51Kj4kjJRJdC1"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Olowo Laiye Mo",
+      "url": "https://open.spotify.com/track/6Bil8uU8Ds2kUvEQn0x1co"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents Oluwa Ni Oluso Aguntan Mi",
+        "url": "https://open.spotify.com/album/5PF0RTccDVSdl6YwOAMvVS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1085440,
+      "name": "Oluwa Ni Oluso Aguntan Mi Medley, Pt. 1",
+      "url": "https://open.spotify.com/track/6AggkGAKnQFvIL1o2sA0WD"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390466,
+      "name": "Omoba Sijuade/Moti Wa E (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/53TOrh5dizUSC81feFpyIy"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 362000,
+      "name": "Ondo Ogbomosho (Juju Yoruba)",
+      "url": "https://open.spotify.com/track/2QwKlafIg1jxYTixvM11eP"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Ope Fun Oluwa",
+      "url": "https://open.spotify.com/track/1yLSuh0RjDNBqGZHvBwQ1D"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Awa Sope Odun",
+        "url": "https://open.spotify.com/album/1D8sdbN0jvtRGd9QeewDVv"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Ore Mi E Se Pelepele",
+      "url": "https://open.spotify.com/track/1tHSyy1LN1I9lbCL5Wo99V"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 20",
+        "url": "https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 170826,
+      "name": "Ore Mi E Se Pelepele",
+      "url": "https://open.spotify.com/track/3FHFnDVYHkwe3sN7DZOeW7"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 5",
+        "url": "https://open.spotify.com/album/7Euc3Fn3Gax7MLO4F8u0Y7"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 305333,
+      "name": "Ore Mi Maje Aja",
+      "url": "https://open.spotify.com/track/7e42KWNUCxJkdFR7dBbfOd"
+    },
+    {
+      "album": {
+        "name": "Ebenezer Obey in London",
+        "url": "https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203413,
+      "name": "Ori Mi Ko Ni Buru (Jujju High-Life Yoruba)",
+      "url": "https://open.spotify.com/track/4OhtSQcLWeArrHlFYhTrXZ"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 12",
+        "url": "https://open.spotify.com/album/3ovZTFTkPQxuLt7wWRRhXr"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 1164333,
+      "name": "Ori Mi Ma Je Nte",
+      "url": "https://open.spotify.com/track/71NA0nG2xLBilh4vcKybAC"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Origina 20",
+        "url": "https://open.spotify.com/album/10eAPX33VJ9M19Uz216an5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 366586,
+      "name": "Oro Nipa Lace",
+      "url": "https://open.spotify.com/track/0mc5jZILqNvxXHwX9ePFJz"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: London La Wa Yi",
+        "url": "https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188680,
+      "name": "Oro Seniwo",
+      "url": "https://open.spotify.com/track/2a3ZAjafHuWFHdb8bYqR35"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Osika Gbagbe Ola",
+        "url": "https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 1242373,
+      "name": "Osika Gbagbe Ola",
+      "url": "https://open.spotify.com/track/7bAf39vK8TEzPk8h0MTaAA"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 1",
+        "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1146653,
+      "name": "Ota Mi Dehin",
+      "url": "https://open.spotify.com/track/0OHBlNfWNaC1lf7masrkpX"
+    },
+    {
+      "album": {
+        "name": "Ota Mi Dehin Lehin Mi",
+        "url": "https://open.spotify.com/album/67vvBba9qbOa5L7pXttWy5"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1142360,
+      "name": "Ota Mi Dehin Lehin Mi Medley (Part 1)",
+      "url": "https://open.spotify.com/track/2I10fPjb0qae4IMDVBs7gk"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "Owolo Laiye Mo",
+      "url": "https://open.spotify.com/track/3ZK6KFVAPvpgpYAR4YAkRy"
+    },
+    {
+      "album": {
+        "name": "Ija Pari",
+        "url": "https://open.spotify.com/album/7aNgU80lgtcB12sN9WwMbx"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Palongo",
+      "url": "https://open.spotify.com/track/6QNSD7ydhQvs0HIEIMHzVt"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 3",
+        "url": "https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178160,
+      "name": "Pegan Pegan",
+      "url": "https://open.spotify.com/track/6dh3gfKqz5QIbJlotxIXVY"
+    },
+    {
+      "album": {
+        "name": "Obey In the 60's (Vol 1)",
+        "url": "https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-26",
+      "duration_ms": 171333,
+      "name": "Sanu Olu",
+      "url": "https://open.spotify.com/track/76dQXmWk18oZ5bc8lu8YZe"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs 50",
+        "url": "https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 268586,
+      "name": "Tajudeen Onigbanjo",
+      "url": "https://open.spotify.com/track/1JOyGXpmFTu9FGhKhOO1Wp"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs Original 1",
+        "url": "https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 1173826,
+      "name": "The Horse, The Man & The Son",
+      "url": "https://open.spotify.com/track/281tnU6RD0BZbn33n6CbzQ"
+    },
+    {
+      "album": {
+        "name": "51 Lex Presents: Enia Lasan",
+        "url": "https://open.spotify.com/album/1lzyxHBhr6s6ZLJoUB8t9s"
+      },
+      "artists": [
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1173826,
+      "name": "The Horse, The Man & The Son",
+      "url": "https://open.spotify.com/track/2LhsGTf7MDlnKpyHPsEn8Q"
+    },
+    {
+      "album": {
+        "name": "Mood and Ecstasy",
+        "url": "https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "Chief Commander Ebenezer Obey",
+          "url": "https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219415,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/59K3OX1LDIHUPWyNs0GfZo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W8xb0"
 }

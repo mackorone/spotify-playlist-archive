@@ -1,730 +1,2833 @@
 {
-  "2021-12-29": 15,
-  "2021-12-30": 15,
-  "2021-12-31": 15,
-  "2022-01-01": 15,
-  "2022-01-02": 15,
-  "2022-01-03": 15,
-  "2022-01-04": 15,
-  "2022-01-05": 15,
-  "2022-01-06": 15,
-  "2022-01-07": 15,
-  "2022-01-08": 15,
-  "2022-01-09": 15,
-  "2022-01-10": 15,
-  "2022-01-11": 17,
-  "2022-01-12": 31,
-  "2022-01-13": 43,
-  "2022-01-14": 78,
-  "2022-01-15": 88361,
-  "2022-01-16": 88362,
-  "2022-01-17": 88476,
-  "2022-01-18": 88476,
-  "2022-01-19": 88489,
-  "2022-01-20": 88498,
-  "2022-01-21": 88505,
-  "2022-01-22": 88510,
-  "2022-01-23": 88533,
-  "2022-01-24": 88544,
-  "2022-01-25": 88546,
-  "2022-01-26": 88561,
-  "2022-01-27": 88576,
-  "2022-01-28": 88592,
-  "2022-01-29": 88610,
-  "2022-01-30": 88629,
-  "2022-01-31": 88646,
-  "2022-02-01": 88655,
-  "2022-02-02": 88663,
-  "2022-02-03": 88676,
-  "2022-02-04": 88696,
-  "2022-02-05": 88710,
-  "2022-02-06": 88736,
-  "2022-02-07": 88740,
-  "2022-02-08": 88745,
-  "2022-02-09": 88763,
-  "2022-02-10": 88781,
-  "2022-02-11": 88787,
-  "2022-02-12": 88802,
-  "2022-02-13": 88818,
-  "2022-02-14": 88840,
-  "2022-02-15": 88845,
-  "2022-02-16": 88858,
-  "2022-02-17": 88875,
-  "2022-02-18": 88887,
-  "2022-02-19": 88895,
-  "2022-02-20": 88918,
-  "2022-02-21": 88930,
-  "2022-02-22": 88942,
-  "2022-02-23": 88955,
-  "2022-02-24": 88962,
-  "2022-02-25": 88972,
-  "2022-02-26": 88988,
-  "2022-02-27": 89027,
-  "2022-02-28": 89027,
-  "2022-03-01": 89032,
-  "2022-03-02": 89051,
-  "2022-03-03": 89062,
-  "2022-03-04": 89073,
-  "2022-03-05": 89101,
-  "2022-03-06": 89115,
-  "2022-03-07": 89126,
-  "2022-03-08": 89133,
-  "2022-03-09": 89142,
-  "2022-03-10": 89156,
-  "2022-03-11": 89166,
-  "2022-03-12": 89182,
-  "2022-03-13": 89195,
-  "2022-03-14": 89202,
-  "2022-03-15": 89211,
-  "2022-03-16": 89227,
-  "2022-03-17": 89238,
-  "2022-03-18": 89260,
-  "2022-03-19": 89274,
-  "2022-03-20": 89274,
-  "2022-03-21": 89305,
-  "2022-03-22": 89319,
-  "2022-03-23": 89333,
-  "2022-03-24": 89351,
-  "2022-03-25": 89368,
-  "2022-03-26": 89386,
-  "2022-03-27": 89402,
-  "2022-03-28": 89417,
-  "2022-03-30": 89436,
-  "2022-03-31": 89449,
-  "2022-04-01": 89456,
-  "2022-04-02": 89472,
-  "2022-04-03": 89489,
-  "2022-04-04": 89507,
-  "2022-04-05": 89523,
-  "2022-04-06": 89532,
-  "2022-04-07": 89544,
-  "2022-04-08": 89557,
-  "2022-04-09": 89567,
-  "2022-04-10": 89610,
-  "2022-04-11": 89623,
-  "2022-04-12": 89622,
-  "2022-04-13": 89632,
-  "2022-04-14": 89642,
-  "2022-04-15": 89664,
-  "2022-04-16": 89674,
-  "2022-04-17": 89694,
-  "2022-04-18": 89711,
-  "2022-04-19": 89719,
-  "2022-04-20": 89735,
-  "2022-04-21": 89739,
-  "2022-04-22": 89752,
-  "2022-04-23": 89763,
-  "2022-04-24": 89789,
-  "2022-04-25": 89812,
-  "2022-04-26": 89821,
-  "2022-04-27": 89842,
-  "2022-04-28": 89856,
-  "2022-04-29": 89881,
-  "2022-04-30": 89896,
-  "2022-05-01": 89915,
-  "2022-05-02": 89915,
-  "2022-05-03": 89935,
-  "2022-05-04": 89949,
-  "2022-05-05": 89961,
-  "2022-05-06": 89979,
-  "2022-05-07": 90007,
-  "2022-05-08": 90036,
-  "2022-05-09": 90037,
-  "2022-05-10": 90040,
-  "2022-05-11": 90060,
-  "2022-05-12": 90076,
-  "2022-05-13": 90093,
-  "2022-05-14": 90106,
-  "2022-05-15": 90126,
-  "2022-05-16": 90139,
-  "2022-05-17": 90149,
-  "2022-05-18": 90159,
-  "2022-05-19": 90162,
-  "2022-05-20": 90185,
-  "2022-05-21": 90223,
-  "2022-05-22": 90223,
-  "2022-05-23": 90245,
-  "2022-05-24": 90259,
-  "2022-05-25": 90267,
-  "2022-05-26": 90284,
-  "2022-05-27": 90291,
-  "2022-05-28": 90295,
-  "2022-05-29": 90308,
-  "2022-05-30": 90328,
-  "2022-05-31": 90345,
-  "2022-06-01": 90368,
-  "2022-06-02": 90372,
-  "2022-06-03": 90377,
-  "2022-06-04": 90395,
-  "2022-06-05": 90422,
-  "2022-06-06": 90441,
-  "2022-06-07": 90453,
-  "2022-06-08": 90465,
-  "2022-06-09": 90473,
-  "2022-06-10": 90488,
-  "2022-06-11": 90511,
-  "2022-06-12": 90535,
-  "2022-06-13": 90565,
-  "2022-06-14": 90580,
-  "2022-06-15": 90596,
-  "2022-06-16": 90610,
-  "2022-06-17": 90618,
-  "2022-06-18": 90639,
-  "2022-06-19": 90661,
-  "2022-06-20": 90661,
-  "2022-06-21": 90674,
-  "2022-06-22": 90705,
-  "2022-06-23": 90705,
-  "2022-06-24": 90721,
-  "2022-06-25": 90741,
-  "2022-06-26": 90754,
-  "2022-06-27": 90775,
-  "2022-06-28": 90781,
-  "2022-06-29": 90796,
-  "2022-06-30": 90807,
-  "2022-07-01": 90832,
-  "2022-07-02": 90849,
-  "2022-07-03": 90861,
-  "2022-07-04": 90872,
-  "2022-07-05": 90872,
-  "2022-07-06": 90872,
-  "2022-07-07": 90920,
-  "2022-07-08": 90934,
-  "2022-07-09": 90947,
-  "2022-07-10": 90968,
-  "2022-07-11": 90978,
-  "2022-07-12": 90990,
-  "2022-07-13": 91000,
-  "2022-07-14": 91011,
-  "2022-07-15": 91034,
-  "2022-07-16": 91052,
-  "2022-07-17": 91096,
-  "2022-07-18": 91123,
-  "2022-07-19": 91141,
-  "2022-07-20": 91152,
-  "2022-07-21": 91163,
-  "2022-07-22": 91181,
-  "2022-07-23": 91204,
-  "2022-07-24": 91226,
-  "2022-07-25": 91246,
-  "2022-07-26": 91269,
-  "2022-07-27": 91292,
-  "2022-07-28": 91305,
-  "2022-07-29": 91327,
-  "2022-07-30": 91365,
-  "2022-07-31": 91365,
-  "2022-08-01": 91391,
-  "2022-08-02": 91423,
-  "2022-08-03": 91423,
-  "2022-08-04": 91440,
-  "2022-08-05": 91462,
-  "2022-08-06": 91477,
-  "2022-08-07": 91496,
-  "2022-08-08": 91518,
-  "2022-08-09": 91534,
-  "2022-08-10": 91552,
-  "2022-08-11": 91557,
-  "2022-08-12": 91575,
-  "2022-08-13": 91596,
-  "2022-08-14": 91613,
-  "2022-08-15": 91635,
-  "2022-08-16": 91655,
-  "2022-08-17": 91666,
-  "2022-08-18": 91688,
-  "2022-08-19": 91703,
-  "2022-08-21": 91735,
-  "2022-08-22": 91748,
-  "2022-08-23": 91763,
-  "2022-08-24": 91778,
-  "2022-08-25": 91793,
-  "2022-08-26": 91807,
-  "2022-08-27": 91814,
-  "2022-08-28": 91837,
-  "2022-08-29": 91857,
-  "2022-08-30": 91877,
-  "2022-08-31": 91894,
-  "2022-09-01": 91900,
-  "2022-09-02": 91915,
-  "2022-09-03": 91919,
-  "2022-09-04": 91938,
-  "2022-09-05": 91961,
-  "2022-09-06": 91963,
-  "2022-09-07": 91966,
-  "2022-09-09": 91991,
-  "2022-09-10": 92001,
-  "2022-09-11": 92019,
-  "2022-09-12": 92034,
-  "2022-09-13": 92045,
-  "2022-09-15": 92074,
-  "2022-09-16": 92090,
-  "2022-09-17": 92119,
-  "2022-09-18": 92139,
-  "2022-09-19": 92148,
-  "2022-09-20": 92156,
-  "2022-09-21": 92167,
-  "2022-09-22": 92175,
-  "2022-09-23": 92190,
-  "2022-09-24": 92190,
-  "2022-09-25": 92223,
-  "2022-09-26": 92245,
-  "2022-09-27": 92252,
-  "2022-09-28": 92261,
-  "2022-09-29": 92267,
-  "2022-09-30": 92283,
-  "2022-10-01": 92294,
-  "2022-10-02": 92309,
-  "2022-10-03": 92324,
-  "2022-10-04": 92338,
-  "2022-10-05": 92360,
-  "2022-10-06": 92373,
-  "2022-10-07": 92393,
-  "2022-10-08": 92412,
-  "2022-10-09": 92461,
-  "2022-10-10": 92469,
-  "2022-10-11": 92478,
-  "2022-10-12": 92493,
-  "2022-10-13": 92506,
-  "2022-10-14": 92524,
-  "2022-10-15": 92537,
-  "2022-10-16": 92559,
-  "2022-10-17": 92575,
-  "2022-10-18": 92577,
-  "2022-10-19": 92589,
-  "2022-10-20": 92598,
-  "2022-10-21": 92606,
-  "2022-10-22": 92631,
-  "2022-10-23": 92661,
-  "2022-10-24": 92673,
-  "2022-10-25": 92684,
-  "2022-10-26": 92693,
-  "2022-10-27": 92712,
-  "2022-10-28": 92740,
-  "2022-10-29": 92755,
-  "2022-10-30": 92771,
-  "2022-10-31": 92788,
-  "2022-11-01": 92802,
-  "2022-11-02": 92817,
-  "2022-11-03": 92831,
-  "2022-11-04": 92849,
-  "2022-11-05": 92858,
-  "2022-11-06": 92874,
-  "2022-11-07": 92893,
-  "2022-11-08": 92902,
-  "2022-11-09": 92916,
-  "2022-11-10": 92922,
-  "2022-11-11": 92946,
-  "2022-11-12": 92971,
-  "2022-11-13": 92985,
-  "2022-11-14": 92994,
-  "2022-11-15": 93012,
-  "2022-11-16": 93023,
-  "2022-11-17": 93033,
-  "2022-11-18": 93040,
-  "2022-11-19": 93043,
-  "2022-11-20": 93063,
-  "2022-11-21": 93088,
-  "2022-11-22": 93119,
-  "2022-11-23": 93140,
-  "2022-11-24": 93195,
-  "2022-11-25": 93199,
-  "2022-11-26": 93209,
-  "2022-11-27": 93220,
-  "2022-11-28": 93240,
-  "2022-11-29": 93247,
-  "2022-11-30": 93257,
-  "2022-12-01": 93274,
-  "2022-12-02": 93278,
-  "2022-12-03": 93291,
-  "2022-12-04": 93296,
-  "2022-12-05": 93317,
-  "2022-12-06": 93326,
-  "2022-12-07": 93336,
-  "2022-12-08": 93354,
-  "2022-12-09": 93371,
-  "2022-12-10": 93383,
-  "2022-12-11": 93400,
-  "2022-12-12": 93422,
-  "2022-12-13": 93432,
-  "2022-12-14": 93442,
-  "2022-12-15": 93448,
-  "2022-12-16": 93455,
-  "2022-12-17": 93474,
-  "2022-12-18": 93487,
-  "2022-12-19": 93509,
-  "2022-12-20": 93545,
-  "2022-12-21": 93545,
-  "2022-12-22": 93558,
-  "2022-12-24": 93598,
-  "2022-12-25": 93622,
-  "2022-12-26": 93651,
-  "2022-12-27": 93671,
-  "2022-12-28": 93680,
-  "2022-12-29": 93689,
-  "2022-12-30": 93716,
-  "2022-12-31": 93740,
-  "2023-01-01": 93770,
-  "2023-01-02": 93810,
-  "2023-01-03": 93832,
-  "2023-01-04": 93841,
-  "2023-01-05": 93849,
-  "2023-01-06": 93881,
-  "2023-01-07": 93914,
-  "2023-01-08": 93923,
-  "2023-01-09": 93937,
-  "2023-01-10": 93957,
-  "2023-01-11": 93972,
-  "2023-01-12": 93991,
-  "2023-01-13": 94009,
-  "2023-01-14": 94018,
-  "2023-01-15": 94037,
-  "2023-01-16": 94067,
-  "2023-01-17": 94090,
-  "2023-01-18": 94112,
-  "2023-01-19": 94127,
-  "2023-01-20": 94145,
-  "2023-01-21": 94155,
-  "2023-01-22": 94180,
-  "2023-01-23": 94198,
-  "2023-01-24": 94215,
-  "2023-01-25": 94249,
-  "2023-01-26": 94271,
-  "2023-01-27": 94296,
-  "2023-01-28": 94317,
-  "2023-01-29": 94352,
-  "2023-01-30": 94371,
-  "2023-01-31": 94371,
-  "2023-02-01": 94394,
-  "2023-02-02": 94412,
-  "2023-02-03": 94429,
-  "2023-02-04": 94459,
-  "2023-02-05": 94486,
-  "2023-02-06": 94506,
-  "2023-02-07": 94526,
-  "2023-02-08": 94581,
-  "2023-02-09": 94581,
-  "2023-02-10": 94615,
-  "2023-02-11": 94658,
-  "2023-02-12": 94700,
-  "2023-02-13": 94722,
-  "2023-02-14": 94722,
-  "2023-02-15": 94748,
-  "2023-02-16": 94771,
-  "2023-02-17": 94801,
-  "2023-02-18": 94849,
-  "2023-02-19": 94856,
-  "2023-02-20": 94877,
-  "2023-02-21": 94897,
-  "2023-02-22": 94922,
-  "2023-02-23": 94948,
-  "2023-02-24": 94960,
-  "2023-02-25": 94983,
-  "2023-02-26": 94989,
-  "2023-02-27": 95025,
-  "2023-02-28": 95025,
-  "2023-03-01": 95034,
-  "2023-03-02": 95050,
-  "2023-03-03": 95061,
-  "2023-03-04": 95092,
-  "2023-03-05": 95142,
-  "2023-03-06": 95142,
-  "2023-03-07": 95162,
-  "2023-03-08": 95171,
-  "2023-03-09": 95190,
-  "2023-03-10": 95218,
-  "2023-03-11": 95233,
-  "2023-03-12": 95257,
-  "2023-03-13": 95271,
-  "2023-03-14": 95291,
-  "2023-03-15": 95313,
-  "2023-03-16": 95313,
-  "2023-03-17": 95313,
-  "2023-03-18": 95395,
-  "2023-03-19": 95395,
-  "2023-03-20": 95441,
-  "2023-03-21": 95455,
-  "2023-03-22": 95475,
-  "2023-03-23": 95498,
-  "2023-03-24": 95498,
-  "2023-03-25": 95536,
-  "2023-03-26": 95564,
-  "2023-03-27": 95572,
-  "2023-03-28": 95594,
-  "2023-03-29": 95614,
-  "2023-03-30": 95656,
-  "2023-03-31": 95656,
-  "2023-04-01": 95675,
-  "2023-04-02": 95698,
-  "2023-04-03": 95726,
-  "2023-04-04": 95743,
-  "2023-04-05": 95765,
-  "2023-04-06": 95786,
-  "2023-04-07": 95820,
-  "2023-04-09": 95887,
-  "2023-04-10": 95910,
-  "2023-04-11": 95943,
-  "2023-04-12": 95943,
-  "2023-04-13": 95953,
-  "2023-04-14": 95980,
-  "2023-04-15": 96019,
-  "2023-04-16": 96057,
-  "2023-04-17": 96067,
-  "2023-04-18": 96097,
-  "2023-04-19": 96123,
-  "2023-04-20": 96139,
-  "2023-04-21": 96151,
-  "2023-04-22": 96173,
-  "2023-04-23": 96190,
-  "2023-04-24": 96217,
-  "2023-04-25": 96232,
-  "2023-04-26": 96251,
-  "2023-04-27": 96281,
-  "2023-04-28": 96308,
-  "2023-04-29": 96345,
-  "2023-04-30": 96381,
-  "2023-05-01": 96408,
-  "2023-05-02": 96426,
-  "2023-05-03": 96436,
-  "2023-05-04": 96453,
-  "2023-05-05": 96477,
-  "2023-05-06": 96487,
-  "2023-05-07": 96502,
-  "2023-05-08": 96522,
-  "2023-05-09": 96536,
-  "2023-05-10": 96555,
-  "2023-05-11": 96575,
-  "2023-05-12": 96590,
-  "2023-05-13": 96603,
-  "2023-05-14": 96631,
-  "2023-05-15": 96642,
-  "2023-05-16": 96654,
-  "2023-05-17": 96668,
-  "2023-05-18": 96689,
-  "2023-05-19": 96711,
-  "2023-05-20": 96744,
-  "2023-05-21": 96744,
-  "2023-05-22": 96744,
-  "2023-05-23": 96780,
-  "2023-05-24": 96814,
-  "2023-05-25": 96822,
-  "2023-05-26": 96834,
-  "2023-05-27": 96848,
-  "2023-05-28": 96889,
-  "2023-05-29": 96889,
-  "2023-05-30": 96939,
-  "2023-05-31": 96950,
-  "2023-06-01": 96968,
-  "2023-06-02": 96976,
-  "2023-06-03": 97000,
-  "2023-06-04": 97029,
-  "2023-06-05": 97059,
-  "2023-06-06": 97073,
-  "2023-06-07": 97089,
-  "2023-06-08": 97115,
-  "2023-06-09": 97129,
-  "2023-06-10": 97154,
-  "2023-06-11": 97184,
-  "2023-06-12": 97215,
-  "2023-06-13": 97225,
-  "2023-06-14": 97225,
-  "2023-06-15": 97258,
-  "2023-06-16": 97279,
-  "2023-06-17": 97297,
-  "2023-06-18": 97319,
-  "2023-06-19": 97338,
-  "2023-06-20": 97350,
-  "2023-06-21": 97375,
-  "2023-06-22": 97385,
-  "2023-06-23": 97394,
-  "2023-06-24": 97413,
-  "2023-06-25": 97443,
-  "2023-06-26": 97477,
-  "2023-06-27": 97495,
-  "2023-06-28": 97519,
-  "2023-06-29": 97527,
-  "2023-06-30": 97546,
-  "2023-07-01": 97591,
-  "2023-07-02": 97591,
-  "2023-07-03": 97619,
-  "2023-07-04": 97643,
-  "2023-07-05": 97658,
-  "2023-07-06": 97695,
-  "2023-07-07": 97695,
-  "2023-07-08": 97724,
-  "2023-07-09": 97759,
-  "2023-07-10": 97778,
-  "2023-07-11": 97793,
-  "2023-07-12": 97803,
-  "2023-07-13": 97815,
-  "2023-07-14": 97842,
-  "2023-07-15": 97859,
-  "2023-07-16": 97896,
-  "2023-07-17": 97936,
-  "2023-07-18": 97963,
-  "2023-07-19": 97983,
-  "2023-07-20": 97998,
-  "2023-07-21": 98008,
-  "2023-07-22": 98024,
-  "2023-07-23": 98048,
-  "2023-07-24": 98067,
-  "2023-07-25": 98070,
-  "2023-07-26": 98092,
-  "2023-07-27": 98110,
-  "2023-07-28": 98135,
-  "2023-07-29": 98163,
-  "2023-07-30": 98183,
-  "2023-07-31": 98204,
-  "2023-08-01": 98225,
-  "2023-08-02": 98252,
-  "2023-08-03": 98306,
-  "2023-08-04": 98346,
-  "2023-08-05": 98373,
-  "2023-08-06": 98445,
-  "2023-08-07": 98445,
-  "2023-08-08": 98468,
-  "2023-08-09": 98486,
-  "2023-08-10": 98512,
-  "2023-08-11": 98522,
-  "2023-08-12": 98522,
-  "2023-08-13": 98522,
-  "2023-08-14": 98620,
-  "2023-08-15": 98620,
-  "2023-08-16": 98620,
-  "2023-08-17": 98620,
-  "2023-08-18": 98620,
-  "2023-08-19": 98620,
-  "2023-08-20": 98754,
-  "2023-08-21": 98754,
-  "2023-08-22": 98801,
-  "2023-08-23": 98801,
-  "2023-08-24": 98801,
-  "2023-08-25": 98801,
-  "2023-08-26": 98895,
-  "2023-08-27": 98895,
-  "2023-08-28": 98962,
-  "2023-08-29": 98962,
-  "2023-08-30": 98962,
-  "2023-08-31": 99023,
-  "2023-09-01": 99048,
-  "2023-09-02": 99048,
-  "2023-09-03": 99110,
-  "2023-09-04": 99110,
-  "2023-09-05": 99110,
-  "2023-09-06": 99179,
-  "2023-09-07": 99179,
-  "2023-09-08": 99179,
-  "2023-09-09": 99179,
-  "2023-09-10": 99260,
-  "2023-09-11": 99260,
-  "2023-09-12": 99260,
-  "2023-09-13": 99327,
-  "2023-09-14": 99327,
-  "2023-09-15": 99327,
-  "2023-09-16": 99419,
-  "2023-09-17": 99419,
-  "2023-09-18": 99419,
-  "2023-09-19": 99498,
-  "2023-09-20": 99498,
-  "2023-09-21": 99498,
-  "2023-09-22": 99563,
-  "2023-09-23": 99563,
-  "2023-09-24": 99563,
-  "2023-09-25": 99563,
-  "2023-09-26": 99679,
-  "2023-09-27": 99679,
-  "2023-09-28": 99679,
-  "2023-09-29": 99679,
-  "2023-09-30": 99679,
-  "2023-10-01": 99679,
-  "2023-10-02": 99775,
-  "2023-10-03": 99775,
-  "2023-10-04": 99775,
-  "2023-10-05": 99838,
-  "2023-10-06": 99838,
-  "2023-10-07": 99838,
-  "2023-10-08": 99838,
-  "2023-10-09": 99838,
-  "2023-10-10": 99838,
-  "2023-10-11": 99883,
-  "2023-10-12": 99883,
-  "2023-10-13": 99883,
-  "2023-10-14": 99883,
-  "2023-10-15": 99883,
-  "2023-10-16": 99883,
-  "2023-10-17": 99883,
-  "2023-10-18": 99883,
-  "2023-10-19": 99883,
-  "2023-10-20": 99883,
-  "2023-10-21": 99883,
-  "2023-10-22": 99883,
-  "2023-10-23": 99883,
-  "2023-10-24": 99883,
-  "2023-10-25": 99883,
-  "2023-10-26": 99883,
-  "2023-10-27": 99883,
-  "2023-10-28": 99883,
-  "2023-10-29": 99883,
-  "2023-10-30": 99883,
-  "2023-10-31": 99883,
-  "2023-11-01": 99883,
-  "2023-11-02": 99883,
-  "2023-11-03": 99883,
-  "2023-11-04": 99883,
-  "2023-11-05": 99883,
-  "2023-11-06": 99883,
-  "2023-11-07": 99883,
-  "2023-11-08": 99883,
-  "2023-11-09": 99883,
-  "2023-11-10": 99883,
-  "2023-11-11": 100311,
-  "2023-11-12": 100311,
-  "2023-11-13": 100311,
-  "2023-11-14": 100311,
-  "2023-11-15": 100311,
-  "2023-11-16": 100311,
-  "2023-11-17": 100311,
-  "2023-11-18": 100311,
-  "2023-11-19": 100311,
-  "2023-11-20": 100311,
-  "2023-11-21": 100311,
-  "2023-11-22": 100311,
-  "2023-11-23": 100311,
-  "2023-11-24": 100311,
-  "2023-11-25": 100311,
-  "2023-11-26": 100311,
-  "2023-11-27": 100311,
-  "2023-11-28": 100311,
-  "2023-11-29": 100311,
-  "2023-11-30": 100311,
-  "2023-12-01": 100311,
-  "2023-12-02": 100311,
-  "2023-12-03": 100311,
-  "2023-12-04": 100311,
-  "2023-12-05": 100311,
-  "2023-12-06": 100311,
-  "2023-12-07": 100311,
-  "2023-12-08": 100311,
-  "2023-12-09": 100311,
-  "2023-12-10": 100311,
-  "2023-12-11": 100311,
-  "2023-12-12": 100311,
-  "2023-12-13": 100311,
-  "2023-12-14": 100730,
-  "2023-12-15": 100738,
-  "2023-12-16": 100747,
-  "2023-12-17": 100771,
-  "2023-12-18": 100790,
-  "2023-12-19": 100797,
-  "2023-12-20": 100808,
-  "2023-12-21": 100825,
-  "2023-12-22": 100839,
-  "2023-12-23": 100856,
-  "2023-12-24": 100865,
-  "2023-12-25": 100887,
-  "2023-12-26": 100899,
-  "2023-12-27": 100899,
-  "2023-12-30": 100931,
-  "2023-12-31": 100953,
-  "2024-01-01": 100968,
-  "2024-01-02": 100986,
-  "2024-01-03": 101002
+  "2024-01-17": 100749,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
+  "name": "This Is Celia Cruz",
+  "tracks": [
+    {
+      "album": {
+        "name": "Quimbo Quimbumbia",
+        "url": "https://open.spotify.com/album/6qOAKmAkf61KzST6YvInsM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 218920,
+      "name": "Aquarius / Let The Sun Shine In",
+      "url": "https://open.spotify.com/track/2w88WBqzi6y7lmAW6tcJLL"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Aunque Me Cueste La Vida",
+      "url": "https://open.spotify.com/track/2gkfXIFTGr48G6TWd6z13r"
+    },
+    {
+      "album": {
+        "name": "La Experiencia",
+        "url": "https://open.spotify.com/album/533w9sxX4KwwVD0d4ilIef"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 296720,
+      "name": "Ay Mi Cuba",
+      "url": "https://open.spotify.com/track/50yx0j0kA2yNBSbtCPdFwK"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Un Carnaval (Baile Total)",
+        "url": "https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187240,
+      "name": "Az\u00facar Negra",
+      "url": "https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw"
+    },
+    {
+      "album": {
+        "name": "Etc. Etc. Etc.",
+        "url": "https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 180207,
+      "name": "Az\u00facar, Az\u00facar",
+      "url": "https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo"
+    },
+    {
+      "album": {
+        "name": "Serie Cuba Libre: Celia Vive, Vol. 1 (Remastered 2012)",
+        "url": "https://open.spotify.com/album/4FLgubgexzl0cYHzKJviP3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Orquesta Gloria Matancera",
+          "url": "https://open.spotify.com/artist/033f6Mcs7lx7eGPGqLVAm8"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 146533,
+      "name": "Bajo la Luna - Remastered 2012",
+      "url": "https://open.spotify.com/track/0v7WSTmUCNqnCKIQm3d9Hk"
+    },
+    {
+      "album": {
+        "name": "Bambol\u00e9o",
+        "url": "https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327466,
+      "name": "Bambol\u00e9o",
+      "url": "https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg"
+    },
+    {
+      "album": {
+        "name": "Son con Guaguanc\u00f3",
+        "url": "https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Bemba Color\u00e1",
+      "url": "https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh"
+    },
+    {
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 156533,
+      "name": "Bravo",
+      "url": "https://open.spotify.com/track/4PWZHrzR0oSRULq6zcPjXF"
+    },
+    {
+      "album": {
+        "name": "Canta Celia Cruz",
+        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 160866,
+      "name": "Burundanga",
+      "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+    },
+    {
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331466,
+      "name": "Canto A La Habana",
+      "url": "https://open.spotify.com/track/04ntstVQkinXmizGA5RWDR"
+    },
+    {
+      "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Cao Cao Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
+    },
+    {
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 183826,
+      "name": "Cao, Cao, Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/6QX6sNhLiptL1o5q55OXzW"
+    },
+    {
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161386,
+      "name": "Caramelos",
+      "url": "https://open.spotify.com/track/76kSyrC39OifBZweY6JdP8"
+    },
+    {
+      "album": {
+        "name": "2En1",
+        "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 358746,
+      "name": "Celia Y Tito",
+      "url": "https://open.spotify.com/track/3flZnMUMEKYjwvSXalOegN"
+    },
+    {
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-06",
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/21pnPg1UFfvVpLInYio1sR"
+    },
+    {
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "Celia's Oye Como Va (Oye Como Va)",
+      "url": "https://open.spotify.com/track/7fhCXXF7V5jsU06bOgVBqJ"
+    },
+    {
+      "album": {
+        "name": "2En1",
+        "url": "https://open.spotify.com/album/0HM5htNd3yWjExQx9BzEnM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 299613,
+      "name": "Cruz De Navajas",
+      "url": "https://open.spotify.com/track/2XLdgYGYiGYUuNxhqwXvrx"
+    },
+    {
+      "album": {
+        "name": "A Todos Mis Amigos",
+        "url": "https://open.spotify.com/album/47SmOmDoPlaUD9BMoflw2A"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Cuando Estoy Contigo",
+      "url": "https://open.spotify.com/track/33AAoOl6DIWwO2ll2bxpBq"
+    },
+    {
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179086,
+      "name": "Cuando Sal\u00ed De Cuba",
+      "url": "https://open.spotify.com/track/0lJ5GhkXTeVU4RVS81wgn4"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 192173,
+      "name": "Cuando Tu Me Quieras",
+      "url": "https://open.spotify.com/track/1moU3Ijx975TBR7aUP22rv"
+    },
+    {
+      "album": {
+        "name": "Originales - 20 Exitos",
+        "url": "https://open.spotify.com/album/2ECJDdT0Tg3PDWXedljsTj"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 332533,
+      "name": "Cuba Que Lindos Son Tus Paisajes (with Celia Cruz)",
+      "url": "https://open.spotify.com/track/3JMV9j4FT9hElS9yjcuwKB"
+    },
+    {
+      "album": {
+        "name": "La Reina Y Sus Amigos",
+        "url": "https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH"
+      },
+      "artists": [
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 332933,
+      "name": "Cuba Que Lindos Son Tus Paisajes (with Celia Cruz)",
+      "url": "https://open.spotify.com/track/67OabBQdoaiDrwoAjtO8HJ"
+    },
+    {
+      "album": {
+        "name": "Celia y Willie",
+        "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 305786,
+      "name": "Cucurucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/1BUHjtsfyGTXBEQAZaRWqe"
+    },
+    {
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "C\u00facala",
+      "url": "https://open.spotify.com/track/4lDazSsfp0eKRWUh4BKCgI"
+    },
+    {
+      "album": {
+        "name": "Live (Live At The Roberto Clemente Coliseum / San Juan, Puerto Rico / July 11, 1975)",
+        "url": "https://open.spotify.com/album/6nLUc4xbYZwXH7IwTYexLX"
+      },
+      "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Ismael Rivera",
+          "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420414,
+      "name": "C\u00facala - Live",
+      "url": "https://open.spotify.com/track/0LQWDzZ89sg3EzJxXoo5tu"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 214920,
+      "name": "De La Habana Hasta Aqu\u00ed",
+      "url": "https://open.spotify.com/track/1EygH4hvydoIzeW3LzXSa0"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-23",
+      "duration_ms": 174014,
+      "name": "Desvelo de Amor",
+      "url": "https://open.spotify.com/track/5YDi9Bd66fc44Wiu6wRZB4"
+    },
+    {
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 174626,
+      "name": "Desvelo De Amor",
+      "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153400,
+      "name": "Dile Que Por M\u00ed No Tema",
+      "url": "https://open.spotify.com/track/2nti8TuVhtp3Gk53WUnnM4"
+    },
+    {
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/5jHYfrB7L5rjvqhQgeMnWh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Dos D\u00edas en la Vida",
+      "url": "https://open.spotify.com/track/6A2RSGXpBKOrG5uqJcCp6c"
+    },
+    {
+      "album": {
+        "name": "Celia y Willie",
+        "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251706,
+      "name": "Dos Jueyes",
+      "url": "https://open.spotify.com/track/79LLoATRBfeQ6XrY5sOurY"
+    },
+    {
+      "album": {
+        "name": "2En1",
+        "url": "https://open.spotify.com/album/3LTZ2KOyO71W1p5LepHuSM"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        },
+        {
+          "name": "Ismael Miranda",
+          "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Domingo Qui\u00f1ones",
+          "url": "https://open.spotify.com/artist/4JqvRbbOIF4EUmsVQMTgjs"
+        },
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        },
+        {
+          "name": "Millie P.",
+          "url": "https://open.spotify.com/artist/3FKe0JFVvOJchsQdhcJ6cY"
+        },
+        {
+          "name": "Santos Col\u00f3n",
+          "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
+        },
+        {
+          "name": "Jose Alberto",
+          "url": "https://open.spotify.com/artist/0Ij5XvrnnRFo7wCrUrwV5x"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358226,
+      "name": "El #100",
+      "url": "https://open.spotify.com/track/1KtmahhSHKA4iGAIrBi88P"
+    },
+    {
+      "album": {
+        "name": "Ritmo en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ei3gt0jWaAbbDn6k8rYpA"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-28",
+      "duration_ms": 276840,
+      "name": "El Chisme",
+      "url": "https://open.spotify.com/track/3yH3PskdCzWgANziTqwUVc"
+    },
+    {
+      "album": {
+        "name": "La Candela",
+        "url": "https://open.spotify.com/album/1ZKQhL5PnDYRRQUAKUMOIq"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 243859,
+      "name": "El Guab\u00e1",
+      "url": "https://open.spotify.com/track/5N2qXP1223XwTkvBxmBKyz"
+    },
+    {
+      "album": {
+        "name": "Canciones Premiadas De Celia Cruz",
+        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-29",
+      "duration_ms": 198160,
+      "name": "El Pai Y La Mai",
+      "url": "https://open.spotify.com/track/3IbgjuqRI4ZfjvTGVwUsDG"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-12",
+      "duration_ms": 147840,
+      "name": "El Que Siembra Su Maiz",
+      "url": "https://open.spotify.com/track/33CedRyU7qqVjkQyNOT1qp"
+    },
+    {
+      "album": {
+        "name": "Lo mejor de Celia Cruz (Remastered)",
+        "url": "https://open.spotify.com/album/2iO5qX7NZDBhwTaEK9k6rV"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-24",
+      "duration_ms": 144990,
+      "name": "El que siembra su ma\u00edz - Remastered",
+      "url": "https://open.spotify.com/track/55oAyBjmeY3QuiwXlBCSaf"
+    },
+    {
+      "album": {
+        "name": "La Experiencia",
+        "url": "https://open.spotify.com/album/533w9sxX4KwwVD0d4ilIef"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 293786,
+      "name": "El Tumbao Y Celia",
+      "url": "https://open.spotify.com/track/1ATferEk4ehSWQ4uoA3U6S"
+    },
+    {
+      "album": {
+        "name": "El Ultimo Adi\u00f3s",
+        "url": "https://open.spotify.com/album/1Tz1WfJZkvWPhyFHWAzZLo"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        },
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Olga Ta\u00f1\u00f3n",
+          "url": "https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE"
+        },
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        },
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        },
+        {
+          "name": "Jorge Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/5O2KyWcHYBmjmobgNLumcb"
+        },
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        },
+        {
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Jaci Velasquez",
+          "url": "https://open.spotify.com/artist/7MbmKsnvXjl4GA7Dr27kko"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        },
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Emmanuele",
+          "url": "https://open.spotify.com/artist/7HBONupvCpvcMp1ZxK84Ii"
+        },
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        },
+        {
+          "name": "Alberto \"Beto\" Zapata",
+          "url": "https://open.spotify.com/artist/20VNXin5fi626FsmioiExE"
+        },
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        },
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Carlos Ponce",
+          "url": "https://open.spotify.com/artist/4ff5IojFqry4841QjwULTV"
+        },
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Gian Marco",
+          "url": "https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Yuri",
+          "url": "https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx"
+        },
+        {
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+        },
+        {
+          "name": "Wilkins",
+          "url": "https://open.spotify.com/artist/5Awnuu794580X3uHQGx78O"
+        },
+        {
+          "name": "Giselle",
+          "url": "https://open.spotify.com/artist/5gr23KYBk2FyIBx5xpHVjE"
+        },
+        {
+          "name": "Melina Leon",
+          "url": "https://open.spotify.com/artist/5oj50e6WeS3yFv92YDOfXA"
+        },
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        },
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
+      "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "album": {
+        "name": "Serie Inmortales - Lo Mejor De Sus Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/221BOpmT0GayBh73DPISuF"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 175733,
+      "name": "El Yerberito Moderno - Alternate Mix",
+      "url": "https://open.spotify.com/track/6Ibgle2SOi4r4pP9qD0gWr"
+    },
+    {
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "En El Baj\u00edo",
+      "url": "https://open.spotify.com/track/6aUudw1WsrAuHc9H4zyHXd"
+    },
+    {
+      "album": {
+        "name": "Serenata Guajira",
+        "url": "https://open.spotify.com/album/4WKWwc85zSpD2Nd63yN2aM"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152379,
+      "name": "Esperar\u00e9",
+      "url": "https://open.spotify.com/track/42o6HDxZXTqUuvGPwOSvTf"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
+    },
+    {
+      "album": {
+        "name": "Hommy: A Latin Opera",
+        "url": "https://open.spotify.com/album/1WAQ55TokPK6a1OrTnSEW8"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 290133,
+      "name": "Gracia Divina - Live",
+      "url": "https://open.spotify.com/track/2wBcpqSNc6isZJLuqKEi9S"
+    },
+    {
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2xBaORsHP0AqtXhjTaXFai"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Orquesta Harlow",
+          "url": "https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W"
+        },
+        {
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 290133,
+      "name": "Gracia Divina - Live",
+      "url": "https://open.spotify.com/track/4GnGZNWpSLN4LfV4eA29bl"
+    },
+    {
+      "album": {
+        "name": "Bravo",
+        "url": "https://open.spotify.com/album/46y4ilGc0rpC9iSSvPaB2E"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Guantanamera",
+      "url": "https://open.spotify.com/track/6bNZH4O72jD4L5hga6DwHj"
+    },
+    {
+      "album": {
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Jeni Fujita",
+          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270493,
+      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Los Santos, Vol. 2",
+        "url": "https://open.spotify.com/album/03AnRWEaJMP6DD6KdycSYD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 188693,
+      "name": "Guede Zaina",
+      "url": "https://open.spotify.com/track/6F70kDEMUaUZilYydI6Opr"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos De Celia Cruz",
+        "url": "https://open.spotify.com/album/3fZuVtDVcGHISoULNx4Dw3"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 189600,
+      "name": "Guede Zaina",
+      "url": "https://open.spotify.com/track/6HxrX0t2TnBbrAYTaV3zj0"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 161500,
+      "name": "Juancito Trucupey",
+      "url": "https://open.spotify.com/track/0v1oaOqkXpubdykx58BQwY"
+    },
+    {
+      "album": {
+        "name": "La Cuba M\u00eda (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3jz81AgUe23dVZ6fp17bTb"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "MILIKI",
+          "url": "https://open.spotify.com/artist/4gSXpktYStEXSOGhK1FICG"
+        },
+        {
+          "name": "Willy Chirino",
+          "url": "https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 284706,
+      "name": "La Cuba M\u00eda (En Vivo)",
+      "url": "https://open.spotify.com/track/0J9EZZN0znLQQHdN0psE1g"
+    },
+    {
+      "album": {
+        "name": "Celia, Johnny, And Pete",
+        "url": "https://open.spotify.com/album/03NIcOwe2QNrqWvyrM80CT"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 351480,
+      "name": "La Dicha M\u00eda",
+      "url": "https://open.spotify.com/track/3MtmJFVMDcJQye0ke1qwlx"
+    },
+    {
+      "album": {
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "La Guarachera",
+      "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
+    },
+    {
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 157466,
+      "name": "La Isla Del Encanto",
+      "url": "https://open.spotify.com/track/6BauCT7BSMinCs677hGomN"
+    },
+    {
+      "album": {
+        "name": "La Reina Y Sus Amigos",
+        "url": "https://open.spotify.com/album/0FLIEL0LI4A6lIYqRekRWH"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 252533,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/78UZRdq9Wl3fkFoT12zA4g"
+    },
+    {
+      "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
+    },
+    {
+      "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/0iwS6wwKRVN1h1tf0BgQxC"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-12-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 253346,
+      "name": "La Negra Tiene Tumbao",
+      "url": "https://open.spotify.com/track/7nflSbrgBCitUnW4psdR7a"
+    },
+    {
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308933,
+      "name": "La Sopa En Botella",
+      "url": "https://open.spotify.com/track/5NXGZe3SV9z8G4JlDt6Thy"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "album": {
+        "name": "La Vida Es Un Carnaval (4F Remix)",
+        "url": "https://open.spotify.com/album/2z7FGkHJ4EfvJphBYogG09"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "4F Music",
+          "url": "https://open.spotify.com/artist/0SmrKFDmVGR8JXzU926kua"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 221853,
+      "name": "La Vida Es Un Carnaval - 4F Remix",
+      "url": "https://open.spotify.com/track/3lgmzInaFArEPtgHjyuZM7"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 326560,
+      "name": "La Voz De La Experiencia",
+      "url": "https://open.spotify.com/track/6vTT1lYL5ZQxw2NWzrGa9Q"
+    },
+    {
+      "album": {
+        "name": "Celia y Willie",
+        "url": "https://open.spotify.com/album/3dIsd8OhzKeonnCSV6VdWS"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-22",
+      "duration_ms": 355506,
+      "name": "Latinos En Estados Unidos",
+      "url": "https://open.spotify.com/track/6m4RgKTzd05DMgRgTQrruG"
+    },
+    {
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 195000,
+      "name": "Lo Tuyo Es Mental",
+      "url": "https://open.spotify.com/track/3iKC12zY7EJoXuJXDH7E71"
+    },
+    {
+      "album": {
+        "name": "Dios Disfrute a la Reina",
+        "url": "https://open.spotify.com/album/37WqhadV6rhhlq5nGk0GTW"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 280720,
+      "name": "L\u00e1grimas Negras",
+      "url": "https://open.spotify.com/track/7r8oKyCzJFWEZj2QsVxqkr"
+    },
+    {
+      "album": {
+        "name": "Cuba",
+        "url": "https://open.spotify.com/album/7C4Ju0QXdGSv9zquXxCktP"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-30",
+      "duration_ms": 170805,
+      "name": "Mani Tostao",
+      "url": "https://open.spotify.com/track/66GvCOCii9of2Lz8m06Eri"
+    },
+    {
+      "album": {
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 243773,
+      "name": "Me Acuerdo De Ti",
+      "url": "https://open.spotify.com/track/0SjUCvMlksiRFZPdQyrsrM"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164000,
+      "name": "Me Voy A Pinar Del Rio",
+      "url": "https://open.spotify.com/track/1MEPy1v2mx52JPLsOUnpEH"
+    },
+    {
+      "album": {
+        "name": "Mi Diario Musical",
+        "url": "https://open.spotify.com/album/57eQICbekhHUc8WXBEZpkD"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Me Voy A Pinar Del R\u00edo",
+      "url": "https://open.spotify.com/track/14uucuWFa78hDSkfqq0uoE"
+    },
+    {
+      "album": {
+        "name": "Canciones Premiadas De Celia Cruz",
+        "url": "https://open.spotify.com/album/2RwLH5eQUSysH3JYCGC0HB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "Melao De Ca\u00f1a",
+      "url": "https://open.spotify.com/track/3plteX0fS86RHbRTwEIHuo"
+    },
+    {
+      "album": {
+        "name": "La Sonora Matancera Con Celia Cruz",
+        "url": "https://open.spotify.com/album/1kgApd48rjWLXA5tumtLwU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150066,
+      "name": "Mi Amor, Buenas Noches",
+      "url": "https://open.spotify.com/track/0yec5myG1lCB97ks3dzJW4"
+    },
+    {
+      "album": {
+        "name": "La Tierna, Conmovedora, Bamboleadora",
+        "url": "https://open.spotify.com/album/3505DvX9TkUjchDLCeSv5I"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 157906,
+      "name": "Mi Bomba Son\u00f3",
+      "url": "https://open.spotify.com/track/7aNjMJ05FvUXACPWZ7yJmv"
+    },
+    {
+      "album": {
+        "name": "La Negra Tiene Tumbao",
+        "url": "https://open.spotify.com/album/1206SPHFIi9EoXIEiqtHr9"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-23",
+      "duration_ms": 277320,
+      "name": "Mi Mercanc\u00eda",
+      "url": "https://open.spotify.com/track/64hxFe0LCEmfLy5XSRk4xo"
+    },
+    {
+      "album": {
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/4fTZTSPkgeyUxtQeyCnjfh"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-14",
+      "duration_ms": 230260,
+      "name": "Mi Vida Es Cantar",
+      "url": "https://open.spotify.com/track/1MYds6o9aN2Wxa4TDxcJPB"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Los Santos, Vol. 2",
+        "url": "https://open.spotify.com/album/03AnRWEaJMP6DD6KdycSYD"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 149693,
+      "name": "Mulense",
+      "url": "https://open.spotify.com/track/182pqAm5eW2IuVJejPMMhy"
+    },
+    {
+      "album": {
+        "name": "Canta Celia Cruz",
+        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-04-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 171826,
+      "name": "Mu\u00f1ecas Del Cha Cha Ch\u00e1",
+      "url": "https://open.spotify.com/track/4TrKWjMFuxDkSvpK8z9T7a"
+    },
+    {
+      "album": {
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 175051,
+      "name": "M\u00e9xico Lindo - Remastered",
+      "url": "https://open.spotify.com/track/4LK6iEId6I5543P9bD6Rwy"
+    },
+    {
+      "album": {
+        "name": "Tremendo Trio",
+        "url": "https://open.spotify.com/album/0JcJKvFjM0HiIaIbxuqTDq"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347893,
+      "name": "Nadie Se Salva De La Rumba",
+      "url": "https://open.spotify.com/track/75ujCf7ZZCV65jPJCCZuZp"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "No Encuentro Palabras",
+      "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Beny Mor\u00e9",
+        "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "date_added": "2022-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 184040,
+      "name": "No Me Vayas A Enganar",
+      "url": "https://open.spotify.com/track/6HAq1QMxwqXo1C3WqDVJn5"
+    },
+    {
+      "album": {
+        "name": "Fania Records: The 60's, Vol. Three",
+        "url": "https://open.spotify.com/album/7Hb26qi6ORGMxTxh24WRsK"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272251,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/4C94C44OC2CI2acYitbGGE"
+    },
+    {
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 186106,
+      "name": "Pa La Paloma",
+      "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Beny Mor\u00e9",
+        "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 220453,
+      "name": "Pachito Ech\u00e9",
+      "url": "https://open.spotify.com/track/35KiYF3wTuoVhVYcFPWNWH"
+    },
+    {
+      "album": {
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 150898,
+      "name": "Palo Mayimbe - Remastered",
+      "url": "https://open.spotify.com/track/6TvOogX8aHCQ4Wvv3etohF"
+    },
+    {
+      "album": {
+        "name": "Ritmo en el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2Ei3gt0jWaAbbDn6k8rYpA"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 304226,
+      "name": "Para Decirte Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1A4B4JH61qpCTfiXmFg9Bb"
+    },
+    {
+      "album": {
+        "name": "\u00a1La Excitante Celia Cruz!",
+        "url": "https://open.spotify.com/album/4OjT7LQjLKDQHuAVjdvriw"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 152090,
+      "name": "Para Ti Mi Boogaloo",
+      "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
+    },
+    {
+      "album": {
+        "name": "Patria y Vida (Salsa)",
+        "url": "https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "El Funky",
+          "url": "https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm"
+        },
+        {
+          "name": "Maykel Osorbo",
+          "url": "https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245865,
+      "name": "Patria y Vida - Salsa",
+      "url": "https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Beny Mor\u00e9",
+        "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Hector Casanova",
+          "url": "https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4"
+        },
+        {
+          "name": "Adalberto Santiago",
+          "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
+        },
+        {
+          "name": "Pete \"El Conde\" Rodriguez",
+          "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
+        },
+        {
+          "name": "Justi Barreto",
+          "url": "https://open.spotify.com/artist/6qH1QonyK2HnZE4QRBtyP2"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 197026,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5keKepe0oMUyZcn6PVXBvV"
+    },
+    {
+      "album": {
+        "name": "Mucho Love",
+        "url": "https://open.spotify.com/album/5sO98xahJWzsyYiKjJCtCp"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/1muojGmIzJcqojXmdgDtnv"
+    },
+    {
+      "album": {
+        "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
+        "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 173226,
+      "name": "Plazos Traicioneros",
+      "url": "https://open.spotify.com/track/2JNdjO7PwLCCOI9iATKZRQ"
+    },
+    {
+      "album": {
+        "name": "Siempre Vivir\u00e9",
+        "url": "https://open.spotify.com/album/1AiGzUZRRNllVXmbCsawwj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347666,
+      "name": "Por Si Acaso No Regreso",
+      "url": "https://open.spotify.com/track/1n52ulXSj7E3GOjcpw1EKF"
+    },
+    {
+      "album": {
+        "name": "Irrepetible",
+        "url": "https://open.spotify.com/album/6qtA79Q8hCq9XJTZiR4iQS"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "Que Le Den Candela",
+      "url": "https://open.spotify.com/track/52IqB6OzcLMRDuW2mAUNq6"
+    },
+    {
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 265173,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy"
+    },
+    {
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291946,
+      "name": "Quimbara",
+      "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150506,
+      "name": "Quiz\u00e1s, Quiz\u00e1s, Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7FES7rrRiopj1YLqIUyyGO"
+    },
+    {
+      "album": {
+        "name": "Regalo Del Alma",
+        "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Rie y Llora",
+      "url": "https://open.spotify.com/track/63knvuoSPpfzIwdDuWRSoV"
+    },
+    {
+      "album": {
+        "name": "A Lady And Her Music: \u00a1Azucar!",
+        "url": "https://open.spotify.com/album/1F3qHr71rMRdqZbME3Esh3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 332080,
+      "name": "Ritmo, Tambor y Flores",
+      "url": "https://open.spotify.com/track/4Bxb0lDyBqAa9sPJbTEQEL"
+    },
+    {
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 148866,
+      "name": "Rock And Roll",
+      "url": "https://open.spotify.com/track/6lcU1mpbQHV3iRj4XJDr87"
+    },
+    {
+      "album": {
+        "name": "A Lady And Her Music: \u00a1Azucar!",
+        "url": "https://open.spotify.com/album/1F3qHr71rMRdqZbME3Esh3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-23",
+      "duration_ms": 194304,
+      "name": "Salsa De Tomate",
+      "url": "https://open.spotify.com/track/0jGWFStm4atPgcodDP1x7S"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Los Santos",
+        "url": "https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 197200,
+      "name": "Saludo A Elegua",
+      "url": "https://open.spotify.com/track/3DeL13PLmBIFORVV3riJHN"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 291240,
+      "name": "Saz\u00f3n",
+      "url": "https://open.spotify.com/track/5zUxfJLKT4bLFWR1ck6evc"
+    },
+    {
+      "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249120,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    {
+      "album": {
+        "name": "Nuevos \u00c9xitos",
+        "url": "https://open.spotify.com/album/4TGHtoMyBrDMrT16se1K40"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 162000,
+      "name": "Te Solt\u00e9 La Rienda",
+      "url": "https://open.spotify.com/track/54A0B0VsVCWnpUIllI4J7q"
+    },
+    {
+      "album": {
+        "name": "Fania Classics: Celia Cruz & Willie Col\u00f3n",
+        "url": "https://open.spotify.com/album/2Aa055iU5gYEcGNe7Mo0ht"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 184480,
+      "name": "Todos Somos Iguales",
+      "url": "https://open.spotify.com/track/702kV9fumQ7Bl09IwdrFdK"
+    },
+    {
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342173,
+      "name": "Toro Mata",
+      "url": "https://open.spotify.com/track/0lXxj5T6jeovmtd460qrFN"
+    },
+    {
+      "album": {
+        "name": "Tremendo Cache",
+        "url": "https://open.spotify.com/album/1Wbmg5TqfFELODTlgeihcN"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299133,
+      "name": "Tres D\u00edas De Carnaval",
+      "url": "https://open.spotify.com/track/7M9c79GkV5Kt8eBRtoW7sL"
+    },
+    {
+      "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+    },
+    {
+      "album": {
+        "name": "La Sonora Matencera Con Celia Cruz",
+        "url": "https://open.spotify.com/album/07v2808Ya6HFSQDckM1CWz"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188626,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/0aKEWdfm89EjTDKdqjhQgY"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De",
+        "url": "https://open.spotify.com/album/7e9ErfvmoUKC6iuYibs9tE"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 143613,
+      "name": "Tumbaloflesicodelicomicoso",
+      "url": "https://open.spotify.com/track/0pQvPwypX3hvpJoYbppTjg"
+    },
+    {
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163666,
+      "name": "Tuya, Y M\u00e1s Que Tuya",
+      "url": "https://open.spotify.com/track/3LOXS93O7RRoAUatm5DBps"
+    },
+    {
+      "album": {
+        "name": "The 'Brillante' Best",
+        "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Usted Abus\u00f3",
+      "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+    },
+    {
+      "album": {
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 157664,
+      "name": "Vamos A Guarachar",
+      "url": "https://open.spotify.com/track/3D5EMlx4EAvpBfAfwCDAYS"
+    },
+    {
+      "album": {
+        "name": "Anthology: Antolog\u00eda de la Salsa (Remastered)",
+        "url": "https://open.spotify.com/album/4rJIYIlWtTC4VkFhVbjMP1"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168475,
+      "name": "Ven Bernabe - Remastered",
+      "url": "https://open.spotify.com/track/5v5QvuADGTmk9D0rST4s0e"
+    },
+    {
+      "album": {
+        "name": "Ritmo de mi Cuba",
+        "url": "https://open.spotify.com/album/1fqUTN6e8QotuM9sUTYFNz"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 161671,
+      "name": "Ven Bernab\u00e9",
+      "url": "https://open.spotify.com/track/1KUH6BhuhSYBuml7vQVBPK"
+    },
+    {
+      "album": {
+        "name": "Celia & Johnny",
+        "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195360,
+      "name": "Vieja Luna",
+      "url": "https://open.spotify.com/track/2NafN7tmTGpqOJeEvQ9DZU"
+    },
+    {
+      "album": {
+        "name": "Calentura: Global Bassment",
+        "url": "https://open.spotify.com/album/6slKSPfGlzrhQkP1ShncUu"
+      },
+      "artists": [
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Happy Colors",
+          "url": "https://open.spotify.com/artist/4nGluPm2aDd2ngK9MkpLp1"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196440,
+      "name": "Virgencita - Happy Colors Remix",
+      "url": "https://open.spotify.com/track/6xCqIZp7aemBDBX2reivBk"
+    },
+    {
+      "album": {
+        "name": "Cuba's Queen Of Rhythm",
+        "url": "https://open.spotify.com/album/4FwaFU87BXwp3EQVr4cLIX"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 159266,
+      "name": "Y Mi Negro Esta Cansao",
+      "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"
+    },
+    {
+      "album": {
+        "name": "Homenaje A Los Santos",
+        "url": "https://open.spotify.com/album/3e0JIxetHstE71CcjUm5dl"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 160066,
+      "name": "Yemay\u00e1",
+      "url": "https://open.spotify.com/track/1cYxinzNHcMaiPo0wEseij"
+    },
+    {
+      "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Johnny Pacheco",
+          "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
+        },
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        },
+        {
+          "name": "Papo Lucca",
+          "url": "https://open.spotify.com/artist/1KbyKzIyGQig2K7sP5E7gv"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 274826,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/49ARQi1FGSN7ZT13VTAOYf"
+    },
+    {
+      "album": {
+        "name": "Az\u00facar! Caliente",
+        "url": "https://open.spotify.com/album/5VRSzmNx2jHSagmnwScyi3"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 176706,
+      "name": "Yerbero Moderno",
+      "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
+    },
+    {
+      "album": {
+        "name": "Regalo Del Alma",
+        "url": "https://open.spotify.com/album/7ipsYdh5KxIjrM3gH66T0Q"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271440,
+      "name": "Yo Vivir\u00e9 - I Will Survive",
+      "url": "https://open.spotify.com/track/2btnzgT8ARxKjcdOTdqj37"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rwPYs"
 }

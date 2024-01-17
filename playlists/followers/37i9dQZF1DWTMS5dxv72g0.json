@@ -1,732 +1,1087 @@
 {
-  "2021-12-28": 50068,
-  "2021-12-29": 50090,
-  "2021-12-30": 50112,
-  "2021-12-31": 50136,
-  "2022-01-01": 50168,
-  "2022-01-02": 50174,
-  "2022-01-03": 50184,
-  "2022-01-04": 50216,
-  "2022-01-05": 50239,
-  "2022-01-06": 50270,
-  "2022-01-07": 50298,
-  "2022-01-08": 50348,
-  "2022-01-09": 50351,
-  "2022-01-10": 50371,
-  "2022-01-11": 50371,
-  "2022-01-12": 50393,
-  "2022-01-13": 50393,
-  "2022-01-14": 50393,
-  "2022-01-15": 50393,
-  "2022-01-16": 50393,
-  "2022-01-17": 50393,
-  "2022-01-18": 50393,
-  "2022-01-19": 50393,
-  "2022-01-20": 50393,
-  "2022-01-21": 50393,
-  "2022-01-22": 50393,
-  "2022-01-23": 50393,
-  "2022-01-24": 50393,
-  "2022-01-25": 50393,
-  "2022-01-26": 50393,
-  "2022-01-27": 50393,
-  "2022-01-28": 50393,
-  "2022-01-29": 50393,
-  "2022-01-30": 50393,
-  "2022-01-31": 50393,
-  "2022-02-01": 50393,
-  "2022-02-02": 50393,
-  "2022-02-03": 50393,
-  "2022-02-04": 50393,
-  "2022-02-05": 50393,
-  "2022-02-06": 50393,
-  "2022-02-07": 50393,
-  "2022-02-08": 50393,
-  "2022-02-09": 50393,
-  "2022-02-10": 50393,
-  "2022-02-11": 50393,
-  "2022-02-12": 50393,
-  "2022-02-13": 50393,
-  "2022-02-14": 50393,
-  "2022-02-15": 50393,
-  "2022-02-16": 50393,
-  "2022-02-17": 50393,
-  "2022-02-18": 50393,
-  "2022-02-19": 50393,
-  "2022-02-20": 50393,
-  "2022-02-21": 50393,
-  "2022-02-22": 50393,
-  "2022-02-23": 50393,
-  "2022-02-24": 50393,
-  "2022-02-25": 50393,
-  "2022-02-26": 50393,
-  "2022-02-27": 50393,
-  "2022-02-28": 50393,
-  "2022-03-01": 50393,
-  "2022-03-02": 50393,
-  "2022-03-03": 50393,
-  "2022-03-04": 50393,
-  "2022-03-05": 50393,
-  "2022-03-06": 50393,
-  "2022-03-07": 50393,
-  "2022-03-08": 50393,
-  "2022-03-09": 50393,
-  "2022-03-10": 50393,
-  "2022-03-11": 50393,
-  "2022-03-12": 50393,
-  "2022-03-13": 50393,
-  "2022-03-14": 50393,
-  "2022-03-15": 50393,
-  "2022-03-16": 50393,
-  "2022-03-17": 50393,
-  "2022-03-18": 50393,
-  "2022-03-19": 50393,
-  "2022-03-20": 50393,
-  "2022-03-21": 50393,
-  "2022-03-22": 50393,
-  "2022-03-23": 50393,
-  "2022-03-24": 50393,
-  "2022-03-25": 50393,
-  "2022-03-26": 50393,
-  "2022-03-27": 50393,
-  "2022-03-28": 50393,
-  "2022-03-30": 50393,
-  "2022-03-31": 50393,
-  "2022-04-01": 50393,
-  "2022-04-02": 50393,
-  "2022-04-03": 50393,
-  "2022-04-04": 50393,
-  "2022-04-05": 50393,
-  "2022-04-06": 50393,
-  "2022-04-07": 50393,
-  "2022-04-08": 50393,
-  "2022-04-09": 50393,
-  "2022-04-10": 50393,
-  "2022-04-11": 50393,
-  "2022-04-12": 50393,
-  "2022-04-13": 50393,
-  "2022-04-14": 50393,
-  "2022-04-15": 50393,
-  "2022-04-16": 50393,
-  "2022-04-17": 50393,
-  "2022-04-18": 50393,
-  "2022-04-19": 50393,
-  "2022-04-20": 50393,
-  "2022-04-21": 50393,
-  "2022-04-22": 50393,
-  "2022-04-23": 50393,
-  "2022-04-24": 50393,
-  "2022-04-25": 50393,
-  "2022-04-26": 50393,
-  "2022-04-27": 50393,
-  "2022-04-28": 50393,
-  "2022-04-29": 50393,
-  "2022-04-30": 50393,
-  "2022-05-01": 50393,
-  "2022-05-02": 50393,
-  "2022-05-03": 50393,
-  "2022-05-04": 50393,
-  "2022-05-05": 50393,
-  "2022-05-06": 50393,
-  "2022-05-07": 50393,
-  "2022-05-08": 50393,
-  "2022-05-09": 50393,
-  "2022-05-10": 50393,
-  "2022-05-11": 50393,
-  "2022-05-12": 50393,
-  "2022-05-13": 50393,
-  "2022-05-14": 50393,
-  "2022-05-15": 50393,
-  "2022-05-16": 50393,
-  "2022-05-17": 50393,
-  "2022-05-18": 50393,
-  "2022-05-19": 50393,
-  "2022-05-20": 50393,
-  "2022-05-21": 50393,
-  "2022-05-22": 50393,
-  "2022-05-23": 50393,
-  "2022-05-24": 50393,
-  "2022-05-25": 50393,
-  "2022-05-26": 50393,
-  "2022-05-27": 50393,
-  "2022-05-28": 50393,
-  "2022-05-29": 50393,
-  "2022-05-30": 50393,
-  "2022-05-31": 50393,
-  "2022-06-01": 50393,
-  "2022-06-02": 50393,
-  "2022-06-03": 50393,
-  "2022-06-04": 50393,
-  "2022-06-05": 50393,
-  "2022-06-06": 50393,
-  "2022-06-07": 50393,
-  "2022-06-08": 50393,
-  "2022-06-09": 50393,
-  "2022-06-10": 50393,
-  "2022-06-11": 50393,
-  "2022-06-12": 50393,
-  "2022-06-13": 50393,
-  "2022-06-14": 50393,
-  "2022-06-15": 50393,
-  "2022-06-16": 50393,
-  "2022-06-17": 50393,
-  "2022-06-18": 50393,
-  "2022-06-19": 50393,
-  "2022-06-20": 50393,
-  "2022-06-21": 50393,
-  "2022-06-22": 50393,
-  "2022-06-23": 50393,
-  "2022-06-24": 50393,
-  "2022-06-25": 50393,
-  "2022-06-26": 50393,
-  "2022-06-27": 50393,
-  "2022-06-28": 50393,
-  "2022-06-29": 50393,
-  "2022-06-30": 50393,
-  "2022-07-01": 50393,
-  "2022-07-02": 50393,
-  "2022-07-03": 50393,
-  "2022-07-04": 50393,
-  "2022-07-05": 50393,
-  "2022-07-06": 50393,
-  "2022-07-07": 50393,
-  "2022-07-08": 50393,
-  "2022-07-09": 50393,
-  "2022-07-10": 50393,
-  "2022-07-11": 50393,
-  "2022-07-12": 50393,
-  "2022-07-13": 50393,
-  "2022-07-14": 50393,
-  "2022-07-15": 50393,
-  "2022-07-16": 50393,
-  "2022-07-17": 50393,
-  "2022-07-18": 50393,
-  "2022-07-19": 50393,
-  "2022-07-20": 50393,
-  "2022-07-21": 50393,
-  "2022-07-22": 50393,
-  "2022-07-23": 50393,
-  "2022-07-24": 50393,
-  "2022-07-25": 50393,
-  "2022-07-26": 50393,
-  "2022-07-27": 50393,
-  "2022-07-28": 50393,
-  "2022-07-29": 50393,
-  "2022-07-30": 50393,
-  "2022-07-31": 50393,
-  "2022-08-01": 50393,
-  "2022-08-02": 50393,
-  "2022-08-03": 50393,
-  "2022-08-04": 50393,
-  "2022-08-05": 50393,
-  "2022-08-06": 50393,
-  "2022-08-07": 50393,
-  "2022-08-08": 50393,
-  "2022-08-09": 50393,
-  "2022-08-10": 50393,
-  "2022-08-11": 50393,
-  "2022-08-12": 50393,
-  "2022-08-13": 50393,
-  "2022-08-14": 50393,
-  "2022-08-15": 50393,
-  "2022-08-16": 50393,
-  "2022-08-17": 50393,
-  "2022-08-18": 50393,
-  "2022-08-19": 50393,
-  "2022-08-20": 50393,
-  "2022-08-21": 50393,
-  "2022-08-22": 50393,
-  "2022-08-23": 50393,
-  "2022-08-24": 50393,
-  "2022-08-25": 50393,
-  "2022-08-26": 50393,
-  "2022-08-27": 50393,
-  "2022-08-28": 50393,
-  "2022-08-29": 50393,
-  "2022-08-30": 50393,
-  "2022-08-31": 50393,
-  "2022-09-01": 50393,
-  "2022-09-02": 50393,
-  "2022-09-03": 50393,
-  "2022-09-04": 50393,
-  "2022-09-05": 50393,
-  "2022-09-06": 50393,
-  "2022-09-07": 50393,
-  "2022-09-09": 50393,
-  "2022-09-10": 50393,
-  "2022-09-11": 50393,
-  "2022-09-12": 50393,
-  "2022-09-13": 50393,
-  "2022-09-15": 50393,
-  "2022-09-16": 50393,
-  "2022-09-17": 50393,
-  "2022-09-18": 50393,
-  "2022-09-19": 50393,
-  "2022-09-20": 50393,
-  "2022-09-21": 50393,
-  "2022-09-22": 50393,
-  "2022-09-23": 50393,
-  "2022-09-24": 50393,
-  "2022-09-25": 50393,
-  "2022-09-26": 50393,
-  "2022-09-27": 50393,
-  "2022-09-28": 50393,
-  "2022-09-29": 50393,
-  "2022-09-30": 50393,
-  "2022-10-01": 50393,
-  "2022-10-02": 50393,
-  "2022-10-03": 50393,
-  "2022-10-04": 50393,
-  "2022-10-05": 50393,
-  "2022-10-06": 50393,
-  "2022-10-07": 50393,
-  "2022-10-08": 50393,
-  "2022-10-09": 50393,
-  "2022-10-10": 50393,
-  "2022-10-11": 50393,
-  "2022-10-12": 50393,
-  "2022-10-13": 50393,
-  "2022-10-14": 50393,
-  "2022-10-15": 50393,
-  "2022-10-16": 50393,
-  "2022-10-17": 50393,
-  "2022-10-18": 50393,
-  "2022-10-19": 50393,
-  "2022-10-20": 50393,
-  "2022-10-21": 50393,
-  "2022-10-22": 50393,
-  "2022-10-23": 50393,
-  "2022-10-24": 50393,
-  "2022-10-25": 50393,
-  "2022-10-26": 50393,
-  "2022-10-27": 50393,
-  "2022-10-28": 50393,
-  "2022-10-29": 50393,
-  "2022-10-30": 50393,
-  "2022-10-31": 50393,
-  "2022-11-01": 50393,
-  "2022-11-02": 50393,
-  "2022-11-03": 50393,
-  "2022-11-04": 50393,
-  "2022-11-05": 50393,
-  "2022-11-06": 50393,
-  "2022-11-07": 50393,
-  "2022-11-08": 50393,
-  "2022-11-09": 50393,
-  "2022-11-10": 50393,
-  "2022-11-11": 50393,
-  "2022-11-12": 50393,
-  "2022-11-13": 50393,
-  "2022-11-14": 50393,
-  "2022-11-15": 50393,
-  "2022-11-16": 50393,
-  "2022-11-17": 50393,
-  "2022-11-18": 50393,
-  "2022-11-19": 50393,
-  "2022-11-20": 50393,
-  "2022-11-21": 50393,
-  "2022-11-22": 50393,
-  "2022-11-23": 50393,
-  "2022-11-24": 50393,
-  "2022-11-25": 50393,
-  "2022-11-26": 50393,
-  "2022-11-27": 50393,
-  "2022-11-28": 50393,
-  "2022-11-29": 50393,
-  "2022-11-30": 50393,
-  "2022-12-01": 50393,
-  "2022-12-02": 50393,
-  "2022-12-03": 50393,
-  "2022-12-04": 50393,
-  "2022-12-05": 50393,
-  "2022-12-06": 50393,
-  "2022-12-07": 50393,
-  "2022-12-08": 50393,
-  "2022-12-09": 50393,
-  "2022-12-10": 50393,
-  "2022-12-11": 50393,
-  "2022-12-12": 50393,
-  "2022-12-13": 50393,
-  "2022-12-14": 50393,
-  "2022-12-15": 50393,
-  "2022-12-16": 50393,
-  "2022-12-17": 50393,
-  "2022-12-18": 50393,
-  "2022-12-19": 50393,
-  "2022-12-20": 50393,
-  "2022-12-21": 50393,
-  "2022-12-22": 50393,
-  "2022-12-24": 50393,
-  "2022-12-25": 50393,
-  "2022-12-26": 50393,
-  "2022-12-27": 50393,
-  "2022-12-28": 50393,
-  "2022-12-29": 50393,
-  "2022-12-30": 50393,
-  "2022-12-31": 50393,
-  "2023-01-01": 50393,
-  "2023-01-02": 50393,
-  "2023-01-03": 50393,
-  "2023-01-04": 50393,
-  "2023-01-05": 50393,
-  "2023-01-06": 50393,
-  "2023-01-07": 50393,
-  "2023-01-08": 50393,
-  "2023-01-09": 50393,
-  "2023-01-10": 50393,
-  "2023-01-11": 50393,
-  "2023-01-12": 50393,
-  "2023-01-13": 50393,
-  "2023-01-14": 50393,
-  "2023-01-15": 50393,
-  "2023-01-16": 50393,
-  "2023-01-17": 50393,
-  "2023-01-18": 50393,
-  "2023-01-19": 50393,
-  "2023-01-20": 50393,
-  "2023-01-21": 50393,
-  "2023-01-22": 50393,
-  "2023-01-23": 50393,
-  "2023-01-24": 50393,
-  "2023-01-25": 50393,
-  "2023-01-26": 50393,
-  "2023-01-27": 50393,
-  "2023-01-28": 50393,
-  "2023-01-29": 50393,
-  "2023-01-30": 50393,
-  "2023-01-31": 50393,
-  "2023-02-01": 50393,
-  "2023-02-02": 50393,
-  "2023-02-03": 50393,
-  "2023-02-04": 50393,
-  "2023-02-05": 50393,
-  "2023-02-06": 50393,
-  "2023-02-07": 50393,
-  "2023-02-08": 50393,
-  "2023-02-09": 50393,
-  "2023-02-10": 50393,
-  "2023-02-11": 50393,
-  "2023-02-12": 50393,
-  "2023-02-13": 50393,
-  "2023-02-14": 50393,
-  "2023-02-15": 50393,
-  "2023-02-16": 50393,
-  "2023-02-17": 50393,
-  "2023-02-18": 50393,
-  "2023-02-19": 50393,
-  "2023-02-20": 50393,
-  "2023-02-21": 50393,
-  "2023-02-22": 50393,
-  "2023-02-23": 50393,
-  "2023-02-24": 50393,
-  "2023-02-25": 50393,
-  "2023-02-26": 50393,
-  "2023-02-27": 50393,
-  "2023-02-28": 50393,
-  "2023-03-01": 50393,
-  "2023-03-02": 50393,
-  "2023-03-03": 50393,
-  "2023-03-04": 50393,
-  "2023-03-05": 50393,
-  "2023-03-06": 50393,
-  "2023-03-07": 50393,
-  "2023-03-08": 50393,
-  "2023-03-09": 50393,
-  "2023-03-10": 50393,
-  "2023-03-11": 50393,
-  "2023-03-12": 50393,
-  "2023-03-13": 50393,
-  "2023-03-14": 50393,
-  "2023-03-15": 50393,
-  "2023-03-16": 50393,
-  "2023-03-17": 50393,
-  "2023-03-18": 50393,
-  "2023-03-19": 50393,
-  "2023-03-20": 50393,
-  "2023-03-21": 50393,
-  "2023-03-22": 50393,
-  "2023-03-23": 50393,
-  "2023-03-24": 50393,
-  "2023-03-25": 50393,
-  "2023-03-26": 50393,
-  "2023-03-27": 50393,
-  "2023-03-28": 50393,
-  "2023-03-29": 50393,
-  "2023-03-30": 50393,
-  "2023-03-31": 50393,
-  "2023-04-01": 50393,
-  "2023-04-02": 50393,
-  "2023-04-03": 50393,
-  "2023-04-04": 50393,
-  "2023-04-05": 50393,
-  "2023-04-06": 50393,
-  "2023-04-07": 50393,
-  "2023-04-09": 50393,
-  "2023-04-10": 50393,
-  "2023-04-11": 50393,
-  "2023-04-12": 50393,
-  "2023-04-13": 50393,
-  "2023-04-14": 50393,
-  "2023-04-15": 50393,
-  "2023-04-16": 50393,
-  "2023-04-17": 50393,
-  "2023-04-18": 50393,
-  "2023-04-19": 50393,
-  "2023-04-20": 50393,
-  "2023-04-21": 50393,
-  "2023-04-22": 50393,
-  "2023-04-23": 50393,
-  "2023-04-24": 50393,
-  "2023-04-25": 50393,
-  "2023-04-26": 50393,
-  "2023-04-27": 50393,
-  "2023-04-28": 50393,
-  "2023-04-29": 50393,
-  "2023-04-30": 50393,
-  "2023-05-01": 50393,
-  "2023-05-02": 50393,
-  "2023-05-03": 50393,
-  "2023-05-04": 50393,
-  "2023-05-05": 50393,
-  "2023-05-06": 50393,
-  "2023-05-07": 50393,
-  "2023-05-08": 50393,
-  "2023-05-09": 50393,
-  "2023-05-10": 50393,
-  "2023-05-11": 50393,
-  "2023-05-12": 50393,
-  "2023-05-13": 50393,
-  "2023-05-14": 50393,
-  "2023-05-15": 50393,
-  "2023-05-16": 50393,
-  "2023-05-17": 50393,
-  "2023-05-18": 50393,
-  "2023-05-19": 50393,
-  "2023-05-20": 50393,
-  "2023-05-21": 50393,
-  "2023-05-22": 50393,
-  "2023-05-23": 50393,
-  "2023-05-24": 50393,
-  "2023-05-25": 50393,
-  "2023-05-26": 50393,
-  "2023-05-27": 50393,
-  "2023-05-28": 50393,
-  "2023-05-29": 50393,
-  "2023-05-30": 50393,
-  "2023-05-31": 50393,
-  "2023-06-01": 50393,
-  "2023-06-02": 50393,
-  "2023-06-03": 50393,
-  "2023-06-04": 50393,
-  "2023-06-05": 50393,
-  "2023-06-06": 50393,
-  "2023-06-07": 50393,
-  "2023-06-08": 50393,
-  "2023-06-09": 50393,
-  "2023-06-10": 50393,
-  "2023-06-11": 50393,
-  "2023-06-12": 50393,
-  "2023-06-13": 50393,
-  "2023-06-14": 50393,
-  "2023-06-15": 50393,
-  "2023-06-16": 50393,
-  "2023-06-17": 50393,
-  "2023-06-18": 50393,
-  "2023-06-19": 50393,
-  "2023-06-20": 50393,
-  "2023-06-21": 50393,
-  "2023-06-22": 50393,
-  "2023-06-23": 50393,
-  "2023-06-24": 50393,
-  "2023-06-25": 50393,
-  "2023-06-26": 50393,
-  "2023-06-27": 50393,
-  "2023-06-28": 50393,
-  "2023-06-29": 50393,
-  "2023-06-30": 50393,
-  "2023-07-01": 50393,
-  "2023-07-02": 50393,
-  "2023-07-03": 50393,
-  "2023-07-04": 50393,
-  "2023-07-05": 50393,
-  "2023-07-06": 50393,
-  "2023-07-07": 50393,
-  "2023-07-08": 50393,
-  "2023-07-09": 50393,
-  "2023-07-10": 50393,
-  "2023-07-11": 50393,
-  "2023-07-12": 50393,
-  "2023-07-13": 50393,
-  "2023-07-14": 50393,
-  "2023-07-15": 50393,
-  "2023-07-16": 50393,
-  "2023-07-17": 50393,
-  "2023-07-18": 50393,
-  "2023-07-19": 50393,
-  "2023-07-20": 50393,
-  "2023-07-21": 50393,
-  "2023-07-22": 50393,
-  "2023-07-23": 50393,
-  "2023-07-24": 50393,
-  "2023-07-25": 50393,
-  "2023-07-26": 50393,
-  "2023-07-27": 50393,
-  "2023-07-28": 50393,
-  "2023-07-29": 50393,
-  "2023-07-30": 50393,
-  "2023-07-31": 50393,
-  "2023-08-01": 50393,
-  "2023-08-02": 50393,
-  "2023-08-03": 50393,
-  "2023-08-04": 50393,
-  "2023-08-05": 50393,
-  "2023-08-06": 50393,
-  "2023-08-07": 50393,
-  "2023-08-08": 50393,
-  "2023-08-09": 50393,
-  "2023-08-10": 50393,
-  "2023-08-11": 50393,
-  "2023-08-12": 50393,
-  "2023-08-13": 50393,
-  "2023-08-14": 50393,
-  "2023-08-15": 50393,
-  "2023-08-16": 50393,
-  "2023-08-17": 50393,
-  "2023-08-18": 50393,
-  "2023-08-19": 50393,
-  "2023-08-20": 50393,
-  "2023-08-21": 50393,
-  "2023-08-22": 50393,
-  "2023-08-23": 50393,
-  "2023-08-24": 50393,
-  "2023-08-25": 50393,
-  "2023-08-26": 50393,
-  "2023-08-27": 50393,
-  "2023-08-28": 50393,
-  "2023-08-29": 50393,
-  "2023-08-30": 50393,
-  "2023-08-31": 50393,
-  "2023-09-01": 50393,
-  "2023-09-02": 50393,
-  "2023-09-03": 50393,
-  "2023-09-04": 50393,
-  "2023-09-05": 50393,
-  "2023-09-06": 50393,
-  "2023-09-07": 50393,
-  "2023-09-08": 50393,
-  "2023-09-09": 50393,
-  "2023-09-10": 50393,
-  "2023-09-11": 50393,
-  "2023-09-12": 50393,
-  "2023-09-13": 50393,
-  "2023-09-14": 50393,
-  "2023-09-15": 50393,
-  "2023-09-16": 50393,
-  "2023-09-17": 50393,
-  "2023-09-18": 50393,
-  "2023-09-19": 50393,
-  "2023-09-20": 50393,
-  "2023-09-21": 50393,
-  "2023-09-22": 50393,
-  "2023-09-23": 50393,
-  "2023-09-24": 50393,
-  "2023-09-25": 50393,
-  "2023-09-26": 50393,
-  "2023-09-27": 50393,
-  "2023-09-28": 50393,
-  "2023-09-29": 50393,
-  "2023-09-30": 50393,
-  "2023-10-01": 50393,
-  "2023-10-02": 50393,
-  "2023-10-03": 50393,
-  "2023-10-04": 50393,
-  "2023-10-05": 50393,
-  "2023-10-06": 50393,
-  "2023-10-07": 50393,
-  "2023-10-08": 50393,
-  "2023-10-09": 50393,
-  "2023-10-10": 50393,
-  "2023-10-11": 50393,
-  "2023-10-12": 50393,
-  "2023-10-13": 50393,
-  "2023-10-14": 50393,
-  "2023-10-15": 50393,
-  "2023-10-16": 50393,
-  "2023-10-17": 50393,
-  "2023-10-18": 50393,
-  "2023-10-19": 50393,
-  "2023-10-20": 50393,
-  "2023-10-21": 50393,
-  "2023-10-22": 50393,
-  "2023-10-23": 50393,
-  "2023-10-24": 50393,
-  "2023-10-25": 50393,
-  "2023-10-26": 50393,
-  "2023-10-27": 50393,
-  "2023-10-28": 50393,
-  "2023-10-29": 50393,
-  "2023-10-30": 50393,
-  "2023-10-31": 50393,
-  "2023-11-01": 50393,
-  "2023-11-02": 50393,
-  "2023-11-03": 50393,
-  "2023-11-04": 50393,
-  "2023-11-05": 50393,
-  "2023-11-06": 50393,
-  "2023-11-07": 50393,
-  "2023-11-08": 50393,
-  "2023-11-09": 50393,
-  "2023-11-10": 50393,
-  "2023-11-11": 50393,
-  "2023-11-12": 50393,
-  "2023-11-13": 50393,
-  "2023-11-14": 50393,
-  "2023-11-15": 50393,
-  "2023-11-16": 50393,
-  "2023-11-17": 50393,
-  "2023-11-18": 50393,
-  "2023-11-19": 50393,
-  "2023-11-20": 50393,
-  "2023-11-21": 50393,
-  "2023-11-22": 50393,
-  "2023-11-23": 50393,
-  "2023-11-24": 50393,
-  "2023-11-25": 50393,
-  "2023-11-26": 50393,
-  "2023-11-27": 50393,
-  "2023-11-28": 50393,
-  "2023-11-29": 50393,
-  "2023-11-30": 50393,
-  "2023-12-01": 50393,
-  "2023-12-02": 50393,
-  "2023-12-03": 50393,
-  "2023-12-04": 50393,
-  "2023-12-05": 50393,
-  "2023-12-06": 50393,
-  "2023-12-07": 50393,
-  "2023-12-08": 50393,
-  "2023-12-09": 50393,
-  "2023-12-10": 50393,
-  "2023-12-11": 50393,
-  "2023-12-12": 50393,
-  "2023-12-13": 50393,
-  "2023-12-14": 50393,
-  "2023-12-15": 50393,
-  "2023-12-16": 50393,
-  "2023-12-17": 50393,
-  "2023-12-18": 50393,
-  "2023-12-19": 50393,
-  "2023-12-20": 50393,
-  "2023-12-21": 50393,
-  "2023-12-22": 50393,
-  "2023-12-23": 50393,
-  "2023-12-24": 50393,
-  "2023-12-25": 50393,
-  "2023-12-26": 50393,
-  "2023-12-27": 50393,
-  "2023-12-30": 50393,
-  "2023-12-31": 50393,
-  "2024-01-01": 50393,
-  "2024-01-02": 50393,
-  "2024-01-03": 50393
+  "2024-01-17": 50393,
+  "date_first_scraped": "2021-12-28",
+  "description": "Get to know <a href=\"spotify:artist:4M5nCE77Qaxayuhp3fVn4V\">Sam Beam</a> with a collection featuring his latest album, <a href=\"spotify:album:2Ha1FUPZ0RDMjLZFu1iVO1\">Beast Epic</a>.",
+  "name": "This Is: Iron & Wine",
+  "tracks": [
+    {
+      "album": {
+        "name": "In The Reins",
+        "url": "https://open.spotify.com/album/02YUay44E5r92i65mjcyHe"
+      },
+      "artists": [
+        {
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289173,
+      "name": "16, Maybe Less",
+      "url": "https://open.spotify.com/track/1U3y833fxFLeah93v0MaLs"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190917,
+      "name": "About a Bruise",
+      "url": "https://open.spotify.com/track/5mgWvA2TShvmIkzLR4jAu1"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "Belated Promise Ring",
+      "url": "https://open.spotify.com/track/5ToGCnt5qsZJeyZxvYR8V1"
+    },
+    {
+      "album": {
+        "name": "The Creek Drank The Cradle",
+        "url": "https://open.spotify.com/album/1nDf4JHP7Z4HfecGdrtv1O"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261466,
+      "name": "Bird Stealing Bread",
+      "url": "https://open.spotify.com/track/3IJrlqHmgFNgzL8eGvHRYc"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182831,
+      "name": "Bitter Truth",
+      "url": "https://open.spotify.com/track/78kwvVtF0WMnrI0Se1X4uD"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Boy With a Coin",
+      "url": "https://open.spotify.com/track/2ir2gcSm7S0H1Fa7oGKfLr"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231754,
+      "name": "Call It Dreaming",
+      "url": "https://open.spotify.com/track/4ftYIbHbKSVZWyrveFHCNu"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/5525Fe7wFEeJesNqPfNP8C"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/6BYeJ2WjiKitHmXlhQiOd5"
+    },
+    {
+      "album": {
+        "name": "Ghost on Ghost",
+        "url": "https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192293,
+      "name": "Caught in the Briars",
+      "url": "https://open.spotify.com/track/3lWoPpucS9UVhiSyQev7yR"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344320,
+      "name": "Cinder And Smoke",
+      "url": "https://open.spotify.com/track/3R8CkRVTFPPplYzN9ai94I"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148489,
+      "name": "Claim Your Ghost",
+      "url": "https://open.spotify.com/track/1j9eCnVUjr3CKRtYDKDmz3"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122933,
+      "name": "Communion Cups And Someone's Coat",
+      "url": "https://open.spotify.com/track/28VaOkPDwZjOeSDwEmCYAg"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207720,
+      "name": "Each Coming Night",
+      "url": "https://open.spotify.com/track/0mh7eTsBmQj29bkgpQKoPj"
+    },
+    {
+      "album": {
+        "name": "The Creek Drank The Cradle",
+        "url": "https://open.spotify.com/album/1nDf4JHP7Z4HfecGdrtv1O"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Faded From The Winter",
+      "url": "https://open.spotify.com/track/36azM4d8dGME4vM9p8Oz0U"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256200,
+      "name": "Fever Dream",
+      "url": "https://open.spotify.com/track/0WJepicq4yeVWn68LpqErt"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "Flightless Bird, American Mouth",
+      "url": "https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU"
+    },
+    {
+      "album": {
+        "name": "Forever Young (From NBC's Parenthood)",
+        "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        },
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261370,
+      "name": "Forever Young - From NBC's Parenthood",
+      "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274826,
+      "name": "Free Until They Cut Me Down",
+      "url": "https://open.spotify.com/track/4hARpnwVqLJcxmxKhG18CO"
+    },
+    {
+      "album": {
+        "name": "Woman King",
+        "url": "https://open.spotify.com/album/7oc83zmuY0ODfp8K478lHi"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240920,
+      "name": "Freedom Hangs Like Heaven",
+      "url": "https://open.spotify.com/track/61SfWKF2pMkVxg5EvLGIFq"
+    },
+    {
+      "album": {
+        "name": "Kiss Each Other Clean",
+        "url": "https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195640,
+      "name": "Half Moon",
+      "url": "https://open.spotify.com/track/5ijkzlMiz6WeSEFysYErtV"
+    },
+    {
+      "album": {
+        "name": "In The Reins",
+        "url": "https://open.spotify.com/album/2jAUom8o1kOsfzDnUzNk36"
+      },
+      "artists": [
+        {
+          "name": "Calexico / Iron and Wine",
+          "url": "https://open.spotify.com/artist/3k0uiQPdZYtPaAGHA5kLBk"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223773,
+      "name": "He Lays In The Reins",
+      "url": "https://open.spotify.com/track/6xxnV3f3aTcz8VYHPakPxx"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/5525Fe7wFEeJesNqPfNP8C"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261813,
+      "name": "House by the Sea",
+      "url": "https://open.spotify.com/track/7AlovTZ1KhE4jJkImjYZTO"
+    },
+    {
+      "album": {
+        "name": "Woman King",
+        "url": "https://open.spotify.com/album/7oc83zmuY0ODfp8K478lHi"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307013,
+      "name": "Jezebel",
+      "url": "https://open.spotify.com/track/7HoXQMOnJsat6T6KWKbIpi"
+    },
+    {
+      "album": {
+        "name": "Ghost on Ghost",
+        "url": "https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150640,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/28mA7CHtTktmimLPf9lPef"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175361,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/3DvWmJpLjinaMMXMShrFUR"
+    },
+    {
+      "album": {
+        "name": "The Creek Drank The Cradle",
+        "url": "https://open.spotify.com/album/1nDf4JHP7Z4HfecGdrtv1O"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "Lion's Mane",
+      "url": "https://open.spotify.com/track/1JpL8KxIF2RLPZGJQtOVxF"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206733,
+      "name": "Love Vigilantes",
+      "url": "https://open.spotify.com/track/0ahOkCowJzgyrkoB1HJLPY"
+    },
+    {
+      "album": {
+        "name": "Ghost on Ghost",
+        "url": "https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209653,
+      "name": "Low Light Buddy of Mine",
+      "url": "https://open.spotify.com/track/4iqy5WhpjvGQV0J85TTIrB"
+    },
+    {
+      "album": {
+        "name": "Kiss Each Other Clean",
+        "url": "https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Me and Lazarus",
+      "url": "https://open.spotify.com/track/7gULBl76taq9gcbsH8Uhul"
+    },
+    {
+      "album": {
+        "name": "Archive Series Volume No. 3",
+        "url": "https://open.spotify.com/album/3pBXGDkQByPI1R0s78kpAA"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410482,
+      "name": "Miss Bottom of the Hill",
+      "url": "https://open.spotify.com/track/4ZWRc5mF58OhIfvZ9d6pxX"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152626,
+      "name": "Naked As We Came",
+      "url": "https://open.spotify.com/track/2gUSIsapdX6jEJ0DvjqTt2"
+    },
+    {
+      "album": {
+        "name": "Sing Into My Mouth",
+        "url": "https://open.spotify.com/album/7HXvXyk3wOhwLX3RM7ewGc"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278313,
+      "name": "No Way Out Of Here",
+      "url": "https://open.spotify.com/track/6wXZxbFIV6qPaNuo1kdmcO"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189803,
+      "name": "Our Light Miles",
+      "url": "https://open.spotify.com/track/7M1JbE0wFvNq44FGMurYgx"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/5525Fe7wFEeJesNqPfNP8C"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272439,
+      "name": "Pagan Angel and a Borrowed Car",
+      "url": "https://open.spotify.com/track/3L2FbmGA5lNyrS49KImU6P"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "Passing Afternoon",
+      "url": "https://open.spotify.com/track/3QcBWmkrJMpVw45cbyQY9I"
+    },
+    {
+      "album": {
+        "name": "The Shepherd's Dog",
+        "url": "https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289799,
+      "name": "Resurrection Fern",
+      "url": "https://open.spotify.com/track/7GaiL46MFjCh4LfEDeM8HY"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239449,
+      "name": "Right for Sky",
+      "url": "https://open.spotify.com/track/3OfrEHbtrNh5nQDnFiIQfq"
+    },
+    {
+      "album": {
+        "name": "Archive Series Volume No. 1",
+        "url": "https://open.spotify.com/album/7oEWciAL7LI4uFVNx0dHv8"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147375,
+      "name": "Slow Black River",
+      "url": "https://open.spotify.com/track/3x1RfF2C8mmOqDnBhaX6Of"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201609,
+      "name": "Song in Stone",
+      "url": "https://open.spotify.com/track/07D0uxnz1CXiSNOZEG1sKh"
+    },
+    {
+      "album": {
+        "name": "The Creek Drank The Cradle",
+        "url": "https://open.spotify.com/album/1nDf4JHP7Z4HfecGdrtv1O"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Southern Anthem",
+      "url": "https://open.spotify.com/track/3uPnIJML5FY8uJ72U93U8w"
+    },
+    {
+      "album": {
+        "name": "Archive Series Volume No. 3",
+        "url": "https://open.spotify.com/album/3pBXGDkQByPI1R0s78kpAA"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364924,
+      "name": "Stranger Lay Beside Me",
+      "url": "https://open.spotify.com/track/42rKHZSPdq9RcFUTwTZWYH"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251280,
+      "name": "Such Great Heights",
+      "url": "https://open.spotify.com/track/7vcuTZAFyu0Z5dgMRLR0h0"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213525,
+      "name": "Summer Clouds",
+      "url": "https://open.spotify.com/track/23au7S5NUSTIA4oGUoidFe"
+    },
+    {
+      "album": {
+        "name": "Our Endless Numbered Days",
+        "url": "https://open.spotify.com/album/20OPxsW0aYB6InxDImJRdt"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Sunset Soon Forgotten",
+      "url": "https://open.spotify.com/track/5zoJpoGXbAyDyLUrhXRvrG"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204826,
+      "name": "Swans And The Swimming",
+      "url": "https://open.spotify.com/track/7A1BOQpO0f73KXCODcv6Or"
+    },
+    {
+      "album": {
+        "name": "Ghost on Ghost",
+        "url": "https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "The Desert Babbler",
+      "url": "https://open.spotify.com/track/6ChAIdF5OmdFKbFODwwImM"
+    },
+    {
+      "album": {
+        "name": "The Sea & the Rhythm",
+        "url": "https://open.spotify.com/album/2s2S5p2ZRAM4r30ryrakzY"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323973,
+      "name": "The Sea And The Rhythm",
+      "url": "https://open.spotify.com/track/6GEXcb0buqeKWnsdsUYQ4A"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571080,
+      "name": "The Trapeze Swinger",
+      "url": "https://open.spotify.com/track/7f1rzHP8aCGTHjTq9CIYqo"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171984,
+      "name": "The Truest Stars We Know",
+      "url": "https://open.spotify.com/track/5qCPY271zFxtY8MT0fsOhh"
+    },
+    {
+      "album": {
+        "name": "Archive Series Volume No. 1",
+        "url": "https://open.spotify.com/album/7oEWciAL7LI4uFVNx0dHv8"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212324,
+      "name": "The Wind Is Low",
+      "url": "https://open.spotify.com/track/3idqgSCGbAZ5Co9Hp0MUUQ"
+    },
+    {
+      "album": {
+        "name": "Sing Into My Mouth",
+        "url": "https://open.spotify.com/album/7HXvXyk3wOhwLX3RM7ewGc"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        },
+        {
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212486,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/1XNypoAwJ5zShNIDsaqqJT"
+    },
+    {
+      "album": {
+        "name": "Beast Epic",
+        "url": "https://open.spotify.com/album/2Ha1FUPZ0RDMjLZFu1iVO1"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204227,
+      "name": "Thomas County Law",
+      "url": "https://open.spotify.com/track/33gmcGu3aIx4CUVYnVKRLj"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/1jqSjDD9xDV8QYWyRW0U6q"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170216,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/5kOBEsqVNwi4udPRbagNIV"
+    },
+    {
+      "album": {
+        "name": "Kiss Each Other Clean",
+        "url": "https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236480,
+      "name": "Tree by the River",
+      "url": "https://open.spotify.com/track/1lhtOsCUtm0kND96OtDeNw"
+    },
+    {
+      "album": {
+        "name": "The Creek Drank The Cradle",
+        "url": "https://open.spotify.com/album/1nDf4JHP7Z4HfecGdrtv1O"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356160,
+      "name": "Upward Over The Mountain",
+      "url": "https://open.spotify.com/track/7ofZgS5xDW0XodfjaXWvZG"
+    },
+    {
+      "album": {
+        "name": "Around The Well",
+        "url": "https://open.spotify.com/album/4sgupIgP8AaivCBO5gXA2g"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274266,
+      "name": "Waitin' For A Superman",
+      "url": "https://open.spotify.com/track/0LcybXutIvhS5t5cwT5eYT"
+    },
+    {
+      "album": {
+        "name": "Kiss Each Other Clean",
+        "url": "https://open.spotify.com/album/4hQrMKUocaKJjrv2jxgI9l"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "Walking Far from Home",
+      "url": "https://open.spotify.com/track/0ncZMrH4tUif4XbTgOddlp"
+    },
+    {
+      "album": {
+        "name": "Ghost on Ghost",
+        "url": "https://open.spotify.com/album/3oPGyYlIVrG66eLKD93BN4"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191813,
+      "name": "Winter Prayers",
+      "url": "https://open.spotify.com/track/7KHCVkzgC86E0sAm8QESq9"
+    },
+    {
+      "album": {
+        "name": "Woman King",
+        "url": "https://open.spotify.com/album/7oc83zmuY0ODfp8K478lHi"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "date_added": "2017-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260959,
+      "name": "Woman King",
+      "url": "https://open.spotify.com/track/0FpTJl1nGCPCmbqQ1aPAeq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTMS5dxv72g0"
 }

@@ -1,474 +1,1253 @@
 {
-  "2022-09-15": 185439,
-  "2022-09-16": 185586,
-  "2022-09-17": 185726,
-  "2022-09-18": 185862,
-  "2022-09-19": 186057,
-  "2022-09-20": 186228,
-  "2022-09-21": 186381,
-  "2022-09-22": 186541,
-  "2022-09-23": 186728,
-  "2022-09-24": 186887,
-  "2022-09-25": 187049,
-  "2022-09-26": 187230,
-  "2022-09-27": 187402,
-  "2022-09-28": 187589,
-  "2022-09-29": 187786,
-  "2022-09-30": 187941,
-  "2022-10-01": 188107,
-  "2022-10-02": 188282,
-  "2022-10-03": 188471,
-  "2022-10-04": 188650,
-  "2022-10-05": 188828,
-  "2022-10-06": 188977,
-  "2022-10-07": 189164,
-  "2022-10-08": 189326,
-  "2022-10-09": 189677,
-  "2022-10-10": 189712,
-  "2022-10-11": 189894,
-  "2022-10-12": 190072,
-  "2022-10-13": 190267,
-  "2022-10-14": 190435,
-  "2022-10-15": 190590,
-  "2022-10-16": 190755,
-  "2022-10-17": 190954,
-  "2022-10-18": 191149,
-  "2022-10-19": 191302,
-  "2022-10-20": 191468,
-  "2022-10-21": 191628,
-  "2022-10-22": 191777,
-  "2022-10-23": 191928,
-  "2022-10-24": 192137,
-  "2022-10-25": 192339,
-  "2022-10-26": 192536,
-  "2022-10-27": 192718,
-  "2022-10-28": 192904,
-  "2022-10-29": 193059,
-  "2022-10-30": 193226,
-  "2022-10-31": 193435,
-  "2022-11-01": 193626,
-  "2022-11-02": 193801,
-  "2022-11-03": 193992,
-  "2022-11-04": 194175,
-  "2022-11-05": 194355,
-  "2022-11-06": 194525,
-  "2022-11-07": 194724,
-  "2022-11-08": 194898,
-  "2022-11-09": 195059,
-  "2022-11-10": 195202,
-  "2022-11-11": 195376,
-  "2022-11-12": 195568,
-  "2022-11-13": 195690,
-  "2022-11-14": 195882,
-  "2022-11-15": 196035,
-  "2022-11-16": 196195,
-  "2022-11-17": 196369,
-  "2022-11-18": 196428,
-  "2022-11-19": 196467,
-  "2022-11-20": 196597,
-  "2022-11-21": 196724,
-  "2022-11-22": 196887,
-  "2022-11-23": 197024,
-  "2022-11-24": 197270,
-  "2022-11-25": 197500,
-  "2022-11-26": 197629,
-  "2022-11-27": 197737,
-  "2022-11-28": 197896,
-  "2022-11-29": 198032,
-  "2022-11-30": 198206,
-  "2022-12-01": 198348,
-  "2022-12-02": 198458,
-  "2022-12-03": 198712,
-  "2022-12-04": 198876,
-  "2022-12-05": 199066,
-  "2022-12-06": 199221,
-  "2022-12-07": 199386,
-  "2022-12-08": 199536,
-  "2022-12-09": 199683,
-  "2022-12-10": 199800,
-  "2022-12-11": 199937,
-  "2022-12-12": 200113,
-  "2022-12-13": 200251,
-  "2022-12-14": 200404,
-  "2022-12-15": 200510,
-  "2022-12-16": 200658,
-  "2022-12-17": 200778,
-  "2022-12-18": 200895,
-  "2022-12-19": 201027,
-  "2022-12-20": 201271,
-  "2022-12-21": 201271,
-  "2022-12-22": 201369,
-  "2022-12-24": 201612,
-  "2022-12-25": 201719,
-  "2022-12-26": 201799,
-  "2022-12-27": 201917,
-  "2022-12-28": 202043,
-  "2022-12-29": 202189,
-  "2022-12-30": 202324,
-  "2022-12-31": 202491,
-  "2023-01-01": 202645,
-  "2023-01-02": 202816,
-  "2023-01-03": 203041,
-  "2023-01-04": 203190,
-  "2023-01-05": 203368,
-  "2023-01-06": 203599,
-  "2023-01-07": 203861,
-  "2023-01-08": 203894,
-  "2023-01-09": 204104,
-  "2023-01-10": 204320,
-  "2023-01-11": 204504,
-  "2023-01-12": 204706,
-  "2023-01-13": 204850,
-  "2023-01-14": 205152,
-  "2023-01-15": 205176,
-  "2023-01-16": 205382,
-  "2023-01-17": 205564,
-  "2023-01-18": 205744,
-  "2023-01-19": 205941,
-  "2023-01-20": 206130,
-  "2023-01-21": 206299,
-  "2023-01-22": 206479,
-  "2023-01-23": 206710,
-  "2023-01-24": 206919,
-  "2023-01-25": 207101,
-  "2023-01-26": 207289,
-  "2023-01-27": 207489,
-  "2023-01-28": 207670,
-  "2023-01-29": 207842,
-  "2023-01-30": 208057,
-  "2023-01-31": 208057,
-  "2023-02-01": 208424,
-  "2023-02-02": 208583,
-  "2023-02-03": 208775,
-  "2023-02-04": 208944,
-  "2023-02-05": 209098,
-  "2023-02-06": 209303,
-  "2023-02-07": 209479,
-  "2023-02-08": 209835,
-  "2023-02-09": 209835,
-  "2023-02-10": 210001,
-  "2023-02-11": 210157,
-  "2023-02-12": 210524,
-  "2023-02-13": 210739,
-  "2023-02-14": 210739,
-  "2023-02-15": 210878,
-  "2023-02-16": 211065,
-  "2023-02-17": 211232,
-  "2023-02-18": 211587,
-  "2023-02-19": 211624,
-  "2023-02-20": 211788,
-  "2023-02-21": 211978,
-  "2023-02-22": 212134,
-  "2023-02-23": 212311,
-  "2023-02-24": 212509,
-  "2023-02-25": 212732,
-  "2023-02-26": 212855,
-  "2023-02-27": 213225,
-  "2023-02-28": 213225,
-  "2023-03-01": 213388,
-  "2023-03-02": 213574,
-  "2023-03-03": 213722,
-  "2023-03-04": 213850,
-  "2023-03-05": 214187,
-  "2023-03-06": 214187,
-  "2023-03-07": 214376,
-  "2023-03-08": 214532,
-  "2023-03-09": 214683,
-  "2023-03-10": 214834,
-  "2023-03-11": 215001,
-  "2023-03-12": 215135,
-  "2023-03-13": 215340,
-  "2023-03-14": 215511,
-  "2023-03-15": 215666,
-  "2023-03-16": 215814,
-  "2023-03-17": 215814,
-  "2023-03-18": 216068,
-  "2023-03-19": 216193,
-  "2023-03-20": 216366,
-  "2023-03-21": 216541,
-  "2023-03-22": 216729,
-  "2023-03-23": 216891,
-  "2023-03-24": 216891,
-  "2023-03-25": 217245,
-  "2023-03-26": 217429,
-  "2023-03-27": 217657,
-  "2023-03-28": 217852,
-  "2023-03-29": 218049,
-  "2023-03-30": 218381,
-  "2023-03-31": 218381,
-  "2023-04-01": 218528,
-  "2023-04-02": 218670,
-  "2023-04-03": 218868,
-  "2023-04-04": 219045,
-  "2023-04-05": 219251,
-  "2023-04-06": 219432,
-  "2023-04-07": 219598,
-  "2023-04-09": 219971,
-  "2023-04-10": 220220,
-  "2023-04-11": 220596,
-  "2023-04-12": 220596,
-  "2023-04-13": 220780,
-  "2023-04-14": 220952,
-  "2023-04-15": 221105,
-  "2023-04-16": 221298,
-  "2023-04-17": 221518,
-  "2023-04-18": 221718,
-  "2023-04-19": 221930,
-  "2023-04-20": 222151,
-  "2023-04-21": 222328,
-  "2023-04-22": 222547,
-  "2023-04-23": 222705,
-  "2023-04-24": 222933,
-  "2023-04-25": 223158,
-  "2023-04-26": 223344,
-  "2023-04-27": 223533,
-  "2023-04-28": 223716,
-  "2023-04-29": 223921,
-  "2023-04-30": 224145,
-  "2023-05-01": 224342,
-  "2023-05-02": 224534,
-  "2023-05-03": 224689,
-  "2023-05-04": 224841,
-  "2023-05-05": 225020,
-  "2023-05-06": 225174,
-  "2023-05-07": 225319,
-  "2023-05-08": 225488,
-  "2023-05-09": 225688,
-  "2023-05-10": 225838,
-  "2023-05-11": 225942,
-  "2023-05-12": 226103,
-  "2023-05-13": 226261,
-  "2023-05-14": 226372,
-  "2023-05-15": 226514,
-  "2023-05-16": 226672,
-  "2023-05-17": 226818,
-  "2023-05-18": 226959,
-  "2023-05-19": 227119,
-  "2023-05-20": 227447,
-  "2023-05-21": 227447,
-  "2023-05-22": 227447,
-  "2023-05-23": 227814,
-  "2023-05-24": 228120,
-  "2023-05-25": 228160,
-  "2023-05-26": 228312,
-  "2023-05-27": 228454,
-  "2023-05-28": 228600,
-  "2023-05-29": 228600,
-  "2023-05-30": 228938,
-  "2023-05-31": 229082,
-  "2023-06-01": 229236,
-  "2023-06-02": 229392,
-  "2023-06-03": 229539,
-  "2023-06-04": 229681,
-  "2023-06-05": 229873,
-  "2023-06-06": 230076,
-  "2023-06-07": 230261,
-  "2023-06-08": 230436,
-  "2023-06-09": 230629,
-  "2023-06-10": 230809,
-  "2023-06-11": 230975,
-  "2023-06-12": 231139,
-  "2023-06-13": 231269,
-  "2023-06-14": 231269,
-  "2023-06-15": 231441,
-  "2023-06-16": 46583,
-  "2023-06-17": 46583,
-  "2023-06-18": 46583,
-  "2023-06-19": 46583,
-  "2023-06-20": 46583,
-  "2023-06-21": 46583,
-  "2023-06-22": 46583,
-  "2023-06-23": 46583,
-  "2023-06-24": 46583,
-  "2023-06-25": 46583,
-  "2023-06-26": 46583,
-  "2023-06-27": 46583,
-  "2023-06-28": 46583,
-  "2023-06-29": 46583,
-  "2023-06-30": 46583,
-  "2023-07-01": 46583,
-  "2023-07-02": 46583,
-  "2023-07-03": 46583,
-  "2023-07-04": 46583,
-  "2023-07-05": 46583,
-  "2023-07-06": 46583,
-  "2023-07-07": 46583,
-  "2023-07-08": 46583,
-  "2023-07-09": 46583,
-  "2023-07-10": 46583,
-  "2023-07-11": 46583,
-  "2023-07-12": 46583,
-  "2023-07-13": 46583,
-  "2023-07-14": 46583,
-  "2023-07-15": 46583,
-  "2023-07-16": 46583,
-  "2023-07-17": 46583,
-  "2023-07-18": 46583,
-  "2023-07-19": 46583,
-  "2023-07-20": 46583,
-  "2023-07-21": 46583,
-  "2023-07-22": 46583,
-  "2023-07-23": 46583,
-  "2023-07-24": 46583,
-  "2023-07-25": 46583,
-  "2023-07-26": 46583,
-  "2023-07-27": 46583,
-  "2023-07-28": 46583,
-  "2023-07-29": 46583,
-  "2023-07-30": 46583,
-  "2023-07-31": 46583,
-  "2023-08-01": 46583,
-  "2023-08-02": 46583,
-  "2023-08-03": 46583,
-  "2023-08-04": 46583,
-  "2023-08-05": 46583,
-  "2023-08-06": 46583,
-  "2023-08-07": 46583,
-  "2023-08-08": 46583,
-  "2023-08-09": 46583,
-  "2023-08-10": 46583,
-  "2023-08-11": 46583,
-  "2023-08-12": 46583,
-  "2023-08-13": 46583,
-  "2023-08-14": 46583,
-  "2023-08-15": 46583,
-  "2023-08-16": 46583,
-  "2023-08-17": 46583,
-  "2023-08-18": 46583,
-  "2023-08-19": 46583,
-  "2023-08-20": 46583,
-  "2023-08-21": 46583,
-  "2023-08-22": 46583,
-  "2023-08-23": 46583,
-  "2023-08-24": 46583,
-  "2023-08-25": 46583,
-  "2023-08-26": 46583,
-  "2023-08-27": 46583,
-  "2023-08-28": 46583,
-  "2023-08-29": 46583,
-  "2023-08-30": 46583,
-  "2023-08-31": 46583,
-  "2023-09-01": 46583,
-  "2023-09-02": 46583,
-  "2023-09-03": 46583,
-  "2023-09-04": 46583,
-  "2023-09-05": 46583,
-  "2023-09-06": 46583,
-  "2023-09-07": 46583,
-  "2023-09-08": 46583,
-  "2023-09-09": 46583,
-  "2023-09-10": 46583,
-  "2023-09-11": 46583,
-  "2023-09-12": 46583,
-  "2023-09-13": 46583,
-  "2023-09-14": 46583,
-  "2023-09-15": 46583,
-  "2023-09-16": 46583,
-  "2023-09-17": 46583,
-  "2023-09-18": 46583,
-  "2023-09-19": 46583,
-  "2023-09-20": 46583,
-  "2023-09-21": 46583,
-  "2023-09-22": 46583,
-  "2023-09-23": 46583,
-  "2023-09-24": 46583,
-  "2023-09-25": 46583,
-  "2023-09-26": 46583,
-  "2023-09-27": 46583,
-  "2023-09-28": 46583,
-  "2023-09-29": 46583,
-  "2023-09-30": 46583,
-  "2023-10-01": 46583,
-  "2023-10-02": 46583,
-  "2023-10-03": 46583,
-  "2023-10-04": 46583,
-  "2023-10-05": 46583,
-  "2023-10-06": 46583,
-  "2023-10-07": 46583,
-  "2023-10-08": 46583,
-  "2023-10-09": 46583,
-  "2023-10-10": 46583,
-  "2023-10-11": 46583,
-  "2023-10-12": 46583,
-  "2023-10-13": 46583,
-  "2023-10-14": 46583,
-  "2023-10-15": 46583,
-  "2023-10-16": 46583,
-  "2023-10-17": 46583,
-  "2023-10-18": 46583,
-  "2023-10-19": 46583,
-  "2023-10-20": 46583,
-  "2023-10-21": 46583,
-  "2023-10-22": 46583,
-  "2023-10-23": 46583,
-  "2023-10-24": 46583,
-  "2023-10-25": 46583,
-  "2023-10-26": 46583,
-  "2023-10-27": 46583,
-  "2023-10-28": 46583,
-  "2023-10-29": 46583,
-  "2023-10-30": 46583,
-  "2023-10-31": 46583,
-  "2023-11-01": 46583,
-  "2023-11-02": 46583,
-  "2023-11-03": 46583,
-  "2023-11-04": 46583,
-  "2023-11-05": 46583,
-  "2023-11-06": 46583,
-  "2023-11-07": 46583,
-  "2023-11-08": 46583,
-  "2023-11-09": 46583,
-  "2023-11-10": 46583,
-  "2023-11-11": 46583,
-  "2023-11-12": 46583,
-  "2023-11-13": 46583,
-  "2023-11-14": 46583,
-  "2023-11-15": 46583,
-  "2023-11-16": 46583,
-  "2023-11-17": 46583,
-  "2023-11-18": 46583,
-  "2023-11-19": 46583,
-  "2023-11-20": 46583,
-  "2023-11-21": 46583,
-  "2023-11-22": 46583,
-  "2023-11-23": 46583,
-  "2023-11-24": 46583,
-  "2023-11-25": 46583,
-  "2023-11-26": 46583,
-  "2023-11-27": 46583,
-  "2023-11-28": 46583,
-  "2023-11-29": 46583,
-  "2023-11-30": 46583,
-  "2023-12-01": 46583,
-  "2023-12-02": 46583,
-  "2023-12-03": 46583,
-  "2023-12-04": 46583,
-  "2023-12-05": 46583,
-  "2023-12-06": 46583,
-  "2023-12-07": 46583,
-  "2023-12-08": 46583,
-  "2023-12-09": 46583,
-  "2023-12-10": 46583,
-  "2023-12-11": 46583,
-  "2023-12-12": 46583,
-  "2023-12-13": 46583,
-  "2023-12-14": 46583,
-  "2023-12-15": 46583,
-  "2023-12-16": 46583,
-  "2023-12-17": 46583,
-  "2023-12-18": 46583,
-  "2023-12-19": 46583,
-  "2023-12-20": 46583,
-  "2023-12-21": 46583,
-  "2023-12-22": 46583,
-  "2023-12-23": 46583,
-  "2023-12-24": 46583,
-  "2023-12-25": 46583,
-  "2023-12-26": 46583,
-  "2023-12-27": 46583,
-  "2023-12-30": 46583,
-  "2023-12-31": 46583,
-  "2024-01-01": 46583,
-  "2024-01-02": 46583,
-  "2024-01-03": 46583
+  "2024-01-17": 46583,
+  "date_first_scraped": "2022-09-15",
+  "description": "All the best of Elevation Worship, in one playlist.",
+  "name": "This Is Elevation Worship",
+  "tracks": [
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581177,
+      "name": "Available (Live)",
+      "url": "https://open.spotify.com/track/6TbG237Ir0ublbxXq2T3Yp"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Wasted",
+        "url": "https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317586,
+      "name": "Be Lifted High - Live",
+      "url": "https://open.spotify.com/track/2ilqQ7D484m3p582yys0sq"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438200,
+      "name": "Blessed Assurance",
+      "url": "https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321946,
+      "name": "Call Upon the Lord",
+      "url": "https://open.spotify.com/track/2vQelECZsi36LWXyMt0Apv"
+    },
+    {
+      "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499213,
+      "name": "Como en el Cielo (Here as in Heaven)",
+      "url": "https://open.spotify.com/track/7gR2K9p8v5BB0uGLCcVimW"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236735,
+      "name": "Echo (feat. Tauren Wells)",
+      "url": "https://open.spotify.com/track/6ZhORhQoBD0qndKYvpBTv2"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219613,
+      "name": "Echo (Paradoxology)",
+      "url": "https://open.spotify.com/track/6KvWUC9Uj5uCug3f6MVuJg"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349458,
+      "name": "Faithful (Paradoxology)",
+      "url": "https://open.spotify.com/track/7xOOHNV0eB6lmVmpnkR6TJ"
+    },
+    {
+      "album": {
+        "name": "Speak Revival",
+        "url": "https://open.spotify.com/album/4WysoMeub5mYFEkmCEuM3V"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367760,
+      "name": "Fullness",
+      "url": "https://open.spotify.com/track/5UqyM8fDp1hAAvcb83TS7B"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256240,
+      "name": "Glory is Yours",
+      "url": "https://open.spotify.com/track/6JQi0IUQ4tWHVFSmHxMpMO"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218438,
+      "name": "GOD SAID LIVE! (Live)",
+      "url": "https://open.spotify.com/track/6mE9CJoyF1BOMLwHhE2eae"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250571,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/2A0GDEZCIvKq38kj2SgENg"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407253,
+      "name": "Grace So Glorious",
+      "url": "https://open.spotify.com/track/1Cz9GFuqKYaqj1XiRm4714"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247533,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/4d2S4TnoA8QSTsV4jsStWK"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3AYUzOtIQoLrxDZNwaPErh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452499,
+      "name": "Graves Into Gardens (Live)",
+      "url": "https://open.spotify.com/track/0pNizrRmvu5S16fH6ccm0v"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens - EP",
+        "url": "https://open.spotify.com/album/5Oid1mxnMrsqGonPERW0Dg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260367,
+      "name": "Graves Into Gardens (Studio)",
+      "url": "https://open.spotify.com/track/40TejHtJdQkd1nIxKf43CL"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Wasted",
+        "url": "https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519679,
+      "name": "Greater - Live",
+      "url": "https://open.spotify.com/track/7KoSnNWvTVVDrXAvocbSMc"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/13EeOfGQR654aT06zwMyce"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423376,
+      "name": "Hallelujah Here Below",
+      "url": "https://open.spotify.com/track/4Fnz6vDqufd3ens0Gf9LC5"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347404,
+      "name": "Hallelujah Here Below (Paradoxology) (feat. Steffany Gretzinger)",
+      "url": "https://open.spotify.com/track/7oiOEDqkHN0R7OZtQEAWiD"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405913,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/1wuqCUWHniGdEmOKZbQ1cg"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400461,
+      "name": "Here Again (Paradoxology)",
+      "url": "https://open.spotify.com/track/6RLI5LENz1tlKwUNTRH0ZP"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499506,
+      "name": "Here as in Heaven",
+      "url": "https://open.spotify.com/track/0fPwregqch9wLJj4yQH6Bk"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345453,
+      "name": "I Can't Believe",
+      "url": "https://open.spotify.com/track/6r0azdlSgUt66F36H6nZPA"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Wasted",
+        "url": "https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433853,
+      "name": "I Have Decided - Live",
+      "url": "https://open.spotify.com/track/2Zb6mkoJDZycWCWNDiPhPF"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360813,
+      "name": "I Will Look Up",
+      "url": "https://open.spotify.com/track/74YXRR78oHnq9ZEUBWx8PN"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351054,
+      "name": "Jesus I Come",
+      "url": "https://open.spotify.com/track/1pyv4TvmufPTYOFQFWMXOF"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252117,
+      "name": "Let Us Adore (Live)",
+      "url": "https://open.spotify.com/track/1TwoDkkoxue48NtzQvC78G"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354305,
+      "name": "LION (feat. Chris Brown & Brandon Lake)",
+      "url": "https://open.spotify.com/track/0wokdbjRBEVknN1c6FBf9S"
+    },
+    {
+      "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377306,
+      "name": "Lo Har\u00e1s Otra Vez (Do It Again)",
+      "url": "https://open.spotify.com/track/3vcfHBHNmN5LG8otn8j4Kg"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265953,
+      "name": "Look How He Lifted Me",
+      "url": "https://open.spotify.com/track/0B03fxtlHqATqFyy50mxKU"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279621,
+      "name": "Love Won't Give Up",
+      "url": "https://open.spotify.com/track/2wHyU3lXYds9CGhp53FTbl"
+    },
+    {
+      "album": {
+        "name": "Might Get Loud (feat. Chris Brown, Brandon Lake & Tiffany Hudson)",
+        "url": "https://open.spotify.com/album/3wVupCTVnSneEZS22xhU6s"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279691,
+      "name": "Might Get Loud (feat. Chris Brown, Brandon Lake & Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/2UZIEo6fokmt1DVUupfgpm"
+    },
+    {
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ymcmsRG7L9EqpDXnBYYBD"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301998,
+      "name": "Mighty Cross (Acoustic)",
+      "url": "https://open.spotify.com/track/3cdThIQ9BkMNLTrbSzFOJi"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275624,
+      "name": "Mighty God (Another Hallelujah) [Paradoxology]",
+      "url": "https://open.spotify.com/track/1cUYloGMo1wk2OUxiXFZ1Y"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297133,
+      "name": "Mighty Warrior",
+      "url": "https://open.spotify.com/track/1BCLtk5xX8H8tdD51hbJ2k"
+    },
+    {
+      "album": {
+        "name": "My Testimony (Live)",
+        "url": "https://open.spotify.com/album/1EfM91gOuwlAfIyACus2do"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291320,
+      "name": "My Testimony (Live)",
+      "url": "https://open.spotify.com/track/1XldqbigKtheiXxqCakzje"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Wasted",
+        "url": "https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396733,
+      "name": "Nothing Is Wasted - Live",
+      "url": "https://open.spotify.com/track/0BaI1f9egPEj5iBmlUvOTm"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349586,
+      "name": "O Come to the Altar (Live)",
+      "url": "https://open.spotify.com/track/1lEk3U3MzbDeL5MNHkE9JU"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246826,
+      "name": "Oh Sing",
+      "url": "https://open.spotify.com/track/2HpcR2F5SmJn7JESfGRaYI"
+    },
+    {
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "album": {
+        "name": "Only King Forever",
+        "url": "https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297320,
+      "name": "Only King Forever",
+      "url": "https://open.spotify.com/track/0kDdjHylcMnCU4DvsAL7Fi"
+    },
+    {
+      "album": {
+        "name": "Nothing Is Wasted",
+        "url": "https://open.spotify.com/album/50vKZm0cwX5ZWF37apQCSO"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278106,
+      "name": "Open Up Our Eyes - Live",
+      "url": "https://open.spotify.com/track/27MJBWH2Lo5GXLY0bAHrcA"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240973,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/1f5KIqQTDinSwnqQHsaNmn"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197376,
+      "name": "Paradoxology",
+      "url": "https://open.spotify.com/track/47wMld6IsjIhHoopVjGpzA"
+    },
+    {
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467053,
+      "name": "Resurrecting (Live)",
+      "url": "https://open.spotify.com/track/1GtmiINnAu5K2VEqyh1Xdc"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Jonsal Barrientes",
+          "url": "https://open.spotify.com/artist/1qPdpbKXwgJeJ45C7rJj4J"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481802,
+      "name": "Same God (feat. Jonsal Barrientes)",
+      "url": "https://open.spotify.com/track/7nrhv8ZemanddTfXk28rdy"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/0wtFB7vmIRecZhXQbDQ9Z1"
+    },
+    {
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/4XEf57ewixATrMNdUecNdE"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514664,
+      "name": "The Blessing - Live",
+      "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545470,
+      "name": "The King Is Among Us",
+      "url": "https://open.spotify.com/track/0fjlUXYx6SwvegfEjV4Gz6"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347893,
+      "name": "There Is a Cloud",
+      "url": "https://open.spotify.com/track/2sn2gK89nnjXgJ0iLO4Gps"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261678,
+      "name": "Unstoppable God",
+      "url": "https://open.spotify.com/track/7myOvrlSOO7VIyd7JQnSU0"
+    },
+    {
+      "album": {
+        "name": "Lo Har\u00e1s Otra Vez",
+        "url": "https://open.spotify.com/album/5Fei3OXDpZtPrsjwt6CDYx"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347946,
+      "name": "Ven Ante Su Trono (O Come to the Altar)",
+      "url": "https://open.spotify.com/track/00N19SVEo6XJFaerouyckn"
+    },
+    {
+      "album": {
+        "name": "LION",
+        "url": "https://open.spotify.com/album/6PwjeKXh33Xze41oTPhJUh"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276036,
+      "name": "What I See (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4A6zhvBNk6MAUp4u07p7kD"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600983,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5TzacODdR8JdfMIMtrN7xj"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364990,
+      "name": "With You (Paradoxology)",
+      "url": "https://open.spotify.com/track/2dbXF6IGhuq6O63bJ1TFYr"
+    },
+    {
+      "album": {
+        "name": "Hallelujah Here Below",
+        "url": "https://open.spotify.com/album/3gFcCl38Vch9JlHDP2WktC"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424754,
+      "name": "Won't Stop Now",
+      "url": "https://open.spotify.com/track/6LKjIAHCnZjaB4BfEIFHrW"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283618,
+      "name": "Won't Stop Now (Paradoxology)",
+      "url": "https://open.spotify.com/track/0iyUykVM2x7wG1X0proKhd"
+    },
+    {
+      "album": {
+        "name": "Paradoxology",
+        "url": "https://open.spotify.com/album/0soliYXrqNagA4oO1Jk1Gk"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327342,
+      "name": "Worthy (Paradoxology)",
+      "url": "https://open.spotify.com/track/6FXo0D0mdC3H7X7sQfArnh"
+    },
+    {
+      "album": {
+        "name": "Here As In Heaven",
+        "url": "https://open.spotify.com/album/6KToyzPBIfHNyB5vWEfjrF"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403013,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/4kT024NNkH9CHK5sV6v2be"
+    },
+    {
+      "album": {
+        "name": "Wake Up The Wonder",
+        "url": "https://open.spotify.com/album/4ROzY3I1ROwTDSvl9fVSob"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298230,
+      "name": "Your Promises",
+      "url": "https://open.spotify.com/track/7toBMKUFYgMqSoG1OnG2Bs"
+    },
+    {
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450333,
+      "name": "Yours (Glory and Praise)",
+      "url": "https://open.spotify.com/track/60jh7oiCKKmStpzm8uQPUa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8bVI1ONP87c"
 }

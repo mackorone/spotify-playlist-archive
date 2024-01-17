@@ -1,732 +1,925 @@
 {
-  "2021-12-28": 100000,
-  "2021-12-29": 100061,
-  "2021-12-30": 100121,
-  "2021-12-31": 100194,
-  "2022-01-01": 100296,
-  "2022-01-02": 100308,
-  "2022-01-03": 100345,
-  "2022-01-04": 100386,
-  "2022-01-05": 100423,
-  "2022-01-06": 100477,
-  "2022-01-07": 100514,
-  "2022-01-08": 100616,
-  "2022-01-09": 100622,
-  "2022-01-10": 100681,
-  "2022-01-11": 100681,
-  "2022-01-12": 100759,
-  "2022-01-13": 100759,
-  "2022-01-14": 100759,
-  "2022-01-15": 100759,
-  "2022-01-16": 100759,
-  "2022-01-17": 100759,
-  "2022-01-18": 100759,
-  "2022-01-19": 100759,
-  "2022-01-20": 100759,
-  "2022-01-21": 100759,
-  "2022-01-22": 100759,
-  "2022-01-23": 100759,
-  "2022-01-24": 100759,
-  "2022-01-25": 100759,
-  "2022-01-26": 100759,
-  "2022-01-27": 100759,
-  "2022-01-28": 100759,
-  "2022-01-29": 100759,
-  "2022-01-30": 100759,
-  "2022-01-31": 100759,
-  "2022-02-01": 100759,
-  "2022-02-02": 100759,
-  "2022-02-03": 100759,
-  "2022-02-04": 100759,
-  "2022-02-05": 100759,
-  "2022-02-06": 100759,
-  "2022-02-07": 100759,
-  "2022-02-08": 100759,
-  "2022-02-09": 100759,
-  "2022-02-10": 100759,
-  "2022-02-11": 100759,
-  "2022-02-12": 100759,
-  "2022-02-13": 100759,
-  "2022-02-14": 100759,
-  "2022-02-15": 100759,
-  "2022-02-16": 100759,
-  "2022-02-17": 100759,
-  "2022-02-18": 100759,
-  "2022-02-19": 100759,
-  "2022-02-20": 100759,
-  "2022-02-21": 100759,
-  "2022-02-22": 100759,
-  "2022-02-23": 100759,
-  "2022-02-24": 100759,
-  "2022-02-25": 100759,
-  "2022-02-26": 100759,
-  "2022-02-27": 100759,
-  "2022-02-28": 100759,
-  "2022-03-01": 100759,
-  "2022-03-02": 100759,
-  "2022-03-03": 100759,
-  "2022-03-04": 100759,
-  "2022-03-05": 100759,
-  "2022-03-06": 100759,
-  "2022-03-07": 100759,
-  "2022-03-08": 100759,
-  "2022-03-09": 100759,
-  "2022-03-10": 100759,
-  "2022-03-11": 100759,
-  "2022-03-12": 100759,
-  "2022-03-13": 100759,
-  "2022-03-14": 100759,
-  "2022-03-15": 100759,
-  "2022-03-16": 100759,
-  "2022-03-17": 100759,
-  "2022-03-18": 100759,
-  "2022-03-19": 100759,
-  "2022-03-20": 100759,
-  "2022-03-21": 100759,
-  "2022-03-22": 100759,
-  "2022-03-23": 100759,
-  "2022-03-24": 100759,
-  "2022-03-25": 100759,
-  "2022-03-26": 100759,
-  "2022-03-27": 100759,
-  "2022-03-28": 100759,
-  "2022-03-30": 100759,
-  "2022-03-31": 100759,
-  "2022-04-01": 100759,
-  "2022-04-02": 100759,
-  "2022-04-03": 100759,
-  "2022-04-04": 100759,
-  "2022-04-05": 100759,
-  "2022-04-06": 100759,
-  "2022-04-07": 100759,
-  "2022-04-08": 100759,
-  "2022-04-09": 100759,
-  "2022-04-10": 100759,
-  "2022-04-11": 100759,
-  "2022-04-12": 100759,
-  "2022-04-13": 100759,
-  "2022-04-14": 100759,
-  "2022-04-15": 100759,
-  "2022-04-16": 100759,
-  "2022-04-17": 100759,
-  "2022-04-18": 100759,
-  "2022-04-19": 100759,
-  "2022-04-20": 100759,
-  "2022-04-21": 100759,
-  "2022-04-22": 100759,
-  "2022-04-23": 100759,
-  "2022-04-24": 100759,
-  "2022-04-25": 100759,
-  "2022-04-26": 100759,
-  "2022-04-27": 100759,
-  "2022-04-28": 100759,
-  "2022-04-29": 100759,
-  "2022-04-30": 100759,
-  "2022-05-01": 100759,
-  "2022-05-02": 100759,
-  "2022-05-03": 100759,
-  "2022-05-04": 100759,
-  "2022-05-05": 100759,
-  "2022-05-06": 100759,
-  "2022-05-07": 100759,
-  "2022-05-08": 100759,
-  "2022-05-09": 100759,
-  "2022-05-10": 100759,
-  "2022-05-11": 100759,
-  "2022-05-12": 100759,
-  "2022-05-13": 100759,
-  "2022-05-14": 100759,
-  "2022-05-15": 100759,
-  "2022-05-16": 100759,
-  "2022-05-17": 100759,
-  "2022-05-18": 100759,
-  "2022-05-19": 100759,
-  "2022-05-20": 100759,
-  "2022-05-21": 100759,
-  "2022-05-22": 100759,
-  "2022-05-23": 100759,
-  "2022-05-24": 100759,
-  "2022-05-25": 100759,
-  "2022-05-26": 100759,
-  "2022-05-27": 100759,
-  "2022-05-28": 100759,
-  "2022-05-29": 100759,
-  "2022-05-30": 100759,
-  "2022-05-31": 100759,
-  "2022-06-01": 100759,
-  "2022-06-02": 100759,
-  "2022-06-03": 100759,
-  "2022-06-04": 100759,
-  "2022-06-05": 100759,
-  "2022-06-06": 100759,
-  "2022-06-07": 100759,
-  "2022-06-08": 100759,
-  "2022-06-09": 100759,
-  "2022-06-10": 100759,
-  "2022-06-11": 100759,
-  "2022-06-12": 100759,
-  "2022-06-13": 100759,
-  "2022-06-14": 100759,
-  "2022-06-15": 100759,
-  "2022-06-16": 100759,
-  "2022-06-17": 100759,
-  "2022-06-18": 100759,
-  "2022-06-19": 100759,
-  "2022-06-20": 100759,
-  "2022-06-21": 100759,
-  "2022-06-22": 100759,
-  "2022-06-23": 100759,
-  "2022-06-24": 100759,
-  "2022-06-25": 100759,
-  "2022-06-26": 100759,
-  "2022-06-27": 100759,
-  "2022-06-28": 100759,
-  "2022-06-29": 100759,
-  "2022-06-30": 100759,
-  "2022-07-01": 100759,
-  "2022-07-02": 100759,
-  "2022-07-03": 100759,
-  "2022-07-04": 100759,
-  "2022-07-05": 100759,
-  "2022-07-06": 100759,
-  "2022-07-07": 100759,
-  "2022-07-08": 100759,
-  "2022-07-09": 100759,
-  "2022-07-10": 100759,
-  "2022-07-11": 100759,
-  "2022-07-12": 100759,
-  "2022-07-13": 100759,
-  "2022-07-14": 100759,
-  "2022-07-15": 100759,
-  "2022-07-16": 100759,
-  "2022-07-17": 100759,
-  "2022-07-18": 100759,
-  "2022-07-19": 100759,
-  "2022-07-20": 100759,
-  "2022-07-21": 100759,
-  "2022-07-22": 100759,
-  "2022-07-23": 100759,
-  "2022-07-24": 100759,
-  "2022-07-25": 100759,
-  "2022-07-26": 100759,
-  "2022-07-27": 100759,
-  "2022-07-28": 100759,
-  "2022-07-29": 100759,
-  "2022-07-30": 100759,
-  "2022-07-31": 100759,
-  "2022-08-01": 100759,
-  "2022-08-02": 100759,
-  "2022-08-03": 100759,
-  "2022-08-04": 100759,
-  "2022-08-05": 100759,
-  "2022-08-06": 100759,
-  "2022-08-07": 100759,
-  "2022-08-08": 100759,
-  "2022-08-09": 100759,
-  "2022-08-10": 100759,
-  "2022-08-11": 100759,
-  "2022-08-12": 100759,
-  "2022-08-13": 100759,
-  "2022-08-14": 100759,
-  "2022-08-15": 100759,
-  "2022-08-16": 100759,
-  "2022-08-17": 100759,
-  "2022-08-18": 100759,
-  "2022-08-19": 100759,
-  "2022-08-20": 100759,
-  "2022-08-21": 100759,
-  "2022-08-22": 100759,
-  "2022-08-23": 100759,
-  "2022-08-24": 100759,
-  "2022-08-25": 100759,
-  "2022-08-26": 100759,
-  "2022-08-27": 100759,
-  "2022-08-28": 100759,
-  "2022-08-29": 100759,
-  "2022-08-30": 100759,
-  "2022-08-31": 100759,
-  "2022-09-01": 100759,
-  "2022-09-02": 100759,
-  "2022-09-03": 100759,
-  "2022-09-04": 100759,
-  "2022-09-05": 100759,
-  "2022-09-06": 100759,
-  "2022-09-07": 100759,
-  "2022-09-09": 100759,
-  "2022-09-10": 100759,
-  "2022-09-11": 100759,
-  "2022-09-12": 100759,
-  "2022-09-13": 100759,
-  "2022-09-15": 100759,
-  "2022-09-16": 100759,
-  "2022-09-17": 100759,
-  "2022-09-18": 100759,
-  "2022-09-19": 100759,
-  "2022-09-20": 100759,
-  "2022-09-21": 100759,
-  "2022-09-22": 100759,
-  "2022-09-23": 100759,
-  "2022-09-24": 100759,
-  "2022-09-25": 100759,
-  "2022-09-26": 100759,
-  "2022-09-27": 100759,
-  "2022-09-28": 100759,
-  "2022-09-29": 100759,
-  "2022-09-30": 100759,
-  "2022-10-01": 100759,
-  "2022-10-02": 100759,
-  "2022-10-03": 100759,
-  "2022-10-04": 100759,
-  "2022-10-05": 100759,
-  "2022-10-06": 100759,
-  "2022-10-07": 100759,
-  "2022-10-08": 100759,
-  "2022-10-09": 100759,
-  "2022-10-10": 100759,
-  "2022-10-11": 100759,
-  "2022-10-12": 100759,
-  "2022-10-13": 100759,
-  "2022-10-14": 100759,
-  "2022-10-15": 100759,
-  "2022-10-16": 100759,
-  "2022-10-17": 100759,
-  "2022-10-18": 100759,
-  "2022-10-19": 100759,
-  "2022-10-20": 100759,
-  "2022-10-21": 100759,
-  "2022-10-22": 100759,
-  "2022-10-23": 100759,
-  "2022-10-24": 100759,
-  "2022-10-25": 100759,
-  "2022-10-26": 100759,
-  "2022-10-27": 100759,
-  "2022-10-28": 100759,
-  "2022-10-29": 100759,
-  "2022-10-30": 100759,
-  "2022-10-31": 100759,
-  "2022-11-01": 100759,
-  "2022-11-02": 100759,
-  "2022-11-03": 100759,
-  "2022-11-04": 100759,
-  "2022-11-05": 100759,
-  "2022-11-06": 100759,
-  "2022-11-07": 100759,
-  "2022-11-08": 100759,
-  "2022-11-09": 100759,
-  "2022-11-10": 100759,
-  "2022-11-11": 100759,
-  "2022-11-12": 100759,
-  "2022-11-13": 100759,
-  "2022-11-14": 100759,
-  "2022-11-15": 100759,
-  "2022-11-16": 100759,
-  "2022-11-17": 100759,
-  "2022-11-18": 100759,
-  "2022-11-19": 100759,
-  "2022-11-20": 100759,
-  "2022-11-21": 100759,
-  "2022-11-22": 100759,
-  "2022-11-23": 100759,
-  "2022-11-24": 100759,
-  "2022-11-25": 100759,
-  "2022-11-26": 100759,
-  "2022-11-27": 100759,
-  "2022-11-28": 100759,
-  "2022-11-29": 100759,
-  "2022-11-30": 100759,
-  "2022-12-01": 100759,
-  "2022-12-02": 100759,
-  "2022-12-03": 100759,
-  "2022-12-04": 100759,
-  "2022-12-05": 100759,
-  "2022-12-06": 100759,
-  "2022-12-07": 100759,
-  "2022-12-08": 100759,
-  "2022-12-09": 100759,
-  "2022-12-10": 100759,
-  "2022-12-11": 100759,
-  "2022-12-12": 100759,
-  "2022-12-13": 100759,
-  "2022-12-14": 100759,
-  "2022-12-15": 100759,
-  "2022-12-16": 100759,
-  "2022-12-17": 100759,
-  "2022-12-18": 100759,
-  "2022-12-19": 100759,
-  "2022-12-20": 100759,
-  "2022-12-21": 100759,
-  "2022-12-22": 100759,
-  "2022-12-24": 100759,
-  "2022-12-25": 100759,
-  "2022-12-26": 100759,
-  "2022-12-27": 100759,
-  "2022-12-28": 100759,
-  "2022-12-29": 100759,
-  "2022-12-30": 100759,
-  "2022-12-31": 100759,
-  "2023-01-01": 100759,
-  "2023-01-02": 100759,
-  "2023-01-03": 100759,
-  "2023-01-04": 100759,
-  "2023-01-05": 100759,
-  "2023-01-06": 100759,
-  "2023-01-07": 100759,
-  "2023-01-08": 100759,
-  "2023-01-09": 100759,
-  "2023-01-10": 100759,
-  "2023-01-11": 100759,
-  "2023-01-12": 100759,
-  "2023-01-13": 100759,
-  "2023-01-14": 100759,
-  "2023-01-15": 100759,
-  "2023-01-16": 100759,
-  "2023-01-17": 100759,
-  "2023-01-18": 100759,
-  "2023-01-19": 100759,
-  "2023-01-20": 100759,
-  "2023-01-21": 100759,
-  "2023-01-22": 100759,
-  "2023-01-23": 100759,
-  "2023-01-24": 100759,
-  "2023-01-25": 100759,
-  "2023-01-26": 100759,
-  "2023-01-27": 100759,
-  "2023-01-28": 100759,
-  "2023-01-29": 100759,
-  "2023-01-30": 100759,
-  "2023-01-31": 100759,
-  "2023-02-01": 100759,
-  "2023-02-02": 100759,
-  "2023-02-03": 100759,
-  "2023-02-04": 100759,
-  "2023-02-05": 100759,
-  "2023-02-06": 100759,
-  "2023-02-07": 100759,
-  "2023-02-08": 100759,
-  "2023-02-09": 100759,
-  "2023-02-10": 100759,
-  "2023-02-11": 100759,
-  "2023-02-12": 100759,
-  "2023-02-13": 100759,
-  "2023-02-14": 100759,
-  "2023-02-15": 100759,
-  "2023-02-16": 100759,
-  "2023-02-17": 100759,
-  "2023-02-18": 100759,
-  "2023-02-19": 100759,
-  "2023-02-20": 100759,
-  "2023-02-21": 100759,
-  "2023-02-22": 100759,
-  "2023-02-23": 100759,
-  "2023-02-24": 100759,
-  "2023-02-25": 100759,
-  "2023-02-26": 100759,
-  "2023-02-27": 100759,
-  "2023-02-28": 100759,
-  "2023-03-01": 100759,
-  "2023-03-02": 100759,
-  "2023-03-03": 100759,
-  "2023-03-04": 100759,
-  "2023-03-05": 100759,
-  "2023-03-06": 100759,
-  "2023-03-07": 100759,
-  "2023-03-08": 100759,
-  "2023-03-09": 100759,
-  "2023-03-10": 100759,
-  "2023-03-11": 100759,
-  "2023-03-12": 100759,
-  "2023-03-13": 100759,
-  "2023-03-14": 100759,
-  "2023-03-15": 100759,
-  "2023-03-16": 100759,
-  "2023-03-17": 100759,
-  "2023-03-18": 100759,
-  "2023-03-19": 100759,
-  "2023-03-20": 100759,
-  "2023-03-21": 100759,
-  "2023-03-22": 100759,
-  "2023-03-23": 100759,
-  "2023-03-24": 100759,
-  "2023-03-25": 100759,
-  "2023-03-26": 100759,
-  "2023-03-27": 100759,
-  "2023-03-28": 100759,
-  "2023-03-29": 100759,
-  "2023-03-30": 100759,
-  "2023-03-31": 100759,
-  "2023-04-01": 100759,
-  "2023-04-02": 100759,
-  "2023-04-03": 100759,
-  "2023-04-04": 100759,
-  "2023-04-05": 100759,
-  "2023-04-06": 100759,
-  "2023-04-07": 100759,
-  "2023-04-09": 100759,
-  "2023-04-10": 100759,
-  "2023-04-11": 100759,
-  "2023-04-12": 100759,
-  "2023-04-13": 100759,
-  "2023-04-14": 100759,
-  "2023-04-15": 100759,
-  "2023-04-16": 100759,
-  "2023-04-17": 100759,
-  "2023-04-18": 100759,
-  "2023-04-19": 100759,
-  "2023-04-20": 100759,
-  "2023-04-21": 100759,
-  "2023-04-22": 100759,
-  "2023-04-23": 100759,
-  "2023-04-24": 100759,
-  "2023-04-25": 100759,
-  "2023-04-26": 100759,
-  "2023-04-27": 100759,
-  "2023-04-28": 100759,
-  "2023-04-29": 100759,
-  "2023-04-30": 100759,
-  "2023-05-01": 100759,
-  "2023-05-02": 100759,
-  "2023-05-03": 100759,
-  "2023-05-04": 100759,
-  "2023-05-05": 100759,
-  "2023-05-06": 100759,
-  "2023-05-07": 100759,
-  "2023-05-08": 100759,
-  "2023-05-09": 100759,
-  "2023-05-10": 100759,
-  "2023-05-11": 100759,
-  "2023-05-12": 100759,
-  "2023-05-13": 100759,
-  "2023-05-14": 100759,
-  "2023-05-15": 100759,
-  "2023-05-16": 100759,
-  "2023-05-17": 100759,
-  "2023-05-18": 100759,
-  "2023-05-19": 100759,
-  "2023-05-20": 100759,
-  "2023-05-21": 100759,
-  "2023-05-22": 100759,
-  "2023-05-23": 100759,
-  "2023-05-24": 100759,
-  "2023-05-25": 100759,
-  "2023-05-26": 100759,
-  "2023-05-27": 100759,
-  "2023-05-28": 100759,
-  "2023-05-29": 100759,
-  "2023-05-30": 100759,
-  "2023-05-31": 100759,
-  "2023-06-01": 100759,
-  "2023-06-02": 100759,
-  "2023-06-03": 100759,
-  "2023-06-04": 100759,
-  "2023-06-05": 100759,
-  "2023-06-06": 100759,
-  "2023-06-07": 100759,
-  "2023-06-08": 100759,
-  "2023-06-09": 100759,
-  "2023-06-10": 100759,
-  "2023-06-11": 100759,
-  "2023-06-12": 100759,
-  "2023-06-13": 100759,
-  "2023-06-14": 100759,
-  "2023-06-15": 100759,
-  "2023-06-16": 100759,
-  "2023-06-17": 100759,
-  "2023-06-18": 100759,
-  "2023-06-19": 100759,
-  "2023-06-20": 100759,
-  "2023-06-21": 100759,
-  "2023-06-22": 100759,
-  "2023-06-23": 100759,
-  "2023-06-24": 100759,
-  "2023-06-25": 100759,
-  "2023-06-26": 100759,
-  "2023-06-27": 100759,
-  "2023-06-28": 100759,
-  "2023-06-29": 100759,
-  "2023-06-30": 100759,
-  "2023-07-01": 100759,
-  "2023-07-02": 100759,
-  "2023-07-03": 100759,
-  "2023-07-04": 100759,
-  "2023-07-05": 100759,
-  "2023-07-06": 100759,
-  "2023-07-07": 100759,
-  "2023-07-08": 100759,
-  "2023-07-09": 100759,
-  "2023-07-10": 100759,
-  "2023-07-11": 100759,
-  "2023-07-12": 100759,
-  "2023-07-13": 100759,
-  "2023-07-14": 100759,
-  "2023-07-15": 100759,
-  "2023-07-16": 100759,
-  "2023-07-17": 100759,
-  "2023-07-18": 100759,
-  "2023-07-19": 100759,
-  "2023-07-20": 100759,
-  "2023-07-21": 100759,
-  "2023-07-22": 100759,
-  "2023-07-23": 100759,
-  "2023-07-24": 100759,
-  "2023-07-25": 100759,
-  "2023-07-26": 100759,
-  "2023-07-27": 100759,
-  "2023-07-28": 100759,
-  "2023-07-29": 100759,
-  "2023-07-30": 100759,
-  "2023-07-31": 100759,
-  "2023-08-01": 100759,
-  "2023-08-02": 100759,
-  "2023-08-03": 100759,
-  "2023-08-04": 100759,
-  "2023-08-05": 100759,
-  "2023-08-06": 100759,
-  "2023-08-07": 100759,
-  "2023-08-08": 100759,
-  "2023-08-09": 100759,
-  "2023-08-10": 100759,
-  "2023-08-11": 100759,
-  "2023-08-12": 100759,
-  "2023-08-13": 100759,
-  "2023-08-14": 100759,
-  "2023-08-15": 100759,
-  "2023-08-16": 100759,
-  "2023-08-17": 100759,
-  "2023-08-18": 100759,
-  "2023-08-19": 100759,
-  "2023-08-20": 100759,
-  "2023-08-21": 100759,
-  "2023-08-22": 100759,
-  "2023-08-23": 100759,
-  "2023-08-24": 100759,
-  "2023-08-25": 100759,
-  "2023-08-26": 100759,
-  "2023-08-27": 100759,
-  "2023-08-28": 100759,
-  "2023-08-29": 100759,
-  "2023-08-30": 100759,
-  "2023-08-31": 100759,
-  "2023-09-01": 100759,
-  "2023-09-02": 100759,
-  "2023-09-03": 100759,
-  "2023-09-04": 100759,
-  "2023-09-05": 100759,
-  "2023-09-06": 100759,
-  "2023-09-07": 100759,
-  "2023-09-08": 100759,
-  "2023-09-09": 100759,
-  "2023-09-10": 100759,
-  "2023-09-11": 100759,
-  "2023-09-12": 100759,
-  "2023-09-13": 100759,
-  "2023-09-14": 100759,
-  "2023-09-15": 100759,
-  "2023-09-16": 100759,
-  "2023-09-17": 100759,
-  "2023-09-18": 100759,
-  "2023-09-19": 100759,
-  "2023-09-20": 100759,
-  "2023-09-21": 100759,
-  "2023-09-22": 100759,
-  "2023-09-23": 100759,
-  "2023-09-24": 100759,
-  "2023-09-25": 100759,
-  "2023-09-26": 100759,
-  "2023-09-27": 100759,
-  "2023-09-28": 100759,
-  "2023-09-29": 100759,
-  "2023-09-30": 100759,
-  "2023-10-01": 100759,
-  "2023-10-02": 100759,
-  "2023-10-03": 100759,
-  "2023-10-04": 100759,
-  "2023-10-05": 100759,
-  "2023-10-06": 100759,
-  "2023-10-07": 100759,
-  "2023-10-08": 100759,
-  "2023-10-09": 100759,
-  "2023-10-10": 100759,
-  "2023-10-11": 100759,
-  "2023-10-12": 100759,
-  "2023-10-13": 100759,
-  "2023-10-14": 100759,
-  "2023-10-15": 100759,
-  "2023-10-16": 100759,
-  "2023-10-17": 100759,
-  "2023-10-18": 100759,
-  "2023-10-19": 100759,
-  "2023-10-20": 100759,
-  "2023-10-21": 100759,
-  "2023-10-22": 100759,
-  "2023-10-23": 100759,
-  "2023-10-24": 100759,
-  "2023-10-25": 100759,
-  "2023-10-26": 100759,
-  "2023-10-27": 100759,
-  "2023-10-28": 100759,
-  "2023-10-29": 100759,
-  "2023-10-30": 100759,
-  "2023-10-31": 100759,
-  "2023-11-01": 100759,
-  "2023-11-02": 100759,
-  "2023-11-03": 100759,
-  "2023-11-04": 100759,
-  "2023-11-05": 100759,
-  "2023-11-06": 100759,
-  "2023-11-07": 100759,
-  "2023-11-08": 100759,
-  "2023-11-09": 100759,
-  "2023-11-10": 100759,
-  "2023-11-11": 100759,
-  "2023-11-12": 100759,
-  "2023-11-13": 100759,
-  "2023-11-14": 100759,
-  "2023-11-15": 100759,
-  "2023-11-16": 100759,
-  "2023-11-17": 100759,
-  "2023-11-18": 100759,
-  "2023-11-19": 100759,
-  "2023-11-20": 100759,
-  "2023-11-21": 100759,
-  "2023-11-22": 100759,
-  "2023-11-23": 100759,
-  "2023-11-24": 100759,
-  "2023-11-25": 100759,
-  "2023-11-26": 100759,
-  "2023-11-27": 100759,
-  "2023-11-28": 100759,
-  "2023-11-29": 100759,
-  "2023-11-30": 100759,
-  "2023-12-01": 100759,
-  "2023-12-02": 100759,
-  "2023-12-03": 100759,
-  "2023-12-04": 100759,
-  "2023-12-05": 100759,
-  "2023-12-06": 100759,
-  "2023-12-07": 100759,
-  "2023-12-08": 100759,
-  "2023-12-09": 100759,
-  "2023-12-10": 100759,
-  "2023-12-11": 100759,
-  "2023-12-12": 100759,
-  "2023-12-13": 100759,
-  "2023-12-14": 100759,
-  "2023-12-15": 100759,
-  "2023-12-16": 100759,
-  "2023-12-17": 100759,
-  "2023-12-18": 100759,
-  "2023-12-19": 100759,
-  "2023-12-20": 100759,
-  "2023-12-21": 100759,
-  "2023-12-22": 100759,
-  "2023-12-23": 100759,
-  "2023-12-24": 100759,
-  "2023-12-25": 100759,
-  "2023-12-26": 100759,
-  "2023-12-27": 100759,
-  "2023-12-30": 100759,
-  "2023-12-31": 100759,
-  "2024-01-01": 100759,
-  "2024-01-02": 100759,
-  "2024-01-03": 100759
+  "2024-01-17": 100759,
+  "date_first_scraped": "2021-12-28",
+  "description": "The latest and greatest. Lo nuevo y lo esencial.",
+  "name": "This Is: Victor Manuelle",
+  "tracks": [
+    {
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Agua Bendita",
+      "url": "https://open.spotify.com/track/4840hLWsWOyvtUO0Lz6xbb"
+    },
+    {
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309400,
+      "name": "As\u00ed Es la Mujer",
+      "url": "https://open.spotify.com/track/1segwDrWjU9MxYxOvPzvwr"
+    },
+    {
+      "album": {
+        "name": "La Historia Live",
+        "url": "https://open.spotify.com/album/3syIceuWeZKFbuVubOsS4W"
+      },
+      "artists": [
+        {
+          "name": "Hector & Tito",
+          "url": "https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234773,
+      "name": "Ay Amor - Reggaeton",
+      "url": "https://open.spotify.com/track/0uJrYOhFXe4Y86JXPPMqt1"
+    },
+    {
+      "album": {
+        "name": "Boogaloo Supreme",
+        "url": "https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208152,
+      "name": "Boogaloo Supreme",
+      "url": "https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ"
+    },
+    {
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/1VafvDAapOdIv2sf5wjhnU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297280,
+      "name": "Como Duele",
+      "url": "https://open.spotify.com/track/25Zs75B4sV45lJTKO8Mvoz"
+    },
+    {
+      "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288560,
+      "name": "Como una Estrella",
+      "url": "https://open.spotify.com/track/0C09HZicGLpFZei3u2nt8k"
+    },
+    {
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288600,
+      "name": "Cuando Me Escuchen",
+      "url": "https://open.spotify.com/track/6bSW2R8dp3583wsTXi8hiO"
+    },
+    {
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237600,
+      "name": "Cuando Ya No Me Acuerde de Ti",
+      "url": "https://open.spotify.com/track/3SzlElxX0OMeYHldppCl5m"
+    },
+    {
+      "album": {
+        "name": "Instinto Y Deseo",
+        "url": "https://open.spotify.com/album/3d5wSLC56y1aBA6BDDPpgf"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282146,
+      "name": "C\u00f3mo Se Lo Explico Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/52gkJ3JSgobSSdRdQLKTGJ"
+    },
+    {
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305066,
+      "name": "Dile A Ella",
+      "url": "https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ"
+    },
+    {
+      "album": {
+        "name": "Le Preguntaba a la Luna",
+        "url": "https://open.spotify.com/album/6EssY5LyLpMcgJVlbzQ5qt"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274066,
+      "name": "El Tonto Que No Te Olvid\u00f3",
+      "url": "https://open.spotify.com/track/5oEgvsfOa7anU2WAWmJJm5"
+    },
+    {
+      "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240293,
+      "name": "Ella Lo Que Quiere Es Salsa (feat. Voltio & Jowell y Randy)",
+      "url": "https://open.spotify.com/track/6l9iRzgakAc5U82eVbt8ow"
+    },
+    {
+      "album": {
+        "name": "Hasta Que Me D\u00e9 la Gana",
+        "url": "https://open.spotify.com/album/1QDUS9rcK1e9qVCrpZdFzZ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257291,
+      "name": "Hasta Que Me D\u00e9 la Gana",
+      "url": "https://open.spotify.com/track/1y7aoxSy1irp0tnElPALPd"
+    },
+    {
+      "album": {
+        "name": "Hasta Que Me D\u00e9 la Gana (Versi\u00f3n Balada)",
+        "url": "https://open.spotify.com/album/0Zld1he8aWNu7QEZK5lYHD"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221679,
+      "name": "Hasta Que Me D\u00e9 la Gana - Versi\u00f3n Balada",
+      "url": "https://open.spotify.com/track/4AfMbUqUt6oZnkzApShgyx"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305306,
+      "name": "Hay Que Poner el Alma",
+      "url": "https://open.spotify.com/track/42ov6ZREi1IjcfHdPakmMe"
+    },
+    {
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "He Tratado",
+      "url": "https://open.spotify.com/track/236qXqcmitHCZ3SHoGZN8g"
+    },
+    {
+      "album": {
+        "name": "Imaginar",
+        "url": "https://open.spotify.com/album/73FFo8GOcRpXK0g2NxbT64"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193613,
+      "name": "Imaginar",
+      "url": "https://open.spotify.com/track/2M7nxR4mAJ4ox98l5Jn6jN"
+    },
+    {
+      "album": {
+        "name": "Instinto Y Deseo",
+        "url": "https://open.spotify.com/album/3d5wSLC56y1aBA6BDDPpgf"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "Instinto y Deseo - Salsa Version",
+      "url": "https://open.spotify.com/track/6GNw9fgAX65y2OWiHOIhSx"
+    },
+    {
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299160,
+      "name": "La Due\u00f1a de Mis Amores",
+      "url": "https://open.spotify.com/track/1gMRWCTgytg0rIZ46sfN0Q"
+    },
+    {
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250946,
+      "name": "La Foto Que Falt\u00f3",
+      "url": "https://open.spotify.com/track/4anYFpVniDAzf4sfA5tltf"
+    },
+    {
+      "album": {
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304840,
+      "name": "La Raz\u00f3n de Mi Vida",
+      "url": "https://open.spotify.com/track/1oX7MMaqvo88E9c4oMNLH5"
+    },
+    {
+      "album": {
+        "name": "Travesia",
+        "url": "https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309426,
+      "name": "Llor\u00e9 Llor\u00e9",
+      "url": "https://open.spotify.com/track/1myqqLEJVj1wty8K9IA6FF"
+    },
+    {
+      "album": {
+        "name": "Mala (feat. Victor Manuelle) [Salsa Remix]",
+        "url": "https://open.spotify.com/album/4NL3xCiNS9VwR8UGYbn0Fg"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248697,
+      "name": "Mala (feat. Victor Manuelle) - Salsa Remix",
+      "url": "https://open.spotify.com/track/6ZIzbuU1QzGpSfFdWFKKqL"
+    },
+    {
+      "album": {
+        "name": "Mala y Peligrosa (feat. Bad Bunny)",
+        "url": "https://open.spotify.com/album/5g7QwZJvDLvaSGjqFVex0d"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264193,
+      "name": "Mala y Peligrosa (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/0afpbPmRHldjP59YRslQz9"
+    },
+    {
+      "album": {
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280573,
+      "name": "Maldita Suerte",
+      "url": "https://open.spotify.com/track/5i5E4yFKDrpJ7EBBfe6Kjj"
+    },
+    {
+      "album": {
+        "name": "Leyendas: Salsa Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/7bbQ7eKGlor2Bz8R3gHN2X"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264653,
+      "name": "Me Dar\u00e1 el Consentimiento",
+      "url": "https://open.spotify.com/track/6v6fsLLtDqH9YFVsZ5bMtH"
+    },
+    {
+      "album": {
+        "name": "Me Llamar\u00e9 Tuyo Reloaded",
+        "url": "https://open.spotify.com/album/3vCYjsWpDRQVcF940ElOTA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230920,
+      "name": "Me Llamar\u00e9 Tuyo",
+      "url": "https://open.spotify.com/track/5JIjwY5YyMV4Ur7PvUeLfR"
+    },
+    {
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/1VafvDAapOdIv2sf5wjhnU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293866,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/3vJnlMNUvfba9qi2f3lXPZ"
+    },
+    {
+      "album": {
+        "name": "Uno No Es Uno",
+        "url": "https://open.spotify.com/album/3kCMC5lZHt3KY7m3FjJecN"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "Momentos - Versi\u00f3n Salsa",
+      "url": "https://open.spotify.com/track/1EsFcRYvTFB6oMkydN2qG5"
+    },
+    {
+      "album": {
+        "name": "I Love Salsa 2011",
+        "url": "https://open.spotify.com/album/19XtAMnb0Fp20KiMKiASio"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264080,
+      "name": "M\u00edrame",
+      "url": "https://open.spotify.com/track/1L7AnuIX504YgUfnk686b1"
+    },
+    {
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230546,
+      "name": "Nada Nos Separar\u00e1",
+      "url": "https://open.spotify.com/track/7uLs6HfJXtdZsma59yDHFY"
+    },
+    {
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272680,
+      "name": "No Quer\u00eda Enga\u00f1arte",
+      "url": "https://open.spotify.com/track/7mvgoSoN2klG8M68WZLrYq"
+    },
+    {
+      "album": {
+        "name": "No Quer\u00eda Enga\u00f1arte (feat. Raquel Sof\u00eda) [Versi\u00f3n Balada Pop]",
+        "url": "https://open.spotify.com/album/1Z7yWyWMu5G7Gbr5mRHh6s"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254434,
+      "name": "No Quer\u00eda Enga\u00f1arte (feat. Raquel Sof\u00eda) - Versi\u00f3n Balada Pop",
+      "url": "https://open.spotify.com/track/3VFPjPqUbhuoP26NoxxoQ0"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299893,
+      "name": "Nuestro Amor Se Ha Vuelto Ayer",
+      "url": "https://open.spotify.com/track/4ELCKRhHQ1G10TF8mLepLB"
+    },
+    {
+      "album": {
+        "name": "Decision Unanime",
+        "url": "https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297333,
+      "name": "Nunca Hab\u00eda Llorado As\u00ed",
+      "url": "https://open.spotify.com/track/0qPb4xDGwlQWMQk17s0WMe"
+    },
+    {
+      "album": {
+        "name": "Victor Manuelle",
+        "url": "https://open.spotify.com/album/6smQKsf2QUBzYTFozqwt1y"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "Pensamiento y Palabra",
+      "url": "https://open.spotify.com/track/7FGEEW7muLeJdhrFlkDLbh"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298573,
+      "name": "Pero Dile",
+      "url": "https://open.spotify.com/track/5T87VqdDfe14eG0bQFwgmk"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/1wPCKuOe9I7dLDwYtBhFIh"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "Por Ella",
+      "url": "https://open.spotify.com/track/61BoBnTname2M5evtYyU6k"
+    },
+    {
+      "album": {
+        "name": "Que Suenen los Tambores",
+        "url": "https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276280,
+      "name": "Porque Te Llaman Amor",
+      "url": "https://open.spotify.com/track/4SfcdT7UhQYjPsASkQWuaU"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291653,
+      "name": "Qu\u00e9 Habr\u00eda Sido de M\u00ed",
+      "url": "https://open.spotify.com/track/0FM3vkqskxIo1XnOJLh90s"
+    },
+    {
+      "album": {
+        "name": "25/7",
+        "url": "https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298306,
+      "name": "Salsa Pa' Olvidar las Penas (feat. Gilberto Santa Rosa)",
+      "url": "https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi"
+    },
+    {
+      "album": {
+        "name": "Salsa Pa' Olvidar las Penas (feat. V\u00edctor Manuelle) [En Vivo desde Puerto Rico]",
+        "url": "https://open.spotify.com/album/2Rd4zksHbZLpp7kCrJbsk4"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        },
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308586,
+      "name": "Salsa Pa' Olvidar las Penas (feat. V\u00edctor Manuelle) - En Vivo desde Puerto Rico",
+      "url": "https://open.spotify.com/track/5OcpuwdnJoQBrpDAKF3OTE"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296293,
+      "name": "Se Me Rompe el Alma",
+      "url": "https://open.spotify.com/track/6tOAFv53Iz0v31x7kRPLpn"
+    },
+    {
+      "album": {
+        "name": "Busco Un Pueblo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ELi1pACZsdvMj0t3sbvlL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259853,
+      "name": "Si T\u00fa Me Besas",
+      "url": "https://open.spotify.com/track/5981zpjMYeKGoEQ6K9794L"
+    },
+    {
+      "album": {
+        "name": "Sonero de la Juventud... Salsero Original",
+        "url": "https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266306,
+      "name": "Tengo Ganas",
+      "url": "https://open.spotify.com/track/5WOz95BQwovg6bFQcHaNSp"
+    },
+    {
+      "album": {
+        "name": "Exitos de Victor Manuelle",
+        "url": "https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327240,
+      "name": "Volver\u00e1s",
+      "url": "https://open.spotify.com/track/6rPPjEzRIHF0jUCs0xJq5K"
+    },
+    {
+      "album": {
+        "name": "Victor Manuelle (3 CD Box Set)",
+        "url": "https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304400,
+      "name": "Voy A Prometerme",
+      "url": "https://open.spotify.com/track/4i6PHN6YpJHepCIi9Z6EkT"
+    },
+    {
+      "album": {
+        "name": "V\u00edctimas las Dos",
+        "url": "https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        },
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "date_added": "2021-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257614,
+      "name": "V\u00edctimas las Dos",
+      "url": "https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX16jhUDf29DN"
 }

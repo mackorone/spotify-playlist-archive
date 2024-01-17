@@ -1,735 +1,3069 @@
 {
-  "2021-12-25": 23237,
-  "2021-12-26": 23235,
-  "2021-12-27": 23234,
-  "2021-12-28": 23234,
-  "2021-12-29": 23233,
-  "2021-12-30": 23230,
-  "2021-12-31": 23229,
-  "2022-01-01": 23224,
-  "2022-01-02": 23224,
-  "2022-01-03": 23223,
-  "2022-01-04": 23220,
-  "2022-01-05": 23220,
-  "2022-01-06": 23219,
-  "2022-01-07": 23215,
-  "2022-01-08": 23214,
-  "2022-01-09": 23214,
-  "2022-01-10": 23209,
-  "2022-01-11": 23207,
-  "2022-01-12": 23204,
-  "2022-01-13": 23204,
-  "2022-01-14": 23202,
-  "2022-01-15": 23202,
-  "2022-01-16": 23201,
-  "2022-01-17": 23200,
-  "2022-01-18": 23199,
-  "2022-01-19": 23196,
-  "2022-01-20": 23195,
-  "2022-01-21": 23192,
-  "2022-01-22": 23191,
-  "2022-01-23": 23188,
-  "2022-01-24": 23187,
-  "2022-01-25": 23185,
-  "2022-01-26": 23185,
-  "2022-01-27": 23180,
-  "2022-01-28": 23180,
-  "2022-01-29": 23176,
-  "2022-01-30": 23172,
-  "2022-01-31": 23170,
-  "2022-02-01": 23168,
-  "2022-02-02": 23165,
-  "2022-02-03": 23164,
-  "2022-02-04": 23164,
-  "2022-02-05": 23163,
-  "2022-02-06": 23161,
-  "2022-02-07": 23160,
-  "2022-02-08": 23160,
-  "2022-02-09": 23159,
-  "2022-02-10": 23159,
-  "2022-02-11": 23157,
-  "2022-02-12": 23155,
-  "2022-02-13": 23154,
-  "2022-02-14": 23153,
-  "2022-02-15": 23151,
-  "2022-02-16": 23151,
-  "2022-02-17": 23149,
-  "2022-02-18": 23147,
-  "2022-02-19": 23148,
-  "2022-02-20": 23147,
-  "2022-02-21": 23148,
-  "2022-02-22": 23147,
-  "2022-02-23": 23147,
-  "2022-02-24": 23144,
-  "2022-02-25": 23140,
-  "2022-02-26": 23136,
-  "2022-02-27": 23130,
-  "2022-02-28": 23130,
-  "2022-03-01": 23129,
-  "2022-03-02": 23127,
-  "2022-03-03": 23129,
-  "2022-03-04": 23130,
-  "2022-03-05": 23130,
-  "2022-03-06": 23132,
-  "2022-03-07": 23131,
-  "2022-03-08": 23131,
-  "2022-03-09": 23131,
-  "2022-03-10": 23128,
-  "2022-03-11": 23127,
-  "2022-03-12": 23125,
-  "2022-03-13": 23123,
-  "2022-03-14": 23122,
-  "2022-03-15": 23120,
-  "2022-03-16": 23121,
-  "2022-03-17": 23120,
-  "2022-03-18": 23118,
-  "2022-03-19": 23116,
-  "2022-03-20": 23116,
-  "2022-03-21": 23112,
-  "2022-03-22": 23112,
-  "2022-03-23": 23109,
-  "2022-03-24": 23109,
-  "2022-03-25": 23105,
-  "2022-03-26": 23104,
-  "2022-03-27": 23103,
-  "2022-03-28": 23102,
-  "2022-03-30": 23102,
-  "2022-03-31": 23100,
-  "2022-04-01": 23100,
-  "2022-04-02": 23100,
-  "2022-04-03": 23100,
-  "2022-04-04": 23100,
-  "2022-04-05": 23100,
-  "2022-04-06": 23100,
-  "2022-04-07": 23100,
-  "2022-04-08": 23100,
-  "2022-04-09": 23100,
-  "2022-04-10": 23100,
-  "2022-04-11": 23100,
-  "2022-04-12": 23100,
-  "2022-04-13": 23100,
-  "2022-04-14": 23100,
-  "2022-04-15": 23100,
-  "2022-04-16": 23100,
-  "2022-04-17": 23100,
-  "2022-04-18": 23100,
-  "2022-04-19": 23100,
-  "2022-04-20": 23100,
-  "2022-04-21": 23100,
-  "2022-04-22": 23100,
-  "2022-04-23": 23100,
-  "2022-04-24": 23100,
-  "2022-04-25": 23100,
-  "2022-04-26": 23100,
-  "2022-04-27": 23100,
-  "2022-04-28": 23100,
-  "2022-04-29": 23100,
-  "2022-04-30": 23100,
-  "2022-05-01": 23100,
-  "2022-05-02": 23100,
-  "2022-05-03": 23100,
-  "2022-05-04": 23100,
-  "2022-05-05": 23100,
-  "2022-05-06": 23100,
-  "2022-05-07": 23100,
-  "2022-05-08": 23100,
-  "2022-05-09": 23100,
-  "2022-05-10": 23100,
-  "2022-05-11": 23100,
-  "2022-05-12": 23100,
-  "2022-05-13": 23100,
-  "2022-05-14": 23100,
-  "2022-05-15": 23100,
-  "2022-05-16": 23100,
-  "2022-05-17": 23100,
-  "2022-05-18": 23100,
-  "2022-05-19": 23100,
-  "2022-05-20": 23100,
-  "2022-05-21": 23100,
-  "2022-05-22": 23100,
-  "2022-05-23": 23100,
-  "2022-05-24": 23100,
-  "2022-05-25": 23100,
-  "2022-05-26": 23100,
-  "2022-05-27": 23100,
-  "2022-05-28": 23100,
-  "2022-05-29": 23100,
-  "2022-05-30": 23100,
-  "2022-05-31": 23100,
-  "2022-06-01": 23100,
-  "2022-06-02": 23100,
-  "2022-06-03": 23100,
-  "2022-06-04": 23100,
-  "2022-06-05": 23100,
-  "2022-06-06": 23100,
-  "2022-06-07": 23100,
-  "2022-06-08": 23100,
-  "2022-06-09": 23100,
-  "2022-06-10": 23100,
-  "2022-06-11": 23100,
-  "2022-06-12": 23100,
-  "2022-06-13": 23100,
-  "2022-06-14": 23100,
-  "2022-06-15": 23100,
-  "2022-06-16": 23100,
-  "2022-06-17": 23100,
-  "2022-06-18": 23100,
-  "2022-06-19": 23100,
-  "2022-06-20": 23100,
-  "2022-06-21": 23100,
-  "2022-06-22": 23100,
-  "2022-06-23": 23100,
-  "2022-06-24": 23100,
-  "2022-06-25": 23100,
-  "2022-06-26": 23100,
-  "2022-06-27": 23100,
-  "2022-06-28": 23100,
-  "2022-06-29": 23100,
-  "2022-06-30": 23100,
-  "2022-07-01": 23100,
-  "2022-07-02": 23100,
-  "2022-07-03": 23100,
-  "2022-07-04": 23100,
-  "2022-07-05": 23100,
-  "2022-07-06": 23100,
-  "2022-07-07": 23100,
-  "2022-07-08": 23100,
-  "2022-07-09": 23100,
-  "2022-07-10": 23100,
-  "2022-07-11": 23100,
-  "2022-07-12": 23100,
-  "2022-07-13": 23100,
-  "2022-07-14": 23100,
-  "2022-07-15": 23100,
-  "2022-07-16": 23100,
-  "2022-07-17": 23100,
-  "2022-07-18": 23100,
-  "2022-07-19": 23100,
-  "2022-07-20": 23100,
-  "2022-07-21": 23100,
-  "2022-07-22": 23100,
-  "2022-07-23": 23100,
-  "2022-07-24": 23100,
-  "2022-07-25": 23100,
-  "2022-07-26": 23100,
-  "2022-07-27": 23100,
-  "2022-07-28": 23100,
-  "2022-07-29": 23100,
-  "2022-07-30": 23100,
-  "2022-07-31": 23100,
-  "2022-08-01": 23100,
-  "2022-08-02": 23100,
-  "2022-08-03": 23100,
-  "2022-08-04": 23100,
-  "2022-08-05": 23100,
-  "2022-08-06": 23100,
-  "2022-08-07": 23100,
-  "2022-08-08": 23100,
-  "2022-08-09": 23100,
-  "2022-08-10": 23100,
-  "2022-08-11": 23100,
-  "2022-08-12": 23100,
-  "2022-08-13": 23100,
-  "2022-08-14": 23100,
-  "2022-08-15": 23100,
-  "2022-08-16": 23100,
-  "2022-08-17": 23100,
-  "2022-08-18": 23100,
-  "2022-08-19": 23100,
-  "2022-08-20": 23100,
-  "2022-08-21": 23100,
-  "2022-08-22": 23100,
-  "2022-08-23": 23100,
-  "2022-08-24": 23100,
-  "2022-08-25": 23100,
-  "2022-08-26": 23100,
-  "2022-08-27": 23100,
-  "2022-08-28": 23100,
-  "2022-08-29": 23100,
-  "2022-08-30": 23100,
-  "2022-08-31": 23100,
-  "2022-09-01": 23100,
-  "2022-09-02": 23100,
-  "2022-09-03": 23100,
-  "2022-09-04": 23100,
-  "2022-09-05": 23100,
-  "2022-09-06": 23100,
-  "2022-09-07": 23100,
-  "2022-09-09": 23100,
-  "2022-09-10": 23100,
-  "2022-09-11": 23100,
-  "2022-09-12": 23100,
-  "2022-09-13": 23100,
-  "2022-09-15": 23100,
-  "2022-09-16": 23100,
-  "2022-09-17": 23100,
-  "2022-09-18": 23100,
-  "2022-09-19": 23100,
-  "2022-09-20": 23100,
-  "2022-09-21": 23100,
-  "2022-09-22": 23100,
-  "2022-09-23": 23100,
-  "2022-09-24": 23100,
-  "2022-09-25": 23100,
-  "2022-09-26": 23100,
-  "2022-09-27": 23100,
-  "2022-09-28": 23100,
-  "2022-09-29": 23100,
-  "2022-09-30": 23100,
-  "2022-10-01": 23100,
-  "2022-10-02": 23100,
-  "2022-10-03": 23100,
-  "2022-10-04": 23100,
-  "2022-10-05": 23100,
-  "2022-10-06": 23100,
-  "2022-10-07": 23100,
-  "2022-10-08": 23100,
-  "2022-10-09": 23100,
-  "2022-10-10": 23100,
-  "2022-10-11": 23100,
-  "2022-10-12": 23100,
-  "2022-10-13": 23100,
-  "2022-10-14": 23100,
-  "2022-10-15": 23100,
-  "2022-10-16": 23100,
-  "2022-10-17": 23100,
-  "2022-10-18": 23100,
-  "2022-10-19": 23100,
-  "2022-10-20": 23100,
-  "2022-10-21": 23100,
-  "2022-10-22": 23100,
-  "2022-10-23": 23100,
-  "2022-10-24": 23100,
-  "2022-10-25": 23100,
-  "2022-10-26": 23100,
-  "2022-10-27": 23100,
-  "2022-10-28": 23100,
-  "2022-10-29": 23100,
-  "2022-10-30": 23100,
-  "2022-10-31": 23100,
-  "2022-11-01": 23100,
-  "2022-11-02": 23100,
-  "2022-11-03": 23100,
-  "2022-11-04": 23100,
-  "2022-11-05": 23100,
-  "2022-11-06": 23100,
-  "2022-11-07": 23100,
-  "2022-11-08": 23100,
-  "2022-11-09": 23100,
-  "2022-11-10": 23100,
-  "2022-11-11": 23100,
-  "2022-11-12": 23100,
-  "2022-11-13": 23100,
-  "2022-11-14": 23100,
-  "2022-11-15": 23100,
-  "2022-11-16": 23100,
-  "2022-11-17": 23100,
-  "2022-11-18": 23100,
-  "2022-11-19": 23100,
-  "2022-11-20": 23100,
-  "2022-11-21": 23100,
-  "2022-11-22": 23100,
-  "2022-11-23": 23100,
-  "2022-11-24": 23100,
-  "2022-11-25": 23100,
-  "2022-11-26": 23100,
-  "2022-11-27": 23100,
-  "2022-11-28": 23100,
-  "2022-11-29": 23100,
-  "2022-11-30": 23100,
-  "2022-12-01": 23100,
-  "2022-12-02": 23100,
-  "2022-12-03": 23100,
-  "2022-12-04": 23100,
-  "2022-12-05": 23100,
-  "2022-12-06": 23100,
-  "2022-12-07": 23100,
-  "2022-12-08": 23100,
-  "2022-12-09": 23100,
-  "2022-12-10": 23100,
-  "2022-12-11": 23100,
-  "2022-12-12": 23100,
-  "2022-12-13": 23100,
-  "2022-12-14": 23100,
-  "2022-12-15": 23100,
-  "2022-12-16": 23100,
-  "2022-12-17": 23100,
-  "2022-12-18": 23100,
-  "2022-12-19": 23100,
-  "2022-12-20": 23100,
-  "2022-12-21": 23100,
-  "2022-12-22": 23100,
-  "2022-12-24": 23100,
-  "2022-12-25": 23100,
-  "2022-12-26": 23100,
-  "2022-12-27": 23100,
-  "2022-12-28": 23100,
-  "2022-12-29": 23100,
-  "2022-12-30": 23100,
-  "2022-12-31": 23100,
-  "2023-01-01": 23100,
-  "2023-01-02": 23100,
-  "2023-01-03": 23100,
-  "2023-01-04": 23100,
-  "2023-01-05": 23100,
-  "2023-01-06": 23100,
-  "2023-01-07": 23100,
-  "2023-01-08": 23100,
-  "2023-01-09": 23100,
-  "2023-01-10": 23100,
-  "2023-01-11": 23100,
-  "2023-01-12": 23100,
-  "2023-01-13": 23100,
-  "2023-01-14": 23100,
-  "2023-01-15": 23100,
-  "2023-01-16": 23100,
-  "2023-01-17": 23100,
-  "2023-01-18": 23100,
-  "2023-01-19": 23100,
-  "2023-01-20": 23100,
-  "2023-01-21": 23100,
-  "2023-01-22": 23100,
-  "2023-01-23": 23100,
-  "2023-01-24": 23100,
-  "2023-01-25": 23100,
-  "2023-01-26": 23100,
-  "2023-01-27": 23100,
-  "2023-01-28": 23100,
-  "2023-01-29": 23100,
-  "2023-01-30": 23100,
-  "2023-01-31": 23100,
-  "2023-02-01": 23100,
-  "2023-02-02": 23100,
-  "2023-02-03": 23100,
-  "2023-02-04": 23100,
-  "2023-02-05": 23100,
-  "2023-02-06": 23100,
-  "2023-02-07": 23100,
-  "2023-02-08": 23100,
-  "2023-02-09": 23100,
-  "2023-02-10": 23100,
-  "2023-02-11": 23100,
-  "2023-02-12": 23100,
-  "2023-02-13": 23100,
-  "2023-02-14": 23100,
-  "2023-02-15": 23100,
-  "2023-02-16": 23100,
-  "2023-02-17": 23100,
-  "2023-02-18": 23100,
-  "2023-02-19": 23100,
-  "2023-02-20": 23100,
-  "2023-02-21": 23100,
-  "2023-02-22": 23100,
-  "2023-02-23": 23100,
-  "2023-02-24": 23100,
-  "2023-02-25": 23100,
-  "2023-02-26": 23100,
-  "2023-02-27": 23100,
-  "2023-02-28": 23100,
-  "2023-03-01": 23100,
-  "2023-03-02": 23100,
-  "2023-03-03": 23100,
-  "2023-03-04": 23100,
-  "2023-03-05": 23100,
-  "2023-03-06": 23100,
-  "2023-03-07": 23100,
-  "2023-03-08": 23100,
-  "2023-03-09": 23100,
-  "2023-03-10": 23100,
-  "2023-03-11": 23100,
-  "2023-03-12": 23100,
-  "2023-03-13": 23100,
-  "2023-03-14": 23100,
-  "2023-03-15": 23100,
-  "2023-03-16": 23100,
-  "2023-03-17": 23100,
-  "2023-03-18": 23100,
-  "2023-03-19": 23100,
-  "2023-03-20": 23100,
-  "2023-03-21": 23100,
-  "2023-03-22": 23100,
-  "2023-03-23": 23100,
-  "2023-03-24": 23100,
-  "2023-03-25": 23100,
-  "2023-03-26": 23100,
-  "2023-03-27": 23100,
-  "2023-03-28": 23100,
-  "2023-03-29": 23100,
-  "2023-03-30": 23100,
-  "2023-03-31": 23100,
-  "2023-04-01": 23100,
-  "2023-04-02": 23100,
-  "2023-04-03": 23100,
-  "2023-04-04": 23100,
-  "2023-04-05": 23100,
-  "2023-04-06": 23100,
-  "2023-04-07": 23100,
-  "2023-04-09": 23100,
-  "2023-04-10": 23100,
-  "2023-04-11": 23100,
-  "2023-04-12": 23100,
-  "2023-04-13": 23100,
-  "2023-04-14": 23100,
-  "2023-04-15": 23100,
-  "2023-04-16": 23100,
-  "2023-04-17": 23100,
-  "2023-04-18": 23100,
-  "2023-04-19": 23100,
-  "2023-04-20": 23100,
-  "2023-04-21": 23100,
-  "2023-04-22": 23100,
-  "2023-04-23": 23100,
-  "2023-04-24": 23100,
-  "2023-04-25": 23100,
-  "2023-04-26": 23100,
-  "2023-04-27": 23100,
-  "2023-04-28": 23100,
-  "2023-04-29": 23100,
-  "2023-04-30": 23100,
-  "2023-05-01": 23100,
-  "2023-05-02": 23100,
-  "2023-05-03": 23100,
-  "2023-05-04": 23100,
-  "2023-05-05": 23100,
-  "2023-05-06": 23100,
-  "2023-05-07": 23100,
-  "2023-05-08": 23100,
-  "2023-05-09": 23100,
-  "2023-05-10": 23100,
-  "2023-05-11": 23100,
-  "2023-05-12": 23100,
-  "2023-05-13": 23100,
-  "2023-05-14": 23100,
-  "2023-05-15": 23100,
-  "2023-05-16": 23100,
-  "2023-05-17": 23100,
-  "2023-05-18": 23100,
-  "2023-05-19": 23100,
-  "2023-05-20": 23100,
-  "2023-05-21": 23100,
-  "2023-05-22": 23100,
-  "2023-05-23": 23100,
-  "2023-05-24": 23100,
-  "2023-05-25": 23100,
-  "2023-05-26": 23100,
-  "2023-05-27": 23100,
-  "2023-05-28": 23100,
-  "2023-05-29": 23100,
-  "2023-05-30": 23100,
-  "2023-05-31": 23100,
-  "2023-06-01": 23100,
-  "2023-06-02": 23100,
-  "2023-06-03": 23100,
-  "2023-06-04": 23100,
-  "2023-06-05": 23100,
-  "2023-06-06": 23100,
-  "2023-06-07": 23100,
-  "2023-06-08": 23100,
-  "2023-06-09": 23100,
-  "2023-06-10": 23100,
-  "2023-06-11": 23100,
-  "2023-06-12": 23100,
-  "2023-06-13": 23100,
-  "2023-06-14": 23100,
-  "2023-06-15": 23100,
-  "2023-06-16": 23100,
-  "2023-06-17": 23100,
-  "2023-06-18": 23100,
-  "2023-06-19": 23100,
-  "2023-06-20": 23100,
-  "2023-06-21": 23100,
-  "2023-06-22": 23100,
-  "2023-06-23": 23100,
-  "2023-06-24": 23100,
-  "2023-06-25": 23100,
-  "2023-06-26": 23100,
-  "2023-06-27": 23100,
-  "2023-06-28": 23100,
-  "2023-06-29": 23100,
-  "2023-06-30": 23100,
-  "2023-07-01": 23100,
-  "2023-07-02": 23100,
-  "2023-07-03": 23100,
-  "2023-07-04": 23100,
-  "2023-07-05": 23100,
-  "2023-07-06": 23100,
-  "2023-07-07": 23100,
-  "2023-07-08": 23100,
-  "2023-07-09": 23100,
-  "2023-07-10": 23100,
-  "2023-07-11": 23100,
-  "2023-07-12": 23100,
-  "2023-07-13": 23100,
-  "2023-07-14": 23100,
-  "2023-07-15": 23100,
-  "2023-07-16": 23100,
-  "2023-07-17": 23100,
-  "2023-07-18": 23100,
-  "2023-07-19": 23100,
-  "2023-07-20": 23100,
-  "2023-07-21": 23100,
-  "2023-07-22": 23100,
-  "2023-07-23": 23100,
-  "2023-07-24": 23100,
-  "2023-07-25": 23100,
-  "2023-07-26": 23100,
-  "2023-07-27": 23100,
-  "2023-07-28": 23100,
-  "2023-07-29": 23100,
-  "2023-07-30": 23100,
-  "2023-07-31": 23100,
-  "2023-08-01": 23100,
-  "2023-08-02": 23100,
-  "2023-08-03": 23100,
-  "2023-08-04": 23100,
-  "2023-08-05": 23100,
-  "2023-08-06": 23100,
-  "2023-08-07": 23100,
-  "2023-08-08": 23100,
-  "2023-08-09": 23100,
-  "2023-08-10": 23100,
-  "2023-08-11": 23100,
-  "2023-08-12": 23100,
-  "2023-08-13": 23100,
-  "2023-08-14": 23100,
-  "2023-08-15": 23100,
-  "2023-08-16": 23100,
-  "2023-08-17": 23100,
-  "2023-08-18": 23100,
-  "2023-08-19": 23100,
-  "2023-08-20": 23100,
-  "2023-08-21": 23100,
-  "2023-08-22": 23100,
-  "2023-08-23": 23100,
-  "2023-08-24": 23100,
-  "2023-08-25": 23100,
-  "2023-08-26": 23100,
-  "2023-08-27": 23100,
-  "2023-08-28": 23100,
-  "2023-08-29": 23100,
-  "2023-08-30": 23100,
-  "2023-08-31": 23100,
-  "2023-09-01": 23100,
-  "2023-09-02": 23100,
-  "2023-09-03": 23100,
-  "2023-09-04": 23100,
-  "2023-09-05": 23100,
-  "2023-09-06": 23100,
-  "2023-09-07": 23100,
-  "2023-09-08": 23100,
-  "2023-09-09": 23100,
-  "2023-09-10": 23100,
-  "2023-09-11": 23100,
-  "2023-09-12": 23100,
-  "2023-09-13": 23100,
-  "2023-09-14": 23100,
-  "2023-09-15": 23100,
-  "2023-09-16": 23100,
-  "2023-09-17": 23100,
-  "2023-09-18": 23100,
-  "2023-09-19": 23100,
-  "2023-09-20": 23100,
-  "2023-09-21": 23100,
-  "2023-09-22": 23100,
-  "2023-09-23": 23100,
-  "2023-09-24": 23100,
-  "2023-09-25": 23100,
-  "2023-09-26": 23100,
-  "2023-09-27": 23100,
-  "2023-09-28": 23100,
-  "2023-09-29": 23100,
-  "2023-09-30": 23100,
-  "2023-10-01": 23100,
-  "2023-10-02": 23100,
-  "2023-10-03": 23100,
-  "2023-10-04": 23100,
-  "2023-10-05": 23100,
-  "2023-10-06": 23100,
-  "2023-10-07": 23100,
-  "2023-10-08": 23100,
-  "2023-10-09": 23100,
-  "2023-10-10": 23100,
-  "2023-10-11": 23100,
-  "2023-10-12": 23100,
-  "2023-10-13": 23100,
-  "2023-10-14": 23100,
-  "2023-10-15": 23100,
-  "2023-10-16": 23100,
-  "2023-10-17": 23100,
-  "2023-10-18": 23100,
-  "2023-10-19": 23100,
-  "2023-10-20": 23100,
-  "2023-10-21": 23100,
-  "2023-10-22": 23100,
-  "2023-10-23": 23100,
-  "2023-10-24": 23100,
-  "2023-10-25": 23100,
-  "2023-10-26": 23100,
-  "2023-10-27": 23100,
-  "2023-10-28": 23100,
-  "2023-10-29": 23100,
-  "2023-10-30": 23100,
-  "2023-10-31": 23100,
-  "2023-11-01": 23100,
-  "2023-11-02": 23100,
-  "2023-11-03": 23100,
-  "2023-11-04": 23100,
-  "2023-11-05": 23100,
-  "2023-11-06": 23100,
-  "2023-11-07": 23100,
-  "2023-11-08": 23100,
-  "2023-11-09": 23100,
-  "2023-11-10": 23100,
-  "2023-11-11": 23100,
-  "2023-11-12": 23100,
-  "2023-11-13": 23100,
-  "2023-11-14": 23100,
-  "2023-11-15": 23100,
-  "2023-11-16": 23100,
-  "2023-11-17": 23100,
-  "2023-11-18": 23100,
-  "2023-11-19": 23100,
-  "2023-11-20": 23100,
-  "2023-11-21": 23100,
-  "2023-11-22": 23100,
-  "2023-11-23": 23100,
-  "2023-11-24": 23100,
-  "2023-11-25": 23100,
-  "2023-11-26": 23100,
-  "2023-11-27": 23100,
-  "2023-11-28": 23100,
-  "2023-11-29": 23100,
-  "2023-11-30": 23100,
-  "2023-12-01": 23100,
-  "2023-12-02": 23100,
-  "2023-12-03": 23100,
-  "2023-12-04": 23100,
-  "2023-12-05": 23100,
-  "2023-12-06": 23100,
-  "2023-12-07": 23100,
-  "2023-12-08": 23100,
-  "2023-12-09": 23100,
-  "2023-12-10": 23100,
-  "2023-12-11": 23100,
-  "2023-12-12": 23100,
-  "2023-12-13": 23100,
-  "2023-12-14": 23100,
-  "2023-12-15": 23100,
-  "2023-12-16": 23100,
-  "2023-12-17": 23100,
-  "2023-12-18": 23100,
-  "2023-12-19": 23100,
-  "2023-12-20": 23100,
-  "2023-12-21": 23100,
-  "2023-12-22": 23100,
-  "2023-12-23": 23100,
-  "2023-12-24": 23100,
-  "2023-12-25": 23100,
-  "2023-12-26": 23100,
-  "2023-12-27": 23100,
-  "2023-12-30": 23100,
-  "2023-12-31": 23100,
-  "2024-01-01": 23100,
-  "2024-01-02": 23100,
-  "2024-01-03": 23100
+  "2024-01-17": 23100,
+  "date_first_scraped": "2021-12-21",
+  "description": "Selections of modern and contemporary poetry, featuring readings from the poets themselves.",
+  "name": "Modern Poetry",
+  "tracks": [
+    {
+      "album": {
+        "name": "Waste Land",
+        "url": "https://open.spotify.com/album/0PfF3JEc1Oc0EzlsmjGDYA"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322063,
+      "name": "A Game Of Chess",
+      "url": "https://open.spotify.com/track/73XkwVE0OsW3YMeWf6qM6O"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112546,
+      "name": "After a Journey",
+      "url": "https://open.spotify.com/track/3hzRpahSvieJlQSW0p6zV7"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51173,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/3PPBs1Sk0MCan8Ifl4lfem"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "An Old Man's Winter Night",
+      "url": "https://open.spotify.com/track/3xxd1UwCCUnxRHIgsFDxXe"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Bishop",
+          "url": "https://open.spotify.com/artist/1BEiAzRZazeztTZJRUN8Lp"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71400,
+      "name": "Anaphora",
+      "url": "https://open.spotify.com/track/6cjXCrgjif0xnrqSyorlot"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Lenore Marshall",
+          "url": "https://open.spotify.com/artist/2svbncjBDEs3nRku3D9w5t"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130960,
+      "name": "As Though from Love",
+      "url": "https://open.spotify.com/track/7vZXDcSrJRsKutnz2Xt1kQ"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315000,
+      "name": "At Casterbridge Fair",
+      "url": "https://open.spotify.com/track/2ZomVopbL45N5ZuS7w1ypG"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "At Castle Boterel",
+      "url": "https://open.spotify.com/track/4Um45h28lWO1R7o15OT6Vu"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Max Eastman",
+          "url": "https://open.spotify.com/artist/6FPQvJFDs7I4KbBepOyn1V"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62760,
+      "name": "At the Aquarium",
+      "url": "https://open.spotify.com/track/46Ya8CbMBqRkJKst96MN5r"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57080,
+      "name": "Bantams in Pine-Woods",
+      "url": "https://open.spotify.com/track/6kNLm982bqLOETbZp2JmlH"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128746,
+      "name": "Baroque Comment",
+      "url": "https://open.spotify.com/track/2btqU6ZfMZLFdG1LfaIxnv"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97506,
+      "name": "Bavarian Gentians",
+      "url": "https://open.spotify.com/track/4WZ9aVb7emuZ31EdUyIKoM"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59893,
+      "name": "Bell Tower",
+      "url": "https://open.spotify.com/track/6HyZdETQhnLdsDLwFHhVjo"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "Beyond the Last Lamp",
+      "url": "https://open.spotify.com/track/78t4NEoJpEFh9rj1tKhd2p"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot Reads Four Quartets",
+        "url": "https://open.spotify.com/album/5zu1S1rcwh7yTyDRgCQYfE"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 649449,
+      "name": "Burnt Norton",
+      "url": "https://open.spotify.com/track/2S0PJdSs03xiSwa0sD0rGj"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55173,
+      "name": "Caliban in the Cool Mines",
+      "url": "https://open.spotify.com/track/1520pSg4xlLGyhctQmpFRl"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Ezra Pound",
+          "url": "https://open.spotify.com/artist/7H9atz4eK2ZD8tKLfI2jV0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474640,
+      "name": "Canto #106",
+      "url": "https://open.spotify.com/track/5lhS5w5Aq3pGJLBzBbtugR"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Ezra Pound",
+          "url": "https://open.spotify.com/artist/7H9atz4eK2ZD8tKLfI2jV0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Canto #3",
+      "url": "https://open.spotify.com/track/3zVOXpIE9A1Bp92BHiKiX0"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Ezra Pound",
+          "url": "https://open.spotify.com/artist/7H9atz4eK2ZD8tKLfI2jV0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196986,
+      "name": "Canto #38",
+      "url": "https://open.spotify.com/track/3qpDg3NeQ23ZZveO1dVDqU"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51013,
+      "name": "Cassandra",
+      "url": "https://open.spotify.com/track/2UWwBIrCrFrki91Mk0ShsU"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Channel Firing",
+      "url": "https://open.spotify.com/track/0bSSiPHVfgcsgtk2aH2lJ6"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47826,
+      "name": "City Trees",
+      "url": "https://open.spotify.com/track/3Q8nH5c6iiDr9f7myrgWhB"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81506,
+      "name": "Come Sleep",
+      "url": "https://open.spotify.com/track/1iCH0cj2lLBvLtHgTSShiA"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42493,
+      "name": "Complaint",
+      "url": "https://open.spotify.com/track/62dMjsp4CprQRKfMkeGl3s"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145186,
+      "name": "Country Summer",
+      "url": "https://open.spotify.com/track/1WgCLipNXwSXXJzT4Jahcp"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101186,
+      "name": "Dedication for a Plot of Ground",
+      "url": "https://open.spotify.com/track/6oUTeXdtYtORrECiRm5JCj"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Muriel Rukeyser",
+          "url": "https://open.spotify.com/artist/0HGsXybaRHHMajJd88bsZ6"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94960,
+      "name": "Despisals",
+      "url": "https://open.spotify.com/track/1dBIzhbY45KTC7Vi0Ok1gU"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "Directive",
+      "url": "https://open.spotify.com/track/5c9fC1QZJaUXKIL42c6kj0"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97533,
+      "name": "Do Not Go Gentle Into That Good Night",
+      "url": "https://open.spotify.com/track/5JWZMzGYCkuOOgvVAtC3oW"
+    },
+    {
+      "album": {
+        "name": "Diversions, Vol. 4: The Songs and Poems of Molly Drake - Extras",
+        "url": "https://open.spotify.com/album/2Q69Zt8V02nzWNTtmx3jCz"
+      },
+      "artists": [
+        {
+          "name": "The Unthanks",
+          "url": "https://open.spotify.com/artist/1luY92PbdGWRyBRY1ZR7o1"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22720,
+      "name": "Dog on the Wheel",
+      "url": "https://open.spotify.com/track/1csoiYk7bt1eMnu072khRu"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot Reads Four Quartets",
+        "url": "https://open.spotify.com/album/5zu1S1rcwh7yTyDRgCQYfE"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 829866,
+      "name": "East Coker",
+      "url": "https://open.spotify.com/track/0rfa67paI6ph8pXut3pWRo"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10786,
+      "name": "El Hombre",
+      "url": "https://open.spotify.com/track/7mI4O5iEO8Ws9tyHWGw7zZ"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72493,
+      "name": "Elaine",
+      "url": "https://open.spotify.com/track/3uy974x5XveHiBHLCyks66"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Epistle to Be Left in the Earth",
+      "url": "https://open.spotify.com/track/7DCFP487V8ugGInuljuo5H"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Max Eastman",
+          "url": "https://open.spotify.com/artist/6FPQvJFDs7I4KbBepOyn1V"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45693,
+      "name": "Epitaph",
+      "url": "https://open.spotify.com/track/4Eu00KLypcMtQLdhq5bsZY"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47626,
+      "name": "Fabliau of Florida",
+      "url": "https://open.spotify.com/track/6brugohpmZkK6N2FkouKDb"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78906,
+      "name": "Fatal Interview: Sonnet LII",
+      "url": "https://open.spotify.com/track/5RQvU4tEQvi2qMvPPRM1a4"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83951,
+      "name": "Fatal Interview: Sonnet XI",
+      "url": "https://open.spotify.com/track/2ALjYTnVOy0LINGcpm0LqA"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71693,
+      "name": "Fatal Interview: Sonnet XXXVIII",
+      "url": "https://open.spotify.com/track/125jkO66tt3hHwEKhlX62B"
+    },
+    {
+      "album": {
+        "name": "A Lover's Gift: From Him To Her",
+        "url": "https://open.spotify.com/album/4snC32Pmnq0AJeGvLaGvMq"
+      },
+      "artists": [
+        {
+          "name": "Michael Sheen",
+          "url": "https://open.spotify.com/artist/1vGT1ARFxsjCIuv8RsLJw7"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303226,
+      "name": "Fidelity (D.H. Lawrence)",
+      "url": "https://open.spotify.com/track/0MzjNOd0Q4JOM1pyGGSCeI"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297145,
+      "name": "Figs",
+      "url": "https://open.spotify.com/track/4z14NeR5eUvshLwXaVnPGX"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Stein",
+          "url": "https://open.spotify.com/artist/6sURQaIOh6xzO473N3qMai"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52168,
+      "name": "From a Portrait of Christian B\u00e9rard",
+      "url": "https://open.spotify.com/track/2kqzp0HLpAnJ7lwkelHM0g"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Stein",
+          "url": "https://open.spotify.com/artist/6sURQaIOh6xzO473N3qMai"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221902,
+      "name": "From a Valentine to Sherwood Anderson",
+      "url": "https://open.spotify.com/track/1C8yJUe2wrBQDkZ0ql15t8"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "H.D.",
+          "url": "https://open.spotify.com/artist/4fwzt2MvWIlhqKJiTD7KnS"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392680,
+      "name": "From Helen in Pallinode, Books I and III",
+      "url": "https://open.spotify.com/track/3NafSfa9IvEgR3r5puOStY"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Stein",
+          "url": "https://open.spotify.com/artist/6sURQaIOh6xzO473N3qMai"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162924,
+      "name": "From Matisse",
+      "url": "https://open.spotify.com/track/544yrtWI5KsjWpC9p26Hvz"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Geography of This Time",
+      "url": "https://open.spotify.com/track/6bzrWMgsI3CEL77TrAvgMb"
+    },
+    {
+      "album": {
+        "name": "DH Lawrence - Poetry Of",
+        "url": "https://open.spotify.com/album/2tTuieQ1aZLZQuqsej8aOk"
+      },
+      "artists": [
+        {
+          "name": "D. H. Lawrence",
+          "url": "https://open.spotify.com/artist/1ESD4tXVynO0mC74bwJgr9"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68243,
+      "name": "Gloire De Dijon",
+      "url": "https://open.spotify.com/track/3hvBxLzR10H0BhpXgBKbp6"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131760,
+      "name": "Grapes Making",
+      "url": "https://open.spotify.com/track/1ci7qBXARnebpG8qELe8th"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72520,
+      "name": "Great Things",
+      "url": "https://open.spotify.com/track/1CqaLlp7N8NlkEhUsSma0m"
+    },
+    {
+      "album": {
+        "name": "Hear Great Poets Read: Tennyson, Browning, Whitman, Yeats, Frost, Sandburg, Stevens, Eliot, Williams, H.D., Jeffers, Ransom",
+        "url": "https://open.spotify.com/album/5kUXAsszpSHNhLYQdOMR1M"
+      },
+      "artists": [
+        {
+          "name": "H.D.",
+          "url": "https://open.spotify.com/artist/4fwzt2MvWIlhqKJiTD7KnS"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "H.D. - from Helen in Egypt",
+      "url": "https://open.spotify.com/track/7ecaMqi5gtgsN22c6PttrB"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70306,
+      "name": "Hands",
+      "url": "https://open.spotify.com/track/1NavBo5d2WvNMSj7UzFttN"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Thomas Hardy",
+        "url": "https://open.spotify.com/album/6Uv16eMLi1xRgshZCPFuBq"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52813,
+      "name": "Hap",
+      "url": "https://open.spotify.com/track/3KuFvUruqbwQyuEEUdxoYm"
+    },
+    {
+      "album": {
+        "name": "Charles Olson Reads from Maximus Poems IV, V, VI",
+        "url": "https://open.spotify.com/album/2KoO0DWsVWSt15hk4TybqL"
+      },
+      "artists": [
+        {
+          "name": "Charles Olson",
+          "url": "https://open.spotify.com/artist/1fC9A3xwdrLvnAGydh8Ehy"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97813,
+      "name": "Harbour / Kent Circle / Swung / J.W.",
+      "url": "https://open.spotify.com/track/35OhOxiVBk6aHetmi1Msl9"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94800,
+      "name": "Henceforth",
+      "url": "https://open.spotify.com/track/01Dv8STljMcHwmsmAoWtBe"
+    },
+    {
+      "album": {
+        "name": "Charles Olson Reads from Maximus Poems IV, V, VI",
+        "url": "https://open.spotify.com/album/2KoO0DWsVWSt15hk4TybqL"
+      },
+      "artists": [
+        {
+          "name": "Charles Olson",
+          "url": "https://open.spotify.com/artist/1fC9A3xwdrLvnAGydh8Ehy"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29986,
+      "name": "Her Stern Like a Box / Anacoluthic and Drag",
+      "url": "https://open.spotify.com/track/4ovnMg0BnaHnysFF1GJvwk"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Babette Deutsch",
+          "url": "https://open.spotify.com/artist/3y2dcgGssIzQSYQzxqfeBw"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285146,
+      "name": "Homage to John Skelton",
+      "url": "https://open.spotify.com/track/0xhEyurErZOitCrJkavyfL"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Babette Deutsch",
+          "url": "https://open.spotify.com/artist/3y2dcgGssIzQSYQzxqfeBw"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92680,
+      "name": "Homage to Paul Klee",
+      "url": "https://open.spotify.com/track/7c33wleADXjcpo0SsaHw1h"
+    },
+    {
+      "album": {
+        "name": "Readings from D.H. Lawrence: Selected and Read by Harry T. Moore",
+        "url": "https://open.spotify.com/album/0s5gig6J8cPBfEgaeInBLC"
+      },
+      "artists": [
+        {
+          "name": "Harry T. Moore",
+          "url": "https://open.spotify.com/artist/2xPbetxOuRLmWI5qJmtdoa"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111520,
+      "name": "How Beastly the Bourgeois Is",
+      "url": "https://open.spotify.com/track/1oDgAAECQAbWEny5BBBvyO"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71734,
+      "name": "How To Be Married Without A Spouse, Or Mr. Kipling, What Have You Done With Mrs. Hauksbee?",
+      "url": "https://open.spotify.com/track/5vnkk4E0Z8j9QDea1EJGLe"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Ezra Pound",
+          "url": "https://open.spotify.com/artist/7H9atz4eK2ZD8tKLfI2jV0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297306,
+      "name": "Hugh Selwyn Mauberley (Excerpt)",
+      "url": "https://open.spotify.com/track/4eYKULsFYNdZVI1IGFTj0L"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78853,
+      "name": "I Found Her Out There",
+      "url": "https://open.spotify.com/track/11sH9qdFgIXJ2zXdQXrnVF"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Gertrude Stein",
+          "url": "https://open.spotify.com/artist/6sURQaIOh6xzO473N3qMai"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217099,
+      "name": "If I Told Him: A Complete Portrait of Picasso",
+      "url": "https://open.spotify.com/track/0TIuUlMKTPKVCHm7zeGMi5"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96013,
+      "name": "Imago",
+      "url": "https://open.spotify.com/track/6eCLlWcMISPR6kLizbUaVH"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "In Distrust of Merits",
+      "url": "https://open.spotify.com/track/7sfIL9W4eyvdV0B6GSqHUI"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293213,
+      "name": "In Distrust of Merits, From the Fables of La Fontaine",
+      "url": "https://open.spotify.com/track/3JLfAqAM6m4kIr5FVaSg8p"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61080,
+      "name": "In My Craft or Sullen Art",
+      "url": "https://open.spotify.com/track/56NEH1rR3mF8bRBChmuXjX"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26186,
+      "name": "In Sisterly Fashion",
+      "url": "https://open.spotify.com/track/2LpI7B5FkxJ8OtLfnI5PMo"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65013,
+      "name": "In Tenebris I",
+      "url": "https://open.spotify.com/track/2ACAoM0EDYqFYT0gcX6vJ5"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "In The Servants' Quarters",
+      "url": "https://open.spotify.com/track/7e7L2CgsWMKjJDIXE05cEp"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61506,
+      "name": "In The Study",
+      "url": "https://open.spotify.com/track/5tX9u1pCWdlsPECQRF4hVt"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Muriel Rukeyser",
+          "url": "https://open.spotify.com/artist/0HGsXybaRHHMajJd88bsZ6"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97253,
+      "name": "In Your Time",
+      "url": "https://open.spotify.com/track/6LBCeADfabZsvpQly04FMa"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47680,
+      "name": "Indian River",
+      "url": "https://open.spotify.com/track/66hQb3fR1oRCyN5z2HgpAn"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82320,
+      "name": "Infanta Marina",
+      "url": "https://open.spotify.com/track/2iviISK49CCkaCwAZHGRPl"
+    },
+    {
+      "album": {
+        "name": "Charles Olson Reads from Maximus Poems IV, V, VI",
+        "url": "https://open.spotify.com/album/2KoO0DWsVWSt15hk4TybqL"
+      },
+      "artists": [
+        {
+          "name": "Charles Olson",
+          "url": "https://open.spotify.com/artist/1fC9A3xwdrLvnAGydh8Ehy"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133093,
+      "name": "Into the Stream, Gloucester / The Frontlet / To Enter Into Their Bodies",
+      "url": "https://open.spotify.com/track/6WLLoSitKHJg6mBdolI2UX"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Lenore Marshall",
+          "url": "https://open.spotify.com/artist/2svbncjBDEs3nRku3D9w5t"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92853,
+      "name": "Invented a Person",
+      "url": "https://open.spotify.com/track/1SQrvdJfjOpigAoFoEHgZd"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48146,
+      "name": "Irony",
+      "url": "https://open.spotify.com/track/2RuhPonnllx7TuuLhePMkG"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101626,
+      "name": "Italian Morning",
+      "url": "https://open.spotify.com/track/6NTET9Ircr03z7UQRsWtkf"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79733,
+      "name": "Kept",
+      "url": "https://open.spotify.com/track/2ZRDX59VPFyc5dtiHFWjIv"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85840,
+      "name": "La Figlia Che Piange",
+      "url": "https://open.spotify.com/track/6ssSrAbD9PxFdfRCbGhiHv"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49466,
+      "name": "Landscapes, Cape Ann",
+      "url": "https://open.spotify.com/track/7sMuhAah9f3L9iVPhoZWBV"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165520,
+      "name": "Landscapes, East Coker",
+      "url": "https://open.spotify.com/track/6w0Mv1oLH1dvfsL5kQd6MK"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56546,
+      "name": "Landscapes, New Hampshire",
+      "url": "https://open.spotify.com/track/1CRXcZshGRLjOuZCUpiS9G"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65346,
+      "name": "Landscapes, Rannoch by Glencoe",
+      "url": "https://open.spotify.com/track/2BPusc5L3AOYIZhbRdyHUe"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49960,
+      "name": "Landscapes, Usk",
+      "url": "https://open.spotify.com/track/3p7v3txQHmwatwKqcHj3Qt"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45493,
+      "name": "Landscapes, Virginia",
+      "url": "https://open.spotify.com/track/3lCi5J5Ee1EoMSj6kpKUSa"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Bishop",
+          "url": "https://open.spotify.com/artist/1BEiAzRZazeztTZJRUN8Lp"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33240,
+      "name": "Late Air",
+      "url": "https://open.spotify.com/track/4tMRfkavPuLWHjnh8YXvNI"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Lenore Marshall",
+          "url": "https://open.spotify.com/artist/2svbncjBDEs3nRku3D9w5t"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166360,
+      "name": "Latest Will",
+      "url": "https://open.spotify.com/track/71vQCVDX8LPr9nNNziapQR"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109066,
+      "name": "Less and Less Human",
+      "url": "https://open.spotify.com/track/5AHJehO7o20pmi91QmwGJ9"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50453,
+      "name": "Let Me Enjoy",
+      "url": "https://open.spotify.com/track/0weulSLhd2SNhcJMBuIgNo"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Light at Equinox",
+      "url": "https://open.spotify.com/track/5LX2BA08o1VwVB6wPjNdKX"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot Reads Four Quartets",
+        "url": "https://open.spotify.com/album/5zu1S1rcwh7yTyDRgCQYfE"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1002000,
+      "name": "Little Gidding",
+      "url": "https://open.spotify.com/track/1PgQ7u7NIMBv5CaR4v6hR7"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40680,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0fhcBGpxGXPYDT108700Ny"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97213,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/0pG1ZwVBQRtHbO6AiiiOAj"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85224,
+      "name": "Medusa And The Mot Juste",
+      "url": "https://open.spotify.com/track/7z8izdWzJ5AV0t2RAyzPBh"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57626,
+      "name": "Named Exquisite",
+      "url": "https://open.spotify.com/track/2X5ay7dD3CuQcrYBB8mtie"
+    },
+    {
+      "album": {
+        "name": "The Poetry Of Thomas Hardy",
+        "url": "https://open.spotify.com/album/6Uv16eMLi1xRgshZCPFuBq"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45506,
+      "name": "Neutral Tones",
+      "url": "https://open.spotify.com/track/5lcHLtAz6V46dWgzCYnb79"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102480,
+      "name": "Old Furniture",
+      "url": "https://open.spotify.com/track/4gkFgsOb7ttEYXAxalhFUe"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67133,
+      "name": "On Looking up by Chance at the Constellations",
+      "url": "https://open.spotify.com/track/52jaBjFENKKHgdNIfjM6qx"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102866,
+      "name": "Paterson: The Falls",
+      "url": "https://open.spotify.com/track/3kbSRuMLKulmzK360A3uMA"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "E.E. Cummings",
+          "url": "https://open.spotify.com/artist/7jZ1ZWDGgv2Q1RNIS7U8CQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70013,
+      "name": "Pity This Busy Monster, Manunkind, Not",
+      "url": "https://open.spotify.com/track/3qIAV8TvpP3eezrzlN7Ptf"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Poem in October",
+      "url": "https://open.spotify.com/track/4LxRIopKR9Q4mRlLkUR4e9"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Pole Star",
+      "url": "https://open.spotify.com/track/1WzYhJESJRI0NvOr7M8JKI"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73000,
+      "name": "Portrait of a Woman in Bed",
+      "url": "https://open.spotify.com/track/3qHLvruAWWvsgHLYkvLua6"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110639,
+      "name": "Portrait Of The Artist As A Prematurely Old Man",
+      "url": "https://open.spotify.com/track/64goMsXJpQGWWl3HK7mX44"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73120,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/0LkLbQrNcNbhbj0sm1jcK6"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67160,
+      "name": "Primrose",
+      "url": "https://open.spotify.com/track/4XPY9IkWVF1nc7ptXMZmbo"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "E.E. Cummings",
+          "url": "https://open.spotify.com/artist/7jZ1ZWDGgv2Q1RNIS7U8CQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67613,
+      "name": "Rain or Hail",
+      "url": "https://open.spotify.com/track/7JXKNh7yO0LKIzO2a5bYMZ"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Edna St. Vincent Millay",
+          "url": "https://open.spotify.com/artist/0CDolB6auhvott1yKVqkRP"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96200,
+      "name": "Recuerdo",
+      "url": "https://open.spotify.com/track/0fvQ9gyjLg0EvqaUIE9EP0"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81066,
+      "name": "Reminiscences of a Dancing Man",
+      "url": "https://open.spotify.com/track/4CB1ch6jwm4OZrMvlScJUD"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Lenore Marshall",
+          "url": "https://open.spotify.com/artist/2svbncjBDEs3nRku3D9w5t"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115653,
+      "name": "Shadow and Answer",
+      "url": "https://open.spotify.com/track/0o8oPRuJBJPdDlk7W5gAj7"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52546,
+      "name": "She Charged Me",
+      "url": "https://open.spotify.com/track/6TvUpG7jz2ozWNtNDpxycJ"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72773,
+      "name": "Shut Out That Moon",
+      "url": "https://open.spotify.com/track/1poG4SG7bCy9odMW5Tt8Lf"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54533,
+      "name": "Sonet: 1909",
+      "url": "https://open.spotify.com/track/1qNHGe4WEzToCjov2iJkEl"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83786,
+      "name": "Song for a Lyre",
+      "url": "https://open.spotify.com/track/6d0OybLc1JwzNWeidR2Nd5"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91344,
+      "name": "Song For A Temperature Of A Hundred And One",
+      "url": "https://open.spotify.com/track/6qNafiWJnR7MvIHfXTrTgT"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102266,
+      "name": "Song Tournament, New Style",
+      "url": "https://open.spotify.com/track/5fanHEexUwpwGqvW50y6Xp"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "E.E. Cummings",
+          "url": "https://open.spotify.com/artist/7jZ1ZWDGgv2Q1RNIS7U8CQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57000,
+      "name": "Spring is Like a Perhaps Hand",
+      "url": "https://open.spotify.com/track/1jHz87H0HbljSCl4xlrEWI"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69413,
+      "name": "Spring Strains",
+      "url": "https://open.spotify.com/track/0GScvv1ovoSwnUm7XpK3NB"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Babette Deutsch",
+          "url": "https://open.spotify.com/artist/3y2dcgGssIzQSYQzxqfeBw"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125320,
+      "name": "Stranger Than the Worst",
+      "url": "https://open.spotify.com/track/05p6qrEeAyn2MaoT8r4SzM"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Adams",
+          "url": "https://open.spotify.com/artist/6TcXh7C0sFnXN9X8unr6cQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77640,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/7fBpH34WSimi0pKaa64ZbQ"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111346,
+      "name": "Sweeney Among the Nightingales",
+      "url": "https://open.spotify.com/track/4J1RX5r0HBkxt2yx1OkkLV"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47346,
+      "name": "Sympathetic Portrait of a Child",
+      "url": "https://open.spotify.com/track/7AfxWpncP0vvZSyIntMjn3"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55939,
+      "name": "The Alchemist",
+      "url": "https://open.spotify.com/track/274ERr7MTmAwkdWS4dBZ3Y"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "Muriel Rukeyser",
+          "url": "https://open.spotify.com/artist/0HGsXybaRHHMajJd88bsZ6"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164773,
+      "name": "The Ballad of Orange and Grape",
+      "url": "https://open.spotify.com/track/4goha5h3TarebUO1j7QPva"
+    },
+    {
+      "album": {
+        "name": "Waste Land",
+        "url": "https://open.spotify.com/album/0PfF3JEc1Oc0EzlsmjGDYA"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298919,
+      "name": "The Burial Of The Dead",
+      "url": "https://open.spotify.com/track/0XDU9edF02srhj62PVNYj2"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40053,
+      "name": "The Cold Night",
+      "url": "https://open.spotify.com/track/0QsuECGTBf3RvAlpdy6gWG"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51786,
+      "name": "The Daemon",
+      "url": "https://open.spotify.com/track/4Zys7skAUqOmq8SirlGV7Q"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38466,
+      "name": "The Dance",
+      "url": "https://open.spotify.com/track/6WsIFKNhfjVHFB0sviIaKG"
+    },
+    {
+      "album": {
+        "name": "Charles Olson Reads from Maximus Poems IV, V, VI",
+        "url": "https://open.spotify.com/album/2KoO0DWsVWSt15hk4TybqL"
+      },
+      "artists": [
+        {
+          "name": "Charles Olson",
+          "url": "https://open.spotify.com/artist/1fC9A3xwdrLvnAGydh8Ehy"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24440,
+      "name": "The Difference / The Cormorant and Spindle / Absoluteness",
+      "url": "https://open.spotify.com/track/4oDNu5zY31jZbp6mR4Xw5K"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111906,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6uy4IBobOWMdifeq3r9Ov1"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot Reads Four Quartets",
+        "url": "https://open.spotify.com/album/5zu1S1rcwh7yTyDRgCQYfE"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 887610,
+      "name": "The Dry Salvages",
+      "url": "https://open.spotify.com/track/7ko5HYubS8SlGPd0rzfs0z"
+    },
+    {
+      "album": {
+        "name": "Waste Land",
+        "url": "https://open.spotify.com/album/0PfF3JEc1Oc0EzlsmjGDYA"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 519497,
+      "name": "The Fire Sermon And Death By Water",
+      "url": "https://open.spotify.com/track/2e1GcvFpocGJqHjgh3jnE5"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth Bishop",
+          "url": "https://open.spotify.com/artist/1BEiAzRZazeztTZJRUN8Lp"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "The Fish",
+      "url": "https://open.spotify.com/track/3711kwnnsCsCatYDccXrtS"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46653,
+      "name": "The Hounded Lovers",
+      "url": "https://open.spotify.com/track/0xF8LW9xoCmzXs7BnXA0yl"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94080,
+      "name": "The Meeting",
+      "url": "https://open.spotify.com/track/4aKYoGfbgx7WQ6AjhRf4Oe"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70760,
+      "name": "The Most of It",
+      "url": "https://open.spotify.com/track/3lKlTc2aRwGXRN3yvs52Ro"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363586,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/7xpuD82iVr0eL05UDdfiEb"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Wallace Stevens",
+          "url": "https://open.spotify.com/artist/0R2CSw4gwYXcntoB1cLji0"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266173,
+      "name": "The Novel",
+      "url": "https://open.spotify.com/track/36hVp3rETpWYlVCfdFGM1B"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81653,
+      "name": "The Phantom Horsewoman",
+      "url": "https://open.spotify.com/track/3hGDhVlBR3OFaDOLSLh5iQ"
+    },
+    {
+      "album": {
+        "name": "100 Great Poems - Classic Poets & Beatnik Freaks",
+        "url": "https://open.spotify.com/album/2L6y5UovMqxFSVnC0sCRWo"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15800,
+      "name": "The Red Wheelbarrow",
+      "url": "https://open.spotify.com/track/5ESQTt9ZQYMm0Og1IUi2cW"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Robert Frost",
+          "url": "https://open.spotify.com/artist/2zS12JIrOOKjV4MNYgREVW"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62773,
+      "name": "The Road Not Taken",
+      "url": "https://open.spotify.com/track/4pVznb6hGGISOqJtrVl3GC"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62760,
+      "name": "The Seafarer",
+      "url": "https://open.spotify.com/track/6YhWpuEVzkGVxnrtY6cUjH"
+    },
+    {
+      "album": {
+        "name": "Reads a Personal Anthology",
+        "url": "https://open.spotify.com/album/1VQYl385wf7ztPo3ITSKSK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483266,
+      "name": "The Ship of Death (D.H. Lawrence)",
+      "url": "https://open.spotify.com/track/1zyedK3cscXb48zrx9Imit"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Muriel Rukeyser",
+          "url": "https://open.spotify.com/artist/0HGsXybaRHHMajJd88bsZ6"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24960,
+      "name": "The Sixth Night: Waiting",
+      "url": "https://open.spotify.com/track/0niOmiCalbTNSyz1mdyeZL"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259093,
+      "name": "The Souls of the Slain",
+      "url": "https://open.spotify.com/track/5aEa9on1QKtqLbUIZ4Sn5P"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124320,
+      "name": "The Spanish Lie",
+      "url": "https://open.spotify.com/track/2FsOmiWcBG9Wsmx5XG4hdN"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64284,
+      "name": "The Strange Case Of Mr. Ormantude's Bride",
+      "url": "https://open.spotify.com/track/3wc0fR7DF7Zmb4McRi3x0r"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "The Sunshade",
+      "url": "https://open.spotify.com/track/6XIJlw5zQF93NoStefh8c7"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45626,
+      "name": "The Two Priests",
+      "url": "https://open.spotify.com/track/08lYYLwBb0NkSCKa6rQ2Jd"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55866,
+      "name": "The Voice",
+      "url": "https://open.spotify.com/track/7LhXXDkZR1Wg02Umu5LAmw"
+    },
+    {
+      "album": {
+        "name": "T.S. Eliot, Louis Untermeyer & Wallace Stevens Read Their Poems",
+        "url": "https://open.spotify.com/album/5fpbXZl4uOWbhlc63Bzj8A"
+      },
+      "artists": [
+        {
+          "name": "Louis Untermeyer",
+          "url": "https://open.spotify.com/artist/4EvJloPitUn0DBAcMhzbRR"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70653,
+      "name": "The Wise Woman",
+      "url": "https://open.spotify.com/track/0inP13wx7jpsXHw9UZabnc"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74906,
+      "name": "The Wolf and the Stork",
+      "url": "https://open.spotify.com/track/4zUh5vMS4Pn3hYeX16tF3t"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118026,
+      "name": "The Woods and the Woodsman",
+      "url": "https://open.spotify.com/track/7pk5MekUidECqyMf8yz48n"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26466,
+      "name": "The World Narrowed to a Point",
+      "url": "https://open.spotify.com/track/78Rj1p56XuWEZxOQNGeNxR"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35506,
+      "name": "The Young Housewife",
+      "url": "https://open.spotify.com/track/73Nwn4BggFD6L81wWTyJmV"
+    },
+    {
+      "album": {
+        "name": "Pleasure Dome: Audible Modern Poetry Read by its Creators",
+        "url": "https://open.spotify.com/album/6TTA2pOc7mXC5Wp2BlZvea"
+      },
+      "artists": [
+        {
+          "name": "E.E. Cummings",
+          "url": "https://open.spotify.com/artist/7jZ1ZWDGgv2Q1RNIS7U8CQ"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59693,
+      "name": "This Little Bride and Groom",
+      "url": "https://open.spotify.com/track/26NG3Rr4gCBeKiLmTaIUIR"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94920,
+      "name": "Timing Her",
+      "url": "https://open.spotify.com/track/4DrWVMaaMv2tAmPRYpIwCE"
+    },
+    {
+      "album": {
+        "name": "William Carlos Williams Reads His Poems",
+        "url": "https://open.spotify.com/album/4WxL0FD4GUGF1w7coJ1Fi3"
+      },
+      "artists": [
+        {
+          "name": "William Carlos Williams",
+          "url": "https://open.spotify.com/artist/0CfIWtnGtdyFGbHrMMZ5uL"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153533,
+      "name": "To Elsie",
+      "url": "https://open.spotify.com/track/7z2eVV092w8erq8Cymz5xq"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94493,
+      "name": "To My Brother (Killed: Haumont Wood: October 1918)",
+      "url": "https://open.spotify.com/track/0GUb4AH2KmmEaoFQCQv7sh"
+    },
+    {
+      "album": {
+        "name": "Robert Frost, Edgar Lee Masters, Carl Sandburg & Max Eastman Read Their Poems",
+        "url": "https://open.spotify.com/album/4M6kbLCGzNFwEdlRfnyrzn"
+      },
+      "artists": [
+        {
+          "name": "Max Eastman",
+          "url": "https://open.spotify.com/artist/6FPQvJFDs7I4KbBepOyn1V"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72066,
+      "name": "Too Many People",
+      "url": "https://open.spotify.com/track/39bv58ghWILTbAJeMPp5Lw"
+    },
+    {
+      "album": {
+        "name": "Diversions, Vol. 4: The Songs and Poems of Molly Drake - Extras",
+        "url": "https://open.spotify.com/album/2Q69Zt8V02nzWNTtmx3jCz"
+      },
+      "artists": [
+        {
+          "name": "The Unthanks",
+          "url": "https://open.spotify.com/artist/1luY92PbdGWRyBRY1ZR7o1"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111013,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/47NwTKgULbnTbfMCUH7R9Y"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50720,
+      "name": "Voracities and Verities",
+      "url": "https://open.spotify.com/track/3YEJuXWFlYUUJa8knPYePB"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46000,
+      "name": "Weathers",
+      "url": "https://open.spotify.com/track/4O6g3gqphhor5uCHE0KkMT"
+    },
+    {
+      "album": {
+        "name": "Richard Burton Reads the Poetry of Thomas Hardy",
+        "url": "https://open.spotify.com/album/26bTNrUN24NIhrSggk7a08"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Wessex Heights",
+      "url": "https://open.spotify.com/track/2qA9nFWTlehhCeGpUuQ47A"
+    },
+    {
+      "album": {
+        "name": "Reads the Poetry of W.B. Yeats & Others",
+        "url": "https://open.spotify.com/album/4XHhzqodaCczEPdwurGmgJ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Thomas",
+          "url": "https://open.spotify.com/artist/33PtzSjT25Ve4MwKu3xNff"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Whales, Weep Not (D. H. Lawrence)",
+      "url": "https://open.spotify.com/track/30t32S2fhQYTdKIQazLTwM"
+    },
+    {
+      "album": {
+        "name": "Marianne Moore, Lenore Marshall, Louise Bogan, L\u00e9onie Adams & Babette Deutsch Read Their Poems",
+        "url": "https://open.spotify.com/album/4y8HSl0nl0LwoyUmst8ctg"
+      },
+      "artists": [
+        {
+          "name": "Marianne Moore",
+          "url": "https://open.spotify.com/artist/3iWWOeUP3tsTBiTny1Bdht"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65466,
+      "name": "What Are Years",
+      "url": "https://open.spotify.com/track/4ip5xvZJ0UXw6DlTEYrrZ8"
+    },
+    {
+      "album": {
+        "name": "Waste Land",
+        "url": "https://open.spotify.com/album/0PfF3JEc1Oc0EzlsmjGDYA"
+      },
+      "artists": [
+        {
+          "name": "T. S. Eliot",
+          "url": "https://open.spotify.com/artist/3bDa6cxOSTdU4tkmFgNSpA"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389799,
+      "name": "What The Thunder Said",
+      "url": "https://open.spotify.com/track/0b0YqwhpWe09PO71AhKxN3"
+    },
+    {
+      "album": {
+        "name": "Gertrude Stein, H.D., Louise Bogan, Edna St. Vincent Millay & Muriel Rukeyser Read Their Poems",
+        "url": "https://open.spotify.com/album/4mwvyOQAyhkQlE5QqVUVSs"
+      },
+      "artists": [
+        {
+          "name": "Louise Bogan",
+          "url": "https://open.spotify.com/artist/25vnK18XXAav788qO25sNU"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90813,
+      "name": "Women",
+      "url": "https://open.spotify.com/track/4cJS0nSNIHW1xtBTtrZPax"
+    },
+    {
+      "album": {
+        "name": "Ezra Pound, Malcolm Cowley, Archibald MacLeish & William Carlos Williams Read Their Poems",
+        "url": "https://open.spotify.com/album/3UpbUUsdjgQoWtiHgNYIVw"
+      },
+      "artists": [
+        {
+          "name": "Archibald MacLeish",
+          "url": "https://open.spotify.com/artist/0uXbsvRzTlZET9FGvqgqoT"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52266,
+      "name": "Words in Time",
+      "url": "https://open.spotify.com/track/1kY4NFGFTJnAN8mq3DFfD9"
+    },
+    {
+      "album": {
+        "name": "Reads Ogden Nash",
+        "url": "https://open.spotify.com/album/15liGiOEkFWpMSmebWZ0Jc"
+      },
+      "artists": [
+        {
+          "name": "Ogden Nash",
+          "url": "https://open.spotify.com/artist/3PqJgc8sLclLqk5vdanQKM"
+        }
+      ],
+      "date_added": "2019-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62928,
+      "name": "You And Me And P.B. Shelley",
+      "url": "https://open.spotify.com/track/6D3cOippBI6MJatI0TjDXO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX26cFbtLr0Wn"
 }

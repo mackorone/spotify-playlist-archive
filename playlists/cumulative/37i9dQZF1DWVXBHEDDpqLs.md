@@ -4,7 +4,7 @@
 
 > Take a world tour on the club floor\. <br/>Cover: DJ Swisha
 
-195 songs - 10 hr 25 min
+196 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Dance](https://open.spotify.com/track/3fgbDLcBPZlpvpuQh3RqCL) | [Petty Penguin](https://open.spotify.com/artist/06Sz7X326yoBcrGtAEIiv0), [DJ Beast Baltimore](https://open.spotify.com/artist/4IXgBHhKrwz40lIHFNSGzS) | [Dance](https://open.spotify.com/album/7umROuCtAPm20KzC8PW6m5) | 2:26 | 2021-12-10 |  |
 | [De Todo Se Aprende \- Yamil Remix](https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO) | [G.Zamora](https://open.spotify.com/artist/6QAI21dTPkkpKFLPqOay1F), [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [De Todo Se Aprende \(Remix\)](https://open.spotify.com/album/2vOPkeXVZOiIXhr0HG7ceQ) | 6:01 | 2021-12-10 |  |
 | [Deep Down](https://open.spotify.com/track/1eGZJFuBUorRGAx3GGC4dR) | [Rene Amesz](https://open.spotify.com/artist/0s122QsNac4WSqoVsFD60m), [Divine](https://open.spotify.com/artist/11ycSvFZCC0BFloxOAaray) | [Deep Down](https://open.spotify.com/album/3e2suSs2luyHB3Dy5FNCDZ) | 3:12 | 2021-12-10 |  |
-| [DELETE](https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [DELETE](https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6) | 6:16 | 2023-05-26 |  |
+| [DELETE](https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [DELETE](https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6) | 6:16 | 2023-05-26 | 2024-01-15 |
 | [Deliver](https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ) | [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Deliver](https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR) | 2:06 | 2021-12-10 |  |
 | [Dep First Draft \- Extended Mix](https://open.spotify.com/track/2fLFMlD56yMvkbo3cV4EfX) | [Ben Hauke](https://open.spotify.com/artist/1aBDI4nH6OfAkNyUX08O2V) | [Baukey Beats, Vol.1](https://open.spotify.com/album/4Vf7cWF42OHvF3Y1FMIBq4) | 9:16 | 2022-07-08 |  |
 | [Desire \- Jersey Club Remix](https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg) | [NXCRE](https://open.spotify.com/artist/4pEYvg65h3If6TKxwgzkQw), [Prvnci](https://open.spotify.com/artist/7pv0Od3fJfZDF1B8ywl9qW), [JIDDY](https://open.spotify.com/artist/2pVWwaFwgfOc1pwlDoj1uA) | [Desire \(Jersey Club Remix\)](https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY) | 2:19 | 2022-06-10 |  |
@@ -167,6 +167,7 @@
 | [Swagg Talk](https://open.spotify.com/track/0J9RDo9EBTaFcqPlYw49Mj) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/5yfFuazY1M6OyMj14yly14) | 2:58 | 2022-07-08 | 2022-10-13 |
 | [Swagg Talk](https://open.spotify.com/track/3uGoSNkxwxEgoxhaYkF6F9) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [Swagg Talk](https://open.spotify.com/album/3Y7iKUxDQ2xcCYMFu4HsR2) | 2:58 | 2022-09-30 | 2023-08-21 |
 | [Swagg Talk](https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [I Couldn't Decide](https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX) | 2:58 | 2023-08-04 |  |
+| [Sweaty Clothes](https://open.spotify.com/track/1UUzO7l0CPOoZKAXrwTJ5j) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [Cerrissa Koza](https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs) | [Sweaty Clothes](https://open.spotify.com/album/5AsYAgNA5T7J0zyduUi1K2) | 2:37 | 2023-10-06 |  |
 | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/track/2nvXDCsTar9OarWuaDr2Co) | [DJ Slugo](https://open.spotify.com/artist/1cdLR0Fz14MLkWY78hNTYT), [Cerrissa Koza](https://open.spotify.com/artist/6hkyH2XI9KbyHBqcxsZkOs) | [Sweaty Clothes \(feat\. Cerrissa Koza\)](https://open.spotify.com/album/1IAdb41ElXfXEeBLKaxhsY) | 2:37 | 2021-12-10 | 2023-10-12 |
 | [Switch](https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju), [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Switch](https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC) | 2:46 | 2022-01-28 |  |
 | [Tabasco](https://open.spotify.com/track/4mIo1BjbD5tyuLceK7Ifpn) | [BASE](https://open.spotify.com/artist/3BLMGeDCKEvxuiuEUag9xf) | [Tabasco](https://open.spotify.com/album/3VicZ7lCcaTVt9N6hpZdxs) | 2:09 | 2021-12-10 |  |

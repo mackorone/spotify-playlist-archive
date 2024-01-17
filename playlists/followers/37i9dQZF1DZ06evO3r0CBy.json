@@ -1,147 +1,409 @@
 {
-  "2023-08-10": 28150,
-  "2023-08-11": 29211,
-  "2023-08-12": 29211,
-  "2023-08-13": 29211,
-  "2023-08-14": 29211,
-  "2023-08-15": 29211,
-  "2023-08-16": 29211,
-  "2023-08-17": 29211,
-  "2023-08-18": 29211,
-  "2023-08-19": 29211,
-  "2023-08-20": 31453,
-  "2023-08-21": 31453,
-  "2023-08-22": 31629,
-  "2023-08-23": 31629,
-  "2023-08-24": 31629,
-  "2023-08-25": 31629,
-  "2023-08-26": 31888,
-  "2023-08-27": 31888,
-  "2023-08-28": 32007,
-  "2023-08-29": 32007,
-  "2023-08-30": 32007,
-  "2023-08-31": 32194,
-  "2023-09-01": 32237,
-  "2023-09-02": 32237,
-  "2023-09-03": 32237,
-  "2023-09-04": 32237,
-  "2023-09-05": 32237,
-  "2023-09-06": 32237,
-  "2023-09-07": 32237,
-  "2023-09-08": 32237,
-  "2023-09-09": 32237,
-  "2023-09-10": 32237,
-  "2023-09-11": 32237,
-  "2023-09-12": 32237,
-  "2023-09-13": 32237,
-  "2023-09-14": 32237,
-  "2023-09-15": 32237,
-  "2023-09-16": 32837,
-  "2023-09-17": 32837,
-  "2023-09-18": 32837,
-  "2023-09-19": 32956,
-  "2023-09-20": 32956,
-  "2023-09-21": 32956,
-  "2023-09-22": 33044,
-  "2023-09-23": 33044,
-  "2023-09-24": 33044,
-  "2023-09-25": 33044,
-  "2023-09-26": 33154,
-  "2023-09-27": 33154,
-  "2023-09-28": 33154,
-  "2023-09-29": 33154,
-  "2023-09-30": 33154,
-  "2023-10-01": 33154,
-  "2023-10-02": 33154,
-  "2023-10-03": 33154,
-  "2023-10-04": 33154,
-  "2023-10-05": 33154,
-  "2023-10-06": 33154,
-  "2023-10-07": 33154,
-  "2023-10-08": 33154,
-  "2023-10-09": 33154,
-  "2023-10-10": 33154,
-  "2023-10-11": 33154,
-  "2023-10-12": 33154,
-  "2023-10-13": 33154,
-  "2023-10-14": 33154,
-  "2023-10-15": 33154,
-  "2023-10-16": 33154,
-  "2023-10-17": 33154,
-  "2023-10-18": 33154,
-  "2023-10-19": 33154,
-  "2023-10-20": 33154,
-  "2023-10-21": 33154,
-  "2023-10-22": 33154,
-  "2023-10-23": 33154,
-  "2023-10-24": 33154,
-  "2023-10-25": 33154,
-  "2023-10-26": 33154,
-  "2023-10-27": 33154,
-  "2023-10-28": 33154,
-  "2023-10-29": 33154,
-  "2023-10-30": 33154,
-  "2023-10-31": 33154,
-  "2023-11-01": 33154,
-  "2023-11-02": 33154,
-  "2023-11-03": 33154,
-  "2023-11-04": 33154,
-  "2023-11-05": 33154,
-  "2023-11-06": 33154,
-  "2023-11-07": 33154,
-  "2023-11-08": 33154,
-  "2023-11-09": 33154,
-  "2023-11-10": 33154,
-  "2023-11-11": 34120,
-  "2023-11-12": 34120,
-  "2023-11-13": 34120,
-  "2023-11-14": 34120,
-  "2023-11-15": 34120,
-  "2023-11-16": 34120,
-  "2023-11-17": 34120,
-  "2023-11-18": 34120,
-  "2023-11-19": 34120,
-  "2023-11-20": 34120,
-  "2023-11-21": 34120,
-  "2023-11-22": 34120,
-  "2023-11-23": 34120,
-  "2023-11-24": 34120,
-  "2023-11-25": 34120,
-  "2023-11-26": 34120,
-  "2023-11-27": 34120,
-  "2023-11-28": 34120,
-  "2023-11-29": 34120,
-  "2023-11-30": 34120,
-  "2023-12-01": 34120,
-  "2023-12-02": 34120,
-  "2023-12-03": 34120,
-  "2023-12-04": 34120,
-  "2023-12-05": 34120,
-  "2023-12-06": 34120,
-  "2023-12-07": 34120,
-  "2023-12-08": 34120,
-  "2023-12-09": 34120,
-  "2023-12-10": 34120,
-  "2023-12-11": 34120,
-  "2023-12-12": 34120,
-  "2023-12-13": 34120,
-  "2023-12-14": 35213,
-  "2023-12-15": 35231,
-  "2023-12-16": 35266,
-  "2023-12-17": 35293,
-  "2023-12-18": 35333,
-  "2023-12-19": 35353,
-  "2023-12-20": 35386,
-  "2023-12-21": 35410,
-  "2023-12-22": 35439,
-  "2023-12-23": 35473,
-  "2023-12-24": 35505,
-  "2023-12-25": 35537,
-  "2023-12-26": 35565,
-  "2023-12-27": 35591,
-  "2023-12-30": 35678,
-  "2023-12-31": 35718,
-  "2024-01-01": 35755,
-  "2024-01-02": 35785,
-  "2024-01-03": 35798
+  "2024-01-17": 36061,
+  "date_first_scraped": "2023-08-10",
+  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
+  "name": "This Is Rodr\u00edguez",
+  "tracks": [
+    {
+      "album": {
+        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Can't Get Away",
+      "url": "https://open.spotify.com/track/6pmDqTidfGwyMtUXPogaOM"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330360,
+      "name": "Cause",
+      "url": "https://open.spotify.com/track/1Qyt1vzKvsNlZhMepIxpbo"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294280,
+      "name": "Climb Up On My Music",
+      "url": "https://open.spotify.com/track/2Gu7LqbawC5nQ4pQBJHNeQ"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "Crucify Your Mind",
+      "url": "https://open.spotify.com/track/2Xn7NadvZ56D0B2D7x2CSL"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355040,
+      "name": "Ecuador",
+      "url": "https://open.spotify.com/track/4pdARdDcofXEGh29NYoo98"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110373,
+      "name": "Forget It",
+      "url": "https://open.spotify.com/track/3hgVJGSwCFY8M84FavQwdD"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "Halfway Up The Stairs",
+      "url": "https://open.spotify.com/track/3g9vVwKpMzMsMa9t4u1WgT"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Hate Street Dialogue",
+      "url": "https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "I Think Of You",
+      "url": "https://open.spotify.com/track/1cXXHKH2kMDmtOEK73q6sf"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+    },
+    {
+      "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200713,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/3J5zeUimSbYSnDwKFo60V0"
+    },
+    {
+      "album": {
+        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171813,
+      "name": "I'll Slip Away",
+      "url": "https://open.spotify.com/track/5TFaVFcq4sblM4fW5wzG2Y"
+    },
+    {
+      "album": {
+        "name": "Record Store Day 7\"",
+        "url": "https://open.spotify.com/album/6ssxScXjJlSttC1JE0n7Mp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213146,
+      "name": "I'm Gonna Live Till I Die - Recorded Live at The Triple Door, Seattle, June 23, 2009",
+      "url": "https://open.spotify.com/track/1fa9thKzMq5TmeUs1OJaRO"
+    },
+    {
+      "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182601,
+      "name": "Just One of Those Things",
+      "url": "https://open.spotify.com/track/6kv8a1kYHKl9hWqamsbHlA"
+    },
+    {
+      "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152444,
+      "name": "Learnin' the Blues",
+      "url": "https://open.spotify.com/track/29bfyiutyuxsWxoq4h6eN2"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 156013,
+      "name": "Like Janis",
+      "url": "https://open.spotify.com/track/6inwNRiGXUCjuPdEvW0ygq"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "Rich Folks Hoax",
+      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397413,
+      "name": "Sandrevan Lullaby - Lifestyles",
+      "url": "https://open.spotify.com/track/5gqr1A0TGIceLkmEGI3irE"
+    },
+    {
+      "album": {
+        "name": "Coming From Reality",
+        "url": "https://open.spotify.com/album/2X0L9mwLuMqAK8rf965Vmi"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124653,
+      "name": "Silver Words?",
+      "url": "https://open.spotify.com/track/6bJJZt7goGbiTChohY5D6z"
+    },
+    {
+      "album": {
+        "name": "Rodriguez Rocks: Live In Australia",
+        "url": "https://open.spotify.com/album/18YSC8GYNQWnWeKASQ04t0"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241348,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4Fn8wZW99xxM9SJuKNWvJe"
+    },
+    {
+      "album": {
+        "name": "Searching For Sugar Man (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7b03YbUbP5ztUR3SoIZhY1"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Street Boy",
+      "url": "https://open.spotify.com/track/1qckRGY4rDziXQv86ofYzW"
+    },
+    {
+      "album": {
+        "name": "Cold Fact",
+        "url": "https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp"
+      },
+      "artists": [
+        {
+          "name": "Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229413,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r0CBy"
 }

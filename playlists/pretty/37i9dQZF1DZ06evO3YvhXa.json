@@ -1,15 +1,15 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 373576,
+  "num_followers": 374307,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTUsMDAwMDAwMDA1OTBiNTJjODI3NjVlOGI0OGI0NmRhMDgzNGEzOWU4Yg==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDAxMDAwYmQ1NzBhNDE5MGU3ZTEyZTRiYWRhYzUzYTRlNQ==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Driving Songs",
         "url": "https://open.spotify.com/album/0PZ6p6h37zPRCskVNqBRbw"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/1x6jPyUfLuTNQ3o5zykG2x"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
@@ -100,12 +100,12 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 224493,
-      "name": "Love Foolosophy - Radio Edit",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+      "duration_ms": 295400,
+      "name": "Little L",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/2WkHXAVVMgRnBmQ3HYAVla"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/2kX4ykCwUeAVYv6fahnDfG"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
@@ -153,7 +153,23 @@
       "url": "https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "Love Foolosophy - Radio Edit",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
@@ -169,7 +185,7 @@
       "url": "https://open.spotify.com/track/0WQ3l6AqrCJLDpxjhDHbFh"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -185,7 +201,7 @@
       "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -201,7 +217,7 @@
       "url": "https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/7LWXh2JPLzKt1dla81mWWt"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/7K8GcdnDHcGKa5pYmhg5k6"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
@@ -249,7 +265,7 @@
       "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Club Future Nostalgia (DJ Mix)",
         "url": "https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/3toXFhdNpH0Cs5vQkTrHQ3"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/4pGIF3R8nau0IBHzrYXzWX"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "A Funk Odyssey",
         "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/3jmbIhguc5uxiOdZ7ak8H3"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/5rzmEiv5KA1OskLzcqRDFK"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
@@ -373,39 +389,7 @@
       "url": "https://open.spotify.com/track/6lYDFEsQRgCDj0cBKodzG0"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "(Don't) Give Hate a Chance",
-      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "Shake It On",
-      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -421,7 +405,39 @@
       "url": "https://open.spotify.com/track/4U0gBPfjAzs7V0IR6UhOM6"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "(Don't) Give Hate a Chance",
+      "url": "https://open.spotify.com/track/2IJk5fQC6Qiu2gRrCR2977"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Shake It On",
+      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
@@ -437,39 +453,7 @@
       "url": "https://open.spotify.com/track/7AJYzLJSLtJzic79quUS0j"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Time Won't Wait",
-      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 331800,
-      "name": "Summer Girl",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
@@ -485,7 +469,39 @@
       "url": "https://open.spotify.com/track/52MqoTJ6kT0h8JTe5rjpG5"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Time Won't Wait",
+      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 331800,
+      "name": "Summer Girl",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -501,39 +517,7 @@
       "url": "https://open.spotify.com/track/0mmI8HaXjgzxrtKDmvAN7R"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 278240,
-      "name": "Hot Tequila Brown",
-      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 287960,
-      "name": "Automaton",
-      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
@@ -549,23 +533,7 @@
       "url": "https://open.spotify.com/track/704D4dPfn1ubgJ1UHXwg3Q"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Rock Dust Light Star (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 269946,
-      "name": "Smoke and Mirrors",
-      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
@@ -576,12 +544,12 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 295400,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
+      "duration_ms": 278240,
+      "name": "Hot Tequila Brown",
+      "url": "https://open.spotify.com/track/5RCqpfWW51P98Ljj1NoK8Q"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
@@ -592,12 +560,12 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 238533,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+      "duration_ms": 287960,
+      "name": "Automaton",
+      "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
@@ -613,10 +581,10 @@
       "url": "https://open.spotify.com/track/4klPQOLiUPgwZ3YIWgGJrK"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+        "name": "Rock Dust Light Star (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
       },
       "artists": [
         {
@@ -624,12 +592,44 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 124546,
-      "name": "So Good to Feel Real",
-      "url": "https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3"
+      "duration_ms": 269946,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/1JKh2bRSYxx04pBEmFM6Bt"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
@@ -645,39 +645,7 @@
       "url": "https://open.spotify.com/track/0tV3gNXkSicVDTe37mjgNo"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Hot Property",
-      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "High Times: Singles 1992-2006",
         "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
@@ -693,7 +661,39 @@
       "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 124546,
+      "name": "So Good to Feel Real",
+      "url": "https://open.spotify.com/track/4UALNtb6gBbaDHWazUenW3"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Hot Property",
+      "url": "https://open.spotify.com/track/4OcTu05fjO7mRBmfCL1nZd"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -709,23 +709,7 @@
       "url": "https://open.spotify.com/track/6DpVRGSelmlUqjOaXrlS3N"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 382000,
-      "name": "Manifest Destiny",
-      "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Synkronized",
         "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
@@ -736,12 +720,12 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 341560,
-      "name": "Black Capricorn Day",
-      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
@@ -757,7 +741,23 @@
       "url": "https://open.spotify.com/track/1a41Lzm8rtNJhQvOuS6RnN"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 382000,
+      "name": "Manifest Destiny",
+      "url": "https://open.spotify.com/track/64BvrMFmtPSFSVK5aiJ1b6"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Rock Dust Light Star (Deluxe Version)",
         "url": "https://open.spotify.com/album/5mTP7Oivpq88d7ZQ9DBt4F"
@@ -773,10 +773,10 @@
       "url": "https://open.spotify.com/track/0BUL18qo9Br1PhG1n6vEJ5"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
-        "name": "The Return of the Space Cowboy (Remastered)",
-        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
       },
       "artists": [
         {
@@ -784,28 +784,12 @@
           "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
         }
       ],
-      "duration_ms": 329386,
-      "name": "Mr Moon",
-      "url": "https://open.spotify.com/track/2k3MqTGANsyR1knJbR4kIg"
+      "duration_ms": 341560,
+      "name": "Black Capricorn Day",
+      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
     },
     {
-      "added_at": "2024-01-02 12:15:39",
-      "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 321426,
-      "name": "Feel So Good",
-      "url": "https://open.spotify.com/track/4baXYEQbDjse4afjjToEB6"
-    },
-    {
-      "added_at": "2024-01-02 12:15:39",
+      "added_at": "2024-01-16 12:10:40",
       "album": {
         "name": "Emergency on Planet Earth (Remastered)",
         "url": "https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM"
@@ -819,6 +803,22 @@
       "duration_ms": 383360,
       "name": "Music of the Mind",
       "url": "https://open.spotify.com/track/29uQW0hQQLU39lTYoB9YMo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:40",
+      "album": {
+        "name": "The Return of the Space Cowboy (Remastered)",
+        "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 329386,
+      "name": "Mr Moon",
+      "url": "https://open.spotify.com/track/2k3MqTGANsyR1knJbR4kIg"
     }
   ],
   "unique_name": "This Is Jamiroquai",

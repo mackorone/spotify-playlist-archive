@@ -1,595 +1,1047 @@
 {
-  "2022-05-15": 15133,
-  "2022-05-16": 15496,
-  "2022-05-17": 15889,
-  "2022-05-18": 16184,
-  "2022-05-19": 16480,
-  "2022-05-20": 16812,
-  "2022-05-21": 17337,
-  "2022-05-22": 17337,
-  "2022-05-23": 17658,
-  "2022-05-24": 17935,
-  "2022-05-25": 18271,
-  "2022-05-26": 18505,
-  "2022-05-27": 18764,
-  "2022-05-28": 19054,
-  "2022-05-29": 19291,
-  "2022-05-30": 19590,
-  "2022-05-31": 19889,
-  "2022-06-01": 20389,
-  "2022-06-02": 20411,
-  "2022-06-03": 20650,
-  "2022-06-04": 20865,
-  "2022-06-05": 21115,
-  "2022-06-06": 21433,
-  "2022-06-07": 21688,
-  "2022-06-08": 21980,
-  "2022-06-09": 22148,
-  "2022-06-10": 22387,
-  "2022-06-11": 22619,
-  "2022-06-12": 22859,
-  "2022-06-13": 23110,
-  "2022-06-14": 23380,
-  "2022-06-15": 23621,
-  "2022-06-16": 23835,
-  "2022-06-17": 24072,
-  "2022-06-18": 24283,
-  "2022-06-19": 24844,
-  "2022-06-20": 24844,
-  "2022-06-21": 25058,
-  "2022-06-22": 25480,
-  "2022-06-23": 25480,
-  "2022-06-24": 25686,
-  "2022-06-25": 25926,
-  "2022-06-26": 26145,
-  "2022-06-27": 26355,
-  "2022-06-28": 26593,
-  "2022-06-29": 26790,
-  "2022-06-30": 26975,
-  "2022-07-01": 27190,
-  "2022-07-02": 27372,
-  "2022-07-03": 27602,
-  "2022-07-04": 27794,
-  "2022-07-05": 27982,
-  "2022-07-06": 28185,
-  "2022-07-07": 28371,
-  "2022-07-08": 28600,
-  "2022-07-09": 28790,
-  "2022-07-10": 28984,
-  "2022-07-11": 29193,
-  "2022-07-12": 29402,
-  "2022-07-13": 29652,
-  "2022-07-14": 29874,
-  "2022-07-15": 30071,
-  "2022-07-16": 30261,
-  "2022-07-17": 30463,
-  "2022-07-18": 30686,
-  "2022-07-19": 30900,
-  "2022-07-20": 31092,
-  "2022-07-21": 31283,
-  "2022-07-22": 31508,
-  "2022-07-23": 31717,
-  "2022-07-24": 31934,
-  "2022-07-25": 32122,
-  "2022-07-26": 32315,
-  "2022-07-27": 32530,
-  "2022-07-28": 32718,
-  "2022-07-29": 32906,
-  "2022-07-30": 33269,
-  "2022-07-31": 33269,
-  "2022-08-01": 33455,
-  "2022-08-02": 33851,
-  "2022-08-03": 33851,
-  "2022-08-04": 34075,
-  "2022-08-05": 34259,
-  "2022-08-06": 34470,
-  "2022-08-07": 34675,
-  "2022-08-08": 34901,
-  "2022-08-09": 35104,
-  "2022-08-10": 35320,
-  "2022-08-11": 35556,
-  "2022-08-12": 35769,
-  "2022-08-13": 35987,
-  "2022-08-14": 36213,
-  "2022-08-15": 36419,
-  "2022-08-16": 36639,
-  "2022-08-17": 36855,
-  "2022-08-18": 37012,
-  "2022-08-19": 37187,
-  "2022-08-20": 37374,
-  "2022-08-21": 37572,
-  "2022-08-22": 37805,
-  "2022-08-23": 38011,
-  "2022-08-24": 38193,
-  "2022-08-25": 38369,
-  "2022-08-26": 38554,
-  "2022-08-27": 38721,
-  "2022-08-28": 38885,
-  "2022-08-29": 39045,
-  "2022-08-30": 39219,
-  "2022-08-31": 39353,
-  "2022-09-01": 39502,
-  "2022-09-02": 39673,
-  "2022-09-03": 39824,
-  "2022-09-04": 39969,
-  "2022-09-05": 40180,
-  "2022-09-06": 40343,
-  "2022-09-07": 40505,
-  "2022-09-09": 40774,
-  "2022-09-10": 40895,
-  "2022-09-11": 41048,
-  "2022-09-12": 41217,
-  "2022-09-13": 41367,
-  "2022-09-15": 41628,
-  "2022-09-16": 41746,
-  "2022-09-17": 41870,
-  "2022-09-18": 41965,
-  "2022-09-19": 42070,
-  "2022-09-20": 42186,
-  "2022-09-21": 42294,
-  "2022-09-22": 42403,
-  "2022-09-23": 42530,
-  "2022-09-24": 42638,
-  "2022-09-25": 42789,
-  "2022-09-26": 42923,
-  "2022-09-27": 43056,
-  "2022-09-28": 43212,
-  "2022-09-29": 43358,
-  "2022-09-30": 43462,
-  "2022-10-01": 43568,
-  "2022-10-02": 43686,
-  "2022-10-03": 43809,
-  "2022-10-04": 43925,
-  "2022-10-05": 44038,
-  "2022-10-06": 44149,
-  "2022-10-07": 44266,
-  "2022-10-08": 44386,
-  "2022-10-09": 44626,
-  "2022-10-10": 44653,
-  "2022-10-11": 44803,
-  "2022-10-12": 44932,
-  "2022-10-13": 45057,
-  "2022-10-14": 45186,
-  "2022-10-15": 45304,
-  "2022-10-16": 45438,
-  "2022-10-17": 45572,
-  "2022-10-18": 45693,
-  "2022-10-19": 45838,
-  "2022-10-20": 45982,
-  "2022-10-21": 46085,
-  "2022-10-22": 46186,
-  "2022-10-23": 46315,
-  "2022-10-24": 46451,
-  "2022-10-25": 46583,
-  "2022-10-26": 46710,
-  "2022-10-27": 46880,
-  "2022-10-28": 47003,
-  "2022-10-29": 47155,
-  "2022-10-30": 47293,
-  "2022-10-31": 47458,
-  "2022-11-01": 47600,
-  "2022-11-02": 47759,
-  "2022-11-03": 47885,
-  "2022-11-04": 48016,
-  "2022-11-05": 48168,
-  "2022-11-06": 48307,
-  "2022-11-07": 48474,
-  "2022-11-08": 48607,
-  "2022-11-09": 48751,
-  "2022-11-10": 48871,
-  "2022-11-11": 48994,
-  "2022-11-12": 49147,
-  "2022-11-13": 49250,
-  "2022-11-14": 49374,
-  "2022-11-15": 49524,
-  "2022-11-16": 49676,
-  "2022-11-17": 49821,
-  "2022-11-18": 49871,
-  "2022-11-19": 49834,
-  "2022-11-20": 50028,
-  "2022-11-21": 49974,
-  "2022-11-22": 50321,
-  "2022-11-23": 50292,
-  "2022-11-24": 50695,
-  "2022-11-25": 50903,
-  "2022-11-26": 51021,
-  "2022-11-27": 51166,
-  "2022-11-28": 51284,
-  "2022-11-29": 51419,
-  "2022-11-30": 51557,
-  "2022-12-01": 51696,
-  "2022-12-02": 51791,
-  "2022-12-03": 51993,
-  "2022-12-04": 52158,
-  "2022-12-05": 52291,
-  "2022-12-06": 52458,
-  "2022-12-07": 52589,
-  "2022-12-08": 52708,
-  "2022-12-09": 52832,
-  "2022-12-10": 52973,
-  "2022-12-11": 53088,
-  "2022-12-12": 53238,
-  "2022-12-13": 53355,
-  "2022-12-14": 53488,
-  "2022-12-15": 53596,
-  "2022-12-16": 53732,
-  "2022-12-17": 53846,
-  "2022-12-18": 53968,
-  "2022-12-19": 54097,
-  "2022-12-20": 54354,
-  "2022-12-21": 54354,
-  "2022-12-22": 54475,
-  "2022-12-24": 54713,
-  "2022-12-25": 54849,
-  "2022-12-26": 54962,
-  "2022-12-27": 55103,
-  "2022-12-28": 55291,
-  "2022-12-29": 55486,
-  "2022-12-30": 55659,
-  "2022-12-31": 55849,
-  "2023-01-01": 55999,
-  "2023-01-02": 56113,
-  "2023-01-03": 56330,
-  "2023-01-04": 56509,
-  "2023-01-05": 56738,
-  "2023-01-06": 56946,
-  "2023-01-07": 57237,
-  "2023-01-08": 57279,
-  "2023-01-09": 57478,
-  "2023-01-10": 57670,
-  "2023-01-11": 57859,
-  "2023-01-12": 58056,
-  "2023-01-13": 58251,
-  "2023-01-14": 58563,
-  "2023-01-15": 58639,
-  "2023-01-16": 58834,
-  "2023-01-17": 59068,
-  "2023-01-18": 59236,
-  "2023-01-19": 59365,
-  "2023-01-20": 59547,
-  "2023-01-21": 59693,
-  "2023-01-22": 59909,
-  "2023-01-23": 60117,
-  "2023-01-24": 60294,
-  "2023-01-25": 60453,
-  "2023-01-26": 60631,
-  "2023-01-27": 60790,
-  "2023-01-28": 60953,
-  "2023-01-29": 61102,
-  "2023-01-30": 61242,
-  "2023-01-31": 61242,
-  "2023-02-01": 61572,
-  "2023-02-02": 61723,
-  "2023-02-03": 61918,
-  "2023-02-04": 62034,
-  "2023-02-05": 62209,
-  "2023-02-06": 62384,
-  "2023-02-07": 62530,
-  "2023-02-08": 62827,
-  "2023-02-09": 62827,
-  "2023-02-10": 62965,
-  "2023-02-11": 63123,
-  "2023-02-12": 63505,
-  "2023-02-13": 63745,
-  "2023-02-14": 63745,
-  "2023-02-15": 63902,
-  "2023-02-16": 64104,
-  "2023-02-17": 64277,
-  "2023-02-18": 64566,
-  "2023-02-19": 64622,
-  "2023-02-20": 64760,
-  "2023-02-21": 64932,
-  "2023-02-22": 65072,
-  "2023-02-23": 65237,
-  "2023-02-24": 65383,
-  "2023-02-25": 65610,
-  "2023-02-26": 65708,
-  "2023-02-27": 66055,
-  "2023-02-28": 66055,
-  "2023-03-01": 66188,
-  "2023-03-02": 66333,
-  "2023-03-03": 66504,
-  "2023-03-04": 66621,
-  "2023-03-05": 66911,
-  "2023-03-06": 66911,
-  "2023-03-07": 67056,
-  "2023-03-08": 67154,
-  "2023-03-09": 67283,
-  "2023-03-10": 67387,
-  "2023-03-11": 67517,
-  "2023-03-12": 67661,
-  "2023-03-13": 67798,
-  "2023-03-14": 67907,
-  "2023-03-15": 68034,
-  "2023-03-16": 68158,
-  "2023-03-17": 68158,
-  "2023-03-18": 68401,
-  "2023-03-19": 68528,
-  "2023-03-20": 68662,
-  "2023-03-21": 68809,
-  "2023-03-22": 68933,
-  "2023-03-23": 69038,
-  "2023-03-24": 69038,
-  "2023-03-25": 69307,
-  "2023-03-26": 69476,
-  "2023-03-27": 69604,
-  "2023-03-28": 69762,
-  "2023-03-29": 69914,
-  "2023-03-30": 70169,
-  "2023-03-31": 70169,
-  "2023-04-01": 70317,
-  "2023-04-02": 70446,
-  "2023-04-03": 70579,
-  "2023-04-04": 70715,
-  "2023-04-05": 70850,
-  "2023-04-06": 70987,
-  "2023-04-07": 71137,
-  "2023-04-09": 71414,
-  "2023-04-10": 71615,
-  "2023-04-11": 71902,
-  "2023-04-12": 71902,
-  "2023-04-13": 72077,
-  "2023-04-14": 72219,
-  "2023-04-15": 72345,
-  "2023-04-16": 72479,
-  "2023-04-17": 72620,
-  "2023-04-18": 72744,
-  "2023-04-19": 72867,
-  "2023-04-20": 72989,
-  "2023-04-21": 73102,
-  "2023-04-22": 73219,
-  "2023-04-23": 73346,
-  "2023-04-24": 73475,
-  "2023-04-25": 73597,
-  "2023-04-26": 73707,
-  "2023-04-27": 73838,
-  "2023-04-28": 73931,
-  "2023-04-29": 74057,
-  "2023-04-30": 74170,
-  "2023-05-01": 74327,
-  "2023-05-02": 74450,
-  "2023-05-03": 74582,
-  "2023-05-04": 74690,
-  "2023-05-05": 74799,
-  "2023-05-06": 74925,
-  "2023-05-07": 75080,
-  "2023-05-08": 75252,
-  "2023-05-09": 75370,
-  "2023-05-10": 75473,
-  "2023-05-11": 75602,
-  "2023-05-12": 75728,
-  "2023-05-13": 75861,
-  "2023-05-14": 75978,
-  "2023-05-15": 76075,
-  "2023-05-16": 76221,
-  "2023-05-17": 76342,
-  "2023-05-18": 76477,
-  "2023-05-19": 76607,
-  "2023-05-20": 76843,
-  "2023-05-21": 76843,
-  "2023-05-22": 76843,
-  "2023-05-23": 77103,
-  "2023-05-24": 77333,
-  "2023-05-25": 77367,
-  "2023-05-26": 77479,
-  "2023-05-27": 77618,
-  "2023-05-28": 77741,
-  "2023-05-29": 77741,
-  "2023-05-30": 77978,
-  "2023-05-31": 78111,
-  "2023-06-01": 78225,
-  "2023-06-02": 78354,
-  "2023-06-03": 78455,
-  "2023-06-04": 78574,
-  "2023-06-05": 78720,
-  "2023-06-06": 78851,
-  "2023-06-07": 79004,
-  "2023-06-08": 79135,
-  "2023-06-09": 79249,
-  "2023-06-10": 79369,
-  "2023-06-11": 79504,
-  "2023-06-12": 79657,
-  "2023-06-13": 79767,
-  "2023-06-14": 79767,
-  "2023-06-15": 80004,
-  "2023-06-16": 80106,
-  "2023-06-17": 80203,
-  "2023-06-18": 80325,
-  "2023-06-19": 80440,
-  "2023-06-20": 80548,
-  "2023-06-21": 80680,
-  "2023-06-22": 80788,
-  "2023-06-23": 80915,
-  "2023-06-24": 81003,
-  "2023-06-25": 81134,
-  "2023-06-26": 81274,
-  "2023-06-27": 81385,
-  "2023-06-28": 81504,
-  "2023-06-29": 81630,
-  "2023-06-30": 81770,
-  "2023-07-01": 82055,
-  "2023-07-02": 82055,
-  "2023-07-03": 82176,
-  "2023-07-04": 82329,
-  "2023-07-05": 82450,
-  "2023-07-06": 82691,
-  "2023-07-07": 82691,
-  "2023-07-08": 82825,
-  "2023-07-09": 82955,
-  "2023-07-10": 83097,
-  "2023-07-11": 83210,
-  "2023-07-12": 83324,
-  "2023-07-13": 83444,
-  "2023-07-14": 83569,
-  "2023-07-15": 83630,
-  "2023-07-16": 83762,
-  "2023-07-17": 83893,
-  "2023-07-18": 83989,
-  "2023-07-19": 84091,
-  "2023-07-20": 84196,
-  "2023-07-21": 84298,
-  "2023-07-22": 84425,
-  "2023-07-23": 84541,
-  "2023-07-24": 84672,
-  "2023-07-25": 84815,
-  "2023-07-26": 84924,
-  "2023-07-27": 85014,
-  "2023-07-28": 85130,
-  "2023-07-29": 85233,
-  "2023-07-30": 85348,
-  "2023-07-31": 85462,
-  "2023-08-01": 85571,
-  "2023-08-02": 85682,
-  "2023-08-03": 85796,
-  "2023-08-04": 85926,
-  "2023-08-05": 86053,
-  "2023-08-06": 86296,
-  "2023-08-07": 86296,
-  "2023-08-08": 86407,
-  "2023-08-09": 86510,
-  "2023-08-10": 86626,
-  "2023-08-11": 86734,
-  "2023-08-12": 86867,
-  "2023-08-13": 86992,
-  "2023-08-14": 87137,
-  "2023-08-15": 87413,
-  "2023-08-16": 87413,
-  "2023-08-17": 87520,
-  "2023-08-18": 87639,
-  "2023-08-19": 87804,
-  "2023-08-20": 87982,
-  "2023-08-21": 88146,
-  "2023-08-22": 88279,
-  "2023-08-23": 88430,
-  "2023-08-24": 88558,
-  "2023-08-25": 88693,
-  "2023-08-26": 88845,
-  "2023-08-27": 88987,
-  "2023-08-28": 89095,
-  "2023-08-29": 89248,
-  "2023-08-30": 89364,
-  "2023-08-31": 89477,
-  "2023-09-01": 89683,
-  "2023-09-02": 89683,
-  "2023-09-03": 89784,
-  "2023-09-04": 89893,
-  "2023-09-05": 89984,
-  "2023-09-06": 90074,
-  "2023-09-07": 90172,
-  "2023-09-08": 90252,
-  "2023-09-09": 90327,
-  "2023-09-10": 90410,
-  "2023-09-11": 90507,
-  "2023-09-12": 90595,
-  "2023-09-13": 90696,
-  "2023-09-14": 90796,
-  "2023-09-15": 90877,
-  "2023-09-16": 90951,
-  "2023-09-17": 91040,
-  "2023-09-18": 91164,
-  "2023-09-19": 91235,
-  "2023-09-20": 91296,
-  "2023-09-21": 91392,
-  "2023-09-22": 91481,
-  "2023-09-23": 91559,
-  "2023-09-24": 91641,
-  "2023-09-25": 91741,
-  "2023-09-26": 91826,
-  "2023-09-27": 91881,
-  "2023-09-28": 91940,
-  "2023-09-29": 91994,
-  "2023-09-30": 92069,
-  "2023-10-01": 92151,
-  "2023-10-02": 92235,
-  "2023-10-03": 92304,
-  "2023-10-04": 92369,
-  "2023-10-05": 92434,
-  "2023-10-06": 92497,
-  "2023-10-07": 92562,
-  "2023-10-08": 92632,
-  "2023-10-09": 92711,
-  "2023-10-10": 92776,
-  "2023-10-11": 92904,
-  "2023-10-12": 92904,
-  "2023-10-13": 92977,
-  "2023-10-14": 93041,
-  "2023-10-15": 93112,
-  "2023-10-16": 93180,
-  "2023-10-17": 93253,
-  "2023-10-18": 93310,
-  "2023-10-19": 93362,
-  "2023-10-20": 93400,
-  "2023-10-21": 93454,
-  "2023-10-22": 93524,
-  "2023-10-23": 93581,
-  "2023-10-24": 93627,
-  "2023-10-25": 93673,
-  "2023-10-26": 93731,
-  "2023-10-27": 93771,
-  "2023-10-28": 93818,
-  "2023-10-29": 93843,
-  "2023-10-30": 93954,
-  "2023-10-31": 93954,
-  "2023-11-01": 93985,
-  "2023-11-02": 94031,
-  "2023-11-03": 94079,
-  "2023-11-04": 94128,
-  "2023-11-05": 94184,
-  "2023-11-06": 94226,
-  "2023-11-07": 94271,
-  "2023-11-08": 94311,
-  "2023-11-09": 94348,
-  "2023-11-10": 94385,
-  "2023-11-11": 94436,
-  "2023-11-12": 94463,
-  "2023-11-13": 94497,
-  "2023-11-14": 94529,
-  "2023-11-15": 94529,
-  "2023-11-16": 94601,
-  "2023-11-17": 94694,
-  "2023-11-18": 94694,
-  "2023-11-19": 94737,
-  "2023-11-20": 94779,
-  "2023-11-21": 94816,
-  "2023-11-22": 94853,
-  "2023-11-23": 94884,
-  "2023-11-24": 94904,
-  "2023-11-25": 94949,
-  "2023-11-26": 94995,
-  "2023-11-27": 95037,
-  "2023-11-28": 95080,
-  "2023-11-29": 95133,
-  "2023-11-30": 95133,
-  "2023-12-01": 95138,
-  "2023-12-02": 95152,
-  "2023-12-03": 95166,
-  "2023-12-04": 95189,
-  "2023-12-05": 95235,
-  "2023-12-06": 95270,
-  "2023-12-07": 95306,
-  "2023-12-08": 95342,
-  "2023-12-09": 95383,
-  "2023-12-10": 95442,
-  "2023-12-11": 95463,
-  "2023-12-12": 95507,
-  "2023-12-13": 95568,
-  "2023-12-14": 95618,
-  "2023-12-15": 95640,
-  "2023-12-16": 95691,
-  "2023-12-17": 95744,
-  "2023-12-18": 95796,
-  "2023-12-19": 95827,
-  "2023-12-20": 95869,
-  "2023-12-21": 95910,
-  "2023-12-22": 95947,
-  "2023-12-23": 95994,
-  "2023-12-24": 96032,
-  "2023-12-25": 96072,
-  "2023-12-26": 96118,
-  "2023-12-27": 96151,
-  "2023-12-30": 96381,
-  "2023-12-31": 96446,
-  "2024-01-01": 96475,
-  "2024-01-02": 96511,
-  "2024-01-03": 96553
+  "2024-01-17": 97323,
+  "date_first_scraped": "2022-05-15",
+  "description": "Enjoy the soundtrack of Twenty Five Twenty One! (\uccad\ucd98\uc744 \uc774\uc57c\uae30\ud558\ub294 \ub4dc\ub77c\ub9c8 \uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098\uc758 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "\uc2a4\ubb3c\ub2e4\uc12f \uc2a4\ubb3c\ud558\ub098 (Twenty-Five Twenty-One)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jong Hyun",
+          "url": "https://open.spotify.com/artist/5Yenux3VVL9OHj5qiynnAn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118339,
+      "name": "Country of Brothers",
+      "url": "https://open.spotify.com/track/6GQRhLPayTWses5LIk0hKm"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "SHIN MIN YONG",
+          "url": "https://open.spotify.com/artist/4uQdTE80aH9IXZUL2LPokG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142915,
+      "name": "Cute Guy",
+      "url": "https://open.spotify.com/track/6Jz9WDfS9JKflyJqBuiK5H"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "KIM JI YOUNG",
+          "url": "https://open.spotify.com/artist/1tubvjuAvHLMwSyvqsa0J1"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193448,
+      "name": "Dreaming Day",
+      "url": "https://open.spotify.com/track/3eOzeu7VT10WQ1apt6txSy"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "JIN MYOUNG YONG",
+          "url": "https://open.spotify.com/artist/7MFBZqpfIjNzLUnW18GPSV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131992,
+      "name": "For a Dream",
+      "url": "https://open.spotify.com/track/3psjSkvw2sr8x3VDxNru8n"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 8",
+        "url": "https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/44QDTpkTR3eLLfXEKTjyul"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "\uc815\uad6c\ud604",
+          "url": "https://open.spotify.com/artist/5fi2WpRiXpFXpbBQbKR9m0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119248,
+      "name": "Free (Guitar Ver.)",
+      "url": "https://open.spotify.com/track/2zOV8dHUIZLMBV7sJAzGYU"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 8",
+        "url": "https://open.spotify.com/album/5TAaxv56fHpUoRZOyOppbl"
+      },
+      "artists": [
+        {
+          "name": "Xydo",
+          "url": "https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Free (Inst.)",
+      "url": "https://open.spotify.com/track/2bFgfQICH9D6pZnMJefzZN"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "SHIN MIN YONG",
+          "url": "https://open.spotify.com/artist/4uQdTE80aH9IXZUL2LPokG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107416,
+      "name": "Fuss",
+      "url": "https://open.spotify.com/track/7tgJyAVWDTksMjoNhV2tq0"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 5",
+        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209711,
+      "name": "Go!",
+      "url": "https://open.spotify.com/track/4hzeoIOERTL4jdTXAQ0FWr"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 5",
+        "url": "https://open.spotify.com/album/285SCIzheZ0SrcZp4Q5YvR"
+      },
+      "artists": [
+        {
+          "name": "DOKYEOM",
+          "url": "https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209711,
+      "name": "Go! (Inst.)",
+      "url": "https://open.spotify.com/track/5Qna4lljRXUSkYDAcHQcR5"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "JIN MYOUNG YONG",
+          "url": "https://open.spotify.com/artist/7MFBZqpfIjNzLUnW18GPSV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6P8OeLm0w3rGP11YeM1Cq5"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99224,
+      "name": "Heartbroken",
+      "url": "https://open.spotify.com/track/27LoYaCREQsTWT8FcIeXNH"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131992,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2771VAYXS47v3212uNp0YB"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92398,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/20KN7zj93VL9UQlk2pAtVC"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lee",
+          "url": "https://open.spotify.com/artist/4L28VKeDZWK3m5HlPRuj7f"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155203,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/1Oem02QeqMRT3BLDeHNRC9"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim Ha Young",
+          "url": "https://open.spotify.com/artist/3H3UP5t4gJHaGUYP6p7WBN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88302,
+      "name": "Looking Your Eyes",
+      "url": "https://open.spotify.com/track/2P64W3pJIB8BqQMimwt7ia"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "KIM WAN JUNG",
+          "url": "https://open.spotify.com/artist/0x3IGvi8JvO98gz8XLR8Jp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112878,
+      "name": "Lovely Couple",
+      "url": "https://open.spotify.com/track/7yYpPCPlfLViJFnotB05y4"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim Ha Young",
+          "url": "https://open.spotify.com/artist/3H3UP5t4gJHaGUYP6p7WBN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123800,
+      "name": "Match",
+      "url": "https://open.spotify.com/track/3RtiFHmXbIxL0YC2zbVtGR"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152472,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7H9B1gTeB1GFcdzxiZQoge"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "JIN MYOUNG YONG",
+          "url": "https://open.spotify.com/artist/7MFBZqpfIjNzLUnW18GPSV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/05ozvdouv6zvOkpPVs9xV8"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jong Hyun",
+          "url": "https://open.spotify.com/artist/5Yenux3VVL9OHj5qiynnAn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144280,
+      "name": "Our Story",
+      "url": "https://open.spotify.com/track/0eNGeLmpnv1tEPZCpVBtvP"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88785,
+      "name": "Pink Cheek",
+      "url": "https://open.spotify.com/track/1Rvf70DJ0xDXqE8kpz8odT"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Jung Bonggil",
+          "url": "https://open.spotify.com/artist/3FSrijlTTkY9f9y6b9wvm5"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126531,
+      "name": "Pretty Brats",
+      "url": "https://open.spotify.com/track/3kfjWv2R2xuLV53zV3bsOj"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim Ha Young",
+          "url": "https://open.spotify.com/artist/3H3UP5t4gJHaGUYP6p7WBN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125166,
+      "name": "Propose",
+      "url": "https://open.spotify.com/track/0fEEsSU18mzSGHvquWZUEj"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "JIN MYOUNG YONG",
+          "url": "https://open.spotify.com/artist/7MFBZqpfIjNzLUnW18GPSV"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175683,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/5OToaF0MRVcsIrHx3mMoaV"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 2",
+        "url": "https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr"
+      },
+      "artists": [
+        {
+          "name": "giseong bae",
+          "url": "https://open.spotify.com/artist/5zQ3RXLNUzbZvaJ327K6YI"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193949,
+      "name": "Shine on You with Blinding Flash of Light",
+      "url": "https://open.spotify.com/track/0j9yFNJ0Y8UagSzwRE7gFM"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 2",
+        "url": "https://open.spotify.com/album/7u0L0BrXdwSdPO1hSXNnBr"
+      },
+      "artists": [
+        {
+          "name": "giseong bae",
+          "url": "https://open.spotify.com/artist/5zQ3RXLNUzbZvaJ327K6YI"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193949,
+      "name": "Shine on You with Blinding Flash of Light (Inst.)",
+      "url": "https://open.spotify.com/track/1HRdXMQ7qncXGCelrfVFOa"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "SHIN MIN YONG",
+          "url": "https://open.spotify.com/artist/4uQdTE80aH9IXZUL2LPokG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166126,
+      "name": "Shining Man",
+      "url": "https://open.spotify.com/track/1fqJXsiMHmknBqPDiYPsEV"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim Ha Young",
+          "url": "https://open.spotify.com/artist/3H3UP5t4gJHaGUYP6p7WBN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125166,
+      "name": "Sining In The Rain",
+      "url": "https://open.spotify.com/track/7w6MTmjglIzLyIwGiNYIAl"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251517,
+      "name": "Stardust love song",
+      "url": "https://open.spotify.com/track/01Evjih77HRm4aG3YeGcX7"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 6",
+        "url": "https://open.spotify.com/album/1n609tR3RQlWgEjFwkTfj3"
+      },
+      "artists": [
+        {
+          "name": "JIHYO",
+          "url": "https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251517,
+      "name": "Stardust love song (Inst.)",
+      "url": "https://open.spotify.com/track/3Sd6eeuWD0nRikKMaGFFtJ"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225817,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/00Coyxt9mTec1acC52qtWa"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 1",
+        "url": "https://open.spotify.com/album/0w0hh5MzyFh2pyVZnn7Lo2"
+      },
+      "artists": [
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225817,
+      "name": "Starlight (Inst.)",
+      "url": "https://open.spotify.com/track/4fFXvYidUH9rYbQwr3DZkI"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "\uc624\ub3d9\uc900",
+          "url": "https://open.spotify.com/artist/73onB6TSeCD0lgCsVYH4OK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202173,
+      "name": "Starlight (Piano Ver.)",
+      "url": "https://open.spotify.com/track/3VTnYFA5zHiS7FCDxV2I1a"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jong Hyun",
+          "url": "https://open.spotify.com/artist/5Yenux3VVL9OHj5qiynnAn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201624,
+      "name": "Their Friendship",
+      "url": "https://open.spotify.com/track/15Zygb1UqEL3SllfL5TySf"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jong Hyun",
+          "url": "https://open.spotify.com/artist/5Yenux3VVL9OHj5qiynnAn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138819,
+      "name": "Then Today",
+      "url": "https://open.spotify.com/track/6tpufa9yk5s4E37e2aKziI"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim seung bum",
+          "url": "https://open.spotify.com/artist/3s7xtBvA5qWs9hFWjUjofp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168856,
+      "name": "Understand",
+      "url": "https://open.spotify.com/track/6YbvmWDooSwXBbkSjO5QKM"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 3",
+        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214851,
+      "name": "Very, Slowly",
+      "url": "https://open.spotify.com/track/7GkHIsnziYgk6j1lx2TK6H"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 3",
+        "url": "https://open.spotify.com/album/3KKlnC97LdYrHuOvolb8GP"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214851,
+      "name": "Very, Slowly (Inst.)",
+      "url": "https://open.spotify.com/track/2b9AClFYJJd5rHV7PzcRD1"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lee",
+          "url": "https://open.spotify.com/artist/4L28VKeDZWK3m5HlPRuj7f"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126531,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/1du4cQVItVHeb1ZIP5TLCW"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Yoo Jong Hyun",
+          "url": "https://open.spotify.com/artist/5Yenux3VVL9OHj5qiynnAn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189336,
+      "name": "Western Pioneer",
+      "url": "https://open.spotify.com/track/0nFErwhgE9jWn7UJaMXaFD"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163395,
+      "name": "When We Was Young",
+      "url": "https://open.spotify.com/track/4gWKPUunUMCH8N1YGCliAI"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Lim Ha Young",
+          "url": "https://open.spotify.com/artist/3H3UP5t4gJHaGUYP6p7WBN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121070,
+      "name": "Whispers of Love",
+      "url": "https://open.spotify.com/track/0CH6hosFdnwYzKGy1LLo2F"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "KIM WAN JUNG",
+          "url": "https://open.spotify.com/artist/0x3IGvi8JvO98gz8XLR8Jp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112878,
+      "name": "Whoops!",
+      "url": "https://open.spotify.com/track/2CD8pqLn7dJAlZ9qap1yj9"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "BYEON DONG WOOK",
+          "url": "https://open.spotify.com/artist/3aQyGrD0pM0YVDFprEtP0M"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147011,
+      "name": "Will",
+      "url": "https://open.spotify.com/track/5xsf39zoMWOA6HZd0Vy8l7"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 7",
+        "url": "https://open.spotify.com/album/17DDjzS1wvt4zixJVxF9wX"
+      },
+      "artists": [
+        {
+          "name": "Kim Taeri",
+          "url": "https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X"
+        },
+        {
+          "name": "Nam Joohyuk",
+          "url": "https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv"
+        },
+        {
+          "name": "Bona(WJSN)",
+          "url": "https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL"
+        },
+        {
+          "name": "Choi Hyunwook",
+          "url": "https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ"
+        },
+        {
+          "name": "Lee Joomyung",
+          "url": "https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 269678,
+      "name": "With",
+      "url": "https://open.spotify.com/track/0Rzx0irygv7gZd8YlvK5aO"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "Kim Taeri",
+          "url": "https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X"
+        },
+        {
+          "name": "Nam Joohyuk",
+          "url": "https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv"
+        },
+        {
+          "name": "Bona(WJSN)",
+          "url": "https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL"
+        },
+        {
+          "name": "Choi Hyunwook",
+          "url": "https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ"
+        },
+        {
+          "name": "Lee Joomyung",
+          "url": "https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269678,
+      "name": "With",
+      "url": "https://open.spotify.com/track/73ZHqY7Ma03NpKiKs26yQU"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 7",
+        "url": "https://open.spotify.com/album/17DDjzS1wvt4zixJVxF9wX"
+      },
+      "artists": [
+        {
+          "name": "Kim Taeri",
+          "url": "https://open.spotify.com/artist/0bBDQ4QeizwResorw0iD7X"
+        },
+        {
+          "name": "Nam Joohyuk",
+          "url": "https://open.spotify.com/artist/69ybhMoBUPmIcH4MyDARDv"
+        },
+        {
+          "name": "Bona(WJSN)",
+          "url": "https://open.spotify.com/artist/5EHm62VI2botfXyNvboLlL"
+        },
+        {
+          "name": "Choi Hyunwook",
+          "url": "https://open.spotify.com/artist/1z2J8XtoQxczs0U1lMWEiZ"
+        },
+        {
+          "name": "Lee Joomyung",
+          "url": "https://open.spotify.com/artist/4dN1DsKUXV6xugiarFBAa6"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269678,
+      "name": "With (Inst.)",
+      "url": "https://open.spotify.com/track/4T34QnihrSoPgxTdkLmakq"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST",
+        "url": "https://open.spotify.com/album/77NPr874WU941XZhjO43dR"
+      },
+      "artists": [
+        {
+          "name": "SHIN MIN YONG",
+          "url": "https://open.spotify.com/artist/4uQdTE80aH9IXZUL2LPokG"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179779,
+      "name": "You Are My Dream",
+      "url": "https://open.spotify.com/track/7wPej45bteWB2opJfNf3Wo"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204229,
+      "name": "Your Existence",
+      "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 4",
+        "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204229,
+      "name": "Your Existence (Inst.)",
+      "url": "https://open.spotify.com/track/1QBok3UbAy4D6mBs260946"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 9",
+        "url": "https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207313,
+      "name": "Your world",
+      "url": "https://open.spotify.com/track/27kzK6uZ1njMM5VDZ4nRAD"
+    },
+    {
+      "album": {
+        "name": "Twenty-Five Twenty-One OST Part 9",
+        "url": "https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9"
+      },
+      "artists": [
+        {
+          "name": "Seol Hoseung (SURL)",
+          "url": "https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207313,
+      "name": "Your world (Inst.)",
+      "url": "https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG"
+    },
+    {
+      "album": {
+        "name": "Goodbye, grief.",
+        "url": "https://open.spotify.com/album/2Db7g2nYCXggiNOJc59vkS"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284720,
+      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
+      "url": "https://open.spotify.com/track/3DmDPYRQYdYE5gWf2DiKn2"
+    },
+    {
+      "album": {
+        "name": "Goodbye, grief.",
+        "url": "https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg"
+      },
+      "artists": [
+        {
+          "name": "JAURIM",
+          "url": "https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 284720,
+      "name": "\uc2a4\ubb3c\ub2e4\uc12f, \uc2a4\ubb3c\ud558\ub098",
+      "url": "https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3f6ejuDaRcD"
 }

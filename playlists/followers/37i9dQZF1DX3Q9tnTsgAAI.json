@@ -1,454 +1,3765 @@
 {
-  "2022-10-05": 40024,
-  "2022-10-06": 40039,
-  "2022-10-07": 40053,
-  "2022-10-08": 40079,
-  "2022-10-09": 40118,
-  "2022-10-10": 40124,
-  "2022-10-11": 40145,
-  "2022-10-12": 40168,
-  "2022-10-13": 40187,
-  "2022-10-14": 40195,
-  "2022-10-15": 40217,
-  "2022-10-16": 40238,
-  "2022-10-17": 40247,
-  "2022-10-18": 40281,
-  "2022-10-19": 40312,
-  "2022-10-20": 40330,
-  "2022-10-21": 40348,
-  "2022-10-22": 40367,
-  "2022-10-23": 40395,
-  "2022-10-24": 40409,
-  "2022-10-25": 40427,
-  "2022-10-26": 40456,
-  "2022-10-27": 40479,
-  "2022-10-28": 40503,
-  "2022-10-29": 40516,
-  "2022-10-30": 40532,
-  "2022-10-31": 40544,
-  "2022-11-01": 40559,
-  "2022-11-02": 40571,
-  "2022-11-03": 40579,
-  "2022-11-04": 40596,
-  "2022-11-05": 40616,
-  "2022-11-06": 40628,
-  "2022-11-07": 40652,
-  "2022-11-08": 40671,
-  "2022-11-09": 40684,
-  "2022-11-10": 40692,
-  "2022-11-11": 40712,
-  "2022-11-12": 40729,
-  "2022-11-13": 40744,
-  "2022-11-14": 40766,
-  "2022-11-15": 40792,
-  "2022-11-16": 40819,
-  "2022-11-17": 40838,
-  "2022-11-18": 40844,
-  "2022-11-19": 40829,
-  "2022-11-20": 40863,
-  "2022-11-21": 40850,
-  "2022-11-22": 40896,
-  "2022-11-23": 40876,
-  "2022-11-24": 40941,
-  "2022-11-25": 40979,
-  "2022-11-26": 41015,
-  "2022-11-27": 41033,
-  "2022-11-28": 41055,
-  "2022-11-29": 41078,
-  "2022-11-30": 41102,
-  "2022-12-01": 41138,
-  "2022-12-02": 41150,
-  "2022-12-03": 41194,
-  "2022-12-04": 41230,
-  "2022-12-05": 41268,
-  "2022-12-06": 41294,
-  "2022-12-07": 41315,
-  "2022-12-08": 41331,
-  "2022-12-09": 41352,
-  "2022-12-10": 41377,
-  "2022-12-11": 41385,
-  "2022-12-12": 41406,
-  "2022-12-13": 41430,
-  "2022-12-14": 41460,
-  "2022-12-15": 41475,
-  "2022-12-16": 41502,
-  "2022-12-17": 41533,
-  "2022-12-18": 41552,
-  "2022-12-19": 41553,
-  "2022-12-20": 41583,
-  "2022-12-21": 41583,
-  "2022-12-22": 41597,
-  "2022-12-24": 41612,
-  "2022-12-25": 41629,
-  "2022-12-26": 41635,
-  "2022-12-27": 41643,
-  "2022-12-28": 41658,
-  "2022-12-29": 41681,
-  "2022-12-30": 41693,
-  "2022-12-31": 41706,
-  "2023-01-01": 41713,
-  "2023-01-02": 41729,
-  "2023-01-03": 41751,
-  "2023-01-04": 41767,
-  "2023-01-05": 41782,
-  "2023-01-06": 41817,
-  "2023-01-07": 41854,
-  "2023-01-08": 41853,
-  "2023-01-09": 41875,
-  "2023-01-10": 41902,
-  "2023-01-11": 41914,
-  "2023-01-12": 41935,
-  "2023-01-13": 41969,
-  "2023-01-14": 41996,
-  "2023-01-15": 41996,
-  "2023-01-16": 42027,
-  "2023-01-17": 42085,
-  "2023-01-18": 42121,
-  "2023-01-19": 42143,
-  "2023-01-20": 42185,
-  "2023-01-21": 42219,
-  "2023-01-22": 42238,
-  "2023-01-23": 42253,
-  "2023-01-24": 42268,
-  "2023-01-25": 42286,
-  "2023-01-26": 42321,
-  "2023-01-27": 42351,
-  "2023-01-28": 42372,
-  "2023-01-29": 42395,
-  "2023-01-30": 42421,
-  "2023-01-31": 42421,
-  "2023-02-01": 42469,
-  "2023-02-02": 42482,
-  "2023-02-03": 42511,
-  "2023-02-04": 42530,
-  "2023-02-05": 42565,
-  "2023-02-06": 42606,
-  "2023-02-07": 42644,
-  "2023-02-08": 42691,
-  "2023-02-09": 42691,
-  "2023-02-10": 42719,
-  "2023-02-11": 42744,
-  "2023-02-12": 42776,
-  "2023-02-13": 42794,
-  "2023-02-14": 42794,
-  "2023-02-15": 42814,
-  "2023-02-16": 42831,
-  "2023-02-17": 42848,
-  "2023-02-18": 42866,
-  "2023-02-19": 42869,
-  "2023-02-20": 42888,
-  "2023-02-21": 42903,
-  "2023-02-22": 42925,
-  "2023-02-23": 42954,
-  "2023-02-24": 42973,
-  "2023-02-25": 43006,
-  "2023-02-26": 43017,
-  "2023-02-27": 43051,
-  "2023-02-28": 43051,
-  "2023-03-01": 43062,
-  "2023-03-02": 43087,
-  "2023-03-03": 43106,
-  "2023-03-04": 43123,
-  "2023-03-05": 43147,
-  "2023-03-06": 43147,
-  "2023-03-07": 43168,
-  "2023-03-08": 43184,
-  "2023-03-09": 43198,
-  "2023-03-10": 43215,
-  "2023-03-11": 43231,
-  "2023-03-12": 43251,
-  "2023-03-13": 43253,
-  "2023-03-14": 43269,
-  "2023-03-15": 43286,
-  "2023-03-16": 43301,
-  "2023-03-17": 43301,
-  "2023-03-18": 43318,
-  "2023-03-19": 43338,
-  "2023-03-20": 43347,
-  "2023-03-21": 43364,
-  "2023-03-22": 43370,
-  "2023-03-23": 43383,
-  "2023-03-24": 43383,
-  "2023-03-25": 43400,
-  "2023-03-26": 43412,
-  "2023-03-27": 43421,
-  "2023-03-28": 43432,
-  "2023-03-29": 43456,
-  "2023-03-30": 43487,
-  "2023-03-31": 43487,
-  "2023-04-01": 43493,
-  "2023-04-02": 43511,
-  "2023-04-03": 43515,
-  "2023-04-04": 43519,
-  "2023-04-05": 43526,
-  "2023-04-06": 43532,
-  "2023-04-07": 43548,
-  "2023-04-09": 43566,
-  "2023-04-10": 43583,
-  "2023-04-11": 43615,
-  "2023-04-12": 43615,
-  "2023-04-13": 43629,
-  "2023-04-14": 43650,
-  "2023-04-15": 43664,
-  "2023-04-16": 43685,
-  "2023-04-17": 43708,
-  "2023-04-18": 43720,
-  "2023-04-19": 43739,
-  "2023-04-20": 43751,
-  "2023-04-21": 43766,
-  "2023-04-22": 43772,
-  "2023-04-23": 43782,
-  "2023-04-24": 43797,
-  "2023-04-25": 43809,
-  "2023-04-26": 43824,
-  "2023-04-27": 43840,
-  "2023-04-28": 43860,
-  "2023-04-29": 43877,
-  "2023-04-30": 43889,
-  "2023-05-01": 43899,
-  "2023-05-02": 43920,
-  "2023-05-03": 43943,
-  "2023-05-04": 43962,
-  "2023-05-05": 43961,
-  "2023-05-06": 43984,
-  "2023-05-07": 43995,
-  "2023-05-08": 44018,
-  "2023-05-09": 44025,
-  "2023-05-10": 44045,
-  "2023-05-11": 44060,
-  "2023-05-12": 44065,
-  "2023-05-13": 44083,
-  "2023-05-14": 44093,
-  "2023-05-15": 44102,
-  "2023-05-16": 44123,
-  "2023-05-17": 44136,
-  "2023-05-18": 44151,
-  "2023-05-19": 44167,
-  "2023-05-20": 44193,
-  "2023-05-21": 44193,
-  "2023-05-22": 44193,
-  "2023-05-23": 44216,
-  "2023-05-24": 44233,
-  "2023-05-25": 44242,
-  "2023-05-26": 44254,
-  "2023-05-27": 44274,
-  "2023-05-28": 44280,
-  "2023-05-29": 44280,
-  "2023-05-30": 44302,
-  "2023-05-31": 44314,
-  "2023-06-01": 44322,
-  "2023-06-02": 44323,
-  "2023-06-03": 44329,
-  "2023-06-04": 44338,
-  "2023-06-05": 44347,
-  "2023-06-06": 44358,
-  "2023-06-07": 44369,
-  "2023-06-08": 44380,
-  "2023-06-09": 44391,
-  "2023-06-10": 44399,
-  "2023-06-11": 44406,
-  "2023-06-12": 44414,
-  "2023-06-13": 44435,
-  "2023-06-14": 44435,
-  "2023-06-15": 44468,
-  "2023-06-16": 8911,
-  "2023-06-17": 8911,
-  "2023-06-18": 8911,
-  "2023-06-19": 8911,
-  "2023-06-20": 8911,
-  "2023-06-21": 8911,
-  "2023-06-22": 8911,
-  "2023-06-23": 8911,
-  "2023-06-24": 8911,
-  "2023-06-25": 8911,
-  "2023-06-26": 8911,
-  "2023-06-27": 8911,
-  "2023-06-28": 8911,
-  "2023-06-29": 8911,
-  "2023-06-30": 8911,
-  "2023-07-01": 8911,
-  "2023-07-02": 8911,
-  "2023-07-03": 8911,
-  "2023-07-04": 8911,
-  "2023-07-05": 8911,
-  "2023-07-06": 8911,
-  "2023-07-07": 8911,
-  "2023-07-08": 8911,
-  "2023-07-09": 8911,
-  "2023-07-10": 8911,
-  "2023-07-11": 8911,
-  "2023-07-12": 8911,
-  "2023-07-13": 8911,
-  "2023-07-14": 8911,
-  "2023-07-15": 8911,
-  "2023-07-16": 8911,
-  "2023-07-17": 8911,
-  "2023-07-18": 8911,
-  "2023-07-19": 8911,
-  "2023-07-20": 8911,
-  "2023-07-21": 8911,
-  "2023-07-22": 8911,
-  "2023-07-23": 8911,
-  "2023-07-24": 8911,
-  "2023-07-25": 8911,
-  "2023-07-26": 8911,
-  "2023-07-27": 8911,
-  "2023-07-28": 8911,
-  "2023-07-29": 8911,
-  "2023-07-30": 8911,
-  "2023-07-31": 8911,
-  "2023-08-01": 8911,
-  "2023-08-02": 8911,
-  "2023-08-03": 8911,
-  "2023-08-04": 8911,
-  "2023-08-05": 8911,
-  "2023-08-06": 8911,
-  "2023-08-07": 8911,
-  "2023-08-08": 8911,
-  "2023-08-09": 8911,
-  "2023-08-10": 8911,
-  "2023-08-11": 8911,
-  "2023-08-12": 8911,
-  "2023-08-13": 8911,
-  "2023-08-14": 8911,
-  "2023-08-15": 8911,
-  "2023-08-16": 8911,
-  "2023-08-17": 8911,
-  "2023-08-18": 8911,
-  "2023-08-19": 8911,
-  "2023-08-20": 8911,
-  "2023-08-21": 8911,
-  "2023-08-22": 8911,
-  "2023-08-23": 8911,
-  "2023-08-24": 8911,
-  "2023-08-25": 8911,
-  "2023-08-26": 8911,
-  "2023-08-27": 8911,
-  "2023-08-28": 8911,
-  "2023-08-29": 8911,
-  "2023-08-30": 8911,
-  "2023-08-31": 8911,
-  "2023-09-01": 8911,
-  "2023-09-02": 8911,
-  "2023-09-03": 8911,
-  "2023-09-04": 8911,
-  "2023-09-05": 8911,
-  "2023-09-06": 8911,
-  "2023-09-07": 8911,
-  "2023-09-08": 8911,
-  "2023-09-09": 8911,
-  "2023-09-10": 8911,
-  "2023-09-11": 8911,
-  "2023-09-12": 8911,
-  "2023-09-13": 8911,
-  "2023-09-14": 8911,
-  "2023-09-15": 8911,
-  "2023-09-16": 8911,
-  "2023-09-17": 8911,
-  "2023-09-18": 8911,
-  "2023-09-19": 8911,
-  "2023-09-20": 8911,
-  "2023-09-21": 8911,
-  "2023-09-22": 8911,
-  "2023-09-23": 8911,
-  "2023-09-24": 8911,
-  "2023-09-25": 8911,
-  "2023-09-26": 8911,
-  "2023-09-27": 8911,
-  "2023-09-28": 8911,
-  "2023-09-29": 8911,
-  "2023-09-30": 8911,
-  "2023-10-01": 8911,
-  "2023-10-02": 8911,
-  "2023-10-03": 8911,
-  "2023-10-04": 8911,
-  "2023-10-05": 8911,
-  "2023-10-06": 8911,
-  "2023-10-07": 8911,
-  "2023-10-08": 8911,
-  "2023-10-09": 8911,
-  "2023-10-10": 8911,
-  "2023-10-11": 8911,
-  "2023-10-12": 8911,
-  "2023-10-13": 8911,
-  "2023-10-14": 8911,
-  "2023-10-15": 8911,
-  "2023-10-16": 8911,
-  "2023-10-17": 8911,
-  "2023-10-18": 8911,
-  "2023-10-19": 8911,
-  "2023-10-20": 8911,
-  "2023-10-21": 8911,
-  "2023-10-22": 8911,
-  "2023-10-23": 8911,
-  "2023-10-24": 8911,
-  "2023-10-25": 8911,
-  "2023-10-26": 8911,
-  "2023-10-27": 8911,
-  "2023-10-28": 8911,
-  "2023-10-29": 8911,
-  "2023-10-30": 8911,
-  "2023-10-31": 8911,
-  "2023-11-01": 8911,
-  "2023-11-02": 8911,
-  "2023-11-03": 8911,
-  "2023-11-04": 8911,
-  "2023-11-05": 8911,
-  "2023-11-06": 8911,
-  "2023-11-07": 8911,
-  "2023-11-08": 8911,
-  "2023-11-09": 8911,
-  "2023-11-10": 8911,
-  "2023-11-11": 8911,
-  "2023-11-12": 8911,
-  "2023-11-13": 8911,
-  "2023-11-14": 8911,
-  "2023-11-15": 8911,
-  "2023-11-16": 8911,
-  "2023-11-17": 8911,
-  "2023-11-18": 8911,
-  "2023-11-19": 8911,
-  "2023-11-20": 8911,
-  "2023-11-21": 8911,
-  "2023-11-22": 8911,
-  "2023-11-23": 8911,
-  "2023-11-24": 8911,
-  "2023-11-25": 8911,
-  "2023-11-26": 8911,
-  "2023-11-27": 8911,
-  "2023-11-28": 8911,
-  "2023-11-29": 8911,
-  "2023-11-30": 8911,
-  "2023-12-01": 8911,
-  "2023-12-02": 8911,
-  "2023-12-03": 8911,
-  "2023-12-04": 8911,
-  "2023-12-05": 8911,
-  "2023-12-06": 8911,
-  "2023-12-07": 8911,
-  "2023-12-08": 8911,
-  "2023-12-09": 8911,
-  "2023-12-10": 8911,
-  "2023-12-11": 8911,
-  "2023-12-12": 8911,
-  "2023-12-13": 8911,
-  "2023-12-14": 8911,
-  "2023-12-15": 8911,
-  "2023-12-16": 8911,
-  "2023-12-17": 8911,
-  "2023-12-18": 8911,
-  "2023-12-19": 8911,
-  "2023-12-20": 8911,
-  "2023-12-21": 8911,
-  "2023-12-22": 8911,
-  "2023-12-23": 8911,
-  "2023-12-24": 8911,
-  "2023-12-25": 8911,
-  "2023-12-26": 8911,
-  "2023-12-27": 8911,
-  "2023-12-30": 8911,
-  "2023-12-31": 8911,
-  "2024-01-01": 8911,
-  "2024-01-02": 8911,
-  "2024-01-03": 8911
+  "2024-01-17": 8911,
+  "date_first_scraped": "2022-10-05",
+  "description": "AOMG's mr. wide-range rapper: Loco",
+  "name": "This Is Loco",
+  "tracks": [
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 161191,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/78eSaVjwrDs5dLoQKcb1KS"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274070,
+      "name": "Act Serious (Feat. Ugly Duck, DJ Wegun)",
+      "url": "https://open.spotify.com/track/1yy2S8bC5eawKLNh3tocjX"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 274072,
+      "name": "Act Serious (Feat. Ugly Duck, DJ Wegun)",
+      "url": "https://open.spotify.com/track/1SIeSyboPOUv90fgXWf31V"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 274070,
+      "name": "Act serious (feat.Ugly Duck , DJ Wegun)",
+      "url": "https://open.spotify.com/track/4pcXNFzRECO6MkOvIVvIm8"
+    },
+    {
+      "album": {
+        "name": "The Call Project No.4",
+        "url": "https://open.spotify.com/album/3HFYMKzGPxd9tfRWExm4jR"
+      },
+      "artists": [
+        {
+          "name": "Kim Jong Kook",
+          "url": "https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG"
+        },
+        {
+          "name": "Hwang Chi Yeul",
+          "url": "https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq"
+        },
+        {
+          "name": "UV",
+          "url": "https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247591,
+      "name": "All 2 U",
+      "url": "https://open.spotify.com/track/1PAdV4YjMKooQzCN8HfJ7o"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216786,
+      "name": "All I Wanna Do (K) (Feat. Hoody & Loco)",
+      "url": "https://open.spotify.com/track/2FWquqPNxte8iqZ3ATQG0p"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 229152,
+      "name": "Alright, Summer time (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/214dUhHvfsS43jm8IjIMUR"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229152,
+      "name": "Alright, Summer time (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/4nIsnwv0y6Px4BNjSMuq5G"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 229152,
+      "name": "Alright, Summer time (Feat. SAM KIM)",
+      "url": "https://open.spotify.com/track/6ucH64nrvQT29R3HnbmdHN"
+    },
+    {
+      "album": {
+        "name": "At Night",
+        "url": "https://open.spotify.com/album/2zu8aSqeIOTL0db0YXyea3"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "At Night",
+      "url": "https://open.spotify.com/track/0da5hji35BCVb7nC8gRQzF"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3nL8DoihXmK6aNvrg8Czyf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "AWESOME (Feat. Jay Park, GRAY)",
+      "url": "https://open.spotify.com/track/08B5WhZyB8ZdO7x7KfpI7Y"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3UowJdgmCVwSc2o8vagWTq"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 198857,
+      "name": "AWESOME (feat.Jay Park & GRAY)",
+      "url": "https://open.spotify.com/track/7pbJi2eyN0cI0mbBkmLK90"
+    },
+    {
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/25gboA881mwMrScGPLwvEI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186644,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "album": {
+        "name": "BLESS",
+        "url": "https://open.spotify.com/album/08JLbQXbBKWUlUGeoMWV2e"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234284,
+      "name": "BLESS (Feat. Loco & Woo Won Jae)",
+      "url": "https://open.spotify.com/track/6k1OSr7PjlZftwEhZXSXwa"
+    },
+    {
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "YULTRON",
+          "url": "https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264521,
+      "name": "BO$$",
+      "url": "https://open.spotify.com/track/0yec4sLxW29JUAt84HMang"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Brighten your night",
+      "url": "https://open.spotify.com/track/6K5kzsTQZR0GgikiT34qdf"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 220868,
+      "name": "Brighten your night",
+      "url": "https://open.spotify.com/track/2fFgcNHLbKtmFooCY7vaLP"
+    },
+    {
+      "album": {
+        "name": "SOME TIME",
+        "url": "https://open.spotify.com/album/0JO49cvYSe38tAzixAkAEv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251390,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/0KAEcWBiGbUMqysQGISkz8"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212200,
+      "name": "DA DA DA (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/4n9FI4iDy6Ecg91LRjGuXX"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 212200,
+      "name": "DA DA DA (Feat. Hoody)",
+      "url": "https://open.spotify.com/track/6WX68Y7z07oQlz3VolcGXP"
+    },
+    {
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/4PYsUX5Bk3xPVpx7IvOse9"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192435,
+      "name": "DAYDREAM (feat.Loco)",
+      "url": "https://open.spotify.com/track/7e7ESlXkcObCbUTfCJbibE"
+    },
+    {
+      "album": {
+        "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+        "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
+      },
+      "artists": [
+        {
+          "name": "SGBOYZ",
+          "url": "https://open.spotify.com/artist/5PDw41tArOne60p7F4vTtU"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256437,
+      "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
+      "url": "https://open.spotify.com/track/00qTDk2XFKM5zgU8cIXotL"
+    },
+    {
+      "album": {
+        "name": "The Hyena on the Keyboard, Pt. 4",
+        "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231654,
+      "name": "Don\u2019t",
+      "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/5yCLcHxaYIV6xC1kTJO1W2"
+      },
+      "artists": [
+        {
+          "name": "Far East Movement",
+          "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Double Dip (feat. Soulja Boy & Loco)",
+      "url": "https://open.spotify.com/track/0pKUUL1aVcBJEEC6xAwtL6"
+    },
+    {
+      "album": {
+        "name": "D.O.P.E.",
+        "url": "https://open.spotify.com/album/2HrtOUTg0nSeR73kkoKBpz"
+      },
+      "artists": [
+        {
+          "name": "D.O",
+          "url": "https://open.spotify.com/artist/4X7RCrqaJpKMoeyeH5NPvj"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208180,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4Xq8fPbkEcmBT5jMBn7iu7"
+    },
+    {
+      "album": {
+        "name": "SOME TIME",
+        "url": "https://open.spotify.com/album/0JO49cvYSe38tAzixAkAEv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182633,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/2n4IPb5su5yyVarewuw3zF"
+    },
+    {
+      "album": {
+        "name": "Korean Dream",
+        "url": "https://open.spotify.com/album/1CIUot979SnDkIqZVRkER2"
+      },
+      "artists": [
+        {
+          "name": "B-Free",
+          "url": "https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sway D",
+          "url": "https://open.spotify.com/artist/3HfWEOcXit3EkuRCt5M3Yd"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271751,
+      "name": "Fly (feat. Loco, Sway D)",
+      "url": "https://open.spotify.com/track/3kpPXoJtYjaePLlVBnKckh"
+    },
+    {
+      "album": {
+        "name": "REWIND MY TAPE part.1",
+        "url": "https://open.spotify.com/album/2WwKdctfbnGRlxgfpFS17P"
+      },
+      "artists": [
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        },
+        {
+          "name": "HWANG SOYOON, Loco",
+          "url": "https://open.spotify.com/artist/1n9sdz1itvdEMvSRuVe7sO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238743,
+      "name": "GIRL",
+      "url": "https://open.spotify.com/track/5zUBcWHvMIXT99HqZGJJ5V"
+    },
+    {
+      "album": {
+        "name": "GOOD",
+        "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "GOOD",
+      "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265939,
+      "name": "Growing Up (Feat. ELO)",
+      "url": "https://open.spotify.com/track/5welAhPGLmQek8nhhY1816"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/15KDb2KpZRvX1updtyinK1"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 265939,
+      "name": "Growing Up (Feat. ELO)",
+      "url": "https://open.spotify.com/track/6agoEdWfFlObMGMBDNHvxx"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 265939,
+      "name": "Growing up (feat.ELO)",
+      "url": "https://open.spotify.com/track/1CiEPH5HuqXLxWouWIMX5s"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 160496,
+      "name": "Hands Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1PzEe0SLTi7MXHn0zzSlqI"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160496,
+      "name": "Hands Up (Feat. Crush)",
+      "url": "https://open.spotify.com/track/6YplTnmozh3OtY3MVaxXOh"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 160496,
+      "name": "Hands Up (feat.Crush)",
+      "url": "https://open.spotify.com/track/09wfkAhMl4TP9LL4o3OmqR"
+    },
+    {
+      "album": {
+        "name": "Here (feat. Loco)",
+        "url": "https://open.spotify.com/album/6X4NfAGN2cle59Ya8wM4zA"
+      },
+      "artists": [
+        {
+          "name": "yeesang",
+          "url": "https://open.spotify.com/artist/77BJsTaJZVQWJTDUghdY3Z"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242500,
+      "name": "Here (feat. Loco)",
+      "url": "https://open.spotify.com/track/1avv6Is1sjm35xPIBEiHGg"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Konsole",
+          "url": "https://open.spotify.com/artist/5wpmk1tTgAelZjXFz92Mwv"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240279,
+      "name": "High (Feat. Konsole)",
+      "url": "https://open.spotify.com/track/182rHyEwD9djARWQ0lDJZF"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Konsole",
+          "url": "https://open.spotify.com/artist/5wpmk1tTgAelZjXFz92Mwv"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 240279,
+      "name": "High (Feat. Konsole)",
+      "url": "https://open.spotify.com/track/30IyVAipkwCWtj4zPQXguF"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Konsoul",
+          "url": "https://open.spotify.com/artist/6mC3maGD9Tlcblr0BVz2zY"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 240279,
+      "name": "High (feat.Konsoul)",
+      "url": "https://open.spotify.com/track/6IeMnito2GZID87dtJwr0E"
+    },
+    {
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/4f4fA0bwDqoNfiUAHpMFbh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 230106,
+      "name": "Hold Me Tight (Feat. Crush)",
+      "url": "https://open.spotify.com/track/0w0GIaU1kfFSpc5vTwwkjT"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 230111,
+      "name": "Hold Me Tight (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1VIw8MdNK5BDSStNx1WQ2a"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "Hold Me Tight (Feat. Crush)",
+      "url": "https://open.spotify.com/track/1dteYDjCFppP33ANUGfKFF"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 230111,
+      "name": "Hold Me Tight (feat.Crush)",
+      "url": "https://open.spotify.com/track/7pSfipXgxg6fA62whagUkE"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money",
+        "url": "https://open.spotify.com/album/6EvaDa2xfbyWzyUuAfdTTw"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jinsil",
+          "url": "https://open.spotify.com/artist/1PqqSllWCaCwjt3nr9ngaq"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282999,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4PqGi8Bs7R7zmfYgk8KdVx"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259939,
+      "name": "HOW",
+      "url": "https://open.spotify.com/track/0nqhCGCzaogLefOJuvIIh7"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 259939,
+      "name": "HOW",
+      "url": "https://open.spotify.com/track/50ULLiOirobobhnV4i0Dj3"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218933,
+      "name": "If I (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/15YNjE7MDi3a5JPLvDn279"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 218933,
+      "name": "If I (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/2CqqrUcfMqaVmlSiPFmAZv"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 218933,
+      "name": "If I (feat.GRAY)",
+      "url": "https://open.spotify.com/track/6zXLVfU4Y4KNCXwVq1tWEd"
+    },
+    {
+      "album": {
+        "name": "It Takes Time",
+        "url": "https://open.spotify.com/album/47sIbI9FkULa7w0FHRB8Gl"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231602,
+      "name": "It Takes Time (Feat. Colde)",
+      "url": "https://open.spotify.com/track/1hhhgA9X2UJCxV4Vk8exVp"
+    },
+    {
+      "album": {
+        "name": "It Takes Time",
+        "url": "https://open.spotify.com/album/0xXGOAjE8NhRvFhMrQaRDS"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 231602,
+      "name": "It Takes Time (Feat. Colde)",
+      "url": "https://open.spotify.com/track/3mNbGPCLCxia3yvwWp2P51"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 205999,
+      "name": "It's been a while (feat. Zion.T)",
+      "url": "https://open.spotify.com/track/5XSaFLb9dlUdCwC9WAAsaC"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205999,
+      "name": "It\u2032s been a while (Feat. Zion.T)",
+      "url": "https://open.spotify.com/track/37CKtYC4R9m8woURH6hESX"
+    },
+    {
+      "album": {
+        "name": "The hyena on the keyboard",
+        "url": "https://open.spotify.com/album/62S9H2fOKaEZzgwQjOByY5"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Sleepy",
+          "url": "https://open.spotify.com/artist/5qp3vJC5OdDo1Zsrsl3sIR"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197734,
+      "name": "I\u2019m fine (With Sleepy, LOCO, Hoody)",
+      "url": "https://open.spotify.com/track/4pthvdNd1EypeNic7l5ngz"
+    },
+    {
+      "album": {
+        "name": "Mechanical Album",
+        "url": "https://open.spotify.com/album/7jtjXNrg0uM0dDwQ3NGTcO"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187256,
+      "name": "I\u2019M IN TROUBLE (feat.Loco)",
+      "url": "https://open.spotify.com/track/554h9TaDhYne0wU0XRe8a9"
+    },
+    {
+      "album": {
+        "name": "grayground. 01",
+        "url": "https://open.spotify.com/album/0jR5mEh7PtD96CfXwkmem7"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228097,
+      "name": "Just Do It",
+      "url": "https://open.spotify.com/track/1RXMtaUUM2hyixi37Z7vA5"
+    },
+    {
+      "album": {
+        "name": "Just Like This",
+        "url": "https://open.spotify.com/album/2RpmJwbaKYe0JhlNNENMvi"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199733,
+      "name": "Just Like This (Feat. george)",
+      "url": "https://open.spotify.com/track/3ptp3j48p6tPwGEJUCbSu0"
+    },
+    {
+      "album": {
+        "name": "LALALA",
+        "url": "https://open.spotify.com/album/0KV08mAhoVS6NiHm3StTJ7"
+      },
+      "artists": [
+        {
+          "name": "BUMKEY",
+          "url": "https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225968,
+      "name": "LALALA (feat. SURAN, Loco)",
+      "url": "https://open.spotify.com/track/3hRjOdNpdnaURSDvIIkDfY"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/2AoDue0STCUvp7qUDzTvXj"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191666,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/5oK2nZo8CTCQJd1SJwBUws"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/5H6Sord6ry7qvVlNTwpfHC"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 191666,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7GhxPuxjwAbKEiQFMP5Mxd"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211720,
+      "name": "Lemon",
+      "url": "https://open.spotify.com/track/3zwntVG0DD4oM5zbaRBYcL"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 208759,
+      "name": "Like I'm saying",
+      "url": "https://open.spotify.com/track/4irP8FbtdvsSdbMpUyDEWp"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208746,
+      "name": "Like I\u2032m saying",
+      "url": "https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0"
+    },
+    {
+      "album": {
+        "name": "SHOW ME THE MONEY 11 Semi Final",
+        "url": "https://open.spotify.com/album/58Xcmyli4ey3cwoqPg1GFx"
+      },
+      "artists": [
+        {
+          "name": "JAMBINO",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "HyunA",
+          "url": "https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "LIKE WATER (Feat. Loco, HyunA)",
+      "url": "https://open.spotify.com/track/6Vo3VtFuU8qHeXJpb5rDFa"
+    },
+    {
+      "album": {
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/0c6HVT63jKngery3iE4BXr"
+      },
+      "artists": [
+        {
+          "name": "TK",
+          "url": "https://open.spotify.com/artist/0kA2cuK2RR04zHvuFtFzDJ"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Local Market (feat. LOCO & SURAN)",
+      "url": "https://open.spotify.com/track/0JTqBg6SI60953QxyYr78M"
+    },
+    {
+      "album": {
+        "name": "Love(Prod.Rocoberry)",
+        "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Lee sung kyung",
+          "url": "https://open.spotify.com/artist/7AqcQSFPIpFD44ZNRm22m4"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "Love(Prod.Rocoberry)",
+      "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228160,
+      "name": "Macan",
+      "url": "https://open.spotify.com/track/44NWLpX0zsP9nlgo6U8lgK"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 228164,
+      "name": "Macan",
+      "url": "https://open.spotify.com/track/5tLjnT5o3kzCqQjqwLyiu4"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 10 Semi Final",
+        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
+      },
+      "artists": [
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248513,
+      "name": "MBTI (Feat. Coogie & Loco) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/3sMyDgDEGNCAOIvlEs6PR7"
+    },
+    {
+      "album": {
+        "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
+        "url": "https://open.spotify.com/album/1jblALddh9vcMp7j4MqM8H"
+      },
+      "artists": [
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        },
+        {
+          "name": "Way Ched",
+          "url": "https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316000,
+      "name": "Mentors [from \u201cSchool Rapper 4 Episode 0\u201d]",
+      "url": "https://open.spotify.com/track/1Jaf1PUUwzXZ3bCJ6mBjPh"
+    },
+    {
+      "album": {
+        "name": "HANYUL x Loco x Dingo [Moonlight: In the moonlit city]",
+        "url": "https://open.spotify.com/album/3hEfNiT6nQhkIRnehW9OIh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3kO6C257MWj5iepZTW74id"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252200,
+      "name": "MOVIE SHOOT (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/0Z2ODxEibVXZ5kX5JMckO2"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 252205,
+      "name": "MOVIE SHOOT (Feat. DPR LIVE)",
+      "url": "https://open.spotify.com/track/6sHeshKZ58cV5mjC5m3mW8"
+    },
+    {
+      "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237903,
+      "name": "My Last",
+      "url": "https://open.spotify.com/track/2LTLUWY6bTkBZD5OAqhkuI"
+    },
+    {
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204411,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/0fSkSYIKAz1xXt46KQAGuL"
+    },
+    {
+      "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/17aFqVFuQsrnhSHMEE7rLE"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "AOMG",
+          "url": "https://open.spotify.com/artist/4jI1sm5mTNOWw6ea5Cmslp"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204411,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/14Nf9lOGkXAREMYbSzZv3e"
+    },
+    {
+      "album": {
+        "name": "School Rapper4 Final",
+        "url": "https://open.spotify.com/album/6Zw6ERPKHSEKN8PQafruGR"
+      },
+      "artists": [
+        {
+          "name": "Touch the Sky",
+          "url": "https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "NARO (Feat. Loco & Simon Dominic)",
+      "url": "https://open.spotify.com/track/6Looe9h6A9rOq57FXGOgE8"
+    },
+    {
+      "album": {
+        "name": "TRAPART",
+        "url": "https://open.spotify.com/album/3JNARFXD4YTlwAz01Oi0Zp"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254203,
+      "name": "Never Know (Prod. Vangdale)",
+      "url": "https://open.spotify.com/track/1kWiIdOs0GFPjm1O3C2lLL"
+    },
+    {
+      "album": {
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
+      },
+      "artists": [
+        {
+          "name": "HolyBang",
+          "url": "https://open.spotify.com/artist/55hCEdYVgnzW3ymnsIPd7T"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139093,
+      "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
+      "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
+    },
+    {
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/4f4fA0bwDqoNfiUAHpMFbh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 217689,
+      "name": "No Manners (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3eYq62suZcEx5wSVlEEvbl"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218568,
+      "name": "No Manners (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/6sDUnutYACkOoQJWDoUhWi"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 218568,
+      "name": "No Manners (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/7AzywoEvtpSvKuIZcqFOs2"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 218568,
+      "name": "No Manners (feat.GRAY)",
+      "url": "https://open.spotify.com/track/4LH9QLTPmP4qBD6qfa6LQK"
+    },
+    {
+      "album": {
+        "name": "No More",
+        "url": "https://open.spotify.com/album/005jgvGW30csy4azsW3cuX"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235171,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/1W3rC6w4UbzOslCEfrsAXL"
+    },
+    {
+      "album": {
+        "name": "Flip",
+        "url": "https://open.spotify.com/album/4rVJMhiG57vrG0nxB7Zmy8"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "No Where",
+      "url": "https://open.spotify.com/track/1LwhAzX8Zw5xFMIw1AQszi"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 260357,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/3xnHhS5ka7SVLFkBBGkouP"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260357,
+      "name": "NOTHING",
+      "url": "https://open.spotify.com/track/6M5594ibA2Cw4QRr2rMBi7"
+    },
+    {
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/2SJyIthDo3niFwShd7h51t"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251880,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/12hQOdnrsPiIkkhELguEci"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 4",
+        "url": "https://open.spotify.com/album/1yocxA6MOGK0NkxS0KXpMk"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263955,
+      "name": "ON IT + BO$$",
+      "url": "https://open.spotify.com/track/1uMXONGQp4Yssa9RuCktqZ"
+    },
+    {
+      "album": {
+        "name": "Some Definition of Love",
+        "url": "https://open.spotify.com/album/2eyvRNPt1Ip7saHJQ6JZ07"
+      },
+      "artists": [
+        {
+          "name": "SOMDEF",
+          "url": "https://open.spotify.com/artist/6jqPhhNZTfZbBVDYKWIQvT"
+        },
+        {
+          "name": "Bravo",
+          "url": "https://open.spotify.com/artist/0G4aZyVFKAl9so620NrwOL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207896,
+      "name": "ONE PLUS ONE (Feat.Loco, Bravo)",
+      "url": "https://open.spotify.com/track/53bSr9ad6couYZI72RVZIf"
+    },
+    {
+      "album": {
+        "name": "ONE PLUS ONE",
+        "url": "https://open.spotify.com/album/3kP2AhPRqjtwutDhu1Ih5t"
+      },
+      "artists": [
+        {
+          "name": "SOMDEF",
+          "url": "https://open.spotify.com/artist/6jqPhhNZTfZbBVDYKWIQvT"
+        },
+        {
+          "name": "Bravo",
+          "url": "https://open.spotify.com/artist/0G4aZyVFKAl9so620NrwOL"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207896,
+      "name": "ONE PLUS ONE (Feat.Loco,Bravo)",
+      "url": "https://open.spotify.com/track/2S3ffti8IkFh9Jsp9AFWdk"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235036,
+      "name": "OPPA",
+      "url": "https://open.spotify.com/track/22sCy9toRdPKgl0LRvtwkR"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 235036,
+      "name": "OPPA",
+      "url": "https://open.spotify.com/track/37h0ga3nJhViGJIZPS1zHX"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 235036,
+      "name": "OPPA",
+      "url": "https://open.spotify.com/track/65AFGrEwA9uwHURFJUJd12"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 234939,
+      "name": "Party Band (Feat. PUNCHNELLO, Thur)",
+      "url": "https://open.spotify.com/track/1uzTdJkWVxxwOunWVa2BkM"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 234939,
+      "name": "Party Band (Feat. PUNCHNELLO, Thur)",
+      "url": "https://open.spotify.com/track/3tAsQTsf0Z54ug6iCgGsLS"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        },
+        {
+          "name": "Thur",
+          "url": "https://open.spotify.com/artist/1LvNe813XqkhzNmZH0UHLO"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234939,
+      "name": "Party Band (Feat. PUNCHNELLO, Thur)",
+      "url": "https://open.spotify.com/track/7cf2Dse4od8ogBvmqXxQKI"
+    },
+    {
+      "album": {
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/4QEyVgpccxmKuzeb5VQmNm"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
+    },
+    {
+      "album": {
+        "name": "POST IT",
+        "url": "https://open.spotify.com/album/5j9o6fcQjKHAyRDhdfS9aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 226989,
+      "name": "POST IT (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/6yYAcOlhsYR9jVZPYoHvYc"
+    },
+    {
+      "album": {
+        "name": "R.O.K (Republic of Korea)",
+        "url": "https://open.spotify.com/album/2fL3yGlZ05roAOyV1Ke4HI"
+      },
+      "artists": [
+        {
+          "name": "ILLSON",
+          "url": "https://open.spotify.com/artist/1o3mKG33qvuXI2s3HXTkYd"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Take 1",
+          "url": "https://open.spotify.com/artist/5Xs1wV6H1icq1T7Lh8Z4Yu"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "R.O.K (Republic of Korea)",
+      "url": "https://open.spotify.com/track/21G5h1WZRbshRe853v75zR"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 1",
+        "url": "https://open.spotify.com/album/5v6dzJs5l3hA4ooGirC3fz"
+      },
+      "artists": [
+        {
+          "name": "SIKK",
+          "url": "https://open.spotify.com/artist/3vhy0RyHvpC4MZkUcIbTXv"
+        },
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Geegooin",
+          "url": "https://open.spotify.com/artist/6i47wcSLvsZ9M01UO7zsua"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217241,
+      "name": "RESPECT",
+      "url": "https://open.spotify.com/track/1tSbW0F1jECewfwP7hphyy"
+    },
+    {
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
+    },
+    {
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/6LYPZz34qDpdVWFqqTB5aT"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 184586,
+      "name": "RESPECT (feat.GRAY & DJ Pumkin)",
+      "url": "https://open.spotify.com/track/75SBGFK831bsaD2QwBF4WR"
+    },
+    {
+      "album": {
+        "name": "SOME TIME",
+        "url": "https://open.spotify.com/album/0JO49cvYSe38tAzixAkAEv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143613,
+      "name": "Return Home",
+      "url": "https://open.spotify.com/track/1TOTnGWXCZf2eur0FL3PlN"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 258558,
+      "name": "Rewind (Feat. SUMIN)",
+      "url": "https://open.spotify.com/track/30oZ161npcglwox5PhHiys"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260573,
+      "name": "Rewind (Feat. SUMIN)",
+      "url": "https://open.spotify.com/track/03pG0A3sYLgRXLXSZwvonL"
+    },
+    {
+      "album": {
+        "name": "Coming To You Live",
+        "url": "https://open.spotify.com/album/23fwKUYyu1kvRnDR2imBnq"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Right Here Right Now (Feat. LOCO & JAY PARK)",
+      "url": "https://open.spotify.com/track/47UUNYT0lsDnX9EYHIBf3L"
+    },
+    {
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218897,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc"
+    },
+    {
+      "album": {
+        "name": "Band Wegun Effect",
+        "url": "https://open.spotify.com/album/2rky9fmPRIqzoaAjePgj5r"
+      },
+      "artists": [
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "OLNL",
+          "url": "https://open.spotify.com/artist/4ls4GQkl0kkBlAWq2DgS0z"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177131,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/03BZifmvYuQKh8TLp0ourt"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 219340,
+      "name": "So Bad (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/4rlZnkaTSoyQgreTLlNL8W"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "So Bad (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/3y6iRBvuKJRLLB7kTue6wn"
+    },
+    {
+      "album": {
+        "name": "Andre",
+        "url": "https://open.spotify.com/album/3c8EwsM7c6Ek2JPrf2b1VV"
+      },
+      "artists": [
+        {
+          "name": "yankie",
+          "url": "https://open.spotify.com/artist/6a8KtGpAv3NHL713mcH08a"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234749,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/1o63J4PLFxNHPMOGohT7sx"
+    },
+    {
+      "album": {
+        "name": "Solo [From \"Unpretty Rapstar 2 Track 4\"]",
+        "url": "https://open.spotify.com/album/6qt5VLXQtEqdhum0qgaTrb"
+      },
+      "artists": [
+        {
+          "name": "YEZI",
+          "url": "https://open.spotify.com/artist/6LPOT9C3gvGQHxlZtMLHHg"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209003,
+      "name": "Solo [From \"Unpretty Rapstar 2 Track 4\"] - Remix",
+      "url": "https://open.spotify.com/track/10wGwVTXBKw7TBLJQiED34"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "yeesang",
+          "url": "https://open.spotify.com/artist/77BJsTaJZVQWJTDUghdY3Z"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 181349,
+      "name": "Some Beatmaker (Feat. Svng & Woo)",
+      "url": "https://open.spotify.com/track/4sujPvcfPHfYonL7bC1ZaG"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Svng",
+          "url": "https://open.spotify.com/artist/1CQSDDqF3X7UBkeOTowhxA"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181349,
+      "name": "Some Beatmaker (Feat. Svng, Woo)",
+      "url": "https://open.spotify.com/track/5MOXuTznEETRbOa678M8Sr"
+    },
+    {
+      "album": {
+        "name": "The Call Final Project",
+        "url": "https://open.spotify.com/album/7mqiesRwjzK18P35tRSsGl"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "SOME MORE",
+      "url": "https://open.spotify.com/track/646tj2NAztNqfAnsnbZEWr"
+    },
+    {
+      "album": {
+        "name": "Somebody",
+        "url": "https://open.spotify.com/album/40XK96MKBOb5BjAU8QAIfN"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Hwa Sa",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177413,
+      "name": "Somebody!",
+      "url": "https://open.spotify.com/track/2FA4veLVh3jf7O8q5VhNh5"
+    },
+    {
+      "album": {
+        "name": "Girl Who Sees Smell OST Part.2",
+        "url": "https://open.spotify.com/album/2DH3LaLcK63kEHYIH6ZK8A"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 201000,
+      "name": "Spring Is Gone by chance",
+      "url": "https://open.spotify.com/track/5A0ut5JjeNLgGaScBIRyBU"
+    },
+    {
+      "album": {
+        "name": "Girl Who Sees Smell (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0KLTnRxu16LGkmlWJDAQkE"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Spring Is Gone by chance",
+      "url": "https://open.spotify.com/track/5rZN0PP6xZsf5SWxkpMm7k"
+    },
+    {
+      "album": {
+        "name": "Memories of the Alhambra (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2cpRz9LpAMbP4bdCpsFxPl"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "U Sung Eun",
+          "url": "https://open.spotify.com/artist/15UyjlO0ZuDaSjXUGytDbI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182773,
+      "name": "Star (Little Prince)",
+      "url": "https://open.spotify.com/track/0YQO5aF9S0d3E74ZEfB9Dl"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276440,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/0UsIsMukG8WAV0CVorWOTb"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 276440,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/5K209mgnrnMPLNIluT9m77"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/61gBfG7BfLc9QvVnsCVRof"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 276612,
+      "name": "Still (Feat. Crush)",
+      "url": "https://open.spotify.com/track/40pK4HjQnWjle9v0hWbdqV"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/1hn2ZGbHCcJE8AsAVph2QI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 276612,
+      "name": "Still (feat.Crush)",
+      "url": "https://open.spotify.com/track/6z7gU9SBoBdqEaMi4jPKc2"
+    },
+    {
+      "album": {
+        "name": "MUGGLES' MANSION",
+        "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285281,
+      "name": "StrOngerrr (Feat. Loco, MINO)",
+      "url": "https://open.spotify.com/track/6mzxQgOkdymXCCz8A7wyz9"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2xdOxEBdBbOx4UCJRNSbcf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192348,
+      "name": "Summer Go Loco (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/3WwYPsUyzjsBbAItT1t631"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/2zTJi7RUXXj7GwWmX1VfYG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 192348,
+      "name": "Summer Go Loco (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/4mCUfsh13ou2YDcj9i3gqk"
+    },
+    {
+      "album": {
+        "name": "Summer Go Loco",
+        "url": "https://open.spotify.com/album/1uwhMCfSiKE8o79fQisawU"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-10",
+      "duration_ms": 192348,
+      "name": "Summer Go Loco (Feat. GRAY)",
+      "url": "https://open.spotify.com/track/7rLGubcxgKZjQ5WLpkEePO"
+    },
+    {
+      "album": {
+        "name": "Coogie",
+        "url": "https://open.spotify.com/album/14B3BWQC9LcySp3Lxjaqn5"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        },
+        {
+          "name": "nafla",
+          "url": "https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217120,
+      "name": "SUZURAN",
+      "url": "https://open.spotify.com/track/6YeSeGAD6bVLsGIswaeWTt"
+    },
+    {
+      "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136240,
+      "name": "Sweaty (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/11gYMzMkvro6P9YG69BIxm"
+    },
+    {
+      "album": {
+        "name": "Take Care",
+        "url": "https://open.spotify.com/album/6dpL8cY46BrtfKUfmTmk3w"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "\ubc15\ub098\ub798",
+          "url": "https://open.spotify.com/artist/3oBO24qfRYkz2F0IeFg5k4"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222002,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/1Tc6M6Y97fRPO5gLyEehtE"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227221,
+      "name": "Tangled Up (Feat. pH-1)",
+      "url": "https://open.spotify.com/track/2ceuI1jModiG2T83Ytka0h"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 227221,
+      "name": "Tangled Up (feat. pH-1)",
+      "url": "https://open.spotify.com/track/4JHbjHpTmqjdzDGJWWgACq"
+    },
+    {
+      "album": {
+        "name": "Tasty x Tasty",
+        "url": "https://open.spotify.com/album/0edv4ueAsyeQ7uYnIG6ddF"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169717,
+      "name": "Tasty x Tasty",
+      "url": "https://open.spotify.com/track/6ubzgznl4lqaCYV2kd7ewv"
+    },
+    {
+      "album": {
+        "name": "JUNG YONG HWA 1ST MINI ALBUM DO DISTURB",
+        "url": "https://open.spotify.com/album/4D53QLzhxZOs3TVLm86esQ"
+      },
+      "artists": [
+        {
+          "name": "Jung Yong Hwa",
+          "url": "https://open.spotify.com/artist/6zhAP0FoDccL9kuETOC20q"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208284,
+      "name": "That Girl (Feat. Loco)",
+      "url": "https://open.spotify.com/track/2eXziVXVdsftkKrKOcyVNX"
+    },
+    {
+      "album": {
+        "name": "Boys and Girls Music Vol.1",
+        "url": "https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239837,
+      "name": "Think About' Chu",
+      "url": "https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Thinking About You (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/58AZoaLwhYsAh3fhZ2n7So"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 172631,
+      "name": "Thinking About You (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/6Xs0avmULd1fJkceDnf8WL"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 172631,
+      "name": "Thinking about you (feat.JAY PARK)",
+      "url": "https://open.spotify.com/track/5GOIbFxCKgLe9dB8grrUZZ"
+    },
+    {
+      "album": {
+        "name": "My Lovely Girl (Original Television Soundtrack) Pt. 1",
+        "url": "https://open.spotify.com/album/6h01y0AFNix423uTeusV2g"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229489,
+      "name": "This song",
+      "url": "https://open.spotify.com/track/0Lp1A8RfkbyMr0WRdR9eI8"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/0wQMtraDGsoUBzGMzd2dAP"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 185479,
+      "name": "Too Fast (feat. Paloalto)",
+      "url": "https://open.spotify.com/track/3b6hdvwUxqG7A45NNE876I"
+    },
+    {
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/2v1MjbTD1MQjPH9T6RAYa2"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Paloalto",
+          "url": "https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185479,
+      "name": "Too Fast (Feat. Paloalto)",
+      "url": "https://open.spotify.com/track/7bPcFAxZ7U745qK4lNIhbi"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 190957,
+      "name": "Too Much (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/1iArAuiiDPjtZcwO33YeLF"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "Too Much (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/1uhxMfjhglHoWlNyN3JaGs"
+    },
+    {
+      "album": {
+        "name": "TTFU",
+        "url": "https://open.spotify.com/album/5K6d8lB7dP9CNXv9LPR1nN"
+      },
+      "artists": [
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "TTFU",
+      "url": "https://open.spotify.com/track/2Ijm5CQ4Y24lS0Zi7oK6hj"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/6JZcMszjclxpjaS3VPyOvw"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/61J1dGU5RCNs6rMnPADv4r"
+    },
+    {
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/4WkcSqzSz1q7oNpZEBNZFc"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 221142,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/69F89vyxsDnnYNJ9HfwoKr"
+    },
+    {
+      "album": {
+        "name": "SOME TIME",
+        "url": "https://open.spotify.com/album/0JO49cvYSe38tAzixAkAEv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/7B9vIvrEbUsZCP8PJuMKPX"
+    },
+    {
+      "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/67d43ZuedVWtZMc4nOm90J"
+      },
+      "artists": [
+        {
+          "name": "Woo",
+          "url": "https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196020,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/2SMq0lOqCTHayWa9juoI0d"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3nL8DoihXmK6aNvrg8Czyf"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268773,
+      "name": "We Up There (Feat. C JAMM, Jay Park)",
+      "url": "https://open.spotify.com/track/7pr6wxa6aL1QckZ9hVwEv2"
+    },
+    {
+      "album": {
+        "name": "AWESOME",
+        "url": "https://open.spotify.com/album/3UowJdgmCVwSc2o8vagWTq"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 268773,
+      "name": "We up there (feat.C Jamm & Jay Park)",
+      "url": "https://open.spotify.com/track/51rFMLEJ4h3uhuP9ZZEttH"
+    },
+    {
+      "album": {
+        "name": "Scene Stealers",
+        "url": "https://open.spotify.com/album/01NUcsaXDsn4JH9RgDeZPe"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Ugly Duck",
+          "url": "https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Dayday",
+          "url": "https://open.spotify.com/artist/2M6pSBXyVDYo0IjlbW8Jj2"
+        },
+        {
+          "name": "Simon Dominic",
+          "url": "https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322806,
+      "name": "Who You - Remix",
+      "url": "https://open.spotify.com/track/2ByIPJqORZEkOGrNbTgnCj"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6qkqEwFfBENTU0SXbqaTXG"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-17",
+      "duration_ms": 247582,
+      "name": "You don't know",
+      "url": "https://open.spotify.com/track/0sAOiAiIlq3NU7xzM7oaf7"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/7F0LY47PDwAfxaAOMNhMZ3"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247582,
+      "name": "You Don\u2032t Know",
+      "url": "https://open.spotify.com/track/1l5ucvhFyb65OGMX8spr4R"
+    },
+    {
+      "album": {
+        "name": "LOCOMOTIVE",
+        "url": "https://open.spotify.com/album/6K59hSvoc9Y4CAB63TLqbz"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 247582,
+      "name": "You Don\u2032t Know",
+      "url": "https://open.spotify.com/track/34hPwvA5UusjSisuZCc0pv"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "You too (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/31guQsPeUoNS7cIMys55CH"
+    },
+    {
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1xREcRvJFgP1rJMfRvh2aI"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 210028,
+      "name": "You too (Feat. Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/0JDwY9o2QYJg11icyreRDd"
+    },
+    {
+      "album": {
+        "name": "You too",
+        "url": "https://open.spotify.com/album/1EXLUiDclq6SzfLnByTSE1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "Cha Cha Malone",
+          "url": "https://open.spotify.com/artist/7632p5JJi58r3q9GfhqSyF"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 211106,
+      "name": "You too (feat.Cha Cha Malone)",
+      "url": "https://open.spotify.com/track/5MW4xOuTb7mRQwKPeojF3A"
+    },
+    {
+      "album": {
+        "name": "YOUNG",
+        "url": "https://open.spotify.com/album/5XN0VfKWEWpxhjcks8MGLe"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229666,
+      "name": "YOUNG",
+      "url": "https://open.spotify.com/track/49HmLcTG7tsqz32TF3rnCC"
+    },
+    {
+      "album": {
+        "name": "ELLEONOEL",
+        "url": "https://open.spotify.com/album/30vQdcmOORZOGuwPT20H44"
+      },
+      "artists": [
+        {
+          "name": "NO:EL",
+          "url": "https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "\uad7d (feat. Loco)",
+      "url": "https://open.spotify.com/track/6oAd7vjQSvS3Z3S5VxQQ03"
+    },
+    {
+      "album": {
+        "name": "\ud22c\uc720 \ud504\ub85c\uc81d\ud2b8 - \uc288\uac00\ub9e8 Pt.3",
+        "url": "https://open.spotify.com/album/5EMwUSbjZKt2nAYseqVf1W"
+      },
+      "artists": [
+        {
+          "name": "CRUSH",
+          "url": "https://open.spotify.com/artist/0i9GLyWskCOnpircpYwvg5"
+        },
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193266,
+      "name": "\uc544\ub9c8\ub3c4 \uadf8\uac74",
+      "url": "https://open.spotify.com/track/4S2tpVDNAkvhHY6kkhVvXZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Q9tnTsgAAI"
 }

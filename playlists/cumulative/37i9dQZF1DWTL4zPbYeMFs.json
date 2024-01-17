@@ -839,6 +839,28 @@
     },
     {
       "album": {
+        "name": "Love Like That (feat. Ali Sethi)",
+        "url": "https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Ali Sethi",
+          "url": "https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160707,
+      "name": "Love Like That (feat. Ali Sethi)",
+      "url": "https://open.spotify.com/track/6vBuBiZkJDabpSEZqZFYNS"
+    },
+    {
+      "album": {
         "name": "Kal Ho Naa Ho (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6H71erprmvRxnWs3XqC8uE"
       },
@@ -1596,7 +1618,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 152152,
       "name": "Saj Ke",
       "url": "https://open.spotify.com/track/0f2E2QWspTyRSygY4fx7Y8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 
 > Aperte o play e dance com os maiores nomes da música eletrônica nacional\. Foto: Santti
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,697 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,194 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd14ByHZraz1.md) - [plain]
 | 9 | [Mwaki](https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [SURRENDER](https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D) | 3:28 |
 | 10 | [Reason](https://open.spotify.com/track/0ppTYxMWmNN8SuVoRZMbKB) | [Kubi](https://open.spotify.com/artist/6ePfLvMTRs5ma91LfsE523) | [Reason](https://open.spotify.com/album/11L6VBSHib3rjEo7PQbJib) | 3:06 |
 | 11 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
-| 12 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 |
+| 12 | [Focus \- Double Mzk Remix](https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double Mzk Remix\)](https://open.spotify.com/album/4SzaT0l2P7XNF2b2Ht1RDj) | 2:21 |
 | 13 | [Booty Pop](https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX), [White Sheep](https://open.spotify.com/artist/2jFNsdG1zHOQaQzcBK0B50) | [Booty Pop](https://open.spotify.com/album/1bSplo5F20nYLxUGxTEeDu) | 2:53 |
 | 14 | [Same Man](https://open.spotify.com/track/61JaHYd8nsdvB3srjgGZtM) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT) | [Same Man](https://open.spotify.com/album/2oHueeYRfx9HZ7lAp99S3s) | 2:32 |
 | 15 | [With You](https://open.spotify.com/track/4pD7ds0WqjF6I5xrRJStkk) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [With You](https://open.spotify.com/album/18ejf0VB2RM7UnyTZ3EIOc) | 2:04 |

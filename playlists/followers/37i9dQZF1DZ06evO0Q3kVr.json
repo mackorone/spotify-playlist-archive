@@ -1,354 +1,1039 @@
 {
-  "2023-01-14": 3120,
-  "2023-01-15": 3122,
-  "2023-01-16": 3126,
-  "2023-01-17": 3134,
-  "2023-01-18": 3138,
-  "2023-01-19": 3139,
-  "2023-01-20": 3142,
-  "2023-01-21": 3145,
-  "2023-01-22": 3146,
-  "2023-01-23": 3150,
-  "2023-01-24": 3152,
-  "2023-01-25": 3155,
-  "2023-01-26": 3167,
-  "2023-01-27": 3172,
-  "2023-01-28": 3178,
-  "2023-01-29": 3179,
-  "2023-01-30": 3180,
-  "2023-01-31": 3180,
-  "2023-02-01": 3185,
-  "2023-02-02": 3191,
-  "2023-02-03": 3194,
-  "2023-02-04": 3199,
-  "2023-02-05": 3199,
-  "2023-02-06": 3201,
-  "2023-02-07": 3204,
-  "2023-02-08": 3213,
-  "2023-02-09": 3213,
-  "2023-02-10": 3216,
-  "2023-02-11": 3219,
-  "2023-02-12": 3226,
-  "2023-02-13": 3235,
-  "2023-02-14": 3235,
-  "2023-02-15": 3235,
-  "2023-02-16": 3242,
-  "2023-02-17": 3242,
-  "2023-02-18": 3250,
-  "2023-02-19": 3249,
-  "2023-02-20": 3255,
-  "2023-02-21": 3256,
-  "2023-02-22": 3263,
-  "2023-02-23": 3265,
-  "2023-02-24": 3266,
-  "2023-02-25": 3273,
-  "2023-02-26": 3274,
-  "2023-02-27": 3283,
-  "2023-02-28": 3283,
-  "2023-03-01": 3284,
-  "2023-03-02": 3288,
-  "2023-03-03": 3295,
-  "2023-03-04": 3299,
-  "2023-03-05": 3311,
-  "2023-03-06": 3311,
-  "2023-03-07": 3314,
-  "2023-03-08": 3319,
-  "2023-03-09": 3325,
-  "2023-03-10": 3330,
-  "2023-03-11": 3338,
-  "2023-03-12": 3340,
-  "2023-03-13": 3342,
-  "2023-03-14": 3346,
-  "2023-03-15": 3348,
-  "2023-03-16": 3351,
-  "2023-03-17": 3351,
-  "2023-03-18": 3359,
-  "2023-03-19": 3367,
-  "2023-03-20": 3368,
-  "2023-03-21": 3369,
-  "2023-03-22": 3374,
-  "2023-03-23": 3379,
-  "2023-03-24": 3379,
-  "2023-03-25": 3382,
-  "2023-03-26": 3386,
-  "2023-03-27": 3393,
-  "2023-03-28": 3400,
-  "2023-03-29": 3402,
-  "2023-03-30": 3405,
-  "2023-03-31": 3405,
-  "2023-04-01": 3409,
-  "2023-04-02": 3413,
-  "2023-04-03": 3420,
-  "2023-04-04": 3425,
-  "2023-04-05": 3430,
-  "2023-04-06": 3436,
-  "2023-04-07": 3441,
-  "2023-04-09": 3448,
-  "2023-04-10": 3451,
-  "2023-04-11": 3456,
-  "2023-04-12": 3456,
-  "2023-04-13": 3460,
-  "2023-04-14": 3462,
-  "2023-04-15": 3466,
-  "2023-04-16": 3470,
-  "2023-04-17": 3477,
-  "2023-04-18": 3478,
-  "2023-04-19": 3483,
-  "2023-04-20": 3484,
-  "2023-04-21": 3482,
-  "2023-04-22": 3488,
-  "2023-04-23": 3496,
-  "2023-04-24": 3500,
-  "2023-04-25": 3503,
-  "2023-04-26": 3506,
-  "2023-04-27": 3511,
-  "2023-04-28": 3512,
-  "2023-04-29": 3513,
-  "2023-04-30": 3513,
-  "2023-05-01": 3516,
-  "2023-05-02": 3517,
-  "2023-05-03": 3520,
-  "2023-05-04": 3523,
-  "2023-05-05": 3530,
-  "2023-05-06": 3534,
-  "2023-05-07": 3534,
-  "2023-05-08": 3542,
-  "2023-05-09": 3546,
-  "2023-05-10": 3551,
-  "2023-05-11": 3555,
-  "2023-05-12": 3558,
-  "2023-05-13": 3560,
-  "2023-05-14": 3564,
-  "2023-05-15": 3567,
-  "2023-05-16": 3570,
-  "2023-05-17": 3576,
-  "2023-05-18": 3579,
-  "2023-05-19": 3585,
-  "2023-05-20": 3596,
-  "2023-05-21": 3596,
-  "2023-05-22": 3596,
-  "2023-05-23": 3607,
-  "2023-05-24": 3611,
-  "2023-05-25": 3615,
-  "2023-05-26": 3622,
-  "2023-05-27": 3628,
-  "2023-05-28": 3632,
-  "2023-05-29": 3632,
-  "2023-05-30": 3642,
-  "2023-05-31": 3649,
-  "2023-06-01": 3653,
-  "2023-06-02": 3657,
-  "2023-06-03": 3661,
-  "2023-06-04": 3665,
-  "2023-06-05": 3664,
-  "2023-06-06": 3672,
-  "2023-06-07": 3676,
-  "2023-06-08": 3677,
-  "2023-06-09": 3688,
-  "2023-06-10": 3692,
-  "2023-06-11": 3698,
-  "2023-06-12": 3700,
-  "2023-06-13": 3704,
-  "2023-06-14": 3708,
-  "2023-06-15": 3713,
-  "2023-06-16": 3720,
-  "2023-06-17": 3724,
-  "2023-06-18": 3732,
-  "2023-06-19": 3735,
-  "2023-06-20": 3738,
-  "2023-06-21": 3743,
-  "2023-06-22": 3747,
-  "2023-06-23": 3750,
-  "2023-06-24": 3752,
-  "2023-06-25": 3753,
-  "2023-06-26": 3759,
-  "2023-06-27": 3763,
-  "2023-06-28": 3766,
-  "2023-06-29": 3773,
-  "2023-06-30": 3776,
-  "2023-07-01": 3779,
-  "2023-07-02": 3779,
-  "2023-07-03": 3784,
-  "2023-07-04": 3788,
-  "2023-07-05": 3790,
-  "2023-07-06": 3801,
-  "2023-07-07": 3801,
-  "2023-07-08": 3801,
-  "2023-07-09": 3805,
-  "2023-07-10": 3808,
-  "2023-07-11": 3813,
-  "2023-07-12": 3822,
-  "2023-07-13": 3831,
-  "2023-07-14": 3837,
-  "2023-07-15": 3840,
-  "2023-07-16": 3847,
-  "2023-07-17": 3850,
-  "2023-07-18": 3852,
-  "2023-07-19": 3854,
-  "2023-07-20": 3857,
-  "2023-07-21": 3862,
-  "2023-07-22": 3864,
-  "2023-07-23": 3867,
-  "2023-07-24": 3871,
-  "2023-07-25": 3875,
-  "2023-07-26": 3880,
-  "2023-07-27": 3885,
-  "2023-07-28": 3889,
-  "2023-07-29": 3893,
-  "2023-07-30": 3895,
-  "2023-07-31": 3899,
-  "2023-08-01": 3907,
-  "2023-08-02": 3913,
-  "2023-08-03": 3921,
-  "2023-08-04": 3923,
-  "2023-08-05": 3925,
-  "2023-08-06": 3932,
-  "2023-08-07": 3932,
-  "2023-08-08": 3938,
-  "2023-08-09": 3942,
-  "2023-08-10": 3949,
-  "2023-08-11": 3950,
-  "2023-08-12": 3956,
-  "2023-08-13": 3956,
-  "2023-08-14": 3969,
-  "2023-08-15": 3976,
-  "2023-08-16": 3976,
-  "2023-08-17": 3987,
-  "2023-08-18": 3987,
-  "2023-08-19": 3999,
-  "2023-08-20": 4004,
-  "2023-08-21": 4008,
-  "2023-08-22": 4022,
-  "2023-08-23": 4027,
-  "2023-08-24": 4033,
-  "2023-08-25": 4039,
-  "2023-08-26": 4038,
-  "2023-08-27": 4043,
-  "2023-08-28": 4044,
-  "2023-08-29": 4048,
-  "2023-08-30": 4048,
-  "2023-08-31": 4053,
-  "2023-09-01": 4062,
-  "2023-09-02": 4062,
-  "2023-09-03": 4067,
-  "2023-09-04": 4067,
-  "2023-09-05": 4074,
-  "2023-09-06": 4075,
-  "2023-09-07": 4075,
-  "2023-09-08": 4075,
-  "2023-09-09": 4075,
-  "2023-09-10": 4095,
-  "2023-09-11": 4097,
-  "2023-09-12": 4097,
-  "2023-09-13": 4108,
-  "2023-09-14": 4108,
-  "2023-09-15": 4108,
-  "2023-09-16": 4135,
-  "2023-09-17": 4135,
-  "2023-09-18": 4135,
-  "2023-09-19": 4143,
-  "2023-09-20": 4143,
-  "2023-09-21": 4143,
-  "2023-09-22": 4146,
-  "2023-09-23": 4146,
-  "2023-09-24": 4146,
-  "2023-09-25": 4146,
-  "2023-09-26": 4168,
-  "2023-09-27": 4168,
-  "2023-09-28": 4168,
-  "2023-09-29": 4168,
-  "2023-09-30": 4168,
-  "2023-10-01": 4168,
-  "2023-10-02": 4190,
-  "2023-10-03": 4190,
-  "2023-10-04": 4190,
-  "2023-10-05": 4212,
-  "2023-10-06": 4216,
-  "2023-10-07": 4216,
-  "2023-10-08": 4216,
-  "2023-10-09": 4216,
-  "2023-10-10": 4216,
-  "2023-10-11": 4235,
-  "2023-10-12": 4235,
-  "2023-10-13": 4235,
-  "2023-10-14": 4235,
-  "2023-10-15": 4235,
-  "2023-10-16": 4235,
-  "2023-10-17": 4235,
-  "2023-10-18": 4235,
-  "2023-10-19": 4235,
-  "2023-10-20": 4235,
-  "2023-10-21": 4235,
-  "2023-10-22": 4235,
-  "2023-10-23": 4235,
-  "2023-10-24": 4235,
-  "2023-10-25": 4235,
-  "2023-10-26": 4235,
-  "2023-10-27": 4235,
-  "2023-10-28": 4235,
-  "2023-10-29": 4235,
-  "2023-10-30": 4235,
-  "2023-10-31": 4235,
-  "2023-11-01": 4235,
-  "2023-11-02": 4235,
-  "2023-11-03": 4235,
-  "2023-11-04": 4235,
-  "2023-11-05": 4235,
-  "2023-11-06": 4235,
-  "2023-11-07": 4235,
-  "2023-11-08": 4235,
-  "2023-11-09": 4235,
-  "2023-11-10": 4235,
-  "2023-11-11": 4357,
-  "2023-11-12": 4357,
-  "2023-11-13": 4357,
-  "2023-11-14": 4357,
-  "2023-11-15": 4357,
-  "2023-11-16": 4357,
-  "2023-11-17": 4357,
-  "2023-11-18": 4357,
-  "2023-11-19": 4357,
-  "2023-11-20": 4357,
-  "2023-11-21": 4357,
-  "2023-11-22": 4357,
-  "2023-11-23": 4357,
-  "2023-11-24": 4357,
-  "2023-11-25": 4357,
-  "2023-11-26": 4357,
-  "2023-11-27": 4357,
-  "2023-11-28": 4357,
-  "2023-11-29": 4357,
-  "2023-11-30": 4357,
-  "2023-12-01": 4357,
-  "2023-12-02": 4357,
-  "2023-12-03": 4357,
-  "2023-12-04": 4357,
-  "2023-12-05": 4357,
-  "2023-12-06": 4357,
-  "2023-12-07": 4357,
-  "2023-12-08": 4357,
-  "2023-12-09": 4357,
-  "2023-12-10": 4357,
-  "2023-12-11": 4357,
-  "2023-12-12": 4357,
-  "2023-12-13": 4357,
-  "2023-12-14": 4454,
-  "2023-12-15": 4454,
-  "2023-12-16": 4459,
-  "2023-12-17": 4462,
-  "2023-12-18": 4463,
-  "2023-12-19": 4462,
-  "2023-12-20": 4467,
-  "2023-12-21": 4472,
-  "2023-12-22": 4476,
-  "2023-12-23": 4481,
-  "2023-12-24": 4483,
-  "2023-12-25": 4486,
-  "2023-12-26": 4488,
-  "2023-12-27": 4487,
-  "2023-12-30": 4497,
-  "2023-12-31": 4502,
-  "2024-01-01": 4506,
-  "2024-01-02": 4508,
-  "2024-01-03": 4508
+  "2024-01-17": 4531,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is Banda Bostik. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Bostik",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407840,
+      "name": "A Mi Padre",
+      "url": "https://open.spotify.com/track/1udEfRVDwNqLir9Do9trm9"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311890,
+      "name": "Abran Esa Puerta",
+      "url": "https://open.spotify.com/track/1pRirlWDnqahmM4ankMzLn"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "Al Diablo Con Mi Suerte",
+      "url": "https://open.spotify.com/track/0PHlq00lqPvLUQYpedHFsv"
+    },
+    {
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/7HZJJvCk1dP3YSAoLioVW4"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325293,
+      "name": "As\u00ed Est\u00e1 Bien",
+      "url": "https://open.spotify.com/track/34h5DWjlO3AoBIAyehencQ"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340560,
+      "name": "Ave Nocturna",
+      "url": "https://open.spotify.com/track/7ebnVkj8vrXaPD51rSw0ia"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148560,
+      "name": "C. P.",
+      "url": "https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268887,
+      "name": "Ciego",
+      "url": "https://open.spotify.com/track/2PXyrWoAhaPaY4hoGjze7b"
+    },
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Con el Pu\u00f1o Arriba - En Vivo",
+      "url": "https://open.spotify.com/track/49oBQabycGOYzF56YQu6BC"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248346,
+      "name": "Dios Salve a las Bandas",
+      "url": "https://open.spotify.com/track/5pTIKSSckGFcPqsptMd6SA"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250868,
+      "name": "Dios Salve a las Bandas",
+      "url": "https://open.spotify.com/track/37lw5GqQU8cOZ86HS0jI9U"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254537,
+      "name": "Dolor de Madre",
+      "url": "https://open.spotify.com/track/7nihNFLsnhZTbRnAKHVFH8"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 255053,
+      "name": "Dolor de Madre",
+      "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "D\u00e9jala Ser",
+      "url": "https://open.spotify.com/track/1IXMFfQKf0WW8cAF8DodGF"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300413,
+      "name": "El Adi\u00f3s de un Alcoh\u00f3lico",
+      "url": "https://open.spotify.com/track/7cBzB83d9uSfzaHjQ9LJzj"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277960,
+      "name": "El o Ella",
+      "url": "https://open.spotify.com/track/62IHFIcNY5g8t5XA8mAmZ8"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199738,
+      "name": "El Sexo Opuesto y Su Realidad",
+      "url": "https://open.spotify.com/track/33DP7d6lF7OZ1e9PFJm0mb"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346859,
+      "name": "Exceso de Droga",
+      "url": "https://open.spotify.com/track/4jBagOx3OaqLv72nKacJex"
+    },
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390240,
+      "name": "Exceso de Drogas - En Vivo",
+      "url": "https://open.spotify.com/track/6E9ImakW9sqDliFdc6OS5w"
+    },
+    {
+      "album": {
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426160,
+      "name": "Exeso de Droga",
+      "url": "https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268004,
+      "name": "Falsa Sociedad",
+      "url": "https://open.spotify.com/track/11XeYp5xuwtEwTs9FcGdlH"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/1hTjikq5Pc0hfOgqHMTOVc"
+    },
+    {
+      "album": {
+        "name": "Hipotecados",
+        "url": "https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 385560,
+      "name": "Hipotecados",
+      "url": "https://open.spotify.com/track/7q8GWqCr3sAEp7Tgx1GURo"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367850,
+      "name": "Jesus de Nazareth",
+      "url": "https://open.spotify.com/track/1b9zxrKhOxANckyLwNTxB7"
+    },
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432960,
+      "name": "Jes\u00fas de Nazaret",
+      "url": "https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346488,
+      "name": "Juan Sin Miedo",
+      "url": "https://open.spotify.com/track/7sccHyJmpqyYpYAk8HVTpQ"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276642,
+      "name": "La Calle y Yo",
+      "url": "https://open.spotify.com/track/0qxs6l053dQXareuwE8i8f"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359653,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/0R8vXXaa5UTvIwZCzbbcWg"
+    },
+    {
+      "album": {
+        "name": "Viva M\u00e9xico Cab..., Vol. 1",
+        "url": "https://open.spotify.com/album/1v4EHHcvOU73UE4zUKX3zh"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 341194,
+      "name": "Leyenda Viviente",
+      "url": "https://open.spotify.com/track/2G8x0YmrQKLCqsG57QtURS"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Llamarada de Petate",
+      "url": "https://open.spotify.com/track/4YiLBnH4LhvHZESn36OZj6"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223468,
+      "name": "Malas Noticias",
+      "url": "https://open.spotify.com/track/69RxGJRqsvpR92VnkETnNq"
+    },
+    {
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191750,
+      "name": "Maribel",
+      "url": "https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Mi Amigo Manuel",
+      "url": "https://open.spotify.com/track/0UMy7gWkj930S829cgLNns"
+    },
+    {
+      "album": {
+        "name": "Mi Mexico",
+        "url": "https://open.spotify.com/album/3shjxUJn5Xz1w9QlMtu9il"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        },
+        {
+          "name": "Armando Palomas",
+          "url": "https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349910,
+      "name": "Mi Mexico",
+      "url": "https://open.spotify.com/track/57l5KhmbdK3w1YUijm3Mfj"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233314,
+      "name": "Pandillero",
+      "url": "https://open.spotify.com/track/5fY3UnVKUqlYFJiOkQwwld"
+    },
+    {
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236193,
+      "name": "Pandillero, Pt. 1",
+      "url": "https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj"
+    },
+    {
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213623,
+      "name": "Pandillero, Pt. 2",
+      "url": "https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290093,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/6GMV9bpJWQPVdecv7AWhyY"
+    },
+    {
+      "album": {
+        "name": "Genoma Humano",
+        "url": "https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 141893,
+      "name": "Perra Callejera",
+      "url": "https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9"
+    },
+    {
+      "album": {
+        "name": "Capturados",
+        "url": "https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129393,
+      "name": "Presentaci\u00f3n",
+      "url": "https://open.spotify.com/track/6Lx6yC1Zltmx93uT6QxFlc"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 214000,
+      "name": "Profugo",
+      "url": "https://open.spotify.com/track/5sCTUepkCI6CsuyaGwEHwJ"
+    },
+    {
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287986,
+      "name": "Que F\u00e1cil",
+      "url": "https://open.spotify.com/track/6BKgSJEwlxSGadurggJAPf"
+    },
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 2",
+        "url": "https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "Rateros Con Placas",
+      "url": "https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308082,
+      "name": "Reclusorio Barrientos",
+      "url": "https://open.spotify.com/track/1hZXjj7WMINIutzRkvh7wd"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Redada",
+      "url": "https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346026,
+      "name": "Reflexiones",
+      "url": "https://open.spotify.com/track/59ggezzKDAY8RBcUDn5AcP"
+    },
+    {
+      "album": {
+        "name": "Hipotecados",
+        "url": "https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-11",
+      "duration_ms": 262720,
+      "name": "Rolando Pacheco Mota del Campo",
+      "url": "https://open.spotify.com/track/0RJSZkue7LVhz5RI13CFj1"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237840,
+      "name": "S.O.S. de Amor",
+      "url": "https://open.spotify.com/track/4BHg0cux6eWiKNtSckEh0q"
+    },
+    {
+      "album": {
+        "name": "20 Aniversario, Vol. 2 (Rock de la Banda para la Banda)",
+        "url": "https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318893,
+      "name": "Tlaltelolco 68",
+      "url": "https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286859,
+      "name": "Tlatelolco",
+      "url": "https://open.spotify.com/track/7aXS9abYIGYwmb2izj37xW"
+    },
+    {
+      "album": {
+        "name": "Ataca de Nuevo: En Vivo, Vol. 1",
+        "url": "https://open.spotify.com/album/1J414WmCyoFwbOb0Kz5sXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413066,
+      "name": "Tocando Fondo - En Vivo",
+      "url": "https://open.spotify.com/track/00UFHHEQIkhUtHQ09lGUvq"
+    },
+    {
+      "album": {
+        "name": "Trascendencia",
+        "url": "https://open.spotify.com/album/6wI9HpmGoMc2abajO10K1k"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Trascendencia",
+      "url": "https://open.spotify.com/track/5D5wscvQ327rxOjhJ4wECK"
+    },
+    {
+      "album": {
+        "name": "En el Camino",
+        "url": "https://open.spotify.com/album/6RfcQ4KzwbUFpJ6rhvlwF3"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146893,
+      "name": "Trata de Cambiar",
+      "url": "https://open.spotify.com/track/624BuUFBbatf2Fkq7fUXud"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "Viajero",
+      "url": "https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "\u00a1Ah! Eres Tu!",
+      "url": "https://open.spotify.com/track/4fD4QJ0P8FNuDQNOjQn2wB"
+    },
+    {
+      "album": {
+        "name": "Del Barrio",
+        "url": "https://open.spotify.com/album/21867014aseBS6APsqGgcN"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296472,
+      "name": "\u00bfPor Qu\u00e9?",
+      "url": "https://open.spotify.com/track/14MVUODB4PCoJlnkcAo0PG"
+    },
+    {
+      "album": {
+        "name": "Viajero",
+        "url": "https://open.spotify.com/album/3A6tXvEKANe2c8U68fh6oc"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345930,
+      "name": "\u00c1ngel o Demonio",
+      "url": "https://open.spotify.com/track/0rPZ2vSzmtDdRdcGXQ2Xt6"
+    },
+    {
+      "album": {
+        "name": "En Pie de Guerra",
+        "url": "https://open.spotify.com/album/7DuTUYC1uFO68u7Vm68vuD"
+      },
+      "artists": [
+        {
+          "name": "Banda Bostik",
+          "url": "https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207772,
+      "name": "\u00c1ngeles de la Ciudad",
+      "url": "https://open.spotify.com/track/6JkK65mfQxvlgtzRRi7i9L"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr"
 }

@@ -400,6 +400,28 @@
     {
       "album": {
         "name": "Aria",
+        "url": "https://open.spotify.com/album/3kClJAfRGwy69XkJGmGcsA"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236065,
+      "name": "Aria",
+      "url": "https://open.spotify.com/track/1o2WYr42HrIoR38WhMy4p6"
+    },
+    {
+      "album": {
+        "name": "Aria",
         "url": "https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe"
       },
       "artists": [
@@ -414,7 +436,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 236065,
       "name": "Aria",
       "url": "https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J"
@@ -952,7 +974,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": "2024-01-11",
       "duration_ms": 379356,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik"
@@ -1400,10 +1422,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 213390,
       "name": "Cosmovision",
       "url": "https://open.spotify.com/track/2gauzJG2UlNCWiBP5ppcNc"
+    },
+    {
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        },
+        {
+          "name": "Ravid",
+          "url": "https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213390,
+      "name": "Cosmovision",
+      "url": "https://open.spotify.com/track/32JWyOLWccN1BwBvwjuChN"
     },
     {
       "album": {
@@ -1448,6 +1492,24 @@
     {
       "album": {
         "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+    },
+    {
+      "album": {
+        "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
       "artists": [
@@ -1458,7 +1520,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
@@ -3166,7 +3228,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 360242,
       "name": "Landa",
       "url": "https://open.spotify.com/track/4QKgq7twx3wHL3fS73WKHo"
@@ -3918,7 +3980,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": "2024-01-07",
       "duration_ms": 450285,
       "name": "NEON RATS",
       "url": "https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN"
@@ -4070,7 +4132,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 184761,
       "name": "NYWTF (feat. Mikhail Beltran) - Edit",
       "url": "https://open.spotify.com/track/3FoOzVf0Snj4ym2xjZCikn"
@@ -4428,6 +4490,28 @@
     {
       "album": {
         "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/3rtikOpy9VLFHFv79b2ZzQ"
+      },
+      "artists": [
+        {
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283902,
+      "name": "Point Of No Return",
+      "url": "https://open.spotify.com/track/2xsIBTddzLEnXCFsxPHBn0"
+    },
+    {
+      "album": {
+        "name": "Point Of No Return",
         "url": "https://open.spotify.com/album/6YfeosMg7VMAnS9wXiMQID"
       },
       "artists": [
@@ -4442,7 +4526,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 283902,
       "name": "Point Of No Return",
       "url": "https://open.spotify.com/track/6PzfuuQ95fRU9JRFSFFq77"
@@ -5160,7 +5244,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-16",
+      "date_removed": "2024-01-06",
       "duration_ms": 441898,
       "name": "Silence & Secrets - Adriatique Remix",
       "url": "https://open.spotify.com/track/5twGTwrfKmxSc21cTGNPNn"

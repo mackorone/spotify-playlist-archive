@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Angie K
 
-151 songs - 8 hr 19 min
+152 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beautiful Crazy \[Bella Locura\] \- Spanish](https://open.spotify.com/track/2EHn6Ud7fm4gnNw6cWk3GH) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Beautiful Crazy \[Bella Locura\]](https://open.spotify.com/album/2i7Kp0HZyQ42NXSL0FRnmv) | 2:56 | 2023-12-15 | 2023-12-21 |
 | [Before The Next Teardrop Falls](https://open.spotify.com/track/4Om2jfATPD0nhnEcaI0U1H) | [Bo Bundy](https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS) | [The Lonestar \(Side A\)](https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp) | 2:42 | 2023-01-27 |  |
 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 | 2021-12-10 |  |
+| [Brothers](https://open.spotify.com/track/6Imq8YhHb4vmcNRMhj0QaI) | [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Brothers](https://open.spotify.com/album/3LKddDEC4veAwqoUNKWizM) | 3:24 | 2024-01-05 |  |
 | [Buscando El Olvido](https://open.spotify.com/track/6Ot71Is6rWE8KWEbWgxhZr) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:41 | 2023-04-28 |  |
 | [Caminando](https://open.spotify.com/track/4A2WUGWWhMomNd3SshZK2E) | [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Alamo Country Band](https://open.spotify.com/album/5rIcbhlN8jUeXVAPZYWaTv) | 3:50 | 2021-12-10 |  |
 | [Chero en la Gran Ciudad](https://open.spotify.com/track/6Xc7SksAQwy2sbX1dAbT45) | [Los Vikingos Del Norte](https://open.spotify.com/artist/1M4xkleBO7JywHJ9oPw3qM), [Alamo Country Band](https://open.spotify.com/artist/2IAjHCBYs2aB1I5KQf5G7p) | [Chero en la Gran Ciudad](https://open.spotify.com/album/5lhxb1lo9wPEKi0CdCNehw) | 2:32 | 2021-12-10 |  |

@@ -1,354 +1,1357 @@
 {
-  "2023-01-14": 11518,
-  "2023-01-15": 11615,
-  "2023-01-16": 11840,
-  "2023-01-17": 12178,
-  "2023-01-18": 12432,
-  "2023-01-19": 12675,
-  "2023-01-20": 12994,
-  "2023-01-21": 13262,
-  "2023-01-22": 13488,
-  "2023-01-23": 13649,
-  "2023-01-24": 13807,
-  "2023-01-25": 13947,
-  "2023-01-26": 14081,
-  "2023-01-27": 14221,
-  "2023-01-28": 14344,
-  "2023-01-29": 14484,
-  "2023-01-30": 14623,
-  "2023-01-31": 14623,
-  "2023-02-01": 14871,
-  "2023-02-02": 15014,
-  "2023-02-03": 15109,
-  "2023-02-04": 15210,
-  "2023-02-05": 15326,
-  "2023-02-06": 15421,
-  "2023-02-07": 15530,
-  "2023-02-08": 15709,
-  "2023-02-09": 15709,
-  "2023-02-10": 15800,
-  "2023-02-11": 15929,
-  "2023-02-12": 16111,
-  "2023-02-13": 16219,
-  "2023-02-14": 16219,
-  "2023-02-15": 16305,
-  "2023-02-16": 16388,
-  "2023-02-17": 16479,
-  "2023-02-18": 16653,
-  "2023-02-19": 16672,
-  "2023-02-20": 16749,
-  "2023-02-21": 16818,
-  "2023-02-22": 16884,
-  "2023-02-23": 16965,
-  "2023-02-24": 17044,
-  "2023-02-25": 17158,
-  "2023-02-26": 17224,
-  "2023-02-27": 17345,
-  "2023-02-28": 17345,
-  "2023-03-01": 17422,
-  "2023-03-02": 17505,
-  "2023-03-03": 17590,
-  "2023-03-04": 17635,
-  "2023-03-05": 17741,
-  "2023-03-06": 17741,
-  "2023-03-07": 17794,
-  "2023-03-08": 17849,
-  "2023-03-09": 17888,
-  "2023-03-10": 17946,
-  "2023-03-11": 17998,
-  "2023-03-12": 18051,
-  "2023-03-13": 18121,
-  "2023-03-14": 18170,
-  "2023-03-15": 18229,
-  "2023-03-16": 18276,
-  "2023-03-17": 18276,
-  "2023-03-18": 18382,
-  "2023-03-19": 18440,
-  "2023-03-20": 18500,
-  "2023-03-21": 18553,
-  "2023-03-22": 18593,
-  "2023-03-23": 18637,
-  "2023-03-24": 18637,
-  "2023-03-25": 18724,
-  "2023-03-26": 18777,
-  "2023-03-27": 18832,
-  "2023-03-28": 18868,
-  "2023-03-29": 18910,
-  "2023-03-30": 18979,
-  "2023-03-31": 18979,
-  "2023-04-01": 19034,
-  "2023-04-02": 19085,
-  "2023-04-03": 19131,
-  "2023-04-04": 19173,
-  "2023-04-05": 19227,
-  "2023-04-06": 19281,
-  "2023-04-07": 19326,
-  "2023-04-09": 19411,
-  "2023-04-10": 19464,
-  "2023-04-11": 19531,
-  "2023-04-12": 19531,
-  "2023-04-13": 19596,
-  "2023-04-14": 19646,
-  "2023-04-15": 19703,
-  "2023-04-16": 19750,
-  "2023-04-17": 19793,
-  "2023-04-18": 19851,
-  "2023-04-19": 19898,
-  "2023-04-20": 19948,
-  "2023-04-21": 19998,
-  "2023-04-22": 20047,
-  "2023-04-23": 20104,
-  "2023-04-24": 20157,
-  "2023-04-25": 20214,
-  "2023-04-26": 20700,
-  "2023-04-27": 21013,
-  "2023-04-28": 21196,
-  "2023-04-29": 21354,
-  "2023-04-30": 21506,
-  "2023-05-01": 21626,
-  "2023-05-02": 21753,
-  "2023-05-03": 21855,
-  "2023-05-04": 21969,
-  "2023-05-05": 22087,
-  "2023-05-06": 22215,
-  "2023-05-07": 22311,
-  "2023-05-08": 22405,
-  "2023-05-09": 22482,
-  "2023-05-10": 22549,
-  "2023-05-11": 22616,
-  "2023-05-12": 22693,
-  "2023-05-13": 22778,
-  "2023-05-14": 22836,
-  "2023-05-15": 22900,
-  "2023-05-16": 22980,
-  "2023-05-17": 23042,
-  "2023-05-18": 23109,
-  "2023-05-19": 23181,
-  "2023-05-20": 23312,
-  "2023-05-21": 23312,
-  "2023-05-22": 23312,
-  "2023-05-23": 23434,
-  "2023-05-24": 23521,
-  "2023-05-25": 23536,
-  "2023-05-26": 23589,
-  "2023-05-27": 23643,
-  "2023-05-28": 23697,
-  "2023-05-29": 23697,
-  "2023-05-30": 23804,
-  "2023-05-31": 23864,
-  "2023-06-01": 23912,
-  "2023-06-02": 23954,
-  "2023-06-03": 24020,
-  "2023-06-04": 24076,
-  "2023-06-05": 24134,
-  "2023-06-06": 24189,
-  "2023-06-07": 24237,
-  "2023-06-08": 24277,
-  "2023-06-09": 24318,
-  "2023-06-10": 24358,
-  "2023-06-11": 24391,
-  "2023-06-12": 24446,
-  "2023-06-13": 24485,
-  "2023-06-14": 24517,
-  "2023-06-15": 24556,
-  "2023-06-16": 24593,
-  "2023-06-17": 24633,
-  "2023-06-18": 24680,
-  "2023-06-19": 24736,
-  "2023-06-20": 24798,
-  "2023-06-21": 24831,
-  "2023-06-22": 24885,
-  "2023-06-23": 24934,
-  "2023-06-24": 24971,
-  "2023-06-25": 25000,
-  "2023-06-26": 25046,
-  "2023-06-27": 25083,
-  "2023-06-28": 25132,
-  "2023-06-29": 25183,
-  "2023-06-30": 25238,
-  "2023-07-01": 25313,
-  "2023-07-02": 25313,
-  "2023-07-03": 25369,
-  "2023-07-04": 25418,
-  "2023-07-05": 25455,
-  "2023-07-06": 25513,
-  "2023-07-07": 25513,
-  "2023-07-08": 25552,
-  "2023-07-09": 25597,
-  "2023-07-10": 25635,
-  "2023-07-11": 25673,
-  "2023-07-12": 25698,
-  "2023-07-13": 25748,
-  "2023-07-14": 25806,
-  "2023-07-15": 25834,
-  "2023-07-16": 25879,
-  "2023-07-17": 25927,
-  "2023-07-18": 25969,
-  "2023-07-19": 26014,
-  "2023-07-20": 26055,
-  "2023-07-21": 26085,
-  "2023-07-22": 26116,
-  "2023-07-23": 26147,
-  "2023-07-24": 26180,
-  "2023-07-25": 26226,
-  "2023-07-26": 26271,
-  "2023-07-27": 26308,
-  "2023-07-28": 26332,
-  "2023-07-29": 26369,
-  "2023-07-30": 26395,
-  "2023-07-31": 26440,
-  "2023-08-01": 26461,
-  "2023-08-02": 26491,
-  "2023-08-03": 26530,
-  "2023-08-04": 26562,
-  "2023-08-05": 26598,
-  "2023-08-06": 26669,
-  "2023-08-07": 26669,
-  "2023-08-08": 26711,
-  "2023-08-09": 26734,
-  "2023-08-10": 26780,
-  "2023-08-11": 26814,
-  "2023-08-12": 26832,
-  "2023-08-13": 26864,
-  "2023-08-14": 26903,
-  "2023-08-15": 26984,
-  "2023-08-16": 26984,
-  "2023-08-17": 27015,
-  "2023-08-18": 27048,
-  "2023-08-19": 27077,
-  "2023-08-20": 27106,
-  "2023-08-21": 27153,
-  "2023-08-22": 27193,
-  "2023-08-23": 27228,
-  "2023-08-24": 27260,
-  "2023-08-25": 27302,
-  "2023-08-26": 27331,
-  "2023-08-27": 27364,
-  "2023-08-28": 27389,
-  "2023-08-29": 27408,
-  "2023-08-30": 27446,
-  "2023-08-31": 27476,
-  "2023-09-01": 27536,
-  "2023-09-02": 27536,
-  "2023-09-03": 27557,
-  "2023-09-04": 27584,
-  "2023-09-05": 27612,
-  "2023-09-06": 27631,
-  "2023-09-07": 27669,
-  "2023-09-08": 27702,
-  "2023-09-09": 27733,
-  "2023-09-10": 27770,
-  "2023-09-11": 27805,
-  "2023-09-12": 27831,
-  "2023-09-13": 27844,
-  "2023-09-14": 27866,
-  "2023-09-15": 27890,
-  "2023-09-16": 27917,
-  "2023-09-17": 27949,
-  "2023-09-18": 27981,
-  "2023-09-19": 28022,
-  "2023-09-20": 28045,
-  "2023-09-21": 28081,
-  "2023-09-22": 28101,
-  "2023-09-23": 28120,
-  "2023-09-24": 28154,
-  "2023-09-25": 28191,
-  "2023-09-26": 28215,
-  "2023-09-27": 28233,
-  "2023-09-28": 28256,
-  "2023-09-29": 28280,
-  "2023-09-30": 28294,
-  "2023-10-01": 28328,
-  "2023-10-02": 28348,
-  "2023-10-03": 28368,
-  "2023-10-04": 28407,
-  "2023-10-05": 28430,
-  "2023-10-06": 28450,
-  "2023-10-07": 28479,
-  "2023-10-08": 28513,
-  "2023-10-09": 28560,
-  "2023-10-10": 28561,
-  "2023-10-11": 28584,
-  "2023-10-12": 28584,
-  "2023-10-13": 28590,
-  "2023-10-14": 28617,
-  "2023-10-15": 28639,
-  "2023-10-16": 28682,
-  "2023-10-17": 28711,
-  "2023-10-18": 28720,
-  "2023-10-19": 28750,
-  "2023-10-20": 28776,
-  "2023-10-21": 28794,
-  "2023-10-22": 28814,
-  "2023-10-23": 28835,
-  "2023-10-24": 28859,
-  "2023-10-25": 28879,
-  "2023-10-26": 28901,
-  "2023-10-27": 28920,
-  "2023-10-28": 28937,
-  "2023-10-29": 28953,
-  "2023-10-30": 28996,
-  "2023-10-31": 28996,
-  "2023-11-01": 29006,
-  "2023-11-02": 29025,
-  "2023-11-03": 29055,
-  "2023-11-04": 29074,
-  "2023-11-05": 29091,
-  "2023-11-06": 29109,
-  "2023-11-07": 29139,
-  "2023-11-08": 29155,
-  "2023-11-09": 29166,
-  "2023-11-10": 29188,
-  "2023-11-11": 29204,
-  "2023-11-12": 29217,
-  "2023-11-13": 29242,
-  "2023-11-14": 29253,
-  "2023-11-15": 29253,
-  "2023-11-16": 29285,
-  "2023-11-17": 29313,
-  "2023-11-18": 29313,
-  "2023-11-19": 29331,
-  "2023-11-20": 29346,
-  "2023-11-21": 29364,
-  "2023-11-22": 29372,
-  "2023-11-23": 29385,
-  "2023-11-24": 29395,
-  "2023-11-25": 29410,
-  "2023-11-26": 29417,
-  "2023-11-27": 29438,
-  "2023-11-28": 29460,
-  "2023-11-29": 29507,
-  "2023-11-30": 29507,
-  "2023-12-01": 29535,
-  "2023-12-02": 29556,
-  "2023-12-03": 29566,
-  "2023-12-04": 29594,
-  "2023-12-05": 29614,
-  "2023-12-06": 29635,
-  "2023-12-07": 29645,
-  "2023-12-08": 29667,
-  "2023-12-09": 29694,
-  "2023-12-10": 29716,
-  "2023-12-11": 29729,
-  "2023-12-12": 29754,
-  "2023-12-13": 29767,
-  "2023-12-14": 29790,
-  "2023-12-15": 29801,
-  "2023-12-16": 29819,
-  "2023-12-17": 29844,
-  "2023-12-18": 29864,
-  "2023-12-19": 29885,
-  "2023-12-20": 29913,
-  "2023-12-21": 29925,
-  "2023-12-22": 29936,
-  "2023-12-23": 29958,
-  "2023-12-24": 29969,
-  "2023-12-25": 29978,
-  "2023-12-26": 29984,
-  "2023-12-27": 30004,
-  "2023-12-30": 30057,
-  "2023-12-31": 30083,
-  "2024-01-01": 30099,
-  "2024-01-02": 30122,
-  "2024-01-03": 30145
+  "2024-01-17": 30329,
+  "date_first_scraped": "2023-01-14",
+  "description": "Hear all of TAEYANG's biggest and best hits in one playlist.",
+  "name": "This Is TAEYANG",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "A Sinner",
+      "url": "https://open.spotify.com/track/7xHgNR7BCYTCMfmUz66EbO"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226266,
+      "name": "After You Sleep (Feat. Swings)",
+      "url": "https://open.spotify.com/track/5p8bTHJQ5TcuL84bXmWTrR"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218828,
+      "name": "AMAZIN'",
+      "url": "https://open.spotify.com/track/2gILEqYZMaljxD89UKippy"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "Baby I'm Sorry",
+      "url": "https://open.spotify.com/track/4fazfkxMwEnRczzGpLZDBt"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243653,
+      "name": "Break Down",
+      "url": "https://open.spotify.com/track/1WP99rmsetBvCbO8VC4unt"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "\ube45\ud1a4",
+          "url": "https://open.spotify.com/artist/5O0XmPyzOOTKMWEpwpMbJU"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Connection - English Version",
+      "url": "https://open.spotify.com/track/5Tqnb5WsXWCRAVcu0bC7QV"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210190,
+      "name": "DARLING",
+      "url": "https://open.spotify.com/track/6oycMp1woEDrrluLY0icmV"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209882,
+      "name": "EMPTY ROAD",
+      "url": "https://open.spotify.com/track/3TFp0q9DGulf477YG2lZXI"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213407,
+      "name": "Eyes Nose Lips",
+      "url": "https://open.spotify.com/track/2UMmoa8MP15tHnTFpO6A1E"
+    },
+    {
+      "album": {
+        "name": "UP BEAT",
+        "url": "https://open.spotify.com/album/6juujVdPaWjy066P9ZOXvJ"
+      },
+      "artists": [
+        {
+          "name": "Thelma Aoyama",
+          "url": "https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255826,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/04HoJpRNBQ98naXqeroSHB"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 5",
+        "url": "https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr"
+      },
+      "artists": [
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249317,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv"
+    },
+    {
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/1crq8WbybWZziBnYSOMa4I"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290160,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/3DgwkV1Gmt8mUfwTjMPl2p"
+    },
+    {
+      "album": {
+        "name": "GOOD BOY",
+        "url": "https://open.spotify.com/album/2rhq834A24z7ucY39moYdb"
+      },
+      "artists": [
+        {
+          "name": "GD X TAEYANG",
+          "url": "https://open.spotify.com/artist/3HJVw8aEtFqoc3raJVE8am"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245192,
+      "name": "GOOD BOY",
+      "url": "https://open.spotify.com/track/52mglSL6bdbrg9zig7nazP"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "I Need a Girl",
+      "url": "https://open.spotify.com/track/2kCLzdVJ41uPj7YiCuyK4B"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "I Need a Girl",
+      "url": "https://open.spotify.com/track/334sBXJEz428B63ANg52sq"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219306,
+      "name": "I Need A Girl (Feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "I'll Be There - English Version",
+      "url": "https://open.spotify.com/track/6FhsCcYFcV5iu9h9PFM4zC"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195800,
+      "name": "I'll Be There - Korean Version",
+      "url": "https://open.spotify.com/track/7MvEXoezNqX9bLNF6aNjeL"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212211,
+      "name": "Inspiration (feat. Beenzino)",
+      "url": "https://open.spotify.com/track/5hAtmSB8KlmU81ljSupSjF"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89506,
+      "name": "Intro (HOT)",
+      "url": "https://open.spotify.com/track/6yw2SNw9MZDroL2DLmUYDm"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105255,
+      "name": "Intro (RISE)",
+      "url": "https://open.spotify.com/track/6J0mtwueFaEL0bmxuHEYI0"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57026,
+      "name": "Intro - Solar",
+      "url": "https://open.spotify.com/track/1FclvbiUT3czzHM1lwWnnX"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220960,
+      "name": "Just a Feeling",
+      "url": "https://open.spotify.com/track/08q3v7gSZhNhMCqKGqsD4d"
+    },
+    {
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/1VNgOZM0hpFdeivdpoD5k6"
+      },
+      "artists": [
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "\ud0dc\uc591",
+          "url": "https://open.spotify.com/artist/0BeIulKOpcvsabwlt4u8qp"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213293,
+      "name": "Korean Dream (Feat. TAEYANG)",
+      "url": "https://open.spotify.com/track/3lShYM0Ts3HfEDFpfkGO5z"
+    },
+    {
+      "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/3AoUsbJUwk14bt7PLGXf45"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3TCzay1FkjSewTeiRSQGOk"
+    },
+    {
+      "album": {
+        "name": "PSY 8th 4X2=8",
+        "url": "https://open.spotify.com/album/5AtBwO35tOSWvxS4nFWHAi"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219668,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/5k0FSFPd15YKe7y9NMfq9U"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221625,
+      "name": "LOVE YOU TO DEATH",
+      "url": "https://open.spotify.com/track/3wJ5tkDTIc3w5THvaggHDx"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "KUSH",
+          "url": "https://open.spotify.com/artist/4OiLGOExR5sXyMtyKccRgY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204813,
+      "name": "Make Love (Feat. Kush)",
+      "url": "https://open.spotify.com/track/5ug8uKCAH4HQ5owBPNSoPa"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "TEDDY",
+          "url": "https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/7Frw0VC9RpDGwXSmAG1WeJ"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "TEDDY",
+          "url": "https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232333,
+      "name": "Move (Feat. Teddy)",
+      "url": "https://open.spotify.com/track/2mbTfOh91FiQF4yIE9vtgB"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201655,
+      "name": "NAKED",
+      "url": "https://open.spotify.com/track/64f7T9vidBqVHSUqZ1a3nq"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Bryan Chase",
+          "url": "https://open.spotify.com/artist/0qOcjTObT75YJLbDBfSgXw"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225630,
+      "name": "Nightfall (feat. Bryan Chase)",
+      "url": "https://open.spotify.com/track/0C04G6ZM8y2VlHEM1B1aKV"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240920,
+      "name": "Only Look At Me",
+      "url": "https://open.spotify.com/track/1518ZPHBb0rmVAw1xNbOzu"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240920,
+      "name": "Only Look At Me (\ub098\ub9cc \ubc14\ub77c\ubd10)",
+      "url": "https://open.spotify.com/track/1xaLJbuJr6efSW8MFA7vTu"
+    },
+    {
+      "album": {
+        "name": "Hot",
+        "url": "https://open.spotify.com/album/65DhpSPzXYHRjE9LHpc7rw"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "TEDDY",
+          "url": "https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Prayer (Feat. Teddy)",
+      "url": "https://open.spotify.com/track/0QdoA14XPxSuuoiuNDzvKJ"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "TEDDY",
+          "url": "https://open.spotify.com/artist/2QDHZGfyq70z6T4e4Dr2t0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221586,
+      "name": "Prayer (\uae30\ub3c4)",
+      "url": "https://open.spotify.com/track/1qceUus2spQ9UxPFpBaq0I"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202720,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/3olqy6cgUoqV4zjLEeBXSl"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257199,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/16jg76zHuYHMPghRdMfHeL"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/4PBr1wStrak7aWJkUKvbUl"
+    },
+    {
+      "album": {
+        "name": "Ringa Linga",
+        "url": "https://open.spotify.com/album/5WOQuSAJhOtZu46WJgy9BG"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227021,
+      "name": "Ringa Linga",
+      "url": "https://open.spotify.com/track/0zA75hGcXgVNbzsu0a3lBR"
+    },
+    {
+      "album": {
+        "name": "RINGA LINGA (Shockbit Remix)",
+        "url": "https://open.spotify.com/album/1FGkGm47uEd2L26Ff3ILmK"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "\ud1a0\ub07c",
+          "url": "https://open.spotify.com/artist/76JVW7YYK3nRTVvRxUalpI"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        },
+        {
+          "name": "Shockbit",
+          "url": "https://open.spotify.com/artist/4aMRtytJy7sCCjvcSnq666"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255672,
+      "name": "RINGA LINGA (Shockbit Remix)",
+      "url": "https://open.spotify.com/track/6H7VSKaFubMd4sfisXwYQr"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255253,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/49eleLPCqnwgBSICKgcL0z"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205101,
+      "name": "Shoong! (feat. LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57026,
+      "name": "Solar [Intro]",
+      "url": "https://open.spotify.com/track/0MB3rxsnXZ6DV95LelFlOu"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "STAY WITH ME",
+      "url": "https://open.spotify.com/track/4Hznsw4SROqqX8T54Syguv"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/0alnyI664183rlCIgKh8Hf"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/4VpjaZ0AEbt0k61PXzIlLG"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260773,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/1QbbAZG3LZ8xYsW04INy1c"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/6mqsxO95cTucMYoK3drdSK"
+    },
+    {
+      "album": {
+        "name": "Fever's End (\uc5f4\uaf43) Pt. 2 - EP",
+        "url": "https://open.spotify.com/album/6bcvEP3490ouA7PW2DD168"
+      },
+      "artists": [
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252899,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/0ksaKAzzFwB3h70h1Z5PRb"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266724,
+      "name": "TONIGHT",
+      "url": "https://open.spotify.com/track/2Ryu6OAqmEcrtnTxaPYDCP"
+    },
+    {
+      "album": {
+        "name": "Down to Earth",
+        "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "album": {
+        "name": "VIBE (feat. Jimin of BTS)",
+        "url": "https://open.spotify.com/album/3qUOk1Se3Oopu5pUlHTjVJ"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 175775,
+      "name": "VIBE (feat. Jimin of BTS)",
+      "url": "https://open.spotify.com/track/61AZsmFB3VoJdmraMk5ZSn"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199458,
+      "name": "WAKE ME UP",
+      "url": "https://open.spotify.com/track/49w8umYnAfSPulksfEDx16"
+    },
+    {
+      "album": {
+        "name": "WALKIN', Vol.2",
+        "url": "https://open.spotify.com/album/2CPepitv0LvH8IqvIAu5Uc"
+      },
+      "artists": [
+        {
+          "name": "PEEJAY",
+          "url": "https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY"
+        },
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/1BKVGMxyIBqU3CqMJxUvWC"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Warigari",
+      "url": "https://open.spotify.com/track/0Kov3heCgcnLdC5QlKgQe9"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "Wedding Dress",
+      "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247960,
+      "name": "Wedding Dress - English Version",
+      "url": "https://open.spotify.com/track/5r6LzsarhC4Ygt8mFzSgYV"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Where U At",
+      "url": "https://open.spotify.com/track/1qbwaDM22exlyLRAmM9vKd"
+    },
+    {
+      "album": {
+        "name": "Solar International",
+        "url": "https://open.spotify.com/album/42BVvYE1FLO8mQH0ZJn4de"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Where U At",
+      "url": "https://open.spotify.com/track/360chjamNlEge55Oos4od4"
+    },
+    {
+      "album": {
+        "name": "WHITE NIGHT",
+        "url": "https://open.spotify.com/album/4AE3KNhHuzlTURK6c77eaR"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85585,
+      "name": "WHITE NIGHT",
+      "url": "https://open.spotify.com/track/3yq48eRG04UryOATzpwr4V"
+    },
+    {
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169253,
+      "name": "You're My",
+      "url": "https://open.spotify.com/track/0PEMMKw7j1tsS7U4lcTjqR"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
+      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227021,
+      "name": "\ub9c1\uac00\ub9c1\uac00 (RINGA LINGA)",
+      "url": "https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "\ubc84\ub9ac\uace0 (Let Go)",
+      "url": "https://open.spotify.com/track/5YhaIIgjic4Q31BL1jYMk5"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191793,
+      "name": "\uc0c8\ubcbd\ud55c\uc2dc (1AM)",
+      "url": "https://open.spotify.com/track/3JmlYV4mm5jdo2ZWzATLBv"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190673,
+      "name": "\uc544\ub984\ub2e4\uc6cc (BODY)",
+      "url": "https://open.spotify.com/track/6kSoXPg7yhpvgiXuoqRJSF"
+    },
+    {
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263933,
+      "name": "\uc774\uac8c \uc544\ub2cc\ub370 (This Ain't It)",
+      "url": "https://open.spotify.com/track/1kewNvWljcwYKzlAKRXaUf"
+    },
+    {
+      "album": {
+        "name": "Soul Family with Johan",
+        "url": "https://open.spotify.com/album/5y7fjiyU5WlRuwTI8nAEkJ"
+      },
+      "artists": [
+        {
+          "name": "Johan Kim",
+          "url": "https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3"
+        },
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273658,
+      "name": "\uc870\uae08\ub9cc \uc0ac\ub791\ud560\uac78 (feat. \ud0dc\uc591)",
+      "url": "https://open.spotify.com/track/0KXhQG6HryZn4QBay5Rfd6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1FikouIz4VH"
 }

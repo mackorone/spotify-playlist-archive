@@ -1,569 +1,4483 @@
 {
-  "2022-06-10": 121055,
-  "2022-06-11": 121074,
-  "2022-06-12": 121107,
-  "2022-06-13": 121122,
-  "2022-06-14": 121161,
-  "2022-06-15": 121226,
-  "2022-06-16": 121335,
-  "2022-06-17": 121395,
-  "2022-06-18": 121467,
-  "2022-06-19": 121587,
-  "2022-06-20": 121587,
-  "2022-06-21": 121652,
-  "2022-06-22": 121775,
-  "2022-06-23": 121775,
-  "2022-06-24": 121844,
-  "2022-06-25": 121893,
-  "2022-06-26": 121943,
-  "2022-06-27": 121943,
-  "2022-06-28": 122004,
-  "2022-06-29": 122048,
-  "2022-06-30": 122085,
-  "2022-07-01": 122118,
-  "2022-07-02": 122162,
-  "2022-07-03": 122203,
-  "2022-07-04": 122244,
-  "2022-07-05": 122276,
-  "2022-07-06": 122317,
-  "2022-07-07": 122335,
-  "2022-07-08": 122352,
-  "2022-07-09": 122383,
-  "2022-07-10": 122394,
-  "2022-07-11": 122420,
-  "2022-07-12": 122430,
-  "2022-07-13": 122470,
-  "2022-07-14": 122488,
-  "2022-07-15": 122518,
-  "2022-07-16": 122540,
-  "2022-07-17": 122549,
-  "2022-07-18": 122568,
-  "2022-07-19": 122585,
-  "2022-07-20": 122614,
-  "2022-07-21": 122629,
-  "2022-07-22": 122637,
-  "2022-07-23": 122647,
-  "2022-07-24": 122666,
-  "2022-07-25": 122685,
-  "2022-07-26": 122690,
-  "2022-07-27": 122717,
-  "2022-07-28": 122738,
-  "2022-07-29": 122757,
-  "2022-07-30": 122801,
-  "2022-07-31": 122801,
-  "2022-08-01": 122827,
-  "2022-08-02": 122856,
-  "2022-08-03": 122856,
-  "2022-08-04": 122868,
-  "2022-08-05": 122880,
-  "2022-08-06": 122894,
-  "2022-08-07": 122926,
-  "2022-08-08": 122942,
-  "2022-08-09": 122956,
-  "2022-08-10": 122967,
-  "2022-08-11": 122989,
-  "2022-08-12": 123023,
-  "2022-08-13": 123048,
-  "2022-08-14": 123057,
-  "2022-08-15": 123092,
-  "2022-08-16": 123116,
-  "2022-08-17": 123130,
-  "2022-08-18": 123158,
-  "2022-08-19": 123179,
-  "2022-08-20": 123199,
-  "2022-08-21": 123218,
-  "2022-08-22": 123239,
-  "2022-08-23": 123261,
-  "2022-08-24": 123271,
-  "2022-08-25": 123296,
-  "2022-08-26": 123327,
-  "2022-08-27": 123352,
-  "2022-08-28": 123368,
-  "2022-08-29": 123393,
-  "2022-08-30": 123360,
-  "2022-08-31": 123279,
-  "2022-09-01": 123190,
-  "2022-09-02": 123120,
-  "2022-09-03": 122991,
-  "2022-09-04": 122939,
-  "2022-09-05": 122962,
-  "2022-09-06": 122991,
-  "2022-09-07": 123028,
-  "2022-09-09": 123073,
-  "2022-09-10": 123103,
-  "2022-09-11": 123126,
-  "2022-09-12": 123125,
-  "2022-09-13": 123145,
-  "2022-09-15": 123180,
-  "2022-09-16": 123193,
-  "2022-09-17": 123204,
-  "2022-09-18": 123219,
-  "2022-09-19": 123268,
-  "2022-09-20": 123279,
-  "2022-09-21": 123306,
-  "2022-09-22": 123325,
-  "2022-09-23": 123373,
-  "2022-09-24": 123406,
-  "2022-09-25": 123420,
-  "2022-09-26": 123449,
-  "2022-09-27": 123468,
-  "2022-09-28": 123488,
-  "2022-09-29": 123522,
-  "2022-09-30": 123551,
-  "2022-10-01": 123565,
-  "2022-10-02": 123581,
-  "2022-10-03": 123627,
-  "2022-10-04": 123642,
-  "2022-10-05": 123639,
-  "2022-10-06": 123646,
-  "2022-10-07": 123675,
-  "2022-10-08": 123697,
-  "2022-10-09": 123744,
-  "2022-10-10": 123750,
-  "2022-10-11": 123765,
-  "2022-10-12": 123790,
-  "2022-10-13": 123806,
-  "2022-10-14": 123837,
-  "2022-10-15": 123859,
-  "2022-10-16": 123878,
-  "2022-10-17": 123898,
-  "2022-10-18": 123909,
-  "2022-10-19": 123927,
-  "2022-10-20": 123944,
-  "2022-10-21": 123955,
-  "2022-10-22": 123965,
-  "2022-10-23": 123985,
-  "2022-10-24": 124002,
-  "2022-10-25": 124019,
-  "2022-10-26": 124038,
-  "2022-10-27": 124061,
-  "2022-10-28": 124070,
-  "2022-10-29": 124080,
-  "2022-10-30": 124098,
-  "2022-10-31": 124116,
-  "2022-11-01": 124136,
-  "2022-11-02": 124146,
-  "2022-11-03": 124162,
-  "2022-11-04": 124190,
-  "2022-11-05": 124229,
-  "2022-11-06": 124246,
-  "2022-11-07": 124260,
-  "2022-11-08": 124269,
-  "2022-11-09": 124283,
-  "2022-11-10": 124295,
-  "2022-11-11": 124316,
-  "2022-11-12": 124336,
-  "2022-11-13": 124358,
-  "2022-11-14": 124382,
-  "2022-11-15": 124405,
-  "2022-11-16": 124421,
-  "2022-11-17": 124442,
-  "2022-11-18": 124453,
-  "2022-11-19": 124446,
-  "2022-11-20": 124468,
-  "2022-11-21": 124497,
-  "2022-11-22": 124530,
-  "2022-11-23": 124555,
-  "2022-11-24": 124611,
-  "2022-11-25": 124666,
-  "2022-11-26": 124692,
-  "2022-11-27": 124719,
-  "2022-11-28": 124744,
-  "2022-11-29": 124756,
-  "2022-11-30": 124784,
-  "2022-12-01": 124819,
-  "2022-12-02": 124837,
-  "2022-12-03": 124895,
-  "2022-12-04": 124941,
-  "2022-12-05": 124961,
-  "2022-12-06": 124979,
-  "2022-12-07": 125006,
-  "2022-12-08": 125040,
-  "2022-12-09": 125056,
-  "2022-12-10": 125084,
-  "2022-12-11": 125110,
-  "2022-12-12": 125137,
-  "2022-12-13": 125152,
-  "2022-12-14": 125186,
-  "2022-12-15": 125202,
-  "2022-12-16": 125231,
-  "2022-12-17": 125266,
-  "2022-12-18": 125280,
-  "2022-12-19": 125300,
-  "2022-12-20": 125346,
-  "2022-12-21": 125346,
-  "2022-12-22": 125358,
-  "2022-12-24": 125402,
-  "2022-12-25": 125433,
-  "2022-12-26": 125445,
-  "2022-12-27": 125456,
-  "2022-12-28": 125468,
-  "2022-12-29": 125489,
-  "2022-12-30": 125516,
-  "2022-12-31": 125532,
-  "2023-01-01": 125556,
-  "2023-01-02": 125555,
-  "2023-01-03": 125571,
-  "2023-01-04": 125580,
-  "2023-01-05": 125599,
-  "2023-01-06": 125620,
-  "2023-01-07": 125666,
-  "2023-01-08": 125671,
-  "2023-01-09": 125684,
-  "2023-01-10": 125712,
-  "2023-01-11": 125723,
-  "2023-01-12": 125751,
-  "2023-01-13": 125783,
-  "2023-01-14": 125824,
-  "2023-01-15": 125821,
-  "2023-01-16": 125850,
-  "2023-01-17": 125859,
-  "2023-01-18": 125883,
-  "2023-01-19": 125898,
-  "2023-01-20": 125923,
-  "2023-01-21": 125945,
-  "2023-01-22": 125976,
-  "2023-01-23": 126010,
-  "2023-01-24": 126034,
-  "2023-01-25": 126060,
-  "2023-01-26": 126077,
-  "2023-01-27": 126083,
-  "2023-01-28": 126104,
-  "2023-01-29": 126119,
-  "2023-01-30": 126135,
-  "2023-01-31": 126135,
-  "2023-02-01": 126168,
-  "2023-02-02": 126191,
-  "2023-02-03": 126206,
-  "2023-02-04": 126226,
-  "2023-02-05": 126246,
-  "2023-02-06": 126259,
-  "2023-02-07": 126276,
-  "2023-02-08": 126312,
-  "2023-02-09": 126312,
-  "2023-02-10": 126322,
-  "2023-02-11": 126339,
-  "2023-02-12": 126368,
-  "2023-02-13": 126382,
-  "2023-02-14": 126382,
-  "2023-02-15": 126399,
-  "2023-02-16": 126410,
-  "2023-02-17": 126436,
-  "2023-02-18": 126468,
-  "2023-02-19": 126469,
-  "2023-02-20": 126477,
-  "2023-02-21": 126495,
-  "2023-02-22": 126511,
-  "2023-02-23": 126529,
-  "2023-02-24": 126542,
-  "2023-02-25": 126582,
-  "2023-02-26": 126595,
-  "2023-02-27": 126635,
-  "2023-02-28": 126635,
-  "2023-03-01": 126657,
-  "2023-03-02": 126674,
-  "2023-03-03": 126696,
-  "2023-03-04": 126701,
-  "2023-03-05": 126728,
-  "2023-03-06": 126728,
-  "2023-03-07": 126740,
-  "2023-03-08": 126754,
-  "2023-03-09": 126774,
-  "2023-03-10": 126786,
-  "2023-03-11": 126801,
-  "2023-03-12": 126820,
-  "2023-03-13": 126841,
-  "2023-03-14": 126869,
-  "2023-03-15": 126905,
-  "2023-03-16": 126943,
-  "2023-03-17": 126943,
-  "2023-03-18": 126986,
-  "2023-03-19": 127019,
-  "2023-03-20": 127046,
-  "2023-03-21": 127052,
-  "2023-03-22": 127076,
-  "2023-03-23": 127111,
-  "2023-03-24": 127111,
-  "2023-03-25": 127167,
-  "2023-03-26": 127192,
-  "2023-03-27": 127211,
-  "2023-03-28": 127216,
-  "2023-03-29": 127239,
-  "2023-03-30": 127269,
-  "2023-03-31": 127269,
-  "2023-04-01": 127304,
-  "2023-04-02": 127323,
-  "2023-04-03": 127355,
-  "2023-04-04": 127382,
-  "2023-04-05": 127391,
-  "2023-04-06": 127417,
-  "2023-04-07": 127447,
-  "2023-04-09": 127488,
-  "2023-04-10": 127508,
-  "2023-04-11": 127554,
-  "2023-04-12": 127554,
-  "2023-04-13": 127581,
-  "2023-04-14": 127612,
-  "2023-04-15": 127651,
-  "2023-04-16": 127682,
-  "2023-04-17": 127739,
-  "2023-04-18": 127780,
-  "2023-04-19": 127796,
-  "2023-04-20": 127829,
-  "2023-04-21": 127859,
-  "2023-04-22": 127892,
-  "2023-04-23": 127925,
-  "2023-04-24": 127953,
-  "2023-04-25": 127990,
-  "2023-04-26": 128024,
-  "2023-04-27": 128038,
-  "2023-04-28": 128075,
-  "2023-04-29": 128106,
-  "2023-04-30": 128126,
-  "2023-05-01": 128140,
-  "2023-05-02": 128156,
-  "2023-05-03": 128181,
-  "2023-05-04": 128204,
-  "2023-05-05": 128240,
-  "2023-05-06": 128260,
-  "2023-05-07": 128303,
-  "2023-05-08": 128318,
-  "2023-05-09": 128336,
-  "2023-05-10": 128344,
-  "2023-05-11": 128361,
-  "2023-05-12": 128385,
-  "2023-05-13": 128414,
-  "2023-05-14": 128438,
-  "2023-05-15": 128455,
-  "2023-05-16": 128472,
-  "2023-05-17": 128479,
-  "2023-05-18": 128496,
-  "2023-05-19": 128516,
-  "2023-05-20": 128538,
-  "2023-05-21": 128538,
-  "2023-05-22": 128538,
-  "2023-05-23": 128577,
-  "2023-05-24": 128595,
-  "2023-05-25": 128604,
-  "2023-05-26": 128622,
-  "2023-05-27": 128646,
-  "2023-05-28": 128665,
-  "2023-05-29": 128665,
-  "2023-05-30": 128689,
-  "2023-05-31": 128710,
-  "2023-06-01": 128737,
-  "2023-06-02": 128746,
-  "2023-06-03": 128763,
-  "2023-06-04": 128786,
-  "2023-06-05": 128805,
-  "2023-06-06": 128821,
-  "2023-06-07": 128835,
-  "2023-06-08": 128857,
-  "2023-06-09": 128870,
-  "2023-06-10": 128882,
-  "2023-06-11": 128904,
-  "2023-06-12": 128912,
-  "2023-06-13": 128929,
-  "2023-06-14": 128936,
-  "2023-06-15": 128961,
-  "2023-06-16": 128988,
-  "2023-06-17": 129010,
-  "2023-06-18": 129021,
-  "2023-06-19": 129021,
-  "2023-06-20": 129040,
-  "2023-06-21": 129066,
-  "2023-06-22": 129071,
-  "2023-06-23": 129097,
-  "2023-06-24": 129105,
-  "2023-06-25": 129126,
-  "2023-06-26": 129137,
-  "2023-06-27": 129135,
-  "2023-06-28": 129142,
-  "2023-06-29": 129165,
-  "2023-06-30": 129169,
-  "2023-07-01": 129201,
-  "2023-07-02": 129201,
-  "2023-07-03": 129211,
-  "2023-07-04": 129226,
-  "2023-07-05": 129253,
-  "2023-07-06": 129267,
-  "2023-07-07": 129267,
-  "2023-07-08": 129278,
-  "2023-07-09": 129280,
-  "2023-07-10": 129290,
-  "2023-07-11": 129303,
-  "2023-07-12": 129315,
-  "2023-07-13": 129324,
-  "2023-07-14": 129339,
-  "2023-07-15": 129348,
-  "2023-07-16": 129358,
-  "2023-07-17": 129362,
-  "2023-07-18": 129379,
-  "2023-07-19": 129398,
-  "2023-07-20": 129418,
-  "2023-07-21": 129430,
-  "2023-07-22": 129445,
-  "2023-07-23": 129457,
-  "2023-07-24": 129482,
-  "2023-07-25": 129496,
-  "2023-07-26": 129506,
-  "2023-07-27": 129523,
-  "2023-07-28": 129538,
-  "2023-07-29": 129554,
-  "2023-07-30": 129575,
-  "2023-07-31": 129586,
-  "2023-08-01": 129594,
-  "2023-08-02": 129606,
-  "2023-08-03": 129618,
-  "2023-08-04": 129637,
-  "2023-08-05": 129647,
-  "2023-08-06": 129675,
-  "2023-08-07": 129675,
-  "2023-08-08": 129685,
-  "2023-08-09": 129690,
-  "2023-08-10": 129707,
-  "2023-08-11": 129714,
-  "2023-08-12": 129739,
-  "2023-08-13": 129768,
-  "2023-08-14": 129775,
-  "2023-08-15": 129802,
-  "2023-08-16": 129802,
-  "2023-08-17": 129819,
-  "2023-08-18": 129818,
-  "2023-08-19": 129832,
-  "2023-08-20": 129827,
-  "2023-08-21": 129848,
-  "2023-08-22": 129865,
-  "2023-08-23": 129909,
-  "2023-08-24": 129975,
-  "2023-08-25": 129997,
-  "2023-08-26": 130034,
-  "2023-08-27": 130073,
-  "2023-08-28": 130094,
-  "2023-08-29": 130122,
-  "2023-08-30": 130149,
-  "2023-08-31": 130160,
-  "2023-09-01": 130218,
-  "2023-09-02": 130218,
-  "2023-09-03": 130238,
-  "2023-09-04": 130237,
-  "2023-09-05": 130246,
-  "2023-09-06": 130261,
-  "2023-09-07": 130281,
-  "2023-09-08": 130275,
-  "2023-09-09": 130291,
-  "2023-09-10": 130307,
-  "2023-09-11": 130323,
-  "2023-09-12": 130298,
-  "2023-09-13": 130280,
-  "2023-09-14": 130287,
-  "2023-09-15": 130313,
-  "2023-09-16": 130331,
-  "2023-09-17": 130348,
-  "2023-09-18": 130371,
-  "2023-09-19": 130396,
-  "2023-09-20": 130408,
-  "2023-09-21": 130427,
-  "2023-09-22": 130443,
-  "2023-09-23": 130460,
-  "2023-09-24": 130481,
-  "2023-09-25": 130492,
-  "2023-09-26": 130523,
-  "2023-09-27": 130545,
-  "2023-09-28": 130567,
-  "2023-09-29": 130583,
-  "2023-09-30": 130599,
-  "2023-10-01": 130617,
-  "2023-10-02": 130628,
-  "2023-10-03": 130654,
-  "2023-10-04": 130678,
-  "2023-10-05": 130715,
-  "2023-10-06": 130727,
-  "2023-10-07": 130741,
-  "2023-10-08": 130753,
-  "2023-10-09": 130758,
-  "2023-10-10": 130716,
-  "2023-10-11": 130694,
-  "2023-10-12": 130694,
-  "2023-10-13": 130667,
-  "2023-10-14": 130635,
-  "2023-10-15": 130660,
-  "2023-10-16": 130693,
-  "2023-10-17": 130716,
-  "2023-10-18": 130739,
-  "2023-10-19": 130774,
-  "2023-10-20": 130811,
-  "2023-10-21": 130824,
-  "2023-10-22": 130850,
-  "2023-10-23": 130890,
-  "2023-10-24": 130914,
-  "2023-10-25": 130933,
-  "2023-10-26": 130959,
-  "2023-10-27": 130992,
-  "2023-10-28": 130992,
-  "2023-10-29": 131037,
-  "2023-10-30": 131068,
-  "2023-10-31": 131068,
-  "2023-11-01": 131122,
-  "2023-11-02": 131155,
-  "2023-11-03": 131184,
-  "2023-11-04": 131219,
-  "2023-11-05": 131248,
-  "2023-11-06": 131270,
-  "2023-11-07": 131296,
-  "2023-11-08": 131345,
-  "2023-11-09": 131377,
-  "2023-11-10": 131407,
-  "2023-11-11": 131439,
-  "2023-11-12": 131455,
-  "2023-11-13": 131483,
-  "2023-11-14": 131516,
-  "2023-11-15": 131516,
-  "2023-11-16": 131567,
-  "2023-11-17": 131604,
-  "2023-11-18": 131604,
-  "2023-11-19": 131638,
-  "2023-11-20": 131665,
-  "2023-11-21": 131686,
-  "2023-11-22": 131703,
-  "2023-11-23": 131728,
-  "2023-11-24": 131728,
-  "2023-11-25": 131781,
-  "2023-11-26": 131812,
-  "2023-11-27": 131837,
-  "2023-11-28": 131856,
-  "2023-11-29": 131886,
-  "2023-11-30": 131886,
-  "2023-12-01": 131900,
-  "2023-12-02": 131925,
-  "2023-12-03": 131939,
-  "2023-12-04": 131962,
-  "2023-12-05": 131987,
-  "2023-12-06": 132006,
-  "2023-12-07": 132017,
-  "2023-12-08": 132037,
-  "2023-12-09": 132044,
-  "2023-12-10": 132066,
-  "2023-12-11": 132092,
-  "2023-12-12": 132092,
-  "2023-12-13": 132135,
-  "2023-12-14": 132163,
-  "2023-12-15": 132181,
-  "2023-12-16": 132201,
-  "2023-12-17": 132228,
-  "2023-12-18": 132245,
-  "2023-12-19": 132251,
-  "2023-12-20": 132268,
-  "2023-12-21": 132280,
-  "2023-12-22": 132292,
-  "2023-12-23": 132315,
-  "2023-12-24": 132334,
-  "2023-12-25": 132350,
-  "2023-12-26": 132362,
-  "2023-12-27": 132384,
-  "2023-12-30": 132469,
-  "2023-12-31": 132480,
-  "2024-01-01": 132496,
-  "2024-01-02": 132513,
-  "2024-01-03": 132529
+  "2024-01-17": 132553,
+  "date_first_scraped": "2022-06-10",
+  "description": "Welcome to Hypnosismic, a series of Japanese rap battle projects featuring 18 voice actors, each acting out unique anime characters. \u7537\u6027\u58f0\u512a\u30ad\u30e3\u30e9\u30e9\u30c3\u30d7\u30d0\u30c8\u30eb\u3001\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af\u300d\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9 King Record Co., Ltd. All rights reserved.",
+  "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af Hypnosismic -Division Rap Battle-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1540388,
+      "name": "#1 \u767d\u81a0\u6728\u7c13\uff08\u30aa\u30aa\u30b5\u30ab\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u201d\uff09",
+      "url": "https://open.spotify.com/episode/0lBYvfOwqIDs6wusC4gmFv"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1561260,
+      "name": "#10 \u56db\u5341\u7269\u5341\u56db\uff08\u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBad Ass Temple\u201d\uff09",
+      "url": "https://open.spotify.com/episode/0Bzsb1BhxyXJ0eXnW8wh1e"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1551856,
+      "name": "#11 \u5929\u56fd\u7344\uff08\u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBad Ass Temple\u201d\uff09",
+      "url": "https://open.spotify.com/episode/5dFkQGfiLZyQMn5HGbVofg"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1347474,
+      "name": "#12 \u30a2\u30d5\u30ed\uff08MOROHA\uff09\u304c\u8a9e\u308bBad Ass Temple\u306e\u65b0\u66f2\u300c\u958b\u773c\u300d",
+      "url": "https://open.spotify.com/episode/1MdLSWBGj1k5a4nXBVrgX8"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1603474,
+      "name": "#13 \u3069\u3064\u3044\u305f\u308c\u672c\u8217\u3001Buster Bros!!!\u3001Bad Ass Temple\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\u3059\u308b\u7dcf\u96c6\u7de8",
+      "url": "https://open.spotify.com/episode/01YGdK8VqpmiwjS49pmNWY"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1544437,
+      "name": "#14 \u795e\u5bae\u5bfa\u5bc2\u96f7\uff08\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u9ebb\u5929\u72fc\u201d\uff09",
+      "url": "https://open.spotify.com/episode/4Ky3p2KyqR6gpKn6SlFlta"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1542217,
+      "name": "#15 \u4f0a\u5f09\u5189\u4e00\u4e8c\u4e09\uff08\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u9ebb\u5929\u72fc\u201d\uff09",
+      "url": "https://open.spotify.com/episode/5NVfTArPZGablV3dz0fYL5"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1640907,
+      "name": "#16 \u89b3\u97f3\u5742\u72ec\u6b69\uff08\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u9ebb\u5929\u72fc\u201d\uff09",
+      "url": "https://open.spotify.com/episode/3okoVhWRmQN7mhnELy9zKW"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1202102,
+      "name": "#17 GADORO \u304c\u8a9e\u308b\u3001\u9ebb\u5929\u72fc\u306e\u65b0\u66f2\u300cTOMOSHIBI\u300d\u306b\u8fbc\u3081\u305f\u610f\u5473",
+      "url": "https://open.spotify.com/episode/4h5lfGHmeHWx3uaumolJW4"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1361972,
+      "name": "#18 \u98f4\u6751\u4e71\u6570\uff08\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cFling Posse\u201d\uff09",
+      "url": "https://open.spotify.com/episode/63ZgvGmetCxScQU21LaPWc"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1488796,
+      "name": "#19 \u5922\u91ce\u5e7b\u592a\u90ce\uff08\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cFling Posse\u201d\uff09",
+      "url": "https://open.spotify.com/episode/6z4irPZtgwlahwzZ0QQ8yZ"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1744457,
+      "name": "#2 \u8e91\u8e85\u68ee\u76e7\u7b19\uff08\u30aa\u30aa\u30b5\u30ab\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u201d\uff09",
+      "url": "https://open.spotify.com/episode/7DtkKE0IcroURfcoff4b8U"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1320071,
+      "name": "#20 \u6709\u6816\u5ddd\u5e1d\u7d71\uff08\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cFling Posse\u201d\uff09",
+      "url": "https://open.spotify.com/episode/3av06MN4CPil7JwH73xt0K"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1329423,
+      "name": "#21 \u305f\u306a\u304b \u304c\u8a9e\u308b\u3001Fling Posse\u306e\u65b0\u66f2\u300cBlack Journey\u300d",
+      "url": "https://open.spotify.com/episode/6C15pvZNZzLrwlljDL7R1q"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1330076,
+      "name": "#22 \u78a7\u68fa\u5de6\u99ac\u523b\uff08\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cMAD TRIGGER CREW\u201d\uff09",
+      "url": "https://open.spotify.com/episode/3xGgkDsLALO9mNOsMruqFz"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1519255,
+      "name": "#23 \u5165\u9593\u9283\u514e\uff08\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cMAD TRIGGER CREW\u201d\uff09",
+      "url": "https://open.spotify.com/episode/6n1WCjCjPJMk6gWicX2J0c"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1611493,
+      "name": "#24 \u6bd2\u5cf6\u30e1\u30a4\u30bd\u30f3\u7406\u9daf\uff08\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cMAD TRIGGER CREW\u201d\uff09",
+      "url": "https://open.spotify.com/episode/0CwI4UZNQKRPA5BRtBwK23"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1301028,
+      "name": "#25 FORK\uff08ICE BAHN\uff09\u304c\u8a9e\u308b\u3001MAD TRIGGER CREW\u306e\u65b0\u66f2\u300cHUNTING CHARM\u300d",
+      "url": "https://open.spotify.com/episode/068q1XndNSOEqJzeImi0ii"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1420094,
+      "name": "#26 \u9ebb\u5929\u72fc\u3001Fling Posse\u3001MAD TRIGGER CREW \u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\u3059\u308b\u7dcf\u96c6\u7de8\uff01",
+      "url": "https://open.spotify.com/episode/6IN6J2IyZkPNzt8bTRtbiV"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1300924,
+      "name": "#27 \u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u9ebb\u5929\u72fc\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/0XzBQszsUkxzcOep87yVXf"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1257665,
+      "name": "#28 \u30aa\u30aa\u30b5\u30ab\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/7JyOvAI3Jb2yqnuSqlSnMo"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1358811,
+      "name": "#29 \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBad Ass Temple\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/2lahPHSCtJwokjsyAgr59m"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1792653,
+      "name": "#3 \u5929\u8c37\u5974\u96f6\uff08\u30aa\u30aa\u30b5\u30ab\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201c\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u201d\uff09",
+      "url": "https://open.spotify.com/episode/15KGPYEwIaCUxQdour13wy"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1386631,
+      "name": "#30 \u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cMAD TRIGGER CREW\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/4mlRxozfUnjSlAROOnerh3"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1303902,
+      "name": "#31 \u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cFling Posse\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/6LsgWnu923CkfIIukMokq2"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1398987,
+      "name": "#32 \u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBuster Bros!!!\u201d\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834\uff01",
+      "url": "https://open.spotify.com/episode/21yquYFuzoyhbDpUekhOZQ"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1368764,
+      "name": "#33 \u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u7dcf\u96c6\u7de8 \uff1c\uff11\uff1e \u9ebb\u5929\u72fc\u3001\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u3001Bad Ass Temple\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834",
+      "url": "https://open.spotify.com/episode/5VsStglpggAZkq80N5E7U3"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1424091,
+      "name": "#34 \u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u7dcf\u96c6\u7de8 \uff1c\uff12\uff1e MAD TRIGGER CREW\u3001Fling Posse\u3001Buster Bros!!!\u306e\u30e1\u30f3\u30d0\u30fc\u5168\u54e1\u304c\u767b\u5834",
+      "url": "https://open.spotify.com/episode/3r2zw1kfBpUxftvkYv09t2"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1436368,
+      "name": "#4 \u30c8\u30fc\u30bf\u30b9\u677e\u672c\uff08\u30a6\u30eb\u30d5\u30eb\u30ba\uff09\u304c\u8a9e\u308b\u3069\u3064\u3044\u305f\u308c\u672c\u8217\u306e\u65b0\u66f2\u300c\u7b11\u30aa\u30aa\u30b5\u30ab\uff01\uff5eWhat a OSAKA!\u300d",
+      "url": "https://open.spotify.com/episode/14E2bilWq2tGFtvpeHIkwC"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1540937,
+      "name": "#5 \u5c71\u7530\u4e00\u90ce\uff08\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBuster Bros!!!\u201d\uff09",
+      "url": "https://open.spotify.com/episode/3yMAinTWxYb9eOf1n6EBC1"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1512568,
+      "name": "#6 \u5c71\u7530\u4e8c\u90ce\uff08\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBuster Bros!!!\u201d\uff09",
+      "url": "https://open.spotify.com/episode/1UJbiN3AZ5uzRnN7hTQSHH"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1389505,
+      "name": "#7 \u5c71\u7530\u4e09\u90ce\uff08\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBuster Bros!!!\u201d\uff09",
+      "url": "https://open.spotify.com/episode/4Xk7Zw4ISZfnHPxyka2VmY"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1188127,
+      "name": "#8 \u5909\u614b\u7d33\u58eb\u30af\u30e9\u30d6\u304c\u8a9e\u308bBuster Bros!!!\u306e\u65b0\u66f2\u300cRe:start!!!\u300d",
+      "url": "https://open.spotify.com/episode/6yA1woPgoBGYGTOri9KsNh"
+    },
+    {
+      "album": {
+        "name": "Spotify HYPNOSIS WAVE original edition",
+        "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+      },
+      "artists": [
+        {
+          "name": "Spotify HYPNOSIS WAVE original edition",
+          "url": "https://open.spotify.com/show/21pTe4AXstuRqQERhZN5za"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 1387049,
+      "name": "#9 \u6ce2\u7f85\u5937\u7a7a\u5374\uff08\u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3\u201cBad Ass Temple\u201d\uff09",
+      "url": "https://open.spotify.com/episode/4YzKMn9ZDO3q0wWkp2PYUP"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af-Division Rap Battle- HPNM Hangout\uff01+ After Talk Podcast ",
+        "url": "https://open.spotify.com/show/4o044mpfnPDSR5ZtCnLjz5"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af-Division Rap Battle- HPNM Hangout\uff01+ After Talk Podcast ",
+          "url": "https://open.spotify.com/show/4o044mpfnPDSR5ZtCnLjz5"
+        }
+      ],
+      "date_added": "2023-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 526883,
+      "name": "#94 \u9999\u6c34\u3064\u3051\u3066\u308b\uff1f\uff1f",
+      "url": "https://open.spotify.com/episode/08xezlnmcQf9Efz4X4oF7t"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6bd2\u5cf6\u30e1\u30a4\u30bd\u30f3\u7406\u9daf)",
+          "url": "https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "2DIE4",
+      "url": "https://open.spotify.com/track/7EgLoUQHysIbRBal6S0cQn"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B Final Battle \u300eBuster Bros!!! VS \u9ebb\u5929\u72fc VS Fling Posse\u300f",
+        "url": "https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1604706,
+      "name": "2nd D.R.B NON-STOP DIVISION MIX",
+      "url": "https://open.spotify.com/track/50arxFEa4CsyvYfsj4MqcZ"
+    },
+    {
+      "album": {
+        "name": "3 on Fleek!!!",
+        "url": "https://open.spotify.com/album/2WOWzLaSIEy0H5RIR2fQvl"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Mix Tape1 All Cast)",
+          "url": "https://open.spotify.com/artist/1FhjpKbYh9ivmlzb6nkrJz"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340924,
+      "name": "3 on Fleek!!!",
+      "url": "https://open.spotify.com/track/4WOqc6GV7t3GuSUSxyNx60"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4kg2eBCJZwye0HdtB1EbPz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "3 Seconds Killer",
+      "url": "https://open.spotify.com/track/2QSddtVDcr0ljpiA2Opm52"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -F.P.S.M-",
+        "url": "https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272559,
+      "name": "3$EVEN",
+      "url": "https://open.spotify.com/track/2k0vedTDTiF7LMxZ1rtiXF"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6g2APbuOsxkZl3FgrKiA3z"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225412,
+      "name": "AN IDOL",
+      "url": "https://open.spotify.com/track/3TUiepkaUUNuwqr4W9wNDi"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u300cBad Ass Temple Funky Sounds\u300d",
+        "url": "https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269977,
+      "name": "Bad Ass Temple Funky Sounds",
+      "url": "https://open.spotify.com/track/7Ep4OCw8Ym9AbnrO8soHZj"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division Leaders)",
+          "url": "https://open.spotify.com/artist/70lbb3JGV7a8vjeG1TCM9P"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (TBH)",
+          "url": "https://open.spotify.com/artist/5QTYjMhK4o6T0avwYVcRDf"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u30ad\u30a2\u30ed)",
+          "url": "https://open.spotify.com/artist/5WRt3Hju7tKb7ULoZpxsrF"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u30b9\u30af\u30fc\u30ed)",
+          "url": "https://open.spotify.com/artist/0p1cG3xsdBjwwK3XImvyYN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133332,
+      "name": "BATTLE ANIMA+01",
+      "url": "https://open.spotify.com/track/794xs7eokfRDTRo8oRDJYw"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars -3rd Team-)",
+          "url": "https://open.spotify.com/artist/4bY42xE3gkR9Mq1N4OwpFo"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u30ad\u30a2\u30ed)",
+          "url": "https://open.spotify.com/artist/5WRt3Hju7tKb7ULoZpxsrF"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104105,
+      "name": "BATTLE ANIMA+02",
+      "url": "https://open.spotify.com/track/3XJv7kUFm0Mzk0ayr5iVrx"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars -2nd Team-)",
+          "url": "https://open.spotify.com/artist/00k9iYbQpPYigKJLiYN3DQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u30b9\u30af\u30fc\u30ed)",
+          "url": "https://open.spotify.com/artist/0p1cG3xsdBjwwK3XImvyYN"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81839,
+      "name": "BATTLE ANIMA+03",
+      "url": "https://open.spotify.com/track/2hor6NUCdEKtSLLf3yKVvu"
+    },
+    {
+      "album": {
+        "name": "Fling Posse VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/4IR8g08Ul53Oi80mXnU1GO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278850,
+      "name": "BATTLE BATTLE BATTLE",
+      "url": "https://open.spotify.com/track/6y6sr6JU7trV7rJZc7ypmw"
+    },
+    {
+      "album": {
+        "name": "Battle of Pride",
+        "url": "https://open.spotify.com/album/5W4GZ2Bl1JpZI6YFDPmZxL"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4J4zLvDw7X94FTgECxiJcn"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Fling Posse)",
+          "url": "https://open.spotify.com/artist/0SQXfCG5naWZNPNCmIrERU"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/1yGa2YbxSV0Nxx8MdqQ8QD"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/39FB8hrxBbGguIi7FArS0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/7wlXh8g2bHxzwKhMTPEhuZ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(North Bastard)",
+          "url": "https://open.spotify.com/artist/559r6WvIxAWGrIl6m0uvwB"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u9b3c\u74e6\u30dc\u30f3\u30d0\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/4MgpB7X1SpKQqPcKShJezk"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(\u5927\u8718\u86db \u5f3e\u8944)",
+          "url": "https://open.spotify.com/artist/4itAy4LY6EjMIIFwKz5XEv"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(\u9053\u9813\u5800\u30c0\u30a4\u30d0\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/4DY3P18ucNG2kDOKbhh0Pl"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518841,
+      "name": "Battle of Pride",
+      "url": "https://open.spotify.com/track/2uvkBMSgbuKCj0fsBIRmty"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/0GkFdb6m7ggrvy8ym980tv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Bayside-Suicide",
+      "url": "https://open.spotify.com/track/4cdR9WN2zJ7oUXQ2RpikrB"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eFling Posse VS MAD TRIGGER CREW\u300f",
+        "url": "https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264013,
+      "name": "Black Journey",
+      "url": "https://open.spotify.com/track/2yeq14OE1GUxU4A9yutJQA"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196249,
+      "name": "BLACK OR WHITE",
+      "url": "https://open.spotify.com/track/1Us8GzdOVcU9DEjxm8FWgv"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5e33\u6b8b\u661f)",
+          "url": "https://open.spotify.com/artist/07ns8IRcCWVQxqsh11M4Ir"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5e33\u6b8b\u95bb)",
+          "url": "https://open.spotify.com/artist/7KFdSWIaoVr61UcxLJdfkO"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160173,
+      "name": "Bounce Back!",
+      "url": "https://open.spotify.com/track/4NjeWFZAoCzqXwQYjVmZ2Z"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270556,
+      "name": "Break The Wall",
+      "url": "https://open.spotify.com/track/4PpV74nmtTAA6tu1l042Tu"
+    },
+    {
+      "album": {
+        "name": "Bright & Dark",
+        "url": "https://open.spotify.com/album/0iLHqKGkWKtHt8k9zQKoTH"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (B.A.T VS M All Cast)",
+          "url": "https://open.spotify.com/artist/2Bq4Uv56xe9aAis6lEP2L1"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375905,
+      "name": "Bright & Dark",
+      "url": "https://open.spotify.com/track/771z4ad0rRxVqbfNFlwoQn"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/1RDPmfyvTcqaPEPJY4Q7C5"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140025,
+      "name": "Bring it on",
+      "url": "https://open.spotify.com/track/2yVzlfLgkDr7qP4VGmkwzu"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u795e\u5bae\u5bfa\u5bc2\u96f7)",
+          "url": "https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u56fd \u7344)",
+          "url": "https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/2GCQu1ExGztvJkbFdjDGog"
+    },
+    {
+      "album": {
+        "name": "\u3069\u3064\u3044\u305f\u308c\u672c\u8217 -No double dipping!-",
+        "url": "https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u8c37\u5974\u96f6)",
+          "url": "https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "Count the money",
+      "url": "https://open.spotify.com/track/5vgYAwezefTGRMXv9hpYRn"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/1wKZxRcU8tUBQZA6YKH9nG"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320106,
+      "name": "CROSS A LINE",
+      "url": "https://open.spotify.com/track/2VQOoKbbSVShHdxl6b7S29"
+    },
+    {
+      "album": {
+        "name": "Crush Your Mic -Rule the Stage track.3-",
+        "url": "https://open.spotify.com/album/4nr7RCm1wK73Js8G63wZxk"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/39FB8hrxBbGguIi7FArS0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3blPvvBe5meaSJDC5T6cFG"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(\u5927\u8718\u86db \u5f3e\u8944)",
+          "url": "https://open.spotify.com/artist/4itAy4LY6EjMIIFwKz5XEv"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(\u9053\u9813\u5800\u30c0\u30a4\u30d0\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/4DY3P18ucNG2kDOKbhh0Pl"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320713,
+      "name": "Crush Your Mic -Rule the Stage track.3-",
+      "url": "https://open.spotify.com/track/0P4S6pDrMMm0HaueBfVDsn"
+    },
+    {
+      "album": {
+        "name": "DEATH RESPECT",
+        "url": "https://open.spotify.com/album/3Npdo8OZdMREvwcfQUCq0s"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260655,
+      "name": "DEATH RESPECT",
+      "url": "https://open.spotify.com/track/0Lwrc1NXl4jf4ZGdpfDEd0"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260655,
+      "name": "DEATH RESPECT",
+      "url": "https://open.spotify.com/track/4UUlTRKeCgAiVErmyaKsut"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/1EAT0JeTXjvM5MgnL8He8G"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199519,
+      "name": "Dive in",
+      "url": "https://open.spotify.com/track/79xLrTb4W932errGuC4ZOY"
+    },
+    {
+      "album": {
+        "name": "Don't Pass The Mic -Rule the Stage track.2-",
+        "url": "https://open.spotify.com/album/0648G1y5wgVqLBtao1wSo2"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Fling Posse)",
+          "url": "https://open.spotify.com/artist/0SQXfCG5naWZNPNCmIrERU"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/1yGa2YbxSV0Nxx8MdqQ8QD"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u9b3c\u74e6\u30dc\u30f3\u30d0\u30fc\u30ba)",
+          "url": "https://open.spotify.com/artist/4MgpB7X1SpKQqPcKShJezk"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326729,
+      "name": "Don't Pass The Mic -Rule the Stage track.2-",
+      "url": "https://open.spotify.com/track/4jY2UZgrQKxtj3mW6PkSWy"
+    },
+    {
+      "album": {
+        "name": "Fling Posse VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/4IR8g08Ul53Oi80mXnU1GO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1253183,
+      "name": "Drama Track [Just A Friend]",
+      "url": "https://open.spotify.com/track/1Obb4FHKmG9uhx5PQda3rM"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! VS MAD TRIGGER CREW",
+        "url": "https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1638998,
+      "name": "Drama Track [Know Your Enemy side B.B VS M.T.C]",
+      "url": "https://open.spotify.com/track/4D99j9XUjPNsLCym0aTqT3"
+    },
+    {
+      "album": {
+        "name": "Fling Posse VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/4IR8g08Ul53Oi80mXnU1GO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2194584,
+      "name": "Drama Track [Know Your Enemy Side F.P VS M]",
+      "url": "https://open.spotify.com/track/4jfhSgzQLQTXyueuIqYAqC"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! VS MAD TRIGGER CREW",
+        "url": "https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 970666,
+      "name": "Drama Track [Louder Than A Bomb]",
+      "url": "https://open.spotify.com/track/2vm6W4rKJmYNg3nODQE163"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30ba\u30a2\u30c8\u304c\u30ad\u30ba\u30ca\u3068\u306a\u308b",
+        "url": "https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 891778,
+      "name": "Drama Track \u300cFling Posse Inc.\u300d",
+      "url": "https://open.spotify.com/track/1cvBkFJBVWKOsLRiVeFtp7"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2738733,
+      "name": "Drama Track \u300cMixed Up\u300d",
+      "url": "https://open.spotify.com/track/27XLH8ZrFhqwV1x3cdMztM"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30ba\u30a2\u30c8\u304c\u30ad\u30ba\u30ca\u3068\u306a\u308b",
+        "url": "https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2701598,
+      "name": "Drama Track \u300c\u516d\u8272\u304c\u4ea4\u308f\u308b\u6642\u3001\u300e\u300f\u304c\u59cb\u307e\u308b\u300d",
+      "url": "https://open.spotify.com/track/14FfhRXhpbfy2neMS3z9ve"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 926126,
+      "name": "Drama Track[29\u6b73\u306e\u30ea\u30a2\u30eb]",
+      "url": "https://open.spotify.com/track/50lNjGsMqZTieELnDzdeTh"
+    },
+    {
+      "album": {
+        "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+        "url": "https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2447954,
+      "name": "Drama Track[aikata back again]",
+      "url": "https://open.spotify.com/track/2ORw2q9RIeMcPmJrPd8niz"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3243938,
+      "name": "Drama Track[Don't Play No Game That I Can't Win]",
+      "url": "https://open.spotify.com/track/4QJyVIRVvMsDRemHpudY9Y"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 876602,
+      "name": "Drama Track[Fight For Your Right]",
+      "url": "https://open.spotify.com/track/2Ry6SPQ7IDlJHxccq8kX0T"
+    },
+    {
+      "album": {
+        "name": "The Champion/T.D.D LEGEND",
+        "url": "https://open.spotify.com/album/1x2bL3EPuwQx0u4vTpPT5C"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1871541,
+      "name": "Drama Track[Me Against The World]",
+      "url": "https://open.spotify.com/track/0TDvnTq7JIAgQ3U5kkLkVT"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1021949,
+      "name": "Drama Track[Somebody Gotta Do It]",
+      "url": "https://open.spotify.com/track/5a7AEE9I28KoPO2NQ0ktzQ"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1093780,
+      "name": "Drama Track[We Just Wanna Party with You]",
+      "url": "https://open.spotify.com/track/3NDCDuHhK8YKvAfFtEl69L"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u300cBad Ass Temple Funky Sounds\u300d",
+        "url": "https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2633096,
+      "name": "Drama Track[\u4e0d\u9000\u8ee2\u306e\u5fc3\u306f\u6483\u3061\u7815\u3051\u306a\u3044]",
+      "url": "https://open.spotify.com/track/6mgGWSAA7msILVHxoCsghx"
+    },
+    {
+      "album": {
+        "name": "The Champion/T.D.D LEGEND",
+        "url": "https://open.spotify.com/album/1x2bL3EPuwQx0u4vTpPT5C"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1815913,
+      "name": "Drama Track[\u8a3c\u8a00]",
+      "url": "https://open.spotify.com/track/19vmmHiRpj9MFpOxpPJzbI"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eFling Posse VS MAD TRIGGER CREW\u300f",
+        "url": "https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1765120,
+      "name": "Drama Track\u300cA dream\u2026for good or evil\u300d",
+      "url": "https://open.spotify.com/track/5uBULL8ZhdkWNs4popbOlO"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
+        "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1688346,
+      "name": "Drama Track\u300cAikata(s)Back Again\u300d",
+      "url": "https://open.spotify.com/track/5LWSH8nTMC2867OACHpOTC"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eFling Posse VS MAD TRIGGER CREW\u300f",
+        "url": "https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1829720,
+      "name": "Drama Track\u300cCatch Us If You Can\u300d",
+      "url": "https://open.spotify.com/track/3ZoWZtJ5rRbzA0YVtucYTZ"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
+        "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1898866,
+      "name": "Drama Track\u300cLife is what you make it\u300d",
+      "url": "https://open.spotify.com/track/5qSexxPnRDqmrHmYJfVcch"
+    },
+    {
+      "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 913320,
+      "name": "Drama Track\u300cNo one lives forever\u300d",
+      "url": "https://open.spotify.com/track/550FXsa5337R5E4tVPDRwA"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2764880,
+      "name": "Drama Track\u300cThe Block Party -\u524d\u534a-\u300d",
+      "url": "https://open.spotify.com/track/1SBltxCSVpDGhp7rDRAWDn"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3228613,
+      "name": "Drama Track\u300cThe Block Party -\u5f8c\u534a-\u300d",
+      "url": "https://open.spotify.com/track/65gKBHXFNvjelDHDPAmEwg"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2502588,
+      "name": "Drama Track\u300c\u30de\u30ea\u30aa\u30cd\u30c3\u30c8\u306e\u5b64\u72ec\u3068\u6d99\u3068\u5e0c\u671b\u3068\u300d",
+      "url": "https://open.spotify.com/track/79MIqoEZx5gxVjQPQilngb"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
+        "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1891293,
+      "name": "Drama Track\u300c\u548c\u8877\u5171\u540c\u300d",
+      "url": "https://open.spotify.com/track/1ulU3nCD1jp5D6anuOJMeF"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2769899,
+      "name": "Drama Track\u300c\u904e\u53bb\u304b\u3089\u306echaser\u300d",
+      "url": "https://open.spotify.com/track/13QMaRgR5OI1mPph8Q3Xua"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
+        "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1844253,
+      "name": "Drama Track\u300c\u9306\u3073\u3064\u3051\u3070\u9032\u3081\u305a\u3001\u81c6\u3059\u308c\u3070\u8a87\u308a\u3092\u5931\u3046\u3002\u6545\u306b\u6211\u3005\u306f\u5df1\u306b\u5426\u3092\u713c\u3079\u3001\u706b\u3092\u706f\u3057\u7d9a\u3051\u308b\u300d",
+      "url": "https://open.spotify.com/track/2wGdtdglYW4T3oTsBsRmJb"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2187070,
+      "name": "Drama Track\uff62All in the same boat\uff63",
+      "url": "https://open.spotify.com/track/51NFBhTPe6FqqzzHj9xl1q"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2774032,
+      "name": "Drama Track\uff62Helter Skelter\uff63",
+      "url": "https://open.spotify.com/track/2V1howFtvMmArwLngAhzsK"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -F.P.S.M-",
+        "url": "https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u98f4\u6751\u4e71\u6570)",
+          "url": "https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281377,
+      "name": "drops",
+      "url": "https://open.spotify.com/track/0WhtNiffBKTgsLPP0y3opD"
+    },
+    {
+      "album": {
+        "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+        "url": "https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u8c37\u5974\u96f6)",
+          "url": "https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241530,
+      "name": "FACES",
+      "url": "https://open.spotify.com/track/5fyv8ggkDjaDgyTFiI7kSw"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/2AT6gFE6PkBts8KDBzGpZy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178026,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/4qU7s8kLI18bw6JNQcDJjA"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale",
+        "url": "https://open.spotify.com/album/1TpfwmIabNeeZb3zpXzHaN"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/5xjNH4sro043o7sEMamIc8"
+    },
+    {
+      "album": {
+        "name": "Fight 4 Your Pride -Rule the Stage track.4-",
+        "url": "https://open.spotify.com/album/3eWdhHmoAVdFQYDTJZXbsQ"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4J4zLvDw7X94FTgECxiJcn"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Fling Posse)",
+          "url": "https://open.spotify.com/artist/0SQXfCG5naWZNPNCmIrERU"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/1yGa2YbxSV0Nxx8MdqQ8QD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415191,
+      "name": "Fight 4 Your Pride -Rule the Stage track.4-",
+      "url": "https://open.spotify.com/track/33jyrMw5VYcVtqRWlnnl53"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6g2APbuOsxkZl3FgrKiA3z"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/1EAT0JeTXjvM5MgnL8He8G"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231492,
+      "name": "FIGHTER'S ROAD",
+      "url": "https://open.spotify.com/track/5XUEWX8k1VNpt1SKfvRyQo"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE M.T.C",
+        "url": "https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u78a7\u68fa\u5de6\u99ac\u523b)",
+          "url": "https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192784,
+      "name": "G anthem of Y-CITY",
+      "url": "https://open.spotify.com/track/7ro6kuWAn4AvaRXOIM0z5d"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u78a7\u68fa\u5de6\u99ac\u523b)",
+          "url": "https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183358,
+      "name": "Gangsta's Paradise",
+      "url": "https://open.spotify.com/track/5nh322AZlmx6Zg3NHZduz3"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180626,
+      "name": "Get busy",
+      "url": "https://open.spotify.com/track/38kyosQso2bA1MaH6UbPig"
+    },
+    {
+      "album": {
+        "name": "Gimme The Mic -Rule the Stage track.1-",
+        "url": "https://open.spotify.com/album/5pIS13cyKSlH2oc8G6haIn"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4J4zLvDw7X94FTgECxiJcn"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (North Bastard)",
+          "url": "https://open.spotify.com/artist/3Dsod9hQI54ZWQ4Y7hG7Wr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293807,
+      "name": "Gimme The Mic -Rule the Stage track.1-",
+      "url": "https://open.spotify.com/track/3wGsQJpsCgYOGYABxbVoyL"
+    },
+    {
+      "album": {
+        "name": "Hang out!",
+        "url": "https://open.spotify.com/album/1LwEI1sGYVCutC9wM0ik1M"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -A.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2ZyhQuzfOhSjXPQauL2iT5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333952,
+      "name": "Hang out!",
+      "url": "https://open.spotify.com/track/3oqZrBXTc6czAwt3oeouvg"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "HIPHOPPIA",
+      "url": "https://open.spotify.com/track/4kdz8NtxInAupPVmwvqzB5"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361894,
+      "name": "Hoodstar",
+      "url": "https://open.spotify.com/track/3XLr6lXufrhpLNldwFJpk5"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B Final Battle \u300eBuster Bros!!! VS \u9ebb\u5929\u72fc VS Fling Posse\u300f",
+        "url": "https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509866,
+      "name": "Hoodstar +",
+      "url": "https://open.spotify.com/track/2QDeMHHj7zeYlEPvRBZL83"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eFling Posse VS MAD TRIGGER CREW\u300f",
+        "url": "https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205733,
+      "name": "HUNTING CHARM",
+      "url": "https://open.spotify.com/track/7gHOquXrM5dv5IiOlRL4zs"
+    },
+    {
+      "album": {
+        "name": "Bad Ass Temple -\u6212\u5b9a\u6167-",
+        "url": "https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u56fd \u7344)",
+          "url": "https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273240,
+      "name": "If I Follow My Heart",
+      "url": "https://open.spotify.com/track/1FDv1HNDoVfAy0rUUmJv7j"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "IKEBUKURO WEST BLOCK PARTY",
+      "url": "https://open.spotify.com/track/6rEwv2ITLJ7B8xBjc95rG1"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! VS MAD TRIGGER CREW",
+        "url": "https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290994,
+      "name": "IKEBUKURO WEST GAME PARK",
+      "url": "https://open.spotify.com/track/5Kbbwlu9mV8KyeM45KqLrj"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328346,
+      "name": "IKEBUKURO WEST GAME PARK(Boyz Sunshine remix)/Buster Bros!!!",
+      "url": "https://open.spotify.com/track/6APwNEgbjmSFeuxboNcK37"
+    },
+    {
+      "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u78a7\u68fa\u5408\u6b53)",
+          "url": "https://open.spotify.com/artist/1CSHxeBu5h05TF7rx3aTqa"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "Independence day",
+      "url": "https://open.spotify.com/track/0pRUE43e12a9XynWSV0ox7"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(Fling Posse)",
+          "url": "https://open.spotify.com/artist/3jANppgVelA6HVGKnSD0aO"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "JACKPOT!",
+      "url": "https://open.spotify.com/track/64FQL9aESZA6oYvCOndfxV"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
+        "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330626,
+      "name": "Joy for Struggle",
+      "url": "https://open.spotify.com/track/1xTsjaUyVo3u4a9TyK9CKK"
+    },
+    {
+      "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6771\u65b9\u5929\u4e59\u7d71\u5973)",
+          "url": "https://open.spotify.com/artist/06T6xGOE6y3vciqX3sHb08"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Just do it",
+      "url": "https://open.spotify.com/track/2hVmebNehDEYuYijsaNCbl"
+    },
+    {
+      "album": {
+        "name": "Let It Bleed",
+        "url": "https://open.spotify.com/album/0w268KYsImcl58c4dII6tQ"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (D.H VS B.B All Cast)",
+          "url": "https://open.spotify.com/artist/7xsGbZIRPqxBOfQtO99Ydx"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337655,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/32GTyB7jnFI32R12Jqvdxu"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
+        "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378133,
+      "name": "Light & Shadow",
+      "url": "https://open.spotify.com/track/4ssDwh7HBBayufzI1cGp1L"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(Secret Aliens)",
+          "url": "https://open.spotify.com/artist/676268rPDJGC6YOg4ZlEao"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192400,
+      "name": "Love Dimension",
+      "url": "https://open.spotify.com/track/0WBfyxAB0O1EjWuywNfHDQ"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6bd2\u5cf6\u30e1\u30a4\u30bd\u30f3\u7406\u9daf)",
+          "url": "https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228053,
+      "name": "Move Your Body Till You Die!",
+      "url": "https://open.spotify.com/track/0UZV37rsHPSfW576JdGK7W"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! Generation",
+        "url": "https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e09\u90ce)",
+          "url": "https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280562,
+      "name": "New star",
+      "url": "https://open.spotify.com/track/6GCFpK3pAMBWratI01NWJl"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0ldgyesibUxcsz6iTbVNfJ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193492,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0dMHWKTDEeBTx7YFEo0SHp"
+    },
+    {
+      "album": {
+        "name": "Next Stage",
+        "url": "https://open.spotify.com/album/40hwe9hPfPmwiLCOo3vDLr"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 455759,
+      "name": "Next Stage",
+      "url": "https://open.spotify.com/track/16lyD3OIJPsQNCv5EI7pHJ"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455759,
+      "name": "Next Stage",
+      "url": "https://open.spotify.com/track/4Ccl2jjnB4SIvlXlbhgA34"
+    },
+    {
+      "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u52d8\u89e3\u7531\u5c0f\u8def\u7121\u82b1\u679c)",
+          "url": "https://open.spotify.com/artist/3pKwnUM4f6ufAgOL5nA4PL"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "No Pain, Not to be Strong",
+      "url": "https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u300cBad Ass Temple Funky Sounds\u300d",
+        "url": "https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u56fd \u7344)",
+          "url": "https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196783,
+      "name": "One and Two, and Law",
+      "url": "https://open.spotify.com/track/4fXtuqfsBhPStfFwT9Rysq"
+    },
+    {
+      "album": {
+        "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+        "url": "https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227087,
+      "name": "Own Stage",
+      "url": "https://open.spotify.com/track/4myTd594xGtzwMYO0MzBx5"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5YjmdCzAsmV12k3sGL7gKw"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0ldgyesibUxcsz6iTbVNfJ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210705,
+      "name": "PUMP IT UP",
+      "url": "https://open.spotify.com/track/49FM85WUJ7nuXEqm3PbtQI"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
+        "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211973,
+      "name": "Re:start!!!",
+      "url": "https://open.spotify.com/track/6MLvvv4gNnfJJ5R6z6Qwrr"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eFling Posse VS MAD TRIGGER CREW\u300f",
+        "url": "https://open.spotify.com/album/3ZIswKcDqU5JCaJdEKp3QO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311826,
+      "name": "Reason to FIGHT",
+      "url": "https://open.spotify.com/track/2XVfFzmqXrLsv1xoRmFu7z"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/0GkFdb6m7ggrvy8ym980tv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173800,
+      "name": "RED ZONE(Don't test da Master)",
+      "url": "https://open.spotify.com/track/2Bt3hPDdFgJawOAMZltQaN"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (\u958b\u95e2\u9580\u9b3c\u54ed)",
+          "url": "https://open.spotify.com/artist/5ZVOR5YxzoyCuPQei2tWeV"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221332,
+      "name": "RELIEVE",
+      "url": "https://open.spotify.com/track/5wVvawTYBfkYSAahWpXkYf"
+    },
+    {
+      "album": {
+        "name": "Rep Squad -Buster Bros!!! Ver.-",
+        "url": "https://open.spotify.com/album/0HcA1d1WN5L38h6Vma19z8"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4J4zLvDw7X94FTgECxiJcn"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181951,
+      "name": "Rep Squad -Buster Bros!!! Ver.-",
+      "url": "https://open.spotify.com/track/0CdUOnqbwWuw53mSl0JYT6"
+    },
+    {
+      "album": {
+        "name": "Rep Squad -MAD TRIGGER CREW Ver.-",
+        "url": "https://open.spotify.com/album/6yWUnGx4WONkTo8Cx2kAmW"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5PLtK0RYZ3vNnVKMkXdir2"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181399,
+      "name": "Rep Squad -MAD TRIGGER CREW Ver.-",
+      "url": "https://open.spotify.com/track/1DCdzPr9v3WrNBjNwkOZ3l"
+    },
+    {
+      "album": {
+        "name": "Rep Squad -\u3069\u3064\u3044\u305f\u308c\u672c\u8217 Ver.-",
+        "url": "https://open.spotify.com/album/212I4DfRPtSNZIW4e8cxuY"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/39FB8hrxBbGguIi7FArS0G"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181828,
+      "name": "Rep Squad -\u3069\u3064\u3044\u305f\u308c\u672c\u8217 Ver.-",
+      "url": "https://open.spotify.com/track/4hlW3CX2hUtuDrAOtLvnSS"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341613,
+      "name": "Rhyme Anima's Mixtape",
+      "url": "https://open.spotify.com/track/6QRGnXRxnJmSWMQjHjcXtH"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220119,
+      "name": "RISE FROM DEAD",
+      "url": "https://open.spotify.com/track/3cavWhC4tm9wAhlXMaSADe"
+    },
+    {
+      "album": {
+        "name": "RISE FROM DEAD",
+        "url": "https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2023-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 220359,
+      "name": "RISE FROM DEAD",
+      "url": "https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198093,
+      "name": "Rivals!",
+      "url": "https://open.spotify.com/track/4otyBXYhh2gmvZ8mStOIUn"
+    },
+    {
+      "album": {
+        "name": "Turn up the Stage",
+        "url": "https://open.spotify.com/album/6vcU5AgRDEMWC0RAjV0kda"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (Division Leaders)",
+          "url": "https://open.spotify.com/artist/781OlSl4fitMTjZt3FQ5PE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325373,
+      "name": "Rule the Stage wiz 6 mic",
+      "url": "https://open.spotify.com/track/7lp4zV3sEfG8N2Mf03BGhx"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/4kg2eBCJZwye0HdtB1EbPz"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "RUN THIS CITY",
+      "url": "https://open.spotify.com/track/5EVMm2zSnWgicSpd98gtWu"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/5ZYuI8qIdbD9dsdr08RUf7"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208372,
+      "name": "SANITY",
+      "url": "https://open.spotify.com/track/4G7KK5Msv1aYgyJI5sjJSJ"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206280,
+      "name": "Scarface",
+      "url": "https://open.spotify.com/track/619lFp16KrHK0EANSY8YqG"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218488,
+      "name": "School of IKB",
+      "url": "https://open.spotify.com/track/6NmgDrdiqr9JA2MojWtpO8"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6709\u6816\u5ddd\u5e1d\u7d71)",
+          "url": "https://open.spotify.com/artist/7zPyS2eGOYY53pbISyQ2Ht"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188067,
+      "name": "SCRAMBLE GAMBLE",
+      "url": "https://open.spotify.com/track/20zF7W9oqE65eGkRoT36IY"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(Fling Posse)",
+          "url": "https://open.spotify.com/artist/3jANppgVelA6HVGKnSD0aO"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "SHIBUYA GHOST NIGHT",
+      "url": "https://open.spotify.com/track/2wTcnddxGBQD4XAstq5lVC"
+    },
+    {
+      "album": {
+        "name": "Fling Posse VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/4IR8g08Ul53Oi80mXnU1GO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236424,
+      "name": "Shibuya Marble Texture -PCCS-",
+      "url": "https://open.spotify.com/track/6u24qPPY0w9rJV8WnF6cpn"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215602,
+      "name": "Shibuya Marble Texture -PCCS-(Candy Dazed remix)/Fling Posse",
+      "url": "https://open.spotify.com/track/2skrg7QAQBTy95rdvzEWUd"
+    },
+    {
+      "album": {
+        "name": "Fling Posse VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/4IR8g08Ul53Oi80mXnU1GO"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254543,
+      "name": "Shinjuku Style ~\u7b11\u308f\u3059\u306a~",
+      "url": "https://open.spotify.com/track/248KcceO3fEEutYYEsBIp4"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283646,
+      "name": "Shinjuku Style ~\u7b11\u308f\u3059\u306a~(Nerve Rackin' remix)/\u9ebb\u5929\u72fc",
+      "url": "https://open.spotify.com/track/0QzADS8b7suBtjhiM7tcmH"
+    },
+    {
+      "album": {
+        "name": "Shout Out to the Revolution -Rule the Stage track.5-",
+        "url": "https://open.spotify.com/album/5JIWxzhE0a0hhhNzXvAJ9V"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(The Dirty Dawg)",
+          "url": "https://open.spotify.com/artist/5eD4jUWpgLRM9SUkcZYkfl"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(\u795e\u5948\u5099 \u8862)",
+          "url": "https://open.spotify.com/artist/7AwL23Q1vfzdECOGoOaBq8"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage(D4)",
+          "url": "https://open.spotify.com/artist/2yn6Jky3948fJJM3vWiWZ3"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336666,
+      "name": "Shout Out to the Revolution -Rule the Stage track.5-",
+      "url": "https://open.spotify.com/track/1Gvu67qRGpYOzdVrNs8Yfo"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B Final Battle \u300eBuster Bros!!! VS \u9ebb\u5929\u72fc VS Fling Posse\u300f",
+        "url": "https://open.spotify.com/album/4sOGExLCKvW0ZVFqGVwjeQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "SHOWDOWN",
+      "url": "https://open.spotify.com/track/5YtrU5UELvL1x9HZ7TbVjn"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293504,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/30RKG9bhAFG3b2Oc2U8PSf"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438586,
+      "name": "SUMMIT OF DIVISIONS",
+      "url": "https://open.spotify.com/track/4sWhugJYLyt9P0x03fs38i"
+    },
+    {
+      "album": {
+        "name": "SUMMIT OF DIVISIONS",
+        "url": "https://open.spotify.com/album/1EcHvariKJytOVrplvrqm8"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 439120,
+      "name": "SUMMIT OF DIVISIONS",
+      "url": "https://open.spotify.com/track/3TRxEAffwoMerDdDOyM7ya"
+    },
+    {
+      "album": {
+        "name": "Survival of the Illest",
+        "url": "https://open.spotify.com/album/6Ys5GZP9fndtL6Dxsn3zlt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -A.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2ZyhQuzfOhSjXPQauL2iT5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308617,
+      "name": "Survival of the Illest",
+      "url": "https://open.spotify.com/track/22Gtb9QpKGl6RuqUhVKXdq"
+    },
+    {
+      "album": {
+        "name": "Survival of the Illest +",
+        "url": "https://open.spotify.com/album/53OcgRVWpdspni4e4KHlNW"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -A.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2ZyhQuzfOhSjXPQauL2iT5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452194,
+      "name": "Survival of the Illest +",
+      "url": "https://open.spotify.com/track/6HfKpRlPCi7xuVfaNQsHEa"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (The Dirty Dawg)",
+          "url": "https://open.spotify.com/artist/6zxwWMAn61LG88YKWGCZJG"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319111,
+      "name": "T.D.D LEGEND",
+      "url": "https://open.spotify.com/track/3baggMyfPltTqJsNInQsVu"
+    },
+    {
+      "album": {
+        "name": "The Champion",
+        "url": "https://open.spotify.com/album/5NaVkZdqTT4MrWqg3bq0DD"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229699,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/2oNkpkAXnOPkWkUTWmLCON"
+    },
+    {
+      "album": {
+        "name": "The Champion/T.D.D LEGEND",
+        "url": "https://open.spotify.com/album/1x2bL3EPuwQx0u4vTpPT5C"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229699,
+      "name": "The Champion",
+      "url": "https://open.spotify.com/track/4wGsmReTJuirobf8pzOxO8"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
+        "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312706,
+      "name": "TOMOSHIBI",
+      "url": "https://open.spotify.com/track/0AvuG9bctCClebU8xOjSa8"
+    },
+    {
+      "album": {
+        "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+        "url": "https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228015,
+      "name": "Tragic Transistor",
+      "url": "https://open.spotify.com/track/63VoKS9ZgCDoNpayR3FMbE"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/0fSy2HGWigmebFGtMvUTAk"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5165\u9593\u9283\u514e)",
+          "url": "https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189724,
+      "name": "Uncrushable",
+      "url": "https://open.spotify.com/track/26MsKj93KMXhDXlKK8rwPD"
+    },
+    {
+      "album": {
+        "name": "\u3069\u3064\u3044\u305f\u308c\u672c\u8217 -No double dipping!-",
+        "url": "https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Under Sail",
+      "url": "https://open.spotify.com/track/2pQneHOpBNuRYwJs83hESi"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30ba\u30a2\u30c8\u304c\u30ad\u30ba\u30ca\u3068\u306a\u308b",
+        "url": "https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Division Leaders)",
+          "url": "https://open.spotify.com/artist/0gQDotNkO2yrl8RXKNmzwb"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340983,
+      "name": "UNITED EMCEEZ -Enter the HEXAGON-",
+      "url": "https://open.spotify.com/track/5V48epr7AIgl3JyLZ9U2Ro"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u4e0a\u3068\u30ed\u5409\u3068",
+        "url": "https://open.spotify.com/album/4W6CxUkRXs0XUwXmlBMxtq"
+      },
+      "artists": [
+        {
+          "name": "Cypress Ueno To Robert Yoshino",
+          "url": "https://open.spotify.com/artist/1tOF1qdxR1zSaNT8qJzRc4"
+        },
+        {
+          "name": "\u78a7\u68fa\u5de6\u99ac\u523b(from\u300c\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle-\u300d)",
+          "url": "https://open.spotify.com/artist/4vSPLX9jK8UHugQR6nYrA1"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243706,
+      "name": "Uptown Anthem feat. \u78a7\u68fa\u5de6\u99ac\u523b(from\u300c\u30d2\u30d5\u309a\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle-\u300d)",
+      "url": "https://open.spotify.com/track/7Io8lO3UcLJBYw1PK1OEbc"
+    },
+    {
+      "album": {
+        "name": "Verbal Justice",
+        "url": "https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4e2d\u738b\u533a \u8a00\u306e\u8449\u515a)",
+          "url": "https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV"
+        }
+      ],
+      "date_added": "2023-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Verbal Justice",
+      "url": "https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av"
+    },
+    {
+      "album": {
+        "name": "Bad Ass Temple -\u6212\u5b9a\u6167-",
+        "url": "https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u56db\u5341\u7269 \u5341\u56db)",
+          "url": "https://open.spotify.com/artist/0T5lSNqv0Utp1JPA21CWDw"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223280,
+      "name": "Violet Masquerade",
+      "url": "https://open.spotify.com/track/6AR0H3jMvgf6G7zthTOI4s"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u98f4\u6751\u4e71\u6570)",
+          "url": "https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e09\u90ce)",
+          "url": "https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224960,
+      "name": "Viva la liberty",
+      "url": "https://open.spotify.com/track/03lS8rrl8U90T5OAftvXoX"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! VS MAD TRIGGER CREW",
+        "url": "https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276292,
+      "name": "WAR WAR WAR",
+      "url": "https://open.spotify.com/track/6YwTdfjT2VpJI8j4jFdwnm"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/1RDPmfyvTcqaPEPJY4Q7C5"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/5ZYuI8qIdbD9dsdr08RUf7"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211599,
+      "name": "We go with the flow",
+      "url": "https://open.spotify.com/track/2W28N8Wj7QpXIbMNXqw1l4"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Rhyme Anima",
+        "url": "https://open.spotify.com/album/7FETrOg3fuRUyFQdFPwXDV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima(\u9ebb\u5929\u72fc)",
+          "url": "https://open.spotify.com/artist/2AT6gFE6PkBts8KDBzGpZy"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "WELCOME U",
+      "url": "https://open.spotify.com/track/4kVGu2ehrBlFg2AucOk3T5"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE M.T.C",
+        "url": "https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6bd2\u5cf6\u30e1\u30a4\u30bd\u30f3\u7406\u9daf)",
+          "url": "https://open.spotify.com/artist/1HgU7kZOYS995O1n9BSKGQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194051,
+      "name": "What's My Name?",
+      "url": "https://open.spotify.com/track/1Ok0nFVnNGTNl7lgbEL5y3"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! VS MAD TRIGGER CREW",
+        "url": "https://open.spotify.com/album/3xMnTQo1dCY5gnx7k2V1dR"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251283,
+      "name": "Yokohama Walker",
+      "url": "https://open.spotify.com/track/6rHgqwAjuFY1k0l6V7ZbE7"
+    },
+    {
+      "album": {
+        "name": "MAD TRIGGER CREW VS \u9ebb\u5929\u72fc",
+        "url": "https://open.spotify.com/album/3iEo8lSsvHmE5eHMwi5eg1"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229734,
+      "name": "Yokohama Walker(Triple Trippin' remix)/MAD TRIGGER CREW",
+      "url": "https://open.spotify.com/track/4SBfVISNH3pb5SqOE0lVXc"
+    },
+    {
+      "album": {
+        "name": "Bad Ass Temple -\u6212\u5b9a\u6167-",
+        "url": "https://open.spotify.com/album/2uQtOIKEuUWsy2HVt270Zy"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Young Gun of The Sun",
+      "url": "https://open.spotify.com/track/1FvOJYT3Q7JI4HvAekiEW8"
+    },
+    {
+      "album": {
+        "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+        "url": "https://open.spotify.com/album/1vgwIdCgqnRbyqeZq1D9nX"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195218,
+      "name": "\u3042\u309d\u30aa\u30aa\u30b5\u30abdreamin'night",
+      "url": "https://open.spotify.com/track/1Iyxp6vMuJ4mqwColjXE6O"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267046,
+      "name": "\u304a\u306f\u3088\u3046\u30a4\u30b1\u30d6\u30af\u30ed",
+      "url": "https://open.spotify.com/track/7Km0Uw3Vwxwicofo27AEY4"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u90aa\u7b54\u9662\u4ec4\u4ec4)",
+          "url": "https://open.spotify.com/artist/1YgdHBwfamnfkjqrNQTpXA"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "\u304a\u307e\u307e\u3054\u3068",
+      "url": "https://open.spotify.com/track/5XOiydiaqvwiR1X5t1RQn8"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u300cBad Ass Temple Funky Sounds\u300d",
+        "url": "https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u6ce2\u7f85\u5937 \u7a7a\u5374)",
+          "url": "https://open.spotify.com/artist/6c1w45xLPDcBpx1O1I1h8t"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231734,
+      "name": "\u305d\u3046\u304e\u3083\u3089\u3093BAM",
+      "url": "https://open.spotify.com/track/7gINxzz4ErVMK3FAli7Bt7"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216546,
+      "name": "\u3067\u3089\u3059\u3052\u3047\u5bb4",
+      "url": "https://open.spotify.com/track/68Q0jsDJg0sc7GGOSiraL9"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "\u3068\u308a\u307e Get on the floor",
+      "url": "https://open.spotify.com/track/7LFoAlxvTdkZCjOA5mW6Ye"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! Generation",
+        "url": "https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 852166,
+      "name": "\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Buster Bros!!! Drama Track1",
+      "url": "https://open.spotify.com/track/7HChYAp3GIgzxZ6ny2AnUk"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! Generation",
+        "url": "https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381388,
+      "name": "\u30a4\u30b1\u30d6\u30af\u30ed\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Buster Bros!!! Drama Track2",
+      "url": "https://open.spotify.com/track/7Gw4FM3cnHl223uicaFIam"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30ba\u30a2\u30c8\u304c\u30ad\u30ba\u30ca\u3068\u306a\u308b",
+        "url": "https://open.spotify.com/album/4OUkSxmENUJXnvqtyrsMkB"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251516,
+      "name": "\u30ad\u30ba\u30a2\u30c8\u304c\u30ad\u30ba\u30ca\u3068\u306a\u308b",
+      "url": "https://open.spotify.com/track/5ySFq8N2HUO45hM7Z2lzOO"
+    },
+    {
+      "album": {
+        "name": "\u3069\u3064\u3044\u305f\u308c\u672c\u8217 -No double dipping!-",
+        "url": "https://open.spotify.com/album/6t71OfklRhGyuzpTDqCNwx"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "\u30b3\u30e1\u30c7\u30a3\u30a2\u30f3\u30fb\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/3YupjQlzxemTLQdZKUskzf"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -F.P.S.M-",
+        "url": "https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227078,
+      "name": "\u30b7\u30ca\u30ea\u30aa\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/1ur4nuxIY0LWcdfyum2hFC"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200141,
+      "name": "\u30b7\u30ce\u30ae(Dead Pools)",
+      "url": "https://open.spotify.com/track/0hR5O9ZVwaLppArJsl9sUm"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -F.P.S.M-",
+        "url": "https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 870359,
+      "name": "\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Fling Posse Drama Track1",
+      "url": "https://open.spotify.com/track/75fljM8LRR9P8D0lPmT9TX"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -F.P.S.M-",
+        "url": "https://open.spotify.com/album/2JILUvLYmUPwVVWavanNIm"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484759,
+      "name": "\u30b7\u30d6\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 Fling Posse Drama Track2",
+      "url": "https://open.spotify.com/track/4sd68hFhYpOwxcyzPMNJOU"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc-\u97f3\u97fb\u81e8\u5e8a-",
+        "url": "https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4f0a\u5f09\u5189\u4e00\u4e8c\u4e09)",
+          "url": "https://open.spotify.com/artist/6eQaoV4hcIjHERsUBZILMp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246664,
+      "name": "\u30b7\u30e3\u30f3\u30d1\u30f3\u30b4\u30fc\u30eb\u30c9",
+      "url": "https://open.spotify.com/track/1CmLPCjKeT0E74baLTVaFV"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "\u30b7\u30f3\u30af\u30ed\u30fb\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/24dFh5VCsRwWLoUA9QuJcV"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc-\u97f3\u97fb\u81e8\u5e8a-",
+        "url": "https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1394455,
+      "name": "\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u9ebb\u5929\u72fc Drama Track1",
+      "url": "https://open.spotify.com/track/0LQJjCp8yEF3DC6r15eg0I"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc-\u97f3\u97fb\u81e8\u5e8a-",
+        "url": "https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453211,
+      "name": "\u30b7\u30f3\u30b8\u30e5\u30af\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u9ebb\u5929\u72fc Drama Track2",
+      "url": "https://open.spotify.com/track/2MzccwlcwI4dKW2mqxyYpH"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 Rhyme Anima +",
+        "url": "https://open.spotify.com/album/3tPtU624XkezQPnn83vGun"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/5YjmdCzAsmV12k3sGL7gKw"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218172,
+      "name": "\u30b8\u30f3\u30ae(Pay Respect)",
+      "url": "https://open.spotify.com/track/6AFAtO5hhhKdzcmajJqwhO"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! Generation",
+        "url": "https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e8c\u90ce)",
+          "url": "https://open.spotify.com/artist/2ntze4Zi5AT1afx1lTEPUE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261242,
+      "name": "\u30bb\u30f3\u30bb\u30f3\u30d5\u30b3\u30af",
+      "url": "https://open.spotify.com/track/0TwYi9bddgARM3QWEDZiiO"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc-\u97f3\u97fb\u81e8\u5e8a-",
+        "url": "https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u89b3\u97f3\u5742\u72ec\u6b69)",
+          "url": "https://open.spotify.com/artist/1jFS1ybytbb9YCWaTnhQ7I"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220914,
+      "name": "\u30c1\u30b0\u30ea\u30b8\u30a2",
+      "url": "https://open.spotify.com/track/0C3l3qOP31pIXt2aTE999i"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245648,
+      "name": "\u30d1\u30d4\u30e8\u30f3",
+      "url": "https://open.spotify.com/track/6Ix4bDToZG32iHIjjjD9qX"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4f0a\u5f09\u5189\u4e00\u4e8c\u4e09)",
+          "url": "https://open.spotify.com/artist/6eQaoV4hcIjHERsUBZILMp"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270772,
+      "name": "\u30d1\u30fc\u30c6\u30a3\u30fc\u3092\u6b62\u3081\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/4I4x08U64sl0BQvOYI8TYM"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Alternative Rap Battle-",
+        "url": "https://open.spotify.com/album/1aNpBQhw66c9suDdPS3NuV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -A.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2ZyhQuzfOhSjXPQauL2iT5"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377910,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Alternative Rap Battle-",
+      "url": "https://open.spotify.com/track/4OYV0zmjX6jYVgnlRcUkCL"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Battle Anthem-",
+        "url": "https://open.spotify.com/album/6FLtGhfXO4Q4uIIERlEduH"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328804,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Battle Anthem-",
+      "url": "https://open.spotify.com/track/1KCRlxx6q5u2xwOvRyY1Ct"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Battle Anthem- +",
+        "url": "https://open.spotify.com/album/0sD6DxfTotCTO6NUQtAowL"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421935,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Battle Anthem- +",
+      "url": "https://open.spotify.com/track/7eiXIZnZmDBtEGREON5AeG"
+    },
+    {
+      "album": {
+        "name": "Enter the Hypnosis Microphone",
+        "url": "https://open.spotify.com/album/7k6dlrlgJMKTQPIxxpko5j"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325642,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle-",
+      "url": "https://open.spotify.com/track/7Dob1V4rvD1aQkXclSel2B"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- +",
+        "url": "https://open.spotify.com/album/3GEhgeX0f9s2lZbcSDN1ua"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463533,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- +",
+      "url": "https://open.spotify.com/track/7G8jc5eGFmEWctZq98ONB6"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Glory or Dust-",
+        "url": "https://open.spotify.com/album/1N0ZOnFGXqQtpFY3GXscPH"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSISMIC -D.R.B- (Division All Stars)",
+          "url": "https://open.spotify.com/artist/6QR0aIEAemEigDCKjOVxe0"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340777,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Glory or Dust-",
+      "url": "https://open.spotify.com/track/2ZKeYa43an93GxbRhUgnUt"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Rhyme Anima-",
+        "url": "https://open.spotify.com/album/6t5tfC8NWmAyBhLqrWNegf"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243023,
+      "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Rhyme Anima-",
+      "url": "https://open.spotify.com/track/7e0iXw8i3RxUVYVAu6syUc"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u98f4\u6751\u4e71\u6570)",
+          "url": "https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186872,
+      "name": "\u30d4\u30f3\u30af\u8272\u306e\u611b",
+      "url": "https://open.spotify.com/track/6a2LVhfSS7LZfyUCmJ7L2J"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE M.T.C",
+        "url": "https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5165\u9593\u9283\u514e)",
+          "url": "https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198524,
+      "name": "\u30d9\u30a4\u30b5\u30a4\u30c9\u30fb\u30b9\u30e2\u30fc\u30ad\u30f3\u30b0\u30d6\u30eb\u30fc\u30b9",
+      "url": "https://open.spotify.com/track/2QboLtJLsZYHbEBAUVp1MJ"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u4f0a\u5f09\u5189\u4e00\u4e8c\u4e09)",
+          "url": "https://open.spotify.com/artist/6eQaoV4hcIjHERsUBZILMp"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u8c37\u5974\u96f6)",
+          "url": "https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5165\u9593\u9283\u514e)",
+          "url": "https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u56db\u5341\u7269 \u5341\u56db)",
+          "url": "https://open.spotify.com/artist/0T5lSNqv0Utp1JPA21CWDw"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u98f4\u6751\u4e71\u6570)",
+          "url": "https://open.spotify.com/artist/0oVhaLxRCPaOWacVjswYPv"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e09\u90ce)",
+          "url": "https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u795e\u5bae\u5bfa\u5bc2\u96f7)",
+          "url": "https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u56fd \u7344)",
+          "url": "https://open.spotify.com/artist/7enXzm6pH9M0rAA7FzdWqP"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u78a7\u68fa\u5de6\u99ac\u523b)",
+          "url": "https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174653,
+      "name": "\u30dd\u30b8\u30c6\u30a3\u30d6 my life",
+      "url": "https://open.spotify.com/track/5RSMgPiPScHOWYLaZ99tz9"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE M.T.C",
+        "url": "https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 821507,
+      "name": "\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 MAD TRIGGER CREW Drama Track1",
+      "url": "https://open.spotify.com/track/4mMaQ2GhlGEnRZwEJOoocK"
+    },
+    {
+      "album": {
+        "name": "BAYSIDE M.T.C",
+        "url": "https://open.spotify.com/album/6qEjMyfSTCsx5QdkLZu6vQ"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (MAD TRIGGER CREW)",
+          "url": "https://open.spotify.com/artist/712hLiKHkzJvum5zikt85g"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303319,
+      "name": "\u30e8\u30b3\u30cf\u30de\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 MAD TRIGGER CREW Drama Track2",
+      "url": "https://open.spotify.com/track/305ZzFODZus8vODIsMgWuh"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/7vXVGfrEiSCKHl95E5IMBo"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e09\u90ce)",
+          "url": "https://open.spotify.com/artist/2sXk5JWxoBwkLftnTcCFN8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207097,
+      "name": "\u30ec\u30af\u30a4\u30a8\u30e0",
+      "url": "https://open.spotify.com/track/2NZe5OoZYvvevvwCc04G8T"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u5fc3\u540c\u4f53",
+        "url": "https://open.spotify.com/album/7fLYkmmzJgXkGenQ5rJvD0"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rule the Stage (F.P VS M.T.C All Cast)",
+          "url": "https://open.spotify.com/artist/5BNMlRpW3Ks5wiVJgNWv2c"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365319,
+      "name": "\u4e09\u5fc3\u540c\u4f53",
+      "url": "https://open.spotify.com/track/0VpyPE07F6Q57U8ZH0EPZS"
+    },
+    {
+      "album": {
+        "name": "Buster Bros!!! Generation",
+        "url": "https://open.spotify.com/album/2kh512OEYe5DCPIHpeI1Ra"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Buster Bros!!!)",
+          "url": "https://open.spotify.com/artist/21JD92xWs4kPtf8Grcxp0G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5c71\u7530\u4e00\u90ce)",
+          "url": "https://open.spotify.com/artist/0Gd9H0nBs795UJxbfcRqpP"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285277,
+      "name": "\u4ffa\u304c\u4e00\u90ce",
+      "url": "https://open.spotify.com/track/0XfGe25IjXcZLFkdsZl1ag"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/6MDKhdY7JRI5ACH9zvlurd"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u795e\u5bae\u5bfa\u5bc2\u96f7)",
+          "url": "https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237897,
+      "name": "\u541b\u3042\u308a\u6545\u306b\u6211\u3042\u308a",
+      "url": "https://open.spotify.com/track/1MvyiLN8ufPiALVZBFTaOQ"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "\u5922\u306e\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2VodztgioHb77wnqQpeumX"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30eb\u30b4\u03be\u697d\u56e3",
+          "url": "https://open.spotify.com/artist/2UCKfsLp3FhiQ9Tr3y1Zml"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237453,
+      "name": "\u60aa\u9b54\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0EwpurqdBrnoyuifM6wBs4"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af \u30ca\u30b4\u30e4\u30fb\u30c7\u30a3\u30d3\u30b8\u30e7\u30f3 \u300cBad Ass Temple Funky Sounds\u300d",
+        "url": "https://open.spotify.com/album/3Pg91xTkAqVwjyHn3qm8gt"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u56db\u5341\u7269 \u5341\u56db)",
+          "url": "https://open.spotify.com/artist/0T5lSNqv0Utp1JPA21CWDw"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225518,
+      "name": "\u6708\u5149\u9670 -Moonlight Shadow-",
+      "url": "https://open.spotify.com/track/5MKOwGFsUcF1HwyUiDlzGf"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOMIEs-",
+        "url": "https://open.spotify.com/album/4C4r17oeLgPrQEb33JpHLi"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u767d\u81a0\u6728\u7c13)",
+          "url": "https://open.spotify.com/artist/4SS4YVo8PVJzZALBxMep4G"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u8e91\u8e85\u68ee\u76e7\u7b19)",
+          "url": "https://open.spotify.com/artist/77aokW0xiQYapVkj1FlD99"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238453,
+      "name": "\u6bce\u5ea6!\u751f\u304d\u305f\u308d\u304b\u3044! \uff5eOSAKA Big Up\uff5e",
+      "url": "https://open.spotify.com/track/0nkUNtATJUrbmJyyOw45tw"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u78a7\u68fa\u5de6\u99ac\u523b)",
+          "url": "https://open.spotify.com/artist/30Wq8ge0CioxnqqSvxJ562"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249013,
+      "name": "\u71d0\u706b",
+      "url": "https://open.spotify.com/track/64toKps5VNmkZmEmhfobfk"
+    },
+    {
+      "album": {
+        "name": "The Block Party -HOODs-",
+        "url": "https://open.spotify.com/album/3U7LCKh5DUVXSzj9YhiP3z"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5929\u8c37\u5974\u96f6)",
+          "url": "https://open.spotify.com/artist/3j9cvtcrO6KgtFGnjySeHM"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5165\u9593\u9283\u514e)",
+          "url": "https://open.spotify.com/artist/7dqg9aMu2T8vMb9ecbke7o"
+        }
+      ],
+      "date_added": "2023-08-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223333,
+      "name": "\u767d\u3068\u9ed2",
+      "url": "https://open.spotify.com/track/0HeyOMO01z3r0zJoCUquq3"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300e\u3069\u3064\u3044\u305f\u308c\u672c\u8217 VS Buster Bros!!!\u300f",
+        "url": "https://open.spotify.com/album/1SHVeGOcazUU2p36EQXw3d"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "\u7b11\u30aa\u30aa\u30b5\u30ab!\uff5eWhat a OSAKA!",
+      "url": "https://open.spotify.com/track/501LNImi8bllbd9KaPNuhU"
+    },
+    {
+      "album": {
+        "name": "\u7d46",
+        "url": "https://open.spotify.com/album/7hvCBa8WqMgHMyAv57mXma"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- Rhyme Anima (Division All Stars)",
+          "url": "https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357723,
+      "name": "\u7d46",
+      "url": "https://open.spotify.com/track/6uKDZszAiHwQFtSjsRRA6D"
+    },
+    {
+      "album": {
+        "name": "CROSS A LINE",
+        "url": "https://open.spotify.com/album/4UTXT4DuQX43KjXzxYCkbV"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u3069\u3064\u3044\u305f\u308c\u672c\u8217)",
+          "url": "https://open.spotify.com/artist/0TzkULUsbQERyIc1LUiqQY"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285346,
+      "name": "\u7e01 -ENISHI-",
+      "url": "https://open.spotify.com/track/0PNEjgG9fTz2Bb56Ldm8b0"
+    },
+    {
+      "album": {
+        "name": "Fling Posse -Before The 2nd D.R.B-",
+        "url": "https://open.spotify.com/album/1yAIhDerk6njh4K4JAi41i"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Fling Posse)",
+          "url": "https://open.spotify.com/artist/6rkkb4QMqvXTYUkvqpMG99"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u5922\u91ce\u5e7b\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/6BWqrRjmPFKofxtmHXd4mG"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205724,
+      "name": "\u855a",
+      "url": "https://open.spotify.com/track/1NKFGfXwYemK2Stozsl6Un"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5929\u72fc-\u97f3\u97fb\u81e8\u5e8a-",
+        "url": "https://open.spotify.com/album/1L7rYeg48fO4fvhBLY9bE9"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Mic -D.R.B.- (Matenrou)",
+          "url": "https://open.spotify.com/artist/3CzMFzHuMzbvcy0qhP0IHQ"
+        },
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (\u795e\u5bae\u5bfa\u5bc2\u96f7)",
+          "url": "https://open.spotify.com/artist/6GLJqeXo7O5WlJFHjCrYDg"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264134,
+      "name": "\u8ff7\u5bae\u58c1",
+      "url": "https://open.spotify.com/track/26DawEJii5pniBuV1R7Tzk"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -Division Rap Battle- 2nd D.R.B\u300eBad Ass Temple VS \u9ebb\u5929\u72fc\u300f",
+        "url": "https://open.spotify.com/album/0IshQeHXq00rBPO7inNPWa"
+      },
+      "artists": [
+        {
+          "name": "\u30d2\u30d7\u30ce\u30b7\u30b9\u30de\u30a4\u30af -D.R.B- (Bad Ass Temple)",
+          "url": "https://open.spotify.com/artist/3fokOZQsXMeMTyvGHofqup"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284640,
+      "name": "\u958b\u773c",
+      "url": "https://open.spotify.com/track/4uZoQ3MIPUB5I5Pq0QqOnJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8f9ryYBYPg3"
 }

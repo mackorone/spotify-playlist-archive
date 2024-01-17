@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 
 > 如果愛是不同形狀組成的密碼，八個女孩子便會有八組不同的愛的密碼！
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,278 likes - 25 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,250 likes - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QHBSGN4rag.md) - [plain]
 | 9 | [Off My Face](https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:36 |
 | 10 | [好きだから。](https://open.spotify.com/track/0F6nGXMCUbtk8FiXvKi6HK) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [好きだから。](https://open.spotify.com/album/7J3ut50EyHiP6Rl92spPIu) | 4:58 |
 | 11 | [世一](https://open.spotify.com/track/0YoqbSyFQngPdXaN0BAxnI) | [MC 張天賦](https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC) | [世一](https://open.spotify.com/album/1YrplQ1IcOFstrRGSoqIwh) | 4:23 |
-| 12 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 |
+| 12 | [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 |
 | 13 | [兜圈 \(偶像劇「必娶女人」片尾曲\)](https://open.spotify.com/track/4ezCayon5X4bTBj6ztNlDH) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [兜圈 \(偶像劇「必娶女人」片尾曲\)](https://open.spotify.com/album/1biahM27YjovWm8dK7J9V2) | 4:05 |
 | 14 | [Some](https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 3:01 |
 | 15 | [刻在我心底的名字 \(Your Name Engraved Herein\) \- 電影<刻在你心底的名字>主題曲](https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [刻在我心底的名字 \(Your Name Engraved Herein\)](https://open.spotify.com/album/5RG4bEVKGMdLaEIv1dofR2) | 5:20 |

@@ -753,6 +753,32 @@
     },
     {
       "album": {
+        "name": "jubel",
+        "url": "https://open.spotify.com/album/2zJjP7EM87BPZhEgFRmZhG"
+      },
+      "artists": [
+        {
+          "name": "lucesy",
+          "url": "https://open.spotify.com/artist/69vyzEtaUoT2gzzCwMJkf8"
+        },
+        {
+          "name": "ZETH INC.",
+          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
+        },
+        {
+          "name": "Cardus",
+          "url": "https://open.spotify.com/artist/4gxaHMduYNqazJxiXMBLqA"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197114,
+      "name": "jubel",
+      "url": "https://open.spotify.com/track/73RLHjMWKikrfsWwNgszA4"
+    },
+    {
+      "album": {
         "name": "Jubel",
         "url": "https://open.spotify.com/album/1OyFMLnshlXyukK5i7HPNT"
       },
@@ -872,7 +898,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 201626,
       "name": "Jubel - Radio Edit",
       "url": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"

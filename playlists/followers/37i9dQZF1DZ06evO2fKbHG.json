@@ -1,471 +1,1089 @@
 {
-  "2022-09-18": 143587,
-  "2022-09-19": 143644,
-  "2022-09-20": 143711,
-  "2022-09-21": 143777,
-  "2022-09-22": 143851,
-  "2022-09-23": 143905,
-  "2022-09-24": 143905,
-  "2022-09-25": 144068,
-  "2022-09-26": 144137,
-  "2022-09-27": 144190,
-  "2022-09-28": 144272,
-  "2022-09-29": 144337,
-  "2022-09-30": 144383,
-  "2022-10-01": 144457,
-  "2022-10-02": 144563,
-  "2022-10-03": 144642,
-  "2022-10-04": 144716,
-  "2022-10-05": 144763,
-  "2022-10-06": 144847,
-  "2022-10-07": 144917,
-  "2022-10-08": 145005,
-  "2022-10-09": 145163,
-  "2022-10-10": 145173,
-  "2022-10-11": 145240,
-  "2022-10-12": 145306,
-  "2022-10-13": 145394,
-  "2022-10-14": 145481,
-  "2022-10-15": 145574,
-  "2022-10-16": 145664,
-  "2022-10-17": 145717,
-  "2022-10-18": 145770,
-  "2022-10-19": 145853,
-  "2022-10-20": 145915,
-  "2022-10-21": 145993,
-  "2022-10-22": 146074,
-  "2022-10-23": 146146,
-  "2022-10-24": 146192,
-  "2022-10-25": 146249,
-  "2022-10-26": 146308,
-  "2022-10-27": 146362,
-  "2022-10-28": 146428,
-  "2022-10-29": 146514,
-  "2022-10-30": 146578,
-  "2022-10-31": 146643,
-  "2022-11-01": 146703,
-  "2022-11-02": 146770,
-  "2022-11-03": 146837,
-  "2022-11-04": 146920,
-  "2022-11-05": 146980,
-  "2022-11-06": 147024,
-  "2022-11-07": 147088,
-  "2022-11-08": 147146,
-  "2022-11-09": 147211,
-  "2022-11-10": 147274,
-  "2022-11-11": 147321,
-  "2022-11-12": 147382,
-  "2022-11-13": 147468,
-  "2022-11-14": 147589,
-  "2022-11-15": 147664,
-  "2022-11-16": 147733,
-  "2022-11-17": 147793,
-  "2022-11-18": 147801,
-  "2022-11-19": 147818,
-  "2022-11-20": 147873,
-  "2022-11-21": 147939,
-  "2022-11-22": 147999,
-  "2022-11-23": 148044,
-  "2022-11-24": 148188,
-  "2022-11-25": 148278,
-  "2022-11-26": 148329,
-  "2022-11-27": 148396,
-  "2022-11-28": 148462,
-  "2022-11-29": 148511,
-  "2022-11-30": 148564,
-  "2022-12-01": 148621,
-  "2022-12-02": 148678,
-  "2022-12-03": 148761,
-  "2022-12-04": 148838,
-  "2022-12-05": 148916,
-  "2022-12-06": 148984,
-  "2022-12-07": 149042,
-  "2022-12-08": 149105,
-  "2022-12-09": 149190,
-  "2022-12-10": 149270,
-  "2022-12-11": 149336,
-  "2022-12-12": 149399,
-  "2022-12-13": 149475,
-  "2022-12-14": 149511,
-  "2022-12-15": 149570,
-  "2022-12-16": 149611,
-  "2022-12-17": 149669,
-  "2022-12-18": 149748,
-  "2022-12-19": 149806,
-  "2022-12-20": 149931,
-  "2022-12-21": 149931,
-  "2022-12-22": 149996,
-  "2022-12-24": 150151,
-  "2022-12-25": 150231,
-  "2022-12-26": 150308,
-  "2022-12-27": 150378,
-  "2022-12-28": 150447,
-  "2022-12-29": 150510,
-  "2022-12-30": 150583,
-  "2022-12-31": 150666,
-  "2023-01-01": 150766,
-  "2023-01-02": 150828,
-  "2023-01-03": 150891,
-  "2023-01-04": 150956,
-  "2023-01-05": 151041,
-  "2023-01-06": 151122,
-  "2023-01-07": 151250,
-  "2023-01-08": 151264,
-  "2023-01-09": 151365,
-  "2023-01-10": 151430,
-  "2023-01-11": 151496,
-  "2023-01-12": 151569,
-  "2023-01-13": 151640,
-  "2023-01-14": 151794,
-  "2023-01-15": 151811,
-  "2023-01-16": 151893,
-  "2023-01-17": 151956,
-  "2023-01-18": 152001,
-  "2023-01-19": 152063,
-  "2023-01-20": 152127,
-  "2023-01-21": 152178,
-  "2023-01-22": 152255,
-  "2023-01-23": 152316,
-  "2023-01-24": 152366,
-  "2023-01-25": 152431,
-  "2023-01-26": 152484,
-  "2023-01-27": 152539,
-  "2023-01-28": 152633,
-  "2023-01-29": 152687,
-  "2023-01-30": 152748,
-  "2023-01-31": 152748,
-  "2023-02-01": 152854,
-  "2023-02-02": 152912,
-  "2023-02-03": 152962,
-  "2023-02-04": 153032,
-  "2023-02-05": 153095,
-  "2023-02-06": 153178,
-  "2023-02-07": 153229,
-  "2023-02-08": 153363,
-  "2023-02-09": 153363,
-  "2023-02-10": 153454,
-  "2023-02-11": 153509,
-  "2023-02-12": 153638,
-  "2023-02-13": 153693,
-  "2023-02-14": 153693,
-  "2023-02-15": 153734,
-  "2023-02-16": 153791,
-  "2023-02-17": 153848,
-  "2023-02-18": 153980,
-  "2023-02-19": 153983,
-  "2023-02-20": 154044,
-  "2023-02-21": 154101,
-  "2023-02-22": 154160,
-  "2023-02-23": 154224,
-  "2023-02-24": 154292,
-  "2023-02-25": 154375,
-  "2023-02-26": 154437,
-  "2023-02-27": 154546,
-  "2023-02-28": 154546,
-  "2023-03-01": 154597,
-  "2023-03-02": 154645,
-  "2023-03-03": 154734,
-  "2023-03-04": 154795,
-  "2023-03-05": 154937,
-  "2023-03-06": 154937,
-  "2023-03-07": 154999,
-  "2023-03-08": 155047,
-  "2023-03-09": 155111,
-  "2023-03-10": 155168,
-  "2023-03-11": 155223,
-  "2023-03-12": 155293,
-  "2023-03-13": 155368,
-  "2023-03-14": 155430,
-  "2023-03-15": 155481,
-  "2023-03-16": 155481,
-  "2023-03-17": 155481,
-  "2023-03-18": 155644,
-  "2023-03-19": 155644,
-  "2023-03-20": 155751,
-  "2023-03-21": 155797,
-  "2023-03-22": 155867,
-  "2023-03-23": 155933,
-  "2023-03-24": 155933,
-  "2023-03-25": 156081,
-  "2023-03-26": 156147,
-  "2023-03-27": 156231,
-  "2023-03-28": 156282,
-  "2023-03-29": 156344,
-  "2023-03-30": 156477,
-  "2023-03-31": 156477,
-  "2023-04-01": 156555,
-  "2023-04-02": 156639,
-  "2023-04-03": 156705,
-  "2023-04-04": 156762,
-  "2023-04-05": 156813,
-  "2023-04-06": 156872,
-  "2023-04-07": 156945,
-  "2023-04-09": 157087,
-  "2023-04-10": 157157,
-  "2023-04-11": 157265,
-  "2023-04-12": 157265,
-  "2023-04-13": 157321,
-  "2023-04-14": 157396,
-  "2023-04-15": 157448,
-  "2023-04-16": 157511,
-  "2023-04-17": 157579,
-  "2023-04-18": 157628,
-  "2023-04-19": 157682,
-  "2023-04-20": 157757,
-  "2023-04-21": 157821,
-  "2023-04-22": 157889,
-  "2023-04-23": 157954,
-  "2023-04-24": 158038,
-  "2023-04-25": 158096,
-  "2023-04-26": 158140,
-  "2023-04-27": 158196,
-  "2023-04-28": 158267,
-  "2023-04-29": 158338,
-  "2023-04-30": 158419,
-  "2023-05-01": 158472,
-  "2023-05-02": 158536,
-  "2023-05-03": 158583,
-  "2023-05-04": 158643,
-  "2023-05-05": 158709,
-  "2023-05-06": 158762,
-  "2023-05-07": 158832,
-  "2023-05-08": 158904,
-  "2023-05-09": 158950,
-  "2023-05-10": 158998,
-  "2023-05-11": 159064,
-  "2023-05-12": 159126,
-  "2023-05-13": 159188,
-  "2023-05-14": 159261,
-  "2023-05-15": 159319,
-  "2023-05-16": 159382,
-  "2023-05-17": 159441,
-  "2023-05-18": 159498,
-  "2023-05-19": 159563,
-  "2023-05-20": 159707,
-  "2023-05-21": 159707,
-  "2023-05-22": 159707,
-  "2023-05-23": 159851,
-  "2023-05-24": 159926,
-  "2023-05-25": 159940,
-  "2023-05-26": 160003,
-  "2023-05-27": 160066,
-  "2023-05-28": 160137,
-  "2023-05-29": 160137,
-  "2023-05-30": 160238,
-  "2023-05-31": 160308,
-  "2023-06-01": 160370,
-  "2023-06-02": 160425,
-  "2023-06-03": 160493,
-  "2023-06-04": 160559,
-  "2023-06-05": 160624,
-  "2023-06-06": 160684,
-  "2023-06-07": 160735,
-  "2023-06-08": 160787,
-  "2023-06-09": 160844,
-  "2023-06-10": 160886,
-  "2023-06-11": 160932,
-  "2023-06-12": 160988,
-  "2023-06-13": 161025,
-  "2023-06-14": 161055,
-  "2023-06-15": 161105,
-  "2023-06-16": 161141,
-  "2023-06-17": 161194,
-  "2023-06-18": 161254,
-  "2023-06-19": 161293,
-  "2023-06-20": 161326,
-  "2023-06-21": 161347,
-  "2023-06-22": 161389,
-  "2023-06-23": 161432,
-  "2023-06-24": 161484,
-  "2023-06-25": 161544,
-  "2023-06-26": 161582,
-  "2023-06-27": 161624,
-  "2023-06-28": 161655,
-  "2023-06-29": 161699,
-  "2023-06-30": 161732,
-  "2023-07-01": 161830,
-  "2023-07-02": 161830,
-  "2023-07-03": 161875,
-  "2023-07-04": 161915,
-  "2023-07-05": 161932,
-  "2023-07-06": 162004,
-  "2023-07-07": 162004,
-  "2023-07-08": 162004,
-  "2023-07-09": 162093,
-  "2023-07-10": 162122,
-  "2023-07-11": 162145,
-  "2023-07-12": 162176,
-  "2023-07-13": 162200,
-  "2023-07-14": 162243,
-  "2023-07-15": 162280,
-  "2023-07-16": 162334,
-  "2023-07-17": 162374,
-  "2023-07-18": 162412,
-  "2023-07-19": 162446,
-  "2023-07-20": 162478,
-  "2023-07-21": 162514,
-  "2023-07-22": 162549,
-  "2023-07-23": 162590,
-  "2023-07-24": 162616,
-  "2023-07-25": 162638,
-  "2023-07-26": 162669,
-  "2023-07-27": 162700,
-  "2023-07-28": 162730,
-  "2023-07-29": 162776,
-  "2023-07-30": 162831,
-  "2023-07-31": 162878,
-  "2023-08-01": 162896,
-  "2023-08-02": 162931,
-  "2023-08-03": 162968,
-  "2023-08-04": 163008,
-  "2023-08-05": 163036,
-  "2023-08-06": 163127,
-  "2023-08-07": 163127,
-  "2023-08-08": 163154,
-  "2023-08-09": 163194,
-  "2023-08-10": 163231,
-  "2023-08-11": 163253,
-  "2023-08-12": 163253,
-  "2023-08-13": 163253,
-  "2023-08-14": 163363,
-  "2023-08-15": 163363,
-  "2023-08-16": 163363,
-  "2023-08-17": 163363,
-  "2023-08-18": 163363,
-  "2023-08-19": 163363,
-  "2023-08-20": 163599,
-  "2023-08-21": 163599,
-  "2023-08-22": 163681,
-  "2023-08-23": 163681,
-  "2023-08-24": 163681,
-  "2023-08-25": 163681,
-  "2023-08-26": 163839,
-  "2023-08-27": 163839,
-  "2023-08-28": 163904,
-  "2023-08-29": 163904,
-  "2023-08-30": 163904,
-  "2023-08-31": 164003,
-  "2023-09-01": 164039,
-  "2023-09-02": 164039,
-  "2023-09-03": 164039,
-  "2023-09-04": 164039,
-  "2023-09-05": 164039,
-  "2023-09-06": 164039,
-  "2023-09-07": 164039,
-  "2023-09-08": 164039,
-  "2023-09-09": 164039,
-  "2023-09-10": 164402,
-  "2023-09-11": 164402,
-  "2023-09-12": 164402,
-  "2023-09-13": 164402,
-  "2023-09-14": 164402,
-  "2023-09-15": 164402,
-  "2023-09-16": 164611,
-  "2023-09-17": 164611,
-  "2023-09-18": 164611,
-  "2023-09-19": 164731,
-  "2023-09-20": 164731,
-  "2023-09-21": 164731,
-  "2023-09-22": 164831,
-  "2023-09-23": 164831,
-  "2023-09-24": 164831,
-  "2023-09-25": 164831,
-  "2023-09-26": 164987,
-  "2023-09-27": 164987,
-  "2023-09-28": 164987,
-  "2023-09-29": 164987,
-  "2023-09-30": 164987,
-  "2023-10-01": 164987,
-  "2023-10-02": 164987,
-  "2023-10-03": 164987,
-  "2023-10-04": 164987,
-  "2023-10-05": 164987,
-  "2023-10-06": 164987,
-  "2023-10-07": 164987,
-  "2023-10-08": 164987,
-  "2023-10-09": 164987,
-  "2023-10-10": 164987,
-  "2023-10-11": 165507,
-  "2023-10-12": 165507,
-  "2023-10-13": 165507,
-  "2023-10-14": 165507,
-  "2023-10-15": 165507,
-  "2023-10-16": 165507,
-  "2023-10-17": 165507,
-  "2023-10-18": 165507,
-  "2023-10-19": 165507,
-  "2023-10-20": 165507,
-  "2023-10-21": 165507,
-  "2023-10-22": 165507,
-  "2023-10-23": 165507,
-  "2023-10-24": 165507,
-  "2023-10-25": 165507,
-  "2023-10-26": 165507,
-  "2023-10-27": 165507,
-  "2023-10-28": 165507,
-  "2023-10-29": 165507,
-  "2023-10-30": 165507,
-  "2023-10-31": 165507,
-  "2023-11-01": 165507,
-  "2023-11-02": 165507,
-  "2023-11-03": 165507,
-  "2023-11-04": 165507,
-  "2023-11-05": 165507,
-  "2023-11-06": 165507,
-  "2023-11-07": 165507,
-  "2023-11-08": 165507,
-  "2023-11-09": 165507,
-  "2023-11-10": 165507,
-  "2023-11-11": 166530,
-  "2023-11-12": 166530,
-  "2023-11-13": 166530,
-  "2023-11-14": 166530,
-  "2023-11-15": 166530,
-  "2023-11-16": 166530,
-  "2023-11-17": 166530,
-  "2023-11-18": 166530,
-  "2023-11-19": 166530,
-  "2023-11-20": 166530,
-  "2023-11-21": 166530,
-  "2023-11-22": 166530,
-  "2023-11-23": 166530,
-  "2023-11-24": 166530,
-  "2023-11-25": 166530,
-  "2023-11-26": 166530,
-  "2023-11-27": 166530,
-  "2023-11-28": 166530,
-  "2023-11-29": 166530,
-  "2023-11-30": 166530,
-  "2023-12-01": 166530,
-  "2023-12-02": 166530,
-  "2023-12-03": 166530,
-  "2023-12-04": 166530,
-  "2023-12-05": 166530,
-  "2023-12-06": 166530,
-  "2023-12-07": 166530,
-  "2023-12-08": 166530,
-  "2023-12-09": 166530,
-  "2023-12-10": 166530,
-  "2023-12-11": 166530,
-  "2023-12-12": 166530,
-  "2023-12-13": 166530,
-  "2023-12-14": 167510,
-  "2023-12-15": 167535,
-  "2023-12-16": 167576,
-  "2023-12-17": 167617,
-  "2023-12-18": 167638,
-  "2023-12-19": 167666,
-  "2023-12-20": 167680,
-  "2023-12-21": 167712,
-  "2023-12-22": 167744,
-  "2023-12-23": 167787,
-  "2023-12-24": 167829,
-  "2023-12-25": 167853,
-  "2023-12-26": 167896,
-  "2023-12-27": 167918,
-  "2023-12-30": 167998,
-  "2023-12-31": 168031,
-  "2024-01-01": 168061,
-  "2024-01-02": 168077,
-  "2024-01-03": 168095
+  "2024-01-17": 168330,
+  "date_first_scraped": "2022-09-18",
+  "description": "This is The Clash. The essential tracks, all in one playlist.",
+  "name": "This Is The Clash",
+  "tracks": [
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240560,
+      "name": "(White Man) in Hammersmith Palais",
+      "url": "https://open.spotify.com/track/45xBWOa6oEAk1WlVyr5QAB"
+    },
+    {
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100853,
+      "name": "1977",
+      "url": "https://open.spotify.com/track/44P8K95Vlk5chiWAIrEtvx"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298453,
+      "name": "All the Young Punks (New Boots and Contracts) - Remastered",
+      "url": "https://open.spotify.com/track/153E8CZ5kCe6KkCHS8mZtS"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "Armagideon Time",
+      "url": "https://open.spotify.com/track/2hOi0U15nSrV9ueYLCtvE2"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Atom Tan - Remastered",
+      "url": "https://open.spotify.com/track/5rL2E6ZlMJYMdV799HumhZ"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274026,
+      "name": "Bankrobber",
+      "url": "https://open.spotify.com/track/6gSDSkAJ3vuSINvcroq1Vn"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128266,
+      "name": "Brand New Cadillac - Remastered",
+      "url": "https://open.spotify.com/track/7FYkZkF9fog6WS818wJnhl"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 239813,
+      "name": "Car Jamming - Remastered",
+      "url": "https://open.spotify.com/track/3QcqUffnkbQGWJlfyaT3yF"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114346,
+      "name": "Career Opportunities - Remastered",
+      "url": "https://open.spotify.com/track/4aKMvmxQgX7J766G4pFlyh"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294093,
+      "name": "Charlie Don't Surf - Remastered",
+      "url": "https://open.spotify.com/track/5T4j3Uv33fQO7tsR2lMl4y"
+    },
+    {
+      "album": {
+        "name": "From Here to Eternity (Live) [Remastered]",
+        "url": "https://open.spotify.com/album/70NjH8NkxcbYNvWAHnyv1e"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 167240,
+      "name": "City of the Dead (Live) [Remastered]",
+      "url": "https://open.spotify.com/track/744eHv8kvVhIYc4le3NEvt"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "Clash City Rockers",
+      "url": "https://open.spotify.com/track/7KMOrq5bPFiEQPmxsYvJ2C"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192853,
+      "name": "Complete Control",
+      "url": "https://open.spotify.com/track/0mlwPYU0ApElSjZN4yA4L9"
+    },
+    {
+      "album": {
+        "name": "Cut The Crap",
+        "url": "https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-26",
+      "duration_ms": 189693,
+      "name": "Dirty Punk",
+      "url": "https://open.spotify.com/track/1r30Iz6qrNAXJFiQzQh1vH"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155293,
+      "name": "English Civil War - Remastered",
+      "url": "https://open.spotify.com/track/6h54MGmPGmerDMBgHTgIA4"
+    },
+    {
+      "album": {
+        "name": "Combat Rock + The People's Hall",
+        "url": "https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 131613,
+      "name": "First Night Back in London",
+      "url": "https://open.spotify.com/track/51opuNsrUewNyBaz4wV5H1"
+    },
+    {
+      "album": {
+        "name": "Combat Rock + The People's Hall",
+        "url": "https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 354746,
+      "name": "Futura 2000",
+      "url": "https://open.spotify.com/track/0ZOd1fmpaBXLbtDQPeJz2k"
+    },
+    {
+      "album": {
+        "name": "The Cost of Living - EP",
+        "url": "https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Gates of the West",
+      "url": "https://open.spotify.com/track/62QXkCDecDXfW95CzjmegU"
+    },
+    {
+      "album": {
+        "name": "Raw and Unfiltered",
+        "url": "https://open.spotify.com/album/2gaW2Y3JhRCSNZC2FSibZk"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 38638,
+      "name": "Have and Have Nots",
+      "url": "https://open.spotify.com/track/7uEAkXWCsmzQcquphkzAgZ"
+    },
+    {
+      "album": {
+        "name": "Combat Rock + The People's Hall",
+        "url": "https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 173013,
+      "name": "He Who Dares or Is Tired",
+      "url": "https://open.spotify.com/track/5qDs46EokLqDHpQ7sqcHWE"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261812,
+      "name": "Hitsville U.K. - Remastered",
+      "url": "https://open.spotify.com/track/3F8ddXLIHVLdunzh6fLvKs"
+    },
+    {
+      "album": {
+        "name": "The Cost of Living - EP",
+        "url": "https://open.spotify.com/album/26zldGZFvob9Lj0kXZ6v7u"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "I Fought the Law",
+      "url": "https://open.spotify.com/track/5dAxeuDkIkpa6wZpMOuG9i"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "I'm so Bored with the U.S.A. - Remastered",
+      "url": "https://open.spotify.com/track/6bbQuT0lK4ekunMnK446Bt"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Inoculated City - Remastered",
+      "url": "https://open.spotify.com/track/09dKenoVuQzPRQ8Anoo6we"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128720,
+      "name": "Janie Jones - Remastered",
+      "url": "https://open.spotify.com/track/6ywRlumSQjOOkcSnJYAgHw"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "Julie's Been Working for the Drug Squad - Remastered",
+      "url": "https://open.spotify.com/track/2rUVY6uXm8J0IEr230B1L1"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220906,
+      "name": "Know Your Rights - Remastered",
+      "url": "https://open.spotify.com/track/31l6t3Jq09uywRTVGbzant"
+    },
+    {
+      "album": {
+        "name": "Live at Shea Stadium (Remastered)",
+        "url": "https://open.spotify.com/album/4dMWTj1OkiCKFN5yBMP1vS"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 70946,
+      "name": "Kosmo Vinyl Introduction (Live at Shea Stadium) [Remastered]",
+      "url": "https://open.spotify.com/track/4ADBECleY1W07PUKeKbsBN"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131280,
+      "name": "London's Burning - Remastered",
+      "url": "https://open.spotify.com/track/0y8zZOu4u6NmoW7u1jEQzo"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "Lost in the Supermarket - Remastered",
+      "url": "https://open.spotify.com/track/72boGlgSwUK01n44O2tOCv"
+    },
+    {
+      "album": {
+        "name": "Cut The Crap",
+        "url": "https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 212373,
+      "name": "North and South",
+      "url": "https://open.spotify.com/track/0ZlFRuGgIPfBW529zVtO0U"
+    },
+    {
+      "album": {
+        "name": "Combat Rock + The People's Hall",
+        "url": "https://open.spotify.com/album/7nL9UERtRQCB5eWEQCINsh"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 261426,
+      "name": "Outside Bonds",
+      "url": "https://open.spotify.com/track/19s6cpOO5ycGy8HY2O5U0I"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 292026,
+      "name": "Overpowered by Funk - Remastered",
+      "url": "https://open.spotify.com/track/2KbnkNVzg8ubqK5wAXSxf1"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363373,
+      "name": "Police & Thieves - Remastered",
+      "url": "https://open.spotify.com/track/6IMlcKjsIM3l3yXWykTa3y"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Police On My Back - Remastered",
+      "url": "https://open.spotify.com/track/3lILuFinx7CFaYXJ6FWz54"
+    },
+    {
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205280,
+      "name": "Pressure Drop",
+      "url": "https://open.spotify.com/track/2pnxIOz7WbWZX8lKyLixHn"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 224240,
+      "name": "Red Angel Dragnet - Remastered",
+      "url": "https://open.spotify.com/track/3AySFupxPGQWjauQfFXcr0"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 183373,
+      "name": "Remote Control - Remastered",
+      "url": "https://open.spotify.com/track/3xicEV8TwGCGtVnqaDhGLj"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222426,
+      "name": "Rock the Casbah - Remastered",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 208866,
+      "name": "Rudie Can't Fail - Remastered",
+      "url": "https://open.spotify.com/track/4W9zZsQKsqikYbKM9vcN5Q"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230680,
+      "name": "Safe European Home - Remastered",
+      "url": "https://open.spotify.com/track/7iiofeVKhJz7ZbcI2jFcPm"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214386,
+      "name": "Somebody Got Murdered - Remastered",
+      "url": "https://open.spotify.com/track/6izEYubQaf7odJ46scKEzr"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198866,
+      "name": "Spanish Bombs - Remastered",
+      "url": "https://open.spotify.com/track/6wtmql7FJ7SSLuSw8JD8rX"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "Stay Free - Remastered",
+      "url": "https://open.spotify.com/track/32rUsiLCvd1yZWr4UFUoiu"
+    },
+    {
+      "album": {
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330506,
+      "name": "Straight to Hell - Remastered",
+      "url": "https://open.spotify.com/track/2ax1vei61BzRGsEn6ckEdL"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 328080,
+      "name": "The Call Up - Remastered",
+      "url": "https://open.spotify.com/track/1DVZCooCJVp4DmCteQ5XlM"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192440,
+      "name": "The Guns of Brixton - Remastered",
+      "url": "https://open.spotify.com/track/0jnFDxgNhS156vu6roUVco"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102200,
+      "name": "The Leader - Remastered",
+      "url": "https://open.spotify.com/track/1HEcT04aFqXJt27hdTQ9nB"
+    },
+    {
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337773,
+      "name": "The Magnificent Dance",
+      "url": "https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333520,
+      "name": "The Magnificent Seven - Remastered",
+      "url": "https://open.spotify.com/track/3Ro71R8Vpy166E2PuQDSc8"
+    },
+    {
+      "album": {
+        "name": "Cut The Crap",
+        "url": "https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "This is England",
+      "url": "https://open.spotify.com/track/7p949cKSO5MDSjajSrAcfI"
+    },
+    {
+      "album": {
+        "name": "Hits Back",
+        "url": "https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252480,
+      "name": "This is Radio Clash",
+      "url": "https://open.spotify.com/track/7sQkeztZAGR3haZL71wvZe"
+    },
+    {
+      "album": {
+        "name": "Sound System",
+        "url": "https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-06",
+      "duration_ms": 244786,
+      "name": "Time is Tight",
+      "url": "https://open.spotify.com/track/43IQfe1PKIKocv7SUky7xy"
+    },
+    {
+      "album": {
+        "name": "Give 'Em Enough Rope (Remastered)",
+        "url": "https://open.spotify.com/album/4NEvCc6vHcsCPviWPCCrVg"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Tommy Gun - Remastered",
+      "url": "https://open.spotify.com/track/3ZhMxNCJcoYBj2wrO4VU3l"
+    },
+    {
+      "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Train in Vain (Stand by Me) - Remastered",
+      "url": "https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI"
+    },
+    {
+      "album": {
+        "name": "Sandinista! (Remastered)",
+        "url": "https://open.spotify.com/album/2UxN3UKyS3Z5r0Sra8A5RF"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 231613,
+      "name": "Washington Bullets - Remastered",
+      "url": "https://open.spotify.com/track/6vkYJbpPG8WOxv8MlbDPmw"
+    },
+    {
+      "album": {
+        "name": "Cut The Crap",
+        "url": "https://open.spotify.com/album/3E01XjnmC1HdxTE8dPuEkn"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182693,
+      "name": "We are the Clash",
+      "url": "https://open.spotify.com/track/2I4WKzFdwTPhLTJCJ1Hpvq"
+    },
+    {
+      "album": {
+        "name": "The Clash (Remastered)",
+        "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116440,
+      "name": "White Riot - Remastered",
+      "url": "https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2fKbHG"
 }

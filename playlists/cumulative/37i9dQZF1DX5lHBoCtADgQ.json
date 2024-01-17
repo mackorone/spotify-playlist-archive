@@ -367,6 +367,24 @@
     },
     {
       "album": {
+        "name": "Maan Punjab Da",
+        "url": "https://open.spotify.com/album/5MsVXD3K0gvlvVrTlSnBZX"
+      },
+      "artists": [
+        {
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406160,
+      "name": "Challa",
+      "url": "https://open.spotify.com/track/1BC9X8XmSRlvpkVR3H3eEr"
+    },
+    {
+      "album": {
         "name": "Laung Da Lishkara (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7"
       },
@@ -378,7 +396,7 @@
       ],
       "date_added": "2022-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 406160,
       "name": "Challa",
       "url": "https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX"

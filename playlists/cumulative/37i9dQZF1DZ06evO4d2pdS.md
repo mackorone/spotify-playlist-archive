@@ -4,14 +4,15 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-41 songs - 1 hr 46 min
+42 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Tone](https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 2:04 | 2022-10-28 |  |
 | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [313\-414 \(feat\. Tee Grizzley\)](https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8) | 2:29 | 2022-10-28 |  |
 | [A Letter To You](https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:43 | 2022-10-28 |  |
-| [ADD IT UP](https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 2:56 | 2023-02-11 |  |
+| [ADD IT UP](https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi) | 2:56 | 2023-02-11 | 2024-01-10 |
+| [ADD IT UP](https://open.spotify.com/track/7uiPi84YedJClCxAxEflia) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Back on Dexter: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir) | 2:56 | 2024-01-09 |  |
 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?](https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR) | 2:54 | 2022-10-28 |  |
 | [Baby Wyd? \(feat\. Lakeyah\)](https://open.spotify.com/track/7Kv4cX2Uz8QltmYNUjjU5K) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/25K3Kzv6hXfi3Mslv3El5i) | 3:45 | 2022-10-28 | 2023-07-29 |
 | [Basic](https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Time's Up](https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi) | 1:51 | 2022-10-28 |  |

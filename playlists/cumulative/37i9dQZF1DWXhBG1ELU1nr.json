@@ -23,20 +23,24 @@
     },
     {
       "album": {
-        "name": "So No Forevis",
+        "name": "S\u00f3 No Forevis",
         "url": "https://open.spotify.com/album/2KPL3UpVUBQxgVOCX91xEE"
       },
       "artists": [
         {
           "name": "Raimundos",
           "url": "https://open.spotify.com/artist/3CfJckVRuukdJSvK3r89yJ"
+        },
+        {
+          "name": "\u00c9rika Martins",
+          "url": "https://open.spotify.com/artist/4dRD1vu6GiXmDOECHo6p43"
         }
       ],
       "date_added": "2020-07-07",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 233733,
-      "name": "A mais pedida (Participa\u00e7\u00e3o especial de \u00c9rika Martins)",
+      "name": "A mais pedida (feat. \u00c9rika Martins)",
       "url": "https://open.spotify.com/track/349flwjNbqIaE0Mph3jLGD"
     },
     {

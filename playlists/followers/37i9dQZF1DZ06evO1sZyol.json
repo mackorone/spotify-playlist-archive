@@ -1,579 +1,675 @@
 {
-  "2022-05-31": 327779,
-  "2022-06-01": 328048,
-  "2022-06-02": 328066,
-  "2022-06-03": 328212,
-  "2022-06-04": 328380,
-  "2022-06-05": 328532,
-  "2022-06-06": 328687,
-  "2022-06-07": 328823,
-  "2022-06-08": 328991,
-  "2022-06-09": 329095,
-  "2022-06-10": 329265,
-  "2022-06-11": 329458,
-  "2022-06-12": 329606,
-  "2022-06-13": 329722,
-  "2022-06-14": 329849,
-  "2022-06-15": 329976,
-  "2022-06-16": 330092,
-  "2022-06-17": 330228,
-  "2022-06-18": 330396,
-  "2022-06-19": 330656,
-  "2022-06-20": 330656,
-  "2022-06-21": 330764,
-  "2022-06-22": 330982,
-  "2022-06-23": 330982,
-  "2022-06-24": 331108,
-  "2022-06-25": 331217,
-  "2022-06-26": 331342,
-  "2022-06-27": 331447,
-  "2022-06-28": 331539,
-  "2022-06-29": 331624,
-  "2022-06-30": 331753,
-  "2022-07-01": 331904,
-  "2022-07-02": 332036,
-  "2022-07-03": 332179,
-  "2022-07-04": 332289,
-  "2022-07-05": 332289,
-  "2022-07-06": 332289,
-  "2022-07-07": 332620,
-  "2022-07-08": 332749,
-  "2022-07-09": 332893,
-  "2022-07-10": 333009,
-  "2022-07-11": 333138,
-  "2022-07-12": 333237,
-  "2022-07-13": 333328,
-  "2022-07-14": 333435,
-  "2022-07-15": 333576,
-  "2022-07-16": 333710,
-  "2022-07-17": 333828,
-  "2022-07-18": 333941,
-  "2022-07-19": 334035,
-  "2022-07-20": 334127,
-  "2022-07-21": 334263,
-  "2022-07-22": 334376,
-  "2022-07-23": 334513,
-  "2022-07-24": 334647,
-  "2022-07-25": 334765,
-  "2022-07-26": 334892,
-  "2022-07-27": 334992,
-  "2022-07-28": 335108,
-  "2022-07-29": 335218,
-  "2022-07-30": 335495,
-  "2022-07-31": 335495,
-  "2022-08-01": 335623,
-  "2022-08-02": 335824,
-  "2022-08-03": 335824,
-  "2022-08-04": 335938,
-  "2022-08-05": 336063,
-  "2022-08-06": 336209,
-  "2022-08-07": 336373,
-  "2022-08-08": 336484,
-  "2022-08-09": 336622,
-  "2022-08-10": 336730,
-  "2022-08-11": 336842,
-  "2022-08-12": 336977,
-  "2022-08-13": 337120,
-  "2022-08-14": 337233,
-  "2022-08-15": 337354,
-  "2022-08-16": 337453,
-  "2022-08-17": 337583,
-  "2022-08-18": 337729,
-  "2022-08-19": 337856,
-  "2022-08-20": 337969,
-  "2022-08-21": 338096,
-  "2022-08-22": 338215,
-  "2022-08-23": 338301,
-  "2022-08-24": 338430,
-  "2022-08-25": 338566,
-  "2022-08-26": 338690,
-  "2022-08-27": 338839,
-  "2022-08-28": 338954,
-  "2022-08-29": 339069,
-  "2022-08-30": 339112,
-  "2022-08-31": 339062,
-  "2022-09-01": 339027,
-  "2022-09-02": 339038,
-  "2022-09-03": 338945,
-  "2022-09-04": 338958,
-  "2022-09-05": 339052,
-  "2022-09-06": 339154,
-  "2022-09-07": 339251,
-  "2022-09-09": 339487,
-  "2022-09-10": 339610,
-  "2022-09-11": 339708,
-  "2022-09-12": 339788,
-  "2022-09-13": 339888,
-  "2022-09-15": 340093,
-  "2022-09-16": 340183,
-  "2022-09-17": 340305,
-  "2022-09-18": 340379,
-  "2022-09-19": 340491,
-  "2022-09-20": 340571,
-  "2022-09-21": 340678,
-  "2022-09-22": 340789,
-  "2022-09-23": 340914,
-  "2022-09-24": 340914,
-  "2022-09-25": 341120,
-  "2022-09-26": 341209,
-  "2022-09-27": 341271,
-  "2022-09-28": 341382,
-  "2022-09-29": 341465,
-  "2022-09-30": 341580,
-  "2022-10-01": 341686,
-  "2022-10-02": 341787,
-  "2022-10-03": 341907,
-  "2022-10-04": 341994,
-  "2022-10-05": 342074,
-  "2022-10-06": 342191,
-  "2022-10-07": 342307,
-  "2022-10-08": 342432,
-  "2022-10-09": 342580,
-  "2022-10-10": 342610,
-  "2022-10-11": 342714,
-  "2022-10-12": 342795,
-  "2022-10-13": 342909,
-  "2022-10-14": 343030,
-  "2022-10-15": 343187,
-  "2022-10-16": 343328,
-  "2022-10-17": 343442,
-  "2022-10-18": 343533,
-  "2022-10-19": 343635,
-  "2022-10-20": 343767,
-  "2022-10-21": 343878,
-  "2022-10-22": 344017,
-  "2022-10-23": 344127,
-  "2022-10-24": 344232,
-  "2022-10-25": 344325,
-  "2022-10-26": 344443,
-  "2022-10-27": 344578,
-  "2022-10-28": 344715,
-  "2022-10-29": 344838,
-  "2022-10-30": 344971,
-  "2022-10-31": 345039,
-  "2022-11-01": 345131,
-  "2022-11-02": 345218,
-  "2022-11-03": 345339,
-  "2022-11-04": 345474,
-  "2022-11-05": 345597,
-  "2022-11-06": 345694,
-  "2022-11-07": 345773,
-  "2022-11-08": 345865,
-  "2022-11-09": 345981,
-  "2022-11-10": 346060,
-  "2022-11-11": 346184,
-  "2022-11-12": 346320,
-  "2022-11-13": 346426,
-  "2022-11-14": 346513,
-  "2022-11-15": 346608,
-  "2022-11-16": 346711,
-  "2022-11-17": 346828,
-  "2022-11-18": 346835,
-  "2022-11-19": 346863,
-  "2022-11-20": 346954,
-  "2022-11-21": 347076,
-  "2022-11-22": 347196,
-  "2022-11-23": 347293,
-  "2022-11-24": 347500,
-  "2022-11-25": 347667,
-  "2022-11-26": 347773,
-  "2022-11-27": 347860,
-  "2022-11-28": 347944,
-  "2022-11-29": 348020,
-  "2022-11-30": 348119,
-  "2022-12-01": 348253,
-  "2022-12-02": 348306,
-  "2022-12-03": 348454,
-  "2022-12-04": 348554,
-  "2022-12-05": 348663,
-  "2022-12-06": 348753,
-  "2022-12-07": 348862,
-  "2022-12-08": 348984,
-  "2022-12-09": 349113,
-  "2022-12-10": 349208,
-  "2022-12-11": 349317,
-  "2022-12-12": 349419,
-  "2022-12-13": 349508,
-  "2022-12-14": 349627,
-  "2022-12-15": 349718,
-  "2022-12-16": 349806,
-  "2022-12-17": 349913,
-  "2022-12-18": 350004,
-  "2022-12-19": 350093,
-  "2022-12-20": 350271,
-  "2022-12-21": 350271,
-  "2022-12-22": 350364,
-  "2022-12-24": 350566,
-  "2022-12-25": 350675,
-  "2022-12-26": 350728,
-  "2022-12-27": 350816,
-  "2022-12-28": 350930,
-  "2022-12-29": 351018,
-  "2022-12-30": 351124,
-  "2022-12-31": 351240,
-  "2023-01-01": 351326,
-  "2023-01-02": 351428,
-  "2023-01-03": 351526,
-  "2023-01-04": 351597,
-  "2023-01-05": 351664,
-  "2023-01-06": 351783,
-  "2023-01-07": 351937,
-  "2023-01-08": 351957,
-  "2023-01-09": 352040,
-  "2023-01-10": 352129,
-  "2023-01-11": 352218,
-  "2023-01-12": 352322,
-  "2023-01-13": 352432,
-  "2023-01-14": 352572,
-  "2023-01-15": 352612,
-  "2023-01-16": 352703,
-  "2023-01-17": 352808,
-  "2023-01-18": 352912,
-  "2023-01-19": 353020,
-  "2023-01-20": 353173,
-  "2023-01-21": 353299,
-  "2023-01-22": 353443,
-  "2023-01-23": 353553,
-  "2023-01-24": 353664,
-  "2023-01-25": 353785,
-  "2023-01-26": 353894,
-  "2023-01-27": 353995,
-  "2023-01-28": 354153,
-  "2023-01-29": 354284,
-  "2023-01-30": 354370,
-  "2023-01-31": 354370,
-  "2023-02-01": 354550,
-  "2023-02-02": 354653,
-  "2023-02-03": 354757,
-  "2023-02-04": 354893,
-  "2023-02-05": 355036,
-  "2023-02-06": 355128,
-  "2023-02-07": 355238,
-  "2023-02-08": 355450,
-  "2023-02-09": 355450,
-  "2023-02-10": 355569,
-  "2023-02-11": 355696,
-  "2023-02-12": 355906,
-  "2023-02-13": 356001,
-  "2023-02-14": 356001,
-  "2023-02-15": 356100,
-  "2023-02-16": 356222,
-  "2023-02-17": 356380,
-  "2023-02-18": 356665,
-  "2023-02-19": 356688,
-  "2023-02-20": 356780,
-  "2023-02-21": 356904,
-  "2023-02-22": 357015,
-  "2023-02-23": 357130,
-  "2023-02-24": 357257,
-  "2023-02-25": 357413,
-  "2023-02-26": 357481,
-  "2023-02-27": 357693,
-  "2023-02-28": 357693,
-  "2023-03-01": 357779,
-  "2023-03-02": 357900,
-  "2023-03-03": 358038,
-  "2023-03-04": 358172,
-  "2023-03-05": 358399,
-  "2023-03-06": 358399,
-  "2023-03-07": 358499,
-  "2023-03-08": 358599,
-  "2023-03-09": 358693,
-  "2023-03-10": 358807,
-  "2023-03-11": 358936,
-  "2023-03-12": 359019,
-  "2023-03-13": 359096,
-  "2023-03-14": 359177,
-  "2023-03-15": 359286,
-  "2023-03-16": 359286,
-  "2023-03-17": 359286,
-  "2023-03-18": 359595,
-  "2023-03-19": 359595,
-  "2023-03-20": 359832,
-  "2023-03-21": 359908,
-  "2023-03-22": 360036,
-  "2023-03-23": 360162,
-  "2023-03-24": 360162,
-  "2023-03-25": 360454,
-  "2023-03-26": 360607,
-  "2023-03-27": 360732,
-  "2023-03-28": 360855,
-  "2023-03-29": 360986,
-  "2023-03-30": 361259,
-  "2023-03-31": 361259,
-  "2023-04-01": 361403,
-  "2023-04-02": 361522,
-  "2023-04-03": 361661,
-  "2023-04-04": 361774,
-  "2023-04-05": 361928,
-  "2023-04-06": 362090,
-  "2023-04-07": 362258,
-  "2023-04-09": 362514,
-  "2023-04-10": 362598,
-  "2023-04-11": 362820,
-  "2023-04-12": 362820,
-  "2023-04-13": 362952,
-  "2023-04-14": 363090,
-  "2023-04-15": 363245,
-  "2023-04-16": 363398,
-  "2023-04-17": 363500,
-  "2023-04-18": 363625,
-  "2023-04-19": 363730,
-  "2023-04-20": 363884,
-  "2023-04-21": 364038,
-  "2023-04-22": 364166,
-  "2023-04-23": 364285,
-  "2023-04-24": 364390,
-  "2023-04-25": 364492,
-  "2023-04-26": 364583,
-  "2023-04-27": 364713,
-  "2023-04-28": 364815,
-  "2023-04-29": 364957,
-  "2023-04-30": 365095,
-  "2023-05-01": 365210,
-  "2023-05-02": 365322,
-  "2023-05-03": 365465,
-  "2023-05-04": 365593,
-  "2023-05-05": 365735,
-  "2023-05-06": 365895,
-  "2023-05-07": 366030,
-  "2023-05-08": 366136,
-  "2023-05-09": 366230,
-  "2023-05-10": 366382,
-  "2023-05-11": 366499,
-  "2023-05-12": 366629,
-  "2023-05-13": 366751,
-  "2023-05-14": 366843,
-  "2023-05-15": 366948,
-  "2023-05-16": 367062,
-  "2023-05-17": 367195,
-  "2023-05-18": 367345,
-  "2023-05-19": 367467,
-  "2023-05-20": 367690,
-  "2023-05-21": 367690,
-  "2023-05-22": 367690,
-  "2023-05-23": 367900,
-  "2023-05-24": 368165,
-  "2023-05-25": 368202,
-  "2023-05-26": 368343,
-  "2023-05-27": 368467,
-  "2023-05-28": 368571,
-  "2023-05-29": 368571,
-  "2023-05-30": 368795,
-  "2023-05-31": 368909,
-  "2023-06-01": 369045,
-  "2023-06-02": 369157,
-  "2023-06-03": 369289,
-  "2023-06-04": 369403,
-  "2023-06-05": 369519,
-  "2023-06-06": 369632,
-  "2023-06-07": 369800,
-  "2023-06-08": 369953,
-  "2023-06-09": 370114,
-  "2023-06-10": 370318,
-  "2023-06-11": 370476,
-  "2023-06-12": 370626,
-  "2023-06-13": 370745,
-  "2023-06-14": 370847,
-  "2023-06-15": 370999,
-  "2023-06-16": 371134,
-  "2023-06-17": 371274,
-  "2023-06-18": 371379,
-  "2023-06-19": 371482,
-  "2023-06-20": 371597,
-  "2023-06-21": 371698,
-  "2023-06-22": 371815,
-  "2023-06-23": 371949,
-  "2023-06-24": 372042,
-  "2023-06-25": 372159,
-  "2023-06-26": 372294,
-  "2023-06-27": 372418,
-  "2023-06-28": 372533,
-  "2023-06-29": 372641,
-  "2023-06-30": 372795,
-  "2023-07-01": 373025,
-  "2023-07-02": 373025,
-  "2023-07-03": 373114,
-  "2023-07-04": 373237,
-  "2023-07-05": 373342,
-  "2023-07-06": 373566,
-  "2023-07-07": 373566,
-  "2023-07-08": 373710,
-  "2023-07-09": 373838,
-  "2023-07-10": 373951,
-  "2023-07-11": 374047,
-  "2023-07-12": 374185,
-  "2023-07-13": 374309,
-  "2023-07-14": 374410,
-  "2023-07-15": 374535,
-  "2023-07-16": 374673,
-  "2023-07-17": 374756,
-  "2023-07-18": 374866,
-  "2023-07-19": 374984,
-  "2023-07-20": 375091,
-  "2023-07-21": 375226,
-  "2023-07-22": 375366,
-  "2023-07-23": 375476,
-  "2023-07-24": 375568,
-  "2023-07-25": 375665,
-  "2023-07-26": 375766,
-  "2023-07-27": 375888,
-  "2023-07-28": 375996,
-  "2023-07-29": 376110,
-  "2023-07-30": 376224,
-  "2023-07-31": 376310,
-  "2023-08-01": 376411,
-  "2023-08-02": 376534,
-  "2023-08-03": 376658,
-  "2023-08-04": 376794,
-  "2023-08-05": 376925,
-  "2023-08-06": 377176,
-  "2023-08-07": 377176,
-  "2023-08-08": 377269,
-  "2023-08-09": 377360,
-  "2023-08-10": 377458,
-  "2023-08-11": 377602,
-  "2023-08-12": 377602,
-  "2023-08-13": 377602,
-  "2023-08-14": 377994,
-  "2023-08-15": 377994,
-  "2023-08-16": 377994,
-  "2023-08-17": 377994,
-  "2023-08-18": 377994,
-  "2023-08-19": 377994,
-  "2023-08-20": 378709,
-  "2023-08-21": 378709,
-  "2023-08-22": 378935,
-  "2023-08-23": 378935,
-  "2023-08-24": 378935,
-  "2023-08-25": 378935,
-  "2023-08-26": 379408,
-  "2023-08-27": 379408,
-  "2023-08-28": 379631,
-  "2023-08-29": 379631,
-  "2023-08-30": 379631,
-  "2023-08-31": 379974,
-  "2023-09-01": 380098,
-  "2023-09-02": 380098,
-  "2023-09-03": 380321,
-  "2023-09-04": 380321,
-  "2023-09-05": 380321,
-  "2023-09-06": 380643,
-  "2023-09-07": 380643,
-  "2023-09-08": 380643,
-  "2023-09-09": 380643,
-  "2023-09-10": 381134,
-  "2023-09-11": 381134,
-  "2023-09-12": 381134,
-  "2023-09-13": 381436,
-  "2023-09-14": 381436,
-  "2023-09-15": 381436,
-  "2023-09-16": 381762,
-  "2023-09-17": 381762,
-  "2023-09-18": 381762,
-  "2023-09-19": 382024,
-  "2023-09-20": 382024,
-  "2023-09-21": 382024,
-  "2023-09-22": 382355,
-  "2023-09-23": 382355,
-  "2023-09-24": 382355,
-  "2023-09-25": 382355,
-  "2023-09-26": 382795,
-  "2023-09-27": 382795,
-  "2023-09-28": 382795,
-  "2023-09-29": 382795,
-  "2023-09-30": 382795,
-  "2023-10-01": 382795,
-  "2023-10-02": 383464,
-  "2023-10-03": 383464,
-  "2023-10-04": 383464,
-  "2023-10-05": 383842,
-  "2023-10-06": 383842,
-  "2023-10-07": 383842,
-  "2023-10-08": 383842,
-  "2023-10-09": 383842,
-  "2023-10-10": 383842,
-  "2023-10-11": 384624,
-  "2023-10-12": 384624,
-  "2023-10-13": 384624,
-  "2023-10-14": 384624,
-  "2023-10-15": 384624,
-  "2023-10-16": 384624,
-  "2023-10-17": 384624,
-  "2023-10-18": 384624,
-  "2023-10-19": 384624,
-  "2023-10-20": 384624,
-  "2023-10-21": 384624,
-  "2023-10-22": 384624,
-  "2023-10-23": 384624,
-  "2023-10-24": 384624,
-  "2023-10-25": 384624,
-  "2023-10-26": 384624,
-  "2023-10-27": 384624,
-  "2023-10-28": 384624,
-  "2023-10-29": 384624,
-  "2023-10-30": 384624,
-  "2023-10-31": 384624,
-  "2023-11-01": 384624,
-  "2023-11-02": 384624,
-  "2023-11-03": 384624,
-  "2023-11-04": 384624,
-  "2023-11-05": 384624,
-  "2023-11-06": 384624,
-  "2023-11-07": 384624,
-  "2023-11-08": 384624,
-  "2023-11-09": 384624,
-  "2023-11-10": 384624,
-  "2023-11-11": 388390,
-  "2023-11-12": 388390,
-  "2023-11-13": 388390,
-  "2023-11-14": 388390,
-  "2023-11-15": 388390,
-  "2023-11-16": 388390,
-  "2023-11-17": 388390,
-  "2023-11-18": 388390,
-  "2023-11-19": 388390,
-  "2023-11-20": 388390,
-  "2023-11-21": 388390,
-  "2023-11-22": 388390,
-  "2023-11-23": 388390,
-  "2023-11-24": 388390,
-  "2023-11-25": 388390,
-  "2023-11-26": 388390,
-  "2023-11-27": 388390,
-  "2023-11-28": 388390,
-  "2023-11-29": 388390,
-  "2023-11-30": 388390,
-  "2023-12-01": 388390,
-  "2023-12-02": 388390,
-  "2023-12-03": 388390,
-  "2023-12-04": 388390,
-  "2023-12-05": 388390,
-  "2023-12-06": 388390,
-  "2023-12-07": 388390,
-  "2023-12-08": 388390,
-  "2023-12-09": 388390,
-  "2023-12-10": 388390,
-  "2023-12-11": 388390,
-  "2023-12-12": 388390,
-  "2023-12-13": 388390,
-  "2023-12-14": 392068,
-  "2023-12-15": 392144,
-  "2023-12-16": 392249,
-  "2023-12-17": 392324,
-  "2023-12-18": 392409,
-  "2023-12-19": 392480,
-  "2023-12-20": 392584,
-  "2023-12-21": 392671,
-  "2023-12-22": 392778,
-  "2023-12-23": 392905,
-  "2023-12-24": 393002,
-  "2023-12-25": 393093,
-  "2023-12-26": 393142,
-  "2023-12-27": 393204,
-  "2023-12-30": 393520,
-  "2023-12-31": 393626,
-  "2024-01-01": 393687,
-  "2024-01-02": 393760,
-  "2024-01-03": 393849
+  "2024-01-17": 394873,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is TOOL. The essential tracks, all in one playlist.",
+  "name": "This Is TOOL",
+  "tracks": [
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673773,
+      "name": "10,000 Days (Wings Pt 2)",
+      "url": "https://open.spotify.com/track/4OhqsmPMreC0EFCo3OmDSm"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 943528,
+      "name": "7empest",
+      "url": "https://open.spotify.com/track/0gGfmw4csswZmFPj9YK8GW"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433813,
+      "name": "Bottom",
+      "url": "https://open.spotify.com/track/46XOHK5QfCC83yg5SOGjZk"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249200,
+      "name": "Cold And Ugly - Live",
+      "url": "https://open.spotify.com/track/7ajn3mKu2DP8CoqzpHEr1d"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605369,
+      "name": "Culling Voices",
+      "url": "https://open.spotify.com/track/3gPxMQWDMSEyPXMtzbcDdQ"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 817832,
+      "name": "Descending",
+      "url": "https://open.spotify.com/track/0aTiUssEOy0Mt69bsavj6K"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64293,
+      "name": "Eon Blue Apocalypse",
+      "url": "https://open.spotify.com/track/5aVJ5rv7ghWSkQaqP726tE"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505146,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/0RVFjx2HwbHcl5SCSADpFP"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 620101,
+      "name": "Fear Inoculum",
+      "url": "https://open.spotify.com/track/39zWYYZStDgWi32sOU9AX4"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363066,
+      "name": "Forty Six & 2",
+      "url": "https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367133,
+      "name": "H.",
+      "url": "https://open.spotify.com/track/5fYzuUxtcaJaRRaxMoM2DT"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273826,
+      "name": "Hooker With A Penis",
+      "url": "https://open.spotify.com/track/3S4G4SL15Cp4CvAfmye8um"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Hush",
+      "url": "https://open.spotify.com/track/1icudzJCEUyjOVYzw7emST"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294026,
+      "name": "Intolerance",
+      "url": "https://open.spotify.com/track/2cF1W1G0sERJu0Y49tGjnx"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 764456,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2xKDKtJBLDPd7BF3VmSQQO"
+    },
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448613,
+      "name": "Jambi",
+      "url": "https://open.spotify.com/track/2gbPu2QNqhnnqtfK3yyeZ0"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Jerk-Off - Live",
+      "url": "https://open.spotify.com/track/3jK6mKpZLZSIPZRNCYIm3Q"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 562706,
+      "name": "Lateralus",
+      "url": "https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d"
+    },
+    {
+      "album": {
+        "name": "Opiate\u00b2",
+        "url": "https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594048,
+      "name": "Opiate\u00b2",
+      "url": "https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184573,
+      "name": "Parabol",
+      "url": "https://open.spotify.com/track/3EeoMkZF8NhX9FdCSxG8MB"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363680,
+      "name": "Parabola",
+      "url": "https://open.spotify.com/track/1vxu8vMNshg5J8z3oA7QJZ"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Part Of Me",
+      "url": "https://open.spotify.com/track/2iL5ns7JhMGFSGpfQ3HQ6k"
+    },
+    {
+      "album": {
+        "name": "Fear Inoculum",
+        "url": "https://open.spotify.com/album/7acEciVtnuTzmwKptkjth5"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 713191,
+      "name": "Pneuma",
+      "url": "https://open.spotify.com/track/03sEzk1VyrUZSgyhoQR0LZ"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296320,
+      "name": "Prison Sex",
+      "url": "https://open.spotify.com/track/6bBfqZW47dwndIfYQcB0VR"
+    },
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535800,
+      "name": "Right In Two",
+      "url": "https://open.spotify.com/track/0NLDZzVke3Qu7vDhWyGzRk"
+    },
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671360,
+      "name": "Rosetta Stoned",
+      "url": "https://open.spotify.com/track/0D8l86LXxKcgKAO17DfQsl"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403533,
+      "name": "Schism",
+      "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306853,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/6DyywdbmTzlmXBzG9ym7Rt"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312120,
+      "name": "Stinkfist",
+      "url": "https://open.spotify.com/track/0pwObEOHolQZSldJ2q1wpy"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331853,
+      "name": "Swamp Song",
+      "url": "https://open.spotify.com/track/5q4L6JyoEY3VN5pOSbgjS8"
+    },
+    {
+      "album": {
+        "name": "Opiate",
+        "url": "https://open.spotify.com/album/6ZuGioRryrgXjmhdW14jel"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/3vjHuVFZGC0Bm2Ud0wNpgs"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515080,
+      "name": "The Grudge",
+      "url": "https://open.spotify.com/track/6ZsZxNP4Iwdyp3kd5oFFQN"
+    },
+    {
+      "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 433920,
+      "name": "The Patient",
+      "url": "https://open.spotify.com/track/0Klbxk3g96Qae4DbCnUNcT"
+    },
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381946,
+      "name": "The Pot",
+      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
+    },
+    {
+      "album": {
+        "name": "Undertow",
+        "url": "https://open.spotify.com/album/3Esn6LoXuWtLZNYq8FCzr0"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322016,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/4Wvnm0J3Zz9cmMdEMMghGA"
+    },
+    {
+      "album": {
+        "name": "10,000 Days",
+        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426680,
+      "name": "Vicarious",
+      "url": "https://open.spotify.com/track/65ShmiE5aLBdcIGr7tHX35"
+    },
+    {
+      "album": {
+        "name": "\u00c6nima",
+        "url": "https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399266,
+      "name": "\u00c6nema",
+      "url": "https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sZyol"
 }

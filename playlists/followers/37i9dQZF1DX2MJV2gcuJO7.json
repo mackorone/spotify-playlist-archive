@@ -1,494 +1,1911 @@
 {
-  "2022-08-24": 7590,
-  "2022-08-25": 7618,
-  "2022-08-26": 7622,
-  "2022-08-27": 7644,
-  "2022-08-28": 7657,
-  "2022-08-29": 7678,
-  "2022-08-30": 7689,
-  "2022-08-31": 7684,
-  "2022-09-01": 7671,
-  "2022-09-02": 7669,
-  "2022-09-03": 7682,
-  "2022-09-04": 7660,
-  "2022-09-05": 7657,
-  "2022-09-06": 7684,
-  "2022-09-07": 7692,
-  "2022-09-09": 7725,
-  "2022-09-10": 7735,
-  "2022-09-11": 7747,
-  "2022-09-12": 7766,
-  "2022-09-13": 7784,
-  "2022-09-15": 7816,
-  "2022-09-16": 7829,
-  "2022-09-17": 7846,
-  "2022-09-18": 7856,
-  "2022-09-19": 7863,
-  "2022-09-20": 7877,
-  "2022-09-21": 7885,
-  "2022-09-22": 7895,
-  "2022-09-23": 7907,
-  "2022-09-24": 7922,
-  "2022-09-25": 7941,
-  "2022-09-26": 7956,
-  "2022-09-27": 7974,
-  "2022-09-28": 7989,
-  "2022-09-29": 8004,
-  "2022-09-30": 8016,
-  "2022-10-01": 8018,
-  "2022-10-02": 8023,
-  "2022-10-03": 8029,
-  "2022-10-04": 8037,
-  "2022-10-05": 8043,
-  "2022-10-06": 8048,
-  "2022-10-07": 8049,
-  "2022-10-08": 8054,
-  "2022-10-09": 8064,
-  "2022-10-10": 8064,
-  "2022-10-11": 8077,
-  "2022-10-12": 8084,
-  "2022-10-13": 8090,
-  "2022-10-14": 8097,
-  "2022-10-15": 8100,
-  "2022-10-16": 8102,
-  "2022-10-17": 8107,
-  "2022-10-18": 8110,
-  "2022-10-19": 8111,
-  "2022-10-20": 8117,
-  "2022-10-21": 8120,
-  "2022-10-22": 8122,
-  "2022-10-23": 8122,
-  "2022-10-24": 8130,
-  "2022-10-25": 8134,
-  "2022-10-26": 8140,
-  "2022-10-27": 8145,
-  "2022-10-28": 8156,
-  "2022-10-29": 8156,
-  "2022-10-30": 8160,
-  "2022-10-31": 8167,
-  "2022-11-01": 8172,
-  "2022-11-02": 8181,
-  "2022-11-03": 8192,
-  "2022-11-04": 8195,
-  "2022-11-05": 8196,
-  "2022-11-06": 8199,
-  "2022-11-07": 8205,
-  "2022-11-08": 8211,
-  "2022-11-09": 8215,
-  "2022-11-10": 8225,
-  "2022-11-11": 8236,
-  "2022-11-12": 8248,
-  "2022-11-13": 8258,
-  "2022-11-14": 8266,
-  "2022-11-15": 8278,
-  "2022-11-16": 8281,
-  "2022-11-17": 8286,
-  "2022-11-18": 8288,
-  "2022-11-19": 8281,
-  "2022-11-20": 8296,
-  "2022-11-21": 8290,
-  "2022-11-22": 8306,
-  "2022-11-23": 8300,
-  "2022-11-24": 8326,
-  "2022-11-25": 8337,
-  "2022-11-26": 8336,
-  "2022-11-27": 8340,
-  "2022-11-28": 8347,
-  "2022-11-29": 8350,
-  "2022-11-30": 8354,
-  "2022-12-01": 8361,
-  "2022-12-02": 8364,
-  "2022-12-03": 8368,
-  "2022-12-04": 8369,
-  "2022-12-05": 8373,
-  "2022-12-06": 8373,
-  "2022-12-07": 8377,
-  "2022-12-08": 8377,
-  "2022-12-09": 8380,
-  "2022-12-10": 8386,
-  "2022-12-11": 8388,
-  "2022-12-12": 8393,
-  "2022-12-13": 8399,
-  "2022-12-14": 8402,
-  "2022-12-15": 8406,
-  "2022-12-16": 8410,
-  "2022-12-17": 8412,
-  "2022-12-18": 8420,
-  "2022-12-19": 8422,
-  "2022-12-20": 8426,
-  "2022-12-21": 8426,
-  "2022-12-22": 8426,
-  "2022-12-24": 8429,
-  "2022-12-25": 8433,
-  "2022-12-26": 8438,
-  "2022-12-27": 8442,
-  "2022-12-28": 8453,
-  "2022-12-29": 8460,
-  "2022-12-30": 8462,
-  "2022-12-31": 8465,
-  "2023-01-01": 8468,
-  "2023-01-02": 8473,
-  "2023-01-03": 8475,
-  "2023-01-04": 8478,
-  "2023-01-05": 8477,
-  "2023-01-06": 8482,
-  "2023-01-07": 8493,
-  "2023-01-08": 8492,
-  "2023-01-09": 8495,
-  "2023-01-10": 8495,
-  "2023-01-11": 8502,
-  "2023-01-12": 8504,
-  "2023-01-13": 8511,
-  "2023-01-14": 8521,
-  "2023-01-15": 8521,
-  "2023-01-16": 8526,
-  "2023-01-17": 8534,
-  "2023-01-18": 8541,
-  "2023-01-19": 8545,
-  "2023-01-20": 8547,
-  "2023-01-21": 8553,
-  "2023-01-22": 8568,
-  "2023-01-23": 8569,
-  "2023-01-24": 8575,
-  "2023-01-25": 8584,
-  "2023-01-26": 8585,
-  "2023-01-27": 8588,
-  "2023-01-28": 8592,
-  "2023-01-29": 8595,
-  "2023-01-30": 8602,
-  "2023-01-31": 8602,
-  "2023-02-01": 8613,
-  "2023-02-02": 8620,
-  "2023-02-03": 8625,
-  "2023-02-04": 8634,
-  "2023-02-05": 8644,
-  "2023-02-06": 8649,
-  "2023-02-07": 8660,
-  "2023-02-08": 8666,
-  "2023-02-09": 8666,
-  "2023-02-10": 8671,
-  "2023-02-11": 8678,
-  "2023-02-12": 8692,
-  "2023-02-13": 8697,
-  "2023-02-14": 8697,
-  "2023-02-15": 8706,
-  "2023-02-16": 8708,
-  "2023-02-17": 8711,
-  "2023-02-18": 8731,
-  "2023-02-19": 8731,
-  "2023-02-20": 8734,
-  "2023-02-21": 8736,
-  "2023-02-22": 8741,
-  "2023-02-23": 8748,
-  "2023-02-24": 8755,
-  "2023-02-25": 8755,
-  "2023-02-26": 8756,
-  "2023-02-27": 8767,
-  "2023-02-28": 8767,
-  "2023-03-01": 8770,
-  "2023-03-02": 8779,
-  "2023-03-03": 8788,
-  "2023-03-04": 8793,
-  "2023-03-05": 8795,
-  "2023-03-06": 8795,
-  "2023-03-07": 8803,
-  "2023-03-08": 8806,
-  "2023-03-09": 8812,
-  "2023-03-10": 8814,
-  "2023-03-11": 8826,
-  "2023-03-12": 8858,
-  "2023-03-13": 8942,
-  "2023-03-14": 8999,
-  "2023-03-15": 9059,
-  "2023-03-16": 9114,
-  "2023-03-17": 9114,
-  "2023-03-18": 9259,
-  "2023-03-19": 9336,
-  "2023-03-20": 9411,
-  "2023-03-21": 9480,
-  "2023-03-22": 9561,
-  "2023-03-23": 9641,
-  "2023-03-24": 9641,
-  "2023-03-25": 9804,
-  "2023-03-26": 9896,
-  "2023-03-27": 10002,
-  "2023-03-28": 10084,
-  "2023-03-29": 10179,
-  "2023-03-30": 10324,
-  "2023-03-31": 10324,
-  "2023-04-01": 10399,
-  "2023-04-02": 10460,
-  "2023-04-03": 10525,
-  "2023-04-04": 10577,
-  "2023-04-05": 10627,
-  "2023-04-06": 10683,
-  "2023-04-07": 10754,
-  "2023-04-09": 10895,
-  "2023-04-10": 10966,
-  "2023-04-11": 11113,
-  "2023-04-12": 11113,
-  "2023-04-13": 11179,
-  "2023-04-14": 11245,
-  "2023-04-15": 11312,
-  "2023-04-16": 11384,
-  "2023-04-17": 11450,
-  "2023-04-18": 11505,
-  "2023-04-19": 11577,
-  "2023-04-20": 11635,
-  "2023-04-21": 11707,
-  "2023-04-22": 11776,
-  "2023-04-23": 11842,
-  "2023-04-24": 11916,
-  "2023-04-25": 11964,
-  "2023-04-26": 12030,
-  "2023-04-27": 12080,
-  "2023-04-28": 12133,
-  "2023-04-29": 12188,
-  "2023-04-30": 12260,
-  "2023-05-01": 12311,
-  "2023-05-02": 12379,
-  "2023-05-03": 12428,
-  "2023-05-04": 12502,
-  "2023-05-05": 12552,
-  "2023-05-06": 12617,
-  "2023-05-07": 12678,
-  "2023-05-08": 12746,
-  "2023-05-09": 12791,
-  "2023-05-10": 12824,
-  "2023-05-11": 12882,
-  "2023-05-12": 12940,
-  "2023-05-13": 12984,
-  "2023-05-14": 13034,
-  "2023-05-15": 13091,
-  "2023-05-16": 13141,
-  "2023-05-17": 13195,
-  "2023-05-18": 13225,
-  "2023-05-19": 13302,
-  "2023-05-20": 13427,
-  "2023-05-21": 13427,
-  "2023-05-22": 13427,
-  "2023-05-23": 13522,
-  "2023-05-24": 13611,
-  "2023-05-25": 13624,
-  "2023-05-26": 13675,
-  "2023-05-27": 13729,
-  "2023-05-28": 13779,
-  "2023-05-29": 13779,
-  "2023-05-30": 13886,
-  "2023-05-31": 13931,
-  "2023-06-01": 13982,
-  "2023-06-02": 14032,
-  "2023-06-03": 14087,
-  "2023-06-04": 14131,
-  "2023-06-05": 14167,
-  "2023-06-06": 14198,
-  "2023-06-07": 14245,
-  "2023-06-08": 14287,
-  "2023-06-09": 14337,
-  "2023-06-10": 14373,
-  "2023-06-11": 14422,
-  "2023-06-12": 14474,
-  "2023-06-13": 14508,
-  "2023-06-14": 14570,
-  "2023-06-15": 14622,
-  "2023-06-16": 14667,
-  "2023-06-17": 14706,
-  "2023-06-18": 14766,
-  "2023-06-19": 14814,
-  "2023-06-20": 14857,
-  "2023-06-21": 14906,
-  "2023-06-22": 14958,
-  "2023-06-23": 15003,
-  "2023-06-24": 15038,
-  "2023-06-25": 15094,
-  "2023-06-26": 15139,
-  "2023-06-27": 15182,
-  "2023-06-28": 15231,
-  "2023-06-29": 15284,
-  "2023-06-30": 15321,
-  "2023-07-01": 15387,
-  "2023-07-02": 15387,
-  "2023-07-03": 15429,
-  "2023-07-04": 15472,
-  "2023-07-05": 15522,
-  "2023-07-06": 15602,
-  "2023-07-07": 15602,
-  "2023-07-08": 15644,
-  "2023-07-09": 15688,
-  "2023-07-10": 15746,
-  "2023-07-11": 15781,
-  "2023-07-12": 15828,
-  "2023-07-13": 15872,
-  "2023-07-14": 15917,
-  "2023-07-15": 15960,
-  "2023-07-16": 16012,
-  "2023-07-17": 16051,
-  "2023-07-18": 16098,
-  "2023-07-19": 16158,
-  "2023-07-20": 16202,
-  "2023-07-21": 16249,
-  "2023-07-22": 16298,
-  "2023-07-23": 16351,
-  "2023-07-24": 16392,
-  "2023-07-25": 16434,
-  "2023-07-26": 16480,
-  "2023-07-27": 16516,
-  "2023-07-28": 16557,
-  "2023-07-29": 16611,
-  "2023-07-30": 16660,
-  "2023-07-31": 16718,
-  "2023-08-01": 16776,
-  "2023-08-02": 16816,
-  "2023-08-03": 16863,
-  "2023-08-04": 16903,
-  "2023-08-05": 16959,
-  "2023-08-06": 17072,
-  "2023-08-07": 17072,
-  "2023-08-08": 17117,
-  "2023-08-09": 17157,
-  "2023-08-10": 17195,
-  "2023-08-11": 17240,
-  "2023-08-12": 17276,
-  "2023-08-13": 17338,
-  "2023-08-14": 17385,
-  "2023-08-15": 17479,
-  "2023-08-16": 17479,
-  "2023-08-17": 17523,
-  "2023-08-18": 17566,
-  "2023-08-19": 17608,
-  "2023-08-20": 17648,
-  "2023-08-21": 17709,
-  "2023-08-22": 17774,
-  "2023-08-23": 17811,
-  "2023-08-24": 17863,
-  "2023-08-25": 17914,
-  "2023-08-26": 17966,
-  "2023-08-27": 18021,
-  "2023-08-28": 18086,
-  "2023-08-29": 18138,
-  "2023-08-30": 18186,
-  "2023-08-31": 18234,
-  "2023-09-01": 18284,
-  "2023-09-02": 18284,
-  "2023-09-03": 18302,
-  "2023-09-04": 18340,
-  "2023-09-05": 18362,
-  "2023-09-06": 18386,
-  "2023-09-07": 18413,
-  "2023-09-08": 18438,
-  "2023-09-09": 18470,
-  "2023-09-10": 18499,
-  "2023-09-11": 18524,
-  "2023-09-12": 18549,
-  "2023-09-13": 18574,
-  "2023-09-14": 18609,
-  "2023-09-15": 18630,
-  "2023-09-16": 18650,
-  "2023-09-17": 18682,
-  "2023-09-18": 18712,
-  "2023-09-19": 18739,
-  "2023-09-20": 18759,
-  "2023-09-21": 18799,
-  "2023-09-22": 18822,
-  "2023-09-23": 18851,
-  "2023-09-24": 18869,
-  "2023-09-25": 18903,
-  "2023-09-26": 18932,
-  "2023-09-27": 18955,
-  "2023-09-28": 18974,
-  "2023-09-29": 18996,
-  "2023-09-30": 19023,
-  "2023-10-01": 19047,
-  "2023-10-02": 19074,
-  "2023-10-03": 19096,
-  "2023-10-04": 19120,
-  "2023-10-05": 19142,
-  "2023-10-06": 19159,
-  "2023-10-07": 19178,
-  "2023-10-08": 19199,
-  "2023-10-09": 19211,
-  "2023-10-10": 19220,
-  "2023-10-11": 19273,
-  "2023-10-12": 19273,
-  "2023-10-13": 19297,
-  "2023-10-14": 19321,
-  "2023-10-15": 19352,
-  "2023-10-16": 19371,
-  "2023-10-17": 19399,
-  "2023-10-18": 19413,
-  "2023-10-19": 19439,
-  "2023-10-20": 19453,
-  "2023-10-21": 19475,
-  "2023-10-22": 19496,
-  "2023-10-23": 19515,
-  "2023-10-24": 19538,
-  "2023-10-25": 19554,
-  "2023-10-26": 19572,
-  "2023-10-27": 19597,
-  "2023-10-28": 19616,
-  "2023-10-29": 19632,
-  "2023-10-30": 19673,
-  "2023-10-31": 19673,
-  "2023-11-01": 19683,
-  "2023-11-02": 19701,
-  "2023-11-03": 19719,
-  "2023-11-04": 19745,
-  "2023-11-05": 19753,
-  "2023-11-06": 19779,
-  "2023-11-07": 19783,
-  "2023-11-08": 19800,
-  "2023-11-09": 19824,
-  "2023-11-10": 19838,
-  "2023-11-11": 19854,
-  "2023-11-12": 19868,
-  "2023-11-13": 19881,
-  "2023-11-14": 19896,
-  "2023-11-15": 19896,
-  "2023-11-16": 19944,
-  "2023-11-17": 19976,
-  "2023-11-18": 19976,
-  "2023-11-19": 19988,
-  "2023-11-20": 20006,
-  "2023-11-21": 20021,
-  "2023-11-22": 20039,
-  "2023-11-23": 20050,
-  "2023-11-24": 20068,
-  "2023-11-25": 20085,
-  "2023-11-26": 20111,
-  "2023-11-27": 20121,
-  "2023-11-28": 20132,
-  "2023-11-29": 20172,
-  "2023-11-30": 20172,
-  "2023-12-01": 20195,
-  "2023-12-02": 20200,
-  "2023-12-03": 20211,
-  "2023-12-04": 20226,
-  "2023-12-05": 20244,
-  "2023-12-06": 20252,
-  "2023-12-07": 20255,
-  "2023-12-08": 20270,
-  "2023-12-09": 20280,
-  "2023-12-10": 20295,
-  "2023-12-11": 20301,
-  "2023-12-12": 20320,
-  "2023-12-13": 20322,
-  "2023-12-14": 20352,
-  "2023-12-15": 20360,
-  "2023-12-16": 20371,
-  "2023-12-17": 20383,
-  "2023-12-18": 20398,
-  "2023-12-19": 20409,
-  "2023-12-20": 20416,
-  "2023-12-21": 20424,
-  "2023-12-22": 20432,
-  "2023-12-23": 20443,
-  "2023-12-24": 20457,
-  "2023-12-25": 20467,
-  "2023-12-26": 20483,
-  "2023-12-27": 20494,
-  "2023-12-30": 20539,
-  "2023-12-31": 20558,
-  "2024-01-01": 20571,
-  "2024-01-02": 20594,
-  "2024-01-03": 20613
+  "2024-01-17": 20818,
+  "date_first_scraped": "2022-08-24",
+  "description": "Enjoy music from \"BORUTO\"! / \u97f3\u697d\u3067\u8fbf\u308b\u300cBORUTO-\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS\u300d\u306e\u4e16\u754c\u3002 \u00a9\u5cb8\u672c\u6589\u53f2 \u30b9\u30b3\u30c3\u30c8\uff0f\u96c6\u82f1\u793e\u30fb\u30c6\u30ec\u30d3\u6771\u4eac\u30fb\u3074\u3048\u308d",
+  "name": "BORUTO-\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS",
+  "tracks": [
+    {
+      "album": {
+        "name": "Answers",
+        "url": "https://open.spotify.com/album/1qfMAmUaB8TORgYQXYyd4n"
+      },
+      "artists": [
+        {
+          "name": "mol-74",
+          "url": "https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "Answers",
+      "url": "https://open.spotify.com/track/0g3Nep5KmsTCCaw7GfWTKW"
+    },
+    {
+      "album": {
+        "name": "BAKU",
+        "url": "https://open.spotify.com/album/0zTNkegAjfYgBJQzbzWpEj"
+      },
+      "artists": [
+        {
+          "name": "Ikimonogakari",
+          "url": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "BAKU",
+      "url": "https://open.spotify.com/track/6IJ777JlDiPkA8SeIhBIqF"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Ray",
+          "url": "https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294600,
+      "name": "Become the Wind",
+      "url": "https://open.spotify.com/track/1a5iQILKS8Ke0Yhaqu3Sgd"
+    },
+    {
+      "album": {
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/66krdx3XbXB3NDaR7Tbwwj"
+      },
+      "artists": [
+        {
+          "name": "FlowBack",
+          "url": "https://open.spotify.com/artist/0gXdjWalwSp0EkSetJ612q"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190306,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/158HJdcxWDmk0RUB32jKfx"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215485,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
+    },
+    {
+      "album": {
+        "name": "It's all in the game",
+        "url": "https://open.spotify.com/album/0aD4aBsyAvck9dKod1G3y8"
+      },
+      "artists": [
+        {
+          "name": "Qyoto",
+          "url": "https://open.spotify.com/artist/6iQ3UtYM6LPmprxJEEMFbC"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245906,
+      "name": "It's all in the game",
+      "url": "https://open.spotify.com/track/5lmBqBjVSjzMAvxZyfyQPJ"
+    },
+    {
+      "album": {
+        "name": "Ladder",
+        "url": "https://open.spotify.com/album/17MpD6N5nkhHHatcIckvNa"
+      },
+      "artists": [
+        {
+          "name": "Anonymouz",
+          "url": "https://open.spotify.com/artist/6htvT7X1lqrkKpfp0Rv13X"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220103,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/6gZzyh7mytbxOTX0qWxbhx"
+    },
+    {
+      "album": {
+        "name": "MEME",
+        "url": "https://open.spotify.com/album/3DH1SzNyX3FLsEM28ktmbg"
+      },
+      "artists": [
+        {
+          "name": "Brian the Sun",
+          "url": "https://open.spotify.com/artist/5CVx8gIHxBaYMuQVXr8ogM"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Lonely Go!",
+      "url": "https://open.spotify.com/track/23b70WxAS1W3x9X69MlVSo"
+    },
+    {
+      "album": {
+        "name": "Maybe I",
+        "url": "https://open.spotify.com/album/6mlEJlbrwyzFrsoivfy2MC"
+      },
+      "artists": [
+        {
+          "name": "Seven Billion Dots",
+          "url": "https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226213,
+      "name": "Maybe I",
+      "url": "https://open.spotify.com/track/3OFmx7v5NpQNnr1Wqo3ebH"
+    },
+    {
+      "album": {
+        "name": "OVER/\u30d2\u30ab\u30eb\u30ab\u30b1\u30e9 (Special Edition)",
+        "url": "https://open.spotify.com/album/4ViNQyh4NIoTxhhnIbY7qX"
+      },
+      "artists": [
+        {
+          "name": "Little Glee Monster",
+          "url": "https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238826,
+      "name": "OVER",
+      "url": "https://open.spotify.com/track/7cMxM6wyIrBfXqWY81mONM"
+    },
+    {
+      "album": {
+        "name": "WANDERING (Special Edition)",
+        "url": "https://open.spotify.com/album/5zfUqHCsRWT7BaQT3mKuUY"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217700,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/0MQxa7P9R7dqOfLqwXcA3R"
+    },
+    {
+      "album": {
+        "name": "KIZUNA (Special Edition)",
+        "url": "https://open.spotify.com/album/2PkIFK9tEzYBVKeuiEFVSi"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217700,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1iZeVXwYthcY3HWarxbXNb"
+    },
+    {
+      "album": {
+        "name": "BE BOY",
+        "url": "https://open.spotify.com/album/2a4VMfObyCTWgYOPVw4sMo"
+      },
+      "artists": [
+        {
+          "name": "Skypeace",
+          "url": "https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233986,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/41HSCNYMTJKQya6P9vJF6Y"
+    },
+    {
+      "album": {
+        "name": "VOLTAGE",
+        "url": "https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695"
+      },
+      "artists": [
+        {
+          "name": "Anly",
+          "url": "https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229920,
+      "name": "VOLTAGE",
+      "url": "https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm"
+    },
+    {
+      "album": {
+        "name": "Who are you? / \u661f\u5ea7\u3057\u3066\u4e8c\u4eba",
+        "url": "https://open.spotify.com/album/3y24ZDMTWldEr0NASCKErU"
+      },
+      "artists": [
+        {
+          "name": "PELICAN FANCLUB",
+          "url": "https://open.spotify.com/artist/2eKvpW2lCmgqTJHRNrbbIn"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209826,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/2jjtyENFrV2g4XocVqjUGi"
+    },
+    {
+      "album": {
+        "name": "Wish on",
+        "url": "https://open.spotify.com/album/0Psh6aWhxCMZEho0B0z8Kq"
+      },
+      "artists": [
+        {
+          "name": "LONGMAN",
+          "url": "https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Wish on",
+      "url": "https://open.spotify.com/track/1ArUd4v4xfXbCbcJG6kuRy"
+    },
+    {
+      "album": {
+        "name": "\u304d\u3089\u308a\u3089\u308a",
+        "url": "https://open.spotify.com/album/7iXTH7HUVN26FCK1RoBiG4"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2022-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222900,
+      "name": "\u304d\u3089\u308a\u3089\u308a",
+      "url": "https://open.spotify.com/track/4GQjav2jvs9tmbC0KkYtCj"
+    },
+    {
+      "album": {
+        "name": "\u306f\u3058\u307e\u3063\u3066\u3044\u304f \u305f\u304b\u307e\u3063\u3066\u3044\u304f",
+        "url": "https://open.spotify.com/album/6uPo4jZ8Sd08sw98VG5sP7"
+      },
+      "artists": [
+        {
+          "name": "Sambomaster",
+          "url": "https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249133,
+      "name": "\u306f\u3058\u307e\u3063\u3066\u3044\u304f \u305f\u304b\u307e\u3063\u3066\u3044\u304f",
+      "url": "https://open.spotify.com/track/0YNCH9g8CqoCZ71lN49FKB"
+    },
+    {
+      "album": {
+        "name": "\u307e\u305f\u306d",
+        "url": "https://open.spotify.com/album/6cWyNSjyVH0Miq8FZ9ltEJ"
+      },
+      "artists": [
+        {
+          "name": "Humbreaders",
+          "url": "https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239533,
+      "name": "\u307e\u305f\u306d",
+      "url": "https://open.spotify.com/track/4f8MEWsOIymj4AIZs9VasU"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30df\u304c\u3044\u305f\u3057\u308b\u3057",
+        "url": "https://open.spotify.com/album/7yJeoO13KSi7srzbdXWlnb"
+      },
+      "artists": [
+        {
+          "name": "halca",
+          "url": "https://open.spotify.com/artist/2xOEM6pRUsLhlx2PzaQuK2"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "\u30ad\u30df\u304c\u3044\u305f\u3057\u308b\u3057",
+      "url": "https://open.spotify.com/track/0Fml1C5sidfN0tEYcQQ6L8"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/3q35n4SSD3aZ47kOVs7V3f"
+      },
+      "artists": [
+        {
+          "name": "Fujifabric",
+          "url": "https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/3LHMKncuCBFhHZTN306bgt"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30e8\u30ca\u30e9\u30e0\u30fc\u30f3\u30bf\u30a6\u30f3",
+        "url": "https://open.spotify.com/album/3BH9AGsHoe2NAlCkzon700"
+      },
+      "artists": [
+        {
+          "name": "Scenarioart",
+          "url": "https://open.spotify.com/artist/4yHLkC0Z5EYVyinSP2AHvV"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230253,
+      "name": "\u30b5\u30e8\u30ca\u30e9\u30e0\u30fc\u30f3\u30bf\u30a6\u30f3",
+      "url": "https://open.spotify.com/track/5s9jpxDi4VHtGiCxr33tdx"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142280,
+      "name": "\u30b5\u30e9\u30bf\u3099~\u5fc3\u75db",
+      "url": "https://open.spotify.com/track/7eKypR55QcGtFNgKdtMCUF"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109240,
+      "name": "\u30b5\u30e9\u30bf\u3099~\u95d8\u5fd7",
+      "url": "https://open.spotify.com/track/12jqJ5agnkIjmqICHna645"
+    },
+    {
+      "album": {
+        "name": "\u30bb\u30f3\u30c8\u30e9\u30eb",
+        "url": "https://open.spotify.com/album/0k97zghtCtqpkxkccdTcz5"
+      },
+      "artists": [
+        {
+          "name": "Ami Sakaguchi",
+          "url": "https://open.spotify.com/artist/4aJOCsyxr9bOooJDwmXUwX"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215733,
+      "name": "\u30bb\u30f3\u30c8\u30e9\u30eb",
+      "url": "https://open.spotify.com/track/59oHMI79SguZk2r9mumT3P"
+    },
+    {
+      "album": {
+        "name": "Storyteller / \u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30c9\u30ea\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/2BW00wQ8JKz3BGXyjCClTo"
+      },
+      "artists": [
+        {
+          "name": "miwa",
+          "url": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236466,
+      "name": "\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u30c9\u30ea\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/5rl46ytjGp0lATKyX21D1d"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30f3\u30b7\u30f3\u30bf\u30de\u30b7\u30a4 (Special Edition)",
+        "url": "https://open.spotify.com/album/0OrUTMRcTuKNEFTHc2Myxd"
+      },
+      "artists": [
+        {
+          "name": "\u30b2\u30fc\u30e0\u5b9f\u6cc1\u8005\u308f\u304f\u308f\u304f\u30d0\u30f3\u30c9",
+          "url": "https://open.spotify.com/artist/4gXZYL1cPgPcHRAwncimz8"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284306,
+      "name": "\u30c7\u30f3\u30b7\u30f3\u30bf\u30de\u30b7\u30a4",
+      "url": "https://open.spotify.com/track/5moFJ4IgSsnj4owGblSx8K"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30fb\u30d5\u30a1\u30ba",
+        "url": "https://open.spotify.com/album/0rM1GFRTXUcsDBBXebJibX"
+      },
+      "artists": [
+        {
+          "name": "THIS IS JAPAN",
+          "url": "https://open.spotify.com/artist/753OhFtxllDpBJvOmxh6CD"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214692,
+      "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8\u30fb\u30d5\u30a1\u30ba",
+      "url": "https://open.spotify.com/track/1iqqpk0ggxcXqAoecLawcH"
+    },
+    {
+      "album": {
+        "name": "\u30c9\u30ea\u30fc\u30df\u30fc\u30b8\u30e3\u30fc\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/3Sbc8ouZr9NOIyGo5j20ZY"
+      },
+      "artists": [
+        {
+          "name": "the peggies",
+          "url": "https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246080,
+      "name": "\u30c9\u30ea\u30fc\u30df\u30fc\u30b8\u30e3\u30fc\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/4q4nP98l5uJXZ8rLOJVFGf"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30c8\u30f3\u30ed\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4WJOWRFnD2n2pd9Ybh17Ve"
+      },
+      "artists": [
+        {
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281773,
+      "name": "\u30d0\u30c8\u30f3\u30ed\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/1xXCgoSoO0WS1sBIqRYiSO"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30dc\u30a6\u30ed\u30af",
+        "url": "https://open.spotify.com/album/6rJD98WoJXBMiV82Sn47OA"
+      },
+      "artists": [
+        {
+          "name": "Lenny code fiction",
+          "url": "https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "\u30d3\u30dc\u30a6\u30ed\u30af",
+      "url": "https://open.spotify.com/track/3HJTTW6JzXEvrTjK2mYflY"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121026,
+      "name": "\u30db\u3099\u30eb\u30c8~\u7121\u53cc",
+      "url": "https://open.spotify.com/track/306YRuDPq13psebwjuRgk2"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135160,
+      "name": "\u30db\u3099\u30eb\u30c8~\u771f\u60c5",
+      "url": "https://open.spotify.com/track/4s5E7dJMexzmErIspgAX66"
+    },
+    {
+      "album": {
+        "name": "\u30dd\u30e9\u30ea\u30b9",
+        "url": "https://open.spotify.com/album/3eYpHZU1whuqu8JNPZOpdA"
+      },
+      "artists": [
+        {
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "\u30dd\u30e9\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/78TPjjQiyNWEwbmgUTct9e"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110613,
+      "name": "\u30df\u30c4\u30ad",
+      "url": "https://open.spotify.com/track/7kVtj5dLR01AiL2f2d0nSf"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30a4\u30ab",
+        "url": "https://open.spotify.com/album/13g0FdbJIaQE7vtfhKNFaF"
+      },
+      "artists": [
+        {
+          "name": "Bird Bear Hare and Fish",
+          "url": "https://open.spotify.com/artist/0XI8iyoe7ppGsWLVsH4cHB"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "\u30e9\u30a4\u30ab",
+      "url": "https://open.spotify.com/track/6egi9p0qHB91OsEJBzDclJ"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115133,
+      "name": "\u4e00\u4ef6\u843d\u7740",
+      "url": "https://open.spotify.com/track/0pMyBmn4cieRLYc9s9n5CL"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110253,
+      "name": "\u4e0b\u5fcd\u306e\u7279\u8a13",
+      "url": "https://open.spotify.com/track/2XBvPViWrurCnDM0C4xHMw"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103453,
+      "name": "\u4e0d\u53ef\u601d\u8b70",
+      "url": "https://open.spotify.com/track/1j4UuId21P0eBM0r4anxkc"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115720,
+      "name": "\u4e0d\u7a4f\u306a\u6c17\u914d",
+      "url": "https://open.spotify.com/track/5R9hCi30cOJn2LUlBXozSp"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105493,
+      "name": "\u4e8b\u4ef6",
+      "url": "https://open.spotify.com/track/7y9ajpJJhY4nt51ChVGI0i"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94813,
+      "name": "\u4ef2\u9593\u3068\u306e\u6642\u9593",
+      "url": "https://open.spotify.com/track/67k72I1GUj3E53HMtPAvp7"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306f\u8d70\u308a\u7d9a\u3051\u308b",
+        "url": "https://open.spotify.com/album/7zIob1lFFrdH31I2fPXYwW"
+      },
+      "artists": [
+        {
+          "name": "MELOFLOAT",
+          "url": "https://open.spotify.com/artist/61eNBkMCGUtql6CTYS38TG"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "\u50d5\u306f\u8d70\u308a\u7d9a\u3051\u308b",
+      "url": "https://open.spotify.com/track/0WFlZJN9DtVHPD4Ik5xnyw"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130280,
+      "name": "\u52a3\u52e2",
+      "url": "https://open.spotify.com/track/5Bj37wrRW9v4KD1dgy70fM"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167413,
+      "name": "\u52dd\u8ca0",
+      "url": "https://open.spotify.com/track/1pKQMrEtoi0XIRMAbIu8P9"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150213,
+      "name": "\u53cd\u6483",
+      "url": "https://open.spotify.com/track/3TcalSkBJQe78BBRgMIZfG"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109880,
+      "name": "\u53e4\u304d\u91cc",
+      "url": "https://open.spotify.com/track/5DGXD41L8jlUjJqOsgni5n"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120693,
+      "name": "\u54c0\u6155",
+      "url": "https://open.spotify.com/track/5iDjVdYeWm9S8yRFXTeEpS"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114760,
+      "name": "\u5915\u66ae\u308c",
+      "url": "https://open.spotify.com/track/4sG3UjRzAAAZTMD4B098ec"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81920,
+      "name": "\u5929\u7136",
+      "url": "https://open.spotify.com/track/1agQw5O1HfTkfSFPGqMLXA"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120266,
+      "name": "\u5b50\u306e\u6210\u9577",
+      "url": "https://open.spotify.com/track/6vTCpVZejtWHyDvUjTUef1"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136853,
+      "name": "\u5bb6\u65cf",
+      "url": "https://open.spotify.com/track/0WDI60wWIN2lY8eARtE1J7"
+    },
+    {
+      "album": {
+        "name": "\u5bbf\u7e01",
+        "url": "https://open.spotify.com/album/6dT6HAU5koeNRTQBKywvbA"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "\u5bbf\u7e01",
+      "url": "https://open.spotify.com/track/6O3CyRXIXp0j2YYpmIxQFw"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125920,
+      "name": "\u5d50\u306e\u524d\u306e\u9759\u3051\u3055",
+      "url": "https://open.spotify.com/track/4v0didZBKkRwHYcMHbnAMK"
+    },
+    {
+      "album": {
+        "name": "\u5f37\u304c\u308aLOSER",
+        "url": "https://open.spotify.com/album/2iIs0WLspaWeNAMiZS6JnM"
+      },
+      "artists": [
+        {
+          "name": "\u042feaL",
+          "url": "https://open.spotify.com/artist/3kcuGX6Jv5AOsJQTQGxoYL"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228280,
+      "name": "\u5f37\u304c\u308aLOSER",
+      "url": "https://open.spotify.com/track/7sAlxL9fyoU635YEaOIz5D"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133840,
+      "name": "\u5f37\u6575\u51fa\u73fe",
+      "url": "https://open.spotify.com/track/22YWPspiezSt5jNmiUElwE"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96853,
+      "name": "\u5fcd\u8005\u5b66\u6821",
+      "url": "https://open.spotify.com/track/0xVAV9oHXhzGFpuucARSdx"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83640,
+      "name": "\u5fcd\u8853\u4fee\u696d",
+      "url": "https://open.spotify.com/track/0ntNKkq4WvDXfG0sSaBORf"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73200,
+      "name": "\u60aa\u5de7\u307f",
+      "url": "https://open.spotify.com/track/0LmtroKDxwMT8R2tdugYKX"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131840,
+      "name": "\u60b2\u3057\u307f",
+      "url": "https://open.spotify.com/track/2914jTcoDo00XLWg5KIQ6Q"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127280,
+      "name": "\u618e\u60aa",
+      "url": "https://open.spotify.com/track/7GPKWHHGHBMwsAot2eMv5c"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85",
+        "url": "https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "\u6211\u6b66\u8005\u7f85",
+      "url": "https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85106,
+      "name": "\u6211\u6b66\u8005\u7f85",
+      "url": "https://open.spotify.com/track/3WpA5ggp3MjdQQXWr1pm3c"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122413,
+      "name": "\u65b0\u3057\u3044\u6249",
+      "url": "https://open.spotify.com/track/0RldUP0xSgGW5HUMPO94qf"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76360,
+      "name": "\u65b0\u5e02\u8857",
+      "url": "https://open.spotify.com/track/3YRjdBkdK9dBq9RdtaTYGo"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93733,
+      "name": "\u65b0\u98a8",
+      "url": "https://open.spotify.com/track/2AYcvdS3qiPYg4AX2yFOHo"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111386,
+      "name": "\u66d9\u5149",
+      "url": "https://open.spotify.com/track/14XccwPSLxfie3vQaOK6Cy"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110186,
+      "name": "\u670b\u53cb",
+      "url": "https://open.spotify.com/track/7vHA1tl56yeTu0A28qjJMO"
+    },
+    {
+      "album": {
+        "name": "\u672a\u5b8c\u6210\u306a\u5149\u305f\u3061",
+        "url": "https://open.spotify.com/album/50L45R85DVqNUEOAurvC5m"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u539f \u9065",
+          "url": "https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269560,
+      "name": "\u672a\u5b8c\u6210\u306a\u5149\u305f\u3061",
+      "url": "https://open.spotify.com/track/3UHED29JVmUDrRM4CgmCM0"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131600,
+      "name": "\u672c\u5f53\u306e\u6c17\u6301\u3061",
+      "url": "https://open.spotify.com/track/5xElXRYSACDUnb6FkLxQ72"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113493,
+      "name": "\u6cf0\u5e73",
+      "url": "https://open.spotify.com/track/0onOsu0rsgX3LHh4zUTkAo"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138920,
+      "name": "\u6e29\u3082\u308a",
+      "url": "https://open.spotify.com/track/0SVIpJFXaSWEV8gL02PgTD"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117053,
+      "name": "\u6e96\u5099\u4e07\u7aef",
+      "url": "https://open.spotify.com/track/0ya5yo2tWpqRDUlGoTE4m2"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93480,
+      "name": "\u731b\u7136",
+      "url": "https://open.spotify.com/track/3EqcQjFhNbQGvI5KEjPEjv"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130893,
+      "name": "\u767d\u71b1",
+      "url": "https://open.spotify.com/track/29NdrBKqvUbXnI7vipEOPx"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100093,
+      "name": "\u7834\u5929\u8352",
+      "url": "https://open.spotify.com/track/0PrRxhhqxoBkjkB5rUIxtz"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133920,
+      "name": "\u7aae\u5730",
+      "url": "https://open.spotify.com/track/3YYeI0OogVCHIvy9Hb1UzR"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85906,
+      "name": "\u7d42\u308f\u308a\u826f\u3051\u308c\u3070\u5168\u3066\u826f\u3057",
+      "url": "https://open.spotify.com/track/525RaqUN0FUDPdipEvPSSz"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167066,
+      "name": "\u7dca\u8feb",
+      "url": "https://open.spotify.com/track/6BFQNgQagph0ZtU3Y52Vr0"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u9ce5\u98a8\u6708 (Special Edition)",
+        "url": "https://open.spotify.com/album/7wxAOq1QXsNBx6HC5qkDNr"
+      },
+      "artists": [
+        {
+          "name": "COALAMODE.",
+          "url": "https://open.spotify.com/artist/2BbazztW4wjJHFbtGdSzvP"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "\u82b1\u9ce5\u98a8\u6708",
+      "url": "https://open.spotify.com/track/3Qtq0KAhUOopXnAEZpWmSm"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119533,
+      "name": "\u82db\u70c8",
+      "url": "https://open.spotify.com/track/2JSrXsHcObOBNh2RrVeDwq"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138360,
+      "name": "\u82e6\u95d8",
+      "url": "https://open.spotify.com/track/0XpZ3EAxmMex9UrboaU2Fh"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126573,
+      "name": "\u845b\u85e4",
+      "url": "https://open.spotify.com/track/1sRCeFxzpyts4rCxN98THm"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76946,
+      "name": "\u8840\u6c17",
+      "url": "https://open.spotify.com/track/4ciutPBzcQ3iRFnN6xppNL"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121653,
+      "name": "\u899a\u609f",
+      "url": "https://open.spotify.com/track/18h2dXDMFtCEmT6giWaxgo"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135146,
+      "name": "\u8b00\u7565",
+      "url": "https://open.spotify.com/track/74QJtXES7QOYvjHBTmhKNu"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132640,
+      "name": "\u8ff7\u9727",
+      "url": "https://open.spotify.com/track/2nl8pcGeDQbCWNt1mqKnZC"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "\u9006\u8ee2\u52dd\u5229",
+      "url": "https://open.spotify.com/track/5IccEf3MV9DIV9gVCA4UDh"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133386,
+      "name": "\u96c4\u6e3e",
+      "url": "https://open.spotify.com/track/3c8Stf3PQAtguHa7Is5jjf"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114453,
+      "name": "\u96f7\u96f2",
+      "url": "https://open.spotify.com/track/4eSNbl0AwSrLvN0WSaKoR0"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Ray",
+          "url": "https://open.spotify.com/artist/5DjK0HQaczIK7lWWcsGnVG"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295173,
+      "name": "\u98a8\u306b\u306a\u308c",
+      "url": "https://open.spotify.com/track/2evnWujOZVv2yOk3V6FYbn"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2160",
+        "url": "https://open.spotify.com/album/09yJ7fkJ2ywQDsGlEDKxXE"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92920,
+      "name": "\u98a8\u306e\u5439\u304f\u307e\u307e",
+      "url": "https://open.spotify.com/track/4aLsn5KLDU5b52QYlQTV42"
+    },
+    {
+      "album": {
+        "name": "BORUTO -\u30dc\u30eb\u30c8- NARUTO NEXT GENERATIONS \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af \u2161",
+        "url": "https://open.spotify.com/album/0jLLvfDBeu4tQOwuyniBom"
+      },
+      "artists": [
+        {
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        },
+        {
+          "name": "YAIBA",
+          "url": "https://open.spotify.com/artist/11J6wtGIMBv3bT0m2kW6m4"
+        }
+      ],
+      "date_added": "2022-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130360,
+      "name": "\u9d7a",
+      "url": "https://open.spotify.com/track/6pErXXFKdRd6n8kLQ3hrb8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2MJV2gcuJO7"
 }

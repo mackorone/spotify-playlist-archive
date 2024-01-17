@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Apa Fer Milaangey",
+        "url": "https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti"
+      },
+      "artists": [
+        {
+          "name": "Savi Kahlon",
+          "url": "https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213368,
+      "name": "Apa Fer Milaangey",
+      "url": "https://open.spotify.com/track/5BBB2PDgDWi6NBECj0wJiA"
+    },
+    {
+      "album": {
         "name": "Bhediya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 229677,
       "name": "Badass",
       "url": "https://open.spotify.com/track/23y8MwhdvbSalGitHeokpk"
@@ -2542,7 +2560,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 175686,
       "name": "California Love",
       "url": "https://open.spotify.com/track/610keNiNVTIkYD0CqeSerg"
@@ -2666,7 +2684,7 @@
       ],
       "date_added": "2022-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-09",
       "duration_ms": 103264,
       "name": "Chaand Baaliyan",
       "url": "https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ"
@@ -6698,6 +6716,14 @@
           "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
         },
         {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
           "name": "Shilpa Rao",
           "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         },
@@ -6712,7 +6738,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 169686,
       "name": "Ishq Jaisa Kuch (From \"Fighter\")",
       "url": "https://open.spotify.com/track/23YpzkTDtU78GK6vpgRbkM"
@@ -8277,6 +8303,24 @@
     },
     {
       "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "King Shit",
+      "url": "https://open.spotify.com/track/1BpvuKIG7jK5EiTp2tv5z8"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH"
       },
@@ -8380,6 +8424,40 @@
       "duration_ms": 254218,
       "name": "Komuram Bheemudo (From \"RRR\")",
       "url": "https://open.spotify.com/track/7G8LfMpY6TGN9dbZ9m0Jdd"
+    },
+    {
+      "album": {
+        "name": "Guntur Kaaram",
+        "url": "https://open.spotify.com/album/43yBwxxfwX5mpyHxFLkqdn"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Mahesh Babu",
+          "url": "https://open.spotify.com/artist/3fHBN4cBo24hLf8jnCUTYK"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216558,
+      "name": "Kurchi Madathapetti",
+      "url": "https://open.spotify.com/track/0hY9eA74QrMCJuWEx7fo9y"
     },
     {
       "album": {
@@ -10450,7 +10528,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": "2024-01-11",
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States\")",
       "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
@@ -11590,7 +11668,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-16",
       "duration_ms": 184312,
       "name": "Naseeb Se (From \"Satyaprem Ki Katha\")",
       "url": "https://open.spotify.com/track/3dpM3ijJz0vGzbkh5DcMXz"
@@ -12362,7 +12440,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": "2024-01-12",
       "duration_ms": 247286,
       "name": "Pal",
       "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
@@ -13092,7 +13170,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 216270,
       "name": "Pyaar Hota Kayi Baar Hai (From \"Tu Jhoothi Main Makkaar\")",
       "url": "https://open.spotify.com/track/2vPrBucKCfKmafHhSfJ2pt"
@@ -13280,6 +13358,32 @@
       "duration_ms": 291462,
       "name": "Rait Zara Si",
       "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
+    },
+    {
+      "album": {
+        "name": "Rait Zara Si (From \"Atrangi Re\")",
+        "url": "https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shashaa Tirupati",
+          "url": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 291462,
+      "name": "Rait Zara Si (From \"Atrangi Re\")",
+      "url": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
     },
     {
       "album": {
@@ -13955,6 +14059,24 @@
     },
     {
       "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Safety Off",
+      "url": "https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K"
+    },
+    {
+      "album": {
         "name": "Shor in the City (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2HZl13JCi3PIaqVlIkp4q6"
       },
@@ -14486,7 +14608,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 247941,
       "name": "Shayad",
       "url": "https://open.spotify.com/track/1smFN2CLqGROu0J0UyvDfL"
@@ -14544,6 +14666,24 @@
       "duration_ms": 230875,
       "name": "Shiddat Title Track (From \"Shiddat\")",
       "url": "https://open.spotify.com/track/6CTN8S2qzPwZdwwp0Nugvy"
+    },
+    {
+      "album": {
+        "name": "Shikayat",
+        "url": "https://open.spotify.com/album/5n4KPrFtZcpw8dogHM0jxJ"
+      },
+      "artists": [
+        {
+          "name": "AUR",
+          "url": "https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Shikayat",
+      "url": "https://open.spotify.com/track/7e2dvR0ySx1bBJRDxVJiG1"
     },
     {
       "album": {
@@ -14696,7 +14836,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"
@@ -15402,7 +15542,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 187102,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/4i6z4CQXt1HTGSjCJEquG6"
@@ -15734,7 +15874,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-17",
       "duration_ms": 346290,
       "name": "Tere Hawaale (From \"Laal Singh Chaddha\")",
       "url": "https://open.spotify.com/track/4blqlsA1uf2d2I40E90EUC"
@@ -15880,7 +16020,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 189136,
       "name": "Tere Vaaste (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/75DRLUnnltzSyuTJ7onxmW"
@@ -16552,7 +16692,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": "2024-01-07",
       "duration_ms": 270000,
       "name": "Tu Aake Dekhle",
       "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"
@@ -16990,7 +17130,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-04",
+      "date_removed": null,
       "duration_ms": 321225,
       "name": "Tum Se Hi",
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
@@ -17516,7 +17656,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 246988,
       "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
       "url": "https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm"
@@ -18108,6 +18248,24 @@
       "duration_ms": 194857,
       "name": "Ykwim",
       "url": "https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ"
+    },
+    {
+      "album": {
+        "name": "Leo",
+        "url": "https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/4thOONDx78zsY8sHGfU1M2"
     },
     {
       "album": {

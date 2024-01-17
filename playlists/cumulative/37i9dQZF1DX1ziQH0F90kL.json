@@ -148,7 +148,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 204296,
       "name": "Adelantah",
       "url": "https://open.spotify.com/track/686vC4Xj5wFjFE0S8dW2mK"
@@ -1034,7 +1034,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 228720,
       "name": "Cosas Malas",
       "url": "https://open.spotify.com/track/2MaYHbpwybBOm9CrDBfChl"
@@ -1260,7 +1260,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 148076,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/1JEnGuyq3nuFOySCBXyE1O"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 132072,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/5OVZiVzvQ4thVjTR6hB8hK"
@@ -3378,7 +3378,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": null,
       "duration_ms": 182593,
       "name": "Marbella",
       "url": "https://open.spotify.com/track/5mPuQwzVR3E7N43FxBBljc"
@@ -4572,6 +4572,24 @@
       "duration_ms": 392866,
       "name": "Poblado - Remix",
       "url": "https://open.spotify.com/track/2K1CQMoG2Dy5nmeOYnhoi8"
+    },
+    {
+      "album": {
+        "name": "POEMA A TUS PROBLEMAS",
+        "url": "https://open.spotify.com/album/65eUZ6WDTDo4ZYI1nqXkz5"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209857,
+      "name": "POEMA A TUS PROBLEMAS",
+      "url": "https://open.spotify.com/track/2lgB7CCdCU77vCfGOjr96u"
     },
     {
       "album": {

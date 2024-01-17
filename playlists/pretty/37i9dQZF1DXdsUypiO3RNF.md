@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,954 likes - 68 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,338 likes - 68 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

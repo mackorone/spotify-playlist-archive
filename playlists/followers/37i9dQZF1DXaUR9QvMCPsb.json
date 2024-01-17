@@ -1,735 +1,3807 @@
 {
-  "2021-12-25": 22329,
-  "2021-12-26": 22329,
-  "2021-12-27": 22327,
-  "2021-12-28": 22327,
-  "2021-12-29": 22327,
-  "2021-12-30": 22329,
-  "2021-12-31": 22328,
-  "2022-01-01": 22330,
-  "2022-01-02": 22330,
-  "2022-01-03": 22330,
-  "2022-01-04": 22330,
-  "2022-01-05": 22331,
-  "2022-01-06": 22333,
-  "2022-01-07": 22333,
-  "2022-01-08": 22335,
-  "2022-01-09": 22335,
-  "2022-01-10": 22336,
-  "2022-01-11": 22336,
-  "2022-01-12": 22335,
-  "2022-01-13": 22339,
-  "2022-01-14": 22341,
-  "2022-01-15": 22341,
-  "2022-01-16": 22341,
-  "2022-01-17": 22341,
-  "2022-01-18": 22340,
-  "2022-01-19": 22336,
-  "2022-01-20": 22337,
-  "2022-01-21": 22336,
-  "2022-01-22": 22333,
-  "2022-01-23": 22334,
-  "2022-01-24": 22334,
-  "2022-01-25": 22334,
-  "2022-01-26": 22336,
-  "2022-01-27": 22336,
-  "2022-01-28": 22336,
-  "2022-01-29": 22335,
-  "2022-01-30": 22334,
-  "2022-01-31": 22336,
-  "2022-02-01": 22335,
-  "2022-02-02": 22334,
-  "2022-02-03": 22331,
-  "2022-02-04": 22333,
-  "2022-02-05": 22333,
-  "2022-02-06": 22335,
-  "2022-02-07": 22332,
-  "2022-02-08": 22331,
-  "2022-02-09": 22328,
-  "2022-02-10": 22330,
-  "2022-02-11": 22328,
-  "2022-02-12": 22329,
-  "2022-02-13": 22328,
-  "2022-02-14": 22328,
-  "2022-02-15": 22324,
-  "2022-02-16": 22325,
-  "2022-02-17": 22320,
-  "2022-02-18": 22316,
-  "2022-02-19": 22315,
-  "2022-02-20": 22313,
-  "2022-02-21": 22312,
-  "2022-02-22": 22313,
-  "2022-02-23": 22314,
-  "2022-02-24": 22313,
-  "2022-02-25": 22314,
-  "2022-02-26": 22309,
-  "2022-02-27": 22307,
-  "2022-02-28": 22307,
-  "2022-03-01": 22307,
-  "2022-03-02": 22307,
-  "2022-03-03": 22309,
-  "2022-03-04": 22311,
-  "2022-03-05": 22309,
-  "2022-03-06": 22311,
-  "2022-03-07": 22314,
-  "2022-03-08": 22313,
-  "2022-03-09": 22312,
-  "2022-03-10": 22310,
-  "2022-03-11": 22311,
-  "2022-03-12": 22308,
-  "2022-03-13": 22310,
-  "2022-03-14": 22308,
-  "2022-03-15": 22307,
-  "2022-03-16": 22309,
-  "2022-03-17": 22309,
-  "2022-03-18": 22305,
-  "2022-03-19": 22304,
-  "2022-03-20": 22304,
-  "2022-03-21": 22306,
-  "2022-03-22": 22307,
-  "2022-03-23": 22309,
-  "2022-03-24": 22309,
-  "2022-03-25": 22307,
-  "2022-03-26": 22306,
-  "2022-03-27": 22304,
-  "2022-03-28": 22302,
-  "2022-03-30": 22301,
-  "2022-03-31": 22300,
-  "2022-04-01": 22300,
-  "2022-04-02": 22300,
-  "2022-04-03": 22300,
-  "2022-04-04": 22300,
-  "2022-04-05": 22300,
-  "2022-04-06": 22300,
-  "2022-04-07": 22300,
-  "2022-04-08": 22300,
-  "2022-04-09": 22300,
-  "2022-04-10": 22300,
-  "2022-04-11": 22300,
-  "2022-04-12": 22300,
-  "2022-04-13": 22300,
-  "2022-04-14": 22300,
-  "2022-04-15": 22300,
-  "2022-04-16": 22300,
-  "2022-04-17": 22300,
-  "2022-04-18": 22300,
-  "2022-04-19": 22300,
-  "2022-04-20": 22300,
-  "2022-04-21": 22300,
-  "2022-04-22": 22300,
-  "2022-04-23": 22300,
-  "2022-04-24": 22300,
-  "2022-04-25": 22300,
-  "2022-04-26": 22300,
-  "2022-04-27": 22300,
-  "2022-04-28": 22300,
-  "2022-04-29": 22300,
-  "2022-04-30": 22300,
-  "2022-05-01": 22300,
-  "2022-05-02": 22300,
-  "2022-05-03": 22300,
-  "2022-05-04": 22300,
-  "2022-05-05": 22300,
-  "2022-05-06": 22300,
-  "2022-05-07": 22300,
-  "2022-05-08": 22300,
-  "2022-05-09": 22300,
-  "2022-05-10": 22300,
-  "2022-05-11": 22300,
-  "2022-05-12": 22300,
-  "2022-05-13": 22300,
-  "2022-05-14": 22300,
-  "2022-05-15": 22300,
-  "2022-05-16": 22300,
-  "2022-05-17": 22300,
-  "2022-05-18": 22300,
-  "2022-05-19": 22300,
-  "2022-05-20": 22300,
-  "2022-05-21": 22300,
-  "2022-05-22": 22300,
-  "2022-05-23": 22300,
-  "2022-05-24": 22300,
-  "2022-05-25": 22300,
-  "2022-05-26": 22300,
-  "2022-05-27": 22300,
-  "2022-05-28": 22300,
-  "2022-05-29": 22300,
-  "2022-05-30": 22300,
-  "2022-05-31": 22300,
-  "2022-06-01": 22300,
-  "2022-06-02": 22300,
-  "2022-06-03": 22300,
-  "2022-06-04": 22300,
-  "2022-06-05": 22300,
-  "2022-06-06": 22300,
-  "2022-06-07": 22300,
-  "2022-06-08": 22300,
-  "2022-06-09": 22300,
-  "2022-06-10": 22300,
-  "2022-06-11": 22300,
-  "2022-06-12": 22300,
-  "2022-06-13": 22300,
-  "2022-06-14": 22300,
-  "2022-06-15": 22300,
-  "2022-06-16": 22300,
-  "2022-06-17": 22300,
-  "2022-06-18": 22300,
-  "2022-06-19": 22300,
-  "2022-06-20": 22300,
-  "2022-06-21": 22300,
-  "2022-06-22": 22300,
-  "2022-06-23": 22300,
-  "2022-06-24": 22300,
-  "2022-06-25": 22300,
-  "2022-06-26": 22300,
-  "2022-06-27": 22300,
-  "2022-06-28": 22300,
-  "2022-06-29": 22300,
-  "2022-06-30": 22300,
-  "2022-07-01": 22300,
-  "2022-07-02": 22300,
-  "2022-07-03": 22300,
-  "2022-07-04": 22300,
-  "2022-07-05": 22300,
-  "2022-07-06": 22300,
-  "2022-07-07": 22300,
-  "2022-07-08": 22300,
-  "2022-07-09": 22300,
-  "2022-07-10": 22300,
-  "2022-07-11": 22300,
-  "2022-07-12": 22300,
-  "2022-07-13": 22300,
-  "2022-07-14": 22300,
-  "2022-07-15": 22300,
-  "2022-07-16": 22300,
-  "2022-07-17": 22300,
-  "2022-07-18": 22300,
-  "2022-07-19": 22300,
-  "2022-07-20": 22300,
-  "2022-07-21": 22300,
-  "2022-07-22": 22300,
-  "2022-07-23": 22300,
-  "2022-07-24": 22300,
-  "2022-07-25": 22300,
-  "2022-07-26": 22300,
-  "2022-07-27": 22300,
-  "2022-07-28": 22300,
-  "2022-07-29": 22300,
-  "2022-07-30": 22300,
-  "2022-07-31": 22300,
-  "2022-08-01": 22300,
-  "2022-08-02": 22300,
-  "2022-08-03": 22300,
-  "2022-08-04": 22300,
-  "2022-08-05": 22300,
-  "2022-08-06": 22300,
-  "2022-08-07": 22300,
-  "2022-08-08": 22300,
-  "2022-08-09": 22300,
-  "2022-08-10": 22300,
-  "2022-08-11": 22300,
-  "2022-08-12": 22300,
-  "2022-08-13": 22300,
-  "2022-08-14": 22300,
-  "2022-08-15": 22300,
-  "2022-08-16": 22300,
-  "2022-08-17": 22300,
-  "2022-08-18": 22300,
-  "2022-08-19": 22300,
-  "2022-08-20": 22300,
-  "2022-08-21": 22300,
-  "2022-08-22": 22300,
-  "2022-08-23": 22300,
-  "2022-08-24": 22300,
-  "2022-08-25": 22300,
-  "2022-08-26": 22300,
-  "2022-08-27": 22300,
-  "2022-08-28": 22300,
-  "2022-08-29": 22300,
-  "2022-08-30": 22300,
-  "2022-08-31": 22300,
-  "2022-09-01": 22300,
-  "2022-09-02": 22300,
-  "2022-09-03": 22300,
-  "2022-09-04": 22300,
-  "2022-09-05": 22300,
-  "2022-09-06": 22300,
-  "2022-09-07": 22300,
-  "2022-09-09": 22300,
-  "2022-09-10": 22300,
-  "2022-09-11": 22300,
-  "2022-09-12": 22300,
-  "2022-09-13": 22300,
-  "2022-09-15": 22300,
-  "2022-09-16": 22300,
-  "2022-09-17": 22300,
-  "2022-09-18": 22300,
-  "2022-09-19": 22300,
-  "2022-09-20": 22300,
-  "2022-09-21": 22300,
-  "2022-09-22": 22300,
-  "2022-09-23": 22300,
-  "2022-09-24": 22300,
-  "2022-09-25": 22300,
-  "2022-09-26": 22300,
-  "2022-09-27": 22300,
-  "2022-09-28": 22300,
-  "2022-09-29": 22300,
-  "2022-09-30": 22300,
-  "2022-10-01": 22300,
-  "2022-10-02": 22300,
-  "2022-10-03": 22300,
-  "2022-10-04": 22300,
-  "2022-10-05": 22300,
-  "2022-10-06": 22300,
-  "2022-10-07": 22300,
-  "2022-10-08": 22300,
-  "2022-10-09": 22300,
-  "2022-10-10": 22300,
-  "2022-10-11": 22300,
-  "2022-10-12": 22300,
-  "2022-10-13": 22300,
-  "2022-10-14": 22300,
-  "2022-10-15": 22300,
-  "2022-10-16": 22300,
-  "2022-10-17": 22300,
-  "2022-10-18": 22300,
-  "2022-10-19": 22300,
-  "2022-10-20": 22300,
-  "2022-10-21": 22300,
-  "2022-10-22": 22300,
-  "2022-10-23": 22300,
-  "2022-10-24": 22300,
-  "2022-10-25": 22300,
-  "2022-10-26": 22300,
-  "2022-10-27": 22300,
-  "2022-10-28": 22300,
-  "2022-10-29": 22300,
-  "2022-10-30": 22300,
-  "2022-10-31": 22300,
-  "2022-11-01": 22300,
-  "2022-11-02": 22300,
-  "2022-11-03": 22300,
-  "2022-11-04": 22300,
-  "2022-11-05": 22300,
-  "2022-11-06": 22300,
-  "2022-11-07": 22300,
-  "2022-11-08": 22300,
-  "2022-11-09": 22300,
-  "2022-11-10": 22300,
-  "2022-11-11": 22300,
-  "2022-11-12": 22300,
-  "2022-11-13": 22300,
-  "2022-11-14": 22300,
-  "2022-11-15": 22300,
-  "2022-11-16": 22300,
-  "2022-11-17": 22300,
-  "2022-11-18": 22300,
-  "2022-11-19": 22300,
-  "2022-11-20": 22300,
-  "2022-11-21": 22300,
-  "2022-11-22": 22300,
-  "2022-11-23": 22300,
-  "2022-11-24": 22300,
-  "2022-11-25": 22300,
-  "2022-11-26": 22300,
-  "2022-11-27": 22300,
-  "2022-11-28": 22300,
-  "2022-11-29": 22300,
-  "2022-11-30": 22300,
-  "2022-12-01": 22300,
-  "2022-12-02": 22300,
-  "2022-12-03": 22300,
-  "2022-12-04": 22300,
-  "2022-12-05": 22300,
-  "2022-12-06": 22300,
-  "2022-12-07": 22300,
-  "2022-12-08": 22300,
-  "2022-12-09": 22300,
-  "2022-12-10": 22300,
-  "2022-12-11": 22300,
-  "2022-12-12": 22300,
-  "2022-12-13": 22300,
-  "2022-12-14": 22300,
-  "2022-12-15": 22300,
-  "2022-12-16": 22300,
-  "2022-12-17": 22300,
-  "2022-12-18": 22300,
-  "2022-12-19": 22300,
-  "2022-12-20": 22300,
-  "2022-12-21": 22300,
-  "2022-12-22": 22300,
-  "2022-12-24": 22300,
-  "2022-12-25": 22300,
-  "2022-12-26": 22300,
-  "2022-12-27": 22300,
-  "2022-12-28": 22300,
-  "2022-12-29": 22300,
-  "2022-12-30": 22300,
-  "2022-12-31": 22300,
-  "2023-01-01": 22300,
-  "2023-01-02": 22300,
-  "2023-01-03": 22300,
-  "2023-01-04": 22300,
-  "2023-01-05": 22300,
-  "2023-01-06": 22300,
-  "2023-01-07": 22300,
-  "2023-01-08": 22300,
-  "2023-01-09": 22300,
-  "2023-01-10": 22300,
-  "2023-01-11": 22300,
-  "2023-01-12": 22300,
-  "2023-01-13": 22300,
-  "2023-01-14": 22300,
-  "2023-01-15": 22300,
-  "2023-01-16": 22300,
-  "2023-01-17": 22300,
-  "2023-01-18": 22300,
-  "2023-01-19": 22300,
-  "2023-01-20": 22300,
-  "2023-01-21": 22300,
-  "2023-01-22": 22300,
-  "2023-01-23": 22300,
-  "2023-01-24": 22300,
-  "2023-01-25": 22300,
-  "2023-01-26": 22300,
-  "2023-01-27": 22300,
-  "2023-01-28": 22300,
-  "2023-01-29": 22300,
-  "2023-01-30": 22300,
-  "2023-01-31": 22300,
-  "2023-02-01": 22300,
-  "2023-02-02": 22300,
-  "2023-02-03": 22300,
-  "2023-02-04": 22300,
-  "2023-02-05": 22300,
-  "2023-02-06": 22300,
-  "2023-02-07": 22300,
-  "2023-02-08": 22300,
-  "2023-02-09": 22300,
-  "2023-02-10": 22300,
-  "2023-02-11": 22300,
-  "2023-02-12": 22300,
-  "2023-02-13": 22300,
-  "2023-02-14": 22300,
-  "2023-02-15": 22300,
-  "2023-02-16": 22300,
-  "2023-02-17": 22300,
-  "2023-02-18": 22300,
-  "2023-02-19": 22300,
-  "2023-02-20": 22300,
-  "2023-02-21": 22300,
-  "2023-02-22": 22300,
-  "2023-02-23": 22300,
-  "2023-02-24": 22300,
-  "2023-02-25": 22300,
-  "2023-02-26": 22300,
-  "2023-02-27": 22300,
-  "2023-02-28": 22300,
-  "2023-03-01": 22300,
-  "2023-03-02": 22300,
-  "2023-03-03": 22300,
-  "2023-03-04": 22300,
-  "2023-03-05": 22300,
-  "2023-03-06": 22300,
-  "2023-03-07": 22300,
-  "2023-03-08": 22300,
-  "2023-03-09": 22300,
-  "2023-03-10": 22300,
-  "2023-03-11": 22300,
-  "2023-03-12": 22300,
-  "2023-03-13": 22300,
-  "2023-03-14": 22300,
-  "2023-03-15": 22300,
-  "2023-03-16": 22300,
-  "2023-03-17": 22300,
-  "2023-03-18": 22300,
-  "2023-03-19": 22300,
-  "2023-03-20": 22300,
-  "2023-03-21": 22300,
-  "2023-03-22": 22300,
-  "2023-03-23": 22300,
-  "2023-03-24": 22300,
-  "2023-03-25": 22300,
-  "2023-03-26": 22300,
-  "2023-03-27": 22300,
-  "2023-03-28": 22300,
-  "2023-03-29": 22300,
-  "2023-03-30": 22300,
-  "2023-03-31": 22300,
-  "2023-04-01": 22300,
-  "2023-04-02": 22300,
-  "2023-04-03": 22300,
-  "2023-04-04": 22300,
-  "2023-04-05": 22300,
-  "2023-04-06": 22300,
-  "2023-04-07": 22300,
-  "2023-04-09": 22300,
-  "2023-04-10": 22300,
-  "2023-04-11": 22300,
-  "2023-04-12": 22300,
-  "2023-04-13": 22300,
-  "2023-04-14": 22300,
-  "2023-04-15": 22300,
-  "2023-04-16": 22300,
-  "2023-04-17": 22300,
-  "2023-04-18": 22300,
-  "2023-04-19": 22300,
-  "2023-04-20": 22300,
-  "2023-04-21": 22300,
-  "2023-04-22": 22300,
-  "2023-04-23": 22300,
-  "2023-04-24": 22300,
-  "2023-04-25": 22300,
-  "2023-04-26": 22300,
-  "2023-04-27": 22300,
-  "2023-04-28": 22300,
-  "2023-04-29": 22300,
-  "2023-04-30": 22300,
-  "2023-05-01": 22300,
-  "2023-05-02": 22300,
-  "2023-05-03": 22300,
-  "2023-05-04": 22300,
-  "2023-05-05": 22300,
-  "2023-05-06": 22300,
-  "2023-05-07": 22300,
-  "2023-05-08": 22300,
-  "2023-05-09": 22300,
-  "2023-05-10": 22300,
-  "2023-05-11": 22300,
-  "2023-05-12": 22300,
-  "2023-05-13": 22300,
-  "2023-05-14": 22300,
-  "2023-05-15": 22300,
-  "2023-05-16": 22300,
-  "2023-05-17": 22300,
-  "2023-05-18": 22300,
-  "2023-05-19": 22300,
-  "2023-05-20": 22300,
-  "2023-05-21": 22300,
-  "2023-05-22": 22300,
-  "2023-05-23": 22300,
-  "2023-05-24": 22300,
-  "2023-05-25": 22300,
-  "2023-05-26": 22300,
-  "2023-05-27": 22300,
-  "2023-05-28": 22300,
-  "2023-05-29": 22300,
-  "2023-05-30": 22300,
-  "2023-05-31": 22300,
-  "2023-06-01": 22300,
-  "2023-06-02": 22300,
-  "2023-06-03": 22300,
-  "2023-06-04": 22300,
-  "2023-06-05": 22300,
-  "2023-06-06": 22300,
-  "2023-06-07": 22300,
-  "2023-06-08": 22300,
-  "2023-06-09": 22300,
-  "2023-06-10": 22300,
-  "2023-06-11": 22300,
-  "2023-06-12": 22300,
-  "2023-06-13": 22300,
-  "2023-06-14": 22300,
-  "2023-06-15": 22300,
-  "2023-06-16": 22300,
-  "2023-06-17": 22300,
-  "2023-06-18": 22300,
-  "2023-06-19": 22300,
-  "2023-06-20": 22300,
-  "2023-06-21": 22300,
-  "2023-06-22": 22300,
-  "2023-06-23": 22300,
-  "2023-06-24": 22300,
-  "2023-06-25": 22300,
-  "2023-06-26": 22300,
-  "2023-06-27": 22300,
-  "2023-06-28": 22300,
-  "2023-06-29": 22300,
-  "2023-06-30": 22300,
-  "2023-07-01": 22300,
-  "2023-07-02": 22300,
-  "2023-07-03": 22300,
-  "2023-07-04": 22300,
-  "2023-07-05": 22300,
-  "2023-07-06": 22300,
-  "2023-07-07": 22300,
-  "2023-07-08": 22300,
-  "2023-07-09": 22300,
-  "2023-07-10": 22300,
-  "2023-07-11": 22300,
-  "2023-07-12": 22300,
-  "2023-07-13": 22300,
-  "2023-07-14": 22300,
-  "2023-07-15": 22300,
-  "2023-07-16": 22300,
-  "2023-07-17": 22300,
-  "2023-07-18": 22300,
-  "2023-07-19": 22300,
-  "2023-07-20": 22300,
-  "2023-07-21": 22300,
-  "2023-07-22": 22300,
-  "2023-07-23": 22300,
-  "2023-07-24": 22300,
-  "2023-07-25": 22300,
-  "2023-07-26": 22300,
-  "2023-07-27": 22300,
-  "2023-07-28": 22300,
-  "2023-07-29": 22300,
-  "2023-07-30": 22300,
-  "2023-07-31": 22300,
-  "2023-08-01": 22300,
-  "2023-08-02": 22300,
-  "2023-08-03": 22300,
-  "2023-08-04": 22300,
-  "2023-08-05": 22300,
-  "2023-08-06": 22300,
-  "2023-08-07": 22300,
-  "2023-08-08": 22300,
-  "2023-08-09": 22300,
-  "2023-08-10": 22300,
-  "2023-08-11": 22300,
-  "2023-08-12": 22300,
-  "2023-08-13": 22300,
-  "2023-08-14": 22300,
-  "2023-08-15": 22300,
-  "2023-08-16": 22300,
-  "2023-08-17": 22300,
-  "2023-08-18": 22300,
-  "2023-08-19": 22300,
-  "2023-08-20": 22300,
-  "2023-08-21": 22300,
-  "2023-08-22": 22300,
-  "2023-08-23": 22300,
-  "2023-08-24": 22300,
-  "2023-08-25": 22300,
-  "2023-08-26": 22300,
-  "2023-08-27": 22300,
-  "2023-08-28": 22300,
-  "2023-08-29": 22300,
-  "2023-08-30": 22300,
-  "2023-08-31": 22300,
-  "2023-09-01": 22300,
-  "2023-09-02": 22300,
-  "2023-09-03": 22300,
-  "2023-09-04": 22300,
-  "2023-09-05": 22300,
-  "2023-09-06": 22300,
-  "2023-09-07": 22300,
-  "2023-09-08": 22300,
-  "2023-09-09": 22300,
-  "2023-09-10": 22300,
-  "2023-09-11": 22300,
-  "2023-09-12": 22300,
-  "2023-09-13": 22300,
-  "2023-09-14": 22300,
-  "2023-09-15": 22300,
-  "2023-09-16": 22300,
-  "2023-09-17": 22300,
-  "2023-09-18": 22300,
-  "2023-09-19": 22300,
-  "2023-09-20": 22300,
-  "2023-09-21": 22300,
-  "2023-09-22": 22300,
-  "2023-09-23": 22300,
-  "2023-09-24": 22300,
-  "2023-09-25": 22300,
-  "2023-09-26": 22300,
-  "2023-09-27": 22300,
-  "2023-09-28": 22300,
-  "2023-09-29": 22300,
-  "2023-09-30": 22300,
-  "2023-10-01": 22300,
-  "2023-10-02": 22300,
-  "2023-10-03": 22300,
-  "2023-10-04": 22300,
-  "2023-10-05": 22300,
-  "2023-10-06": 22300,
-  "2023-10-07": 22300,
-  "2023-10-08": 22300,
-  "2023-10-09": 22300,
-  "2023-10-10": 22300,
-  "2023-10-11": 22300,
-  "2023-10-12": 22300,
-  "2023-10-13": 22300,
-  "2023-10-14": 22300,
-  "2023-10-15": 22300,
-  "2023-10-16": 22300,
-  "2023-10-17": 22300,
-  "2023-10-18": 22300,
-  "2023-10-19": 22300,
-  "2023-10-20": 22300,
-  "2023-10-21": 22300,
-  "2023-10-22": 22300,
-  "2023-10-23": 22300,
-  "2023-10-24": 22300,
-  "2023-10-25": 22300,
-  "2023-10-26": 22300,
-  "2023-10-27": 22300,
-  "2023-10-28": 22300,
-  "2023-10-29": 22300,
-  "2023-10-30": 22300,
-  "2023-10-31": 22300,
-  "2023-11-01": 22300,
-  "2023-11-02": 22300,
-  "2023-11-03": 22300,
-  "2023-11-04": 22300,
-  "2023-11-05": 22300,
-  "2023-11-06": 22300,
-  "2023-11-07": 22300,
-  "2023-11-08": 22300,
-  "2023-11-09": 22300,
-  "2023-11-10": 22300,
-  "2023-11-11": 22300,
-  "2023-11-12": 22300,
-  "2023-11-13": 22300,
-  "2023-11-14": 22300,
-  "2023-11-15": 22300,
-  "2023-11-16": 22300,
-  "2023-11-17": 22300,
-  "2023-11-18": 22300,
-  "2023-11-19": 22300,
-  "2023-11-20": 22300,
-  "2023-11-21": 22300,
-  "2023-11-22": 22300,
-  "2023-11-23": 22300,
-  "2023-11-24": 22300,
-  "2023-11-25": 22300,
-  "2023-11-26": 22300,
-  "2023-11-27": 22300,
-  "2023-11-28": 22300,
-  "2023-11-29": 22300,
-  "2023-11-30": 22300,
-  "2023-12-01": 22300,
-  "2023-12-02": 22300,
-  "2023-12-03": 22300,
-  "2023-12-04": 22300,
-  "2023-12-05": 22300,
-  "2023-12-06": 22300,
-  "2023-12-07": 22300,
-  "2023-12-08": 22300,
-  "2023-12-09": 22300,
-  "2023-12-10": 22300,
-  "2023-12-11": 22300,
-  "2023-12-12": 22300,
-  "2023-12-13": 22300,
-  "2023-12-14": 22300,
-  "2023-12-15": 22300,
-  "2023-12-16": 22300,
-  "2023-12-17": 22300,
-  "2023-12-18": 22300,
-  "2023-12-19": 22300,
-  "2023-12-20": 22300,
-  "2023-12-21": 22300,
-  "2023-12-22": 22300,
-  "2023-12-23": 22300,
-  "2023-12-24": 22300,
-  "2023-12-25": 22300,
-  "2023-12-26": 22300,
-  "2023-12-27": 22300,
-  "2023-12-30": 22300,
-  "2023-12-31": 22300,
-  "2024-01-01": 22300,
-  "2024-01-02": 22300,
-  "2024-01-03": 22300
+  "2024-01-17": 22300,
+  "date_first_scraped": "2021-12-21",
+  "description": "Readings from some of the best minds of the beat generation.",
+  "name": "The Beats",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539666,
+      "name": "(The Cat Inside) Excerpts",
+      "url": "https://open.spotify.com/track/0qGyh9Evx0iTfZjMklTYRA"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453800,
+      "name": "103rd Street Boys",
+      "url": "https://open.spotify.com/track/4nOLBP23ZoAer1BrXKaWPQ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299773,
+      "name": "19 Haiku Poems",
+      "url": "https://open.spotify.com/track/5PKugnZl3kTCQtxMPQSXEZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57573,
+      "name": "4-D Man",
+      "url": "https://open.spotify.com/track/6fii4BCP6ZwScsJ7IUzzY2"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35333,
+      "name": "A Mad Gleam",
+      "url": "https://open.spotify.com/track/1RpOeP8uRw5UzpwugY5Geq"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276493,
+      "name": "A Message From Dr. Benway / 2nd Excerpt from \u201cThe Place Of Dead Roads\u201d",
+      "url": "https://open.spotify.com/track/7mKVsEyLhhpt5NDh3XJBph"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483693,
+      "name": "A Moveable Feast Part 1",
+      "url": "https://open.spotify.com/track/6KPOUzgOwLxDibSK8fJrH5"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504106,
+      "name": "A Moveable Feast Part 2",
+      "url": "https://open.spotify.com/track/3oI4xXUfPcmIOkAgxUYFBi"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486413,
+      "name": "A Moveable Feast Part 3",
+      "url": "https://open.spotify.com/track/08Dzal6K1kEWqdOq4SQWlU"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89466,
+      "name": "A Poem Begun To See How Good My Head Still Is",
+      "url": "https://open.spotify.com/track/3qC6MDnFyenKNEUMf6HGot"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162533,
+      "name": "A Supermarket in California",
+      "url": "https://open.spotify.com/track/0SQOTNasN8squngrhUQIBV"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137866,
+      "name": "A Supermarket In California - Live / 1/29/1959",
+      "url": "https://open.spotify.com/track/657iUiUeV3fXh558KOKkje"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365826,
+      "name": "A Top Level Conference Is In Progress",
+      "url": "https://open.spotify.com/track/6IKO9HYxnV1rbGWj6I1F5w"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75666,
+      "name": "Abraham (with Steve Allen)",
+      "url": "https://open.spotify.com/track/5SKevimNJJgiEBvoBSc9ax"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41666,
+      "name": "After The Big Parade",
+      "url": "https://open.spotify.com/track/5EKD9tJnpY0YOVRNUFDT6R"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139505,
+      "name": "Afternoon with Charles",
+      "url": "https://open.spotify.com/track/7lvGxvXDO8PSx3doMLAMhf"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 751426,
+      "name": "Ah Pook Is The Mayan God Of Death",
+      "url": "https://open.spotify.com/track/6Yr2SryLTh9WAgSCpuqrNb"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23640,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/6VpRUCcktNnaOCRQTo1L9v"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289133,
+      "name": "America",
+      "url": "https://open.spotify.com/track/6XVVPboSP8bsaNHRditnk9"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544133,
+      "name": "America",
+      "url": "https://open.spotify.com/track/3pkLGGAspUKsKAtoCLlAf5"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110733,
+      "name": "America Give A Shit",
+      "url": "https://open.spotify.com/track/03np02gzxslN1fgyNfsk7T"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599706,
+      "name": "American Haikus",
+      "url": "https://open.spotify.com/track/2sCAMaNVzzYYFtoSRU4bMo"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79533,
+      "name": "And The Tea Will Seem Golden",
+      "url": "https://open.spotify.com/track/0anBQwgZGTkR10RN441N8m"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408733,
+      "name": "As Esperanza Turns To Go Inside; Tia Maria, Tio Gordo",
+      "url": "https://open.spotify.com/track/5yOKshRqGSoXyOY5InW4d0"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180240,
+      "name": "Bengal Paraphrase' Poem Series",
+      "url": "https://open.spotify.com/track/4iG7bxfEvCrsIOmZQelqRW"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38933,
+      "name": "Benway",
+      "url": "https://open.spotify.com/track/2zxwW1W9LUXVuKF8I5SVOy"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53266,
+      "name": "Big Eats",
+      "url": "https://open.spotify.com/track/4xbxpAQdPuJRNvCciWZIpS"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "Bowery Blues (with Steve Allen)",
+      "url": "https://open.spotify.com/track/5O8sxKhCT5ub2HoXVV7ubt"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305295,
+      "name": "Bukowski",
+      "url": "https://open.spotify.com/track/52AiZKLz4GBWmjSLc3gqh2"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160310,
+      "name": "Bukowski - Live",
+      "url": "https://open.spotify.com/track/3FHEE9Ee1XfObudsTYCNh1"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310044,
+      "name": "Bye to Everything",
+      "url": "https://open.spotify.com/track/4MTdnXppA4SEb2JNVpzzZe"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24333,
+      "name": "Captain Clark Welcomes You Aboard",
+      "url": "https://open.spotify.com/track/1rQGd1ZKgquO7UqBvZLzEZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14973,
+      "name": "Cat Haiku",
+      "url": "https://open.spotify.com/track/18DCqL64EWBokagpR0kl83"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180047,
+      "name": "Charles Reporting",
+      "url": "https://open.spotify.com/track/1MZ0RZgDdXbSLO3MWmfXIy"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223266,
+      "name": "Charlie Parker (with Steve Allen)",
+      "url": "https://open.spotify.com/track/2TZeIQBS7m2OUA8MS7TIVM"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Cherry Blues",
+      "url": "https://open.spotify.com/track/13aBxl1ECNXasU7UOmlWUc"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544194,
+      "name": "Clerks and You",
+      "url": "https://open.spotify.com/track/3YsB63Synkm4fv9VSVupLM"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155760,
+      "name": "Colonel Bradfield",
+      "url": "https://open.spotify.com/track/5weWiscBhCK3IospIap8i1"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605040,
+      "name": "Conclusion of the Railroad Earth",
+      "url": "https://open.spotify.com/track/4tua6zOMoAbDZj23p644OH"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67893,
+      "name": "Creedmore State Mental Hospital Nightshift",
+      "url": "https://open.spotify.com/track/7JPllfgNr75ny3T9iIyQHe"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116773,
+      "name": "Creepy Letter, Cut-Up At The Beat Hotel In Paris",
+      "url": "https://open.spotify.com/track/0qPFkR9rwPu4dX4yTWk9GW"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284920,
+      "name": "Daily Life",
+      "url": "https://open.spotify.com/track/7mOidmphhpsOxJxzJCRt1M"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30040,
+      "name": "Dave Brubeck (with Steve Allen)",
+      "url": "https://open.spotify.com/track/5yEB6h5AgJiElkMXMPtKnR"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/7xe63Q3lYm4r3RcZiCLp5a"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64373,
+      "name": "Deadbelly (with Steve Allen)",
+      "url": "https://open.spotify.com/track/4rxoDl5KsVSSY1vuWO99vx"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41133,
+      "name": "Deadline Dragon Comic For Mark",
+      "url": "https://open.spotify.com/track/0R5mlDZwhABIgyE7FRdvv6"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 611066,
+      "name": "Death to Van Gogh's Ear",
+      "url": "https://open.spotify.com/track/0gjyjcataFL3EQRfIaSobT"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360093,
+      "name": "Dinosaurs",
+      "url": "https://open.spotify.com/track/1RHMaHQ080D7XkdlGBfE5e"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522933,
+      "name": "Doctor Pierson",
+      "url": "https://open.spotify.com/track/7vKoPfIxJih9dsdTeooJ3O"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121466,
+      "name": "Dr. Benway Is Operating In An Auditorium Filled With Students",
+      "url": "https://open.spotify.com/track/0RYncioA3ECsoS01SfBsy4"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51400,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/0K7PCZ4f1iT195pouPQJZE"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Dream From China November 16, 1984",
+      "url": "https://open.spotify.com/track/0eNSFWXzBU3VoOTRWRw2Vn"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40493,
+      "name": "East 12th Street",
+      "url": "https://open.spotify.com/track/5LFEyq3zZSwhznXR3GbnoO"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315306,
+      "name": "Elephant In The Meditation Room",
+      "url": "https://open.spotify.com/track/0mMRybThXaqzavgPI9Vgtp"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203373,
+      "name": "Europe, Europe",
+      "url": "https://open.spotify.com/track/6c7K3QYci2zVoV14nP59m2"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76733,
+      "name": "Every Man A God",
+      "url": "https://open.spotify.com/track/5aCcrYvXQZWPPwtqJ27sbM"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126333,
+      "name": "Fats Terminal Has Organized A Purple Ass Stick For Motorcyclists",
+      "url": "https://open.spotify.com/track/3Vt8hRt6vUTWvvqMD0b5cK"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190078,
+      "name": "Finish",
+      "url": "https://open.spotify.com/track/4qqPWvT1MQQNhjLv4LZtb2"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94293,
+      "name": "Fire Report - No Alarm",
+      "url": "https://open.spotify.com/track/5ci3uQ1BsL4PDOhmXDi5YS"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Firecracker (Excerpt)",
+      "url": "https://open.spotify.com/track/52bdCjUnIScYQPyu0FRtsn"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175240,
+      "name": "Footnote To Howl",
+      "url": "https://open.spotify.com/track/0K9NmuMo5aAseCtQfN5dIQ"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146575,
+      "name": "Free - Live",
+      "url": "https://open.spotify.com/track/4wmJEBIjaLI3gj56IjoaFb"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210047,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/4iJx5EwcahVK6FI3hPzHZP"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228173,
+      "name": "From Here To Eternity",
+      "url": "https://open.spotify.com/track/01bPI9fUKRk60eFHVAe6FA"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103106,
+      "name": "Goofing at the Table (with Steve Allen)",
+      "url": "https://open.spotify.com/track/2UzgOjctyJl9N35R0Xr190"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182266,
+      "name": "Green Valentine Blues",
+      "url": "https://open.spotify.com/track/76o3rMbKqoZV2PyA1XTDQQ"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361906,
+      "name": "Hairy",
+      "url": "https://open.spotify.com/track/2T29IZA3yqTmIxWvV11K7u"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Handkerchief Masks, News Cut-Up",
+      "url": "https://open.spotify.com/track/6FmaBI7KpEmFna1grMRqJw"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133960,
+      "name": "Hard Hearted Old Farmer",
+      "url": "https://open.spotify.com/track/06yANiUbu6jbohskMfEIri"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336266,
+      "name": "Hassan Is A Notorious Liquifactionist",
+      "url": "https://open.spotify.com/track/4Hg8KEtUuFsTCFaXEeQ6wx"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163700,
+      "name": "He Wore a Green Silk Shirt",
+      "url": "https://open.spotify.com/track/6Iz343fSkEqtbCbPxMtBCK"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 659800,
+      "name": "History Of Bop",
+      "url": "https://open.spotify.com/track/1dCCgohs3gKsNQvcoFhPJt"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182555,
+      "name": "Hot - Live",
+      "url": "https://open.spotify.com/track/08FjvLoQUeKifP2UB03buH"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181301,
+      "name": "Hot Dog - Live",
+      "url": "https://open.spotify.com/track/3zVYypprl2K1YqZae5ywPy"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1307093,
+      "name": "Howl - Live / 1/29/1959",
+      "url": "https://open.spotify.com/track/2sSHtceOBuK9y63ruNK9r0"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202025,
+      "name": "Hustle",
+      "url": "https://open.spotify.com/track/5YBDa4xkXeCP4tUbeX5Eov"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415840,
+      "name": "I Can Feel The Heat Closing In",
+      "url": "https://open.spotify.com/track/5FrAhFBBB6TU9ycbDhyKv1"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92360,
+      "name": "I Dream Of St Francis",
+      "url": "https://open.spotify.com/track/5xJqCgHsgsjh5x0CG4rtdk"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44066,
+      "name": "I Got A Phone Call From My Heart Today",
+      "url": "https://open.spotify.com/track/6wVNeGHekdfSDLYACCzhZg"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370706,
+      "name": "I Had a Slouch Hat Too One Time (with Steve Allen)",
+      "url": "https://open.spotify.com/track/42hhGl2dcCBbmLPRdekyIP"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122044,
+      "name": "I Met a Genius - Live",
+      "url": "https://open.spotify.com/track/0ca6li1JRWNQoTv0T9514P"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61306,
+      "name": "I Met This Guy Who Died",
+      "url": "https://open.spotify.com/track/3WJJMj4pgVpEXjB8rWuw6t"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198200,
+      "name": "I Was Fooling Around With These Tapes In Hotels",
+      "url": "https://open.spotify.com/track/23vK3v7OS7GPQlJz47hG5N"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515533,
+      "name": "I Was Travelling With The Intolerable Kid On The Nova Lark",
+      "url": "https://open.spotify.com/track/5hiSh7F977V19i5qDoLgp1"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61840,
+      "name": "I'd Love To Shove A Rose",
+      "url": "https://open.spotify.com/track/3kfss9cWkUI52GnIFJySkx"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37240,
+      "name": "I'd Rather Be Thin Than Famous (with Steve Allen)",
+      "url": "https://open.spotify.com/track/1H8uVTIebcTAgkWMXwUco1"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "I've Always Had Problems with Money - Live",
+      "url": "https://open.spotify.com/track/0ltsdZ8cUIALbQ0Vo0kuO3"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48466,
+      "name": "In Back Of The Real",
+      "url": "https://open.spotify.com/track/31GjLvn7ZGjtIM4tEo2uXZ"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145306,
+      "name": "In Mexico The Gimmick Is To Find A Local Junkie With A Government Script",
+      "url": "https://open.spotify.com/track/3CZ9LtwVB0MbocNNjKY4jE"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60400,
+      "name": "Inching, Is This Machine Recording?",
+      "url": "https://open.spotify.com/track/0P8rXPuglc1pVmXCnYjcEk"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57360,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/4XejPT3tRgSRCnKc3lFcNE"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135373,
+      "name": "Introducing John Stanley Hart, He Entered The Bar With The Best Intentions",
+      "url": "https://open.spotify.com/track/69NAKHRDq9gyCJyOadXBU2"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69733,
+      "name": "It's About Time To Identify Oven Area",
+      "url": "https://open.spotify.com/track/2Xwk3weoIfTuGKn4yqcPBb"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 11293,
+      "name": "Jerked Off",
+      "url": "https://open.spotify.com/track/2sewVUA2dWujSLCR2aA4wO"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103866,
+      "name": "Just Checking Your Summer Recordings",
+      "url": "https://open.spotify.com/track/6pV1sVva4nZnQHLhHjOfrH"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116626,
+      "name": "Just Like The Collapse Of Any Currency",
+      "url": "https://open.spotify.com/track/6pSRyjzClhcfBjIRbm8Cse"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Just Say No To Drug Hysteria (Excerpt)",
+      "url": "https://open.spotify.com/track/5f5riTxthRBjqQZ8aVzz0T"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662933,
+      "name": "Kaddish - Part 1",
+      "url": "https://open.spotify.com/track/4h7AJY9FC5MMvh4PX0XZUI"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351933,
+      "name": "Keynote Commentar, Roosevelt After The Inauguration",
+      "url": "https://open.spotify.com/track/4N0dS8irQeVkdQaE6C3ajB"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86440,
+      "name": "Kim Like The Great Gatsby",
+      "url": "https://open.spotify.com/track/6iuFG5y2WKNH68cd5ge2sS"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 733133,
+      "name": "Last Words Of Hassan I Sabbah",
+      "url": "https://open.spotify.com/track/6U6gGmiqMECd5IE4SRY7XZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31040,
+      "name": "Let's Be Lovers",
+      "url": "https://open.spotify.com/track/2Sq8YDulcCDUZBEU1qgUXW"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/4YAEg2lzTJSFtkmPXz3Hal"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Like Mr. Hart, Kim Has A Dark Side To His Character",
+      "url": "https://open.spotify.com/track/1mLspEzvuTbpJVNgzPGLLH"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141641,
+      "name": "Looking for a Job - Live",
+      "url": "https://open.spotify.com/track/5ZHIPdEKdczwB7IHvSfQW6"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "Lucien Midnight: The Sounds Of The Universe In My Window",
+      "url": "https://open.spotify.com/track/2XTBZkEgN8Dgb8uAwYDese"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272133,
+      "name": "M.O.B.",
+      "url": "https://open.spotify.com/track/1TVHK2xNhZiLF0I5JGm7EZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62333,
+      "name": "Male Female Part 1",
+      "url": "https://open.spotify.com/track/0j8dgtrJkwbiSgiSkIrAjL"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71466,
+      "name": "Male Female Part 2",
+      "url": "https://open.spotify.com/track/26MkjLl60UbQJWrFNKojyf"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Mcdougal Street Blues (with Steve Allen)",
+      "url": "https://open.spotify.com/track/6x3zBH2XoNS7SPBne6ZhJi"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Medley: San Francisco Blues (Fragments)",
+      "url": "https://open.spotify.com/track/3mMc4j4Xud6Y31D3dqQATO"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299160,
+      "name": "Meeting Of International Conference Of Technological Psychiatry",
+      "url": "https://open.spotify.com/track/6VLlsXJQZkfGFrF5UsdQii"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56866,
+      "name": "My Bed Is Covered Yellow",
+      "url": "https://open.spotify.com/track/42dwinamMRWUO9MD87Ztnr"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174335,
+      "name": "My Friend Andre - Live",
+      "url": "https://open.spotify.com/track/1onV8MuKJqio9davf8AspS"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50133,
+      "name": "My Mother's Memory Poem",
+      "url": "https://open.spotify.com/track/6cqzGqGdOJjnf1nVmn79j5"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297400,
+      "name": "My Protagonist Kim Carson",
+      "url": "https://open.spotify.com/track/6QfdRMi822dbvnHEfOPnr5"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204892,
+      "name": "Not Living",
+      "url": "https://open.spotify.com/track/5Rhamjm0XRPoXxqqKrNwnz"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354766,
+      "name": "Not the Sky",
+      "url": "https://open.spotify.com/track/26PeCrP42suyOjuXks9rtP"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427800,
+      "name": "October in the Railroad Earth (with Steve Allen)",
+      "url": "https://open.spotify.com/track/1tbK7oglJS7W0E9g2EO28K"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130066,
+      "name": "Old Man Bickford",
+      "url": "https://open.spotify.com/track/3jucWzNQ9XlHIOyTeWMTld"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399106,
+      "name": "Old Western Movies",
+      "url": "https://open.spotify.com/track/7kgUErpAw1mszFA9EKoWVe"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260945,
+      "name": "One for the Shoeshine Man - Live",
+      "url": "https://open.spotify.com/track/1bbin5PEqoOt8psYGrqa4g"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47400,
+      "name": "One Mother (with Steve Allen)",
+      "url": "https://open.spotify.com/track/4bFNZSTJSUTwBKlH8hWhwi"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73866,
+      "name": "Outside The Pier Prowled Like Electric Turtles",
+      "url": "https://open.spotify.com/track/3O7sKS8frFaVxLRcPM02vu"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 3 - Ah!",
+        "url": "https://open.spotify.com/album/1eL5llagUhOOTmcoAKuiJf"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327160,
+      "name": "Pacific High Studio Mantras (Om Ah Hum Vajra Guru Padma Siddhi Hum)",
+      "url": "https://open.spotify.com/track/2AEWivTnmjwp8durbQzkuX"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70466,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/3NMpVtMiQYa6UpIvzVbYXP"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75866,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/37URQwF2kT3Exu4M1SgObV"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120733,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/0l90Fyar3IKxyv7quGtS4Y"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57493,
+      "name": "Poem",
+      "url": "https://open.spotify.com/track/0IuoHvfDByy2UEPjGs1PX5"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278314,
+      "name": "Poems by Charles, Pt. 1",
+      "url": "https://open.spotify.com/track/5Rb0oWvG7TmsGnu9u6oGBf"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184134,
+      "name": "Poems by Charles, Pt. 2",
+      "url": "https://open.spotify.com/track/5L4euQhzoSoVNoueriR9K6"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 849000,
+      "name": "Poems from the Unpublished \"Book of Blues\"",
+      "url": "https://open.spotify.com/track/4jNNOCq56UacYckVWMrL9U"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433440,
+      "name": "Progressive Education",
+      "url": "https://open.spotify.com/track/7tt5KijfBxMWICjt9NWlRL"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21760,
+      "name": "Proximity",
+      "url": "https://open.spotify.com/track/1aJjgQg3VbjiVFGSrUz50S"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258013,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/16uyLirlpz7RvrdVKPOdqe"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82933,
+      "name": "Return To The King Of May",
+      "url": "https://open.spotify.com/track/5t1f5jUT9AeOssUzGwetyh"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78093,
+      "name": "Salt Chunk Mary",
+      "url": "https://open.spotify.com/track/3VTO07WCzNaxb7FUvR7Ojx"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "San Francisco Scene - The Beat Generation",
+      "url": "https://open.spotify.com/track/4v2TCbYbsWALJ3TuL2OSZ2"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35093,
+      "name": "Sea Shanty",
+      "url": "https://open.spotify.com/track/1q5zZ46PWsJ1DsZ9allKey"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102026,
+      "name": "Second Night In New York City After Three Years",
+      "url": "https://open.spotify.com/track/4FrWHpjNonLqxjTJLiSu3n"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210946,
+      "name": "Selection from \u201cThe Wild Boys\u201d / Selection from \u201cThe Name Is Burroughs\u201d",
+      "url": "https://open.spotify.com/track/7uu6dgGoV9Ma9X8iJr9p69"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140880,
+      "name": "Selection from \u201cTwilight\u2019s Last Gleaming\u201d",
+      "url": "https://open.spotify.com/track/2LdcyGRCDs8UQpVixKxoUv"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515666,
+      "name": "Sexual Conditioning",
+      "url": "https://open.spotify.com/track/3uOUK9jAeyvIOMI9ZFIRJZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29200,
+      "name": "Shortest Rhyme Poem",
+      "url": "https://open.spotify.com/track/7Hvl2jPYm38pCINMpEjPhV"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55493,
+      "name": "Signature Change",
+      "url": "https://open.spotify.com/track/0HRT3G4F2QKKKl68YsDJTZ"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Peter Orlovsky",
+          "url": "https://open.spotify.com/artist/6oGvg1EGQnYmonQulap930"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66440,
+      "name": "Snail Poem",
+      "url": "https://open.spotify.com/track/57J2HU5QqAUFYu9HLeinua"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "Sounds of the Universe Coming in My Window (with Steve Allen)",
+      "url": "https://open.spotify.com/track/1BiAZ8NrXHcoVlnClx0FTa"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Speaking of Jack Kerouac / Various readings",
+      "url": "https://open.spotify.com/track/1eKE0uOhqKkXbUgxjroaSI"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48706,
+      "name": "Strange New Cottage In Berkeley",
+      "url": "https://open.spotify.com/track/3KUVaBMiOERfrXikrFkYao"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233732,
+      "name": "Style - Live",
+      "url": "https://open.spotify.com/track/4a9RuftoLcyrSpkKJh4lx8"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118866,
+      "name": "Summer Will",
+      "url": "https://open.spotify.com/track/5GSASIPLCs1cAOjzoqiuFV"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383226,
+      "name": "Sunflower Sutra",
+      "url": "https://open.spotify.com/track/6W9dPUhr8HE7skLG3LAQAt"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231440,
+      "name": "Talks about growing up / Selection from \u201cThe Place Of Dead Roads\u201d",
+      "url": "https://open.spotify.com/track/7JB0QYjXruy1LUEpEYREyU"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Talks about \u201cJamestown\u201d / \u201cI would like to kill somebody before I die.\u201d",
+      "url": "https://open.spotify.com/track/24NCDf16MaimfmvDSrGLD8"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Talks about \u201cJunkie\u201d & \u201cNaked Lunch\u201d",
+      "url": "https://open.spotify.com/track/4nftr7Obewu4IzC7wPRRtI"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201827,
+      "name": "The Best Love Poem I Can Write at the Moment - Live",
+      "url": "https://open.spotify.com/track/0jWvSINxbOd4Owj3a7FrHp"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138634,
+      "name": "The Black Poets - Live",
+      "url": "https://open.spotify.com/track/2R9MXCVNZj37tfMQ9a1dUe"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407266,
+      "name": "The Chief Smiles",
+      "url": "https://open.spotify.com/track/1uj7LDdCdkOVIbT0scAHoJ"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "The Creation of the Morning Line - Live",
+      "url": "https://open.spotify.com/track/0nBvgvXKXsX0Ep8p95iLMt"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "The Do-Rights",
+      "url": "https://open.spotify.com/track/4qorToPR2C2xmszo7PzMqz"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 3 - Ah!",
+        "url": "https://open.spotify.com/album/1eL5llagUhOOTmcoAKuiJf"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126466,
+      "name": "The End",
+      "url": "https://open.spotify.com/track/2hM6ED91XOcvt03RgTVaeN"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "The Evening News",
+      "url": "https://open.spotify.com/track/0Dmf64Ktmi4HidDfE5GRTN"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238004,
+      "name": "The Genius",
+      "url": "https://open.spotify.com/track/5010C9Pq2udu4ai2bbm7LS"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534426,
+      "name": "The Green Automobile",
+      "url": "https://open.spotify.com/track/6gnCH9DAQ0x5VfAcfO7Mqa"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211240,
+      "name": "The Green Nun",
+      "url": "https://open.spotify.com/track/5HR9s4cu7lrqN0769g8h5A"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129826,
+      "name": "The Laboratory Has Been Locked For Three Hours Solid",
+      "url": "https://open.spotify.com/track/3DuANkXrYI83uMigwk1YE9"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171177,
+      "name": "The Last Days of the Suicide Kid - Live",
+      "url": "https://open.spotify.com/track/6zeN543gvpPae9urlDic4k"
+    },
+    {
+      "album": {
+        "name": "Blues and Haikus",
+        "url": "https://open.spotify.com/album/2fMsTR732zfc0x1p3myjBs"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "The Last Hotel & Some of Dharma",
+      "url": "https://open.spotify.com/track/7pVa7aE1T980l9jvZ9fR8g"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96373,
+      "name": "The Moon Her Majesty (with Steve Allen)",
+      "url": "https://open.spotify.com/track/5OKVoUpFcsyEGiro0BEbON"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "The Mummy Piece",
+      "url": "https://open.spotify.com/track/22AxVuMsrwWcfOy1OZ8cZo"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303866,
+      "name": "The Name Is Clem Snide. Mr. Hartcouldn't Hear The Word Death",
+      "url": "https://open.spotify.com/track/06nN4HSFXBMUuZl0WbmkL5"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116173,
+      "name": "The President",
+      "url": "https://open.spotify.com/track/1uL8GkguQPVaAQsirg7FXY"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254133,
+      "name": "The Purple Better One",
+      "url": "https://open.spotify.com/track/5k2lTUJJggLms4Jg2EDgov"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276038,
+      "name": "The Rat - Live",
+      "url": "https://open.spotify.com/track/331h2JlqEaYUREZ7dLjhdr"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247664,
+      "name": "The Real Story",
+      "url": "https://open.spotify.com/track/4C0emiY3UQedCcijCwEnaK"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "The Saints Go Marching Through All The Popular Tunes",
+      "url": "https://open.spotify.com/track/4S1Sc4AlRb8wX9xvmHJRVu"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "The Sex Fiends - Live",
+      "url": "https://open.spotify.com/track/3TYm5OpiwhTuir1EAWWuaU"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245574,
+      "name": "The Shoelace - Live",
+      "url": "https://open.spotify.com/track/5ubwbDGPSCl4xQSKwyMGF2"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175368,
+      "name": "The Shower - Live",
+      "url": "https://open.spotify.com/track/2NCbkyE0OTzWK1rlJN0gvf"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191893,
+      "name": "The Subterraneans",
+      "url": "https://open.spotify.com/track/2oVrVb4gkK0UdetOs3zKyD"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290800,
+      "name": "The Sunflower Sutra - Live / 1/29/1959",
+      "url": "https://open.spotify.com/track/3JuFEPENZsvwoCz0OypfGf"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38826,
+      "name": "The Total Taste Is Here, News Cut-Ups",
+      "url": "https://open.spotify.com/track/0glhTTSAwQjf2yxamSYBF5"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168440,
+      "name": "The Unworthy Vessel",
+      "url": "https://open.spotify.com/track/6TExj99s7NJLF17UO6U75m"
+    },
+    {
+      "album": {
+        "name": "Poetry for the Beat Generation (with Steve Allen)",
+        "url": "https://open.spotify.com/album/60x1kZGarnv6w2a3StdZrf"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112733,
+      "name": "The Wheel of the Quivering Meat Conception (with Steve Allen)",
+      "url": "https://open.spotify.com/track/0cp9wXryoU5ThPOv5rMG2b"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131657,
+      "name": "The White Poets - Live",
+      "url": "https://open.spotify.com/track/4kPn7elwR4w1AmGedfcJsd"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Gregory Corso",
+          "url": "https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "The Whole Mess Almost",
+      "url": "https://open.spotify.com/track/4c6Zh4yDON0k5m8PZ3WsUH"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263706,
+      "name": "The Whole Tamale",
+      "url": "https://open.spotify.com/track/2YxDFECRpOp2uJ3Z6gT0U8"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146226,
+      "name": "The Wild Fruits",
+      "url": "https://open.spotify.com/track/4tPOFNnbCaVxo1yKHjibiA"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185202,
+      "name": "The World's Greatest Loser - Live",
+      "url": "https://open.spotify.com/track/3dYiceOqpphFYfdeYrzFzQ"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222307,
+      "name": "Thinking",
+      "url": "https://open.spotify.com/track/1n3EIDZNd1YxWgH241MkFV"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122133,
+      "name": "This Is Kim Carson",
+      "url": "https://open.spotify.com/track/03jKhkPax90IEzY8bDyCLg"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61133,
+      "name": "Throat Microphone Experiment",
+      "url": "https://open.spotify.com/track/7LChybLscwUXDqQf1tnCzP"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626266,
+      "name": "Tio Mate Smiles",
+      "url": "https://open.spotify.com/track/3OUO6e2KQbYFajD93H4wRl"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Tio Pepe",
+      "url": "https://open.spotify.com/track/0wNubCMBO3meMMA7gAHiV3"
+    },
+    {
+      "album": {
+        "name": "The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry",
+        "url": "https://open.spotify.com/album/2d2gaF3z1xJmtOBUuHPtgj"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "To Jacob Rabinowitz",
+      "url": "https://open.spotify.com/track/3bjAJ7DdEp8pNMNGksk9hl"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330663,
+      "name": "Trading Insults - Live",
+      "url": "https://open.spotify.com/track/3Li6GmrwxZiOzakRQszqSp"
+    },
+    {
+      "album": {
+        "name": "Howl",
+        "url": "https://open.spotify.com/album/4JEramExhZXiMBphRns68o"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240826,
+      "name": "Transcription Of Organ Music",
+      "url": "https://open.spotify.com/track/67aMzuLE2TqYaP30YrNU6b"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Twilight's Last Gleamings",
+      "url": "https://open.spotify.com/track/3zIQx4OHe3OdKfXl5x1yXY"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80600,
+      "name": "Virus B-23",
+      "url": "https://open.spotify.com/track/10IEaUIMnOTOEDWh3VxlcF"
+    },
+    {
+      "album": {
+        "name": "Readings By Jack Kerouac On The Beat Generation",
+        "url": "https://open.spotify.com/album/5cLL0uNJsRQGNxhwT8vAou"
+      },
+      "artists": [
+        {
+          "name": "Jack Kerouac",
+          "url": "https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1019706,
+      "name": "Visions Of Neal (Neal & The Three Stooges)",
+      "url": "https://open.spotify.com/track/5bkPVkZlzDlGTriLXga7X7"
+    },
+    {
+      "album": {
+        "name": "Holy Soul Jelly Roll: Poems & Songs 1949-1993, Vol. 1 - Moloch!",
+        "url": "https://open.spotify.com/album/5ksI6BzidahvDsZl0GDfCH"
+      },
+      "artists": [
+        {
+          "name": "Allen Ginsberg",
+          "url": "https://open.spotify.com/artist/1yA9QiqL6p9Qo3nHFb8DkT"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45240,
+      "name": "Walking At Night in Key West",
+      "url": "https://open.spotify.com/track/5luXMNA7QyUeN4xfoj6cB7"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 685600,
+      "name": "We See The Future Through The Binoculars Of The People",
+      "url": "https://open.spotify.com/track/4jcojtrwXouusm0B739ySN"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "What The Nova Convention Is All About",
+      "url": "https://open.spotify.com/track/2LEpc2c4QE5gqd73KBnmSf"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496266,
+      "name": "What Washington? What Orders?",
+      "url": "https://open.spotify.com/track/3d2ui3MBLZiGv7TAs1EDBl"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427426,
+      "name": "When Did I Stop Wanting To Be President",
+      "url": "https://open.spotify.com/track/5o6bXpooAQsR6YS5Yr78Br"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Where You Belong",
+      "url": "https://open.spotify.com/track/3cenw05jQzqYWd1IFht8rO"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86293,
+      "name": "Word Falling, Photo Falling",
+      "url": "https://open.spotify.com/track/1Kqe9ZspoADijVOlVrYrsJ"
+    },
+    {
+      "album": {
+        "name": "The Best Of William Burroughs From Giorno Poetry Systems",
+        "url": "https://open.spotify.com/album/2zxus4qsYl1TlD5QDQgX9L"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Words Of Advice",
+      "url": "https://open.spotify.com/track/0IOF7mJ0HDoFFIUfakOSKO"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252213,
+      "name": "Writing techniques / Selection from \u201cThe Last Words Of Hassan Sabbah\u201d",
+      "url": "https://open.spotify.com/track/130eQV5GnElKubs4PGZJ0v"
+    },
+    {
+      "album": {
+        "name": "Master Collection",
+        "url": "https://open.spotify.com/album/2oPBqIHB6Bagzay8BnKktx"
+      },
+      "artists": [
+        {
+          "name": "Charles Bukowski",
+          "url": "https://open.spotify.com/artist/3F8lOwDiDfocMHdEorwWWH"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "You Can't Make a Lion out of a Butterfly - Live",
+      "url": "https://open.spotify.com/track/22UQcUQ4onuqLiKxMxDBBS"
+    },
+    {
+      "album": {
+        "name": "A Spoken Breakdown",
+        "url": "https://open.spotify.com/album/77GGrAu9xxuF94rxHIkFAu"
+      },
+      "artists": [
+        {
+          "name": "William S. Burroughs",
+          "url": "https://open.spotify.com/artist/3CcqTY5fsD6Bli5ecGhDKz"
+        }
+      ],
+      "date_added": "2016-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296440,
+      "name": "\u201cDr. Benway Operates\u201d / Memories",
+      "url": "https://open.spotify.com/track/5GmrxR02mNisxTZ53DbNrk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaUR9QvMCPsb"
 }

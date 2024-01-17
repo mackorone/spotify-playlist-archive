@@ -624,7 +624,7 @@
     {
       "album": {
         "name": "edamame",
-        "url": "https://open.spotify.com/album/1SLuIUtFpVOVkHSa6hCaJh"
+        "url": "https://open.spotify.com/album/41ZqskoXGUNcDXR0oScJLB"
       },
       "artists": [
         {
@@ -639,6 +639,28 @@
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 133706,
+      "name": "edamame",
+      "url": "https://open.spotify.com/track/5L2R2zASCgsxfYaeszNXbL"
+    },
+    {
+      "album": {
+        "name": "edamame",
+        "url": "https://open.spotify.com/album/1SLuIUtFpVOVkHSa6hCaJh"
+      },
+      "artists": [
+        {
+          "name": "bbno$",
+          "url": "https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
       "duration_ms": 133706,
       "name": "edamame",
       "url": "https://open.spotify.com/track/5Ly9QJ7BaFLoXyr9ChY6Dv"

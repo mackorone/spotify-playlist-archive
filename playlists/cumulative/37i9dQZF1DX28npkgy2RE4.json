@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209603,
       "name": "All Being Fine",
       "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 246306,
       "name": "Can't Stop The Rain",
       "url": "https://open.spotify.com/track/4nWdyAe1MXWH80xnaKfx3E"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 256402,
       "name": "Desert Woman",
       "url": "https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu"
@@ -4390,6 +4390,28 @@
       "duration_ms": 230366,
       "name": "Magic",
       "url": "https://open.spotify.com/track/5NrIxkSt7Lmem0h7rK4Sgq"
+    },
+    {
+      "album": {
+        "name": "The Years",
+        "url": "https://open.spotify.com/album/7zcCuIj4uZhrx1WfPfe9Gx"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        },
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "date_added": "2023-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "Make It Out (feat. Maisie Peters)",
+      "url": "https://open.spotify.com/track/43to8KLXwPSvEnCgkxW7AN"
     },
     {
       "album": {
@@ -7830,7 +7852,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 196575,
       "name": "Was Always You",
       "url": "https://open.spotify.com/track/5TJVpK0u4QqKqWBy1FV4nj"
@@ -8004,7 +8026,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 169823,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/6v8HAokplXj1ROZQ2UDOLN"

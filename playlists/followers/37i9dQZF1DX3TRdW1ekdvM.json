@@ -1,732 +1,1607 @@
 {
-  "2021-12-28": 42620,
-  "2021-12-29": 42867,
-  "2021-12-30": 43072,
-  "2021-12-31": 43233,
-  "2022-01-01": 43463,
-  "2022-01-02": 43581,
-  "2022-01-03": 43763,
-  "2022-01-04": 44014,
-  "2022-01-05": 44298,
-  "2022-01-06": 44521,
-  "2022-01-07": 44776,
-  "2022-01-08": 45212,
-  "2022-01-09": 45222,
-  "2022-01-10": 45477,
-  "2022-01-11": 45698,
-  "2022-01-12": 45946,
-  "2022-01-13": 46202,
-  "2022-01-14": 46503,
-  "2022-01-15": 47022,
-  "2022-01-16": 47041,
-  "2022-01-17": 47605,
-  "2022-01-18": 47637,
-  "2022-01-19": 47805,
-  "2022-01-20": 48042,
-  "2022-01-21": 48281,
-  "2022-01-22": 48443,
-  "2022-01-23": 48641,
-  "2022-01-24": 48864,
-  "2022-01-25": 49148,
-  "2022-01-26": 49425,
-  "2022-01-27": 49720,
-  "2022-01-28": 49964,
-  "2022-01-29": 50142,
-  "2022-01-30": 50341,
-  "2022-01-31": 50566,
-  "2022-02-01": 50815,
-  "2022-02-02": 51044,
-  "2022-02-03": 51319,
-  "2022-02-04": 51588,
-  "2022-02-05": 51821,
-  "2022-02-06": 52020,
-  "2022-02-07": 52206,
-  "2022-02-08": 52432,
-  "2022-02-09": 52644,
-  "2022-02-10": 52858,
-  "2022-02-11": 53024,
-  "2022-02-12": 53190,
-  "2022-02-13": 53490,
-  "2022-02-14": 53774,
-  "2022-02-15": 54036,
-  "2022-02-16": 54303,
-  "2022-02-17": 54510,
-  "2022-02-18": 54705,
-  "2022-02-19": 54858,
-  "2022-02-20": 55051,
-  "2022-02-21": 55222,
-  "2022-02-22": 55434,
-  "2022-02-23": 55619,
-  "2022-02-24": 55841,
-  "2022-02-25": 55995,
-  "2022-02-26": 56147,
-  "2022-02-27": 56450,
-  "2022-02-28": 56450,
-  "2022-03-01": 56624,
-  "2022-03-02": 56766,
-  "2022-03-03": 56952,
-  "2022-03-04": 57098,
-  "2022-03-05": 57229,
-  "2022-03-06": 57388,
-  "2022-03-07": 57549,
-  "2022-03-08": 57705,
-  "2022-03-09": 57948,
-  "2022-03-10": 58141,
-  "2022-03-11": 58325,
-  "2022-03-12": 58455,
-  "2022-03-13": 58624,
-  "2022-03-14": 58777,
-  "2022-03-15": 58996,
-  "2022-03-16": 59172,
-  "2022-03-17": 59342,
-  "2022-03-18": 59575,
-  "2022-03-19": 59645,
-  "2022-03-20": 59645,
-  "2022-03-21": 60048,
-  "2022-03-22": 60184,
-  "2022-03-23": 60335,
-  "2022-03-24": 60501,
-  "2022-03-25": 60669,
-  "2022-03-26": 60824,
-  "2022-03-27": 61000,
-  "2022-03-28": 61154,
-  "2022-03-30": 61491,
-  "2022-03-31": 61656,
-  "2022-04-01": 61836,
-  "2022-04-02": 61980,
-  "2022-04-03": 62112,
-  "2022-04-04": 62290,
-  "2022-04-05": 62476,
-  "2022-04-06": 62663,
-  "2022-04-07": 62845,
-  "2022-04-08": 63022,
-  "2022-04-09": 63165,
-  "2022-04-10": 63554,
-  "2022-04-11": 63727,
-  "2022-04-12": 63786,
-  "2022-04-13": 63898,
-  "2022-04-14": 64062,
-  "2022-04-15": 64192,
-  "2022-04-16": 64330,
-  "2022-04-17": 64473,
-  "2022-04-18": 64669,
-  "2022-04-19": 64757,
-  "2022-04-20": 64837,
-  "2022-04-21": 64866,
-  "2022-04-22": 64894,
-  "2022-04-23": 64907,
-  "2022-04-24": 64918,
-  "2022-04-25": 64937,
-  "2022-04-26": 64952,
-  "2022-04-27": 64987,
-  "2022-04-28": 65002,
-  "2022-04-29": 65031,
-  "2022-04-30": 65035,
-  "2022-05-01": 65060,
-  "2022-05-02": 65060,
-  "2022-05-03": 65078,
-  "2022-05-04": 65077,
-  "2022-05-05": 65086,
-  "2022-05-06": 65105,
-  "2022-05-07": 65118,
-  "2022-05-08": 65116,
-  "2022-05-09": 65109,
-  "2022-05-10": 65118,
-  "2022-05-11": 65130,
-  "2022-05-12": 65129,
-  "2022-05-13": 65135,
-  "2022-05-14": 65136,
-  "2022-05-15": 65147,
-  "2022-05-16": 65155,
-  "2022-05-17": 65155,
-  "2022-05-18": 65162,
-  "2022-05-19": 65188,
-  "2022-05-20": 65210,
-  "2022-05-21": 65219,
-  "2022-05-22": 65219,
-  "2022-05-23": 65226,
-  "2022-05-24": 65240,
-  "2022-05-25": 65258,
-  "2022-05-26": 65271,
-  "2022-05-27": 65296,
-  "2022-05-28": 65297,
-  "2022-05-29": 65318,
-  "2022-05-30": 65338,
-  "2022-05-31": 65343,
-  "2022-06-01": 65377,
-  "2022-06-02": 65378,
-  "2022-06-03": 65389,
-  "2022-06-04": 65398,
-  "2022-06-05": 65416,
-  "2022-06-06": 65425,
-  "2022-06-07": 65437,
-  "2022-06-08": 65452,
-  "2022-06-09": 65461,
-  "2022-06-10": 65468,
-  "2022-06-11": 65480,
-  "2022-06-12": 65505,
-  "2022-06-13": 65506,
-  "2022-06-14": 65507,
-  "2022-06-15": 65518,
-  "2022-06-16": 65521,
-  "2022-06-17": 65535,
-  "2022-06-18": 65541,
-  "2022-06-19": 65573,
-  "2022-06-20": 65573,
-  "2022-06-21": 65582,
-  "2022-06-22": 65604,
-  "2022-06-23": 65604,
-  "2022-06-24": 65611,
-  "2022-06-25": 65616,
-  "2022-06-26": 65613,
-  "2022-06-27": 65631,
-  "2022-06-28": 65641,
-  "2022-06-29": 65654,
-  "2022-06-30": 65654,
-  "2022-07-01": 65658,
-  "2022-07-02": 65661,
-  "2022-07-03": 65665,
-  "2022-07-04": 65683,
-  "2022-07-05": 65697,
-  "2022-07-06": 65721,
-  "2022-07-07": 65731,
-  "2022-07-08": 65747,
-  "2022-07-09": 65758,
-  "2022-07-10": 65767,
-  "2022-07-11": 65783,
-  "2022-07-12": 65798,
-  "2022-07-13": 65814,
-  "2022-07-14": 65824,
-  "2022-07-15": 65839,
-  "2022-07-16": 65852,
-  "2022-07-17": 65875,
-  "2022-07-18": 65902,
-  "2022-07-19": 65919,
-  "2022-07-20": 65936,
-  "2022-07-21": 65944,
-  "2022-07-22": 65952,
-  "2022-07-23": 65957,
-  "2022-07-24": 65952,
-  "2022-07-25": 65956,
-  "2022-07-26": 65979,
-  "2022-07-27": 65995,
-  "2022-07-28": 66001,
-  "2022-07-29": 66004,
-  "2022-07-30": 66031,
-  "2022-07-31": 66031,
-  "2022-08-01": 66037,
-  "2022-08-02": 66049,
-  "2022-08-03": 66049,
-  "2022-08-04": 66055,
-  "2022-08-05": 66076,
-  "2022-08-06": 66079,
-  "2022-08-07": 66092,
-  "2022-08-08": 66096,
-  "2022-08-09": 66113,
-  "2022-08-10": 66127,
-  "2022-08-11": 66142,
-  "2022-08-12": 66159,
-  "2022-08-13": 66155,
-  "2022-08-14": 66173,
-  "2022-08-15": 66194,
-  "2022-08-16": 66201,
-  "2022-08-17": 66226,
-  "2022-08-18": 66234,
-  "2022-08-19": 66247,
-  "2022-08-20": 66262,
-  "2022-08-21": 66270,
-  "2022-08-22": 66291,
-  "2022-08-23": 66310,
-  "2022-08-24": 66314,
-  "2022-08-25": 66328,
-  "2022-08-26": 66340,
-  "2022-08-27": 66352,
-  "2022-08-28": 66376,
-  "2022-08-29": 66392,
-  "2022-08-30": 66340,
-  "2022-08-31": 66251,
-  "2022-09-01": 66095,
-  "2022-09-02": 65964,
-  "2022-09-03": 65972,
-  "2022-09-04": 65610,
-  "2022-09-05": 65590,
-  "2022-09-06": 65598,
-  "2022-09-07": 65609,
-  "2022-09-09": 65648,
-  "2022-09-10": 65648,
-  "2022-09-11": 65646,
-  "2022-09-12": 65653,
-  "2022-09-13": 65664,
-  "2022-09-15": 65683,
-  "2022-09-16": 65688,
-  "2022-09-17": 65688,
-  "2022-09-18": 65688,
-  "2022-09-19": 65695,
-  "2022-09-20": 65695,
-  "2022-09-21": 65697,
-  "2022-09-22": 65699,
-  "2022-09-23": 65699,
-  "2022-09-24": 65692,
-  "2022-09-25": 65686,
-  "2022-09-26": 65687,
-  "2022-09-27": 65698,
-  "2022-09-28": 65705,
-  "2022-09-29": 65716,
-  "2022-09-30": 65724,
-  "2022-10-01": 65719,
-  "2022-10-02": 65717,
-  "2022-10-03": 65728,
-  "2022-10-04": 65731,
-  "2022-10-05": 65735,
-  "2022-10-06": 65734,
-  "2022-10-07": 65735,
-  "2022-10-08": 65736,
-  "2022-10-09": 65752,
-  "2022-10-10": 65751,
-  "2022-10-11": 65747,
-  "2022-10-12": 65757,
-  "2022-10-13": 65757,
-  "2022-10-14": 65753,
-  "2022-10-15": 65755,
-  "2022-10-16": 65762,
-  "2022-10-17": 65756,
-  "2022-10-18": 65767,
-  "2022-10-19": 65772,
-  "2022-10-20": 65781,
-  "2022-10-21": 65791,
-  "2022-10-22": 65790,
-  "2022-10-23": 65794,
-  "2022-10-24": 65793,
-  "2022-10-25": 65793,
-  "2022-10-26": 65791,
-  "2022-10-27": 65804,
-  "2022-10-28": 65804,
-  "2022-10-29": 65800,
-  "2022-10-30": 65804,
-  "2022-10-31": 65803,
-  "2022-11-01": 65810,
-  "2022-11-02": 65809,
-  "2022-11-03": 65811,
-  "2022-11-04": 65812,
-  "2022-11-05": 65817,
-  "2022-11-06": 65827,
-  "2022-11-07": 65838,
-  "2022-11-08": 65839,
-  "2022-11-09": 65839,
-  "2022-11-10": 65842,
-  "2022-11-11": 65844,
-  "2022-11-12": 65844,
-  "2022-11-13": 65843,
-  "2022-11-14": 65847,
-  "2022-11-15": 65855,
-  "2022-11-16": 65865,
-  "2022-11-17": 65879,
-  "2022-11-18": 65878,
-  "2022-11-19": 65865,
-  "2022-11-20": 65870,
-  "2022-11-21": 65852,
-  "2022-11-22": 65871,
-  "2022-11-23": 65852,
-  "2022-11-24": 65895,
-  "2022-11-25": 65908,
-  "2022-11-26": 65910,
-  "2022-11-27": 65923,
-  "2022-11-28": 65937,
-  "2022-11-29": 65936,
-  "2022-11-30": 65945,
-  "2022-12-01": 65942,
-  "2022-12-02": 65937,
-  "2022-12-03": 65939,
-  "2022-12-04": 65936,
-  "2022-12-05": 65947,
-  "2022-12-06": 65957,
-  "2022-12-07": 65949,
-  "2022-12-08": 65951,
-  "2022-12-09": 65947,
-  "2022-12-10": 65948,
-  "2022-12-11": 65945,
-  "2022-12-12": 65958,
-  "2022-12-13": 65968,
-  "2022-12-14": 65980,
-  "2022-12-15": 65987,
-  "2022-12-16": 65992,
-  "2022-12-17": 65995,
-  "2022-12-18": 66004,
-  "2022-12-19": 66020,
-  "2022-12-20": 66040,
-  "2022-12-21": 66040,
-  "2022-12-22": 66041,
-  "2022-12-24": 66060,
-  "2022-12-25": 66055,
-  "2022-12-26": 66060,
-  "2022-12-27": 66073,
-  "2022-12-28": 66076,
-  "2022-12-29": 66075,
-  "2022-12-30": 66073,
-  "2022-12-31": 66071,
-  "2023-01-01": 66078,
-  "2023-01-02": 66084,
-  "2023-01-03": 66092,
-  "2023-01-04": 66097,
-  "2023-01-05": 66100,
-  "2023-01-06": 66116,
-  "2023-01-07": 66127,
-  "2023-01-08": 66127,
-  "2023-01-09": 66133,
-  "2023-01-10": 66142,
-  "2023-01-11": 66149,
-  "2023-01-12": 66161,
-  "2023-01-13": 66159,
-  "2023-01-14": 66162,
-  "2023-01-15": 66162,
-  "2023-01-16": 66176,
-  "2023-01-17": 66193,
-  "2023-01-18": 66201,
-  "2023-01-19": 66211,
-  "2023-01-20": 66204,
-  "2023-01-21": 66213,
-  "2023-01-22": 66224,
-  "2023-01-23": 66242,
-  "2023-01-24": 66252,
-  "2023-01-25": 66274,
-  "2023-01-26": 66284,
-  "2023-01-27": 66289,
-  "2023-01-28": 66297,
-  "2023-01-29": 66310,
-  "2023-01-30": 66323,
-  "2023-01-31": 66323,
-  "2023-02-01": 66357,
-  "2023-02-02": 66361,
-  "2023-02-03": 66368,
-  "2023-02-04": 66380,
-  "2023-02-05": 66389,
-  "2023-02-06": 66411,
-  "2023-02-07": 66429,
-  "2023-02-08": 66450,
-  "2023-02-09": 66450,
-  "2023-02-10": 66459,
-  "2023-02-11": 66469,
-  "2023-02-12": 66491,
-  "2023-02-13": 66501,
-  "2023-02-14": 66501,
-  "2023-02-15": 66514,
-  "2023-02-16": 66523,
-  "2023-02-17": 66538,
-  "2023-02-18": 66560,
-  "2023-02-19": 66567,
-  "2023-02-20": 66567,
-  "2023-02-21": 66580,
-  "2023-02-22": 66593,
-  "2023-02-23": 66605,
-  "2023-02-24": 66610,
-  "2023-02-25": 66632,
-  "2023-02-26": 66645,
-  "2023-02-27": 66677,
-  "2023-02-28": 66677,
-  "2023-03-01": 66695,
-  "2023-03-02": 66726,
-  "2023-03-03": 66743,
-  "2023-03-04": 66746,
-  "2023-03-05": 66777,
-  "2023-03-06": 66777,
-  "2023-03-07": 66794,
-  "2023-03-08": 66797,
-  "2023-03-09": 66803,
-  "2023-03-10": 66818,
-  "2023-03-11": 66829,
-  "2023-03-12": 66843,
-  "2023-03-13": 66853,
-  "2023-03-14": 66868,
-  "2023-03-15": 66875,
-  "2023-03-16": 66890,
-  "2023-03-17": 66890,
-  "2023-03-18": 66899,
-  "2023-03-19": 66911,
-  "2023-03-20": 66923,
-  "2023-03-21": 66930,
-  "2023-03-22": 66947,
-  "2023-03-23": 66968,
-  "2023-03-24": 66968,
-  "2023-03-25": 66992,
-  "2023-03-26": 67007,
-  "2023-03-27": 67028,
-  "2023-03-28": 67036,
-  "2023-03-29": 67048,
-  "2023-03-30": 67062,
-  "2023-03-31": 67062,
-  "2023-04-01": 67072,
-  "2023-04-02": 67080,
-  "2023-04-03": 67085,
-  "2023-04-04": 67089,
-  "2023-04-05": 67105,
-  "2023-04-06": 67110,
-  "2023-04-07": 67113,
-  "2023-04-09": 67136,
-  "2023-04-10": 67148,
-  "2023-04-11": 67178,
-  "2023-04-12": 67178,
-  "2023-04-13": 67194,
-  "2023-04-14": 67208,
-  "2023-04-15": 67210,
-  "2023-04-16": 67208,
-  "2023-04-17": 67215,
-  "2023-04-18": 67219,
-  "2023-04-19": 67231,
-  "2023-04-20": 67247,
-  "2023-04-21": 67248,
-  "2023-04-22": 67254,
-  "2023-04-23": 67269,
-  "2023-04-24": 67289,
-  "2023-04-25": 67298,
-  "2023-04-26": 67315,
-  "2023-04-27": 67322,
-  "2023-04-28": 67335,
-  "2023-04-29": 67349,
-  "2023-04-30": 67347,
-  "2023-05-01": 67367,
-  "2023-05-02": 67375,
-  "2023-05-03": 67382,
-  "2023-05-04": 67389,
-  "2023-05-05": 67407,
-  "2023-05-06": 67413,
-  "2023-05-07": 67421,
-  "2023-05-08": 67439,
-  "2023-05-09": 67445,
-  "2023-05-10": 67455,
-  "2023-05-11": 67464,
-  "2023-05-12": 67478,
-  "2023-05-13": 67473,
-  "2023-05-14": 67484,
-  "2023-05-15": 67496,
-  "2023-05-16": 67500,
-  "2023-05-17": 67512,
-  "2023-05-18": 67526,
-  "2023-05-19": 67544,
-  "2023-05-20": 67572,
-  "2023-05-21": 67572,
-  "2023-05-22": 67572,
-  "2023-05-23": 67602,
-  "2023-05-24": 67617,
-  "2023-05-25": 67623,
-  "2023-05-26": 67626,
-  "2023-05-27": 67636,
-  "2023-05-28": 67650,
-  "2023-05-29": 67650,
-  "2023-05-30": 67682,
-  "2023-05-31": 67689,
-  "2023-06-01": 67700,
-  "2023-06-02": 67697,
-  "2023-06-03": 67695,
-  "2023-06-04": 67704,
-  "2023-06-05": 67709,
-  "2023-06-06": 67712,
-  "2023-06-07": 67731,
-  "2023-06-08": 67742,
-  "2023-06-09": 67752,
-  "2023-06-10": 67754,
-  "2023-06-11": 67757,
-  "2023-06-12": 67773,
-  "2023-06-13": 67784,
-  "2023-06-14": 67787,
-  "2023-06-15": 67791,
-  "2023-06-16": 67801,
-  "2023-06-17": 67804,
-  "2023-06-18": 67811,
-  "2023-06-19": 67821,
-  "2023-06-20": 67828,
-  "2023-06-21": 67836,
-  "2023-06-22": 67834,
-  "2023-06-23": 67844,
-  "2023-06-24": 67839,
-  "2023-06-25": 67851,
-  "2023-06-26": 67862,
-  "2023-06-27": 67865,
-  "2023-06-28": 67883,
-  "2023-06-29": 67894,
-  "2023-06-30": 67909,
-  "2023-07-01": 67921,
-  "2023-07-02": 67921,
-  "2023-07-03": 67930,
-  "2023-07-04": 67941,
-  "2023-07-05": 67956,
-  "2023-07-06": 67968,
-  "2023-07-07": 67968,
-  "2023-07-08": 67967,
-  "2023-07-09": 67964,
-  "2023-07-10": 67968,
-  "2023-07-11": 67973,
-  "2023-07-12": 67978,
-  "2023-07-13": 67991,
-  "2023-07-14": 67996,
-  "2023-07-15": 67995,
-  "2023-07-16": 67999,
-  "2023-07-17": 68004,
-  "2023-07-18": 68023,
-  "2023-07-19": 68030,
-  "2023-07-20": 68035,
-  "2023-07-21": 68044,
-  "2023-07-22": 68040,
-  "2023-07-23": 68052,
-  "2023-07-24": 68064,
-  "2023-07-25": 68081,
-  "2023-07-26": 68087,
-  "2023-07-27": 68092,
-  "2023-07-28": 68098,
-  "2023-07-29": 68101,
-  "2023-07-30": 68105,
-  "2023-07-31": 68118,
-  "2023-08-01": 68127,
-  "2023-08-02": 68144,
-  "2023-08-03": 68155,
-  "2023-08-04": 68174,
-  "2023-08-05": 68184,
-  "2023-08-06": 68207,
-  "2023-08-07": 68207,
-  "2023-08-08": 68218,
-  "2023-08-09": 68232,
-  "2023-08-10": 68234,
-  "2023-08-11": 68242,
-  "2023-08-12": 68252,
-  "2023-08-13": 68263,
-  "2023-08-14": 68280,
-  "2023-08-15": 68313,
-  "2023-08-16": 68313,
-  "2023-08-17": 68334,
-  "2023-08-18": 68354,
-  "2023-08-19": 68361,
-  "2023-08-20": 68373,
-  "2023-08-21": 68393,
-  "2023-08-22": 68404,
-  "2023-08-23": 68413,
-  "2023-08-24": 68430,
-  "2023-08-25": 68444,
-  "2023-08-26": 68459,
-  "2023-08-27": 68477,
-  "2023-08-28": 68487,
-  "2023-08-29": 68500,
-  "2023-08-30": 68519,
-  "2023-08-31": 68529,
-  "2023-09-01": 68559,
-  "2023-09-02": 68559,
-  "2023-09-03": 68566,
-  "2023-09-04": 68573,
-  "2023-09-05": 68577,
-  "2023-09-06": 68593,
-  "2023-09-07": 68604,
-  "2023-09-08": 68617,
-  "2023-09-09": 68617,
-  "2023-09-10": 68631,
-  "2023-09-11": 68639,
-  "2023-09-12": 68652,
-  "2023-09-13": 68671,
-  "2023-09-14": 68677,
-  "2023-09-15": 68689,
-  "2023-09-16": 68702,
-  "2023-09-17": 68719,
-  "2023-09-18": 68719,
-  "2023-09-19": 68731,
-  "2023-09-20": 68742,
-  "2023-09-21": 68769,
-  "2023-09-22": 68781,
-  "2023-09-23": 68788,
-  "2023-09-24": 68801,
-  "2023-09-25": 68815,
-  "2023-09-26": 68843,
-  "2023-09-27": 68842,
-  "2023-09-28": 68853,
-  "2023-09-29": 68873,
-  "2023-09-30": 68889,
-  "2023-10-01": 68901,
-  "2023-10-02": 68916,
-  "2023-10-03": 68916,
-  "2023-10-04": 68930,
-  "2023-10-05": 68941,
-  "2023-10-06": 68955,
-  "2023-10-07": 68966,
-  "2023-10-08": 68971,
-  "2023-10-09": 68981,
-  "2023-10-10": 68987,
-  "2023-10-11": 69006,
-  "2023-10-12": 69006,
-  "2023-10-13": 69004,
-  "2023-10-14": 69009,
-  "2023-10-15": 69022,
-  "2023-10-16": 69032,
-  "2023-10-17": 69043,
-  "2023-10-18": 69045,
-  "2023-10-19": 69048,
-  "2023-10-20": 69063,
-  "2023-10-21": 69067,
-  "2023-10-22": 69075,
-  "2023-10-23": 69091,
-  "2023-10-24": 69093,
-  "2023-10-25": 69104,
-  "2023-10-26": 69117,
-  "2023-10-27": 69128,
-  "2023-10-28": 69135,
-  "2023-10-29": 69148,
-  "2023-10-30": 69154,
-  "2023-10-31": 69154,
-  "2023-11-01": 69162,
-  "2023-11-02": 69166,
-  "2023-11-03": 69175,
-  "2023-11-04": 69189,
-  "2023-11-05": 69189,
-  "2023-11-06": 69195,
-  "2023-11-07": 69207,
-  "2023-11-08": 69219,
-  "2023-11-09": 69226,
-  "2023-11-10": 69238,
-  "2023-11-11": 69246,
-  "2023-11-12": 69258,
-  "2023-11-13": 69266,
-  "2023-11-14": 69276,
-  "2023-11-15": 69276,
-  "2023-11-16": 69289,
-  "2023-11-17": 69299,
-  "2023-11-18": 69299,
-  "2023-11-19": 69305,
-  "2023-11-20": 69311,
-  "2023-11-21": 69311,
-  "2023-11-22": 69320,
-  "2023-11-23": 69327,
-  "2023-11-24": 69334,
-  "2023-11-25": 69338,
-  "2023-11-26": 69340,
-  "2023-11-27": 69341,
-  "2023-11-28": 69351,
-  "2023-11-29": 69364,
-  "2023-11-30": 69364,
-  "2023-12-01": 69361,
-  "2023-12-02": 69356,
-  "2023-12-03": 69356,
-  "2023-12-04": 69362,
-  "2023-12-05": 69362,
-  "2023-12-06": 69366,
-  "2023-12-07": 69367,
-  "2023-12-08": 69374,
-  "2023-12-09": 69370,
-  "2023-12-10": 69372,
-  "2023-12-11": 69370,
-  "2023-12-12": 69375,
-  "2023-12-13": 69380,
-  "2023-12-14": 69381,
-  "2023-12-15": 69384,
-  "2023-12-16": 69386,
-  "2023-12-17": 69390,
-  "2023-12-18": 69384,
-  "2023-12-19": 69379,
-  "2023-12-20": 69379,
-  "2023-12-21": 69374,
-  "2023-12-22": 69375,
-  "2023-12-23": 69370,
-  "2023-12-24": 69370,
-  "2023-12-25": 69372,
-  "2023-12-26": 69377,
-  "2023-12-27": 69384,
-  "2023-12-30": 69381,
-  "2023-12-31": 69376,
-  "2024-01-01": 69378,
-  "2024-01-02": 69379,
-  "2024-01-03": 69377
+  "2024-01-17": 69403,
+  "date_first_scraped": "2021-12-28",
+  "description": "Perfect sleep riding Theta brain waves. It's Science, it works!",
+  "name": "REM sleep",
+  "tracks": [
+    {
+      "album": {
+        "name": "4-8 Hz Theta Drones",
+        "url": "https://open.spotify.com/album/5YWRca6jb91Eg44iFmf5hx"
+      },
+      "artists": [
+        {
+          "name": "Theta Max",
+          "url": "https://open.spotify.com/artist/2O2jPUqRbUz01bfmZcGPRf"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "4 Hz Theta Drone",
+      "url": "https://open.spotify.com/track/5zz6lTmT0vq9CU5aukUYYW"
+    },
+    {
+      "album": {
+        "name": "Theta Waves, Meditation Frequencies",
+        "url": "https://open.spotify.com/album/3pisceRcsx1eThwrrRLj2Y"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Healing Music",
+          "url": "https://open.spotify.com/artist/550D2fGbvNkIEIhh8jmsKj"
+        },
+        {
+          "name": "FRQNCY",
+          "url": "https://open.spotify.com/artist/0NVQeKz5iWvQnjKZa9bfvQ"
+        },
+        {
+          "name": "Miracle Sounds",
+          "url": "https://open.spotify.com/artist/24WGOPvGoxsnvycYgn9vtu"
+        },
+        {
+          "name": "Meditation Music",
+          "url": "https://open.spotify.com/artist/6ulqk6oNurcUGgCi5TkHzs"
+        },
+        {
+          "name": "Relaxation Music",
+          "url": "https://open.spotify.com/artist/6WvwZpGrifzOWGVTCqTYSO"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132546,
+      "name": "4 Hz Theta Waves Frequencies",
+      "url": "https://open.spotify.com/track/6axFRGiCzRVV3kqo8YXJGJ"
+    },
+    {
+      "album": {
+        "name": "Theta Waves 4 Hz (REM SLEEP)",
+        "url": "https://open.spotify.com/album/5T1rIbINUEvwEL9ocK5FUT"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Sleep Sound Bath",
+          "url": "https://open.spotify.com/artist/5PbKtdF4pbxpsqyiuHOC7l"
+        },
+        {
+          "name": "Solfeggio Sound Bath",
+          "url": "https://open.spotify.com/artist/3JKh8aHFH7ALz2GIvJB0p3"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "432 Hz (Theta Waves 4 Hz Rem Sleep)",
+      "url": "https://open.spotify.com/track/5Zt2J0DPsSkXdLy2nBjZiF"
+    },
+    {
+      "album": {
+        "name": "4hz Theta Long Swells",
+        "url": "https://open.spotify.com/album/2gTUC25vY1BXlmeZH9ZAiy"
+      },
+      "artists": [
+        {
+          "name": "Adeki",
+          "url": "https://open.spotify.com/artist/6RzQZCS8ASfdft71WxsL9N"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525792,
+      "name": "4hz Theta Long Swells",
+      "url": "https://open.spotify.com/track/5np35mW6FlnQfqjWYWR4ZN"
+    },
+    {
+      "album": {
+        "name": "Solfeggio Frequencies: Healing Musical Soundscapes for Meditation, Spa, Yoga & Deep Relaxation",
+        "url": "https://open.spotify.com/album/0Cymwa426TUFrAFXrnFihA"
+      },
+      "artists": [
+        {
+          "name": "Kev Thompson",
+          "url": "https://open.spotify.com/artist/5W0jSDb5Woe76iOsi3YuIW"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372000,
+      "name": "5 Hz Theta - Creativity & Intuition",
+      "url": "https://open.spotify.com/track/60oZibxpJVRwIHQdT5KjWD"
+    },
+    {
+      "album": {
+        "name": "Superdrone Progressive Relaxation",
+        "url": "https://open.spotify.com/album/0Pl4VLTPJRQbQj4DOd8UvU"
+      },
+      "artists": [
+        {
+          "name": "Brainwave Binaural Systems",
+          "url": "https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60029,
+      "name": "7.8 Hz Drone",
+      "url": "https://open.spotify.com/track/29dNoIQv0NwNfzsx4k5rsC"
+    },
+    {
+      "album": {
+        "name": "7Hz Theta Waves - Relaxamento Profundo - Binaural Beat",
+        "url": "https://open.spotify.com/album/6oCBXWV97TXNWz8hVexsi7"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Pure",
+          "url": "https://open.spotify.com/artist/5Gw1yXrlZF6hePYyeZUZdQ"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 180000,
+      "name": "7Hz Theta Waves - Deep Relaxation (160Hz - 167Hz) Binaural Beats",
+      "url": "https://open.spotify.com/track/7mnef5Q47Cn0aNM4YA7eWh"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Pure Brian Tones - (For Study, Focus, Deep Sleep and Meditation)",
+        "url": "https://open.spotify.com/album/0SEAgXQXDlLfFkY0JGXDLI"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats System",
+          "url": "https://open.spotify.com/artist/7HRhmruoIMEirMXt4cnsQT"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Binaural Beats 6 Hz - Theta Waves",
+      "url": "https://open.spotify.com/track/64IGvjZPNHNfEh1KxFpqom"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats and Isochronic Programs",
+        "url": "https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Binaural Theta 4 Hz",
+      "url": "https://open.spotify.com/track/00JZ8gYC7ete4eCxHN3SJG"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats and Isochronic Programs",
+        "url": "https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Binaural Theta 4.5 Hz",
+      "url": "https://open.spotify.com/track/0HFLWWzbYAKG5VNkDDzHUR"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats and Isochronic Programs",
+        "url": "https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Binaural Theta 5 Hz",
+      "url": "https://open.spotify.com/track/0pUsqn9giNMySEhVoUvTG1"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78914,
+      "name": "Blanket of Water (7hz Theta Waves)",
+      "url": "https://open.spotify.com/track/0ZtBQWlA0s91nUvmtIzFkB"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 78914,
+      "name": "Blanket of Water (7hz Theta Waves)",
+      "url": "https://open.spotify.com/track/5lmSsieXEmbfLdVdluuY7z"
+    },
+    {
+      "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/0tWi31iHKcQQJZSiQMwCVZ"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Calmer (4 Hz Theta Binaural Beat)",
+      "url": "https://open.spotify.com/track/0F45YceUR0XowNHuo9PcQG"
+    },
+    {
+      "album": {
+        "name": "Codes of Light",
+        "url": "https://open.spotify.com/album/5swlw6y7xtorw1scuowROI"
+      },
+      "artists": [
+        {
+          "name": "Hagai A",
+          "url": "https://open.spotify.com/artist/4P0srzvQWm4l1Z85vkTwQo"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "Codes of Light 6hz Theta",
+      "url": "https://open.spotify.com/track/2MC5zmOUOQCE6UiHmNA4xj"
+    },
+    {
+      "album": {
+        "name": "Obsidian (Binaural Beat Remix)",
+        "url": "https://open.spotify.com/album/5MDw4nbZfhpreocqNAShM1"
+      },
+      "artists": [
+        {
+          "name": "Momento",
+          "url": "https://open.spotify.com/artist/2HD6u9F4pocPtFgmev72AK"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247200,
+      "name": "Creator (Theta Wave 5 Hz)",
+      "url": "https://open.spotify.com/track/05lezliRAdzCmakJ8bHjPA"
+    },
+    {
+      "album": {
+        "name": "Deep Theta 2.0: Brainwave Entrainment Music for Meditation and Healing",
+        "url": "https://open.spotify.com/album/7sq49zjk6gXOf5XBSOkcCW"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Jorge Alfano",
+          "url": "https://open.spotify.com/artist/6J8GiTR6EKnHeTRwgNh46q"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445720,
+      "name": "Deep Theta 2.0 (Pt 13)",
+      "url": "https://open.spotify.com/track/2MABF1tqhRc2OpEkcDN64m"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319493,
+      "name": "Deep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/1bdhhKZAxmdqAOt18QFXNc"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Michael Manring",
+          "url": "https://open.spotify.com/artist/3azoOASbeeRYOHv3ekSMRR"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455120,
+      "name": "Deep Theta 5 Hz",
+      "url": "https://open.spotify.com/track/0YtajU0EG0ksJK8t60mTAA"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319706,
+      "name": "Deep Theta 6 Hz",
+      "url": "https://open.spotify.com/track/4kFhJKUveRr2LiTvg1bQk7"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334293,
+      "name": "Deep Theta 6 Hz",
+      "url": "https://open.spotify.com/track/21rIK7dLKp86IdSfctD8n1"
+    },
+    {
+      "album": {
+        "name": "Deep Theta : High Coherence Soundscapes for Meditation and Healing",
+        "url": "https://open.spotify.com/album/0YHfbeTtt3LAaOgsbd3h6z"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296893,
+      "name": "Deep Theta 7 Hz",
+      "url": "https://open.spotify.com/track/6FUh0SAw08M0uB93tZdzji"
+    },
+    {
+      "album": {
+        "name": "Quantum Theta Waves: Binaural Beats Music for Meditation, Deep Relaxation & Healing",
+        "url": "https://open.spotify.com/album/0SCU9HvWX9P2De6LyVfUBG"
+      },
+      "artists": [
+        {
+          "name": "David & Steve Gordon",
+          "url": "https://open.spotify.com/artist/4yt002Vil1q4Vl9JOx48QG"
+        },
+        {
+          "name": "Binaural Beats Research",
+          "url": "https://open.spotify.com/artist/4ry5k1WKsqnufgbwOdevJN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
+      "duration_ms": 166874,
+      "name": "Deeply Relaxed & Peaceful - 6.8 Hz Theta Frequency",
+      "url": "https://open.spotify.com/track/12Oj8Q3Y4j07hGbXwwvrX8"
+    },
+    {
+      "album": {
+        "name": "Binarual Beats for Deep Sleep",
+        "url": "https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291000,
+      "name": "Dreamcatcher (2 Hz Delta Wave)",
+      "url": "https://open.spotify.com/track/2L5q7IAB6u8Lw73GD6CKhk"
+    },
+    {
+      "album": {
+        "name": "Schumann Resonance: From Earth to Heart",
+        "url": "https://open.spotify.com/album/7pKKQR6KNxaRctAKm94nnp"
+      },
+      "artists": [
+        {
+          "name": "Music from the Firmament",
+          "url": "https://open.spotify.com/artist/371WBV85Uj9msIgGpGKyHj"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 601090,
+      "name": "Earth Travel (7,83hz)",
+      "url": "https://open.spotify.com/track/7Kup4HdkbeX6rUn9klu2Ez"
+    },
+    {
+      "album": {
+        "name": "Forest Meditation",
+        "url": "https://open.spotify.com/album/0tWi31iHKcQQJZSiQMwCVZ"
+      },
+      "artists": [
+        {
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Forest Meditation (7 Hz Theta Binaural Beat)",
+      "url": "https://open.spotify.com/track/5ETQRuNdU9ryOXYj2TwgUg"
+    },
+    {
+      "album": {
+        "name": "Binarual Beats Remixes",
+        "url": "https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy"
+      },
+      "artists": [
+        {
+          "name": "Empty Space",
+          "url": "https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Ghost (5 Hz Theta Binaural Beat)",
+      "url": "https://open.spotify.com/track/0FqM26GdrsVdWiEZWHtFpu"
+    },
+    {
+      "album": {
+        "name": "Quantum Theta Waves: Binaural Beats Music for Meditation, Deep Relaxation & Healing",
+        "url": "https://open.spotify.com/album/0SCU9HvWX9P2De6LyVfUBG"
+      },
+      "artists": [
+        {
+          "name": "David & Steve Gordon",
+          "url": "https://open.spotify.com/artist/4yt002Vil1q4Vl9JOx48QG"
+        },
+        {
+          "name": "Binaural Beats Research",
+          "url": "https://open.spotify.com/artist/4ry5k1WKsqnufgbwOdevJN"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270124,
+      "name": "Inner Stillness & Tranquility - 6.8 Hz Theta Frequency",
+      "url": "https://open.spotify.com/track/0p7nue6L153lMaWRsHnVJE"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats and Isochronic Programs",
+        "url": "https://open.spotify.com/album/7LkpxT3LewPIMO5o2DxTfR"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Sleep Meditation",
+          "url": "https://open.spotify.com/artist/5f3oBa8B2mo3MeeIK7B2FE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Isochronic Theta 4 Hz",
+      "url": "https://open.spotify.com/track/46QjXEOz739wuehiFIMQIi"
+    },
+    {
+      "album": {
+        "name": "Sinking into Infinity: Binaural Noise",
+        "url": "https://open.spotify.com/album/5cKVsDj6cuICa1QU4dQNnK"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 87998,
+      "name": "Land of Melting Ice (Rem Sleep Theta Waves)",
+      "url": "https://open.spotify.com/track/0Rjy15WZe1s1EiVx0hUkTo"
+    },
+    {
+      "album": {
+        "name": "Sinking into Infinity: Binaural Noise",
+        "url": "https://open.spotify.com/album/1Dz0LivjT8fX1VCWcSibWw"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87998,
+      "name": "Land of Melting Ice (Rem Sleep Theta Waves)",
+      "url": "https://open.spotify.com/track/390acMQDbn8wyXheXckqQO"
+    },
+    {
+      "album": {
+        "name": "Binarual Beats for Deep Sleep",
+        "url": "https://open.spotify.com/album/4H44LCZHobBg6KIHGFX8Up"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Lucid Dreams (4.5 Hz Theta Wave)",
+      "url": "https://open.spotify.com/track/5eAMMF36TMqHrVdGvoT5mj"
+    },
+    {
+      "album": {
+        "name": "Binarual Beats Remixes",
+        "url": "https://open.spotify.com/album/6fkdmxYgNXsRdOdloCJnCy"
+      },
+      "artists": [
+        {
+          "name": "Empty Space",
+          "url": "https://open.spotify.com/artist/6VOBt4TWKchK9yAYqEwEqG"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294000,
+      "name": "Paranormal (7.5 Hz Theta Binaural Beat)",
+      "url": "https://open.spotify.com/track/38p17XCT8NffbrhDx1agST"
+    },
+    {
+      "album": {
+        "name": "Isochronic Tones Brainwave Entrainment",
+        "url": "https://open.spotify.com/album/4wyLrAtl2wLm4m6wLXZVyt"
+      },
+      "artists": [
+        {
+          "name": "Isochronic Tones Brainwave Entrainment",
+          "url": "https://open.spotify.com/artist/1brqArPBIHyMe96cqUA2Vz"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 598000,
+      "name": "Pure 5hz Theta",
+      "url": "https://open.spotify.com/track/3oEJWiSNTB5gmNh6FTw5N1"
+    },
+    {
+      "album": {
+        "name": "Theta Waves - Binaural Beats",
+        "url": "https://open.spotify.com/album/2IVCkRwDrtVDVehzGDzwiN"
+      },
+      "artists": [
+        {
+          "name": "Dr. Head",
+          "url": "https://open.spotify.com/artist/4EuUPZd7dd77wALPA6vaqm"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600000,
+      "name": "Pure Theta waves binaural beats relaxing sound atmospheres ambient music and chilling sound effects",
+      "url": "https://open.spotify.com/track/0AiJ6kUC6VMLoLWHPSNAQU"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats & Waterscapes",
+        "url": "https://open.spotify.com/album/2kPbUdzj1yBPCP3zjgVEKy"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Reduce Anxiety (4 Hz Theta Binaural Beat)",
+      "url": "https://open.spotify.com/track/24MCtMipn00jSPmWCbHN2K"
+    },
+    {
+      "album": {
+        "name": "Relaxing Theta Waves (2 Hours): Slow Down Your Brainwaves",
+        "url": "https://open.spotify.com/album/0HDfWpdR7amJCTXZ9iZpyM"
+      },
+      "artists": [
+        {
+          "name": "The Meditative State",
+          "url": "https://open.spotify.com/artist/3UtRxvQoqUHe0CNTweNEcH"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309998,
+      "name": "Relaxing Theta Waves",
+      "url": "https://open.spotify.com/track/7rVcqmrbw3VsttjwReWha6"
+    },
+    {
+      "album": {
+        "name": "REM - Theta Waves for Sleep",
+        "url": "https://open.spotify.com/album/1enn4sNSU9sIgiCu67qnZi"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "REM - Theta 4 Hz",
+      "url": "https://open.spotify.com/track/40d5ZYvrhFaiGwZa7dtsGt"
+    },
+    {
+      "album": {
+        "name": "Fast Asleep \ud83d\udca4 (Sleep Deeply All Night Long Listening To Relaxing Melodies In Bed Just Before Bedtime)",
+        "url": "https://open.spotify.com/album/4Q5ggnIAUrVAMNDKbirpsw"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep System",
+          "url": "https://open.spotify.com/artist/2yTl4Z3C6ridSOpqDJQKJ5"
+        },
+        {
+          "name": "Deep Dreams",
+          "url": "https://open.spotify.com/artist/2FvoE645Zbx2jMO2Bf9POg"
+        },
+        {
+          "name": "Functional Music",
+          "url": "https://open.spotify.com/artist/6x3iZBJHQbDTFh1lGccJLS"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "REM Sleep",
+      "url": "https://open.spotify.com/track/4DRjPZnK5p3RvaJyVcwQfQ"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep Healing for Relaxation & Recovery",
+        "url": "https://open.spotify.com/album/5ScwFTI720yP2dzQKEtK1d"
+      },
+      "artists": [
+        {
+          "name": "Hypnosis Therapy",
+          "url": "https://open.spotify.com/artist/4BqilCCtLl5MiIEZVVYPmn"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160515,
+      "name": "Rem Sleep",
+      "url": "https://open.spotify.com/track/3EAIBjcbpwO8sqVyup77tA"
+    },
+    {
+      "album": {
+        "name": "Beautiful Instrumental Sleep Music: Close Your Tired Eyes, Sleep Deeply Through The Night and Wake Up Feling Fresh As A Daisy",
+        "url": "https://open.spotify.com/album/3oe7lselSNi8FFViApkrKg"
+      },
+      "artists": [
+        {
+          "name": "Trouble Sleeping Music Universe",
+          "url": "https://open.spotify.com/artist/3lVN6tETt20mSc640VeNHf"
+        },
+        {
+          "name": "Sleep & Dream Academy",
+          "url": "https://open.spotify.com/artist/2jJKqXVwB8FR2JmiS7iMIa"
+        },
+        {
+          "name": "Deep REM Sleep",
+          "url": "https://open.spotify.com/artist/7JNxESgxdYnySfGV9VC1vr"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267428,
+      "name": "REM Sleep",
+      "url": "https://open.spotify.com/track/2FY2VwL8I3LoVxwbYhYL7L"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats 432 Hertz",
+        "url": "https://open.spotify.com/album/5Rz8FkNP4HO1lZoJ1o2mCQ"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "REM Sleep (Theta 4 Hz)",
+      "url": "https://open.spotify.com/track/608egEwtCpDqB5itjrEmHt"
+    },
+    {
+      "album": {
+        "name": "REM Sleep (Theta 4 Hz) Rejuvenates Energy Fields [285 Hz]",
+        "url": "https://open.spotify.com/album/6JaxNC93Lt1IrZRF3aw4BL"
+      },
+      "artists": [
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "REM Sleep (Theta 4 Hz) Rejuvenates Energy Fields [285 Hz]",
+      "url": "https://open.spotify.com/track/4xEWUnYTEEXnqXsGx931dZ"
+    },
+    {
+      "album": {
+        "name": "REM Sleep 963 Hz (Theta 4 Hz) Awaken Intuition",
+        "url": "https://open.spotify.com/album/11skYIQHOhCPYsB6saKw8p"
+      },
+      "artists": [
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "REM Sleep 963 Hz (Theta 4 Hz) Awaken Intuition",
+      "url": "https://open.spotify.com/track/7csKy4Lw8i6HQXwz9J1WlR"
+    },
+    {
+      "album": {
+        "name": "REM SLEEP - Binaural Beat 396 Hz Solfeggio Frequency for Sleep",
+        "url": "https://open.spotify.com/album/2uE3ZLu6GVUx8EWovqBN2T"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        },
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "REM SLEEP Beta Binaural Beat",
+      "url": "https://open.spotify.com/track/1aj0L0W5Jv6LwCOk8LiaEk"
+    },
+    {
+      "album": {
+        "name": "25 REM Sleep Frequencies: Delta Sleep Induction Sleepscape",
+        "url": "https://open.spotify.com/album/54E6Uc3bkusuzKUpnkYJvd"
+      },
+      "artists": [
+        {
+          "name": "REM Sleep Inducing",
+          "url": "https://open.spotify.com/artist/01ZfBC3GYyc7ST5g09CE6E"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332999,
+      "name": "REM Sleep Frequencies",
+      "url": "https://open.spotify.com/track/6TPRXLBh8iBxerSFqXRxvB"
+    },
+    {
+      "album": {
+        "name": "Healing Sleep Music - 101 Songs to Sleep Deeply All Through the Night, Adult and Baby Lullabies",
+        "url": "https://open.spotify.com/album/5drFvkOMWKR7wXB4DAuBFl"
+      },
+      "artists": [
+        {
+          "name": "Healing Music Spirit",
+          "url": "https://open.spotify.com/artist/5NkB1JJXijDRjD6TDI6v8h"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "REM Sleep Pattern",
+      "url": "https://open.spotify.com/track/6b2rL7l3aepJZ4ZlEjM2Rs"
+    },
+    {
+      "album": {
+        "name": "Airplane, Train, Car, & Travel White Noise Sounds to Sleep, Relax, and De-Stress",
+        "url": "https://open.spotify.com/album/1U0Gv7OZhrqO3LzTUJZMvr"
+      },
+      "artists": [
+        {
+          "name": "SleepTherapy",
+          "url": "https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394125,
+      "name": "Rem Sleep Plane Sounds to Relax (White Noise)",
+      "url": "https://open.spotify.com/track/3qeudxZEPotUjwSQ9Qi2dn"
+    },
+    {
+      "album": {
+        "name": "REM Sleep Theta 4 Hz",
+        "url": "https://open.spotify.com/album/0ffHZTtAywXFy9imARV6T1"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Bruguera",
+          "url": "https://open.spotify.com/artist/2PhhdEZrTja5b1Mb1z573x"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479373,
+      "name": "REM Sleep Theta 4 Hz",
+      "url": "https://open.spotify.com/track/4yOWeXW9wUSSCjO58YOgvJ"
+    },
+    {
+      "album": {
+        "name": "Delta Waves for Deep Healing Sleep: Music to Boost Your Immune System",
+        "url": "https://open.spotify.com/album/5FeTgxASEfjNXurQd2YkmS"
+      },
+      "artists": [
+        {
+          "name": "Echo of Light",
+          "url": "https://open.spotify.com/artist/36MlHvEVns1q8zp9zEEIPu"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219001,
+      "name": "Rem Sleep Time",
+      "url": "https://open.spotify.com/track/4PIwhjmcVNSy7QkNnlVhzj"
+    },
+    {
+      "album": {
+        "name": "Sleep Music: Delta Waves \u2013 Relaxing Music to Help You Sleep, Calm Background for Sleeping, Meditation & Relax",
+        "url": "https://open.spotify.com/album/7FM9sIZ8z7sSAOx3hx79B8"
+      },
+      "artists": [
+        {
+          "name": "Deep Sleep Music Masters",
+          "url": "https://open.spotify.com/artist/0mHGunFo1lqmeYSUriJr0U"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235890,
+      "name": "REM Therapy to Sleep",
+      "url": "https://open.spotify.com/track/0IgIAMsTODKvDV5vNm3u0x"
+    },
+    {
+      "album": {
+        "name": "Sinking into Infinity: Binaural Noise",
+        "url": "https://open.spotify.com/album/5cKVsDj6cuICa1QU4dQNnK"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 100007,
+      "name": "Returning Life (Rem Sleep Theta Waves)",
+      "url": "https://open.spotify.com/track/4hOvfoKh1LSxWgHm8j4SHn"
+    },
+    {
+      "album": {
+        "name": "Sinking into Infinity: Binaural Noise",
+        "url": "https://open.spotify.com/album/1Dz0LivjT8fX1VCWcSibWw"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100007,
+      "name": "Returning Life (Rem Sleep Theta Waves)",
+      "url": "https://open.spotify.com/track/52KTU3jYdzhfR4ZxvYQgdu"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71992,
+      "name": "Soothing Showers (7hz Theta Waves)",
+      "url": "https://open.spotify.com/track/5Drs5nQjk7shCqbIK186hK"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 71992,
+      "name": "Soothing Showers (7hz Theta Waves)",
+      "url": "https://open.spotify.com/track/6VGJUMifsQZEWx6Gg0dl0B"
+    },
+    {
+      "album": {
+        "name": "25 REM Sleep Frequencies: Delta Sleep Induction Sleepscape",
+        "url": "https://open.spotify.com/album/54E6Uc3bkusuzKUpnkYJvd"
+      },
+      "artists": [
+        {
+          "name": "REM Sleep Inducing",
+          "url": "https://open.spotify.com/artist/01ZfBC3GYyc7ST5g09CE6E"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254999,
+      "name": "The Deepest Sleep",
+      "url": "https://open.spotify.com/track/3Fo61cHvz9uQvGPzUppe2n"
+    },
+    {
+      "album": {
+        "name": "Deep States of Mind",
+        "url": "https://open.spotify.com/album/0mYZcztVfxPLzJ4mPSH5cp"
+      },
+      "artists": [
+        {
+          "name": "Brainwave Binaural Systems",
+          "url": "https://open.spotify.com/artist/0wUzLDsBbnqu7Mqzg8fhWP"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600032,
+      "name": "Theta 4.5 Hz",
+      "url": "https://open.spotify.com/track/1L2K0YLSfeKRAMOgvMwNtt"
+    },
+    {
+      "album": {
+        "name": "Theta 5.5 Hz: Brainwave Meditation Frequencies for Inner Guidance & Intuition",
+        "url": "https://open.spotify.com/album/4N11YyCLhlkpFo7yVhEHxV"
+      },
+      "artists": [
+        {
+          "name": "Michael J. Emery",
+          "url": "https://open.spotify.com/artist/7aBoAIReXoYfaQoLCEL7ap"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1804691,
+      "name": "Theta 5.5 Hz: Brainwave Meditation Frequencies for Inner Guidance & Intuition",
+      "url": "https://open.spotify.com/track/4dT8GziDdNMCGMDv68SpG6"
+    },
+    {
+      "album": {
+        "name": "Sleep Induction (Vol. 1)",
+        "url": "https://open.spotify.com/album/7i6QuTk5OifSJR8Lh7niDR"
+      },
+      "artists": [
+        {
+          "name": "Moods and Trips",
+          "url": "https://open.spotify.com/artist/7Ki9SJlsvzbgQsyyDCHwcZ"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Theta 8",
+      "url": "https://open.spotify.com/track/3HV0y3zGRYTq0EYeXnx5cg"
+    },
+    {
+      "album": {
+        "name": "Theta Therapy: Introduction to Theta 4 Hz (Brainwave)",
+        "url": "https://open.spotify.com/album/0x2IPTHLeOMLA98Gmq9mL0"
+      },
+      "artists": [
+        {
+          "name": "Stereophonic Therapy",
+          "url": "https://open.spotify.com/artist/5SvVP6VuZ9IPJ3Vq0ebm8C"
+        },
+        {
+          "name": "Deap Sleap",
+          "url": "https://open.spotify.com/artist/0tZWU1MM1FlrqgDNeDhkGr"
+        }
+      ],
+      "date_added": "2022-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "Theta Deep Sleep",
+      "url": "https://open.spotify.com/track/4hpj7TUnYavfGq7WOZ5zdd"
+    },
+    {
+      "album": {
+        "name": "Theta Brainwaves For Relaxation",
+        "url": "https://open.spotify.com/album/6Fk6Anwh1USlmRbz21IWt3"
+      },
+      "artists": [
+        {
+          "name": "Theta Aum",
+          "url": "https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Theta Drone - Relaxation",
+      "url": "https://open.spotify.com/track/6G60uYVwDrTfjcrWAkyruz"
+    },
+    {
+      "album": {
+        "name": "Deep Concentration: Theta Binaural Beats",
+        "url": "https://open.spotify.com/album/25pzL43hpUVDyDGCWUBtCr"
+      },
+      "artists": [
+        {
+          "name": "Life Sync",
+          "url": "https://open.spotify.com/artist/23Ju3YgKExCyL6FifFdDPp"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120530,
+      "name": "Theta Part Two 4-7 Hz",
+      "url": "https://open.spotify.com/track/7f1xSEUhVJBblZxPhFSlu7"
+    },
+    {
+      "album": {
+        "name": "#20 Binaural Beats for Zen Stillness",
+        "url": "https://open.spotify.com/album/3M5OtIlPEMmNGjJf8pHVXf"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Isochronic Tones Lab",
+          "url": "https://open.spotify.com/artist/0D1VRw0eu2OENlTFZpOb2O"
+        },
+        {
+          "name": "Binaural Beats Brainwave Entrainment",
+          "url": "https://open.spotify.com/artist/19JUcz7OOlHDURJdJpnAor"
+        },
+        {
+          "name": "Binaural Beats Brain Waves Isochronic Tones Brain Wave Entertainment",
+          "url": "https://open.spotify.com/artist/3QgipzM3zJLZ2MxQUe70mB"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/0CgIQIdHa9rcgM9SFdvivZ"
+    },
+    {
+      "album": {
+        "name": "#16 Brain Sounds for Out of Body Experiences",
+        "url": "https://open.spotify.com/album/4dKdHuLHbSzgAHsumMqAYs"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Isochronic Tones Lab",
+          "url": "https://open.spotify.com/artist/0D1VRw0eu2OENlTFZpOb2O"
+        },
+        {
+          "name": "Binaural Beats Brainwave Entrainment",
+          "url": "https://open.spotify.com/artist/19JUcz7OOlHDURJdJpnAor"
+        },
+        {
+          "name": "Binaural Beats Brain Waves Isochronic Tones Brain Wave Entertainment",
+          "url": "https://open.spotify.com/artist/3QgipzM3zJLZ2MxQUe70mB"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/7s19ehouI1LoX7Tb1WNbdF"
+    },
+    {
+      "album": {
+        "name": "Sleep Sounds: Binural Music",
+        "url": "https://open.spotify.com/album/2PEe2JAAbeTioRgmSpfbVT"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/6JUpXHOhsQWn0ptRITy1Gq"
+    },
+    {
+      "album": {
+        "name": "#Quiet Ambience",
+        "url": "https://open.spotify.com/album/30TXNWQkiKCgftn8Mqh04s"
+      },
+      "artists": [
+        {
+          "name": "Loopable Ambience",
+          "url": "https://open.spotify.com/artist/45tSb81AgKpk13QoksIEK8"
+        },
+        {
+          "name": "Vacuum Cleaner White Noise",
+          "url": "https://open.spotify.com/artist/1BjzNxqzIKFU4ySyuaAUrF"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/1fRqxJApquykOfgXVZhmPn"
+    },
+    {
+      "album": {
+        "name": "Mellow Alpha Wave Sleep Songs",
+        "url": "https://open.spotify.com/album/3tPjodj9pfIU4CJYaV7DAK"
+      },
+      "artists": [
+        {
+          "name": "Sleep Sound Library",
+          "url": "https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 190262,
+      "name": "Theta Wave 5Hz",
+      "url": "https://open.spotify.com/track/2n685RNPUFRPbZAKFiGoeM"
+    },
+    {
+      "album": {
+        "name": "\" Deep Therapy Vibrations \"",
+        "url": "https://open.spotify.com/album/2TXP6UatW9JtkR9EIgKMed"
+      },
+      "artists": [
+        {
+          "name": "Study Alpha Waves",
+          "url": "https://open.spotify.com/artist/3UDxdbAXqqKJG1pWgUgOCp"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232862,
+      "name": "Theta Wave 5Hz Full Tremolo",
+      "url": "https://open.spotify.com/track/6g2lwNobMir3LsRiGWyFmR"
+    },
+    {
+      "album": {
+        "name": "Sounds for Sleep: Binaural Beats, Isochronic Tones, Alpha Waves, Theta Waves and Ambient Music For Sleep, Relaxation, Brainwave Entrainment, Deep Sleep Aid, Brain Waves Therapy, Solfeggio Healing Frequencies and Sleeping Music",
+        "url": "https://open.spotify.com/album/3Mujv2RyEkpWYhiwlpvWVl"
+      },
+      "artists": [
+        {
+          "name": "Brain Waves Therapy",
+          "url": "https://open.spotify.com/artist/34RGl0uVjzk6plsyUDTssq"
+        },
+        {
+          "name": "The Solfeggio Peace Orchestra",
+          "url": "https://open.spotify.com/artist/1TrDIYcmgj5g2grVNGzcqN"
+        },
+        {
+          "name": "Isochronic Tones Brainwave Entrainment",
+          "url": "https://open.spotify.com/artist/1brqArPBIHyMe96cqUA2Vz"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142792,
+      "name": "Theta Waves",
+      "url": "https://open.spotify.com/track/0xMKHu2QQi7mszN7VkgJRE"
+    },
+    {
+      "album": {
+        "name": "Super Lucky: Attract Good Luck With Positive Affirmations Ischronic Tones Brainwave Entrainment",
+        "url": "https://open.spotify.com/album/6yzrHBpa7wdDpmyG8QmCu2"
+      },
+      "artists": [
+        {
+          "name": "Subtle Mind Expansion",
+          "url": "https://open.spotify.com/artist/2GZTcvdQzd7OgcQC0jnAsJ"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 602000,
+      "name": "Theta Waves 7hz",
+      "url": "https://open.spotify.com/track/2S5VZzo3RCO5vLnkIM9F4j"
+    },
+    {
+      "album": {
+        "name": "Binaural Theta Sinus Waves",
+        "url": "https://open.spotify.com/album/0GLL7MKVf5xLAJRCu2uvkU"
+      },
+      "artists": [
+        {
+          "name": "Binaural Symphony",
+          "url": "https://open.spotify.com/artist/73sccG1E39apGUzWFpCfqs"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "Theta Waves and Meditation Chants 7 HZ",
+      "url": "https://open.spotify.com/track/3lezdkDcGZrqEWeEgVD1yb"
+    },
+    {
+      "album": {
+        "name": "Attract Money Wealth Abundance Prosperity Affirmations Meditation Frequencies 432 hz",
+        "url": "https://open.spotify.com/album/3jHsqU4JLOMgfWgUvBfiAA"
+      },
+      "artists": [
+        {
+          "name": "Brain Sync Spiritual Sounds",
+          "url": "https://open.spotify.com/artist/0HNzt9EMme3cFwc3FMFwbu"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529188,
+      "name": "Theta Waves Deep Sleep Stress Relief Meditation",
+      "url": "https://open.spotify.com/track/5y6siDzFdgsZnNpLui8Dtw"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats for Deep Sleeping",
+        "url": "https://open.spotify.com/album/6UWhxbcXZLWc8g8N1AfJod"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/1CT6mKyUMshi15W3a42r6R"
+    },
+    {
+      "album": {
+        "name": "12 Ambient Sounds: Perfect for Massage & Relaxation",
+        "url": "https://open.spotify.com/album/3KSav8qEyzxbZCZTCSNqb6"
+      },
+      "artists": [
+        {
+          "name": "Massage Therapy Music",
+          "url": "https://open.spotify.com/artist/4hKUd7Y5CiAGqVk2Z4NV9P"
+        },
+        {
+          "name": "Massage",
+          "url": "https://open.spotify.com/artist/0HvEQZLOZip1nNQ9Vb4pbl"
+        },
+        {
+          "name": "Spa Relaxation & Spa",
+          "url": "https://open.spotify.com/artist/3B6M89h47V1ZxSJUYjL0ZO"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/21OG5CTzNIICHNzzetBhyI"
+    },
+    {
+      "album": {
+        "name": "#13 Delicate Tracks for Relaxation & Massage",
+        "url": "https://open.spotify.com/album/0K9Cbxy0pnkSapJSRmAltM"
+      },
+      "artists": [
+        {
+          "name": "Musica Relajante",
+          "url": "https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D"
+        },
+        {
+          "name": "Oasis of Relaxation and Meditation",
+          "url": "https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT"
+        },
+        {
+          "name": "Rising Higher Meditation",
+          "url": "https://open.spotify.com/artist/6SitTihof6iZX1KYW25CQY"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-25",
+      "duration_ms": 231255,
+      "name": "Theta Waves for Sleeping Aid",
+      "url": "https://open.spotify.com/track/3B4UpeTzNGiKPfBe8tq9GD"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats Sleep Music: Relaxing Music for Deep Sleep",
+        "url": "https://open.spotify.com/album/4pMAqx2MLp8S3YEVuvqFWv"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        },
+        {
+          "name": "Solitude Beats",
+          "url": "https://open.spotify.com/artist/5dyGVR8SQK2BOKPSGMBKfs"
+        },
+        {
+          "name": "Binaural Beats Sleep Tones",
+          "url": "https://open.spotify.com/artist/3frcW4mlikKOWwuOBkyPcT"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143239,
+      "name": "Theta Waves Sleeping Music",
+      "url": "https://open.spotify.com/track/274aOCkcBdm5ypxtJruHXk"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats For Sleep, Ambient Sleeping Music and Rainforest Thunderstorm Sounds For Sleep",
+        "url": "https://open.spotify.com/album/6ajA05OzgtEMxv2Uho987M"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5lKaPKuNyNz6LN6NfM5vz1"
+        },
+        {
+          "name": "Binaural Beats Sleep",
+          "url": "https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r"
+        },
+        {
+          "name": "Binaural Beats Experience",
+          "url": "https://open.spotify.com/artist/2bCeGOUCvrYkh5Cn4SRQh1"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Theta Waves Thunderstorm Sleep Aid",
+      "url": "https://open.spotify.com/track/3hH3sZmR9zdUpBjZzsYi1n"
+    },
+    {
+      "album": {
+        "name": "Theta: Easy Sleep: Extremely Relaxed 130 Hz: (4 Hz: Binaural Beats Isochronic Tones)",
+        "url": "https://open.spotify.com/album/4lBpGtFqHdjJ5zvTjOLi6s"
+      },
+      "artists": [
+        {
+          "name": "My Meditation Music",
+          "url": "https://open.spotify.com/artist/7osLWgmxesVyWxpOLMN600"
+        },
+        {
+          "name": "Binaural Beats Waves",
+          "url": "https://open.spotify.com/artist/2ySEhB5dslPu36hAOATAQG"
+        },
+        {
+          "name": "Binaural Beats Noise",
+          "url": "https://open.spotify.com/artist/1HIfN9zNAG8gJjDuN4IKuE"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120429,
+      "name": "Theta: Easy Sleep - Extremely Relaxed 130 Hz: (4 Hz: Binaural Beats - Isochronic Tones) - Easy Sleep - Extremely Relaxed",
+      "url": "https://open.spotify.com/track/76HCNuEVtsmFpYByZsvSLU"
+    },
+    {
+      "album": {
+        "name": "Relaxation Theta Waves 4.9hz",
+        "url": "https://open.spotify.com/album/4HRQDKPZPMKABA7UHaPwNL"
+      },
+      "artists": [
+        {
+          "name": "Binaural Doctor",
+          "url": "https://open.spotify.com/artist/53wO7ClguNcv53o8FHZW4X"
+        }
+      ],
+      "date_added": "2022-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Thunder & Relaxation Theta Waves 4.9hz",
+      "url": "https://open.spotify.com/track/3azUPM0Vz1HwdBR5AElba0"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/7jCmGSMQoztCrgVndb5ID6"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2021-12-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 96033,
+      "name": "Wet Leaves (5hz Theta Waves)",
+      "url": "https://open.spotify.com/track/0vFi131lZZ31k63oN9dKtU"
+    },
+    {
+      "album": {
+        "name": "Earth at Rest: Binaural Nature",
+        "url": "https://open.spotify.com/album/5uZjw4X6smJ2x9M7okSmIN"
+      },
+      "artists": [
+        {
+          "name": "Binaural Universe",
+          "url": "https://open.spotify.com/artist/6qUTJzdKCvey3G3fksmy1v"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96033,
+      "name": "Wet Leaves (5hz Theta Waves)",
+      "url": "https://open.spotify.com/track/6eeOaUpgVazgB3T9mkmSbC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3TRdW1ekdvM"
 }

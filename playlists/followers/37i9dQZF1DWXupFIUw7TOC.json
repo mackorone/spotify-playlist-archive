@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 779177,
-  "2021-12-26": 779371,
-  "2021-12-27": 779825,
-  "2021-12-28": 779824,
-  "2021-12-29": 780054,
-  "2021-12-30": 780269,
-  "2021-12-31": 780526,
-  "2022-01-01": 780873,
-  "2022-01-02": 780934,
-  "2022-01-03": 781090,
-  "2022-01-04": 781247,
-  "2022-01-05": 781387,
-  "2022-01-06": 781563,
-  "2022-01-07": 781716,
-  "2022-01-08": 782115,
-  "2022-01-09": 782135,
-  "2022-01-10": 782369,
-  "2022-01-11": 782405,
-  "2022-01-12": 782508,
-  "2022-01-13": 782508,
-  "2022-01-14": 782508,
-  "2022-01-15": 782508,
-  "2022-01-16": 782508,
-  "2022-01-17": 782508,
-  "2022-01-18": 782508,
-  "2022-01-19": 782508,
-  "2022-01-20": 782508,
-  "2022-01-21": 782508,
-  "2022-01-22": 782508,
-  "2022-01-23": 782508,
-  "2022-01-24": 782508,
-  "2022-01-25": 782508,
-  "2022-01-26": 782508,
-  "2022-01-27": 782508,
-  "2022-01-28": 782508,
-  "2022-01-29": 782508,
-  "2022-01-30": 782508,
-  "2022-01-31": 782508,
-  "2022-02-01": 782508,
-  "2022-02-02": 782508,
-  "2022-02-03": 782508,
-  "2022-02-04": 782508,
-  "2022-02-05": 782508,
-  "2022-02-06": 782508,
-  "2022-02-07": 782508,
-  "2022-02-08": 782508,
-  "2022-02-09": 782508,
-  "2022-02-10": 782508,
-  "2022-02-11": 782508,
-  "2022-02-12": 782508,
-  "2022-02-13": 782508,
-  "2022-02-14": 782508,
-  "2022-02-15": 782508,
-  "2022-02-16": 782508,
-  "2022-02-17": 782508,
-  "2022-02-18": 782508,
-  "2022-02-19": 782508,
-  "2022-02-20": 782508,
-  "2022-02-21": 782508,
-  "2022-02-22": 782508,
-  "2022-02-23": 782508,
-  "2022-02-24": 782508,
-  "2022-02-25": 782508,
-  "2022-02-26": 782508,
-  "2022-02-27": 782508,
-  "2022-02-28": 782508,
-  "2022-03-01": 782508,
-  "2022-03-02": 782508,
-  "2022-03-03": 782508,
-  "2022-03-04": 782508,
-  "2022-03-05": 782508,
-  "2022-03-06": 782508,
-  "2022-03-07": 782508,
-  "2022-03-08": 782508,
-  "2022-03-09": 782508,
-  "2022-03-10": 782508,
-  "2022-03-11": 782508,
-  "2022-03-12": 782508,
-  "2022-03-13": 782508,
-  "2022-03-14": 782508,
-  "2022-03-15": 782508,
-  "2022-03-16": 782508,
-  "2022-03-17": 782508,
-  "2022-03-18": 782508,
-  "2022-03-19": 782508,
-  "2022-03-20": 782508,
-  "2022-03-21": 782508,
-  "2022-03-22": 782508,
-  "2022-03-23": 782508,
-  "2022-03-24": 782508,
-  "2022-03-25": 782508,
-  "2022-03-26": 782508,
-  "2022-03-27": 782508,
-  "2022-03-28": 782508,
-  "2022-03-30": 782508,
-  "2022-03-31": 782508,
-  "2022-04-01": 782508,
-  "2022-04-02": 782508,
-  "2022-04-03": 782508,
-  "2022-04-04": 782508,
-  "2022-04-05": 782508,
-  "2022-04-06": 782508,
-  "2022-04-07": 782508,
-  "2022-04-08": 782508,
-  "2022-04-09": 782508,
-  "2022-04-10": 782508,
-  "2022-04-11": 782508,
-  "2022-04-12": 782508,
-  "2022-04-13": 782508,
-  "2022-04-14": 782508,
-  "2022-04-15": 782508,
-  "2022-04-16": 782508,
-  "2022-04-17": 782508,
-  "2022-04-18": 782508,
-  "2022-04-19": 782508,
-  "2022-04-20": 782508,
-  "2022-04-21": 782508,
-  "2022-04-22": 782508,
-  "2022-04-23": 782508,
-  "2022-04-24": 782508,
-  "2022-04-25": 782508,
-  "2022-04-26": 782508,
-  "2022-04-27": 782508,
-  "2022-04-28": 782508,
-  "2022-04-29": 782508,
-  "2022-04-30": 782508,
-  "2022-05-01": 782508,
-  "2022-05-02": 782508,
-  "2022-05-03": 782508,
-  "2022-05-04": 782508,
-  "2022-05-05": 782508,
-  "2022-05-06": 782508,
-  "2022-05-07": 782508,
-  "2022-05-08": 782508,
-  "2022-05-09": 782508,
-  "2022-05-10": 782508,
-  "2022-05-11": 782508,
-  "2022-05-12": 782508,
-  "2022-05-13": 782508,
-  "2022-05-14": 782508,
-  "2022-05-15": 782508,
-  "2022-05-16": 782508,
-  "2022-05-17": 782508,
-  "2022-05-18": 782508,
-  "2022-05-19": 782508,
-  "2022-05-20": 782508,
-  "2022-05-21": 782508,
-  "2022-05-22": 782508,
-  "2022-05-23": 782508,
-  "2022-05-24": 782508,
-  "2022-05-25": 782508,
-  "2022-05-26": 782508,
-  "2022-05-27": 782508,
-  "2022-05-28": 782508,
-  "2022-05-29": 782508,
-  "2022-05-30": 782508,
-  "2022-05-31": 782508,
-  "2022-06-01": 782508,
-  "2022-06-02": 782508,
-  "2022-06-03": 782508,
-  "2022-06-04": 782508,
-  "2022-06-05": 782508,
-  "2022-06-06": 782508,
-  "2022-06-07": 782508,
-  "2022-06-08": 782508,
-  "2022-06-09": 782508,
-  "2022-06-10": 782508,
-  "2022-06-11": 782508,
-  "2022-06-12": 782508,
-  "2022-06-13": 782508,
-  "2022-06-14": 782508,
-  "2022-06-15": 782508,
-  "2022-06-16": 782508,
-  "2022-06-17": 782508,
-  "2022-06-18": 782508,
-  "2022-06-19": 782508,
-  "2022-06-20": 782508,
-  "2022-06-21": 782508,
-  "2022-06-22": 782508,
-  "2022-06-23": 782508,
-  "2022-06-24": 782508,
-  "2022-06-25": 782508,
-  "2022-06-26": 782508,
-  "2022-06-27": 782508,
-  "2022-06-28": 782508,
-  "2022-06-29": 782508,
-  "2022-06-30": 782508,
-  "2022-07-01": 782508,
-  "2022-07-02": 782508,
-  "2022-07-03": 782508,
-  "2022-07-04": 782508,
-  "2022-07-05": 782508,
-  "2022-07-06": 782508,
-  "2022-07-07": 782508,
-  "2022-07-08": 782508,
-  "2022-07-09": 782508,
-  "2022-07-10": 782508,
-  "2022-07-11": 782508,
-  "2022-07-12": 782508,
-  "2022-07-13": 782508,
-  "2022-07-14": 782508,
-  "2022-07-15": 782508,
-  "2022-07-16": 782508,
-  "2022-07-17": 782508,
-  "2022-07-18": 782508,
-  "2022-07-19": 782508,
-  "2022-07-20": 782508,
-  "2022-07-21": 782508,
-  "2022-07-22": 782508,
-  "2022-07-23": 782508,
-  "2022-07-24": 782508,
-  "2022-07-25": 782508,
-  "2022-07-26": 782508,
-  "2022-07-27": 782508,
-  "2022-07-28": 782508,
-  "2022-07-29": 782508,
-  "2022-07-30": 782508,
-  "2022-07-31": 782508,
-  "2022-08-01": 782508,
-  "2022-08-02": 782508,
-  "2022-08-03": 782508,
-  "2022-08-04": 782508,
-  "2022-08-05": 782508,
-  "2022-08-06": 782508,
-  "2022-08-07": 782508,
-  "2022-08-08": 782508,
-  "2022-08-09": 782508,
-  "2022-08-10": 782508,
-  "2022-08-11": 782508,
-  "2022-08-12": 782508,
-  "2022-08-13": 782508,
-  "2022-08-14": 782508,
-  "2022-08-15": 782508,
-  "2022-08-16": 782508,
-  "2022-08-17": 782508,
-  "2022-08-18": 782508,
-  "2022-08-19": 782508,
-  "2022-08-20": 782508,
-  "2022-08-21": 782508,
-  "2022-08-22": 782508,
-  "2022-08-23": 782508,
-  "2022-08-24": 782508,
-  "2022-08-25": 782508,
-  "2022-08-26": 782508,
-  "2022-08-27": 782508,
-  "2022-08-28": 782508,
-  "2022-08-29": 782508,
-  "2022-08-30": 782508,
-  "2022-08-31": 782508,
-  "2022-09-01": 782508,
-  "2022-09-02": 782508,
-  "2022-09-03": 782508,
-  "2022-09-04": 782508,
-  "2022-09-05": 782508,
-  "2022-09-06": 782508,
-  "2022-09-07": 782508,
-  "2022-09-09": 782508,
-  "2022-09-10": 782508,
-  "2022-09-11": 782508,
-  "2022-09-12": 782508,
-  "2022-09-13": 782508,
-  "2022-09-15": 782508,
-  "2022-09-16": 782508,
-  "2022-09-17": 782508,
-  "2022-09-18": 782508,
-  "2022-09-19": 782508,
-  "2022-09-20": 782508,
-  "2022-09-21": 782508,
-  "2022-09-22": 782508,
-  "2022-09-23": 782508,
-  "2022-09-24": 782508,
-  "2022-09-25": 782508,
-  "2022-09-26": 782508,
-  "2022-09-27": 782508,
-  "2022-09-28": 782508,
-  "2022-09-29": 782508,
-  "2022-09-30": 782508,
-  "2022-10-01": 782508,
-  "2022-10-02": 782508,
-  "2022-10-03": 782508,
-  "2022-10-04": 782508,
-  "2022-10-05": 782508,
-  "2022-10-06": 782508,
-  "2022-10-07": 782508,
-  "2022-10-08": 782508,
-  "2022-10-09": 782508,
-  "2022-10-10": 782508,
-  "2022-10-11": 782508,
-  "2022-10-12": 782508,
-  "2022-10-13": 782508,
-  "2022-10-14": 782508,
-  "2022-10-15": 782508,
-  "2022-10-16": 782508,
-  "2022-10-17": 782508,
-  "2022-10-18": 782508,
-  "2022-10-19": 782508,
-  "2022-10-20": 782508,
-  "2022-10-21": 782508,
-  "2022-10-22": 782508,
-  "2022-10-23": 782508,
-  "2022-10-24": 782508,
-  "2022-10-25": 782508,
-  "2022-10-26": 782508,
-  "2022-10-27": 782508,
-  "2022-10-28": 782508,
-  "2022-10-29": 782508,
-  "2022-10-30": 782508,
-  "2022-10-31": 782508,
-  "2022-11-01": 782508,
-  "2022-11-02": 782508,
-  "2022-11-03": 782508,
-  "2022-11-04": 782508,
-  "2022-11-05": 782508,
-  "2022-11-06": 782508,
-  "2022-11-07": 782508,
-  "2022-11-08": 782508,
-  "2022-11-09": 782508,
-  "2022-11-10": 782508,
-  "2022-11-11": 782508,
-  "2022-11-12": 782508,
-  "2022-11-13": 782508,
-  "2022-11-14": 782508,
-  "2022-11-15": 782508,
-  "2022-11-16": 782508,
-  "2022-11-17": 782508,
-  "2022-11-18": 782508,
-  "2022-11-19": 782508,
-  "2022-11-20": 782508,
-  "2022-11-21": 782508,
-  "2022-11-22": 782508,
-  "2022-11-23": 782508,
-  "2022-11-24": 782508,
-  "2022-11-25": 782508,
-  "2022-11-26": 782508,
-  "2022-11-27": 782508,
-  "2022-11-28": 782508,
-  "2022-11-29": 782508,
-  "2022-11-30": 782508,
-  "2022-12-01": 782508,
-  "2022-12-02": 782508,
-  "2022-12-03": 782508,
-  "2022-12-04": 782508,
-  "2022-12-05": 782508,
-  "2022-12-06": 782508,
-  "2022-12-07": 782508,
-  "2022-12-08": 782508,
-  "2022-12-09": 782508,
-  "2022-12-10": 782508,
-  "2022-12-11": 782508,
-  "2022-12-12": 782508,
-  "2022-12-13": 782508,
-  "2022-12-14": 782508,
-  "2022-12-15": 782508,
-  "2022-12-16": 782508,
-  "2022-12-17": 782508,
-  "2022-12-18": 782508,
-  "2022-12-19": 782508,
-  "2022-12-20": 782508,
-  "2022-12-21": 782508,
-  "2022-12-22": 782508,
-  "2022-12-24": 782508,
-  "2022-12-25": 782508,
-  "2022-12-26": 782508,
-  "2022-12-27": 782508,
-  "2022-12-28": 782508,
-  "2022-12-29": 782508,
-  "2022-12-30": 782508,
-  "2022-12-31": 782508,
-  "2023-01-01": 782508,
-  "2023-01-02": 782508,
-  "2023-01-03": 782508,
-  "2023-01-04": 782508,
-  "2023-01-05": 782508,
-  "2023-01-06": 782508,
-  "2023-01-07": 782508,
-  "2023-01-08": 782508,
-  "2023-01-09": 782508,
-  "2023-01-10": 782508,
-  "2023-01-11": 782508,
-  "2023-01-12": 782508,
-  "2023-01-13": 782508,
-  "2023-01-14": 782508,
-  "2023-01-15": 782508,
-  "2023-01-16": 782508,
-  "2023-01-17": 782508,
-  "2023-01-18": 782508,
-  "2023-01-19": 782508,
-  "2023-01-20": 782508,
-  "2023-01-21": 782508,
-  "2023-01-22": 782508,
-  "2023-01-23": 782508,
-  "2023-01-24": 782508,
-  "2023-01-25": 782508,
-  "2023-01-26": 782508,
-  "2023-01-27": 782508,
-  "2023-01-28": 782508,
-  "2023-01-29": 782508,
-  "2023-01-30": 782508,
-  "2023-01-31": 782508,
-  "2023-02-01": 782508,
-  "2023-02-02": 782508,
-  "2023-02-03": 782508,
-  "2023-02-04": 782508,
-  "2023-02-05": 782508,
-  "2023-02-06": 782508,
-  "2023-02-07": 782508,
-  "2023-02-08": 782508,
-  "2023-02-09": 782508,
-  "2023-02-10": 782508,
-  "2023-02-11": 782508,
-  "2023-02-12": 782508,
-  "2023-02-13": 782508,
-  "2023-02-14": 782508,
-  "2023-02-15": 782508,
-  "2023-02-16": 782508,
-  "2023-02-17": 782508,
-  "2023-02-18": 782508,
-  "2023-02-19": 782508,
-  "2023-02-20": 782508,
-  "2023-02-21": 782508,
-  "2023-02-22": 782508,
-  "2023-02-23": 782508,
-  "2023-02-24": 782508,
-  "2023-02-25": 782508,
-  "2023-02-26": 782508,
-  "2023-02-27": 782508,
-  "2023-02-28": 782508,
-  "2023-03-01": 782508,
-  "2023-03-02": 782508,
-  "2023-03-03": 782508,
-  "2023-03-04": 782508,
-  "2023-03-05": 782508,
-  "2023-03-06": 782508,
-  "2023-03-07": 782508,
-  "2023-03-08": 782508,
-  "2023-03-09": 782508,
-  "2023-03-10": 782508,
-  "2023-03-11": 782508,
-  "2023-03-12": 782508,
-  "2023-03-13": 782508,
-  "2023-03-14": 782508,
-  "2023-03-15": 782508,
-  "2023-03-16": 782508,
-  "2023-03-17": 782508,
-  "2023-03-18": 782508,
-  "2023-03-19": 782508,
-  "2023-03-20": 782508,
-  "2023-03-21": 782508,
-  "2023-03-22": 782508,
-  "2023-03-23": 782508,
-  "2023-03-24": 782508,
-  "2023-03-25": 782508,
-  "2023-03-26": 782508,
-  "2023-03-27": 782508,
-  "2023-03-28": 782508,
-  "2023-03-29": 782508,
-  "2023-03-30": 782508,
-  "2023-03-31": 782508,
-  "2023-04-01": 782508,
-  "2023-04-02": 782508,
-  "2023-04-03": 782508,
-  "2023-04-04": 782508,
-  "2023-04-05": 782508,
-  "2023-04-06": 782508,
-  "2023-04-07": 782508,
-  "2023-04-09": 782508,
-  "2023-04-10": 782508,
-  "2023-04-11": 782508,
-  "2023-04-12": 782508,
-  "2023-04-13": 782508,
-  "2023-04-14": 782508,
-  "2023-04-15": 782508,
-  "2023-04-16": 782508,
-  "2023-04-17": 782508,
-  "2023-04-18": 782508,
-  "2023-04-19": 782508,
-  "2023-04-20": 782508,
-  "2023-04-21": 782508,
-  "2023-04-22": 782508,
-  "2023-04-23": 782508,
-  "2023-04-24": 782508,
-  "2023-04-25": 782508,
-  "2023-04-26": 782508,
-  "2023-04-27": 782508,
-  "2023-04-28": 782508,
-  "2023-04-29": 782508,
-  "2023-04-30": 782508,
-  "2023-05-01": 782508,
-  "2023-05-02": 782508,
-  "2023-05-03": 782508,
-  "2023-05-04": 782508,
-  "2023-05-05": 782508,
-  "2023-05-06": 782508,
-  "2023-05-07": 782508,
-  "2023-05-08": 782508,
-  "2023-05-09": 782508,
-  "2023-05-10": 782508,
-  "2023-05-11": 782508,
-  "2023-05-12": 782508,
-  "2023-05-13": 782508,
-  "2023-05-14": 782508,
-  "2023-05-15": 782508,
-  "2023-05-16": 782508,
-  "2023-05-17": 782508,
-  "2023-05-18": 782508,
-  "2023-05-19": 782508,
-  "2023-05-20": 782508,
-  "2023-05-21": 782508,
-  "2023-05-22": 782508,
-  "2023-05-23": 782508,
-  "2023-05-24": 782508,
-  "2023-05-25": 782508,
-  "2023-05-26": 782508,
-  "2023-05-27": 782508,
-  "2023-05-28": 782508,
-  "2023-05-29": 782508,
-  "2023-05-30": 782508,
-  "2023-05-31": 782508,
-  "2023-06-01": 782508,
-  "2023-06-02": 782508,
-  "2023-06-03": 782508,
-  "2023-06-04": 782508,
-  "2023-06-05": 782508,
-  "2023-06-06": 782508,
-  "2023-06-07": 782508,
-  "2023-06-08": 782508,
-  "2023-06-09": 782508,
-  "2023-06-10": 782508,
-  "2023-06-11": 782508,
-  "2023-06-12": 782508,
-  "2023-06-13": 782508,
-  "2023-06-14": 782508,
-  "2023-06-15": 782508,
-  "2023-06-16": 782508,
-  "2023-06-17": 782508,
-  "2023-06-18": 782508,
-  "2023-06-19": 782508,
-  "2023-06-20": 782508,
-  "2023-06-21": 782508,
-  "2023-06-22": 782508,
-  "2023-06-23": 782508,
-  "2023-06-24": 782508,
-  "2023-06-25": 782508,
-  "2023-06-26": 782508,
-  "2023-06-27": 782508,
-  "2023-06-28": 782508,
-  "2023-06-29": 782508,
-  "2023-06-30": 782508,
-  "2023-07-01": 782508,
-  "2023-07-02": 782508,
-  "2023-07-03": 782508,
-  "2023-07-04": 782508,
-  "2023-07-05": 782508,
-  "2023-07-06": 782508,
-  "2023-07-07": 782508,
-  "2023-07-08": 782508,
-  "2023-07-09": 782508,
-  "2023-07-10": 782508,
-  "2023-07-11": 782508,
-  "2023-07-12": 782508,
-  "2023-07-13": 782508,
-  "2023-07-14": 782508,
-  "2023-07-15": 782508,
-  "2023-07-16": 782508,
-  "2023-07-17": 782508,
-  "2023-07-18": 782508,
-  "2023-07-19": 782508,
-  "2023-07-20": 782508,
-  "2023-07-21": 782508,
-  "2023-07-22": 782508,
-  "2023-07-23": 782508,
-  "2023-07-24": 782508,
-  "2023-07-25": 782508,
-  "2023-07-26": 782508,
-  "2023-07-27": 782508,
-  "2023-07-28": 782508,
-  "2023-07-29": 782508,
-  "2023-07-30": 782508,
-  "2023-07-31": 782508,
-  "2023-08-01": 782508,
-  "2023-08-02": 782508,
-  "2023-08-03": 782508,
-  "2023-08-04": 782508,
-  "2023-08-05": 782508,
-  "2023-08-06": 782508,
-  "2023-08-07": 782508,
-  "2023-08-08": 782508,
-  "2023-08-09": 782508,
-  "2023-08-10": 782508,
-  "2023-08-11": 782508,
-  "2023-08-12": 782508,
-  "2023-08-13": 782508,
-  "2023-08-14": 782508,
-  "2023-08-15": 782508,
-  "2023-08-16": 782508,
-  "2023-08-17": 782508,
-  "2023-08-18": 782508,
-  "2023-08-19": 782508,
-  "2023-08-20": 782508,
-  "2023-08-21": 782508,
-  "2023-08-22": 782508,
-  "2023-08-23": 782508,
-  "2023-08-24": 782508,
-  "2023-08-25": 782508,
-  "2023-08-26": 782508,
-  "2023-08-27": 782508,
-  "2023-08-28": 782508,
-  "2023-08-29": 782508,
-  "2023-08-30": 782508,
-  "2023-08-31": 782508,
-  "2023-09-01": 782508,
-  "2023-09-02": 782508,
-  "2023-09-03": 782508,
-  "2023-09-04": 782508,
-  "2023-09-05": 782508,
-  "2023-09-06": 782508,
-  "2023-09-07": 782508,
-  "2023-09-08": 782508,
-  "2023-09-09": 782508,
-  "2023-09-10": 782508,
-  "2023-09-11": 782508,
-  "2023-09-12": 782508,
-  "2023-09-13": 782508,
-  "2023-09-14": 782508,
-  "2023-09-15": 782508,
-  "2023-09-16": 782508,
-  "2023-09-17": 782508,
-  "2023-09-18": 782508,
-  "2023-09-19": 782508,
-  "2023-09-20": 782508,
-  "2023-09-21": 782508,
-  "2023-09-22": 782508,
-  "2023-09-23": 782508,
-  "2023-09-24": 782508,
-  "2023-09-25": 782508,
-  "2023-09-26": 782508,
-  "2023-09-27": 782508,
-  "2023-09-28": 782508,
-  "2023-09-29": 782508,
-  "2023-09-30": 782508,
-  "2023-10-01": 782508,
-  "2023-10-02": 782508,
-  "2023-10-03": 782508,
-  "2023-10-04": 782508,
-  "2023-10-05": 782508,
-  "2023-10-06": 782508,
-  "2023-10-07": 782508,
-  "2023-10-08": 782508,
-  "2023-10-09": 782508,
-  "2023-10-10": 782508,
-  "2023-10-11": 782508,
-  "2023-10-12": 782508,
-  "2023-10-13": 782508,
-  "2023-10-14": 782508,
-  "2023-10-15": 782508,
-  "2023-10-16": 782508,
-  "2023-10-17": 782508,
-  "2023-10-18": 782508,
-  "2023-10-19": 782508,
-  "2023-10-20": 782508,
-  "2023-10-21": 782508,
-  "2023-10-22": 782508,
-  "2023-10-23": 782508,
-  "2023-10-24": 782508,
-  "2023-10-25": 782508,
-  "2023-10-26": 782508,
-  "2023-10-27": 782508,
-  "2023-10-28": 782508,
-  "2023-10-29": 782508,
-  "2023-10-30": 782508,
-  "2023-10-31": 782508,
-  "2023-11-01": 782508,
-  "2023-11-02": 782508,
-  "2023-11-03": 782508,
-  "2023-11-04": 782508,
-  "2023-11-05": 782508,
-  "2023-11-06": 782508,
-  "2023-11-07": 782508,
-  "2023-11-08": 782508,
-  "2023-11-09": 782508,
-  "2023-11-10": 782508,
-  "2023-11-11": 782508,
-  "2023-11-12": 782508,
-  "2023-11-13": 782508,
-  "2023-11-14": 782508,
-  "2023-11-15": 782508,
-  "2023-11-16": 782508,
-  "2023-11-17": 782508,
-  "2023-11-18": 782508,
-  "2023-11-19": 782508,
-  "2023-11-20": 782508,
-  "2023-11-21": 782508,
-  "2023-11-22": 782508,
-  "2023-11-23": 782508,
-  "2023-11-24": 782508,
-  "2023-11-25": 782508,
-  "2023-11-26": 782508,
-  "2023-11-27": 782508,
-  "2023-11-28": 782508,
-  "2023-11-29": 782508,
-  "2023-11-30": 782508,
-  "2023-12-01": 782508,
-  "2023-12-02": 782508,
-  "2023-12-03": 782508,
-  "2023-12-04": 782508,
-  "2023-12-05": 782508,
-  "2023-12-06": 782508,
-  "2023-12-07": 782508,
-  "2023-12-08": 782508,
-  "2023-12-09": 782508,
-  "2023-12-10": 782508,
-  "2023-12-11": 782508,
-  "2023-12-12": 782508,
-  "2023-12-13": 782508,
-  "2023-12-14": 782508,
-  "2023-12-15": 782508,
-  "2023-12-16": 782508,
-  "2023-12-17": 782508,
-  "2023-12-18": 782508,
-  "2023-12-19": 782508,
-  "2023-12-20": 782508,
-  "2023-12-21": 782508,
-  "2023-12-22": 782508,
-  "2023-12-23": 782508,
-  "2023-12-24": 782508,
-  "2023-12-25": 782508,
-  "2023-12-26": 782508,
-  "2023-12-27": 782508,
-  "2023-12-30": 782508,
-  "2023-12-31": 782508,
-  "2024-01-01": 782508,
-  "2024-01-02": 782508,
-  "2024-01-03": 782508
+  "2024-01-17": 782508,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of Oasis, all in one playlist.",
+  "name": "This Is Oasis (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/44CgYD439MapEZryBlTJxD"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Acquiesce",
+      "url": "https://open.spotify.com/track/3Mn2UKEPYo63ScT4hF1c3j"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5WsCU95SaumguegxnC87TV"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 560000,
+      "name": "All Around the World",
+      "url": "https://open.spotify.com/track/6Bb2wZjJZuMO2KJeZfxytc"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257813,
+      "name": "Bring It On Down - Remastered",
+      "url": "https://open.spotify.com/track/5DA7BwoqgCo93ctkaYeNTt"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294813,
+      "name": "Cast No Shadow",
+      "url": "https://open.spotify.com/track/5TIvGpN4qPVBrJX8KGOP9D"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450506,
+      "name": "Champagne Supernova",
+      "url": "https://open.spotify.com/track/6EMynpZ10GVcwVqiLZj6Ye"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/4VgR2Esit1thEijITQ7Pyp"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377400,
+      "name": "Columbia - Remastered",
+      "url": "https://open.spotify.com/track/0D8XAE0gD1jIavDsdpcO6G"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/4KYfbTzMAcjLJtELTQxiDS"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463120,
+      "name": "D'You Know What I Mean?",
+      "url": "https://open.spotify.com/track/1tRlCCMVLSVQrrN9PPgtf0"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/1GhXE04xrZS3CUOIO6MX4r"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288640,
+      "name": "Don't Go Away",
+      "url": "https://open.spotify.com/track/2ERjXtXdYW2ezoJSFSKZwp"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287826,
+      "name": "Don't Look Back In Anger",
+      "url": "https://open.spotify.com/track/7ppPZa3TRUSGKaks9wH7VT"
+    },
+    {
+      "album": {
+        "name": "Don't Stop\u2026 (Demo)",
+        "url": "https://open.spotify.com/album/7iwoECKWkbazHHOyDXMCCo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296466,
+      "name": "Don't Stop\u2026 - Demo",
+      "url": "https://open.spotify.com/track/2wDOBCr9j0SgUmhNOmqKSk"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256853,
+      "name": "Fade Away - Remastered",
+      "url": "https://open.spotify.com/track/54JcPYNP7RtsEcODC2pTKN"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Fuckin' in the Bushes",
+      "url": "https://open.spotify.com/track/1EB8LB1Hu5T4C8Zk9z1Ckh"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6F2iD5c7Aca3E0wmmPhgax"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368266,
+      "name": "Gas Panic!",
+      "url": "https://open.spotify.com/track/1z9o9o2KHsvVbuVrrPeYxw"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/29B0qf7Wmbr6jnAUalRDTG"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280693,
+      "name": "Go Let It Out",
+      "url": "https://open.spotify.com/track/5Dkk5FxeipGN7HmY5i4Uq5"
+    },
+    {
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/44CgYD439MapEZryBlTJxD"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261800,
+      "name": "Half The World Away",
+      "url": "https://open.spotify.com/track/2CYLmUBduhjPk2fkHa8UH7"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203186,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4qYlBtzkmby4r1N7etPnUv"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341906,
+      "name": "Hey Now!",
+      "url": "https://open.spotify.com/track/1IsOKJDayHwNyZKGpMyaql"
+    },
+    {
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/3oLyHFulyORECPzh5ZL3uf"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250013,
+      "name": "I'm Outta Time",
+      "url": "https://open.spotify.com/track/3KfkaxqDF9zh0W4ORDVerH"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/021D07OEcg0c4tUCilc7ah"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420000,
+      "name": "It's Gettin' Better (Man!!)",
+      "url": "https://open.spotify.com/track/4vJq4bW0mSk8lUAkfvM3iG"
+    },
+    {
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/1Wogb9skSI3zDOQQpQXyIF"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331520,
+      "name": "Let There Be Love",
+      "url": "https://open.spotify.com/track/4WudM1hDg7SrFP3eDAklGA"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/6GogwesMjE7yDWVORtMuUm"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292973,
+      "name": "Little By Little",
+      "url": "https://open.spotify.com/track/27xPgbzBCBGKggEuKS5XCJ"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "Live Forever - Remastered",
+      "url": "https://open.spotify.com/track/5mUxZTSwm1vT2YmKh1v1Ek"
+    },
+    {
+      "album": {
+        "name": "Lord Don't Slow Me Down",
+        "url": "https://open.spotify.com/album/4dtcfTuBZyU93XTKp9HokY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Lord Don't Slow Me Down",
+      "url": "https://open.spotify.com/track/363awzdoRpKlkPHyYiuSDx"
+    },
+    {
+      "album": {
+        "name": "Don't Believe the Truth",
+        "url": "https://open.spotify.com/album/17ey4RhKTF2sqtr88d6Qfg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310440,
+      "name": "Lyla",
+      "url": "https://open.spotify.com/track/5pUtpaV8xIjZJfGsfBSwy6"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/3uDKwFpFkpWq7dr8DtqKmc"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430373,
+      "name": "Magic Pie - Remastered",
+      "url": "https://open.spotify.com/track/1zDwK04a99SViseJ72BQNi"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303533,
+      "name": "Morning Glory",
+      "url": "https://open.spotify.com/track/3MT6rJBU7VUAPWtQsowIQv"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322946,
+      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/5bKkB75XBjRsE6WgkjXwxK"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239826,
+      "name": "Roll With It",
+      "url": "https://open.spotify.com/track/1Xip3AM9yC2aeUIuhKftP5"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308280,
+      "name": "Shakermaker - Remastered",
+      "url": "https://open.spotify.com/track/4nhhpJ3Za9KgNmqhJWutYj"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2xckodyvw7xfpkmnEsNK90"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191400,
+      "name": "She Is Love",
+      "url": "https://open.spotify.com/track/2tCsQfkLl9AWL5TuGwBIVn"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "She's Electric",
+      "url": "https://open.spotify.com/track/4yCihiznWkDsbuIqf6mSiG"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392306,
+      "name": "Slide Away - Remastered",
+      "url": "https://open.spotify.com/track/6mKbN5qaeM2tcG3LRdeNLQ"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327920,
+      "name": "Some Might Say",
+      "url": "https://open.spotify.com/track/6CpEUxOlhcynZpIvPY08iv"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/6GogwesMjE7yDWVORtMuUm"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127613,
+      "name": "Songbird",
+      "url": "https://open.spotify.com/track/0QXTxwyijjtM4yMv2FAfuf"
+    },
+    {
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/1GhXE04xrZS3CUOIO6MX4r"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356626,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/0C0N5NC7eLj0bjuvyoxV0v"
+    },
+    {
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/44CgYD439MapEZryBlTJxD"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305373,
+      "name": "Stay Young",
+      "url": "https://open.spotify.com/track/0obmrK12SK8zjxXxk8Z45l"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/6GogwesMjE7yDWVORtMuUm"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303133,
+      "name": "Stop Crying Your Heart Out",
+      "url": "https://open.spotify.com/track/6iBI1CoGvgMfiCgwLaTIZJ"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/0fC2ELaksKkRinRWTYkJHH"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312640,
+      "name": "Sunday Morning Call",
+      "url": "https://open.spotify.com/track/603bCfo7UOKjP8JZDyptbO"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Supersonic - Remastered",
+      "url": "https://open.spotify.com/track/78IaGqs7atMhpT0YGJLWrs"
+    },
+    {
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/44CgYD439MapEZryBlTJxD"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261106,
+      "name": "Talk Tonight",
+      "url": "https://open.spotify.com/track/5TcRNFfYdhYVseSGVkGb0Q"
+    },
+    {
+      "album": {
+        "name": "Heathen Chemistry",
+        "url": "https://open.spotify.com/album/2xckodyvw7xfpkmnEsNK90"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228426,
+      "name": "The Hindu Times",
+      "url": "https://open.spotify.com/track/2w4B7otstT2CGZKNgaMtiR"
+    },
+    {
+      "album": {
+        "name": "Don't Believe The Truth",
+        "url": "https://open.spotify.com/album/1Wogb9skSI3zDOQQpQXyIF"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219826,
+      "name": "The Importance Of Being Idle",
+      "url": "https://open.spotify.com/track/5YMw5TNeSqEw3ZxHAkFUqr"
+    },
+    {
+      "album": {
+        "name": "The Masterplan",
+        "url": "https://open.spotify.com/album/44CgYD439MapEZryBlTJxD"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322506,
+      "name": "The Masterplan",
+      "url": "https://open.spotify.com/track/2U251IRExvlUvri5awaJEz"
+    },
+    {
+      "album": {
+        "name": "Dig Out Your Soul",
+        "url": "https://open.spotify.com/album/75KnF13DIx7GXfz5IesWtT"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "The Shock Of The Lightning",
+      "url": "https://open.spotify.com/track/0IRx6YkLMVdnCHN61D0Vk0"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered)",
+        "url": "https://open.spotify.com/album/0fLVm67GzAJpbqX8GUL7G6"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Up In The Sky - Remastered",
+      "url": "https://open.spotify.com/track/6B33W818jEo9CKmPMZqSXJ"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/1p7g8Z422tp6OALADuAVjC"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/0fC2ELaksKkRinRWTYkJHH"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266800,
+      "name": "Where Did It All Go Wrong?",
+      "url": "https://open.spotify.com/track/4lFrtNmK4lzV4sgKc8VEuo"
+    },
+    {
+      "album": {
+        "name": "Standing On The Shoulder Of Giants",
+        "url": "https://open.spotify.com/album/6aBxuQpJ9D20cZQpF3wLL3"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344493,
+      "name": "Who Feels Love?",
+      "url": "https://open.spotify.com/track/7b39sBdskwLKVwNpC37gRo"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXupFIUw7TOC"
 }

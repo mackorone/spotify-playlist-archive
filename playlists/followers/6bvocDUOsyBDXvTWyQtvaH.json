@@ -1,569 +1,3041 @@
 {
-  "2022-06-10": 5804,
-  "2022-06-11": 5804,
-  "2022-06-12": 5803,
-  "2022-06-13": 5803,
-  "2022-06-14": 5802,
-  "2022-06-15": 5802,
-  "2022-06-16": 5801,
-  "2022-06-17": 5801,
-  "2022-06-18": 5802,
-  "2022-06-19": 5802,
-  "2022-06-20": 5802,
-  "2022-06-21": 5801,
-  "2022-06-22": 5801,
-  "2022-06-23": 5801,
-  "2022-06-24": 5801,
-  "2022-06-25": 5801,
-  "2022-06-26": 5801,
-  "2022-06-27": 5798,
-  "2022-06-28": 5798,
-  "2022-06-29": 5798,
-  "2022-06-30": 5798,
-  "2022-07-01": 5798,
-  "2022-07-02": 5798,
-  "2022-07-03": 5798,
-  "2022-07-04": 5798,
-  "2022-07-05": 5798,
-  "2022-07-06": 5798,
-  "2022-07-07": 5800,
-  "2022-07-08": 5799,
-  "2022-07-09": 5799,
-  "2022-07-10": 5800,
-  "2022-07-11": 5800,
-  "2022-07-12": 5801,
-  "2022-07-13": 5802,
-  "2022-07-14": 5801,
-  "2022-07-15": 5803,
-  "2022-07-16": 5803,
-  "2022-07-17": 5803,
-  "2022-07-18": 5803,
-  "2022-07-19": 5801,
-  "2022-07-20": 5802,
-  "2022-07-21": 5802,
-  "2022-07-22": 5802,
-  "2022-07-23": 5801,
-  "2022-07-24": 5802,
-  "2022-07-25": 5803,
-  "2022-07-26": 5803,
-  "2022-07-27": 5803,
-  "2022-07-28": 5803,
-  "2022-07-29": 5804,
-  "2022-07-30": 5803,
-  "2022-07-31": 5803,
-  "2022-08-01": 5804,
-  "2022-08-02": 5803,
-  "2022-08-03": 5803,
-  "2022-08-04": 5803,
-  "2022-08-05": 5804,
-  "2022-08-06": 5805,
-  "2022-08-07": 5804,
-  "2022-08-08": 5804,
-  "2022-08-09": 5803,
-  "2022-08-10": 5803,
-  "2022-08-11": 5803,
-  "2022-08-12": 5803,
-  "2022-08-13": 5803,
-  "2022-08-14": 5803,
-  "2022-08-15": 5803,
-  "2022-08-16": 5803,
-  "2022-08-17": 5803,
-  "2022-08-18": 5803,
-  "2022-08-19": 5803,
-  "2022-08-20": 5806,
-  "2022-08-21": 5807,
-  "2022-08-22": 5807,
-  "2022-08-23": 5806,
-  "2022-08-24": 5807,
-  "2022-08-25": 5807,
-  "2022-08-26": 5807,
-  "2022-08-27": 5808,
-  "2022-08-28": 5808,
-  "2022-08-29": 5807,
-  "2022-08-30": 5808,
-  "2022-08-31": 5808,
-  "2022-09-01": 5807,
-  "2022-09-02": 5808,
-  "2022-09-03": 5807,
-  "2022-09-04": 5806,
-  "2022-09-05": 5806,
-  "2022-09-06": 5804,
-  "2022-09-07": 5804,
-  "2022-09-09": 5805,
-  "2022-09-10": 5805,
-  "2022-09-11": 5805,
-  "2022-09-12": 5805,
-  "2022-09-13": 5806,
-  "2022-09-15": 5807,
-  "2022-09-16": 5807,
-  "2022-09-17": 5806,
-  "2022-09-18": 5807,
-  "2022-09-19": 5807,
-  "2022-09-20": 5807,
-  "2022-09-21": 5810,
-  "2022-09-22": 5810,
-  "2022-09-23": 5809,
-  "2022-09-24": 5809,
-  "2022-09-25": 5809,
-  "2022-09-26": 5809,
-  "2022-09-27": 5809,
-  "2022-09-28": 5809,
-  "2022-09-29": 5808,
-  "2022-09-30": 5807,
-  "2022-10-01": 5808,
-  "2022-10-02": 5807,
-  "2022-10-03": 5807,
-  "2022-10-04": 5809,
-  "2022-10-05": 5810,
-  "2022-10-06": 5811,
-  "2022-10-07": 5814,
-  "2022-10-08": 5813,
-  "2022-10-09": 5815,
-  "2022-10-10": 5815,
-  "2022-10-11": 5814,
-  "2022-10-12": 5815,
-  "2022-10-13": 5816,
-  "2022-10-14": 5815,
-  "2022-10-15": 5813,
-  "2022-10-16": 5814,
-  "2022-10-17": 5813,
-  "2022-10-18": 5813,
-  "2022-10-19": 5813,
-  "2022-10-20": 5813,
-  "2022-10-21": 5813,
-  "2022-10-22": 5813,
-  "2022-10-23": 5813,
-  "2022-10-24": 5813,
-  "2022-10-25": 5813,
-  "2022-10-26": 5813,
-  "2022-10-27": 5813,
-  "2022-10-28": 5813,
-  "2022-10-29": 5802,
-  "2022-10-30": 5803,
-  "2022-10-31": 5805,
-  "2022-11-01": 5807,
-  "2022-11-02": 5804,
-  "2022-11-03": 5806,
-  "2022-11-04": 5805,
-  "2022-11-05": 5806,
-  "2022-11-06": 5806,
-  "2022-11-07": 5807,
-  "2022-11-08": 5806,
-  "2022-11-09": 5806,
-  "2022-11-10": 5807,
-  "2022-11-11": 5806,
-  "2022-11-12": 5808,
-  "2022-11-13": 5808,
-  "2022-11-14": 5809,
-  "2022-11-15": 5811,
-  "2022-11-16": 5815,
-  "2022-11-17": 5816,
-  "2022-11-18": 5814,
-  "2022-11-19": 5816,
-  "2022-11-20": 5810,
-  "2022-11-21": 5814,
-  "2022-11-22": 5815,
-  "2022-11-23": 5816,
-  "2022-11-24": 5821,
-  "2022-11-25": 5821,
-  "2022-11-26": 5823,
-  "2022-11-27": 5830,
-  "2022-11-28": 5832,
-  "2022-11-29": 5833,
-  "2022-11-30": 5834,
-  "2022-12-01": 5832,
-  "2022-12-02": 5833,
-  "2022-12-03": 5834,
-  "2022-12-04": 5836,
-  "2022-12-05": 5836,
-  "2022-12-06": 5838,
-  "2022-12-07": 5840,
-  "2022-12-08": 5842,
-  "2022-12-09": 5847,
-  "2022-12-10": 5850,
-  "2022-12-11": 5852,
-  "2022-12-12": 5853,
-  "2022-12-13": 5855,
-  "2022-12-14": 5858,
-  "2022-12-15": 5859,
-  "2022-12-16": 5863,
-  "2022-12-17": 5866,
-  "2022-12-18": 5868,
-  "2022-12-19": 5870,
-  "2022-12-20": 5874,
-  "2022-12-21": 5874,
-  "2022-12-22": 5874,
-  "2022-12-24": 5876,
-  "2022-12-25": 5877,
-  "2022-12-26": 5875,
-  "2022-12-27": 5873,
-  "2022-12-28": 5873,
-  "2022-12-29": 5872,
-  "2022-12-30": 5873,
-  "2022-12-31": 5873,
-  "2023-01-01": 5872,
-  "2023-01-02": 5871,
-  "2023-01-03": 5872,
-  "2023-01-04": 5870,
-  "2023-01-05": 5869,
-  "2023-01-06": 5871,
-  "2023-01-07": 5867,
-  "2023-01-08": 5865,
-  "2023-01-09": 5865,
-  "2023-01-10": 5867,
-  "2023-01-11": 5864,
-  "2023-01-12": 5862,
-  "2023-01-13": 5861,
-  "2023-01-14": 5859,
-  "2023-01-15": 5859,
-  "2023-01-16": 5855,
-  "2023-01-17": 5855,
-  "2023-01-18": 5853,
-  "2023-01-19": 5851,
-  "2023-01-20": 5850,
-  "2023-01-21": 5847,
-  "2023-01-22": 5845,
-  "2023-01-23": 5844,
-  "2023-01-24": 5843,
-  "2023-01-25": 5842,
-  "2023-01-26": 5841,
-  "2023-01-27": 5841,
-  "2023-01-28": 5840,
-  "2023-01-29": 5840,
-  "2023-01-30": 5840,
-  "2023-01-31": 5840,
-  "2023-02-01": 5840,
-  "2023-02-02": 5840,
-  "2023-02-03": 5842,
-  "2023-02-04": 5844,
-  "2023-02-05": 5845,
-  "2023-02-06": 5843,
-  "2023-02-07": 5843,
-  "2023-02-08": 5844,
-  "2023-02-09": 5844,
-  "2023-02-10": 5843,
-  "2023-02-11": 5843,
-  "2023-02-12": 5842,
-  "2023-02-13": 5842,
-  "2023-02-14": 5842,
-  "2023-02-15": 5842,
-  "2023-02-16": 5842,
-  "2023-02-17": 5843,
-  "2023-02-18": 5842,
-  "2023-02-19": 5842,
-  "2023-02-20": 5843,
-  "2023-02-21": 5843,
-  "2023-02-22": 5843,
-  "2023-02-23": 5843,
-  "2023-02-24": 5845,
-  "2023-02-25": 5844,
-  "2023-02-26": 5844,
-  "2023-02-27": 5842,
-  "2023-02-28": 5842,
-  "2023-03-01": 5839,
-  "2023-03-02": 5839,
-  "2023-03-03": 5839,
-  "2023-03-04": 5840,
-  "2023-03-05": 5840,
-  "2023-03-06": 5840,
-  "2023-03-07": 5840,
-  "2023-03-08": 5840,
-  "2023-03-09": 5841,
-  "2023-03-10": 5841,
-  "2023-03-11": 5841,
-  "2023-03-12": 5842,
-  "2023-03-13": 5843,
-  "2023-03-14": 5842,
-  "2023-03-15": 5842,
-  "2023-03-16": 5842,
-  "2023-03-17": 5842,
-  "2023-03-18": 5843,
-  "2023-03-19": 5843,
-  "2023-03-20": 5845,
-  "2023-03-21": 5846,
-  "2023-03-22": 5847,
-  "2023-03-23": 5847,
-  "2023-03-24": 5847,
-  "2023-03-25": 5847,
-  "2023-03-26": 5847,
-  "2023-03-27": 5846,
-  "2023-03-28": 5846,
-  "2023-03-29": 5846,
-  "2023-03-30": 5846,
-  "2023-03-31": 5846,
-  "2023-04-01": 5847,
-  "2023-04-02": 5848,
-  "2023-04-03": 5848,
-  "2023-04-04": 5849,
-  "2023-04-05": 5847,
-  "2023-04-06": 5847,
-  "2023-04-07": 5847,
-  "2023-04-09": 5847,
-  "2023-04-10": 5847,
-  "2023-04-11": 5845,
-  "2023-04-12": 5845,
-  "2023-04-13": 5845,
-  "2023-04-14": 5845,
-  "2023-04-15": 5843,
-  "2023-04-16": 5842,
-  "2023-04-17": 5842,
-  "2023-04-18": 5843,
-  "2023-04-19": 5842,
-  "2023-04-20": 5842,
-  "2023-04-21": 5841,
-  "2023-04-22": 5841,
-  "2023-04-23": 5841,
-  "2023-04-24": 5841,
-  "2023-04-25": 5841,
-  "2023-04-26": 5841,
-  "2023-04-27": 5839,
-  "2023-04-28": 5839,
-  "2023-04-29": 5838,
-  "2023-04-30": 5838,
-  "2023-05-01": 5838,
-  "2023-05-02": 5839,
-  "2023-05-03": 5838,
-  "2023-05-04": 5838,
-  "2023-05-05": 5838,
-  "2023-05-06": 5837,
-  "2023-05-07": 5837,
-  "2023-05-08": 5837,
-  "2023-05-09": 5837,
-  "2023-05-10": 5835,
-  "2023-05-11": 5834,
-  "2023-05-12": 5832,
-  "2023-05-13": 5833,
-  "2023-05-14": 5833,
-  "2023-05-15": 5832,
-  "2023-05-16": 5830,
-  "2023-05-17": 5830,
-  "2023-05-18": 5830,
-  "2023-05-19": 5829,
-  "2023-05-20": 5830,
-  "2023-05-21": 5830,
-  "2023-05-22": 5830,
-  "2023-05-23": 5830,
-  "2023-05-24": 5831,
-  "2023-05-25": 5831,
-  "2023-05-26": 5830,
-  "2023-05-27": 5829,
-  "2023-05-28": 5828,
-  "2023-05-29": 5828,
-  "2023-05-30": 5827,
-  "2023-05-31": 5828,
-  "2023-06-01": 5827,
-  "2023-06-02": 5827,
-  "2023-06-03": 5827,
-  "2023-06-04": 5827,
-  "2023-06-05": 5826,
-  "2023-06-06": 5825,
-  "2023-06-07": 5824,
-  "2023-06-08": 5823,
-  "2023-06-09": 5823,
-  "2023-06-10": 5822,
-  "2023-06-11": 5823,
-  "2023-06-12": 5824,
-  "2023-06-13": 5823,
-  "2023-06-14": 5825,
-  "2023-06-15": 5825,
-  "2023-06-16": 5825,
-  "2023-06-17": 5825,
-  "2023-06-18": 5825,
-  "2023-06-19": 5824,
-  "2023-06-20": 5823,
-  "2023-06-21": 5823,
-  "2023-06-22": 5823,
-  "2023-06-23": 5823,
-  "2023-06-24": 5822,
-  "2023-06-25": 5822,
-  "2023-06-26": 5822,
-  "2023-06-27": 5821,
-  "2023-06-28": 5819,
-  "2023-06-29": 5817,
-  "2023-06-30": 5818,
-  "2023-07-01": 5818,
-  "2023-07-02": 5818,
-  "2023-07-03": 5818,
-  "2023-07-04": 5819,
-  "2023-07-05": 5819,
-  "2023-07-06": 5818,
-  "2023-07-07": 5818,
-  "2023-07-08": 5818,
-  "2023-07-09": 5818,
-  "2023-07-10": 5818,
-  "2023-07-11": 5817,
-  "2023-07-12": 5817,
-  "2023-07-13": 5817,
-  "2023-07-14": 5818,
-  "2023-07-15": 5818,
-  "2023-07-16": 5818,
-  "2023-07-17": 5819,
-  "2023-07-18": 5820,
-  "2023-07-19": 5821,
-  "2023-07-20": 5821,
-  "2023-07-21": 5821,
-  "2023-07-22": 5821,
-  "2023-07-23": 5821,
-  "2023-07-24": 5822,
-  "2023-07-25": 5822,
-  "2023-07-26": 5822,
-  "2023-07-27": 5822,
-  "2023-07-28": 5822,
-  "2023-07-29": 5820,
-  "2023-07-30": 5820,
-  "2023-07-31": 5820,
-  "2023-08-01": 5820,
-  "2023-08-02": 5821,
-  "2023-08-03": 5821,
-  "2023-08-04": 5821,
-  "2023-08-05": 5821,
-  "2023-08-06": 5820,
-  "2023-08-07": 5820,
-  "2023-08-08": 5820,
-  "2023-08-09": 5820,
-  "2023-08-10": 5820,
-  "2023-08-11": 5820,
-  "2023-08-12": 5820,
-  "2023-08-13": 5820,
-  "2023-08-14": 5820,
-  "2023-08-15": 5820,
-  "2023-08-16": 5820,
-  "2023-08-17": 5820,
-  "2023-08-18": 5820,
-  "2023-08-19": 5820,
-  "2023-08-20": 5817,
-  "2023-08-21": 5817,
-  "2023-08-22": 5817,
-  "2023-08-23": 5817,
-  "2023-08-24": 5817,
-  "2023-08-25": 5817,
-  "2023-08-26": 5817,
-  "2023-08-27": 5817,
-  "2023-08-28": 5818,
-  "2023-08-29": 5818,
-  "2023-08-30": 5818,
-  "2023-08-31": 5818,
-  "2023-09-01": 5821,
-  "2023-09-02": 5821,
-  "2023-09-03": 5821,
-  "2023-09-04": 5821,
-  "2023-09-05": 5821,
-  "2023-09-06": 5821,
-  "2023-09-07": 5821,
-  "2023-09-08": 5821,
-  "2023-09-09": 5821,
-  "2023-09-10": 5821,
-  "2023-09-11": 5821,
-  "2023-09-12": 5821,
-  "2023-09-13": 5821,
-  "2023-09-14": 5821,
-  "2023-09-15": 5821,
-  "2023-09-16": 5821,
-  "2023-09-17": 5821,
-  "2023-09-18": 5821,
-  "2023-09-19": 5821,
-  "2023-09-20": 5821,
-  "2023-09-21": 5821,
-  "2023-09-22": 5821,
-  "2023-09-23": 5821,
-  "2023-09-24": 5821,
-  "2023-09-25": 5821,
-  "2023-09-26": 5821,
-  "2023-09-27": 5821,
-  "2023-09-28": 5821,
-  "2023-09-29": 5821,
-  "2023-09-30": 5821,
-  "2023-10-01": 5821,
-  "2023-10-02": 5821,
-  "2023-10-03": 5821,
-  "2023-10-04": 5821,
-  "2023-10-05": 5821,
-  "2023-10-06": 5821,
-  "2023-10-07": 5821,
-  "2023-10-08": 5821,
-  "2023-10-09": 5821,
-  "2023-10-10": 5821,
-  "2023-10-11": 5821,
-  "2023-10-12": 5821,
-  "2023-10-13": 5821,
-  "2023-10-14": 5821,
-  "2023-10-15": 5821,
-  "2023-10-16": 5821,
-  "2023-10-17": 5821,
-  "2023-10-18": 5821,
-  "2023-10-19": 5821,
-  "2023-10-20": 5821,
-  "2023-10-21": 5821,
-  "2023-10-22": 5821,
-  "2023-10-23": 5821,
-  "2023-10-24": 5821,
-  "2023-10-25": 5821,
-  "2023-10-26": 5821,
-  "2023-10-27": 5821,
-  "2023-10-28": 5821,
-  "2023-10-29": 5821,
-  "2023-10-30": 5821,
-  "2023-10-31": 5821,
-  "2023-11-01": 5821,
-  "2023-11-02": 5821,
-  "2023-11-03": 5821,
-  "2023-11-04": 5821,
-  "2023-11-05": 5821,
-  "2023-11-06": 5821,
-  "2023-11-07": 5821,
-  "2023-11-08": 5821,
-  "2023-11-09": 5821,
-  "2023-11-10": 5821,
-  "2023-11-11": 5821,
-  "2023-11-12": 5821,
-  "2023-11-13": 5821,
-  "2023-11-14": 5821,
-  "2023-11-15": 5821,
-  "2023-11-16": 5821,
-  "2023-11-17": 5821,
-  "2023-11-18": 5821,
-  "2023-11-19": 5821,
-  "2023-11-20": 5821,
-  "2023-11-21": 5821,
-  "2023-11-22": 5821,
-  "2023-11-23": 5821,
-  "2023-11-24": 5821,
-  "2023-11-25": 5821,
-  "2023-11-26": 5821,
-  "2023-11-27": 5821,
-  "2023-11-28": 5821,
-  "2023-11-29": 5821,
-  "2023-11-30": 5821,
-  "2023-12-01": 5821,
-  "2023-12-02": 5821,
-  "2023-12-03": 5821,
-  "2023-12-04": 5821,
-  "2023-12-05": 5821,
-  "2023-12-06": 5821,
-  "2023-12-07": 5821,
-  "2023-12-08": 5821,
-  "2023-12-09": 5821,
-  "2023-12-10": 5821,
-  "2023-12-11": 5821,
-  "2023-12-12": 5821,
-  "2023-12-13": 5821,
-  "2023-12-14": 5876,
-  "2023-12-15": 5876,
-  "2023-12-16": 5876,
-  "2023-12-17": 5879,
-  "2023-12-18": 5880,
-  "2023-12-19": 5880,
-  "2023-12-20": 5879,
-  "2023-12-21": 5880,
-  "2023-12-22": 5882,
-  "2023-12-23": 5882,
-  "2023-12-24": 5883,
-  "2023-12-25": 5882,
-  "2023-12-26": 5885,
-  "2023-12-27": 5886,
-  "2023-12-30": 5881,
-  "2023-12-31": 5882,
-  "2024-01-01": 5882,
-  "2024-01-02": 5882,
-  "2024-01-03": 5879
+  "2024-01-17": 5851,
+  "date_first_scraped": "2022-06-10",
+  "description": "Lo-Fi, Beats, for Study and Focus... but around the Holidays.",
+  "name": "LoFi Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "no distraction(s)",
+        "url": "https://open.spotify.com/album/0XefiX1k1ZKbZM6n1ipnhO"
+      },
+      "artists": [
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Devereaux",
+          "url": "https://open.spotify.com/artist/77zJEu2Yfg2smyDiPobfFJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 105000,
+      "name": "1st Night",
+      "url": "https://open.spotify.com/track/0HZxBsTYZqBz575a25JeBP"
+    },
+    {
+      "album": {
+        "name": "Two Turtle Doves",
+        "url": "https://open.spotify.com/album/7lGovFUngwaXIVhcN7wlQb"
+      },
+      "artists": [
+        {
+          "name": "Nydia",
+          "url": "https://open.spotify.com/artist/4OFZyUhVwfmPVGd6Bw0N6q"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168804,
+      "name": "A Lofi Christmas",
+      "url": "https://open.spotify.com/track/12ajoxiqK9Pip1lI6Ewrye"
+    },
+    {
+      "album": {
+        "name": "A Symbol of Emotions",
+        "url": "https://open.spotify.com/album/2ZXovr18ohfn7OexeyWZYw"
+      },
+      "artists": [
+        {
+          "name": "Coffeey",
+          "url": "https://open.spotify.com/artist/47wFpzInWlChtygixZJ0db"
+        },
+        {
+          "name": "Behind Clouds",
+          "url": "https://open.spotify.com/artist/3H6djQE6LC4llH3i5t2tZM"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 92000,
+      "name": "A Symbol of Emotions",
+      "url": "https://open.spotify.com/track/3z8ff5GcNTZ3206jgrpE55"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 131000,
+      "name": "Advancing Into The Depths",
+      "url": "https://open.spotify.com/track/5eWXl64vupCeqSNMdb3Sfd"
+    },
+    {
+      "album": {
+        "name": "After Winter",
+        "url": "https://open.spotify.com/album/15TMxpfQPPrP3qeJHhPIwM"
+      },
+      "artists": [
+        {
+          "name": "Flingu",
+          "url": "https://open.spotify.com/artist/0fpxSOtcY0UGK16Vl8RCjt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 121714,
+      "name": "After Winter",
+      "url": "https://open.spotify.com/track/3ULiYUvW0LkvmbiNCzan6v"
+    },
+    {
+      "album": {
+        "name": "Penthouse",
+        "url": "https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 143132,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN"
+    },
+    {
+      "album": {
+        "name": "Air Currents",
+        "url": "https://open.spotify.com/album/1bwvXL0XF3unVRD2j4o82K"
+      },
+      "artists": [
+        {
+          "name": "Enluv",
+          "url": "https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin"
+        },
+        {
+          "name": "illko",
+          "url": "https://open.spotify.com/artist/4RYYUz6IpUVZDF9RJ0EgJx"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 150000,
+      "name": "Air Currents",
+      "url": "https://open.spotify.com/track/3kJa5NPrdzxaUoBoDa7hH5"
+    },
+    {
+      "album": {
+        "name": "All We'll Ever Need",
+        "url": "https://open.spotify.com/album/4X2bNlt4CN7dHx99Mv6siV"
+      },
+      "artists": [
+        {
+          "name": "GaryOAKland",
+          "url": "https://open.spotify.com/artist/3ugRqsUUkY3Dxc35llDO07"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 130500,
+      "name": "All We'll Ever Need",
+      "url": "https://open.spotify.com/track/2kmqBltbAheWUQlnQEquvK"
+    },
+    {
+      "album": {
+        "name": "Amstel",
+        "url": "https://open.spotify.com/album/3LkckQrEDVTM6DU9IST2cv"
+      },
+      "artists": [
+        {
+          "name": "REMBRANDT",
+          "url": "https://open.spotify.com/artist/3FpiIdSEb1aVAgZWqkwYcr"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 108000,
+      "name": "Amstel",
+      "url": "https://open.spotify.com/track/32a4jnEROC8sucx7tNpAGW"
+    },
+    {
+      "album": {
+        "name": "Arigato",
+        "url": "https://open.spotify.com/album/1AGJIaaZc4LVftrZp8mOre"
+      },
+      "artists": [
+        {
+          "name": "Yokomeshi",
+          "url": "https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8"
+        },
+        {
+          "name": "Space Invader",
+          "url": "https://open.spotify.com/artist/266hqoFawOZA6rbHQHeyav"
+        },
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 153333,
+      "name": "Arigato",
+      "url": "https://open.spotify.com/track/7vvs8NIy4qzBk8VsRNaExk"
+    },
+    {
+      "album": {
+        "name": "Artifacts",
+        "url": "https://open.spotify.com/album/2IszhuIbLPXFDeYRiYe0MG"
+      },
+      "artists": [
+        {
+          "name": "Alex Donofrio",
+          "url": "https://open.spotify.com/artist/2nDs2Ffbha5tHn6Blms9lE"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 234000,
+      "name": "Artifacts",
+      "url": "https://open.spotify.com/track/4hEUefTLYdmtQrg9EsCC1Q"
+    },
+    {
+      "album": {
+        "name": "Topos",
+        "url": "https://open.spotify.com/album/3GohtUGbEXR8kNyTHnHlls"
+      },
+      "artists": [
+        {
+          "name": "Fletcher Reed",
+          "url": "https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 96589,
+      "name": "Auckland Audrey",
+      "url": "https://open.spotify.com/track/0qg5kEeCL19dmcc998zxCe"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "frumhere",
+          "url": "https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158656,
+      "name": "auld lang syne",
+      "url": "https://open.spotify.com/track/5JgQ6HXVnMhog0HP97OKKt"
+    },
+    {
+      "album": {
+        "name": "Axiom",
+        "url": "https://open.spotify.com/album/2nLmgjviZuUr0dAsdC8RX0"
+      },
+      "artists": [
+        {
+          "name": "Blumen",
+          "url": "https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 144431,
+      "name": "Axiom",
+      "url": "https://open.spotify.com/track/24Uy36jX1roPEtQBVBzaXd"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234687,
+      "name": "Blue Christmas - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6ibPr1Qwvhs7X1kMWSTIat"
+    },
+    {
+      "album": {
+        "name": "Everything Fades to Blue",
+        "url": "https://open.spotify.com/album/1s2fTBosv7sKl5VSWsxEFp"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 127877,
+      "name": "Bookshelves",
+      "url": "https://open.spotify.com/track/1UPW1G8u9IKXYyMZocnzwE"
+    },
+    {
+      "album": {
+        "name": "Bootsie's View",
+        "url": "https://open.spotify.com/album/4cCRaMghU499eC3WxMdsYg"
+      },
+      "artists": [
+        {
+          "name": "fantompower",
+          "url": "https://open.spotify.com/artist/6psQOFgr41pQ2CiL2CCi47"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 141923,
+      "name": "Bootsie's View",
+      "url": "https://open.spotify.com/track/6r4XbcvnJsFq4Eq009iopH"
+    },
+    {
+      "album": {
+        "name": "Breaking",
+        "url": "https://open.spotify.com/album/4pyU9QCakXSqBEvmaPkQWv"
+      },
+      "artists": [
+        {
+          "name": "Clef Hart",
+          "url": "https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 103125,
+      "name": "Breaking",
+      "url": "https://open.spotify.com/track/1jAuHai4O15NWl01wqqcUJ"
+    },
+    {
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/0Ktpw3wOf7mn5OG8COOEr7"
+      },
+      "artists": [
+        {
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
+        },
+        {
+          "name": "Hideout Earth",
+          "url": "https://open.spotify.com/artist/08gMDF8W2RdCiP8QlSywbw"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 130000,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/2s7E7JiZ71SP7ibKn4vk6M"
+    },
+    {
+      "album": {
+        "name": "Sundae Sauuce Presents: Oat Milk",
+        "url": "https://open.spotify.com/album/2h08rLn2ojyBPIV6WwOlMm"
+      },
+      "artists": [
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "Afroham",
+          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 219259,
+      "name": "C'mon Now",
+      "url": "https://open.spotify.com/track/4xRArl6ufaPpjFYXxLaeYn"
+    },
+    {
+      "album": {
+        "name": "Cherry Blossoms",
+        "url": "https://open.spotify.com/album/1Vnom5EJiY11SdGIMIHwvi"
+      },
+      "artists": [
+        {
+          "name": "skyswimming",
+          "url": "https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy"
+        },
+        {
+          "name": "Peak Twilight",
+          "url": "https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 126000,
+      "name": "Cherry Blossoms",
+      "url": "https://open.spotify.com/track/1PuJuMAkJ0qemOt6gxUQre"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Rotary Connection",
+          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252410,
+      "name": "Christmas Child - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6u8AaRcAZxuG3BwQecclxm"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197191,
+      "name": "Christmas Will Be Just Another Lonely Day - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3bBsft9Ta258CrDfFzKh9Y"
+    },
+    {
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/7kFVvOzu1wEsh7KrsEiPgf"
+      },
+      "artists": [
+        {
+          "name": "Afroham",
+          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "Yasper",
+          "url": "https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 188074,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0yHuhpoKdtAbOV5goS2hLS"
+    },
+    {
+      "album": {
+        "name": "Closing Time",
+        "url": "https://open.spotify.com/album/2QDenZ7iZh8Pdg06jy768z"
+      },
+      "artists": [
+        {
+          "name": "twuan",
+          "url": "https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5"
+        },
+        {
+          "name": "Donovan's Playground",
+          "url": "https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ"
+        },
+        {
+          "name": "B dom",
+          "url": "https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 131610,
+      "name": "Closing Time",
+      "url": "https://open.spotify.com/track/0A9q8dL9GeT8QlHDTrBxSe"
+    },
+    {
+      "album": {
+        "name": "Coast to Coast",
+        "url": "https://open.spotify.com/album/1iwocumeu7xWfegnJf0uIn"
+      },
+      "artists": [
+        {
+          "name": "Jay-Lounge",
+          "url": "https://open.spotify.com/artist/47sdYTwmCqrIVcJV11c6Cj"
+        },
+        {
+          "name": "NK Music",
+          "url": "https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 158795,
+      "name": "Coast to Coast",
+      "url": "https://open.spotify.com/track/6nHVIXSGuHzknmQOuUsnj9"
+    },
+    {
+      "album": {
+        "name": "Everything Fades to Blue",
+        "url": "https://open.spotify.com/album/1s2fTBosv7sKl5VSWsxEFp"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Fish",
+          "url": "https://open.spotify.com/artist/1IJe80moz409PtxW4llPFw"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 158971,
+      "name": "Colors Fade",
+      "url": "https://open.spotify.com/track/6iNYuXjbKKPh1GxAjPfRS2"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 117000,
+      "name": "Contemplating",
+      "url": "https://open.spotify.com/track/1HWLUXiJKDtpjK5rh0I56a"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Otis Ubaka",
+          "url": "https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128776,
+      "name": "Cosy Winter",
+      "url": "https://open.spotify.com/track/0o6nr0j7CeA6b2AzVjVaX0"
+    },
+    {
+      "album": {
+        "name": "Chilling with Santa",
+        "url": "https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl"
+      },
+      "artists": [
+        {
+          "name": "Haru Pandi",
+          "url": "https://open.spotify.com/artist/58qAcScNzgiOslgGsv9In9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129757,
+      "name": "Cozy Christmas",
+      "url": "https://open.spotify.com/track/4wqYyc6Jjv0zuUgV9CdCFy"
+    },
+    {
+      "album": {
+        "name": "Snowbound",
+        "url": "https://open.spotify.com/album/6joo22r88KqXxvOgEORO9R"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112178,
+      "name": "Cozy Fireplace",
+      "url": "https://open.spotify.com/track/6l29buL3HPRKy36vzDuNJp"
+    },
+    {
+      "album": {
+        "name": "Dad Shoes",
+        "url": "https://open.spotify.com/album/3Foeqn467lsmu6UpFSj3ht"
+      },
+      "artists": [
+        {
+          "name": "coldbrew",
+          "url": "https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 113327,
+      "name": "Dad Shoes",
+      "url": "https://open.spotify.com/track/0vr0vc6L7O1TleAz2k1898"
+    },
+    {
+      "album": {
+        "name": "Days Go By",
+        "url": "https://open.spotify.com/album/4iEgK2yl9jwASmKi1WOZbC"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        },
+        {
+          "name": "Guillaume Muschalle",
+          "url": "https://open.spotify.com/artist/43sWO6H2WXUn7HbNPnyG5X"
+        },
+        {
+          "name": "Julien Brunard",
+          "url": "https://open.spotify.com/artist/7Liqrl9MUVuzdfPbATYCiv"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 212385,
+      "name": "Days Go By",
+      "url": "https://open.spotify.com/track/29WTEjRrlkfSttqczaACGu"
+    },
+    {
+      "album": {
+        "name": "A Lofi Jazz Christmas",
+        "url": "https://open.spotify.com/album/0R5QjKFNUVGMjeH4YIUVca"
+      },
+      "artists": [
+        {
+          "name": "Stapes",
+          "url": "https://open.spotify.com/artist/4ON4zcOAOAY55jGZUEb1Wb"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136386,
+      "name": "Dear Santa Claus",
+      "url": "https://open.spotify.com/track/4vhAcTSD4Cw8vXjtxcmuzB"
+    },
+    {
+      "album": {
+        "name": "Deep Blue",
+        "url": "https://open.spotify.com/album/1yEPFzmgOLSShR2OhpB4w2"
+      },
+      "artists": [
+        {
+          "name": "SwuM",
+          "url": "https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m"
+        },
+        {
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 140000,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/77l6NKJEMpm3I2smPwpw1a"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 126874,
+      "name": "Deep Think",
+      "url": "https://open.spotify.com/track/7AusnYr1WwYt0HLn0pbPZ6"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131258,
+      "name": "delight",
+      "url": "https://open.spotify.com/track/1muCDhe6d8Py4Ev2TvPsB0"
+    },
+    {
+      "album": {
+        "name": "after life",
+        "url": "https://open.spotify.com/album/6c0Wf5ckiiX07kS22mh80l"
+      },
+      "artists": [
+        {
+          "name": "nitsua.",
+          "url": "https://open.spotify.com/artist/5RAUmZtkAPMIhgkRNwM8Xw"
+        },
+        {
+          "name": "Ngyn",
+          "url": "https://open.spotify.com/artist/0W03t1E2FUo9WAMBwhntuL"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 91083,
+      "name": "distant lullaby",
+      "url": "https://open.spotify.com/track/1Mt3nWFEWA3H0Zy1XL99r0"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86440,
+      "name": "Do You Hear What I Hear - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/01OpxtVxRPdREajV7rOoxm"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/1KzGIlZIlhRwUIoPlexdax"
+      },
+      "artists": [
+        {
+          "name": "Groove Armada",
+          "url": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 338000,
+      "name": "Dusk You & Me",
+      "url": "https://open.spotify.com/track/5SsESuc7gf8om8OgPPQolD"
+    },
+    {
+      "album": {
+        "name": "Easy Living",
+        "url": "https://open.spotify.com/album/6wYywlYZb4b5dvpAyeo2pj"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "no one's perfect",
+          "url": "https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 108380,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7EMNWQciYOfkTiFtkeNCiz"
+    },
+    {
+      "album": {
+        "name": "econto",
+        "url": "https://open.spotify.com/album/6bXj7qnxOeHuso6dPJgikO"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 141034,
+      "name": "econto",
+      "url": "https://open.spotify.com/track/0ykV637tc8VShvto8Eeduv"
+    },
+    {
+      "album": {
+        "name": "Element",
+        "url": "https://open.spotify.com/album/4FTjwbdrTsQ1iUjWO7QW2y"
+      },
+      "artists": [
+        {
+          "name": "Knowmadic",
+          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 125670,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/572yw95uCAj6V2s4HvENGM"
+    },
+    {
+      "album": {
+        "name": "Elevation",
+        "url": "https://open.spotify.com/album/5b0CljUZdKO42HODyZeWhE"
+      },
+      "artists": [
+        {
+          "name": "Saib",
+          "url": "https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 237019,
+      "name": "Elevation",
+      "url": "https://open.spotify.com/track/5uwE7RLzB2mbSE3z5GDEA9"
+    },
+    {
+      "album": {
+        "name": "Elevator Cruisin'",
+        "url": "https://open.spotify.com/album/4V0LdB3RCl6NiMBX9ouY86"
+      },
+      "artists": [
+        {
+          "name": "ins\u00f8mnia",
+          "url": "https://open.spotify.com/artist/1zof1SgsoqfvofHdVIaC3G"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 141580,
+      "name": "Elevator Cruisin'",
+      "url": "https://open.spotify.com/track/2k5dGL2dg5LJ6I6QkyNTQh"
+    },
+    {
+      "album": {
+        "name": "Faced with a Choice, Do Both (Colorist Remix)",
+        "url": "https://open.spotify.com/album/3aN7R2uOZ29NktuJ85n4ZZ"
+      },
+      "artists": [
+        {
+          "name": "Nils W\u00fclker",
+          "url": "https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o"
+        },
+        {
+          "name": "Colorist",
+          "url": "https://open.spotify.com/artist/6wJSgMgEx9dd6660WSYdfs"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 150883,
+      "name": "Faced with a Choice, Do Both - Colorist Remix",
+      "url": "https://open.spotify.com/track/48kH7B9mq3yz1nROr6ERt4"
+    },
+    {
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/7tsyXOh3p1VqqWOQfqX9PY"
+      },
+      "artists": [
+        {
+          "name": "Thomas Reid",
+          "url": "https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 166482,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/5tT058LyJehDH10hhwMdrE"
+    },
+    {
+      "album": {
+        "name": "feels like flying",
+        "url": "https://open.spotify.com/album/0Wf8uXVb4g2QXuXNKsmjjJ"
+      },
+      "artists": [
+        {
+          "name": "No Spirit",
+          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 145119,
+      "name": "feels like flying",
+      "url": "https://open.spotify.com/track/2o30g8Q6jQGn9CqINWbdh4"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Knowmadic",
+          "url": "https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168785,
+      "name": "firewood",
+      "url": "https://open.spotify.com/track/4gi42PcATnb4f9xnY8YYPG"
+    },
+    {
+      "album": {
+        "name": "Firj",
+        "url": "https://open.spotify.com/album/5zXbKkbTpxN4OhfKP9hobr"
+      },
+      "artists": [
+        {
+          "name": "G Mills",
+          "url": "https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 120500,
+      "name": "Firj",
+      "url": "https://open.spotify.com/track/1VXza9ACLupYXhbXAT3nz5"
+    },
+    {
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/7L8FypEEbHCoJ3xVXaUASX"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        },
+        {
+          "name": "Glasear",
+          "url": "https://open.spotify.com/artist/4KR1aSNrKFDzmNeibMzGZg"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 135091,
+      "name": "Flora",
+      "url": "https://open.spotify.com/track/7vvN6jTHNBtkqLol6IEM94"
+    },
+    {
+      "album": {
+        "name": "flux",
+        "url": "https://open.spotify.com/album/3fLR8JQerBtTzHRqSfO1Ui"
+      },
+      "artists": [
+        {
+          "name": "olosamu",
+          "url": "https://open.spotify.com/artist/7psm1XmUlSpqy1o5ZeIbf1"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 148571,
+      "name": "flux",
+      "url": "https://open.spotify.com/track/3MS5wwtroy3yoH9LZA1UlV"
+    },
+    {
+      "album": {
+        "name": "Freezing",
+        "url": "https://open.spotify.com/album/3EloLigVXlsxMerjueo3ww"
+      },
+      "artists": [
+        {
+          "name": "Clef Hart",
+          "url": "https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 187171,
+      "name": "Freezing",
+      "url": "https://open.spotify.com/track/555I2MAh3v7QqhRpAeyJRQ"
+    },
+    {
+      "album": {
+        "name": "Gloomy Times",
+        "url": "https://open.spotify.com/album/2P4a46nGWjPTh3Crx3x6nv"
+      },
+      "artists": [
+        {
+          "name": "Ali Chaibi",
+          "url": "https://open.spotify.com/artist/1KACt3bCsnJhuwn7zgS3xg"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 146000,
+      "name": "Gloomy Times",
+      "url": "https://open.spotify.com/track/6gMrdbiBYSVSczlUuYu4aH"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Harry Simeone Chorale",
+          "url": "https://open.spotify.com/artist/30orN5PtRhj9fN2Myr8HKV"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "Go Tell It On The Mountain - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/0vKlprSCpzHKHzDLTThA8J"
+    },
+    {
+      "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/4GU118VZZVZuyQkSzJvCYq"
+      },
+      "artists": [
+        {
+          "name": "J. Lorenzo",
+          "url": "https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN"
+        },
+        {
+          "name": "CaliCronk",
+          "url": "https://open.spotify.com/artist/7IWTF2SJ9kPwh5YH92KF9q"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 140000,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/0HdudEGxZnZWYQHp6b7X3d"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "Hark! The Herald Angels Sing - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/3pHKOEfHHewudD2QNALzxz"
+    },
+    {
+      "album": {
+        "name": "Home for Christmas",
+        "url": "https://open.spotify.com/album/2tMEEVhJ7i6NGRDTKxhg2T"
+      },
+      "artists": [
+        {
+          "name": "Rook1e",
+          "url": "https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID"
+        },
+        {
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/63R9mcsJilIGl2J3RhV51y"
+    },
+    {
+      "album": {
+        "name": "High Cloud",
+        "url": "https://open.spotify.com/album/3LUfAbPp2qJLHdTdmBz2JI"
+      },
+      "artists": [
+        {
+          "name": "Afroham",
+          "url": "https://open.spotify.com/artist/1CYfML6hZtnvqIZbdcXE6E"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 128275,
+      "name": "High Cloud",
+      "url": "https://open.spotify.com/track/3kfG1zu6hvWVbrKdUJdMM3"
+    },
+    {
+      "album": {
+        "name": "Hopeful",
+        "url": "https://open.spotify.com/album/6KfZA74qjAa56tIeIro6Kk"
+      },
+      "artists": [
+        {
+          "name": "Otis Ubaka",
+          "url": "https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 217066,
+      "name": "Hopeful",
+      "url": "https://open.spotify.com/track/4gV3sEUkVQrSpJre4F462A"
+    },
+    {
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2TY5kMAOAhjfxWaZP1VLlp"
+      },
+      "artists": [
+        {
+          "name": "Arbour",
+          "url": "https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 119538,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/00l9jnZJIhV5JDeBDhxXHa"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354871,
+      "name": "I've Got My Love To Keep Me Warm - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/4vGZGyb9S9dgp3ZfqBtihl"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115622,
+      "name": "in autumn",
+      "url": "https://open.spotify.com/track/6PkxWWd10QYyfg5oeGwW4U"
+    },
+    {
+      "album": {
+        "name": "In My Home",
+        "url": "https://open.spotify.com/album/0mY8GjuVmw2fNl2qPrVrR7"
+      },
+      "artists": [
+        {
+          "name": "TV Culture",
+          "url": "https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 169698,
+      "name": "In My Home",
+      "url": "https://open.spotify.com/track/7Cs2ED0ViWu5FcJFgvTqCD"
+    },
+    {
+      "album": {
+        "name": "Infrarot / Kamel",
+        "url": "https://open.spotify.com/album/463zs5Cn2Jbx7rYM5elzKl"
+      },
+      "artists": [
+        {
+          "name": "Phil Dee",
+          "url": "https://open.spotify.com/artist/1Fjet7dRv15CfE5Kq0r7Zz"
+        },
+        {
+          "name": "Keller Flavour",
+          "url": "https://open.spotify.com/artist/1B4wdhAgnihovev7JTc8fJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 125714,
+      "name": "Infrarot",
+      "url": "https://open.spotify.com/track/6vtO73QIQgGMoAuvMY50u6"
+    },
+    {
+      "album": {
+        "name": "Endless Sunday Vol. 1",
+        "url": "https://open.spotify.com/album/6VBlQ6xCwGJ5SXp5q3dpU2"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 154000,
+      "name": "jam session",
+      "url": "https://open.spotify.com/track/0HoxtGmcNcuqWXGfkmf9KK"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Oatmello",
+          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120696,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/08yknIZyCXDvojLz8WLxrq"
+    },
+    {
+      "album": {
+        "name": "L'Avenir",
+        "url": "https://open.spotify.com/album/0ovwpJrKYU1vlv7mECoxMg"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 125142,
+      "name": "L'Avenir",
+      "url": "https://open.spotify.com/track/6DY45xZBT1GGP5F3B4Nc6d"
+    },
+    {
+      "album": {
+        "name": "La Route Noir",
+        "url": "https://open.spotify.com/album/16F3sHVXSOQboXzmm8zbAf"
+      },
+      "artists": [
+        {
+          "name": "Laze On",
+          "url": "https://open.spotify.com/artist/68hmVn5HZt9GhSerrrnqXP"
+        },
+        {
+          "name": "Tranquilion",
+          "url": "https://open.spotify.com/artist/733LlrEGsg9rIG6nq77U1d"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 132000,
+      "name": "La Route Noir",
+      "url": "https://open.spotify.com/track/2GrSp8261u3c46qppRUOcU"
+    },
+    {
+      "album": {
+        "name": "Laby",
+        "url": "https://open.spotify.com/album/2bLkA0WGwU53AUtemZUw62"
+      },
+      "artists": [
+        {
+          "name": "Flughand",
+          "url": "https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 145149,
+      "name": "Laby",
+      "url": "https://open.spotify.com/track/0rfbrSvtx7u3Mx3KUe4ayW"
+    },
+    {
+      "album": {
+        "name": "Lately",
+        "url": "https://open.spotify.com/album/7rR51LywqmbeaPTApnIKN5"
+      },
+      "artists": [
+        {
+          "name": "Dan Smiff",
+          "url": "https://open.spotify.com/artist/4795rPkYTu5gQCv5bl3i02"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 159000,
+      "name": "Lately",
+      "url": "https://open.spotify.com/track/7kL6qZLyNX7KLdQ7L0IaV3"
+    },
+    {
+      "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/3nsgnq8bcSd3s19wvGdjfJ"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "juniorodeo",
+          "url": "https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 99431,
+      "name": "Lazy Morning",
+      "url": "https://open.spotify.com/track/1an51Z9gx6RfHMovRRCEBL"
+    },
+    {
+      "album": {
+        "name": "Lemon Love Affair",
+        "url": "https://open.spotify.com/album/3RafxY6ROhK8BDbdo9uly5"
+      },
+      "artists": [
+        {
+          "name": "Burrito Brown",
+          "url": "https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 136420,
+      "name": "Lemon Love Affair",
+      "url": "https://open.spotify.com/track/6PFzqtAlR9xAUbuyYzEGsc"
+    },
+    {
+      "album": {
+        "name": "Casanova 70",
+        "url": "https://open.spotify.com/album/0HCq99iUU77YIMOagEgM6L"
+      },
+      "artists": [
+        {
+          "name": "Air",
+          "url": "https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 273773,
+      "name": "Les professionnels",
+      "url": "https://open.spotify.com/track/7mdMVGpnaOtmtEvZ4bwZgx"
+    },
+    {
+      "album": {
+        "name": "Lilac",
+        "url": "https://open.spotify.com/album/5D9Ru9pf9xrsLb2fSR6Ms1"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 167726,
+      "name": "Lilac",
+      "url": "https://open.spotify.com/track/2r2AiVSJxz9a8DDQiR0JdN"
+    },
+    {
+      "album": {
+        "name": "Lo Battery",
+        "url": "https://open.spotify.com/album/471NUQEFLuq5EOAj0jrtfG"
+      },
+      "artists": [
+        {
+          "name": "Fun Intended",
+          "url": "https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 163500,
+      "name": "Lo Battery",
+      "url": "https://open.spotify.com/track/7iDsxVHU8A5DxmslJUnSDx"
+    },
+    {
+      "album": {
+        "name": "Lo Vas A Olvidar (Lofi Version)",
+        "url": "https://open.spotify.com/album/3YSvxk5IFIp9RDGiexU0Ow"
+      },
+      "artists": [
+        {
+          "name": "golden era",
+          "url": "https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8"
+        },
+        {
+          "name": "LatinoFi",
+          "url": "https://open.spotify.com/artist/5J47VDjGjTRzUrjxiacTMo"
+        },
+        {
+          "name": "lofi.remixes",
+          "url": "https://open.spotify.com/artist/4JAIvx8vd1sMssmNTcwnPX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 120000,
+      "name": "Lo Vas A Olvidar (Lofi Version)",
+      "url": "https://open.spotify.com/track/66fe50KmWTDtv1f77LvRrf"
+    },
+    {
+      "album": {
+        "name": "Loving",
+        "url": "https://open.spotify.com/album/4m9t5zgwMIGSxh3smHpLJ9"
+      },
+      "artists": [
+        {
+          "name": "Clef Hart",
+          "url": "https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 136147,
+      "name": "Loving",
+      "url": "https://open.spotify.com/track/18S4giQbwxjSQq1fmfP3zF"
+    },
+    {
+      "album": {
+        "name": "Meadow",
+        "url": "https://open.spotify.com/album/0iysstOhIlUBKzrFPEszKj"
+      },
+      "artists": [
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "name": "azula",
+          "url": "https://open.spotify.com/artist/1ExCrobB2mqThavegHEHeS"
+        },
+        {
+          "name": "Dayle",
+          "url": "https://open.spotify.com/artist/6hfizRMps5TUhm6Khvx58X"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 122316,
+      "name": "Meadow",
+      "url": "https://open.spotify.com/track/3HI517soZ95tHLimEH1I05"
+    },
+    {
+      "album": {
+        "name": "Meaning",
+        "url": "https://open.spotify.com/album/3J7804I4aIBPlab3HMIDR1"
+      },
+      "artists": [
+        {
+          "name": "Kurt Stewart",
+          "url": "https://open.spotify.com/artist/1SzLvjYm0lQLPi3AneCpDO"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 150554,
+      "name": "Meaning",
+      "url": "https://open.spotify.com/track/5XaQSZH4hpjqllg4igLa9W"
+    },
+    {
+      "album": {
+        "name": "orange blue",
+        "url": "https://open.spotify.com/album/3ThHnxWZkHeOUmGNOzPxEW"
+      },
+      "artists": [
+        {
+          "name": "greenface",
+          "url": "https://open.spotify.com/artist/2aTEuIyczpLxQw9I0UiEFL"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "merry christmas",
+      "url": "https://open.spotify.com/track/0b68v7CtjEcjTCHUjOnhmD"
+    },
+    {
+      "album": {
+        "name": "M\u00fcn",
+        "url": "https://open.spotify.com/album/2mkGqOYGIwtx2QWET2hubO"
+      },
+      "artists": [
+        {
+          "name": "brillion.",
+          "url": "https://open.spotify.com/artist/77aATgrzmuoRjmqxPcEIHU"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 155913,
+      "name": "M\u00fcn",
+      "url": "https://open.spotify.com/track/2WgYWIv7F7DaZVdZyxm84l"
+    },
+    {
+      "album": {
+        "name": "night bells",
+        "url": "https://open.spotify.com/album/4SIPC9cuoMfKJRySmtqIcI"
+      },
+      "artists": [
+        {
+          "name": "Lomery",
+          "url": "https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118560,
+      "name": "night bells",
+      "url": "https://open.spotify.com/track/5wXv9gdno0D2wls7Uofbul"
+    },
+    {
+      "album": {
+        "name": "Cosmic Tea",
+        "url": "https://open.spotify.com/album/6JepTumzo8hBBQIP33Blnf"
+      },
+      "artists": [
+        {
+          "name": "Nephele",
+          "url": "https://open.spotify.com/artist/3LT1YUHdetgIEclHsGn4Hs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121640,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3t9EVEYrWEo9jnYzuK5ZGI"
+    },
+    {
+      "album": {
+        "name": "Noches IntimaXx",
+        "url": "https://open.spotify.com/album/7eXs9Nt1zd979rPgQCBY8n"
+      },
+      "artists": [
+        {
+          "name": "Jorge Milliano",
+          "url": "https://open.spotify.com/artist/2h3ZcRa4CSTILfWC4RRgZJ"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 167230,
+      "name": "Noches IntimaXx",
+      "url": "https://open.spotify.com/track/5ECbVbqSsshnGw6wPPNAQS"
+    },
+    {
+      "album": {
+        "name": "The Engelwood Christmas Special Rewrapped",
+        "url": "https://open.spotify.com/album/0bfOqXk3H5wqzpBizvUhRG"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97687,
+      "name": "Nujabes Christmas Party",
+      "url": "https://open.spotify.com/track/5y11yVtii5tzfBRbgcc8fs"
+    },
+    {
+      "album": {
+        "name": "Lo-Ho-Ho-Fi",
+        "url": "https://open.spotify.com/album/5AHQTYvPX19HDZNJUm7AmX"
+      },
+      "artists": [
+        {
+          "name": "KOF\u0112SHOP",
+          "url": "https://open.spotify.com/artist/5c4d9QG7fbjcTj24vaUBZ5"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "O Christmas Tr\u0113\u0113",
+      "url": "https://open.spotify.com/track/7BQu5Zz9lrB191ZMvl0Fq3"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87096,
+      "name": "O Holy Night - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/4zxfVkTZGVB9suzU26sPvB"
+    },
+    {
+      "album": {
+        "name": "outside world",
+        "url": "https://open.spotify.com/album/6CEfIgvkztTumJQ2A44lXz"
+      },
+      "artists": [
+        {
+          "name": "Milkz",
+          "url": "https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 173296,
+      "name": "outside world",
+      "url": "https://open.spotify.com/track/3VcMS5H8mIsV3K7mro9JfB"
+    },
+    {
+      "album": {
+        "name": "2 Am. Study Session",
+        "url": "https://open.spotify.com/album/2oHJAIuw8IH9SUSk05JjRy"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        },
+        {
+          "name": "Allem Iversom",
+          "url": "https://open.spotify.com/artist/6RaUtVLO8R5TsVdJIxSrq1"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 211347,
+      "name": "Pale Moon",
+      "url": "https://open.spotify.com/track/7bxagI2dQL5NzM2vC2bPqc"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112405,
+      "name": "Pat-A-Pan - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/61Wt3PGtbe32HYBAYxFHQc"
+    },
+    {
+      "album": {
+        "name": "Persistence of Memory",
+        "url": "https://open.spotify.com/album/0OfpRrhWO0QaHozoMsZFLq"
+      },
+      "artists": [
+        {
+          "name": "Handbook",
+          "url": "https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 172173,
+      "name": "Persistence of Memory",
+      "url": "https://open.spotify.com/track/3q9Tq6nd3hy8bpBqDTdsd7"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Kendji Girac",
+          "url": "https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326191,
+      "name": "Petit Papa No\u00ebl - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/2lJkXvnvnxaUiWoz3o7Y3O"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 94000,
+      "name": "Procrastination",
+      "url": "https://open.spotify.com/track/4fViiSMt9UZc9UofQbH53n"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 124000,
+      "name": "Progression",
+      "url": "https://open.spotify.com/track/5PHJ90NAzSlvsdiXBsOmW7"
+    },
+    {
+      "album": {
+        "name": "Just the Remixes Vol. 1 Instrumentals",
+        "url": "https://open.spotify.com/album/3DVockoxZp2hDWrZOd2Okv"
+      },
+      "artists": [
+        {
+          "name": "The Deli",
+          "url": "https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 224564,
+      "name": "Put It On",
+      "url": "https://open.spotify.com/track/5wFL2KrjGp3XC3QOICnSFp"
+    },
+    {
+      "album": {
+        "name": "Quick Dip",
+        "url": "https://open.spotify.com/album/0nzPwcD8sP6dgkOPlsLOnd"
+      },
+      "artists": [
+        {
+          "name": "Fun Intended",
+          "url": "https://open.spotify.com/artist/3LVh75iLe4iDjG4W1ztvAh"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 152727,
+      "name": "Quick Dip",
+      "url": "https://open.spotify.com/track/09wdAHHcKkXWf9xnqbH2tL"
+    },
+    {
+      "album": {
+        "name": "Rain Daze",
+        "url": "https://open.spotify.com/album/4r99eGfqCJZbBCJcfz4bIe"
+      },
+      "artists": [
+        {
+          "name": "Dan Smiff",
+          "url": "https://open.spotify.com/artist/4795rPkYTu5gQCv5bl3i02"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 178285,
+      "name": "Rain Daze",
+      "url": "https://open.spotify.com/track/5ka0h8QLLX9QX8far3440b"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 130000,
+      "name": "Refound Motivation",
+      "url": "https://open.spotify.com/track/4KBDgKPlJTTCgwXeM2G3Rf"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 139000,
+      "name": "Research",
+      "url": "https://open.spotify.com/track/2NN43iyMuaANA4M0RQLQu5"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 134000,
+      "name": "Rest Now",
+      "url": "https://open.spotify.com/track/6GmQhQUqRxBg0PuFPf0IKL"
+    },
+    {
+      "album": {
+        "name": "Ripple Waves",
+        "url": "https://open.spotify.com/album/4MxOKVyprWHPw2reHLNyGi"
+      },
+      "artists": [
+        {
+          "name": "frumhere",
+          "url": "https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 123161,
+      "name": "Ripple Waves",
+      "url": "https://open.spotify.com/track/2Gkyka12OArLoFDoWtMebH"
+    },
+    {
+      "album": {
+        "name": "Ristretto - EP",
+        "url": "https://open.spotify.com/album/3LilHFPNVkPw9v0s27Rw1A"
+      },
+      "artists": [
+        {
+          "name": "Mister Decaf",
+          "url": "https://open.spotify.com/artist/5JWChP6Y4Ae3sQ0FQeviKY"
+        },
+        {
+          "name": "Disruptive LoFi",
+          "url": "https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 139607,
+      "name": "Ristretto",
+      "url": "https://open.spotify.com/track/7v56xxk5wnzZrlazYqxM3T"
+    },
+    {
+      "album": {
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/0cnOwlAuXMHARwev1QTiMT"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 158159,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/5ijYAH6Rec7c0JWYBflHug"
+    },
+    {
+      "album": {
+        "name": "Rukha",
+        "url": "https://open.spotify.com/album/4nhp1eTaJD7pwhJha7DmNk"
+      },
+      "artists": [
+        {
+          "name": "Grabbeltonn",
+          "url": "https://open.spotify.com/artist/5MBxUkmVbZj0Yq9grVNAc9"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 153600,
+      "name": "Rukha",
+      "url": "https://open.spotify.com/track/04BWj45gyWRfU997vnklqd"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235810,
+      "name": "Santa Claus Is Coming To Town - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/1awj8VEKRdOVPkPU6GFenL"
+    },
+    {
+      "album": {
+        "name": "Chilling with Santa",
+        "url": "https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl"
+      },
+      "artists": [
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145606,
+      "name": "Santa's a Bit Drunk",
+      "url": "https://open.spotify.com/track/4BH5EayAmND7PHgSAWp1gz"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "frumhere",
+          "url": "https://open.spotify.com/artist/21Aa8MX3PsrO03NgH3TZGy"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139417,
+      "name": "silent night",
+      "url": "https://open.spotify.com/track/1SRAAoHpzHZ9MMHaDuaBmN"
+    },
+    {
+      "album": {
+        "name": "Silk",
+        "url": "https://open.spotify.com/album/42n0nKDwZ5iPSAe8vSc36c"
+      },
+      "artists": [
+        {
+          "name": "Slo Loris",
+          "url": "https://open.spotify.com/artist/5LhPD5fY0zH2Rre4wfBUxX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 116648,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/3cRgZr1fsKk6TKrZrRC8qi"
+    },
+    {
+      "album": {
+        "name": "Sleepy Eyes",
+        "url": "https://open.spotify.com/album/1wKEos4Xsx9LCyxNBX508l"
+      },
+      "artists": [
+        {
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 166999,
+      "name": "Sleepy Eyes",
+      "url": "https://open.spotify.com/track/0pP0p7X4SXzdkjugDOPt4s"
+    },
+    {
+      "album": {
+        "name": "Chilling with Santa",
+        "url": "https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl"
+      },
+      "artists": [
+        {
+          "name": "Aphrow",
+          "url": "https://open.spotify.com/artist/5r6e4n1Ux36kMlRJSqeMPr"
+        },
+        {
+          "name": "Greenfinch",
+          "url": "https://open.spotify.com/artist/7bjnkMztY48CVSiBUaZOCN"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105974,
+      "name": "Snow Cake",
+      "url": "https://open.spotify.com/track/4O5GCSIkMB5LklWaOUf2VZ"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Fthmlss",
+          "url": "https://open.spotify.com/artist/7v0VFJ0OHoYAVJ3F9Iapv3"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/5yHoUhofczKCQjIDzZ1az6"
+    },
+    {
+      "album": {
+        "name": "Snowman",
+        "url": "https://open.spotify.com/album/7gfaWpaZlmHT47JLL9iHpB"
+      },
+      "artists": [
+        {
+          "name": "Lofi Lucy",
+          "url": "https://open.spotify.com/artist/2oIGzku5w8Rj3SOFLhShBO"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/43sI1rcR1nJ6Xq2YXr18ix"
+    },
+    {
+      "album": {
+        "name": "someone like you",
+        "url": "https://open.spotify.com/album/2XkBKGoXuCX6SK9MHeUQSX"
+      },
+      "artists": [
+        {
+          "name": "vlows",
+          "url": "https://open.spotify.com/artist/1I8vSPgZriud0yvXK55JHt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 114374,
+      "name": "someone like you",
+      "url": "https://open.spotify.com/track/5WoNlOvSQT61TsQZXBYZwc"
+    },
+    {
+      "album": {
+        "name": "1 Am. Study Session",
+        "url": "https://open.spotify.com/album/6XyaVDkZeCWf14x0eESZdl"
+      },
+      "artists": [
+        {
+          "name": "dryhope",
+          "url": "https://open.spotify.com/artist/50Ej4gF8iYESted3e4JZ4t"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 150750,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/0e0BS4zwbHHI5jTS6pSlJg"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 146007,
+      "name": "Study Break",
+      "url": "https://open.spotify.com/track/4fzb7rnvJSlpiaMs4fEbOP"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Snuggles",
+          "url": "https://open.spotify.com/artist/0hMbS7DvRkVNTnrCMeUUAX"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 135000,
+      "name": "Study With Me",
+      "url": "https://open.spotify.com/track/4MzpC9Q3pz24CqXrSWGhBC"
+    },
+    {
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 380497,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/1msXkHv84LKikJGKcfdGBu"
+    },
+    {
+      "album": {
+        "name": "Tao",
+        "url": "https://open.spotify.com/album/5vRtaMXCXj99iyABRzqWIe"
+      },
+      "artists": [
+        {
+          "name": "Ameba",
+          "url": "https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 115936,
+      "name": "Tao",
+      "url": "https://open.spotify.com/track/7waqmvXl5m9TFtDwugLDXR"
+    },
+    {
+      "album": {
+        "name": "Snowed + Reverb",
+        "url": "https://open.spotify.com/album/0bYKjKidJWDqlvmBSbiLiT"
+      },
+      "artists": [
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211317,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, TH 14 / Act 2 - No. 14c Pas de deux: Variation II (Dance of the Sugar-Plum Fairy) - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/3nMJnAXyc6KfD29RHaDft6"
+    },
+    {
+      "album": {
+        "name": "no distraction(s)",
+        "url": "https://open.spotify.com/album/0XefiX1k1ZKbZM6n1ipnhO"
+      },
+      "artists": [
+        {
+          "name": "DOMENICO",
+          "url": "https://open.spotify.com/artist/0njfgkVXlaTtQnSZx9awZt"
+        },
+        {
+          "name": "Devereaux",
+          "url": "https://open.spotify.com/artist/77zJEu2Yfg2smyDiPobfFJ"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 107294,
+      "name": "Teakwood",
+      "url": "https://open.spotify.com/track/2Z4R4aDQTHRbOj4HGjZdT7"
+    },
+    {
+      "album": {
+        "name": "Technical Difficulties",
+        "url": "https://open.spotify.com/album/4bfyeIoMY1v5c7UCnRmeXG"
+      },
+      "artists": [
+        {
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 170124,
+      "name": "Technical Difficulties",
+      "url": "https://open.spotify.com/track/6H74zmY905gEiWHNJ7Y60A"
+    },
+    {
+      "album": {
+        "name": "The Abstract",
+        "url": "https://open.spotify.com/album/4XoLIAKywxKY3rMqSo12OS"
+      },
+      "artists": [
+        {
+          "name": "Nick Wolf",
+          "url": "https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 73500,
+      "name": "The Abstract",
+      "url": "https://open.spotify.com/track/57hVuCyHtjstClsPmEaTx0"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103500,
+      "name": "The Little Drummer Boy - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/6sufXyokCJgkXKeySyfolN"
+    },
+    {
+      "album": {
+        "name": "j a z z y c h r i s t m a s",
+        "url": "https://open.spotify.com/album/0JIrhVD0jRVx4yxoneaIms"
+      },
+      "artists": [
+        {
+          "name": "lofi",
+          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122305,
+      "name": "The Polar Express",
+      "url": "https://open.spotify.com/track/25bA87CGHB5I8zv0a8OZPB"
+    },
+    {
+      "album": {
+        "name": "Tica",
+        "url": "https://open.spotify.com/album/5jqy8FPbh0CqaprCgCUcMD"
+      },
+      "artists": [
+        {
+          "name": "Yokomeshi",
+          "url": "https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 123428,
+      "name": "Tica",
+      "url": "https://open.spotify.com/track/0TbP8PMzDHZjf5ocW37yto"
+    },
+    {
+      "album": {
+        "name": "Touching",
+        "url": "https://open.spotify.com/album/40NmUEL3zuBHq8CcjW5TX1"
+      },
+      "artists": [
+        {
+          "name": "Clef Hart",
+          "url": "https://open.spotify.com/artist/237yNBnvy4Z2KYKuc1gXxI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 135375,
+      "name": "Touching",
+      "url": "https://open.spotify.com/track/1GTtDmAzs7Is9P9IoH8WLq"
+    },
+    {
+      "album": {
+        "name": "Study With Me",
+        "url": "https://open.spotify.com/album/49I6oyDefsFFWzWbZebR7I"
+      },
+      "artists": [
+        {
+          "name": "Lofi Fruits Music",
+          "url": "https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM"
+        },
+        {
+          "name": "Fets",
+          "url": "https://open.spotify.com/artist/0GJ3FYu5TXpDjqvPs9iA4u"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 124273,
+      "name": "Vast Session",
+      "url": "https://open.spotify.com/track/4zTaijkWPXBfsS4nX0XI2k"
+    },
+    {
+      "album": {
+        "name": "2 Am. Study Session",
+        "url": "https://open.spotify.com/album/2oHJAIuw8IH9SUSk05JjRy"
+      },
+      "artists": [
+        {
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        },
+        {
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 103998,
+      "name": "Vhs",
+      "url": "https://open.spotify.com/track/7jpXL8GQvTjN0CXzLwofSt"
+    },
+    {
+      "album": {
+        "name": "Lights",
+        "url": "https://open.spotify.com/album/5EIv3TpBL0ox9vV7YocoSy"
+      },
+      "artists": [
+        {
+          "name": "Devon Rea",
+          "url": "https://open.spotify.com/artist/5r4pQdeOkSMx1y2NNMDSlu"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 139200,
+      "name": "Vignette",
+      "url": "https://open.spotify.com/track/6iDnj7xTA9QStjAnWN0aJE"
+    },
+    {
+      "album": {
+        "name": "Vintage Sounds",
+        "url": "https://open.spotify.com/album/1uCa5lTSNrNM2sce9QX4Q7"
+      },
+      "artists": [
+        {
+          "name": "W\u00e4nderlost",
+          "url": "https://open.spotify.com/artist/7MN9KqDrLp1f8JZ7f1Wymb"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 84000,
+      "name": "Vintage Sounds",
+      "url": "https://open.spotify.com/track/3l6wq7BNjHOAXec2OO9LuF"
+    },
+    {
+      "album": {
+        "name": "Wabi Sabi",
+        "url": "https://open.spotify.com/album/6eDBRPpvYOHFRnpZfuP6dh"
+      },
+      "artists": [
+        {
+          "name": "eleven",
+          "url": "https://open.spotify.com/artist/2je6GFLTZmAbrnjokRtWfU"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 124974,
+      "name": "Wabi Sabi",
+      "url": "https://open.spotify.com/track/0gLUUhN3q59mg9InVe8HvZ"
+    },
+    {
+      "album": {
+        "name": "Walking In The Rain",
+        "url": "https://open.spotify.com/album/2ulwPr4YV57OEFViPyeaJh"
+      },
+      "artists": [
+        {
+          "name": "Scoville",
+          "url": "https://open.spotify.com/artist/0FSRU2xD8JumoiphyH6hB2"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 82816,
+      "name": "Walking In The Rain",
+      "url": "https://open.spotify.com/track/2jX2RhFg56InRVXzVsLVhs"
+    },
+    {
+      "album": {
+        "name": "Where Did You Go",
+        "url": "https://open.spotify.com/album/5pTCpVcOyiIEWyJPuKt4Fz"
+      },
+      "artists": [
+        {
+          "name": "I See Colors",
+          "url": "https://open.spotify.com/artist/5FNzvM9Dpzp0X1s2ykEJmS"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 185600,
+      "name": "Where Did You Go",
+      "url": "https://open.spotify.com/track/7zMi09LwkrUJ7FMptWk2lK"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117209,
+      "name": "White Christmas - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/4XYKwuLc6ycLXdVXuZCd7c"
+    },
+    {
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/7brRaqvhSGMhAV5cCRb3LQ"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 100465,
+      "name": "winter in rio",
+      "url": "https://open.spotify.com/track/2FKsGoYghIBDdxsXXBIfJg"
+    },
+    {
+      "album": {
+        "name": "Chilling with Santa",
+        "url": "https://open.spotify.com/album/0aI6jZpSRIynyq4ljMMjPl"
+      },
+      "artists": [
+        {
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162642,
+      "name": "Winter Magic",
+      "url": "https://open.spotify.com/track/0cGzwpykgJQig8zN8SyWPv"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "TV Culture",
+          "url": "https://open.spotify.com/artist/4SMpfT0gDr82P6jyWArDve"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158647,
+      "name": "winter trees",
+      "url": "https://open.spotify.com/track/2yZ8CyFUJK3E5d9NVNHoSh"
+    },
+    {
+      "album": {
+        "name": "Christmas In Lofi",
+        "url": "https://open.spotify.com/album/6s9zLtHkSyMt3zkh1gFNuZ"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "LOUALLDAY",
+          "url": "https://open.spotify.com/artist/5t6GZtOQUoSS5OB0zmZUhm"
+        },
+        {
+          "name": "uChill",
+          "url": "https://open.spotify.com/artist/7tG1DhpZCWx7wvgNqC73ce"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131428,
+      "name": "Winter Wonderland - LOUALLDAY Lofi Flip",
+      "url": "https://open.spotify.com/track/7wYEMHnKYNqIMxDmJL8l4n"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays: A Merry Lofi Christmas",
+        "url": "https://open.spotify.com/album/2RUU51kGbkCdo6j6alIp96"
+      },
+      "artists": [
+        {
+          "name": "Oatmello",
+          "url": "https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O"
+        },
+        {
+          "name": "Atlantic Chill",
+          "url": "https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP"
+        },
+        {
+          "name": "Atlantic Holiday",
+          "url": "https://open.spotify.com/artist/5D9NYfOaGxFKCalJIeia1N"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111003,
+      "name": "Wish You A Merry Christmas",
+      "url": "https://open.spotify.com/track/3HhGtO4BESh5WanWEhiqVl"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/1xW4qLoIJ7KqCdmcL9cylf"
+      },
+      "artists": [
+        {
+          "name": "Yokomeshi",
+          "url": "https://open.spotify.com/artist/1oZzw55AZLPWMj2HjddYB8"
+        },
+        {
+          "name": "an/tunes",
+          "url": "https://open.spotify.com/artist/727ZLZhPSKwb7qPw91oCD0"
+        },
+        {
+          "name": "Disruptive LoFi",
+          "url": "https://open.spotify.com/artist/7EvLN33JkyPlB7gpnonjHI"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 138666,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1OEsCjXun5tjkupcWBFluQ"
+    },
+    {
+      "album": {
+        "name": "Zen",
+        "url": "https://open.spotify.com/album/13GAOMWis7pOtlXkMtFd44"
+      },
+      "artists": [
+        {
+          "name": "Kokomiko",
+          "url": "https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D"
+        },
+        {
+          "name": "Peak Twilight",
+          "url": "https://open.spotify.com/artist/25qDYhjZHVzZS6sOVzAVAx"
+        },
+        {
+          "name": "Sitting Duck",
+          "url": "https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt"
+        }
+      ],
+      "date_added": "2021-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 109714,
+      "name": "Zen",
+      "url": "https://open.spotify.com/track/4y9uK039QKS0P0vzcfXfmB"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/6bvocDUOsyBDXvTWyQtvaH"
 }

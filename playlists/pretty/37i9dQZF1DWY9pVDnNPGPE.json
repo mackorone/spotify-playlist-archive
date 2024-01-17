@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 4535,
+  "num_followers": 4631,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,26 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
+        "name": "Burn the Memory (Feat. GIRIBOY)",
+        "url": "https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Burn the Memory (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
         "name": "World Peace Project Vol.2",
         "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
@@ -287,42 +307,18 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "Burn the Memory (Feat. GIRIBOY)",
-        "url": "https://open.spotify.com/album/6T8c5TiOFAOyjPMePQCQ1u"
+        "name": "Can you stay (From Semantic Error)",
+        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
       },
       "artists": [
         {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Coldin",
+          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Burn the Memory (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/4FvDB8RKvxZFpKljmOalwY"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ"
-      },
-      "artists": [
-        {
-          "name": "Juju B. Goode",
-          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
-        },
-        {
-          "name": "HOHYUN",
-          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
-        }
-      ],
-      "duration_ms": 184028,
-      "name": "Alright!",
-      "url": "https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp"
+      "duration_ms": 182266,
+      "name": "Can you stay",
+      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -363,22 +359,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "Can you stay (From Semantic Error)",
-        "url": "https://open.spotify.com/album/3gQtw0KG5524di5gAXGxrU"
-      },
-      "artists": [
-        {
-          "name": "Coldin",
-          "url": "https://open.spotify.com/artist/5yB6Lu343nFLxCVugcgxoG"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Can you stay",
-      "url": "https://open.spotify.com/track/1u2WfYwwpnI9MnC9LolkRF"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 213377,
       "name": "Thief (Feat. MINNIE of (G)I-DLE)",
       "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/3ch7V7BeaJWxln8LIw98WJ"
+      },
+      "artists": [
+        {
+          "name": "Juju B. Goode",
+          "url": "https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY"
+        },
+        {
+          "name": "HOHYUN",
+          "url": "https://open.spotify.com/artist/15QTZYWWbRmiII0wpKIAmu"
+        }
+      ],
+      "duration_ms": 184028,
+      "name": "Alright!",
+      "url": "https://open.spotify.com/track/5hQICsPlW35Neg3BooISKp"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Parade",
-      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "Mm Mm",
         "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 166546,
       "name": "Mm Mm (Prod. by Cosmic Boy)",
       "url": "https://open.spotify.com/track/5FQZK2QsHAnu6i2tHpbwpP"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/2lsXJ7F3QYJrQ9cQ9Icx1n"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 224394,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "Delivery Man, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6nGoz0SzaiNs00WUBuxysF"
       },
@@ -607,38 +591,18 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "HOODIE E BANBAJI",
-        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+        "name": "YUMI's Cells 2, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0Sne2NbyHp3VxWi4NF9lS4"
       },
       "artists": [
         {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 189973,
-      "name": "HOODIE E BANBAJI",
-      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm"
-      },
-      "artists": [
-        {
-          "name": "SURAN",
-          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
-        },
-        {
-          "name": "Peder Elias",
-          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
+      "duration_ms": 224394,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/6xfrL3P0s3rgocpFf72ZsG"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -659,6 +623,22 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
+        "name": "HOODIE E BANBAJI",
+        "url": "https://open.spotify.com/album/7k3M7ITqDwJwlMirEAL7SZ"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 189973,
+      "name": "HOODIE E BANBAJI",
+      "url": "https://open.spotify.com/track/3VNlscYTSeZqbREFoOe3KE"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
         "name": "PSY 9th",
         "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 220186,
       "name": "You Move Me (feat. SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/23QC5sdQRB4Oqp6iviqIFc"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0XVe9SlfGUzJeMfzODdKdm"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/41zovgnOZ3akeNNa9h5vcC"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -711,38 +711,6 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
-        "name": "NO MORE",
-        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
-      },
-      "artists": [
-        {
-          "name": "KIM YO HAN",
-          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
-        }
-      ],
-      "duration_ms": 158045,
-      "name": "No More (Prod. Zion.T)",
-      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "SummerSweet",
-        "url": "https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "SummerSweet",
-      "url": "https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
         "name": "Je N'aime Que Toi",
         "url": "https://open.spotify.com/album/5yCszfyC8do90AeMrBa5dd"
       },
@@ -755,6 +723,22 @@
       "duration_ms": 196666,
       "name": "Je N'aime Que Toi",
       "url": "https://open.spotify.com/track/2WW1ymvg1h7hXbYoLFNhz8"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "NO MORE",
+        "url": "https://open.spotify.com/album/03V3DsgstV70JlF61ZFEQz"
+      },
+      "artists": [
+        {
+          "name": "KIM YO HAN",
+          "url": "https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD"
+        }
+      ],
+      "duration_ms": 158045,
+      "name": "No More (Prod. Zion.T)",
+      "url": "https://open.spotify.com/track/6UZPTH87iJRJEPpfQ0wIZy"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -779,6 +763,22 @@
     {
       "added_at": "2023-11-03 06:20:46",
       "album": {
+        "name": "SummerSweet",
+        "url": "https://open.spotify.com/album/3djCKvCgZmdaM7aB3QlbwU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "SummerSweet",
+      "url": "https://open.spotify.com/track/6eFTJraZWhyEmFa6Fx3MnZ"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
         "name": "Twenty (Prod. Jung Key)",
         "url": "https://open.spotify.com/album/0oJZPtZU2ZsUu3IrpO2QGq"
       },
@@ -791,6 +791,38 @@
       "duration_ms": 219653,
       "name": "Twenty (Prod. Jung Key)",
       "url": "https://open.spotify.com/track/1RQH42rIr42IEUhilODQIO"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "added_at": "2023-11-03 06:20:46",
+      "album": {
+        "name": "IN-OUT",
+        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 221306,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
     },
     {
       "added_at": "2023-11-03 06:20:46",
@@ -827,38 +859,6 @@
       "duration_ms": 220400,
       "name": "Let's Love",
       "url": "https://open.spotify.com/track/6h5ORMFWElwmVjCYWxZosK"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "IN-OUT",
-        "url": "https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 221306,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0X36bmuoQwQV0YJqU8Uxua"
-    },
-    {
-      "added_at": "2023-11-03 06:20:46",
-      "album": {
-        "name": "LOVE or TAKE",
-        "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
-      },
-      "artists": [
-        {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
-        }
-      ],
-      "duration_ms": 191906,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
     },
     {
       "added_at": "2023-11-03 06:20:46",

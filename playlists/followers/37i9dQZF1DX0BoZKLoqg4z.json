@@ -1,97 +1,1017 @@
 {
-  "2023-09-29": 5699,
-  "2023-09-30": 5719,
-  "2023-10-01": 5758,
-  "2023-10-02": 5796,
-  "2023-10-03": 5803,
-  "2023-10-04": 5826,
-  "2023-10-05": 5847,
-  "2023-10-06": 5864,
-  "2023-10-07": 5891,
-  "2023-10-08": 5925,
-  "2023-10-09": 5956,
-  "2023-10-10": 5974,
-  "2023-10-11": 6022,
-  "2023-10-12": 6022,
-  "2023-10-13": 6037,
-  "2023-10-14": 6056,
-  "2023-10-15": 6082,
-  "2023-10-16": 6117,
-  "2023-10-17": 6136,
-  "2023-10-18": 6156,
-  "2023-10-19": 6184,
-  "2023-10-20": 6197,
-  "2023-10-21": 6212,
-  "2023-10-22": 6241,
-  "2023-10-23": 6270,
-  "2023-10-24": 6287,
-  "2023-10-25": 6316,
-  "2023-10-26": 6340,
-  "2023-10-27": 6374,
-  "2023-10-28": 6399,
-  "2023-10-29": 6429,
-  "2023-10-30": 6486,
-  "2023-10-31": 6486,
-  "2023-11-01": 6499,
-  "2023-11-02": 6529,
-  "2023-11-03": 6559,
-  "2023-11-04": 6590,
-  "2023-11-05": 6618,
-  "2023-11-06": 6648,
-  "2023-11-07": 6669,
-  "2023-11-08": 6685,
-  "2023-11-09": 6714,
-  "2023-11-10": 6733,
-  "2023-11-11": 6753,
-  "2023-11-12": 6777,
-  "2023-11-13": 6804,
-  "2023-11-14": 6813,
-  "2023-11-15": 6813,
-  "2023-11-16": 6859,
-  "2023-11-17": 6898,
-  "2023-11-18": 6898,
-  "2023-11-19": 6919,
-  "2023-11-20": 6943,
-  "2023-11-21": 6958,
-  "2023-11-22": 6965,
-  "2023-11-23": 6986,
-  "2023-11-24": 6999,
-  "2023-11-25": 7020,
-  "2023-11-26": 7044,
-  "2023-11-27": 7070,
-  "2023-11-28": 7088,
-  "2023-11-29": 7116,
-  "2023-11-30": 7116,
-  "2023-12-01": 7129,
-  "2023-12-02": 7141,
-  "2023-12-03": 7173,
-  "2023-12-04": 7198,
-  "2023-12-05": 7215,
-  "2023-12-06": 7227,
-  "2023-12-07": 7238,
-  "2023-12-08": 7242,
-  "2023-12-09": 7256,
-  "2023-12-10": 7272,
-  "2023-12-11": 7281,
-  "2023-12-12": 7290,
-  "2023-12-13": 7299,
-  "2023-12-14": 7313,
-  "2023-12-15": 7317,
-  "2023-12-16": 7327,
-  "2023-12-17": 7343,
-  "2023-12-18": 7350,
-  "2023-12-19": 7354,
-  "2023-12-20": 7362,
-  "2023-12-21": 7382,
-  "2023-12-22": 7391,
-  "2023-12-23": 7403,
-  "2023-12-24": 7415,
-  "2023-12-25": 7431,
-  "2023-12-26": 7446,
-  "2023-12-27": 7463,
-  "2023-12-30": 7511,
-  "2023-12-31": 7526,
-  "2024-01-01": 7543,
-  "2024-01-02": 7562,
-  "2024-01-03": 7579
+  "2024-01-17": 7770,
+  "date_first_scraped": "2023-09-29",
+  "description": "Les talents pr\u00e9f\u00e9r\u00e9s de vos enfants, d\u00e9couverts \u00e0 la t\u00e9l\u00e9!",
+  "name": "Stars en herbe",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alors chut",
+        "url": "https://open.spotify.com/album/5h1nCc3UltPqDDTVNCUA7U"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141531,
+      "name": "Alors chut",
+      "url": "https://open.spotify.com/track/2guzixPNeSdHaSI4LobeRZ"
+    },
+    {
+      "album": {
+        "name": "Danser sur tes mots (Version deluxe)",
+        "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Besoin d'air",
+      "url": "https://open.spotify.com/track/346O1QZHMDi4IhInkYJAWP"
+    },
+    {
+      "album": {
+        "name": "Bim Bam toi",
+        "url": "https://open.spotify.com/album/7AvOontpgfp5rWjYLzN8hY"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175670,
+      "name": "Bim Bam toi",
+      "url": "https://open.spotify.com/track/33NTeQz7sVYLmkJ1k8GsVR"
+    },
+    {
+      "album": {
+        "name": "C'est plus facile avec vous",
+        "url": "https://open.spotify.com/album/3SxB06J4GfyUhfkZPGgggT"
+      },
+      "artists": [
+        {
+          "name": "Emma Cerchi",
+          "url": "https://open.spotify.com/artist/127h5drPksZ0KjbHE1DR5A"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218153,
+      "name": "C'est plus facile avec vous",
+      "url": "https://open.spotify.com/track/7Eck1LEcFFq3m5g4va6iTt"
+    },
+    {
+      "album": {
+        "name": "Danser sur tes mots (Version deluxe)",
+        "url": "https://open.spotify.com/album/6HLWxUfkinxzjh1Ie5pDxn"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "Lenni Kim",
+          "url": "https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Ce mur qui nous s\u00e9pare - de la s\u00e9rie TV \"Miraculous\"",
+      "url": "https://open.spotify.com/track/6o4XEaMtm51Y21Aqp5xW9F"
+    },
+    {
+      "album": {
+        "name": "Forever United",
+        "url": "https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        },
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164373,
+      "name": "Chacun sa route (feat. Vitaa)",
+      "url": "https://open.spotify.com/track/3NWfbUKqJRaJXUukxoSDhd"
+    },
+    {
+      "album": {
+        "name": "Comme une s\u0153ur",
+        "url": "https://open.spotify.com/album/0nYwkKZM3nbfnP52hluzto"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Ly",
+          "url": "https://open.spotify.com/artist/2tt6RsVr9Yl6zTwwMIWeEt"
+        },
+        {
+          "name": "L\u00e9any",
+          "url": "https://open.spotify.com/artist/7pJvYujiuPRy9mcBmjoHPb"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192096,
+      "name": "Comme une s\u0153ur",
+      "url": "https://open.spotify.com/track/2l04rTn0NmqOm8rIeviKIP"
+    },
+    {
+      "album": {
+        "name": "Cosmic groove (Version fran\u00e7aise)",
+        "url": "https://open.spotify.com/album/58gJZBQpUnbA82Zw5UFS7j"
+      },
+      "artists": [
+        {
+          "name": "SamSam",
+          "url": "https://open.spotify.com/artist/2ete2rPrIXjihL1NIzkq42"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199988,
+      "name": "Cosmic groove - Version fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6TTvAU6cE2FcCZwiKqKWBS"
+    },
+    {
+      "album": {
+        "name": "Ma bonne \u00e9toile",
+        "url": "https://open.spotify.com/album/25a7sm0J2KmjrEfuNEO989"
+      },
+      "artists": [
+        {
+          "name": "Lisandro Cuxi",
+          "url": "https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177280,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/0qp6Mwx4Gwq3S67YKmo2eE"
+    },
+    {
+      "album": {
+        "name": "Lou (version deluxe)",
+        "url": "https://open.spotify.com/album/6XPvowrtcBuSrhY1P1rkYF"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215773,
+      "name": "Demain (g\u00e9n\u00e9rique de la s\u00e9rie TV \"Demain nous appartient\")",
+      "url": "https://open.spotify.com/track/5i6OwhEJy8hNLf9kF3tA3c"
+    },
+    {
+      "album": {
+        "name": "Les autres",
+        "url": "https://open.spotify.com/album/6WxxTwRCjPjsN53HmlH6iF"
+      },
+      "artists": [
+        {
+          "name": "Lenni Kim",
+          "url": "https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224931,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/1z2TYaojKtxBKRhEQqjdi8"
+    },
+    {
+      "album": {
+        "name": "Sardou et nous...",
+        "url": "https://open.spotify.com/album/0rCZUWDBbB8lCw7RtSEOWS"
+      },
+      "artists": [
+        {
+          "name": "Dylan",
+          "url": "https://open.spotify.com/artist/3qRQ1vhDVjpWrSFdk9v212"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "Angie Robba",
+          "url": "https://open.spotify.com/artist/73NJzy1M0iOKvQkIL1qSW4"
+        },
+        {
+          "name": "Nemo Schiffman",
+          "url": "https://open.spotify.com/artist/3IcHkMtsQkP9x0bGW8jaEW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215354,
+      "name": "En chantant",
+      "url": "https://open.spotify.com/track/0AqHSKqUcRsoe00vzIJnox"
+    },
+    {
+      "album": {
+        "name": "Chantent Salut Les Copains",
+        "url": "https://open.spotify.com/album/36P3kv9uCTQxBnOlFeD3XI"
+      },
+      "artists": [
+        {
+          "name": "Les Petites Canailles",
+          "url": "https://open.spotify.com/artist/6voz31jmwRIKeVeFaz3EyW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109560,
+      "name": "Fais pas ci, Fais pas \u00e7a",
+      "url": "https://open.spotify.com/track/1v2Ul6sHLEZeVFfeYBaJ6Q"
+    },
+    {
+      "album": {
+        "name": "Gravite",
+        "url": "https://open.spotify.com/album/4ScCjtrtkXtWjbjDr6Uu7h"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9b\u00e9cca",
+          "url": "https://open.spotify.com/artist/16va98JfRLkEYlzaJy5w2b"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180289,
+      "name": "Gravite",
+      "url": "https://open.spotify.com/track/2yZMwvENRIk8Jb8i78CAwO"
+    },
+    {
+      "album": {
+        "name": "Kids Love Disney",
+        "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
+      },
+      "artists": [
+        {
+          "name": "Kids Love Disney",
+          "url": "https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX"
+        },
+        {
+          "name": "L\u00e9vanah Solomon",
+          "url": "https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc"
+        },
+        {
+          "name": "Isma\u00ebl El Marjou",
+          "url": "https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/2ZshgCOIV4YQ3fmBrK6QlE"
+    },
+    {
+      "album": {
+        "name": "H\u00e9ros",
+        "url": "https://open.spotify.com/album/51ptXg91XTsGv8hkLzovO8"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142847,
+      "name": "H\u00e9ros",
+      "url": "https://open.spotify.com/track/6Z7ZDpJB6FEWRFJwYMLZWN"
+    },
+    {
+      "album": {
+        "name": "Chantent Salut Les Copains",
+        "url": "https://open.spotify.com/album/36P3kv9uCTQxBnOlFeD3XI"
+      },
+      "artists": [
+        {
+          "name": "Les Petites Canailles",
+          "url": "https://open.spotify.com/artist/6voz31jmwRIKeVeFaz3EyW"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "J'attendrai",
+      "url": "https://open.spotify.com/track/69umE2ZfGER4uWkwHQiolv"
+    },
+    {
+      "album": {
+        "name": "Plus loin qu'un r\u00eave",
+        "url": "https://open.spotify.com/album/1QrTaItGnJv79BBNoaJthE"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179980,
+      "name": "J'imagine",
+      "url": "https://open.spotify.com/track/6FdWlpgMHqLuRBuyQ4afX8"
+    },
+    {
+      "album": {
+        "name": "Je chanterai",
+        "url": "https://open.spotify.com/album/1en8hgepphKmXzoRb2dgHb"
+      },
+      "artists": [
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212624,
+      "name": "Je chanterai",
+      "url": "https://open.spotify.com/track/27nsINK9u7ghf7IW9KFUez"
+    },
+    {
+      "album": {
+        "name": "Tout le bonheur du monde",
+        "url": "https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182868,
+      "name": "L'Oiseau et l'enfant",
+      "url": "https://open.spotify.com/track/5Vtf9vPlytZ4e6JviqXqC5"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/4wsczOuZL27JDH5C6fcJoY"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "La tribu de Dana",
+      "url": "https://open.spotify.com/track/0tViJ9TMDUkK6lY0sdKdpu"
+    },
+    {
+      "album": {
+        "name": "Kids Love Disney",
+        "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
+      },
+      "artists": [
+        {
+          "name": "Kids Love Disney",
+          "url": "https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX"
+        },
+        {
+          "name": "L\u00e9vanah Solomon",
+          "url": "https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "Le bleu lumi\u00e8re",
+      "url": "https://open.spotify.com/track/4QR3jOfoQsKfQo5oZpJpvX"
+    },
+    {
+      "album": {
+        "name": "Au bout de nos r\u00eaves",
+        "url": "https://open.spotify.com/album/3nJRfnX2R0FdKEZYERN9LJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United Nouvelle Generation",
+          "url": "https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155665,
+      "name": "Le lion est mort ce soir",
+      "url": "https://open.spotify.com/track/7jTlbzLP2mwTXfl7l18NaA"
+    },
+    {
+      "album": {
+        "name": "Les enfants du monde",
+        "url": "https://open.spotify.com/album/6Jwm5fgoMYPgKxRx2YFJrM"
+      },
+      "artists": [
+        {
+          "name": "Green Team",
+          "url": "https://open.spotify.com/artist/23nbQGS6wDP84uCupbOlCX"
+        },
+        {
+          "name": "Erza Muqoli",
+          "url": "https://open.spotify.com/artist/2LaNU9yZUvApYGMs7lw9bt"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230290,
+      "name": "Les enfants du monde",
+      "url": "https://open.spotify.com/track/3Kbrdxgjg0Gj9WT34g6OFN"
+    },
+    {
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6uqYxT7neyS5ZM8N96FXEX"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273493,
+      "name": "Les lacs du Connemara",
+      "url": "https://open.spotify.com/track/4SQhHasryB0KLsXOHSvMGK"
+    },
+    {
+      "album": {
+        "name": "Les Enfants de la Terre chantent Yannick Noah",
+        "url": "https://open.spotify.com/album/5aFVq48na0zIenhA8ma4ey"
+      },
+      "artists": [
+        {
+          "name": "Les Enfants de la Terre",
+          "url": "https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK"
+        },
+        {
+          "name": "Yannick Noah",
+          "url": "https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191080,
+      "name": "Les lionnes",
+      "url": "https://open.spotify.com/track/3Pih25uLecFBvRd5lV7HkR"
+    },
+    {
+      "album": {
+        "name": "Kids Love Disney",
+        "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
+      },
+      "artists": [
+        {
+          "name": "Kids Love Disney",
+          "url": "https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX"
+        },
+        {
+          "name": "L\u00e9vanah Solomon",
+          "url": "https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc"
+        },
+        {
+          "name": "Isma\u00ebl El Marjou",
+          "url": "https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242106,
+      "name": "L\u2019histoire de la vie",
+      "url": "https://open.spotify.com/track/2D1iCycI1TZ0OwB09HMBja"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/4wsczOuZL27JDH5C6fcJoY"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214586,
+      "name": "M'en aller",
+      "url": "https://open.spotify.com/track/1gZG6DyQ5LyvltrU8jiAYw"
+    },
+    {
+      "album": {
+        "name": "Forever United",
+        "url": "https://open.spotify.com/album/0kdYKYkOPYCjEfaw9AdTZJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "Youssou N'Dour",
+          "url": "https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169578,
+      "name": "Mama Africa (feat. Ang\u00e9lique Kidjo et Youssou Ndour)",
+      "url": "https://open.spotify.com/track/27N8TFqYeZhdrgFITRJncP"
+    },
+    {
+      "album": {
+        "name": "Maman me dit",
+        "url": "https://open.spotify.com/album/1kGhZi4BxwkwwXuVQ7Xwj7"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167192,
+      "name": "Maman me dit",
+      "url": "https://open.spotify.com/track/645vPlxFnlvQXxdhV9rM9c"
+    },
+    {
+      "album": {
+        "name": "Lou (version deluxe)",
+        "url": "https://open.spotify.com/album/6XPvowrtcBuSrhY1P1rkYF"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "Lenni Kim",
+          "url": "https://open.spotify.com/artist/1PVmM2c79UdIymMzxYlywJ"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159626,
+      "name": "Miraculous (g\u00e9n\u00e9rique de la s\u00e9rie TV \"Miraculous\")",
+      "url": "https://open.spotify.com/track/3iidUwUmjc1XfUPL4XFPnt"
+    },
+    {
+      "album": {
+        "name": "M\u00e9tis(se)",
+        "url": "https://open.spotify.com/album/0E64MJMgTnaw2HN2cA18L1"
+      },
+      "artists": [
+        {
+          "name": "Les Enfants de la Terre",
+          "url": "https://open.spotify.com/artist/1TsOqqM28A1fhxqtI9P9BK"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186120,
+      "name": "M\u00e9tis(se)",
+      "url": "https://open.spotify.com/track/2RybwgtswDKXGoSlUnvDaA"
+    },
+    {
+      "album": {
+        "name": "Papillons",
+        "url": "https://open.spotify.com/album/7LZgaQuUbgssuCMOIiBTFl"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "Ne me suis pas",
+      "url": "https://open.spotify.com/track/08OXBelJOUefSYFtimI2bl"
+    },
+    {
+      "album": {
+        "name": "Un monde meilleur",
+        "url": "https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174417,
+      "name": "On \u00e9crit sur les murs",
+      "url": "https://open.spotify.com/track/5LaNypZh0fQMMy70pClm8d"
+    },
+    {
+      "album": {
+        "name": "Plus loin qu'un r\u00eave",
+        "url": "https://open.spotify.com/album/1QrTaItGnJv79BBNoaJthE"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166933,
+      "name": "Probl\u00e8me",
+      "url": "https://open.spotify.com/track/3DWD7Rpv6Dey73U4k8Jdkr"
+    },
+    {
+      "album": {
+        "name": "Ma voie (Edition Collector)",
+        "url": "https://open.spotify.com/album/0Pvh8RvoASsQlhd3YI0ivh"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174253,
+      "name": "Qui dit mieux ?",
+      "url": "https://open.spotify.com/track/0GvZFuvOSzCRn6X0463HIn"
+    },
+    {
+      "album": {
+        "name": "Ma voie",
+        "url": "https://open.spotify.com/album/4oyz1B8KiCj3WVk1ruTlbw"
+      },
+      "artists": [
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188905,
+      "name": "Roule",
+      "url": "https://open.spotify.com/track/3qbX096fmueH0VCrhh47mY"
+    },
+    {
+      "album": {
+        "name": "Siffler sur la colline (\u00c0 toi, Joe Dassin)",
+        "url": "https://open.spotify.com/album/5DpDNh2yNi7rmRJHbv2HIx"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        },
+        {
+          "name": "Jonathan Dassin",
+          "url": "https://open.spotify.com/artist/3mbKvmBsYcoyzR1xEqfTVf"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154653,
+      "name": "Siffler sur la colline - \u00c0 toi, Joe Dassin",
+      "url": "https://open.spotify.com/track/0TzvoNhoFKVo9iz2PVtaqb"
+    },
+    {
+      "album": {
+        "name": "Kids Love Disney",
+        "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
+      },
+      "artists": [
+        {
+          "name": "Kids Love Disney",
+          "url": "https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX"
+        },
+        {
+          "name": "Isma\u00ebl El Marjou",
+          "url": "https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195293,
+      "name": "Sous l\u2019oc\u00e9an",
+      "url": "https://open.spotify.com/track/0r2CkgVUirM0YxvnOINwz7"
+    },
+    {
+      "album": {
+        "name": "Summer Summer",
+        "url": "https://open.spotify.com/album/0BrQFKNupSCyVWqd3CouY7"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140800,
+      "name": "Summer Summer",
+      "url": "https://open.spotify.com/track/4pKg6d1ygOGHJ7DiGz0cgB"
+    },
+    {
+      "album": {
+        "name": "Un air de famille",
+        "url": "https://open.spotify.com/album/0X9nkyYygMLerjyEF6BzJq"
+      },
+      "artists": [
+        {
+          "name": "Patrick Fiori",
+          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
+        },
+        {
+          "name": "Angelina",
+          "url": "https://open.spotify.com/artist/4pMyhvzk5HkImq6MUTRRk8"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200826,
+      "name": "Sur les \u00e9paules de mon p\u00e8re",
+      "url": "https://open.spotify.com/track/4ADoADhRffQlYfOKcuZ5qK"
+    },
+    {
+      "album": {
+        "name": "Un monde meilleur",
+        "url": "https://open.spotify.com/album/1DQrG1a1nPvBLkVw9PfldJ"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "Toi + moi",
+      "url": "https://open.spotify.com/track/17C63t1Xd3jBW6On3Uo6tw"
+    },
+    {
+      "album": {
+        "name": "Evan et Marco",
+        "url": "https://open.spotify.com/album/4wsczOuZL27JDH5C6fcJoY"
+      },
+      "artists": [
+        {
+          "name": "Evan et Marco",
+          "url": "https://open.spotify.com/artist/0qgw5KQPb3ZkCuuAbCfP0I"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Tomber amoureux (1er amour)",
+      "url": "https://open.spotify.com/track/2GA10dVKn4c7yvDiyNsrXp"
+    },
+    {
+      "album": {
+        "name": "Tout le bonheur du monde",
+        "url": "https://open.spotify.com/album/0Fv7WQcI5bgNXNgu4IooPC"
+      },
+      "artists": [
+        {
+          "name": "Kids United",
+          "url": "https://open.spotify.com/artist/3Te4igcN19D4UGSdcb20Vs"
+        },
+        {
+          "name": "Inaya",
+          "url": "https://open.spotify.com/artist/3ssxd1G91AbaoMrg9vA3TY"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201782,
+      "name": "Tout le bonheur du monde (feat. Inaya)",
+      "url": "https://open.spotify.com/track/54LltxIjaYmwtp7OtRppKb"
+    },
+    {
+      "album": {
+        "name": "Kids Love Disney",
+        "url": "https://open.spotify.com/album/0waeL4km2PxZJ6je5pjONA"
+      },
+      "artists": [
+        {
+          "name": "Kids Love Disney",
+          "url": "https://open.spotify.com/artist/18rYh1xRfgPUwxDn7EIrmX"
+        },
+        {
+          "name": "L\u00e9vanah Solomon",
+          "url": "https://open.spotify.com/artist/2EuNgNFjFo6iboDB1y9Qqc"
+        },
+        {
+          "name": "Isma\u00ebl El Marjou",
+          "url": "https://open.spotify.com/artist/2hKMbLjhkxbw6bRCA5Iva4"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Tout le monde veut devenir un cat",
+      "url": "https://open.spotify.com/track/5tapvvgZNHjLdf4vibw95f"
+    },
+    {
+      "album": {
+        "name": "Trois petits pas",
+        "url": "https://open.spotify.com/album/2ZVVEdYanYYDbK5JNhwJCn"
+      },
+      "artists": [
+        {
+          "name": "Green Team",
+          "url": "https://open.spotify.com/artist/23nbQGS6wDP84uCupbOlCX"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/6FLqKeDxjLqbbEifG4oCuz"
+        },
+        {
+          "name": "Kids United Nouvelle Generation",
+          "url": "https://open.spotify.com/artist/3GjGdUg7HGaoqwMzFBbdqt"
+        },
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        },
+        {
+          "name": "YUN",
+          "url": "https://open.spotify.com/artist/3ubqH7KHuudR4dSQ8P2nmE"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "Trois petits pas",
+      "url": "https://open.spotify.com/track/66K5KH8qTUzXgYN4Oj94ml"
+    },
+    {
+      "album": {
+        "name": "Vital",
+        "url": "https://open.spotify.com/album/6MASDyA02tZdTRIZt0kigj"
+      },
+      "artists": [
+        {
+          "name": "Lou",
+          "url": "https://open.spotify.com/artist/6iHKWDaniE1NyU3xZ7FeGg"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Vital",
+      "url": "https://open.spotify.com/track/0G5zAwSq25lFSxemPe3KPY"
+    },
+    {
+      "album": {
+        "name": "Week-End",
+        "url": "https://open.spotify.com/album/0sterqVI6y3BUH8Nei8bGt"
+      },
+      "artists": [
+        {
+          "name": "Sydney",
+          "url": "https://open.spotify.com/artist/2OpjJkMJYIDzJbx9ZpjZ8E"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197169,
+      "name": "Week-End",
+      "url": "https://open.spotify.com/track/3e6vVk48Xr7mVPWTr46612"
+    },
+    {
+      "album": {
+        "name": "Carla",
+        "url": "https://open.spotify.com/album/3M2JLOX8zs6hVasUcGmfOq"
+      },
+      "artists": [
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/24Vq3l5sKBpzFKQfQO4muO"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162933,
+      "name": "What's My Name - De \"Descendants 2\"/Bande originale fran\u00e7aise",
+      "url": "https://open.spotify.com/track/1n3Q02pCfWmbAuqpDzHAoy"
+    },
+    {
+      "album": {
+        "name": "Y'a pas que les grands qui r\u00eavent",
+        "url": "https://open.spotify.com/album/2LvlYwi5gy4kITX79XFTEw"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "date_added": "2021-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158048,
+      "name": "Y'a pas que les grands qui r\u00eavent",
+      "url": "https://open.spotify.com/track/4BG8wMAI18eBrp9whEa2YS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0BoZKLoqg4z"
 }

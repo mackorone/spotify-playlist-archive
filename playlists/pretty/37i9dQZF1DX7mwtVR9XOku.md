@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7mwtVR9XOku.md) - [plain]
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,645 likes - 68 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,082 likes - 68 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

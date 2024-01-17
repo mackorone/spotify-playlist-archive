@@ -1,433 +1,639 @@
 {
-  "2022-10-26": 3750,
-  "2022-10-27": 3757,
-  "2022-10-28": 3764,
-  "2022-10-29": 3775,
-  "2022-10-30": 3789,
-  "2022-10-31": 3796,
-  "2022-11-01": 3795,
-  "2022-11-02": 3802,
-  "2022-11-03": 3805,
-  "2022-11-04": 3813,
-  "2022-11-05": 3823,
-  "2022-11-06": 3825,
-  "2022-11-07": 3826,
-  "2022-11-08": 3834,
-  "2022-11-09": 3843,
-  "2022-11-10": 3848,
-  "2022-11-11": 3854,
-  "2022-11-12": 3871,
-  "2022-11-13": 3874,
-  "2022-11-14": 3875,
-  "2022-11-15": 3875,
-  "2022-11-16": 3888,
-  "2022-11-17": 3897,
-  "2022-11-18": 3898,
-  "2022-11-19": 3901,
-  "2022-11-20": 3911,
-  "2022-11-21": 3917,
-  "2022-11-22": 3922,
-  "2022-11-23": 3923,
-  "2022-11-24": 3933,
-  "2022-11-25": 3935,
-  "2022-11-26": 3939,
-  "2022-11-27": 3942,
-  "2022-11-28": 3944,
-  "2022-11-29": 3946,
-  "2022-11-30": 3949,
-  "2022-12-01": 3957,
-  "2022-12-02": 3961,
-  "2022-12-03": 3971,
-  "2022-12-04": 3974,
-  "2022-12-05": 3978,
-  "2022-12-06": 3990,
-  "2022-12-07": 3999,
-  "2022-12-08": 4001,
-  "2022-12-09": 4003,
-  "2022-12-10": 4005,
-  "2022-12-11": 4008,
-  "2022-12-12": 4016,
-  "2022-12-13": 4024,
-  "2022-12-14": 4029,
-  "2022-12-15": 4035,
-  "2022-12-16": 4042,
-  "2022-12-17": 4044,
-  "2022-12-18": 4051,
-  "2022-12-19": 4057,
-  "2022-12-20": 4061,
-  "2022-12-21": 4061,
-  "2022-12-22": 4069,
-  "2022-12-24": 4075,
-  "2022-12-25": 4080,
-  "2022-12-26": 4086,
-  "2022-12-27": 4089,
-  "2022-12-28": 4102,
-  "2022-12-29": 4145,
-  "2022-12-30": 4193,
-  "2022-12-31": 4220,
-  "2023-01-01": 4236,
-  "2023-01-02": 4242,
-  "2023-01-03": 4260,
-  "2023-01-04": 4275,
-  "2023-01-05": 4288,
-  "2023-01-06": 4293,
-  "2023-01-07": 4310,
-  "2023-01-08": 4309,
-  "2023-01-09": 4319,
-  "2023-01-10": 4321,
-  "2023-01-11": 4330,
-  "2023-01-12": 4335,
-  "2023-01-13": 4340,
-  "2023-01-14": 4354,
-  "2023-01-15": 4355,
-  "2023-01-16": 4362,
-  "2023-01-17": 4365,
-  "2023-01-18": 4370,
-  "2023-01-19": 4376,
-  "2023-01-20": 4388,
-  "2023-01-21": 4399,
-  "2023-01-22": 4406,
-  "2023-01-23": 4417,
-  "2023-01-24": 4419,
-  "2023-01-25": 4424,
-  "2023-01-26": 4432,
-  "2023-01-27": 4437,
-  "2023-01-28": 4446,
-  "2023-01-29": 4452,
-  "2023-01-30": 4459,
-  "2023-01-31": 4459,
-  "2023-02-01": 4466,
-  "2023-02-02": 4469,
-  "2023-02-03": 4477,
-  "2023-02-04": 4486,
-  "2023-02-05": 4493,
-  "2023-02-06": 4500,
-  "2023-02-07": 4505,
-  "2023-02-08": 4513,
-  "2023-02-09": 4513,
-  "2023-02-10": 4521,
-  "2023-02-11": 4524,
-  "2023-02-12": 4533,
-  "2023-02-13": 4540,
-  "2023-02-14": 4540,
-  "2023-02-15": 4551,
-  "2023-02-16": 4561,
-  "2023-02-17": 4561,
-  "2023-02-18": 4570,
-  "2023-02-19": 4571,
-  "2023-02-20": 4581,
-  "2023-02-21": 4585,
-  "2023-02-22": 4588,
-  "2023-02-23": 4594,
-  "2023-02-24": 4601,
-  "2023-02-25": 4611,
-  "2023-02-26": 4615,
-  "2023-02-27": 4617,
-  "2023-02-28": 4617,
-  "2023-03-01": 4616,
-  "2023-03-02": 4625,
-  "2023-03-03": 4636,
-  "2023-03-04": 4642,
-  "2023-03-05": 4651,
-  "2023-03-06": 4651,
-  "2023-03-07": 4655,
-  "2023-03-08": 4665,
-  "2023-03-09": 4668,
-  "2023-03-10": 4673,
-  "2023-03-11": 4681,
-  "2023-03-12": 4689,
-  "2023-03-13": 4691,
-  "2023-03-14": 4695,
-  "2023-03-15": 4700,
-  "2023-03-16": 4700,
-  "2023-03-17": 4700,
-  "2023-03-18": 4722,
-  "2023-03-19": 4722,
-  "2023-03-20": 4735,
-  "2023-03-21": 4741,
-  "2023-03-22": 4751,
-  "2023-03-23": 4756,
-  "2023-03-24": 4756,
-  "2023-03-25": 4765,
-  "2023-03-26": 4772,
-  "2023-03-27": 4779,
-  "2023-03-28": 4790,
-  "2023-03-29": 4797,
-  "2023-03-30": 4810,
-  "2023-03-31": 4810,
-  "2023-04-01": 4814,
-  "2023-04-02": 4824,
-  "2023-04-03": 4825,
-  "2023-04-04": 4827,
-  "2023-04-05": 4833,
-  "2023-04-06": 4842,
-  "2023-04-07": 4848,
-  "2023-04-09": 4859,
-  "2023-04-10": 4867,
-  "2023-04-11": 4879,
-  "2023-04-12": 4879,
-  "2023-04-13": 4884,
-  "2023-04-14": 4887,
-  "2023-04-15": 4893,
-  "2023-04-16": 4901,
-  "2023-04-17": 4906,
-  "2023-04-18": 4905,
-  "2023-04-19": 4907,
-  "2023-04-20": 4914,
-  "2023-04-21": 4921,
-  "2023-04-22": 4925,
-  "2023-04-23": 4930,
-  "2023-04-24": 4930,
-  "2023-04-25": 4932,
-  "2023-04-26": 4941,
-  "2023-04-27": 4946,
-  "2023-04-28": 4954,
-  "2023-04-29": 4967,
-  "2023-04-30": 4972,
-  "2023-05-01": 4981,
-  "2023-05-02": 4988,
-  "2023-05-03": 4991,
-  "2023-05-04": 4991,
-  "2023-05-05": 4993,
-  "2023-05-06": 4995,
-  "2023-05-07": 5002,
-  "2023-05-08": 5003,
-  "2023-05-09": 5010,
-  "2023-05-10": 5015,
-  "2023-05-11": 5025,
-  "2023-05-12": 5035,
-  "2023-05-13": 5040,
-  "2023-05-14": 5044,
-  "2023-05-15": 5049,
-  "2023-05-16": 5060,
-  "2023-05-17": 5068,
-  "2023-05-18": 5073,
-  "2023-05-19": 5080,
-  "2023-05-20": 5089,
-  "2023-05-21": 5089,
-  "2023-05-22": 5089,
-  "2023-05-23": 5101,
-  "2023-05-24": 5107,
-  "2023-05-25": 5108,
-  "2023-05-26": 5113,
-  "2023-05-27": 5116,
-  "2023-05-28": 5127,
-  "2023-05-29": 5127,
-  "2023-05-30": 5129,
-  "2023-05-31": 5141,
-  "2023-06-01": 5145,
-  "2023-06-02": 5151,
-  "2023-06-03": 5155,
-  "2023-06-04": 5157,
-  "2023-06-05": 5166,
-  "2023-06-06": 5172,
-  "2023-06-07": 5183,
-  "2023-06-08": 5189,
-  "2023-06-09": 5197,
-  "2023-06-10": 5203,
-  "2023-06-11": 5204,
-  "2023-06-12": 5207,
-  "2023-06-13": 5212,
-  "2023-06-14": 5219,
-  "2023-06-15": 5222,
-  "2023-06-16": 5230,
-  "2023-06-17": 5235,
-  "2023-06-18": 5242,
-  "2023-06-19": 5249,
-  "2023-06-20": 5258,
-  "2023-06-21": 5262,
-  "2023-06-22": 5270,
-  "2023-06-23": 5270,
-  "2023-06-24": 5278,
-  "2023-06-25": 5285,
-  "2023-06-26": 5287,
-  "2023-06-27": 5289,
-  "2023-06-28": 5296,
-  "2023-06-29": 5298,
-  "2023-06-30": 5298,
-  "2023-07-01": 5305,
-  "2023-07-02": 5305,
-  "2023-07-03": 5311,
-  "2023-07-04": 5315,
-  "2023-07-05": 5317,
-  "2023-07-06": 5328,
-  "2023-07-07": 5328,
-  "2023-07-08": 5333,
-  "2023-07-09": 5338,
-  "2023-07-10": 5345,
-  "2023-07-11": 5346,
-  "2023-07-12": 5351,
-  "2023-07-13": 5354,
-  "2023-07-14": 5359,
-  "2023-07-15": 5364,
-  "2023-07-16": 5369,
-  "2023-07-17": 5376,
-  "2023-07-18": 5383,
-  "2023-07-19": 5386,
-  "2023-07-20": 5385,
-  "2023-07-21": 5395,
-  "2023-07-22": 5399,
-  "2023-07-23": 5401,
-  "2023-07-24": 5407,
-  "2023-07-25": 5410,
-  "2023-07-26": 5414,
-  "2023-07-27": 5417,
-  "2023-07-28": 5425,
-  "2023-07-29": 5428,
-  "2023-07-30": 5432,
-  "2023-07-31": 5437,
-  "2023-08-01": 5441,
-  "2023-08-02": 5445,
-  "2023-08-03": 5451,
-  "2023-08-04": 5455,
-  "2023-08-05": 5458,
-  "2023-08-06": 5469,
-  "2023-08-07": 5469,
-  "2023-08-08": 5473,
-  "2023-08-09": 5479,
-  "2023-08-10": 5484,
-  "2023-08-11": 5489,
-  "2023-08-12": 5489,
-  "2023-08-13": 5489,
-  "2023-08-14": 5501,
-  "2023-08-15": 5501,
-  "2023-08-16": 5501,
-  "2023-08-17": 5514,
-  "2023-08-18": 5514,
-  "2023-08-19": 5528,
-  "2023-08-20": 5534,
-  "2023-08-21": 5534,
-  "2023-08-22": 5542,
-  "2023-08-23": 5542,
-  "2023-08-24": 5561,
-  "2023-08-25": 5561,
-  "2023-08-26": 5572,
-  "2023-08-27": 5572,
-  "2023-08-28": 5588,
-  "2023-08-29": 5588,
-  "2023-08-30": 5588,
-  "2023-08-31": 5610,
-  "2023-09-01": 5619,
-  "2023-09-02": 5619,
-  "2023-09-03": 5625,
-  "2023-09-04": 5625,
-  "2023-09-05": 5625,
-  "2023-09-06": 5637,
-  "2023-09-07": 5637,
-  "2023-09-08": 5637,
-  "2023-09-09": 5637,
-  "2023-09-10": 5651,
-  "2023-09-11": 5651,
-  "2023-09-12": 5651,
-  "2023-09-13": 5663,
-  "2023-09-14": 5663,
-  "2023-09-15": 5663,
-  "2023-09-16": 5680,
-  "2023-09-17": 5680,
-  "2023-09-18": 5680,
-  "2023-09-19": 5694,
-  "2023-09-20": 5694,
-  "2023-09-21": 5694,
-  "2023-09-22": 5708,
-  "2023-09-23": 5708,
-  "2023-09-24": 5708,
-  "2023-09-25": 5708,
-  "2023-09-26": 5729,
-  "2023-09-27": 5729,
-  "2023-09-28": 5729,
-  "2023-09-29": 5729,
-  "2023-09-30": 5729,
-  "2023-10-01": 5729,
-  "2023-10-02": 5772,
-  "2023-10-03": 5772,
-  "2023-10-04": 5772,
-  "2023-10-05": 5783,
-  "2023-10-06": 5794,
-  "2023-10-07": 5794,
-  "2023-10-08": 5794,
-  "2023-10-09": 5794,
-  "2023-10-10": 5794,
-  "2023-10-11": 5819,
-  "2023-10-12": 5819,
-  "2023-10-13": 5819,
-  "2023-10-14": 5819,
-  "2023-10-15": 5819,
-  "2023-10-16": 5819,
-  "2023-10-17": 5819,
-  "2023-10-18": 5819,
-  "2023-10-19": 5819,
-  "2023-10-20": 5819,
-  "2023-10-21": 5819,
-  "2023-10-22": 5819,
-  "2023-10-23": 5819,
-  "2023-10-24": 5819,
-  "2023-10-25": 5819,
-  "2023-10-26": 5819,
-  "2023-10-27": 5819,
-  "2023-10-28": 5819,
-  "2023-10-29": 5819,
-  "2023-10-30": 5819,
-  "2023-10-31": 5819,
-  "2023-11-01": 5819,
-  "2023-11-02": 5819,
-  "2023-11-03": 5819,
-  "2023-11-04": 5819,
-  "2023-11-05": 5819,
-  "2023-11-06": 5819,
-  "2023-11-07": 5819,
-  "2023-11-08": 5819,
-  "2023-11-09": 5819,
-  "2023-11-10": 5819,
-  "2023-11-11": 6025,
-  "2023-11-12": 6025,
-  "2023-11-13": 6025,
-  "2023-11-14": 6025,
-  "2023-11-15": 6025,
-  "2023-11-16": 6025,
-  "2023-11-17": 6025,
-  "2023-11-18": 6025,
-  "2023-11-19": 6025,
-  "2023-11-20": 6025,
-  "2023-11-21": 6025,
-  "2023-11-22": 6025,
-  "2023-11-23": 6025,
-  "2023-11-24": 6025,
-  "2023-11-25": 6025,
-  "2023-11-26": 6025,
-  "2023-11-27": 6025,
-  "2023-11-28": 6025,
-  "2023-11-29": 6025,
-  "2023-11-30": 6025,
-  "2023-12-01": 6025,
-  "2023-12-02": 6025,
-  "2023-12-03": 6025,
-  "2023-12-04": 6025,
-  "2023-12-05": 6025,
-  "2023-12-06": 6025,
-  "2023-12-07": 6025,
-  "2023-12-08": 6025,
-  "2023-12-09": 6025,
-  "2023-12-10": 6025,
-  "2023-12-11": 6025,
-  "2023-12-12": 6025,
-  "2023-12-13": 6025,
-  "2023-12-14": 6236,
-  "2023-12-15": 6240,
-  "2023-12-16": 6247,
-  "2023-12-17": 6250,
-  "2023-12-18": 6255,
-  "2023-12-19": 6260,
-  "2023-12-20": 6268,
-  "2023-12-21": 6272,
-  "2023-12-22": 6277,
-  "2023-12-23": 6285,
-  "2023-12-24": 6294,
-  "2023-12-25": 6297,
-  "2023-12-26": 6296,
-  "2023-12-27": 6298,
-  "2023-12-30": 6305,
-  "2023-12-31": 6307,
-  "2024-01-01": 6309,
-  "2024-01-02": 6310,
-  "2024-01-03": 6314
+  "2024-01-17": 6367,
+  "date_first_scraped": "2022-10-26",
+  "description": "This is Saosin. The essential tracks, all in one playlist.",
+  "name": "This Is Saosin",
+  "tracks": [
+    {
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158360,
+      "name": "3rd Measurement in C",
+      "url": "https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4C3osHVXn7trOxSBc8AuhX"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195186,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/4iLRzDTNc3NbTyQ0w5cAOd"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 257000,
+      "name": "Control and The Urge to Pray",
+      "url": "https://open.spotify.com/track/1HiAniCwjwIap3YoeqB807"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186746,
+      "name": "Count Back from TEN",
+      "url": "https://open.spotify.com/track/69ycJyqz0Sy7jk5hQ43afA"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/1gqbyEsTzB5kjodXDGDbYX"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 189213,
+      "name": "Finding Home",
+      "url": "https://open.spotify.com/track/6rOx8Ymk3bv7k7DBcxqjwp"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 199053,
+      "name": "Follow And Feel",
+      "url": "https://open.spotify.com/track/66yzHUHNo6Rg1wbpFjJ1MH"
+    },
+    {
+      "album": {
+        "name": "I Can Tell There Was an Accident Here Earlier",
+        "url": "https://open.spotify.com/album/1Q2ViPnZVbM8Seu1tkebNT"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216081,
+      "name": "I Can Tell There Was an Accident Here Earlier",
+      "url": "https://open.spotify.com/track/5llAcLZpMCl8KmrcVUrE8d"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "I Keep Secrets Safe",
+      "url": "https://open.spotify.com/track/2jAZg043nuMGUcdtvmEIJE"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164493,
+      "name": "I Wanna Hear Another Fast Song",
+      "url": "https://open.spotify.com/track/0j5u3UNJIH1ZRouEyWO1TE"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Ideology Is Theft",
+      "url": "https://open.spotify.com/track/2JpvJGyaOpH1YPjBGZf1qr"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234546,
+      "name": "It's Far Better To Learn",
+      "url": "https://open.spotify.com/track/0nQcyybXeatlDXgvQOrT1n"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "It's So Simple",
+      "url": "https://open.spotify.com/track/4amcY5vhp2Z40EhNVa2xHl"
+    },
+    {
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 224013,
+      "name": "Keep Secrets",
+      "url": "https://open.spotify.com/track/6zsYr6wStLsJ1j9zUnoQ6T"
+    },
+    {
+      "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/28LWWFUiQSA4WEZTYtSGbh"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "Let Go Control",
+      "url": "https://open.spotify.com/track/0OiZCyNOdjpHm38CQXLGH7"
+    },
+    {
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Lost Symphonies",
+      "url": "https://open.spotify.com/track/7EzL0vW3YlaAH0EiUe5MKk"
+    },
+    {
+      "album": {
+        "name": "The Grey",
+        "url": "https://open.spotify.com/album/5FME0EWIpnQ3pGT5ugvykD"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197626,
+      "name": "Love Maker",
+      "url": "https://open.spotify.com/track/0IsOrgcBeDDwzaaw4Gqeo3"
+    },
+    {
+      "album": {
+        "name": "Ncis: The Official Tv Soundtrack - Vol. 2",
+        "url": "https://open.spotify.com/album/576fyLLci8j617RWwYX54O"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "Move Slow",
+      "url": "https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/3WFPpbGgppW9ZgXQ4eyH0w"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "New Angel",
+      "url": "https://open.spotify.com/track/7mph7O5E7n3wKJcy2jNx0w"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Nothing Is What It Seems",
+      "url": "https://open.spotify.com/track/4NWL8X6InF3pQwzw8820ic"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 317533,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/4V6qDAzkekP88eUeKKIeoI"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "Racing Toward a Red Light",
+      "url": "https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 304280,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/4v27q8gqCrira7ffcjnNGq"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Second Guesses",
+      "url": "https://open.spotify.com/track/78j1GGl7Tlm00RnvCkwMM6"
+    },
+    {
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171827,
+      "name": "Sleepers",
+      "url": "https://open.spotify.com/track/6s3d8xe76eyHPgD2QYutJQ"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237226,
+      "name": "The Silver String",
+      "url": "https://open.spotify.com/track/1fulFeOm8Zm5QJDSLRpoCc"
+    },
+    {
+      "album": {
+        "name": "Along The Shadow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "The Stutter Says A Lot",
+      "url": "https://open.spotify.com/track/70YL1BWVpf2O6M4V1kHM8b"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "The Worst of Me",
+      "url": "https://open.spotify.com/track/1wiIhmcIU1hJWqEKhcaXcp"
+    },
+    {
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "They Perched on Their Stilts, Pointing and Daring Me to Break Custom",
+      "url": "https://open.spotify.com/track/1H3cv1QRzBChdsOnPdyrfD"
+    },
+    {
+      "album": {
+        "name": "Translating the Name",
+        "url": "https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206320,
+      "name": "Translating the Name",
+      "url": "https://open.spotify.com/track/2fsYDaUa76sRjlHxqh1sdx"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217524,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv"
+    },
+    {
+      "album": {
+        "name": "In Search of Solid Ground",
+        "url": "https://open.spotify.com/album/5CrNRc7IncWjYbeGOuiFfn"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159053,
+      "name": "Why Can't You See",
+      "url": "https://open.spotify.com/track/2GZ14jhPUHqN5scWzoaXZR"
+    },
+    {
+      "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO10RDWw"
 }

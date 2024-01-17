@@ -1,246 +1,1195 @@
 {
-  "2023-05-03": 199745,
-  "2023-05-04": 199799,
-  "2023-05-05": 199847,
-  "2023-05-06": 199930,
-  "2023-05-07": 199994,
-  "2023-05-08": 200079,
-  "2023-05-09": 200143,
-  "2023-05-10": 200216,
-  "2023-05-11": 200273,
-  "2023-05-12": 200329,
-  "2023-05-13": 200398,
-  "2023-05-14": 200467,
-  "2023-05-15": 200515,
-  "2023-05-16": 200571,
-  "2023-05-17": 200647,
-  "2023-05-18": 200703,
-  "2023-05-19": 200764,
-  "2023-05-20": 200888,
-  "2023-05-21": 200888,
-  "2023-05-22": 200888,
-  "2023-05-23": 201028,
-  "2023-05-24": 201129,
-  "2023-05-25": 201142,
-  "2023-05-26": 201215,
-  "2023-05-27": 201266,
-  "2023-05-28": 201316,
-  "2023-05-29": 201316,
-  "2023-05-30": 201444,
-  "2023-05-31": 201492,
-  "2023-06-01": 201552,
-  "2023-06-02": 201587,
-  "2023-06-03": 201648,
-  "2023-06-04": 201709,
-  "2023-06-05": 201783,
-  "2023-06-06": 201856,
-  "2023-06-07": 201916,
-  "2023-06-08": 201990,
-  "2023-06-09": 202040,
-  "2023-06-10": 202102,
-  "2023-06-11": 202162,
-  "2023-06-12": 202215,
-  "2023-06-13": 202274,
-  "2023-06-14": 202335,
-  "2023-06-15": 202383,
-  "2023-06-16": 202435,
-  "2023-06-17": 202533,
-  "2023-06-18": 202593,
-  "2023-06-19": 202644,
-  "2023-06-20": 202715,
-  "2023-06-21": 202799,
-  "2023-06-22": 202878,
-  "2023-06-23": 202963,
-  "2023-06-24": 203019,
-  "2023-06-25": 203078,
-  "2023-06-26": 203116,
-  "2023-06-27": 203156,
-  "2023-06-28": 203208,
-  "2023-06-29": 203245,
-  "2023-06-30": 203296,
-  "2023-07-01": 203403,
-  "2023-07-02": 203403,
-  "2023-07-03": 203437,
-  "2023-07-04": 203487,
-  "2023-07-05": 203539,
-  "2023-07-06": 203644,
-  "2023-07-07": 203644,
-  "2023-07-08": 203644,
-  "2023-07-09": 203740,
-  "2023-07-10": 203791,
-  "2023-07-11": 203840,
-  "2023-07-12": 203886,
-  "2023-07-13": 203930,
-  "2023-07-14": 203994,
-  "2023-07-15": 204043,
-  "2023-07-16": 204108,
-  "2023-07-17": 204158,
-  "2023-07-18": 204205,
-  "2023-07-19": 204254,
-  "2023-07-20": 204254,
-  "2023-07-21": 204349,
-  "2023-07-22": 204390,
-  "2023-07-23": 204449,
-  "2023-07-24": 204499,
-  "2023-07-25": 204547,
-  "2023-07-26": 204611,
-  "2023-07-27": 204679,
-  "2023-07-28": 204747,
-  "2023-07-29": 204794,
-  "2023-07-30": 204794,
-  "2023-07-31": 204899,
-  "2023-08-01": 204963,
-  "2023-08-02": 205023,
-  "2023-08-03": 205088,
-  "2023-08-04": 205150,
-  "2023-08-05": 205211,
-  "2023-08-06": 205328,
-  "2023-08-07": 205328,
-  "2023-08-08": 205384,
-  "2023-08-09": 205440,
-  "2023-08-10": 205507,
-  "2023-08-11": 205573,
-  "2023-08-12": 205573,
-  "2023-08-13": 205573,
-  "2023-08-14": 205573,
-  "2023-08-15": 205573,
-  "2023-08-16": 205573,
-  "2023-08-17": 205573,
-  "2023-08-18": 205573,
-  "2023-08-19": 205573,
-  "2023-08-20": 206158,
-  "2023-08-21": 206158,
-  "2023-08-22": 206283,
-  "2023-08-23": 206283,
-  "2023-08-24": 206283,
-  "2023-08-25": 206283,
-  "2023-08-26": 206520,
-  "2023-08-27": 206520,
-  "2023-08-28": 206625,
-  "2023-08-29": 206625,
-  "2023-08-30": 206625,
-  "2023-08-31": 206799,
-  "2023-09-01": 206858,
-  "2023-09-02": 206858,
-  "2023-09-03": 206858,
-  "2023-09-04": 206858,
-  "2023-09-05": 206858,
-  "2023-09-06": 206858,
-  "2023-09-07": 206858,
-  "2023-09-08": 206858,
-  "2023-09-09": 206858,
-  "2023-09-10": 206858,
-  "2023-09-11": 206858,
-  "2023-09-12": 206858,
-  "2023-09-13": 206858,
-  "2023-09-14": 206858,
-  "2023-09-15": 206858,
-  "2023-09-16": 207717,
-  "2023-09-17": 207717,
-  "2023-09-18": 207717,
-  "2023-09-19": 207717,
-  "2023-09-20": 207717,
-  "2023-09-21": 207717,
-  "2023-09-22": 208116,
-  "2023-09-23": 208116,
-  "2023-09-24": 208116,
-  "2023-09-25": 208116,
-  "2023-09-26": 208347,
-  "2023-09-27": 208347,
-  "2023-09-28": 208347,
-  "2023-09-29": 208347,
-  "2023-09-30": 208347,
-  "2023-10-01": 208347,
-  "2023-10-02": 208347,
-  "2023-10-03": 208347,
-  "2023-10-04": 208347,
-  "2023-10-05": 208347,
-  "2023-10-06": 208347,
-  "2023-10-07": 208347,
-  "2023-10-08": 208347,
-  "2023-10-09": 208347,
-  "2023-10-10": 208347,
-  "2023-10-11": 208347,
-  "2023-10-12": 208347,
-  "2023-10-13": 208347,
-  "2023-10-14": 208347,
-  "2023-10-15": 208347,
-  "2023-10-16": 208347,
-  "2023-10-17": 208347,
-  "2023-10-18": 208347,
-  "2023-10-19": 208347,
-  "2023-10-20": 208347,
-  "2023-10-21": 208347,
-  "2023-10-22": 208347,
-  "2023-10-23": 208347,
-  "2023-10-24": 208347,
-  "2023-10-25": 208347,
-  "2023-10-26": 208347,
-  "2023-10-27": 208347,
-  "2023-10-28": 208347,
-  "2023-10-29": 208347,
-  "2023-10-30": 208347,
-  "2023-10-31": 208347,
-  "2023-11-01": 208347,
-  "2023-11-02": 208347,
-  "2023-11-03": 208347,
-  "2023-11-04": 208347,
-  "2023-11-05": 208347,
-  "2023-11-06": 208347,
-  "2023-11-07": 208347,
-  "2023-11-08": 208347,
-  "2023-11-09": 208347,
-  "2023-11-10": 208347,
-  "2023-11-11": 211165,
-  "2023-11-12": 211165,
-  "2023-11-13": 211165,
-  "2023-11-14": 211165,
-  "2023-11-15": 211165,
-  "2023-11-16": 211165,
-  "2023-11-17": 211165,
-  "2023-11-18": 211165,
-  "2023-11-19": 211165,
-  "2023-11-20": 211165,
-  "2023-11-21": 211165,
-  "2023-11-22": 211165,
-  "2023-11-23": 211165,
-  "2023-11-24": 211165,
-  "2023-11-25": 211165,
-  "2023-11-26": 211165,
-  "2023-11-27": 211165,
-  "2023-11-28": 211165,
-  "2023-11-29": 211165,
-  "2023-11-30": 211165,
-  "2023-12-01": 211165,
-  "2023-12-02": 211165,
-  "2023-12-03": 211165,
-  "2023-12-04": 211165,
-  "2023-12-05": 211165,
-  "2023-12-06": 211165,
-  "2023-12-07": 211165,
-  "2023-12-08": 211165,
-  "2023-12-09": 211165,
-  "2023-12-10": 211165,
-  "2023-12-11": 211165,
-  "2023-12-12": 211165,
-  "2023-12-13": 211165,
-  "2023-12-14": 213415,
-  "2023-12-15": 213475,
-  "2023-12-16": 213543,
-  "2023-12-17": 213602,
-  "2023-12-18": 213679,
-  "2023-12-19": 213756,
-  "2023-12-20": 213838,
-  "2023-12-21": 213929,
-  "2023-12-22": 213981,
-  "2023-12-23": 214079,
-  "2023-12-24": 214144,
-  "2023-12-25": 214213,
-  "2023-12-26": 214257,
-  "2023-12-27": 214353,
-  "2023-12-30": 214606,
-  "2023-12-31": 214668,
-  "2024-01-01": 214719,
-  "2024-01-02": 214792,
-  "2024-01-03": 214844
+  "2024-01-17": 215669,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
+  "name": "This Is Jhen\u00e9 Aiko",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "2 seconds - Bonus",
+      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+    },
+    {
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "3:16AM",
+      "url": "https://open.spotify.com/track/4QoFwqgLw1CtoeSv6N80mU"
+    },
+    {
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Above And Beyond",
+      "url": "https://open.spotify.com/track/2p5QtNGyfnT5MhQex3WOte"
+    },
+    {
+      "album": {
+        "name": "alive & well (gratitude mantra)",
+        "url": "https://open.spotify.com/album/1QWB87icEDVkzayS3LUytI"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 634500,
+      "name": "alive & well (gratitude mantra)",
+      "url": "https://open.spotify.com/track/3kj3IPfPnpFw5RBoJqlEDe"
+    },
+    {
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "B.S. (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/63wx9vdskaXbYxyDx4oJCZ"
+    },
+    {
+      "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256079,
+      "name": "Bed Peace",
+      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
+    },
+    {
+      "album": {
+        "name": "Hall Of Fame (Deluxe)",
+        "url": "https://open.spotify.com/album/5RlT8X7XGGLKUhoimrDl54"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235186,
+      "name": "Beware",
+      "url": "https://open.spotify.com/track/6bxUnsSGZCmoHHU5auwtps"
+    },
+    {
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "Blue Dream",
+      "url": "https://open.spotify.com/track/4Y8MG7qcAMk7JB7Eebpcvu"
+    },
+    {
+      "album": {
+        "name": "Featuring Ty Dolla $ign",
+        "url": "https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 148927,
+      "name": "By Yourself (feat. Jhen\u00e9 Aiko & Mustard)",
+      "url": "https://open.spotify.com/track/1psvnQxSDdIKTDM2Jm8QKt"
+    },
+    {
+      "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "album": {
+        "name": "It Was Good Until It Wasn't",
+        "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191128,
+      "name": "Change Your Life (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo"
+    },
+    {
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321826,
+      "name": "Comfort Inn Ending (Freestyle)",
+      "url": "https://open.spotify.com/track/03mfJFcTsxfldb0DPI4ygj"
+    },
+    {
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Hope",
+          "url": "https://open.spotify.com/artist/4QTUTpSoTX3n9uMvuvyQsy"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253733,
+      "name": "do better blues (feat. HOPE)",
+      "url": "https://open.spotify.com/track/4slDDMAoLgYKvEpiUAUEQI"
+    },
+    {
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227400,
+      "name": "Drunk Texting (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/1pxxlUuXMYbPSlIkolfp5J"
+    },
+    {
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210640,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/3t844ssjXzE9M3SDtUxTI4"
+    },
+    {
+      "album": {
+        "name": "First Fuck",
+        "url": "https://open.spotify.com/album/6Fq2zZBisHn3e2I7VHzVuf"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205489,
+      "name": "First Fuck",
+      "url": "https://open.spotify.com/track/1u4orOe6gYxeE9xKpv11Qi"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
+    },
+    {
+      "album": {
+        "name": "Dark Sky Paradise",
+        "url": "https://open.spotify.com/album/1j2x7FJXTgUT0X5hZ8TDXE"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319973,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/6rje9f1wRFJDO2iTORw0lH"
+    },
+    {
+      "album": {
+        "name": "Over It",
+        "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "I'll Kill You (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/7EkiMl81fUHVwpItgtzI4r"
+    },
+    {
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "I. Pink Toes",
+      "url": "https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j"
+    },
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "In The Dark (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC"
+    },
+    {
+      "album": {
+        "name": "Pretty Girls Like Trap Music",
+        "url": "https://open.spotify.com/album/5vvvo79z68vWj9yimoygfS"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "It's A Vibe",
+      "url": "https://open.spotify.com/track/6H0AwSQ20mo62jGlPGB8S6"
+    },
+    {
+      "album": {
+        "name": "Raya and the Last Dragon (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JqX5g07TbeiF0NEK7eYl0"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223835,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/2Vqbniz8jYoZPvecpdVPq9"
+    },
+    {
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262480,
+      "name": "living room flow - Bonus",
+      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/2nvmHk4JnsZ94mygliLsou"
+    },
+    {
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+    },
+    {
+      "album": {
+        "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) [Remix]",
+        "url": "https://open.spotify.com/album/3zA4avOuepGbVtebFZzAz5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172313,
+      "name": "My Type (feat. City Girls & Jhen\u00e9 Aiko) - Remix",
+      "url": "https://open.spotify.com/track/5LTdRSQOg63EazLbKZbWn2"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270546,
+      "name": "Never Call Me",
+      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279453,
+      "name": "New Balance",
+      "url": "https://open.spotify.com/track/0PYmO55JPwEWgtyJbkN6mq"
+    },
+    {
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259385,
+      "name": "None Of Your Concern (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/75MSZRbAbQuzfUV3Pefvut"
+    },
+    {
+      "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Mila J",
+          "url": "https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "On The Way (feat. Mila J)",
+      "url": "https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo"
+    },
+    {
+      "album": {
+        "name": "A Gangsta\u2019s Pain",
+        "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143533,
+      "name": "One Of Dem Nights (with Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5CSID3PvGYFa3zNgid3ClE"
+    },
+    {
+      "album": {
+        "name": "P*$$Y Fairy (OTW)",
+        "url": "https://open.spotify.com/album/0NC1AcoK5y2cBLwzej6tqE"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181860,
+      "name": "P*$$Y Fairy (OTW)",
+      "url": "https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV"
+    },
+    {
+      "album": {
+        "name": "Sex Playlist",
+        "url": "https://open.spotify.com/album/13QoXGJgs22WiDG1NWT00D"
+      },
+      "artists": [
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226580,
+      "name": "Post to Be (feat. Chris Brown & Jhene Aiko)",
+      "url": "https://open.spotify.com/track/0fgZUSa7D7aVvv3GfO0A1n"
+    },
+    {
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100386,
+      "name": "Pray For You",
+      "url": "https://open.spotify.com/track/3JHQY6VnwmUMuYb0XI2O7Y"
+    },
+    {
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Namiko",
+          "url": "https://open.spotify.com/artist/3ntfxXBlYkRROc8NZ2D5ko"
+        },
+        {
+          "name": "Miyagi",
+          "url": "https://open.spotify.com/artist/1D1twK512TGf3AzN2ez2ED"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/4ThyHM57HG7pnLudis9b0M"
+    },
+    {
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3vMVipXhMeZt3wWbSBD4th"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+    },
+    {
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252053,
+      "name": "Sparks Will Fly (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5fBoh0hqi7shM8a8nfPnDB"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 234498,
+      "name": "Splash (feat. Jhen\u00e9 Aiko & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5Ip2VxpYt1dCD7MKmjrw52"
+    },
+    {
+      "album": {
+        "name": "Souled Out",
+        "url": "https://open.spotify.com/album/1dfGhmOGPopEReylj0UUDG"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268973,
+      "name": "Spotless Mind",
+      "url": "https://open.spotify.com/track/3F2Fp02Tqe5JNDjnLwQXt8"
+    },
+    {
+      "album": {
+        "name": "With Love 2",
+        "url": "https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR"
+      },
+      "artists": [
+        {
+          "name": "Phora",
+          "url": "https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 254230,
+      "name": "Stars in The Sky (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/5ziNnhZ1hK100fIUvkDZUH"
+    },
+    {
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382760,
+      "name": "Stay Ready (What A Life)",
+      "url": "https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv"
+    },
+    {
+      "album": {
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "stranger",
+      "url": "https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn"
+    },
+    {
+      "album": {
+        "name": "Sun/Son",
+        "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Sun/Son",
+      "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
+    },
+    {
+      "album": {
+        "name": "Sun/Son (piano)",
+        "url": "https://open.spotify.com/album/3KPZeXFLv3dCpmLgNvVMju"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176197,
+      "name": "Sun/Son - piano",
+      "url": "https://open.spotify.com/track/4m18TdmKtUvzH5QNo1Cn7v"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188964,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh"
+    },
+    {
+      "album": {
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "The Worst",
+      "url": "https://open.spotify.com/track/2wBCrtJS3E3TimRZ5MElTI"
+    },
+    {
+      "album": {
+        "name": "Trigger Protection Mantra",
+        "url": "https://open.spotify.com/album/2NGGOdyDlyb4bu3vqQqF83"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414106,
+      "name": "Trigger Protection Mantra",
+      "url": "https://open.spotify.com/track/10OJeHia1lrq7OCY2lSJiP"
+    },
+    {
+      "album": {
+        "name": "Chilombo",
+        "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209933,
+      "name": "Triggered (freestyle)",
+      "url": "https://open.spotify.com/track/3zPgAKn5tbmCuCKrR3r7qE"
+    },
+    {
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "U Move, I Move (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "album": {
+        "name": "Souled Out (Deluxe)",
+        "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238773,
+      "name": "W.A.Y.S.",
+      "url": "https://open.spotify.com/track/7jjKsW39O1i8hKF31ShpV9"
+    },
+    {
+      "album": {
+        "name": "Wasted Love Freestyle",
+        "url": "https://open.spotify.com/album/2zMEyUCS2gU5Igc5A6dhaU"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "Wasted Love Freestyle",
+      "url": "https://open.spotify.com/track/1zsxlqBfktCpTXK9CjUpyW"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262626,
+      "name": "When We Love",
+      "url": "https://open.spotify.com/track/63LJjsJuqZgQyYibMXn9ku"
+    },
+    {
+      "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "While We're Young",
+      "url": "https://open.spotify.com/track/4mL59LVbKgOpEACxraGYdr"
+    },
+    {
+      "album": {
+        "name": "Late Nights: The Album",
+        "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 213653,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1dUszfK4TRd54EegEkOT34"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xhrLa"
 }

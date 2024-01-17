@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,536 likes - 156 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,398 likes - 156 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

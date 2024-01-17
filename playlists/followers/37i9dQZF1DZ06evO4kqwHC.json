@@ -1,259 +1,1255 @@
 {
-  "2023-04-20": 980162,
-  "2023-04-21": 980593,
-  "2023-04-22": 981005,
-  "2023-04-23": 981313,
-  "2023-04-24": 981592,
-  "2023-04-25": 981843,
-  "2023-04-26": 982093,
-  "2023-04-27": 982313,
-  "2023-04-28": 982602,
-  "2023-04-29": 982868,
-  "2023-04-30": 983150,
-  "2023-05-01": 983363,
-  "2023-05-02": 983608,
-  "2023-05-03": 983872,
-  "2023-05-04": 984144,
-  "2023-05-05": 984513,
-  "2023-05-06": 984795,
-  "2023-05-07": 985022,
-  "2023-05-08": 985246,
-  "2023-05-09": 985459,
-  "2023-05-10": 985692,
-  "2023-05-11": 985905,
-  "2023-05-12": 986172,
-  "2023-05-13": 986420,
-  "2023-05-14": 986653,
-  "2023-05-15": 986844,
-  "2023-05-16": 987057,
-  "2023-05-17": 987282,
-  "2023-05-18": 987614,
-  "2023-05-19": 987949,
-  "2023-05-20": 988546,
-  "2023-05-21": 988546,
-  "2023-05-22": 988546,
-  "2023-05-23": 989321,
-  "2023-05-24": 989967,
-  "2023-05-25": 990062,
-  "2023-05-26": 990475,
-  "2023-05-27": 990884,
-  "2023-05-28": 991182,
-  "2023-05-29": 991182,
-  "2023-05-30": 991789,
-  "2023-05-31": 992151,
-  "2023-06-01": 992537,
-  "2023-06-02": 992926,
-  "2023-06-03": 993640,
-  "2023-06-04": 994263,
-  "2023-06-05": 994728,
-  "2023-06-06": 995219,
-  "2023-06-07": 995668,
-  "2023-06-08": 996096,
-  "2023-06-09": 996493,
-  "2023-06-10": 996879,
-  "2023-06-11": 997249,
-  "2023-06-12": 997533,
-  "2023-06-13": 997770,
-  "2023-06-14": 997770,
-  "2023-06-15": 998429,
-  "2023-06-16": 998772,
-  "2023-06-17": 999128,
-  "2023-06-18": 999463,
-  "2023-06-19": 999718,
-  "2023-06-20": 999997,
-  "2023-06-21": 1000300,
-  "2023-06-22": 1000606,
-  "2023-06-23": 1000873,
-  "2023-06-24": 1001638,
-  "2023-06-25": 1002322,
-  "2023-06-26": 1002819,
-  "2023-06-27": 1003235,
-  "2023-06-28": 1003758,
-  "2023-06-29": 1004295,
-  "2023-06-30": 1004769,
-  "2023-07-01": 1005629,
-  "2023-07-02": 1005629,
-  "2023-07-03": 1005985,
-  "2023-07-04": 1006289,
-  "2023-07-05": 1006551,
-  "2023-07-06": 1007148,
-  "2023-07-07": 1007148,
-  "2023-07-08": 1007148,
-  "2023-07-09": 1007925,
-  "2023-07-10": 1008256,
-  "2023-07-11": 1008519,
-  "2023-07-12": 1008802,
-  "2023-07-13": 1009142,
-  "2023-07-14": 1009421,
-  "2023-07-15": 1009685,
-  "2023-07-16": 1010061,
-  "2023-07-17": 1010396,
-  "2023-07-18": 1010590,
-  "2023-07-19": 1010795,
-  "2023-07-20": 1010795,
-  "2023-07-21": 1011276,
-  "2023-07-22": 1011572,
-  "2023-07-23": 1011847,
-  "2023-07-24": 1012094,
-  "2023-07-25": 1012321,
-  "2023-07-26": 1012545,
-  "2023-07-27": 1012820,
-  "2023-07-28": 1012820,
-  "2023-07-29": 1013316,
-  "2023-07-30": 1013316,
-  "2023-07-31": 1013770,
-  "2023-08-01": 1013978,
-  "2023-08-02": 1014214,
-  "2023-08-03": 1014463,
-  "2023-08-04": 1014683,
-  "2023-08-05": 1014917,
-  "2023-08-06": 1015368,
-  "2023-08-07": 1015368,
-  "2023-08-08": 1015552,
-  "2023-08-09": 1015793,
-  "2023-08-10": 1016043,
-  "2023-08-11": 1016262,
-  "2023-08-12": 1016262,
-  "2023-08-13": 1016262,
-  "2023-08-14": 1016262,
-  "2023-08-15": 1016262,
-  "2023-08-16": 1016262,
-  "2023-08-17": 1016262,
-  "2023-08-18": 1016262,
-  "2023-08-19": 1016262,
-  "2023-08-20": 1018352,
-  "2023-08-21": 1018352,
-  "2023-08-22": 1018753,
-  "2023-08-23": 1018753,
-  "2023-08-24": 1018753,
-  "2023-08-25": 1018753,
-  "2023-08-26": 1019648,
-  "2023-08-27": 1019648,
-  "2023-08-28": 1020074,
-  "2023-08-29": 1020074,
-  "2023-08-30": 1020074,
-  "2023-08-31": 1020740,
-  "2023-09-01": 1021046,
-  "2023-09-02": 1021046,
-  "2023-09-03": 1021046,
-  "2023-09-04": 1021046,
-  "2023-09-05": 1021046,
-  "2023-09-06": 1021046,
-  "2023-09-07": 1021046,
-  "2023-09-08": 1021046,
-  "2023-09-09": 1021046,
-  "2023-09-10": 1021046,
-  "2023-09-11": 1021046,
-  "2023-09-12": 1021046,
-  "2023-09-13": 1021046,
-  "2023-09-14": 1021046,
-  "2023-09-15": 1021046,
-  "2023-09-16": 1021046,
-  "2023-09-17": 1021046,
-  "2023-09-18": 1021046,
-  "2023-09-19": 1021046,
-  "2023-09-20": 1021046,
-  "2023-09-21": 1021046,
-  "2023-09-22": 1027931,
-  "2023-09-23": 1027931,
-  "2023-09-24": 1027931,
-  "2023-09-25": 1027931,
-  "2023-09-26": 1028804,
-  "2023-09-27": 1028804,
-  "2023-09-28": 1028804,
-  "2023-09-29": 1028804,
-  "2023-09-30": 1028804,
-  "2023-10-01": 1028804,
-  "2023-10-02": 1028804,
-  "2023-10-03": 1028804,
-  "2023-10-04": 1028804,
-  "2023-10-05": 1028804,
-  "2023-10-06": 1028804,
-  "2023-10-07": 1028804,
-  "2023-10-08": 1028804,
-  "2023-10-09": 1028804,
-  "2023-10-10": 1028804,
-  "2023-10-11": 1028804,
-  "2023-10-12": 1028804,
-  "2023-10-13": 1028804,
-  "2023-10-14": 1028804,
-  "2023-10-15": 1028804,
-  "2023-10-16": 1028804,
-  "2023-10-17": 1028804,
-  "2023-10-18": 1028804,
-  "2023-10-19": 1028804,
-  "2023-10-20": 1028804,
-  "2023-10-21": 1028804,
-  "2023-10-22": 1028804,
-  "2023-10-23": 1028804,
-  "2023-10-24": 1028804,
-  "2023-10-25": 1028804,
-  "2023-10-26": 1028804,
-  "2023-10-27": 1028804,
-  "2023-10-28": 1028804,
-  "2023-10-29": 1028804,
-  "2023-10-30": 1028804,
-  "2023-10-31": 1028804,
-  "2023-11-01": 1028804,
-  "2023-11-02": 1028804,
-  "2023-11-03": 1028804,
-  "2023-11-04": 1028804,
-  "2023-11-05": 1028804,
-  "2023-11-06": 1028804,
-  "2023-11-07": 1028804,
-  "2023-11-08": 1028804,
-  "2023-11-09": 1028804,
-  "2023-11-10": 1028804,
-  "2023-11-11": 1037428,
-  "2023-11-12": 1037428,
-  "2023-11-13": 1037428,
-  "2023-11-14": 1037428,
-  "2023-11-15": 1037428,
-  "2023-11-16": 1037428,
-  "2023-11-17": 1037428,
-  "2023-11-18": 1037428,
-  "2023-11-19": 1037428,
-  "2023-11-20": 1037428,
-  "2023-11-21": 1037428,
-  "2023-11-22": 1037428,
-  "2023-11-23": 1037428,
-  "2023-11-24": 1037428,
-  "2023-11-25": 1037428,
-  "2023-11-26": 1037428,
-  "2023-11-27": 1037428,
-  "2023-11-28": 1037428,
-  "2023-11-29": 1037428,
-  "2023-11-30": 1037428,
-  "2023-12-01": 1037428,
-  "2023-12-02": 1037428,
-  "2023-12-03": 1037428,
-  "2023-12-04": 1037428,
-  "2023-12-05": 1037428,
-  "2023-12-06": 1037428,
-  "2023-12-07": 1037428,
-  "2023-12-08": 1037428,
-  "2023-12-09": 1037428,
-  "2023-12-10": 1037428,
-  "2023-12-11": 1037428,
-  "2023-12-12": 1037428,
-  "2023-12-13": 1037428,
-  "2023-12-14": 1043750,
-  "2023-12-15": 1043865,
-  "2023-12-16": 1044063,
-  "2023-12-17": 1044249,
-  "2023-12-18": 1044402,
-  "2023-12-19": 1044548,
-  "2023-12-20": 1044679,
-  "2023-12-21": 1044815,
-  "2023-12-22": 1044971,
-  "2023-12-23": 1045118,
-  "2023-12-24": 1045291,
-  "2023-12-25": 1045392,
-  "2023-12-26": 1045484,
-  "2023-12-27": 1045623,
-  "2023-12-30": 1046055,
-  "2023-12-31": 1046188,
-  "2024-01-01": 1046309,
-  "2024-01-02": 1046406,
-  "2024-01-03": 1046512
+  "2024-01-17": 1047522,
+  "date_first_scraped": "2023-04-20",
+  "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
+  "name": "This Is Foo Fighters",
+  "tracks": [
+    {
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/6tsojOQ5wHaIjKqIryLZK6"
+    },
+    {
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245666,
+      "name": "Alone + Easy Target",
+      "url": "https://open.spotify.com/track/5XUpAb2zC8G404RPkwb09H"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "Arlandria",
+      "url": "https://open.spotify.com/track/5TOYgNohZAFEPOtnchPhZS"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349680,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7dIh8FF0EzYKS8STv3v4F4"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255626,
+      "name": "Best of You",
+      "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 234440,
+      "name": "Beyond Me",
+      "url": "https://open.spotify.com/track/17oFMOCRu6P4WLqSSNyKPC"
+    },
+    {
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132840,
+      "name": "Big Me",
+      "url": "https://open.spotify.com/track/6pb5BBnIM5IM7R1cqag6rE"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Breakout",
+      "url": "https://open.spotify.com/track/2kh0u2d2YKQ7BCqeLPdHk6"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286466,
+      "name": "Bridge Burning",
+      "url": "https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283466,
+      "name": "But Here We Are",
+      "url": "https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 252293,
+      "name": "Chasing Birds",
+      "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4P4s2KHOw0uISbLI3zkHtD"
+    },
+    {
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 311906,
+      "name": "Congregation",
+      "url": "https://open.spotify.com/track/40cLVGkjzcZ5FJ3vHkXB0e"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266533,
+      "name": "Dear Rosemary",
+      "url": "https://open.spotify.com/track/6HeFCUg1F1v0bnE3JFTlxz"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "DOA",
+      "url": "https://open.spotify.com/track/1QZFn6QUNHfCp8s06C91hw"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83800,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/2KvhVhBR7MIMZUQNRBiY2k"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 250546,
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227560,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/592nTDJAy8AucV4KKIDCmA"
+    },
+    {
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241226,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/2styBKRBhlZwPl5geag8KJ"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228773,
+      "name": "Hearing Voices",
+      "url": "https://open.spotify.com/track/4PTowPoeya2AITpeUCJLKN"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 117000,
+      "name": "Hell",
+      "url": "https://open.spotify.com/track/7xT9J7vWvVEx7AfrNZBcZR"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248266,
+      "name": "Hey, Johnny Park!",
+      "url": "https://open.spotify.com/track/0M5xRyxGpFFDfzN2x0wdpH"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293453,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/2fDVMNQmFuMORDD3dP7GkN"
+    },
+    {
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "I'll Stick Around",
+      "url": "https://open.spotify.com/track/4LGKzrdEeBwR9UHCGlDT0W"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 230093,
+      "name": "In Your Honor",
+      "url": "https://open.spotify.com/track/06LzBUkKZpPAWiEwB6iVri"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Learn to Fly",
+      "url": "https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244960,
+      "name": "Let It Die",
+      "url": "https://open.spotify.com/track/2XvrMHbSO077Ajg7QTTNdY"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224880,
+      "name": "Long Road To Ruin",
+      "url": "https://open.spotify.com/track/0bORa4VpL8NzyMXEI6UFGK"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 261545,
+      "name": "Love Dies Young",
+      "url": "https://open.spotify.com/track/5suO1J3cXSVWJ7ED3kasKQ"
+    },
+    {
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 268306,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3j8ja2Hq824OaRqIENJPTH"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255106,
+      "name": "Making A Fire",
+      "url": "https://open.spotify.com/track/2u8NmvhYX6wiviyxJTOhEi"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231480,
+      "name": "Monkey Wrench",
+      "url": "https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260026,
+      "name": "My Hero",
+      "url": "https://open.spotify.com/track/4dVbhS6OiYvFikshyaQaCN"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276213,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/1WwWjG2FGbBK6IkBBTknao"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196573,
+      "name": "No Way Back",
+      "url": "https://open.spotify.com/track/2MKEQhvPb2VaJXjx5X8Yg6"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
+    },
+    {
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 314573,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/5BfbdJLRp9gUyyxeGJUECL"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
+    },
+    {
+      "album": {
+        "name": "Rescued",
+        "url": "https://open.spotify.com/album/74RB6Y9T2ubqGah14jueyO"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 258648,
+      "name": "Rescued",
+      "url": "https://open.spotify.com/track/6mgzUNNr3NY6NbTzNzwYq9"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 333946,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/2IgxiiF1VdAj9ZfQMTORAb"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259026,
+      "name": "Rope",
+      "url": "https://open.spotify.com/track/7v0mtl6oInUtHOmTk2b0gC"
+    },
+    {
+      "album": {
+        "name": "Concrete and Gold",
+        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323373,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1wLQwg0mloy3yXjL0jPE0N"
+    },
+    {
+      "album": {
+        "name": "Saint Cecilia EP",
+        "url": "https://open.spotify.com/album/6wGcuJq8QjSeoYMJWgW7Wo"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Saint Cecilia",
+      "url": "https://open.spotify.com/track/7bdUH0npz854dv3plG8ieT"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257426,
+      "name": "Shame Shame",
+      "url": "https://open.spotify.com/track/21Qmkbvp6GvZdO0IMQtae5"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/0ypVld5cYlBkFQqh5KR9kn"
+    },
+    {
+      "album": {
+        "name": "Show Me How",
+        "url": "https://open.spotify.com/album/5apa1NQ3BXK4XlBsbc4MPz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 293960,
+      "name": "Show Me How",
+      "url": "https://open.spotify.com/track/4wJ2mw9b5hTZTKTtbLKDJZ"
+    },
+    {
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288453,
+      "name": "Something from Nothing",
+      "url": "https://open.spotify.com/track/6REiraH7Pe3akd0mkFA4l9"
+    },
+    {
+      "album": {
+        "name": "There Is Nothing Left To Lose",
+        "url": "https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256440,
+      "name": "Stacked Actors",
+      "url": "https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321053,
+      "name": "Stranger Things Have Happened",
+      "url": "https://open.spotify.com/track/7zaZlzl0XhthNwH3GQcyZ0"
+    },
+    {
+      "album": {
+        "name": "Sonic Highways",
+        "url": "https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 229560,
+      "name": "The Feast and The Famine",
+      "url": "https://open.spotify.com/track/1M4Wy6jRce1x17qyE7yQAB"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "album": {
+        "name": "The Glass",
+        "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        },
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211190,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/1Wm507fKIw4Un8x11ucO1W"
+    },
+    {
+      "album": {
+        "name": "Echoes, Silence, Patience & Grace",
+        "url": "https://open.spotify.com/album/3ilXDEG0xiajK8AbqboeJz"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269373,
+      "name": "The Pretender",
+      "url": "https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34"
+    },
+    {
+      "album": {
+        "name": "Concrete and Gold",
+        "url": "https://open.spotify.com/album/6KMkuqIwKkwUhUYRPL6dUc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "The Sky Is A Neighborhood",
+      "url": "https://open.spotify.com/track/3kdMzXOcrDIdSWLdONHNK5"
+    },
+    {
+      "album": {
+        "name": "The Teacher",
+        "url": "https://open.spotify.com/album/0YjlWM6aXSeonMaInO1kOM"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 604226,
+      "name": "The Teacher",
+      "url": "https://open.spotify.com/track/4GPdQsRCRCidGgmCsK9I4a"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 604226,
+      "name": "The Teacher",
+      "url": "https://open.spotify.com/track/7buGBnA0vkYulQafSZnpHx"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298266,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2kN05N1AQQplsgFweFAqYb"
+    },
+    {
+      "album": {
+        "name": "Foo Fighters",
+        "url": "https://open.spotify.com/album/4EnNuo8fG7dMoxMefbApRY"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233360,
+      "name": "This Is a Call",
+      "url": "https://open.spotify.com/track/2wO8aOvN1ogLy1N8XT1WJE"
+    },
+    {
+      "album": {
+        "name": "One By One (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1zQ6F8gMagKcPL4SoA80cx"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265560,
+      "name": "Times Like These",
+      "url": "https://open.spotify.com/track/67vYdAAM3oGsEImCRfbtsF"
+    },
+    {
+      "album": {
+        "name": "Under You",
+        "url": "https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE"
+    },
+    {
+      "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Under You",
+      "url": "https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135573,
+      "name": "Up In Arms",
+      "url": "https://open.spotify.com/track/05TcC5ZN9rp8Glx8A9C2Nd"
+    },
+    {
+      "album": {
+        "name": "In Your Honor",
+        "url": "https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 229106,
+      "name": "Virginia Moon",
+      "url": "https://open.spotify.com/track/2Ei5auE9kCmwKB2JZtKPKO"
+    },
+    {
+      "album": {
+        "name": "Medicine At Midnight",
+        "url": "https://open.spotify.com/album/1FyNZvJ6MHO01kl3ySMPdc"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253840,
+      "name": "Waiting On A War",
+      "url": "https://open.spotify.com/track/4tA8lpQoWkMRWOZ29HbR86"
+    },
+    {
+      "album": {
+        "name": "Wasting Light",
+        "url": "https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/76Je5Wklky23mVoxiRszcN"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303813,
+      "name": "Walking After You",
+      "url": "https://open.spotify.com/track/7pS2OVdIWviLpz5GOtJLzz"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278213,
+      "name": "Wheels",
+      "url": "https://open.spotify.com/track/3KsatAMRt1a7iryhWt5I8U"
+    },
+    {
+      "album": {
+        "name": "The Colour And The Shape",
+        "url": "https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 150653,
+      "name": "Wind Up",
+      "url": "https://open.spotify.com/track/56ucsSaTrjiQaokbbDASOR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kqwHC"
 }

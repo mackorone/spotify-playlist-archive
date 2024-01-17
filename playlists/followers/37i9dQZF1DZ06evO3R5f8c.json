@@ -1,731 +1,2079 @@
 {
-  "2021-12-29": 224,
-  "2021-12-30": 224,
-  "2021-12-31": 224,
-  "2022-01-01": 225,
-  "2022-01-02": 225,
-  "2022-01-03": 225,
-  "2022-01-04": 225,
-  "2022-01-05": 226,
-  "2022-01-06": 226,
-  "2022-01-07": 226,
-  "2022-01-08": 226,
-  "2022-01-09": 226,
-  "2022-01-10": 226,
-  "2022-01-11": 230,
-  "2022-01-12": 262,
-  "2022-01-13": 299,
-  "2022-01-14": 382,
-  "2022-01-15": 532,
-  "2022-01-16": 538,
-  "2022-01-17": 75265,
-  "2022-01-18": 75268,
-  "2022-01-19": 75289,
-  "2022-01-20": 75328,
-  "2022-01-21": 75351,
-  "2022-01-22": 75397,
-  "2022-01-23": 75444,
-  "2022-01-24": 75474,
-  "2022-01-25": 75510,
-  "2022-01-26": 75532,
-  "2022-01-27": 75575,
-  "2022-01-28": 75609,
-  "2022-01-29": 75647,
-  "2022-01-30": 75677,
-  "2022-01-31": 75712,
-  "2022-02-01": 75726,
-  "2022-02-02": 75756,
-  "2022-02-03": 75787,
-  "2022-02-04": 75831,
-  "2022-02-05": 75876,
-  "2022-02-06": 75928,
-  "2022-02-07": 75961,
-  "2022-02-08": 75993,
-  "2022-02-09": 76030,
-  "2022-02-10": 76069,
-  "2022-02-11": 76109,
-  "2022-02-12": 76168,
-  "2022-02-13": 76232,
-  "2022-02-14": 76260,
-  "2022-02-15": 76289,
-  "2022-02-16": 76308,
-  "2022-02-17": 76347,
-  "2022-02-18": 76375,
-  "2022-02-19": 76414,
-  "2022-02-20": 76461,
-  "2022-02-21": 76504,
-  "2022-02-22": 76546,
-  "2022-02-23": 76569,
-  "2022-02-24": 76606,
-  "2022-02-25": 76642,
-  "2022-02-26": 76678,
-  "2022-02-27": 76775,
-  "2022-02-28": 76775,
-  "2022-03-01": 76805,
-  "2022-03-02": 76842,
-  "2022-03-03": 76875,
-  "2022-03-04": 76918,
-  "2022-03-05": 76969,
-  "2022-03-06": 77003,
-  "2022-03-07": 77044,
-  "2022-03-08": 77080,
-  "2022-03-09": 77122,
-  "2022-03-10": 77166,
-  "2022-03-11": 77206,
-  "2022-03-12": 77251,
-  "2022-03-13": 77287,
-  "2022-03-14": 77349,
-  "2022-03-15": 77395,
-  "2022-03-16": 77439,
-  "2022-03-17": 77487,
-  "2022-03-18": 77546,
-  "2022-03-19": 77595,
-  "2022-03-20": 77595,
-  "2022-03-21": 77732,
-  "2022-03-22": 77768,
-  "2022-03-23": 77812,
-  "2022-03-24": 77879,
-  "2022-03-25": 77921,
-  "2022-03-26": 77974,
-  "2022-03-27": 78031,
-  "2022-03-28": 78080,
-  "2022-03-30": 78163,
-  "2022-03-31": 78203,
-  "2022-04-01": 78246,
-  "2022-04-02": 78268,
-  "2022-04-03": 78311,
-  "2022-04-04": 78372,
-  "2022-04-05": 78544,
-  "2022-04-06": 78643,
-  "2022-04-07": 78724,
-  "2022-04-08": 78817,
-  "2022-04-09": 78898,
-  "2022-04-10": 79045,
-  "2022-04-11": 79093,
-  "2022-04-12": 79102,
-  "2022-04-13": 79140,
-  "2022-04-14": 79181,
-  "2022-04-15": 79239,
-  "2022-04-16": 79318,
-  "2022-04-17": 79435,
-  "2022-04-18": 79524,
-  "2022-04-19": 79579,
-  "2022-04-20": 79634,
-  "2022-04-21": 79681,
-  "2022-04-22": 79731,
-  "2022-04-23": 79787,
-  "2022-04-24": 79862,
-  "2022-04-25": 79913,
-  "2022-04-26": 79943,
-  "2022-04-27": 79985,
-  "2022-04-28": 80045,
-  "2022-04-29": 80141,
-  "2022-04-30": 80205,
-  "2022-05-01": 80253,
-  "2022-05-02": 80253,
-  "2022-05-03": 80290,
-  "2022-05-04": 80336,
-  "2022-05-05": 80385,
-  "2022-05-06": 80432,
-  "2022-05-07": 80495,
-  "2022-05-08": 80574,
-  "2022-05-09": 80585,
-  "2022-05-10": 80624,
-  "2022-05-11": 80664,
-  "2022-05-12": 80700,
-  "2022-05-13": 80744,
-  "2022-05-14": 80805,
-  "2022-05-15": 80885,
-  "2022-05-16": 80937,
-  "2022-05-17": 80982,
-  "2022-05-18": 81030,
-  "2022-05-19": 81068,
-  "2022-05-20": 81110,
-  "2022-05-21": 81215,
-  "2022-05-22": 81215,
-  "2022-05-23": 81266,
-  "2022-05-24": 81310,
-  "2022-05-25": 81351,
-  "2022-05-26": 81398,
-  "2022-05-27": 81448,
-  "2022-05-28": 81495,
-  "2022-05-29": 81542,
-  "2022-05-30": 81600,
-  "2022-05-31": 81655,
-  "2022-06-01": 81735,
-  "2022-06-02": 81739,
-  "2022-06-03": 81770,
-  "2022-06-04": 81823,
-  "2022-06-05": 81879,
-  "2022-06-06": 81921,
-  "2022-06-07": 81961,
-  "2022-06-08": 81998,
-  "2022-06-09": 82018,
-  "2022-06-10": 82055,
-  "2022-06-11": 82098,
-  "2022-06-12": 82147,
-  "2022-06-13": 82185,
-  "2022-06-14": 82234,
-  "2022-06-15": 82273,
-  "2022-06-16": 82321,
-  "2022-06-17": 82370,
-  "2022-06-18": 82481,
-  "2022-06-19": 82665,
-  "2022-06-20": 82665,
-  "2022-06-21": 82734,
-  "2022-06-22": 82853,
-  "2022-06-23": 82853,
-  "2022-06-24": 82910,
-  "2022-06-25": 82958,
-  "2022-06-26": 83008,
-  "2022-06-27": 83066,
-  "2022-06-28": 83099,
-  "2022-06-29": 83129,
-  "2022-06-30": 83191,
-  "2022-07-01": 83248,
-  "2022-07-02": 83298,
-  "2022-07-03": 83362,
-  "2022-07-04": 83447,
-  "2022-07-05": 83447,
-  "2022-07-06": 83447,
-  "2022-07-07": 83556,
-  "2022-07-08": 83593,
-  "2022-07-09": 83646,
-  "2022-07-10": 83712,
-  "2022-07-11": 83749,
-  "2022-07-12": 83797,
-  "2022-07-13": 83837,
-  "2022-07-14": 83873,
-  "2022-07-15": 83934,
-  "2022-07-16": 84005,
-  "2022-07-17": 84056,
-  "2022-07-18": 84112,
-  "2022-07-19": 84181,
-  "2022-07-20": 84231,
-  "2022-07-21": 84270,
-  "2022-07-22": 84324,
-  "2022-07-23": 84378,
-  "2022-07-24": 84435,
-  "2022-07-25": 84493,
-  "2022-07-26": 84533,
-  "2022-07-27": 84587,
-  "2022-07-28": 84651,
-  "2022-07-29": 84700,
-  "2022-07-30": 84841,
-  "2022-07-31": 84841,
-  "2022-08-01": 84895,
-  "2022-08-02": 84978,
-  "2022-08-03": 84978,
-  "2022-08-04": 85025,
-  "2022-08-05": 85082,
-  "2022-08-06": 85134,
-  "2022-08-07": 85197,
-  "2022-08-08": 85253,
-  "2022-08-09": 85295,
-  "2022-08-10": 85354,
-  "2022-08-11": 85386,
-  "2022-08-12": 85439,
-  "2022-08-13": 85486,
-  "2022-08-14": 85538,
-  "2022-08-15": 85595,
-  "2022-08-16": 85645,
-  "2022-08-17": 85678,
-  "2022-08-18": 85722,
-  "2022-08-19": 85763,
-  "2022-08-20": 85814,
-  "2022-08-21": 85878,
-  "2022-08-22": 85941,
-  "2022-08-23": 86001,
-  "2022-08-24": 86046,
-  "2022-08-25": 86090,
-  "2022-08-26": 86157,
-  "2022-08-27": 86208,
-  "2022-08-28": 86283,
-  "2022-08-29": 86334,
-  "2022-08-30": 86360,
-  "2022-08-31": 86390,
-  "2022-09-01": 86401,
-  "2022-09-02": 86426,
-  "2022-09-03": 86419,
-  "2022-09-04": 86452,
-  "2022-09-05": 86476,
-  "2022-09-06": 86512,
-  "2022-09-07": 86566,
-  "2022-09-09": 86663,
-  "2022-09-10": 86725,
-  "2022-09-11": 86778,
-  "2022-09-12": 86827,
-  "2022-09-13": 86880,
-  "2022-09-15": 86975,
-  "2022-09-16": 87022,
-  "2022-09-17": 87082,
-  "2022-09-18": 87124,
-  "2022-09-19": 87173,
-  "2022-09-20": 87215,
-  "2022-09-21": 87261,
-  "2022-09-22": 87312,
-  "2022-09-23": 87363,
-  "2022-09-24": 87363,
-  "2022-09-25": 87454,
-  "2022-09-26": 87509,
-  "2022-09-27": 87553,
-  "2022-09-28": 87589,
-  "2022-09-29": 87631,
-  "2022-09-30": 87666,
-  "2022-10-01": 87709,
-  "2022-10-02": 87748,
-  "2022-10-03": 87793,
-  "2022-10-04": 87848,
-  "2022-10-05": 87896,
-  "2022-10-06": 87950,
-  "2022-10-07": 88001,
-  "2022-10-08": 88045,
-  "2022-10-09": 88147,
-  "2022-10-10": 88157,
-  "2022-10-11": 88199,
-  "2022-10-12": 88256,
-  "2022-10-13": 88309,
-  "2022-10-14": 88350,
-  "2022-10-15": 88408,
-  "2022-10-16": 88470,
-  "2022-10-17": 88535,
-  "2022-10-18": 88603,
-  "2022-10-19": 88667,
-  "2022-10-20": 88716,
-  "2022-10-21": 88767,
-  "2022-10-22": 88851,
-  "2022-10-23": 88910,
-  "2022-10-24": 88951,
-  "2022-10-25": 88991,
-  "2022-10-26": 89048,
-  "2022-10-27": 89096,
-  "2022-10-28": 89166,
-  "2022-10-29": 89232,
-  "2022-10-30": 89285,
-  "2022-10-31": 89336,
-  "2022-11-01": 89396,
-  "2022-11-02": 89437,
-  "2022-11-03": 89481,
-  "2022-11-04": 89537,
-  "2022-11-05": 89590,
-  "2022-11-06": 89646,
-  "2022-11-07": 89690,
-  "2022-11-08": 89720,
-  "2022-11-09": 89750,
-  "2022-11-10": 89772,
-  "2022-11-11": 89807,
-  "2022-11-12": 89863,
-  "2022-11-13": 89898,
-  "2022-11-14": 89942,
-  "2022-11-15": 89984,
-  "2022-11-16": 90022,
-  "2022-11-17": 90061,
-  "2022-11-18": 90074,
-  "2022-11-19": 90092,
-  "2022-11-20": 90148,
-  "2022-11-21": 90200,
-  "2022-11-22": 90232,
-  "2022-11-23": 90267,
-  "2022-11-24": 90336,
-  "2022-11-25": 90395,
-  "2022-11-26": 90436,
-  "2022-11-27": 90475,
-  "2022-11-28": 90510,
-  "2022-11-29": 90552,
-  "2022-11-30": 90587,
-  "2022-12-01": 90627,
-  "2022-12-02": 90659,
-  "2022-12-03": 90748,
-  "2022-12-04": 90825,
-  "2022-12-05": 90865,
-  "2022-12-06": 90935,
-  "2022-12-07": 90983,
-  "2022-12-08": 91030,
-  "2022-12-09": 91109,
-  "2022-12-10": 91151,
-  "2022-12-11": 91189,
-  "2022-12-12": 91239,
-  "2022-12-13": 91276,
-  "2022-12-14": 91319,
-  "2022-12-15": 91352,
-  "2022-12-16": 91397,
-  "2022-12-17": 91438,
-  "2022-12-18": 91484,
-  "2022-12-19": 91511,
-  "2022-12-20": 91584,
-  "2022-12-21": 91584,
-  "2022-12-22": 91620,
-  "2022-12-24": 91735,
-  "2022-12-25": 91770,
-  "2022-12-26": 91803,
-  "2022-12-27": 91856,
-  "2022-12-28": 91894,
-  "2022-12-29": 91947,
-  "2022-12-30": 91987,
-  "2022-12-31": 92050,
-  "2023-01-01": 92101,
-  "2023-01-02": 92159,
-  "2023-01-03": 92190,
-  "2023-01-04": 92221,
-  "2023-01-05": 92271,
-  "2023-01-06": 92327,
-  "2023-01-07": 92430,
-  "2023-01-08": 92444,
-  "2023-01-09": 92497,
-  "2023-01-10": 92534,
-  "2023-01-11": 92570,
-  "2023-01-12": 92614,
-  "2023-01-13": 92659,
-  "2023-01-14": 92781,
-  "2023-01-15": 92792,
-  "2023-01-16": 92858,
-  "2023-01-17": 92901,
-  "2023-01-18": 92953,
-  "2023-01-19": 92994,
-  "2023-01-20": 93037,
-  "2023-01-21": 93100,
-  "2023-01-22": 93140,
-  "2023-01-23": 93209,
-  "2023-01-24": 93268,
-  "2023-01-25": 93321,
-  "2023-01-26": 93380,
-  "2023-01-27": 93448,
-  "2023-01-28": 93515,
-  "2023-01-29": 93604,
-  "2023-01-30": 93662,
-  "2023-01-31": 93662,
-  "2023-02-01": 93736,
-  "2023-02-02": 93783,
-  "2023-02-03": 93843,
-  "2023-02-04": 93900,
-  "2023-02-05": 93961,
-  "2023-02-06": 93995,
-  "2023-02-07": 94055,
-  "2023-02-08": 94167,
-  "2023-02-09": 94167,
-  "2023-02-10": 94209,
-  "2023-02-11": 94280,
-  "2023-02-12": 94421,
-  "2023-02-13": 94463,
-  "2023-02-14": 94463,
-  "2023-02-15": 94509,
-  "2023-02-16": 94550,
-  "2023-02-17": 94603,
-  "2023-02-18": 94733,
-  "2023-02-19": 94737,
-  "2023-02-20": 94787,
-  "2023-02-21": 94848,
-  "2023-02-22": 94899,
-  "2023-02-23": 94954,
-  "2023-02-24": 94998,
-  "2023-02-25": 95075,
-  "2023-02-26": 95124,
-  "2023-02-27": 95213,
-  "2023-02-28": 95213,
-  "2023-03-01": 95258,
-  "2023-03-02": 95285,
-  "2023-03-03": 95346,
-  "2023-03-04": 95409,
-  "2023-03-05": 95572,
-  "2023-03-06": 95572,
-  "2023-03-07": 95641,
-  "2023-03-08": 95712,
-  "2023-03-09": 95776,
-  "2023-03-10": 95838,
-  "2023-03-11": 95919,
-  "2023-03-12": 96011,
-  "2023-03-13": 96078,
-  "2023-03-14": 96148,
-  "2023-03-15": 96194,
-  "2023-03-16": 96194,
-  "2023-03-17": 96194,
-  "2023-03-18": 96439,
-  "2023-03-19": 96439,
-  "2023-03-20": 96593,
-  "2023-03-21": 96658,
-  "2023-03-22": 96709,
-  "2023-03-23": 96771,
-  "2023-03-24": 96771,
-  "2023-03-25": 96874,
-  "2023-03-26": 96954,
-  "2023-03-27": 97002,
-  "2023-03-28": 97040,
-  "2023-03-29": 97089,
-  "2023-03-30": 97177,
-  "2023-03-31": 97177,
-  "2023-04-01": 97253,
-  "2023-04-02": 97321,
-  "2023-04-03": 97361,
-  "2023-04-04": 97406,
-  "2023-04-05": 97457,
-  "2023-04-06": 97519,
-  "2023-04-07": 97601,
-  "2023-04-09": 97723,
-  "2023-04-10": 97775,
-  "2023-04-11": 97866,
-  "2023-04-12": 97866,
-  "2023-04-13": 97903,
-  "2023-04-14": 97974,
-  "2023-04-15": 98042,
-  "2023-04-16": 98109,
-  "2023-04-17": 98187,
-  "2023-04-18": 98234,
-  "2023-04-19": 98298,
-  "2023-04-20": 98363,
-  "2023-04-21": 98429,
-  "2023-04-22": 98513,
-  "2023-04-23": 98623,
-  "2023-04-24": 98718,
-  "2023-04-25": 98814,
-  "2023-04-26": 98896,
-  "2023-04-27": 98980,
-  "2023-04-28": 99051,
-  "2023-04-29": 99138,
-  "2023-04-30": 99231,
-  "2023-05-01": 99321,
-  "2023-05-02": 99401,
-  "2023-05-03": 99479,
-  "2023-05-04": 99561,
-  "2023-05-05": 99656,
-  "2023-05-06": 99736,
-  "2023-05-07": 99817,
-  "2023-05-08": 99899,
-  "2023-05-09": 99979,
-  "2023-05-10": 100046,
-  "2023-05-11": 100121,
-  "2023-05-12": 100184,
-  "2023-05-13": 100244,
-  "2023-05-14": 100323,
-  "2023-05-15": 100391,
-  "2023-05-16": 100452,
-  "2023-05-17": 100512,
-  "2023-05-18": 100576,
-  "2023-05-19": 100644,
-  "2023-05-20": 100819,
-  "2023-05-21": 100819,
-  "2023-05-22": 100819,
-  "2023-05-23": 101009,
-  "2023-05-24": 101165,
-  "2023-05-25": 101192,
-  "2023-05-26": 101281,
-  "2023-05-27": 101374,
-  "2023-05-28": 101488,
-  "2023-05-29": 101488,
-  "2023-05-30": 101681,
-  "2023-05-31": 101776,
-  "2023-06-01": 101864,
-  "2023-06-02": 101952,
-  "2023-06-03": 102047,
-  "2023-06-04": 102161,
-  "2023-06-05": 102258,
-  "2023-06-06": 102321,
-  "2023-06-07": 102393,
-  "2023-06-08": 102481,
-  "2023-06-09": 102655,
-  "2023-06-10": 102802,
-  "2023-06-11": 102969,
-  "2023-06-12": 103126,
-  "2023-06-13": 103244,
-  "2023-06-14": 103359,
-  "2023-06-15": 103478,
-  "2023-06-16": 103576,
-  "2023-06-17": 103669,
-  "2023-06-18": 103809,
-  "2023-06-19": 103902,
-  "2023-06-20": 104005,
-  "2023-06-21": 104088,
-  "2023-06-22": 104186,
-  "2023-06-23": 104293,
-  "2023-06-24": 104410,
-  "2023-06-25": 104518,
-  "2023-06-26": 104644,
-  "2023-06-27": 104746,
-  "2023-06-28": 104825,
-  "2023-06-29": 104904,
-  "2023-06-30": 105008,
-  "2023-07-01": 105264,
-  "2023-07-02": 105264,
-  "2023-07-03": 105356,
-  "2023-07-04": 105443,
-  "2023-07-05": 105536,
-  "2023-07-06": 105793,
-  "2023-07-07": 105793,
-  "2023-07-08": 105793,
-  "2023-07-09": 106041,
-  "2023-07-10": 106154,
-  "2023-07-11": 106260,
-  "2023-07-12": 106368,
-  "2023-07-13": 106445,
-  "2023-07-14": 106558,
-  "2023-07-15": 106682,
-  "2023-07-16": 106826,
-  "2023-07-17": 106979,
-  "2023-07-18": 107081,
-  "2023-07-19": 107174,
-  "2023-07-20": 107174,
-  "2023-07-21": 107366,
-  "2023-07-22": 107477,
-  "2023-07-23": 107579,
-  "2023-07-24": 107678,
-  "2023-07-25": 107799,
-  "2023-07-26": 107892,
-  "2023-07-27": 108000,
-  "2023-07-28": 108100,
-  "2023-07-29": 108210,
-  "2023-07-30": 108336,
-  "2023-07-31": 108438,
-  "2023-08-01": 108531,
-  "2023-08-02": 108648,
-  "2023-08-03": 108748,
-  "2023-08-04": 108857,
-  "2023-08-05": 108980,
-  "2023-08-06": 109209,
-  "2023-08-07": 109209,
-  "2023-08-08": 109312,
-  "2023-08-09": 109419,
-  "2023-08-10": 109530,
-  "2023-08-11": 109618,
-  "2023-08-12": 109618,
-  "2023-08-13": 109618,
-  "2023-08-14": 109618,
-  "2023-08-15": 109618,
-  "2023-08-16": 109618,
-  "2023-08-17": 109618,
-  "2023-08-18": 109618,
-  "2023-08-19": 109618,
-  "2023-08-20": 110696,
-  "2023-08-21": 110696,
-  "2023-08-22": 110883,
-  "2023-08-23": 110883,
-  "2023-08-24": 110883,
-  "2023-08-25": 110883,
-  "2023-08-26": 111292,
-  "2023-08-27": 111292,
-  "2023-08-28": 111519,
-  "2023-08-29": 111519,
-  "2023-08-30": 111519,
-  "2023-08-31": 111762,
-  "2023-09-01": 111844,
-  "2023-09-02": 111844,
-  "2023-09-03": 111844,
-  "2023-09-04": 111844,
-  "2023-09-05": 111844,
-  "2023-09-06": 111844,
-  "2023-09-07": 111844,
-  "2023-09-08": 111844,
-  "2023-09-09": 111844,
-  "2023-09-10": 111844,
-  "2023-09-11": 111844,
-  "2023-09-12": 111844,
-  "2023-09-13": 111844,
-  "2023-09-14": 111844,
-  "2023-09-15": 111844,
-  "2023-09-16": 113264,
-  "2023-09-17": 113264,
-  "2023-09-18": 113264,
-  "2023-09-19": 113500,
-  "2023-09-20": 113500,
-  "2023-09-21": 113500,
-  "2023-09-22": 113683,
-  "2023-09-23": 113683,
-  "2023-09-24": 113683,
-  "2023-09-25": 113683,
-  "2023-09-26": 114036,
-  "2023-09-27": 114036,
-  "2023-09-28": 114036,
-  "2023-09-29": 114036,
-  "2023-09-30": 114036,
-  "2023-10-01": 114036,
-  "2023-10-02": 114036,
-  "2023-10-03": 114036,
-  "2023-10-04": 114036,
-  "2023-10-05": 114036,
-  "2023-10-06": 114036,
-  "2023-10-07": 114036,
-  "2023-10-08": 114036,
-  "2023-10-09": 114036,
-  "2023-10-10": 114036,
-  "2023-10-11": 115199,
-  "2023-10-12": 115199,
-  "2023-10-13": 115199,
-  "2023-10-14": 115199,
-  "2023-10-15": 115199,
-  "2023-10-16": 115199,
-  "2023-10-17": 115199,
-  "2023-10-18": 115199,
-  "2023-10-19": 115199,
-  "2023-10-20": 115199,
-  "2023-10-21": 115199,
-  "2023-10-22": 115199,
-  "2023-10-23": 115199,
-  "2023-10-24": 115199,
-  "2023-10-25": 115199,
-  "2023-10-26": 115199,
-  "2023-10-27": 115199,
-  "2023-10-28": 115199,
-  "2023-10-29": 115199,
-  "2023-10-30": 115199,
-  "2023-10-31": 115199,
-  "2023-11-01": 115199,
-  "2023-11-02": 115199,
-  "2023-11-03": 115199,
-  "2023-11-04": 115199,
-  "2023-11-05": 115199,
-  "2023-11-06": 115199,
-  "2023-11-07": 115199,
-  "2023-11-08": 115199,
-  "2023-11-09": 115199,
-  "2023-11-10": 115199,
-  "2023-11-11": 118115,
-  "2023-11-12": 118115,
-  "2023-11-13": 118115,
-  "2023-11-14": 118115,
-  "2023-11-15": 118115,
-  "2023-11-16": 118115,
-  "2023-11-17": 118115,
-  "2023-11-18": 118115,
-  "2023-11-19": 118115,
-  "2023-11-20": 118115,
-  "2023-11-21": 118115,
-  "2023-11-22": 118115,
-  "2023-11-23": 118115,
-  "2023-11-24": 118115,
-  "2023-11-25": 118115,
-  "2023-11-26": 118115,
-  "2023-11-27": 118115,
-  "2023-11-28": 118115,
-  "2023-11-29": 118115,
-  "2023-11-30": 118115,
-  "2023-12-01": 118115,
-  "2023-12-02": 118115,
-  "2023-12-03": 118115,
-  "2023-12-04": 118115,
-  "2023-12-05": 118115,
-  "2023-12-06": 118115,
-  "2023-12-07": 118115,
-  "2023-12-08": 118115,
-  "2023-12-09": 118115,
-  "2023-12-10": 118115,
-  "2023-12-11": 118115,
-  "2023-12-12": 118115,
-  "2023-12-13": 118115,
-  "2023-12-14": 121057,
-  "2023-12-15": 121126,
-  "2023-12-16": 121222,
-  "2023-12-17": 121314,
-  "2023-12-18": 121413,
-  "2023-12-19": 121470,
-  "2023-12-20": 121547,
-  "2023-12-21": 121624,
-  "2023-12-22": 121678,
-  "2023-12-23": 121761,
-  "2023-12-24": 121851,
-  "2023-12-25": 121927,
-  "2023-12-26": 121998,
-  "2023-12-27": 122072,
-  "2023-12-30": 122293,
-  "2023-12-31": 122391,
-  "2024-01-01": 122493,
-  "2024-01-02": 122567,
-  "2024-01-03": 122664
+  "2024-01-17": 124196,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Black Coffee. The essential tracks, all in one playlist.",
+  "name": "This Is Black Coffee",
+  "tracks": [
+    {
+      "album": {
+        "name": "10 Missed Calls (feat. Pharrell Williams & Jozzy)",
+        "url": "https://open.spotify.com/album/6tmZ3UIw6EXNDS3ziB8Xu9"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-10",
+      "duration_ms": 237009,
+      "name": "10 Missed Calls (feat. Pharrell Williams & Jozzy)",
+      "url": "https://open.spotify.com/track/5o1JjtIuYRXBoea4WBZGDc"
+    },
+    {
+      "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404640,
+      "name": "100 Zulu Warriors",
+      "url": "https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Nathan Adams",
+          "url": "https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430066,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/6SJgKMpTkkS3A7OTOOpOo6"
+    },
+    {
+      "album": {
+        "name": "Su Casa",
+        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326586,
+      "name": "Africa Shine",
+      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
+    },
+    {
+      "album": {
+        "name": "Su Casa",
+        "url": "https://open.spotify.com/album/4Dey5FtFdBPkU1uxJ45DL8"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 326586,
+      "name": "Africa Shine",
+      "url": "https://open.spotify.com/track/7uld2wN7GThO54ryAS0ezL"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "NaakMusiQ",
+          "url": "https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 486532,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/3MNzsampqsFhB87Mr0DuLI"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "NaakMusiQ",
+          "url": "https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486532,
+      "name": "Angelina (feat. NaakMusiQ & Mondli Ngcobo)",
+      "url": "https://open.spotify.com/track/0E22prrkBRLjXHHonYrWbS"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-25",
+      "duration_ms": 449106,
+      "name": "Arise And Shine",
+      "url": "https://open.spotify.com/track/4xE4nImgVAFtSADMkupgvm"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 515010,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/5HoVd9a4C9Lu5xvkJ2iWXU"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6MmO8KpXWEyz4qh41tnzhU"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63"
+        }
+      ],
+      "date_added": "2022-11-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 515010,
+      "name": "Buya",
+      "url": "https://open.spotify.com/track/7xZj6OXBXA274dQUMnbU06"
+    },
+    {
+      "album": {
+        "name": "Buya",
+        "url": "https://open.spotify.com/album/6hX8aeKrxbZjRKjOuYZg1C"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Toshi",
+          "url": "https://open.spotify.com/artist/2bIg95CGHmriFZX7MsnFRK"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-24",
+      "duration_ms": 424796,
+      "name": "Buya - Loco Dice Kliptown Love Remix",
+      "url": "https://open.spotify.com/track/7JDFf5fWpR9bhpk7UGjpiy"
+    },
+    {
+      "album": {
+        "name": "Turn Me On / Come To Me",
+        "url": "https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 477000,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/1eIhSaVLP46opgA6baksuB"
+    },
+    {
+      "album": {
+        "name": "Come With Me",
+        "url": "https://open.spotify.com/album/3oCLiovKu5rEDwRn5OMULV"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mque",
+          "url": "https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 197710,
+      "name": "Come With Me",
+      "url": "https://open.spotify.com/track/1i9Ag3QndpJdr8nxWDCjrK"
+    },
+    {
+      "album": {
+        "name": "Come With Me (feat. Mque)",
+        "url": "https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mque",
+          "url": "https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197710,
+      "name": "Come With Me (feat. Mque)",
+      "url": "https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd"
+    },
+    {
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+        }
+      ],
+      "date_added": "2022-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466375,
+      "name": "Crazy - Quentin Harris Remix",
+      "url": "https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v"
+    },
+    {
+      "album": {
+        "name": "Crazy (The Remixes)",
+        "url": "https://open.spotify.com/album/7yjLZJERrZNHb2OojbmqBO"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Thiwe",
+          "url": "https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve"
+        },
+        {
+          "name": "Quentin Harris",
+          "url": "https://open.spotify.com/artist/0XRU3hfrxwicmk4wRkqs8B"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 466375,
+      "name": "Crazy - Quentin Harris Remix",
+      "url": "https://open.spotify.com/track/6iqdyQpUgpO2dYXlqDoi5s"
+    },
+    {
+      "album": {
+        "name": "The Journey Continues",
+        "url": "https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 516146,
+      "name": "Deep In The Bottom - The Jouney Mix",
+      "url": "https://open.spotify.com/track/7sLrlIM34q3YLeAPGFJqFd"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 3302560,
+      "name": "DJ Mix",
+      "url": "https://open.spotify.com/track/0HPsuZ8rZbBf71J34uhYKA"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
+      "duration_ms": 4218426,
+      "name": "DJ Mix 3",
+      "url": "https://open.spotify.com/track/7xZdRkC3g57gOtdFlum2eS"
+    },
+    {
+      "album": {
+        "name": "DO 4 LOVE (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/3BFZZXRwKHB3yTYY0XyrO2"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224281,
+      "name": "DO 4 LOVE - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/16VblNMUDoRu2pwaE6YJT6"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Vuyo",
+          "url": "https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464453,
+      "name": "Don't You (Give Up) - Live",
+      "url": "https://open.spotify.com/track/6O4CHPJQdyTfPv1AZC667n"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191258,
+      "name": "Drive (feat. Delilah Montagu) - Edit",
+      "url": "https://open.spotify.com/track/5cOJ2APoxJfaGjEC7CYc0K"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 191258,
+      "name": "Drive - Edit",
+      "url": "https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF"
+    },
+    {
+      "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404693,
+      "name": "Even Though",
+      "url": "https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 442962,
+      "name": "Extra Time On You",
+      "url": "https://open.spotify.com/track/2pesaSV3G2scS7BWywijgA"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Portia Monique",
+          "url": "https://open.spotify.com/artist/4Gfgfu8VYfDlejKCKU9mpc"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442962,
+      "name": "Extra Time On You (feat. Portia Monique)",
+      "url": "https://open.spotify.com/track/61ZwhDqqQCMoK29InoEdKD"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Una Rams",
+          "url": "https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-25",
+      "duration_ms": 269504,
+      "name": "Flava (feat. Una Rams & Tellaman)",
+      "url": "https://open.spotify.com/track/2mhkxRse3yU8bx6zJuiNI7"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zonke",
+          "url": "https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371640,
+      "name": "Gardens Of Eden",
+      "url": "https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250337,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Khensy",
+          "url": "https://open.spotify.com/artist/4jOzoKagU60KweoyVXvPt6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-02",
+      "duration_ms": 472920,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/6ExcXkqOxuYHeDdOGzmHfY"
+    },
+    {
+      "album": {
+        "name": "Best of 2016",
+        "url": "https://open.spotify.com/album/3vuX1ArMyftfYG6l9GiuXN"
+      },
+      "artists": [
+        {
+          "name": "Marie Joly",
+          "url": "https://open.spotify.com/artist/6dYPZNt3MHNq6XMgmIUQjr"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Rebecca Murray",
+          "url": "https://open.spotify.com/artist/2jzgFkQaQsMQ0AdAfdpF0T"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391368,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/6qpJYkBdxdkIOYI3oSeJok"
+    },
+    {
+      "album": {
+        "name": "Horizon Red (Black Coffee Remix)",
+        "url": "https://open.spotify.com/album/31LCf0hztvBsdB0HB5T2TC"
+      },
+      "artists": [
+        {
+          "name": "Made By Pete",
+          "url": "https://open.spotify.com/artist/4yLpA3QZ00hrlmJ0yX0TVa"
+        },
+        {
+          "name": "Zoe Kypri",
+          "url": "https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 565063,
+      "name": "Horizon Red - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/5iBtd2rolPOVUHB2E43Z66"
+    },
+    {
+      "album": {
+        "name": "I Have Faith (feat. Mondli Ngcobo)",
+        "url": "https://open.spotify.com/album/0fDot2YoFm5ugns4PetfyS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494594,
+      "name": "I Have Faith (feat. Mondli Ngcobo)",
+      "url": "https://open.spotify.com/track/5J4iGuswrxrUVx8THhbDnI"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/3C1iOOVTmPNAe3a1exn0LL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376693,
+      "name": "I Know What's On Your Mind",
+      "url": "https://open.spotify.com/track/70IaMEsiO8r9KWP79AYz3q"
+    },
+    {
+      "album": {
+        "name": "Undercover Remixes",
+        "url": "https://open.spotify.com/album/7yxBRaNkoAVxLGwnjFXc2C"
+      },
+      "artists": [
+        {
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/365Fm0OgkStvN1wWzeyfDN"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Ethan White",
+          "url": "https://open.spotify.com/artist/2qD93ieKCaxZuUQJi2R739"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463725,
+      "name": "I Know What's on Your Mind - Ethan White Remix",
+      "url": "https://open.spotify.com/track/0dS3yI8yVfstJBRTUaVkSH"
+    },
+    {
+      "album": {
+        "name": "I'll Find You (feat. Cara Frew)",
+        "url": "https://open.spotify.com/album/31CJ5vMMpstJibWF6ESDUD"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Cara Frew",
+          "url": "https://open.spotify.com/artist/72YhLvw3aIVCUSjL6G8qSf"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 588412,
+      "name": "I'll Find You (feat. Cara Frew)",
+      "url": "https://open.spotify.com/track/1gqlRiladdiWHmQU8GwtwE"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 462560,
+      "name": "I'm Fallin (feat. RY X)",
+      "url": "https://open.spotify.com/track/6PlB9QbrAfUwKX0g0GHRMY"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462560,
+      "name": "I'm Fallin (feat. RY X) (feat. RY X)",
+      "url": "https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY"
+    },
+    {
+      "album": {
+        "name": "Music Is King",
+        "url": "https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 290533,
+      "name": "Ilala",
+      "url": "https://open.spotify.com/track/6mbcIiKVptYN6dD7MuTTJS"
+    },
+    {
+      "album": {
+        "name": "Relaxing Moments - Exquisite Chillout Vibes",
+        "url": "https://open.spotify.com/album/5pzPX4bgqZd46AJUhnaXao"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-29",
+      "duration_ms": 312058,
+      "name": "In Tunes Wave",
+      "url": "https://open.spotify.com/track/0eXO34M9MC8RJwqkenfEhy"
+    },
+    {
+      "album": {
+        "name": "Just Relax ( a Great Collection of Chillout Music )",
+        "url": "https://open.spotify.com/album/1DxiC2b9joB3XOjcpirhtH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 312000,
+      "name": "In Tunes Wave - Original Mix",
+      "url": "https://open.spotify.com/track/7HY0sGSdHdj8RTB1n42WVD"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 552586,
+      "name": "Inkodlo Kamashimane",
+      "url": "https://open.spotify.com/track/5hI4ehQIIuPZWSjjXu61JW"
+    },
+    {
+      "album": {
+        "name": "The Journey Continues",
+        "url": "https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Ribatone",
+          "url": "https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-01",
+      "duration_ms": 473000,
+      "name": "Inseparable",
+      "url": "https://open.spotify.com/track/7BoO5GyetZyPgzuC6VOQtv"
+    },
+    {
+      "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Busi Mhlongo",
+          "url": "https://open.spotify.com/artist/4QlgeNz8Uf8xF0f0LNjCbf"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420200,
+      "name": "Izizwe",
+      "url": "https://open.spotify.com/track/0TOScmuHq8iS1GblTVqQMq"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387106,
+      "name": "Juju",
+      "url": "https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Kenny Bobien",
+          "url": "https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414720,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/0R1OKth6oLvhDDvjBoHxWW"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2022-03-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 217214,
+      "name": "LaLaLa",
+      "url": "https://open.spotify.com/track/7qgzhAClZwyz2uEA43lMwg"
+    },
+    {
+      "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342400,
+      "name": "Lo Mhlaba",
+      "url": "https://open.spotify.com/track/0arhdzXjxtfKhe1KxEOzBq"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Angelos",
+          "url": "https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq"
+        },
+        {
+          "name": "Jinadu",
+          "url": "https://open.spotify.com/artist/0o9k6CmDuy07gP28ov82wp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 364951,
+      "name": "Lost (with Angelos feat. Jinadu)",
+      "url": "https://open.spotify.com/track/4MjW0jp8b9hAe1dmzJIBCG"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Lungi Naidoo",
+          "url": "https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz"
+        },
+        {
+          "name": "Ribatone",
+          "url": "https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 490540,
+      "name": "Love On Fire",
+      "url": "https://open.spotify.com/track/5EsXm7CUiVNAW1YNnhr60n"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Lungi Naidoo",
+          "url": "https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz"
+        },
+        {
+          "name": "Ribatone",
+          "url": "https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490540,
+      "name": "Love On Fire (feat. Lungi Naidoo & Ribatone)",
+      "url": "https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mondli Ngcobo",
+          "url": "https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-10",
+      "duration_ms": 402586,
+      "name": "Lyon To Kwazulu",
+      "url": "https://open.spotify.com/track/5tPvQ5AZzztkaI8BbFr3n7"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376480,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/5WRoeCefMDsxn9zrsqUqhK"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Alexander James",
+          "url": "https://open.spotify.com/artist/7GoaKCBU2zaeAdt2yHtIE3"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-10",
+      "duration_ms": 464533,
+      "name": "Masquerade - Live",
+      "url": "https://open.spotify.com/track/1SweRBAPO1VjVNq717zi1d"
+    },
+    {
+      "album": {
+        "name": "Black Coffee",
+        "url": "https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343413,
+      "name": "Molo Sweetie",
+      "url": "https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o"
+    },
+    {
+      "album": {
+        "name": "The Journey Continues",
+        "url": "https://open.spotify.com/album/1aV3c5SM9qX93Q9Y8mzB67"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Ribatone",
+          "url": "https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-22",
+      "duration_ms": 335573,
+      "name": "Music Is The Answer",
+      "url": "https://open.spotify.com/track/5GD2wVVvA8gdOaosPrEDNr"
+    },
+    {
+      "album": {
+        "name": "S\u00f3nar 25: An advanced music mixtape by Black Coffee",
+        "url": "https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440920,
+      "name": "Muy\u00e8 (Black Coffee Remix)",
+      "url": "https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5"
+    },
+    {
+      "album": {
+        "name": "Music Is King",
+        "url": "https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Samthing Soweto",
+          "url": "https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 157253,
+      "name": "Ndod'emnyama",
+      "url": "https://open.spotify.com/track/2ezXfBFmYYoiPUcQeCt494"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/0JqY1VDNn7p92rsvUGs6m1"
+    },
+    {
+      "album": {
+        "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+        "url": "https://open.spotify.com/album/0GqBHBdVgx0H48cON75KE4"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-07",
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/12aAoKT43mVGdW1ofZVCwr"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199768,
+      "name": "Never Gonna Forget (with Diplo feat. Elderbrook)",
+      "url": "https://open.spotify.com/track/68GFN13nt7FkVT6p55TTON"
+    },
+    {
+      "album": {
+        "name": "Never Saw You Coming (feat. Tsepo)",
+        "url": "https://open.spotify.com/album/7o2ey4eoyW8t7H9dHux8He"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Tsepo",
+          "url": "https://open.spotify.com/artist/2ddrvJRLukdqsvi7HaLTPt"
+        },
+        {
+          "name": "DJ Spinna",
+          "url": "https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508266,
+      "name": "Never Saw You Coming (feat. Tsepo) - DJ Spinna Galactic Vocal Mix",
+      "url": "https://open.spotify.com/track/12NDXliaBBgklpBNkUlyVI"
+    },
+    {
+      "album": {
+        "name": "Ready For The World",
+        "url": "https://open.spotify.com/album/02PUNZUgLIbRwg2QVKEfAN"
+      },
+      "artists": [
+        {
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Kaylow",
+          "url": "https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473401,
+      "name": "Ready For The World - Original Mix",
+      "url": "https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 268886,
+      "name": "Ready For You (feat. Celeste)",
+      "url": "https://open.spotify.com/track/69UTmQOhqIRoGcTWFUidSZ"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Celeste",
+          "url": "https://open.spotify.com/artist/38HQUXPU9vnrA8TbkUtTIQ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268886,
+      "name": "Ready For You (feat. Celeste) (feat. Celeste)",
+      "url": "https://open.spotify.com/track/6M8xfsxff0q3u4UTg5WcTI"
+    },
+    {
+      "album": {
+        "name": "Rock My World",
+        "url": "https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Soulstar",
+          "url": "https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431274,
+      "name": "Rock My World - Rancido Remix",
+      "url": "https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w"
+    },
+    {
+      "album": {
+        "name": "SBCNCSLY",
+        "url": "https://open.spotify.com/album/1uaZVqFa2S1skSpLNZ0oHp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/0DWIaEumpHd41vATkCGUK2"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384555,
+      "name": "SBCNCSLY",
+      "url": "https://open.spotify.com/track/3CP1ehiVZEOl7IZ6dORXuS"
+    },
+    {
+      "album": {
+        "name": "SIAM (Semua Itu Ada Masanya)",
+        "url": "https://open.spotify.com/album/5xvbOO44sIr8vEQMj9fnzk"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-29",
+      "duration_ms": 231420,
+      "name": "SIAM - Semua Itu Ada Masanya",
+      "url": "https://open.spotify.com/track/59JVug1LzkF7oBk0qJuJdS"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zano",
+          "url": "https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402613,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH"
+    },
+    {
+      "album": {
+        "name": "Black Coffee",
+        "url": "https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E"
+      },
+      "artists": [
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 452666,
+      "name": "Stimela (Coal Train) - Black Coffee Remix",
+      "url": "https://open.spotify.com/track/5zc9sDB5u1KGA1CF8ej2gY"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/21BmtOPzEvvsL3rNTgIMHx"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Azola",
+          "url": "https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 425733,
+      "name": "Stuck In Your Love",
+      "url": "https://open.spotify.com/track/0XKk5tVNAR4gGxwhc8SAcV"
+    },
+    {
+      "album": {
+        "name": "Pieces Of Me",
+        "url": "https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Azola",
+          "url": "https://open.spotify.com/artist/7M9doTdfKCnqeW9whjgcuh"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425733,
+      "name": "Stuck In Your Love (feat. Azola)",
+      "url": "https://open.spotify.com/track/6REbbKoksIc127eDJxz8GC"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433626,
+      "name": "Superman",
+      "url": "https://open.spotify.com/track/752l1xT5G1OHzg71ZBnTyZ"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Zakes Bantwini",
+          "url": "https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397426,
+      "name": "Take It All Off",
+      "url": "https://open.spotify.com/track/3GTjWvuD6D78ZPRoXOBAt1"
+    },
+    {
+      "album": {
+        "name": "Home Brewed",
+        "url": "https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Black Moses",
+          "url": "https://open.spotify.com/artist/2GajwtMQTCxHl4mTOZ3RnE"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387106,
+      "name": "The Chameleon",
+      "url": "https://open.spotify.com/track/3XmdU29brLZmGYT8ZFTZQX"
+    },
+    {
+      "album": {
+        "name": "The Rapture Pt.III",
+        "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
+      },
+      "artists": [
+        {
+          "name": "&ME",
+          "url": "https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417812,
+      "name": "The Rapture Pt.III",
+      "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Cassie",
+          "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-02",
+      "duration_ms": 292811,
+      "name": "Time (feat. Cassie)",
+      "url": "https://open.spotify.com/track/5WHoJSG9bkSJfVlyf3PrqO"
+    },
+    {
+      "album": {
+        "name": "Traveller (Extended Mix)",
+        "url": "https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Nomsa Mazwai",
+          "url": "https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5"
+        },
+        {
+          "name": "Black Motion",
+          "url": "https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439308,
+      "name": "Traveller - Extended Mix",
+      "url": "https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU"
+    },
+    {
+      "album": {
+        "name": "XMAS Lounge Tunes (Special Selected Lounge Tracks for Chilling Under the Christmas Tree)",
+        "url": "https://open.spotify.com/album/2I0vZwlfzDdNu3Feqn45rh"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 445279,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/1Rat7GGiIeGUvGJSu9Seca"
+    },
+    {
+      "album": {
+        "name": "Turn Me On / Come To Me",
+        "url": "https://open.spotify.com/album/2wVWjbRa5CuecQyf9Iu6en"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 445746,
+      "name": "Turn Me On",
+      "url": "https://open.spotify.com/track/7aUlBqAHppttybHHYrefZk"
+    },
+    {
+      "album": {
+        "name": "Music Is King",
+        "url": "https://open.spotify.com/album/7FbVyiO5m2irjYB6t5JYCH"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Mbuso Khoza",
+          "url": "https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-26",
+      "duration_ms": 414146,
+      "name": "UThando",
+      "url": "https://open.spotify.com/track/3wwFFql3qfSd4fxLnTvJdV"
+    },
+    {
+      "album": {
+        "name": "Platinumb Heart Beating",
+        "url": "https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350000,
+      "name": "Uthando Lwam",
+      "url": "https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI"
+    },
+    {
+      "album": {
+        "name": "Africa Rising",
+        "url": "https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 205266,
+      "name": "Wathula Nje - Live",
+      "url": "https://open.spotify.com/track/4xWKIXZj0vlzUoDnnvD9jQ"
+    },
+    {
+      "album": {
+        "name": "We Are One",
+        "url": "https://open.spotify.com/album/2lUBjtdiF93gxS7tlEbqAz"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Hugh Masekela",
+          "url": "https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478310,
+      "name": "We Are One - Black Coffee Original Dub",
+      "url": "https://open.spotify.com/track/0yRbdmtSZIAt29prSfst2U"
+    },
+    {
+      "album": {
+        "name": "We Dance Again",
+        "url": "https://open.spotify.com/album/2ASR0MV1bBqDKVaS3jDxGD"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Nakhane",
+          "url": "https://open.spotify.com/artist/2nrShcJFP8D5bQT8RgdBhH"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281193,
+      "name": "We Dance Again",
+      "url": "https://open.spotify.com/track/6HvCOJvbEzVTmEFmv79pTf"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/7iRNDskXthAJT8k6k4qZzV"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 272411,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/5TsLsLTg3kTuv2RMRL3vaB"
+    },
+    {
+      "album": {
+        "name": "Wish You Were Here (feat. Msaki)",
+        "url": "https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272411,
+      "name": "Wish You Were Here (feat. Msaki)",
+      "url": "https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Maxine Ashley",
+          "url": "https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 375917,
+      "name": "You Need Me (feat. Maxine Ashley & Sun-El Musician)",
+      "url": "https://open.spotify.com/track/2ieFaRzeA5yfRjanzaBS8Q"
+    },
+    {
+      "album": {
+        "name": "Subconsciously",
+        "url": "https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Maxine Ashley",
+          "url": "https://open.spotify.com/artist/5fYyfkrYbHDQreGr7cUul0"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375917,
+      "name": "You Need Me (feat. Maxine Ashley & Sun-El Musician) (feat. Maxine Ashley & Sun-El Musician)",
+      "url": "https://open.spotify.com/track/5XXmLfa7hehw6WNPntuvFx"
+    },
+    {
+      "album": {
+        "name": "Have Another One",
+        "url": "https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373640,
+      "name": "You Turn Me On",
+      "url": "https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv"
+    },
+    {
+      "album": {
+        "name": "Your Eyes",
+        "url": "https://open.spotify.com/album/5eBzVYiQ4l3SOJyDIfSYMP"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 250175,
+      "name": "Your Eyes",
+      "url": "https://open.spotify.com/track/3E9mI43Xj65JMRcKZMIxtV"
+    },
+    {
+      "album": {
+        "name": "Your Eyes (feat. Shekhinah)",
+        "url": "https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf"
+      },
+      "artists": [
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250175,
+      "name": "Your Eyes (feat. Shekhinah)",
+      "url": "https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c"
 }

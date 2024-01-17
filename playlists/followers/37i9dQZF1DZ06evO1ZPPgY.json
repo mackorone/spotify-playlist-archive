@@ -1,735 +1,1711 @@
 {
-  "2021-12-25": 166692,
-  "2021-12-26": 166768,
-  "2021-12-27": 166884,
-  "2021-12-28": 166885,
-  "2021-12-29": 166950,
-  "2021-12-30": 166998,
-  "2021-12-31": 167069,
-  "2022-01-01": 167244,
-  "2022-01-02": 167256,
-  "2022-01-03": 167298,
-  "2022-01-04": 167350,
-  "2022-01-05": 167378,
-  "2022-01-06": 167441,
-  "2022-01-07": 167493,
-  "2022-01-08": 167661,
-  "2022-01-09": 167664,
-  "2022-01-10": 167727,
-  "2022-01-11": 167765,
-  "2022-01-12": 167823,
-  "2022-01-13": 167881,
-  "2022-01-14": 167940,
-  "2022-01-15": 168056,
-  "2022-01-16": 168058,
-  "2022-01-17": 168193,
-  "2022-01-18": 168194,
-  "2022-01-19": 168216,
-  "2022-01-20": 168270,
-  "2022-01-21": 168331,
-  "2022-01-22": 168411,
-  "2022-01-23": 168498,
-  "2022-01-24": 168576,
-  "2022-01-25": 168618,
-  "2022-01-26": 168658,
-  "2022-01-27": 168697,
-  "2022-01-28": 168764,
-  "2022-01-29": 168827,
-  "2022-01-30": 168915,
-  "2022-01-31": 168991,
-  "2022-02-01": 169010,
-  "2022-02-02": 169069,
-  "2022-02-03": 169105,
-  "2022-02-04": 169161,
-  "2022-02-05": 169227,
-  "2022-02-06": 169292,
-  "2022-02-07": 169350,
-  "2022-02-08": 169397,
-  "2022-02-09": 169448,
-  "2022-02-10": 169489,
-  "2022-02-11": 169543,
-  "2022-02-12": 169639,
-  "2022-02-13": 169732,
-  "2022-02-14": 169808,
-  "2022-02-15": 169907,
-  "2022-02-16": 169958,
-  "2022-02-17": 170026,
-  "2022-02-18": 170079,
-  "2022-02-19": 170143,
-  "2022-02-20": 170223,
-  "2022-02-21": 170290,
-  "2022-02-22": 170347,
-  "2022-02-23": 170401,
-  "2022-02-24": 170455,
-  "2022-02-25": 170497,
-  "2022-02-26": 170542,
-  "2022-02-27": 170654,
-  "2022-02-28": 170654,
-  "2022-03-01": 170699,
-  "2022-03-02": 170730,
-  "2022-03-03": 170780,
-  "2022-03-04": 170827,
-  "2022-03-05": 170873,
-  "2022-03-06": 170980,
-  "2022-03-07": 171047,
-  "2022-03-08": 171100,
-  "2022-03-09": 171155,
-  "2022-03-10": 171195,
-  "2022-03-11": 171249,
-  "2022-03-12": 171312,
-  "2022-03-13": 171385,
-  "2022-03-14": 171453,
-  "2022-03-15": 171495,
-  "2022-03-16": 171539,
-  "2022-03-17": 171587,
-  "2022-03-18": 171660,
-  "2022-03-19": 171691,
-  "2022-03-20": 171691,
-  "2022-03-21": 171818,
-  "2022-03-22": 171860,
-  "2022-03-23": 171894,
-  "2022-03-24": 171955,
-  "2022-03-25": 172002,
-  "2022-03-26": 172057,
-  "2022-03-27": 172114,
-  "2022-03-28": 172165,
-  "2022-03-30": 172245,
-  "2022-03-31": 172293,
-  "2022-04-01": 172318,
-  "2022-04-02": 172376,
-  "2022-04-03": 172451,
-  "2022-04-04": 172504,
-  "2022-04-05": 172553,
-  "2022-04-06": 172605,
-  "2022-04-07": 172629,
-  "2022-04-08": 172665,
-  "2022-04-09": 172723,
-  "2022-04-10": 172835,
-  "2022-04-11": 172886,
-  "2022-04-12": 172897,
-  "2022-04-13": 172938,
-  "2022-04-14": 172989,
-  "2022-04-15": 173047,
-  "2022-04-16": 173104,
-  "2022-04-17": 173152,
-  "2022-04-18": 173212,
-  "2022-04-19": 173264,
-  "2022-04-20": 173302,
-  "2022-04-21": 173350,
-  "2022-04-22": 173403,
-  "2022-04-23": 173467,
-  "2022-04-24": 173541,
-  "2022-04-25": 173604,
-  "2022-04-26": 173647,
-  "2022-04-27": 173706,
-  "2022-04-28": 173759,
-  "2022-04-29": 173828,
-  "2022-04-30": 173895,
-  "2022-05-01": 173980,
-  "2022-05-02": 173980,
-  "2022-05-03": 174037,
-  "2022-05-04": 174085,
-  "2022-05-05": 174113,
-  "2022-05-06": 174164,
-  "2022-05-07": 174221,
-  "2022-05-08": 174317,
-  "2022-05-09": 174329,
-  "2022-05-10": 174374,
-  "2022-05-11": 174414,
-  "2022-05-12": 174466,
-  "2022-05-13": 174515,
-  "2022-05-14": 174569,
-  "2022-05-15": 174626,
-  "2022-05-16": 174685,
-  "2022-05-17": 174727,
-  "2022-05-18": 174763,
-  "2022-05-19": 174817,
-  "2022-05-20": 174876,
-  "2022-05-21": 174968,
-  "2022-05-22": 174968,
-  "2022-05-23": 175025,
-  "2022-05-24": 175056,
-  "2022-05-25": 175097,
-  "2022-05-26": 175152,
-  "2022-05-27": 175193,
-  "2022-05-28": 175254,
-  "2022-05-29": 175323,
-  "2022-05-30": 175384,
-  "2022-05-31": 175421,
-  "2022-06-01": 175506,
-  "2022-06-02": 175512,
-  "2022-06-03": 175568,
-  "2022-06-04": 175630,
-  "2022-06-05": 175696,
-  "2022-06-06": 175760,
-  "2022-06-07": 175801,
-  "2022-06-08": 175864,
-  "2022-06-09": 175904,
-  "2022-06-10": 175971,
-  "2022-06-11": 176048,
-  "2022-06-12": 176121,
-  "2022-06-13": 176182,
-  "2022-06-14": 176233,
-  "2022-06-15": 176274,
-  "2022-06-16": 176337,
-  "2022-06-17": 176389,
-  "2022-06-18": 176453,
-  "2022-06-19": 176596,
-  "2022-06-20": 176596,
-  "2022-06-21": 176648,
-  "2022-06-22": 176743,
-  "2022-06-23": 176743,
-  "2022-06-24": 176806,
-  "2022-06-25": 176871,
-  "2022-06-26": 176941,
-  "2022-06-27": 177024,
-  "2022-06-28": 177069,
-  "2022-06-29": 177122,
-  "2022-06-30": 177169,
-  "2022-07-01": 177232,
-  "2022-07-02": 177293,
-  "2022-07-03": 177354,
-  "2022-07-04": 177429,
-  "2022-07-05": 177488,
-  "2022-07-06": 177488,
-  "2022-07-07": 177589,
-  "2022-07-08": 177639,
-  "2022-07-09": 177710,
-  "2022-07-10": 177775,
-  "2022-07-11": 177836,
-  "2022-07-12": 177901,
-  "2022-07-13": 177965,
-  "2022-07-14": 178015,
-  "2022-07-15": 178086,
-  "2022-07-16": 178144,
-  "2022-07-17": 178221,
-  "2022-07-18": 178294,
-  "2022-07-19": 178344,
-  "2022-07-20": 178398,
-  "2022-07-21": 178445,
-  "2022-07-22": 178506,
-  "2022-07-23": 178773,
-  "2022-07-24": 178921,
-  "2022-07-25": 179008,
-  "2022-07-26": 179066,
-  "2022-07-27": 179145,
-  "2022-07-28": 179218,
-  "2022-07-29": 179282,
-  "2022-07-30": 179458,
-  "2022-07-31": 179458,
-  "2022-08-01": 179524,
-  "2022-08-02": 179635,
-  "2022-08-03": 179635,
-  "2022-08-04": 179692,
-  "2022-08-05": 179753,
-  "2022-08-06": 179831,
-  "2022-08-07": 179908,
-  "2022-08-08": 179998,
-  "2022-08-09": 180059,
-  "2022-08-10": 180143,
-  "2022-08-11": 180212,
-  "2022-08-12": 180291,
-  "2022-08-13": 180368,
-  "2022-08-14": 180454,
-  "2022-08-15": 180525,
-  "2022-08-16": 180574,
-  "2022-08-17": 180649,
-  "2022-08-18": 180694,
-  "2022-08-19": 180751,
-  "2022-08-20": 180811,
-  "2022-08-21": 180901,
-  "2022-08-22": 180992,
-  "2022-08-23": 181065,
-  "2022-08-24": 181124,
-  "2022-08-25": 181193,
-  "2022-08-26": 181260,
-  "2022-08-27": 181323,
-  "2022-08-28": 181405,
-  "2022-08-29": 181481,
-  "2022-08-30": 181514,
-  "2022-08-31": 181495,
-  "2022-09-01": 181493,
-  "2022-09-02": 181484,
-  "2022-09-03": 181453,
-  "2022-09-04": 181472,
-  "2022-09-05": 181527,
-  "2022-09-06": 181573,
-  "2022-09-07": 181611,
-  "2022-09-09": 181722,
-  "2022-09-10": 181784,
-  "2022-09-11": 181847,
-  "2022-09-12": 181886,
-  "2022-09-13": 181966,
-  "2022-09-15": 182068,
-  "2022-09-16": 182129,
-  "2022-09-17": 182192,
-  "2022-09-18": 182269,
-  "2022-09-19": 182322,
-  "2022-09-20": 182360,
-  "2022-09-21": 182417,
-  "2022-09-22": 182478,
-  "2022-09-23": 182556,
-  "2022-09-24": 182556,
-  "2022-09-25": 182684,
-  "2022-09-26": 182745,
-  "2022-09-27": 182806,
-  "2022-09-28": 182858,
-  "2022-09-29": 182915,
-  "2022-09-30": 182968,
-  "2022-10-01": 183010,
-  "2022-10-02": 183058,
-  "2022-10-03": 183131,
-  "2022-10-04": 183181,
-  "2022-10-05": 183236,
-  "2022-10-06": 183287,
-  "2022-10-07": 183341,
-  "2022-10-08": 183416,
-  "2022-10-09": 183533,
-  "2022-10-10": 183544,
-  "2022-10-11": 183598,
-  "2022-10-12": 183644,
-  "2022-10-13": 183688,
-  "2022-10-14": 183744,
-  "2022-10-15": 183813,
-  "2022-10-16": 183869,
-  "2022-10-17": 183947,
-  "2022-10-18": 183998,
-  "2022-10-19": 184055,
-  "2022-10-20": 184119,
-  "2022-10-21": 184192,
-  "2022-10-22": 184273,
-  "2022-10-23": 184329,
-  "2022-10-24": 184377,
-  "2022-10-25": 184431,
-  "2022-10-26": 184494,
-  "2022-10-27": 184536,
-  "2022-10-28": 184590,
-  "2022-10-29": 184669,
-  "2022-10-30": 184718,
-  "2022-10-31": 184765,
-  "2022-11-01": 184815,
-  "2022-11-02": 184864,
-  "2022-11-03": 184929,
-  "2022-11-04": 184984,
-  "2022-11-05": 185062,
-  "2022-11-06": 185115,
-  "2022-11-07": 185170,
-  "2022-11-08": 185228,
-  "2022-11-09": 185277,
-  "2022-11-10": 185330,
-  "2022-11-11": 185389,
-  "2022-11-12": 185471,
-  "2022-11-13": 185547,
-  "2022-11-14": 185607,
-  "2022-11-15": 185669,
-  "2022-11-16": 185718,
-  "2022-11-17": 185784,
-  "2022-11-18": 185805,
-  "2022-11-19": 185820,
-  "2022-11-20": 185867,
-  "2022-11-21": 185947,
-  "2022-11-22": 186047,
-  "2022-11-23": 186118,
-  "2022-11-24": 186241,
-  "2022-11-25": 186327,
-  "2022-11-26": 186395,
-  "2022-11-27": 186483,
-  "2022-11-28": 186554,
-  "2022-11-29": 186592,
-  "2022-11-30": 186627,
-  "2022-12-01": 186672,
-  "2022-12-02": 186720,
-  "2022-12-03": 186808,
-  "2022-12-04": 186893,
-  "2022-12-05": 186967,
-  "2022-12-06": 187018,
-  "2022-12-07": 187081,
-  "2022-12-08": 187149,
-  "2022-12-09": 187201,
-  "2022-12-10": 187273,
-  "2022-12-11": 187324,
-  "2022-12-12": 187388,
-  "2022-12-13": 187465,
-  "2022-12-14": 187525,
-  "2022-12-15": 187594,
-  "2022-12-16": 187658,
-  "2022-12-17": 187729,
-  "2022-12-18": 187809,
-  "2022-12-19": 187902,
-  "2022-12-20": 188033,
-  "2022-12-21": 188033,
-  "2022-12-22": 188091,
-  "2022-12-24": 188259,
-  "2022-12-25": 188338,
-  "2022-12-26": 188427,
-  "2022-12-27": 188484,
-  "2022-12-28": 188550,
-  "2022-12-29": 188631,
-  "2022-12-30": 188710,
-  "2022-12-31": 188818,
-  "2023-01-01": 188919,
-  "2023-01-02": 189019,
-  "2023-01-03": 189093,
-  "2023-01-04": 189157,
-  "2023-01-05": 189229,
-  "2023-01-06": 189311,
-  "2023-01-07": 189448,
-  "2023-01-08": 189478,
-  "2023-01-09": 189550,
-  "2023-01-10": 189604,
-  "2023-01-11": 189674,
-  "2023-01-12": 189736,
-  "2023-01-13": 189817,
-  "2023-01-14": 189940,
-  "2023-01-15": 189974,
-  "2023-01-16": 190056,
-  "2023-01-17": 190111,
-  "2023-01-18": 190176,
-  "2023-01-19": 190242,
-  "2023-01-20": 190289,
-  "2023-01-21": 190391,
-  "2023-01-22": 190504,
-  "2023-01-23": 190596,
-  "2023-01-24": 190652,
-  "2023-01-25": 190711,
-  "2023-01-26": 190772,
-  "2023-01-27": 190831,
-  "2023-01-28": 190919,
-  "2023-01-29": 190983,
-  "2023-01-30": 191089,
-  "2023-01-31": 191089,
-  "2023-02-01": 191233,
-  "2023-02-02": 191312,
-  "2023-02-03": 191387,
-  "2023-02-04": 191474,
-  "2023-02-05": 191557,
-  "2023-02-06": 191659,
-  "2023-02-07": 191720,
-  "2023-02-08": 191850,
-  "2023-02-09": 191850,
-  "2023-02-10": 191912,
-  "2023-02-11": 191996,
-  "2023-02-12": 192191,
-  "2023-02-13": 192255,
-  "2023-02-14": 192255,
-  "2023-02-15": 192343,
-  "2023-02-16": 192415,
-  "2023-02-17": 192479,
-  "2023-02-18": 192640,
-  "2023-02-19": 192651,
-  "2023-02-20": 192706,
-  "2023-02-21": 192777,
-  "2023-02-22": 192826,
-  "2023-02-23": 192879,
-  "2023-02-24": 192932,
-  "2023-02-25": 193032,
-  "2023-02-26": 193113,
-  "2023-02-27": 193252,
-  "2023-02-28": 193252,
-  "2023-03-01": 193324,
-  "2023-03-02": 193378,
-  "2023-03-03": 193439,
-  "2023-03-04": 193503,
-  "2023-03-05": 193657,
-  "2023-03-06": 193657,
-  "2023-03-07": 193713,
-  "2023-03-08": 193766,
-  "2023-03-09": 193829,
-  "2023-03-10": 193886,
-  "2023-03-11": 193935,
-  "2023-03-12": 194019,
-  "2023-03-13": 194104,
-  "2023-03-14": 194169,
-  "2023-03-15": 194218,
-  "2023-03-16": 194218,
-  "2023-03-17": 194218,
-  "2023-03-18": 194367,
-  "2023-03-19": 194367,
-  "2023-03-20": 194512,
-  "2023-03-21": 194568,
-  "2023-03-22": 194619,
-  "2023-03-23": 194681,
-  "2023-03-24": 194681,
-  "2023-03-25": 194837,
-  "2023-03-26": 194927,
-  "2023-03-27": 195008,
-  "2023-03-28": 195065,
-  "2023-03-29": 195122,
-  "2023-03-30": 195220,
-  "2023-03-31": 195220,
-  "2023-04-01": 195278,
-  "2023-04-02": 195386,
-  "2023-04-03": 195432,
-  "2023-04-04": 195481,
-  "2023-04-05": 195548,
-  "2023-04-06": 195613,
-  "2023-04-07": 195691,
-  "2023-04-09": 195845,
-  "2023-04-10": 195911,
-  "2023-04-11": 196034,
-  "2023-04-12": 196034,
-  "2023-04-13": 196092,
-  "2023-04-14": 196153,
-  "2023-04-15": 196222,
-  "2023-04-16": 196309,
-  "2023-04-17": 196373,
-  "2023-04-18": 196418,
-  "2023-04-19": 196486,
-  "2023-04-20": 196542,
-  "2023-04-21": 196611,
-  "2023-04-22": 196691,
-  "2023-04-23": 196779,
-  "2023-04-24": 196858,
-  "2023-04-25": 196907,
-  "2023-04-26": 196961,
-  "2023-04-27": 197028,
-  "2023-04-28": 197089,
-  "2023-04-29": 197147,
-  "2023-04-30": 197236,
-  "2023-05-01": 197307,
-  "2023-05-02": 197369,
-  "2023-05-03": 197440,
-  "2023-05-04": 197491,
-  "2023-05-05": 197549,
-  "2023-05-06": 197608,
-  "2023-05-07": 197679,
-  "2023-05-08": 197760,
-  "2023-05-09": 197817,
-  "2023-05-10": 197871,
-  "2023-05-11": 197927,
-  "2023-05-12": 197991,
-  "2023-05-13": 198062,
-  "2023-05-14": 198143,
-  "2023-05-15": 198218,
-  "2023-05-16": 198260,
-  "2023-05-17": 198316,
-  "2023-05-18": 198372,
-  "2023-05-19": 198433,
-  "2023-05-20": 198579,
-  "2023-05-21": 198579,
-  "2023-05-22": 198579,
-  "2023-05-23": 198700,
-  "2023-05-24": 198817,
-  "2023-05-25": 198835,
-  "2023-05-26": 198912,
-  "2023-05-27": 198984,
-  "2023-05-28": 199065,
-  "2023-05-29": 199065,
-  "2023-05-30": 199180,
-  "2023-05-31": 199246,
-  "2023-06-01": 199295,
-  "2023-06-02": 199363,
-  "2023-06-03": 199407,
-  "2023-06-04": 199471,
-  "2023-06-05": 199541,
-  "2023-06-06": 199575,
-  "2023-06-07": 199646,
-  "2023-06-08": 199718,
-  "2023-06-09": 199768,
-  "2023-06-10": 199819,
-  "2023-06-11": 199903,
-  "2023-06-12": 199974,
-  "2023-06-13": 200034,
-  "2023-06-14": 200034,
-  "2023-06-15": 200145,
-  "2023-06-16": 200237,
-  "2023-06-17": 200318,
-  "2023-06-18": 200406,
-  "2023-06-19": 200501,
-  "2023-06-20": 200551,
-  "2023-06-21": 200597,
-  "2023-06-22": 200667,
-  "2023-06-23": 200731,
-  "2023-06-24": 200796,
-  "2023-06-25": 200893,
-  "2023-06-26": 200950,
-  "2023-06-27": 200997,
-  "2023-06-28": 201044,
-  "2023-06-29": 201103,
-  "2023-06-30": 201173,
-  "2023-07-01": 201299,
-  "2023-07-02": 201299,
-  "2023-07-03": 201368,
-  "2023-07-04": 201421,
-  "2023-07-05": 201528,
-  "2023-07-06": 201669,
-  "2023-07-07": 201669,
-  "2023-07-08": 201735,
-  "2023-07-09": 201852,
-  "2023-07-10": 201924,
-  "2023-07-11": 201962,
-  "2023-07-12": 202007,
-  "2023-07-13": 202079,
-  "2023-07-14": 202154,
-  "2023-07-15": 202219,
-  "2023-07-16": 202330,
-  "2023-07-17": 202406,
-  "2023-07-18": 202459,
-  "2023-07-19": 202520,
-  "2023-07-20": 202567,
-  "2023-07-21": 202628,
-  "2023-07-22": 202715,
-  "2023-07-23": 202787,
-  "2023-07-24": 202863,
-  "2023-07-25": 202919,
-  "2023-07-26": 202979,
-  "2023-07-27": 203039,
-  "2023-07-28": 203115,
-  "2023-07-29": 203176,
-  "2023-07-30": 203257,
-  "2023-07-31": 203347,
-  "2023-08-01": 203400,
-  "2023-08-02": 203460,
-  "2023-08-03": 203526,
-  "2023-08-04": 203602,
-  "2023-08-05": 203692,
-  "2023-08-06": 203843,
-  "2023-08-07": 203843,
-  "2023-08-08": 203886,
-  "2023-08-09": 203959,
-  "2023-08-10": 204012,
-  "2023-08-11": 204098,
-  "2023-08-12": 204098,
-  "2023-08-13": 204098,
-  "2023-08-14": 204334,
-  "2023-08-15": 204334,
-  "2023-08-16": 204334,
-  "2023-08-17": 204540,
-  "2023-08-18": 204540,
-  "2023-08-19": 204540,
-  "2023-08-20": 204797,
-  "2023-08-21": 204797,
-  "2023-08-22": 204933,
-  "2023-08-23": 204933,
-  "2023-08-24": 204933,
-  "2023-08-25": 204933,
-  "2023-08-26": 205259,
-  "2023-08-27": 205259,
-  "2023-08-28": 205398,
-  "2023-08-29": 205398,
-  "2023-08-30": 205398,
-  "2023-08-31": 205580,
-  "2023-09-01": 205674,
-  "2023-09-02": 205674,
-  "2023-09-03": 205829,
-  "2023-09-04": 205829,
-  "2023-09-05": 205829,
-  "2023-09-06": 206005,
-  "2023-09-07": 206005,
-  "2023-09-08": 206005,
-  "2023-09-09": 206005,
-  "2023-09-10": 206424,
-  "2023-09-11": 206424,
-  "2023-09-12": 206424,
-  "2023-09-13": 206666,
-  "2023-09-14": 206666,
-  "2023-09-15": 206666,
-  "2023-09-16": 206914,
-  "2023-09-17": 206914,
-  "2023-09-18": 206914,
-  "2023-09-19": 207168,
-  "2023-09-20": 207168,
-  "2023-09-21": 207168,
-  "2023-09-22": 207315,
-  "2023-09-23": 207315,
-  "2023-09-24": 207315,
-  "2023-09-25": 207315,
-  "2023-09-26": 207593,
-  "2023-09-27": 207593,
-  "2023-09-28": 207593,
-  "2023-09-29": 207593,
-  "2023-09-30": 207593,
-  "2023-10-01": 207593,
-  "2023-10-02": 207922,
-  "2023-10-03": 207922,
-  "2023-10-04": 207922,
-  "2023-10-05": 208077,
-  "2023-10-06": 208077,
-  "2023-10-07": 208077,
-  "2023-10-08": 208077,
-  "2023-10-09": 208077,
-  "2023-10-10": 208077,
-  "2023-10-11": 208341,
-  "2023-10-12": 208341,
-  "2023-10-13": 208341,
-  "2023-10-14": 208341,
-  "2023-10-15": 208341,
-  "2023-10-16": 208341,
-  "2023-10-17": 208341,
-  "2023-10-18": 208341,
-  "2023-10-19": 208341,
-  "2023-10-20": 208341,
-  "2023-10-21": 208341,
-  "2023-10-22": 208341,
-  "2023-10-23": 208341,
-  "2023-10-24": 208341,
-  "2023-10-25": 208341,
-  "2023-10-26": 208341,
-  "2023-10-27": 208341,
-  "2023-10-28": 208341,
-  "2023-10-29": 208341,
-  "2023-10-30": 208341,
-  "2023-10-31": 208341,
-  "2023-11-01": 208341,
-  "2023-11-02": 208341,
-  "2023-11-03": 208341,
-  "2023-11-04": 208341,
-  "2023-11-05": 208341,
-  "2023-11-06": 208341,
-  "2023-11-07": 208341,
-  "2023-11-08": 208341,
-  "2023-11-09": 208341,
-  "2023-11-10": 208341,
-  "2023-11-11": 209880,
-  "2023-11-12": 209880,
-  "2023-11-13": 209880,
-  "2023-11-14": 209880,
-  "2023-11-15": 209880,
-  "2023-11-16": 209880,
-  "2023-11-17": 209880,
-  "2023-11-18": 209880,
-  "2023-11-19": 209880,
-  "2023-11-20": 209880,
-  "2023-11-21": 209880,
-  "2023-11-22": 209880,
-  "2023-11-23": 209880,
-  "2023-11-24": 209880,
-  "2023-11-25": 209880,
-  "2023-11-26": 209880,
-  "2023-11-27": 209880,
-  "2023-11-28": 209880,
-  "2023-11-29": 209880,
-  "2023-11-30": 209880,
-  "2023-12-01": 209880,
-  "2023-12-02": 209880,
-  "2023-12-03": 209880,
-  "2023-12-04": 209880,
-  "2023-12-05": 209880,
-  "2023-12-06": 209880,
-  "2023-12-07": 209880,
-  "2023-12-08": 209880,
-  "2023-12-09": 209880,
-  "2023-12-10": 209880,
-  "2023-12-11": 209880,
-  "2023-12-12": 209880,
-  "2023-12-13": 209880,
-  "2023-12-14": 211537,
-  "2023-12-15": 211572,
-  "2023-12-16": 211629,
-  "2023-12-17": 211690,
-  "2023-12-18": 211733,
-  "2023-12-19": 211761,
-  "2023-12-20": 211807,
-  "2023-12-21": 211850,
-  "2023-12-22": 211901,
-  "2023-12-23": 211947,
-  "2023-12-24": 212009,
-  "2023-12-25": 212073,
-  "2023-12-26": 212139,
-  "2023-12-27": 212187,
-  "2023-12-30": 212283,
-  "2023-12-31": 212332,
-  "2024-01-01": 212408,
-  "2024-01-02": 212442,
-  "2024-01-03": 212472
+  "2024-01-17": 212692,
+  "date_first_scraped": "2020-10-20",
+  "description": "This is Barry White. The essential tracks, all in one playlist.",
+  "name": "This Is Barry White",
+  "tracks": [
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166346,
+      "name": "All in the Run Of a Day",
+      "url": "https://open.spotify.com/track/2Tl91oD7DVVhn2gbOKHdWv"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "Anything You Want Me To",
+      "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 265506,
+      "name": "Baby We Better Try To Get It Together",
+      "url": "https://open.spotify.com/track/1JUjt5q1mlm7DvvkaFpkEh"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 283106,
+      "name": "Can't You See It's Only You I Want - Single Version",
+      "url": "https://open.spotify.com/track/206aQzI75wbWheaCJ0aBWm"
+    },
+    {
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 349506,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 215643,
+      "name": "Come On In Love",
+      "url": "https://open.spotify.com/track/0ThdSkIZfi0xgNWpIhnAGs"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 294066,
+      "name": "Dark And Lovely (You Over There)",
+      "url": "https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-09-07",
+      "duration_ms": 196053,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/5dxTO5UAB46lddMQQRGYNu"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Don't Make Me Wait Too Long",
+      "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
+    },
+    {
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 443706,
+      "name": "Don't Play Games",
+      "url": "https://open.spotify.com/track/2ufJWHzuyZQSLfPR3k1f5A"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 173846,
+      "name": "Fragile \u2013 Handle with Care",
+      "url": "https://open.spotify.com/track/14wvWs6otTKBimbT2cW0KZ"
+    },
+    {
+      "album": {
+        "name": "The 20th Century Records Albums (1973-1979)",
+        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-01-02",
+      "duration_ms": 517893,
+      "name": "Girl It's True, Yes I'll Always Love You",
+      "url": "https://open.spotify.com/track/7gp5Y4PTwCGJURmaY7QhVj"
+    },
+    {
+      "album": {
+        "name": "The 20th Century Records Albums (1973-1979)",
+        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-10-29",
+      "duration_ms": 299466,
+      "name": "Heavenly, That's What You Are To Me",
+      "url": "https://open.spotify.com/track/6QtcHrzhtQD7b623E269Ni"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-04-12",
+      "duration_ms": 179200,
+      "name": "Honey Please, Can't Ya See - Alternate Version",
+      "url": "https://open.spotify.com/track/5HUqK2g43gAWGaOP5e2ru9"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 621200,
+      "name": "I Can't Believe You Love Me",
+      "url": "https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS"
+    },
+    {
+      "album": {
+        "name": "I Love To Sing The Songs I Sing",
+        "url": "https://open.spotify.com/album/4sf3cW8M6OAq1sd11fpVLo"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "I Love To Sing The Songs I Sing",
+      "url": "https://open.spotify.com/track/3rOd76CYlqmGzp1TssXANo"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 299226,
+      "name": "I Love You More Than Anything (In This World Girl)",
+      "url": "https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI"
+    },
+    {
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 301440,
+      "name": "I Only Want To Be With You",
+      "url": "https://open.spotify.com/track/550wW69MCbtYYEAbKIwEnu"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 136578,
+      "name": "I Owe It All to You",
+      "url": "https://open.spotify.com/track/78u11qNQT06vgTlGmdbyB1"
+    },
+    {
+      "album": {
+        "name": "Beware!",
+        "url": "https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "I Won't Settle For Less Than The Best (For You Baby)",
+      "url": "https://open.spotify.com/track/10rAFshE2jcncyB0a6f618"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250493,
+      "name": "I'll Do For You Anything You Want Me To",
+      "url": "https://open.spotify.com/track/5G1UUuiREQXwDfpJaxu3BC"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-09-20",
+      "duration_ms": 254306,
+      "name": "I'll Do For You Anything You Want Me To - Single Version",
+      "url": "https://open.spotify.com/track/3TczXatqWyGigAwK5lRy5g"
+    },
+    {
+      "album": {
+        "name": "I've Got So Much To Give",
+        "url": "https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 431506,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 425733,
+      "name": "I'm So Blue And You Are Too",
+      "url": "https://open.spotify.com/track/1LeoYNCcoGdBDzdkXciscV"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "album": {
+        "name": "The 20th Century Records Albums (1973-1979)",
+        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2023-10-11",
+      "duration_ms": 352960,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/1mHCbApKGwPuD2n3rtCuwu"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 190333,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2024-01-08",
+      "duration_ms": 316440,
+      "name": "I've Got So Much To Give",
+      "url": "https://open.spotify.com/track/4HtzL8uhKcQpzBI9LQqAcX"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181950,
+      "name": "I've Got the World to Hold Me Up",
+      "url": "https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305600,
+      "name": "If You Know, Won't You Tell Me",
+      "url": "https://open.spotify.com/track/1fzqq8eW08K2ETnt0AvHCe"
+    },
+    {
+      "album": {
+        "name": "Wildest Dreams (Expanded Version)",
+        "url": "https://open.spotify.com/album/3cYc5SK1GZ6LMYDAXkkTeN"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 228573,
+      "name": "In Your Wildest Dreams (feat. Barry White) - Radio Edit",
+      "url": "https://open.spotify.com/track/7e3JHpiOw5yi1H12XPjEuN"
+    },
+    {
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 417600,
+      "name": "It's Ecstasy When You Lay Down Next To Me",
+      "url": "https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ"
+    },
+    {
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "It's Only Love Doing Its Thing",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        },
+        {
+          "name": "Toots Thielemans",
+          "url": "https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-07",
+      "duration_ms": 49760,
+      "name": "Jook Joint Outro",
+      "url": "https://open.spotify.com/track/48Tu1uUuY7CzWTizLM4a3h"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-05-13",
+      "duration_ms": 254506,
+      "name": "Just A Little More, Baby - Instrumental",
+      "url": "https://open.spotify.com/track/3r8uUmGwefec6tO5QBekYW"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Just Not Enough",
+      "url": "https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
+    },
+    {
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-12",
+      "duration_ms": 431040,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/68DSRY0cKfA0P6nVlxoSmX"
+    },
+    {
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2024-01-16",
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
+    },
+    {
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 620760,
+      "name": "Let Me Live My Life Lovin' You Babe",
+      "url": "https://open.spotify.com/track/3s3iVUIrJHHiHlRXEw4cxb"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 220681,
+      "name": "Long Black Veil",
+      "url": "https://open.spotify.com/track/60AOdzogUy69fG0EV6f1VD"
+    },
+    {
+      "album": {
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "Love Makin' Music",
+      "url": "https://open.spotify.com/track/07w7uThpms6ei8LrcE4son"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 425826,
+      "name": "Love Serenade",
+      "url": "https://open.spotify.com/track/37ioNakPkoUoI5FcjUDdWB"
+    },
+    {
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2023-12-18",
+      "duration_ms": 285373,
+      "name": "Love Serenade - Pt. 1",
+      "url": "https://open.spotify.com/track/46IYWXxeFPMLBf6imsuWKi"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 112066,
+      "name": "Mellow Mood - Pt. I",
+      "url": "https://open.spotify.com/track/6MhRt1yRpJUgm5LSMWlBkx"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "More Than Anything, You're My Everything",
+      "url": "https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up",
+      "url": "https://open.spotify.com/track/3pepZAOvUCBt3qWi9Ax6Aq"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-09-10",
+      "duration_ms": 280280,
+      "name": "Never, Never Gonna Give Ya Up - Long Version",
+      "url": "https://open.spotify.com/track/00FRRwuaJP9KimukvLQCOz"
+    },
+    {
+      "album": {
+        "name": "Barry White & Candlelight: A Love Collection Pt. 2",
+        "url": "https://open.spotify.com/album/3XotEmKQfEhV0wTebRzOD9"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-22",
+      "duration_ms": 290666,
+      "name": "Never, Never Gonna Give Ya Up - Long Version",
+      "url": "https://open.spotify.com/track/6IJzcmcNDLpInP7nverunW"
+    },
+    {
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-01-20",
+      "duration_ms": 267546,
+      "name": "No I'm Never Gonna Give Ya Up - Instrumental",
+      "url": "https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Oh Love, Well We Finally Made It",
+      "url": "https://open.spotify.com/track/4ylPgukQzmpX7TZ1NcxAbm"
+    },
+    {
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 235293,
+      "name": "Oh What A Night For Dancing",
+      "url": "https://open.spotify.com/track/1CMgTRTMXSzIH4nYJX7fbh"
+    },
+    {
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-01-03",
+      "duration_ms": 217160,
+      "name": "Playing Your Game, Baby - Single Version",
+      "url": "https://open.spotify.com/track/6FW3H9aONAMhKJ7XYvQxsH"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 239306,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270653,
+      "name": "Put Me In Your Mix - Single Version",
+      "url": "https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX"
+    },
+    {
+      "album": {
+        "name": "Love's Theme: The Best Of The 20th Century Records Singles",
+        "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "September When I First Met You - Single Version",
+      "url": "https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476"
+    },
+    {
+      "album": {
+        "name": "The Man",
+        "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 452306,
+      "name": "Sha La La Means I Love You",
+      "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2022-03-17",
+      "duration_ms": 271666,
+      "name": "Sho' You Right",
+      "url": "https://open.spotify.com/track/7LPL7ZipwMvZ5jAABIgdcQ"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 273466,
+      "name": "Sho' You Right",
+      "url": "https://open.spotify.com/track/5dRFOwbyqjX1ZqwzBP0iDr"
+    },
+    {
+      "album": {
+        "name": "Q's Jook Joint",
+        "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Portrait",
+          "url": "https://open.spotify.com/artist/08fM8wx6uuEwagFsUvQp35"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Tamia",
+          "url": "https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 450600,
+      "name": "Slow Jams",
+      "url": "https://open.spotify.com/track/6CtrSJaPZxcGn991fLgxJF"
+    },
+    {
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-11-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323000,
+      "name": "Standing In The Shadows Of Love",
+      "url": "https://open.spotify.com/track/1MFy8oFHdtCiAnyueQ5ffI"
+    },
+    {
+      "album": {
+        "name": "The 20th Century Records Albums (1973-1979)",
+        "url": "https://open.spotify.com/album/27IWGcTMHYWHlQlSOLyVbi"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2020-10-30",
+      "duration_ms": 479880,
+      "name": "Standing In The Shadows Of Love",
+      "url": "https://open.spotify.com/track/6AE7DK1NOnnMfOS8nvSaVE"
+    },
+    {
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 370266,
+      "name": "Staying Power",
+      "url": "https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER"
+    },
+    {
+      "album": {
+        "name": "Unlimited",
+        "url": "https://open.spotify.com/album/6Rnik7astHNQkf29K7Ktua"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "El DeBarge",
+          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 532706,
+      "name": "The Erotic Garden - After Hours Version Of Secret Garden",
+      "url": "https://open.spotify.com/track/0gFPNhlNSgWj3O7J07zyAF"
+    },
+    {
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 349933,
+      "name": "The Longer We Make Love (Duet With Chaka Khan)",
+      "url": "https://open.spotify.com/track/5yYDSFhyPxb9tiiU4JqK3b"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2021-10-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "The Right Night",
+      "url": "https://open.spotify.com/track/7w0DK3J2jPP6g7sZ3kPYPU"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-10-03",
+      "duration_ms": 245840,
+      "name": "The Right Night",
+      "url": "https://open.spotify.com/track/3mKlrRiNpeDpv7u1zWWybv"
+    },
+    {
+      "album": {
+        "name": "From Q, With Love",
+        "url": "https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "El DeBarge",
+          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2021-09-26",
+      "duration_ms": 397986,
+      "name": "The Secret Garden (Sweet Seduction Suite)",
+      "url": "https://open.spotify.com/track/06EJXsMGuxmLZvJaZE0U1d"
+    },
+    {
+      "album": {
+        "name": "Back On The Block",
+        "url": "https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Al B. Sure!",
+          "url": "https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk"
+        },
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "El DeBarge",
+          "url": "https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD"
+        }
+      ],
+      "date_added": "2021-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401066,
+      "name": "The Secret Garden (Sweet Seduction Suite)",
+      "url": "https://open.spotify.com/track/3PZW66625MiyEmZaat7tce"
+    },
+    {
+      "album": {
+        "name": "Put Me In Your Mix",
+        "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 345333,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+    },
+    {
+      "album": {
+        "name": "Just Another Way To Say I Love You",
+        "url": "https://open.spotify.com/album/6IrwV1l7aNrX3QgBqfoj9U"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "What Am I Gonna Do With You",
+      "url": "https://open.spotify.com/track/097OvOx07eXC4UmdnywvoE"
+    },
+    {
+      "album": {
+        "name": "The Icon Is Love",
+        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 639600,
+      "name": "Whatever We Had, We Had",
+      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157570,
+      "name": "Where Can I Turn To",
+      "url": "https://open.spotify.com/track/7HehLbg5LR0dKoadabVFVm"
+    },
+    {
+      "album": {
+        "name": "Staying Power",
+        "url": "https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 342360,
+      "name": "Which Way is Up",
+      "url": "https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE"
+    },
+    {
+      "album": {
+        "name": "Let The Music Play",
+        "url": "https://open.spotify.com/album/2e9sKnS0ISiTbrrn181xlM"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 209906,
+      "name": "You See The Trouble With Me",
+      "url": "https://open.spotify.com/track/3O48gtvD20jxiNtT7tWr4C"
+    },
+    {
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 467640,
+      "name": "You Turned My Whole World Around",
+      "url": "https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276466,
+      "name": "You're The First, The Last, My Everything",
+      "url": "https://open.spotify.com/track/5dXJ1SoksFkgdx3yxIoYNO"
+    },
+    {
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206936,
+      "name": "You're The First, The Last, My Everything - Edit",
+      "url": "https://open.spotify.com/track/5EcmvgWODi8PNTfVeTlZjb"
+    },
+    {
+      "album": {
+        "name": "Pavarotti - The Greatest Hits",
+        "url": "https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4"
+      },
+      "artists": [
+        {
+          "name": "Peter Sterling Radcliffe",
+          "url": "https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg"
+        },
+        {
+          "name": "Tony Sepe",
+          "url": "https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL"
+        },
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "You're The First, The Last, My Everything - Live",
+      "url": "https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye"
+    },
+    {
+      "album": {
+        "name": "You're The First, The Last, My Everything",
+        "url": "https://open.spotify.com/album/3t2UIcBhhF4x11PFUr5Wbf"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": "2023-12-25",
+      "duration_ms": 212906,
+      "name": "You're The First, The Last, My Everything - Single Version",
+      "url": "https://open.spotify.com/track/3ZYO0HGRFFdAGeb8o7F9KC"
+    },
+    {
+      "album": {
+        "name": "The Message is Love",
+        "url": "https://open.spotify.com/album/3F0WZy8QiGTxymop2Z9EtB"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2020-10-20",
+      "date_added_asterisk": true,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "You're The One I Need",
+      "url": "https://open.spotify.com/track/3rQ3a2Tt45OixIQ4Uuu3iP"
+    },
+    {
+      "album": {
+        "name": "Barry & Glodean",
+        "url": "https://open.spotify.com/album/2wNo6VTSh8F5HDtDr3jwSH"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        },
+        {
+          "name": "Glodean White",
+          "url": "https://open.spotify.com/artist/4m9wDNaF13va1vTfvwDyVN"
+        }
+      ],
+      "date_added": "2021-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 305773,
+      "name": "You're The Only One For Me",
+      "url": "https://open.spotify.com/track/78gPci8zOswLUCA1sBI0Vf"
+    },
+    {
+      "album": {
+        "name": "Somewhere in the Past",
+        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 229110,
+      "name": "Your Heart and Soul",
+      "url": "https://open.spotify.com/track/1C65HS6dY48acVWpbvSaFK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY"
 }

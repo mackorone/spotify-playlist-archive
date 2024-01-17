@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7TEf86LRjN.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/0LMkPoi2xIgpOPUSJMftqM?si=K1wo6Wc\-Sb2ISiKUMYabuQ">WITCH</a> take over Welcome To Zamrock; their selection of hits and classics from the scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,037 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,770 likes - 33 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

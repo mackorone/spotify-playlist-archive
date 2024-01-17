@@ -1,580 +1,2279 @@
 {
-  "2022-05-30": 59540,
-  "2022-05-31": 59582,
-  "2022-06-01": 59661,
-  "2022-06-02": 59663,
-  "2022-06-03": 59694,
-  "2022-06-04": 59731,
-  "2022-06-05": 59756,
-  "2022-06-06": 59791,
-  "2022-06-07": 59827,
-  "2022-06-08": 59885,
-  "2022-06-09": 59929,
-  "2022-06-10": 59984,
-  "2022-06-11": 60008,
-  "2022-06-12": 60046,
-  "2022-06-13": 60076,
-  "2022-06-14": 60103,
-  "2022-06-15": 60136,
-  "2022-06-16": 60194,
-  "2022-06-17": 60245,
-  "2022-06-18": 60298,
-  "2022-06-19": 60387,
-  "2022-06-20": 60387,
-  "2022-06-21": 60417,
-  "2022-06-22": 60490,
-  "2022-06-23": 60490,
-  "2022-06-24": 60516,
-  "2022-06-25": 60573,
-  "2022-06-26": 60608,
-  "2022-06-27": 60646,
-  "2022-06-28": 60692,
-  "2022-06-29": 60727,
-  "2022-06-30": 60766,
-  "2022-07-01": 60809,
-  "2022-07-02": 60843,
-  "2022-07-03": 60884,
-  "2022-07-04": 60929,
-  "2022-07-05": 60973,
-  "2022-07-06": 61002,
-  "2022-07-07": 61053,
-  "2022-07-08": 61096,
-  "2022-07-09": 61139,
-  "2022-07-10": 61186,
-  "2022-07-11": 61215,
-  "2022-07-12": 61267,
-  "2022-07-13": 61313,
-  "2022-07-14": 61364,
-  "2022-07-15": 61422,
-  "2022-07-16": 61467,
-  "2022-07-17": 61508,
-  "2022-07-18": 61542,
-  "2022-07-19": 61592,
-  "2022-07-20": 61638,
-  "2022-07-21": 61696,
-  "2022-07-22": 61734,
-  "2022-07-23": 61768,
-  "2022-07-24": 61808,
-  "2022-07-25": 61864,
-  "2022-07-26": 61921,
-  "2022-07-27": 61957,
-  "2022-07-28": 62009,
-  "2022-07-29": 62074,
-  "2022-07-30": 62148,
-  "2022-07-31": 62148,
-  "2022-08-01": 62183,
-  "2022-08-02": 62283,
-  "2022-08-03": 62283,
-  "2022-08-04": 62329,
-  "2022-08-05": 62372,
-  "2022-08-06": 62418,
-  "2022-08-07": 62462,
-  "2022-08-08": 62509,
-  "2022-08-09": 62558,
-  "2022-08-10": 62615,
-  "2022-08-11": 62680,
-  "2022-08-12": 62732,
-  "2022-08-13": 62804,
-  "2022-08-14": 62857,
-  "2022-08-15": 62910,
-  "2022-08-16": 62969,
-  "2022-08-17": 63020,
-  "2022-08-18": 63066,
-  "2022-08-19": 63125,
-  "2022-08-20": 63173,
-  "2022-08-21": 63225,
-  "2022-08-22": 63276,
-  "2022-08-23": 63325,
-  "2022-08-24": 63375,
-  "2022-08-25": 63411,
-  "2022-08-26": 63473,
-  "2022-08-27": 63536,
-  "2022-08-28": 63589,
-  "2022-08-29": 63651,
-  "2022-08-30": 63654,
-  "2022-08-31": 63694,
-  "2022-09-01": 63539,
-  "2022-09-02": 63595,
-  "2022-09-03": 63588,
-  "2022-09-04": 63499,
-  "2022-09-05": 63477,
-  "2022-09-06": 63526,
-  "2022-09-07": 63583,
-  "2022-09-09": 63688,
-  "2022-09-10": 63733,
-  "2022-09-11": 63784,
-  "2022-09-12": 63812,
-  "2022-09-13": 63860,
-  "2022-09-15": 63936,
-  "2022-09-16": 63993,
-  "2022-09-17": 64042,
-  "2022-09-18": 64100,
-  "2022-09-19": 64148,
-  "2022-09-20": 64186,
-  "2022-09-21": 64232,
-  "2022-09-22": 64295,
-  "2022-09-23": 64346,
-  "2022-09-24": 64407,
-  "2022-09-25": 64485,
-  "2022-09-26": 64546,
-  "2022-09-27": 64591,
-  "2022-09-28": 64666,
-  "2022-09-29": 64730,
-  "2022-09-30": 64779,
-  "2022-10-01": 64836,
-  "2022-10-02": 64899,
-  "2022-10-03": 64947,
-  "2022-10-04": 64998,
-  "2022-10-05": 65058,
-  "2022-10-06": 65120,
-  "2022-10-07": 65173,
-  "2022-10-08": 65228,
-  "2022-10-09": 65345,
-  "2022-10-10": 65352,
-  "2022-10-11": 65413,
-  "2022-10-12": 65453,
-  "2022-10-13": 65513,
-  "2022-10-14": 65560,
-  "2022-10-15": 65603,
-  "2022-10-16": 65663,
-  "2022-10-17": 65704,
-  "2022-10-18": 65754,
-  "2022-10-19": 65799,
-  "2022-10-20": 65862,
-  "2022-10-21": 65910,
-  "2022-10-22": 65971,
-  "2022-10-23": 66020,
-  "2022-10-24": 66070,
-  "2022-10-25": 66110,
-  "2022-10-26": 66154,
-  "2022-10-27": 66212,
-  "2022-10-28": 66264,
-  "2022-10-29": 66325,
-  "2022-10-30": 66389,
-  "2022-10-31": 66434,
-  "2022-11-01": 66480,
-  "2022-11-02": 66531,
-  "2022-11-03": 66597,
-  "2022-11-04": 66642,
-  "2022-11-05": 66677,
-  "2022-11-06": 66721,
-  "2022-11-07": 66777,
-  "2022-11-08": 66843,
-  "2022-11-09": 66900,
-  "2022-11-10": 66956,
-  "2022-11-11": 67000,
-  "2022-11-12": 67072,
-  "2022-11-13": 67125,
-  "2022-11-14": 67191,
-  "2022-11-15": 67246,
-  "2022-11-16": 67318,
-  "2022-11-17": 67381,
-  "2022-11-18": 67395,
-  "2022-11-19": 67377,
-  "2022-11-20": 67389,
-  "2022-11-21": 67428,
-  "2022-11-22": 67578,
-  "2022-11-23": 67552,
-  "2022-11-24": 67654,
-  "2022-11-25": 67778,
-  "2022-11-26": 67886,
-  "2022-11-27": 67933,
-  "2022-11-28": 67983,
-  "2022-11-29": 68037,
-  "2022-11-30": 68092,
-  "2022-12-01": 68179,
-  "2022-12-02": 68267,
-  "2022-12-03": 68298,
-  "2022-12-04": 68405,
-  "2022-12-05": 68476,
-  "2022-12-06": 68544,
-  "2022-12-07": 68596,
-  "2022-12-08": 68655,
-  "2022-12-09": 68716,
-  "2022-12-10": 68766,
-  "2022-12-11": 68828,
-  "2022-12-12": 68870,
-  "2022-12-13": 68924,
-  "2022-12-14": 68989,
-  "2022-12-15": 69028,
-  "2022-12-16": 69074,
-  "2022-12-17": 69146,
-  "2022-12-18": 69200,
-  "2022-12-19": 69254,
-  "2022-12-20": 69345,
-  "2022-12-21": 69345,
-  "2022-12-22": 69385,
-  "2022-12-24": 69468,
-  "2022-12-25": 69515,
-  "2022-12-26": 69546,
-  "2022-12-27": 69587,
-  "2022-12-28": 69634,
-  "2022-12-29": 69679,
-  "2022-12-30": 69730,
-  "2022-12-31": 69762,
-  "2023-01-01": 69804,
-  "2023-01-02": 69856,
-  "2023-01-03": 69901,
-  "2023-01-04": 69956,
-  "2023-01-05": 70002,
-  "2023-01-06": 70086,
-  "2023-01-07": 70184,
-  "2023-01-08": 70198,
-  "2023-01-09": 70263,
-  "2023-01-10": 70328,
-  "2023-01-11": 70375,
-  "2023-01-12": 70441,
-  "2023-01-13": 70522,
-  "2023-01-14": 70654,
-  "2023-01-15": 70666,
-  "2023-01-16": 70738,
-  "2023-01-17": 70810,
-  "2023-01-18": 70900,
-  "2023-01-19": 70975,
-  "2023-01-20": 71040,
-  "2023-01-21": 71105,
-  "2023-01-22": 71159,
-  "2023-01-23": 71213,
-  "2023-01-24": 71260,
-  "2023-01-25": 71313,
-  "2023-01-26": 71369,
-  "2023-01-27": 71431,
-  "2023-01-28": 71466,
-  "2023-01-29": 71528,
-  "2023-01-30": 71582,
-  "2023-01-31": 71582,
-  "2023-02-01": 71673,
-  "2023-02-02": 71707,
-  "2023-02-03": 71762,
-  "2023-02-04": 71795,
-  "2023-02-05": 71853,
-  "2023-02-06": 71921,
-  "2023-02-07": 71969,
-  "2023-02-08": 72054,
-  "2023-02-09": 72054,
-  "2023-02-10": 72100,
-  "2023-02-11": 72140,
-  "2023-02-12": 72218,
-  "2023-02-13": 72260,
-  "2023-02-14": 72260,
-  "2023-02-15": 72304,
-  "2023-02-16": 72348,
-  "2023-02-17": 72388,
-  "2023-02-18": 72471,
-  "2023-02-19": 72477,
-  "2023-02-20": 72510,
-  "2023-02-21": 72564,
-  "2023-02-22": 72622,
-  "2023-02-23": 72667,
-  "2023-02-24": 72723,
-  "2023-02-25": 72780,
-  "2023-02-26": 72820,
-  "2023-02-27": 72923,
-  "2023-02-28": 72923,
-  "2023-03-01": 72963,
-  "2023-03-02": 73026,
-  "2023-03-03": 73059,
-  "2023-03-04": 73107,
-  "2023-03-05": 73213,
-  "2023-03-06": 73213,
-  "2023-03-07": 73258,
-  "2023-03-08": 73307,
-  "2023-03-09": 73352,
-  "2023-03-10": 73394,
-  "2023-03-11": 73418,
-  "2023-03-12": 73457,
-  "2023-03-13": 73515,
-  "2023-03-14": 73553,
-  "2023-03-15": 73600,
-  "2023-03-16": 73638,
-  "2023-03-17": 73638,
-  "2023-03-18": 73718,
-  "2023-03-19": 73761,
-  "2023-03-20": 73800,
-  "2023-03-21": 73847,
-  "2023-03-22": 73893,
-  "2023-03-23": 73922,
-  "2023-03-24": 73922,
-  "2023-03-25": 73997,
-  "2023-03-26": 74027,
-  "2023-03-27": 74078,
-  "2023-03-28": 74099,
-  "2023-03-29": 74143,
-  "2023-03-30": 74224,
-  "2023-03-31": 74224,
-  "2023-04-01": 74257,
-  "2023-04-02": 74293,
-  "2023-04-03": 74349,
-  "2023-04-04": 74372,
-  "2023-04-05": 74418,
-  "2023-04-06": 74448,
-  "2023-04-07": 74478,
-  "2023-04-09": 74529,
-  "2023-04-10": 74562,
-  "2023-04-11": 74647,
-  "2023-04-12": 74647,
-  "2023-04-13": 74673,
-  "2023-04-14": 74721,
-  "2023-04-15": 74764,
-  "2023-04-16": 74802,
-  "2023-04-17": 74835,
-  "2023-04-18": 74882,
-  "2023-04-19": 74932,
-  "2023-04-20": 74964,
-  "2023-04-21": 75011,
-  "2023-04-22": 75045,
-  "2023-04-23": 75079,
-  "2023-04-24": 75105,
-  "2023-04-25": 75142,
-  "2023-04-26": 75213,
-  "2023-04-27": 75264,
-  "2023-04-28": 75327,
-  "2023-04-29": 75359,
-  "2023-04-30": 75394,
-  "2023-05-01": 75423,
-  "2023-05-02": 75474,
-  "2023-05-03": 75510,
-  "2023-05-04": 75560,
-  "2023-05-05": 75595,
-  "2023-05-06": 75630,
-  "2023-05-07": 75673,
-  "2023-05-08": 75714,
-  "2023-05-09": 75761,
-  "2023-05-10": 75801,
-  "2023-05-11": 75850,
-  "2023-05-12": 75888,
-  "2023-05-13": 75920,
-  "2023-05-14": 75946,
-  "2023-05-15": 75988,
-  "2023-05-16": 76044,
-  "2023-05-17": 76109,
-  "2023-05-18": 76161,
-  "2023-05-19": 76233,
-  "2023-05-20": 76344,
-  "2023-05-21": 76344,
-  "2023-05-22": 76344,
-  "2023-05-23": 76452,
-  "2023-05-24": 76525,
-  "2023-05-25": 76536,
-  "2023-05-26": 76571,
-  "2023-05-27": 76619,
-  "2023-05-28": 76660,
-  "2023-05-29": 76660,
-  "2023-05-30": 76738,
-  "2023-05-31": 76780,
-  "2023-06-01": 76830,
-  "2023-06-02": 76858,
-  "2023-06-03": 76900,
-  "2023-06-04": 76950,
-  "2023-06-05": 76993,
-  "2023-06-06": 77052,
-  "2023-06-07": 77090,
-  "2023-06-08": 77150,
-  "2023-06-09": 77195,
-  "2023-06-10": 77242,
-  "2023-06-11": 77279,
-  "2023-06-12": 77325,
-  "2023-06-13": 77366,
-  "2023-06-14": 77398,
-  "2023-06-15": 77451,
-  "2023-06-16": 77496,
-  "2023-06-17": 77539,
-  "2023-06-18": 77590,
-  "2023-06-19": 77646,
-  "2023-06-20": 77685,
-  "2023-06-21": 77745,
-  "2023-06-22": 77795,
-  "2023-06-23": 77833,
-  "2023-06-24": 77861,
-  "2023-06-25": 77908,
-  "2023-06-26": 77955,
-  "2023-06-27": 77991,
-  "2023-06-28": 78045,
-  "2023-06-29": 78089,
-  "2023-06-30": 78166,
-  "2023-07-01": 78235,
-  "2023-07-02": 78235,
-  "2023-07-03": 78275,
-  "2023-07-04": 78318,
-  "2023-07-05": 78361,
-  "2023-07-06": 78483,
-  "2023-07-07": 78483,
-  "2023-07-08": 78544,
-  "2023-07-09": 78599,
-  "2023-07-10": 78649,
-  "2023-07-11": 78692,
-  "2023-07-12": 78726,
-  "2023-07-13": 78762,
-  "2023-07-14": 78817,
-  "2023-07-15": 78839,
-  "2023-07-16": 78887,
-  "2023-07-17": 78944,
-  "2023-07-18": 78990,
-  "2023-07-19": 79036,
-  "2023-07-20": 79085,
-  "2023-07-21": 79131,
-  "2023-07-22": 79167,
-  "2023-07-23": 79219,
-  "2023-07-24": 79287,
-  "2023-07-25": 79336,
-  "2023-07-26": 79381,
-  "2023-07-27": 79424,
-  "2023-07-28": 79485,
-  "2023-07-29": 79543,
-  "2023-07-30": 79580,
-  "2023-07-31": 79630,
-  "2023-08-01": 79674,
-  "2023-08-02": 79718,
-  "2023-08-03": 79758,
-  "2023-08-04": 79814,
-  "2023-08-05": 79860,
-  "2023-08-06": 79959,
-  "2023-08-07": 79959,
-  "2023-08-08": 79999,
-  "2023-08-09": 80038,
-  "2023-08-10": 80088,
-  "2023-08-11": 80120,
-  "2023-08-12": 80158,
-  "2023-08-13": 80198,
-  "2023-08-14": 80224,
-  "2023-08-15": 80305,
-  "2023-08-16": 80305,
-  "2023-08-17": 80338,
-  "2023-08-18": 80372,
-  "2023-08-19": 80415,
-  "2023-08-20": 80444,
-  "2023-08-21": 80465,
-  "2023-08-22": 80505,
-  "2023-08-23": 80541,
-  "2023-08-24": 80581,
-  "2023-08-25": 80619,
-  "2023-08-26": 80648,
-  "2023-08-27": 80674,
-  "2023-08-28": 80712,
-  "2023-08-29": 80759,
-  "2023-08-30": 80801,
-  "2023-08-31": 80829,
-  "2023-09-01": 80889,
-  "2023-09-02": 80889,
-  "2023-09-03": 80915,
-  "2023-09-04": 80954,
-  "2023-09-05": 80982,
-  "2023-09-06": 81011,
-  "2023-09-07": 81044,
-  "2023-09-08": 81070,
-  "2023-09-09": 81094,
-  "2023-09-10": 81120,
-  "2023-09-11": 81151,
-  "2023-09-12": 81184,
-  "2023-09-13": 81214,
-  "2023-09-14": 81240,
-  "2023-09-15": 81272,
-  "2023-09-16": 81307,
-  "2023-09-17": 81332,
-  "2023-09-18": 81363,
-  "2023-09-19": 81387,
-  "2023-09-20": 81403,
-  "2023-09-21": 81438,
-  "2023-09-22": 81468,
-  "2023-09-23": 81490,
-  "2023-09-24": 81527,
-  "2023-09-25": 81555,
-  "2023-09-26": 81592,
-  "2023-09-27": 81612,
-  "2023-09-28": 81641,
-  "2023-09-29": 81675,
-  "2023-09-30": 81704,
-  "2023-10-01": 81735,
-  "2023-10-02": 81757,
-  "2023-10-03": 81791,
-  "2023-10-04": 81814,
-  "2023-10-05": 81850,
-  "2023-10-06": 81868,
-  "2023-10-07": 81902,
-  "2023-10-08": 81936,
-  "2023-10-09": 81955,
-  "2023-10-10": 81968,
-  "2023-10-11": 82001,
-  "2023-10-12": 82001,
-  "2023-10-13": 82024,
-  "2023-10-14": 82048,
-  "2023-10-15": 82067,
-  "2023-10-16": 82081,
-  "2023-10-17": 82106,
-  "2023-10-18": 82114,
-  "2023-10-19": 82152,
-  "2023-10-20": 82158,
-  "2023-10-21": 82164,
-  "2023-10-22": 82174,
-  "2023-10-23": 82188,
-  "2023-10-24": 82209,
-  "2023-10-25": 82240,
-  "2023-10-26": 82257,
-  "2023-10-27": 82268,
-  "2023-10-28": 82280,
-  "2023-10-29": 82306,
-  "2023-10-30": 82360,
-  "2023-10-31": 82360,
-  "2023-11-01": 82368,
-  "2023-11-02": 82395,
-  "2023-11-03": 82426,
-  "2023-11-04": 82450,
-  "2023-11-05": 82477,
-  "2023-11-06": 82487,
-  "2023-11-07": 82517,
-  "2023-11-08": 82538,
-  "2023-11-09": 82546,
-  "2023-11-10": 82567,
-  "2023-11-11": 82589,
-  "2023-11-12": 82620,
-  "2023-11-13": 82639,
-  "2023-11-14": 82656,
-  "2023-11-15": 82656,
-  "2023-11-16": 82699,
-  "2023-11-17": 82751,
-  "2023-11-18": 82751,
-  "2023-11-19": 82787,
-  "2023-11-20": 82825,
-  "2023-11-21": 82835,
-  "2023-11-22": 82878,
-  "2023-11-23": 82883,
-  "2023-11-24": 82905,
-  "2023-11-25": 82926,
-  "2023-11-26": 82951,
-  "2023-11-27": 82976,
-  "2023-11-28": 82984,
-  "2023-11-29": 83030,
-  "2023-11-30": 83030,
-  "2023-12-01": 83074,
-  "2023-12-02": 83109,
-  "2023-12-03": 83112,
-  "2023-12-04": 83156,
-  "2023-12-05": 83185,
-  "2023-12-06": 83201,
-  "2023-12-07": 83242,
-  "2023-12-08": 83275,
-  "2023-12-09": 83300,
-  "2023-12-10": 83335,
-  "2023-12-11": 83375,
-  "2023-12-12": 83406,
-  "2023-12-13": 83430,
-  "2023-12-14": 83476,
-  "2023-12-15": 83494,
-  "2023-12-16": 83522,
-  "2023-12-17": 83543,
-  "2023-12-18": 83572,
-  "2023-12-19": 83585,
-  "2023-12-20": 83617,
-  "2023-12-21": 83650,
-  "2023-12-22": 83679,
-  "2023-12-23": 83725,
-  "2023-12-24": 83747,
-  "2023-12-25": 83777,
-  "2023-12-26": 83797,
-  "2023-12-27": 83818,
-  "2023-12-30": 83880,
-  "2023-12-31": 83899,
-  "2024-01-01": 83920,
-  "2024-01-02": 83932,
-  "2024-01-03": 83963
+  "2024-01-17": 84283,
+  "date_first_scraped": "2022-05-30",
+  "description": "LeeHi's here for you, Hice Creams!",
+  "name": "This is LeeHi",
+  "tracks": [
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "CHOI HYUN SUK of TREASURE",
+          "url": "https://open.spotify.com/artist/3HO4QMpAs7tVHeBaGnmZKa"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202683,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/5L2dStRrWW1jXst2aBPSa5"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "\ucd5c\ud604\uc11d",
+          "url": "https://open.spotify.com/artist/7ywGEr53ogVxLibBcb82JV"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202683,
+      "name": "1, 2",
+      "url": "https://open.spotify.com/track/2U4292s8Vs8p7rDP8LYr8c"
+    },
+    {
+      "album": {
+        "name": "1,2,3,4",
+        "url": "https://open.spotify.com/album/6yYc7Ag6nVB3HVXzLjF9uz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214273,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/1MMuD3VaVq7qqfvRgSrbRs"
+    },
+    {
+      "album": {
+        "name": "1,2,3,4",
+        "url": "https://open.spotify.com/album/5F8r1o0nNmDTndEzGM7Tsh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214273,
+      "name": "1, 2, 3, 4",
+      "url": "https://open.spotify.com/track/6sKRxuwxnbkMqJ2G78V8e1"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215841,
+      "name": "Am I Strange",
+      "url": "https://open.spotify.com/track/4AOsDw6TMLr40JodVNnmdU"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215841,
+      "name": "Am I Strange",
+      "url": "https://open.spotify.com/track/7zQ3WUdHHU7ORMo7oCrjei"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 257853,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/2G4VUxAvEvmJAS8aLdmTcb"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257853,
+      "name": "Because",
+      "url": "https://open.spotify.com/track/6D7LEqbDyCC9FGtXZZ79Dw"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236306,
+      "name": "BLUES",
+      "url": "https://open.spotify.com/track/4xqloJsOaYurTocR1T3Lb6"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236382,
+      "name": "BLUES",
+      "url": "https://open.spotify.com/track/7gVOD2G8bXGKxNssJWzlCB"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 7",
+        "url": "https://open.spotify.com/album/13Uv642rRymqZGkXzuYUJ2"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "Brave Enough",
+      "url": "https://open.spotify.com/track/3QnhPrjMufFlq150Dl2031"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 288992,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/06L1apH8kLF47dbhZ4Zg9A"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6ye2BBTpOipvPNjSPxgmRC"
+    },
+    {
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 6",
+        "url": "https://open.spotify.com/album/1BeWYcLEYlD2rOaa0EWdSr"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248143,
+      "name": "Can You Hear My Heart (feat. LEE HI)",
+      "url": "https://open.spotify.com/track/7n5eQJYX7e6H5gkzgyEfQG"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1Yjht6lUYTjJTsdUL6J9xx"
+    },
+    {
+      "album": {
+        "name": "Dear you (Romance 101 X LeeHi)",
+        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Dear you (Romance 101 X LeeHi)",
+      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 8",
+        "url": "https://open.spotify.com/album/0RFZCFWL94nxibPNzzljU8"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 167158,
+      "name": "Don't Stop The Music(Rihanna)",
+      "url": "https://open.spotify.com/track/4F9gR58Q1isCHi9j83XddI"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 8",
+        "url": "https://open.spotify.com/album/1RxTY8pxYuPtpBscVqHFVJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167197,
+      "name": "Don`t Stop The Music",
+      "url": "https://open.spotify.com/track/4GFWSbLd0iJEosvgqvWLxU"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289949,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/4X8l8E63XuzSSRLAoaezlS"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290011,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/1iiCrEIlzwT1yAJZtAD9qi"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245286,
+      "name": "Fool For Love",
+      "url": "https://open.spotify.com/track/66Ghfp5KCWdp8QTGBoiCjB"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245286,
+      "name": "Fool For Love",
+      "url": "https://open.spotify.com/track/6uu9oJsRfFQfhFp2BxMucP"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211346,
+      "name": "For You (Holiday Remix) - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 217784,
+      "name": "FXXK WIT US",
+      "url": "https://open.spotify.com/track/6wj3blmFAG2pNWQ40Yuaq8"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217784,
+      "name": "FXXK WIT US",
+      "url": "https://open.spotify.com/track/7mIL8AaIEk9OeMqMyJBxAF"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217861,
+      "name": "FXXK WIT US",
+      "url": "https://open.spotify.com/track/2qWgqPdW1OiAP8KSBH1b93"
+    },
+    {
+      "album": {
+        "name": "Golden Slumbers [Original Motion Pictures Soundtrack (Special Track)]",
+        "url": "https://open.spotify.com/album/16jwxhrAtCOLPRKmux5PWh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148838,
+      "name": "Golden Slumbers",
+      "url": "https://open.spotify.com/track/6wdG5d2iQpFw2iTw06N4r5"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 SPECIAL No.3",
+        "url": "https://open.spotify.com/album/69L43HwLmbXPx8TNBKkC5x"
+      },
+      "artists": [
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 219266,
+      "name": "Good-bye Baby",
+      "url": "https://open.spotify.com/track/6IFxGEgrCftdZp1hnG4PaD"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No.3",
+        "url": "https://open.spotify.com/album/1t65WXM47FhUyoW4qQa2Yr"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "JAMIE",
+          "url": "https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 219168,
+      "name": "Good-bye Baby (miss A)",
+      "url": "https://open.spotify.com/track/6ap9rFeRE61g7kuhBJ8pSY"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star SPECIAL No.3",
+        "url": "https://open.spotify.com/album/694FqCpE3JXzRytq6Rhee7"
+      },
+      "artists": [
+        {
+          "name": "LeeHi&JAMIE",
+          "url": "https://open.spotify.com/artist/4Sz0O4ArlT6YOqQnP6k6Hq"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219220,
+      "name": "Good-bye Baby (miss A)",
+      "url": "https://open.spotify.com/track/4BIXwN9h72Z1ovWFaetN0S"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204453,
+      "name": "H.S.K.T. (feat. Wonstein)",
+      "url": "https://open.spotify.com/track/39382sUtIOwIXftX0i76do"
+    },
+    {
+      "album": {
+        "name": "LEE HI JAPAN DEBUT ALBUM",
+        "url": "https://open.spotify.com/album/6hYSa9oKq0RJ9GXx11vWZi"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263120,
+      "name": "HAPPEN ENDING - JAPANESE MIX",
+      "url": "https://open.spotify.com/track/2JjuzRm1d3k4W9rv0OKn54"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7tvK9KQebPOhD9baTlIrVu"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267715,
+      "name": "HERE COME THE REGRETS",
+      "url": "https://open.spotify.com/track/2rbSrdUEvZvD18pSyqPZVZ"
+    },
+    {
+      "album": {
+        "name": "WE'VE DONE SOMETHING WONDERFUL",
+        "url": "https://open.spotify.com/album/7dBLjyqanIMQ12Ck6I2xr0"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267715,
+      "name": "HERE COME THE REGRETS",
+      "url": "https://open.spotify.com/track/2uQ2sakAeeGhevyZQwprxN"
+    },
+    {
+      "album": {
+        "name": "Show Me The Money 10 Semi Final",
+        "url": "https://open.spotify.com/album/5SARHTEl2iHAjVl93WHiyP"
+      },
+      "artists": [
+        {
+          "name": "Anandelight",
+          "url": "https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229787,
+      "name": "High (Feat. LeeHi) (Prod. GRAY)",
+      "url": "https://open.spotify.com/track/66hfy09gzJOp4NMZWD1jEy"
+    },
+    {
+      "album": {
+        "name": "Now, We Are Breaking Up (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218826,
+      "name": "HOLD MY HAND",
+      "url": "https://open.spotify.com/track/7bwSMCwF2C4cK2W97H6oCA"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218880,
+      "name": "HOLD MY HAND",
+      "url": "https://open.spotify.com/track/18DPSOcuoHDmwcevMIw8SN"
+    },
+    {
+      "album": {
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/5xq9sm0jGMMDu5LifpBBo1"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/4BSluGpjdLQihMmKgHXMxp"
+    },
+    {
+      "album": {
+        "name": "HOLO",
+        "url": "https://open.spotify.com/album/6PY5EutFgpr9GLeaagGBda"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178520,
+      "name": "HOLO",
+      "url": "https://open.spotify.com/track/7Acvy2L38SCipAeMPOK8Ro"
+    },
+    {
+      "album": {
+        "name": "I'm Different",
+        "url": "https://open.spotify.com/album/5KPqkKttvDvX89R6DDIXnj"
+      },
+      "artists": [
+        {
+          "name": "HI SUHYUN",
+          "url": "https://open.spotify.com/artist/6E7TbMh8kSKJBr2zA1omRB"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214253,
+      "name": "I'm Different",
+      "url": "https://open.spotify.com/track/2LzGykthJBl5wGQxHGHSHH"
+    },
+    {
+      "album": {
+        "name": "I'm Different",
+        "url": "https://open.spotify.com/album/7ktsperxmY8aMJ18IDcLQf"
+      },
+      "artists": [
+        {
+          "name": "HI SUHYUN",
+          "url": "https://open.spotify.com/artist/6E7TbMh8kSKJBr2zA1omRB"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214253,
+      "name": "I'm Different",
+      "url": "https://open.spotify.com/track/2TtrIVmGt06CaLJ19hDrpt"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204800,
+      "name": "Intentions",
+      "url": "https://open.spotify.com/track/7IN84szmayzO68enmVmKYv"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/47PAgx8nAijlmCdJtiq2iE"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234633,
+      "name": "It's Over",
+      "url": "https://open.spotify.com/track/7KPEU6v0P3DoMiEIgm9BJ7"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 Top 2",
+        "url": "https://open.spotify.com/album/4jpc8Az4xiJUoGN1jkafi8"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 178306,
+      "name": "Killing Me Softly with His Song",
+      "url": "https://open.spotify.com/track/1rsXKUmP6vYdBm8LvQKZyp"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 2",
+        "url": "https://open.spotify.com/album/1gO9wDtcVpQjcGtNQLCBPi"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 178128,
+      "name": "Killing Me Softly with His Song (The Fugees)",
+      "url": "https://open.spotify.com/track/3S8zC6vWD9horbmBRFzwRh"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star Top 2",
+        "url": "https://open.spotify.com/album/5Yapd6vHMcqPWraq0INpGO"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178156,
+      "name": "Killing Me Softly with His Song (The Fugees)",
+      "url": "https://open.spotify.com/track/0CXYhV1P1xT30Z7bPhKpTf"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 5",
+        "url": "https://open.spotify.com/album/53EEY2RfDWp4DiA3dmfZVm"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174094,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/2A2utlXQCozSDoRsx5RR86"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 5",
+        "url": "https://open.spotify.com/album/3bN05gPUx4Y8AYAJnjcNow"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 174054,
+      "name": "LOVE (\ud0a4\uc0e4\ucf5c)",
+      "url": "https://open.spotify.com/track/5qaQ3mlPQxvcgVbqhZjWnD"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217401,
+      "name": "LOVE IS OVER",
+      "url": "https://open.spotify.com/track/0ktVFAvj5AAZSATLv7D3zj"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217401,
+      "name": "LOVE IS OVER",
+      "url": "https://open.spotify.com/track/20zFURLsIlHhe7dSx1Q9hf"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No.2",
+        "url": "https://open.spotify.com/album/5v5ajNmaFU3yILsp9AQbjd"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 241835,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2Hiy7drHMUh9apYeYGTQ2e"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star SPECIAL No.2",
+        "url": "https://open.spotify.com/album/04OsyQmr5GKxEjHLp9dy5M"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241712,
+      "name": "Mercy (Duffy)",
+      "url": "https://open.spotify.com/track/1QIVvIbSTzlEpj8gm1iMMy"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No.2",
+        "url": "https://open.spotify.com/album/1LXde8OSzesqdDfOgU2DqZ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 241712,
+      "name": "Mercy (Duffy)",
+      "url": "https://open.spotify.com/track/7gQPFz57G4fDsAVMgWsibt"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248051,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248111,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/3ga39Pl8BtmEQOFLHHnSnb"
+    },
+    {
+      "album": {
+        "name": "Show Me the Money 4 Episode 4",
+        "url": "https://open.spotify.com/album/1yocxA6MOGK0NkxS0KXpMk"
+      },
+      "artists": [
+        {
+          "name": "InnoVator",
+          "url": "https://open.spotify.com/artist/2MAVttb6d2Zgvjm0oAlDvn"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225016,
+      "name": "MORE THAN A TV STAR",
+      "url": "https://open.spotify.com/track/1FAhF5KRXdgPSkfXTSzUln"
+    },
+    {
+      "album": {
+        "name": "Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 10",
+        "url": "https://open.spotify.com/album/1xzKCVdDE3tIXkEGDjLQ7E"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220929,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/4PvVKyqJ6pLVi5HKpAjTPc"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221774,
+      "name": "MY STAR",
+      "url": "https://open.spotify.com/track/42Dl2MOplqImwLoIPMv6Me"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221831,
+      "name": "MY STAR",
+      "url": "https://open.spotify.com/track/2MAoyFo5GnR6MlX6VZbTNI"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0lhZsFfTpITnjK5q8lrDLR"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "G.Soul",
+          "url": "https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256888,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/0jA0TihvVbPHgrIcHbW1Og"
+    },
+    {
+      "album": {
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "G.Soul",
+          "url": "https://open.spotify.com/artist/0fLesFHNsJpalRtqzSYxnd"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256888,
+      "name": "NO WAY",
+      "url": "https://open.spotify.com/track/4WxeDb9YZABqk3QaH9CCu1"
+    },
+    {
+      "album": {
+        "name": "PEOPLE",
+        "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "O (Feat. LEE HI)",
+      "url": "https://open.spotify.com/track/7iooxPmnLY6wZynSplHUah"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1xnXVzinhfO4I9CzTocPfh"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Incredivle",
+          "url": "https://open.spotify.com/artist/10DC7UmwtLsdVCBZ0jfsW7"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209266,
+      "name": "OFFICIAL",
+      "url": "https://open.spotify.com/track/2v1ksuWEkleGRlj60cMyxZ"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/4p27GsqUEbfl83iPtt0IcI"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "\uc778\ud06c\ub808\ub354\ube14",
+          "url": "https://open.spotify.com/artist/0YhDHW8UkDzlw6ZNJtZZXk"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209199,
+      "name": "OFFICIAL",
+      "url": "https://open.spotify.com/track/6HRqKj06oBjiKdmDOhCvPs"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "\uc778\ud06c\ub808\ub354\ube14",
+          "url": "https://open.spotify.com/artist/0YhDHW8UkDzlw6ZNJtZZXk"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209199,
+      "name": "OFFICIAL",
+      "url": "https://open.spotify.com/track/6VcH0CquknNzLpI0cmNewJ"
+    },
+    {
+      "album": {
+        "name": "Reborn",
+        "url": "https://open.spotify.com/album/5thIDYwoYFRctQMTN4V6CM"
+      },
+      "artists": [
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279130,
+      "name": "On & On (feat. Lee Hi)",
+      "url": "https://open.spotify.com/track/2fC4olmcp1E6bVl3PUUUcf"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/4XdOSuVpqTLIijpQ3oGBti"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "ONLY",
+      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199302,
+      "name": "PASSING BY",
+      "url": "https://open.spotify.com/track/7cBSImiOnfgDsBeIS6j8B8"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199366,
+      "name": "PASSING BY",
+      "url": "https://open.spotify.com/track/50uF4S4HMtpv3mzAwjMcj5"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Yoon Mirae",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "Red Lipstick (feat. Yoonmirae)",
+      "url": "https://open.spotify.com/track/7nJc2Oxfn7xRX3eF4hltyl"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 SPECIAL No.4",
+        "url": "https://open.spotify.com/album/2CFVLRtG7TN232bfi5pmvV"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 279661,
+      "name": "Rolling In The Deep",
+      "url": "https://open.spotify.com/track/4CAB7WzQL3cK7BpOGWnONE"
+    },
+    {
+      "album": {
+        "name": "SBS KPOP STAR SPECIAL No.4",
+        "url": "https://open.spotify.com/album/62zmF7R1COtScjryNod3sv"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279588,
+      "name": "Rolling In The Deep (Adele)",
+      "url": "https://open.spotify.com/track/1OJp6rZ8X2lXXsAWGv9WQd"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No.4",
+        "url": "https://open.spotify.com/album/1uGmaZBEEDXZwNNMHcKPPL"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 279588,
+      "name": "Rolling in the deep (Adele)",
+      "url": "https://open.spotify.com/track/72jQuoyLGj5tX6XhvlANB6"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222287,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/1zl7VGjTBriRXgdHEb6z1e"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222287,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/6MksZu2sx5jzoPszxbRZMw"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248093,
+      "name": "Safety Zone",
+      "url": "https://open.spotify.com/track/4yUrkvM634vJTljUN9gDxV"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215560,
+      "name": "Savior (feat. B.I)",
+      "url": "https://open.spotify.com/track/0DYvTdqBqW6erA1a7pFzVo"
+    },
+    {
+      "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/3dk6na7D8EC1eKvZreFLHH"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263359,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/38LCemy4NopfTNkIH423sQ"
+    },
+    {
+      "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/379SRCYYEmc2mlPdjMo55S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263359,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/7xKxOpLTtfk0LGM3FfYXZt"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236639,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/4MwT3qzF3tfMtSFr9b2nKa"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236639,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/4mvYxbLsjxt4sMYBgB1XT8"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 6",
+        "url": "https://open.spotify.com/album/0RC3Zi3iVJqEsk2L4TMpTN"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-23",
+      "duration_ms": 204753,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/5stdUO4GG7DUTEEi9phHDe"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star Top 6",
+        "url": "https://open.spotify.com/album/3U4n9QnSkomh5SrEFCTGyd"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204670,
+      "name": "Sway (The Pussycat Dolls)",
+      "url": "https://open.spotify.com/track/5a7PqfxaGqnQ2cwrzrneR7"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 6",
+        "url": "https://open.spotify.com/album/53i3A4spyFNPr5IO5g6Is4"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 204618,
+      "name": "Sway (\ud478\uc2dc\ucea3\ub3cc\uc2a4)",
+      "url": "https://open.spotify.com/track/40b0zEI13mYnmNA8VSyx6W"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107551,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/02L48nV0vwTuXl9bLIlMFn"
+    },
+    {
+      "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/4m0yIZ1YpdcKQAoDJq466S"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107551,
+      "name": "Turn It Up",
+      "url": "https://open.spotify.com/track/0t6hr8idp6EACxH95LCbjC"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 Top 3",
+        "url": "https://open.spotify.com/album/2KnJ8hw1rWRdrsnRqo4CQz"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 221767,
+      "name": "U Go Girl",
+      "url": "https://open.spotify.com/track/3qYgty7NLEqtlp5g3zcaf0"
+    },
+    {
+      "album": {
+        "name": "SBS K-POP Star Top 3",
+        "url": "https://open.spotify.com/album/16jo5GozI0XJRVxzfY7ka0"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221780,
+      "name": "U Go Girl (Lee hyo ri)",
+      "url": "https://open.spotify.com/track/0txg4Pz2HSLfYhHWWLWQ8T"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 3",
+        "url": "https://open.spotify.com/album/6TFW5xgNem8rm12rspjfW6"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 221728,
+      "name": "U Go Girl (\uc774\ud6a8\ub9ac)",
+      "url": "https://open.spotify.com/track/09HZ40hwlGbkl8mObkd1K5"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220437,
+      "name": "UP ALL NIGHT",
+      "url": "https://open.spotify.com/track/3cLdPR1C6skgxJBIBv1CKt"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Tablo",
+          "url": "https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220499,
+      "name": "UP ALL NIGHT",
+      "url": "https://open.spotify.com/track/1FxbmTpIXQ1TxR4Y3Klbba"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220276,
+      "name": "VIDEO",
+      "url": "https://open.spotify.com/track/47BdJbgr65cQhP3qlteQKx"
+    },
+    {
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/1g08wh1OcyBLzMqRjNj5xJ"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "Bobby",
+          "url": "https://open.spotify.com/artist/7Ca2iJ7BxIjFwgt26PPGwY"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220342,
+      "name": "VIDEO",
+      "url": "https://open.spotify.com/track/71vXgkxUvxRrqbyQM15nEO"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184146,
+      "name": "Waterride",
+      "url": "https://open.spotify.com/track/7JXNH2xnA23vsGasejVfWr"
+    },
+    {
+      "album": {
+        "name": "We'll shine brighter than any other stars (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "We'll shine brighter than any other stars",
+      "url": "https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN"
+    },
+    {
+      "album": {
+        "name": "4 ONLY",
+        "url": "https://open.spotify.com/album/1DKgZeAYrjslAPZVMe6EFt"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "What is Love?",
+      "url": "https://open.spotify.com/track/3lc5fY2NwKXNdchJtx58kR"
+    },
+    {
+      "album": {
+        "name": "MUGGLES' MANSION",
+        "url": "https://open.spotify.com/album/4SUzNglOur6GH4IGIbNGcr"
+      },
+      "artists": [
+        {
+          "name": "CODE KUNST",
+          "url": "https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311677,
+      "name": "X (Feat. LEE HI)",
+      "url": "https://open.spotify.com/track/2oUallb0gAqnNnfGbM4qvT"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No.1",
+        "url": "https://open.spotify.com/album/46KoGLUEOyWGNl40AtJ9es"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274181,
+      "name": "\ub108\ub97c \uc704\ud574",
+      "url": "https://open.spotify.com/track/111lT3seN0Pv8o1UyVS1QZ"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 SPECIAL No. 1",
+        "url": "https://open.spotify.com/album/0PgoKeu5BzbV1bnRNYGqT2"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 274130,
+      "name": "\ub108\ub97c \uc704\ud574 (\uc784\uc7ac\ubc94)",
+      "url": "https://open.spotify.com/track/6Jz9hOHzBelNmLS9VBH8e8"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 7",
+        "url": "https://open.spotify.com/album/0PoITVGORG6ZiwsMJub0wE"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217013,
+      "name": "\ubbf8\ub828\ud55c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/2KRm7Iq0GrO3PETShjQbVx"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 7",
+        "url": "https://open.spotify.com/album/1yqNF1bTa3chsSqTdvgwj6"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 216974,
+      "name": "\ubbf8\ub828\ud55c \uc0ac\ub791 (\ub4dc\ub77c\ub9c8 \u2018\uc704\uae30\uc758 \ub0a8\uc790\u2019 OST)",
+      "url": "https://open.spotify.com/track/79v7W7FWRlvPUya5fM96dX"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 4",
+        "url": "https://open.spotify.com/album/4v99Mj19dKL74LBvNeoDPx"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236657,
+      "name": "\uc2dc\uac04\uc774 \ud750\ub978\ub4a4",
+      "url": "https://open.spotify.com/track/6rxpTJhUS1ki1Iyx56TQNx"
+    },
+    {
+      "album": {
+        "name": "SBS K\ud31d \uc2a4\ud0c0 Top 4",
+        "url": "https://open.spotify.com/album/384IlTelKKxsl7GhKR0fLO"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 236601,
+      "name": "\uc2dc\uac04\uc774 \ud750\ub978\ub4a4 (\uc724\ubbf8\ub798)",
+      "url": "https://open.spotify.com/track/1irFXcPywKkxFQSKlXspjU"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/2yoHPRtdSlxHnJYDvnWFuO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250806,
+      "name": "\ucda5\ub2e4 It\u2019s Cold",
+      "url": "https://open.spotify.com/track/1JhztOTG8OBOrC6myRrnZs"
+    },
+    {
+      "album": {
+        "name": "99",
+        "url": "https://open.spotify.com/album/1e2r6700uHv9zThv6bAIDE"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250806,
+      "name": "\ucda5\ub2e4 It\u2019s Cold",
+      "url": "https://open.spotify.com/track/7LK8PsXpWP2okRiC5VnlLP"
+    },
+    {
+      "album": {
+        "name": "EPIK HIGH - SHOEBOX",
+        "url": "https://open.spotify.com/album/3jdV0dbTuNfdRwEimoJ28a"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Joe Won Sun",
+          "url": "https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264349,
+      "name": "\ud5e4\ud508\uc5d4\ub529 Happen Ending",
+      "url": "https://open.spotify.com/track/6KrJn7TLGbkXwbU8GAS5Sk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWWwqfy8EHP6"
 }

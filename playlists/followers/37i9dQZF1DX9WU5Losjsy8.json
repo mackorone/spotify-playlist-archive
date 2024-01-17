@@ -1,160 +1,2191 @@
 {
-  "2023-07-28": 341722,
-  "2023-07-29": 342311,
-  "2023-07-30": 343007,
-  "2023-07-31": 343424,
-  "2023-08-01": 343727,
-  "2023-08-02": 344054,
-  "2023-08-03": 344410,
-  "2023-08-04": 344753,
-  "2023-08-05": 345152,
-  "2023-08-06": 345928,
-  "2023-08-07": 345928,
-  "2023-08-08": 346184,
-  "2023-08-09": 346490,
-  "2023-08-10": 346775,
-  "2023-08-11": 347128,
-  "2023-08-12": 347630,
-  "2023-08-13": 348098,
-  "2023-08-14": 348462,
-  "2023-08-15": 349045,
-  "2023-08-16": 349045,
-  "2023-08-17": 349375,
-  "2023-08-18": 349704,
-  "2023-08-19": 350146,
-  "2023-08-20": 350606,
-  "2023-08-21": 350919,
-  "2023-08-22": 351194,
-  "2023-08-23": 351481,
-  "2023-08-24": 351798,
-  "2023-08-25": 352147,
-  "2023-08-26": 352548,
-  "2023-08-27": 352966,
-  "2023-08-28": 353246,
-  "2023-08-29": 353484,
-  "2023-08-30": 353662,
-  "2023-08-31": 353900,
-  "2023-09-01": 354408,
-  "2023-09-02": 354408,
-  "2023-09-03": 354638,
-  "2023-09-04": 354877,
-  "2023-09-05": 355152,
-  "2023-09-06": 355397,
-  "2023-09-07": 355669,
-  "2023-09-08": 355946,
-  "2023-09-09": 356239,
-  "2023-09-10": 356570,
-  "2023-09-11": 356826,
-  "2023-09-12": 357047,
-  "2023-09-13": 357289,
-  "2023-09-14": 357521,
-  "2023-09-15": 357806,
-  "2023-09-16": 358153,
-  "2023-09-17": 358487,
-  "2023-09-18": 358702,
-  "2023-09-19": 358863,
-  "2023-09-20": 358986,
-  "2023-09-21": 359190,
-  "2023-09-22": 359421,
-  "2023-09-23": 359732,
-  "2023-09-24": 359968,
-  "2023-09-25": 360157,
-  "2023-09-26": 360371,
-  "2023-09-27": 360511,
-  "2023-09-28": 360712,
-  "2023-09-29": 360947,
-  "2023-09-30": 361224,
-  "2023-10-01": 361469,
-  "2023-10-02": 361670,
-  "2023-10-03": 361821,
-  "2023-10-04": 361975,
-  "2023-10-05": 362123,
-  "2023-10-06": 362298,
-  "2023-10-07": 362487,
-  "2023-10-08": 362722,
-  "2023-10-09": 362887,
-  "2023-10-10": 362951,
-  "2023-10-11": 363207,
-  "2023-10-12": 363207,
-  "2023-10-13": 363362,
-  "2023-10-14": 363520,
-  "2023-10-15": 363740,
-  "2023-10-16": 363900,
-  "2023-10-17": 364042,
-  "2023-10-18": 364160,
-  "2023-10-19": 364292,
-  "2023-10-20": 364438,
-  "2023-10-21": 364658,
-  "2023-10-22": 364921,
-  "2023-10-23": 365056,
-  "2023-10-24": 365183,
-  "2023-10-25": 365345,
-  "2023-10-26": 365486,
-  "2023-10-27": 365665,
-  "2023-10-28": 365665,
-  "2023-10-29": 365665,
-  "2023-10-30": 366228,
-  "2023-10-31": 366228,
-  "2023-11-01": 366545,
-  "2023-11-02": 366679,
-  "2023-11-03": 366790,
-  "2023-11-04": 366966,
-  "2023-11-05": 367173,
-  "2023-11-06": 367295,
-  "2023-11-07": 367391,
-  "2023-11-08": 367480,
-  "2023-11-09": 367625,
-  "2023-11-10": 367783,
-  "2023-11-11": 367975,
-  "2023-11-12": 368177,
-  "2023-11-13": 368282,
-  "2023-11-14": 368362,
-  "2023-11-15": 368362,
-  "2023-11-16": 370753,
-  "2023-11-17": 375549,
-  "2023-11-18": 375549,
-  "2023-11-19": 376704,
-  "2023-11-20": 377542,
-  "2023-11-21": 377891,
-  "2023-11-22": 378063,
-  "2023-11-23": 378212,
-  "2023-11-24": 378212,
-  "2023-11-25": 378640,
-  "2023-11-26": 378941,
-  "2023-11-27": 379152,
-  "2023-11-28": 379345,
-  "2023-11-29": 379783,
-  "2023-11-30": 379783,
-  "2023-12-01": 379957,
-  "2023-12-02": 380143,
-  "2023-12-03": 380346,
-  "2023-12-04": 380460,
-  "2023-12-05": 380624,
-  "2023-12-06": 380786,
-  "2023-12-07": 380957,
-  "2023-12-08": 381154,
-  "2023-12-09": 381414,
-  "2023-12-10": 381706,
-  "2023-12-11": 381892,
-  "2023-12-12": 381892,
-  "2023-12-13": 382202,
-  "2023-12-14": 382404,
-  "2023-12-15": 382575,
-  "2023-12-16": 382831,
-  "2023-12-17": 383077,
-  "2023-12-18": 383266,
-  "2023-12-19": 383389,
-  "2023-12-20": 383519,
-  "2023-12-21": 383695,
-  "2023-12-22": 383898,
-  "2023-12-23": 384127,
-  "2023-12-24": 384398,
-  "2023-12-25": 384589,
-  "2023-12-26": 384769,
-  "2023-12-27": 384953,
-  "2023-12-30": 385905,
-  "2023-12-31": 386533,
-  "2024-01-01": 387666,
-  "2024-01-02": 387842,
-  "2024-01-03": 387960
+  "2024-01-17": 389997,
+  "date_first_scraped": "2023-07-28",
+  "description": "Skifoan und H\u00fcttenabriss.",
+  "name": "Apr\u00e8s Ski Party 2023",
+  "tracks": [
+    {
+      "album": {
+        "name": "24-6 (Scheissegal welcher Tag)",
+        "url": "https://open.spotify.com/album/5AXr8RJzTQgDbUec1Yf4uv"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 137205,
+      "name": "24-6 (Scheissegal welcher Tag)",
+      "url": "https://open.spotify.com/track/7IXJHfvpYAtjXbyxfxMMVz"
+    },
+    {
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
+    },
+    {
+      "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "album": {
+        "name": "Anna-Lena",
+        "url": "https://open.spotify.com/album/2NQEW9DajvxCNWSyj0eS5d"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Deejay Matze",
+          "url": "https://open.spotify.com/artist/0H6wOLvnEYsQ0ajR7QaBA4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180741,
+      "name": "Anna-Lena",
+      "url": "https://open.spotify.com/track/5NTiHVwhx2FpUsuSbgkDGE"
+    },
+    {
+      "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+    },
+    {
+      "album": {
+        "name": "Arielle",
+        "url": "https://open.spotify.com/album/4EXFZVB4injyDGnD86Z77z"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 205217,
+      "name": "Arielle",
+      "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
+    },
+    {
+      "album": {
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+    },
+    {
+      "album": {
+        "name": "Auf dem Besen an den Tresen",
+        "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
+      },
+      "artists": [
+        {
+          "name": "Milla Pink",
+          "url": "https://open.spotify.com/artist/3SPz8uSbGWbwUF6zWGUpJ5"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182608,
+      "name": "Auf dem Besen an den Tresen",
+      "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
+    },
+    {
+      "album": {
+        "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
+        "url": "https://open.spotify.com/album/5HQxiHwV6aa81zg3zJg1Nc"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        },
+        {
+          "name": "Banjee",
+          "url": "https://open.spotify.com/artist/09Cd4t2LRKHr2sPbAXw4rm"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 151579,
+      "name": "Auf geht\u2019s nach Malle (Sar\u00e0 perch\u00e9 ti amo)",
+      "url": "https://open.spotify.com/track/2T8t116RDkrvAA6WwzdMJm"
+    },
+    {
+      "album": {
+        "name": "BIER",
+        "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
+      },
+      "artists": [
+        {
+          "name": "Drunken Masters",
+          "url": "https://open.spotify.com/artist/0cUMeX7DFLIvLy0q8uqp6q"
+        },
+        {
+          "name": "Maxim K.I.Z",
+          "url": "https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k"
+        },
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129652,
+      "name": "BIER",
+      "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "album": {
+        "name": "Bierkapit\u00e4n",
+        "url": "https://open.spotify.com/album/03XXTzsrfTq1Ia0MpNUZUC"
+      },
+      "artists": [
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210857,
+      "name": "Bierkapit\u00e4n",
+      "url": "https://open.spotify.com/track/2Z4KnwY4Br79ApyyKjbOHv"
+    },
+    {
+      "album": {
+        "name": "Crackstreet Boys 3 (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/5vQR3Ch9WNXvv2PS4hRpbK"
+      },
+      "artists": [
+        {
+          "name": "Trailerpark",
+          "url": "https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265494,
+      "name": "Bleib in der Schule",
+      "url": "https://open.spotify.com/track/14ZdGRgEojosST783o66CX"
+    },
+    {
+      "album": {
+        "name": "Blockfl\u00f6tenunterricht",
+        "url": "https://open.spotify.com/album/1SmbclDf51xHvmCnWocak8"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Pottsau",
+          "url": "https://open.spotify.com/artist/0XRGK8re2VVOL05DsNnsu6"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-22",
+      "duration_ms": 155139,
+      "name": "Blockfl\u00f6tenunterricht",
+      "url": "https://open.spotify.com/track/6wWF5ahS0ebMhgOk6JbrcB"
+    },
+    {
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/28Uw8SirDAGkAOYAKrWsz3"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 181026,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/6Z0k1oFdDR5zwAr59InV2q"
+    },
+    {
+      "album": {
+        "name": "Das Beste von Geier Sturzflug",
+        "url": "https://open.spotify.com/album/54rKvmBRbHPZApexRA7tce"
+      },
+      "artists": [
+        {
+          "name": "Geier Sturzflug",
+          "url": "https://open.spotify.com/artist/3vQGJGekBpxyOrob92qTcE"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182333,
+      "name": "Bruttosozialprodukt",
+      "url": "https://open.spotify.com/track/7KvP2ZTaarTcejYyR8KWPs"
+    },
+    {
+      "album": {
+        "name": "Bumsbar",
+        "url": "https://open.spotify.com/album/4EnA5a6Tq3l6tVCM7hLPgP"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/3S7AhpeKHSKMRNhMpJAOPN"
+    },
+    {
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/4Q0B9Rb7PK8tbmQBWB7KDN"
+    },
+    {
+      "album": {
+        "name": "Bumsbar",
+        "url": "https://open.spotify.com/album/5scHLxNmarpll2bsmIP9ny"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 150857,
+      "name": "Bumsbar",
+      "url": "https://open.spotify.com/track/62NrIrsxxNXJVvtRivWYjM"
+    },
+    {
+      "album": {
+        "name": "Mitten in die Scheibe",
+        "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167280,
+      "name": "Can You English Please",
+      "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
+    },
+    {
+      "album": {
+        "name": "Ciao 3 Tage Blau",
+        "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
+      },
+      "artists": [
+        {
+          "name": "David Dichter",
+          "url": "https://open.spotify.com/artist/74h8vjazetNDShaoBT7Oxj"
+        },
+        {
+          "name": "Inki Nici",
+          "url": "https://open.spotify.com/artist/6XImI4RFNKNPL82h8eRTxP"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Ciao 3 Tage Blau",
+      "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
+    },
+    {
+      "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209240,
+      "name": "Das geht ab - Wir feiern die ganze Nacht",
+      "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
+    },
+    {
+      "album": {
+        "name": "Delfin",
+        "url": "https://open.spotify.com/album/1mJVITyXpxZqITt9O5iS5i"
+      },
+      "artists": [
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175984,
+      "name": "Delfin",
+      "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
+    },
+    {
+      "album": {
+        "name": "Der Zug hat keine Bremse (Mallorcastyle Edition)",
+        "url": "https://open.spotify.com/album/1EqQTMuCCCO7wXH8S9pZyZ"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+        },
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207301,
+      "name": "Der Zug hat keine Bremse - Mallorcastyle Edition",
+      "url": "https://open.spotify.com/track/3T4DdPVqWeaC4U7vrIxlKz"
+    },
+    {
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "album": {
+        "name": "Die Nacht von Freitag auf Montag",
+        "url": "https://open.spotify.com/album/7BxwSFUIIiDmHqZv6pdtt6"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178578,
+      "name": "Die Nacht von Freitag auf Montag",
+      "url": "https://open.spotify.com/track/0NjLgGCwHAE0KhVTALxdCb"
+    },
+    {
+      "album": {
+        "name": "Atzen Musik Vol.1, 2 & 3",
+        "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204946,
+      "name": "Disco Pogo",
+      "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "album": {
+        "name": "Dorflove",
+        "url": "https://open.spotify.com/album/5Zc70IF65u7YKRkIS88MnR"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Thekensportlerz",
+          "url": "https://open.spotify.com/artist/0TmXQnUwPnEx8MLICEk1r4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161046,
+      "name": "Dorflove",
+      "url": "https://open.spotify.com/track/77yRw8X35yyFdpXmziekb7"
+    },
+    {
+      "album": {
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+    },
+    {
+      "album": {
+        "name": "Ein bisschen Aroma (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/6sD91fTd5gCe5JbnngQmer"
+      },
+      "artists": [
+        {
+          "name": "Roger Whittaker",
+          "url": "https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178540,
+      "name": "Ein bisschen Aroma - Stereoact Remix",
+      "url": "https://open.spotify.com/track/38lWlGRELJxyYGLNJvi48e"
+    },
+    {
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+    },
+    {
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
+    },
+    {
+      "album": {
+        "name": "Felicit\u00e0 (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/2FWtL7RNtw2bPUo5MM5XBG"
+      },
+      "artists": [
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        },
+        {
+          "name": "Al Bano",
+          "url": "https://open.spotify.com/artist/2gpELJDuhOQi1DPcI0VFvw"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148447,
+      "name": "Felicit\u00e0 - Stereoact Remix",
+      "url": "https://open.spotify.com/track/0e78YaDsbQxnfbQWofzBrH"
+    },
+    {
+      "album": {
+        "name": "Filmriss",
+        "url": "https://open.spotify.com/album/3wulBgGVUtbWHJRNvhBtAP"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134125,
+      "name": "Filmriss",
+      "url": "https://open.spotify.com/track/3wPFB1azIiqIeydG9q9cYW"
+    },
+    {
+      "album": {
+        "name": "Finchi's Love Tape",
+        "url": "https://open.spotify.com/album/2XTORm9FlIAjLcTqrguBhM"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 170773,
+      "name": "FiNCHiBOY",
+      "url": "https://open.spotify.com/track/4ipRnhSMOaVeLCCo5sPY9K"
+    },
+    {
+      "album": {
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
+    },
+    {
+      "album": {
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
+    },
+    {
+      "album": {
+        "name": "Culcha Candela",
+        "url": "https://open.spotify.com/album/74tpHkTc0lXgJDz7JrvlfM"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209453,
+      "name": "Hamma! - Single Edit",
+      "url": "https://open.spotify.com/track/3vaBHxfz5WPBLLPt1hTUvI"
+    },
+    {
+      "album": {
+        "name": "Heisser Sand",
+        "url": "https://open.spotify.com/album/3FcXS14uhxaHh8feUoh1eV"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 123970,
+      "name": "Heisser Sand",
+      "url": "https://open.spotify.com/track/6AcRKskDUMJxjoTKOPeg0z"
+    },
+    {
+      "album": {
+        "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+        "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246433,
+      "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
+      "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+    },
+    {
+      "album": {
+        "name": "Heute nicht!",
+        "url": "https://open.spotify.com/album/1FdsZbNb6kwDtcWpuikGhm"
+      },
+      "artists": [
+        {
+          "name": "Ben Zucker",
+          "url": "https://open.spotify.com/artist/1ZHJdXXtKnmUh2qRN4LmbS"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194271,
+      "name": "Heute nicht!",
+      "url": "https://open.spotify.com/track/3edAKB1WUrzlgxhXJ2Vnar"
+    },
+    {
+      "album": {
+        "name": "Hoch die H\u00e4nde Wochenende",
+        "url": "https://open.spotify.com/album/4L7ct8MkMn8XeNKdmQKetZ"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174719,
+      "name": "Hoch die H\u00e4nde Wochenende",
+      "url": "https://open.spotify.com/track/3ndmKMdYgiU8TbNjOx1weG"
+    },
+    {
+      "album": {
+        "name": "Holterdiepolter",
+        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
+      },
+      "artists": [
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        },
+        {
+          "name": "Georg Stengel",
+          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Holterdiepolter",
+      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
+    },
+    {
+      "album": {
+        "name": "Mountain Man",
+        "url": "https://open.spotify.com/album/69F0Qxhf00pYFrfBsJbI6a"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gabalier",
+          "url": "https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180252,
+      "name": "Hulapalu",
+      "url": "https://open.spotify.com/track/627QU4vNG3alCWCK1FMeLK"
+    },
+    {
+      "album": {
+        "name": "Hurra die Gams",
+        "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
+      },
+      "artists": [
+        {
+          "name": "Matty Valentino",
+          "url": "https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204444,
+      "name": "Hurra die Gams",
+      "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
+    },
+    {
+      "album": {
+        "name": "Ich bleib hier",
+        "url": "https://open.spotify.com/album/2whxURNncAj78xYqErLbFP"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162947,
+      "name": "Ich bleib hier",
+      "url": "https://open.spotify.com/track/7vcCXaCkdWuoAxUvB9uQRj"
+    },
+    {
+      "album": {
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
+      },
+      "artists": [
+        {
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+    },
+    {
+      "album": {
+        "name": "Ich schie\u00df mich weg",
+        "url": "https://open.spotify.com/album/1nkb9GbsadB9rE1vonRmXg"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 127989,
+      "name": "Ich schie\u00df mich weg",
+      "url": "https://open.spotify.com/track/72ZWod6JckJuSZ4BeyEqPU"
+    },
+    {
+      "album": {
+        "name": "Nummer Eins",
+        "url": "https://open.spotify.com/album/4LsbC8kqRWTfexA75JsX6J"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208877,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6l38mlHmXSlVmDFO6YZgQH"
+    },
+    {
+      "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/742VvDCF4zXCzI8GmFsjuM"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "date_added": "2023-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/3OKZWo5UysbgFcBh0H12Su"
+    },
+    {
+      "album": {
+        "name": "Ich schwanke noch",
+        "url": "https://open.spotify.com/album/3RyHanFXbchaHozto8cFJN"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 209358,
+      "name": "Ich schwanke noch",
+      "url": "https://open.spotify.com/track/6myefhZIHsPCDloC1iu8KS"
+    },
+    {
+      "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/6wGn5LhAfZsymA3wVyBWFv"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/1op1VrGBMP2uuPOMFQ45R3"
+    },
+    {
+      "album": {
+        "name": "Igel",
+        "url": "https://open.spotify.com/album/2dqW7QnxwLvGwiEybKnKoD"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "Vanessa Mai",
+          "url": "https://open.spotify.com/artist/3WUe8ADT5d65WeByR3ubl7"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 134826,
+      "name": "Igel",
+      "url": "https://open.spotify.com/track/3QsETZCrcWXIYu0wCMlI6w"
+    },
+    {
+      "album": {
+        "name": "Inselfieber",
+        "url": "https://open.spotify.com/album/1tPPkh2N7XXw9NwOKJaNNL"
+      },
+      "artists": [
+        {
+          "name": "Peter Wackel",
+          "url": "https://open.spotify.com/artist/2AkhLtPZf3dPJZRrXqBqXb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153956,
+      "name": "Inselfieber",
+      "url": "https://open.spotify.com/track/4aqVi3KlBMbmbbD07MHNFS"
+    },
+    {
+      "album": {
+        "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+        "url": "https://open.spotify.com/album/268VrfGJQ200XIqhvZIypX"
+      },
+      "artists": [
+        {
+          "name": "Lorenz B\u00fcffel",
+          "url": "https://open.spotify.com/artist/6dKYo2aegt1Cpez6tyd2ai"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 223671,
+      "name": "Johnny D\u00e4pp (Ich will Mallorca zur\u00fcck)",
+      "url": "https://open.spotify.com/track/2TBimpeTwsFPzpSRuUHw18"
+    },
+    {
+      "album": {
+        "name": "Kabinenparty",
+        "url": "https://open.spotify.com/album/2aP4tzkye6IAAW0h3wJfV5"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Kabinenparty",
+      "url": "https://open.spotify.com/track/4TUtbQyNMmitAOXIsAMhLn"
+    },
+    {
+      "album": {
+        "name": "Kabinenparty (feat. MAKZ 38) [Kreisliga Mix]",
+        "url": "https://open.spotify.com/album/20F5fGaxNSc27Fxp3rNO1x"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Nils_Gucki",
+          "url": "https://open.spotify.com/artist/0IKHmPWMEtjcERBTOo34GF"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142750,
+      "name": "Kabinenparty (feat. MAKZ 38) - Kreisliga Mix",
+      "url": "https://open.spotify.com/track/4tL82MSbNxW9aMexbmnXS2"
+    },
+    {
+      "album": {
+        "name": "King Kong",
+        "url": "https://open.spotify.com/album/4RBDtEQ86Uj6hQ1b31H03n"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156120,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/7GIlBNE6pZRfoRfo4oL7f0"
+    },
+    {
+      "album": {
+        "name": "Kleine Fee",
+        "url": "https://open.spotify.com/album/6mR5HHT7NuAD3ZA82tusHM"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 138721,
+      "name": "Kleine Fee",
+      "url": "https://open.spotify.com/track/6Hh3PWarkgiMwUP2klVS8h"
+    },
+    {
+      "album": {
+        "name": "Klempner Klaus",
+        "url": "https://open.spotify.com/album/4ZUCnOcTeLaz8XAKhl1zTL"
+      },
+      "artists": [
+        {
+          "name": "GABBY",
+          "url": "https://open.spotify.com/artist/7gM9yfQR9QrXqnHmeIkhbI"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155820,
+      "name": "Klempner Klaus",
+      "url": "https://open.spotify.com/track/0LStK5S9hM7tmi8X7TItkY"
+    },
+    {
+      "album": {
+        "name": "Knicklicht",
+        "url": "https://open.spotify.com/album/1TqfTWxuO8ciwXwoUB5GgE"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138400,
+      "name": "Knicklicht",
+      "url": "https://open.spotify.com/track/4tPfm4RkiCw8XppXUnFe7c"
+    },
+    {
+      "album": {
+        "name": "Layla",
+        "url": "https://open.spotify.com/album/6CL5pcCUiPeuKmI9U630l4"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185437,
+      "name": "Layla",
+      "url": "https://open.spotify.com/track/3ujiq7yK4Uan5z4876fHLK"
+    },
+    {
+      "album": {
+        "name": "Lea",
+        "url": "https://open.spotify.com/album/7DpARaNJn5iLOKGVANTSsq"
+      },
+      "artists": [
+        {
+          "name": "Bierkapit\u00e4n",
+          "url": "https://open.spotify.com/artist/3HoitUEA01wrQKA6ONZUuD"
+        },
+        {
+          "name": "Andy Luxx",
+          "url": "https://open.spotify.com/artist/09Mknlo1aOXbEtxUD41wH2"
+        },
+        {
+          "name": "Dj Aaron",
+          "url": "https://open.spotify.com/artist/0pVuJqYW9lsToZRBmkFXPJ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Lea",
+      "url": "https://open.spotify.com/track/02AnxXaXzxredcMjjb26U0"
+    },
+    {
+      "album": {
+        "name": "Mallelelele",
+        "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133898,
+      "name": "Mallelelele",
+      "url": "https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT"
+    },
+    {
+      "album": {
+        "name": "Mallorca mein L\u00f6we mein B\u00e4r",
+        "url": "https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Honk!",
+          "url": "https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 176318,
+      "name": "Mallorca mein L\u00f6we mein B\u00e4r",
+      "url": "https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx"
+    },
+    {
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
+    },
+    {
+      "album": {
+        "name": "Mannschaftsfahrt",
+        "url": "https://open.spotify.com/album/55VymWungTBtByJ89fhnJD"
+      },
+      "artists": [
+        {
+          "name": "Kreisligalegende",
+          "url": "https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f"
+        },
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Malin Brown",
+          "url": "https://open.spotify.com/artist/40wyS6jSrnAlcl9xBbCVnA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 168895,
+      "name": "Mannschaftsfahrt",
+      "url": "https://open.spotify.com/track/4VDJ1wK7eszdBpWGvDV3Tc"
+    },
+    {
+      "album": {
+        "name": "Marie",
+        "url": "https://open.spotify.com/album/4mcC9YpL3rtRWUDpGPE2XP"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Marie",
+      "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
+    },
+    {
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "album": {
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+      },
+      "artists": [
+        {
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+    },
+    {
+      "album": {
+        "name": "Sch\u00f6ne Neue Welt",
+        "url": "https://open.spotify.com/album/1Le69ZubCAoCHM4Boohkr1"
+      },
+      "artists": [
+        {
+          "name": "Culcha Candela",
+          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196120,
+      "name": "Monsta",
+      "url": "https://open.spotify.com/track/3RM5RpRDDdST1njqOMG141"
+    },
+    {
+      "album": {
+        "name": "Morgen kickt der Kater",
+        "url": "https://open.spotify.com/album/6rmvDE7rJxD35UMJWdRnxz"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-10",
+      "duration_ms": 196764,
+      "name": "Morgen kickt der Kater",
+      "url": "https://open.spotify.com/track/0VB7FDKebXYVAkqZinFRxc"
+    },
+    {
+      "album": {
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+    },
+    {
+      "album": {
+        "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+        "url": "https://open.spotify.com/album/5rwaknmCTOQdMU70HFeG6y"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204283,
+      "name": "Nie mehr Alkohol - freie Getr\u00e4nke",
+      "url": "https://open.spotify.com/track/3tjl4GDKVHhWUdTOlxbHc1"
+    },
+    {
+      "album": {
+        "name": "Nimm mich mit ins Paradies",
+        "url": "https://open.spotify.com/album/3ol2K9AiuZqrl0Yar8CEHm"
+      },
+      "artists": [
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        },
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164078,
+      "name": "Nimm mich mit ins Paradies",
+      "url": "https://open.spotify.com/track/6nOWw1hXnr3FB5F8VKDqzu"
+    },
+    {
+      "album": {
+        "name": "Olivia",
+        "url": "https://open.spotify.com/album/1X3UgwybikhCJJYEZQrQJx"
+      },
+      "artists": [
+        {
+          "name": "Die Zipfelbuben",
+          "url": "https://open.spotify.com/artist/2V63XSO1pn1xopgeRMP06U"
+        },
+        {
+          "name": "DJ Cashi",
+          "url": "https://open.spotify.com/artist/3maDQKNIwvbtAglSmYGhCo"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180157,
+      "name": "Olivia",
+      "url": "https://open.spotify.com/track/6weT0OACEb3e4KLQJInf4I"
+    },
+    {
+      "album": {
+        "name": "Ouzo",
+        "url": "https://open.spotify.com/album/79sU32Jc1Y5anr0Eauub1K"
+      },
+      "artists": [
+        {
+          "name": "Vincent Gross",
+          "url": "https://open.spotify.com/artist/6QU5o9QJmgCLjco0qn6dNy"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274914,
+      "name": "Ouzo",
+      "url": "https://open.spotify.com/track/6QeQs7lz8qR2miwx9n2epp"
+    },
+    {
+      "album": {
+        "name": "Partyanimal",
+        "url": "https://open.spotify.com/album/4pXtlHGw6kiWyntGaLUxSx"
+      },
+      "artists": [
+        {
+          "name": "Micha von der Rampe",
+          "url": "https://open.spotify.com/artist/4hch8p1Mfo8MwyA5J6Vi9w"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139159,
+      "name": "Partyanimal",
+      "url": "https://open.spotify.com/track/7gzdjkagK3pTVW8jYjcYBF"
+    },
+    {
+      "album": {
+        "name": "Partysau",
+        "url": "https://open.spotify.com/album/7os2XcLO5jiSftCstEWzAI"
+      },
+      "artists": [
+        {
+          "name": "Malle Kalle",
+          "url": "https://open.spotify.com/artist/18LfR2nMtsEBVRcjOmpUgP"
+        },
+        {
+          "name": "Danergy",
+          "url": "https://open.spotify.com/artist/0lcOO2pXTNgXWPcOgFQnMf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115680,
+      "name": "Partysau",
+      "url": "https://open.spotify.com/track/0tEr9vAe483LIkxQOEk55R"
+    },
+    {
+      "album": {
+        "name": "DORFDiSKO ZWEi",
+        "url": "https://open.spotify.com/album/2Ca43km7ALoz3Qk6Gbj4JQ"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198160,
+      "name": "PECH & SCHWEFEL",
+      "url": "https://open.spotify.com/track/29QMGzrf349SV10G5sxEk8"
+    },
+    {
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
+    },
+    {
+      "album": {
+        "name": "Rapunzel (DJ Robin Remix)",
+        "url": "https://open.spotify.com/album/3dr4AKRx355JOuK77zvyvX"
+      },
+      "artists": [
+        {
+          "name": "Die Draufg\u00e4nger",
+          "url": "https://open.spotify.com/artist/6poBa7e0hqMo8tfNjh0TAV"
+        },
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        },
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165045,
+      "name": "Rapunzel - DJ Robin Remix",
+      "url": "https://open.spotify.com/track/2WQBFD9aMY1HldcU7Ekvp1"
+    },
+    {
+      "album": {
+        "name": "Sar\u00e0 Perch\u00e9 Ti Amo (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/15GmPCNdbwRiGpK6DjtpQX"
+      },
+      "artists": [
+        {
+          "name": "DJ Redblack",
+          "url": "https://open.spotify.com/artist/3YwK1Kk8VSAtowOX2lRO0c"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122585,
+      "name": "Sar\u00e0 Perch\u00e9 Ti Amo - Stereoact Remix",
+      "url": "https://open.spotify.com/track/7DK22gpHTmpLocUUJgddzk"
+    },
+    {
+      "album": {
+        "name": "Saufen aufm Spielplatz",
+        "url": "https://open.spotify.com/album/0kd5J1CE0NNrppIM1hQi67"
+      },
+      "artists": [
+        {
+          "name": "BroyS",
+          "url": "https://open.spotify.com/artist/3yDixC6rzq0qg2HmZTobCO"
+        },
+        {
+          "name": "Pbb Yea",
+          "url": "https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Saufen aufm Spielplatz",
+      "url": "https://open.spotify.com/track/5U20wHHKhsNDONaKQOC4JG"
+    },
+    {
+      "album": {
+        "name": "Saufi saufi",
+        "url": "https://open.spotify.com/album/2m713Kjk2GYOeBxr7rnbr7"
+      },
+      "artists": [
+        {
+          "name": "Tobee",
+          "url": "https://open.spotify.com/artist/5HvFk00KrkDIPJuzSLFd0r"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206302,
+      "name": "Saufi saufi",
+      "url": "https://open.spotify.com/track/3IsASNnv8A9dS7GoZy1LY9"
+    },
+    {
+      "album": {
+        "name": "Sauftourist",
+        "url": "https://open.spotify.com/album/66sLyPMmwDoRqYo0XU3YLX"
+      },
+      "artists": [
+        {
+          "name": "Ikke H\u00fcftgold",
+          "url": "https://open.spotify.com/artist/2ctUnxn4qlNB9rYMyKJuMf"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-24",
+      "duration_ms": 170944,
+      "name": "Sauftourist",
+      "url": "https://open.spotify.com/track/61eiAAYLa2sygwdg7nt1qL"
+    },
+    {
+      "album": {
+        "name": "Scheiss auf Schickimicki (Video Edit)",
+        "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
+      },
+      "artists": [
+        {
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Scheiss auf Schickimicki - Video Edit",
+      "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
+    },
+    {
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
+    },
+    {
+      "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "album": {
+        "name": "Senorita",
+        "url": "https://open.spotify.com/album/7sC0Co4ka745oGeBfB3Bhk"
+      },
+      "artists": [
+        {
+          "name": "Kay One",
+          "url": "https://open.spotify.com/artist/6VjbeCqoayiHYnefrisskv"
+        },
+        {
+          "name": "Pietro Lombardi",
+          "url": "https://open.spotify.com/artist/387fj6TuPJ3y2H8ViAm6r0"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-15",
+      "duration_ms": 238978,
+      "name": "Senorita",
+      "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
+    },
+    {
+      "album": {
+        "name": "So viel gemeinsam",
+        "url": "https://open.spotify.com/album/6YiV531P44nWmCr2E6PvPl"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 136246,
+      "name": "So viel gemeinsam",
+      "url": "https://open.spotify.com/track/3iyH9HYxpRskunFjMF8F7O"
+    },
+    {
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/5KQ8edF4yq8BPBMxM8al9u"
+      },
+      "artists": [
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/7A9VbC1Bs8Tz7gNrBwDOUX"
+    },
+    {
+      "album": {
+        "name": "Party Chaos",
+        "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
+      },
+      "artists": [
+        {
+          "name": "Die Atzen",
+          "url": "https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu"
+        },
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Strobo Pop",
+      "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+    },
+    {
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO"
+      },
+      "artists": [
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179960,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
+    },
+    {
+      "album": {
+        "name": "Vatta Morgana",
+        "url": "https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l"
+      },
+      "artists": [
+        {
+          "name": "DJ Robin",
+          "url": "https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz"
+        },
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 192302,
+      "name": "Vatta Morgana",
+      "url": "https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH"
+    },
+    {
+      "album": {
+        "name": "Reim (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 220373,
+      "name": "Verdammt, ich lieb Dich - 2020 Remastered",
+      "url": "https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt"
+    },
+    {
+      "album": {
+        "name": "Ich will mehr",
+        "url": "https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Petry",
+          "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
+        }
+      ],
+      "date_added": "2023-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu"
+    },
+    {
+      "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+    },
+    {
+      "album": {
+        "name": "Fredhead",
+        "url": "https://open.spotify.com/album/3tusImScmJ0KI6SYJgSbNR"
+      },
+      "artists": [
+        {
+          "name": "Right Said Fred",
+          "url": "https://open.spotify.com/artist/15ajdFAi5bjj5pS9laBfBL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 197333,
+      "name": "You're My Mate",
+      "url": "https://open.spotify.com/track/7N0ds009y5ZNY90KGPuegE"
+    },
+    {
+      "album": {
+        "name": "Zum Greifen nah",
+        "url": "https://open.spotify.com/album/5s9Tgn9nGXXo3RgUpWwkTf"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        },
+        {
+          "name": "Anstandslos & Durchgeknallt",
+          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167142,
+      "name": "Zum Greifen nah",
+      "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9WU5Losjsy8"
 }

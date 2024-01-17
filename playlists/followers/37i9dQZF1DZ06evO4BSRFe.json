@@ -1,577 +1,1375 @@
 {
-  "2022-06-02": 38852,
-  "2022-06-03": 38875,
-  "2022-06-04": 38896,
-  "2022-06-05": 38930,
-  "2022-06-06": 38955,
-  "2022-06-07": 38969,
-  "2022-06-08": 38989,
-  "2022-06-09": 39002,
-  "2022-06-10": 39019,
-  "2022-06-11": 39042,
-  "2022-06-12": 39067,
-  "2022-06-13": 39086,
-  "2022-06-14": 39099,
-  "2022-06-15": 39121,
-  "2022-06-16": 39131,
-  "2022-06-17": 39155,
-  "2022-06-18": 39185,
-  "2022-06-19": 39228,
-  "2022-06-20": 39228,
-  "2022-06-21": 39245,
-  "2022-06-22": 39309,
-  "2022-06-23": 39309,
-  "2022-06-24": 39332,
-  "2022-06-25": 39352,
-  "2022-06-26": 39390,
-  "2022-06-27": 39416,
-  "2022-06-28": 39429,
-  "2022-06-29": 39447,
-  "2022-06-30": 39468,
-  "2022-07-01": 39486,
-  "2022-07-02": 39509,
-  "2022-07-03": 39537,
-  "2022-07-04": 39555,
-  "2022-07-05": 39555,
-  "2022-07-06": 39555,
-  "2022-07-07": 39618,
-  "2022-07-08": 39642,
-  "2022-07-09": 39662,
-  "2022-07-10": 39694,
-  "2022-07-11": 39715,
-  "2022-07-12": 39736,
-  "2022-07-13": 39760,
-  "2022-07-14": 39772,
-  "2022-07-15": 39792,
-  "2022-07-16": 39817,
-  "2022-07-17": 39849,
-  "2022-07-18": 39878,
-  "2022-07-19": 39898,
-  "2022-07-20": 39906,
-  "2022-07-21": 39923,
-  "2022-07-22": 39946,
-  "2022-07-23": 39968,
-  "2022-07-24": 39989,
-  "2022-07-25": 40008,
-  "2022-07-26": 40024,
-  "2022-07-27": 40054,
-  "2022-07-28": 40078,
-  "2022-07-29": 40101,
-  "2022-07-30": 40160,
-  "2022-07-31": 40160,
-  "2022-08-01": 40179,
-  "2022-08-02": 40230,
-  "2022-08-03": 40230,
-  "2022-08-04": 40253,
-  "2022-08-05": 40283,
-  "2022-08-06": 40313,
-  "2022-08-07": 40334,
-  "2022-08-08": 40359,
-  "2022-08-09": 40390,
-  "2022-08-10": 40412,
-  "2022-08-11": 40443,
-  "2022-08-12": 40460,
-  "2022-08-13": 40486,
-  "2022-08-14": 40506,
-  "2022-08-15": 40528,
-  "2022-08-16": 40556,
-  "2022-08-17": 40563,
-  "2022-08-18": 40587,
-  "2022-08-19": 40612,
-  "2022-08-20": 40651,
-  "2022-08-21": 40679,
-  "2022-08-22": 40721,
-  "2022-08-23": 40754,
-  "2022-08-24": 40773,
-  "2022-08-25": 40801,
-  "2022-08-26": 40834,
-  "2022-08-27": 40859,
-  "2022-08-28": 40886,
-  "2022-08-29": 40911,
-  "2022-08-30": 40933,
-  "2022-08-31": 40964,
-  "2022-09-01": 40984,
-  "2022-09-02": 41001,
-  "2022-09-03": 41030,
-  "2022-09-04": 41066,
-  "2022-09-05": 41103,
-  "2022-09-06": 41126,
-  "2022-09-07": 41152,
-  "2022-09-09": 41208,
-  "2022-09-10": 41241,
-  "2022-09-11": 41267,
-  "2022-09-12": 41283,
-  "2022-09-13": 41309,
-  "2022-09-15": 41352,
-  "2022-09-16": 41383,
-  "2022-09-17": 41425,
-  "2022-09-18": 41462,
-  "2022-09-19": 41489,
-  "2022-09-20": 41506,
-  "2022-09-21": 41528,
-  "2022-09-22": 41549,
-  "2022-09-23": 41578,
-  "2022-09-24": 41578,
-  "2022-09-25": 41634,
-  "2022-09-26": 41664,
-  "2022-09-27": 41680,
-  "2022-09-28": 41713,
-  "2022-09-29": 41737,
-  "2022-09-30": 41761,
-  "2022-10-01": 41792,
-  "2022-10-02": 41819,
-  "2022-10-03": 41852,
-  "2022-10-04": 41875,
-  "2022-10-05": 41903,
-  "2022-10-06": 41932,
-  "2022-10-07": 41951,
-  "2022-10-08": 41976,
-  "2022-10-09": 42020,
-  "2022-10-10": 42037,
-  "2022-10-11": 42062,
-  "2022-10-12": 42082,
-  "2022-10-13": 42110,
-  "2022-10-14": 42135,
-  "2022-10-15": 42164,
-  "2022-10-16": 42201,
-  "2022-10-17": 42249,
-  "2022-10-18": 42269,
-  "2022-10-19": 42298,
-  "2022-10-20": 42333,
-  "2022-10-21": 42361,
-  "2022-10-22": 42381,
-  "2022-10-23": 42417,
-  "2022-10-24": 42449,
-  "2022-10-25": 42476,
-  "2022-10-26": 42496,
-  "2022-10-27": 42522,
-  "2022-10-28": 42544,
-  "2022-10-29": 42574,
-  "2022-10-30": 42599,
-  "2022-10-31": 42626,
-  "2022-11-01": 42654,
-  "2022-11-02": 42679,
-  "2022-11-03": 42703,
-  "2022-11-04": 42719,
-  "2022-11-05": 42746,
-  "2022-11-06": 42779,
-  "2022-11-07": 42797,
-  "2022-11-08": 42817,
-  "2022-11-09": 42843,
-  "2022-11-10": 42866,
-  "2022-11-11": 42888,
-  "2022-11-12": 42915,
-  "2022-11-13": 42937,
-  "2022-11-14": 42973,
-  "2022-11-15": 42990,
-  "2022-11-16": 43015,
-  "2022-11-17": 43042,
-  "2022-11-18": 43053,
-  "2022-11-19": 43055,
-  "2022-11-20": 43083,
-  "2022-11-21": 43116,
-  "2022-11-22": 43144,
-  "2022-11-23": 43165,
-  "2022-11-24": 43205,
-  "2022-11-25": 43243,
-  "2022-11-26": 43266,
-  "2022-11-27": 43296,
-  "2022-11-28": 43323,
-  "2022-11-29": 43339,
-  "2022-11-30": 43370,
-  "2022-12-01": 43399,
-  "2022-12-02": 43415,
-  "2022-12-03": 43448,
-  "2022-12-04": 43478,
-  "2022-12-05": 43501,
-  "2022-12-06": 43526,
-  "2022-12-07": 43555,
-  "2022-12-08": 43583,
-  "2022-12-09": 43621,
-  "2022-12-10": 43647,
-  "2022-12-11": 43674,
-  "2022-12-12": 43705,
-  "2022-12-13": 43722,
-  "2022-12-14": 43740,
-  "2022-12-15": 43767,
-  "2022-12-16": 43803,
-  "2022-12-17": 43843,
-  "2022-12-18": 43882,
-  "2022-12-19": 43911,
-  "2022-12-20": 43967,
-  "2022-12-21": 43967,
-  "2022-12-22": 43991,
-  "2022-12-24": 44053,
-  "2022-12-25": 44098,
-  "2022-12-26": 44148,
-  "2022-12-27": 44170,
-  "2022-12-28": 44199,
-  "2022-12-29": 44225,
-  "2022-12-30": 44269,
-  "2022-12-31": 44299,
-  "2023-01-01": 44347,
-  "2023-01-02": 44395,
-  "2023-01-03": 44414,
-  "2023-01-04": 44438,
-  "2023-01-05": 44464,
-  "2023-01-06": 44516,
-  "2023-01-07": 44558,
-  "2023-01-08": 44559,
-  "2023-01-09": 44588,
-  "2023-01-10": 44607,
-  "2023-01-11": 44631,
-  "2023-01-12": 44652,
-  "2023-01-13": 44689,
-  "2023-01-14": 44733,
-  "2023-01-15": 44743,
-  "2023-01-16": 44779,
-  "2023-01-17": 44806,
-  "2023-01-18": 44823,
-  "2023-01-19": 44846,
-  "2023-01-20": 44881,
-  "2023-01-21": 44910,
-  "2023-01-22": 44940,
-  "2023-01-23": 44977,
-  "2023-01-24": 45014,
-  "2023-01-25": 45038,
-  "2023-01-26": 45067,
-  "2023-01-27": 45075,
-  "2023-01-28": 45111,
-  "2023-01-29": 45141,
-  "2023-01-30": 45162,
-  "2023-01-31": 45162,
-  "2023-02-01": 45205,
-  "2023-02-02": 45232,
-  "2023-02-03": 45251,
-  "2023-02-04": 45283,
-  "2023-02-05": 45321,
-  "2023-02-06": 45357,
-  "2023-02-07": 45383,
-  "2023-02-08": 45430,
-  "2023-02-09": 45430,
-  "2023-02-10": 45457,
-  "2023-02-11": 45487,
-  "2023-02-12": 45544,
-  "2023-02-13": 45578,
-  "2023-02-14": 45578,
-  "2023-02-15": 45592,
-  "2023-02-16": 45619,
-  "2023-02-17": 45660,
-  "2023-02-18": 45717,
-  "2023-02-19": 45727,
-  "2023-02-20": 45738,
-  "2023-02-21": 45767,
-  "2023-02-22": 45792,
-  "2023-02-23": 45809,
-  "2023-02-24": 45843,
-  "2023-02-25": 45881,
-  "2023-02-26": 45910,
-  "2023-02-27": 45967,
-  "2023-02-28": 45967,
-  "2023-03-01": 45990,
-  "2023-03-02": 46020,
-  "2023-03-03": 46052,
-  "2023-03-04": 46081,
-  "2023-03-05": 46161,
-  "2023-03-06": 46161,
-  "2023-03-07": 46191,
-  "2023-03-08": 46219,
-  "2023-03-09": 46250,
-  "2023-03-10": 46284,
-  "2023-03-11": 46307,
-  "2023-03-12": 46342,
-  "2023-03-13": 46377,
-  "2023-03-14": 46400,
-  "2023-03-15": 46424,
-  "2023-03-16": 46424,
-  "2023-03-17": 46424,
-  "2023-03-18": 46527,
-  "2023-03-19": 46527,
-  "2023-03-20": 46577,
-  "2023-03-21": 46613,
-  "2023-03-22": 46628,
-  "2023-03-23": 46663,
-  "2023-03-24": 46663,
-  "2023-03-25": 46721,
-  "2023-03-26": 46763,
-  "2023-03-27": 46791,
-  "2023-03-28": 46823,
-  "2023-03-29": 46835,
-  "2023-03-30": 46890,
-  "2023-03-31": 46890,
-  "2023-04-01": 46921,
-  "2023-04-02": 46952,
-  "2023-04-03": 46995,
-  "2023-04-04": 47033,
-  "2023-04-05": 47071,
-  "2023-04-06": 47092,
-  "2023-04-07": 47120,
-  "2023-04-09": 47182,
-  "2023-04-10": 47208,
-  "2023-04-11": 47266,
-  "2023-04-12": 47266,
-  "2023-04-13": 47293,
-  "2023-04-14": 47317,
-  "2023-04-15": 47354,
-  "2023-04-16": 47394,
-  "2023-04-17": 47427,
-  "2023-04-18": 47451,
-  "2023-04-19": 47464,
-  "2023-04-20": 47502,
-  "2023-04-21": 47529,
-  "2023-04-22": 47558,
-  "2023-04-23": 47593,
-  "2023-04-24": 47635,
-  "2023-04-25": 47662,
-  "2023-04-26": 47691,
-  "2023-04-27": 47735,
-  "2023-04-28": 47771,
-  "2023-04-29": 47818,
-  "2023-04-30": 47851,
-  "2023-05-01": 47880,
-  "2023-05-02": 47904,
-  "2023-05-03": 47937,
-  "2023-05-04": 47966,
-  "2023-05-05": 47993,
-  "2023-05-06": 48031,
-  "2023-05-07": 48080,
-  "2023-05-08": 48115,
-  "2023-05-09": 48139,
-  "2023-05-10": 48170,
-  "2023-05-11": 48204,
-  "2023-05-12": 48236,
-  "2023-05-13": 48278,
-  "2023-05-14": 48322,
-  "2023-05-15": 48363,
-  "2023-05-16": 48398,
-  "2023-05-17": 48433,
-  "2023-05-18": 48466,
-  "2023-05-19": 48492,
-  "2023-05-20": 48587,
-  "2023-05-21": 48587,
-  "2023-05-22": 48587,
-  "2023-05-23": 48635,
-  "2023-05-24": 48691,
-  "2023-05-25": 48699,
-  "2023-05-26": 48736,
-  "2023-05-27": 48777,
-  "2023-05-28": 48819,
-  "2023-05-29": 48819,
-  "2023-05-30": 48888,
-  "2023-05-31": 48926,
-  "2023-06-01": 48951,
-  "2023-06-02": 48965,
-  "2023-06-03": 48996,
-  "2023-06-04": 49017,
-  "2023-06-05": 49059,
-  "2023-06-06": 49081,
-  "2023-06-07": 49115,
-  "2023-06-08": 49146,
-  "2023-06-09": 49183,
-  "2023-06-10": 49219,
-  "2023-06-11": 49262,
-  "2023-06-12": 49286,
-  "2023-06-13": 49302,
-  "2023-06-14": 49329,
-  "2023-06-15": 49359,
-  "2023-06-16": 49391,
-  "2023-06-17": 49441,
-  "2023-06-18": 49485,
-  "2023-06-19": 49528,
-  "2023-06-20": 49554,
-  "2023-06-21": 49592,
-  "2023-06-22": 49620,
-  "2023-06-23": 49648,
-  "2023-06-24": 49693,
-  "2023-06-25": 49728,
-  "2023-06-26": 49762,
-  "2023-06-27": 49803,
-  "2023-06-28": 49839,
-  "2023-06-29": 49866,
-  "2023-06-30": 49905,
-  "2023-07-01": 49965,
-  "2023-07-02": 49965,
-  "2023-07-03": 49993,
-  "2023-07-04": 50024,
-  "2023-07-05": 50052,
-  "2023-07-06": 50109,
-  "2023-07-07": 50109,
-  "2023-07-08": 50109,
-  "2023-07-09": 50188,
-  "2023-07-10": 50218,
-  "2023-07-11": 50243,
-  "2023-07-12": 50275,
-  "2023-07-13": 50307,
-  "2023-07-14": 50341,
-  "2023-07-15": 50363,
-  "2023-07-16": 50410,
-  "2023-07-17": 50445,
-  "2023-07-18": 50475,
-  "2023-07-19": 50502,
-  "2023-07-20": 50502,
-  "2023-07-21": 50560,
-  "2023-07-22": 50600,
-  "2023-07-23": 50638,
-  "2023-07-24": 50680,
-  "2023-07-25": 50709,
-  "2023-07-26": 50758,
-  "2023-07-27": 50801,
-  "2023-07-28": 50801,
-  "2023-07-29": 50870,
-  "2023-07-30": 50870,
-  "2023-07-31": 50938,
-  "2023-08-01": 50968,
-  "2023-08-02": 50998,
-  "2023-08-03": 51034,
-  "2023-08-04": 51059,
-  "2023-08-05": 51102,
-  "2023-08-06": 51188,
-  "2023-08-07": 51188,
-  "2023-08-08": 51218,
-  "2023-08-09": 51259,
-  "2023-08-10": 51315,
-  "2023-08-11": 51344,
-  "2023-08-12": 51344,
-  "2023-08-13": 51344,
-  "2023-08-14": 51344,
-  "2023-08-15": 51344,
-  "2023-08-16": 51344,
-  "2023-08-17": 51344,
-  "2023-08-18": 51344,
-  "2023-08-19": 51344,
-  "2023-08-20": 51753,
-  "2023-08-21": 51753,
-  "2023-08-22": 51841,
-  "2023-08-23": 51841,
-  "2023-08-24": 51841,
-  "2023-08-25": 51841,
-  "2023-08-26": 52010,
-  "2023-08-27": 52010,
-  "2023-08-28": 52104,
-  "2023-08-29": 52104,
-  "2023-08-30": 52104,
-  "2023-08-31": 52212,
-  "2023-09-01": 52250,
-  "2023-09-02": 52250,
-  "2023-09-03": 52250,
-  "2023-09-04": 52250,
-  "2023-09-05": 52250,
-  "2023-09-06": 52250,
-  "2023-09-07": 52250,
-  "2023-09-08": 52250,
-  "2023-09-09": 52250,
-  "2023-09-10": 52250,
-  "2023-09-11": 52250,
-  "2023-09-12": 52250,
-  "2023-09-13": 52250,
-  "2023-09-14": 52250,
-  "2023-09-15": 52250,
-  "2023-09-16": 52250,
-  "2023-09-17": 52250,
-  "2023-09-18": 52250,
-  "2023-09-19": 52250,
-  "2023-09-20": 52250,
-  "2023-09-21": 52250,
-  "2023-09-22": 53019,
-  "2023-09-23": 53019,
-  "2023-09-24": 53019,
-  "2023-09-25": 53019,
-  "2023-09-26": 53110,
-  "2023-09-27": 53110,
-  "2023-09-28": 53110,
-  "2023-09-29": 53110,
-  "2023-09-30": 53110,
-  "2023-10-01": 53110,
-  "2023-10-02": 53110,
-  "2023-10-03": 53110,
-  "2023-10-04": 53110,
-  "2023-10-05": 53110,
-  "2023-10-06": 53110,
-  "2023-10-07": 53110,
-  "2023-10-08": 53110,
-  "2023-10-09": 53110,
-  "2023-10-10": 53110,
-  "2023-10-11": 53110,
-  "2023-10-12": 53110,
-  "2023-10-13": 53110,
-  "2023-10-14": 53110,
-  "2023-10-15": 53110,
-  "2023-10-16": 53110,
-  "2023-10-17": 53110,
-  "2023-10-18": 53110,
-  "2023-10-19": 53110,
-  "2023-10-20": 53110,
-  "2023-10-21": 53110,
-  "2023-10-22": 53110,
-  "2023-10-23": 53110,
-  "2023-10-24": 53110,
-  "2023-10-25": 53110,
-  "2023-10-26": 53110,
-  "2023-10-27": 53110,
-  "2023-10-28": 53110,
-  "2023-10-29": 53110,
-  "2023-10-30": 53110,
-  "2023-10-31": 53110,
-  "2023-11-01": 53110,
-  "2023-11-02": 53110,
-  "2023-11-03": 53110,
-  "2023-11-04": 53110,
-  "2023-11-05": 53110,
-  "2023-11-06": 53110,
-  "2023-11-07": 53110,
-  "2023-11-08": 53110,
-  "2023-11-09": 53110,
-  "2023-11-10": 53110,
-  "2023-11-11": 54163,
-  "2023-11-12": 54163,
-  "2023-11-13": 54163,
-  "2023-11-14": 54163,
-  "2023-11-15": 54163,
-  "2023-11-16": 54163,
-  "2023-11-17": 54163,
-  "2023-11-18": 54163,
-  "2023-11-19": 54163,
-  "2023-11-20": 54163,
-  "2023-11-21": 54163,
-  "2023-11-22": 54163,
-  "2023-11-23": 54163,
-  "2023-11-24": 54163,
-  "2023-11-25": 54163,
-  "2023-11-26": 54163,
-  "2023-11-27": 54163,
-  "2023-11-28": 54163,
-  "2023-11-29": 54163,
-  "2023-11-30": 54163,
-  "2023-12-01": 54163,
-  "2023-12-02": 54163,
-  "2023-12-03": 54163,
-  "2023-12-04": 54163,
-  "2023-12-05": 54163,
-  "2023-12-06": 54163,
-  "2023-12-07": 54163,
-  "2023-12-08": 54163,
-  "2023-12-09": 54163,
-  "2023-12-10": 54163,
-  "2023-12-11": 54163,
-  "2023-12-12": 54163,
-  "2023-12-13": 54163,
-  "2023-12-14": 54992,
-  "2023-12-15": 55003,
-  "2023-12-16": 55027,
-  "2023-12-17": 55046,
-  "2023-12-18": 55073,
-  "2023-12-19": 55101,
-  "2023-12-20": 55123,
-  "2023-12-21": 55161,
-  "2023-12-22": 55189,
-  "2023-12-23": 55213,
-  "2023-12-24": 55239,
-  "2023-12-25": 55276,
-  "2023-12-26": 55316,
-  "2023-12-27": 55329,
-  "2023-12-30": 55403,
-  "2023-12-31": 55442,
-  "2024-01-01": 55486,
-  "2024-01-02": 55520,
-  "2024-01-03": 55532
+  "2024-01-17": 55670,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Machos. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Machos",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 129933,
+      "name": "40 cartas",
+      "url": "https://open.spotify.com/track/1FWZ1dIHeA55a4bbvkragj"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/7AdAZUSQ45Pi8m8mQqDdrJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 204461,
+      "name": "911",
+      "url": "https://open.spotify.com/track/4xr5M4pgpUYpkeTN08Qwo1"
+    },
+    {
+      "album": {
+        "name": "A Capa Y Espada",
+        "url": "https://open.spotify.com/album/1TvAyYwsIzIn1SNaYB2tTy"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271320,
+      "name": "A Capa Y Espada",
+      "url": "https://open.spotify.com/track/2270JBx0iahesyJZAGzAuN"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162800,
+      "name": "Al gato y al rat\u00f3n",
+      "url": "https://open.spotify.com/track/3qtsVB90KMoccHtSCbAHOE"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160560,
+      "name": "Besando borrachos",
+      "url": "https://open.spotify.com/track/44kod3HVpNIvakBmRd0Lvb"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172266,
+      "name": "Casimira",
+      "url": "https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 107426,
+      "name": "Chaparra de mi amor",
+      "url": "https://open.spotify.com/track/5TCIAhvrZHb99R3ZtmKP3M"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 108133,
+      "name": "Chaparra de mi amor",
+      "url": "https://open.spotify.com/track/5PurlLJkzmW8kSj8fO0cHR"
+    },
+    {
+      "album": {
+        "name": "Palabra de machos",
+        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148266,
+      "name": "Chiquita bonita",
+      "url": "https://open.spotify.com/track/1oyFVrHU6I2vRUSR1VVDKL"
+    },
+    {
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 178173,
+      "name": "Corrido de la Hermana",
+      "url": "https://open.spotify.com/track/5X9rrWWiacx19R8iIovft7"
+    },
+    {
+      "album": {
+        "name": "A Pesar de Todo",
+        "url": "https://open.spotify.com/album/2yVyjnqGVXytCjfMqe1lp9"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182133,
+      "name": "Cuatro Meses (Que Se Te Quite Ese Orgullo)",
+      "url": "https://open.spotify.com/track/7nBdxRmU1GvUf4ZbOLKQEx"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177373,
+      "name": "Cumbia torera",
+      "url": "https://open.spotify.com/track/4DRCXdm5KJ76R2sWG4hwcD"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135333,
+      "name": "El biling\u00fce",
+      "url": "https://open.spotify.com/track/5aqVKwiEuXrLJK4cPUjGDt"
+    },
+    {
+      "album": {
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "El mandilon",
+      "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
+    },
+    {
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
+    },
+    {
+      "album": {
+        "name": "Las movidas de los machos",
+        "url": "https://open.spotify.com/album/2bYblCuXUCy0wxCIA4jAIu"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "El puchoncito",
+      "url": "https://open.spotify.com/track/34QLjltck9rUXp6XQKkRw4"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158080,
+      "name": "El viejo joven",
+      "url": "https://open.spotify.com/track/2TW92ifivpD4xUxXsEFTVp"
+    },
+    {
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 178000,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/2h2sz7i4jjDagK6GFyE6sS"
+    },
+    {
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153013,
+      "name": "En toda la chapa",
+      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156533,
+      "name": "Esclavo y amo",
+      "url": "https://open.spotify.com/track/6M9PBbQwZ73hKQoQBq2i3X"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190200,
+      "name": "Escuadras del sur",
+      "url": "https://open.spotify.com/track/443eTn9NYno1qi5J8g0KCa"
+    },
+    {
+      "album": {
+        "name": "Palabra de machos",
+        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 174493,
+      "name": "Esta tristeza m\u00eda",
+      "url": "https://open.spotify.com/track/1OR4HEV1aNbxJiEZuGUd3H"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174866,
+      "name": "Gracias mujer",
+      "url": "https://open.spotify.com/track/6ky62QbRkQK6zYNuHexica"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "G\u00fcerita",
+      "url": "https://open.spotify.com/track/6fkhelPceMGuArIxYKyagL"
+    },
+    {
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "Historia sin fin",
+      "url": "https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl"
+    },
+    {
+      "album": {
+        "name": "Historia Sin Fin",
+        "url": "https://open.spotify.com/album/6HIGZ5DJ715QdzrQurNnPo"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        },
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Historia Sin Fin",
+      "url": "https://open.spotify.com/track/7fzMcKm2TJccXwJMuQU74p"
+    },
+    {
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123306,
+      "name": "Ingratos ojos m\u00edos",
+      "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188693,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/6bJlR3XVNgAOIkKdiKkZz4"
+    },
+    {
+      "album": {
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 188706,
+      "name": "La culebra",
+      "url": "https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 135960,
+      "name": "La divina garza",
+      "url": "https://open.spotify.com/track/2GBFyTAInCqLRTYZ0PbEmK"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160133,
+      "name": "La m\u00e1s bonita de todas",
+      "url": "https://open.spotify.com/track/5lSl7vLwMnC6uHFzkFLptI"
+    },
+    {
+      "album": {
+        "name": "Los Exitos De La Banda Machos, Vol. 2",
+        "url": "https://open.spotify.com/album/64fPt9hv6ZktuW8rCSQVPk"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159106,
+      "name": "La Ni\u00f1a Fresa",
+      "url": "https://open.spotify.com/track/0epRYG4Km0dpf2HqAADKqt"
+    },
+    {
+      "album": {
+        "name": "Los Exitos De La Banda Machos, Vol. 2",
+        "url": "https://open.spotify.com/album/27JnOo7RWZnEdcNTt6o3xF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 159106,
+      "name": "La Ni\u00f1a Fresa",
+      "url": "https://open.spotify.com/track/68ZWi4vyv2Xo8u0FkstaZv"
+    },
+    {
+      "album": {
+        "name": "Pura pasi\u00f3n",
+        "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "La noche que Chicago muri\u00f3",
+      "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
+    },
+    {
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 189093,
+      "name": "La Novia Coja",
+      "url": "https://open.spotify.com/track/27PkP7nu6jxF0mJ0SxRYXR"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "La roncona",
+      "url": "https://open.spotify.com/track/64aEZUhFBDpj8olgmbyyum"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 172986,
+      "name": "La secretaria",
+      "url": "https://open.spotify.com/track/0RCB1m9x43mkEwGSABjQXY"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173546,
+      "name": "La secretaria",
+      "url": "https://open.spotify.com/track/2T9QzIh3CekfE1HyG8R8Qa"
+    },
+    {
+      "album": {
+        "name": "12 Grandes exitos Vol. 2",
+        "url": "https://open.spotify.com/album/4EQuspAsyfJtB7A0p5zdZf"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 197626,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3"
+    },
+    {
+      "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179560,
+      "name": "Las habas",
+      "url": "https://open.spotify.com/track/3Q97r3eLlF1qqjWHgUaYYr"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 155906,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/7FVYW5IyR8vcDQkXmPOLJQ"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Las Nachas",
+      "url": "https://open.spotify.com/track/5c1AEnRTAlLDTvDb6rNlak"
+    },
+    {
+      "album": {
+        "name": "La reina de las bandas Vol. II",
+        "url": "https://open.spotify.com/album/29JiAjWnPrh6PxzyZxA1Uv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
+    },
+    {
+      "album": {
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167120,
+      "name": "Le\u00f1a de pirul",
+      "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 148120,
+      "name": "Los machos tambi\u00e9n lloran",
+      "url": "https://open.spotify.com/track/2nBl6V42VMmSKV9kZ7zWWY"
+    },
+    {
+      "album": {
+        "name": "La Reuni\u00f3n",
+        "url": "https://open.spotify.com/album/62bBdP4of4gbqzArrfCw4J"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167986,
+      "name": "Me llamo Raquel",
+      "url": "https://open.spotify.com/track/6sr4ax5EHAsAxC4jjEaZJ0"
+    },
+    {
+      "album": {
+        "name": "La reina de las bandas Vol. I",
+        "url": "https://open.spotify.com/album/78dh7yHMwbb3dPUqmEDxj2"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154546,
+      "name": "Mi chica ideal",
+      "url": "https://open.spotify.com/track/3QukO1TbU8SvQQrkwFoKWF"
+    },
+    {
+      "album": {
+        "name": "Las Estrellas de la Musica Mexicana (USA)",
+        "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Mi guitarra y yo",
+      "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "Mi luna, mi estrella",
+      "url": "https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 1) [USA]",
+        "url": "https://open.spotify.com/album/641IjGwd385qV3RVouieUv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152973,
+      "name": "Mi tesoro",
+      "url": "https://open.spotify.com/track/6i9F5U7UTfpA2BurGZ9FYd"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178506,
+      "name": "Mu\u00e9vete morena",
+      "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
+    },
+    {
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "No soy monedita de oro",
+      "url": "https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 190066,
+      "name": "Pacas de a kilo",
+      "url": "https://open.spotify.com/track/7p2QlyyFCg4N00wRb535qo"
+    },
+    {
+      "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 190866,
+      "name": "Princesa gitana",
+      "url": "https://open.spotify.com/track/4hs8o8lLeB8tREWp7OLAZJ"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183626,
+      "name": "Sangre de indio",
+      "url": "https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM"
+    },
+    {
+      "album": {
+        "name": "Palabra de machos",
+        "url": "https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Se lo dejo a Dios",
+      "url": "https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs"
+    },
+    {
+      "album": {
+        "name": "Mi chica ideal (Lo B\u00e1sico)",
+        "url": "https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185866,
+      "name": "Si la miro ma\u00f1ana",
+      "url": "https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9"
+    },
+    {
+      "album": {
+        "name": "Sigues Siendo La Reina",
+        "url": "https://open.spotify.com/album/4wVJCqOs4165CP45YOroTy"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 195199,
+      "name": "Sigues Siendo La Reina",
+      "url": "https://open.spotify.com/track/3rQxUDGge46zQq37oQXvHe"
+    },
+    {
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/19sUt3izOtuq4tRI5iSwe7"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 176093,
+      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
+      "url": "https://open.spotify.com/track/1BW73Xmnb6d2JkqnAYjLEi"
+    },
+    {
+      "album": {
+        "name": "Est\u00e1s Seleccionada",
+        "url": "https://open.spotify.com/album/3ZVscmJ2sG4GsR7ymRSKO7"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 176093,
+      "name": "Te Lavaste la Cara y el Mono No (El Mono de Marciana)",
+      "url": "https://open.spotify.com/track/6oJBFXFuovJM9bYyIWf9QH"
+    },
+    {
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
+    },
+    {
+      "album": {
+        "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
+        "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "Traficantes Michoacanos",
+      "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "album": {
+        "name": "Historia sin fin",
+        "url": "https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Tres minutos",
+      "url": "https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP"
+    },
+    {
+      "album": {
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129733,
+      "name": "Tu abandono",
+      "url": "https://open.spotify.com/track/7IIB1aFag7RDTEPZW0z00Q"
+    },
+    {
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Tu otro dios - Tu dios de poder",
+      "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
+    },
+    {
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 169386,
+      "name": "Un indio quiere llorar",
+      "url": "https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK"
+    },
+    {
+      "album": {
+        "name": "16 Reales hits",
+        "url": "https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Un indio quiere llorar",
+      "url": "https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW"
+    },
+    {
+      "album": {
+        "name": "Un Indio Quiere Llorar",
+        "url": "https://open.spotify.com/album/19MliibgMaxQ07cPAUhkin"
+      },
+      "artists": [
+        {
+          "name": "Montez de Durango",
+          "url": "https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc"
+        },
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 194000,
+      "name": "Un Indio Quiere Llorar",
+      "url": "https://open.spotify.com/track/3v1h62mV72dBV16Jb5pcrc"
+    },
+    {
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172666,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"
+    },
+    {
+      "album": {
+        "name": "Usted",
+        "url": "https://open.spotify.com/album/7ga9MV123dS6lQL6SmaRnL"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        },
+        {
+          "name": "Carlos Sarabia",
+          "url": "https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 181500,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/6JNr7tJRJTazIeEJyOoaCP"
+    },
+    {
+      "album": {
+        "name": "25 Bandazos de Machos (Vol. 2) [USA]",
+        "url": "https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 231453,
+      "name": "Vivir sin ella",
+      "url": "https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G"
+    },
+    {
+      "album": {
+        "name": "Sangre de indio",
+        "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155400,
+      "name": "Y la quiere Paco",
+      "url": "https://open.spotify.com/track/0SuXH0Nw1RxS6MFC3RB5oi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4BSRFe"
 }

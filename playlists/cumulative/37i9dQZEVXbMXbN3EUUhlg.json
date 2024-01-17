@@ -1181,6 +1181,24 @@
     },
     {
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "Amor Livre - Ao Vivo",
+      "url": "https://open.spotify.com/track/3PGg3V56krasXrPKNvVLQU"
+    },
+    {
+      "album": {
         "name": "Amor N\u00e3o D\u00e1 Em Copo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HPTBpBwOsQl8nyagVIgrl"
       },
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Ballena",
       "url": "https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc"
@@ -2441,6 +2459,28 @@
     },
     {
       "album": {
+        "name": "Beijo Equivocado",
+        "url": "https://open.spotify.com/album/5omEOoTV8w9GpCeCOmvSpT"
+      },
+      "artists": [
+        {
+          "name": "George Henrique & Rodrigo",
+          "url": "https://open.spotify.com/artist/3FlCKtwOEYQQYyGVEbxG2Z"
+        },
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 156377,
+      "name": "Beijo Equivocado",
+      "url": "https://open.spotify.com/track/5DcysyjaPrLzXgDauvzvn6"
+    },
+    {
+      "album": {
         "name": "Midnights",
         "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
       },
@@ -2474,7 +2514,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-14",
       "duration_ms": 197333,
       "name": "BELLAKEO",
       "url": "https://open.spotify.com/track/05WVKTdZhlIMX4qqMLuo0f"
@@ -3644,7 +3684,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 156431,
       "name": "CHEIRO NA CAMISETA",
       "url": "https://open.spotify.com/track/6Td7nVeAOUz13zhDlUY8jv"
@@ -4494,6 +4534,32 @@
     {
       "album": {
         "name": "DENTRO DA HILUX",
+        "url": "https://open.spotify.com/album/2piVofKb5EGkez3IH91OsJ"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "DENTRO DA HILUX",
+      "url": "https://open.spotify.com/track/3jTyFoGeD3DTu9cnnctMWN"
+    },
+    {
+      "album": {
+        "name": "DENTRO DA HILUX",
         "url": "https://open.spotify.com/album/0DkGMresNtgnwzmOWx9vqU"
       },
       "artists": [
@@ -4512,7 +4578,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 163013,
       "name": "DENTRO DA HILUX",
       "url": "https://open.spotify.com/track/3XIXklO3e0uWUAUkOR7NLI"
@@ -4927,6 +4993,32 @@
     },
     {
       "album": {
+        "name": "Dia de Fluxo",
+        "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133610,
+      "name": "Dia de Fluxo",
+      "url": "https://open.spotify.com/track/6GmyQws2xpUFIN5dXBNTrl"
+    },
+    {
+      "album": {
         "name": "Starboy (Deluxe)",
         "url": "https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1"
       },
@@ -5306,7 +5398,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 196988,
       "name": "Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
@@ -5686,7 +5778,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 163435,
       "name": "Ent\u00e3o Vai",
       "url": "https://open.spotify.com/track/5v1Fjk1RDKGqxwNOzGDewL"
@@ -5744,7 +5836,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": "2024-01-07",
       "duration_ms": 171824,
       "name": "Erro da Minha Vida - Ao Vivo",
       "url": "https://open.spotify.com/track/5Vdesd774o3oOtaxxQoA3D"
@@ -8702,17 +8794,17 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
           "name": "DENNIS",
           "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 125108,
       "name": "Joga Pra Lua",
       "url": "https://open.spotify.com/track/1CtcgU1q0BgJN4Aottdscu"
@@ -9310,7 +9402,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 179945,
       "name": "Loucura",
       "url": "https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3"
@@ -9936,7 +10028,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 118153,
       "name": "Maria Mariah",
       "url": "https://open.spotify.com/track/00rxTS5TKv3oXpDA6nWfBi"
@@ -10641,6 +10733,28 @@
     },
     {
       "album": {
+        "name": "Rol\u00ea Aleat\u00f3rio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5uwYo7qRp4ycF8lECzvKEz"
+      },
+      "artists": [
+        {
+          "name": "Michel Tel\u00f3",
+          "url": "https://open.spotify.com/artist/1sDVuztNhGcetCLChkleDA"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174549,
+      "name": "Meu Hobby - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MeaXiIiI0MCIirQhkxQR6"
+    },
+    {
+      "album": {
         "name": "Pr\u00f3ximo Passo (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ybspxBvzQhRsdPR85s2s9"
       },
@@ -10804,7 +10918,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 154698,
       "name": "Milion\u00e1rio - Ao Vivo",
       "url": "https://open.spotify.com/track/2yIJ2CVZkTDftAsL9NPTw2"
@@ -10992,11 +11106,15 @@
         {
           "name": "DJ Arana",
           "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "name": "Karol X",
+          "url": "https://open.spotify.com/artist/0ByBhGIqP8T6O0YZWnAMCR"
         }
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 178080,
       "name": "MONTAGEM ANOS 2000",
       "url": "https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h"
@@ -11694,10 +11812,32 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 173698,
       "name": "Nosso Quadro",
       "url": "https://open.spotify.com/track/4uqJelb9THHmJ3OCohg4ZJ"
+    },
+    {
+      "album": {
+        "name": "Agroplay Ver\u00e3o",
+        "url": "https://open.spotify.com/album/6I6uEJ4eiy6Iln3RSokKfj"
+      },
+      "artists": [
+        {
+          "name": "AgroPlay",
+          "url": "https://open.spotify.com/artist/0uGWkZRPp1Urk77XBrPBsZ"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173698,
+      "name": "Nosso Quadro",
+      "url": "https://open.spotify.com/track/6zFpImDYig0CQhLL2NIfyN"
     },
     {
       "album": {
@@ -11818,7 +11958,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 140322,
       "name": "Novo Balan\u00e7o",
       "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
@@ -12136,7 +12276,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 169835,
       "name": "N\u00e3o Vital\u00edcio (Nunca Mais) - Ao Vivo",
       "url": "https://open.spotify.com/track/4KGyltc1ugN2WFcjkSPHwh"
@@ -12398,7 +12538,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 159158,
       "name": "Oi Balde - Ao Vivo",
       "url": "https://open.spotify.com/track/4xAGuRRKOgoaZbMGdmTD3N"
@@ -12852,6 +12992,28 @@
       "duration_ms": 149639,
       "name": "Parecia Tempestade",
       "url": "https://open.spotify.com/track/29adI8c6c75mnnaJ3BFLID"
+    },
+    {
+      "album": {
+        "name": "Parque de Divers\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0uWOqDnjRdMXgGgQZAbbB9"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 178523,
+      "name": "Parque de Divers\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/44qa9UQlVrcWEw8dfSjX3o"
     },
     {
       "album": {
@@ -14481,6 +14643,28 @@
     },
     {
       "album": {
+        "name": "Kelvin e Gustavo - Nas Rep\u00fablicas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ppFW8nvMEi4VQVWS16PzW"
+      },
+      "artists": [
+        {
+          "name": "Kelvin e Gustavo",
+          "url": "https://open.spotify.com/artist/4fCTwWqQITi3mPswut2wF7"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143955,
+      "name": "Revezamento de Cama - Ao Vivo",
+      "url": "https://open.spotify.com/track/1mpuiVbJvjekjogmDxocJi"
+    },
+    {
+      "album": {
         "name": "Revoada do Tubar\u00e3o 3",
         "url": "https://open.spotify.com/album/5bMkWLD5fjWCrriJuKPEOI"
       },
@@ -14736,7 +14920,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-31",
+      "date_removed": null,
       "duration_ms": 167445,
       "name": "Sai Da Frente",
       "url": "https://open.spotify.com/track/3OirlIOGwFgwcQgVru6IUG"
@@ -15404,7 +15588,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 168840,
       "name": "Seu Brilho Sumiu - Ao Vivo",
       "url": "https://open.spotify.com/track/3PH1nUysW7ybo3Yu8sqlPN"
@@ -15828,7 +16012,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 187153,
       "name": "Sou Musa do Ver\u00e3o",
       "url": "https://open.spotify.com/track/2cZ62VBKsdZ7u1kKKJdFOc"
@@ -15850,7 +16034,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 182154,
       "name": "Sozinha - Ao Vivo",
       "url": "https://open.spotify.com/track/1Or0joPrPSsuXdTzGFLAws"
@@ -16378,10 +16562,6 @@
       },
       "artists": [
         {
-          "name": "Hits Forr\u00f3",
-          "url": "https://open.spotify.com/artist/4xyZi8RUfi2Dh5UAHA8Ylq"
-        },
-        {
           "name": "Henry Freitas",
           "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         }
@@ -16852,7 +17032,7 @@
       ],
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 167551,
       "name": "Torce o Olho - Ao Vivo",
       "url": "https://open.spotify.com/track/3dA58LbGkY9CIEPyT7yAEZ"
@@ -17920,7 +18100,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 151976,
       "name": "Vestido Curto - Ao Vivo",
       "url": "https://open.spotify.com/track/2QxL3wAJnwOOmygY4VX0My"
@@ -18481,6 +18661,24 @@
     },
     {
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -18832,7 +19030,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 148516,
       "name": "\u00daltima Noite - Ao Vivo",
       "url": "https://open.spotify.com/track/7EHlDvAa7gncwcAlfclZiX"

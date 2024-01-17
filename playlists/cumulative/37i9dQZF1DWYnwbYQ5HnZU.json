@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spotify country fan favorites. Cover: Lee Brice",
+  "description": "Spotify country fan favorites. Cover: Eric Church",
   "name": "Country Gold",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 224626,
       "name": "All On Me",
       "url": "https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o"
@@ -869,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Chief",
+        "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Drink In My Hand",
+      "url": "https://open.spotify.com/track/1cktZnxiONH0hR6Q3DKy8h"
+    },
+    {
+      "album": {
         "name": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
         "url": "https://open.spotify.com/album/5H6lxubLtZamdoXEmVmcbz"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-02",
+      "date_removed": null,
       "duration_ms": 175026,
       "name": "Hell Of A View",
       "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2022-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 243666,
       "name": "I Go Back",
       "url": "https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6"
@@ -3158,7 +3176,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-02",
+      "date_removed": null,
       "duration_ms": 263386,
       "name": "Springsteen",
       "url": "https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB"
@@ -3602,7 +3620,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 178773,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/0uXhQHd0wYV9gvXyMcpnQj"

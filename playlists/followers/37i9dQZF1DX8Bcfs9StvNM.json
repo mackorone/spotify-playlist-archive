@@ -1,40 +1,819 @@
 {
-  "2023-11-25": 6746,
-  "2023-11-26": 6766,
-  "2023-11-27": 6771,
-  "2023-11-28": 6778,
-  "2023-11-29": 6796,
-  "2023-11-30": 6796,
-  "2023-12-01": 6808,
-  "2023-12-02": 6816,
-  "2023-12-03": 6816,
-  "2023-12-04": 6830,
-  "2023-12-05": 6834,
-  "2023-12-06": 6846,
-  "2023-12-07": 6864,
-  "2023-12-08": 6876,
-  "2023-12-09": 6891,
-  "2023-12-10": 6909,
-  "2023-12-11": 6920,
-  "2023-12-12": 6939,
-  "2023-12-13": 6958,
-  "2023-12-14": 6994,
-  "2023-12-15": 7027,
-  "2023-12-16": 7037,
-  "2023-12-17": 7060,
-  "2023-12-18": 7080,
-  "2023-12-19": 7113,
-  "2023-12-20": 7140,
-  "2023-12-21": 7159,
-  "2023-12-22": 7176,
-  "2023-12-23": 7211,
-  "2023-12-24": 7221,
-  "2023-12-25": 7240,
-  "2023-12-26": 7262,
-  "2023-12-27": 7269,
-  "2023-12-30": 7294,
-  "2023-12-31": 7299,
-  "2024-01-01": 7312,
-  "2024-01-02": 7316,
-  "2024-01-03": 7324
+  "2024-01-17": 7426,
+  "date_first_scraped": "2023-11-25",
+  "description": "<a href=\"spotify:genre:0JQ5IMCbQBLp5qalzMbJ3P\">\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba\u3001\u30c7\u30d3\u30e5\u30fc45\u5468\u5e74</a>\u8a18\u5ff5\uff01Spotify\u00d7\u30b5\u30b6\u30f3\u306e\u30e0\u30fc\u30c9\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u30b7\u30ea\u30fc\u30ba\u7b2c3\u5f3e\u3002\u5207\u306a\u3055\u306e\u4e2d\u306b\u3082\u5e0c\u671b\u304c\u5149\u308b\u3001\u81f3\u9ad8\u306e\u300c\u305b\u3064\u306a\u30bd\u30f3\u30b0\u300d\u3092\u96c6\u3081\u307e\u3057\u305f\u3002illustration : <a href=\"https://www.instagram.com/tzzktknaar/\">\u305f\u3056\u304d\u305f\u304b\u306a\u308a</a>",
+  "name": "\u305b\u3064\u306a\u3044\u80f8\u306b\u98a8\u304c\u5439\u3044\u3066\u305f",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u3055\u304f\u3089",
+        "url": "https://open.spotify.com/album/2vN0H9o2yOh10rC7Wj0ua4"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287981,
+      "name": "BLUE HEAVEN",
+      "url": "https://open.spotify.com/track/51OW6MbQHHQhPoJJDQMCUC"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "url": "https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259680,
+      "name": "CHRISTMAS TIME FOREVER",
+      "url": "https://open.spotify.com/track/3KVI0WQZpi7J91dY2Zk8Im"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225232,
+      "name": "EMANON",
+      "url": "https://open.spotify.com/track/7s5aCe3T27yeg800fkYgHp"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "url": "https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294361,
+      "name": "HAIR",
+      "url": "https://open.spotify.com/track/7G3FkDlUAGCg4lz1QaQbLj"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "url": "https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280196,
+      "name": "IF I EVER HEAR YOU KNOCKING ON MY DOOR",
+      "url": "https://open.spotify.com/track/2pGSrcHcJNSrVG2briSTE0"
+    },
+    {
+      "album": {
+        "name": "NUDE MAN",
+        "url": "https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/3a1vfZIdgamMsTIF1KFYQP"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3068\u6b32\u671b\u306e\u65e5\u3005/LONELY WOMAN",
+        "url": "https://open.spotify.com/album/3MbadmKiGX4Pq4z48Q7OWc"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330333,
+      "name": "LONELY WOMAN",
+      "url": "https://open.spotify.com/track/6KfPU1zCjc5xVHwxQLmYKe"
+    },
+    {
+      "album": {
+        "name": "KAMAKURA",
+        "url": "https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218133,
+      "name": "Long-haired Lady",
+      "url": "https://open.spotify.com/track/04zBRJbYpeAKcju8HnaSda"
+    },
+    {
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294493,
+      "name": "Moon Light Lover",
+      "url": "https://open.spotify.com/track/0Iod4IHv2ZJy4tzxTDIM34"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233666,
+      "name": "NEVER FALL IN LOVE AGAIN",
+      "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "album": {
+        "name": "NUDE MAN",
+        "url": "https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207507,
+      "name": "Oh!\u30af\u30e9\u30a6\u30c6\u3099\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/3P3rZBtohKIs5fFlz0Od3N"
+    },
+    {
+      "album": {
+        "name": "SOUTHERN ALL STARS",
+        "url": "https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "OH, GIRL(\u60b2\u3057\u3044\u80f8\u306e\u30b9\u30af\u30ea\u30fc\u30f3)",
+      "url": "https://open.spotify.com/track/0pVXLR4mPbwhLxjvOZ2FAw"
+    },
+    {
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275581,
+      "name": "Soul Bomber(21\u4e16\u7d00\u306e\u7cbe\u795e\u7206\u7834\u9b54)",
+      "url": "https://open.spotify.com/track/6WtgTDlYeK5D0Dyxy6K3dY"
+    },
+    {
+      "album": {
+        "name": "Tarako",
+        "url": "https://open.spotify.com/album/0Z2DqRSH89MZjth2SSPwcH"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "Tarako",
+      "url": "https://open.spotify.com/track/6jgH5KGjS6DVCBI52xath3"
+    },
+    {
+      "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315500,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
+    },
+    {
+      "album": {
+        "name": "SOUTHERN ALL STARS",
+        "url": "https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/0azDpmHy0nK3R6jJabkx0U"
+    },
+    {
+      "album": {
+        "name": "\u3044\u3068\u3057\u306e\u30a8\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/7okBhxOXYJhZGrgYnq4KQ3"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "\u3044\u3068\u3057\u306e\u30a8\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/7itS0NjYHtmXPq8xXacNZe"
+    },
+    {
+      "album": {
+        "name": "\u3055\u3088\u306a\u3089\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/5jyVasH1feEnhKJIRbBFcs"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295700,
+      "name": "\u3055\u3088\u306a\u3089\u30d9\u30a4\u30d3\u30fc",
+      "url": "https://open.spotify.com/track/5TwVwAlOcrMV0VMp0PgZzq"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "url": "https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264604,
+      "name": "\u305b\u3064\u306a\u3044\u80f8\u306b\u98a8\u304c\u5439\u3044\u3066\u305f",
+      "url": "https://open.spotify.com/track/5NCNySW8lAekW79fumeTnG"
+    },
+    {
+      "album": {
+        "name": "\u8461\u8404",
+        "url": "https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286666,
+      "name": "\u306f\u3063\u3074\u3044\u3048\u3093\u3069",
+      "url": "https://open.spotify.com/track/0RwN13GO2DmDcQykGocSRP"
+    },
+    {
+      "album": {
+        "name": "\u308f\u3059\u308c\u3058\u306e\u30ec\u30a4\u30c9\u30fb\u30d0\u30c3\u30af",
+        "url": "https://open.spotify.com/album/33u9uvJYFsTvOrJQYh2ti1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "\u308f\u3059\u308c\u3058\u306e\u30ec\u30a4\u30c9\u30fb\u30d0\u30c3\u30af",
+      "url": "https://open.spotify.com/track/2stXV5VI3bQuBccyhnShtk"
+    },
+    {
+      "album": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30e9\u30d5\u3099(\u6d99\u306e\u3042\u3068\u306b\u306f\u767d\u3044\u96ea\u304b\u3099\u964d\u308b)",
+        "url": "https://open.spotify.com/album/50GrjjFDrBCATfkkW503GH"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354066,
+      "name": "\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30e9\u30d5\u3099(\u6d99\u306e\u3042\u3068\u306b\u306f\u767d\u3044\u96ea\u304b\u3099\u964d\u308b)",
+      "url": "https://open.spotify.com/track/5FY5XusUqcNTG3xeD9Rr1P"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244666,
+      "name": "\u30b5\u30e9\u30fb\u30b8\u30a7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30fb\u30e9\u30fb\u30e9",
+        "url": "https://open.spotify.com/album/3dWYHEGDMDsR5FwrJAJ6Vf"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259700,
+      "name": "\u30b7\u30e3\u30fb\u30e9\u30fb\u30e9",
+      "url": "https://open.spotify.com/track/02ZJqRr11jzzKcoeuwMKjv"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30e9\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "\u30bb\u30a4\u30b7\u30a7\u30eb ~\u6d77\u306e\u8056\u8005~",
+      "url": "https://open.spotify.com/track/4vIhpt3MNYIFm0xfI63ieo"
+    },
+    {
+      "album": {
+        "name": "\u4eba\u6c17\u8005\u3067\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/0ZIH5S5JD9ho8pFvEXo5Ex"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263446,
+      "name": "\u30e1\u30ea\u30b1\u30f3\u60c5\u7dd2\u306f\u6d99\u306e\u30ab\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/5DtZ4fNKomfHJRoXkMBW27"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30ed\u30c6\u3099\u30a3(Melody)",
+        "url": "https://open.spotify.com/album/04q2o8w2sPwQjxBdyBS4DR"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305633,
+      "name": "\u30e1\u30ed\u30c6\u3099\u30a3(Melody)",
+      "url": "https://open.spotify.com/track/5iZnhLGmNiURPiujrX50PN"
+    },
+    {
+      "album": {
+        "name": "\u30ad\u30e9\u30fc\u30b9\u30c8\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304360,
+      "name": "\u5225\u96e2(\u308f\u304b\u308c)",
+      "url": "https://open.spotify.com/track/1WjuZoEZHKAkSryOR18ZB9"
+    },
+    {
+      "album": {
+        "name": "NUDE MAN",
+        "url": "https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222397,
+      "name": "\u590f\u3092\u3042\u304d\u3089\u3081\u3066",
+      "url": "https://open.spotify.com/track/029mlmG2bISTk861m8r2XV"
+    },
+    {
+      "album": {
+        "name": "\u5f69~Aja~",
+        "url": "https://open.spotify.com/album/34E5sssVozuqWWjqQhoj3K"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315233,
+      "name": "\u5f69~Aja~",
+      "url": "https://open.spotify.com/track/2zfxDOjxIbu2EO7ZzD3nxu"
+    },
+    {
+      "album": {
+        "name": "\u8461\u8404",
+        "url": "https://open.spotify.com/album/1KusH5XDkblfjkmdoE2Too"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290600,
+      "name": "\u5f7c\u6c0f\u306b\u306a\u308a\u305f\u304f\u3066",
+      "url": "https://open.spotify.com/track/5htbsZRSCPAEaTlLaV7c5x"
+    },
+    {
+      "album": {
+        "name": "Young Love",
+        "url": "https://open.spotify.com/album/21zTWxVyymD5AcyTbVjiw0"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249466,
+      "name": "\u5fc3\u3092\u8fbc\u3081\u3066\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/0QHw0r6r8qh52ZlfTpSNz8"
+    },
+    {
+      "album": {
+        "name": "\u71b1\u3044\u80f8\u3055\u308f\u304e",
+        "url": "https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270266,
+      "name": "\u604b\u306f\u304a\u71b1\u304f",
+      "url": "https://open.spotify.com/track/64ImLMWhTsD0KxCW6IxXBY"
+    },
+    {
+      "album": {
+        "name": "KAMAKURA",
+        "url": "https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155960,
+      "name": "\u60b2\u3057\u307f\u306f\u30e1\u30ea\u30fc\u30b4\u30fc\u30e9\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/51u7aAKOT5f5jLueNVp7AW"
+    },
+    {
+      "album": {
+        "name": "KAMAKURA",
+        "url": "https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "\u611b\u3059\u308b\u5973\u6027\u3068\u306e\u3059\u308c\u9055\u3044",
+      "url": "https://open.spotify.com/track/099631AOgjCSzArD03TdRn"
+    },
+    {
+      "album": {
+        "name": "\u611b\u306f\u30b9\u30ed\u30fc\u306b\u3061\u3087\u3063\u3068\u305a\u3064",
+        "url": "https://open.spotify.com/album/3F4XXJrpD9MsEAQvTXooI2"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275533,
+      "name": "\u611b\u306f\u30b9\u30ed\u30fc\u306b\u3061\u3087\u3063\u3068\u305a\u3064",
+      "url": "https://open.spotify.com/track/39vePmrWVXcFn9jfIBxhw3"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u306b\u4e07\u8449\u306e\u82b1\u304c\u54b2\u304f\u306a\u308a",
+        "url": "https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221560,
+      "name": "\u6155\u60c5",
+      "url": "https://open.spotify.com/track/6d02CyfhqaypYX09rt6VVY"
+    },
+    {
+      "album": {
+        "name": "\u7dba\u9e97",
+        "url": "https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272560,
+      "name": "\u65c5\u59ff\u516d\u4eba\u8846",
+      "url": "https://open.spotify.com/track/0E8BzbbUbOppEfikfsU70Q"
+    },
+    {
+      "album": {
+        "name": "NUDE MAN",
+        "url": "https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242730,
+      "name": "\u6d41\u308c\u308b\u96f2\u3092\u8ffd\u3044\u304b\u3051\u3066",
+      "url": "https://open.spotify.com/track/6nips7uaLEjXaw9C9XkaXw"
+    },
+    {
+      "album": {
+        "name": "\u6d99\u306e\u30ad\u30c3\u30b9",
+        "url": "https://open.spotify.com/album/5ZrFiZltJoN8cyoLtNDTQc"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284933,
+      "name": "\u6d99\u306e\u30ad\u30c3\u30b9",
+      "url": "https://open.spotify.com/track/5XhqWow7MNpWsXRsg1mUl5"
+    },
+    {
+      "album": {
+        "name": "\u771f\u590f\u306e\u679c\u5b9f",
+        "url": "https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279300,
+      "name": "\u771f\u590f\u306e\u679c\u5b9f",
+      "url": "https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64"
+    },
+    {
+      "album": {
+        "name": "\u7d20\u6575\u306a\u30d0\u30fc\u30c7\u30a3\u30fc\uff08NO NO BIRDY\uff09",
+        "url": "https://open.spotify.com/album/4v8sG8PuwqSjO9Scuctisp"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311333,
+      "name": "\u7d20\u6575\u306a\u30d0\u30fc\u30c7\u30a3\u30fc\uff08NO NO BIRDY\uff09",
+      "url": "https://open.spotify.com/track/3N6iNG7d9dx8ozDCzoO9Fh"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30c6\u30ec\u30aa\u592a\u967d\u65cf",
+        "url": "https://open.spotify.com/album/3MF1xptTSght1fcewndp7D"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263493,
+      "name": "\u7d20\u9854\u3067\u8e0a\u3089\u305b\u3066",
+      "url": "https://open.spotify.com/track/0dIrA5S10gcPI0F1hBedKk"
+    },
+    {
+      "album": {
+        "name": "SOUTHERN ALL STARS",
+        "url": "https://open.spotify.com/album/1IuET2kDyBpnrzzEWVvDNL"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280600,
+      "name": "\u9022\u3044\u305f\u304f\u306a\u3063\u305f\u6642\u306b \u541b\u306f\u3053\u3053\u306b\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/7efvsb3EZY7WgZpv0rZti2"
+    },
+    {
+      "album": {
+        "name": "NUDE MAN",
+        "url": "https://open.spotify.com/album/0aTXIm9TjEZEBGN14ETvjI"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228164,
+      "name": "\u9022\u3044\u305f\u3055\u898b\u305f\u3055 \u75c5\u3081\u308b My Mind",
+      "url": "https://open.spotify.com/track/0pIqDIRSfOiajavlbK4B9q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8Bcfs9StvNM"
 }

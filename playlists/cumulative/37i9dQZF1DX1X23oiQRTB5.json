@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Jul au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "description": "Kerchak x Ziak au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "ALPHA (Parties 1&2)",
+        "url": "https://open.spotify.com/album/2P0rDh5cLuiMGBYNSxpX5u"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155920,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4XqIETfiZBZ9lrx4Nn44Et"
+    },
+    {
+      "album": {
         "name": "ALPHA (Parties 1 & 2)",
         "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
       },
@@ -668,7 +686,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 155920,
       "name": "Capitaine",
       "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"
@@ -694,6 +712,28 @@
       "duration_ms": 193381,
       "name": "Cardio",
       "url": "https://open.spotify.com/track/4sexM5K1L4lSviqpadSUGi"
+    },
+    {
+      "album": {
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+      },
+      "artists": [
+        {
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "CARTIER",
+      "url": "https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi"
     },
     {
       "album": {
@@ -3244,7 +3284,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 194201,
       "name": "NO L\u00c8CHE",
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
@@ -4184,6 +4224,10 @@
         {
           "name": "Kerchak",
           "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Killemv",
+          "url": "https://open.spotify.com/artist/6CVrtiamrDDp2RWzSMzHNf"
         },
         {
           "name": "Ziak",

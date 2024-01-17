@@ -1,580 +1,1265 @@
 {
-  "2022-05-30": 12597,
-  "2022-05-31": 12603,
-  "2022-06-01": 12615,
-  "2022-06-02": 12615,
-  "2022-06-03": 12621,
-  "2022-06-04": 12627,
-  "2022-06-05": 12630,
-  "2022-06-06": 12639,
-  "2022-06-07": 12644,
-  "2022-06-08": 12647,
-  "2022-06-09": 12651,
-  "2022-06-10": 12656,
-  "2022-06-11": 12662,
-  "2022-06-12": 12671,
-  "2022-06-13": 12672,
-  "2022-06-14": 12682,
-  "2022-06-15": 12691,
-  "2022-06-16": 12697,
-  "2022-06-17": 12699,
-  "2022-06-18": 12704,
-  "2022-06-19": 12716,
-  "2022-06-20": 12716,
-  "2022-06-21": 12727,
-  "2022-06-22": 12742,
-  "2022-06-23": 12742,
-  "2022-06-24": 12753,
-  "2022-06-25": 12758,
-  "2022-06-26": 12759,
-  "2022-06-27": 12768,
-  "2022-06-28": 12777,
-  "2022-06-29": 12782,
-  "2022-06-30": 12784,
-  "2022-07-01": 12794,
-  "2022-07-02": 12805,
-  "2022-07-03": 12809,
-  "2022-07-04": 12813,
-  "2022-07-05": 12813,
-  "2022-07-06": 12813,
-  "2022-07-07": 12838,
-  "2022-07-08": 12841,
-  "2022-07-09": 12850,
-  "2022-07-10": 12862,
-  "2022-07-11": 12870,
-  "2022-07-12": 12883,
-  "2022-07-13": 12897,
-  "2022-07-14": 12899,
-  "2022-07-15": 12909,
-  "2022-07-16": 12914,
-  "2022-07-17": 12926,
-  "2022-07-18": 12932,
-  "2022-07-19": 12942,
-  "2022-07-20": 12944,
-  "2022-07-21": 12947,
-  "2022-07-22": 12952,
-  "2022-07-23": 12969,
-  "2022-07-24": 12973,
-  "2022-07-25": 12979,
-  "2022-07-26": 12986,
-  "2022-07-27": 12992,
-  "2022-07-28": 12999,
-  "2022-07-29": 13002,
-  "2022-07-30": 13013,
-  "2022-07-31": 13013,
-  "2022-08-01": 13019,
-  "2022-08-02": 13032,
-  "2022-08-03": 13032,
-  "2022-08-04": 13042,
-  "2022-08-05": 13052,
-  "2022-08-06": 13057,
-  "2022-08-07": 13068,
-  "2022-08-08": 13077,
-  "2022-08-09": 13085,
-  "2022-08-10": 13096,
-  "2022-08-11": 13103,
-  "2022-08-12": 13110,
-  "2022-08-13": 13118,
-  "2022-08-14": 13130,
-  "2022-08-15": 13134,
-  "2022-08-16": 13146,
-  "2022-08-17": 13150,
-  "2022-08-18": 13159,
-  "2022-08-19": 13165,
-  "2022-08-20": 13171,
-  "2022-08-21": 13173,
-  "2022-08-22": 13174,
-  "2022-08-23": 13187,
-  "2022-08-24": 13198,
-  "2022-08-25": 13207,
-  "2022-08-26": 13215,
-  "2022-08-27": 13218,
-  "2022-08-28": 13225,
-  "2022-08-29": 13230,
-  "2022-08-30": 13232,
-  "2022-08-31": 13234,
-  "2022-09-01": 13240,
-  "2022-09-02": 13243,
-  "2022-09-03": 13248,
-  "2022-09-04": 13252,
-  "2022-09-05": 13260,
-  "2022-09-06": 13268,
-  "2022-09-07": 13272,
-  "2022-09-09": 13292,
-  "2022-09-10": 13301,
-  "2022-09-11": 13311,
-  "2022-09-12": 13319,
-  "2022-09-13": 13330,
-  "2022-09-15": 13356,
-  "2022-09-16": 13362,
-  "2022-09-17": 13370,
-  "2022-09-18": 13374,
-  "2022-09-19": 13381,
-  "2022-09-20": 13386,
-  "2022-09-21": 13394,
-  "2022-09-22": 13404,
-  "2022-09-23": 13418,
-  "2022-09-24": 13418,
-  "2022-09-25": 13439,
-  "2022-09-26": 13445,
-  "2022-09-27": 13450,
-  "2022-09-28": 13459,
-  "2022-09-29": 13468,
-  "2022-09-30": 13486,
-  "2022-10-01": 13496,
-  "2022-10-02": 13509,
-  "2022-10-03": 13516,
-  "2022-10-04": 13529,
-  "2022-10-05": 13531,
-  "2022-10-06": 13539,
-  "2022-10-07": 13545,
-  "2022-10-08": 13553,
-  "2022-10-09": 13566,
-  "2022-10-10": 13566,
-  "2022-10-11": 13578,
-  "2022-10-12": 13592,
-  "2022-10-13": 13602,
-  "2022-10-14": 13616,
-  "2022-10-15": 13625,
-  "2022-10-16": 13632,
-  "2022-10-17": 13639,
-  "2022-10-18": 13651,
-  "2022-10-19": 13659,
-  "2022-10-20": 13669,
-  "2022-10-21": 13680,
-  "2022-10-22": 13684,
-  "2022-10-23": 13692,
-  "2022-10-24": 13700,
-  "2022-10-25": 13703,
-  "2022-10-26": 13717,
-  "2022-10-27": 13726,
-  "2022-10-28": 13740,
-  "2022-10-29": 13748,
-  "2022-10-30": 13762,
-  "2022-10-31": 13765,
-  "2022-11-01": 13776,
-  "2022-11-02": 13785,
-  "2022-11-03": 13795,
-  "2022-11-04": 13809,
-  "2022-11-05": 13810,
-  "2022-11-06": 13821,
-  "2022-11-07": 13830,
-  "2022-11-08": 13839,
-  "2022-11-09": 13846,
-  "2022-11-10": 13850,
-  "2022-11-11": 13857,
-  "2022-11-12": 13873,
-  "2022-11-13": 13883,
-  "2022-11-14": 13887,
-  "2022-11-15": 13897,
-  "2022-11-16": 13905,
-  "2022-11-17": 13906,
-  "2022-11-18": 13914,
-  "2022-11-19": 13916,
-  "2022-11-20": 13926,
-  "2022-11-21": 13938,
-  "2022-11-22": 13949,
-  "2022-11-23": 13966,
-  "2022-11-24": 13992,
-  "2022-11-25": 14002,
-  "2022-11-26": 14005,
-  "2022-11-27": 14015,
-  "2022-11-28": 14023,
-  "2022-11-29": 14031,
-  "2022-11-30": 14038,
-  "2022-12-01": 14046,
-  "2022-12-02": 14046,
-  "2022-12-03": 14064,
-  "2022-12-04": 14070,
-  "2022-12-05": 14083,
-  "2022-12-06": 14089,
-  "2022-12-07": 14096,
-  "2022-12-08": 14109,
-  "2022-12-09": 14114,
-  "2022-12-10": 14120,
-  "2022-12-11": 14125,
-  "2022-12-12": 14140,
-  "2022-12-13": 14143,
-  "2022-12-14": 14147,
-  "2022-12-15": 14151,
-  "2022-12-16": 14159,
-  "2022-12-17": 14170,
-  "2022-12-18": 14176,
-  "2022-12-19": 14188,
-  "2022-12-20": 14194,
-  "2022-12-21": 14194,
-  "2022-12-22": 14205,
-  "2022-12-24": 14217,
-  "2022-12-25": 14222,
-  "2022-12-26": 14229,
-  "2022-12-27": 14232,
-  "2022-12-28": 14244,
-  "2022-12-29": 14250,
-  "2022-12-30": 14257,
-  "2022-12-31": 14262,
-  "2023-01-01": 14271,
-  "2023-01-02": 14281,
-  "2023-01-03": 14294,
-  "2023-01-04": 14299,
-  "2023-01-05": 14313,
-  "2023-01-06": 14324,
-  "2023-01-07": 14342,
-  "2023-01-08": 14342,
-  "2023-01-09": 14352,
-  "2023-01-10": 14361,
-  "2023-01-11": 14375,
-  "2023-01-12": 14385,
-  "2023-01-13": 14398,
-  "2023-01-14": 14412,
-  "2023-01-15": 14413,
-  "2023-01-16": 14423,
-  "2023-01-17": 14428,
-  "2023-01-18": 14439,
-  "2023-01-19": 14453,
-  "2023-01-20": 14459,
-  "2023-01-21": 14465,
-  "2023-01-22": 14465,
-  "2023-01-23": 14474,
-  "2023-01-24": 14488,
-  "2023-01-25": 14497,
-  "2023-01-26": 14507,
-  "2023-01-27": 14518,
-  "2023-01-28": 14521,
-  "2023-01-29": 14530,
-  "2023-01-30": 14539,
-  "2023-01-31": 14539,
-  "2023-02-01": 14552,
-  "2023-02-02": 14563,
-  "2023-02-03": 14578,
-  "2023-02-04": 14587,
-  "2023-02-05": 14602,
-  "2023-02-06": 14614,
-  "2023-02-07": 14621,
-  "2023-02-08": 14640,
-  "2023-02-09": 14640,
-  "2023-02-10": 14655,
-  "2023-02-11": 14664,
-  "2023-02-12": 14684,
-  "2023-02-13": 14694,
-  "2023-02-14": 14694,
-  "2023-02-15": 14700,
-  "2023-02-16": 14711,
-  "2023-02-17": 14714,
-  "2023-02-18": 14728,
-  "2023-02-19": 14727,
-  "2023-02-20": 14731,
-  "2023-02-21": 14734,
-  "2023-02-22": 14735,
-  "2023-02-23": 14742,
-  "2023-02-24": 14748,
-  "2023-02-25": 14767,
-  "2023-02-26": 14779,
-  "2023-02-27": 14790,
-  "2023-02-28": 14790,
-  "2023-03-01": 14798,
-  "2023-03-02": 14810,
-  "2023-03-03": 14814,
-  "2023-03-04": 14821,
-  "2023-03-05": 14845,
-  "2023-03-06": 14845,
-  "2023-03-07": 14861,
-  "2023-03-08": 14873,
-  "2023-03-09": 14882,
-  "2023-03-10": 14887,
-  "2023-03-11": 14898,
-  "2023-03-12": 14907,
-  "2023-03-13": 14919,
-  "2023-03-14": 14936,
-  "2023-03-15": 14948,
-  "2023-03-16": 14948,
-  "2023-03-17": 14948,
-  "2023-03-18": 14973,
-  "2023-03-19": 14973,
-  "2023-03-20": 14990,
-  "2023-03-21": 15000,
-  "2023-03-22": 15009,
-  "2023-03-23": 15015,
-  "2023-03-24": 15015,
-  "2023-03-25": 15040,
-  "2023-03-26": 15049,
-  "2023-03-27": 15052,
-  "2023-03-28": 15057,
-  "2023-03-29": 15065,
-  "2023-03-30": 15090,
-  "2023-03-31": 15090,
-  "2023-04-01": 15099,
-  "2023-04-02": 15109,
-  "2023-04-03": 15116,
-  "2023-04-04": 15127,
-  "2023-04-05": 15132,
-  "2023-04-06": 15144,
-  "2023-04-07": 15158,
-  "2023-04-09": 15178,
-  "2023-04-10": 15192,
-  "2023-04-11": 15209,
-  "2023-04-12": 15209,
-  "2023-04-13": 15217,
-  "2023-04-14": 15225,
-  "2023-04-15": 15236,
-  "2023-04-16": 15239,
-  "2023-04-17": 15244,
-  "2023-04-18": 15254,
-  "2023-04-19": 15264,
-  "2023-04-20": 15271,
-  "2023-04-21": 15286,
-  "2023-04-22": 15296,
-  "2023-04-23": 15303,
-  "2023-04-24": 15312,
-  "2023-04-25": 15316,
-  "2023-04-26": 15323,
-  "2023-04-27": 15331,
-  "2023-04-28": 15338,
-  "2023-04-29": 15348,
-  "2023-04-30": 15361,
-  "2023-05-01": 15369,
-  "2023-05-02": 15384,
-  "2023-05-03": 15393,
-  "2023-05-04": 15403,
-  "2023-05-05": 15411,
-  "2023-05-06": 15420,
-  "2023-05-07": 15426,
-  "2023-05-08": 15436,
-  "2023-05-09": 15447,
-  "2023-05-10": 15460,
-  "2023-05-11": 15466,
-  "2023-05-12": 15472,
-  "2023-05-13": 15479,
-  "2023-05-14": 15483,
-  "2023-05-15": 15491,
-  "2023-05-16": 15498,
-  "2023-05-17": 15503,
-  "2023-05-18": 15510,
-  "2023-05-19": 15521,
-  "2023-05-20": 15537,
-  "2023-05-21": 15537,
-  "2023-05-22": 15537,
-  "2023-05-23": 15550,
-  "2023-05-24": 15553,
-  "2023-05-25": 15556,
-  "2023-05-26": 15562,
-  "2023-05-27": 15568,
-  "2023-05-28": 15576,
-  "2023-05-29": 15576,
-  "2023-05-30": 15589,
-  "2023-05-31": 15599,
-  "2023-06-01": 15606,
-  "2023-06-02": 15618,
-  "2023-06-03": 15627,
-  "2023-06-04": 15637,
-  "2023-06-05": 15645,
-  "2023-06-06": 15652,
-  "2023-06-07": 15655,
-  "2023-06-08": 15663,
-  "2023-06-09": 15674,
-  "2023-06-10": 15681,
-  "2023-06-11": 15685,
-  "2023-06-12": 15690,
-  "2023-06-13": 15702,
-  "2023-06-14": 15705,
-  "2023-06-15": 15712,
-  "2023-06-16": 15716,
-  "2023-06-17": 15720,
-  "2023-06-18": 15725,
-  "2023-06-19": 15730,
-  "2023-06-20": 15740,
-  "2023-06-21": 15746,
-  "2023-06-22": 15756,
-  "2023-06-23": 15764,
-  "2023-06-24": 15770,
-  "2023-06-25": 15778,
-  "2023-06-26": 15780,
-  "2023-06-27": 15789,
-  "2023-06-28": 15792,
-  "2023-06-29": 15799,
-  "2023-06-30": 15805,
-  "2023-07-01": 15824,
-  "2023-07-02": 15824,
-  "2023-07-03": 15837,
-  "2023-07-04": 15847,
-  "2023-07-05": 15855,
-  "2023-07-06": 15867,
-  "2023-07-07": 15867,
-  "2023-07-08": 15867,
-  "2023-07-09": 15877,
-  "2023-07-10": 15882,
-  "2023-07-11": 15897,
-  "2023-07-12": 15909,
-  "2023-07-13": 15918,
-  "2023-07-14": 15929,
-  "2023-07-15": 15930,
-  "2023-07-16": 15941,
-  "2023-07-17": 15951,
-  "2023-07-18": 15957,
-  "2023-07-19": 15963,
-  "2023-07-20": 15974,
-  "2023-07-21": 15977,
-  "2023-07-22": 15981,
-  "2023-07-23": 15985,
-  "2023-07-24": 15989,
-  "2023-07-25": 15999,
-  "2023-07-26": 16005,
-  "2023-07-27": 16019,
-  "2023-07-28": 16030,
-  "2023-07-29": 16038,
-  "2023-07-30": 16048,
-  "2023-07-31": 16052,
-  "2023-08-01": 16057,
-  "2023-08-02": 16066,
-  "2023-08-03": 16071,
-  "2023-08-04": 16076,
-  "2023-08-05": 16085,
-  "2023-08-06": 16098,
-  "2023-08-07": 16098,
-  "2023-08-08": 16107,
-  "2023-08-09": 16117,
-  "2023-08-10": 16125,
-  "2023-08-11": 16129,
-  "2023-08-12": 16129,
-  "2023-08-13": 16129,
-  "2023-08-14": 16141,
-  "2023-08-15": 16141,
-  "2023-08-16": 16141,
-  "2023-08-17": 16141,
-  "2023-08-18": 16141,
-  "2023-08-19": 16141,
-  "2023-08-20": 16187,
-  "2023-08-21": 16187,
-  "2023-08-22": 16200,
-  "2023-08-23": 16200,
-  "2023-08-24": 16200,
-  "2023-08-25": 16200,
-  "2023-08-26": 16222,
-  "2023-08-27": 16222,
-  "2023-08-28": 16231,
-  "2023-08-29": 16231,
-  "2023-08-30": 16231,
-  "2023-08-31": 16250,
-  "2023-09-01": 16264,
-  "2023-09-02": 16264,
-  "2023-09-03": 16279,
-  "2023-09-04": 16279,
-  "2023-09-05": 16279,
-  "2023-09-06": 16295,
-  "2023-09-07": 16295,
-  "2023-09-08": 16295,
-  "2023-09-09": 16295,
-  "2023-09-10": 16334,
-  "2023-09-11": 16334,
-  "2023-09-12": 16334,
-  "2023-09-13": 16360,
-  "2023-09-14": 16360,
-  "2023-09-15": 16360,
-  "2023-09-16": 16384,
-  "2023-09-17": 16384,
-  "2023-09-18": 16384,
-  "2023-09-19": 16407,
-  "2023-09-20": 16407,
-  "2023-09-21": 16407,
-  "2023-09-22": 16424,
-  "2023-09-23": 16424,
-  "2023-09-24": 16424,
-  "2023-09-25": 16424,
-  "2023-09-26": 16471,
-  "2023-09-27": 16471,
-  "2023-09-28": 16471,
-  "2023-09-29": 16471,
-  "2023-09-30": 16471,
-  "2023-10-01": 16471,
-  "2023-10-02": 16471,
-  "2023-10-03": 16471,
-  "2023-10-04": 16471,
-  "2023-10-05": 16520,
-  "2023-10-06": 16520,
-  "2023-10-07": 16520,
-  "2023-10-08": 16520,
-  "2023-10-09": 16520,
-  "2023-10-10": 16520,
-  "2023-10-11": 16563,
-  "2023-10-12": 16563,
-  "2023-10-13": 16563,
-  "2023-10-14": 16563,
-  "2023-10-15": 16563,
-  "2023-10-16": 16563,
-  "2023-10-17": 16563,
-  "2023-10-18": 16563,
-  "2023-10-19": 16563,
-  "2023-10-20": 16563,
-  "2023-10-21": 16563,
-  "2023-10-22": 16563,
-  "2023-10-23": 16563,
-  "2023-10-24": 16563,
-  "2023-10-25": 16563,
-  "2023-10-26": 16563,
-  "2023-10-27": 16563,
-  "2023-10-28": 16563,
-  "2023-10-29": 16563,
-  "2023-10-30": 16563,
-  "2023-10-31": 16563,
-  "2023-11-01": 16563,
-  "2023-11-02": 16563,
-  "2023-11-03": 16563,
-  "2023-11-04": 16563,
-  "2023-11-05": 16563,
-  "2023-11-06": 16563,
-  "2023-11-07": 16563,
-  "2023-11-08": 16563,
-  "2023-11-09": 16563,
-  "2023-11-10": 16563,
-  "2023-11-11": 16758,
-  "2023-11-12": 16758,
-  "2023-11-13": 16758,
-  "2023-11-14": 16758,
-  "2023-11-15": 16758,
-  "2023-11-16": 16758,
-  "2023-11-17": 16758,
-  "2023-11-18": 16758,
-  "2023-11-19": 16758,
-  "2023-11-20": 16758,
-  "2023-11-21": 16758,
-  "2023-11-22": 16758,
-  "2023-11-23": 16758,
-  "2023-11-24": 16758,
-  "2023-11-25": 16758,
-  "2023-11-26": 16758,
-  "2023-11-27": 16758,
-  "2023-11-28": 16758,
-  "2023-11-29": 16758,
-  "2023-11-30": 16758,
-  "2023-12-01": 16758,
-  "2023-12-02": 16758,
-  "2023-12-03": 16758,
-  "2023-12-04": 16758,
-  "2023-12-05": 16758,
-  "2023-12-06": 16758,
-  "2023-12-07": 16758,
-  "2023-12-08": 16758,
-  "2023-12-09": 16758,
-  "2023-12-10": 16758,
-  "2023-12-11": 16758,
-  "2023-12-12": 16758,
-  "2023-12-13": 16758,
-  "2023-12-14": 16953,
-  "2023-12-15": 16960,
-  "2023-12-16": 16963,
-  "2023-12-17": 16971,
-  "2023-12-18": 16978,
-  "2023-12-19": 16980,
-  "2023-12-20": 16981,
-  "2023-12-21": 16982,
-  "2023-12-22": 16986,
-  "2023-12-23": 16986,
-  "2023-12-24": 16992,
-  "2023-12-25": 16999,
-  "2023-12-26": 17003,
-  "2023-12-27": 17005,
-  "2023-12-30": 17011,
-  "2023-12-31": 17008,
-  "2024-01-01": 17009,
-  "2024-01-02": 17010,
-  "2024-01-03": 17013
+  "2024-01-17": 17078,
+  "date_first_scraped": "2022-05-30",
+  "description": "This is Deuter. The essential tracks, all in one playlist.",
+  "name": "This Is Deuter",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 689632,
+      "name": "Along the High Ridges",
+      "url": "https://open.spotify.com/track/64vIE1KwDyg4Ar9SosQR4w"
+    },
+    {
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420160,
+      "name": "Black Velvet Flirt",
+      "url": "https://open.spotify.com/track/23d2D25xH2EYs8dy5bvi5Y"
+    },
+    {
+      "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 384066,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/4Tr55kF33JNtISHKGCkYb4"
+    },
+    {
+      "album": {
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305226,
+      "name": "Celestial Meadows",
+      "url": "https://open.spotify.com/track/6wkfsDSCPrfEAEfQo8XYjx"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416800,
+      "name": "Cinque",
+      "url": "https://open.spotify.com/track/0RDAF6UAfX2Yg6CVd9kI3p"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298133,
+      "name": "Cloud Surfing",
+      "url": "https://open.spotify.com/track/1HuFkAl8FJnL83syXSPnUb"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285653,
+      "name": "Coucher de Lune",
+      "url": "https://open.spotify.com/track/7lGuSZj1abRWIJ2JDsiCxe"
+    },
+    {
+      "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 450480,
+      "name": "Dawn Mist - The Temple",
+      "url": "https://open.spotify.com/track/6cnSLJOo5A4tcZ6TPZnCI2"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 297333,
+      "name": "Deeper than the Sky",
+      "url": "https://open.spotify.com/track/27sKMZ5NDmoriIbRmMZn5q"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383133,
+      "name": "Deux",
+      "url": "https://open.spotify.com/track/0qcnvg2hjGZpQlE33d8COA"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394306,
+      "name": "Drei",
+      "url": "https://open.spotify.com/track/0mK2VcykSMfiX3lsHMwsph"
+    },
+    {
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 513866,
+      "name": "East of the Full Moon",
+      "url": "https://open.spotify.com/track/0eYaVwb5vYMBUvlxrS4C5u"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/64NKX4dhS7SN54li9VSTtx"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1125226,
+      "name": "Endless Horizon",
+      "url": "https://open.spotify.com/track/0dKDjp06BhgGzlwwhis1t3"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500333,
+      "name": "Escape from Gravity",
+      "url": "https://open.spotify.com/track/7MiXBG25ozczXh5e472Hia"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327106,
+      "name": "Felsen im Licht",
+      "url": "https://open.spotify.com/track/114goyp7beFWnmtoOsYtJo"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420546,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/07kJszAySuuMhJ8UqXS8PS"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 488840,
+      "name": "Free Forever",
+      "url": "https://open.spotify.com/track/7tu8BZz19o4D1zQhLsWSRE"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464360,
+      "name": "Gaia Dreaming Herself Awake",
+      "url": "https://open.spotify.com/track/7lQ6P6agn49OUCedmJSw5q"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272653,
+      "name": "Hands of Love",
+      "url": "https://open.spotify.com/track/5jhjteLUEdraJNZOWco1dN"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 727933,
+      "name": "Healing Circle",
+      "url": "https://open.spotify.com/track/5YYQOMiPMTbw18fJj6rG4w"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522013,
+      "name": "Huit",
+      "url": "https://open.spotify.com/track/2BfQ8b6lOmOCohyKzhbiyD"
+    },
+    {
+      "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 1660266,
+      "name": "Illumination",
+      "url": "https://open.spotify.com/track/0NTLQj0Futvbwwh0fr2jfW"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581226,
+      "name": "Illumination of the Heart",
+      "url": "https://open.spotify.com/track/4PSXQc6mV7ZJpLEJ4vkfUR"
+    },
+    {
+      "album": {
+        "name": "Buddha Nature",
+        "url": "https://open.spotify.com/album/72PYgOokcFMyEXjzgkfkRu"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Joyful Path",
+      "url": "https://open.spotify.com/track/2hSIIrPknMwAre3HSh19qi"
+    },
+    {
+      "album": {
+        "name": "Tibet Nada Himalaya 2",
+        "url": "https://open.spotify.com/album/4iPs5HUdRml1LOnNw8aL73"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 545440,
+      "name": "Khumbe",
+      "url": "https://open.spotify.com/track/1LUL3P83KWBsfZFoypbJAH"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499266,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488866,
+      "name": "Kiss of a Rose",
+      "url": "https://open.spotify.com/track/1iYVLR0alUpxmIbIkoc1xg"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514080,
+      "name": "Koyasan",
+      "url": "https://open.spotify.com/track/5lV4TxufL1Sq5zfC8Gz2CZ"
+    },
+    {
+      "album": {
+        "name": "Bamboo Forest",
+        "url": "https://open.spotify.com/album/0UpRbuoMpbzQ4hzflnVP8H"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349133,
+      "name": "Kyoto Garden",
+      "url": "https://open.spotify.com/track/37LM30dbtHHS1qemz9PN4K"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 611093,
+      "name": "Language of Silence",
+      "url": "https://open.spotify.com/track/4gsTHtp8pywndlUmPZIgOw"
+    },
+    {
+      "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 688613,
+      "name": "Lavender Fields",
+      "url": "https://open.spotify.com/track/1ENhgR4UmYRhit46FoJVes"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433706,
+      "name": "Love's Winged Messenger",
+      "url": "https://open.spotify.com/track/1H5R677QTxixhfBlGNMDtY"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610733,
+      "name": "Loving Touch",
+      "url": "https://open.spotify.com/track/0hdMmviZDiyTsuctkBtLpC"
+    },
+    {
+      "album": {
+        "name": "East of the Full Moon",
+        "url": "https://open.spotify.com/album/1KVVHP66MYMaHF1D32qSon"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Marfa Lights 2",
+      "url": "https://open.spotify.com/track/5L31LhF5GL6VZCewuQz9AI"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587746,
+      "name": "Matamua",
+      "url": "https://open.spotify.com/track/472kQ99QrEpFLaLBUglVF3"
+    },
+    {
+      "album": {
+        "name": "Mystery of Light",
+        "url": "https://open.spotify.com/album/2U4w7DS7sZVl7uwWdp7wS9"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324426,
+      "name": "Memories of an Angel",
+      "url": "https://open.spotify.com/track/1FElYZpUQRiruS0KCVklO6"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 503146,
+      "name": "Mericoeur",
+      "url": "https://open.spotify.com/track/2Yt7BGALGcWl1TEBtQEqBy"
+    },
+    {
+      "album": {
+        "name": "Immortelle",
+        "url": "https://open.spotify.com/album/1VJfgOdQJUp4shVpYcIThy"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 332946,
+      "name": "Monarda",
+      "url": "https://open.spotify.com/track/0at96syawo9G6QQ3cVGNCx"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 388133,
+      "name": "Moon and Earth",
+      "url": "https://open.spotify.com/track/07neilEX9t7aKFndygWFDK"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451626,
+      "name": "Morning Light Silhouettes 1",
+      "url": "https://open.spotify.com/track/7qhqxUZim8dgGAe7dzhVlR"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321786,
+      "name": "Morning Light Silhouettes 2",
+      "url": "https://open.spotify.com/track/1vP4rx7L7iHjCkiIRj6FLN"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/5NABADFo5HkZF5JkzyGcYX"
+    },
+    {
+      "album": {
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/6T1U1ucDvCSyh4panZaZTP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367046,
+      "name": "Moving Seagrass",
+      "url": "https://open.spotify.com/track/4xnZW5ewiv2cN2HRwUjIIh"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521693,
+      "name": "Mystic Voyage",
+      "url": "https://open.spotify.com/track/7guiwTzSraP0ZHqBCMlnmE"
+    },
+    {
+      "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508733,
+      "name": "Olive Grove",
+      "url": "https://open.spotify.com/track/7G6SLZYw7lEBgvzVWEM4H7"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566813,
+      "name": "Schein und Widerschein",
+      "url": "https://open.spotify.com/track/23j21SUvekEAMAmQKLRUY2"
+    },
+    {
+      "album": {
+        "name": "Sea and Silence",
+        "url": "https://open.spotify.com/album/2ua4MPOaV3V7UMGu6awemH"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 807853,
+      "name": "Sea and Silence",
+      "url": "https://open.spotify.com/track/573r9ga2NLtpu0gWEoPjRN"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 625760,
+      "name": "Seashell",
+      "url": "https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 657026,
+      "name": "Shamanic Healing",
+      "url": "https://open.spotify.com/track/2mqLxY8Q3jH4VZxvKnscvc"
+    },
+    {
+      "album": {
+        "name": "Spa Lounge",
+        "url": "https://open.spotify.com/album/6ERp3okLOeeQerFReJnCCK"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435426,
+      "name": "Silent Wave",
+      "url": "https://open.spotify.com/track/27F6TPCUQ9eI2gXwO8Ngr1"
+    },
+    {
+      "album": {
+        "name": "Reiki Healing",
+        "url": "https://open.spotify.com/album/4Lb8o6jr6aSXjt9L8VAKMP"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342346,
+      "name": "Song of a Dream",
+      "url": "https://open.spotify.com/track/46vGNHvQ4RL2LWddrDnR4T"
+    },
+    {
+      "album": {
+        "name": "Koyasan: Reiki Sound Healing",
+        "url": "https://open.spotify.com/album/2KqIIRnERVHqimzQSAZaRD"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+    },
+    {
+      "album": {
+        "name": "San",
+        "url": "https://open.spotify.com/album/0lVpMl5G0dDi4mReNiJbhS"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-01",
+      "duration_ms": 414106,
+      "name": "Spirales",
+      "url": "https://open.spotify.com/track/0kewjdlSTKlF1GbBiXbfVc"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410266,
+      "name": "Stern an Stern",
+      "url": "https://open.spotify.com/track/3PlSjESvsU50fg4cajMBmg"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486893,
+      "name": "Still Stones of Silence",
+      "url": "https://open.spotify.com/track/7zUPTyOUvO41OBtA5BTwMr"
+    },
+    {
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386840,
+      "name": "Surfing the Clouds",
+      "url": "https://open.spotify.com/track/1yiTyMECsbdBFlyeFXS3BY"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556240,
+      "name": "Temple of Silence",
+      "url": "https://open.spotify.com/track/5RVcMhbIaIfekTjo7zL8ij"
+    },
+    {
+      "album": {
+        "name": "Earth Blue",
+        "url": "https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381066,
+      "name": "The Source",
+      "url": "https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC"
+    },
+    {
+      "album": {
+        "name": "Illumination of the Heart",
+        "url": "https://open.spotify.com/album/3UoxMmQNLKyu2XkxKFvB90"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458373,
+      "name": "Tonglen",
+      "url": "https://open.spotify.com/track/2GiGFQOH4Dzb3hK895quaS"
+    },
+    {
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/3bHtL7JF8pX31w75jIljIn"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535946,
+      "name": "Traveling the Stars",
+      "url": "https://open.spotify.com/track/6RqAsTGE7uw6BKlUN2Gpln"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Love",
+        "url": "https://open.spotify.com/album/0ZyDrVKICSJ9nbqRa3hgZh"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349306,
+      "name": "Unknown Doors",
+      "url": "https://open.spotify.com/track/1xYzlYdAQeHUdyJKbb6Vt5"
+    },
+    {
+      "album": {
+        "name": "Atmospheres",
+        "url": "https://open.spotify.com/album/7xM8Cmd7tMpa6z1eQxZPeG"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354973,
+      "name": "Uno",
+      "url": "https://open.spotify.com/track/6VoYnLiXIpKLg7j2Tnq95x"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 513840,
+      "name": "Venus Rising",
+      "url": "https://open.spotify.com/track/2Ugv31yiymtA9NnbJU3igD"
+    },
+    {
+      "album": {
+        "name": "Mysterium",
+        "url": "https://open.spotify.com/album/10YHfrv4zqC7WjpeEF445V"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 336266,
+      "name": "Vollmond im Herbst (Full Moon in Autumn)",
+      "url": "https://open.spotify.com/track/7I42dEHbS8rKpu19tkQQ2A"
+    },
+    {
+      "album": {
+        "name": "Reiki Hands of Light",
+        "url": "https://open.spotify.com/album/296Ap83do1F6OHL4M6Dn4I"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650560,
+      "name": "Waves of Light",
+      "url": "https://open.spotify.com/track/4DKQvhGkiY5UpG7aXF4IHb"
+    },
+    {
+      "album": {
+        "name": "Spiritual Healing",
+        "url": "https://open.spotify.com/album/40zjyuW6wrUhGKCuhMZCEA"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        }
+      ],
+      "date_added": "2022-05-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493139,
+      "name": "Wind in Bamboo",
+      "url": "https://open.spotify.com/track/35GhFYRrUA5yepizpGgFxF"
+    },
+    {
+      "album": {
+        "name": "Garden of the Gods",
+        "url": "https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR"
+      },
+      "artists": [
+        {
+          "name": "Deuter",
+          "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
+        },
+        {
+          "name": "Annette Cantor",
+          "url": "https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 351240,
+      "name": "Wind in the Trees",
+      "url": "https://open.spotify.com/track/3PuW8IJzJpqURCSAGgEgLe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO25w5pM"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6EYGesCIdV.md) - [plain]
 
 > Aidez votre bébé à s'endormir avec ces classiques Disney en version berceuse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,434 likes - 86 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,573 likes - 86 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

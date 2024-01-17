@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,170 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,446 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 38 | [Lifetime](https://open.spotify.com/track/4bmRJGOIegqYIBQrOga05Q) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Lifetime](https://open.spotify.com/album/6VBb4fvOomicHpUsSoi5fR) | 4:46 |
 | 39 | [Slow / Love to Love You Baby \(From the Infinite Disco Livestream\)](https://open.spotify.com/track/0AocMj1DZuKPXGVrCICNNu) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Infinite Disco](https://open.spotify.com/album/22FbsSjPqf7kxayE4M5ut3) | 3:13 |
 | 40 | [You Make Me Feel So Good](https://open.spotify.com/track/6Km4fDR4J8KGxygCowUdfs) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [You Make Me Feel So Good](https://open.spotify.com/album/4Gz6ZJpblwIcONuElYTlPq) | 3:37 |
-| 41 | [Tunnel Vision](https://open.spotify.com/track/7E8AOsIgNo1KKzmD21d21h) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Art of Loving You](https://open.spotify.com/album/4DWsGZrf8adwrx0FFR5kWx) | 3:45 |
+| 41 | [Tunnel Vision](https://open.spotify.com/track/1Vkn7qPTWmEl6yDR46RjAN) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Future Classic](https://open.spotify.com/album/6lgYtcJdANfL1cE4OsQxot) | 3:45 |
 | 42 | [I Still Believe \- Purple Disco Machine Remix](https://open.spotify.com/track/40uD8YIrDmTuFFPNYp3ovN) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [I Still Believe \(Purple Disco Machine Remix\)](https://open.spotify.com/album/4vRTaNLGafRDnsuQfyetJY) | 3:39 |
 | 43 | [Mystery of Love \- Le Flex "Summer Mystery" Remix](https://open.spotify.com/track/2nDXRRl54WDUU8iDzDRm4f) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U), [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Mystery of Love \(Le Flex "Summer Mystery" Remix\)](https://open.spotify.com/album/6LozhAvGkGm2TlWnXsng7w) | 4:13 |
 | 44 | [Crying At The Discoteque](https://open.spotify.com/track/0nmp7lSwHJmjqWYtQQn1BC) | [Discotron](https://open.spotify.com/artist/3kxReOjCeEoZxRo80bAHFf), [Sandy's Groove](https://open.spotify.com/artist/1rQ5LaR4qHhLJ4BncWFTOd) | [Crying At The Discoteque](https://open.spotify.com/album/7CYAxFYo7zOWstKYpQOhoq) | 3:58 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 
 > Relaxing classical piano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,926 likes - 67 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,620 likes - 67 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 53 | [4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio](https://open.spotify.com/track/3OqFVW82OYx3AvC2hO4Orz) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Elisabeth Brauß](https://open.spotify.com/artist/1djEkcup0nzJk7N5VeIoBs) | [Brahms: 4 Piano Pieces, Op\. 119: No\. 1 in B Minor\. Intermezzo\. Adagio \(Musical Moments\)](https://open.spotify.com/album/4vIC0euPV2pHGe1bHjPwze) | 4:05 |
 | 54 | [Montero: Adagio \(After Bach's Violin Concerto No\. 2, BWV 1042\)](https://open.spotify.com/track/1v3gGmcneK1QzYyBFiBXG0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Gabriela Montero](https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr) | [Bach and Beyond](https://open.spotify.com/album/5IOSn5wePFXjdss00TdTe7) | 5:01 |
 | 55 | [3 Preludes and Fugues, Op\. 16: No\. 2\. Prelude and Fugue in B\-Flat Major](https://open.spotify.com/track/1u7z1dbU39nz7LysjwU5uF) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Jozef De Beenhouwer](https://open.spotify.com/artist/7JI0OWkSm3v9MtPqBemMHQ) | [Schumann, C.: Complete Piano Works](https://open.spotify.com/album/1D4iJ2Q5GDju4kVykTvbwE) | 3:43 |
-| 56 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 4:44 |
+| 56 | [Schubert: Piano Sonata No\. 14 in A Minor, Op\. Posth\. 143, D\. 784 "Grande Sonate": II\. Andante](https://open.spotify.com/track/6HbZbPPi4uFNtb4iZYfzzP) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eric Lu](https://open.spotify.com/artist/2v2GiBMOpS1N1HfAhSZOVC) | [Schubert: Piano Sonatas D\. 784 & 959](https://open.spotify.com/album/2HlQ2ZoUOJQCfiiI5brrkw) | 4:44 |
 | 57 | [Die Rose, Romanze aus der Oper Zemir und Azor, S571/R259 \(Spohr\)](https://open.spotify.com/track/7lO0GHKtEZKLZ0l32upmll) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Soyeon Kate Lee](https://open.spotify.com/artist/1w6YJTzpXOjMCO8bJ66CBb) | [Liszt Complete Piano Music, Vol\. 38: Transcriptions and Arrangements of Handel, Gounod, Spohr & Raff](https://open.spotify.com/album/3Q4kJgSNcPqfbaBNzlXEcz) | 4:47 |
 | 58 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
 | 59 | [Fantasia No\. 3 in D Minor, K\. 397](https://open.spotify.com/track/4yExhO3Vh6bLW32qU4DOOs) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [The Messenger](https://open.spotify.com/album/7rZomvm8hIPSECCPFgAVBf) | 5:46 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqIzZNMSCv3.md) - [plain]
 | 66 | [3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/track/3c58ZVEbMUjWsmy4N84kPv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Hélène Grimaud](https://open.spotify.com/artist/0VkQgzGZUmazUc7ouT5S79) | [Brahms: 3 Intermezzi, Op\. 117: No\. 1, Andante moderato](https://open.spotify.com/album/3SCiglv72zuCvlz88eLfMV) | 4:50 |
 | 67 | [Nocturnes, Op\. 27: No\. 2 in D Flat Major\. Lento sostenuto](https://open.spotify.com/track/5gOiyasbWfppG7fkNI6Byl) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Jan Lisiecki](https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy) | [Chopin: Complete Nocturnes](https://open.spotify.com/album/1mvFSxhBUzeOlOFU6SlhAw) | 7:13 |
 
-Snapshot ID: `MCxkMGMxOWMxNjBiMTI1YmI5ZmZhNTBhMzc1ZWJmOTM1YWNkOGVlZDVl`
+Snapshot ID: `MCw4NTZhZTJmYWU4YTNjY2U2ZjA5NDAyOTljYmM3MTA4ZDEyYWU0MDhj`

@@ -1,728 +1,1105 @@
 {
-  "2022-01-01": 46439,
-  "2022-01-02": 46481,
-  "2022-01-03": 46578,
-  "2022-01-04": 46798,
-  "2022-01-05": 46978,
-  "2022-01-06": 47181,
-  "2022-01-07": 47379,
-  "2022-01-08": 47540,
-  "2022-01-09": 47520,
-  "2022-01-10": 47680,
-  "2022-01-11": 47841,
-  "2022-01-12": 47957,
-  "2022-01-13": 48075,
-  "2022-01-14": 48261,
-  "2022-01-15": 48614,
-  "2022-01-16": 48625,
-  "2022-01-17": 49008,
-  "2022-01-18": 49041,
-  "2022-01-19": 49164,
-  "2022-01-20": 49313,
-  "2022-01-21": 49474,
-  "2022-01-22": 49569,
-  "2022-01-23": 49659,
-  "2022-01-24": 49437,
-  "2022-01-25": 49523,
-  "2022-01-26": 49673,
-  "2022-01-27": 49820,
-  "2022-01-28": 49988,
-  "2022-01-29": 50200,
-  "2022-01-30": 50341,
-  "2022-01-31": 50479,
-  "2022-02-01": 50608,
-  "2022-02-02": 50734,
-  "2022-02-03": 50858,
-  "2022-02-04": 50987,
-  "2022-02-05": 51124,
-  "2022-02-06": 51302,
-  "2022-02-07": 51473,
-  "2022-02-08": 51598,
-  "2022-02-09": 51708,
-  "2022-02-10": 50987,
-  "2022-02-11": 51000,
-  "2022-02-12": 51143,
-  "2022-02-13": 51233,
-  "2022-02-14": 51335,
-  "2022-02-15": 51447,
-  "2022-02-16": 51575,
-  "2022-02-17": 51705,
-  "2022-02-18": 51809,
-  "2022-02-19": 51900,
-  "2022-02-20": 51980,
-  "2022-02-21": 52099,
-  "2022-02-22": 52202,
-  "2022-02-23": 52318,
-  "2022-02-24": 51868,
-  "2022-02-25": 51963,
-  "2022-02-26": 51964,
-  "2022-02-27": 52128,
-  "2022-02-28": 52128,
-  "2022-03-01": 52247,
-  "2022-03-02": 52375,
-  "2022-03-03": 52494,
-  "2022-03-04": 52614,
-  "2022-03-05": 52755,
-  "2022-03-06": 52872,
-  "2022-03-07": 52969,
-  "2022-03-08": 53066,
-  "2022-03-09": 53189,
-  "2022-03-10": 53107,
-  "2022-03-11": 53176,
-  "2022-03-12": 53317,
-  "2022-03-13": 53435,
-  "2022-03-14": 53567,
-  "2022-03-15": 53687,
-  "2022-03-16": 53777,
-  "2022-03-17": 53874,
-  "2022-03-18": 53890,
-  "2022-03-19": 53947,
-  "2022-03-20": 53947,
-  "2022-03-21": 54136,
-  "2022-03-22": 54245,
-  "2022-03-23": 54348,
-  "2022-03-24": 54472,
-  "2022-03-25": 54592,
-  "2022-03-26": 54699,
-  "2022-03-27": 54819,
-  "2022-03-28": 54784,
-  "2022-03-30": 55021,
-  "2022-03-31": 55169,
-  "2022-04-01": 55357,
-  "2022-04-02": 55468,
-  "2022-04-03": 55588,
-  "2022-04-04": 55776,
-  "2022-04-05": 55896,
-  "2022-04-06": 56029,
-  "2022-04-07": 56164,
-  "2022-04-08": 56263,
-  "2022-04-09": 56330,
-  "2022-04-10": 55582,
-  "2022-04-11": 55617,
-  "2022-04-12": 55615,
-  "2022-04-13": 55666,
-  "2022-04-14": 55728,
-  "2022-04-15": 55661,
-  "2022-04-16": 55723,
-  "2022-04-17": 55777,
-  "2022-04-18": 55856,
-  "2022-04-19": 55902,
-  "2022-04-20": 55952,
-  "2022-04-21": 56030,
-  "2022-04-22": 56123,
-  "2022-04-23": 56189,
-  "2022-04-24": 56235,
-  "2022-04-25": 56108,
-  "2022-04-26": 56149,
-  "2022-04-27": 56223,
-  "2022-04-28": 56305,
-  "2022-04-29": 56444,
-  "2022-04-30": 56524,
-  "2022-05-01": 56648,
-  "2022-05-02": 56648,
-  "2022-05-03": 56712,
-  "2022-05-04": 56793,
-  "2022-05-05": 56866,
-  "2022-05-06": 56940,
-  "2022-05-07": 57029,
-  "2022-05-08": 57163,
-  "2022-05-09": 57173,
-  "2022-05-10": 57268,
-  "2022-05-11": 57331,
-  "2022-05-12": 57417,
-  "2022-05-13": 57500,
-  "2022-05-14": 57581,
-  "2022-05-15": 57657,
-  "2022-05-16": 57753,
-  "2022-05-17": 57821,
-  "2022-05-18": 57908,
-  "2022-05-19": 57991,
-  "2022-05-20": 58085,
-  "2022-05-21": 58263,
-  "2022-05-22": 58263,
-  "2022-05-23": 58372,
-  "2022-05-24": 58450,
-  "2022-05-25": 58552,
-  "2022-05-26": 58631,
-  "2022-05-27": 58717,
-  "2022-05-28": 58802,
-  "2022-05-29": 58875,
-  "2022-05-30": 58952,
-  "2022-05-31": 59036,
-  "2022-06-01": 59165,
-  "2022-06-02": 59168,
-  "2022-06-03": 59251,
-  "2022-06-04": 59327,
-  "2022-06-05": 59434,
-  "2022-06-06": 59535,
-  "2022-06-07": 59618,
-  "2022-06-08": 59705,
-  "2022-06-09": 59787,
-  "2022-06-10": 59859,
-  "2022-06-11": 59938,
-  "2022-06-12": 60001,
-  "2022-06-13": 60062,
-  "2022-06-14": 60152,
-  "2022-06-15": 60185,
-  "2022-06-16": 60231,
-  "2022-06-17": 60270,
-  "2022-06-18": 60302,
-  "2022-06-19": 60407,
-  "2022-06-20": 60407,
-  "2022-06-21": 60473,
-  "2022-06-22": 60568,
-  "2022-06-23": 60568,
-  "2022-06-24": 60614,
-  "2022-06-25": 60691,
-  "2022-06-26": 60772,
-  "2022-06-27": 60835,
-  "2022-06-28": 60909,
-  "2022-06-29": 60962,
-  "2022-06-30": 61060,
-  "2022-07-01": 61115,
-  "2022-07-02": 61183,
-  "2022-07-03": 61251,
-  "2022-07-04": 61330,
-  "2022-07-05": 61403,
-  "2022-07-06": 61541,
-  "2022-07-07": 61629,
-  "2022-07-08": 61706,
-  "2022-07-09": 61790,
-  "2022-07-10": 61865,
-  "2022-07-11": 61954,
-  "2022-07-12": 62027,
-  "2022-07-13": 62102,
-  "2022-07-14": 62202,
-  "2022-07-15": 62272,
-  "2022-07-16": 62384,
-  "2022-07-17": 62457,
-  "2022-07-18": 62532,
-  "2022-07-19": 62602,
-  "2022-07-20": 62659,
-  "2022-07-21": 62712,
-  "2022-07-22": 62769,
-  "2022-07-23": 62860,
-  "2022-07-24": 62916,
-  "2022-07-25": 63001,
-  "2022-07-26": 63070,
-  "2022-07-27": 63150,
-  "2022-07-28": 63216,
-  "2022-07-29": 63284,
-  "2022-07-30": 63445,
-  "2022-07-31": 63445,
-  "2022-08-01": 63504,
-  "2022-08-02": 63621,
-  "2022-08-03": 63621,
-  "2022-08-04": 63691,
-  "2022-08-05": 63746,
-  "2022-08-06": 63796,
-  "2022-08-07": 63853,
-  "2022-08-08": 63918,
-  "2022-08-09": 63985,
-  "2022-08-10": 64037,
-  "2022-08-11": 64105,
-  "2022-08-12": 64182,
-  "2022-08-13": 64240,
-  "2022-08-14": 64301,
-  "2022-08-15": 64375,
-  "2022-08-16": 64454,
-  "2022-08-17": 64528,
-  "2022-08-18": 64597,
-  "2022-08-19": 64653,
-  "2022-08-20": 64721,
-  "2022-08-21": 64771,
-  "2022-08-22": 64806,
-  "2022-08-23": 64859,
-  "2022-08-24": 64913,
-  "2022-08-25": 64973,
-  "2022-08-26": 65031,
-  "2022-08-27": 65094,
-  "2022-08-28": 65165,
-  "2022-08-29": 65243,
-  "2022-08-30": 65112,
-  "2022-08-31": 64797,
-  "2022-09-01": 64436,
-  "2022-09-02": 64094,
-  "2022-09-03": 63416,
-  "2022-09-04": 63166,
-  "2022-09-05": 63187,
-  "2022-09-06": 63262,
-  "2022-09-07": 63350,
-  "2022-09-09": 63518,
-  "2022-09-10": 63590,
-  "2022-09-11": 63689,
-  "2022-09-12": 63774,
-  "2022-09-13": 63853,
-  "2022-09-15": 64016,
-  "2022-09-16": 64097,
-  "2022-09-17": 64166,
-  "2022-09-18": 64245,
-  "2022-09-19": 64340,
-  "2022-09-20": 64414,
-  "2022-09-21": 64482,
-  "2022-09-22": 64552,
-  "2022-09-23": 64615,
-  "2022-09-24": 64717,
-  "2022-09-25": 64814,
-  "2022-09-26": 64913,
-  "2022-09-27": 65006,
-  "2022-09-28": 65077,
-  "2022-09-29": 65167,
-  "2022-09-30": 65246,
-  "2022-10-01": 65319,
-  "2022-10-02": 65399,
-  "2022-10-03": 65478,
-  "2022-10-04": 65550,
-  "2022-10-05": 65631,
-  "2022-10-06": 65712,
-  "2022-10-07": 65778,
-  "2022-10-08": 65861,
-  "2022-10-09": 66015,
-  "2022-10-10": 66042,
-  "2022-10-11": 66137,
-  "2022-10-12": 66249,
-  "2022-10-13": 66341,
-  "2022-10-14": 66430,
-  "2022-10-15": 66528,
-  "2022-10-16": 66628,
-  "2022-10-17": 66733,
-  "2022-10-18": 66812,
-  "2022-10-19": 66880,
-  "2022-10-20": 66965,
-  "2022-10-21": 67073,
-  "2022-10-22": 67157,
-  "2022-10-23": 67232,
-  "2022-10-24": 67322,
-  "2022-10-25": 67391,
-  "2022-10-26": 67481,
-  "2022-10-27": 67556,
-  "2022-10-28": 67672,
-  "2022-10-29": 67790,
-  "2022-10-30": 67901,
-  "2022-10-31": 68028,
-  "2022-11-01": 68133,
-  "2022-11-02": 68261,
-  "2022-11-03": 68356,
-  "2022-11-04": 68511,
-  "2022-11-05": 68662,
-  "2022-11-06": 68799,
-  "2022-11-07": 68926,
-  "2022-11-08": 69050,
-  "2022-11-09": 69165,
-  "2022-11-10": 69263,
-  "2022-11-11": 69372,
-  "2022-11-12": 69495,
-  "2022-11-13": 69609,
-  "2022-11-14": 69728,
-  "2022-11-15": 69840,
-  "2022-11-16": 69929,
-  "2022-11-17": 70063,
-  "2022-11-18": 70093,
-  "2022-11-19": 70134,
-  "2022-11-20": 70225,
-  "2022-11-21": 70325,
-  "2022-11-22": 70433,
-  "2022-11-23": 70518,
-  "2022-11-24": 70706,
-  "2022-11-25": 70864,
-  "2022-11-26": 70972,
-  "2022-11-27": 71076,
-  "2022-11-28": 71200,
-  "2022-11-29": 71276,
-  "2022-11-30": 71371,
-  "2022-12-01": 71469,
-  "2022-12-02": 71521,
-  "2022-12-03": 71622,
-  "2022-12-04": 71691,
-  "2022-12-05": 71777,
-  "2022-12-06": 71861,
-  "2022-12-07": 71954,
-  "2022-12-08": 72025,
-  "2022-12-09": 72114,
-  "2022-12-10": 72199,
-  "2022-12-11": 72276,
-  "2022-12-12": 72357,
-  "2022-12-13": 72427,
-  "2022-12-14": 72496,
-  "2022-12-15": 72580,
-  "2022-12-16": 72650,
-  "2022-12-17": 72721,
-  "2022-12-18": 72804,
-  "2022-12-19": 72889,
-  "2022-12-20": 73023,
-  "2022-12-21": 73023,
-  "2022-12-22": 73061,
-  "2022-12-24": 73173,
-  "2022-12-25": 73252,
-  "2022-12-26": 73312,
-  "2022-12-27": 73377,
-  "2022-12-28": 73475,
-  "2022-12-29": 73538,
-  "2022-12-30": 73622,
-  "2022-12-31": 73696,
-  "2023-01-01": 73765,
-  "2023-01-02": 73828,
-  "2023-01-03": 73898,
-  "2023-01-04": 73976,
-  "2023-01-05": 74040,
-  "2023-01-06": 74124,
-  "2023-01-07": 74241,
-  "2023-01-08": 74260,
-  "2023-01-09": 74327,
-  "2023-01-10": 74413,
-  "2023-01-11": 74488,
-  "2023-01-12": 74548,
-  "2023-01-13": 74626,
-  "2023-01-14": 74772,
-  "2023-01-15": 74784,
-  "2023-01-16": 74864,
-  "2023-01-17": 74962,
-  "2023-01-18": 75029,
-  "2023-01-19": 75119,
-  "2023-01-20": 75187,
-  "2023-01-21": 75270,
-  "2023-01-22": 75376,
-  "2023-01-23": 75454,
-  "2023-01-24": 75534,
-  "2023-01-25": 75608,
-  "2023-01-26": 75680,
-  "2023-01-27": 75750,
-  "2023-01-28": 75836,
-  "2023-01-29": 75918,
-  "2023-01-30": 76012,
-  "2023-01-31": 76012,
-  "2023-02-01": 76140,
-  "2023-02-02": 76231,
-  "2023-02-03": 76308,
-  "2023-02-04": 76376,
-  "2023-02-05": 76464,
-  "2023-02-06": 76548,
-  "2023-02-07": 76611,
-  "2023-02-08": 76735,
-  "2023-02-09": 76735,
-  "2023-02-10": 76775,
-  "2023-02-11": 76845,
-  "2023-02-12": 76966,
-  "2023-02-13": 77008,
-  "2023-02-14": 77008,
-  "2023-02-15": 77070,
-  "2023-02-16": 77135,
-  "2023-02-17": 77184,
-  "2023-02-18": 77319,
-  "2023-02-19": 77334,
-  "2023-02-20": 77380,
-  "2023-02-21": 77457,
-  "2023-02-22": 77513,
-  "2023-02-23": 77581,
-  "2023-02-24": 77655,
-  "2023-02-25": 77745,
-  "2023-02-26": 77808,
-  "2023-02-27": 77933,
-  "2023-02-28": 77933,
-  "2023-03-01": 78005,
-  "2023-03-02": 78075,
-  "2023-03-03": 78150,
-  "2023-03-04": 78212,
-  "2023-03-05": 78340,
-  "2023-03-06": 78340,
-  "2023-03-07": 78407,
-  "2023-03-08": 78464,
-  "2023-03-09": 78548,
-  "2023-03-10": 78604,
-  "2023-03-11": 78678,
-  "2023-03-12": 78761,
-  "2023-03-13": 78802,
-  "2023-03-14": 78870,
-  "2023-03-15": 78915,
-  "2023-03-16": 78962,
-  "2023-03-17": 78962,
-  "2023-03-18": 79065,
-  "2023-03-19": 79128,
-  "2023-03-20": 79199,
-  "2023-03-21": 79255,
-  "2023-03-22": 79316,
-  "2023-03-23": 79363,
-  "2023-03-24": 79363,
-  "2023-03-25": 79481,
-  "2023-03-26": 79536,
-  "2023-03-27": 79591,
-  "2023-03-28": 79637,
-  "2023-03-29": 79697,
-  "2023-03-30": 79794,
-  "2023-03-31": 79794,
-  "2023-04-01": 79862,
-  "2023-04-02": 79908,
-  "2023-04-03": 79968,
-  "2023-04-04": 80031,
-  "2023-04-05": 80088,
-  "2023-04-06": 80161,
-  "2023-04-07": 80223,
-  "2023-04-09": 80356,
-  "2023-04-10": 80395,
-  "2023-04-11": 80497,
-  "2023-04-12": 80497,
-  "2023-04-13": 80562,
-  "2023-04-14": 80631,
-  "2023-04-15": 80690,
-  "2023-04-16": 80756,
-  "2023-04-17": 80827,
-  "2023-04-18": 80892,
-  "2023-04-19": 80960,
-  "2023-04-20": 81018,
-  "2023-04-21": 81061,
-  "2023-04-22": 81114,
-  "2023-04-23": 81182,
-  "2023-04-24": 81252,
-  "2023-04-25": 81305,
-  "2023-04-26": 81370,
-  "2023-04-27": 81455,
-  "2023-04-28": 81541,
-  "2023-04-29": 81595,
-  "2023-04-30": 81662,
-  "2023-05-01": 81731,
-  "2023-05-02": 81802,
-  "2023-05-03": 81876,
-  "2023-05-04": 81931,
-  "2023-05-05": 81994,
-  "2023-05-06": 82061,
-  "2023-05-07": 82129,
-  "2023-05-08": 82216,
-  "2023-05-09": 82266,
-  "2023-05-10": 82330,
-  "2023-05-11": 82382,
-  "2023-05-12": 82433,
-  "2023-05-13": 82492,
-  "2023-05-14": 82551,
-  "2023-05-15": 82635,
-  "2023-05-16": 82690,
-  "2023-05-17": 82733,
-  "2023-05-18": 82804,
-  "2023-05-19": 82865,
-  "2023-05-20": 83016,
-  "2023-05-21": 83016,
-  "2023-05-22": 83016,
-  "2023-05-23": 83157,
-  "2023-05-24": 83273,
-  "2023-05-25": 83285,
-  "2023-05-26": 83334,
-  "2023-05-27": 83414,
-  "2023-05-28": 83469,
-  "2023-05-29": 83469,
-  "2023-05-30": 83609,
-  "2023-05-31": 83671,
-  "2023-06-01": 83735,
-  "2023-06-02": 83791,
-  "2023-06-03": 83861,
-  "2023-06-04": 83937,
-  "2023-06-05": 84018,
-  "2023-06-06": 84090,
-  "2023-06-07": 84158,
-  "2023-06-08": 84237,
-  "2023-06-09": 84300,
-  "2023-06-10": 84385,
-  "2023-06-11": 84477,
-  "2023-06-12": 84560,
-  "2023-06-13": 84639,
-  "2023-06-14": 84706,
-  "2023-06-15": 84778,
-  "2023-06-16": 84822,
-  "2023-06-17": 84870,
-  "2023-06-18": 84933,
-  "2023-06-19": 84987,
-  "2023-06-20": 85049,
-  "2023-06-21": 85093,
-  "2023-06-22": 85143,
-  "2023-06-23": 85212,
-  "2023-06-24": 85279,
-  "2023-06-25": 85340,
-  "2023-06-26": 85384,
-  "2023-06-27": 85428,
-  "2023-06-28": 85472,
-  "2023-06-29": 85527,
-  "2023-06-30": 85577,
-  "2023-07-01": 85666,
-  "2023-07-02": 85666,
-  "2023-07-03": 85720,
-  "2023-07-04": 85777,
-  "2023-07-05": 85818,
-  "2023-07-06": 85932,
-  "2023-07-07": 85932,
-  "2023-07-08": 85981,
-  "2023-07-09": 86016,
-  "2023-07-10": 86074,
-  "2023-07-11": 86122,
-  "2023-07-12": 86159,
-  "2023-07-13": 86193,
-  "2023-07-14": 86233,
-  "2023-07-15": 86270,
-  "2023-07-16": 86321,
-  "2023-07-17": 86360,
-  "2023-07-18": 86404,
-  "2023-07-19": 86471,
-  "2023-07-20": 86500,
-  "2023-07-21": 86550,
-  "2023-07-22": 86601,
-  "2023-07-23": 86657,
-  "2023-07-24": 86694,
-  "2023-07-25": 86732,
-  "2023-07-26": 86772,
-  "2023-07-27": 86815,
-  "2023-07-28": 86873,
-  "2023-07-29": 86937,
-  "2023-07-30": 86982,
-  "2023-07-31": 87029,
-  "2023-08-01": 87071,
-  "2023-08-02": 87128,
-  "2023-08-03": 87175,
-  "2023-08-04": 87219,
-  "2023-08-05": 87260,
-  "2023-08-06": 87347,
-  "2023-08-07": 87347,
-  "2023-08-08": 87403,
-  "2023-08-09": 87464,
-  "2023-08-10": 87523,
-  "2023-08-11": 87576,
-  "2023-08-12": 87636,
-  "2023-08-13": 87685,
-  "2023-08-14": 87724,
-  "2023-08-15": 87824,
-  "2023-08-16": 87824,
-  "2023-08-17": 87848,
-  "2023-08-18": 87890,
-  "2023-08-19": 87950,
-  "2023-08-20": 88000,
-  "2023-08-21": 88061,
-  "2023-08-22": 88131,
-  "2023-08-23": 88176,
-  "2023-08-24": 88247,
-  "2023-08-25": 88306,
-  "2023-08-26": 88370,
-  "2023-08-27": 88413,
-  "2023-08-28": 88484,
-  "2023-08-29": 88552,
-  "2023-08-30": 88621,
-  "2023-08-31": 88684,
-  "2023-09-01": 88785,
-  "2023-09-02": 88785,
-  "2023-09-03": 88850,
-  "2023-09-04": 88905,
-  "2023-09-05": 88962,
-  "2023-09-06": 89019,
-  "2023-09-07": 89087,
-  "2023-09-08": 89156,
-  "2023-09-09": 89215,
-  "2023-09-10": 89270,
-  "2023-09-11": 89337,
-  "2023-09-12": 89394,
-  "2023-09-13": 89452,
-  "2023-09-14": 89520,
-  "2023-09-15": 89592,
-  "2023-09-16": 89645,
-  "2023-09-17": 89714,
-  "2023-09-18": 89757,
-  "2023-09-19": 89849,
-  "2023-09-20": 89903,
-  "2023-09-21": 89957,
-  "2023-09-22": 90030,
-  "2023-09-23": 90161,
-  "2023-09-24": 90258,
-  "2023-09-25": 90342,
-  "2023-09-26": 90437,
-  "2023-09-27": 90504,
-  "2023-09-28": 90593,
-  "2023-09-29": 90685,
-  "2023-09-30": 90758,
-  "2023-10-01": 90821,
-  "2023-10-02": 90891,
-  "2023-10-03": 90959,
-  "2023-10-04": 91030,
-  "2023-10-05": 91105,
-  "2023-10-06": 91154,
-  "2023-10-07": 91206,
-  "2023-10-08": 91263,
-  "2023-10-09": 91328,
-  "2023-10-10": 91458,
-  "2023-10-11": 91619,
-  "2023-10-12": 91619,
-  "2023-10-13": 91706,
-  "2023-10-14": 91777,
-  "2023-10-15": 91840,
-  "2023-10-16": 91905,
-  "2023-10-17": 91965,
-  "2023-10-18": 92029,
-  "2023-10-19": 92093,
-  "2023-10-20": 92171,
-  "2023-10-21": 92249,
-  "2023-10-22": 92317,
-  "2023-10-23": 92373,
-  "2023-10-24": 92444,
-  "2023-10-25": 92517,
-  "2023-10-26": 92586,
-  "2023-10-27": 92648,
-  "2023-10-28": 92648,
-  "2023-10-29": 92648,
-  "2023-10-30": 92865,
-  "2023-10-31": 92865,
-  "2023-11-01": 93001,
-  "2023-11-02": 93047,
-  "2023-11-03": 93115,
-  "2023-11-04": 93188,
-  "2023-11-05": 93252,
-  "2023-11-06": 93318,
-  "2023-11-07": 93391,
-  "2023-11-08": 93456,
-  "2023-11-09": 93530,
-  "2023-11-10": 93595,
-  "2023-11-11": 93668,
-  "2023-11-12": 93729,
-  "2023-11-13": 93804,
-  "2023-11-14": 93870,
-  "2023-11-15": 93870,
-  "2023-11-16": 94006,
-  "2023-11-17": 94149,
-  "2023-11-18": 94149,
-  "2023-11-19": 94198,
-  "2023-11-20": 94245,
-  "2023-11-21": 94326,
-  "2023-11-22": 94459,
-  "2023-11-23": 94551,
-  "2023-11-24": 94551,
-  "2023-11-25": 94784,
-  "2023-11-26": 94871,
-  "2023-11-27": 94987,
-  "2023-11-28": 95095,
-  "2023-11-29": 95290,
-  "2023-11-30": 95290,
-  "2023-12-01": 95436,
-  "2023-12-02": 95531,
-  "2023-12-03": 95646,
-  "2023-12-04": 95743,
-  "2023-12-05": 95838,
-  "2023-12-06": 95958,
-  "2023-12-07": 96079,
-  "2023-12-08": 96173,
-  "2023-12-09": 96284,
-  "2023-12-10": 96410,
-  "2023-12-11": 96513,
-  "2023-12-12": 96513,
-  "2023-12-13": 96725,
-  "2023-12-14": 96847,
-  "2023-12-15": 96937,
-  "2023-12-16": 97053,
-  "2023-12-17": 97172,
-  "2023-12-18": 97287,
-  "2023-12-19": 97416,
-  "2023-12-20": 97518,
-  "2023-12-21": 97614,
-  "2023-12-22": 97726,
-  "2023-12-23": 97829,
-  "2023-12-24": 97936,
-  "2023-12-25": 98032,
-  "2023-12-26": 98146,
-  "2023-12-27": 98236,
-  "2023-12-30": 98570,
-  "2023-12-31": 98676,
-  "2024-01-01": 98807,
-  "2024-01-02": 98917,
-  "2024-01-03": 99066
+  "2024-01-17": 100931,
+  "date_first_scraped": "2022-01-01",
+  "description": "The bluesy side of jazz",
+  "name": "Jazz-Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Kind Of Blue (Legacy Edition)",
+        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 692746,
+      "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
+      "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "album": {
+        "name": "Brilliant Corners",
+        "url": "https://open.spotify.com/album/5gWF47eGSbv4BOfxoFcQtd"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Ernie Henry",
+          "url": "https://open.spotify.com/artist/1kL3usnF0v21VlGzfY8KxR"
+        },
+        {
+          "name": "Clark Terry",
+          "url": "https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 787933,
+      "name": "Ba-Lue Bolivar Ba-Lues-Are",
+      "url": "https://open.spotify.com/track/1OjmEyEycmzJK3itBAq8EG"
+    },
+    {
+      "album": {
+        "name": "Blues In the Night",
+        "url": "https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414666,
+      "name": "Back Slidin'",
+      "url": "https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340333,
+      "name": "Bag's Groove",
+      "url": "https://open.spotify.com/track/0ZK55vvr1yrm6HXMoUhugy"
+    },
+    {
+      "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/1G3jdGqZNUrC8ZDesZB8xp"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Bessie's Blues",
+      "url": "https://open.spotify.com/track/3VvIjPjxHLRTXNJ8vSKkKN"
+    },
+    {
+      "album": {
+        "name": "Charlie Parker Memorial, Vol. 2",
+        "url": "https://open.spotify.com/album/3WcccRKyAbHewZflPyCpxV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192186,
+      "name": "Billie's Bounce - Original",
+      "url": "https://open.spotify.com/track/35hrtW3WmLUVn32cOjFa6f"
+    },
+    {
+      "album": {
+        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Birks' Works",
+      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
+    },
+    {
+      "album": {
+        "name": "The Complete Prestige 10-Inch LP Collection",
+        "url": "https://open.spotify.com/album/5DPy4HeXMnoxi3PODdklOC"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459866,
+      "name": "Blue Monk",
+      "url": "https://open.spotify.com/track/2ul1uIgptw43J3BkpA2g69"
+    },
+    {
+      "album": {
+        "name": "Thelonious Alone In San Francisco",
+        "url": "https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "Bluehawk",
+      "url": "https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn"
+    },
+    {
+      "album": {
+        "name": "Cookin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/6QPFCq6SHAOhBI1Vf14G0y"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 592506,
+      "name": "Blues By Five - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/06HwBSKPrMyC6HdiEMeKNX"
+    },
+    {
+      "album": {
+        "name": "Swedish Schnapps: The Genius Of Charlie Parker #8 (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quintet",
+          "url": "https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166613,
+      "name": "Blues For Alice",
+      "url": "https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN"
+    },
+    {
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427000,
+      "name": "Blues For Willarene",
+      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
+    },
+    {
+      "album": {
+        "name": "Blues In The Closet",
+        "url": "https://open.spotify.com/album/3Cc05AU0t3tZjWhYrYsK2V"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Blues In The Closet",
+      "url": "https://open.spotify.com/track/5JyG1qNpWmCKXiEqPUdOXK"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203466,
+      "name": "C Jam Blues",
+      "url": "https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ"
+    },
+    {
+      "album": {
+        "name": "The Savoy 10-inch LP Collection",
+        "url": "https://open.spotify.com/album/6hwIz13Z6GkWOdhQFgDQJ4"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        },
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Cheryl",
+      "url": "https://open.spotify.com/track/1AMqC4GiDjbfwpl40kEWpX"
+    },
+    {
+      "album": {
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
+    },
+    {
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330440,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw"
+    },
+    {
+      "album": {
+        "name": "Cool Struttin' (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/38ERGmBgDAsCTb4KNeopsX"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 563613,
+      "name": "Cool Struttin'",
+      "url": "https://open.spotify.com/track/7CnOzCWGrTINcDExG6u99y"
+    },
+    {
+      "album": {
+        "name": "Soul Station",
+        "url": "https://open.spotify.com/album/731OW49heGHCMrMOREHYlY"
+      },
+      "artists": [
+        {
+          "name": "Hank Mobley",
+          "url": "https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369386,
+      "name": "Dig Dis - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/10kVwPSRjUYja0EtdqmXHe"
+    },
+    {
+      "album": {
+        "name": "The Sensational Horace Silver",
+        "url": "https://open.spotify.com/album/2Xc18SHJZDs3Z9a6Lsr5l0"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 405942,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2KJ2lr5rI6eNsEj7jGTY5g"
+    },
+    {
+      "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/4aycxunOM6d6eoRMNSm7Ua"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/4oMI5jKhAOEg3T8HIY3HxI"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 405483,
+      "name": "Doodlin'",
+      "url": "https://open.spotify.com/track/2bTpQRq7smeOaRCcIPX2uR"
+    },
+    {
+      "album": {
+        "name": "Horace Silver And The Jazz Messengers",
+        "url": "https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405653,
+      "name": "Doodlin' - Remastered",
+      "url": "https://open.spotify.com/track/5TMVNGCCHS01ub7oOLzyFW"
+    },
+    {
+      "album": {
+        "name": "Naima",
+        "url": "https://open.spotify.com/album/4N6QrNl4RvEjyaPtUilwRD"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487279,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/56elAIX47Q7vSQ1bpKNhHo"
+    },
+    {
+      "album": {
+        "name": "The Complete Miles Davis Featuring John Coltrane",
+        "url": "https://open.spotify.com/album/1sR0Ymo55UT2tkcOn05Qur"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583266,
+      "name": "Freddie Freeloader",
+      "url": "https://open.spotify.com/track/1UOH2i8z5xitX8PgVUH6nU"
+    },
+    {
+      "album": {
+        "name": "Coltrane '58: The Prestige Recordings",
+        "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440083,
+      "name": "Freight Trane",
+      "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
+    },
+    {
+      "album": {
+        "name": "Inner Urge (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556226,
+      "name": "Isotope - Rudy Van Gelder Edition / 2004 Digital Remaster",
+      "url": "https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L"
+    },
+    {
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650466,
+      "name": "Kelly Blue",
+      "url": "https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev"
+    },
+    {
+      "album": {
+        "name": "Piano Jazz Classics",
+        "url": "https://open.spotify.com/album/5NI7MD98NP4ReMR86f070I"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 418560,
+      "name": "Mr. P.C.",
+      "url": "https://open.spotify.com/track/46UcCHA5FSUsFu7aa5JiZN"
+    },
+    {
+      "album": {
+        "name": "Giant Steps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3kxiL93hCFCIXkXJBLcYDi"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 423160,
+      "name": "Mr. P.C.",
+      "url": "https://open.spotify.com/track/5ytXSrCiSO8UWL4f6rAOJy"
+    },
+    {
+      "album": {
+        "name": "Giant Steps (Mono)",
+        "url": "https://open.spotify.com/album/7MBQWjukLxXZYvQ8vzEH7t"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418246,
+      "name": "Mr. P.C. - Mono",
+      "url": "https://open.spotify.com/track/1Z6Yxm3WpEJRkE0tGLr31y"
+    },
+    {
+      "album": {
+        "name": "Now\u2019s The Time: The Genius Of Charlie Parker #3",
+        "url": "https://open.spotify.com/album/7KLwxAG5safFwMgxd0XlH3"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Now's The Time",
+      "url": "https://open.spotify.com/track/0cvA7oe0YMEOl5L017P9lq"
+    },
+    {
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464613,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb"
+    },
+    {
+      "album": {
+        "name": "Somethin' Else (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505453,
+      "name": "One For Daddy-O",
+      "url": "https://open.spotify.com/track/4f0D7T8yswXUJ62AKLoMtS"
+    },
+    {
+      "album": {
+        "name": "Horace Silver Trio",
+        "url": "https://open.spotify.com/album/4Cu57f0WkNAOERhiCxGSSo"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Opus De Funk - Remastered",
+      "url": "https://open.spotify.com/track/59SgNbsj3NHKPjMApBmWHU"
+    },
+    {
+      "album": {
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311813,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/1cKieOitNWqzxDdOboOzHy"
+    },
+    {
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/5rA4Fhdeq0an7JZR2JRSDn"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277373,
+      "name": "Raise Four",
+      "url": "https://open.spotify.com/track/5anYdzYJguGLEcbgL6G2Qm"
+    },
+    {
+      "album": {
+        "name": "Red's Blues",
+        "url": "https://open.spotify.com/album/560iFUlNMIk2FHleBEkbNS"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400373,
+      "name": "Ralph J. Gleason Blues",
+      "url": "https://open.spotify.com/track/3qfsuszc9cwvUI56OdCbqR"
+    },
+    {
+      "album": {
+        "name": "Sweet Honey Bee",
+        "url": "https://open.spotify.com/album/012q6K9l8vQ83WnDILovA0"
+      },
+      "artists": [
+        {
+          "name": "Duke Pearson",
+          "url": "https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358746,
+      "name": "Ready Rudy?",
+      "url": "https://open.spotify.com/track/4VhFcVYUSxazQVNDCAIGhP"
+    },
+    {
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
+    },
+    {
+      "album": {
+        "name": "Study In Brown",
+        "url": "https://open.spotify.com/album/3158RZskTkHMhPvQICUeQ1"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297040,
+      "name": "Sandu",
+      "url": "https://open.spotify.com/track/7iOTBeLm5qR9N23fjQy8Kl"
+    },
+    {
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/4xuegUilqM4eMcAH9FdxRR"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421853,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/3MiHG7FiEk56qiHNuWaZiz"
+    },
+    {
+      "album": {
+        "name": "The History of Blue Note, 70th Anniversary",
+        "url": "https://open.spotify.com/album/1vklN7S5RaL03pw3foEt4F"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 422760,
+      "name": "Senor Blues",
+      "url": "https://open.spotify.com/track/7MpR13JCgWsEJe3iJzax5B"
+    },
+    {
+      "album": {
+        "name": "The Best of Horace Silver",
+        "url": "https://open.spotify.com/album/1WQUIpkJL5AbQlG2xGIHet"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 418125,
+      "name": "Se\u00f1or Blues",
+      "url": "https://open.spotify.com/track/71V8WY9QqgUw2Om6DHgrSW"
+    },
+    {
+      "album": {
+        "name": "The Freelance Years",
+        "url": "https://open.spotify.com/album/7DcaNJJvSm4m9POLPopa8x"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 546000,
+      "name": "Sonnymoon For Two",
+      "url": "https://open.spotify.com/track/58auzrd6rwCLuWleG4bCAy"
+    },
+    {
+      "album": {
+        "name": "Late Night Jazz Jams",
+        "url": "https://open.spotify.com/album/2fRhiVqfTXVJWtK3XzFPVL"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 525320,
+      "name": "Stolen Moments",
+      "url": "https://open.spotify.com/track/3K52l1kbtOffT3uRRICAAj"
+    },
+    {
+      "album": {
+        "name": "The Blues And The Abstract Truth",
+        "url": "https://open.spotify.com/album/6lxRA8Rl9a9XoZDCVWBzBY"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525613,
+      "name": "Stolen Moments",
+      "url": "https://open.spotify.com/track/1sce5VJvCOYYDAR9rp9KdG"
+    },
+    {
+      "album": {
+        "name": "The Blues and the Abstract Truth",
+        "url": "https://open.spotify.com/album/7BSQKjtu7YjBkTuhBK2tIJ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 525613,
+      "name": "Stolen Moments",
+      "url": "https://open.spotify.com/track/4ow1XH4hwe3yOGXG2eTTTY"
+    },
+    {
+      "album": {
+        "name": "Straight, No Chaser",
+        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 688133,
+      "name": "Straight, No Chaser",
+      "url": "https://open.spotify.com/track/6YYu8qFzcY1ZyzzsJIQM12"
+    },
+    {
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "album": {
+        "name": "Swiss Nights, Vol. 3",
+        "url": "https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 762666,
+      "name": "Tenor madness",
+      "url": "https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls"
+    },
+    {
+      "album": {
+        "name": "Clifford Brown And Max Roach",
+        "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
+      },
+      "artists": [
+        {
+          "name": "Clifford Brown",
+          "url": "https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO"
+        },
+        {
+          "name": "Max Roach Quintet",
+          "url": "https://open.spotify.com/artist/6ynifrh6ZrWXHAywnUlNV3"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414266,
+      "name": "The Blues Walk",
+      "url": "https://open.spotify.com/track/10pXPSiE2qtzLMyeic3Vdm"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276133,
+      "name": "Things Ain't What They Used To Be",
+      "url": "https://open.spotify.com/track/69enZcR3Rr9Bg3fNzHEp9y"
+    },
+    {
+      "album": {
+        "name": "Workin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/7BgaGSjJZSWv6xyNTWAGij"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384706,
+      "name": "Turnaround",
+      "url": "https://open.spotify.com/track/3wBXrskjoga4hPUvewTxDR"
+    },
+    {
+      "album": {
+        "name": "Takin' Off (Expanded Edition)",
+        "url": "https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429266,
+      "name": "Watermelon Man - Remastered",
+      "url": "https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA"
+    },
+    {
+      "album": {
+        "name": "Monk's Music",
+        "url": "https://open.spotify.com/album/5VTHqe7GnSKHRqq9qF8O5G"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk Septet",
+          "url": "https://open.spotify.com/artist/56koGOp6EpWHZYOfuTTxRB"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 682173,
+      "name": "Well You Needn't",
+      "url": "https://open.spotify.com/track/6UR3pf66R1zloruniAFkp1"
+    },
+    {
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442400,
+      "name": "West Coast Blues",
+      "url": "https://open.spotify.com/track/1xlNWhgv6MgVKvGK3ZXauZ"
+    },
+    {
+      "album": {
+        "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
+        "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "date_added": "2020-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300706,
+      "name": "When Will The Blues Leave?",
+      "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9GSZDbrndTa"
 }

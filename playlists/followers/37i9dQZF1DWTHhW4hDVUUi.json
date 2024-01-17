@@ -1,564 +1,711 @@
 {
-  "2022-06-15": 6,
-  "2022-06-16": 142,
-  "2022-06-17": 575,
-  "2022-06-18": 925,
-  "2022-06-19": 1573,
-  "2022-06-20": 1573,
-  "2022-06-21": 2062,
-  "2022-06-22": 2654,
-  "2022-06-23": 2654,
-  "2022-06-24": 2830,
-  "2022-06-25": 3022,
-  "2022-06-26": 3206,
-  "2022-06-27": 3384,
-  "2022-06-28": 3496,
-  "2022-06-29": 3614,
-  "2022-06-30": 3715,
-  "2022-07-01": 3819,
-  "2022-07-02": 3912,
-  "2022-07-03": 3994,
-  "2022-07-04": 4076,
-  "2022-07-05": 4163,
-  "2022-07-06": 4252,
-  "2022-07-07": 4350,
-  "2022-07-08": 4432,
-  "2022-07-09": 4502,
-  "2022-07-10": 4581,
-  "2022-07-11": 4666,
-  "2022-07-12": 4740,
-  "2022-07-13": 4806,
-  "2022-07-14": 4847,
-  "2022-07-15": 4863,
-  "2022-07-16": 4879,
-  "2022-07-17": 4892,
-  "2022-07-18": 4902,
-  "2022-07-19": 4925,
-  "2022-07-20": 4939,
-  "2022-07-21": 4957,
-  "2022-07-22": 4962,
-  "2022-07-23": 4970,
-  "2022-07-24": 4976,
-  "2022-07-25": 4976,
-  "2022-07-26": 4984,
-  "2022-07-27": 4992,
-  "2022-07-28": 5012,
-  "2022-07-29": 5018,
-  "2022-07-30": 5040,
-  "2022-07-31": 5040,
-  "2022-08-01": 5051,
-  "2022-08-02": 5062,
-  "2022-08-03": 5062,
-  "2022-08-04": 5077,
-  "2022-08-05": 5085,
-  "2022-08-06": 5092,
-  "2022-08-07": 5104,
-  "2022-08-08": 5108,
-  "2022-08-09": 5108,
-  "2022-08-10": 5111,
-  "2022-08-11": 5118,
-  "2022-08-12": 5127,
-  "2022-08-13": 5136,
-  "2022-08-14": 5138,
-  "2022-08-15": 5146,
-  "2022-08-16": 5146,
-  "2022-08-17": 5151,
-  "2022-08-18": 5154,
-  "2022-08-19": 5159,
-  "2022-08-20": 5158,
-  "2022-08-21": 5159,
-  "2022-08-22": 5157,
-  "2022-08-23": 5160,
-  "2022-08-24": 5165,
-  "2022-08-25": 5170,
-  "2022-08-26": 5177,
-  "2022-08-27": 5177,
-  "2022-08-28": 5181,
-  "2022-08-29": 5186,
-  "2022-08-30": 5194,
-  "2022-08-31": 5196,
-  "2022-09-01": 5197,
-  "2022-09-02": 5200,
-  "2022-09-03": 5201,
-  "2022-09-04": 5210,
-  "2022-09-05": 5210,
-  "2022-09-06": 5218,
-  "2022-09-07": 5223,
-  "2022-09-09": 5229,
-  "2022-09-10": 5237,
-  "2022-09-11": 5246,
-  "2022-09-12": 5245,
-  "2022-09-13": 5248,
-  "2022-09-15": 5250,
-  "2022-09-16": 5253,
-  "2022-09-17": 5252,
-  "2022-09-18": 5254,
-  "2022-09-19": 5253,
-  "2022-09-20": 5250,
-  "2022-09-21": 5249,
-  "2022-09-22": 5250,
-  "2022-09-23": 5250,
-  "2022-09-24": 5252,
-  "2022-09-25": 5254,
-  "2022-09-26": 5261,
-  "2022-09-27": 5264,
-  "2022-09-28": 5267,
-  "2022-09-29": 5271,
-  "2022-09-30": 5274,
-  "2022-10-01": 5281,
-  "2022-10-02": 5285,
-  "2022-10-03": 5292,
-  "2022-10-04": 5295,
-  "2022-10-05": 5298,
-  "2022-10-06": 5303,
-  "2022-10-07": 5307,
-  "2022-10-08": 5312,
-  "2022-10-09": 5315,
-  "2022-10-10": 5316,
-  "2022-10-11": 5321,
-  "2022-10-12": 5320,
-  "2022-10-13": 5326,
-  "2022-10-14": 5323,
-  "2022-10-15": 5329,
-  "2022-10-16": 5333,
-  "2022-10-17": 5335,
-  "2022-10-18": 5340,
-  "2022-10-19": 5341,
-  "2022-10-20": 5340,
-  "2022-10-21": 5345,
-  "2022-10-22": 5344,
-  "2022-10-23": 5347,
-  "2022-10-24": 5351,
-  "2022-10-25": 5351,
-  "2022-10-26": 5353,
-  "2022-10-27": 5354,
-  "2022-10-28": 5356,
-  "2022-10-29": 5359,
-  "2022-10-30": 5367,
-  "2022-10-31": 5370,
-  "2022-11-01": 5371,
-  "2022-11-02": 5377,
-  "2022-11-03": 5379,
-  "2022-11-04": 5384,
-  "2022-11-05": 5387,
-  "2022-11-06": 5388,
-  "2022-11-07": 5395,
-  "2022-11-08": 5393,
-  "2022-11-09": 5400,
-  "2022-11-10": 5408,
-  "2022-11-11": 5415,
-  "2022-11-12": 5418,
-  "2022-11-13": 5425,
-  "2022-11-14": 5429,
-  "2022-11-15": 5431,
-  "2022-11-16": 5434,
-  "2022-11-17": 5443,
-  "2022-11-18": 5440,
-  "2022-11-19": 5437,
-  "2022-11-20": 5435,
-  "2022-11-21": 5441,
-  "2022-11-22": 5449,
-  "2022-11-23": 5464,
-  "2022-11-24": 5477,
-  "2022-11-25": 5482,
-  "2022-11-26": 5498,
-  "2022-11-27": 5512,
-  "2022-11-28": 5517,
-  "2022-11-29": 5525,
-  "2022-11-30": 5531,
-  "2022-12-01": 5535,
-  "2022-12-02": 5535,
-  "2022-12-03": 5537,
-  "2022-12-04": 5537,
-  "2022-12-05": 5539,
-  "2022-12-06": 5545,
-  "2022-12-07": 5543,
-  "2022-12-08": 5542,
-  "2022-12-09": 5547,
-  "2022-12-10": 5550,
-  "2022-12-11": 5555,
-  "2022-12-12": 5562,
-  "2022-12-13": 5564,
-  "2022-12-14": 5566,
-  "2022-12-15": 5571,
-  "2022-12-16": 5574,
-  "2022-12-17": 5576,
-  "2022-12-18": 5582,
-  "2022-12-19": 5585,
-  "2022-12-20": 5593,
-  "2022-12-21": 5593,
-  "2022-12-22": 5593,
-  "2022-12-24": 5598,
-  "2022-12-25": 5601,
-  "2022-12-26": 5606,
-  "2022-12-27": 5608,
-  "2022-12-28": 5613,
-  "2022-12-29": 5616,
-  "2022-12-30": 5619,
-  "2022-12-31": 5622,
-  "2023-01-01": 5621,
-  "2023-01-02": 5625,
-  "2023-01-03": 5630,
-  "2023-01-04": 5633,
-  "2023-01-05": 5637,
-  "2023-01-06": 5636,
-  "2023-01-07": 5644,
-  "2023-01-08": 5644,
-  "2023-01-09": 5648,
-  "2023-01-10": 5650,
-  "2023-01-11": 5652,
-  "2023-01-12": 5655,
-  "2023-01-13": 5657,
-  "2023-01-14": 5660,
-  "2023-01-15": 5661,
-  "2023-01-16": 5663,
-  "2023-01-17": 5660,
-  "2023-01-18": 5664,
-  "2023-01-19": 5668,
-  "2023-01-20": 5672,
-  "2023-01-21": 5676,
-  "2023-01-22": 5677,
-  "2023-01-23": 5680,
-  "2023-01-24": 5686,
-  "2023-01-25": 5691,
-  "2023-01-26": 5696,
-  "2023-01-27": 5697,
-  "2023-01-28": 5700,
-  "2023-01-29": 5696,
-  "2023-01-30": 5694,
-  "2023-01-31": 5694,
-  "2023-02-01": 5700,
-  "2023-02-02": 5697,
-  "2023-02-03": 5699,
-  "2023-02-04": 5703,
-  "2023-02-05": 5707,
-  "2023-02-06": 5710,
-  "2023-02-07": 5717,
-  "2023-02-08": 5719,
-  "2023-02-09": 5719,
-  "2023-02-10": 5723,
-  "2023-02-11": 5727,
-  "2023-02-12": 5738,
-  "2023-02-13": 5741,
-  "2023-02-14": 5741,
-  "2023-02-15": 5747,
-  "2023-02-16": 5751,
-  "2023-02-17": 5757,
-  "2023-02-18": 5760,
-  "2023-02-19": 5761,
-  "2023-02-20": 5761,
-  "2023-02-21": 5763,
-  "2023-02-22": 5766,
-  "2023-02-23": 5768,
-  "2023-02-24": 5767,
-  "2023-02-25": 5772,
-  "2023-02-26": 5773,
-  "2023-02-27": 5770,
-  "2023-02-28": 5770,
-  "2023-03-01": 5768,
-  "2023-03-02": 5768,
-  "2023-03-03": 5770,
-  "2023-03-04": 5771,
-  "2023-03-05": 5772,
-  "2023-03-06": 5772,
-  "2023-03-07": 5771,
-  "2023-03-08": 5775,
-  "2023-03-09": 5777,
-  "2023-03-10": 5782,
-  "2023-03-11": 5784,
-  "2023-03-12": 5785,
-  "2023-03-13": 5785,
-  "2023-03-14": 5788,
-  "2023-03-15": 5791,
-  "2023-03-16": 5789,
-  "2023-03-17": 5789,
-  "2023-03-18": 5797,
-  "2023-03-19": 5801,
-  "2023-03-20": 5799,
-  "2023-03-21": 5803,
-  "2023-03-22": 5806,
-  "2023-03-23": 5803,
-  "2023-03-24": 5803,
-  "2023-03-25": 5803,
-  "2023-03-26": 5803,
-  "2023-03-27": 5801,
-  "2023-03-28": 5803,
-  "2023-03-29": 5802,
-  "2023-03-30": 5801,
-  "2023-03-31": 5801,
-  "2023-04-01": 5805,
-  "2023-04-02": 5805,
-  "2023-04-03": 5806,
-  "2023-04-04": 5802,
-  "2023-04-05": 5803,
-  "2023-04-06": 5806,
-  "2023-04-07": 5807,
-  "2023-04-09": 5806,
-  "2023-04-10": 5811,
-  "2023-04-11": 5815,
-  "2023-04-12": 5815,
-  "2023-04-13": 5814,
-  "2023-04-14": 5817,
-  "2023-04-15": 5818,
-  "2023-04-16": 5820,
-  "2023-04-17": 5824,
-  "2023-04-18": 5825,
-  "2023-04-19": 5826,
-  "2023-04-20": 5825,
-  "2023-04-21": 5825,
-  "2023-04-22": 5826,
-  "2023-04-23": 5825,
-  "2023-04-24": 5823,
-  "2023-04-25": 5822,
-  "2023-04-26": 5824,
-  "2023-04-27": 5824,
-  "2023-04-28": 5825,
-  "2023-04-29": 5825,
-  "2023-04-30": 5826,
-  "2023-05-01": 5826,
-  "2023-05-02": 5829,
-  "2023-05-03": 5834,
-  "2023-05-04": 5832,
-  "2023-05-05": 5835,
-  "2023-05-06": 5836,
-  "2023-05-07": 5836,
-  "2023-05-08": 5839,
-  "2023-05-09": 5837,
-  "2023-05-10": 5837,
-  "2023-05-11": 5836,
-  "2023-05-12": 5838,
-  "2023-05-13": 5843,
-  "2023-05-14": 5847,
-  "2023-05-15": 5847,
-  "2023-05-16": 5849,
-  "2023-05-17": 5852,
-  "2023-05-18": 5850,
-  "2023-05-19": 5849,
-  "2023-05-20": 5853,
-  "2023-05-21": 5853,
-  "2023-05-22": 5853,
-  "2023-05-23": 5850,
-  "2023-05-24": 5849,
-  "2023-05-25": 5850,
-  "2023-05-26": 5850,
-  "2023-05-27": 5853,
-  "2023-05-28": 5854,
-  "2023-05-29": 5854,
-  "2023-05-30": 5856,
-  "2023-05-31": 5859,
-  "2023-06-01": 5859,
-  "2023-06-02": 5862,
-  "2023-06-03": 5865,
-  "2023-06-04": 5868,
-  "2023-06-05": 5873,
-  "2023-06-06": 5876,
-  "2023-06-07": 5879,
-  "2023-06-08": 5881,
-  "2023-06-09": 5884,
-  "2023-06-10": 5884,
-  "2023-06-11": 5886,
-  "2023-06-12": 5892,
-  "2023-06-13": 5892,
-  "2023-06-14": 5892,
-  "2023-06-15": 5892,
-  "2023-06-16": 5895,
-  "2023-06-17": 5898,
-  "2023-06-18": 5898,
-  "2023-06-19": 5898,
-  "2023-06-20": 5897,
-  "2023-06-21": 5900,
-  "2023-06-22": 5903,
-  "2023-06-23": 5904,
-  "2023-06-24": 5904,
-  "2023-06-25": 5906,
-  "2023-06-26": 5905,
-  "2023-06-27": 5907,
-  "2023-06-28": 5908,
-  "2023-06-29": 5909,
-  "2023-06-30": 5911,
-  "2023-07-01": 5914,
-  "2023-07-02": 5914,
-  "2023-07-03": 5916,
-  "2023-07-04": 5914,
-  "2023-07-05": 5917,
-  "2023-07-06": 5921,
-  "2023-07-07": 5921,
-  "2023-07-08": 5923,
-  "2023-07-09": 5928,
-  "2023-07-10": 5934,
-  "2023-07-11": 5938,
-  "2023-07-12": 5938,
-  "2023-07-13": 5938,
-  "2023-07-14": 5937,
-  "2023-07-15": 5939,
-  "2023-07-16": 5939,
-  "2023-07-17": 5944,
-  "2023-07-18": 5944,
-  "2023-07-19": 5944,
-  "2023-07-20": 5944,
-  "2023-07-21": 5946,
-  "2023-07-22": 5949,
-  "2023-07-23": 5949,
-  "2023-07-24": 5952,
-  "2023-07-25": 5952,
-  "2023-07-26": 5949,
-  "2023-07-27": 5950,
-  "2023-07-28": 5954,
-  "2023-07-29": 5956,
-  "2023-07-30": 5959,
-  "2023-07-31": 5965,
-  "2023-08-01": 5966,
-  "2023-08-02": 5966,
-  "2023-08-03": 5968,
-  "2023-08-04": 5971,
-  "2023-08-05": 5971,
-  "2023-08-06": 5969,
-  "2023-08-07": 5969,
-  "2023-08-08": 5968,
-  "2023-08-09": 5968,
-  "2023-08-10": 5969,
-  "2023-08-11": 5969,
-  "2023-08-12": 5968,
-  "2023-08-13": 5972,
-  "2023-08-14": 5970,
-  "2023-08-15": 5972,
-  "2023-08-16": 5972,
-  "2023-08-17": 5978,
-  "2023-08-18": 5977,
-  "2023-08-19": 5979,
-  "2023-08-20": 5983,
-  "2023-08-21": 5982,
-  "2023-08-22": 5989,
-  "2023-08-23": 5992,
-  "2023-08-24": 5991,
-  "2023-08-25": 5993,
-  "2023-08-26": 5997,
-  "2023-08-27": 5998,
-  "2023-08-28": 5997,
-  "2023-08-29": 6000,
-  "2023-08-30": 6001,
-  "2023-08-31": 6002,
-  "2023-09-01": 6004,
-  "2023-09-02": 6004,
-  "2023-09-03": 6004,
-  "2023-09-04": 6007,
-  "2023-09-05": 6009,
-  "2023-09-06": 6010,
-  "2023-09-07": 6014,
-  "2023-09-08": 6016,
-  "2023-09-09": 6019,
-  "2023-09-10": 6019,
-  "2023-09-11": 6022,
-  "2023-09-12": 6024,
-  "2023-09-13": 6027,
-  "2023-09-14": 6025,
-  "2023-09-15": 6025,
-  "2023-09-16": 6026,
-  "2023-09-17": 6027,
-  "2023-09-18": 6028,
-  "2023-09-19": 6028,
-  "2023-09-20": 6029,
-  "2023-09-21": 6030,
-  "2023-09-22": 6031,
-  "2023-09-23": 6030,
-  "2023-09-24": 6032,
-  "2023-09-25": 6035,
-  "2023-09-26": 6036,
-  "2023-09-27": 6035,
-  "2023-09-28": 6034,
-  "2023-09-29": 6036,
-  "2023-09-30": 6036,
-  "2023-10-01": 6036,
-  "2023-10-02": 6036,
-  "2023-10-03": 6036,
-  "2023-10-04": 6037,
-  "2023-10-05": 6038,
-  "2023-10-06": 6037,
-  "2023-10-07": 6039,
-  "2023-10-08": 6038,
-  "2023-10-09": 6039,
-  "2023-10-10": 6038,
-  "2023-10-11": 6040,
-  "2023-10-12": 6040,
-  "2023-10-13": 6043,
-  "2023-10-14": 6044,
-  "2023-10-15": 6043,
-  "2023-10-16": 6048,
-  "2023-10-17": 6050,
-  "2023-10-18": 6049,
-  "2023-10-19": 6053,
-  "2023-10-20": 6052,
-  "2023-10-21": 6053,
-  "2023-10-22": 6058,
-  "2023-10-23": 6057,
-  "2023-10-24": 6060,
-  "2023-10-25": 6061,
-  "2023-10-26": 6062,
-  "2023-10-27": 6062,
-  "2023-10-28": 6062,
-  "2023-10-29": 6064,
-  "2023-10-30": 6065,
-  "2023-10-31": 6065,
-  "2023-11-01": 6067,
-  "2023-11-02": 6067,
-  "2023-11-03": 6069,
-  "2023-11-04": 6068,
-  "2023-11-05": 6069,
-  "2023-11-06": 6070,
-  "2023-11-07": 6070,
-  "2023-11-08": 6068,
-  "2023-11-09": 6069,
-  "2023-11-10": 6070,
-  "2023-11-11": 6072,
-  "2023-11-12": 6073,
-  "2023-11-13": 6074,
-  "2023-11-14": 6077,
-  "2023-11-15": 6077,
-  "2023-11-16": 6078,
-  "2023-11-17": 6082,
-  "2023-11-18": 6082,
-  "2023-11-19": 6081,
-  "2023-11-20": 6080,
-  "2023-11-21": 6083,
-  "2023-11-22": 6084,
-  "2023-11-23": 6085,
-  "2023-11-24": 6087,
-  "2023-11-25": 6088,
-  "2023-11-26": 6089,
-  "2023-11-27": 6091,
-  "2023-11-28": 6093,
-  "2023-11-29": 6094,
-  "2023-11-30": 6094,
-  "2023-12-01": 6093,
-  "2023-12-02": 6092,
-  "2023-12-03": 6096,
-  "2023-12-04": 6098,
-  "2023-12-05": 6097,
-  "2023-12-06": 6101,
-  "2023-12-07": 6101,
-  "2023-12-08": 6103,
-  "2023-12-09": 6105,
-  "2023-12-10": 6105,
-  "2023-12-11": 6105,
-  "2023-12-12": 6107,
-  "2023-12-13": 6109,
-  "2023-12-14": 6110,
-  "2023-12-15": 6111,
-  "2023-12-16": 6111,
-  "2023-12-17": 6114,
-  "2023-12-18": 6118,
-  "2023-12-19": 6118,
-  "2023-12-20": 6120,
-  "2023-12-21": 6119,
-  "2023-12-22": 6120,
-  "2023-12-23": 6125,
-  "2023-12-24": 6127,
-  "2023-12-25": 6127,
-  "2023-12-26": 6127,
-  "2023-12-27": 6129,
-  "2023-12-30": 6131,
-  "2023-12-31": 6133,
-  "2024-01-01": 6134,
-  "2024-01-02": 6135,
-  "2024-01-03": 6135
+  "2024-01-17": 6147,
+  "date_first_scraped": "2022-06-15",
+  "description": "Check out Jennifer Lopez's Official Halftime playlist. ",
+  "name": "Halftime Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Cadillac Tah",
+          "url": "https://open.spotify.com/artist/1pYxANcOtFZSECxACjmCE8"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Ain't It Funny (feat. Ja Rule & Cadillac Tah) - Murder Remix",
+      "url": "https://open.spotify.com/track/5ahFyKndeg1hqfmNumL3WF"
+    },
+    {
+      "album": {
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254466,
+      "name": "All I Have (feat. LL Cool J)",
+      "url": "https://open.spotify.com/track/3kgutGd839IOYRl6ekeq6V"
+    },
+    {
+      "album": {
+        "name": "Booty",
+        "url": "https://open.spotify.com/album/5afRtOFscJUQq7nCbHR5Rn"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209699,
+      "name": "Booty",
+      "url": "https://open.spotify.com/track/6dshconh2KBbGxVh7GtSTC"
+    },
+    {
+      "album": {
+        "name": "Booty (Vice Remix)",
+        "url": "https://open.spotify.com/album/5vh6wTqgb6NUTd0AulPmK2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210991,
+      "name": "Booty - Vice Remix",
+      "url": "https://open.spotify.com/track/60jlpLJCCsDrKRff4eUDA2"
+    },
+    {
+      "album": {
+        "name": "Cambia el Paso",
+        "url": "https://open.spotify.com/album/5qSmLWlPnrhF2rgt54Y7GC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245755,
+      "name": "Cambia el Paso",
+      "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
+    },
+    {
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 237266,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/4d2hD63oUGU3s7L66JD0BE"
+    },
+    {
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/2eirhKzlxvWkz2UQ95wwvh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Dance Again (feat. Pitbull)",
+      "url": "https://open.spotify.com/track/2xnoPV3NLescauc0ZJ1MDZ"
+    },
+    {
+      "album": {
+        "name": "Dinero (CADE Remix)",
+        "url": "https://open.spotify.com/album/75qv2xhOcSTAsSttZMGV53"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "CADE",
+          "url": "https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV"
+        },
+        {
+          "name": "The Xi",
+          "url": "https://open.spotify.com/artist/0hPN7wtnYHPWh31Ryxk85x"
+        },
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204289,
+      "name": "Dinero - CADE Remix",
+      "url": "https://open.spotify.com/track/2hNCD8HetvTzRmrOWOouvh"
+    },
+    {
+      "album": {
+        "name": "Brave",
+        "url": "https://open.spotify.com/album/4NSDI1oYP5WvHXOefaTKnY"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185960,
+      "name": "Do It Well",
+      "url": "https://open.spotify.com/track/7AuaiJy9YTJRPeUlsvqgGm"
+    },
+    {
+      "album": {
+        "name": "El Anillo",
+        "url": "https://open.spotify.com/album/4DnxvNqBLOdInzC0cI8Wzy"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176816,
+      "name": "El Anillo",
+      "url": "https://open.spotify.com/track/2SpfMQ5TuKsMj1trNwrLVA"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "I'm Glad",
+      "url": "https://open.spotify.com/track/7AUfOfYTfiHhgg2Pw1aTpw"
+    },
+    {
+      "album": {
+        "name": "I'm Into You (Remixes)",
+        "url": "https://open.spotify.com/album/2bJcmB95Ft07FAZsIUSzVh"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234480,
+      "name": "I'm Into You - Dave Aude Radio",
+      "url": "https://open.spotify.com/track/6jVTS4ntjoYoHrwgxM7m48"
+    },
+    {
+      "album": {
+        "name": "Dance Again...The Hits",
+        "url": "https://open.spotify.com/album/7LN1DM2rLG5GFezakJF4vk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 258946,
+      "name": "I'm Real",
+      "url": "https://open.spotify.com/track/0O4Ub1IHsHkDABK6LKHHWK"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "I'm Real - Murder Remix",
+      "url": "https://open.spotify.com/track/4onVfPBjiLokGWsGRdPH7v"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
+    },
+    {
+      "album": {
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/2NG4OLyeNMwcLqirwwwvs2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Jadakiss",
+          "url": "https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+      "url": "https://open.spotify.com/track/4ZOyH6KjomjlqCz3oFqglr"
+    },
+    {
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
+    },
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329906,
+      "name": "Let's Get Loud - Castle Hill Club Mix - Bastone and Burnz",
+      "url": "https://open.spotify.com/track/4HRCX7sFKqs2Hj0b9Nglj9"
+    },
+    {
+      "album": {
+        "name": "Live It Up",
+        "url": "https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243786,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0"
+    },
+    {
+      "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Love Don't Cost a Thing",
+      "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258600,
+      "name": "Love Don't Cost a Thing (feat. Fat Joe) - RJ Schoolyard Mix",
+      "url": "https://open.spotify.com/track/4rblLT91sVtNHNi52yv1uG"
+    },
+    {
+      "album": {
+        "name": "Medicine (Steve Aoki from the Block Remix)",
+        "url": "https://open.spotify.com/album/5BdjEDMPPAPr9TNUFg8I7q"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170285,
+      "name": "Medicine - Steve Aoki from the Block Remix",
+      "url": "https://open.spotify.com/track/0q4JbreE13Hz9sfS5kIuuW"
+    },
+    {
+      "album": {
+        "name": "Medicine (Steve Aoki from the Block Remix)",
+        "url": "https://open.spotify.com/album/5aUhH2lFb3Qrj0ngazduEQ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 170285,
+      "name": "Medicine - Steve Aoki from the Block Remix",
+      "url": "https://open.spotify.com/track/5OPrQhuX6OP06gGtYS1S0f"
+    },
+    {
+      "album": {
+        "name": "On My Way (Marry Me)",
+        "url": "https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192571,
+      "name": "On My Way (Marry Me)",
+      "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "album": {
+        "name": "LOVE?",
+        "url": "https://open.spotify.com/album/1RJ3ZqXAzt0rsJhs80AqRb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "On The Floor",
+      "url": "https://open.spotify.com/track/20zQZVyUNPbq8kZACdgYrh"
+    },
+    {
+      "album": {
+        "name": "Papi (Remixes)",
+        "url": "https://open.spotify.com/album/5TgNttysHVjCbGudLHqV2q"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Rosabel",
+          "url": "https://open.spotify.com/artist/04RXSUzDTSz2OIOvlAYVAv"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204200,
+      "name": "Papi - Rosabel Radio",
+      "url": "https://open.spotify.com/track/6nq5VKMm8jc7ocZunJmprv"
+    },
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258226,
+      "name": "Play - Sack International Remix",
+      "url": "https://open.spotify.com/track/2Bx049h1X53Ov5cPva1NZj"
+    },
+    {
+      "album": {
+        "name": "Same Girl",
+        "url": "https://open.spotify.com/album/2dfxmWlkqrhGbFDTi5Fkcb"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210506,
+      "name": "Same Girl",
+      "url": "https://open.spotify.com/track/6oWQXurUA9x29El6ioIqju"
+    },
+    {
+      "album": {
+        "name": "Same Girl (with French Montana) [Halftime Remix]",
+        "url": "https://open.spotify.com/album/6BaYeNIzZzrIpAvGSRgcoc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260643,
+      "name": "Same Girl (with French Montana) - Halftime Remix",
+      "url": "https://open.spotify.com/track/2Xar8bp6rKIY8bOogzQ1HZ"
+    },
+    {
+      "album": {
+        "name": "This Land Is Your Land (feat. United States Marine Band) [2021 Inauguration]",
+        "url": "https://open.spotify.com/album/0ABSa2wDLDCz5yhINC2cOe"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176651,
+      "name": "This Land Is Your Land (feat. United States Marine Band) - 2021 Inauguration",
+      "url": "https://open.spotify.com/track/3Qi3YhHKQs7gA8BKAkuWbS"
+    },
+    {
+      "album": {
+        "name": "J To Tha L-O! The Remixes",
+        "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272066,
+      "name": "Waiting for Tonight - Hex's Momentous Radio Mix",
+      "url": "https://open.spotify.com/track/5WD55ZJWhumwIDGau2Q9lM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTHhW4hDVUUi"
 }

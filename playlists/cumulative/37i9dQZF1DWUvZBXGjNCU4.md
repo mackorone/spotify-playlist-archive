@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-296 songs - 13 hr 25 min
+302 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Agate](https://open.spotify.com/track/0jSw2WmuvpZaZzbJpEhdui) | [Esther Heath](https://open.spotify.com/artist/0heT0cVuEFMR2TwLjIkXBR) | [Agate](https://open.spotify.com/album/6m6MYjcJWvX2PaBmfO28S0) | 3:04 | 2022-05-13 | 2022-07-22 |
 | [Alahazy Basin](https://open.spotify.com/track/01Whyc3tjloWGRTPoK8MKR) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [Alahazy Basin](https://open.spotify.com/album/27fuxVWhEIMGis2Eu0hgk9) | 2:29 | 2022-10-07 | 2023-04-28 |
 | [Altri Tempi](https://open.spotify.com/track/2bdS2ijhi2tuwOlkHFF0lm) | [Atos Arces](https://open.spotify.com/artist/4ljlcKJnAdk2UlhQR638pG) | [Altri Tempi](https://open.spotify.com/album/3QGyNeWDbPOGX6oSXtDCWG) | 4:12 | 2022-12-09 |  |
+| [Am Falkenstein](https://open.spotify.com/track/0bMMVhsfY09wf54alspNTR) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Am Falkenstein](https://open.spotify.com/album/6hAKjATeeoNdkm5Q2WwR1z) | 3:44 | 2024-01-12 |  |
 | [Am Flussufer](https://open.spotify.com/track/4EDCWd1sxAhOgO17vKHA9k) | [Erling Kruger](https://open.spotify.com/artist/4yyGsrMPRSGVkD8eNDfIGB) | [Am Flussufer](https://open.spotify.com/album/16sGnI2slEAdvJ1PHZkHmJ) | 3:58 | 2022-05-13 | 2022-07-22 |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-09-16 |
 | [Amélie](https://open.spotify.com/track/3UJXklI85LVB6bCpRZQZCY) | [Pascal Desprez](https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW) | [Amélie](https://open.spotify.com/album/7xaUjbI6MgKUehUXsDG30b) | 1:54 | 2023-06-09 | 2023-09-16 |
@@ -49,6 +50,7 @@
 | [Broken Sky](https://open.spotify.com/track/1PeMTLRYStFk5meDRs79Nq) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB), [Andrew York](https://open.spotify.com/artist/5MV6MvG9LFSSmrPqOkpBZQ) | [Broken Sky](https://open.spotify.com/album/30j3xi44993MenSEyDXnGt) | 2:37 | 2022-05-13 | 2022-06-10 |
 | [Brooke's Path](https://open.spotify.com/track/6IrsZTFv2PMsRbYLhtpBur) | [Nathaniel Hugh](https://open.spotify.com/artist/0N9JbcwE2w3f9Qn6M6F3UP) | [Brooke's Path](https://open.spotify.com/album/05aFINCNicADeoVTXnMpRh) | 3:04 | 2023-11-24 |  |
 | [Bryggen](https://open.spotify.com/track/6yCBCG8UJGfcyk70Fdau8j) | [Gjermund Skar](https://open.spotify.com/artist/4RSSJPcnIgV5jXjK59hy9S) | [Bryggen](https://open.spotify.com/album/2dKG2i568Thxq3kFgwHiEF) | 2:54 | 2022-05-13 |  |
+| [Burgenland](https://open.spotify.com/track/3nRPA6PZvfwpNZ33SVa6gn) | [Duo MR](https://open.spotify.com/artist/7hfYp0jhsWfGQImrzTEa3i) | [Burgenland](https://open.spotify.com/album/5Ofar8wq6Bjzg2dBT15nxB) | 3:54 | 2024-01-12 |  |
 | [Butter and Eggs](https://open.spotify.com/track/1ba8qyfCD9olHnAfGGgxts) | [Julian Lage & Chris Eldridge](https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf) | [Avalon](https://open.spotify.com/album/1UC7rVuAprZfBehFxiAGDr) | 3:24 | 2022-05-13 | 2022-05-27 |
 | [By Your Side](https://open.spotify.com/track/69U72YqRzX3NUDlojqK6Uk) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [By Your Side](https://open.spotify.com/album/0Ds7KYC0QSnih2ikfZPoAx) | 3:11 | 2022-05-13 | 2023-09-16 |
 | [Caledonia](https://open.spotify.com/track/7p22ATtUa29n9ME9rvoaLZ) | [Selena Dominguez](https://open.spotify.com/artist/2NixYvC1pTi52NazQO8zq6) | [Caledonia](https://open.spotify.com/album/4g2vl00ThtZT3xQW8BJIdz) | 3:28 | 2022-05-13 |  |
@@ -70,6 +72,7 @@
 | [Diguil](https://open.spotify.com/track/0vCsBc2Br8EXzrSgNiMB4t) | [Charles Avnik](https://open.spotify.com/artist/2PeMqgLlOHgfvVfk63Txpp) | [Diguil](https://open.spotify.com/album/0o2kXrZp6ZXbSQcSF2gRz2) | 3:17 | 2022-05-13 |  |
 | [Distances](https://open.spotify.com/track/63iYBQAZDyqQYwf91qG6ZX) | [Between the Dots](https://open.spotify.com/artist/1i1ZRmxu9V91AzofKXp72i) | [Distances](https://open.spotify.com/album/20KF1rWAGlEEiSFVDhKkTL) | 3:05 | 2022-05-13 | 2022-06-10 |
 | [Door Of The North](https://open.spotify.com/track/7fYKZFLRRlcBIQ17V1E5qE) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Door Of The North](https://open.spotify.com/album/1gHkkuNVNrRNZsSB0aolOt) | 2:34 | 2023-01-20 |  |
+| [Dreams you couldn't follow](https://open.spotify.com/track/2CyT7LpArgmWWcSdOITJZK) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Dreams you couldn't follow](https://open.spotify.com/album/3wP9D613xVXJG7mwm8038z) | 2:34 | 2024-01-12 |  |
 | [Dreamstate](https://open.spotify.com/track/2MCRPbiKo2AmcBduhTrUqI) | [Don Steale](https://open.spotify.com/artist/2HwPnlL403PomZYlx8SHQs) | [Dreamstate](https://open.spotify.com/album/2M1tz2hu4LvjsZfiam9AUV) | 3:32 | 2022-12-09 | 2023-09-29 |
 | [Dreamy Hill](https://open.spotify.com/track/4xuHOEXLwk0mWmYwx8k99m) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Dreamy Hill](https://open.spotify.com/album/73ucC01vW9LnhxoBPbjhBl) | 1:55 | 2022-05-13 | 2022-05-27 |
 | [Dunes](https://open.spotify.com/track/2D8rgpm4G1baiUk5nvKbTX) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Dunes](https://open.spotify.com/album/5SGwwCl8w3ngX0BwszeQfb) | 2:20 | 2022-05-13 | 2022-10-07 |
@@ -111,6 +114,7 @@
 | [Happy Faces](https://open.spotify.com/track/3mXIi5dQIW1xmVvW8UQJ9G) | [Juno Harrell](https://open.spotify.com/artist/3JPYFv2u0fEm4GzDqKVrWY) | [Happy Faces](https://open.spotify.com/album/2kR5ZVraVvSPla3QndZ2fy) | 3:20 | 2022-05-13 |  |
 | [Hart Road](https://open.spotify.com/track/03RnXHco9ZFWCcN1lCIqNl) | [Duncan Bowie](https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm) | [Hart Road](https://open.spotify.com/album/7koG6f9dFfziqMRR7eNgIY) | 2:45 | 2023-08-17 |  |
 | [Harvest Time](https://open.spotify.com/track/5YdzD8A9GAe51MFscLAfVq) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Harvest Time](https://open.spotify.com/album/1OxQ8lUawMgaxAxu5oYbJN) | 2:23 | 2023-02-24 | 2023-06-23 |
+| [Havana](https://open.spotify.com/track/2GpaE8yk3gqH02k3h3Dmyq) | [Petite Guitare](https://open.spotify.com/artist/3vBuuLV3C6cLsz2UtUUDfN) | [Havana](https://open.spotify.com/album/02zn5PgCVPHmuZ1dcp6yb3) | 2:06 | 2024-01-12 |  |
 | [Heaven and Heart](https://open.spotify.com/track/2UEAKcbYQuvWjdB5FejH0D) | [Cardboard Fort](https://open.spotify.com/artist/6REpB3pDhUNmdel10sIhaB) | [Heaven and Heart](https://open.spotify.com/album/263bN9QIKj9Qjg6goyYJbk) | 2:20 | 2022-05-13 |  |
 | [Her Beauty and The Moonlight](https://open.spotify.com/track/5pVB8mXfdg24zKDx8sCy1S) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Her Beauty and The Moonlight](https://open.spotify.com/album/06B2QM3Aysi78sk7q7DWBu) | 2:45 | 2022-05-13 |  |
 | [High Seas](https://open.spotify.com/track/6SCqDHH0cPWjb5RoO8JeJv) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [High Seas](https://open.spotify.com/album/4Y6eHC85yEXFPA0o6ClDgF) | 2:29 | 2022-05-13 |  |
@@ -258,6 +262,7 @@
 | [The Dust Settles](https://open.spotify.com/track/0EVXNRFGjdC9xap72VhV7C) | [Andrei Smirnova](https://open.spotify.com/artist/6wLqG3xZFWS0M5pFimbbyr) | [The Dust Settles](https://open.spotify.com/album/06u42yAuNFUuzO2CLrJWCh) | 2:27 | 2023-04-28 |  |
 | [The little road to Elling Bay](https://open.spotify.com/track/035spYGRlBWEeGC7Iqj406) | [Lavelle Barber](https://open.spotify.com/artist/09NZ6wf6hcbml8X1aPwyEX) | [The little road to Elling Bay](https://open.spotify.com/album/4PN2TaBXEt9l3RQBERhF96) | 2:20 | 2022-10-28 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-05-13 |  |
+| [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-05-13 | 2023-04-28 |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-31 |
 | [The Safflower Harvest](https://open.spotify.com/track/2Bb66gsw9HlLjMLrVjSJv8) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:57 | 2022-05-13 | 2023-02-25 |
@@ -283,6 +288,7 @@
 | [Violet Fog](https://open.spotify.com/track/3E5sK3kvpTuUBQDQ8fvIes) | [Picturesque Sound](https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D) | [Violet Fog](https://open.spotify.com/album/0jQZ7IEH8y10fgOheXeGVq) | 2:58 | 2022-07-08 | 2022-07-15 |
 | [Virginia \- Acoustic Guitar](https://open.spotify.com/track/2bRmzP7r8HBbn0WzgYe7w5) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Virginia \(Acoustic Guitar\)](https://open.spotify.com/album/3baVP3sGIoBgLrK0QTOHns) | 2:20 | 2022-05-13 | 2023-08-18 |
 | [Virginia Roads](https://open.spotify.com/track/4mvPV4OfTqTr3BphyM4Rz1) | [Lucy Duclos](https://open.spotify.com/artist/4mcQ5pefKb0EGBe87nvas0) | [Virginia Roads](https://open.spotify.com/album/4sTKdmaDoTWpwCQF1v8nfX) | 3:21 | 2022-05-13 | 2023-02-25 |
+| [Visions](https://open.spotify.com/track/6vI1mGiTj4D8Lbi0G3Jl0z) | [Tom Ellenhag](https://open.spotify.com/artist/0gAd6Hy6KbkeWOop5aTMqQ) | [Visions](https://open.spotify.com/album/04JtQI5Xil1h3GCx8MyJJ8) | 2:02 | 2024-01-12 |  |
 | [Waiting for you](https://open.spotify.com/track/1Li8aJ0LMcv9yQXpCPLUMF) | [Vito Cantador](https://open.spotify.com/artist/7hh6PFK9DC1ZNhtXx5457U) | [Waiting for you](https://open.spotify.com/album/569RTgksPYOaP1xBxkzuvc) | 3:08 | 2022-05-13 |  |
 | [waking up in a new world](https://open.spotify.com/track/3q0Nbk3V4XgpOXpS4IWHTJ) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 4:43 | 2022-05-13 | 2022-07-15 |
 | [Walking In Your Shoes](https://open.spotify.com/track/2rzB7UPdvMTfedZzHmDA5v) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Walking In Your Shoes](https://open.spotify.com/album/4CABL5ysMBfQTcDDM9Updm) | 2:10 | 2022-12-23 | 2023-04-28 |

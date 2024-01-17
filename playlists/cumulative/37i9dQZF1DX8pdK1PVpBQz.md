@@ -4,7 +4,7 @@
 
 > Fresh Finds AU & NZ Class of 2023\. Cover: Maina Doe\. Artwork: Isu Kim
 
-2,996 songs - 6 day 20 hr 17 min
+2,997 songs - 6 day 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1662,7 +1662,8 @@
 | [MEDUSA](https://open.spotify.com/track/2WEbeRt8PtGO2Yfo4m2KE3) | [R.L\. KING](https://open.spotify.com/artist/6RnLyUD6H4MFRkh90eWpKS) | [MEDUSA](https://open.spotify.com/album/33PM7EHU90MUw0u8kXY6It) | 2:48 | 2023-10-19 | 2023-11-16 |
 | [meek // flip](https://open.spotify.com/track/0nEPmXlrxnugrEdJQxc2L2) | [Jetson](https://open.spotify.com/artist/2bkf2PmiVyfCqg2uzIFIqJ) | [meek // flip](https://open.spotify.com/album/4Y472pfv0bIB7IMfjpqI36) | 1:19 | 2023-08-30 | 2023-09-21 |
 | [Meet Me By The Ocean](https://open.spotify.com/track/4l5l5kBgAN6DEg85NqFww7) | [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Meet Me By The Ocean](https://open.spotify.com/album/47t7sXTLOX9NXtgLDYOQ3y) | 2:45 | 2023-06-22 | 2023-07-20 |
-| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-13 |  |
+| [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 | 2023-11-13 | 2024-01-04 |
+| [Meet you at the Graveyard](https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, dirty walls](https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp) | 2:52 | 2023-11-29 |  |
 | [Megaflora](https://open.spotify.com/track/6ExwpOsI32YHkcfq5GR496) | [Patamon](https://open.spotify.com/artist/1V7GOZ6p8rizYheT601KtB) | [Megaflora](https://open.spotify.com/album/3RF6condfFNrtN5z2dXIkc) | 3:48 | 2022-02-02 | 2022-02-24 |
 | [MELANIN](https://open.spotify.com/track/6MxcACQfYS8wpPmcxRmUIB) | [Anesu](https://open.spotify.com/artist/2dBAfmK5RxUTftfnjDtfvO) | [MELANIN](https://open.spotify.com/album/0g90jkQYZGmFasLwnxzAYm) | 3:04 | 2022-05-18 | 2022-06-01 |
 | [Melanin](https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [lxrdmc](https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ), [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [Melanin](https://open.spotify.com/album/3HcSMiiBfkIRSzwrdqLYMV) | 2:31 | 2023-06-14 | 2023-07-13 |

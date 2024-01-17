@@ -4,7 +4,7 @@
 
 > Feel good with this positively timeless playlist!
 
-269 songs - 15 hr 1 min
+270 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Just As I Am](https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo) | 2:05 | 2021-10-19 |  |
 | [Ain't Nobody](https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Epiphany: The Best of Chaka Khan, Vol\. 1](https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe) | 4:40 | 2021-10-19 |  |
 | [Ain't That A Shame? \- Remastered 2002](https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them](https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b) | 2:30 | 2021-10-19 | 2023-11-21 |
-| [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 | 2021-10-19 | 2024-01-02 |
+| [Are You Ready to Love Me?](https://open.spotify.com/track/7gyDV6Y7GmHqQS4KnzI5Zk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Healing Tide](https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q) | 3:34 | 2021-10-19 |  |
 | [B\-A\-B\-Y](https://open.spotify.com/track/35w6fQ0Wnuv7aIryRx7gTq) | [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Carla](https://open.spotify.com/album/5WyS0kooTM6uriZwmXjLLY) | 2:57 | 2021-10-19 |  |
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2022-02-25 |  |
 | [Baby \(You've Got What It Takes\)](https://open.spotify.com/track/0DICNd5XQ1og9UeYzxoNFV) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa), [Brook Benton](https://open.spotify.com/artist/2ttm3uT0N1RN7vwKv1pQgh) | [The Two Of Us](https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe) | 2:45 | 2021-10-19 | 2023-03-02 |
@@ -164,7 +164,7 @@
 | [Love Again](https://open.spotify.com/track/1rbykFoRXzj8yEG1Wyu6FC) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/1vA0EaXRAYS09mishgGhJa) | 3:30 | 2021-10-19 | 2022-11-13 |
 | [Love Again](https://open.spotify.com/track/4oP1iFJ5GSxeMMHofCg4ae) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters Of The Heart](https://open.spotify.com/album/56GwQuFFJwfFMcSsmvwUYK) | 3:30 | 2021-10-19 | 2022-06-07 |
 | [Love Child](https://open.spotify.com/track/0Usw6bbxjqROH3OCDYkMFi) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [Great Songs And Performances That Inspired The Motown 25th Anniversary T.V\. Special](https://open.spotify.com/album/6vnYOGfz9BjjXEpUzWURWi) | 2:56 | 2021-10-19 | 2022-04-21 |
-| [Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Ultimate Collection: Diana Ross & The Supremes](https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA) | 3:01 | 2021-10-19 |  |
+| [Love Child](https://open.spotify.com/track/69EILuL34ggLWQsa626bes) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Ultimate Collection: Diana Ross & The Supremes](https://open.spotify.com/album/3kBcXeEHgrdFc99iDeWStA) | 3:01 | 2021-10-19 | 2024-01-11 |
 | [Love That Girl](https://open.spotify.com/track/4ZKGarvWsSOruOaw40cFNz) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo) | [The Way I See It](https://open.spotify.com/album/4pZGQstlWtYIPjDMX79HDB) | 3:04 | 2021-10-19 |  |
 | [Love Train](https://open.spotify.com/track/28285KFbyCq8sJofn58qlD) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 2:58 | 2021-10-19 |  |
 | [Lovely Day](https://open.spotify.com/track/6Pi1WqBTTSjtl6BWHQSccH) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Discover Bill Withers](https://open.spotify.com/album/0PuHBmxh6nKG8TTjuVZghY) | 4:11 | 2021-10-19 | 2022-07-29 |
@@ -182,6 +182,7 @@
 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 | 2021-10-19 | 2022-07-29 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2021-10-19 |  |
 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 | 2021-10-19 |  |
+| [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2021-10-19 | 2024-01-17 |
 | [Need Your Love](https://open.spotify.com/track/3zYQ1KXzqBWRsxIqdVMoYF) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [Face Your Fear](https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1) | 2:57 | 2021-10-19 |  |
 | [Needle In A Haystack](https://open.spotify.com/track/26fSgIa539TCK3KV76chHU) | [The Velvelettes](https://open.spotify.com/artist/72Q7helEnjOptf8FAoZQTi) | [The Very Best Of The Velvelettes](https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6) | 2:29 | 2021-10-19 |  |
 | [No Particular Place To Go](https://open.spotify.com/track/3qt3ybU6MScMxMKL2TYBvt) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [St\. Louis To Liverpool](https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK) | 2:43 | 2021-10-19 |  |

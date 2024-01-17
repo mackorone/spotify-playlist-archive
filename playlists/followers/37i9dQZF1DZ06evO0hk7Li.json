@@ -1,731 +1,1589 @@
 {
-  "2021-12-29": 26595,
-  "2021-12-30": 26607,
-  "2021-12-31": 26617,
-  "2022-01-01": 26638,
-  "2022-01-02": 26640,
-  "2022-01-03": 26652,
-  "2022-01-04": 26665,
-  "2022-01-05": 26682,
-  "2022-01-06": 26691,
-  "2022-01-07": 26706,
-  "2022-01-08": 26736,
-  "2022-01-09": 26736,
-  "2022-01-10": 26754,
-  "2022-01-11": 26767,
-  "2022-01-12": 26775,
-  "2022-01-13": 26789,
-  "2022-01-14": 26804,
-  "2022-01-15": 26833,
-  "2022-01-16": 26835,
-  "2022-01-17": 26854,
-  "2022-01-18": 26854,
-  "2022-01-19": 26867,
-  "2022-01-20": 26876,
-  "2022-01-21": 26892,
-  "2022-01-22": 26908,
-  "2022-01-23": 26916,
-  "2022-01-24": 26930,
-  "2022-01-25": 26934,
-  "2022-01-26": 26952,
-  "2022-01-27": 26966,
-  "2022-01-28": 26972,
-  "2022-01-29": 26988,
-  "2022-01-30": 26998,
-  "2022-01-31": 27010,
-  "2022-02-01": 27026,
-  "2022-02-02": 27051,
-  "2022-02-03": 27070,
-  "2022-02-04": 27079,
-  "2022-02-05": 27099,
-  "2022-02-06": 27107,
-  "2022-02-07": 27126,
-  "2022-02-08": 27135,
-  "2022-02-09": 27152,
-  "2022-02-10": 27177,
-  "2022-02-11": 27192,
-  "2022-02-12": 27203,
-  "2022-02-13": 27219,
-  "2022-02-14": 27230,
-  "2022-02-15": 27235,
-  "2022-02-16": 27247,
-  "2022-02-17": 27253,
-  "2022-02-18": 27267,
-  "2022-02-19": 27274,
-  "2022-02-20": 27284,
-  "2022-02-21": 27292,
-  "2022-02-22": 27302,
-  "2022-02-23": 27310,
-  "2022-02-24": 27330,
-  "2022-02-25": 27341,
-  "2022-02-26": 27353,
-  "2022-02-27": 27371,
-  "2022-02-28": 27371,
-  "2022-03-01": 27377,
-  "2022-03-02": 27384,
-  "2022-03-03": 27395,
-  "2022-03-04": 27415,
-  "2022-03-05": 27437,
-  "2022-03-06": 27451,
-  "2022-03-07": 27464,
-  "2022-03-08": 27476,
-  "2022-03-09": 27490,
-  "2022-03-10": 27500,
-  "2022-03-11": 27510,
-  "2022-03-12": 27515,
-  "2022-03-13": 27527,
-  "2022-03-14": 27553,
-  "2022-03-15": 27563,
-  "2022-03-16": 27585,
-  "2022-03-17": 27609,
-  "2022-03-18": 27631,
-  "2022-03-19": 27651,
-  "2022-03-20": 27651,
-  "2022-03-21": 27689,
-  "2022-03-22": 27697,
-  "2022-03-23": 27704,
-  "2022-03-24": 27712,
-  "2022-03-25": 27719,
-  "2022-03-26": 27734,
-  "2022-03-27": 27750,
-  "2022-03-28": 27793,
-  "2022-03-30": 27808,
-  "2022-03-31": 27826,
-  "2022-04-01": 27847,
-  "2022-04-02": 27856,
-  "2022-04-03": 27871,
-  "2022-04-04": 27890,
-  "2022-04-05": 27906,
-  "2022-04-06": 27918,
-  "2022-04-07": 27929,
-  "2022-04-08": 27945,
-  "2022-04-09": 27954,
-  "2022-04-10": 27971,
-  "2022-04-11": 27981,
-  "2022-04-12": 27980,
-  "2022-04-13": 27982,
-  "2022-04-14": 27989,
-  "2022-04-15": 28002,
-  "2022-04-16": 28005,
-  "2022-04-17": 28015,
-  "2022-04-18": 28022,
-  "2022-04-19": 28032,
-  "2022-04-20": 28041,
-  "2022-04-21": 28055,
-  "2022-04-22": 28063,
-  "2022-04-23": 28079,
-  "2022-04-24": 28089,
-  "2022-04-25": 28101,
-  "2022-04-26": 28115,
-  "2022-04-27": 28126,
-  "2022-04-28": 28136,
-  "2022-04-29": 28157,
-  "2022-04-30": 28168,
-  "2022-05-01": 28185,
-  "2022-05-02": 28185,
-  "2022-05-03": 28189,
-  "2022-05-04": 28201,
-  "2022-05-05": 28211,
-  "2022-05-06": 28218,
-  "2022-05-07": 28236,
-  "2022-05-08": 28256,
-  "2022-05-09": 28258,
-  "2022-05-10": 28266,
-  "2022-05-11": 28275,
-  "2022-05-12": 28287,
-  "2022-05-13": 28297,
-  "2022-05-14": 28318,
-  "2022-05-15": 28325,
-  "2022-05-16": 28327,
-  "2022-05-17": 28327,
-  "2022-05-18": 28332,
-  "2022-05-19": 28348,
-  "2022-05-20": 28367,
-  "2022-05-21": 28385,
-  "2022-05-22": 28385,
-  "2022-05-23": 28399,
-  "2022-05-24": 28412,
-  "2022-05-25": 28423,
-  "2022-05-26": 28430,
-  "2022-05-27": 28455,
-  "2022-05-28": 28463,
-  "2022-05-29": 28475,
-  "2022-05-30": 28491,
-  "2022-05-31": 28507,
-  "2022-06-01": 28540,
-  "2022-06-02": 28543,
-  "2022-06-03": 28556,
-  "2022-06-04": 28573,
-  "2022-06-05": 28592,
-  "2022-06-06": 28599,
-  "2022-06-07": 28614,
-  "2022-06-08": 28634,
-  "2022-06-09": 28647,
-  "2022-06-10": 28664,
-  "2022-06-11": 28686,
-  "2022-06-12": 28700,
-  "2022-06-13": 28715,
-  "2022-06-14": 28741,
-  "2022-06-15": 28759,
-  "2022-06-16": 28779,
-  "2022-06-17": 28798,
-  "2022-06-18": 28802,
-  "2022-06-19": 28816,
-  "2022-06-20": 28816,
-  "2022-06-21": 28826,
-  "2022-06-22": 28858,
-  "2022-06-23": 28858,
-  "2022-06-24": 28867,
-  "2022-06-25": 28875,
-  "2022-06-26": 28896,
-  "2022-06-27": 28907,
-  "2022-06-28": 28922,
-  "2022-06-29": 28944,
-  "2022-06-30": 28965,
-  "2022-07-01": 28976,
-  "2022-07-02": 28989,
-  "2022-07-03": 29002,
-  "2022-07-04": 29018,
-  "2022-07-05": 29026,
-  "2022-07-06": 29026,
-  "2022-07-07": 29051,
-  "2022-07-08": 29069,
-  "2022-07-09": 29088,
-  "2022-07-10": 29102,
-  "2022-07-11": 29120,
-  "2022-07-12": 29131,
-  "2022-07-13": 29142,
-  "2022-07-14": 29160,
-  "2022-07-15": 29181,
-  "2022-07-16": 29193,
-  "2022-07-17": 29208,
-  "2022-07-18": 29221,
-  "2022-07-19": 29239,
-  "2022-07-20": 29263,
-  "2022-07-21": 29273,
-  "2022-07-22": 29289,
-  "2022-07-23": 29307,
-  "2022-07-24": 29322,
-  "2022-07-25": 29337,
-  "2022-07-26": 29360,
-  "2022-07-27": 29381,
-  "2022-07-28": 29402,
-  "2022-07-29": 29418,
-  "2022-07-30": 29438,
-  "2022-07-31": 29438,
-  "2022-08-01": 29455,
-  "2022-08-02": 29489,
-  "2022-08-03": 29489,
-  "2022-08-04": 29505,
-  "2022-08-05": 29520,
-  "2022-08-06": 29536,
-  "2022-08-07": 29547,
-  "2022-08-08": 29562,
-  "2022-08-09": 29738,
-  "2022-08-10": 29802,
-  "2022-08-11": 29808,
-  "2022-08-12": 29824,
-  "2022-08-13": 29835,
-  "2022-08-14": 29849,
-  "2022-08-15": 29863,
-  "2022-08-16": 29877,
-  "2022-08-17": 29892,
-  "2022-08-18": 29905,
-  "2022-08-19": 29917,
-  "2022-08-20": 29930,
-  "2022-08-21": 29935,
-  "2022-08-22": 29951,
-  "2022-08-23": 29965,
-  "2022-08-24": 29981,
-  "2022-08-25": 29999,
-  "2022-08-26": 30011,
-  "2022-08-27": 30028,
-  "2022-08-28": 30047,
-  "2022-08-29": 30062,
-  "2022-08-30": 30063,
-  "2022-08-31": 30074,
-  "2022-09-01": 30081,
-  "2022-09-02": 30096,
-  "2022-09-03": 30091,
-  "2022-09-04": 30095,
-  "2022-09-05": 30115,
-  "2022-09-06": 30128,
-  "2022-09-07": 30145,
-  "2022-09-09": 30181,
-  "2022-09-10": 30195,
-  "2022-09-11": 30216,
-  "2022-09-12": 30235,
-  "2022-09-13": 30254,
-  "2022-09-15": 30294,
-  "2022-09-16": 30385,
-  "2022-09-17": 30405,
-  "2022-09-18": 30425,
-  "2022-09-19": 30461,
-  "2022-09-20": 30469,
-  "2022-09-21": 30494,
-  "2022-09-22": 30512,
-  "2022-09-23": 30536,
-  "2022-09-24": 30571,
-  "2022-09-25": 30604,
-  "2022-09-26": 30636,
-  "2022-09-27": 30665,
-  "2022-09-28": 30686,
-  "2022-09-29": 30702,
-  "2022-09-30": 30723,
-  "2022-10-01": 30738,
-  "2022-10-02": 30763,
-  "2022-10-03": 30777,
-  "2022-10-04": 30795,
-  "2022-10-05": 30810,
-  "2022-10-06": 30822,
-  "2022-10-07": 30834,
-  "2022-10-08": 30847,
-  "2022-10-09": 30871,
-  "2022-10-10": 30872,
-  "2022-10-11": 30883,
-  "2022-10-12": 30901,
-  "2022-10-13": 30916,
-  "2022-10-14": 30931,
-  "2022-10-15": 30947,
-  "2022-10-16": 30957,
-  "2022-10-17": 30961,
-  "2022-10-18": 30981,
-  "2022-10-19": 30998,
-  "2022-10-20": 31017,
-  "2022-10-21": 31038,
-  "2022-10-22": 31064,
-  "2022-10-23": 31082,
-  "2022-10-24": 31110,
-  "2022-10-25": 31123,
-  "2022-10-26": 31143,
-  "2022-10-27": 31164,
-  "2022-10-28": 31191,
-  "2022-10-29": 31216,
-  "2022-10-30": 31226,
-  "2022-10-31": 31245,
-  "2022-11-01": 31262,
-  "2022-11-02": 31286,
-  "2022-11-03": 31297,
-  "2022-11-04": 31317,
-  "2022-11-05": 31397,
-  "2022-11-06": 31425,
-  "2022-11-07": 31451,
-  "2022-11-08": 31474,
-  "2022-11-09": 31490,
-  "2022-11-10": 31508,
-  "2022-11-11": 31534,
-  "2022-11-12": 31553,
-  "2022-11-13": 31567,
-  "2022-11-14": 31593,
-  "2022-11-15": 31621,
-  "2022-11-16": 31638,
-  "2022-11-17": 31662,
-  "2022-11-18": 31665,
-  "2022-11-19": 31681,
-  "2022-11-20": 31704,
-  "2022-11-21": 31721,
-  "2022-11-22": 31733,
-  "2022-11-23": 31752,
-  "2022-11-24": 31806,
-  "2022-11-25": 31843,
-  "2022-11-26": 31864,
-  "2022-11-27": 31876,
-  "2022-11-28": 31896,
-  "2022-11-29": 31927,
-  "2022-11-30": 31958,
-  "2022-12-01": 31978,
-  "2022-12-02": 31986,
-  "2022-12-03": 32027,
-  "2022-12-04": 32037,
-  "2022-12-05": 32053,
-  "2022-12-06": 32071,
-  "2022-12-07": 32082,
-  "2022-12-08": 32092,
-  "2022-12-09": 32106,
-  "2022-12-10": 32116,
-  "2022-12-11": 32131,
-  "2022-12-12": 32144,
-  "2022-12-13": 32152,
-  "2022-12-14": 32160,
-  "2022-12-15": 32169,
-  "2022-12-16": 32176,
-  "2022-12-17": 32182,
-  "2022-12-18": 32190,
-  "2022-12-19": 32192,
-  "2022-12-20": 32218,
-  "2022-12-21": 32218,
-  "2022-12-22": 32218,
-  "2022-12-24": 32244,
-  "2022-12-25": 32252,
-  "2022-12-26": 32255,
-  "2022-12-27": 32260,
-  "2022-12-28": 32278,
-  "2022-12-29": 32282,
-  "2022-12-30": 32293,
-  "2022-12-31": 32305,
-  "2023-01-01": 32314,
-  "2023-01-02": 32320,
-  "2023-01-03": 32331,
-  "2023-01-04": 32347,
-  "2023-01-05": 32352,
-  "2023-01-06": 32367,
-  "2023-01-07": 32383,
-  "2023-01-08": 32386,
-  "2023-01-09": 32394,
-  "2023-01-10": 32410,
-  "2023-01-11": 32413,
-  "2023-01-12": 32426,
-  "2023-01-13": 32437,
-  "2023-01-14": 32467,
-  "2023-01-15": 32467,
-  "2023-01-16": 32479,
-  "2023-01-17": 32490,
-  "2023-01-18": 32498,
-  "2023-01-19": 32513,
-  "2023-01-20": 32523,
-  "2023-01-21": 32530,
-  "2023-01-22": 32539,
-  "2023-01-23": 32554,
-  "2023-01-24": 32553,
-  "2023-01-25": 32560,
-  "2023-01-26": 32573,
-  "2023-01-27": 32578,
-  "2023-01-28": 32595,
-  "2023-01-29": 32606,
-  "2023-01-30": 32609,
-  "2023-01-31": 32609,
-  "2023-02-01": 32630,
-  "2023-02-02": 32640,
-  "2023-02-03": 32655,
-  "2023-02-04": 32676,
-  "2023-02-05": 32690,
-  "2023-02-06": 32704,
-  "2023-02-07": 32719,
-  "2023-02-08": 32744,
-  "2023-02-09": 32744,
-  "2023-02-10": 32762,
-  "2023-02-11": 32775,
-  "2023-02-12": 32799,
-  "2023-02-13": 32810,
-  "2023-02-14": 32810,
-  "2023-02-15": 32820,
-  "2023-02-16": 32830,
-  "2023-02-17": 32853,
-  "2023-02-18": 32869,
-  "2023-02-19": 32870,
-  "2023-02-20": 32878,
-  "2023-02-21": 32885,
-  "2023-02-22": 32893,
-  "2023-02-23": 32903,
-  "2023-02-24": 32929,
-  "2023-02-25": 32946,
-  "2023-02-26": 32958,
-  "2023-02-27": 32964,
-  "2023-02-28": 32964,
-  "2023-03-01": 32976,
-  "2023-03-02": 32982,
-  "2023-03-03": 32996,
-  "2023-03-04": 33012,
-  "2023-03-05": 33059,
-  "2023-03-06": 33059,
-  "2023-03-07": 33066,
-  "2023-03-08": 33082,
-  "2023-03-09": 33093,
-  "2023-03-10": 33105,
-  "2023-03-11": 33123,
-  "2023-03-12": 33132,
-  "2023-03-13": 33139,
-  "2023-03-14": 33150,
-  "2023-03-15": 33155,
-  "2023-03-16": 33155,
-  "2023-03-17": 33155,
-  "2023-03-18": 33190,
-  "2023-03-19": 33190,
-  "2023-03-20": 33200,
-  "2023-03-21": 33205,
-  "2023-03-22": 33218,
-  "2023-03-23": 33223,
-  "2023-03-24": 33223,
-  "2023-03-25": 33247,
-  "2023-03-26": 33261,
-  "2023-03-27": 33273,
-  "2023-03-28": 33284,
-  "2023-03-29": 33311,
-  "2023-03-30": 33341,
-  "2023-03-31": 33341,
-  "2023-04-01": 33351,
-  "2023-04-02": 33362,
-  "2023-04-03": 33374,
-  "2023-04-04": 33381,
-  "2023-04-05": 33393,
-  "2023-04-06": 33409,
-  "2023-04-07": 33411,
-  "2023-04-09": 33430,
-  "2023-04-10": 33431,
-  "2023-04-11": 33450,
-  "2023-04-12": 33450,
-  "2023-04-13": 33457,
-  "2023-04-14": 33464,
-  "2023-04-15": 33472,
-  "2023-04-16": 33476,
-  "2023-04-17": 33494,
-  "2023-04-18": 33494,
-  "2023-04-19": 33506,
-  "2023-04-20": 33513,
-  "2023-04-21": 33521,
-  "2023-04-22": 33536,
-  "2023-04-23": 33543,
-  "2023-04-24": 33555,
-  "2023-04-25": 33561,
-  "2023-04-26": 33570,
-  "2023-04-27": 33579,
-  "2023-04-28": 33596,
-  "2023-04-29": 33599,
-  "2023-04-30": 33612,
-  "2023-05-01": 33622,
-  "2023-05-02": 33630,
-  "2023-05-03": 33642,
-  "2023-05-04": 33640,
-  "2023-05-05": 33654,
-  "2023-05-06": 33665,
-  "2023-05-07": 33673,
-  "2023-05-08": 33683,
-  "2023-05-09": 33699,
-  "2023-05-10": 33711,
-  "2023-05-11": 33725,
-  "2023-05-12": 33734,
-  "2023-05-13": 33752,
-  "2023-05-14": 33764,
-  "2023-05-15": 33777,
-  "2023-05-16": 33794,
-  "2023-05-17": 33803,
-  "2023-05-18": 33810,
-  "2023-05-19": 33822,
-  "2023-05-20": 33838,
-  "2023-05-21": 33838,
-  "2023-05-22": 33838,
-  "2023-05-23": 33853,
-  "2023-05-24": 33864,
-  "2023-05-25": 33864,
-  "2023-05-26": 33881,
-  "2023-05-27": 33889,
-  "2023-05-28": 33905,
-  "2023-05-29": 33905,
-  "2023-05-30": 33939,
-  "2023-05-31": 33945,
-  "2023-06-01": 33954,
-  "2023-06-02": 33965,
-  "2023-06-03": 33971,
-  "2023-06-04": 33989,
-  "2023-06-05": 34004,
-  "2023-06-06": 34017,
-  "2023-06-07": 34029,
-  "2023-06-08": 34045,
-  "2023-06-09": 34061,
-  "2023-06-10": 34067,
-  "2023-06-11": 34085,
-  "2023-06-12": 34094,
-  "2023-06-13": 34107,
-  "2023-06-14": 34107,
-  "2023-06-15": 34129,
-  "2023-06-16": 34138,
-  "2023-06-17": 34149,
-  "2023-06-18": 34153,
-  "2023-06-19": 34162,
-  "2023-06-20": 34169,
-  "2023-06-21": 34182,
-  "2023-06-22": 34188,
-  "2023-06-23": 34188,
-  "2023-06-24": 34203,
-  "2023-06-25": 34224,
-  "2023-06-26": 34235,
-  "2023-06-27": 34246,
-  "2023-06-28": 34260,
-  "2023-06-29": 34271,
-  "2023-06-30": 34285,
-  "2023-07-01": 34321,
-  "2023-07-02": 34321,
-  "2023-07-03": 34339,
-  "2023-07-04": 34353,
-  "2023-07-05": 34359,
-  "2023-07-06": 34389,
-  "2023-07-07": 34389,
-  "2023-07-08": 34398,
-  "2023-07-09": 34414,
-  "2023-07-10": 34539,
-  "2023-07-11": 34574,
-  "2023-07-12": 34591,
-  "2023-07-13": 34601,
-  "2023-07-14": 34622,
-  "2023-07-15": 34630,
-  "2023-07-16": 34641,
-  "2023-07-17": 34664,
-  "2023-07-18": 34672,
-  "2023-07-19": 34689,
-  "2023-07-20": 34702,
-  "2023-07-21": 34719,
-  "2023-07-22": 34730,
-  "2023-07-23": 34747,
-  "2023-07-24": 34759,
-  "2023-07-25": 34766,
-  "2023-07-26": 34779,
-  "2023-07-27": 34787,
-  "2023-07-28": 34794,
-  "2023-07-29": 34801,
-  "2023-07-30": 34813,
-  "2023-07-31": 34817,
-  "2023-08-01": 34825,
-  "2023-08-02": 34833,
-  "2023-08-03": 34843,
-  "2023-08-04": 34852,
-  "2023-08-05": 34862,
-  "2023-08-06": 34875,
-  "2023-08-07": 34875,
-  "2023-08-08": 34881,
-  "2023-08-09": 34884,
-  "2023-08-10": 34890,
-  "2023-08-11": 34902,
-  "2023-08-12": 34902,
-  "2023-08-13": 34902,
-  "2023-08-14": 34960,
-  "2023-08-15": 34967,
-  "2023-08-16": 34967,
-  "2023-08-17": 34988,
-  "2023-08-18": 34988,
-  "2023-08-19": 35015,
-  "2023-08-20": 35022,
-  "2023-08-21": 35034,
-  "2023-08-22": 35044,
-  "2023-08-23": 35051,
-  "2023-08-24": 35061,
-  "2023-08-25": 35061,
-  "2023-08-26": 35069,
-  "2023-08-27": 35077,
-  "2023-08-28": 35088,
-  "2023-08-29": 35088,
-  "2023-08-30": 35088,
-  "2023-08-31": 35124,
-  "2023-09-01": 35139,
-  "2023-09-02": 35139,
-  "2023-09-03": 35157,
-  "2023-09-04": 35157,
-  "2023-09-05": 35157,
-  "2023-09-06": 35194,
-  "2023-09-07": 35194,
-  "2023-09-08": 35194,
-  "2023-09-09": 35194,
-  "2023-09-10": 35228,
-  "2023-09-11": 35239,
-  "2023-09-12": 35239,
-  "2023-09-13": 35253,
-  "2023-09-14": 35253,
-  "2023-09-15": 35253,
-  "2023-09-16": 35275,
-  "2023-09-17": 35275,
-  "2023-09-18": 35275,
-  "2023-09-19": 35291,
-  "2023-09-20": 35291,
-  "2023-09-21": 35291,
-  "2023-09-22": 35361,
-  "2023-09-23": 35361,
-  "2023-09-24": 35361,
-  "2023-09-25": 35361,
-  "2023-09-26": 35398,
-  "2023-09-27": 35398,
-  "2023-09-28": 35398,
-  "2023-09-29": 35398,
-  "2023-09-30": 35398,
-  "2023-10-01": 35398,
-  "2023-10-02": 35449,
-  "2023-10-03": 35449,
-  "2023-10-04": 35449,
-  "2023-10-05": 35472,
-  "2023-10-06": 35483,
-  "2023-10-07": 35483,
-  "2023-10-08": 35483,
-  "2023-10-09": 35483,
-  "2023-10-10": 35483,
-  "2023-10-11": 35560,
-  "2023-10-12": 35560,
-  "2023-10-13": 35560,
-  "2023-10-14": 35560,
-  "2023-10-15": 35560,
-  "2023-10-16": 35560,
-  "2023-10-17": 35560,
-  "2023-10-18": 35560,
-  "2023-10-19": 35560,
-  "2023-10-20": 35560,
-  "2023-10-21": 35560,
-  "2023-10-22": 35560,
-  "2023-10-23": 35560,
-  "2023-10-24": 35560,
-  "2023-10-25": 35560,
-  "2023-10-26": 35560,
-  "2023-10-27": 35560,
-  "2023-10-28": 35560,
-  "2023-10-29": 35560,
-  "2023-10-30": 35560,
-  "2023-10-31": 35560,
-  "2023-11-01": 35560,
-  "2023-11-02": 35560,
-  "2023-11-03": 35560,
-  "2023-11-04": 35560,
-  "2023-11-05": 35560,
-  "2023-11-06": 35560,
-  "2023-11-07": 35560,
-  "2023-11-08": 35560,
-  "2023-11-09": 35560,
-  "2023-11-10": 35560,
-  "2023-11-11": 35837,
-  "2023-11-12": 35837,
-  "2023-11-13": 35837,
-  "2023-11-14": 35837,
-  "2023-11-15": 35837,
-  "2023-11-16": 35837,
-  "2023-11-17": 35837,
-  "2023-11-18": 35837,
-  "2023-11-19": 35837,
-  "2023-11-20": 35837,
-  "2023-11-21": 35837,
-  "2023-11-22": 35837,
-  "2023-11-23": 35837,
-  "2023-11-24": 35837,
-  "2023-11-25": 35837,
-  "2023-11-26": 35837,
-  "2023-11-27": 35837,
-  "2023-11-28": 35837,
-  "2023-11-29": 35837,
-  "2023-11-30": 35837,
-  "2023-12-01": 35837,
-  "2023-12-02": 35837,
-  "2023-12-03": 35837,
-  "2023-12-04": 35837,
-  "2023-12-05": 35837,
-  "2023-12-06": 35837,
-  "2023-12-07": 35837,
-  "2023-12-08": 35837,
-  "2023-12-09": 35837,
-  "2023-12-10": 35837,
-  "2023-12-11": 35837,
-  "2023-12-12": 35837,
-  "2023-12-13": 35837,
-  "2023-12-14": 36142,
-  "2023-12-15": 36150,
-  "2023-12-16": 36158,
-  "2023-12-17": 36170,
-  "2023-12-18": 36186,
-  "2023-12-19": 36202,
-  "2023-12-20": 36224,
-  "2023-12-21": 36238,
-  "2023-12-22": 36249,
-  "2023-12-23": 36259,
-  "2023-12-24": 36273,
-  "2023-12-25": 36283,
-  "2023-12-26": 36288,
-  "2023-12-27": 36303,
-  "2023-12-30": 36317,
-  "2023-12-31": 36348,
-  "2024-01-01": 36353,
-  "2024-01-02": 36365,
-  "2024-01-03": 36377
+  "2024-01-17": 36469,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
+  "name": "This Is Jacob Banks",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 249413,
+      "name": "Aim for My Head",
+      "url": "https://open.spotify.com/track/4QAQ3JRAFcBm0zrX3oREX4"
+    },
+    {
+      "album": {
+        "name": "Brand New Machine (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206427,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov"
+    },
+    {
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2nqTrXkTZV9pQgDU8Bde00"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 202213,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/5cECPK2MfXHYncVB9wLoMR"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202213,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250826,
+      "name": "Be Good To Me (feat. Seinabo Sey)",
+      "url": "https://open.spotify.com/track/7juealXfkel1kLInjvY4W8"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158124,
+      "name": "Black N White",
+      "url": "https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395"
+    },
+    {
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/7ni2gVOM9o6KhFzyeVpy2p"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251527,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/6pQUQdaZacg722q6sg6fPR"
+    },
+    {
+      "album": {
+        "name": "Broken Chandeliers",
+        "url": "https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp"
+      },
+      "artists": [
+        {
+          "name": "Kofi Stone",
+          "url": "https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Broken Chandeliers",
+      "url": "https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C"
+    },
+    {
+      "album": {
+        "name": "By Design [Evel Knievel]",
+        "url": "https://open.spotify.com/album/1uolHPowVuHbDnWYXu0cZS"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 225312,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/0aPyEWSjHKCTcq6celJPY6"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192720,
+      "name": "Chainsmoking",
+      "url": "https://open.spotify.com/track/1EZfCViOJ9XKFbwX8FkZUF"
+    },
+    {
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142546,
+      "name": "Coffee (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 88533,
+      "name": "Coming Through [Big up Yaself]",
+      "url": "https://open.spotify.com/track/1CoHERmQGn5eddSYmVwIkN"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "date_added": "2022-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171480,
+      "name": "Coolin",
+      "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
+    },
+    {
+      "album": {
+        "name": "For When It Hurts",
+        "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 58080,
+      "name": "D-LOW",
+      "url": "https://open.spotify.com/track/794QsDYCpR1r7hl1UA6hD2"
+    },
+    {
+      "album": {
+        "name": "FOR WHEN IT HURTS",
+        "url": "https://open.spotify.com/album/428nPJ3UUToLbe4NyTSFbj"
+      },
+      "artists": [
+        {
+          "name": "Jake Isaac",
+          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58080,
+      "name": "D-LOW",
+      "url": "https://open.spotify.com/track/7LP9N0E2Kh9Hj61Sqz9KVS"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/35YVOeHNe5vOOQMN5PwBuB"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170803,
+      "name": "Devil That I Know",
+      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219626,
+      "name": "Diddy Bop (x Louis The Child)",
+      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
+    },
+    {
+      "album": {
+        "name": "Every Age",
+        "url": "https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130087,
+      "name": "Every Age",
+      "url": "https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195752,
+      "name": "Found",
+      "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 216000,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2ZKHqERUbvXfcJGXLObv0X"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 208800,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3mVAVmOOPfix072ec37bNe"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-04",
+      "duration_ms": 179258,
+      "name": "Homecoming",
+      "url": "https://open.spotify.com/track/2SVFDK1ijwMleKl68vaKLx"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2Olm3JcejBFmtCGciV7BR6"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293244,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C"
+    },
+    {
+      "album": {
+        "name": "In The Name Of Love (From The Motion Picture The Equalizer 2)",
+        "url": "https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204658,
+      "name": "In The Name Of Love - From The Motion Picture The Equalizer 2",
+      "url": "https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I"
+    },
+    {
+      "album": {
+        "name": "About 30",
+        "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294753,
+      "name": "Ire (Remix) (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/5b9Tl8wtaPLzsuDHuwdik8"
+    },
+    {
+      "album": {
+        "name": "Just When I Thought",
+        "url": "https://open.spotify.com/album/0C2Dp8I1w4PKbICibbFYX1"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 282104,
+      "name": "Just When I Thought",
+      "url": "https://open.spotify.com/track/3GqPiO86B7tUuDzzl7SePU"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 282400,
+      "name": "Just When I Thought",
+      "url": "https://open.spotify.com/track/5NerE4vzq2j1B5a8NVP6eK"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 205472,
+      "name": "Kids On the Corner",
+      "url": "https://open.spotify.com/track/0gxvQg0BxoKjiIE2v4ie7y"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 205472,
+      "name": "Kids On the Corner",
+      "url": "https://open.spotify.com/track/6NIuZTrPRW9tXC7TVl9LZF"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "Kumbaya (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
+    },
+    {
+      "album": {
+        "name": "Like You'll Never See Me Again",
+        "url": "https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238033,
+      "name": "Like You'll Never See Me Again",
+      "url": "https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172773,
+      "name": "Love Ain't Enough",
+      "url": "https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
+      },
+      "artists": [
+        {
+          "name": "WiDE AWAKE",
+          "url": "https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191432,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 220906,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 233497,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/1u9iIukLvxQgahsrPjqcmV"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233497,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
+    },
+    {
+      "album": {
+        "name": "Monster 2.0",
+        "url": "https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "WESTSIDE BOOGIE",
+          "url": "https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217440,
+      "name": "Monster 2.0",
+      "url": "https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao"
+    },
+    {
+      "album": {
+        "name": "Move With You",
+        "url": "https://open.spotify.com/album/7iS8UdbCE1VJSYqUBs5y5d"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 189423,
+      "name": "Move with You",
+      "url": "https://open.spotify.com/track/4VbvGwV24TbFIULF176HXF"
+    },
+    {
+      "album": {
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
+    },
+    {
+      "album": {
+        "name": "Lundi M\u00e9chant",
+        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "Only Way Is Up",
+      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202133,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-08-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136632,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/6qzA5ZUivvw1FCZJSVYoNE"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169166,
+      "name": "Part Time Love",
+      "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137932,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 208626,
+      "name": "Prosecco",
+      "url": "https://open.spotify.com/track/1OWu2Vin6WH1gVvgO05Pw8"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 214344,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/4AwtuZPcyjZLWE1TlhTxBC"
+    },
+    {
+      "album": {
+        "name": "Life (Deluxe)",
+        "url": "https://open.spotify.com/album/1Z0wiHzWvZ1qtWkEKNE6TW"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "Diztortion",
+          "url": "https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 230120,
+      "name": "Redemption",
+      "url": "https://open.spotify.com/track/6i9Y0BUxejRaa1oiQK6cqf"
+    },
+    {
+      "album": {
+        "name": "I Owe You Nothing / Remember",
+        "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252393,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 202776,
+      "name": "Rizla",
+      "url": "https://open.spotify.com/track/5RcM4gHZICI1DqMr5SpnVE"
+    },
+    {
+      "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304586,
+      "name": "Runnin (feat. A$AP Rocky & Jacob Banks)",
+      "url": "https://open.spotify.com/track/7ckSHKZnX72c6IQnKGJNpi"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3lQ8BST2eefzk8nLuUQmlC"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276605,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/3oFTt5ivFcWXLypCNosbur"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 218947,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/0kFV57VAYDJEcbtOK7YmNS"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 218947,
+      "name": "Sink or Swim",
+      "url": "https://open.spotify.com/track/5ldyAFx6EaPRi9vw9GgUNf"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297026,
+      "name": "Slow Up",
+      "url": "https://open.spotify.com/track/5QZbCX2yKSFHPe7nCHGMam"
+    },
+    {
+      "album": {
+        "name": "SOMEONE ELSE (feat. Jacob Banks)",
+        "url": "https://open.spotify.com/album/7GcRDb1Li5vr4q1hLQCWdM"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/4R6rTr9UY7r9aeSHpy4GBB"
+    },
+    {
+      "album": {
+        "name": "SOMEONE ELSE (featuring Jacob Banks)",
+        "url": "https://open.spotify.com/album/4eBkyax61tYK5RUkXaBQMk"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222483,
+      "name": "SOMEONE ELSE (featuring Jacob Banks)",
+      "url": "https://open.spotify.com/track/2CQD7tRYaQtCLTZCOlgLnw"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 208248,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/32sEFeCIpyTaEwnhWGrE1J"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162076,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1YHWhz4KEeNhTfrAOVf3lI"
+    },
+    {
+      "album": {
+        "name": "Other People\u2019s Heartache (Pt. 4)",
+        "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
+      },
+      "artists": [
+        {
+          "name": "Other People's Heartache",
+          "url": "https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        },
+        {
+          "name": "Moss Kena",
+          "url": "https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342012,
+      "name": "The Descent",
+      "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
+    },
+    {
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290115,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/11svo7PkpgWFqw16XdwRor"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Cried Freedom",
+        "url": "https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209752,
+      "name": "Unholy War",
+      "url": "https://open.spotify.com/track/4PjZsEf8bCIVyf4VXd57wS"
+    },
+    {
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233160,
+      "name": "Unknown (To You)",
+      "url": "https://open.spotify.com/track/4jDDaKTqcZQWvgubuW6N7l"
+    },
+    {
+      "album": {
+        "name": "What Do You Love",
+        "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
+      },
+      "artists": [
+        {
+          "name": "Seeb",
+          "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "What Do You Love",
+      "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+    },
+    {
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/0lUt61v9PK6Qrl0GjkTXAw"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+    },
+    {
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/6qhVCev8FFYvmq2JebsSxL"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 238728,
+      "name": "YOLO",
+      "url": "https://open.spotify.com/track/0PZge1heMrngPMX9ukisQc"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 241889,
+      "name": "You Don't Even Call Me",
+      "url": "https://open.spotify.com/track/1ZOyqkZPJdQyIWRr1rK8si"
+    },
+    {
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 241889,
+      "name": "You Don't Even Call Me",
+      "url": "https://open.spotify.com/track/2Xxe9r20FuSheRY8832rr7"
+    },
+    {
+      "album": {
+        "name": "Creed II (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147386,
+      "name": "You Might Find Me",
+      "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li"
 }

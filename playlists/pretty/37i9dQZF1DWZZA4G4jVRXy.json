@@ -1,6 +1,6 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 127337,
+  "num_followers": 127267,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "When It's Time to Go",
+        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
+      },
+      "artists": [
+        {
+          "name": "Buddy Fo & His Group",
+          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
+        }
+      ],
+      "duration_ms": 163626,
+      "name": "When It's Time to Go",
+      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Lolita (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7DDr6cIizxHIS51kCjblhF"
       },
@@ -107,38 +123,6 @@
       "duration_ms": 71266,
       "name": "Hii Lawe",
       "url": "https://open.spotify.com/track/2pSRXkk8gdoePrCaNHT8rX"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Best Of Martin Denny's Exotica",
-        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "Misirlou - 1995 Digital Remaster",
-      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "When It's Time to Go",
-        "url": "https://open.spotify.com/album/0pEYDo499hzgCpBLzcpVpl"
-      },
-      "artists": [
-        {
-          "name": "Buddy Fo & His Group",
-          "url": "https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI"
-        }
-      ],
-      "duration_ms": 163626,
-      "name": "When It's Time to Go",
-      "url": "https://open.spotify.com/track/06bgtOwOTqbDLf1n1eqjji"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -205,6 +189,22 @@
       "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
+      "added_at": "2022-01-11 02:53:42",
+      "album": {
+        "name": "Best Of Martin Denny's Exotica",
+        "url": "https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5"
+      },
+      "artists": [
+        {
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
+        }
+      ],
+      "duration_ms": 158653,
+      "name": "Misirlou - 1995 Digital Remaster",
+      "url": "https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg"
+    },
+    {
       "added_at": "2021-01-20 03:50:53",
       "album": {
         "name": "The Sacred Idol",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/6j46ude4neMZMiEagbYkie"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 276693,
-      "name": "Alika",
-      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
-    },
-    {
       "added_at": "2022-01-11 02:53:42",
       "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
@@ -267,6 +251,22 @@
       "duration_ms": 128066,
       "name": "Taboo Tu",
       "url": "https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
+      },
+      "artists": [
+        {
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
+        }
+      ],
+      "duration_ms": 276693,
+      "name": "Alika",
+      "url": "https://open.spotify.com/track/5VUZ3kwdQHr9rMVkJot15R"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -339,18 +339,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Yellow Bird",
-        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
+        "name": "Dear Mama",
+        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
       "artists": [
         {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+          "name": "Benitez, Darren",
+          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
         }
       ],
-      "duration_ms": 164920,
-      "name": "Yellow Bird",
-      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
+      "duration_ms": 307213,
+      "name": "Nani Wale Ka Lau Oliva",
+      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -387,18 +387,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Dear Mama",
-        "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
+        "name": "Yellow Bird",
+        "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
       "artists": [
         {
-          "name": "Benitez, Darren",
-          "url": "https://open.spotify.com/artist/1ZmCUwq9iEoBTFE9unlWTI"
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
         }
       ],
-      "duration_ms": 307213,
-      "name": "Nani Wale Ka Lau Oliva",
-      "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+      "duration_ms": 164920,
+      "name": "Yellow Bird",
+      "url": "https://open.spotify.com/track/6oye7upM8j0mE3xoT7FdjU"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -467,38 +467,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Sunset",
-        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
-      },
-      "artists": [
-        {
-          "name": "Arthur Lyman",
-          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
-        }
-      ],
-      "duration_ms": 146733,
-      "name": "Kawohikukupulani",
-      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
-    },
-    {
-      "added_at": "2022-03-30 01:46:18",
-      "album": {
-        "name": "Inmortales de To\u00f1a la Negra",
-        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        }
-      ],
-      "duration_ms": 140721,
-      "name": "Palmeras",
-      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "The Golden Voice of Hawai'i, Vol. 1",
         "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
       },
@@ -515,6 +483,54 @@
       "duration_ms": 275066,
       "name": "Hanalei Moon",
       "url": "https://open.spotify.com/track/0hODO60iv3UHWIbyewk0kG"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Sunset",
+        "url": "https://open.spotify.com/album/61l4XfiMZCVWGdCwLxj6Mg"
+      },
+      "artists": [
+        {
+          "name": "Arthur Lyman",
+          "url": "https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln"
+        }
+      ],
+      "duration_ms": 146733,
+      "name": "Kawohikukupulani",
+      "url": "https://open.spotify.com/track/49tUjyvnM7HjVoSrLhq4y5"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
+        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
+      },
+      "artists": [
+        {
+          "name": "Jackie Davis",
+          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
+        }
+      ],
+      "duration_ms": 143666,
+      "name": "Glow Worm Cha Cha Cha - Remastered",
+      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
+    },
+    {
+      "added_at": "2022-03-30 01:46:18",
+      "album": {
+        "name": "Inmortales de To\u00f1a la Negra",
+        "url": "https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        }
+      ],
+      "duration_ms": 140721,
+      "name": "Palmeras",
+      "url": "https://open.spotify.com/track/5GkJzTHcr1vvfhtbPVgXRg"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -563,38 +579,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Ultra-Lounge: Fuzzy Retail Sampler",
-        "url": "https://open.spotify.com/album/2Qv7S5PJ4UkyJZacCwaWqd"
-      },
-      "artists": [
-        {
-          "name": "Jackie Davis",
-          "url": "https://open.spotify.com/artist/0rIZ0gievjkT1Nsdnp2csQ"
-        }
-      ],
-      "duration_ms": 143666,
-      "name": "Glow Worm Cha Cha Cha - Remastered",
-      "url": "https://open.spotify.com/track/5SSEqfveTwkQnMW31eD1fD"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Mareld 2021",
-        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
-      },
-      "artists": [
-        {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
-        }
-      ],
-      "duration_ms": 182096,
-      "name": "Mareld 2021",
-      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Maunalua",
         "url": "https://open.spotify.com/album/5YA2QDuSVVM7lVUWsMlY8I"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 160306,
       "name": "Mombasa Love Song",
       "url": "https://open.spotify.com/track/4M2Na0IrNuE3oY53fQomTi"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "On A Magic Carpet",
+        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
+      },
+      "artists": [
+        {
+          "name": "The Three Suns",
+          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Terry's Theme (From \"Limelight)",
+      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -659,34 +659,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "On A Magic Carpet",
-        "url": "https://open.spotify.com/album/6kx51Uus6xYrzcO7unJAqJ"
+        "name": "Mareld 2021",
+        "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
       },
       "artists": [
         {
-          "name": "The Three Suns",
-          "url": "https://open.spotify.com/artist/6SOQrmfK6SFNQgl1krQrNc"
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
         }
       ],
-      "duration_ms": 198466,
-      "name": "Terry's Theme (From \"Limelight)",
-      "url": "https://open.spotify.com/track/5w8RGAqzAgXsrKjb7BFxle"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
-        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
-      },
-      "artists": [
-        {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
-        }
-      ],
-      "duration_ms": 259519,
-      "name": "Lotus Land",
-      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
+      "duration_ms": 182096,
+      "name": "Mareld 2021",
+      "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -705,20 +689,20 @@
       "url": "https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i"
     },
     {
-      "added_at": "2022-01-11 02:53:42",
+      "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Call of the Islands",
-        "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
+        "name": "Carnival Tropicana (1948) & Lure of the Tropics (1954)",
+        "url": "https://open.spotify.com/album/73y7cyxT1PqKOz9nrGrTYz"
       },
       "artists": [
         {
-          "name": "\u00ccxtahuele",
-          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 184718,
-      "name": "Colors of Hawaiki",
-      "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
+      "duration_ms": 259519,
+      "name": "Lotus Land",
+      "url": "https://open.spotify.com/track/0OLE9z8MZvut1EoTPmXXL7"
     },
     {
       "added_at": "2022-01-11 02:53:42",
@@ -735,6 +719,22 @@
       "duration_ms": 196226,
       "name": "Hana Maui - Digitally Remastered 1995",
       "url": "https://open.spotify.com/track/0XN9TYjtGswD7jsLsg6xU2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Unforgettable Sounds of Esquivel",
+        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+      },
+      "artists": [
+        {
+          "name": "Mr. Ho's Orchestrotica",
+          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Mini Skirt",
+      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -785,20 +785,20 @@
       "url": "https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "The Unforgettable Sounds of Esquivel",
-        "url": "https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp"
+        "name": "Call of the Islands",
+        "url": "https://open.spotify.com/album/1JXKR9WNKBUA9di9OadQ70"
       },
       "artists": [
         {
-          "name": "Mr. Ho's Orchestrotica",
-          "url": "https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd"
+          "name": "\u00ccxtahuele",
+          "url": "https://open.spotify.com/artist/3zWk05HzOm7nWIBkKCYmXN"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Mini Skirt",
-      "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
+      "duration_ms": 184718,
+      "name": "Colors of Hawaiki",
+      "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hana Hou! Vol. 1",
-        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
-      },
-      "artists": [
-        {
-          "name": "Genoa Keawe",
-          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
-        }
-      ],
-      "duration_ms": 110666,
-      "name": "Ipo Hula",
-      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Esquivel! 1968",
         "url": "https://open.spotify.com/album/2g7l87w0dVuZPBRHzg9Iqv"
       },
@@ -883,38 +867,18 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Legend Of The Jivaro",
-        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+        "name": "Hana Hou! Vol. 1",
+        "url": "https://open.spotify.com/album/2LSvzyw8Xt2r11gsaSfPVt"
       },
       "artists": [
         {
-          "name": "Yma Sumac",
-          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+          "name": "Genoa Keawe",
+          "url": "https://open.spotify.com/artist/3TOhHfwiR2xQYQFph79xOy"
         }
       ],
-      "duration_ms": 174800,
-      "name": "Jivaro",
-      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
-        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
-        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        },
-        {
-          "name": "Bas Sheva",
-          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
-        }
-      ],
-      "duration_ms": 179800,
-      "name": "Lust",
-      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
+      "duration_ms": 110666,
+      "name": "Ipo Hula",
+      "url": "https://open.spotify.com/track/6qyfgcmgYB7dY04v9dOzID"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -935,6 +899,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Legend Of The Jivaro",
+        "url": "https://open.spotify.com/album/3wTvOMPXV5M1bf7hgyx9o7"
+      },
+      "artists": [
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        }
+      ],
+      "duration_ms": 174800,
+      "name": "Jivaro",
+      "url": "https://open.spotify.com/track/5uyBw0P31QMYmp4eK9Tpy2"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Hawaii's Favorite Music Vol. II - Instrumentals",
         "url": "https://open.spotify.com/album/2ZdSCDvLS7cVqPt28gpNcx"
       },
@@ -949,20 +929,24 @@
       "url": "https://open.spotify.com/track/0eMTkns8etyZ1JJIJnYxzb"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
-        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
+        "name": "Ultra-Lounge/Mondo Exotica: Volume One",
+        "url": "https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm"
       },
       "artists": [
         {
-          "name": "Elisabeth Waldo",
-          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        },
+        {
+          "name": "Bas Sheva",
+          "url": "https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP"
         }
       ],
-      "duration_ms": 187573,
-      "name": "Within The Temple Of Macuilizochitl",
-      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
+      "duration_ms": 179800,
+      "name": "Lust",
+      "url": "https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1027,6 +1011,22 @@
       "duration_ms": 166226,
       "name": "Loads of Love",
       "url": "https://open.spotify.com/track/5rnHukUFZhfS69Cfbs4qyz"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Sacred Rites (Rites of the Pagan / Realm of the Incas)",
+        "url": "https://open.spotify.com/album/1THijjtDXy2uWJydVj4S7L"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Waldo",
+          "url": "https://open.spotify.com/artist/4HwvMosTwHSvJg7x8EjrlF"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Within The Temple Of Macuilizochitl",
+      "url": "https://open.spotify.com/track/4YFXgIruiLlfzPFlwZ0Mf4"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Cool Heat + Exotic Dreams",
+        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
+      },
+      "artists": [
+        {
+          "name": "Ethel Azama",
+          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
+        }
+      ],
+      "duration_ms": 154575,
+      "name": "Ringo Oiwake",
+      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/5YO2Bk5jkOTrlKl9ZcVZWI"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 138092,
       "name": "Sweet Leilani",
       "url": "https://open.spotify.com/track/0eIb5Pu0dEaNw2OOTwkFa2"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Cool Heat + Exotic Dreams",
-        "url": "https://open.spotify.com/album/0WsV9roJjZgph4HRZl6bkK"
-      },
-      "artists": [
-        {
-          "name": "Ethel Azama",
-          "url": "https://open.spotify.com/artist/73IBRDDpHVjyM75lVEK7wV"
-        }
-      ],
-      "duration_ms": 154575,
-      "name": "Ringo Oiwake",
-      "url": "https://open.spotify.com/track/56H0tyRn6CJ5J7vLCVcOe1"
     },
     {
       "added_at": "2021-01-20 03:50:53",

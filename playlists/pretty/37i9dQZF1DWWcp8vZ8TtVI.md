@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcp8vZ8TtVI.md) - [plain]
 
 > Celebrity wedding planner Mindy Weiss brings you her essential songs for wedding season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,853 likes - 34 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,894 likes - 34 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

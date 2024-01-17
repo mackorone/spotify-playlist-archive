@@ -1,381 +1,3493 @@
 {
-  "2022-12-17": 2450,
-  "2022-12-18": 4343,
-  "2022-12-19": 4983,
-  "2022-12-20": 5893,
-  "2022-12-21": 5893,
-  "2022-12-22": 6181,
-  "2022-12-24": 6678,
-  "2022-12-25": 6858,
-  "2022-12-26": 7028,
-  "2022-12-27": 7287,
-  "2022-12-28": 7744,
-  "2022-12-29": 8060,
-  "2022-12-30": 8255,
-  "2022-12-31": 8405,
-  "2023-01-01": 8551,
-  "2023-01-02": 8658,
-  "2023-01-03": 8781,
-  "2023-01-04": 8885,
-  "2023-01-05": 8970,
-  "2023-01-06": 9091,
-  "2023-01-07": 9222,
-  "2023-01-08": 9236,
-  "2023-01-09": 9319,
-  "2023-01-10": 9410,
-  "2023-01-11": 9477,
-  "2023-01-12": 9547,
-  "2023-01-13": 9614,
-  "2023-01-14": 10036,
-  "2023-01-15": 10074,
-  "2023-01-16": 10163,
-  "2023-01-17": 10246,
-  "2023-01-18": 10307,
-  "2023-01-19": 10358,
-  "2023-01-20": 10417,
-  "2023-01-21": 10459,
-  "2023-01-22": 10506,
-  "2023-01-23": 10553,
-  "2023-01-24": 10578,
-  "2023-01-25": 10608,
-  "2023-01-26": 10643,
-  "2023-01-27": 10669,
-  "2023-01-28": 10697,
-  "2023-01-29": 10730,
-  "2023-01-30": 10763,
-  "2023-01-31": 10763,
-  "2023-02-01": 10830,
-  "2023-02-02": 10867,
-  "2023-02-03": 10900,
-  "2023-02-04": 10943,
-  "2023-02-05": 10981,
-  "2023-02-06": 11010,
-  "2023-02-07": 11041,
-  "2023-02-08": 11094,
-  "2023-02-09": 11094,
-  "2023-02-10": 11127,
-  "2023-02-11": 11136,
-  "2023-02-12": 11246,
-  "2023-02-13": 11303,
-  "2023-02-14": 11303,
-  "2023-02-15": 11347,
-  "2023-02-16": 11391,
-  "2023-02-17": 11434,
-  "2023-02-18": 11489,
-  "2023-02-19": 11495,
-  "2023-02-20": 11519,
-  "2023-02-21": 11549,
-  "2023-02-22": 11570,
-  "2023-02-23": 11587,
-  "2023-02-24": 11607,
-  "2023-02-25": 11649,
-  "2023-02-26": 11657,
-  "2023-02-27": 11721,
-  "2023-02-28": 11721,
-  "2023-03-01": 11751,
-  "2023-03-02": 11786,
-  "2023-03-03": 11815,
-  "2023-03-04": 11836,
-  "2023-03-05": 11872,
-  "2023-03-06": 11872,
-  "2023-03-07": 11893,
-  "2023-03-08": 11914,
-  "2023-03-09": 11943,
-  "2023-03-10": 11955,
-  "2023-03-11": 11983,
-  "2023-03-12": 12000,
-  "2023-03-13": 12022,
-  "2023-03-14": 12046,
-  "2023-03-15": 12070,
-  "2023-03-16": 12100,
-  "2023-03-17": 12100,
-  "2023-03-18": 12126,
-  "2023-03-19": 12148,
-  "2023-03-20": 12183,
-  "2023-03-21": 12206,
-  "2023-03-22": 12226,
-  "2023-03-23": 12259,
-  "2023-03-24": 12259,
-  "2023-03-25": 12318,
-  "2023-03-26": 12351,
-  "2023-03-27": 12385,
-  "2023-03-28": 12401,
-  "2023-03-29": 12425,
-  "2023-03-30": 12480,
-  "2023-03-31": 12480,
-  "2023-04-01": 12504,
-  "2023-04-02": 12531,
-  "2023-04-03": 12556,
-  "2023-04-04": 12585,
-  "2023-04-05": 12599,
-  "2023-04-06": 12619,
-  "2023-04-07": 12632,
-  "2023-04-09": 12683,
-  "2023-04-10": 12706,
-  "2023-04-11": 12756,
-  "2023-04-12": 12756,
-  "2023-04-13": 12771,
-  "2023-04-14": 12792,
-  "2023-04-15": 12813,
-  "2023-04-16": 12830,
-  "2023-04-17": 12853,
-  "2023-04-18": 12885,
-  "2023-04-19": 12917,
-  "2023-04-20": 12942,
-  "2023-04-21": 12961,
-  "2023-04-22": 12993,
-  "2023-04-23": 13016,
-  "2023-04-24": 13048,
-  "2023-04-25": 13067,
-  "2023-04-26": 13086,
-  "2023-04-27": 13097,
-  "2023-04-28": 13103,
-  "2023-04-29": 13112,
-  "2023-04-30": 13125,
-  "2023-05-01": 13150,
-  "2023-05-02": 13169,
-  "2023-05-03": 13192,
-  "2023-05-04": 13212,
-  "2023-05-05": 13225,
-  "2023-05-06": 13239,
-  "2023-05-07": 13260,
-  "2023-05-08": 13276,
-  "2023-05-09": 13287,
-  "2023-05-10": 13297,
-  "2023-05-11": 13312,
-  "2023-05-12": 13331,
-  "2023-05-13": 13338,
-  "2023-05-14": 13360,
-  "2023-05-15": 13379,
-  "2023-05-16": 13397,
-  "2023-05-17": 13413,
-  "2023-05-18": 13432,
-  "2023-05-19": 13442,
-  "2023-05-20": 13473,
-  "2023-05-21": 13473,
-  "2023-05-22": 13473,
-  "2023-05-23": 13500,
-  "2023-05-24": 13525,
-  "2023-05-25": 13531,
-  "2023-05-26": 13551,
-  "2023-05-27": 13570,
-  "2023-05-28": 13582,
-  "2023-05-29": 13582,
-  "2023-05-30": 13607,
-  "2023-05-31": 13619,
-  "2023-06-01": 13633,
-  "2023-06-02": 13644,
-  "2023-06-03": 13656,
-  "2023-06-04": 13672,
-  "2023-06-05": 13681,
-  "2023-06-06": 13700,
-  "2023-06-07": 13714,
-  "2023-06-08": 13719,
-  "2023-06-09": 13734,
-  "2023-06-10": 13744,
-  "2023-06-11": 13767,
-  "2023-06-12": 13779,
-  "2023-06-13": 13796,
-  "2023-06-14": 13807,
-  "2023-06-15": 13819,
-  "2023-06-16": 13833,
-  "2023-06-17": 13848,
-  "2023-06-18": 13861,
-  "2023-06-19": 13875,
-  "2023-06-20": 13892,
-  "2023-06-21": 13903,
-  "2023-06-22": 13914,
-  "2023-06-23": 13929,
-  "2023-06-24": 13940,
-  "2023-06-25": 13947,
-  "2023-06-26": 13961,
-  "2023-06-27": 13977,
-  "2023-06-28": 13989,
-  "2023-06-29": 14008,
-  "2023-06-30": 14018,
-  "2023-07-01": 14044,
-  "2023-07-02": 14044,
-  "2023-07-03": 14053,
-  "2023-07-04": 14074,
-  "2023-07-05": 14085,
-  "2023-07-06": 14110,
-  "2023-07-07": 14110,
-  "2023-07-08": 14122,
-  "2023-07-09": 14141,
-  "2023-07-10": 14149,
-  "2023-07-11": 14165,
-  "2023-07-12": 14174,
-  "2023-07-13": 14190,
-  "2023-07-14": 14198,
-  "2023-07-15": 14204,
-  "2023-07-16": 14225,
-  "2023-07-17": 14244,
-  "2023-07-18": 14257,
-  "2023-07-19": 14267,
-  "2023-07-20": 14278,
-  "2023-07-21": 14288,
-  "2023-07-22": 14303,
-  "2023-07-23": 14315,
-  "2023-07-24": 14325,
-  "2023-07-25": 14338,
-  "2023-07-26": 14351,
-  "2023-07-27": 14369,
-  "2023-07-28": 14377,
-  "2023-07-29": 14388,
-  "2023-07-30": 14408,
-  "2023-07-31": 14418,
-  "2023-08-01": 14435,
-  "2023-08-02": 14441,
-  "2023-08-03": 14448,
-  "2023-08-04": 14456,
-  "2023-08-05": 14485,
-  "2023-08-06": 14506,
-  "2023-08-07": 14506,
-  "2023-08-08": 14512,
-  "2023-08-09": 14524,
-  "2023-08-10": 14527,
-  "2023-08-11": 14532,
-  "2023-08-12": 14543,
-  "2023-08-13": 14550,
-  "2023-08-14": 14564,
-  "2023-08-15": 14577,
-  "2023-08-16": 14577,
-  "2023-08-17": 14582,
-  "2023-08-18": 14601,
-  "2023-08-19": 14620,
-  "2023-08-20": 14637,
-  "2023-08-21": 14665,
-  "2023-08-22": 14683,
-  "2023-08-23": 14698,
-  "2023-08-24": 14719,
-  "2023-08-25": 14735,
-  "2023-08-26": 14751,
-  "2023-08-27": 14761,
-  "2023-08-28": 14781,
-  "2023-08-29": 14789,
-  "2023-08-30": 14798,
-  "2023-08-31": 14811,
-  "2023-09-01": 14831,
-  "2023-09-02": 14831,
-  "2023-09-03": 14840,
-  "2023-09-04": 14842,
-  "2023-09-05": 14848,
-  "2023-09-06": 14860,
-  "2023-09-07": 14873,
-  "2023-09-08": 14887,
-  "2023-09-09": 14902,
-  "2023-09-10": 14912,
-  "2023-09-11": 14924,
-  "2023-09-12": 14932,
-  "2023-09-13": 14941,
-  "2023-09-14": 14942,
-  "2023-09-15": 14953,
-  "2023-09-16": 14962,
-  "2023-09-17": 14984,
-  "2023-09-18": 14995,
-  "2023-09-19": 15005,
-  "2023-09-20": 15016,
-  "2023-09-21": 15021,
-  "2023-09-22": 15025,
-  "2023-09-23": 15036,
-  "2023-09-24": 15047,
-  "2023-09-25": 15052,
-  "2023-09-26": 15059,
-  "2023-09-27": 15063,
-  "2023-09-28": 15075,
-  "2023-09-29": 15092,
-  "2023-09-30": 15102,
-  "2023-10-01": 15122,
-  "2023-10-02": 15134,
-  "2023-10-03": 15148,
-  "2023-10-04": 15166,
-  "2023-10-05": 15176,
-  "2023-10-06": 15194,
-  "2023-10-07": 15199,
-  "2023-10-08": 15210,
-  "2023-10-09": 15223,
-  "2023-10-10": 15239,
-  "2023-10-11": 15257,
-  "2023-10-12": 15257,
-  "2023-10-13": 15263,
-  "2023-10-14": 15275,
-  "2023-10-15": 15276,
-  "2023-10-16": 15292,
-  "2023-10-17": 15312,
-  "2023-10-18": 15324,
-  "2023-10-19": 15340,
-  "2023-10-20": 15346,
-  "2023-10-21": 15358,
-  "2023-10-22": 15371,
-  "2023-10-23": 15391,
-  "2023-10-24": 15405,
-  "2023-10-25": 15414,
-  "2023-10-26": 15421,
-  "2023-10-27": 15435,
-  "2023-10-28": 15443,
-  "2023-10-29": 15460,
-  "2023-10-30": 15474,
-  "2023-10-31": 15474,
-  "2023-11-01": 15493,
-  "2023-11-02": 15506,
-  "2023-11-03": 15513,
-  "2023-11-04": 15521,
-  "2023-11-05": 15532,
-  "2023-11-06": 15545,
-  "2023-11-07": 15558,
-  "2023-11-08": 15572,
-  "2023-11-09": 15586,
-  "2023-11-10": 15600,
-  "2023-11-11": 15621,
-  "2023-11-12": 15631,
-  "2023-11-13": 15644,
-  "2023-11-14": 15653,
-  "2023-11-15": 15653,
-  "2023-11-16": 15666,
-  "2023-11-17": 15684,
-  "2023-11-18": 15684,
-  "2023-11-19": 15694,
-  "2023-11-20": 15702,
-  "2023-11-21": 15708,
-  "2023-11-22": 15720,
-  "2023-11-23": 15728,
-  "2023-11-24": 15736,
-  "2023-11-25": 15742,
-  "2023-11-26": 15756,
-  "2023-11-27": 15770,
-  "2023-11-28": 15776,
-  "2023-11-29": 15787,
-  "2023-11-30": 15787,
-  "2023-12-01": 15799,
-  "2023-12-02": 15807,
-  "2023-12-03": 15819,
-  "2023-12-04": 15830,
-  "2023-12-05": 15849,
-  "2023-12-06": 15864,
-  "2023-12-07": 15876,
-  "2023-12-08": 15886,
-  "2023-12-09": 15895,
-  "2023-12-10": 15905,
-  "2023-12-11": 15919,
-  "2023-12-12": 15940,
-  "2023-12-13": 15952,
-  "2023-12-14": 15967,
-  "2023-12-15": 15978,
-  "2023-12-16": 15985,
-  "2023-12-17": 15995,
-  "2023-12-18": 15999,
-  "2023-12-19": 16009,
-  "2023-12-20": 16019,
-  "2023-12-21": 16030,
-  "2023-12-22": 16045,
-  "2023-12-23": 16058,
-  "2023-12-24": 16066,
-  "2023-12-25": 16081,
-  "2023-12-26": 16088,
-  "2023-12-27": 16095,
-  "2023-12-30": 16123,
-  "2023-12-31": 16134,
-  "2024-01-01": 16137,
-  "2024-01-02": 16142,
-  "2024-01-03": 16154
+  "2024-01-17": 16265,
+  "date_first_scraped": "2022-12-17",
+  "description": "Music from \"THE IDOLM@STER MILLION LIVE!\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\nTHE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.",
+  "name": "THE IDOLM@STER MILLION LIVE! \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01",
+  "tracks": [
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
+        "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "...In The Name Of\u3002 ...LOVE?",
+      "url": "https://open.spotify.com/track/1ZDnnuRnufy69sKwM1Fd1A"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 18 \u30b9\u30c8\u30ed\u30d9\u30ea\u30fc\u30dd\u30c3\u30d7\u30e0\u30fc\u30f3",
+        "url": "https://open.spotify.com/album/2h7qFCIuwpnamJlTOgS7CU"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "ABSOLUTE RUN!!!",
+      "url": "https://open.spotify.com/track/0BuxZWn9fkWLihSRpbTv3f"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER BEST",
+        "url": "https://open.spotify.com/album/2mX8ucwnOPF7mCFDzTLviH"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "ABSOLUTE RUN!!!",
+      "url": "https://open.spotify.com/track/7FlvIPRyfA7LRWCeDMPjPD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 13 TIntMe!",
+        "url": "https://open.spotify.com/album/5ug6ELg787KuXMs1Z5gthX"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311466,
+      "name": "Arrive You \uff5e\u305d\u308c\u304c\u904b\u547d\u3067\u3082\uff5e",
+      "url": "https://open.spotify.com/track/15bnvXKZYELjdZctyfy34X"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 241320,
+      "name": "Be My Boy",
+      "url": "https://open.spotify.com/track/61e2l14hlkUp5JyamG0OIq"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
+        "url": "https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU"
+      },
+      "artists": [
+        {
+          "name": "\u53cc\u6d77\u4e9c\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/44gxLW0GBoBdduoDSzUOBZ"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 235186,
+      "name": "Big\u30d0\u30eb\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/2GrYcdCa5sX5eR8i8jmMBD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 254893,
+      "name": "bitter sweet",
+      "url": "https://open.spotify.com/track/52GsSFv4NseYjXQW4v6vPO"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282280,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/61pUUUV0ng4YJIdK3DHnvQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 01 Sunshine Rhythm",
+        "url": "https://open.spotify.com/album/5AI4ZKsvVtfMTj0TknJjBE"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251693,
+      "name": "Bonnes! Bonnes!! Vacances!!!",
+      "url": "https://open.spotify.com/track/5nYDqfgyUYrxT9WgQJVwY0"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
+        "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "Nao Yokoyama (CV: Yui Watanabe)",
+          "url": "https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 243813,
+      "name": "BORN ON DREAM! ~HANABI NIGHT~",
+      "url": "https://open.spotify.com/track/6W5HzMuv3qcqKd2TrGYFvG"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 01 Brand New Theater!",
+        "url": "https://open.spotify.com/album/1Qf0OVZGtS3qhAYgUPabnW"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309200,
+      "name": "Brand New Theater!",
+      "url": "https://open.spotify.com/track/4otzfY3aH0sR0u8lIXe1EI"
+    },
+    {
+      "album": {
+        "name": "brave HARMONY (Brand New Ver.)",
+        "url": "https://open.spotify.com/album/5tcjU2eXkznY57KibCU0OD"
+      },
+      "artists": [
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 311666,
+      "name": "brave HARMONY - Brand New Ver.",
+      "url": "https://open.spotify.com/track/7D8RhCAGAF0LOJwSyuACYW"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 04 Sherry 'n Cherry",
+        "url": "https://open.spotify.com/album/5XJU5PcncxC8kuLr0uZ35w"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240613,
+      "name": "Cherry Colored Love",
+      "url": "https://open.spotify.com/track/7f8Pjs5Y2Ff9YhqdLkmzNj"
+    },
+    {
+      "album": {
+        "name": "Clover Days",
+        "url": "https://open.spotify.com/album/1ulBx1CY8eGJ8EtmuLp1EU"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "Serika Hakozaki (CV: Momo Asakura)",
+          "url": "https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 293000,
+      "name": "Clover Days",
+      "url": "https://open.spotify.com/track/2Sr5PN3zTM0tgQydeMeCQ7"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
+      },
+      "artists": [
+        {
+          "name": "Nao Yokoyama (CV: Yui Watanabe)",
+          "url": "https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "Ritsuko Akizuki (CV: Naomi Wakabayashi)",
+          "url": "https://open.spotify.com/artist/3ydf4dvnXoI2OV1GWCD0iW"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "Hinata Kinoshita (CV: Nao Tamura)",
+          "url": "https://open.spotify.com/artist/6QMDBa7iuMEXMPXfvCdgkE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 265360,
+      "name": "Clover's Cry ~\u795e\u3068\u795e\u964d\u308d\u3057\u306e\u5c11\u5973~",
+      "url": "https://open.spotify.com/track/451zwppHKXdKfRepQ3R7fr"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
+        },
+        {
+          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 209666,
+      "name": "Criminally Dinner ~\u6b63\u9910\u3068\u30a4\u30fc\u30f4\u30eb\u30ca\u30a4\u30d5~",
+      "url": "https://open.spotify.com/track/20L6HYbRFA7jHYC3GacEp0"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER 765 MILLION ALLSTARS BEST",
+        "url": "https://open.spotify.com/album/2mUZGYVQOeOOEpiBK7iiK4"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263426,
+      "name": "Crossing!",
+      "url": "https://open.spotify.com/track/5joqaslIG1VrSazqQADS7t"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
+        "url": "https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324240,
+      "name": "dans l'obscurit\u00e9",
+      "url": "https://open.spotify.com/track/04TVbpupBXYP6MJZHj9ahD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 13",
+        "url": "https://open.spotify.com/album/5CvkmLTabznfl6lVW9f9ZU"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad8\u6a4b\u672a\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/4LeAeQKdaf4Muyfu7ceSMS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278173,
+      "name": "dear\u2026",
+      "url": "https://open.spotify.com/track/2NB2CmzCwJ0EKurnNum2N9"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 03",
+        "url": "https://open.spotify.com/album/2DmRzqg7VMWUbVjNzLrHt0"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 304066,
+      "name": "Decided",
+      "url": "https://open.spotify.com/track/5T10KXbxd6sQ4XuhKvVUBg"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER BOOST 03",
+        "url": "https://open.spotify.com/album/03DXJlSB7xmXBOMcvjcPJQ"
+      },
+      "artists": [
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "Mizuki Makabe (CV: Rika Abe)",
+          "url": "https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 321960,
+      "name": "DIAMOND DAYS",
+      "url": "https://open.spotify.com/track/2Giy2MtA7GCn16SKctLlLL"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER BOOST 01",
+        "url": "https://open.spotify.com/album/7hTVpGOyk8k5tUTnX8kjQa"
+      },
+      "artists": [
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "Nao Yokoyama (CV: Yui Watanabe)",
+          "url": "https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 322240,
+      "name": "DIAMOND DAYS",
+      "url": "https://open.spotify.com/track/0qUbEbJEPqzy4D2Qq786aw"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER CHALLENGE 03",
+        "url": "https://open.spotify.com/album/3BOcNeDAEEFU9Jns8HSdiw"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "Elena Shimabara (CV: Asuka Kakumoto)",
+          "url": "https://open.spotify.com/artist/6HnMvYK5iNrp6s758Omcls"
+        },
+        {
+          "name": "Kaori Sakuramori (CV: Arisa Kori)",
+          "url": "https://open.spotify.com/artist/1u7UKyQSfX3KIelFAagFMn"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 321893,
+      "name": "DIAMOND DAYS",
+      "url": "https://open.spotify.com/track/35R892jzE3AKUrRfYAV9ps"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "Takane Shijou (CV: Yumi Hara)",
+          "url": "https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "DIAMOND JOKER",
+      "url": "https://open.spotify.com/track/7r2X6wsyLGhfPCL5mqzSQm"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
+        "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        },
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "Do the IDOL!! \uff5e\u65ad\u5d16\u7d76\u58c1\u30c1\u30e5\u30d1\u30ab\u30d6\u30e9\uff5e",
+      "url": "https://open.spotify.com/track/6mT7VsrBaPack8OQ1kQ0Mz"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
+      },
+      "artists": [
+        {
+          "name": "SHADE OF SPADE",
+          "url": "https://open.spotify.com/artist/7JwuFwbRo0neEtZoOhDhZr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "ESPADA",
+      "url": "https://open.spotify.com/track/5qUa4Dn7vs1FEqG6IcTEEM"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30cf\u30fc\u30e2\u30cb\u30fc",
+          "url": "https://open.spotify.com/artist/53sd3OdyOGYKnyaRtbyGmL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Eternal Harmony",
+      "url": "https://open.spotify.com/track/5rBjwaYaHHsXcVUTkpbnEz"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 02",
+        "url": "https://open.spotify.com/album/5MpI371XgTIRpGTFSQQie6"
+      },
+      "artists": [
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "FairyTale\u3058\u3083\u3044\u3089\u308c\u306a\u3044",
+      "url": "https://open.spotify.com/track/2MJPXGJUWnSRbqfbHv837n"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 270493,
+      "name": "FIND YOUR WIND!",
+      "url": "https://open.spotify.com/track/6ybyRhhlDFCwDqqy9rB6O1"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
+        "url": "https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo"
+      },
+      "artists": [
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "Serika Hakozaki (CV: Momo Asakura)",
+          "url": "https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 251586,
+      "name": "Flooding",
+      "url": "https://open.spotify.com/track/0lros2wQQX443HPBv99uyE"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 01 Flyers!!!",
+        "url": "https://open.spotify.com/album/3XMVnavGGMGhtKL5kX9wSq"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329226,
+      "name": "Flyers!!!",
+      "url": "https://open.spotify.com/track/4Bu9rUQh1aABKXeMM8oSSr"
+    },
+    {
+      "album": {
+        "name": "ENDLESS TOUR",
+        "url": "https://open.spotify.com/album/3JgVLrqgyLopz9fofSGVU7"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "Serika Hakozaki (CV: Momo Asakura)",
+          "url": "https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 320440,
+      "name": "Flyers!!! - MR remix",
+      "url": "https://open.spotify.com/track/31AOBr0dCwaj2cEgLiE6k4"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 05",
+        "url": "https://open.spotify.com/album/1K4K7FKVGIAH1Bo2DD2mdr"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "fruity love",
+      "url": "https://open.spotify.com/track/6AEx4AHFlzyozSvgkpkyRQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
+        "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 271200,
+      "name": "Glow Map",
+      "url": "https://open.spotify.com/track/79OU4I5FkeGb9yKmlD23bn"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 222106,
+      "name": "Happy Darling",
+      "url": "https://open.spotify.com/track/2XtJmTYix03kYitaCa4DCZ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape",
+        "url": "https://open.spotify.com/album/6Gy0t8MgPIC4GMZcYX3hIa"
+      },
+      "artists": [
+        {
+          "name": "Mizuki Makabe (CV: Rika Abe)",
+          "url": "https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-09",
+      "duration_ms": 228266,
+      "name": "I.D ~EScape from Utopia~",
+      "url": "https://open.spotify.com/track/2I1RzxRvjjfXIVLfPM0PDH"
+    },
+    {
+      "album": {
+        "name": "Ijigen BIGBANG",
+        "url": "https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH"
+      },
+      "artists": [
+        {
+          "name": "Uzuki Shimamura (CV: Ayaka Ohashi)",
+          "url": "https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        },
+        {
+          "name": "KOGANE TSUKIOKA (CV: Karin Isobe)",
+          "url": "https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1"
+        },
+        {
+          "name": "Chika Takami (CV: Anju Inami)",
+          "url": "https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5"
+        },
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        },
+        {
+          "name": "Kanon Shibuya (CV: Sayuri Date)",
+          "url": "https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR"
+        },
+        {
+          "name": "Kaho Hinoshita (CV: Nozomi Nirei)",
+          "url": "https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "Ijigen BIGBANG",
+      "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 12",
+        "url": "https://open.spotify.com/album/3BIw8RX5529tavuYERGlx4"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30b3 (CV.\u4e2d\u6751\u6e29\u59eb)",
+          "url": "https://open.spotify.com/artist/5hSexmHEdEg0rcOTGJnaXD"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 213400,
+      "name": "IMPRESSION LOCOMOTION!",
+      "url": "https://open.spotify.com/track/3zvsrB13DstJkCBu0xdJmW"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 248680,
+      "name": "Just be myself!!",
+      "url": "https://open.spotify.com/track/7f6KcplqyqS7iUYqM6zhVj"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "KING of SPADE",
+      "url": "https://open.spotify.com/track/2Z1BbYVuMtUjaLwnPCOl0D"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        },
+        {
+          "name": "\u9ad8\u69fb\u3084\u3088\u3044 (CV.\u4ec1\u5f8c\u771f\u8036\u5b50)",
+          "url": "https://open.spotify.com/artist/0ROzUCx8jDj405w1GBxZlb"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-24",
+      "duration_ms": 248800,
+      "name": "LOVE is GAME",
+      "url": "https://open.spotify.com/track/28JdMWZlK5qsUmqX3ytdnJ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 02",
+        "url": "https://open.spotify.com/album/63Ic75x61p1Mtdcyt8roK5"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 291973,
+      "name": "Maria Trap",
+      "url": "https://open.spotify.com/track/7fmM09YE3qPR1JoUOCm1Po"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246840,
+      "name": "Marionette\u306f\u7720\u3089\u306a\u3044",
+      "url": "https://open.spotify.com/track/17ZVx1jFauGaIbhiFzKZTl"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 08 EScape",
+        "url": "https://open.spotify.com/album/6Gy0t8MgPIC4GMZcYX3hIa"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263186,
+      "name": "Melty Fantasia",
+      "url": "https://open.spotify.com/track/1bxWvoS6ILmvh0BWZ8atgV"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 10 Glow Map",
+        "url": "https://open.spotify.com/album/0i8lhN2S9zPhErVX2LXhc0"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 275973,
+      "name": "MUSIC JOURNEY",
+      "url": "https://open.spotify.com/track/794BcQQCo7mfjVWweLkwAb"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        },
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        },
+        {
+          "name": "Nao Yokoyama (CV: Yui Watanabe)",
+          "url": "https://open.spotify.com/artist/0CH3YCF1lC07IfLhWruhaf"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 276413,
+      "name": "PRETTY DREAMER",
+      "url": "https://open.spotify.com/track/4QKS4SZo1brO5rAtHQs8YX"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 04",
+        "url": "https://open.spotify.com/album/6k4Ee74mBhYsamQQ3iuumR"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 300346,
+      "name": "Princess Be Ambitious!!",
+      "url": "https://open.spotify.com/track/5AdiD6FQGAkzVqGk8rVSKq"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01",
+        "url": "https://open.spotify.com/album/0qkGod4E6EYVBEfsOVijcx"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 224186,
+      "name": "Purple Sky",
+      "url": "https://open.spotify.com/track/5YFaiAKYhQvTTBMz8w3uPr"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
+        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210480,
+      "name": "Raise the FLAG",
+      "url": "https://open.spotify.com/track/4DiglNq5mWTAjbAvLqd0e6"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION ANIMATION THE@TER \u300eRat A Tat!!!\u300f",
+        "url": "https://open.spotify.com/album/1s2GWfVfNDk453enM4jgcZ"
+      },
+      "artists": [
+        {
+          "name": "MILLIONSTARS",
+          "url": "https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265533,
+      "name": "Rat A Tat!!!",
+      "url": "https://open.spotify.com/track/1w1o1HeiCIBg4L4VOZvORO"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 10",
+        "url": "https://open.spotify.com/album/5333q2eOZHvE6dnPmSMQFa"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "REACH THE SKY",
+      "url": "https://open.spotify.com/track/39qnGXvvMqwSZgpEDVaI0l"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "Rebellion",
+      "url": "https://open.spotify.com/track/0eSnPMln0L2taBufLZhbuA"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury",
+        "url": "https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "RED ZONE",
+      "url": "https://open.spotify.com/track/1I4S0n6yBbZuqUH0b8IT57"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 \u541b\u5f69",
+        "url": "https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        },
+        {
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287373,
+      "name": "ReTale",
+      "url": "https://open.spotify.com/track/1VjpNNA4LiMrL9Bh2honei"
+    },
+    {
+      "album": {
+        "name": "SECOND LIVINGROOM",
+        "url": "https://open.spotify.com/album/5mbP289zCYSPP6m6lLjoZB"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 221813,
+      "name": "SECOND LIVINGROOM",
+      "url": "https://open.spotify.com/track/26iEMTS9XMfAESoALmrSwZ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 05",
+        "url": "https://open.spotify.com/album/0RulRBQ4s2J5ejrTEDOjVQ"
+      },
+      "artists": [
+        {
+          "name": "Iori Minase (CV: Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
+        },
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        },
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231280,
+      "name": "Sentimental Venus",
+      "url": "https://open.spotify.com/track/4YoWOWGLUFWBS1j4xwh9V3"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
+      },
+      "artists": [
+        {
+          "name": "CLEVER CLOVER",
+          "url": "https://open.spotify.com/artist/72iQfL3quEHQPt216TZ1t3"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254360,
+      "name": "Shamrock Vivace",
+      "url": "https://open.spotify.com/track/7p9IccimWQHOevQ9JCMXct"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 03",
+        "url": "https://open.spotify.com/album/7eyHlvuilbyQace0k063iy"
+      },
+      "artists": [
+        {
+          "name": "\u30af\u30ec\u30b7\u30a7\u30f3\u30c9\u30d6\u30eb\u30fc",
+          "url": "https://open.spotify.com/artist/3dkB6cT6divKkccsHTPExx"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 257506,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/3WWM1gtUk3qwX9XWRPBBiQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 05",
+        "url": "https://open.spotify.com/album/0BW5PROQs9hfHFrPtuuRZP"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283640,
+      "name": "Silent Joker",
+      "url": "https://open.spotify.com/track/526ugCcexvFqSQtegPdXOL"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 07 Jus-2-Mint",
+        "url": "https://open.spotify.com/album/7mihuPl9XKNe5EbrWmf9Gs"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 250240,
+      "name": "Super Duper",
+      "url": "https://open.spotify.com/track/6VCr0QWwUDSl958XU8Q43r"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 05",
+        "url": "https://open.spotify.com/album/2vsCygKagHpff8Gha6cdt2"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 251880,
+      "name": "Super Lover",
+      "url": "https://open.spotify.com/track/5CKZKAat1cJhMTRtSx2KJA"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 08",
+        "url": "https://open.spotify.com/album/3AofVLjSvyjU1Bz3fvzvL5"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 248453,
+      "name": "SUPER SIZE LOVE!!",
+      "url": "https://open.spotify.com/track/79Ah4ajRgiVmIhZHGXQRSA"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON FINAL",
+        "url": "https://open.spotify.com/album/0AqCcAkzDG2TrgSIWY9WgH"
+      },
+      "artists": [
+        {
+          "name": "\u79cb\u6708\u5f8b\u5b50 (CV.\u82e5\u6797\u76f4\u7f8e)",
+          "url": "https://open.spotify.com/artist/5HZNAcx2uLDOP0ol6d1Eyy"
+        },
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 212133,
+      "name": "Supersonic Booster!",
+      "url": "https://open.spotify.com/track/6sEMqtr7vs95bIkQ7bBdXu"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 03 Starlight Melody",
+        "url": "https://open.spotify.com/album/0dqNWSJ8ePef1E2HbmmnNH"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292893,
+      "name": "Sweet Sweet Soul",
+      "url": "https://open.spotify.com/track/0cdsp44UOjWKtzTSm21Oti"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 01 Thank You!",
+        "url": "https://open.spotify.com/album/1aJ4lWupXN87GzGNa7jjMd"
+      },
+      "artists": [
+        {
+          "name": "765 MILLIONSTARS",
+          "url": "https://open.spotify.com/artist/1h3MrpWGfGKQVQGBy9Gc4d"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285040,
+      "name": "Thank You!",
+      "url": "https://open.spotify.com/track/1u4OlClvfSusqtWsi5mxlJ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
+        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad8\u6a4b\u672a\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/4LeAeQKdaf4Muyfu7ceSMS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298013,
+      "name": "To...",
+      "url": "https://open.spotify.com/track/4NDt80nyrMl5i9Ba2WLis4"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!",
+        "url": "https://open.spotify.com/album/3aCN43uJ8NWwNbxQuKkcSt"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332013,
+      "name": "UNION!!",
+      "url": "https://open.spotify.com/track/06MpGtZrJ3AUlP9I1rgcLb"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER VARIETY 02",
+        "url": "https://open.spotify.com/album/3kMN4I7c8DaYGSYSg0SoEz"
+      },
+      "artists": [
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        },
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220093,
+      "name": "Vacation VS Summer \uff5e\u30ca\u30c4\u3068\u30e4\u30b9\u30df\u306e\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8\uff01\uff5e",
+      "url": "https://open.spotify.com/track/0mjF7cHXnAIsIMcIr9NRwL"
+    },
+    {
+      "album": {
+        "name": "VOY@GER (\u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01\u76e4)",
+        "url": "https://open.spotify.com/album/5qK9kVY1VwTb2TfuK8oumE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339120,
+      "name": "VOY@GER - \u30df\u30ea\u30aa\u30f3\u30e9\u30a4\u30d6\uff01Ver.",
+      "url": "https://open.spotify.com/track/4loMP9JuL2MTqzfysmLOPm"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 11 UNION!!",
+        "url": "https://open.spotify.com/album/3aCN43uJ8NWwNbxQuKkcSt"
+      },
+      "artists": [
+        {
+          "name": "765 MILLION ALLSTARS",
+          "url": "https://open.spotify.com/artist/2t5cmL5V6MkODKqWIlxuoU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345506,
+      "name": "Welcome!!",
+      "url": "https://open.spotify.com/track/2kGi8pIbtVtFNSoiv5DOmc"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER CHALLENGE 02",
+        "url": "https://open.spotify.com/album/70p7UnMiJtLnoc8ZmVitwW"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "\u5929\u6d77\u6625\u9999 (CV.\u4e2d\u6751\u7e6a\u91cc\u5b50)",
+          "url": "https://open.spotify.com/artist/4VYbbwQ4B6bjc3bJEAjFlL"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 208120,
+      "name": "World Changer",
+      "url": "https://open.spotify.com/track/5lQEK8GGQQ36RdcXDNbPDG"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 07 \u30c8\u30a5\u30a4\u30f3\u30af\u30eb\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/463LWhdjR3Q122CTaKU7qx"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
+        },
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267346,
+      "name": "ZETTAI BREAK!! \u30c8\u30a5\u30a4\u30f3\u30af\u30eb\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/1HHL2v7hZzT0SZGT8rwzrI"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 01",
+        "url": "https://open.spotify.com/album/0qkGod4E6EYVBEfsOVijcx"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 256972,
+      "name": "\u3042\u305f\u305f\u3081\u307e\u3059\u304b?",
+      "url": "https://open.spotify.com/track/6XnhvnxghOAQx36G7SUA0i"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 09",
+        "url": "https://open.spotify.com/album/5BlRVFC9TliHQRWVAmnBjx"
+      },
+      "artists": [
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245333,
+      "name": "\u304d\u307e\u3050\u308c\u30e6\u30e2\u30ec\u30b9\u30af",
+      "url": "https://open.spotify.com/track/6q9C9m0Smx1CaMf6hdoFfY"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 03",
+        "url": "https://open.spotify.com/album/0x3A6Datf6hMIKYXZN6Kwp"
+      },
+      "artists": [
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 226746,
+      "name": "\u3086\u3048\u306b\u2026\u306a\u3093\u3067\u3059",
+      "url": "https://open.spotify.com/track/21Vh5CofcrnxMyW8WqCBaP"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
+        "url": "https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277653,
+      "name": "\u30a2\u30a4\u30eb - Harmonized ver.",
+      "url": "https://open.spotify.com/track/57fBFUFP9jHM2fifh7fCRw"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 201986,
+      "name": "\u30a2\u30d5\u30bf\u30fc\u30b9\u30af\u30fc\u30eb\u30d1\u30fc\u30ea\u30fc\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/25DliXdeWLl2NFEKUYCYyP"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! ZWEIGLANZ \u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/0p8qcX8zAMWjT5EZuTNIM4"
+      },
+      "artists": [
+        {
+          "name": "Leon (CV: Minori Chihara)",
+          "url": "https://open.spotify.com/artist/6kxMRD5NbPDJ9Ea7YX7HTf"
+        },
+        {
+          "name": "Shiika (CV: Rie Takahashi)",
+          "url": "https://open.spotify.com/artist/2U7I2Jmb1BrunQPM4eGL6G"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 247186,
+      "name": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30fb\u30b9\u30bf\u30fc\u30c0\u30b9\u30c8",
+      "url": "https://open.spotify.com/track/6Z1BgE3iXCdpEUoTf5Z3D0"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 03",
+        "url": "https://open.spotify.com/album/2DmRzqg7VMWUbVjNzLrHt0"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "\u30a2\u30e9\u30a4\u30d6\u30d5\u30a1\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/0K3kF9hlbhV7rmjqErvpu4"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER BEST",
+        "url": "https://open.spotify.com/album/0HrUhdNjJ2YoBhUlEwNVt3"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289293,
+      "name": "\u30a2\u30e9\u30a4\u30d6\u30d5\u30a1\u30af\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/3zT0Yba9S9FtlPFRbNd2fp"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 197800,
+      "name": "\u30aa\u30ec\u30f3\u30b8\u306e\u7a7a\u306e\u4e0b",
+      "url": "https://open.spotify.com/track/5xENiNVVxw6mAFNX7Kq98U"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
+        "url": "https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
+        },
+        {
+          "name": "\u7be0\u5bae\u53ef\u6190 (CV.\u8fd1\u85e4 \u552f)",
+          "url": "https://open.spotify.com/artist/1sRDMoEgLsGqFABNV67q7z"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 300653,
+      "name": "\u30ab\u30ef\u30e9\u30ca\u30a4\u30e2\u30ce",
+      "url": "https://open.spotify.com/track/6robN2EygEzzv9V40cZrCE"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER CHALLENGE 03",
+        "url": "https://open.spotify.com/album/3BOcNeDAEEFU9Jns8HSdiw"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "Elena Shimabara (CV: Asuka Kakumoto)",
+          "url": "https://open.spotify.com/artist/6HnMvYK5iNrp6s758Omcls"
+        },
+        {
+          "name": "Kaori Sakuramori (CV: Arisa Kori)",
+          "url": "https://open.spotify.com/artist/1u7UKyQSfX3KIelFAagFMn"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 274346,
+      "name": "\u30af\u30eb\u30ea\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/25DpuYwfgFWQOasGdFRsd9"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "Iori Minase (CV: Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        },
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208960,
+      "name": "\u30b7\u30fc\u30af\u30ec\u30c3\u30c8\u30b8\u30e5\u30a8\u30eb \uff5e\u9b45\u60d1\u306e\u91d1\u525b\u77f3\uff5e",
+      "url": "https://open.spotify.com/track/5rTbdRz9rN6RsVuc30xcKK"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 06",
+        "url": "https://open.spotify.com/album/2ZZRcVg8G2U1HWNw8PxFAP"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291026,
+      "name": "\u30b8\u30e3\u30f3\u30b0\u30eb \u30d1\u30fc\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/6LfDlhyY59TjZvA8lgTZsV"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
+        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
+      },
+      "artists": [
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 290320,
+      "name": "\u30b8\u30ec\u308b\u30cf\u30fc\u30c8\u306b\u706b\u3092\u3064\u3051\u3066",
+      "url": "https://open.spotify.com/track/2WmhxxA2cnZdz74KGF1RBk"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 06",
+        "url": "https://open.spotify.com/album/5jqj1WHN5JFNEyEUcazmlI"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307040,
+      "name": "\u30b9\u30bf\u30fc\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/6cOdtYZFdDb2lsY0tq7ATm"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6"
+      },
+      "artists": [
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "\u53cc\u6d77\u4e9c\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/6aRf6AwexFXihb7EKmzbx9"
+        },
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232146,
+      "name": "\u30b9\u30da\u30fc\u30c9\u306eQ",
+      "url": "https://open.spotify.com/track/31t7Rmuha95vaNBrnw2SwP"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 10",
+        "url": "https://open.spotify.com/album/5333q2eOZHvE6dnPmSMQFa"
+      },
+      "artists": [
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 282693,
+      "name": "\u30b9\u30dd\u30c3\u30c8\u30e9\u30a4\u30c8\u30fb\u30df\u30e9\u30fc\u30e9\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/6wnFIJv7jN5FPHde7w6ANf"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION ANIMATION THE@TER \u300eRat A Tat!!!\u300f",
+        "url": "https://open.spotify.com/album/1s2GWfVfNDk453enM4jgcZ"
+      },
+      "artists": [
+        {
+          "name": "MILLIONSTARS",
+          "url": "https://open.spotify.com/artist/5dbz1ohwsTWeBm8flKjaii"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "\u30bb\u30d6\u30f3\u30ab\u30a6\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/19piUWz1Gy6isXAyhxdGUQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 09",
+        "url": "https://open.spotify.com/album/1aORtrNtFix8006Ft2iydu"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193106,
+      "name": "\u30c1\u30e7\u30fc \u5143\u6c17Show \u30a2\u30a4\u30c9\u30ebch@ng!",
+      "url": "https://open.spotify.com/track/0Dalla51NLjsYIdOCoidYI"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 12",
+        "url": "https://open.spotify.com/album/3BIw8RX5529tavuYERGlx4"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u9632\u6843\u5b50 (CV.\u6e21\u90e8\u6075\u5b50)",
+          "url": "https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 241706,
+      "name": "\u30c7\u30b3\u30ec\u30fc\u30b7\u30e7\u30f3\u30fb\u30c9\u30ea~\u30df\u30f3\u30c3",
+      "url": "https://open.spotify.com/track/2jZralvEO9VhLO1zkSMTFX"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 08",
+        "url": "https://open.spotify.com/album/3AofVLjSvyjU1Bz3fvzvL5"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "Hinata Kinoshita (CV: Nao Tamura)",
+          "url": "https://open.spotify.com/artist/6QMDBa7iuMEXMPXfvCdgkE"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u4e2d\u8c37 \u80b2 (CV.\u539f\u5d8b\u3042\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/5FB5Wm8kE5bIEOea6Mb3Dl"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 297853,
+      "name": "\u30c9\u30ea\u30fc\u30e0\u30c8\u30e9\u30d9\u30e9\u30fc",
+      "url": "https://open.spotify.com/track/3JFHVkCmYk6c3Lhh2izKXT"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 211506,
+      "name": "\u30cf\u30c3\u30d4\u30fc \u30e9\u30c3\u30ad\u30fc \u30b8\u30a7\u30c3\u30c8\u30de\u30b7\u30fc\u30f3",
+      "url": "https://open.spotify.com/track/4NdgJgaPYF2Vzz9upH1XzV"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
+        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-27",
+      "duration_ms": 294733,
+      "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6hKQeWvK5CfSBEMzsm2bFp"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271813,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30af\u30b9",
+      "url": "https://open.spotify.com/track/4FltFjDJkiqVWljtrW5u9P"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 16 \u541b\u5f69",
+        "url": "https://open.spotify.com/album/5HGLbVSNqj9HQHGGYe39No"
+      },
+      "artists": [
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        },
+        {
+          "name": "\u77e2\u5439\u53ef\u5948 (CV.\u6728\u6238\u8863\u5439)",
+          "url": "https://open.spotify.com/artist/6yoMmG15xnhZrfYXL5sPUw"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260812,
+      "name": "\u30d1\u30f3\u3068\u30d5\u30a3\u30eb\u30e0",
+      "url": "https://open.spotify.com/track/5D5FccKInfjYTGs7fozkwB"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER BOOST 01",
+        "url": "https://open.spotify.com/album/7hTVpGOyk8k5tUTnX8kjQa"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u6240 \u6075\u7f8e (CV.\u85e4\u4e95\u3086\u304d\u3088)",
+          "url": "https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223680,
+      "name": "\u30d3\u30c3\u30b0\u30d0\u30f3\u30ba\u30d0\u30ea\u30dc\u30fc!!!!!",
+      "url": "https://open.spotify.com/track/37gOl5toVCK881uykTEmFD"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277053,
+      "name": "\u30d7\u30e9\u30ea\u30cd",
+      "url": "https://open.spotify.com/track/25wc5gPeOHMgzJaF9m4pSu"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
+        "url": "https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 255480,
+      "name": "\u30de\u30a4\u30da\u30fc\u30b9 \u30de\u30a4\u30a6\u30a7\u30a4",
+      "url": "https://open.spotify.com/track/1hzR3dTlmurFJKUil153g5"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30ea\u30e9\u30b8\uff01\u30aa\u30fc\u30c7\u30a3\u30aa\u30eb\u30fc\u30e0\u98a8\u30dc\u30a4\u30b9",
+        "url": "https://open.spotify.com/album/5jnlWYBA97qDNIFiUA0ooZ"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34000,
+      "name": "\u30df\u30ea\u30e9\u30b8\uff01\u30aa\u30fc\u30c7\u30a3\u30aa\u30eb\u30fc\u30e0\u98a8\u30dc\u30a4\u30b9",
+      "url": "https://open.spotify.com/track/0PiBiiERzKCaTNbyuwIyTV"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 04",
+        "url": "https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "\u30e9\u30a4\u30a2\u30fc\u30fb\u30eb\u30fc\u30b8\u30e5",
+      "url": "https://open.spotify.com/track/2MbPiTitqFqYeajRJUq1Zp"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER BOOST 03",
+        "url": "https://open.spotify.com/album/03DXJlSB7xmXBOMcvjcPJQ"
+      },
+      "artists": [
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "\u771f\u58c1\u745e\u5e0c (CV.\u963f\u90e8\u91cc\u679c)",
+          "url": "https://open.spotify.com/artist/5XNU12kkxkbZHlBZcteHIg"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255800,
+      "name": "\u30e9\u30b9\u30c8\u30fb\u30a2\u30af\u30c8\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/7aFUFcStteLnHV1nWxq871"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 03 Xs",
+        "url": "https://open.spotify.com/album/6bRm5kHYUxrQIsLhVUn5oX"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "Iori Minase (CV: Rie Kugimiya)",
+          "url": "https://open.spotify.com/artist/6B6buazGVRebZ48YqRHnqd"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 253333,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30d5\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1O0Pn9LLqFfbPfVaRD0Dpi"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 (Brand New Ver.)",
+        "url": "https://open.spotify.com/album/5M761lw0DidVCkXofyhDu5"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 301573,
+      "name": "\u30ea\u30d5\u30ec\u30a4\u30f3\u30ad\u30b9 - Brand New Ver.",
+      "url": "https://open.spotify.com/track/6qik4NVB7AHXb6MyeWafRC"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER VARIETY 03",
+        "url": "https://open.spotify.com/album/0a70eKJrq9frCdEubaW9eR"
+      },
+      "artists": [
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u6728\u4e0b\u3072\u306a\u305f (CV.\u7530\u6751\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/1iruVsncWyvlBN5FdPdHmZ"
+        },
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204333,
+      "name": "\u30ea\u30d9\u30ec\u30a4\u30b7\u30f3\u30b0/\u30a2\u30ed\u30f3 -LiberaSing Along-",
+      "url": "https://open.spotify.com/track/0H5953saLT6eW8tWfY9PPu"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 02",
+        "url": "https://open.spotify.com/album/1FepCERIBwbpDzoVq8Rs2m"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276160,
+      "name": "\u30ed\u30b1\u30c3\u30c8\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/1e0DHXLeziWJjICQSapDYx"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 01",
+        "url": "https://open.spotify.com/album/0bmOQ5RLmB1JdnZwrPGEVt"
+      },
+      "artists": [
+        {
+          "name": "\u5468\u9632\u6843\u5b50 (CV.\u6e21\u90e8\u6075\u5b50)",
+          "url": "https://open.spotify.com/artist/5sRdcdaQlrP3woFfzv0ler"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251280,
+      "name": "\u30ed\u30fc\u30ea\u30f3\u30b0 \u3055\u3093\u304b\u304f",
+      "url": "https://open.spotify.com/track/2dmvI4QJlcJXMcBywFpzDW"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER THE@TER ACTIVITIES 02",
+        "url": "https://open.spotify.com/album/6MDT9YSlchWi0ARzpeGaIZ"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u6728\u4e0b\u3072\u306a\u305f (CV.\u7530\u6751\u5948\u592e)",
+          "url": "https://open.spotify.com/artist/1iruVsncWyvlBN5FdPdHmZ"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "\u4fe0\u6c17\u4e71\u821e",
+      "url": "https://open.spotify.com/track/0ErE3PUHS4SUL9MvSqRqe1"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 06",
+        "url": "https://open.spotify.com/album/5cr2RbD3UJgDlmD7XJmgRf"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u5c3e\u7f8e\u4e5f (CV.\u6850\u8c37\u8776\u3005)",
+          "url": "https://open.spotify.com/artist/0fwvnLlyJL3x3Se5lN6xoC"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301093,
+      "name": "\u521d\u604b\u30d0\u30bf\u30d5\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1oruUGPhDKQpgrJSDTrQub"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 04",
+        "url": "https://open.spotify.com/album/6J11xHMzVurnh6787kuCEc"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 317706,
+      "name": "\u541b\u3060\u3051\u306e\u6b20\u7247",
+      "url": "https://open.spotify.com/track/2PsRuVjZrJYkRCQwJhjG2Z"
+    },
+    {
+      "album": {
+        "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
+        "url": "https://open.spotify.com/album/2tVehWE9N04E1thhRXZoAo"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347093,
+      "name": "\u541b\u3068\u306e\u660e\u65e5\u3092\u9858\u3046\u304b\u3089",
+      "url": "https://open.spotify.com/track/2jExKLdczc5nUmZhqyIH9L"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 10 \u9583\u5149 HANABI\u56e3",
+        "url": "https://open.spotify.com/album/3yMOG8hVXOI4DRrUixNXBE"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u6a2a\u5c71\u5948\u7dd2 (CV.\u6e21\u90e8\u512a\u8863)",
+          "url": "https://open.spotify.com/artist/2j8owAuskSnjiYPbHXMxED"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262000,
+      "name": "\u54b2\u304f\u306f\u6d6e\u4e16\u306e\u541b\u82b1\u706b",
+      "url": "https://open.spotify.com/track/7bShOIQ5ls3hF26cOsE12J"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 07",
+        "url": "https://open.spotify.com/album/5dCQJlbaEZcvVCsm2XGPxe"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 269013,
+      "name": "\u5606\u304d\u306eFRACTION",
+      "url": "https://open.spotify.com/track/0flUkjZ2aVnp7uyXTsZlXw"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 02 Chrono-Lexica",
+        "url": "https://open.spotify.com/album/0n1EdkiGkULdbdAbcj3FI3"
+      },
+      "artists": [
+        {
+          "name": "\u4e03\u5c3e\u767e\u5408\u5b50 (CV.\u4f0a\u85e4\u7f8e\u6765)",
+          "url": "https://open.spotify.com/artist/47xiXXUX21xJD21A8Uz6ZE"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/44gxLW0GBoBdduoDSzUOBZ"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "\u671b\u6708\u674f\u5948 (CV.\u590f\u5ddd\u690e\u83dc)",
+          "url": "https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs"
+        },
+        {
+          "name": "Mizuki Makabe (CV: Rika Abe)",
+          "url": "https://open.spotify.com/artist/3QaFwuflGw1JPBsKi5IYRE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 333426,
+      "name": "\u56da\u308f\u308c\u306eTeaTime",
+      "url": "https://open.spotify.com/track/3nZwjmVswCQ5cIeC05DGEM"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER FORWARD 02 BlueMoon Harmony",
+        "url": "https://open.spotify.com/album/5M22ADhFwe6Hhe5Xu0JGLi"
+      },
+      "artists": [
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 262826,
+      "name": "\u5f85\u3061\u307c\u3046\u3051\u306eLacrima",
+      "url": "https://open.spotify.com/track/1mKdS3XHTWTHOksIS3r4it"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 200600,
+      "name": "\u604b\u306eLesson\u521d\u7d1a\u7de8",
+      "url": "https://open.spotify.com/track/2MFXCcrr20fqbLzPnrCrIp"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 11",
+        "url": "https://open.spotify.com/album/7GUi4PSStlWpuhHwwCl2jP"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u539f\u30a8\u30ec\u30ca (CV.\u89d2\u5143\u660e\u65e5\u9999)",
+          "url": "https://open.spotify.com/artist/5qK6C6COeVNyWWCiaBBJ12"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 253000,
+      "name": "\u60f3\u3044\u306fCarnaval",
+      "url": "https://open.spotify.com/track/1T7BcFxhfnPgIcFQRcFI6W"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
+        "url": "https://open.spotify.com/album/00KZ35DyzALroEalMDTVmh"
+      },
+      "artists": [
+        {
+          "name": "Elena Shimabara (CV: Asuka Kakumoto)",
+          "url": "https://open.spotify.com/artist/6HnMvYK5iNrp6s758Omcls"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 250586,
+      "name": "\u60f3\u3044\u51fa\u306f\u30af\u30ea\u30a2\u30b9\u30ab\u30a4",
+      "url": "https://open.spotify.com/track/3mV5VrJ3nKzpCYSt3XKJbF"
+    },
+    {
+      "album": {
+        "name": "\u6625\u65e5\u672a\u6765\u3001\u6700\u4e0a\u9759\u9999\u3001\u7bb1\u5d0e\u661f\u68a8\u82b1\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/699LKoWkFLt9QyiUNhX2r4"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29900,
+      "name": "\u6625\u65e5\u672a\u6765\u3001\u6700\u4e0a\u9759\u9999\u3001\u7bb1\u5d0e\u661f\u68a8\u82b1\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+      "url": "https://open.spotify.com/track/638zP00dm0b9PnXO92gUDY"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER VARIETY 03",
+        "url": "https://open.spotify.com/album/0a70eKJrq9frCdEubaW9eR"
+      },
+      "artists": [
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        },
+        {
+          "name": "Makoto Kikuchi (CV: Hiromi Hirata)",
+          "url": "https://open.spotify.com/artist/0BFGQalWMJTIDXhAeqcCYv"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251293,
+      "name": "\u6625\u98a8\u6e80\u5e06\u30b9\u30bf\u30fc\u30c6\u30a3\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5CPcb3Z8DhlTrVDllid7Zq"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 15 Jelly PoP Beans",
+        "url": "https://open.spotify.com/album/0aF69rLzzjsSOJzErPvdAQ"
+      },
+      "artists": [
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        },
+        {
+          "name": "\u821e\u6d5c \u6b69 (CV.\u6238\u7530\u3081\u3050\u307f)",
+          "url": "https://open.spotify.com/artist/76qqdUhExPfWSK2pafIELF"
+        },
+        {
+          "name": "\u6c38\u5409 \u6634 (CV.\u6589\u85e4\u4f51\u572d)",
+          "url": "https://open.spotify.com/artist/12BeMVM21khHV571rElt0X"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 261773,
+      "name": "\u6708\u66dc\u65e5\u306e\u30af\u30ea\u30fc\u30e0\u30bd\u30fc\u30c0",
+      "url": "https://open.spotify.com/track/2uAc97qOSX92zqmO2RZozX"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 02",
+        "url": "https://open.spotify.com/album/2GToGpK197lsdbBkoj41Zt"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-24",
+      "duration_ms": 283760,
+      "name": "\u672a\u6765\u98db\u884c",
+      "url": "https://open.spotify.com/track/3th3EyA5lCdhsa1LxLchyi"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER HARMONY 08",
+        "url": "https://open.spotify.com/album/3AofVLjSvyjU1Bz3fvzvL5"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad8\u6a4b\u672a\u5948\u7f8e)",
+          "url": "https://open.spotify.com/artist/4LeAeQKdaf4Muyfu7ceSMS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292360,
+      "name": "\u6c34\u4e2d\u30ad\u30e3\u30f3\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/4uOjCce97QtAyNv88ZwE2M"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u5bfa\u5ddd\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/2yaHlKyuUEbiIZyWO2klOV"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255933,
+      "name": "\u6d41\u661f\u7fa4",
+      "url": "https://open.spotify.com/track/5p9K3smE2URccPO3PIr32x"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER DREAMERS 04",
+        "url": "https://open.spotify.com/album/6Mb1y1zYO6iaCNDe9TxAPg"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u5439 \u7ffc (CV.Machico)",
+          "url": "https://open.spotify.com/artist/4xjWa7X3thhXaePyQtPBG1"
+        },
+        {
+          "name": "\u6211\u90a3\u8987 \u97ff (CV.\u6cbc\u5009\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248466,
+      "name": "\u6df1\u5c64\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/52lcYOee3SaKuEwOd4XkCv"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 15 chicAAmor",
+        "url": "https://open.spotify.com/album/2EQQNrat2zwQMfwD67OycQ"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u4e8c\u968e\u5802\u5343\u9db4 (CV.\u91ce\u6751\u9999\u83dc\u5b50)",
+          "url": "https://open.spotify.com/artist/4zCdHJxNsqIFe1IS0KDDFe"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "\u6df1\u7d05\u306e\u30d1\u30b7\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/2cWMgAKxXnZajAfMJrb29N"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 03",
+        "url": "https://open.spotify.com/album/70sYVHFzCA8y12VBdQaHax"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u7af9\u7f8e\u5948\u5b50 (CV.\u5927\u95a2\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/1MHpk1EUgDP1vwPORrBagq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267560,
+      "name": "\u6e80\u8179\u81f3\u6975\u30d5\u30eb\u30b3\u30a9\u30b9",
+      "url": "https://open.spotify.com/track/74iCadn1JR5DB4ZtAwvXXQ"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 01",
+        "url": "https://open.spotify.com/album/0bmOQ5RLmB1JdnZwrPGEVt"
+      },
+      "artists": [
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259532,
+      "name": "\u7460\u7483\u8272\u91d1\u9b5a\u3068\u82b1\u83d6\u84b2",
+      "url": "https://open.spotify.com/track/0RS3QsOulsA5YE0lMdcc2M"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv"
+      },
+      "artists": [
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        },
+        {
+          "name": "\u4e09\u6d66\u3042\u305a\u3055 (CV.\u305f\u304b\u306f\u3057\u667a\u79cb)",
+          "url": "https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "Roco (CV: Atsuki Nakamura)",
+          "url": "https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 240706,
+      "name": "\u7523\u58f0\u3068\u30af\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa"
+    },
+    {
+      "album": {
+        "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+        "url": "https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u6751\u536f\u6708 (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u6708\u5ca1\u604b\u9418 (CV.\u7912\u90e8\u82b1\u51dc)",
+          "url": "https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA"
+        },
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        },
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u65e5\u91ce\u4e0b\u82b1\u5e06 (CV.\u6961\u4e95\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 316213,
+      "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+      "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER WAVE 06 \u82b1\u54b2\u591c",
+        "url": "https://open.spotify.com/album/4to4QXWpdanY8GmKkcKX8H"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30df\u30ea\u30fc \u30b9\u30c1\u30e5\u30a2\u30fc\u30c8 (CV.\u90c1\u539f\u3086\u3046)",
+          "url": "https://open.spotify.com/artist/6MHNAMXLPTkrH839zolf3K"
+        },
+        {
+          "name": "\u767d\u77f3 \u7d2c (CV.\u5357 \u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI"
+        },
+        {
+          "name": "\u5929\u7a7a\u6a4b\u670b\u82b1 (CV.\u5c0f\u5ca9\u4e95\u3053\u3068\u308a)",
+          "url": "https://open.spotify.com/artist/5yvZ8R7mFGLF2j7DkiAiIU"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299453,
+      "name": "\u767e\u82b1\u306f\u6708\u4e0b\u306b\u6563\u308a\u306c\u308b\u3092",
+      "url": "https://open.spotify.com/track/1ae8FD9T0y8sHy6yqmuPgT"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/2GmyOoF9xIs414VXoGQ3zN"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/2zyAqCozrCQiUWAv2JmoZw"
+        },
+        {
+          "name": "\u8429\u539f\u96ea\u6b69 (CV.\u6d45\u5009\u674f\u7f8e)",
+          "url": "https://open.spotify.com/artist/6lisIikrxadnAUePgyzvdh"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u53cc\u6d77\u771f\u7f8e (CV.\u4e0b\u7530\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/3EwsMOZQY62mg9bEhIFY24"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "\u771f\u590f\u306e\u30c0\u30a4\u30e4",
+      "url": "https://open.spotify.com/track/6u83CfbTsE2iecKXxKeLOG"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 10",
+        "url": "https://open.spotify.com/album/5Y49hqNoAuT0V33DeyHUnj"
+      },
+      "artists": [
+        {
+          "name": "Takane Shijou (CV: Yumi Hara)",
+          "url": "https://open.spotify.com/artist/0jByAMysntS3sv6vTCXNJl"
+        },
+        {
+          "name": "Umi Kousaka (CV: Reina Ueda)",
+          "url": "https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 287293,
+      "name": "\u77b3\u306e\u4e2d\u306e\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0eH3a5sDLfG8eXsdQIggQF"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER SEASON",
+        "url": "https://open.spotify.com/album/64joBVtf8tyQcjA4OqKmKZ"
+      },
+      "artists": [
+        {
+          "name": "\u798f\u7530\u306e\u308a\u5b50 (CV.\u6d5c\u5d0e\u5948\u3005)",
+          "url": "https://open.spotify.com/artist/537KFiGRODn7oSYRq0BGPo"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        },
+        {
+          "name": "\u5982\u6708\u5343\u65e9 (CV.\u4eca\u4e95\u9ebb\u7f8e)",
+          "url": "https://open.spotify.com/artist/7HXMd79Kiz7GweUt79us1g"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u9ad8\u5c71\u7d17\u4ee3\u5b50 (CV.\u99d2\u5f62\u53cb\u68a8)",
+          "url": "https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 227893,
+      "name": "\u7d19\u30fb\u5fc3\u30fb\u30da\u30f3\u30fb\u5fc3 - SHISHINPENSHIN -",
+      "url": "https://open.spotify.com/track/2Utvk0X0sJPcrAltf1m5Ya"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 03",
+        "url": "https://open.spotify.com/album/4PRL12x0kNJeuWfzfBURU6"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 250493,
+      "name": "\u7d20\u6575\u306a\u30ad\u30bb\u30ad",
+      "url": "https://open.spotify.com/track/62bsYbqAdghw5FLcIwWjeM"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 09 4Luxury",
+        "url": "https://open.spotify.com/album/4hIm4rGzPU1YbQ88jmwirA"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5b88\u6b4c\u7e54 (CV.\u9999\u91cc\u6709\u4f50)",
+          "url": "https://open.spotify.com/artist/3THHXLEZAhQ02EPLTJZ0Ii"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u5317\u4e0a\u9e97\u82b1 (CV.\u5e73\u5c71\u7b11\u7f8e)",
+          "url": "https://open.spotify.com/artist/0WQCcsrhQpabovYtk8fRoE"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252906,
+      "name": "\u82b1\u3056\u304b\u308aWeekend",
+      "url": "https://open.spotify.com/track/0R3Qg0gGEq2f1xfHCllnFq"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 06 Cleasky",
+        "url": "https://open.spotify.com/album/00KZ35DyzALroEalMDTVmh"
+      },
+      "artists": [
+        {
+          "name": "Elena Shimabara (CV: Asuka Kakumoto)",
+          "url": "https://open.spotify.com/artist/6HnMvYK5iNrp6s758Omcls"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 305120,
+      "name": "\u8679\u8272letters",
+      "url": "https://open.spotify.com/track/4uqBeio8KU8GgiI7cBpf6X"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05",
+        "url": "https://open.spotify.com/album/4LtWSOGZrbUE0qS0GVgVPw"
+      },
+      "artists": [
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 215626,
+      "name": "\u88cf\u8868\u6df1\u5c64\u5fc3\u7406",
+      "url": "https://open.spotify.com/track/0zP8fZMB0LgFYMJPZKGHla"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER LIVE THE@TER PERFORMANCE 06",
+        "url": "https://open.spotify.com/album/30Lzd3PMCzEzF5sE12cbxi"
+      },
+      "artists": [
+        {
+          "name": "\u661f\u4e95\u7f8e\u5e0c (CV.\u9577\u8c37\u5ddd\u660e\u5b50)",
+          "url": "https://open.spotify.com/artist/1G5EAh0pP7H3wX5zOqFRNi"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 249268,
+      "name": "\u8ffd\u61b6\u306e\u30b5\u30f3\u30c9\u30b0\u30e9\u30b9",
+      "url": "https://open.spotify.com/track/0W0fe3R67arSnK3dJkeDi9"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 04",
+        "url": "https://open.spotify.com/album/2l4xAEwb0RUwI9waodLEwM"
+      },
+      "artists": [
+        {
+          "name": "\u767e\u702c\u8389\u7dd2 (CV.\u5c71\u53e3\u7acb\u82b1\u5b50)",
+          "url": "https://open.spotify.com/artist/0TdlTDm9kd5UbOXSqNV3KP"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 249306,
+      "name": "\u9031\u672b\u3060\u3051\u306e\u30cf\u30fc\u30ec\u30af\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/5eiVhNY1hfrj5JZOa9xGJb"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER MILLION THE@TER GENERATION 12 D/Zeal",
+        "url": "https://open.spotify.com/album/18rvG8u4mjj3BV0g3Fwm17"
+      },
+      "artists": [
+        {
+          "name": "\u30b8\u30e5\u30ea\u30a2 (CV.\u611b\u7f8e)",
+          "url": "https://open.spotify.com/artist/0MaPHKNH7pxedYwcfk1DB9"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300413,
+      "name": "\u991e\u306e\u9ce5",
+      "url": "https://open.spotify.com/track/0wAaSofHTEBrvwP9FwGXBb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYF9TpSdRtkF"
 }

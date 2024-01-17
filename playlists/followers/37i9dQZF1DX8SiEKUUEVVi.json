@@ -1,735 +1,765 @@
 {
-  "2021-12-25": 5028,
-  "2021-12-26": 5027,
-  "2021-12-27": 5028,
-  "2021-12-28": 5028,
-  "2021-12-29": 5028,
-  "2021-12-30": 5028,
-  "2021-12-31": 5027,
-  "2022-01-01": 5027,
-  "2022-01-02": 5027,
-  "2022-01-03": 5027,
-  "2022-01-04": 5027,
-  "2022-01-05": 5027,
-  "2022-01-06": 5027,
-  "2022-01-07": 5026,
-  "2022-01-08": 5026,
-  "2022-01-09": 5026,
-  "2022-01-10": 5024,
-  "2022-01-11": 5023,
-  "2022-01-12": 5022,
-  "2022-01-13": 5022,
-  "2022-01-14": 5022,
-  "2022-01-15": 5022,
-  "2022-01-16": 5022,
-  "2022-01-17": 5022,
-  "2022-01-18": 5022,
-  "2022-01-19": 5022,
-  "2022-01-20": 5021,
-  "2022-01-21": 5021,
-  "2022-01-22": 5021,
-  "2022-01-23": 5021,
-  "2022-01-24": 5020,
-  "2022-01-25": 5019,
-  "2022-01-26": 5019,
-  "2022-01-27": 5018,
-  "2022-01-28": 5017,
-  "2022-01-29": 5017,
-  "2022-01-30": 5017,
-  "2022-01-31": 5017,
-  "2022-02-01": 5017,
-  "2022-02-02": 5017,
-  "2022-02-03": 5017,
-  "2022-02-04": 5016,
-  "2022-02-05": 5016,
-  "2022-02-06": 5016,
-  "2022-02-07": 5016,
-  "2022-02-08": 5016,
-  "2022-02-09": 5016,
-  "2022-02-10": 5016,
-  "2022-02-11": 5015,
-  "2022-02-12": 5015,
-  "2022-02-13": 5015,
-  "2022-02-14": 5015,
-  "2022-02-15": 5013,
-  "2022-02-16": 5012,
-  "2022-02-17": 5011,
-  "2022-02-18": 5011,
-  "2022-02-19": 5010,
-  "2022-02-20": 5010,
-  "2022-02-21": 5010,
-  "2022-02-22": 5010,
-  "2022-02-23": 5008,
-  "2022-02-24": 5008,
-  "2022-02-25": 5008,
-  "2022-02-26": 5007,
-  "2022-02-27": 5006,
-  "2022-02-28": 5006,
-  "2022-03-01": 5005,
-  "2022-03-02": 5004,
-  "2022-03-03": 5004,
-  "2022-03-04": 5003,
-  "2022-03-05": 5003,
-  "2022-03-06": 5003,
-  "2022-03-07": 5003,
-  "2022-03-08": 5003,
-  "2022-03-09": 5003,
-  "2022-03-10": 5002,
-  "2022-03-11": 5002,
-  "2022-03-12": 5002,
-  "2022-03-13": 5001,
-  "2022-03-14": 5001,
-  "2022-03-15": 5001,
-  "2022-03-16": 5001,
-  "2022-03-17": 5001,
-  "2022-03-18": 5001,
-  "2022-03-19": 5001,
-  "2022-03-20": 5001,
-  "2022-03-21": 5000,
-  "2022-03-22": 5000,
-  "2022-03-23": 5000,
-  "2022-03-24": 5000,
-  "2022-03-25": 5000,
-  "2022-03-26": 5000,
-  "2022-03-27": 5000,
-  "2022-03-28": 5000,
-  "2022-03-30": 5000,
-  "2022-03-31": 4999,
-  "2022-04-01": 4999,
-  "2022-04-02": 4999,
-  "2022-04-03": 4999,
-  "2022-04-04": 4999,
-  "2022-04-05": 4999,
-  "2022-04-06": 4999,
-  "2022-04-07": 4999,
-  "2022-04-08": 4999,
-  "2022-04-09": 4999,
-  "2022-04-10": 4999,
-  "2022-04-11": 4998,
-  "2022-04-12": 4998,
-  "2022-04-13": 4998,
-  "2022-04-14": 4998,
-  "2022-04-15": 4998,
-  "2022-04-16": 4998,
-  "2022-04-17": 4998,
-  "2022-04-18": 4998,
-  "2022-04-19": 4998,
-  "2022-04-20": 4998,
-  "2022-04-21": 4998,
-  "2022-04-22": 4998,
-  "2022-04-23": 4998,
-  "2022-04-24": 4998,
-  "2022-04-25": 4998,
-  "2022-04-26": 4996,
-  "2022-04-27": 4995,
-  "2022-04-28": 4995,
-  "2022-04-29": 4994,
-  "2022-04-30": 4994,
-  "2022-05-01": 4995,
-  "2022-05-02": 4995,
-  "2022-05-03": 4995,
-  "2022-05-04": 4995,
-  "2022-05-05": 4994,
-  "2022-05-06": 4994,
-  "2022-05-07": 4994,
-  "2022-05-08": 4994,
-  "2022-05-09": 4994,
-  "2022-05-10": 4994,
-  "2022-05-11": 4994,
-  "2022-05-12": 4994,
-  "2022-05-13": 4994,
-  "2022-05-14": 4994,
-  "2022-05-15": 4994,
-  "2022-05-16": 4994,
-  "2022-05-17": 4994,
-  "2022-05-18": 4994,
-  "2022-05-19": 4994,
-  "2022-05-20": 4994,
-  "2022-05-21": 4994,
-  "2022-05-22": 4994,
-  "2022-05-23": 4994,
-  "2022-05-24": 4994,
-  "2022-05-25": 4994,
-  "2022-05-26": 4994,
-  "2022-05-27": 4993,
-  "2022-05-28": 4992,
-  "2022-05-29": 4992,
-  "2022-05-30": 4992,
-  "2022-05-31": 4991,
-  "2022-06-01": 4990,
-  "2022-06-02": 4990,
-  "2022-06-03": 4990,
-  "2022-06-04": 4990,
-  "2022-06-05": 4990,
-  "2022-06-06": 4988,
-  "2022-06-07": 4988,
-  "2022-06-08": 4988,
-  "2022-06-09": 4987,
-  "2022-06-10": 4987,
-  "2022-06-11": 4987,
-  "2022-06-12": 4988,
-  "2022-06-13": 4988,
-  "2022-06-14": 4988,
-  "2022-06-15": 4988,
-  "2022-06-16": 4987,
-  "2022-06-17": 4987,
-  "2022-06-18": 4987,
-  "2022-06-19": 4987,
-  "2022-06-20": 4987,
-  "2022-06-21": 4987,
-  "2022-06-22": 4986,
-  "2022-06-23": 4986,
-  "2022-06-24": 4986,
-  "2022-06-25": 4986,
-  "2022-06-26": 4986,
-  "2022-06-27": 4986,
-  "2022-06-28": 4986,
-  "2022-06-29": 4986,
-  "2022-06-30": 4986,
-  "2022-07-01": 4986,
-  "2022-07-02": 4986,
-  "2022-07-03": 4986,
-  "2022-07-04": 4986,
-  "2022-07-05": 4985,
-  "2022-07-06": 4985,
-  "2022-07-07": 4985,
-  "2022-07-08": 4985,
-  "2022-07-09": 4983,
-  "2022-07-10": 4983,
-  "2022-07-11": 4982,
-  "2022-07-12": 4982,
-  "2022-07-13": 4982,
-  "2022-07-14": 4982,
-  "2022-07-15": 4982,
-  "2022-07-16": 4984,
-  "2022-07-17": 4984,
-  "2022-07-18": 4984,
-  "2022-07-19": 4983,
-  "2022-07-20": 4983,
-  "2022-07-21": 4983,
-  "2022-07-22": 4983,
-  "2022-07-23": 4983,
-  "2022-07-24": 4982,
-  "2022-07-25": 4982,
-  "2022-07-26": 4982,
-  "2022-07-27": 4982,
-  "2022-07-28": 4982,
-  "2022-07-29": 4982,
-  "2022-07-30": 4982,
-  "2022-07-31": 4982,
-  "2022-08-01": 4982,
-  "2022-08-02": 4982,
-  "2022-08-03": 4982,
-  "2022-08-04": 4982,
-  "2022-08-05": 4983,
-  "2022-08-06": 4983,
-  "2022-08-07": 4983,
-  "2022-08-08": 4983,
-  "2022-08-09": 4983,
-  "2022-08-10": 4982,
-  "2022-08-11": 4982,
-  "2022-08-12": 4982,
-  "2022-08-13": 4982,
-  "2022-08-14": 4982,
-  "2022-08-15": 4982,
-  "2022-08-16": 4981,
-  "2022-08-17": 4981,
-  "2022-08-18": 4981,
-  "2022-08-19": 4981,
-  "2022-08-20": 4980,
-  "2022-08-21": 4980,
-  "2022-08-22": 4980,
-  "2022-08-23": 4980,
-  "2022-08-24": 4980,
-  "2022-08-25": 4978,
-  "2022-08-26": 4978,
-  "2022-08-27": 4979,
-  "2022-08-28": 4979,
-  "2022-08-29": 4979,
-  "2022-08-30": 4979,
-  "2022-08-31": 4980,
-  "2022-09-01": 4979,
-  "2022-09-02": 4979,
-  "2022-09-03": 4978,
-  "2022-09-04": 4978,
-  "2022-09-05": 4978,
-  "2022-09-06": 4978,
-  "2022-09-07": 4977,
-  "2022-09-09": 4977,
-  "2022-09-10": 4977,
-  "2022-09-11": 4978,
-  "2022-09-12": 4978,
-  "2022-09-13": 4978,
-  "2022-09-15": 4978,
-  "2022-09-16": 4977,
-  "2022-09-17": 4977,
-  "2022-09-18": 4977,
-  "2022-09-19": 4976,
-  "2022-09-20": 4976,
-  "2022-09-21": 4976,
-  "2022-09-22": 4976,
-  "2022-09-23": 4977,
-  "2022-09-24": 4977,
-  "2022-09-25": 4977,
-  "2022-09-26": 4977,
-  "2022-09-27": 4977,
-  "2022-09-28": 4977,
-  "2022-09-29": 4978,
-  "2022-09-30": 4978,
-  "2022-10-01": 4978,
-  "2022-10-02": 4978,
-  "2022-10-03": 4979,
-  "2022-10-04": 4979,
-  "2022-10-05": 4979,
-  "2022-10-06": 4979,
-  "2022-10-07": 4979,
-  "2022-10-08": 4978,
-  "2022-10-09": 4978,
-  "2022-10-10": 4978,
-  "2022-10-11": 4978,
-  "2022-10-12": 4978,
-  "2022-10-13": 4978,
-  "2022-10-14": 4976,
-  "2022-10-15": 4976,
-  "2022-10-16": 4976,
-  "2022-10-17": 4976,
-  "2022-10-18": 4976,
-  "2022-10-19": 4975,
-  "2022-10-20": 4975,
-  "2022-10-21": 4975,
-  "2022-10-22": 4975,
-  "2022-10-23": 4975,
-  "2022-10-24": 4975,
-  "2022-10-25": 4975,
-  "2022-10-26": 4975,
-  "2022-10-27": 4975,
-  "2022-10-28": 4975,
-  "2022-10-29": 4975,
-  "2022-10-30": 4975,
-  "2022-10-31": 4975,
-  "2022-11-01": 4974,
-  "2022-11-02": 4976,
-  "2022-11-03": 4976,
-  "2022-11-04": 4976,
-  "2022-11-05": 4976,
-  "2022-11-06": 4976,
-  "2022-11-07": 4976,
-  "2022-11-08": 4977,
-  "2022-11-09": 4976,
-  "2022-11-10": 4977,
-  "2022-11-11": 4979,
-  "2022-11-12": 4979,
-  "2022-11-13": 4979,
-  "2022-11-14": 4979,
-  "2022-11-15": 4978,
-  "2022-11-16": 4978,
-  "2022-11-17": 4978,
-  "2022-11-18": 4978,
-  "2022-11-19": 4979,
-  "2022-11-20": 4979,
-  "2022-11-21": 4978,
-  "2022-11-22": 4977,
-  "2022-11-23": 4977,
-  "2022-11-24": 4977,
-  "2022-11-25": 4977,
-  "2022-11-26": 4977,
-  "2022-11-27": 4976,
-  "2022-11-28": 4975,
-  "2022-11-29": 4975,
-  "2022-11-30": 4975,
-  "2022-12-01": 4974,
-  "2022-12-02": 4974,
-  "2022-12-03": 4972,
-  "2022-12-04": 4971,
-  "2022-12-05": 4971,
-  "2022-12-06": 4971,
-  "2022-12-07": 4971,
-  "2022-12-08": 4971,
-  "2022-12-09": 4971,
-  "2022-12-10": 4971,
-  "2022-12-11": 4971,
-  "2022-12-12": 4971,
-  "2022-12-13": 4971,
-  "2022-12-14": 4970,
-  "2022-12-15": 4969,
-  "2022-12-16": 4969,
-  "2022-12-17": 4969,
-  "2022-12-18": 4969,
-  "2022-12-19": 4969,
-  "2022-12-20": 4968,
-  "2022-12-21": 4968,
-  "2022-12-22": 4967,
-  "2022-12-24": 4967,
-  "2022-12-25": 4967,
-  "2022-12-26": 4967,
-  "2022-12-27": 4967,
-  "2022-12-28": 4967,
-  "2022-12-29": 4967,
-  "2022-12-30": 4967,
-  "2022-12-31": 4967,
-  "2023-01-01": 4967,
-  "2023-01-02": 4966,
-  "2023-01-03": 4966,
-  "2023-01-04": 4966,
-  "2023-01-05": 4966,
-  "2023-01-06": 4966,
-  "2023-01-07": 4966,
-  "2023-01-08": 4966,
-  "2023-01-09": 4966,
-  "2023-01-10": 4966,
-  "2023-01-11": 4965,
-  "2023-01-12": 4966,
-  "2023-01-13": 4966,
-  "2023-01-14": 4966,
-  "2023-01-15": 4966,
-  "2023-01-16": 4966,
-  "2023-01-17": 4966,
-  "2023-01-18": 4966,
-  "2023-01-19": 4966,
-  "2023-01-20": 4964,
-  "2023-01-21": 4963,
-  "2023-01-22": 4963,
-  "2023-01-23": 4963,
-  "2023-01-24": 4963,
-  "2023-01-25": 4962,
-  "2023-01-26": 4962,
-  "2023-01-27": 4962,
-  "2023-01-28": 4962,
-  "2023-01-29": 4962,
-  "2023-01-30": 4963,
-  "2023-01-31": 4963,
-  "2023-02-01": 4962,
-  "2023-02-02": 4962,
-  "2023-02-03": 4962,
-  "2023-02-04": 4961,
-  "2023-02-05": 4961,
-  "2023-02-06": 4961,
-  "2023-02-07": 4960,
-  "2023-02-08": 4960,
-  "2023-02-09": 4960,
-  "2023-02-10": 4960,
-  "2023-02-11": 4960,
-  "2023-02-12": 4960,
-  "2023-02-13": 4960,
-  "2023-02-14": 4960,
-  "2023-02-15": 4959,
-  "2023-02-16": 4959,
-  "2023-02-17": 4959,
-  "2023-02-18": 4959,
-  "2023-02-19": 4959,
-  "2023-02-20": 4959,
-  "2023-02-21": 4959,
-  "2023-02-22": 4959,
-  "2023-02-23": 4958,
-  "2023-02-24": 4957,
-  "2023-02-25": 4957,
-  "2023-02-26": 4957,
-  "2023-02-27": 4957,
-  "2023-02-28": 4957,
-  "2023-03-01": 4958,
-  "2023-03-02": 4958,
-  "2023-03-03": 4958,
-  "2023-03-04": 4958,
-  "2023-03-05": 4958,
-  "2023-03-06": 4958,
-  "2023-03-07": 4958,
-  "2023-03-08": 4958,
-  "2023-03-09": 4958,
-  "2023-03-10": 4959,
-  "2023-03-11": 4959,
-  "2023-03-12": 4959,
-  "2023-03-13": 4959,
-  "2023-03-14": 4959,
-  "2023-03-15": 4959,
-  "2023-03-16": 4959,
-  "2023-03-17": 4959,
-  "2023-03-18": 4960,
-  "2023-03-19": 4959,
-  "2023-03-20": 4959,
-  "2023-03-21": 4958,
-  "2023-03-22": 4958,
-  "2023-03-23": 4958,
-  "2023-03-24": 4958,
-  "2023-03-25": 4958,
-  "2023-03-26": 4958,
-  "2023-03-27": 4958,
-  "2023-03-28": 4958,
-  "2023-03-29": 4958,
-  "2023-03-30": 4958,
-  "2023-03-31": 4958,
-  "2023-04-01": 4958,
-  "2023-04-02": 4958,
-  "2023-04-03": 4958,
-  "2023-04-04": 4958,
-  "2023-04-05": 4958,
-  "2023-04-06": 4958,
-  "2023-04-07": 4958,
-  "2023-04-09": 4957,
-  "2023-04-10": 4957,
-  "2023-04-11": 4957,
-  "2023-04-12": 4957,
-  "2023-04-13": 4957,
-  "2023-04-14": 4957,
-  "2023-04-15": 4957,
-  "2023-04-16": 4956,
-  "2023-04-17": 4956,
-  "2023-04-18": 4955,
-  "2023-04-19": 4955,
-  "2023-04-20": 4954,
-  "2023-04-21": 4954,
-  "2023-04-22": 4954,
-  "2023-04-23": 4954,
-  "2023-04-24": 4954,
-  "2023-04-25": 4954,
-  "2023-04-26": 4954,
-  "2023-04-27": 4954,
-  "2023-04-28": 4954,
-  "2023-04-29": 4953,
-  "2023-04-30": 4954,
-  "2023-05-01": 4954,
-  "2023-05-02": 4955,
-  "2023-05-03": 4955,
-  "2023-05-04": 4954,
-  "2023-05-05": 4954,
-  "2023-05-06": 4954,
-  "2023-05-07": 4954,
-  "2023-05-08": 4954,
-  "2023-05-09": 4954,
-  "2023-05-10": 4954,
-  "2023-05-11": 4953,
-  "2023-05-12": 4954,
-  "2023-05-13": 4954,
-  "2023-05-14": 4954,
-  "2023-05-15": 4954,
-  "2023-05-16": 4954,
-  "2023-05-17": 4954,
-  "2023-05-18": 4955,
-  "2023-05-19": 4955,
-  "2023-05-20": 4955,
-  "2023-05-21": 4955,
-  "2023-05-22": 4955,
-  "2023-05-23": 4954,
-  "2023-05-24": 4954,
-  "2023-05-25": 4953,
-  "2023-05-26": 4953,
-  "2023-05-27": 4953,
-  "2023-05-28": 4954,
-  "2023-05-29": 4954,
-  "2023-05-30": 4954,
-  "2023-05-31": 4954,
-  "2023-06-01": 4954,
-  "2023-06-02": 4954,
-  "2023-06-03": 4954,
-  "2023-06-04": 4954,
-  "2023-06-05": 4954,
-  "2023-06-06": 4954,
-  "2023-06-07": 4952,
-  "2023-06-08": 4952,
-  "2023-06-09": 4952,
-  "2023-06-10": 4952,
-  "2023-06-11": 4952,
-  "2023-06-12": 4952,
-  "2023-06-13": 4952,
-  "2023-06-14": 4952,
-  "2023-06-15": 4952,
-  "2023-06-16": 4952,
-  "2023-06-17": 4952,
-  "2023-06-18": 4952,
-  "2023-06-19": 4952,
-  "2023-06-20": 4952,
-  "2023-06-21": 4952,
-  "2023-06-22": 4952,
-  "2023-06-23": 4952,
-  "2023-06-24": 4952,
-  "2023-06-25": 4952,
-  "2023-06-26": 4952,
-  "2023-06-27": 4953,
-  "2023-06-28": 4953,
-  "2023-06-29": 4954,
-  "2023-06-30": 4954,
-  "2023-07-01": 4952,
-  "2023-07-02": 4952,
-  "2023-07-03": 4952,
-  "2023-07-04": 4952,
-  "2023-07-05": 4952,
-  "2023-07-06": 4951,
-  "2023-07-07": 4951,
-  "2023-07-08": 4951,
-  "2023-07-09": 4950,
-  "2023-07-10": 4951,
-  "2023-07-11": 4950,
-  "2023-07-12": 4950,
-  "2023-07-13": 4950,
-  "2023-07-14": 4950,
-  "2023-07-15": 4951,
-  "2023-07-16": 4951,
-  "2023-07-17": 4951,
-  "2023-07-18": 4951,
-  "2023-07-19": 4951,
-  "2023-07-20": 4951,
-  "2023-07-21": 4950,
-  "2023-07-22": 4950,
-  "2023-07-23": 4950,
-  "2023-07-24": 4950,
-  "2023-07-25": 4950,
-  "2023-07-26": 4950,
-  "2023-07-27": 4950,
-  "2023-07-28": 4950,
-  "2023-07-29": 4950,
-  "2023-07-30": 4949,
-  "2023-07-31": 4949,
-  "2023-08-01": 4949,
-  "2023-08-02": 4949,
-  "2023-08-03": 4949,
-  "2023-08-04": 4949,
-  "2023-08-05": 4949,
-  "2023-08-06": 4949,
-  "2023-08-07": 4949,
-  "2023-08-08": 4949,
-  "2023-08-09": 4949,
-  "2023-08-10": 4949,
-  "2023-08-11": 4949,
-  "2023-08-12": 4949,
-  "2023-08-13": 4949,
-  "2023-08-14": 4949,
-  "2023-08-15": 4948,
-  "2023-08-16": 4948,
-  "2023-08-17": 4948,
-  "2023-08-18": 4948,
-  "2023-08-19": 4948,
-  "2023-08-20": 4948,
-  "2023-08-21": 4948,
-  "2023-08-22": 4947,
-  "2023-08-23": 4947,
-  "2023-08-24": 4947,
-  "2023-08-25": 4947,
-  "2023-08-26": 4947,
-  "2023-08-27": 4946,
-  "2023-08-28": 4946,
-  "2023-08-29": 4946,
-  "2023-08-30": 4946,
-  "2023-08-31": 4946,
-  "2023-09-01": 4946,
-  "2023-09-02": 4946,
-  "2023-09-03": 4946,
-  "2023-09-04": 4946,
-  "2023-09-05": 4946,
-  "2023-09-06": 4946,
-  "2023-09-07": 4946,
-  "2023-09-08": 4946,
-  "2023-09-09": 4946,
-  "2023-09-10": 4946,
-  "2023-09-11": 4946,
-  "2023-09-12": 4945,
-  "2023-09-13": 4945,
-  "2023-09-14": 4944,
-  "2023-09-15": 4944,
-  "2023-09-16": 4944,
-  "2023-09-17": 4944,
-  "2023-09-18": 4944,
-  "2023-09-19": 4944,
-  "2023-09-20": 4944,
-  "2023-09-21": 4944,
-  "2023-09-22": 4944,
-  "2023-09-23": 4944,
-  "2023-09-24": 4944,
-  "2023-09-25": 4944,
-  "2023-09-26": 4944,
-  "2023-09-27": 4944,
-  "2023-09-28": 4944,
-  "2023-09-29": 4944,
-  "2023-09-30": 4944,
-  "2023-10-01": 4944,
-  "2023-10-02": 4944,
-  "2023-10-03": 4944,
-  "2023-10-04": 4944,
-  "2023-10-05": 4944,
-  "2023-10-06": 4944,
-  "2023-10-07": 4944,
-  "2023-10-08": 4944,
-  "2023-10-09": 4944,
-  "2023-10-10": 4940,
-  "2023-10-11": 4936,
-  "2023-10-12": 4936,
-  "2023-10-13": 4930,
-  "2023-10-14": 4922,
-  "2023-10-15": 4920,
-  "2023-10-16": 4920,
-  "2023-10-17": 4920,
-  "2023-10-18": 4920,
-  "2023-10-19": 4920,
-  "2023-10-20": 4920,
-  "2023-10-21": 4920,
-  "2023-10-22": 4920,
-  "2023-10-23": 4920,
-  "2023-10-24": 4920,
-  "2023-10-25": 4919,
-  "2023-10-26": 4919,
-  "2023-10-27": 4919,
-  "2023-10-28": 4919,
-  "2023-10-29": 4919,
-  "2023-10-30": 4920,
-  "2023-10-31": 4920,
-  "2023-11-01": 4920,
-  "2023-11-02": 4919,
-  "2023-11-03": 4919,
-  "2023-11-04": 4919,
-  "2023-11-05": 4918,
-  "2023-11-06": 4917,
-  "2023-11-07": 4917,
-  "2023-11-08": 4917,
-  "2023-11-09": 4917,
-  "2023-11-10": 4917,
-  "2023-11-11": 4916,
-  "2023-11-12": 4916,
-  "2023-11-13": 4916,
-  "2023-11-14": 4915,
-  "2023-11-15": 4915,
-  "2023-11-16": 4915,
-  "2023-11-17": 4915,
-  "2023-11-18": 4915,
-  "2023-11-19": 4915,
-  "2023-11-20": 4915,
-  "2023-11-21": 4915,
-  "2023-11-22": 4916,
-  "2023-11-23": 4916,
-  "2023-11-24": 4916,
-  "2023-11-25": 4916,
-  "2023-11-26": 4916,
-  "2023-11-27": 4916,
-  "2023-11-28": 4915,
-  "2023-11-29": 4914,
-  "2023-11-30": 4914,
-  "2023-12-01": 4914,
-  "2023-12-02": 4914,
-  "2023-12-03": 4914,
-  "2023-12-04": 4914,
-  "2023-12-05": 4914,
-  "2023-12-06": 4914,
-  "2023-12-07": 4914,
-  "2023-12-08": 4914,
-  "2023-12-09": 4914,
-  "2023-12-10": 4914,
-  "2023-12-11": 4914,
-  "2023-12-12": 4913,
-  "2023-12-13": 4913,
-  "2023-12-14": 4913,
-  "2023-12-15": 4913,
-  "2023-12-16": 4913,
-  "2023-12-17": 4913,
-  "2023-12-18": 4913,
-  "2023-12-19": 4913,
-  "2023-12-20": 4912,
-  "2023-12-21": 4912,
-  "2023-12-22": 4912,
-  "2023-12-23": 4912,
-  "2023-12-24": 4912,
-  "2023-12-25": 4912,
-  "2023-12-26": 4912,
-  "2023-12-27": 4912,
-  "2023-12-30": 4912,
-  "2023-12-31": 4912,
-  "2024-01-01": 4911,
-  "2024-01-02": 4911,
-  "2024-01-03": 4911
+  "2024-01-17": 4879,
+  "date_first_scraped": "2021-12-21",
+  "description": "Intoxicating, joyful pop captures the Pride spirit for the Austrian drag queen and Eurovision Song Contest 2014 winner.",
+  "name": "Conchita: Pride",
+  "tracks": [
+    {
+      "album": {
+        "name": "Fall to Grace (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3kWgBxtkD8ZJ9Xu84xrhWj"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191840,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/2SxirI2LVqTAa6YwZpTAyN"
+    },
+    {
+      "album": {
+        "name": "Fall To Grace",
+        "url": "https://open.spotify.com/album/2e5LKXliWzgc0tmdlnMwt9"
+      },
+      "artists": [
+        {
+          "name": "Paloma Faith",
+          "url": "https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191840,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/62ZkL8GK1xNlPd25Ygcilu"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/1jiIy9BncsplWeFEgbtbRW"
+      },
+      "artists": [
+        {
+          "name": "MS MR",
+          "url": "https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194013,
+      "name": "All The Things Lost",
+      "url": "https://open.spotify.com/track/62P3dTff68UTyYPqbGpaXs"
+    },
+    {
+      "album": {
+        "name": "Family Dinner - Vol. 1",
+        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "Magda Giannikou",
+          "url": "https://open.spotify.com/artist/2E2gPRKo4APVuw55BQelKc"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "Amour T'es La",
+      "url": "https://open.spotify.com/track/4MIXgItmCtVLCnT4BvU5tU"
+    },
+    {
+      "album": {
+        "name": "Amour T'es La (with Magda Giannikou)",
+        "url": "https://open.spotify.com/album/5dIBox6fdwnfkNOBSjViue"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262693,
+      "name": "Amour T'es La (with Magda Giannikou)",
+      "url": "https://open.spotify.com/track/5YFi8OcgmaL6fwwEcQgGni"
+    },
+    {
+      "album": {
+        "name": "Blue Neighbourhood (Deluxe)",
+        "url": "https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186052,
+      "name": "BITE",
+      "url": "https://open.spotify.com/track/72mvdKU4Lw2737idPLKTjh"
+    },
+    {
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202937,
+      "name": "Champagne Kisses",
+      "url": "https://open.spotify.com/track/3VtYIMxaZEdrydYAofTN04"
+    },
+    {
+      "album": {
+        "name": "Conchita",
+        "url": "https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Colours of Your Love",
+      "url": "https://open.spotify.com/track/0kckmD3yTlXjXrbR7ksX4I"
+    },
+    {
+      "album": {
+        "name": "Come Along",
+        "url": "https://open.spotify.com/album/3o9WyvK7ivIuR00cCnPOof"
+      },
+      "artists": [
+        {
+          "name": "Titiyo",
+          "url": "https://open.spotify.com/artist/2s5enJCtVBAAdWD94jOIbM"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Come Along",
+      "url": "https://open.spotify.com/track/7GmHOAdriOnI9s5S79GAUr"
+    },
+    {
+      "album": {
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/1Ex16eX2ltSVLb7bch2iWN"
+      },
+      "artists": [
+        {
+          "name": "Soe Tolloy",
+          "url": "https://open.spotify.com/artist/5oK3GLnlqui2tu1xtL9goI"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205002,
+      "name": "Come Home",
+      "url": "https://open.spotify.com/track/72A8OnvE6deO12S2CML7HJ"
+    },
+    {
+      "album": {
+        "name": "Conchita Wurst - Spotify Pride",
+        "url": "https://open.spotify.com/album/1EZbZvbFmxs136UmuCGUdN"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46500,
+      "name": "Conchita Wurst on her first Pride",
+      "url": "https://open.spotify.com/track/4MTljAxXqEoGprYazgYeBX"
+    },
+    {
+      "album": {
+        "name": "Conchita Wurst - Spotify Pride",
+        "url": "https://open.spotify.com/album/1EZbZvbFmxs136UmuCGUdN"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 10127,
+      "name": "Conchita Wurst Spotify Pride Intro",
+      "url": "https://open.spotify.com/track/5jBBOzlULSLS3J1WL646tB"
+    },
+    {
+      "album": {
+        "name": "Family Dinner - Vol. 1",
+        "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        },
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313506,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/63FjsyDMefiiQuuQkDbGlg"
+    },
+    {
+      "album": {
+        "name": "Family Dinner - Volume 1",
+        "url": "https://open.spotify.com/album/30JmlRnyVzdjADjj91bLq7"
+      },
+      "artists": [
+        {
+          "name": "Snarky Puppy",
+          "url": "https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313497,
+      "name": "Deep (with N'Dambi)",
+      "url": "https://open.spotify.com/track/1N7ekKjPNRkouLjN6CzFDV"
+    },
+    {
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/2IVZPDXb7LFbyukqaoWpYR"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/1xmctspTzQxisNXKY6Gxf6"
+    },
+    {
+      "album": {
+        "name": "Sound & Color (Deluxe)",
+        "url": "https://open.spotify.com/album/4atu34ixQLgqG2FUVpuDdA"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 232530,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/4gm6JpO3YOcogcjdtPqHWK"
+    },
+    {
+      "album": {
+        "name": "Sound & Color",
+        "url": "https://open.spotify.com/album/0GaYG9L1sXHQZZ7BTk0hGY"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232546,
+      "name": "Don't Wanna Fight",
+      "url": "https://open.spotify.com/track/6q0lIjDSuZDhrg9GC9yUQO"
+    },
+    {
+      "album": {
+        "name": "Conchita",
+        "url": "https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223173,
+      "name": "Firestorm",
+      "url": "https://open.spotify.com/track/2cwSM1wY1UMsJ8OEqkPzd1"
+    },
+    {
+      "album": {
+        "name": "Genau Jetzt",
+        "url": "https://open.spotify.com/album/4DI6G7ndQBHkjyTDO5Qb10"
+      },
+      "artists": [
+        {
+          "name": "Nena",
+          "url": "https://open.spotify.com/artist/6Tz0QRoe083BcOo2YbG9lV"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Genau jetzt - Single Version",
+      "url": "https://open.spotify.com/track/1e6IfTbKYIFfrRFqTHsxW9"
+    },
+    {
+      "album": {
+        "name": "Is Your Love Big Enough? (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3S7PPQijoPQ8ASlHl6LsJ9"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264973,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/73U20lYCzqwGLLk4V7u3ul"
+    },
+    {
+      "album": {
+        "name": "Mambo!",
+        "url": "https://open.spotify.com/album/6OenJxBgcOKKqrfaLagFDL"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        },
+        {
+          "name": "Gozzo",
+          "url": "https://open.spotify.com/artist/2pdPgAYPa2nKBgE1yCEZr0"
+        },
+        {
+          "name": "Yma Sumac",
+          "url": "https://open.spotify.com/artist/1HkQ4XrPffqcVW0TgTTw0d"
+        },
+        {
+          "name": "The Rico Mambo Orchestra",
+          "url": "https://open.spotify.com/artist/11GPsCMxATNWk1L7OKFLpH"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "Gopher Mambo - Remastered 2009",
+      "url": "https://open.spotify.com/track/6TsE30wjcOmuQRheHdtaAF"
+    },
+    {
+      "album": {
+        "name": "Laura Mvula with Metropole Orkest conducted by Jules Buckley at Abbey Road Studios",
+        "url": "https://open.spotify.com/album/5TrSm6l3WqUZ8NBJUydlEm"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252173,
+      "name": "Green Garden",
+      "url": "https://open.spotify.com/track/57rdgySxXsi2mKGC2cAuIU"
+    },
+    {
+      "album": {
+        "name": "I Am A Bird Now",
+        "url": "https://open.spotify.com/album/4yYa6DGzkYsAIpoE8ael1V"
+      },
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261200,
+      "name": "Hope There's Someone",
+      "url": "https://open.spotify.com/track/57KORKnC0OQM7HE7IN2FkZ"
+    },
+    {
+      "album": {
+        "name": "I Am A Bird Now",
+        "url": "https://open.spotify.com/album/1qgHb6l3H8xHuBQrFtvjKN"
+      },
+      "artists": [
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        },
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261200,
+      "name": "Hope There's Someone",
+      "url": "https://open.spotify.com/track/6hNOgftznEOoTrermrc30D"
+    },
+    {
+      "album": {
+        "name": "In Common",
+        "url": "https://open.spotify.com/album/7A1pucMFyYaR1jaDjE6fYp"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209050,
+      "name": "In Common",
+      "url": "https://open.spotify.com/track/0rcDFdi19NtKf9NbHxr0k9"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/5u0s60EjjOZDewkJIZ6GS2"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        },
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309133,
+      "name": "Motherless Child",
+      "url": "https://open.spotify.com/track/2youXVWiL7DzESg3zspmvb"
+    },
+    {
+      "album": {
+        "name": "Reload",
+        "url": "https://open.spotify.com/album/4cFoiStUR2uBHKKZUWtaBG"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        },
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309133,
+      "name": "Motherless Child",
+      "url": "https://open.spotify.com/track/6K8maSfqAvR82mV6rrDC5Z"
+    },
+    {
+      "album": {
+        "name": "Conchita",
+        "url": "https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Out of Body Experience",
+      "url": "https://open.spotify.com/track/0DqT9HiT8Yz4EPxZPzgr03"
+    },
+    {
+      "album": {
+        "name": "Overcome (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/6hLwtZhBzvpt8PomKTgA2N"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190933,
+      "name": "Overcome (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/1U6EZRkaJy3II3ElJlpzMl"
+    },
+    {
+      "album": {
+        "name": "Permission",
+        "url": "https://open.spotify.com/album/5Fyh86nzm4QMsGVZxuHafa"
+      },
+      "artists": [
+        {
+          "name": "Ro James",
+          "url": "https://open.spotify.com/artist/7r2oyrNc0YjSC7hZL87V0Y"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281511,
+      "name": "Permission",
+      "url": "https://open.spotify.com/track/5uu3UiPWFJaKbmj1iKsenH"
+    },
+    {
+      "album": {
+        "name": "Phenomenal Woman",
+        "url": "https://open.spotify.com/album/1liODIvoQ4CBXWJaeKkgI3"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164200,
+      "name": "Phenomenal Woman",
+      "url": "https://open.spotify.com/track/5IwkF49z80NtBv4tJjYXge"
+    },
+    {
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6IPacncZL1jOyXgnuePDR9"
+      },
+      "artists": [
+        {
+          "name": "Elias",
+          "url": "https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Revolution - Radio Edit",
+      "url": "https://open.spotify.com/track/2DeEXfLtcC6TYMhOx5i24d"
+    },
+    {
+      "album": {
+        "name": "Shades of Blue - Single",
+        "url": "https://open.spotify.com/album/4ABq2G5yLoXCguSvOMJ1S4"
+      },
+      "artists": [
+        {
+          "name": "ESKA",
+          "url": "https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244240,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/1qGi797wVdwu3DpsVGi6RJ"
+    },
+    {
+      "album": {
+        "name": "ESKA",
+        "url": "https://open.spotify.com/album/33ivVGguNH9c9nA223YAGc"
+      },
+      "artists": [
+        {
+          "name": "ESKA",
+          "url": "https://open.spotify.com/artist/6pBfwu2Yt96wWprf96vhpg"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244240,
+      "name": "Shades of Blue",
+      "url": "https://open.spotify.com/track/3EQ1tsO3gLby0K294yTGEz"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/0OyUgwL97FT5MWpBLqL6br"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/0gorODYIUfyg83lBPnPbZs"
+    },
+    {
+      "album": {
+        "name": "What You Don't Do",
+        "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220586,
+      "name": "What You Don't Do",
+      "url": "https://open.spotify.com/track/4mityPmJpqtHea3y9qZLg6"
+    },
+    {
+      "album": {
+        "name": "Conchita",
+        "url": "https://open.spotify.com/album/3Fpq5QWmRxZtEE8h8bm04S"
+      },
+      "artists": [
+        {
+          "name": "Conchita Wurst",
+          "url": "https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207906,
+      "name": "You Are Unstoppable",
+      "url": "https://open.spotify.com/track/0ZZNnIX9FTmCufK0aZmq2I"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane (EP)",
+        "url": "https://open.spotify.com/album/1MqIFlrrhEh7lO6yZQjzUX"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2017-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192000,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/0rONIAKyhhXXHxPfyc9dGf"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/6swbkdvrS8P0uq03AcFQiJ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192013,
+      "name": "You're The One That I Want",
+      "url": "https://open.spotify.com/track/2GcCFSXhiEkIya9tcAdk2M"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8SiEKUUEVVi"
 }

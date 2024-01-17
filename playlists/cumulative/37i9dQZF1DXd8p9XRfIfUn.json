@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Lo mejor de la nueva. Foto: El Bogueto",
+  "description": "Lo mejor de la nueva. Foto: Jere Klein",
   "name": "Academia Reggaet\u00f3n",
   "tracks": [
     {
@@ -532,7 +532,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 199546,
       "name": "Chakalicious",
       "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 166736,
       "name": "ESO VA",
       "url": "https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 171284,
       "name": "La Gata Esta Dura",
       "url": "https://open.spotify.com/track/37Uehp6HqFBrYEz3kIlQsq"
@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Ley Anti Perreo",
+        "url": "https://open.spotify.com/album/5QHkwAKmaO5SLVQptAuxRC"
+      },
+      "artists": [
+        {
+          "name": "EDGAR MIX",
+          "url": "https://open.spotify.com/artist/2RH2SlqVJ07lcpBb68bSxI"
+        },
+        {
+          "name": "El Habano",
+          "url": "https://open.spotify.com/artist/4IzIgAufROQT2ITqlUv0ya"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170044,
+      "name": "Ley Anti Perreo",
+      "url": "https://open.spotify.com/track/2Uu3nR9OVgH59eUawX2qRs"
+    },
+    {
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/1Kq5G4147jgvVqkTRjsi4J"
       },
@@ -2152,6 +2174,24 @@
       "duration_ms": 178626,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/2nFZ9SYYlYgOW1OVDQfQoG"
+    },
+    {
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/0d6X2ScN5dJVEmQSNlZHVx"
+      },
+      "artists": [
+        {
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141613,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/48t9xmVgtxXlfEPoKvD4rP"
     },
     {
       "album": {
@@ -2396,7 +2436,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 129130,
       "name": "MamiDiabla",
       "url": "https://open.spotify.com/track/76eg1C7N8xzxoeajKUyeqi"
@@ -3194,7 +3234,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221664,
       "name": "PARTY TETEO",
       "url": "https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1"
@@ -3258,7 +3298,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
@@ -3328,7 +3368,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 136421,
       "name": "Perdon\u00e9monos",
       "url": "https://open.spotify.com/track/7hIstL0FGshcF8Tk2inv5q"
@@ -3372,7 +3412,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180000,
       "name": "Perreo de la mata",
       "url": "https://open.spotify.com/track/5hleQubpsbSy9DyNlnr0BM"
@@ -3452,7 +3492,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 163006,
       "name": "Prendemos",
       "url": "https://open.spotify.com/track/7a3HCRnmiF2IZzGivtETnq"
@@ -4176,7 +4216,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 153829,
       "name": "Sunset Moet",
       "url": "https://open.spotify.com/track/4iqrqn6zANTKM1eoCeIwqi"
@@ -4504,7 +4544,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 229106,
       "name": "Tus Besos - Remix",
       "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 127264,
       "name": "Uy k raro",
       "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
@@ -4874,7 +4914,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 136750,
       "name": "Wapo y Mam\u00f3n",
       "url": "https://open.spotify.com/track/4eg82YP4NxGNVqBmi7ajqH"
@@ -4935,6 +4975,28 @@
     },
     {
       "album": {
+        "name": "GIRO 180",
+        "url": "https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200073,
+      "name": "XQ TAN SOLA?",
+      "url": "https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj"
+    },
+    {
+      "album": {
         "name": "XQ TAN SOLA?",
         "url": "https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE"
       },
@@ -4950,7 +5012,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 200073,
       "name": "XQ TAN SOLA?",
       "url": "https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi"
@@ -5024,7 +5086,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 217263,
       "name": "\u00bfPor Qu\u00e9 Te Enoj\u00e1i?",
       "url": "https://open.spotify.com/track/6mLg5bAhcSrVnc0yPsS7Jy"

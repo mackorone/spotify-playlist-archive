@@ -1,620 +1,977 @@
 {
-  "2022-04-20": 2405,
-  "2022-04-21": 2409,
-  "2022-04-22": 2410,
-  "2022-04-23": 2412,
-  "2022-04-24": 2415,
-  "2022-04-25": 2420,
-  "2022-04-26": 2421,
-  "2022-04-27": 2424,
-  "2022-04-28": 2433,
-  "2022-04-29": 2438,
-  "2022-04-30": 2440,
-  "2022-05-01": 2445,
-  "2022-05-02": 2445,
-  "2022-05-03": 2447,
-  "2022-05-04": 2451,
-  "2022-05-05": 2451,
-  "2022-05-06": 2453,
-  "2022-05-07": 2458,
-  "2022-05-08": 2462,
-  "2022-05-09": 2462,
-  "2022-05-10": 2463,
-  "2022-05-11": 2467,
-  "2022-05-12": 2468,
-  "2022-05-13": 2469,
-  "2022-05-14": 2474,
-  "2022-05-15": 2478,
-  "2022-05-16": 2482,
-  "2022-05-17": 2486,
-  "2022-05-18": 2489,
-  "2022-05-19": 2492,
-  "2022-05-20": 2499,
-  "2022-05-21": 2500,
-  "2022-05-22": 2500,
-  "2022-05-23": 2500,
-  "2022-05-24": 2505,
-  "2022-05-25": 2506,
-  "2022-05-26": 2512,
-  "2022-05-27": 2510,
-  "2022-05-28": 2511,
-  "2022-05-29": 2511,
-  "2022-05-30": 2515,
-  "2022-05-31": 2515,
-  "2022-06-01": 2518,
-  "2022-06-02": 2519,
-  "2022-06-03": 2522,
-  "2022-06-04": 2524,
-  "2022-06-05": 2523,
-  "2022-06-06": 2525,
-  "2022-06-07": 2528,
-  "2022-06-08": 2529,
-  "2022-06-09": 2529,
-  "2022-06-10": 2530,
-  "2022-06-11": 2535,
-  "2022-06-12": 2537,
-  "2022-06-13": 2540,
-  "2022-06-14": 2542,
-  "2022-06-15": 2543,
-  "2022-06-16": 2546,
-  "2022-06-17": 2548,
-  "2022-06-18": 2554,
-  "2022-06-19": 2556,
-  "2022-06-20": 2556,
-  "2022-06-21": 2559,
-  "2022-06-22": 2560,
-  "2022-06-23": 2560,
-  "2022-06-24": 2564,
-  "2022-06-25": 2567,
-  "2022-06-26": 2570,
-  "2022-06-27": 2570,
-  "2022-06-28": 2572,
-  "2022-06-29": 2574,
-  "2022-06-30": 2577,
-  "2022-07-01": 2580,
-  "2022-07-02": 2584,
-  "2022-07-03": 2584,
-  "2022-07-04": 2588,
-  "2022-07-05": 2589,
-  "2022-07-06": 2593,
-  "2022-07-07": 2598,
-  "2022-07-08": 2598,
-  "2022-07-09": 2603,
-  "2022-07-10": 2604,
-  "2022-07-11": 2610,
-  "2022-07-12": 2617,
-  "2022-07-13": 2622,
-  "2022-07-14": 2625,
-  "2022-07-15": 2629,
-  "2022-07-16": 2636,
-  "2022-07-17": 2638,
-  "2022-07-18": 2641,
-  "2022-07-19": 2641,
-  "2022-07-20": 2646,
-  "2022-07-21": 2647,
-  "2022-07-22": 2650,
-  "2022-07-23": 2656,
-  "2022-07-24": 2657,
-  "2022-07-25": 2656,
-  "2022-07-26": 2659,
-  "2022-07-27": 2661,
-  "2022-07-28": 2661,
-  "2022-07-29": 2665,
-  "2022-07-30": 2665,
-  "2022-07-31": 2665,
-  "2022-08-01": 2665,
-  "2022-08-02": 2670,
-  "2022-08-03": 2670,
-  "2022-08-04": 2672,
-  "2022-08-05": 2674,
-  "2022-08-06": 2677,
-  "2022-08-07": 2682,
-  "2022-08-08": 2686,
-  "2022-08-09": 2689,
-  "2022-08-10": 2692,
-  "2022-08-11": 2692,
-  "2022-08-12": 2696,
-  "2022-08-13": 2701,
-  "2022-08-14": 2704,
-  "2022-08-15": 2704,
-  "2022-08-16": 2707,
-  "2022-08-17": 2707,
-  "2022-08-18": 2709,
-  "2022-08-19": 2714,
-  "2022-08-20": 2716,
-  "2022-08-21": 2718,
-  "2022-08-22": 2720,
-  "2022-08-23": 2725,
-  "2022-08-24": 2730,
-  "2022-08-25": 2730,
-  "2022-08-26": 2735,
-  "2022-08-27": 2739,
-  "2022-08-28": 2741,
-  "2022-08-29": 2744,
-  "2022-08-30": 2744,
-  "2022-08-31": 2746,
-  "2022-09-01": 2745,
-  "2022-09-02": 2746,
-  "2022-09-03": 2748,
-  "2022-09-04": 2743,
-  "2022-09-05": 2744,
-  "2022-09-06": 2748,
-  "2022-09-07": 2749,
-  "2022-09-09": 2754,
-  "2022-09-10": 2755,
-  "2022-09-11": 2760,
-  "2022-09-12": 2763,
-  "2022-09-13": 2762,
-  "2022-09-15": 2765,
-  "2022-09-16": 2769,
-  "2022-09-17": 2770,
-  "2022-09-18": 2776,
-  "2022-09-19": 2780,
-  "2022-09-20": 2783,
-  "2022-09-21": 2787,
-  "2022-09-22": 2789,
-  "2022-09-23": 2791,
-  "2022-09-24": 2795,
-  "2022-09-25": 2798,
-  "2022-09-26": 2804,
-  "2022-09-27": 2805,
-  "2022-09-28": 2809,
-  "2022-09-29": 2813,
-  "2022-09-30": 2814,
-  "2022-10-01": 2814,
-  "2022-10-02": 2820,
-  "2022-10-03": 2821,
-  "2022-10-04": 2823,
-  "2022-10-05": 2827,
-  "2022-10-06": 2829,
-  "2022-10-07": 2831,
-  "2022-10-08": 2835,
-  "2022-10-09": 2837,
-  "2022-10-10": 2837,
-  "2022-10-11": 2839,
-  "2022-10-12": 2841,
-  "2022-10-13": 2841,
-  "2022-10-14": 2846,
-  "2022-10-15": 2845,
-  "2022-10-16": 2846,
-  "2022-10-17": 2850,
-  "2022-10-18": 2851,
-  "2022-10-19": 2851,
-  "2022-10-20": 2856,
-  "2022-10-21": 2859,
-  "2022-10-22": 2862,
-  "2022-10-23": 2866,
-  "2022-10-24": 2867,
-  "2022-10-25": 2871,
-  "2022-10-26": 2874,
-  "2022-10-27": 2878,
-  "2022-10-28": 2880,
-  "2022-10-29": 2882,
-  "2022-10-30": 2884,
-  "2022-10-31": 2886,
-  "2022-11-01": 2894,
-  "2022-11-02": 2893,
-  "2022-11-03": 2902,
-  "2022-11-04": 2906,
-  "2022-11-05": 2908,
-  "2022-11-06": 2911,
-  "2022-11-07": 2912,
-  "2022-11-08": 2913,
-  "2022-11-09": 2921,
-  "2022-11-10": 2921,
-  "2022-11-11": 2930,
-  "2022-11-12": 2933,
-  "2022-11-13": 2932,
-  "2022-11-14": 2933,
-  "2022-11-15": 2937,
-  "2022-11-16": 2938,
-  "2022-11-17": 2941,
-  "2022-11-18": 2941,
-  "2022-11-19": 2940,
-  "2022-11-20": 2944,
-  "2022-11-21": 2942,
-  "2022-11-22": 2951,
-  "2022-11-23": 2950,
-  "2022-11-24": 2958,
-  "2022-11-25": 2966,
-  "2022-11-26": 2968,
-  "2022-11-27": 2974,
-  "2022-11-28": 2974,
-  "2022-11-29": 2976,
-  "2022-11-30": 2981,
-  "2022-12-01": 2985,
-  "2022-12-02": 2986,
-  "2022-12-03": 2991,
-  "2022-12-04": 2994,
-  "2022-12-05": 2996,
-  "2022-12-06": 3001,
-  "2022-12-07": 3000,
-  "2022-12-08": 3004,
-  "2022-12-09": 3007,
-  "2022-12-10": 3011,
-  "2022-12-11": 3015,
-  "2022-12-12": 3015,
-  "2022-12-13": 3016,
-  "2022-12-14": 3020,
-  "2022-12-15": 3022,
-  "2022-12-16": 3023,
-  "2022-12-17": 3027,
-  "2022-12-18": 3026,
-  "2022-12-19": 3028,
-  "2022-12-20": 3036,
-  "2022-12-21": 3036,
-  "2022-12-22": 3041,
-  "2022-12-24": 3037,
-  "2022-12-25": 3039,
-  "2022-12-26": 3039,
-  "2022-12-27": 3042,
-  "2022-12-28": 3051,
-  "2022-12-29": 3051,
-  "2022-12-30": 3053,
-  "2022-12-31": 3056,
-  "2023-01-01": 3061,
-  "2023-01-02": 3063,
-  "2023-01-03": 3063,
-  "2023-01-04": 3065,
-  "2023-01-05": 3065,
-  "2023-01-06": 3068,
-  "2023-01-07": 3068,
-  "2023-01-08": 3071,
-  "2023-01-09": 3075,
-  "2023-01-10": 3074,
-  "2023-01-11": 3078,
-  "2023-01-12": 3084,
-  "2023-01-13": 3085,
-  "2023-01-14": 3089,
-  "2023-01-15": 3090,
-  "2023-01-16": 3091,
-  "2023-01-17": 3093,
-  "2023-01-18": 3093,
-  "2023-01-19": 3101,
-  "2023-01-20": 3106,
-  "2023-01-21": 3109,
-  "2023-01-22": 3111,
-  "2023-01-23": 3116,
-  "2023-01-24": 3119,
-  "2023-01-25": 3122,
-  "2023-01-26": 3123,
-  "2023-01-27": 3127,
-  "2023-01-28": 3132,
-  "2023-01-29": 3133,
-  "2023-01-30": 3139,
-  "2023-01-31": 3139,
-  "2023-02-01": 3151,
-  "2023-02-02": 3154,
-  "2023-02-03": 3157,
-  "2023-02-04": 3162,
-  "2023-02-05": 3167,
-  "2023-02-06": 3170,
-  "2023-02-07": 3170,
-  "2023-02-08": 3176,
-  "2023-02-09": 3176,
-  "2023-02-10": 3181,
-  "2023-02-11": 3185,
-  "2023-02-12": 3192,
-  "2023-02-13": 3197,
-  "2023-02-14": 3197,
-  "2023-02-15": 3199,
-  "2023-02-16": 3203,
-  "2023-02-17": 3205,
-  "2023-02-18": 3216,
-  "2023-02-19": 3217,
-  "2023-02-20": 3220,
-  "2023-02-21": 3226,
-  "2023-02-22": 3235,
-  "2023-02-23": 3241,
-  "2023-02-24": 3240,
-  "2023-02-25": 3246,
-  "2023-02-26": 3248,
-  "2023-02-27": 3256,
-  "2023-02-28": 3256,
-  "2023-03-01": 3260,
-  "2023-03-02": 3264,
-  "2023-03-03": 3267,
-  "2023-03-04": 3267,
-  "2023-03-05": 3280,
-  "2023-03-06": 3280,
-  "2023-03-07": 3282,
-  "2023-03-08": 3285,
-  "2023-03-09": 3288,
-  "2023-03-10": 3290,
-  "2023-03-11": 3295,
-  "2023-03-12": 3297,
-  "2023-03-13": 3301,
-  "2023-03-14": 3304,
-  "2023-03-15": 3308,
-  "2023-03-16": 3307,
-  "2023-03-17": 3307,
-  "2023-03-18": 3316,
-  "2023-03-19": 3323,
-  "2023-03-20": 3332,
-  "2023-03-21": 3332,
-  "2023-03-22": 3334,
-  "2023-03-23": 3338,
-  "2023-03-24": 3338,
-  "2023-03-25": 3341,
-  "2023-03-26": 3345,
-  "2023-03-27": 3347,
-  "2023-03-28": 3349,
-  "2023-03-29": 3358,
-  "2023-03-30": 3367,
-  "2023-03-31": 3367,
-  "2023-04-01": 3368,
-  "2023-04-02": 3371,
-  "2023-04-03": 3370,
-  "2023-04-04": 3372,
-  "2023-04-05": 3375,
-  "2023-04-06": 3380,
-  "2023-04-07": 3385,
-  "2023-04-09": 3391,
-  "2023-04-10": 3397,
-  "2023-04-11": 3400,
-  "2023-04-12": 3400,
-  "2023-04-13": 3407,
-  "2023-04-14": 3411,
-  "2023-04-15": 3415,
-  "2023-04-16": 3421,
-  "2023-04-17": 3430,
-  "2023-04-18": 3430,
-  "2023-04-19": 3431,
-  "2023-04-20": 3438,
-  "2023-04-21": 3445,
-  "2023-04-22": 3455,
-  "2023-04-23": 3465,
-  "2023-04-24": 3472,
-  "2023-04-25": 3481,
-  "2023-04-26": 3488,
-  "2023-04-27": 3493,
-  "2023-04-28": 3500,
-  "2023-04-29": 3504,
-  "2023-04-30": 3508,
-  "2023-05-01": 3512,
-  "2023-05-02": 3516,
-  "2023-05-03": 3516,
-  "2023-05-04": 3527,
-  "2023-05-05": 3534,
-  "2023-05-06": 3538,
-  "2023-05-07": 3547,
-  "2023-05-08": 3550,
-  "2023-05-09": 3551,
-  "2023-05-10": 3558,
-  "2023-05-11": 3563,
-  "2023-05-12": 3568,
-  "2023-05-13": 3575,
-  "2023-05-14": 3579,
-  "2023-05-15": 3585,
-  "2023-05-16": 3588,
-  "2023-05-17": 3594,
-  "2023-05-18": 3595,
-  "2023-05-19": 3597,
-  "2023-05-20": 3607,
-  "2023-05-21": 3607,
-  "2023-05-22": 3607,
-  "2023-05-23": 3613,
-  "2023-05-24": 3616,
-  "2023-05-25": 3616,
-  "2023-05-26": 3617,
-  "2023-05-27": 3623,
-  "2023-05-28": 3628,
-  "2023-05-29": 3628,
-  "2023-05-30": 3635,
-  "2023-05-31": 3643,
-  "2023-06-01": 3652,
-  "2023-06-02": 3658,
-  "2023-06-03": 3659,
-  "2023-06-04": 3661,
-  "2023-06-05": 3664,
-  "2023-06-06": 3670,
-  "2023-06-07": 3673,
-  "2023-06-08": 3680,
-  "2023-06-09": 3688,
-  "2023-06-10": 3689,
-  "2023-06-11": 3695,
-  "2023-06-12": 3699,
-  "2023-06-13": 3707,
-  "2023-06-14": 3713,
-  "2023-06-15": 3718,
-  "2023-06-16": 3719,
-  "2023-06-17": 3725,
-  "2023-06-18": 3732,
-  "2023-06-19": 3738,
-  "2023-06-20": 3745,
-  "2023-06-21": 3746,
-  "2023-06-22": 3747,
-  "2023-06-23": 3753,
-  "2023-06-24": 3757,
-  "2023-06-25": 3761,
-  "2023-06-26": 3764,
-  "2023-06-27": 3770,
-  "2023-06-28": 3775,
-  "2023-06-29": 3778,
-  "2023-06-30": 3778,
-  "2023-07-01": 3783,
-  "2023-07-02": 3783,
-  "2023-07-03": 3787,
-  "2023-07-04": 3789,
-  "2023-07-05": 3796,
-  "2023-07-06": 3799,
-  "2023-07-07": 3799,
-  "2023-07-08": 3805,
-  "2023-07-09": 3805,
-  "2023-07-10": 3806,
-  "2023-07-11": 3804,
-  "2023-07-12": 3806,
-  "2023-07-13": 3814,
-  "2023-07-14": 3821,
-  "2023-07-15": 3820,
-  "2023-07-16": 3829,
-  "2023-07-17": 3833,
-  "2023-07-18": 3840,
-  "2023-07-19": 3845,
-  "2023-07-20": 3845,
-  "2023-07-21": 3846,
-  "2023-07-22": 3848,
-  "2023-07-23": 3852,
-  "2023-07-24": 3862,
-  "2023-07-25": 3868,
-  "2023-07-26": 3873,
-  "2023-07-27": 3878,
-  "2023-07-28": 3881,
-  "2023-07-29": 3887,
-  "2023-07-30": 3888,
-  "2023-07-31": 3897,
-  "2023-08-01": 3904,
-  "2023-08-02": 3904,
-  "2023-08-03": 3914,
-  "2023-08-04": 3919,
-  "2023-08-05": 3924,
-  "2023-08-06": 3935,
-  "2023-08-07": 3935,
-  "2023-08-08": 3936,
-  "2023-08-09": 3944,
-  "2023-08-10": 3944,
-  "2023-08-11": 3948,
-  "2023-08-12": 3949,
-  "2023-08-13": 3958,
-  "2023-08-14": 3963,
-  "2023-08-15": 3975,
-  "2023-08-16": 3975,
-  "2023-08-17": 3978,
-  "2023-08-18": 3980,
-  "2023-08-19": 3983,
-  "2023-08-20": 3986,
-  "2023-08-21": 3992,
-  "2023-08-22": 4001,
-  "2023-08-23": 4005,
-  "2023-08-24": 4009,
-  "2023-08-25": 4014,
-  "2023-08-26": 4025,
-  "2023-08-27": 4030,
-  "2023-08-28": 4040,
-  "2023-08-29": 4043,
-  "2023-08-30": 4052,
-  "2023-08-31": 4054,
-  "2023-09-01": 4078,
-  "2023-09-02": 4078,
-  "2023-09-03": 4085,
-  "2023-09-04": 4086,
-  "2023-09-05": 4094,
-  "2023-09-06": 4100,
-  "2023-09-07": 4108,
-  "2023-09-08": 4117,
-  "2023-09-09": 4125,
-  "2023-09-10": 4134,
-  "2023-09-11": 4137,
-  "2023-09-12": 4150,
-  "2023-09-13": 4156,
-  "2023-09-14": 4164,
-  "2023-09-15": 4171,
-  "2023-09-16": 4174,
-  "2023-09-17": 4178,
-  "2023-09-18": 4178,
-  "2023-09-19": 4186,
-  "2023-09-20": 4189,
-  "2023-09-21": 4200,
-  "2023-09-22": 4205,
-  "2023-09-23": 4207,
-  "2023-09-24": 4217,
-  "2023-09-25": 4221,
-  "2023-09-26": 4232,
-  "2023-09-27": 4237,
-  "2023-09-28": 4241,
-  "2023-09-29": 4245,
-  "2023-09-30": 4249,
-  "2023-10-01": 4253,
-  "2023-10-02": 4258,
-  "2023-10-03": 4262,
-  "2023-10-04": 4269,
-  "2023-10-05": 4272,
-  "2023-10-06": 4282,
-  "2023-10-07": 4286,
-  "2023-10-08": 4293,
-  "2023-10-09": 4295,
-  "2023-10-10": 4298,
-  "2023-10-11": 4302,
-  "2023-10-12": 4302,
-  "2023-10-13": 4303,
-  "2023-10-14": 4309,
-  "2023-10-15": 4317,
-  "2023-10-16": 4323,
-  "2023-10-17": 4326,
-  "2023-10-18": 4327,
-  "2023-10-19": 4331,
-  "2023-10-20": 4331,
-  "2023-10-21": 4337,
-  "2023-10-22": 4340,
-  "2023-10-23": 4347,
-  "2023-10-24": 4354,
-  "2023-10-25": 4358,
-  "2023-10-26": 4365,
-  "2023-10-27": 4375,
-  "2023-10-28": 4380,
-  "2023-10-29": 4386,
-  "2023-10-30": 4398,
-  "2023-10-31": 4398,
-  "2023-11-01": 4410,
-  "2023-11-02": 4411,
-  "2023-11-03": 4413,
-  "2023-11-04": 4420,
-  "2023-11-05": 4420,
-  "2023-11-06": 4429,
-  "2023-11-07": 4430,
-  "2023-11-08": 4428,
-  "2023-11-09": 4429,
-  "2023-11-10": 4432,
-  "2023-11-11": 4436,
-  "2023-11-12": 4438,
-  "2023-11-13": 4440,
-  "2023-11-14": 4442,
-  "2023-11-15": 4442,
-  "2023-11-16": 4451,
-  "2023-11-17": 4458,
-  "2023-11-18": 4458,
-  "2023-11-19": 4460,
-  "2023-11-20": 4465,
-  "2023-11-21": 4470,
-  "2023-11-22": 4474,
-  "2023-11-23": 4481,
-  "2023-11-24": 4487,
-  "2023-11-25": 4493,
-  "2023-11-26": 4499,
-  "2023-11-27": 4506,
-  "2023-11-28": 4512,
-  "2023-11-29": 4518,
-  "2023-11-30": 4518,
-  "2023-12-01": 4526,
-  "2023-12-02": 4530,
-  "2023-12-03": 4532,
-  "2023-12-04": 4534,
-  "2023-12-05": 4538,
-  "2023-12-06": 4540,
-  "2023-12-07": 4543,
-  "2023-12-08": 4548,
-  "2023-12-09": 4554,
-  "2023-12-10": 4562,
-  "2023-12-11": 4566,
-  "2023-12-12": 4570,
-  "2023-12-13": 4575,
-  "2023-12-14": 4578,
-  "2023-12-15": 4579,
-  "2023-12-16": 4580,
-  "2023-12-17": 4586,
-  "2023-12-18": 4593,
-  "2023-12-19": 4592,
-  "2023-12-20": 4600,
-  "2023-12-21": 4605,
-  "2023-12-22": 4608,
-  "2023-12-23": 4613,
-  "2023-12-24": 4617,
-  "2023-12-25": 4623,
-  "2023-12-26": 4625,
-  "2023-12-27": 4626,
-  "2023-12-30": 4635,
-  "2023-12-31": 4641,
-  "2024-01-01": 4647,
-  "2024-01-02": 4656,
-  "2024-01-03": 4662
+  "2024-01-17": 4745,
+  "date_first_scraped": "2022-04-20",
+  "description": "Solo piano recordings of classic rags",
+  "name": "Ragtime Piano",
+  "tracks": [
+    {
+      "album": {
+        "name": "Joplin: Rags & Waltzes",
+        "url": "https://open.spotify.com/album/0ewUAHaISymm0ywE1FdAKX"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Alessandro Simonetto",
+          "url": "https://open.spotify.com/artist/0xFkYOINLkXFgPAAAa9Pwk"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252660,
+      "name": "A Breeze from Alabama",
+      "url": "https://open.spotify.com/track/0CU9oRq6jUw5WE0fN7Epdn"
+    },
+    {
+      "album": {
+        "name": "100 Years of Ragtime",
+        "url": "https://open.spotify.com/album/5DHHZDFHXM1iBKCvG45ODR"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209247,
+      "name": "American Beauty Rag",
+      "url": "https://open.spotify.com/track/69suUSUufKh4IlTRG2t88Z"
+    },
+    {
+      "album": {
+        "name": "The Entertainer",
+        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259373,
+      "name": "Bethena - A Concert Waltz",
+      "url": "https://open.spotify.com/track/5WjcpTSFtdziv49MXLKoDy"
+    },
+    {
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Bohemia Rag",
+      "url": "https://open.spotify.com/track/036qpba8Fn5TspX2QrN8wO"
+    },
+    {
+      "album": {
+        "name": "Ragtime, Vol. 1",
+        "url": "https://open.spotify.com/album/3Utz9OLTlkaNYDjHX2R7YK"
+      },
+      "artists": [
+        {
+          "name": "Squeek Steele",
+          "url": "https://open.spotify.com/artist/4rrv3sg8daehyeV8xnOnrF"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217373,
+      "name": "Broadway Rag",
+      "url": "https://open.spotify.com/track/70DWx9b7tUII9NTYjN0mvb"
+    },
+    {
+      "album": {
+        "name": "Ol' Muddy",
+        "url": "https://open.spotify.com/album/4N3q6DQATMXo0Bj5z9DQwe"
+      },
+      "artists": [
+        {
+          "name": "Sue Keller",
+          "url": "https://open.spotify.com/artist/1LjB5pWtBa02kIACdPb6tx"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210253,
+      "name": "Castle House Rag (James Reese Europe, 1914)",
+      "url": "https://open.spotify.com/track/07ZKL0jVrjxD1DqxizHXSL"
+    },
+    {
+      "album": {
+        "name": "Oh Baby!",
+        "url": "https://open.spotify.com/album/2haJcfX8gbvfDHQLGT89ry"
+      },
+      "artists": [
+        {
+          "name": "Ralph Sutton",
+          "url": "https://open.spotify.com/artist/78vaS34w6HBZi3epzpfTz9"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195693,
+      "name": "Cataract Rag",
+      "url": "https://open.spotify.com/track/0DIwS1czdks5yDr8WiDvOx"
+    },
+    {
+      "album": {
+        "name": "The St Louis Rag",
+        "url": "https://open.spotify.com/album/2O2dCZZvsoG97DRpiLG2cv"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222013,
+      "name": "Champagne Rag",
+      "url": "https://open.spotify.com/track/0KjbuADnLw2I0TPg7xCj5f"
+    },
+    {
+      "album": {
+        "name": "Elite Syncopations",
+        "url": "https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204173,
+      "name": "Elite Syncopations",
+      "url": "https://open.spotify.com/track/3NqrNRSNIAPZ7Q9xv7FAPA"
+    },
+    {
+      "album": {
+        "name": "Joseph F. Lamb: The Complete Stark Rags (1908-1919)",
+        "url": "https://open.spotify.com/album/0b5ts7qqK1ovw09OJFOUiv"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251906,
+      "name": "Ethiopia",
+      "url": "https://open.spotify.com/track/6vKrEa3NCMxkGstSrBI71I"
+    },
+    {
+      "album": {
+        "name": "Grace And Beauty - Ragtime Classics",
+        "url": "https://open.spotify.com/album/6oqyXzEQqsfzxBS9vW3ngz"
+      },
+      "artists": [
+        {
+          "name": "Scott Kirby",
+          "url": "https://open.spotify.com/artist/3bc3Wj307i1SzUmFopUMLM"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180773,
+      "name": "Evergreen Rag (1915 - James Scott)",
+      "url": "https://open.spotify.com/track/2giECH6eYMtKOEgbPpkttm"
+    },
+    {
+      "album": {
+        "name": "Ragtime Rarities",
+        "url": "https://open.spotify.com/album/7usFK6PtITIrklPDFG03cZ"
+      },
+      "artists": [
+        {
+          "name": "John Arpin",
+          "url": "https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Felicity Rag",
+      "url": "https://open.spotify.com/track/3T6xW4I5ph72PwI2PfGMAk"
+    },
+    {
+      "album": {
+        "name": "The Complete Piano Music Of Scott Joplin",
+        "url": "https://open.spotify.com/album/1Ylmy8lsNu3LIlGqYCdUhZ"
+      },
+      "artists": [
+        {
+          "name": "John Arpin",
+          "url": "https://open.spotify.com/artist/6OMykuv92hzqoSZAzcSdg1"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 206600,
+      "name": "Felicity Rag",
+      "url": "https://open.spotify.com/track/3qyqMVspq0B4f3MGZwVG2G"
+    },
+    {
+      "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114194,
+      "name": "Fig Leaf Rag",
+      "url": "https://open.spotify.com/track/1yMqt5habP5GQsll993r1D"
+    },
+    {
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Frog Legs Rag",
+      "url": "https://open.spotify.com/track/0IoqpZ55F042xPuYCbP7NG"
+    },
+    {
+      "album": {
+        "name": "Ragtime Bolling & Boogie (Enregistrements de 1977 & 2003)",
+        "url": "https://open.spotify.com/album/5Qmz1rdGfyQgpJ16Fvy4rz"
+      },
+      "artists": [
+        {
+          "name": "Claude Bolling",
+          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Gladiolus Rag",
+      "url": "https://open.spotify.com/track/1k2cULxRVikKYA97BCcg7F"
+    },
+    {
+      "album": {
+        "name": "Ragtime Classics, 1901-1919",
+        "url": "https://open.spotify.com/album/5HQEWztM9JM2jOdXVZpb9b"
+      },
+      "artists": [
+        {
+          "name": "James Scott",
+          "url": "https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ"
+        },
+        {
+          "name": "Brian Dykstra",
+          "url": "https://open.spotify.com/artist/61riwtmBNJSb5iUwiChoCY"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205773,
+      "name": "Grace and Beauty",
+      "url": "https://open.spotify.com/track/0TtzBFuB0p0bqsucSbwYaJ"
+    },
+    {
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Great Scott Rag",
+      "url": "https://open.spotify.com/track/6PeVR3vNkWhXlPT7v0yed6"
+    },
+    {
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/34pIdHeTwx6rNUuIUQ97hP"
+      },
+      "artists": [
+        {
+          "name": "Tom Turpin (1982)",
+          "url": "https://open.spotify.com/artist/0fFUpKXdGhkHH9TaPLUqJr"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159960,
+      "name": "Harlem Rag",
+      "url": "https://open.spotify.com/track/3NcbV4lOWtvMZuyiWk4pt9"
+    },
+    {
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397385,
+      "name": "Harmony Club Waltz",
+      "url": "https://open.spotify.com/track/1nu5TP1IQQKdVtp4eZYPGW"
+    },
+    {
+      "album": {
+        "name": "Joplin: Euphonic Sounds",
+        "url": "https://open.spotify.com/album/5Xu2pGSU9i3NKKVMDjQwSO"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "William Bolcom",
+          "url": "https://open.spotify.com/artist/0Uj2XBKJsuZZsf5xSEPfmS"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Magnetic Rag",
+      "url": "https://open.spotify.com/track/02YyJuuG9KrUvIzaPjRR5x"
+    },
+    {
+      "album": {
+        "name": "Joplin: Euphonic Sounds",
+        "url": "https://open.spotify.com/album/5kWfWl6MTHPt7EnZGWSrmz"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "William Bolcom",
+          "url": "https://open.spotify.com/artist/0Uj2XBKJsuZZsf5xSEPfmS"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 240146,
+      "name": "Magnetic Rag",
+      "url": "https://open.spotify.com/track/1m94dz2zFqNXncBdwgy1Vh"
+    },
+    {
+      "album": {
+        "name": "The Entertainer",
+        "url": "https://open.spotify.com/album/55nzutI0vd4NmGeZHOinuz"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194453,
+      "name": "Maple Leaf Rag",
+      "url": "https://open.spotify.com/track/1JfXcv0wnppRHlnkHcULVV"
+    },
+    {
+      "album": {
+        "name": "Whippin' the Keys",
+        "url": "https://open.spotify.com/album/4QoewAeBhDUQSaplJwPHix"
+      },
+      "artists": [
+        {
+          "name": "Wally Rose",
+          "url": "https://open.spotify.com/artist/29ja2bTYI7u1VtxBTFkhyB"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167626,
+      "name": "New Era Rag",
+      "url": "https://open.spotify.com/track/6mBC9LUBJmWkJjiFUk82Se"
+    },
+    {
+      "album": {
+        "name": "Magnetic Rag",
+        "url": "https://open.spotify.com/album/39papysaDcE6CtF8wjvlAF"
+      },
+      "artists": [
+        {
+          "name": "Waldham Ragtime Pianos",
+          "url": "https://open.spotify.com/artist/0494lwWXTnzzYxlGM8czb5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164568,
+      "name": "Operatic Rag",
+      "url": "https://open.spotify.com/track/4b67iD9BqlVYldEVvrrFCv"
+    },
+    {
+      "album": {
+        "name": "Classic Rags Piano Solos, Vol. 4",
+        "url": "https://open.spotify.com/album/1f1dYTmbEN5a9m0g7va9ul"
+      },
+      "artists": [
+        {
+          "name": "Leslie Bridges",
+          "url": "https://open.spotify.com/artist/7m6HwLg3nTQoO2eVMhiGiw"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165382,
+      "name": "Paramount Rag",
+      "url": "https://open.spotify.com/track/7xaVQzLgWJOLqmgAWBc6h7"
+    },
+    {
+      "album": {
+        "name": "World's Greatest Piano Rags",
+        "url": "https://open.spotify.com/album/0wVhPHbbIBmNKVbQdvI9tQ"
+      },
+      "artists": [
+        {
+          "name": "Artie Matthews",
+          "url": "https://open.spotify.com/artist/2KIguemK1D0eYCp8ZNMlIL"
+        },
+        {
+          "name": "Richard Dowling",
+          "url": "https://open.spotify.com/artist/7JWgPh8XaVXPsaqbSyOL77"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122760,
+      "name": "Pastime Rag No. 4",
+      "url": "https://open.spotify.com/track/62KHXPpRjwi3HPPOO2MmHG"
+    },
+    {
+      "album": {
+        "name": "Hilarity",
+        "url": "https://open.spotify.com/album/2e91VHqCOu9juKYJVCHVR4"
+      },
+      "artists": [
+        {
+          "name": "Jazzou Jones",
+          "url": "https://open.spotify.com/artist/0RuY3axETsXyKXHHO0hpKv"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203360,
+      "name": "Patricia Rag",
+      "url": "https://open.spotify.com/track/6A431z6iC8Lk8880VEEEG6"
+    },
+    {
+      "album": {
+        "name": "Charleston Rag",
+        "url": "https://open.spotify.com/album/47f969oRBPbmRfS6jdVXQE"
+      },
+      "artists": [
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186671,
+      "name": "Peace and Plenty Rag",
+      "url": "https://open.spotify.com/track/7G3GHUoDuOBoTrHP04VMDj"
+    },
+    {
+      "album": {
+        "name": "Takes Two",
+        "url": "https://open.spotify.com/album/4z0K2p0J1DV7cLsOP3Bk6O"
+      },
+      "artists": [
+        {
+          "name": "Jack & Chris Bradshaw",
+          "url": "https://open.spotify.com/artist/5XlcJcvLov5rq4hXjxy3py"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165040,
+      "name": "Possum and Taters",
+      "url": "https://open.spotify.com/track/2TfcBFuqV3vOfaCJKVifAB"
+    },
+    {
+      "album": {
+        "name": "James Scott: The Complete Works (Rags, Waltzes & Songs)",
+        "url": "https://open.spotify.com/album/0j118C9e7zYtG2bV8JdiI4"
+      },
+      "artists": [
+        {
+          "name": "Guido Nielsen",
+          "url": "https://open.spotify.com/artist/2hk0CLU0IghkuxFs4jx8ZU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233893,
+      "name": "Rag Sentimental",
+      "url": "https://open.spotify.com/track/3bG4me64hbVIVO0zAIkohe"
+    },
+    {
+      "album": {
+        "name": "Ragtime",
+        "url": "https://open.spotify.com/album/0UNeYC6icoR0UbvUZD7JYs"
+      },
+      "artists": [
+        {
+          "name": "William Ogmundson",
+          "url": "https://open.spotify.com/artist/5uDWJuVykK2j91dsIItMhG"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215133,
+      "name": "Ragtime Nightingale",
+      "url": "https://open.spotify.com/track/6JwN8CvXOJXFMm4pHdx4qX"
+    },
+    {
+      "album": {
+        "name": "Ragtime Revival",
+        "url": "https://open.spotify.com/album/1PgJncp4RezmMO006IYusf"
+      },
+      "artists": [
+        {
+          "name": "Scott Cotton",
+          "url": "https://open.spotify.com/artist/4akQiTcM2tYyt9y5ijVBzU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Ragtime Oriole",
+      "url": "https://open.spotify.com/track/7jp3NMj2U44WSBGHtjrGGp"
+    },
+    {
+      "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134256,
+      "name": "Reflection Rag",
+      "url": "https://open.spotify.com/track/1spkEBNNlnXvdLXPhznynG"
+    },
+    {
+      "album": {
+        "name": "Christmas Eve 1915",
+        "url": "https://open.spotify.com/album/1YMw838UtJYBBzhCLDMT4C"
+      },
+      "artists": [
+        {
+          "name": "Bill Edwards",
+          "url": "https://open.spotify.com/artist/4nwMcAEEwpBDueIkUK65SN"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198173,
+      "name": "Reindeer Rag",
+      "url": "https://open.spotify.com/track/3fyYH2qSoxabCNsFLRF1Rz"
+    },
+    {
+      "album": {
+        "name": "The Piano Rolls, Volume Two",
+        "url": "https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114906,
+      "name": "Rialto Ripples",
+      "url": "https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g"
+    },
+    {
+      "album": {
+        "name": "Elite Syncopations",
+        "url": "https://open.spotify.com/album/1QHrpvRzwEupSHU38lppez"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Scott Joplin's New Rag",
+      "url": "https://open.spotify.com/track/49uqrtWArmME93qBRrHamC"
+    },
+    {
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148577,
+      "name": "Sensation Rag",
+      "url": "https://open.spotify.com/track/2PtZyMXdMvbimCmx9v6j8O"
+    },
+    {
+      "album": {
+        "name": "Joplin: Piano Rags, Vol. 1",
+        "url": "https://open.spotify.com/album/0lNT0wgggNxAUsquXDQX7X"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Alexander Peskanov",
+          "url": "https://open.spotify.com/artist/3ign9P0e3deW95GcSEhCBU"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415880,
+      "name": "Solace: Solace: A Mexican Serenade",
+      "url": "https://open.spotify.com/track/1Rx5e9Sj4Dm7LliHE9ysHP"
+    },
+    {
+      "album": {
+        "name": "The Greatest Ragtime Of The Century",
+        "url": "https://open.spotify.com/album/2BTwlNNLlpPL9jwQzYzFNj"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196720,
+      "name": "Something Doing",
+      "url": "https://open.spotify.com/track/5A35y6b1dGEbkMFBGFmCFQ"
+    },
+    {
+      "album": {
+        "name": "The Best Of Scott Joplin",
+        "url": "https://open.spotify.com/album/300iEB8P24hhTozzVI2Mfl"
+      },
+      "artists": [
+        {
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "St. Louis Rag",
+      "url": "https://open.spotify.com/track/58NvSG4gwrmAfoXedtU7YK"
+    },
+    {
+      "album": {
+        "name": "Scott Joplin Greatest Hits",
+        "url": "https://open.spotify.com/album/5fFPJzOXH8gdxuodz1EsAD"
+      },
+      "artists": [
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181026,
+      "name": "Sugar Cane",
+      "url": "https://open.spotify.com/track/6Z6oioQU909D5BbfdU4rss"
+    },
+    {
+      "album": {
+        "name": "Original Ragtime",
+        "url": "https://open.spotify.com/album/5FySxwKiaVp9QkdP2fGQTm"
+      },
+      "artists": [
+        {
+          "name": "Claude Bolling",
+          "url": "https://open.spotify.com/artist/17YFYixTwkosluOZZJWhjb"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170573,
+      "name": "Temptation Rag",
+      "url": "https://open.spotify.com/track/5dSayG6yo6erxGYIiZPEhN"
+    },
+    {
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/3c3KuxBqiBX4fmHYV7sit5"
+      },
+      "artists": [
+        {
+          "name": "Tom Brier",
+          "url": "https://open.spotify.com/artist/1MS1jbrxtz1iQg1Gl0z7kL"
+        }
+      ],
+      "date_added": "2022-03-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "That American Rag",
+      "url": "https://open.spotify.com/track/1PayBvFJAeaQl6PcHRu7H0"
+    },
+    {
+      "album": {
+        "name": "Handful of Keys: Face-Melting Ragtime Played by Martin Spitznagel",
+        "url": "https://open.spotify.com/album/2eDQ5CG2GFO7tClYNS9S9b"
+      },
+      "artists": [
+        {
+          "name": "Martin Spitznagel",
+          "url": "https://open.spotify.com/artist/2FANFYc7uOUVwemb0jm9vX"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "The Easy Winners",
+      "url": "https://open.spotify.com/track/2JG7qkeDRvk7QA8CKZBXsJ"
+    },
+    {
+      "album": {
+        "name": "Fingerbreaker: Classics Of Ragtime And Early Jazz Piano",
+        "url": "https://open.spotify.com/album/3PnN5AHFAONQAXr5OEjrmJ"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Morten Gunnar Larsen",
+          "url": "https://open.spotify.com/artist/0abhXJIOH1NqbsXLaZD2DI"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233600,
+      "name": "The Entertainer",
+      "url": "https://open.spotify.com/track/6DWIm1TfM9WiCNQeLbbAsd"
+    },
+    {
+      "album": {
+        "name": "The Complete Piano Works of Scott Joplin",
+        "url": "https://open.spotify.com/album/5FG1LBNhmZgxLwYiEKilXe"
+      },
+      "artists": [
+        {
+          "name": "Knocky Parker",
+          "url": "https://open.spotify.com/artist/5GxGw0V1OnTsb5V4DtnxUY"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85889,
+      "name": "The Nonpareil",
+      "url": "https://open.spotify.com/track/0hFZqcLNnXjFz14gZj34Hk"
+    },
+    {
+      "album": {
+        "name": "Joplin: Piano Rags, Vol. 2",
+        "url": "https://open.spotify.com/album/00hTiYtvFtdxKOiDta1kNU"
+      },
+      "artists": [
+        {
+          "name": "Scott Joplin",
+          "url": "https://open.spotify.com/artist/5FgkTUuCNKDlilidPvZqOq"
+        },
+        {
+          "name": "Benjamin Loeb",
+          "url": "https://open.spotify.com/artist/67UL1dFPdXgJCBSRRyRGgi"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "The Ragtime Dance: Rag-Time Dance, A Stop-Time Two Step",
+      "url": "https://open.spotify.com/track/7Eqi544QtAAGZ2aITewHzZ"
+    },
+    {
+      "album": {
+        "name": "The World Of Scott Joplin",
+        "url": "https://open.spotify.com/album/5hg3Km0IQSIa8I1Q8YB2Pl"
+      },
+      "artists": [
+        {
+          "name": "Max Morath",
+          "url": "https://open.spotify.com/artist/34Mreq5fPf8HWbVhNFTJIF"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Top Liner Rag",
+      "url": "https://open.spotify.com/track/3wQVZKxvSnaSiBaNFX80Od"
+    },
+    {
+      "album": {
+        "name": "Eighty Six Years Of Eubie Blake",
+        "url": "https://open.spotify.com/album/5CKfWa3U9PeFEuBhgGBhJX"
+      },
+      "artists": [
+        {
+          "name": "Eubie Blake",
+          "url": "https://open.spotify.com/artist/35Y7WdrKm5TItu5yHOJ69U"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122653,
+      "name": "Troublesome Ivories",
+      "url": "https://open.spotify.com/track/1X2NYWrWmpIbs5ALWeZ6Iy"
+    },
+    {
+      "album": {
+        "name": "50 Ragtime Classics: The Best of Scott Joplin",
+        "url": "https://open.spotify.com/album/2EoRBT3U0HLCnbWl7swfXY"
+      },
+      "artists": [
+        {
+          "name": "Donald Beavers",
+          "url": "https://open.spotify.com/artist/5Ecn8b9b3epJp9etNNZSg5"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112684,
+      "name": "Wall Street Rag",
+      "url": "https://open.spotify.com/track/3hTDYslHMaFW29u4yU07Vb"
+    },
+    {
+      "album": {
+        "name": "Syncopated Musings: Classic Piano Rags And Ragtime Waltzes",
+        "url": "https://open.spotify.com/album/7b8BlvfYIPvB31z8XxfXx3"
+      },
+      "artists": [
+        {
+          "name": "Bryan Wright",
+          "url": "https://open.spotify.com/artist/03KJxEQYBqhmSqdqI1tEgf"
+        }
+      ],
+      "date_added": "2020-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255826,
+      "name": "Weeping Willow (Scott Joplin)",
+      "url": "https://open.spotify.com/track/5STf3aWfQmVQmv5VPzxS1N"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0Qrm1eJnnVv"
 }

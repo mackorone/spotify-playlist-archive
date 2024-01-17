@@ -509,6 +509,28 @@
     },
     {
       "album": {
+        "name": "Cobain",
+        "url": "https://open.spotify.com/album/0PnNVejKg9bbz5uBi41K2A"
+      },
+      "artists": [
+        {
+          "name": "Eddie And The Getaway",
+          "url": "https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j"
+        },
+        {
+          "name": "Jay Webb",
+          "url": "https://open.spotify.com/artist/74a1KhMBkw4iweAtpbjuHk"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137441,
+      "name": "Cobain",
+      "url": "https://open.spotify.com/track/5QCEu7LvgqZwQW1UbkLBYj"
+    },
+    {
+      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/3CZ9ox5C5n3dWT4OIX9aTg"
       },

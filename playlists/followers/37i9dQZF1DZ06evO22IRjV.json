@@ -1,569 +1,1971 @@
 {
-  "2022-06-10": 25763,
-  "2022-06-11": 25762,
-  "2022-06-12": 25764,
-  "2022-06-13": 25775,
-  "2022-06-14": 25781,
-  "2022-06-15": 25783,
-  "2022-06-16": 25788,
-  "2022-06-17": 25790,
-  "2022-06-18": 25795,
-  "2022-06-19": 25800,
-  "2022-06-20": 25800,
-  "2022-06-21": 25804,
-  "2022-06-22": 25820,
-  "2022-06-23": 25820,
-  "2022-06-24": 25830,
-  "2022-06-25": 25840,
-  "2022-06-26": 25838,
-  "2022-06-27": 25841,
-  "2022-06-28": 25847,
-  "2022-06-29": 25857,
-  "2022-06-30": 25858,
-  "2022-07-01": 25868,
-  "2022-07-02": 25871,
-  "2022-07-03": 25884,
-  "2022-07-04": 25893,
-  "2022-07-05": 25893,
-  "2022-07-06": 25893,
-  "2022-07-07": 25918,
-  "2022-07-08": 25923,
-  "2022-07-09": 25925,
-  "2022-07-10": 25927,
-  "2022-07-11": 25926,
-  "2022-07-12": 25931,
-  "2022-07-13": 25935,
-  "2022-07-14": 25946,
-  "2022-07-15": 25954,
-  "2022-07-16": 25955,
-  "2022-07-17": 25962,
-  "2022-07-18": 25966,
-  "2022-07-19": 25967,
-  "2022-07-20": 25967,
-  "2022-07-21": 25974,
-  "2022-07-22": 25978,
-  "2022-07-23": 25981,
-  "2022-07-24": 25982,
-  "2022-07-25": 25986,
-  "2022-07-26": 25988,
-  "2022-07-27": 25986,
-  "2022-07-28": 25993,
-  "2022-07-29": 25996,
-  "2022-07-30": 25998,
-  "2022-07-31": 25998,
-  "2022-08-01": 26003,
-  "2022-08-02": 26013,
-  "2022-08-03": 26013,
-  "2022-08-04": 26014,
-  "2022-08-05": 26016,
-  "2022-08-06": 26015,
-  "2022-08-07": 26016,
-  "2022-08-08": 26021,
-  "2022-08-09": 26024,
-  "2022-08-10": 26032,
-  "2022-08-11": 26031,
-  "2022-08-12": 26030,
-  "2022-08-13": 26035,
-  "2022-08-14": 26039,
-  "2022-08-15": 26042,
-  "2022-08-16": 26045,
-  "2022-08-17": 26057,
-  "2022-08-18": 26055,
-  "2022-08-19": 26062,
-  "2022-08-20": 26066,
-  "2022-08-21": 26065,
-  "2022-08-22": 26079,
-  "2022-08-23": 26078,
-  "2022-08-24": 26079,
-  "2022-08-25": 26091,
-  "2022-08-26": 26096,
-  "2022-08-27": 26097,
-  "2022-08-28": 26107,
-  "2022-08-29": 26104,
-  "2022-08-30": 26098,
-  "2022-08-31": 26087,
-  "2022-09-01": 26070,
-  "2022-09-02": 26053,
-  "2022-09-03": 26021,
-  "2022-09-04": 26009,
-  "2022-09-05": 26012,
-  "2022-09-06": 26015,
-  "2022-09-07": 26024,
-  "2022-09-09": 26031,
-  "2022-09-10": 26045,
-  "2022-09-11": 26051,
-  "2022-09-12": 26057,
-  "2022-09-13": 26069,
-  "2022-09-15": 26081,
-  "2022-09-16": 26090,
-  "2022-09-17": 26095,
-  "2022-09-18": 26101,
-  "2022-09-19": 26105,
-  "2022-09-20": 26109,
-  "2022-09-21": 26110,
-  "2022-09-22": 26119,
-  "2022-09-23": 26130,
-  "2022-09-24": 26130,
-  "2022-09-25": 26136,
-  "2022-09-26": 26139,
-  "2022-09-27": 26137,
-  "2022-09-28": 26144,
-  "2022-09-29": 26150,
-  "2022-09-30": 26159,
-  "2022-10-01": 26164,
-  "2022-10-02": 26173,
-  "2022-10-03": 26183,
-  "2022-10-04": 26203,
-  "2022-10-05": 26216,
-  "2022-10-06": 26224,
-  "2022-10-07": 26240,
-  "2022-10-08": 26245,
-  "2022-10-09": 26258,
-  "2022-10-10": 26261,
-  "2022-10-11": 26271,
-  "2022-10-12": 26275,
-  "2022-10-13": 26280,
-  "2022-10-14": 26284,
-  "2022-10-15": 26291,
-  "2022-10-16": 26295,
-  "2022-10-17": 26301,
-  "2022-10-18": 26303,
-  "2022-10-19": 26302,
-  "2022-10-20": 26303,
-  "2022-10-21": 26307,
-  "2022-10-22": 26312,
-  "2022-10-23": 26320,
-  "2022-10-24": 26329,
-  "2022-10-25": 26334,
-  "2022-10-26": 26348,
-  "2022-10-27": 26352,
-  "2022-10-28": 26361,
-  "2022-10-29": 26362,
-  "2022-10-30": 26367,
-  "2022-10-31": 26375,
-  "2022-11-01": 26380,
-  "2022-11-02": 26384,
-  "2022-11-03": 26393,
-  "2022-11-04": 26397,
-  "2022-11-05": 26403,
-  "2022-11-06": 26410,
-  "2022-11-07": 26416,
-  "2022-11-08": 26425,
-  "2022-11-09": 26431,
-  "2022-11-10": 26435,
-  "2022-11-11": 26440,
-  "2022-11-12": 26448,
-  "2022-11-13": 26452,
-  "2022-11-14": 26455,
-  "2022-11-15": 26459,
-  "2022-11-16": 26464,
-  "2022-11-17": 26472,
-  "2022-11-18": 26472,
-  "2022-11-19": 26473,
-  "2022-11-20": 26477,
-  "2022-11-21": 26481,
-  "2022-11-22": 26489,
-  "2022-11-23": 26497,
-  "2022-11-24": 26511,
-  "2022-11-25": 26526,
-  "2022-11-26": 26533,
-  "2022-11-27": 26538,
-  "2022-11-28": 26540,
-  "2022-11-29": 26554,
-  "2022-11-30": 26562,
-  "2022-12-01": 26563,
-  "2022-12-02": 26569,
-  "2022-12-03": 26573,
-  "2022-12-04": 26584,
-  "2022-12-05": 26597,
-  "2022-12-06": 26604,
-  "2022-12-07": 26608,
-  "2022-12-08": 26613,
-  "2022-12-09": 26616,
-  "2022-12-10": 26620,
-  "2022-12-11": 26621,
-  "2022-12-12": 26623,
-  "2022-12-13": 26625,
-  "2022-12-14": 26631,
-  "2022-12-15": 26640,
-  "2022-12-16": 26652,
-  "2022-12-17": 26655,
-  "2022-12-18": 26658,
-  "2022-12-19": 26666,
-  "2022-12-20": 26667,
-  "2022-12-21": 26667,
-  "2022-12-22": 26673,
-  "2022-12-24": 26693,
-  "2022-12-25": 26696,
-  "2022-12-26": 26698,
-  "2022-12-27": 26699,
-  "2022-12-28": 26703,
-  "2022-12-29": 26706,
-  "2022-12-30": 26708,
-  "2022-12-31": 26717,
-  "2023-01-01": 26723,
-  "2023-01-02": 26730,
-  "2023-01-03": 26736,
-  "2023-01-04": 26738,
-  "2023-01-05": 26745,
-  "2023-01-06": 26749,
-  "2023-01-07": 26752,
-  "2023-01-08": 26753,
-  "2023-01-09": 26759,
-  "2023-01-10": 26763,
-  "2023-01-11": 26771,
-  "2023-01-12": 26776,
-  "2023-01-13": 26783,
-  "2023-01-14": 26792,
-  "2023-01-15": 26797,
-  "2023-01-16": 26804,
-  "2023-01-17": 26805,
-  "2023-01-18": 26809,
-  "2023-01-19": 26816,
-  "2023-01-20": 26821,
-  "2023-01-21": 26828,
-  "2023-01-22": 26832,
-  "2023-01-23": 26839,
-  "2023-01-24": 26841,
-  "2023-01-25": 26846,
-  "2023-01-26": 26849,
-  "2023-01-27": 26854,
-  "2023-01-28": 26874,
-  "2023-01-29": 26888,
-  "2023-01-30": 26899,
-  "2023-01-31": 26899,
-  "2023-02-01": 26923,
-  "2023-02-02": 26930,
-  "2023-02-03": 26932,
-  "2023-02-04": 26935,
-  "2023-02-05": 26947,
-  "2023-02-06": 26956,
-  "2023-02-07": 26966,
-  "2023-02-08": 26998,
-  "2023-02-09": 26998,
-  "2023-02-10": 27012,
-  "2023-02-11": 27026,
-  "2023-02-12": 27042,
-  "2023-02-13": 27054,
-  "2023-02-14": 27054,
-  "2023-02-15": 27067,
-  "2023-02-16": 27079,
-  "2023-02-17": 27088,
-  "2023-02-18": 27102,
-  "2023-02-19": 27103,
-  "2023-02-20": 27102,
-  "2023-02-21": 27109,
-  "2023-02-22": 27115,
-  "2023-02-23": 27121,
-  "2023-02-24": 27128,
-  "2023-02-25": 27134,
-  "2023-02-26": 27134,
-  "2023-02-27": 27144,
-  "2023-02-28": 27144,
-  "2023-03-01": 27152,
-  "2023-03-02": 27162,
-  "2023-03-03": 27169,
-  "2023-03-04": 27178,
-  "2023-03-05": 27182,
-  "2023-03-06": 27182,
-  "2023-03-07": 27190,
-  "2023-03-08": 27195,
-  "2023-03-09": 27200,
-  "2023-03-10": 27205,
-  "2023-03-11": 27213,
-  "2023-03-12": 27222,
-  "2023-03-13": 27231,
-  "2023-03-14": 27239,
-  "2023-03-15": 27246,
-  "2023-03-16": 27246,
-  "2023-03-17": 27246,
-  "2023-03-18": 27264,
-  "2023-03-19": 27264,
-  "2023-03-20": 27280,
-  "2023-03-21": 27283,
-  "2023-03-22": 27288,
-  "2023-03-23": 27303,
-  "2023-03-24": 27303,
-  "2023-03-25": 27318,
-  "2023-03-26": 27324,
-  "2023-03-27": 27331,
-  "2023-03-28": 27334,
-  "2023-03-29": 27340,
-  "2023-03-30": 27346,
-  "2023-03-31": 27346,
-  "2023-04-01": 27348,
-  "2023-04-02": 27351,
-  "2023-04-03": 27358,
-  "2023-04-04": 27361,
-  "2023-04-05": 27365,
-  "2023-04-06": 27369,
-  "2023-04-07": 27379,
-  "2023-04-09": 27400,
-  "2023-04-10": 27404,
-  "2023-04-11": 27415,
-  "2023-04-12": 27415,
-  "2023-04-13": 27432,
-  "2023-04-14": 27446,
-  "2023-04-15": 27456,
-  "2023-04-16": 27461,
-  "2023-04-17": 27471,
-  "2023-04-18": 27473,
-  "2023-04-19": 27483,
-  "2023-04-20": 27487,
-  "2023-04-21": 27498,
-  "2023-04-22": 27506,
-  "2023-04-23": 27518,
-  "2023-04-24": 27526,
-  "2023-04-25": 27530,
-  "2023-04-26": 27532,
-  "2023-04-27": 27537,
-  "2023-04-28": 27550,
-  "2023-04-29": 27555,
-  "2023-04-30": 27564,
-  "2023-05-01": 27568,
-  "2023-05-02": 27568,
-  "2023-05-03": 27579,
-  "2023-05-04": 27580,
-  "2023-05-05": 27588,
-  "2023-05-06": 27590,
-  "2023-05-07": 27596,
-  "2023-05-08": 27597,
-  "2023-05-09": 27599,
-  "2023-05-10": 27603,
-  "2023-05-11": 27607,
-  "2023-05-12": 27617,
-  "2023-05-13": 27629,
-  "2023-05-14": 27636,
-  "2023-05-15": 27631,
-  "2023-05-16": 27638,
-  "2023-05-17": 27637,
-  "2023-05-18": 27643,
-  "2023-05-19": 27643,
-  "2023-05-20": 27656,
-  "2023-05-21": 27656,
-  "2023-05-22": 27656,
-  "2023-05-23": 27685,
-  "2023-05-24": 27697,
-  "2023-05-25": 27701,
-  "2023-05-26": 27709,
-  "2023-05-27": 27718,
-  "2023-05-28": 27722,
-  "2023-05-29": 27722,
-  "2023-05-30": 27737,
-  "2023-05-31": 27738,
-  "2023-06-01": 27740,
-  "2023-06-02": 27742,
-  "2023-06-03": 27742,
-  "2023-06-04": 27751,
-  "2023-06-05": 27759,
-  "2023-06-06": 27768,
-  "2023-06-07": 27773,
-  "2023-06-08": 27778,
-  "2023-06-09": 27792,
-  "2023-06-10": 27808,
-  "2023-06-11": 27815,
-  "2023-06-12": 27819,
-  "2023-06-13": 27825,
-  "2023-06-14": 27829,
-  "2023-06-15": 27835,
-  "2023-06-16": 27842,
-  "2023-06-17": 27847,
-  "2023-06-18": 27859,
-  "2023-06-19": 27862,
-  "2023-06-20": 27870,
-  "2023-06-21": 27877,
-  "2023-06-22": 27878,
-  "2023-06-23": 27886,
-  "2023-06-24": 27885,
-  "2023-06-25": 27894,
-  "2023-06-26": 27908,
-  "2023-06-27": 27917,
-  "2023-06-28": 27932,
-  "2023-06-29": 27950,
-  "2023-06-30": 27964,
-  "2023-07-01": 27989,
-  "2023-07-02": 27989,
-  "2023-07-03": 27995,
-  "2023-07-04": 28012,
-  "2023-07-05": 28021,
-  "2023-07-06": 28035,
-  "2023-07-07": 28035,
-  "2023-07-08": 28035,
-  "2023-07-09": 28051,
-  "2023-07-10": 28059,
-  "2023-07-11": 28068,
-  "2023-07-12": 28076,
-  "2023-07-13": 28087,
-  "2023-07-14": 28097,
-  "2023-07-15": 28104,
-  "2023-07-16": 28119,
-  "2023-07-17": 28142,
-  "2023-07-18": 28153,
-  "2023-07-19": 28169,
-  "2023-07-20": 28175,
-  "2023-07-21": 28184,
-  "2023-07-22": 28194,
-  "2023-07-23": 28209,
-  "2023-07-24": 28218,
-  "2023-07-25": 28225,
-  "2023-07-26": 28230,
-  "2023-07-27": 28242,
-  "2023-07-28": 28244,
-  "2023-07-29": 28263,
-  "2023-07-30": 28268,
-  "2023-07-31": 28284,
-  "2023-08-01": 28297,
-  "2023-08-02": 28316,
-  "2023-08-03": 28324,
-  "2023-08-04": 28333,
-  "2023-08-05": 28338,
-  "2023-08-06": 28344,
-  "2023-08-07": 28344,
-  "2023-08-08": 28354,
-  "2023-08-09": 28367,
-  "2023-08-10": 28374,
-  "2023-08-11": 28384,
-  "2023-08-12": 28384,
-  "2023-08-13": 28384,
-  "2023-08-14": 28409,
-  "2023-08-15": 28409,
-  "2023-08-16": 28409,
-  "2023-08-17": 28409,
-  "2023-08-18": 28409,
-  "2023-08-19": 28409,
-  "2023-08-20": 28454,
-  "2023-08-21": 28454,
-  "2023-08-22": 28458,
-  "2023-08-23": 28458,
-  "2023-08-24": 28458,
-  "2023-08-25": 28458,
-  "2023-08-26": 28476,
-  "2023-08-27": 28476,
-  "2023-08-28": 28487,
-  "2023-08-29": 28487,
-  "2023-08-30": 28487,
-  "2023-08-31": 28511,
-  "2023-09-01": 28516,
-  "2023-09-02": 28516,
-  "2023-09-03": 28537,
-  "2023-09-04": 28537,
-  "2023-09-05": 28537,
-  "2023-09-06": 28546,
-  "2023-09-07": 28546,
-  "2023-09-08": 28546,
-  "2023-09-09": 28546,
-  "2023-09-10": 28574,
-  "2023-09-11": 28574,
-  "2023-09-12": 28574,
-  "2023-09-13": 28586,
-  "2023-09-14": 28586,
-  "2023-09-15": 28586,
-  "2023-09-16": 28603,
-  "2023-09-17": 28603,
-  "2023-09-18": 28603,
-  "2023-09-19": 28614,
-  "2023-09-20": 28614,
-  "2023-09-21": 28614,
-  "2023-09-22": 28626,
-  "2023-09-23": 28626,
-  "2023-09-24": 28626,
-  "2023-09-25": 28626,
-  "2023-09-26": 28649,
-  "2023-09-27": 28649,
-  "2023-09-28": 28649,
-  "2023-09-29": 28649,
-  "2023-09-30": 28649,
-  "2023-10-01": 28649,
-  "2023-10-02": 28649,
-  "2023-10-03": 28649,
-  "2023-10-04": 28649,
-  "2023-10-05": 28681,
-  "2023-10-06": 28681,
-  "2023-10-07": 28681,
-  "2023-10-08": 28681,
-  "2023-10-09": 28681,
-  "2023-10-10": 28681,
-  "2023-10-11": 28686,
-  "2023-10-12": 28686,
-  "2023-10-13": 28686,
-  "2023-10-14": 28686,
-  "2023-10-15": 28686,
-  "2023-10-16": 28686,
-  "2023-10-17": 28686,
-  "2023-10-18": 28686,
-  "2023-10-19": 28686,
-  "2023-10-20": 28686,
-  "2023-10-21": 28686,
-  "2023-10-22": 28686,
-  "2023-10-23": 28686,
-  "2023-10-24": 28686,
-  "2023-10-25": 28686,
-  "2023-10-26": 28686,
-  "2023-10-27": 28686,
-  "2023-10-28": 28686,
-  "2023-10-29": 28686,
-  "2023-10-30": 28686,
-  "2023-10-31": 28686,
-  "2023-11-01": 28686,
-  "2023-11-02": 28686,
-  "2023-11-03": 28686,
-  "2023-11-04": 28686,
-  "2023-11-05": 28686,
-  "2023-11-06": 28686,
-  "2023-11-07": 28686,
-  "2023-11-08": 28686,
-  "2023-11-09": 28686,
-  "2023-11-10": 28686,
-  "2023-11-11": 28744,
-  "2023-11-12": 28744,
-  "2023-11-13": 28744,
-  "2023-11-14": 28744,
-  "2023-11-15": 28744,
-  "2023-11-16": 28744,
-  "2023-11-17": 28744,
-  "2023-11-18": 28744,
-  "2023-11-19": 28744,
-  "2023-11-20": 28744,
-  "2023-11-21": 28744,
-  "2023-11-22": 28744,
-  "2023-11-23": 28744,
-  "2023-11-24": 28744,
-  "2023-11-25": 28744,
-  "2023-11-26": 28744,
-  "2023-11-27": 28744,
-  "2023-11-28": 28744,
-  "2023-11-29": 28744,
-  "2023-11-30": 28744,
-  "2023-12-01": 28744,
-  "2023-12-02": 28744,
-  "2023-12-03": 28744,
-  "2023-12-04": 28744,
-  "2023-12-05": 28744,
-  "2023-12-06": 28744,
-  "2023-12-07": 28744,
-  "2023-12-08": 28744,
-  "2023-12-09": 28744,
-  "2023-12-10": 28744,
-  "2023-12-11": 28744,
-  "2023-12-12": 28744,
-  "2023-12-13": 28744,
-  "2023-12-14": 28827,
-  "2023-12-15": 28830,
-  "2023-12-16": 28830,
-  "2023-12-17": 28838,
-  "2023-12-18": 28842,
-  "2023-12-19": 28845,
-  "2023-12-20": 28845,
-  "2023-12-21": 28849,
-  "2023-12-22": 28853,
-  "2023-12-23": 28856,
-  "2023-12-24": 28857,
-  "2023-12-25": 28860,
-  "2023-12-26": 28863,
-  "2023-12-27": 28866,
-  "2023-12-30": 28876,
-  "2023-12-31": 28878,
-  "2024-01-01": 28874,
-  "2024-01-02": 28870,
-  "2024-01-03": 28871
+  "2024-01-17": 28797,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is FLOW. The essential tracks, all in one playlist.",
+  "name": "This Is FLOW",
+  "tracks": [
+    {
+      "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233053,
+      "name": "1/3\u306e\u7d14\u60c5\u306a\u611f\u60c5",
+      "url": "https://open.spotify.com/track/3TCMnZY6XV6xNBDRzl7fdm"
+    },
+    {
+      "album": {
+        "name": "7 -seven- -TV SIZE-",
+        "url": "https://open.spotify.com/album/645qSo6qBTQVr9P3554fRf"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 89438,
+      "name": "7 -seven- -TV SIZE-",
+      "url": "https://open.spotify.com/track/1WGPIbjStYfSEwE4d9yNBu"
+    },
+    {
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "7-seven-",
+      "url": "https://open.spotify.com/track/780QeWn8OYJXSqpNTgt5pY"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279733,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/0lDEkAEv0QuxJGZ1nn4JIx"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 264173,
+      "name": "Around the world",
+      "url": "https://open.spotify.com/track/77HKgMnchdm8QwCO4RhXck"
+    },
+    {
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 243226,
+      "name": "AWAKE",
+      "url": "https://open.spotify.com/track/4gSCA9MWYMEiSnmuB0r2DY"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u8272 / Break it down",
+        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 249840,
+      "name": "Break it down",
+      "url": "https://open.spotify.com/track/6cpmyYg4hrBOGDqmgblo8N"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
+        "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244013,
+      "name": "BURN",
+      "url": "https://open.spotify.com/track/2gUYrbCQ3kbtPr6Xcte7IB"
+    },
+    {
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214773,
+      "name": "CALLING",
+      "url": "https://open.spotify.com/track/3BSBk36aL1s8W2idgESjGk"
+    },
+    {
+      "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201453,
+      "name": "CHA-LA HEAD-CHA-LA",
+      "url": "https://open.spotify.com/track/55OTFD2MPHvPZrHYxGrjbg"
+    },
+    {
+      "album": {
+        "name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c/CHA-LA HEAD-CHA-LA",
+        "url": "https://open.spotify.com/album/3rR3ZwTQCoVHqOO71IIweu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 205840,
+      "name": "CHA-LA HEAD-CHA-LA -Official English Ver.-",
+      "url": "https://open.spotify.com/track/63anoIC8smdJE2BTPZv8q6"
+    },
+    {
+      "album": {
+        "name": "CHEMYxSTORY (TV version)",
+        "url": "https://open.spotify.com/album/5Jv4Ytf5brdKi1BNk2BFQi"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 86033,
+      "name": "CHEMYxSTORY - TV Version",
+      "url": "https://open.spotify.com/track/3RTRCnWq84YZJC8P1q8qZk"
+    },
+    {
+      "album": {
+        "name": "CHEMY\u00d7STORY (TV size\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c)",
+        "url": "https://open.spotify.com/album/4We8VuTLtwzqksQYIlcoVb"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86033,
+      "name": "CHEMY\u00d7STORY - TV size\u300e\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ac\u30c3\u30c1\u30e3\u30fc\u30c9\u300f\u4e3b\u984c\u6b4c",
+      "url": "https://open.spotify.com/track/5BMgeaZhdDePSnXWXTonTq"
+    },
+    {
+      "album": {
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/71MY6Oc8qW00UdkoxRmVzb"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209527,
+      "name": "CLOSER",
+      "url": "https://open.spotify.com/track/5kbJRlLEBgMsYgrjUbLEjb"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "COLORS",
+      "url": "https://open.spotify.com/track/6bPPyigCphBBQ9781j6eKM"
+    },
+    {
+      "album": {
+        "name": "COLORS",
+        "url": "https://open.spotify.com/album/2eRkUeDSQpD0AuSUyR39nB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93786,
+      "name": "COLORS -CODE GEASS OPENING MIX-",
+      "url": "https://open.spotify.com/track/6xUBXdVdzs50AvqARndD1A"
+    },
+    {
+      "album": {
+        "name": "DICE Complete Edition",
+        "url": "https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 220173,
+      "name": "COLORS -New Mix-",
+      "url": "https://open.spotify.com/track/2yId85aVejyO6B22sjQSYj"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 220360,
+      "name": "Dark Shadow",
+      "url": "https://open.spotify.com/track/1XB1YzhlrsNL7DFxLlFPYV"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255200,
+      "name": "DAYS",
+      "url": "https://open.spotify.com/track/49g1yJUzm4VbQUrKTIcQIa"
+    },
+    {
+      "album": {
+        "name": "DAYS",
+        "url": "https://open.spotify.com/album/5MsoxL2VpPzd6m4o83HkTY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91786,
+      "name": "DAYS \u301cEUREKA OPENING MIX\u301c",
+      "url": "https://open.spotify.com/track/7vJYGBXAIBtnA1Gqnc44oD"
+    },
+    {
+      "album": {
+        "name": "DICE",
+        "url": "https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265333,
+      "name": "DICE",
+      "url": "https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD"
+    },
+    {
+      "album": {
+        "name": "New Waves Underscores",
+        "url": "https://open.spotify.com/album/1ULLSlDOY9hyxX7ptHMnrm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86297,
+      "name": "Fliessband Tr\u00e4ume - Remastered",
+      "url": "https://open.spotify.com/track/6XH0qJyZoWO04vMWIBEmrB"
+    },
+    {
+      "album": {
+        "name": "FLOW ANIME BEST",
+        "url": "https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 895280,
+      "name": "FLOW ANIME OP\u30fbED Size Special Collection",
+      "url": "https://open.spotify.com/track/0FS7VElufgTEqTDDgPMYzg"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 228066,
+      "name": "Garden \u301cSummer Edit\u301c",
+      "url": "https://open.spotify.com/track/56lzWIgPrLMT0i4ySGWmE4"
+    },
+    {
+      "album": {
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
+    },
+    {
+      "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "GLORY DAYS",
+      "url": "https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM"
+    },
+    {
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 310373,
+      "name": "GLOW",
+      "url": "https://open.spotify.com/track/1RDryrNg8yuMfMb51Geosd"
+    },
+    {
+      "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "GO!!!",
+      "url": "https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8"
+    },
+    {
+      "album": {
+        "name": "GOLD (Complete Edition)",
+        "url": "https://open.spotify.com/album/20aWtx1euYpNTwJ1p7Llfn"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 240626,
+      "name": "GO!!! -New Mix-",
+      "url": "https://open.spotify.com/track/5TiA7eXDbByfNKqcgpqqec"
+    },
+    {
+      "album": {
+        "name": "GOLD (Complete Edition)",
+        "url": "https://open.spotify.com/album/20aWtx1euYpNTwJ1p7Llfn"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 217160,
+      "name": "GO!!! -TeddyLoid Remix-",
+      "url": "https://open.spotify.com/track/0lO4ux3Um892UwlqayLIEe"
+    },
+    {
+      "album": {
+        "name": "Fighting Dreamers",
+        "url": "https://open.spotify.com/album/3zUIaK0fWvP24o9CVOCIvg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322946,
+      "name": "GO!!! \u301c15th Anniversary ver.\u301c",
+      "url": "https://open.spotify.com/track/0MqEHknhIF88dJmcT3AXrI"
+    },
+    {
+      "album": {
+        "name": "GOLD",
+        "url": "https://open.spotify.com/album/58Ehuw7hNz8w3dkj2RpQy4"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215485,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/7DeZ5S6wvmsRUq8qVCj4le"
+    },
+    {
+      "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217520,
+      "name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c",
+      "url": "https://open.spotify.com/track/1o7D1gLUgpFR3eJfIgpSUx"
+    },
+    {
+      "album": {
+        "name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c/CHA-LA HEAD-CHA-LA",
+        "url": "https://open.spotify.com/album/3rR3ZwTQCoVHqOO71IIweu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 219773,
+      "name": "HERO \u301c\u5e0c\u671b\u306e\u6b4c\u301c -Instrumental-",
+      "url": "https://open.spotify.com/track/73qVOcYz9HHJuQkUiABjVx"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 234293,
+      "name": "Hero's Come Back!!",
+      "url": "https://open.spotify.com/track/2HHrHcz3gbWOwaSogkbyxh"
+    },
+    {
+      "album": {
+        "name": "BLACK & WHITE",
+        "url": "https://open.spotify.com/album/5REfiCQKIQ8BkQUjQlzvfF"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222226,
+      "name": "Hey!!!",
+      "url": "https://open.spotify.com/track/1ccEcnMjkBufGHaxi4Yzdp"
+    },
+    {
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261546,
+      "name": "Howling",
+      "url": "https://open.spotify.com/track/1Iexk6Gy5GJLxeXD5fqf85"
+    },
+    {
+      "album": {
+        "name": "Howling",
+        "url": "https://open.spotify.com/album/69EHjc9rHKNBR7E6I2xAsL"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91906,
+      "name": "Howling -TV Size-",
+      "url": "https://open.spotify.com/track/3KAXKgP9pqOozsACcuFUsb"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Die in the Paradise",
+        "url": "https://open.spotify.com/album/5h4vAPIRjEEcZmmA3jiW1h"
+      },
+      "artists": [
+        {
+          "name": "BURNOUT SYNDROMES",
+          "url": "https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "I Don't Wanna Die in the Paradise",
+      "url": "https://open.spotify.com/track/7v819dMrXP7Tge0CycW5GX"
+    },
+    {
+      "album": {
+        "name": "INNOSENSE Special Edition",
+        "url": "https://open.spotify.com/album/3JxLf3XTj5Qw3jrnJeqjgV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "INNOSENSE",
+      "url": "https://open.spotify.com/track/1rRy8TzvkjTxvI2moGqmDl"
+    },
+    {
+      "album": {
+        "name": "LOST",
+        "url": "https://open.spotify.com/album/5LAeTXhPrXuYtoufcplUDu"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243134,
+      "name": "LOST",
+      "url": "https://open.spotify.com/track/6aVfbXl9xV7de7vaFxnYb6"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 245786,
+      "name": "Moshimo",
+      "url": "https://open.spotify.com/track/6oQfkY3h16OD2maQyPdxv4"
+    },
+    {
+      "album": {
+        "name": "New World",
+        "url": "https://open.spotify.com/album/0AXTw7cuAXPoXaRpYD912o"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/383mIRKWUO2x1B0xOGyTGC"
+    },
+    {
+      "album": {
+        "name": "7 -Seven-",
+        "url": "https://open.spotify.com/album/0wc895FLav9IyYVgGe8U1o"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "GRANRODEO",
+          "url": "https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 223946,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/0M2LuymnC548vTI54BxDNA"
+    },
+    {
+      "album": {
+        "name": "Coupling Collection",
+        "url": "https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Home Made Kazoku",
+          "url": "https://open.spotify.com/artist/2KnTQRef7hcVlK7vO9wPzI"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 296906,
+      "name": "NIGHT PARADE",
+      "url": "https://open.spotify.com/track/0z5V1ReQNK5Lkoz2ZADDHB"
+    },
+    {
+      "album": {
+        "name": "NOT ENOUGH",
+        "url": "https://open.spotify.com/album/59IL3p6UfwUsQ176vxluPm"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 202483,
+      "name": "NOT ENOUGH",
+      "url": "https://open.spotify.com/track/2lZDS2nIZR1UCdbxJkeWEx"
+    },
+    {
+      "album": {
+        "name": "NOT ENOUGH (feat. FLOW)",
+        "url": "https://open.spotify.com/album/32ft4dKQZ22vGyKGd2WWzh"
+      },
+      "artists": [
+        {
+          "name": "BACK-ON",
+          "url": "https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-20",
+      "duration_ms": 202483,
+      "name": "NOT ENOUGH - feat. FLOW",
+      "url": "https://open.spotify.com/track/1nwJKZkhSmVQBq9qxEdgUT"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc (Complete Edition)",
+        "url": "https://open.spotify.com/album/0lyTVQuqKMhQDoedVeaxEW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "O2",
+      "url": "https://open.spotify.com/track/3OMBXsuVWujn3bPQXZgHvh"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "hisashi",
+          "url": "https://open.spotify.com/artist/2nYRoAv0c0q4lxZ7rECDkL"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 250066,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3ydfozBnIvZq29SPCCryL6"
+    },
+    {
+      "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-03",
+      "duration_ms": 252400,
+      "name": "ONENESS",
+      "url": "https://open.spotify.com/track/0S71als4AvtlAU7Pcb7OJJ"
+    },
+    {
+      "album": {
+        "name": "TRIBALYTHM",
+        "url": "https://open.spotify.com/album/6A0ykwv3Udt4lliPV0o1ar"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252120,
+      "name": "PENDULUM",
+      "url": "https://open.spotify.com/track/5HlyhgXglM2BSJocbcfeih"
+    },
+    {
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 225506,
+      "name": "PLANETARIUM",
+      "url": "https://open.spotify.com/track/5euS1eMWE65z8q2UpL0mgB"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199560,
+      "name": "Re:member",
+      "url": "https://open.spotify.com/track/1hoQxGi3ujVYUzQDhXfvkN"
+    },
+    {
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4pwLHkVcHkLNPl8GjwEft1"
+    },
+    {
+      "album": {
+        "name": "Golden Coast",
+        "url": "https://open.spotify.com/album/4uxBcrKApgTExBfq07yulB"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 204866,
+      "name": "Rookie",
+      "url": "https://open.spotify.com/track/5Y1OvLqXxai7ZDTjtenWDm"
+    },
+    {
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236426,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/0xmWQKzc5m9rLv2ucDWxwD"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "Steppin' out",
+      "url": "https://open.spotify.com/track/3B2sFt25j7ThJeJtsSaUw3"
+    },
+    {
+      "album": {
+        "name": "Tales From The Graveyard",
+        "url": "https://open.spotify.com/album/30XNtAC9s0emH0sZuVhvo1"
+      },
+      "artists": [
+        {
+          "name": "Lil Na8",
+          "url": "https://open.spotify.com/artist/1JygLKyMevtU96P4b2raqQ"
+        },
+        {
+          "name": "Hulk DMI",
+          "url": "https://open.spotify.com/artist/7jO4Bbbjg5Kq8WTxGCQ8Ox"
+        },
+        {
+          "name": "Demzwon",
+          "url": "https://open.spotify.com/artist/0unRFbLE4nS7SIuNR8cIhj"
+        },
+        {
+          "name": "Crazy Mista D",
+          "url": "https://open.spotify.com/artist/2eF2zdUQ9kdWUmdysciP8l"
+        },
+        {
+          "name": "Brandon Swanger",
+          "url": "https://open.spotify.com/artist/1FbcE54pZg4pl9r2uGqFbf"
+        },
+        {
+          "name": "Raigner",
+          "url": "https://open.spotify.com/artist/1OVYp6uzv9DjuB9TmxMMx8"
+        },
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "WyteOut",
+          "url": "https://open.spotify.com/artist/4xv02D59nt9sXA6ZMQqxoR"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 291812,
+      "name": "Still Stalkin",
+      "url": "https://open.spotify.com/track/3NtFtycfZ3RfuvudxqHGc9"
+    },
+    {
+      "album": {
+        "name": "Coupling Collection",
+        "url": "https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 202466,
+      "name": "SUMMER FREAK",
+      "url": "https://open.spotify.com/track/0KtSYH0aepPLGfpMZ91xD0"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30c3\u30d7\u30ea\u30f3\u30b0\u30b3\u30ec\u30af\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/5vRqwl9mrEbdAMw6MmkY04"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 202466,
+      "name": "SUMMER FREAK",
+      "url": "https://open.spotify.com/track/5joopj7rLQyYMplSoXZjD3"
+    },
+    {
+      "album": {
+        "name": "MICROCOSM",
+        "url": "https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 271920,
+      "name": "UNION",
+      "url": "https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br"
+    },
+    {
+      "album": {
+        "name": "United Sparrows",
+        "url": "https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 219694,
+      "name": "United Sparrows",
+      "url": "https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR"
+    },
+    {
+      "album": {
+        "name": "Voyage",
+        "url": "https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 219146,
+      "name": "Voyage",
+      "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
+    },
+    {
+      "album": {
+        "name": "Winter Story",
+        "url": "https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 219707,
+      "name": "Winter Story",
+      "url": "https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB"
+    },
+    {
+      "album": {
+        "name": "#5",
+        "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 227706,
+      "name": "WORD OF THE VOICE",
+      "url": "https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM"
+    },
+    {
+      "album": {
+        "name": "#5",
+        "url": "https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226946,
+      "name": "WORLD END",
+      "url": "https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 329733,
+      "name": "\u3042\u308a\u304c\u3068\u3046",
+      "url": "https://open.spotify.com/track/3qMQ7fdeXHUoMLF2l1zK5o"
+    },
+    {
+      "album": {
+        "name": "Voy\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1bTyGypqlwvfmXLOGkzdFY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 208013,
+      "name": "\u3084\u3063\u3071\u308a\u30b7\u30f3\u30c9\u30d0\u30c3\u30c9",
+      "url": "https://open.spotify.com/track/6yww3SsvWNgvHWtBj6iLlm"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 263666,
+      "name": "\u30ab\u30e9\u30ce\u30b3\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/6zk1XtrpXMzx68WSWD5IwU"
+    },
+    {
+      "album": {
+        "name": "Voy\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1bTyGypqlwvfmXLOGkzdFY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 86626,
+      "name": "\u30b3\u30eb\u30b3\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7qKPkXpHB1SuOKWRKYBhjT"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/2FLdb5m1IRCPjKyD3LSRn0"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243640,
+      "name": "\u30b7\u30eb\u30a8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0XMSzGi3pf0CcfYaw7nyGt"
+    },
+    {
+      "album": {
+        "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/4pHB7QiyMIyOrzaToBoS3d"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "ORANGE RANGE",
+          "url": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217122,
+      "name": "\u30c7\u30a4\u30c9\u30ea\u30fc\u30e0 \u30d3\u30ea\u30fc\u30f4\u30a1\u30fc",
+      "url": "https://open.spotify.com/track/1IUpg0s2PNb5IQCjC8f3hj"
+    },
+    {
+      "album": {
+        "name": "GAME",
+        "url": "https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 250226,
+      "name": "\u30c9\u30ea\u30fc\u30e0\u30a8\u30af\u30b9\u30d7\u30ec\u30b9",
+      "url": "https://open.spotify.com/track/2aQ5QezEYtIbASLmvrJgMt"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 208013,
+      "name": "\u30d3\u30d0\u2605\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/7etzHG9skt5EClN1Xv0xBg"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30d0\u2605\u30ed\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6fWCFmUFCTOkK7w4SvTgMI"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 209360,
+      "name": "\u30d3\u30d0\u2605\u30ed\u30c3\u30af",
+      "url": "https://open.spotify.com/track/701Ma11gNU9dOg7WQGRLna"
+    },
+    {
+      "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 209000,
+      "name": "\u30d6\u30e9\u30c3\u30af\u30de\u30fc\u30b1\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/4HeMwFVoInSamuTYudlgGm"
+    },
+    {
+      "album": {
+        "name": "FLOW ANIME BEST \u6975",
+        "url": "https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Diana Garnet",
+          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235813,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Diana Garnet",
+          "url": "https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 232240,
+      "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9(NARUTO\u7e1b\u308aMix ver.)",
+      "url": "https://open.spotify.com/track/7ohGwEAtTE8aV5YL2RySz3"
+    },
+    {
+      "album": {
+        "name": "FLOW THE MAX !!!",
+        "url": "https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "\u30d6\u30ec\u30a4\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4"
+    },
+    {
+      "album": {
+        "name": "SPLASH!!!\u3000\u301c\u9065\u304b\u306a\u308b\u81ea\u4e3b\u5236\u4f5cBEST\u301c",
+        "url": "https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245693,
+      "name": "\u30e1\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb"
+    },
+    {
+      "album": {
+        "name": "DICE (Complete Edition)",
+        "url": "https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30e1\u30f3\u30c8",
+        "url": "https://open.spotify.com/album/4RTmbNBIQKliym9xSlGLlT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238906,
+      "name": "\u30e2\u30e1\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/5wjYZIKLKUge6lFO89gUAU"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278480,
+      "name": "\u30e6\u30e9\u30e6\u30e9",
+      "url": "https://open.spotify.com/track/6p6IssaX9xho07QisbjC8m"
+    },
+    {
+      "album": {
+        "name": "\u512a\u52dd",
+        "url": "https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        },
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 271013,
+      "name": "\u512a\u52dd",
+      "url": "https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
+        "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 242000,
+      "name": "\u5149\u8ffd\u3044\u304b\u3051\u3066",
+      "url": "https://open.spotify.com/track/6StfWg4HEWGZfuMcfmHoyg"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 309626,
+      "name": "\u5149\u8ffd\u3044\u304b\u3051\u3066 -Crystal Lake mix -",
+      "url": "https://open.spotify.com/track/00GdiEOGDpetK1siwDMVq0"
+    },
+    {
+      "album": {
+        "name": "26 a Go Go !!!",
+        "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249360,
+      "name": "\u611b\u611b\u611b\u306b\u6483\u305f\u308c\u3066\u30d0\u30a4\u30d0\u30a4\u30d0\u30a4 -Album Mix-",
+      "url": "https://open.spotify.com/track/4GOH8KtqBnL5q2nGkWkbv4"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u4e16\u754c",
+        "url": "https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 233507,
+      "name": "\u65b0\u4e16\u754c",
+      "url": "https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL"
+    },
+    {
+      "album": {
+        "name": "Voy\u2606\u2606\u2606",
+        "url": "https://open.spotify.com/album/1bTyGypqlwvfmXLOGkzdFY"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 197240,
+      "name": "\u6771\u4eac\u30d6\u30ec\u30fc\u30e1\u30f3",
+      "url": "https://open.spotify.com/track/3NiKrEOG1mt3sBfYtFImDO"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 327826,
+      "name": "\u693f",
+      "url": "https://open.spotify.com/track/4I5mM3fEuy4Qzliwz1Z7d1"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "\u6d41\u308c\u661f \uff5eShooting Star\uff5e",
+      "url": "https://open.spotify.com/track/27k5RlJ8BhKMM3Bi8K7cGK"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256160,
+      "name": "\u6d41\u661f",
+      "url": "https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v"
+    },
+    {
+      "album": {
+        "name": "\u70c8\u706b",
+        "url": "https://open.spotify.com/album/2jE9xYfV1vRFslp3uPZMs7"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "\u70c8\u706b",
+      "url": "https://open.spotify.com/track/6XiU17DEkiJiX1BpD2r72Z"
+    },
+    {
+      "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 232533,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
+        "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246920,
+      "name": "\u8679\u306e\u7a7a",
+      "url": "https://open.spotify.com/track/0KV8TzuV6OGspByLVpyYPS"
+    },
+    {
+      "album": {
+        "name": "#10",
+        "url": "https://open.spotify.com/album/2ZuSfjDBbARj2PDZLfA9vW"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 284586,
+      "name": "\u8679\u306e\u7a7a -Album Ver-",
+      "url": "https://open.spotify.com/track/2s6rDhIa7l0UKvZGMOkSNs"
+    },
+    {
+      "album": {
+        "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+        "url": "https://open.spotify.com/album/1o4DJE0sn5wIl878BIw1bT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 189786,
+      "name": "\u8d08\u308b\u8a00\u8449 (20\u5468\u5e74\u30a2\u30cb\u30d0\u30fc\u30b5\u30ea\u30fc\u30d0\u30fc\u30b8\u30e7\u30f3)",
+      "url": "https://open.spotify.com/track/59SliEKc5sEWaJUNOpKAzH"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301cSingle Collection\u301c",
+        "url": "https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "\u8d08\u308b\u8a00\u8449 (single version)",
+      "url": "https://open.spotify.com/track/4MYNEFBZXSUViahKeSAVaa"
+    },
+    {
+      "album": {
+        "name": "FLOW THE COVER \uff5eNARUTO\u7e1b\u308a\uff5e",
+        "url": "https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242173,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/2IDmgPzLORjRMVnfiUtNax"
+    },
+    {
+      "album": {
+        "name": "\u9065\u304b\u5f7c\u65b9",
+        "url": "https://open.spotify.com/album/4PkwzfB3XD9gu8gb4UIzrT"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 242467,
+      "name": "\u9065\u304b\u5f7c\u65b9",
+      "url": "https://open.spotify.com/track/13MlxWYb0Ig6FeOxzxk3Ln"
+    },
+    {
+      "album": {
+        "name": "\u97f3\u8272 / Break it down",
+        "url": "https://open.spotify.com/album/7ryXVjydzPTwKLVeQIddYm"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 278946,
+      "name": "\u97f3\u8272",
+      "url": "https://open.spotify.com/track/0hLxJzPDAP096Bz0fRZ3L6"
+    },
+    {
+      "album": {
+        "name": "FLOW THE BEST \u301c\u30a2\u30cb\u30e1\u7e1b\u308a\u301c",
+        "url": "https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260626,
+      "name": "\u98a8\u30ce\u5504",
+      "url": "https://open.spotify.com/track/5y8mKpDw0khxf6WMyJi14w"
+    },
+    {
+      "album": {
+        "name": "\u300c\u98a8\u30ce\u5504 / BURN\u300dSpecial Edition",
+        "url": "https://open.spotify.com/album/4ZBpseaR2Lzz6U58chlrk4"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91325,
+      "name": "\u98a8\u30ce\u5504 -TV Size-",
+      "url": "https://open.spotify.com/track/7kVgMFdMrTN48KZmAM1opl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV"
 }

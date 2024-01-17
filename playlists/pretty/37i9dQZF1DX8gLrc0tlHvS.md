@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 
 > Driving rhythms, intricate instrumentation, and full harmonies\. Cover: Drew Holcomb & The Neighbors
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,261 likes - 76 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,286 likes - 76 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 4 | [As We Ran](https://open.spotify.com/track/2VDKSRDTpqWgczc33Lk9h5) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [As We Ran](https://open.spotify.com/album/5n3pUUjhGl3ZrKiQeBB7qi) | 3:20 |
 | 5 | [Mom & Dad](https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Mom & Dad](https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn) | 3:23 |
 | 6 | [Call Me in the Afternoon](https://open.spotify.com/track/2BzR2zRJIcFcMCIBKAD68U) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/0GlqIYAIGeib66oR1pyy4F) | 3:13 |
-| 7 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 |
+| 7 | [Flora](https://open.spotify.com/track/6LGEAepdRhTsUW57oyOEHa) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [We're Starting to Look Like Each Other](https://open.spotify.com/album/12AH5gxA0gwvON2H1ce72w) | 4:08 |
 | 8 | [Wolf](https://open.spotify.com/track/3pMUTmKGA5hWOWpzf82xn0) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Wolf](https://open.spotify.com/album/0rWBMz1deEBd4l2TAsW7dq) | 3:40 |
 | 9 | [Moving Mountains](https://open.spotify.com/track/6PRr6dzkiaLTGbkLSdQCvL) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [American Novel: Ch\. I](https://open.spotify.com/album/6aOqx8c8t5I7I3fg3OxSCX) | 4:39 |
 | 10 | [Fairlies](https://open.spotify.com/track/5GxHieECgT7L3Uo92HHUef) | [Grian Chatten](https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE) | [Chaos For The Fly](https://open.spotify.com/album/0lYFv5JDwH0NwiufmU4GKj) | 4:10 |
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gLrc0tlHvS.md) - [plain]
 | 60 | [Your Rocky Spine](https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Ongiara](https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI) | 3:36 |
 | 61 | [Walt Whitman](https://open.spotify.com/track/6nQ5z2EDrltb8MZs3HhfgL) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Stars and Satellites](https://open.spotify.com/album/3otETa3Pe9HZon4cP9xZnB) | 2:38 |
 | 62 | [She Lit a Fire](https://open.spotify.com/track/4c2k3NdkIwhi0eogpTnteI) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/0AG1T3Wbq7TnYMItBqXp2c) | 4:30 |
-| 63 | [Lie with Me \- EP Version](https://open.spotify.com/track/34bGkKfN3W2z2EdA4PjLFH) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/3qddrnnY93q5krHvd3z5BY) | 3:09 |
+| 63 | [Lie With Me \(EP Version\)](https://open.spotify.com/track/4XuWrAvxl3gySyz8bN35Ma) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Cold Blood](https://open.spotify.com/album/0R4MzSUlneqJFXMccsmN1k) | 3:09 |
 | 64 | [By and By](https://open.spotify.com/track/75nZ4W6quZhI55LKiqCXWh) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 4:40 |
 | 65 | [Everything You Need](https://open.spotify.com/track/1X4okn3iYFuvrqziSqTXpW) | [The Lonely Wild](https://open.spotify.com/artist/7uG1pvcReIxuBhvpabjdom) | [The Sun as It Comes](https://open.spotify.com/album/6QhBP3TaVPhzhHbEUUV1nS) | 4:35 |
 | 66 | [The Chambers & The Valves](https://open.spotify.com/track/1pKMnBqpCILOu4ckAggjSo) | [Dry the River](https://open.spotify.com/artist/5VIq5RHAbVUMF700vdwfYw) | [Shallow Bed](https://open.spotify.com/album/5W2DS7HGauXOJIr0Nmu8D4) | 3:10 |

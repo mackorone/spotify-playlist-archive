@@ -1,569 +1,729 @@
 {
-  "2022-06-10": 5164,
-  "2022-06-11": 5163,
-  "2022-06-12": 5166,
-  "2022-06-13": 5169,
-  "2022-06-14": 5173,
-  "2022-06-15": 5171,
-  "2022-06-16": 5172,
-  "2022-06-17": 5174,
-  "2022-06-18": 5171,
-  "2022-06-19": 5174,
-  "2022-06-20": 5174,
-  "2022-06-21": 5176,
-  "2022-06-22": 5179,
-  "2022-06-23": 5179,
-  "2022-06-24": 5182,
-  "2022-06-25": 5185,
-  "2022-06-26": 5186,
-  "2022-06-27": 5192,
-  "2022-06-28": 5192,
-  "2022-06-29": 5196,
-  "2022-06-30": 5195,
-  "2022-07-01": 5197,
-  "2022-07-02": 5201,
-  "2022-07-03": 5199,
-  "2022-07-04": 5200,
-  "2022-07-05": 5203,
-  "2022-07-06": 5202,
-  "2022-07-07": 5206,
-  "2022-07-08": 5206,
-  "2022-07-09": 5206,
-  "2022-07-10": 5206,
-  "2022-07-11": 5207,
-  "2022-07-12": 5210,
-  "2022-07-13": 5210,
-  "2022-07-14": 5212,
-  "2022-07-15": 5214,
-  "2022-07-16": 5214,
-  "2022-07-17": 5218,
-  "2022-07-18": 5221,
-  "2022-07-19": 5222,
-  "2022-07-20": 5221,
-  "2022-07-21": 5223,
-  "2022-07-22": 5227,
-  "2022-07-23": 5228,
-  "2022-07-24": 5232,
-  "2022-07-25": 5231,
-  "2022-07-26": 5234,
-  "2022-07-27": 5232,
-  "2022-07-28": 5236,
-  "2022-07-29": 5238,
-  "2022-07-30": 5239,
-  "2022-07-31": 5239,
-  "2022-08-01": 5237,
-  "2022-08-02": 5243,
-  "2022-08-03": 5243,
-  "2022-08-04": 5244,
-  "2022-08-05": 5245,
-  "2022-08-06": 5245,
-  "2022-08-07": 5249,
-  "2022-08-08": 5249,
-  "2022-08-09": 5248,
-  "2022-08-10": 5250,
-  "2022-08-11": 5252,
-  "2022-08-12": 5255,
-  "2022-08-13": 5257,
-  "2022-08-14": 5258,
-  "2022-08-15": 5262,
-  "2022-08-16": 5263,
-  "2022-08-17": 5265,
-  "2022-08-18": 5266,
-  "2022-08-19": 5270,
-  "2022-08-20": 5270,
-  "2022-08-21": 5273,
-  "2022-08-22": 5274,
-  "2022-08-23": 5271,
-  "2022-08-24": 5270,
-  "2022-08-25": 5273,
-  "2022-08-26": 5273,
-  "2022-08-27": 5273,
-  "2022-08-28": 5272,
-  "2022-08-29": 5275,
-  "2022-08-30": 5275,
-  "2022-08-31": 5278,
-  "2022-09-01": 5277,
-  "2022-09-02": 5273,
-  "2022-09-03": 5274,
-  "2022-09-04": 5271,
-  "2022-09-05": 5272,
-  "2022-09-06": 5273,
-  "2022-09-07": 5276,
-  "2022-09-09": 5279,
-  "2022-09-10": 5280,
-  "2022-09-11": 5279,
-  "2022-09-12": 5281,
-  "2022-09-13": 5283,
-  "2022-09-15": 5291,
-  "2022-09-16": 5289,
-  "2022-09-17": 5289,
-  "2022-09-18": 5291,
-  "2022-09-19": 5293,
-  "2022-09-20": 5294,
-  "2022-09-21": 5294,
-  "2022-09-22": 5295,
-  "2022-09-23": 5298,
-  "2022-09-24": 5301,
-  "2022-09-25": 5302,
-  "2022-09-26": 5303,
-  "2022-09-27": 5305,
-  "2022-09-28": 5309,
-  "2022-09-29": 5308,
-  "2022-09-30": 5308,
-  "2022-10-01": 5308,
-  "2022-10-02": 5309,
-  "2022-10-03": 5310,
-  "2022-10-04": 5313,
-  "2022-10-05": 5315,
-  "2022-10-06": 5316,
-  "2022-10-07": 5316,
-  "2022-10-08": 5318,
-  "2022-10-09": 5319,
-  "2022-10-10": 5320,
-  "2022-10-11": 5322,
-  "2022-10-12": 5318,
-  "2022-10-13": 5329,
-  "2022-10-14": 5330,
-  "2022-10-15": 5328,
-  "2022-10-16": 5329,
-  "2022-10-17": 5330,
-  "2022-10-18": 5332,
-  "2022-10-19": 5333,
-  "2022-10-20": 5333,
-  "2022-10-21": 5336,
-  "2022-10-22": 5337,
-  "2022-10-23": 5340,
-  "2022-10-24": 5343,
-  "2022-10-25": 5343,
-  "2022-10-26": 5348,
-  "2022-10-27": 5349,
-  "2022-10-28": 5354,
-  "2022-10-29": 5354,
-  "2022-10-30": 5354,
-  "2022-10-31": 5355,
-  "2022-11-01": 5354,
-  "2022-11-02": 5356,
-  "2022-11-03": 5361,
-  "2022-11-04": 5364,
-  "2022-11-05": 5364,
-  "2022-11-06": 5367,
-  "2022-11-07": 5369,
-  "2022-11-08": 5372,
-  "2022-11-09": 5373,
-  "2022-11-10": 5375,
-  "2022-11-11": 5379,
-  "2022-11-12": 5382,
-  "2022-11-13": 5385,
-  "2022-11-14": 5387,
-  "2022-11-15": 5389,
-  "2022-11-16": 5389,
-  "2022-11-17": 5389,
-  "2022-11-18": 5390,
-  "2022-11-19": 5389,
-  "2022-11-20": 5390,
-  "2022-11-21": 5390,
-  "2022-11-22": 5391,
-  "2022-11-23": 5395,
-  "2022-11-24": 5396,
-  "2022-11-25": 5399,
-  "2022-11-26": 5400,
-  "2022-11-27": 5402,
-  "2022-11-28": 5404,
-  "2022-11-29": 5405,
-  "2022-11-30": 5407,
-  "2022-12-01": 5408,
-  "2022-12-02": 5409,
-  "2022-12-03": 5412,
-  "2022-12-04": 5418,
-  "2022-12-05": 5417,
-  "2022-12-06": 5420,
-  "2022-12-07": 5427,
-  "2022-12-08": 5428,
-  "2022-12-09": 5431,
-  "2022-12-10": 5433,
-  "2022-12-11": 5435,
-  "2022-12-12": 5436,
-  "2022-12-13": 5436,
-  "2022-12-14": 5440,
-  "2022-12-15": 5441,
-  "2022-12-16": 5441,
-  "2022-12-17": 5444,
-  "2022-12-18": 5444,
-  "2022-12-19": 5447,
-  "2022-12-20": 5452,
-  "2022-12-21": 5452,
-  "2022-12-22": 5453,
-  "2022-12-24": 5455,
-  "2022-12-25": 5458,
-  "2022-12-26": 5460,
-  "2022-12-27": 5464,
-  "2022-12-28": 5464,
-  "2022-12-29": 5468,
-  "2022-12-30": 5469,
-  "2022-12-31": 5473,
-  "2023-01-01": 5476,
-  "2023-01-02": 5474,
-  "2023-01-03": 5476,
-  "2023-01-04": 5478,
-  "2023-01-05": 5480,
-  "2023-01-06": 5485,
-  "2023-01-07": 5491,
-  "2023-01-08": 5492,
-  "2023-01-09": 5496,
-  "2023-01-10": 5497,
-  "2023-01-11": 5496,
-  "2023-01-12": 5498,
-  "2023-01-13": 5501,
-  "2023-01-14": 5508,
-  "2023-01-15": 5508,
-  "2023-01-16": 5513,
-  "2023-01-17": 5518,
-  "2023-01-18": 5517,
-  "2023-01-19": 5519,
-  "2023-01-20": 5520,
-  "2023-01-21": 5525,
-  "2023-01-22": 5526,
-  "2023-01-23": 5527,
-  "2023-01-24": 5527,
-  "2023-01-25": 5529,
-  "2023-01-26": 5534,
-  "2023-01-27": 5538,
-  "2023-01-28": 5538,
-  "2023-01-29": 5539,
-  "2023-01-30": 5542,
-  "2023-01-31": 5542,
-  "2023-02-01": 5546,
-  "2023-02-02": 5548,
-  "2023-02-03": 5548,
-  "2023-02-04": 5550,
-  "2023-02-05": 5555,
-  "2023-02-06": 5559,
-  "2023-02-07": 5560,
-  "2023-02-08": 5560,
-  "2023-02-09": 5560,
-  "2023-02-10": 5563,
-  "2023-02-11": 5565,
-  "2023-02-12": 5568,
-  "2023-02-13": 5571,
-  "2023-02-14": 5571,
-  "2023-02-15": 5572,
-  "2023-02-16": 5573,
-  "2023-02-17": 5581,
-  "2023-02-18": 5584,
-  "2023-02-19": 5585,
-  "2023-02-20": 5586,
-  "2023-02-21": 5587,
-  "2023-02-22": 5591,
-  "2023-02-23": 5592,
-  "2023-02-24": 5592,
-  "2023-02-25": 5594,
-  "2023-02-26": 5595,
-  "2023-02-27": 5595,
-  "2023-02-28": 5595,
-  "2023-03-01": 5597,
-  "2023-03-02": 5598,
-  "2023-03-03": 5597,
-  "2023-03-04": 5598,
-  "2023-03-05": 5599,
-  "2023-03-06": 5599,
-  "2023-03-07": 5599,
-  "2023-03-08": 5600,
-  "2023-03-09": 5602,
-  "2023-03-10": 5602,
-  "2023-03-11": 5602,
-  "2023-03-12": 5609,
-  "2023-03-13": 5609,
-  "2023-03-14": 5608,
-  "2023-03-15": 5609,
-  "2023-03-16": 5611,
-  "2023-03-17": 5611,
-  "2023-03-18": 5618,
-  "2023-03-19": 5620,
-  "2023-03-20": 5621,
-  "2023-03-21": 5624,
-  "2023-03-22": 5625,
-  "2023-03-23": 5628,
-  "2023-03-24": 5628,
-  "2023-03-25": 5637,
-  "2023-03-26": 5638,
-  "2023-03-27": 5643,
-  "2023-03-28": 5648,
-  "2023-03-29": 5653,
-  "2023-03-30": 5656,
-  "2023-03-31": 5656,
-  "2023-04-01": 5658,
-  "2023-04-02": 5663,
-  "2023-04-03": 5665,
-  "2023-04-04": 5668,
-  "2023-04-05": 5670,
-  "2023-04-06": 5672,
-  "2023-04-07": 5673,
-  "2023-04-09": 5680,
-  "2023-04-10": 5683,
-  "2023-04-11": 5689,
-  "2023-04-12": 5689,
-  "2023-04-13": 5689,
-  "2023-04-14": 5691,
-  "2023-04-15": 5692,
-  "2023-04-16": 5692,
-  "2023-04-17": 5693,
-  "2023-04-18": 5696,
-  "2023-04-19": 5700,
-  "2023-04-20": 5701,
-  "2023-04-21": 5704,
-  "2023-04-22": 5705,
-  "2023-04-23": 5709,
-  "2023-04-24": 5713,
-  "2023-04-25": 5715,
-  "2023-04-26": 5717,
-  "2023-04-27": 5719,
-  "2023-04-28": 5721,
-  "2023-04-29": 5720,
-  "2023-04-30": 5721,
-  "2023-05-01": 5722,
-  "2023-05-02": 5727,
-  "2023-05-03": 5730,
-  "2023-05-04": 5732,
-  "2023-05-05": 5736,
-  "2023-05-06": 5742,
-  "2023-05-07": 5744,
-  "2023-05-08": 5745,
-  "2023-05-09": 5746,
-  "2023-05-10": 5749,
-  "2023-05-11": 5754,
-  "2023-05-12": 5755,
-  "2023-05-13": 5759,
-  "2023-05-14": 5764,
-  "2023-05-15": 5764,
-  "2023-05-16": 5768,
-  "2023-05-17": 5768,
-  "2023-05-18": 5772,
-  "2023-05-19": 5772,
-  "2023-05-20": 5772,
-  "2023-05-21": 5772,
-  "2023-05-22": 5772,
-  "2023-05-23": 5774,
-  "2023-05-24": 5777,
-  "2023-05-25": 5777,
-  "2023-05-26": 5778,
-  "2023-05-27": 5781,
-  "2023-05-28": 5782,
-  "2023-05-29": 5782,
-  "2023-05-30": 5787,
-  "2023-05-31": 5792,
-  "2023-06-01": 5792,
-  "2023-06-02": 5793,
-  "2023-06-03": 5796,
-  "2023-06-04": 5794,
-  "2023-06-05": 5794,
-  "2023-06-06": 5795,
-  "2023-06-07": 5801,
-  "2023-06-08": 5800,
-  "2023-06-09": 5799,
-  "2023-06-10": 5800,
-  "2023-06-11": 5802,
-  "2023-06-12": 5805,
-  "2023-06-13": 5806,
-  "2023-06-14": 5809,
-  "2023-06-15": 5811,
-  "2023-06-16": 5811,
-  "2023-06-17": 5814,
-  "2023-06-18": 5817,
-  "2023-06-19": 5823,
-  "2023-06-20": 5825,
-  "2023-06-21": 5826,
-  "2023-06-22": 5826,
-  "2023-06-23": 5829,
-  "2023-06-24": 5830,
-  "2023-06-25": 5832,
-  "2023-06-26": 5836,
-  "2023-06-27": 5838,
-  "2023-06-28": 5838,
-  "2023-06-29": 5842,
-  "2023-06-30": 5846,
-  "2023-07-01": 5850,
-  "2023-07-02": 5850,
-  "2023-07-03": 5856,
-  "2023-07-04": 5860,
-  "2023-07-05": 5861,
-  "2023-07-06": 5865,
-  "2023-07-07": 5865,
-  "2023-07-08": 5870,
-  "2023-07-09": 5871,
-  "2023-07-10": 5877,
-  "2023-07-11": 5882,
-  "2023-07-12": 5882,
-  "2023-07-13": 5885,
-  "2023-07-14": 5891,
-  "2023-07-15": 5896,
-  "2023-07-16": 5901,
-  "2023-07-17": 5903,
-  "2023-07-18": 5909,
-  "2023-07-19": 5911,
-  "2023-07-20": 5913,
-  "2023-07-21": 5917,
-  "2023-07-22": 5920,
-  "2023-07-23": 5924,
-  "2023-07-24": 5928,
-  "2023-07-25": 5930,
-  "2023-07-26": 5929,
-  "2023-07-27": 5932,
-  "2023-07-28": 5935,
-  "2023-07-29": 5939,
-  "2023-07-30": 5943,
-  "2023-07-31": 5946,
-  "2023-08-01": 5946,
-  "2023-08-02": 5949,
-  "2023-08-03": 5949,
-  "2023-08-04": 5950,
-  "2023-08-05": 5952,
-  "2023-08-06": 5959,
-  "2023-08-07": 5959,
-  "2023-08-08": 5962,
-  "2023-08-09": 5963,
-  "2023-08-10": 5967,
-  "2023-08-11": 5971,
-  "2023-08-12": 5973,
-  "2023-08-13": 5976,
-  "2023-08-14": 5975,
-  "2023-08-15": 5973,
-  "2023-08-16": 5973,
-  "2023-08-17": 5974,
-  "2023-08-18": 5980,
-  "2023-08-19": 5981,
-  "2023-08-20": 5980,
-  "2023-08-21": 5984,
-  "2023-08-22": 5987,
-  "2023-08-23": 5987,
-  "2023-08-24": 5990,
-  "2023-08-25": 5991,
-  "2023-08-26": 5993,
-  "2023-08-27": 5995,
-  "2023-08-28": 5997,
-  "2023-08-29": 5998,
-  "2023-08-30": 5998,
-  "2023-08-31": 5999,
-  "2023-09-01": 6004,
-  "2023-09-02": 6004,
-  "2023-09-03": 6002,
-  "2023-09-04": 6005,
-  "2023-09-05": 6005,
-  "2023-09-06": 6004,
-  "2023-09-07": 6005,
-  "2023-09-08": 6007,
-  "2023-09-09": 6008,
-  "2023-09-10": 6009,
-  "2023-09-11": 6010,
-  "2023-09-12": 6009,
-  "2023-09-13": 6013,
-  "2023-09-14": 6017,
-  "2023-09-15": 6019,
-  "2023-09-16": 6021,
-  "2023-09-17": 6025,
-  "2023-09-18": 6027,
-  "2023-09-19": 6030,
-  "2023-09-20": 6031,
-  "2023-09-21": 6034,
-  "2023-09-22": 6037,
-  "2023-09-23": 6036,
-  "2023-09-24": 6037,
-  "2023-09-25": 6037,
-  "2023-09-26": 6039,
-  "2023-09-27": 6039,
-  "2023-09-28": 6041,
-  "2023-09-29": 6042,
-  "2023-09-30": 6046,
-  "2023-10-01": 6047,
-  "2023-10-02": 6048,
-  "2023-10-03": 6049,
-  "2023-10-04": 6051,
-  "2023-10-05": 6053,
-  "2023-10-06": 6054,
-  "2023-10-07": 6056,
-  "2023-10-08": 6058,
-  "2023-10-09": 6060,
-  "2023-10-10": 6061,
-  "2023-10-11": 6064,
-  "2023-10-12": 6064,
-  "2023-10-13": 6065,
-  "2023-10-14": 6066,
-  "2023-10-15": 6065,
-  "2023-10-16": 6069,
-  "2023-10-17": 6069,
-  "2023-10-18": 6074,
-  "2023-10-19": 6075,
-  "2023-10-20": 6075,
-  "2023-10-21": 6078,
-  "2023-10-22": 6079,
-  "2023-10-23": 6079,
-  "2023-10-24": 6079,
-  "2023-10-25": 6080,
-  "2023-10-26": 6082,
-  "2023-10-27": 6084,
-  "2023-10-28": 6087,
-  "2023-10-29": 6088,
-  "2023-10-30": 6091,
-  "2023-10-31": 6091,
-  "2023-11-01": 6090,
-  "2023-11-02": 6090,
-  "2023-11-03": 6090,
-  "2023-11-04": 6092,
-  "2023-11-05": 6096,
-  "2023-11-06": 6096,
-  "2023-11-07": 6097,
-  "2023-11-08": 6098,
-  "2023-11-09": 6103,
-  "2023-11-10": 6107,
-  "2023-11-11": 6112,
-  "2023-11-12": 6111,
-  "2023-11-13": 6116,
-  "2023-11-14": 6117,
-  "2023-11-15": 6117,
-  "2023-11-16": 6118,
-  "2023-11-17": 6118,
-  "2023-11-18": 6118,
-  "2023-11-19": 6119,
-  "2023-11-20": 6123,
-  "2023-11-21": 6126,
-  "2023-11-22": 6130,
-  "2023-11-23": 6130,
-  "2023-11-24": 6132,
-  "2023-11-25": 6132,
-  "2023-11-26": 6133,
-  "2023-11-27": 6135,
-  "2023-11-28": 6136,
-  "2023-11-29": 6143,
-  "2023-11-30": 6143,
-  "2023-12-01": 6142,
-  "2023-12-02": 6145,
-  "2023-12-03": 6146,
-  "2023-12-04": 6148,
-  "2023-12-05": 6153,
-  "2023-12-06": 6157,
-  "2023-12-07": 6160,
-  "2023-12-08": 6164,
-  "2023-12-09": 6166,
-  "2023-12-10": 6169,
-  "2023-12-11": 6173,
-  "2023-12-12": 6175,
-  "2023-12-13": 6175,
-  "2023-12-14": 6180,
-  "2023-12-15": 6180,
-  "2023-12-16": 6182,
-  "2023-12-17": 6185,
-  "2023-12-18": 6186,
-  "2023-12-19": 6185,
-  "2023-12-20": 6185,
-  "2023-12-21": 6189,
-  "2023-12-22": 6192,
-  "2023-12-23": 6194,
-  "2023-12-24": 6197,
-  "2023-12-25": 6197,
-  "2023-12-26": 6198,
-  "2023-12-27": 6200,
-  "2023-12-30": 6211,
-  "2023-12-31": 6214,
-  "2024-01-01": 6214,
-  "2024-01-02": 6217,
-  "2024-01-03": 6218
+  "2024-01-17": 6241,
+  "date_first_scraped": "2022-06-10",
+  "description": "A collection of classic Sub Pop tracks from the 80s and 90s, all that is grunge adjacent! ",
+  "name": "Sub Pop: The Grunge Years",
+  "tracks": [
+    {
+      "album": {
+        "name": "Smell The Magic",
+        "url": "https://open.spotify.com/album/1pXoAahgLu9ewP3HVt3md5"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "date_added": "2019-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "(Right On) Thru",
+      "url": "https://open.spotify.com/track/7wSIf6tKCqWreKm9oKmuIJ"
+    },
+    {
+      "album": {
+        "name": "Bleach: Deluxe Edition",
+        "url": "https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2019-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "About A Girl - Remastered",
+      "url": "https://open.spotify.com/track/4T0OWC2ISMWVDAIdhIPXK4"
+    },
+    {
+      "album": {
+        "name": "Between The Eyes",
+        "url": "https://open.spotify.com/album/7gB0ruzJsttD7HAUPck9J9"
+      },
+      "artists": [
+        {
+          "name": "Love Battery",
+          "url": "https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157933,
+      "name": "Before I Crawl",
+      "url": "https://open.spotify.com/track/1Da12hmGPlFfTTJ0OtHHUN"
+    },
+    {
+      "album": {
+        "name": "The Sebadoh",
+        "url": "https://open.spotify.com/album/13kBcWm6saVw8okQWvGCWX"
+      },
+      "artists": [
+        {
+          "name": "Sebadoh",
+          "url": "https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96400,
+      "name": "Bird In The Hand",
+      "url": "https://open.spotify.com/track/0UD3xlfXuqiwlzJnwxg7cb"
+    },
+    {
+      "album": {
+        "name": "Clean As A Broke-Dick Dog",
+        "url": "https://open.spotify.com/album/2Q3dHJ4uZi5L36XPrvsNmr"
+      },
+      "artists": [
+        {
+          "name": "The Monkeywrench",
+          "url": "https://open.spotify.com/artist/2l0m5zZDDup4TwDKwktCfk"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Call My Body Home",
+      "url": "https://open.spotify.com/track/14xY3NCYgguwLDGtlC9GxJ"
+    },
+    {
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/2wbMARvZRMncZLZDD4xq6u"
+      },
+      "artists": [
+        {
+          "name": "Seaweed",
+          "url": "https://open.spotify.com/artist/4jzHHEC3qk1j4hnIWPUnsu"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247800,
+      "name": "Card Tricks",
+      "url": "https://open.spotify.com/track/4Kg3WSpXJL6qCeOJhHQFPF"
+    },
+    {
+      "album": {
+        "name": "Bunny Gets Paid: Deluxe Edition",
+        "url": "https://open.spotify.com/album/3Kh5JSTn0A5qWbUYA8fPA7"
+      },
+      "artists": [
+        {
+          "name": "Red Red Meat",
+          "url": "https://open.spotify.com/artist/4ti1ys01b6fMkkSMqcCA1H"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224826,
+      "name": "Chain Chain Chain - Remastered",
+      "url": "https://open.spotify.com/track/5sL1F4Z7JHjosFEyy0mVx4"
+    },
+    {
+      "album": {
+        "name": "Broc's Cabin",
+        "url": "https://open.spotify.com/album/3XFlu5xQWXYb4foMDWcP5K"
+      },
+      "artists": [
+        {
+          "name": "Rein Sanction",
+          "url": "https://open.spotify.com/artist/3wFHDXSHYQyd5KajSQoYFl"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139160,
+      "name": "Creel",
+      "url": "https://open.spotify.com/track/4RCHWdmKCrW47Qj71f00fK"
+    },
+    {
+      "album": {
+        "name": "Heroic Doses",
+        "url": "https://open.spotify.com/album/2TSalaHYskXQ69TttosLxS"
+      },
+      "artists": [
+        {
+          "name": "Heroic Doses",
+          "url": "https://open.spotify.com/artist/55cwzGJ7U8LrsMptP70w2I"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Crystals",
+      "url": "https://open.spotify.com/track/74zRuKd5VcgfR5HMD2nRSh"
+    },
+    {
+      "album": {
+        "name": "Dig It a Hole",
+        "url": "https://open.spotify.com/album/36aaJ47xuHgZeYFonQrVnn"
+      },
+      "artists": [
+        {
+          "name": "U-Men",
+          "url": "https://open.spotify.com/artist/22WypD8tTI2wltNMQJZhj6"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141133,
+      "name": "Dig It a Hole",
+      "url": "https://open.spotify.com/track/4ehJfHtoua2ItI7IoKebR1"
+    },
+    {
+      "album": {
+        "name": "Dig Me Out (Remastered)",
+        "url": "https://open.spotify.com/album/0nbA26khGDRROFRo7D90w0"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160920,
+      "name": "Dig Me Out",
+      "url": "https://open.spotify.com/track/1TvXbNhFRbrp1SIenQ2NHM"
+    },
+    {
+      "album": {
+        "name": "10 Minute Warning",
+        "url": "https://open.spotify.com/album/0ogljjEXRlymfgFhNNwfz4"
+      },
+      "artists": [
+        {
+          "name": "10 Minute Warning",
+          "url": "https://open.spotify.com/artist/3eOWn0gtDZSHnybaXsIKJg"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276040,
+      "name": "Face First",
+      "url": "https://open.spotify.com/track/7tY1GUdtUGnwDj6znHRGWB"
+    },
+    {
+      "album": {
+        "name": "Ultramega OK (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/5ZenjDvGoaKRK8xGmBXnVx"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206223,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/44OxoDksTnkbNXW9OxiHgg"
+    },
+    {
+      "album": {
+        "name": "U-Men",
+        "url": "https://open.spotify.com/album/6mmQItCmqEkfy7XgOqJS6F"
+      },
+      "artists": [
+        {
+          "name": "U-Men",
+          "url": "https://open.spotify.com/artist/22WypD8tTI2wltNMQJZhj6"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138200,
+      "name": "Gila",
+      "url": "https://open.spotify.com/track/24ibaB92ASwrsx5xof1oPs"
+    },
+    {
+      "album": {
+        "name": "Share The Fantasy",
+        "url": "https://open.spotify.com/album/3VIL90Q8BN4bUNO20cfEZ8"
+      },
+      "artists": [
+        {
+          "name": "Godheadsilo",
+          "url": "https://open.spotify.com/artist/19U1TljX5HGtzVlI1JljwV"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207104,
+      "name": "Goin' Commando",
+      "url": "https://open.spotify.com/track/5U6d57indQnFPOULqD55Ss"
+    },
+    {
+      "album": {
+        "name": "Far Gone",
+        "url": "https://open.spotify.com/album/4YFwgDzlkLtRXnJETlgsRL"
+      },
+      "artists": [
+        {
+          "name": "Love Battery",
+          "url": "https://open.spotify.com/artist/43wwctvUaVOoEHEijQ8NpF"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233506,
+      "name": "Head Of Ringo",
+      "url": "https://open.spotify.com/track/7sLnoiT3VjjGxKlJZ7BBkv"
+    },
+    {
+      "album": {
+        "name": "Pentastar: In The Style of Demons",
+        "url": "https://open.spotify.com/album/7M2HxkfzBMftGLjmbd3sBE"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/4mTFQE6aiehScgvreB9llC"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350533,
+      "name": "High Command",
+      "url": "https://open.spotify.com/track/70jjEHFCtbHPZihBqRgLSu"
+    },
+    {
+      "album": {
+        "name": "Screaming Life/Fopp",
+        "url": "https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2019-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162520,
+      "name": "Hunted Down - Remastered",
+      "url": "https://open.spotify.com/track/4nnDr2vyxvKudkOH4CQv3K"
+    },
+    {
+      "album": {
+        "name": "Empty Bottles, Broken Hearts",
+        "url": "https://open.spotify.com/album/5WYbCq5eWMvMt5dvHuGqv6"
+      },
+      "artists": [
+        {
+          "name": "The Murder City Devils",
+          "url": "https://open.spotify.com/artist/0rIOnBirvFkIILkTCGc7N0"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207440,
+      "name": "I Want A Lot Now (So Come On)",
+      "url": "https://open.spotify.com/track/0wOHIP3yW8QLrQw4IcURPj"
+    },
+    {
+      "album": {
+        "name": "Clean As A Broke-Dick Dog",
+        "url": "https://open.spotify.com/album/2Q3dHJ4uZi5L36XPrvsNmr"
+      },
+      "artists": [
+        {
+          "name": "The Monkeywrench",
+          "url": "https://open.spotify.com/artist/2l0m5zZDDup4TwDKwktCfk"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236133,
+      "name": "I'm Blown",
+      "url": "https://open.spotify.com/track/6nAqpaf5BTaP9y9nTn5r3O"
+    },
+    {
+      "album": {
+        "name": "Superfuzz Bigmuff: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0F2pA4ae1ka2kg0p0QuyZD"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "In 'n' Out of Grace",
+      "url": "https://open.spotify.com/track/19pJP24i5fLjA0g0SByxtV"
+    },
+    {
+      "album": {
+        "name": "8-Way Santa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6EdDnYIrJJQgGhAtXefD33"
+      },
+      "artists": [
+        {
+          "name": "Tad",
+          "url": "https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "Jinx - Remastered",
+      "url": "https://open.spotify.com/track/7dm39Z8XYDPuxOTwRNYxIf"
+    },
+    {
+      "album": {
+        "name": "Empty Bottles, Broken Hearts",
+        "url": "https://open.spotify.com/album/5WYbCq5eWMvMt5dvHuGqv6"
+      },
+      "artists": [
+        {
+          "name": "The Murder City Devils",
+          "url": "https://open.spotify.com/artist/0rIOnBirvFkIILkTCGc7N0"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132266,
+      "name": "Johnny Thunders",
+      "url": "https://open.spotify.com/track/1Ob4GOlhHX3kMkC1aejgJl"
+    },
+    {
+      "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/6SAkZCPTD0cM0GDTSEfS5m"
+      },
+      "artists": [
+        {
+          "name": "The Go",
+          "url": "https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212786,
+      "name": "Keep On Trash",
+      "url": "https://open.spotify.com/track/4ndkiZgBO9CPlzOPKaV4IL"
+    },
+    {
+      "album": {
+        "name": "Law of Ruins",
+        "url": "https://open.spotify.com/album/3O7PE12fILKW39CI9mYXbE"
+      },
+      "artists": [
+        {
+          "name": "Six Finger Satellite",
+          "url": "https://open.spotify.com/artist/2YtMRsnq57aXEt7mmgKIbS"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Law Of Ruins",
+      "url": "https://open.spotify.com/track/1vLSpx8eLO6PIp5MlrJeiH"
+    },
+    {
+      "album": {
+        "name": "Trance States in Tongues",
+        "url": "https://open.spotify.com/album/0VEK4ca3p9SEtd6aencmy3"
+      },
+      "artists": [
+        {
+          "name": "Zen Guerrilla",
+          "url": "https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202893,
+      "name": "Mod Riot",
+      "url": "https://open.spotify.com/track/6gp8zfO6Lk7p964Kcwfzmf"
+    },
+    {
+      "album": {
+        "name": "The Practice of Joy Before Death",
+        "url": "https://open.spotify.com/album/30ZCDWu8xHZ68AdFEmS4il"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/2C3d4ZcjA6BLPvl2uGZ7X6"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210744,
+      "name": "Mubby's Theme",
+      "url": "https://open.spotify.com/track/5qjmc5KMBJ6IekQ7pmT4j8"
+    },
+    {
+      "album": {
+        "name": "Bleach: Deluxe Edition",
+        "url": "https://open.spotify.com/album/4vEqluvGq8AC9Xx2Fx4cZ3"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175744,
+      "name": "Negative Creep - Remastered",
+      "url": "https://open.spotify.com/track/4zIsMAQASzCg6XK7WExT54"
+    },
+    {
+      "album": {
+        "name": "New Dawning Time",
+        "url": "https://open.spotify.com/album/6i6o4Zx1edgw26l0kacSAj"
+      },
+      "artists": [
+        {
+          "name": "Gardener",
+          "url": "https://open.spotify.com/artist/4MtVwBAldwtHlTWKR9HQVD"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Outside Looking In",
+      "url": "https://open.spotify.com/track/2R28Zo7lgJqvUoLor5JW7r"
+    },
+    {
+      "album": {
+        "name": "Vague Premonition",
+        "url": "https://open.spotify.com/album/2QWvRL3l5EWWkTXpa3QkZH"
+      },
+      "artists": [
+        {
+          "name": "Elevator Through",
+          "url": "https://open.spotify.com/artist/1WwgTYI78AxwLCoV5GpcQU"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3azPkhGvPr4PtFJK3FCHEQ"
+    },
+    {
+      "album": {
+        "name": "Daddy",
+        "url": "https://open.spotify.com/album/2iMSKzeVxmLYO1xj5KtFcU"
+      },
+      "artists": [
+        {
+          "name": "Teen Angels",
+          "url": "https://open.spotify.com/artist/4BfscLIqG4hjMzZtZaVDE9"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144440,
+      "name": "Rawhead",
+      "url": "https://open.spotify.com/track/3CfLom1pwg7Z0AmlfErbC4"
+    },
+    {
+      "album": {
+        "name": "Dry as a Bone/Rehab Doll",
+        "url": "https://open.spotify.com/album/0mNTdG28OR6BmPCrDcwsvy"
+      },
+      "artists": [
+        {
+          "name": "Green River",
+          "url": "https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Rehab Doll",
+      "url": "https://open.spotify.com/track/2Am2sEVIQP3gJuDmy2NM0H"
+    },
+    {
+      "album": {
+        "name": "Smell The Magic",
+        "url": "https://open.spotify.com/album/1pXoAahgLu9ewP3HVt3md5"
+      },
+      "artists": [
+        {
+          "name": "L7",
+          "url": "https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192773,
+      "name": "Shove",
+      "url": "https://open.spotify.com/track/0AeIgH9Cmx08QL47ZBPAN4"
+    },
+    {
+      "album": {
+        "name": "Destination 2000",
+        "url": "https://open.spotify.com/album/0xTfyjhVxaPuUjESqXjMxW"
+      },
+      "artists": [
+        {
+          "name": "Love As Laughter",
+          "url": "https://open.spotify.com/artist/6BEYUtnU8Bvtp7afs5Phpm"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249853,
+      "name": "Stay Out Of Jail",
+      "url": "https://open.spotify.com/track/7dWN9NAARtpBElLoBge7Ql"
+    },
+    {
+      "album": {
+        "name": "8-Way Santa (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6EdDnYIrJJQgGhAtXefD33"
+      },
+      "artists": [
+        {
+          "name": "Tad",
+          "url": "https://open.spotify.com/artist/2mncWLPUUFpNvBLkHzTsDO"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214730,
+      "name": "Stumblin' Man - Remastered",
+      "url": "https://open.spotify.com/track/6WzbwKfEXIUzJUKVeehe24"
+    },
+    {
+      "album": {
+        "name": "Screaming Life/Fopp",
+        "url": "https://open.spotify.com/album/2yN7nOorUYUHWZdbZLeOB1"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Sub Pop Rock City - Remastered",
+      "url": "https://open.spotify.com/track/353tG6zuOSRk9McBBvrJ9t"
+    },
+    {
+      "album": {
+        "name": "Mudhoney",
+        "url": "https://open.spotify.com/album/20cuS8dE7Jtigyv2aengLA"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "The Farther I Go",
+      "url": "https://open.spotify.com/track/0ec5k1N6hjYpZNEkHgQoEk"
+    },
+    {
+      "album": {
+        "name": "LP2 (2009 Edition)",
+        "url": "https://open.spotify.com/album/0P52LfBl3FRrh19ynSgbvi"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185146,
+      "name": "Theo B - Remastered",
+      "url": "https://open.spotify.com/track/454I82v6CEX2qnWo0333rS"
+    },
+    {
+      "album": {
+        "name": "Dry as a Bone/Rehab Doll",
+        "url": "https://open.spotify.com/album/0mNTdG28OR6BmPCrDcwsvy"
+      },
+      "artists": [
+        {
+          "name": "Green River",
+          "url": "https://open.spotify.com/artist/1XIIxzmo6BNRR4QkImSdsX"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/4Wj6GKn1vBHJ12ezWQubax"
+    },
+    {
+      "album": {
+        "name": "Superfuzz Bigmuff: Deluxe Edition",
+        "url": "https://open.spotify.com/album/0F2pA4ae1ka2kg0p0QuyZD"
+      },
+      "artists": [
+        {
+          "name": "Mudhoney",
+          "url": "https://open.spotify.com/artist/7LuYiSXiWs86rwWJjEEgB9"
+        }
+      ],
+      "date_added": "2019-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "Touch Me I'm Sick",
+      "url": "https://open.spotify.com/track/5iDmsAvKVxhk6GDw3OGrj6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1s2jwVSrmxKxxvvDoMWl32"
 }

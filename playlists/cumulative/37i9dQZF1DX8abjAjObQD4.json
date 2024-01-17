@@ -1511,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Austin City Limits Live At The Moody Theater",
+        "url": "https://open.spotify.com/album/2mVo8SPzDL8AySVg7ikOL4"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401738,
+      "name": "Wildfire - Live",
+      "url": "https://open.spotify.com/track/0PVTCqBYECg1iqxOwYLP2I"
+    },
+    {
+      "album": {
         "name": "Live At Red Rocks",
         "url": "https://open.spotify.com/album/5rGOviwofECt9K6BOkpBrR"
       },

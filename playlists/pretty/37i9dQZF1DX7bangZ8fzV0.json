@@ -1,13 +1,29 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma?si=vQ1P0WwBSEuc-FVaj5pLzA\">Irene-Louise Van Wyk</a>  ",
-  "num_followers": 92592,
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=2c2Ej52nTHKX22nB7z4-DQ\">Dodo Nyoka</a>  ",
+  "num_followers": 93525,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZjNlZmVhMzkzYWQwNDMzMGViOTU5MTNmZjU5MzliNDhjYWViMDEz",
+  "snapshot_id": "MCxmOWRhYTI0MzhiNGE1NGFhOWUxMTMwYjc3YmU3OTU2MWMxMTc0ODcx",
   "tracks": [
+    {
+      "added_at": "2023-12-14 22:00:00",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+    },
     {
       "added_at": "2023-11-30 22:00:00",
       "album": {
@@ -41,22 +57,6 @@
       "url": "https://open.spotify.com/track/58U4cZWldyeSO9PzX9Fbso"
     },
     {
-      "added_at": "2023-08-17 22:01:39",
-      "album": {
-        "name": "Almal Gly",
-        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
-      },
-      "artists": [
-        {
-          "name": "Die Piesangskille",
-          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
-        }
-      ],
-      "duration_ms": 221067,
-      "name": "Inge 2",
-      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
-    },
-    {
       "added_at": "2023-11-30 22:00:00",
       "album": {
         "name": "Helemal",
@@ -73,36 +73,20 @@
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
-      "added_at": "2023-12-28 22:00:00",
+      "added_at": "2023-08-17 22:01:39",
       "album": {
-        "name": "Waar Gaan Ons Dans Vanaand?",
-        "url": "https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd"
+        "name": "Almal Gly",
+        "url": "https://open.spotify.com/album/4VpAvLR65DT7sUdlS3KgiX"
       },
       "artists": [
         {
-          "name": "Irene-Louise Van Wyk",
-          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+          "name": "Die Piesangskille",
+          "url": "https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS"
         }
       ],
-      "duration_ms": 223546,
-      "name": "Waar Gaan Ons Dans Vanaand?",
-      "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
-    },
-    {
-      "added_at": "2023-12-14 22:00:00",
-      "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
+      "duration_ms": 221067,
+      "name": "Inge 2",
+      "url": "https://open.spotify.com/track/3zSm2FYUjpc9egsTA0bJ16"
     },
     {
       "added_at": "2023-09-21 21:59:00",
@@ -137,22 +121,6 @@
       "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
-      "added_at": "2023-06-29 21:59:00",
-      "album": {
-        "name": "Foute",
-        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Foute",
-      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
-    },
-    {
       "added_at": "2023-08-24 21:59:00",
       "album": {
         "name": "Liewe Jinne!",
@@ -167,6 +135,22 @@
       "duration_ms": 211154,
       "name": "Liewe Jinne!",
       "url": "https://open.spotify.com/track/4Sq2nuXtqS8K88WNVTGERf"
+    },
+    {
+      "added_at": "2023-06-29 21:59:00",
+      "album": {
+        "name": "Foute",
+        "url": "https://open.spotify.com/album/0JWQvljztDBVPOUmpqW07l"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Foute",
+      "url": "https://open.spotify.com/track/6K6L2DgKgeREDJ8c0HxLZI"
     },
     {
       "added_at": "2023-12-21 22:00:00",
@@ -295,6 +279,22 @@
       "duration_ms": 175375,
       "name": "H2O\u00eb",
       "url": "https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl"
+    },
+    {
+      "added_at": "2023-12-28 22:00:00",
+      "album": {
+        "name": "Waar Gaan Ons Dans Vanaand?",
+        "url": "https://open.spotify.com/album/6bCm0EXt9yOwu5ZajLJlVd"
+      },
+      "artists": [
+        {
+          "name": "Irene-Louise Van Wyk",
+          "url": "https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma"
+        }
+      ],
+      "duration_ms": 223546,
+      "name": "Waar Gaan Ons Dans Vanaand?",
+      "url": "https://open.spotify.com/track/7AAWlTqYg7pCkE4Y8lvwVB"
     },
     {
       "added_at": "2023-06-29 21:59:00",

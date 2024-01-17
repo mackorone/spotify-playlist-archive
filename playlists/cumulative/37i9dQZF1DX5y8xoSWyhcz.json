@@ -272,10 +272,28 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 198520,
       "name": "27",
       "url": "https://open.spotify.com/track/2ZPjkIT5NNgtJsoPI30DSn"
+    },
+    {
+      "album": {
+        "name": "27",
+        "url": "https://open.spotify.com/album/09fZmgDfFYSFQgQ2mc3lAg"
+      },
+      "artists": [
+        {
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "27",
+      "url": "https://open.spotify.com/track/6sx5BR9JRCw9pI1lRUiOeG"
     },
     {
       "album": {
@@ -3020,7 +3038,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 100593,
       "name": "Cheapshot",
       "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
@@ -3962,7 +3980,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189000,
       "name": "dancing in the dark",
       "url": "https://open.spotify.com/track/0GWGdtHDEWTmt7iCc1A9DM"
@@ -5932,7 +5950,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 198562,
       "name": "figure me out",
       "url": "https://open.spotify.com/track/0aW9tzWTluJpRqMrBzsrpB"
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 184314,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/6TorufIR9E06RXo3VhZaae"
@@ -8538,7 +8556,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 204335,
       "name": "Hurdles",
       "url": "https://open.spotify.com/track/09U6OMOn9ALQ7wX1Ly6VqV"
@@ -11283,6 +11301,24 @@
     },
     {
       "album": {
+        "name": "living in the 90s",
+        "url": "https://open.spotify.com/album/0bGxn1bHAb5ivzLyK9OjpD"
+      },
+      "artists": [
+        {
+          "name": "tiger del flor",
+          "url": "https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "living in the 90s",
+      "url": "https://open.spotify.com/track/1tc5LvUV85Pcc5zxaZUjER"
+    },
+    {
+      "album": {
         "name": "Liz",
         "url": "https://open.spotify.com/album/38WHZJFOzJY6k5INRXigZC"
       },
@@ -12683,6 +12719,24 @@
     },
     {
       "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "album": {
         "name": "Never Be Okay",
         "url": "https://open.spotify.com/album/5aE1KqucFKgRHuusbV1S1P"
       },
@@ -13358,6 +13412,28 @@
       "duration_ms": 165746,
       "name": "October Passed Me By",
       "url": "https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd"
+    },
+    {
+      "album": {
+        "name": "Oddly Enough",
+        "url": "https://open.spotify.com/album/2mwK3K2XDwk1U0umEjtS9b"
+      },
+      "artists": [
+        {
+          "name": "Seago",
+          "url": "https://open.spotify.com/artist/0bDqmuVnpecyZQuXZ7i85s"
+        },
+        {
+          "name": "harper",
+          "url": "https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165662,
+      "name": "Oddly Enough",
+      "url": "https://open.spotify.com/track/0wTRA4l4kRHoG7qR29vvXi"
     },
     {
       "album": {
@@ -14744,7 +14820,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 173673,
       "name": "Pretty Ending",
       "url": "https://open.spotify.com/track/68dmD2jcpOGItqqfdFW1y1"
@@ -20453,6 +20529,24 @@
     },
     {
       "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+    },
+    {
+      "album": {
         "name": "Some Days",
         "url": "https://open.spotify.com/album/3IFCd1wLD6M7rCntUsltk2"
       },
@@ -20728,6 +20822,24 @@
       "duration_ms": 183879,
       "name": "Who Are You?",
       "url": "https://open.spotify.com/track/2yWK6Ji4cZcxI9emAmG0Yj"
+    },
+    {
+      "album": {
+        "name": "why do we keep running away?",
+        "url": "https://open.spotify.com/album/3yAHgNFPYf4IX22i7H6xgX"
+      },
+      "artists": [
+        {
+          "name": "kkanji",
+          "url": "https://open.spotify.com/artist/4shTGFJKXoQKYkBEEdURfs"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151218,
+      "name": "why do we keep running away?",
+      "url": "https://open.spotify.com/track/33hgcRs7ZzFLMoRHAqpdK3"
     },
     {
       "album": {

@@ -1,0 +1,32 @@
+pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain](/playlists/plain/7y7llrZikzuEGrtH4sfxRA) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7y7llrZikzuEGrtH4sfxRA)
+
+### [TERMINAL UNDERGROUND WEEKLY HITTERS](https://open.spotify.com/playlist/7y7llrZikzuEGrtH4sfxRA)
+
+> 
+
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,413 likes - 20 songs - 1 hr 5 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Give You](https://open.spotify.com/track/3VrFR7A8qVKHmECL5tNIlf) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Give You](https://open.spotify.com/album/65Rww1fKgqIbp0QvuFX9gy) | 2:35 |
+| 2 | [No Reason \- Chris Lake Remix](https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE) | [No Reason \(Chris Lake Remix\)](https://open.spotify.com/album/3TEApFY0nZSH1JTceGBK53) | 4:17 |
+| 3 | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W) | [Biggest Regret \(feat\. BbyAfricka\)](https://open.spotify.com/album/665xiVHsc2ocmkIN5xBynI) | 3:50 |
+| 4 | [Rhythm Machine](https://open.spotify.com/track/7qhYyXBbL12mPyj93PyUBb) | [Westend](https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu), [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk) | [Rhythm Machine](https://open.spotify.com/album/0K0ttvuvuaeNPKF9bQ8GmV) | 3:07 |
+| 5 | [Worship Technology](https://open.spotify.com/track/6pRJ9VO7XB7W0CIcrOFmDy) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Skonka](https://open.spotify.com/artist/7prWNv2plXHCHWTkQa4dDM), [TheConnect](https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0) | [Worship Technology](https://open.spotify.com/album/59BIcecdsJYLnQEnu0ihZ5) | 3:48 |
+| 6 | [All For You](https://open.spotify.com/track/0HMCP4nAPkUan3NQr6hSuT) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [All For You](https://open.spotify.com/album/1IvCA1tB8GNQ5KzAJ9pm60) | 3:33 |
+| 7 | [Cutting Loose](https://open.spotify.com/track/6n34hL7CBdTVeekAeprHow) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Cutting Loose](https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF) | 3:04 |
+| 8 | [Thinkin Bout U](https://open.spotify.com/track/60x367wvblmUtppbYCGDlK) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Thinkin Bout U](https://open.spotify.com/album/5slgSc6mAGhiS5Tw5hxS3s) | 2:43 |
+| 9 | [This Is My Life](https://open.spotify.com/track/5oOUGZNKsx5LEE1FYyLcoB) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [This Is My Life](https://open.spotify.com/album/65r6PbiURn3vzNaKkfgxF2) | 3:01 |
+| 10 | [Vai](https://open.spotify.com/track/4SMArjoMXS9Gd6j8zl7ime) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Vai](https://open.spotify.com/album/55GL804NtPvwUfv2FRd0R0) | 3:03 |
+| 11 | [Orange Soda](https://open.spotify.com/track/7KVcbULu13Gsweu8vVW44F) | [Galo](https://open.spotify.com/artist/4v0KJDTlY8yFHSZAFmMj3L) | [Orange Soda](https://open.spotify.com/album/4Xs1ZoQaUlvpbcQ0r5aw60) | 3:46 |
+| 12 | [Boy \(feat\. JONES\)](https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY) | [Illyus & Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C), [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [Boy \(feat\. JONES\)](https://open.spotify.com/album/7psQd9JcAGWum1t1YOXlag) | 2:46 |
+| 13 | [Diva Drums](https://open.spotify.com/track/6f7fDS9gIPKCNB6MVijLsQ) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Diva Drums](https://open.spotify.com/album/5bo5yDSoZKDrZbkhj6eOgz) | 2:41 |
+| 14 | [Lose My Mind](https://open.spotify.com/track/17MkMHGLZKlA4z2AHJikMQ) | [Morgan Cole](https://open.spotify.com/artist/3GNAJ1U3T07EZBilTlsTG7) | [Lose My Mind](https://open.spotify.com/album/1Wd2D8UL41dL8gEQkz0mXP) | 2:30 |
+| 15 | [Make You Sweat](https://open.spotify.com/track/0NASnpEfkq2vPDdEQUbNe5) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Yelah](https://open.spotify.com/artist/4zT6OsLNtItk39NCmOwIAH) | [Make You Sweat](https://open.spotify.com/album/5na4LGQr1htvgwbYzSitwT) | 2:40 |
+| 16 | [Psycho](https://open.spotify.com/track/6zBJmAPFdRXch7YXMGMa7q) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Psycho EP](https://open.spotify.com/album/6lmc5SL2lDjFOXvXoJ6tey) | 3:45 |
+| 17 | [SMS](https://open.spotify.com/track/123qQVqtdwj45g9nNSAYtj) | [ENNE \(BR\)](https://open.spotify.com/artist/4uUgP4DI2XclDn1LD6K8hP) | [SMS](https://open.spotify.com/album/7sbcetx4iyC7YyX0QxMTAi) | 5:54 |
+| 18 | [Serena \- Sllash & Doppe Remix](https://open.spotify.com/track/2DXQY8exHvsjmvOx3jnXkt) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [PAVE](https://open.spotify.com/artist/2E0evCQS6WOlrWfnVGk3ny), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [Serena \(Sllash & Doppe Remix\)](https://open.spotify.com/album/0BhxhUsGFZE7aTx0hYKUHY) | 2:53 |
+| 19 | [Perfect Love \- Biscits Remix](https://open.spotify.com/track/6SxpLVRmhMubmYLrvxGp22) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Perfect Love \(Biscits Remix\)](https://open.spotify.com/album/1HVIOPdgDaSIdKy79G1Dbj) | 3:11 |
+| 20 | [Next Question](https://open.spotify.com/track/2o8vq4ZdDXSgeO2299oH6G) | [Des & Del](https://open.spotify.com/artist/14aGlV7wBsg7aHR2D2o9hQ) | [Next Question](https://open.spotify.com/album/1u2fbWVZ3JEf2xGPcJhR52) | 2:36 |
+
+Snapshot ID: `NDY3MSxmMDZiY2ZhNThiZjIyYjg3YjdlYmVjMzY5YmFmNjZmZGFjZmY1OWE0`

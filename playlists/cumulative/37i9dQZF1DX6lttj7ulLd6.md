@@ -4,7 +4,7 @@
 
 > Instrumental Smooth Jazz for relaxing.
 
-173 songs - 13 hr 8 min
+174 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Autumn Day](https://open.spotify.com/track/2w3XMjQfcfO2cS1T0xXcDu) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:34 | 2022-05-06 |  |
 | [Bali](https://open.spotify.com/track/2aaFllN8vPdII7Qz3Byarf) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [Above The Clouds](https://open.spotify.com/album/6HIHESKwsvniDkbZ6AzuAv) | 4:35 | 2022-05-06 | 2022-10-05 |
 | [Battery Park](https://open.spotify.com/track/4eT8pcYWhhcGST01XuzcKp) | [Zacky Yazz](https://open.spotify.com/artist/3qZwUpVBI4DWCRHrAc9sLv) | [Battery Park](https://open.spotify.com/album/1Lh2EnOd11OTV64zqIUAlq) | 2:24 | 2023-04-20 |  |
+| [Beautiful](https://open.spotify.com/track/7CezvnEL5FMOnbsRCgBiMy) | [Boulevard Pacific](https://open.spotify.com/artist/6JbSthWVq60iYLhfcOuQnE), [Thomas Darelid](https://open.spotify.com/artist/3VgrYw0LQjgMkYa5kuYeaQ), [Henrik Janson](https://open.spotify.com/artist/5kIhxGyX6VtcsLk88dwYED), [Jenny Kristoffersson](https://open.spotify.com/artist/3sKtRVB4wK89xAGqbgcmWy), [Per Lindvall](https://open.spotify.com/artist/2DeT2uR8f8SINDvVEEGSFc) | [Beautiful](https://open.spotify.com/album/00D7sHveDqx8HwneqBVvq0) | 3:33 | 2024-01-09 |  |
 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 | 2022-05-06 |  |
 | [Big Dume](https://open.spotify.com/track/2losmatdtyW89YzZuXzD3j) | [Citronium](https://open.spotify.com/artist/0TfORA7r3uqt6i6VZgS7VX) | [Big Dume](https://open.spotify.com/album/5gMbrDCBuqb0fHLteBX3fk) | 3:50 | 2023-03-23 |  |
 | [Big Jon](https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [Big Jon](https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo) | 3:50 | 2023-08-18 |  |
@@ -108,7 +109,7 @@
 | [Neptune](https://open.spotify.com/track/5oBQvuNbSTzX7qTxn1vRMN) | [Bob Mamet](https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK) | [Day Into Night](https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB) | 4:23 | 2022-05-06 | 2022-10-26 |
 | [Never Without You](https://open.spotify.com/track/7G212RN10A9CTozYwBXbNq) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:52 | 2022-05-06 |  |
 | [Next Journey](https://open.spotify.com/track/40ch36XYitWd7bL6Ih7Fyz) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Next Journey](https://open.spotify.com/album/3JOUNTko166Qtwt6hVdMsz) | 3:03 | 2023-05-30 |  |
-| [Night Calls](https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [In The Moment](https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6) | 5:25 | 2022-05-06 |  |
+| [Night Calls](https://open.spotify.com/track/1VNSWg6Z0X0lPyBlCqVD7I) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ), [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD) | [In The Moment](https://open.spotify.com/album/05h8p9mEdqwTApYGtR66Q6) | 5:25 | 2022-05-06 |  |
 | [Nightwalk](https://open.spotify.com/track/10eKeT50gEcWHtf5lKKOTp) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Sessions \(Volume 1\)](https://open.spotify.com/album/0RrijXnO1sop1L0Wkmc9lR) | 6:39 | 2022-05-06 | 2023-03-15 |
 | [No Woman No Cry](https://open.spotify.com/track/0uGRWcUBryGGCFYI9lC3dj) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Reflections](https://open.spotify.com/album/2fH2LsKWZ0peVa6kUohsw5) | 4:57 | 2022-05-06 | 2022-09-20 |
 | [Northern Lights](https://open.spotify.com/track/6G5qp0GZJKFTEHLGsJqIcm) | [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1) | [Jazzmasters 1](https://open.spotify.com/album/74wFUQc9LIgVzeYMvIOCJm) | 5:38 | 2022-05-06 | 2022-07-29 |
@@ -144,7 +145,7 @@
 | [Stay](https://open.spotify.com/track/2q0sURcwpuIIZ9CIcivt6x) | [Club 1600](https://open.spotify.com/artist/1juPaCPPvPqkkocbYuedXn) | [Club 1600](https://open.spotify.com/album/6iUHScjeLYf1SiN2WmRM3z) | 4:43 | 2022-05-06 |  |
 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 | 2022-05-06 |  |
 | [Summer Groove](https://open.spotify.com/track/2oXfaASoAr4XVmubahCw08) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [This Is What I Hear](https://open.spotify.com/album/3wKbSf1poINjnQB7A1tLkl) | 4:39 | 2022-05-06 | 2022-07-29 |
-| [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 |  |
+| [Summer Groove](https://open.spotify.com/track/1vJNMJf8iGkfO7TR9XRpFz) | [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [The Collection](https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV) | 4:40 | 2022-06-28 | 2024-01-15 |
 | [Surrender \(feat\. Boney James\)](https://open.spotify.com/track/3XS01xqHzkICimJBDwy0iA) | [Jonathan Butler](https://open.spotify.com/artist/5gl2M2G5Dn5XTEW30iMMoD), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Surrender](https://open.spotify.com/album/11cJrPEgWk8xpK8MqRegfd) | 4:42 | 2022-05-06 |  |
 | [Take It Higher](https://open.spotify.com/track/2n3CS2o8W2zUzOvGHaAynw) | [Gino Rosaria](https://open.spotify.com/artist/1kQHli4oL4h6IZxBu8PHoq) | [Don't Stop Now!](https://open.spotify.com/album/1uVPlYMIp6GoyWWflqm9cm) | 4:23 | 2023-02-23 | 2023-03-01 |
 | [Take Me There](https://open.spotify.com/track/5rB6wRwImtMsQirYDS2Xxu) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [After The Storm](https://open.spotify.com/album/5vhTq5K0zLlKHovFu7MpWj) | 5:14 | 2022-05-06 | 2022-10-05 |

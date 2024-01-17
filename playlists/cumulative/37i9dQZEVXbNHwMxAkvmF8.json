@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": "2024-01-17",
       "duration_ms": 128580,
       "name": "24 kar\u00e1t",
       "url": "https://open.spotify.com/track/4f1ZqRQsjJq06CHmpvju2p"
@@ -861,6 +861,24 @@
     },
     {
       "album": {
+        "name": "egy se sl\u00e1ger",
+        "url": "https://open.spotify.com/album/6KZup8nFMEx9i243gabPQV"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 210230,
+      "name": "ahogy \u00f6regsz\u00fcnk",
+      "url": "https://open.spotify.com/track/2mK7viQsQ73aM9GOGqRO9D"
+    },
+    {
+      "album": {
         "name": "aight",
         "url": "https://open.spotify.com/album/1C7pFblVVUtJ3fXFrpmscx"
       },
@@ -1006,6 +1024,24 @@
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 198292,
+      "name": "all of me",
+      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
     },
     {
       "album": {
@@ -1458,7 +1494,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 171600,
       "name": "Az \u00c9letem",
       "url": "https://open.spotify.com/track/46j71g74J8rWbBXqyUtzEb"
@@ -3784,7 +3820,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 176579,
       "name": "Dance The Night - From Barbie The Album",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -4902,7 +4938,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 113842,
       "name": "Eldor\u00e1d\u00f3",
       "url": "https://open.spotify.com/track/7BeoO0doT2iLnmY6wnnexQ"
@@ -6281,6 +6317,24 @@
     },
     {
       "album": {
+        "name": "Gengetek ellen",
+        "url": "https://open.spotify.com/album/1sNJvYsvXA0QAkfb1DfrHY"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169795,
+      "name": "Gengetek ellen",
+      "url": "https://open.spotify.com/track/3mfSO4e6l0mlsjcNpqrktC"
+    },
+    {
+      "album": {
         "name": "Gett\u00f3 csirke",
         "url": "https://open.spotify.com/album/5uijWBrQElsbRaG2kOJxM4"
       },
@@ -6614,7 +6668,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 147096,
       "name": "Gurulgatok",
       "url": "https://open.spotify.com/track/3tYdb1HYnrqcq9bdwsuxfg"
@@ -7968,7 +8022,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
@@ -9540,6 +9594,32 @@
     {
       "album": {
         "name": "Focus",
+        "url": "https://open.spotify.com/album/4oSmsULroX7YdI2ujnqvl8"
+      },
+      "artists": [
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2v7hO7F1AWmS3HEkwvtPaE"
+        },
+        {
+          "name": "Ekhoe",
+          "url": "https://open.spotify.com/artist/6lZA0phZLDcwn6k9ElfESM"
+        },
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 153650,
+      "name": "Latyo \u00e9s haze",
+      "url": "https://open.spotify.com/track/0sqbvBbyS2Tke9oQkLJ750"
+    },
+    {
+      "album": {
+        "name": "Focus",
         "url": "https://open.spotify.com/album/5U5KhcGgli7Y4aQySFG1Cd"
       },
       "artists": [
@@ -9558,7 +9638,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 153650,
       "name": "Latyo \u00e9s haze",
       "url": "https://open.spotify.com/track/5sybMF2Gbm98ociatHQFpT"
@@ -10244,7 +10324,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -11877,6 +11957,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143718,
+      "name": "n.h.i.e.",
+      "url": "https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W"
+    },
+    {
+      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
       },
@@ -12477,6 +12579,32 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220584,
+      "name": "n\u00e9e-nah",
+      "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
+    },
+    {
+      "album": {
         "name": "N\u00e9ztek",
         "url": "https://open.spotify.com/album/4BW1rSljFjxLD3OXmav7km"
       },
@@ -12728,6 +12856,32 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "album": {
+        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        },
+        {
+          "name": "Lily-Rose Depp",
+          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244684,
+      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
       "album": {
@@ -13402,7 +13556,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": "2024-01-12",
       "duration_ms": 159637,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/0pWGWWJ9ER9OwUewhBrsi2"
@@ -13700,6 +13854,32 @@
       "duration_ms": 182362,
       "name": "POP",
       "url": "https://open.spotify.com/track/1IkEE9PQVeQ563gWfJ4moA"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 193320,
+      "name": "pop ur shit",
+      "url": "https://open.spotify.com/track/47yD0e9MCRIB8dgUXPfyW3"
     },
     {
       "album": {
@@ -14376,6 +14556,24 @@
       "duration_ms": 147749,
       "name": "Red flag",
       "url": "https://open.spotify.com/track/0gm55CB2f2W5mRkIU83fGj"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270697,
+      "name": "redrum",
+      "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
     },
     {
       "album": {
@@ -15696,7 +15894,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 144000,
       "name": "Smash!",
       "url": "https://open.spotify.com/track/59wn91U7xuJ5S1zkX8HmpK"
@@ -16522,7 +16720,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 146013,
       "name": "Sz\u00e1zszorsz\u00e9p",
       "url": "https://open.spotify.com/track/2KQoXxQzVL7h4rMsmP8t5L"
@@ -16540,7 +16738,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-10",
       "duration_ms": 158955,
       "name": "Sz\u00e9lcsend",
       "url": "https://open.spotify.com/track/2FLH8pUVYNRJIEZcwLyzYy"
@@ -18722,7 +18920,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 190687,
       "name": "Walkin a street",
       "url": "https://open.spotify.com/track/5SDMdbd64hSpeg1OTCUy7L"
@@ -19268,6 +19466,24 @@
       "duration_ms": 148039,
       "name": "yellow card",
       "url": "https://open.spotify.com/track/1g6yHWwiQ821dPHYFvqZdZ"
+    },
+    {
+      "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
     },
     {
       "album": {

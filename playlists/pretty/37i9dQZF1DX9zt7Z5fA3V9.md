@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zt7Z5fA3V9.md) - [plain]
 
 > Mais que amigas, vizinhas! Ouça as músicas de 'Maldivas', estrelando Bruna Marquezine, Manu Gavassi e mais \- só na Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 683 likes - 20 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 685 likes - 20 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

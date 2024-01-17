@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > The best Amapiano songs of 2023\. Cover: <a href="https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=ZteE48ukTIGkjBIWjNVHMQ">Uncle Waffles</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,304 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,926 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

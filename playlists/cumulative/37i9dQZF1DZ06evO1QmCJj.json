@@ -415,6 +415,28 @@
     },
     {
       "album": {
+        "name": "EL CONDENAO",
+        "url": "https://open.spotify.com/album/5jXjs9ydpvVfPnX8fmB5ib"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maka",
+          "url": "https://open.spotify.com/artist/4lHAjTCvXGu8QIM3cEe93m"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144829,
+      "name": "EL CONDENAO",
+      "url": "https://open.spotify.com/track/2vzj0JE2QKuzZqmevbEpF2"
+    },
+    {
+      "album": {
         "name": "GRX",
         "url": "https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX"
       },
@@ -430,7 +452,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 144829,
       "name": "EL CONDENAO",
       "url": "https://open.spotify.com/track/74fSQUoDZUraMRdrniMcpX"
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 204414,
       "name": "La Ni\u00f1a de la Escuela",
       "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
@@ -964,7 +986,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 181373,
       "name": "Problema",
       "url": "https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i"
@@ -1300,10 +1322,32 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 144424,
       "name": "YO TENGO UN NOVIO",
       "url": "https://open.spotify.com/track/2kT0UoxzIcAaD7SNiDGrFn"
+    },
+    {
+      "album": {
+        "name": "YO TENGO UN NOVIO",
+        "url": "https://open.spotify.com/album/4qX93EQMuPQBxXsWhKyB1k"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "YO TENGO UN NOVIO",
+      "url": "https://open.spotify.com/track/3iUHatOlJklHFQhRQjk27h"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj"

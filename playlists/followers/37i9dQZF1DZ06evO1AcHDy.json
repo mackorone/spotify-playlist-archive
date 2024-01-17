@@ -1,246 +1,831 @@
 {
-  "2023-05-03": 33172,
-  "2023-05-04": 33185,
-  "2023-05-05": 33189,
-  "2023-05-06": 33201,
-  "2023-05-07": 33212,
-  "2023-05-08": 33212,
-  "2023-05-09": 33228,
-  "2023-05-10": 33231,
-  "2023-05-11": 33238,
-  "2023-05-12": 33245,
-  "2023-05-13": 33261,
-  "2023-05-14": 33270,
-  "2023-05-15": 33284,
-  "2023-05-16": 33291,
-  "2023-05-17": 33300,
-  "2023-05-18": 33315,
-  "2023-05-19": 33332,
-  "2023-05-20": 33355,
-  "2023-05-21": 33355,
-  "2023-05-22": 33355,
-  "2023-05-23": 33365,
-  "2023-05-24": 33400,
-  "2023-05-25": 33405,
-  "2023-05-26": 33414,
-  "2023-05-27": 33421,
-  "2023-05-28": 33439,
-  "2023-05-29": 33439,
-  "2023-05-30": 33468,
-  "2023-05-31": 33471,
-  "2023-06-01": 33485,
-  "2023-06-02": 33488,
-  "2023-06-03": 33500,
-  "2023-06-04": 33508,
-  "2023-06-05": 33526,
-  "2023-06-06": 33527,
-  "2023-06-07": 33547,
-  "2023-06-08": 33562,
-  "2023-06-09": 33579,
-  "2023-06-10": 33591,
-  "2023-06-11": 33607,
-  "2023-06-12": 33634,
-  "2023-06-13": 33656,
-  "2023-06-14": 33656,
-  "2023-06-15": 33682,
-  "2023-06-16": 33698,
-  "2023-06-17": 33725,
-  "2023-06-18": 33744,
-  "2023-06-19": 33764,
-  "2023-06-20": 33774,
-  "2023-06-21": 33784,
-  "2023-06-22": 33794,
-  "2023-06-23": 33802,
-  "2023-06-24": 33808,
-  "2023-06-25": 33904,
-  "2023-06-26": 34323,
-  "2023-06-27": 34542,
-  "2023-06-28": 34680,
-  "2023-06-29": 34784,
-  "2023-06-30": 34848,
-  "2023-07-01": 34949,
-  "2023-07-02": 34949,
-  "2023-07-03": 34976,
-  "2023-07-04": 34999,
-  "2023-07-05": 35036,
-  "2023-07-06": 35085,
-  "2023-07-07": 35085,
-  "2023-07-08": 35106,
-  "2023-07-09": 35116,
-  "2023-07-10": 35132,
-  "2023-07-11": 35146,
-  "2023-07-12": 35166,
-  "2023-07-13": 35182,
-  "2023-07-14": 35195,
-  "2023-07-15": 35203,
-  "2023-07-16": 35222,
-  "2023-07-17": 35232,
-  "2023-07-18": 35242,
-  "2023-07-19": 35248,
-  "2023-07-20": 35253,
-  "2023-07-21": 35265,
-  "2023-07-22": 35278,
-  "2023-07-23": 35287,
-  "2023-07-24": 35305,
-  "2023-07-25": 35316,
-  "2023-07-26": 35343,
-  "2023-07-27": 35356,
-  "2023-07-28": 35372,
-  "2023-07-29": 35399,
-  "2023-07-30": 35417,
-  "2023-07-31": 35432,
-  "2023-08-01": 35441,
-  "2023-08-02": 35455,
-  "2023-08-03": 35479,
-  "2023-08-04": 35501,
-  "2023-08-05": 35511,
-  "2023-08-06": 35564,
-  "2023-08-07": 35564,
-  "2023-08-08": 35614,
-  "2023-08-09": 35631,
-  "2023-08-10": 35660,
-  "2023-08-11": 35689,
-  "2023-08-12": 35689,
-  "2023-08-13": 35689,
-  "2023-08-14": 35745,
-  "2023-08-15": 35745,
-  "2023-08-16": 35745,
-  "2023-08-17": 35788,
-  "2023-08-18": 35788,
-  "2023-08-19": 35788,
-  "2023-08-20": 35823,
-  "2023-08-21": 35823,
-  "2023-08-22": 35832,
-  "2023-08-23": 35832,
-  "2023-08-24": 35859,
-  "2023-08-25": 35859,
-  "2023-08-26": 35894,
-  "2023-08-27": 35894,
-  "2023-08-28": 35926,
-  "2023-08-29": 35926,
-  "2023-08-30": 35926,
-  "2023-08-31": 35989,
-  "2023-09-01": 36010,
-  "2023-09-02": 36010,
-  "2023-09-03": 36019,
-  "2023-09-04": 36019,
-  "2023-09-05": 36019,
-  "2023-09-06": 36055,
-  "2023-09-07": 36055,
-  "2023-09-08": 36055,
-  "2023-09-09": 36055,
-  "2023-09-10": 36098,
-  "2023-09-11": 36098,
-  "2023-09-12": 36098,
-  "2023-09-13": 36117,
-  "2023-09-14": 36117,
-  "2023-09-15": 36117,
-  "2023-09-16": 36147,
-  "2023-09-17": 36147,
-  "2023-09-18": 36147,
-  "2023-09-19": 36171,
-  "2023-09-20": 36171,
-  "2023-09-21": 36171,
-  "2023-09-22": 36215,
-  "2023-09-23": 36215,
-  "2023-09-24": 36215,
-  "2023-09-25": 36215,
-  "2023-09-26": 36277,
-  "2023-09-27": 36277,
-  "2023-09-28": 36277,
-  "2023-09-29": 36277,
-  "2023-09-30": 36277,
-  "2023-10-01": 36277,
-  "2023-10-02": 36431,
-  "2023-10-03": 36431,
-  "2023-10-04": 36431,
-  "2023-10-05": 36480,
-  "2023-10-06": 36494,
-  "2023-10-07": 36494,
-  "2023-10-08": 36494,
-  "2023-10-09": 36494,
-  "2023-10-10": 36494,
-  "2023-10-11": 36555,
-  "2023-10-12": 36555,
-  "2023-10-13": 36555,
-  "2023-10-14": 36555,
-  "2023-10-15": 36555,
-  "2023-10-16": 36555,
-  "2023-10-17": 36555,
-  "2023-10-18": 36555,
-  "2023-10-19": 36555,
-  "2023-10-20": 36555,
-  "2023-10-21": 36555,
-  "2023-10-22": 36555,
-  "2023-10-23": 36555,
-  "2023-10-24": 36555,
-  "2023-10-25": 36555,
-  "2023-10-26": 36555,
-  "2023-10-27": 36555,
-  "2023-10-28": 36555,
-  "2023-10-29": 36555,
-  "2023-10-30": 36555,
-  "2023-10-31": 36555,
-  "2023-11-01": 36555,
-  "2023-11-02": 36555,
-  "2023-11-03": 36555,
-  "2023-11-04": 36555,
-  "2023-11-05": 36555,
-  "2023-11-06": 36555,
-  "2023-11-07": 36555,
-  "2023-11-08": 36555,
-  "2023-11-09": 36555,
-  "2023-11-10": 36555,
-  "2023-11-11": 36747,
-  "2023-11-12": 36747,
-  "2023-11-13": 36747,
-  "2023-11-14": 36747,
-  "2023-11-15": 36747,
-  "2023-11-16": 36747,
-  "2023-11-17": 36747,
-  "2023-11-18": 36747,
-  "2023-11-19": 36747,
-  "2023-11-20": 36747,
-  "2023-11-21": 36747,
-  "2023-11-22": 36747,
-  "2023-11-23": 36747,
-  "2023-11-24": 36747,
-  "2023-11-25": 36747,
-  "2023-11-26": 36747,
-  "2023-11-27": 36747,
-  "2023-11-28": 36747,
-  "2023-11-29": 36747,
-  "2023-11-30": 36747,
-  "2023-12-01": 36747,
-  "2023-12-02": 36747,
-  "2023-12-03": 36747,
-  "2023-12-04": 36747,
-  "2023-12-05": 36747,
-  "2023-12-06": 36747,
-  "2023-12-07": 36747,
-  "2023-12-08": 36747,
-  "2023-12-09": 36747,
-  "2023-12-10": 36747,
-  "2023-12-11": 36747,
-  "2023-12-12": 36747,
-  "2023-12-13": 36747,
-  "2023-12-14": 36887,
-  "2023-12-15": 36889,
-  "2023-12-16": 36896,
-  "2023-12-17": 36903,
-  "2023-12-18": 36903,
-  "2023-12-19": 36905,
-  "2023-12-20": 36909,
-  "2023-12-21": 36921,
-  "2023-12-22": 36919,
-  "2023-12-23": 36926,
-  "2023-12-24": 36929,
-  "2023-12-25": 36935,
-  "2023-12-26": 36935,
-  "2023-12-27": 36939,
-  "2023-12-30": 36952,
-  "2023-12-31": 36954,
-  "2024-01-01": 36960,
-  "2024-01-02": 36960,
-  "2024-01-03": 36962
+  "2024-01-17": 37025,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
+  "name": "This Is Rina Sawayama",
+  "tracks": [
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195472,
+      "name": "10-20-40",
+      "url": "https://open.spotify.com/track/56YbKSljGEtc3kYD53PsKZ"
+    },
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244078,
+      "name": "Alterlife",
+      "url": "https://open.spotify.com/track/0Z0y8PeCB2f9w3m9Hi6vPD"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208128,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Coco Morier",
+          "url": "https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106832,
+      "name": "Bees & Honey - Bonus Track",
+      "url": "https://open.spotify.com/track/5td3aQXu6mpU2HDSzt1i5z"
+    },
+    {
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168053,
+      "name": "Beg for You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
+    },
+    {
+      "album": {
+        "name": "Beg For You (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 168053,
+      "name": "Beg for You (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq"
+    },
+    {
+      "album": {
+        "name": "Beg For You (A. G. Cook & VERNON OF SEVENTEEN Remix) [feat. Rina Sawayama]",
+        "url": "https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "A. G. Cook",
+          "url": "https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249280,
+      "name": "Beg for You (feat. Rina Sawayama) - A. G. Cook & VERNON OF SEVENTEEN Remix",
+      "url": "https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215814,
+      "name": "Catch Me In The Air",
+      "url": "https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205224,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "Comme Des Gar\u00e7ons (Like The Boys)",
+      "url": "https://open.spotify.com/track/43bYs8QkPdCdy5esfnmU1T"
+    },
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221880,
+      "name": "Cyber Stockholm Syndrome",
+      "url": "https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm"
+    },
+    {
+      "album": {
+        "name": "Dance In The Dark (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225366,
+      "name": "Dance In The Dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188399,
+      "name": "Dynasty",
+      "url": "https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/793qi8UfJPDiJNWHEdkXW1"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333880,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/4ZELmUxqI93dMrnSD4eUqc"
+    },
+    {
+      "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/0irZKfdLmSCLbuvXAXPz3m"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 333888,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/18sXLZIxb7nYy3g0Wnx8bA"
+    },
+    {
+      "album": {
+        "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+        "url": "https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174173,
+      "name": "Eve, Psyche & the Bluebeard\u2019s wife (Rina Sawayama Remix)",
+      "url": "https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR"
+    },
+    {
+      "album": {
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "Flavour Of The Month",
+      "url": "https://open.spotify.com/track/5csiH6myf4Pe4g0wQZtckf"
+    },
+    {
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/35qs3QuYq3vXwTOwwEH4mx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180270,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/7uvz3nIyTAJJJcBOcjtFyr"
+    },
+    {
+      "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/445vYMgXM6mKFRPJzYeeav"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177564,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/0BhxEu4q4jg6Ul7XUxv7So"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192072,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/4nYUJ36Qj9hIY9mKj8QZFF"
+    },
+    {
+      "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Clarence Clarity",
+          "url": "https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233901,
+      "name": "Free Woman - Rina Sawayama & Clarence Clarity Remix",
+      "url": "https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245808,
+      "name": "Hold The Girl",
+      "url": "https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 199002,
+      "name": "Holy (Til You Let Me Go)",
+      "url": "https://open.spotify.com/track/4CDpNmlS3cE9LQprMOkTVJ"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 212545,
+      "name": "Imagining",
+      "url": "https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl (Bonus Edition)",
+        "url": "https://open.spotify.com/album/6XSoviEu85xxQIAtX9VPIb"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        },
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220304,
+      "name": "Imagining (feat. Amaarae)",
+      "url": "https://open.spotify.com/track/4H9yO3xQEpKHbLwF6n5ldj"
+    },
+    {
+      "album": {
+        "name": "Kiss Me (feat. Rina Sawayama)",
+        "url": "https://open.spotify.com/album/3dYzgkq8CgNH72HHYmNfCQ"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Kiss Me (feat. Rina Sawayama)",
+      "url": "https://open.spotify.com/track/7iUvtFAYg293pzSfKNBGlG"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244053,
+      "name": "Love It If We Made It",
+      "url": "https://open.spotify.com/track/6fhqgtrrMU7JSHXjo5KOlC"
+    },
+    {
+      "album": {
+        "name": "LUCID",
+        "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218108,
+      "name": "LUCID",
+      "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120576,
+      "name": "Minor Feelings",
+      "url": "https://open.spotify.com/track/5TqFLW9Acy8okYDpHluHMV"
+    },
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227037,
+      "name": "Ordinary Superstar",
+      "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
+    },
+    {
+      "album": {
+        "name": "Sleeping in Waking",
+        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 233887,
+      "name": "Sleeping in Waking",
+      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203994,
+      "name": "STFU!",
+      "url": "https://open.spotify.com/track/0HKr9aqzHBsVNnsUCdH4bw"
+    },
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205573,
+      "name": "Take Me as I Am",
+      "url": "https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236078,
+      "name": "This Hell",
+      "url": "https://open.spotify.com/track/7aHmvUghK3XCEqNRbUeAn4"
+    },
+    {
+      "album": {
+        "name": "This Time Last Year",
+        "url": "https://open.spotify.com/album/3rqFFAiBrou6wZ9Ey5Ueog"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 146000,
+      "name": "This Time Last Year",
+      "url": "https://open.spotify.com/track/6JFfDG7i6E4NPHc2WEy4CS"
+    },
+    {
+      "album": {
+        "name": "RINA",
+        "url": "https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60321,
+      "name": "Time Out - Interlude",
+      "url": "https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267369,
+      "name": "Tokyo Love Hotel",
+      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
+    },
+    {
+      "album": {
+        "name": "Valentine (What's It Gonna Be)",
+        "url": "https://open.spotify.com/album/5q8By0cUOoPK7FKMmYE4hD"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207355,
+      "name": "Valentine (What's It Gonna Be)",
+      "url": "https://open.spotify.com/track/5qbkxtdC4BvWdwmOXJwlH3"
+    },
+    {
+      "album": {
+        "name": "Where U Are",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232946,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din"
+    },
+    {
+      "album": {
+        "name": "Sleeping in Waking",
+        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141114,
+      "name": "Who?",
+      "url": "https://open.spotify.com/track/2gdn1IDxIjjsiXFpfdwfRw"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201060,
+      "name": "XS",
+      "url": "https://open.spotify.com/track/1TWNKyNQOBfNUkWWs7FooF"
+    },
+    {
+      "album": {
+        "name": "Hold The Girl",
+        "url": "https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174387,
+      "name": "Your Age",
+      "url": "https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1AcHDy"
 }

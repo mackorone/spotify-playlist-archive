@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe66p0GtkYj3.md) - [plain]
 
 > Empezó el zapateo\. ¡Take tarake take!
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,455 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,471 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

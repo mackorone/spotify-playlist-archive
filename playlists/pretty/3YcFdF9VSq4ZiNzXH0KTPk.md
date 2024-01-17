@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain]
 
 > Country music that Rocks!
 
-[Harry Shaw](https://open.spotify.com/user/theharry1103) - 2 likes - 210 songs - 12 hr 22 min
+[Harry Shaw](https://open.spotify.com/user/theharry1103) - 2 likes - 211 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,5 +218,6 @@ pretty - [cumulative](/playlists/cumulative/3YcFdF9VSq4ZiNzXH0KTPk.md) - [plain]
 | 208 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 |
 | 209 | [Love You Again](https://open.spotify.com/track/7pvy3nhtBIQUakHS4OjFqB) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Come Get Your Memory](https://open.spotify.com/album/5p1dDu2h83DMOPi9ULbqts) | 2:53 |
 | 210 | [Settle Me Down](https://open.spotify.com/track/3CYpmhtAu6DCAwfkYB2mQ9) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [The Highway Kind](https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ) | 2:57 |
+| 211 | [the mockingbird & THE CROW](https://open.spotify.com/track/2jPsJqh8rKS1HwHsda7D7G) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 5:05 |
 
-Snapshot ID: `MjU1LDljNmUwMGIyZDJmYjU5MmNhMGVlYjhmM2Y2YjZlNDBlYjA4MjYzYzI=`
+Snapshot ID: `MjU2LDU5OTQxMjVlNjc1Yzc3MThlNTJkYjAxYTNkY2I1ZGExNWI0OGYzMjM=`

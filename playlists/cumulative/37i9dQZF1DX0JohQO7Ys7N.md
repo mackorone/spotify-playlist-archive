@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Ethan
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Bridget Blue
 
-152 songs - 8 hr 33 min
+153 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [My Everything](https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:51 | 2021-12-28 | 2023-01-27 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-03-23 |  |
 | [My Love Belongs to You](https://open.spotify.com/track/32znzBnjFs06EEgMzyUINd) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Super Ego](https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6) | 3:33 | 2021-12-28 | 2022-04-29 |
+| [Múrío Wa Wendo](https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo) | [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Múrío Wa Wendo](https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n) | 3:13 | 2024-01-11 |  |
 | [Naito](https://open.spotify.com/track/4JPzKp3IgIlaVEMSbGc73o) | [Pascal Tokodi](https://open.spotify.com/artist/7FSouRkvmGBxGx66a6Z4x3) | [Naito](https://open.spotify.com/album/4tjEfXK9eENmcOkZkLLFKT) | 2:53 | 2021-12-28 | 2022-03-25 |
 | [Nakupenda Bado](https://open.spotify.com/track/3T2HZ4MqS2AVxtuCTXJZ3B) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Hayawi Hayawi](https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK) | 3:25 | 2021-12-28 | 2022-07-08 |
 | [Ndani Ya Gari](https://open.spotify.com/track/3xOt9gJVYirLyimYnsUEvr) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:53 | 2022-09-22 | 2023-12-01 |
@@ -114,7 +115,7 @@
 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 | 2023-10-13 |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-04-06 |  |
 | [Pretty](https://open.spotify.com/track/2ugvW84yp6HulDOqRdAxPW) | [Charisma](https://open.spotify.com/artist/4sVIp9KBR3YULsXRpjjYzp) | [Pretty](https://open.spotify.com/album/577xM3upynKWhBEwnFBPZ2) | 2:12 | 2022-10-27 | 2022-11-04 |
-| [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 |  |
+| [Problems](https://open.spotify.com/track/13Vo9Bfa1mdR7p3tZk3ues) | [Matt Ngesa](https://open.spotify.com/artist/38jStfZwiNvdn1PKt9ma35) | [Problems](https://open.spotify.com/album/6nuNAmZvBNuOMHdHCHKWNs) | 4:09 | 2021-12-28 | 2024-01-12 |
 | [project \- A COLORS SHOW](https://open.spotify.com/track/0ZgroOYQAUzfcQYS6wibf9) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [project \- A COLORS SHOW](https://open.spotify.com/album/5tHWyhdLYInrDivcSPWpnC) | 3:28 | 2023-11-24 |  |
 | [Pulling Out](https://open.spotify.com/track/2Xqi7yZeFfcSIVwU1c5slN) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd) | [Pulling Out](https://open.spotify.com/album/50rwp4OLO5TL7QcRQ23Rji) | 3:12 | 2021-12-28 | 2022-10-01 |
 | [Relieve Pressure](https://open.spotify.com/track/6j0KqhTRDYjJVqy6q80PvR) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Maali](https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk) | [Relieve Pressure](https://open.spotify.com/album/6ePMowPW0VwXDvMNZsfniV) | 3:19 | 2023-08-17 |  |

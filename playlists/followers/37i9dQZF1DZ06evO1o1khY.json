@@ -1,430 +1,1133 @@
 {
-  "2022-10-29": 1027,
-  "2022-10-30": 1062,
-  "2022-10-31": 1091,
-  "2022-11-01": 1112,
-  "2022-11-02": 1143,
-  "2022-11-03": 1182,
-  "2022-11-04": 1208,
-  "2022-11-05": 1248,
-  "2022-11-06": 1291,
-  "2022-11-07": 1313,
-  "2022-11-08": 1354,
-  "2022-11-09": 1392,
-  "2022-11-10": 1441,
-  "2022-11-11": 1485,
-  "2022-11-12": 1572,
-  "2022-11-13": 1631,
-  "2022-11-14": 1674,
-  "2022-11-15": 1736,
-  "2022-11-16": 1793,
-  "2022-11-17": 1853,
-  "2022-11-18": 1867,
-  "2022-11-19": 1901,
-  "2022-11-20": 1974,
-  "2022-11-21": 2036,
-  "2022-11-22": 2083,
-  "2022-11-23": 2156,
-  "2022-11-24": 2254,
-  "2022-11-25": 2353,
-  "2022-11-26": 2415,
-  "2022-11-27": 2476,
-  "2022-11-28": 2531,
-  "2022-11-29": 2602,
-  "2022-11-30": 2660,
-  "2022-12-01": 2701,
-  "2022-12-02": 2738,
-  "2022-12-03": 2815,
-  "2022-12-04": 2876,
-  "2022-12-05": 2933,
-  "2022-12-06": 2981,
-  "2022-12-07": 3019,
-  "2022-12-08": 3056,
-  "2022-12-09": 3120,
-  "2022-12-10": 3179,
-  "2022-12-11": 3235,
-  "2022-12-12": 3283,
-  "2022-12-13": 3330,
-  "2022-12-14": 3378,
-  "2022-12-15": 3415,
-  "2022-12-16": 3465,
-  "2022-12-17": 3515,
-  "2022-12-18": 3552,
-  "2022-12-19": 3597,
-  "2022-12-20": 3691,
-  "2022-12-21": 3691,
-  "2022-12-22": 3730,
-  "2022-12-24": 3794,
-  "2022-12-25": 3835,
-  "2022-12-26": 3879,
-  "2022-12-27": 3933,
-  "2022-12-28": 3985,
-  "2022-12-29": 4017,
-  "2022-12-30": 4051,
-  "2022-12-31": 4117,
-  "2023-01-01": 4157,
-  "2023-01-02": 4205,
-  "2023-01-03": 4263,
-  "2023-01-04": 4306,
-  "2023-01-05": 4343,
-  "2023-01-06": 4371,
-  "2023-01-07": 4433,
-  "2023-01-08": 4445,
-  "2023-01-09": 4492,
-  "2023-01-10": 4549,
-  "2023-01-11": 4588,
-  "2023-01-12": 4637,
-  "2023-01-13": 4703,
-  "2023-01-14": 4779,
-  "2023-01-15": 4786,
-  "2023-01-16": 4843,
-  "2023-01-17": 4887,
-  "2023-01-18": 4927,
-  "2023-01-19": 4968,
-  "2023-01-20": 4990,
-  "2023-01-21": 5031,
-  "2023-01-22": 5075,
-  "2023-01-23": 5121,
-  "2023-01-24": 5160,
-  "2023-01-25": 5192,
-  "2023-01-26": 5230,
-  "2023-01-27": 5261,
-  "2023-01-28": 5299,
-  "2023-01-29": 5341,
-  "2023-01-30": 5372,
-  "2023-01-31": 5372,
-  "2023-02-01": 5452,
-  "2023-02-02": 5488,
-  "2023-02-03": 5518,
-  "2023-02-04": 5555,
-  "2023-02-05": 5604,
-  "2023-02-06": 5657,
-  "2023-02-07": 5718,
-  "2023-02-08": 5822,
-  "2023-02-09": 5822,
-  "2023-02-10": 5868,
-  "2023-02-11": 5923,
-  "2023-02-12": 5997,
-  "2023-02-13": 6033,
-  "2023-02-14": 6033,
-  "2023-02-15": 6063,
-  "2023-02-16": 6098,
-  "2023-02-17": 6128,
-  "2023-02-18": 6215,
-  "2023-02-19": 6228,
-  "2023-02-20": 6263,
-  "2023-02-21": 6298,
-  "2023-02-22": 6342,
-  "2023-02-23": 6378,
-  "2023-02-24": 6417,
-  "2023-02-25": 6470,
-  "2023-02-26": 6505,
-  "2023-02-27": 6587,
-  "2023-02-28": 6587,
-  "2023-03-01": 6631,
-  "2023-03-02": 6675,
-  "2023-03-03": 6713,
-  "2023-03-04": 6749,
-  "2023-03-05": 6815,
-  "2023-03-06": 6815,
-  "2023-03-07": 6849,
-  "2023-03-08": 6900,
-  "2023-03-09": 6936,
-  "2023-03-10": 6964,
-  "2023-03-11": 6997,
-  "2023-03-12": 7028,
-  "2023-03-13": 7054,
-  "2023-03-14": 7084,
-  "2023-03-15": 7108,
-  "2023-03-16": 7108,
-  "2023-03-17": 7108,
-  "2023-03-18": 7200,
-  "2023-03-19": 7200,
-  "2023-03-20": 7277,
-  "2023-03-21": 7306,
-  "2023-03-22": 7330,
-  "2023-03-23": 7361,
-  "2023-03-24": 7361,
-  "2023-03-25": 7418,
-  "2023-03-26": 7452,
-  "2023-03-27": 7472,
-  "2023-03-28": 7515,
-  "2023-03-29": 7551,
-  "2023-03-30": 7592,
-  "2023-03-31": 7592,
-  "2023-04-01": 7634,
-  "2023-04-02": 7665,
-  "2023-04-03": 7693,
-  "2023-04-04": 7716,
-  "2023-04-05": 7737,
-  "2023-04-06": 7772,
-  "2023-04-07": 7809,
-  "2023-04-09": 7867,
-  "2023-04-10": 7897,
-  "2023-04-11": 7953,
-  "2023-04-12": 7953,
-  "2023-04-13": 7973,
-  "2023-04-14": 7994,
-  "2023-04-15": 8028,
-  "2023-04-16": 8051,
-  "2023-04-17": 8083,
-  "2023-04-18": 8115,
-  "2023-04-19": 8136,
-  "2023-04-20": 8155,
-  "2023-04-21": 8179,
-  "2023-04-22": 8209,
-  "2023-04-23": 8240,
-  "2023-04-24": 8265,
-  "2023-04-25": 8286,
-  "2023-04-26": 8307,
-  "2023-04-27": 8326,
-  "2023-04-28": 8353,
-  "2023-04-29": 8382,
-  "2023-04-30": 8401,
-  "2023-05-01": 8433,
-  "2023-05-02": 8455,
-  "2023-05-03": 8476,
-  "2023-05-04": 8497,
-  "2023-05-05": 8525,
-  "2023-05-06": 8549,
-  "2023-05-07": 8574,
-  "2023-05-08": 8604,
-  "2023-05-09": 8624,
-  "2023-05-10": 8653,
-  "2023-05-11": 8678,
-  "2023-05-12": 8711,
-  "2023-05-13": 8741,
-  "2023-05-14": 8771,
-  "2023-05-15": 8791,
-  "2023-05-16": 8814,
-  "2023-05-17": 8833,
-  "2023-05-18": 8848,
-  "2023-05-19": 8863,
-  "2023-05-20": 8917,
-  "2023-05-21": 8917,
-  "2023-05-22": 8917,
-  "2023-05-23": 8973,
-  "2023-05-24": 9014,
-  "2023-05-25": 9025,
-  "2023-05-26": 9044,
-  "2023-05-27": 9068,
-  "2023-05-28": 9098,
-  "2023-05-29": 9098,
-  "2023-05-30": 9146,
-  "2023-05-31": 9169,
-  "2023-06-01": 9200,
-  "2023-06-02": 9217,
-  "2023-06-03": 9241,
-  "2023-06-04": 9276,
-  "2023-06-05": 9287,
-  "2023-06-06": 9314,
-  "2023-06-07": 9330,
-  "2023-06-08": 9360,
-  "2023-06-09": 9372,
-  "2023-06-10": 9404,
-  "2023-06-11": 9429,
-  "2023-06-12": 9447,
-  "2023-06-13": 9467,
-  "2023-06-14": 9487,
-  "2023-06-15": 9510,
-  "2023-06-16": 9529,
-  "2023-06-17": 9551,
-  "2023-06-18": 9564,
-  "2023-06-19": 9583,
-  "2023-06-20": 9595,
-  "2023-06-21": 9612,
-  "2023-06-22": 9633,
-  "2023-06-23": 9645,
-  "2023-06-24": 9657,
-  "2023-06-25": 9682,
-  "2023-06-26": 9706,
-  "2023-06-27": 9734,
-  "2023-06-28": 9759,
-  "2023-06-29": 9778,
-  "2023-06-30": 9802,
-  "2023-07-01": 9851,
-  "2023-07-02": 9851,
-  "2023-07-03": 9870,
-  "2023-07-04": 9888,
-  "2023-07-05": 9902,
-  "2023-07-06": 9934,
-  "2023-07-07": 9934,
-  "2023-07-08": 9951,
-  "2023-07-09": 9977,
-  "2023-07-10": 9995,
-  "2023-07-11": 10016,
-  "2023-07-12": 10031,
-  "2023-07-13": 10046,
-  "2023-07-14": 10063,
-  "2023-07-15": 10070,
-  "2023-07-16": 10092,
-  "2023-07-17": 10108,
-  "2023-07-18": 10120,
-  "2023-07-19": 10131,
-  "2023-07-20": 10143,
-  "2023-07-21": 10159,
-  "2023-07-22": 10181,
-  "2023-07-23": 10194,
-  "2023-07-24": 10205,
-  "2023-07-25": 10226,
-  "2023-07-26": 10241,
-  "2023-07-27": 10264,
-  "2023-07-28": 10281,
-  "2023-07-29": 10296,
-  "2023-07-30": 10306,
-  "2023-07-31": 10320,
-  "2023-08-01": 10328,
-  "2023-08-02": 10347,
-  "2023-08-03": 10369,
-  "2023-08-04": 10378,
-  "2023-08-05": 10386,
-  "2023-08-06": 10401,
-  "2023-08-07": 10401,
-  "2023-08-08": 10414,
-  "2023-08-09": 10427,
-  "2023-08-10": 10439,
-  "2023-08-11": 10446,
-  "2023-08-12": 10446,
-  "2023-08-13": 10446,
-  "2023-08-14": 10483,
-  "2023-08-15": 10483,
-  "2023-08-16": 10483,
-  "2023-08-17": 10483,
-  "2023-08-18": 10483,
-  "2023-08-19": 10483,
-  "2023-08-20": 10563,
-  "2023-08-21": 10563,
-  "2023-08-22": 10585,
-  "2023-08-23": 10585,
-  "2023-08-24": 10585,
-  "2023-08-25": 10585,
-  "2023-08-26": 10640,
-  "2023-08-27": 10640,
-  "2023-08-28": 10665,
-  "2023-08-29": 10665,
-  "2023-08-30": 10665,
-  "2023-08-31": 10705,
-  "2023-09-01": 10716,
-  "2023-09-02": 10716,
-  "2023-09-03": 10749,
-  "2023-09-04": 10749,
-  "2023-09-05": 10749,
-  "2023-09-06": 10782,
-  "2023-09-07": 10782,
-  "2023-09-08": 10782,
-  "2023-09-09": 10782,
-  "2023-09-10": 10847,
-  "2023-09-11": 10847,
-  "2023-09-12": 10847,
-  "2023-09-13": 10895,
-  "2023-09-14": 10895,
-  "2023-09-15": 10895,
-  "2023-09-16": 10937,
-  "2023-09-17": 10937,
-  "2023-09-18": 10937,
-  "2023-09-19": 10969,
-  "2023-09-20": 10969,
-  "2023-09-21": 10969,
-  "2023-09-22": 11008,
-  "2023-09-23": 11008,
-  "2023-09-24": 11008,
-  "2023-09-25": 11008,
-  "2023-09-26": 11046,
-  "2023-09-27": 11046,
-  "2023-09-28": 11046,
-  "2023-09-29": 11046,
-  "2023-09-30": 11046,
-  "2023-10-01": 11046,
-  "2023-10-02": 11137,
-  "2023-10-03": 11137,
-  "2023-10-04": 11137,
-  "2023-10-05": 11161,
-  "2023-10-06": 11161,
-  "2023-10-07": 11161,
-  "2023-10-08": 11161,
-  "2023-10-09": 11161,
-  "2023-10-10": 11161,
-  "2023-10-11": 11232,
-  "2023-10-12": 11232,
-  "2023-10-13": 11232,
-  "2023-10-14": 11232,
-  "2023-10-15": 11232,
-  "2023-10-16": 11232,
-  "2023-10-17": 11232,
-  "2023-10-18": 11232,
-  "2023-10-19": 11232,
-  "2023-10-20": 11232,
-  "2023-10-21": 11232,
-  "2023-10-22": 11232,
-  "2023-10-23": 11232,
-  "2023-10-24": 11232,
-  "2023-10-25": 11232,
-  "2023-10-26": 11232,
-  "2023-10-27": 11232,
-  "2023-10-28": 11232,
-  "2023-10-29": 11232,
-  "2023-10-30": 11232,
-  "2023-10-31": 11232,
-  "2023-11-01": 11232,
-  "2023-11-02": 11232,
-  "2023-11-03": 11232,
-  "2023-11-04": 11232,
-  "2023-11-05": 11232,
-  "2023-11-06": 11232,
-  "2023-11-07": 11232,
-  "2023-11-08": 11232,
-  "2023-11-09": 11232,
-  "2023-11-10": 11232,
-  "2023-11-11": 11565,
-  "2023-11-12": 11565,
-  "2023-11-13": 11565,
-  "2023-11-14": 11565,
-  "2023-11-15": 11565,
-  "2023-11-16": 11565,
-  "2023-11-17": 11565,
-  "2023-11-18": 11565,
-  "2023-11-19": 11565,
-  "2023-11-20": 11565,
-  "2023-11-21": 11565,
-  "2023-11-22": 11565,
-  "2023-11-23": 11565,
-  "2023-11-24": 11565,
-  "2023-11-25": 11565,
-  "2023-11-26": 11565,
-  "2023-11-27": 11565,
-  "2023-11-28": 11565,
-  "2023-11-29": 11565,
-  "2023-11-30": 11565,
-  "2023-12-01": 11565,
-  "2023-12-02": 11565,
-  "2023-12-03": 11565,
-  "2023-12-04": 11565,
-  "2023-12-05": 11565,
-  "2023-12-06": 11565,
-  "2023-12-07": 11565,
-  "2023-12-08": 11565,
-  "2023-12-09": 11565,
-  "2023-12-10": 11565,
-  "2023-12-11": 11565,
-  "2023-12-12": 11565,
-  "2023-12-13": 11565,
-  "2023-12-14": 11880,
-  "2023-12-15": 11889,
-  "2023-12-16": 11897,
-  "2023-12-17": 11908,
-  "2023-12-18": 11924,
-  "2023-12-19": 11930,
-  "2023-12-20": 11939,
-  "2023-12-21": 11946,
-  "2023-12-22": 11956,
-  "2023-12-23": 11963,
-  "2023-12-24": 11974,
-  "2023-12-25": 11977,
-  "2023-12-26": 11987,
-  "2023-12-27": 11988,
-  "2023-12-30": 12010,
-  "2023-12-31": 12018,
-  "2024-01-01": 12020,
-  "2024-01-02": 12024,
-  "2024-01-03": 12035
+  "2024-01-17": 12162,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is GloRilla. The essential tracks, all in one playlist.",
+  "name": "This Is GloRilla",
+  "tracks": [
+    {
+      "album": {
+        "name": "Afford Me",
+        "url": "https://open.spotify.com/album/5Huo9LyxnF12d2aogAGgeQ"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "JaTavia Akiaa",
+          "url": "https://open.spotify.com/artist/2zanO9oR7cBRKmEdi4Gzll"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209928,
+      "name": "Afford Me",
+      "url": "https://open.spotify.com/track/6zNYUZJGEs70HIH40SFhYX"
+    },
+    {
+      "album": {
+        "name": "Bestfrenn (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/2PH99JWwjb865QK15qvO0m"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138972,
+      "name": "Bestfrenn (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/2c8XhH3CD3Ztja2MIBxILf"
+    },
+    {
+      "album": {
+        "name": "Better Thangs (Remix)",
+        "url": "https://open.spotify.com/album/5Ekjip2Vx87beFHsrKDCWt"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215060,
+      "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
+      "url": "https://open.spotify.com/track/0xUZ8H6dtWmXRTyqgRkkTO"
+    },
+    {
+      "album": {
+        "name": "Better Thangs (Remix)",
+        "url": "https://open.spotify.com/album/3atBxuFcUVkdnXTsMehmHT"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 215060,
+      "name": "Better Thangs (with Summer Walker & GloRilla) - Remix",
+      "url": "https://open.spotify.com/track/12dDT2AnpscZ1zL72RvPGR"
+    },
+    {
+      "album": {
+        "name": "Big Shit",
+        "url": "https://open.spotify.com/album/47iTiC280nbUCYKSexLoAO"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sunny Gob",
+          "url": "https://open.spotify.com/artist/78ZZffmlwqaR1NNoYKRnFo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140471,
+      "name": "Big Shit - Prod. by Sunny Gob",
+      "url": "https://open.spotify.com/track/7LrEMRvMU0UnNWjuZuHacj"
+    },
+    {
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/4rH90w5Q9S3fzok5Gp9H6v"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2DNOQSfV9U1Wen1uffsdeP"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/2PlPqt4Jm809dxUo91i5di"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
+    },
+    {
+      "album": {
+        "name": "Common Denominator",
+        "url": "https://open.spotify.com/album/1eIgblJilmCeaymw8cyeTt"
+      },
+      "artists": [
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 157387,
+      "name": "Common Denominator",
+      "url": "https://open.spotify.com/track/5MFkk1aeKVU6XBOKqkSnNn"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152759,
+      "name": "Don't Know (GloRidaz Bonus)",
+      "url": "https://open.spotify.com/track/0GBGLP9DxzTzbaeYzGjW48"
+    },
+    {
+      "album": {
+        "name": "Foxes Only",
+        "url": "https://open.spotify.com/album/46hdTAtdzJ0ejF2JanBnYr"
+      },
+      "artists": [
+        {
+          "name": "YTB Fatt",
+          "url": "https://open.spotify.com/artist/1t22AdiJ8P9eXOnoJ8xPJT"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143992,
+      "name": "Embarrassing (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/52V0wk4bz20iMjmHGy2i0V"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
+        "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197011,
+      "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
+      "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+    },
+    {
+      "album": {
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+    },
+    {
+      "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "album": {
+        "name": "Gang Nem",
+        "url": "https://open.spotify.com/album/3yFLxnWLRK4nUfq4XpU4au"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163134,
+      "name": "Gang Nem",
+      "url": "https://open.spotify.com/track/6klLjDbLFjIINFcNSkgnTZ"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 153613,
+      "name": "Get That Money (feat. Niki Pooh)",
+      "url": "https://open.spotify.com/track/0EC9HpKL4bS8O9ANKXLnE2"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 126960,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/1qq7kdzH7CCybWcbHHumyD"
+    },
+    {
+      "album": {
+        "name": "In The Trunk (feat. GloRilla)",
+        "url": "https://open.spotify.com/album/1MD6MPOCOu6Ejid7adoSVg"
+      },
+      "artists": [
+        {
+          "name": "FendiDa Rappa",
+          "url": "https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "In The Trunk (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/6srN4L7q0KzHeXFbi5K2pd"
+    },
+    {
+      "album": {
+        "name": "Internet Trolls",
+        "url": "https://open.spotify.com/album/1T1BSzvHFyuHBJrUOH3QhR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "date_added": "2023-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 140572,
+      "name": "Internet Trolls",
+      "url": "https://open.spotify.com/track/5c2IvJeaFx4m2DmOR1iryD"
+    },
+    {
+      "album": {
+        "name": "Internet Trolls (feat. Hitkidd)",
+        "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        }
+      ],
+      "date_added": "2023-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140572,
+      "name": "Internet Trolls (feat. Hitkidd)",
+      "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+    },
+    {
+      "album": {
+        "name": "CRUNKSTAR",
+        "url": "https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV"
+      },
+      "artists": [
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215722,
+      "name": "JUST SAY THAT (feat. GLORILLA)",
+      "url": "https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z"
+    },
+    {
+      "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/26z5llzd194mcCZHADWd6k"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222386,
+      "name": "Leave the Club (feat. Lil Durk & GloRilla)",
+      "url": "https://open.spotify.com/track/0zP8VSgyYSVqrSXTYTn9Su"
+    },
+    {
+      "album": {
+        "name": "Leave The Club (feat. Lil Durk & GloRilla)",
+        "url": "https://open.spotify.com/album/1O90Qra7WiVZIaT4oHKSTU"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-27",
+      "duration_ms": 222386,
+      "name": "Leave The Club (feat. Lil Durk & GloRilla)",
+      "url": "https://open.spotify.com/track/1CJ8e0zc8uvAmkqdeXrq4u"
+    },
+    {
+      "album": {
+        "name": "Lick Or Sum",
+        "url": "https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141604,
+      "name": "Lick Or Sum",
+      "url": "https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190276,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
+    },
+    {
+      "album": {
+        "name": "Nut Quick",
+        "url": "https://open.spotify.com/album/4dxjlUOxRmGsC6ss1H5VWY"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 158136,
+      "name": "Nut Quick",
+      "url": "https://open.spotify.com/track/0WEpjj9YZTbvvIzNiRBAtW"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158136,
+      "name": "Nut Quick",
+      "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"
+    },
+    {
+      "album": {
+        "name": "On Wat U On (with GloRilla)",
+        "url": "https://open.spotify.com/album/2IutoIS83zBRzRh9naG1Mz"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159720,
+      "name": "On Wat U On (with GloRilla)",
+      "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "OOOHH",
+        "url": "https://open.spotify.com/album/51Q9lpFEfU4iyXOgtSo7E1"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/1U5XNJxVpvBL6HJCK1vPhR"
+        },
+        {
+          "name": "Stmg",
+          "url": "https://open.spotify.com/artist/1McizXN31c3hgEgPbRMoJ2"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195683,
+      "name": "OOOHH",
+      "url": "https://open.spotify.com/track/1qJvi5YfZTRQcdzrqD4oT4"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My Fans 2",
+        "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188157,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6YiDVrYuJk33GKKzsVUhRE"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156521,
+      "name": "Overstood (GloRilla)",
+      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 175463,
+      "name": "PHATNALL",
+      "url": "https://open.spotify.com/track/3HEiAAH5AdjA3ac3aVTQpE"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Pop It (GloRilla, Mike WiLL Made-It)",
+      "url": "https://open.spotify.com/track/0j1rvfvR1StaYrOaBLtj0a"
+    },
+    {
+      "album": {
+        "name": "R-A-T-C-H-E-T (FNF FREESTYLE) [Remix]",
+        "url": "https://open.spotify.com/album/2cMuNulihFoYJFPwWaNHtr"
+      },
+      "artists": [
+        {
+          "name": "Nosym",
+          "url": "https://open.spotify.com/artist/0nKzbENsP5VM3J28NTNxQ4"
+        },
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150848,
+      "name": "R-A-T-C-H-E-T (FNF FREESTYLE) - Remix",
+      "url": "https://open.spotify.com/track/5CbtJ0GNYO7wlybagnOLrg"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 237453,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/3mNZOADKlBrftXBOZclPhN"
+    },
+    {
+      "album": {
+        "name": "Set The Tone",
+        "url": "https://open.spotify.com/album/7ptT0eB5rLQRUlUAULqJjX"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Set The Tone",
+      "url": "https://open.spotify.com/track/0MSe6jp83mHI6jqZqoyeZz"
+    },
+    {
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/1oLihKPBT36E4csJUGlLP7"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 166373,
+      "name": "Set The Tone 2",
+      "url": "https://open.spotify.com/track/0zuFHdrVEVywDWFCe0t58e"
+    },
+    {
+      "album": {
+        "name": "Sneaky Link",
+        "url": "https://open.spotify.com/album/444HMhYaC7JPfiOOCbRDBU"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "YCR Los",
+          "url": "https://open.spotify.com/artist/2JM3W43C5eTSRuAhlaeQ4R"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 158000,
+      "name": "Sneaky Link",
+      "url": "https://open.spotify.com/track/5Ml0jIVN0WWU3YTkRwLT9l"
+    },
+    {
+      "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/358jvrijvWrD1zDXk8uL3G"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113844,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/7v6B1kRUvNbkVGfqSkrwuS"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1"
+    },
+    {
+      "album": {
+        "name": "Tomorrow 2 (with Cardi B)",
+        "url": "https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 209811,
+      "name": "Tomorrow 2 (with Cardi B)",
+      "url": "https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3"
+    },
+    {
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-11-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169465,
+      "name": "Unh Unh",
+      "url": "https://open.spotify.com/track/6NBGEI2cU71eT8wM98bF2d"
+    },
+    {
+      "album": {
+        "name": "Westside Baby (Gutta)",
+        "url": "https://open.spotify.com/album/4EmV4t1h2uMFlyIkk3qiz6"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109766,
+      "name": "Westside Baby (Gutta)",
+      "url": "https://open.spotify.com/track/3djbJUX2x2ZVqeoH22tOyN"
+    },
+    {
+      "album": {
+        "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+        "url": "https://open.spotify.com/album/0TkJa6iqDtjK4ojpfO8PwG"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        },
+        {
+          "name": "Slimeroni",
+          "url": "https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        },
+        {
+          "name": "K Carbon",
+          "url": "https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y"
+        },
+        {
+          "name": "Aleza",
+          "url": "https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
+      "url": "https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS"
+    },
+    {
+      "album": {
+        "name": "You Ain't Shit",
+        "url": "https://open.spotify.com/album/1OacT8jeOurJExUtAUf2M9"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220003,
+      "name": "You Ain't Shit",
+      "url": "https://open.spotify.com/track/5DE3GqkM204y8eS2AAhujh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1o1khY"
 }

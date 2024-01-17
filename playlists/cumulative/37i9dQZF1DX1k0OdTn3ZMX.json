@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with Tetrarch.",
+  "description": "n\u00fc-metal revival is happening here and now with TSS.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 188895,
       "name": "AI (Save Yourself)",
       "url": "https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 186173,
       "name": "Antagonist",
       "url": "https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 163600,
       "name": "Billy Knows Jamie",
       "url": "https://open.spotify.com/track/6fXeuZAQ00BjrOxFtoFS9S"
@@ -260,6 +260,32 @@
       "duration_ms": 186384,
       "name": "BLACK_WAVE",
       "url": "https://open.spotify.com/track/5rYoxMOnrq09FDTgkS1dMU"
+    },
+    {
+      "album": {
+        "name": "Boiler",
+        "url": "https://open.spotify.com/album/3QRPe7VXaCFc8slgk9GtRR"
+      },
+      "artists": [
+        {
+          "name": "Boskat",
+          "url": "https://open.spotify.com/artist/2umfUKK66d4e91qGyVZ5yi"
+        },
+        {
+          "name": "Rude Boy",
+          "url": "https://open.spotify.com/artist/4zPWhRwcFsAKDMsdvPSKjv"
+        },
+        {
+          "name": "Urban Dance Squad",
+          "url": "https://open.spotify.com/artist/0Vo614yFlepUdpdbkggrmC"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175737,
+      "name": "Boiler",
+      "url": "https://open.spotify.com/track/1vcoASbSH4zdZnVc6A3Uo9"
     },
     {
       "album": {
@@ -686,6 +712,24 @@
       "duration_ms": 222740,
       "name": "Fractured",
       "url": "https://open.spotify.com/track/4c66tmKsdmvNENPo54oDny"
+    },
+    {
+      "album": {
+        "name": "From Ashes",
+        "url": "https://open.spotify.com/album/0sjgaie2YSLpA4lLaiMc0b"
+      },
+      "artists": [
+        {
+          "name": "Kill The Lights",
+          "url": "https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167840,
+      "name": "From Ashes",
+      "url": "https://open.spotify.com/track/07DkIsX0MdvrIOiiXVAAet"
     },
     {
       "album": {
@@ -1167,7 +1211,7 @@
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 196298,
+      "duration_ms": 196293,
       "name": "SO RAUS (feat. Fred Durst)",
       "url": "https://open.spotify.com/track/47QjPV3o8PqDnruovlyc1F"
     },
@@ -1372,6 +1416,24 @@
     {
       "album": {
         "name": "Divisive",
+        "url": "https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238109,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55"
+    },
+    {
+      "album": {
+        "name": "Divisive",
         "url": "https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa"
       },
       "artists": [
@@ -1382,7 +1444,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 238109,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM"
@@ -1494,6 +1556,24 @@
       "duration_ms": 280826,
       "name": "Wavery",
       "url": "https://open.spotify.com/track/2THCSs7C9BxHuD9yBfJvnU"
+    },
+    {
+      "album": {
+        "name": "We Don't Miss",
+        "url": "https://open.spotify.com/album/5q16xPQvDr58DiilQnfXf7"
+      },
+      "artists": [
+        {
+          "name": "Indigo Blaze",
+          "url": "https://open.spotify.com/artist/0hCmNM3Zwz6gYb8fdaxIcf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192480,
+      "name": "We Don't Miss",
+      "url": "https://open.spotify.com/track/24w0yBt2JkLCF6BF9BtzJZ"
     },
     {
       "album": {

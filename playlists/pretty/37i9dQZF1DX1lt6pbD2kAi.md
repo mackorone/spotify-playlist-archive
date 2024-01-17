@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,608 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,850 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 23 | [Mágica \- Ao Vivo](https://open.spotify.com/track/1UdVuXvwvIcXe8gDaSIB4n) | [Hugo & Guilherme](https://open.spotify.com/artist/1LIuN7ov1IBQDdLsU83ojl) | [Original \(Ao Vivo\)](https://open.spotify.com/album/6F99dp0PeGXKnzV7zQdipO) | 2:51 |
 | 24 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
 | 25 | [Covardia](https://open.spotify.com/track/5y7yYXNSsT89A27DQxbmUL) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Covardia](https://open.spotify.com/album/5Bqlwew4I7DSJ2nK0jR53u) | 2:30 |
-| 26 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/3o4wcB1Y6xC62eF02n9RSZ) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/52rFElLntscFgyQVwbcEs3) | 2:59 |
+| 26 | [ELA PIROU NA DODGE RAM](https://open.spotify.com/track/60uJdOohyohJqZhST7lij3) | [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [ELA PIROU NA DODGE RAM](https://open.spotify.com/album/1IvRiz7nYcLSrGKsqrBCS4) | 2:59 |
 | 27 | [01 Não É 02](https://open.spotify.com/track/27ECP9NCzTAoTpxXNePZuS) | [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [DJ Ak beats](https://open.spotify.com/artist/685uhJgfQlrMNuarOzgyea) | [01 Não É 02](https://open.spotify.com/album/2paL9EMEJaM0YAGGHSLvpl) | 2:08 |
 | 28 | [Quando Apaga A Luz \- Ao Vivo](https://open.spotify.com/track/6e5byyKtx6R0h66gagelPe) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:24 |
 | 29 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 |

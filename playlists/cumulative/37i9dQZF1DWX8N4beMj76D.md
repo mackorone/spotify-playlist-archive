@@ -4,7 +4,7 @@
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-81 songs - 6 hr 1 min
+82 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Avalanche \- 2009 Digital Remaster](https://open.spotify.com/track/161Snz3Z1f5rMQf8QtAiT3) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her to Eternity](https://open.spotify.com/album/5hhdO54QXmZi6038QpGlMQ) | 5:09 | 2018-12-06 | 2022-07-29 |
 | [Avalanche \- 2009 Remastered Version](https://open.spotify.com/track/6gq5GDLoyLC9GUkB8Ob78F) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [From Her To Eternity \(2009 Remastered Version\)](https://open.spotify.com/album/2KXpa6Wbdk94U0JNCgePkV) | 5:09 | 2018-12-06 | 2023-11-04 |
 | [Ballad of a Runaway Horse](https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cowgirl's Prayer](https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC) | 5:35 | 2018-12-06 |  |
-| [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 | 2018-12-06 |  |
+| [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 | 2018-12-06 | 2024-01-14 |
 | [Be for Real](https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 4:28 | 2018-12-06 |  |
 | [Bird On A Wire](https://open.spotify.com/track/0iBSH25UyYu5Wu3WZHOZMx) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/19rYWxZfMdEOxTDODFjLyb) | 4:01 | 2018-12-06 |  |
 | [Bird On A Wire](https://open.spotify.com/track/7gPOHdd9ATgveYMpxcSdZQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American Recordings](https://open.spotify.com/album/3yrnapvgTqeYGZKPxozcUl) | 4:01 | 2018-12-06 | 2022-07-29 |
@@ -75,6 +75,7 @@
 | [Story Of Isaac](https://open.spotify.com/track/5aVnAPf0eZ6FxDO04X3Ok9) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 4:06 | 2018-12-06 |  |
 | [Story Of Isaac](https://open.spotify.com/track/2DQGsNHnqxDuI9bGnGI9uH) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/69XAWWXjY1Cmm8qthc7Gef) | 4:06 | 2018-12-06 | 2022-07-28 |
 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 | 2018-12-06 |  |
+| [Take This Waltz](https://open.spotify.com/track/0RGmaFNusYPZHR4XwTdTT9) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2w9b752zziXe5XUIURD5MK) | 5:58 | 2018-12-06 |  |
 | [Take This Waltz](https://open.spotify.com/track/5HbdrCvl89PkwNoOI0sBdZ) | [Avalanche Quartet](https://open.spotify.com/artist/6HNv1bfHdugE8iUxdKF2fd) | [Leonard Cohen Songs](https://open.spotify.com/album/2YDw6OjWg3Mg2ArLCful7j) | 5:58 | 2018-12-06 | 2022-07-29 |
 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 | 2018-12-06 |  |
 | [The Future](https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9) | [Teddy Thompson](https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN) | [Leonard Cohen: I'm Your Man](https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR) | 6:49 | 2018-12-06 |  |

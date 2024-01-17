@@ -1,732 +1,2147 @@
 {
-  "2021-12-28": 57804,
-  "2021-12-29": 57851,
-  "2021-12-30": 57896,
-  "2021-12-31": 57938,
-  "2022-01-01": 58047,
-  "2022-01-02": 58084,
-  "2022-01-03": 58144,
-  "2022-01-04": 58211,
-  "2022-01-05": 58274,
-  "2022-01-06": 58337,
-  "2022-01-07": 58398,
-  "2022-01-08": 58520,
-  "2022-01-09": 58523,
-  "2022-01-10": 58589,
-  "2022-01-11": 58648,
-  "2022-01-12": 58706,
-  "2022-01-13": 58779,
-  "2022-01-14": 58828,
-  "2022-01-15": 58972,
-  "2022-01-16": 58981,
-  "2022-01-17": 59130,
-  "2022-01-18": 59137,
-  "2022-01-19": 59183,
-  "2022-01-20": 59261,
-  "2022-01-21": 59337,
-  "2022-01-22": 59431,
-  "2022-01-23": 59495,
-  "2022-01-24": 59564,
-  "2022-01-25": 59636,
-  "2022-01-26": 59707,
-  "2022-01-27": 59774,
-  "2022-01-28": 59831,
-  "2022-01-29": 59901,
-  "2022-01-30": 59997,
-  "2022-01-31": 60071,
-  "2022-02-01": 60127,
-  "2022-02-02": 60180,
-  "2022-02-03": 60242,
-  "2022-02-04": 60301,
-  "2022-02-05": 60350,
-  "2022-02-06": 60416,
-  "2022-02-07": 60495,
-  "2022-02-08": 60557,
-  "2022-02-09": 60617,
-  "2022-02-10": 60673,
-  "2022-02-11": 60750,
-  "2022-02-12": 60807,
-  "2022-02-13": 60871,
-  "2022-02-14": 60931,
-  "2022-02-15": 60976,
-  "2022-02-16": 61036,
-  "2022-02-17": 61089,
-  "2022-02-18": 61149,
-  "2022-02-19": 61201,
-  "2022-02-20": 61256,
-  "2022-02-21": 61327,
-  "2022-02-22": 61387,
-  "2022-02-23": 61443,
-  "2022-02-24": 61511,
-  "2022-02-25": 61579,
-  "2022-02-26": 61654,
-  "2022-02-27": 61785,
-  "2022-02-28": 61785,
-  "2022-03-01": 61823,
-  "2022-03-02": 61871,
-  "2022-03-03": 61939,
-  "2022-03-04": 61991,
-  "2022-03-05": 62041,
-  "2022-03-06": 62116,
-  "2022-03-07": 62201,
-  "2022-03-08": 62257,
-  "2022-03-09": 62324,
-  "2022-03-10": 62400,
-  "2022-03-11": 62462,
-  "2022-03-12": 62539,
-  "2022-03-13": 62580,
-  "2022-03-14": 62655,
-  "2022-03-15": 62722,
-  "2022-03-16": 62780,
-  "2022-03-17": 62846,
-  "2022-03-18": 62913,
-  "2022-03-19": 62951,
-  "2022-03-20": 62951,
-  "2022-03-21": 63085,
-  "2022-03-22": 63139,
-  "2022-03-23": 63218,
-  "2022-03-24": 63289,
-  "2022-03-25": 63353,
-  "2022-03-26": 63400,
-  "2022-03-27": 63465,
-  "2022-03-28": 63536,
-  "2022-03-30": 63642,
-  "2022-03-31": 63707,
-  "2022-04-01": 63788,
-  "2022-04-02": 63849,
-  "2022-04-03": 63920,
-  "2022-04-04": 63986,
-  "2022-04-05": 64040,
-  "2022-04-06": 64120,
-  "2022-04-07": 64204,
-  "2022-04-08": 64263,
-  "2022-04-09": 64317,
-  "2022-04-10": 64431,
-  "2022-04-11": 64500,
-  "2022-04-12": 64507,
-  "2022-04-13": 64571,
-  "2022-04-14": 64614,
-  "2022-04-15": 64673,
-  "2022-04-16": 64734,
-  "2022-04-17": 64799,
-  "2022-04-18": 64865,
-  "2022-04-19": 64905,
-  "2022-04-20": 64949,
-  "2022-04-21": 65014,
-  "2022-04-22": 65074,
-  "2022-04-23": 65124,
-  "2022-04-24": 65203,
-  "2022-04-25": 65267,
-  "2022-04-26": 65334,
-  "2022-04-27": 65388,
-  "2022-04-28": 65441,
-  "2022-04-29": 65528,
-  "2022-04-30": 65580,
-  "2022-05-01": 65662,
-  "2022-05-02": 65662,
-  "2022-05-03": 65705,
-  "2022-05-04": 65757,
-  "2022-05-05": 65807,
-  "2022-05-06": 65848,
-  "2022-05-07": 65903,
-  "2022-05-08": 65994,
-  "2022-05-09": 66007,
-  "2022-05-10": 66084,
-  "2022-05-11": 66157,
-  "2022-05-12": 66223,
-  "2022-05-13": 66280,
-  "2022-05-14": 66326,
-  "2022-05-15": 66386,
-  "2022-05-16": 66434,
-  "2022-05-17": 66484,
-  "2022-05-18": 66543,
-  "2022-05-19": 66603,
-  "2022-05-20": 66675,
-  "2022-05-21": 66779,
-  "2022-05-22": 66779,
-  "2022-05-23": 66841,
-  "2022-05-24": 66903,
-  "2022-05-25": 66945,
-  "2022-05-26": 66992,
-  "2022-05-27": 67055,
-  "2022-05-28": 67103,
-  "2022-05-29": 67178,
-  "2022-05-30": 67223,
-  "2022-05-31": 67265,
-  "2022-06-01": 67344,
-  "2022-06-02": 67351,
-  "2022-06-03": 67412,
-  "2022-06-04": 67454,
-  "2022-06-05": 67489,
-  "2022-06-06": 67542,
-  "2022-06-07": 67583,
-  "2022-06-08": 67641,
-  "2022-06-09": 67682,
-  "2022-06-10": 67731,
-  "2022-06-11": 67770,
-  "2022-06-12": 67826,
-  "2022-06-13": 67881,
-  "2022-06-14": 67947,
-  "2022-06-15": 67997,
-  "2022-06-16": 68045,
-  "2022-06-17": 68094,
-  "2022-06-18": 68131,
-  "2022-06-19": 68219,
-  "2022-06-20": 68219,
-  "2022-06-21": 68289,
-  "2022-06-22": 68388,
-  "2022-06-23": 68388,
-  "2022-06-24": 68442,
-  "2022-06-25": 68489,
-  "2022-06-26": 68526,
-  "2022-06-27": 68571,
-  "2022-06-28": 68611,
-  "2022-06-29": 68652,
-  "2022-06-30": 68714,
-  "2022-07-01": 68764,
-  "2022-07-02": 68804,
-  "2022-07-03": 68866,
-  "2022-07-04": 68902,
-  "2022-07-05": 68939,
-  "2022-07-06": 68986,
-  "2022-07-07": 69036,
-  "2022-07-08": 69085,
-  "2022-07-09": 69122,
-  "2022-07-10": 69171,
-  "2022-07-11": 69226,
-  "2022-07-12": 69298,
-  "2022-07-13": 69374,
-  "2022-07-14": 69461,
-  "2022-07-15": 69519,
-  "2022-07-16": 69582,
-  "2022-07-17": 69633,
-  "2022-07-18": 69696,
-  "2022-07-19": 69752,
-  "2022-07-20": 69805,
-  "2022-07-21": 69845,
-  "2022-07-22": 69887,
-  "2022-07-23": 69945,
-  "2022-07-24": 69990,
-  "2022-07-25": 70049,
-  "2022-07-26": 70097,
-  "2022-07-27": 70146,
-  "2022-07-28": 70192,
-  "2022-07-29": 70250,
-  "2022-07-30": 70368,
-  "2022-07-31": 70368,
-  "2022-08-01": 70436,
-  "2022-08-02": 70549,
-  "2022-08-03": 70549,
-  "2022-08-04": 70607,
-  "2022-08-05": 70659,
-  "2022-08-06": 70703,
-  "2022-08-07": 70749,
-  "2022-08-08": 70823,
-  "2022-08-09": 70891,
-  "2022-08-10": 70948,
-  "2022-08-11": 71022,
-  "2022-08-12": 71066,
-  "2022-08-13": 71114,
-  "2022-08-14": 71179,
-  "2022-08-15": 71231,
-  "2022-08-16": 71287,
-  "2022-08-17": 71350,
-  "2022-08-18": 71421,
-  "2022-08-19": 71467,
-  "2022-08-20": 71509,
-  "2022-08-21": 71568,
-  "2022-08-22": 71618,
-  "2022-08-23": 71665,
-  "2022-08-24": 71728,
-  "2022-08-25": 71799,
-  "2022-08-26": 71855,
-  "2022-08-27": 71906,
-  "2022-08-28": 71963,
-  "2022-08-29": 72032,
-  "2022-08-30": 72079,
-  "2022-08-31": 72142,
-  "2022-09-01": 72182,
-  "2022-09-02": 72217,
-  "2022-09-03": 72243,
-  "2022-09-04": 72299,
-  "2022-09-05": 72354,
-  "2022-09-06": 72405,
-  "2022-09-07": 72478,
-  "2022-09-09": 72566,
-  "2022-09-10": 72605,
-  "2022-09-11": 72654,
-  "2022-09-12": 72710,
-  "2022-09-13": 72761,
-  "2022-09-15": 72878,
-  "2022-09-16": 72922,
-  "2022-09-17": 72973,
-  "2022-09-18": 73027,
-  "2022-09-19": 73074,
-  "2022-09-20": 73122,
-  "2022-09-21": 73156,
-  "2022-09-22": 73201,
-  "2022-09-23": 73260,
-  "2022-09-24": 73308,
-  "2022-09-25": 73348,
-  "2022-09-26": 73392,
-  "2022-09-27": 73441,
-  "2022-09-28": 73485,
-  "2022-09-29": 73533,
-  "2022-09-30": 73582,
-  "2022-10-01": 73635,
-  "2022-10-02": 73681,
-  "2022-10-03": 73721,
-  "2022-10-04": 73778,
-  "2022-10-05": 73817,
-  "2022-10-06": 73864,
-  "2022-10-07": 73897,
-  "2022-10-08": 73960,
-  "2022-10-09": 74049,
-  "2022-10-10": 74064,
-  "2022-10-11": 74126,
-  "2022-10-12": 74170,
-  "2022-10-13": 74231,
-  "2022-10-14": 74289,
-  "2022-10-15": 74334,
-  "2022-10-16": 74387,
-  "2022-10-17": 74446,
-  "2022-10-18": 74510,
-  "2022-10-19": 74580,
-  "2022-10-20": 74637,
-  "2022-10-21": 74684,
-  "2022-10-22": 74726,
-  "2022-10-23": 74770,
-  "2022-10-24": 74814,
-  "2022-10-25": 74864,
-  "2022-10-26": 74917,
-  "2022-10-27": 74968,
-  "2022-10-28": 75025,
-  "2022-10-29": 75091,
-  "2022-10-30": 75136,
-  "2022-10-31": 75150,
-  "2022-11-01": 75181,
-  "2022-11-02": 75225,
-  "2022-11-03": 75273,
-  "2022-11-04": 75316,
-  "2022-11-05": 75366,
-  "2022-11-06": 75418,
-  "2022-11-07": 75460,
-  "2022-11-08": 75508,
-  "2022-11-09": 75552,
-  "2022-11-10": 75598,
-  "2022-11-11": 75671,
-  "2022-11-12": 75749,
-  "2022-11-13": 75804,
-  "2022-11-14": 75874,
-  "2022-11-15": 75923,
-  "2022-11-16": 75972,
-  "2022-11-17": 76031,
-  "2022-11-18": 76050,
-  "2022-11-19": 76073,
-  "2022-11-20": 76107,
-  "2022-11-21": 76167,
-  "2022-11-22": 76217,
-  "2022-11-23": 76248,
-  "2022-11-24": 76350,
-  "2022-11-25": 76437,
-  "2022-11-26": 76494,
-  "2022-11-27": 76555,
-  "2022-11-28": 76615,
-  "2022-11-29": 76662,
-  "2022-11-30": 76726,
-  "2022-12-01": 76801,
-  "2022-12-02": 76833,
-  "2022-12-03": 76936,
-  "2022-12-04": 77000,
-  "2022-12-05": 77074,
-  "2022-12-06": 77143,
-  "2022-12-07": 77196,
-  "2022-12-08": 77270,
-  "2022-12-09": 77355,
-  "2022-12-10": 77412,
-  "2022-12-11": 77459,
-  "2022-12-12": 77518,
-  "2022-12-13": 77565,
-  "2022-12-14": 77618,
-  "2022-12-15": 77668,
-  "2022-12-16": 77738,
-  "2022-12-17": 77808,
-  "2022-12-18": 77860,
-  "2022-12-19": 77906,
-  "2022-12-20": 78015,
-  "2022-12-21": 78015,
-  "2022-12-22": 78082,
-  "2022-12-24": 78215,
-  "2022-12-25": 78258,
-  "2022-12-26": 78306,
-  "2022-12-27": 78359,
-  "2022-12-28": 78419,
-  "2022-12-29": 78499,
-  "2022-12-30": 78568,
-  "2022-12-31": 78627,
-  "2023-01-01": 78670,
-  "2023-01-02": 78716,
-  "2023-01-03": 78789,
-  "2023-01-04": 78839,
-  "2023-01-05": 78895,
-  "2023-01-06": 78977,
-  "2023-01-07": 79102,
-  "2023-01-08": 79123,
-  "2023-01-09": 79197,
-  "2023-01-10": 79252,
-  "2023-01-11": 79315,
-  "2023-01-12": 79390,
-  "2023-01-13": 79466,
-  "2023-01-14": 79586,
-  "2023-01-15": 79604,
-  "2023-01-16": 79667,
-  "2023-01-17": 79724,
-  "2023-01-18": 79787,
-  "2023-01-19": 79861,
-  "2023-01-20": 79913,
-  "2023-01-21": 79970,
-  "2023-01-22": 80056,
-  "2023-01-23": 80125,
-  "2023-01-24": 80201,
-  "2023-01-25": 80259,
-  "2023-01-26": 80321,
-  "2023-01-27": 80398,
-  "2023-01-28": 80473,
-  "2023-01-29": 80538,
-  "2023-01-30": 80610,
-  "2023-01-31": 80610,
-  "2023-02-01": 80752,
-  "2023-02-02": 80813,
-  "2023-02-03": 80871,
-  "2023-02-04": 80946,
-  "2023-02-05": 81008,
-  "2023-02-06": 81067,
-  "2023-02-07": 81118,
-  "2023-02-08": 81212,
-  "2023-02-09": 81212,
-  "2023-02-10": 81266,
-  "2023-02-11": 81336,
-  "2023-02-12": 81451,
-  "2023-02-13": 81490,
-  "2023-02-14": 81490,
-  "2023-02-15": 81557,
-  "2023-02-16": 81607,
-  "2023-02-17": 81657,
-  "2023-02-18": 81779,
-  "2023-02-19": 81788,
-  "2023-02-20": 81828,
-  "2023-02-21": 81883,
-  "2023-02-22": 81926,
-  "2023-02-23": 81984,
-  "2023-02-24": 82039,
-  "2023-02-25": 82182,
-  "2023-02-26": 82240,
-  "2023-02-27": 82428,
-  "2023-02-28": 82428,
-  "2023-03-01": 82502,
-  "2023-03-02": 82570,
-  "2023-03-03": 82636,
-  "2023-03-04": 82718,
-  "2023-03-05": 82836,
-  "2023-03-06": 82836,
-  "2023-03-07": 82908,
-  "2023-03-08": 82970,
-  "2023-03-09": 83167,
-  "2023-03-10": 83276,
-  "2023-03-11": 83372,
-  "2023-03-12": 83472,
-  "2023-03-13": 83536,
-  "2023-03-14": 83617,
-  "2023-03-15": 83699,
-  "2023-03-16": 83762,
-  "2023-03-17": 83762,
-  "2023-03-18": 83904,
-  "2023-03-19": 83965,
-  "2023-03-20": 84016,
-  "2023-03-21": 84075,
-  "2023-03-22": 84075,
-  "2023-03-23": 84075,
-  "2023-03-24": 84075,
-  "2023-03-25": 84075,
-  "2023-03-26": 84075,
-  "2023-03-27": 84075,
-  "2023-03-28": 84075,
-  "2023-03-29": 84075,
-  "2023-03-30": 84075,
-  "2023-03-31": 84075,
-  "2023-04-01": 84075,
-  "2023-04-02": 84075,
-  "2023-04-03": 84075,
-  "2023-04-04": 84075,
-  "2023-04-05": 84075,
-  "2023-04-06": 84075,
-  "2023-04-07": 84075,
-  "2023-04-09": 84075,
-  "2023-04-10": 84075,
-  "2023-04-11": 84075,
-  "2023-04-12": 84075,
-  "2023-04-13": 84075,
-  "2023-04-14": 84075,
-  "2023-04-15": 84075,
-  "2023-04-16": 84075,
-  "2023-04-17": 84075,
-  "2023-04-18": 84075,
-  "2023-04-19": 84075,
-  "2023-04-20": 84075,
-  "2023-04-21": 84075,
-  "2023-04-22": 84075,
-  "2023-04-23": 84075,
-  "2023-04-24": 84075,
-  "2023-04-25": 84075,
-  "2023-04-26": 84075,
-  "2023-04-27": 84075,
-  "2023-04-28": 84075,
-  "2023-04-29": 84075,
-  "2023-04-30": 84075,
-  "2023-05-01": 84075,
-  "2023-05-02": 84075,
-  "2023-05-03": 84075,
-  "2023-05-04": 84075,
-  "2023-05-05": 84075,
-  "2023-05-06": 84075,
-  "2023-05-07": 84075,
-  "2023-05-08": 84075,
-  "2023-05-09": 84075,
-  "2023-05-10": 84075,
-  "2023-05-11": 84075,
-  "2023-05-12": 84075,
-  "2023-05-13": 84075,
-  "2023-05-14": 84075,
-  "2023-05-15": 84075,
-  "2023-05-16": 84075,
-  "2023-05-17": 84075,
-  "2023-05-18": 84075,
-  "2023-05-19": 84075,
-  "2023-05-20": 84075,
-  "2023-05-21": 84075,
-  "2023-05-22": 84075,
-  "2023-05-23": 84075,
-  "2023-05-24": 84075,
-  "2023-05-25": 84075,
-  "2023-05-26": 84075,
-  "2023-05-27": 84075,
-  "2023-05-28": 84075,
-  "2023-05-29": 84075,
-  "2023-05-30": 84075,
-  "2023-05-31": 84075,
-  "2023-06-01": 84075,
-  "2023-06-02": 84075,
-  "2023-06-03": 84075,
-  "2023-06-04": 84075,
-  "2023-06-05": 84075,
-  "2023-06-06": 84075,
-  "2023-06-07": 84075,
-  "2023-06-08": 84075,
-  "2023-06-09": 84075,
-  "2023-06-10": 84075,
-  "2023-06-11": 84075,
-  "2023-06-12": 84075,
-  "2023-06-13": 84075,
-  "2023-06-14": 84075,
-  "2023-06-15": 84075,
-  "2023-06-16": 84075,
-  "2023-06-17": 84075,
-  "2023-06-18": 84075,
-  "2023-06-19": 84075,
-  "2023-06-20": 84075,
-  "2023-06-21": 84075,
-  "2023-06-22": 84075,
-  "2023-06-23": 84075,
-  "2023-06-24": 84075,
-  "2023-06-25": 84075,
-  "2023-06-26": 84075,
-  "2023-06-27": 84075,
-  "2023-06-28": 84075,
-  "2023-06-29": 84075,
-  "2023-06-30": 84075,
-  "2023-07-01": 84075,
-  "2023-07-02": 84075,
-  "2023-07-03": 84075,
-  "2023-07-04": 84075,
-  "2023-07-05": 84075,
-  "2023-07-06": 84075,
-  "2023-07-07": 84075,
-  "2023-07-08": 84075,
-  "2023-07-09": 84075,
-  "2023-07-10": 84075,
-  "2023-07-11": 84075,
-  "2023-07-12": 84075,
-  "2023-07-13": 84075,
-  "2023-07-14": 84075,
-  "2023-07-15": 84075,
-  "2023-07-16": 84075,
-  "2023-07-17": 84075,
-  "2023-07-18": 84075,
-  "2023-07-19": 84075,
-  "2023-07-20": 84075,
-  "2023-07-21": 84075,
-  "2023-07-22": 84075,
-  "2023-07-23": 84075,
-  "2023-07-24": 84075,
-  "2023-07-25": 84075,
-  "2023-07-26": 84075,
-  "2023-07-27": 84075,
-  "2023-07-28": 84075,
-  "2023-07-29": 84075,
-  "2023-07-30": 84075,
-  "2023-07-31": 84075,
-  "2023-08-01": 84075,
-  "2023-08-02": 84075,
-  "2023-08-03": 84075,
-  "2023-08-04": 84075,
-  "2023-08-05": 84075,
-  "2023-08-06": 84075,
-  "2023-08-07": 84075,
-  "2023-08-08": 84075,
-  "2023-08-09": 84075,
-  "2023-08-10": 84075,
-  "2023-08-11": 84075,
-  "2023-08-12": 84075,
-  "2023-08-13": 84075,
-  "2023-08-14": 84075,
-  "2023-08-15": 84075,
-  "2023-08-16": 84075,
-  "2023-08-17": 84075,
-  "2023-08-18": 84075,
-  "2023-08-19": 84075,
-  "2023-08-20": 84075,
-  "2023-08-21": 84075,
-  "2023-08-22": 84075,
-  "2023-08-23": 84075,
-  "2023-08-24": 84075,
-  "2023-08-25": 84075,
-  "2023-08-26": 84075,
-  "2023-08-27": 84075,
-  "2023-08-28": 84075,
-  "2023-08-29": 84075,
-  "2023-08-30": 84075,
-  "2023-08-31": 84075,
-  "2023-09-01": 84075,
-  "2023-09-02": 84075,
-  "2023-09-03": 84075,
-  "2023-09-04": 84075,
-  "2023-09-05": 84075,
-  "2023-09-06": 84075,
-  "2023-09-07": 84075,
-  "2023-09-08": 84075,
-  "2023-09-09": 84075,
-  "2023-09-10": 84075,
-  "2023-09-11": 84075,
-  "2023-09-12": 84075,
-  "2023-09-13": 84075,
-  "2023-09-14": 84075,
-  "2023-09-15": 84075,
-  "2023-09-16": 84075,
-  "2023-09-17": 84075,
-  "2023-09-18": 84075,
-  "2023-09-19": 84075,
-  "2023-09-20": 84075,
-  "2023-09-21": 84075,
-  "2023-09-22": 84075,
-  "2023-09-23": 84075,
-  "2023-09-24": 84075,
-  "2023-09-25": 84075,
-  "2023-09-26": 84075,
-  "2023-09-27": 84075,
-  "2023-09-28": 84075,
-  "2023-09-29": 84075,
-  "2023-09-30": 84075,
-  "2023-10-01": 84075,
-  "2023-10-02": 84075,
-  "2023-10-03": 84075,
-  "2023-10-04": 84075,
-  "2023-10-05": 84075,
-  "2023-10-06": 84075,
-  "2023-10-07": 84075,
-  "2023-10-08": 84075,
-  "2023-10-09": 84075,
-  "2023-10-10": 84075,
-  "2023-10-11": 84075,
-  "2023-10-12": 84075,
-  "2023-10-13": 84075,
-  "2023-10-14": 84075,
-  "2023-10-15": 84075,
-  "2023-10-16": 84075,
-  "2023-10-17": 84075,
-  "2023-10-18": 84075,
-  "2023-10-19": 84075,
-  "2023-10-20": 84075,
-  "2023-10-21": 84075,
-  "2023-10-22": 84075,
-  "2023-10-23": 84075,
-  "2023-10-24": 84075,
-  "2023-10-25": 84075,
-  "2023-10-26": 84075,
-  "2023-10-27": 84075,
-  "2023-10-28": 84075,
-  "2023-10-29": 84075,
-  "2023-10-30": 84075,
-  "2023-10-31": 84075,
-  "2023-11-01": 84075,
-  "2023-11-02": 84075,
-  "2023-11-03": 84075,
-  "2023-11-04": 84075,
-  "2023-11-05": 84075,
-  "2023-11-06": 84075,
-  "2023-11-07": 84075,
-  "2023-11-08": 84075,
-  "2023-11-09": 84075,
-  "2023-11-10": 84075,
-  "2023-11-11": 84075,
-  "2023-11-12": 84075,
-  "2023-11-13": 84075,
-  "2023-11-14": 84075,
-  "2023-11-15": 84075,
-  "2023-11-16": 84075,
-  "2023-11-17": 84075,
-  "2023-11-18": 84075,
-  "2023-11-19": 84075,
-  "2023-11-20": 84075,
-  "2023-11-21": 84075,
-  "2023-11-22": 84075,
-  "2023-11-23": 84075,
-  "2023-11-24": 84075,
-  "2023-11-25": 84075,
-  "2023-11-26": 84075,
-  "2023-11-27": 84075,
-  "2023-11-28": 84075,
-  "2023-11-29": 84075,
-  "2023-11-30": 84075,
-  "2023-12-01": 84075,
-  "2023-12-02": 84075,
-  "2023-12-03": 84075,
-  "2023-12-04": 84075,
-  "2023-12-05": 84075,
-  "2023-12-06": 84075,
-  "2023-12-07": 84075,
-  "2023-12-08": 84075,
-  "2023-12-09": 84075,
-  "2023-12-10": 84075,
-  "2023-12-11": 84075,
-  "2023-12-12": 84075,
-  "2023-12-13": 84075,
-  "2023-12-14": 84075,
-  "2023-12-15": 84075,
-  "2023-12-16": 84075,
-  "2023-12-17": 84075,
-  "2023-12-18": 84075,
-  "2023-12-19": 84075,
-  "2023-12-20": 84075,
-  "2023-12-21": 84075,
-  "2023-12-22": 84075,
-  "2023-12-23": 84075,
-  "2023-12-24": 84075,
-  "2023-12-25": 84075,
-  "2023-12-26": 84075,
-  "2023-12-27": 84075,
-  "2023-12-30": 84075,
-  "2023-12-31": 84075,
-  "2024-01-01": 84075,
-  "2024-01-02": 84075,
-  "2024-01-03": 84075
+  "2024-01-17": 84075,
+  "date_first_scraped": "2021-12-28",
+  "description": "A playlist for your Arab hipster starter kit.",
+  "name": "Funk & Disco Zamaan",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Best of Bandaly Family",
+        "url": "https://open.spotify.com/album/7D1fGAgupDsuxfNjwqw6i7"
+      },
+      "artists": [
+        {
+          "name": "Bandaly Family",
+          "url": "https://open.spotify.com/artist/7h3d4KdEKQT10dEBiSGQxS"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 314693,
+      "name": "A Summer Night: Wablelt Seef / Wardeh Hamra / Bzel MNK / Ana Jar Ya Habibi / Natali / Gazaleh / Amnt Balah",
+      "url": "https://open.spotify.com/track/1yTqr7mnfw5TRC5zZG2AF2"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 257000,
+      "name": "Aflana",
+      "url": "https://open.spotify.com/track/5hpmIQ0C8OSEs3V7aizbYq"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "Aflana",
+      "url": "https://open.spotify.com/track/6kVwe3MsTHSAU4w1UfIkTW"
+    },
+    {
+      "album": {
+        "name": "Nuits D\u2019\u00c9t\u00e9 / \u0644\u064a\u0627\u0644\u064a \u0627\u0644\u0635\u064a\u0641",
+        "url": "https://open.spotify.com/album/3D4BFlza8cnI1nthG9DFNy"
+      },
+      "artists": [
+        {
+          "name": "Abdou El Omari",
+          "url": "https://open.spotify.com/artist/5iZSqKOvQaypi3Jk55JHkv"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 387768,
+      "name": "Afrah El Maghreb / \u0623\u0641\u0631\u0627\u062d \u0627\u0644\u0645\u063a\u0631\u0628",
+      "url": "https://open.spotify.com/track/2g46bsE7wjU3e4tyuOzsfN"
+    },
+    {
+      "album": {
+        "name": "Nuits D\u2019\u00e9t\u00e9 / \u0644\u064a\u0627\u0644\u064a \u0627\u0644\u0635\u064a\u0641",
+        "url": "https://open.spotify.com/album/5dn0NCigzVDiAJzMGbXc3f"
+      },
+      "artists": [
+        {
+          "name": "Abdou El Omari / \u0639\u0628\u062f\u0647 \u0627\u0644\u0639\u0645\u0627\u0631\u064a",
+          "url": "https://open.spotify.com/artist/3qG5aItJclLYXDne7MFj5u"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 387768,
+      "name": "Afrah El Maghreb / \u0623\u0641\u0631\u0627\u062d \u0627\u0644\u0645\u063a\u0631\u0628",
+      "url": "https://open.spotify.com/track/1jgKKtyl7X1MViCFBDRQe9"
+    },
+    {
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 307500,
+      "name": "Agricultural Revolution",
+      "url": "https://open.spotify.com/track/2soh1ERhew5bGSU28eIAZg"
+    },
+    {
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307500,
+      "name": "Agricultural Revolution",
+      "url": "https://open.spotify.com/track/2zKv5S3cllj2aGXZbX4N9V"
+    },
+    {
+      "album": {
+        "name": "Akeed",
+        "url": "https://open.spotify.com/album/7v8rqFkCY39CQFG9Qg4DNd"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        },
+        {
+          "name": "Mohamed Mounir",
+          "url": "https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 241423,
+      "name": "Akeed",
+      "url": "https://open.spotify.com/track/0M8B2Ywia7UYhZLNpUmhQS"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Al Asafir",
+      "url": "https://open.spotify.com/track/0R6cTcF0S4XQWSlegJC4Dg"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 320000,
+      "name": "Al Asafir",
+      "url": "https://open.spotify.com/track/38tuJECMzicYOgIgRbWDYu"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 243000,
+      "name": "Al Hadaoui",
+      "url": "https://open.spotify.com/track/0uw6c2r6AMkVeqCAhXhD3a"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Al Hadaoui",
+      "url": "https://open.spotify.com/track/6mqaAZrhthluQssopSQcNm"
+    },
+    {
+      "album": {
+        "name": "Two Niles to Sing a Melody: The Violins & Synths of Sudan",
+        "url": "https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Wardi",
+          "url": "https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 695015,
+      "name": "Al Mursal (The Messenger)",
+      "url": "https://open.spotify.com/track/30QMkmrxQGVuTtPqPOFihu"
+    },
+    {
+      "album": {
+        "name": "Roudani 434",
+        "url": "https://open.spotify.com/album/7w9kjCVOmBskNfTUQNpn2z"
+      },
+      "artists": [
+        {
+          "name": "The Atlas Collective",
+          "url": "https://open.spotify.com/artist/6DVLH4ACLSLSli9MU5i828"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 418505,
+      "name": "Alah alah ya lah - Polocorp's Slow Disco Edit",
+      "url": "https://open.spotify.com/track/7aMGkkJBIynh5fN3QhTApo"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/7Kr00uukmurII2uV76igym"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426000,
+      "name": "Albaki",
+      "url": "https://open.spotify.com/track/1Ug0d2vHuOUL08MLZSMu8h"
+    },
+    {
+      "album": {
+        "name": "Al Hadaoui (Habibi Funk 011)",
+        "url": "https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB"
+      },
+      "artists": [
+        {
+          "name": "Attarazat Addahabia",
+          "url": "https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x"
+        },
+        {
+          "name": "Faradjallah",
+          "url": "https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 426000,
+      "name": "Albaki",
+      "url": "https://open.spotify.com/track/4oSHz6Y9HpYcL7svVVg7Vh"
+    },
+    {
+      "album": {
+        "name": "Alech (Habibi Funk 004)",
+        "url": "https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn"
+      },
+      "artists": [
+        {
+          "name": "Carthago",
+          "url": "https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Alech",
+      "url": "https://open.spotify.com/track/5IMvEsOBkkOAGzjgOniDsj"
+    },
+    {
+      "album": {
+        "name": "Alech (Habibi Funk 004)",
+        "url": "https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh"
+      },
+      "artists": [
+        {
+          "name": "Carthago",
+          "url": "https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 206000,
+      "name": "Alech",
+      "url": "https://open.spotify.com/track/6tSmqzaXZUOooPfGg3Ibhd"
+    },
+    {
+      "album": {
+        "name": "Mouasalat Ila Jacad El Ard (Habibi Funk 010)",
+        "url": "https://open.spotify.com/album/0XHu0qs3IztGqkDl4jOUpM"
+      },
+      "artists": [
+        {
+          "name": "Issam Hajali",
+          "url": "https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 702000,
+      "name": "Ana Damir El Motakallim",
+      "url": "https://open.spotify.com/track/57XDB9Db9zCeYG6i0htCdE"
+    },
+    {
+      "album": {
+        "name": "Ana Damir El Motakallim (Habibi Funk 010)",
+        "url": "https://open.spotify.com/album/6JGfTTInEnX8Z4BAxGC9Re"
+      },
+      "artists": [
+        {
+          "name": "Issam Hajali",
+          "url": "https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 702000,
+      "name": "Ana Damir El Motakallim",
+      "url": "https://open.spotify.com/track/6tFs4qyVx3emiWPRNVvBlF"
+    },
+    {
+      "album": {
+        "name": "Mouasalat Ila Jacad El Ard (Habibi Funk 010)",
+        "url": "https://open.spotify.com/album/2NNnJv16YTWTCF0KS7o9V4"
+      },
+      "artists": [
+        {
+          "name": "Issam Hajali",
+          "url": "https://open.spotify.com/artist/1Bt7Z61Wj1ixbeJEBKwod6"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 702000,
+      "name": "Ana Damir El Motakallim",
+      "url": "https://open.spotify.com/track/7JNyr6lS7KF2m2we2HEfZI"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 278000,
+      "name": "Argos Farfish",
+      "url": "https://open.spotify.com/track/1d4HxmK73RxLhbqEj9k8XD"
+    },
+    {
+      "album": {
+        "name": "The King of Sudanese Jazz (Habibi Funk 013)",
+        "url": "https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb"
+      },
+      "artists": [
+        {
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 278000,
+      "name": "Argos Farfish",
+      "url": "https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV"
+    },
+    {
+      "album": {
+        "name": "The King Of Sudanese Jazz (Habibi Funk 013)",
+        "url": "https://open.spotify.com/album/4kWt0ALKr1yYBWW8lpa4yG"
+      },
+      "artists": [
+        {
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+        }
+      ],
+      "date_added": "2020-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "Argos Farfish",
+      "url": "https://open.spotify.com/track/7fbZ2g3WSY3a5N0503u0f5"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245624,
+      "name": "Asef Gedan",
+      "url": "https://open.spotify.com/track/0a8tkQX6eTRl01NrT9AonE"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 245624,
+      "name": "Asef Gedan",
+      "url": "https://open.spotify.com/track/3iVDNaS9dEjoYTz5Vlbmt6"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 245624,
+      "name": "Asef Gedan",
+      "url": "https://open.spotify.com/track/67OWjdysv29UmW5H3L0HY8"
+    },
+    {
+      "album": {
+        "name": "The SLAM! Years: 1983 - 1988 (Habibi Funk 018)",
+        "url": "https://open.spotify.com/album/0PXfnvr4FDsvG0xOWhOzuS"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219624,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/5HCTbcF18u5DcYNwEWWf3n"
+    },
+    {
+      "album": {
+        "name": "Tape 19.11 / Ayonha",
+        "url": "https://open.spotify.com/album/2ndCkboIEM4g6Z2n2IjLd1"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 221500,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/01NKQM0t8lyzOo4YZOZLYw"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Hamid Al Shaeri",
+          "url": "https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221500,
+      "name": "Ayonha",
+      "url": "https://open.spotify.com/track/4ivH1TtQELnn9KEtszWfYI"
+    },
+    {
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT"
+      },
+      "artists": [
+        {
+          "name": "Bandaly Family",
+          "url": "https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 261760,
+      "name": "Bezal Menak",
+      "url": "https://open.spotify.com/track/0oEOQk7TmqYEhjl5gECVd3"
+    },
+    {
+      "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253293,
+      "name": "Bisaraha",
+      "url": "https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293500,
+      "name": "Bsslama Hbibti",
+      "url": "https://open.spotify.com/track/0ZcDB7Rl0BGtkQuh2NOzkd"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 293500,
+      "name": "Bsslama Hbibti",
+      "url": "https://open.spotify.com/track/6RCZxdXm7mMtPY2JOIyKIn"
+    },
+    {
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167293,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/0f7iz1qAWSz61BdHTXbzvC"
+    },
+    {
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/4VTzwUDvasSga8yUhdHK1y"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167293,
+      "name": "Dance of Maria",
+      "url": "https://open.spotify.com/track/4Pz6wlElvVe3JsLaRsj6kW"
+    },
+    {
+      "album": {
+        "name": "Egyptian Jazz",
+        "url": "https://open.spotify.com/album/60O129BUVrQZJ5zkfnsJGf"
+      },
+      "artists": [
+        {
+          "name": "Salah Ragab",
+          "url": "https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq"
+        },
+        {
+          "name": "The Cairo Jazz Band",
+          "url": "https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295000,
+      "name": "Egypt Strut",
+      "url": "https://open.spotify.com/track/1pA1Mu7TGS1SVjHIaTM5l5"
+    },
+    {
+      "album": {
+        "name": "Egyptian Jazz",
+        "url": "https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0"
+      },
+      "artists": [
+        {
+          "name": "Salah Ragab",
+          "url": "https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq"
+        },
+        {
+          "name": "The Cairo Jazz Band",
+          "url": "https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295040,
+      "name": "Egypt Strut",
+      "url": "https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 358000,
+      "name": "El Bahr Azra",
+      "url": "https://open.spotify.com/track/44CxqDnC7m9NGEMDRl8vh3"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 358000,
+      "name": "El Bahr Azra",
+      "url": "https://open.spotify.com/track/59EeGCSYCV8HjxBkAkC7Pz"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358000,
+      "name": "El Bahr Azra",
+      "url": "https://open.spotify.com/track/5qVUVHTb3sUpCaE8UTKJ6s"
+    },
+    {
+      "album": {
+        "name": "El Donia Risha F Hawa",
+        "url": "https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5"
+      },
+      "artists": [
+        {
+          "name": "Disco Misr",
+          "url": "https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi"
+        },
+        {
+          "name": "Sherine Abdo",
+          "url": "https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185570,
+      "name": "El Donia Risha F Hawa",
+      "url": "https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD"
+    },
+    {
+      "album": {
+        "name": "Gonon El Desco",
+        "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 561786,
+      "name": "El Layla El Kebera",
+      "url": "https://open.spotify.com/track/3zIrlJmUysULejWsHG0nGm"
+    },
+    {
+      "album": {
+        "name": "Metgharabeen",
+        "url": "https://open.spotify.com/album/5qtDl3vSdpgVEJiLGohOYK"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 242520,
+      "name": "El Wad Dah",
+      "url": "https://open.spotify.com/track/6L39uEmZ54dSTXHSgtc4Dk"
+    },
+    {
+      "album": {
+        "name": "Arabic Disco",
+        "url": "https://open.spotify.com/album/7n9ARsKEq5ZlMiiMVgEXJT"
+      },
+      "artists": [
+        {
+          "name": "TawfiqTawfiq",
+          "url": "https://open.spotify.com/artist/7v8tEiy76HuAralVZZlZeH"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 272773,
+      "name": "Endak Haq",
+      "url": "https://open.spotify.com/track/3pFQBpMhzjsfi7NlMiQD3k"
+    },
+    {
+      "album": {
+        "name": "The Scorpios",
+        "url": "https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4"
+      },
+      "artists": [
+        {
+          "name": "The Scorpios",
+          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279405,
+      "name": "Eujoaideen",
+      "url": "https://open.spotify.com/track/5kFQG6TjztZKpfeiNEpH1a"
+    },
+    {
+      "album": {
+        "name": "Farrah Galbi Aljadeed (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/3yPPozyWOkJcry3Ms86kEi"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301000,
+      "name": "Farrah Galbi Aljadeed",
+      "url": "https://open.spotify.com/track/0J4ltLwYQP6kyTy8JvmH9K"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Farrah Galbi Aljadeed",
+      "url": "https://open.spotify.com/track/1PfU9f0u6GJs7aADG0voSk"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 301000,
+      "name": "Farrah Galbi Aljadeed",
+      "url": "https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415000,
+      "name": "Forssa Saeeda",
+      "url": "https://open.spotify.com/track/1KXgQYlW0U2z8k3bP6Kqyh"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 415000,
+      "name": "Forssa Saeeda",
+      "url": "https://open.spotify.com/track/5BoLdMq2K6BV8RpDmfY2Df"
+    },
+    {
+      "album": {
+        "name": "Forssa Saeeda (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/5HrgDklOtIEli3a1is5ixG"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 415000,
+      "name": "Forssa Saeeda",
+      "url": "https://open.spotify.com/track/7nKCVuK9xUx8o7iEo2w8sC"
+    },
+    {
+      "album": {
+        "name": "Love Words",
+        "url": "https://open.spotify.com/album/34rC9hANoR793NEd7MY9OU"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374723,
+      "name": "Gelty",
+      "url": "https://open.spotify.com/track/6haHoWRck06kZn4h92sEeL"
+    },
+    {
+      "album": {
+        "name": "Mots D'amour",
+        "url": "https://open.spotify.com/album/4SpLpWMyS9k6mrn4po8AFC"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 374756,
+      "name": "Gelty",
+      "url": "https://open.spotify.com/track/0bRSz7QWA43loaosHgg5Sz"
+    },
+    {
+      "album": {
+        "name": "Gonon El Desco",
+        "url": "https://open.spotify.com/album/2ixryfyvJEEKyS9Pw3ZLF3"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Gonon El Desco",
+      "url": "https://open.spotify.com/track/5bM2Vfvjj5FHEXhw58lqyI"
+    },
+    {
+      "album": {
+        "name": "Alech (Habibi Funk 004)",
+        "url": "https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh"
+      },
+      "artists": [
+        {
+          "name": "Carthago",
+          "url": "https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 296000,
+      "name": "Hanen",
+      "url": "https://open.spotify.com/track/0TLpfEvWO8ruwbgfXVKbm5"
+    },
+    {
+      "album": {
+        "name": "Alech (Habibi Funk 004)",
+        "url": "https://open.spotify.com/album/5FA03xFVBdvnFN2F0eJVfn"
+      },
+      "artists": [
+        {
+          "name": "Carthago",
+          "url": "https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Hanen",
+      "url": "https://open.spotify.com/track/2WdkiDYeDX1VgiEp0Y52Ns"
+    },
+    {
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/4VTzwUDvasSga8yUhdHK1y"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150866,
+      "name": "I Love You Lina",
+      "url": "https://open.spotify.com/track/4a2AUYDT9qsCKE69u4WVn4"
+    },
+    {
+      "album": {
+        "name": "Mosaic of the Orient",
+        "url": "https://open.spotify.com/album/35V308120K0txY7JUMoN6M"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani",
+          "url": "https://open.spotify.com/artist/2DDCp0fnUwgy0cYI99GEyS"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150866,
+      "name": "I Love You Lina",
+      "url": "https://open.spotify.com/track/6IhBgvc14BmE9MAx3P9JZa"
+    },
+    {
+      "album": {
+        "name": "Elias Rahbani and His Orchestra",
+        "url": "https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani and His Orchestra",
+          "url": "https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "I Want to Be",
+      "url": "https://open.spotify.com/track/2os8JMsxtbpFo53e2r9TUa"
+    },
+    {
+      "album": {
+        "name": "Elias Rahbani and His Orchestra",
+        "url": "https://open.spotify.com/album/1JLHUZUi7XarZIrhRmpvn7"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani and His Orchestra",
+          "url": "https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204266,
+      "name": "I Want to Be",
+      "url": "https://open.spotify.com/track/3va364WnU2qqGD8VxvnCB2"
+    },
+    {
+      "album": {
+        "name": "Belly Dance Disco",
+        "url": "https://open.spotify.com/album/45I1XxoPstqyiUEkoALD6o"
+      },
+      "artists": [
+        {
+          "name": "Ihsan Al Munzer",
+          "url": "https://open.spotify.com/artist/1tWWAIfn3YM1b952Uk0kCh"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 252991,
+      "name": "Jamileh",
+      "url": "https://open.spotify.com/track/0F8co9bBHh5js5mxTnSMPk"
+    },
+    {
+      "album": {
+        "name": "Meghanwaty",
+        "url": "https://open.spotify.com/album/7kePHzbfRGFVQbbTtkZR4X"
+      },
+      "artists": [
+        {
+          "name": "Ezzat Abou Ouf",
+          "url": "https://open.spotify.com/artist/0lvabIrkWBP2bzYkdIARWN"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 177120,
+      "name": "Kedaho",
+      "url": "https://open.spotify.com/track/0DzRxhwvo1PSvkQnAEQ2Xa"
+    },
+    {
+      "album": {
+        "name": "Nuri Andaburi",
+        "url": "https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr"
+      },
+      "artists": [
+        {
+          "name": "TootArd",
+          "url": "https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Ken Yama Disco",
+      "url": "https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Freh Kodja",
+          "url": "https://open.spotify.com/artist/5AQB5zVjgRwrYlFPLrf6UH"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189124,
+      "name": "La Coladera",
+      "url": "https://open.spotify.com/track/5HswfTgBIUkfAVHEeNHgSB"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Freh Kodja",
+          "url": "https://open.spotify.com/artist/5AQB5zVjgRwrYlFPLrf6UH"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 189124,
+      "name": "La Coladera",
+      "url": "https://open.spotify.com/track/5WHNfAOD9O6xC5s8jrzTlJ"
+    },
+    {
+      "album": {
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/3yxGERLeJJdk0NUz1jSe6F"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "La silence des cendres",
+      "url": "https://open.spotify.com/track/3mpuDiQ0brVA4D1mT6wwL8"
+    },
+    {
+      "album": {
+        "name": "Musique originale de films (Habibi Funk 003)",
+        "url": "https://open.spotify.com/album/6IbSMUM51EtNdEmXZ0BHPJ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Malek",
+          "url": "https://open.spotify.com/artist/1F5NAWDKvoYJU3mEZQUFsB"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 194000,
+      "name": "La silence des cendres",
+      "url": "https://open.spotify.com/track/6zqBhNJQsiv5a7gdLofSIW"
+    },
+    {
+      "album": {
+        "name": "Arabic Disco",
+        "url": "https://open.spotify.com/album/7n9ARsKEq5ZlMiiMVgEXJT"
+      },
+      "artists": [
+        {
+          "name": "Joseph Salame",
+          "url": "https://open.spotify.com/artist/25iUqZaI4uuuHzHPbWta1C"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-22",
+      "duration_ms": 395733,
+      "name": "Lambada Leblada",
+      "url": "https://open.spotify.com/track/4u81tPM2hFKSiJDIpbjdah"
+    },
+    {
+      "album": {
+        "name": "Elias Rahbani and His Orchestra",
+        "url": "https://open.spotify.com/album/1JLHUZUi7XarZIrhRmpvn7"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani and His Orchestra",
+          "url": "https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326573,
+      "name": "Liza... Liza",
+      "url": "https://open.spotify.com/track/36l7Mf0aD0wrQ1q6GLiMq7"
+    },
+    {
+      "album": {
+        "name": "Elias Rahbani and His Orchestra",
+        "url": "https://open.spotify.com/album/4mzbT1iZ1BIBxSZ6PlrYqr"
+      },
+      "artists": [
+        {
+          "name": "Elias Rahbani and His Orchestra",
+          "url": "https://open.spotify.com/artist/61GwuFGBjJmXtIwNlvYqLo"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326573,
+      "name": "Liza... Liza",
+      "url": "https://open.spotify.com/track/4YmNfxo3gehMgoBN0wbJ0b"
+    },
+    {
+      "album": {
+        "name": "Houdou Nisbi",
+        "url": "https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz"
+      },
+      "artists": [
+        {
+          "name": "Ziad Rahbani",
+          "url": "https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265173,
+      "name": "Ma Tfel",
+      "url": "https://open.spotify.com/track/0pKxrkFh8fxPKpkO29MYmi"
+    },
+    {
+      "album": {
+        "name": "Mabruk (aJan Remix)",
+        "url": "https://open.spotify.com/album/7xv9PpIsK6nwn0N9oRDDcO"
+      },
+      "artists": [
+        {
+          "name": "Ali Hassan Kuban",
+          "url": "https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm"
+        },
+        {
+          "name": "aJan",
+          "url": "https://open.spotify.com/artist/70F0gnTzCFcxOVgbibWTxr"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 190693,
+      "name": "Mabruk - aJan Remix",
+      "url": "https://open.spotify.com/track/3PHxtuVhigaZtNouOl2aFW"
+    },
+    {
+      "album": {
+        "name": "Mabruk (aJan Remix)",
+        "url": "https://open.spotify.com/album/7BIWgR3BRCjBb6TNjeIhUw"
+      },
+      "artists": [
+        {
+          "name": "Ali Hassan Kuban",
+          "url": "https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm"
+        },
+        {
+          "name": "aJan",
+          "url": "https://open.spotify.com/artist/70F0gnTzCFcxOVgbibWTxr"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190693,
+      "name": "Mabruk - aJan Remix",
+      "url": "https://open.spotify.com/track/42aj9S0x6rCj0bQPrM3IMJ"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 170000,
+      "name": "Mafatshi Leh",
+      "url": "https://open.spotify.com/track/520RV8A1weQ6gQLsOyO7zw"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Mafatshi Leh",
+      "url": "https://open.spotify.com/track/6XZx1hYWTccsszDqraXHSX"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170000,
+      "name": "Mafatshi Leh",
+      "url": "https://open.spotify.com/track/72icTQKZRXB47Q9r5t8rQO"
+    },
+    {
+      "album": {
+        "name": "Mashena",
+        "url": "https://open.spotify.com/album/4X7Qt6Q6GudCAPGwycE6nt"
+      },
+      "artists": [
+        {
+          "name": "The Scorpios",
+          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189738,
+      "name": "Mashena",
+      "url": "https://open.spotify.com/track/5Fzmt3N3XnD3VhRE3XuQ6U"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/4mt4eTy3AkiPWplcJ1SQcZ"
+      },
+      "artists": [
+        {
+          "name": "TootArd",
+          "url": "https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237871,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/58Av9BcX4sUptL5POZ1E8t"
+    },
+    {
+      "album": {
+        "name": "Ashhar Aghany El Masreen",
+        "url": "https://open.spotify.com/album/7bqepNvmYdtejNq9Dh9rcw"
+      },
+      "artists": [
+        {
+          "name": "Hany Shnoda Ferqet Masr",
+          "url": "https://open.spotify.com/artist/1qeimvAZjU4Y8Rvlz31kSV"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 213266,
+      "name": "Music Laounga 79",
+      "url": "https://open.spotify.com/track/11AzUEPBJuCG5F0DvRI7n8"
+    },
+    {
+      "album": {
+        "name": "Bob Azzam. Sus Grandes \u00c9xitos (1959-1963)",
+        "url": "https://open.spotify.com/album/3Qo2ff1Twfk6mjaegAey6Y"
+      },
+      "artists": [
+        {
+          "name": "Bob Azzam",
+          "url": "https://open.spotify.com/artist/6aHHLKbMeqAmTkdwcogHjE"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 163706,
+      "name": "Mustapha",
+      "url": "https://open.spotify.com/track/3QkGwYyVrlGnPx7AQPrf9M"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 239000,
+      "name": "Nile Waves",
+      "url": "https://open.spotify.com/track/1kqqUHUIf3gpo9ATGtfpyb"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Nile Waves",
+      "url": "https://open.spotify.com/track/3jvpForJaXqSmooNoBckMZ"
+    },
+    {
+      "album": {
+        "name": "Nile Waves (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/5UTL7730ZVFyodPysDpH2w"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239000,
+      "name": "Nile Waves",
+      "url": "https://open.spotify.com/track/5Wv5l06BjalsXOSfM5RCjo"
+    },
+    {
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257019,
+      "name": "Nisyan",
+      "url": "https://open.spotify.com/track/67OOgbV2tnbkMjWSgIrWMx"
+    },
+    {
+      "album": {
+        "name": "Qamar Al Massa (Moon of the Night)",
+        "url": "https://open.spotify.com/album/3MWCstcGYsm2Bqc1muNEOh"
+      },
+      "artists": [
+        {
+          "name": "Abu Obaida Hassan",
+          "url": "https://open.spotify.com/artist/3opqEDktF05rXFAnoFAzFj"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495442,
+      "name": "Qamar Al Massa (Moon of the Night)",
+      "url": "https://open.spotify.com/track/0qFCusOSOxNdjSWuDILGt2"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/3Uq1VMWNQLBVqd9GiSoxlC"
+      },
+      "artists": [
+        {
+          "name": "Mallek Mohamed",
+          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Rouhi Ya Hafida",
+      "url": "https://open.spotify.com/track/55jMXCqZq8mAEP1EBveCvS"
+    },
+    {
+      "album": {
+        "name": "Habibi Funk: An Eclectic Selection of Music from the Arab World (Habibi Funk 007)",
+        "url": "https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R"
+      },
+      "artists": [
+        {
+          "name": "Mallek Mohamed",
+          "url": "https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 242000,
+      "name": "Rouhi Ya Hafida",
+      "url": "https://open.spotify.com/track/6OkP3MSzo9ZSb4h9VrswjF"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/4FaQIkZ0xRuzQT74Z7vCQJ"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286500,
+      "name": "Saat Alfarah",
+      "url": "https://open.spotify.com/track/0KLq4a5LFOA904uLu9y3QZ"
+    },
+    {
+      "album": {
+        "name": "Saat Alfarah (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/2KkKH5g2eUCamWPucL1d28"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286500,
+      "name": "Saat Alfarah",
+      "url": "https://open.spotify.com/track/3LV89pjNprjcrWcSSJacH8"
+    },
+    {
+      "album": {
+        "name": "Jazz, Jazz, Jazz (Habibi Funk 009)",
+        "url": "https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV"
+      },
+      "artists": [
+        {
+          "name": "The Scorpions",
+          "url": "https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb"
+        },
+        {
+          "name": "Saif Abu Bakr",
+          "url": "https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 286500,
+      "name": "Saat Alfarah",
+      "url": "https://open.spotify.com/track/3NPihbT6fMGMCY1D58PA3m"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/00WG8zvoWVZa9N5WHdVKvd"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/2Cy0ioc23ZFoQS4eeKNxmS"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/3ZNJp2eOQh9nhHzvg21soI"
+    },
+    {
+      "album": {
+        "name": "Modern Music (Habibi Funk 006)",
+        "url": "https://open.spotify.com/album/4etdTKHbGjNPF4AmMMaj6j"
+      },
+      "artists": [
+        {
+          "name": "Al Massrieen",
+          "url": "https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224000,
+      "name": "Sah",
+      "url": "https://open.spotify.com/track/5ak2hgkL7iZKMxm7jGUHwC"
+    },
+    {
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309525,
+      "name": "Sahranin",
+      "url": "https://open.spotify.com/track/7C4xC1KnhC5Jp3ZQFOqdvI"
+    },
+    {
+      "album": {
+        "name": "Ferqet Americana Show Pt.2",
+        "url": "https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        },
+        {
+          "name": "Alia",
+          "url": "https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265853,
+      "name": "Shat Iskenderia",
+      "url": "https://open.spotify.com/track/4Nyx1QBYGVK7H4G4J8x0Ho"
+    },
+    {
+      "album": {
+        "name": "Al Zman Saib (Habibi Funk 002)",
+        "url": "https://open.spotify.com/album/4GmHNGzQyJWr2sFZqvQTyZ"
+      },
+      "artists": [
+        {
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Sid Redad",
+      "url": "https://open.spotify.com/track/2TXif9OdtUhylCUEgtUfLR"
+    },
+    {
+      "album": {
+        "name": "Al Zman Saib (Habibi Funk 002)",
+        "url": "https://open.spotify.com/album/782K2oVoHhbLwQQ2M7CQWr"
+      },
+      "artists": [
+        {
+          "name": "Fadoul",
+          "url": "https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 182000,
+      "name": "Sid Redad",
+      "url": "https://open.spotify.com/track/4cQKZXBIHEkrtOV6tnL4nS"
+    },
+    {
+      "album": {
+        "name": "Metisstyles",
+        "url": "https://open.spotify.com/album/6nmxAKzwHZbZV7n7Gr7rhZ"
+      },
+      "artists": [
+        {
+          "name": "Cheb Tarik",
+          "url": "https://open.spotify.com/artist/5P3WRbEbFnkjJ3U4CE1NSE"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367653,
+      "name": "Sidi Rabi",
+      "url": "https://open.spotify.com/track/1U8ZZkkNM9dwdq01hNZXy6"
+    },
+    {
+      "album": {
+        "name": "Compilation",
+        "url": "https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Fakroun",
+          "url": "https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239752,
+      "name": "Soleil Soleil",
+      "url": "https://open.spotify.com/track/0VRaAGkuevKrmX4pBFyW1u"
+    },
+    {
+      "album": {
+        "name": "Alech / Soul Brother (Habibi Funk 001)",
+        "url": "https://open.spotify.com/album/7wTjMhrmXcWkWKiIWB372u"
+      },
+      "artists": [
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 221750,
+      "name": "Soul Brother",
+      "url": "https://open.spotify.com/track/1F1LWifaWA9NU1wPZNwJhU"
+    },
+    {
+      "album": {
+        "name": "Alech / Soul Brother",
+        "url": "https://open.spotify.com/album/3D7BbNf0UCwSPHNkUC9ize"
+      },
+      "artists": [
+        {
+          "name": "Dalton",
+          "url": "https://open.spotify.com/artist/1mhxhtwWXI7RbOxOo8IIfd"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221750,
+      "name": "Soul Brother",
+      "url": "https://open.spotify.com/track/5ApFKWV3XjYW8fmWR4HsbI"
+    },
+    {
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/6AbIm68PEd1R3ua5n2H2hh"
+    },
+    {
+      "album": {
+        "name": "Muslims and Christians (Habibi Funk 008)",
+        "url": "https://open.spotify.com/album/6rCcLccsjZGHZztBFv7VKs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Keila",
+          "url": "https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391000,
+      "name": "Taban Ahwak",
+      "url": "https://open.spotify.com/track/70wzxqcpjXyGeUrBES045j"
+    },
+    {
+      "album": {
+        "name": "Pebbles Vol. 15, International Mash up Pt. 1, Originals Artifacts from the Psychedelic Era",
+        "url": "https://open.spotify.com/album/76PGoa6W3AK6OxqMzKZCS2"
+      },
+      "artists": [
+        {
+          "name": "Dorid Laham",
+          "url": "https://open.spotify.com/artist/6xklVu4FHzqP5pIRZZs1cz"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 170332,
+      "name": "Tamo Yamo",
+      "url": "https://open.spotify.com/track/5Vk095GKFUAlvzHzuRuFZT"
+    },
+    {
+      "album": {
+        "name": "Tareeq",
+        "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
+      },
+      "artists": [
+        {
+          "name": "Al-Bara'em",
+          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283724,
+      "name": "Tareeq",
+      "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
+    },
+    {
+      "album": {
+        "name": "Tha'er",
+        "url": "https://open.spotify.com/album/08RNlqgmrjK15Xdfn7AGGP"
+      },
+      "artists": [
+        {
+          "name": "Al-Bara'em",
+          "url": "https://open.spotify.com/artist/48XfzIDlJVx0MrJtjaUskw"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267598,
+      "name": "Tha'er",
+      "url": "https://open.spotify.com/track/5Qh4ZFhFUrlC98WnzbwPkY"
+    },
+    {
+      "album": {
+        "name": "Autumn Leaves",
+        "url": "https://open.spotify.com/album/3Bwo68vzk0SBDpRylt63KT"
+      },
+      "artists": [
+        {
+          "name": "Bandaly Family",
+          "url": "https://open.spotify.com/artist/0pl2pScrXq9IAKfh81Sb57"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 426733,
+      "name": "Warak Al Khareef",
+      "url": "https://open.spotify.com/track/2YRdil5daXlDTDWsstccZ0"
+    },
+    {
+      "album": {
+        "name": "Ya Dunya",
+        "url": "https://open.spotify.com/album/6GuQYwTJWJ9JOBCPI91ulR"
+      },
+      "artists": [
+        {
+          "name": "Sharhabil Ahmed",
+          "url": "https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236846,
+      "name": "Ya Galbi Laih",
+      "url": "https://open.spotify.com/track/4MHkmCgmLXAisJKuvbXwE4"
+    },
+    {
+      "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260167,
+      "name": "Ya Leila Disco",
+      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+    },
+    {
+      "album": {
+        "name": "The Scorpios",
+        "url": "https://open.spotify.com/album/6UstlaUrqOXYkcqwfmFRG4"
+      },
+      "artists": [
+        {
+          "name": "The Scorpios",
+          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 265272,
+      "name": "Yaelhajarok",
+      "url": "https://open.spotify.com/track/25tvtMxmLBMEnqexZNkmN3"
+    },
+    {
+      "album": {
+        "name": "The Scorpios",
+        "url": "https://open.spotify.com/album/494kUKjK2uUaWhJGK7a4r6"
+      },
+      "artists": [
+        {
+          "name": "The Scorpios",
+          "url": "https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265272,
+      "name": "Yaelhajarok",
+      "url": "https://open.spotify.com/track/281OvdsyviSqJQOdBLv2lF"
+    },
+    {
+      "album": {
+        "name": "Ferqet Americana Show Pt.2",
+        "url": "https://open.spotify.com/album/4OQZnoz6VHLTzonFNZUkZS"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        },
+        {
+          "name": "Alia",
+          "url": "https://open.spotify.com/artist/32nKVL3eCi3Fjsj3ldUwPb"
+        }
+      ],
+      "date_added": "2020-05-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 227066,
+      "name": "Yama Kan",
+      "url": "https://open.spotify.com/track/2BITRvC2Pif653evwiYWfW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8SE5tIsUWTD"
 }

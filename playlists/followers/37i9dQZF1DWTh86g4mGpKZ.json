@@ -1,435 +1,571 @@
 {
-  "2022-10-24": 70,
-  "2022-10-25": 291,
-  "2022-10-26": 448,
-  "2022-10-27": 605,
-  "2022-10-28": 728,
-  "2022-10-29": 794,
-  "2022-10-30": 832,
-  "2022-10-31": 854,
-  "2022-11-01": 868,
-  "2022-11-02": 886,
-  "2022-11-03": 902,
-  "2022-11-04": 935,
-  "2022-11-05": 960,
-  "2022-11-06": 973,
-  "2022-11-07": 988,
-  "2022-11-08": 994,
-  "2022-11-09": 1020,
-  "2022-11-10": 1030,
-  "2022-11-11": 1049,
-  "2022-11-12": 1081,
-  "2022-11-13": 1093,
-  "2022-11-14": 1108,
-  "2022-11-15": 1115,
-  "2022-11-16": 1131,
-  "2022-11-17": 1147,
-  "2022-11-18": 1148,
-  "2022-11-19": 1147,
-  "2022-11-20": 1150,
-  "2022-11-21": 1166,
-  "2022-11-22": 1177,
-  "2022-11-23": 1188,
-  "2022-11-24": 1202,
-  "2022-11-25": 1222,
-  "2022-11-26": 1241,
-  "2022-11-27": 1246,
-  "2022-11-28": 1257,
-  "2022-11-29": 1272,
-  "2022-11-30": 1281,
-  "2022-12-01": 1292,
-  "2022-12-02": 1310,
-  "2022-12-03": 1322,
-  "2022-12-04": 1334,
-  "2022-12-05": 1345,
-  "2022-12-06": 1349,
-  "2022-12-07": 1367,
-  "2022-12-08": 1376,
-  "2022-12-09": 1389,
-  "2022-12-10": 1394,
-  "2022-12-11": 1399,
-  "2022-12-12": 1408,
-  "2022-12-13": 1411,
-  "2022-12-14": 1420,
-  "2022-12-15": 1429,
-  "2022-12-16": 1438,
-  "2022-12-17": 1449,
-  "2022-12-18": 1449,
-  "2022-12-19": 1460,
-  "2022-12-20": 1473,
-  "2022-12-21": 1473,
-  "2022-12-22": 1486,
-  "2022-12-24": 1505,
-  "2022-12-25": 1516,
-  "2022-12-26": 1526,
-  "2022-12-27": 1539,
-  "2022-12-28": 1552,
-  "2022-12-29": 1569,
-  "2022-12-30": 1582,
-  "2022-12-31": 1598,
-  "2023-01-01": 1608,
-  "2023-01-02": 1611,
-  "2023-01-03": 1629,
-  "2023-01-04": 1647,
-  "2023-01-05": 1658,
-  "2023-01-06": 1674,
-  "2023-01-07": 1704,
-  "2023-01-08": 1709,
-  "2023-01-09": 1726,
-  "2023-01-10": 1737,
-  "2023-01-11": 1749,
-  "2023-01-12": 1767,
-  "2023-01-13": 1775,
-  "2023-01-14": 1814,
-  "2023-01-15": 1821,
-  "2023-01-16": 1830,
-  "2023-01-17": 1860,
-  "2023-01-18": 1874,
-  "2023-01-19": 1893,
-  "2023-01-20": 1909,
-  "2023-01-21": 1920,
-  "2023-01-22": 1932,
-  "2023-01-23": 1941,
-  "2023-01-24": 1960,
-  "2023-01-25": 1970,
-  "2023-01-26": 1981,
-  "2023-01-27": 1999,
-  "2023-01-28": 2007,
-  "2023-01-29": 2024,
-  "2023-01-30": 2043,
-  "2023-01-31": 2043,
-  "2023-02-01": 2074,
-  "2023-02-02": 2085,
-  "2023-02-03": 2095,
-  "2023-02-04": 2127,
-  "2023-02-05": 2169,
-  "2023-02-06": 2184,
-  "2023-02-07": 2199,
-  "2023-02-08": 2224,
-  "2023-02-09": 2224,
-  "2023-02-10": 2240,
-  "2023-02-11": 2273,
-  "2023-02-12": 2330,
-  "2023-02-13": 2348,
-  "2023-02-14": 2348,
-  "2023-02-15": 2358,
-  "2023-02-16": 2367,
-  "2023-02-17": 2383,
-  "2023-02-18": 2455,
-  "2023-02-19": 2453,
-  "2023-02-20": 2456,
-  "2023-02-21": 2470,
-  "2023-02-22": 2480,
-  "2023-02-23": 2492,
-  "2023-02-24": 2511,
-  "2023-02-25": 2579,
-  "2023-02-26": 2584,
-  "2023-02-27": 2602,
-  "2023-02-28": 2602,
-  "2023-03-01": 2616,
-  "2023-03-02": 2629,
-  "2023-03-03": 2646,
-  "2023-03-04": 2683,
-  "2023-03-05": 2743,
-  "2023-03-06": 2743,
-  "2023-03-07": 2758,
-  "2023-03-08": 2768,
-  "2023-03-09": 2782,
-  "2023-03-10": 2799,
-  "2023-03-11": 2815,
-  "2023-03-12": 2822,
-  "2023-03-13": 2833,
-  "2023-03-14": 2843,
-  "2023-03-15": 2855,
-  "2023-03-16": 2866,
-  "2023-03-17": 2866,
-  "2023-03-18": 2892,
-  "2023-03-19": 2910,
-  "2023-03-20": 2918,
-  "2023-03-21": 2929,
-  "2023-03-22": 2937,
-  "2023-03-23": 2957,
-  "2023-03-24": 2957,
-  "2023-03-25": 2976,
-  "2023-03-26": 2984,
-  "2023-03-27": 2992,
-  "2023-03-28": 3007,
-  "2023-03-29": 3016,
-  "2023-03-30": 3032,
-  "2023-03-31": 3032,
-  "2023-04-01": 3045,
-  "2023-04-02": 3057,
-  "2023-04-03": 3071,
-  "2023-04-04": 3080,
-  "2023-04-05": 3096,
-  "2023-04-06": 3104,
-  "2023-04-07": 3118,
-  "2023-04-09": 3157,
-  "2023-04-10": 3160,
-  "2023-04-11": 3182,
-  "2023-04-12": 3182,
-  "2023-04-13": 3191,
-  "2023-04-14": 3198,
-  "2023-04-15": 3213,
-  "2023-04-16": 3223,
-  "2023-04-17": 3232,
-  "2023-04-18": 3243,
-  "2023-04-19": 3250,
-  "2023-04-20": 3260,
-  "2023-04-21": 3267,
-  "2023-04-22": 3280,
-  "2023-04-23": 3289,
-  "2023-04-24": 3297,
-  "2023-04-25": 3300,
-  "2023-04-26": 3308,
-  "2023-04-27": 3319,
-  "2023-04-28": 3329,
-  "2023-04-29": 3340,
-  "2023-04-30": 3351,
-  "2023-05-01": 3357,
-  "2023-05-02": 3368,
-  "2023-05-03": 3375,
-  "2023-05-04": 3386,
-  "2023-05-05": 3393,
-  "2023-05-06": 3402,
-  "2023-05-07": 3407,
-  "2023-05-08": 3413,
-  "2023-05-09": 3422,
-  "2023-05-10": 3427,
-  "2023-05-11": 3442,
-  "2023-05-12": 3457,
-  "2023-05-13": 3462,
-  "2023-05-14": 3471,
-  "2023-05-15": 3481,
-  "2023-05-16": 3487,
-  "2023-05-17": 3504,
-  "2023-05-18": 3514,
-  "2023-05-19": 3523,
-  "2023-05-20": 3542,
-  "2023-05-21": 3542,
-  "2023-05-22": 3542,
-  "2023-05-23": 3565,
-  "2023-05-24": 3582,
-  "2023-05-25": 3585,
-  "2023-05-26": 3592,
-  "2023-05-27": 3598,
-  "2023-05-28": 3604,
-  "2023-05-29": 3604,
-  "2023-05-30": 3611,
-  "2023-05-31": 3621,
-  "2023-06-01": 3632,
-  "2023-06-02": 3636,
-  "2023-06-03": 3644,
-  "2023-06-04": 3653,
-  "2023-06-05": 3655,
-  "2023-06-06": 3660,
-  "2023-06-07": 3666,
-  "2023-06-08": 3684,
-  "2023-06-09": 3688,
-  "2023-06-10": 3699,
-  "2023-06-11": 3709,
-  "2023-06-12": 3717,
-  "2023-06-13": 3729,
-  "2023-06-14": 3739,
-  "2023-06-15": 3752,
-  "2023-06-16": 3763,
-  "2023-06-17": 3777,
-  "2023-06-18": 3786,
-  "2023-06-19": 3788,
-  "2023-06-20": 3795,
-  "2023-06-21": 3806,
-  "2023-06-22": 3818,
-  "2023-06-23": 3840,
-  "2023-06-24": 3847,
-  "2023-06-25": 3853,
-  "2023-06-26": 3861,
-  "2023-06-27": 3871,
-  "2023-06-28": 3870,
-  "2023-06-29": 3878,
-  "2023-06-30": 3883,
-  "2023-07-01": 3895,
-  "2023-07-02": 3895,
-  "2023-07-03": 3903,
-  "2023-07-04": 3907,
-  "2023-07-05": 3913,
-  "2023-07-06": 3928,
-  "2023-07-07": 3928,
-  "2023-07-08": 3932,
-  "2023-07-09": 3938,
-  "2023-07-10": 3948,
-  "2023-07-11": 3960,
-  "2023-07-12": 3971,
-  "2023-07-13": 3982,
-  "2023-07-14": 3989,
-  "2023-07-15": 3991,
-  "2023-07-16": 3996,
-  "2023-07-17": 4009,
-  "2023-07-18": 4014,
-  "2023-07-19": 4017,
-  "2023-07-20": 4028,
-  "2023-07-21": 4034,
-  "2023-07-22": 4040,
-  "2023-07-23": 4046,
-  "2023-07-24": 4053,
-  "2023-07-25": 4059,
-  "2023-07-26": 4063,
-  "2023-07-27": 4069,
-  "2023-07-28": 4084,
-  "2023-07-29": 4088,
-  "2023-07-30": 4089,
-  "2023-07-31": 4091,
-  "2023-08-01": 4095,
-  "2023-08-02": 4103,
-  "2023-08-03": 4115,
-  "2023-08-04": 4123,
-  "2023-08-05": 4127,
-  "2023-08-06": 4142,
-  "2023-08-07": 4142,
-  "2023-08-08": 4149,
-  "2023-08-09": 4155,
-  "2023-08-10": 4168,
-  "2023-08-11": 4178,
-  "2023-08-12": 4182,
-  "2023-08-13": 4195,
-  "2023-08-14": 4202,
-  "2023-08-15": 4216,
-  "2023-08-16": 4216,
-  "2023-08-17": 4226,
-  "2023-08-18": 4236,
-  "2023-08-19": 4247,
-  "2023-08-20": 4254,
-  "2023-08-21": 4262,
-  "2023-08-22": 4269,
-  "2023-08-23": 4279,
-  "2023-08-24": 4280,
-  "2023-08-25": 4293,
-  "2023-08-26": 4297,
-  "2023-08-27": 4306,
-  "2023-08-28": 4311,
-  "2023-08-29": 4317,
-  "2023-08-30": 4323,
-  "2023-08-31": 4324,
-  "2023-09-01": 4345,
-  "2023-09-02": 4345,
-  "2023-09-03": 4355,
-  "2023-09-04": 4366,
-  "2023-09-05": 4375,
-  "2023-09-06": 4383,
-  "2023-09-07": 4391,
-  "2023-09-08": 4401,
-  "2023-09-09": 4414,
-  "2023-09-10": 4424,
-  "2023-09-11": 4434,
-  "2023-09-12": 4444,
-  "2023-09-13": 4452,
-  "2023-09-14": 4461,
-  "2023-09-15": 4481,
-  "2023-09-16": 4489,
-  "2023-09-17": 4499,
-  "2023-09-18": 4506,
-  "2023-09-19": 4515,
-  "2023-09-20": 4521,
-  "2023-09-21": 4535,
-  "2023-09-22": 4549,
-  "2023-09-23": 4555,
-  "2023-09-24": 4560,
-  "2023-09-25": 4565,
-  "2023-09-26": 4580,
-  "2023-09-27": 4585,
-  "2023-09-28": 4591,
-  "2023-09-29": 4595,
-  "2023-09-30": 4602,
-  "2023-10-01": 4604,
-  "2023-10-02": 4608,
-  "2023-10-03": 4612,
-  "2023-10-04": 4611,
-  "2023-10-05": 4617,
-  "2023-10-06": 4622,
-  "2023-10-07": 4631,
-  "2023-10-08": 4649,
-  "2023-10-09": 4666,
-  "2023-10-10": 4673,
-  "2023-10-11": 4688,
-  "2023-10-12": 4688,
-  "2023-10-13": 4696,
-  "2023-10-14": 4698,
-  "2023-10-15": 4706,
-  "2023-10-16": 4714,
-  "2023-10-17": 4724,
-  "2023-10-18": 4731,
-  "2023-10-19": 4741,
-  "2023-10-20": 4753,
-  "2023-10-21": 4758,
-  "2023-10-22": 4767,
-  "2023-10-23": 4780,
-  "2023-10-24": 4792,
-  "2023-10-25": 4802,
-  "2023-10-26": 4806,
-  "2023-10-27": 4814,
-  "2023-10-28": 4823,
-  "2023-10-29": 4829,
-  "2023-10-30": 4836,
-  "2023-10-31": 4836,
-  "2023-11-01": 4840,
-  "2023-11-02": 4845,
-  "2023-11-03": 4850,
-  "2023-11-04": 4856,
-  "2023-11-05": 4869,
-  "2023-11-06": 4875,
-  "2023-11-07": 4875,
-  "2023-11-08": 4875,
-  "2023-11-09": 4875,
-  "2023-11-10": 4875,
-  "2023-11-11": 4875,
-  "2023-11-12": 4875,
-  "2023-11-13": 4875,
-  "2023-11-14": 4875,
-  "2023-11-15": 4875,
-  "2023-11-16": 4875,
-  "2023-11-17": 4875,
-  "2023-11-18": 4875,
-  "2023-11-19": 4875,
-  "2023-11-20": 4875,
-  "2023-11-21": 4875,
-  "2023-11-22": 4875,
-  "2023-11-23": 4875,
-  "2023-11-24": 4875,
-  "2023-11-25": 4875,
-  "2023-11-26": 4875,
-  "2023-11-27": 4875,
-  "2023-11-28": 4875,
-  "2023-11-29": 4875,
-  "2023-11-30": 4875,
-  "2023-12-01": 4875,
-  "2023-12-02": 4875,
-  "2023-12-03": 4875,
-  "2023-12-04": 4875,
-  "2023-12-05": 4875,
-  "2023-12-06": 4875,
-  "2023-12-07": 4875,
-  "2023-12-08": 4875,
-  "2023-12-09": 4875,
-  "2023-12-10": 4875,
-  "2023-12-11": 4875,
-  "2023-12-12": 4875,
-  "2023-12-13": 4875,
-  "2023-12-14": 4875,
-  "2023-12-15": 4875,
-  "2023-12-16": 4875,
-  "2023-12-17": 4875,
-  "2023-12-18": 4875,
-  "2023-12-19": 4875,
-  "2023-12-20": 4875,
-  "2023-12-21": 4875,
-  "2023-12-22": 4875,
-  "2023-12-23": 4875,
-  "2023-12-24": 4875,
-  "2023-12-25": 4875,
-  "2023-12-26": 4875,
-  "2023-12-27": 4875,
-  "2023-12-30": 4875,
-  "2023-12-31": 4875,
-  "2024-01-01": 4875,
-  "2024-01-02": 4875,
-  "2024-01-03": 4875
+  "2024-01-17": 4875,
+  "date_first_scraped": "2022-10-24",
+  "description": "The internationally acclaimed singer, songwriter and producer <a href=\"spotify:artist:5ITI6SEoUZMIXXkzCfr4oE\">Aluna</a> drops a mix that pays homage to the different variants of dance music while pushing the boundaries of the genre.",
+  "name": "Aluna's DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Little Bit of Luck (Mixed)",
+        "url": "https://open.spotify.com/album/6TyQ7T2691HJ3IVEAhpcvi"
+      },
+      "artists": [
+        {
+          "name": "DJ Luck & MC Neat",
+          "url": "https://open.spotify.com/artist/4MflsXABg2VC9Powgd7JCF"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "A Little Bit of Luck - Mixed",
+      "url": "https://open.spotify.com/track/40MHNZfsOvme4zPnCk7ksO"
+    },
+    {
+      "album": {
+        "name": "Disco Dancing (feat. Ayoni) - Mozambo Remix [Mixed]",
+        "url": "https://open.spotify.com/album/1rfI0dsiO7zHABnW2vuJvc"
+      },
+      "artists": [
+        {
+          "name": "Namy",
+          "url": "https://open.spotify.com/artist/5b27ajyz5mxl84HYtPE4ih"
+        },
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        },
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Disco Dancing (feat. Ayoni) - Mozambo Remix - Mixed",
+      "url": "https://open.spotify.com/track/5gezAJnReX2HaeQCXsOMF7"
+    },
+    {
+      "album": {
+        "name": "DMs (Mixed)",
+        "url": "https://open.spotify.com/album/17vaymTOe498Y5UifSxCey"
+      },
+      "artists": [
+        {
+          "name": "LUCATI",
+          "url": "https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn"
+        },
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        },
+        {
+          "name": "1993",
+          "url": "https://open.spotify.com/artist/11LTcIYRV9WFDV6pGZ2XEY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "DMs - Mixed",
+      "url": "https://open.spotify.com/track/3zrJWuOPvUK4h5SIRkjAtr"
+    },
+    {
+      "album": {
+        "name": "Don't Hit My Line (Mixed)",
+        "url": "https://open.spotify.com/album/1xVG9A2kASkcLtBlujy6aG"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Don't Hit My Line - Mixed",
+      "url": "https://open.spotify.com/track/5eBgyITGCudEYSnDmT8zOK"
+    },
+    {
+      "album": {
+        "name": "Envious - Kiddy Smile Remix (Mixed)",
+        "url": "https://open.spotify.com/album/4kIr5PrEdeWDZLxuLbgdRy"
+      },
+      "artists": [
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Kiddy Smile",
+          "url": "https://open.spotify.com/artist/4Y5crYhYaEQKOzikPPIZDx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Envious - Kiddy Smile Remix - Mixed",
+      "url": "https://open.spotify.com/track/4ZJMwSwmHOxsNmcJXfqFbH"
+    },
+    {
+      "album": {
+        "name": "Finder - Carl Cox Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1MA1zklkfskmLff9B87XrI"
+      },
+      "artists": [
+        {
+          "name": "Ninetoes",
+          "url": "https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC"
+        },
+        {
+          "name": "Carl Cox",
+          "url": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Finder - Carl Cox Remix - Mixed",
+      "url": "https://open.spotify.com/track/60jO88nGAhUKbpt250hkoC"
+    },
+    {
+      "album": {
+        "name": "Forbidden Feelingz (Mixed)",
+        "url": "https://open.spotify.com/album/7catsSn5HcsYKGxaVP8ARx"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Forbidden Feelingz - Mixed",
+      "url": "https://open.spotify.com/track/71ATDeitkF3BjHYJ4FTh8b"
+    },
+    {
+      "album": {
+        "name": "Forget About Me - Nite Version (Mixed)",
+        "url": "https://open.spotify.com/album/098Mnc8yyUxvSQINQOp5TP"
+      },
+      "artists": [
+        {
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Forget About Me - Nite Version - Mixed",
+      "url": "https://open.spotify.com/track/2FcaFrLSDrWb0uOz1PBYRs"
+    },
+    {
+      "album": {
+        "name": "Insomnia - Monster Mix (Mixed)",
+        "url": "https://open.spotify.com/album/3Br1JGu8wrthYkDGPhJGHK"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Goetz",
+          "url": "https://open.spotify.com/artist/1HT9jeorSqkirZ9bcMQuKv"
+        },
+        {
+          "name": "Sister Bliss",
+          "url": "https://open.spotify.com/artist/4tc9NREea7ncB7JzqdBsj5"
+        },
+        {
+          "name": "Rollo Armstrong",
+          "url": "https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "Insomnia - Monster Mix - Mixed",
+      "url": "https://open.spotify.com/track/5LOMeDHxjsQppfoCDvG75k"
+    },
+    {
+      "album": {
+        "name": "Kiss It Better (Mixed)",
+        "url": "https://open.spotify.com/album/5RfYy3qDJKNECido5WNzqX"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Kiss It Better - Mixed",
+      "url": "https://open.spotify.com/track/1mVaol7nyHaryn5IBKfCVi"
+    },
+    {
+      "album": {
+        "name": "Last Kiss (Mixed)",
+        "url": "https://open.spotify.com/album/4WVHD8eRSIryIDEM2cNPnm"
+      },
+      "artists": [
+        {
+          "name": "OverDoz.",
+          "url": "https://open.spotify.com/artist/5I81SUgzZ0g7dWkWKDc4QY"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Last Kiss - Mixed",
+      "url": "https://open.spotify.com/track/54cy84Lvx4cjgV982U1Nzg"
+    },
+    {
+      "album": {
+        "name": "Microdosing (Mixed)",
+        "url": "https://open.spotify.com/album/3q4IXntNsXLe0dEEwaJL0e"
+      },
+      "artists": [
+        {
+          "name": "UNIIQU3",
+          "url": "https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Microdosing - Mixed",
+      "url": "https://open.spotify.com/track/3iIOQpQ5Fa2EhqCjdvvNuy"
+    },
+    {
+      "album": {
+        "name": "Mine O' Mine (Mixed)",
+        "url": "https://open.spotify.com/album/1yIKPwBhX4QZtDv9DXAn5l"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Mine O' Mine - Mixed",
+      "url": "https://open.spotify.com/track/4LND7zRfjtXOOqvSGDR8wb"
+    },
+    {
+      "album": {
+        "name": "Move Your Body (Mixed)",
+        "url": "https://open.spotify.com/album/2yPpMrLqLx87YyVjLOVlLu"
+      },
+      "artists": [
+        {
+          "name": "Xpansions",
+          "url": "https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Move Your Body - Mixed",
+      "url": "https://open.spotify.com/track/4iq3JeYM3aAl9k4FldKvuV"
+    },
+    {
+      "album": {
+        "name": "No Requests (Mixed)",
+        "url": "https://open.spotify.com/album/1kciv6iLSx0zfWbcIkuwwH"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "No Requests - Mixed",
+      "url": "https://open.spotify.com/track/1HddJSkw5ImIa6INT07VPK"
+    },
+    {
+      "album": {
+        "name": "Nowhere To Hide (Mixed)",
+        "url": "https://open.spotify.com/album/4u8Lw5DQGWwepZsu3E53YO"
+      },
+      "artists": [
+        {
+          "name": "Kooldrink",
+          "url": "https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY"
+        },
+        {
+          "name": "Prettyboy D-O",
+          "url": "https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Nowhere To Hide - Mixed",
+      "url": "https://open.spotify.com/track/5dki501vUUXH5Ch4ua1Cr8"
+    },
+    {
+      "album": {
+        "name": "One Touch (Mixed)",
+        "url": "https://open.spotify.com/album/4kO8cZyu9QSjlCl2cCRLMi"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "One Touch - Mixed",
+      "url": "https://open.spotify.com/track/4jFUE8qm5KSusjuxVjfXfq"
+    },
+    {
+      "album": {
+        "name": "Raingurl (Mixed)",
+        "url": "https://open.spotify.com/album/0YwsQXR8ob6QLlMviDEr0c"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Raingurl - Mixed",
+      "url": "https://open.spotify.com/track/6cLDWdVWPBMIgrcjHeGSV4"
+    },
+    {
+      "album": {
+        "name": "Rapture (Mixed)",
+        "url": "https://open.spotify.com/album/0eABRc9GfP03OajPrPRCmK"
+      },
+      "artists": [
+        {
+          "name": "Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Rapture - Mixed",
+      "url": "https://open.spotify.com/track/62crjUtxqAYf9l6Fp5GXhF"
+    },
+    {
+      "album": {
+        "name": "Rhythm Is A Dancer (Mixed)",
+        "url": "https://open.spotify.com/album/7aRhWaWpbJyKxKWjzCQFhE"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Rhythm Is A Dancer - Mixed",
+      "url": "https://open.spotify.com/track/0sm9aV6mJwym5djE9LtoxP"
+    },
+    {
+      "album": {
+        "name": "SLIME (Mixed)",
+        "url": "https://open.spotify.com/album/0bemimApyoCL4UMPFBNk67"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "SLIME - Mixed",
+      "url": "https://open.spotify.com/track/0PF2pbzJbXFW5Uwok2bZB2"
+    },
+    {
+      "album": {
+        "name": "Summer Of Love (Mixed)",
+        "url": "https://open.spotify.com/album/3B0ne8qPcIqgjzXWKUDk58"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "Summer Of Love - Mixed",
+      "url": "https://open.spotify.com/track/6F7LlB3ofvzsa9epnjFAK9"
+    },
+    {
+      "album": {
+        "name": "The Cure & The Cause - Dennis Ferrer Remix (Mixed)",
+        "url": "https://open.spotify.com/album/3PUPsxx5KaYlrWpkaSKDPh"
+      },
+      "artists": [
+        {
+          "name": "Tracey K",
+          "url": "https://open.spotify.com/artist/2RG9WXLhvCaeGE3gFaAAZg"
+        },
+        {
+          "name": "Fish Go Deep",
+          "url": "https://open.spotify.com/artist/0fOlkKkWVb6gOtwUXL2i0y"
+        },
+        {
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "The Cure & The Cause - Dennis Ferrer Remix - Mixed",
+      "url": "https://open.spotify.com/track/21Xe8egkCzNwNuifh61aQZ"
+    },
+    {
+      "album": {
+        "name": "The Recipe (Mixed)",
+        "url": "https://open.spotify.com/album/1dggCaa4b5vvjwyrXyyl7e"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "The Recipe - Mixed",
+      "url": "https://open.spotify.com/track/6buQ1pzXd9Yc6KUYPMUX2U"
+    },
+    {
+      "album": {
+        "name": "To \u00dc (feat. AlunaGeorge) [Mixed]",
+        "url": "https://open.spotify.com/album/4IJbfMDiRz4iTnu8zyxjtY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Jack \u00dc",
+          "url": "https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2022-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "To \u00dc (feat. AlunaGeorge) - Mixed",
+      "url": "https://open.spotify.com/track/5jsj1gN6TQzu755QOATGdG"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTh86g4mGpKZ"
 }

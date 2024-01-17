@@ -1,648 +1,1711 @@
 {
-  "2022-03-22": 13256,
-  "2022-03-23": 13275,
-  "2022-03-24": 13287,
-  "2022-03-25": 13303,
-  "2022-03-26": 13314,
-  "2022-03-27": 13333,
-  "2022-03-28": 13357,
-  "2022-03-30": 13378,
-  "2022-03-31": 13391,
-  "2022-04-01": 13406,
-  "2022-04-02": 13417,
-  "2022-04-03": 13438,
-  "2022-04-04": 13450,
-  "2022-04-05": 13459,
-  "2022-04-06": 13471,
-  "2022-04-07": 13481,
-  "2022-04-08": 13487,
-  "2022-04-09": 13495,
-  "2022-04-10": 13521,
-  "2022-04-11": 13538,
-  "2022-04-12": 13543,
-  "2022-04-13": 13560,
-  "2022-04-14": 13576,
-  "2022-04-15": 13592,
-  "2022-04-16": 13610,
-  "2022-04-17": 13629,
-  "2022-04-18": 13652,
-  "2022-04-19": 13665,
-  "2022-04-20": 13678,
-  "2022-04-21": 13697,
-  "2022-04-22": 13709,
-  "2022-04-23": 13722,
-  "2022-04-24": 13740,
-  "2022-04-25": 13761,
-  "2022-04-26": 13781,
-  "2022-04-27": 13796,
-  "2022-04-28": 13804,
-  "2022-04-29": 13829,
-  "2022-04-30": 13846,
-  "2022-05-01": 13877,
-  "2022-05-02": 13877,
-  "2022-05-03": 13893,
-  "2022-05-04": 13909,
-  "2022-05-05": 13922,
-  "2022-05-06": 13933,
-  "2022-05-07": 13955,
-  "2022-05-08": 13975,
-  "2022-05-09": 13979,
-  "2022-05-10": 13991,
-  "2022-05-11": 14006,
-  "2022-05-12": 14018,
-  "2022-05-13": 14028,
-  "2022-05-14": 14053,
-  "2022-05-15": 14067,
-  "2022-05-16": 14080,
-  "2022-05-17": 14098,
-  "2022-05-18": 14112,
-  "2022-05-19": 14125,
-  "2022-05-20": 14133,
-  "2022-05-21": 14162,
-  "2022-05-22": 14162,
-  "2022-05-23": 14173,
-  "2022-05-24": 14187,
-  "2022-05-25": 14198,
-  "2022-05-26": 14206,
-  "2022-05-27": 14211,
-  "2022-05-28": 14227,
-  "2022-05-29": 14240,
-  "2022-05-30": 14250,
-  "2022-05-31": 14259,
-  "2022-06-01": 14286,
-  "2022-06-02": 14291,
-  "2022-06-03": 14307,
-  "2022-06-04": 14321,
-  "2022-06-05": 14344,
-  "2022-06-06": 14356,
-  "2022-06-07": 14366,
-  "2022-06-08": 14375,
-  "2022-06-09": 14387,
-  "2022-06-10": 14400,
-  "2022-06-11": 14422,
-  "2022-06-12": 14431,
-  "2022-06-13": 14452,
-  "2022-06-14": 14473,
-  "2022-06-15": 14480,
-  "2022-06-16": 14492,
-  "2022-06-17": 14503,
-  "2022-06-18": 14520,
-  "2022-06-19": 14547,
-  "2022-06-20": 14547,
-  "2022-06-21": 14559,
-  "2022-06-22": 14581,
-  "2022-06-23": 14581,
-  "2022-06-24": 14592,
-  "2022-06-25": 14601,
-  "2022-06-26": 14619,
-  "2022-06-27": 14634,
-  "2022-06-28": 14640,
-  "2022-06-29": 14655,
-  "2022-06-30": 14668,
-  "2022-07-01": 14685,
-  "2022-07-02": 14704,
-  "2022-07-03": 14720,
-  "2022-07-04": 14737,
-  "2022-07-05": 14748,
-  "2022-07-06": 14766,
-  "2022-07-07": 14772,
-  "2022-07-08": 14785,
-  "2022-07-09": 14801,
-  "2022-07-10": 14815,
-  "2022-07-11": 14829,
-  "2022-07-12": 14840,
-  "2022-07-13": 14852,
-  "2022-07-14": 14868,
-  "2022-07-15": 14875,
-  "2022-07-16": 14880,
-  "2022-07-17": 14901,
-  "2022-07-18": 14914,
-  "2022-07-19": 14936,
-  "2022-07-20": 14953,
-  "2022-07-21": 14970,
-  "2022-07-22": 14978,
-  "2022-07-23": 14998,
-  "2022-07-24": 15013,
-  "2022-07-25": 15031,
-  "2022-07-26": 15041,
-  "2022-07-27": 15055,
-  "2022-07-28": 15065,
-  "2022-07-29": 15067,
-  "2022-07-30": 15099,
-  "2022-07-31": 15099,
-  "2022-08-01": 15115,
-  "2022-08-02": 15135,
-  "2022-08-03": 15135,
-  "2022-08-04": 15152,
-  "2022-08-05": 15164,
-  "2022-08-06": 15179,
-  "2022-08-07": 15190,
-  "2022-08-08": 15208,
-  "2022-08-09": 15223,
-  "2022-08-10": 15239,
-  "2022-08-11": 15258,
-  "2022-08-12": 15270,
-  "2022-08-13": 15285,
-  "2022-08-14": 15302,
-  "2022-08-15": 15326,
-  "2022-08-16": 15341,
-  "2022-08-17": 15343,
-  "2022-08-18": 15359,
-  "2022-08-19": 15368,
-  "2022-08-20": 15383,
-  "2022-08-21": 15403,
-  "2022-08-22": 15417,
-  "2022-08-23": 15436,
-  "2022-08-24": 15449,
-  "2022-08-25": 15457,
-  "2022-08-26": 15474,
-  "2022-08-27": 15489,
-  "2022-08-28": 15506,
-  "2022-08-29": 15527,
-  "2022-08-30": 15537,
-  "2022-08-31": 15546,
-  "2022-09-01": 15552,
-  "2022-09-02": 15565,
-  "2022-09-03": 15582,
-  "2022-09-04": 15591,
-  "2022-09-05": 15607,
-  "2022-09-06": 15619,
-  "2022-09-07": 15635,
-  "2022-09-09": 15661,
-  "2022-09-10": 15671,
-  "2022-09-11": 15684,
-  "2022-09-12": 15697,
-  "2022-09-13": 15702,
-  "2022-09-15": 15745,
-  "2022-09-16": 15767,
-  "2022-09-17": 15795,
-  "2022-09-18": 15806,
-  "2022-09-19": 15821,
-  "2022-09-20": 15825,
-  "2022-09-21": 15838,
-  "2022-09-22": 15847,
-  "2022-09-23": 15858,
-  "2022-09-24": 15871,
-  "2022-09-25": 15891,
-  "2022-09-26": 15903,
-  "2022-09-27": 15918,
-  "2022-09-28": 15928,
-  "2022-09-29": 15941,
-  "2022-09-30": 15953,
-  "2022-10-01": 15966,
-  "2022-10-02": 15983,
-  "2022-10-03": 15997,
-  "2022-10-04": 16008,
-  "2022-10-05": 16013,
-  "2022-10-06": 16023,
-  "2022-10-07": 16043,
-  "2022-10-08": 16053,
-  "2022-10-09": 16080,
-  "2022-10-10": 16079,
-  "2022-10-11": 16083,
-  "2022-10-12": 16097,
-  "2022-10-13": 16112,
-  "2022-10-14": 16123,
-  "2022-10-15": 16134,
-  "2022-10-16": 16158,
-  "2022-10-17": 16181,
-  "2022-10-18": 16187,
-  "2022-10-19": 16195,
-  "2022-10-20": 16209,
-  "2022-10-21": 16220,
-  "2022-10-22": 16238,
-  "2022-10-23": 16253,
-  "2022-10-24": 16270,
-  "2022-10-25": 16278,
-  "2022-10-26": 16297,
-  "2022-10-27": 16308,
-  "2022-10-28": 16330,
-  "2022-10-29": 16348,
-  "2022-10-30": 16365,
-  "2022-10-31": 16382,
-  "2022-11-01": 16391,
-  "2022-11-02": 16403,
-  "2022-11-03": 16413,
-  "2022-11-04": 16426,
-  "2022-11-05": 16439,
-  "2022-11-06": 16454,
-  "2022-11-07": 16469,
-  "2022-11-08": 16484,
-  "2022-11-09": 16496,
-  "2022-11-10": 16500,
-  "2022-11-11": 16516,
-  "2022-11-12": 16535,
-  "2022-11-13": 16545,
-  "2022-11-14": 16555,
-  "2022-11-15": 16571,
-  "2022-11-16": 16588,
-  "2022-11-17": 16596,
-  "2022-11-18": 16601,
-  "2022-11-19": 16598,
-  "2022-11-20": 16601,
-  "2022-11-21": 16612,
-  "2022-11-22": 16633,
-  "2022-11-23": 16648,
-  "2022-11-24": 16680,
-  "2022-11-25": 16720,
-  "2022-11-26": 16739,
-  "2022-11-27": 16753,
-  "2022-11-28": 16769,
-  "2022-11-29": 16776,
-  "2022-11-30": 16798,
-  "2022-12-01": 16812,
-  "2022-12-02": 16825,
-  "2022-12-03": 16835,
-  "2022-12-04": 16863,
-  "2022-12-05": 16886,
-  "2022-12-06": 16902,
-  "2022-12-07": 16922,
-  "2022-12-08": 16942,
-  "2022-12-09": 16962,
-  "2022-12-10": 16975,
-  "2022-12-11": 16994,
-  "2022-12-12": 17010,
-  "2022-12-13": 17023,
-  "2022-12-14": 17034,
-  "2022-12-15": 17046,
-  "2022-12-16": 17074,
-  "2022-12-17": 17100,
-  "2022-12-18": 17119,
-  "2022-12-19": 17128,
-  "2022-12-20": 17167,
-  "2022-12-21": 17167,
-  "2022-12-22": 17187,
-  "2022-12-24": 17231,
-  "2022-12-25": 17266,
-  "2022-12-26": 17292,
-  "2022-12-27": 17307,
-  "2022-12-28": 17321,
-  "2022-12-29": 17344,
-  "2022-12-30": 17357,
-  "2022-12-31": 17381,
-  "2023-01-01": 17408,
-  "2023-01-02": 17446,
-  "2023-01-03": 17462,
-  "2023-01-04": 17479,
-  "2023-01-05": 17490,
-  "2023-01-06": 17509,
-  "2023-01-07": 17532,
-  "2023-01-08": 17540,
-  "2023-01-09": 17554,
-  "2023-01-10": 17568,
-  "2023-01-11": 17589,
-  "2023-01-12": 17597,
-  "2023-01-13": 17608,
-  "2023-01-14": 17641,
-  "2023-01-15": 17648,
-  "2023-01-16": 17659,
-  "2023-01-17": 17677,
-  "2023-01-18": 17694,
-  "2023-01-19": 17714,
-  "2023-01-20": 17727,
-  "2023-01-21": 17738,
-  "2023-01-22": 17757,
-  "2023-01-23": 17772,
-  "2023-01-24": 17786,
-  "2023-01-25": 17794,
-  "2023-01-26": 17810,
-  "2023-01-27": 17818,
-  "2023-01-28": 17835,
-  "2023-01-29": 17849,
-  "2023-01-30": 17858,
-  "2023-01-31": 17858,
-  "2023-02-01": 17871,
-  "2023-02-02": 17882,
-  "2023-02-03": 17899,
-  "2023-02-04": 17912,
-  "2023-02-05": 17929,
-  "2023-02-06": 17950,
-  "2023-02-07": 17961,
-  "2023-02-08": 17983,
-  "2023-02-09": 17983,
-  "2023-02-10": 18003,
-  "2023-02-11": 18008,
-  "2023-02-12": 18039,
-  "2023-02-13": 18046,
-  "2023-02-14": 18046,
-  "2023-02-15": 18063,
-  "2023-02-16": 18082,
-  "2023-02-17": 18092,
-  "2023-02-18": 18112,
-  "2023-02-19": 18113,
-  "2023-02-20": 18123,
-  "2023-02-21": 18140,
-  "2023-02-22": 18152,
-  "2023-02-23": 18159,
-  "2023-02-24": 18186,
-  "2023-02-25": 18205,
-  "2023-02-26": 18207,
-  "2023-02-27": 18233,
-  "2023-02-28": 18233,
-  "2023-03-01": 18242,
-  "2023-03-02": 18261,
-  "2023-03-03": 18278,
-  "2023-03-04": 18291,
-  "2023-03-05": 18327,
-  "2023-03-06": 18327,
-  "2023-03-07": 18337,
-  "2023-03-08": 18345,
-  "2023-03-09": 18361,
-  "2023-03-10": 18372,
-  "2023-03-11": 18385,
-  "2023-03-12": 18394,
-  "2023-03-13": 18403,
-  "2023-03-14": 18411,
-  "2023-03-15": 18422,
-  "2023-03-16": 18433,
-  "2023-03-17": 18433,
-  "2023-03-18": 18463,
-  "2023-03-19": 18472,
-  "2023-03-20": 18483,
-  "2023-03-21": 18493,
-  "2023-03-22": 18508,
-  "2023-03-23": 18518,
-  "2023-03-24": 18518,
-  "2023-03-25": 18539,
-  "2023-03-26": 18560,
-  "2023-03-27": 18577,
-  "2023-03-28": 18589,
-  "2023-03-29": 18601,
-  "2023-03-30": 18624,
-  "2023-03-31": 18624,
-  "2023-04-01": 18634,
-  "2023-04-02": 18648,
-  "2023-04-03": 18657,
-  "2023-04-04": 18668,
-  "2023-04-05": 18685,
-  "2023-04-06": 18704,
-  "2023-04-07": 18720,
-  "2023-04-09": 18763,
-  "2023-04-10": 18782,
-  "2023-04-11": 18809,
-  "2023-04-12": 18809,
-  "2023-04-13": 18825,
-  "2023-04-14": 18838,
-  "2023-04-15": 18855,
-  "2023-04-16": 18867,
-  "2023-04-17": 18887,
-  "2023-04-18": 18901,
-  "2023-04-19": 18911,
-  "2023-04-20": 18931,
-  "2023-04-21": 18937,
-  "2023-04-22": 18956,
-  "2023-04-23": 18970,
-  "2023-04-24": 18978,
-  "2023-04-25": 18992,
-  "2023-04-26": 19003,
-  "2023-04-27": 19030,
-  "2023-04-28": 19044,
-  "2023-04-29": 19059,
-  "2023-04-30": 19080,
-  "2023-05-01": 19107,
-  "2023-05-02": 19122,
-  "2023-05-03": 19132,
-  "2023-05-04": 19138,
-  "2023-05-05": 19153,
-  "2023-05-06": 19167,
-  "2023-05-07": 19185,
-  "2023-05-08": 19196,
-  "2023-05-09": 19210,
-  "2023-05-10": 19225,
-  "2023-05-11": 19236,
-  "2023-05-12": 19252,
-  "2023-05-13": 19265,
-  "2023-05-14": 19278,
-  "2023-05-15": 19301,
-  "2023-05-16": 19311,
-  "2023-05-17": 19327,
-  "2023-05-18": 19345,
-  "2023-05-19": 19357,
-  "2023-05-20": 19380,
-  "2023-05-21": 19380,
-  "2023-05-22": 19380,
-  "2023-05-23": 19415,
-  "2023-05-24": 19437,
-  "2023-05-25": 19442,
-  "2023-05-26": 19454,
-  "2023-05-27": 19470,
-  "2023-05-28": 19497,
-  "2023-05-29": 19497,
-  "2023-05-30": 19528,
-  "2023-05-31": 19538,
-  "2023-06-01": 19554,
-  "2023-06-02": 19572,
-  "2023-06-03": 19587,
-  "2023-06-04": 19600,
-  "2023-06-05": 19615,
-  "2023-06-06": 19628,
-  "2023-06-07": 19642,
-  "2023-06-08": 19660,
-  "2023-06-09": 19674,
-  "2023-06-10": 19689,
-  "2023-06-11": 19706,
-  "2023-06-12": 19722,
-  "2023-06-13": 19734,
-  "2023-06-14": 19750,
-  "2023-06-15": 19766,
-  "2023-06-16": 19781,
-  "2023-06-17": 19801,
-  "2023-06-18": 19821,
-  "2023-06-19": 19832,
-  "2023-06-20": 19839,
-  "2023-06-21": 19850,
-  "2023-06-22": 19862,
-  "2023-06-23": 19875,
-  "2023-06-24": 19898,
-  "2023-06-25": 19916,
-  "2023-06-26": 19930,
-  "2023-06-27": 19949,
-  "2023-06-28": 19958,
-  "2023-06-29": 19973,
-  "2023-06-30": 19985,
-  "2023-07-01": 20013,
-  "2023-07-02": 20013,
-  "2023-07-03": 20026,
-  "2023-07-04": 20041,
-  "2023-07-05": 20056,
-  "2023-07-06": 20075,
-  "2023-07-07": 20075,
-  "2023-07-08": 20082,
-  "2023-07-09": 20103,
-  "2023-07-10": 20120,
-  "2023-07-11": 20127,
-  "2023-07-12": 20135,
-  "2023-07-13": 20151,
-  "2023-07-14": 20165,
-  "2023-07-15": 20174,
-  "2023-07-16": 20196,
-  "2023-07-17": 20207,
-  "2023-07-18": 20219,
-  "2023-07-19": 20236,
-  "2023-07-20": 20238,
-  "2023-07-21": 20248,
-  "2023-07-22": 20263,
-  "2023-07-23": 20286,
-  "2023-07-24": 20301,
-  "2023-07-25": 20318,
-  "2023-07-26": 20327,
-  "2023-07-27": 20341,
-  "2023-07-28": 20358,
-  "2023-07-29": 20375,
-  "2023-07-30": 20391,
-  "2023-07-31": 20402,
-  "2023-08-01": 20416,
-  "2023-08-02": 20435,
-  "2023-08-03": 20453,
-  "2023-08-04": 20473,
-  "2023-08-05": 20488,
-  "2023-08-06": 20513,
-  "2023-08-07": 20513,
-  "2023-08-08": 20530,
-  "2023-08-09": 20546,
-  "2023-08-10": 20549,
-  "2023-08-11": 20568,
-  "2023-08-12": 20585,
-  "2023-08-13": 20601,
-  "2023-08-14": 20619,
-  "2023-08-15": 20645,
-  "2023-08-16": 20645,
-  "2023-08-17": 20653,
-  "2023-08-18": 20664,
-  "2023-08-19": 20681,
-  "2023-08-20": 20701,
-  "2023-08-21": 20711,
-  "2023-08-22": 20725,
-  "2023-08-23": 20737,
-  "2023-08-24": 20751,
-  "2023-08-25": 20760,
-  "2023-08-26": 20771,
-  "2023-08-27": 20791,
-  "2023-08-28": 20802,
-  "2023-08-29": 20816,
-  "2023-08-30": 20826,
-  "2023-08-31": 20838,
-  "2023-09-01": 20865,
-  "2023-09-02": 20865,
-  "2023-09-03": 20870,
-  "2023-09-04": 20890,
-  "2023-09-05": 20897,
-  "2023-09-06": 20903,
-  "2023-09-07": 20917,
-  "2023-09-08": 20930,
-  "2023-09-09": 20941,
-  "2023-09-10": 20957,
-  "2023-09-11": 20969,
-  "2023-09-12": 20973,
-  "2023-09-13": 20984,
-  "2023-09-14": 20993,
-  "2023-09-15": 21008,
-  "2023-09-16": 21020,
-  "2023-09-17": 21039,
-  "2023-09-18": 21053,
-  "2023-09-19": 21064,
-  "2023-09-20": 21077,
-  "2023-09-21": 21091,
-  "2023-09-22": 21099,
-  "2023-09-23": 21118,
-  "2023-09-24": 21132,
-  "2023-09-25": 21144,
-  "2023-09-26": 21156,
-  "2023-09-27": 21160,
-  "2023-09-28": 21171,
-  "2023-09-29": 21184,
-  "2023-09-30": 21197,
-  "2023-10-01": 21202,
-  "2023-10-02": 21218,
-  "2023-10-03": 21226,
-  "2023-10-04": 21234,
-  "2023-10-05": 21240,
-  "2023-10-06": 21249,
-  "2023-10-07": 21259,
-  "2023-10-08": 21268,
-  "2023-10-09": 21278,
-  "2023-10-10": 21275,
-  "2023-10-11": 21296,
-  "2023-10-12": 21296,
-  "2023-10-13": 21311,
-  "2023-10-14": 21317,
-  "2023-10-15": 21330,
-  "2023-10-16": 21342,
-  "2023-10-17": 21348,
-  "2023-10-18": 21355,
-  "2023-10-19": 21358,
-  "2023-10-20": 21366,
-  "2023-10-21": 21375,
-  "2023-10-22": 21384,
-  "2023-10-23": 21393,
-  "2023-10-24": 21405,
-  "2023-10-25": 21405,
-  "2023-10-26": 21418,
-  "2023-10-27": 21427,
-  "2023-10-28": 21437,
-  "2023-10-29": 21450,
-  "2023-10-30": 21464,
-  "2023-10-31": 21464,
-  "2023-11-01": 21474,
-  "2023-11-02": 21485,
-  "2023-11-03": 21496,
-  "2023-11-04": 21508,
-  "2023-11-05": 21525,
-  "2023-11-06": 21538,
-  "2023-11-07": 21543,
-  "2023-11-08": 21548,
-  "2023-11-09": 21555,
-  "2023-11-10": 21567,
-  "2023-11-11": 21578,
-  "2023-11-12": 21584,
-  "2023-11-13": 21600,
-  "2023-11-14": 21606,
-  "2023-11-15": 21606,
-  "2023-11-16": 21615,
-  "2023-11-17": 21627,
-  "2023-11-18": 21627,
-  "2023-11-19": 21649,
-  "2023-11-20": 21658,
-  "2023-11-21": 21667,
-  "2023-11-22": 21681,
-  "2023-11-23": 21693,
-  "2023-11-24": 21707,
-  "2023-11-25": 21715,
-  "2023-11-26": 21727,
-  "2023-11-27": 21734,
-  "2023-11-28": 21746,
-  "2023-11-29": 21758,
-  "2023-11-30": 21758,
-  "2023-12-01": 21771,
-  "2023-12-02": 21781,
-  "2023-12-03": 21791,
-  "2023-12-04": 21799,
-  "2023-12-05": 21812,
-  "2023-12-06": 21816,
-  "2023-12-07": 21828,
-  "2023-12-08": 21845,
-  "2023-12-09": 21859,
-  "2023-12-10": 21877,
-  "2023-12-11": 21895,
-  "2023-12-12": 21909,
-  "2023-12-13": 21928,
-  "2023-12-14": 21945,
-  "2023-12-15": 21956,
-  "2023-12-16": 21963,
-  "2023-12-17": 21987,
-  "2023-12-18": 22004,
-  "2023-12-19": 22023,
-  "2023-12-20": 22041,
-  "2023-12-21": 22055,
-  "2023-12-22": 22071,
-  "2023-12-23": 22090,
-  "2023-12-24": 22116,
-  "2023-12-25": 22136,
-  "2023-12-26": 22161,
-  "2023-12-27": 22177,
-  "2023-12-30": 22228,
-  "2023-12-31": 22248,
-  "2024-01-01": 22276,
-  "2024-01-02": 22293,
-  "2024-01-03": 22306
+  "2024-01-17": 22472,
+  "date_first_scraped": "2022-03-22",
+  "description": "\u00a1Esto es punta!",
+  "name": "Punta",
+  "tracks": [
+    {
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/2NfTKjVHOCQTYFfvTRjL8W"
+      },
+      "artists": [
+        {
+          "name": "Garifuna Kids",
+          "url": "https://open.spotify.com/artist/6OfSdKAmgozL3jAzHmszxo"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396303,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/6h5a02bpNo0UKpMLWcXTEl"
+    },
+    {
+      "album": {
+        "name": "Con el Ritmo Punta, Vol. 1",
+        "url": "https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 199288,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/7Fz5tD8bvsohPYBRwTFv54"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/2oq5vkmOpiR0ykdmfyuFNj"
+    },
+    {
+      "album": {
+        "name": "Balabaa",
+        "url": "https://open.spotify.com/album/6X7kzkdTLV3Kqtm3kdnH3l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158062,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/6DYHFCm0nVsH5td5hYAXFe"
+    },
+    {
+      "album": {
+        "name": "Conexi\u00f3n Garifuna",
+        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 159474,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/05dtKZaWgQmxspDPqDKbfA"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Balabaa",
+      "url": "https://open.spotify.com/track/2R5RYvwBKgNubDJf6gQ59S"
+    },
+    {
+      "album": {
+        "name": "Con el Ritmo Punta, Vol. 1",
+        "url": "https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 395363,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/7rScvdOFYinD8HiBZuvr1L"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401600,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2dflysZU7k5JZk47QeKHCH"
+    },
+    {
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/0QBeVEOHHD8170pvyCfqB3"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 196613,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/5zRGEPFG9SEv9dGRjjxjwz"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/6jceTQXwTqbj4BJGJdlbvg"
+    },
+    {
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196676,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
+    },
+    {
+      "album": {
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 232724,
+      "name": "Biamaangui",
+      "url": "https://open.spotify.com/track/1VzspFOoNXhEEzMqgCNQf9"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233500,
+      "name": "Biamaangui",
+      "url": "https://open.spotify.com/track/0oX5Mhx73vG5xpK0pcl23t"
+    },
+    {
+      "album": {
+        "name": "Bunabou Live",
+        "url": "https://open.spotify.com/album/6ONVn4d2fJceFUoWzv0LEc"
+      },
+      "artists": [
+        {
+          "name": "Xcstacy",
+          "url": "https://open.spotify.com/artist/7ACGfyzJQTp8Lehdcy8tZi"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449201,
+      "name": "Bunabou Live - Live",
+      "url": "https://open.spotify.com/track/3bk84Tl2e3UHheILeVkqIF"
+    },
+    {
+      "album": {
+        "name": "Punta Vibe",
+        "url": "https://open.spotify.com/album/3IJe0vVXjgILY9PMAhrN5f"
+      },
+      "artists": [
+        {
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193751,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3EpsFoq6ZFEQREYblovfHZ"
+    },
+    {
+      "album": {
+        "name": "Punta Gold, Vol. 1",
+        "url": "https://open.spotify.com/album/6kN8KMWQJRLCKJtV06Rkdk"
+      },
+      "artists": [
+        {
+          "name": "Supa G",
+          "url": "https://open.spotify.com/artist/4lJKjqL2fCL4yfNyKhm1sB"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193516,
+      "name": "Carolina (Club Mix)",
+      "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
+    },
+    {
+      "album": {
+        "name": "Mete y Saca",
+        "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
+      },
+      "artists": [
+        {
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 373386,
+      "name": "Cartel Mix",
+      "url": "https://open.spotify.com/track/6Nz76UrhYm9Pr2JTpkKDGP"
+    },
+    {
+      "album": {
+        "name": "Mete Y Saca",
+        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
+      },
+      "artists": [
+        {
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        },
+        {
+          "name": "Nuru Ellis",
+          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 371135,
+      "name": "Cartel Mix",
+      "url": "https://open.spotify.com/track/6U0LsoVro7tsn4aX00YZhT"
+    },
+    {
+      "album": {
+        "name": "La Guerra De Las Puntas",
+        "url": "https://open.spotify.com/album/7MRIkW4ZvHEVWVvoGDieW8"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249933,
+      "name": "Catalina La Coja",
+      "url": "https://open.spotify.com/track/0YRYTEfZUNm1oxEVbJYmWB"
+    },
+    {
+      "album": {
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222432,
+      "name": "Dona Amidi",
+      "url": "https://open.spotify.com/track/6I9E346OLKTAu8bG2ZA6cs"
+    },
+    {
+      "album": {
+        "name": "Puntas Garifunas Con Cache",
+        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 222360,
+      "name": "Dona Amidi",
+      "url": "https://open.spotify.com/track/5Q7E9uJFVw7CEuvCG0W9A5"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 2",
+        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 222360,
+      "name": "Do\u00f1a Amidi",
+      "url": "https://open.spotify.com/track/7mzt7atPwW9oD0wOzl9Ibo"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268226,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/2BO19sAyNwQt795GeR7Yd5"
+    },
+    {
+      "album": {
+        "name": "Fiesta de Punta USA",
+        "url": "https://open.spotify.com/album/08CZ6kTp8bTgIWmmMryA0s"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 268560,
+      "name": "El Amor de una Rosa",
+      "url": "https://open.spotify.com/track/1PZrgNt6DYEcKhK3PHUngt"
+    },
+    {
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "El Encarguito",
+      "url": "https://open.spotify.com/track/4HVA1hDrurIxBFUShrL4if"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/09uhrRQqKBnW5ugfapzP7C"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 299400,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/03Q4wMa2PzvRfgiwJjAJmW"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/5lPNxtT9aKlEglvRoHdLCw"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303266,
+      "name": "El Pato y la Gallina",
+      "url": "https://open.spotify.com/track/1LWk0hrphIPqDorCCzASZF"
+    },
+    {
+      "album": {
+        "name": "Pobre Marinero",
+        "url": "https://open.spotify.com/album/6PISCk0SEOHNFHheKDmUFj"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "En Mi Pais",
+      "url": "https://open.spotify.com/track/78inhCoJFx1M9ZRBG6Nbhp"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449400,
+      "name": "Fiesta",
+      "url": "https://open.spotify.com/track/0DekuxPNx9ImAWQHXldJ9P"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/4vH68G4MKGfdcs49bPpNUF"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/4yCeZVmXYQwCSdvck8zFqg"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 10",
+        "url": "https://open.spotify.com/album/5GTHEoUqGOqsE0tIwLcz0I"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 230870,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/56AynhuITWeIpfjczp8SPu"
+    },
+    {
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186410,
+      "name": "Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/7g4O8xQEMzHDkLmP0YrG14"
+    },
+    {
+      "album": {
+        "name": "Con el Ritmo Punta, Vol. 1",
+        "url": "https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 250540,
+      "name": "Imagenes",
+      "url": "https://open.spotify.com/track/70T2o1RBFIaOImnNiP7J5t"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 255906,
+      "name": "Imagenes",
+      "url": "https://open.spotify.com/track/563dJNGXjnh8SPRmC5plaH"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 8",
+        "url": "https://open.spotify.com/album/3vmeY6fDHyZ0zSe3mTEEBX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325668,
+      "name": "Kazzabe Si Sabe",
+      "url": "https://open.spotify.com/track/62EVmDdeHE4eh3BrjnTSvA"
+    },
+    {
+      "album": {
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/5yPuWd7KMAHHLBQREkz4Jv"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154476,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/5KdTR3wMMQqX37mK0Vzqiz"
+    },
+    {
+      "album": {
+        "name": "La Ametralladora",
+        "url": "https://open.spotify.com/album/4hcuHrnnwvlSFFdZMm63V8"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 154500,
+      "name": "La Ametralladora",
+      "url": "https://open.spotify.com/track/3Ol5CO3rrv4J1jOqODdUN6"
+    },
+    {
+      "album": {
+        "name": "Conexi\u00f3n Garifuna",
+        "url": "https://open.spotify.com/album/2pYj5xdckJb8hGiDP8I689"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/19ypqqNqS4pdiZ4PzCEcLQ"
+    },
+    {
+      "album": {
+        "name": "La Parranda (Sei Sei Bei)",
+        "url": "https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p"
+    },
+    {
+      "album": {
+        "name": "La Parranda (Sei Sei Bei)",
+        "url": "https://open.spotify.com/album/1lLUVEg8aMkpx69devOYo6"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/152nhI6f1tkY0E3ntAWec0"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "La Parranda (Sei Sei Bei)",
+      "url": "https://open.spotify.com/track/3llzQNADFAhTK81sdx2rqR"
+    },
+    {
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
+      },
+      "artists": [
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278151,
+      "name": "La Yuca",
+      "url": "https://open.spotify.com/track/04DMd80zGUt5W21LDDQTI8"
+    },
+    {
+      "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213321,
+      "name": "Laluda Bellu",
+      "url": "https://open.spotify.com/track/2ai1tq6mhy5txOwlEoZeX6"
+    },
+    {
+      "album": {
+        "name": "Puro Exitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 213178,
+      "name": "Laluda Belly",
+      "url": "https://open.spotify.com/track/2cqDTVnHeHN3DTIVdzwOex"
+    },
+    {
+      "album": {
+        "name": "Puro \u00c9xitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 213178,
+      "name": "Laluda Belly",
+      "url": "https://open.spotify.com/track/3IpmaBjOYg4SRJHS7HXnSa"
+    },
+    {
+      "album": {
+        "name": "#SinNombre",
+        "url": "https://open.spotify.com/album/22d3Myqd47RVnNcuVUhZKE"
+      },
+      "artists": [
+        {
+          "name": "Monk!",
+          "url": "https://open.spotify.com/artist/51qXkPsS846b0NBGpA8xIo"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 338364,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3LbCsrnMpVIXxpLE87LVz4"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5I7ThyvKHMomwWQzOog5pr"
+      },
+      "artists": [
+        {
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227760,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/2ubBnAtgJf5aQrYt93AvV2"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 6",
+        "url": "https://open.spotify.com/album/5zKgSHI93j3BpGncORJ87T"
+      },
+      "artists": [
+        {
+          "name": "La Gran Banda",
+          "url": "https://open.spotify.com/artist/7bUAuQ2SZDbUbRgEPPeBBo"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-12",
+      "duration_ms": 227813,
+      "name": "Mandele Gas",
+      "url": "https://open.spotify.com/track/75XWB4hpjYqw7beNddHhhe"
+    },
+    {
+      "album": {
+        "name": "Mete y Saca",
+        "url": "https://open.spotify.com/album/6LZYFwkUpoUd2UiMnsnIeV"
+      },
+      "artists": [
+        {
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 325640,
+      "name": "Mete y Saca",
+      "url": "https://open.spotify.com/track/5VLpKWHfSig8NU1mdsr5Re"
+    },
+    {
+      "album": {
+        "name": "Mete Y Saca",
+        "url": "https://open.spotify.com/album/5UPMmxiqYZOmZoy4yAtFXm"
+      },
+      "artists": [
+        {
+          "name": "Punta Cartel",
+          "url": "https://open.spotify.com/artist/0WJay6Qc1qWjeppQf2TvyM"
+        },
+        {
+          "name": "Nuru Ellis",
+          "url": "https://open.spotify.com/artist/294f384g9SS0tGK9OFn4FN"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 323436,
+      "name": "Mete Y Saca",
+      "url": "https://open.spotify.com/track/7tez2Argy2je4NUQM9eK3y"
+    },
+    {
+      "album": {
+        "name": "Metela Sacala",
+        "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181996,
+      "name": "Metela Sacala",
+      "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
+    },
+    {
+      "album": {
+        "name": "Metela Sacala",
+        "url": "https://open.spotify.com/album/1IWoViU3wYy3dVcoMdNh93"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181983,
+      "name": "Metela Sacala",
+      "url": "https://open.spotify.com/track/3xaCZSSnVHUNIHQab4YdVz"
+    },
+    {
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166557,
+      "name": "Mira Honduras",
+      "url": "https://open.spotify.com/track/0FbnL9EfyZFhJGorVG7GQg"
+    },
+    {
+      "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205072,
+      "name": "Nafagua",
+      "url": "https://open.spotify.com/track/5pbizIzZ5pjYbObsSdixW4"
+    },
+    {
+      "album": {
+        "name": "L\u00e1ndini",
+        "url": "https://open.spotify.com/album/0abBxaGEwuTKkBjTVAysJs"
+      },
+      "artists": [
+        {
+          "name": "Aurelio",
+          "url": "https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179108,
+      "name": "Nando",
+      "url": "https://open.spotify.com/track/4mhUu9hEcGeXsNJZfGGxsH"
+    },
+    {
+      "album": {
+        "name": "Afro Punta 2 Diversity",
+        "url": "https://open.spotify.com/album/7i3icRBoz4sIUhFQsYbjWw"
+      },
+      "artists": [
+        {
+          "name": "Lil June Afro Punta",
+          "url": "https://open.spotify.com/artist/1GGJqRN2ghXJ2w83Nf6FMS"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166027,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/4CHL91BCEIgpqGS8ii1sqN"
+    },
+    {
+      "album": {
+        "name": "Va Ca\u00f1on!",
+        "url": "https://open.spotify.com/album/5RPlUSC5OJHeOuag7HTWUe"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238184,
+      "name": "Otro Amor Llego",
+      "url": "https://open.spotify.com/track/759uPQuPn0hm8ZclHOVRn9"
+    },
+    {
+      "album": {
+        "name": "Con el Ritmo Punta, Vol. 1",
+        "url": "https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306573,
+      "name": "Oye Este Canto",
+      "url": "https://open.spotify.com/track/0jhgnwataSYhdxHF332pZH"
+    },
+    {
+      "album": {
+        "name": "Alegria",
+        "url": "https://open.spotify.com/album/05bmKOrqr3sL0fDM3pOXQW"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309240,
+      "name": "Oye Este Canto Aka Levantando las Manos",
+      "url": "https://open.spotify.com/track/6VHH8EZHnvE2QcL0pipwhY"
+    },
+    {
+      "album": {
+        "name": "Puro \u00c9xitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/6Y2FqU0PxqvjQkYeACquud"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/4o4I53Z5NypMoz5MTsY3Ij"
+    },
+    {
+      "album": {
+        "name": "Puro Exitos: Las Chicas Rolands",
+        "url": "https://open.spotify.com/album/4T4kwbbas6ZdwBYUCVPfeY"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Rolands",
+          "url": "https://open.spotify.com/artist/3EvFD7zFZPxbFpwmhSUrYz"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203232,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/7nVxxifuVHGa97WVNIVoMG"
+    },
+    {
+      "album": {
+        "name": "Hablo Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/4udLcy2RzMNeJ9wlUu6RXh"
+      },
+      "artists": [
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240536,
+      "name": "Pedazo De Mujer",
+      "url": "https://open.spotify.com/track/5neKwHtMhfMCggUrlxrVwW"
+    },
+    {
+      "album": {
+        "name": "Encarguitos Del Caribe",
+        "url": "https://open.spotify.com/album/2ma5OpIYAH0fZm3H23krvR"
+      },
+      "artists": [
+        {
+          "name": "Guillermo Anderson",
+          "url": "https://open.spotify.com/artist/6rxRjKb9HsicUr844FIfpy"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 308920,
+      "name": "Pobre Marinero",
+      "url": "https://open.spotify.com/track/0FqthNlBdnwU3OjPG5Tkml"
+    },
+    {
+      "album": {
+        "name": "Sabor Catracho!, Vol. 3",
+        "url": "https://open.spotify.com/album/5dhtHl14R6ZTQwdEsrH0HT"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Roland's",
+          "url": "https://open.spotify.com/artist/2oLp10TY7Q546LJxtsc2cl"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256116,
+      "name": "Por la Playa",
+      "url": "https://open.spotify.com/track/56NlIztGmrboS6icu0s8us"
+    },
+    {
+      "album": {
+        "name": "Punta MIX 2019",
+        "url": "https://open.spotify.com/album/3ZLQoQNQidVeEyoO3SwM1T"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301342,
+      "name": "Punta MIX 2019",
+      "url": "https://open.spotify.com/track/4w4DKjVsfiOyzrDmmaKkKF"
+    },
+    {
+      "album": {
+        "name": "Punta Mix 2019",
+        "url": "https://open.spotify.com/album/1yUOla9I4KEqzzAJH9JgW7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-27",
+      "duration_ms": 301342,
+      "name": "Punta Mix 2019",
+      "url": "https://open.spotify.com/track/5LP391Nx0za8MUzi9WynnX"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        },
+        {
+          "name": "Los Profesionales",
+          "url": "https://open.spotify.com/artist/4BOQHyVmTsWkwLCerM4vJl"
+        },
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        },
+        {
+          "name": "Los Gatos Bravos",
+          "url": "https://open.spotify.com/artist/4kDAtXl8PRYrjFyhTQr9u9"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-24",
+      "duration_ms": 412400,
+      "name": "Punta Power Mix #1",
+      "url": "https://open.spotify.com/track/4hQmr7JIGZiRdoxfuISc3r"
+    },
+    {
+      "album": {
+        "name": "Batalla de Puntas 3: Power Mix",
+        "url": "https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT"
+      },
+      "artists": [
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        },
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        },
+        {
+          "name": "Los Gatos Bravos",
+          "url": "https://open.spotify.com/artist/23x4x5UNEViCHjSH5OjBFL"
+        },
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        },
+        {
+          "name": "Los Profesionales",
+          "url": "https://open.spotify.com/artist/1TqVXHYQ9N6jdjW0cWDbzs"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 412400,
+      "name": "Punta Power Mix #1",
+      "url": "https://open.spotify.com/track/6ShPz1zUeNRSvqd1PEDbGA"
+    },
+    {
+      "album": {
+        "name": "Batalla de Puntas 3: Power Mix",
+        "url": "https://open.spotify.com/album/61cxt6Q8r6STi4zsGVsKZT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248826,
+      "name": "Punta Raton - Remix",
+      "url": "https://open.spotify.com/track/7oWeHjwwEdPyZZVSV6koR2"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-11",
+      "duration_ms": 248894,
+      "name": "Punta Raton - Remix",
+      "url": "https://open.spotify.com/track/614aWj40s31E4Vc4lGBDd0"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/3xO2uyWrSS2Xty3Kik2BJR"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 248826,
+      "name": "Punta Raton Remix",
+      "url": "https://open.spotify.com/track/6xzNauBXbf3rfOfRbJqjtb"
+    },
+    {
+      "album": {
+        "name": "Puntas Garifunas Con Cache",
+        "url": "https://open.spotify.com/album/7EYnYfNJDRBLWaos0NGw8l"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Punta Raton Remix",
+      "url": "https://open.spotify.com/track/23rClcdGCsb1hR9ijBPnS1"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 1",
+        "url": "https://open.spotify.com/album/4uQrzFTwSjQahcjRUrAdoD"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 282723,
+      "name": "Punta Silver",
+      "url": "https://open.spotify.com/track/6t4Sbn7GLk3yR8UnGFIZr0"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 3",
+        "url": "https://open.spotify.com/album/0kquKUN0kfVN1NX7157B3R"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 342334,
+      "name": "Puntas Criollas",
+      "url": "https://open.spotify.com/track/5wX1o7xplHkvs1zUkUL5sJ"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/1vEUcr8MsYafqKDkSF4ptW"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 443520,
+      "name": "Puntas Garifunas Criollas",
+      "url": "https://open.spotify.com/track/1dIQDYKOOoE4GuUXO5ReV9"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 4",
+        "url": "https://open.spotify.com/album/59GQeMYfmBuPHyI4ZAnnhW"
+      },
+      "artists": [
+        {
+          "name": "Los Silver Star",
+          "url": "https://open.spotify.com/artist/6CTqFWJlzyKHtEcVfdLMsP"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444533,
+      "name": "Puntas Garifunas Criollas 2",
+      "url": "https://open.spotify.com/track/1S9siygLB7ocT52s3Xvlp3"
+    },
+    {
+      "album": {
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/1Jbvn94xFJLtzxVf63RoGB"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/0NEBWdknV109G27t9N6p4C"
+    },
+    {
+      "album": {
+        "name": "Quemala",
+        "url": "https://open.spotify.com/album/0QHUbFYSwO6Y1WmmDulDEg"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "Mr Jc",
+          "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        },
+        {
+          "name": "KD La Caracola",
+          "url": "https://open.spotify.com/artist/4C1zea33GCcaanKPvTbiGy"
+        },
+        {
+          "name": "Jessy Rose",
+          "url": "https://open.spotify.com/artist/70GCrueLWPqtr0HhlyIFAD"
+        },
+        {
+          "name": "Big Nango",
+          "url": "https://open.spotify.com/artist/2pjdmFwCoCFDonp4u6TJEH"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "Quemala",
+      "url": "https://open.spotify.com/track/3cOelkO6uChynlAKzOSu8D"
+    },
+    {
+      "album": {
+        "name": "Batalla de las Puntas, Vol. 2",
+        "url": "https://open.spotify.com/album/7CjRtzPIxKg3a9ZwogMaal"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 255133,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/03qejDacPNFwCdVNg4HVSG"
+    },
+    {
+      "album": {
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255190,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos",
+        "url": "https://open.spotify.com/album/7iI8ptAWVpe9WWhoIlHOZ7"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions",
+          "url": "https://open.spotify.com/artist/00d2syfoHzArTNnxKOMav4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255133,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/6hOVsyMdpk2aZK6zcKnXMK"
+    },
+    {
+      "album": {
+        "name": "Con el Ritmo Punta, Vol. 1",
+        "url": "https://open.spotify.com/album/6EuZoWfCGfjeXVMs06m4K7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289724,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/53FCiG3Gvt6a3ZYExLeOtK"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor de Banda Blanca - 16 Exitos",
+        "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293906,
+      "name": "Sopa de Caracol",
+      "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "album": {
+        "name": "El Otro Yo",
+        "url": "https://open.spotify.com/album/6ybT0RRByP5X6ogdQioyaQ"
+      },
+      "artists": [
+        {
+          "name": "Pilo Tejeda",
+          "url": "https://open.spotify.com/artist/0XVYCj51XvKccyphzKQOAc"
+        },
+        {
+          "name": "Polache",
+          "url": "https://open.spotify.com/artist/407pHQytUNjAXT1tm0AyzY"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195578,
+      "name": "Sopa de Caracol (Remix)",
+      "url": "https://open.spotify.com/track/6NQt5wVpaE1dcwfYmjce7L"
+    },
+    {
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220380,
+      "name": "Suenos",
+      "url": "https://open.spotify.com/track/7C28Z8QbcrEmLRCg1sBW8f"
+    },
+    {
+      "album": {
+        "name": "Saben Quien Llego",
+        "url": "https://open.spotify.com/album/78w7svKazglFlKTtHOYht7"
+      },
+      "artists": [
+        {
+          "name": "Banda Blanca",
+          "url": "https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302000,
+      "name": "Swing Latino",
+      "url": "https://open.spotify.com/track/2kVZfr5MW8w7wc7v6ULwWK"
+    },
+    {
+      "album": {
+        "name": "15 Exitos",
+        "url": "https://open.spotify.com/album/2IngTHJIfGVYyVWDVplvIr"
+      },
+      "artists": [
+        {
+          "name": "Los Roland's",
+          "url": "https://open.spotify.com/artist/5Gczy2Me3LRBiQG5L1egQc"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325250,
+      "name": "Tickita Tickita",
+      "url": "https://open.spotify.com/track/0FELqIlEc43GwHNp5RjldW"
+    },
+    {
+      "album": {
+        "name": "Tik Tok Punta",
+        "url": "https://open.spotify.com/album/4wWYKIyOnM5XRnGHeulW2Y"
+      },
+      "artists": [
+        {
+          "name": "El Profeta Hn",
+          "url": "https://open.spotify.com/artist/5SAevBqeFfy5EKnBtPT1kU"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243539,
+      "name": "Tik Tok Punta",
+      "url": "https://open.spotify.com/track/7iwTstDIwSEaVOZpX0Q7Cg"
+    },
+    {
+      "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/4p7cukDbJpuArJP7IGsYvo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kazzabe",
+          "url": "https://open.spotify.com/artist/5BclDYLlC8kap9AJhDWca3"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 113475,
+      "name": "Vamos Vamos Todos Con la Seleccion",
+      "url": "https://open.spotify.com/track/68qPcByui0DvzHLxZKuVzl"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTOCFhDS6muW"
 }

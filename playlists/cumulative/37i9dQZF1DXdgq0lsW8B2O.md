@@ -4,7 +4,7 @@
 
 > Music from the early days of Ambient.
 
-62 songs - 8 hr 31 min
+63 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Ahoi](https://open.spotify.com/track/7w94KVag541zZxv9NduePc) | [Harmonia](https://open.spotify.com/artist/0tHDVpPzMs1JqKTAuGQkQR) | [Musik von Harmonia](https://open.spotify.com/album/5uPRvwQy9NmNMeEhgs99bW) | 5:13 | 2022-05-27 | 2023-04-29 |
 | [An Index Of Metals V](https://open.spotify.com/track/4dRt8t0VYP8LgobA1QWUvX) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/1nVnbkq96iZzBMp57Xzx1V) | 4:23 | 2023-12-04 |  |
 | [An Index Of Metals V](https://open.spotify.com/track/6eoQETbC7HlbRUOSQg5rHB) | [Robert Fripp](https://open.spotify.com/artist/5HKpBHDxIDNdtmEAGXGntl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Evening Star](https://open.spotify.com/album/6VeZbitYSYxhDJEm7Wf2k4) | 4:23 | 2021-12-23 | 2023-12-24 |
-| [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 |  |
+| [Ancient Leaves](https://open.spotify.com/track/1XWKSNngAvp3hs6w3cFWAs) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/0qTBGDCJp6R5BraUlhZlXq) | 4:35 | 2021-12-23 | 2024-01-14 |
+| [Ancient Leaves](https://open.spotify.com/track/2DmQQYVJwZl9Bb83bDJIzM) | [Michael Stearns](https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD) | [Collected Ambient & Textural Works 1977\-1987](https://open.spotify.com/album/4ACAUURTiEs4lsnHL3em0x) | 4:35 | 2023-12-04 |  |
 | [Aries](https://open.spotify.com/track/33Y2YALzXqMQtBVSDcHOof) | [Iasos](https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd) | [Inter\-Dimensional Music](https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr) | 1:31 | 2021-12-23 |  |
 | [Blues Nile](https://open.spotify.com/track/5LUKpbfB65O9GElkJeJZXh) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0hBGsIGZGWM2CCWuPOLOIy) | 9:54 | 2022-12-30 |  |
 | [Blues Nile](https://open.spotify.com/track/73HxsBZRsP955lFdxb7pQb) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Vernal Equinox \(Remastered\)](https://open.spotify.com/album/0KtsQ4zwAHOENu5ZW1lGgx) | 9:54 | 2021-12-23 | 2023-02-02 |

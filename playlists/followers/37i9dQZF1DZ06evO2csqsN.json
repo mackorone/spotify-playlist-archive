@@ -1,430 +1,1777 @@
 {
-  "2022-10-29": 13192,
-  "2022-10-30": 13207,
-  "2022-10-31": 13219,
-  "2022-11-01": 13231,
-  "2022-11-02": 13244,
-  "2022-11-03": 13254,
-  "2022-11-04": 13268,
-  "2022-11-05": 13284,
-  "2022-11-06": 13309,
-  "2022-11-07": 13316,
-  "2022-11-08": 13326,
-  "2022-11-09": 13336,
-  "2022-11-10": 13360,
-  "2022-11-11": 13380,
-  "2022-11-12": 13424,
-  "2022-11-13": 13451,
-  "2022-11-14": 13475,
-  "2022-11-15": 13493,
-  "2022-11-16": 13513,
-  "2022-11-17": 13538,
-  "2022-11-18": 13548,
-  "2022-11-19": 13565,
-  "2022-11-20": 13606,
-  "2022-11-21": 13650,
-  "2022-11-22": 13688,
-  "2022-11-23": 13732,
-  "2022-11-24": 13790,
-  "2022-11-25": 13842,
-  "2022-11-26": 13883,
-  "2022-11-27": 13926,
-  "2022-11-28": 13954,
-  "2022-11-29": 13990,
-  "2022-11-30": 14019,
-  "2022-12-01": 14054,
-  "2022-12-02": 14073,
-  "2022-12-03": 14122,
-  "2022-12-04": 14165,
-  "2022-12-05": 14189,
-  "2022-12-06": 14214,
-  "2022-12-07": 14244,
-  "2022-12-08": 14256,
-  "2022-12-09": 14274,
-  "2022-12-10": 14303,
-  "2022-12-11": 14328,
-  "2022-12-12": 14348,
-  "2022-12-13": 14365,
-  "2022-12-14": 14391,
-  "2022-12-15": 14417,
-  "2022-12-16": 14430,
-  "2022-12-17": 14461,
-  "2022-12-18": 14482,
-  "2022-12-19": 14504,
-  "2022-12-20": 14566,
-  "2022-12-21": 14566,
-  "2022-12-22": 14588,
-  "2022-12-24": 14623,
-  "2022-12-25": 14640,
-  "2022-12-26": 14665,
-  "2022-12-27": 14680,
-  "2022-12-28": 14700,
-  "2022-12-29": 14722,
-  "2022-12-30": 14747,
-  "2022-12-31": 14775,
-  "2023-01-01": 14799,
-  "2023-01-02": 14828,
-  "2023-01-03": 14855,
-  "2023-01-04": 14874,
-  "2023-01-05": 14894,
-  "2023-01-06": 14922,
-  "2023-01-07": 14960,
-  "2023-01-08": 14965,
-  "2023-01-09": 14997,
-  "2023-01-10": 15011,
-  "2023-01-11": 15034,
-  "2023-01-12": 15053,
-  "2023-01-13": 15078,
-  "2023-01-14": 15109,
-  "2023-01-15": 15121,
-  "2023-01-16": 15132,
-  "2023-01-17": 15150,
-  "2023-01-18": 15183,
-  "2023-01-19": 15205,
-  "2023-01-20": 15222,
-  "2023-01-21": 15249,
-  "2023-01-22": 15279,
-  "2023-01-23": 15309,
-  "2023-01-24": 15341,
-  "2023-01-25": 15358,
-  "2023-01-26": 15382,
-  "2023-01-27": 15399,
-  "2023-01-28": 15422,
-  "2023-01-29": 15446,
-  "2023-01-30": 15468,
-  "2023-01-31": 15468,
-  "2023-02-01": 15529,
-  "2023-02-02": 15560,
-  "2023-02-03": 15595,
-  "2023-02-04": 15621,
-  "2023-02-05": 15665,
-  "2023-02-06": 15695,
-  "2023-02-07": 15738,
-  "2023-02-08": 15813,
-  "2023-02-09": 15813,
-  "2023-02-10": 15837,
-  "2023-02-11": 15868,
-  "2023-02-12": 15909,
-  "2023-02-13": 15932,
-  "2023-02-14": 15932,
-  "2023-02-15": 15941,
-  "2023-02-16": 15963,
-  "2023-02-17": 15989,
-  "2023-02-18": 16058,
-  "2023-02-19": 16067,
-  "2023-02-20": 16086,
-  "2023-02-21": 16106,
-  "2023-02-22": 16134,
-  "2023-02-23": 16152,
-  "2023-02-24": 16172,
-  "2023-02-25": 16196,
-  "2023-02-26": 16220,
-  "2023-02-27": 16267,
-  "2023-02-28": 16267,
-  "2023-03-01": 16292,
-  "2023-03-02": 16320,
-  "2023-03-03": 16340,
-  "2023-03-04": 16358,
-  "2023-03-05": 16408,
-  "2023-03-06": 16408,
-  "2023-03-07": 16430,
-  "2023-03-08": 16452,
-  "2023-03-09": 16478,
-  "2023-03-10": 16494,
-  "2023-03-11": 16508,
-  "2023-03-12": 16537,
-  "2023-03-13": 16554,
-  "2023-03-14": 16572,
-  "2023-03-15": 16590,
-  "2023-03-16": 16590,
-  "2023-03-17": 16590,
-  "2023-03-18": 16650,
-  "2023-03-19": 16650,
-  "2023-03-20": 16699,
-  "2023-03-21": 16728,
-  "2023-03-22": 16743,
-  "2023-03-23": 16766,
-  "2023-03-24": 16766,
-  "2023-03-25": 16812,
-  "2023-03-26": 16838,
-  "2023-03-27": 16854,
-  "2023-03-28": 16869,
-  "2023-03-29": 16892,
-  "2023-03-30": 16930,
-  "2023-03-31": 16930,
-  "2023-04-01": 16958,
-  "2023-04-02": 16972,
-  "2023-04-03": 17005,
-  "2023-04-04": 17018,
-  "2023-04-05": 17040,
-  "2023-04-06": 17069,
-  "2023-04-07": 17101,
-  "2023-04-09": 17156,
-  "2023-04-10": 17175,
-  "2023-04-11": 17214,
-  "2023-04-12": 17214,
-  "2023-04-13": 17231,
-  "2023-04-14": 17251,
-  "2023-04-15": 17279,
-  "2023-04-16": 17303,
-  "2023-04-17": 17324,
-  "2023-04-18": 17347,
-  "2023-04-19": 17380,
-  "2023-04-20": 17409,
-  "2023-04-21": 17453,
-  "2023-04-22": 17489,
-  "2023-04-23": 17527,
-  "2023-04-24": 17562,
-  "2023-04-25": 17585,
-  "2023-04-26": 17603,
-  "2023-04-27": 17630,
-  "2023-04-28": 17656,
-  "2023-04-29": 17673,
-  "2023-04-30": 17698,
-  "2023-05-01": 17712,
-  "2023-05-02": 17738,
-  "2023-05-03": 17755,
-  "2023-05-04": 17774,
-  "2023-05-05": 17804,
-  "2023-05-06": 17825,
-  "2023-05-07": 17839,
-  "2023-05-08": 17859,
-  "2023-05-09": 17887,
-  "2023-05-10": 17900,
-  "2023-05-11": 17927,
-  "2023-05-12": 17951,
-  "2023-05-13": 17985,
-  "2023-05-14": 18021,
-  "2023-05-15": 18041,
-  "2023-05-16": 18062,
-  "2023-05-17": 18087,
-  "2023-05-18": 18122,
-  "2023-05-19": 18147,
-  "2023-05-20": 18192,
-  "2023-05-21": 18192,
-  "2023-05-22": 18192,
-  "2023-05-23": 18241,
-  "2023-05-24": 18288,
-  "2023-05-25": 18295,
-  "2023-05-26": 18325,
-  "2023-05-27": 18341,
-  "2023-05-28": 18357,
-  "2023-05-29": 18357,
-  "2023-05-30": 18409,
-  "2023-05-31": 18427,
-  "2023-06-01": 18456,
-  "2023-06-02": 18478,
-  "2023-06-03": 18522,
-  "2023-06-04": 18542,
-  "2023-06-05": 18563,
-  "2023-06-06": 18589,
-  "2023-06-07": 18619,
-  "2023-06-08": 18651,
-  "2023-06-09": 18666,
-  "2023-06-10": 18699,
-  "2023-06-11": 18734,
-  "2023-06-12": 18754,
-  "2023-06-13": 18768,
-  "2023-06-14": 18799,
-  "2023-06-15": 18834,
-  "2023-06-16": 18868,
-  "2023-06-17": 18896,
-  "2023-06-18": 18916,
-  "2023-06-19": 18938,
-  "2023-06-20": 18955,
-  "2023-06-21": 18987,
-  "2023-06-22": 19010,
-  "2023-06-23": 19035,
-  "2023-06-24": 19061,
-  "2023-06-25": 19092,
-  "2023-06-26": 19124,
-  "2023-06-27": 19160,
-  "2023-06-28": 19207,
-  "2023-06-29": 19245,
-  "2023-06-30": 19271,
-  "2023-07-01": 19350,
-  "2023-07-02": 19350,
-  "2023-07-03": 19385,
-  "2023-07-04": 19416,
-  "2023-07-05": 19445,
-  "2023-07-06": 19502,
-  "2023-07-07": 19502,
-  "2023-07-08": 19502,
-  "2023-07-09": 19561,
-  "2023-07-10": 19591,
-  "2023-07-11": 19618,
-  "2023-07-12": 19638,
-  "2023-07-13": 19711,
-  "2023-07-14": 19757,
-  "2023-07-15": 19814,
-  "2023-07-16": 19891,
-  "2023-07-17": 19944,
-  "2023-07-18": 20000,
-  "2023-07-19": 20038,
-  "2023-07-20": 20070,
-  "2023-07-21": 20113,
-  "2023-07-22": 20154,
-  "2023-07-23": 20191,
-  "2023-07-24": 20224,
-  "2023-07-25": 20272,
-  "2023-07-26": 20315,
-  "2023-07-27": 20368,
-  "2023-07-28": 20419,
-  "2023-07-29": 20462,
-  "2023-07-30": 20507,
-  "2023-07-31": 20555,
-  "2023-08-01": 20597,
-  "2023-08-02": 20630,
-  "2023-08-03": 20666,
-  "2023-08-04": 20699,
-  "2023-08-05": 20724,
-  "2023-08-06": 20794,
-  "2023-08-07": 20794,
-  "2023-08-08": 20819,
-  "2023-08-09": 20833,
-  "2023-08-10": 20861,
-  "2023-08-11": 20900,
-  "2023-08-12": 20900,
-  "2023-08-13": 20900,
-  "2023-08-14": 21009,
-  "2023-08-15": 21009,
-  "2023-08-16": 21009,
-  "2023-08-17": 21009,
-  "2023-08-18": 21009,
-  "2023-08-19": 21009,
-  "2023-08-20": 21226,
-  "2023-08-21": 21226,
-  "2023-08-22": 21301,
-  "2023-08-23": 21301,
-  "2023-08-24": 21301,
-  "2023-08-25": 21301,
-  "2023-08-26": 21418,
-  "2023-08-27": 21418,
-  "2023-08-28": 21471,
-  "2023-08-29": 21471,
-  "2023-08-30": 21471,
-  "2023-08-31": 21562,
-  "2023-09-01": 21589,
-  "2023-09-02": 21589,
-  "2023-09-03": 21589,
-  "2023-09-04": 21589,
-  "2023-09-05": 21589,
-  "2023-09-06": 21589,
-  "2023-09-07": 21589,
-  "2023-09-08": 21589,
-  "2023-09-09": 21589,
-  "2023-09-10": 21910,
-  "2023-09-11": 21910,
-  "2023-09-12": 21910,
-  "2023-09-13": 21910,
-  "2023-09-14": 21910,
-  "2023-09-15": 21910,
-  "2023-09-16": 22098,
-  "2023-09-17": 22098,
-  "2023-09-18": 22098,
-  "2023-09-19": 22171,
-  "2023-09-20": 22171,
-  "2023-09-21": 22171,
-  "2023-09-22": 22234,
-  "2023-09-23": 22234,
-  "2023-09-24": 22234,
-  "2023-09-25": 22234,
-  "2023-09-26": 22345,
-  "2023-09-27": 22345,
-  "2023-09-28": 22345,
-  "2023-09-29": 22345,
-  "2023-09-30": 22345,
-  "2023-10-01": 22345,
-  "2023-10-02": 22345,
-  "2023-10-03": 22345,
-  "2023-10-04": 22345,
-  "2023-10-05": 22345,
-  "2023-10-06": 22345,
-  "2023-10-07": 22345,
-  "2023-10-08": 22345,
-  "2023-10-09": 22345,
-  "2023-10-10": 22345,
-  "2023-10-11": 22933,
-  "2023-10-12": 22933,
-  "2023-10-13": 22933,
-  "2023-10-14": 22933,
-  "2023-10-15": 22933,
-  "2023-10-16": 22933,
-  "2023-10-17": 22933,
-  "2023-10-18": 22933,
-  "2023-10-19": 22933,
-  "2023-10-20": 22933,
-  "2023-10-21": 22933,
-  "2023-10-22": 22933,
-  "2023-10-23": 22933,
-  "2023-10-24": 22933,
-  "2023-10-25": 22933,
-  "2023-10-26": 22933,
-  "2023-10-27": 22933,
-  "2023-10-28": 22933,
-  "2023-10-29": 22933,
-  "2023-10-30": 22933,
-  "2023-10-31": 22933,
-  "2023-11-01": 22933,
-  "2023-11-02": 22933,
-  "2023-11-03": 22933,
-  "2023-11-04": 22933,
-  "2023-11-05": 22933,
-  "2023-11-06": 22933,
-  "2023-11-07": 22933,
-  "2023-11-08": 22933,
-  "2023-11-09": 22933,
-  "2023-11-10": 22933,
-  "2023-11-11": 23654,
-  "2023-11-12": 23654,
-  "2023-11-13": 23654,
-  "2023-11-14": 23654,
-  "2023-11-15": 23654,
-  "2023-11-16": 23654,
-  "2023-11-17": 23654,
-  "2023-11-18": 23654,
-  "2023-11-19": 23654,
-  "2023-11-20": 23654,
-  "2023-11-21": 23654,
-  "2023-11-22": 23654,
-  "2023-11-23": 23654,
-  "2023-11-24": 23654,
-  "2023-11-25": 23654,
-  "2023-11-26": 23654,
-  "2023-11-27": 23654,
-  "2023-11-28": 23654,
-  "2023-11-29": 23654,
-  "2023-11-30": 23654,
-  "2023-12-01": 23654,
-  "2023-12-02": 23654,
-  "2023-12-03": 23654,
-  "2023-12-04": 23654,
-  "2023-12-05": 23654,
-  "2023-12-06": 23654,
-  "2023-12-07": 23654,
-  "2023-12-08": 23654,
-  "2023-12-09": 23654,
-  "2023-12-10": 23654,
-  "2023-12-11": 23654,
-  "2023-12-12": 23654,
-  "2023-12-13": 23654,
-  "2023-12-14": 24181,
-  "2023-12-15": 24194,
-  "2023-12-16": 24208,
-  "2023-12-17": 24220,
-  "2023-12-18": 24245,
-  "2023-12-19": 24252,
-  "2023-12-20": 24255,
-  "2023-12-21": 24262,
-  "2023-12-22": 24285,
-  "2023-12-23": 24307,
-  "2023-12-24": 24332,
-  "2023-12-25": 24345,
-  "2023-12-26": 24360,
-  "2023-12-27": 24367,
-  "2023-12-30": 24419,
-  "2023-12-31": 24438,
-  "2024-01-01": 24449,
-  "2024-01-02": 24466,
-  "2024-01-03": 24469
+  "2024-01-17": 24720,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Latto. The essential tracks, all in one playlist.",
+  "name": "This Is Latto",
+  "tracks": [
+    {
+      "album": {
+        "name": "Thank You For Believing",
+        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168019,
+      "name": "5'5 (feat. Latto)",
+      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 80006,
+      "name": "777 Pt. 1",
+      "url": "https://open.spotify.com/track/4vUeHbV4moHsvwqdwZNEQo"
+    },
+    {
+      "album": {
+        "name": "Another Nasty Song",
+        "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144313,
+      "name": "Another Nasty Song",
+      "url": "https://open.spotify.com/track/6lABMzDz2QUqZXRPvQIkuJ"
+    },
+    {
+      "album": {
+        "name": "B*tch From Da Souf",
+        "url": "https://open.spotify.com/album/5Ux8ZuXz6ojbqiSf2y9iHw"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144047,
+      "name": "B*tch From Da Souf",
+      "url": "https://open.spotify.com/track/6tLWt7gkvvTSjS6OfJjiyJ"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228278,
+      "name": "Baby Wyd (Remix) (feat. Latto & Lakeyah)",
+      "url": "https://open.spotify.com/track/68YgD0MGp48v30D54WtRWR"
+    },
+    {
+      "album": {
+        "name": "Bad Azz",
+        "url": "https://open.spotify.com/album/4BZ79x1VH7uirERbncEfXC"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Dj Infamous",
+          "url": "https://open.spotify.com/artist/6ZBfqjbGZ4WDWN2DQGloKA"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 200876,
+      "name": "Bad Azz (feat. Latto & Benny The Butcher)",
+      "url": "https://open.spotify.com/track/3KtXO2iSrh3uhtupzih5F6"
+    },
+    {
+      "album": {
+        "name": "Big Energy",
+        "url": "https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 173182,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208932,
+      "name": "BILLS PAID (feat. Latto & City Girls)",
+      "url": "https://open.spotify.com/track/0JiLQRLOeWQdPC9rVpOqqo"
+    },
+    {
+      "album": {
+        "name": "missunderstood",
+        "url": "https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u"
+      },
+      "artists": [
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184871,
+      "name": "Bitter (feat. Mulatto)",
+      "url": "https://open.spotify.com/track/5ZEY1dCAOxo8sG7TxuOetA"
+    },
+    {
+      "album": {
+        "name": "Boom Pt. 2 (feat. Latto)",
+        "url": "https://open.spotify.com/album/75BpWyvfedpNBI4YAp6hKU"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Boom Pt. 2 (feat. Latto)",
+      "url": "https://open.spotify.com/track/5mqcRBLYBsAhpbB6gXMyYz"
+    },
+    {
+      "album": {
+        "name": "Booty (feat. Latto)",
+        "url": "https://open.spotify.com/album/3JLGu56kAsK7LO8fZ1vCwF"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Booty (feat. Latto)",
+      "url": "https://open.spotify.com/track/3Ca24oa8tofPtGYuULHXHI"
+    },
+    {
+      "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+    },
+    {
+      "album": {
+        "name": "Champagne Shit (feat. Latto & Quavo) [Remix]",
+        "url": "https://open.spotify.com/album/0zMgVaXm1Zs34DSjr2kFOM"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
+      "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
+    },
+    {
+      "album": {
+        "name": "Clap (feat. Latto)",
+        "url": "https://open.spotify.com/album/4QV6pRdKlVEpeegH4RWVtk"
+      },
+      "artists": [
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 197595,
+      "name": "Clap",
+      "url": "https://open.spotify.com/track/504yGVmAMJVXpS3RGquwwA"
+    },
+    {
+      "album": {
+        "name": "Heart On My Sleeve",
+        "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245653,
+      "name": "Didn't Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1XYlc4sA6LaCEqEtG2VfYf"
+    },
+    {
+      "album": {
+        "name": "Different Breed (feat. Swae Lee & Latto)",
+        "url": "https://open.spotify.com/album/5eJ3QcbxAgOauF9yr9OlCT"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175764,
+      "name": "Different Breed (feat. Swae Lee & Latto)",
+      "url": "https://open.spotify.com/track/6GeNWEE6sxYf5hMO93gw42"
+    },
+    {
+      "album": {
+        "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+        "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
+      },
+      "artists": [
+        {
+          "name": "Chloe x Halle",
+          "url": "https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255180,
+      "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
+      "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    {
+      "album": {
+        "name": "C3",
+        "url": "https://open.spotify.com/album/0x1BgsKX3jBtjat6HApyl6"
+      },
+      "artists": [
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-19",
+      "duration_ms": 187354,
+      "name": "Don't Wanna Leave (feat. Mulatto)",
+      "url": "https://open.spotify.com/track/0FDqNfj7f5WOAd3SMQuvDs"
+    },
+    {
+      "album": {
+        "name": "Down (feat. Latto)",
+        "url": "https://open.spotify.com/album/4fN30wOcfdGOYY1BYDqUHD"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217866,
+      "name": "Down (feat. Latto)",
+      "url": "https://open.spotify.com/track/3tLhjMOfbdRGQNudmIABp4"
+    },
+    {
+      "album": {
+        "name": "Energy (Latto Remix)",
+        "url": "https://open.spotify.com/album/3xMIHLADVU0vpIe2d8U1U1"
+      },
+      "artists": [
+        {
+          "name": "Digga D",
+          "url": "https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 190416,
+      "name": "Energy - Latto Remix",
+      "url": "https://open.spotify.com/track/02quWjvp0fchzqa8uUXDps"
+    },
+    {
+      "album": {
+        "name": "F.N.F. (Let's Go) [Remix]",
+        "url": "https://open.spotify.com/album/6JY12I6Vg26EqjMIJIX3yh"
+      },
+      "artists": [
+        {
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247762,
+      "name": "F.N.F (Let's Go) - Remix",
+      "url": "https://open.spotify.com/track/59DRBDlssFvtWDHsYwCa6q"
+    },
+    {
+      "album": {
+        "name": "Fast Lane",
+        "url": "https://open.spotify.com/album/7JWJByms29HHuFhbu4oBZT"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172584,
+      "name": "Fast Lane",
+      "url": "https://open.spotify.com/track/7KdgN7IfTbm6d9gbdtmhpT"
+    },
+    {
+      "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212293,
+      "name": "FINE AS CAN BE (feat. Latto)",
+      "url": "https://open.spotify.com/track/4HOHEBhH4uUkEGbR1WzlPf"
+    },
+    {
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+    },
+    {
+      "album": {
+        "name": "Drill Season (Extended)",
+        "url": "https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG"
+      },
+      "artists": [
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 144661,
+      "name": "Freak (feat. Latto)",
+      "url": "https://open.spotify.com/track/3L3I2vPDIPXmrX1EDZHP6s"
+    },
+    {
+      "album": {
+        "name": "Freak Show (feat. Latto)",
+        "url": "https://open.spotify.com/album/54D084Zzesufo6NtR6R6Az"
+      },
+      "artists": [
+        {
+          "name": "Yung Bans",
+          "url": "https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 169520,
+      "name": "Freak Show (feat. Latto)",
+      "url": "https://open.spotify.com/track/1W9u0vkcBdxQWqSZnfYgtq"
+    },
+    {
+      "album": {
+        "name": "Freaky As Me",
+        "url": "https://open.spotify.com/album/4DY4dzCmlC0qvZgk62HXru"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129662,
+      "name": "Freaky As Me (feat. latto)",
+      "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "album": {
+        "name": "FreakyT (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/4itQ4SmVRwjURluBAHnxFx"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149384,
+      "name": "FreakyT (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/451acSEXA7pfbMKXoC6vJX"
+    },
+    {
+      "album": {
+        "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+        "url": "https://open.spotify.com/album/5MnLj1SQmw3nr7oTbJgtuB"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Gangsta Boo",
+          "url": "https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "FTCU (feat. GloRilla & Gangsta Boo)",
+      "url": "https://open.spotify.com/track/4lxTmHPgoRWwM9QisWobJL"
+    },
+    {
+      "album": {
+        "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
+        "url": "https://open.spotify.com/album/57mRzPwzFz7cnnuDM4rHMU"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227234,
+      "name": "Go Crazy (Remix) (feat. Young Thug, Future, Lil Durk & Latto)",
+      "url": "https://open.spotify.com/track/1Jz1yhcPm1Yt6aoed3zact"
+    },
+    {
+      "album": {
+        "name": "He Say She Say",
+        "url": "https://open.spotify.com/album/2nGyZR9qS22ChEozzV59tq"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 144761,
+      "name": "He Say She Say",
+      "url": "https://open.spotify.com/track/2wGXzIAux8In47rYvvy1YS"
+    },
+    {
+      "album": {
+        "name": "I Just Called",
+        "url": "https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "I Just Called",
+      "url": "https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX"
+    },
+    {
+      "album": {
+        "name": "I Just Called (feat. Latto) [Acoustic]",
+        "url": "https://open.spotify.com/album/1Uu9vckoyHklvJUMQSs9LO"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "I Just Called (feat. Latto) - Acoustic",
+      "url": "https://open.spotify.com/track/2JDUfuNQUIeCwwydcYcHA0"
+    },
+    {
+      "album": {
+        "name": "Floor Seats II",
+        "url": "https://open.spotify.com/album/0QcZ0udPMK7JkcZW3ptDXV"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118440,
+      "name": "In It (feat. Latto)",
+      "url": "https://open.spotify.com/track/2GDFfYpuDzUjB7gYtNbR8n"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "In n Out (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
+    },
+    {
+      "album": {
+        "name": "Infidelity",
+        "url": "https://open.spotify.com/album/2O5qdzRQlEYhhDoZNdd2bP"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Coca Vango",
+          "url": "https://open.spotify.com/artist/3GeZ2hxlimcfZ7v3qxf5UT"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 259657,
+      "name": "Infidelity",
+      "url": "https://open.spotify.com/track/5amPd782GblY5yfFDQPFoJ"
+    },
+    {
+      "album": {
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "It's Givin",
+      "url": "https://open.spotify.com/track/5h9dlUlCGZahkuaC3MShz3"
+    },
+    {
+      "album": {
+        "name": "Kash App (feat. Mulatto)",
+        "url": "https://open.spotify.com/album/5crkkBiS59S3C9tW3f49tx"
+      },
+      "artists": [
+        {
+          "name": "BRS Kash",
+          "url": "https://open.spotify.com/artist/5jJjvmEwRr8epuGZq4eUUa"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 137034,
+      "name": "Kash App (feat. Mulatto)",
+      "url": "https://open.spotify.com/track/5rcCDtgYpgcrz6NMg4N1Cb"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172137,
+      "name": "Like A Thug (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/363CJiT1VE431JUGLdJEEc"
+    },
+    {
+      "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163481,
+      "name": "Live My Best Life (with Snoop Dogg & Latto)",
+      "url": "https://open.spotify.com/track/7gqlF5gGTO4aSZV2HPkYwm"
+    },
+    {
+      "album": {
+        "name": "Big Latto",
+        "url": "https://open.spotify.com/album/3JfwblqPm4qtegXObm9ZiM"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 161239,
+      "name": "Longway",
+      "url": "https://open.spotify.com/track/25AujQLIytQyTmdEIVRE8V"
+    },
+    {
+      "album": {
+        "name": "Lottery (feat. LU KALA)",
+        "url": "https://open.spotify.com/album/2cMtG6iuA7hXGNb4DHVql4"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "LU KALA",
+          "url": "https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186761,
+      "name": "Lottery (feat. LU KALA)",
+      "url": "https://open.spotify.com/track/1JUtrCqYzJ80tcAzMbCvir"
+    },
+    {
+      "album": {
+        "name": "Top Shotta",
+        "url": "https://open.spotify.com/album/4dsMe3EBC8xURaxMhyorgf"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202954,
+      "name": "Make Em Say (feat. Latto)",
+      "url": "https://open.spotify.com/track/1ocT98kfsdrTKFvVB01cfz"
+    },
+    {
+      "album": {
+        "name": "So Icy Gang: The ReUp",
+        "url": "https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Foogiano",
+          "url": "https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188628,
+      "name": "Meeting (feat. Foogiano & Latto)",
+      "url": "https://open.spotify.com/track/0T6aFFho2pkaYJ4tqjCRxO"
+    },
+    {
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
+        "name": "MMM MMM (The Remix) [feat. ATL Jacob, Latto & Moneybagg Yo]",
+        "url": "https://open.spotify.com/album/1g56wNgEleOMrM0gYypkZF"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 208915,
+      "name": "MMM MMM (The Remix) [feat. ATL Jacob, Latto & Moneybagg Yo]",
+      "url": "https://open.spotify.com/track/4QpNg4wDBtdevpOZFKYabg"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/231WYcXWUxYSx79tuPtzBk"
+    },
+    {
+      "album": {
+        "name": "Muwop (feat. Gucci Mane)",
+        "url": "https://open.spotify.com/album/0CAsNp9Nwk4oC74oYoxntr"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200135,
+      "name": "Muwop (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/3CwcGdFwFF3DfHGGppdI4X"
+    },
+    {
+      "album": {
+        "name": "Naked (feat. Latto)",
+        "url": "https://open.spotify.com/album/28TW8LGKtoq5vu9h8UYcLM"
+      },
+      "artists": [
+        {
+          "name": "2FeetBino",
+          "url": "https://open.spotify.com/artist/5sw4vau0N1fwalr2ACVN9M"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-29",
+      "duration_ms": 174545,
+      "name": "Naked (feat. Latto)",
+      "url": "https://open.spotify.com/track/4aQNaW6LKNMa0FEToHWSmc"
+    },
+    {
+      "album": {
+        "name": "No Hook",
+        "url": "https://open.spotify.com/album/0hyrMfQMMX09fOOsnOuhQ8"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 103488,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/5HyUymevRIBqIlHfmup8Sz"
+    },
+    {
+      "album": {
+        "name": "Hit The Latto",
+        "url": "https://open.spotify.com/album/3lPb5PGWUAbT2iJxBvrVeE"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-23",
+      "duration_ms": 153716,
+      "name": "No Panties",
+      "url": "https://open.spotify.com/track/4XWQVpZtYsyvVMP99H415j"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113237,
+      "name": "On God",
+      "url": "https://open.spotify.com/track/7ySc8EB354qhPQKmOw4td0"
+    },
+    {
+      "album": {
+        "name": "One Light (feat. Yung Bleu) [Remix]",
+        "url": "https://open.spotify.com/album/5TxZmM9IdN5oW011lKIk6g"
+      },
+      "artists": [
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        },
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195480,
+      "name": "One Light (feat. Yung Bleu) - Remix",
+      "url": "https://open.spotify.com/track/3jzn67cGKBRSogFuWYoYpA"
+    },
+    {
+      "album": {
+        "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+        "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
+      },
+      "artists": [
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
+      "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 156257,
+      "name": "Pull Up (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/0jlvmFdNJornvbrXIB4aqI"
+    },
+    {
+      "album": {
+        "name": "PUSSY",
+        "url": "https://open.spotify.com/album/2RJKx64TCTSA1rbwh3C3ib"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "PUSSY",
+      "url": "https://open.spotify.com/track/7ycQto0UwGtuugO5ztmpdO"
+    },
+    {
+      "album": {
+        "name": "Put It On Da Floor",
+        "url": "https://open.spotify.com/album/6t8NaWyCTONzie6RKcK7TS"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181437,
+      "name": "Put It On Da Floor",
+      "url": "https://open.spotify.com/track/1HYfsZnq3EXwK7SV8tYPoT"
+    },
+    {
+      "album": {
+        "name": "Put It On Da Floor Again (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185748,
+      "name": "Put It On Da Floor Again (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa"
+    },
+    {
+      "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190378,
+      "name": "Quarantine Thick (feat. Latto)",
+      "url": "https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk"
+    },
+    {
+      "album": {
+        "name": "Rain Down (feat. PnB Rock & Latto)",
+        "url": "https://open.spotify.com/album/355DHb4BopJuvV7YWW0IG6"
+      },
+      "artists": [
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 233106,
+      "name": "Rain Down (feat. PnB Rock & Latto)",
+      "url": "https://open.spotify.com/track/3j2c4L32wU4LkILIkDzqse"
+    },
+    {
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161538,
+      "name": "Sex Lies (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/1ptsownbhGmvBKmE7IMv3p"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry (Remix)",
+        "url": "https://open.spotify.com/album/6M1ijwO8XZ44VTFxdsPlV2"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Omeretta the Great",
+          "url": "https://open.spotify.com/artist/3wFzTRAvCLEACzbRmgBEHx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 195191,
+      "name": "Sorry Not Sorry - Remix",
+      "url": "https://open.spotify.com/track/7AhgEWQWDBalQrdeidAWzR"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 110769,
+      "name": "Soufside",
+      "url": "https://open.spotify.com/track/7aQckZHyuls0Oa9LjUISDu"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf (Extended Version) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/4A7UKf6fz7Vn7jxWE5OYXv"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 161280,
+      "name": "Step It Up",
+      "url": "https://open.spotify.com/track/4tpSjqtLO12aIUHcSBR9rp"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147878,
+      "name": "Stepper (feat. Nardo Wick)",
+      "url": "https://open.spotify.com/track/7Cc0nFTbzoNvRLo2CTAq66"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
+      "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "album": {
+        "name": "Technique (Sprite Limelight)",
+        "url": "https://open.spotify.com/album/2fXNBsNfcZUTQmoDpvXzy1"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Eric B. & Rakim",
+          "url": "https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv"
+        }
+      ],
+      "date_added": "2023-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 143827,
+      "name": "Technique (Sprite Limelight)",
+      "url": "https://open.spotify.com/track/0E4Y7tBeOg2EhVW8y3sdSK"
+    },
+    {
+      "album": {
+        "name": "The Biggest",
+        "url": "https://open.spotify.com/album/1uEXYHpsTQBHG5c6lRVaSE"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 143333,
+      "name": "The Biggest",
+      "url": "https://open.spotify.com/track/2b3mMAnExnoWf9UM2VnTYt"
+    },
+    {
+      "album": {
+        "name": "The Grinch Freestyle (feat. Latto)",
+        "url": "https://open.spotify.com/album/0KhgQpucTFLcuiIWxdGLS1"
+      },
+      "artists": [
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146673,
+      "name": "The Grinch Freestyle (feat. Latto)",
+      "url": "https://open.spotify.com/track/2ZV5AvOBqnNjGa5pgLmSOl"
+    },
+    {
+      "album": {
+        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226542,
+      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
+    },
+    {
+      "album": {
+        "name": "Baby23",
+        "url": "https://open.spotify.com/album/24BUwYiW8uDG5tBV428gBY"
+      },
+      "artists": [
+        {
+          "name": "JayDaYoungan",
+          "url": "https://open.spotify.com/artist/0E3pLs4jXz9tDQGY8m1A1d"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 137615,
+      "name": "Touch Your Toes (feat. Latto)",
+      "url": "https://open.spotify.com/track/6ihOIyQU6nvqHG5wJtofEM"
+    },
+    {
+      "album": {
+        "name": "Wet (feat. Latto) [Remix]",
+        "url": "https://open.spotify.com/album/3NtnKtkelOxhTuXSN2HBJL"
+      },
+      "artists": [
+        {
+          "name": "YFN Lucci",
+          "url": "https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211917,
+      "name": "Wet (feat. Latto) - Remix",
+      "url": "https://open.spotify.com/track/1rxXjDzwNSP36csjm7Zmzf"
+    },
+    {
+      "album": {
+        "name": "Wheelie (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/5gwTtcUw2dHvT1x9ad49ag"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/2BxboWjnfktO1E9HGfPXq1"
+    },
+    {
+      "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 170270,
+      "name": "Wheelie (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5lrAnzvRBQSgAkpo0WkMjB"
+    },
+    {
+      "album": {
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 104824,
+      "name": "Youngest N Richest",
+      "url": "https://open.spotify.com/track/2TctO4deS9kABuiQ7070R1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2csqsN"
 }

@@ -1,9 +1,973 @@
 {
-  "2023-12-26": 45521,
-  "2023-12-27": 45836,
-  "2023-12-30": 46170,
-  "2023-12-31": 46246,
-  "2024-01-01": 46274,
-  "2024-01-02": 46363,
-  "2024-01-03": 46370
+  "2024-01-17": 46190,
+  "date_first_scraped": "2023-12-26",
+  "description": "The tracklist to your holiday movie soundtrack. ",
+  "name": "Holiday Movie Hits",
+  "tracks": [
+    {
+      "album": {
+        "name": "Christmas (Baby, Please Come Home)",
+        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249146,
+      "name": "All Alone on Christmas",
+      "url": "https://open.spotify.com/track/7kwAGjaoIvIEfL2poi9A1U"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Elf (Music from the Major Motion Picture)",
+        "url": "https://open.spotify.com/album/2FAdasepbd5GxXtoFofkDJ"
+      },
+      "artists": [
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Leon Redbone",
+          "url": "https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212426,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/0rzY0whyLE68ENX7mvoHAN"
+    },
+    {
+      "album": {
+        "name": "The Polar Express (Original Motion Picture Soundtrack) [Special Edition]",
+        "url": "https://open.spotify.com/album/64jNt6b5Ds4itNEXTpk9Fk"
+      },
+      "artists": [
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/2vJAjPkVMPKkR3xd2wacZa"
+    },
+    {
+      "album": {
+        "name": "Elvis' Christmas Album",
+        "url": "https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129173,
+      "name": "Blue Christmas",
+      "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
+    },
+    {
+      "album": {
+        "name": "Happiest Season (Music from and Inspired by the Film)",
+        "url": "https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212386,
+      "name": "Candy Cane Lane",
+      "url": "https://open.spotify.com/track/02tDqMrg969BoG5s6TBnbh"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "Mykola Dmytrovych Leontovych",
+          "url": "https://open.spotify.com/artist/6lBN3Tzt61u8i9AJoAhKzF"
+        },
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85266,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175533,
+      "name": "Christmas at Hogwarts",
+      "url": "https://open.spotify.com/track/4WPw9shOzxaA4cWws44Xjd"
+    },
+    {
+      "album": {
+        "name": "Love Actually (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/4Kw7yE7xBZdHrvkTswoQq4"
+      },
+      "artists": [
+        {
+          "name": "Billy Mack",
+          "url": "https://open.spotify.com/artist/1I42E6vHKlGhggG55hvVtx"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228480,
+      "name": "Christmas Is All Around - Soundtrack Version",
+      "url": "https://open.spotify.com/track/2bWizjWMdoTFUmMdaZsZsi"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163093,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2lfqRceJLjF8rSeo5P7SWW"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/11g9GgpchfORJxVEYFFDoL"
+    },
+    {
+      "album": {
+        "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
+        "url": "https://open.spotify.com/album/6qYG4uLVAQdaLydH5Ijed4"
+      },
+      "artists": [
+        {
+          "name": "Shameik Moore",
+          "url": "https://open.spotify.com/artist/2GotSKYxVNpUhP64wN6DCP"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182158,
+      "name": "First Christmas (That I Loved You) [From The Netflix Film Let It Snow]",
+      "url": "https://open.spotify.com/track/0P3sSG4qAHjXneOnltU4FB"
+    },
+    {
+      "album": {
+        "name": "A Christmas Gift For You From Phil Spector",
+        "url": "https://open.spotify.com/album/2kzkwgOFAtRsDsas5Hi0Qu"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136306,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/7n5m8nDAnyXo81tr4B3Bcw"
+    },
+    {
+      "album": {
+        "name": "Grandma Got Run Over By A Reindeer",
+        "url": "https://open.spotify.com/album/2n25GhNkqXYlWC9gWWpvUG"
+      },
+      "artists": [
+        {
+          "name": "Dr. Elmo",
+          "url": "https://open.spotify.com/artist/18v4RC49TBlah2kOk9OIfr"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "Grandma Got Run Over By A Reindeer",
+      "url": "https://open.spotify.com/track/1ghnWU6qe50djdknWRMAxi"
+    },
+    {
+      "album": {
+        "name": "The Holiday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Gumption",
+      "url": "https://open.spotify.com/track/207Bvb5saweIULXphE94Y8"
+    },
+    {
+      "album": {
+        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157506,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1BMmB1L5PbedWBAFl3xf27"
+    },
+    {
+      "album": {
+        "name": "Rudolph The Red Nosed Reindeer And Other Christmas Classics",
+        "url": "https://open.spotify.com/album/3BPDSjoJlho8oiUPUNrShM"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version",
+      "url": "https://open.spotify.com/track/25leEEaz1gIpp7o21Fqyjo"
+    },
+    {
+      "album": {
+        "name": "The Guardians of the Galaxy Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M"
+      },
+      "artists": [
+        {
+          "name": "Kevin Bacon",
+          "url": "https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz"
+        },
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Here It Is Christmastime",
+      "url": "https://open.spotify.com/track/2yQLP5RVrvJgkViKronxrK"
+    },
+    {
+      "album": {
+        "name": "Holiday Road",
+        "url": "https://open.spotify.com/album/7H5J8i2zpo24z71bUyv8BX"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Buckingham",
+          "url": "https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131520,
+      "name": "Holiday Road - National Lampoon's Vacation",
+      "url": "https://open.spotify.com/track/38i0QcGQ9hu8PMk4QObUTj"
+    },
+    {
+      "album": {
+        "name": "It's Christmas, Eve (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AKlrhnIEBP30JVMGyustQ"
+      },
+      "artists": [
+        {
+          "name": "LeAnn Rimes",
+          "url": "https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "I Still Believe in Santa Claus - North Pole Mix",
+      "url": "https://open.spotify.com/track/3TZgrPPkcfK9Ti1vibMTOD"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104973,
+      "name": "Ice Dance",
+      "url": "https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Christmas Present",
+          "url": "https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "It Feels Like Christmas",
+      "url": "https://open.spotify.com/track/1abiHuQJw6UZyFkekr7DDY"
+    },
+    {
+      "album": {
+        "name": "When Harry Met Sally... Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv"
+      },
+      "artists": [
+        {
+          "name": "Harry Connick, Jr.",
+          "url": "https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158226,
+      "name": "It Had to Be You (Big Band and Vocals)",
+      "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
+    },
+    {
+      "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "It's Beginning To Look Like Christmas",
+      "url": "https://open.spotify.com/track/44mYhOVgerj2qPjkGDVA6n"
+    },
+    {
+      "album": {
+        "name": "Shostakovich: The Jazz Album",
+        "url": "https://open.spotify.com/album/6SXNiFijYukedJeDjMosO2"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Jazz Suite No. 2: VI. Waltz II",
+      "url": "https://open.spotify.com/track/3tcorTc2qAByPxoCr8IsMx"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130200,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0MKnGJzNdEqOscI6xu9R3m"
+    },
+    {
+      "album": {
+        "name": "Falling For Christmas (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1fWXgDJjcIcxM2g7gGqlxI"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lohan",
+          "url": "https://open.spotify.com/artist/4vRSocKbGh7PsQrYRDVMEF"
+        },
+        {
+          "name": "Ali Tomineek",
+          "url": "https://open.spotify.com/artist/2KcaO0L5eaYU8MwfAFmBlM"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176279,
+      "name": "Jingle Bell Rock (from the Netflix Film \"Falling For Christmas\")",
+      "url": "https://open.spotify.com/track/4KAPXkeYjookHj1SQzXkRE"
+    },
+    {
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "Joy to the World (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/0sKAxwRubZuqKadRspVY96"
+    },
+    {
+      "album": {
+        "name": "George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3rLjiJI34bHFNIFqeK3y9s"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/38p8YDx5gepOiK4SnEfoB4"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "album": {
+        "name": "Get Weird (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197786,
+      "name": "Love Me Like You",
+      "url": "https://open.spotify.com/track/6L2uVVPJA9WcDc7zCZ4DHN"
+    },
+    {
+      "album": {
+        "name": "Elf (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/5bxgDFR2u7XiGmmfPRC881"
+      },
+      "artists": [
+        {
+          "name": "John Debney",
+          "url": "https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/05A44JvvE9McpmTDG0HNvJ"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
+        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/6E5SW8hID03jCoUQG1BApL"
+    },
+    {
+      "album": {
+        "name": "Snowed In",
+        "url": "https://open.spotify.com/album/564uqr2elEUQySk2eKFp6V"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193160,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/0YfqNEJAThiWwfsMbGlRPQ"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
+    },
+    {
+      "album": {
+        "name": "Scrooged - Original Soundtrack",
+        "url": "https://open.spotify.com/album/2EQUGN09XSiGk3RUV7alOH"
+      },
+      "artists": [
+        {
+          "name": "Al Green",
+          "url": "https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93"
+        },
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "Put A Little Love In Your Heart",
+      "url": "https://open.spotify.com/track/6f3qM66jblEV37tJcrfjwQ"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "album": {
+        "name": "The Essential Eartha Kitt",
+        "url": "https://open.spotify.com/album/3YYxlTrYciDHu3j7E5wGrZ"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/1vZKP9XURuqMp1SpXGnoyb"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Scrooge",
+          "url": "https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "Thankful Heart",
+      "url": "https://open.spotify.com/track/10gNJKknyceHIU2jEwUq1t"
+    },
+    {
+      "album": {
+        "name": "What the Hell Happened to Me?",
+        "url": "https://open.spotify.com/album/3Yfv7YSzNFCkAFkrg0YaPp"
+      },
+      "artists": [
+        {
+          "name": "Adam Sandler",
+          "url": "https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "The Chanukah Song",
+      "url": "https://open.spotify.com/track/6doSV1UQjyKxiNCnBnDTeG"
+    },
+    {
+      "album": {
+        "name": "Christmas With The Chipmunks (2010)",
+        "url": "https://open.spotify.com/album/3X7elwYMwXz3flSYNtSfHQ"
+      },
+      "artists": [
+        {
+          "name": "Alvin & The Chipmunks",
+          "url": "https://open.spotify.com/artist/1SCWcYnoEh1978ycTDhZoW"
+        },
+        {
+          "name": "David Seville",
+          "url": "https://open.spotify.com/artist/4NI5R1DbX27ODY5JTqnv2l"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141466,
+      "name": "The Chipmunk Song (Christmas Don't Be Late) - Remastered 1999",
+      "url": "https://open.spotify.com/track/02NKMA9cIkq6VuBNu9q9Wf"
+    },
+    {
+      "album": {
+        "name": "This Christmas - Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/3W6PmtGTyLwWBWUYplSWHT"
+    },
+    {
+      "album": {
+        "name": "The Snowman",
+        "url": "https://open.spotify.com/album/6EIjBXAl4Xv7Z353KnjSXD"
+      },
+      "artists": [
+        {
+          "name": "Howard Blake",
+          "url": "https://open.spotify.com/artist/3Hf08nPu2dPY3sdngyHQei"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "Walking in the Air - The Story of the Snowman edit",
+      "url": "https://open.spotify.com/track/2SlPxY0UmlVdCnGMfXFTLK"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss' How The Grinch Stole Christmas",
+        "url": "https://open.spotify.com/album/3eWFPHtloHTw9Ilod4Ivi6"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247040,
+      "name": "Where Are You Christmas - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack",
+      "url": "https://open.spotify.com/track/1msuiw6pnXYfxZ7Edyit9U"
+    },
+    {
+      "album": {
+        "name": "Holiday Inn (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ZZvKnA1YJ2KcwjMmHBinq"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177480,
+      "name": "White Christmas - 1947 Version",
+      "url": "https://open.spotify.com/track/4so0Wek9Ig1p6CRCHuINwW"
+    },
+    {
+      "album": {
+        "name": "Meet Me In St. Louis (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29vvOZZDLLZavty2hkZySE"
+      },
+      "artists": [
+        {
+          "name": "MGM Studio Orchestra",
+          "url": "https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1"
+        },
+        {
+          "name": "Georgie Stoll",
+          "url": "https://open.spotify.com/artist/2tP6jN57QfGI0IOUhShSUq"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46133,
+      "name": "Winter In St. Louis",
+      "url": "https://open.spotify.com/track/4hR1I8PGsnERdIDW8izZeZ"
+    },
+    {
+      "album": {
+        "name": "How The Grinch Stole Christmas",
+        "url": "https://open.spotify.com/album/13cUx8LoPoOcG4LEeRBv2q"
+      },
+      "artists": [
+        {
+          "name": "Thurl Ravenscroft",
+          "url": "https://open.spotify.com/artist/5Gejwv3xz2DpLcxVpMD6hL"
+        }
+      ],
+      "date_added": "2023-11-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "You're A Mean One, Mr. Grinch",
+      "url": "https://open.spotify.com/track/6ZgigeSB0XUMqc0jjzaq6d"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbjYER0JjzBA"
 }

@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-123 songs - 6 hr 14 min
+124 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Ghostwriter](https://open.spotify.com/track/5Nn2Dj7OQsGL6pgQ9iIzPp) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 5:17 | 2022-07-22 | 2023-12-23 |
 | [Gold Plated](https://open.spotify.com/track/1p0vYiUriWNU5mKQnOFJWI) | [Redmoo](https://open.spotify.com/artist/59tLQ8AXKT9z2gziMX8HWu) | [Gold Plated](https://open.spotify.com/album/1rOtwbR2qwBhi8k5OSXLVd) | 2:13 | 2022-07-22 |  |
 | [Got to Go](https://open.spotify.com/track/5hIRHOXg8dv1fVMZ7NyRml) | [George Fields](https://open.spotify.com/artist/2YJ9heXWEDypzrXDW19hDr) | [Beyond Realm](https://open.spotify.com/album/6K3eHQQo1vbmNJLSRd7GIM) | 1:21 | 2023-08-31 |  |
+| [Graphic Clouds](https://open.spotify.com/track/0wBHcdgue2NCTvRi7bvw9m) | [Petrovich](https://open.spotify.com/artist/5mtsmVXsFtAmREpnaKG7Pj), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Graphic Clouds](https://open.spotify.com/album/0lktA8ylU5lDV6SM62FaAu) | 2:29 | 2024-01-07 |  |
 | [Grateful](https://open.spotify.com/track/6ZVfA9zMVdCSjhVWVFO140) | [Mecca:83](https://open.spotify.com/artist/6vnaQxMvQcQiCUijgMqldY) | [Grateful](https://open.spotify.com/album/4OuX7CRHP3yoXY18gzffCC) | 2:18 | 2022-07-22 |  |
 | [Halftime \- Instrumental](https://open.spotify.com/track/0WkpsfwbaflRTlgY7wHfAY) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Halftime EP](https://open.spotify.com/album/4fxnbKn90JmmqKReeQbJRk) | 4:20 | 2023-03-02 |  |
 | [Hip 2 Da Game \- Instrumental](https://open.spotify.com/track/6Jw7ft5Rvh1IPRRfacqhCi) | [Lord Finesse](https://open.spotify.com/artist/1C6G15UmVQMDGpYbdsf1Oi) | [The Awakening \[25th Anniversary \(Remaster\)\]](https://open.spotify.com/album/43t9Lys7dVlwBeQQ5Hmf1q) | 4:03 | 2022-07-22 |  |

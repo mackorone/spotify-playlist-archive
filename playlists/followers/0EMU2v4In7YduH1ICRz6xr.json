@@ -1,290 +1,441 @@
 {
-  "2023-03-19": 1810,
-  "2023-03-20": 1817,
-  "2023-03-21": 1824,
-  "2023-03-22": 1832,
-  "2023-03-23": 1833,
-  "2023-03-24": 1833,
-  "2023-03-25": 1841,
-  "2023-03-26": 1846,
-  "2023-03-27": 1852,
-  "2023-03-28": 1860,
-  "2023-03-29": 1863,
-  "2023-03-30": 1871,
-  "2023-03-31": 1871,
-  "2023-04-01": 1884,
-  "2023-04-02": 1893,
-  "2023-04-03": 1896,
-  "2023-04-04": 1905,
-  "2023-04-05": 1905,
-  "2023-04-06": 1912,
-  "2023-04-07": 1912,
-  "2023-04-09": 1925,
-  "2023-04-10": 1929,
-  "2023-04-11": 1937,
-  "2023-04-12": 1937,
-  "2023-04-13": 1936,
-  "2023-04-14": 1940,
-  "2023-04-15": 1948,
-  "2023-04-16": 1954,
-  "2023-04-17": 1958,
-  "2023-04-18": 1960,
-  "2023-04-19": 1958,
-  "2023-04-20": 1958,
-  "2023-04-21": 1964,
-  "2023-04-22": 1966,
-  "2023-04-23": 1967,
-  "2023-04-24": 1968,
-  "2023-04-25": 1968,
-  "2023-04-26": 1969,
-  "2023-04-27": 1968,
-  "2023-04-28": 1969,
-  "2023-04-29": 1979,
-  "2023-04-30": 1983,
-  "2023-05-01": 1987,
-  "2023-05-02": 1989,
-  "2023-05-03": 1996,
-  "2023-05-04": 1999,
-  "2023-05-05": 1999,
-  "2023-05-06": 2006,
-  "2023-05-07": 2012,
-  "2023-05-08": 2018,
-  "2023-05-09": 2023,
-  "2023-05-10": 2024,
-  "2023-05-11": 2031,
-  "2023-05-12": 2033,
-  "2023-05-13": 2032,
-  "2023-05-14": 2036,
-  "2023-05-15": 2039,
-  "2023-05-16": 2038,
-  "2023-05-17": 2040,
-  "2023-05-18": 2044,
-  "2023-05-19": 2044,
-  "2023-05-20": 2052,
-  "2023-05-21": 2052,
-  "2023-05-22": 2052,
-  "2023-05-23": 2063,
-  "2023-05-24": 2068,
-  "2023-05-25": 2068,
-  "2023-05-26": 2074,
-  "2023-05-27": 2076,
-  "2023-05-28": 2083,
-  "2023-05-29": 2083,
-  "2023-05-30": 2089,
-  "2023-05-31": 2088,
-  "2023-06-01": 2091,
-  "2023-06-02": 2091,
-  "2023-06-03": 2095,
-  "2023-06-04": 2099,
-  "2023-06-05": 2102,
-  "2023-06-06": 2106,
-  "2023-06-07": 2109,
-  "2023-06-08": 2110,
-  "2023-06-09": 2113,
-  "2023-06-10": 2116,
-  "2023-06-11": 2119,
-  "2023-06-12": 2122,
-  "2023-06-13": 2123,
-  "2023-06-14": 2123,
-  "2023-06-15": 2129,
-  "2023-06-16": 2129,
-  "2023-06-17": 2132,
-  "2023-06-18": 2134,
-  "2023-06-19": 2134,
-  "2023-06-20": 2138,
-  "2023-06-21": 2139,
-  "2023-06-22": 2142,
-  "2023-06-23": 2141,
-  "2023-06-24": 2142,
-  "2023-06-25": 2145,
-  "2023-06-26": 2146,
-  "2023-06-27": 2149,
-  "2023-06-28": 2151,
-  "2023-06-29": 2153,
-  "2023-06-30": 2159,
-  "2023-07-01": 2161,
-  "2023-07-02": 2161,
-  "2023-07-03": 2162,
-  "2023-07-04": 2164,
-  "2023-07-05": 2166,
-  "2023-07-06": 2170,
-  "2023-07-07": 2170,
-  "2023-07-08": 2173,
-  "2023-07-09": 2175,
-  "2023-07-10": 2179,
-  "2023-07-11": 2180,
-  "2023-07-12": 2185,
-  "2023-07-13": 2187,
-  "2023-07-14": 2189,
-  "2023-07-15": 2190,
-  "2023-07-16": 2193,
-  "2023-07-17": 2198,
-  "2023-07-18": 2198,
-  "2023-07-19": 2201,
-  "2023-07-20": 2201,
-  "2023-07-21": 2202,
-  "2023-07-22": 2203,
-  "2023-07-23": 2206,
-  "2023-07-24": 2210,
-  "2023-07-25": 2217,
-  "2023-07-26": 2217,
-  "2023-07-27": 2220,
-  "2023-07-28": 2220,
-  "2023-07-29": 2222,
-  "2023-07-30": 2222,
-  "2023-07-31": 2224,
-  "2023-08-01": 2225,
-  "2023-08-02": 2226,
-  "2023-08-03": 2227,
-  "2023-08-04": 2230,
-  "2023-08-05": 2229,
-  "2023-08-06": 2233,
-  "2023-08-07": 2233,
-  "2023-08-08": 2235,
-  "2023-08-09": 2235,
-  "2023-08-10": 2234,
-  "2023-08-11": 2236,
-  "2023-08-12": 2236,
-  "2023-08-13": 2237,
-  "2023-08-14": 2238,
-  "2023-08-15": 2243,
-  "2023-08-16": 2243,
-  "2023-08-17": 2249,
-  "2023-08-18": 2250,
-  "2023-08-19": 2249,
-  "2023-08-20": 2253,
-  "2023-08-21": 2254,
-  "2023-08-22": 2252,
-  "2023-08-23": 2256,
-  "2023-08-24": 2255,
-  "2023-08-25": 2256,
-  "2023-08-26": 2258,
-  "2023-08-27": 2260,
-  "2023-08-28": 2261,
-  "2023-08-29": 2261,
-  "2023-08-30": 2261,
-  "2023-08-31": 2264,
-  "2023-09-01": 2265,
-  "2023-09-02": 2265,
-  "2023-09-03": 2267,
-  "2023-09-04": 2269,
-  "2023-09-05": 2271,
-  "2023-09-06": 2271,
-  "2023-09-07": 2271,
-  "2023-09-08": 2274,
-  "2023-09-09": 2273,
-  "2023-09-10": 2278,
-  "2023-09-11": 2281,
-  "2023-09-12": 2281,
-  "2023-09-13": 2281,
-  "2023-09-14": 2282,
-  "2023-09-15": 2283,
-  "2023-09-16": 2283,
-  "2023-09-17": 2283,
-  "2023-09-18": 2285,
-  "2023-09-19": 2286,
-  "2023-09-20": 2287,
-  "2023-09-21": 2287,
-  "2023-09-22": 2288,
-  "2023-09-23": 2291,
-  "2023-09-24": 2295,
-  "2023-09-25": 2297,
-  "2023-09-26": 2297,
-  "2023-09-27": 2298,
-  "2023-09-28": 2299,
-  "2023-09-29": 2301,
-  "2023-09-30": 2302,
-  "2023-10-01": 2303,
-  "2023-10-02": 2304,
-  "2023-10-03": 2304,
-  "2023-10-04": 2304,
-  "2023-10-05": 2305,
-  "2023-10-06": 2306,
-  "2023-10-07": 2306,
-  "2023-10-08": 2307,
-  "2023-10-09": 2307,
-  "2023-10-10": 2309,
-  "2023-10-11": 2311,
-  "2023-10-12": 2311,
-  "2023-10-13": 2312,
-  "2023-10-14": 2317,
-  "2023-10-15": 2320,
-  "2023-10-16": 2322,
-  "2023-10-17": 2322,
-  "2023-10-18": 2323,
-  "2023-10-19": 2325,
-  "2023-10-20": 2330,
-  "2023-10-21": 2331,
-  "2023-10-22": 2328,
-  "2023-10-23": 2328,
-  "2023-10-24": 2334,
-  "2023-10-25": 2335,
-  "2023-10-26": 2337,
-  "2023-10-27": 2338,
-  "2023-10-28": 2339,
-  "2023-10-29": 2338,
-  "2023-10-30": 2341,
-  "2023-10-31": 2341,
-  "2023-11-01": 2339,
-  "2023-11-02": 2340,
-  "2023-11-03": 2340,
-  "2023-11-04": 2343,
-  "2023-11-05": 2340,
-  "2023-11-06": 2336,
-  "2023-11-07": 2338,
-  "2023-11-08": 2339,
-  "2023-11-09": 2339,
-  "2023-11-10": 2340,
-  "2023-11-11": 2338,
-  "2023-11-12": 2340,
-  "2023-11-13": 2341,
-  "2023-11-14": 2342,
-  "2023-11-15": 2342,
-  "2023-11-16": 2345,
-  "2023-11-17": 2347,
-  "2023-11-18": 2347,
-  "2023-11-19": 2347,
-  "2023-11-20": 2347,
-  "2023-11-21": 2348,
-  "2023-11-22": 2349,
-  "2023-11-23": 2349,
-  "2023-11-24": 2351,
-  "2023-11-25": 2354,
-  "2023-11-26": 2353,
-  "2023-11-27": 2357,
-  "2023-11-28": 2356,
-  "2023-11-29": 2357,
-  "2023-11-30": 2357,
-  "2023-12-01": 2358,
-  "2023-12-02": 2359,
-  "2023-12-03": 2359,
-  "2023-12-04": 2359,
-  "2023-12-05": 2361,
-  "2023-12-06": 2365,
-  "2023-12-07": 2367,
-  "2023-12-08": 2368,
-  "2023-12-09": 2370,
-  "2023-12-10": 2371,
-  "2023-12-11": 2375,
-  "2023-12-12": 2375,
-  "2023-12-13": 2376,
-  "2023-12-14": 2376,
-  "2023-12-15": 2375,
-  "2023-12-16": 2375,
-  "2023-12-17": 2378,
-  "2023-12-18": 2381,
-  "2023-12-19": 2382,
-  "2023-12-20": 2384,
-  "2023-12-21": 2385,
-  "2023-12-22": 2386,
-  "2023-12-23": 2386,
-  "2023-12-24": 2386,
-  "2023-12-25": 2387,
-  "2023-12-26": 2387,
-  "2023-12-27": 2387,
-  "2023-12-30": 2391,
-  "2023-12-31": 2391,
-  "2024-01-01": 2391,
-  "2024-01-02": 2393,
-  "2024-01-03": 2392
+  "2024-01-17": 2442,
+  "date_first_scraped": "2023-03-19",
+  "description": "ITZY&#x27;s performance list of THE 1ST WORLD TOUR &lt;CHECKMATE&gt; in JAPAN",
+  "name": "ITZY THE 1ST WORLD TOUR <CHECKMATE> in JAPAN",
+  "tracks": [
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "#Twenty",
+      "url": "https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR"
+    },
+    {
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "bloodline",
+      "url": "https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX"
+    },
+    {
+      "album": {
+        "name": "Boss Bitch",
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134239,
+      "name": "Boss Bitch",
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "album": {
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "DOMINO",
+      "url": "https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk"
+    },
+    {
+      "album": {
+        "name": "Dua Lipa",
+        "url": "https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187957,
+      "name": "Hotter Than Hell",
+      "url": "https://open.spotify.com/track/7G8bmgKbwPQdwsGXC9QWcL"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197898,
+      "name": "IT'z SUMMER",
+      "url": "https://open.spotify.com/track/1F3q83uRQ1aO9LmaEUzYox"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+    },
+    {
+      "album": {
+        "name": "Kid Krow",
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/6KfoDhO4XUWSbnyKjNp9c4"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197124,
+      "name": "NOBODY LIKE YOU",
+      "url": "https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
+    },
+    {
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223093,
+      "name": "Red (Taylor's Version)",
+      "url": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139213,
+      "name": "SHOOT!",
+      "url": "https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM"
+    },
+    {
+      "album": {
+        "name": "Trust Me (MIDZY)",
+        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY)",
+      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0EMU2v4In7YduH1ICRz6xr"
 }

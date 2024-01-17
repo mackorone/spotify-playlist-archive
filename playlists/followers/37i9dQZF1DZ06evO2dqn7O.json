@@ -1,432 +1,1419 @@
 {
-  "2022-10-27": 46688,
-  "2022-10-28": 46695,
-  "2022-10-29": 46701,
-  "2022-10-30": 46715,
-  "2022-10-31": 46726,
-  "2022-11-01": 46735,
-  "2022-11-02": 46744,
-  "2022-11-03": 46752,
-  "2022-11-04": 46764,
-  "2022-11-05": 46777,
-  "2022-11-06": 46786,
-  "2022-11-07": 46802,
-  "2022-11-08": 46811,
-  "2022-11-09": 46823,
-  "2022-11-10": 46839,
-  "2022-11-11": 46853,
-  "2022-11-12": 46869,
-  "2022-11-13": 46887,
-  "2022-11-14": 46899,
-  "2022-11-15": 46909,
-  "2022-11-16": 46921,
-  "2022-11-17": 46938,
-  "2022-11-18": 46937,
-  "2022-11-19": 46939,
-  "2022-11-20": 46944,
-  "2022-11-21": 46960,
-  "2022-11-22": 46979,
-  "2022-11-23": 46997,
-  "2022-11-24": 47021,
-  "2022-11-25": 47044,
-  "2022-11-26": 47060,
-  "2022-11-27": 47065,
-  "2022-11-28": 47067,
-  "2022-11-29": 47070,
-  "2022-11-30": 47077,
-  "2022-12-01": 47086,
-  "2022-12-02": 47087,
-  "2022-12-03": 47109,
-  "2022-12-04": 47116,
-  "2022-12-05": 47121,
-  "2022-12-06": 47136,
-  "2022-12-07": 47143,
-  "2022-12-08": 47148,
-  "2022-12-09": 47159,
-  "2022-12-10": 47167,
-  "2022-12-11": 47166,
-  "2022-12-12": 47178,
-  "2022-12-13": 47193,
-  "2022-12-14": 47203,
-  "2022-12-15": 47209,
-  "2022-12-16": 47229,
-  "2022-12-17": 47236,
-  "2022-12-18": 47245,
-  "2022-12-19": 47253,
-  "2022-12-20": 47263,
-  "2022-12-21": 47263,
-  "2022-12-22": 47275,
-  "2022-12-24": 47296,
-  "2022-12-25": 47307,
-  "2022-12-26": 47313,
-  "2022-12-27": 47327,
-  "2022-12-28": 47334,
-  "2022-12-29": 47350,
-  "2022-12-30": 47351,
-  "2022-12-31": 47358,
-  "2023-01-01": 47367,
-  "2023-01-02": 47380,
-  "2023-01-03": 47394,
-  "2023-01-04": 47393,
-  "2023-01-05": 47400,
-  "2023-01-06": 47406,
-  "2023-01-07": 47428,
-  "2023-01-08": 47431,
-  "2023-01-09": 47436,
-  "2023-01-10": 47446,
-  "2023-01-11": 47459,
-  "2023-01-12": 47463,
-  "2023-01-13": 47473,
-  "2023-01-14": 47479,
-  "2023-01-15": 47477,
-  "2023-01-16": 47478,
-  "2023-01-17": 47492,
-  "2023-01-18": 47498,
-  "2023-01-19": 47513,
-  "2023-01-20": 47528,
-  "2023-01-21": 47536,
-  "2023-01-22": 47538,
-  "2023-01-23": 47541,
-  "2023-01-24": 47550,
-  "2023-01-25": 47566,
-  "2023-01-26": 47577,
-  "2023-01-27": 47585,
-  "2023-01-28": 47599,
-  "2023-01-29": 47609,
-  "2023-01-30": 47617,
-  "2023-01-31": 47617,
-  "2023-02-01": 47634,
-  "2023-02-02": 47661,
-  "2023-02-03": 47677,
-  "2023-02-04": 47695,
-  "2023-02-05": 47710,
-  "2023-02-06": 47724,
-  "2023-02-07": 47724,
-  "2023-02-08": 47744,
-  "2023-02-09": 47744,
-  "2023-02-10": 47755,
-  "2023-02-11": 47766,
-  "2023-02-12": 47792,
-  "2023-02-13": 47803,
-  "2023-02-14": 47803,
-  "2023-02-15": 47812,
-  "2023-02-16": 47824,
-  "2023-02-17": 47835,
-  "2023-02-18": 47859,
-  "2023-02-19": 47860,
-  "2023-02-20": 47865,
-  "2023-02-21": 47873,
-  "2023-02-22": 47880,
-  "2023-02-23": 47886,
-  "2023-02-24": 47893,
-  "2023-02-25": 47908,
-  "2023-02-26": 47912,
-  "2023-02-27": 47934,
-  "2023-02-28": 47934,
-  "2023-03-01": 47943,
-  "2023-03-02": 47952,
-  "2023-03-03": 47959,
-  "2023-03-04": 47971,
-  "2023-03-05": 48001,
-  "2023-03-06": 48001,
-  "2023-03-07": 48015,
-  "2023-03-08": 48026,
-  "2023-03-09": 48036,
-  "2023-03-10": 48035,
-  "2023-03-11": 48040,
-  "2023-03-12": 48054,
-  "2023-03-13": 48066,
-  "2023-03-14": 48078,
-  "2023-03-15": 48083,
-  "2023-03-16": 48083,
-  "2023-03-17": 48083,
-  "2023-03-18": 48115,
-  "2023-03-19": 48115,
-  "2023-03-20": 48137,
-  "2023-03-21": 48143,
-  "2023-03-22": 48148,
-  "2023-03-23": 48156,
-  "2023-03-24": 48156,
-  "2023-03-25": 48176,
-  "2023-03-26": 48187,
-  "2023-03-27": 48197,
-  "2023-03-28": 48208,
-  "2023-03-29": 48226,
-  "2023-03-30": 48243,
-  "2023-03-31": 48243,
-  "2023-04-01": 48250,
-  "2023-04-02": 48259,
-  "2023-04-03": 48272,
-  "2023-04-04": 48268,
-  "2023-04-05": 48271,
-  "2023-04-06": 48280,
-  "2023-04-07": 48294,
-  "2023-04-09": 48304,
-  "2023-04-10": 48312,
-  "2023-04-11": 48335,
-  "2023-04-12": 48335,
-  "2023-04-13": 48346,
-  "2023-04-14": 48359,
-  "2023-04-15": 48366,
-  "2023-04-16": 48375,
-  "2023-04-17": 48389,
-  "2023-04-18": 48407,
-  "2023-04-19": 48415,
-  "2023-04-20": 48418,
-  "2023-04-21": 48428,
-  "2023-04-22": 48435,
-  "2023-04-23": 48450,
-  "2023-04-24": 48459,
-  "2023-04-25": 48470,
-  "2023-04-26": 48490,
-  "2023-04-27": 48505,
-  "2023-04-28": 48510,
-  "2023-04-29": 48522,
-  "2023-04-30": 48537,
-  "2023-05-01": 48555,
-  "2023-05-02": 48580,
-  "2023-05-03": 48603,
-  "2023-05-04": 48611,
-  "2023-05-05": 48628,
-  "2023-05-06": 48644,
-  "2023-05-07": 48655,
-  "2023-05-08": 48668,
-  "2023-05-09": 48689,
-  "2023-05-10": 48695,
-  "2023-05-11": 48698,
-  "2023-05-12": 48706,
-  "2023-05-13": 48719,
-  "2023-05-14": 48726,
-  "2023-05-15": 48735,
-  "2023-05-16": 48749,
-  "2023-05-17": 48773,
-  "2023-05-18": 48789,
-  "2023-05-19": 48802,
-  "2023-05-20": 48835,
-  "2023-05-21": 48835,
-  "2023-05-22": 48835,
-  "2023-05-23": 48866,
-  "2023-05-24": 48889,
-  "2023-05-25": 48898,
-  "2023-05-26": 48908,
-  "2023-05-27": 48924,
-  "2023-05-28": 48932,
-  "2023-05-29": 48932,
-  "2023-05-30": 48962,
-  "2023-05-31": 48969,
-  "2023-06-01": 48985,
-  "2023-06-02": 48997,
-  "2023-06-03": 49015,
-  "2023-06-04": 49033,
-  "2023-06-05": 49043,
-  "2023-06-06": 49061,
-  "2023-06-07": 49075,
-  "2023-06-08": 49082,
-  "2023-06-09": 49098,
-  "2023-06-10": 49115,
-  "2023-06-11": 49139,
-  "2023-06-12": 49157,
-  "2023-06-13": 49168,
-  "2023-06-14": 49188,
-  "2023-06-15": 49202,
-  "2023-06-16": 49210,
-  "2023-06-17": 49221,
-  "2023-06-18": 49235,
-  "2023-06-19": 49243,
-  "2023-06-20": 49258,
-  "2023-06-21": 49268,
-  "2023-06-22": 49281,
-  "2023-06-23": 49299,
-  "2023-06-24": 49320,
-  "2023-06-25": 49341,
-  "2023-06-26": 49357,
-  "2023-06-27": 49373,
-  "2023-06-28": 49399,
-  "2023-06-29": 49418,
-  "2023-06-30": 49434,
-  "2023-07-01": 49463,
-  "2023-07-02": 49463,
-  "2023-07-03": 49468,
-  "2023-07-04": 49477,
-  "2023-07-05": 49490,
-  "2023-07-06": 49517,
-  "2023-07-07": 49517,
-  "2023-07-08": 49517,
-  "2023-07-09": 49534,
-  "2023-07-10": 49549,
-  "2023-07-11": 49561,
-  "2023-07-12": 49571,
-  "2023-07-13": 49586,
-  "2023-07-14": 49598,
-  "2023-07-15": 49612,
-  "2023-07-16": 49625,
-  "2023-07-17": 49641,
-  "2023-07-18": 49652,
-  "2023-07-19": 49667,
-  "2023-07-20": 49673,
-  "2023-07-21": 49684,
-  "2023-07-22": 49687,
-  "2023-07-23": 49697,
-  "2023-07-24": 49708,
-  "2023-07-25": 49721,
-  "2023-07-26": 49733,
-  "2023-07-27": 49735,
-  "2023-07-28": 49753,
-  "2023-07-29": 49758,
-  "2023-07-30": 49774,
-  "2023-07-31": 49786,
-  "2023-08-01": 49796,
-  "2023-08-02": 49800,
-  "2023-08-03": 49817,
-  "2023-08-04": 49831,
-  "2023-08-05": 49837,
-  "2023-08-06": 49854,
-  "2023-08-07": 49854,
-  "2023-08-08": 49865,
-  "2023-08-09": 49872,
-  "2023-08-10": 49899,
-  "2023-08-11": 49904,
-  "2023-08-12": 49904,
-  "2023-08-13": 49904,
-  "2023-08-14": 49943,
-  "2023-08-15": 49943,
-  "2023-08-16": 49943,
-  "2023-08-17": 49943,
-  "2023-08-18": 49943,
-  "2023-08-19": 49943,
-  "2023-08-20": 50013,
-  "2023-08-21": 50013,
-  "2023-08-22": 50040,
-  "2023-08-23": 50040,
-  "2023-08-24": 50040,
-  "2023-08-25": 50040,
-  "2023-08-26": 50080,
-  "2023-08-27": 50080,
-  "2023-08-28": 50104,
-  "2023-08-29": 50104,
-  "2023-08-30": 50104,
-  "2023-08-31": 50134,
-  "2023-09-01": 50145,
-  "2023-09-02": 50145,
-  "2023-09-03": 50145,
-  "2023-09-04": 50145,
-  "2023-09-05": 50145,
-  "2023-09-06": 50145,
-  "2023-09-07": 50145,
-  "2023-09-08": 50145,
-  "2023-09-09": 50145,
-  "2023-09-10": 50250,
-  "2023-09-11": 50250,
-  "2023-09-12": 50250,
-  "2023-09-13": 50250,
-  "2023-09-14": 50250,
-  "2023-09-15": 50250,
-  "2023-09-16": 50326,
-  "2023-09-17": 50326,
-  "2023-09-18": 50326,
-  "2023-09-19": 50350,
-  "2023-09-20": 50350,
-  "2023-09-21": 50350,
-  "2023-09-22": 50375,
-  "2023-09-23": 50375,
-  "2023-09-24": 50375,
-  "2023-09-25": 50375,
-  "2023-09-26": 50423,
-  "2023-09-27": 50423,
-  "2023-09-28": 50423,
-  "2023-09-29": 50423,
-  "2023-09-30": 50423,
-  "2023-10-01": 50423,
-  "2023-10-02": 50423,
-  "2023-10-03": 50423,
-  "2023-10-04": 50423,
-  "2023-10-05": 50423,
-  "2023-10-06": 50423,
-  "2023-10-07": 50423,
-  "2023-10-08": 50423,
-  "2023-10-09": 50423,
-  "2023-10-10": 50423,
-  "2023-10-11": 50588,
-  "2023-10-12": 50588,
-  "2023-10-13": 50588,
-  "2023-10-14": 50588,
-  "2023-10-15": 50588,
-  "2023-10-16": 50588,
-  "2023-10-17": 50588,
-  "2023-10-18": 50588,
-  "2023-10-19": 50588,
-  "2023-10-20": 50588,
-  "2023-10-21": 50588,
-  "2023-10-22": 50588,
-  "2023-10-23": 50588,
-  "2023-10-24": 50588,
-  "2023-10-25": 50588,
-  "2023-10-26": 50588,
-  "2023-10-27": 50588,
-  "2023-10-28": 50588,
-  "2023-10-29": 50588,
-  "2023-10-30": 50588,
-  "2023-10-31": 50588,
-  "2023-11-01": 50588,
-  "2023-11-02": 50588,
-  "2023-11-03": 50588,
-  "2023-11-04": 50588,
-  "2023-11-05": 50588,
-  "2023-11-06": 50588,
-  "2023-11-07": 50588,
-  "2023-11-08": 50588,
-  "2023-11-09": 50588,
-  "2023-11-10": 50588,
-  "2023-11-11": 50856,
-  "2023-11-12": 50856,
-  "2023-11-13": 50856,
-  "2023-11-14": 50856,
-  "2023-11-15": 50856,
-  "2023-11-16": 50856,
-  "2023-11-17": 50856,
-  "2023-11-18": 50856,
-  "2023-11-19": 50856,
-  "2023-11-20": 50856,
-  "2023-11-21": 50856,
-  "2023-11-22": 50856,
-  "2023-11-23": 50856,
-  "2023-11-24": 50856,
-  "2023-11-25": 50856,
-  "2023-11-26": 50856,
-  "2023-11-27": 50856,
-  "2023-11-28": 50856,
-  "2023-11-29": 50856,
-  "2023-11-30": 50856,
-  "2023-12-01": 50856,
-  "2023-12-02": 50856,
-  "2023-12-03": 50856,
-  "2023-12-04": 50856,
-  "2023-12-05": 50856,
-  "2023-12-06": 50856,
-  "2023-12-07": 50856,
-  "2023-12-08": 50856,
-  "2023-12-09": 50856,
-  "2023-12-10": 50856,
-  "2023-12-11": 50856,
-  "2023-12-12": 50856,
-  "2023-12-13": 50856,
-  "2023-12-14": 51248,
-  "2023-12-15": 51264,
-  "2023-12-16": 51286,
-  "2023-12-17": 51300,
-  "2023-12-18": 51314,
-  "2023-12-19": 51313,
-  "2023-12-20": 51327,
-  "2023-12-21": 51338,
-  "2023-12-22": 51346,
-  "2023-12-23": 51354,
-  "2023-12-24": 51368,
-  "2023-12-25": 51363,
-  "2023-12-26": 51363,
-  "2023-12-27": 51381,
-  "2023-12-30": 51427,
-  "2023-12-31": 51431,
-  "2024-01-01": 51446,
-  "2024-01-02": 51455,
-  "2024-01-03": 51465
+  "2024-01-17": 51578,
+  "date_first_scraped": "2022-10-27",
+  "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
+  "name": "This Is X Ambassadors",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/5NBWiLXxF5XcBtg5js3yXI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165991,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/0noC0CcaavmjmrXRmcTtBD"
+    },
+    {
+      "album": {
+        "name": "Ahead Of Myself",
+        "url": "https://open.spotify.com/album/2fegGpMdK0zuaBEHGFdYdf"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223146,
+      "name": "Ahead Of Myself",
+      "url": "https://open.spotify.com/track/5KrEN8aGZnvS2UU6molPFs"
+    },
+    {
+      "album": {
+        "name": "Alcohol (with BRELAND)",
+        "url": "https://open.spotify.com/album/4Bo2zeCdvF962Zm2PGm4ch"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "Alcohol (with BRELAND)",
+      "url": "https://open.spotify.com/track/1dAxKchdnh9UVPjzEew9ls"
+    },
+    {
+      "album": {
+        "name": "American Oxygen",
+        "url": "https://open.spotify.com/album/0OGWPqm097un4kgcpM3fh0"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305093,
+      "name": "American Oxygen",
+      "url": "https://open.spotify.com/track/6r64PMqq9VxnT0Xr3439uH"
+    },
+    {
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0U6ldwLBEMkwgfQRY4V6D2"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287893,
+      "name": "Bad Husband (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/3GOjD8hwXOxbTF3apTqSqX"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249709,
+      "name": "Beautiful Liar",
+      "url": "https://open.spotify.com/track/3vSmsah6Ko7FuuZjHPMTvB"
+    },
+    {
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218885,
+      "name": "Belong",
+      "url": "https://open.spotify.com/track/54nwCwKlRSl29ndEBFVaGl"
+    },
+    {
+      "album": {
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3LEatdntFP2A5XkG1bFJh7"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177839,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/1ThR3dFdiIQmBgD2P90oVV"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/3V9cM3nCH2G66afoDi0snu"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-12",
+      "duration_ms": 133241,
+      "name": "Bullshit",
+      "url": "https://open.spotify.com/track/2PT5rRPOZ2BpkGh17PvqIf"
+    },
+    {
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
+    },
+    {
+      "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 198973,
+      "name": "Collider",
+      "url": "https://open.spotify.com/track/0eATgkWG5F2S0pLFK95ImZ"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 257712,
+      "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "CONFIDENCE (feat. K.Flay)",
+      "url": "https://open.spotify.com/track/1fE6majCQyShaXTPqJsdar"
+    },
+    {
+      "album": {
+        "name": "could've been you",
+        "url": "https://open.spotify.com/album/2zz2EbtweE5Msv4Af94UQA"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187826,
+      "name": "could've been you",
+      "url": "https://open.spotify.com/track/5yPf9XMC1O1VG7IQ6O6jhf"
+    },
+    {
+      "album": {
+        "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+        "url": "https://open.spotify.com/album/7fRFPeXlcoWCOuFpAKHnIv"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Deep End (from \"Aquaman and the Lost Kingdom\")",
+      "url": "https://open.spotify.com/track/20xiB92NDhWtM4sqXUreQU"
+    },
+    {
+      "album": {
+        "name": "Devastation (with PAM\u00c9)",
+        "url": "https://open.spotify.com/album/1yFtcNjSezziWM0lXQAT5h"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "PAM\u00c9",
+          "url": "https://open.spotify.com/artist/5ZSOXLTnZcSjdVCIdjnq03"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202666,
+      "name": "Devastation (with PAM\u00c9)",
+      "url": "https://open.spotify.com/track/6oxH7cP0JbbICm8DdVYta9"
+    },
+    {
+      "album": {
+        "name": "Don\u2019t Stay",
+        "url": "https://open.spotify.com/album/44rJLmL9vpqTN4ChPT4aHT"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/1JFWbktZpqwU37UX5MzjwR"
+    },
+    {
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 217426,
+      "name": "Down With Me",
+      "url": "https://open.spotify.com/track/17FV9pZcXiJsFRn3McId1e"
+    },
+    {
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 266611,
+      "name": "Everything Sounds Like A Love Song",
+      "url": "https://open.spotify.com/track/0TPsp6jaQHOcgL8bYUt4AT"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161586,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb"
+    },
+    {
+      "album": {
+        "name": "forever, now",
+        "url": "https://open.spotify.com/album/0RCibd0wibSlM02R4cCMKw"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288826,
+      "name": "forever, now",
+      "url": "https://open.spotify.com/track/0Dy3W6m0tTRBS8sXV8Pjad"
+    },
+    {
+      "album": {
+        "name": "The Reason EP",
+        "url": "https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 248400,
+      "name": "Free & Lonely",
+      "url": "https://open.spotify.com/track/0aPN28xnhv6RMuxAPpygjR"
+    },
+    {
+      "album": {
+        "name": "Friend For Life (with Medium Build)",
+        "url": "https://open.spotify.com/album/6QcE06gxBT4Son5ZgCzY0n"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Friend For Life (with Medium Build)",
+      "url": "https://open.spotify.com/track/7BE4sJl4U5kPpphtYCq086"
+    },
+    {
+      "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "give me hell",
+      "url": "https://open.spotify.com/track/2VAMExmfFMj4XC3swc9AD9"
+    },
+    {
+      "album": {
+        "name": "give me hell",
+        "url": "https://open.spotify.com/album/3rSDVdVKKTVHDqU1cC3pn0"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 184666,
+      "name": "give me hell",
+      "url": "https://open.spotify.com/track/73sWKUWvlzHuYR2iXWRXx6"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+    },
+    {
+      "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
+    },
+    {
+      "album": {
+        "name": "Belong EP",
+        "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 203517,
+      "name": "Happy Home",
+      "url": "https://open.spotify.com/track/1jvn8lZb2sfFQccN76MnV3"
+    },
+    {
+      "album": {
+        "name": "Happy People (with Teddy Swims & Jac Ross)",
+        "url": "https://open.spotify.com/album/7w5T80ALRyJXKj0TbQ03Mw"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295000,
+      "name": "Happy People (with Teddy Swims & Jac Ross)",
+      "url": "https://open.spotify.com/track/5lujBnGhaV4zgazZ6A8S5g"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208653,
+      "name": "HEY CHILD",
+      "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 257680,
+      "name": "HISTORY",
+      "url": "https://open.spotify.com/track/0mrW7NyeWkWko7VTRu124M"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "HOLD YOU DOWN",
+      "url": "https://open.spotify.com/track/3Tiv2bF1OLCXXnuXaDKaG3"
+    },
+    {
+      "album": {
+        "name": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha) [From Bright: The Album]",
+        "url": "https://open.spotify.com/album/3U1X1wd3lX7EteWYhS2hpT"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202804,
+      "name": "Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)",
+      "url": "https://open.spotify.com/track/0OI7AFifLSoGzpb8bdBLLV"
+    },
+    {
+      "album": {
+        "name": "Hoping",
+        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193566,
+      "name": "Hoping",
+      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
+    },
+    {
+      "album": {
+        "name": "ASCEND",
+        "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+      },
+      "artists": [
+        {
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220730,
+      "name": "In Your Arms (with X Ambassadors)",
+      "url": "https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY"
+    },
+    {
+      "album": {
+        "name": "JOYFUL",
+        "url": "https://open.spotify.com/album/0x5Vn7tPWyACi4e02ahWEs"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 232560,
+      "name": "JOYFUL",
+      "url": "https://open.spotify.com/track/3mau755ebHNf9B0qXAQXF9"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189706,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB"
+    },
+    {
+      "album": {
+        "name": "VHS 2.0",
+        "url": "https://open.spotify.com/album/07MhkuCXC6XBQTDpXPRyBI"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "Kerosene Dreams",
+      "url": "https://open.spotify.com/track/1NJAy0SC6DVc7yroWbN1Fs"
+    },
+    {
+      "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181306,
+      "name": "leave flowers",
+      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321386,
+      "name": "Litost",
+      "url": "https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 213821,
+      "name": "Love Is Death",
+      "url": "https://open.spotify.com/track/67Ih4EE8YDNOXdJxz4NGmT"
+    },
+    {
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219560,
+      "name": "Love Songs Drug Songs",
+      "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jamie N Commons",
+          "url": "https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280813,
+      "name": "Low Life",
+      "url": "https://open.spotify.com/track/6rXKkGRJQspRVNcGdcmsGy"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185585,
+      "name": "My Own Monster",
+      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 201773,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/3qHzSBZ4gVVZZmV3XB089s"
+    },
+    {
+      "album": {
+        "name": "Not Easy",
+        "url": "https://open.spotify.com/album/4K6Zqkm3dZQncMmunPIl9O"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245572,
+      "name": "Not Easy",
+      "url": "https://open.spotify.com/track/6BXCXOJGvuhks2xDxj5opi"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 285164,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/2qo6M1TWBhGCX4N0LlqvMi"
+    },
+    {
+      "album": {
+        "name": "Astronomical",
+        "url": "https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153957,
+      "name": "Razor's Edge (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/45Ps9b9nzFGDb6ZSQF6x8l"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/0fYVliAYKHuPmECRs1pbRf"
+    },
+    {
+      "album": {
+        "name": "This is Acoustic (Live Session / Acoustic Version)",
+        "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Renegades - Live Session / Acoustic Version",
+      "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 194640,
+      "name": "SHADOWS",
+      "url": "https://open.spotify.com/track/2Jf8AKTAQQLFRLpQ97Jt9F"
+    },
+    {
+      "album": {
+        "name": "The Reason EP",
+        "url": "https://open.spotify.com/album/0mw0LyRyBaqQg2ASXFrjQJ"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 217853,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/4qwaIFrAbHGLjeqwEO77rG"
+    },
+    {
+      "album": {
+        "name": "skip.that.party (with Jensen McRae)",
+        "url": "https://open.spotify.com/album/0w7D24H0GkZiX2z4co1GKe"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "date_added": "2022-12-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 231532,
+      "name": "skip.that.party (with Jensen McRae)",
+      "url": "https://open.spotify.com/track/7IbWXDiwOW8egg28MA0Qpb"
+    },
+    {
+      "album": {
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224807,
+      "name": "Somebody Who Knows You",
+      "url": "https://open.spotify.com/track/2tcFQRyTiw9uuS7Red3NEK"
+    },
+    {
+      "album": {
+        "name": "Sucker for Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)",
+        "url": "https://open.spotify.com/album/704GHNtZhEe9TBgleCNNGv"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243490,
+      "name": "Sucker for Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB"
+    },
+    {
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/386PuaIwJSmvEYhwgSKJoF"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "The Devil You Know",
+      "url": "https://open.spotify.com/track/5MEKqNAOlgt3sh5o0iq8EM"
+    },
+    {
+      "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/6FxKKFxevg8HASgFpIOj8E"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "Torches",
+      "url": "https://open.spotify.com/track/1p9mCPuPV9FGa0jnJYk0IA"
+    },
+    {
+      "album": {
+        "name": "torture (with Earl St. Clair)",
+        "url": "https://open.spotify.com/album/3idGlsJd0IqSqWyKPHv9RP"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Earl St. Clair",
+          "url": "https://open.spotify.com/artist/0h9IuyuhaLBJWOpebvgTk5"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161669,
+      "name": "torture (with Earl St. Clair)",
+      "url": "https://open.spotify.com/track/5barkRym2Qstp3X9uZRSiN"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242213,
+      "name": "Transmission",
+      "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "album": {
+        "name": "Love Songs Drug Songs",
+        "url": "https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Unconsolable",
+      "url": "https://open.spotify.com/track/0jpoRHaMiyKNnCectzcXTv"
+    },
+    {
+      "album": {
+        "name": "Undeniable (feat. X Ambassadors)",
+        "url": "https://open.spotify.com/album/3SgXZqSc8UfHsbrseyYscm"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180596,
+      "name": "Undeniable (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/71qB68guEJjbvtjlkZ8DF5"
+    },
+    {
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "Unsteady",
+      "url": "https://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I"
+    },
+    {
+      "album": {
+        "name": "Me Before You (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Erich Lee",
+          "url": "https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Unsteady - Erich Lee Gravity Remix",
+      "url": "https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN"
+    },
+    {
+      "album": {
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188933,
+      "name": "WASTELAND",
+      "url": "https://open.spotify.com/track/1XzzHgGGmul65gGyjlmxBj"
+    },
+    {
+      "album": {
+        "name": "Water (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/0bu5iBOXvPRMZOUGUsdA0V"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 193693,
+      "name": "Water - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/4IDwJJkYVZQ7GaIGjtDx0J"
+    },
+    {
+      "album": {
+        "name": "The Atlas Underground Flood",
+        "url": "https://open.spotify.com/album/3srOjhcBLQv9XtIiSpyds6"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188686,
+      "name": "You'll Get Yours (feat. X Ambassadors)",
+      "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "album": {
+        "name": "Zen (with K.Flay & grandson)",
+        "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215882,
+      "name": "Zen (with K.Flay & grandson)",
+      "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dqn7O"
 }

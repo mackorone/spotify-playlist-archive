@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Let these songs be the background score to your love story. Cover - Animal",
+  "description": "Let these songs be the background score to your love story. Cover - Bhediya",
   "name": "Bollywood Mush",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 309103,
       "name": "Aabaad Barbaad (From \"Ludo\")",
       "url": "https://open.spotify.com/track/0hFUtSsV2itYEUTZGj6w5H"
+    },
+    {
+      "album": {
+        "name": "Aksar 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fj3k0FmHLPBbDSuOSP1fa"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252108,
+      "name": "Aaj Zid",
+      "url": "https://open.spotify.com/track/1Oin5AfvdoGkd6WsCpfe7a"
     },
     {
       "album": {
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 260590,
       "name": "Humdard",
       "url": "https://open.spotify.com/track/1OEmd2iXU8pWG7CrKNpGUg"
@@ -2792,7 +2810,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 220382,
       "name": "Mere Rashke Qamar",
       "url": "https://open.spotify.com/track/4sNiMTu47WkUgW87qeUlWF"
@@ -3386,6 +3404,28 @@
       "duration_ms": 272532,
       "name": "Pehla Pyaar",
       "url": "https://open.spotify.com/track/0ojpEubhy4JNeVftmVuiN7"
+    },
+    {
+      "album": {
+        "name": "ANIMAL",
+        "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250158,
+      "name": "Pehle Bhi Main",
+      "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
     },
     {
       "album": {
@@ -4173,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "Genius (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3RtFFza4brQXoNSv19g1ps"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Tera Fitoor",
+      "url": "https://open.spotify.com/track/1YMLgvsQdE27r30q0fsLeV"
+    },
+    {
+      "album": {
         "name": "Simmba",
         "url": "https://open.spotify.com/album/3dynRTuVOrAr5O7srr2txN"
       },
@@ -4359,6 +4417,28 @@
     },
     {
       "album": {
+        "name": "Happy Hardy And Heer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2zoajcXYOTNIMtIZQrrLYv"
+      },
+      "artists": [
+        {
+          "name": "Ranu Mondal",
+          "url": "https://open.spotify.com/artist/3P6BWZyi5871LwRpjTlcX8"
+        },
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295384,
+      "name": "Teri Meri Kahani",
+      "url": "https://open.spotify.com/track/1GkwZvQMPErq4sm72eYLuu"
+    },
+    {
+      "album": {
         "name": "Thodi Jagah (From \"Marjaavaan\")",
         "url": "https://open.spotify.com/album/4DZ2mXEtUDsltgPqGwnRDd"
       },
@@ -4484,7 +4564,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 242864,
       "name": "Tu Jo Mila",
       "url": "https://open.spotify.com/track/7txLCGOXyDlDXTjtR1Sk4v"
@@ -4852,7 +4932,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 217440,
       "name": "Zehnaseeb",
       "url": "https://open.spotify.com/track/3xF15SqY32Mno3UUMBirhU"

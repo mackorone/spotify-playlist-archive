@@ -1,301 +1,1139 @@
 {
-  "2023-03-08": 92080,
-  "2023-03-09": 92113,
-  "2023-03-10": 92148,
-  "2023-03-11": 92186,
-  "2023-03-12": 92229,
-  "2023-03-13": 92265,
-  "2023-03-14": 92313,
-  "2023-03-15": 92343,
-  "2023-03-16": 92368,
-  "2023-03-17": 92368,
-  "2023-03-18": 92460,
-  "2023-03-19": 92504,
-  "2023-03-20": 92539,
-  "2023-03-21": 92572,
-  "2023-03-22": 92608,
-  "2023-03-23": 92646,
-  "2023-03-24": 92646,
-  "2023-03-25": 92728,
-  "2023-03-26": 92787,
-  "2023-03-27": 92822,
-  "2023-03-28": 92860,
-  "2023-03-29": 92903,
-  "2023-03-30": 92997,
-  "2023-03-31": 92997,
-  "2023-04-01": 93034,
-  "2023-04-02": 93083,
-  "2023-04-03": 93119,
-  "2023-04-04": 93147,
-  "2023-04-05": 93185,
-  "2023-04-06": 93227,
-  "2023-04-07": 93261,
-  "2023-04-09": 93339,
-  "2023-04-10": 93374,
-  "2023-04-11": 93452,
-  "2023-04-12": 93452,
-  "2023-04-13": 93490,
-  "2023-04-14": 93516,
-  "2023-04-15": 93566,
-  "2023-04-16": 93606,
-  "2023-04-17": 93655,
-  "2023-04-18": 93695,
-  "2023-04-19": 93733,
-  "2023-04-20": 93767,
-  "2023-04-21": 93819,
-  "2023-04-22": 93877,
-  "2023-04-23": 93925,
-  "2023-04-24": 93978,
-  "2023-04-25": 94008,
-  "2023-04-26": 94056,
-  "2023-04-27": 94103,
-  "2023-04-28": 94133,
-  "2023-04-29": 94173,
-  "2023-04-30": 94214,
-  "2023-05-01": 94263,
-  "2023-05-02": 94308,
-  "2023-05-03": 94338,
-  "2023-05-04": 94368,
-  "2023-05-05": 94412,
-  "2023-05-06": 94452,
-  "2023-05-07": 94504,
-  "2023-05-08": 94556,
-  "2023-05-09": 94599,
-  "2023-05-10": 94645,
-  "2023-05-11": 94678,
-  "2023-05-12": 94715,
-  "2023-05-13": 94762,
-  "2023-05-14": 94809,
-  "2023-05-15": 94857,
-  "2023-05-16": 94895,
-  "2023-05-17": 94930,
-  "2023-05-18": 94979,
-  "2023-05-19": 95014,
-  "2023-05-20": 95105,
-  "2023-05-21": 95105,
-  "2023-05-22": 95105,
-  "2023-05-23": 95202,
-  "2023-05-24": 95255,
-  "2023-05-25": 95273,
-  "2023-05-26": 95302,
-  "2023-05-27": 95347,
-  "2023-05-28": 95383,
-  "2023-05-29": 95383,
-  "2023-05-30": 95471,
-  "2023-05-31": 95504,
-  "2023-06-01": 95556,
-  "2023-06-02": 95601,
-  "2023-06-03": 95627,
-  "2023-06-04": 95672,
-  "2023-06-05": 95721,
-  "2023-06-06": 95746,
-  "2023-06-07": 95782,
-  "2023-06-08": 95818,
-  "2023-06-09": 95846,
-  "2023-06-10": 95904,
-  "2023-06-11": 95939,
-  "2023-06-12": 95975,
-  "2023-06-13": 96018,
-  "2023-06-14": 96059,
-  "2023-06-15": 96091,
-  "2023-06-16": 96126,
-  "2023-06-17": 96173,
-  "2023-06-18": 96220,
-  "2023-06-19": 96259,
-  "2023-06-20": 96281,
-  "2023-06-21": 96313,
-  "2023-06-22": 96349,
-  "2023-06-23": 96374,
-  "2023-06-24": 96412,
-  "2023-06-25": 96458,
-  "2023-06-26": 96498,
-  "2023-06-27": 96529,
-  "2023-06-28": 96559,
-  "2023-06-29": 96586,
-  "2023-06-30": 96636,
-  "2023-07-01": 96719,
-  "2023-07-02": 96719,
-  "2023-07-03": 96756,
-  "2023-07-04": 96786,
-  "2023-07-05": 96812,
-  "2023-07-06": 96872,
-  "2023-07-07": 96872,
-  "2023-07-08": 96914,
-  "2023-07-09": 96962,
-  "2023-07-10": 97000,
-  "2023-07-11": 97029,
-  "2023-07-12": 97072,
-  "2023-07-13": 97103,
-  "2023-07-14": 97129,
-  "2023-07-15": 97166,
-  "2023-07-16": 97209,
-  "2023-07-17": 97244,
-  "2023-07-18": 97277,
-  "2023-07-19": 97309,
-  "2023-07-20": 97338,
-  "2023-07-21": 97361,
-  "2023-07-22": 97400,
-  "2023-07-23": 97442,
-  "2023-07-24": 97483,
-  "2023-07-25": 97502,
-  "2023-07-26": 97535,
-  "2023-07-27": 97562,
-  "2023-07-28": 97604,
-  "2023-07-29": 97647,
-  "2023-07-30": 97684,
-  "2023-07-31": 97732,
-  "2023-08-01": 97763,
-  "2023-08-02": 97800,
-  "2023-08-03": 97822,
-  "2023-08-04": 97845,
-  "2023-08-05": 97881,
-  "2023-08-06": 97958,
-  "2023-08-07": 97958,
-  "2023-08-08": 97992,
-  "2023-08-09": 98020,
-  "2023-08-10": 98050,
-  "2023-08-11": 98070,
-  "2023-08-12": 98124,
-  "2023-08-13": 98168,
-  "2023-08-14": 98209,
-  "2023-08-15": 98270,
-  "2023-08-16": 98270,
-  "2023-08-17": 98300,
-  "2023-08-18": 98330,
-  "2023-08-19": 98366,
-  "2023-08-20": 98412,
-  "2023-08-21": 98450,
-  "2023-08-22": 98481,
-  "2023-08-23": 98511,
-  "2023-08-24": 98557,
-  "2023-08-25": 98600,
-  "2023-08-26": 98642,
-  "2023-08-27": 98686,
-  "2023-08-28": 98740,
-  "2023-08-29": 98763,
-  "2023-08-30": 98792,
-  "2023-08-31": 98820,
-  "2023-09-01": 98882,
-  "2023-09-02": 98882,
-  "2023-09-03": 98917,
-  "2023-09-04": 98953,
-  "2023-09-05": 98984,
-  "2023-09-06": 99015,
-  "2023-09-07": 99059,
-  "2023-09-08": 99094,
-  "2023-09-09": 99122,
-  "2023-09-10": 99161,
-  "2023-09-11": 99191,
-  "2023-09-12": 99220,
-  "2023-09-13": 99267,
-  "2023-09-14": 99293,
-  "2023-09-15": 99327,
-  "2023-09-16": 99379,
-  "2023-09-17": 99414,
-  "2023-09-18": 99461,
-  "2023-09-19": 99525,
-  "2023-09-20": 99588,
-  "2023-09-21": 99627,
-  "2023-09-22": 99678,
-  "2023-09-23": 99731,
-  "2023-09-24": 99776,
-  "2023-09-25": 99812,
-  "2023-09-26": 99864,
-  "2023-09-27": 99897,
-  "2023-09-28": 99929,
-  "2023-09-29": 99962,
-  "2023-09-30": 100002,
-  "2023-10-01": 100039,
-  "2023-10-02": 100078,
-  "2023-10-03": 100118,
-  "2023-10-04": 100133,
-  "2023-10-05": 100160,
-  "2023-10-06": 100180,
-  "2023-10-07": 100222,
-  "2023-10-08": 100263,
-  "2023-10-09": 100294,
-  "2023-10-10": 100249,
-  "2023-10-11": 100225,
-  "2023-10-12": 100225,
-  "2023-10-13": 100203,
-  "2023-10-14": 100191,
-  "2023-10-15": 100212,
-  "2023-10-16": 100247,
-  "2023-10-17": 100288,
-  "2023-10-18": 100303,
-  "2023-10-19": 100333,
-  "2023-10-20": 100358,
-  "2023-10-21": 100399,
-  "2023-10-22": 100419,
-  "2023-10-23": 100452,
-  "2023-10-24": 100487,
-  "2023-10-25": 100513,
-  "2023-10-26": 100537,
-  "2023-10-27": 100571,
-  "2023-10-28": 100602,
-  "2023-10-29": 100631,
-  "2023-10-30": 100687,
-  "2023-10-31": 100687,
-  "2023-11-01": 100712,
-  "2023-11-02": 100739,
-  "2023-11-03": 100762,
-  "2023-11-04": 100787,
-  "2023-11-05": 100815,
-  "2023-11-06": 100841,
-  "2023-11-07": 100862,
-  "2023-11-08": 100885,
-  "2023-11-09": 100923,
-  "2023-11-10": 100941,
-  "2023-11-11": 100961,
-  "2023-11-12": 100994,
-  "2023-11-13": 101032,
-  "2023-11-14": 101059,
-  "2023-11-15": 101059,
-  "2023-11-16": 101109,
-  "2023-11-17": 101143,
-  "2023-11-18": 101143,
-  "2023-11-19": 101177,
-  "2023-11-20": 101207,
-  "2023-11-21": 101232,
-  "2023-11-22": 101247,
-  "2023-11-23": 101263,
-  "2023-11-24": 101297,
-  "2023-11-25": 101329,
-  "2023-11-26": 101356,
-  "2023-11-27": 101380,
-  "2023-11-28": 101408,
-  "2023-11-29": 101445,
-  "2023-11-30": 101445,
-  "2023-12-01": 101456,
-  "2023-12-02": 101489,
-  "2023-12-03": 101513,
-  "2023-12-04": 101552,
-  "2023-12-05": 101574,
-  "2023-12-06": 101600,
-  "2023-12-07": 101627,
-  "2023-12-08": 101657,
-  "2023-12-09": 101672,
-  "2023-12-10": 101697,
-  "2023-12-11": 101719,
-  "2023-12-12": 101741,
-  "2023-12-13": 101763,
-  "2023-12-14": 101795,
-  "2023-12-15": 101812,
-  "2023-12-16": 101827,
-  "2023-12-17": 101846,
-  "2023-12-18": 101870,
-  "2023-12-19": 101900,
-  "2023-12-20": 101925,
-  "2023-12-21": 101941,
-  "2023-12-22": 101955,
-  "2023-12-23": 101973,
-  "2023-12-24": 102005,
-  "2023-12-25": 102045,
-  "2023-12-26": 102076,
-  "2023-12-27": 102105,
-  "2023-12-30": 102161,
-  "2023-12-31": 102195,
-  "2024-01-01": 102223,
-  "2024-01-02": 102257,
-  "2024-01-03": 102283
+  "2024-01-17": 102272,
+  "date_first_scraped": "2023-03-08",
+  "description": "\u00a1Qu\u00e9 rico el mambo! Cover: Machito",
+  "name": "Mambo Classics",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Last Mambo King",
+        "url": "https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330971,
+      "name": "Aprende a Querer",
+      "url": "https://open.spotify.com/track/0E9Vx2zk4gNdteduH9tNE7"
+    },
+    {
+      "album": {
+        "name": "Bobby Marin Presents\u2026.New York Salsa",
+        "url": "https://open.spotify.com/album/3CPB3bVJenASVNGQgcCRyz"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-09",
+      "duration_ms": 330906,
+      "name": "Aprende Querer",
+      "url": "https://open.spotify.com/track/1IVGEWPpQtfKuzL2EAJb8n"
+    },
+    {
+      "album": {
+        "name": "Asia Minor Cha Cha Cha",
+        "url": "https://open.spotify.com/album/0OelWTAicp39Y93KJBWJA2"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Orchestra",
+          "url": "https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "Asia Minor",
+      "url": "https://open.spotify.com/track/1ZU7un2BX6J98BibBv8cmO"
+    },
+    {
+      "album": {
+        "name": "Az\u00facar pa' Ti",
+        "url": "https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569240,
+      "name": "Az\u00facar",
+      "url": "https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 833493,
+      "name": "Babarabatiri",
+      "url": "https://open.spotify.com/track/1MOoJPNFcH78lkqYAO9lLs"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/5eBfIitJ1H5JZd1sakdgeN"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Afro-Cuban Orchestra",
+          "url": "https://open.spotify.com/artist/04pQHKrYVxm70nss1L6Wln"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 831529,
+      "name": "Babarabatiri",
+      "url": "https://open.spotify.com/track/4WccwK29ngifZZeBhdrVrL"
+    },
+    {
+      "album": {
+        "name": "Besame Mucho and More Golden Hits",
+        "url": "https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Baile Mi Mambo",
+      "url": "https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK"
+    },
+    {
+      "album": {
+        "name": "Tito No. 1",
+        "url": "https://open.spotify.com/album/7CRlAAlopAiJb5jimIkCGn"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Blen, Blen, Blen",
+      "url": "https://open.spotify.com/track/0koL9KgFF8DiuNExstwl4X"
+    },
+    {
+      "album": {
+        "name": "Estamos Haciendo Algo Bien!",
+        "url": "https://open.spotify.com/album/6qbLn5WNxrKGzzYQENyUmX"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203769,
+      "name": "Bochinchosa",
+      "url": "https://open.spotify.com/track/7L4eODuSL77fkoVioQD0Mo"
+    },
+    {
+      "album": {
+        "name": "Two Brothers Two Legends",
+        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326560,
+      "name": "Buchipluma Na' Ma'",
+      "url": "https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt"
+    },
+    {
+      "album": {
+        "name": "Viva la Reina de la Salsa",
+        "url": "https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224293,
+      "name": "Cao Cao Man\u00ed Picao",
+      "url": "https://open.spotify.com/track/4jrV8b9VyVl0bGRDrlReSt"
+    },
+    {
+      "album": {
+        "name": "New York Salsa",
+        "url": "https://open.spotify.com/album/1v4ffpwV9H6YkuZ2jVF9wu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Marin",
+          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265952,
+      "name": "Charanga Jam",
+      "url": "https://open.spotify.com/track/3iHMDoxbOqkoA9uUJR2yes"
+    },
+    {
+      "album": {
+        "name": "Descargas",
+        "url": "https://open.spotify.com/album/4ghddg6ZQtBZEEoFODQs5W"
+      },
+      "artists": [
+        {
+          "name": "Cachao",
+          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165955,
+      "name": "Cogele el Golpe",
+      "url": "https://open.spotify.com/track/0lunMiZlsZ7U854GvHMyVZ"
+    },
+    {
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155693,
+      "name": "El Cayuco",
+      "url": "https://open.spotify.com/track/3j05qtcQlRIVF0a2DOoO68"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/5eBfIitJ1H5JZd1sakdgeN"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Afro-Cuban Orchestra",
+          "url": "https://open.spotify.com/artist/04pQHKrYVxm70nss1L6Wln"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 413309,
+      "name": "El Jamaiquino",
+      "url": "https://open.spotify.com/track/2Syl76mDu5yGSTyIVGn9uf"
+    },
+    {
+      "album": {
+        "name": "La Historia del Mambo, Vol. 2",
+        "url": "https://open.spotify.com/album/6fJdrjyuTWOeZboh03i01n"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159503,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/4A0iCzLqX0bmDuDq1YAT59"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x"
+      },
+      "artists": [
+        {
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+        },
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333280,
+      "name": "El Pito (I'll Never Go Back To Georgia)",
+      "url": "https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY"
+    },
+    {
+      "album": {
+        "name": "Salsa Na' Ma'",
+        "url": "https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri and His Orchestra La Duboney",
+          "url": "https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145358,
+      "name": "El Yerbero",
+      "url": "https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq"
+    },
+    {
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225933,
+      "name": "Hong Kong Mambo",
+      "url": "https://open.spotify.com/track/1QLC5yG0vyDMXsShhpsGsX"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/5Psz0qL5gppaidAzChMEZY"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-02",
+      "duration_ms": 415306,
+      "name": "Jamaiquino",
+      "url": "https://open.spotify.com/track/5dE1fDEziJbrpYaMnQ45ER"
+    },
+    {
+      "album": {
+        "name": "Mucho Machito",
+        "url": "https://open.spotify.com/album/4L0HpmMErcZZ5pLj8oewPZ"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 184786,
+      "name": "Kenya",
+      "url": "https://open.spotify.com/track/48MxmM42utTBnvedomKp3C"
+    },
+    {
+      "album": {
+        "name": "The Golden Era of Salsa & Boogaloo",
+        "url": "https://open.spotify.com/album/0iGO2hS2EpQveaZlZ2nrwT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Marin",
+          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 261560,
+      "name": "Kimbya",
+      "url": "https://open.spotify.com/track/02ywqhNjMWGMX5oQC1v8fL"
+    },
+    {
+      "album": {
+        "name": "Salsa With Me",
+        "url": "https://open.spotify.com/album/5jAi3DPCaYYG9JDUwAnSZE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Marin",
+          "url": "https://open.spotify.com/artist/1M6SRxoB7bSY1M8WbwIeF3"
+        },
+        {
+          "name": "Manny Roman",
+          "url": "https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261560,
+      "name": "Kimbya (feat. Manny Roman)",
+      "url": "https://open.spotify.com/track/4gaeprgycCYuuSq2yvfuwh"
+    },
+    {
+      "album": {
+        "name": "Salsa With Me",
+        "url": "https://open.spotify.com/album/3kTrNkkPo0Vi3X5RSI6ygQ"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        {
+          "name": "Manny Roman",
+          "url": "https://open.spotify.com/artist/1ovL4YOHbcfY0OFDC5b8ap"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 261560,
+      "name": "Kimbya (feat. Manny Roman)",
+      "url": "https://open.spotify.com/track/5F9gVtm6rD5uGlkPgfXzRt"
+    },
+    {
+      "album": {
+        "name": "Cuba y Puerto Rico",
+        "url": "https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "La Guarachera",
+      "url": "https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3"
+    },
+    {
+      "album": {
+        "name": "Que Viva La M\u00fasica",
+        "url": "https://open.spotify.com/album/567VtThAiuol6fSWSPPTNV"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258626,
+      "name": "La Pelota",
+      "url": "https://open.spotify.com/track/4DkK1PenbmoVjSEFMurUFp"
+    },
+    {
+      "album": {
+        "name": "Tito, Tito, Tito",
+        "url": "https://open.spotify.com/album/18vrXXXmrzZ5os8lqLYn2k"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "La Toalla",
+      "url": "https://open.spotify.com/track/7H6Hu1KiXJGh2HnTIkJywv"
+    },
+    {
+      "album": {
+        "name": "Cuba Salsa Sabrosa Vol. 2",
+        "url": "https://open.spotify.com/album/4TRIu8j6ea1pfnPMzbrHjT"
+      },
+      "artists": [
+        {
+          "name": "Cachao",
+          "url": "https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192235,
+      "name": "Mambo",
+      "url": "https://open.spotify.com/track/5EHfeFLbEWeYeNDzTyFby2"
+    },
+    {
+      "album": {
+        "name": "Hoy y Ayer",
+        "url": "https://open.spotify.com/album/1Gg0LMPxbrR8SCXtAMveyG"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "Mambo Gozon",
+      "url": "https://open.spotify.com/track/0hk1gSyn3wKgdxqF6qaKUZ"
+    },
+    {
+      "album": {
+        "name": "Tremendo Cumban",
+        "url": "https://open.spotify.com/album/14u4OthZTF7D0z40hy7OmK"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Afro Cubans",
+          "url": "https://open.spotify.com/artist/48uvJVs3amPDYGr4EZoRg9"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171373,
+      "name": "Mambo Infierno",
+      "url": "https://open.spotify.com/track/37IPOyonJjOLmOlns8RXhx"
+    },
+    {
+      "album": {
+        "name": "The Early Years",
+        "url": "https://open.spotify.com/album/5eBfIitJ1H5JZd1sakdgeN"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Afro-Cuban Orchestra",
+          "url": "https://open.spotify.com/artist/04pQHKrYVxm70nss1L6Wln"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 827611,
+      "name": "Mambo Inn",
+      "url": "https://open.spotify.com/track/3CeUiu1zJDSjeANX1JakMI"
+    },
+    {
+      "album": {
+        "name": "Dino: The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139680,
+      "name": "Mambo Italiano",
+      "url": "https://open.spotify.com/track/5G4JTc4HlIsg7CyiDwoPV2"
+    },
+    {
+      "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195533,
+      "name": "Mambo Jambo",
+      "url": "https://open.spotify.com/track/5RZ0Y8ae2DuIBPRNjVGkch"
+    },
+    {
+      "album": {
+        "name": "Mambo Madness",
+        "url": "https://open.spotify.com/album/37adSaGjRerybXzNjcry13"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez & His Orchestra",
+          "url": "https://open.spotify.com/artist/67HW6PKDXtSXN6ANTEQemN"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Mambo Manila",
+      "url": "https://open.spotify.com/track/0gyejcE44IsekC8hL6aylF"
+    },
+    {
+      "album": {
+        "name": "Mambo No 5",
+        "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162213,
+      "name": "Mambo No 5",
+      "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
+    },
+    {
+      "album": {
+        "name": "A Man And His Music: El Inolvidable",
+        "url": "https://open.spotify.com/album/7101EVthCwrld4QKetHmb6"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162893,
+      "name": "Mam\u00e1 G\u00fcela - Live",
+      "url": "https://open.spotify.com/track/4peboQ0PfWsLbjYNYSPgmB"
+    },
+    {
+      "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161986,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1vywnMmHHTm8D4zpqq4TdP"
+    },
+    {
+      "album": {
+        "name": "Vacation At The Concord",
+        "url": "https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ"
+      },
+      "artists": [
+        {
+          "name": "Machito Orchestra",
+          "url": "https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156946,
+      "name": "Me Lo Dijo Adela (Sweet And Gentle)",
+      "url": "https://open.spotify.com/track/52kWckaWi8zDRL3r2fQoPv"
+    },
+    {
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "Mi Chiquita Quiere Bemb\u00e9",
+      "url": "https://open.spotify.com/track/5GbOYy9AZHOjeZCd3gAa2D"
+    },
+    {
+      "album": {
+        "name": "The Last Mambo King",
+        "url": "https://open.spotify.com/album/3NqOdIbHCHnw1wbfYBWv9j"
+      },
+      "artists": [
+        {
+          "name": "Orlando Marin",
+          "url": "https://open.spotify.com/artist/1uH7tVnnXDsQWjtJOZH5ID"
+        },
+        {
+          "name": "Just Betancourt",
+          "url": "https://open.spotify.com/artist/1qnB8QE8FRjCjrGgVehIwp"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279536,
+      "name": "Mi Jebita (feat. Just Betancourt)",
+      "url": "https://open.spotify.com/track/3Qt23kKNKJot7OaC2ywCFx"
+    },
+    {
+      "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183413,
+      "name": "No Cuentes Conmigo",
+      "url": "https://open.spotify.com/track/55mhyCZbjoVCelyCmwR3du"
+    },
+    {
+      "album": {
+        "name": "Legends Of Cuban Music",
+        "url": "https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        },
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "Pachito E Che",
+      "url": "https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA"
+    },
+    {
+      "album": {
+        "name": "Perry Como's Greatest Hits",
+        "url": "https://open.spotify.com/album/1Xn52rnZPmftC6oPyNOTfv"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161640,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/5A4gzphhD7SyZZhQeda8Vv"
+    },
+    {
+      "album": {
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/0vGItNEPaOCI3mOB7he2Ux"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 126333,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/4wO8kx1gRvcTP10kqpo6VH"
+    },
+    {
+      "album": {
+        "name": "Perez Prado - Mambo",
+        "url": "https://open.spotify.com/album/0W55Jt0adeRjt6AqB6rJdV"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127360,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/3Wuo44ejdseJkZ5eaAwr5D"
+    },
+    {
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/1hu7GjmtnChBUBDLZjb2Mb"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Patricia",
+      "url": "https://open.spotify.com/track/2bwhOdCOLgQ8v6xStAqnju"
+    },
+    {
+      "album": {
+        "name": "Two Brothers Two Legends",
+        "url": "https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh"
+      },
+      "artists": [
+        {
+          "name": "Charlie Palmieri",
+          "url": "https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Por Que Me Enganas",
+      "url": "https://open.spotify.com/track/6a5wswScOVS0b7Zns14jQ5"
+    },
+    {
+      "album": {
+        "name": "Tito Rodriguez... The Early Years",
+        "url": "https://open.spotify.com/album/4k1RqHzMQgsODHYkMJHAMY"
+      },
+      "artists": [
+        {
+          "name": "Tito Rodriguez",
+          "url": "https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176346,
+      "name": "Que Rico",
+      "url": "https://open.spotify.com/track/0h4r17dBbbT9TV5YZxQO0Z"
+    },
+    {
+      "album": {
+        "name": "Mambo",
+        "url": "https://open.spotify.com/album/5KAeqB0YySMuy7F7VXVjQo"
+      },
+      "artists": [
+        {
+          "name": "Mambo",
+          "url": "https://open.spotify.com/artist/3QQyOPRmd24X1Q4ZbYCrQN"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280253,
+      "name": "Que Rico El Mambo",
+      "url": "https://open.spotify.com/track/4ucHP0s9uWaloTQ5HbVyiy"
+    },
+    {
+      "album": {
+        "name": "The Latin World Of Tito Puente",
+        "url": "https://open.spotify.com/album/4jDlifFGsIq4Am1bSbCXVH"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190416,
+      "name": "Ran Kan Kan",
+      "url": "https://open.spotify.com/track/3FCN9xduajof2MGIJbWdGe"
+    },
+    {
+      "album": {
+        "name": "Carambola (Remastered)",
+        "url": "https://open.spotify.com/album/76O9p5w3ZRzxtbE7KtCUU6"
+      },
+      "artists": [
+        {
+          "name": "Machito Y Sus Afro-Cubanos",
+          "url": "https://open.spotify.com/artist/4Xh7yiscGNnJXmwaZcaloB"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 189281,
+      "name": "Relax & mambo - Remastered",
+      "url": "https://open.spotify.com/track/2MF3bZLaQI65YjRp7H4A1D"
+    },
+    {
+      "album": {
+        "name": "Presentando a Machito",
+        "url": "https://open.spotify.com/album/2tVM5mKWo3iZ8qfcTmxAhs"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Relax and Mambo",
+      "url": "https://open.spotify.com/track/33vIIwfMDRoJwlizrQu8tM"
+    },
+    {
+      "album": {
+        "name": "Vacation At The Concord",
+        "url": "https://open.spotify.com/album/7thOtRH5Z0D9WVyWs8LhWJ"
+      },
+      "artists": [
+        {
+          "name": "Machito Orchestra",
+          "url": "https://open.spotify.com/artist/38FHSGePCxtSwgzzInXhVe"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Rico Vacilon",
+      "url": "https://open.spotify.com/track/22vnfqgJeAKZmVhhK6tXnk"
+    },
+    {
+      "album": {
+        "name": "Dance Mania Vol.1",
+        "url": "https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente & His Orchestra",
+          "url": "https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184826,
+      "name": "Saca Tu Mujer",
+      "url": "https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO"
+    },
+    {
+      "album": {
+        "name": "El Manisero",
+        "url": "https://open.spotify.com/album/35GjYQu1NvqoJz1uXbtddK"
+      },
+      "artists": [
+        {
+          "name": "Bebo Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/3qeECzqe5c7ssusMaDdwbj"
+        },
+        {
+          "name": "Orquesta Sabor De Cuba",
+          "url": "https://open.spotify.com/artist/59ZNpioUB3Erkn4cZy1eGO"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169546,
+      "name": "Sasauma - Mambo",
+      "url": "https://open.spotify.com/track/0gxKSoP8PGv1Xwis1J2EWO"
+    },
+    {
+      "album": {
+        "name": "A Little Bit Of Everything",
+        "url": "https://open.spotify.com/album/49CPTtkajDw9XAcUafNgrY"
+      },
+      "artists": [
+        {
+          "name": "La Playa Sextet",
+          "url": "https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155633,
+      "name": "Separarla Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/2uUimJq18JcrZjgkuvLuMa"
+    },
+    {
+      "album": {
+        "name": "Mi Amigo, Machito",
+        "url": "https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Si Si No No",
+      "url": "https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ"
+    },
+    {
+      "album": {
+        "name": "La Herencia",
+        "url": "https://open.spotify.com/album/3GOBlGfrkA9AmjdsBcRX3G"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184773,
+      "name": "The Herb Vendor",
+      "url": "https://open.spotify.com/track/3ZIClXUDVFwnvUssqD3OKU"
+    },
+    {
+      "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190440,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/1lQWRMxlvahpRLzrwSIXNH"
+    },
+    {
+      "album": {
+        "name": "Kenya",
+        "url": "https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz"
+      },
+      "artists": [
+        {
+          "name": "Machito",
+          "url": "https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167893,
+      "name": "Wild Jungle - 2000 Remaster",
+      "url": "https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli"
+    },
+    {
+      "album": {
+        "name": "Solito",
+        "url": "https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2"
+      },
+      "artists": [
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "date_added": "2023-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307000,
+      "name": "Yo No Soy Guapo",
+      "url": "https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY3wGocULdzX"
 }

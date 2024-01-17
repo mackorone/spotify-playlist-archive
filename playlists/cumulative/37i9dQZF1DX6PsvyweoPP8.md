@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-180 songs - 8 hr 53 min
+182 songs - 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Completa](https://open.spotify.com/track/5NZME2xyp0vbOA3HdIWfWb) | [Chardii](https://open.spotify.com/artist/2f9hnj3YhZyPADXhUX69na), [AçúK](https://open.spotify.com/artist/7371NJait6rRIpctnfbuWM) | [Completa](https://open.spotify.com/album/222IQL4mF0i8DpZJbRSmwe) | 2:35 | 2023-02-17 | 2023-07-01 |
 | [Corpo Quente](https://open.spotify.com/track/6RRVJ39Nu1GfiWhxBvixMg) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Corpo Quente](https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN) | 4:00 | 2022-03-18 |  |
 | [Curvas Finas](https://open.spotify.com/track/6yQ58h9qNLLjWfGEFLLd0Q) | [Gabrá](https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3), [ZSS Ent.](https://open.spotify.com/artist/1L7rw4mLVQFgIkknFHkk47) | [Curvas Finas](https://open.spotify.com/album/2eGCZcCXGf1yLSEpddlgnh) | 3:04 | 2022-03-18 | 2023-09-02 |
+| [Câmera Lenta](https://open.spotify.com/track/5QkWy7Hh5ruS2H4eEW2jJV) | [Liu Beatz](https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ), [RealP7oficial](https://open.spotify.com/artist/1xZZFJdJSzrma6gAuGV7tz), [Drumond](https://open.spotify.com/artist/18MlhKAWJfNPtZiT0SwngM), [moyb](https://open.spotify.com/artist/4mWQPyioqqqZ9Lw4NX0GNg) | [Câmera Lenta](https://open.spotify.com/album/0VgoI3iDV1jxKJDClTUPto) | 2:41 | 2024-01-12 |  |
 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 | 2022-03-18 |  |
 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 | 2023-09-22 |  |
 | [Deja Vu](https://open.spotify.com/track/5zdbfjCVtrAUwWeNFsE54s) | [Dolla](https://open.spotify.com/artist/1lzCig630ASEZm9vI4COE3), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Deja Vu](https://open.spotify.com/album/1ZajUXNUXJDN3mhfheC2WB) | 3:33 | 2022-03-18 | 2023-08-26 |
@@ -153,6 +154,7 @@
 | [Relaxa](https://open.spotify.com/track/6vVqy8Tn3l2yJqBgPU5g3D) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/726od9RXgGCfcR6KOHGIqz) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Rihanna](https://open.spotify.com/track/2OmSPqvPsPK5m5X6UByh5S) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP) | [Rihanna](https://open.spotify.com/album/6DoJq2RqQevgGMkpAFuPtw) | 2:39 | 2022-03-18 |  |
 | [Sainha da Cyclone](https://open.spotify.com/track/0xa752Vw66MVIEz7AzfzUQ) | [Chinegrx](https://open.spotify.com/artist/7muINs5szM4GmeutBgu3ec), [Brunnin](https://open.spotify.com/artist/7sOl1POwSHsoZ2ezDJIapz), [Hpbeats](https://open.spotify.com/artist/4R26sDu3fyRuZVcnjTA5lj) | [Sainha da Cyclone](https://open.spotify.com/album/0FKsqgos6juV7KVz03kaJD) | 2:45 | 2022-03-18 | 2022-08-06 |
+| [Sainha Rosa](https://open.spotify.com/track/6Nsm1jyRtGUz9YVFgYNtso) | [Nath Audizio](https://open.spotify.com/artist/3Dmm7O6YrB38y8JbvA3zwK), [MARINA NA VOZ](https://open.spotify.com/artist/5FXyRWk0BmDfBJ5XKz8A1G) | [Sainha Rosa](https://open.spotify.com/album/5VSwMBzpqIZxJxUZFx6HQF) | 2:38 | 2024-01-12 |  |
 | [Segundo Andar](https://open.spotify.com/track/1yCRKdKQzfT0Yc8bQU35OF) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/4nm7SKKXzMr6p098vzJOKh) | 3:54 | 2022-07-08 |  |
 | [Segundo Andar](https://open.spotify.com/track/7rwW1Si2yr1dlLj6G2eDnU) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Segundo Andar](https://open.spotify.com/album/0j60tsSAY0XUmuYuESyFoL) | 3:54 | 2022-03-18 | 2022-07-29 |
 | [Sem Neurose](https://open.spotify.com/track/6HSwsv4Zpkc3t3eOXQKmSY) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [AG Beatz](https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ) | [Terapia](https://open.spotify.com/album/17X8o2Rs7cH5hBCKp92lKW) | 2:01 | 2023-10-20 | 2023-12-16 |

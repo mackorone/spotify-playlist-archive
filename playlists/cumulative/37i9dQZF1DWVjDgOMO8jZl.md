@@ -2,9 +2,9 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:5Sae4YeLcFZ1P75vhzUDrp">piazzabologna</a>
+> Scopri 6 artisti emergenti su cui abbiamo deciso di scommettere! Cover:  <a href="spotify:artist:3HRSdDvPAE54ocmaq0JRrJ">Camilla Magli</a>
 
-128 songs - 6 hr 12 min
+131 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,13 @@
 | [AFTERPARTY](https://open.spotify.com/track/0NfsvBOFmD84c6qvpy3nkS) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [AFTERPARTY](https://open.spotify.com/album/5DQx0TobK6zTBz6RLcgMmS) | 3:13 | 2023-04-11 |  |
 | [Air](https://open.spotify.com/track/4n73tZIQt1h4Fp4YU68eDP) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Air](https://open.spotify.com/album/2VRyPaFCaZiIaIDC3ZS6fO) | 3:15 | 2022-08-31 | 2023-04-12 |
 | [All Over This Party](https://open.spotify.com/track/4Wbfb7B6ke5nJZUHX0P7mk) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [All Over This Party](https://open.spotify.com/album/4ofp2cEcuD3oelw7Qp3ooz) | 3:32 | 2022-08-31 | 2023-04-12 |
+| [Alta Tensione](https://open.spotify.com/track/0WWQoH3DVaCgzP923Yskfz) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Alta Tensione](https://open.spotify.com/album/0Y3KDN7F0Xhlqe8BTHKYrw) | 2:33 | 2024-01-16 |  |
 | [Amore&casino](https://open.spotify.com/track/4cz1tnar27zWx8H56ASrd6) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Amore&casino](https://open.spotify.com/album/3sNEQxM6ZYqeEScouZ1733) | 2:41 | 2023-04-11 |  |
 | [ANCORA](https://open.spotify.com/track/2XxrTkLS3YxDp0HRDPMlsM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [ANCORA](https://open.spotify.com/album/4LjYaprNELvWNeqE9hIszw) | 2:25 | 2023-04-11 |  |
 | [Anime Gemelle](https://open.spotify.com/track/3USBXXTmwCuu6AGrOIztpf) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Anime Gemelle](https://open.spotify.com/album/683rWb7DEe9DWOAIjyz6JB) | 2:36 | 2022-08-31 | 2023-04-12 |
 | [Aposto](https://open.spotify.com/track/3KA9IQQuAumlMXg0GxWdKg) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Aposto](https://open.spotify.com/album/1hHnzj2rQ4boFeXBLROIXO) | 2:31 | 2022-08-31 | 2023-04-12 |
 | [Avec moi](https://open.spotify.com/track/4b3d5gAAIUUhbzhRjQAZ97) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 3:14 | 2022-08-31 | 2023-04-12 |
+| [Baby Don't Cry](https://open.spotify.com/track/1FH5kQE84G1aY17BO5U2Ei) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [Baby Don't Cry](https://open.spotify.com/album/7zPSn1s2DdZVLTLCRi9zFz) | 3:04 | 2024-01-16 |  |
 | [Bambina](https://open.spotify.com/track/3ConKv3XVOlkcQp0SfaHA3) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [Bambina](https://open.spotify.com/album/4RVpMxTNK77CJp8ddQbJjL) | 2:19 | 2022-12-08 | 2023-04-12 |
 | [Bistrot](https://open.spotify.com/track/6BVYZ55BxhxYxOH4Tfid77) | [chiamamifaro](https://open.spotify.com/artist/7IkCnJuIFuZyvZb60a5DEe) | [Bistrot](https://open.spotify.com/album/67PCJjaYPG1cUjD9KXpQVm) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Boss \(io & te\)](https://open.spotify.com/track/5lXDYzI9tKb6Vx6Wg1yq4a) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Boss \(io & te\)](https://open.spotify.com/album/6dQS4H6TAnoFx45RGVrGVy) | 3:01 | 2022-08-31 | 2023-04-12 |
@@ -57,6 +59,7 @@
 | [Foot Forward](https://open.spotify.com/track/3Dm9mSyalSfqHdUPX5TLyR) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Foot Forward](https://open.spotify.com/album/6e3Yr0Yj7NM3ejYig0CyMK) | 2:34 | 2022-08-31 | 2023-04-12 |
 | [Forever Young](https://open.spotify.com/track/1L4NoSFjRkBcpxM8fnheyV) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [Forever Young](https://open.spotify.com/album/3ORRl8N0DLQRfSzSYjH3qd) | 2:33 | 2023-04-13 |  |
 | [Fratelli & Sogni](https://open.spotify.com/track/7eU88luluIpbVBs3RTYyOd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Fratelli & Sogni](https://open.spotify.com/album/5aVhpSwVPul3AWaTWq5NZG) | 2:40 | 2022-08-31 | 2023-04-12 |
+| [GENNAIO 24](https://open.spotify.com/track/3wTisd4SJ0raRbJmOuqbXd) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [GENNAIO 24](https://open.spotify.com/album/5TNxlyrgY5qoyceHYAoAE9) | 2:10 | 2024-01-16 |  |
 | [GIRASOLE](https://open.spotify.com/track/0wW7yRFcQrhXNjBwfcm1Gw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 3:17 | 2022-11-07 | 2022-11-13 |
 | [GIRASOLE](https://open.spotify.com/track/6Q5BuRgXZOWItqzvZfjKxw) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE](https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Guai \(feat\. Francesca Michielin\)](https://open.spotify.com/track/34hOXJuqGnxRVg0B5eDrpG) | [HU](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6), [Francesca Michielin](https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS) | [Numeri primi](https://open.spotify.com/album/72dqKyvNBKYp2LT4KC38vH) | 2:30 | 2022-08-31 | 2023-04-12 |

@@ -1,13 +1,177 @@
 {
   "description": "Keep your finger on the pulse of Americana. Cover: Jess Williamson",
-  "num_followers": 614670,
+  "num_followers": 608875,
   "original_name": "The Pulse of Americana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjliMTg5OWI2NGI5YTNjYWNmMTc0YWY2OTU5ZGEwNDlkOWY0M2Vl",
+  "snapshot_id": "MCxiOThkMTY5NmIwMTdkMGI4MDk4OThkNjEyN2IzZWYwZjI3ZmY4OGMz",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Same Water",
+        "url": "https://open.spotify.com/album/6V2dNmY5aFZND3ueCFIOOo"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "duration_ms": 260036,
+      "name": "Same Water",
+      "url": "https://open.spotify.com/track/5cP4ZjWFGgimzGJOKRwB9g"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "White Lies, White Jesus And You",
+        "url": "https://open.spotify.com/album/4PxGWmuTtzAxkPCzmWQ5Al"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 264926,
+      "name": "White Lies, White Jesus And You",
+      "url": "https://open.spotify.com/track/6gWgHGxCrROeP19EzkD7rs"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Pagan Church",
+        "url": "https://open.spotify.com/album/0oTreVJnC1akvkKpYxj9Ak"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
+        {
+          "name": "TK & The Holy Know-Nothings",
+          "url": "https://open.spotify.com/artist/2j3EKaRC7ZfBFiQQdBCwZG"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Damn My Love",
+      "url": "https://open.spotify.com/track/4WV21jJoYjf7d5abk0FbcM"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Tide of Love",
+        "url": "https://open.spotify.com/album/1uUd4igIiOBB8bTnqGfAkM"
+      },
+      "artists": [
+        {
+          "name": "Taylor McCall",
+          "url": "https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT"
+        }
+      ],
+      "duration_ms": 212201,
+      "name": "Tide of Love",
+      "url": "https://open.spotify.com/track/2o349jiFKT0rfdYMHoC96f"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Hard As Stone",
+        "url": "https://open.spotify.com/album/1BuisVIzD0wWQH86VDA0eS"
+      },
+      "artists": [
+        {
+          "name": "Jake Kohn",
+          "url": "https://open.spotify.com/artist/5tfKTqbUneP4J3dHeRiLSw"
+        }
+      ],
+      "duration_ms": 219638,
+      "name": "Hard As Stone",
+      "url": "https://open.spotify.com/track/6vcobS50d43h2edX7a3j38"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Honey Ain\u2019t No Sweeter",
+        "url": "https://open.spotify.com/album/4xnJf5yUfiE1SK736QTcQS"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 222817,
+      "name": "Honey Ain\u2019t No Sweeter",
+      "url": "https://open.spotify.com/track/5JS7aI8VQVsLd8nxrbn9Yx"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "My House",
+        "url": "https://open.spotify.com/album/7E9DaMnIXsxzZWRULufWh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Kirke",
+          "url": "https://open.spotify.com/artist/1g5bYOQ7ZHGbn0tuUHxSgE"
+        }
+      ],
+      "duration_ms": 155615,
+      "name": "My House",
+      "url": "https://open.spotify.com/track/1GK1suy5mFoPJ9mLDzGh1l"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "I Know It\u2019ll Never End",
+        "url": "https://open.spotify.com/album/6FZBJXoiTOMGScOWc0uepS"
+      },
+      "artists": [
+        {
+          "name": "The Castellows",
+          "url": "https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG"
+        }
+      ],
+      "duration_ms": 155307,
+      "name": "I Know It\u2019ll Never End",
+      "url": "https://open.spotify.com/track/7mJF8GrNWZl5TRrGzqf6je"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Saint Anthony",
+        "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
+      },
+      "artists": [
+        {
+          "name": "Brit Taylor",
+          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+        }
+      ],
+      "duration_ms": 163149,
+      "name": "Saint Anthony",
+      "url": "https://open.spotify.com/track/3eFYwua5oDXpONK6PXUc6r"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Security Camera",
+        "url": "https://open.spotify.com/album/0M9sCAD6i8TG2AxZZq6Kyx"
+      },
+      "artists": [
+        {
+          "name": "Bridget Kearney",
+          "url": "https://open.spotify.com/artist/04fJjgNu00TqqNolrDV0Z0"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Security Camera",
+      "url": "https://open.spotify.com/track/3PsgBvZYuDB28d3V7JXNNd"
+    },
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
@@ -23,6 +187,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/5htghP7rThIe6oXBN6uYI5"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Nowhere Fast",
+        "url": "https://open.spotify.com/album/67BYFNA2x3BwWfuMu6OO55"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 231308,
+      "name": "Nowhere Fast",
+      "url": "https://open.spotify.com/track/7m8BflD0vgXTPqVZ8EFu73"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -55,6 +235,22 @@
       "duration_ms": 198274,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/0Mq6UjfEgvHkNDv6DPow94"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Million Eyes",
+        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "duration_ms": 186635,
+      "name": "Dancing in the Sky",
+      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -143,6 +339,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Soul Sweet Song",
+        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "duration_ms": 235626,
+      "name": "Soul Sweet Song",
+      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Mean Old Sun",
         "url": "https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk"
       },
@@ -175,18 +387,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Kentucky Blue",
-        "url": "https://open.spotify.com/album/5vLD7cTnfTa8407z7ljNsX"
+        "name": "First High",
+        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
       },
       "artists": [
         {
-          "name": "Brit Taylor",
-          "url": "https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC"
+          "name": "Nikki Lane",
+          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
         }
       ],
-      "duration_ms": 227573,
-      "name": "No Cowboys",
-      "url": "https://open.spotify.com/track/19fuc8JoaMoK5dNpKNTwVu"
+      "duration_ms": 187867,
+      "name": "First High",
+      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -223,6 +435,22 @@
       "duration_ms": 203506,
       "name": "Celebrants",
       "url": "https://open.spotify.com/track/2oiIZsx8TsmnKF5TvY42aq"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "No Reason",
+        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -327,22 +555,6 @@
       "duration_ms": 217653,
       "name": "Press On",
       "url": "https://open.spotify.com/track/0pfcSDN5SE7WBG5DNaSBLs"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "The Hunger Games: The Ballad of Songbirds & Snakes (Music From & Inspired By)",
-        "url": "https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 222326,
-      "name": "The Garden - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/57mPJPpQCVS7bisURsmrJZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1107,38 +1319,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Haunted Mountain",
-        "url": "https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV"
-      },
-      "artists": [
-        {
-          "name": "Buck Meek",
-          "url": "https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR"
-        }
-      ],
-      "duration_ms": 311892,
-      "name": "Haunted Mountain",
-      "url": "https://open.spotify.com/track/45d44VPCRIW07tywccH8ii"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Sticks and Stones",
-        "url": "https://open.spotify.com/album/2GucgfY31P1y2qMJzpT99B"
-      },
-      "artists": [
-        {
-          "name": "Lukas Nelson and Promise of the Real",
-          "url": "https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "All Four Winds",
-      "url": "https://open.spotify.com/track/74M40IcCjxxY1EYzUiFJ6y"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Miles Away",
         "url": "https://open.spotify.com/album/5TvqtSnghTKtTN42h6AW1N"
       },
@@ -1315,22 +1495,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Million Eyes",
-        "url": "https://open.spotify.com/album/5jrPhnzA00KBWc3bJJUqTY"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        }
-      ],
-      "duration_ms": 186635,
-      "name": "Dancing in the Sky",
-      "url": "https://open.spotify.com/track/7siXHCf5qUbyJrhNYQXKFr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Vampire in Appalachia",
         "url": "https://open.spotify.com/album/6Ch409k36E7j35ECKAqNSu"
       },
@@ -1487,22 +1651,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "New York Comeback",
-        "url": "https://open.spotify.com/album/1a8vXGdhuyxxZ3m6YkUPP8"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 254468,
-      "name": "New York Comeback",
-      "url": "https://open.spotify.com/track/0uCIjbxBRNceKKdJg5FpzK"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Heart is the Hero",
         "url": "https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS"
       },
@@ -1531,22 +1679,6 @@
       "duration_ms": 243346,
       "name": "You\u2019re Supposed To Be Feeling Good",
       "url": "https://open.spotify.com/track/7tGDX6lu2AFgBxufLBV6zu"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "O Sun O Moon",
-        "url": "https://open.spotify.com/album/4HesCh7FUpSpwqKKE5jsRA"
-      },
-      "artists": [
-        {
-          "name": "Bruce Cockburn",
-          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
-        }
-      ],
-      "duration_ms": 211440,
-      "name": "On a Roll",
-      "url": "https://open.spotify.com/track/3c7RHocJLPOvC2nPFwr9vx"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1711,22 +1843,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Tears You Hide",
-        "url": "https://open.spotify.com/album/3mfbxfHcZ0moeI1W2ukCb8"
-      },
-      "artists": [
-        {
-          "name": "Jeremie Albino",
-          "url": "https://open.spotify.com/artist/69fOAbSc6FEOFmvvMzlNgY"
-        }
-      ],
-      "duration_ms": 179243,
-      "name": "You I'm Waiting On",
-      "url": "https://open.spotify.com/track/6VywyDwMOd6ehsR3MTV7gh"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Get Behind the Wheel",
         "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
       },
@@ -1875,26 +1991,6 @@
       "duration_ms": 223123,
       "name": "Change Of Heart [Feat. Sierra Ferrell]",
       "url": "https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/2pqkDXu8l47coBQGzSnkhg"
-      },
-      "artists": [
-        {
-          "name": "Rissi Palmer",
-          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
-        },
-        {
-          "name": "Miko Marks",
-          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
-        }
-      ],
-      "duration_ms": 221453,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/4WdIV3pE18PT2q7CzIB58l"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2119,22 +2215,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Soul Sweet Song",
-        "url": "https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud"
-      },
-      "artists": [
-        {
-          "name": "Tedeschi Trucks Band",
-          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
-        }
-      ],
-      "duration_ms": 235626,
-      "name": "Soul Sweet Song",
-      "url": "https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Heartless Year",
         "url": "https://open.spotify.com/album/0Mj3CjdxJa3gGFctHbsJzE"
       },
@@ -2147,22 +2227,6 @@
       "duration_ms": 235519,
       "name": "Heartless Year",
       "url": "https://open.spotify.com/track/1JPCveyZfQHq9wa2lnMo6C"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "CAZIMI",
-        "url": "https://open.spotify.com/album/3ujHcA736Nx4Y0WyxEprm7"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Rose",
-          "url": "https://open.spotify.com/artist/41LGTx1fpA69G2ZAJKZntM"
-        }
-      ],
-      "duration_ms": 224680,
-      "name": "Nobody's Sweetheart",
-      "url": "https://open.spotify.com/track/2vJihPQKmsrSYRKtLwRlES"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2255,22 +2319,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Workin' On A World",
-        "url": "https://open.spotify.com/album/3FZlD5JhglhV1LJKHQyGFD"
-      },
-      "artists": [
-        {
-          "name": "Iris DeMent",
-          "url": "https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "Workin' On A World",
-      "url": "https://open.spotify.com/track/3oRtsritMRck27VJpy7gLr"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "This Will Be Our Year",
         "url": "https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT"
       },
@@ -2299,22 +2347,6 @@
       "duration_ms": 179573,
       "name": "Burlesque Desert Window",
       "url": "https://open.spotify.com/track/2VRlBQCorJfk9QNWVyCMpy"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "First High",
-        "url": "https://open.spotify.com/album/0YseQ6nyHkM8ZZjqbnNChs"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 187867,
-      "name": "First High",
-      "url": "https://open.spotify.com/track/4WG91Pt9MkJs5gMHZECKfZ"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2379,22 +2411,6 @@
       "duration_ms": 208053,
       "name": "Kingdom For A Fool",
       "url": "https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "No Reason",
-        "url": "https://open.spotify.com/album/01ViTwi8Uah9hrZ2dur0N3"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "No Reason",
-      "url": "https://open.spotify.com/track/37jwU53srb7CnhdoUPjTEY"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -2479,22 +2495,6 @@
       "duration_ms": 226371,
       "name": "Good Morning Coffee",
       "url": "https://open.spotify.com/track/6ic8f1Bzdq8hYoqUobU15F"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "On The Ranch",
-        "url": "https://open.spotify.com/album/46zBXKv7dPhFRcDpr5NxWQ"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 161666,
-      "name": "In The Mornin\u2019",
-      "url": "https://open.spotify.com/track/18boKjkBe0r4TLYdpVxHfo"
     }
   ],
   "unique_name": "The Pulse of Americana",

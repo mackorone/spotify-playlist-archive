@@ -1,73 +1,5557 @@
 {
-  "2023-10-23": 42935,
-  "2023-10-24": 43022,
-  "2023-10-25": 43070,
-  "2023-10-26": 43094,
-  "2023-10-27": 43112,
-  "2023-10-28": 43171,
-  "2023-10-29": 43202,
-  "2023-10-30": 43319,
-  "2023-10-31": 43319,
-  "2023-11-01": 43362,
-  "2023-11-02": 43395,
-  "2023-11-03": 43416,
-  "2023-11-04": 43472,
-  "2023-11-05": 43510,
-  "2023-11-06": 43542,
-  "2023-11-07": 43622,
-  "2023-11-08": 43660,
-  "2023-11-09": 43691,
-  "2023-11-10": 43711,
-  "2023-11-11": 43763,
-  "2023-11-12": 43782,
-  "2023-11-13": 43819,
-  "2023-11-14": 43870,
-  "2023-11-15": 43870,
-  "2023-11-16": 43942,
-  "2023-11-17": 43993,
-  "2023-11-18": 43993,
-  "2023-11-19": 44026,
-  "2023-11-20": 44042,
-  "2023-11-21": 44094,
-  "2023-11-22": 44126,
-  "2023-11-23": 44154,
-  "2023-11-24": 44162,
-  "2023-11-25": 44185,
-  "2023-11-26": 44216,
-  "2023-11-27": 44257,
-  "2023-11-28": 44298,
-  "2023-11-29": 44336,
-  "2023-11-30": 44336,
-  "2023-12-01": 44327,
-  "2023-12-02": 44334,
-  "2023-12-03": 44356,
-  "2023-12-04": 44389,
-  "2023-12-05": 44464,
-  "2023-12-06": 44504,
-  "2023-12-07": 44508,
-  "2023-12-08": 44508,
-  "2023-12-09": 44508,
-  "2023-12-10": 44538,
-  "2023-12-11": 44552,
-  "2023-12-12": 44624,
-  "2023-12-13": 44656,
-  "2023-12-14": 44746,
-  "2023-12-15": 44739,
-  "2023-12-16": 44798,
-  "2023-12-17": 44831,
-  "2023-12-18": 44848,
-  "2023-12-19": 44903,
-  "2023-12-20": 44941,
-  "2023-12-21": 44971,
-  "2023-12-22": 45021,
-  "2023-12-23": 45069,
-  "2023-12-24": 45108,
-  "2023-12-25": 45137,
-  "2023-12-26": 45187,
-  "2023-12-27": 45230,
-  "2023-12-30": 45404,
-  "2023-12-31": 45422,
-  "2024-01-01": 45426,
-  "2024-01-02": 45466,
-  "2024-01-03": 45494
+  "2024-01-17": 46142,
+  "date_first_scraped": "2023-10-23",
+  "description": "Uma chuva calma e tranquila para te fazer companhia.",
+  "name": "Chuva Leve",
+  "tracks": [
+    {
+      "album": {
+        "name": "11 p.m rain",
+        "url": "https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW"
+      },
+      "artists": [
+        {
+          "name": "The Sleep Specialist",
+          "url": "https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143161,
+      "name": "11 p.m rain",
+      "url": "https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I"
+    },
+    {
+      "album": {
+        "name": "rain in oslo",
+        "url": "https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208250,
+      "name": "3am rain",
+      "url": "https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN"
+    },
+    {
+      "album": {
+        "name": "Part Two",
+        "url": "https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a"
+      },
+      "artists": [
+        {
+          "name": "Rain In Spain",
+          "url": "https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229192,
+      "name": "3D Rain",
+      "url": "https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd"
+    },
+    {
+      "album": {
+        "name": "rain in oslo",
+        "url": "https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208250,
+      "name": "7pm rain",
+      "url": "https://open.spotify.com/track/3zr2ab92YbPnsZB5NBtViI"
+    },
+    {
+      "album": {
+        "name": "Urban Rain For Dreams",
+        "url": "https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m"
+      },
+      "artists": [
+        {
+          "name": "Sams Sampling",
+          "url": "https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 161983,
+      "name": "Abstract Rain",
+      "url": "https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6"
+    },
+    {
+      "album": {
+        "name": "London Days",
+        "url": "https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq"
+      },
+      "artists": [
+        {
+          "name": "April Shower",
+          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "Aint No Sunshine When There's Rain",
+      "url": "https://open.spotify.com/track/6SZvCnStgcYX3Rlj5ttODW"
+    },
+    {
+      "album": {
+        "name": "Always Raining",
+        "url": "https://open.spotify.com/album/5CAI53hmKfuMEiDuWIUg2F"
+      },
+      "artists": [
+        {
+          "name": "Tono",
+          "url": "https://open.spotify.com/artist/4TBU1LUldUubb3RaqmLLN7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216062,
+      "name": "Always Raining",
+      "url": "https://open.spotify.com/track/0WpKvgOUCpKowejZgeO5W0"
+    },
+    {
+      "album": {
+        "name": "Ambience: Forest Rain",
+        "url": "https://open.spotify.com/album/02VU8nz7IrQdiheKviqRL9"
+      },
+      "artists": [
+        {
+          "name": "X.L.T",
+          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 168671,
+      "name": "Ambience: Forest Rain",
+      "url": "https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm"
+    },
+    {
+      "album": {
+        "name": "Backyard Drops",
+        "url": "https://open.spotify.com/album/04N16a2eIMoSJuVUTrnZtZ"
+      },
+      "artists": [
+        {
+          "name": "The Rainy Jungle",
+          "url": "https://open.spotify.com/artist/4iBwOwjKNuOB8vlwQ3EAKC"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144909,
+      "name": "Backyard Drops",
+      "url": "https://open.spotify.com/track/7kLuFSEW5zwkIG3UJTv1Oz"
+    },
+    {
+      "album": {
+        "name": "Relaxing Rainstorms",
+        "url": "https://open.spotify.com/album/3jg3BUq18aQaSGD07MQxOa"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Backyard Rains",
+      "url": "https://open.spotify.com/track/5v6qXVmMn68GxCPF9XGZVH"
+    },
+    {
+      "album": {
+        "name": "Bajo el paraguas",
+        "url": "https://open.spotify.com/album/3Ic7NfvpRKX8lpksj0pqiQ"
+      },
+      "artists": [
+        {
+          "name": "Weather Modifier",
+          "url": "https://open.spotify.com/artist/3K7OgYrxkpevhaJugrGYSN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123344,
+      "name": "Bajo el paraguas",
+      "url": "https://open.spotify.com/track/03LAJ7B7jCiLthiT3higCE"
+    },
+    {
+      "album": {
+        "name": "More Algarve Rain Sounds",
+        "url": "https://open.spotify.com/album/3NKXyOKPVvzmvNU31o9QgU"
+      },
+      "artists": [
+        {
+          "name": "Lissabon Spring Rain",
+          "url": "https://open.spotify.com/artist/6Yw7xTCv06irrYjEXsX4F3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141750,
+      "name": "Beautiful Rain - 3.15 kHz",
+      "url": "https://open.spotify.com/track/780Nf8Vlcagyf1SAzMrJE5"
+    },
+    {
+      "album": {
+        "name": "Rainy Nights",
+        "url": "https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO"
+      },
+      "artists": [
+        {
+          "name": "humidum",
+          "url": "https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Been Raining For Hours",
+      "url": "https://open.spotify.com/track/7iZHDQwbapPo9MYf3KLSG0"
+    },
+    {
+      "album": {
+        "name": "Mostly Just Rain",
+        "url": "https://open.spotify.com/album/4O0P4IHgzILfzLay0jsbpY"
+      },
+      "artists": [
+        {
+          "name": "Drophic",
+          "url": "https://open.spotify.com/artist/3mboCTSEdeqTFJgRg6a9Fj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Blooming In Rain",
+      "url": "https://open.spotify.com/track/5kKKlThKApoonAvm7tUFKm"
+    },
+    {
+      "album": {
+        "name": "Blu Droplets",
+        "url": "https://open.spotify.com/album/5Iw4u0nUfL2Ikzqf1hz02S"
+      },
+      "artists": [
+        {
+          "name": "ANCIENT RAIN",
+          "url": "https://open.spotify.com/artist/4skpcZxulah2mY60iwKaff"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 214998,
+      "name": "Blu Droplets",
+      "url": "https://open.spotify.com/track/67OwsQXaeWLa2VAV0RHymM"
+    },
+    {
+      "album": {
+        "name": "Lightrise (Rain)",
+        "url": "https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bog (Rain)",
+      "url": "https://open.spotify.com/track/2nQXaIBXVRdnDrSIrFtEug"
+    },
+    {
+      "album": {
+        "name": "Calm Sounds of Nature",
+        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Bomanyo (Rain)",
+      "url": "https://open.spotify.com/track/2MTodlKv4iRI5aegdnSbsa"
+    },
+    {
+      "album": {
+        "name": "Winter Rains",
+        "url": "https://open.spotify.com/album/7L2kkXjkHCriHkyC1rRPcq"
+      },
+      "artists": [
+        {
+          "name": "In Natura",
+          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237837,
+      "name": "Bright Morning Rain in the Garden",
+      "url": "https://open.spotify.com/track/4kynnQt1xF5MWyUB5NQ2Sa"
+    },
+    {
+      "album": {
+        "name": "Serene Rain Soundscapes",
+        "url": "https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Cadaria (Rain)",
+      "url": "https://open.spotify.com/track/5PhiuzclYBgvYsHUR2oQ97"
+    },
+    {
+      "album": {
+        "name": "Calm Bedtime Rain",
+        "url": "https://open.spotify.com/album/1MvLHAL8JIC9d7S5mOnrja"
+      },
+      "artists": [
+        {
+          "name": "Light Camera Rain",
+          "url": "https://open.spotify.com/artist/64M0VF8ZKRHOlrjUXCv0VA"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152341,
+      "name": "Calm Evening Rain",
+      "url": "https://open.spotify.com/track/26d4W0pwjf1hLxkVOzvA9v"
+    },
+    {
+      "album": {
+        "name": "Calm Sounds of Nature",
+        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 180000,
+      "name": "Calm Garden (Rain)",
+      "url": "https://open.spotify.com/track/0QtoO7wi3Y78vMf8gHBGso"
+    },
+    {
+      "album": {
+        "name": "Skyfall Oasis (Rain)",
+        "url": "https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Calm Trickle - Rain",
+      "url": "https://open.spotify.com/track/55ioDcErmBxGxKiOyklNlX"
+    },
+    {
+      "album": {
+        "name": "Always Raining",
+        "url": "https://open.spotify.com/album/2guN86OowlAoUmcZBIpDs9"
+      },
+      "artists": [
+        {
+          "name": "Always Raining",
+          "url": "https://open.spotify.com/artist/3LQVNu4j9sFJRAXSD9AWGN"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 86935,
+      "name": "Calming Rain Deluxe",
+      "url": "https://open.spotify.com/track/4KhpDFwW3HxjX70PKNTY5d"
+    },
+    {
+      "album": {
+        "name": "Capital Rain Sounds",
+        "url": "https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V"
+      },
+      "artists": [
+        {
+          "name": "Capital Rain Sounds",
+          "url": "https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122601,
+      "name": "Calming Rain Sounds",
+      "url": "https://open.spotify.com/track/0etdbMJmGbANfSdrcJ2fNE"
+    },
+    {
+      "album": {
+        "name": "Mother Nature",
+        "url": "https://open.spotify.com/album/3Y5nmq4nrhroS7oZpc5ggb"
+      },
+      "artists": [
+        {
+          "name": "Refreshing Rain",
+          "url": "https://open.spotify.com/artist/41VEwpxNtWVa0GWB4RLH03"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Calming Storm",
+      "url": "https://open.spotify.com/track/7iXfwy9XBFR1WaLs5CSb6Z"
+    },
+    {
+      "album": {
+        "name": "Skyfall Oasis (Rain)",
+        "url": "https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Cave Escape - Rain",
+      "url": "https://open.spotify.com/track/6tvrRjz2Z8RblCDfahdB8p"
+    },
+    {
+      "album": {
+        "name": "Chill Drizzle",
+        "url": "https://open.spotify.com/album/2m2xQ14Gfgo3UgX2CggAuV"
+      },
+      "artists": [
+        {
+          "name": "Chillo Sapiens",
+          "url": "https://open.spotify.com/artist/3jNjKJmbkMfQta1VkJ8ILq"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 166000,
+      "name": "Chill Drizzle",
+      "url": "https://open.spotify.com/track/4ZitsEqe5QOzPOYCQkrMsT"
+    },
+    {
+      "album": {
+        "name": "When It Pours It Rains",
+        "url": "https://open.spotify.com/album/20BqShqyjjbjVXMIRVGwyB"
+      },
+      "artists": [
+        {
+          "name": "Nature Trudge",
+          "url": "https://open.spotify.com/artist/7x0t1q7YipVEBMRHIltHGK"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Chill Puddle Rain",
+      "url": "https://open.spotify.com/track/3U6yTCH5TJ233GGXG3bDUI"
+    },
+    {
+      "album": {
+        "name": "Chill Summer Rain",
+        "url": "https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f"
+      },
+      "artists": [
+        {
+          "name": "All Rain",
+          "url": "https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137044,
+      "name": "Chill Summer Rain",
+      "url": "https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0"
+    },
+    {
+      "album": {
+        "name": "Chuva suave calma",
+        "url": "https://open.spotify.com/album/5pALCqXwTLfawDv2GsTa8r"
+      },
+      "artists": [
+        {
+          "name": "Chuva Recordare",
+          "url": "https://open.spotify.com/artist/4v0M5B3W74hdbwgBHZ5wEQ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120384,
+      "name": "Chuva do sono",
+      "url": "https://open.spotify.com/track/5muT9BRTYgm6ItX3Pth2gt"
+    },
+    {
+      "album": {
+        "name": "Rain For Relaxation",
+        "url": "https://open.spotify.com/album/4tcF6ddU4hcwD78mHyuXFn"
+      },
+      "artists": [
+        {
+          "name": "The Calm Factory",
+          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 140142,
+      "name": "Chuva soa para dormir",
+      "url": "https://open.spotify.com/track/5sMzZKg6SLtG5lcudEpDLC"
+    },
+    {
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/50928u7imP1NfSYTnTgOLh"
+      },
+      "artists": [
+        {
+          "name": "Wet Forest",
+          "url": "https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155295,
+      "name": "Circle of Rain",
+      "url": "https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV"
+    },
+    {
+      "album": {
+        "name": "Drizzle & Shower",
+        "url": "https://open.spotify.com/album/4oQiUHa2cBZiio6H7ONJXE"
+      },
+      "artists": [
+        {
+          "name": "Relaxcation",
+          "url": "https://open.spotify.com/artist/1Iww3Y4gDbNvjkqnjUzIZu"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139691,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/0MAlsJSQfEgP9VjUtNQL8Q"
+    },
+    {
+      "album": {
+        "name": "Rain In The City",
+        "url": "https://open.spotify.com/album/4c9wDQS5nG07YRVzUsKdEN"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Clouds Dispersing",
+      "url": "https://open.spotify.com/track/5bAkEjQbEIqZsuAcwNPBeP"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds 2",
+        "url": "https://open.spotify.com/album/3rgvsuxRWRjTEyIdM9qPXT"
+      },
+      "artists": [
+        {
+          "name": "TELEKROME",
+          "url": "https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 195125,
+      "name": "Cold Rain Sounds",
+      "url": "https://open.spotify.com/track/1mwkt4iPo40EaJhecpgzRX"
+    },
+    {
+      "album": {
+        "name": "ETERNAL RAIN",
+        "url": "https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF"
+      },
+      "artists": [
+        {
+          "name": "In Natura",
+          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266698,
+      "name": "Comforting Rain on the Pavement",
+      "url": "https://open.spotify.com/track/4syPt1U8aSe08e6X7fJ100"
+    },
+    {
+      "album": {
+        "name": "Part 1",
+        "url": "https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK"
+      },
+      "artists": [
+        {
+          "name": "Rain In Spain",
+          "url": "https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 189330,
+      "name": "Consistent Rain",
+      "url": "https://open.spotify.com/track/7aXLPmUZSAWIzyYqbjlh2E"
+    },
+    {
+      "album": {
+        "name": "Drizzle Down",
+        "url": "https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc"
+      },
+      "artists": [
+        {
+          "name": "Why Wynne",
+          "url": "https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131517,
+      "name": "Cool Air & Rain",
+      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH"
+    },
+    {
+      "album": {
+        "name": "Rain Bliss",
+        "url": "https://open.spotify.com/album/3XsdDkAezeXlQaCNwMUJgD"
+      },
+      "artists": [
+        {
+          "name": "Devika Arkes",
+          "url": "https://open.spotify.com/artist/1QxXQCVzes3IC2zMLSGOQR"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Cool Turbulence Rain",
+      "url": "https://open.spotify.com/track/3bNmDdrA65YYjaNJ4fJm7k"
+    },
+    {
+      "album": {
+        "name": "Night Rain",
+        "url": "https://open.spotify.com/album/6cxTguNqoApoXfmUUOPYb6"
+      },
+      "artists": [
+        {
+          "name": "LBE Nature Recordings",
+          "url": "https://open.spotify.com/artist/2rujgIBrLOHJ64leeafdmz"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 100252,
+      "name": "Cosy Morning Rain",
+      "url": "https://open.spotify.com/track/3x1njiYHSttnMf3dLIVpAb"
+    },
+    {
+      "album": {
+        "name": "Noise of Water",
+        "url": "https://open.spotify.com/album/5O0CKgV8A80zgqqwfQp8BK"
+      },
+      "artists": [
+        {
+          "name": "Noise of Water",
+          "url": "https://open.spotify.com/artist/72HyAh4s02aVrmIDCDHuBl"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140434,
+      "name": "Cosy Storm",
+      "url": "https://open.spotify.com/track/4NPhZSpTRJhsEG5DdbGH2P"
+    },
+    {
+      "album": {
+        "name": "Late Night Drizzle",
+        "url": "https://open.spotify.com/album/11GgUitOEBUhUysI0cdec6"
+      },
+      "artists": [
+        {
+          "name": "Aqualogic",
+          "url": "https://open.spotify.com/artist/4LiP2v7wfqtd3lLZta08UP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Cozier Rain",
+      "url": "https://open.spotify.com/track/0RQktlGrRK4m19H85ILLTO"
+    },
+    {
+      "album": {
+        "name": "Nocturnal Cozy Rain",
+        "url": "https://open.spotify.com/album/3C4JU2iVIEI5F8B59b7upA"
+      },
+      "artists": [
+        {
+          "name": "Drip-Drop",
+          "url": "https://open.spotify.com/artist/0iDx4sYtJ0FfXi5tdGGXTA"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Cozy Calming Nocturnal Rain",
+      "url": "https://open.spotify.com/track/7yfJG16maztJXFzCQ3RJEa"
+    },
+    {
+      "album": {
+        "name": "Rain for Soothing Souls",
+        "url": "https://open.spotify.com/album/23kglUYmApubc91wqBaE58"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Deciduous Forest Rain",
+      "url": "https://open.spotify.com/track/7EjYp81XPWKHiTC2sBuDcb"
+    },
+    {
+      "album": {
+        "name": "Clouds Above",
+        "url": "https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166714,
+      "name": "Delicate Rain",
+      "url": "https://open.spotify.com/track/5yj0oLWldSqf7XPydYMuOQ"
+    },
+    {
+      "album": {
+        "name": "Regnmannen",
+        "url": "https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn"
+      },
+      "artists": [
+        {
+          "name": "Regnmannen",
+          "url": "https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Det Regnar",
+      "url": "https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs"
+    },
+    {
+      "album": {
+        "name": "Distant Rain",
+        "url": "https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR"
+      },
+      "artists": [
+        {
+          "name": "Pacific Rain",
+          "url": "https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Distant Rain",
+      "url": "https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ"
+    },
+    {
+      "album": {
+        "name": "Divine Sleep",
+        "url": "https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL"
+      },
+      "artists": [
+        {
+          "name": "Tranquility Spree",
+          "url": "https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "Divine Sleep",
+      "url": "https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0"
+    },
+    {
+      "album": {
+        "name": "Dock Rain",
+        "url": "https://open.spotify.com/album/00N23ZtewpOkwzYpluaZzf"
+      },
+      "artists": [
+        {
+          "name": "sumyeon uisa \uc218\uba74 \uc758\uc0ac",
+          "url": "https://open.spotify.com/artist/2o0U8zZEXzdcTHWnbGQt4X"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127402,
+      "name": "Dock Rain \ub3c5 \ube44",
+      "url": "https://open.spotify.com/track/5Xn5HO5wAQS1ya8fmJMkAQ"
+    },
+    {
+      "album": {
+        "name": "Don't Mind The Rain",
+        "url": "https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Don't Mind The Rain",
+      "url": "https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k"
+    },
+    {
+      "album": {
+        "name": "Nature's Rain, Oceans, Rivers",
+        "url": "https://open.spotify.com/album/6nHdYuYYtvfDSRIBP7TCGo"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Dozy Rain - Rain",
+      "url": "https://open.spotify.com/track/5BMiNda6qOfuMa8KO4V7l3"
+    },
+    {
+      "album": {
+        "name": "Dragonflies",
+        "url": "https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS"
+      },
+      "artists": [
+        {
+          "name": "Tom D. Waters",
+          "url": "https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152769,
+      "name": "Dragonflies",
+      "url": "https://open.spotify.com/track/0rCLlfy2i0eMLmtVfiWXsd"
+    },
+    {
+      "album": {
+        "name": "Dream Rain",
+        "url": "https://open.spotify.com/album/1J0soxGBVkV0duPq6dIZ5R"
+      },
+      "artists": [
+        {
+          "name": "24H Rain Sounds",
+          "url": "https://open.spotify.com/artist/3Gx6UNiTUubJFQzUyUjKQW"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167185,
+      "name": "Dream Rain",
+      "url": "https://open.spotify.com/track/4nmDCD7xB5mBFsupQxcx8M"
+    },
+    {
+      "album": {
+        "name": "Dreamy Rain",
+        "url": "https://open.spotify.com/album/2ubzY0tGpiExYeNVvA89eI"
+      },
+      "artists": [
+        {
+          "name": "Oasis of Sleep",
+          "url": "https://open.spotify.com/artist/1BhI98thKFuBTeSvxFDd3g"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168604,
+      "name": "Dreamy Rain",
+      "url": "https://open.spotify.com/track/4MkRYtYntl1YpyjeXLMP1B"
+    },
+    {
+      "album": {
+        "name": "Skyscraps",
+        "url": "https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN"
+      },
+      "artists": [
+        {
+          "name": "Rainded",
+          "url": "https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151579,
+      "name": "Dreamy Rain",
+      "url": "https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8"
+    },
+    {
+      "album": {
+        "name": "Dripping Rain",
+        "url": "https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b"
+      },
+      "artists": [
+        {
+          "name": "Golden Drops",
+          "url": "https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 159388,
+      "name": "Dripping Rain",
+      "url": "https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9"
+    },
+    {
+      "album": {
+        "name": "rain me to sleep",
+        "url": "https://open.spotify.com/album/15FPonuOwe3Ls9363HwWXK"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208062,
+      "name": "dripping rain",
+      "url": "https://open.spotify.com/track/6C2FGz9oUL6iLXkkFKhrfZ"
+    },
+    {
+      "album": {
+        "name": "Lightrise (Rain)",
+        "url": "https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Drizzling",
+      "url": "https://open.spotify.com/track/2czlzoPXzidrNnJ1vLdqV8"
+    },
+    {
+      "album": {
+        "name": "Droplet",
+        "url": "https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW"
+      },
+      "artists": [
+        {
+          "name": "Skyyy",
+          "url": "https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Drop from the cloud",
+      "url": "https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu"
+    },
+    {
+      "album": {
+        "name": "Drops During Dream",
+        "url": "https://open.spotify.com/album/2uZ06TUDBXNc54ueZj8o8i"
+      },
+      "artists": [
+        {
+          "name": "Alois",
+          "url": "https://open.spotify.com/artist/6WqG9JAQw07tR3BUuwNTHt"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Drops During Dream",
+      "url": "https://open.spotify.com/track/0Y2AiBpOVTg69UDxGozu4w"
+    },
+    {
+      "album": {
+        "name": "Drops Of Skies",
+        "url": "https://open.spotify.com/album/4wopG570SslotxhJVt1WC8"
+      },
+      "artists": [
+        {
+          "name": "Tailormade Rain",
+          "url": "https://open.spotify.com/artist/136WJmw5lkgh37HAthTB1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173888,
+      "name": "Drops Of Skies",
+      "url": "https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk"
+    },
+    {
+      "album": {
+        "name": "Space Rain",
+        "url": "https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K"
+      },
+      "artists": [
+        {
+          "name": "Celestial Noise",
+          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 221000,
+      "name": "Earth Rain",
+      "url": "https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC"
+    },
+    {
+      "album": {
+        "name": "Tranquil Rain",
+        "url": "https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm"
+      },
+      "artists": [
+        {
+          "name": "Mother Nature Sound FX",
+          "url": "https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136260,
+      "name": "Earthly Breeze Rain",
+      "url": "https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP"
+    },
+    {
+      "album": {
+        "name": "Clean Rain",
+        "url": "https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB"
+      },
+      "artists": [
+        {
+          "name": "Four Winds",
+          "url": "https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Endless Rain Loop",
+      "url": "https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s"
+    },
+    {
+      "album": {
+        "name": "Sonidos suaves de lluvia",
+        "url": "https://open.spotify.com/album/0fwnwGqpazvV5yC6fwlavG"
+      },
+      "artists": [
+        {
+          "name": "Mighty Nature X",
+          "url": "https://open.spotify.com/artist/2WjBhauzTBxo4K0DzDfWUL"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146378,
+      "name": "Escapar bajo la lluvia",
+      "url": "https://open.spotify.com/track/0LKw5lPlg5dSyxAmZQVZU1"
+    },
+    {
+      "album": {
+        "name": "Rain in the Woods",
+        "url": "https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Evening Sleepy Rain",
+      "url": "https://open.spotify.com/track/66AEXwDpLz9Uwz3DWvMnUa"
+    },
+    {
+      "album": {
+        "name": "Episode One",
+        "url": "https://open.spotify.com/album/0LmoB3rBXBGCdEDquHXKmA"
+      },
+      "artists": [
+        {
+          "name": "Thunder In Paradise",
+          "url": "https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D"
+    },
+    {
+      "album": {
+        "name": "Spring Rain Recording",
+        "url": "https://open.spotify.com/album/2UfZNIUkQnYXcNJnoazLQH"
+      },
+      "artists": [
+        {
+          "name": "Recorder Rain",
+          "url": "https://open.spotify.com/artist/131gEfEg9mRABx2yTa6kCX"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143425,
+      "name": "Fall Rain Recording",
+      "url": "https://open.spotify.com/track/6aUFCMYUSloHWVG3Cg4Hta"
+    },
+    {
+      "album": {
+        "name": "Falling Rain",
+        "url": "https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E"
+      },
+      "artists": [
+        {
+          "name": "Medi Rela",
+          "url": "https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149566,
+      "name": "Falling Rain",
+      "url": "https://open.spotify.com/track/6r42paRO1a3ReJusTZC5MU"
+    },
+    {
+      "album": {
+        "name": "Los Angeles Rain",
+        "url": "https://open.spotify.com/album/6GuGhvQs5EpSxr6wQd71Bd"
+      },
+      "artists": [
+        {
+          "name": "Flows of Sleep",
+          "url": "https://open.spotify.com/artist/1MAazf048soVcELWMYehho"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 169412,
+      "name": "Farifax Rain",
+      "url": "https://open.spotify.com/track/5xhJMhyDHNzFS2FCDSQTp7"
+    },
+    {
+      "album": {
+        "name": "Zen In the Rain",
+        "url": "https://open.spotify.com/album/4JTlze1NAzJv44TN6U4xTJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3Y8fH6qqMlkoN5DHPQwbo4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159388,
+      "name": "Feeling Of Rain",
+      "url": "https://open.spotify.com/track/3m9kSELDjvTupu243WsIRP"
+    },
+    {
+      "album": {
+        "name": "Blessed Rain",
+        "url": "https://open.spotify.com/album/4Bu6bIFHYCabxiQSxkI36T"
+      },
+      "artists": [
+        {
+          "name": "Heart of Fjorgyn",
+          "url": "https://open.spotify.com/artist/4fkTPjObX2xjH7mEk7WQRX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201491,
+      "name": "Fjorgyn",
+      "url": "https://open.spotify.com/track/6umAPo33PT9loaaQ1b937z"
+    },
+    {
+      "album": {
+        "name": "Calming Rain Sounds",
+        "url": "https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g"
+      },
+      "artists": [
+        {
+          "name": "Liquid Planet Recordings",
+          "url": "https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149391,
+      "name": "Focus Rain On Shore",
+      "url": "https://open.spotify.com/track/74tDgRyL1BSz4nNFNVTWxq"
+    },
+    {
+      "album": {
+        "name": "Unlimited Rain",
+        "url": "https://open.spotify.com/album/5AAGGHlY1D0SqdfOKcXJh2"
+      },
+      "artists": [
+        {
+          "name": "Storm Machine",
+          "url": "https://open.spotify.com/artist/2pXi0IcglHeXlVJqcDStpk"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148237,
+      "name": "Focus To Rain Sound",
+      "url": "https://open.spotify.com/track/1Zlgk780ReXjity59pzdWB"
+    },
+    {
+      "album": {
+        "name": "Gentle Waters",
+        "url": "https://open.spotify.com/album/2JDyyTD89nIEtUddaUuawD"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Forest Spirits (Rain)",
+      "url": "https://open.spotify.com/track/3VeEplQsKzt4ls3tTJrtvO"
+    },
+    {
+      "album": {
+        "name": "Forgotten Skies",
+        "url": "https://open.spotify.com/album/0YXwzkrl8DQFvjXbcTdeSe"
+      },
+      "artists": [
+        {
+          "name": "cloudcity",
+          "url": "https://open.spotify.com/artist/3GLqH1P5kbxsIWqCwOwaB8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Forgotten Skies",
+      "url": "https://open.spotify.com/track/5hY7DPBIJJc0tIBVMBIcIZ"
+    },
+    {
+      "album": {
+        "name": "When The Sky Falls",
+        "url": "https://open.spotify.com/album/1H0ZCcT128FPgX948kZkQx"
+      },
+      "artists": [
+        {
+          "name": "Nue",
+          "url": "https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "From The Clouds",
+      "url": "https://open.spotify.com/track/5Tq5QmvIqEPV9mQt6FkvEj"
+    },
+    {
+      "album": {
+        "name": "Garasia Rain Forest",
+        "url": "https://open.spotify.com/album/05T1og9UcFJdSUzZcobUfz"
+      },
+      "artists": [
+        {
+          "name": "Literrain",
+          "url": "https://open.spotify.com/artist/4rwOqhIQpWyk3Tx4GbiqMw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127059,
+      "name": "Garasia Rain Forest",
+      "url": "https://open.spotify.com/track/0I42DRVbtMJr0bLEO6ZQB6"
+    },
+    {
+      "album": {
+        "name": "Gentle Garden Rain",
+        "url": "https://open.spotify.com/album/34Z9XV0Lqkp4Ez8DGekhXc"
+      },
+      "artists": [
+        {
+          "name": "Aqualand",
+          "url": "https://open.spotify.com/artist/5vMLhcMsB19f7u6bZ2f9GM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 193338,
+      "name": "Gentle Garden Rain",
+      "url": "https://open.spotify.com/track/43xyo8dOzS47tWP2omabv6"
+    },
+    {
+      "album": {
+        "name": "Amazing Rain",
+        "url": "https://open.spotify.com/album/7542tGxBvmdMJqrMevzmx5"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rain",
+          "url": "https://open.spotify.com/artist/49mn116HRq75cnUE2Mhs1X"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 176000,
+      "name": "Gentle Rain Sound",
+      "url": "https://open.spotify.com/track/0ux3iPlvKsD9AaxGRl3sFF"
+    },
+    {
+      "album": {
+        "name": "Gentle Rainfall",
+        "url": "https://open.spotify.com/album/7t3EAck5pBqcys8naib91U"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Gentle Rainfall",
+      "url": "https://open.spotify.com/track/5SsKtHf2aKxKXAws8BNOgG"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/4JYZA9jYxok2OfXWe0P44v"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 209217,
+      "name": "Gentle Spring Rain",
+      "url": "https://open.spotify.com/track/7r9YUR97y7anYj1NpC3ReR"
+    },
+    {
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Gentle Trickle (Rain)",
+      "url": "https://open.spotify.com/track/4DXNO0AfE3FPr5PUpubnsx"
+    },
+    {
+      "album": {
+        "name": "Misty Rain",
+        "url": "https://open.spotify.com/album/2ZTBbqsjjp5b7tvSGcWWQu"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Get Away Rain",
+      "url": "https://open.spotify.com/track/4MRSkeZDLve6VCSTOvKa45"
+    },
+    {
+      "album": {
+        "name": "Good Night Sleep Rain",
+        "url": "https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb"
+      },
+      "artists": [
+        {
+          "name": "Sound FX Pro",
+          "url": "https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141778,
+      "name": "Good Night Sleep Rain 1",
+      "url": "https://open.spotify.com/track/1bxooa4BimoiDDFBScAIgD"
+    },
+    {
+      "album": {
+        "name": "Good Night Sleep Rain",
+        "url": "https://open.spotify.com/album/75B9OYcsOj9yNf5MjZLTgb"
+      },
+      "artists": [
+        {
+          "name": "Sound FX Pro",
+          "url": "https://open.spotify.com/artist/31NJmSBsWYghiJmHs2XMXo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159141,
+      "name": "Good Night Sleep Rain 3",
+      "url": "https://open.spotify.com/track/3sPSOsS3ZrVQT6KFTacHQm"
+    },
+    {
+      "album": {
+        "name": "The Hand Made Thunder",
+        "url": "https://open.spotify.com/album/5IKxRPK8tUwawR5arR7S3N"
+      },
+      "artists": [
+        {
+          "name": "Louis Lightning",
+          "url": "https://open.spotify.com/artist/1sOxydo8E7OEF5ctUaqcnK"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Good Weather Ahead",
+      "url": "https://open.spotify.com/track/3qEIPYO8qu0KFTlPqFpSiu"
+    },
+    {
+      "album": {
+        "name": "Ethereal Showers",
+        "url": "https://open.spotify.com/album/6x6fb16LgKeJE1jtGRtz5g"
+      },
+      "artists": [
+        {
+          "name": "Serene Surroundings",
+          "url": "https://open.spotify.com/artist/3sfSVTmJdFQsfPZxwM6ETs"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381173,
+      "name": "Gray Day",
+      "url": "https://open.spotify.com/track/369022QlJSzhvLyE53KuKl"
+    },
+    {
+      "album": {
+        "name": "Grim Falls",
+        "url": "https://open.spotify.com/album/0I6Icxj5K4T7KKDhy8lejC"
+      },
+      "artists": [
+        {
+          "name": "Pointillism",
+          "url": "https://open.spotify.com/artist/6JirfCD0iO9srNDD1PEuyZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Grim Falls",
+      "url": "https://open.spotify.com/track/5Pn9DRYhdyqbghfMqrgK5F"
+    },
+    {
+      "album": {
+        "name": "Gute Nacht Regen",
+        "url": "https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3"
+      },
+      "artists": [
+        {
+          "name": "Ruhiger Regen",
+          "url": "https://open.spotify.com/artist/2yHK2jyCxTblDd5p9KvtLU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123775,
+      "name": "Gute Nacht Regen",
+      "url": "https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS"
+    },
+    {
+      "album": {
+        "name": "Rain Rain Rain",
+        "url": "https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX"
+      },
+      "artists": [
+        {
+          "name": "Rain Hard",
+          "url": "https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189252,
+      "name": "Hard Rain 2",
+      "url": "https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP"
+    },
+    {
+      "album": {
+        "name": "Rain Rain Rain",
+        "url": "https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX"
+      },
+      "artists": [
+        {
+          "name": "Rain Hard",
+          "url": "https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200505,
+      "name": "Hard Rain 3",
+      "url": "https://open.spotify.com/track/2nqyQEWwRitXReoUdODWzl"
+    },
+    {
+      "album": {
+        "name": "Mantric Rain",
+        "url": "https://open.spotify.com/album/0pXmxhBLGqDsSiBsyV44tP"
+      },
+      "artists": [
+        {
+          "name": "Let It Rain",
+          "url": "https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164381,
+      "name": "Hard Rain Falling",
+      "url": "https://open.spotify.com/track/4g3GdxAHnH21jR4QwCDqHl"
+    },
+    {
+      "album": {
+        "name": "Healing Rain",
+        "url": "https://open.spotify.com/album/3q6h5lns25xvocifvgsXv8"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Healing Rain",
+      "url": "https://open.spotify.com/track/3MeV1PeFOCjgwXOnADJtE5"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr"
+      },
+      "artists": [
+        {
+          "name": "Rain Inc",
+          "url": "https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 118750,
+      "name": "Heavy rain and thunder in Greece",
+      "url": "https://open.spotify.com/track/0wM9KTO3KaTHOrpSuegXZh"
+    },
+    {
+      "album": {
+        "name": "Giardini",
+        "url": "https://open.spotify.com/album/0nd9xnVNAS1O89Xs1Du6G4"
+      },
+      "artists": [
+        {
+          "name": "Pioggia Notturna",
+          "url": "https://open.spotify.com/artist/0Hus0cAybME524CqgViKck"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Heavy Rain Under Cover",
+      "url": "https://open.spotify.com/track/4aXbgtlE3sYeXWyBm3yrR5"
+    },
+    {
+      "album": {
+        "name": "Brain Rain",
+        "url": "https://open.spotify.com/album/2CnaCIkOmyhoYwWliPAa73"
+      },
+      "artists": [
+        {
+          "name": "Regen BWS",
+          "url": "https://open.spotify.com/artist/1ELXIIOQjxTB6fBRY0hZuo"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176568,
+      "name": "Heavy Wind And Rain",
+      "url": "https://open.spotify.com/track/6JS3QBeAswEtEmmXt02vZH"
+    },
+    {
+      "album": {
+        "name": "Clouds Above",
+        "url": "https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Hill Storm",
+      "url": "https://open.spotify.com/track/3a0aB0KT7fTP9bvwKzjFTC"
+    },
+    {
+      "album": {
+        "name": "Enjoy The Sky",
+        "url": "https://open.spotify.com/album/534t88l34yw4XIjPgO45Wf"
+      },
+      "artists": [
+        {
+          "name": "Vapourse",
+          "url": "https://open.spotify.com/artist/7EF6zIKi6Qb6Ky3Y9GSsxW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 115914,
+      "name": "Hybrid Clouds",
+      "url": "https://open.spotify.com/track/4mJnhL0Wxk8S1H3sKKeI5Q"
+    },
+    {
+      "album": {
+        "name": "Lovely Rain",
+        "url": "https://open.spotify.com/album/39nbGbuy1Ly2xA06DV7wb3"
+      },
+      "artists": [
+        {
+          "name": "Love Nature",
+          "url": "https://open.spotify.com/artist/62N2aSzYqfNISn3LS3xQ01"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "I Love Rain",
+      "url": "https://open.spotify.com/track/4AN4dmPzeyPtA9DQjQ6u4z"
+    },
+    {
+      "album": {
+        "name": "Weather Front",
+        "url": "https://open.spotify.com/album/33LXnoQeIUfX5va0n2jiCx"
+      },
+      "artists": [
+        {
+          "name": "The Stormwater",
+          "url": "https://open.spotify.com/artist/01c7DohUs02BwUDAyxzTUU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162725,
+      "name": "In The Clouds",
+      "url": "https://open.spotify.com/track/3cH75G5f24Bc7koyOlBtDg"
+    },
+    {
+      "album": {
+        "name": "Lifting Air",
+        "url": "https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED"
+      },
+      "artists": [
+        {
+          "name": "Liquidge",
+          "url": "https://open.spotify.com/artist/44CkWXtsMCZodXHR6EDFvP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138205,
+      "name": "In The Spring",
+      "url": "https://open.spotify.com/track/5T8Nx9uWYe5uqGGUygt657"
+    },
+    {
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "In the Trees (Rain)",
+      "url": "https://open.spotify.com/track/4doBUqgK5RdO8D5Cjk63lS"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds For Insomnia",
+        "url": "https://open.spotify.com/album/0hhEtLrqoFfTleIsxfSdHY"
+      },
+      "artists": [
+        {
+          "name": "The Magical Drops",
+          "url": "https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162912,
+      "name": "Infinity Drops",
+      "url": "https://open.spotify.com/track/3X9pFeZuH3o1IcNSIFblfw"
+    },
+    {
+      "album": {
+        "name": "Good Night Nature Rain",
+        "url": "https://open.spotify.com/album/5bOIfjWZ3pyS1zTGm11KgG"
+      },
+      "artists": [
+        {
+          "name": "Epic Nature",
+          "url": "https://open.spotify.com/artist/02dqJlqEiSm6HAU1sA43RY"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133006,
+      "name": "Intense Night Rain",
+      "url": "https://open.spotify.com/track/6xuYxTMCx3MQkjNIlEFVRA"
+    },
+    {
+      "album": {
+        "name": "Eye of The Storm",
+        "url": "https://open.spotify.com/album/3B7qr4tEfAr6vqxG8KREW4"
+      },
+      "artists": [
+        {
+          "name": "Monsooners",
+          "url": "https://open.spotify.com/artist/5BnvoIO9j362IcN5NkZ9Tq"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 106250,
+      "name": "It's Heading Our Way",
+      "url": "https://open.spotify.com/track/67nCwIKYC4M0hFskf2skPP"
+    },
+    {
+      "album": {
+        "name": "rain me to sleep",
+        "url": "https://open.spotify.com/album/15FPonuOwe3Ls9363HwWXK"
+      },
+      "artists": [
+        {
+          "name": "lumen",
+          "url": "https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "it's raining",
+      "url": "https://open.spotify.com/track/6rgwScNF1ITtEYa8mkLQ0P"
+    },
+    {
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/1zoQBG8m0K5z3SrUwprXG0"
+      },
+      "artists": [
+        {
+          "name": "When It Rains In California",
+          "url": "https://open.spotify.com/artist/6ttzO188jzpYIyj00pSsyZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180612,
+      "name": "Juicy Rain",
+      "url": "https://open.spotify.com/track/6rkkuo0LWpJW0EhkqqbNwI"
+    },
+    {
+      "album": {
+        "name": "Dragonflies",
+        "url": "https://open.spotify.com/album/3idhIrh3mt0jFMq4aegMIS"
+      },
+      "artists": [
+        {
+          "name": "Tom D. Waters",
+          "url": "https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171697,
+      "name": "Just Rain",
+      "url": "https://open.spotify.com/track/2LkTBcHObSC3ZFkIFIImK4"
+    },
+    {
+      "album": {
+        "name": "Kindred Forest",
+        "url": "https://open.spotify.com/album/5NnrbMRDK7f9altIJp0NhY"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kindred Forest Rain",
+      "url": "https://open.spotify.com/track/2xvp77eABPTLSzuUs21vkI"
+    },
+    {
+      "album": {
+        "name": "Serene Rain Soundscapes",
+        "url": "https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Kulangana (Rain)",
+      "url": "https://open.spotify.com/track/23y6GPrgh0T8pibNl6E4FL"
+    },
+    {
+      "album": {
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/43cVIF3tQKzyedYGurDQOF"
+      },
+      "artists": [
+        {
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/7CnrUrYOOlUFgtMJCOBPO9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 248921,
+      "name": "Lasa",
+      "url": "https://open.spotify.com/track/5HCjGZTAoAwW4RbVX5BhAk"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Rain",
+          "url": "https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/2iM7PybcbJwrzzS7by70m8"
+    },
+    {
+      "album": {
+        "name": "Lets Sleep on this Rainy Day",
+        "url": "https://open.spotify.com/album/6FRbYafyfKSnmTdjFvFcdG"
+      },
+      "artists": [
+        {
+          "name": "PDC RAIN",
+          "url": "https://open.spotify.com/artist/7LggWLcctC0mmu6sQYFKmN"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153084,
+      "name": "Lets Let the Rain Fall",
+      "url": "https://open.spotify.com/track/6qDTf4etLwApVRaBXuha1u"
+    },
+    {
+      "album": {
+        "name": "As Good As It Gets",
+        "url": "https://open.spotify.com/album/2kKu6IrZjzphXAB19qUoOr"
+      },
+      "artists": [
+        {
+          "name": "Concrete Showers",
+          "url": "https://open.spotify.com/artist/5YQhqhDsViXtCSsVxVYuuM"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130548,
+      "name": "Light Crispy Rain",
+      "url": "https://open.spotify.com/track/1F4kF3E6bFPJAuXjzWk9rl"
+    },
+    {
+      "album": {
+        "name": "San Fran Rain",
+        "url": "https://open.spotify.com/album/6lYjuIVLa2ZpjUtNO6qwWR"
+      },
+      "artists": [
+        {
+          "name": "Granular FX",
+          "url": "https://open.spotify.com/artist/6SVaii2FdnEI4ssRydFvmu"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155295,
+      "name": "Lincoln Way Rain",
+      "url": "https://open.spotify.com/track/1JWlvNpLfNzUADfdGxIWeV"
+    },
+    {
+      "album": {
+        "name": "Lluvia",
+        "url": "https://open.spotify.com/album/1cQ0twOwssuVhvb4A2JwLU"
+      },
+      "artists": [
+        {
+          "name": "El Hacedor de Lluvia",
+          "url": "https://open.spotify.com/artist/1P1gBxr2gM3mRZ7viD20tl"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236436,
+      "name": "Lluvia para dormir",
+      "url": "https://open.spotify.com/track/54iGu1b1MiDrjiwN6wrekX"
+    },
+    {
+      "album": {
+        "name": "Lluvia suave",
+        "url": "https://open.spotify.com/album/4JOUR92adoXROV55LLwMYn"
+      },
+      "artists": [
+        {
+          "name": "Se\u00f1ora Trueno",
+          "url": "https://open.spotify.com/artist/2ADeN2WKd6aWB3INuk2QRa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182957,
+      "name": "Lluvia suave",
+      "url": "https://open.spotify.com/track/3A1RBfrXza6FSsIdMiqWx2"
+    },
+    {
+      "album": {
+        "name": "Falling Rain",
+        "url": "https://open.spotify.com/album/2NuNso3u2XmWzBdT9os76E"
+      },
+      "artists": [
+        {
+          "name": "Medi Rela",
+          "url": "https://open.spotify.com/artist/18TmZnf7SoO5ypyAqq55Ho"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 186469,
+      "name": "Lluvia tropical",
+      "url": "https://open.spotify.com/track/5oNMo6oBkm7nf8C0JU4yoH"
+    },
+    {
+      "album": {
+        "name": "Calm Sounds of Nature",
+        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Lonhol (Rain)",
+      "url": "https://open.spotify.com/track/4NtDvrH3MvHqD6c2EPHOPl"
+    },
+    {
+      "album": {
+        "name": "Tropical Mind",
+        "url": "https://open.spotify.com/album/1orm9WY8DL20lLE1akDs9n"
+      },
+      "artists": [
+        {
+          "name": "Equatorial Forest",
+          "url": "https://open.spotify.com/artist/7JplVdPK4mwcGLbcWKY8Nf"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 161982,
+      "name": "Lost In The Jungle",
+      "url": "https://open.spotify.com/track/4ht1IssZUFw0VBaYZytSAz"
+    },
+    {
+      "album": {
+        "name": "Lotus Rain",
+        "url": "https://open.spotify.com/album/6SeFBqjQUAF0s2JVaoU8eJ"
+      },
+      "artists": [
+        {
+          "name": "Adio",
+          "url": "https://open.spotify.com/artist/1u9z4r9MRMjVc4t2bI2z4W"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Lotus Rain",
+      "url": "https://open.spotify.com/track/0cYf8BBWyP83Q6uxqjkSel"
+    },
+    {
+      "album": {
+        "name": "Light the Rain",
+        "url": "https://open.spotify.com/album/03FUhz3VcZ8sf66ifivgBZ"
+      },
+      "artists": [
+        {
+          "name": "The Magical Drops",
+          "url": "https://open.spotify.com/artist/1o8C2yFA9rciG6M29xiFbw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Lovely Rain",
+      "url": "https://open.spotify.com/track/1cl4y7PrtL61Y4Q6pjeTKS"
+    },
+    {
+      "album": {
+        "name": "Serene Rain Soundscapes",
+        "url": "https://open.spotify.com/album/0o9THNf7bfyxQy5KwYMeMS"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Lurok (Rain)",
+      "url": "https://open.spotify.com/track/208tRWGdIAIXY2OiPgKqdl"
+    },
+    {
+      "album": {
+        "name": "Magic Skies",
+        "url": "https://open.spotify.com/album/38Qhx2XFJufpeO72WTYrQK"
+      },
+      "artists": [
+        {
+          "name": "Embrace the Rain",
+          "url": "https://open.spotify.com/artist/5sZvIwOBG1ngPYqGjzK5C2"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Magic Skies",
+      "url": "https://open.spotify.com/track/76AKzeKmKutPgOAjgQBzYx"
+    },
+    {
+      "album": {
+        "name": "Magical Rain",
+        "url": "https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY"
+      },
+      "artists": [
+        {
+          "name": "Let It Rain",
+          "url": "https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Magical Rain",
+      "url": "https://open.spotify.com/track/3TR9DypUdaJpjUwSmJiBML"
+    },
+    {
+      "album": {
+        "name": "Calm Rain",
+        "url": "https://open.spotify.com/album/1gKD89LziZTe7NUmp6NG8P"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130229,
+      "name": "Marsh Rain",
+      "url": "https://open.spotify.com/track/2RfArgDAbCC1zHe5oGGmRO"
+    },
+    {
+      "album": {
+        "name": "Peaceful Rain Sounds",
+        "url": "https://open.spotify.com/album/2PChgMddYdUsisFPjW9FGq"
+      },
+      "artists": [
+        {
+          "name": "High Sampling",
+          "url": "https://open.spotify.com/artist/4DtTcZucLzox7VtkpWsVBw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "Mediatative Rain",
+      "url": "https://open.spotify.com/track/1omNM0NNJZUoss3benPROm"
+    },
+    {
+      "album": {
+        "name": "Gotland Rain Sounds",
+        "url": "https://open.spotify.com/album/0Zl63O9EmQKZQRl8xSsqk5"
+      },
+      "artists": [
+        {
+          "name": "Jeff Olaf",
+          "url": "https://open.spotify.com/artist/6giyCf63EfeAgxIofVymOq"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Memories Of Rain",
+      "url": "https://open.spotify.com/track/2djsrAf6nUCMHaseamvwv4"
+    },
+    {
+      "album": {
+        "name": "Rainward",
+        "url": "https://open.spotify.com/album/1qeUd3oHip0fYm30FvwKzG"
+      },
+      "artists": [
+        {
+          "name": "Key Humphrey",
+          "url": "https://open.spotify.com/artist/4BJ8h7BuQ1DYcEYrpTFloW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Message Of Rain",
+      "url": "https://open.spotify.com/track/12qm8piXa60zlmygYDKOlP"
+    },
+    {
+      "album": {
+        "name": "rain in copenhagen",
+        "url": "https://open.spotify.com/album/52n9DE1JvE1uiN3IiRxBb4"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "mid day rain",
+      "url": "https://open.spotify.com/track/5KmbZq6mXkaY9O8ANVgKW1"
+    },
+    {
+      "album": {
+        "name": "Midnight Storm",
+        "url": "https://open.spotify.com/album/1IEgHTWuEvpHQii8l48GNH"
+      },
+      "artists": [
+        {
+          "name": "Ogie\u0144",
+          "url": "https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Midnight Storm",
+      "url": "https://open.spotify.com/track/36FvQBMn5ZaS9l5Ze5Dw5A"
+    },
+    {
+      "album": {
+        "name": "Mindful Rain",
+        "url": "https://open.spotify.com/album/4E1vqp2xaDzCxez2IPrkMh"
+      },
+      "artists": [
+        {
+          "name": "Dreamy Drops",
+          "url": "https://open.spotify.com/artist/6Ml1Yweh4BCb2qGIi9NGp2"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168669,
+      "name": "Mindful Rain",
+      "url": "https://open.spotify.com/track/4q4u6MLCGrpfHperJ7U8NZ"
+    },
+    {
+      "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/4p6C0X0yyxCfwWXi5tGXkO"
+      },
+      "artists": [
+        {
+          "name": "Sofia Rain",
+          "url": "https://open.spotify.com/artist/4VfldWr0PMJDucnvdPESqm"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/0bEOey9OHVNI8MfEc2328F"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156038,
+      "name": "moonlit patter",
+      "url": "https://open.spotify.com/track/0HFz1abbtEE5mTRsRkMdou"
+    },
+    {
+      "album": {
+        "name": "Morgonregn",
+        "url": "https://open.spotify.com/album/0Kq1zjeX2PuQqnhqrR3UKh"
+      },
+      "artists": [
+        {
+          "name": "Regnskur",
+          "url": "https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Morgonregn",
+      "url": "https://open.spotify.com/track/5Jg2TWaUW9RaoUCFuKEBLx"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/2abBIAGnbK4LEppbtAB3KL"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 183791,
+      "name": "Morning Rain",
+      "url": "https://open.spotify.com/track/70LJyAuEGlgXrsEuaWmCkP"
+    },
+    {
+      "album": {
+        "name": "Nature's Rain",
+        "url": "https://open.spotify.com/album/5AcfrjqA4vnBfkvXV4yKe8"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Morning Rain",
+      "url": "https://open.spotify.com/track/6ZWHkhgj0Q8sf1x6jzSGNf"
+    },
+    {
+      "album": {
+        "name": "The Sky Makes",
+        "url": "https://open.spotify.com/album/0LgA5aHfIe43tAmJ3Fl0Eh"
+      },
+      "artists": [
+        {
+          "name": "rainstantly",
+          "url": "https://open.spotify.com/artist/3NXDhMusg4ceknkaxvLxAQ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Must've Been Rain",
+      "url": "https://open.spotify.com/track/41bTkvV9Qcc8RuDRqJKjxn"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "My Sweet Rain",
+      "url": "https://open.spotify.com/track/5Qi3qYv6cgRIwBAGhzleKU"
+    },
+    {
+      "album": {
+        "name": "Nature Rain",
+        "url": "https://open.spotify.com/album/3n5NiiGsPwVwm5XJgFAdom"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Nature Recordings",
+          "url": "https://open.spotify.com/artist/2oqu88JCOi265HJuVacifj"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133006,
+      "name": "Nature Rain",
+      "url": "https://open.spotify.com/track/2lHDpSltSbrgpvSF71ohwc"
+    },
+    {
+      "album": {
+        "name": "Nederbo\u0308rd",
+        "url": "https://open.spotify.com/album/52oHVzqNzXauSpZmmjfmTh"
+      },
+      "artists": [
+        {
+          "name": "Regnskur",
+          "url": "https://open.spotify.com/artist/5iayvtoaKjHxf43TODIq4V"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Nederb\u00f6rd",
+      "url": "https://open.spotify.com/track/02Yfdjig23PmDTu03heTJT"
+    },
+    {
+      "album": {
+        "name": "Healing Rain",
+        "url": "https://open.spotify.com/album/5bsGhhhTZ8w0usBImSNoVg"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0UXi91La4FUOmdfH5X4pIG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192029,
+      "name": "Never-ending Rain",
+      "url": "https://open.spotify.com/track/5u2kuI9KQ6xGQcPxvToNJ5"
+    },
+    {
+      "album": {
+        "name": "Night Rain",
+        "url": "https://open.spotify.com/album/4r2Q2dqJDccNG92ocD3EtY"
+      },
+      "artists": [
+        {
+          "name": "Lush Waves Creators",
+          "url": "https://open.spotify.com/artist/35RcJZmoS04TXmOvYWebwE"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152324,
+      "name": "Night Storm",
+      "url": "https://open.spotify.com/track/1I6QdR3AsN37JMBaoqsbEn"
+    },
+    {
+      "album": {
+        "name": "Hyde Park Rain",
+        "url": "https://open.spotify.com/album/6pdnloswEEFq9U5sbMc3g8"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of The Royal Parks",
+          "url": "https://open.spotify.com/artist/6V13SxJw0847rbZlGn9qrX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Nighttime Rain In Hyde Park - Seamless",
+      "url": "https://open.spotify.com/track/166a8OgRfj3GTf4frIb39E"
+    },
+    {
+      "album": {
+        "name": "Noise Rain",
+        "url": "https://open.spotify.com/album/0gQvJtixPCxHTn9GGogXEy"
+      },
+      "artists": [
+        {
+          "name": "Natures Orchestra",
+          "url": "https://open.spotify.com/artist/4lpovYMDiersW7wuJ3P5Ep"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164954,
+      "name": "Noise Rain",
+      "url": "https://open.spotify.com/track/1Vxx4lP5fRdm4A18AwNGBu"
+    },
+    {
+      "album": {
+        "name": "Raning Spot",
+        "url": "https://open.spotify.com/album/537EhlekNxtPA37kkOeobY"
+      },
+      "artists": [
+        {
+          "name": "Raning Spot",
+          "url": "https://open.spotify.com/artist/1L6FHdVeI2MvaYCAMS1yQl"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182044,
+      "name": "Non Stop Rain Sounds",
+      "url": "https://open.spotify.com/track/1cgb4yVuDdTfaatFq6xhgD"
+    },
+    {
+      "album": {
+        "name": "Rainy Weather",
+        "url": "https://open.spotify.com/album/7HBBBBfqFHPMHJszdpl7qF"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Nonstop Rain",
+      "url": "https://open.spotify.com/track/2pWeiW8PnZ6W7ThO9UKDFT"
+    },
+    {
+      "album": {
+        "name": "Open Sky",
+        "url": "https://open.spotify.com/album/6D4lPb4wKruVTXDo1IBARM"
+      },
+      "artists": [
+        {
+          "name": "Bibula",
+          "url": "https://open.spotify.com/artist/1KxJnRAxBzshncVMcGKtHZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 147534,
+      "name": "Nothing Falls Like Rain",
+      "url": "https://open.spotify.com/track/31MpTScCW34zYT4sIZT4rY"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "O-o-h Rain",
+      "url": "https://open.spotify.com/track/2UUVwMUJuo7VfpFUsIRrZ2"
+    },
+    {
+      "album": {
+        "name": "Noises Of Ambience",
+        "url": "https://open.spotify.com/album/14CPqVzJefFRKUBZjZKUfK"
+      },
+      "artists": [
+        {
+          "name": "Noises Of Ambience",
+          "url": "https://open.spotify.com/artist/1G3MR4Gr6zFvXxm275w316"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129287,
+      "name": "Ocean Rain",
+      "url": "https://open.spotify.com/track/3QXREuJa3Q8msTR91j6qhT"
+    },
+    {
+      "album": {
+        "name": "Wet Season",
+        "url": "https://open.spotify.com/album/7AmPjlijHdoyZoJfnoPlQM"
+      },
+      "artists": [
+        {
+          "name": "Million Drops",
+          "url": "https://open.spotify.com/artist/5YAVAS1dk0z1XUMEhgblwD"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143406,
+      "name": "Oceanic",
+      "url": "https://open.spotify.com/track/1NVcDFQmpBEqQYWXm9ACiQ"
+    },
+    {
+      "album": {
+        "name": "Current Affairs",
+        "url": "https://open.spotify.com/album/3wYZkK01LPqIowyDN4Wubv"
+      },
+      "artists": [
+        {
+          "name": "Muggy Forecast",
+          "url": "https://open.spotify.com/artist/37NFZB0swR3yaCGntPM9f9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120500,
+      "name": "Oddly Comforting Rain",
+      "url": "https://open.spotify.com/track/5jqg4YlLGLuTg4yZCS9lh1"
+    },
+    {
+      "album": {
+        "name": "Oneiric Rains",
+        "url": "https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb"
+      },
+      "artists": [
+        {
+          "name": "Nature Vibrations",
+          "url": "https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174932,
+      "name": "Oneiric Rain",
+      "url": "https://open.spotify.com/track/4KVtQrlK6ABMi5UkSuXHBF"
+    },
+    {
+      "album": {
+        "name": "Park Rain",
+        "url": "https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3"
+      },
+      "artists": [
+        {
+          "name": "8k Sound Library",
+          "url": "https://open.spotify.com/artist/6sRNUITxFooMYE0SjJU4Wf"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 212428,
+      "name": "Park Rain, Pt 3",
+      "url": "https://open.spotify.com/track/6B3LSqUplxRJAuw08I1a2z"
+    },
+    {
+      "album": {
+        "name": "Park Rain",
+        "url": "https://open.spotify.com/album/0OSGFgcL8AcqkdDTJMrcN3"
+      },
+      "artists": [
+        {
+          "name": "8k Sound Library",
+          "url": "https://open.spotify.com/artist/6sRNUITxFooMYE0SjJU4Wf"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238442,
+      "name": "Park Rain, Pt 4",
+      "url": "https://open.spotify.com/track/5qnmkmUZl9IN12jjqmCjcP"
+    },
+    {
+      "album": {
+        "name": "Lightrise (Rain)",
+        "url": "https://open.spotify.com/album/7JosAVi4UAQ2LT0Bjoyex6"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Pastures (Rain)",
+      "url": "https://open.spotify.com/track/5nydxQakoXHdU0sDSpA2IZ"
+    },
+    {
+      "album": {
+        "name": "Rainy Forest",
+        "url": "https://open.spotify.com/album/1X5iSi20cFGKvdYLG8MFWG"
+      },
+      "artists": [
+        {
+          "name": "The Rain Guru",
+          "url": "https://open.spotify.com/artist/2iOGvB00Q02hWM9Y5bXKNF"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188725,
+      "name": "Peaceful Rain",
+      "url": "https://open.spotify.com/track/1gkY5sTXhdFhfUM1YpIZ4V"
+    },
+    {
+      "album": {
+        "name": "Winter Rains",
+        "url": "https://open.spotify.com/album/7L2kkXjkHCriHkyC1rRPcq"
+      },
+      "artists": [
+        {
+          "name": "In Natura",
+          "url": "https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Peaceful Rain in the Garden",
+      "url": "https://open.spotify.com/track/76blhL7Z2GRKK2IeEOJKVF"
+    },
+    {
+      "album": {
+        "name": "Waterworlds",
+        "url": "https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM"
+      },
+      "artists": [
+        {
+          "name": "Aquamoon",
+          "url": "https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 138000,
+      "name": "Porch Cleanse",
+      "url": "https://open.spotify.com/track/20djsX0GYVMsGjRVTeuOVP"
+    },
+    {
+      "album": {
+        "name": "Pluie de l'aube",
+        "url": "https://open.spotify.com/album/5qHpwTNP0pdOh57yKxSIMj"
+      },
+      "artists": [
+        {
+          "name": "\u00c9quipage ambiant",
+          "url": "https://open.spotify.com/artist/2WI0t9L9e4wmhiV7HYp9BU"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 115812,
+      "name": "Pour les plantes",
+      "url": "https://open.spotify.com/track/2AVtIevPCS58Q1GTyAq9Y9"
+    },
+    {
+      "album": {
+        "name": "Magical Rain",
+        "url": "https://open.spotify.com/album/0N7CN9T0HZiudDEwOCYFLY"
+      },
+      "artists": [
+        {
+          "name": "Let It Rain",
+          "url": "https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Quality Rain",
+      "url": "https://open.spotify.com/track/5izDg7Ogf6s2GBzoCPb8Uy"
+    },
+    {
+      "album": {
+        "name": "Rain Storms",
+        "url": "https://open.spotify.com/album/7ipI3unaq9JtibJGg74yCQ"
+      },
+      "artists": [
+        {
+          "name": "Rain Recordings",
+          "url": "https://open.spotify.com/artist/0K4qycWYB7fwNMvrtS9lID"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Quality Rain",
+      "url": "https://open.spotify.com/track/6wylgOavjiq5DxfwrBWDJp"
+    },
+    {
+      "album": {
+        "name": "Evaporating Water",
+        "url": "https://open.spotify.com/album/2OAmblyE8oR9F1Oac4sEIi"
+      },
+      "artists": [
+        {
+          "name": "Dropletecal",
+          "url": "https://open.spotify.com/artist/2qOif0NcXyNAAhriR39lQ8"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Quiet, Listen",
+      "url": "https://open.spotify.com/track/6PUGWTnD1L8JmzmdogNUfS"
+    },
+    {
+      "album": {
+        "name": "New Sounds Of Nature",
+        "url": "https://open.spotify.com/album/70XslLqe3Ajnnxr0wWDboy"
+      },
+      "artists": [
+        {
+          "name": "New Sounds Of Nature",
+          "url": "https://open.spotify.com/artist/5U4BDAMefQlcNIp9OaEbQa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/05up0rSwBaSJeFRwB1Xmm6"
+    },
+    {
+      "album": {
+        "name": "rAin",
+        "url": "https://open.spotify.com/album/5Wbqx69NTO4n4enBUttJNf"
+      },
+      "artists": [
+        {
+          "name": "Rain",
+          "url": "https://open.spotify.com/artist/7yS3860cHbWTQetLkezjEi"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "rAin",
+      "url": "https://open.spotify.com/track/2k0Uey3IUXsazhtmGCd9XJ"
+    },
+    {
+      "album": {
+        "name": "Scandinavian Rain",
+        "url": "https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ"
+      },
+      "artists": [
+        {
+          "name": "Northerly Nature",
+          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169902,
+      "name": "Rain After The Storm",
+      "url": "https://open.spotify.com/track/6INpACWuzfVytMrEJByyhc"
+    },
+    {
+      "album": {
+        "name": "Leaking Clouds",
+        "url": "https://open.spotify.com/album/6vJEQDkD0nvKBuEgWiigVh"
+      },
+      "artists": [
+        {
+          "name": "Meryl Stream",
+          "url": "https://open.spotify.com/artist/7wU4Xw4xqmBzfy2TIej8qa"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Rain Again",
+      "url": "https://open.spotify.com/track/6SoSVRemix7GmsZZusXXhY"
+    },
+    {
+      "album": {
+        "name": "Rainy days and rainy nights",
+        "url": "https://open.spotify.com/album/31zKedn6ADYfeacflh843e"
+      },
+      "artists": [
+        {
+          "name": "Rayne",
+          "url": "https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Rain all day",
+      "url": "https://open.spotify.com/track/4U3kZ08NfzuRTKIjoUzNFD"
+    },
+    {
+      "album": {
+        "name": "Rainy days and rainy nights",
+        "url": "https://open.spotify.com/album/31zKedn6ADYfeacflh843e"
+      },
+      "artists": [
+        {
+          "name": "Rayne",
+          "url": "https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208062,
+      "name": "Rain all night",
+      "url": "https://open.spotify.com/track/28wkhl6dcZCektz1OUEKrs"
+    },
+    {
+      "album": {
+        "name": "London Days",
+        "url": "https://open.spotify.com/album/5RFrcOdX3Qzc6sTPYXtVVq"
+      },
+      "artists": [
+        {
+          "name": "April Shower",
+          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "Rain All Year Round",
+      "url": "https://open.spotify.com/track/4iwDUEEZHxq7ITcc7DqCCI"
+    },
+    {
+      "album": {
+        "name": "Tidal Marsh (Nature)",
+        "url": "https://open.spotify.com/album/5Q50ibdcpK2F1qo6LLdpEc"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Rain by Marsh (Nature)",
+      "url": "https://open.spotify.com/track/5HTFXeKnoLF9uqSHThRuyX"
+    },
+    {
+      "album": {
+        "name": "Strawberry Rain",
+        "url": "https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1"
+      },
+      "artists": [
+        {
+          "name": "DreamDrops",
+          "url": "https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182770,
+      "name": "Rain Coming In",
+      "url": "https://open.spotify.com/track/6oBZdlwRjGgmtAzGrMKZVc"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep Drops",
+        "url": "https://open.spotify.com/album/5EhMdHcVj4sRsTZCqNYDEM"
+      },
+      "artists": [
+        {
+          "name": "Zuni",
+          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Rain Dancing",
+      "url": "https://open.spotify.com/track/7bJAQD5AAq9zxQz1nal7tp"
+    },
+    {
+      "album": {
+        "name": "Don't Mind The Rain",
+        "url": "https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP"
+      },
+      "artists": [
+        {
+          "name": "R. Guru",
+          "url": "https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Rain Detox",
+      "url": "https://open.spotify.com/track/1zoGKbKztF6Haw2rPpCCVj"
+    },
+    {
+      "album": {
+        "name": "Oneiric Rains",
+        "url": "https://open.spotify.com/album/32P9pdkNBQm0ZL2vMUGHYb"
+      },
+      "artists": [
+        {
+          "name": "Nature Vibrations",
+          "url": "https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173951,
+      "name": "Rain Drops for Deep Sleep",
+      "url": "https://open.spotify.com/track/73oH76vGccrt4sU44ifR1p"
+    },
+    {
+      "album": {
+        "name": "Relaxed By The Rain",
+        "url": "https://open.spotify.com/album/3ZPz1SGQK41h83bZL7JNxh"
+      },
+      "artists": [
+        {
+          "name": "Relaxing Sound Factory",
+          "url": "https://open.spotify.com/artist/744wQ0o4KyJ3Ou29aXIygo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130048,
+      "name": "Rain Factory",
+      "url": "https://open.spotify.com/track/5TTFKNWZNesToIjWK1taw9"
+    },
+    {
+      "album": {
+        "name": "Rain Showers",
+        "url": "https://open.spotify.com/album/1TnQjALX3mSWRVORqYv0Ee"
+      },
+      "artists": [
+        {
+          "name": "Forest Rain FX",
+          "url": "https://open.spotify.com/artist/30YnRKAUATK78mSbUM4qK6"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135251,
+      "name": "Rain Falling From the Sky",
+      "url": "https://open.spotify.com/track/0Kr0ljSjAljErScOrZE3mI"
+    },
+    {
+      "album": {
+        "name": "Falling Asleep",
+        "url": "https://open.spotify.com/album/46VcanYRilm53wxrzild77"
+      },
+      "artists": [
+        {
+          "name": "Ostrava Recordings",
+          "url": "https://open.spotify.com/artist/4YApfwAUsPaD9VX6ujDxOk"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176599,
+      "name": "Rain For Deeper Sleep",
+      "url": "https://open.spotify.com/track/6YM3YvDBn3409IV2OZ8IZt"
+    },
+    {
+      "album": {
+        "name": "Rain For Relaxation",
+        "url": "https://open.spotify.com/album/4tcF6ddU4hcwD78mHyuXFn"
+      },
+      "artists": [
+        {
+          "name": "The Calm Factory",
+          "url": "https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 157304,
+      "name": "Rain For Relaxation",
+      "url": "https://open.spotify.com/track/5WAqDgplhuoFBG4IUdEP4J"
+    },
+    {
+      "album": {
+        "name": "Rain Ambience",
+        "url": "https://open.spotify.com/album/1KTaSrFgB6KZfzJTxCWXIV"
+      },
+      "artists": [
+        {
+          "name": "Ambature",
+          "url": "https://open.spotify.com/artist/75H8JLJECgFwyMddSZSvIM"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140451,
+      "name": "Rain FX Noise",
+      "url": "https://open.spotify.com/track/2AfruEiu9e2z9JOWB4ir02"
+    },
+    {
+      "album": {
+        "name": "Rain Goddess",
+        "url": "https://open.spotify.com/album/7v2hz4R5U5qpqh7YL8H5Sj"
+      },
+      "artists": [
+        {
+          "name": "Goddess Of Nature",
+          "url": "https://open.spotify.com/artist/1J5y2B0ZQeb4kC6LXIrH8X"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Rain Goddess",
+      "url": "https://open.spotify.com/track/6Q54lManjoTWA5Mqcsh2on"
+    },
+    {
+      "album": {
+        "name": "Rainy City",
+        "url": "https://open.spotify.com/album/2jL5PFx8l4mxCbjYitiwjA"
+      },
+      "artists": [
+        {
+          "name": "The Mist",
+          "url": "https://open.spotify.com/artist/5fsQWVVg6dLqhbuKcvroor"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 216000,
+      "name": "Rain In Budapest",
+      "url": "https://open.spotify.com/track/6CpOUuOmm2BbTFARY4v0Il"
+    },
+    {
+      "album": {
+        "name": "Hawaiian Rainforest",
+        "url": "https://open.spotify.com/album/7pIUkWpdvBoW5iMipGnmy1"
+      },
+      "artists": [
+        {
+          "name": "The Earth Song",
+          "url": "https://open.spotify.com/artist/03MbnQnCTCSiRWUbmEgo2r"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201988,
+      "name": "Rain in Kauai",
+      "url": "https://open.spotify.com/track/4UItf0AQRicvJ34EqEcoAS"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/4Xnlm5GHBeoAGA6SUHrDFr"
+      },
+      "artists": [
+        {
+          "name": "Rain Inc",
+          "url": "https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Rain in Prague",
+      "url": "https://open.spotify.com/track/04q8CLzn8RIOtHFaJFH09X"
+    },
+    {
+      "album": {
+        "name": "rain in reykjavik",
+        "url": "https://open.spotify.com/album/4yhdOzyz5ih5L6YA7kOnAK"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "rain in reykjavik",
+      "url": "https://open.spotify.com/track/2Wx5BlOCoLw3mNf0YtFxqh"
+    },
+    {
+      "album": {
+        "name": "rain in stavanger",
+        "url": "https://open.spotify.com/album/57WMYN9dVP8b8zZVAefE4m"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "rain in stavanger",
+      "url": "https://open.spotify.com/track/1WUv66of1uUlVaDl7C9tt7"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 7",
+        "url": "https://open.spotify.com/album/0QRu0qcWtW0jEwH0nNS3od"
+      },
+      "artists": [
+        {
+          "name": "Rain Inc",
+          "url": "https://open.spotify.com/artist/39xSFVoeHPX87DYQWe6z3y"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135600,
+      "name": "Rain In Swedish Forest",
+      "url": "https://open.spotify.com/track/1aRixyBLiOkyVDMoP3Va6l"
+    },
+    {
+      "album": {
+        "name": "Rain in the Park",
+        "url": "https://open.spotify.com/album/16V0VrGGLUxWJ4XHILHV6r"
+      },
+      "artists": [
+        {
+          "name": "Rain Symphony",
+          "url": "https://open.spotify.com/artist/0qMWYF5rvQrkVqDtRK5Ysn"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Rain in the park",
+      "url": "https://open.spotify.com/track/5P9M9CoG5GJ3TyU9m4EB4X"
+    },
+    {
+      "album": {
+        "name": "Rain in the Woods",
+        "url": "https://open.spotify.com/album/2so81c617S19WbSLubmKh8"
+      },
+      "artists": [
+        {
+          "name": "Sonar Rain",
+          "url": "https://open.spotify.com/artist/1tHHL3obJ6iIzg9EFahIqv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 159011,
+      "name": "Rain in the Woods",
+      "url": "https://open.spotify.com/track/50iN2qSc7M3NaTPfhEcFua"
+    },
+    {
+      "album": {
+        "name": "Rain in the Woods",
+        "url": "https://open.spotify.com/album/5U0KcCOfsryTk6AQnkwu4x"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181635,
+      "name": "Rain in the Woods",
+      "url": "https://open.spotify.com/track/4ZNxGPQJKLRBFXWNQqnE9u"
+    },
+    {
+      "album": {
+        "name": "February Rain",
+        "url": "https://open.spotify.com/album/6vFUwZL1ivCQ4SPMjLLuhM"
+      },
+      "artists": [
+        {
+          "name": "Imbrem",
+          "url": "https://open.spotify.com/artist/2NwQO9olQpc9mgrJher6rV"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Rain keeps pouring",
+      "url": "https://open.spotify.com/track/6vIMfO6imrKW1q7cvpIw8s"
+    },
+    {
+      "album": {
+        "name": "Late Night Rain",
+        "url": "https://open.spotify.com/album/2UzTbwe7H4pgyenZB8s8bR"
+      },
+      "artists": [
+        {
+          "name": "Liquid Planet Recordings",
+          "url": "https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171357,
+      "name": "Rain Meditation",
+      "url": "https://open.spotify.com/track/2H2D2WpopERgoEfIkY9ORD"
+    },
+    {
+      "album": {
+        "name": "Rain Makers",
+        "url": "https://open.spotify.com/album/7MjCE3ryCHTX7ojc0DWfyq"
+      },
+      "artists": [
+        {
+          "name": "Sampling XL",
+          "url": "https://open.spotify.com/artist/7ECXymmfS4gH66cI7a8dwr"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127542,
+      "name": "Rain Meditation",
+      "url": "https://open.spotify.com/track/57zsjpyXmUl5m1gluaEdBH"
+    },
+    {
+      "album": {
+        "name": "rain in helsinki",
+        "url": "https://open.spotify.com/album/2YTrzdp7DGKm7yurziBCMF"
+      },
+      "artists": [
+        {
+          "name": "pluvia",
+          "url": "https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "rain o'clock",
+      "url": "https://open.spotify.com/track/0xBBlEQtPKRhTt4GDm0Aoo"
+    },
+    {
+      "album": {
+        "name": "Serenity in the Rain",
+        "url": "https://open.spotify.com/album/3Ccm8emdkGMyKjdCg0xHej"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Rain on Puddles",
+      "url": "https://open.spotify.com/track/10vvgnI3ZDYll5j3DkYH5M"
+    },
+    {
+      "album": {
+        "name": "Natural Serenity",
+        "url": "https://open.spotify.com/album/3pJL4HWm5phcV0FEvFd7Iz"
+      },
+      "artists": [
+        {
+          "name": "Northerly Nature",
+          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209020,
+      "name": "Rain On The Autumn Leaves",
+      "url": "https://open.spotify.com/track/4Uclrcxkq2wCWX5ieA0LfN"
+    },
+    {
+      "album": {
+        "name": "Rain On The Cobblestone",
+        "url": "https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP"
+      },
+      "artists": [
+        {
+          "name": "Royal Rain",
+          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221978,
+      "name": "Rain On The Cobblestone",
+      "url": "https://open.spotify.com/track/5jCwTeQv8DXJzsMmzv0qYi"
+    },
+    {
+      "album": {
+        "name": "Rain On The Lake",
+        "url": "https://open.spotify.com/album/0B1aCViIMUFAUgs5vtlfx1"
+      },
+      "artists": [
+        {
+          "name": "Northerly Nature",
+          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182368,
+      "name": "Rain On The Lake",
+      "url": "https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i"
+    },
+    {
+      "album": {
+        "name": "Drops Of Rain",
+        "url": "https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao"
+      },
+      "artists": [
+        {
+          "name": "Skies of Rain",
+          "url": "https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140166,
+      "name": "Rain On the PorchPop Notch Music",
+      "url": "https://open.spotify.com/track/5Sl5wOIQFtBAolYgdkVGB4"
+    },
+    {
+      "album": {
+        "name": "Fairytale Rain",
+        "url": "https://open.spotify.com/album/7qZG7K1lwjwOzgRZZeyiPL"
+      },
+      "artists": [
+        {
+          "name": "DreamDrops",
+          "url": "https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190152,
+      "name": "Rain On The Rooftop",
+      "url": "https://open.spotify.com/track/4M2Ig5mHw3p3H1OJwutuyO"
+    },
+    {
+      "album": {
+        "name": "Rain Retreat",
+        "url": "https://open.spotify.com/album/5nZQJ6ZrHDQpur9sl6Xpkl"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Rain Puddles",
+      "url": "https://open.spotify.com/track/44h5mvTeasof8sPZdCNQVS"
+    },
+    {
+      "album": {
+        "name": "Rain Sky",
+        "url": "https://open.spotify.com/album/0b60bEwgXWSLIRymKUEFVR"
+      },
+      "artists": [
+        {
+          "name": "Olvidara",
+          "url": "https://open.spotify.com/artist/4AbWC5jrOCMHtDTN0lsGjJ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124877,
+      "name": "Rain Sky Pt. 1",
+      "url": "https://open.spotify.com/track/1mWWaKRiywpw4CSULMpOAa"
+    },
+    {
+      "album": {
+        "name": "Rain Sky Samples",
+        "url": "https://open.spotify.com/album/79baeTtmEP140NIkW9JdRY"
+      },
+      "artists": [
+        {
+          "name": "X.L.T",
+          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172403,
+      "name": "Rain Sky Samples 1",
+      "url": "https://open.spotify.com/track/6xIpFNG8oUqoclkjMLEhKu"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature",
+        "url": "https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163911,
+      "name": "Rain Streams",
+      "url": "https://open.spotify.com/track/20QS2IhUNQj7kmljqpVjcN"
+    },
+    {
+      "album": {
+        "name": "Night Time Rain Fall",
+        "url": "https://open.spotify.com/album/1sKdVqFClvg3wW3qmd1FIM"
+      },
+      "artists": [
+        {
+          "name": "Natures Acoustics",
+          "url": "https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153068,
+      "name": "Rain Wall For Sleep",
+      "url": "https://open.spotify.com/track/5qBURD07mYmymBewmZf3de"
+    },
+    {
+      "album": {
+        "name": "Score Of The Poar",
+        "url": "https://open.spotify.com/album/6pRNToDMypeLLooSSz7Vby"
+      },
+      "artists": [
+        {
+          "name": "Score Of The Poar",
+          "url": "https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120372,
+      "name": "Rain White Noise",
+      "url": "https://open.spotify.com/track/7wiYlHZDFHzFJt3YvdZ3Qc"
+    },
+    {
+      "album": {
+        "name": "Dreamy Samples",
+        "url": "https://open.spotify.com/album/4PQvFHZpiBdeSXuYYstMKq"
+      },
+      "artists": [
+        {
+          "name": "HD Samples",
+          "url": "https://open.spotify.com/artist/5g6ms4onQXK7dTBgUX9ghX"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rain: Resting Spirit",
+      "url": "https://open.spotify.com/track/3TCn6mt2f60xSpMUKjQtNK"
+    },
+    {
+      "album": {
+        "name": "Rain: Night Sleep",
+        "url": "https://open.spotify.com/album/0a0QjOECrdCF9kknizQ2OI"
+      },
+      "artists": [
+        {
+          "name": "Natures DNA",
+          "url": "https://open.spotify.com/artist/1fNJuyfwMNI97MaQuH7azB"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 153810,
+      "name": "Rain: Shelter",
+      "url": "https://open.spotify.com/track/0NaKPfb2P2L098ZQG1JG6u"
+    },
+    {
+      "album": {
+        "name": "Raincoat Weather",
+        "url": "https://open.spotify.com/album/3PiNTotQoNkrRfvEKZ2Gdm"
+      },
+      "artists": [
+        {
+          "name": "Accuweather",
+          "url": "https://open.spotify.com/artist/2Y7k2YqDWE9s1eSuQlaWNi"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Raincoat Weather",
+      "url": "https://open.spotify.com/track/445TGqNOn1nGI0T2QCYkh7"
+    },
+    {
+      "album": {
+        "name": "Rainy River",
+        "url": "https://open.spotify.com/album/5m65ZybC6eI2nCg1S45QqK"
+      },
+      "artists": [
+        {
+          "name": "Relaxed State",
+          "url": "https://open.spotify.com/artist/3NEmaMSqX5YRPVeqbBKyzY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 154624,
+      "name": "Raindrops on Water",
+      "url": "https://open.spotify.com/track/2MfTWQow2mtK8TgpSCSLCG"
+    },
+    {
+      "album": {
+        "name": "Heavy Rain",
+        "url": "https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs"
+      },
+      "artists": [
+        {
+          "name": "Ray N.Y",
+          "url": "https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140192,
+      "name": "Raining After Midnight",
+      "url": "https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM"
+    },
+    {
+      "album": {
+        "name": "Heavy Due",
+        "url": "https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx"
+      },
+      "artists": [
+        {
+          "name": "Precip",
+          "url": "https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Raining Coma",
+      "url": "https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw"
+    },
+    {
+      "album": {
+        "name": "Raining Down",
+        "url": "https://open.spotify.com/album/61XGQ4kAHEoMLyqrnMotZV"
+      },
+      "artists": [
+        {
+          "name": "Bibula",
+          "url": "https://open.spotify.com/artist/1KxJnRAxBzshncVMcGKtHZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Raining Down",
+      "url": "https://open.spotify.com/track/3b5GwseBHdsd2vTMK3uN4k"
+    },
+    {
+      "album": {
+        "name": "grey cloud",
+        "url": "https://open.spotify.com/album/2Iyw159svPU1i8iNnHDIne"
+      },
+      "artists": [
+        {
+          "name": "ame",
+          "url": "https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 131500,
+      "name": "raining for hours",
+      "url": "https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU"
+    },
+    {
+      "album": {
+        "name": "Raining Force",
+        "url": "https://open.spotify.com/album/1MSTsZLkWuOOAePWFDQTFV"
+      },
+      "artists": [
+        {
+          "name": "Nue",
+          "url": "https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Raining Force",
+      "url": "https://open.spotify.com/track/3bJu4wU7VYdjlxQnG6z2ud"
+    },
+    {
+      "album": {
+        "name": "Rain For Sleep",
+        "url": "https://open.spotify.com/album/5ALoceFx2jK3zQ2Wj4WJ3B"
+      },
+      "artists": [
+        {
+          "name": "Daily Calm",
+          "url": "https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 173500,
+      "name": "Raining In The City At Night",
+      "url": "https://open.spotify.com/track/0lMUyII33ZjGhNyuiSJQR5"
+    },
+    {
+      "album": {
+        "name": "Cloudburst",
+        "url": "https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA"
+      },
+      "artists": [
+        {
+          "name": "Epiphonema",
+          "url": "https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Raining Me Softly",
+      "url": "https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh"
+    },
+    {
+      "album": {
+        "name": "Rainy Night In Amsterdam",
+        "url": "https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS"
+      },
+      "artists": [
+        {
+          "name": "Imber Levis",
+          "url": "https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Rainy Avenue",
+      "url": "https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z"
+    },
+    {
+      "album": {
+        "name": "Smooth Street Rain",
+        "url": "https://open.spotify.com/album/30bjWsmsys73IL49zKW1zp"
+      },
+      "artists": [
+        {
+          "name": "HD Rain and Water",
+          "url": "https://open.spotify.com/artist/3daevVTaElLubCKe7p3DTf"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 172386,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/2Tbu3ljhZHiCl0Odpigcre"
+    },
+    {
+      "album": {
+        "name": "Carriage Rain",
+        "url": "https://open.spotify.com/album/6F6NAkqxgq1DKVlZC1s0gM"
+      },
+      "artists": [
+        {
+          "name": "Royal Rain",
+          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 212858,
+      "name": "Rainy Dream",
+      "url": "https://open.spotify.com/track/3VuSxr8PLrEKQHe2pMvVKI"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/4JYZA9jYxok2OfXWe0P44v"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 162458,
+      "name": "Rainy Evening",
+      "url": "https://open.spotify.com/track/1mMFZ7uNzc4GHTZ4yQLcXZ"
+    },
+    {
+      "album": {
+        "name": "Tears",
+        "url": "https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh"
+      },
+      "artists": [
+        {
+          "name": "Skyyy",
+          "url": "https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155827,
+      "name": "Rainy Hour",
+      "url": "https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0"
+    },
+    {
+      "album": {
+        "name": "Universe",
+        "url": "https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Mood",
+          "url": "https://open.spotify.com/artist/3HkwYBXLxmRKfWOkaknVQ7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Rainy Mood",
+      "url": "https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI"
+    },
+    {
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/49bI9Yo48BymJ8bwMr5tqg"
+      },
+      "artists": [
+        {
+          "name": "It Will Make Me Whole",
+          "url": "https://open.spotify.com/artist/4vvAo11thaqXmQVnxJihn7"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Rainy Morning Meditation",
+      "url": "https://open.spotify.com/track/10QgYXievL4gdmwUYd8H1Z"
+    },
+    {
+      "album": {
+        "name": "Rainy Mornings",
+        "url": "https://open.spotify.com/album/7g1No7q1YY0xckgQRkpRRT"
+      },
+      "artists": [
+        {
+          "name": "Forest FX Smith",
+          "url": "https://open.spotify.com/artist/2Ws74uPhxJrBWn95kKDqhq"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120251,
+      "name": "Rainy Mornings",
+      "url": "https://open.spotify.com/track/65i10BbqAMPSQmyc4J8TKT"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 2",
+        "url": "https://open.spotify.com/album/5LqlHxkBdta9AJLiXCl9AQ"
+      },
+      "artists": [
+        {
+          "name": "Worldwide Nature Studios",
+          "url": "https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154874,
+      "name": "Rainy Night pt. 3",
+      "url": "https://open.spotify.com/track/0xm6GeC2ZoRyobsjqdClRr"
+    },
+    {
+      "album": {
+        "name": "Rainy Nights",
+        "url": "https://open.spotify.com/album/0keGZBa42JeCzQbdKXmwzO"
+      },
+      "artists": [
+        {
+          "name": "humidum",
+          "url": "https://open.spotify.com/artist/1jtVdZK2EbmvWwytD9GCSp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208124,
+      "name": "Rainy Nights",
+      "url": "https://open.spotify.com/track/0rAc8hJhlILO2N4Peo0Y75"
+    },
+    {
+      "album": {
+        "name": "Rainy Nights",
+        "url": "https://open.spotify.com/album/71hbKiEU2dYzoMxmw4BHYL"
+      },
+      "artists": [
+        {
+          "name": "Night FX",
+          "url": "https://open.spotify.com/artist/1dZ9mvDheQ7JxOi6iyia0T"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173146,
+      "name": "Rainy Nights",
+      "url": "https://open.spotify.com/track/6NjY2QmltNePODQYrqPXYE"
+    },
+    {
+      "album": {
+        "name": "Ambient Thunder",
+        "url": "https://open.spotify.com/album/6XB6f6xZpPjYIfpiViW89M"
+      },
+      "artists": [
+        {
+          "name": "Pro Sounds of Nature",
+          "url": "https://open.spotify.com/artist/5S5w21MfQnpQZXxz6LbNQt"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163468,
+      "name": "Rainy Skies",
+      "url": "https://open.spotify.com/track/6l4JSPjMk2nWpMvGQYAmZa"
+    },
+    {
+      "album": {
+        "name": "Rain in Spring",
+        "url": "https://open.spotify.com/album/2fe8KZKkPyGCvlH1uthPIh"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Rainy Stoop",
+      "url": "https://open.spotify.com/track/4ydNgtF9wusuw2CPFvofnH"
+    },
+    {
+      "album": {
+        "name": "Reclining Rain",
+        "url": "https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv"
+      },
+      "artists": [
+        {
+          "name": "Rain Rec.",
+          "url": "https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Reclining Rain",
+      "url": "https://open.spotify.com/track/5VKBWMXSxr01PjR6y3BrHg"
+    },
+    {
+      "album": {
+        "name": "Recordings of Rain",
+        "url": "https://open.spotify.com/album/08pPXkPzUeA5xoAV4y6OL3"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Makers",
+          "url": "https://open.spotify.com/artist/3Af6nKYYghPjQMNzRgVXe8"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "Recordings of Rain",
+      "url": "https://open.spotify.com/track/1zG951qozJFbc91W7dZL9n"
+    },
+    {
+      "album": {
+        "name": "Forest Rain",
+        "url": "https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131135,
+      "name": "Recordings of Rainfall",
+      "url": "https://open.spotify.com/track/2xNMAGNaV3UCAPFbxG7T6W"
+    },
+    {
+      "album": {
+        "name": "Regenwald",
+        "url": "https://open.spotify.com/album/5MOZilYskYhYA75tRWwEvK"
+      },
+      "artists": [
+        {
+          "name": "Regendans",
+          "url": "https://open.spotify.com/artist/1E2RM3DEqGzR4ZX6cyHVY3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173983,
+      "name": "Regenwald",
+      "url": "https://open.spotify.com/track/5SQzdrGhcIHkGo2kRrzTTZ"
+    },
+    {
+      "album": {
+        "name": "Sleeping Sounds",
+        "url": "https://open.spotify.com/album/0I7MgTcuGhEDJ4W80dmcIC"
+      },
+      "artists": [
+        {
+          "name": "Bad Weather Forecast",
+          "url": "https://open.spotify.com/artist/4cSSlFZVzDr6U2JbKiaqVs"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157052,
+      "name": "Regnljud",
+      "url": "https://open.spotify.com/track/5mBKVM21lALtJgUz0viYbl"
+    },
+    {
+      "album": {
+        "name": "Rainfall Place",
+        "url": "https://open.spotify.com/album/0XYQjSIyavsYfrPr7XiUsN"
+      },
+      "artists": [
+        {
+          "name": "Rainfall Place",
+          "url": "https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147864,
+      "name": "Relaxation Rain Sound",
+      "url": "https://open.spotify.com/track/3syQvNoSeSrEaanClGFxgB"
+    },
+    {
+      "album": {
+        "name": "Capital Rain Sounds",
+        "url": "https://open.spotify.com/album/4oUPIgy0BVsB2lH5UQgi1V"
+      },
+      "artists": [
+        {
+          "name": "Capital Rain Sounds",
+          "url": "https://open.spotify.com/artist/7G1SkmoihklZHI5j5tocSA"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185016,
+      "name": "Relaxing Rain Slumber",
+      "url": "https://open.spotify.com/track/5CfhvCrR3kegEsafOkucIx"
+    },
+    {
+      "album": {
+        "name": "Sonar Rain",
+        "url": "https://open.spotify.com/album/2ccS0i7ptKANQi20LPiiXX"
+      },
+      "artists": [
+        {
+          "name": "Sonar Rain",
+          "url": "https://open.spotify.com/artist/1tHHL3obJ6iIzg9EFahIqv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 115914,
+      "name": "Relaxing Rain Sound For Sleep",
+      "url": "https://open.spotify.com/track/4DOCyaE87j6zURrE3wjoBq"
+    },
+    {
+      "album": {
+        "name": "Garden Rain",
+        "url": "https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH"
+      },
+      "artists": [
+        {
+          "name": "Let It Rain",
+          "url": "https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181797,
+      "name": "Relaxing Sleep Ambience",
+      "url": "https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa"
+    },
+    {
+      "album": {
+        "name": "Calming Water and Nature",
+        "url": "https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "REM Cycle Rain",
+      "url": "https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0"
+    },
+    {
+      "album": {
+        "name": "Yugen (Nature)",
+        "url": "https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa"
+      },
+      "artists": [
+        {
+          "name": "Shorenights",
+          "url": "https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Riviera (Rain)",
+      "url": "https://open.spotify.com/track/518IdlKjd1Pv7gTaa1ig2v"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154124,
+      "name": "rumbling rainfall",
+      "url": "https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff"
+    },
+    {
+      "album": {
+        "name": "Nature's Peaceful Sounds",
+        "url": "https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 118000,
+      "name": "Rural Rain",
+      "url": "https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ"
+    },
+    {
+      "album": {
+        "name": "Sunday Clouds",
+        "url": "https://open.spotify.com/album/5eWYCjOMNRIKOJ3Jf2uIMi"
+      },
+      "artists": [
+        {
+          "name": "Tom D. Waters",
+          "url": "https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148740,
+      "name": "Safe In A Cave",
+      "url": "https://open.spotify.com/track/69s45n3yhPaQwkRXGOHlGN"
+    },
+    {
+      "album": {
+        "name": "Empty Rain",
+        "url": "https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y"
+      },
+      "artists": [
+        {
+          "name": "AEON",
+          "url": "https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Safe Rain",
+      "url": "https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 157500,
+      "name": "Scandinavian Forest Rain Sound",
+      "url": "https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh"
+    },
+    {
+      "album": {
+        "name": "Searching For Cover",
+        "url": "https://open.spotify.com/album/5wKxqBdrmequiiLVZaDlg7"
+      },
+      "artists": [
+        {
+          "name": "Peter Graham",
+          "url": "https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 160125,
+      "name": "Searching For Cover",
+      "url": "https://open.spotify.com/track/61DyLRwrghWPY9o93BoTNw"
+    },
+    {
+      "album": {
+        "name": "Relaxed Outdoor Recordings",
+        "url": "https://open.spotify.com/album/4jTv3LXuYqblyFqiAyZsMK"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Simply Rain",
+      "url": "https://open.spotify.com/track/0HyR7LKUWkQY0DIjdwO50j"
+    },
+    {
+      "album": {
+        "name": "Rain On The Cobblestone",
+        "url": "https://open.spotify.com/album/4zi0Wh076joFe9HESotzxP"
+      },
+      "artists": [
+        {
+          "name": "Royal Rain",
+          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199057,
+      "name": "Sky Diamonds",
+      "url": "https://open.spotify.com/track/6JMVBNnkxd2jZ3ZR8HCEhf"
+    },
+    {
+      "album": {
+        "name": "Skyfall Oasis (Rain)",
+        "url": "https://open.spotify.com/album/2Rf8vEVuzcRHAMk6tPEUZC"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Skyfall Oasis - Rain",
+      "url": "https://open.spotify.com/track/79bWKtZ2DrN5wJD14gXP6M"
+    },
+    {
+      "album": {
+        "name": "Rain Dance",
+        "url": "https://open.spotify.com/album/6C14sZG9ez20gtlv3hc5P3"
+      },
+      "artists": [
+        {
+          "name": "Zuni",
+          "url": "https://open.spotify.com/artist/4im5G9baIDRzJa4xpPdDz6"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 212000,
+      "name": "Sleep in the rain",
+      "url": "https://open.spotify.com/track/1bsxsOKLVuh2jCUdrm6X3r"
+    },
+    {
+      "album": {
+        "name": "Forest Rain",
+        "url": "https://open.spotify.com/album/2Be1a696TMJVycuCb9gzIV"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138932,
+      "name": "Sleep Rain in Nature",
+      "url": "https://open.spotify.com/track/5vNsQqP4iqNL5UvK3XCKRf"
+    },
+    {
+      "album": {
+        "name": "Reclining Rain",
+        "url": "https://open.spotify.com/album/09GQWPwVu5vnqtis8Sm9Zv"
+      },
+      "artists": [
+        {
+          "name": "Rain Rec.",
+          "url": "https://open.spotify.com/artist/0EUOUMWVFwBTkjzcJrgQJQ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Sleepy Raindrops",
+      "url": "https://open.spotify.com/track/01Mgf3GGm5oEzUcwPRHROa"
+    },
+    {
+      "album": {
+        "name": "Rainy Mind",
+        "url": "https://open.spotify.com/album/0dk1131P27XQgkbt8bbkiU"
+      },
+      "artists": [
+        {
+          "name": "Nature Of Sweden",
+          "url": "https://open.spotify.com/artist/7kgwMm8d2igABad4wfEKti"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Slumber Rain",
+      "url": "https://open.spotify.com/track/2pUhY7tWx8egpw2qn84iSi"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds",
+        "url": "https://open.spotify.com/album/0WRI6oCy41nI6BPA0pxsRi"
+      },
+      "artists": [
+        {
+          "name": "TELEKROME",
+          "url": "https://open.spotify.com/artist/74hvVWKEz8DlYrkKrE97TV"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 183874,
+      "name": "Smooth Rain",
+      "url": "https://open.spotify.com/track/2aqWJpAR0TiDZAEmWpiGGI"
+    },
+    {
+      "album": {
+        "name": "Part 1",
+        "url": "https://open.spotify.com/album/20wvLsO0wBMd2L2bLGHSUK"
+      },
+      "artists": [
+        {
+          "name": "Rain In Spain",
+          "url": "https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 175370,
+      "name": "Soft Rain",
+      "url": "https://open.spotify.com/track/1fBxbZ4Lt76i1ZRyrhTi4D"
+    },
+    {
+      "album": {
+        "name": "Soft Rain",
+        "url": "https://open.spotify.com/album/77ylajNLXTih9sHLxs9cGo"
+      },
+      "artists": [
+        {
+          "name": "Yoga Rain",
+          "url": "https://open.spotify.com/artist/78AN2phg9cUz8scFyKFVIz"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122431,
+      "name": "Soft Rain",
+      "url": "https://open.spotify.com/track/7uhhqbiteyUoklYOyVnxQM"
+    },
+    {
+      "album": {
+        "name": "Chuva para relaxar",
+        "url": "https://open.spotify.com/album/55xW5bMOYByBLld2Ccek0d"
+      },
+      "artists": [
+        {
+          "name": "Biblioteca del Sue\u00f1o",
+          "url": "https://open.spotify.com/artist/5D1CXEnAotW2Hy3gdyWYEW"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173396,
+      "name": "Sonidos de lluvia para dormir",
+      "url": "https://open.spotify.com/track/2Gzu7T11dpKH9Vb7JwctOr"
+    },
+    {
+      "album": {
+        "name": "Calming Rain Sounds",
+        "url": "https://open.spotify.com/album/2cvVce7JBqeqyCSHvPSR9g"
+      },
+      "artists": [
+        {
+          "name": "Liquid Planet Recordings",
+          "url": "https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184816,
+      "name": "Soothing Rain",
+      "url": "https://open.spotify.com/track/5JyCrKg7QK1Bf7PugGNy8W"
+    },
+    {
+      "album": {
+        "name": "Water sound bank",
+        "url": "https://open.spotify.com/album/626RaYxmWLVeyzIooBaj2E"
+      },
+      "artists": [
+        {
+          "name": "Water sound bank",
+          "url": "https://open.spotify.com/artist/72bJItkEKsfwAovut5Io0E"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "Soothing Rain Sounds",
+      "url": "https://open.spotify.com/track/7rvo9djyYAEnsogXeACe5V"
+    },
+    {
+      "album": {
+        "name": "Rain State",
+        "url": "https://open.spotify.com/album/2qxwVclv1DiA2myG6jnSwQ"
+      },
+      "artists": [
+        {
+          "name": "Earth's Rain",
+          "url": "https://open.spotify.com/artist/0ZLtBstrrgOcaDzUkGy9il"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Soothing Rain Weather",
+      "url": "https://open.spotify.com/track/7FWuaHWx6XZR62qPggVARn"
+    },
+    {
+      "album": {
+        "name": "Falling Clouds",
+        "url": "https://open.spotify.com/album/6wGZLw1MBKZQVLelPdBoDJ"
+      },
+      "artists": [
+        {
+          "name": "Rain ZPE",
+          "url": "https://open.spotify.com/artist/5btXRFPLxDHay7eed3kHLd"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120372,
+      "name": "Sound Of Rain",
+      "url": "https://open.spotify.com/track/2pO4VCd6vKG1XjzxlNvGPd"
+    },
+    {
+      "album": {
+        "name": "Clouds Above",
+        "url": "https://open.spotify.com/album/4v4IoTTglfe37UVhnULrhE"
+      },
+      "artists": [
+        {
+          "name": "The Forest Escape",
+          "url": "https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Spring Mist",
+      "url": "https://open.spotify.com/track/1YbO6zR2nVOF6sPjkKKQCt"
+    },
+    {
+      "album": {
+        "name": "Tea & Rainy Days",
+        "url": "https://open.spotify.com/album/7t4DXof9s7bZIjH4ejRc03"
+      },
+      "artists": [
+        {
+          "name": "Deszcz",
+          "url": "https://open.spotify.com/artist/7mc60Wf7K9edgiJL0FQ6vz"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Spring Rain",
+      "url": "https://open.spotify.com/track/3tJUPN4RceFzN6YScWnO46"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sounds of Nature",
+        "url": "https://open.spotify.com/album/2QGcmnsvluOe2W71WSfTyG"
+      },
+      "artists": [
+        {
+          "name": "Outdoor Field Recorders",
+          "url": "https://open.spotify.com/artist/71ep4LtjRagWcfM1rZ6lUr"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 124486,
+      "name": "Spring Rain Storm",
+      "url": "https://open.spotify.com/track/1lFKWqqOiV1RnLqS6MU66B"
+    },
+    {
+      "album": {
+        "name": "Rain Sounds Vol. 3",
+        "url": "https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE"
+      },
+      "artists": [
+        {
+          "name": "Baltic Nature Sounds",
+          "url": "https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 162992,
+      "name": "Standing In The Rain",
+      "url": "https://open.spotify.com/track/2z1zCDlx7GjDGSnaeHFrJL"
+    },
+    {
+      "album": {
+        "name": "peaceful showers (rain)",
+        "url": "https://open.spotify.com/album/5EmHKVBfrBkmHT4PlOd39x"
+      },
+      "artists": [
+        {
+          "name": "oh, the joy.",
+          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "starlit rainfall",
+      "url": "https://open.spotify.com/track/7CLQUiUTBqBtjZHHkSVNuf"
+    },
+    {
+      "album": {
+        "name": "Rain outside my window",
+        "url": "https://open.spotify.com/album/4EdscJEihXupZqV6UaKAhc"
+      },
+      "artists": [
+        {
+          "name": "The Wet",
+          "url": "https://open.spotify.com/artist/2IgElvWe0O1lxnnW4XPmNE"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Starting to rain",
+      "url": "https://open.spotify.com/track/7dkQRyEnWGmki1fGtkvGAW"
+    },
+    {
+      "album": {
+        "name": "Drip Symphony",
+        "url": "https://open.spotify.com/album/3mMfGtP92FkXwCBFcnkp1e"
+      },
+      "artists": [
+        {
+          "name": "Rain Mozart",
+          "url": "https://open.spotify.com/artist/6yc5UNveUs9xHzvSLf8NdT"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 121000,
+      "name": "Staycation Rain",
+      "url": "https://open.spotify.com/track/5LGvDftuWcuR43b1nKFXIR"
+    },
+    {
+      "album": {
+        "name": "Nature Rain Relaxation",
+        "url": "https://open.spotify.com/album/6l6y3ned8RViGuo8Jy07gq"
+      },
+      "artists": [
+        {
+          "name": "Mindful Measures",
+          "url": "https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 152000,
+      "name": "Steady Rain",
+      "url": "https://open.spotify.com/track/07sMMvZeZ0AExRWF2UX8Wf"
+    },
+    {
+      "album": {
+        "name": "Chill Rain",
+        "url": "https://open.spotify.com/album/2wWqahCeI8l1ZTvn3BdfTf"
+      },
+      "artists": [
+        {
+          "name": "Bentline Peak",
+          "url": "https://open.spotify.com/artist/6yOhpo1p2KSnaMAvHK6jo6"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138619,
+      "name": "Steady Raining",
+      "url": "https://open.spotify.com/track/6dVunPstQ12APTl3RivTIA"
+    },
+    {
+      "album": {
+        "name": "Mind Calming Rainstorms",
+        "url": "https://open.spotify.com/album/3Qx3DrWXvBGpnzxHoJqH9k"
+      },
+      "artists": [
+        {
+          "name": "NatuREM",
+          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Steady Rural Rain",
+      "url": "https://open.spotify.com/track/2M9dMZm19VVwBpJyi2vbSl"
+    },
+    {
+      "album": {
+        "name": "Regen die ganze Nacht",
+        "url": "https://open.spotify.com/album/1lzDK9FfV0KxJgAbOvYm1s"
+      },
+      "artists": [
+        {
+          "name": "Die ganze Nacht",
+          "url": "https://open.spotify.com/artist/1OcoltzN3WhJYzAoAtf0Xl"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131135,
+      "name": "Stetiger Regen",
+      "url": "https://open.spotify.com/track/3vwZ7YcQ24GtvvuWQTRcXO"
+    },
+    {
+      "album": {
+        "name": "Countryside Storm",
+        "url": "https://open.spotify.com/album/3sQS3qy5lYAOuzuBoxw2eY"
+      },
+      "artists": [
+        {
+          "name": "April Shower",
+          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Stormy Road",
+      "url": "https://open.spotify.com/track/5LOUGQmqx2GCTUt0oaQcFc"
+    },
+    {
+      "album": {
+        "name": "Strawberry Rain",
+        "url": "https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1"
+      },
+      "artists": [
+        {
+          "name": "DreamDrops",
+          "url": "https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212169,
+      "name": "Strawberry Rain",
+      "url": "https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD"
+    },
+    {
+      "album": {
+        "name": "Sturm am Abend",
+        "url": "https://open.spotify.com/album/0FkSeQJQw7teDYQyOROUDl"
+      },
+      "artists": [
+        {
+          "name": "Stormy Zeus",
+          "url": "https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Sturm am Abend",
+      "url": "https://open.spotify.com/track/6YgWoAIFPLjOiSo0iilhdA"
+    },
+    {
+      "album": {
+        "name": "Wilder Regen",
+        "url": "https://open.spotify.com/album/0cNgvFON65mdd39nfornb9"
+      },
+      "artists": [
+        {
+          "name": "Superystorm",
+          "url": "https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176843,
+      "name": "Sturm und Donner",
+      "url": "https://open.spotify.com/track/0GdhZriQakFwHQZTrgoWKd"
+    },
+    {
+      "album": {
+        "name": "Summer Nap",
+        "url": "https://open.spotify.com/album/1jbHyvifnMfdEka86g83Kt"
+      },
+      "artists": [
+        {
+          "name": "ASMRainy",
+          "url": "https://open.spotify.com/artist/2TmnpZ4hcIW5wNMsl70ZhN"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143043,
+      "name": "Summer Nap",
+      "url": "https://open.spotify.com/track/1L2rIfFHucpioSL5MvF9es"
+    },
+    {
+      "album": {
+        "name": "Spring Time Rain Sounds",
+        "url": "https://open.spotify.com/album/4PVHNt8EHuF3Y60Y886HYv"
+      },
+      "artists": [
+        {
+          "name": "Drive In The Rain",
+          "url": "https://open.spotify.com/artist/2LKvEzYDkO2IWlIEKXeVvo"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141194,
+      "name": "Summer Night Rain",
+      "url": "https://open.spotify.com/track/72ThseXCl98F5m9UD6wa2r"
+    },
+    {
+      "album": {
+        "name": "Days Of Rain",
+        "url": "https://open.spotify.com/album/0cBWB9SDm1IIxQ7weGrpiG"
+      },
+      "artists": [
+        {
+          "name": "Haya Sounds",
+          "url": "https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208000,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/1sHXqphcVMiOzIS8ZxOeQo"
+    },
+    {
+      "album": {
+        "name": "Storm in the fields",
+        "url": "https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n"
+      },
+      "artists": [
+        {
+          "name": "Altostratus",
+          "url": "https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153927,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/4eiy9EuD5I1fj0q1icyX4s"
+    },
+    {
+      "album": {
+        "name": "Sunday Clouds",
+        "url": "https://open.spotify.com/album/5eWYCjOMNRIKOJ3Jf2uIMi"
+      },
+      "artists": [
+        {
+          "name": "Tom D. Waters",
+          "url": "https://open.spotify.com/artist/4zZDLZEKVgScOJcWnWXeOh"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153355,
+      "name": "Sunday Clouds",
+      "url": "https://open.spotify.com/track/3MEnQB3hVAixFDItaDAYPB"
+    },
+    {
+      "album": {
+        "name": "Surrender to rain",
+        "url": "https://open.spotify.com/album/2eBvKcPkjpMxcUnrB55Hhq"
+      },
+      "artists": [
+        {
+          "name": "Rayne",
+          "url": "https://open.spotify.com/artist/1RNXA2cIljrRol5nvV2Eoy"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Surrender to rain",
+      "url": "https://open.spotify.com/track/3NX7gdrLQMqCaFniFrH0a5"
+    },
+    {
+      "album": {
+        "name": "Une temp\u00eate humide",
+        "url": "https://open.spotify.com/album/4bo1Q8gx21bcEUemVUE7YS"
+      },
+      "artists": [
+        {
+          "name": "Thunder Phall",
+          "url": "https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144892,
+      "name": "Temp\u00eate printani\u00e8re",
+      "url": "https://open.spotify.com/track/6WKm1ecd68hRHzvQ4geEcX"
+    },
+    {
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251382,
+      "name": "Thailand Thunderstorm (Nature)",
+      "url": "https://open.spotify.com/track/5RCT6cwxeRYNV4KbOh1taU"
+    },
+    {
+      "album": {
+        "name": "After Midnight",
+        "url": "https://open.spotify.com/album/3ZK1PT3Q5D1cwXDIEeKp2R"
+      },
+      "artists": [
+        {
+          "name": "Worrysome Skies",
+          "url": "https://open.spotify.com/artist/3bkZdtFCw7NEPaNOBTHIjn"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "That's Real Intense",
+      "url": "https://open.spotify.com/track/7GquG0EVY3NBr0sQmhwc1I"
+    },
+    {
+      "album": {
+        "name": "Moods & Water sounds",
+        "url": "https://open.spotify.com/album/3nD55ahX3IQVbzZNEvXKfi"
+      },
+      "artists": [
+        {
+          "name": "Moods & Water sounds",
+          "url": "https://open.spotify.com/artist/4S8KHt6NF6LYdzJwba3vMp"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144149,
+      "name": "The Mystique Sounds Of Nature",
+      "url": "https://open.spotify.com/track/2uyrDzMP7uzqURcFfYxn8w"
+    },
+    {
+      "album": {
+        "name": "Undulation",
+        "url": "https://open.spotify.com/album/7zeMN53HHrixeogYjoWEXv"
+      },
+      "artists": [
+        {
+          "name": "Pacific Rain",
+          "url": "https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208062,
+      "name": "The Sky's Crying",
+      "url": "https://open.spotify.com/track/1h8pTlNe6iVtLezUkNC0H2"
+    },
+    {
+      "album": {
+        "name": "Waterworlds",
+        "url": "https://open.spotify.com/album/3UO36j9PRWy5ORvJbuJ5zM"
+      },
+      "artists": [
+        {
+          "name": "Aquamoon",
+          "url": "https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 108500,
+      "name": "There Is Always Tomorrow",
+      "url": "https://open.spotify.com/track/5w2MqEtJPba4bMvVn7wtkh"
+    },
+    {
+      "album": {
+        "name": "Century Storm",
+        "url": "https://open.spotify.com/album/3RXln41pnRqCopG98l1jzJ"
+      },
+      "artists": [
+        {
+          "name": "Lunacy",
+          "url": "https://open.spotify.com/artist/1YrzJskaD4814wEI0N3mof"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Thunder Around The Clock",
+      "url": "https://open.spotify.com/track/6UDwp5I6QMzgJEv4czsG48"
+    },
+    {
+      "album": {
+        "name": "Tonnerre au printemps",
+        "url": "https://open.spotify.com/album/6kZ83TrcHx2QQIL3pfNTAF"
+      },
+      "artists": [
+        {
+          "name": "Trueno Tropical",
+          "url": "https://open.spotify.com/artist/1u9cwMm7ARcvZ2q2fV7UWW"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Tonnerre au printemps",
+      "url": "https://open.spotify.com/track/2HrG87Rc7DgpjyI02rcMPS"
+    },
+    {
+      "album": {
+        "name": "Touch the Rain",
+        "url": "https://open.spotify.com/album/3JUDVgZwsxjZlNFRYepwik"
+      },
+      "artists": [
+        {
+          "name": "Ethereal Roots",
+          "url": "https://open.spotify.com/artist/2NlQLtRMP7LbLqhbbxVEsu"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Touch the Rain",
+      "url": "https://open.spotify.com/track/3eLUv3zY3Rmu9Lg73yReSS"
+    },
+    {
+      "album": {
+        "name": "Klimawandel",
+        "url": "https://open.spotify.com/album/7MLIwhRzf3R6vyPvRi7aZL"
+      },
+      "artists": [
+        {
+          "name": "Millionen Tropfen",
+          "url": "https://open.spotify.com/artist/1vonqrJbq5LvjugdJ8GMC7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141920,
+      "name": "Tropfen",
+      "url": "https://open.spotify.com/track/6eYLvLhgdWzebLS1Zial1s"
+    },
+    {
+      "album": {
+        "name": "Rain Sleep Effects",
+        "url": "https://open.spotify.com/album/71EhaKqV4TQXMLmhQZFpR4"
+      },
+      "artists": [
+        {
+          "name": "Regenmaschine",
+          "url": "https://open.spotify.com/artist/1GTEiekrEAxZrpOCNMKFAY"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 176003,
+      "name": "Tropical Rain Sound",
+      "url": "https://open.spotify.com/track/5egT99fn74En0yE997ToIO"
+    },
+    {
+      "album": {
+        "name": "Rain over Cornwall",
+        "url": "https://open.spotify.com/album/2UdIfBZWnq0uNMvkPEirzy"
+      },
+      "artists": [
+        {
+          "name": "April Shower",
+          "url": "https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Umbrella Sleep",
+      "url": "https://open.spotify.com/track/2A6PDYKWBiolkWhNPUXS6i"
+    },
+    {
+      "album": {
+        "name": "Drops Coming Down",
+        "url": "https://open.spotify.com/album/7FA1NLVF63KlKuiku94BAD"
+      },
+      "artists": [
+        {
+          "name": "Nordic Rain",
+          "url": "https://open.spotify.com/artist/6c2zaxb47VSieJR0wLDLAg"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Umbrella Time",
+      "url": "https://open.spotify.com/track/5mWEC9dsbcLwo5CeIyVRA6"
+    },
+    {
+      "album": {
+        "name": "Endless Rain",
+        "url": "https://open.spotify.com/album/68iEqOmVcOTDhYWQ6DwTUI"
+      },
+      "artists": [
+        {
+          "name": "Natur Musikanten",
+          "url": "https://open.spotify.com/artist/1cnvjBS4O1gaKv7LAIzFFT"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158987,
+      "name": "Under the Rain Clouds",
+      "url": "https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds"
+    },
+    {
+      "album": {
+        "name": "Rain Therapy Session 1",
+        "url": "https://open.spotify.com/album/0z4pL7PSGR6RccLfZVd4lz"
+      },
+      "artists": [
+        {
+          "name": "Lumo",
+          "url": "https://open.spotify.com/artist/2T0jucohOQ58uTtQR66BhK"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Under The Roof",
+      "url": "https://open.spotify.com/track/4DanlCGrjn092EnWmbBlPa"
+    },
+    {
+      "album": {
+        "name": "Undulation",
+        "url": "https://open.spotify.com/album/7zeMN53HHrixeogYjoWEXv"
+      },
+      "artists": [
+        {
+          "name": "Pacific Rain",
+          "url": "https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 208062,
+      "name": "Undulation",
+      "url": "https://open.spotify.com/track/7hFdKc9nv3w3MhwGWSKig4"
+    },
+    {
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/1zoQBG8m0K5z3SrUwprXG0"
+      },
+      "artists": [
+        {
+          "name": "When It Rains In California",
+          "url": "https://open.spotify.com/artist/6ttzO188jzpYIyj00pSsyZ"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 177769,
+      "name": "Unstoppable Rain",
+      "url": "https://open.spotify.com/track/5sa0kHUUCQogrtDmODGmeb"
+    },
+    {
+      "album": {
+        "name": "Recentered in Nature",
+        "url": "https://open.spotify.com/album/454jtT55gdWTo7La069M9j"
+      },
+      "artists": [
+        {
+          "name": "Dozy Sounds",
+          "url": "https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Vienna (Rain)",
+      "url": "https://open.spotify.com/track/1VFWtXT3a4aCPjq0DXo80v"
+    },
+    {
+      "album": {
+        "name": "Non Stop Rain",
+        "url": "https://open.spotify.com/album/1SXdfBOoIPb094UtbsLjvP"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        },
+        {
+          "name": "Rain Recorders",
+          "url": "https://open.spotify.com/artist/5GNSiWmGlKoycbxC8htQaH"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130774,
+      "name": "Wake Up Rain",
+      "url": "https://open.spotify.com/track/726a7JkoT1DetZYi6dGnMF"
+    },
+    {
+      "album": {
+        "name": "Storm Rains",
+        "url": "https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ"
+      },
+      "artists": [
+        {
+          "name": "Parapluie",
+          "url": "https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Windy Showers",
+      "url": "https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij"
+    },
+    {
+      "album": {
+        "name": "Stratus",
+        "url": "https://open.spotify.com/album/1aOS5vAC50EyCWfEhrAPmX"
+      },
+      "artists": [
+        {
+          "name": "Neo Si",
+          "url": "https://open.spotify.com/artist/3jvUqMMZqE3OeiBy7lsaG3"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Wonderful Rain",
+      "url": "https://open.spotify.com/track/4KCIoTO0Wyesf9Ia4VwGgn"
+    },
+    {
+      "album": {
+        "name": "Gentle Rainfall",
+        "url": "https://open.spotify.com/album/7t3EAck5pBqcys8naib91U"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Woodnear Forest (Rain)",
+      "url": "https://open.spotify.com/track/4Ia3PfPXOmDJ5cYPyt6VIi"
+    },
+    {
+      "album": {
+        "name": "Relax Rain",
+        "url": "https://open.spotify.com/album/7fqwCU5bvNyMPUTDXJjW8y"
+      },
+      "artists": [
+        {
+          "name": "Dream Wonderland",
+          "url": "https://open.spotify.com/artist/2FQzApUKsaETAB1fmHHtqd"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133746,
+      "name": "Yoga Rain",
+      "url": "https://open.spotify.com/track/4sieuDUZuvGySckrUxCgN2"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e07\u0e1d\u0e19\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e",
+        "url": "https://open.spotify.com/album/0StfOG7Lsu1P9qseiHtDOZ"
+      },
+      "artists": [
+        {
+          "name": "\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e1d\u0e19",
+          "url": "https://open.spotify.com/artist/0CyQEAbBfOoPQHDNQb2Y7Q"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133003,
+      "name": "\u0e1d\u0e19\u0e44\u0e17\u0e22",
+      "url": "https://open.spotify.com/track/6RahdCve2k4j9uMktGnvzN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXHRfd4xP9nx"
 }

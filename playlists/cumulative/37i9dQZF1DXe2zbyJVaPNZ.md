@@ -4,7 +4,7 @@
 
 > Ambient waves for ethereal days
 
-196 songs - 12 hr 43 min
+197 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Emotions](https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8) | [Ashtanga](https://open.spotify.com/artist/5G1Q1LkBEWL6WLWjbDHoTe) | [Emotions](https://open.spotify.com/album/1FZsNcXvdtMK6VnZUYEWRZ) | 2:48 | 2022-11-22 |  |
 | [Energy Cleanse \- 417 Hz](https://open.spotify.com/track/2yIp2wgUXOl5xhlhPbpy0a) | [Sound Bath](https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO) | [Energy Cleanse](https://open.spotify.com/album/0AX3jy6WYDkT4Ed8Lb9ZKa) | 2:30 | 2023-11-17 |  |
 | [Eos](https://open.spotify.com/track/6tR1g0NTadhTPjsGmVI3LW) | [AstroPilot](https://open.spotify.com/artist/2z658O7sY52T18CIOqUcws), [Spacecraft](https://open.spotify.com/artist/02ji6dT9gN9LUtNlMUB74C) | [Heavenly](https://open.spotify.com/album/4ZN6SMfQ6ycPVuibQLLNj8) | 3:32 | 2022-08-05 |  |
-| [EVA](https://open.spotify.com/track/2OmCcfOyNvJ2LFN1M8Vg9Z) | [Jonn Serrie](https://open.spotify.com/artist/1QZGv6Rumxnw9nIGmowvlM) | [EVA](https://open.spotify.com/album/1LeAveUZL9H7DhgZ10qQTZ) | 6:39 | 2023-01-27 |  |
+| [EVA](https://open.spotify.com/track/2OmCcfOyNvJ2LFN1M8Vg9Z) | [Jonn Serrie](https://open.spotify.com/artist/1QZGv6Rumxnw9nIGmowvlM) | [EVA](https://open.spotify.com/album/1LeAveUZL9H7DhgZ10qQTZ) | 6:39 | 2023-01-27 | 2024-01-14 |
+| [EVA](https://open.spotify.com/track/4rH2QYUWZKEI1ZwzpTI8DE) | [Jonn Serrie](https://open.spotify.com/artist/1QZGv6Rumxnw9nIGmowvlM) | [Elysian Lightships](https://open.spotify.com/album/033eqtSgR0TgdywGM2y3xC) | 6:39 | 2023-12-01 |  |
 | [Ever Slower](https://open.spotify.com/track/0ORNScPdY6pxfoqWUpv9f4) | [Maximilian Sievert](https://open.spotify.com/artist/1KLfI1v6hjVZ1UCyrLJrC8) | [Ever Slower](https://open.spotify.com/album/5bc1qPYwtAwOYyMHXZDSxU) | 2:30 | 2022-09-08 |  |
 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 | 2023-11-17 |  |
 | [Feather](https://open.spotify.com/track/3D31N4fyByXCIchCFRnVd5) | [Ludwig A.F.](https://open.spotify.com/artist/3Pxzo6Fhgswi6238OggzO5) | [Air](https://open.spotify.com/album/0mJuu5yMJ9R9IRVBFY2DkI) | 3:36 | 2022-10-10 |  |

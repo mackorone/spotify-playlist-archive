@@ -4,7 +4,7 @@
 
 > Instrumental beats to chill to.
 
-692 songs - 1 day 3 hr 4 min
+698 songs - 1 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [bikerides](https://open.spotify.com/track/5kkqw91HaImxRqwjOpXv5w) | [Mathssiah](https://open.spotify.com/artist/4Qm8xoP2jEHarmxmbX0IVe) | [bikerides](https://open.spotify.com/album/1IgmHfcOWWrXejVQ4lFT4d) | 2:20 | 2023-01-13 |  |
 | [Black Cat](https://open.spotify.com/track/33Z8foQTfjdJoMT6drVBjQ) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [Black Cat](https://open.spotify.com/album/64nLKtqCR3OU4mCOaXQVHQ) | 2:00 | 2023-07-19 | 2023-09-05 |
 | [Blanket Burrito](https://open.spotify.com/track/3k6OoaMArdBeCsHyMYx2NL) | [Dillon Kay](https://open.spotify.com/artist/3gEfOUa3nPTlBSjLRxtrmq) | [Blanket Burrito & Warm Photocopy](https://open.spotify.com/album/0VYjiOYLfMeizvkuA1pA5E) | 2:27 | 2023-09-04 |  |
-| [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2023-01-13 |  |
+| [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2023-01-13 | 2024-01-05 |
 | [Blue](https://open.spotify.com/track/0J5KBZKxy0kQAq81KNtExp) | [Blueor](https://open.spotify.com/artist/6K6SjptdGOH6RrL9ggstwY), [Swilled](https://open.spotify.com/artist/3U86ENktrj7XqYyRPDS4t3), [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI) | [Blue](https://open.spotify.com/album/2Xl4OsqpLXOyBRlpR50AfG) | 2:30 | 2023-01-13 | 2023-09-29 |
 | [Blue Amethyst](https://open.spotify.com/track/4ZJp39ATL2kwnWu65OETfz) | [Electrotastica](https://open.spotify.com/artist/5q5uMW70FwqROgeYo3ojb8) | [Blue Amethyst](https://open.spotify.com/album/6qnYKezz4MSP7fKD5zAGhv) | 2:10 | 2023-01-13 | 2023-09-29 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -282,6 +282,7 @@
 | [Hope](https://open.spotify.com/track/3OfsQ9uAvf4C4eaDe9qSFr) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Hope](https://open.spotify.com/album/3UIsT3tWiuHWSn6LL0ZNnh) | 2:25 | 2023-01-13 | 2023-09-22 |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2023-01-13 |  |
 | [Hope!](https://open.spotify.com/track/1hIPTXl8fGnLxn4P6qYInV) | [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX) | [Hope!](https://open.spotify.com/album/6KojVBlOOuoyp3e3AsDBf3) | 2:43 | 2023-01-13 | 2023-09-16 |
+| [hot sauce expert](https://open.spotify.com/track/6Y9htoJ4aK8doMsrfSjfZk) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hot sauce expert](https://open.spotify.com/album/6ENsgfts4fxKpxve4szGlD) | 2:03 | 2024-01-12 |  |
 | [House Hunt](https://open.spotify.com/track/2xeMahcwKZi1fJXRptPO9F) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [House Hunt](https://open.spotify.com/album/0J4ndocZCA0qIR1WA24h05) | 2:17 | 2023-01-13 |  |
 | [How's That?](https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN) | [Tally Tilly](https://open.spotify.com/artist/2anhg6PY9gbMbyjPNjFyCE) | [Listen Up](https://open.spotify.com/album/4wdbmP7WMxxnfbGVvvABmZ) | 2:41 | 2023-01-13 |  |
 | [humify](https://open.spotify.com/track/4wkQzdybc3qK4nNaxHLzvO) | [hope mona](https://open.spotify.com/artist/4dY5OgoQjnx0jwht0P6siG) | [humify](https://open.spotify.com/album/3ETuV9sCWTjsUqUf0FVe4R) | 2:41 | 2023-01-13 | 2023-07-20 |
@@ -294,6 +295,7 @@
 | [in my dream EP](https://open.spotify.com/track/5SxMQZawqnsZHybzUJlmce) | [Maci](https://open.spotify.com/artist/77F1LaKJCaKmlPJY6ANEHy) | [in my dream EP](https://open.spotify.com/album/1nRKafaKn78uSKQxavi5xo) | 2:13 | 2023-01-13 |  |
 | [In The Deep](https://open.spotify.com/track/57NUJvvaolgDOw4DwumiDN) | [Wasted Glitter](https://open.spotify.com/artist/0dNux2V8fLK0d4fyqwU5iZ) | [In The Deep](https://open.spotify.com/album/780tID6S852uS2Bo2s3qWz) | 2:06 | 2023-01-13 |  |
 | [Indigo](https://open.spotify.com/track/2Q0Sgox8fZRoqE61pD9m2y) | [Lazlow](https://open.spotify.com/artist/4HDIsEQVKPkey4XVbvgUcT) | [Indigo](https://open.spotify.com/album/5uUb9ixhJKIFVpJktTFair) | 2:14 | 2023-09-22 |  |
+| [Ink of Dawn](https://open.spotify.com/track/58hRwiMXGNrQD9hUYbMCBq) | [Basicboy](https://open.spotify.com/artist/6NhNVWuAGFt7hfq9M4kj9U) | [Ink of Dawn](https://open.spotify.com/album/0Ka0O1ax4qdfJ9FJnsfiLg) | 1:55 | 2024-01-05 |  |
 | [Inlay](https://open.spotify.com/track/6wCnpERMZgRELDljSEDKR9) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Neon Tapestries](https://open.spotify.com/album/6hqeBr0rwkgO1DNKx7I59P) | 2:18 | 2023-01-13 |  |
 | [Inner Peace](https://open.spotify.com/track/547YTV2dWMOpgxdjGi8Nn8) | [Moon Cheese](https://open.spotify.com/artist/7DKpSnYTZwZiyleLd4rh0S) | [Inner Peace](https://open.spotify.com/album/72rdiIaTtw02OfQiCXQPGf) | 3:52 | 2023-09-22 |  |
 | [Interlace](https://open.spotify.com/track/7LV01OBynmYstauhU7HeTC) | [Funshine](https://open.spotify.com/artist/6yrpDCs3th5WzFNyTaC75r) | [Interlace](https://open.spotify.com/album/770bOOrgLvY5Sn7Crrhh2U) | 2:36 | 2023-01-13 |  |
@@ -455,6 +457,7 @@
 | [Pilot](https://open.spotify.com/track/62oHDKM3OgMcnw7Q9Fyq5M) | [Who Needs to Chill](https://open.spotify.com/artist/2Rat0jk683QeFOMTWuIzlE), [Chill Moon Music](https://open.spotify.com/artist/1ppFAqWZIgv5c7huT7O3Aa) | [Pilot](https://open.spotify.com/album/6RD7OxSnBJGi3hCuYlEsTu) | 1:22 | 2023-01-20 |  |
 | [Pineapple](https://open.spotify.com/track/0b0AsUGDff6yeX3wIsLoam) | [Three Peats](https://open.spotify.com/artist/5dIBLmnAYt2prKdVMtfjco) | [Pineapple](https://open.spotify.com/album/2swuJYhHOoxBRnal6B0SSx) | 3:36 | 2023-09-04 | 2023-09-22 |
 | [Pink Flower \#37](https://open.spotify.com/track/28BqpJcwL2dBW3q0w4EZwa) | [King Chino](https://open.spotify.com/artist/1JUoIzPJTpIc3mnlX98ae7) | [Pink Flower \#37](https://open.spotify.com/album/0pAWUXFYv1pi1bYF7p7xjh) | 2:10 | 2023-07-19 | 2023-09-16 |
+| [Pink Soda](https://open.spotify.com/track/5MSeGUnLLWatEBCxViIcGC) | [Keylo Parks](https://open.spotify.com/artist/7DDfnMy4LQyQLFMCgQLULn) | [Pink Soda](https://open.spotify.com/album/4H09JXtQEzll5guGsSP2Vt) | 2:42 | 2024-01-05 |  |
 | [Planets Over There](https://open.spotify.com/track/4gKvs3VsnSFtPlcNiDwFgN) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP) | [Planets Over There](https://open.spotify.com/album/7CQ4XolMl1vPh6DF9biQdt) | 2:15 | 2023-01-13 | 2023-09-16 |
 | [Plastic Boys](https://open.spotify.com/track/0VVkD4K9rMQtQYFdzKXMIv) | [Woozy Youngster](https://open.spotify.com/artist/2gbULTKiTcbVhrVXKJ1tCV) | [The One Who Could](https://open.spotify.com/album/5eBAuicfa2N0dWtoDcCtRj) | 2:36 | 2023-01-13 |  |
 | [Play that Moog!](https://open.spotify.com/track/2DCKv6nBysbFugFRD43W25) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Play that Moog!](https://open.spotify.com/album/0uwL8vG0o3N0gKs6yBGLIR) | 1:55 | 2023-04-11 |  |
@@ -546,6 +549,7 @@
 | [Smokescreen](https://open.spotify.com/track/7fotEELh5SdLslwYPNzVEo) | [Tohaj](https://open.spotify.com/artist/18w0RnrEkEovXUeERXyD6q) | [Smokescreen](https://open.spotify.com/album/4yO1zAL4LaKKb2caDQeAlp) | 2:57 | 2023-04-11 |  |
 | [Smooth Flava](https://open.spotify.com/track/3m7mHhhMWT2IaVYABrIN3x) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [Smooth Flava](https://open.spotify.com/album/35s0EDqvdbTBQrsPT8LzG9) | 2:41 | 2023-09-04 | 2023-10-27 |
 | [Snooze](https://open.spotify.com/track/4Do2TEF4vaVVplxqzDisvX) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [Snooze](https://open.spotify.com/album/4ck9OjnqO03ljtkYwehybI) | 2:17 | 2023-01-13 | 2023-09-22 |
+| [Snowful Peace](https://open.spotify.com/track/1u2SXLe9KHUX2uIqHG47JL) | [Bluerosie](https://open.spotify.com/artist/4csk2WW11IvLN5qTmHe1L3) | [Snowful Peace](https://open.spotify.com/album/6E3leoVqHuimOOQcN1ZngY) | 2:05 | 2024-01-05 |  |
 | [So Close So Far](https://open.spotify.com/track/0ZScc5fmp3L4ld1mFYj0b0) | [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [So Close So Far](https://open.spotify.com/album/4xTLJFNNJayTgLfOijeiAH) | 1:46 | 2023-01-13 | 2023-01-20 |
 | [So Tall](https://open.spotify.com/track/3wVQBrPPZe1kSdswpcdZef) | [Melt On](https://open.spotify.com/artist/5j5qAA1DTYRbbk8g72F6dT) | [So Tall](https://open.spotify.com/album/6TxPLap8FaPh2t8OaKz0mE) | 2:03 | 2023-01-13 |  |
 | [Soft Breeze](https://open.spotify.com/track/10nHtLHQq4Jt6XNMJN5mvp) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [Inner City](https://open.spotify.com/album/6cvchQKkqYhGXCyiyugvqS) | 1:54 | 2023-01-13 | 2023-09-22 |
@@ -684,6 +688,7 @@
 | [Where Is Umha?](https://open.spotify.com/track/3fYnz85wqb89SKrdrElgXw) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Where Is Umha?](https://open.spotify.com/album/7kN8thNA1SucK1nT6T4fhm) | 2:43 | 2023-01-13 |  |
 | [Wherever](https://open.spotify.com/track/32R4uBcBk1Kuo1shhsM5Hd) | [Eun\-Kyung](https://open.spotify.com/artist/3jXOW1gLaZlFoMlavmMN9o) | [Wherever](https://open.spotify.com/album/1VVjBoAWzyolu6aYUwFIwB) | 2:12 | 2023-01-13 | 2023-11-17 |
 | [Who's Driving?](https://open.spotify.com/track/6ilctnbVwEWTURCfY6kCWH) | [Galva\-Nice](https://open.spotify.com/artist/1bKtP3B1PRR916WGM3Morj) | [Who's Driving?](https://open.spotify.com/album/1ftpbsY9HCoSpUOq7RVUEs) | 2:19 | 2023-10-06 |  |
+| [who's the boss?](https://open.spotify.com/track/4y1dRudyvMyqkq56Ummb3R) | [Cotton Candy Boulevard](https://open.spotify.com/artist/0y8PqsGy2nL9LqwL709086) | [who's the boss?](https://open.spotify.com/album/1rfJTW8R2u6yiyjVmVz1so) | 2:04 | 2024-01-12 |  |
 | [whoops i'm napping](https://open.spotify.com/track/5Wxany1ffEA1DxkRBvnLJ0) | [Pistachio](https://open.spotify.com/artist/1zj6sjoit7AFmmBfozJX1H) | [whoops i'm napping](https://open.spotify.com/album/7rqTIV0hWHwjxCchxWWlg6) | 2:54 | 2023-09-04 | 2023-10-06 |
 | [Windmills](https://open.spotify.com/track/2f4mTu5Y6I3wVApqhy5wbV) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Windmills](https://open.spotify.com/album/5r14wdtlT9PPWfuE34Y3Rl) | 1:58 | 2023-01-13 | 2023-09-22 |
 | [Windowsills](https://open.spotify.com/track/6flksSGb0Z9WZYXzaRIQaM) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Windowsills & Green Falls](https://open.spotify.com/album/5eAKZzEsLhsiekgFbwONAW) | 2:35 | 2023-01-13 |  |
@@ -692,6 +697,7 @@
 | [Wistful Silhouettes](https://open.spotify.com/track/5Ltgq6XMTilOXhNiSQZrVT) | [Chill Def](https://open.spotify.com/artist/596T1bfXEgZ7Rm0SVY9W41), [alt.bin.beats](https://open.spotify.com/artist/19RtbWE9QLz3K4YW19qdos) | [Wistful Silhouettes](https://open.spotify.com/album/7bnbpre7jCyEwHu1hT9ngt) | 2:16 | 2023-10-13 |  |
 | [Wonderful Things](https://open.spotify.com/track/5AwHynTdA6YsnjbPvsw6P2) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x), [Hirokee](https://open.spotify.com/artist/65Tgs3GmQLXn1Snl8Wge6b) | [Wonderful Things](https://open.spotify.com/album/23ABqlxRxBWYjaypXEF1Fn) | 2:23 | 2023-07-19 | 2023-10-06 |
 | [Woollen Potato](https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK) | [Yoga at the Disco](https://open.spotify.com/artist/4jQBn4Pe1tFPxVo3p6W7uq) | [Woollen Potato](https://open.spotify.com/album/0Hp5rOXs5sNNdgYmUVdsu2) | 2:30 | 2023-09-22 |  |
+| [Woula](https://open.spotify.com/track/6PIWM7JvAifZM8aunm73NA) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Woula](https://open.spotify.com/album/1Qt5xDPOZT8keXpZ7qRMYb) | 2:49 | 2024-01-12 |  |
 | [x\-mas ham](https://open.spotify.com/track/2GqQyRsB7IBvLpnVwI2h2i) | [Zzcenic](https://open.spotify.com/artist/0ZEozBSxUxi99LJmOE3qOL) | [x\-mas ham](https://open.spotify.com/album/70k2nvYZKzl9UXw7Gyw2Pf) | 2:05 | 2023-01-13 |  |
 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 | 2023-09-22 |  |
 | [You](https://open.spotify.com/track/3XRCQEEbMTDb6w41x2BXNn) | [Pantone](https://open.spotify.com/artist/3LgulNXWnXp7Tre4Col8RP) | [You](https://open.spotify.com/album/6RXXi4q2BVlsaM3iIEVIGj) | 2:22 | 2023-01-13 | 2023-10-20 |

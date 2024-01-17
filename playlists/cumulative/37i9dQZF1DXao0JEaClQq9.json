@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Modern heavenly sounds. Cover: Eartheater",
+  "description": "Modern heavenly sounds. Cover: Youth Lagoon",
   "name": "Ethereal",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 270875,
       "name": "5 to 8 Hours a Day (WWwaG)",
       "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
@@ -222,7 +222,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 375111,
       "name": "A Barely Lit Path",
       "url": "https://open.spotify.com/track/6LGvWHB0braCdC7D5riRCt"
@@ -410,7 +410,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-15",
+      "date_removed": null,
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
@@ -1215,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Bleed",
+        "url": "https://open.spotify.com/album/2iV95XXxTVrimsvXQ1xSP5"
+      },
+      "artists": [
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229119,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4Slq5M8UGESA29hiRrJVnX"
+    },
+    {
+      "album": {
         "name": "Bloody Knees",
         "url": "https://open.spotify.com/album/5MDXH585QZdQK1eyuXwXzn"
       },
@@ -1606,7 +1624,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 198967,
       "name": "Call For Help",
       "url": "https://open.spotify.com/track/3l5qctI4FqhfjIZzs06cbk"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 254400,
       "name": "Fire Of Mercy - yun\u00e8 pinku remix",
       "url": "https://open.spotify.com/track/6ITWROA9slWos6GjdlryE5"
@@ -3262,7 +3280,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 228600,
       "name": "Flames shards goo",
       "url": "https://open.spotify.com/track/03vUSQpYEQryhvhI4VUsqb"
@@ -3314,6 +3332,24 @@
       "duration_ms": 353021,
       "name": "foolish thinking",
       "url": "https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv"
+    },
+    {
+      "album": {
+        "name": "Football",
+        "url": "https://open.spotify.com/album/7197yCpJpW7OIgPWVXE58h"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
     },
     {
       "album": {
@@ -3422,7 +3458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 182710,
       "name": "Free",
       "url": "https://open.spotify.com/track/4y1FCH2IFEPjhCiTsR2wMm"
@@ -4182,7 +4218,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 268979,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD"
@@ -4738,7 +4774,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-09",
+      "date_removed": null,
       "duration_ms": 414466,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/7InHgiDyJ0GtvnIVslWNPK"
@@ -5546,7 +5582,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 199576,
       "name": "Love Is Complicated (The Angels Sing)",
       "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
@@ -6321,6 +6357,28 @@
     },
     {
       "album": {
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/4NZWRpoMuXaHU7csTjWdB5"
+      },
+      "artists": [
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        },
+        {
+          "name": "kai",
+          "url": "https://open.spotify.com/artist/6xHUXzrfhFgnIv86EBR3Ml"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234909,
+      "name": "Never Be Like You (feat. Kai)",
+      "url": "https://open.spotify.com/track/5WI2ltQIdwgzf1SNE76JyR"
+    },
+    {
+      "album": {
         "name": "Never Get To Fuck Any1",
         "url": "https://open.spotify.com/album/32Dk2xAvKOt7eSFvPTQX0x"
       },
@@ -6890,7 +6948,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-25",
+      "date_removed": null,
       "duration_ms": 220316,
       "name": "Paprika",
       "url": "https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3"
@@ -7644,7 +7702,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 184510,
       "name": "Ride Or Die (with Villano Antillano)",
       "url": "https://open.spotify.com/track/3dvVgBNJtYZH58rTpIQLEI"

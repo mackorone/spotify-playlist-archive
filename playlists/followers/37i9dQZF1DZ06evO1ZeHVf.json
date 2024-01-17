@@ -1,474 +1,1341 @@
 {
-  "2022-09-15": 11682,
-  "2022-09-16": 11724,
-  "2022-09-17": 11749,
-  "2022-09-18": 11791,
-  "2022-09-19": 11838,
-  "2022-09-20": 11873,
-  "2022-09-21": 11913,
-  "2022-09-22": 11958,
-  "2022-09-23": 12002,
-  "2022-09-24": 12002,
-  "2022-09-25": 12077,
-  "2022-09-26": 12134,
-  "2022-09-27": 12186,
-  "2022-09-28": 12239,
-  "2022-09-29": 12278,
-  "2022-09-30": 12315,
-  "2022-10-01": 12346,
-  "2022-10-02": 12382,
-  "2022-10-03": 12421,
-  "2022-10-04": 12458,
-  "2022-10-05": 12512,
-  "2022-10-06": 12552,
-  "2022-10-07": 12607,
-  "2022-10-08": 12649,
-  "2022-10-09": 12716,
-  "2022-10-10": 12721,
-  "2022-10-11": 12768,
-  "2022-10-12": 12799,
-  "2022-10-13": 12850,
-  "2022-10-14": 12886,
-  "2022-10-15": 12918,
-  "2022-10-16": 12969,
-  "2022-10-17": 13026,
-  "2022-10-18": 13071,
-  "2022-10-19": 13113,
-  "2022-10-20": 13159,
-  "2022-10-21": 13208,
-  "2022-10-22": 13254,
-  "2022-10-23": 13287,
-  "2022-10-24": 13337,
-  "2022-10-25": 13373,
-  "2022-10-26": 13423,
-  "2022-10-27": 13471,
-  "2022-10-28": 13505,
-  "2022-10-29": 13542,
-  "2022-10-30": 13585,
-  "2022-10-31": 13635,
-  "2022-11-01": 13673,
-  "2022-11-02": 13693,
-  "2022-11-03": 13727,
-  "2022-11-04": 13764,
-  "2022-11-05": 13815,
-  "2022-11-06": 13860,
-  "2022-11-07": 13912,
-  "2022-11-08": 13953,
-  "2022-11-09": 13994,
-  "2022-11-10": 14040,
-  "2022-11-11": 14073,
-  "2022-11-12": 14130,
-  "2022-11-13": 14170,
-  "2022-11-14": 14215,
-  "2022-11-15": 14249,
-  "2022-11-16": 14284,
-  "2022-11-17": 14325,
-  "2022-11-18": 14338,
-  "2022-11-19": 14352,
-  "2022-11-20": 14396,
-  "2022-11-21": 14450,
-  "2022-11-22": 14495,
-  "2022-11-23": 14534,
-  "2022-11-24": 14593,
-  "2022-11-25": 14653,
-  "2022-11-26": 14702,
-  "2022-11-27": 14744,
-  "2022-11-28": 14793,
-  "2022-11-29": 14822,
-  "2022-11-30": 14860,
-  "2022-12-01": 14898,
-  "2022-12-02": 14917,
-  "2022-12-03": 14970,
-  "2022-12-04": 15003,
-  "2022-12-05": 15048,
-  "2022-12-06": 15088,
-  "2022-12-07": 15128,
-  "2022-12-08": 15169,
-  "2022-12-09": 15196,
-  "2022-12-10": 15233,
-  "2022-12-11": 15273,
-  "2022-12-12": 15305,
-  "2022-12-13": 15338,
-  "2022-12-14": 15382,
-  "2022-12-15": 15421,
-  "2022-12-16": 15453,
-  "2022-12-17": 15484,
-  "2022-12-18": 15512,
-  "2022-12-19": 15549,
-  "2022-12-20": 15608,
-  "2022-12-21": 15608,
-  "2022-12-22": 15634,
-  "2022-12-24": 15704,
-  "2022-12-25": 15733,
-  "2022-12-26": 15757,
-  "2022-12-27": 15793,
-  "2022-12-28": 15827,
-  "2022-12-29": 15853,
-  "2022-12-30": 15899,
-  "2022-12-31": 15942,
-  "2023-01-01": 15995,
-  "2023-01-02": 16045,
-  "2023-01-03": 16105,
-  "2023-01-04": 16141,
-  "2023-01-05": 16180,
-  "2023-01-06": 16227,
-  "2023-01-07": 16300,
-  "2023-01-08": 16305,
-  "2023-01-09": 16370,
-  "2023-01-10": 16419,
-  "2023-01-11": 16456,
-  "2023-01-12": 16503,
-  "2023-01-13": 16548,
-  "2023-01-14": 16634,
-  "2023-01-15": 16644,
-  "2023-01-16": 16712,
-  "2023-01-17": 16758,
-  "2023-01-18": 16799,
-  "2023-01-19": 16844,
-  "2023-01-20": 16881,
-  "2023-01-21": 16935,
-  "2023-01-22": 16973,
-  "2023-01-23": 17028,
-  "2023-01-24": 17090,
-  "2023-01-25": 17137,
-  "2023-01-26": 17192,
-  "2023-01-27": 17237,
-  "2023-01-28": 17277,
-  "2023-01-29": 17320,
-  "2023-01-30": 17377,
-  "2023-01-31": 17377,
-  "2023-02-01": 17466,
-  "2023-02-02": 17513,
-  "2023-02-03": 17574,
-  "2023-02-04": 17621,
-  "2023-02-05": 17668,
-  "2023-02-06": 17712,
-  "2023-02-07": 17762,
-  "2023-02-08": 17854,
-  "2023-02-09": 17854,
-  "2023-02-10": 17906,
-  "2023-02-11": 17952,
-  "2023-02-12": 18050,
-  "2023-02-13": 18083,
-  "2023-02-14": 18083,
-  "2023-02-15": 18117,
-  "2023-02-16": 18157,
-  "2023-02-17": 18223,
-  "2023-02-18": 18306,
-  "2023-02-19": 18314,
-  "2023-02-20": 18347,
-  "2023-02-21": 18385,
-  "2023-02-22": 18433,
-  "2023-02-23": 18469,
-  "2023-02-24": 18533,
-  "2023-02-25": 18608,
-  "2023-02-26": 18652,
-  "2023-02-27": 18756,
-  "2023-02-28": 18756,
-  "2023-03-01": 18800,
-  "2023-03-02": 18849,
-  "2023-03-03": 18894,
-  "2023-03-04": 18936,
-  "2023-03-05": 19027,
-  "2023-03-06": 19027,
-  "2023-03-07": 19065,
-  "2023-03-08": 19110,
-  "2023-03-09": 19157,
-  "2023-03-10": 19200,
-  "2023-03-11": 19239,
-  "2023-03-12": 19274,
-  "2023-03-13": 19310,
-  "2023-03-14": 19364,
-  "2023-03-15": 19386,
-  "2023-03-16": 19386,
-  "2023-03-17": 19386,
-  "2023-03-18": 19502,
-  "2023-03-19": 19502,
-  "2023-03-20": 19587,
-  "2023-03-21": 19624,
-  "2023-03-22": 19663,
-  "2023-03-23": 19710,
-  "2023-03-24": 19710,
-  "2023-03-25": 19781,
-  "2023-03-26": 19817,
-  "2023-03-27": 19872,
-  "2023-03-28": 19898,
-  "2023-03-29": 19934,
-  "2023-03-30": 20001,
-  "2023-03-31": 20001,
-  "2023-04-01": 20034,
-  "2023-04-02": 20061,
-  "2023-04-03": 20105,
-  "2023-04-04": 20133,
-  "2023-04-05": 20154,
-  "2023-04-06": 20188,
-  "2023-04-07": 20231,
-  "2023-04-09": 20325,
-  "2023-04-10": 20373,
-  "2023-04-11": 20475,
-  "2023-04-12": 20475,
-  "2023-04-13": 20512,
-  "2023-04-14": 20544,
-  "2023-04-15": 20592,
-  "2023-04-16": 20634,
-  "2023-04-17": 20698,
-  "2023-04-18": 20748,
-  "2023-04-19": 20785,
-  "2023-04-20": 20828,
-  "2023-04-21": 20870,
-  "2023-04-22": 20917,
-  "2023-04-23": 20946,
-  "2023-04-24": 20993,
-  "2023-04-25": 21028,
-  "2023-04-26": 21078,
-  "2023-04-27": 21102,
-  "2023-04-28": 21131,
-  "2023-04-29": 21179,
-  "2023-04-30": 21233,
-  "2023-05-01": 21271,
-  "2023-05-02": 21307,
-  "2023-05-03": 21347,
-  "2023-05-04": 21388,
-  "2023-05-05": 21445,
-  "2023-05-06": 21483,
-  "2023-05-07": 21524,
-  "2023-05-08": 21567,
-  "2023-05-09": 21613,
-  "2023-05-10": 21649,
-  "2023-05-11": 21697,
-  "2023-05-12": 21738,
-  "2023-05-13": 21775,
-  "2023-05-14": 21804,
-  "2023-05-15": 21834,
-  "2023-05-16": 21881,
-  "2023-05-17": 21909,
-  "2023-05-18": 21937,
-  "2023-05-19": 21965,
-  "2023-05-20": 22038,
-  "2023-05-21": 22038,
-  "2023-05-22": 22038,
-  "2023-05-23": 22129,
-  "2023-05-24": 22199,
-  "2023-05-25": 22208,
-  "2023-05-26": 22241,
-  "2023-05-27": 22263,
-  "2023-05-28": 22291,
-  "2023-05-29": 22291,
-  "2023-05-30": 22367,
-  "2023-05-31": 22401,
-  "2023-06-01": 22428,
-  "2023-06-02": 22454,
-  "2023-06-03": 22486,
-  "2023-06-04": 22513,
-  "2023-06-05": 22562,
-  "2023-06-06": 22599,
-  "2023-06-07": 22624,
-  "2023-06-08": 22661,
-  "2023-06-09": 22704,
-  "2023-06-10": 22735,
-  "2023-06-11": 22774,
-  "2023-06-12": 22822,
-  "2023-06-13": 22858,
-  "2023-06-14": 22896,
-  "2023-06-15": 22936,
-  "2023-06-16": 22974,
-  "2023-06-17": 22996,
-  "2023-06-18": 23026,
-  "2023-06-19": 23061,
-  "2023-06-20": 23089,
-  "2023-06-21": 23122,
-  "2023-06-22": 23143,
-  "2023-06-23": 23178,
-  "2023-06-24": 23204,
-  "2023-06-25": 23243,
-  "2023-06-26": 23277,
-  "2023-06-27": 23311,
-  "2023-06-28": 23347,
-  "2023-06-29": 23387,
-  "2023-06-30": 23405,
-  "2023-07-01": 23464,
-  "2023-07-02": 23464,
-  "2023-07-03": 23487,
-  "2023-07-04": 23521,
-  "2023-07-05": 23554,
-  "2023-07-06": 23615,
-  "2023-07-07": 23615,
-  "2023-07-08": 23643,
-  "2023-07-09": 23670,
-  "2023-07-10": 23701,
-  "2023-07-11": 23722,
-  "2023-07-12": 23757,
-  "2023-07-13": 23787,
-  "2023-07-14": 23811,
-  "2023-07-15": 23836,
-  "2023-07-16": 23868,
-  "2023-07-17": 23916,
-  "2023-07-18": 23952,
-  "2023-07-19": 23987,
-  "2023-07-20": 24013,
-  "2023-07-21": 24061,
-  "2023-07-22": 24107,
-  "2023-07-23": 24162,
-  "2023-07-24": 24215,
-  "2023-07-25": 24257,
-  "2023-07-26": 24295,
-  "2023-07-27": 24334,
-  "2023-07-28": 24379,
-  "2023-07-29": 24415,
-  "2023-07-30": 24453,
-  "2023-07-31": 24494,
-  "2023-08-01": 24530,
-  "2023-08-02": 24568,
-  "2023-08-03": 24611,
-  "2023-08-04": 24642,
-  "2023-08-05": 24670,
-  "2023-08-06": 24748,
-  "2023-08-07": 24748,
-  "2023-08-08": 24790,
-  "2023-08-09": 24817,
-  "2023-08-10": 24846,
-  "2023-08-11": 24878,
-  "2023-08-12": 24878,
-  "2023-08-13": 24878,
-  "2023-08-14": 24986,
-  "2023-08-15": 24986,
-  "2023-08-16": 24986,
-  "2023-08-17": 25101,
-  "2023-08-18": 25101,
-  "2023-08-19": 25101,
-  "2023-08-20": 25224,
-  "2023-08-21": 25224,
-  "2023-08-22": 25306,
-  "2023-08-23": 25306,
-  "2023-08-24": 25306,
-  "2023-08-25": 25306,
-  "2023-08-26": 25446,
-  "2023-08-27": 25446,
-  "2023-08-28": 25547,
-  "2023-08-29": 25547,
-  "2023-08-30": 25547,
-  "2023-08-31": 25650,
-  "2023-09-01": 25700,
-  "2023-09-02": 25700,
-  "2023-09-03": 25759,
-  "2023-09-04": 25759,
-  "2023-09-05": 25759,
-  "2023-09-06": 25854,
-  "2023-09-07": 25854,
-  "2023-09-08": 25854,
-  "2023-09-09": 25854,
-  "2023-09-10": 26018,
-  "2023-09-11": 26018,
-  "2023-09-12": 26018,
-  "2023-09-13": 26111,
-  "2023-09-14": 26111,
-  "2023-09-15": 26111,
-  "2023-09-16": 26210,
-  "2023-09-17": 26210,
-  "2023-09-18": 26210,
-  "2023-09-19": 26319,
-  "2023-09-20": 26319,
-  "2023-09-21": 26319,
-  "2023-09-22": 26396,
-  "2023-09-23": 26396,
-  "2023-09-24": 26396,
-  "2023-09-25": 26396,
-  "2023-09-26": 26539,
-  "2023-09-27": 26539,
-  "2023-09-28": 26539,
-  "2023-09-29": 26539,
-  "2023-09-30": 26539,
-  "2023-10-01": 26539,
-  "2023-10-02": 26730,
-  "2023-10-03": 26730,
-  "2023-10-04": 26730,
-  "2023-10-05": 26808,
-  "2023-10-06": 26808,
-  "2023-10-07": 26808,
-  "2023-10-08": 26808,
-  "2023-10-09": 26808,
-  "2023-10-10": 26808,
-  "2023-10-11": 27006,
-  "2023-10-12": 27006,
-  "2023-10-13": 27006,
-  "2023-10-14": 27006,
-  "2023-10-15": 27006,
-  "2023-10-16": 27006,
-  "2023-10-17": 27006,
-  "2023-10-18": 27006,
-  "2023-10-19": 27006,
-  "2023-10-20": 27006,
-  "2023-10-21": 27006,
-  "2023-10-22": 27006,
-  "2023-10-23": 27006,
-  "2023-10-24": 27006,
-  "2023-10-25": 27006,
-  "2023-10-26": 27006,
-  "2023-10-27": 27006,
-  "2023-10-28": 27006,
-  "2023-10-29": 27006,
-  "2023-10-30": 27006,
-  "2023-10-31": 27006,
-  "2023-11-01": 27006,
-  "2023-11-02": 27006,
-  "2023-11-03": 27006,
-  "2023-11-04": 27006,
-  "2023-11-05": 27006,
-  "2023-11-06": 27006,
-  "2023-11-07": 27006,
-  "2023-11-08": 27006,
-  "2023-11-09": 27006,
-  "2023-11-10": 27006,
-  "2023-11-11": 28107,
-  "2023-11-12": 28107,
-  "2023-11-13": 28107,
-  "2023-11-14": 28107,
-  "2023-11-15": 28107,
-  "2023-11-16": 28107,
-  "2023-11-17": 28107,
-  "2023-11-18": 28107,
-  "2023-11-19": 28107,
-  "2023-11-20": 28107,
-  "2023-11-21": 28107,
-  "2023-11-22": 28107,
-  "2023-11-23": 28107,
-  "2023-11-24": 28107,
-  "2023-11-25": 28107,
-  "2023-11-26": 28107,
-  "2023-11-27": 28107,
-  "2023-11-28": 28107,
-  "2023-11-29": 28107,
-  "2023-11-30": 28107,
-  "2023-12-01": 28107,
-  "2023-12-02": 28107,
-  "2023-12-03": 28107,
-  "2023-12-04": 28107,
-  "2023-12-05": 28107,
-  "2023-12-06": 28107,
-  "2023-12-07": 28107,
-  "2023-12-08": 28107,
-  "2023-12-09": 28107,
-  "2023-12-10": 28107,
-  "2023-12-11": 28107,
-  "2023-12-12": 28107,
-  "2023-12-13": 28107,
-  "2023-12-14": 29093,
-  "2023-12-15": 29107,
-  "2023-12-16": 29127,
-  "2023-12-17": 29146,
-  "2023-12-18": 29166,
-  "2023-12-19": 29187,
-  "2023-12-20": 29210,
-  "2023-12-21": 29240,
-  "2023-12-22": 29259,
-  "2023-12-23": 29283,
-  "2023-12-24": 29298,
-  "2023-12-25": 29322,
-  "2023-12-26": 29346,
-  "2023-12-27": 29368,
-  "2023-12-30": 29442,
-  "2023-12-31": 29464,
-  "2024-01-01": 29484,
-  "2024-01-02": 29515,
-  "2024-01-03": 29542
+  "2024-01-17": 29920,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
+  "name": "This Is CeCe Winans",
+  "tracks": [
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "A Heart Like Yours",
+      "url": "https://open.spotify.com/track/75Zi4UtjmA481WbpT0nXjA"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332973,
+      "name": "Alabaster Box",
+      "url": "https://open.spotify.com/track/7FLPCH6fx9gJgrRJBoo5U5"
+    },
+    {
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "Alone In The Presence",
+      "url": "https://open.spotify.com/track/5z4OzC03DQ1B8mzGVWjE71"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+    },
+    {
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271453,
+      "name": "Bless His Holy Name",
+      "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
+    },
+    {
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
+    },
+    {
+      "album": {
+        "name": "I Go To The Rock: The Gospel Music Of Whitney Houston",
+        "url": "https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334920,
+      "name": "Bridge Over Troubled Water (with CeCe Winans) - Live VH1 Honors - June 22, 1995",
+      "url": "https://open.spotify.com/track/767NCpvhtPBaQKsHWEGbHh"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288400,
+      "name": "Come Fill My Heart",
+      "url": "https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282426,
+      "name": "Comforter",
+      "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
+    },
+    {
+      "album": {
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266786,
+      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+    },
+    {
+      "album": {
+        "name": "Everlasting Love",
+        "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 279706,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/1v7IsaTlOwnPfHf8DVIr5u"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51466,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/74uiz7dOqQb22ACH4INFtR"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
+      "album": {
+        "name": "My Savior",
+        "url": "https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/17AeeMY4OZlsqIUUlOlfP4"
+    },
+    {
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Delores \"Mom\" Winans",
+          "url": "https://open.spotify.com/artist/5UMZOxh7uusc8idFcHNe7T"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300666,
+      "name": "Great Is Thy Faithfulness",
+      "url": "https://open.spotify.com/track/26jEK23GYzHoLGIrZOyIDH"
+    },
+    {
+      "album": {
+        "name": "For Always: The Best Of CeCe Winans",
+        "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 250266,
+      "name": "Hallelujah Praise (The Highest Praise)",
+      "url": "https://open.spotify.com/track/4YTCoAFZ03GBHCdoZh0KGl"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
+    },
+    {
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206213,
+      "name": "He's Concerned",
+      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
+    },
+    {
+      "album": {
+        "name": "Let Them Fall in Love",
+        "url": "https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 295259,
+      "name": "He's Never Failed Me Yet",
+      "url": "https://open.spotify.com/track/6Bp8h3BcbzpiZaETIp6J9W"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
+    },
+    {
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "His Strength Is Perfect",
+      "url": "https://open.spotify.com/track/3X5P8ZCyytPL91vLfI5dbe"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 583624,
+      "name": "Holy Forever",
+      "url": "https://open.spotify.com/track/45UENol7XHzhtasaMlCXVf"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3zcJQVAiPUCcOcUcIg62lY"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 307460,
+      "name": "Holy Forever - Single Version",
+      "url": "https://open.spotify.com/track/0D2Yn5mrMA0alPWlRwiaR1"
+    },
+    {
+      "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 307460,
+      "name": "Holy Forever - Single Version",
+      "url": "https://open.spotify.com/track/7EhoE7vi7slUIsMKrfy1yB"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335200,
+      "name": "Holy Spirit, Come Fill This Place",
+      "url": "https://open.spotify.com/track/1jwTbXQa3GJWgBCNxxuL0g"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327215,
+      "name": "How Great Is Our God/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 377026,
+      "name": "How Great Thou Art!",
+      "url": "https://open.spotify.com/track/0rJhS2Mw9ozyCnxzducYi4"
+    },
+    {
+      "album": {
+        "name": "Everlasting Love",
+        "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259293,
+      "name": "I Am",
+      "url": "https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA"
+    },
+    {
+      "album": {
+        "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65426,
+      "name": "I Don't Know Why - Live",
+      "url": "https://open.spotify.com/track/2l8cNakFazSIBJC49ztGpR"
+    },
+    {
+      "album": {
+        "name": "Purified",
+        "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 299333,
+      "name": "I Promise (Wedding Song)",
+      "url": "https://open.spotify.com/track/3pTA6tD4Xv25EJrAeCjBp6"
+    },
+    {
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+    },
+    {
+      "album": {
+        "name": "Believe For It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "I've Got Joy",
+      "url": "https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288866,
+      "name": "It Wasn't Easy",
+      "url": "https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 241106,
+      "name": "It's Gonna Get Better",
+      "url": "https://open.spotify.com/track/1n3itjgPe6tuPf8hbr1jsn"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294493,
+      "name": "Jesus, You're Beautiful",
+      "url": "https://open.spotify.com/track/2hURR2OEp83kltTqHXaB6G"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 212053,
+      "name": "Just To Be Close To You - Live",
+      "url": "https://open.spotify.com/track/4YUK1HEfd7DqcCLP561VjF"
+    },
+    {
+      "album": {
+        "name": "Awaken: The Surrounded Experience",
+        "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344413,
+      "name": "King of Glory",
+      "url": "https://open.spotify.com/track/070zy0czmO8UahOkPlXtIX"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635360,
+      "name": "King of Glory - Live",
+      "url": "https://open.spotify.com/track/5JtEowhVthCH9oNtnjZl93"
+    },
+    {
+      "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264893,
+      "name": "King Of Kings (He's A Wonder)",
+      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228733,
+      "name": "Looking Back At You",
+      "url": "https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300733,
+      "name": "Mercy Said No",
+      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
+    },
+    {
+      "album": {
+        "name": "For Always: The Best Of CeCe Winans",
+        "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 289613,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2LdxJmCZtEnNmO0lYUdUgu"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207400,
+      "name": "More Than What I Wanted",
+      "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
+    },
+    {
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+    },
+    {
+      "album": {
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 522973,
+      "name": "No Greater - Live",
+      "url": "https://open.spotify.com/track/5PcQV7HNDr2c1mpSoRirgt"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260200,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111920,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp"
+    },
+    {
+      "album": {
+        "name": "For Always: The Best Of CeCe Winans",
+        "url": "https://open.spotify.com/album/5iQZGEROiqR4wlhHhCC6hv"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/0Q04tlIgmRYHgvKNceIsAn"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378173,
+      "name": "Shepherd - Live",
+      "url": "https://open.spotify.com/track/6rhMaJOXHqmVZn1gsQ0dNA"
+    },
+    {
+      "album": {
+        "name": "Songs from the Neighborhood: The Music of Mister Rogers",
+        "url": "https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        },
+        {
+          "name": "Maureen McGovern",
+          "url": "https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV"
+        },
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        },
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        },
+        {
+          "name": "Toni Rose",
+          "url": "https://open.spotify.com/artist/1NqrEarOHLaEmhw2UBUc69"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 194226,
+      "name": "Thank You for Being You",
+      "url": "https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h"
+    },
+    {
+      "album": {
+        "name": "Gaither Homecoming Classics Vol.1",
+        "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118533,
+      "name": "The Blood Will Never Lose Its Power - Live",
+      "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
+    },
+    {
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 287906,
+      "name": "Throne Room",
+      "url": "https://open.spotify.com/track/6qZe7re42jfoHPEU916WgS"
+    },
+    {
+      "album": {
+        "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
+        "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
+      },
+      "artists": [
+        {
+          "name": "Gaither",
+          "url": "https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY"
+        },
+        {
+          "name": "Andrae Crouch",
+          "url": "https://open.spotify.com/artist/3pxLSxg8klHu1L9d93cpq7"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243373,
+      "name": "Through It All - Live",
+      "url": "https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320110,
+      "name": "Waging War",
+      "url": "https://open.spotify.com/track/1TKNkFNRWL5YcefJeIkfKz"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297760,
+      "name": "We Welcome You (Holy Father)",
+      "url": "https://open.spotify.com/track/5ZbYTCik99Yqk2CZRI6Xqk"
+    },
+    {
+      "album": {
+        "name": "Everlasting Love",
+        "url": "https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 258252,
+      "name": "Well, Alright",
+      "url": "https://open.spotify.com/track/22zZfNtNFd46tAAC4rsyRa"
+    },
+    {
+      "album": {
+        "name": "What Are We Waiting For?",
+        "url": "https://open.spotify.com/album/66VDNidp38ftTSZG2rGKx8"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196038,
+      "name": "What Are We Waiting For?",
+      "url": "https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX"
+    },
+    {
+      "album": {
+        "name": "We All Are One (Live In Detroit)",
+        "url": "https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+        },
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "When You Love (feat. CeCe Winans, Yolanda Adams & Mary Mary)",
+      "url": "https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg"
+    },
+    {
+      "album": {
+        "name": "Let Them Fall in Love",
+        "url": "https://open.spotify.com/album/38jktl2c8ZRqyKDV25XgNt"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206164,
+      "name": "Why Me",
+      "url": "https://open.spotify.com/track/55lij8lwwJko3565p77R74"
+    },
+    {
+      "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-28",
+      "duration_ms": 322200,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1fEHKfIhgVMb9PJCOr9e97"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329440,
+      "name": "Worthy Of It All - Live",
+      "url": "https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4"
+    },
+    {
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 329440,
+      "name": "Worthy Of It All - Live",
+      "url": "https://open.spotify.com/track/6AcReG4UWPWnNDhIYMTZV2"
+    },
+    {
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363133,
+      "name": "You Are Loved",
+      "url": "https://open.spotify.com/track/5QnvVn3CFujK70HOLYFiju"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZeHVf"
 }

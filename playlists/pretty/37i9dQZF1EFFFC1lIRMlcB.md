@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5lVAE3z1LZ69DXE3Hd6MpL">Lucas Kastrup</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245 likes - 47 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 47 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 15 | [Etiópia Sagrada](https://open.spotify.com/track/58LQob3LvS84O03sloPqzY) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:47 |
 | 16 | [Pra Falar de Jah](https://open.spotify.com/track/66ZIPA8RrdV6y6GezWGDdR) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:28 |
 | 17 | [Martim de Sá](https://open.spotify.com/track/5FASTworUcU7zslxYvJRWQ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo), [3030](https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5) | [Toque de Amor](https://open.spotify.com/album/2QTsaPE1NTuSGiKYgLW4vU) | 3:57 |
-| 18 | [Chances](https://open.spotify.com/track/7wCmZoT43houmTEBitP5bJ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:52 |
-| 19 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 |
-| 20 | [Música de Jah](https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:14 |
+| 18 | [Música de Jah](https://open.spotify.com/track/1BCKW27GHBzcNxmNOOXcKL) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Dia Após Dia Lutando \(Deluxe Version\)](https://open.spotify.com/album/6YFmSe0LapWyAyyNJYLEln) | 6:14 |
+| 19 | [Chances](https://open.spotify.com/track/7wCmZoT43houmTEBitP5bJ) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Essa É a Nossa Música](https://open.spotify.com/album/2DHuVsqUAms5Mxa0qwtoVc) | 3:52 |
+| 20 | [Profeta Rei](https://open.spotify.com/track/301wtMedruaqRQELl0MKa2) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 8:51 |
 | 21 | [Genesis](https://open.spotify.com/track/1MwEVNDORoVWJDg6kRqWF3) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Reggae a Vida Com Amor](https://open.spotify.com/album/1kN0AUafpsAzU1C49361bA) | 3:47 |
 | 22 | [Introdução \- Ao Vivo](https://open.spotify.com/track/1YXw5eHJ7Q3VAYmZuWTjmv) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Juntos Somos Fortes \(Ao Vivo\)](https://open.spotify.com/album/7ECKCoQYnQP3Rfqq9LQdsi) | 3:12 |
 | 23 | [Novo Governo](https://open.spotify.com/track/2wZmUUAoCdLcr9SgMZ3RYF) | [Ponto De Equilíbrio](https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo) | [Novo Governo](https://open.spotify.com/album/7ezdv3qMjcZOXIjrLDvKHG) | 3:05 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFFC1lIRMlcB.md) - [plain]
 | 46 | [Inesperado](https://open.spotify.com/track/0eupIHRJZCM2EtZVEIjHil) | [Lucas Kastrup](https://open.spotify.com/artist/7ItyZEmbOX87GJTDlkEqDO), [Ju em família](https://open.spotify.com/artist/6pg8jD6EtfSM5XbIsPqqKq) | [Inesperado](https://open.spotify.com/album/7fjNn0pCODT14KoguYaxyN) | 3:25 |
 | 47 | [Encontro Com Jah](https://open.spotify.com/track/2Y7sPLjrzRuhH9KZVN7TWP) | [Irmãos de Fé](https://open.spotify.com/artist/1aJjD4Hp0uNpbYujxCkeHu) | [Livremente](https://open.spotify.com/album/1oqVG1xM2CRF6YwwW23hXa) | 4:05 |
 
-Snapshot ID: `Mjg0MDQxMzAsMDAwMDAwMDAyMGQ5ZWNkNmQ5MTBhNGRmZjkyYmJkM2UxZWVjZmM5ZA==`
+Snapshot ID: `Mjg0MjQyOTAsMDAwMDAwMDAxY2JhMmYwOWM3NDgyZWFmYjRmYmI5ZDhmZmQ2YWU3Mg==`

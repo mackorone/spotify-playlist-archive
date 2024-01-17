@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "The finest set of Telugu music from the past 10 years. \nCover : Ala Vaikunthapurramuloo",
+  "description": "The finest set of Telugu music from the past 10 years. \nCover : Hi Nanna",
   "name": "Tollywood Pearls",
   "tracks": [
     {
@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Ammaadi (From \"Hi Nanna\")",
+        "url": "https://open.spotify.com/album/0wSKxp1N4ux0vbWGFx7Fhs"
+      },
+      "artists": [
+        {
+          "name": "Shakthisree Gopalan",
+          "url": "https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP"
+        },
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219018,
+      "name": "Ammaadi (From \"Hi Nanna\")",
+      "url": "https://open.spotify.com/track/3bPDmXZO6aMcH3h8bkTAdN"
+    },
+    {
+      "album": {
         "name": "Solo Brathuke So Better (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7awYSEyiYQKxMwz6jBumue"
       },
@@ -162,7 +188,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 239372,
       "name": "Andamaina Lokam",
       "url": "https://open.spotify.com/track/2333RV2lqw4JGTd2TSgIQ5"
@@ -432,7 +458,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 259096,
       "name": "Bhale Bhale Banjara",
       "url": "https://open.spotify.com/track/1GP0KRgqPjkzG9SGuYZKZA"
@@ -2340,7 +2366,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 294947,
       "name": "Kanulanu Thaake",
       "url": "https://open.spotify.com/track/4IoL5eSdPTk44UjQf0fk4m"

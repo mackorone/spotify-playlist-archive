@@ -1,291 +1,729 @@
 {
-  "2023-03-18": 107,
-  "2023-03-19": 107,
-  "2023-03-20": 108,
-  "2023-03-21": 108,
-  "2023-03-22": 108,
-  "2023-03-23": 108,
-  "2023-03-24": 108,
-  "2023-03-25": 108,
-  "2023-03-26": 108,
-  "2023-03-27": 108,
-  "2023-03-28": 108,
-  "2023-03-29": 108,
-  "2023-03-30": 108,
-  "2023-03-31": 108,
-  "2023-04-01": 108,
-  "2023-04-02": 108,
-  "2023-04-03": 108,
-  "2023-04-04": 108,
-  "2023-04-05": 108,
-  "2023-04-06": 108,
-  "2023-04-07": 108,
-  "2023-04-09": 108,
-  "2023-04-10": 108,
-  "2023-04-11": 108,
-  "2023-04-12": 108,
-  "2023-04-13": 108,
-  "2023-04-14": 108,
-  "2023-04-15": 108,
-  "2023-04-16": 108,
-  "2023-04-17": 108,
-  "2023-04-18": 108,
-  "2023-04-19": 108,
-  "2023-04-20": 108,
-  "2023-04-21": 109,
-  "2023-04-22": 110,
-  "2023-04-23": 110,
-  "2023-04-24": 110,
-  "2023-04-25": 110,
-  "2023-04-26": 110,
-  "2023-04-27": 110,
-  "2023-04-28": 110,
-  "2023-04-29": 110,
-  "2023-04-30": 111,
-  "2023-05-01": 111,
-  "2023-05-02": 112,
-  "2023-05-03": 112,
-  "2023-05-04": 112,
-  "2023-05-05": 112,
-  "2023-05-06": 112,
-  "2023-05-07": 112,
-  "2023-05-08": 112,
-  "2023-05-09": 112,
-  "2023-05-10": 112,
-  "2023-05-11": 112,
-  "2023-05-12": 112,
-  "2023-05-13": 112,
-  "2023-05-14": 112,
-  "2023-05-15": 112,
-  "2023-05-16": 112,
-  "2023-05-17": 112,
-  "2023-05-18": 112,
-  "2023-05-19": 112,
-  "2023-05-20": 113,
-  "2023-05-21": 113,
-  "2023-05-22": 113,
-  "2023-05-23": 113,
-  "2023-05-24": 113,
-  "2023-05-25": 113,
-  "2023-05-26": 114,
-  "2023-05-27": 114,
-  "2023-05-28": 114,
-  "2023-05-29": 114,
-  "2023-05-30": 114,
-  "2023-05-31": 114,
-  "2023-06-01": 114,
-  "2023-06-02": 114,
-  "2023-06-03": 114,
-  "2023-06-04": 115,
-  "2023-06-05": 115,
-  "2023-06-06": 115,
-  "2023-06-07": 116,
-  "2023-06-08": 116,
-  "2023-06-09": 116,
-  "2023-06-10": 117,
-  "2023-06-11": 117,
-  "2023-06-12": 117,
-  "2023-06-13": 117,
-  "2023-06-14": 117,
-  "2023-06-15": 118,
-  "2023-06-16": 119,
-  "2023-06-17": 119,
-  "2023-06-18": 119,
-  "2023-06-19": 118,
-  "2023-06-20": 118,
-  "2023-06-21": 120,
-  "2023-06-22": 120,
-  "2023-06-23": 120,
-  "2023-06-24": 120,
-  "2023-06-25": 120,
-  "2023-06-26": 120,
-  "2023-06-27": 121,
-  "2023-06-28": 121,
-  "2023-06-29": 121,
-  "2023-06-30": 121,
-  "2023-07-01": 121,
-  "2023-07-02": 121,
-  "2023-07-03": 122,
-  "2023-07-04": 122,
-  "2023-07-05": 122,
-  "2023-07-06": 122,
-  "2023-07-07": 122,
-  "2023-07-08": 122,
-  "2023-07-09": 122,
-  "2023-07-10": 122,
-  "2023-07-11": 122,
-  "2023-07-12": 122,
-  "2023-07-13": 122,
-  "2023-07-14": 122,
-  "2023-07-15": 122,
-  "2023-07-16": 122,
-  "2023-07-17": 123,
-  "2023-07-18": 123,
-  "2023-07-19": 123,
-  "2023-07-20": 123,
-  "2023-07-21": 123,
-  "2023-07-22": 123,
-  "2023-07-23": 123,
-  "2023-07-24": 122,
-  "2023-07-25": 122,
-  "2023-07-26": 122,
-  "2023-07-27": 122,
-  "2023-07-28": 122,
-  "2023-07-29": 124,
-  "2023-07-30": 124,
-  "2023-07-31": 124,
-  "2023-08-01": 124,
-  "2023-08-02": 124,
-  "2023-08-03": 124,
-  "2023-08-04": 124,
-  "2023-08-05": 124,
-  "2023-08-06": 124,
-  "2023-08-07": 124,
-  "2023-08-08": 124,
-  "2023-08-09": 125,
-  "2023-08-10": 126,
-  "2023-08-11": 126,
-  "2023-08-12": 126,
-  "2023-08-13": 126,
-  "2023-08-14": 126,
-  "2023-08-15": 126,
-  "2023-08-16": 126,
-  "2023-08-17": 126,
-  "2023-08-18": 126,
-  "2023-08-19": 126,
-  "2023-08-20": 128,
-  "2023-08-21": 128,
-  "2023-08-22": 128,
-  "2023-08-23": 128,
-  "2023-08-24": 128,
-  "2023-08-25": 128,
-  "2023-08-26": 128,
-  "2023-08-27": 128,
-  "2023-08-28": 128,
-  "2023-08-29": 128,
-  "2023-08-30": 128,
-  "2023-08-31": 128,
-  "2023-09-01": 129,
-  "2023-09-02": 129,
-  "2023-09-03": 129,
-  "2023-09-04": 129,
-  "2023-09-05": 129,
-  "2023-09-06": 129,
-  "2023-09-07": 129,
-  "2023-09-08": 129,
-  "2023-09-09": 129,
-  "2023-09-10": 129,
-  "2023-09-11": 129,
-  "2023-09-12": 129,
-  "2023-09-13": 129,
-  "2023-09-14": 129,
-  "2023-09-15": 129,
-  "2023-09-16": 129,
-  "2023-09-17": 129,
-  "2023-09-18": 129,
-  "2023-09-19": 129,
-  "2023-09-20": 129,
-  "2023-09-21": 129,
-  "2023-09-22": 129,
-  "2023-09-23": 129,
-  "2023-09-24": 129,
-  "2023-09-25": 129,
-  "2023-09-26": 129,
-  "2023-09-27": 129,
-  "2023-09-28": 129,
-  "2023-09-29": 129,
-  "2023-09-30": 129,
-  "2023-10-01": 129,
-  "2023-10-02": 129,
-  "2023-10-03": 129,
-  "2023-10-04": 129,
-  "2023-10-05": 129,
-  "2023-10-06": 129,
-  "2023-10-07": 129,
-  "2023-10-08": 129,
-  "2023-10-09": 129,
-  "2023-10-10": 129,
-  "2023-10-11": 129,
-  "2023-10-12": 129,
-  "2023-10-13": 129,
-  "2023-10-14": 129,
-  "2023-10-15": 129,
-  "2023-10-16": 129,
-  "2023-10-17": 129,
-  "2023-10-18": 129,
-  "2023-10-19": 129,
-  "2023-10-20": 129,
-  "2023-10-21": 129,
-  "2023-10-22": 129,
-  "2023-10-23": 129,
-  "2023-10-24": 129,
-  "2023-10-25": 129,
-  "2023-10-26": 129,
-  "2023-10-27": 129,
-  "2023-10-28": 129,
-  "2023-10-29": 129,
-  "2023-10-30": 129,
-  "2023-10-31": 129,
-  "2023-11-01": 129,
-  "2023-11-02": 129,
-  "2023-11-03": 129,
-  "2023-11-04": 129,
-  "2023-11-05": 129,
-  "2023-11-06": 129,
-  "2023-11-07": 129,
-  "2023-11-08": 129,
-  "2023-11-09": 129,
-  "2023-11-10": 129,
-  "2023-11-11": 129,
-  "2023-11-12": 129,
-  "2023-11-13": 129,
-  "2023-11-14": 129,
-  "2023-11-15": 129,
-  "2023-11-16": 129,
-  "2023-11-17": 129,
-  "2023-11-18": 129,
-  "2023-11-19": 129,
-  "2023-11-20": 129,
-  "2023-11-21": 129,
-  "2023-11-22": 129,
-  "2023-11-23": 129,
-  "2023-11-24": 129,
-  "2023-11-25": 129,
-  "2023-11-26": 129,
-  "2023-11-27": 129,
-  "2023-11-28": 129,
-  "2023-11-29": 129,
-  "2023-11-30": 129,
-  "2023-12-01": 129,
-  "2023-12-02": 129,
-  "2023-12-03": 129,
-  "2023-12-04": 129,
-  "2023-12-05": 129,
-  "2023-12-06": 129,
-  "2023-12-07": 129,
-  "2023-12-08": 129,
-  "2023-12-09": 129,
-  "2023-12-10": 129,
-  "2023-12-11": 129,
-  "2023-12-12": 129,
-  "2023-12-13": 129,
-  "2023-12-14": 142,
-  "2023-12-15": 142,
-  "2023-12-16": 143,
-  "2023-12-17": 143,
-  "2023-12-18": 144,
-  "2023-12-19": 144,
-  "2023-12-20": 144,
-  "2023-12-21": 144,
-  "2023-12-22": 144,
-  "2023-12-23": 144,
-  "2023-12-24": 144,
-  "2023-12-25": 144,
-  "2023-12-26": 144,
-  "2023-12-27": 144,
-  "2023-12-30": 145,
-  "2023-12-31": 145,
-  "2024-01-01": 145,
-  "2024-01-02": 145,
-  "2024-01-03": 145
+  "2024-01-17": 143,
+  "date_first_scraped": "2023-03-18",
+  "description": "",
+  "name": "MELISMAS & FALSETES VOCAL",
+  "tracks": [
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314907,
+      "name": "Abba Father",
+      "url": "https://open.spotify.com/track/0cy0ekbmQxBFwFXWlYo1G2"
+    },
+    {
+      "album": {
+        "name": "8:34",
+        "url": "https://open.spotify.com/album/1LQMjeYnhq8bhLbi0Kx0Vw"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188720,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/0B2VRF55cV3MPoyHNkJ1tl"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/5TyxQQ38rdlQSzqdtwBVjW"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244822,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4Cuyv8LmfYvlatEuTHDT8U"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/0VaAFegRAAn4OCg7p4QjN5"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262466,
+      "name": "Bleeding Love",
+      "url": "https://open.spotify.com/track/7wZUrN8oemZfsEd1CGkbXE"
+    },
+    {
+      "album": {
+        "name": "Callin'",
+        "url": "https://open.spotify.com/album/3VOyyDqL4NEWu7UL8KlHzz"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Callin'",
+      "url": "https://open.spotify.com/track/0376LwNFpzCIiFXdMopHxY"
+    },
+    {
+      "album": {
+        "name": "Change My Mind (feat. Migos)",
+        "url": "https://open.spotify.com/album/4vrQR1kOD44hMlFYl8E4gK"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266290,
+      "name": "Change My Mind (feat. Migos)",
+      "url": "https://open.spotify.com/track/2RJnJc0I3CLxak7E6Xydpr"
+    },
+    {
+      "album": {
+        "name": "Body Talk",
+        "url": "https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285853,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/6aqNCrRA7vs7v6QvRpI50t"
+    },
+    {
+      "album": {
+        "name": "Love Session",
+        "url": "https://open.spotify.com/album/0yr5uPbuRrbCUGpGbYevPM"
+      },
+      "artists": [
+        {
+          "name": "Silk",
+          "url": "https://open.spotify.com/artist/2etWSM1cPeITq5E2bEK8PW"
+        },
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "date_added": "2021-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415373,
+      "name": "Don't Go (feat. Tamar Braxton)",
+      "url": "https://open.spotify.com/track/0Wli4hI5DR6AyhRpw3jX8u"
+    },
+    {
+      "album": {
+        "name": "Don't Talk About It",
+        "url": "https://open.spotify.com/album/3F0I5ooKpjhOJrAaRlPP7Q"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Jesse Cline",
+          "url": "https://open.spotify.com/artist/1FyU9raIv5d9zjJjUgHOW4"
+        }
+      ],
+      "date_added": "2020-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217999,
+      "name": "Don't Talk About It",
+      "url": "https://open.spotify.com/track/6l0Ygty0TsJf0zmD9kdTXs"
+    },
+    {
+      "album": {
+        "name": "God Is My Refuge (Live)",
+        "url": "https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2020-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585080,
+      "name": "God Is My Refuge (Live)",
+      "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
+    },
+    {
+      "album": {
+        "name": "Hear My Prayer (Acoustic Version)",
+        "url": "https://open.spotify.com/album/44s1vyT8Oy6noCOSFvNwtf"
+      },
+      "artists": [
+        {
+          "name": "Callie Day",
+          "url": "https://open.spotify.com/artist/7rq2boa3cUriEls0PJedCH"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322517,
+      "name": "Hear My Prayer (Acoustic Version)",
+      "url": "https://open.spotify.com/track/0FwVIfz5CFReNMagpkN9Bx"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359393,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/7p8CKAqgclatFSddqgOt1k"
+    },
+    {
+      "album": {
+        "name": "The Bodyguard - Original Soundtrack Album",
+        "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289160,
+      "name": "I Have Nothing",
+      "url": "https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP"
+    },
+    {
+      "album": {
+        "name": "I Need",
+        "url": "https://open.spotify.com/album/7737qwNBQIMx6j34ycLMdv"
+      },
+      "artists": [
+        {
+          "name": "Clark Beckham",
+          "url": "https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298870,
+      "name": "I Need",
+      "url": "https://open.spotify.com/track/2gl9xaJ9lRWhjCHswPKLAx"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261016,
+      "name": "I Will Praise",
+      "url": "https://open.spotify.com/track/5F9nTjJGsKjtsHQa6myd0s"
+    },
+    {
+      "album": {
+        "name": "Where It All Begins",
+        "url": "https://open.spotify.com/album/1eXj3GU32V64aHE5BMInZX"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        },
+        {
+          "name": "Rachelle Ferrell",
+          "url": "https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417666,
+      "name": "I'm Coming Back",
+      "url": "https://open.spotify.com/track/1v0PjMzN2vFtK3vTWwASDS"
+    },
+    {
+      "album": {
+        "name": "If I Have To",
+        "url": "https://open.spotify.com/album/1Fg2jNwu2zl1oM247h8sAy"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184173,
+      "name": "If I Have To",
+      "url": "https://open.spotify.com/track/4DLZpekzmIm1fSO0IPEk3R"
+    },
+    {
+      "album": {
+        "name": "More Than A Game",
+        "url": "https://open.spotify.com/album/55UhXq8grzHPga0we8mEL3"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Tyrese",
+          "url": "https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        },
+        {
+          "name": "Omarion",
+          "url": "https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        {
+          "name": "Steve Russell",
+          "url": "https://open.spotify.com/artist/3vaIpIxoAmQpnsH2LTgjHq"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303200,
+      "name": "If You Dream",
+      "url": "https://open.spotify.com/track/4o3RtSukEmNuFEGRYXyuBQ"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277891,
+      "name": "It's Ok",
+      "url": "https://open.spotify.com/track/6lp0y4EpVOvU5cUW0oocEi"
+    },
+    {
+      "album": {
+        "name": "Seasons: A 20 Year Celebration",
+        "url": "https://open.spotify.com/album/7783ykNzfJzUynGavNKYRo"
+      },
+      "artists": [
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 699240,
+      "name": "It's Your Time",
+      "url": "https://open.spotify.com/track/6glYYXTFB2eClfZI6gkB5y"
+    },
+    {
+      "album": {
+        "name": "Live Through It",
+        "url": "https://open.spotify.com/album/2bQ6jJkeM9EodsNHJeG7NH"
+      },
+      "artists": [
+        {
+          "name": "Fiya",
+          "url": "https://open.spotify.com/artist/6YJMdYVDPpAzEztkd9ybrL"
+        },
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Just Smile",
+      "url": "https://open.spotify.com/track/4Iov6rlQiAFpnjqxo48IVJ"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/2kSQnTLbO7fevT5zOaM6Hv"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233373,
+      "name": "Kisses in the Moonlight - 2015 GH Version",
+      "url": "https://open.spotify.com/track/7GJMTH4HaeE0BGCnrBzLLs"
+    },
+    {
+      "album": {
+        "name": "Primeiro Tempo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7JuhE8JlnfsFdK5RKOpqUm"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Sync 3",
+          "url": "https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254784,
+      "name": "Meu Grande Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/6OacfmPdP5IdJCCwJooKp7"
+    },
+    {
+      "album": {
+        "name": "Mil Motivos",
+        "url": "https://open.spotify.com/album/4gfNOiJVY9DmB7DTDPZ4qd"
+      },
+      "artists": [
+        {
+          "name": "VITU VOZ",
+          "url": "https://open.spotify.com/artist/5T2XEpgtCLW5ygsKTzdg6U"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Mil Motivos",
+      "url": "https://open.spotify.com/track/5nVcFEGFzvqz7nb9KQpLP1"
+    },
+    {
+      "album": {
+        "name": "Limitless",
+        "url": "https://open.spotify.com/album/7Bb6rkwU4sc0XPfssMcMbV"
+      },
+      "artists": [
+        {
+          "name": "Trey McLaughlin & The Sounds of Zamar",
+          "url": "https://open.spotify.com/artist/6dOjhrHjzG2rzqhO55jWtB"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282985,
+      "name": "My Soul Loves Jesus",
+      "url": "https://open.spotify.com/track/2FPhJsu5y3yWSjJ2gl4Ole"
+    },
+    {
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
+    },
+    {
+      "album": {
+        "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
+        "url": "https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP"
+      },
+      "artists": [
+        {
+          "name": "Sync 3",
+          "url": "https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ"
+        },
+        {
+          "name": "Ericka Nascimento",
+          "url": "https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243495,
+      "name": "Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio",
+      "url": "https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu"
+    },
+    {
+      "album": {
+        "name": "8:34",
+        "url": "https://open.spotify.com/album/1LQMjeYnhq8bhLbi0Kx0Vw"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/38QsfWFIBnnrU8zhCWuYWQ"
+    },
+    {
+      "album": {
+        "name": "KIERRA",
+        "url": "https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2020-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402844,
+      "name": "Something Has To Break (feat. Tasha Cobbs Leonard) - Live",
+      "url": "https://open.spotify.com/track/719l9b2QzAejHepSi8vK5a"
+    },
+    {
+      "album": {
+        "name": "Song For You",
+        "url": "https://open.spotify.com/album/04Qos9tg4OsBifMkV1SQY1"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329464,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/3v5YKvxegZyG6TJwK1loMA"
+    },
+    {
+      "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2020-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166963,
+      "name": "Speak To Me",
+      "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371746,
+      "name": "The Moment #1",
+      "url": "https://open.spotify.com/track/3x8wKKVLz0JxW5rF5jD8aC"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2020-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
+    },
+    {
+      "album": {
+        "name": "What I Like",
+        "url": "https://open.spotify.com/album/1DYT2oDAe6SbzuRQOWv4zX"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207621,
+      "name": "What I Like",
+      "url": "https://open.spotify.com/track/7wrdkWKSwf08orT0x2GNM7"
+    },
+    {
+      "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/38vJ9dQX29k6nOHUjxkKFM"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227166,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/5br7roRMvno5sXHu5GAqXf"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "date_added": "2020-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/6POS73ero2jRR6OpAffzSr"
 }

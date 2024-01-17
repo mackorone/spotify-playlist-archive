@@ -1246,7 +1246,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 167094,
       "name": "California",
       "url": "https://open.spotify.com/track/0x7dQOmBLZYkmlfl2rRLPP"
@@ -3210,7 +3210,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 223893,
       "name": "Every Breath You Take (feat. Liza Anne)",
       "url": "https://open.spotify.com/track/65YDMuJmyF8cxTrk4Xogy0"
@@ -6095,6 +6095,24 @@
     },
     {
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/5wA9NBMfYM8cv3Wa3b7Xye"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-10-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154290,
+      "name": "In My Life",
+      "url": "https://open.spotify.com/track/3XE3fDJVA9vMjycWghQQ3W"
+    },
+    {
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3xmPSQOtxckv6Gr4IgVzw7"
       },
@@ -6452,7 +6470,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 105493,
       "name": "Just Cant Get Enough",
       "url": "https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n"
@@ -6636,7 +6654,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": "2024-01-15",
       "duration_ms": 179386,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/41fecZEX4sPrRxnjZQ6DGU"
@@ -6996,7 +7014,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 209066,
       "name": "Life On Mars?",
       "url": "https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO"
@@ -7108,7 +7126,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 181038,
       "name": "Long Black Veil - Remastered 2000",
       "url": "https://open.spotify.com/track/2mkz7LrEqofmv0PvcihXW7"
@@ -10382,7 +10400,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 182200,
       "name": "The Times They Are a-Changin' - Live at Madison Square Garden, New York, NY - October 1992",
       "url": "https://open.spotify.com/track/0IvdJ0V3Sl6ClrmJLrGEUV"
@@ -10786,7 +10804,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-02",
+      "date_removed": null,
       "duration_ms": 140480,
       "name": "True Colors",
       "url": "https://open.spotify.com/track/4AvvHmGzjW8Y7JZlq51NAQ"

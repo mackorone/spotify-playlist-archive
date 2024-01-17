@@ -319,7 +319,7 @@
     },
     {
       "album": {
-        "name": "28 (with Dean Lewis)",
+        "name": "28",
         "url": "https://open.spotify.com/album/04iQ8HwkumvYXot2TG3F0K"
       },
       "artists": [
@@ -336,7 +336,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 208293,
-      "name": "28 - with Dean Lewis",
+      "name": "28",
       "url": "https://open.spotify.com/track/3fajzhEHSdlSmY31dORz9M"
     },
     {
@@ -3818,7 +3818,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 205483,
       "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
       "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
@@ -4588,7 +4588,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 149385,
       "name": "coast to coast",
       "url": "https://open.spotify.com/track/3MDFRerrTl5CyeVsb71XId"
@@ -8584,7 +8584,7 @@
       ],
       "date_added": "2023-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 196356,
       "name": "fight or flight",
       "url": "https://open.spotify.com/track/4HLgLWqVYZTjCbakheLHW5"
@@ -9430,7 +9430,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 218586,
       "name": "Ghost in the Machine (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
@@ -15309,6 +15309,24 @@
     },
     {
       "album": {
+        "name": "Hey mom, don\u2019t worry I\u2019m fine",
+        "url": "https://open.spotify.com/album/4xfrjscotnULSQSFfjamgr"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Lilly",
+      "url": "https://open.spotify.com/track/7AmQQNY6A0v1uWxx46hcD3"
+    },
+    {
+      "album": {
         "name": "Line By Line (feat. Maren Morris)",
         "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
       },
@@ -17672,7 +17690,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 137773,
       "name": "My Love Mine All Mine",
       "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
@@ -19172,7 +19190,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 189994,
       "name": "orbit",
       "url": "https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN"
@@ -20178,6 +20196,24 @@
       "duration_ms": 190477,
       "name": "promise,",
       "url": "https://open.spotify.com/track/31Tauz6YbzCwWUyGJQWxdm"
+    },
+    {
+      "album": {
+        "name": "Proud",
+        "url": "https://open.spotify.com/album/3HEfD8zUlWj3BQtArGnx7Y"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185633,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/43hgaexgdv1COrIJi5DlbN"
     },
     {
       "album": {
@@ -23561,6 +23597,24 @@
     },
     {
       "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/62SHkxkmWb3tFt4260moa9"
       },
@@ -25456,6 +25510,28 @@
       "duration_ms": 181992,
       "name": "This Time (I Don't Wanna)",
       "url": "https://open.spotify.com/track/5McIkhN2bSvCcjNUaMoWYZ"
+    },
+    {
+      "album": {
+        "name": "Those Eyes",
+        "url": "https://open.spotify.com/album/5MBMrSqIg8czxWwqem7tMN"
+      },
+      "artists": [
+        {
+          "name": "New West",
+          "url": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
+        },
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244750,
+      "name": "Those Eyes (feat. Zeph)",
+      "url": "https://open.spotify.com/track/6Cg8d5DzpKHGci9SPk8JeL"
     },
     {
       "album": {
@@ -28396,7 +28472,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 174196,
       "name": "Yard Sale",
       "url": "https://open.spotify.com/track/7aphaNjz17A97xNyD00LBn"

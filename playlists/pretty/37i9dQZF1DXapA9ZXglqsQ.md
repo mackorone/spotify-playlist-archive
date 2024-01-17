@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXapA9ZXglqsQ.md) - [plain]
 
 > Meet Joe Hisaishi, a one\-of\-a\-kind composer/musician known for his world famous "Studio Ghibli" film scores, as well as countless other classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,465 likes - 63 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,858 likes - 63 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

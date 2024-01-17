@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 130019,
+  "num_followers": 129342,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
-      },
-      "artists": [
-        {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
-        }
-      ],
-      "duration_ms": 241374,
-      "name": "Chill Waves & Wind in Leaves",
-      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Rainforest Soundscapes",
         "url": "https://open.spotify.com/album/4eohimUm2km4KEQAMLNs2w"
       },
@@ -283,18 +267,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Thunderstorms vol II",
-        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/4UvRUxM8fwrChyFg0fglnz"
       },
       "artists": [
         {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
         }
       ],
-      "duration_ms": 228500,
-      "name": "Dripping Wet Leaves and Thunder",
-      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+      "duration_ms": 241374,
+      "name": "Chill Waves & Wind in Leaves",
+      "url": "https://open.spotify.com/track/37TdJ5EWlM9Jfw8IqiUHcm"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -315,6 +299,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Thunderstorms vol II",
+        "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 228500,
+      "name": "Dripping Wet Leaves and Thunder",
+      "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Rain Awakening",
         "url": "https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc"
       },
@@ -327,38 +327,6 @@
       "duration_ms": 198000,
       "name": "Bird Chatter In Rainforest",
       "url": "https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Terapheutic Thunder",
-        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
-      },
-      "artists": [
-        {
-          "name": "Y\u00f9h\u00e9 \u6108\u5408",
-          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
-        }
-      ],
-      "duration_ms": 134313,
-      "name": "Presence of Thor",
-      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
-      },
-      "artists": [
-        {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Light Forest Rain 2",
-      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -379,6 +347,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Light Forest Rain 2",
+      "url": "https://open.spotify.com/track/0sHQko0MGE4c2RzGQ9BjX6"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Suburban Forest Rain",
         "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
       },
@@ -388,41 +372,41 @@
           "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
         }
       ],
-      "duration_ms": 138000,
-      "name": "Suburban Forest Rain 1",
-      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
+      "duration_ms": 129000,
+      "name": "Suburban Forest Rain 2",
+      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
     },
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Soothing River Sounds",
-        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
+        "name": "Terapheutic Thunder",
+        "url": "https://open.spotify.com/album/33SfeV8Cn3Czw2Kj9iN0I3"
       },
       "artists": [
         {
-          "name": "Rivers and Streams",
-          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+          "name": "Y\u00f9h\u00e9 \u6108\u5408",
+          "url": "https://open.spotify.com/artist/1FhDUTdr5dsdGbOIKiVmkD"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Bustling River Sounds",
-      "url": "https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI"
+      "duration_ms": 134313,
+      "name": "Presence of Thor",
+      "url": "https://open.spotify.com/track/4WJQ1YkXPfcNZyg5jZbCCQ"
     },
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Rainmaker",
-        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
       },
       "artists": [
         {
-          "name": "Pinetree Way",
-          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
+          "name": "Naturalis",
+          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
         }
       ],
-      "duration_ms": 230983,
-      "name": "Rain Forest Meditation",
-      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+      "duration_ms": 183028,
+      "name": "Distant Thunder in the East of the City",
+      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -443,18 +427,50 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/1hVoDnDgD0chGjPJFV7zW4"
+        "name": "Rainmaker",
+        "url": "https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5"
       },
       "artists": [
         {
-          "name": "Naturalis",
-          "url": "https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB"
+          "name": "Pinetree Way",
+          "url": "https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67"
         }
       ],
-      "duration_ms": 183028,
-      "name": "Distant Thunder in the East of the City",
-      "url": "https://open.spotify.com/track/39IRFQpK8ZCRFPOMe9Y4At"
+      "duration_ms": 230983,
+      "name": "Rain Forest Meditation",
+      "url": "https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Soothing River Sounds",
+        "url": "https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap"
+      },
+      "artists": [
+        {
+          "name": "Rivers and Streams",
+          "url": "https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Bustling River Sounds",
+      "url": "https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Suburban Forest Rain",
+        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
+      },
+      "artists": [
+        {
+          "name": "Aquagirl",
+          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Suburban Forest Rain 1",
+      "url": "https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -491,22 +507,6 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Noises",
-        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
-      },
-      "artists": [
-        {
-          "name": "Ocean Bank",
-          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
-        }
-      ],
-      "duration_ms": 247471,
-      "name": "By The Docks",
-      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
         "name": "Light Forest Rain",
         "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
       },
@@ -523,50 +523,18 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Ocean Stream",
-        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
+        "name": "Ocean Noises",
+        "url": "https://open.spotify.com/album/0szLMw3GmyGkoN7KVS39Mk"
       },
       "artists": [
         {
-          "name": "Sound and Waves",
-          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Gentle River Sounds",
-      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Suburban Forest Rain",
-        "url": "https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt"
-      },
-      "artists": [
-        {
-          "name": "Aquagirl",
-          "url": "https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "Suburban Forest Rain 2",
-      "url": "https://open.spotify.com/track/0rtT2DmXIcwqpcXVrX6C7V"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Bird Life",
-        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
-      },
-      "artists": [
-        {
-          "name": "Beyond North",
-          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Bird Life",
-      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
+      "duration_ms": 247471,
+      "name": "By The Docks",
+      "url": "https://open.spotify.com/track/1nVn1Mf8bUbANYgozOoCuq"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -603,50 +571,34 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Light Forest Rain",
-        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+        "name": "Ocean Stream",
+        "url": "https://open.spotify.com/album/0KQRieJeaIfGMVUhPCYYNT"
       },
       "artists": [
         {
-          "name": "Smoothe Sounds",
-          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+          "name": "Sound and Waves",
+          "url": "https://open.spotify.com/artist/6zzJsQC4k5h4X4OW3Pe1RY"
         }
       ],
-      "duration_ms": 258000,
-      "name": "Light Forest Rain Long",
-      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+      "duration_ms": 196000,
+      "name": "Gentle River Sounds",
+      "url": "https://open.spotify.com/track/1k7bLn8N7hq9oaHCf4To4Y"
     },
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
-        "name": "Birds",
-        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+        "name": "Bird Life",
+        "url": "https://open.spotify.com/album/2ycYa4LRKTCXRa1lu8gCiL"
       },
       "artists": [
         {
-          "name": "Wonderful Escape",
-          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+          "name": "Beyond North",
+          "url": "https://open.spotify.com/artist/6onIiLSkWuZJipFErBA0dk"
         }
       ],
-      "duration_ms": 154338,
-      "name": "Birds in Village Park",
-      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Country Birds",
-        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
-      },
-      "artists": [
-        {
-          "name": "Hinterl\u00e4nder",
-          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Pretty Birds",
-      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
+      "duration_ms": 146000,
+      "name": "Bird Life",
+      "url": "https://open.spotify.com/track/5I9JyCa5yjW8p3K5CUXIrH"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -663,6 +615,38 @@
       "duration_ms": 249739,
       "name": "Wave Foam",
       "url": "https://open.spotify.com/track/22TrxuTE2bllUWnZVJ3Qcp"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Light Forest Rain",
+        "url": "https://open.spotify.com/album/1Hsp2dsXSKCHJjqAvP6mey"
+      },
+      "artists": [
+        {
+          "name": "Smoothe Sounds",
+          "url": "https://open.spotify.com/artist/530BQdnWKWSFYjg8SKUGbN"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Light Forest Rain Long",
+      "url": "https://open.spotify.com/track/3TOdrkKf8QAZhIdpmU6ebO"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Country Birds",
+        "url": "https://open.spotify.com/album/4K0Z364YnLtxwKYl6Z3ioA"
+      },
+      "artists": [
+        {
+          "name": "Hinterl\u00e4nder",
+          "url": "https://open.spotify.com/artist/50x44UHcyqCmA1INB7LcLI"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Pretty Birds",
+      "url": "https://open.spotify.com/track/4BNobzfaqRaiVhJCEVBBR1"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -699,6 +683,22 @@
     {
       "added_at": "2023-06-19 13:01:14",
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/0sWItLKbPToTiiVrlYi1EX"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "duration_ms": 154338,
+      "name": "Birds in Village Park",
+      "url": "https://open.spotify.com/track/0QzUxmfNfouNor0fUpslhn"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
         "name": "Soul Healing Birds",
         "url": "https://open.spotify.com/album/4NPlWnO0Q7j8rk6CyosvKo"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 145500,
       "name": "Soul Healing Birds",
       "url": "https://open.spotify.com/track/2xDAhRpg274IdUlSwrUKeG"
-    },
-    {
-      "added_at": "2023-06-19 13:01:14",
-      "album": {
-        "name": "Nature Sounds",
-        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
-      },
-      "artists": [
-        {
-          "name": "Nature Recordings",
-          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
-        }
-      ],
-      "duration_ms": 243919,
-      "name": "Summmer Forest",
-      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
     },
     {
       "added_at": "2023-06-19 13:01:14",
@@ -759,6 +743,22 @@
       "duration_ms": 185756,
       "name": "Rain on the Leaves",
       "url": "https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB"
+    },
+    {
+      "added_at": "2023-06-19 13:01:14",
+      "album": {
+        "name": "Nature Sounds",
+        "url": "https://open.spotify.com/album/7BeL9OdzLuHh0Mk62zA1CX"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "duration_ms": 243919,
+      "name": "Summmer Forest",
+      "url": "https://open.spotify.com/track/2zWCsaxlGbohARJlNQ5aSM"
     },
     {
       "added_at": "2023-06-19 13:01:14",

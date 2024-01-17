@@ -1,159 +1,1223 @@
 {
-  "2023-07-29": 546529,
-  "2023-07-30": 546713,
-  "2023-07-31": 546866,
-  "2023-08-01": 546969,
-  "2023-08-02": 547111,
-  "2023-08-03": 547241,
-  "2023-08-04": 547345,
-  "2023-08-05": 547476,
-  "2023-08-06": 547775,
-  "2023-08-07": 547775,
-  "2023-08-08": 547858,
-  "2023-08-09": 547979,
-  "2023-08-10": 548082,
-  "2023-08-11": 548219,
-  "2023-08-12": 548347,
-  "2023-08-13": 548347,
-  "2023-08-14": 548626,
-  "2023-08-15": 548715,
-  "2023-08-16": 548715,
-  "2023-08-17": 548918,
-  "2023-08-18": 549030,
-  "2023-08-19": 549156,
-  "2023-08-20": 549354,
-  "2023-08-21": 549461,
-  "2023-08-22": 549574,
-  "2023-08-23": 549658,
-  "2023-08-24": 549779,
-  "2023-08-25": 549878,
-  "2023-08-26": 549996,
-  "2023-08-27": 550107,
-  "2023-08-28": 550204,
-  "2023-08-29": 550303,
-  "2023-08-30": 550303,
-  "2023-08-31": 550457,
-  "2023-09-01": 550656,
-  "2023-09-02": 550656,
-  "2023-09-03": 550769,
-  "2023-09-04": 550769,
-  "2023-09-05": 550951,
-  "2023-09-06": 551023,
-  "2023-09-07": 551023,
-  "2023-09-08": 551023,
-  "2023-09-09": 551023,
-  "2023-09-10": 551479,
-  "2023-09-11": 551586,
-  "2023-09-12": 551586,
-  "2023-09-13": 551746,
-  "2023-09-14": 551746,
-  "2023-09-15": 551746,
-  "2023-09-16": 552032,
-  "2023-09-17": 552032,
-  "2023-09-18": 552032,
-  "2023-09-19": 552393,
-  "2023-09-20": 552393,
-  "2023-09-21": 552393,
-  "2023-09-22": 552617,
-  "2023-09-23": 552617,
-  "2023-09-24": 552617,
-  "2023-09-25": 552617,
-  "2023-09-26": 553117,
-  "2023-09-27": 553117,
-  "2023-09-28": 553117,
-  "2023-09-29": 553117,
-  "2023-09-30": 553117,
-  "2023-10-01": 553117,
-  "2023-10-02": 553603,
-  "2023-10-03": 553603,
-  "2023-10-04": 553603,
-  "2023-10-05": 553802,
-  "2023-10-06": 553901,
-  "2023-10-07": 553901,
-  "2023-10-08": 553901,
-  "2023-10-09": 553901,
-  "2023-10-10": 553901,
-  "2023-10-11": 554073,
-  "2023-10-12": 554073,
-  "2023-10-13": 554073,
-  "2023-10-14": 554073,
-  "2023-10-15": 554073,
-  "2023-10-16": 554073,
-  "2023-10-17": 554073,
-  "2023-10-18": 554073,
-  "2023-10-19": 554073,
-  "2023-10-20": 554073,
-  "2023-10-21": 554073,
-  "2023-10-22": 554073,
-  "2023-10-23": 554073,
-  "2023-10-24": 554073,
-  "2023-10-25": 554073,
-  "2023-10-26": 554073,
-  "2023-10-27": 554073,
-  "2023-10-28": 554073,
-  "2023-10-29": 554073,
-  "2023-10-30": 554073,
-  "2023-10-31": 554073,
-  "2023-11-01": 554073,
-  "2023-11-02": 554073,
-  "2023-11-03": 554073,
-  "2023-11-04": 554073,
-  "2023-11-05": 554073,
-  "2023-11-06": 554073,
-  "2023-11-07": 554073,
-  "2023-11-08": 554073,
-  "2023-11-09": 554073,
-  "2023-11-10": 554073,
-  "2023-11-11": 556207,
-  "2023-11-12": 556207,
-  "2023-11-13": 556207,
-  "2023-11-14": 556207,
-  "2023-11-15": 556207,
-  "2023-11-16": 556207,
-  "2023-11-17": 556207,
-  "2023-11-18": 556207,
-  "2023-11-19": 556207,
-  "2023-11-20": 556207,
-  "2023-11-21": 556207,
-  "2023-11-22": 556207,
-  "2023-11-23": 556207,
-  "2023-11-24": 556207,
-  "2023-11-25": 556207,
-  "2023-11-26": 556207,
-  "2023-11-27": 556207,
-  "2023-11-28": 556207,
-  "2023-11-29": 556207,
-  "2023-11-30": 556207,
-  "2023-12-01": 556207,
-  "2023-12-02": 556207,
-  "2023-12-03": 556207,
-  "2023-12-04": 556207,
-  "2023-12-05": 556207,
-  "2023-12-06": 556207,
-  "2023-12-07": 556207,
-  "2023-12-08": 556207,
-  "2023-12-09": 556207,
-  "2023-12-10": 556207,
-  "2023-12-11": 556207,
-  "2023-12-12": 556207,
-  "2023-12-13": 556207,
-  "2023-12-14": 559302,
-  "2023-12-15": 559356,
-  "2023-12-16": 559437,
-  "2023-12-17": 559519,
-  "2023-12-18": 559610,
-  "2023-12-19": 559673,
-  "2023-12-20": 559766,
-  "2023-12-21": 559859,
-  "2023-12-22": 559956,
-  "2023-12-23": 560106,
-  "2023-12-24": 560245,
-  "2023-12-25": 560379,
-  "2023-12-26": 560522,
-  "2023-12-27": 560639,
-  "2023-12-30": 560970,
-  "2023-12-31": 561084,
-  "2024-01-01": 561216,
-  "2024-01-02": 561342,
-  "2024-01-03": 561433
+  "2024-01-17": 561064,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is George Michael. The essential tracks, all in one playlist.",
+  "name": "This Is George Michael",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "A Different Corner",
+      "url": "https://open.spotify.com/track/6khoye7kysa6cLGY0AO9dO"
+    },
+    {
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        },
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        },
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Ars Canto G. Verdi",
+          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
+        },
+        {
+          "name": "Cambodian And Tibetan Children's Choir",
+          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
+        },
+        {
+          "name": "Orchestra Sinfonica Italiana",
+          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
+        },
+        {
+          "name": "Jos\u00e9 Molina",
+          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+      },
+      "artists": [
+        {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/0hsrqeudoR9Kymm7RNiVoq"
+    },
+    {
+      "album": {
+        "name": "An Easier Affair",
+        "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 277000,
+      "name": "An Easier Affair",
+      "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
+    },
+    {
+      "album": {
+        "name": "Twenty Five",
+        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 278573,
+      "name": "An Easier Affair - Remastered 2006",
+      "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282040,
+      "name": "As",
+      "url": "https://open.spotify.com/track/7r3KzVwHtr2iMZtqJvFn9A"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434733,
+      "name": "Cowboys and Angels - Remastered",
+      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201135,
+      "name": "Desafinado (with Astrud Gilberto)",
+      "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
+    },
+    {
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346813,
+      "name": "Don't Let the Sun Go Down on Me",
+      "url": "https://open.spotify.com/track/7xGOvQukPKKQVLiJOPSmt0"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346960,
+      "name": "Don't Let the Sun Go Down on Me",
+      "url": "https://open.spotify.com/track/0q90594hk25yo0xZmBTqCd"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313595,
+      "name": "Everything She Wants - Live",
+      "url": "https://open.spotify.com/track/2kaDIOcZx2WARb52smVMt4"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Faith - Remastered",
+      "url": "https://open.spotify.com/track/0HEmnAUT8PHznIAAmVXqFJ"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324666,
+      "name": "Fastlove, Pt. 1",
+      "url": "https://open.spotify.com/track/6SaeXxdt0Id6ZzmX0ZGTQK"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336666,
+      "name": "Father Figure - Remastered",
+      "url": "https://open.spotify.com/track/0L0T4tMAaGqLgIVj1MOj9t"
+    },
+    {
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411133,
+      "name": "Flawless (Go to the City)",
+      "url": "https://open.spotify.com/track/6HwgNXpldZ0WfY4kzJgexr"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 390861,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390866,
+      "name": "Freedom! '90 - Remastered",
+      "url": "https://open.spotify.com/track/1wZ7o1mZysv1l26ZWawVfW"
+    },
+    {
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285361,
+      "name": "Going To A Town - Live",
+      "url": "https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 276200,
+      "name": "Hand to Mouth - Remastered",
+      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 279989,
+      "name": "Heal the Pain - Remastered",
+      "url": "https://open.spotify.com/track/2EBWsH43kZsQd6MSPygouy"
+    },
+    {
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 323320,
+      "name": "How Do You Keep the Music Playing?",
+      "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320600,
+      "name": "I Can't Make You Love Me - Studio Version",
+      "url": "https://open.spotify.com/track/2w4a4ur2uRf530cbzyTlWo"
+    },
+    {
+      "album": {
+        "name": "ARETHA",
+        "url": "https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240120,
+      "name": "I Knew You Were Waiting (For Me)",
+      "url": "https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 557293,
+      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
+    },
+    {
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 269891,
+      "name": "Idol - Live",
+      "url": "https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Collection",
+        "url": "https://open.spotify.com/album/44mthU2qR57JhTbDeoBcby"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "If I Told You That (feat. George Michael) - Radio Edit",
+      "url": "https://open.spotify.com/track/3u3TlUNiySeTeUKMvkA1L7"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411146,
+      "name": "Jesus to a Child",
+      "url": "https://open.spotify.com/track/2SzCxX6M6vDwdEwnHDiTaY"
+    },
+    {
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Killer / Papa Was a Rollin' Stone",
+      "url": "https://open.spotify.com/track/3EMwCbvaeyWVZb3ae0roHt"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280720,
+      "name": "Kissing a Fool - Remastered",
+      "url": "https://open.spotify.com/track/1sEGwuvScFU2uNzlI7Aepy"
+    },
+    {
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230508,
+      "name": "Let Her Down Easy - Live",
+      "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310906,
+      "name": "Miss Sarajevo",
+      "url": "https://open.spotify.com/track/6x5pI6n5feaWcP8jCdTk3E"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306120,
+      "name": "Monkey - Remastered",
+      "url": "https://open.spotify.com/track/2nzPzkGP9QSZ1lqvXTfyzT"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 239173,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239174,
+      "name": "Mothers Pride - Remastered",
+      "url": "https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105946,
+      "name": "My Baby Just Cares for Me",
+      "url": "https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333106,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
+    },
+    {
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350666,
+      "name": "One More Try - Remastered",
+      "url": "https://open.spotify.com/track/5932kbyNt445gDTT2chRUS"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283426,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6CTM0aon2TESJvdeacsqh9"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/72LKSYwvDYp9acfM5TEgBK"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 280980,
+      "name": "Praying for Time - Remastered",
+      "url": "https://open.spotify.com/track/7CgRXXie9XIxVSkpKi40ID"
+    },
+    {
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355733,
+      "name": "Round Here",
+      "url": "https://open.spotify.com/track/0CXKSzlIQfmQI3I7oQj9kv"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251173,
+      "name": "Roxanne",
+      "url": "https://open.spotify.com/track/63rKiGqcfNsMU4kAqmm4uY"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159546,
+      "name": "Secret Love",
+      "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+    },
+    {
+      "album": {
+        "name": "Ladies & Gentlemen",
+        "url": "https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318866,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits III",
+        "url": "https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307360,
+      "name": "Somebody To Love - Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992",
+      "url": "https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Something to Save - Remastered",
+      "url": "https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381626,
+      "name": "Spinning the Wheel",
+      "url": "https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316600,
+      "name": "Star People",
+      "url": "https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319440,
+      "name": "The First Time Ever I Saw Your Face",
+      "url": "https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 361640,
+      "name": "The Strangest Thing",
+      "url": "https://open.spotify.com/track/1eFhGtC7msDWjjG0lrr9Dx"
+    },
+    {
+      "album": {
+        "name": "Twenty Five",
+        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mutya",
+          "url": "https://open.spotify.com/artist/1VPdHx80mwDD7koKNVxPH1"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296506,
+      "name": "This Is Not Real Love (feat. Mutya) - Remastered 2006",
+      "url": "https://open.spotify.com/track/0uLMAdoeOc0Q3bztUU0tD0"
+    },
+    {
+      "album": {
+        "name": "Symphonica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309821,
+      "name": "Through - Live",
+      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230893,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147506,
+      "name": "Waiting (Reprise) - Remastered",
+      "url": "https://open.spotify.com/track/6pqUpNXOsFWqMtPonvLJOe"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289986,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1fGvBYkZ6txCsWYpFSqFMJ"
+    },
+    {
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 289996,
+      "name": "Waiting for That Day - Remastered",
+      "url": "https://open.spotify.com/track/1y8pNONQUfiCDXWME7IQBa"
+    },
+    {
+      "album": {
+        "name": "Songs From The Last Century",
+        "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330800,
+      "name": "You Have Been Loved",
+      "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm"
 }

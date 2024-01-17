@@ -438,7 +438,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-17",
+      "date_removed": "2024-01-13",
       "duration_ms": 191304,
       "name": "Dusty Stars",
       "url": "https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw"
@@ -606,10 +606,32 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": "2024-01-12",
       "duration_ms": 263301,
       "name": "Go With It",
       "url": "https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "album": {
@@ -650,7 +672,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": "2024-01-11",
       "duration_ms": 238027,
       "name": "Green",
       "url": "https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H"
@@ -1138,7 +1160,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 238277,
       "name": "Renter's Anthem",
       "url": "https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM"
@@ -1334,7 +1356,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": "2024-01-05",
       "duration_ms": 209049,
       "name": "Soul to Seoul",
       "url": "https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb"

@@ -1,620 +1,2511 @@
 {
-  "2022-04-20": 33592,
-  "2022-04-21": 33606,
-  "2022-04-22": 33622,
-  "2022-04-23": 33638,
-  "2022-04-24": 33656,
-  "2022-04-25": 33673,
-  "2022-04-26": 33681,
-  "2022-04-27": 33688,
-  "2022-04-28": 33701,
-  "2022-04-29": 33717,
-  "2022-04-30": 33737,
-  "2022-05-01": 33744,
-  "2022-05-02": 33744,
-  "2022-05-03": 33761,
-  "2022-05-04": 33766,
-  "2022-05-05": 33766,
-  "2022-05-06": 33778,
-  "2022-05-07": 33786,
-  "2022-05-08": 33821,
-  "2022-05-09": 33827,
-  "2022-05-10": 33852,
-  "2022-05-11": 33864,
-  "2022-05-12": 33884,
-  "2022-05-13": 33896,
-  "2022-05-14": 33907,
-  "2022-05-15": 33919,
-  "2022-05-16": 33943,
-  "2022-05-17": 33958,
-  "2022-05-18": 33974,
-  "2022-05-19": 33987,
-  "2022-05-20": 34006,
-  "2022-05-21": 34028,
-  "2022-05-22": 34028,
-  "2022-05-23": 34043,
-  "2022-05-24": 34049,
-  "2022-05-25": 34054,
-  "2022-05-26": 34069,
-  "2022-05-27": 34090,
-  "2022-05-28": 34099,
-  "2022-05-29": 34117,
-  "2022-05-30": 34128,
-  "2022-05-31": 34138,
-  "2022-06-01": 34156,
-  "2022-06-02": 34161,
-  "2022-06-03": 34169,
-  "2022-06-04": 34180,
-  "2022-06-05": 34196,
-  "2022-06-06": 34204,
-  "2022-06-07": 34218,
-  "2022-06-08": 34225,
-  "2022-06-09": 34229,
-  "2022-06-10": 34245,
-  "2022-06-11": 34256,
-  "2022-06-12": 34278,
-  "2022-06-13": 34292,
-  "2022-06-14": 34309,
-  "2022-06-15": 34315,
-  "2022-06-16": 34333,
-  "2022-06-17": 34353,
-  "2022-06-18": 34360,
-  "2022-06-19": 34376,
-  "2022-06-20": 34376,
-  "2022-06-21": 34388,
-  "2022-06-22": 34405,
-  "2022-06-23": 34405,
-  "2022-06-24": 34416,
-  "2022-06-25": 34424,
-  "2022-06-26": 34435,
-  "2022-06-27": 34452,
-  "2022-06-28": 34459,
-  "2022-06-29": 34466,
-  "2022-06-30": 34481,
-  "2022-07-01": 34493,
-  "2022-07-02": 34506,
-  "2022-07-03": 34515,
-  "2022-07-04": 34525,
-  "2022-07-05": 34535,
-  "2022-07-06": 34544,
-  "2022-07-07": 34556,
-  "2022-07-08": 34573,
-  "2022-07-09": 34580,
-  "2022-07-10": 34594,
-  "2022-07-11": 34606,
-  "2022-07-12": 34621,
-  "2022-07-13": 34627,
-  "2022-07-14": 34635,
-  "2022-07-15": 34648,
-  "2022-07-16": 34658,
-  "2022-07-17": 34671,
-  "2022-07-18": 34683,
-  "2022-07-19": 34698,
-  "2022-07-20": 34711,
-  "2022-07-21": 34719,
-  "2022-07-22": 34733,
-  "2022-07-23": 34746,
-  "2022-07-24": 34754,
-  "2022-07-25": 34765,
-  "2022-07-26": 34781,
-  "2022-07-27": 34802,
-  "2022-07-28": 34811,
-  "2022-07-29": 34821,
-  "2022-07-30": 34842,
-  "2022-07-31": 34842,
-  "2022-08-01": 34854,
-  "2022-08-02": 34880,
-  "2022-08-03": 34880,
-  "2022-08-04": 34892,
-  "2022-08-05": 34910,
-  "2022-08-06": 34926,
-  "2022-08-07": 34929,
-  "2022-08-08": 34942,
-  "2022-08-09": 34966,
-  "2022-08-10": 34987,
-  "2022-08-11": 34993,
-  "2022-08-12": 35004,
-  "2022-08-13": 35032,
-  "2022-08-14": 35046,
-  "2022-08-15": 35067,
-  "2022-08-16": 35086,
-  "2022-08-17": 35095,
-  "2022-08-18": 35107,
-  "2022-08-19": 35114,
-  "2022-08-20": 35131,
-  "2022-08-21": 35152,
-  "2022-08-22": 35169,
-  "2022-08-23": 35187,
-  "2022-08-24": 35196,
-  "2022-08-25": 35210,
-  "2022-08-26": 35223,
-  "2022-08-27": 35234,
-  "2022-08-28": 35243,
-  "2022-08-29": 35261,
-  "2022-08-30": 35272,
-  "2022-08-31": 35288,
-  "2022-09-01": 35300,
-  "2022-09-02": 35310,
-  "2022-09-03": 35310,
-  "2022-09-04": 35322,
-  "2022-09-05": 35339,
-  "2022-09-06": 35350,
-  "2022-09-07": 35373,
-  "2022-09-09": 35398,
-  "2022-09-10": 35412,
-  "2022-09-11": 35424,
-  "2022-09-12": 35444,
-  "2022-09-13": 35457,
-  "2022-09-15": 35487,
-  "2022-09-16": 35495,
-  "2022-09-17": 35510,
-  "2022-09-18": 35523,
-  "2022-09-19": 35537,
-  "2022-09-20": 35545,
-  "2022-09-21": 35565,
-  "2022-09-22": 35572,
-  "2022-09-23": 35591,
-  "2022-09-24": 35599,
-  "2022-09-25": 35618,
-  "2022-09-26": 35634,
-  "2022-09-27": 35644,
-  "2022-09-28": 35653,
-  "2022-09-29": 35672,
-  "2022-09-30": 35687,
-  "2022-10-01": 35697,
-  "2022-10-02": 35710,
-  "2022-10-03": 35723,
-  "2022-10-04": 35737,
-  "2022-10-05": 35749,
-  "2022-10-06": 35758,
-  "2022-10-07": 35765,
-  "2022-10-08": 35775,
-  "2022-10-09": 35802,
-  "2022-10-10": 35803,
-  "2022-10-11": 35821,
-  "2022-10-12": 35842,
-  "2022-10-13": 35857,
-  "2022-10-14": 35875,
-  "2022-10-15": 35885,
-  "2022-10-16": 35900,
-  "2022-10-17": 35911,
-  "2022-10-18": 35937,
-  "2022-10-19": 35954,
-  "2022-10-20": 35967,
-  "2022-10-21": 35979,
-  "2022-10-22": 35987,
-  "2022-10-23": 36005,
-  "2022-10-24": 36023,
-  "2022-10-25": 36033,
-  "2022-10-26": 36042,
-  "2022-10-27": 36050,
-  "2022-10-28": 36067,
-  "2022-10-29": 36084,
-  "2022-10-30": 36102,
-  "2022-10-31": 36103,
-  "2022-11-01": 36114,
-  "2022-11-02": 36123,
-  "2022-11-03": 36138,
-  "2022-11-04": 36150,
-  "2022-11-05": 36166,
-  "2022-11-06": 36184,
-  "2022-11-07": 36193,
-  "2022-11-08": 36200,
-  "2022-11-09": 36214,
-  "2022-11-10": 36225,
-  "2022-11-11": 36237,
-  "2022-11-12": 36258,
-  "2022-11-13": 36270,
-  "2022-11-14": 36279,
-  "2022-11-15": 36289,
-  "2022-11-16": 36308,
-  "2022-11-17": 36322,
-  "2022-11-18": 36328,
-  "2022-11-19": 36341,
-  "2022-11-20": 36355,
-  "2022-11-21": 36371,
-  "2022-11-22": 36392,
-  "2022-11-23": 36408,
-  "2022-11-24": 36430,
-  "2022-11-25": 36471,
-  "2022-11-26": 36488,
-  "2022-11-27": 36505,
-  "2022-11-28": 36523,
-  "2022-11-29": 36530,
-  "2022-11-30": 36533,
-  "2022-12-01": 36552,
-  "2022-12-02": 36552,
-  "2022-12-03": 36569,
-  "2022-12-04": 36590,
-  "2022-12-05": 36605,
-  "2022-12-06": 36615,
-  "2022-12-07": 36628,
-  "2022-12-08": 36651,
-  "2022-12-09": 36666,
-  "2022-12-10": 36681,
-  "2022-12-11": 36693,
-  "2022-12-12": 36709,
-  "2022-12-13": 36718,
-  "2022-12-14": 36725,
-  "2022-12-15": 36741,
-  "2022-12-16": 36762,
-  "2022-12-17": 36779,
-  "2022-12-18": 36798,
-  "2022-12-19": 36823,
-  "2022-12-20": 36861,
-  "2022-12-21": 36861,
-  "2022-12-22": 36871,
-  "2022-12-24": 36910,
-  "2022-12-25": 36923,
-  "2022-12-26": 36940,
-  "2022-12-27": 36961,
-  "2022-12-28": 36984,
-  "2022-12-29": 36996,
-  "2022-12-30": 37015,
-  "2022-12-31": 37037,
-  "2023-01-01": 37057,
-  "2023-01-02": 37083,
-  "2023-01-03": 37111,
-  "2023-01-04": 37139,
-  "2023-01-05": 37152,
-  "2023-01-06": 37182,
-  "2023-01-07": 37209,
-  "2023-01-08": 37215,
-  "2023-01-09": 37238,
-  "2023-01-10": 37261,
-  "2023-01-11": 37274,
-  "2023-01-12": 37301,
-  "2023-01-13": 37315,
-  "2023-01-14": 37351,
-  "2023-01-15": 37358,
-  "2023-01-16": 37393,
-  "2023-01-17": 37417,
-  "2023-01-18": 37441,
-  "2023-01-19": 37460,
-  "2023-01-20": 37486,
-  "2023-01-21": 37495,
-  "2023-01-22": 37513,
-  "2023-01-23": 37532,
-  "2023-01-24": 37553,
-  "2023-01-25": 37556,
-  "2023-01-26": 37571,
-  "2023-01-27": 37584,
-  "2023-01-28": 37593,
-  "2023-01-29": 37619,
-  "2023-01-30": 37649,
-  "2023-01-31": 37649,
-  "2023-02-01": 37678,
-  "2023-02-02": 37698,
-  "2023-02-03": 37709,
-  "2023-02-04": 37723,
-  "2023-02-05": 37739,
-  "2023-02-06": 37754,
-  "2023-02-07": 37768,
-  "2023-02-08": 37795,
-  "2023-02-09": 37795,
-  "2023-02-10": 37817,
-  "2023-02-11": 37831,
-  "2023-02-12": 37872,
-  "2023-02-13": 37892,
-  "2023-02-14": 37892,
-  "2023-02-15": 37913,
-  "2023-02-16": 37928,
-  "2023-02-17": 37935,
-  "2023-02-18": 37958,
-  "2023-02-19": 37963,
-  "2023-02-20": 37972,
-  "2023-02-21": 37985,
-  "2023-02-22": 38002,
-  "2023-02-23": 38015,
-  "2023-02-24": 38027,
-  "2023-02-25": 38047,
-  "2023-02-26": 38058,
-  "2023-02-27": 38088,
-  "2023-02-28": 38088,
-  "2023-03-01": 38095,
-  "2023-03-02": 38100,
-  "2023-03-03": 38116,
-  "2023-03-04": 38128,
-  "2023-03-05": 38152,
-  "2023-03-06": 38152,
-  "2023-03-07": 38163,
-  "2023-03-08": 38164,
-  "2023-03-09": 38177,
-  "2023-03-10": 38198,
-  "2023-03-11": 38204,
-  "2023-03-12": 38219,
-  "2023-03-13": 38231,
-  "2023-03-14": 38238,
-  "2023-03-15": 38250,
-  "2023-03-16": 38261,
-  "2023-03-17": 38261,
-  "2023-03-18": 38272,
-  "2023-03-19": 38280,
-  "2023-03-20": 38289,
-  "2023-03-21": 38302,
-  "2023-03-22": 38316,
-  "2023-03-23": 38326,
-  "2023-03-24": 38326,
-  "2023-03-25": 38348,
-  "2023-03-26": 38360,
-  "2023-03-27": 38366,
-  "2023-03-28": 38376,
-  "2023-03-29": 38399,
-  "2023-03-30": 38405,
-  "2023-03-31": 38405,
-  "2023-04-01": 38411,
-  "2023-04-02": 38418,
-  "2023-04-03": 38434,
-  "2023-04-04": 38442,
-  "2023-04-05": 38453,
-  "2023-04-06": 38460,
-  "2023-04-07": 38469,
-  "2023-04-09": 38484,
-  "2023-04-10": 38495,
-  "2023-04-11": 38521,
-  "2023-04-12": 38521,
-  "2023-04-13": 38530,
-  "2023-04-14": 38547,
-  "2023-04-15": 38559,
-  "2023-04-16": 38565,
-  "2023-04-17": 38579,
-  "2023-04-18": 38596,
-  "2023-04-19": 38628,
-  "2023-04-20": 38639,
-  "2023-04-21": 38659,
-  "2023-04-22": 38680,
-  "2023-04-23": 38697,
-  "2023-04-24": 38716,
-  "2023-04-25": 38721,
-  "2023-04-26": 38735,
-  "2023-04-27": 38752,
-  "2023-04-28": 38760,
-  "2023-04-29": 38768,
-  "2023-04-30": 38779,
-  "2023-05-01": 38786,
-  "2023-05-02": 38799,
-  "2023-05-03": 38813,
-  "2023-05-04": 38827,
-  "2023-05-05": 38834,
-  "2023-05-06": 38846,
-  "2023-05-07": 38862,
-  "2023-05-08": 38874,
-  "2023-05-09": 38878,
-  "2023-05-10": 38887,
-  "2023-05-11": 38899,
-  "2023-05-12": 38907,
-  "2023-05-13": 38922,
-  "2023-05-14": 38933,
-  "2023-05-15": 38941,
-  "2023-05-16": 38955,
-  "2023-05-17": 38960,
-  "2023-05-18": 38972,
-  "2023-05-19": 38993,
-  "2023-05-20": 39037,
-  "2023-05-21": 39037,
-  "2023-05-22": 39037,
-  "2023-05-23": 39068,
-  "2023-05-24": 39085,
-  "2023-05-25": 39086,
-  "2023-05-26": 39097,
-  "2023-05-27": 39108,
-  "2023-05-28": 39125,
-  "2023-05-29": 39125,
-  "2023-05-30": 39145,
-  "2023-05-31": 39152,
-  "2023-06-01": 39167,
-  "2023-06-02": 39171,
-  "2023-06-03": 39171,
-  "2023-06-04": 39182,
-  "2023-06-05": 39191,
-  "2023-06-06": 39199,
-  "2023-06-07": 39219,
-  "2023-06-08": 39240,
-  "2023-06-09": 39252,
-  "2023-06-10": 39267,
-  "2023-06-11": 39282,
-  "2023-06-12": 39299,
-  "2023-06-13": 39303,
-  "2023-06-14": 39317,
-  "2023-06-15": 39326,
-  "2023-06-16": 39335,
-  "2023-06-17": 39344,
-  "2023-06-18": 39361,
-  "2023-06-19": 39368,
-  "2023-06-20": 39375,
-  "2023-06-21": 39383,
-  "2023-06-22": 39394,
-  "2023-06-23": 39405,
-  "2023-06-24": 39416,
-  "2023-06-25": 39422,
-  "2023-06-26": 39436,
-  "2023-06-27": 39445,
-  "2023-06-28": 39465,
-  "2023-06-29": 39476,
-  "2023-06-30": 39495,
-  "2023-07-01": 39518,
-  "2023-07-02": 39518,
-  "2023-07-03": 39531,
-  "2023-07-04": 39551,
-  "2023-07-05": 39566,
-  "2023-07-06": 39585,
-  "2023-07-07": 39585,
-  "2023-07-08": 39598,
-  "2023-07-09": 39607,
-  "2023-07-10": 39614,
-  "2023-07-11": 39622,
-  "2023-07-12": 39634,
-  "2023-07-13": 39645,
-  "2023-07-14": 39659,
-  "2023-07-15": 39671,
-  "2023-07-16": 39695,
-  "2023-07-17": 39708,
-  "2023-07-18": 39724,
-  "2023-07-19": 39741,
-  "2023-07-20": 39749,
-  "2023-07-21": 39765,
-  "2023-07-22": 39792,
-  "2023-07-23": 39815,
-  "2023-07-24": 39824,
-  "2023-07-25": 39839,
-  "2023-07-26": 39854,
-  "2023-07-27": 39868,
-  "2023-07-28": 39870,
-  "2023-07-29": 39881,
-  "2023-07-30": 39887,
-  "2023-07-31": 39896,
-  "2023-08-01": 39912,
-  "2023-08-02": 39926,
-  "2023-08-03": 39937,
-  "2023-08-04": 39954,
-  "2023-08-05": 39967,
-  "2023-08-06": 39995,
-  "2023-08-07": 39995,
-  "2023-08-08": 40002,
-  "2023-08-09": 40010,
-  "2023-08-10": 40024,
-  "2023-08-11": 40028,
-  "2023-08-12": 40041,
-  "2023-08-13": 40051,
-  "2023-08-14": 40062,
-  "2023-08-15": 40084,
-  "2023-08-16": 40084,
-  "2023-08-17": 40095,
-  "2023-08-18": 40109,
-  "2023-08-19": 40120,
-  "2023-08-20": 40133,
-  "2023-08-21": 40161,
-  "2023-08-22": 40170,
-  "2023-08-23": 40181,
-  "2023-08-24": 40201,
-  "2023-08-25": 40211,
-  "2023-08-26": 40222,
-  "2023-08-27": 40239,
-  "2023-08-28": 40252,
-  "2023-08-29": 40262,
-  "2023-08-30": 40275,
-  "2023-08-31": 40288,
-  "2023-09-01": 40324,
-  "2023-09-02": 40324,
-  "2023-09-03": 40338,
-  "2023-09-04": 40366,
-  "2023-09-05": 40384,
-  "2023-09-06": 40409,
-  "2023-09-07": 40425,
-  "2023-09-08": 40457,
-  "2023-09-09": 40483,
-  "2023-09-10": 40504,
-  "2023-09-11": 40533,
-  "2023-09-12": 40544,
-  "2023-09-13": 40588,
-  "2023-09-14": 40596,
-  "2023-09-15": 40620,
-  "2023-09-16": 40637,
-  "2023-09-17": 40663,
-  "2023-09-18": 40691,
-  "2023-09-19": 40712,
-  "2023-09-20": 40727,
-  "2023-09-21": 40744,
-  "2023-09-22": 40776,
-  "2023-09-23": 40805,
-  "2023-09-24": 40838,
-  "2023-09-25": 40869,
-  "2023-09-26": 40906,
-  "2023-09-27": 40927,
-  "2023-09-28": 40951,
-  "2023-09-29": 40968,
-  "2023-09-30": 40997,
-  "2023-10-01": 41017,
-  "2023-10-02": 41039,
-  "2023-10-03": 41062,
-  "2023-10-04": 41079,
-  "2023-10-05": 41098,
-  "2023-10-06": 41122,
-  "2023-10-07": 41147,
-  "2023-10-08": 41162,
-  "2023-10-09": 41189,
-  "2023-10-10": 41208,
-  "2023-10-11": 41241,
-  "2023-10-12": 41241,
-  "2023-10-13": 41252,
-  "2023-10-14": 41276,
-  "2023-10-15": 41309,
-  "2023-10-16": 41337,
-  "2023-10-17": 41353,
-  "2023-10-18": 41365,
-  "2023-10-19": 41384,
-  "2023-10-20": 41413,
-  "2023-10-21": 41432,
-  "2023-10-22": 41466,
-  "2023-10-23": 41485,
-  "2023-10-24": 41506,
-  "2023-10-25": 41527,
-  "2023-10-26": 41538,
-  "2023-10-27": 41546,
-  "2023-10-28": 41576,
-  "2023-10-29": 41595,
-  "2023-10-30": 41629,
-  "2023-10-31": 41629,
-  "2023-11-01": 41648,
-  "2023-11-02": 41675,
-  "2023-11-03": 41695,
-  "2023-11-04": 41717,
-  "2023-11-05": 41744,
-  "2023-11-06": 41769,
-  "2023-11-07": 41795,
-  "2023-11-08": 41809,
-  "2023-11-09": 41830,
-  "2023-11-10": 41857,
-  "2023-11-11": 41890,
-  "2023-11-12": 41920,
-  "2023-11-13": 41940,
-  "2023-11-14": 41961,
-  "2023-11-15": 41961,
-  "2023-11-16": 41998,
-  "2023-11-17": 42030,
-  "2023-11-18": 42030,
-  "2023-11-19": 42069,
-  "2023-11-20": 42095,
-  "2023-11-21": 42123,
-  "2023-11-22": 42150,
-  "2023-11-23": 42178,
-  "2023-11-24": 42198,
-  "2023-11-25": 42215,
-  "2023-11-26": 42236,
-  "2023-11-27": 42253,
-  "2023-11-28": 42263,
-  "2023-11-29": 42310,
-  "2023-11-30": 42310,
-  "2023-12-01": 42327,
-  "2023-12-02": 42352,
-  "2023-12-03": 42377,
-  "2023-12-04": 42400,
-  "2023-12-05": 42431,
-  "2023-12-06": 42449,
-  "2023-12-07": 42472,
-  "2023-12-08": 42485,
-  "2023-12-09": 42496,
-  "2023-12-10": 42506,
-  "2023-12-11": 42518,
-  "2023-12-12": 42523,
-  "2023-12-13": 42532,
-  "2023-12-14": 42551,
-  "2023-12-15": 42554,
-  "2023-12-16": 42570,
-  "2023-12-17": 42583,
-  "2023-12-18": 42589,
-  "2023-12-19": 42599,
-  "2023-12-20": 42608,
-  "2023-12-21": 42616,
-  "2023-12-22": 42625,
-  "2023-12-23": 42628,
-  "2023-12-24": 42640,
-  "2023-12-25": 42652,
-  "2023-12-26": 42652,
-  "2023-12-27": 42660,
-  "2023-12-30": 42700,
-  "2023-12-31": 42720,
-  "2024-01-01": 42730,
-  "2024-01-02": 42734,
-  "2024-01-03": 42746
+  "2024-01-17": 42877,
+  "date_first_scraped": "2022-04-20",
+  "description": "Releases from the legendary label.",
+  "name": "Legendary Labels: Verve Records",
+  "tracks": [
+    {
+      "album": {
+        "name": "Buddy Defranco And Oscar Peterson Play George Gershwin",
+        "url": "https://open.spotify.com/album/0D8KgxxJoVSrZe3XVPzrC3"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        },
+        {
+          "name": "Buddy DeFranco",
+          "url": "https://open.spotify.com/artist/4PGmuM1NRpb2AynvthlC6y"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261573,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/3MDM8xFeOPmTQgmV5mJUqB"
+    },
+    {
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334333,
+      "name": "A Night In Tunisia",
+      "url": "https://open.spotify.com/track/5fxJzPPvuvdhHypgme9cVX"
+    },
+    {
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "A Simple Tune",
+      "url": "https://open.spotify.com/track/7yYPygAHXo8HlJjqFJHxjb"
+    },
+    {
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353026,
+      "name": "Ad Lib Blues",
+      "url": "https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+    },
+    {
+      "album": {
+        "name": "Helen Merrill With Strings",
+        "url": "https://open.spotify.com/album/1ZCXk8phZLNQSpOOMhIbWG"
+      },
+      "artists": [
+        {
+          "name": "Helen Merrill",
+          "url": "https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/7G7aecTWvlnJoLUJi7tn7f"
+    },
+    {
+      "album": {
+        "name": "The Lionel Hampton Quintet",
+        "url": "https://open.spotify.com/album/5YNhUFeTfMrXuXRGGobACh"
+      },
+      "artists": [
+        {
+          "name": "Lionel Hampton Quintet",
+          "url": "https://open.spotify.com/artist/6g0oXT50l2WJk1ggy7Hsnd"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382773,
+      "name": "April In Paris",
+      "url": "https://open.spotify.com/track/2sTwe8pA0AnegYBPETYl54"
+    },
+    {
+      "album": {
+        "name": "Bashin' - The Unpredictable Jimmy Smith (Expanded Edition)",
+        "url": "https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373800,
+      "name": "Bashin'",
+      "url": "https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI"
+    },
+    {
+      "album": {
+        "name": "Breeze From The East",
+        "url": "https://open.spotify.com/album/3VUnIk2AAjvnUb4N8SI1WY"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192200,
+      "name": "Black Orchid",
+      "url": "https://open.spotify.com/track/1Xrlr0CvpV1dFakpGJDzLI"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/5aMjgZfUjvHrG23l5fIM4W"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189346,
+      "name": "BR Blues",
+      "url": "https://open.spotify.com/track/6xFQq4wY6YODELrMwB2npk"
+    },
+    {
+      "album": {
+        "name": "Family",
+        "url": "https://open.spotify.com/album/2IO0hnGQwsgLU9INxaRPeU"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "Brian's Bounce",
+      "url": "https://open.spotify.com/track/59zZ0qR1n8rbNwMIy3G922"
+    },
+    {
+      "album": {
+        "name": "You Gotta Pay The Band",
+        "url": "https://open.spotify.com/album/46Nud1h9wn7KUqRKGtI0MP"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405226,
+      "name": "Brother? Can You Spare A Dime?",
+      "url": "https://open.spotify.com/track/6Fohf2UjKz9AJOKKw7RN0e"
+    },
+    {
+      "album": {
+        "name": "Tequila (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7DGv1MKlPZrLkP0HCSDm8I"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Bumpin' On Sunset",
+      "url": "https://open.spotify.com/track/1yxJK6q9oymWO3vjbPCYmp"
+    },
+    {
+      "album": {
+        "name": "Ben Webster Meets Oscar Peterson",
+        "url": "https://open.spotify.com/album/52vxvueV32JO6tZHaSojRZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402533,
+      "name": "Bye Bye Blackbird",
+      "url": "https://open.spotify.com/track/41QzbYkCxCe5MgnK1SQdzi"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan",
+        "url": "https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich And His Sextet",
+          "url": "https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580573,
+      "name": "Caravan",
+      "url": "https://open.spotify.com/track/13JH84neRa4hNDZwrdMGBD"
+    },
+    {
+      "album": {
+        "name": "Fred Astaire Sings & Swings Irving Berlin",
+        "url": "https://open.spotify.com/album/5eOvyKrONyccUFoW0Dh926"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338826,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/1h3X4QybzSWb7XaokCC6iF"
+    },
+    {
+      "album": {
+        "name": "The Astaire Story, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/11C7bWz8k2wmAWj62z4PuT"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340640,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/5cMEItqDE5BjJrtDXPtMmM"
+    },
+    {
+      "album": {
+        "name": "Standards (Great Songs/Great Performances)",
+        "url": "https://open.spotify.com/album/7LJolCKJtA6YRwUX72POZ5"
+      },
+      "artists": [
+        {
+          "name": "Fred Astaire",
+          "url": "https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 341306,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0zEI7Mu06wLdK0WRZRVek9"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/3RlSNWZozZWOjSLvyjAd3l"
+    },
+    {
+      "album": {
+        "name": "Wholly Earth",
+        "url": "https://open.spotify.com/album/4eojsgohs6cXhmjtekufUE"
+      },
+      "artists": [
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397160,
+      "name": "Conversation With A Baby",
+      "url": "https://open.spotify.com/track/0cPMVEgQVpm6m4uinaydQE"
+    },
+    {
+      "album": {
+        "name": "Jo\u00e3o Gilberto: Hits & Rarities",
+        "url": "https://open.spotify.com/album/2oOfYdGzP20W6CslQLIo69"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 253706,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/4BtTLDkEaq14DDKZufoB2H"
+    },
+    {
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 254666,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/4SrJyRdyHYxxkcVMQ3QkGE"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256560,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/0Wh99eifNTNqDFRtzWhCE2"
+    },
+    {
+      "album": {
+        "name": "Getz / Gilberto",
+        "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256580,
+      "name": "Corcovado (Quiet Nights Of Quiet Stars)",
+      "url": "https://open.spotify.com/track/3HYnrwZQzPgGZ1mBEhIvvc"
+    },
+    {
+      "album": {
+        "name": "Distractions",
+        "url": "https://open.spotify.com/album/1tTj6jyy6LbOsio9saFf9L"
+      },
+      "artists": [
+        {
+          "name": "The RH Factor",
+          "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143280,
+      "name": "Crazy Race",
+      "url": "https://open.spotify.com/track/4XyKqXYeL0FBPFbDrXLvJZ"
+    },
+    {
+      "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349080,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/0aOH62uqDzuvCvN2jdVtZs"
+    },
+    {
+      "album": {
+        "name": "Tribes Vibes And Scribes",
+        "url": "https://open.spotify.com/album/6gKDnpWffFsepGJFu5BIDE"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319333,
+      "name": "Don't You Worry 'Bout a Thing",
+      "url": "https://open.spotify.com/track/6W0tadR4h853lh9emTqwyp"
+    },
+    {
+      "album": {
+        "name": "Tribes Vibes And Scribes",
+        "url": "https://open.spotify.com/album/3Z75r95PxCWGB82ueJvY1A"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 319333,
+      "name": "Don't You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/7KDCuqrHJ66MGogGrdFj4e"
+    },
+    {
+      "album": {
+        "name": "The Decca Singles 1949-1958",
+        "url": "https://open.spotify.com/album/4PF4AAZ8f5stId2e5dSkE1"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Dream A Little Dream Of Me",
+      "url": "https://open.spotify.com/track/4ps03HgH3kNBA91PjRQlkQ"
+    },
+    {
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209146,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
+    },
+    {
+      "album": {
+        "name": "A Night Out With Verve",
+        "url": "https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 348960,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/1t4Z3GbCUKXwqThEdgtQMI"
+    },
+    {
+      "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345920,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
+    },
+    {
+      "album": {
+        "name": "A Night Out With Verve",
+        "url": "https://open.spotify.com/album/5IMCnEc2EZAKFrfKlkVcUO"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 348960,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/7tcRiZfucNQGyfrmH5HZIx"
+    },
+    {
+      "album": {
+        "name": "Double Rainbow",
+        "url": "https://open.spotify.com/album/7a8Zs0ucylEHLa0kPcpPtH"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284133,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/0E0EAgEgdVDqzPtouCOqQk"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299066,
+      "name": "First Wish",
+      "url": "https://open.spotify.com/track/3vOXI61BAwIaUDJG4E6Oq6"
+    },
+    {
+      "album": {
+        "name": "Smokin' At The Half Note (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2frSEIQat4tSS4nCcrW0Hy"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402946,
+      "name": "Four On Six",
+      "url": "https://open.spotify.com/track/5QdyYHg2QnrPC1lOiRkZBC"
+    },
+    {
+      "album": {
+        "name": "Smokin' At The Half Note",
+        "url": "https://open.spotify.com/album/6kkXNkmh8FfOvBOvP4U2VD"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 405506,
+      "name": "Four On Six",
+      "url": "https://open.spotify.com/track/10XhGrvv6UcKUEwZwKsWRr"
+    },
+    {
+      "album": {
+        "name": "Movin\u2019: The Complete Verve Recordings",
+        "url": "https://open.spotify.com/album/5h5JxS0mGPX109KLRstyg5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        },
+        {
+          "name": "Wynton Kelly Trio",
+          "url": "https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 405560,
+      "name": "Four On Six",
+      "url": "https://open.spotify.com/track/4StMV6L5Wmg9I6wc3aMPxA"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "Funky Broadway",
+      "url": "https://open.spotify.com/track/2CAgx55oNmNRUjC1XKNDe4"
+    },
+    {
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330760,
+      "name": "Gettin' To It",
+      "url": "https://open.spotify.com/track/3oV49QXWetJyyp5dKno5wt"
+    },
+    {
+      "album": {
+        "name": "Guitar Forms (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251026,
+      "name": "Greensleeves",
+      "url": "https://open.spotify.com/track/0H1Ps1YpObdbhZOF7DLWId"
+    },
+    {
+      "album": {
+        "name": "Birks Works: The Verve Big-Band Sessions",
+        "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie Sextet",
+          "url": "https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175800,
+      "name": "I Can't Get Started",
+      "url": "https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1"
+    },
+    {
+      "album": {
+        "name": "The Audience With Betty Carter (Live)",
+        "url": "https://open.spotify.com/album/19sY1QgcDOQLe8MpHOfYTx"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "I Could Write A Book - Live At Bradshaw's Great American Music Hall, San Francisco/1979",
+      "url": "https://open.spotify.com/track/2MdYSm0alrxtQ6jRFjtoSC"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306173,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c"
+    },
+    {
+      "album": {
+        "name": "Calm Jazz",
+        "url": "https://open.spotify.com/album/37mbpCd2VMUeD7xMtU5T6u"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 306226,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/0oHGZrx8ZfxfU2QEOPqNig"
+    },
+    {
+      "album": {
+        "name": "Night Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306226,
+      "name": "I Got It Bad And That Ain't Good",
+      "url": "https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "album": {
+        "name": "The Urbane Jazz Of Roy Eldridge And Benny Carter",
+        "url": "https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343893,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv"
+    },
+    {
+      "album": {
+        "name": "New Jazz Sounds: The Benny Carter Verve Story",
+        "url": "https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 343893,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/5EJTEZfm0Zj8bOK4uxQVFJ"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 346360,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/7eqSzIGV9rWdheW84WUuiy"
+    },
+    {
+      "album": {
+        "name": "A Night Out With Verve",
+        "url": "https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347933,
+      "name": "I Still Love Him So",
+      "url": "https://open.spotify.com/track/5GXB4PGdmjlz6ckQmY8eDc"
+    },
+    {
+      "album": {
+        "name": "The Genius Of Coleman Hawkins (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh"
+    },
+    {
+      "album": {
+        "name": "A Night Out With Verve",
+        "url": "https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0"
+      },
+      "artists": [
+        {
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220973,
+      "name": "I Wished On The Moon - Stereo Version",
+      "url": "https://open.spotify.com/track/48wey0ZaWxQao8e605Aqe5"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Singles",
+        "url": "https://open.spotify.com/album/2gmllgULrjkPa1QSZ2mPwd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Smith",
+          "url": "https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6"
+        },
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        },
+        {
+          "name": "Grady Tate",
+          "url": "https://open.spotify.com/artist/1T7xYP9ZRJytj25VAAdsB9"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "I'll Close My Eyes",
+      "url": "https://open.spotify.com/track/4qs7B3M5OGp5HkRCAwt36N"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/3MNxcdz3SFeMfX4KunRsjZ"
+    },
+    {
+      "album": {
+        "name": "Ella Fitzgerald Sings The Duke Ellington Song Book",
+        "url": "https://open.spotify.com/album/25eBsQypjHakiWu1OnPHCX"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "In A Sentimental Mood",
+      "url": "https://open.spotify.com/track/726OIMOZ6uDlvGsdUbbazS"
+    },
+    {
+      "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "album": {
+        "name": "Worth Waiting For",
+        "url": "https://open.spotify.com/album/4kM5RiMozOGvrkvzPLYxvR"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262706,
+      "name": "Jazzery",
+      "url": "https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7"
+    },
+    {
+      "album": {
+        "name": "That's All - Autumn Jazz",
+        "url": "https://open.spotify.com/album/2tTChkbyHYp1q3lABfzTzI"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/0dTL1Z59zGmYDk7unJlqkP"
+    },
+    {
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251093,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/21UJyo1YGUlm0G8BpaljTf"
+    },
+    {
+      "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/5rdcvADmhNCer3a6JC76Sa"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255000,
+      "name": "Jive At Six",
+      "url": "https://open.spotify.com/track/1uaHEXxrsFLORmjEDrMNFU"
+    },
+    {
+      "album": {
+        "name": "Songs For Distingu\u00e9 Lovers",
+        "url": "https://open.spotify.com/album/4aVrAD83svetEEqiANmvmw"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333200,
+      "name": "Just One Of Those Things - Take 8 - Master Take",
+      "url": "https://open.spotify.com/track/434Icqe1n6rfIoOSwhrYbn"
+    },
+    {
+      "album": {
+        "name": "The Individualism Of Gil Evans",
+        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395293,
+      "name": "Las Vegas Tango",
+      "url": "https://open.spotify.com/track/1IEbtXrHgN37lTQi9Byx6g"
+    },
+    {
+      "album": {
+        "name": "Lester Swings",
+        "url": "https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Lester Swings",
+      "url": "https://open.spotify.com/track/2LYklTGasuPu3GbcEDUuNa"
+    },
+    {
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258959,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ"
+    },
+    {
+      "album": {
+        "name": "Empathy",
+        "url": "https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270666,
+      "name": "Let's Go Back To The Waltz",
+      "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
+    },
+    {
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "Lullaby In Rhythm",
+      "url": "https://open.spotify.com/track/1tXiZvtgg9XqlB86x4Ukqj"
+    },
+    {
+      "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259706,
+      "name": "Manhattan",
+      "url": "https://open.spotify.com/track/6ReTCbOAUbnKKVBY0ckJMS"
+    },
+    {
+      "album": {
+        "name": "High Life",
+        "url": "https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312133,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI"
+    },
+    {
+      "album": {
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+    },
+    {
+      "album": {
+        "name": "The Argo, Verve, And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/4fI5ygF8VwCQWwzGIxUiE2"
+      },
+      "artists": [
+        {
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/6yQKG13aXOwh5MlafgEmXk"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333800,
+      "name": "Moonlight (Claro de Luna)",
+      "url": "https://open.spotify.com/track/538qa5HsgLRVkRqTKBbuDn"
+    },
+    {
+      "album": {
+        "name": "Movin' Wes",
+        "url": "https://open.spotify.com/album/0dJZSz1W74REVpVeedPvS5"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Movin' Wes - Pt. 1",
+      "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
+      "album": {
+        "name": "Let It Be Me (Live)",
+        "url": "https://open.spotify.com/album/3jF9Zz9QlwIMgNvSaY8KW9"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "My Baby Just Cares For Me - Live At Vine St. Bar & Grill, 1987",
+      "url": "https://open.spotify.com/track/07Xrizjzvky8DVmXUGsQrS"
+    },
+    {
+      "album": {
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120813,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/00GTtlXO556jzueCinWmu9"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
+    },
+    {
+      "album": {
+        "name": "Buddy And Sweets",
+        "url": "https://open.spotify.com/album/2vkrql6FPjZeTADB3om0kc"
+      },
+      "artists": [
+        {
+          "name": "Buddy Rich",
+          "url": "https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs"
+        },
+        {
+          "name": "Harry \"Sweets\" Edison",
+          "url": "https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244706,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/0CslMMe56XfdYTTdl0WxVU"
+    },
+    {
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165080,
+      "name": "Nice Work If You Can Get It",
+      "url": "https://open.spotify.com/track/0voKz9hHJcNGiY3KtNRl4I"
+    },
+    {
+      "album": {
+        "name": "Stan Getz & Bill Evans",
+        "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405853,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340893,
+      "name": "Noche De Ronda",
+      "url": "https://open.spotify.com/track/65KxxZPi752Fd6cqwiFzHx"
+    },
+    {
+      "album": {
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/15xN5nr2KFFScKLjVxwIgd"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484293,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4VqSbmpTxOgRU2MQoa6CSC"
+    },
+    {
+      "album": {
+        "name": "Jazz Volume: Herbie Hancock",
+        "url": "https://open.spotify.com/album/3lCwfnhFxg2TRZow4x555z"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-14",
+      "duration_ms": 484786,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4sZAoJfCLnnoULnkcA8lwa"
+    },
+    {
+      "album": {
+        "name": "Herbie Hancock: Hits & Rarities",
+        "url": "https://open.spotify.com/album/01wO4zYqruKFxPiSlfHQNY"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 484786,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/78n1Z9nq1KiFTaXfqDQaBD"
+    },
+    {
+      "album": {
+        "name": "The New Standard",
+        "url": "https://open.spotify.com/album/1eyEiGNcBUytqA9OgU0dSp"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 487026,
+      "name": "Norwegian Wood",
+      "url": "https://open.spotify.com/track/4sHqA2YvJiPsOQbP63LtbW"
+    },
+    {
+      "album": {
+        "name": "Sonny Side Up",
+        "url": "https://open.spotify.com/album/2PUVdwOzX6B6FT9iGfSuJY"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340960,
+      "name": "On The Sunny Side Of The Street",
+      "url": "https://open.spotify.com/track/6vBgf2IELAFk4yt9eCaz0G"
+    },
+    {
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254533,
+      "name": "People Get Ready",
+      "url": "https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc"
+    },
+    {
+      "album": {
+        "name": "Funky Jazz",
+        "url": "https://open.spotify.com/album/4zq8qQeFjWLO6AhYtYKnWE"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 318573,
+      "name": "Pocket City",
+      "url": "https://open.spotify.com/track/1GP6g0e5Y4J9XFX7U7s3I4"
+    },
+    {
+      "album": {
+        "name": "Pocket City",
+        "url": "https://open.spotify.com/album/5ScPG1XIrzq2CoJyVRru7C"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318573,
+      "name": "Pocket City",
+      "url": "https://open.spotify.com/track/1s3h7rpQMB1Sm2SuQDXnIp"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Jeff Lorber",
+        "url": "https://open.spotify.com/album/1Dja6xdLXw5w6EjvEdKLDg"
+      },
+      "artists": [
+        {
+          "name": "Jeff Lorber",
+          "url": "https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262146,
+      "name": "Reverend Green",
+      "url": "https://open.spotify.com/track/58u2WAEAtgOeWSTeTRAPIW"
+    },
+    {
+      "album": {
+        "name": "River: The Joni Letters (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3POVQYTvE1DYjlLWulZpTR"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        },
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324960,
+      "name": "River",
+      "url": "https://open.spotify.com/track/6pQ7nunBpQc5In5wBl2ZhK"
+    },
+    {
+      "album": {
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
+    },
+    {
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151533,
+      "name": "Ruint",
+      "url": "https://open.spotify.com/track/1WIabt99ZdD7c8ZHg9mkJO"
+    },
+    {
+      "album": {
+        "name": "Samba Para Dos",
+        "url": "https://open.spotify.com/album/1VHvivZcnwF5NoENyrP0hM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Schifrin",
+          "url": "https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 606413,
+      "name": "Samba Para Dos",
+      "url": "https://open.spotify.com/track/2T2Q1jDvjYRfxI4thF8v08"
+    },
+    {
+      "album": {
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283626,
+      "name": "Samba Triste",
+      "url": "https://open.spotify.com/track/6y2YxIUeM9uMgAINRnb11K"
+    },
+    {
+      "album": {
+        "name": "Flip Wails: The Best Of The Verve Years",
+        "url": "https://open.spotify.com/album/3vfoDxP9LuKoxJLxT4HV5x"
+      },
+      "artists": [
+        {
+          "name": "Flip Phillips",
+          "url": "https://open.spotify.com/artist/6k3DSHCSh4p2EuIqm9hIU6"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Singin' In The Rain",
+      "url": "https://open.spotify.com/track/4KMG8smP4ISXZzEeMNgk6W"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207600,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
+    },
+    {
+      "album": {
+        "name": "The Complete Verve Studio Sessions",
+        "url": "https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2"
+      },
+      "artists": [
+        {
+          "name": "Roy Eldridge",
+          "url": "https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Somebody Loves Me",
+      "url": "https://open.spotify.com/track/30VONnonLwftL8WeCopyLt"
+    },
+    {
+      "album": {
+        "name": "Soul Sauce",
+        "url": "https://open.spotify.com/album/1F3ZdAeTsfMzczAZnbwvUC"
+      },
+      "artists": [
+        {
+          "name": "Cal Tjader",
+          "url": "https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147266,
+      "name": "Soul Sauce",
+      "url": "https://open.spotify.com/track/7rs02j1JLO1fZgOPrkuy0D"
+    },
+    {
+      "album": {
+        "name": "Gettin' To It",
+        "url": "https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2"
+      },
+      "artists": [
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323306,
+      "name": "Stars Fell On Alabama",
+      "url": "https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc"
+    },
+    {
+      "album": {
+        "name": "Conversations With Myself",
+        "url": "https://open.spotify.com/album/0ywH1xIEZYFlvO3cSQbNbv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290466,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/1ndQYlSm6jKKAKlQS8vwmd"
+    },
+    {
+      "album": {
+        "name": "A Generation Ago Today",
+        "url": "https://open.spotify.com/album/1L4xE6y5n2qKfYqJCoqzLf"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Stompin' At The Savoy",
+      "url": "https://open.spotify.com/track/4Skc87uKf4cHqEYbnr56La"
+    },
+    {
+      "album": {
+        "name": "Rain Forest",
+        "url": "https://open.spotify.com/album/1a6EYcDiOwkljTR4coPlNv"
+      },
+      "artists": [
+        {
+          "name": "Walter Wanderley",
+          "url": "https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186960,
+      "name": "Summer Samba (So Nice)",
+      "url": "https://open.spotify.com/track/3EpJ36yrwkPvlUXKeQa7ca"
+    },
+    {
+      "album": {
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167121,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/6cU4urQRUieTBH08yKHAqj"
+    },
+    {
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176360,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/4SsYEBMS6glreI8XXAtVMw"
+    },
+    {
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+    },
+    {
+      "album": {
+        "name": "The Individualism Of Gil Evans",
+        "url": "https://open.spotify.com/album/3dmkH0MnFScU9uB1naCAms"
+      },
+      "artists": [
+        {
+          "name": "Gil Evans",
+          "url": "https://open.spotify.com/artist/7g9DeYASD3RzlT4kDchsQZ"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599333,
+      "name": "The Barbara Song",
+      "url": "https://open.spotify.com/track/1mnhCmPsFNpUxJWKE5J20M"
+    },
+    {
+      "album": {
+        "name": "Getz/Gilberto (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2W6Hvrtg2Zpc9dW4aBDbdP"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320253,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7znjbX9XdoQayIrVNdd50Z"
+    },
+    {
+      "album": {
+        "name": "The Girl From Ipanema - The Bossa Nova Years",
+        "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 321826,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/3898C4AbdbptwYet6547e5"
+    },
+    {
+      "album": {
+        "name": "Relaxing Jazz",
+        "url": "https://open.spotify.com/album/4ULy7VNjcLsgn4wZeihz5Q"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 322040,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/7bk1AEkUMedYDy6uNLk3AE"
+    },
+    {
+      "album": {
+        "name": "Getz / Gilberto",
+        "url": "https://open.spotify.com/album/3JvFflPIx7bB6lJ4qId2Er"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        },
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 324600,
+      "name": "The Girl From Ipanema",
+      "url": "https://open.spotify.com/track/6gfKHUGFBRiGe3bqmnOqFR"
+    },
+    {
+      "album": {
+        "name": "The Look Of Love",
+        "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "The Look Of Love",
+      "url": "https://open.spotify.com/track/3CDHydgW0ssTh59f0jy1y3"
+    },
+    {
+      "album": {
+        "name": "Pleasures Of The Night",
+        "url": "https://open.spotify.com/album/65jikqU2UvCqjLdI1y8baP"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        },
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439866,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/4ulKHoPTqwSvcHCK8SqSCV"
+    },
+    {
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154306,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/0mcL5G9Bf8SSzqpuQQm1bI"
+    },
+    {
+      "album": {
+        "name": "Boss Tenors: Straight Ahead From Chicago August 1961",
+        "url": "https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv"
+      },
+      "artists": [
+        {
+          "name": "Gene Ammons",
+          "url": "https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK"
+        },
+        {
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394173,
+      "name": "There Is No Greater Love",
+      "url": "https://open.spotify.com/track/372QbYnp7oUWhRCplHNlUN"
+    },
+    {
+      "album": {
+        "name": "Mel Torme: Swings Shubert Alley",
+        "url": "https://open.spotify.com/album/0CEOTjrTaR5vu6GlptfPFE"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        },
+        {
+          "name": "The Marty Paich Orchestra",
+          "url": "https://open.spotify.com/artist/0FAwCZTimDLgBoxY1vyH3p"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245800,
+      "name": "Too Close For Comfort",
+      "url": "https://open.spotify.com/track/5Omijj1Iu3rbEADHsGSpKe"
+    },
+    {
+      "album": {
+        "name": "Quiet",
+        "url": "https://open.spotify.com/album/2j09zfHYYbraNYZIOp5xTz"
+      },
+      "artists": [
+        {
+          "name": "John Scofield",
+          "url": "https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300306,
+      "name": "Tulle",
+      "url": "https://open.spotify.com/track/3eHNOR1GiVYtyuPNr07FOg"
+    },
+    {
+      "album": {
+        "name": "Giblet Gravy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tqkMzsAAFDhOwjGGCkJZJ"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332733,
+      "name": "What's New?",
+      "url": "https://open.spotify.com/track/6rUJjG9w109kXQywBxfPLV"
+    },
+    {
+      "album": {
+        "name": "Anita O'Day And The Three Sounds",
+        "url": "https://open.spotify.com/album/7FocJoTkE5a9i9ngXe4xCX"
+      },
+      "artists": [
+        {
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
+        },
+        {
+          "name": "The Three Sounds",
+          "url": "https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176840,
+      "name": "Whisper Not",
+      "url": "https://open.spotify.com/track/79C7NxcxlBEJcyGHGy6ZMD"
+    },
+    {
+      "album": {
+        "name": "The Lonely One",
+        "url": "https://open.spotify.com/album/4YfyFib1wP3GjBpj2QHkEL"
+      },
+      "artists": [
+        {
+          "name": "Bud Powell",
+          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280053,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/04ctxBgUXc3Tj6I4ufWPSZ"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Chris Botti",
+        "url": "https://open.spotify.com/album/33vfemONdHY85yWu1yjBaD"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277466,
+      "name": "Worlds Outside",
+      "url": "https://open.spotify.com/track/5as828xQewhAy2JBXwakAj"
+    },
+    {
+      "album": {
+        "name": "Louis Armstrong Meets Oscar Peterson (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6P8XQuvUsn5L1xiGJUXLJ0"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385706,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/6ejEeOXB4r7Tda2YJvNpSI"
+    },
+    {
+      "album": {
+        "name": "Side By Side",
+        "url": "https://open.spotify.com/album/24gavJ6O46xWEAW2nDJX1m"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hodges & His Orchestra",
+          "url": "https://open.spotify.com/artist/586u2f7H540oCefUIazflT"
+        }
+      ],
+      "date_added": "2019-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351266,
+      "name": "You Need To Rock",
+      "url": "https://open.spotify.com/track/3lta7AUv6eu5QSjiGPqKYz"
+    },
+    {
+      "album": {
+        "name": "The Betty Carter Album",
+        "url": "https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg"
+      },
+      "artists": [
+        {
+          "name": "Betty Carter",
+          "url": "https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "You're A Sweetheart",
+      "url": "https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU"
+    },
+    {
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
+    },
+    {
+      "album": {
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
+      },
+      "artists": [
+        {
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "date_added": "2019-10-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138013,
+      "name": "\u00c1gua de Beber",
+      "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX74Skr7pPd2D"
 }

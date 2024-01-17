@@ -1,226 +1,391 @@
 {
-  "2023-05-23": 0,
-  "2023-05-24": 0,
-  "2023-05-25": 0,
-  "2023-05-26": 0,
-  "2023-05-27": 0,
-  "2023-05-28": 0,
-  "2023-05-29": 0,
-  "2023-05-30": 0,
-  "2023-05-31": 0,
-  "2023-06-01": 0,
-  "2023-06-02": 0,
-  "2023-06-03": 0,
-  "2023-06-04": 0,
-  "2023-06-05": 0,
-  "2023-06-06": 0,
-  "2023-06-07": 0,
-  "2023-06-08": 0,
-  "2023-06-09": 0,
-  "2023-06-10": 0,
-  "2023-06-11": 0,
-  "2023-06-12": 0,
-  "2023-06-13": 0,
-  "2023-06-14": 0,
-  "2023-06-15": 0,
-  "2023-06-16": 0,
-  "2023-06-17": 0,
-  "2023-06-18": 0,
-  "2023-06-19": 0,
-  "2023-06-20": 0,
-  "2023-06-21": 0,
-  "2023-06-22": 0,
-  "2023-06-23": 0,
-  "2023-06-24": 0,
-  "2023-06-25": 0,
-  "2023-06-26": 0,
-  "2023-06-27": 0,
-  "2023-06-28": 0,
-  "2023-06-29": 0,
-  "2023-06-30": 0,
-  "2023-07-01": 0,
-  "2023-07-02": 0,
-  "2023-07-03": 0,
-  "2023-07-04": 0,
-  "2023-07-05": 0,
-  "2023-07-06": 0,
-  "2023-07-07": 0,
-  "2023-07-08": 0,
-  "2023-07-09": 0,
-  "2023-07-10": 0,
-  "2023-07-11": 0,
-  "2023-07-12": 0,
-  "2023-07-13": 0,
-  "2023-07-14": 0,
-  "2023-07-15": 0,
-  "2023-07-16": 0,
-  "2023-07-17": 0,
-  "2023-07-18": 0,
-  "2023-07-19": 0,
-  "2023-07-20": 0,
-  "2023-07-21": 0,
-  "2023-07-22": 0,
-  "2023-07-23": 0,
-  "2023-07-24": 0,
-  "2023-07-25": 0,
-  "2023-07-26": 0,
-  "2023-07-27": 0,
-  "2023-07-28": 0,
-  "2023-07-29": 0,
-  "2023-07-30": 0,
-  "2023-07-31": 0,
-  "2023-08-01": 0,
-  "2023-08-02": 0,
-  "2023-08-03": 0,
-  "2023-08-04": 0,
-  "2023-08-05": 0,
-  "2023-08-06": 0,
-  "2023-08-07": 0,
-  "2023-08-08": 0,
-  "2023-08-09": 0,
-  "2023-08-10": 0,
-  "2023-08-11": 0,
-  "2023-08-12": 0,
-  "2023-08-13": 0,
-  "2023-08-14": 0,
-  "2023-08-15": 0,
-  "2023-08-16": 0,
-  "2023-08-17": 0,
-  "2023-08-18": 0,
-  "2023-08-19": 0,
-  "2023-08-20": 0,
-  "2023-08-21": 0,
-  "2023-08-22": 0,
-  "2023-08-23": 0,
-  "2023-08-24": 0,
-  "2023-08-25": 0,
-  "2023-08-26": 0,
-  "2023-08-27": 0,
-  "2023-08-28": 0,
-  "2023-08-29": 0,
-  "2023-08-30": 0,
-  "2023-08-31": 0,
-  "2023-09-01": 0,
-  "2023-09-02": 0,
-  "2023-09-03": 0,
-  "2023-09-04": 0,
-  "2023-09-05": 0,
-  "2023-09-06": 0,
-  "2023-09-07": 0,
-  "2023-09-08": 0,
-  "2023-09-09": 0,
-  "2023-09-10": 0,
-  "2023-09-11": 0,
-  "2023-09-12": 0,
-  "2023-09-13": 0,
-  "2023-09-14": 0,
-  "2023-09-15": 0,
-  "2023-09-16": 0,
-  "2023-09-17": 0,
-  "2023-09-18": 0,
-  "2023-09-19": 0,
-  "2023-09-20": 0,
-  "2023-09-21": 0,
-  "2023-09-22": 0,
-  "2023-09-23": 0,
-  "2023-09-24": 0,
-  "2023-09-25": 0,
-  "2023-09-26": 0,
-  "2023-09-27": 0,
-  "2023-09-28": 0,
-  "2023-09-29": 0,
-  "2023-09-30": 0,
-  "2023-10-01": 0,
-  "2023-10-02": 0,
-  "2023-10-03": 0,
-  "2023-10-04": 0,
-  "2023-10-05": 0,
-  "2023-10-06": 0,
-  "2023-10-07": 0,
-  "2023-10-08": 0,
-  "2023-10-09": 0,
-  "2023-10-10": 0,
-  "2023-10-11": 0,
-  "2023-10-12": 0,
-  "2023-10-13": 0,
-  "2023-10-14": 0,
-  "2023-10-15": 0,
-  "2023-10-16": 0,
-  "2023-10-17": 0,
-  "2023-10-18": 0,
-  "2023-10-19": 0,
-  "2023-10-20": 0,
-  "2023-10-21": 0,
-  "2023-10-22": 0,
-  "2023-10-23": 0,
-  "2023-10-24": 0,
-  "2023-10-25": 0,
-  "2023-10-26": 0,
-  "2023-10-27": 0,
-  "2023-10-28": 0,
-  "2023-10-29": 0,
-  "2023-10-30": 0,
-  "2023-10-31": 0,
-  "2023-11-01": 0,
-  "2023-11-02": 0,
-  "2023-11-03": 0,
-  "2023-11-04": 0,
-  "2023-11-05": 0,
-  "2023-11-06": 0,
-  "2023-11-07": 0,
-  "2023-11-08": 0,
-  "2023-11-09": 0,
-  "2023-11-10": 0,
-  "2023-11-11": 0,
-  "2023-11-12": 0,
-  "2023-11-13": 0,
-  "2023-11-14": 0,
-  "2023-11-15": 0,
-  "2023-11-16": 0,
-  "2023-11-17": 0,
-  "2023-11-18": 0,
-  "2023-11-19": 0,
-  "2023-11-20": 0,
-  "2023-11-21": 0,
-  "2023-11-22": 0,
-  "2023-11-23": 0,
-  "2023-11-24": 0,
-  "2023-11-25": 0,
-  "2023-11-26": 0,
-  "2023-11-27": 0,
-  "2023-11-28": 0,
-  "2023-11-29": 0,
-  "2023-11-30": 0,
-  "2023-12-01": 0,
-  "2023-12-02": 0,
-  "2023-12-03": 0,
-  "2023-12-04": 0,
-  "2023-12-05": 0,
-  "2023-12-06": 0,
-  "2023-12-07": 0,
-  "2023-12-08": 0,
-  "2023-12-09": 0,
-  "2023-12-10": 0,
-  "2023-12-11": 0,
-  "2023-12-12": 0,
-  "2023-12-13": 0,
-  "2023-12-14": 0,
-  "2023-12-15": 0,
-  "2023-12-16": 0,
-  "2023-12-17": 0,
-  "2023-12-18": 0,
-  "2023-12-19": 0,
-  "2023-12-20": 0,
-  "2023-12-21": 0,
-  "2023-12-22": 0,
-  "2023-12-23": 0,
-  "2023-12-24": 0,
-  "2023-12-25": 0,
-  "2023-12-26": 0,
-  "2023-12-27": 0,
-  "2023-12-30": 0,
-  "2023-12-31": 0,
-  "2024-01-01": 0,
-  "2024-01-02": 0,
-  "2024-01-03": 0
+  "2024-01-17": 0,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "All the best X-men",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chime",
+        "url": "https://open.spotify.com/album/1etfft6WKY1vsqz3apooRv"
+      },
+      "artists": [
+        {
+          "name": "Dessa",
+          "url": "https://open.spotify.com/artist/2CQAfzpwwaMxj3YNlb4Gbj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "5 out of 6",
+      "url": "https://open.spotify.com/track/2jOy8WRI0EqCYZF2BIDCbe"
+    },
+    {
+      "album": {
+        "name": "Desolation Boulevard",
+        "url": "https://open.spotify.com/album/3PsFboiPeObjAc6gbQHt54"
+      },
+      "artists": [
+        {
+          "name": "Sweet",
+          "url": "https://open.spotify.com/artist/3JaAGmSTpJK35DqWrDUzBz"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246573,
+      "name": "Ballroom Blitz",
+      "url": "https://open.spotify.com/track/3Pu3IChaAoa5EjgUBv5F6x"
+    },
+    {
+      "album": {
+        "name": "Ripely Pine",
+        "url": "https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt"
+      },
+      "artists": [
+        {
+          "name": "Lady Lamb",
+          "url": "https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376826,
+      "name": "Bird Balloons - Remastered",
+      "url": "https://open.spotify.com/track/1aYnwCzvMk1XIlKitpQsWV"
+    },
+    {
+      "album": {
+        "name": "Impeach My Bush",
+        "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "date_added": "2022-10-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235480,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/18fOLsMG8Msf1DEaW0E71K"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/7HKxTNVlkHsfMLhigmhC0I"
+    },
+    {
+      "album": {
+        "name": "The Runaways",
+        "url": "https://open.spotify.com/album/5DVNCzpvDrSEIFiU7hm8ey"
+      },
+      "artists": [
+        {
+          "name": "The Runaways",
+          "url": "https://open.spotify.com/artist/5eTq3PxbOh5vgeRXKNqPyV"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7"
+    },
+    {
+      "album": {
+        "name": "Cop Car",
+        "url": "https://open.spotify.com/album/1IGzUKAM596CnZN0zApFmd"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183554,
+      "name": "Cop Car",
+      "url": "https://open.spotify.com/track/7DLCgotDOZZyiW4cuL1sgn"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Foreigner's God",
+      "url": "https://open.spotify.com/track/094As2ygiOxXxzcyAna3Lk"
+    },
+    {
+      "album": {
+        "name": "Lungs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217546,
+      "name": "Girl With One Eye",
+      "url": "https://open.spotify.com/track/0UdBCetwMDQO7JIhi7Waik"
+    },
+    {
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324498,
+      "name": "hope is a dangerous thing for a woman like me to have - but I have it",
+      "url": "https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93414,
+      "name": "Leader of a New Regime",
+      "url": "https://open.spotify.com/track/2ruVkS2EM4wgpILg5vd7mX"
+    },
+    {
+      "album": {
+        "name": "Lesbian Vampyres From Outer Space",
+        "url": "https://open.spotify.com/album/4LzNXDB14FzfvQ0DzxX0VU"
+      },
+      "artists": [
+        {
+          "name": "Scary Bitches",
+          "url": "https://open.spotify.com/artist/5jKvhXUMiw1OXFEtLNlk1w"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212680,
+      "name": "Lesbian Vampyres From Outer Space",
+      "url": "https://open.spotify.com/track/3lDZlK0YCWCIkI4y9OVboy"
+    },
+    {
+      "album": {
+        "name": "Arrival",
+        "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186426,
+      "name": "Money, Money, Money",
+      "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+    },
+    {
+      "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "date_added": "2023-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220733,
+      "name": "Rasputin - Single Version",
+      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "album": {
+        "name": "Froot",
+        "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256333,
+      "name": "Savages",
+      "url": "https://open.spotify.com/track/3YjH3TIf5SOpFlnqlRdNAE"
+    },
+    {
+      "album": {
+        "name": "Dog Man Star (Remastered)",
+        "url": "https://open.spotify.com/album/1LgpJjBJIRQhkJ01oZR3Cn"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329040,
+      "name": "Still Life (Remastered)",
+      "url": "https://open.spotify.com/track/4A05GesxQIrd690O2uBn7y"
+    },
+    {
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "Take Me Home, Country Roads - Original Version",
+      "url": "https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS"
+    },
+    {
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        },
+        {
+          "name": "The Dap-Kings Horns",
+          "url": "https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196360,
+      "name": "Woman (feat. The Dap-Kings Horns)",
+      "url": "https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/12dhZvNBx9EStStdpVS0g7"
 }

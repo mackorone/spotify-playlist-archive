@@ -1,580 +1,1407 @@
 {
-  "2022-05-30": 193424,
-  "2022-05-31": 193954,
-  "2022-06-01": 194913,
-  "2022-06-02": 194967,
-  "2022-06-03": 195389,
-  "2022-06-04": 196004,
-  "2022-06-05": 196540,
-  "2022-06-06": 197044,
-  "2022-06-07": 197512,
-  "2022-06-08": 198246,
-  "2022-06-09": 198640,
-  "2022-06-10": 199128,
-  "2022-06-11": 199657,
-  "2022-06-12": 200114,
-  "2022-06-13": 200552,
-  "2022-06-14": 201096,
-  "2022-06-15": 201568,
-  "2022-06-16": 202000,
-  "2022-06-17": 202412,
-  "2022-06-18": 202799,
-  "2022-06-19": 203618,
-  "2022-06-20": 203618,
-  "2022-06-21": 204043,
-  "2022-06-22": 204737,
-  "2022-06-23": 204737,
-  "2022-06-24": 205101,
-  "2022-06-25": 205488,
-  "2022-06-26": 205848,
-  "2022-06-27": 206181,
-  "2022-06-28": 206181,
-  "2022-06-29": 206834,
-  "2022-06-30": 207176,
-  "2022-07-01": 207538,
-  "2022-07-02": 207929,
-  "2022-07-03": 208330,
-  "2022-07-04": 208771,
-  "2022-07-05": 209889,
-  "2022-07-06": 210926,
-  "2022-07-07": 211642,
-  "2022-07-08": 212382,
-  "2022-07-09": 213124,
-  "2022-07-10": 213822,
-  "2022-07-11": 214533,
-  "2022-07-12": 215144,
-  "2022-07-13": 215676,
-  "2022-07-14": 216203,
-  "2022-07-15": 216763,
-  "2022-07-16": 217288,
-  "2022-07-17": 217831,
-  "2022-07-18": 218342,
-  "2022-07-19": 218838,
-  "2022-07-20": 219343,
-  "2022-07-21": 219871,
-  "2022-07-22": 220389,
-  "2022-07-23": 220925,
-  "2022-07-24": 221416,
-  "2022-07-25": 221872,
-  "2022-07-26": 222394,
-  "2022-07-27": 222925,
-  "2022-07-28": 223360,
-  "2022-07-29": 223821,
-  "2022-07-30": 224713,
-  "2022-07-31": 224713,
-  "2022-08-01": 225198,
-  "2022-08-02": 226409,
-  "2022-08-03": 226409,
-  "2022-08-04": 226979,
-  "2022-08-05": 227483,
-  "2022-08-06": 228073,
-  "2022-08-07": 228799,
-  "2022-08-08": 229384,
-  "2022-08-09": 229959,
-  "2022-08-10": 230497,
-  "2022-08-11": 231041,
-  "2022-08-12": 231523,
-  "2022-08-13": 232063,
-  "2022-08-14": 232661,
-  "2022-08-15": 233248,
-  "2022-08-16": 233803,
-  "2022-08-17": 234348,
-  "2022-08-18": 234879,
-  "2022-08-19": 235375,
-  "2022-08-20": 235876,
-  "2022-08-21": 236340,
-  "2022-08-22": 236869,
-  "2022-08-23": 237349,
-  "2022-08-24": 237859,
-  "2022-08-25": 238320,
-  "2022-08-26": 238776,
-  "2022-08-27": 239237,
-  "2022-08-28": 239714,
-  "2022-08-29": 240154,
-  "2022-08-30": 240516,
-  "2022-08-31": 240668,
-  "2022-09-01": 240799,
-  "2022-09-02": 241243,
-  "2022-09-03": 241457,
-  "2022-09-04": 241374,
-  "2022-09-05": 241588,
-  "2022-09-06": 241959,
-  "2022-09-07": 242416,
-  "2022-09-09": 243238,
-  "2022-09-10": 243663,
-  "2022-09-11": 244131,
-  "2022-09-12": 244635,
-  "2022-09-13": 245004,
-  "2022-09-15": 245644,
-  "2022-09-16": 246042,
-  "2022-09-17": 246426,
-  "2022-09-18": 246938,
-  "2022-09-19": 247465,
-  "2022-09-20": 247942,
-  "2022-09-21": 248399,
-  "2022-09-22": 248821,
-  "2022-09-23": 249180,
-  "2022-09-24": 249555,
-  "2022-09-25": 249995,
-  "2022-09-26": 250408,
-  "2022-09-27": 250787,
-  "2022-09-28": 251171,
-  "2022-09-29": 251532,
-  "2022-09-30": 251956,
-  "2022-10-01": 252355,
-  "2022-10-02": 252828,
-  "2022-10-03": 253286,
-  "2022-10-04": 253700,
-  "2022-10-05": 254089,
-  "2022-10-06": 254501,
-  "2022-10-07": 254927,
-  "2022-10-08": 255446,
-  "2022-10-09": 256339,
-  "2022-10-10": 256441,
-  "2022-10-11": 256881,
-  "2022-10-12": 257309,
-  "2022-10-13": 257710,
-  "2022-10-14": 258122,
-  "2022-10-15": 258494,
-  "2022-10-16": 258934,
-  "2022-10-17": 259360,
-  "2022-10-18": 259723,
-  "2022-10-19": 260132,
-  "2022-10-20": 260495,
-  "2022-10-21": 260874,
-  "2022-10-22": 261202,
-  "2022-10-23": 261580,
-  "2022-10-24": 261956,
-  "2022-10-25": 262414,
-  "2022-10-26": 262809,
-  "2022-10-27": 263198,
-  "2022-10-28": 263570,
-  "2022-10-29": 263972,
-  "2022-10-30": 264355,
-  "2022-10-31": 264719,
-  "2022-11-01": 265116,
-  "2022-11-02": 265489,
-  "2022-11-03": 265901,
-  "2022-11-04": 266281,
-  "2022-11-05": 266682,
-  "2022-11-06": 267100,
-  "2022-11-07": 267551,
-  "2022-11-08": 267968,
-  "2022-11-09": 268384,
-  "2022-11-10": 268762,
-  "2022-11-11": 269257,
-  "2022-11-12": 269786,
-  "2022-11-13": 270261,
-  "2022-11-14": 270861,
-  "2022-11-15": 271344,
-  "2022-11-16": 271731,
-  "2022-11-17": 272180,
-  "2022-11-18": 272391,
-  "2022-11-19": 272227,
-  "2022-11-20": 272821,
-  "2022-11-21": 272610,
-  "2022-11-22": 273751,
-  "2022-11-23": 273625,
-  "2022-11-24": 274871,
-  "2022-11-25": 275478,
-  "2022-11-26": 275894,
-  "2022-11-27": 276363,
-  "2022-11-28": 276808,
-  "2022-11-29": 277244,
-  "2022-11-30": 277677,
-  "2022-12-01": 278334,
-  "2022-12-02": 278720,
-  "2022-12-03": 279743,
-  "2022-12-04": 280418,
-  "2022-12-05": 281124,
-  "2022-12-06": 281593,
-  "2022-12-07": 282124,
-  "2022-12-08": 282657,
-  "2022-12-09": 283132,
-  "2022-12-10": 283533,
-  "2022-12-11": 283954,
-  "2022-12-12": 284423,
-  "2022-12-13": 284886,
-  "2022-12-14": 285245,
-  "2022-12-15": 285617,
-  "2022-12-16": 285972,
-  "2022-12-17": 286333,
-  "2022-12-18": 286733,
-  "2022-12-19": 287142,
-  "2022-12-20": 287912,
-  "2022-12-21": 287912,
-  "2022-12-22": 288309,
-  "2022-12-24": 289080,
-  "2022-12-25": 289482,
-  "2022-12-26": 289849,
-  "2022-12-27": 290222,
-  "2022-12-28": 290594,
-  "2022-12-29": 291053,
-  "2022-12-30": 291484,
-  "2022-12-31": 291926,
-  "2023-01-01": 292322,
-  "2023-01-02": 292685,
-  "2023-01-03": 293176,
-  "2023-01-04": 293572,
-  "2023-01-05": 293957,
-  "2023-01-06": 294477,
-  "2023-01-07": 295159,
-  "2023-01-08": 295241,
-  "2023-01-09": 295756,
-  "2023-01-10": 296252,
-  "2023-01-11": 296680,
-  "2023-01-12": 297105,
-  "2023-01-13": 297509,
-  "2023-01-14": 298193,
-  "2023-01-15": 298283,
-  "2023-01-16": 298674,
-  "2023-01-17": 299037,
-  "2023-01-18": 299390,
-  "2023-01-19": 299783,
-  "2023-01-20": 300139,
-  "2023-01-21": 300638,
-  "2023-01-22": 301017,
-  "2023-01-23": 301430,
-  "2023-01-24": 301863,
-  "2023-01-25": 302284,
-  "2023-01-26": 302737,
-  "2023-01-27": 303107,
-  "2023-01-28": 303583,
-  "2023-01-29": 303982,
-  "2023-01-30": 304469,
-  "2023-01-31": 304469,
-  "2023-02-01": 305278,
-  "2023-02-02": 305645,
-  "2023-02-03": 306029,
-  "2023-02-04": 306495,
-  "2023-02-05": 307128,
-  "2023-02-06": 307824,
-  "2023-02-07": 308436,
-  "2023-02-08": 309617,
-  "2023-02-09": 309617,
-  "2023-02-10": 310126,
-  "2023-02-11": 310641,
-  "2023-02-12": 311580,
-  "2023-02-13": 312018,
-  "2023-02-14": 312018,
-  "2023-02-15": 312382,
-  "2023-02-16": 312716,
-  "2023-02-17": 313136,
-  "2023-02-18": 313877,
-  "2023-02-19": 313983,
-  "2023-02-20": 314301,
-  "2023-02-21": 314680,
-  "2023-02-22": 315059,
-  "2023-02-23": 315410,
-  "2023-02-24": 315775,
-  "2023-02-25": 316420,
-  "2023-02-26": 316697,
-  "2023-02-27": 317549,
-  "2023-02-28": 317549,
-  "2023-03-01": 317957,
-  "2023-03-02": 318328,
-  "2023-03-03": 318718,
-  "2023-03-04": 319049,
-  "2023-03-05": 319874,
-  "2023-03-06": 319874,
-  "2023-03-07": 320279,
-  "2023-03-08": 320605,
-  "2023-03-09": 321008,
-  "2023-03-10": 321357,
-  "2023-03-11": 321650,
-  "2023-03-12": 322018,
-  "2023-03-13": 322420,
-  "2023-03-14": 322713,
-  "2023-03-15": 323000,
-  "2023-03-16": 323291,
-  "2023-03-17": 323291,
-  "2023-03-18": 323858,
-  "2023-03-19": 324229,
-  "2023-03-20": 324592,
-  "2023-03-21": 324830,
-  "2023-03-22": 325127,
-  "2023-03-23": 325438,
-  "2023-03-24": 325438,
-  "2023-03-25": 326020,
-  "2023-03-26": 326355,
-  "2023-03-27": 326713,
-  "2023-03-28": 326929,
-  "2023-03-29": 327223,
-  "2023-03-30": 327726,
-  "2023-03-31": 327726,
-  "2023-04-01": 327991,
-  "2023-04-02": 328312,
-  "2023-04-03": 328630,
-  "2023-04-04": 328915,
-  "2023-04-05": 329215,
-  "2023-04-06": 329543,
-  "2023-04-07": 329849,
-  "2023-04-09": 330456,
-  "2023-04-10": 330813,
-  "2023-04-11": 331511,
-  "2023-04-12": 331511,
-  "2023-04-13": 331846,
-  "2023-04-14": 332155,
-  "2023-04-15": 332497,
-  "2023-04-16": 332819,
-  "2023-04-17": 333237,
-  "2023-04-18": 333604,
-  "2023-04-19": 333979,
-  "2023-04-20": 334305,
-  "2023-04-21": 334617,
-  "2023-04-22": 334994,
-  "2023-04-23": 335315,
-  "2023-04-24": 335684,
-  "2023-04-25": 336018,
-  "2023-04-26": 336392,
-  "2023-04-27": 336799,
-  "2023-04-28": 337197,
-  "2023-04-29": 337595,
-  "2023-04-30": 337993,
-  "2023-05-01": 338377,
-  "2023-05-02": 338801,
-  "2023-05-03": 339185,
-  "2023-05-04": 339556,
-  "2023-05-05": 339946,
-  "2023-05-06": 340315,
-  "2023-05-07": 340752,
-  "2023-05-08": 341132,
-  "2023-05-09": 341447,
-  "2023-05-10": 341806,
-  "2023-05-11": 342139,
-  "2023-05-12": 342442,
-  "2023-05-13": 342767,
-  "2023-05-14": 343060,
-  "2023-05-15": 343433,
-  "2023-05-16": 343740,
-  "2023-05-17": 344079,
-  "2023-05-18": 344474,
-  "2023-05-19": 344885,
-  "2023-05-20": 345653,
-  "2023-05-21": 345653,
-  "2023-05-22": 345653,
-  "2023-05-23": 348458,
-  "2023-05-24": 350560,
-  "2023-05-25": 350743,
-  "2023-05-26": 351486,
-  "2023-05-27": 352297,
-  "2023-05-28": 352991,
-  "2023-05-29": 352991,
-  "2023-05-30": 354337,
-  "2023-05-31": 354953,
-  "2023-06-01": 355641,
-  "2023-06-02": 356292,
-  "2023-06-03": 356931,
-  "2023-06-04": 358066,
-  "2023-06-05": 358730,
-  "2023-06-06": 359276,
-  "2023-06-07": 359853,
-  "2023-06-08": 360384,
-  "2023-06-09": 360871,
-  "2023-06-10": 361444,
-  "2023-06-11": 361986,
-  "2023-06-12": 362572,
-  "2023-06-13": 363089,
-  "2023-06-14": 363513,
-  "2023-06-15": 363961,
-  "2023-06-16": 364431,
-  "2023-06-17": 364872,
-  "2023-06-18": 365406,
-  "2023-06-19": 365903,
-  "2023-06-20": 366342,
-  "2023-06-21": 367792,
-  "2023-06-22": 368439,
-  "2023-06-23": 368934,
-  "2023-06-24": 369446,
-  "2023-06-25": 369945,
-  "2023-06-26": 370427,
-  "2023-06-27": 370842,
-  "2023-06-28": 371277,
-  "2023-06-29": 371750,
-  "2023-06-30": 372126,
-  "2023-07-01": 373024,
-  "2023-07-02": 373024,
-  "2023-07-03": 373417,
-  "2023-07-04": 373838,
-  "2023-07-05": 374290,
-  "2023-07-06": 375116,
-  "2023-07-07": 375116,
-  "2023-07-08": 375530,
-  "2023-07-09": 375954,
-  "2023-07-10": 376439,
-  "2023-07-11": 376868,
-  "2023-07-12": 377336,
-  "2023-07-13": 377844,
-  "2023-07-14": 378349,
-  "2023-07-15": 378625,
-  "2023-07-16": 379178,
-  "2023-07-17": 379629,
-  "2023-07-18": 380025,
-  "2023-07-19": 380486,
-  "2023-07-20": 380885,
-  "2023-07-21": 381321,
-  "2023-07-22": 381729,
-  "2023-07-23": 382181,
-  "2023-07-24": 382605,
-  "2023-07-25": 383032,
-  "2023-07-26": 383433,
-  "2023-07-27": 383901,
-  "2023-07-28": 384378,
-  "2023-07-29": 384811,
-  "2023-07-30": 385400,
-  "2023-07-31": 385981,
-  "2023-08-01": 386637,
-  "2023-08-02": 387207,
-  "2023-08-03": 387786,
-  "2023-08-04": 388228,
-  "2023-08-05": 388724,
-  "2023-08-06": 389609,
-  "2023-08-07": 389609,
-  "2023-08-08": 390006,
-  "2023-08-09": 390389,
-  "2023-08-10": 390812,
-  "2023-08-11": 391214,
-  "2023-08-12": 391631,
-  "2023-08-13": 392106,
-  "2023-08-14": 392540,
-  "2023-08-15": 393408,
-  "2023-08-16": 393408,
-  "2023-08-17": 393795,
-  "2023-08-18": 394248,
-  "2023-08-19": 394674,
-  "2023-08-20": 395163,
-  "2023-08-21": 395627,
-  "2023-08-22": 396007,
-  "2023-08-23": 396367,
-  "2023-08-24": 396780,
-  "2023-08-25": 397148,
-  "2023-08-26": 397591,
-  "2023-08-27": 397989,
-  "2023-08-28": 398409,
-  "2023-08-29": 398722,
-  "2023-08-30": 399045,
-  "2023-08-31": 399349,
-  "2023-09-01": 400019,
-  "2023-09-02": 400019,
-  "2023-09-03": 400469,
-  "2023-09-04": 400937,
-  "2023-09-05": 401352,
-  "2023-09-06": 401719,
-  "2023-09-07": 402056,
-  "2023-09-08": 402387,
-  "2023-09-09": 402831,
-  "2023-09-10": 403213,
-  "2023-09-11": 403642,
-  "2023-09-12": 403922,
-  "2023-09-13": 404235,
-  "2023-09-14": 404522,
-  "2023-09-15": 404864,
-  "2023-09-16": 405196,
-  "2023-09-17": 405557,
-  "2023-09-18": 405931,
-  "2023-09-19": 406271,
-  "2023-09-20": 406579,
-  "2023-09-21": 406939,
-  "2023-09-22": 407215,
-  "2023-09-23": 407525,
-  "2023-09-24": 407909,
-  "2023-09-25": 408281,
-  "2023-09-26": 408695,
-  "2023-09-27": 408914,
-  "2023-09-28": 409238,
-  "2023-09-29": 409588,
-  "2023-09-30": 409912,
-  "2023-10-01": 410225,
-  "2023-10-02": 410584,
-  "2023-10-03": 410790,
-  "2023-10-04": 411112,
-  "2023-10-05": 411383,
-  "2023-10-06": 411733,
-  "2023-10-07": 412120,
-  "2023-10-08": 412495,
-  "2023-10-09": 412858,
-  "2023-10-10": 413237,
-  "2023-10-11": 413884,
-  "2023-10-12": 413884,
-  "2023-10-13": 414192,
-  "2023-10-14": 414487,
-  "2023-10-15": 414846,
-  "2023-10-16": 415258,
-  "2023-10-17": 415638,
-  "2023-10-18": 415957,
-  "2023-10-19": 416249,
-  "2023-10-20": 416637,
-  "2023-10-21": 417013,
-  "2023-10-22": 417409,
-  "2023-10-23": 417772,
-  "2023-10-24": 418077,
-  "2023-10-25": 418407,
-  "2023-10-26": 418713,
-  "2023-10-27": 419005,
-  "2023-10-28": 419469,
-  "2023-10-29": 419919,
-  "2023-10-30": 420793,
-  "2023-10-31": 420793,
-  "2023-11-01": 421124,
-  "2023-11-02": 421400,
-  "2023-11-03": 421717,
-  "2023-11-04": 422023,
-  "2023-11-05": 422299,
-  "2023-11-06": 422585,
-  "2023-11-07": 422854,
-  "2023-11-08": 423110,
-  "2023-11-09": 423415,
-  "2023-11-10": 423684,
-  "2023-11-11": 424074,
-  "2023-11-12": 424367,
-  "2023-11-13": 424663,
-  "2023-11-14": 424925,
-  "2023-11-15": 424925,
-  "2023-11-16": 425406,
-  "2023-11-17": 426252,
-  "2023-11-18": 426252,
-  "2023-11-19": 426662,
-  "2023-11-20": 426990,
-  "2023-11-21": 427316,
-  "2023-11-22": 427585,
-  "2023-11-23": 427850,
-  "2023-11-24": 428175,
-  "2023-11-25": 428472,
-  "2023-11-26": 428705,
-  "2023-11-27": 428976,
-  "2023-11-28": 429260,
-  "2023-11-29": 429931,
-  "2023-11-30": 429931,
-  "2023-12-01": 430433,
-  "2023-12-02": 430797,
-  "2023-12-03": 431167,
-  "2023-12-04": 431469,
-  "2023-12-05": 431719,
-  "2023-12-06": 431980,
-  "2023-12-07": 432245,
-  "2023-12-08": 432566,
-  "2023-12-09": 432900,
-  "2023-12-10": 433290,
-  "2023-12-11": 433646,
-  "2023-12-12": 433974,
-  "2023-12-13": 434258,
-  "2023-12-14": 434665,
-  "2023-12-15": 434898,
-  "2023-12-16": 435272,
-  "2023-12-17": 435707,
-  "2023-12-18": 436197,
-  "2023-12-19": 436582,
-  "2023-12-20": 436961,
-  "2023-12-21": 437347,
-  "2023-12-22": 437767,
-  "2023-12-23": 438167,
-  "2023-12-24": 438572,
-  "2023-12-25": 438896,
-  "2023-12-26": 439223,
-  "2023-12-27": 439649,
-  "2023-12-30": 440854,
-  "2023-12-31": 441354,
-  "2024-01-01": 441737,
-  "2024-01-02": 442129,
-  "2024-01-03": 442602
+  "2024-01-17": 449081,
+  "date_first_scraped": "2022-05-30",
+  "description": "(-) \"Connection, Discovery, & Growth\"",
+  "name": "This Is ENHYPEN",
+  "tracks": [
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194220,
+      "name": "10 Months",
+      "url": "https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv"
+    },
+    {
+      "album": {
+        "name": "A Kind Of Magic (Coke Studio Session)",
+        "url": "https://open.spotify.com/album/47oy52LyIbbzC0qLKQH16Z"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "A Kind Of Magic - Coke Studio Session",
+      "url": "https://open.spotify.com/track/3EN2OYE3pYpRN8Axxasv2u"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : \u9583\u5149",
+        "url": "https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3xGTUo0WtGSwCSxLIhCn0r"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188640,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3vGFiJBZGJ9gdUC3lv9NtZ"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167594,
+      "name": "Attention, please!",
+      "url": "https://open.spotify.com/track/3MdLQBiKHUO4DpXNiodNTY"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167594,
+      "name": "Attention, please!",
+      "url": "https://open.spotify.com/track/59qDYPZPkMPl8qSYRig1xn"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175752,
+      "name": "Bills",
+      "url": "https://open.spotify.com/track/2nfluhFVrO5OBXPzRWlwlz"
+    },
+    {
+      "album": {
+        "name": "\u7d50 -YOU-",
+        "url": "https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Bills - Japanese Ver.",
+      "url": "https://open.spotify.com/track/34XCh5DGAAGwwIGJoQpzU5"
+    },
+    {
+      "album": {
+        "name": "BILLY POCO",
+        "url": "https://open.spotify.com/album/053egZ9MnXOGmLMQUiFPfZ"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145204,
+      "name": "Billy Poco",
+      "url": "https://open.spotify.com/track/2qxk6ZQyhE6OKHCG448nIt"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157531,
+      "name": "Bite Me",
+      "url": "https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa"
+    },
+    {
+      "album": {
+        "name": "\u7d50 -YOU-",
+        "url": "https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158880,
+      "name": "Bite Me - Japanese Ver.",
+      "url": "https://open.spotify.com/track/0INxaaPlo9DnT0OYEzHdsk"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170805,
+      "name": "Blessed-Cursed",
+      "url": "https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172560,
+      "name": "Blessed-Cursed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2mx1JVdiFP2PYEPDr5v5OO"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198232,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/5zyAmGZ6IfotltMUqzMhdg"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Blockbuster feat. YEONJUN of TOMORROW X TOGETHER",
+      "url": "https://open.spotify.com/track/08XshFxOo9rcQagObgcoK6"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227453,
+      "name": "Blockbuster feat. YEONJUN of TOMORROW X TOGETHER",
+      "url": "https://open.spotify.com/track/6J6C4MvMeIxNMxysfkyMKU"
+    },
+    {
+      "album": {
+        "name": "\u7d50 -YOU-",
+        "url": "https://open.spotify.com/album/6mPOqqTNfS3p7BlDMCy07r"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236386,
+      "name": "BLOSSOM",
+      "url": "https://open.spotify.com/track/1kfpDfQdK7oDxfw4XgSJT1"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213705,
+      "name": "Chaconne",
+      "url": "https://open.spotify.com/track/7nBjhYbLttb9LHZHqNuld5"
+    },
+    {
+      "album": {
+        "name": "CRIMINAL LOVE",
+        "url": "https://open.spotify.com/album/6S8BCiVrtzm5TEOnjyyCfJ"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215631,
+      "name": "CRIMINAL LOVE",
+      "url": "https://open.spotify.com/track/0Eglu3fErlG196PtTwCUPM"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193260,
+      "name": "Drunk-Dazed",
+      "url": "https://open.spotify.com/track/1wcr8DjnN59Awev8nnKpQ4"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : \u9583\u5149",
+        "url": "https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Drunk-Dazed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2PE9H3nIrrQvHuWCbKglpe"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194800,
+      "name": "Drunk-Dazed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/4BjPm0ZU2vq59sUoQkcAGn"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151669,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/0iLyNDLTsBkqB8SLAzNGxF"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
+    },
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144370,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/3TgPwLFXV6GEIsDZANHktY"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147485,
+      "name": "Foreshadow",
+      "url": "https://open.spotify.com/track/2RmGQmFyJetffds9FSRm3c"
+    },
+    {
+      "album": {
+        "name": "BORDER : \u511a\u3044",
+        "url": "https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Forget Me Not",
+      "url": "https://open.spotify.com/track/5rJuBb2XuK4fimXi9p5YOH"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Future Perfect (Pass the MIC)",
+      "url": "https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "Future Perfect (Pass the MIC) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL"
+    },
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183090,
+      "name": "Given-Taken",
+      "url": "https://open.spotify.com/track/69WpV0U7OMNFGyq8I63dcC"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Given-Taken - Japanese Ver.",
+      "url": "https://open.spotify.com/track/0MiR9O8fJIus2V5LPMwDob"
+    },
+    {
+      "album": {
+        "name": "BORDER : \u511a\u3044",
+        "url": "https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184600,
+      "name": "Given-Taken - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2T7E6Gl6XxB8UnuqrufqYT"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201707,
+      "name": "Go Big or Go Home",
+      "url": "https://open.spotify.com/track/0nh0uf3eB4JEjv4jQxj5eP"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201707,
+      "name": "Go Big or Go Home",
+      "url": "https://open.spotify.com/track/6IqKFke4ZhKbGYULllEezY"
+    },
+    {
+      "album": {
+        "name": "HEY TAYO",
+        "url": "https://open.spotify.com/album/2i0irlNjTfYPohsFPIK8J0"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111386,
+      "name": "Hey Tayo - Tayo Opening Theme Song",
+      "url": "https://open.spotify.com/track/2A7A3KF4NHFjW3ygFSt7In"
+    },
+    {
+      "album": {
+        "name": "I Need The Light",
+        "url": "https://open.spotify.com/album/4RAx28on33NHM5FQiFhyvZ"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185293,
+      "name": "I Need The Light",
+      "url": "https://open.spotify.com/track/69mhZKG0nDbSK7NoINWEsE"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84964,
+      "name": "Interlude : Question",
+      "url": "https://open.spotify.com/track/44h1kKvowM2bMxx1X3T1ue"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84964,
+      "name": "Interlude : Question",
+      "url": "https://open.spotify.com/track/5hmNvW5VqPJ96N6om3tO4g"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130882,
+      "name": "Intro : The Invitation",
+      "url": "https://open.spotify.com/track/6gGpF8V8miC4O0GZUqSZ9a"
+    },
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108633,
+      "name": "Intro : Walk the Line",
+      "url": "https://open.spotify.com/track/3yXUG6wZczeYgCE3L0z2pD"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99338,
+      "name": "Intro : Whiteout",
+      "url": "https://open.spotify.com/track/1Jm7GBIwIttLfKRl5D14JK"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99338,
+      "name": "Intro : Whiteout",
+      "url": "https://open.spotify.com/track/20PaIK7cbEwnYFQrLU8USm"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167820,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/0nyjSQaOraSpDDnadBJU49"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167820,
+      "name": "Just A Little Bit",
+      "url": "https://open.spotify.com/track/3QdjLOemIcMZovVOnvJP7P"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192619,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/1RGaIn89VUtXvJCXz1tDNb"
+    },
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189858,
+      "name": "Let Me In (20 CUBE)",
+      "url": "https://open.spotify.com/track/4eOcd47wPU3ixxYw0spREl"
+    },
+    {
+      "album": {
+        "name": "BORDER : \u511a\u3044",
+        "url": "https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Let Me In (20 CUBE) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/5mfevw9okQ6kAyb7UWlLiE"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191746,
+      "name": "Let Me In (20 CUBE) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3Vq4EAlxbgXSw561OL3EQR"
+    },
+    {
+      "album": {
+        "name": "Make the change",
+        "url": "https://open.spotify.com/album/2wJfsH5ol2YVGq2biNphzY"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Make the change",
+      "url": "https://open.spotify.com/track/3nV2Yjy2aJjUl74p0tEfWf"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Make the change",
+      "url": "https://open.spotify.com/track/1rFczNvTD6flYm3IUdvLth"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183259,
+      "name": "Mixed Up",
+      "url": "https://open.spotify.com/track/6S0By3u06ttb3kU2XEtWnw"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227768,
+      "name": "Mortal",
+      "url": "https://open.spotify.com/track/3JdYRIhtpQd56Dj3rhMRoC"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181196,
+      "name": "Not For Sale",
+      "url": "https://open.spotify.com/track/3dG1jxbfBIZvzyFwAcsmS0"
+    },
+    {
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/5LGe47qZJTNwtM8gUfT7Mx"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166386,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/7dDY45rR3idfeCypFDrk0G"
+    },
+    {
+      "album": {
+        "name": "One In A Billion",
+        "url": "https://open.spotify.com/album/19Jm8Jk0zQYs6zMaxhYJFd"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196392,
+      "name": "One In A Billion",
+      "url": "https://open.spotify.com/track/66wQlkJP6zHNOzRkyo5yZS"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180285,
+      "name": "Orange Flower (You Complete Me)",
+      "url": "https://open.spotify.com/track/5Cb3JSisvjlZhjSfYD6d7C"
+    },
+    {
+      "album": {
+        "name": "BORDER : DAY ONE",
+        "url": "https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115433,
+      "name": "Outro : Cross the Line",
+      "url": "https://open.spotify.com/track/3jkDtDzZKCmWtDccH7UUsq"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112289,
+      "name": "Outro : Day 2",
+      "url": "https://open.spotify.com/track/4mFOAfQQZ1U3NVBoamJfGR"
+    },
+    {
+      "album": {
+        "name": "BORDER : CARNIVAL",
+        "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94120,
+      "name": "Outro : The Wormhole",
+      "url": "https://open.spotify.com/track/6HBrUqKU3IE4aHKj0foQ2b"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187490,
+      "name": "ParadoXXX Invasion",
+      "url": "https://open.spotify.com/track/3OC2C8IpFhbUJTeMe55QYn"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
+    },
+    {
+      "album": {
+        "name": "DARK BLOOD",
+        "url": "https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202488,
+      "name": "Sacrifice (Eat Me Up)",
+      "url": "https://open.spotify.com/track/58ItBuVuKc03DvqSeZFnH1"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228115,
+      "name": "SHOUT OUT",
+      "url": "https://open.spotify.com/track/5Z2DNRAhs6r4VdINVkRhYY"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186119,
+      "name": "Still Monster",
+      "url": "https://open.spotify.com/track/6tuTpe37ljVcrJeZAAKBE1"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148753,
+      "name": "Sweet Venom",
+      "url": "https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148753,
+      "name": "Sweet Venom (English Ver.)",
+      "url": "https://open.spotify.com/track/47JqJobasbTT9r0gX8CoE1"
+    },
+    {
+      "album": {
+        "name": "ORANGE BLOOD",
+        "url": "https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148753,
+      "name": "Sweet Venom (feat. Bella Poarch)",
+      "url": "https://open.spotify.com/track/3v8hC61VqQ95xwBiLg1JPg"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196170,
+      "name": "Tamed-Dashed",
+      "url": "https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196170,
+      "name": "Tamed-Dashed",
+      "url": "https://open.spotify.com/track/5W5PhqcQDV539PJP9jdmrT"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : \u9583\u5149",
+        "url": "https://open.spotify.com/album/0hTSBwSbvXgDSUxtSLBYcw"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195920,
+      "name": "Tamed-Dashed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/6pu3d534uImXPTd2ef7Yr2"
+    },
+    {
+      "album": {
+        "name": "\u5b9a\u3081",
+        "url": "https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Tamed-Dashed - Japanese Ver.",
+      "url": "https://open.spotify.com/track/0CPVaydX9lEvyNsL8pTNfQ"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197795,
+      "name": "TFW (That Feeling When)",
+      "url": "https://open.spotify.com/track/3bI34Ts8OMPfIpoPqzyZgM"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : DILEMMA",
+        "url": "https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189402,
+      "name": "Upper Side Dreamin\u2019",
+      "url": "https://open.spotify.com/track/6oSCR9n71tmwWL3GFb65Ec"
+    },
+    {
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189402,
+      "name": "Upper Side Dreamin\u2019",
+      "url": "https://open.spotify.com/track/7vVgN04eLKRBb7MW7pfOT0"
+    },
+    {
+      "album": {
+        "name": "MANIFESTO : DAY 1",
+        "url": "https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123822,
+      "name": "WALK THE LINE",
+      "url": "https://open.spotify.com/track/0xDVPc5W2jYqO6p9NisCI4"
+    },
+    {
+      "album": {
+        "name": "Summer Strike, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kAXwLPooprklH4fTIDu3D"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "ZERO MOMENT (Sung by HEESEUNG, JAY, JAKE) (Prod. tearliner)",
+      "url": "https://open.spotify.com/track/3I4yBsHErzJp7rUF2ruOzV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0q3zClOVaZA"
 }

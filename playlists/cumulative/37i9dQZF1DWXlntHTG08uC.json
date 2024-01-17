@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-09",
-  "description": "528 hertz solfeggio frequency, tones and music for deep sleep and restful nights. ",
+  "description": "Frecuencia solfeggio de 528\u00a0Hz, ritmos y m\u00fasica para un sue\u00f1o profundo y noches de descanso.",
   "name": "Sleep Frequency",
   "tracks": [
     {
@@ -2464,10 +2464,28 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 120000,
       "name": "Manipura",
       "url": "https://open.spotify.com/track/0ckOIcIEpVucmnRPLXUMVX"
+    },
+    {
+      "album": {
+        "name": "Solar Plexus",
+        "url": "https://open.spotify.com/album/2QzhtOdUdwmg8gEuHaDBEm"
+      },
+      "artists": [
+        {
+          "name": "Kula Kriya",
+          "url": "https://open.spotify.com/artist/3R2i0SUPRrMZrh0HurjAwn"
+        }
+      ],
+      "date_added": "2023-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Manipura",
+      "url": "https://open.spotify.com/track/0kr9VuHRhE6GcCguZ1djgx"
     },
     {
       "album": {

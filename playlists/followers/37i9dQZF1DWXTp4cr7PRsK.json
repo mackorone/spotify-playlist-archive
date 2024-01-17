@@ -1,457 +1,703 @@
 {
-  "2022-10-02": 0,
-  "2022-10-03": 3,
-  "2022-10-04": 9,
-  "2022-10-05": 17,
-  "2022-10-06": 33,
-  "2022-10-07": 52,
-  "2022-10-08": 71,
-  "2022-10-09": 112,
-  "2022-10-10": 116,
-  "2022-10-11": 131,
-  "2022-10-12": 150,
-  "2022-10-13": 163,
-  "2022-10-14": 175,
-  "2022-10-15": 186,
-  "2022-10-16": 202,
-  "2022-10-17": 220,
-  "2022-10-18": 237,
-  "2022-10-19": 255,
-  "2022-10-20": 270,
-  "2022-10-21": 293,
-  "2022-10-22": 310,
-  "2022-10-23": 324,
-  "2022-10-24": 332,
-  "2022-10-25": 346,
-  "2022-10-26": 357,
-  "2022-10-27": 366,
-  "2022-10-28": 382,
-  "2022-10-29": 392,
-  "2022-10-30": 406,
-  "2022-10-31": 418,
-  "2022-11-01": 430,
-  "2022-11-02": 437,
-  "2022-11-03": 456,
-  "2022-11-04": 475,
-  "2022-11-05": 484,
-  "2022-11-06": 502,
-  "2022-11-07": 521,
-  "2022-11-08": 535,
-  "2022-11-09": 545,
-  "2022-11-10": 564,
-  "2022-11-11": 582,
-  "2022-11-12": 607,
-  "2022-11-13": 613,
-  "2022-11-14": 633,
-  "2022-11-15": 646,
-  "2022-11-16": 664,
-  "2022-11-17": 682,
-  "2022-11-18": 686,
-  "2022-11-19": 680,
-  "2022-11-20": 688,
-  "2022-11-21": 706,
-  "2022-11-22": 740,
-  "2022-11-23": 736,
-  "2022-11-24": 760,
-  "2022-11-25": 787,
-  "2022-11-26": 812,
-  "2022-11-27": 837,
-  "2022-11-28": 845,
-  "2022-11-29": 857,
-  "2022-11-30": 877,
-  "2022-12-01": 893,
-  "2022-12-02": 919,
-  "2022-12-03": 921,
-  "2022-12-04": 946,
-  "2022-12-05": 961,
-  "2022-12-06": 973,
-  "2022-12-07": 988,
-  "2022-12-08": 1005,
-  "2022-12-09": 1026,
-  "2022-12-10": 1044,
-  "2022-12-11": 1054,
-  "2022-12-12": 1070,
-  "2022-12-13": 1076,
-  "2022-12-14": 1093,
-  "2022-12-15": 1109,
-  "2022-12-16": 1120,
-  "2022-12-17": 1130,
-  "2022-12-18": 1144,
-  "2022-12-19": 1158,
-  "2022-12-20": 1178,
-  "2022-12-21": 1178,
-  "2022-12-22": 1185,
-  "2022-12-24": 1204,
-  "2022-12-25": 1206,
-  "2022-12-26": 1215,
-  "2022-12-27": 1227,
-  "2022-12-28": 1237,
-  "2022-12-29": 1244,
-  "2022-12-30": 1255,
-  "2022-12-31": 1270,
-  "2023-01-01": 1280,
-  "2023-01-02": 1290,
-  "2023-01-03": 1296,
-  "2023-01-04": 1306,
-  "2023-01-05": 1322,
-  "2023-01-06": 1334,
-  "2023-01-07": 1348,
-  "2023-01-08": 1352,
-  "2023-01-09": 1364,
-  "2023-01-10": 1384,
-  "2023-01-11": 1399,
-  "2023-01-12": 1409,
-  "2023-01-13": 1418,
-  "2023-01-14": 1454,
-  "2023-01-15": 1459,
-  "2023-01-16": 1464,
-  "2023-01-17": 1478,
-  "2023-01-18": 1488,
-  "2023-01-19": 1495,
-  "2023-01-20": 1508,
-  "2023-01-21": 1524,
-  "2023-01-22": 1532,
-  "2023-01-23": 1543,
-  "2023-01-24": 1559,
-  "2023-01-25": 1571,
-  "2023-01-26": 1578,
-  "2023-01-27": 1593,
-  "2023-01-28": 1609,
-  "2023-01-29": 1618,
-  "2023-01-30": 1628,
-  "2023-01-31": 1628,
-  "2023-02-01": 1672,
-  "2023-02-02": 1680,
-  "2023-02-03": 1690,
-  "2023-02-04": 1705,
-  "2023-02-05": 1715,
-  "2023-02-06": 1731,
-  "2023-02-07": 1741,
-  "2023-02-08": 1765,
-  "2023-02-09": 1765,
-  "2023-02-10": 1778,
-  "2023-02-11": 1790,
-  "2023-02-12": 1815,
-  "2023-02-13": 1826,
-  "2023-02-14": 1826,
-  "2023-02-15": 1833,
-  "2023-02-16": 1854,
-  "2023-02-17": 1864,
-  "2023-02-18": 1886,
-  "2023-02-19": 1889,
-  "2023-02-20": 1896,
-  "2023-02-21": 1907,
-  "2023-02-22": 1916,
-  "2023-02-23": 1930,
-  "2023-02-24": 1946,
-  "2023-02-25": 1947,
-  "2023-02-26": 1961,
-  "2023-02-27": 1990,
-  "2023-02-28": 1990,
-  "2023-03-01": 1998,
-  "2023-03-02": 2011,
-  "2023-03-03": 2025,
-  "2023-03-04": 2033,
-  "2023-03-05": 2051,
-  "2023-03-06": 2051,
-  "2023-03-07": 2061,
-  "2023-03-08": 2073,
-  "2023-03-09": 2085,
-  "2023-03-10": 2095,
-  "2023-03-11": 2107,
-  "2023-03-12": 2116,
-  "2023-03-13": 2124,
-  "2023-03-14": 2132,
-  "2023-03-15": 2140,
-  "2023-03-16": 2146,
-  "2023-03-17": 2146,
-  "2023-03-18": 2158,
-  "2023-03-19": 2169,
-  "2023-03-20": 2181,
-  "2023-03-21": 2186,
-  "2023-03-22": 2198,
-  "2023-03-23": 2206,
-  "2023-03-24": 2206,
-  "2023-03-25": 2230,
-  "2023-03-26": 2250,
-  "2023-03-27": 2262,
-  "2023-03-28": 2271,
-  "2023-03-29": 2284,
-  "2023-03-30": 2305,
-  "2023-03-31": 2305,
-  "2023-04-01": 2317,
-  "2023-04-02": 2332,
-  "2023-04-03": 2336,
-  "2023-04-04": 2344,
-  "2023-04-05": 2355,
-  "2023-04-06": 2368,
-  "2023-04-07": 2384,
-  "2023-04-09": 2414,
-  "2023-04-10": 2429,
-  "2023-04-11": 2457,
-  "2023-04-12": 2457,
-  "2023-04-13": 2474,
-  "2023-04-14": 2486,
-  "2023-04-15": 2499,
-  "2023-04-16": 2512,
-  "2023-04-17": 2528,
-  "2023-04-18": 2543,
-  "2023-04-19": 2559,
-  "2023-04-20": 2576,
-  "2023-04-21": 2595,
-  "2023-04-22": 2615,
-  "2023-04-23": 2629,
-  "2023-04-24": 2647,
-  "2023-04-25": 2664,
-  "2023-04-26": 2682,
-  "2023-04-27": 2690,
-  "2023-04-28": 2705,
-  "2023-04-29": 2722,
-  "2023-04-30": 2737,
-  "2023-05-01": 2746,
-  "2023-05-02": 2755,
-  "2023-05-03": 2764,
-  "2023-05-04": 2777,
-  "2023-05-05": 2795,
-  "2023-05-06": 2804,
-  "2023-05-07": 2822,
-  "2023-05-08": 2827,
-  "2023-05-09": 2840,
-  "2023-05-10": 2852,
-  "2023-05-11": 2860,
-  "2023-05-12": 2875,
-  "2023-05-13": 2890,
-  "2023-05-14": 2906,
-  "2023-05-15": 2917,
-  "2023-05-16": 2935,
-  "2023-05-17": 2941,
-  "2023-05-18": 2950,
-  "2023-05-19": 2977,
-  "2023-05-20": 2997,
-  "2023-05-21": 2997,
-  "2023-05-22": 2997,
-  "2023-05-23": 3023,
-  "2023-05-24": 3042,
-  "2023-05-25": 3047,
-  "2023-05-26": 3061,
-  "2023-05-27": 3081,
-  "2023-05-28": 3093,
-  "2023-05-29": 3093,
-  "2023-05-30": 3112,
-  "2023-05-31": 3129,
-  "2023-06-01": 3144,
-  "2023-06-02": 3159,
-  "2023-06-03": 3171,
-  "2023-06-04": 3182,
-  "2023-06-05": 3190,
-  "2023-06-06": 3196,
-  "2023-06-07": 3213,
-  "2023-06-08": 3220,
-  "2023-06-09": 3231,
-  "2023-06-10": 3244,
-  "2023-06-11": 3257,
-  "2023-06-12": 3267,
-  "2023-06-13": 3274,
-  "2023-06-14": 3289,
-  "2023-06-15": 3301,
-  "2023-06-16": 3314,
-  "2023-06-17": 3324,
-  "2023-06-18": 3330,
-  "2023-06-19": 3349,
-  "2023-06-20": 3366,
-  "2023-06-21": 3368,
-  "2023-06-22": 3379,
-  "2023-06-23": 3390,
-  "2023-06-24": 3398,
-  "2023-06-25": 3408,
-  "2023-06-26": 3423,
-  "2023-06-27": 3433,
-  "2023-06-28": 3443,
-  "2023-06-29": 3455,
-  "2023-06-30": 3468,
-  "2023-07-01": 3480,
-  "2023-07-02": 3480,
-  "2023-07-03": 3493,
-  "2023-07-04": 3502,
-  "2023-07-05": 3511,
-  "2023-07-06": 3538,
-  "2023-07-07": 3538,
-  "2023-07-08": 3555,
-  "2023-07-09": 3561,
-  "2023-07-10": 3575,
-  "2023-07-11": 3584,
-  "2023-07-12": 3594,
-  "2023-07-13": 3607,
-  "2023-07-14": 3622,
-  "2023-07-15": 3632,
-  "2023-07-16": 3653,
-  "2023-07-17": 3667,
-  "2023-07-18": 3674,
-  "2023-07-19": 3687,
-  "2023-07-20": 3697,
-  "2023-07-21": 3710,
-  "2023-07-22": 3721,
-  "2023-07-23": 3737,
-  "2023-07-24": 3753,
-  "2023-07-25": 3756,
-  "2023-07-26": 3758,
-  "2023-07-27": 3764,
-  "2023-07-28": 3769,
-  "2023-07-29": 3780,
-  "2023-07-30": 3796,
-  "2023-07-31": 3806,
-  "2023-08-01": 3818,
-  "2023-08-02": 3825,
-  "2023-08-03": 3832,
-  "2023-08-04": 3842,
-  "2023-08-05": 3851,
-  "2023-08-06": 3884,
-  "2023-08-07": 3884,
-  "2023-08-08": 3893,
-  "2023-08-09": 3906,
-  "2023-08-10": 3918,
-  "2023-08-11": 3922,
-  "2023-08-12": 3927,
-  "2023-08-13": 3934,
-  "2023-08-14": 3948,
-  "2023-08-15": 3966,
-  "2023-08-16": 3966,
-  "2023-08-17": 3981,
-  "2023-08-18": 3990,
-  "2023-08-19": 4003,
-  "2023-08-20": 4010,
-  "2023-08-21": 4017,
-  "2023-08-22": 4021,
-  "2023-08-23": 4030,
-  "2023-08-24": 4043,
-  "2023-08-25": 4052,
-  "2023-08-26": 4065,
-  "2023-08-27": 4073,
-  "2023-08-28": 4080,
-  "2023-08-29": 4090,
-  "2023-08-30": 4102,
-  "2023-08-31": 4109,
-  "2023-09-01": 4141,
-  "2023-09-02": 4141,
-  "2023-09-03": 4148,
-  "2023-09-04": 4166,
-  "2023-09-05": 4182,
-  "2023-09-06": 4201,
-  "2023-09-07": 4214,
-  "2023-09-08": 4231,
-  "2023-09-09": 4240,
-  "2023-09-10": 4256,
-  "2023-09-11": 4272,
-  "2023-09-12": 4287,
-  "2023-09-13": 4299,
-  "2023-09-14": 4308,
-  "2023-09-15": 4325,
-  "2023-09-16": 4331,
-  "2023-09-17": 4350,
-  "2023-09-18": 4370,
-  "2023-09-19": 4381,
-  "2023-09-20": 4396,
-  "2023-09-21": 4407,
-  "2023-09-22": 4425,
-  "2023-09-23": 4439,
-  "2023-09-24": 4457,
-  "2023-09-25": 4467,
-  "2023-09-26": 4488,
-  "2023-09-27": 4497,
-  "2023-09-28": 4517,
-  "2023-09-29": 4531,
-  "2023-09-30": 4553,
-  "2023-10-01": 4559,
-  "2023-10-02": 4576,
-  "2023-10-03": 4594,
-  "2023-10-04": 4611,
-  "2023-10-05": 4626,
-  "2023-10-06": 4641,
-  "2023-10-07": 4653,
-  "2023-10-08": 4677,
-  "2023-10-09": 4690,
-  "2023-10-10": 4709,
-  "2023-10-11": 4737,
-  "2023-10-12": 4737,
-  "2023-10-13": 4746,
-  "2023-10-14": 4762,
-  "2023-10-15": 4780,
-  "2023-10-16": 4796,
-  "2023-10-17": 4808,
-  "2023-10-18": 4819,
-  "2023-10-19": 4837,
-  "2023-10-20": 4850,
-  "2023-10-21": 4862,
-  "2023-10-22": 4878,
-  "2023-10-23": 4896,
-  "2023-10-24": 4918,
-  "2023-10-25": 4934,
-  "2023-10-26": 4954,
-  "2023-10-27": 4966,
-  "2023-10-28": 5000,
-  "2023-10-29": 5010,
-  "2023-10-30": 5042,
-  "2023-10-31": 5042,
-  "2023-11-01": 5054,
-  "2023-11-02": 5068,
-  "2023-11-03": 5086,
-  "2023-11-04": 5098,
-  "2023-11-05": 5112,
-  "2023-11-06": 5129,
-  "2023-11-07": 5141,
-  "2023-11-08": 5161,
-  "2023-11-09": 5179,
-  "2023-11-10": 5195,
-  "2023-11-11": 5216,
-  "2023-11-12": 5225,
-  "2023-11-13": 5244,
-  "2023-11-14": 5258,
-  "2023-11-15": 5258,
-  "2023-11-16": 5296,
-  "2023-11-17": 5326,
-  "2023-11-18": 5326,
-  "2023-11-19": 5333,
-  "2023-11-20": 5347,
-  "2023-11-21": 5371,
-  "2023-11-22": 5385,
-  "2023-11-23": 5406,
-  "2023-11-24": 5428,
-  "2023-11-25": 5447,
-  "2023-11-26": 5466,
-  "2023-11-27": 5488,
-  "2023-11-28": 5510,
-  "2023-11-29": 5551,
-  "2023-11-30": 5551,
-  "2023-12-01": 5568,
-  "2023-12-02": 5587,
-  "2023-12-03": 5602,
-  "2023-12-04": 5625,
-  "2023-12-05": 5640,
-  "2023-12-06": 5656,
-  "2023-12-07": 5680,
-  "2023-12-08": 5700,
-  "2023-12-09": 5718,
-  "2023-12-10": 5732,
-  "2023-12-11": 5740,
-  "2023-12-12": 5760,
-  "2023-12-13": 5775,
-  "2023-12-14": 5794,
-  "2023-12-15": 5806,
-  "2023-12-16": 5824,
-  "2023-12-17": 5840,
-  "2023-12-18": 5850,
-  "2023-12-19": 5876,
-  "2023-12-20": 5892,
-  "2023-12-21": 5907,
-  "2023-12-22": 5917,
-  "2023-12-23": 5926,
-  "2023-12-24": 5938,
-  "2023-12-25": 5948,
-  "2023-12-26": 5958,
-  "2023-12-27": 5973,
-  "2023-12-30": 6016,
-  "2023-12-31": 6038,
-  "2024-01-01": 6054,
-  "2024-01-02": 6067,
-  "2024-01-03": 6082
+  "2024-01-17": 6272,
+  "date_first_scraped": "2022-10-02",
+  "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/ogchaseb/\">Chase B</a>",
+  "name": "Chase B's Taste",
+  "tracks": [
+    {
+      "album": {
+        "name": "PHOENIX MODE",
+        "url": "https://open.spotify.com/album/3gp0vjA9L16pBIs0vrWzL9"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195497,
+      "name": "Almost There",
+      "url": "https://open.spotify.com/track/4IfowS5OhB5DDYtuKmoo4v"
+    },
+    {
+      "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
+    },
+    {
+      "album": {
+        "name": "Cafeteria (feat. Gunna)",
+        "url": "https://open.spotify.com/album/01XHfJ7cuU8QjJ5pwCpMW8"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "Cafeteria (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7l28SBHS3zmKDVnOzG8BM7"
+    },
+    {
+      "album": {
+        "name": "CASINO",
+        "url": "https://open.spotify.com/album/2ei8Qi53hzaa0c7BXrRIW4"
+      },
+      "artists": [
+        {
+          "name": "Ashton Travis",
+          "url": "https://open.spotify.com/artist/5QFkhK4qG4aIeYZIWg2DO8"
+        },
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214847,
+      "name": "CASINO",
+      "url": "https://open.spotify.com/track/4gnPzSCKecLy9WJeHeJBrk"
+    },
+    {
+      "album": {
+        "name": "Dance Like No One's Watching",
+        "url": "https://open.spotify.com/album/1FfR1LHCNsM7DScxws7L0N"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211396,
+      "name": "Dance Like No One\u2019s Watching",
+      "url": "https://open.spotify.com/track/2kuYZZvjwzYWPA8L7ICFXn"
+    },
+    {
+      "album": {
+        "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
+        "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "DYING 4 YOUR LOVE",
+      "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "album": {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
+    },
+    {
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+    },
+    {
+      "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "The Neptunes",
+          "url": "https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202007,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU"
+    },
+    {
+      "album": {
+        "name": "hooligan / sons & critics",
+        "url": "https://open.spotify.com/album/3DkdRBEwaFuyDTjsrf5dGl"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156774,
+      "name": "hooligan",
+      "url": "https://open.spotify.com/track/02iYJG3KLBJODa5JkQ4O6y"
+    },
+    {
+      "album": {
+        "name": "B4 The Storm",
+        "url": "https://open.spotify.com/album/7bPIbMw7lgncHBoFfzjQRj"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "Lemonade - Remix",
+      "url": "https://open.spotify.com/track/3gU7Pr1I4plN6QSxF6jFh3"
+    },
+    {
+      "album": {
+        "name": "B4 The Storm (Complete Edition)",
+        "url": "https://open.spotify.com/album/21rCymkjqfD8yeyeoPbJMS"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-24",
+      "duration_ms": 181495,
+      "name": "Lemonade - Remix",
+      "url": "https://open.spotify.com/track/57FNYz14MjKVoRTbxtv4A1"
+    },
+    {
+      "album": {
+        "name": "Fuck The World",
+        "url": "https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178488,
+      "name": "Lost Kids Get Money",
+      "url": "https://open.spotify.com/track/47y5boKoOnJoSpBpPEZvhz"
+    },
+    {
+      "album": {
+        "name": "Rap N Roll",
+        "url": "https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu"
+      },
+      "artists": [
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172468,
+      "name": "Love Is Gangster",
+      "url": "https://open.spotify.com/track/4zAGbKyTxOUUEovHovHMJU"
+    },
+    {
+      "album": {
+        "name": "Without A Smile",
+        "url": "https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr"
+      },
+      "artists": [
+        {
+          "name": "Dougie F",
+          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "Luka/New President",
+      "url": "https://open.spotify.com/track/0OIXxIL4UmAU0vO30lwEUY"
+    },
+    {
+      "album": {
+        "name": "Make It Rain",
+        "url": "https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rowdy Rebel",
+          "url": "https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Make It Rain",
+      "url": "https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj"
+    },
+    {
+      "album": {
+        "name": "SAVAGE MODE II",
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201856,
+      "name": "Many Men",
+      "url": "https://open.spotify.com/track/3CDVMejYHnB1SkEEx0T1N4"
+    },
+    {
+      "album": {
+        "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+        "url": "https://open.spotify.com/album/3dPUHr57sBFTHiVtpeO7rv"
+      },
+      "artists": [
+        {
+          "name": "CHASE B",
+          "url": "https://open.spotify.com/artist/2cMVIRpseAO7fJAxNfg6rD"
+        },
+        {
+          "name": "Sheck Wes",
+          "url": "https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179533,
+      "name": "MAYDAY (feat. Sheck Wes & Young Thug)",
+      "url": "https://open.spotify.com/track/7J2DtwsxdoyrhgNV3Vzmos"
+    },
+    {
+      "album": {
+        "name": "So Help Me God!",
+        "url": "https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178993,
+      "name": "Money Maker (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/5ntqpbNqI2ZXWiPA1Pr46f"
+    },
+    {
+      "album": {
+        "name": "A N N I V E R S A R Y",
+        "url": "https://open.spotify.com/album/5KpXxX7OUDXRs25qLyN8NA"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190144,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/2SSyJ6hTS0JeHTg63wVDZ7"
+    },
+    {
+      "album": {
+        "name": "Pluto x Baby Pluto (Deluxe)",
+        "url": "https://open.spotify.com/album/3aITAVBURujVe8fhI2seeR"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186842,
+      "name": "Over Your Head",
+      "url": "https://open.spotify.com/track/7JsuXl9Odf3V38ksu4FWDZ"
+    },
+    {
+      "album": {
+        "name": "No Love Lost",
+        "url": "https://open.spotify.com/album/0pwGvLOBpgIgFlrQVSRqh9"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146938,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6Fc9IYSkbmVwv4dlzn8hJb"
+    },
+    {
+      "album": {
+        "name": "I'm Gone",
+        "url": "https://open.spotify.com/album/3MZ9DaqqNeedTrOsfYH93Q"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226313,
+      "name": "Prospect (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/19WJ1TEz7RlwUrt7NFEW7t"
+    },
+    {
+      "album": {
+        "name": "Prospect (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/0EmINljXosug1gnqewNqnn"
+      },
+      "artists": [
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
+      "duration_ms": 226313,
+      "name": "Prospect (ft. Lil Baby)",
+      "url": "https://open.spotify.com/track/4Zjdzxx0dsavsr7Ehr8fGE"
+    },
+    {
+      "album": {
+        "name": "Reality Check",
+        "url": "https://open.spotify.com/album/2ypwyxLk2t1LUWW6rKyePH"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Reality Check",
+      "url": "https://open.spotify.com/track/2p72O2JobPc9sVz520Hil5"
+    },
+    {
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207243,
+      "name": "Respect It (with Hit-Boy feat. Young Thug)",
+      "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
+    },
+    {
+      "album": {
+        "name": "High Off Life",
+        "url": "https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225347,
+      "name": "Ridin Strikers",
+      "url": "https://open.spotify.com/track/6PHbWsTTlmQKF9i9VC1KFv"
+    },
+    {
+      "album": {
+        "name": "SAVAGE MODE II [CHOPPED NOT SLOPPED]",
+        "url": "https://open.spotify.com/album/263anqt2ayA25jSEXfs0i1"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185036,
+      "name": "Slidin",
+      "url": "https://open.spotify.com/track/1ztkjvyidhhYNg1QSG3KjA"
+    },
+    {
+      "album": {
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+    },
+    {
+      "album": {
+        "name": "Rich Slave",
+        "url": "https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159013,
+      "name": "To Be Honest",
+      "url": "https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm"
+    },
+    {
+      "album": {
+        "name": "Without A Smile",
+        "url": "https://open.spotify.com/album/50lVvEUE53is3DbDazGMHr"
+      },
+      "artists": [
+        {
+          "name": "Dougie F",
+          "url": "https://open.spotify.com/artist/4pBG47zWhJbDw7mpsg68PJ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157779,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/4S0oaxUJqJQVytyxcHNm0h"
+    },
+    {
+      "album": {
+        "name": "Trapped On Cleveland 3",
+        "url": "https://open.spotify.com/album/6fEonnOwdMHNOlHTmQYPTM"
+      },
+      "artists": [
+        {
+          "name": "Lil Keed",
+          "url": "https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240640,
+      "name": "Wavy (Remix) [feat. Travis Scott]",
+      "url": "https://open.spotify.com/track/7kRVWQ1G4o8w3ubfNW2ZHB"
+    },
+    {
+      "album": {
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158240,
+      "name": "WUNNA",
+      "url": "https://open.spotify.com/track/0y7Ao3CVJsyKFmqdjutiIF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXTp4cr7PRsK"
 }

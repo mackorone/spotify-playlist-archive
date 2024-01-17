@@ -1161,6 +1161,32 @@
     },
     {
       "album": {
+        "name": "Bem a Tempo (Yemanjo Remix)",
+        "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
+      },
+      "artists": [
+        {
+          "name": "Mose",
+          "url": "https://open.spotify.com/artist/29osCpAsrEiHxE8t6khiJr"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        },
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337714,
+      "name": "Bem a Tempo - Yemanjo Remix",
+      "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "album": {
         "name": "Between Dreams and Reality EP",
         "url": "https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4"
       },
@@ -1388,7 +1414,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 464237,
       "name": "Caminando de Noche",
       "url": "https://open.spotify.com/track/4L7g38G0N4RWSdaciFkTdQ"
@@ -5470,7 +5496,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 486879,
       "name": "Parivartan",
       "url": "https://open.spotify.com/track/2DKUPy6sTH7vZsjAe4DVUv"
@@ -5732,7 +5758,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": "2024-01-16",
       "duration_ms": 238168,
       "name": "RAI",
       "url": "https://open.spotify.com/track/2aEugZjPLE6nDImluCkcS1"
@@ -6168,7 +6194,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 478764,
       "name": "Savage",
       "url": "https://open.spotify.com/track/6UQP9MgBPN1X7GiOomaBkO"
@@ -6248,7 +6274,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 264317,
       "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
       "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
@@ -6466,7 +6492,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 449454,
       "name": "Soul",
       "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"

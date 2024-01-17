@@ -1,577 +1,1839 @@
 {
-  "2022-06-02": 34496,
-  "2022-06-03": 34526,
-  "2022-06-04": 34564,
-  "2022-06-05": 34584,
-  "2022-06-06": 34606,
-  "2022-06-07": 34627,
-  "2022-06-08": 34660,
-  "2022-06-09": 34674,
-  "2022-06-10": 34698,
-  "2022-06-11": 34716,
-  "2022-06-12": 34745,
-  "2022-06-13": 34774,
-  "2022-06-14": 34791,
-  "2022-06-15": 34817,
-  "2022-06-16": 34834,
-  "2022-06-17": 34854,
-  "2022-06-18": 34888,
-  "2022-06-19": 34934,
-  "2022-06-20": 34934,
-  "2022-06-21": 34955,
-  "2022-06-22": 34989,
-  "2022-06-23": 34989,
-  "2022-06-24": 35016,
-  "2022-06-25": 35039,
-  "2022-06-26": 35069,
-  "2022-06-27": 35094,
-  "2022-06-28": 35109,
-  "2022-06-29": 35134,
-  "2022-06-30": 35150,
-  "2022-07-01": 35170,
-  "2022-07-02": 35190,
-  "2022-07-03": 35224,
-  "2022-07-04": 35241,
-  "2022-07-05": 35241,
-  "2022-07-06": 35241,
-  "2022-07-07": 35308,
-  "2022-07-08": 35336,
-  "2022-07-09": 35351,
-  "2022-07-10": 35389,
-  "2022-07-11": 35420,
-  "2022-07-12": 35452,
-  "2022-07-13": 35467,
-  "2022-07-14": 35488,
-  "2022-07-15": 35516,
-  "2022-07-16": 35551,
-  "2022-07-17": 35586,
-  "2022-07-18": 35601,
-  "2022-07-19": 35623,
-  "2022-07-20": 35648,
-  "2022-07-21": 35659,
-  "2022-07-22": 35681,
-  "2022-07-23": 35709,
-  "2022-07-24": 35740,
-  "2022-07-25": 35755,
-  "2022-07-26": 35772,
-  "2022-07-27": 35797,
-  "2022-07-28": 35819,
-  "2022-07-29": 35839,
-  "2022-07-30": 35896,
-  "2022-07-31": 35896,
-  "2022-08-01": 35911,
-  "2022-08-02": 35959,
-  "2022-08-03": 35959,
-  "2022-08-04": 35979,
-  "2022-08-05": 36011,
-  "2022-08-06": 36022,
-  "2022-08-07": 36050,
-  "2022-08-08": 36073,
-  "2022-08-09": 36081,
-  "2022-08-10": 36097,
-  "2022-08-11": 36120,
-  "2022-08-12": 36149,
-  "2022-08-13": 36172,
-  "2022-08-14": 36194,
-  "2022-08-15": 36225,
-  "2022-08-16": 36243,
-  "2022-08-17": 36260,
-  "2022-08-18": 36278,
-  "2022-08-19": 36303,
-  "2022-08-20": 36339,
-  "2022-08-21": 36357,
-  "2022-08-22": 36388,
-  "2022-08-23": 36408,
-  "2022-08-24": 36429,
-  "2022-08-25": 36457,
-  "2022-08-26": 36482,
-  "2022-08-27": 36505,
-  "2022-08-28": 36533,
-  "2022-08-29": 36554,
-  "2022-08-30": 36577,
-  "2022-08-31": 36599,
-  "2022-09-01": 36627,
-  "2022-09-02": 36656,
-  "2022-09-03": 36685,
-  "2022-09-04": 36719,
-  "2022-09-05": 36741,
-  "2022-09-06": 36767,
-  "2022-09-07": 36782,
-  "2022-09-09": 36835,
-  "2022-09-10": 36869,
-  "2022-09-11": 36894,
-  "2022-09-12": 36925,
-  "2022-09-13": 36943,
-  "2022-09-15": 36990,
-  "2022-09-16": 37008,
-  "2022-09-17": 37026,
-  "2022-09-18": 37067,
-  "2022-09-19": 37091,
-  "2022-09-20": 37106,
-  "2022-09-21": 37124,
-  "2022-09-22": 37136,
-  "2022-09-23": 37155,
-  "2022-09-24": 37155,
-  "2022-09-25": 37200,
-  "2022-09-26": 37232,
-  "2022-09-27": 37255,
-  "2022-09-28": 37273,
-  "2022-09-29": 37305,
-  "2022-09-30": 37331,
-  "2022-10-01": 37352,
-  "2022-10-02": 37384,
-  "2022-10-03": 37415,
-  "2022-10-04": 37435,
-  "2022-10-05": 37457,
-  "2022-10-06": 37479,
-  "2022-10-07": 37505,
-  "2022-10-08": 37527,
-  "2022-10-09": 37594,
-  "2022-10-10": 37604,
-  "2022-10-11": 37619,
-  "2022-10-12": 37641,
-  "2022-10-13": 37678,
-  "2022-10-14": 37711,
-  "2022-10-15": 37755,
-  "2022-10-16": 37788,
-  "2022-10-17": 37813,
-  "2022-10-18": 37844,
-  "2022-10-19": 37862,
-  "2022-10-20": 37893,
-  "2022-10-21": 37932,
-  "2022-10-22": 37960,
-  "2022-10-23": 37996,
-  "2022-10-24": 38019,
-  "2022-10-25": 38046,
-  "2022-10-26": 38065,
-  "2022-10-27": 38086,
-  "2022-10-28": 38109,
-  "2022-10-29": 38131,
-  "2022-10-30": 38158,
-  "2022-10-31": 38191,
-  "2022-11-01": 38206,
-  "2022-11-02": 38225,
-  "2022-11-03": 38247,
-  "2022-11-04": 38276,
-  "2022-11-05": 38299,
-  "2022-11-06": 38327,
-  "2022-11-07": 38346,
-  "2022-11-08": 38371,
-  "2022-11-09": 38396,
-  "2022-11-10": 38415,
-  "2022-11-11": 38442,
-  "2022-11-12": 38482,
-  "2022-11-13": 38518,
-  "2022-11-14": 38551,
-  "2022-11-15": 38580,
-  "2022-11-16": 38598,
-  "2022-11-17": 38623,
-  "2022-11-18": 38625,
-  "2022-11-19": 38628,
-  "2022-11-20": 38654,
-  "2022-11-21": 38688,
-  "2022-11-22": 38711,
-  "2022-11-23": 38736,
-  "2022-11-24": 38777,
-  "2022-11-25": 38805,
-  "2022-11-26": 38836,
-  "2022-11-27": 38863,
-  "2022-11-28": 38896,
-  "2022-11-29": 38913,
-  "2022-11-30": 38933,
-  "2022-12-01": 38954,
-  "2022-12-02": 38968,
-  "2022-12-03": 38996,
-  "2022-12-04": 39036,
-  "2022-12-05": 39073,
-  "2022-12-06": 39088,
-  "2022-12-07": 39109,
-  "2022-12-08": 39119,
-  "2022-12-09": 39158,
-  "2022-12-10": 39192,
-  "2022-12-11": 39227,
-  "2022-12-12": 39259,
-  "2022-12-13": 39286,
-  "2022-12-14": 39314,
-  "2022-12-15": 39339,
-  "2022-12-16": 39352,
-  "2022-12-17": 39375,
-  "2022-12-18": 39404,
-  "2022-12-19": 39424,
-  "2022-12-20": 39465,
-  "2022-12-21": 39465,
-  "2022-12-22": 39484,
-  "2022-12-24": 39548,
-  "2022-12-25": 39600,
-  "2022-12-26": 39642,
-  "2022-12-27": 39652,
-  "2022-12-28": 39676,
-  "2022-12-29": 39698,
-  "2022-12-30": 39737,
-  "2022-12-31": 39783,
-  "2023-01-01": 39822,
-  "2023-01-02": 39858,
-  "2023-01-03": 39873,
-  "2023-01-04": 39888,
-  "2023-01-05": 39910,
-  "2023-01-06": 39945,
-  "2023-01-07": 39969,
-  "2023-01-08": 39979,
-  "2023-01-09": 40009,
-  "2023-01-10": 40024,
-  "2023-01-11": 40050,
-  "2023-01-12": 40062,
-  "2023-01-13": 40097,
-  "2023-01-14": 40142,
-  "2023-01-15": 40142,
-  "2023-01-16": 40174,
-  "2023-01-17": 40182,
-  "2023-01-18": 40205,
-  "2023-01-19": 40234,
-  "2023-01-20": 40256,
-  "2023-01-21": 40280,
-  "2023-01-22": 40302,
-  "2023-01-23": 40331,
-  "2023-01-24": 40345,
-  "2023-01-25": 40366,
-  "2023-01-26": 40385,
-  "2023-01-27": 40410,
-  "2023-01-28": 40432,
-  "2023-01-29": 40467,
-  "2023-01-30": 40491,
-  "2023-01-31": 40491,
-  "2023-02-01": 40538,
-  "2023-02-02": 40558,
-  "2023-02-03": 40574,
-  "2023-02-04": 40611,
-  "2023-02-05": 40639,
-  "2023-02-06": 40680,
-  "2023-02-07": 40698,
-  "2023-02-08": 40746,
-  "2023-02-09": 40746,
-  "2023-02-10": 40784,
-  "2023-02-11": 40815,
-  "2023-02-12": 40877,
-  "2023-02-13": 40905,
-  "2023-02-14": 40905,
-  "2023-02-15": 40929,
-  "2023-02-16": 40952,
-  "2023-02-17": 40970,
-  "2023-02-18": 41019,
-  "2023-02-19": 41032,
-  "2023-02-20": 41053,
-  "2023-02-21": 41084,
-  "2023-02-22": 41104,
-  "2023-02-23": 41130,
-  "2023-02-24": 41160,
-  "2023-02-25": 41204,
-  "2023-02-26": 41221,
-  "2023-02-27": 41270,
-  "2023-02-28": 41270,
-  "2023-03-01": 41289,
-  "2023-03-02": 41325,
-  "2023-03-03": 41357,
-  "2023-03-04": 41383,
-  "2023-03-05": 41454,
-  "2023-03-06": 41454,
-  "2023-03-07": 41481,
-  "2023-03-08": 41506,
-  "2023-03-09": 41530,
-  "2023-03-10": 41568,
-  "2023-03-11": 41601,
-  "2023-03-12": 41627,
-  "2023-03-13": 41659,
-  "2023-03-14": 41686,
-  "2023-03-15": 41704,
-  "2023-03-16": 41704,
-  "2023-03-17": 41704,
-  "2023-03-18": 41847,
-  "2023-03-19": 41847,
-  "2023-03-20": 41959,
-  "2023-03-21": 42006,
-  "2023-03-22": 42033,
-  "2023-03-23": 42070,
-  "2023-03-24": 42070,
-  "2023-03-25": 42128,
-  "2023-03-26": 42184,
-  "2023-03-27": 42213,
-  "2023-03-28": 42252,
-  "2023-03-29": 42283,
-  "2023-03-30": 42325,
-  "2023-03-31": 42325,
-  "2023-04-01": 42349,
-  "2023-04-02": 42382,
-  "2023-04-03": 42424,
-  "2023-04-04": 42445,
-  "2023-04-05": 42464,
-  "2023-04-06": 42491,
-  "2023-04-07": 42532,
-  "2023-04-09": 42600,
-  "2023-04-10": 42628,
-  "2023-04-11": 42657,
-  "2023-04-12": 42657,
-  "2023-04-13": 42676,
-  "2023-04-14": 42698,
-  "2023-04-15": 42729,
-  "2023-04-16": 42758,
-  "2023-04-17": 42798,
-  "2023-04-18": 42824,
-  "2023-04-19": 42837,
-  "2023-04-20": 42867,
-  "2023-04-21": 42892,
-  "2023-04-22": 42931,
-  "2023-04-23": 42947,
-  "2023-04-24": 42969,
-  "2023-04-25": 42994,
-  "2023-04-26": 43017,
-  "2023-04-27": 43045,
-  "2023-04-28": 43063,
-  "2023-04-29": 43085,
-  "2023-04-30": 43110,
-  "2023-05-01": 43132,
-  "2023-05-02": 43150,
-  "2023-05-03": 43167,
-  "2023-05-04": 43189,
-  "2023-05-05": 43210,
-  "2023-05-06": 43246,
-  "2023-05-07": 43278,
-  "2023-05-08": 43314,
-  "2023-05-09": 43340,
-  "2023-05-10": 43361,
-  "2023-05-11": 43394,
-  "2023-05-12": 43413,
-  "2023-05-13": 43436,
-  "2023-05-14": 43475,
-  "2023-05-15": 43501,
-  "2023-05-16": 43538,
-  "2023-05-17": 43567,
-  "2023-05-18": 43593,
-  "2023-05-19": 43617,
-  "2023-05-20": 43678,
-  "2023-05-21": 43678,
-  "2023-05-22": 43678,
-  "2023-05-23": 43724,
-  "2023-05-24": 43755,
-  "2023-05-25": 43769,
-  "2023-05-26": 43802,
-  "2023-05-27": 43828,
-  "2023-05-28": 43861,
-  "2023-05-29": 43861,
-  "2023-05-30": 43893,
-  "2023-05-31": 43922,
-  "2023-06-01": 43949,
-  "2023-06-02": 43970,
-  "2023-06-03": 43994,
-  "2023-06-04": 44025,
-  "2023-06-05": 44056,
-  "2023-06-06": 44072,
-  "2023-06-07": 44108,
-  "2023-06-08": 44131,
-  "2023-06-09": 44152,
-  "2023-06-10": 44180,
-  "2023-06-11": 44197,
-  "2023-06-12": 44214,
-  "2023-06-13": 44233,
-  "2023-06-14": 44248,
-  "2023-06-15": 44265,
-  "2023-06-16": 44290,
-  "2023-06-17": 44316,
-  "2023-06-18": 44346,
-  "2023-06-19": 44384,
-  "2023-06-20": 44416,
-  "2023-06-21": 44449,
-  "2023-06-22": 44475,
-  "2023-06-23": 44502,
-  "2023-06-24": 44538,
-  "2023-06-25": 44577,
-  "2023-06-26": 44592,
-  "2023-06-27": 44620,
-  "2023-06-28": 44644,
-  "2023-06-29": 44664,
-  "2023-06-30": 44688,
-  "2023-07-01": 44753,
-  "2023-07-02": 44753,
-  "2023-07-03": 44778,
-  "2023-07-04": 44798,
-  "2023-07-05": 44828,
-  "2023-07-06": 44886,
-  "2023-07-07": 44886,
-  "2023-07-08": 44886,
-  "2023-07-09": 44945,
-  "2023-07-10": 44970,
-  "2023-07-11": 44999,
-  "2023-07-12": 45022,
-  "2023-07-13": 45022,
-  "2023-07-14": 45073,
-  "2023-07-15": 45093,
-  "2023-07-16": 45141,
-  "2023-07-17": 45187,
-  "2023-07-18": 45210,
-  "2023-07-19": 45237,
-  "2023-07-20": 45237,
-  "2023-07-21": 45280,
-  "2023-07-22": 45313,
-  "2023-07-23": 45352,
-  "2023-07-24": 45375,
-  "2023-07-25": 45407,
-  "2023-07-26": 45434,
-  "2023-07-27": 45464,
-  "2023-07-28": 45464,
-  "2023-07-29": 45538,
-  "2023-07-30": 45538,
-  "2023-07-31": 45600,
-  "2023-08-01": 45612,
-  "2023-08-02": 45634,
-  "2023-08-03": 45660,
-  "2023-08-04": 45683,
-  "2023-08-05": 45717,
-  "2023-08-06": 45784,
-  "2023-08-07": 45784,
-  "2023-08-08": 45812,
-  "2023-08-09": 45835,
-  "2023-08-10": 45873,
-  "2023-08-11": 45892,
-  "2023-08-12": 45892,
-  "2023-08-13": 45892,
-  "2023-08-14": 45892,
-  "2023-08-15": 45892,
-  "2023-08-16": 45892,
-  "2023-08-17": 45892,
-  "2023-08-18": 45892,
-  "2023-08-19": 45892,
-  "2023-08-20": 46203,
-  "2023-08-21": 46203,
-  "2023-08-22": 46296,
-  "2023-08-23": 46296,
-  "2023-08-24": 46296,
-  "2023-08-25": 46296,
-  "2023-08-26": 46433,
-  "2023-08-27": 46433,
-  "2023-08-28": 46524,
-  "2023-08-29": 46524,
-  "2023-08-30": 46524,
-  "2023-08-31": 46639,
-  "2023-09-01": 46677,
-  "2023-09-02": 46677,
-  "2023-09-03": 46677,
-  "2023-09-04": 46677,
-  "2023-09-05": 46677,
-  "2023-09-06": 46677,
-  "2023-09-07": 46677,
-  "2023-09-08": 46677,
-  "2023-09-09": 46677,
-  "2023-09-10": 46677,
-  "2023-09-11": 46677,
-  "2023-09-12": 46677,
-  "2023-09-13": 46677,
-  "2023-09-14": 46677,
-  "2023-09-15": 46677,
-  "2023-09-16": 46677,
-  "2023-09-17": 46677,
-  "2023-09-18": 46677,
-  "2023-09-19": 46677,
-  "2023-09-20": 46677,
-  "2023-09-21": 46677,
-  "2023-09-22": 47370,
-  "2023-09-23": 47370,
-  "2023-09-24": 47370,
-  "2023-09-25": 47370,
-  "2023-09-26": 47505,
-  "2023-09-27": 47505,
-  "2023-09-28": 47505,
-  "2023-09-29": 47505,
-  "2023-09-30": 47505,
-  "2023-10-01": 47505,
-  "2023-10-02": 47505,
-  "2023-10-03": 47505,
-  "2023-10-04": 47505,
-  "2023-10-05": 47505,
-  "2023-10-06": 47505,
-  "2023-10-07": 47505,
-  "2023-10-08": 47505,
-  "2023-10-09": 47505,
-  "2023-10-10": 47505,
-  "2023-10-11": 47505,
-  "2023-10-12": 47505,
-  "2023-10-13": 47505,
-  "2023-10-14": 47505,
-  "2023-10-15": 47505,
-  "2023-10-16": 47505,
-  "2023-10-17": 47505,
-  "2023-10-18": 47505,
-  "2023-10-19": 47505,
-  "2023-10-20": 47505,
-  "2023-10-21": 47505,
-  "2023-10-22": 47505,
-  "2023-10-23": 47505,
-  "2023-10-24": 47505,
-  "2023-10-25": 47505,
-  "2023-10-26": 47505,
-  "2023-10-27": 47505,
-  "2023-10-28": 47505,
-  "2023-10-29": 47505,
-  "2023-10-30": 47505,
-  "2023-10-31": 47505,
-  "2023-11-01": 47505,
-  "2023-11-02": 47505,
-  "2023-11-03": 47505,
-  "2023-11-04": 47505,
-  "2023-11-05": 47505,
-  "2023-11-06": 47505,
-  "2023-11-07": 47505,
-  "2023-11-08": 47505,
-  "2023-11-09": 47505,
-  "2023-11-10": 47505,
-  "2023-11-11": 48888,
-  "2023-11-12": 48888,
-  "2023-11-13": 48888,
-  "2023-11-14": 48888,
-  "2023-11-15": 48888,
-  "2023-11-16": 48888,
-  "2023-11-17": 48888,
-  "2023-11-18": 48888,
-  "2023-11-19": 48888,
-  "2023-11-20": 48888,
-  "2023-11-21": 48888,
-  "2023-11-22": 48888,
-  "2023-11-23": 48888,
-  "2023-11-24": 48888,
-  "2023-11-25": 48888,
-  "2023-11-26": 48888,
-  "2023-11-27": 48888,
-  "2023-11-28": 48888,
-  "2023-11-29": 48888,
-  "2023-11-30": 48888,
-  "2023-12-01": 48888,
-  "2023-12-02": 48888,
-  "2023-12-03": 48888,
-  "2023-12-04": 48888,
-  "2023-12-05": 48888,
-  "2023-12-06": 48888,
-  "2023-12-07": 48888,
-  "2023-12-08": 48888,
-  "2023-12-09": 48888,
-  "2023-12-10": 48888,
-  "2023-12-11": 48888,
-  "2023-12-12": 48888,
-  "2023-12-13": 48888,
-  "2023-12-14": 49948,
-  "2023-12-15": 49971,
-  "2023-12-16": 49994,
-  "2023-12-17": 50026,
-  "2023-12-18": 50051,
-  "2023-12-19": 50081,
-  "2023-12-20": 50105,
-  "2023-12-21": 50147,
-  "2023-12-22": 50176,
-  "2023-12-23": 50204,
-  "2023-12-24": 50236,
-  "2023-12-25": 50276,
-  "2023-12-26": 50313,
-  "2023-12-27": 50328,
-  "2023-12-30": 50392,
-  "2023-12-31": 50445,
-  "2024-01-01": 50489,
-  "2024-01-02": 50511,
-  "2024-01-03": 50537
+  "2024-01-17": 50788,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is El Coyote Y Su Banda Tierra Santa. The essential tracks, all in one playlist.",
+  "name": "This Is El Coyote Y Su Banda Tierra Santa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lo Basico",
+        "url": "https://open.spotify.com/album/6CE7YrsZV7r70OadZDrPTS"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Alla En El Rancho Grande",
+      "url": "https://open.spotify.com/track/0zTXzW75XBCtt9v8ccXixg"
+    },
+    {
+      "album": {
+        "name": "Alucine",
+        "url": "https://open.spotify.com/album/7i5xLbOj6zyoDAJUnpHhGZ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 184607,
+      "name": "Alucin\u00e9",
+      "url": "https://open.spotify.com/track/1dKiTltAJ2zA4hi2DIZkWb"
+    },
+    {
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146533,
+      "name": "Amargo Dolor",
+      "url": "https://open.spotify.com/track/40Xi96Q11Z05FmQJCLqH2G"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174840,
+      "name": "Amor Imposible",
+      "url": "https://open.spotify.com/track/6QxIAW54300NHUEpSCOfRq"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 175746,
+      "name": "Amor Imposible",
+      "url": "https://open.spotify.com/track/5e9meF6UEQVNIooWW7bQYy"
+    },
+    {
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-02-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "Amor Pajarito",
+      "url": "https://open.spotify.com/track/2BD7BqaHECIj0pAER6N7jb"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 183400,
+      "name": "Amor Pajarito",
+      "url": "https://open.spotify.com/track/40GoQdAvYcAUmyT7N56vN1"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179400,
+      "name": "Arboles De La Barranca",
+      "url": "https://open.spotify.com/track/3Oa31DdD8vxktKoyUf7RyZ"
+    },
+    {
+      "album": {
+        "name": "Escuela de la Vida",
+        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144533,
+      "name": "Ataca y Atrapa",
+      "url": "https://open.spotify.com/track/6wyrC6ockDrREoAxiV0qm7"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Atrapado",
+      "url": "https://open.spotify.com/track/71gh7kQdKfaDWZSZZIU1ff"
+    },
+    {
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 179440,
+      "name": "Aunque Nos Duela",
+      "url": "https://open.spotify.com/track/2m95cnnwmIf7clpJ6dkXui"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 148493,
+      "name": "Besitos En El Cuello",
+      "url": "https://open.spotify.com/track/2ZufmJCBqebEuiJdhPOnpm"
+    },
+    {
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151626,
+      "name": "Carta Abierta",
+      "url": "https://open.spotify.com/track/4eSYNzie0zHOPoXp0iisZw"
+    },
+    {
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203180,
+      "name": "Cita con un Invento",
+      "url": "https://open.spotify.com/track/773lk88kjUKstndUTL1W7F"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177093,
+      "name": "Conc\u00e9deme",
+      "url": "https://open.spotify.com/track/0FANQz7nFRHIMmdwUCKJdC"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 177520,
+      "name": "Conc\u00e9deme",
+      "url": "https://open.spotify.com/track/5Q8lRKYm8vbPJbcJoE7JXX"
+    },
+    {
+      "album": {
+        "name": "Cuando Me Vi En Tus Ojos",
+        "url": "https://open.spotify.com/album/6SOeP0jexav5t3x5J1wFKH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 171781,
+      "name": "Cuando Me Vi En Tus Ojos",
+      "url": "https://open.spotify.com/track/6LVnqu9o1XKTV03tBgiEsR"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 188440,
+      "name": "Cuando Regreso A Tus Brazos",
+      "url": "https://open.spotify.com/track/4ZTSCkYVhnaxiKDkGvl3kN"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 167471,
+      "name": "C\u00f3mo le Har\u00e9 para Olvidarte",
+      "url": "https://open.spotify.com/track/3BbtYnuLjnLDQDlMIrCW7g"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-10",
+      "duration_ms": 275400,
+      "name": "Dolor Y Amor",
+      "url": "https://open.spotify.com/track/4jaY53IV5NntsISYc1Frmn"
+    },
+    {
+      "album": {
+        "name": "\u00c9chenle Coco",
+        "url": "https://open.spotify.com/album/68BWXXM5TnonHxNwOXz4lm"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 142288,
+      "name": "Dos Pasajes",
+      "url": "https://open.spotify.com/track/1x272X0ADt2g0OIpoIL6Du"
+    },
+    {
+      "album": {
+        "name": "Echenle Coco",
+        "url": "https://open.spotify.com/album/2gLLeyl5n5retBUegmM4zi"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 139049,
+      "name": "Echenle Coco",
+      "url": "https://open.spotify.com/track/78qo4xf0zpQoiAmDgaPc8m"
+    },
+    {
+      "album": {
+        "name": "El Amo",
+        "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "El Amo",
+      "url": "https://open.spotify.com/track/1W3lwaQRhmT3LQW2xKQuqp"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "El Amor No Tiene Edad",
+      "url": "https://open.spotify.com/track/0oYZtUomf11wsoyNvScsTo"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "El Borrego",
+      "url": "https://open.spotify.com/track/7pdDsYNYQPf50Bwza8ErYm"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 209760,
+      "name": "El Cachanilla",
+      "url": "https://open.spotify.com/track/0TRM2GPcSWaZWJUr4cMDin"
+    },
+    {
+      "album": {
+        "name": "Escuela de la Vida",
+        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 175626,
+      "name": "El Compita",
+      "url": "https://open.spotify.com/track/7b1gkLFxPWmS70024k2Okq"
+    },
+    {
+      "album": {
+        "name": "El Dia Que Me Vaya",
+        "url": "https://open.spotify.com/album/5rQlz3Jw0MWSfbzsTRvHZG"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-04",
+      "duration_ms": 205165,
+      "name": "El Dia Que Me Vaya",
+      "url": "https://open.spotify.com/track/315dRf7ewuvsGN0RORRsya"
+    },
+    {
+      "album": {
+        "name": "El Especial",
+        "url": "https://open.spotify.com/album/3vgqWLTfClYLFJRVPbGKuP"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 170135,
+      "name": "El Especial",
+      "url": "https://open.spotify.com/track/6RCK1hYoBUaUmZSX0s4Rzn"
+    },
+    {
+      "album": {
+        "name": "El Amo",
+        "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146733,
+      "name": "El Federal De Caminos",
+      "url": "https://open.spotify.com/track/0vttfYDZ6uLi6kStSxkTrB"
+    },
+    {
+      "album": {
+        "name": "3 Grandes De La Banda En Homenaje A Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/7MqSnitKxSy1vMXb35250u"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Alfredo Jimenez",
+          "url": "https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9"
+        },
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187062,
+      "name": "El Hijo Del Pueblo",
+      "url": "https://open.spotify.com/track/1Ccnqnx2Rp9msuOCudiqwg"
+    },
+    {
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 198347,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/00UCfwswH8Tw9XMDxxvB5Y"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 1)",
+        "url": "https://open.spotify.com/album/7mxr7LJxTrvFV49FkjmEpI"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 198347,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/4PWIUiEdobHkrKoZjoKRI4"
+    },
+    {
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199813,
+      "name": "El Muchacho Alegre",
+      "url": "https://open.spotify.com/track/5R9M8yBGVGs3VpkBWXAyll"
+    },
+    {
+      "album": {
+        "name": "Levanta Tu Vuelo",
+        "url": "https://open.spotify.com/album/1XnWk7t7nYnJjLkBVPCnbr"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 208300,
+      "name": "Encerrado",
+      "url": "https://open.spotify.com/track/1n0ECnVy1rs3WTTKIt60s5"
+    },
+    {
+      "album": {
+        "name": "Levanta Tu Vuelo",
+        "url": "https://open.spotify.com/album/3ZYwlE2KKfBSEdxCci9BfQ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208300,
+      "name": "Encerrado",
+      "url": "https://open.spotify.com/track/7A5DHJzXRwhqZmZnxqphec"
+    },
+    {
+      "album": {
+        "name": "El Rancho Grande",
+        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-03",
+      "duration_ms": 182906,
+      "name": "Eres Mi Paz",
+      "url": "https://open.spotify.com/track/0awSrFzOvDRklXhZSuRnMe"
+    },
+    {
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-01-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Esperanza Valero",
+      "url": "https://open.spotify.com/track/6YERvxBDNRxomS8A4YYR8i"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 160066,
+      "name": "Esta Tristeza M\u00eda",
+      "url": "https://open.spotify.com/track/3JaqxH3f3lGBXYQkhdRPRY"
+    },
+    {
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 182835,
+      "name": "Estilon Austero - En Vivo",
+      "url": "https://open.spotify.com/track/4MT4tkMloQ0fyQMjJlVWh0"
+    },
+    {
+      "album": {
+        "name": "La Carretera Del Amor",
+        "url": "https://open.spotify.com/album/03qmOstAD3yhKsgr5m0ALy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 131291,
+      "name": "Fiesta En La Sierra",
+      "url": "https://open.spotify.com/track/0Jfycqj5DREyaONU5km9Pg"
+    },
+    {
+      "album": {
+        "name": "Fue Un Placer",
+        "url": "https://open.spotify.com/album/39dU0zdn3mhDzE8O3mhzqZ"
+      },
+      "artists": [
+        {
+          "name": "Traviezoz de la Zierra",
+          "url": "https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Los Plebes del Rancho del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/1C73c6IIUrIhfwPU8YGoBq"
+        },
+        {
+          "name": "Los Elementos de Culiacan",
+          "url": "https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        },
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267151,
+      "name": "Fue Un Placer",
+      "url": "https://open.spotify.com/track/1xbJgNrATP9zyCKiM3o6NW"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/4tAEa8PCDCdGJxmDnyjguB"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136760,
+      "name": "Hablando Claro",
+      "url": "https://open.spotify.com/track/4NiNF2TgroCObAR1iYX1MR"
+    },
+    {
+      "album": {
+        "name": "El Amo",
+        "url": "https://open.spotify.com/album/4YblOZueMvUtw52G7DETSj"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177266,
+      "name": "Juan Ramos",
+      "url": "https://open.spotify.com/track/1UbzmkVajS4YyoJLuGP7q9"
+    },
+    {
+      "album": {
+        "name": "Escuela de la Vida",
+        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142199,
+      "name": "La Escuela de la Vida",
+      "url": "https://open.spotify.com/track/1yplnIFFnaIPgiOOKdlQDa"
+    },
+    {
+      "album": {
+        "name": "Como una Huella Digital",
+        "url": "https://open.spotify.com/album/2smzCkewD9Jfht4iw9spg6"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143880,
+      "name": "La Loba del Mar",
+      "url": "https://open.spotify.com/track/6ozLwDnOkZBN1yir033PyG"
+    },
+    {
+      "album": {
+        "name": "Porque Te Am\u00e9 (Vol. 1)",
+        "url": "https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 216586,
+      "name": "La Manuelita",
+      "url": "https://open.spotify.com/track/4mSRvEUd338ZSDGR4ApCOR"
+    },
+    {
+      "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "La Prieta Linda",
+      "url": "https://open.spotify.com/track/0P2uUhEU7JeVPCwFnxhrAD"
+    },
+    {
+      "album": {
+        "name": "El Polo Norte",
+        "url": "https://open.spotify.com/album/0mtRgmzxZP7qeD8Sr9yNPy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157988,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/2shyIItJyRX7iEQ8dOqLkk"
+    },
+    {
+      "album": {
+        "name": "Escuela de la Vida",
+        "url": "https://open.spotify.com/album/1FajOqCHXRux8YmKtYVbjg"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 150493,
+      "name": "Las Morenas",
+      "url": "https://open.spotify.com/track/5JmEjPobY0W4JN8F20yeeh"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 1)",
+        "url": "https://open.spotify.com/album/7mxr7LJxTrvFV49FkjmEpI"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 178964,
+      "name": "Macario Leyva",
+      "url": "https://open.spotify.com/track/7k2RA1k38FbvVnenGGdrhD"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 142680,
+      "name": "Me Dicen El Coyote",
+      "url": "https://open.spotify.com/track/2Rll5IpwDhcMexs1jtIuoZ"
+    },
+    {
+      "album": {
+        "name": "El Rancho Grande",
+        "url": "https://open.spotify.com/album/2EsT6h6uz0AUyozpqoJh7e"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114474,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/2L2hf0hRTCJZRSHsxNtw5P"
+    },
+    {
+      "album": {
+        "name": "Cuando Regreso A Tus Brazos",
+        "url": "https://open.spotify.com/album/5Xh3r6kzRx25E91eNZh8cJ"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164666,
+      "name": "Mi Coraz\u00f3n Te Quiere",
+      "url": "https://open.spotify.com/track/6GtlSqp6S72hz1eRndGo8N"
+    },
+    {
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142866,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/2rPbkr5Y83bR3WPscwJU2O"
+    },
+    {
+      "album": {
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        },
+        {
+          "name": "El Cachorro",
+          "url": "https://open.spotify.com/artist/0VPMSg2yfRBQaPP89fwbMM"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 1187749,
+      "name": "Mi Ranchito / La Feria De Las Flores / Los Pajaros / La Vaquilla /Mi Gusto Es / Arboles De La Barranca - En Vivo",
+      "url": "https://open.spotify.com/track/3UvpQZxXWN0HVCsOgMegQW"
+    },
+    {
+      "album": {
+        "name": "Profundamente",
+        "url": "https://open.spotify.com/album/78HIF5oTYm7ouvaMvFyz7i"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227973,
+      "name": "No Puedo Olvidar Tu Voz",
+      "url": "https://open.spotify.com/track/0dcmh8adgSXu94G9N0Eunt"
+    },
+    {
+      "album": {
+        "name": "No Va a Matarme Tu Amor",
+        "url": "https://open.spotify.com/album/1C5YP77Dh2dKDNT2B6VpSX"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189440,
+      "name": "No Va a Matarme Tu Amor",
+      "url": "https://open.spotify.com/track/3awcf60XKtp6eSWcxGluyT"
+    },
+    {
+      "album": {
+        "name": "No volver\u00e9",
+        "url": "https://open.spotify.com/album/495pzlAoRmw7DJxLhbpSvn"
+      },
+      "artists": [
+        {
+          "name": "Banda 89",
+          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
+        },
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160533,
+      "name": "No volver\u00e9",
+      "url": "https://open.spotify.com/track/27qAGAUh2empb6QIAMJi2o"
+    },
+    {
+      "album": {
+        "name": "Concedeme",
+        "url": "https://open.spotify.com/album/74dTTdKKCU5SXZpJvdSygY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152093,
+      "name": "Ojos Negros",
+      "url": "https://open.spotify.com/track/438LdN72OnqCv46ZzHtcwC"
+    },
+    {
+      "album": {
+        "name": "Idolos De Mexico Para El Mundo",
+        "url": "https://open.spotify.com/album/03QeaYk3AUCbRQFBQdXOZG"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-03",
+      "duration_ms": 219373,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/3zhLYl0tIzHUx6UxD1KP0C"
+    },
+    {
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221387,
+      "name": "Para Impresionarte",
+      "url": "https://open.spotify.com/track/7K9l7fTMF3RtmV7MDOBxg4"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149640,
+      "name": "Pase Y Pase",
+      "url": "https://open.spotify.com/track/5sK1Tz6eqakvg6qpOtJxMg"
+    },
+    {
+      "album": {
+        "name": "El Amor No Tiene Edad",
+        "url": "https://open.spotify.com/album/5ld9ikvXhVrDJ0D3OwPY5K"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Pedro Avil\u00e9s",
+      "url": "https://open.spotify.com/track/2O5PXvFcz0MrjLYdcDmyJS"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 214386,
+      "name": "Perdona Mis Errores",
+      "url": "https://open.spotify.com/track/15MwZH180zIp9QWYbX0FBe"
+    },
+    {
+      "album": {
+        "name": "Coleccion Suprema",
+        "url": "https://open.spotify.com/album/5IUhaLA9PFfj1UgknJ0I5f"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Piquetes De Hormiga",
+      "url": "https://open.spotify.com/track/4u5dcho6aCcdwJoNPCm7bu"
+    },
+    {
+      "album": {
+        "name": "Las Mera Buenas",
+        "url": "https://open.spotify.com/album/246B5dU5Ai5guXS6UAER7b"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 145253,
+      "name": "Piquetes De Hormiga",
+      "url": "https://open.spotify.com/track/5kvKKNzwXv9fpACJZ4bX9E"
+    },
+    {
+      "album": {
+        "name": "Esto Es Lo Nuestro - 20 Exitos",
+        "url": "https://open.spotify.com/album/7EVGFNX0svFH7FhInsIo2h"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/4xfBuv8JI74VklmZb3pjoB"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 194853,
+      "name": "Profundamente",
+      "url": "https://open.spotify.com/track/2J3BdzcJlWoH5JqL4jxuMY"
+    },
+    {
+      "album": {
+        "name": "Prohibido",
+        "url": "https://open.spotify.com/album/1fTMFtna1GzcCtBH4tBGNT"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176169,
+      "name": "Prohibido",
+      "url": "https://open.spotify.com/track/48bf7pvc1nlsSjnHkoz0VY"
+    },
+    {
+      "album": {
+        "name": "La Evolucion De Una Estrella",
+        "url": "https://open.spotify.com/album/6k7d21DElnpqLJJZ9f1TEl"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6nAwNfJ1kxO5r2EWClqW1b"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/6jWO1gpaKRmFOkankuNGqK"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163826,
+      "name": "Quiero Charlar Con La Muerte",
+      "url": "https://open.spotify.com/track/5P1Fm2SSTWfcRmpCCjxwHd"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142026,
+      "name": "Qu\u00e9 Casualidad",
+      "url": "https://open.spotify.com/track/0AFkOMz5UWiDQUMswNqT42"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232154,
+      "name": "Reproches Al Viento",
+      "url": "https://open.spotify.com/track/4c8ouGnAqVqp3puWViy0Pz"
+    },
+    {
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1MWHfmhCI3Y5iX0f0GwV5J"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 121600,
+      "name": "Rifare Mi Suerte",
+      "url": "https://open.spotify.com/track/2WyJSulp2RErZqWTIwBCCm"
+    },
+    {
+      "album": {
+        "name": "Decimo Aniversario",
+        "url": "https://open.spotify.com/album/1zhTxS7ylCGBu2tKivVdyF"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121600,
+      "name": "Rifare Mi Suerte",
+      "url": "https://open.spotify.com/track/2bBB6rAdCjODuUdJrCARIj"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 121600,
+      "name": "Rifar\u00e9 Mi Suerte",
+      "url": "https://open.spotify.com/track/0Mse2QDbcMbFirPuDsHP1B"
+    },
+    {
+      "album": {
+        "name": "Se Tenia Que Decir Y Se Dijo",
+        "url": "https://open.spotify.com/album/6eu7tibSE8RbIvz0p2FjVA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 211341,
+      "name": "Se Tenia Que Decir Y Se Dijo",
+      "url": "https://open.spotify.com/track/0kthROvKVawwpvLLJbDAtr"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/2Kf5AQerl18JGFq5MQDhSD"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 195560,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/6bFu16vRDY8MqHigErWb2j"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 179853,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/22m49TfP4vYbd4PPERALGG"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 2)",
+        "url": "https://open.spotify.com/album/4WfvdBmvwXXv4RMq9eOWVV"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 179853,
+      "name": "Suspiros",
+      "url": "https://open.spotify.com/track/3V1n28L1PzXZVjOA4FcVng"
+    },
+    {
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/0DtuRnKX8XgK2Os72ACGrY"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/0hZgBAj7W0EkRH16feKmUu"
+    },
+    {
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143146,
+      "name": "Te Vas Amor",
+      "url": "https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK"
+    },
+    {
+      "album": {
+        "name": "Puras Rancheras",
+        "url": "https://open.spotify.com/album/2oai80RcPheeeg0bNCPDRW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Treinta Cartas",
+      "url": "https://open.spotify.com/track/7pAUPye8Lip2VnKmnzRiHD"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 2",
+        "url": "https://open.spotify.com/album/413gecZxn5pFxE7hekZYGW"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157274,
+      "name": "Trienta Cartas",
+      "url": "https://open.spotify.com/track/2h2e7oQQrXOMFSy4ttLaLU"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3HZwshxrCybf8WzwrGLw22"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 235520,
+      "name": "Un Besito",
+      "url": "https://open.spotify.com/track/3qNEbFjEci7MJ9O3JLRHTZ"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/5Nb8Vdd63qIpNwi9mNl5yH"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 212610,
+      "name": "Una Aventura",
+      "url": "https://open.spotify.com/track/2W6OFlCUxNinyLVnbIzch8"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/20CuPsvlVGNNGZeRjXH3LA"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199933,
+      "name": "Verdad",
+      "url": "https://open.spotify.com/track/6eSHAK97hICMhLd6UWbPGM"
+    },
+    {
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1zpIxfxGOIscfiAzHR39mD"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        },
+        {
+          "name": "Banda 89",
+          "url": "https://open.spotify.com/artist/6obOm55X77MaT63vvPielg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 210133,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/7f6C5WsOj6ElA8jltRRO4H"
+    },
+    {
+      "album": {
+        "name": "Porque Te Am\u00e9 (Vol. 1)",
+        "url": "https://open.spotify.com/album/11RxvUuFr3iNGo6b3V7wi8"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 169807,
+      "name": "Y por Esa Calle",
+      "url": "https://open.spotify.com/track/64htZlvc8Dx9jzKLR1tSL7"
+    },
+    {
+      "album": {
+        "name": "Exitos En Vivo Vol. 1",
+        "url": "https://open.spotify.com/album/2yfdhZqHLZXOgQeAThSr4B"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 138313,
+      "name": "Y Que Paso",
+      "url": "https://open.spotify.com/track/2gOOKb53hbXZCtKODq6B6Y"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 1)",
+        "url": "https://open.spotify.com/album/0ryJ2CU8cnEbQJ0dOUdQPu"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 168724,
+      "name": "\u00bfY Si Te Robo",
+      "url": "https://open.spotify.com/track/1CGD276EY6Yp75Wrpd5JSc"
+    },
+    {
+      "album": {
+        "name": "La Carretera Del Amor",
+        "url": "https://open.spotify.com/album/03qmOstAD3yhKsgr5m0ALy"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 166112,
+      "name": "\u00bfY Si Te Robo?",
+      "url": "https://open.spotify.com/track/4C2lFOodLwlLDz52wthbMu"
+    },
+    {
+      "album": {
+        "name": "La Carretera del Amor",
+        "url": "https://open.spotify.com/album/7LFlT5hf0AzCNXV1HNMTnd"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 166112,
+      "name": "\u00bfY Si Te Robo?",
+      "url": "https://open.spotify.com/track/7Fh5uHFDYDJPlJn1bfyNMs"
+    },
+    {
+      "album": {
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Componente 1)",
+        "url": "https://open.spotify.com/album/7mxr7LJxTrvFV49FkjmEpI"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 168724,
+      "name": "\u00bfY Si Te Robo?",
+      "url": "https://open.spotify.com/track/1kPEW1q35LVNVem6PXlhpE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4q1hR2"
 }

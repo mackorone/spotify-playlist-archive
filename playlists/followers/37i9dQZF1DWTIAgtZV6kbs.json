@@ -1,569 +1,2857 @@
 {
-  "2022-06-10": 97866,
-  "2022-06-11": 97936,
-  "2022-06-12": 98021,
-  "2022-06-13": 98109,
-  "2022-06-14": 98202,
-  "2022-06-15": 98282,
-  "2022-06-16": 98358,
-  "2022-06-17": 98430,
-  "2022-06-18": 98507,
-  "2022-06-19": 98678,
-  "2022-06-20": 98678,
-  "2022-06-21": 98769,
-  "2022-06-22": 98958,
-  "2022-06-23": 98958,
-  "2022-06-24": 99046,
-  "2022-06-25": 99100,
-  "2022-06-26": 99189,
-  "2022-06-27": 99189,
-  "2022-06-28": 99319,
-  "2022-06-29": 99401,
-  "2022-06-30": 99481,
-  "2022-07-01": 99576,
-  "2022-07-02": 99654,
-  "2022-07-03": 99715,
-  "2022-07-04": 99798,
-  "2022-07-05": 99865,
-  "2022-07-06": 99943,
-  "2022-07-07": 100029,
-  "2022-07-08": 100109,
-  "2022-07-09": 100186,
-  "2022-07-10": 100259,
-  "2022-07-11": 100332,
-  "2022-07-12": 100418,
-  "2022-07-13": 100512,
-  "2022-07-14": 100593,
-  "2022-07-15": 100679,
-  "2022-07-16": 100767,
-  "2022-07-17": 100885,
-  "2022-07-18": 100963,
-  "2022-07-19": 101070,
-  "2022-07-20": 101175,
-  "2022-07-21": 101279,
-  "2022-07-22": 101384,
-  "2022-07-23": 101495,
-  "2022-07-24": 101615,
-  "2022-07-25": 101705,
-  "2022-07-26": 101821,
-  "2022-07-27": 101937,
-  "2022-07-28": 102054,
-  "2022-07-29": 102172,
-  "2022-07-30": 102357,
-  "2022-07-31": 102357,
-  "2022-08-01": 102454,
-  "2022-08-02": 102642,
-  "2022-08-03": 102642,
-  "2022-08-04": 102725,
-  "2022-08-05": 102826,
-  "2022-08-06": 102945,
-  "2022-08-07": 103031,
-  "2022-08-08": 103142,
-  "2022-08-09": 103243,
-  "2022-08-10": 103355,
-  "2022-08-11": 103475,
-  "2022-08-12": 103576,
-  "2022-08-13": 103682,
-  "2022-08-14": 103788,
-  "2022-08-15": 103907,
-  "2022-08-16": 104016,
-  "2022-08-17": 104110,
-  "2022-08-18": 104201,
-  "2022-08-19": 104306,
-  "2022-08-20": 104423,
-  "2022-08-21": 104547,
-  "2022-08-22": 104661,
-  "2022-08-23": 104785,
-  "2022-08-24": 104870,
-  "2022-08-25": 104984,
-  "2022-08-26": 105101,
-  "2022-08-27": 105207,
-  "2022-08-28": 105302,
-  "2022-08-29": 105426,
-  "2022-08-30": 105287,
-  "2022-08-31": 105375,
-  "2022-09-01": 104941,
-  "2022-09-02": 104493,
-  "2022-09-03": 104041,
-  "2022-09-04": 103207,
-  "2022-09-05": 102789,
-  "2022-09-06": 102859,
-  "2022-09-07": 102938,
-  "2022-09-09": 103144,
-  "2022-09-10": 103239,
-  "2022-09-11": 103342,
-  "2022-09-12": 103459,
-  "2022-09-13": 103556,
-  "2022-09-15": 103752,
-  "2022-09-16": 103855,
-  "2022-09-17": 103968,
-  "2022-09-18": 104092,
-  "2022-09-19": 104205,
-  "2022-09-20": 104302,
-  "2022-09-21": 104399,
-  "2022-09-22": 104509,
-  "2022-09-23": 104600,
-  "2022-09-24": 104684,
-  "2022-09-25": 104784,
-  "2022-09-26": 104885,
-  "2022-09-27": 104980,
-  "2022-09-28": 105091,
-  "2022-09-29": 105187,
-  "2022-09-30": 105281,
-  "2022-10-01": 105395,
-  "2022-10-02": 105486,
-  "2022-10-03": 105601,
-  "2022-10-04": 105740,
-  "2022-10-05": 105861,
-  "2022-10-06": 105958,
-  "2022-10-07": 106049,
-  "2022-10-08": 106129,
-  "2022-10-09": 106332,
-  "2022-10-10": 106359,
-  "2022-10-11": 106464,
-  "2022-10-12": 106553,
-  "2022-10-13": 106643,
-  "2022-10-14": 106761,
-  "2022-10-15": 106847,
-  "2022-10-16": 106954,
-  "2022-10-17": 107053,
-  "2022-10-18": 107139,
-  "2022-10-19": 107211,
-  "2022-10-20": 107280,
-  "2022-10-21": 107384,
-  "2022-10-22": 107473,
-  "2022-10-23": 107524,
-  "2022-10-24": 107616,
-  "2022-10-25": 107701,
-  "2022-10-26": 107816,
-  "2022-10-27": 107889,
-  "2022-10-28": 107975,
-  "2022-10-29": 108051,
-  "2022-10-30": 108124,
-  "2022-10-31": 108213,
-  "2022-11-01": 108307,
-  "2022-11-02": 108405,
-  "2022-11-03": 108489,
-  "2022-11-04": 108570,
-  "2022-11-05": 108664,
-  "2022-11-06": 108749,
-  "2022-11-07": 108849,
-  "2022-11-08": 108938,
-  "2022-11-09": 109023,
-  "2022-11-10": 109084,
-  "2022-11-11": 109171,
-  "2022-11-12": 109312,
-  "2022-11-13": 109404,
-  "2022-11-14": 109507,
-  "2022-11-15": 109610,
-  "2022-11-16": 109686,
-  "2022-11-17": 109770,
-  "2022-11-18": 109794,
-  "2022-11-19": 109759,
-  "2022-11-20": 109763,
-  "2022-11-21": 109826,
-  "2022-11-22": 109913,
-  "2022-11-23": 110017,
-  "2022-11-24": 110167,
-  "2022-11-25": 110365,
-  "2022-11-26": 110521,
-  "2022-11-27": 110641,
-  "2022-11-28": 110762,
-  "2022-11-29": 110847,
-  "2022-11-30": 110943,
-  "2022-12-01": 111066,
-  "2022-12-02": 111163,
-  "2022-12-03": 111206,
-  "2022-12-04": 111330,
-  "2022-12-05": 111423,
-  "2022-12-06": 111536,
-  "2022-12-07": 111668,
-  "2022-12-08": 111795,
-  "2022-12-09": 111895,
-  "2022-12-10": 112015,
-  "2022-12-11": 112094,
-  "2022-12-12": 112183,
-  "2022-12-13": 112313,
-  "2022-12-14": 112403,
-  "2022-12-15": 112512,
-  "2022-12-16": 112597,
-  "2022-12-17": 112688,
-  "2022-12-18": 112799,
-  "2022-12-19": 112876,
-  "2022-12-20": 113051,
-  "2022-12-21": 113051,
-  "2022-12-22": 113138,
-  "2022-12-24": 113275,
-  "2022-12-25": 113334,
-  "2022-12-26": 113408,
-  "2022-12-27": 113465,
-  "2022-12-28": 113542,
-  "2022-12-29": 113631,
-  "2022-12-30": 113709,
-  "2022-12-31": 113797,
-  "2023-01-01": 113853,
-  "2023-01-02": 113897,
-  "2023-01-03": 113984,
-  "2023-01-04": 114068,
-  "2023-01-05": 114164,
-  "2023-01-06": 114280,
-  "2023-01-07": 114390,
-  "2023-01-08": 114405,
-  "2023-01-09": 114489,
-  "2023-01-10": 114587,
-  "2023-01-11": 114670,
-  "2023-01-12": 114778,
-  "2023-01-13": 114874,
-  "2023-01-14": 115037,
-  "2023-01-15": 115066,
-  "2023-01-16": 115175,
-  "2023-01-17": 115268,
-  "2023-01-18": 115341,
-  "2023-01-19": 115446,
-  "2023-01-20": 115539,
-  "2023-01-21": 115650,
-  "2023-01-22": 115701,
-  "2023-01-23": 115796,
-  "2023-01-24": 115868,
-  "2023-01-25": 115937,
-  "2023-01-26": 116015,
-  "2023-01-27": 116102,
-  "2023-01-28": 116191,
-  "2023-01-29": 116272,
-  "2023-01-30": 116360,
-  "2023-01-31": 116360,
-  "2023-02-01": 116513,
-  "2023-02-02": 116608,
-  "2023-02-03": 116703,
-  "2023-02-04": 116803,
-  "2023-02-05": 116892,
-  "2023-02-06": 116999,
-  "2023-02-07": 117122,
-  "2023-02-08": 117342,
-  "2023-02-09": 117342,
-  "2023-02-10": 117462,
-  "2023-02-11": 117567,
-  "2023-02-12": 117781,
-  "2023-02-13": 117888,
-  "2023-02-14": 117888,
-  "2023-02-15": 117972,
-  "2023-02-16": 118069,
-  "2023-02-17": 118150,
-  "2023-02-18": 118294,
-  "2023-02-19": 118318,
-  "2023-02-20": 118390,
-  "2023-02-21": 118487,
-  "2023-02-22": 118543,
-  "2023-02-23": 118634,
-  "2023-02-24": 118726,
-  "2023-02-25": 118866,
-  "2023-02-26": 118915,
-  "2023-02-27": 119085,
-  "2023-02-28": 119085,
-  "2023-03-01": 119172,
-  "2023-03-02": 119289,
-  "2023-03-03": 119383,
-  "2023-03-04": 119475,
-  "2023-03-05": 119668,
-  "2023-03-06": 119668,
-  "2023-03-07": 119770,
-  "2023-03-08": 119854,
-  "2023-03-09": 119928,
-  "2023-03-10": 120035,
-  "2023-03-11": 120113,
-  "2023-03-12": 120233,
-  "2023-03-13": 120356,
-  "2023-03-14": 120522,
-  "2023-03-15": 120668,
-  "2023-03-16": 120813,
-  "2023-03-17": 120813,
-  "2023-03-18": 121084,
-  "2023-03-19": 121203,
-  "2023-03-20": 121383,
-  "2023-03-21": 121506,
-  "2023-03-22": 121614,
-  "2023-03-23": 121747,
-  "2023-03-24": 121747,
-  "2023-03-25": 122034,
-  "2023-03-26": 122167,
-  "2023-03-27": 122333,
-  "2023-03-28": 122465,
-  "2023-03-29": 122610,
-  "2023-03-30": 122823,
-  "2023-03-31": 122823,
-  "2023-04-01": 122940,
-  "2023-04-02": 123044,
-  "2023-04-03": 123171,
-  "2023-04-04": 123310,
-  "2023-04-05": 123412,
-  "2023-04-06": 123536,
-  "2023-04-07": 123622,
-  "2023-04-09": 123790,
-  "2023-04-10": 123901,
-  "2023-04-11": 124096,
-  "2023-04-12": 124096,
-  "2023-04-13": 124204,
-  "2023-04-14": 124304,
-  "2023-04-15": 124406,
-  "2023-04-16": 124495,
-  "2023-04-17": 124629,
-  "2023-04-18": 124741,
-  "2023-04-19": 124840,
-  "2023-04-20": 124950,
-  "2023-04-21": 125072,
-  "2023-04-22": 125200,
-  "2023-04-23": 125335,
-  "2023-04-24": 125451,
-  "2023-04-25": 125565,
-  "2023-04-26": 125674,
-  "2023-04-27": 125798,
-  "2023-04-28": 125885,
-  "2023-04-29": 125985,
-  "2023-04-30": 126078,
-  "2023-05-01": 126185,
-  "2023-05-02": 126294,
-  "2023-05-03": 126397,
-  "2023-05-04": 126518,
-  "2023-05-05": 126620,
-  "2023-05-06": 126727,
-  "2023-05-07": 126853,
-  "2023-05-08": 126972,
-  "2023-05-09": 127082,
-  "2023-05-10": 127177,
-  "2023-05-11": 127284,
-  "2023-05-12": 127372,
-  "2023-05-13": 127455,
-  "2023-05-14": 127565,
-  "2023-05-15": 127669,
-  "2023-05-16": 127792,
-  "2023-05-17": 127904,
-  "2023-05-18": 128024,
-  "2023-05-19": 128131,
-  "2023-05-20": 128347,
-  "2023-05-21": 128347,
-  "2023-05-22": 128347,
-  "2023-05-23": 128553,
-  "2023-05-24": 128738,
-  "2023-05-25": 128757,
-  "2023-05-26": 128833,
-  "2023-05-27": 128934,
-  "2023-05-28": 129054,
-  "2023-05-29": 129054,
-  "2023-05-30": 129265,
-  "2023-05-31": 129362,
-  "2023-06-01": 129438,
-  "2023-06-02": 129513,
-  "2023-06-03": 129601,
-  "2023-06-04": 129697,
-  "2023-06-05": 129793,
-  "2023-06-06": 129883,
-  "2023-06-07": 129976,
-  "2023-06-08": 130076,
-  "2023-06-09": 130172,
-  "2023-06-10": 130296,
-  "2023-06-11": 130415,
-  "2023-06-12": 130509,
-  "2023-06-13": 130597,
-  "2023-06-14": 130688,
-  "2023-06-15": 130775,
-  "2023-06-16": 130877,
-  "2023-06-17": 130969,
-  "2023-06-18": 131070,
-  "2023-06-19": 131184,
-  "2023-06-20": 131294,
-  "2023-06-21": 131394,
-  "2023-06-22": 131489,
-  "2023-06-23": 131595,
-  "2023-06-24": 131669,
-  "2023-06-25": 131781,
-  "2023-06-26": 131862,
-  "2023-06-27": 131943,
-  "2023-06-28": 132040,
-  "2023-06-29": 132168,
-  "2023-06-30": 132286,
-  "2023-07-01": 132482,
-  "2023-07-02": 132482,
-  "2023-07-03": 132563,
-  "2023-07-04": 132655,
-  "2023-07-05": 132741,
-  "2023-07-06": 132927,
-  "2023-07-07": 132927,
-  "2023-07-08": 132993,
-  "2023-07-09": 133067,
-  "2023-07-10": 133143,
-  "2023-07-11": 133232,
-  "2023-07-12": 133309,
-  "2023-07-13": 133389,
-  "2023-07-14": 133495,
-  "2023-07-15": 133561,
-  "2023-07-16": 133683,
-  "2023-07-17": 133793,
-  "2023-07-18": 133918,
-  "2023-07-19": 134027,
-  "2023-07-20": 134127,
-  "2023-07-21": 134217,
-  "2023-07-22": 134315,
-  "2023-07-23": 134399,
-  "2023-07-24": 134494,
-  "2023-07-25": 134599,
-  "2023-07-26": 134700,
-  "2023-07-27": 134798,
-  "2023-07-28": 134895,
-  "2023-07-29": 134978,
-  "2023-07-30": 135067,
-  "2023-07-31": 135133,
-  "2023-08-01": 135254,
-  "2023-08-02": 135357,
-  "2023-08-03": 135468,
-  "2023-08-04": 135566,
-  "2023-08-05": 135676,
-  "2023-08-06": 135839,
-  "2023-08-07": 135839,
-  "2023-08-08": 135917,
-  "2023-08-09": 136012,
-  "2023-08-10": 136090,
-  "2023-08-11": 136174,
-  "2023-08-12": 136274,
-  "2023-08-13": 136388,
-  "2023-08-14": 136456,
-  "2023-08-15": 136645,
-  "2023-08-16": 136645,
-  "2023-08-17": 136719,
-  "2023-08-18": 136800,
-  "2023-08-19": 136880,
-  "2023-08-20": 136971,
-  "2023-08-21": 137079,
-  "2023-08-22": 137182,
-  "2023-08-23": 137288,
-  "2023-08-24": 137375,
-  "2023-08-25": 137458,
-  "2023-08-26": 137571,
-  "2023-08-27": 137687,
-  "2023-08-28": 137784,
-  "2023-08-29": 137859,
-  "2023-08-30": 137944,
-  "2023-08-31": 137997,
-  "2023-09-01": 138151,
-  "2023-09-02": 138151,
-  "2023-09-03": 138240,
-  "2023-09-04": 138349,
-  "2023-09-05": 138444,
-  "2023-09-06": 138530,
-  "2023-09-07": 138605,
-  "2023-09-08": 138681,
-  "2023-09-09": 138752,
-  "2023-09-10": 138836,
-  "2023-09-11": 138929,
-  "2023-09-12": 139023,
-  "2023-09-13": 139101,
-  "2023-09-14": 139198,
-  "2023-09-15": 139275,
-  "2023-09-16": 139347,
-  "2023-09-17": 139424,
-  "2023-09-18": 139493,
-  "2023-09-19": 139581,
-  "2023-09-20": 139665,
-  "2023-09-21": 139733,
-  "2023-09-22": 139789,
-  "2023-09-23": 139844,
-  "2023-09-24": 139912,
-  "2023-09-25": 139991,
-  "2023-09-26": 140098,
-  "2023-09-27": 140159,
-  "2023-09-28": 140222,
-  "2023-09-29": 140299,
-  "2023-09-30": 140370,
-  "2023-10-01": 140455,
-  "2023-10-02": 140537,
-  "2023-10-03": 140607,
-  "2023-10-04": 140671,
-  "2023-10-05": 140750,
-  "2023-10-06": 140805,
-  "2023-10-07": 140847,
-  "2023-10-08": 140920,
-  "2023-10-09": 140988,
-  "2023-10-10": 141062,
-  "2023-10-11": 141208,
-  "2023-10-12": 141208,
-  "2023-10-13": 141282,
-  "2023-10-14": 141342,
-  "2023-10-15": 141412,
-  "2023-10-16": 141483,
-  "2023-10-17": 141561,
-  "2023-10-18": 141632,
-  "2023-10-19": 141686,
-  "2023-10-20": 141762,
-  "2023-10-21": 141814,
-  "2023-10-22": 141868,
-  "2023-10-23": 141937,
-  "2023-10-24": 141996,
-  "2023-10-25": 142058,
-  "2023-10-26": 142122,
-  "2023-10-27": 142183,
-  "2023-10-28": 142219,
-  "2023-10-29": 142276,
-  "2023-10-30": 142413,
-  "2023-10-31": 142413,
-  "2023-11-01": 142473,
-  "2023-11-02": 142545,
-  "2023-11-03": 142616,
-  "2023-11-04": 142680,
-  "2023-11-05": 142770,
-  "2023-11-06": 142825,
-  "2023-11-07": 142909,
-  "2023-11-08": 142968,
-  "2023-11-09": 143014,
-  "2023-11-10": 143092,
-  "2023-11-11": 143153,
-  "2023-11-12": 143204,
-  "2023-11-13": 143263,
-  "2023-11-14": 143335,
-  "2023-11-15": 143335,
-  "2023-11-16": 143452,
-  "2023-11-17": 143577,
-  "2023-11-18": 143577,
-  "2023-11-19": 143624,
-  "2023-11-20": 143684,
-  "2023-11-21": 143757,
-  "2023-11-22": 143829,
-  "2023-11-23": 143887,
-  "2023-11-24": 143949,
-  "2023-11-25": 144015,
-  "2023-11-26": 144072,
-  "2023-11-27": 144135,
-  "2023-11-28": 144193,
-  "2023-11-29": 144296,
-  "2023-11-30": 144296,
-  "2023-12-01": 144368,
-  "2023-12-02": 144446,
-  "2023-12-03": 144506,
-  "2023-12-04": 144578,
-  "2023-12-05": 144637,
-  "2023-12-06": 144690,
-  "2023-12-07": 144735,
-  "2023-12-08": 144803,
-  "2023-12-09": 144874,
-  "2023-12-10": 144932,
-  "2023-12-11": 144999,
-  "2023-12-12": 145061,
-  "2023-12-13": 145159,
-  "2023-12-14": 145241,
-  "2023-12-15": 145296,
-  "2023-12-16": 145373,
-  "2023-12-17": 145448,
-  "2023-12-18": 145511,
-  "2023-12-19": 145586,
-  "2023-12-20": 145644,
-  "2023-12-21": 145719,
-  "2023-12-22": 145776,
-  "2023-12-23": 145844,
-  "2023-12-24": 145890,
-  "2023-12-25": 145952,
-  "2023-12-26": 146008,
-  "2023-12-27": 146077,
-  "2023-12-30": 146284,
-  "2023-12-31": 146363,
-  "2024-01-01": 146435,
-  "2024-01-02": 146514,
-  "2024-01-03": 146600
+  "2024-01-17": 147620,
+  "date_first_scraped": "2022-06-10",
+  "description": "\u3064\u3044\u306b\u30b7\u30ea\u30fc\u30ba\u5b8c\u7d50\uff01\u6700\u65b0\u4f5c\u6620\u753b\u300e\u30b7\u30f3\u30fb\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u5287\u5834\u7248\u300f\u516c\u958b\u8a18\u5ff5\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01\uff08C\uff09\u30ab\u30e9\u30fc",
+  "name": "EVANGELION\u300e\u30a8\u30f4\u30a1\u30f3\u30b2\u30ea\u30aa\u30f3\u300f\u30b7\u30ea\u30fc\u30ba",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64026,
+      "name": "2EM05_KK_B09",
+      "url": "https://open.spotify.com/track/5SMYUwN5Syhmy3fCK5hwxh"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "2EM11_B16",
+      "url": "https://open.spotify.com/track/2US5602rqusxoQexGrTXle"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116146,
+      "name": "2EM13_EM20_Alterna",
+      "url": "https://open.spotify.com/track/1oeDgyKfS0ZRjBBtf4Vf48"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Narciso Yepes(\u30ae\u30bf\u30fc)",
+          "url": "https://open.spotify.com/artist/4WYuUtGcIbgGJamGNOg5Oz"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60253,
+      "name": "2EM19_\u30bd\u30eb:\u30e2\u30fc\u30c4\u30a1\u30eb\u30c8\u306e\u4e3b\u984c\u306b\u3088\u308b\u5909\u594f\u66f2",
+      "url": "https://open.spotify.com/track/6rhZb4tGglCniJFNY4lKYe"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120106,
+      "name": "3EM02_C17B_Nu_test02",
+      "url": "https://open.spotify.com/track/7e78tuDQl00fjKIZfbYud3"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167640,
+      "name": "3EM05_1125",
+      "url": "https://open.spotify.com/track/1D8OwQpRYVDVx7cEevKHQb"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93320,
+      "name": "3EM08_SS_103_junko",
+      "url": "https://open.spotify.com/track/3pv2kcVgxbH9nfyjYmMDnt"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "3EM10_1176_long_end",
+      "url": "https://open.spotify.com/track/5pecpsokRetpXH6UFp6lSl"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188253,
+      "name": "3EM20_P_56_A4_orch+piano",
+      "url": "https://open.spotify.com/track/24mpgG3J9QTaFpLDXqLTCI"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213666,
+      "name": "3EM22_SS_101_Orch",
+      "url": "https://open.spotify.com/track/0v4NO9KQ9HySOl92jSxIHc"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254320,
+      "name": "3EM23_1128_take4_360",
+      "url": "https://open.spotify.com/track/1PigQ01eK3swriVpmF08SV"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "3EM27_Beethoven9_Orch+Cho",
+      "url": "https://open.spotify.com/track/72duu6sGxAj2avMcaOzJPg"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211413,
+      "name": "3EM28_Nu09_360",
+      "url": "https://open.spotify.com/track/6CBpwKTFWgrbPR3NaTteDi"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:Q \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7exRr0maYAgvMin48FOQYQ"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "3EM30_GuitarForQ_Pno+Vo_Orch+Pno",
+      "url": "https://open.spotify.com/track/6YtgooEhCqkHhoc78fbBI3"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118586,
+      "name": "Ambassadrice Rouge",
+      "url": "https://open.spotify.com/track/6fp0nAbrAvuhI17BYc1QnA"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Angel of Doom",
+      "url": "https://open.spotify.com/track/480g4Wdq5XeLqURUaQIBzI"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230733,
+      "name": "Angel of Doom",
+      "url": "https://open.spotify.com/track/4UjudP9wSDuBoNBtCpSr9J"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "At The Very Beginning",
+      "url": "https://open.spotify.com/track/3DRpsJc7Ir8NAR0kS8sIn0"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284973,
+      "name": "Bataille Decisive",
+      "url": "https://open.spotify.com/track/1nXyvki4ZKc0UaPNJcIAmm"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284973,
+      "name": "Bataille d\u00e9cisive",
+      "url": "https://open.spotify.com/track/5LOA41GVT3xtoA2qXijRxR"
+    },
+    {
+      "album": {
+        "name": "EVANGELION INFINITY",
+        "url": "https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289213,
+      "name": "Battaille Decisive (2007)",
+      "url": "https://open.spotify.com/track/6oyccEIbvlM8xO1atU38fF"
+    },
+    {
+      "album": {
+        "name": "HEART STATION",
+        "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317946,
+      "name": "Beautiful World",
+      "url": "https://open.spotify.com/track/6aOoUkiQ9rLweL8IkPBN0L"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 317400,
+      "name": "Beautiful World - 2021 Remastered",
+      "url": "https://open.spotify.com/track/4MfPhKZlI1e3Y31YoiLPS1"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358920,
+      "name": "Beautiful World - Da Capo Version",
+      "url": "https://open.spotify.com/track/611Za6hN3gmZiIrN5fxuzq"
+    },
+    {
+      "album": {
+        "name": "Beautiful World (PLANiTb Acoustica Mix)",
+        "url": "https://open.spotify.com/album/6LHMXCOJ4eWGuTPsotVQu1"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309986,
+      "name": "Beautiful World - PLANiTb Acoustica Mix",
+      "url": "https://open.spotify.com/track/2X5WNn3nHqFhihs8TtulVc"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        },
+        {
+          "name": "Russell McNamara",
+          "url": "https://open.spotify.com/artist/7Awbd2IasjUKwBFxWB6UB6"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312840,
+      "name": "Beautiful World - PLANiTb Acoustica Mix [2021 Remastered]",
+      "url": "https://open.spotify.com/track/2EHBOLaqrlfoCvHLO2IVjX"
+    },
+    {
+      "album": {
+        "name": "ANIME KIDS",
+        "url": "https://open.spotify.com/album/1ujdwGwEq3edJaMT4ti4LN"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 317946,
+      "name": "Beautiful World - Remastered 2018",
+      "url": "https://open.spotify.com/track/05MQ4sk9AmKxbZinu6JCdX"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337666,
+      "name": "Betrayal =3EM25=",
+      "url": "https://open.spotify.com/track/13ORxvD6slTtDWlxaBEzpp"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372680,
+      "name": "born evil",
+      "url": "https://open.spotify.com/track/0fBdbtAqacQAeRqhgV44fx"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 372680,
+      "name": "born evil",
+      "url": "https://open.spotify.com/track/49qL8QSR26D93sZrdSQHMr"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205693,
+      "name": "Carnage",
+      "url": "https://open.spotify.com/track/61xoZ9GdEVwj5TpLdeqCje"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175400,
+      "name": "citation from 'joy to the world'",
+      "url": "https://open.spotify.com/track/6PpmHmuUcqXwFsFoW07osP"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175400,
+      "name": "citation from \u2018joy to the world'",
+      "url": "https://open.spotify.com/track/3b1OOpqqYJXfN61L4cfPPP"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121986,
+      "name": "Contre Les Agressions",
+      "url": "https://open.spotify.com/track/48CGhrIRMW3KBI94XjGgEa"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121986,
+      "name": "Contre les agressions",
+      "url": "https://open.spotify.com/track/7LGUEPRL6m4U4XylWfjlcr"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Cruel Dilemme II",
+      "url": "https://open.spotify.com/track/6clvwmZdTouqmUQRqCOfEq"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194506,
+      "name": "Cruel dilemme II",
+      "url": "https://open.spotify.com/track/7GAK82GYC0wHR63XSwQs1F"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 1.0\" YOU ARE(NOT)ALONE.",
+        "url": "https://open.spotify.com/album/05icPAiE1jH4d0tjjrtE0k"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98666,
+      "name": "Cr\u00e9puscule-Tokyo \u2162 (EM06)",
+      "url": "https://open.spotify.com/track/76wuxhtYr49Pbhm5krCbMG"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108360,
+      "name": "Danse des lucioles",
+      "url": "https://open.spotify.com/track/14AyjC3COhPa9HFFQjqrbh"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108360,
+      "name": "Danse des Lucioles",
+      "url": "https://open.spotify.com/track/6Ns9v4uTilox4ez3uorJAV"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200240,
+      "name": "Des Cordes:opus1",
+      "url": "https://open.spotify.com/track/1UZEQBttOu0q5ZIxcqXHDT"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172066,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4fk2nceT4NuwNZInhieTyh"
+    },
+    {
+      "album": {
+        "name": "Evangelion Finally",
+        "url": "https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 340734,
+      "name": "Dilemmatic triangle opera - AYANAMI Version",
+      "url": "https://open.spotify.com/track/4xfulhtKuugdfeM3YhjijL"
+    },
+    {
+      "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340734,
+      "name": "Dilemmatic triangle opera AYANAMI Version",
+      "url": "https://open.spotify.com/track/2teoYC29Mn7njexEkuebh7"
+    },
+    {
+      "album": {
+        "name": "Fifty\uff5eFifty",
+        "url": "https://open.spotify.com/album/2gw5R6dcwXeQkaDt29bjVp"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343293,
+      "name": "Dilemmatic triangle opera AYANAMI Version",
+      "url": "https://open.spotify.com/track/4RNoAYuI8ibfHvsqBEYUDh"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5439\u594f\u697d\u7248:\u5176\u306e1",
+        "url": "https://open.spotify.com/album/4r37MnyHIqC9mbIrujFlSk"
+      },
+      "artists": [
+        {
+          "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5439\u594f\u697d\u7248",
+          "url": "https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "E01_EWS_Amano&Kosei",
+      "url": "https://open.spotify.com/track/5FVISZHeXdHIci2HFtbnUT"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134920,
+      "name": "EM10A alterne",
+      "url": "https://open.spotify.com/track/45y9oGcTjn48tEj1IrB3lL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134920,
+      "name": "EM10A alterne",
+      "url": "https://open.spotify.com/track/4UXU8IfcMIFCpFZwD9jowI"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232920,
+      "name": "EM20 =wunder operation=",
+      "url": "https://open.spotify.com/track/6g6PUsfgGI2iwIU2eLiiBL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232920,
+      "name": "EM20 =wunder operation=",
+      "url": "https://open.spotify.com/track/71HbeGRj5jEWWxZU7VQC2A"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u5e8f \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230653,
+      "name": "EM21_Premix#070705",
+      "url": "https://open.spotify.com/track/1bhcXrv5J7q3cae3JQBRuL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 82920,
+      "name": "euro nerv",
+      "url": "https://open.spotify.com/track/2z9ROEYQ33EcPrLVLFi0ZD"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82920,
+      "name": "euro nerv",
+      "url": "https://open.spotify.com/track/7rRIdY02p9SRCE8y6hS9li"
+    },
+    {
+      "album": {
+        "name": "EVANGELION INFINITY",
+        "url": "https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 87426,
+      "name": "euro nerv",
+      "url": "https://open.spotify.com/track/4C9gTP0CqhPtU7GIjiRNWj"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Evanescence:mouvement 2",
+      "url": "https://open.spotify.com/track/1DWlCV1ydt6Te0O9aaYPlL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143626,
+      "name": "Evanescence:mouvement 3",
+      "url": "https://open.spotify.com/track/3e8z3y69nzITb44gDe01GC"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5439\u594f\u697d\u7248:\u5176\u306e2",
+        "url": "https://open.spotify.com/album/0SzGPBv99g5BV56tpTNNf6"
+      },
+      "artists": [
+        {
+          "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5439\u594f\u697d\u7248",
+          "url": "https://open.spotify.com/artist/3sVX9uIB7QPe9697OBtbXY"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134066,
+      "name": "F02_Take01_EWS_Amano&Kosei",
+      "url": "https://open.spotify.com/track/4rq1ZWQ2LHu9Mx3glfbIe1"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u5e8f \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u77f3\u7434\u4e43",
+          "url": "https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270920,
+      "name": "FALL in STAR",
+      "url": "https://open.spotify.com/track/6OOUPeen0s0wb6CoBrJ7Lw"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "Fate",
+      "url": "https://open.spotify.com/track/4WtjcDiLaeYs35VBidzIf2"
+    },
+    {
+      "album": {
+        "name": "HEART STATION",
+        "url": "https://open.spotify.com/album/4sTehljxd3DNsjHWx3a64L"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Fly Me To The Moon (In Other Words) - 2007 MIX",
+      "url": "https://open.spotify.com/track/5zZzSkdXVaCyh6348E2ieD"
+    },
+    {
+      "album": {
+        "name": "Fly Me To The Moon (In Other Words) [2007 MIX / 2021 Remastered]",
+        "url": "https://open.spotify.com/album/2YBdzd2eOvci1nJAQz6nHS"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204313,
+      "name": "Fly Me To The Moon (In Other Words) - 2007 MIX / 2021 Remastered",
+      "url": "https://open.spotify.com/track/0taRUXiwcaiJEWncOvnFyR"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206760,
+      "name": "Fly Me To The Moon (In Other Words) - 2007 MIX [2021 Remastered]",
+      "url": "https://open.spotify.com/track/2zV1Yl4jhpRwaKYejQoEnX"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "gekitotsu! gouten tai daimakan",
+      "url": "https://open.spotify.com/track/1uCYmdxSbAxMGyUVvQu5Li"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300120,
+      "name": "Gods Gift =3EM31=",
+      "url": "https://open.spotify.com/track/1OOJbyS3JmALkegYUBmUqq"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 284640,
+      "name": "hand of fate",
+      "url": "https://open.spotify.com/track/2B6h28dvx420rSVsT305T7"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284640,
+      "name": "hand of fate",
+      "url": "https://open.spotify.com/track/3efolGze1slri71Otk8rpf"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "I'll Go On Lovin' Someone Else",
+      "url": "https://open.spotify.com/track/5zC1LzGAUA50UkPJvMW0cN"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192920,
+      "name": "I'll Go on Lovin' Someone Else",
+      "url": "https://open.spotify.com/track/7cJKh9wkbG0mpVIlM6VxIi"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "In My Spirit",
+      "url": "https://open.spotify.com/track/3JSX9vCJ6qHrfaKhkiLbhD"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/2qQHd24vGtbzFWWeXlrI6K"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183053,
+      "name": "karma",
+      "url": "https://open.spotify.com/track/6WzZbCDWhTlEkQmTi6gY00"
+    },
+    {
+      "album": {
+        "name": "THE END OF EVANGELION (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/12Zlf7jQUcYOsPl2qbuXgz"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/67E0wqAIfyT2erdSnMLzRI"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466333,
+      "name": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+      "url": "https://open.spotify.com/track/1fcR9f13hKGpC2u9r0iHQT"
+    },
+    {
+      "album": {
+        "name": "Evangelion Finally",
+        "url": "https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/1R2VgINk9y10c3EE6iq9ue"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
+      "duration_ms": 466481,
+      "name": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+      "url": "https://open.spotify.com/track/0DI3WNmIyfi2GZLQwhYDQC"
+    },
+    {
+      "album": {
+        "name": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+        "url": "https://open.spotify.com/album/3hZAOa09G6paCElkWgyuSe"
+      },
+      "artists": [
+        {
+          "name": "fantasy",
+          "url": "https://open.spotify.com/artist/3jcjyxkrisZ1dxNuQyMFyO"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-07",
+      "duration_ms": 466546,
+      "name": "KOMM, SUSSER TOD - M-10 Director's Edit Version",
+      "url": "https://open.spotify.com/track/3gy29plS7bgjmYfgfGGwgE"
+    },
+    {
+      "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "ARIANNE",
+          "url": "https://open.spotify.com/artist/2u9IFe5TWL93NHo3BKjn0w"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 466481,
+      "name": "Komm,susser Tod (M\u30fc10 Director's Edit.Version)",
+      "url": "https://open.spotify.com/track/05wOtTxLl9qeNWrOzJOsvd"
+    },
+    {
+      "album": {
+        "name": "Evangelion Finally",
+        "url": "https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 163027,
+      "name": "KYOU NO HI WA SAYOUNARA",
+      "url": "https://open.spotify.com/track/4lmWXO1Zznr8HVok0vZWLp"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153693,
+      "name": "L' Attaque des Anges",
+      "url": "https://open.spotify.com/track/4VsGEmihdCExqdOzUkw9Tf"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157706,
+      "name": "L'Agresseur",
+      "url": "https://open.spotify.com/track/2Mo0hFw6g1CsbvFo2sJpVD"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "L'Ap\u00f4tre de la Lune (2 pianos) =3EM12=",
+      "url": "https://open.spotify.com/track/4d6Gu7onoDVNlaw7xRiVHI"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153693,
+      "name": "L'attaque des anges",
+      "url": "https://open.spotify.com/track/3HtEVdzj5s2YJf9C2d5FQd"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130692,
+      "name": "Les Betes",
+      "url": "https://open.spotify.com/track/0WvjnNj4RUneCg6gB4cCjX"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Les Betes",
+      "url": "https://open.spotify.com/track/4IUw1d8ypryl8uuxKvQAfj"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130693,
+      "name": "Les b\u00eates",
+      "url": "https://open.spotify.com/track/2evX9VlejVVvpdIVMLjGhG"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321506,
+      "name": "lost in the memory",
+      "url": "https://open.spotify.com/track/114rp8ROxAXgHMJ84NzMab"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321506,
+      "name": "lost in the memory",
+      "url": "https://open.spotify.com/track/4MztAIcSeCmDtB9Cvt160X"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166733,
+      "name": "Lucifer's Cry",
+      "url": "https://open.spotify.com/track/3Bp0ejAD92EY3Vu8kmNbDa"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166733,
+      "name": "Lucifer's Cry",
+      "url": "https://open.spotify.com/track/3hPCJkD23VUz1WeI01a0J8"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167813,
+      "name": "m & r: piano",
+      "url": "https://open.spotify.com/track/3Bef7e25yzcTxldtn6dwQm"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167813,
+      "name": "m & r: piano",
+      "url": "https://open.spotify.com/track/7xHc0RDc7UdswJcJSPs1QD"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Mecanisme de Defense",
+      "url": "https://open.spotify.com/track/5I0oP96wG7I9BqYhqnRkdI"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164360,
+      "name": "Mecanisme de d\u00e9fense",
+      "url": "https://open.spotify.com/track/48uxBSYbFJAQgdM8jiHhMH"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252026,
+      "name": "One Last Kiss",
+      "url": "https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M"
+    },
+    {
+      "album": {
+        "name": "EVANGELION Piano Forte",
+        "url": "https://open.spotify.com/album/2y6cButHaOhgKxGPjiwIn2"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141186,
+      "name": "QuatreMains_miyagi_kita",
+      "url": "https://open.spotify.com/track/0oyp6WcRJBn2Xoe6FSc1zs"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "Quelconque 56 avec A4 (2 pianos plus) =3EM21=",
+      "url": "https://open.spotify.com/track/28hWKMYnemAEg1Liqm7XYC"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143786,
+      "name": "Rei-Opus IV",
+      "url": "https://open.spotify.com/track/6EOtWX1Bxj5TaZ45yAljGg"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143786,
+      "name": "Rei-Opus IV",
+      "url": "https://open.spotify.com/track/6hl4L1kC26bYTZPG0jPPCX"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179920,
+      "name": "Rei-Opus V",
+      "url": "https://open.spotify.com/track/3i7qH0ACIHYTLFlna1dO0M"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179920,
+      "name": "Rei-Opus V",
+      "url": "https://open.spotify.com/track/4qTEtgqsduWNmXPvMsfwMS"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "Serenity Amongst the Turmoil =3EM04=",
+      "url": "https://open.spotify.com/track/5C1nVE6mOIhOrDxhirUDPE"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/2pzXSTpPDmlaUKiT7sQeGa"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122000,
+      "name": "Showdown",
+      "url": "https://open.spotify.com/track/40P22AbktoXnMYLvd8oDxS"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162493,
+      "name": "Sin From Genesis",
+      "url": "https://open.spotify.com/track/5OOBhnAuTm5xI1mS0nwI8P"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120933,
+      "name": "Staggering Yet",
+      "url": "https://open.spotify.com/track/58rLeLjuqjpM3nvFTqypvZ"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 120933,
+      "name": "Staggering Yet",
+      "url": "https://open.spotify.com/track/7bSiiOGbwuJU9HwHep2HeQ"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145466,
+      "name": "Strategie \"Yashima\"",
+      "url": "https://open.spotify.com/track/5cL2HmDP7UdBp2wGM1CnCL"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145466,
+      "name": "Strategie \"Yashima\"",
+      "url": "https://open.spotify.com/track/72C0QGw41D3nU0nFAKIQ52"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298613,
+      "name": "tema principale: orchestra dedicata ai maestri",
+      "url": "https://open.spotify.com/track/13ztCnD3PffKaQca5zprGT"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298613,
+      "name": "tema principale: orchestra dedicata ai maestri",
+      "url": "https://open.spotify.com/track/2BDGENnWVU3kAvXkEzMvcr"
+    },
+    {
+      "album": {
+        "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3/THANATOS -IF I CAN'T BE YOURS-",
+        "url": "https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2"
+      },
+      "artists": [
+        {
+          "name": "LOREN&MASH",
+          "url": "https://open.spotify.com/artist/4z5h4q18iemiP694wTaPDb"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290466,
+      "name": "THANATOS -IF I CAN'T BE YOURS-",
+      "url": "https://open.spotify.com/track/1yoLVeLcgVzPUB4b4gd01R"
+    },
+    {
+      "album": {
+        "name": "Evangelion Finally",
+        "url": "https://open.spotify.com/album/3MRZ3T8TutKAlQK0d7mqho"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 246362,
+      "name": "The Cruel Angel's Thesis",
+      "url": "https://open.spotify.com/track/1QFPI3slA71XOdiBV5qti1"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 2.0\" YOU CAN (NOT) ADVANCE.",
+        "url": "https://open.spotify.com/album/1Etq7R0V6TLzRfUXOPwAwc"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254440,
+      "name": "The Final Decision We All Must Take",
+      "url": "https://open.spotify.com/track/1Z6LeTVmSTlSdrM1N7a2Aa"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179813,
+      "name": "The Longest Day",
+      "url": "https://open.spotify.com/track/0se17WEMwh4agIweLeVgd2"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179813,
+      "name": "The Longest Day",
+      "url": "https://open.spotify.com/track/36c0my8EA4SbXHRGnIba1V"
+    },
+    {
+      "album": {
+        "name": "EVANGELION INFINITY",
+        "url": "https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182253,
+      "name": "The Longest Day (2007)",
+      "url": "https://open.spotify.com/track/52d65X91zewSIKXpHzMWPe"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 139586,
+      "name": "The Longest Day II",
+      "url": "https://open.spotify.com/track/4YwNfht6IQJrdSgGKgA07C"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139586,
+      "name": "The Longest Day II",
+      "url": "https://open.spotify.com/track/7CZY2zF6nEYfaCfAREjyRz"
+    },
+    {
+      "album": {
+        "name": "Evangelion: 1.0 You Are (Not) Alone (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/32A2KzzXniYR82EbtmGINq"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134213,
+      "name": "The Longest Day III",
+      "url": "https://open.spotify.com/track/0Qeos4TB08abRgIV7MLDeS"
+    },
+    {
+      "album": {
+        "name": "Evangelion 1.0 You Are (Not) Alone [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/5WWS46L1THvHDNCZpVVFJh"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134213,
+      "name": "The Longest Day III",
+      "url": "https://open.spotify.com/track/5BrmivgBJ3Tw9P2YrEAIEL"
+    },
+    {
+      "album": {
+        "name": "EVANGELION INFINITY",
+        "url": "https://open.spotify.com/album/4ljzknLJLgvVsjhAAUGgMG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 137160,
+      "name": "The Longest Day III (2007)",
+      "url": "https://open.spotify.com/track/6Xm8d9HBP92vjnqUNQofrg"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96280,
+      "name": "theme du concerto 494",
+      "url": "https://open.spotify.com/track/0MLieKRynuFxFkeMvhmMTL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230053,
+      "name": "this is the dream, beyond belief...",
+      "url": "https://open.spotify.com/track/1ODU5jhStXuSNfuqDbMdvQ"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230053,
+      "name": "this is the dream, beyond belief...",
+      "url": "https://open.spotify.com/track/6DK1uVsbWpCkGIjD6ymeu8"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96280,
+      "name": "th\u00e8me du concerto 494",
+      "url": "https://open.spotify.com/track/6YEasCZOAacpbrnHWu197X"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"EVANGELION 3.0\"YOU CAN (NOT)REDO.",
+        "url": "https://open.spotify.com/album/78BrgzadRuj57mDpBnd2dp"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317306,
+      "name": "Tout est Perplexe (Th\u00e8me Q) =3EM30b=",
+      "url": "https://open.spotify.com/track/4AmKii2bG9D1tL7bgbvOjL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295093,
+      "name": "Voyager - Gravestone Without Date",
+      "url": "https://open.spotify.com/track/2m1UUNdKBX7fdXDZgcbSZK"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295093,
+      "name": "VOYAGER~\u65e5\u4ed8\u306e\u306a\u3044\u5893\u6a19",
+      "url": "https://open.spotify.com/track/6tbgYUwdwOCeCLJtHS3zKf"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246960,
+      "name": "what if?: orchestra, choir and piano",
+      "url": "https://open.spotify.com/track/42dGAsdiJNH0nbdligR2wL"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246960,
+      "name": "what if?: orchestra, choir and piano",
+      "url": "https://open.spotify.com/track/6t5d6hmkOEd6I1oVjvLdTr"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221026,
+      "name": "yearning for your love",
+      "url": "https://open.spotify.com/track/4NfZthtn7aLS58XhbQfOF7"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro SAGISU",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221026,
+      "name": "yearning for your love",
+      "url": "https://open.spotify.com/track/7CnAVlXQB9AW3wLTWS6ZmM"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\" EVANGELION: 3.0+1.0.",
+        "url": "https://open.spotify.com/album/6IHkLv8IiMBV9hlfin14ok"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 220840,
+      "name": "yearning for your love: playback",
+      "url": "https://open.spotify.com/track/3tyfbGWQNyfGSK45DZQbZ3"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u5e8f \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u77f3\u7434\u4e43",
+          "url": "https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7CfsVJLzbd50yCNSM6yKhL"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "The Peanuts",
+          "url": "https://open.spotify.com/artist/5BZgkvkTEBu0cXyM1MkvKl"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175106,
+      "name": "\u3075\u308a\u3080\u304b\u306a\u3044\u3067",
+      "url": "https://open.spotify.com/track/57PWxaO7DEnS4cf1bbZZAs"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30d9\u30b9\u30c8 \u5fd8\u308c\u5f97\u306c\u540d\u5531\u30fb\u4f50\u826f\u76f4\u7f8e",
+        "url": "https://open.spotify.com/album/6qR89dIKC16gVIAwSR3PbS"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sagara",
+          "url": "https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229653,
+      "name": "\u4e16\u754c\u306f\u4e8c\u4eba\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/3R57Is4lByrwj7phOdEMXe"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8\u3000\u30c7\u30e9\u30c3\u30af\u30b9\u30fb58",
+        "url": "https://open.spotify.com/album/0x5I0Ep6Qplcp7xQwyshrI"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sagara",
+          "url": "https://open.spotify.com/artist/5hIYzEi9gBUCXOmrhV6M04"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "\u4e16\u754c\u306f\u4e8c\u4eba\u306e\u305f\u3081\u306b",
+      "url": "https://open.spotify.com/track/1vWHMOsvrlwYp0X1rQyXpv"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u306f\u307e\u3060\u4eba\u751f\u3092\u8a9e\u3089\u305a\uff0d1",
+        "url": "https://open.spotify.com/album/2uhkQC2DTj5dtAM5wmi9t2"
+      },
+      "artists": [
+        {
+          "name": "Takuro Yoshida",
+          "url": "https://open.spotify.com/artist/7uv8wNS8ConwlmWKpP8Lz7"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273320,
+      "name": "\u4eba\u751f\u3092\u8a9e\u3089\u305a",
+      "url": "https://open.spotify.com/track/1zDPaZJxf4zbNPThFqjqu8"
+    },
+    {
+      "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163027,
+      "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
+      "url": "https://open.spotify.com/track/5qjjJUINs5AexP6FgmfD84"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163066,
+      "name": "\u4eca\u65e5\u306e\u65e5\u306f\u3055\u3088\u3046\u306a\u3089",
+      "url": "https://open.spotify.com/track/2SsjrvkdZMqkU9DNgQGqIz"
+    },
+    {
+      "album": {
+        "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3/THANATOS -IF I CAN'T BE YOURS-",
+        "url": "https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290026,
+      "name": "\u5fc3\u3088\u539f\u59cb\u306b\u623b\u308c",
+      "url": "https://open.spotify.com/track/4Zb2QGpS25FlqTAgIXc1Hu"
+    },
+    {
+      "album": {
+        "name": "\u615f\u54ed\u3078\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
+        "url": "https://open.spotify.com/album/5Mecrjy4Cmj28z9mCQ5vWX"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294213,
+      "name": "\u615f\u54ed\u3078\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/6HxnazrYCwvspVsizbWr8p"
+    },
+    {
+      "album": {
+        "name": "EVANGELION EXTREME",
+        "url": "https://open.spotify.com/album/4ugzgVJIEDrXnhfMoKYhDO"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297133,
+      "name": "\u615f\u54ed\u3078\u306e\u30e2\u30ce\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/6oE09fZmm4TakisumsIsVq"
+    },
+    {
+      "album": {
+        "name": "EVANGELION EXTREME",
+        "url": "https://open.spotify.com/album/4ugzgVJIEDrXnhfMoKYhDO"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297800,
+      "name": "\u66ab\u3057\u7a7a\u306b\u7948\u308a\u3066",
+      "url": "https://open.spotify.com/track/5I1fxQ4jYa8f0lfdP4rKF9"
+    },
+    {
+      "album": {
+        "name": "\u66ab\u3057\u7a7a\u306b\u7948\u308a\u3066",
+        "url": "https://open.spotify.com/album/1VHI3Pl9Uyp03oSrVtXUOk"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298533,
+      "name": "\u66ab\u3057\u7a7a\u306b\u7948\u308a\u3066",
+      "url": "https://open.spotify.com/track/4VIncdHig1kx1uZsa8okC3"
+    },
+    {
+      "album": {
+        "name": "Fantome",
+        "url": "https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280760,
+      "name": "\u685c\u6d41\u3057",
+      "url": "https://open.spotify.com/track/2TQsZUVhevVTtNUil5JoJv"
+    },
+    {
+      "album": {
+        "name": "\u685c\u6d41\u3057",
+        "url": "https://open.spotify.com/album/7EVw8SbgFMbfc42PzfHUlE"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 281493,
+      "name": "\u685c\u6d41\u3057",
+      "url": "https://open.spotify.com/track/21YtzumpH0kd9bcTD4FjCv"
+    },
+    {
+      "album": {
+        "name": "One Last Kiss",
+        "url": "https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 282880,
+      "name": "\u685c\u6d41\u3057 - 2021 Remastered",
+      "url": "https://open.spotify.com/track/6qXWOctgLJfiAFrmC9ogGE"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/FLY ME TO THE MOON",
+        "url": "https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245826,
+      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
+      "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 247746,
+      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
+      "url": "https://open.spotify.com/track/23phSRwoMy48rwFpmuAP8q"
+    },
+    {
+      "album": {
+        "name": "Shiro SAGISU Music from \"SHIN EVANGELION\"",
+        "url": "https://open.spotify.com/album/6TkXOnmDsPk0Z1ALvzChfG"
+      },
+      "artists": [
+        {
+          "name": "Shiro Sagisu",
+          "url": "https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198013,
+      "name": "\u6fc0\u7a81!\u8f5f\u5929\u5bfe\u5927\u9b54\u8266",
+      "url": "https://open.spotify.com/track/2ESv5rWXvpKL4sKXfowNBy"
+    },
+    {
+      "album": {
+        "name": "\u6c34\u524d\u5bfa\u6e05\u5b50\u5168\u66f2\u96c6 \uff5e\u718a\u672c\u57ce\u30fb\u4e09\u767e\u516d\u5341\u4e94\u6b69\u306e\u30de\u30fc\u30c1\uff5e",
+        "url": "https://open.spotify.com/album/0A6Iw003J1zPSweeXw8YLk"
+      },
+      "artists": [
+        {
+          "name": "Kiyoko Suizenji",
+          "url": "https://open.spotify.com/artist/3v8X96lvVXfrwC4bMrM4On"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "\u771f\u5b9f\u4e00\u8def\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/3kkXdezh9GjvZ0Gd20dhFy"
+    },
+    {
+      "album": {
+        "name": "EVANGELION ETERNALLY",
+        "url": "https://open.spotify.com/album/6oS76VmrAJrkcnCzzVglzh"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253052,
+      "name": "\u7f6a\u3068\u7f70 \u7948\u3089\u3056\u308b\u8005\u3088",
+      "url": "https://open.spotify.com/track/5Oe8juA7RR7qMan9BOAb6g"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u7834 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1p5uj4RXumV3nL3GnMohrP"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290893,
+      "name": "\u7ffc\u3092\u304f\u3060\u3055\u3044",
+      "url": "https://open.spotify.com/track/2CYFFxqdK9wFcpUmSc2g82"
+    },
+    {
+      "album": {
+        "name": "EVANGELION FINALLY",
+        "url": "https://open.spotify.com/album/2Wcw3p2bLtsLyD50GiTvKj"
+      },
+      "artists": [
+        {
+          "name": "Megumi Hayashibara",
+          "url": "https://open.spotify.com/artist/53e5Lp1qdqsYgfGL9YuW5p"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294521,
+      "name": "\u7ffc\u3092\u304f\u3060\u3055\u3044",
+      "url": "https://open.spotify.com/track/4BVC2Ou8Ka1kmT11wtZFl6"
+    },
+    {
+      "album": {
+        "name": "\u30f1\u30f4\u30a1\u30f3\u30b2\u30ea\u30f2\u30f3\u65b0\u5287\u5834\u7248:\u5e8f \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/42IbFUaAvDHBJTo1ujxlCG"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u77f3\u7434\u4e43",
+          "url": "https://open.spotify.com/artist/6f1uKn32JhuBirTF3esEod"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274960,
+      "name": "\u84bc\u3044\u30ec\u30b8\u30a7\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2Fy7Qe48dNYidRmb5KLvKq"
+    },
+    {
+      "album": {
+        "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3/THANATOS -IF I CAN'T BE YOURS-",
+        "url": "https://open.spotify.com/album/69UM5insSJZYJr69OuHyP2"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314266,
+      "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/4vJDqCqmiFI25MRpguICw0"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/0NxmNaFH5fLLTxxfS6Vp0K"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 314373,
+      "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/1NrzI6zJMDJLXTfxRFzGwX"
+    },
+    {
+      "album": {
+        "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+        "url": "https://open.spotify.com/album/7j1OdqnevNe9r0mwxOmh15"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 314600,
+      "name": "\u9b42\u306e\u30eb\u30d5\u30e9\u30f3",
+      "url": "https://open.spotify.com/track/4pjQ19ATjMCMFqnEF75O9T"
+    },
+    {
+      "album": {
+        "name": "\u9dfa\u5de3\u8a69\u90ce what if? \u9ad8\u6a4b\u6d0b\u5b50ver. \u901a\u5e38\u7248",
+        "url": "https://open.spotify.com/album/0tXtzsWcjzUDWMAV6zhqBd"
+      },
+      "artists": [
+        {
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+        }
+      ],
+      "date_added": "2021-08-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342579,
+      "name": "\u9dfa\u5de3\u8a69\u90ce what if? \u9ad8\u6a4b\u6d0b\u5b50ver. \u901a\u5e38\u7248",
+      "url": "https://open.spotify.com/track/7fNEJ3YAEFzd1hgybSmChO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWTIAgtZV6kbs"
 }

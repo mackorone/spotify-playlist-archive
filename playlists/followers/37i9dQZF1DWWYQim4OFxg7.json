@@ -1,621 +1,717 @@
 {
-  "2022-04-19": 1170,
-  "2022-04-20": 1171,
-  "2022-04-21": 1172,
-  "2022-04-22": 1172,
-  "2022-04-23": 1173,
-  "2022-04-24": 1173,
-  "2022-04-25": 1173,
-  "2022-04-26": 1173,
-  "2022-04-27": 1174,
-  "2022-04-28": 1174,
-  "2022-04-29": 1176,
-  "2022-04-30": 1177,
-  "2022-05-01": 1178,
-  "2022-05-02": 1178,
-  "2022-05-03": 1179,
-  "2022-05-04": 1179,
-  "2022-05-05": 1179,
-  "2022-05-06": 1178,
-  "2022-05-07": 1178,
-  "2022-05-08": 1179,
-  "2022-05-09": 1179,
-  "2022-05-10": 1180,
-  "2022-05-11": 1182,
-  "2022-05-12": 1183,
-  "2022-05-13": 1182,
-  "2022-05-14": 1182,
-  "2022-05-15": 1182,
-  "2022-05-16": 1182,
-  "2022-05-17": 1184,
-  "2022-05-18": 1184,
-  "2022-05-19": 1185,
-  "2022-05-20": 1185,
-  "2022-05-21": 1184,
-  "2022-05-22": 1184,
-  "2022-05-23": 1185,
-  "2022-05-24": 1185,
-  "2022-05-25": 1186,
-  "2022-05-26": 1186,
-  "2022-05-27": 1186,
-  "2022-05-28": 1187,
-  "2022-05-29": 1189,
-  "2022-05-30": 1191,
-  "2022-05-31": 1192,
-  "2022-06-01": 1195,
-  "2022-06-02": 1196,
-  "2022-06-03": 1199,
-  "2022-06-04": 1200,
-  "2022-06-05": 1201,
-  "2022-06-06": 1203,
-  "2022-06-07": 1203,
-  "2022-06-08": 1202,
-  "2022-06-09": 1202,
-  "2022-06-10": 1202,
-  "2022-06-11": 1203,
-  "2022-06-12": 1204,
-  "2022-06-13": 1204,
-  "2022-06-14": 1205,
-  "2022-06-15": 1205,
-  "2022-06-16": 1208,
-  "2022-06-17": 1208,
-  "2022-06-18": 1208,
-  "2022-06-19": 1211,
-  "2022-06-20": 1211,
-  "2022-06-21": 1211,
-  "2022-06-22": 1212,
-  "2022-06-23": 1212,
-  "2022-06-24": 1212,
-  "2022-06-25": 1213,
-  "2022-06-26": 1214,
-  "2022-06-27": 1215,
-  "2022-06-28": 1215,
-  "2022-06-29": 1215,
-  "2022-06-30": 1216,
-  "2022-07-01": 1216,
-  "2022-07-02": 1215,
-  "2022-07-03": 1217,
-  "2022-07-04": 1217,
-  "2022-07-05": 1218,
-  "2022-07-06": 1218,
-  "2022-07-07": 1218,
-  "2022-07-08": 1218,
-  "2022-07-09": 1219,
-  "2022-07-10": 1218,
-  "2022-07-11": 1218,
-  "2022-07-12": 1219,
-  "2022-07-13": 1219,
-  "2022-07-14": 1220,
-  "2022-07-15": 1219,
-  "2022-07-16": 1219,
-  "2022-07-17": 1219,
-  "2022-07-18": 1219,
-  "2022-07-19": 1218,
-  "2022-07-20": 1217,
-  "2022-07-21": 1217,
-  "2022-07-22": 1217,
-  "2022-07-23": 1216,
-  "2022-07-24": 1217,
-  "2022-07-25": 1216,
-  "2022-07-26": 1216,
-  "2022-07-27": 1216,
-  "2022-07-28": 1216,
-  "2022-07-29": 1217,
-  "2022-07-30": 1218,
-  "2022-07-31": 1218,
-  "2022-08-01": 1218,
-  "2022-08-02": 1221,
-  "2022-08-03": 1221,
-  "2022-08-04": 1223,
-  "2022-08-05": 1223,
-  "2022-08-06": 1224,
-  "2022-08-07": 1224,
-  "2022-08-08": 1224,
-  "2022-08-09": 1224,
-  "2022-08-10": 1224,
-  "2022-08-11": 1224,
-  "2022-08-12": 1225,
-  "2022-08-13": 1225,
-  "2022-08-14": 1225,
-  "2022-08-15": 1225,
-  "2022-08-16": 1225,
-  "2022-08-17": 1226,
-  "2022-08-18": 1226,
-  "2022-08-19": 1225,
-  "2022-08-20": 1226,
-  "2022-08-21": 1226,
-  "2022-08-22": 1226,
-  "2022-08-23": 1227,
-  "2022-08-24": 1227,
-  "2022-08-25": 1227,
-  "2022-08-26": 1227,
-  "2022-08-27": 1226,
-  "2022-08-28": 1227,
-  "2022-08-29": 1227,
-  "2022-08-30": 1228,
-  "2022-08-31": 1226,
-  "2022-09-01": 1226,
-  "2022-09-02": 1225,
-  "2022-09-03": 1227,
-  "2022-09-04": 1227,
-  "2022-09-05": 1228,
-  "2022-09-06": 1229,
-  "2022-09-07": 1229,
-  "2022-09-09": 1228,
-  "2022-09-10": 1229,
-  "2022-09-11": 1231,
-  "2022-09-12": 1232,
-  "2022-09-13": 1232,
-  "2022-09-15": 1234,
-  "2022-09-16": 1235,
-  "2022-09-17": 1235,
-  "2022-09-18": 1235,
-  "2022-09-19": 1236,
-  "2022-09-20": 1236,
-  "2022-09-21": 1236,
-  "2022-09-22": 1236,
-  "2022-09-23": 1236,
-  "2022-09-24": 1238,
-  "2022-09-25": 1238,
-  "2022-09-26": 1239,
-  "2022-09-27": 1239,
-  "2022-09-28": 1240,
-  "2022-09-29": 1239,
-  "2022-09-30": 1239,
-  "2022-10-01": 1242,
-  "2022-10-02": 1244,
-  "2022-10-03": 1245,
-  "2022-10-04": 1245,
-  "2022-10-05": 1244,
-  "2022-10-06": 1245,
-  "2022-10-07": 1246,
-  "2022-10-08": 1246,
-  "2022-10-09": 1248,
-  "2022-10-10": 1248,
-  "2022-10-11": 1250,
-  "2022-10-12": 1251,
-  "2022-10-13": 1251,
-  "2022-10-14": 1251,
-  "2022-10-15": 1251,
-  "2022-10-16": 1251,
-  "2022-10-17": 1252,
-  "2022-10-18": 1253,
-  "2022-10-19": 1253,
-  "2022-10-20": 1253,
-  "2022-10-21": 1253,
-  "2022-10-22": 1255,
-  "2022-10-23": 1256,
-  "2022-10-24": 1257,
-  "2022-10-25": 1259,
-  "2022-10-26": 1260,
-  "2022-10-27": 1260,
-  "2022-10-28": 1260,
-  "2022-10-29": 1260,
-  "2022-10-30": 1262,
-  "2022-10-31": 1263,
-  "2022-11-01": 1264,
-  "2022-11-02": 1266,
-  "2022-11-03": 1266,
-  "2022-11-04": 1267,
-  "2022-11-05": 1269,
-  "2022-11-06": 1269,
-  "2022-11-07": 1269,
-  "2022-11-08": 1270,
-  "2022-11-09": 1269,
-  "2022-11-10": 1271,
-  "2022-11-11": 1272,
-  "2022-11-12": 1278,
-  "2022-11-13": 1278,
-  "2022-11-14": 1280,
-  "2022-11-15": 1280,
-  "2022-11-16": 1280,
-  "2022-11-17": 1281,
-  "2022-11-18": 1282,
-  "2022-11-19": 1281,
-  "2022-11-20": 1280,
-  "2022-11-21": 1281,
-  "2022-11-22": 1282,
-  "2022-11-23": 1281,
-  "2022-11-24": 1283,
-  "2022-11-25": 1282,
-  "2022-11-26": 1283,
-  "2022-11-27": 1283,
-  "2022-11-28": 1283,
-  "2022-11-29": 1284,
-  "2022-11-30": 1284,
-  "2022-12-01": 1285,
-  "2022-12-02": 1285,
-  "2022-12-03": 1285,
-  "2022-12-04": 1286,
-  "2022-12-05": 1286,
-  "2022-12-06": 1285,
-  "2022-12-07": 1285,
-  "2022-12-08": 1287,
-  "2022-12-09": 1287,
-  "2022-12-10": 1288,
-  "2022-12-11": 1287,
-  "2022-12-12": 1288,
-  "2022-12-13": 1288,
-  "2022-12-14": 1288,
-  "2022-12-15": 1289,
-  "2022-12-16": 1289,
-  "2022-12-17": 1290,
-  "2022-12-18": 1289,
-  "2022-12-19": 1290,
-  "2022-12-20": 1291,
-  "2022-12-21": 1291,
-  "2022-12-22": 1292,
-  "2022-12-24": 1293,
-  "2022-12-25": 1294,
-  "2022-12-26": 1294,
-  "2022-12-27": 1294,
-  "2022-12-28": 1294,
-  "2022-12-29": 1294,
-  "2022-12-30": 1295,
-  "2022-12-31": 1295,
-  "2023-01-01": 1299,
-  "2023-01-02": 1300,
-  "2023-01-03": 1300,
-  "2023-01-04": 1301,
-  "2023-01-05": 1301,
-  "2023-01-06": 1303,
-  "2023-01-07": 1304,
-  "2023-01-08": 1304,
-  "2023-01-09": 1305,
-  "2023-01-10": 1306,
-  "2023-01-11": 1306,
-  "2023-01-12": 1305,
-  "2023-01-13": 1305,
-  "2023-01-14": 1307,
-  "2023-01-15": 1307,
-  "2023-01-16": 1306,
-  "2023-01-17": 1309,
-  "2023-01-18": 1310,
-  "2023-01-19": 1310,
-  "2023-01-20": 1310,
-  "2023-01-21": 1312,
-  "2023-01-22": 1311,
-  "2023-01-23": 1312,
-  "2023-01-24": 1312,
-  "2023-01-25": 1313,
-  "2023-01-26": 1312,
-  "2023-01-27": 1314,
-  "2023-01-28": 1314,
-  "2023-01-29": 1314,
-  "2023-01-30": 1314,
-  "2023-01-31": 1314,
-  "2023-02-01": 1314,
-  "2023-02-02": 1314,
-  "2023-02-03": 1316,
-  "2023-02-04": 1315,
-  "2023-02-05": 1315,
-  "2023-02-06": 1316,
-  "2023-02-07": 1316,
-  "2023-02-08": 1317,
-  "2023-02-09": 1317,
-  "2023-02-10": 1318,
-  "2023-02-11": 1318,
-  "2023-02-12": 1318,
-  "2023-02-13": 1321,
-  "2023-02-14": 1321,
-  "2023-02-15": 1321,
-  "2023-02-16": 1323,
-  "2023-02-17": 1326,
-  "2023-02-18": 1390,
-  "2023-02-19": 1401,
-  "2023-02-20": 1437,
-  "2023-02-21": 1486,
-  "2023-02-22": 1527,
-  "2023-02-23": 1565,
-  "2023-02-24": 1594,
-  "2023-02-25": 1637,
-  "2023-02-26": 1665,
-  "2023-02-27": 1736,
-  "2023-02-28": 1736,
-  "2023-03-01": 1754,
-  "2023-03-02": 1774,
-  "2023-03-03": 1795,
-  "2023-03-04": 1813,
-  "2023-03-05": 1866,
-  "2023-03-06": 1866,
-  "2023-03-07": 1888,
-  "2023-03-08": 1909,
-  "2023-03-09": 1930,
-  "2023-03-10": 1944,
-  "2023-03-11": 1970,
-  "2023-03-12": 1998,
-  "2023-03-13": 2025,
-  "2023-03-14": 2040,
-  "2023-03-15": 2064,
-  "2023-03-16": 2092,
-  "2023-03-17": 2092,
-  "2023-03-18": 2148,
-  "2023-03-19": 2175,
-  "2023-03-20": 2202,
-  "2023-03-21": 2215,
-  "2023-03-22": 2240,
-  "2023-03-23": 2264,
-  "2023-03-24": 2264,
-  "2023-03-25": 2307,
-  "2023-03-26": 2343,
-  "2023-03-27": 2374,
-  "2023-03-28": 2399,
-  "2023-03-29": 2437,
-  "2023-03-30": 2478,
-  "2023-03-31": 2478,
-  "2023-04-01": 2500,
-  "2023-04-02": 2529,
-  "2023-04-03": 2556,
-  "2023-04-04": 2578,
-  "2023-04-05": 2598,
-  "2023-04-06": 2620,
-  "2023-04-07": 2632,
-  "2023-04-09": 2683,
-  "2023-04-10": 2711,
-  "2023-04-11": 2757,
-  "2023-04-12": 2757,
-  "2023-04-13": 2779,
-  "2023-04-14": 2802,
-  "2023-04-15": 2830,
-  "2023-04-16": 2844,
-  "2023-04-17": 2871,
-  "2023-04-18": 2885,
-  "2023-04-19": 2914,
-  "2023-04-20": 2932,
-  "2023-04-21": 2954,
-  "2023-04-22": 2978,
-  "2023-04-23": 2999,
-  "2023-04-24": 3025,
-  "2023-04-25": 3049,
-  "2023-04-26": 3074,
-  "2023-04-27": 3099,
-  "2023-04-28": 3124,
-  "2023-04-29": 3147,
-  "2023-04-30": 3172,
-  "2023-05-01": 3190,
-  "2023-05-02": 3211,
-  "2023-05-03": 3238,
-  "2023-05-04": 3262,
-  "2023-05-05": 3282,
-  "2023-05-06": 3308,
-  "2023-05-07": 3326,
-  "2023-05-08": 3339,
-  "2023-05-09": 3366,
-  "2023-05-10": 3381,
-  "2023-05-11": 3409,
-  "2023-05-12": 3427,
-  "2023-05-13": 3445,
-  "2023-05-14": 3474,
-  "2023-05-15": 3496,
-  "2023-05-16": 3517,
-  "2023-05-17": 3531,
-  "2023-05-18": 3542,
-  "2023-05-19": 3561,
-  "2023-05-20": 3620,
-  "2023-05-21": 3620,
-  "2023-05-22": 3620,
-  "2023-05-23": 3665,
-  "2023-05-24": 3704,
-  "2023-05-25": 3712,
-  "2023-05-26": 3720,
-  "2023-05-27": 3745,
-  "2023-05-28": 3774,
-  "2023-05-29": 3774,
-  "2023-05-30": 3798,
-  "2023-05-31": 3808,
-  "2023-06-01": 3822,
-  "2023-06-02": 3838,
-  "2023-06-03": 3852,
-  "2023-06-04": 3870,
-  "2023-06-05": 3888,
-  "2023-06-06": 3904,
-  "2023-06-07": 3928,
-  "2023-06-08": 3946,
-  "2023-06-09": 3964,
-  "2023-06-10": 3980,
-  "2023-06-11": 3994,
-  "2023-06-12": 4016,
-  "2023-06-13": 4025,
-  "2023-06-14": 4052,
-  "2023-06-15": 4066,
-  "2023-06-16": 4082,
-  "2023-06-17": 4093,
-  "2023-06-18": 4115,
-  "2023-06-19": 4135,
-  "2023-06-20": 4147,
-  "2023-06-21": 4168,
-  "2023-06-22": 4189,
-  "2023-06-23": 4209,
-  "2023-06-24": 4228,
-  "2023-06-25": 4254,
-  "2023-06-26": 4277,
-  "2023-06-27": 4296,
-  "2023-06-28": 4307,
-  "2023-06-29": 4324,
-  "2023-06-30": 4338,
-  "2023-07-01": 4380,
-  "2023-07-02": 4380,
-  "2023-07-03": 4406,
-  "2023-07-04": 4423,
-  "2023-07-05": 4439,
-  "2023-07-06": 4476,
-  "2023-07-07": 4476,
-  "2023-07-08": 4496,
-  "2023-07-09": 4516,
-  "2023-07-10": 4532,
-  "2023-07-11": 4545,
-  "2023-07-12": 4555,
-  "2023-07-13": 4574,
-  "2023-07-14": 4586,
-  "2023-07-15": 4591,
-  "2023-07-16": 4618,
-  "2023-07-17": 4636,
-  "2023-07-18": 4645,
-  "2023-07-19": 4675,
-  "2023-07-20": 4691,
-  "2023-07-21": 4707,
-  "2023-07-22": 4733,
-  "2023-07-23": 4744,
-  "2023-07-24": 4762,
-  "2023-07-25": 4785,
-  "2023-07-26": 4803,
-  "2023-07-27": 4822,
-  "2023-07-28": 4840,
-  "2023-07-29": 4859,
-  "2023-07-30": 4875,
-  "2023-07-31": 4888,
-  "2023-08-01": 4913,
-  "2023-08-02": 4929,
-  "2023-08-03": 4945,
-  "2023-08-04": 4955,
-  "2023-08-05": 4968,
-  "2023-08-06": 4989,
-  "2023-08-07": 4989,
-  "2023-08-08": 4999,
-  "2023-08-09": 5012,
-  "2023-08-10": 5027,
-  "2023-08-11": 5039,
-  "2023-08-12": 5053,
-  "2023-08-13": 5082,
-  "2023-08-14": 5115,
-  "2023-08-15": 5160,
-  "2023-08-16": 5160,
-  "2023-08-17": 5172,
-  "2023-08-18": 5187,
-  "2023-08-19": 5205,
-  "2023-08-20": 5228,
-  "2023-08-21": 5243,
-  "2023-08-22": 5261,
-  "2023-08-23": 5276,
-  "2023-08-24": 5301,
-  "2023-08-25": 5330,
-  "2023-08-26": 5347,
-  "2023-08-27": 5355,
-  "2023-08-28": 5383,
-  "2023-08-29": 5397,
-  "2023-08-30": 5411,
-  "2023-08-31": 5422,
-  "2023-09-01": 5462,
-  "2023-09-02": 5462,
-  "2023-09-03": 5473,
-  "2023-09-04": 5489,
-  "2023-09-05": 5509,
-  "2023-09-06": 5521,
-  "2023-09-07": 5539,
-  "2023-09-08": 5555,
-  "2023-09-09": 5572,
-  "2023-09-10": 5589,
-  "2023-09-11": 5606,
-  "2023-09-12": 5620,
-  "2023-09-13": 5640,
-  "2023-09-14": 5665,
-  "2023-09-15": 5683,
-  "2023-09-16": 5703,
-  "2023-09-17": 5717,
-  "2023-09-18": 5743,
-  "2023-09-19": 5768,
-  "2023-09-20": 5784,
-  "2023-09-21": 5801,
-  "2023-09-22": 5822,
-  "2023-09-23": 5842,
-  "2023-09-24": 5868,
-  "2023-09-25": 5875,
-  "2023-09-26": 5897,
-  "2023-09-27": 5916,
-  "2023-09-28": 5935,
-  "2023-09-29": 5954,
-  "2023-09-30": 5982,
-  "2023-10-01": 6000,
-  "2023-10-02": 6020,
-  "2023-10-03": 6032,
-  "2023-10-04": 6044,
-  "2023-10-05": 6061,
-  "2023-10-06": 6083,
-  "2023-10-07": 6101,
-  "2023-10-08": 6133,
-  "2023-10-09": 6155,
-  "2023-10-10": 6177,
-  "2023-10-11": 6217,
-  "2023-10-12": 6217,
-  "2023-10-13": 6245,
-  "2023-10-14": 6260,
-  "2023-10-15": 6283,
-  "2023-10-16": 6311,
-  "2023-10-17": 6334,
-  "2023-10-18": 6358,
-  "2023-10-19": 6391,
-  "2023-10-20": 6416,
-  "2023-10-21": 6439,
-  "2023-10-22": 6462,
-  "2023-10-23": 6477,
-  "2023-10-24": 6494,
-  "2023-10-25": 6519,
-  "2023-10-26": 6539,
-  "2023-10-27": 6565,
-  "2023-10-28": 6572,
-  "2023-10-29": 6602,
-  "2023-10-30": 6643,
-  "2023-10-31": 6643,
-  "2023-11-01": 6655,
-  "2023-11-02": 6683,
-  "2023-11-03": 6691,
-  "2023-11-04": 6703,
-  "2023-11-05": 6722,
-  "2023-11-06": 6741,
-  "2023-11-07": 6757,
-  "2023-11-08": 6772,
-  "2023-11-09": 6785,
-  "2023-11-10": 6811,
-  "2023-11-11": 6837,
-  "2023-11-12": 6861,
-  "2023-11-13": 6877,
-  "2023-11-14": 6894,
-  "2023-11-15": 6894,
-  "2023-11-16": 6923,
-  "2023-11-17": 6966,
-  "2023-11-18": 6966,
-  "2023-11-19": 6987,
-  "2023-11-20": 7006,
-  "2023-11-21": 7015,
-  "2023-11-22": 7035,
-  "2023-11-23": 7052,
-  "2023-11-24": 7074,
-  "2023-11-25": 7093,
-  "2023-11-26": 7106,
-  "2023-11-27": 7127,
-  "2023-11-28": 7147,
-  "2023-11-29": 7180,
-  "2023-11-30": 7180,
-  "2023-12-01": 7207,
-  "2023-12-02": 7223,
-  "2023-12-03": 7243,
-  "2023-12-04": 7265,
-  "2023-12-05": 7295,
-  "2023-12-06": 7307,
-  "2023-12-07": 7329,
-  "2023-12-08": 7347,
-  "2023-12-09": 7366,
-  "2023-12-10": 7378,
-  "2023-12-11": 7401,
-  "2023-12-12": 7419,
-  "2023-12-13": 7433,
-  "2023-12-14": 7449,
-  "2023-12-15": 7458,
-  "2023-12-16": 7470,
-  "2023-12-17": 7490,
-  "2023-12-18": 7511,
-  "2023-12-19": 7534,
-  "2023-12-20": 7545,
-  "2023-12-21": 7557,
-  "2023-12-22": 7581,
-  "2023-12-23": 7598,
-  "2023-12-24": 7615,
-  "2023-12-25": 7627,
-  "2023-12-26": 7636,
-  "2023-12-27": 7656,
-  "2023-12-30": 7741,
-  "2023-12-31": 7769,
-  "2024-01-01": 7784,
-  "2024-01-02": 7807,
-  "2024-01-03": 7818
+  "2024-01-17": 8090,
+  "date_first_scraped": "2022-04-19",
+  "description": "These songs about science will get your kids thinking (and dancing!).",
+  "name": "Mad Scientist",
+  "tracks": [
+    {
+      "album": {
+        "name": "All One Tribe",
+        "url": "https://open.spotify.com/album/1EEVSonqRIjEB0DapNIRs8"
+      },
+      "artists": [
+        {
+          "name": "Roy Moye III",
+          "url": "https://open.spotify.com/artist/1FBZZD3fC7SuYBb8PsZWuf"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194853,
+      "name": "Black Lives Made STEM History",
+      "url": "https://open.spotify.com/track/78MBph27OvsmvxCauXGZOx"
+    },
+    {
+      "album": {
+        "name": "Curious: Think Outside the Pipeline!",
+        "url": "https://open.spotify.com/album/0TgG27H7fFvAhb1RWvrAn6"
+      },
+      "artists": [
+        {
+          "name": "Ants on a Log",
+          "url": "https://open.spotify.com/artist/6FhfWrn7f8y6OI8JZV2P3g"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150733,
+      "name": "Curious - Radio Edit",
+      "url": "https://open.spotify.com/track/5G0lNxYMUZFTIr1GL7EgQA"
+    },
+    {
+      "album": {
+        "name": "Time Out To Rock",
+        "url": "https://open.spotify.com/album/0WlUtngG1jOXHTWrBIiL6P"
+      },
+      "artists": [
+        {
+          "name": "The Not-Its!",
+          "url": "https://open.spotify.com/artist/4Eo7yzZ7LoM4Cg8AySUWry"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111013,
+      "name": "First Kid In Outer Space",
+      "url": "https://open.spotify.com/track/0gY02lpe3nwGJkOYF81Byz"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 87138,
+      "name": "How Do Volcanoes Work?",
+      "url": "https://open.spotify.com/track/4iiTCRH5nnR1QPNgEtJdC5"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87138,
+      "name": "How Do Volcanoes Work?",
+      "url": "https://open.spotify.com/track/5lVyjyEWLZluAGYjqFQd9m"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 6",
+        "url": "https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        },
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86210,
+      "name": "How Plants Grow",
+      "url": "https://open.spotify.com/track/3CU2MfdQcEM0FWQXILtv9V"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90133,
+      "name": "Hypothesis",
+      "url": "https://open.spotify.com/track/51o2AxOpFq2jqLFUTtON90"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Danny Weinkauf",
+          "url": "https://open.spotify.com/artist/00s1oYBnUz6FlP3sdD6x0u"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "I Am a Paleontologist",
+      "url": "https://open.spotify.com/track/0MSqR4unoY5KReMoOP6E2D"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 6",
+        "url": "https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        },
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88743,
+      "name": "Let's Explore Space!",
+      "url": "https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm"
+    },
+    {
+      "album": {
+        "name": "The McGarrigle Hour",
+        "url": "https://open.spotify.com/album/2awunlKk3xGVAGNjgmLnWz"
+      },
+      "artists": [
+        {
+          "name": "Kate & Anna McGarrigle",
+          "url": "https://open.spotify.com/artist/7krh6ZjG7i7jvLGiG3YNJF"
+        },
+        {
+          "name": "Chaim Tannenbaum",
+          "url": "https://open.spotify.com/artist/2JS4HUjGLXVcKGvtEjYGW3"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "Nacl (Sodium Chloride) (feat. Chaim Tannenbaum)",
+      "url": "https://open.spotify.com/track/1gUnpnvaQF9k8HTfIb5BEj"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb",
+        "url": "https://open.spotify.com/album/1mwUxOieg2GvQn4wm5bJR1"
+      },
+      "artists": [
+        {
+          "name": "Randy Crenshaw",
+          "url": "https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47240,
+      "name": "Perry the Platypus Theme",
+      "url": "https://open.spotify.com/track/0gG4SZ5weal3dd11pf5SzV"
+    },
+    {
+      "album": {
+        "name": "Rocks, Worms, Dirt",
+        "url": "https://open.spotify.com/album/7ssIKl6fNClylIsfShi5NC"
+      },
+      "artists": [
+        {
+          "name": "The Cool Chips",
+          "url": "https://open.spotify.com/artist/6tpEDMWC8SoJDtYYNBthcD"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130199,
+      "name": "Rocks, Worms, Dirt",
+      "url": "https://open.spotify.com/track/7KpdTeXM1O9Yc5PoaYYqJc"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Roy G. Biv",
+      "url": "https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS"
+    },
+    {
+      "album": {
+        "name": "Thoughtful Songs For Little People",
+        "url": "https://open.spotify.com/album/6LSFxDVMLokDF0TO9kXUSP"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220928,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/6PvmdYQrjnBGGEdMAxCQ1J"
+    },
+    {
+      "album": {
+        "name": "Thoughtful Songs for Little People",
+        "url": "https://open.spotify.com/album/7f8sw4jRMSFZoAykCkd7CA"
+      },
+      "artists": [
+        {
+          "name": "Teeny Tiny Stevies",
+          "url": "https://open.spotify.com/artist/6hhqb0X8Jas5jt96Okhjov"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220928,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/6y527slRv6wrd7eM7PjYaM"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0nrQFbrmkmXPq57leBGMjt"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114426,
+      "name": "Science Is Real",
+      "url": "https://open.spotify.com/track/0HK0ca4NUq81wKUpBksoSe"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114426,
+      "name": "Science Is Real",
+      "url": "https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS"
+    },
+    {
+      "album": {
+        "name": "Science Safety Song",
+        "url": "https://open.spotify.com/album/1kKsfxd9UKEUj59tYegN1t"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "Science Safety Song",
+      "url": "https://open.spotify.com/track/08zVXpxlOLeNAribgD0IU0"
+    },
+    {
+      "album": {
+        "name": "Science Safety Song",
+        "url": "https://open.spotify.com/album/4HNbMitRi0kEbDFzz20ShU"
+      },
+      "artists": [
+        {
+          "name": "T-Rex Ranch",
+          "url": "https://open.spotify.com/artist/08lYqL6n1bP5jAHgYhtJHn"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116571,
+      "name": "Science Safety Song",
+      "url": "https://open.spotify.com/track/7sFIvuWrFcGDVgW5hv0uZC"
+    },
+    {
+      "album": {
+        "name": "Ada Twist, Scientist (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/22aQsYeeE3Bo2X2YOa2d1D"
+      },
+      "artists": [
+        {
+          "name": "Ada Twist, Scientist Cast",
+          "url": "https://open.spotify.com/artist/76oRycbLitZ9oew9UTIByK"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87626,
+      "name": "Scientific Method",
+      "url": "https://open.spotify.com/track/5SvRpPCx20jXnwIRhaqLtN"
+    },
+    {
+      "album": {
+        "name": "Science Songs",
+        "url": "https://open.spotify.com/album/1SuAdgI7e9osUMADAoIPtC"
+      },
+      "artists": [
+        {
+          "name": "Have Fun Teaching",
+          "url": "https://open.spotify.com/artist/705Z0iFTodc8kuWuq6s5ah"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188426,
+      "name": "Scientific Method Song",
+      "url": "https://open.spotify.com/track/1VJzt4CeuWXNwTISfWYYW3"
+    },
+    {
+      "album": {
+        "name": "Scope It Out",
+        "url": "https://open.spotify.com/album/4VLelzb26t0AWvVrX2JCZu"
+      },
+      "artists": [
+        {
+          "name": "Uncle Jumbo",
+          "url": "https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Scope It Out",
+      "url": "https://open.spotify.com/track/7ixZUokn4hHR2SbQt3fmvo"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Marty Beller",
+          "url": "https://open.spotify.com/artist/7mI3lEVRmJ9Yjpuu2J0GfI"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108253,
+      "name": "Speed and Velocity",
+      "url": "https://open.spotify.com/track/7BT6rJugPKZS9STlaAiNxH"
+    },
+    {
+      "album": {
+        "name": "Odd Socks Calling!",
+        "url": "https://open.spotify.com/album/5hFBdPyv74iBUQhz4MBkvN"
+      },
+      "artists": [
+        {
+          "name": "Andy And The Odd Socks",
+          "url": "https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181012,
+      "name": "The Appliance of Science",
+      "url": "https://open.spotify.com/track/4CTSxxuoJ6y8WiMY0wQq8u"
+    },
+    {
+      "album": {
+        "name": "Odd Socks Calling!",
+        "url": "https://open.spotify.com/album/3W4Njm0c2juSr1A0rOcR6Y"
+      },
+      "artists": [
+        {
+          "name": "Andy And The Odd Socks",
+          "url": "https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181012,
+      "name": "The Appliance of Science",
+      "url": "https://open.spotify.com/track/72sa7baeB5edYoxLotlFo2"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "The Ballad of Davy Crockett (in Outer Space)",
+      "url": "https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A"
+    },
+    {
+      "album": {
+        "name": "Wonder Raps",
+        "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "The Brain Song",
+      "url": "https://open.spotify.com/track/3WKp2G9XxEoUqXB64UR0qV"
+    },
+    {
+      "album": {
+        "name": "Ncis: The Official Tv Soundtrack - Vol. 2",
+        "url": "https://open.spotify.com/album/576fyLLci8j617RWwYX54O"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 83280,
+      "name": "The Elements",
+      "url": "https://open.spotify.com/track/1O7jntBJTdX7HPoZOwjmaS"
+    },
+    {
+      "album": {
+        "name": "More of Tom Lehrer",
+        "url": "https://open.spotify.com/album/556GEkWWrgQ7f3253diPvr"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86920,
+      "name": "The Elements",
+      "url": "https://open.spotify.com/track/1cIjktJ9flEMBrjlbPJCBY"
+    },
+    {
+      "album": {
+        "name": "More Of Tom Lehrer",
+        "url": "https://open.spotify.com/album/2ez9hfFQ772DXjuJ94sgJi"
+      },
+      "artists": [
+        {
+          "name": "Tom Lehrer",
+          "url": "https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 86453,
+      "name": "The Elements (Music By Sir Arthur Sullivan)",
+      "url": "https://open.spotify.com/track/3LRGJ97WvYoD99lDgtcIFJ"
+    },
+    {
+      "album": {
+        "name": "Songs for Chickens",
+        "url": "https://open.spotify.com/album/6DRUmoB3xTpgh1dqWYQP1W"
+      },
+      "artists": [
+        {
+          "name": "Tim Kubart",
+          "url": "https://open.spotify.com/artist/1mmtvYjQNZ4rNL20mT1wDp"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180572,
+      "name": "The Planets",
+      "url": "https://open.spotify.com/track/49fHq1JGgELi2dAWZFzFhz"
+    },
+    {
+      "album": {
+        "name": "Wonder Raps",
+        "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187669,
+      "name": "The Save The Planet Song",
+      "url": "https://open.spotify.com/track/4TO4twNfRwHYylLt3AgJWl"
+    },
+    {
+      "album": {
+        "name": "Wonder Raps",
+        "url": "https://open.spotify.com/album/4iWMDhbFSAJ9OiJmko17mH"
+      },
+      "artists": [
+        {
+          "name": "MC Grammar",
+          "url": "https://open.spotify.com/artist/5jP7y718a7xnKUylSWPANN"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189843,
+      "name": "The Volcano Song",
+      "url": "https://open.spotify.com/track/0LixLuFCySCWfXxRWH0Esj"
+    },
+    {
+      "album": {
+        "name": "The Water Cycle Song",
+        "url": "https://open.spotify.com/album/2pnN3jPJOXeynTDPniQ16F"
+      },
+      "artists": [
+        {
+          "name": "Hopscotch Songs",
+          "url": "https://open.spotify.com/artist/5nJFIxTnnNBh2ZIP3dsk6x"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140342,
+      "name": "The Water Cycle Song",
+      "url": "https://open.spotify.com/track/3pFIICPJjx4icOFSycd5a0"
+    },
+    {
+      "album": {
+        "name": "GoNoodle Presents Blazer Fresh (Vol. 1)",
+        "url": "https://open.spotify.com/album/3lCBVaBrl8PogWylUxVqSk"
+      },
+      "artists": [
+        {
+          "name": "GoNoodle",
+          "url": "https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f"
+        },
+        {
+          "name": "Blazer Fresh",
+          "url": "https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152708,
+      "name": "Think Like A Scientist",
+      "url": "https://open.spotify.com/track/5bXtUGHULEeYhW2MIEN6iy"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/1gBVScuQu3oYi98AchR0WR"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 74988,
+      "name": "What Is Electricity?",
+      "url": "https://open.spotify.com/track/4sCEgYgNLeyPmG5UUeEBuE"
+    },
+    {
+      "album": {
+        "name": "Ask The StoryBots: Season 2 (Music From The Original Series)",
+        "url": "https://open.spotify.com/album/5wSjzGjvhotNbkyZDkYTqE"
+      },
+      "artists": [
+        {
+          "name": "StoryBots",
+          "url": "https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74988,
+      "name": "What Is Electricity?",
+      "url": "https://open.spotify.com/track/7H02LUeobKAOOsEXQ7ZqnK"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156826,
+      "name": "Why Does the Sun Shine?",
+      "url": "https://open.spotify.com/track/1wfa3vAiIAbSxHbzKoSPuS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWYQim4OFxg7"
 }

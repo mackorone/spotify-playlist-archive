@@ -4,11 +4,12 @@
 
 > Relax and take it slow today
 
-187 songs - 10 hr 27 min
+188 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18](https://open.spotify.com/track/0xMDAZkHccTgIi87Tdd1An) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [18](https://open.spotify.com/album/0rfFKuEbn9Ez9qPGJQfFzf) | 2:51 | 2023-04-28 |  |
+| [7:40](https://open.spotify.com/track/5zkyyfHR18x8flUW3JixtX) | [Maria Aragon](https://open.spotify.com/artist/2aiQfmxcWSx7RrqSVbhiFX) | [7:40](https://open.spotify.com/album/3fC02Gt50dEhWrBtV3ESnC) | 2:59 | 2024-01-05 |  |
 | [A Few Days](https://open.spotify.com/track/7JFj0OKnXDafgLc7LNPl9w) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [A Few Days](https://open.spotify.com/album/71uN4BV7Vb8c1CanxlHVGV) | 3:07 | 2021-04-19 | 2022-09-24 |
 | [A Simple Song](https://open.spotify.com/track/1XXl9pl7ObojHbyJetY75n) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:36 | 2021-04-19 | 2022-04-29 |
 | [Ain't My Place \- Acoustic](https://open.spotify.com/track/1aEleT5rCGxHHK0IGbHjq8) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [Ain't My Place \(Acoustic\)](https://open.spotify.com/album/4MK30nUaWHXS8sFZQL96aT) | 3:36 | 2021-04-19 | 2023-02-04 |
@@ -25,7 +26,7 @@
 | [Boat](https://open.spotify.com/track/6jemILri7l5LuPhKs2nuXr) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:05 | 2023-04-21 |  |
 | [Breathe](https://open.spotify.com/track/0x1TV5GIh3Bb1uOHGM8CPV) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt) | 2:17 | 2021-11-19 |  |
 | [Breathe](https://open.spotify.com/track/16SKS0Na572RmGeajx7ker) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Breathe](https://open.spotify.com/album/2ONf4BzMSosulZR05NxdTz) | 2:17 | 2021-11-19 | 2022-07-29 |
-| [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 |  |
+| [Cairo, IL](https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Puxico](https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA) | 2:59 | 2021-04-19 | 2024-01-05 |
 | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/track/5dPc0lDy55q0GCyL66Uudy) | [Seth Ennis](https://open.spotify.com/artist/2dEZtPJFspWetycGtouit2), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Call Your Mama \(feat\. Little Big Town\)](https://open.spotify.com/album/074bfoI8tp9Kpj4alfarw3) | 3:16 | 2021-04-19 |  |
 | [Carry On](https://open.spotify.com/track/1qBKPuLAM3AMfP8kW6lZ7n) | [Our Atlantic Roots](https://open.spotify.com/artist/7ymwRNbLwKozZwnup5cMtB) | [Carry On](https://open.spotify.com/album/0WyeZyEEb8pidrTsN1mPtK) | 3:25 | 2021-04-19 |  |
 | [Centre of The Universe](https://open.spotify.com/track/2GUhQOTvUulHaiIXUChVVu) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:10 | 2023-02-03 |  |

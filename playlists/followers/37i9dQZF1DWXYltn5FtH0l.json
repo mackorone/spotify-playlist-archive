@@ -1,580 +1,1367 @@
 {
-  "2022-05-30": 18057,
-  "2022-05-31": 18078,
-  "2022-06-01": 18101,
-  "2022-06-02": 18102,
-  "2022-06-03": 18113,
-  "2022-06-04": 18123,
-  "2022-06-05": 18135,
-  "2022-06-06": 18139,
-  "2022-06-07": 18141,
-  "2022-06-08": 18139,
-  "2022-06-09": 18145,
-  "2022-06-10": 18157,
-  "2022-06-11": 18159,
-  "2022-06-12": 18034,
-  "2022-06-13": 17982,
-  "2022-06-14": 17957,
-  "2022-06-15": 17954,
-  "2022-06-16": 17966,
-  "2022-06-17": 17975,
-  "2022-06-18": 17981,
-  "2022-06-19": 17989,
-  "2022-06-20": 17989,
-  "2022-06-21": 18002,
-  "2022-06-22": 18038,
-  "2022-06-23": 18038,
-  "2022-06-24": 18046,
-  "2022-06-25": 18050,
-  "2022-06-26": 18058,
-  "2022-06-27": 18082,
-  "2022-06-28": 18095,
-  "2022-06-29": 18110,
-  "2022-06-30": 18124,
-  "2022-07-01": 18140,
-  "2022-07-02": 18150,
-  "2022-07-03": 18160,
-  "2022-07-04": 18168,
-  "2022-07-05": 18185,
-  "2022-07-06": 18195,
-  "2022-07-07": 18213,
-  "2022-07-08": 18209,
-  "2022-07-09": 18218,
-  "2022-07-10": 18223,
-  "2022-07-11": 18246,
-  "2022-07-12": 18271,
-  "2022-07-13": 18296,
-  "2022-07-14": 18324,
-  "2022-07-15": 18337,
-  "2022-07-16": 18355,
-  "2022-07-17": 18390,
-  "2022-07-18": 18410,
-  "2022-07-19": 18427,
-  "2022-07-20": 18448,
-  "2022-07-21": 18462,
-  "2022-07-22": 18477,
-  "2022-07-23": 18498,
-  "2022-07-24": 18515,
-  "2022-07-25": 18537,
-  "2022-07-26": 18561,
-  "2022-07-27": 18576,
-  "2022-07-28": 18592,
-  "2022-07-29": 18616,
-  "2022-07-30": 18663,
-  "2022-07-31": 18663,
-  "2022-08-01": 18679,
-  "2022-08-02": 18713,
-  "2022-08-03": 18713,
-  "2022-08-04": 18723,
-  "2022-08-05": 18733,
-  "2022-08-06": 18753,
-  "2022-08-07": 18770,
-  "2022-08-08": 18789,
-  "2022-08-09": 18819,
-  "2022-08-10": 18834,
-  "2022-08-11": 18854,
-  "2022-08-12": 18877,
-  "2022-08-13": 18891,
-  "2022-08-14": 18900,
-  "2022-08-15": 18917,
-  "2022-08-16": 18933,
-  "2022-08-17": 18951,
-  "2022-08-18": 18965,
-  "2022-08-19": 18980,
-  "2022-08-20": 19006,
-  "2022-08-21": 19023,
-  "2022-08-22": 19035,
-  "2022-08-23": 19047,
-  "2022-08-24": 19075,
-  "2022-08-25": 19087,
-  "2022-08-26": 19098,
-  "2022-08-27": 19108,
-  "2022-08-28": 19129,
-  "2022-08-29": 19149,
-  "2022-08-30": 19148,
-  "2022-08-31": 19124,
-  "2022-09-01": 19116,
-  "2022-09-02": 19130,
-  "2022-09-03": 19102,
-  "2022-09-04": 19069,
-  "2022-09-05": 19034,
-  "2022-09-06": 19051,
-  "2022-09-07": 19073,
-  "2022-09-09": 19105,
-  "2022-09-10": 19123,
-  "2022-09-11": 19121,
-  "2022-09-12": 19139,
-  "2022-09-13": 19151,
-  "2022-09-15": 19180,
-  "2022-09-16": 19202,
-  "2022-09-17": 19220,
-  "2022-09-18": 19234,
-  "2022-09-19": 19249,
-  "2022-09-20": 19263,
-  "2022-09-21": 19289,
-  "2022-09-22": 19308,
-  "2022-09-23": 19315,
-  "2022-09-24": 19342,
-  "2022-09-25": 19374,
-  "2022-09-26": 19396,
-  "2022-09-27": 19413,
-  "2022-09-28": 19439,
-  "2022-09-29": 19460,
-  "2022-09-30": 19474,
-  "2022-10-01": 19486,
-  "2022-10-02": 19494,
-  "2022-10-03": 19511,
-  "2022-10-04": 19520,
-  "2022-10-05": 19532,
-  "2022-10-06": 19543,
-  "2022-10-07": 19559,
-  "2022-10-08": 19572,
-  "2022-10-09": 19591,
-  "2022-10-10": 19596,
-  "2022-10-11": 19603,
-  "2022-10-12": 19613,
-  "2022-10-13": 19630,
-  "2022-10-14": 19630,
-  "2022-10-15": 19648,
-  "2022-10-16": 19656,
-  "2022-10-17": 19669,
-  "2022-10-18": 19686,
-  "2022-10-19": 19703,
-  "2022-10-20": 19718,
-  "2022-10-21": 19728,
-  "2022-10-22": 19736,
-  "2022-10-23": 19741,
-  "2022-10-24": 19761,
-  "2022-10-25": 19775,
-  "2022-10-26": 19785,
-  "2022-10-27": 19800,
-  "2022-10-28": 19814,
-  "2022-10-29": 19826,
-  "2022-10-30": 19833,
-  "2022-10-31": 19833,
-  "2022-11-01": 19857,
-  "2022-11-02": 19873,
-  "2022-11-03": 19887,
-  "2022-11-04": 19900,
-  "2022-11-05": 19917,
-  "2022-11-06": 19923,
-  "2022-11-07": 19936,
-  "2022-11-08": 19946,
-  "2022-11-09": 19957,
-  "2022-11-10": 19974,
-  "2022-11-11": 19978,
-  "2022-11-12": 19991,
-  "2022-11-13": 20003,
-  "2022-11-14": 20022,
-  "2022-11-15": 20035,
-  "2022-11-16": 20048,
-  "2022-11-17": 20060,
-  "2022-11-18": 20068,
-  "2022-11-19": 20064,
-  "2022-11-20": 20065,
-  "2022-11-21": 20072,
-  "2022-11-22": 20110,
-  "2022-11-23": 20106,
-  "2022-11-24": 20135,
-  "2022-11-25": 20168,
-  "2022-11-26": 20188,
-  "2022-11-27": 20205,
-  "2022-11-28": 20220,
-  "2022-11-29": 20231,
-  "2022-11-30": 20251,
-  "2022-12-01": 20259,
-  "2022-12-02": 20282,
-  "2022-12-03": 20302,
-  "2022-12-04": 20316,
-  "2022-12-05": 20334,
-  "2022-12-06": 20348,
-  "2022-12-07": 20356,
-  "2022-12-08": 20372,
-  "2022-12-09": 20385,
-  "2022-12-10": 20400,
-  "2022-12-11": 20412,
-  "2022-12-12": 20427,
-  "2022-12-13": 20443,
-  "2022-12-14": 20453,
-  "2022-12-15": 20465,
-  "2022-12-16": 20481,
-  "2022-12-17": 20493,
-  "2022-12-18": 20504,
-  "2022-12-19": 20504,
-  "2022-12-20": 20536,
-  "2022-12-21": 20536,
-  "2022-12-22": 20544,
-  "2022-12-24": 20570,
-  "2022-12-25": 20592,
-  "2022-12-26": 20599,
-  "2022-12-27": 20612,
-  "2022-12-28": 20627,
-  "2022-12-29": 20647,
-  "2022-12-30": 20661,
-  "2022-12-31": 20681,
-  "2023-01-01": 20695,
-  "2023-01-02": 20716,
-  "2023-01-03": 20734,
-  "2023-01-04": 20753,
-  "2023-01-05": 20768,
-  "2023-01-06": 20786,
-  "2023-01-07": 20809,
-  "2023-01-08": 20810,
-  "2023-01-09": 20825,
-  "2023-01-10": 20851,
-  "2023-01-11": 20868,
-  "2023-01-12": 20883,
-  "2023-01-13": 20895,
-  "2023-01-14": 20917,
-  "2023-01-15": 20913,
-  "2023-01-16": 20936,
-  "2023-01-17": 20946,
-  "2023-01-18": 20957,
-  "2023-01-19": 20976,
-  "2023-01-20": 20997,
-  "2023-01-21": 21017,
-  "2023-01-22": 21033,
-  "2023-01-23": 21048,
-  "2023-01-24": 21064,
-  "2023-01-25": 21076,
-  "2023-01-26": 21089,
-  "2023-01-27": 21107,
-  "2023-01-28": 21125,
-  "2023-01-29": 21133,
-  "2023-01-30": 21161,
-  "2023-01-31": 21161,
-  "2023-02-01": 21186,
-  "2023-02-02": 21187,
-  "2023-02-03": 21194,
-  "2023-02-04": 21211,
-  "2023-02-05": 21228,
-  "2023-02-06": 21240,
-  "2023-02-07": 21261,
-  "2023-02-08": 21281,
-  "2023-02-09": 21281,
-  "2023-02-10": 21298,
-  "2023-02-11": 21309,
-  "2023-02-12": 21335,
-  "2023-02-13": 21355,
-  "2023-02-14": 21355,
-  "2023-02-15": 21364,
-  "2023-02-16": 21381,
-  "2023-02-17": 21403,
-  "2023-02-18": 21437,
-  "2023-02-19": 21436,
-  "2023-02-20": 21450,
-  "2023-02-21": 21455,
-  "2023-02-22": 21471,
-  "2023-02-23": 21489,
-  "2023-02-24": 21511,
-  "2023-02-25": 21545,
-  "2023-02-26": 21564,
-  "2023-02-27": 21590,
-  "2023-02-28": 21590,
-  "2023-03-01": 21609,
-  "2023-03-02": 21620,
-  "2023-03-03": 21637,
-  "2023-03-04": 21649,
-  "2023-03-05": 21672,
-  "2023-03-06": 21672,
-  "2023-03-07": 21681,
-  "2023-03-08": 21693,
-  "2023-03-09": 21710,
-  "2023-03-10": 21727,
-  "2023-03-11": 21750,
-  "2023-03-12": 21756,
-  "2023-03-13": 21779,
-  "2023-03-14": 21787,
-  "2023-03-15": 21799,
-  "2023-03-16": 21816,
-  "2023-03-17": 21816,
-  "2023-03-18": 21839,
-  "2023-03-19": 21854,
-  "2023-03-20": 21859,
-  "2023-03-21": 21868,
-  "2023-03-22": 21882,
-  "2023-03-23": 21881,
-  "2023-03-24": 21881,
-  "2023-03-25": 21903,
-  "2023-03-26": 21914,
-  "2023-03-27": 21925,
-  "2023-03-28": 21931,
-  "2023-03-29": 21946,
-  "2023-03-30": 21968,
-  "2023-03-31": 21968,
-  "2023-04-01": 21976,
-  "2023-04-02": 21988,
-  "2023-04-03": 21992,
-  "2023-04-04": 22001,
-  "2023-04-05": 22016,
-  "2023-04-06": 22032,
-  "2023-04-07": 22038,
-  "2023-04-09": 22047,
-  "2023-04-10": 22056,
-  "2023-04-11": 22082,
-  "2023-04-12": 22082,
-  "2023-04-13": 22090,
-  "2023-04-14": 22102,
-  "2023-04-15": 22117,
-  "2023-04-16": 22122,
-  "2023-04-17": 22144,
-  "2023-04-18": 22148,
-  "2023-04-19": 22155,
-  "2023-04-20": 22174,
-  "2023-04-21": 22197,
-  "2023-04-22": 22217,
-  "2023-04-23": 22235,
-  "2023-04-24": 22253,
-  "2023-04-25": 22274,
-  "2023-04-26": 22305,
-  "2023-04-27": 22319,
-  "2023-04-28": 22327,
-  "2023-04-29": 22339,
-  "2023-04-30": 22358,
-  "2023-05-01": 22365,
-  "2023-05-02": 22375,
-  "2023-05-03": 22377,
-  "2023-05-04": 22385,
-  "2023-05-05": 22401,
-  "2023-05-06": 22420,
-  "2023-05-07": 22429,
-  "2023-05-08": 22444,
-  "2023-05-09": 22459,
-  "2023-05-10": 22470,
-  "2023-05-11": 22484,
-  "2023-05-12": 22495,
-  "2023-05-13": 22512,
-  "2023-05-14": 22525,
-  "2023-05-15": 22531,
-  "2023-05-16": 22547,
-  "2023-05-17": 22553,
-  "2023-05-18": 22563,
-  "2023-05-19": 22575,
-  "2023-05-20": 22591,
-  "2023-05-21": 22591,
-  "2023-05-22": 22591,
-  "2023-05-23": 22608,
-  "2023-05-24": 22625,
-  "2023-05-25": 22627,
-  "2023-05-26": 22640,
-  "2023-05-27": 22645,
-  "2023-05-28": 22654,
-  "2023-05-29": 22654,
-  "2023-05-30": 22661,
-  "2023-05-31": 22671,
-  "2023-06-01": 22680,
-  "2023-06-02": 22683,
-  "2023-06-03": 22696,
-  "2023-06-04": 22708,
-  "2023-06-05": 22714,
-  "2023-06-06": 22718,
-  "2023-06-07": 22730,
-  "2023-06-08": 22740,
-  "2023-06-09": 22751,
-  "2023-06-10": 22762,
-  "2023-06-11": 22768,
-  "2023-06-12": 22775,
-  "2023-06-13": 22784,
-  "2023-06-14": 22792,
-  "2023-06-15": 22801,
-  "2023-06-16": 4573,
-  "2023-06-17": 4573,
-  "2023-06-18": 4573,
-  "2023-06-19": 4573,
-  "2023-06-20": 4573,
-  "2023-06-21": 4573,
-  "2023-06-22": 4573,
-  "2023-06-23": 4573,
-  "2023-06-24": 4573,
-  "2023-06-25": 4573,
-  "2023-06-26": 4573,
-  "2023-06-27": 4573,
-  "2023-06-28": 4573,
-  "2023-06-29": 4573,
-  "2023-06-30": 4573,
-  "2023-07-01": 4573,
-  "2023-07-02": 4573,
-  "2023-07-03": 4573,
-  "2023-07-04": 4573,
-  "2023-07-05": 4573,
-  "2023-07-06": 4573,
-  "2023-07-07": 4573,
-  "2023-07-08": 4573,
-  "2023-07-09": 4573,
-  "2023-07-10": 4573,
-  "2023-07-11": 4573,
-  "2023-07-12": 4573,
-  "2023-07-13": 4573,
-  "2023-07-14": 4573,
-  "2023-07-15": 4573,
-  "2023-07-16": 4573,
-  "2023-07-17": 4573,
-  "2023-07-18": 4573,
-  "2023-07-19": 4573,
-  "2023-07-20": 4573,
-  "2023-07-21": 4573,
-  "2023-07-22": 4573,
-  "2023-07-23": 4573,
-  "2023-07-24": 4573,
-  "2023-07-25": 4573,
-  "2023-07-26": 4573,
-  "2023-07-27": 4573,
-  "2023-07-28": 4573,
-  "2023-07-29": 4573,
-  "2023-07-30": 4573,
-  "2023-07-31": 4573,
-  "2023-08-01": 4573,
-  "2023-08-02": 4573,
-  "2023-08-03": 4573,
-  "2023-08-04": 4573,
-  "2023-08-05": 4573,
-  "2023-08-06": 4573,
-  "2023-08-07": 4573,
-  "2023-08-08": 4573,
-  "2023-08-09": 4573,
-  "2023-08-10": 4573,
-  "2023-08-11": 4573,
-  "2023-08-12": 4573,
-  "2023-08-13": 4573,
-  "2023-08-14": 4573,
-  "2023-08-15": 4573,
-  "2023-08-16": 4573,
-  "2023-08-17": 4573,
-  "2023-08-18": 4573,
-  "2023-08-19": 4573,
-  "2023-08-20": 4573,
-  "2023-08-21": 4573,
-  "2023-08-22": 4573,
-  "2023-08-23": 4573,
-  "2023-08-24": 4573,
-  "2023-08-25": 4573,
-  "2023-08-26": 4573,
-  "2023-08-27": 4573,
-  "2023-08-28": 4573,
-  "2023-08-29": 4573,
-  "2023-08-30": 4573,
-  "2023-08-31": 4573,
-  "2023-09-01": 4573,
-  "2023-09-02": 4573,
-  "2023-09-03": 4573,
-  "2023-09-04": 4573,
-  "2023-09-05": 4573,
-  "2023-09-06": 4573,
-  "2023-09-07": 4573,
-  "2023-09-08": 4573,
-  "2023-09-09": 4573,
-  "2023-09-10": 4573,
-  "2023-09-11": 4573,
-  "2023-09-12": 4573,
-  "2023-09-13": 4573,
-  "2023-09-14": 4573,
-  "2023-09-15": 4573,
-  "2023-09-16": 4573,
-  "2023-09-17": 4573,
-  "2023-09-18": 4573,
-  "2023-09-19": 4573,
-  "2023-09-20": 4573,
-  "2023-09-21": 4573,
-  "2023-09-22": 4573,
-  "2023-09-23": 4573,
-  "2023-09-24": 4573,
-  "2023-09-25": 4573,
-  "2023-09-26": 4573,
-  "2023-09-27": 4573,
-  "2023-09-28": 4573,
-  "2023-09-29": 4573,
-  "2023-09-30": 4573,
-  "2023-10-01": 4573,
-  "2023-10-02": 4573,
-  "2023-10-03": 4573,
-  "2023-10-04": 4573,
-  "2023-10-05": 4573,
-  "2023-10-06": 4573,
-  "2023-10-07": 4573,
-  "2023-10-08": 4573,
-  "2023-10-09": 4573,
-  "2023-10-10": 4573,
-  "2023-10-11": 4573,
-  "2023-10-12": 4573,
-  "2023-10-13": 4573,
-  "2023-10-14": 4573,
-  "2023-10-15": 4573,
-  "2023-10-16": 4573,
-  "2023-10-17": 4573,
-  "2023-10-18": 4573,
-  "2023-10-19": 4573,
-  "2023-10-20": 4573,
-  "2023-10-21": 4573,
-  "2023-10-22": 4573,
-  "2023-10-23": 4573,
-  "2023-10-24": 4573,
-  "2023-10-25": 4573,
-  "2023-10-26": 4573,
-  "2023-10-27": 4573,
-  "2023-10-28": 4573,
-  "2023-10-29": 4573,
-  "2023-10-30": 4573,
-  "2023-10-31": 4573,
-  "2023-11-01": 4573,
-  "2023-11-02": 4573,
-  "2023-11-03": 4573,
-  "2023-11-04": 4573,
-  "2023-11-05": 4573,
-  "2023-11-06": 4573,
-  "2023-11-07": 4573,
-  "2023-11-08": 4573,
-  "2023-11-09": 4573,
-  "2023-11-10": 4573,
-  "2023-11-11": 4573,
-  "2023-11-12": 4573,
-  "2023-11-13": 4573,
-  "2023-11-14": 4573,
-  "2023-11-15": 4573,
-  "2023-11-16": 4573,
-  "2023-11-17": 4573,
-  "2023-11-18": 4573,
-  "2023-11-19": 4573,
-  "2023-11-20": 4573,
-  "2023-11-21": 4573,
-  "2023-11-22": 4573,
-  "2023-11-23": 4573,
-  "2023-11-24": 4573,
-  "2023-11-25": 4573,
-  "2023-11-26": 4573,
-  "2023-11-27": 4573,
-  "2023-11-28": 4573,
-  "2023-11-29": 4573,
-  "2023-11-30": 4573,
-  "2023-12-01": 4573,
-  "2023-12-02": 4573,
-  "2023-12-03": 4573,
-  "2023-12-04": 4573,
-  "2023-12-05": 4573,
-  "2023-12-06": 4573,
-  "2023-12-07": 4573,
-  "2023-12-08": 4573,
-  "2023-12-09": 4573,
-  "2023-12-10": 4573,
-  "2023-12-11": 4573,
-  "2023-12-12": 4573,
-  "2023-12-13": 4573,
-  "2023-12-14": 4573,
-  "2023-12-15": 4573,
-  "2023-12-16": 4573,
-  "2023-12-17": 4573,
-  "2023-12-18": 4573,
-  "2023-12-19": 4573,
-  "2023-12-20": 4573,
-  "2023-12-21": 4573,
-  "2023-12-22": 4573,
-  "2023-12-23": 4573,
-  "2023-12-24": 4573,
-  "2023-12-25": 4573,
-  "2023-12-26": 4573,
-  "2023-12-27": 4573,
-  "2023-12-30": 4573,
-  "2023-12-31": 4573,
-  "2024-01-01": 4573,
-  "2024-01-02": 4573,
-  "2024-01-03": 4573
+  "2024-01-17": 4573,
+  "date_first_scraped": "2022-05-30",
+  "description": "Feel 'New Establish Style Tempo' in here.",
+  "name": "This Is NU'EST",
+  "tracks": [
+    {
+      "album": {
+        "name": "THE SECOND MINI ALBUM Hello",
+        "url": "https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        },
+        {
+          "name": "Yoon Han (Pop Pianist)",
+          "url": "https://open.spotify.com/artist/5bRCVFekTRnptEuJ0ZxTtf"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229746,
+      "name": "A little bit more... (feat.Yoon Han (Pop Pianist))",
+      "url": "https://open.spotify.com/track/3g9pvozCNKJZ9i8bo6zmMq"
+    },
+    {
+      "album": {
+        "name": "Special Single \u2018I\u2019m Bad\u2019",
+        "url": "https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225624,
+      "name": "A scene without you",
+      "url": "https://open.spotify.com/track/5JQnOzMgCr6sbBMnTPonsv"
+    },
+    {
+      "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/4F7Q2zAAhywXzGWUWHv79X"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254082,
+      "name": "A Song For You",
+      "url": "https://open.spotify.com/track/1eCPFL81U3d1cRK8ctUskM"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/6FKcTr6VGfKIK5Qdv1y5st"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/0XkwNeXQQTViYOstAnf0Q6"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "BASS",
+      "url": "https://open.spotify.com/track/3F6smGKhzV73fEuUMcewUV"
+    },
+    {
+      "album": {
+        "name": "THE 3rd MINI ALBUM / Sleep Talking",
+        "url": "https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246911,
+      "name": "Beautiful Ghost",
+      "url": "https://open.spotify.com/track/61WM2WWXd8nlMkh3JiCrrG"
+    },
+    {
+      "album": {
+        "name": "Best Summer (with Spoonz)",
+        "url": "https://open.spotify.com/album/0G5AtGOvDgO9or0J9sj9kp"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214280,
+      "name": "Best Summer (with Spoonz)",
+      "url": "https://open.spotify.com/track/04P2jFQ31gFglK4vYwYUJA"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200946,
+      "name": "BET BET",
+      "url": "https://open.spotify.com/track/5rIktGxvnqhezXT25hzt18"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "BET BET (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/6uqkp4elNfSEKs8WsvbQzC"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "BLACK",
+      "url": "https://open.spotify.com/track/2Pr8oHUFIm9MHkvHRsdrHN"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Call me back",
+      "url": "https://open.spotify.com/track/23Im9O9sLsXEEntsJdoTRq"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'CANVAS'",
+        "url": "https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221124,
+      "name": "Daybreak (Minhyun&JR)",
+      "url": "https://open.spotify.com/track/0hK90i73D6LlCXrSIVw70e"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/4yVzdqKwCJGCRBUPP1arKc"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Different (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/0K3SVA3OxRdEgdsDTVpGaL"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180480,
+      "name": "DON'T WANNA GO",
+      "url": "https://open.spotify.com/track/1vod4P7fuN5ntk9s3PqyMi"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189613,
+      "name": "DOOM DOOM (JR SOLO)",
+      "url": "https://open.spotify.com/track/3pqYO6S8QO8eJyzr3iZljH"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193640,
+      "name": "DRESS",
+      "url": "https://open.spotify.com/track/73y255ljHJPB7fJbgiEeAM"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217160,
+      "name": "DRIVE",
+      "url": "https://open.spotify.com/track/5FYWNvJ8vE79j51UQTO2RU"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "EARPHONE (MINHYUN SOLO)",
+      "url": "https://open.spotify.com/track/1UREJqKOb3KA5N3LC2hlj7"
+    },
+    {
+      "album": {
+        "name": "Q is.",
+        "url": "https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240535,
+      "name": "EMOTION",
+      "url": "https://open.spotify.com/track/1uTan6HW4hpzjIj4pCvmnQ"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220134,
+      "name": "FACE",
+      "url": "https://open.spotify.com/track/60oyvXjv0nwZnRrwZvZqUm"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Fine",
+      "url": "https://open.spotify.com/track/0A1gYtzTBm9XWKnWIbnTiC"
+    },
+    {
+      "album": {
+        "name": "THE 3rd MINI ALBUM / Sleep Talking",
+        "url": "https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218431,
+      "name": "Fine Girl",
+      "url": "https://open.spotify.com/track/5a8pUA1aJBrmFky4iL0JJA"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/1hyHj77BvV4GKTe5Op4b2O"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "GALAXY",
+      "url": "https://open.spotify.com/track/6AMhFzWYJeq6IcbqkAgrwZ"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207891,
+      "name": "Good Bye Bye",
+      "url": "https://open.spotify.com/track/7pzSzXBmYzO7qTKODtFDeL"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Happy Birthday",
+      "url": "https://open.spotify.com/track/02pwFgRUnwkjJeNI6bmS1C"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209275,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4J7M1RBAdn1LBYtPrKE9UE"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "Hello (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/3UqZB24QIrMH26AyH7fCNb"
+    },
+    {
+      "album": {
+        "name": "THE SECOND MINI ALBUM Hello",
+        "url": "https://open.spotify.com/album/1MbaIRobEFpVKwERqfZMKO"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/4oXd3QeFNHDE9AvIoYDhu8"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "I'm in Trouble",
+      "url": "https://open.spotify.com/track/2Holdh01TKUWI2HN3t3fLV"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205506,
+      "name": "I'M NOT (ARON SOLO)",
+      "url": "https://open.spotify.com/track/5CaqVJmf0ARschSYQO1Pol"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187105,
+      "name": "If we",
+      "url": "https://open.spotify.com/track/5WmjItNSNET1ftW4xczaPl"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "INSIDE OUT",
+      "url": "https://open.spotify.com/track/2QfGWFmHJJFLL1JKygFQjk"
+    },
+    {
+      "album": {
+        "name": "Special Single \u2018I\u2019m Bad\u2019",
+        "url": "https://open.spotify.com/album/7jlzbojtyoNJ5p73AD72Qt"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207874,
+      "name": "I\u2019m Bad",
+      "url": "https://open.spotify.com/track/2V2gi2zxRgxIKRdujYOUF3"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "I\u2019m in Trouble (Urban Version)",
+      "url": "https://open.spotify.com/track/6ZlajsCD7cWmZQIGM3TA9C"
+    },
+    {
+      "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/1vUXzz3aDo87yJD55O4ohV"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "I\u2019m Sorry",
+      "url": "https://open.spotify.com/track/0VP5SEopXAVGMbyeZgLQNr"
+    },
+    {
+      "album": {
+        "name": "Let's Love (with Spoonz)",
+        "url": "https://open.spotify.com/album/1w3V23EEkSmLwKflNatEab"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Let's Love (with Spoonz)",
+      "url": "https://open.spotify.com/track/6ylxD8IFc8k5Lgkm1q5LxO"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'CANVAS'",
+        "url": "https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240422,
+      "name": "Look (a starlight night)",
+      "url": "https://open.spotify.com/track/6CWDoW2Q4CvUHz4K30OyRa"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "Look (a starlight night) (Alternative House Version)",
+      "url": "https://open.spotify.com/track/6AGnvcmo8wPmja2IlGeppY"
+    },
+    {
+      "album": {
+        "name": "Q is.",
+        "url": "https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188058,
+      "name": "LOST & FOUND",
+      "url": "https://open.spotify.com/track/78mqz9Ez50lPHwqVnLRZY4"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183360,
+      "name": "LOVE ME",
+      "url": "https://open.spotify.com/track/0KgTsGLSsbCL69K91pCQ9k"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "LOVE ME (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/6OgkUY0uCO3z19vWZgcTdT"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'CANVAS'",
+        "url": "https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185518,
+      "name": "Love Paint (every afternoon)",
+      "url": "https://open.spotify.com/track/5ZmZnO37y2neKxn2KVhuLQ"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187133,
+      "name": "Love Paint (every afternoon) (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/7G0wgREvPSXWWRkuOuqPiy"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/36eS6VwpO4kVvWJIhHeq87"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "Must",
+      "url": "https://open.spotify.com/track/3bXXhkK0oTt5Df2ZNaiUgI"
+    },
+    {
+      "album": {
+        "name": "Bridge the World",
+        "url": "https://open.spotify.com/album/639mTWGqnCvPZ4KCXiQXHi"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "NA.NA.NA.\u6d99",
+      "url": "https://open.spotify.com/track/699Ha1qP9mDY9tkaRtIAyd"
+    },
+    {
+      "album": {
+        "name": "Bridge the World",
+        "url": "https://open.spotify.com/album/7DZjjPhb4umCBM6k5dfL8y"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240146,
+      "name": "NA.NA.NA.\u6d99",
+      "url": "https://open.spotify.com/track/3s0R32RLmGDGgodudUulDt"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "NEED IT (BAEKHO SOLO)",
+      "url": "https://open.spotify.com/track/5vZgUGWzoPGqjIpIKoBlLK"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215200,
+      "name": "Not Over You",
+      "url": "https://open.spotify.com/track/2ziLxRduZ6AyEItQ3LcUdj"
+    },
+    {
+      "album": {
+        "name": "Q is.",
+        "url": "https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253580,
+      "name": "ONE KISS2",
+      "url": "https://open.spotify.com/track/6f0EGkuzLjedCwGbfLx5qS"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "ONE TWO THREE",
+      "url": "https://open.spotify.com/track/3RUQVCoM6AZh7eJcZS8Mgk"
+    },
+    {
+      "album": {
+        "name": "Q is.",
+        "url": "https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193853,
+      "name": "OVERCOME",
+      "url": "https://open.spotify.com/track/2864PcpAp8r3M4grzHMNWY"
+    },
+    {
+      "album": {
+        "name": "The Best Album \u2018Needle & Bubble\u2019",
+        "url": "https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "OVERCOME (2022 Remastered Version)",
+      "url": "https://open.spotify.com/track/6RWINkV8O04U8mgT0CPt1P"
+    },
+    {
+      "album": {
+        "name": "THE 3rd MINI ALBUM / Sleep Talking",
+        "url": "https://open.spotify.com/album/4RH9G7CTNObHGVty9cHkPH"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        },
+        {
+          "name": "YOOARA",
+          "url": "https://open.spotify.com/artist/5iAn0QrNJEo8uYvHPfdYzi"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197068,
+      "name": "Pretty (feat.YOOARA (HELLOVENUS))",
+      "url": "https://open.spotify.com/track/2zrjUMPxZP12xRIcHkZbPN"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'CANVAS'",
+        "url": "https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197268,
+      "name": "R.L.T.L (Real Love True Love) (one morning)",
+      "url": "https://open.spotify.com/track/7l58y2kPeYhDynQBT9iqWd"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018Romanticize\u2019",
+        "url": "https://open.spotify.com/album/3fObIBSeJ1Cf7cxpx7f1Bs"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196986,
+      "name": "ROCKET ROCKET (REN SOLO)",
+      "url": "https://open.spotify.com/track/3ZI7ftaCrT0Irao8peNiKX"
+    },
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5zDepklvxHMN6mByS43YC7"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238613,
+      "name": "Sandy",
+      "url": "https://open.spotify.com/track/2GFG2V1SZIXDSc87MNmXKp"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208853,
+      "name": "Segno",
+      "url": "https://open.spotify.com/track/4qADQMVA9QDQEYHM6WxmwC"
+    },
+    {
+      "album": {
+        "name": "The Nocturne",
+        "url": "https://open.spotify.com/album/16SGscvchR24GfcK6ecrgW"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212773,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/0r8csmL7BdsuQg8JWWjAjG"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208608,
+      "name": "Sleep Talking",
+      "url": "https://open.spotify.com/track/7aIZEHj5oG2Vpv9EsarpAa"
+    },
+    {
+      "album": {
+        "name": "Romanticize - Special Message",
+        "url": "https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20521,
+      "name": "Special message from ARON",
+      "url": "https://open.spotify.com/track/7k2gD5AUgdVUklagoMXrvM"
+    },
+    {
+      "album": {
+        "name": "Romanticize - Special Message",
+        "url": "https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23209,
+      "name": "Special message from BAEKHO",
+      "url": "https://open.spotify.com/track/1m6QuuLaNPLhB2PDgp9xyD"
+    },
+    {
+      "album": {
+        "name": "Romanticize - Special Message",
+        "url": "https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 17118,
+      "name": "Special message from JR",
+      "url": "https://open.spotify.com/track/6Mw6NSsfLG6huoaQ2ti8S1"
+    },
+    {
+      "album": {
+        "name": "Romanticize - Special Message",
+        "url": "https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 27369,
+      "name": "Special message from MINHYUN",
+      "url": "https://open.spotify.com/track/27BkEtELrDrxXcWWw11EA4"
+    },
+    {
+      "album": {
+        "name": "Romanticize - Special Message",
+        "url": "https://open.spotify.com/album/659HbB1fY1fl4eQzmHhIEr"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22483,
+      "name": "Special message from REN",
+      "url": "https://open.spotify.com/track/3j6pWe4oN2ZqlMUk5KwWFT"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215480,
+      "name": "Stay up all night",
+      "url": "https://open.spotify.com/track/46amnYJVLHxQhO0I95zAtB"
+    },
+    {
+      "album": {
+        "name": "NU'EST The First Album \"Re:BIRTH\"",
+        "url": "https://open.spotify.com/album/0LwhNIhiEE3D0memGvBLfl"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223065,
+      "name": "Storybook",
+      "url": "https://open.spotify.com/track/6mFHi4AFYBBQPlMlHfIUQW"
+    },
+    {
+      "album": {
+        "name": "The 6th Mini Album 'Happily Ever After'",
+        "url": "https://open.spotify.com/album/41Ai1koD5jbwDIwZsR7QxJ"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Talk about love",
+      "url": "https://open.spotify.com/track/6fkLYC9FmTtJbXDIGKLrsM"
+    },
+    {
+      "album": {
+        "name": "The 5th Mini Album 'CANVAS'",
+        "url": "https://open.spotify.com/album/2kol4AtxVszuo0MJoqoJ5R"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185005,
+      "name": "Thank You (evening by evening)",
+      "url": "https://open.spotify.com/track/6agIrCb4ZoC0FM6bu6UW6I"
+    },
+    {
+      "album": {
+        "name": "The Table",
+        "url": "https://open.spotify.com/album/3Xe14CrDVjcP5ZSbQJ1q1r"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201866,
+      "name": "Trust me",
+      "url": "https://open.spotify.com/track/2Z3x2LnzzZY5saqV3MncTr"
+    },
+    {
+      "album": {
+        "name": "Q is.",
+        "url": "https://open.spotify.com/album/1yEqdlEIUIU2SBrsenDYIv"
+      },
+      "artists": [
+        {
+          "name": "NU'EST",
+          "url": "https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186670,
+      "name": "VVITH",
+      "url": "https://open.spotify.com/track/4dXY2BMVW3Dj7qBCjsAnRX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXYltn5FtH0l"
 }

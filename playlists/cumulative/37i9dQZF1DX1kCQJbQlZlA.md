@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-123 songs - 9 hr 48 min
+124 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Phà Tình Lênh Đênh](https://open.spotify.com/track/0HNew99OSfsEI8RL1uhV4Q) | [Đan Trường](https://open.spotify.com/artist/5XcfMxmHUiyxc1Q283Nmxj), [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Phà Tình Lênh Đênh](https://open.spotify.com/album/20BsBisFsVGM6dHFQqwNjB) | 5:17 | 2022-05-12 |  |
 | [Quê](https://open.spotify.com/track/5Hvr8fz0rTIVLCKtSK4qlE) | [Tân Nhàn](https://open.spotify.com/artist/7iNm30XThXWgpRFoqFKHal) | [Quê](https://open.spotify.com/album/6zSqb6sSVNRZooMkkqWFgt) | 4:36 | 2022-05-12 | 2022-07-16 |
 | [Quê Em Mùa Nước Lũ](https://open.spotify.com/track/0mm6hB3TYv3neIktDv2btT) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI) | [Quê Em Mùa Nước Lũ](https://open.spotify.com/album/1HEZ7nWbot5p5O4CwIFwZS) | 4:56 | 2022-05-12 |  |
-| [Quê Hương Mùa Xuân](https://open.spotify.com/track/64gYBT1eCNEZMmmAoqSDMF) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Bài Ca Tết Cho Em](https://open.spotify.com/album/2n5hjxmiDk3FEpboumZX5s) | 3:55 | 2023-01-19 |  |
+| [Quê Hương Mùa Xuân](https://open.spotify.com/track/64gYBT1eCNEZMmmAoqSDMF) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Bài Ca Tết Cho Em](https://open.spotify.com/album/2n5hjxmiDk3FEpboumZX5s) | 3:55 | 2023-01-19 | 2024-01-17 |
+| [Quê Hương Mùa Xuân](https://open.spotify.com/track/2nO4YY62Al4BYSMgL23W0x) | [Phi Nhung](https://open.spotify.com/artist/6MddNz1oXWvuY1ZWrsRqQF) | [Quê Hương Mùa Xuân](https://open.spotify.com/album/1hXTY0mNUIHhJuSkMmYYmo) | 3:56 | 2023-07-18 |  |
 | [Ra Giêng Anh Cưới Em](https://open.spotify.com/track/55J1gXnsdjFqKjn61g2iZj) | [Quang Lập](https://open.spotify.com/artist/6PORUlK3pnUDFJi2tyYVsZ), [Thu Hương](https://open.spotify.com/artist/1DiWVCApypzAM1If7yGBaS) | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/album/2YNFv8H3V2FPdTGGMJ0Dn5) | 4:30 | 2023-07-14 |  |
 | [Ru Tình Một Miền Quê](https://open.spotify.com/track/2thB18vvCvv9ZuTB54ulOc) | [Tân Nhàn](https://open.spotify.com/artist/7iNm30XThXWgpRFoqFKHal) | [Quê](https://open.spotify.com/album/6zSqb6sSVNRZooMkkqWFgt) | 6:15 | 2022-05-12 | 2023-07-19 |
 | [Rước Tình Về Với Quê Hương](https://open.spotify.com/track/5ylXo4mtv7pXu7I2mHwCaD) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0), [Quốc Đại](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Tuyệt Phẩm Hoàng Thi Thơ](https://open.spotify.com/album/2RlLrRz6I6cwIKKAfdmmeU) | 3:56 | 2022-05-12 |  |

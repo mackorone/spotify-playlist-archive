@@ -1,569 +1,2175 @@
 {
-  "2022-06-10": 20706,
-  "2022-06-11": 20719,
-  "2022-06-12": 20731,
-  "2022-06-13": 20744,
-  "2022-06-14": 20762,
-  "2022-06-15": 20773,
-  "2022-06-16": 20796,
-  "2022-06-17": 20810,
-  "2022-06-18": 20829,
-  "2022-06-19": 20856,
-  "2022-06-20": 20856,
-  "2022-06-21": 20872,
-  "2022-06-22": 20893,
-  "2022-06-23": 20893,
-  "2022-06-24": 20910,
-  "2022-06-25": 20910,
-  "2022-06-26": 20927,
-  "2022-06-27": 20939,
-  "2022-06-28": 20950,
-  "2022-06-29": 20966,
-  "2022-06-30": 20980,
-  "2022-07-01": 20983,
-  "2022-07-02": 20987,
-  "2022-07-03": 21001,
-  "2022-07-04": 21017,
-  "2022-07-05": 21035,
-  "2022-07-06": 21041,
-  "2022-07-07": 21066,
-  "2022-07-08": 21085,
-  "2022-07-09": 21099,
-  "2022-07-10": 21107,
-  "2022-07-11": 21126,
-  "2022-07-12": 21137,
-  "2022-07-13": 21148,
-  "2022-07-14": 21163,
-  "2022-07-15": 21175,
-  "2022-07-16": 21197,
-  "2022-07-17": 21209,
-  "2022-07-18": 21220,
-  "2022-07-19": 21233,
-  "2022-07-20": 21250,
-  "2022-07-21": 21258,
-  "2022-07-22": 21268,
-  "2022-07-23": 21276,
-  "2022-07-24": 21284,
-  "2022-07-25": 21312,
-  "2022-07-26": 21325,
-  "2022-07-27": 21337,
-  "2022-07-28": 21355,
-  "2022-07-29": 21374,
-  "2022-07-30": 21395,
-  "2022-07-31": 21395,
-  "2022-08-01": 21407,
-  "2022-08-02": 21428,
-  "2022-08-03": 21428,
-  "2022-08-04": 21440,
-  "2022-08-05": 21453,
-  "2022-08-06": 21469,
-  "2022-08-07": 21485,
-  "2022-08-08": 21499,
-  "2022-08-09": 21512,
-  "2022-08-10": 21518,
-  "2022-08-11": 21526,
-  "2022-08-12": 21534,
-  "2022-08-13": 21551,
-  "2022-08-14": 21571,
-  "2022-08-15": 21589,
-  "2022-08-16": 21601,
-  "2022-08-17": 21616,
-  "2022-08-18": 21626,
-  "2022-08-19": 21642,
-  "2022-08-20": 21652,
-  "2022-08-21": 21673,
-  "2022-08-22": 21686,
-  "2022-08-23": 21698,
-  "2022-08-24": 21708,
-  "2022-08-25": 21726,
-  "2022-08-26": 21738,
-  "2022-08-27": 21760,
-  "2022-08-28": 21781,
-  "2022-08-29": 21794,
-  "2022-08-30": 21796,
-  "2022-08-31": 21806,
-  "2022-09-01": 21809,
-  "2022-09-02": 21816,
-  "2022-09-03": 21815,
-  "2022-09-04": 21825,
-  "2022-09-05": 21837,
-  "2022-09-06": 21849,
-  "2022-09-07": 21856,
-  "2022-09-09": 21877,
-  "2022-09-10": 21895,
-  "2022-09-11": 21907,
-  "2022-09-12": 21919,
-  "2022-09-13": 21942,
-  "2022-09-15": 21965,
-  "2022-09-16": 21979,
-  "2022-09-17": 21996,
-  "2022-09-18": 22009,
-  "2022-09-19": 22028,
-  "2022-09-20": 22039,
-  "2022-09-21": 22051,
-  "2022-09-22": 22066,
-  "2022-09-23": 22076,
-  "2022-09-24": 22089,
-  "2022-09-25": 22099,
-  "2022-09-26": 22113,
-  "2022-09-27": 22139,
-  "2022-09-28": 22161,
-  "2022-09-29": 22176,
-  "2022-09-30": 22190,
-  "2022-10-01": 22203,
-  "2022-10-02": 22218,
-  "2022-10-03": 22227,
-  "2022-10-04": 22241,
-  "2022-10-05": 22250,
-  "2022-10-06": 22262,
-  "2022-10-07": 22275,
-  "2022-10-08": 22278,
-  "2022-10-09": 22300,
-  "2022-10-10": 22304,
-  "2022-10-11": 22321,
-  "2022-10-12": 22325,
-  "2022-10-13": 22335,
-  "2022-10-14": 22341,
-  "2022-10-15": 22350,
-  "2022-10-16": 22361,
-  "2022-10-17": 22362,
-  "2022-10-18": 22375,
-  "2022-10-19": 22390,
-  "2022-10-20": 22406,
-  "2022-10-21": 22416,
-  "2022-10-22": 22427,
-  "2022-10-23": 22440,
-  "2022-10-24": 22460,
-  "2022-10-25": 22472,
-  "2022-10-26": 22482,
-  "2022-10-27": 22495,
-  "2022-10-28": 22506,
-  "2022-10-29": 22521,
-  "2022-10-30": 22535,
-  "2022-10-31": 22549,
-  "2022-11-01": 22550,
-  "2022-11-02": 22563,
-  "2022-11-03": 22584,
-  "2022-11-04": 22597,
-  "2022-11-05": 22610,
-  "2022-11-06": 22621,
-  "2022-11-07": 22642,
-  "2022-11-08": 22656,
-  "2022-11-09": 22671,
-  "2022-11-10": 22683,
-  "2022-11-11": 22702,
-  "2022-11-12": 22720,
-  "2022-11-13": 22733,
-  "2022-11-14": 22751,
-  "2022-11-15": 22769,
-  "2022-11-16": 22787,
-  "2022-11-17": 22807,
-  "2022-11-18": 22817,
-  "2022-11-19": 22820,
-  "2022-11-20": 22830,
-  "2022-11-21": 22846,
-  "2022-11-22": 22861,
-  "2022-11-23": 22881,
-  "2022-11-24": 22903,
-  "2022-11-25": 22932,
-  "2022-11-26": 22943,
-  "2022-11-27": 22957,
-  "2022-11-28": 22974,
-  "2022-11-29": 22989,
-  "2022-11-30": 23000,
-  "2022-12-01": 23012,
-  "2022-12-02": 23021,
-  "2022-12-03": 23033,
-  "2022-12-04": 23045,
-  "2022-12-05": 23052,
-  "2022-12-06": 23068,
-  "2022-12-07": 23078,
-  "2022-12-08": 23095,
-  "2022-12-09": 23106,
-  "2022-12-10": 23121,
-  "2022-12-11": 23131,
-  "2022-12-12": 23139,
-  "2022-12-13": 23153,
-  "2022-12-14": 23167,
-  "2022-12-15": 23178,
-  "2022-12-16": 23186,
-  "2022-12-17": 23200,
-  "2022-12-18": 23213,
-  "2022-12-19": 23229,
-  "2022-12-20": 23245,
-  "2022-12-21": 23245,
-  "2022-12-22": 23253,
-  "2022-12-24": 23271,
-  "2022-12-25": 23281,
-  "2022-12-26": 23291,
-  "2022-12-27": 23303,
-  "2022-12-28": 23317,
-  "2022-12-29": 23326,
-  "2022-12-30": 23339,
-  "2022-12-31": 23354,
-  "2023-01-01": 23366,
-  "2023-01-02": 23381,
-  "2023-01-03": 23389,
-  "2023-01-04": 23399,
-  "2023-01-05": 23412,
-  "2023-01-06": 23427,
-  "2023-01-07": 23439,
-  "2023-01-08": 23441,
-  "2023-01-09": 23454,
-  "2023-01-10": 23474,
-  "2023-01-11": 23484,
-  "2023-01-12": 23501,
-  "2023-01-13": 23520,
-  "2023-01-14": 23548,
-  "2023-01-15": 23550,
-  "2023-01-16": 23580,
-  "2023-01-17": 23599,
-  "2023-01-18": 23612,
-  "2023-01-19": 23622,
-  "2023-01-20": 23631,
-  "2023-01-21": 23642,
-  "2023-01-22": 23669,
-  "2023-01-23": 23681,
-  "2023-01-24": 23701,
-  "2023-01-25": 23707,
-  "2023-01-26": 23719,
-  "2023-01-27": 23737,
-  "2023-01-28": 23745,
-  "2023-01-29": 23755,
-  "2023-01-30": 23765,
-  "2023-01-31": 23765,
-  "2023-02-01": 23790,
-  "2023-02-02": 23801,
-  "2023-02-03": 23815,
-  "2023-02-04": 23825,
-  "2023-02-05": 23842,
-  "2023-02-06": 23854,
-  "2023-02-07": 23870,
-  "2023-02-08": 23897,
-  "2023-02-09": 23897,
-  "2023-02-10": 23908,
-  "2023-02-11": 23920,
-  "2023-02-12": 23946,
-  "2023-02-13": 23953,
-  "2023-02-14": 23953,
-  "2023-02-15": 23963,
-  "2023-02-16": 23976,
-  "2023-02-17": 23993,
-  "2023-02-18": 24023,
-  "2023-02-19": 24024,
-  "2023-02-20": 24031,
-  "2023-02-21": 24038,
-  "2023-02-22": 24046,
-  "2023-02-23": 24055,
-  "2023-02-24": 24069,
-  "2023-02-25": 24082,
-  "2023-02-26": 24092,
-  "2023-02-27": 24115,
-  "2023-02-28": 24115,
-  "2023-03-01": 24123,
-  "2023-03-02": 24137,
-  "2023-03-03": 24143,
-  "2023-03-04": 24157,
-  "2023-03-05": 24186,
-  "2023-03-06": 24186,
-  "2023-03-07": 24198,
-  "2023-03-08": 24215,
-  "2023-03-09": 24223,
-  "2023-03-10": 24234,
-  "2023-03-11": 24249,
-  "2023-03-12": 24276,
-  "2023-03-13": 24333,
-  "2023-03-14": 24377,
-  "2023-03-15": 24421,
-  "2023-03-16": 24471,
-  "2023-03-17": 24471,
-  "2023-03-18": 24575,
-  "2023-03-19": 24632,
-  "2023-03-20": 24690,
-  "2023-03-21": 24734,
-  "2023-03-22": 24772,
-  "2023-03-23": 24812,
-  "2023-03-24": 24812,
-  "2023-03-25": 24913,
-  "2023-03-26": 24963,
-  "2023-03-27": 25011,
-  "2023-03-28": 25064,
-  "2023-03-29": 25123,
-  "2023-03-30": 25194,
-  "2023-03-31": 25194,
-  "2023-04-01": 25236,
-  "2023-04-02": 25278,
-  "2023-04-03": 25331,
-  "2023-04-04": 25379,
-  "2023-04-05": 25427,
-  "2023-04-06": 25469,
-  "2023-04-07": 25514,
-  "2023-04-09": 25613,
-  "2023-04-10": 25644,
-  "2023-04-11": 25741,
-  "2023-04-12": 25741,
-  "2023-04-13": 25780,
-  "2023-04-14": 25828,
-  "2023-04-15": 25877,
-  "2023-04-16": 25913,
-  "2023-04-17": 25960,
-  "2023-04-18": 26018,
-  "2023-04-19": 26090,
-  "2023-04-20": 26152,
-  "2023-04-21": 26201,
-  "2023-04-22": 26247,
-  "2023-04-23": 26287,
-  "2023-04-24": 26331,
-  "2023-04-25": 26374,
-  "2023-04-26": 26439,
-  "2023-04-27": 26487,
-  "2023-04-28": 26526,
-  "2023-04-29": 26565,
-  "2023-04-30": 26606,
-  "2023-05-01": 26659,
-  "2023-05-02": 26707,
-  "2023-05-03": 26753,
-  "2023-05-04": 26794,
-  "2023-05-05": 26853,
-  "2023-05-06": 26912,
-  "2023-05-07": 26989,
-  "2023-05-08": 27041,
-  "2023-05-09": 27094,
-  "2023-05-10": 27126,
-  "2023-05-11": 27180,
-  "2023-05-12": 27227,
-  "2023-05-13": 27271,
-  "2023-05-14": 27311,
-  "2023-05-15": 27366,
-  "2023-05-16": 27420,
-  "2023-05-17": 27462,
-  "2023-05-18": 27521,
-  "2023-05-19": 27570,
-  "2023-05-20": 27673,
-  "2023-05-21": 27673,
-  "2023-05-22": 27673,
-  "2023-05-23": 27764,
-  "2023-05-24": 27842,
-  "2023-05-25": 27848,
-  "2023-05-26": 27874,
-  "2023-05-27": 27922,
-  "2023-05-28": 27963,
-  "2023-05-29": 27963,
-  "2023-05-30": 28032,
-  "2023-05-31": 28083,
-  "2023-06-01": 28126,
-  "2023-06-02": 28171,
-  "2023-06-03": 28192,
-  "2023-06-04": 28218,
-  "2023-06-05": 28261,
-  "2023-06-06": 28298,
-  "2023-06-07": 28337,
-  "2023-06-08": 28382,
-  "2023-06-09": 28409,
-  "2023-06-10": 28454,
-  "2023-06-11": 28489,
-  "2023-06-12": 28526,
-  "2023-06-13": 28561,
-  "2023-06-14": 28603,
-  "2023-06-15": 28657,
-  "2023-06-16": 28700,
-  "2023-06-17": 28743,
-  "2023-06-18": 28776,
-  "2023-06-19": 28818,
-  "2023-06-20": 28859,
-  "2023-06-21": 28901,
-  "2023-06-22": 28930,
-  "2023-06-23": 28970,
-  "2023-06-24": 29002,
-  "2023-06-25": 29033,
-  "2023-06-26": 29067,
-  "2023-06-27": 29099,
-  "2023-06-28": 29135,
-  "2023-06-29": 29164,
-  "2023-06-30": 29194,
-  "2023-07-01": 29283,
-  "2023-07-02": 29283,
-  "2023-07-03": 29326,
-  "2023-07-04": 29358,
-  "2023-07-05": 29405,
-  "2023-07-06": 29486,
-  "2023-07-07": 29486,
-  "2023-07-08": 29519,
-  "2023-07-09": 29548,
-  "2023-07-10": 29584,
-  "2023-07-11": 29627,
-  "2023-07-12": 29655,
-  "2023-07-13": 29687,
-  "2023-07-14": 29721,
-  "2023-07-15": 29754,
-  "2023-07-16": 29796,
-  "2023-07-17": 29839,
-  "2023-07-18": 29882,
-  "2023-07-19": 29923,
-  "2023-07-20": 29962,
-  "2023-07-21": 29992,
-  "2023-07-22": 30032,
-  "2023-07-23": 30058,
-  "2023-07-24": 30088,
-  "2023-07-25": 30113,
-  "2023-07-26": 30140,
-  "2023-07-27": 30166,
-  "2023-07-28": 30198,
-  "2023-07-29": 30245,
-  "2023-07-30": 30281,
-  "2023-07-31": 30304,
-  "2023-08-01": 30333,
-  "2023-08-02": 30361,
-  "2023-08-03": 30386,
-  "2023-08-04": 30419,
-  "2023-08-05": 30459,
-  "2023-08-06": 30506,
-  "2023-08-07": 30506,
-  "2023-08-08": 30537,
-  "2023-08-09": 30571,
-  "2023-08-10": 30599,
-  "2023-08-11": 30629,
-  "2023-08-12": 30660,
-  "2023-08-13": 30697,
-  "2023-08-14": 30729,
-  "2023-08-15": 30804,
-  "2023-08-16": 30804,
-  "2023-08-17": 30834,
-  "2023-08-18": 30874,
-  "2023-08-19": 30909,
-  "2023-08-20": 30931,
-  "2023-08-21": 30955,
-  "2023-08-22": 30975,
-  "2023-08-23": 31010,
-  "2023-08-24": 31039,
-  "2023-08-25": 31064,
-  "2023-08-26": 31086,
-  "2023-08-27": 31132,
-  "2023-08-28": 31158,
-  "2023-08-29": 31205,
-  "2023-08-30": 31242,
-  "2023-08-31": 31272,
-  "2023-09-01": 31320,
-  "2023-09-02": 31320,
-  "2023-09-03": 31338,
-  "2023-09-04": 31366,
-  "2023-09-05": 31388,
-  "2023-09-06": 31408,
-  "2023-09-07": 31431,
-  "2023-09-08": 31443,
-  "2023-09-09": 31476,
-  "2023-09-10": 31498,
-  "2023-09-11": 31523,
-  "2023-09-12": 31540,
-  "2023-09-13": 31565,
-  "2023-09-14": 31579,
-  "2023-09-15": 31607,
-  "2023-09-16": 31623,
-  "2023-09-17": 31643,
-  "2023-09-18": 31665,
-  "2023-09-19": 31687,
-  "2023-09-20": 31695,
-  "2023-09-21": 31707,
-  "2023-09-22": 31733,
-  "2023-09-23": 31763,
-  "2023-09-24": 31782,
-  "2023-09-25": 31801,
-  "2023-09-26": 31821,
-  "2023-09-27": 31824,
-  "2023-09-28": 31848,
-  "2023-09-29": 31857,
-  "2023-09-30": 31879,
-  "2023-10-01": 31899,
-  "2023-10-02": 31914,
-  "2023-10-03": 31928,
-  "2023-10-04": 31947,
-  "2023-10-05": 31962,
-  "2023-10-06": 31979,
-  "2023-10-07": 31995,
-  "2023-10-08": 32009,
-  "2023-10-09": 32029,
-  "2023-10-10": 32054,
-  "2023-10-11": 32090,
-  "2023-10-12": 32090,
-  "2023-10-13": 32108,
-  "2023-10-14": 32108,
-  "2023-10-15": 32108,
-  "2023-10-16": 32186,
-  "2023-10-17": 32210,
-  "2023-10-18": 32225,
-  "2023-10-19": 32243,
-  "2023-10-20": 32262,
-  "2023-10-21": 32283,
-  "2023-10-22": 32283,
-  "2023-10-23": 32318,
-  "2023-10-24": 32341,
-  "2023-10-25": 32357,
-  "2023-10-26": 32372,
-  "2023-10-27": 32385,
-  "2023-10-28": 32385,
-  "2023-10-29": 32385,
-  "2023-10-30": 32446,
-  "2023-10-31": 32446,
-  "2023-11-01": 32502,
-  "2023-11-02": 32521,
-  "2023-11-03": 32541,
-  "2023-11-04": 32541,
-  "2023-11-05": 32541,
-  "2023-11-06": 32614,
-  "2023-11-07": 32630,
-  "2023-11-08": 32652,
-  "2023-11-09": 32652,
-  "2023-11-10": 32689,
-  "2023-11-11": 32706,
-  "2023-11-12": 32720,
-  "2023-11-13": 32737,
-  "2023-11-14": 32737,
-  "2023-11-15": 32737,
-  "2023-11-16": 32781,
-  "2023-11-17": 32818,
-  "2023-11-18": 32818,
-  "2023-11-19": 32825,
-  "2023-11-20": 32825,
-  "2023-11-21": 32868,
-  "2023-11-22": 32881,
-  "2023-11-23": 32900,
-  "2023-11-24": 32900,
-  "2023-11-25": 32928,
-  "2023-11-26": 32928,
-  "2023-11-27": 32952,
-  "2023-11-28": 32972,
-  "2023-11-29": 33010,
-  "2023-11-30": 33010,
-  "2023-12-01": 33010,
-  "2023-12-02": 33054,
-  "2023-12-03": 33077,
-  "2023-12-04": 33077,
-  "2023-12-05": 33123,
-  "2023-12-06": 33139,
-  "2023-12-07": 33156,
-  "2023-12-08": 33156,
-  "2023-12-09": 33199,
-  "2023-12-10": 33199,
-  "2023-12-11": 33232,
-  "2023-12-12": 33232,
-  "2023-12-13": 33279,
-  "2023-12-14": 33321,
-  "2023-12-15": 33331,
-  "2023-12-16": 33363,
-  "2023-12-17": 33376,
-  "2023-12-18": 33397,
-  "2023-12-19": 33424,
-  "2023-12-20": 33446,
-  "2023-12-21": 33464,
-  "2023-12-22": 33477,
-  "2023-12-23": 33499,
-  "2023-12-24": 33525,
-  "2023-12-25": 33549,
-  "2023-12-26": 33569,
-  "2023-12-27": 33584,
-  "2023-12-30": 33641,
-  "2023-12-31": 33655,
-  "2024-01-01": 33672,
-  "2024-01-02": 33693,
-  "2024-01-03": 33703
+  "2024-01-17": 33933,
+  "date_first_scraped": "2022-06-10",
+  "description": "\u4f5c\u8a5e\u30fb\u4f5c\u66f2\u30fb\u7de8\u66f2\u3092\u624b\u639b\u3051\u308b\u30de\u30eb\u30c1\u97f3\u697d\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u3002\u6620\u753b\u30fb\u30a2\u30cb\u30e1\u30fb\u30b2\u30fc\u30e0\u30fb\u821e\u53f0\u30fbTV\u306a\u3069\u5e45\u5e83\u3044\u5206\u91ce\u3067\u6d3b\u8e8d\u3002Kalafina\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9\u3084\u81ea\u8eab\u306e\u30e6\u30cb\u30c3\u30c8See-Saw\u3001\u65b0\u30d7\u30ed\u30b8\u30a7\u30af\u30c8FictionJunction\u3068\u3057\u3066\u306e\u6d3b\u52d5\u3067\u3082\u77e5\u3089\u308c\u3001\u30e8\u30fc\u30ed\u30c3\u30d1\u3068\u6771\u6d0b\u306e\u30a8\u30c3\u30bb\u30f3\u30b9\u304c\u878d\u5408\u3057\u305f\u72ec\u81ea\u306e\u4e16\u754c\u89b3\u3067\u71b1\u3044\u652f\u6301\u3092\u96c6\u3081\u3066\u3044\u308b\u3002",
+  "name": "\u68b6\u6d66\u7531\u8a18 Yuki Kajiura Works",
+  "tracks": [
+    {
+      "album": {
+        "name": "NOIR ORIGINAL SOUNDTRACK II",
+        "url": "https://open.spotify.com/album/3ABOmL2EUVFrcMohZbmmdb"
+      },
+      "artists": [
+        {
+          "name": "\u7b20\u539f\u7531\u91cc",
+          "url": "https://open.spotify.com/artist/4JdLWtnqonXnI1pkrvfzHm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214333,
+      "name": "a farewell song",
+      "url": "https://open.spotify.com/track/2Ika4tMvhzNBjChesucCnZ"
+    },
+    {
+      "album": {
+        "name": "\u300e\u6d77\u8cca\u738b\u5973\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0LCqqqGm9ioLvzkJBxRtN3"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107373,
+      "name": "a small pearl",
+      "url": "https://open.spotify.com/track/0qtkVFlBzSecq60GOVpXJn"
+    },
+    {
+      "album": {
+        "name": "Fena: Pirate Princess ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/6ujRMr9i0cI839qXWCEsIr"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107373,
+      "name": "a small pearl",
+      "url": "https://open.spotify.com/track/1r9KTd0OA5eK1FR3FCYdkn"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Future Soundscape I",
+        "url": "https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        },
+        {
+          "name": "Eri Ito",
+          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "a song of storm and fire",
+      "url": "https://open.spotify.com/track/22DBM0EDuHyhziJSel0H0a"
+    },
+    {
+      "album": {
+        "name": "\u300e.hack//Roots\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cSilly-Go-Round\u300d",
+        "url": "https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328501,
+      "name": "angel gate",
+      "url": "https://open.spotify.com/track/3rjnBZJ8Q0gCX4QFIgS8Ur"
+    },
+    {
+      "album": {
+        "name": "Annani Isshodattanoni",
+        "url": "https://open.spotify.com/album/6ZZlobrWjLf1VGtCDNl1dJ"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288266,
+      "name": "Annani Isshodattanoni",
+      "url": "https://open.spotify.com/track/6Ms0UlshNzmPu4pJ3GmjCQ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30d7\u30ea\u30f3\u30bb\u30b9\u30fb\u30d7\u30ea\u30f3\u30b7\u30d1\u30eb\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u300cSound of Foggy London\u300d",
+        "url": "https://open.spotify.com/album/4j6VsyzNHfHQVpRfmzqUcd"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191493,
+      "name": "battle of the shadows",
+      "url": "https://open.spotify.com/track/0RSLSKWQPsNhwzQpDcZAsF"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243280,
+      "name": "blaze",
+      "url": "https://open.spotify.com/track/5O3NwL2gfJQYPOGYfEfdAH"
+    },
+    {
+      "album": {
+        "name": "blaze",
+        "url": "https://open.spotify.com/album/364oSGKKNq5HysFQf3e8pA"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243786,
+      "name": "blaze",
+      "url": "https://open.spotify.com/track/0NHBMe6nMazA4OwrKELlMX"
+    },
+    {
+      "album": {
+        "name": "circus",
+        "url": "https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291906,
+      "name": "circus",
+      "url": "https://open.spotify.com/track/18WaVPIBp3EpfqAWllHVKi"
+    },
+    {
+      "album": {
+        "name": "\u300eelemental\u300f",
+        "url": "https://open.spotify.com/album/4sCdhpUKz1dCg97RWZ89Id"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247552,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7DR1RA2JopBM7Teb1ftefA"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6qSpHIBr5XLlKC3v35WrIl"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 247826,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/1QQDhxgcY8ty28ltzT9lW6"
+    },
+    {
+      "album": {
+        "name": "edge / \u9ec4\u660f\u306e\u6d77",
+        "url": "https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208401,
+      "name": "edge",
+      "url": "https://open.spotify.com/track/7jyqWifqQ5iqhVIR1q2Lqp"
+    },
+    {
+      "album": {
+        "name": "\u300c.hack//Liminality 3\u300d\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de \u541b\u304b\u3099\u3044\u305f\u7269\u8a9e/\u300c.hack//\u9ec4\u660f\u306e\u8155\u8f2a\u4f1d\u8aac\u300d\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de Emerald Green",
+        "url": "https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327802,
+      "name": "Emerald Green",
+      "url": "https://open.spotify.com/track/6VL0sccA0BlzwypkFdg1z8"
+    },
+    {
+      "album": {
+        "name": "Everlasting Songs",
+        "url": "https://open.spotify.com/album/0tCtSGFDkLFapppBSx7gkK"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275767,
+      "name": "everlasting song ~japanese edition",
+      "url": "https://open.spotify.com/track/287Jt9dagw3V9TINvtoXAk"
+    },
+    {
+      "album": {
+        "name": "FICTION",
+        "url": "https://open.spotify.com/album/2w1GcYScuH5MSCFtAjalbS"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155541,
+      "name": "fake wings",
+      "url": "https://open.spotify.com/track/57TCwW3DTmdgcmZJ2kI4S8"
+    },
+    {
+      "album": {
+        "name": "Fields of hope",
+        "url": "https://open.spotify.com/album/6aI9kR12kkx1YRzRoCBk6E"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309933,
+      "name": "Fields of hope",
+      "url": "https://open.spotify.com/track/2PslNnE0b0Shtx38S5czN1"
+    },
+    {
+      "album": {
+        "name": "Fields of hope",
+        "url": "https://open.spotify.com/album/6DjJGXV9Yn8jqd3Vfy08qC"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30af\u30b9\u30fb\u30af\u30e9\u30a4\u30f3(\u7530\u4e2d\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 309933,
+      "name": "Fields of hope",
+      "url": "https://open.spotify.com/track/3ac0U3m8f5gVBFhoJJ0KE8"
+    },
+    {
+      "album": {
+        "name": "from the edge",
+        "url": "https://open.spotify.com/album/6k8gWO2UT7VTHRGULu5xp7"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278655,
+      "name": "from the edge",
+      "url": "https://open.spotify.com/track/1HXRps6gmF8yMZPsJ6n9Zk"
+    },
+    {
+      "album": {
+        "name": "from the edge",
+        "url": "https://open.spotify.com/album/6Momtl3Eyp2g40MQU0r0I8"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 278655,
+      "name": "from the edge",
+      "url": "https://open.spotify.com/track/1acwOlcOCrr0AxdyMS8fEm"
+    },
+    {
+      "album": {
+        "name": "PARADE",
+        "url": "https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "from the edge",
+      "url": "https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT"
+    },
+    {
+      "album": {
+        "name": "RADIO GENIC",
+        "url": "https://open.spotify.com/album/1h5kmMoLw8h15IN3nzfSih"
+      },
+      "artists": [
+        {
+          "name": "Syoko Suzuki",
+          "url": "https://open.spotify.com/artist/1dQ7xDSEzOfKvhoc7ehei5"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222733,
+      "name": "Goodbye, my friend",
+      "url": "https://open.spotify.com/track/454C51zL7IiekSmRb1koet"
+    },
+    {
+      "album": {
+        "name": "RADIO GENIC",
+        "url": "https://open.spotify.com/album/2E0Qbz4v1az68P3GmCODGn"
+      },
+      "artists": [
+        {
+          "name": "Syoko Suzuki",
+          "url": "https://open.spotify.com/artist/1dQ7xDSEzOfKvhoc7ehei5"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222733,
+      "name": "Goodbye, my friend",
+      "url": "https://open.spotify.com/track/68uKQ73Lvm6VVgjk4U1OVl"
+    },
+    {
+      "album": {
+        "name": "THE BEST \u201cBlue\u201d",
+        "url": "https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320880,
+      "name": "heavenly blue",
+      "url": "https://open.spotify.com/track/5qpUyii8Sh8DZay1IoVFtj"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 322120,
+      "name": "heavenly blue",
+      "url": "https://open.spotify.com/track/0Icxn5ncMnGh4VQKGGNT0a"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/4JMZjLfasZE51LlQqhMNof"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322120,
+      "name": "heavenly blue",
+      "url": "https://open.spotify.com/track/1efenPYjt5W309vLJPW0eG"
+    },
+    {
+      "album": {
+        "name": "FICTION II",
+        "url": "https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329270,
+      "name": "heigen",
+      "url": "https://open.spotify.com/track/1p0LwK96oOlMLqnI7TbxYc"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/2EV8VrWZnqKuqerZesrTbC"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267213,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/5XoKMMsaXR6tjrgGs9l8wd"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267213,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP"
+    },
+    {
+      "album": {
+        "name": "I beg you / \u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1 / Sailing",
+        "url": "https://open.spotify.com/album/1izWUJoqVtDsEt5T0JpZG9"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 270346,
+      "name": "I beg you",
+      "url": "https://open.spotify.com/track/0OEueB9hs9n178TcVcZu8k"
+    },
+    {
+      "album": {
+        "name": "Kimi wa Boku ni Niteiru",
+        "url": "https://open.spotify.com/album/2Ha3g73VEHNEg9zBukU98S"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285600,
+      "name": "Kimi wa Boku ni Niteiru",
+      "url": "https://open.spotify.com/track/1S5oYQtDWGRFGbmeGHHoAA"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254720,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/1jRJ7ReFo15vrQJRU7buLQ"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254720,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/7elSn9tGQTOgVghLzJN1yX"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/50O2HKAs6Pkyq0Kl0MWiOJ"
+      },
+      "artists": [
+        {
+          "name": "Mika Arisaka",
+          "url": "https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5PunZkE5L6vNvwtgXAIkoZ"
+    },
+    {
+      "album": {
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/6ojkccMbds4v0v2Xk9EBHy"
+      },
+      "artists": [
+        {
+          "name": "Mika Arisaka",
+          "url": "https://open.spotify.com/artist/23mgGAQU04Y9g3pyfwnpF0"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 242733,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/7boNqK0KpoeNQjvYTYx1yi"
+    },
+    {
+      "album": {
+        "name": "\u300c\u9b54\u6cd5\u5c11\u5973\u307e\u3069\u304b\u2606\u30de\u30ae\u30ab\u300d Ultimate Best",
+        "url": "https://open.spotify.com/album/6HbO9Uv1onX9RfLTQUrF8l"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313586,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/3VrY5AUgxJJsmw9HMP4w6W"
+    },
+    {
+      "album": {
+        "name": "FICTION II",
+        "url": "https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351839,
+      "name": "maybe tomorrow (Xenosaga III ending theme)",
+      "url": "https://open.spotify.com/track/2GpTrdhtoXWP96cKqxjCkt"
+    },
+    {
+      "album": {
+        "name": "MOBILE SUIT GUNDAM SEED ~ SEED DESTINY THE BRIDGE Across the Songs from GUNDUM SEED & SEED DESTINY",
+        "url": "https://open.spotify.com/album/4EdzQNwgsjmEjERczqZOVG"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 265080,
+      "name": "Mizu no Akashi",
+      "url": "https://open.spotify.com/track/2dLyZnpDvOoCgwAj133ZFQ"
+    },
+    {
+      "album": {
+        "name": "Mizu no Akashi",
+        "url": "https://open.spotify.com/album/0shB8lOdBi934o9yQJxNvl"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "Mizu no Akashi",
+      "url": "https://open.spotify.com/track/1WeJz5HHT6duRoUgYEo7t2"
+    },
+    {
+      "album": {
+        "name": "FICTION II",
+        "url": "https://open.spotify.com/album/7fCgqETJoKKBfzaFuhyiBX"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352009,
+      "name": "my long forgotten cloistered sleep (unreleased work of Xenosaga)",
+      "url": "https://open.spotify.com/track/2W2wOnWoerETPn97heU1V4"
+    },
+    {
+      "album": {
+        "name": "nocturne",
+        "url": "https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc"
+      },
+      "artists": [
+        {
+          "name": "Hinano",
+          "url": "https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269253,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC"
+    },
+    {
+      "album": {
+        "name": "\u300eMADLAX\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u77b3\u306e\u6b20\u7247\u300d",
+        "url": "https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222566,
+      "name": "nowhere",
+      "url": "https://open.spotify.com/track/6fjpc5Rhhj9H0jgOMNVbzd"
+    },
+    {
+      "album": {
+        "name": "Seventh Heaven",
+        "url": "https://open.spotify.com/album/3aVvDhw45d2J7xTLHx4Jyh"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262493,
+      "name": "oblivious",
+      "url": "https://open.spotify.com/track/3OGhAh9RuI0BcC1oBhiTnz"
+    },
+    {
+      "album": {
+        "name": "oblivious",
+        "url": "https://open.spotify.com/album/3H8knmD3KBCKVLRkqoG3FS"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 262946,
+      "name": "oblivious",
+      "url": "https://open.spotify.com/track/6dyJNx2qRw4VtOhYhxXTo4"
+    },
+    {
+      "album": {
+        "name": "Obsession / \u512a\u3057\u3044\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/4BV3lvnKXgvyuDIgo6I06z"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/1gHv1TuxyJcvrK67x3XXSR"
+    },
+    {
+      "album": {
+        "name": ".hack//SIGN ORIGINAL SOUND & SONG TRACK2",
+        "url": "https://open.spotify.com/album/4kwNMHXCWOkqy1MmwqCV2y"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277833,
+      "name": "open your heart~reprise",
+      "url": "https://open.spotify.com/track/1RZlGWYqsmESn0XmKdMUkW"
+    },
+    {
+      "album": {
+        "name": "far on the water",
+        "url": "https://open.spotify.com/album/0N9oRASRuY4SOiMe4AfiSb"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316026,
+      "name": "ring your bell",
+      "url": "https://open.spotify.com/track/0oiQsWPq6RvZGKQ506zwHm"
+    },
+    {
+      "album": {
+        "name": "ring your bell",
+        "url": "https://open.spotify.com/album/5HAd8vJNZZYlHnxavEWMGv"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316533,
+      "name": "ring your bell",
+      "url": "https://open.spotify.com/track/4x5e0piwQGLlgv0RtAdTfl"
+    },
+    {
+      "album": {
+        "name": "ring your bell",
+        "url": "https://open.spotify.com/album/4hFDwdFGrNxGfQ3TmWzNi1"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 316533,
+      "name": "ring your bell",
+      "url": "https://open.spotify.com/track/6GHMBep0v40pSejtpr87qP"
+    },
+    {
+      "album": {
+        "name": "\u300e\u30a8\u30eb\u30fb\u30ab\u30b6\u30c9\u300f ED\u30c6\u30fc\u30de romanesque",
+        "url": "https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263070,
+      "name": "romanesque",
+      "url": "https://open.spotify.com/track/3aO4zQR7NDnJqbJ1WIDr0T"
+    },
+    {
+      "album": {
+        "name": "Junshoku brilliant",
+        "url": "https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6"
+      },
+      "artists": [
+        {
+          "name": "Houko Kuwashima",
+          "url": "https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Shinkai no Kodoku",
+      "url": "https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I"
+    },
+    {
+      "album": {
+        "name": "\u300c\u30c4\u30d0\u30b5\u30fb\u30af\u30ed\u30cb\u30af\u30eb\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af Future Soundscape I",
+        "url": "https://open.spotify.com/album/5Z9SNaI38CG5mh8aiBEIBy"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        },
+        {
+          "name": "Eri Ito",
+          "url": "https://open.spotify.com/artist/7udHBguwPHRXPomj87uHAg"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222760,
+      "name": "ship of fools",
+      "url": "https://open.spotify.com/track/6RKKLvRopHp3eoAxIC6ozV"
+    },
+    {
+      "album": {
+        "name": "MOBILE SUIT GUNDAM SEED Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/5HHYTVahFV1VkzhdLe8opt"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 293560,
+      "name": "Shizukana Yoru ni",
+      "url": "https://open.spotify.com/track/3KwYkYq6TZ38Se2r8OK0PT"
+    },
+    {
+      "album": {
+        "name": "Shizukana Yoruni",
+        "url": "https://open.spotify.com/album/37Nw2Q4Wlhei7xl4iUWQGk"
+      },
+      "artists": [
+        {
+          "name": "Lacus Clyne (CV: Rie Tanaka)",
+          "url": "https://open.spotify.com/artist/1aoUdHLSeRNO6NEM7P4RMH"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293666,
+      "name": "Shizukana Yoruni",
+      "url": "https://open.spotify.com/track/71qfrdlJLBfPusYA4RheiH"
+    },
+    {
+      "album": {
+        "name": "\u300e.hack//Roots\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cSilly-Go-Round\u300d",
+        "url": "https://open.spotify.com/album/4s1DPom0FtERSV0ApXXGvl"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292500,
+      "name": "Silly-Go-Round",
+      "url": "https://open.spotify.com/track/3JAMuVi5dYoafwWsoEfF3m"
+    },
+    {
+      "album": {
+        "name": "THE BEST \u201cBlue\u201d",
+        "url": "https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 217266,
+      "name": "storia",
+      "url": "https://open.spotify.com/track/6J9B284el0IT89aLnhzHq0"
+    },
+    {
+      "album": {
+        "name": "storia",
+        "url": "https://open.spotify.com/album/2anN3L21bqtKROZ2ar6wyI"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218026,
+      "name": "storia",
+      "url": "https://open.spotify.com/track/0z0jQ2BgYzbnsnwlasgHvL"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "storia",
+      "url": "https://open.spotify.com/track/57W3wuQ2Igq10ed6ILflyw"
+    },
+    {
+      "album": {
+        "name": "the route of the sun",
+        "url": "https://open.spotify.com/album/5gO55hgZfiirXfiocCqrMZ"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 248773,
+      "name": "the route of the sun",
+      "url": "https://open.spotify.com/track/1nM5YLYK801GD3x15d2gho"
+    },
+    {
+      "album": {
+        "name": "5th Anniversary 3rd Full Album Dear",
+        "url": "https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250533,
+      "name": "the route of the sun",
+      "url": "https://open.spotify.com/track/2z4VRUyZDQI2IYXtzSZZwf"
+    },
+    {
+      "album": {
+        "name": "the sea and a pearl",
+        "url": "https://open.spotify.com/album/7mzVjw02rCoOluqsnhboJ8"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 279666,
+      "name": "the sea and a pearl",
+      "url": "https://open.spotify.com/track/0m7O37bxQV9y1AS9afCVD0"
+    },
+    {
+      "album": {
+        "name": "5th Anniversary 3rd Full Album Dear",
+        "url": "https://open.spotify.com/album/6wDj0XhwsypQ1ANwXTIN8z"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279653,
+      "name": "the sea and a pearl (Japanese Ver)",
+      "url": "https://open.spotify.com/track/3xsyanQ2qccUr6HVd48jc5"
+    },
+    {
+      "album": {
+        "name": ".hack//SIGN ORIGINAL SOUND & SONG TRACK1",
+        "url": "https://open.spotify.com/album/2lA3xStYGlHINVKyab7pAl"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303400,
+      "name": "the world",
+      "url": "https://open.spotify.com/track/3JTzSjvoNTfVRYoW9hMf5R"
+    },
+    {
+      "album": {
+        "name": "30th Anniversary Early BEST Collection for Soundtrack",
+        "url": "https://open.spotify.com/album/59JBJQI8lO2ltdMWICPdFe"
+      },
+      "artists": [
+        {
+          "name": "\u68b6\u6d66 \u7531\u8a18",
+          "url": "https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 305826,
+      "name": "the world",
+      "url": "https://open.spotify.com/track/03wGNAgIlaNUfGOLB8lpcA"
+    },
+    {
+      "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/5QI1q4o2LJ4UpbgesVfBcL"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256613,
+      "name": "to the beginning",
+      "url": "https://open.spotify.com/track/3UqqDey54pOsAc31ZnXL0y"
+    },
+    {
+      "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256613,
+      "name": "to the beginning",
+      "url": "https://open.spotify.com/track/5aZYyAIBmLSXTlez59ZvZ7"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257560,
+      "name": "to the beginning",
+      "url": "https://open.spotify.com/track/7Fn39khTcovMslPdNxx7b8"
+    },
+    {
+      "album": {
+        "name": "The Age of Dragon Knights",
+        "url": "https://open.spotify.com/album/0tX0mfPY2L2SfmxNgHePye"
+      },
+      "artists": [
+        {
+          "name": "JAM Project",
+          "url": "https://open.spotify.com/artist/0CPdwFVMsHZWpNgKuLaTuU"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153976,
+      "name": "to the next era",
+      "url": "https://open.spotify.com/track/2CjcG32kIYTUtgbDxssGw3"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303786,
+      "name": "wonderland",
+      "url": "https://open.spotify.com/track/2le6yHsjyys4h3mHs65tss"
+    },
+    {
+      "album": {
+        "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u3060\u3063\u305f\u306e\u306b",
+        "url": "https://open.spotify.com/album/1yTDSFN4NOhv4pQZoz5XJq"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 288266,
+      "name": "\u3042\u3093\u306a\u306b\u4e00\u7dd2\u3060\u3063\u305f\u306e\u306b",
+      "url": "https://open.spotify.com/track/6JQl8e2SWQ6ba5rbSixPaV"
+    },
+    {
+      "album": {
+        "name": "\u305d\u308c\u306f\u5c0f\u3055\u306a\u5149\u306e\u3088\u3046\u306a-special edition",
+        "url": "https://open.spotify.com/album/3n5g6PWeL2XVwFXevw96H8"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272906,
+      "name": "\u305d\u308c\u306f\u5c0f\u3055\u306a\u5149\u306e\u3088\u3046\u306a",
+      "url": "https://open.spotify.com/track/23NlSC7lOjCHmJYYggvJe0"
+    },
+    {
+      "album": {
+        "name": "\u305d\u308c\u306f\u5c0f\u3055\u306a\u5149\u306e\u3088\u3046\u306a-special edition",
+        "url": "https://open.spotify.com/album/7A9FxCZBXJNqtcv7HPHnR8"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272906,
+      "name": "\u305d\u308c\u306f\u5c0f\u3055\u306a\u5149\u306e\u3088\u3046\u306a",
+      "url": "https://open.spotify.com/track/7FOeR1X65DEG4KjpVhNC4Z"
+    },
+    {
+      "album": {
+        "name": "\u3072\u304b\u308a\u3075\u308b",
+        "url": "https://open.spotify.com/album/64TNI4SlacrbN6sA5Zig4f"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291840,
+      "name": "\u3072\u304b\u308a\u3075\u308b",
+      "url": "https://open.spotify.com/track/5qJGYNfb91Wml51v5vnj4K"
+    },
+    {
+      "album": {
+        "name": "Consolation",
+        "url": "https://open.spotify.com/album/6wUa2X4ZWE82DSpCn6zNsb"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293853,
+      "name": "\u3072\u304b\u308a\u3075\u308b",
+      "url": "https://open.spotify.com/track/2Bc9VKcoyaYbpnnjKacdKJ"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 294693,
+      "name": "\u3072\u304b\u308a\u3075\u308b",
+      "url": "https://open.spotify.com/track/6e6xydbcKp3UJuRRdSbdwu"
+    },
+    {
+      "album": {
+        "name": "Lantana",
+        "url": "https://open.spotify.com/album/0DSpIVLKGV6DICxqP4fiZh"
+      },
+      "artists": [
+        {
+          "name": "KEIKO",
+          "url": "https://open.spotify.com/artist/21J2dSJo5NHDo1XuO02SEe"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277971,
+      "name": "\u4e03\u8272\u306e\u30d5\u30a3\u30ca\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/5uvfjUhS5Du4GX00KaQngY"
+    },
+    {
+      "album": {
+        "name": "Obsession / \u512a\u3057\u3044\u591c\u660e\u3051",
+        "url": "https://open.spotify.com/album/4BV3lvnKXgvyuDIgo6I06z"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308400,
+      "name": "\u512a\u3057\u3044\u591c\u660e\u3051",
+      "url": "https://open.spotify.com/track/2stcUXRo0jPS1R7SStG2DI"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/4KjKXGvqS4Q9UAGecsnEsM"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 373760,
+      "name": "\u5149\u306e\u65cb\u5f8b",
+      "url": "https://open.spotify.com/track/42F3KCBi64pMYfNrMtN4n7"
+    },
+    {
+      "album": {
+        "name": "Red Moon",
+        "url": "https://open.spotify.com/album/6wcCztTF3bTXlzxFsouWLF"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373760,
+      "name": "\u5149\u306e\u65cb\u5f8b",
+      "url": "https://open.spotify.com/track/4kGCEIEGq8R8k3PBGZHAMW"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 373800,
+      "name": "\u5149\u306e\u65cb\u5f8b",
+      "url": "https://open.spotify.com/track/4kapKtjdu0ILha72HkvMC6"
+    },
+    {
+      "album": {
+        "name": "\u300c.hack//Liminality 3\u300d\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de \u541b\u304b\u3099\u3044\u305f\u7269\u8a9e/\u300c.hack//\u9ec4\u660f\u306e\u8155\u8f2a\u4f1d\u8aac\u300d\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30c6\u30fc\u30de Emerald Green",
+        "url": "https://open.spotify.com/album/5g9SMgIx15ZScn459dQvoR"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307978,
+      "name": "\u541b\u304c\u3044\u305f\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/30VTUrRFO8gWzAvotee9K9"
+    },
+    {
+      "album": {
+        "name": "\u541b\u304c\u898b\u305f\u5922\u306e\u7269\u8a9e",
+        "url": "https://open.spotify.com/album/1gMGknU5QYbl9q8OXFqGWD"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261626,
+      "name": "\u541b\u304c\u898b\u305f\u5922\u306e\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/3S53tu7z9QRZRE7KNW1kcV"
+    },
+    {
+      "album": {
+        "name": "THE BEST \u201cBlue\u201d",
+        "url": "https://open.spotify.com/album/7uUEGK4CTDdLzoFQ5BKxNm"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306320,
+      "name": "\u541b\u306e\u9280\u306e\u5ead",
+      "url": "https://open.spotify.com/track/1kDEDOGIKRshZnz0VLUVcS"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306e\u9280\u306e\u5ead",
+        "url": "https://open.spotify.com/album/207BrZB1WM0SC3Zp3NT0ia"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307200,
+      "name": "\u541b\u306e\u9280\u306e\u5ead",
+      "url": "https://open.spotify.com/track/3LsjEGxV5LbJ985Ls5ijwG"
+    },
+    {
+      "album": {
+        "name": "Kalafina All Time Best 2008-2018",
+        "url": "https://open.spotify.com/album/0XpLAvr5gn7pNnJl00a8yc"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 308306,
+      "name": "\u541b\u306e\u9280\u306e\u5ead",
+      "url": "https://open.spotify.com/track/4ng5y9p7whitO0yq4nTBpA"
+    },
+    {
+      "album": {
+        "name": "\u541b\u306f\u50d5\u306b\u4f3c\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/7rbAdOBhmgUi8kz4AGE8GS"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 285600,
+      "name": "\u541b\u306f\u50d5\u306b\u4f3c\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/4uGSI2UhuHFTfeqQ9ei4sv"
+    },
+    {
+      "album": {
+        "name": "\u592a\u967d\u306e\u822a\u8def",
+        "url": "https://open.spotify.com/album/43l55BFdVisx8Oi2LkNfJx"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248773,
+      "name": "\u592a\u967d\u306e\u822a\u8def",
+      "url": "https://open.spotify.com/track/3XGSEetBWHmbLarbxhWjZG"
+    },
+    {
+      "album": {
+        "name": "\u660e\u3051\u661f",
+        "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "\u660e\u3051\u661f",
+      "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
+    },
+    {
+      "album": {
+        "name": "\u6625\u306f\u3086\u304f / marie",
+        "url": "https://open.spotify.com/album/2yo4hx7Z6ZGGrZFmJ36E9u"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 304880,
+      "name": "\u6625\u306f\u3086\u304f",
+      "url": "https://open.spotify.com/track/2RSrmN9IbgDQTmGhv5X9eX"
+    },
+    {
+      "album": {
+        "name": "Walpurgis",
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305386,
+      "name": "\u6625\u306f\u3086\u304f",
+      "url": "https://open.spotify.com/track/2rizK3oastlZwyoYwrcLgC"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u306e\u5504 / I beg you / \u6625\u306f\u3086\u304f",
+        "url": "https://open.spotify.com/album/7m8thQY9OMG9ZEE8zdfkZY"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306386,
+      "name": "\u6625\u306f\u3086\u304f",
+      "url": "https://open.spotify.com/track/2Zv3lEuRxAmBTG8Zw48jFV"
+    },
+    {
+      "album": {
+        "name": "\u6681\u306e\u8eca",
+        "url": "https://open.spotify.com/album/6FSGtCdVtQ8exaIdHOpkdQ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 303333,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/3IEObXuomguph3jjxrccWB"
+    },
+    {
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/2uBdymoMwJ2td97CwnHgYB"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303766,
+      "name": "\u6681\u306e\u8eca",
+      "url": "https://open.spotify.com/track/5sl5ZZNzypwv1UJgbtkSPH"
+    },
+    {
+      "album": {
+        "name": "\u671d\u304c\u6765\u308b",
+        "url": "https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294933,
+      "name": "\u671d\u304c\u6765\u308b",
+      "url": "https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH"
+    },
+    {
+      "album": {
+        "name": "PARADE",
+        "url": "https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301786,
+      "name": "\u6ac2",
+      "url": "https://open.spotify.com/track/4MmbhBWuOX0FChh2gb1fXv"
+    },
+    {
+      "album": {
+        "name": "\u6c34\u306e\u8a3c",
+        "url": "https://open.spotify.com/album/1TVw6SHvytnhXTGMijSJK2"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30af\u30b9\u30fb\u30af\u30e9\u30a4\u30f3(\u7530\u4e2d\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 267400,
+      "name": "\u6c34\u306e\u8a3c",
+      "url": "https://open.spotify.com/track/5mizgqUfE7BrNZtbPiNWdy"
+    },
+    {
+      "album": {
+        "name": "\u6d77\u3068\u771f\u73e0",
+        "url": "https://open.spotify.com/album/2b7R36JmXl2ajwIMnkjs67"
+      },
+      "artists": [
+        {
+          "name": "JUNNA",
+          "url": "https://open.spotify.com/artist/4l9mhLGvHBgUXIrDGUjy5d"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280080,
+      "name": "\u6d77\u3068\u771f\u73e0",
+      "url": "https://open.spotify.com/track/4dDBdgmfZxoLE8SR41RH70"
+    },
+    {
+      "album": {
+        "name": "\u6df1\u6d77\u306e\u5b64\u72ec",
+        "url": "https://open.spotify.com/album/6VxiR4xgzWYXi3RPh9E9Qv"
+      },
+      "artists": [
+        {
+          "name": "\u6851\u5cf6\u6cd5\u5b50",
+          "url": "https://open.spotify.com/artist/4InNxmyyefEtcBZE6XqSwr"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 240866,
+      "name": "\u6df1\u6d77\u306e\u5b64\u72ec",
+      "url": "https://open.spotify.com/track/3W7cfHOierxSmWSnrQpRVK"
+    },
+    {
+      "album": {
+        "name": "\u708e",
+        "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "\u708e",
+      "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
+    },
+    {
+      "album": {
+        "name": "\u7114\u306e\u6249",
+        "url": "https://open.spotify.com/album/0SMBVzy8j0KY3Kmwmi9fXU"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 292200,
+      "name": "\u7114\u306e\u6249",
+      "url": "https://open.spotify.com/track/0OGoqbqURRylj7v7cUoMMY"
+    },
+    {
+      "album": {
+        "name": "circus",
+        "url": "https://open.spotify.com/album/3uIPcjVMdZgVNFT0E8u4N9"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292619,
+      "name": "\u7114\u306e\u6249",
+      "url": "https://open.spotify.com/track/7bISXTD95bEN7oqD4LTmov"
+    },
+    {
+      "album": {
+        "name": "\u767d\u9280",
+        "url": "https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "\u767d\u9280",
+      "url": "https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ"
+    },
+    {
+      "album": {
+        "name": "\u300eMADLAX\u300f\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u77b3\u306e\u6b20\u7247\u300d",
+        "url": "https://open.spotify.com/album/0imp9L18jxeZSdwxAG9Ke5"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242900,
+      "name": "\u77b3\u306e\u6b20\u7247",
+      "url": "https://open.spotify.com/track/6lXw65lNf1in1SmMB4OwjW"
+    },
+    {
+      "album": {
+        "name": "Dream Port",
+        "url": "https://open.spotify.com/album/4Sm1Sb0u6OcErakFU3oitz"
+      },
+      "artists": [
+        {
+          "name": "Revo & \u68b6\u6d66\u7531\u8a18",
+          "url": "https://open.spotify.com/artist/2qBB1D5WAQwmL0v511RJvw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443253,
+      "name": "\u7802\u5875\u306e\u5f7c\u65b9\u3078\u2026",
+      "url": "https://open.spotify.com/track/5KxHYmHfYu2hSBQCyFMMag"
+    },
+    {
+      "album": {
+        "name": "OVERSKY",
+        "url": "https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "\u7a7a\u306f\u9ad8\u304f\u98a8\u306f\u6b4c\u3046",
+      "url": "https://open.spotify.com/track/1Z8tXtosdqpnNWipIhfMv3"
+    },
+    {
+      "album": {
+        "name": "OVERSKY",
+        "url": "https://open.spotify.com/album/5uw8YVzISyCjUPOqs2Dp4T"
+      },
+      "artists": [
+        {
+          "name": "Luna Haruna",
+          "url": "https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270720,
+      "name": "\u7a7a\u306f\u9ad8\u304f\u98a8\u306f\u6b4c\u3046",
+      "url": "https://open.spotify.com/track/5fKzBuiXtnpLtXSaZnI5SF"
+    },
+    {
+      "album": {
+        "name": "\u300e\u30a8\u30eb\u30fb\u30ab\u30b6\u30c9\u300f ED\u30c6\u30fc\u30de romanesque",
+        "url": "https://open.spotify.com/album/0c18rgo9UL4rRA8bPPZNva"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction YUUKA",
+          "url": "https://open.spotify.com/artist/3JGUu5XReRV4PnHYBNFbZf"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334960,
+      "name": "\u7d04\u675f",
+      "url": "https://open.spotify.com/track/1o6JCEJZOjBieOaaGMTPkC"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/2EV8VrWZnqKuqerZesrTbC"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/01AsEuJRa5JuYwc3BbB49d"
+    },
+    {
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte"
+    },
+    {
+      "album": {
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 373426,
+      "name": "\u82b1\u306e\u5504",
+      "url": "https://open.spotify.com/track/2HNLThGsrr2asX0ag3BMjg"
+    },
+    {
+      "album": {
+        "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
+        "url": "https://open.spotify.com/album/46RAH8uwedB6VvDPssUYTb"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253106,
+      "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
+      "url": "https://open.spotify.com/track/34qqPmyjW889PrXbvt0FLy"
+    },
+    {
+      "album": {
+        "name": "After Eden",
+        "url": "https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254120,
+      "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
+      "url": "https://open.spotify.com/track/3n4MLZyy29Cqpa2SNxGSWv"
+    },
+    {
+      "album": {
+        "name": "After Eden",
+        "url": "https://open.spotify.com/album/5dhEp7375IwtIk8NTff2Ps"
+      },
+      "artists": [
+        {
+          "name": "Kalafina",
+          "url": "https://open.spotify.com/artist/2otsTXVV2ZWZ8T5LPzsBhy"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254120,
+      "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
+      "url": "https://open.spotify.com/track/6FDzmybpUS0MpVWJfjDAgi"
+    },
+    {
+      "album": {
+        "name": "\u767e\u6b4c\u7e5a\u4e71",
+        "url": "https://open.spotify.com/album/4nwzOXUbeLiHXsNxX2Fjhy"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 278226,
+      "name": "\u96f2\u96c0",
+      "url": "https://open.spotify.com/track/1bRMDynP3nGzFMv1loG3s6"
+    },
+    {
+      "album": {
+        "name": "RUST / \u96f2\u96c0 / \u5149\u8292",
+        "url": "https://open.spotify.com/album/3gtN7OQcfBLeLoTGf772p2"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278733,
+      "name": "\u96f2\u96c0",
+      "url": "https://open.spotify.com/track/1vF9MWW9VZL8QZH4F01Asw"
+    },
+    {
+      "album": {
+        "name": "RUST / \u96f2\u96c0 / \u5149\u8292",
+        "url": "https://open.spotify.com/album/3j2IW881aBKaTfawSbM74r"
+      },
+      "artists": [
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278733,
+      "name": "\u96f2\u96c0",
+      "url": "https://open.spotify.com/track/50M0nvkvTrMVuBiOIBCHxu"
+    },
+    {
+      "album": {
+        "name": "\u9759\u304b\u306a\u591c\u306b",
+        "url": "https://open.spotify.com/album/48zvdtJf0JWhY33ZKaJLXw"
+      },
+      "artists": [
+        {
+          "name": "\u30e9\u30af\u30b9\u30fb\u30af\u30e9\u30a4\u30f3(\u7530\u4e2d\u7406\u6075)",
+          "url": "https://open.spotify.com/artist/5o8QrLIxY6vRmQUEXQI6pu"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 293666,
+      "name": "\u9759\u304b\u306a\u591c\u306b",
+      "url": "https://open.spotify.com/track/05NI2obfLIFIyVHlQuYCgC"
+    },
+    {
+      "album": {
+        "name": "The Works for Soundtrack \u2161",
+        "url": "https://open.spotify.com/album/5w4tE6Vd1NobfLWec75f8I"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "\u98a8\u3088\u3001\u5439\u3051",
+      "url": "https://open.spotify.com/track/4nIENmxdHhT04pDAsx8lq3"
+    },
+    {
+      "album": {
+        "name": "edge / \u9ec4\u660f\u306e\u6d77",
+        "url": "https://open.spotify.com/album/77A91KVRDJFD6bBpGuomS6"
+      },
+      "artists": [
+        {
+          "name": "See-Saw",
+          "url": "https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316200,
+      "name": "\u9ec4\u660f\u306e\u6d77",
+      "url": "https://open.spotify.com/track/5846HvFQzt0fhaQ6Uth92l"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaYP4U0VPZgc"
 }

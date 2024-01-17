@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 
 > <a href="spotify:artist:77J3V0V7sEOf5ifCDBSNaJ">Nu Genea</a>'s favorite tracks\. Updated regularly\. Curated by Nu Genea\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,474 likes - 55 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,057 likes - 55 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GS0ENHpuKP.md) - [plain]
 | 27 | [Can't You See Me](https://open.spotify.com/track/1EzfTM6xAaF4d1FCSARWYL) | [Boogsie](https://open.spotify.com/artist/3Svu0WHorwzeTSxVmGOg5H) | [Under the Influence Vol\. 4 compiled by Nick the Record](https://open.spotify.com/album/5pM5jYmEFRrALBMeykTJOi) | 5:21 |
 | 28 | [Hai capito o no? \- Live](https://open.spotify.com/track/1xBMyLQh9cxjwRdwUqdLxC) | [Ron](https://open.spotify.com/artist/3vuKNU7lgoecqjnArUKom6) | [Tutti cuori viaggianti](https://open.spotify.com/album/0U1L7YV4j7Jd3VDqoDBCmM) | 3:40 |
 | 29 | [Lady Bug \- Disco Mix](https://open.spotify.com/track/3SKGZkPrxSCP3tmypixVDB) | [Bumblebee Unlimited](https://open.spotify.com/artist/4oRZdidZ4TjAsaNxKNVX58) | [Sting Like A Bee](https://open.spotify.com/album/25DkBGXFTsTtqcwl1MVUzI) | 9:49 |
-| 30 | [You Can't Change A Man](https://open.spotify.com/track/1dR7rHSrmfcnih3Bi9yorZ) | [Christy Essien](https://open.spotify.com/artist/23zDrpDFGx3aBQPhd0R9cA) | [One Understanding](https://open.spotify.com/album/7res8aOcsEM7TRkFMOPaW6) | 4:01 |
+| 30 | [You Can't Change a Man](https://open.spotify.com/track/0swVeq1CQJZjKfNen02SeR) | [Christy Essien Igbokwe](https://open.spotify.com/artist/1HefyGXvLQBSDcnWDXuuFm) | [You Can't Change a Man](https://open.spotify.com/album/7KPrWMK1Fu40vyAbasI2h2) | 4:01 |
 | 31 | [Vesuvio](https://open.spotify.com/track/6d5Ef0SJJxvzafpgKCRFoC) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS) | 4:41 |
 | 32 | [Danse Cette Zik](https://open.spotify.com/track/0JSDjKJ1VJwmRwW35I3OYH) | [Parbleu](https://open.spotify.com/artist/6TPtmX8rRaOXQgN6WFFTlo) | [Danse Cette Zik](https://open.spotify.com/album/3dMQYdTraNEoCBKUC34Uyt) | 4:19 |
 | 33 | [Se Tu Vuoi](https://open.spotify.com/track/0YDc4kVUW7J0Yr908XFEUa) | [Flavia Fortunato](https://open.spotify.com/artist/6u4qQuBV1wEiChGgPVT45f) | [Canto Per Te](https://open.spotify.com/album/2T4GTTm7POJdcUfRKn4EC1) | 3:40 |

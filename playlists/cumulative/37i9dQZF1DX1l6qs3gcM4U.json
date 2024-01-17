@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Cubita.  ",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Black Spygo e CEF Tanzy.  ",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 193045,
       "name": "Do Teu Jeito",
       "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": "2024-01-17",
       "duration_ms": 197946,
       "name": "Fala S\u00f3",
       "url": "https://open.spotify.com/track/0GLjhzoxp487M60SXbrdNQ"
@@ -5759,6 +5759,32 @@
     },
     {
       "album": {
+        "name": "Tarraxinha",
+        "url": "https://open.spotify.com/album/74ausXGM4e3XqEi8Ew7wda"
+      },
+      "artists": [
+        {
+          "name": "Black Spygo",
+          "url": "https://open.spotify.com/artist/2A0VfJYVYzMd2EzexuHvjY"
+        },
+        {
+          "name": "CEF Tanzy",
+          "url": "https://open.spotify.com/artist/1H9tGEiPd91p977DunDG8G"
+        },
+        {
+          "name": "Black Vision",
+          "url": "https://open.spotify.com/artist/3nFAsihkHwUHm2fckVtTjJ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144255,
+      "name": "Tarraxinha",
+      "url": "https://open.spotify.com/track/5zFiKis35K7y8G4H5Y1A9j"
+    },
+    {
+      "album": {
         "name": "Tayanna",
         "url": "https://open.spotify.com/album/4SUO5EOORH2ofi8H5gBlkC"
       },
@@ -6802,7 +6828,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": "2024-01-17",
       "duration_ms": 223895,
       "name": "Vou Arriscar",
       "url": "https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM"

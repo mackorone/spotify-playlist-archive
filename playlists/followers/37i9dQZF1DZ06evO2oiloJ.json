@@ -1,54 +1,835 @@
 {
-  "2023-11-11": 174049,
-  "2023-11-12": 174049,
-  "2023-11-13": 174049,
-  "2023-11-14": 174049,
-  "2023-11-15": 174049,
-  "2023-11-16": 174049,
-  "2023-11-17": 174049,
-  "2023-11-18": 174049,
-  "2023-11-19": 174049,
-  "2023-11-20": 174049,
-  "2023-11-21": 174049,
-  "2023-11-22": 174049,
-  "2023-11-23": 174049,
-  "2023-11-24": 174049,
-  "2023-11-25": 174049,
-  "2023-11-26": 174049,
-  "2023-11-27": 174049,
-  "2023-11-28": 174049,
-  "2023-11-29": 174049,
-  "2023-11-30": 174049,
-  "2023-12-01": 174049,
-  "2023-12-02": 174049,
-  "2023-12-03": 174049,
-  "2023-12-04": 174049,
-  "2023-12-05": 174049,
-  "2023-12-06": 174049,
-  "2023-12-07": 174049,
-  "2023-12-08": 174049,
-  "2023-12-09": 174049,
-  "2023-12-10": 174049,
-  "2023-12-11": 174049,
-  "2023-12-12": 174049,
-  "2023-12-13": 174049,
-  "2023-12-14": 179433,
-  "2023-12-15": 179573,
-  "2023-12-16": 179776,
-  "2023-12-17": 179911,
-  "2023-12-18": 180054,
-  "2023-12-19": 180213,
-  "2023-12-20": 180331,
-  "2023-12-21": 180467,
-  "2023-12-22": 180612,
-  "2023-12-23": 180792,
-  "2023-12-24": 180919,
-  "2023-12-25": 181025,
-  "2023-12-26": 181143,
-  "2023-12-27": 181285,
-  "2023-12-30": 181678,
-  "2023-12-31": 181811,
-  "2024-01-01": 181918,
-  "2024-01-02": 182027,
-  "2024-01-03": 182149
+  "2024-01-17": 183913,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is Rod Wave. The essential tracks, all in one playlist.",
+  "name": "This Is Rod Wave",
+  "tracks": [
+    {
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191158,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1"
+    },
+    {
+      "album": {
+        "name": "Decided 2",
+        "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243037,
+      "name": "Better Than Ever (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
+    },
+    {
+      "album": {
+        "name": "Jupiter's Diary: 7 Day Theory",
+        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/5eSRsILuZOdEz55igfg9qV"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194050,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/5gUiTylvifZnUrynE4FFPu"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153128,
+      "name": "Call Your Friends",
+      "url": "https://open.spotify.com/track/5W0RVQViQC7xocvAUnIs6Z"
+    },
+    {
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180705,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111751,
+      "name": "Chip On My Shoulder",
+      "url": "https://open.spotify.com/track/73w0vUAcS6BWZjUd0Ke3Iu"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135418,
+      "name": "Close Enough to Hurt",
+      "url": "https://open.spotify.com/track/1WPszJN4Em99es2kpiaUxt"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 130434,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4RMm3bonEDyYj5aJGkaJqX"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169453,
+      "name": "Dark Clouds",
+      "url": "https://open.spotify.com/track/5s8a3reYfth5IIqIJMtx40"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144960,
+      "name": "Dark Conversation",
+      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Fight The Feeling",
+      "url": "https://open.spotify.com/track/4aA7Lrm6rLGHx5kRMVb7NU"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214185,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP"
+    },
+    {
+      "album": {
+        "name": "Forever Set In Stone",
+        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179997,
+      "name": "Forever Set In Stone",
+      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140040,
+      "name": "Fuck The World",
+      "url": "https://open.spotify.com/track/6F4tgHJ5dE0pVWRPs3m1hs"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "Girl Of My Dreams",
+      "url": "https://open.spotify.com/track/09YHm6IkdZko28KdEbXtPb"
+    },
+    {
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161018,
+      "name": "Gone Till November",
+      "url": "https://open.spotify.com/track/2LTJYsWOqsjntJpRy2HpY6"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146751,
+      "name": "Great Gatsby",
+      "url": "https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121521,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/4n7c4QoSavoKz7qLitbQbD"
+    },
+    {
+      "album": {
+        "name": "Hunger Games 3",
+        "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176035,
+      "name": "Heart 4 Sale",
+      "url": "https://open.spotify.com/track/3WqWKsKNFjhPGk4xPls6rX"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159669,
+      "name": "Heart On Ice",
+      "url": "https://open.spotify.com/track/591ks2A0o7ratTpiRdI7M6"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120832,
+      "name": "HG4",
+      "url": "https://open.spotify.com/track/59ksHIFa69pi0az2bKdu6s"
+    },
+    {
+      "album": {
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141166,
+      "name": "Home Ain't Home (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165019,
+      "name": "How Would You Feel",
+      "url": "https://open.spotify.com/track/5Rb0YibLtcl4zi4v4eglGR"
+    },
+    {
+      "album": {
+        "name": "Jupiter's Diary: 7 Day Theory",
+        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147610,
+      "name": "Jupiter's Diary",
+      "url": "https://open.spotify.com/track/2JVvEPpNroKoTZWNoGSr2Z"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Letter From Houston",
+      "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185830,
+      "name": "Long Journey",
+      "url": "https://open.spotify.com/track/1xnAVO60FwWTRa7LJPoNKG"
+    },
+    {
+      "album": {
+        "name": "Jupiter's Diary: 7 Day Theory",
+        "url": "https://open.spotify.com/album/0vJxYXyni4Qhi1o3jO8HwH"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142285,
+      "name": "Love Overdose",
+      "url": "https://open.spotify.com/track/5FwJ3Oevf84jNZE4kJ6mKh"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170126,
+      "name": "Never Get Over Me",
+      "url": "https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187730,
+      "name": "No Deal",
+      "url": "https://open.spotify.com/track/2GJxkCRFJ6maLi2VmYRX9R"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136071,
+      "name": "Paint The Sky Red",
+      "url": "https://open.spotify.com/track/46tIqzG16QgXRQnjxbi5is"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195866,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs"
+    },
+    {
+      "album": {
+        "name": "PTSD",
+        "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156813,
+      "name": "Popular Loner",
+      "url": "https://open.spotify.com/track/1EG6y4KL5c0T5UAT41d7VH"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love (Deluxe)",
+        "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235987,
+      "name": "Rags2Riches 2 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163080,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
+    },
+    {
+      "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/14qCy7dx554jMsZuf8braG"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183850,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7"
+    },
+    {
+      "album": {
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178677,
+      "name": "Sky Priority",
+      "url": "https://open.spotify.com/track/2a6sjwokUT2lAFGtTfrBUG"
+    },
+    {
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252021,
+      "name": "Street Runner",
+      "url": "https://open.spotify.com/track/5iMRhOHzze2CujxHiJ6cRL"
+    },
+    {
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174750,
+      "name": "Sweet Little Lies",
+      "url": "https://open.spotify.com/track/0qjoeS8gwEFqf0ju66ledI"
+    },
+    {
+      "album": {
+        "name": "Pray 4 Love",
+        "url": "https://open.spotify.com/album/7a5cMcFWSeppy4Soc0QHcY"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168586,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/0EVG3d1RVbJjYh43fQDcR9"
+    },
+    {
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160078,
+      "name": "Tombstone",
+      "url": "https://open.spotify.com/track/3zc8VZEpM1onYV4FWGdFvm"
+    },
+    {
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203345,
+      "name": "Turks & Caicos (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
+    },
+    {
+      "album": {
+        "name": "Hunger Games 3",
+        "url": "https://open.spotify.com/album/2vHDkBlDTfwjLMOSiTO3za"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111875,
+      "name": "Weight On My Shoulders",
+      "url": "https://open.spotify.com/track/5PVHJQ1iuQZ7srMFQYj9ML"
+    },
+    {
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155259,
+      "name": "What's Wrong",
+      "url": "https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oiloJ"
 }

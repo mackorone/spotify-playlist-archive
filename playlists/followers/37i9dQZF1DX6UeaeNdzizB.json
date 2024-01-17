@@ -1,732 +1,819 @@
 {
-  "2021-12-28": 50608,
-  "2021-12-29": 50620,
-  "2021-12-30": 50626,
-  "2021-12-31": 50645,
-  "2022-01-01": 50673,
-  "2022-01-02": 50678,
-  "2022-01-03": 50689,
-  "2022-01-04": 50687,
-  "2022-01-05": 50696,
-  "2022-01-06": 50718,
-  "2022-01-07": 50730,
-  "2022-01-08": 50766,
-  "2022-01-09": 50766,
-  "2022-01-10": 50784,
-  "2022-01-11": 50784,
-  "2022-01-12": 50798,
-  "2022-01-13": 50798,
-  "2022-01-14": 50798,
-  "2022-01-15": 50798,
-  "2022-01-16": 50798,
-  "2022-01-17": 50798,
-  "2022-01-18": 50798,
-  "2022-01-19": 50798,
-  "2022-01-20": 50798,
-  "2022-01-21": 50798,
-  "2022-01-22": 50798,
-  "2022-01-23": 50798,
-  "2022-01-24": 50798,
-  "2022-01-25": 50798,
-  "2022-01-26": 50798,
-  "2022-01-27": 50798,
-  "2022-01-28": 50798,
-  "2022-01-29": 50798,
-  "2022-01-30": 50798,
-  "2022-01-31": 50798,
-  "2022-02-01": 50798,
-  "2022-02-02": 50798,
-  "2022-02-03": 50798,
-  "2022-02-04": 50798,
-  "2022-02-05": 50798,
-  "2022-02-06": 50798,
-  "2022-02-07": 50798,
-  "2022-02-08": 50798,
-  "2022-02-09": 50798,
-  "2022-02-10": 50798,
-  "2022-02-11": 50798,
-  "2022-02-12": 50798,
-  "2022-02-13": 50798,
-  "2022-02-14": 50798,
-  "2022-02-15": 50798,
-  "2022-02-16": 50798,
-  "2022-02-17": 50798,
-  "2022-02-18": 50798,
-  "2022-02-19": 50798,
-  "2022-02-20": 50798,
-  "2022-02-21": 50798,
-  "2022-02-22": 50798,
-  "2022-02-23": 50798,
-  "2022-02-24": 50798,
-  "2022-02-25": 50798,
-  "2022-02-26": 50798,
-  "2022-02-27": 50798,
-  "2022-02-28": 50798,
-  "2022-03-01": 50798,
-  "2022-03-02": 50798,
-  "2022-03-03": 50798,
-  "2022-03-04": 50798,
-  "2022-03-05": 50798,
-  "2022-03-06": 50798,
-  "2022-03-07": 50798,
-  "2022-03-08": 50798,
-  "2022-03-09": 50798,
-  "2022-03-10": 50798,
-  "2022-03-11": 50798,
-  "2022-03-12": 50798,
-  "2022-03-13": 50798,
-  "2022-03-14": 50798,
-  "2022-03-15": 50798,
-  "2022-03-16": 50798,
-  "2022-03-17": 50798,
-  "2022-03-18": 50798,
-  "2022-03-19": 50798,
-  "2022-03-20": 50798,
-  "2022-03-21": 50798,
-  "2022-03-22": 50798,
-  "2022-03-23": 50798,
-  "2022-03-24": 50798,
-  "2022-03-25": 50798,
-  "2022-03-26": 50798,
-  "2022-03-27": 50798,
-  "2022-03-28": 50798,
-  "2022-03-30": 50798,
-  "2022-03-31": 50798,
-  "2022-04-01": 50798,
-  "2022-04-02": 50798,
-  "2022-04-03": 50798,
-  "2022-04-04": 50798,
-  "2022-04-05": 50798,
-  "2022-04-06": 50798,
-  "2022-04-07": 50798,
-  "2022-04-08": 50798,
-  "2022-04-09": 50798,
-  "2022-04-10": 50798,
-  "2022-04-11": 50798,
-  "2022-04-12": 50798,
-  "2022-04-13": 50798,
-  "2022-04-14": 50798,
-  "2022-04-15": 50798,
-  "2022-04-16": 50798,
-  "2022-04-17": 50798,
-  "2022-04-18": 50798,
-  "2022-04-19": 50798,
-  "2022-04-20": 50798,
-  "2022-04-21": 50798,
-  "2022-04-22": 50798,
-  "2022-04-23": 50798,
-  "2022-04-24": 50798,
-  "2022-04-25": 50798,
-  "2022-04-26": 50798,
-  "2022-04-27": 50798,
-  "2022-04-28": 50798,
-  "2022-04-29": 50798,
-  "2022-04-30": 50798,
-  "2022-05-01": 50798,
-  "2022-05-02": 50798,
-  "2022-05-03": 50798,
-  "2022-05-04": 50798,
-  "2022-05-05": 50798,
-  "2022-05-06": 50798,
-  "2022-05-07": 50798,
-  "2022-05-08": 50798,
-  "2022-05-09": 50798,
-  "2022-05-10": 50798,
-  "2022-05-11": 50798,
-  "2022-05-12": 50798,
-  "2022-05-13": 50798,
-  "2022-05-14": 50798,
-  "2022-05-15": 50798,
-  "2022-05-16": 50798,
-  "2022-05-17": 50798,
-  "2022-05-18": 50798,
-  "2022-05-19": 50798,
-  "2022-05-20": 50798,
-  "2022-05-21": 50798,
-  "2022-05-22": 50798,
-  "2022-05-23": 50798,
-  "2022-05-24": 50798,
-  "2022-05-25": 50798,
-  "2022-05-26": 50798,
-  "2022-05-27": 50798,
-  "2022-05-28": 50798,
-  "2022-05-29": 50798,
-  "2022-05-30": 50798,
-  "2022-05-31": 50798,
-  "2022-06-01": 50798,
-  "2022-06-02": 50798,
-  "2022-06-03": 50798,
-  "2022-06-04": 50798,
-  "2022-06-05": 50798,
-  "2022-06-06": 50798,
-  "2022-06-07": 50798,
-  "2022-06-08": 50798,
-  "2022-06-09": 50798,
-  "2022-06-10": 50798,
-  "2022-06-11": 50798,
-  "2022-06-12": 50798,
-  "2022-06-13": 50798,
-  "2022-06-14": 50798,
-  "2022-06-15": 50798,
-  "2022-06-16": 50798,
-  "2022-06-17": 50798,
-  "2022-06-18": 50798,
-  "2022-06-19": 50798,
-  "2022-06-20": 50798,
-  "2022-06-21": 50798,
-  "2022-06-22": 50798,
-  "2022-06-23": 50798,
-  "2022-06-24": 50798,
-  "2022-06-25": 50798,
-  "2022-06-26": 50798,
-  "2022-06-27": 50798,
-  "2022-06-28": 50798,
-  "2022-06-29": 50798,
-  "2022-06-30": 50798,
-  "2022-07-01": 50798,
-  "2022-07-02": 50798,
-  "2022-07-03": 50798,
-  "2022-07-04": 50798,
-  "2022-07-05": 50798,
-  "2022-07-06": 50798,
-  "2022-07-07": 50798,
-  "2022-07-08": 50798,
-  "2022-07-09": 50798,
-  "2022-07-10": 50798,
-  "2022-07-11": 50798,
-  "2022-07-12": 50798,
-  "2022-07-13": 50798,
-  "2022-07-14": 50798,
-  "2022-07-15": 50798,
-  "2022-07-16": 50798,
-  "2022-07-17": 50798,
-  "2022-07-18": 50798,
-  "2022-07-19": 50798,
-  "2022-07-20": 50798,
-  "2022-07-21": 50798,
-  "2022-07-22": 50798,
-  "2022-07-23": 50798,
-  "2022-07-24": 50798,
-  "2022-07-25": 50798,
-  "2022-07-26": 50798,
-  "2022-07-27": 50798,
-  "2022-07-28": 50798,
-  "2022-07-29": 50798,
-  "2022-07-30": 50798,
-  "2022-07-31": 50798,
-  "2022-08-01": 50798,
-  "2022-08-02": 50798,
-  "2022-08-03": 50798,
-  "2022-08-04": 50798,
-  "2022-08-05": 50798,
-  "2022-08-06": 50798,
-  "2022-08-07": 50798,
-  "2022-08-08": 50798,
-  "2022-08-09": 50798,
-  "2022-08-10": 50798,
-  "2022-08-11": 50798,
-  "2022-08-12": 50798,
-  "2022-08-13": 50798,
-  "2022-08-14": 50798,
-  "2022-08-15": 50798,
-  "2022-08-16": 50798,
-  "2022-08-17": 50798,
-  "2022-08-18": 50798,
-  "2022-08-19": 50798,
-  "2022-08-20": 50798,
-  "2022-08-21": 50798,
-  "2022-08-22": 50798,
-  "2022-08-23": 50798,
-  "2022-08-24": 50798,
-  "2022-08-25": 50798,
-  "2022-08-26": 50798,
-  "2022-08-27": 50798,
-  "2022-08-28": 50798,
-  "2022-08-29": 50798,
-  "2022-08-30": 50798,
-  "2022-08-31": 50798,
-  "2022-09-01": 50798,
-  "2022-09-02": 50798,
-  "2022-09-03": 50798,
-  "2022-09-04": 50798,
-  "2022-09-05": 50798,
-  "2022-09-06": 50798,
-  "2022-09-07": 50798,
-  "2022-09-09": 50798,
-  "2022-09-10": 50798,
-  "2022-09-11": 50798,
-  "2022-09-12": 50798,
-  "2022-09-13": 50798,
-  "2022-09-15": 50798,
-  "2022-09-16": 50798,
-  "2022-09-17": 50798,
-  "2022-09-18": 50798,
-  "2022-09-19": 50798,
-  "2022-09-20": 50798,
-  "2022-09-21": 50798,
-  "2022-09-22": 50798,
-  "2022-09-23": 50798,
-  "2022-09-24": 50798,
-  "2022-09-25": 50798,
-  "2022-09-26": 50798,
-  "2022-09-27": 50798,
-  "2022-09-28": 50798,
-  "2022-09-29": 50798,
-  "2022-09-30": 50798,
-  "2022-10-01": 50798,
-  "2022-10-02": 50798,
-  "2022-10-03": 50798,
-  "2022-10-04": 50798,
-  "2022-10-05": 50798,
-  "2022-10-06": 50798,
-  "2022-10-07": 50798,
-  "2022-10-08": 50798,
-  "2022-10-09": 50798,
-  "2022-10-10": 50798,
-  "2022-10-11": 50798,
-  "2022-10-12": 50798,
-  "2022-10-13": 50798,
-  "2022-10-14": 50798,
-  "2022-10-15": 50798,
-  "2022-10-16": 50798,
-  "2022-10-17": 50798,
-  "2022-10-18": 50798,
-  "2022-10-19": 50798,
-  "2022-10-20": 50798,
-  "2022-10-21": 50798,
-  "2022-10-22": 50798,
-  "2022-10-23": 50798,
-  "2022-10-24": 50798,
-  "2022-10-25": 50798,
-  "2022-10-26": 50798,
-  "2022-10-27": 50798,
-  "2022-10-28": 50798,
-  "2022-10-29": 50798,
-  "2022-10-30": 50798,
-  "2022-10-31": 50798,
-  "2022-11-01": 50798,
-  "2022-11-02": 50798,
-  "2022-11-03": 50798,
-  "2022-11-04": 50798,
-  "2022-11-05": 50798,
-  "2022-11-06": 50798,
-  "2022-11-07": 50798,
-  "2022-11-08": 50798,
-  "2022-11-09": 50798,
-  "2022-11-10": 50798,
-  "2022-11-11": 50798,
-  "2022-11-12": 50798,
-  "2022-11-13": 50798,
-  "2022-11-14": 50798,
-  "2022-11-15": 50798,
-  "2022-11-16": 50798,
-  "2022-11-17": 50798,
-  "2022-11-18": 50798,
-  "2022-11-19": 50798,
-  "2022-11-20": 50798,
-  "2022-11-21": 50798,
-  "2022-11-22": 50798,
-  "2022-11-23": 50798,
-  "2022-11-24": 50798,
-  "2022-11-25": 50798,
-  "2022-11-26": 50798,
-  "2022-11-27": 50798,
-  "2022-11-28": 50798,
-  "2022-11-29": 50798,
-  "2022-11-30": 50798,
-  "2022-12-01": 50798,
-  "2022-12-02": 50798,
-  "2022-12-03": 50798,
-  "2022-12-04": 50798,
-  "2022-12-05": 50798,
-  "2022-12-06": 50798,
-  "2022-12-07": 50798,
-  "2022-12-08": 50798,
-  "2022-12-09": 50798,
-  "2022-12-10": 50798,
-  "2022-12-11": 50798,
-  "2022-12-12": 50798,
-  "2022-12-13": 50798,
-  "2022-12-14": 50798,
-  "2022-12-15": 50798,
-  "2022-12-16": 50798,
-  "2022-12-17": 50798,
-  "2022-12-18": 50798,
-  "2022-12-19": 50798,
-  "2022-12-20": 50798,
-  "2022-12-21": 50798,
-  "2022-12-22": 50798,
-  "2022-12-24": 50798,
-  "2022-12-25": 50798,
-  "2022-12-26": 50798,
-  "2022-12-27": 50798,
-  "2022-12-28": 50798,
-  "2022-12-29": 50798,
-  "2022-12-30": 50798,
-  "2022-12-31": 50798,
-  "2023-01-01": 50798,
-  "2023-01-02": 50798,
-  "2023-01-03": 50798,
-  "2023-01-04": 50798,
-  "2023-01-05": 50798,
-  "2023-01-06": 50798,
-  "2023-01-07": 50798,
-  "2023-01-08": 50798,
-  "2023-01-09": 50798,
-  "2023-01-10": 50798,
-  "2023-01-11": 50798,
-  "2023-01-12": 50798,
-  "2023-01-13": 50798,
-  "2023-01-14": 50798,
-  "2023-01-15": 50798,
-  "2023-01-16": 50798,
-  "2023-01-17": 50798,
-  "2023-01-18": 50798,
-  "2023-01-19": 50798,
-  "2023-01-20": 50798,
-  "2023-01-21": 50798,
-  "2023-01-22": 50798,
-  "2023-01-23": 50798,
-  "2023-01-24": 50798,
-  "2023-01-25": 50798,
-  "2023-01-26": 50798,
-  "2023-01-27": 50798,
-  "2023-01-28": 50798,
-  "2023-01-29": 50798,
-  "2023-01-30": 50798,
-  "2023-01-31": 50798,
-  "2023-02-01": 50798,
-  "2023-02-02": 50798,
-  "2023-02-03": 50798,
-  "2023-02-04": 50798,
-  "2023-02-05": 50798,
-  "2023-02-06": 50798,
-  "2023-02-07": 50798,
-  "2023-02-08": 50798,
-  "2023-02-09": 50798,
-  "2023-02-10": 50798,
-  "2023-02-11": 50798,
-  "2023-02-12": 50798,
-  "2023-02-13": 50798,
-  "2023-02-14": 50798,
-  "2023-02-15": 50798,
-  "2023-02-16": 50798,
-  "2023-02-17": 50798,
-  "2023-02-18": 50798,
-  "2023-02-19": 50798,
-  "2023-02-20": 50798,
-  "2023-02-21": 50798,
-  "2023-02-22": 50798,
-  "2023-02-23": 50798,
-  "2023-02-24": 50798,
-  "2023-02-25": 50798,
-  "2023-02-26": 50798,
-  "2023-02-27": 50798,
-  "2023-02-28": 50798,
-  "2023-03-01": 50798,
-  "2023-03-02": 50798,
-  "2023-03-03": 50798,
-  "2023-03-04": 50798,
-  "2023-03-05": 50798,
-  "2023-03-06": 50798,
-  "2023-03-07": 50798,
-  "2023-03-08": 50798,
-  "2023-03-09": 50798,
-  "2023-03-10": 50798,
-  "2023-03-11": 50798,
-  "2023-03-12": 50798,
-  "2023-03-13": 50798,
-  "2023-03-14": 50798,
-  "2023-03-15": 50798,
-  "2023-03-16": 50798,
-  "2023-03-17": 50798,
-  "2023-03-18": 50798,
-  "2023-03-19": 50798,
-  "2023-03-20": 50798,
-  "2023-03-21": 50798,
-  "2023-03-22": 50798,
-  "2023-03-23": 50798,
-  "2023-03-24": 50798,
-  "2023-03-25": 50798,
-  "2023-03-26": 50798,
-  "2023-03-27": 50798,
-  "2023-03-28": 50798,
-  "2023-03-29": 50798,
-  "2023-03-30": 50798,
-  "2023-03-31": 50798,
-  "2023-04-01": 50798,
-  "2023-04-02": 50798,
-  "2023-04-03": 50798,
-  "2023-04-04": 50798,
-  "2023-04-05": 50798,
-  "2023-04-06": 50798,
-  "2023-04-07": 50798,
-  "2023-04-09": 50798,
-  "2023-04-10": 50798,
-  "2023-04-11": 50798,
-  "2023-04-12": 50798,
-  "2023-04-13": 50798,
-  "2023-04-14": 50798,
-  "2023-04-15": 50798,
-  "2023-04-16": 50798,
-  "2023-04-17": 50798,
-  "2023-04-18": 50798,
-  "2023-04-19": 50798,
-  "2023-04-20": 50798,
-  "2023-04-21": 50798,
-  "2023-04-22": 50798,
-  "2023-04-23": 50798,
-  "2023-04-24": 50798,
-  "2023-04-25": 50798,
-  "2023-04-26": 50798,
-  "2023-04-27": 50798,
-  "2023-04-28": 50798,
-  "2023-04-29": 50798,
-  "2023-04-30": 50798,
-  "2023-05-01": 50798,
-  "2023-05-02": 50798,
-  "2023-05-03": 50798,
-  "2023-05-04": 50798,
-  "2023-05-05": 50798,
-  "2023-05-06": 50798,
-  "2023-05-07": 50798,
-  "2023-05-08": 50798,
-  "2023-05-09": 50798,
-  "2023-05-10": 50798,
-  "2023-05-11": 50798,
-  "2023-05-12": 50798,
-  "2023-05-13": 50798,
-  "2023-05-14": 50798,
-  "2023-05-15": 50798,
-  "2023-05-16": 50798,
-  "2023-05-17": 50798,
-  "2023-05-18": 50798,
-  "2023-05-19": 50798,
-  "2023-05-20": 50798,
-  "2023-05-21": 50798,
-  "2023-05-22": 50798,
-  "2023-05-23": 50798,
-  "2023-05-24": 50798,
-  "2023-05-25": 50798,
-  "2023-05-26": 50798,
-  "2023-05-27": 50798,
-  "2023-05-28": 50798,
-  "2023-05-29": 50798,
-  "2023-05-30": 50798,
-  "2023-05-31": 50798,
-  "2023-06-01": 50798,
-  "2023-06-02": 50798,
-  "2023-06-03": 50798,
-  "2023-06-04": 50798,
-  "2023-06-05": 50798,
-  "2023-06-06": 50798,
-  "2023-06-07": 50798,
-  "2023-06-08": 50798,
-  "2023-06-09": 50798,
-  "2023-06-10": 50798,
-  "2023-06-11": 50798,
-  "2023-06-12": 50798,
-  "2023-06-13": 50798,
-  "2023-06-14": 50798,
-  "2023-06-15": 50798,
-  "2023-06-16": 50798,
-  "2023-06-17": 50798,
-  "2023-06-18": 50798,
-  "2023-06-19": 50798,
-  "2023-06-20": 50798,
-  "2023-06-21": 50798,
-  "2023-06-22": 50798,
-  "2023-06-23": 50798,
-  "2023-06-24": 50798,
-  "2023-06-25": 50798,
-  "2023-06-26": 50798,
-  "2023-06-27": 50798,
-  "2023-06-28": 50798,
-  "2023-06-29": 50798,
-  "2023-06-30": 50798,
-  "2023-07-01": 50798,
-  "2023-07-02": 50798,
-  "2023-07-03": 50798,
-  "2023-07-04": 50798,
-  "2023-07-05": 50798,
-  "2023-07-06": 50798,
-  "2023-07-07": 50798,
-  "2023-07-08": 50798,
-  "2023-07-09": 50798,
-  "2023-07-10": 50798,
-  "2023-07-11": 50798,
-  "2023-07-12": 50798,
-  "2023-07-13": 50798,
-  "2023-07-14": 50798,
-  "2023-07-15": 50798,
-  "2023-07-16": 50798,
-  "2023-07-17": 50798,
-  "2023-07-18": 50798,
-  "2023-07-19": 50798,
-  "2023-07-20": 50798,
-  "2023-07-21": 50798,
-  "2023-07-22": 50798,
-  "2023-07-23": 50798,
-  "2023-07-24": 50798,
-  "2023-07-25": 50798,
-  "2023-07-26": 50798,
-  "2023-07-27": 50798,
-  "2023-07-28": 50798,
-  "2023-07-29": 50798,
-  "2023-07-30": 50798,
-  "2023-07-31": 50798,
-  "2023-08-01": 50798,
-  "2023-08-02": 50798,
-  "2023-08-03": 50798,
-  "2023-08-04": 50798,
-  "2023-08-05": 50798,
-  "2023-08-06": 50798,
-  "2023-08-07": 50798,
-  "2023-08-08": 50798,
-  "2023-08-09": 50798,
-  "2023-08-10": 50798,
-  "2023-08-11": 50798,
-  "2023-08-12": 50798,
-  "2023-08-13": 50798,
-  "2023-08-14": 50798,
-  "2023-08-15": 50798,
-  "2023-08-16": 50798,
-  "2023-08-17": 50798,
-  "2023-08-18": 50798,
-  "2023-08-19": 50798,
-  "2023-08-20": 50798,
-  "2023-08-21": 50798,
-  "2023-08-22": 50798,
-  "2023-08-23": 50798,
-  "2023-08-24": 50798,
-  "2023-08-25": 50798,
-  "2023-08-26": 50798,
-  "2023-08-27": 50798,
-  "2023-08-28": 50798,
-  "2023-08-29": 50798,
-  "2023-08-30": 50798,
-  "2023-08-31": 50798,
-  "2023-09-01": 50798,
-  "2023-09-02": 50798,
-  "2023-09-03": 50798,
-  "2023-09-04": 50798,
-  "2023-09-05": 50798,
-  "2023-09-06": 50798,
-  "2023-09-07": 50798,
-  "2023-09-08": 50798,
-  "2023-09-09": 50798,
-  "2023-09-10": 50798,
-  "2023-09-11": 50798,
-  "2023-09-12": 50798,
-  "2023-09-13": 50798,
-  "2023-09-14": 50798,
-  "2023-09-15": 50798,
-  "2023-09-16": 50798,
-  "2023-09-17": 50798,
-  "2023-09-18": 50798,
-  "2023-09-19": 50798,
-  "2023-09-20": 50798,
-  "2023-09-21": 50798,
-  "2023-09-22": 50798,
-  "2023-09-23": 50798,
-  "2023-09-24": 50798,
-  "2023-09-25": 50798,
-  "2023-09-26": 50798,
-  "2023-09-27": 50798,
-  "2023-09-28": 50798,
-  "2023-09-29": 50798,
-  "2023-09-30": 50798,
-  "2023-10-01": 50798,
-  "2023-10-02": 50798,
-  "2023-10-03": 50798,
-  "2023-10-04": 50798,
-  "2023-10-05": 50798,
-  "2023-10-06": 50798,
-  "2023-10-07": 50798,
-  "2023-10-08": 50798,
-  "2023-10-09": 50798,
-  "2023-10-10": 50798,
-  "2023-10-11": 50798,
-  "2023-10-12": 50798,
-  "2023-10-13": 50798,
-  "2023-10-14": 50798,
-  "2023-10-15": 50798,
-  "2023-10-16": 50798,
-  "2023-10-17": 50798,
-  "2023-10-18": 50798,
-  "2023-10-19": 50798,
-  "2023-10-20": 50798,
-  "2023-10-21": 50798,
-  "2023-10-22": 50798,
-  "2023-10-23": 50798,
-  "2023-10-24": 50798,
-  "2023-10-25": 50798,
-  "2023-10-26": 50798,
-  "2023-10-27": 50798,
-  "2023-10-28": 50798,
-  "2023-10-29": 50798,
-  "2023-10-30": 50798,
-  "2023-10-31": 50798,
-  "2023-11-01": 50798,
-  "2023-11-02": 50798,
-  "2023-11-03": 50798,
-  "2023-11-04": 50798,
-  "2023-11-05": 50798,
-  "2023-11-06": 50798,
-  "2023-11-07": 50798,
-  "2023-11-08": 50798,
-  "2023-11-09": 50798,
-  "2023-11-10": 50798,
-  "2023-11-11": 50798,
-  "2023-11-12": 50798,
-  "2023-11-13": 50798,
-  "2023-11-14": 50798,
-  "2023-11-15": 50798,
-  "2023-11-16": 50798,
-  "2023-11-17": 50798,
-  "2023-11-18": 50798,
-  "2023-11-19": 50798,
-  "2023-11-20": 50798,
-  "2023-11-21": 50798,
-  "2023-11-22": 50798,
-  "2023-11-23": 50798,
-  "2023-11-24": 50798,
-  "2023-11-25": 50798,
-  "2023-11-26": 50798,
-  "2023-11-27": 50798,
-  "2023-11-28": 50798,
-  "2023-11-29": 50798,
-  "2023-11-30": 50798,
-  "2023-12-01": 50798,
-  "2023-12-02": 50798,
-  "2023-12-03": 50798,
-  "2023-12-04": 50798,
-  "2023-12-05": 50798,
-  "2023-12-06": 50798,
-  "2023-12-07": 50798,
-  "2023-12-08": 50798,
-  "2023-12-09": 50798,
-  "2023-12-10": 50798,
-  "2023-12-11": 50798,
-  "2023-12-12": 50798,
-  "2023-12-13": 50798,
-  "2023-12-14": 50798,
-  "2023-12-15": 50798,
-  "2023-12-16": 50798,
-  "2023-12-17": 50798,
-  "2023-12-18": 50798,
-  "2023-12-19": 50798,
-  "2023-12-20": 50798,
-  "2023-12-21": 50798,
-  "2023-12-22": 50798,
-  "2023-12-23": 50798,
-  "2023-12-24": 50798,
-  "2023-12-25": 50798,
-  "2023-12-26": 50798,
-  "2023-12-27": 50798,
-  "2023-12-30": 50798,
-  "2023-12-31": 50798,
-  "2024-01-01": 50798,
-  "2024-01-02": 50798,
-  "2024-01-03": 50798
+  "2024-01-17": 50798,
+  "date_first_scraped": "2021-12-28",
+  "description": "The <a href=\"spotify:artist:0n94vC3S9c3mb2HyNAOcjg\">Seattle group</a>'s essential tracks, all in a single playlist.",
+  "name": "This Is: The Head and the Heart",
+  "tracks": [
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252306,
+      "name": "10,000 Weight in Gold",
+      "url": "https://open.spotify.com/track/62xoeztSUzgIBTQgbRBBRR"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "All We Ever Knew",
+      "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274200,
+      "name": "Another Story",
+      "url": "https://open.spotify.com/track/1JxNWpK9xTWKRPoYTIX4Qk"
+    },
+    {
+      "album": {
+        "name": "Stinson Beach Sessions",
+        "url": "https://open.spotify.com/album/4v48ZVHiC4bhrxSFTTbU7Z"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Bluebird - Stinson Beach Sessions",
+      "url": "https://open.spotify.com/track/6rhFJTRP9yta2psdMtvXGq"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115520,
+      "name": "Cats and Dogs",
+      "url": "https://open.spotify.com/track/65b63I81CnJHvUh9P23UfR"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "City of Angels",
+      "url": "https://open.spotify.com/track/7f5inCfL12gHegKR4PX1IH"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252133,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/028lsIzliUXufTSEIQi8Sx"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261786,
+      "name": "Couer d'Alene",
+      "url": "https://open.spotify.com/track/7pPpktBix6VFxm3D2pNSNK"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299866,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/2dQ1H8MijOvXWrbTccH3IW"
+    },
+    {
+      "album": {
+        "name": "Don't Dream It's Over",
+        "url": "https://open.spotify.com/album/41tuX6tPuCwAbFhQCGR720"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219517,
+      "name": "Don't Dream It's Over",
+      "url": "https://open.spotify.com/track/4b1hVHiZrltoXPDskF0mCp"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303653,
+      "name": "Down in the Valley",
+      "url": "https://open.spotify.com/track/5Gtn8HgCAo0TUiaKKgP6us"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192786,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4qUdbHlMC9sjzMmK5V7KiO"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247506,
+      "name": "False Alarm",
+      "url": "https://open.spotify.com/track/5Eioc2h0YdGVp3ah21nVdF"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255613,
+      "name": "Fire/Fear",
+      "url": "https://open.spotify.com/track/6vcWk9Y8QYa3eH2FmdgO8i"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258640,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/2mSuo3pB7VknzwD0WCS3RS"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386533,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/4dJgyzSITXurLeNUmtFix2"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340386,
+      "name": "Heaven Go Easy on Me",
+      "url": "https://open.spotify.com/track/0OTZSyRWCb8cYxGU2hWue4"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Homecoming Heroes",
+      "url": "https://open.spotify.com/track/7AKxE1QMDDzqAOnD3ocYKT"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Honey Come Home",
+      "url": "https://open.spotify.com/track/1uGPqR2OCNimv0kPiLmA35"
+    },
+    {
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196055,
+      "name": "Honeybee",
+      "url": "https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154173,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/4BNBfgSjKSVTagFBvtst7s"
+    },
+    {
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233039,
+      "name": "I Found Out",
+      "url": "https://open.spotify.com/track/2IxOGK5JJIhi2Alx5BA7oe"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313893,
+      "name": "Josh McBride",
+      "url": "https://open.spotify.com/track/0sULL7cDSxXnAB4WOZCz1o"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268346,
+      "name": "Let's Be Still",
+      "url": "https://open.spotify.com/track/5IJnj6Um7jVuRPT4WGj1z6"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "Library Magic",
+      "url": "https://open.spotify.com/track/4HjEsfSpWo8gvZMr9SA3a1"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259120,
+      "name": "Lost in My Mind",
+      "url": "https://open.spotify.com/track/3gvAGvbMCRvVDDp8ZaIPV5"
+    },
+    {
+      "album": {
+        "name": "Missed Connection",
+        "url": "https://open.spotify.com/album/0loOZXQoeYJ1IF7sjMCv56"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195312,
+      "name": "Missed Connection",
+      "url": "https://open.spotify.com/track/6cG99KcHVOlmQOiYcu6cjb"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/47Qc1fadXjZq6cHlfnQQni"
+    },
+    {
+      "album": {
+        "name": "Stinson Beach Sessions",
+        "url": "https://open.spotify.com/album/4v48ZVHiC4bhrxSFTTbU7Z"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "No Guarantees - Stinson Beach Sessions",
+      "url": "https://open.spotify.com/track/1HTFjJL5CV4lVUZ4YZ5kWC"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Oh My Dear",
+      "url": "https://open.spotify.com/track/1Or9E2Fl8W8V9R4XDk4xHX"
+    },
+    {
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252301,
+      "name": "People Need A Melody",
+      "url": "https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240253,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/5bAJhDTVCWVScr5Ev4LnB2"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284000,
+      "name": "Rivers and Roads",
+      "url": "https://open.spotify.com/track/4Q6Kuze3wNMQRjamyBjHUR"
+    },
+    {
+      "album": {
+        "name": "Living Mirage",
+        "url": "https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234365,
+      "name": "See You Through My Eyes",
+      "url": "https://open.spotify.com/track/2XBAkFYQyVNnwhGQVNxQKZ"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241706,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5m1L3o7fOfLFyw6VwumROL"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368746,
+      "name": "Signs of Light",
+      "url": "https://open.spotify.com/track/13KwrXEgb4lLzd0kP8Jiqf"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138383,
+      "name": "Simple Man - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "Sounds Like Hallelujah",
+      "url": "https://open.spotify.com/track/3ABYGT6fB6ocDDYZ7vj4lj"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53986,
+      "name": "Springtime",
+      "url": "https://open.spotify.com/track/2HByTBrd5X2HDCHg84bCCv"
+    },
+    {
+      "album": {
+        "name": "Let's Be Still",
+        "url": "https://open.spotify.com/album/1SUZhiJWtX4NKS0KChC0vf"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/1U6CUBeen5BH3Ss2S4aHnm"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221053,
+      "name": "Take a Walk",
+      "url": "https://open.spotify.com/track/4AQadviQto69JLxuPUdDgP"
+    },
+    {
+      "album": {
+        "name": "Spotify Session",
+        "url": "https://open.spotify.com/album/2NEs5bVvRsZdlFkF3XSad6"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295765,
+      "name": "These Days Are Numbered - Spotify Session",
+      "url": "https://open.spotify.com/track/2KyS3v43deiMKhRAIJXd4Z"
+    },
+    {
+      "album": {
+        "name": "Signs of Light",
+        "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223440,
+      "name": "Turn It Around",
+      "url": "https://open.spotify.com/track/0pnO4odeVQXDHMQOB6M4zv"
+    },
+    {
+      "album": {
+        "name": "The Head and the Heart",
+        "url": "https://open.spotify.com/album/0xWfhCMYmaiCXtLOuyPoLF"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163973,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/01NSrsQkOZ3PgRcGLGrOT5"
+    },
+    {
+      "album": {
+        "name": "Stinson Beach Sessions",
+        "url": "https://open.spotify.com/album/4v48ZVHiC4bhrxSFTTbU7Z"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "date_added": "2020-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Your Mother's Eyes - Stinson Beach Sessions",
+      "url": "https://open.spotify.com/track/4H8uLz1fhbKRLTttWIuvOk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6UeaeNdzizB"
 }

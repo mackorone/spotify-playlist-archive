@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-413 songs - 1 day 0 hr 24 min
+415 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-10-10\* | 2022-03-18 |
 | [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-07-20 |  |
 | [Beautiful James](https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b) | 4:08 | 2021-09-18 |  |
+| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-11 |  |
 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 | 2021-07-31 |  |
 | [Berrara](https://open.spotify.com/track/30N0hxlLlqc7DR6lqbcXUC) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Berrara](https://open.spotify.com/album/4FxznnLU3L7sjFH2K4eqOX) | 3:04 | 2020-11-03 | 2022-03-18 |
 | [Better](https://open.spotify.com/track/4JUMmZMufX0kLRMzRPi4Qv) | [Pandamic](https://open.spotify.com/artist/6Pz9ks8oUASukNF4ZzMWKX) | [How To Be Happy](https://open.spotify.com/album/0BuV0XxIG1VOQQYkc7ksZz) | 4:15 | 2021-10-29 |  |
@@ -145,6 +146,7 @@
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-11 |  |
 | [Hazy](https://open.spotify.com/track/1UwYheYpzp3PvBEoBmyFtd) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Hazy](https://open.spotify.com/album/433aNFBpLGYYqWzx5lY9b0) | 4:04 | 2021-09-10 |  |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-14 |  |
+| [Her World](https://open.spotify.com/track/1nlBWHWjHVrdjukChekg5K) | [Raintalker](https://open.spotify.com/artist/4F1DTiHCQnuKW8PDPSNzOC) | [Her World](https://open.spotify.com/album/3kyRqSYzOSbUcIf32LAXaR) | 3:13 | 2024-01-12 |  |
 | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/track/0klnCzWGjoRQBjoPYe44Gl) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t) | [Here Comes the End \(feat\. Judith Hill\)](https://open.spotify.com/album/6FiV1sKS2tKXj82g2iWEPv) | 3:31 | 2020-10-10\* | 2021-05-13 |
 | [High Life](https://open.spotify.com/track/4CQG6hPIFLbliWJpxHKmZH) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [High Life](https://open.spotify.com/album/1fBcgFClpfR9PpmmHPBbyS) | 2:54 | 2023-04-21 |  |
 | [High Time](https://open.spotify.com/track/37cUGI1BZADBtseJQJ4Nld) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Get Rollin'](https://open.spotify.com/album/660c34OZzJ4gUd0rXe8ARp) | 3:54 | 2022-11-18 |  |
@@ -366,7 +368,7 @@
 | [The Writing on the Wall](https://open.spotify.com/track/6KxDdy6asuOagDjO4fjE5Q) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [The Writing On The Wall](https://open.spotify.com/album/36ZBN6U0ENDWl6MsfBFdxN) | 6:13 | 2021-07-17 |  |
 | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/track/3XJySfQxLrk1nuHB3OUPs9) | [Wolf & Bear](https://open.spotify.com/artist/7DHLWUbPofoFR1yRFfgL5a), [Andrew Michael Wells](https://open.spotify.com/artist/4GasLQGNFJu8hUb6NiEE44) | [THERE'S NO DUST IN THE CITY \(feat\. Andrew Michael Wells\)](https://open.spotify.com/album/0sELNTcQOVostrzXOv70Bc) | 3:21 | 2023-08-18 |  |
 | [These Are the Ways](https://open.spotify.com/track/1KtXgVTeu3GUXHrOAef6QQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Unlimited Love](https://open.spotify.com/album/2ITVvrNiINKRiW7wA3w6w6) | 3:56 | 2022-04-01 |  |
-| [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
+| [THINK ABOUT ME](https://open.spotify.com/track/1gEUlsUL6inLvOSAxbzrsY) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [THINK ABOUT ME](https://open.spotify.com/album/6zd8CVcujUr4FRzDlUUNwx) | 3:24 | 2021-06-04 |  |
 | [This Is Why](https://open.spotify.com/track/7z84Fwf1R3Z2BwHCP620CI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/1BDj5lr0KVcSQpSNdyqJct) | 3:27 | 2022-09-29 |  |
 | [Those Days](https://open.spotify.com/track/5wEoNauEpwOc2rlU0274oT) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Those Days](https://open.spotify.com/album/2VpBMpnkXJIgvwGfRBX11K) | 3:39 | 2022-10-07 |  |
 | [Tiny Indoor Fireworks](https://open.spotify.com/track/5SvlfB8HuBSYpAIpCkRC3L) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Tiny Indoor Fireworks](https://open.spotify.com/album/15JQPwn3EouyzXeZ8gMQF5) | 3:15 | 2020-10-10\* | 2021-02-25 |
@@ -394,7 +396,7 @@
 | [Vulnerability](https://open.spotify.com/track/4mO3tgKhdb21D92dDmgnCR) | [Emma Dilemma](https://open.spotify.com/artist/0Bz8OzkEaUthdSiLdigKdm) | [Vulnerability](https://open.spotify.com/album/3G0PSYxUg6w3YRYn85XBsO) | 3:50 | 2022-01-14 |  |
 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 | 2021-11-04 |  |
 | [Wake Up, Sunshine](https://open.spotify.com/track/0xUvmXH7JO3klazeWlOyup) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:16 | 2020-10-10\* | 2021-05-13 |
-| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-07-02 |  |
+| [WANNA BE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/058pBOh77XQJNg3YWGr4jN) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:38 | 2021-07-02 |  |
 | [Wasted](https://open.spotify.com/track/6wVEXx241ZF7e4zYbMAhFp) | [The Hard Aches](https://open.spotify.com/artist/5GqFd0P1Vx3kbKyFxxTkqq) | [Wasted](https://open.spotify.com/album/1AeXkCpimGJ04xtj9BOOTD) | 3:06 | 2020-10-10\* | 2021-02-25 |
 | [We Are The Rest](https://open.spotify.com/track/6qgPkDmqXkxWlTq454NFmp) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/3AWgvwEqu6PqcWUcjqqddq) | 3:02 | 2023-09-15 |  |
 | [We Can't Be Tamed](https://open.spotify.com/track/2GygOAZfu7hG7WULOP0bCq) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:03 | 2021-09-11 |  |

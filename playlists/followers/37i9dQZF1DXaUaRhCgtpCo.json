@@ -1,735 +1,2611 @@
 {
-  "2021-12-25": 413224,
-  "2021-12-26": 413278,
-  "2021-12-27": 413393,
-  "2021-12-28": 413391,
-  "2021-12-29": 413449,
-  "2021-12-30": 413501,
-  "2021-12-31": 413529,
-  "2022-01-01": 413634,
-  "2022-01-02": 413668,
-  "2022-01-03": 413699,
-  "2022-01-04": 413776,
-  "2022-01-05": 413808,
-  "2022-01-06": 413911,
-  "2022-01-07": 414003,
-  "2022-01-08": 414158,
-  "2022-01-09": 414162,
-  "2022-01-10": 414230,
-  "2022-01-11": 414252,
-  "2022-01-12": 414321,
-  "2022-01-13": 414377,
-  "2022-01-14": 414447,
-  "2022-01-15": 414569,
-  "2022-01-16": 414577,
-  "2022-01-17": 414726,
-  "2022-01-18": 414736,
-  "2022-01-19": 414794,
-  "2022-01-20": 414855,
-  "2022-01-21": 414923,
-  "2022-01-22": 414978,
-  "2022-01-23": 415079,
-  "2022-01-24": 415176,
-  "2022-01-25": 415255,
-  "2022-01-26": 415342,
-  "2022-01-27": 415458,
-  "2022-01-28": 415563,
-  "2022-01-29": 415670,
-  "2022-01-30": 415815,
-  "2022-01-31": 415913,
-  "2022-02-01": 416010,
-  "2022-02-02": 416101,
-  "2022-02-03": 416192,
-  "2022-02-04": 416323,
-  "2022-02-05": 416452,
-  "2022-02-06": 416588,
-  "2022-02-07": 416708,
-  "2022-02-08": 416809,
-  "2022-02-09": 416920,
-  "2022-02-10": 417055,
-  "2022-02-11": 417201,
-  "2022-02-12": 417318,
-  "2022-02-13": 417492,
-  "2022-02-14": 417628,
-  "2022-02-15": 417692,
-  "2022-02-16": 417779,
-  "2022-02-17": 417901,
-  "2022-02-18": 417965,
-  "2022-02-19": 418070,
-  "2022-02-20": 418172,
-  "2022-02-21": 418297,
-  "2022-02-22": 418416,
-  "2022-02-23": 418474,
-  "2022-02-24": 418614,
-  "2022-02-25": 418703,
-  "2022-02-26": 418790,
-  "2022-02-27": 418983,
-  "2022-02-28": 418983,
-  "2022-03-01": 419080,
-  "2022-03-02": 419162,
-  "2022-03-03": 419250,
-  "2022-03-04": 419301,
-  "2022-03-05": 419372,
-  "2022-03-06": 419485,
-  "2022-03-07": 419552,
-  "2022-03-08": 419634,
-  "2022-03-09": 419703,
-  "2022-03-10": 419824,
-  "2022-03-11": 420033,
-  "2022-03-12": 420204,
-  "2022-03-13": 420357,
-  "2022-03-14": 420477,
-  "2022-03-15": 420587,
-  "2022-03-16": 420672,
-  "2022-03-17": 420785,
-  "2022-03-18": 420919,
-  "2022-03-19": 420975,
-  "2022-03-20": 420975,
-  "2022-03-21": 421182,
-  "2022-03-22": 421219,
-  "2022-03-23": 421292,
-  "2022-03-24": 421368,
-  "2022-03-25": 421446,
-  "2022-03-26": 421544,
-  "2022-03-27": 421654,
-  "2022-03-28": 421757,
-  "2022-03-30": 421940,
-  "2022-03-31": 422020,
-  "2022-04-01": 422129,
-  "2022-04-02": 422217,
-  "2022-04-03": 422324,
-  "2022-04-04": 422462,
-  "2022-04-05": 422606,
-  "2022-04-06": 422726,
-  "2022-04-07": 422847,
-  "2022-04-08": 422959,
-  "2022-04-09": 423070,
-  "2022-04-10": 423315,
-  "2022-04-11": 423428,
-  "2022-04-12": 423450,
-  "2022-04-13": 423550,
-  "2022-04-14": 423671,
-  "2022-04-15": 423816,
-  "2022-04-16": 423943,
-  "2022-04-17": 424078,
-  "2022-04-18": 424241,
-  "2022-04-19": 424341,
-  "2022-04-20": 424447,
-  "2022-04-21": 424549,
-  "2022-04-22": 424670,
-  "2022-04-23": 424786,
-  "2022-04-24": 424890,
-  "2022-04-25": 425035,
-  "2022-04-26": 425129,
-  "2022-04-27": 425244,
-  "2022-04-28": 425326,
-  "2022-04-29": 425512,
-  "2022-04-30": 425653,
-  "2022-05-01": 425812,
-  "2022-05-02": 425812,
-  "2022-05-03": 425933,
-  "2022-05-04": 426229,
-  "2022-05-05": 434258,
-  "2022-05-06": 436443,
-  "2022-05-07": 437405,
-  "2022-05-08": 438030,
-  "2022-05-09": 438088,
-  "2022-05-10": 438302,
-  "2022-05-11": 438445,
-  "2022-05-12": 438553,
-  "2022-05-13": 438668,
-  "2022-05-14": 438863,
-  "2022-05-15": 439023,
-  "2022-05-16": 439143,
-  "2022-05-17": 439245,
-  "2022-05-18": 439319,
-  "2022-05-19": 439390,
-  "2022-05-20": 439559,
-  "2022-05-21": 439785,
-  "2022-05-22": 439785,
-  "2022-05-23": 439919,
-  "2022-05-24": 440018,
-  "2022-05-25": 440114,
-  "2022-05-26": 440249,
-  "2022-05-27": 440443,
-  "2022-05-28": 440693,
-  "2022-05-29": 440923,
-  "2022-05-30": 441112,
-  "2022-05-31": 441267,
-  "2022-06-01": 441564,
-  "2022-06-02": 441587,
-  "2022-06-03": 441783,
-  "2022-06-04": 441979,
-  "2022-06-05": 442147,
-  "2022-06-06": 442320,
-  "2022-06-07": 442488,
-  "2022-06-08": 442676,
-  "2022-06-09": 442809,
-  "2022-06-10": 442930,
-  "2022-06-11": 443069,
-  "2022-06-12": 443229,
-  "2022-06-13": 443379,
-  "2022-06-14": 443504,
-  "2022-06-15": 443615,
-  "2022-06-16": 443737,
-  "2022-06-17": 443896,
-  "2022-06-18": 444033,
-  "2022-06-19": 444288,
-  "2022-06-20": 444288,
-  "2022-06-21": 444394,
-  "2022-06-22": 444647,
-  "2022-06-23": 444647,
-  "2022-06-24": 444831,
-  "2022-06-25": 444998,
-  "2022-06-26": 445150,
-  "2022-06-27": 445317,
-  "2022-06-28": 445475,
-  "2022-06-29": 445633,
-  "2022-06-30": 445801,
-  "2022-07-01": 445917,
-  "2022-07-02": 446053,
-  "2022-07-03": 446155,
-  "2022-07-04": 446259,
-  "2022-07-05": 446389,
-  "2022-07-06": 446478,
-  "2022-07-07": 446584,
-  "2022-07-08": 446700,
-  "2022-07-09": 446784,
-  "2022-07-10": 446871,
-  "2022-07-11": 446969,
-  "2022-07-12": 447060,
-  "2022-07-13": 447145,
-  "2022-07-14": 447236,
-  "2022-07-15": 447308,
-  "2022-07-16": 447355,
-  "2022-07-17": 447440,
-  "2022-07-18": 447508,
-  "2022-07-19": 447574,
-  "2022-07-20": 447638,
-  "2022-07-21": 447710,
-  "2022-07-22": 447776,
-  "2022-07-23": 447872,
-  "2022-07-24": 447964,
-  "2022-07-25": 448009,
-  "2022-07-26": 448069,
-  "2022-07-27": 448142,
-  "2022-07-28": 448211,
-  "2022-07-29": 448298,
-  "2022-07-30": 448426,
-  "2022-07-31": 448426,
-  "2022-08-01": 448484,
-  "2022-08-02": 448607,
-  "2022-08-03": 448607,
-  "2022-08-04": 448653,
-  "2022-08-05": 448700,
-  "2022-08-06": 448774,
-  "2022-08-07": 448854,
-  "2022-08-08": 448912,
-  "2022-08-09": 448964,
-  "2022-08-10": 449024,
-  "2022-08-11": 449068,
-  "2022-08-12": 449138,
-  "2022-08-13": 449191,
-  "2022-08-14": 449231,
-  "2022-08-15": 449315,
-  "2022-08-16": 449363,
-  "2022-08-17": 449392,
-  "2022-08-18": 449430,
-  "2022-08-19": 449467,
-  "2022-08-20": 449527,
-  "2022-08-21": 449550,
-  "2022-08-22": 449604,
-  "2022-08-23": 449664,
-  "2022-08-24": 449716,
-  "2022-08-25": 449776,
-  "2022-08-26": 449831,
-  "2022-08-27": 449902,
-  "2022-08-28": 449970,
-  "2022-08-29": 449998,
-  "2022-08-30": 449920,
-  "2022-08-31": 449681,
-  "2022-09-01": 449416,
-  "2022-09-02": 449138,
-  "2022-09-03": 448659,
-  "2022-09-04": 448489,
-  "2022-09-05": 448485,
-  "2022-09-06": 448521,
-  "2022-09-07": 448572,
-  "2022-09-09": 448651,
-  "2022-09-10": 448696,
-  "2022-09-11": 448758,
-  "2022-09-12": 448801,
-  "2022-09-13": 448815,
-  "2022-09-15": 448866,
-  "2022-09-16": 448934,
-  "2022-09-17": 449003,
-  "2022-09-18": 449083,
-  "2022-09-19": 449157,
-  "2022-09-20": 449234,
-  "2022-09-21": 449299,
-  "2022-09-22": 449365,
-  "2022-09-23": 449422,
-  "2022-09-24": 449486,
-  "2022-09-25": 449591,
-  "2022-09-26": 449701,
-  "2022-09-27": 449778,
-  "2022-09-28": 449970,
-  "2022-09-29": 450143,
-  "2022-09-30": 450235,
-  "2022-10-01": 450324,
-  "2022-10-02": 450436,
-  "2022-10-03": 450493,
-  "2022-10-04": 450625,
-  "2022-10-05": 450707,
-  "2022-10-06": 450772,
-  "2022-10-07": 450833,
-  "2022-10-08": 450882,
-  "2022-10-09": 450986,
-  "2022-10-10": 450990,
-  "2022-10-11": 451044,
-  "2022-10-12": 451088,
-  "2022-10-13": 451127,
-  "2022-10-14": 451174,
-  "2022-10-15": 451242,
-  "2022-10-16": 451328,
-  "2022-10-17": 451388,
-  "2022-10-18": 451436,
-  "2022-10-19": 451466,
-  "2022-10-20": 451492,
-  "2022-10-21": 451552,
-  "2022-10-22": 451608,
-  "2022-10-23": 451669,
-  "2022-10-24": 451740,
-  "2022-10-25": 451760,
-  "2022-10-26": 451796,
-  "2022-10-27": 451857,
-  "2022-10-28": 451888,
-  "2022-10-29": 451972,
-  "2022-10-30": 452073,
-  "2022-10-31": 452161,
-  "2022-11-01": 452263,
-  "2022-11-02": 452309,
-  "2022-11-03": 452372,
-  "2022-11-04": 452425,
-  "2022-11-05": 452479,
-  "2022-11-06": 452560,
-  "2022-11-07": 452653,
-  "2022-11-08": 452706,
-  "2022-11-09": 452754,
-  "2022-11-10": 452822,
-  "2022-11-11": 452903,
-  "2022-11-12": 453017,
-  "2022-11-13": 453090,
-  "2022-11-14": 453182,
-  "2022-11-15": 453245,
-  "2022-11-16": 453323,
-  "2022-11-17": 453375,
-  "2022-11-18": 453370,
-  "2022-11-19": 453371,
-  "2022-11-20": 453426,
-  "2022-11-21": 453526,
-  "2022-11-22": 453605,
-  "2022-11-23": 453677,
-  "2022-11-24": 453908,
-  "2022-11-25": 454082,
-  "2022-11-26": 454176,
-  "2022-11-27": 454280,
-  "2022-11-28": 454365,
-  "2022-11-29": 454437,
-  "2022-11-30": 454528,
-  "2022-12-01": 454594,
-  "2022-12-02": 454604,
-  "2022-12-03": 454716,
-  "2022-12-04": 454768,
-  "2022-12-05": 454835,
-  "2022-12-06": 454907,
-  "2022-12-07": 454986,
-  "2022-12-08": 455093,
-  "2022-12-09": 455212,
-  "2022-12-10": 455299,
-  "2022-12-11": 455418,
-  "2022-12-12": 455518,
-  "2022-12-13": 456601,
-  "2022-12-14": 457533,
-  "2022-12-15": 458102,
-  "2022-12-16": 458500,
-  "2022-12-17": 458807,
-  "2022-12-18": 459102,
-  "2022-12-19": 459299,
-  "2022-12-20": 459432,
-  "2022-12-21": 459432,
-  "2022-12-22": 459475,
-  "2022-12-24": 460707,
-  "2022-12-25": 460777,
-  "2022-12-26": 460872,
-  "2022-12-27": 460932,
-  "2022-12-28": 460963,
-  "2022-12-29": 461010,
-  "2022-12-30": 461037,
-  "2022-12-31": 461096,
-  "2023-01-01": 461143,
-  "2023-01-02": 461160,
-  "2023-01-03": 461206,
-  "2023-01-04": 461241,
-  "2023-01-05": 461293,
-  "2023-01-06": 461312,
-  "2023-01-07": 461383,
-  "2023-01-08": 461388,
-  "2023-01-09": 461430,
-  "2023-01-10": 461450,
-  "2023-01-11": 461501,
-  "2023-01-12": 461532,
-  "2023-01-13": 461549,
-  "2023-01-14": 461648,
-  "2023-01-15": 461655,
-  "2023-01-16": 461694,
-  "2023-01-17": 461721,
-  "2023-01-18": 461783,
-  "2023-01-19": 461869,
-  "2023-01-20": 461934,
-  "2023-01-21": 461975,
-  "2023-01-22": 462044,
-  "2023-01-23": 462102,
-  "2023-01-24": 462129,
-  "2023-01-25": 462177,
-  "2023-01-26": 462235,
-  "2023-01-27": 462271,
-  "2023-01-28": 462301,
-  "2023-01-29": 462374,
-  "2023-01-30": 462421,
-  "2023-01-31": 462421,
-  "2023-02-01": 462492,
-  "2023-02-02": 462523,
-  "2023-02-03": 462572,
-  "2023-02-04": 462628,
-  "2023-02-05": 462681,
-  "2023-02-06": 462712,
-  "2023-02-07": 462747,
-  "2023-02-08": 462817,
-  "2023-02-09": 462817,
-  "2023-02-10": 462838,
-  "2023-02-11": 462887,
-  "2023-02-12": 462954,
-  "2023-02-13": 462970,
-  "2023-02-14": 462970,
-  "2023-02-15": 462982,
-  "2023-02-16": 463001,
-  "2023-02-17": 463027,
-  "2023-02-18": 463119,
-  "2023-02-19": 463127,
-  "2023-02-20": 463156,
-  "2023-02-21": 463163,
-  "2023-02-22": 463201,
-  "2023-02-23": 463242,
-  "2023-02-24": 463273,
-  "2023-02-25": 463335,
-  "2023-02-26": 463370,
-  "2023-02-27": 463460,
-  "2023-02-28": 463460,
-  "2023-03-01": 463496,
-  "2023-03-02": 463565,
-  "2023-03-03": 463625,
-  "2023-03-04": 463667,
-  "2023-03-05": 463724,
-  "2023-03-06": 463724,
-  "2023-03-07": 463752,
-  "2023-03-08": 463803,
-  "2023-03-09": 463844,
-  "2023-03-10": 463875,
-  "2023-03-11": 463922,
-  "2023-03-12": 463983,
-  "2023-03-13": 464039,
-  "2023-03-14": 464065,
-  "2023-03-15": 464119,
-  "2023-03-16": 464169,
-  "2023-03-17": 464169,
-  "2023-03-18": 464312,
-  "2023-03-19": 464373,
-  "2023-03-20": 464436,
-  "2023-03-21": 464469,
-  "2023-03-22": 464532,
-  "2023-03-23": 464570,
-  "2023-03-24": 464570,
-  "2023-03-25": 464654,
-  "2023-03-26": 464699,
-  "2023-03-27": 464754,
-  "2023-03-28": 464781,
-  "2023-03-29": 464811,
-  "2023-03-30": 464915,
-  "2023-03-31": 464915,
-  "2023-04-01": 464962,
-  "2023-04-02": 465016,
-  "2023-04-03": 465095,
-  "2023-04-04": 465134,
-  "2023-04-05": 465169,
-  "2023-04-06": 465223,
-  "2023-04-07": 465274,
-  "2023-04-09": 465415,
-  "2023-04-10": 465462,
-  "2023-04-11": 465572,
-  "2023-04-12": 465572,
-  "2023-04-13": 465610,
-  "2023-04-14": 465658,
-  "2023-04-15": 465703,
-  "2023-04-16": 465760,
-  "2023-04-17": 465802,
-  "2023-04-18": 465875,
-  "2023-04-19": 465948,
-  "2023-04-20": 466034,
-  "2023-04-21": 466131,
-  "2023-04-22": 466190,
-  "2023-04-23": 466258,
-  "2023-04-24": 466317,
-  "2023-04-25": 466370,
-  "2023-04-26": 466438,
-  "2023-04-27": 466493,
-  "2023-04-28": 466599,
-  "2023-04-29": 466700,
-  "2023-04-30": 466823,
-  "2023-05-01": 466972,
-  "2023-05-02": 467061,
-  "2023-05-03": 467409,
-  "2023-05-04": 468298,
-  "2023-05-05": 477628,
-  "2023-05-06": 479239,
-  "2023-05-07": 479738,
-  "2023-05-08": 480041,
-  "2023-05-09": 480317,
-  "2023-05-10": 480536,
-  "2023-05-11": 480694,
-  "2023-05-12": 480904,
-  "2023-05-13": 481054,
-  "2023-05-14": 481275,
-  "2023-05-15": 481440,
-  "2023-05-16": 481575,
-  "2023-05-17": 481725,
-  "2023-05-18": 481868,
-  "2023-05-19": 482025,
-  "2023-05-20": 482227,
-  "2023-05-21": 482227,
-  "2023-05-22": 482227,
-  "2023-05-23": 482356,
-  "2023-05-24": 482528,
-  "2023-05-25": 482560,
-  "2023-05-26": 482636,
-  "2023-05-27": 482708,
-  "2023-05-28": 482802,
-  "2023-05-29": 482802,
-  "2023-05-30": 482957,
-  "2023-05-31": 483018,
-  "2023-06-01": 483052,
-  "2023-06-02": 483091,
-  "2023-06-03": 483127,
-  "2023-06-04": 483180,
-  "2023-06-05": 483228,
-  "2023-06-06": 483295,
-  "2023-06-07": 483355,
-  "2023-06-08": 483438,
-  "2023-06-09": 483471,
-  "2023-06-10": 483530,
-  "2023-06-11": 483584,
-  "2023-06-12": 483654,
-  "2023-06-13": 483674,
-  "2023-06-14": 483713,
-  "2023-06-15": 483753,
-  "2023-06-16": 483801,
-  "2023-06-17": 483845,
-  "2023-06-18": 483891,
-  "2023-06-19": 483937,
-  "2023-06-20": 483967,
-  "2023-06-21": 483987,
-  "2023-06-22": 483991,
-  "2023-06-23": 484015,
-  "2023-06-24": 484033,
-  "2023-06-25": 484078,
-  "2023-06-26": 484122,
-  "2023-06-27": 484154,
-  "2023-06-28": 484172,
-  "2023-06-29": 484206,
-  "2023-06-30": 484240,
-  "2023-07-01": 484340,
-  "2023-07-02": 484340,
-  "2023-07-03": 484380,
-  "2023-07-04": 484441,
-  "2023-07-05": 484502,
-  "2023-07-06": 484615,
-  "2023-07-07": 484615,
-  "2023-07-08": 484618,
-  "2023-07-09": 484626,
-  "2023-07-10": 484677,
-  "2023-07-11": 484714,
-  "2023-07-12": 484750,
-  "2023-07-13": 484777,
-  "2023-07-14": 484827,
-  "2023-07-15": 484839,
-  "2023-07-16": 484887,
-  "2023-07-17": 484938,
-  "2023-07-18": 484973,
-  "2023-07-19": 485011,
-  "2023-07-20": 485024,
-  "2023-07-21": 485041,
-  "2023-07-22": 485079,
-  "2023-07-23": 485116,
-  "2023-07-24": 485116,
-  "2023-07-25": 485144,
-  "2023-07-26": 485178,
-  "2023-07-27": 485204,
-  "2023-07-28": 485237,
-  "2023-07-29": 485285,
-  "2023-07-30": 485324,
-  "2023-07-31": 485367,
-  "2023-08-01": 485414,
-  "2023-08-02": 485439,
-  "2023-08-03": 485472,
-  "2023-08-04": 485519,
-  "2023-08-05": 485551,
-  "2023-08-06": 485653,
-  "2023-08-07": 485653,
-  "2023-08-08": 485672,
-  "2023-08-09": 485703,
-  "2023-08-10": 485738,
-  "2023-08-11": 485755,
-  "2023-08-12": 485782,
-  "2023-08-13": 485826,
-  "2023-08-14": 485857,
-  "2023-08-15": 485882,
-  "2023-08-16": 485882,
-  "2023-08-17": 485921,
-  "2023-08-18": 485929,
-  "2023-08-19": 485959,
-  "2023-08-20": 485990,
-  "2023-08-21": 486044,
-  "2023-08-22": 486068,
-  "2023-08-23": 486087,
-  "2023-08-24": 486142,
-  "2023-08-25": 486179,
-  "2023-08-26": 486225,
-  "2023-08-27": 486279,
-  "2023-08-28": 486331,
-  "2023-08-29": 486381,
-  "2023-08-30": 486415,
-  "2023-08-31": 486448,
-  "2023-09-01": 486546,
-  "2023-09-02": 486546,
-  "2023-09-03": 486592,
-  "2023-09-04": 486660,
-  "2023-09-05": 486713,
-  "2023-09-06": 486759,
-  "2023-09-07": 486810,
-  "2023-09-08": 486876,
-  "2023-09-09": 486958,
-  "2023-09-10": 487056,
-  "2023-09-11": 487130,
-  "2023-09-12": 487201,
-  "2023-09-13": 487294,
-  "2023-09-14": 487418,
-  "2023-09-15": 487540,
-  "2023-09-16": 487649,
-  "2023-09-17": 487745,
-  "2023-09-18": 487881,
-  "2023-09-19": 487995,
-  "2023-09-20": 488084,
-  "2023-09-21": 488233,
-  "2023-09-22": 488359,
-  "2023-09-23": 488458,
-  "2023-09-24": 488563,
-  "2023-09-25": 488647,
-  "2023-09-26": 488742,
-  "2023-09-27": 488815,
-  "2023-09-28": 488924,
-  "2023-09-29": 489010,
-  "2023-09-30": 489095,
-  "2023-10-01": 489185,
-  "2023-10-02": 489251,
-  "2023-10-03": 489305,
-  "2023-10-04": 489387,
-  "2023-10-05": 489476,
-  "2023-10-06": 489582,
-  "2023-10-07": 489653,
-  "2023-10-08": 489757,
-  "2023-10-09": 489814,
-  "2023-10-10": 489555,
-  "2023-10-11": 489357,
-  "2023-10-12": 489357,
-  "2023-10-13": 489156,
-  "2023-10-14": 489156,
-  "2023-10-15": 489025,
-  "2023-10-16": 489069,
-  "2023-10-17": 489129,
-  "2023-10-18": 489138,
-  "2023-10-19": 489159,
-  "2023-10-20": 489189,
-  "2023-10-21": 489249,
-  "2023-10-22": 489300,
-  "2023-10-23": 489343,
-  "2023-10-24": 489384,
-  "2023-10-25": 489446,
-  "2023-10-26": 489490,
-  "2023-10-27": 489535,
-  "2023-10-28": 489535,
-  "2023-10-29": 489535,
-  "2023-10-30": 489663,
-  "2023-10-31": 489663,
-  "2023-11-01": 489787,
-  "2023-11-02": 489836,
-  "2023-11-03": 489867,
-  "2023-11-04": 489867,
-  "2023-11-05": 489867,
-  "2023-11-06": 489967,
-  "2023-11-07": 490000,
-  "2023-11-08": 490027,
-  "2023-11-09": 490027,
-  "2023-11-10": 490111,
-  "2023-11-11": 490156,
-  "2023-11-12": 490207,
-  "2023-11-13": 490237,
-  "2023-11-14": 490274,
-  "2023-11-15": 490274,
-  "2023-11-16": 490331,
-  "2023-11-17": 490410,
-  "2023-11-18": 490410,
-  "2023-11-19": 490445,
-  "2023-11-20": 490445,
-  "2023-11-21": 490519,
-  "2023-11-22": 490536,
-  "2023-11-23": 490559,
-  "2023-11-24": 490559,
-  "2023-11-25": 490650,
-  "2023-11-26": 490650,
-  "2023-11-27": 490722,
-  "2023-11-28": 490745,
-  "2023-11-29": 490740,
-  "2023-11-30": 490740,
-  "2023-12-01": 490740,
-  "2023-12-02": 490734,
-  "2023-12-03": 490773,
-  "2023-12-04": 490773,
-  "2023-12-05": 490834,
-  "2023-12-06": 490851,
-  "2023-12-07": 490902,
-  "2023-12-08": 490902,
-  "2023-12-09": 490948,
-  "2023-12-10": 490948,
-  "2023-12-11": 491019,
-  "2023-12-12": 491019,
-  "2023-12-13": 491070,
-  "2023-12-14": 491116,
-  "2023-12-15": 491100,
-  "2023-12-16": 491132,
-  "2023-12-17": 491146,
-  "2023-12-18": 491171,
-  "2023-12-19": 491154,
-  "2023-12-20": 491187,
-  "2023-12-21": 491194,
-  "2023-12-22": 491205,
-  "2023-12-23": 491239,
-  "2023-12-24": 491261,
-  "2023-12-25": 491280,
-  "2023-12-26": 491324,
-  "2023-12-27": 491372,
-  "2023-12-30": 491495,
-  "2023-12-31": 491533,
-  "2024-01-01": 491576,
-  "2024-01-02": 491618,
-  "2024-01-03": 491627
+  "2024-01-17": 490478,
+  "date_first_scraped": "2021-12-21",
+  "description": "May the Force be with you. Listen to all the best Star Wars tracks, all in one place. ",
+  "name": "Best of Star Wars",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Mandalorian: Season 3 - Vol. 1 (Chapters 17-20) [Original Score]",
+        "url": "https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214631,
+      "name": "A Castle",
+      "url": "https://open.spotify.com/track/4pzG7RTbaEMug1aR3guLDl"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "A New Alliance",
+      "url": "https://open.spotify.com/track/2Q1MtRb1XIJ9bD5q2SIHtH"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333346,
+      "name": "Across the Stars (Love Theme from \"Star Wars: Attack of the Clones\")",
+      "url": "https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
+      },
+      "artists": [
+        {
+          "name": "A-bee",
+          "url": "https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148672,
+      "name": "Adventure",
+      "url": "https://open.spotify.com/track/3AP3GrI8DwcMK7lX8x5aiX"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262186,
+      "name": "Ahch-To Island",
+      "url": "https://open.spotify.com/track/1FFYCAWFz9drun5Br4w5Kk"
+    },
+    {
+      "album": {
+        "name": "Ahsoka - End Credits (From \"Ahsoka\")",
+        "url": "https://open.spotify.com/album/71DGL0E8WZ0BAkVFOV3bIx"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223189,
+      "name": "Ahsoka - End Credits - From \"Ahsoka\"",
+      "url": "https://open.spotify.com/track/12RRnmIMkMDViOjYd5k2iy"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180217,
+      "name": "Ahsoka and the Martez Sisters",
+      "url": "https://open.spotify.com/track/0hd8rk3WUINYVbdfsu1CqH"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Ahsoka Leaves",
+      "url": "https://open.spotify.com/track/2MhsbNixSxMiitxzlFR22o"
+    },
+    {
+      "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167218,
+      "name": "Ahsoka's Village",
+      "url": "https://open.spotify.com/track/4aXx6JRcvuGiwVxxNjvVvy"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "Anakin vs. Obi-Wan",
+      "url": "https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245320,
+      "name": "Anakin's Betrayal",
+      "url": "https://open.spotify.com/track/4sLtmtKMmA5iCIa90tWhSe"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244226,
+      "name": "Anakin's Dark Deeds",
+      "url": "https://open.spotify.com/track/7E7lRhO18SHKnX3wzgp5kN"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187586,
+      "name": "Anakin's Theme",
+      "url": "https://open.spotify.com/track/61ny12xki8cVUKP46nXp6Z"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77520,
+      "name": "Andor (Main Title Theme) - Episode 1",
+      "url": "https://open.spotify.com/track/3DsfQmoME4Fe6d4L7H2FJi"
+    },
+    {
+      "album": {
+        "name": "Main Title Themes (Episodes 1-3) [From \"Andor\"]",
+        "url": "https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 77800,
+      "name": "Andor (Main Title Theme) - Episode 1",
+      "url": "https://open.spotify.com/track/6OTgul0hKh5GuAwvHA6Z3x"
+    },
+    {
+      "album": {
+        "name": "Main Title Themes (Episodes 1-3) [From \"Andor\"]",
+        "url": "https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 49920,
+      "name": "Andor (Main Title Theme) - Episode 2",
+      "url": "https://open.spotify.com/track/4SxT40S7bBdHg8iSTYUpTq"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51613,
+      "name": "Andor (Main Title Theme) - Episode 2",
+      "url": "https://open.spotify.com/track/6U3O3ecHuLSiBQYLuc5dK8"
+    },
+    {
+      "album": {
+        "name": "Main Title Themes (Episodes 1-3) [From \"Andor\"]",
+        "url": "https://open.spotify.com/album/0nCyL6BwJyIO8ZuudQg6md"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 39453,
+      "name": "Andor (Main Title Theme) - Episode 3",
+      "url": "https://open.spotify.com/track/3nN7Ayfj2ukwgnprat3JjI"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39866,
+      "name": "Andor (Main Title Theme) - Episode 3",
+      "url": "https://open.spotify.com/track/38SyCdeH9rPBzsAwnrqDW1"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 1 (Episodes 1-4) [Original Score]",
+        "url": "https://open.spotify.com/album/6qvx9oBfEE8N5KshTZBD81"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46493,
+      "name": "Andor (Main Title Theme) - Episode 4",
+      "url": "https://open.spotify.com/track/5ZONUuFfVPVp7tfqvyB4Bx"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68040,
+      "name": "Andor (Main Title Theme) - Episode 5",
+      "url": "https://open.spotify.com/track/0zTw9ipJFr3JrVfPtQYoap"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50147,
+      "name": "Andor (Main Title Theme) - Episode 6",
+      "url": "https://open.spotify.com/track/436gHcmjvyp6GkwfWcJc9Z"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58097,
+      "name": "Andor (Main Title Theme) - Episode 7",
+      "url": "https://open.spotify.com/track/4pFFwznYDDnaNSdsRTN2pn"
+    },
+    {
+      "album": {
+        "name": "Andor: Vol. 2 (Episodes 5-8) [Original Score]",
+        "url": "https://open.spotify.com/album/3qsR9RjRJ4oicjlR77oJpT"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50880,
+      "name": "Andor (Main Title Theme) - Episode 8",
+      "url": "https://open.spotify.com/track/6LRpn5LdxiVy9tNXraTamS"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120085,
+      "name": "Anthem of Imperial (Am's Theme)",
+      "url": "https://open.spotify.com/track/4nVX4iK27SpoFaPDqh7CFZ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129231,
+      "name": "Bad Batch Heroics",
+      "url": "https://open.spotify.com/track/664NeBjmpNyEXPNPjB3Zvl"
+    },
+    {
+      "album": {
+        "name": "Bad Batch Theme (From \"Star Wars: The Clone Wars - The Final Season\")",
+        "url": "https://open.spotify.com/album/7cTFtIj93bFLmGxhgpEZ6i"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120122,
+      "name": "Bad Batch Theme - From \"Star Wars: The Clone Wars - The Final Season\"",
+      "url": "https://open.spotify.com/track/5u4B5vUi7cVqcuoKjgCVkg"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150356,
+      "name": "Battle for Mos Espa",
+      "url": "https://open.spotify.com/track/0CN8D4RBp2qbDijxLuhERA"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Battle of the Heroes",
+      "url": "https://open.spotify.com/track/1u3nu8fNWFua6mQjw4ReEt"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72030,
+      "name": "Battle Rela",
+      "url": "https://open.spotify.com/track/5JniadiDSQ28PEvcUQDYmW"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225187,
+      "name": "Boba's Throne",
+      "url": "https://open.spotify.com/track/5dHi50VL84X1SboMkXz4D7"
+    },
+    {
+      "album": {
+        "name": "Cantina Band",
+        "url": "https://open.spotify.com/album/3cHajBszGLiZRY2kmaAoXo"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140083,
+      "name": "Cantina Band",
+      "url": "https://open.spotify.com/track/69EcXnxVVPb6Uz0Py7Wvcu"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164306,
+      "name": "Cantina Band",
+      "url": "https://open.spotify.com/track/5ZSAdkQb23NPIcUGt6exdm"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist #1",
+        "url": "https://open.spotify.com/album/2UaqneQVFLgZ65ymj8h3Aj"
+      },
+      "artists": [
+        {
+          "name": "R3X",
+          "url": "https://open.spotify.com/artist/3VIzopkfBcSr8aZWElLH4P"
+        },
+        {
+          "name": "Figrin D'an and the Modal Nodes",
+          "url": "https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174410,
+      "name": "Cantina Song aka Mad About Mad About Me",
+      "url": "https://open.spotify.com/track/03BiEbsMRrMkTNkgK5Bout"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Canto Bight",
+      "url": "https://open.spotify.com/track/52hMydaS1ld25uY0wI1sHW"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189738,
+      "name": "Crabs Attack",
+      "url": "https://open.spotify.com/track/0ZamBBcUzHNMISCI3GJzYv"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114546,
+      "name": "Dice & Roll",
+      "url": "https://open.spotify.com/track/1k9RJ8bFFyT41s3FvUGSFP"
+    },
+    {
+      "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163989,
+      "name": "Dooku Arrives",
+      "url": "https://open.spotify.com/track/2peyQLkWFqjrMg49gGI0oQ"
+    },
+    {
+      "album": {
+        "name": "Tales of the Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0itmHqj2SWH5N83qnXIRvQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195740,
+      "name": "Dooku vs Yaddle",
+      "url": "https://open.spotify.com/track/1fB7z2N3B0uN0WGXVw1lHR"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
+    },
+    {
+      "album": {
+        "name": "Enter the Bad Batch (From \"Star Wars: The Bad Batch\")",
+        "url": "https://open.spotify.com/album/3LWyxWlbxnBdru77X1GrEQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100817,
+      "name": "Enter the Bad Batch - From \"Star Wars: The Bad Batch\"/Score",
+      "url": "https://open.spotify.com/track/7B7ntJ0B84LVY1CljRSB0o"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1gt4PAxdMmq5DUV7tyuNxx"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481173,
+      "name": "Ewok Celebration and Finale",
+      "url": "https://open.spotify.com/track/4f6pN7FdZ0RZiNGAAEyAux"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128757,
+      "name": "Fennec and Boba",
+      "url": "https://open.spotify.com/track/2EgQoaZnFe59ST1PdgJbNH"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Fields of Dusk - Orchestral Version",
+      "url": "https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253073,
+      "name": "Final Showdown",
+      "url": "https://open.spotify.com/track/4Ncz6bE3nq4YNGNJp3A7cB"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 651826,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/1lL5wgXpI3Wwn6Am13dQIj"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383360,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/27xA5HEUnWPBDo0z4hcDq1"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
+      },
+      "artists": [
+        {
+          "name": "Scott Michael Smith",
+          "url": "https://open.spotify.com/artist/4LYiDqIcfoYmeK2JtPq1rh"
+        },
+        {
+          "name": "Michael Dean Parsons",
+          "url": "https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126933,
+      "name": "First Day of Filming",
+      "url": "https://open.spotify.com/track/2eBhvMECBUGdt9VfkLdCyl"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - AKAKIRI (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2e1Qn8RDyLclqvLf0VINPR"
+      },
+      "artists": [
+        {
+          "name": "U-zhaan",
+          "url": "https://open.spotify.com/artist/0CDt5nfGQ8it4IerQwquMS"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41710,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/2TveaBL9SwE5ERQP9HtwE5"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170837,
+      "name": "Flying Is a Feeling",
+      "url": "https://open.spotify.com/track/2hM7evxI96ObLXdsNhYLuw"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "Flying with Chewie",
+      "url": "https://open.spotify.com/track/0qRkmCnPdsIWnXWHhSxGEe"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196565,
+      "name": "For MY Family",
+      "url": "https://open.spotify.com/track/6Jxe3v2gAydPT9dXG0TXPh"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139280,
+      "name": "From the Desert Comes a Stranger",
+      "url": "https://open.spotify.com/track/6iyfu6nJcOc8isLkonltUV"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "Fun With Finn and Rose",
+      "url": "https://open.spotify.com/track/6kchN107n8XZul4ZkBhvCn"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
+      },
+      "artists": [
+        {
+          "name": "Nonpe",
+          "url": "https://open.spotify.com/artist/18dBodXqnQFoktjaBtBrM0"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123208,
+      "name": "Galactic Dreamer",
+      "url": "https://open.spotify.com/track/6eukKVQ3OA8bsfAdTsX3lH"
+    },
+    {
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Guardians of the Whills Suite",
+      "url": "https://open.spotify.com/track/5A2mIs9L0Cqqg1b5FHuDf8"
+    },
+    {
+      "album": {
+        "name": "Ahsoka - Vol. 1 (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3UYSy8n74TBm3sYMpS7QpN"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "Sarah Tudzin",
+          "url": "https://open.spotify.com/artist/50jHNoKhNztaQ8Q4KpgvbV"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170130,
+      "name": "Igyah Kah",
+      "url": "https://open.spotify.com/track/0PAAvfnD7uzg1mXW6cI6tx"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378320,
+      "name": "Imperial Attack",
+      "url": "https://open.spotify.com/track/3KVsq9veMUESIb3ln7Rowv"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "Inquisitors' Hunt",
+      "url": "https://open.spotify.com/track/2vFMaqgyFB3PZMnC3AI3vZ"
+    },
+    {
+      "album": {
+        "name": "Jabba Flow (From \"Star Wars: The Force Awakens\")",
+        "url": "https://open.spotify.com/album/0InGiWEfdNJP4YP4Axrvna"
+      },
+      "artists": [
+        {
+          "name": "Shag Kava",
+          "url": "https://open.spotify.com/artist/6FaemkK7TGHziDP6UGijh3"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98413,
+      "name": "Jabba Flow - From \"Star Wars: The Force Awakens\"",
+      "url": "https://open.spotify.com/track/0UO2Vjeo0H3LB9eVeOUmOf"
+    },
+    {
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351666,
+      "name": "Jyn Erso & Hope Suite",
+      "url": "https://open.spotify.com/track/4tD2tUs8Bf4X5dMS6CxccV"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227120,
+      "name": "Kara and Father",
+      "url": "https://open.spotify.com/track/5diAxn9AwjFu4xLe8YDXT3"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121440,
+      "name": "Kylo Ren Arrives at the Battle",
+      "url": "https://open.spotify.com/track/4iMmW8NcVFU5ytJkHa6IbA"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196600,
+      "name": "L3 & Millennium Falcon",
+      "url": "https://open.spotify.com/track/3eAQQB5gp7ckbsbnbyq7x8"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170444,
+      "name": "Leaving Kamino",
+      "url": "https://open.spotify.com/track/3vUf87AxnftaJiEYAjUmg2"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
+      },
+      "artists": [
+        {
+          "name": "Scott Michael Smith",
+          "url": "https://open.spotify.com/artist/4LYiDqIcfoYmeK2JtPq1rh"
+        },
+        {
+          "name": "Michael Dean Parsons",
+          "url": "https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84554,
+      "name": "Leia",
+      "url": "https://open.spotify.com/track/0v9jQJLRpwyfS4lrq8uXe6"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "Lesson One",
+      "url": "https://open.spotify.com/track/4BosUkCIZWxxShikgcilQb"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Galaxy's Edge Oga's Cantina: R3X's Playlist #1",
+        "url": "https://open.spotify.com/album/1fQ2xIyz97KPIanPT8WKHG"
+      },
+      "artists": [
+        {
+          "name": "R3X",
+          "url": "https://open.spotify.com/artist/2NMTE0NjCxiFqSWWnoizOe"
+        },
+        {
+          "name": "Figrin D'an and the Modal Nodes",
+          "url": "https://open.spotify.com/artist/2zDOQCpjvoYQ1Igsm4ckbq"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174410,
+      "name": "Mad About Mad About Me",
+      "url": "https://open.spotify.com/track/3hr66Xi9ePeBiIVgii4VKH"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324226,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/3ZSf1TJZyRb0rnWYuUtdX4"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445560,
+      "name": "Main Title and Escape",
+      "url": "https://open.spotify.com/track/3eEfx3BsSplMdgktC3r7xK"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385920,
+      "name": "Main Title and The Attack on the Jakku Village",
+      "url": "https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140106,
+      "name": "Meet Han",
+      "url": "https://open.spotify.com/track/7BVvVmczBoVmVeWr8KMafb"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246520,
+      "name": "Obi-Wan",
+      "url": "https://open.spotify.com/track/22VtvEbttc3y0MuekCm7Sb"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan (From \"Obi-Wan Kenobi\")",
+        "url": "https://open.spotify.com/album/2rP5W8xXmYH2cKTuZVgPUG"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245920,
+      "name": "Obi-Wan - From \"Obi-Wan Kenobi\"",
+      "url": "https://open.spotify.com/track/0UvXARxghc7E5grZSpGArl"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi: A Jedi's Return (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3knYSacsEVWqetRU8osAv0"
+      },
+      "artists": [
+        {
+          "name": "Scott Michael Smith",
+          "url": "https://open.spotify.com/artist/4LYiDqIcfoYmeK2JtPq1rh"
+        },
+        {
+          "name": "Michael Dean Parsons",
+          "url": "https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90149,
+      "name": "Obi-Wan's Lightsaber",
+      "url": "https://open.spotify.com/track/6lFvflA4sin1awe4c1tJue"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268226,
+      "name": "Old Friends",
+      "url": "https://open.spotify.com/track/336MNGWifY0wUNdI37pm8Q"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
+        "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Open the Door",
+      "url": "https://open.spotify.com/track/1PRgvXplpe5ruTlMP95M8l"
+    },
+    {
+      "album": {
+        "name": "Obi-Wan Kenobi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hDDDUl05cnWTrheIVVCma"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100960,
+      "name": "Order 66",
+      "url": "https://open.spotify.com/track/4pPQxN2GlHsVgAThcfAyK8"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars (Seasons One Through Six/Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GBpwL8Q9iRbfhtzlkbrKC"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99280,
+      "name": "Padm\u00e9",
+      "url": "https://open.spotify.com/track/4ud5wmcUNNO4f9FkPw3FxA"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186133,
+      "name": "Peace and Purpose",
+      "url": "https://open.spotify.com/track/5bhVXcAkmihE4YvKdGimxL"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174475,
+      "name": "Racing Mix",
+      "url": "https://open.spotify.com/track/4P6sr3fe8K6d7EyJoual7j"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Village Bride (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81120,
+      "name": "Requiem for Blasters",
+      "url": "https://open.spotify.com/track/3rpd2CDwDkSrFGE5M8EvWO"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208413,
+      "name": "Revisiting Snoke",
+      "url": "https://open.spotify.com/track/00kJKVPbMLV5b53dJmcxrQ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Rey's Theme",
+      "url": "https://open.spotify.com/track/5wsHtmFHWntJzcN6n8ivjd"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
+      },
+      "artists": [
+        {
+          "name": "Keiji Inai",
+          "url": "https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Ronin's Theme",
+      "url": "https://open.spotify.com/track/0GLicEZFv5LCu2HBtNEEmu"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch - Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5YP5UXtWG33vsKNdsbYtUS"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241877,
+      "name": "Standoff",
+      "url": "https://open.spotify.com/track/2aLFi3vrMRt0AhnqNJQipa"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346933,
+      "name": "Star Wars (Main Theme)",
+      "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449373,
+      "name": "Star Wars and the Revenge of the Sith",
+      "url": "https://open.spotify.com/track/2OqMBSytBzTHFXnEmKrmrF"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/10YZRQdDel04sE4hn2UGRg"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73178,
+      "name": "Star Wars Main Title & A Galaxy Divided",
+      "url": "https://open.spotify.com/track/08bklULvFx9PF8X7o07fsa"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229466,
+      "name": "Star Wars Main Title and Ambush on Coruscant",
+      "url": "https://open.spotify.com/track/5OOGED27QEN7PlNPcjszrr"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Galaxy's Edge Symphonic Suite (Music Inspired by the Disney Themed Land)",
+        "url": "https://open.spotify.com/album/53V20nN6s91x3ey4grFvwY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297613,
+      "name": "Star Wars: Galaxy's Edge Symphonic Suite - Music Inspired by the Disney Themed Land",
+      "url": "https://open.spotify.com/track/0ETHUHGV4QrIQ3iGIUQZbd"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Tatooine Rhapsody (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7MIHDMH37tfDgV4J1V5JZt"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52842,
+      "name": "Star Waver",
+      "url": "https://open.spotify.com/track/5StLIeGsbmVPDsrUDXcaXJ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - T0-B1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wNqrvdyIPV7qHTFF8jwQ0"
+      },
+      "artists": [
+        {
+          "name": "A-bee",
+          "url": "https://open.spotify.com/artist/0ZstxjqVmLXd0bjATOB1u9"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111978,
+      "name": "Start the Droids",
+      "url": "https://open.spotify.com/track/30IJ19GLTJ9Q169KJwxfNb"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246373,
+      "name": "Stop That Train",
+      "url": "https://open.spotify.com/track/7qYAX8yamoruNCCCYvjIVe"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Season 3 - Vol. 2 (Chapters 21-24) [Original Score]",
+        "url": "https://open.spotify.com/album/3wuE2JeCx2Vmvk7b1c9fnI"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300527,
+      "name": "Stronger Together",
+      "url": "https://open.spotify.com/track/76kDodRN092G8YHHeNl31y"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Tales from the Galaxy's Edge (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0nrW0u5Serdhb1GQmPQo72"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157160,
+      "name": "Tales from the Galaxy's Edge End Credits",
+      "url": "https://open.spotify.com/track/0nWqkzpDozJebZwLi1vvGJ"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "The Adventures of Han",
+      "url": "https://open.spotify.com/track/6xuNzE2TNoJSiX6llH5Chg"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407693,
+      "name": "The Battle of Crait",
+      "url": "https://open.spotify.com/track/77k9CEWfPOcizofgwLTBdH"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 1 (Chapters 1-4) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/36qgdmFn1KjBOSG55PB1Ju"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett",
+      "url": "https://open.spotify.com/track/1XkRprkVY9ntVC7KzHrlaZ"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett (From \"The Book of Boba Fett\")",
+        "url": "https://open.spotify.com/album/1JJlW7PNpoGxBVPTftZmHP"
+      },
+      "artists": [
+        {
+          "name": "Ludwig Goransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175699,
+      "name": "The Book of Boba Fett - From \"The Book of Boba Fett\"",
+      "url": "https://open.spotify.com/track/1YGJWCGQq7YduP7ENxgCJC"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179080,
+      "name": "The Cave",
+      "url": "https://open.spotify.com/track/75tWMAX7gSbs3VNKgvlOST"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37084,
+      "name": "The Contacts of the Heart",
+      "url": "https://open.spotify.com/track/1kDq05NT6YWUG6DOYjxslU"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "The Desert and the Robot Auction",
+      "url": "https://open.spotify.com/track/6I50fU69S2yz4yc96r55s2"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231638,
+      "name": "The Doctor",
+      "url": "https://open.spotify.com/track/3cQ8hOUwxv8QBRzkWHWdHj"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Duel (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3H28Ci4oeaSmDaDkXw8iyV"
+      },
+      "artists": [
+        {
+          "name": "Keiji Inai",
+          "url": "https://open.spotify.com/artist/1vTocDHu5XNwdgDU1WtS34"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227258,
+      "name": "The Duel",
+      "url": "https://open.spotify.com/track/5zcAxtO4veMV9vq8SuHgKf"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Elder (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/23lH17EQWb0kqUuUEX3LS6"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55175,
+      "name": "The Elder",
+      "url": "https://open.spotify.com/track/1iV33yjaj3BojLVuYHSg2V"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - Lop & Och\u014d (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/691oSq9pczFEuW75oWesid"
+      },
+      "artists": [
+        {
+          "name": "Yoshiaki Dewa",
+          "url": "https://open.spotify.com/artist/3NWiLtzfi2mh7EB2Fq9TyY"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46336,
+      "name": "The Empire",
+      "url": "https://open.spotify.com/track/6qbtheuo2S7OfWxR8Xv1b4"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - THE TWINS (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3vJFJpgsuEWp09Pv0Ae9J2"
+      },
+      "artists": [
+        {
+          "name": "Michiru Oshima",
+          "url": "https://open.spotify.com/artist/6zqZlqpjrq3op255dF32Fr"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84960,
+      "name": "The Fate of Dark Side",
+      "url": "https://open.spotify.com/track/6yrBMcPI6qXG6LKGQfM2Jv"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "The Fathiers",
+      "url": "https://open.spotify.com/track/0wvl02mmpTgoqdBtyj64WP"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237506,
+      "name": "The Final Saber Duel",
+      "url": "https://open.spotify.com/track/0WncQWi2RqYKIGriO9gyJ0"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159800,
+      "name": "The Immolation Scene",
+      "url": "https://open.spotify.com/track/4liOrw7OIc5zCxkFJiK2tJ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "The Imperial March (Darth Vader's Theme)",
+      "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
+    },
+    {
+      "album": {
+        "name": "Rogue One: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6h5p1LLfhcyYHnSVdlghJT"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "The Imperial Suite",
+      "url": "https://open.spotify.com/track/2NZhNbfb1rD1aRj3hZaoqk"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183533,
+      "name": "The Last Jedi",
+      "url": "https://open.spotify.com/track/69qAhQ1p5kGzRpcVctqlgK"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Chapter 1 (Original Score)",
+        "url": "https://open.spotify.com/album/4xFmHg5dYvaqmn9ZNQpjWL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198861,
+      "name": "The Mandalorian",
+      "url": "https://open.spotify.com/track/6tJFtthY0rI1x06qb8NjK0"
+    },
+    {
+      "album": {
+        "name": "Star Wars Episode IV: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/39vpWS7vrC4Pz33bNafjva"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145080,
+      "name": "The Moisture Farm",
+      "url": "https://open.spotify.com/track/2D9uc4pL6wor8560PWMj8h"
+    },
+    {
+      "album": {
+        "name": "Star Wars Sampler",
+        "url": "https://open.spotify.com/album/0FFKU6tUqBwgANE5DGLA3c"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "The Moisture Farm - From \"Star Wars: A New Hope\"",
+      "url": "https://open.spotify.com/track/3U2qtOplwv1pPSW5ZSXtA0"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Ninth Jedi (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4KJ9vQBPgLLjgerzp8oPbg"
+      },
+      "artists": [
+        {
+          "name": "Nobuko Toda",
+          "url": "https://open.spotify.com/artist/57JOhTMAdbqeE4hVOrsOqJ"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127850,
+      "name": "The Ninth Jedi - Prologue",
+      "url": "https://open.spotify.com/track/2Vu0gB2LQJsHd9jdquA9Wu"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239160,
+      "name": "The Rebellion Is Reborn",
+      "url": "https://open.spotify.com/track/17UYYIhQ8IDbm1ImKRblxE"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258373,
+      "name": "The Rise of Skywalker",
+      "url": "https://open.spotify.com/track/5mwobK7yPtQQgrywkyvTLu"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212120,
+      "name": "The Sacred Jedi Texts",
+      "url": "https://open.spotify.com/track/74BhnLENTXul5hgjC7NaUj"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 2 (Episodes 9-16) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7t9Fc3xnmmYqUkMdMpuqdA"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250412,
+      "name": "The Sacrifice",
+      "url": "https://open.spotify.com/track/1sAE0vqLfXWlAqOJlPWTmT"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "The Spark",
+      "url": "https://open.spotify.com/track/1gaPmqLrbaOAFNnuNGc4sQ"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240080,
+      "name": "The Supremacy",
+      "url": "https://open.spotify.com/track/6VVazVCT7PMofEkMXDdbEo"
+    },
+    {
+      "album": {
+        "name": "Star Wars: A New Hope (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/55gMu4AvAKCbCaGv3GIXgy"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334426,
+      "name": "The Throne Room and End Title",
+      "url": "https://open.spotify.com/track/3HjDvnmiTLKaDalq4u2Hem"
+    },
+    {
+      "album": {
+        "name": "Star Wars: Visions - The Village Bride (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5rPbPjB9rABojv7WVhO265"
+      },
+      "artists": [
+        {
+          "name": "Kevin Penkin",
+          "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
+        },
+        {
+          "name": "Emi Evans",
+          "url": "https://open.spotify.com/artist/0WgqipmDarta23FAzzhDer"
+        }
+      ],
+      "date_added": "2021-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270986,
+      "name": "The Village Bride",
+      "url": "https://open.spotify.com/track/4xbc2NEgK7K2NXgldhfhMq"
+    },
+    {
+      "album": {
+        "name": "The Mandalorian: Season 3 - Vol. 1 (Chapters 17-20) [Original Score]",
+        "url": "https://open.spotify.com/album/2JtB7K4gMmfC7Ow9Y4pz4b"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2023-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339379,
+      "name": "There Are No Others",
+      "url": "https://open.spotify.com/track/6rij7q7SkqkUsfhwCKmguI"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Clone Wars - The Final Season (Episodes 5-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5iMwKUFGkspWiP73jHIrZj"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219967,
+      "name": "Trace & Rafa",
+      "url": "https://open.spotify.com/track/1fqsyRQVJReNyGNj1xZQX9"
+    },
+    {
+      "album": {
+        "name": "Solo: A Star Wars Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0BClgKzpi6YhuXeTIAoeDm"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288040,
+      "name": "Train Heist",
+      "url": "https://open.spotify.com/track/1ezCMM6GbB6JW6yXltlCaD"
+    },
+    {
+      "album": {
+        "name": "The Book of Boba Fett: Vol. 2 (Chapters 5-7) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1qC4chTx1ZdqWZHJHS48yC"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375638,
+      "name": "Train Heist - \"The Book of Boba Fett: Vol. 1 (Chapters 1-4)\" Bonus Track",
+      "url": "https://open.spotify.com/track/7I0Wha0ZV4GEq2PxWpg1mb"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Rise of Skywalker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26pelVOow8ODvBktJbDiua"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197466,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/1Tu24oNxMH9mt7gdJV5j9h"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Bad Batch \u2013 Season 2: Vol. 1 (Episodes 1-8) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7smEVA9YBJQ2PwFk83js1M"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kiner",
+          "url": "https://open.spotify.com/artist/6krMKleBJfXYPdCP5q3ypW"
+        }
+      ],
+      "date_added": "2023-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216108,
+      "name": "Where I Fit",
+      "url": "https://open.spotify.com/track/29nfXHhCyMJpQF8Z7bXztE"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184226,
+      "name": "Who Are You?",
+      "url": "https://open.spotify.com/track/3vzAoaGvVA7UFaVuGjUG0p"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207666,
+      "name": "Yoda's Theme",
+      "url": "https://open.spotify.com/track/69f4J5zQkPqzf9IZ36zNQL"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Last Jedi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LhcWlgnpCVHqOVFZFuoPX"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121613,
+      "name": "\u201cChrome Dome\u201d",
+      "url": "https://open.spotify.com/track/1ACII6dVvZETwW8FtpDzfI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaUaRhCgtpCo"
 }

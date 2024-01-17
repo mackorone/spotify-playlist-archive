@@ -366,7 +366,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 226125,
       "name": "Dama",
       "url": "https://open.spotify.com/track/0Tmi4OKz5CTFnWNjeR2j1G"
@@ -446,6 +446,42 @@
       "duration_ms": 192416,
       "name": "Dejarte Ir",
       "url": "https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX"
+    },
+    {
+      "album": {
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/1FBh6j95LW3VF854lh9Ueb"
+      },
+      "artists": [
+        {
+          "name": "Francisco Sola",
+          "url": "https://open.spotify.com/artist/0ek16Ht9DeNuxjdwq9ODRu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235127,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/2nx1bryoL6yLPmCikpjJ0u"
+    },
+    {
+      "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195026,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
     },
     {
       "album": {
@@ -1236,7 +1272,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 188560,
       "name": "Radio",
       "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
@@ -1276,7 +1312,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
@@ -1554,6 +1590,24 @@
       "duration_ms": 213614,
       "name": "Ya nada es igual",
       "url": "https://open.spotify.com/track/3yqZj4Uap9uhX9Ps1zveRF"
+    },
+    {
+      "album": {
+        "name": "Ya No Es Lo Mismo",
+        "url": "https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Ya No Es Lo Mismo",
+      "url": "https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC"
     },
     {
       "album": {

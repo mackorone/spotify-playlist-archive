@@ -1,63 +1,15 @@
 {
-  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Eladio Carrion en portada.",
-  "num_followers": 19372,
+  "description": "Aqu\u00ed viven los hits m\u00e1s grandes en La Isla del Encanto. Gaby Music, Luar La L y Lunay en portada.",
+  "num_followers": 20398,
   "original_name": "\u00c9xitos Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTdjMzEwM2JjZjkxMTlhNGIxMzVhZTI5YWEyZGZlODQ3ZmU2Y2Nk",
+  "snapshot_id": "MCw2ZDA2Zjc3NGEzNjdjOTI3OWVmMDc1YzlhOWEzMjFjNmVmZWM3MmFi",
   "tracks": [
     {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "TQMQA",
-        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "TQMQA",
-      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "DILUVIO",
-      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 267194,
-      "name": "MONACO",
-      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "No Te Quieren Conmigo",
         "url": "https://open.spotify.com/album/2ScGgvceSV8y2Cx4nPPjYP"
@@ -81,7 +33,71 @@
       "url": "https://open.spotify.com/track/3Cx4BsDd4q0GCVBJ5CAw2K"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "BBY BOO",
+        "url": "https://open.spotify.com/album/4CQs7H0Wo14xzJ2FMPbNxi"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "BBY BOO",
+      "url": "https://open.spotify.com/track/1yDJAXPuXbyhU5tNGGXlPh"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 267194,
+      "name": "MONACO",
+      "url": "https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "TQMQA",
+        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "TQMQA",
+      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "DILUVIO",
+      "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Narcotics (with Bryant Myers)",
         "url": "https://open.spotify.com/album/1SpjWWwAvgm4LLMFtqOwUc"
@@ -101,7 +117,7 @@
       "url": "https://open.spotify.com/track/0p0cOpBujR114Wirv5AM7W"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Bby Exxxclusive (Remix)",
         "url": "https://open.spotify.com/album/4RTxAK6ttdm2E7M17Lemjg"
@@ -129,7 +145,23 @@
       "url": "https://open.spotify.com/track/6BIxit6ZR2nSW53CSmd1WW"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 225654,
+      "name": "NO ME QUIERO CASAR",
+      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Suena El Bajo",
         "url": "https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP"
@@ -149,7 +181,7 @@
       "url": "https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "BONNIE AND CLYDE (REMIX)",
         "url": "https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om"
@@ -173,7 +205,7 @@
       "url": "https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -193,7 +225,7 @@
       "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/4Jc7252S1P99DjQ1lNGEOc"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "LA VIDA ES UNA",
         "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Busy",
         "url": "https://open.spotify.com/album/0wlVnLbR6sM6le32GHW6mH"
@@ -241,7 +273,7 @@
       "url": "https://open.spotify.com/track/2fuUZFrXc39Vd7zbIZxCzZ"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "UuU 2",
         "url": "https://open.spotify.com/album/0Q0tPst1r7QwrFGzhj2XwO"
@@ -285,7 +317,7 @@
       "url": "https://open.spotify.com/track/63ix3pSwtXbR2IBwpNwPv5"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "TU$$I (with Dei V)",
         "url": "https://open.spotify.com/album/6hcobkxdWIAXzj6OYfjlWo"
@@ -305,7 +337,27 @@
       "url": "https://open.spotify.com/track/5sRLuy3aeAq8MaiZwK92Dn"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "WYA",
+        "url": "https://open.spotify.com/album/510YwmkYmdNRSYPQSxDV2O"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "WYA",
+      "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Holanda",
         "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
@@ -321,7 +373,7 @@
       "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Pa la Proxima",
         "url": "https://open.spotify.com/album/4imR6C43N2Syv918WyVA9N"
@@ -341,7 +393,7 @@
       "url": "https://open.spotify.com/track/0K8yPA5eo1d6t1LwJpRL2J"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "FERXXOCALIPSIS",
         "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
@@ -381,23 +433,7 @@
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "nadie sabe lo que va a pasar ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 225654,
-      "name": "NO ME QUIERO CASAR",
-      "url": "https://open.spotify.com/track/39L3LdlHS3gqB62HPWaJRg"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
@@ -417,7 +453,7 @@
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Kyoto",
         "url": "https://open.spotify.com/album/6YOCVR0kA8mO2nWE8LINKa"
@@ -441,7 +477,7 @@
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "CLASSY 101",
         "url": "https://open.spotify.com/album/4jtQUtS4ABgER3DnGfKJCv"
@@ -461,7 +497,7 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Quien Es Dei V?",
         "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
@@ -477,7 +513,7 @@
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "LVEU: VIVE LA TUYA...NO LA MIA",
         "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Coraz\u00f3n Roto pt. 3",
         "url": "https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
@@ -557,7 +593,7 @@
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
@@ -577,7 +613,7 @@
       "url": "https://open.spotify.com/track/4qSEvFGCpde73gqIuq3sho"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -597,7 +633,7 @@
       "url": "https://open.spotify.com/track/6XjsXIb1DUhsmhflFAODv3"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
@@ -613,7 +649,23 @@
       "url": "https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
+      "album": {
+        "name": "Private Suite (Vol. 1 / Reloaded)",
+        "url": "https://open.spotify.com/album/7FDCMT0q5SVLPosdokrINh"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        }
+      ],
+      "duration_ms": 142986,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0HMQerZ59M01ZlDGRsUuub"
+    },
+    {
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Chulo pt.2",
         "url": "https://open.spotify.com/album/3gsIT2tGpLm0mQGRCnrZ7j"
@@ -637,7 +689,7 @@
       "url": "https://open.spotify.com/track/0J9g1MMJDhyvOb3NWckHMm"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "UN PREVIEW",
         "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
@@ -653,7 +705,7 @@
       "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -669,7 +721,7 @@
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Me Gusta Tu Flow",
         "url": "https://open.spotify.com/album/1625TAr0aacB03dTtcLg5W"
@@ -685,7 +737,7 @@
       "url": "https://open.spotify.com/track/1jeaCBXzfpy9kPBuLSQNmo"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
@@ -709,10 +761,10 @@
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
@@ -742,10 +794,10 @@
       ],
       "duration_ms": 355795,
       "name": "PASIEMPRE",
-      "url": "https://open.spotify.com/track/5NhLA2P7AiV3cloVmwtwLS"
+      "url": "https://open.spotify.com/track/3KEtYxU8b1gZMbsY9Jlpqd"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "WHERE SHE GOES",
         "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
@@ -761,7 +813,7 @@
       "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Pos Me Voy",
         "url": "https://open.spotify.com/album/2HD7tg0brJ4O409w8fHA67"
@@ -781,7 +833,7 @@
       "url": "https://open.spotify.com/track/6Zpe2aeAgwHiYbfOgivMbx"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "wiggy",
         "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
@@ -797,7 +849,7 @@
       "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Single",
         "url": "https://open.spotify.com/album/1lfjZUYySyfNnrpntQHVYW"
@@ -813,10 +865,10 @@
       "url": "https://open.spotify.com/track/7cBSPzz0kNgc1ghLddrDxZ"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "DATA",
-        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+        "url": "https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d"
       },
       "artists": [
         {
@@ -830,10 +882,10 @@
       ],
       "duration_ms": 232131,
       "name": "MOJABI GHOST",
-      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+      "url": "https://open.spotify.com/track/46YjJXVXWHlQ21odKktg5e"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "ESTRELLA",
         "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
@@ -849,7 +901,7 @@
       "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "En To Lao",
         "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
@@ -869,7 +921,7 @@
       "url": "https://open.spotify.com/track/2zUEnw6wWrWaPcF15F76OA"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL"
@@ -889,7 +941,7 @@
       "url": "https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
@@ -909,7 +961,7 @@
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "Coraz\u00f3n Roto (Remix)",
         "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
@@ -933,27 +985,7 @@
       "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 170920,
-      "name": "GATITA GANGSTER",
-      "url": "https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
+      "added_at": "2024-01-04 22:26:43",
       "album": {
         "name": "LOS DUE\u00d1OS DE LA CALLE (Remix)",
         "url": "https://open.spotify.com/album/1bMraLBSDiOxNs3G4bf4dL"
@@ -983,50 +1015,6 @@
       "duration_ms": 306493,
       "name": "LOS DUE\u00d1OS DE LA CALLE - Remix",
       "url": "https://open.spotify.com/track/772VU8O47TkYt9Dxf6kZYE"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "LA BABY",
-        "url": "https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "LA BABY",
-      "url": "https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi"
-    },
-    {
-      "added_at": "2023-12-21 10:49:04",
-      "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 166739,
-      "name": "CUANDO BAJE EL SOL",
-      "url": "https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79"
     }
   ],
   "unique_name": "\u00c9xitos Puerto Rico",

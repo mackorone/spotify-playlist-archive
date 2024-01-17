@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,634 likes - 77 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,013 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciYvjsn0pd9.md) - [plain]
 | 16 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 |
 | 17 | [Blue Dreams](https://open.spotify.com/track/40kMwlgBSTjg7sqK694ze3) | [Mr\. Pig](https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J), [Bzars](https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9), [Sapir Amar](https://open.spotify.com/artist/1Pjebxkm2UjQrQ5tg4kXYC) | [Blue Dreams](https://open.spotify.com/album/3R2U7mwzBgEAEPyb75ieqe) | 4:08 |
 | 18 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 |
-| 19 | [Amor en la Playa](https://open.spotify.com/track/7po18yftlR0AgXUq2QxNTk) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/6Dd7ia5yM9pOKvfqPFnb5p) | 3:54 |
+| 19 | [Amor en la Playa](https://open.spotify.com/track/70K9VzlfzCcCutjPZhmS7Y) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/0klkDdlN67eRBIoJEUfRh9) | 3:54 |
 | 20 | [Motel](https://open.spotify.com/track/28B2490QuJ8zJTj6wXy8KQ) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nick Rush](https://open.spotify.com/artist/6x2XPDItvcy6FrWoPdJV1M), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Musica Peculiar](https://open.spotify.com/album/5foAqzpBE2MIjomAGk590t) | 1:50 |
 | 21 | [Toco el Cielo](https://open.spotify.com/track/2aq9MMe06Uw0v76iaCRceg) | [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI), [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt) | [Toco el Cielo](https://open.spotify.com/album/2jWj6KsoXN1R3gRPjcuYzT) | 5:17 |
 | 22 | [Amores \(feat\. Valka\)](https://open.spotify.com/track/5dDcVdAwFxaqeXrcITfIcX) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Amores \(feat\. Valka\)](https://open.spotify.com/album/6tMyBFl7iVXxKXKTj2xKQW) | 3:06 |

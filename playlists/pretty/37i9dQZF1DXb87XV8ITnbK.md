@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 
 > Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,701 likes - 64 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,764 likes - 64 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb87XV8ITnbK.md) - [plain]
 | 36 | [Ring Ring Ring](https://open.spotify.com/track/4Z4RbMEkfPGncaFxfSl61v) | [VERIVERY](https://open.spotify.com/artist/1fWUcRSok57yRm8gPKj1Fc) | [VERI\-US](https://open.spotify.com/album/0Lztj1OhIc36IZ72Tefv9i) | 3:06 |
 | 37 | [SUMMER LOVE…](https://open.spotify.com/track/0mq5Oh2dRJJLXvI7GwlWRc) | [CSVC](https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK) | [SUMMER LOVE…](https://open.spotify.com/album/08PiCTIK798erEd7joIO7d) | 4:10 |
 | 38 | [After a long time\(Digging Club Seoul Ver.\)](https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Onstage Digging Club Seoul THEME 01](https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq) | 4:10 |
-| 39 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
+| 39 | [널 좋아하고 있어 I'm Into You \(with\. Kirin, Dala, Jungu\)](https://open.spotify.com/track/71Ogm7o9KbXrgGsUafjvy3) | [PARKMOONCHI](https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh), [KIRIN](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [Dala](https://open.spotify.com/artist/1CvhwMuHPz3oLJEOv66fOg), [Jungu](https://open.spotify.com/artist/1wDD7jPUpGh3BOtRHmy8bX) | [널 좋아하고 있어 I'm Into You](https://open.spotify.com/album/0iBM2Yvh95b7bh1oQHkkyY) | 4:33 |
 | 40 | [Be There For You](https://open.spotify.com/track/2lwOE4xj0tw2Bpjc6wmzUP) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [Hello \- Special Album](https://open.spotify.com/album/37mRfTDwQzVbHihypYY8oE) | 3:56 |
 | 41 | [1 of 1](https://open.spotify.com/track/6UmRhJatcth1KF76r5ucvZ) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [1 of 1 \- The 5th Album](https://open.spotify.com/album/1hG9lZDk2HqmOHMtuI3Zdj) | 3:23 |
 | 42 | [Elevator](https://open.spotify.com/track/4rn1BxsXSSuZcgRa6thKYu) | [BAEKHO](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Elevator](https://open.spotify.com/album/7qAmKSszPEYHUNhETGGhSI) | 2:43 |

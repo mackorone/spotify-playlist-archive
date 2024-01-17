@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Les indispensables de l'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,462 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,163 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
+| 1 | [jubel](https://open.spotify.com/track/73RLHjMWKikrfsWwNgszA4) | [lucesy](https://open.spotify.com/artist/69vyzEtaUoT2gzzCwMJkf8), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Cardus](https://open.spotify.com/artist/4gxaHMduYNqazJxiXMBLqA) | [jubel](https://open.spotify.com/album/2zJjP7EM87BPZhEgFRmZhG) | 3:17 |
 | 2 | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Julian Perretta](https://open.spotify.com/artist/2JLl6rSFWx9YuSPLcLhkAG) | [Substitution \(feat\. Julian Perretta\)](https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7) | 3:01 |
 | 3 | [Baianá](https://open.spotify.com/track/17B9XlyyYDKkTmPay4z02V) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/30uB4Apy4yJgDSfE7xyA6n) | 3:00 |
 | 4 | [Wasted Love \(feat\. Lagique\)](https://open.spotify.com/track/1cYyZ1N98GyRS3cMcccFHd) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Lagique](https://open.spotify.com/artist/1PbtWtrN7jZpd4toqxrjm2) | [I](https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l) | 2:19 |

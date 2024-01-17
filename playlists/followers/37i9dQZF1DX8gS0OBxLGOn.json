@@ -1,354 +1,1439 @@
 {
-  "2023-01-14": 138124,
-  "2023-01-15": 138134,
-  "2023-01-16": 138197,
-  "2023-01-17": 138255,
-  "2023-01-18": 138332,
-  "2023-01-19": 138395,
-  "2023-01-20": 138441,
-  "2023-01-21": 138496,
-  "2023-01-22": 138561,
-  "2023-01-23": 138626,
-  "2023-01-24": 138677,
-  "2023-01-25": 138767,
-  "2023-01-26": 138820,
-  "2023-01-27": 138883,
-  "2023-01-28": 138969,
-  "2023-01-29": 139017,
-  "2023-01-30": 139076,
-  "2023-01-31": 139076,
-  "2023-02-01": 139186,
-  "2023-02-02": 139246,
-  "2023-02-03": 139300,
-  "2023-02-04": 139376,
-  "2023-02-05": 139454,
-  "2023-02-06": 139494,
-  "2023-02-07": 139533,
-  "2023-02-08": 139631,
-  "2023-02-09": 139631,
-  "2023-02-10": 139680,
-  "2023-02-11": 139745,
-  "2023-02-12": 139836,
-  "2023-02-13": 139893,
-  "2023-02-14": 139893,
-  "2023-02-15": 139938,
-  "2023-02-16": 139996,
-  "2023-02-17": 140044,
-  "2023-02-18": 140175,
-  "2023-02-19": 140183,
-  "2023-02-20": 140216,
-  "2023-02-21": 140274,
-  "2023-02-22": 140337,
-  "2023-02-23": 140379,
-  "2023-02-24": 140426,
-  "2023-02-25": 140484,
-  "2023-02-26": 140534,
-  "2023-02-27": 140611,
-  "2023-02-28": 140611,
-  "2023-03-01": 140641,
-  "2023-03-02": 140711,
-  "2023-03-03": 140771,
-  "2023-03-04": 140846,
-  "2023-03-05": 140956,
-  "2023-03-06": 140956,
-  "2023-03-07": 141013,
-  "2023-03-08": 141079,
-  "2023-03-09": 141137,
-  "2023-03-10": 141199,
-  "2023-03-11": 141280,
-  "2023-03-12": 141323,
-  "2023-03-13": 141360,
-  "2023-03-14": 141423,
-  "2023-03-15": 141478,
-  "2023-03-16": 141530,
-  "2023-03-17": 141530,
-  "2023-03-18": 141649,
-  "2023-03-19": 141723,
-  "2023-03-20": 141794,
-  "2023-03-21": 141858,
-  "2023-03-22": 141928,
-  "2023-03-23": 142008,
-  "2023-03-24": 142008,
-  "2023-03-25": 142142,
-  "2023-03-26": 142202,
-  "2023-03-27": 142252,
-  "2023-03-28": 142318,
-  "2023-03-29": 142385,
-  "2023-03-30": 142503,
-  "2023-03-31": 142503,
-  "2023-04-01": 142573,
-  "2023-04-02": 142641,
-  "2023-04-03": 142704,
-  "2023-04-04": 142757,
-  "2023-04-05": 142812,
-  "2023-04-06": 142886,
-  "2023-04-07": 142947,
-  "2023-04-09": 143058,
-  "2023-04-10": 143099,
-  "2023-04-11": 143190,
-  "2023-04-12": 143190,
-  "2023-04-13": 143239,
-  "2023-04-14": 143288,
-  "2023-04-15": 143327,
-  "2023-04-16": 143380,
-  "2023-04-17": 143427,
-  "2023-04-18": 143473,
-  "2023-04-19": 143511,
-  "2023-04-20": 143585,
-  "2023-04-21": 143637,
-  "2023-04-22": 143697,
-  "2023-04-23": 143741,
-  "2023-04-24": 143787,
-  "2023-04-25": 143814,
-  "2023-04-26": 143884,
-  "2023-04-27": 143951,
-  "2023-04-28": 144007,
-  "2023-04-29": 144066,
-  "2023-04-30": 144131,
-  "2023-05-01": 144185,
-  "2023-05-02": 144225,
-  "2023-05-03": 144279,
-  "2023-05-04": 144332,
-  "2023-05-05": 144382,
-  "2023-05-06": 144429,
-  "2023-05-07": 144496,
-  "2023-05-08": 144539,
-  "2023-05-09": 144574,
-  "2023-05-10": 144617,
-  "2023-05-11": 144662,
-  "2023-05-12": 144710,
-  "2023-05-13": 144779,
-  "2023-05-14": 144820,
-  "2023-05-15": 144865,
-  "2023-05-16": 144919,
-  "2023-05-17": 144963,
-  "2023-05-18": 145015,
-  "2023-05-19": 145070,
-  "2023-05-20": 145201,
-  "2023-05-21": 145201,
-  "2023-05-22": 145201,
-  "2023-05-23": 145290,
-  "2023-05-24": 145394,
-  "2023-05-25": 145419,
-  "2023-05-26": 145473,
-  "2023-05-27": 145545,
-  "2023-05-28": 145599,
-  "2023-05-29": 145599,
-  "2023-05-30": 145684,
-  "2023-05-31": 145738,
-  "2023-06-01": 145797,
-  "2023-06-02": 145849,
-  "2023-06-03": 145909,
-  "2023-06-04": 145973,
-  "2023-06-05": 146027,
-  "2023-06-06": 146099,
-  "2023-06-07": 146160,
-  "2023-06-08": 146236,
-  "2023-06-09": 146311,
-  "2023-06-10": 146375,
-  "2023-06-11": 146438,
-  "2023-06-12": 146490,
-  "2023-06-13": 146553,
-  "2023-06-14": 146571,
-  "2023-06-15": 146574,
-  "2023-06-16": 146597,
-  "2023-06-17": 146597,
-  "2023-06-18": 146597,
-  "2023-06-19": 146597,
-  "2023-06-20": 146597,
-  "2023-06-21": 146597,
-  "2023-06-22": 146597,
-  "2023-06-23": 146597,
-  "2023-06-24": 146597,
-  "2023-06-25": 146597,
-  "2023-06-26": 146597,
-  "2023-06-27": 146597,
-  "2023-06-28": 146597,
-  "2023-06-29": 146597,
-  "2023-06-30": 146597,
-  "2023-07-01": 146597,
-  "2023-07-02": 146597,
-  "2023-07-03": 146597,
-  "2023-07-04": 146597,
-  "2023-07-05": 146597,
-  "2023-07-06": 146597,
-  "2023-07-07": 146597,
-  "2023-07-08": 146597,
-  "2023-07-09": 146597,
-  "2023-07-10": 146597,
-  "2023-07-11": 146597,
-  "2023-07-12": 146597,
-  "2023-07-13": 146597,
-  "2023-07-14": 146597,
-  "2023-07-15": 146597,
-  "2023-07-16": 146597,
-  "2023-07-17": 146597,
-  "2023-07-18": 146597,
-  "2023-07-19": 146597,
-  "2023-07-20": 146597,
-  "2023-07-21": 146597,
-  "2023-07-22": 146597,
-  "2023-07-23": 146597,
-  "2023-07-24": 146597,
-  "2023-07-25": 146597,
-  "2023-07-26": 146597,
-  "2023-07-27": 146597,
-  "2023-07-28": 146597,
-  "2023-07-29": 146597,
-  "2023-07-30": 146597,
-  "2023-07-31": 146597,
-  "2023-08-01": 146597,
-  "2023-08-02": 146597,
-  "2023-08-03": 146597,
-  "2023-08-04": 146597,
-  "2023-08-05": 146597,
-  "2023-08-06": 146597,
-  "2023-08-07": 146597,
-  "2023-08-08": 146597,
-  "2023-08-09": 146597,
-  "2023-08-10": 146597,
-  "2023-08-11": 146597,
-  "2023-08-12": 146597,
-  "2023-08-13": 146597,
-  "2023-08-14": 146597,
-  "2023-08-15": 146597,
-  "2023-08-16": 146597,
-  "2023-08-17": 146597,
-  "2023-08-18": 146597,
-  "2023-08-19": 146597,
-  "2023-08-20": 146597,
-  "2023-08-21": 146597,
-  "2023-08-22": 146597,
-  "2023-08-23": 146597,
-  "2023-08-24": 146597,
-  "2023-08-25": 146597,
-  "2023-08-26": 146597,
-  "2023-08-27": 146597,
-  "2023-08-28": 146597,
-  "2023-08-29": 146597,
-  "2023-08-30": 146597,
-  "2023-08-31": 146597,
-  "2023-09-01": 146597,
-  "2023-09-02": 146597,
-  "2023-09-03": 146597,
-  "2023-09-04": 146597,
-  "2023-09-05": 146597,
-  "2023-09-06": 146597,
-  "2023-09-07": 146597,
-  "2023-09-08": 146597,
-  "2023-09-09": 146597,
-  "2023-09-10": 146597,
-  "2023-09-11": 146597,
-  "2023-09-12": 146597,
-  "2023-09-13": 146597,
-  "2023-09-14": 146597,
-  "2023-09-15": 146597,
-  "2023-09-16": 146597,
-  "2023-09-17": 146597,
-  "2023-09-18": 146597,
-  "2023-09-19": 146597,
-  "2023-09-20": 146597,
-  "2023-09-21": 146597,
-  "2023-09-22": 146597,
-  "2023-09-23": 146597,
-  "2023-09-24": 146597,
-  "2023-09-25": 146597,
-  "2023-09-26": 146597,
-  "2023-09-27": 146597,
-  "2023-09-28": 146597,
-  "2023-09-29": 146597,
-  "2023-09-30": 146597,
-  "2023-10-01": 146597,
-  "2023-10-02": 146597,
-  "2023-10-03": 146597,
-  "2023-10-04": 146597,
-  "2023-10-05": 146597,
-  "2023-10-06": 146597,
-  "2023-10-07": 146597,
-  "2023-10-08": 146597,
-  "2023-10-09": 146597,
-  "2023-10-10": 146597,
-  "2023-10-11": 146597,
-  "2023-10-12": 146597,
-  "2023-10-13": 146597,
-  "2023-10-14": 146597,
-  "2023-10-15": 146597,
-  "2023-10-16": 146597,
-  "2023-10-17": 146597,
-  "2023-10-18": 146597,
-  "2023-10-19": 146597,
-  "2023-10-20": 146597,
-  "2023-10-21": 146597,
-  "2023-10-22": 146597,
-  "2023-10-23": 146597,
-  "2023-10-24": 146597,
-  "2023-10-25": 146597,
-  "2023-10-26": 146597,
-  "2023-10-27": 146597,
-  "2023-10-28": 146597,
-  "2023-10-29": 146597,
-  "2023-10-30": 146597,
-  "2023-10-31": 146597,
-  "2023-11-01": 146597,
-  "2023-11-02": 146597,
-  "2023-11-03": 146597,
-  "2023-11-04": 146597,
-  "2023-11-05": 146597,
-  "2023-11-06": 146597,
-  "2023-11-07": 146597,
-  "2023-11-08": 146597,
-  "2023-11-09": 146597,
-  "2023-11-10": 146597,
-  "2023-11-11": 146597,
-  "2023-11-12": 146597,
-  "2023-11-13": 146597,
-  "2023-11-14": 146597,
-  "2023-11-15": 146597,
-  "2023-11-16": 146597,
-  "2023-11-17": 146597,
-  "2023-11-18": 146597,
-  "2023-11-19": 146597,
-  "2023-11-20": 146597,
-  "2023-11-21": 146597,
-  "2023-11-22": 146597,
-  "2023-11-23": 146597,
-  "2023-11-24": 146597,
-  "2023-11-25": 146597,
-  "2023-11-26": 146597,
-  "2023-11-27": 146597,
-  "2023-11-28": 146597,
-  "2023-11-29": 146597,
-  "2023-11-30": 146597,
-  "2023-12-01": 146597,
-  "2023-12-02": 146597,
-  "2023-12-03": 146597,
-  "2023-12-04": 146597,
-  "2023-12-05": 146597,
-  "2023-12-06": 146597,
-  "2023-12-07": 146597,
-  "2023-12-08": 146597,
-  "2023-12-09": 146597,
-  "2023-12-10": 146597,
-  "2023-12-11": 146597,
-  "2023-12-12": 146597,
-  "2023-12-13": 146597,
-  "2023-12-14": 146597,
-  "2023-12-15": 146597,
-  "2023-12-16": 146597,
-  "2023-12-17": 146597,
-  "2023-12-18": 146597,
-  "2023-12-19": 146597,
-  "2023-12-20": 146597,
-  "2023-12-21": 146597,
-  "2023-12-22": 146597,
-  "2023-12-23": 146597,
-  "2023-12-24": 146597,
-  "2023-12-25": 146597,
-  "2023-12-26": 146597,
-  "2023-12-27": 146597,
-  "2023-12-30": 146597,
-  "2023-12-31": 146597,
-  "2024-01-01": 146597,
-  "2024-01-02": 146597,
-  "2024-01-03": 146597
+  "2024-01-17": 146597,
+  "date_first_scraped": "2023-01-14",
+  "description": "Sean bienvenidos al mundo del ska, el circo y la alegr\u00eda con la banda favorita de C\u00f3rdoba, Argentina.",
+  "name": "This Is Los Caligaris",
+  "tracks": [
+    {
+      "album": {
+        "name": "Yernos Perfectos",
+        "url": "https://open.spotify.com/album/7cmjeaLyvhiCqRA5MmXuYq"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235058,
+      "name": "A Vos",
+      "url": "https://open.spotify.com/track/57ECsM5I8Y4Jyyy3AEYW9U"
+    },
+    {
+      "album": {
+        "name": "Un T\u00e9 de Tilo Por Favor (Edici\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/0TLeUUAJBWRYxRo2pwSKKx"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184083,
+      "name": "Algo Tiene",
+      "url": "https://open.spotify.com/track/3onxiSFg79iUzfcIQjWcTk"
+    },
+    {
+      "album": {
+        "name": "Canciones para Armar",
+        "url": "https://open.spotify.com/album/2AgvSpNbPd3q528YWvRvQJ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217153,
+      "name": "Aquella Solitaria Vaca Cubana",
+      "url": "https://open.spotify.com/track/4KLzg840RrzV86gHQoKtT7"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227981,
+      "name": "Asado y Fernet",
+      "url": "https://open.spotify.com/track/1gZ9eDClV0vcm9BUN6JP5O"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215626,
+      "name": "Aunque No Quiero",
+      "url": "https://open.spotify.com/track/1xeJGNdKyEqqhWfkR31jM2"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "Aunque No Quiero - Vivo",
+      "url": "https://open.spotify.com/track/233fktw6sRxoWNK7aYo0mP"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303878,
+      "name": "A\u00f1ejo W",
+      "url": "https://open.spotify.com/track/1mOhRdYfCMLbyzrQPPcGMG"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Big Javy",
+          "url": "https://open.spotify.com/artist/2ZOu3MoZXWcJjQLedo40Xp"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263168,
+      "name": "A\u00f1ejo W - Vivo",
+      "url": "https://open.spotify.com/track/3Uk9wO7TSqWdBerbP3Iayd"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235962,
+      "name": "Basural",
+      "url": "https://open.spotify.com/track/0f8ddm8JivoRapx8ScYy0L"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Bolso Gris",
+      "url": "https://open.spotify.com/track/0nIr30RF5GZRmJWp8IBLpC"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196007,
+      "name": "Cada Vez",
+      "url": "https://open.spotify.com/track/62kZ9xCjJOLGbCQGWv7QyS"
+    },
+    {
+      "album": {
+        "name": "Canciones Felices",
+        "url": "https://open.spotify.com/album/6kX4XCwyi0DC4chavTti6K"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195330,
+      "name": "Camello",
+      "url": "https://open.spotify.com/track/7r2o53Emfp2ibH1IXeagGw"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209434,
+      "name": "Cicatriz",
+      "url": "https://open.spotify.com/track/0tDAZjqnyBMGapyThwQpDL"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170491,
+      "name": "Disfraz",
+      "url": "https://open.spotify.com/track/1eECAaN6EoPl88toDVW8PE"
+    },
+    {
+      "album": {
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189226,
+      "name": "Doler\u00eda Menos",
+      "url": "https://open.spotify.com/track/623qgMcp5J5EJVphRqLjdF"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Lupe Esparza",
+          "url": "https://open.spotify.com/artist/05ouAmDrGAzXD8XqYnW4Pd"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243973,
+      "name": "El Amor Nunca Pasa de Moda",
+      "url": "https://open.spotify.com/track/1iiJlDOvIgn3Y9nNqKOvUG"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163753,
+      "name": "El Hombre de la M\u00e1scara",
+      "url": "https://open.spotify.com/track/7qVJgLLnEwxNpScPpy6fAl"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227796,
+      "name": "El Oasis",
+      "url": "https://open.spotify.com/track/0QnqvWRqa5SGHBw1F8EFgM"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208087,
+      "name": "El Secreto",
+      "url": "https://open.spotify.com/track/7M3GHI7DgPq9XWiTFla6ev"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278343,
+      "name": "Entre Vos y Yo",
+      "url": "https://open.spotify.com/track/3H7wULYr0I5lTucP1hS3Wt"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220395,
+      "name": "Florentinos y Ferminas",
+      "url": "https://open.spotify.com/track/7tqpcGyt2OL82ZuIc8euwx"
+    },
+    {
+      "album": {
+        "name": "Canciones Felices",
+        "url": "https://open.spotify.com/album/6kX4XCwyi0DC4chavTti6K"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196158,
+      "name": "Frijoles",
+      "url": "https://open.spotify.com/track/0bTrxSIhhUAydZinOWdbes"
+    },
+    {
+      "album": {
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152200,
+      "name": "Game Lover",
+      "url": "https://open.spotify.com/track/7mPoHRn8mVrhJB8hYiAbnr"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "Kil\u00f3metros",
+      "url": "https://open.spotify.com/track/4Jr2cHZaIe1rmdVlc5efIy"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os: El Show M\u00e1s Feliz del Mundo (En Vivo)",
+        "url": "https://open.spotify.com/album/3LcZw9ONp2XAz0VDJ5RILj"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304986,
+      "name": "Kil\u00f3metros - En Vivo",
+      "url": "https://open.spotify.com/track/6Cqxghbtzx0DdnQYnMwpEw"
+    },
+    {
+      "album": {
+        "name": "La Abundancia (Versi\u00f3n 8d)",
+        "url": "https://open.spotify.com/album/01BrLZcgkp9NansQp97Vtj"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183709,
+      "name": "La Abundancia - Versi\u00f3n 8D",
+      "url": "https://open.spotify.com/track/5lltxDh5Gwjr9vBcfJZKWM"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164613,
+      "name": "La Alegr\u00eda en Serio",
+      "url": "https://open.spotify.com/track/5RdZcipSf2Xysg02sVsoEp"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226341,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/25rWVbj4vZKRvhhUsM1zmC"
+    },
+    {
+      "album": {
+        "name": "No Es Lo Que Parece",
+        "url": "https://open.spotify.com/album/3zSpK9IRrUvX96rTL5tmzC"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Pity \u00c1lvarez",
+          "url": "https://open.spotify.com/artist/1PWKRe6w1W612Y0Zew5NDs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214154,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/7MOTvgsCBFM8TRGUWI9heK"
+    },
+    {
+      "album": {
+        "name": "La Pupera",
+        "url": "https://open.spotify.com/album/4mzV7a4BD2u2ektjbPkG7U"
+      },
+      "artists": [
+        {
+          "name": "La Mona Jimenez / los caligaris",
+          "url": "https://open.spotify.com/artist/7HEznwudX95hTcdrRYizZf"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "La Pupera",
+      "url": "https://open.spotify.com/track/3HQBrVgetHZaR3Avz2Z0a5"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Dr.Shenka",
+          "url": "https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Luchamos por la Causa",
+      "url": "https://open.spotify.com/track/14ub6WUYpvWRXMnZXPh4tv"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Dr.Shenka",
+          "url": "https://open.spotify.com/artist/0SIPopELCLWFhd0v52B7S1"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217973,
+      "name": "Luchamos por la Causa - Vivo",
+      "url": "https://open.spotify.com/track/5k4yufX1vLO4zxcQr3nRpC"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229280,
+      "name": "Mejilla Izquierda",
+      "url": "https://open.spotify.com/track/1HxNA8JjIIfVGqMr7Jm59f"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203173,
+      "name": "Mejilla Izquierda - Vivo",
+      "url": "https://open.spotify.com/track/4AD5zDwglnQiHjbtAuKhG1"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153640,
+      "name": "Mentime la Verdad",
+      "url": "https://open.spotify.com/track/2mKtuCFjL0JPW1UbxH9ZzD"
+    },
+    {
+      "album": {
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "Mi Estanciera y Yo",
+      "url": "https://open.spotify.com/track/77c8h3dttGTNYDVaMjUEqt"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Piti Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Mi Estanciera y Yo - Vivo",
+      "url": "https://open.spotify.com/track/6NOCDzHl80r4m3fu5TvlwC"
+    },
+    {
+      "album": {
+        "name": "Grasas Totales",
+        "url": "https://open.spotify.com/album/0ik3kh6W8yxfQyamGsQVBa"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204426,
+      "name": "Mis Tres Amores",
+      "url": "https://open.spotify.com/track/3fvKOAGCbNmq1rce4tvIQV"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Mojarrita",
+      "url": "https://open.spotify.com/track/04vRhXMEfXNHqeYAzCg9P4"
+    },
+    {
+      "album": {
+        "name": "Yernos Perfectos",
+        "url": "https://open.spotify.com/album/7cmjeaLyvhiCqRA5MmXuYq"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218104,
+      "name": "Nadie Es Perfecto",
+      "url": "https://open.spotify.com/track/5Mjc8idHi4L9GsEbY0Jfth"
+    },
+    {
+      "album": {
+        "name": "Transpirando Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4USwVEFbaXoNsMvGozZWiI"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174246,
+      "name": "No Est\u00e1s",
+      "url": "https://open.spotify.com/track/1oskBbQvfMHe7kKOojOJHa"
+    },
+    {
+      "album": {
+        "name": "No Est\u00e1s (En Vivo) - Single",
+        "url": "https://open.spotify.com/album/1FVTfbqpPsKW4Rc33V5WQ6"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181869,
+      "name": "No Est\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0ix9UgbXpU5gMqJ75mLI0E"
+    },
+    {
+      "album": {
+        "name": "Ocho Cuarenta (feat. Los Caligaris - en Vivo en el Foro Sol - 17.11.17)",
+        "url": "https://open.spotify.com/album/6kWVXBEREXCmCYteDfFFQO"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248458,
+      "name": "Ocho Cuarenta - En Vivo en el Foro Sol - 17.11.17",
+      "url": "https://open.spotify.com/track/2PEn0KfNdrSq82CKlYvRrZ"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166086,
+      "name": "Odio los Lunes",
+      "url": "https://open.spotify.com/track/2WsAArzJsDzElcCk731dm5"
+    },
+    {
+      "album": {
+        "name": "Canciones para Armar",
+        "url": "https://open.spotify.com/album/2AgvSpNbPd3q528YWvRvQJ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297034,
+      "name": "Olvidar",
+      "url": "https://open.spotify.com/track/1Kff9M64hU5w2sC8RpxT51"
+    },
+    {
+      "album": {
+        "name": "Canciones para Armar",
+        "url": "https://open.spotify.com/album/2AgvSpNbPd3q528YWvRvQJ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Parece Que Fue Ayer",
+      "url": "https://open.spotify.com/track/41Ju0eKWJH3lMGgjXnW5Sw"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173631,
+      "name": "Partes de un Avi\u00f3n",
+      "url": "https://open.spotify.com/track/2jNl3ek20Y96JW2IeU8Q22"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131466,
+      "name": "Pero No Puedo",
+      "url": "https://open.spotify.com/track/5zYOd44weo0Le4VhlM3wmQ"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "Que Corran",
+      "url": "https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306680,
+      "name": "Que Corran - Vivo",
+      "url": "https://open.spotify.com/track/55WurKBHqRBBjgpyuLQKT3"
+    },
+    {
+      "album": {
+        "name": "Queda en Esta Noche",
+        "url": "https://open.spotify.com/album/3o3B8TKeUGTX2aNaNKcWZU"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149269,
+      "name": "Queda en Esta Noche",
+      "url": "https://open.spotify.com/track/1PA14CUHy7pwikmVZCCuj7"
+    },
+    {
+      "album": {
+        "name": "Chanchos Amigos",
+        "url": "https://open.spotify.com/album/4CVKkxqqOZmGCNqEqAvvOY"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262066,
+      "name": "Quereme As\u00ed",
+      "url": "https://open.spotify.com/track/5SYefHqRXNFjmBLICBseWw"
+    },
+    {
+      "album": {
+        "name": "Quiero Cumbia",
+        "url": "https://open.spotify.com/album/0z1fr5Qa9YXhjfJmdAsAFU"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Kodigo",
+          "url": "https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219150,
+      "name": "Quiero Cumbia",
+      "url": "https://open.spotify.com/track/5g5lurZtBGXooVqshQP3k9"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195580,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "album": {
+        "name": "Raz\u00f3n (En Vivo) - Single",
+        "url": "https://open.spotify.com/album/35gGj0C2CTYSFpkiDMWzd7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204583,
+      "name": "Raz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/79vchPw6mA5F3b4Ft2TqDT"
+    },
+    {
+      "album": {
+        "name": "Caligaris Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/6QopnRaOPsOVwtDZZCA7oc"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Banda Sinf\u00f3nica Municipal de C\u00f3rdoba",
+          "url": "https://open.spotify.com/artist/4ChteyurSEBC6rbVLFMUtj"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204579,
+      "name": "Raz\u00f3n - Sinf\u00f3nica",
+      "url": "https://open.spotify.com/track/24C7QaWHdJ3ishDQ24oHdz"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188113,
+      "name": "Rimas Perfectas",
+      "url": "https://open.spotify.com/track/6K9b4pNM6SjYS4IpiVFui7"
+    },
+    {
+      "album": {
+        "name": "Transpirando Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4USwVEFbaXoNsMvGozZWiI"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198394,
+      "name": "Saber Perder",
+      "url": "https://open.spotify.com/track/3wkD7Y2SDXmeuZ9nkzQikR"
+    },
+    {
+      "album": {
+        "name": "Saber Perder (Versi\u00f3n Salsa-Son)",
+        "url": "https://open.spotify.com/album/66qMU3zi1gYtCYgqz4ASdZ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Ivonne Guzm\u00e1n",
+          "url": "https://open.spotify.com/artist/0ZjdMZB4ZGx8aM53fGzoFY"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213269,
+      "name": "Saber Perder - Versi\u00f3n Salsa-Son",
+      "url": "https://open.spotify.com/track/32l5lCxrPvhwIXOOKL51ix"
+    },
+    {
+      "album": {
+        "name": "Te Robaste Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7y1Yb6yojBy210n7Ha8DRR"
+      },
+      "artists": [
+        {
+          "name": "Fidel Nadal",
+          "url": "https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220162,
+      "name": "Te Robaste Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4rz1uz4tBkNIQzLqse6w9D"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142186,
+      "name": "Todos Locos",
+      "url": "https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk"
+    },
+    {
+      "album": {
+        "name": "Somos Todos Vivos",
+        "url": "https://open.spotify.com/album/4oIgBZgbHjo4devnHF92SW"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150253,
+      "name": "Todos Locos - Vivo",
+      "url": "https://open.spotify.com/track/1X3mXgzkNXFTQDP98MdPtL"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186081,
+      "name": "Todos Tenemos Problemas",
+      "url": "https://open.spotify.com/track/7LKiENzUj3ZC7vcVPkDSCr"
+    },
+    {
+      "album": {
+        "name": "Tu Alegr\u00eda a Flor de Piel",
+        "url": "https://open.spotify.com/album/3CRqyhwzehr6oi2BdyYw5a"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "La Mona Jimenez",
+          "url": "https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182629,
+      "name": "Tu Alegr\u00eda a Flor de Piel",
+      "url": "https://open.spotify.com/track/6NoH07G9cPs1N7Mt9L9Rmx"
+    },
+    {
+      "album": {
+        "name": "Transpirando Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4USwVEFbaXoNsMvGozZWiI"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170726,
+      "name": "Tus Besos",
+      "url": "https://open.spotify.com/track/790qspHCeJI8pOSFkI53WQ"
+    },
+    {
+      "album": {
+        "name": "Transpirando Alegr\u00eda",
+        "url": "https://open.spotify.com/album/4USwVEFbaXoNsMvGozZWiI"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196207,
+      "name": "Tyson",
+      "url": "https://open.spotify.com/track/0Ki1LxOG8z8ywTCcUT3ugq"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238849,
+      "name": "Un Elefante en un Pesebre",
+      "url": "https://open.spotify.com/track/422GpyFjvjVAcTqBQ9lzRT"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233296,
+      "name": "Un Mont\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/1RdDDwQ5moanrkdrKFEKoZ"
+    },
+    {
+      "album": {
+        "name": "Salva",
+        "url": "https://open.spotify.com/album/2NnwceW4YxLijfnI0rXhBn"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213210,
+      "name": "Un Rato de Amor",
+      "url": "https://open.spotify.com/track/6YcxDu8PuBi5kSYNh0dw4O"
+    },
+    {
+      "album": {
+        "name": "Bailar\u00edn Apocal\u00edptico",
+        "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242582,
+      "name": "Vereda",
+      "url": "https://open.spotify.com/track/4jcAxMLms2Rmc0z940LuH8"
+    },
+    {
+      "album": {
+        "name": "Vivir As\u00ed Es Morir de Amor",
+        "url": "https://open.spotify.com/album/4NM7RNZjb59nlDoMxku2qr"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Pedro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195406,
+      "name": "Vivir As\u00ed Es Morir de Amor",
+      "url": "https://open.spotify.com/track/7vP1ftuN13Tq2j9gVlEm1l"
+    },
+    {
+      "album": {
+        "name": "Circolog\u00eda",
+        "url": "https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122306,
+      "name": "Vivir por Vos",
+      "url": "https://open.spotify.com/track/5sgaq8OSkJAWfzoUGOVpLi"
+    },
+    {
+      "album": {
+        "name": "Voy a Volver",
+        "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235786,
+      "name": "Voy a Volver",
+      "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
+    },
+    {
+      "album": {
+        "name": "Y Qu\u00e9",
+        "url": "https://open.spotify.com/album/74O5uImCc5ctNvJe3CKI7y"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212368,
+      "name": "Y Qu\u00e9",
+      "url": "https://open.spotify.com/track/0nrtry9z9uj3AHr5x58cK8"
+    },
+    {
+      "album": {
+        "name": "La tempestad / Y volar",
+        "url": "https://open.spotify.com/album/5hNOjVxHWlibTnbJgZFuUZ"
+      },
+      "artists": [
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188590,
+      "name": "Y volar (con los Caligaris)",
+      "url": "https://open.spotify.com/track/1MZ0kgA4d9fRR8PMQvHf0R"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8gS0OBxLGOn"
 }

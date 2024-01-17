@@ -1,569 +1,1843 @@
 {
-  "2022-06-10": 24592,
-  "2022-06-11": 24596,
-  "2022-06-12": 24601,
-  "2022-06-13": 24607,
-  "2022-06-14": 24613,
-  "2022-06-15": 24618,
-  "2022-06-16": 24624,
-  "2022-06-17": 24630,
-  "2022-06-18": 24632,
-  "2022-06-19": 24639,
-  "2022-06-20": 24639,
-  "2022-06-21": 24648,
-  "2022-06-22": 24658,
-  "2022-06-23": 24658,
-  "2022-06-24": 24662,
-  "2022-06-25": 24669,
-  "2022-06-26": 24677,
-  "2022-06-27": 24682,
-  "2022-06-28": 24687,
-  "2022-06-29": 24690,
-  "2022-06-30": 24696,
-  "2022-07-01": 24701,
-  "2022-07-02": 24707,
-  "2022-07-03": 24717,
-  "2022-07-04": 24723,
-  "2022-07-05": 24721,
-  "2022-07-06": 24721,
-  "2022-07-07": 24726,
-  "2022-07-08": 24727,
-  "2022-07-09": 24732,
-  "2022-07-10": 24744,
-  "2022-07-11": 24746,
-  "2022-07-12": 24756,
-  "2022-07-13": 24760,
-  "2022-07-14": 24763,
-  "2022-07-15": 24766,
-  "2022-07-16": 24778,
-  "2022-07-17": 24779,
-  "2022-07-18": 24782,
-  "2022-07-19": 24785,
-  "2022-07-20": 24788,
-  "2022-07-21": 24794,
-  "2022-07-22": 24799,
-  "2022-07-23": 24801,
-  "2022-07-24": 24804,
-  "2022-07-25": 24808,
-  "2022-07-26": 24811,
-  "2022-07-27": 24817,
-  "2022-07-28": 24824,
-  "2022-07-29": 24828,
-  "2022-07-30": 24838,
-  "2022-07-31": 24838,
-  "2022-08-01": 24840,
-  "2022-08-02": 24850,
-  "2022-08-03": 24850,
-  "2022-08-04": 24853,
-  "2022-08-05": 24856,
-  "2022-08-06": 24862,
-  "2022-08-07": 24868,
-  "2022-08-08": 24879,
-  "2022-08-09": 24885,
-  "2022-08-10": 24896,
-  "2022-08-11": 24904,
-  "2022-08-12": 24907,
-  "2022-08-13": 24909,
-  "2022-08-14": 24915,
-  "2022-08-15": 24927,
-  "2022-08-16": 24930,
-  "2022-08-17": 24935,
-  "2022-08-18": 24943,
-  "2022-08-19": 24942,
-  "2022-08-20": 24950,
-  "2022-08-21": 24955,
-  "2022-08-22": 24961,
-  "2022-08-23": 24967,
-  "2022-08-24": 24975,
-  "2022-08-25": 24985,
-  "2022-08-26": 24988,
-  "2022-08-27": 24997,
-  "2022-08-28": 25000,
-  "2022-08-29": 25011,
-  "2022-08-30": 25010,
-  "2022-08-31": 25002,
-  "2022-09-01": 24999,
-  "2022-09-02": 24990,
-  "2022-09-03": 24977,
-  "2022-09-04": 24976,
-  "2022-09-05": 24984,
-  "2022-09-06": 24990,
-  "2022-09-07": 24993,
-  "2022-09-09": 25001,
-  "2022-09-10": 25008,
-  "2022-09-11": 25019,
-  "2022-09-12": 25024,
-  "2022-09-13": 25030,
-  "2022-09-15": 25042,
-  "2022-09-16": 25053,
-  "2022-09-17": 25061,
-  "2022-09-18": 25059,
-  "2022-09-19": 25071,
-  "2022-09-20": 25077,
-  "2022-09-21": 25080,
-  "2022-09-22": 25093,
-  "2022-09-23": 25098,
-  "2022-09-24": 25104,
-  "2022-09-25": 25110,
-  "2022-09-26": 25115,
-  "2022-09-27": 25123,
-  "2022-09-28": 25136,
-  "2022-09-29": 25141,
-  "2022-09-30": 25144,
-  "2022-10-01": 25155,
-  "2022-10-02": 25162,
-  "2022-10-03": 25172,
-  "2022-10-04": 25177,
-  "2022-10-05": 25187,
-  "2022-10-06": 25192,
-  "2022-10-07": 25197,
-  "2022-10-08": 25203,
-  "2022-10-09": 25211,
-  "2022-10-10": 25213,
-  "2022-10-11": 25219,
-  "2022-10-12": 25226,
-  "2022-10-13": 25231,
-  "2022-10-14": 25233,
-  "2022-10-15": 25238,
-  "2022-10-16": 25245,
-  "2022-10-17": 25251,
-  "2022-10-18": 25258,
-  "2022-10-19": 25260,
-  "2022-10-20": 25268,
-  "2022-10-21": 25272,
-  "2022-10-22": 25278,
-  "2022-10-23": 25286,
-  "2022-10-24": 25293,
-  "2022-10-25": 25300,
-  "2022-10-26": 25303,
-  "2022-10-27": 25303,
-  "2022-10-28": 25309,
-  "2022-10-29": 25311,
-  "2022-10-30": 25313,
-  "2022-10-31": 25320,
-  "2022-11-01": 25320,
-  "2022-11-02": 25325,
-  "2022-11-03": 25330,
-  "2022-11-04": 25335,
-  "2022-11-05": 25343,
-  "2022-11-06": 25347,
-  "2022-11-07": 25349,
-  "2022-11-08": 25351,
-  "2022-11-09": 25359,
-  "2022-11-10": 25367,
-  "2022-11-11": 25374,
-  "2022-11-12": 25381,
-  "2022-11-13": 25383,
-  "2022-11-14": 25392,
-  "2022-11-15": 25395,
-  "2022-11-16": 25399,
-  "2022-11-17": 25400,
-  "2022-11-18": 25394,
-  "2022-11-19": 25397,
-  "2022-11-20": 25401,
-  "2022-11-21": 25407,
-  "2022-11-22": 25417,
-  "2022-11-23": 25420,
-  "2022-11-24": 25428,
-  "2022-11-25": 25433,
-  "2022-11-26": 25437,
-  "2022-11-27": 25445,
-  "2022-11-28": 25451,
-  "2022-11-29": 25457,
-  "2022-11-30": 25465,
-  "2022-12-01": 25469,
-  "2022-12-02": 25472,
-  "2022-12-03": 25475,
-  "2022-12-04": 25479,
-  "2022-12-05": 25485,
-  "2022-12-06": 25496,
-  "2022-12-07": 25505,
-  "2022-12-08": 25511,
-  "2022-12-09": 25522,
-  "2022-12-10": 25530,
-  "2022-12-11": 25529,
-  "2022-12-12": 25537,
-  "2022-12-13": 25542,
-  "2022-12-14": 25545,
-  "2022-12-15": 25549,
-  "2022-12-16": 25552,
-  "2022-12-17": 25558,
-  "2022-12-18": 25563,
-  "2022-12-19": 25572,
-  "2022-12-20": 25587,
-  "2022-12-21": 25587,
-  "2022-12-22": 25598,
-  "2022-12-24": 25604,
-  "2022-12-25": 25614,
-  "2022-12-26": 25616,
-  "2022-12-27": 25616,
-  "2022-12-28": 25618,
-  "2022-12-29": 25620,
-  "2022-12-30": 25622,
-  "2022-12-31": 25624,
-  "2023-01-01": 25625,
-  "2023-01-02": 25629,
-  "2023-01-03": 25636,
-  "2023-01-04": 25644,
-  "2023-01-05": 25646,
-  "2023-01-06": 25646,
-  "2023-01-07": 25655,
-  "2023-01-08": 25656,
-  "2023-01-09": 25661,
-  "2023-01-10": 25660,
-  "2023-01-11": 25667,
-  "2023-01-12": 25673,
-  "2023-01-13": 25677,
-  "2023-01-14": 25685,
-  "2023-01-15": 25684,
-  "2023-01-16": 25703,
-  "2023-01-17": 25703,
-  "2023-01-18": 25710,
-  "2023-01-19": 25711,
-  "2023-01-20": 25714,
-  "2023-01-21": 25724,
-  "2023-01-22": 25737,
-  "2023-01-23": 25755,
-  "2023-01-24": 25762,
-  "2023-01-25": 25768,
-  "2023-01-26": 25783,
-  "2023-01-27": 25790,
-  "2023-01-28": 25795,
-  "2023-01-29": 25801,
-  "2023-01-30": 25806,
-  "2023-01-31": 25806,
-  "2023-02-01": 25815,
-  "2023-02-02": 25816,
-  "2023-02-03": 25821,
-  "2023-02-04": 25829,
-  "2023-02-05": 25838,
-  "2023-02-06": 25843,
-  "2023-02-07": 25848,
-  "2023-02-08": 25855,
-  "2023-02-09": 25855,
-  "2023-02-10": 25853,
-  "2023-02-11": 25859,
-  "2023-02-12": 25870,
-  "2023-02-13": 25873,
-  "2023-02-14": 25873,
-  "2023-02-15": 25877,
-  "2023-02-16": 25887,
-  "2023-02-17": 25892,
-  "2023-02-18": 25906,
-  "2023-02-19": 25908,
-  "2023-02-20": 25912,
-  "2023-02-21": 25919,
-  "2023-02-22": 25919,
-  "2023-02-23": 25926,
-  "2023-02-24": 25937,
-  "2023-02-25": 25939,
-  "2023-02-26": 25941,
-  "2023-02-27": 25950,
-  "2023-02-28": 25950,
-  "2023-03-01": 25952,
-  "2023-03-02": 25954,
-  "2023-03-03": 25956,
-  "2023-03-04": 25958,
-  "2023-03-05": 25971,
-  "2023-03-06": 25971,
-  "2023-03-07": 25977,
-  "2023-03-08": 25980,
-  "2023-03-09": 25983,
-  "2023-03-10": 25984,
-  "2023-03-11": 25993,
-  "2023-03-12": 25998,
-  "2023-03-13": 26004,
-  "2023-03-14": 26009,
-  "2023-03-15": 26011,
-  "2023-03-16": 26011,
-  "2023-03-17": 26011,
-  "2023-03-18": 26017,
-  "2023-03-19": 26017,
-  "2023-03-20": 26031,
-  "2023-03-21": 26031,
-  "2023-03-22": 26037,
-  "2023-03-23": 26037,
-  "2023-03-24": 26037,
-  "2023-03-25": 26045,
-  "2023-03-26": 26049,
-  "2023-03-27": 26054,
-  "2023-03-28": 26062,
-  "2023-03-29": 26064,
-  "2023-03-30": 26069,
-  "2023-03-31": 26069,
-  "2023-04-01": 26074,
-  "2023-04-02": 26085,
-  "2023-04-03": 26086,
-  "2023-04-04": 26093,
-  "2023-04-05": 26095,
-  "2023-04-06": 26099,
-  "2023-04-07": 26105,
-  "2023-04-09": 26115,
-  "2023-04-10": 26113,
-  "2023-04-11": 26126,
-  "2023-04-12": 26126,
-  "2023-04-13": 26126,
-  "2023-04-14": 26123,
-  "2023-04-15": 26131,
-  "2023-04-16": 26137,
-  "2023-04-17": 26142,
-  "2023-04-18": 26147,
-  "2023-04-19": 26155,
-  "2023-04-20": 26154,
-  "2023-04-21": 26160,
-  "2023-04-22": 26167,
-  "2023-04-23": 26176,
-  "2023-04-24": 26182,
-  "2023-04-25": 26179,
-  "2023-04-26": 26184,
-  "2023-04-27": 26186,
-  "2023-04-28": 26196,
-  "2023-04-29": 26200,
-  "2023-04-30": 26209,
-  "2023-05-01": 26208,
-  "2023-05-02": 26213,
-  "2023-05-03": 26215,
-  "2023-05-04": 26221,
-  "2023-05-05": 26222,
-  "2023-05-06": 26227,
-  "2023-05-07": 26236,
-  "2023-05-08": 26242,
-  "2023-05-09": 26240,
-  "2023-05-10": 26241,
-  "2023-05-11": 26246,
-  "2023-05-12": 26246,
-  "2023-05-13": 26252,
-  "2023-05-14": 26259,
-  "2023-05-15": 26268,
-  "2023-05-16": 26270,
-  "2023-05-17": 26274,
-  "2023-05-18": 26281,
-  "2023-05-19": 26280,
-  "2023-05-20": 26290,
-  "2023-05-21": 26290,
-  "2023-05-22": 26290,
-  "2023-05-23": 26293,
-  "2023-05-24": 26297,
-  "2023-05-25": 26295,
-  "2023-05-26": 26299,
-  "2023-05-27": 26305,
-  "2023-05-28": 26310,
-  "2023-05-29": 26310,
-  "2023-05-30": 26317,
-  "2023-05-31": 26323,
-  "2023-06-01": 26329,
-  "2023-06-02": 26331,
-  "2023-06-03": 26334,
-  "2023-06-04": 26338,
-  "2023-06-05": 26343,
-  "2023-06-06": 26350,
-  "2023-06-07": 26352,
-  "2023-06-08": 26358,
-  "2023-06-09": 26370,
-  "2023-06-10": 26376,
-  "2023-06-11": 26380,
-  "2023-06-12": 26387,
-  "2023-06-13": 26391,
-  "2023-06-14": 26390,
-  "2023-06-15": 26390,
-  "2023-06-16": 26393,
-  "2023-06-17": 26399,
-  "2023-06-18": 26409,
-  "2023-06-19": 26413,
-  "2023-06-20": 26414,
-  "2023-06-21": 26417,
-  "2023-06-22": 26418,
-  "2023-06-23": 26429,
-  "2023-06-24": 26432,
-  "2023-06-25": 26439,
-  "2023-06-26": 26446,
-  "2023-06-27": 26452,
-  "2023-06-28": 26459,
-  "2023-06-29": 26466,
-  "2023-06-30": 26473,
-  "2023-07-01": 26489,
-  "2023-07-02": 26489,
-  "2023-07-03": 26495,
-  "2023-07-04": 26498,
-  "2023-07-05": 26505,
-  "2023-07-06": 26503,
-  "2023-07-07": 26503,
-  "2023-07-08": 26509,
-  "2023-07-09": 26517,
-  "2023-07-10": 26516,
-  "2023-07-11": 26515,
-  "2023-07-12": 26518,
-  "2023-07-13": 26522,
-  "2023-07-14": 26524,
-  "2023-07-15": 26531,
-  "2023-07-16": 26528,
-  "2023-07-17": 26536,
-  "2023-07-18": 26539,
-  "2023-07-19": 26542,
-  "2023-07-20": 26545,
-  "2023-07-21": 26548,
-  "2023-07-22": 26550,
-  "2023-07-23": 26549,
-  "2023-07-24": 26553,
-  "2023-07-25": 26557,
-  "2023-07-26": 26563,
-  "2023-07-27": 26569,
-  "2023-07-28": 26573,
-  "2023-07-29": 26581,
-  "2023-07-30": 26587,
-  "2023-07-31": 26595,
-  "2023-08-01": 26594,
-  "2023-08-02": 26597,
-  "2023-08-03": 26602,
-  "2023-08-04": 26604,
-  "2023-08-05": 26610,
-  "2023-08-06": 26611,
-  "2023-08-07": 26611,
-  "2023-08-08": 26619,
-  "2023-08-09": 26626,
-  "2023-08-10": 26632,
-  "2023-08-11": 26635,
-  "2023-08-12": 26635,
-  "2023-08-13": 26635,
-  "2023-08-14": 26650,
-  "2023-08-15": 26650,
-  "2023-08-16": 26650,
-  "2023-08-17": 26661,
-  "2023-08-18": 26661,
-  "2023-08-19": 26669,
-  "2023-08-20": 26675,
-  "2023-08-21": 26675,
-  "2023-08-22": 26687,
-  "2023-08-23": 26690,
-  "2023-08-24": 26693,
-  "2023-08-25": 26693,
-  "2023-08-26": 26700,
-  "2023-08-27": 26700,
-  "2023-08-28": 26711,
-  "2023-08-29": 26711,
-  "2023-08-30": 26711,
-  "2023-08-31": 26737,
-  "2023-09-01": 26749,
-  "2023-09-02": 26749,
-  "2023-09-03": 26752,
-  "2023-09-04": 26752,
-  "2023-09-05": 26752,
-  "2023-09-06": 26771,
-  "2023-09-07": 26771,
-  "2023-09-08": 26771,
-  "2023-09-09": 26771,
-  "2023-09-10": 26784,
-  "2023-09-11": 26784,
-  "2023-09-12": 26784,
-  "2023-09-13": 26785,
-  "2023-09-14": 26785,
-  "2023-09-15": 26785,
-  "2023-09-16": 26797,
-  "2023-09-17": 26797,
-  "2023-09-18": 26797,
-  "2023-09-19": 26806,
-  "2023-09-20": 26806,
-  "2023-09-21": 26806,
-  "2023-09-22": 26815,
-  "2023-09-23": 26815,
-  "2023-09-24": 26815,
-  "2023-09-25": 26815,
-  "2023-09-26": 26825,
-  "2023-09-27": 26825,
-  "2023-09-28": 26825,
-  "2023-09-29": 26825,
-  "2023-09-30": 26825,
-  "2023-10-01": 26825,
-  "2023-10-02": 26837,
-  "2023-10-03": 26837,
-  "2023-10-04": 26837,
-  "2023-10-05": 26846,
-  "2023-10-06": 26853,
-  "2023-10-07": 26853,
-  "2023-10-08": 26853,
-  "2023-10-09": 26853,
-  "2023-10-10": 26853,
-  "2023-10-11": 26868,
-  "2023-10-12": 26868,
-  "2023-10-13": 26868,
-  "2023-10-14": 26868,
-  "2023-10-15": 26868,
-  "2023-10-16": 26868,
-  "2023-10-17": 26868,
-  "2023-10-18": 26868,
-  "2023-10-19": 26868,
-  "2023-10-20": 26868,
-  "2023-10-21": 26868,
-  "2023-10-22": 26868,
-  "2023-10-23": 26868,
-  "2023-10-24": 26868,
-  "2023-10-25": 26868,
-  "2023-10-26": 26868,
-  "2023-10-27": 26868,
-  "2023-10-28": 26868,
-  "2023-10-29": 26868,
-  "2023-10-30": 26868,
-  "2023-10-31": 26868,
-  "2023-11-01": 26868,
-  "2023-11-02": 26868,
-  "2023-11-03": 26868,
-  "2023-11-04": 26868,
-  "2023-11-05": 26868,
-  "2023-11-06": 26868,
-  "2023-11-07": 26868,
-  "2023-11-08": 26868,
-  "2023-11-09": 26868,
-  "2023-11-10": 26868,
-  "2023-11-11": 26943,
-  "2023-11-12": 26943,
-  "2023-11-13": 26943,
-  "2023-11-14": 26943,
-  "2023-11-15": 26943,
-  "2023-11-16": 26943,
-  "2023-11-17": 26943,
-  "2023-11-18": 26943,
-  "2023-11-19": 26943,
-  "2023-11-20": 26943,
-  "2023-11-21": 26943,
-  "2023-11-22": 26943,
-  "2023-11-23": 26943,
-  "2023-11-24": 26943,
-  "2023-11-25": 26943,
-  "2023-11-26": 26943,
-  "2023-11-27": 26943,
-  "2023-11-28": 26943,
-  "2023-11-29": 26943,
-  "2023-11-30": 26943,
-  "2023-12-01": 26943,
-  "2023-12-02": 26943,
-  "2023-12-03": 26943,
-  "2023-12-04": 26943,
-  "2023-12-05": 26943,
-  "2023-12-06": 26943,
-  "2023-12-07": 26943,
-  "2023-12-08": 26943,
-  "2023-12-09": 26943,
-  "2023-12-10": 26943,
-  "2023-12-11": 26943,
-  "2023-12-12": 26943,
-  "2023-12-13": 26943,
-  "2023-12-14": 27011,
-  "2023-12-15": 27014,
-  "2023-12-16": 27023,
-  "2023-12-17": 27023,
-  "2023-12-18": 27024,
-  "2023-12-19": 27029,
-  "2023-12-20": 27029,
-  "2023-12-21": 27026,
-  "2023-12-22": 27028,
-  "2023-12-23": 27033,
-  "2023-12-24": 27038,
-  "2023-12-25": 27039,
-  "2023-12-26": 27044,
-  "2023-12-27": 27047,
-  "2023-12-30": 27056,
-  "2023-12-31": 27057,
-  "2024-01-01": 27055,
-  "2024-01-02": 27059,
-  "2024-01-03": 27061
+  "2024-01-17": 27009,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
+  "name": "This Is Nana Mizuki",
+  "tracks": [
+    {
+      "album": {
+        "name": "TESTAMENT",
+        "url": "https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 234546,
+      "name": "ACROSS",
+      "url": "https://open.spotify.com/track/3eiSAx0hftzyT1cEC3e9Ff"
+    },
+    {
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324586,
+      "name": "BRAVE PHOENIX",
+      "url": "https://open.spotify.com/track/190ZA5j2gi1uoFmjEPHFOZ"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251400,
+      "name": "BRIGHT STREAM",
+      "url": "https://open.spotify.com/track/5QfnHouzl7E6UaUhtDf99T"
+    },
+    {
+      "album": {
+        "name": "GREAT ACTIVITY",
+        "url": "https://open.spotify.com/album/0by4toi3Hf7VOiVCNqvVdW"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 252680,
+      "name": "Bring it on!",
+      "url": "https://open.spotify.com/track/6h28YawAmYSLCWEBAU1ez7"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Dancing in the velvet moon",
+      "url": "https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-06-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 260201,
+      "name": "DAYBREAKERS",
+      "url": "https://open.spotify.com/track/5JRD23S0aSND1Aeuz5FIYH"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
+      "duration_ms": 302013,
+      "name": "Destiny's Prelude",
+      "url": "https://open.spotify.com/track/0NVnQPyOowdP1euP7rslKx"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239360,
+      "name": "DISCOTHEQUE",
+      "url": "https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217915,
+      "name": "DNA -Dance 'n' Amuse-",
+      "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
+    },
+    {
+      "album": {
+        "name": "PHANTOM MINDS",
+        "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 276080,
+      "name": "Don't be long",
+      "url": "https://open.spotify.com/track/3uQ060lAf4KKnf0F2yp7OE"
+    },
+    {
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307546,
+      "name": "ETERNAL BLAZE",
+      "url": "https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks"
+    },
+    {
+      "album": {
+        "name": "Exterminate",
+        "url": "https://open.spotify.com/album/5eyRVLUSNzYmLwoX2rKZ1e"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 242400,
+      "name": "Exterminate",
+      "url": "https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245093,
+      "name": "Exterminate",
+      "url": "https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK"
+    },
+    {
+      "album": {
+        "name": "BRIGHT STREAM",
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254253,
+      "name": "FEARLESS HERO",
+      "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
+    },
+    {
+      "album": {
+        "name": "FINAL COMMANDER",
+        "url": "https://open.spotify.com/album/79ZMg93RW0DUIG6flJDOJ1"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262403,
+      "name": "FINAL COMMANDER",
+      "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305032,
+      "name": "FINAL COMMANDER -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/2eWyeChIRLpqtVTxsCQtnJ"
+    },
+    {
+      "album": {
+        "name": "FIRE SCREAM",
+        "url": "https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225302,
+      "name": "FIRE SCREAM",
+      "url": "https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 227934,
+      "name": "FIRE SCREAM",
+      "url": "https://open.spotify.com/track/10NBFtkgSdqzh7Xdcouzek"
+    },
+    {
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+    },
+    {
+      "album": {
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/0iVDWHViURVVmw3cw5gVMF"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250118,
+      "name": "Get up! Shout!",
+      "url": "https://open.spotify.com/track/2FTt8Qkc04fcRZzwDEsNrh"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260106,
+      "name": "Gimmick Game",
+      "url": "https://open.spotify.com/track/0SuigwpDRKB1WZnAoE3AsC"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 235175,
+      "name": "glitch",
+      "url": "https://open.spotify.com/track/41Ynbqwr59G7IqKztzZkNP"
+    },
+    {
+      "album": {
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 232666,
+      "name": "GLORIA",
+      "url": "https://open.spotify.com/track/2LZGtWalfH0jc2cYGv3PF2"
+    },
+    {
+      "album": {
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316280,
+      "name": "Glorious Break",
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 230269,
+      "name": "Go Live!",
+      "url": "https://open.spotify.com/track/6fPmnIyjD5Gq9G4IVJ8ThE"
+    },
+    {
+      "album": {
+        "name": "Go Live!",
+        "url": "https://open.spotify.com/album/2ptmwRdo4fRDPOW1JbNHDv"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 230280,
+      "name": "Go Live!",
+      "url": "https://open.spotify.com/track/7DtziIc0PbQqXEA2y0GpCR"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 238328,
+      "name": "HOLY TALE",
+      "url": "https://open.spotify.com/track/2mM3EpaWr850L0hsZ5enND"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 280640,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/1HQC4xCEMH0VZUnj4xkVFu"
+    },
+    {
+      "album": {
+        "name": "innocent starter",
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281133,
+      "name": "innocent starter",
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "album": {
+        "name": "ETERNAL BLAZE",
+        "url": "https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 282160,
+      "name": "Inside of mind",
+      "url": "https://open.spotify.com/track/7yFqZBBIG2rC7OKI89lBPg"
+    },
+    {
+      "album": {
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-13",
+      "duration_ms": 267813,
+      "name": "Invisible Heat",
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+    },
+    {
+      "album": {
+        "name": "Justice to Believe/\u30a2\u30aa\u30a4\u30a4\u30ed",
+        "url": "https://open.spotify.com/album/2gA0xxFZ1zlfcIS60xP5Av"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 302239,
+      "name": "Justice to Believe",
+      "url": "https://open.spotify.com/track/2VXquJgTo2SfzCYLgz5cOj"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 225750,
+      "name": "Link or Chains",
+      "url": "https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
+      "duration_ms": 207995,
+      "name": "Love Fight!",
+      "url": "https://open.spotify.com/track/3U8eJXgb6ciqcb347KYOwm"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 251600,
+      "name": "MARIA&JOKER",
+      "url": "https://open.spotify.com/track/5hiyfMUO0OYNyhTEMfNaAN"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 255026,
+      "name": "MASSIVE WONDERS",
+      "url": "https://open.spotify.com/track/193WAoYb9MkQtsm25oOiAd"
+    },
+    {
+      "album": {
+        "name": "METANOIA",
+        "url": "https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275765,
+      "name": "METANOIA",
+      "url": "https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331686,
+      "name": "METANOIA -Aufwachen Form-",
+      "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 273133,
+      "name": "METRO BAROQUE",
+      "url": "https://open.spotify.com/track/3DJWi9sgQLFdhhUkyt7KTN"
+    },
+    {
+      "album": {
+        "name": "ULTIMATE DIAMOND",
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 271000,
+      "name": "Mr.Bunny!",
+      "url": "https://open.spotify.com/track/6XdzaWP71SfBog92gpowaF"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260941,
+      "name": "MY ENTERTAINMENT",
+      "url": "https://open.spotify.com/track/4McoK7F5MGfam7ENQVaJle"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 294986,
+      "name": "Necessary",
+      "url": "https://open.spotify.com/track/3xdxqxt1QjEyxOkAoBxGO4"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-08",
+      "duration_ms": 260140,
+      "name": "NEVER SURRENDER",
+      "url": "https://open.spotify.com/track/477Xr2Es25pQuBe95lrt4t"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 273840,
+      "name": "New Sensation",
+      "url": "https://open.spotify.com/track/1sRruePW6hql3PLQKilkGt"
+    },
+    {
+      "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290586,
+      "name": "NEXT ARCADIA",
+      "url": "https://open.spotify.com/track/4GnvQyayofxtMbWVLjGSgu"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 222640,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7scWTACvzsB1Q92nERgey4"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222560,
+      "name": "PHANTOM MINDS",
+      "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
+    },
+    {
+      "album": {
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Poison Lily",
+      "url": "https://open.spotify.com/track/7hhCuCjerf7mNF7urHh3iH"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268506,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
+    },
+    {
+      "album": {
+        "name": "GEISHA BOY -ANIME SONG EXPERIENCE-",
+        "url": "https://open.spotify.com/album/69ly56BCOHEVC3Q3UAlJzf"
+      },
+      "artists": [
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        },
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209946,
+      "name": "Preserved Roses",
+      "url": "https://open.spotify.com/track/6Vq4Z7jiKzCrmxYzCe7QOM"
+    },
+    {
+      "album": {
+        "name": "\u6df1\u611b",
+        "url": "https://open.spotify.com/album/2vsgFj7x7y6VRxVq3W7TlU"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 278040,
+      "name": "PRIDE OF GLORY",
+      "url": "https://open.spotify.com/track/3y7PqC0sjFJSJQbqGD9Vd2"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 191942,
+      "name": "Reboot!",
+      "url": "https://open.spotify.com/track/3RpRwAz6fZV5f9m6TMFulk"
+    },
+    {
+      "album": {
+        "name": "Red Breeze",
+        "url": "https://open.spotify.com/album/3aWStzvTschv3HBBPdMzv4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271679,
+      "name": "Red Breeze",
+      "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 272779,
+      "name": "Red Breeze",
+      "url": "https://open.spotify.com/track/0O8snDCXDEnK10SPvSvMS0"
+    },
+    {
+      "album": {
+        "name": "ETERNAL BLAZE",
+        "url": "https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 206133,
+      "name": "RUSH&DUSH!",
+      "url": "https://open.spotify.com/track/06mywJgnTCE0uby1Z8dOMQ"
+    },
+    {
+      "album": {
+        "name": "BRIGHT STREAM",
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Sacred Force",
+      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250266,
+      "name": "SCARLET KNIGHT",
+      "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 263800,
+      "name": "SECRET AMBITION",
+      "url": "https://open.spotify.com/track/5AB3codJ16dli3H2HmJyki"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 271957,
+      "name": "Stand by you",
+      "url": "https://open.spotify.com/track/4LXraG9aZEKp0eeIFxs1zU"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 208520,
+      "name": "STARTING NOW!",
+      "url": "https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0"
+    },
+    {
+      "album": {
+        "name": "DREAM SKIPPER",
+        "url": "https://open.spotify.com/album/38Va1ns3qc0w6juNJeEaWs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-09-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 270333,
+      "name": "still in the groove",
+      "url": "https://open.spotify.com/track/2s7GsHpgF9GTA6Hfc53FUK"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 271546,
+      "name": "suddenly~\u5de1\u308a\u5408\u3048\u3066~",
+      "url": "https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV"
+    },
+    {
+      "album": {
+        "name": "Sugar Doughnuts",
+        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206567,
+      "name": "Sugar Doughnuts",
+      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 226689,
+      "name": "Sweet Dealer",
+      "url": "https://open.spotify.com/track/4IjnYMOjXRejldCjJrKk8A"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267293,
+      "name": "Synchrogazer",
+      "url": "https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m"
+    },
+    {
+      "album": {
+        "name": "ROCKBOUND NEIGHBORS",
+        "url": "https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321666,
+      "name": "Synchrogazer-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM"
+    },
+    {
+      "album": {
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "Take a shot",
+      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
+    },
+    {
+      "album": {
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 306960,
+      "name": "Tears' Night",
+      "url": "https://open.spotify.com/track/4nThEOVRP7V6B2Mmok9K6x"
+    },
+    {
+      "album": {
+        "name": "TESTAMENT",
+        "url": "https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238413,
+      "name": "TESTAMENT",
+      "url": "https://open.spotify.com/track/2QSZ2xvqALjTBqZfKxsMeI"
+    },
+    {
+      "album": {
+        "name": "Trickster",
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Trinity Cross",
+      "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"
+    },
+    {
+      "album": {
+        "name": "Turn the World",
+        "url": "https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243600,
+      "name": "Turn the World",
+      "url": "https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW"
+    },
+    {
+      "album": {
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268706,
+      "name": "UNLIMITED BEAT",
+      "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226346,
+      "name": "Vitalization",
+      "url": "https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL"
+    },
+    {
+      "album": {
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284400,
+      "name": "Vitalization-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250333,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH"
+    },
+    {
+      "album": {
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 279293,
+      "name": "\u30a2\u30d1\u30c3\u30b7\u30e7\u30ca\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6pyYwQs84SjOEKL1oh8piu"
+    },
+    {
+      "album": {
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 213194,
+      "name": "\u30a2\u30f3\u30c6\u30a3\u30d5\u30a9\u30fc\u30ca",
+      "url": "https://open.spotify.com/track/2nH2TbDJxgFk2WTxvWJQi1"
+    },
+    {
+      "album": {
+        "name": "CANNONBALL RUNNING",
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-01",
+      "duration_ms": 225334,
+      "name": "\u30ab\u30eb\u30da\u30c7\u30a3\u30a8\u30e0",
+      "url": "https://open.spotify.com/track/7LOC87d5QPMWfC0Kj2anPk"
+    },
+    {
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271413,
+      "name": "\u30b5\u30fc\u30c1\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/4XuY9Y3Z7qgwU2XF05OsFH"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 239189,
+      "name": "\u30b9\u30c8\u30e9\u30c8\u30b9\u30d5\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/5Xb7Xp3EyRr0RuRau3fFO3"
+    },
+    {
+      "album": {
+        "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
+        "url": "https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-16",
+      "duration_ms": 251333,
+      "name": "\u30b9\u30d1\u30a4\u30e9\u30eb",
+      "url": "https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30d6\u30eb\u30b7\u30e3\u30c3\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/7gdHEhTNPcGxSHrFJXjt7v"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "\u30c0\u30d6\u30eb\u30b7\u30e3\u30c3\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
+    },
+    {
+      "album": {
+        "name": "WILD EYES",
+        "url": "https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299413,
+      "name": "\u30d2\u30e1\u30e0\u30e9\u30b5\u30ad",
+      "url": "https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV"
+    },
+    {
+      "album": {
+        "name": "ALIVE&KICKING",
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 249493,
+      "name": "\u30df\u30e9\u30af\u30eb\u2606\u30d5\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3jwF0jz0dcAqGlLMAxK0rc"
+    },
+    {
+      "album": {
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 237840,
+      "name": "\u30ec\u30a4\u30b8\u30fc\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3xuoTY7rAvOXWlHgoAZNdv"
+    },
+    {
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 212499,
+      "name": "\u5168\u529bDREAMER",
+      "url": "https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB"
+    },
+    {
+      "album": {
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "\u5606\u304d\u306e\u83ef",
+      "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "\u5929\u7a7a\u306e\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "album": {
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296666,
+      "name": "\u604b\u306e\u6291\u6b62\u529b-type EXCITER-",
+      "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
+    },
+    {
+      "album": {
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+    },
+    {
+      "album": {
+        "name": "HYBRID UNIVERSE",
+        "url": "https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 245373,
+      "name": "\u6b8b\u5149\u306e\u30ac\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/63dhwEm9fMJBnjyZ8dTJaT"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "\u6df1\u611b",
+      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265986,
+      "name": "\u7981\u65ad\u306e\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 303026,
+      "name": "\u7c8b\u604b",
+      "url": "https://open.spotify.com/track/4QnAK7vQVJ6IV7RHWuTD6Q"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245626,
+      "name": "\u7d14\u6f54\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/5p3ZTYHlKPHD265ZUnks8S"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30c7\u30f3",
+        "url": "https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "\u7d42\u672b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt"
+    },
+    {
+      "album": {
+        "name": "WONDER QUEST EP",
+        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        },
+        {
+          "name": "Mamoru Miyano",
+          "url": "https://open.spotify.com/artist/1iR65pQAV4ssTTf9JRNr9X"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 254840,
+      "name": "\u7d50\u754c",
+      "url": "https://open.spotify.com/track/5i4Z1BDoVoL8D8sczmwhmu"
+    },
+    {
+      "album": {
+        "name": "NEOGENE CREATION",
+        "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 278640,
+      "name": "\u7d76\u5bfe\u7684\u5e78\u798f\u8ad6",
+      "url": "https://open.spotify.com/track/7xUn19Rgau7DnWwi1fSrie"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 304840,
+      "name": "\u8ff7\u5bae\u30d0\u30bf\u30d5\u30e9\u30a4-diverse-",
+      "url": "https://open.spotify.com/track/1LYKl6K1sZ1u2f4uNZcxKz"
+    },
+    {
+      "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        },
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243506,
+      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0",
+      "url": "https://open.spotify.com/track/4DLJ9irMfkzSdr7EfjhxHx"
+    },
+    {
+      "album": {
+        "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0",
+        "url": "https://open.spotify.com/album/2PC0pafvHcNe9j66iGfwQv"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        },
+        {
+          "name": "T.M.Revolution",
+          "url": "https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 91266,
+      "name": "\u9769\u547d\u30c7\u30e5\u30a2\u30ea\u30ba\u30e0 -\u30a2\u30cb\u30e1\u30d0\u30fc\u30b8\u30e7\u30f3-",
+      "url": "https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk"
 }

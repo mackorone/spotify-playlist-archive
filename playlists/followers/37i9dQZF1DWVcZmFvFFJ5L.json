@@ -1,619 +1,2123 @@
 {
-  "2022-04-20": 35300,
-  "2022-04-21": 35319,
-  "2022-04-22": 35360,
-  "2022-04-23": 35390,
-  "2022-04-24": 35411,
-  "2022-04-25": 35443,
-  "2022-04-26": 35467,
-  "2022-04-27": 35499,
-  "2022-04-28": 35515,
-  "2022-04-29": 35546,
-  "2022-04-30": 35574,
-  "2022-05-01": 35618,
-  "2022-05-02": 35618,
-  "2022-05-03": 35642,
-  "2022-05-04": 35662,
-  "2022-05-05": 35686,
-  "2022-05-06": 35706,
-  "2022-05-07": 35739,
-  "2022-05-08": 35766,
-  "2022-05-09": 35769,
-  "2022-05-10": 35777,
-  "2022-05-11": 35814,
-  "2022-05-12": 35837,
-  "2022-05-13": 35859,
-  "2022-05-14": 35887,
-  "2022-05-15": 35907,
-  "2022-05-16": 35925,
-  "2022-05-17": 35955,
-  "2022-05-18": 35986,
-  "2022-05-19": 36001,
-  "2022-05-20": 36025,
-  "2022-05-21": 36073,
-  "2022-05-22": 36073,
-  "2022-05-23": 36098,
-  "2022-05-24": 36128,
-  "2022-05-25": 36157,
-  "2022-05-26": 36181,
-  "2022-05-27": 36205,
-  "2022-05-28": 36230,
-  "2022-05-29": 36260,
-  "2022-05-30": 36292,
-  "2022-05-31": 36332,
-  "2022-06-01": 36384,
-  "2022-06-02": 36391,
-  "2022-06-03": 36410,
-  "2022-06-04": 36435,
-  "2022-06-05": 36456,
-  "2022-06-06": 36480,
-  "2022-06-07": 36506,
-  "2022-06-08": 36539,
-  "2022-06-09": 36559,
-  "2022-06-10": 36587,
-  "2022-06-11": 36626,
-  "2022-06-12": 36651,
-  "2022-06-13": 36670,
-  "2022-06-14": 36696,
-  "2022-06-15": 36722,
-  "2022-06-16": 36735,
-  "2022-06-17": 36770,
-  "2022-06-18": 36788,
-  "2022-06-19": 36828,
-  "2022-06-20": 36828,
-  "2022-06-21": 36855,
-  "2022-06-22": 36889,
-  "2022-06-23": 36889,
-  "2022-06-24": 36906,
-  "2022-06-25": 36914,
-  "2022-06-26": 36935,
-  "2022-06-27": 36950,
-  "2022-06-28": 36964,
-  "2022-06-29": 36981,
-  "2022-06-30": 36998,
-  "2022-07-01": 37025,
-  "2022-07-02": 37041,
-  "2022-07-03": 37063,
-  "2022-07-04": 37076,
-  "2022-07-05": 37093,
-  "2022-07-06": 37118,
-  "2022-07-07": 37135,
-  "2022-07-08": 37158,
-  "2022-07-09": 37176,
-  "2022-07-10": 37191,
-  "2022-07-11": 37207,
-  "2022-07-12": 37228,
-  "2022-07-13": 37253,
-  "2022-07-14": 37270,
-  "2022-07-15": 37281,
-  "2022-07-16": 37306,
-  "2022-07-17": 37328,
-  "2022-07-18": 37354,
-  "2022-07-19": 37379,
-  "2022-07-20": 37396,
-  "2022-07-21": 37412,
-  "2022-07-22": 37439,
-  "2022-07-23": 37471,
-  "2022-07-24": 37491,
-  "2022-07-25": 37520,
-  "2022-07-26": 37539,
-  "2022-07-27": 37558,
-  "2022-07-28": 37577,
-  "2022-07-29": 37593,
-  "2022-07-30": 37631,
-  "2022-07-31": 37631,
-  "2022-08-01": 37641,
-  "2022-08-02": 37673,
-  "2022-08-03": 37673,
-  "2022-08-04": 37687,
-  "2022-08-05": 37714,
-  "2022-08-06": 37740,
-  "2022-08-07": 37760,
-  "2022-08-08": 37799,
-  "2022-08-09": 37827,
-  "2022-08-10": 37848,
-  "2022-08-11": 37883,
-  "2022-08-12": 37900,
-  "2022-08-13": 37924,
-  "2022-08-14": 37946,
-  "2022-08-15": 37968,
-  "2022-08-16": 37974,
-  "2022-08-17": 37984,
-  "2022-08-18": 38004,
-  "2022-08-19": 38023,
-  "2022-08-20": 38034,
-  "2022-08-21": 38048,
-  "2022-08-22": 38066,
-  "2022-08-24": 38113,
-  "2022-08-25": 38140,
-  "2022-08-26": 38160,
-  "2022-08-27": 38185,
-  "2022-08-28": 38201,
-  "2022-08-29": 38228,
-  "2022-08-30": 38247,
-  "2022-08-31": 38249,
-  "2022-09-01": 38236,
-  "2022-09-02": 38255,
-  "2022-09-03": 38247,
-  "2022-09-04": 38218,
-  "2022-09-05": 38195,
-  "2022-09-06": 38220,
-  "2022-09-07": 38237,
-  "2022-09-09": 38276,
-  "2022-09-10": 38296,
-  "2022-09-11": 38322,
-  "2022-09-12": 38334,
-  "2022-09-13": 38345,
-  "2022-09-15": 38375,
-  "2022-09-16": 38389,
-  "2022-09-17": 38418,
-  "2022-09-18": 38443,
-  "2022-09-19": 38462,
-  "2022-09-20": 38480,
-  "2022-09-21": 38500,
-  "2022-09-22": 38521,
-  "2022-09-23": 38544,
-  "2022-09-24": 38560,
-  "2022-09-25": 38584,
-  "2022-09-26": 38616,
-  "2022-09-27": 38641,
-  "2022-09-28": 38661,
-  "2022-09-29": 38673,
-  "2022-09-30": 38696,
-  "2022-10-01": 38710,
-  "2022-10-02": 38724,
-  "2022-10-03": 38747,
-  "2022-10-04": 38773,
-  "2022-10-05": 38800,
-  "2022-10-06": 38813,
-  "2022-10-07": 38833,
-  "2022-10-08": 38843,
-  "2022-10-09": 38872,
-  "2022-10-10": 38875,
-  "2022-10-11": 38905,
-  "2022-10-12": 38928,
-  "2022-10-13": 38937,
-  "2022-10-14": 38959,
-  "2022-10-15": 38976,
-  "2022-10-16": 38989,
-  "2022-10-17": 39018,
-  "2022-10-18": 39041,
-  "2022-10-19": 39054,
-  "2022-10-20": 39066,
-  "2022-10-21": 39079,
-  "2022-10-22": 39098,
-  "2022-10-23": 39121,
-  "2022-10-24": 39139,
-  "2022-10-25": 39156,
-  "2022-10-26": 39178,
-  "2022-10-27": 39197,
-  "2022-10-28": 39219,
-  "2022-10-29": 39222,
-  "2022-10-30": 39247,
-  "2022-10-31": 39253,
-  "2022-11-01": 39266,
-  "2022-11-02": 39286,
-  "2022-11-03": 39309,
-  "2022-11-04": 39331,
-  "2022-11-05": 39349,
-  "2022-11-06": 39364,
-  "2022-11-07": 39387,
-  "2022-11-08": 39399,
-  "2022-11-09": 39409,
-  "2022-11-10": 39439,
-  "2022-11-11": 39455,
-  "2022-11-12": 39484,
-  "2022-11-13": 39514,
-  "2022-11-14": 39543,
-  "2022-11-15": 39561,
-  "2022-11-16": 39580,
-  "2022-11-17": 39608,
-  "2022-11-18": 39617,
-  "2022-11-19": 39608,
-  "2022-11-20": 39620,
-  "2022-11-21": 39636,
-  "2022-11-22": 39664,
-  "2022-11-23": 39696,
-  "2022-11-24": 39756,
-  "2022-11-25": 39829,
-  "2022-11-26": 39884,
-  "2022-11-27": 39925,
-  "2022-11-28": 39953,
-  "2022-11-29": 39976,
-  "2022-11-30": 40014,
-  "2022-12-01": 40055,
-  "2022-12-02": 40092,
-  "2022-12-03": 40130,
-  "2022-12-04": 40182,
-  "2022-12-05": 40228,
-  "2022-12-06": 40252,
-  "2022-12-07": 40291,
-  "2022-12-08": 40326,
-  "2022-12-09": 40368,
-  "2022-12-10": 40405,
-  "2022-12-11": 40442,
-  "2022-12-12": 40472,
-  "2022-12-13": 40494,
-  "2022-12-14": 40528,
-  "2022-12-15": 40552,
-  "2022-12-16": 40589,
-  "2022-12-17": 40626,
-  "2022-12-18": 40668,
-  "2022-12-19": 40695,
-  "2022-12-20": 40745,
-  "2022-12-21": 40745,
-  "2022-12-22": 40756,
-  "2022-12-24": 40797,
-  "2022-12-25": 40839,
-  "2022-12-26": 40857,
-  "2022-12-27": 40875,
-  "2022-12-28": 40896,
-  "2022-12-29": 40928,
-  "2022-12-30": 40947,
-  "2022-12-31": 40958,
-  "2023-01-01": 40987,
-  "2023-01-02": 41013,
-  "2023-01-03": 41044,
-  "2023-01-04": 41071,
-  "2023-01-05": 41098,
-  "2023-01-06": 41140,
-  "2023-01-07": 41176,
-  "2023-01-08": 41179,
-  "2023-01-09": 41199,
-  "2023-01-10": 41225,
-  "2023-01-11": 41256,
-  "2023-01-12": 41269,
-  "2023-01-13": 41309,
-  "2023-01-14": 41352,
-  "2023-01-15": 41355,
-  "2023-01-16": 41379,
-  "2023-01-17": 41401,
-  "2023-01-18": 41420,
-  "2023-01-19": 41454,
-  "2023-01-20": 41471,
-  "2023-01-21": 41487,
-  "2023-01-22": 41518,
-  "2023-01-23": 41548,
-  "2023-01-24": 41564,
-  "2023-01-25": 41576,
-  "2023-01-26": 41592,
-  "2023-01-27": 41609,
-  "2023-01-28": 41620,
-  "2023-01-29": 41646,
-  "2023-01-30": 41672,
-  "2023-01-31": 41672,
-  "2023-02-01": 41710,
-  "2023-02-02": 41730,
-  "2023-02-03": 41746,
-  "2023-02-04": 41760,
-  "2023-02-05": 41786,
-  "2023-02-06": 41807,
-  "2023-02-07": 41822,
-  "2023-02-08": 41861,
-  "2023-02-09": 41861,
-  "2023-02-10": 41875,
-  "2023-02-11": 41902,
-  "2023-02-12": 41936,
-  "2023-02-13": 41957,
-  "2023-02-14": 41957,
-  "2023-02-15": 41960,
-  "2023-02-16": 41971,
-  "2023-02-17": 41996,
-  "2023-02-18": 42026,
-  "2023-02-19": 42029,
-  "2023-02-20": 42038,
-  "2023-02-21": 42062,
-  "2023-02-22": 42080,
-  "2023-02-23": 42093,
-  "2023-02-24": 42108,
-  "2023-02-25": 42135,
-  "2023-02-26": 42148,
-  "2023-02-27": 42189,
-  "2023-02-28": 42189,
-  "2023-03-01": 42196,
-  "2023-03-02": 42229,
-  "2023-03-03": 42255,
-  "2023-03-04": 42272,
-  "2023-03-05": 42309,
-  "2023-03-06": 42309,
-  "2023-03-07": 42332,
-  "2023-03-08": 42355,
-  "2023-03-09": 42371,
-  "2023-03-10": 42385,
-  "2023-03-11": 42397,
-  "2023-03-12": 42414,
-  "2023-03-13": 42446,
-  "2023-03-14": 42472,
-  "2023-03-15": 42481,
-  "2023-03-16": 42496,
-  "2023-03-17": 42496,
-  "2023-03-18": 42533,
-  "2023-03-19": 42546,
-  "2023-03-20": 42577,
-  "2023-03-21": 42586,
-  "2023-03-22": 42600,
-  "2023-03-23": 42608,
-  "2023-03-24": 42608,
-  "2023-03-25": 42625,
-  "2023-03-26": 42643,
-  "2023-03-27": 42651,
-  "2023-03-28": 42649,
-  "2023-03-29": 42669,
-  "2023-03-30": 42692,
-  "2023-03-31": 42692,
-  "2023-04-01": 42704,
-  "2023-04-02": 42731,
-  "2023-04-03": 42753,
-  "2023-04-04": 42763,
-  "2023-04-05": 42782,
-  "2023-04-06": 42802,
-  "2023-04-07": 42808,
-  "2023-04-09": 42848,
-  "2023-04-10": 42861,
-  "2023-04-11": 42884,
-  "2023-04-12": 42884,
-  "2023-04-13": 42896,
-  "2023-04-14": 42912,
-  "2023-04-15": 42921,
-  "2023-04-16": 42939,
-  "2023-04-17": 42952,
-  "2023-04-18": 42971,
-  "2023-04-19": 42973,
-  "2023-04-20": 43005,
-  "2023-04-21": 43018,
-  "2023-04-22": 43026,
-  "2023-04-23": 43039,
-  "2023-04-24": 43044,
-  "2023-04-25": 43054,
-  "2023-04-26": 43069,
-  "2023-04-27": 43087,
-  "2023-04-28": 43114,
-  "2023-04-29": 43130,
-  "2023-04-30": 43147,
-  "2023-05-01": 43166,
-  "2023-05-02": 43183,
-  "2023-05-03": 43194,
-  "2023-05-04": 43205,
-  "2023-05-05": 43220,
-  "2023-05-06": 43232,
-  "2023-05-07": 43258,
-  "2023-05-08": 43266,
-  "2023-05-09": 43275,
-  "2023-05-10": 43286,
-  "2023-05-11": 43305,
-  "2023-05-12": 43324,
-  "2023-05-13": 43334,
-  "2023-05-14": 43351,
-  "2023-05-15": 43356,
-  "2023-05-16": 43376,
-  "2023-05-17": 43401,
-  "2023-05-18": 43413,
-  "2023-05-19": 43422,
-  "2023-05-20": 43461,
-  "2023-05-21": 43461,
-  "2023-05-22": 43461,
-  "2023-05-23": 43488,
-  "2023-05-24": 43519,
-  "2023-05-25": 43524,
-  "2023-05-26": 43544,
-  "2023-05-27": 43566,
-  "2023-05-28": 43585,
-  "2023-05-29": 43585,
-  "2023-05-30": 43626,
-  "2023-05-31": 43642,
-  "2023-06-01": 43663,
-  "2023-06-02": 43674,
-  "2023-06-03": 43681,
-  "2023-06-04": 43703,
-  "2023-06-05": 43714,
-  "2023-06-06": 43739,
-  "2023-06-07": 43765,
-  "2023-06-08": 43779,
-  "2023-06-09": 43792,
-  "2023-06-10": 43814,
-  "2023-06-11": 43833,
-  "2023-06-12": 43848,
-  "2023-06-13": 43866,
-  "2023-06-14": 43874,
-  "2023-06-15": 43895,
-  "2023-06-16": 43906,
-  "2023-06-17": 43920,
-  "2023-06-18": 43942,
-  "2023-06-19": 43959,
-  "2023-06-20": 43974,
-  "2023-06-21": 43982,
-  "2023-06-22": 44003,
-  "2023-06-23": 44021,
-  "2023-06-24": 44029,
-  "2023-06-25": 44043,
-  "2023-06-26": 44058,
-  "2023-06-27": 44072,
-  "2023-06-28": 44094,
-  "2023-06-29": 44109,
-  "2023-06-30": 44126,
-  "2023-07-01": 44152,
-  "2023-07-02": 44152,
-  "2023-07-03": 44165,
-  "2023-07-04": 44175,
-  "2023-07-05": 44194,
-  "2023-07-06": 44226,
-  "2023-07-07": 44226,
-  "2023-07-08": 44239,
-  "2023-07-09": 44250,
-  "2023-07-10": 44272,
-  "2023-07-11": 44272,
-  "2023-07-12": 44286,
-  "2023-07-13": 44297,
-  "2023-07-14": 44311,
-  "2023-07-15": 44322,
-  "2023-07-16": 44329,
-  "2023-07-17": 44347,
-  "2023-07-18": 44372,
-  "2023-07-19": 44385,
-  "2023-07-20": 44397,
-  "2023-07-21": 44411,
-  "2023-07-22": 44428,
-  "2023-07-23": 44445,
-  "2023-07-24": 44465,
-  "2023-07-25": 44483,
-  "2023-07-26": 44496,
-  "2023-07-27": 44509,
-  "2023-07-28": 44519,
-  "2023-07-29": 44540,
-  "2023-07-30": 44552,
-  "2023-07-31": 44572,
-  "2023-08-01": 44591,
-  "2023-08-02": 44600,
-  "2023-08-03": 44612,
-  "2023-08-04": 44626,
-  "2023-08-05": 44647,
-  "2023-08-06": 44692,
-  "2023-08-07": 44692,
-  "2023-08-08": 44712,
-  "2023-08-09": 44729,
-  "2023-08-10": 44746,
-  "2023-08-11": 44760,
-  "2023-08-12": 44764,
-  "2023-08-13": 44782,
-  "2023-08-14": 44793,
-  "2023-08-15": 44828,
-  "2023-08-16": 44828,
-  "2023-08-17": 44848,
-  "2023-08-18": 44868,
-  "2023-08-19": 44885,
-  "2023-08-20": 44901,
-  "2023-08-21": 44905,
-  "2023-08-22": 44914,
-  "2023-08-23": 44921,
-  "2023-08-24": 44936,
-  "2023-08-25": 44947,
-  "2023-08-26": 44963,
-  "2023-08-27": 44990,
-  "2023-08-28": 45007,
-  "2023-08-29": 45020,
-  "2023-08-30": 45032,
-  "2023-08-31": 45041,
-  "2023-09-01": 45063,
-  "2023-09-02": 45063,
-  "2023-09-03": 45074,
-  "2023-09-04": 45081,
-  "2023-09-05": 45087,
-  "2023-09-06": 45096,
-  "2023-09-07": 45102,
-  "2023-09-08": 45113,
-  "2023-09-09": 45112,
-  "2023-09-10": 45119,
-  "2023-09-11": 45125,
-  "2023-09-12": 45135,
-  "2023-09-13": 45137,
-  "2023-09-14": 45144,
-  "2023-09-15": 45156,
-  "2023-09-16": 45161,
-  "2023-09-17": 45175,
-  "2023-09-18": 45183,
-  "2023-09-19": 45191,
-  "2023-09-20": 45198,
-  "2023-09-21": 45207,
-  "2023-09-22": 45213,
-  "2023-09-23": 45218,
-  "2023-09-24": 45221,
-  "2023-09-25": 45229,
-  "2023-09-26": 45233,
-  "2023-09-27": 45234,
-  "2023-09-28": 45236,
-  "2023-09-29": 45247,
-  "2023-09-30": 45253,
-  "2023-10-01": 45254,
-  "2023-10-02": 45268,
-  "2023-10-03": 45276,
-  "2023-10-04": 45284,
-  "2023-10-05": 45293,
-  "2023-10-06": 45315,
-  "2023-10-07": 45317,
-  "2023-10-08": 45325,
-  "2023-10-09": 45335,
-  "2023-10-10": 45345,
-  "2023-10-11": 45341,
-  "2023-10-12": 45341,
-  "2023-10-13": 45351,
-  "2023-10-14": 45354,
-  "2023-10-15": 45360,
-  "2023-10-16": 45361,
-  "2023-10-17": 45371,
-  "2023-10-18": 45370,
-  "2023-10-19": 45375,
-  "2023-10-20": 45382,
-  "2023-10-21": 45392,
-  "2023-10-22": 45396,
-  "2023-10-23": 45405,
-  "2023-10-24": 45410,
-  "2023-10-25": 45415,
-  "2023-10-26": 45421,
-  "2023-10-27": 45427,
-  "2023-10-28": 45431,
-  "2023-10-29": 45438,
-  "2023-10-30": 45452,
-  "2023-10-31": 45452,
-  "2023-11-01": 45459,
-  "2023-11-02": 45471,
-  "2023-11-03": 45476,
-  "2023-11-04": 45477,
-  "2023-11-05": 45484,
-  "2023-11-06": 45495,
-  "2023-11-07": 45510,
-  "2023-11-08": 45509,
-  "2023-11-09": 45512,
-  "2023-11-10": 45513,
-  "2023-11-11": 45516,
-  "2023-11-12": 45525,
-  "2023-11-13": 45536,
-  "2023-11-14": 45540,
-  "2023-11-15": 45540,
-  "2023-11-16": 45554,
-  "2023-11-17": 45572,
-  "2023-11-18": 45572,
-  "2023-11-19": 45575,
-  "2023-11-20": 45571,
-  "2023-11-21": 45579,
-  "2023-11-22": 45586,
-  "2023-11-23": 45594,
-  "2023-11-24": 45606,
-  "2023-11-25": 45610,
-  "2023-11-26": 45621,
-  "2023-11-27": 45630,
-  "2023-11-28": 45631,
-  "2023-11-29": 45648,
-  "2023-11-30": 45648,
-  "2023-12-01": 45655,
-  "2023-12-02": 45653,
-  "2023-12-03": 45660,
-  "2023-12-04": 45669,
-  "2023-12-05": 45674,
-  "2023-12-06": 45668,
-  "2023-12-07": 45673,
-  "2023-12-08": 45683,
-  "2023-12-09": 45690,
-  "2023-12-10": 45698,
-  "2023-12-11": 45702,
-  "2023-12-12": 45708,
-  "2023-12-13": 45731,
-  "2023-12-14": 45739,
-  "2023-12-15": 45746,
-  "2023-12-16": 45752,
-  "2023-12-17": 45758,
-  "2023-12-18": 45767,
-  "2023-12-19": 45768,
-  "2023-12-20": 45767,
-  "2023-12-21": 45778,
-  "2023-12-22": 45782,
-  "2023-12-23": 45789,
-  "2023-12-24": 45802,
-  "2023-12-25": 45807,
-  "2023-12-26": 45819,
-  "2023-12-27": 45820,
-  "2023-12-30": 45873,
-  "2023-12-31": 45870,
-  "2024-01-01": 45874,
-  "2024-01-02": 45878,
-  "2024-01-03": 45888
+  "2024-01-17": 45874,
+  "date_first_scraped": "2022-04-20",
+  "description": "Jumping BoAs, Our Beloved BoA is here and BETTER than ever!",
+  "name": "This Is BoA",
+  "tracks": [
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/2Bujuw42Go0j1vlsHNKhDH"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238093,
+      "name": "All That Jazz",
+      "url": "https://open.spotify.com/track/630EmrW0DgVqPdKIWMk4YR"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "ALWAYS, ALL WAYS",
+      "url": "https://open.spotify.com/track/1tHKHyxFIxipoMNHDr0QhX"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT",
+        "url": "https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Chancellor",
+          "url": "https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221973,
+      "name": "ALWAYS, ALL WAYS",
+      "url": "https://open.spotify.com/track/5HmnsPW0AfLHks9VoV9dRZ"
+    },
+    {
+      "album": {
+        "name": "BEST OF SOUL",
+        "url": "https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271986,
+      "name": "Amazing Kiss",
+      "url": "https://open.spotify.com/track/7yYVoMQp93NnZgOprsGVJA"
+    },
+    {
+      "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0vpYcah9x3TdyCLEUOJZzZ"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233964,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6ckFK2ksVUNpfeUqRDtirQ"
+    },
+    {
+      "album": {
+        "name": "Atlantis Princess - The 3rd Album",
+        "url": "https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224373,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S"
+    },
+    {
+      "album": {
+        "name": "Sm Best Album 3, Vol. 2",
+        "url": "https://open.spotify.com/album/6qdEGTvS2E0jwxzcjUqXXc"
+      },
+      "artists": [
+        {
+          "name": "SMTOWN",
+          "url": "https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223555,
+      "name": "Atlantis Princess",
+      "url": "https://open.spotify.com/track/1bBEBI7wralxxUD2Sasygs"
+    },
+    {
+      "album": {
+        "name": "Shine We Are!",
+        "url": "https://open.spotify.com/album/38EQ0b6PSXxjHEOtkuyUIe"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255066,
+      "name": "B.I.O",
+      "url": "https://open.spotify.com/track/5JXuIvjhxdBDkwv0AKF1su"
+    },
+    {
+      "album": {
+        "name": "THE FACE",
+        "url": "https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/3V5wP0Re5egkuRmxU5lymy"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/2k44rKotfi2k55hwwiCImN"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194186,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/5mJV0fXk6rRey5B1KeYbNQ"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193680,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2Y79S1WsgBZbCC3BJi1Z01"
+    },
+    {
+      "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "VERBAL",
+          "url": "https://open.spotify.com/artist/6eyG54lvijivzcKqSjZTtB"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "BUMP BUMP!",
+      "url": "https://open.spotify.com/track/1tp2j8hlvjF1AfbalU6qvI"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213973,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/6bnf1RbzUaHRBogKfKme47"
+    },
+    {
+      "album": {
+        "name": "Message/Call my name",
+        "url": "https://open.spotify.com/album/0XsIS678Sk3jhoFtOqCVLg"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "Call my name",
+      "url": "https://open.spotify.com/track/6Z6DqvCo8pX43VVpme5XcS"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199136,
+      "name": "CAMO",
+      "url": "https://open.spotify.com/track/2zdshfZnGJSvr62uKJhitz"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT",
+        "url": "https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199136,
+      "name": "CAMO",
+      "url": "https://open.spotify.com/track/5QfcdaQs4TcBNxjWqu3Ulq"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235815,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/4FKgqB6Kpm0k550RTHL45u"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226160,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/3hNCQ2sxLgEvI4PjE4quxO"
+    },
+    {
+      "album": {
+        "name": "Copy & Paste - The 6th Album Repackage",
+        "url": "https://open.spotify.com/album/5mO6MqKOxUwUDfklKPs1Oe"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Copy & Paste",
+      "url": "https://open.spotify.com/track/66hLdiqgPzeUSQ2bNYPLU0"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Cut Me Off",
+      "url": "https://open.spotify.com/track/1XBAYSK0QGvsln5PM91NjM"
+    },
+    {
+      "album": {
+        "name": "Hurricane Venus - The 6th Album",
+        "url": "https://open.spotify.com/album/2yUPfOMfABqMtTAc7p4Us2"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "DANGEROUS",
+      "url": "https://open.spotify.com/track/26TxnXINBjbDDkXGJOCYu0"
+    },
+    {
+      "album": {
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258760,
+      "name": "DESTINY",
+      "url": "https://open.spotify.com/track/07e2fLU8mfscLxUkKfps60"
+    },
+    {
+      "album": {
+        "name": "Disturbance",
+        "url": "https://open.spotify.com/album/663Opdf3NgOsrALPf6bUFx"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197091,
+      "name": "Disturbance",
+      "url": "https://open.spotify.com/track/5PlY7G0GELK3as0Ch74IXf"
+    },
+    {
+      "album": {
+        "name": "OUTGROW",
+        "url": "https://open.spotify.com/album/0PQNmH3X9nZJRoihzP7uZz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252453,
+      "name": "DO THE MOTION",
+      "url": "https://open.spotify.com/track/1NsqllAour4RkQLN5p1QCn"
+    },
+    {
+      "album": {
+        "name": "Don't Start Now - Jumping Into The World",
+        "url": "https://open.spotify.com/album/1awkUudr8sPG8ElKg0Ztsg"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223640,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/2HwRcV9uwvOQ8UNh4VUYpy"
+    },
+    {
+      "album": {
+        "name": "Double - The 1st Single",
+        "url": "https://open.spotify.com/album/4sSlZNLxtV4w1GB5xWop4d"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206800,
+      "name": "Double",
+      "url": "https://open.spotify.com/track/7eYLkqpfD9qeHtfAr6BLn1"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Eddy Kim",
+          "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226835,
+      "name": "Double Jack",
+      "url": "https://open.spotify.com/track/5exYNFnFD5qOIZ7DaRRRxe"
+    },
+    {
+      "album": {
+        "name": "LISTEN TO MY HEART",
+        "url": "https://open.spotify.com/album/7MbckmjrDXeNy4k1caTgbM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294833,
+      "name": "Dreams come true",
+      "url": "https://open.spotify.com/track/6U6rPiP59yH8K8fXwukjfI"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213612,
+      "name": "Dry Flower",
+      "url": "https://open.spotify.com/track/6LD2SnMI0KmrCDzy6JZShu"
+    },
+    {
+      "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/2iOslafOoV5DB13c6gaIBv"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324680,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/5OYRcBGh06ZWUbH0PbszTH"
+    },
+    {
+      "album": {
+        "name": "Every Heart -\u30df\u30f3\u30ca\u30ce\u30ad\u30e2\u30c1-",
+        "url": "https://open.spotify.com/album/10eyCFPQlZsdaSsApJwHPQ"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272900,
+      "name": "Every Heart-\u30df\u30f3\u30ca\u30ce\u30ad\u30e2\u30c1-",
+      "url": "https://open.spotify.com/track/2R0EAqFQQ60m274ZyNA2Bg"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "EVERYBODY KNOWS",
+      "url": "https://open.spotify.com/track/3nts3JEnWM8CIhcsKahCvC"
+    },
+    {
+      "album": {
+        "name": "Feedback",
+        "url": "https://open.spotify.com/album/2mZVQE5xkotAwHEqLySr0h"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199536,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/61oYciDSVO6OvOqZf9TVPV"
+    },
+    {
+      "album": {
+        "name": "WHO'S BACK?",
+        "url": "https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225386,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/5y2OdzPeFn06dnWGJLnn0Y"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238165,
+      "name": "Fox",
+      "url": "https://open.spotify.com/track/50E7JEHhsqk3resRnYNcLk"
+    },
+    {
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218653,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5AjjiajghftDZd5qO5YRCQ"
+    },
+    {
+      "album": {
+        "name": "Sm Best Album 3, Vol. 3",
+        "url": "https://open.spotify.com/album/1OgGpsVaGKxnOrjEq9hom9"
+      },
+      "artists": [
+        {
+          "name": "SMTOWN",
+          "url": "https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217913,
+      "name": "Girls On Top",
+      "url": "https://open.spotify.com/track/5CwcXW9AxmWZ5jFMl1HtQx"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/22t8DIoRe0e5NLmbZU2mJx"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Got Me Good",
+      "url": "https://open.spotify.com/track/20PzzDqmjsaCCYN9Rh2lc8"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211893,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/4VTAfhzblwCWrzDzxkGw2w"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240274,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/3PN8VnhTD8A5hkFefnAgmQ"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260275,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5d53YEnqLvMecXiDYL8TkL"
+    },
+    {
+      "album": {
+        "name": "THE FACE",
+        "url": "https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV"
+      },
+      "artists": [
+        {
+          "name": "SEAMO",
+          "url": "https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR"
+        },
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227720,
+      "name": "Hey Boy,Hey Girl",
+      "url": "https://open.spotify.com/track/7zuKKxwcxaeGPrhKoNWdMP"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216538,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ocWjp09kFdbQy2oDdxJIb"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "Honey & Diamonds",
+      "url": "https://open.spotify.com/track/4egcGWDGRI343eOYbdXhpS"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1dGqOXLgvuJK8nRI5sM7op"
+    },
+    {
+      "album": {
+        "name": "Hurricane Venus - The 6th Album",
+        "url": "https://open.spotify.com/album/2yUPfOMfABqMtTAc7p4Us2"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Hurricane Venus",
+      "url": "https://open.spotify.com/track/2lmk1MaysnnDt4ct8M60Vr"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/5ffHoSTXIRq9ZOPdxZzUkh"
+    },
+    {
+      "album": {
+        "name": "ID;Peace B - The 1st Album",
+        "url": "https://open.spotify.com/album/1cXbNduXaQp1NqV6EvgHFx"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238773,
+      "name": "ID; Peace B",
+      "url": "https://open.spotify.com/track/5rvP5mbQ48itt4dtosn9Yf"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219134,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/42x3HXaYiF0BYpKjXZ6Ccj"
+    },
+    {
+      "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "is this love",
+      "url": "https://open.spotify.com/track/6wTfwVI0mFJyBJNqCCFioE"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3053\u306e\u307e\u307e\u3067\u3044\u3044\u306e\u304b\u306a",
+        "url": "https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170906,
+      "name": "Jazzclub",
+      "url": "https://open.spotify.com/track/4vMDAZTZuLMtFwec3H4iqO"
+    },
+    {
+      "album": {
+        "name": "VALENTI",
+        "url": "https://open.spotify.com/album/2btLO8L7RQ4r4gl6ADpaog"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326433,
+      "name": "JEWEL SONG",
+      "url": "https://open.spotify.com/track/0GaVCVBDWgSgPhkYn1e2ED"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226083,
+      "name": "Kiss My Lips",
+      "url": "https://open.spotify.com/track/0T3uL8inslJIxiQyLlMenl"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "L.O.V.E",
+      "url": "https://open.spotify.com/track/6kLnIzM41Mr5isZ3jHDbbU"
+    },
+    {
+      "album": {
+        "name": "BEST OF SOUL",
+        "url": "https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "SOUL'd OUT",
+          "url": "https://open.spotify.com/artist/1vdERZ9WP3Uyx4FNkT4hqK"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337013,
+      "name": "LA\u30fbLA\u30fbLA LOVE SONG",
+      "url": "https://open.spotify.com/track/2jJg6cmyMh6rgNQdouOnlY"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206544,
+      "name": "Like it!",
+      "url": "https://open.spotify.com/track/4M5Wd3F7KrFL8Nr8ydtAVQ"
+    },
+    {
+      "album": {
+        "name": "LISTEN TO MY HEART",
+        "url": "https://open.spotify.com/album/7MbckmjrDXeNy4k1caTgbM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "LISTEN TO MY HEART",
+      "url": "https://open.spotify.com/track/1FwQCoeyKWaWyKPeSTnQaa"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207920,
+      "name": "Little Bird",
+      "url": "https://open.spotify.com/track/5SokSiXcHQca42peaFt29v"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237876,
+      "name": "Little More",
+      "url": "https://open.spotify.com/track/1UUrSBdCVORp3w0GcZrWcU"
+    },
+    {
+      "album": {
+        "name": "LOOKIN'",
+        "url": "https://open.spotify.com/album/7hgzHKoKWprZ5CGFAaBo3G"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170106,
+      "name": "LOOKIN'",
+      "url": "https://open.spotify.com/track/7fHzHIPCC7HlMfSpcPCXgc"
+    },
+    {
+      "album": {
+        "name": "BEST&USA",
+        "url": "https://open.spotify.com/album/6rxKoQYvB6DO6pIL9sijT8"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Yutaka Furukawa",
+          "url": "https://open.spotify.com/artist/3Iu2yVQq5dCVmmAaAOQ6S1"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194333,
+      "name": "LOSE YOUR MIND",
+      "url": "https://open.spotify.com/track/7s4PWKbZYRLK2g5UXQiJzz"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244244,
+      "name": "Love and Hate",
+      "url": "https://open.spotify.com/track/01iogSG6bvmCnjOwL6RFWH"
+    },
+    {
+      "album": {
+        "name": "LOVE & HONESTY",
+        "url": "https://open.spotify.com/album/7bHEsVSq63nLFv5y2rK3wR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280800,
+      "name": "LOVE&HONESTY",
+      "url": "https://open.spotify.com/track/6hxCxYOz6FfROr9qRs9dBA"
+    },
+    {
+      "album": {
+        "name": "WHO'S BACK?",
+        "url": "https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219173,
+      "name": "MASAYUME CHASING",
+      "url": "https://open.spotify.com/track/3Hg898AnfapEcgRwa4PT9L"
+    },
+    {
+      "album": {
+        "name": "Message/Call my name",
+        "url": "https://open.spotify.com/album/0XsIS678Sk3jhoFtOqCVLg"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "Message",
+      "url": "https://open.spotify.com/track/0OY3TTTyKT1EfCjp8DTTof"
+    },
+    {
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186066,
+      "name": "MOTO",
+      "url": "https://open.spotify.com/track/6Lcg2kqVT62KH5fJnzxj9c"
+    },
+    {
+      "album": {
+        "name": "My Name - The 4th Album",
+        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193026,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp"
+    },
+    {
+      "album": {
+        "name": "Sm Best Album 3, Vol. 2",
+        "url": "https://open.spotify.com/album/6qdEGTvS2E0jwxzcjUqXXc"
+      },
+      "artists": [
+        {
+          "name": "SMTOWN",
+          "url": "https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192104,
+      "name": "My Name",
+      "url": "https://open.spotify.com/track/3gL6WWT39ksG2otEMmY9MX"
+    },
+    {
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "My Sweetie",
+      "url": "https://open.spotify.com/track/3TizzRfLv29Iv3wUgCSQ77"
+    },
+    {
+      "album": {
+        "name": "THE FACE",
+        "url": "https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "WISE",
+          "url": "https://open.spotify.com/artist/4Cy9pQmJi70JdCI0Pa8v7v"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261706,
+      "name": "My Way,Your Way",
+      "url": "https://open.spotify.com/track/12hPYdthTO2ZYGqeVzRk5Z"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "NEGA DOLA",
+      "url": "https://open.spotify.com/track/3mKxSCbDR7WeP632sIaxG2"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT",
+        "url": "https://open.spotify.com/album/5YLTtEcUBfBLnGc4GlWF4G"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176053,
+      "name": "NEGA DOLA",
+      "url": "https://open.spotify.com/track/6ZpAhrztJy8Hr08xnOPqvH"
+    },
+    {
+      "album": {
+        "name": "No Matter What - SM STATION",
+        "url": "https://open.spotify.com/album/2Lc0SZq9uR2Imfu6Kh2naq"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185990,
+      "name": "No Matter What",
+      "url": "https://open.spotify.com/track/0Yc2gPL8g9P6FUEFXhtI3q"
+    },
+    {
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "No.1",
+      "url": "https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku"
+    },
+    {
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        },
+        {
+          "name": "KEY",
+          "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148264,
+      "name": "One Dream",
+      "url": "https://open.spotify.com/track/23fq2Sh3OpvhlKttYA1gJP"
+    },
+    {
+      "album": {
+        "name": "ONE SHOT, TWO SHOT - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/04gRvDvXy6ctlFxI3G7Wd5"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "ONE SHOT, TWO SHOT",
+      "url": "https://open.spotify.com/track/1OWxlgwPtWuEvGkH8uS1Tj"
+    },
+    {
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217085,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO"
+    },
+    {
+      "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Daichi Miura",
+          "url": "https://open.spotify.com/artist/4UTEZqrPqLDOhBfraPNciJ"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246093,
+      "name": "Possibility - duet with \u4e09\u6d66\u5927\u77e5",
+      "url": "https://open.spotify.com/track/7JZVVou5Ql9v9H4he1OggE"
+    },
+    {
+      "album": {
+        "name": "WHO'S BACK?",
+        "url": "https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240360,
+      "name": "Shout It Out",
+      "url": "https://open.spotify.com/track/1mmcvCZqX24iy4iVrpKu6Y"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174373,
+      "name": "Sketch",
+      "url": "https://open.spotify.com/track/2DTHncAFgwkjthX1TOvvzX"
+    },
+    {
+      "album": {
+        "name": "My Name - The 4th Album",
+        "url": "https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195106,
+      "name": "Spark",
+      "url": "https://open.spotify.com/track/6QCeHBgTZPLqF6mdgh3rgp"
+    },
+    {
+      "album": {
+        "name": "Spring Rain - SM STATION",
+        "url": "https://open.spotify.com/album/7olAhWsexMgcvhLfxeJuGC"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217971,
+      "name": "Spring Rain",
+      "url": "https://open.spotify.com/track/7lSsi84E0g6QDGyDY1j5y6"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1CyH9zoX9abqsa3xPrVUsn"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188826,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/68DxqyUofZbMfVg0MN3O88"
+    },
+    {
+      "album": {
+        "name": "MADE IN TWENTY(20)",
+        "url": "https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288533,
+      "name": "STILL.",
+      "url": "https://open.spotify.com/track/1UJJ4tx0qwyF9XIh4VrD7c"
+    },
+    {
+      "album": {
+        "name": "THE FACE",
+        "url": "https://open.spotify.com/album/4ZNyTzXd57hAU87bb4yGCV"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298040,
+      "name": "Sweet Impact",
+      "url": "https://open.spotify.com/track/4QpOkXbQEh99L4qaBDpcfh"
+    },
+    {
+      "album": {
+        "name": "BETTER - The 10th Album",
+        "url": "https://open.spotify.com/album/3YXfuI3E6OxcrtXnjAgNkM"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/79sVDkuI7J3DJzz5iEHfO4"
+    },
+    {
+      "album": {
+        "name": "ASTROMANTIC",
+        "url": "https://open.spotify.com/album/0EeOUSpx4sHDdDJkGRT5Qm"
+      },
+      "artists": [
+        {
+          "name": "m-flo loves BoA",
+          "url": "https://open.spotify.com/artist/68gI97RDfQskym4DCauxp5"
+        },
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "the Love Bug",
+      "url": "https://open.spotify.com/track/2nwQaySLmk3b3izJQDpsaX"
+    },
+    {
+      "album": {
+        "name": "the meaning of peace",
+        "url": "https://open.spotify.com/album/14H04Lkrum3kFBLn53bcyZ"
+      },
+      "artists": [
+        {
+          "name": "Kumi Koda",
+          "url": "https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC"
+        },
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300400,
+      "name": "the meaning of peace",
+      "url": "https://open.spotify.com/track/2ILfZVFXtye4BdJZ1lkhWC"
+    },
+    {
+      "album": {
+        "name": "Only One - The 7th Album",
+        "url": "https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200419,
+      "name": "The Shadow",
+      "url": "https://open.spotify.com/track/55E1jcyUeZybCSnz6EDxQn"
+    },
+    {
+      "album": {
+        "name": "Starry Night - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/0CUa2QjWUmQ65ayWwHoa4W"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/1yhCvY8JZPspkBeexWtrhu"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182740,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/2QaCwg7NuZCvC8YHzph4CF"
+    },
+    {
+      "album": {
+        "name": "BEST&USA",
+        "url": "https://open.spotify.com/album/6rxKoQYvB6DO6pIL9sijT8"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Crystal Kay",
+          "url": "https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM"
+        },
+        {
+          "name": "VERBAL",
+          "url": "https://open.spotify.com/artist/6eyG54lvijivzcKqSjZTtB"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258293,
+      "name": "UNIVERSE",
+      "url": "https://open.spotify.com/track/58vEGvzElLVNwXXqBo5K3p"
+    },
+    {
+      "album": {
+        "name": "MIRACLE - The 2.5th Album",
+        "url": "https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "VALENTI",
+      "url": "https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa"
+    },
+    {
+      "album": {
+        "name": "No.1 - The 2nd Album",
+        "url": "https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "Waiting..",
+      "url": "https://open.spotify.com/track/7hOJ4frDVcON36Iee5QluY"
+    },
+    {
+      "album": {
+        "name": "Kiss My Lips - The 8th Album",
+        "url": "https://open.spotify.com/album/0SmJjNGEXCMp5bTGbxmjyy"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        },
+        {
+          "name": "Gaeko",
+          "url": "https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223721,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/5NonMh25FGFcP3flxU64sa"
+    },
+    {
+      "album": {
+        "name": "MADE IN TWENTY(20)",
+        "url": "https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341766,
+      "name": "Winter Love",
+      "url": "https://open.spotify.com/track/4M3wUm1wL2zAiz9ehLXiZ5"
+    },
+    {
+      "album": {
+        "name": "WOMAN - The 9th Album",
+        "url": "https://open.spotify.com/album/68AStxkvhmfQv3A1qdW8CP"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170367,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/14rpBBTV0qi60Ex4jonuNi"
+    },
+    {
+      "album": {
+        "name": "WHO'S BACK?",
+        "url": "https://open.spotify.com/album/1HdNlqFSppUorSoYQeOcBu"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234280,
+      "name": "WOO WEEKEND",
+      "url": "https://open.spotify.com/track/2zUCj6qgmyoHejf1uCaA9n"
+    },
+    {
+      "album": {
+        "name": "Forgive Me - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2022-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "ZIP",
+      "url": "https://open.spotify.com/track/0IaT9XnG72sPXvUAsYdEzC"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3053\u306e\u307e\u307e\u3067\u3044\u3044\u306e\u304b\u306a",
+        "url": "https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202493,
+      "name": "\u3042\u308a\u304c\u3068\u3046\u30b5\u30e8\u30ca\u30e9",
+      "url": "https://open.spotify.com/track/5om83SOkvb4wS8EXr3RRzZ"
+    },
+    {
+      "album": {
+        "name": "IDENTITY",
+        "url": "https://open.spotify.com/album/1OratIVYQdiMHffTOtnv4j"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210693,
+      "name": "\u307e\u3082\u308a\u305f\u3044 \u301cWhite Wishes\u301c",
+      "url": "https://open.spotify.com/track/06LeI3zQCfI9uhWyzWrME4"
+    },
+    {
+      "album": {
+        "name": "BEST OF SOUL",
+        "url": "https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223720,
+      "name": "\u30b3\u30ce\u30e8\u30ce\u30b7\u30eb\u30b7",
+      "url": "https://open.spotify.com/track/1r90XF2BhACwBhXprZQu22"
+    },
+    {
+      "album": {
+        "name": "\u30e1\u30ea\u30af\u30ea",
+        "url": "https://open.spotify.com/album/082g95CJ0YhcNAjxf2MMgT"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332433,
+      "name": "\u30e1\u30ea\u30af\u30ea",
+      "url": "https://open.spotify.com/track/3fxaN9pj6g4crVCzMTqRd0"
+    },
+    {
+      "album": {
+        "name": "MADE IN TWENTY(20)",
+        "url": "https://open.spotify.com/album/0F9dZ8Cdm6Rr5tXkAZvW45"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270700,
+      "name": "\u4e03\u8272\u306e\u660e\u65e5\u301cbrand new beat\u301c",
+      "url": "https://open.spotify.com/track/3CDQDcJqja37FsMWvRPm0u"
+    },
+    {
+      "album": {
+        "name": "BEST OF SOUL",
+        "url": "https://open.spotify.com/album/0gxS6h33HGI5jEAgcMsTWA"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "\u5947\u8e5f",
+      "url": "https://open.spotify.com/track/4fVbeEssHctTSv9RpAcqrO"
+    },
+    {
+      "album": {
+        "name": "BEST&USA",
+        "url": "https://open.spotify.com/album/6rxKoQYvB6DO6pIL9sijT8"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273453,
+      "name": "\u6c38\u9060",
+      "url": "https://open.spotify.com/track/104yjVsAOGHnYEKmYEjNAI"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3053\u306e\u307e\u307e\u3067\u3044\u3044\u306e\u304b\u306a",
+        "url": "https://open.spotify.com/album/3aubaYePHVY5rQVtpUwf1y"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288480,
+      "name": "\u79c1\u3053\u306e\u307e\u307e\u3067\u3044\u3044\u306e\u304b\u306a",
+      "url": "https://open.spotify.com/track/1XZWgqE1VayfZKBtEI3qzX"
+    },
+    {
+      "album": {
+        "name": "Girls On Top",
+        "url": "https://open.spotify.com/album/67YeE0goB48IGXMrlv50D6"
+      },
+      "artists": [
+        {
+          "name": "BoA",
+          "url": "https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231413,
+      "name": "\uacf5\uc911\uc815\uc6d0 (Garden In The Air)",
+      "url": "https://open.spotify.com/track/5amlt6BjwV7CIqjSvDQFFK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVcZmFvFFJ5L"
 }

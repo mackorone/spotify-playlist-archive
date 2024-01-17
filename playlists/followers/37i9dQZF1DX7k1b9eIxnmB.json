@@ -1,580 +1,4485 @@
 {
-  "2022-05-30": 96790,
-  "2022-05-31": 96889,
-  "2022-06-01": 97050,
-  "2022-06-02": 97051,
-  "2022-06-03": 97168,
-  "2022-06-04": 97259,
-  "2022-06-05": 97351,
-  "2022-06-06": 97455,
-  "2022-06-07": 97552,
-  "2022-06-08": 97677,
-  "2022-06-09": 97775,
-  "2022-06-10": 97881,
-  "2022-06-11": 97983,
-  "2022-06-12": 98105,
-  "2022-06-13": 98215,
-  "2022-06-14": 98316,
-  "2022-06-15": 98446,
-  "2022-06-16": 98575,
-  "2022-06-17": 98698,
-  "2022-06-18": 98811,
-  "2022-06-19": 99013,
-  "2022-06-20": 99013,
-  "2022-06-21": 99118,
-  "2022-06-22": 99321,
-  "2022-06-23": 99321,
-  "2022-06-24": 99429,
-  "2022-06-25": 99429,
-  "2022-06-26": 99633,
-  "2022-06-27": 99742,
-  "2022-06-28": 99848,
-  "2022-06-29": 99967,
-  "2022-06-30": 100075,
-  "2022-07-01": 100180,
-  "2022-07-02": 100295,
-  "2022-07-03": 100410,
-  "2022-07-04": 100504,
-  "2022-07-05": 100613,
-  "2022-07-06": 100722,
-  "2022-07-07": 100825,
-  "2022-07-08": 100928,
-  "2022-07-09": 101018,
-  "2022-07-10": 101131,
-  "2022-07-11": 101242,
-  "2022-07-12": 101335,
-  "2022-07-13": 101427,
-  "2022-07-14": 101526,
-  "2022-07-15": 101622,
-  "2022-07-16": 101709,
-  "2022-07-17": 101823,
-  "2022-07-18": 101935,
-  "2022-07-19": 102050,
-  "2022-07-20": 102151,
-  "2022-07-21": 102255,
-  "2022-07-22": 102358,
-  "2022-07-23": 102465,
-  "2022-07-24": 102560,
-  "2022-07-25": 102680,
-  "2022-07-26": 102776,
-  "2022-07-27": 102856,
-  "2022-07-28": 102946,
-  "2022-07-29": 103041,
-  "2022-07-30": 103235,
-  "2022-07-31": 103235,
-  "2022-08-01": 103348,
-  "2022-08-02": 103530,
-  "2022-08-03": 103530,
-  "2022-08-04": 103639,
-  "2022-08-05": 103723,
-  "2022-08-06": 103833,
-  "2022-08-07": 103930,
-  "2022-08-08": 104032,
-  "2022-08-09": 104153,
-  "2022-08-10": 104256,
-  "2022-08-11": 104371,
-  "2022-08-12": 104492,
-  "2022-08-13": 104592,
-  "2022-08-14": 104731,
-  "2022-08-15": 104865,
-  "2022-08-16": 104967,
-  "2022-08-17": 105068,
-  "2022-08-18": 105179,
-  "2022-08-19": 105297,
-  "2022-08-20": 105414,
-  "2022-08-21": 105537,
-  "2022-08-22": 105653,
-  "2022-08-23": 105752,
-  "2022-08-24": 105862,
-  "2022-08-25": 105993,
-  "2022-08-26": 106133,
-  "2022-08-27": 106268,
-  "2022-08-28": 106395,
-  "2022-08-29": 106525,
-  "2022-08-30": 106622,
-  "2022-08-31": 106775,
-  "2022-09-01": 106890,
-  "2022-09-02": 107001,
-  "2022-09-03": 107106,
-  "2022-09-04": 107254,
-  "2022-09-05": 107403,
-  "2022-09-06": 107501,
-  "2022-09-07": 107627,
-  "2022-09-09": 107886,
-  "2022-09-10": 108005,
-  "2022-09-11": 108216,
-  "2022-09-12": 108401,
-  "2022-09-13": 108566,
-  "2022-09-15": 108949,
-  "2022-09-16": 109044,
-  "2022-09-17": 109147,
-  "2022-09-18": 109274,
-  "2022-09-19": 109407,
-  "2022-09-20": 109514,
-  "2022-09-21": 109611,
-  "2022-09-22": 109699,
-  "2022-09-23": 109810,
-  "2022-09-24": 109905,
-  "2022-09-25": 110020,
-  "2022-09-26": 110124,
-  "2022-09-27": 110223,
-  "2022-09-28": 110347,
-  "2022-09-29": 110462,
-  "2022-09-30": 110590,
-  "2022-10-01": 110700,
-  "2022-10-02": 110824,
-  "2022-10-03": 110960,
-  "2022-10-04": 111074,
-  "2022-10-05": 111189,
-  "2022-10-06": 111323,
-  "2022-10-07": 111432,
-  "2022-10-08": 111554,
-  "2022-10-09": 111832,
-  "2022-10-10": 111840,
-  "2022-10-11": 111970,
-  "2022-10-12": 112087,
-  "2022-10-13": 112218,
-  "2022-10-14": 112338,
-  "2022-10-15": 112497,
-  "2022-10-16": 112641,
-  "2022-10-17": 112780,
-  "2022-10-18": 112903,
-  "2022-10-19": 113039,
-  "2022-10-20": 113164,
-  "2022-10-21": 113280,
-  "2022-10-22": 113425,
-  "2022-10-23": 113544,
-  "2022-10-24": 113673,
-  "2022-10-25": 113752,
-  "2022-10-26": 113852,
-  "2022-10-27": 113949,
-  "2022-10-28": 114044,
-  "2022-10-29": 114156,
-  "2022-10-30": 114281,
-  "2022-10-31": 114374,
-  "2022-11-01": 114509,
-  "2022-11-02": 114649,
-  "2022-11-03": 114772,
-  "2022-11-04": 114905,
-  "2022-11-05": 115014,
-  "2022-11-06": 115126,
-  "2022-11-07": 115243,
-  "2022-11-08": 115371,
-  "2022-11-09": 115483,
-  "2022-11-10": 115601,
-  "2022-11-11": 115714,
-  "2022-11-12": 115877,
-  "2022-11-13": 115999,
-  "2022-11-14": 116123,
-  "2022-11-15": 116229,
-  "2022-11-16": 116338,
-  "2022-11-17": 116441,
-  "2022-11-18": 116510,
-  "2022-11-19": 116528,
-  "2022-11-20": 116616,
-  "2022-11-21": 116722,
-  "2022-11-22": 116844,
-  "2022-11-23": 116801,
-  "2022-11-24": 117154,
-  "2022-11-25": 117337,
-  "2022-11-26": 117457,
-  "2022-11-27": 117569,
-  "2022-11-28": 117696,
-  "2022-11-29": 117809,
-  "2022-11-30": 117911,
-  "2022-12-01": 118008,
-  "2022-12-02": 118080,
-  "2022-12-03": 118277,
-  "2022-12-04": 118430,
-  "2022-12-05": 118565,
-  "2022-12-06": 118651,
-  "2022-12-07": 118742,
-  "2022-12-08": 118833,
-  "2022-12-09": 118964,
-  "2022-12-10": 119065,
-  "2022-12-11": 119170,
-  "2022-12-12": 119334,
-  "2022-12-13": 119429,
-  "2022-12-14": 119529,
-  "2022-12-15": 119614,
-  "2022-12-16": 119732,
-  "2022-12-17": 119848,
-  "2022-12-18": 119936,
-  "2022-12-19": 120056,
-  "2022-12-20": 120253,
-  "2022-12-21": 120253,
-  "2022-12-22": 120358,
-  "2022-12-24": 120610,
-  "2022-12-25": 120721,
-  "2022-12-26": 120829,
-  "2022-12-27": 120930,
-  "2022-12-28": 121035,
-  "2022-12-29": 121142,
-  "2022-12-30": 121252,
-  "2022-12-31": 121380,
-  "2023-01-01": 121481,
-  "2023-01-02": 121577,
-  "2023-01-03": 121671,
-  "2023-01-04": 121769,
-  "2023-01-05": 121860,
-  "2023-01-06": 121969,
-  "2023-01-07": 122134,
-  "2023-01-08": 122144,
-  "2023-01-09": 122250,
-  "2023-01-10": 122325,
-  "2023-01-11": 122406,
-  "2023-01-12": 122497,
-  "2023-01-13": 122599,
-  "2023-01-14": 122826,
-  "2023-01-15": 122836,
-  "2023-01-16": 122961,
-  "2023-01-17": 123059,
-  "2023-01-18": 123154,
-  "2023-01-19": 123270,
-  "2023-01-20": 123353,
-  "2023-01-21": 123470,
-  "2023-01-22": 123581,
-  "2023-01-23": 123706,
-  "2023-01-24": 123841,
-  "2023-01-25": 123923,
-  "2023-01-26": 124032,
-  "2023-01-27": 124155,
-  "2023-01-28": 124269,
-  "2023-01-29": 124397,
-  "2023-01-30": 124533,
-  "2023-01-31": 124533,
-  "2023-02-01": 124749,
-  "2023-02-02": 124832,
-  "2023-02-03": 124952,
-  "2023-02-04": 125060,
-  "2023-02-05": 125178,
-  "2023-02-06": 125284,
-  "2023-02-07": 125391,
-  "2023-02-08": 125589,
-  "2023-02-09": 125589,
-  "2023-02-10": 125688,
-  "2023-02-11": 125809,
-  "2023-02-12": 126018,
-  "2023-02-13": 126115,
-  "2023-02-14": 126115,
-  "2023-02-15": 126199,
-  "2023-02-16": 126300,
-  "2023-02-17": 126398,
-  "2023-02-18": 126623,
-  "2023-02-19": 126645,
-  "2023-02-20": 126738,
-  "2023-02-21": 126825,
-  "2023-02-22": 126933,
-  "2023-02-23": 127028,
-  "2023-02-24": 127127,
-  "2023-02-25": 127302,
-  "2023-02-26": 127375,
-  "2023-02-27": 127600,
-  "2023-02-28": 127600,
-  "2023-03-01": 127715,
-  "2023-03-02": 127820,
-  "2023-03-03": 127926,
-  "2023-03-04": 128003,
-  "2023-03-05": 128208,
-  "2023-03-06": 128208,
-  "2023-03-07": 128326,
-  "2023-03-08": 128411,
-  "2023-03-09": 128522,
-  "2023-03-10": 128643,
-  "2023-03-11": 128736,
-  "2023-03-12": 128856,
-  "2023-03-13": 128985,
-  "2023-03-14": 129058,
-  "2023-03-15": 129140,
-  "2023-03-16": 129230,
-  "2023-03-17": 129230,
-  "2023-03-18": 129422,
-  "2023-03-19": 129538,
-  "2023-03-20": 129640,
-  "2023-03-21": 129755,
-  "2023-03-22": 129864,
-  "2023-03-23": 129957,
-  "2023-03-24": 129957,
-  "2023-03-25": 130167,
-  "2023-03-26": 130257,
-  "2023-03-27": 130383,
-  "2023-03-28": 130470,
-  "2023-03-29": 130583,
-  "2023-03-30": 130747,
-  "2023-03-31": 130747,
-  "2023-04-01": 130821,
-  "2023-04-02": 130928,
-  "2023-04-03": 131015,
-  "2023-04-04": 131091,
-  "2023-04-05": 131203,
-  "2023-04-06": 131279,
-  "2023-04-07": 131375,
-  "2023-04-09": 131575,
-  "2023-04-10": 131687,
-  "2023-04-11": 131861,
-  "2023-04-12": 131861,
-  "2023-04-13": 131963,
-  "2023-04-14": 132045,
-  "2023-04-15": 132152,
-  "2023-04-16": 132264,
-  "2023-04-17": 132380,
-  "2023-04-18": 132449,
-  "2023-04-19": 132541,
-  "2023-04-20": 132621,
-  "2023-04-21": 132716,
-  "2023-04-22": 132799,
-  "2023-04-23": 132919,
-  "2023-04-24": 133018,
-  "2023-04-25": 133107,
-  "2023-04-26": 133214,
-  "2023-04-27": 133313,
-  "2023-04-28": 133411,
-  "2023-04-29": 133519,
-  "2023-04-30": 133622,
-  "2023-05-01": 133719,
-  "2023-05-02": 133812,
-  "2023-05-03": 133912,
-  "2023-05-04": 134005,
-  "2023-05-05": 134096,
-  "2023-05-06": 134196,
-  "2023-05-07": 134285,
-  "2023-05-08": 134375,
-  "2023-05-09": 134455,
-  "2023-05-10": 134550,
-  "2023-05-11": 134638,
-  "2023-05-12": 134719,
-  "2023-05-13": 134815,
-  "2023-05-14": 134910,
-  "2023-05-15": 135003,
-  "2023-05-16": 135085,
-  "2023-05-17": 135172,
-  "2023-05-18": 135257,
-  "2023-05-19": 135348,
-  "2023-05-20": 135544,
-  "2023-05-21": 135544,
-  "2023-05-22": 135544,
-  "2023-05-23": 135761,
-  "2023-05-24": 135940,
-  "2023-05-25": 135947,
-  "2023-05-26": 136029,
-  "2023-05-27": 136124,
-  "2023-05-28": 136233,
-  "2023-05-29": 136233,
-  "2023-05-30": 136437,
-  "2023-05-31": 136546,
-  "2023-06-01": 136648,
-  "2023-06-02": 136763,
-  "2023-06-03": 136895,
-  "2023-06-04": 137007,
-  "2023-06-05": 137127,
-  "2023-06-06": 137210,
-  "2023-06-07": 137335,
-  "2023-06-08": 137446,
-  "2023-06-09": 137552,
-  "2023-06-10": 137655,
-  "2023-06-11": 137761,
-  "2023-06-12": 137874,
-  "2023-06-13": 137963,
-  "2023-06-14": 138051,
-  "2023-06-15": 138122,
-  "2023-06-16": 138213,
-  "2023-06-17": 138303,
-  "2023-06-18": 138410,
-  "2023-06-19": 138518,
-  "2023-06-20": 138611,
-  "2023-06-21": 138692,
-  "2023-06-22": 138798,
-  "2023-06-23": 138890,
-  "2023-06-24": 138981,
-  "2023-06-25": 139103,
-  "2023-06-26": 139211,
-  "2023-06-27": 139290,
-  "2023-06-28": 139403,
-  "2023-06-29": 139506,
-  "2023-06-30": 139616,
-  "2023-07-01": 139872,
-  "2023-07-02": 139872,
-  "2023-07-03": 139996,
-  "2023-07-04": 140107,
-  "2023-07-05": 140209,
-  "2023-07-06": 140420,
-  "2023-07-07": 140420,
-  "2023-07-08": 140544,
-  "2023-07-09": 140644,
-  "2023-07-10": 140752,
-  "2023-07-11": 140859,
-  "2023-07-12": 140961,
-  "2023-07-13": 141053,
-  "2023-07-14": 141134,
-  "2023-07-15": 141224,
-  "2023-07-16": 141354,
-  "2023-07-17": 141484,
-  "2023-07-18": 141592,
-  "2023-07-19": 141684,
-  "2023-07-20": 141802,
-  "2023-07-21": 141913,
-  "2023-07-22": 142011,
-  "2023-07-23": 142124,
-  "2023-07-24": 142249,
-  "2023-07-25": 142338,
-  "2023-07-26": 142428,
-  "2023-07-27": 142514,
-  "2023-07-28": 142633,
-  "2023-07-29": 142737,
-  "2023-07-30": 142859,
-  "2023-07-31": 142970,
-  "2023-08-01": 143089,
-  "2023-08-02": 143202,
-  "2023-08-03": 143309,
-  "2023-08-04": 143428,
-  "2023-08-05": 143534,
-  "2023-08-06": 143788,
-  "2023-08-07": 143788,
-  "2023-08-08": 143890,
-  "2023-08-09": 144009,
-  "2023-08-10": 144110,
-  "2023-08-11": 144209,
-  "2023-08-12": 144341,
-  "2023-08-13": 144477,
-  "2023-08-14": 144613,
-  "2023-08-15": 144828,
-  "2023-08-16": 144828,
-  "2023-08-17": 144954,
-  "2023-08-18": 145082,
-  "2023-08-19": 145204,
-  "2023-08-20": 145323,
-  "2023-08-21": 145428,
-  "2023-08-22": 145540,
-  "2023-08-23": 145674,
-  "2023-08-24": 145778,
-  "2023-08-25": 145893,
-  "2023-08-26": 146023,
-  "2023-08-27": 146146,
-  "2023-08-28": 146289,
-  "2023-08-29": 146395,
-  "2023-08-30": 146503,
-  "2023-08-31": 146574,
-  "2023-09-01": 146776,
-  "2023-09-02": 146776,
-  "2023-09-03": 146893,
-  "2023-09-04": 147035,
-  "2023-09-05": 147141,
-  "2023-09-06": 147243,
-  "2023-09-07": 147352,
-  "2023-09-08": 147460,
-  "2023-09-09": 147585,
-  "2023-09-10": 147706,
-  "2023-09-11": 147820,
-  "2023-09-12": 147930,
-  "2023-09-13": 148036,
-  "2023-09-14": 148132,
-  "2023-09-15": 148232,
-  "2023-09-16": 148345,
-  "2023-09-17": 148486,
-  "2023-09-18": 148582,
-  "2023-09-19": 148681,
-  "2023-09-20": 148779,
-  "2023-09-21": 148878,
-  "2023-09-22": 148989,
-  "2023-09-23": 149101,
-  "2023-09-24": 149219,
-  "2023-09-25": 149344,
-  "2023-09-26": 149496,
-  "2023-09-27": 149579,
-  "2023-09-28": 149697,
-  "2023-09-29": 149834,
-  "2023-09-30": 149975,
-  "2023-10-01": 150112,
-  "2023-10-02": 150254,
-  "2023-10-03": 150381,
-  "2023-10-04": 150516,
-  "2023-10-05": 150625,
-  "2023-10-06": 150730,
-  "2023-10-07": 150841,
-  "2023-10-08": 150941,
-  "2023-10-09": 151054,
-  "2023-10-10": 151095,
-  "2023-10-11": 151235,
-  "2023-10-12": 151235,
-  "2023-10-13": 151303,
-  "2023-10-14": 151376,
-  "2023-10-15": 151483,
-  "2023-10-16": 151628,
-  "2023-10-17": 151748,
-  "2023-10-18": 151873,
-  "2023-10-19": 151972,
-  "2023-10-20": 152063,
-  "2023-10-21": 152164,
-  "2023-10-22": 152283,
-  "2023-10-23": 152399,
-  "2023-10-24": 152526,
-  "2023-10-25": 152639,
-  "2023-10-26": 152736,
-  "2023-10-27": 152845,
-  "2023-10-28": 152845,
-  "2023-10-29": 153054,
-  "2023-10-30": 153295,
-  "2023-10-31": 153295,
-  "2023-11-01": 153398,
-  "2023-11-02": 153508,
-  "2023-11-03": 153589,
-  "2023-11-04": 153695,
-  "2023-11-05": 153786,
-  "2023-11-06": 153875,
-  "2023-11-07": 153967,
-  "2023-11-08": 154060,
-  "2023-11-09": 154167,
-  "2023-11-10": 154252,
-  "2023-11-11": 154399,
-  "2023-11-12": 154493,
-  "2023-11-13": 154561,
-  "2023-11-14": 154652,
-  "2023-11-15": 154652,
-  "2023-11-16": 154820,
-  "2023-11-17": 154974,
-  "2023-11-18": 154974,
-  "2023-11-19": 155081,
-  "2023-11-20": 155159,
-  "2023-11-21": 155238,
-  "2023-11-22": 155345,
-  "2023-11-23": 155447,
-  "2023-11-24": 155533,
-  "2023-11-25": 155626,
-  "2023-11-26": 155735,
-  "2023-11-27": 155819,
-  "2023-11-28": 155885,
-  "2023-11-29": 156010,
-  "2023-11-30": 156010,
-  "2023-12-01": 156109,
-  "2023-12-02": 156160,
-  "2023-12-03": 156212,
-  "2023-12-04": 156298,
-  "2023-12-05": 156361,
-  "2023-12-06": 156434,
-  "2023-12-07": 156516,
-  "2023-12-08": 156577,
-  "2023-12-09": 156628,
-  "2023-12-10": 156711,
-  "2023-12-11": 156767,
-  "2023-12-12": 156817,
-  "2023-12-13": 156874,
-  "2023-12-14": 156944,
-  "2023-12-15": 156983,
-  "2023-12-16": 157050,
-  "2023-12-17": 157120,
-  "2023-12-18": 157187,
-  "2023-12-19": 157230,
-  "2023-12-20": 157310,
-  "2023-12-21": 157369,
-  "2023-12-22": 157452,
-  "2023-12-23": 157504,
-  "2023-12-24": 157584,
-  "2023-12-25": 157659,
-  "2023-12-26": 157719,
-  "2023-12-27": 157792,
-  "2023-12-30": 158006,
-  "2023-12-31": 158084,
-  "2024-01-01": 158142,
-  "2024-01-02": 158206,
-  "2024-01-03": 158257
+  "2024-01-17": 158749,
+  "date_first_scraped": "2022-05-30",
+  "description": "Here comes the Maestro with his best of 90s!",
+  "name": "Raaja Rules 90s",
+  "tracks": [
+    {
+      "album": {
+        "name": "Arangetra Velai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5DCwLGLFXIVs2sZoZ9WrCE"
+      },
+      "artists": [
+        {
+          "name": "Uma Ramanan",
+          "url": "https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277946,
+      "name": "Aagaya Vennilavae",
+      "url": "https://open.spotify.com/track/3G8sRzjzOsNue8yUHBWvZO"
+    },
+    {
+      "album": {
+        "name": "Marupadiyum",
+        "url": "https://open.spotify.com/album/3ikuaGWU5qf6OoOkeZgmjO"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299096,
+      "name": "Aasai Athigam",
+      "url": "https://open.spotify.com/track/6DIApUsRklp8JlnP4Qwnon"
+    },
+    {
+      "album": {
+        "name": "Marupadiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/74nl2fK9s0FUEU0Uhcz0E1"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299106,
+      "name": "Aasai Athigam",
+      "url": "https://open.spotify.com/track/085n5x42EhKvdTfq7xodP4"
+    },
+    {
+      "album": {
+        "name": "Marupadiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6foiKZ5kWhCKfDXoGs00KA"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 299106,
+      "name": "Aasai Athigam",
+      "url": "https://open.spotify.com/track/3HMrWupj8Y7Qh7EBCoXufc"
+    },
+    {
+      "album": {
+        "name": "Marupadiyum (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ujSGpGIcupE1mNt4T0rhB"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 299106,
+      "name": "Aasai Athigam",
+      "url": "https://open.spotify.com/track/7bQMvyD4fit9FOW9uYm0vU"
+    },
+    {
+      "album": {
+        "name": "Kummi Paattu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4jEi1Bws5dSu3I1CICWHhp"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        },
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302497,
+      "name": "Aasai Machaan",
+      "url": "https://open.spotify.com/track/2S5utQE6my0qj3N5G69pTj"
+    },
+    {
+      "album": {
+        "name": "Captain Prabhakaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yARHhU9QpNkZZ9ujc7DMB"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314514,
+      "name": "Aattama Therottama",
+      "url": "https://open.spotify.com/track/6B8UmdUMhZyyAJKTYibavN"
+    },
+    {
+      "album": {
+        "name": "Ezhai Jaadhi",
+        "url": "https://open.spotify.com/album/60pOAgbRFNeng6WTqQ5tl9"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349200,
+      "name": "Adho Andha Nadhiyoram",
+      "url": "https://open.spotify.com/track/7dwZXMwAkXqEhvxi2X7MER"
+    },
+    {
+      "album": {
+        "name": "Kummi Pattu",
+        "url": "https://open.spotify.com/album/71g0liavxNz2srhPxLQZMQ"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302044,
+      "name": "Adi Aasa Machan-Duet",
+      "url": "https://open.spotify.com/track/43aX3xvtP1EWRIqT2FDoOu"
+    },
+    {
+      "album": {
+        "name": "Koyil Kalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1dwnXVTFUnpS20zFLRloDE"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299626,
+      "name": "Adi Maana Madhuraiyile",
+      "url": "https://open.spotify.com/track/7BCj3LdillfPyMkF36kx5n"
+    },
+    {
+      "album": {
+        "name": "Koyil Kaalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/68DtSdF1Ppp5LIGc4sIZx9"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300538,
+      "name": "Adi Maana Madhuraiyile",
+      "url": "https://open.spotify.com/track/47YXdpF7jIViTO7EtWFWb1"
+    },
+    {
+      "album": {
+        "name": "Koyil Kaalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2nrx4kx93bb9lp6d2rwElY"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 300538,
+      "name": "Adi Maana Madhuraiyile",
+      "url": "https://open.spotify.com/track/6SVekdkcmth4Eq6jcXfYsC"
+    },
+    {
+      "album": {
+        "name": "Koyil Kaalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4lokn8Xxx9Ez40xixpmeju"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 300538,
+      "name": "Adi Maana Madhuraiyile",
+      "url": "https://open.spotify.com/track/6p3GxJv1g5VQvxSO1TcHWg"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraja's Folk Hits Songs",
+        "url": "https://open.spotify.com/album/5XwRsxw9gOUzBvB1lFuVxN"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 299484,
+      "name": "Adi Maanaa Madhuraiyile (From \"Koyil Kaalai\")",
+      "url": "https://open.spotify.com/track/2HUQBDHoqt8RnxH8orXvKP"
+    },
+    {
+      "album": {
+        "name": "Aranmanai Kili (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ai8W0KoXF77A3DdfekXEV"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Minmini",
+          "url": "https://open.spotify.com/artist/22hTOnub1VZYjuQultOi4Q"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306720,
+      "name": "Adi Poonguilea",
+      "url": "https://open.spotify.com/track/4I8naj5nDVaJnT3XSv6339"
+    },
+    {
+      "album": {
+        "name": "Aavaram Poo",
+        "url": "https://open.spotify.com/album/3VamRIu7F1JQvM5m8kFRsa"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297789,
+      "name": "Adukku Malli",
+      "url": "https://open.spotify.com/track/7qA1TpcANRgQ1UVjA6vQN5"
+    },
+    {
+      "album": {
+        "name": "Nambirajanin Chandralekha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3b75d6R3M9BFEVyu0xQPEY"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "P. Unnikrishnan",
+          "url": "https://open.spotify.com/artist/6TyhAwtGevKQOtqLPmKKQU"
+        },
+        {
+          "name": "Preethi Uttamsingh",
+          "url": "https://open.spotify.com/artist/4YLIh5mIXuPivbG6BST7Kj"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362226,
+      "name": "Allah Un Aanai",
+      "url": "https://open.spotify.com/track/4xaZ1MOmNihUUMy1IQ3g6b"
+    },
+    {
+      "album": {
+        "name": "Nambirajanin Chandralekha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2W9ThnRQokgVaXXCbdHPdn"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Preethi Uttamsingh",
+          "url": "https://open.spotify.com/artist/4YLIh5mIXuPivbG6BST7Kj"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 362226,
+      "name": "Allah Un Aanai",
+      "url": "https://open.spotify.com/track/3fYapQQBNCyaPrO0ddOx8C"
+    },
+    {
+      "album": {
+        "name": "Chandralekha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0h5W8fgtxMlcFVdzengUJd"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Preethi Uttamsingh",
+          "url": "https://open.spotify.com/artist/4YLIh5mIXuPivbG6BST7Kj"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362226,
+      "name": "Allah Un Aanai",
+      "url": "https://open.spotify.com/track/4UzYMcoxgWdCRKxsMh9LmD"
+    },
+    {
+      "album": {
+        "name": "Nambirajanin Chandralekha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/01zkdLS4UEaKdGvO7ng3uF"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Preethi Uttamsingh",
+          "url": "https://open.spotify.com/artist/4YLIh5mIXuPivbG6BST7Kj"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 362226,
+      "name": "Allah Un Aanai",
+      "url": "https://open.spotify.com/track/6ZxLO0c8oRIxOjigiYhSvk"
+    },
+    {
+      "album": {
+        "name": "Chandralekha",
+        "url": "https://open.spotify.com/album/5bGCVIe1KBvPL5ZDHBfrJF"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Preeti",
+          "url": "https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 361929,
+      "name": "Allah Unn Aanai",
+      "url": "https://open.spotify.com/track/3i7ERfCjlrpPni6S0yBONZ"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DmaAp0cXlUPErHmeWkwwW"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Sunandha",
+          "url": "https://open.spotify.com/artist/0QHumzvhFwZdpNlP33AuLB"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302053,
+      "name": "Amma Amma",
+      "url": "https://open.spotify.com/track/2PxOfRRUGpnKPP2Jz7r6Ht"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DmaAp0cXlUPErHmeWkwwW"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-13",
+      "duration_ms": 299859,
+      "name": "Amma Amma - Male Version",
+      "url": "https://open.spotify.com/track/2jf4kku3LGRfqkebtz0yYO"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/36OqS1xA62emo3ouwYHZqh"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 299859,
+      "name": "Amma Amma - Male Version",
+      "url": "https://open.spotify.com/track/4fZLZREf5KlqStMbDif7Nl"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EC21LB2UDYmnBsvtPSG4F"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 299859,
+      "name": "Amma Amma - Male Version",
+      "url": "https://open.spotify.com/track/765iRX0c2iJVQT5jVXHAHe"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali",
+        "url": "https://open.spotify.com/album/7ri3KEOl6feNWTUBuVFUY5"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302040,
+      "name": "Amma Amma Male",
+      "url": "https://open.spotify.com/track/5vcAcFIWDtq49vPYoUx9M4"
+    },
+    {
+      "album": {
+        "name": "Kadalukku Mariyadai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz"
+      },
+      "artists": [
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "S. N. Surendar",
+          "url": "https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU"
+        },
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298440,
+      "name": "Anantha Kuyilin Pattu",
+      "url": "https://open.spotify.com/track/0mTwCnJosVUPUuMQkrC13x"
+    },
+    {
+      "album": {
+        "name": "Beats Of Love",
+        "url": "https://open.spotify.com/album/5nBAsRisTOQBNgf0Ba3IZY"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-29",
+      "duration_ms": 280028,
+      "name": "Anbe Nee Enna (From \"Pandiyan\")",
+      "url": "https://open.spotify.com/track/2W6QmqiEcqNEUYUXWRqE04"
+    },
+    {
+      "album": {
+        "name": "Pandiyan",
+        "url": "https://open.spotify.com/album/75xVzE74vFMz679CuXLaVR"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280028,
+      "name": "Anbe Neeyenna",
+      "url": "https://open.spotify.com/track/6j7dclEReS68aCnVt6Exey"
+    },
+    {
+      "album": {
+        "name": "Kilipetchu Ketkava",
+        "url": "https://open.spotify.com/album/5s9sgBSu1Fj09N9RDJFMT4"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308199,
+      "name": "Anbe Vaa Arigiley",
+      "url": "https://open.spotify.com/track/5MiLho4OcCWI7sMnfkzK0L"
+    },
+    {
+      "album": {
+        "name": "Anjali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7cZZoazNrhcql2ZliqIcn7"
+      },
+      "artists": [
+        {
+          "name": "Sathya",
+          "url": "https://open.spotify.com/artist/4J6eao4KqjRmLHH0Y77yh1"
+        },
+        {
+          "name": "Karthikraja",
+          "url": "https://open.spotify.com/artist/4tHoiwCvO0ypNqBG96sS8c"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/1GXaIAB2oqtNkRygWnmAZl"
+        },
+        {
+          "name": "Venkat Prabhu",
+          "url": "https://open.spotify.com/artist/3rCo1iSvLSKm430C8Hy8nT"
+        },
+        {
+          "name": "Premgi Amaren",
+          "url": "https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2"
+        },
+        {
+          "name": "Parthi Bhaskar",
+          "url": "https://open.spotify.com/artist/7fkwBGVscePDNiF6vk4oXi"
+        },
+        {
+          "name": "Hari Bhaskar",
+          "url": "https://open.spotify.com/artist/37NKMX3i9G9JSv3KVPVncH"
+        },
+        {
+          "name": "Vaishnavi",
+          "url": "https://open.spotify.com/artist/5zmAZoGlCxSclRMXy6E6au"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 333479,
+      "name": "Anjali Anjali",
+      "url": "https://open.spotify.com/track/782KVimYTgfA62855WXVTn"
+    },
+    {
+      "album": {
+        "name": "Dharma Durai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300460,
+      "name": "Annan Enna Thambi Enna",
+      "url": "https://open.spotify.com/track/62AFtKJzjOxGx27oXM0z2i"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/4QBVAqwjs9Nhs23uDR0pj6"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271153,
+      "name": "Antha Vanatha (Male)",
+      "url": "https://open.spotify.com/track/3jyPqBoCkboezCaFaXZq6o"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/3MXTzAfPyUKwiuJOHWA8oU"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraja",
+          "url": "https://open.spotify.com/artist/6qDwRv2a86BxhOxbSesBuV"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 271153,
+      "name": "Antha Vanatha (Male)",
+      "url": "https://open.spotify.com/track/3A2bIngI3SvGG0wZtKGmHy"
+    },
+    {
+      "album": {
+        "name": "Idhayam",
+        "url": "https://open.spotify.com/album/7hyFK0ME6aHt0LaitQSPQU"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310085,
+      "name": "April Mayilae",
+      "url": "https://open.spotify.com/track/1M3cGUO2LEX3XetZVt7FjE"
+    },
+    {
+      "album": {
+        "name": "Chinna Thambi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295528,
+      "name": "Arachcha Santhanam",
+      "url": "https://open.spotify.com/track/6A9LkPKCxGPPdNYnGGOFQg"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ohwdWzJrIu2Mtf2JInfto"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298426,
+      "name": "Azhagaana Manjappura",
+      "url": "https://open.spotify.com/track/0lK21YvG3h7AuJlLtcNdvz"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan",
+        "url": "https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298426,
+      "name": "Azhagaana Manjappura",
+      "url": "https://open.spotify.com/track/5pcdZmguBhFc74y7K69ED9"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran",
+        "url": "https://open.spotify.com/album/0Et48YJbvpMdhdJnNmKYds"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308036,
+      "name": "Chinna Chinna",
+      "url": "https://open.spotify.com/track/2DOwmdf2cCT8ym34lYa9tv"
+    },
+    {
+      "album": {
+        "name": "Senthamizh Paattu",
+        "url": "https://open.spotify.com/album/7n1Wq0ZOjwRVWcjhrYmPOI"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306070,
+      "name": "Chinna Chinna",
+      "url": "https://open.spotify.com/track/0PgRoIy5Q7U40qAMUSLfhh"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QkKLIAkixHAq9fz2WV4SB"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 308293,
+      "name": "Chinna Chinna Sol Eduthu",
+      "url": "https://open.spotify.com/track/3HDnb53ze91yOZwHDMF84x"
+    },
+    {
+      "album": {
+        "name": "Senthamizh Paattu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5gMsTPejVSKan1Oxv8OkfU"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306834,
+      "name": "Chinna Chinna Thooral",
+      "url": "https://open.spotify.com/track/289NjOipbwHW8WSFzynyCr"
+    },
+    {
+      "album": {
+        "name": "Senthamizh Paattu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6BIUjiHiLfXqzkLroyZncU"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-29",
+      "duration_ms": 306834,
+      "name": "Chinna Chinna Thooral",
+      "url": "https://open.spotify.com/track/5XtIBJkXRyM4c59FXNFL58"
+    },
+    {
+      "album": {
+        "name": "Senthamizh Paattu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4JmwVLmJafPHsRoXXvwgR0"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Anuradha Sriram",
+          "url": "https://open.spotify.com/artist/5ObQXIcqKtQENK14lQyqiy"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 306834,
+      "name": "Chinna Chinna Thooral",
+      "url": "https://open.spotify.com/track/5gp8jL2dsIKWmaTNWxNTO8"
+    },
+    {
+      "album": {
+        "name": "Wings, Vol. 1",
+        "url": "https://open.spotify.com/album/7dffP7xDwvd3JeJB49ItV6"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304733,
+      "name": "Chinna rasavae",
+      "url": "https://open.spotify.com/track/6SME3clf0I0FBBsPesF8Ug"
+    },
+    {
+      "album": {
+        "name": "Walter Vetrivel",
+        "url": "https://open.spotify.com/album/7qOu7DAM1l3UvU7BvvSQtx"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294922,
+      "name": "Chinna Rasavae",
+      "url": "https://open.spotify.com/track/09u9X6Drsv8OFxih15wIxn"
+    },
+    {
+      "album": {
+        "name": "Devadai",
+        "url": "https://open.spotify.com/album/0BSb0V9tdDtEMjVFHDSTKn"
+      },
+      "artists": [
+        {
+          "name": "Sandhya",
+          "url": "https://open.spotify.com/artist/5pBJLl0z3HoPLzPI95P6PN"
+        },
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301440,
+      "name": "Deepangal Pesum",
+      "url": "https://open.spotify.com/track/4GieeqxAyuXrzLM8ugxyBF"
+    },
+    {
+      "album": {
+        "name": "Gopura Vasalile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3"
+      },
+      "artists": [
+        {
+          "name": "Deepan Chakravarthy",
+          "url": "https://open.spotify.com/artist/6r7P5L1lGFToFz6vwDcGdT"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "S. N. Surendar",
+          "url": "https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305371,
+      "name": "Dhevadhai Pol",
+      "url": "https://open.spotify.com/track/2l6EMBHsl26cnhWlsGSdeK"
+    },
+    {
+      "album": {
+        "name": "Kalaingan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1HwWQc5SgjUnCdGmT8PY8Y"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341000,
+      "name": "Dhillubaru Jaane",
+      "url": "https://open.spotify.com/track/0xzkoaVAFDqK4OtcUkOzqz"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0uHalvfDfGZAHeDFYa3HYa"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 341864,
+      "name": "Dillu Baru Jaane",
+      "url": "https://open.spotify.com/track/01AbGGSF08U8ImBf5i5gCt"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0kN2FCxROfQHtFEDRG1NO2"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 341864,
+      "name": "Dillu Baru Jaane",
+      "url": "https://open.spotify.com/track/31mU8xvL02SyYJRqj7uwCg"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ccurosuesgD0gxno0avKV"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341864,
+      "name": "Dillu Baru Jaane",
+      "url": "https://open.spotify.com/track/7kQrsVvOOqByc27Cmc0MSx"
+    },
+    {
+      "album": {
+        "name": "Poomani",
+        "url": "https://open.spotify.com/album/7yeIQhEiZAA62WOI8QzRvP"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284630,
+      "name": "Empattu Empaattu",
+      "url": "https://open.spotify.com/track/10Z9xMJdBp51pnh2dWmlXY"
+    },
+    {
+      "album": {
+        "name": "Kaasi",
+        "url": "https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338546,
+      "name": "En Mana Vaanil",
+      "url": "https://open.spotify.com/track/1AKvEngTr5h7XLNgjeXNTQ"
+    },
+    {
+      "album": {
+        "name": "Aranmanai Kili",
+        "url": "https://open.spotify.com/album/5lUPvuunyjYcaTnBaL2fY6"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292680,
+      "name": "En Thayenum",
+      "url": "https://open.spotify.com/track/3e687geovlI3eFvht3xJ5B"
+    },
+    {
+      "album": {
+        "name": "Raman Abdullah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xOf42Vnci5zVF0DnaGwY0"
+      },
+      "artists": [
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302889,
+      "name": "En Veetu Jannal",
+      "url": "https://open.spotify.com/track/6G2Ki9Exe21EWcMpbirWtF"
+    },
+    {
+      "album": {
+        "name": "Singers Special - Bhavatharini",
+        "url": "https://open.spotify.com/album/50HvCvOFFWdxfooRlgY857"
+      },
+      "artists": [
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302889,
+      "name": "En Veetu Jannal (From \"Raman Abdullah\")",
+      "url": "https://open.spotify.com/track/32gt342ePV5KMa9K98Y7cz"
+    },
+    {
+      "album": {
+        "name": "Kalaingan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1HwWQc5SgjUnCdGmT8PY8Y"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289000,
+      "name": "Endhan Nenjil",
+      "url": "https://open.spotify.com/track/1BWuoRLjrkRIpr40hacdmS"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0kN2FCxROfQHtFEDRG1NO2"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 290011,
+      "name": "Endhan Nenjil",
+      "url": "https://open.spotify.com/track/4imgRgIvqsaDxhdQfAPlFI"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ccurosuesgD0gxno0avKV"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290011,
+      "name": "Endhan Nenjil (From \"Kalaingnan\")",
+      "url": "https://open.spotify.com/track/1DgPGe18ZRXTdunzrDZmcD"
+    },
+    {
+      "album": {
+        "name": "Kalaingnan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0uHalvfDfGZAHeDFYa3HYa"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 290011,
+      "name": "Endhan Nenjil (From \"Kalaingnan\")",
+      "url": "https://open.spotify.com/track/24r5zHtvYwYr3QiUOLVaPC"
+    },
+    {
+      "album": {
+        "name": "Emotions By K J Jesudas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52ASNaQlW3eaDo47XOrcmi"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-14",
+      "duration_ms": 290011,
+      "name": "Endhan Nenjil (From \"Kalaingnan\")",
+      "url": "https://open.spotify.com/track/7L3SlT5lVStedLYumg72GU"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraja's Folk Hits Songs",
+        "url": "https://open.spotify.com/album/5XwRsxw9gOUzBvB1lFuVxN"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 283736,
+      "name": "Enna Maanamulla Ponnu (From \"Chinna pasanga naanga\")",
+      "url": "https://open.spotify.com/track/2Ov1YJ6RQzSaxqfSXmayeg"
+    },
+    {
+      "album": {
+        "name": "Kadalukku Mariyadai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304920,
+      "name": "Ennai Thalatta Varuvala (Duet)",
+      "url": "https://open.spotify.com/track/4MezfRc3Yw4m7PvFPF85o8"
+    },
+    {
+      "album": {
+        "name": "Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fmcVmUr4N7u5s4Pd3VZ5N"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300960,
+      "name": "Ennai Thottu",
+      "url": "https://open.spotify.com/track/6rHDMFYZMwHeQZ6084qFHq"
+    },
+    {
+      "album": {
+        "name": "Unna Nenachen Pattu Padichen",
+        "url": "https://open.spotify.com/album/0DJcJAoqMbJ5OjEwG4y0iE"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300733,
+      "name": "Ennai Thottu",
+      "url": "https://open.spotify.com/track/7sK0B8EVLbb9WuarhhtYLS"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3lS7poT2bommVInuq2VIsn"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 304320,
+      "name": "Ennavendru Solvathamma",
+      "url": "https://open.spotify.com/track/3BXlFa17AJOK9po9H8Fsng"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5QPpKrOnIYI6hLolJ4hZLH"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304320,
+      "name": "Ennavendru Solvathamma",
+      "url": "https://open.spotify.com/track/40fG0SsbH8DecTC2klCLtk"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QkKLIAkixHAq9fz2WV4SB"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 304320,
+      "name": "Ennavendru Solvathamma",
+      "url": "https://open.spotify.com/track/6GLU0lCv0Emf2XVgHQ0WKg"
+    },
+    {
+      "album": {
+        "name": "Rajakumaran",
+        "url": "https://open.spotify.com/album/0Et48YJbvpMdhdJnNmKYds"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 304132,
+      "name": "Ennavendru Solvathamma",
+      "url": "https://open.spotify.com/track/4L8yWRRRscxN1FRtx5kqng"
+    },
+    {
+      "album": {
+        "name": "Swarnalatha Songs, Vol. 1",
+        "url": "https://open.spotify.com/album/4j2ffwZIKbOsSRxcyNp2mD"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414440,
+      "name": "Ennullae - From \"Valli\"",
+      "url": "https://open.spotify.com/track/5zLYzYz727LRLid6HGOmlD"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ohwdWzJrIu2Mtf2JInfto"
+      },
+      "artists": [
+        {
+          "name": "Vadivelu",
+          "url": "https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290986,
+      "name": "Ettanaa",
+      "url": "https://open.spotify.com/track/3rZ6I7nh5CFQARgiFm7t2W"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan",
+        "url": "https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6"
+      },
+      "artists": [
+        {
+          "name": "Vadivelu",
+          "url": "https://open.spotify.com/artist/4SlCFtxWUAnjCBqoq4zeS5"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290986,
+      "name": "Ettanaa",
+      "url": "https://open.spotify.com/track/79mKPex0ciNzaiWaO32FxD"
+    },
+    {
+      "album": {
+        "name": "Idhayam",
+        "url": "https://open.spotify.com/album/7hyFK0ME6aHt0LaitQSPQU"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308844,
+      "name": "Idhayamae Idhayamae",
+      "url": "https://open.spotify.com/track/03DafMcCW4Bx9RW8vqzhY2"
+    },
+    {
+      "album": {
+        "name": "Vanna Vanna Pookkal",
+        "url": "https://open.spotify.com/album/6sNXsi2kZd8IgB3Pvd6me9"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325552,
+      "name": "Ilanenjeva",
+      "url": "https://open.spotify.com/track/58Tl6L2cqMC2Gcf5ZMRiQ2"
+    },
+    {
+      "album": {
+        "name": "Manam Virumbuthe Unnai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4i2oZJDq9yo7LlXWvTSkcZ"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293564,
+      "name": "Ilavenirkala",
+      "url": "https://open.spotify.com/track/6Ewl4bf983TVXGHVr72yrv"
+    },
+    {
+      "album": {
+        "name": "Chinna Pasanga Naanga",
+        "url": "https://open.spotify.com/album/5D4TKmHGi9y5LjDGFqIudX"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278675,
+      "name": "Inge Maanamulla",
+      "url": "https://open.spotify.com/track/32EmnadavOVcb5H9j2UaY3"
+    },
+    {
+      "album": {
+        "name": "Devar Magan",
+        "url": "https://open.spotify.com/album/0Ht6nV6QtLPqsZNrSrAMgF"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 209031,
+      "name": "Inji Idupazhagi",
+      "url": "https://open.spotify.com/track/0y4cRQvsh8oOB5qq6Jv4Lf"
+    },
+    {
+      "album": {
+        "name": "Devar Magan",
+        "url": "https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209031,
+      "name": "Inji Idupazhagi",
+      "url": "https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB"
+    },
+    {
+      "album": {
+        "name": "Singaravelan",
+        "url": "https://open.spotify.com/album/6tzNcu9zkuesvD1LEdlNPu"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297095,
+      "name": "Innum Ennai",
+      "url": "https://open.spotify.com/track/3PyhTmwDjQzkYHbOKFtBFc"
+    },
+    {
+      "album": {
+        "name": "Singaravelan",
+        "url": "https://open.spotify.com/album/3YGeumpXqJnoRYbFMzfiJV"
+      },
+      "artists": [
+        {
+          "name": "S.P.Balasubramaniam",
+          "url": "https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 296712,
+      "name": "Innum Ennai",
+      "url": "https://open.spotify.com/track/4X1MMDxVTYl6Zt4gC81dvk"
+    },
+    {
+      "album": {
+        "name": "Anjali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7cZZoazNrhcql2ZliqIcn7"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Karthikraja",
+          "url": "https://open.spotify.com/artist/4tHoiwCvO0ypNqBG96sS8c"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Venkat Prabhu",
+          "url": "https://open.spotify.com/artist/3rCo1iSvLSKm430C8Hy8nT"
+        },
+        {
+          "name": "Premgi Amaren",
+          "url": "https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2"
+        },
+        {
+          "name": "Parthi Bhaskar",
+          "url": "https://open.spotify.com/artist/7fkwBGVscePDNiF6vk4oXi"
+        },
+        {
+          "name": "Hari Bhaskar",
+          "url": "https://open.spotify.com/artist/37NKMX3i9G9JSv3KVPVncH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282462,
+      "name": "Iravu Nilavu",
+      "url": "https://open.spotify.com/track/2rHjkSc3s1mrGWXXNDYhzR"
+    },
+    {
+      "album": {
+        "name": "Heyram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii"
+      },
+      "artists": [
+        {
+          "name": "Ajai Chakravarthi",
+          "url": "https://open.spotify.com/artist/1etgORzoAgtq9tNDGRMXBi"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344003,
+      "name": "Isaiyil Thodanguthamma",
+      "url": "https://open.spotify.com/track/6XiS8yu1y46NMi41XYkNt4"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya",
+        "url": "https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Preeti",
+          "url": "https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340683,
+      "name": "Kaadhal Vaanilae",
+      "url": "https://open.spotify.com/track/0IMEdXJyzivhWbZIYhNQbY"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya",
+        "url": "https://open.spotify.com/album/0J95ZpiUCgaSz8ALgfVLEm"
+      },
+      "artists": [
+        {
+          "name": "S.P.Balasubramaniam",
+          "url": "https://open.spotify.com/artist/6L0CDEv6dMKPyGEbzCs5do"
+        },
+        {
+          "name": "Preeti",
+          "url": "https://open.spotify.com/artist/6qBukaZAaJjYHStsQGb6hb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 340683,
+      "name": "Kaadhal Vaanilae",
+      "url": "https://open.spotify.com/track/0aI0rl12cGvE9vzH4xqiVq"
+    },
+    {
+      "album": {
+        "name": "Evergreen Songs of Ilaiya Thilagam Prabhu",
+        "url": "https://open.spotify.com/album/0YKGXTATMHBn6G4k1bVfpv"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 303006,
+      "name": "Kaadhoram Lolakku (From \"Chinna Mapillai\")",
+      "url": "https://open.spotify.com/track/2fyoFvTV1jFBrsJzNKi3yO"
+    },
+    {
+      "album": {
+        "name": "Gopura Vasalile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310343,
+      "name": "Kadhal Kavithaigal",
+      "url": "https://open.spotify.com/track/2VNsIpwEBYJ1feER0uo19d"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Preethi",
+          "url": "https://open.spotify.com/artist/35A19Zs0h1AsIPne3ZF6oI"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 341420,
+      "name": "Kadhal Vaanile",
+      "url": "https://open.spotify.com/track/1tyMr6ZDSv1NNSGPHUqeHe"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lOi6QGFgf6XWUL2QJxZON"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Preethi",
+          "url": "https://open.spotify.com/artist/35A19Zs0h1AsIPne3ZF6oI"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 341420,
+      "name": "Kadhal Vaanile",
+      "url": "https://open.spotify.com/track/4TaxCLxroQuGaTbQFunfuC"
+    },
+    {
+      "album": {
+        "name": "Chinna Mapillai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3UAi9pxnfscdjT8Rtb1YFo"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303493,
+      "name": "Kadhoram Loolakku",
+      "url": "https://open.spotify.com/track/6Pki3NxOk0aogN3yVniHrS"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraja's Folk Hits Songs",
+        "url": "https://open.spotify.com/album/5XwRsxw9gOUzBvB1lFuVxN"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 305827,
+      "name": "Kalaivaaniyo Raaniyo (From \"Villu Pattukaran\")",
+      "url": "https://open.spotify.com/track/6TSrGowzJF9y7q3bwr9KyA"
+    },
+    {
+      "album": {
+        "name": "Villu Pattukaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76DTLTDU1oDKTzK2El8jMb"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305640,
+      "name": "Kalaivaniyo Raniyo",
+      "url": "https://open.spotify.com/track/2Kd508yLlVXT8PvgLmwMQT"
+    },
+    {
+      "album": {
+        "name": "Gunaa",
+        "url": "https://open.spotify.com/album/1xM7QyMaNVSNVD2lXt3a44"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327235,
+      "name": "Kanmani Anbodu",
+      "url": "https://open.spotify.com/track/6gwU5xHdDoUDKofM4zrtWQ"
+    },
+    {
+      "album": {
+        "name": "Love Notes by Ilaiyaraja Vol -3",
+        "url": "https://open.spotify.com/album/7neaS9hqNAMW5Tu0WNLDsf"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275217,
+      "name": "Kannama Kaadhal Ennum (From \"Vanna Vanna Pookkal\")",
+      "url": "https://open.spotify.com/track/2mSwbQhzI5nOKS6as1BmtC"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/4QBVAqwjs9Nhs23uDR0pj6"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259213,
+      "name": "Kannu Pada",
+      "url": "https://open.spotify.com/track/6SnhMom2SlspkeS09PxOCz"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/3MXTzAfPyUKwiuJOHWA8oU"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraja",
+          "url": "https://open.spotify.com/artist/6qDwRv2a86BxhOxbSesBuV"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 259213,
+      "name": "Kannu Pada",
+      "url": "https://open.spotify.com/track/27xXebpDQrKSE3iRwGdIgj"
+    },
+    {
+      "album": {
+        "name": "Veera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1pEtCPa0S5WK2HIQZF6Cm7"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 364277,
+      "name": "Konji Konji",
+      "url": "https://open.spotify.com/track/42fxlNRUINgKZX7Mr2IMAK"
+    },
+    {
+      "album": {
+        "name": "Veera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6hJPjyWm6fP4PAtBCx0a8h"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364277,
+      "name": "Konji Konji",
+      "url": "https://open.spotify.com/track/4a1y0kGCOmOTsNbwvigQbz"
+    },
+    {
+      "album": {
+        "name": "Veera (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZerwxoUTPB1hE8JY6uJRs"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 364277,
+      "name": "Konji Konji",
+      "url": "https://open.spotify.com/track/5rFtRk6qYotcSMpqIt4HIk"
+    },
+    {
+      "album": {
+        "name": "S. P. Balasubrahmanyan 90'S Solo Melodies, Vol. 1",
+        "url": "https://open.spotify.com/album/4RzojDFY13WBLSAuFuAqR4"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2022-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 362978,
+      "name": "Konji Konji (From \"Veera\")",
+      "url": "https://open.spotify.com/track/43qf3Pe9lWhIunr01fqxlP"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/3MXTzAfPyUKwiuJOHWA8oU"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 256509,
+      "name": "Koondu Kulla",
+      "url": "https://open.spotify.com/track/4By3eALOuClnA1u44Dqi0S"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/4QBVAqwjs9Nhs23uDR0pj6"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256509,
+      "name": "Koondu Kulla",
+      "url": "https://open.spotify.com/track/5MFOYdu0vM77vd91bwRVmU"
+    },
+    {
+      "album": {
+        "name": "En Rasavin Manasile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294164,
+      "name": "Kuyil Paattu (Happy)",
+      "url": "https://open.spotify.com/track/5JLkSyqJTKKuuyeT3kBKIb"
+    },
+    {
+      "album": {
+        "name": "Sethu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5QWMNtbaGSMR30b3ny4ug8"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301906,
+      "name": "Maalai Yen Vedhanai",
+      "url": "https://open.spotify.com/track/5OxzBgOYuDr1Q8d5Wbu8Yp"
+    },
+    {
+      "album": {
+        "name": "Chatriyan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mFPKnYF5EXwWpzzN87SiH"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331306,
+      "name": "Maalayil Yaro Manathodu",
+      "url": "https://open.spotify.com/track/2o74yd2eqvGyF0RByJSQne"
+    },
+    {
+      "album": {
+        "name": "Unna Ninachen Paatu Padichen (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fmcVmUr4N7u5s4Pd3VZ5N"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305866,
+      "name": "Maanam Idi Idikka",
+      "url": "https://open.spotify.com/track/5zoMXQmH7wTXiazGWgaY2X"
+    },
+    {
+      "album": {
+        "name": "Unna Nenachen Pattu Padichen",
+        "url": "https://open.spotify.com/album/0DJcJAoqMbJ5OjEwG4y0iE"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306533,
+      "name": "Maanam Idi Idikka",
+      "url": "https://open.spotify.com/track/6bn39QzXuqc8m12ye7HAPW"
+    },
+    {
+      "album": {
+        "name": "Dharma Durai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5OAKyz8gLqbQcz9KHETsoB"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299885,
+      "name": "Maasi Masam Alana Ponnu",
+      "url": "https://open.spotify.com/track/7mqVlAqdk16J7JACoUeAN3"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313853,
+      "name": "Maharajanodu",
+      "url": "https://open.spotify.com/track/3hZQglTkzY7iWtfSJhZ5XN"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi",
+        "url": "https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b"
+      },
+      "artists": [
+        {
+          "name": "Unnikrishnan",
+          "url": "https://open.spotify.com/artist/0mV4UQ0gHg59AAUtg968pX"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 316535,
+      "name": "Maharajanodu",
+      "url": "https://open.spotify.com/track/5AeO1JzZbeRUmTsQTLjB5S"
+    },
+    {
+      "album": {
+        "name": "Veetla Visheshanga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/572NisZyZwtxzr0d5p06kB"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 308773,
+      "name": "Malare Thendral Paad",
+      "url": "https://open.spotify.com/track/16JnhMtvLSUDWX3iIiJ9wG"
+    },
+    {
+      "album": {
+        "name": "Veetla Visheshanga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3rRMU8NtOzDpT3rApHU6cz"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 308773,
+      "name": "Malare Thendral Paad",
+      "url": "https://open.spotify.com/track/2jKgeQmhNumkJdPgbtxsUp"
+    },
+    {
+      "album": {
+        "name": "Veetla Visheshanga (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5q56LZiIP1meO3HCLfuksp"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308773,
+      "name": "Malare Thendral Paad",
+      "url": "https://open.spotify.com/track/6RxdKVu5JNuU0EdmwD7OFi"
+    },
+    {
+      "album": {
+        "name": "Veetla Visheshanga",
+        "url": "https://open.spotify.com/album/2nTitERandpncDH6lwzzNM"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307717,
+      "name": "Malare Thendral Paadum - Female",
+      "url": "https://open.spotify.com/track/2C3XYzOlt1Fw40KsWCyK5Q"
+    },
+    {
+      "album": {
+        "name": "Sakthivel (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3NJ0S5vBfJxkGvYRBhGvaZ"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304400,
+      "name": "Malligai Mottu",
+      "url": "https://open.spotify.com/track/1NsfymKYTr0g5VFgyzGjqZ"
+    },
+    {
+      "album": {
+        "name": "Rickshaw Mama",
+        "url": "https://open.spotify.com/album/6jZjT5hXr9l52693G4etGJ"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304440,
+      "name": "Manakkum Malligai",
+      "url": "https://open.spotify.com/track/3qwv9WR6s8sbqR4W1ENrF5"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4wAlyGFdmDBM60YGknkTZF"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 369720,
+      "name": "Marugo Marugo",
+      "url": "https://open.spotify.com/track/6t48rynj5P4UuOK5aWAP8l"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GFx9DV7eSYI9aFpAHzBcB"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 369720,
+      "name": "Marugo Marugo",
+      "url": "https://open.spotify.com/track/30GGJGwMPuS6XIxO93MD6W"
+    },
+    {
+      "album": {
+        "name": "Sathi Leelavathi",
+        "url": "https://open.spotify.com/album/2IO7xMMIU7aHYAjMveF55b"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Kovai Sarala",
+          "url": "https://open.spotify.com/artist/4c2TlR2BorgIt1pTRH4nK3"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 369912,
+      "name": "Marugo Marugo",
+      "url": "https://open.spotify.com/track/0vp4FqDh9Mk2NHmubHgCse"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya",
+        "url": "https://open.spotify.com/album/3HGKIXgVcddeXayKY2nJsm"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 354240,
+      "name": "Masthana",
+      "url": "https://open.spotify.com/track/1hO88I2hMkuTTxL8wHXap5"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lOi6QGFgf6XWUL2QJxZON"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 355448,
+      "name": "Masthana Masthana",
+      "url": "https://open.spotify.com/track/2H2XQ9hSeK9SIR7c36ODfw"
+    },
+    {
+      "album": {
+        "name": "Raasaiyya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3TtpTZxgCpWIOFTUNePPys"
+      },
+      "artists": [
+        {
+          "name": "Arunmozhi",
+          "url": "https://open.spotify.com/artist/3mCRya0mLtW9bljPonCX5f"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-10",
+      "duration_ms": 355448,
+      "name": "Masthana Masthana",
+      "url": "https://open.spotify.com/track/6ASVX4UhxDCxYfmKpIDfYM"
+    },
+    {
+      "album": {
+        "name": "Raman Abdullah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xOf42Vnci5zVF0DnaGwY0"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276166,
+      "name": "Muthamizhe Muthamizhea",
+      "url": "https://open.spotify.com/track/2D8kXO5XRjx9mwbHQtLDwT"
+    },
+    {
+      "album": {
+        "name": "Romantic Hits",
+        "url": "https://open.spotify.com/album/4NDcAw0Rx8yB7x65HOa9Va"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 276166,
+      "name": "Muthamizhe Muthamizhea (From \"Raman Abdullah\")",
+      "url": "https://open.spotify.com/track/282L1AHreDFMr6gCCcECFT"
+    },
+    {
+      "album": {
+        "name": "S.P.B Hits at Ilayaraja Music",
+        "url": "https://open.spotify.com/album/3x0376TPpfvi8QFeKOp24F"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276166,
+      "name": "Muthamizhe Muthamizhea (From Raman Abdullah)",
+      "url": "https://open.spotify.com/track/0moMVHXqydRWnYtF6IdQec"
+    },
+    {
+      "album": {
+        "name": "Adharmam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0IgsMIDJXwntus1sRkfO17"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 269453,
+      "name": "Muthu Mani",
+      "url": "https://open.spotify.com/track/2FdMP97fWUbmZ4cbrPjOvR"
+    },
+    {
+      "album": {
+        "name": "Adharmam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ScU7VXvrZ37tPfOfJ5jwQ"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 269453,
+      "name": "Muthu Mani",
+      "url": "https://open.spotify.com/track/2MIqzFRwwQdXXkQUzvIVAD"
+    },
+    {
+      "album": {
+        "name": "Adharmam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0bKRop8PoWuf80xZ7GqmV4"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269453,
+      "name": "Muthu Mani",
+      "url": "https://open.spotify.com/track/4ZRKLLxa1wdVFDT71t34km"
+    },
+    {
+      "album": {
+        "name": "Adharmam",
+        "url": "https://open.spotify.com/album/0pj9oFPuGWaz1rtQYUw0Uw"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268306,
+      "name": "Muthu Mani",
+      "url": "https://open.spotify.com/track/06N7w9xQUG5HVePawldtDB"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/4QBVAqwjs9Nhs23uDR0pj6"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298579,
+      "name": "Muthumani Malai",
+      "url": "https://open.spotify.com/track/2grlSjOkFXywvHM1mtLLXI"
+    },
+    {
+      "album": {
+        "name": "Chinna Gounder",
+        "url": "https://open.spotify.com/album/3MXTzAfPyUKwiuJOHWA8oU"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 298579,
+      "name": "Muthumani Malai",
+      "url": "https://open.spotify.com/track/4BH47dwVxvBm4gV6qmojUW"
+    },
+    {
+      "album": {
+        "name": "Kaasi",
+        "url": "https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272326,
+      "name": "Naan Kaanum",
+      "url": "https://open.spotify.com/track/2ej7V9WfBhUpwbFwJHdG4Z"
+    },
+    {
+      "album": {
+        "name": "Udan Pirappu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffKVYWpmgr4I1x3CRSJXc"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 300466,
+      "name": "Nandri Sollave Unaku",
+      "url": "https://open.spotify.com/track/0ENTRCkVrPY0FLzBgx6xqP"
+    },
+    {
+      "album": {
+        "name": "Udan Pirappu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6UmjYmT1xzgthbZyHD3L1H"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 300466,
+      "name": "Nandri Sollave Unaku",
+      "url": "https://open.spotify.com/track/7GOXImdxWZ2JqSJfDVkRn0"
+    },
+    {
+      "album": {
+        "name": "Udan Pirappu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BVejV6p6JiQkoaF97eQfS"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300466,
+      "name": "Nandri Sollave Unaku",
+      "url": "https://open.spotify.com/track/7ySqTbfCvwp6xknbnq86EE"
+    },
+    {
+      "album": {
+        "name": "Udan Pirappu",
+        "url": "https://open.spotify.com/album/2qhymqbSzSk3tL1pcsIbKh"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300432,
+      "name": "Nandri Solli Unnakku",
+      "url": "https://open.spotify.com/track/0fKjznyS5nBXpq73J4DY5Z"
+    },
+    {
+      "album": {
+        "name": "Heyram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5qhBG5YYYn9qeI6mDjeGii"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        },
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Nee Partha",
+      "url": "https://open.spotify.com/track/2Hf0Puh1w4HvTae2HSw6Hu"
+    },
+    {
+      "album": {
+        "name": "Ponnumani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6mBksw2SsH02uwQN83WK1w"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 293600,
+      "name": "Nenjukkule Innarendru",
+      "url": "https://open.spotify.com/track/0mDP0erHe5W4R7COqxUhQE"
+    },
+    {
+      "album": {
+        "name": "Ponnumani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DH6P0wOcS0LejD2kKToH9"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 293600,
+      "name": "Nenjukkule Innarendru",
+      "url": "https://open.spotify.com/track/2RMloouGxcC5YYv2zPmU71"
+    },
+    {
+      "album": {
+        "name": "Ponnumani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7li2Nm40YR6H5lFXaFoumf"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293600,
+      "name": "Nenjukkule Innarendru",
+      "url": "https://open.spotify.com/track/6fOe1PKwuR0BudaaHF62Br"
+    },
+    {
+      "album": {
+        "name": "Ponnumani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/77iDS7DrHIiDW6xqnt0BhZ"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294640,
+      "name": "Nenjukkule Innarendru",
+      "url": "https://open.spotify.com/track/4uMviGXMakQlhzfSB8mTRf"
+    },
+    {
+      "album": {
+        "name": "Chembaruthi",
+        "url": "https://open.spotify.com/album/5ztp5QLPlMZP4BSQt0kVUu"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302775,
+      "name": "Nila Kayum",
+      "url": "https://open.spotify.com/track/17i9gJP9iPpLIWgeBw7JpQ"
+    },
+    {
+      "album": {
+        "name": "Kadalukku Mariyadai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz"
+      },
+      "artists": [
+        {
+          "name": "Vijay",
+          "url": "https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM"
+        },
+        {
+          "name": "Bhavatharini",
+          "url": "https://open.spotify.com/artist/03iJDZgebs4CLNrriGzyw4"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295920,
+      "name": "O Baby",
+      "url": "https://open.spotify.com/track/0AiI2aP2IJlCeuEMSOcy59"
+    },
+    {
+      "album": {
+        "name": "Meera",
+        "url": "https://open.spotify.com/album/774Y0jt3UtUYObb42MgmAi"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345722,
+      "name": "O Butterfly-Duet",
+      "url": "https://open.spotify.com/track/1qIFHqjsLlvnUp4Cnp9zLs"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EC21LB2UDYmnBsvtPSG4F"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 299284,
+      "name": "Oru Kola Kili",
+      "url": "https://open.spotify.com/track/3oM21czD2HnOz2ECW7YnlM"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/36OqS1xA62emo3ouwYHZqh"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 299284,
+      "name": "Oru Kola Kili",
+      "url": "https://open.spotify.com/track/5Wv4hnRd7sdqV8FEpvDn97"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DmaAp0cXlUPErHmeWkwwW"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299284,
+      "name": "Oru Kola Kili",
+      "url": "https://open.spotify.com/track/5bimF1XYxytLezpEdG5b3S"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PRdZqIlufjhrGKqQ08ZdN"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298960,
+      "name": "Oru Kolakkili",
+      "url": "https://open.spotify.com/track/3QGxyDI96g6RAIdWhpj6pg"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/36OqS1xA62emo3ouwYHZqh"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 308924,
+      "name": "Oru Maina",
+      "url": "https://open.spotify.com/track/1GbMSi80u2kdPVttlIoGb1"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EC21LB2UDYmnBsvtPSG4F"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 308924,
+      "name": "Oru Maina",
+      "url": "https://open.spotify.com/track/1SMFI2CedpanqjWf1eEmCa"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DmaAp0cXlUPErHmeWkwwW"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308924,
+      "name": "Oru Maina",
+      "url": "https://open.spotify.com/track/3XviZjSvN43tHlxQMn9fFI"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali",
+        "url": "https://open.spotify.com/album/7ri3KEOl6feNWTUBuVFUY5"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309408,
+      "name": "Oru Maina Maina",
+      "url": "https://open.spotify.com/track/4xUjAniNofJtJW2LH2VSz6"
+    },
+    {
+      "album": {
+        "name": "Kadalukku Mariyadai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "Sujatha",
+          "url": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+        },
+        {
+          "name": "Palani Bharathi",
+          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313200,
+      "name": "Oru Pattam Poochi",
+      "url": "https://open.spotify.com/track/2Y0r28Onm7SCgtvSlQChtF"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ohwdWzJrIu2Mtf2JInfto"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326293,
+      "name": "Oru Sandhana Kaattukkulle",
+      "url": "https://open.spotify.com/track/2ncRtQGR9fWnXWZSqId7Mn"
+    },
+    {
+      "album": {
+        "name": "Ellame En Rasathan",
+        "url": "https://open.spotify.com/album/5t2sZXGhWES7W1WW08NVQ6"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326293,
+      "name": "Oru Sandhana Kaattukkulle",
+      "url": "https://open.spotify.com/track/7KHwJb4xt1Q1t6tTFqD6Yj"
+    },
+    {
+      "album": {
+        "name": "Thirumathi Palanisamy",
+        "url": "https://open.spotify.com/album/2ZEDREaGyZTlpaOQw2EC65"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305606,
+      "name": "Paadha Kolusu",
+      "url": "https://open.spotify.com/track/7sokZQJ9Qw4SNPlIptT8H8"
+    },
+    {
+      "album": {
+        "name": "En Rasavin Manasile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM"
+      },
+      "artists": [
+        {
+          "name": "S. N. Surendar",
+          "url": "https://open.spotify.com/artist/2jWcPu3qauf20L8qNaWltU"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300460,
+      "name": "Paarijatha Poove",
+      "url": "https://open.spotify.com/track/2Jpcw27iidi6C9cO4sYNvw"
+    },
+    {
+      "album": {
+        "name": "Gunaa",
+        "url": "https://open.spotify.com/album/1xM7QyMaNVSNVD2lXt3a44"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152696,
+      "name": "Paartha Vizhi",
+      "url": "https://open.spotify.com/track/0yi6Rwny6GCTV9JvAsusTs"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraaja: Janani",
+        "url": "https://open.spotify.com/album/6rgHTomCOeHeHZFQe6keUr"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155493,
+      "name": "Paartha Vizhi",
+      "url": "https://open.spotify.com/track/75TjBQ1zUgpueA1fm8tCHP"
+    },
+    {
+      "album": {
+        "name": "Thirumathi Palanisaamy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3gKPSsvwUIQu2WBuJlbQhz"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 305866,
+      "name": "Paatha Kolusu",
+      "url": "https://open.spotify.com/track/1oyBKtMmke6e9PVgaFJRCC"
+    },
+    {
+      "album": {
+        "name": "Thirumathi Palanisaamy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7u7CRqEMZLUdUQezRjhNHV"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305866,
+      "name": "Paatha Kolusu",
+      "url": "https://open.spotify.com/track/50blBITwC5sJrfj0nQ5vSD"
+    },
+    {
+      "album": {
+        "name": "Thirumathi Palanisaamy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0aYGxmG5uZX1IGspxpraBE"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 305866,
+      "name": "Paatha Kolusu",
+      "url": "https://open.spotify.com/track/7psV54R10wB1uIabii5NjN"
+    },
+    {
+      "album": {
+        "name": "Beats Of Love",
+        "url": "https://open.spotify.com/album/5nBAsRisTOQBNgf0Ba3IZY"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 306203,
+      "name": "Pattu Poovae (From \"Chembaruthi\")",
+      "url": "https://open.spotify.com/track/4yW82uCfSli6wdPg9NBhxY"
+    },
+    {
+      "album": {
+        "name": "Chembaruthi",
+        "url": "https://open.spotify.com/album/5ztp5QLPlMZP4BSQt0kVUu"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306203,
+      "name": "Pattu Poove",
+      "url": "https://open.spotify.com/track/75VHL1SjTMG7lEc5eqrb9K"
+    },
+    {
+      "album": {
+        "name": "En Rasavin Manasile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2BTcuMvI2nrbRHh81PliTM"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230791,
+      "name": "Pen Manasu Azham Endru",
+      "url": "https://open.spotify.com/track/3ViJgZdLc1V2ArpnXemNpx"
+    },
+    {
+      "album": {
+        "name": "Chinna Thambi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t"
+      },
+      "artists": [
+        {
+          "name": "Swarnalatha",
+          "url": "https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291391,
+      "name": "Poovoma Oorgolam",
+      "url": "https://open.spotify.com/track/3PDV7A1ufKpw9mV2PxMLKB"
+    },
+    {
+      "album": {
+        "name": "Idhayam",
+        "url": "https://open.spotify.com/album/7hyFK0ME6aHt0LaitQSPQU"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286063,
+      "name": "Pottu Vaitha-Kj",
+      "url": "https://open.spotify.com/track/0CXTbg6BQz2tu8G0Jpw1sg"
+    },
+    {
+      "album": {
+        "name": "Singaravelan",
+        "url": "https://open.spotify.com/album/6tzNcu9zkuesvD1LEdlNPu"
+      },
+      "artists": [
+        {
+          "name": "Kamal",
+          "url": "https://open.spotify.com/artist/0KVHNT1vnprTIvaArmPg5N"
+        },
+        {
+          "name": "Saibaba",
+          "url": "https://open.spotify.com/artist/1PrCFYYsnAI56daDrRrqxe"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308568,
+      "name": "Pottuvaitha Kaadhal",
+      "url": "https://open.spotify.com/track/7hHNuReafGP61pMjtPqGub"
+    },
+    {
+      "album": {
+        "name": "Singaravelan",
+        "url": "https://open.spotify.com/album/3YGeumpXqJnoRYbFMzfiJV"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 308228,
+      "name": "Pottuvaitha Kathal",
+      "url": "https://open.spotify.com/track/2tDgtHtH6hcJNkPHrszTu3"
+    },
+    {
+      "album": {
+        "name": "K.J. Yesudas Duet Songs",
+        "url": "https://open.spotify.com/album/0tQcGRqkf7rcmdIEpFvs8c"
+      },
+      "artists": [
+        {
+          "name": "K.S.Chitra K.J. Yesudas",
+          "url": "https://open.spotify.com/artist/60XxTOCMq5wi4XVgVUFpXg"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-31",
+      "duration_ms": 299843,
+      "name": "Pudhu Roottulathaan (From \"Meera\")",
+      "url": "https://open.spotify.com/track/4FzqRnvk8pChVLzDYtoVw4"
+    },
+    {
+      "album": {
+        "name": "Meera",
+        "url": "https://open.spotify.com/album/774Y0jt3UtUYObb42MgmAi"
+      },
+      "artists": [
+        {
+          "name": "K. J. Yesudas",
+          "url": "https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299843,
+      "name": "Pudhu Routeladan",
+      "url": "https://open.spotify.com/track/6lb6hAkxyulfhz70RKtDxW"
+    },
+    {
+      "album": {
+        "name": "Michael Madana Kama Rajan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293328,
+      "name": "Rum Bum Bum Arambum",
+      "url": "https://open.spotify.com/track/7mnkPr5TzDIxvxXXB7wDoT"
+    },
+    {
+      "album": {
+        "name": "Ilaiyaraja's Folk Hits Songs",
+        "url": "https://open.spotify.com/album/5XwRsxw9gOUzBvB1lFuVxN"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 309990,
+      "name": "Saandhu Pottu (From \"Devar Magan\")",
+      "url": "https://open.spotify.com/track/4Dy0BcWXgKJ805DpcX9xbt"
+    },
+    {
+      "album": {
+        "name": "Devar Magan",
+        "url": "https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309990,
+      "name": "Santhu Pottu",
+      "url": "https://open.spotify.com/track/66FzJDMjrnSBplvGJ14Sab"
+    },
+    {
+      "album": {
+        "name": "Siraichalai",
+        "url": "https://open.spotify.com/album/0hJqY5LDsPVys3MSBWjLAA"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297292,
+      "name": "Sembpoove Poove",
+      "url": "https://open.spotify.com/track/3CWmp6suu0fZ0iViwJflmb"
+    },
+    {
+      "album": {
+        "name": "Sirai Chalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5uQkGFlhOhA5v0IWbkgHqB"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297600,
+      "name": "Sempoove Poove",
+      "url": "https://open.spotify.com/track/1UdEESFSMby6rw47wZYKOs"
+    },
+    {
+      "album": {
+        "name": "Sirai Chalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7nF7jShNg2T8GM9SBhjVAj"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 297600,
+      "name": "Sempoove Poove",
+      "url": "https://open.spotify.com/track/3pGBpMxUjRZaAf0dxsufhA"
+    },
+    {
+      "album": {
+        "name": "Sirai Chalai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5oHsxGGMlThBTlKy5pEefe"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 297600,
+      "name": "Sempoove Poove",
+      "url": "https://open.spotify.com/track/6v0JPu91SY6pScmeXkQW7P"
+    },
+    {
+      "album": {
+        "name": "Michael Madana Kama Rajan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310360,
+      "name": "Siva Rathiri",
+      "url": "https://open.spotify.com/track/2gd9VDfthon1cPj4OPivQk"
+    },
+    {
+      "album": {
+        "name": "Mahanadi",
+        "url": "https://open.spotify.com/album/20yp5nI15GhSmfYSy7RjkT"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Uma Ramanan",
+          "url": "https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48"
+        },
+        {
+          "name": "Shobhana",
+          "url": "https://open.spotify.com/artist/6HXKrvb10GYSV3rRyhy8Ps"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290426,
+      "name": "Sri Ranga Ranga",
+      "url": "https://open.spotify.com/track/4UN1gjbPl7BnvNP65eNEge"
+    },
+    {
+      "album": {
+        "name": "Mahanadhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3S19QGEZahRzniQEjEqEag"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Uma Ramanan",
+          "url": "https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48"
+        },
+        {
+          "name": "Shobana",
+          "url": "https://open.spotify.com/artist/3b9B9ojIqeNc8ri5EBdkMx"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290481,
+      "name": "Sri Ranga Ranganathanin",
+      "url": "https://open.spotify.com/track/23zDH6fHvGg1rG18ux447d"
+    },
+    {
+      "album": {
+        "name": "Mahanadhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2i1Bdr5r8Temm3LNisHfTF"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Uma Ramanan",
+          "url": "https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48"
+        },
+        {
+          "name": "Shobana",
+          "url": "https://open.spotify.com/artist/3b9B9ojIqeNc8ri5EBdkMx"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 290481,
+      "name": "Sri Ranga Ranganathanin",
+      "url": "https://open.spotify.com/track/324Ns02Tm5UTL9b2HFM7d6"
+    },
+    {
+      "album": {
+        "name": "Mahanadhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4NY5U23BbbL8HGd33cCcil"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "Uma Ramanan",
+          "url": "https://open.spotify.com/artist/6GpH0yFzkhoxcoNrX6kw48"
+        },
+        {
+          "name": "Shobana",
+          "url": "https://open.spotify.com/artist/3b9B9ojIqeNc8ri5EBdkMx"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 290481,
+      "name": "Sri Ranga Ranganathanin",
+      "url": "https://open.spotify.com/track/7igDjmhEhiwfdTatLCwMGR"
+    },
+    {
+      "album": {
+        "name": "Thalapathi",
+        "url": "https://open.spotify.com/album/2MX0redZQ49aiMwUrlB9rg"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 432457,
+      "name": "Sundari",
+      "url": "https://open.spotify.com/track/4q6goxnwQC3FzXczkK16gO"
+    },
+    {
+      "album": {
+        "name": "Michael Madana Kama Rajan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315010,
+      "name": "Sundhari Neeyum Sundharan Njanum",
+      "url": "https://open.spotify.com/track/2EFMxVVT7hykww7WqBnLEs"
+    },
+    {
+      "album": {
+        "name": "Mahanadi",
+        "url": "https://open.spotify.com/album/20yp5nI15GhSmfYSy7RjkT"
+      },
+      "artists": [
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 143106,
+      "name": "Thail Pongallum",
+      "url": "https://open.spotify.com/track/6zTrJ8RRgViZZdfBEWRV1B"
+    },
+    {
+      "album": {
+        "name": "Gopura Vasalile (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ETw51SBQpRsr9CKkg5ba3"
+      },
+      "artists": [
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314781,
+      "name": "Thalattum Poongkaatru",
+      "url": "https://open.spotify.com/track/2xLMPdqjsIQ8SyABGg8oVJ"
+    },
+    {
+      "album": {
+        "name": "Rickshaw Mama",
+        "url": "https://open.spotify.com/album/6jZjT5hXr9l52693G4etGJ"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305160,
+      "name": "Thanga Nilavukkul",
+      "url": "https://open.spotify.com/track/2uWFpyyxOutIWqFzLWD65C"
+    },
+    {
+      "album": {
+        "name": "Avatharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46UYpN0CN39trQIpFmfgyw"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322520,
+      "name": "Thendral Vanthu",
+      "url": "https://open.spotify.com/track/65K9X6L8z6xBZ70KasesI3"
+    },
+    {
+      "album": {
+        "name": "Avatharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L2ywsGLAI80hbKRFvTHMp"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Manivannan",
+          "url": "https://open.spotify.com/artist/0sWVkYCBcVosSRBGmODRqH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 318014,
+      "name": "Thendral Vanthu Theendumbothu",
+      "url": "https://open.spotify.com/track/1elKIQ400doWkWgzs44uFm"
+    },
+    {
+      "album": {
+        "name": "Avatharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3sIGxJ8SoGtUFH1raBJjen"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Manivannan",
+          "url": "https://open.spotify.com/artist/0sWVkYCBcVosSRBGmODRqH"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 318014,
+      "name": "Thendral Vanthu Theendumbothu",
+      "url": "https://open.spotify.com/track/69Q2LXoskGHY5NVyrHyMlh"
+    },
+    {
+      "album": {
+        "name": "Avatharam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3ycYHBmebRjIpiXr96Wv9E"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Vaali",
+          "url": "https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318014,
+      "name": "Thendral Vanthu Theendumbothu",
+      "url": "https://open.spotify.com/track/3w0k0x8ZGTgfR5OU2jrBCX"
+    },
+    {
+      "album": {
+        "name": "Poomani",
+        "url": "https://open.spotify.com/album/7yeIQhEiZAA62WOI8QzRvP"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314409,
+      "name": "Tholmele Tholmele",
+      "url": "https://open.spotify.com/track/1aUB8zjZIwj55vceymaMH1"
+    },
+    {
+      "album": {
+        "name": "Chinna Thambi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/537JJWEccfDCupXUjr6m1t"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281914,
+      "name": "Thooliyile Ada Vantha - Male Version",
+      "url": "https://open.spotify.com/track/3gx3UjoX7iBUl3G49AwI6u"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EC21LB2UDYmnBsvtPSG4F"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 307585,
+      "name": "Uzhaippali Illatha",
+      "url": "https://open.spotify.com/track/1F8piukXgi70ShDis8bYhV"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/36OqS1xA62emo3ouwYHZqh"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 307585,
+      "name": "Uzhaippali Illatha",
+      "url": "https://open.spotify.com/track/5HfG9a36iMAWmp5eooHPKn"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2DmaAp0cXlUPErHmeWkwwW"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307585,
+      "name": "Uzhaippali Illatha",
+      "url": "https://open.spotify.com/track/6WVBFUhUPgW1NaH6jIsTbr"
+    },
+    {
+      "album": {
+        "name": "Uzhaippali",
+        "url": "https://open.spotify.com/album/7ri3KEOl6feNWTUBuVFUY5"
+      },
+      "artists": [
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 307560,
+      "name": "Uzhaippali Illatha",
+      "url": "https://open.spotify.com/track/0Lm1JTzghZA4cHC59SLM6T"
+    },
+    {
+      "album": {
+        "name": "Deiva Vakku",
+        "url": "https://open.spotify.com/album/2POpXFSspADo3urPf4aPIX"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291817,
+      "name": "Valli Valli Enna",
+      "url": "https://open.spotify.com/track/0oMAmfgKniQ0X7NNjrWlgl"
+    },
+    {
+      "album": {
+        "name": "Nadodi Pattukkaran (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4mKvrrXhFgTwg7D0SV52ME"
+      },
+      "artists": [
+        {
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311293,
+      "name": "Vanamellam Senbagappu",
+      "url": "https://open.spotify.com/track/6AWDMJyrvqjgvCpY4TJzKl"
+    },
+    {
+      "album": {
+        "name": "Michael Madana Kama Rajan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0szS55YRSZwrfNQrD1FoGs"
+      },
+      "artists": [
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "date_added": "2021-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294504,
+      "name": "Vechalum Vekkama Ponnalum",
+      "url": "https://open.spotify.com/track/23UKsfjI7HjKhS6sx8dyDQ"
+    },
+    {
+      "album": {
+        "name": "En Uyir Thozhan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0ksez5wVXSGkb7icZpNwKa"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Malaysia Vasudevan",
+          "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "date_added": "2022-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293893,
+      "name": "Ye Rasaathi",
+      "url": "https://open.spotify.com/track/0HjVoTpXdkm0JNXOPvhe79"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7k1b9eIxnmB"
 }

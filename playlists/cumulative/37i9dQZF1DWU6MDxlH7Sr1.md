@@ -4,7 +4,7 @@
 
 > Soft Jazz in the background of your cocktail party.
 
-313 songs - 20 hr 8 min
+317 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 | 2022-04-26 | 2022-06-09 |
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-04-26 | 2023-05-26 |
 | [It's Always You](https://open.spotify.com/track/2i7sJAA8we9WPS4TzDazRQ) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [It's Always You](https://open.spotify.com/album/5nHIEvhqTrblgGXsrDPiQJ) | 3:39 | 2022-08-10 | 2023-01-06 |
+| [It's Complicated](https://open.spotify.com/track/1BLlTzQGwfRBUPakc5EruZ) | [Thames Quartet](https://open.spotify.com/artist/1R7RKpGGSeqK8pSBK79w7T) | [It's Complicated](https://open.spotify.com/album/21t5KX5n6BZKr0O3Jrgvfd) | 3:33 | 2024-01-05 |  |
 | [It's Not Forever](https://open.spotify.com/track/6qi3FFTVaIAZSQnQIoswUQ) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [It's Not Forever](https://open.spotify.com/album/1Va59mXaQclhCVDJ6Sor0L) | 3:26 | 2022-09-20 | 2023-01-06 |
 | [It's You Or No One](https://open.spotify.com/track/3CewMyxVNsiu94v6Vm0SS2) | [The Blue Green](https://open.spotify.com/artist/2MV5ORkK9NtSHyy4WbwY80) | [It's You Or No One](https://open.spotify.com/album/21kjz5LLIGohYrVYgkEI0r) | 3:34 | 2022-08-30 |  |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-04-26 |  |
@@ -239,6 +240,7 @@
 | [Sea Smoke](https://open.spotify.com/track/0eZ6EQ8ekEGV8URaCmS7ah) | [Gustav Lundgren](https://open.spotify.com/artist/2Qb6yi78O4qlvQDB5JvZKV), [Gustav Lundgren Trio](https://open.spotify.com/artist/2pcBagxkkV1Yhkr6d3M5Ie) | [For Celia](https://open.spotify.com/album/3rx1K0Or8xmmwwFBK4bhMT) | 4:42 | 2022-04-26 | 2022-09-30 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-06-08 |  |
 | [September Song](https://open.spotify.com/track/5mn5mx35dGRAQ6hF3I3kDD) | [Lyle Jones](https://open.spotify.com/artist/3iqAlBaVPXnsS3tIPUH9Wu) | [September Song](https://open.spotify.com/album/0zsOMLv9GS8yPelwkfcvE9) | 3:29 | 2022-10-27 | 2023-03-02 |
+| [Shadow Play](https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Shadow Play](https://open.spotify.com/album/0FGaEv4Rl39dHICS8ioAIN) | 3:45 | 2024-01-05 |  |
 | [She's Funny That Way](https://open.spotify.com/track/4fn0kfdUbc5LlAjTwG4RX4) | [Tonic and their Time](https://open.spotify.com/artist/4f9dZJd9mswxGvKKoTJSZT) | [She's Funny That Way](https://open.spotify.com/album/0BSvGhV8CykM0MenOFaZtA) | 3:46 | 2023-04-13 | 2023-09-23 |
 | [Shiny Stockings](https://open.spotify.com/track/069buST4Z84x0O5TOtW48H) | [Rachel Silver](https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a) | [Oh, What a Beautiful Mornin'](https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx) | 4:17 | 2022-04-26 | 2023-01-13 |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 |  |
@@ -310,6 +312,7 @@
 | [When Your Lover Has Gone](https://open.spotify.com/track/0TgEPps1Z86WY2henEcH2T) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [When Your Lover Has Gone](https://open.spotify.com/album/37JPTyLv4CmNEQzlQfjSRI) | 2:43 | 2023-04-13 |  |
 | [When Your Lover Has Gone](https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII) | 6:09 | 2022-04-26 | 2022-10-28 |
 | [Where Are You Going](https://open.spotify.com/track/5w9LPTtLWP3Q1hlj0Q1yfL) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Where Are You Going](https://open.spotify.com/album/3G8ZYBlUrv2kwTbOIHBxw4) | 3:09 | 2022-04-26 | 2022-11-25 |
+| [Who Can Tell](https://open.spotify.com/track/6GpJYnZJXbi8BRZgUxa5Pt) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Who Can Tell](https://open.spotify.com/album/6YnErcW1NClFot1YHz29zi) | 3:39 | 2024-01-12 |  |
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-04-26 |  |
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-10-27 | 2023-06-16 |
 | [Windows](https://open.spotify.com/track/7k8NabcxMk5x0Mro6nfm29) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Windows](https://open.spotify.com/album/4PbBDHq3Ipw5RjLLxBr0WT) | 4:27 | 2022-10-27 |  |
@@ -318,6 +321,7 @@
 | [Witness of Love](https://open.spotify.com/track/7zqAzOXMRtmlf0GQBtRDqJ) | [Neil Chapman Green](https://open.spotify.com/artist/5iyGZWUlM8wxizjjtBLGFZ) | [Witness of Love](https://open.spotify.com/album/0lm16gI9rh80rchWJ7jaDL) | 3:20 | 2022-08-10 |  |
 | [Woodland](https://open.spotify.com/track/4yy4WkYlXtrLifrEv5sXNi) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Woodland](https://open.spotify.com/album/5Lc2q83y4ktr26FlqxjQRm) | 3:12 | 2022-10-27 |  |
 | [Yearning](https://open.spotify.com/track/5VHpA5RrPEGY9NgHhahHnG) | [Ikigai](https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv) | [Yearning](https://open.spotify.com/album/7boH53I2zbrw1GoeACrj8c) | 2:59 | 2023-08-31 |  |
+| [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-01-12 |  |
 | [You Go To My Heart](https://open.spotify.com/track/43bLhZkulGIf55O7fpRRok) | [Darlington](https://open.spotify.com/artist/6Kv77H8NfrNdRoGMCeuIVz) | [You Go To My Heart](https://open.spotify.com/album/370Ld8YCqxXQvHIyAh7Efy) | 3:41 | 2023-04-13 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2022-10-27 |  |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |

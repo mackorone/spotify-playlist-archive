@@ -1,275 +1,1237 @@
 {
-  "2023-04-03": 14075,
-  "2023-04-04": 14088,
-  "2023-04-05": 14090,
-  "2023-04-06": 14099,
-  "2023-04-07": 14107,
-  "2023-04-09": 14138,
-  "2023-04-10": 14158,
-  "2023-04-11": 14186,
-  "2023-04-12": 14186,
-  "2023-04-13": 14197,
-  "2023-04-14": 14205,
-  "2023-04-15": 14221,
-  "2023-04-16": 14232,
-  "2023-04-17": 14242,
-  "2023-04-18": 14255,
-  "2023-04-19": 14264,
-  "2023-04-20": 14273,
-  "2023-04-21": 14278,
-  "2023-04-22": 14287,
-  "2023-04-23": 14305,
-  "2023-04-24": 14319,
-  "2023-04-25": 14334,
-  "2023-04-26": 14343,
-  "2023-04-27": 14345,
-  "2023-04-28": 14356,
-  "2023-04-29": 14370,
-  "2023-04-30": 14381,
-  "2023-05-01": 14397,
-  "2023-05-02": 14418,
-  "2023-05-03": 14448,
-  "2023-05-04": 14461,
-  "2023-05-05": 14468,
-  "2023-05-06": 14480,
-  "2023-05-07": 14494,
-  "2023-05-08": 14504,
-  "2023-05-09": 14513,
-  "2023-05-10": 14523,
-  "2023-05-11": 14528,
-  "2023-05-12": 14534,
-  "2023-05-13": 14553,
-  "2023-05-14": 14563,
-  "2023-05-15": 14572,
-  "2023-05-16": 14577,
-  "2023-05-17": 14592,
-  "2023-05-18": 14598,
-  "2023-05-19": 14607,
-  "2023-05-20": 14630,
-  "2023-05-21": 14630,
-  "2023-05-22": 14630,
-  "2023-05-23": 14650,
-  "2023-05-24": 14665,
-  "2023-05-25": 14669,
-  "2023-05-26": 14675,
-  "2023-05-27": 14683,
-  "2023-05-28": 14688,
-  "2023-05-29": 14688,
-  "2023-05-30": 14709,
-  "2023-05-31": 14711,
-  "2023-06-01": 14720,
-  "2023-06-02": 14729,
-  "2023-06-03": 14737,
-  "2023-06-04": 14742,
-  "2023-06-05": 14749,
-  "2023-06-06": 14755,
-  "2023-06-07": 14761,
-  "2023-06-08": 14767,
-  "2023-06-09": 14781,
-  "2023-06-10": 14794,
-  "2023-06-11": 14810,
-  "2023-06-12": 14824,
-  "2023-06-13": 14836,
-  "2023-06-14": 14846,
-  "2023-06-15": 14852,
-  "2023-06-16": 14855,
-  "2023-06-17": 14871,
-  "2023-06-18": 14881,
-  "2023-06-19": 14889,
-  "2023-06-20": 14903,
-  "2023-06-21": 14914,
-  "2023-06-22": 14922,
-  "2023-06-23": 14933,
-  "2023-06-24": 14937,
-  "2023-06-25": 14947,
-  "2023-06-26": 14949,
-  "2023-06-27": 14955,
-  "2023-06-28": 14966,
-  "2023-06-29": 14973,
-  "2023-06-30": 14980,
-  "2023-07-01": 15004,
-  "2023-07-02": 15004,
-  "2023-07-03": 15013,
-  "2023-07-04": 15020,
-  "2023-07-05": 15027,
-  "2023-07-06": 15034,
-  "2023-07-07": 15034,
-  "2023-07-08": 15034,
-  "2023-07-09": 15048,
-  "2023-07-10": 15057,
-  "2023-07-11": 15060,
-  "2023-07-12": 15069,
-  "2023-07-13": 15078,
-  "2023-07-14": 15086,
-  "2023-07-15": 15089,
-  "2023-07-16": 15097,
-  "2023-07-17": 15110,
-  "2023-07-18": 15123,
-  "2023-07-19": 15134,
-  "2023-07-20": 15134,
-  "2023-07-21": 15144,
-  "2023-07-22": 15155,
-  "2023-07-23": 15165,
-  "2023-07-24": 15168,
-  "2023-07-25": 15179,
-  "2023-07-26": 15184,
-  "2023-07-27": 15201,
-  "2023-07-28": 15201,
-  "2023-07-29": 15224,
-  "2023-07-30": 15224,
-  "2023-07-31": 15239,
-  "2023-08-01": 15250,
-  "2023-08-02": 15261,
-  "2023-08-03": 15271,
-  "2023-08-04": 15282,
-  "2023-08-05": 15288,
-  "2023-08-06": 15307,
-  "2023-08-07": 15307,
-  "2023-08-08": 15314,
-  "2023-08-09": 15326,
-  "2023-08-10": 15332,
-  "2023-08-11": 15336,
-  "2023-08-12": 15336,
-  "2023-08-13": 15336,
-  "2023-08-14": 15336,
-  "2023-08-15": 15336,
-  "2023-08-16": 15336,
-  "2023-08-17": 15336,
-  "2023-08-18": 15336,
-  "2023-08-19": 15336,
-  "2023-08-20": 15419,
-  "2023-08-21": 15419,
-  "2023-08-22": 15438,
-  "2023-08-23": 15438,
-  "2023-08-24": 15438,
-  "2023-08-25": 15438,
-  "2023-08-26": 15473,
-  "2023-08-27": 15473,
-  "2023-08-28": 15494,
-  "2023-08-29": 15494,
-  "2023-08-30": 15494,
-  "2023-08-31": 15525,
-  "2023-09-01": 15530,
-  "2023-09-02": 15530,
-  "2023-09-03": 15530,
-  "2023-09-04": 15530,
-  "2023-09-05": 15530,
-  "2023-09-06": 15530,
-  "2023-09-07": 15530,
-  "2023-09-08": 15530,
-  "2023-09-09": 15530,
-  "2023-09-10": 15530,
-  "2023-09-11": 15530,
-  "2023-09-12": 15530,
-  "2023-09-13": 15530,
-  "2023-09-14": 15530,
-  "2023-09-15": 15530,
-  "2023-09-16": 15530,
-  "2023-09-17": 15530,
-  "2023-09-18": 15530,
-  "2023-09-19": 15530,
-  "2023-09-20": 15530,
-  "2023-09-21": 15530,
-  "2023-09-22": 15691,
-  "2023-09-23": 15691,
-  "2023-09-24": 15691,
-  "2023-09-25": 15691,
-  "2023-09-26": 15714,
-  "2023-09-27": 15714,
-  "2023-09-28": 15714,
-  "2023-09-29": 15714,
-  "2023-09-30": 15714,
-  "2023-10-01": 15714,
-  "2023-10-02": 15714,
-  "2023-10-03": 15714,
-  "2023-10-04": 15714,
-  "2023-10-05": 15714,
-  "2023-10-06": 15714,
-  "2023-10-07": 15714,
-  "2023-10-08": 15714,
-  "2023-10-09": 15714,
-  "2023-10-10": 15714,
-  "2023-10-11": 15714,
-  "2023-10-12": 15714,
-  "2023-10-13": 15714,
-  "2023-10-14": 15714,
-  "2023-10-15": 15714,
-  "2023-10-16": 15714,
-  "2023-10-17": 15714,
-  "2023-10-18": 15714,
-  "2023-10-19": 15714,
-  "2023-10-20": 15714,
-  "2023-10-21": 15714,
-  "2023-10-22": 15714,
-  "2023-10-23": 15714,
-  "2023-10-24": 15714,
-  "2023-10-25": 15714,
-  "2023-10-26": 15714,
-  "2023-10-27": 15714,
-  "2023-10-28": 15714,
-  "2023-10-29": 15714,
-  "2023-10-30": 15714,
-  "2023-10-31": 15714,
-  "2023-11-01": 15714,
-  "2023-11-02": 15714,
-  "2023-11-03": 15714,
-  "2023-11-04": 15714,
-  "2023-11-05": 15714,
-  "2023-11-06": 15714,
-  "2023-11-07": 15714,
-  "2023-11-08": 15714,
-  "2023-11-09": 15714,
-  "2023-11-10": 15714,
-  "2023-11-11": 16038,
-  "2023-11-12": 16038,
-  "2023-11-13": 16038,
-  "2023-11-14": 16038,
-  "2023-11-15": 16038,
-  "2023-11-16": 16038,
-  "2023-11-17": 16038,
-  "2023-11-18": 16038,
-  "2023-11-19": 16038,
-  "2023-11-20": 16038,
-  "2023-11-21": 16038,
-  "2023-11-22": 16038,
-  "2023-11-23": 16038,
-  "2023-11-24": 16038,
-  "2023-11-25": 16038,
-  "2023-11-26": 16038,
-  "2023-11-27": 16038,
-  "2023-11-28": 16038,
-  "2023-11-29": 16038,
-  "2023-11-30": 16038,
-  "2023-12-01": 16038,
-  "2023-12-02": 16038,
-  "2023-12-03": 16038,
-  "2023-12-04": 16038,
-  "2023-12-05": 16038,
-  "2023-12-06": 16038,
-  "2023-12-07": 16038,
-  "2023-12-08": 16038,
-  "2023-12-09": 16038,
-  "2023-12-10": 16038,
-  "2023-12-11": 16038,
-  "2023-12-12": 16038,
-  "2023-12-13": 16038,
-  "2023-12-14": 16227,
-  "2023-12-15": 16232,
-  "2023-12-16": 16242,
-  "2023-12-17": 16251,
-  "2023-12-18": 16260,
-  "2023-12-19": 16270,
-  "2023-12-20": 16273,
-  "2023-12-21": 16279,
-  "2023-12-22": 16286,
-  "2023-12-23": 16288,
-  "2023-12-24": 16298,
-  "2023-12-25": 16303,
-  "2023-12-26": 16311,
-  "2023-12-27": 16314,
-  "2023-12-30": 16335,
-  "2023-12-31": 16339,
-  "2024-01-01": 16346,
-  "2024-01-02": 16352,
-  "2024-01-03": 16357
+  "2024-01-17": 16448,
+  "date_first_scraped": "2023-04-03",
+  "description": "This is Amy Grant. The essential tracks, all in one playlist.",
+  "name": "This Is Amy Grant",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Woman",
+        "url": "https://open.spotify.com/album/13fcRwWwx7Ecwma3vVaPO4"
+      },
+      "artists": [
+        {
+          "name": "FAITHFUL",
+          "url": "https://open.spotify.com/artist/5v6CYScuXE6A8BGVp5bRqW"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 320626,
+      "name": "A Woman",
+      "url": "https://open.spotify.com/track/74z3fROToqDySr3Al4hABk"
+    },
+    {
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 201813,
+      "name": "After The Fire",
+      "url": "https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG"
+    },
+    {
+      "album": {
+        "name": "Worship Forever (Live)",
+        "url": "https://open.spotify.com/album/0VGJroMZNK3faRsUfaDwz0"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329680,
+      "name": "Agnus Dei - Live",
+      "url": "https://open.spotify.com/track/0G94ldMUXHZ94aHc3FKSz3"
+    },
+    {
+      "album": {
+        "name": "Never Alone (Remastered)",
+        "url": "https://open.spotify.com/album/1zlf9fxadKTjVlWLrg1bYT"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156346,
+      "name": "All I Ever Have To Be",
+      "url": "https://open.spotify.com/track/2DIfq3gn9mHzWwvP1UIxNn"
+    },
+    {
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252426,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/1XDnYuW8wqlOaoPdVkuXKd"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203506,
+      "name": "Arms Of Love",
+      "url": "https://open.spotify.com/track/3cOpBTr6c4c6k0GyGT4xm0"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 233400,
+      "name": "Ask Me",
+      "url": "https://open.spotify.com/track/5rLGbtNvUB8nqyUNTRC5n9"
+    },
+    {
+      "album": {
+        "name": "Amy Grant Collection",
+        "url": "https://open.spotify.com/album/6aIELL1fCwolNey2S91am1"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Tori Kelly",
+          "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 187560,
+      "name": "Baby Baby",
+      "url": "https://open.spotify.com/track/0gqlwOKjUTrqTEppGh9G5E"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/10TrG0LzNwYP8nvAckpPtD"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241800,
+      "name": "Baby Baby - 7\" No Getting Over You Mix",
+      "url": "https://open.spotify.com/track/3SkVJ7vpdmLSWPgnGTPqsW"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236973,
+      "name": "Baby, Baby",
+      "url": "https://open.spotify.com/track/3IDsegNBHC4pjGCOMTQYlU"
+    },
+    {
+      "album": {
+        "name": "Somewhere Down The Road",
+        "url": "https://open.spotify.com/album/0JUPgkd0kgGqVxVAZTEsKY"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222396,
+      "name": "Better Than A Hallelujah",
+      "url": "https://open.spotify.com/track/6RlliUfY8hTxnaK85e6D5Z"
+    },
+    {
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/5reaWOvB4w0Gp8KjwKXqcu"
+    },
+    {
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "Carry You",
+      "url": "https://open.spotify.com/track/57RD1fWWeuT9zsYtFMOu4K"
+    },
+    {
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/1MC8eElzC5I5XbuWrOYuT8"
+      },
+      "artists": [
+        {
+          "name": "Fernando Ortega",
+          "url": "https://open.spotify.com/artist/6mGZXaZ4SWNh6IsJ57thCp"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300493,
+      "name": "Come Ye Sinners, Poor and Needy",
+      "url": "https://open.spotify.com/track/1hHJiFSC2Jy6tlz0VM1QhU"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195880,
+      "name": "Come, Thou Fount Of Every Blessing",
+      "url": "https://open.spotify.com/track/4mSNMQQKHaaYFi10C1sHeu"
+    },
+    {
+      "album": {
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Could I Have This Dance",
+      "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
+    },
+    {
+      "album": {
+        "name": "How Mercy Looks From Here",
+        "url": "https://open.spotify.com/album/0mApGvnrHT9FJE9fbUkcoR"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 224853,
+      "name": "Don't Try So Hard",
+      "url": "https://open.spotify.com/track/5fZ2P0ja4w82migsuL7QGq"
+    },
+    {
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194986,
+      "name": "Doubly Good To You - Remastered",
+      "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248346,
+      "name": "El-Shaddai",
+      "url": "https://open.spotify.com/track/7rJlIt0X1SZXLyCNOerJWu"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Every Heartbeat",
+      "url": "https://open.spotify.com/track/55lX3vm1G35mUpawXHK5Te"
+    },
+    {
+      "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275373,
+      "name": "Everywhere I Go",
+      "url": "https://open.spotify.com/track/5k9C1AK3bLo4igQ29fh1L4"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "Fairest Lord Jesus",
+      "url": "https://open.spotify.com/track/1gGys8A5N7pMOU7ULx616U"
+    },
+    {
+      "album": {
+        "name": "No Matter What",
+        "url": "https://open.spotify.com/album/2xTLCFPgsnkscDd73jfq2V"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230266,
+      "name": "Faithful (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/2i8MZLqzbsXXHlPx3AFT66"
+    },
+    {
+      "album": {
+        "name": "My Father's Eyes",
+        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246226,
+      "name": "Father's Eyes",
+      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+    },
+    {
+      "album": {
+        "name": "Unguarded",
+        "url": "https://open.spotify.com/album/3ahs2R10w4vhfnbfZ92pDp"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 208400,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/0szU1fWxpXgr47uB6ezphl"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260440,
+      "name": "Galileo",
+      "url": "https://open.spotify.com/track/5k6PqEbyX3NT4oTMJn2tj6"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239493,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2GwDKcTJlvoRDaJXkA7ULJ"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146560,
+      "name": "Holy, Holy, Holy",
+      "url": "https://open.spotify.com/track/5EYbEcW9oURdvzhpWzSSwb"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-12",
+      "duration_ms": 170106,
+      "name": "Hope Set High",
+      "url": "https://open.spotify.com/track/3YcU6MNFhcWO4QAxnm2vJ8"
+    },
+    {
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276933,
+      "name": "House Of Love",
+      "url": "https://open.spotify.com/track/1NLUdUNqji3A8G1UMKHicV"
+    },
+    {
+      "album": {
+        "name": "I Belong",
+        "url": "https://open.spotify.com/album/6EhiVZsRCe402TDY6GdnxQ"
+      },
+      "artists": [
+        {
+          "name": "Tim Timmons",
+          "url": "https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "I Belong",
+      "url": "https://open.spotify.com/track/4wsWAFT2FNbju838Mip9gJ"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196301,
+      "name": "I Have Decided",
+      "url": "https://open.spotify.com/track/1iqIAgL9BXsVQpT4OEahEc"
+    },
+    {
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 157400,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/3QdmGbD6vy0WH5AsgwafRu"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300560,
+      "name": "I Will Remember You",
+      "url": "https://open.spotify.com/track/76crWZqaiFzlTPGzNtT4w1"
+    },
+    {
+      "album": {
+        "name": "Music Inspired By The Story",
+        "url": "https://open.spotify.com/album/1gkIyLIl58xpc4BwF009gg"
+      },
+      "artists": [
+        {
+          "name": "Nichole Nordeman",
+          "url": "https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254613,
+      "name": "I'm With You (Ruth & Naomi)",
+      "url": "https://open.spotify.com/track/4eGgsvwDvWz6ElLvo2zY7P"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "In A Little While",
+      "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294693,
+      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
+      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
+    },
+    {
+      "album": {
+        "name": "My Hope: Songs Inspired By The Message And Mission Of Billy Graham",
+        "url": "https://open.spotify.com/album/7HaZB4XQOdq1JEn17ImDGx"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266586,
+      "name": "Jesus, Take All Of Me (Just As I Am)",
+      "url": "https://open.spotify.com/track/1Kkv4S73lfJkTcTyTnYIJh"
+    },
+    {
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205466,
+      "name": "Joyful, Joyful, We Adore Thee",
+      "url": "https://open.spotify.com/track/5hU9GCuztvoXlhKTJAlql6"
+    },
+    {
+      "album": {
+        "name": "Lead Me On",
+        "url": "https://open.spotify.com/album/7ETJhSThtcyCrQg4CuZfrX"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336386,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/0viCxBdQvd5WE4M1lXzv7u"
+    },
+    {
+      "album": {
+        "name": "My Utmost for His Highest",
+        "url": "https://open.spotify.com/album/2a9FjnT8GF9Sy1Kb6tvGaK"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 316466,
+      "name": "Lover of My Soul",
+      "url": "https://open.spotify.com/track/5ze6VrEgWzR8Vw5D3XdJN3"
+    },
+    {
+      "album": {
+        "name": "House Of Love (Remastered)",
+        "url": "https://open.spotify.com/album/3zGpXofO95slQYAQqeBYnb"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249386,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/7dcTSq2HC4kzvcWFcSfJy1"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5tDeg3UaEMAN8duYwTPiXW"
+    },
+    {
+      "album": {
+        "name": "Be Still And Know... Hymns & Faith",
+        "url": "https://open.spotify.com/album/10qWQHGVyXvQf8FQNQRkZu"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Power In The Blood",
+      "url": "https://open.spotify.com/track/1qpejsyCvpyZAtkg8J3r8q"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "Raining On The Inside",
+      "url": "https://open.spotify.com/track/5bZJhaDjmiyd3mmorGRRGS"
+    },
+    {
+      "album": {
+        "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "River Lullaby",
+      "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+    },
+    {
+      "album": {
+        "name": "Rock Of Ages...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2wfog0JEHVGS3jMqFWj3xO"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262031,
+      "name": "Scars In Heaven",
+      "url": "https://open.spotify.com/track/39Ngl6IuVlJLEZPUIrdkOo"
+    },
+    {
+      "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197106,
+      "name": "Sing Your Praise To The Lord",
+      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
+    },
+    {
+      "album": {
+        "name": "Change Your World",
+        "url": "https://open.spotify.com/album/4e09Ygjp2WiHzqXqV1J1HR"
+      },
+      "artists": [
+        {
+          "name": "Michael W. Smith",
+          "url": "https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255293,
+      "name": "Somewhere Somehow",
+      "url": "https://open.spotify.com/track/52wbWBHEdMoGwO0zBo9FLS"
+    },
+    {
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5cG6J4bVB9pqCMnnHkxLYi"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335960,
+      "name": "Stay For A While",
+      "url": "https://open.spotify.com/track/5kKdMpS0kUxrMqLzgQvPTr"
+    },
+    {
+      "album": {
+        "name": "Behind The Eyes (Remastered)",
+        "url": "https://open.spotify.com/album/7a5DZH4Hx6bv9r7JjUtrRd"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 272733,
+      "name": "Takes A Little Time",
+      "url": "https://open.spotify.com/track/7hrwRUVE2exQkdZWjWl46i"
+    },
+    {
+      "album": {
+        "name": "Songs from the Neighborhood: The Music of Mister Rogers",
+        "url": "https://open.spotify.com/album/3cBGz03vO7HN2LOBeTtwy7"
+      },
+      "artists": [
+        {
+          "name": "Jon Secada",
+          "url": "https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        },
+        {
+          "name": "B.J. Thomas",
+          "url": "https://open.spotify.com/artist/0uUNzXylqsZdmFDwdxaP1V"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "John Pizzarelli",
+          "url": "https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf"
+        },
+        {
+          "name": "Maureen McGovern",
+          "url": "https://open.spotify.com/artist/3bnf5pPVQFWv762IiavilV"
+        },
+        {
+          "name": "Bobby Caldwell",
+          "url": "https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6"
+        },
+        {
+          "name": "Crystal Gayle",
+          "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
+        },
+        {
+          "name": "Toni Rose",
+          "url": "https://open.spotify.com/artist/1NqrEarOHLaEmhw2UBUc69"
+        },
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        },
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        },
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194226,
+      "name": "Thank You for Being You",
+      "url": "https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h"
+    },
+    {
+      "album": {
+        "name": "Heart In Motion",
+        "url": "https://open.spotify.com/album/6YbWlg2x8aIHASDTunWF8H"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257293,
+      "name": "That's What Love Is For",
+      "url": "https://open.spotify.com/track/367dmPOxuMP8FsrZHenNnq"
+    },
+    {
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "The Next Time I Fall (with Amy Grant)",
+      "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
+    },
+    {
+      "album": {
+        "name": "These Are The Days",
+        "url": "https://open.spotify.com/album/63QBet7zgxhRlR5B8iWob7"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290600,
+      "name": "These are the Days (feat. Amy Grant)",
+      "url": "https://open.spotify.com/track/0e2r8Zr2AwxTMynkTMCkMg"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 185946,
+      "name": "This Is My Father's World",
+      "url": "https://open.spotify.com/track/50R2nZ2MYPpPwI1DzgF2El"
+    },
+    {
+      "album": {
+        "name": "Straight Ahead (Remastered)",
+        "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200986,
+      "name": "Thy Word",
+      "url": "https://open.spotify.com/track/58OoLCgCm83Wogp7JLl30g"
+    },
+    {
+      "album": {
+        "name": "Trees We'll Never See",
+        "url": "https://open.spotify.com/album/7aiVLC89sRra8FSVao9p0E"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247846,
+      "name": "Trees We'll Never See",
+      "url": "https://open.spotify.com/track/4eRp7LuamE8Jn8RQgBcGF4"
+    },
+    {
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
+    },
+    {
+      "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 224463,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg"
+    },
+    {
+      "album": {
+        "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
+        "url": "https://open.spotify.com/album/0LLTMDGcJwLdwN8SC3OLm7"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266862,
+      "name": "When We Fall Apart (feat. Vince Gill & Amy Grant)",
+      "url": "https://open.spotify.com/track/3qY5XlO5nLbCZDy5BPtH6x"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi"
 }

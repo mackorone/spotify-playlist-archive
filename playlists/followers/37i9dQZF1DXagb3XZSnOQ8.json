@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 600032,
-  "2021-12-26": 600224,
-  "2021-12-27": 600540,
-  "2021-12-28": 600541,
-  "2021-12-29": 600703,
-  "2021-12-30": 600877,
-  "2021-12-31": 601084,
-  "2022-01-01": 601462,
-  "2022-01-02": 601504,
-  "2022-01-03": 601618,
-  "2022-01-04": 601745,
-  "2022-01-05": 601886,
-  "2022-01-06": 602024,
-  "2022-01-07": 602169,
-  "2022-01-08": 602554,
-  "2022-01-09": 602560,
-  "2022-01-10": 602734,
-  "2022-01-11": 602807,
-  "2022-01-12": 602880,
-  "2022-01-13": 602880,
-  "2022-01-14": 602880,
-  "2022-01-15": 602880,
-  "2022-01-16": 602880,
-  "2022-01-17": 602880,
-  "2022-01-18": 602880,
-  "2022-01-19": 602880,
-  "2022-01-20": 602880,
-  "2022-01-21": 602880,
-  "2022-01-22": 602880,
-  "2022-01-23": 602880,
-  "2022-01-24": 602880,
-  "2022-01-25": 602880,
-  "2022-01-26": 602880,
-  "2022-01-27": 602880,
-  "2022-01-28": 602880,
-  "2022-01-29": 602880,
-  "2022-01-30": 602880,
-  "2022-01-31": 602880,
-  "2022-02-01": 602880,
-  "2022-02-02": 602880,
-  "2022-02-03": 602880,
-  "2022-02-04": 602880,
-  "2022-02-05": 602880,
-  "2022-02-06": 602880,
-  "2022-02-07": 602880,
-  "2022-02-08": 602880,
-  "2022-02-09": 602880,
-  "2022-02-10": 602880,
-  "2022-02-11": 602880,
-  "2022-02-12": 602880,
-  "2022-02-13": 602880,
-  "2022-02-14": 602880,
-  "2022-02-15": 602880,
-  "2022-02-16": 602880,
-  "2022-02-17": 602880,
-  "2022-02-18": 602880,
-  "2022-02-19": 602880,
-  "2022-02-20": 602880,
-  "2022-02-21": 602880,
-  "2022-02-22": 602880,
-  "2022-02-23": 602880,
-  "2022-02-24": 602880,
-  "2022-02-25": 602880,
-  "2022-02-26": 602880,
-  "2022-02-27": 602880,
-  "2022-02-28": 602880,
-  "2022-03-01": 602880,
-  "2022-03-02": 602880,
-  "2022-03-03": 602880,
-  "2022-03-04": 602880,
-  "2022-03-05": 602880,
-  "2022-03-06": 602880,
-  "2022-03-07": 602880,
-  "2022-03-08": 602880,
-  "2022-03-09": 602880,
-  "2022-03-10": 602880,
-  "2022-03-11": 602880,
-  "2022-03-12": 602880,
-  "2022-03-13": 602880,
-  "2022-03-14": 602880,
-  "2022-03-15": 602880,
-  "2022-03-16": 602880,
-  "2022-03-17": 602880,
-  "2022-03-18": 602880,
-  "2022-03-19": 602880,
-  "2022-03-20": 602880,
-  "2022-03-21": 602880,
-  "2022-03-22": 602880,
-  "2022-03-23": 602880,
-  "2022-03-24": 602880,
-  "2022-03-25": 602880,
-  "2022-03-26": 602880,
-  "2022-03-27": 602880,
-  "2022-03-28": 602880,
-  "2022-03-30": 602880,
-  "2022-03-31": 602880,
-  "2022-04-01": 602880,
-  "2022-04-02": 602880,
-  "2022-04-03": 602880,
-  "2022-04-04": 602880,
-  "2022-04-05": 602880,
-  "2022-04-06": 602880,
-  "2022-04-07": 602880,
-  "2022-04-08": 602880,
-  "2022-04-09": 602880,
-  "2022-04-10": 602880,
-  "2022-04-11": 602880,
-  "2022-04-12": 602880,
-  "2022-04-13": 602880,
-  "2022-04-14": 602880,
-  "2022-04-15": 602880,
-  "2022-04-16": 602880,
-  "2022-04-17": 602880,
-  "2022-04-18": 602880,
-  "2022-04-19": 602880,
-  "2022-04-20": 602880,
-  "2022-04-21": 602880,
-  "2022-04-22": 602880,
-  "2022-04-23": 602880,
-  "2022-04-24": 602880,
-  "2022-04-25": 602880,
-  "2022-04-26": 602880,
-  "2022-04-27": 602880,
-  "2022-04-28": 602880,
-  "2022-04-29": 602880,
-  "2022-04-30": 602880,
-  "2022-05-01": 602880,
-  "2022-05-02": 602880,
-  "2022-05-03": 602880,
-  "2022-05-04": 602880,
-  "2022-05-05": 602880,
-  "2022-05-06": 602880,
-  "2022-05-07": 602880,
-  "2022-05-08": 602880,
-  "2022-05-09": 602880,
-  "2022-05-10": 602880,
-  "2022-05-11": 602880,
-  "2022-05-12": 602880,
-  "2022-05-13": 602880,
-  "2022-05-14": 602880,
-  "2022-05-15": 602880,
-  "2022-05-16": 602880,
-  "2022-05-17": 602880,
-  "2022-05-18": 602880,
-  "2022-05-19": 602880,
-  "2022-05-20": 602880,
-  "2022-05-21": 602880,
-  "2022-05-22": 602880,
-  "2022-05-23": 602880,
-  "2022-05-24": 602880,
-  "2022-05-25": 602880,
-  "2022-05-26": 602880,
-  "2022-05-27": 602880,
-  "2022-05-28": 602880,
-  "2022-05-29": 602880,
-  "2022-05-30": 602880,
-  "2022-05-31": 602880,
-  "2022-06-01": 602880,
-  "2022-06-02": 602880,
-  "2022-06-03": 602880,
-  "2022-06-04": 602880,
-  "2022-06-05": 602880,
-  "2022-06-06": 602880,
-  "2022-06-07": 602880,
-  "2022-06-08": 602880,
-  "2022-06-09": 602880,
-  "2022-06-10": 602880,
-  "2022-06-11": 602880,
-  "2022-06-12": 602880,
-  "2022-06-13": 602880,
-  "2022-06-14": 602880,
-  "2022-06-15": 602880,
-  "2022-06-16": 602880,
-  "2022-06-17": 602880,
-  "2022-06-18": 602880,
-  "2022-06-19": 602880,
-  "2022-06-20": 602880,
-  "2022-06-21": 602880,
-  "2022-06-22": 602880,
-  "2022-06-23": 602880,
-  "2022-06-24": 602880,
-  "2022-06-25": 602880,
-  "2022-06-26": 602880,
-  "2022-06-27": 602880,
-  "2022-06-28": 602880,
-  "2022-06-29": 602880,
-  "2022-06-30": 602880,
-  "2022-07-01": 602880,
-  "2022-07-02": 602880,
-  "2022-07-03": 602880,
-  "2022-07-04": 602880,
-  "2022-07-05": 602880,
-  "2022-07-06": 602880,
-  "2022-07-07": 602880,
-  "2022-07-08": 602880,
-  "2022-07-09": 602880,
-  "2022-07-10": 602880,
-  "2022-07-11": 602880,
-  "2022-07-12": 602880,
-  "2022-07-13": 602880,
-  "2022-07-14": 602880,
-  "2022-07-15": 602880,
-  "2022-07-16": 602880,
-  "2022-07-17": 602880,
-  "2022-07-18": 602880,
-  "2022-07-19": 602880,
-  "2022-07-20": 602880,
-  "2022-07-21": 602880,
-  "2022-07-22": 602880,
-  "2022-07-23": 602880,
-  "2022-07-24": 602880,
-  "2022-07-25": 602880,
-  "2022-07-26": 602880,
-  "2022-07-27": 602880,
-  "2022-07-28": 602880,
-  "2022-07-29": 602880,
-  "2022-07-30": 602880,
-  "2022-07-31": 602880,
-  "2022-08-01": 602880,
-  "2022-08-02": 602880,
-  "2022-08-03": 602880,
-  "2022-08-04": 602880,
-  "2022-08-05": 602880,
-  "2022-08-06": 602880,
-  "2022-08-07": 602880,
-  "2022-08-08": 602880,
-  "2022-08-09": 602880,
-  "2022-08-10": 602880,
-  "2022-08-11": 602880,
-  "2022-08-12": 602880,
-  "2022-08-13": 602880,
-  "2022-08-14": 602880,
-  "2022-08-15": 602880,
-  "2022-08-16": 602880,
-  "2022-08-17": 602880,
-  "2022-08-18": 602880,
-  "2022-08-19": 602880,
-  "2022-08-20": 602880,
-  "2022-08-21": 602880,
-  "2022-08-22": 602880,
-  "2022-08-23": 602880,
-  "2022-08-24": 602880,
-  "2022-08-25": 602880,
-  "2022-08-26": 602880,
-  "2022-08-27": 602880,
-  "2022-08-28": 602880,
-  "2022-08-29": 602880,
-  "2022-08-30": 602880,
-  "2022-08-31": 602880,
-  "2022-09-01": 602880,
-  "2022-09-02": 602880,
-  "2022-09-03": 602880,
-  "2022-09-04": 602880,
-  "2022-09-05": 602880,
-  "2022-09-06": 602880,
-  "2022-09-07": 602880,
-  "2022-09-09": 602880,
-  "2022-09-10": 602880,
-  "2022-09-11": 602880,
-  "2022-09-12": 602880,
-  "2022-09-13": 602880,
-  "2022-09-15": 602880,
-  "2022-09-16": 602880,
-  "2022-09-17": 602880,
-  "2022-09-18": 602880,
-  "2022-09-19": 602880,
-  "2022-09-20": 602880,
-  "2022-09-21": 602880,
-  "2022-09-22": 602880,
-  "2022-09-23": 602880,
-  "2022-09-24": 602880,
-  "2022-09-25": 602880,
-  "2022-09-26": 602880,
-  "2022-09-27": 602880,
-  "2022-09-28": 602880,
-  "2022-09-29": 602880,
-  "2022-09-30": 602880,
-  "2022-10-01": 602880,
-  "2022-10-02": 602880,
-  "2022-10-03": 602880,
-  "2022-10-04": 602880,
-  "2022-10-05": 602880,
-  "2022-10-06": 602880,
-  "2022-10-07": 602880,
-  "2022-10-08": 602880,
-  "2022-10-09": 602880,
-  "2022-10-10": 602880,
-  "2022-10-11": 602880,
-  "2022-10-12": 602880,
-  "2022-10-13": 602880,
-  "2022-10-14": 602880,
-  "2022-10-15": 602880,
-  "2022-10-16": 602880,
-  "2022-10-17": 602880,
-  "2022-10-18": 602880,
-  "2022-10-19": 602880,
-  "2022-10-20": 602880,
-  "2022-10-21": 602880,
-  "2022-10-22": 602880,
-  "2022-10-23": 602880,
-  "2022-10-24": 602880,
-  "2022-10-25": 602880,
-  "2022-10-26": 602880,
-  "2022-10-27": 602880,
-  "2022-10-28": 602880,
-  "2022-10-29": 602880,
-  "2022-10-30": 602880,
-  "2022-10-31": 602880,
-  "2022-11-01": 602880,
-  "2022-11-02": 602880,
-  "2022-11-03": 602880,
-  "2022-11-04": 602880,
-  "2022-11-05": 602880,
-  "2022-11-06": 602880,
-  "2022-11-07": 602880,
-  "2022-11-08": 602880,
-  "2022-11-09": 602880,
-  "2022-11-10": 602880,
-  "2022-11-11": 602880,
-  "2022-11-12": 602880,
-  "2022-11-13": 602880,
-  "2022-11-14": 602880,
-  "2022-11-15": 602880,
-  "2022-11-16": 602880,
-  "2022-11-17": 602880,
-  "2022-11-18": 602880,
-  "2022-11-19": 602880,
-  "2022-11-20": 602880,
-  "2022-11-21": 602880,
-  "2022-11-22": 602880,
-  "2022-11-23": 602880,
-  "2022-11-24": 602880,
-  "2022-11-25": 602880,
-  "2022-11-26": 602880,
-  "2022-11-27": 602880,
-  "2022-11-28": 602880,
-  "2022-11-29": 602880,
-  "2022-11-30": 602880,
-  "2022-12-01": 602880,
-  "2022-12-02": 602880,
-  "2022-12-03": 602880,
-  "2022-12-04": 602880,
-  "2022-12-05": 602880,
-  "2022-12-06": 602880,
-  "2022-12-07": 602880,
-  "2022-12-08": 602880,
-  "2022-12-09": 602880,
-  "2022-12-10": 602880,
-  "2022-12-11": 602880,
-  "2022-12-12": 602880,
-  "2022-12-13": 602880,
-  "2022-12-14": 602880,
-  "2022-12-15": 602880,
-  "2022-12-16": 602880,
-  "2022-12-17": 602880,
-  "2022-12-18": 602880,
-  "2022-12-19": 602880,
-  "2022-12-20": 602880,
-  "2022-12-21": 602880,
-  "2022-12-22": 602880,
-  "2022-12-24": 602880,
-  "2022-12-25": 602880,
-  "2022-12-26": 602880,
-  "2022-12-27": 602880,
-  "2022-12-28": 602880,
-  "2022-12-29": 602880,
-  "2022-12-30": 602880,
-  "2022-12-31": 602880,
-  "2023-01-01": 602880,
-  "2023-01-02": 602880,
-  "2023-01-03": 602880,
-  "2023-01-04": 602880,
-  "2023-01-05": 602880,
-  "2023-01-06": 602880,
-  "2023-01-07": 602880,
-  "2023-01-08": 602880,
-  "2023-01-09": 602880,
-  "2023-01-10": 602880,
-  "2023-01-11": 602880,
-  "2023-01-12": 602880,
-  "2023-01-13": 602880,
-  "2023-01-14": 602880,
-  "2023-01-15": 602880,
-  "2023-01-16": 602880,
-  "2023-01-17": 602880,
-  "2023-01-18": 602880,
-  "2023-01-19": 602880,
-  "2023-01-20": 602880,
-  "2023-01-21": 602880,
-  "2023-01-22": 602880,
-  "2023-01-23": 602880,
-  "2023-01-24": 602880,
-  "2023-01-25": 602880,
-  "2023-01-26": 602880,
-  "2023-01-27": 602880,
-  "2023-01-28": 602880,
-  "2023-01-29": 602880,
-  "2023-01-30": 602880,
-  "2023-01-31": 602880,
-  "2023-02-01": 602880,
-  "2023-02-02": 602880,
-  "2023-02-03": 602880,
-  "2023-02-04": 602880,
-  "2023-02-05": 602880,
-  "2023-02-06": 602880,
-  "2023-02-07": 602880,
-  "2023-02-08": 602880,
-  "2023-02-09": 602880,
-  "2023-02-10": 602880,
-  "2023-02-11": 602880,
-  "2023-02-12": 602880,
-  "2023-02-13": 602880,
-  "2023-02-14": 602880,
-  "2023-02-15": 602880,
-  "2023-02-16": 602880,
-  "2023-02-17": 602880,
-  "2023-02-18": 602880,
-  "2023-02-19": 602880,
-  "2023-02-20": 602880,
-  "2023-02-21": 602880,
-  "2023-02-22": 602880,
-  "2023-02-23": 602880,
-  "2023-02-24": 602880,
-  "2023-02-25": 602880,
-  "2023-02-26": 602880,
-  "2023-02-27": 602880,
-  "2023-02-28": 602880,
-  "2023-03-01": 602880,
-  "2023-03-02": 602880,
-  "2023-03-03": 602880,
-  "2023-03-04": 602880,
-  "2023-03-05": 602880,
-  "2023-03-06": 602880,
-  "2023-03-07": 602880,
-  "2023-03-08": 602880,
-  "2023-03-09": 602880,
-  "2023-03-10": 602880,
-  "2023-03-11": 602880,
-  "2023-03-12": 602880,
-  "2023-03-13": 602880,
-  "2023-03-14": 602880,
-  "2023-03-15": 602880,
-  "2023-03-16": 602880,
-  "2023-03-17": 602880,
-  "2023-03-18": 602880,
-  "2023-03-19": 602880,
-  "2023-03-20": 602880,
-  "2023-03-21": 602880,
-  "2023-03-22": 602880,
-  "2023-03-23": 602880,
-  "2023-03-24": 602880,
-  "2023-03-25": 602880,
-  "2023-03-26": 602880,
-  "2023-03-27": 602880,
-  "2023-03-28": 602880,
-  "2023-03-29": 602880,
-  "2023-03-30": 602880,
-  "2023-03-31": 602880,
-  "2023-04-01": 602880,
-  "2023-04-02": 602880,
-  "2023-04-03": 602880,
-  "2023-04-04": 602880,
-  "2023-04-05": 602880,
-  "2023-04-06": 602880,
-  "2023-04-07": 602880,
-  "2023-04-09": 602880,
-  "2023-04-10": 602880,
-  "2023-04-11": 602880,
-  "2023-04-12": 602880,
-  "2023-04-13": 602880,
-  "2023-04-14": 602880,
-  "2023-04-15": 602880,
-  "2023-04-16": 602880,
-  "2023-04-17": 602880,
-  "2023-04-18": 602880,
-  "2023-04-19": 602880,
-  "2023-04-20": 602880,
-  "2023-04-21": 602880,
-  "2023-04-22": 602880,
-  "2023-04-23": 602880,
-  "2023-04-24": 602880,
-  "2023-04-25": 602880,
-  "2023-04-26": 602880,
-  "2023-04-27": 602880,
-  "2023-04-28": 602880,
-  "2023-04-29": 602880,
-  "2023-04-30": 602880,
-  "2023-05-01": 602880,
-  "2023-05-02": 602880,
-  "2023-05-03": 602880,
-  "2023-05-04": 602880,
-  "2023-05-05": 602880,
-  "2023-05-06": 602880,
-  "2023-05-07": 602880,
-  "2023-05-08": 602880,
-  "2023-05-09": 602880,
-  "2023-05-10": 602880,
-  "2023-05-11": 602880,
-  "2023-05-12": 602880,
-  "2023-05-13": 602880,
-  "2023-05-14": 602880,
-  "2023-05-15": 602880,
-  "2023-05-16": 602880,
-  "2023-05-17": 602880,
-  "2023-05-18": 602880,
-  "2023-05-19": 602880,
-  "2023-05-20": 602880,
-  "2023-05-21": 602880,
-  "2023-05-22": 602880,
-  "2023-05-23": 602880,
-  "2023-05-24": 602880,
-  "2023-05-25": 602880,
-  "2023-05-26": 602880,
-  "2023-05-27": 602880,
-  "2023-05-28": 602880,
-  "2023-05-29": 602880,
-  "2023-05-30": 602880,
-  "2023-05-31": 602880,
-  "2023-06-01": 602880,
-  "2023-06-02": 602880,
-  "2023-06-03": 602880,
-  "2023-06-04": 602880,
-  "2023-06-05": 602880,
-  "2023-06-06": 602880,
-  "2023-06-07": 602880,
-  "2023-06-08": 602880,
-  "2023-06-09": 602880,
-  "2023-06-10": 602880,
-  "2023-06-11": 602880,
-  "2023-06-12": 602880,
-  "2023-06-13": 602880,
-  "2023-06-14": 602880,
-  "2023-06-15": 602880,
-  "2023-06-16": 602880,
-  "2023-06-17": 602880,
-  "2023-06-18": 602880,
-  "2023-06-19": 602880,
-  "2023-06-20": 602880,
-  "2023-06-21": 602880,
-  "2023-06-22": 602880,
-  "2023-06-23": 602880,
-  "2023-06-24": 602880,
-  "2023-06-25": 602880,
-  "2023-06-26": 602880,
-  "2023-06-27": 602880,
-  "2023-06-28": 602880,
-  "2023-06-29": 602880,
-  "2023-06-30": 602880,
-  "2023-07-01": 602880,
-  "2023-07-02": 602880,
-  "2023-07-03": 602880,
-  "2023-07-04": 602880,
-  "2023-07-05": 602880,
-  "2023-07-06": 602880,
-  "2023-07-07": 602880,
-  "2023-07-08": 602880,
-  "2023-07-09": 602880,
-  "2023-07-10": 602880,
-  "2023-07-11": 602880,
-  "2023-07-12": 602880,
-  "2023-07-13": 602880,
-  "2023-07-14": 602880,
-  "2023-07-15": 602880,
-  "2023-07-16": 602880,
-  "2023-07-17": 602880,
-  "2023-07-18": 602880,
-  "2023-07-19": 602880,
-  "2023-07-20": 602880,
-  "2023-07-21": 602880,
-  "2023-07-22": 602880,
-  "2023-07-23": 602880,
-  "2023-07-24": 602880,
-  "2023-07-25": 602880,
-  "2023-07-26": 602880,
-  "2023-07-27": 602880,
-  "2023-07-28": 602880,
-  "2023-07-29": 602880,
-  "2023-07-30": 602880,
-  "2023-07-31": 602880,
-  "2023-08-01": 602880,
-  "2023-08-02": 602880,
-  "2023-08-03": 602880,
-  "2023-08-04": 602880,
-  "2023-08-05": 602880,
-  "2023-08-06": 602880,
-  "2023-08-07": 602880,
-  "2023-08-08": 602880,
-  "2023-08-09": 602880,
-  "2023-08-10": 602880,
-  "2023-08-11": 602880,
-  "2023-08-12": 602880,
-  "2023-08-13": 602880,
-  "2023-08-14": 602880,
-  "2023-08-15": 602880,
-  "2023-08-16": 602880,
-  "2023-08-17": 602880,
-  "2023-08-18": 602880,
-  "2023-08-19": 602880,
-  "2023-08-20": 602880,
-  "2023-08-21": 602880,
-  "2023-08-22": 602880,
-  "2023-08-23": 602880,
-  "2023-08-24": 602880,
-  "2023-08-25": 602880,
-  "2023-08-26": 602880,
-  "2023-08-27": 602880,
-  "2023-08-28": 602880,
-  "2023-08-29": 602880,
-  "2023-08-30": 602880,
-  "2023-08-31": 602880,
-  "2023-09-01": 602880,
-  "2023-09-02": 602880,
-  "2023-09-03": 602880,
-  "2023-09-04": 602880,
-  "2023-09-05": 602880,
-  "2023-09-06": 602880,
-  "2023-09-07": 602880,
-  "2023-09-08": 602880,
-  "2023-09-09": 602880,
-  "2023-09-10": 602880,
-  "2023-09-11": 602880,
-  "2023-09-12": 602880,
-  "2023-09-13": 602880,
-  "2023-09-14": 602880,
-  "2023-09-15": 602880,
-  "2023-09-16": 602880,
-  "2023-09-17": 602880,
-  "2023-09-18": 602880,
-  "2023-09-19": 602880,
-  "2023-09-20": 602880,
-  "2023-09-21": 602880,
-  "2023-09-22": 602880,
-  "2023-09-23": 602880,
-  "2023-09-24": 602880,
-  "2023-09-25": 602880,
-  "2023-09-26": 602880,
-  "2023-09-27": 602880,
-  "2023-09-28": 602880,
-  "2023-09-29": 602880,
-  "2023-09-30": 602880,
-  "2023-10-01": 602880,
-  "2023-10-02": 602880,
-  "2023-10-03": 602880,
-  "2023-10-04": 602880,
-  "2023-10-05": 602880,
-  "2023-10-06": 602880,
-  "2023-10-07": 602880,
-  "2023-10-08": 602880,
-  "2023-10-09": 602880,
-  "2023-10-10": 602880,
-  "2023-10-11": 602880,
-  "2023-10-12": 602880,
-  "2023-10-13": 602880,
-  "2023-10-14": 602880,
-  "2023-10-15": 602880,
-  "2023-10-16": 602880,
-  "2023-10-17": 602880,
-  "2023-10-18": 602880,
-  "2023-10-19": 602880,
-  "2023-10-20": 602880,
-  "2023-10-21": 602880,
-  "2023-10-22": 602880,
-  "2023-10-23": 602880,
-  "2023-10-24": 602880,
-  "2023-10-25": 602880,
-  "2023-10-26": 602880,
-  "2023-10-27": 602880,
-  "2023-10-28": 602880,
-  "2023-10-29": 602880,
-  "2023-10-30": 602880,
-  "2023-10-31": 602880,
-  "2023-11-01": 602880,
-  "2023-11-02": 602880,
-  "2023-11-03": 602880,
-  "2023-11-04": 602880,
-  "2023-11-05": 602880,
-  "2023-11-06": 602880,
-  "2023-11-07": 602880,
-  "2023-11-08": 602880,
-  "2023-11-09": 602880,
-  "2023-11-10": 602880,
-  "2023-11-11": 602880,
-  "2023-11-12": 602880,
-  "2023-11-13": 602880,
-  "2023-11-14": 602880,
-  "2023-11-15": 602880,
-  "2023-11-16": 602880,
-  "2023-11-17": 602880,
-  "2023-11-18": 602880,
-  "2023-11-19": 602880,
-  "2023-11-20": 602880,
-  "2023-11-21": 602880,
-  "2023-11-22": 602880,
-  "2023-11-23": 602880,
-  "2023-11-24": 602880,
-  "2023-11-25": 602880,
-  "2023-11-26": 602880,
-  "2023-11-27": 602880,
-  "2023-11-28": 602880,
-  "2023-11-29": 602880,
-  "2023-11-30": 602880,
-  "2023-12-01": 602880,
-  "2023-12-02": 602880,
-  "2023-12-03": 602880,
-  "2023-12-04": 602880,
-  "2023-12-05": 602880,
-  "2023-12-06": 602880,
-  "2023-12-07": 602880,
-  "2023-12-08": 602880,
-  "2023-12-09": 602880,
-  "2023-12-10": 602880,
-  "2023-12-11": 602880,
-  "2023-12-12": 602880,
-  "2023-12-13": 602880,
-  "2023-12-14": 602880,
-  "2023-12-15": 602880,
-  "2023-12-16": 602880,
-  "2023-12-17": 602880,
-  "2023-12-18": 602880,
-  "2023-12-19": 602880,
-  "2023-12-20": 602880,
-  "2023-12-21": 602880,
-  "2023-12-22": 602880,
-  "2023-12-23": 602880,
-  "2023-12-24": 602880,
-  "2023-12-25": 602880,
-  "2023-12-26": 602880,
-  "2023-12-27": 602880,
-  "2023-12-30": 602880,
-  "2023-12-31": 602880,
-  "2024-01-01": 602880,
-  "2024-01-02": 602880,
-  "2024-01-03": 602880
+  "2024-01-17": 602880,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of Iron Maiden. All in one playlist.",
+  "name": "This Is Iron Maiden (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2SrVGpjv0mqCR6j9EZPSm2"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396760,
+      "name": "22 Acacia Avenue - 2015 Remaster",
+      "url": "https://open.spotify.com/track/51S9pXdACCrhputBUl05Cs"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271906,
+      "name": "Aces High - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3wFGRek61NIF330UwJCI52"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416560,
+      "name": "Afraid to Shoot Strangers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QKhecJ2JuajCTPTtYkKUQ"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517093,
+      "name": "Alexander the Great (356-323 B.C.) - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2mpdTbHtsUTbunJ62itq2E"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203653,
+      "name": "Be Quick or Be Dead - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7xa3dJQMzBVzsrZ81tNcHP"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/54kKQOjuoqjp63zfYL4kVe"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435453,
+      "name": "Blood Brothers",
+      "url": "https://open.spotify.com/track/0Rikz1yDeAvCAS77IYoqTV"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/54kKQOjuoqjp63zfYL4kVe"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379453,
+      "name": "Brave New World",
+      "url": "https://open.spotify.com/track/4FfIjCF4Hj5urJMYHlVjpc"
+    },
+    {
+      "album": {
+        "name": "No Prayer for the Dying (2015 Remaster)",
+        "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283693,
+      "name": "Bring Your Daughter... to the Slaughter - 2015 Remaster",
+      "url": "https://open.spotify.com/track/40j3GW7l0R4EM12fHqNqM2"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Can I Play with Madness - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5YBRbCkuzxkxA3e5BfetdI"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447333,
+      "name": "Caught Somewhere in Time - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5F5Wshdfs9oe188TryHRia"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "Children of the Damned - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7tcaQvBbSpNN0P2UF6WXxB"
+    },
+    {
+      "album": {
+        "name": "The Final Frontier",
+        "url": "https://open.spotify.com/album/3CE0SB7URLI49lxJcykXUi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352440,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4nR3yzH1NavoPTAFF0zuvN"
+    },
+    {
+      "album": {
+        "name": "Dance Of Death",
+        "url": "https://open.spotify.com/album/0jt8OtAiK8HEAGWRrX4VY7"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517173,
+      "name": "Dance Of Death",
+      "url": "https://open.spotify.com/track/6Bg8wr9A4pEQu98f2WMJJp"
+    },
+    {
+      "album": {
+        "name": "Senjutsu",
+        "url": "https://open.spotify.com/album/3TymcPWXqsCRA5oSL0TkPU"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243754,
+      "name": "Days Of Future Past",
+      "url": "https://open.spotify.com/track/2L42uB1e5wuanTTPEWVe64"
+    },
+    {
+      "album": {
+        "name": "A Matter Of Life And Death",
+        "url": "https://open.spotify.com/album/5qLvOn0QzAWOqonBc05Ord"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257746,
+      "name": "Different World",
+      "url": "https://open.spotify.com/track/4eJRFSAyXHRYkOAaCQ4yJM"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438120,
+      "name": "Fear of the Dark - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6p8eFfPw3nQkf37aT3AkmK"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Flight of Icarus - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
+    },
+    {
+      "album": {
+        "name": "A Matter Of Life And Death",
+        "url": "https://open.spotify.com/album/5qLvOn0QzAWOqonBc05Ord"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 565200,
+      "name": "For The Greater Good Of God",
+      "url": "https://open.spotify.com/track/1tKVLJ0T8GSzLeQnjSeKYR"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/54kKQOjuoqjp63zfYL4kVe"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410040,
+      "name": "Ghost of the Navigator",
+      "url": "https://open.spotify.com/track/4EmGx9PyxSZtwdy1BQj09N"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431093,
+      "name": "Hallowed Be Thy Name - 2015 Remaster",
+      "url": "https://open.spotify.com/track/469rBLYJUZHMJLtq2Wch3h"
+    },
+    {
+      "album": {
+        "name": "No Prayer for the Dying (2015 Remaster)",
+        "url": "https://open.spotify.com/album/21ZEAwY2TDnoQvVMJKkjUk"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229026,
+      "name": "Holy Smoke - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5G4nSXSyNIVbPiap7gu8wY"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214360,
+      "name": "Iron Maiden - 2015 Remaster",
+      "url": "https://open.spotify.com/track/21wB3DaIk112Ry3mEzqfit"
+    },
+    {
+      "album": {
+        "name": "Killers (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301666,
+      "name": "Killers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2Ydpa6xB4kD8WRXHYN6T1G"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/54kKQOjuoqjp63zfYL4kVe"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385506,
+      "name": "Out of the Silent Planet",
+      "url": "https://open.spotify.com/track/1A67ajc1dTTlJugu64ILSe"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441466,
+      "name": "Phantom of the Opera - 2015 Remaster",
+      "url": "https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431520,
+      "name": "Powerslave - 2015 Remaster",
+      "url": "https://open.spotify.com/track/70wXUzmg3tk3Ci2Ixg1YwO"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235400,
+      "name": "Prowler - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1198hsFUvkbffYd8Ff58DX"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409626,
+      "name": "Revelations - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1J9ylqJ29VS6yFhIkkNBzL"
+    },
+    {
+      "album": {
+        "name": "Powerslave (2015 Remaster)",
+        "url": "https://open.spotify.com/album/309KOMEivisMmBuzk09635"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818693,
+      "name": "Rime of the Ancient Mariner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6K8ROjiPJqyHDJS0sA0dwH"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233506,
+      "name": "Run to the Hills - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4Zc7TCHzuNwL0AFBlyLdyr"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197573,
+      "name": "Running Free - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5JX4CIPK47CU1iVeAWJtH5"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594080,
+      "name": "Seventh Son of a Seventh Son - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4STDzTw4Z13mee7Ig4vi1n"
+    },
+    {
+      "album": {
+        "name": "The Book of Souls",
+        "url": "https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301745,
+      "name": "Speed of Light",
+      "url": "https://open.spotify.com/track/1smvmwmbrQiBwgJZMxVtup"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346666,
+      "name": "Stranger in a Strange Land - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2ItrQShUvHTeaiZiDukjNo"
+    },
+    {
+      "album": {
+        "name": "Stratego",
+        "url": "https://open.spotify.com/album/28iyzL4zTcWLhKVoKXMlR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299946,
+      "name": "Stratego",
+      "url": "https://open.spotify.com/track/6zctLQjQkNI0agikPLbO9N"
+    },
+    {
+      "album": {
+        "name": "Virtual XI",
+        "url": "https://open.spotify.com/album/1MEdO4bgB9LrfENUTx1PH5"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539773,
+      "name": "The Clansman",
+      "url": "https://open.spotify.com/track/5svoKaNjfzKX5sZwd4V9XG"
+    },
+    {
+      "album": {
+        "name": "Seventh Son of a Seventh Son (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1rG6IgNdwE1IGFuIKuYosz"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274213,
+      "name": "The Evil That Men Do - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0S90LE5Z8FOdbui3tLak6t"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290586,
+      "name": "The Number of the Beast - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3nlGByvetDcS1uomAoiBmy"
+    },
+    {
+      "album": {
+        "name": "The Number of the Beast (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5S3gls8Kjn8KVmqlIDEBbO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362520,
+      "name": "The Prisoner - 2015 Remaster",
+      "url": "https://open.spotify.com/track/60JWUDrpUTuu6gxTvknjg5"
+    },
+    {
+      "album": {
+        "name": "The Book of Souls",
+        "url": "https://open.spotify.com/album/4vSfHrq6XxVyMcJ6PguFR2"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813713,
+      "name": "The Red and the Black",
+      "url": "https://open.spotify.com/track/3KqYcqLk7YUyNIxr9jCNhC"
+    },
+    {
+      "album": {
+        "name": "A Matter Of Life And Death",
+        "url": "https://open.spotify.com/album/5qLvOn0QzAWOqonBc05Ord"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441613,
+      "name": "The Reincarnation Of Benjamin Breeg",
+      "url": "https://open.spotify.com/track/0mvgAsEvrVbtfgiRVTw27M"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252733,
+      "name": "The Trooper - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+    },
+    {
+      "album": {
+        "name": "Brave New World",
+        "url": "https://open.spotify.com/album/54kKQOjuoqjp63zfYL4kVe"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "The Wicker Man",
+      "url": "https://open.spotify.com/track/7gzOdsRPD7z9blkrvlLKbX"
+    },
+    {
+      "album": {
+        "name": "The Writing On The Wall",
+        "url": "https://open.spotify.com/album/1YnwDXwv54rOtLwzzGVZ9N"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373898,
+      "name": "The Writing On The Wall",
+      "url": "https://open.spotify.com/track/4a66HnjRw3kBeQnIGcc8v9"
+    },
+    {
+      "album": {
+        "name": "Iron Maiden (2015 Remaster)",
+        "url": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244853,
+      "name": "Transylvania - 2015 Remaster",
+      "url": "https://open.spotify.com/track/43QZUbTYnsU7ypUKxOyTRz"
+    },
+    {
+      "album": {
+        "name": "Somewhere in Time (2015 Remaster)",
+        "url": "https://open.spotify.com/album/0OEg65hPhgP7B0Dy9TqP2L"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Wasted Years - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1HM7Vp84E4SMzdrZONg6bH"
+    },
+    {
+      "album": {
+        "name": "Fear of the Dark (2015 Remaster)",
+        "url": "https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351026,
+      "name": "Wasting Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/2KKLuHN6zDxVnWtFKO8vo4"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 Remaster)",
+        "url": "https://open.spotify.com/album/7I9Wh2IgvI3Nnr8Z1ZSWby"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372760,
+      "name": "Where Eagles Dare - 2015 Remaster",
+      "url": "https://open.spotify.com/track/5QtlbCKhAL70eQM9dbzoR8"
+    },
+    {
+      "album": {
+        "name": "Killers (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5REF2imQI3lMAmeWcDXE3D"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175053,
+      "name": "Wrathchild - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1SpuDZ7y1W4vaCzHeLvsf7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXagb3XZSnOQ8"
 }

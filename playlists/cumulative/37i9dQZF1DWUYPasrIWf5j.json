@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "You Are The Best Thing",
+        "url": "https://open.spotify.com/album/0eHW7867FHphe1vSyp2uAk"
+      },
+      "artists": [
+        {
+          "name": "Fred Turnquist",
+          "url": "https://open.spotify.com/artist/5RNnYnh4Or0AIHzE3Zz13J"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209231,
+      "name": "You Are the Best Thing",
+      "url": "https://open.spotify.com/track/6NiWQMv5NynlLse0kgt58K"
+    },
+    {
+      "album": {
         "name": "New Light",
         "url": "https://open.spotify.com/album/577vGnTGg3Jd2AN3WAbfBu"
       },

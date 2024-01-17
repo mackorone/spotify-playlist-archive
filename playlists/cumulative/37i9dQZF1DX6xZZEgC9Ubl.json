@@ -875,6 +875,24 @@
     },
     {
       "album": {
+        "name": "an ode to what could be",
+        "url": "https://open.spotify.com/album/7bV3VuSIZuMd7ZeYc3thmI"
+      },
+      "artists": [
+        {
+          "name": "One Hope",
+          "url": "https://open.spotify.com/artist/1UyepeXL7LRzhk7a9p3Glj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "an ode to what could be",
+      "url": "https://open.spotify.com/track/6240BN4Mg4ZEmqtDH6SJAD"
+    },
+    {
+      "album": {
         "name": "LIVE FOREVER",
         "url": "https://open.spotify.com/album/0xwtJXyI8H5fxIGVPvfYeI"
       },
@@ -1820,7 +1838,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 122068,
       "name": "BREAKMYHEART",
       "url": "https://open.spotify.com/track/4hEPfDMGnyprqDc2RgrtAq"
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 227527,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/1CfuBY3BDdKpooQ9L5zgUc"
@@ -3337,6 +3355,58 @@
     },
     {
       "album": {
+        "name": "dig my grave",
+        "url": "https://open.spotify.com/album/7BumupVrL8Pxs44uEZaHlX"
+      },
+      "artists": [
+        {
+          "name": "Mookigang",
+          "url": "https://open.spotify.com/artist/5WMK3mhmT1MzIko40qoUJO"
+        },
+        {
+          "name": "Fudasca",
+          "url": "https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T"
+        },
+        {
+          "name": "the bootleg boy",
+          "url": "https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146091,
+      "name": "dig my grave",
+      "url": "https://open.spotify.com/track/2uyrBnS2T0cPtdaa9M5znW"
+    },
+    {
+      "album": {
+        "name": "digital crush",
+        "url": "https://open.spotify.com/album/4MEzMHYcPOkGiKBQ0mOjKd"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        },
+        {
+          "name": "Ryan Librada",
+          "url": "https://open.spotify.com/artist/6JygKoUdCYpjiwjQFFolI7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159060,
+      "name": "digital crush",
+      "url": "https://open.spotify.com/track/4hYbCohbCENEkrnLih5s55"
+    },
+    {
+      "album": {
         "name": "things could be worse",
         "url": "https://open.spotify.com/album/2sfAaYpGaErUpCO3Lg4HLO"
       },
@@ -3410,6 +3480,24 @@
       "duration_ms": 154710,
       "name": "Dishonest",
       "url": "https://open.spotify.com/track/3lKIg3YiHa7o8Wvtiqd3FX"
+    },
+    {
+      "album": {
+        "name": "DIVE",
+        "url": "https://open.spotify.com/album/6wm1UNNmDDmcHzf135cNYQ"
+      },
+      "artists": [
+        {
+          "name": "Chri$tian Gate$",
+          "url": "https://open.spotify.com/artist/0OEYE03fBF2VoTBxGuaUxL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152977,
+      "name": "DIVE",
+      "url": "https://open.spotify.com/track/38iUwJCWrz1EEUSt6AFWDA"
     },
     {
       "album": {
@@ -4945,6 +5033,24 @@
     },
     {
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/3zZ5TXeAQXWcSsuXMRgaOO"
+      },
+      "artists": [
+        {
+          "name": "Zzz.",
+          "url": "https://open.spotify.com/artist/5ZdULxhIJLbR5bhCzcPTbu"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148765,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/6lryHqwGisRupVlajiJMmk"
+    },
+    {
+      "album": {
         "name": "fml",
         "url": "https://open.spotify.com/album/0on4W1TsvgcYzaxwKQRxi5"
       },
@@ -4956,10 +5062,28 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 163404,
       "name": "fml",
       "url": "https://open.spotify.com/track/0r8WywH5D8rL7mxhMyHzN1"
+    },
+    {
+      "album": {
+        "name": "fml",
+        "url": "https://open.spotify.com/album/4DiCRaZJo8v2xh5ozK122V"
+      },
+      "artists": [
+        {
+          "name": "Unodavid",
+          "url": "https://open.spotify.com/artist/3mpOt39mUD754Q7aZ725KH"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163538,
+      "name": "Fml",
+      "url": "https://open.spotify.com/track/13Por6lNrLjkqJfdCbcCSr"
     },
     {
       "album": {
@@ -6771,6 +6895,28 @@
     },
     {
       "album": {
+        "name": "i actually wanna die",
+        "url": "https://open.spotify.com/album/2dZmawuf4yfojeEglkvQ2s"
+      },
+      "artists": [
+        {
+          "name": "sorrow",
+          "url": "https://open.spotify.com/artist/31azc78QwLIIQWCLDgOnTk"
+        },
+        {
+          "name": "sundwn",
+          "url": "https://open.spotify.com/artist/7Bkr0jXyQGFIiNEyD7MYRH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114750,
+      "name": "i actually wanna die",
+      "url": "https://open.spotify.com/track/3G1RV6wJjNaRPdugRhqfAu"
+    },
+    {
+      "album": {
         "name": "I Ate My Soul",
         "url": "https://open.spotify.com/album/3clwhikTAXNMVZ7vxW83Sn"
       },
@@ -8482,7 +8628,7 @@
       ],
       "date_added": "2021-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 122880,
       "name": "Life Is but a Stream~",
       "url": "https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR"
@@ -9198,10 +9344,28 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 172137,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
+      "album": {
+        "name": "Clean Sheets, dirty walls",
+        "url": "https://open.spotify.com/album/4KvNYZHRuNDQ3Xx6ZxkePp"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172199,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
     },
     {
       "album": {
@@ -13500,7 +13664,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 187500,
       "name": "snowflake (feat. Jaden & Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/7KW1AtQKFToSoF1kmyk2wE"
@@ -16909,6 +17073,24 @@
     },
     {
       "album": {
+        "name": "F*CK LOVE 3+: OVER YOU",
+        "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161384,
+      "name": "WITHOUT YOU",
+      "url": "https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L"
+    },
+    {
+      "album": {
         "name": "F*CK LOVE (SAVAGE)",
         "url": "https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst"
       },
@@ -17003,6 +17185,24 @@
     },
     {
       "album": {
+        "name": "Laughing Through the Pain",
+        "url": "https://open.spotify.com/album/5sbyv8AtRLssEzg5M6J80f"
+      },
+      "artists": [
+        {
+          "name": "Sematarik",
+          "url": "https://open.spotify.com/artist/31o8VFTitHtHTqY7a64iSG"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "World's a Fuck",
+      "url": "https://open.spotify.com/track/204e7FPwiedVDmjKIgnnkP"
+    },
+    {
+      "album": {
         "name": "Worlds a Fuck",
         "url": "https://open.spotify.com/album/1bwCPNJJwOvUxIL6C0etEm"
       },
@@ -17032,7 +17232,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 180062,
       "name": "Worlds a Fuck",
       "url": "https://open.spotify.com/track/0cZrfkTmWH9jCR8CRYl4LV"
@@ -17160,6 +17360,32 @@
       "duration_ms": 182546,
       "name": "WOULDN'T IT BE NICE",
       "url": "https://open.spotify.com/track/4QPTfQqJuwbmdl9JVfPuHR"
+    },
+    {
+      "album": {
+        "name": "wtf im crying",
+        "url": "https://open.spotify.com/album/65wct2ZVrlL0UfDsvIvaMn"
+      },
+      "artists": [
+        {
+          "name": "Coufin",
+          "url": "https://open.spotify.com/artist/0WRqBlTxyrz66l1tImP3Z5"
+        },
+        {
+          "name": "jesp",
+          "url": "https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ"
+        },
+        {
+          "name": "ZETH INC.",
+          "url": "https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154412,
+      "name": "wtf im crying",
+      "url": "https://open.spotify.com/track/1XSzovmoEWuJEknwSkT3gX"
     },
     {
       "album": {

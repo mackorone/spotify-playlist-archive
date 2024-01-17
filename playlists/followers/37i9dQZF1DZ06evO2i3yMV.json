@@ -1,246 +1,1589 @@
 {
-  "2023-05-03": 7302,
-  "2023-05-04": 7306,
-  "2023-05-05": 7310,
-  "2023-05-06": 7313,
-  "2023-05-07": 7320,
-  "2023-05-08": 7335,
-  "2023-05-09": 7341,
-  "2023-05-10": 7350,
-  "2023-05-11": 7352,
-  "2023-05-12": 7360,
-  "2023-05-13": 7363,
-  "2023-05-14": 7364,
-  "2023-05-15": 7366,
-  "2023-05-16": 7366,
-  "2023-05-17": 7370,
-  "2023-05-18": 7371,
-  "2023-05-19": 7375,
-  "2023-05-20": 7385,
-  "2023-05-21": 7385,
-  "2023-05-22": 7385,
-  "2023-05-23": 7392,
-  "2023-05-24": 7403,
-  "2023-05-25": 7405,
-  "2023-05-26": 7408,
-  "2023-05-27": 7411,
-  "2023-05-28": 7414,
-  "2023-05-29": 7414,
-  "2023-05-30": 7416,
-  "2023-05-31": 7419,
-  "2023-06-01": 7423,
-  "2023-06-02": 7423,
-  "2023-06-03": 7426,
-  "2023-06-04": 7427,
-  "2023-06-05": 7428,
-  "2023-06-06": 7427,
-  "2023-06-07": 7430,
-  "2023-06-08": 7431,
-  "2023-06-09": 7431,
-  "2023-06-10": 7433,
-  "2023-06-11": 7434,
-  "2023-06-12": 7435,
-  "2023-06-13": 7434,
-  "2023-06-14": 7434,
-  "2023-06-15": 7436,
-  "2023-06-16": 7437,
-  "2023-06-17": 7439,
-  "2023-06-18": 7440,
-  "2023-06-19": 7442,
-  "2023-06-20": 7444,
-  "2023-06-21": 7445,
-  "2023-06-22": 7446,
-  "2023-06-23": 7448,
-  "2023-06-24": 7452,
-  "2023-06-25": 7454,
-  "2023-06-26": 7456,
-  "2023-06-27": 7458,
-  "2023-06-28": 7459,
-  "2023-06-29": 7462,
-  "2023-06-30": 7460,
-  "2023-07-01": 7466,
-  "2023-07-02": 7466,
-  "2023-07-03": 7468,
-  "2023-07-04": 7468,
-  "2023-07-05": 7472,
-  "2023-07-06": 7471,
-  "2023-07-07": 7471,
-  "2023-07-08": 7471,
-  "2023-07-09": 7473,
-  "2023-07-10": 7474,
-  "2023-07-11": 7477,
-  "2023-07-12": 7478,
-  "2023-07-13": 7485,
-  "2023-07-14": 7488,
-  "2023-07-15": 7488,
-  "2023-07-16": 7492,
-  "2023-07-17": 7494,
-  "2023-07-18": 7497,
-  "2023-07-19": 7501,
-  "2023-07-20": 7501,
-  "2023-07-21": 7505,
-  "2023-07-22": 7508,
-  "2023-07-23": 7512,
-  "2023-07-24": 7513,
-  "2023-07-25": 7514,
-  "2023-07-26": 7517,
-  "2023-07-27": 7517,
-  "2023-07-28": 7521,
-  "2023-07-29": 7523,
-  "2023-07-30": 7525,
-  "2023-07-31": 7526,
-  "2023-08-01": 7532,
-  "2023-08-02": 7538,
-  "2023-08-03": 7539,
-  "2023-08-04": 7542,
-  "2023-08-05": 7546,
-  "2023-08-06": 7548,
-  "2023-08-07": 7548,
-  "2023-08-08": 7549,
-  "2023-08-09": 7551,
-  "2023-08-10": 7555,
-  "2023-08-11": 7558,
-  "2023-08-12": 7558,
-  "2023-08-13": 7558,
-  "2023-08-14": 7563,
-  "2023-08-15": 7563,
-  "2023-08-16": 7563,
-  "2023-08-17": 7563,
-  "2023-08-18": 7563,
-  "2023-08-19": 7563,
-  "2023-08-20": 7565,
-  "2023-08-21": 7565,
-  "2023-08-22": 7572,
-  "2023-08-23": 7572,
-  "2023-08-24": 7572,
-  "2023-08-25": 7572,
-  "2023-08-26": 7574,
-  "2023-08-27": 7574,
-  "2023-08-28": 7577,
-  "2023-08-29": 7577,
-  "2023-08-30": 7577,
-  "2023-08-31": 7576,
-  "2023-09-01": 7578,
-  "2023-09-02": 7578,
-  "2023-09-03": 7578,
-  "2023-09-04": 7578,
-  "2023-09-05": 7578,
-  "2023-09-06": 7578,
-  "2023-09-07": 7578,
-  "2023-09-08": 7578,
-  "2023-09-09": 7578,
-  "2023-09-10": 7603,
-  "2023-09-11": 7603,
-  "2023-09-12": 7603,
-  "2023-09-13": 7603,
-  "2023-09-14": 7603,
-  "2023-09-15": 7603,
-  "2023-09-16": 7618,
-  "2023-09-17": 7618,
-  "2023-09-18": 7618,
-  "2023-09-19": 7629,
-  "2023-09-20": 7629,
-  "2023-09-21": 7629,
-  "2023-09-22": 7642,
-  "2023-09-23": 7642,
-  "2023-09-24": 7642,
-  "2023-09-25": 7642,
-  "2023-09-26": 7649,
-  "2023-09-27": 7649,
-  "2023-09-28": 7649,
-  "2023-09-29": 7649,
-  "2023-09-30": 7649,
-  "2023-10-01": 7649,
-  "2023-10-02": 7649,
-  "2023-10-03": 7649,
-  "2023-10-04": 7649,
-  "2023-10-05": 7649,
-  "2023-10-06": 7649,
-  "2023-10-07": 7649,
-  "2023-10-08": 7649,
-  "2023-10-09": 7649,
-  "2023-10-10": 7649,
-  "2023-10-11": 7729,
-  "2023-10-12": 7729,
-  "2023-10-13": 7729,
-  "2023-10-14": 7729,
-  "2023-10-15": 7729,
-  "2023-10-16": 7729,
-  "2023-10-17": 7729,
-  "2023-10-18": 7729,
-  "2023-10-19": 7729,
-  "2023-10-20": 7729,
-  "2023-10-21": 7729,
-  "2023-10-22": 7729,
-  "2023-10-23": 7729,
-  "2023-10-24": 7729,
-  "2023-10-25": 7729,
-  "2023-10-26": 7729,
-  "2023-10-27": 7729,
-  "2023-10-28": 7729,
-  "2023-10-29": 7729,
-  "2023-10-30": 7729,
-  "2023-10-31": 7729,
-  "2023-11-01": 7729,
-  "2023-11-02": 7729,
-  "2023-11-03": 7729,
-  "2023-11-04": 7729,
-  "2023-11-05": 7729,
-  "2023-11-06": 7729,
-  "2023-11-07": 7729,
-  "2023-11-08": 7729,
-  "2023-11-09": 7729,
-  "2023-11-10": 7729,
-  "2023-11-11": 7819,
-  "2023-11-12": 7819,
-  "2023-11-13": 7819,
-  "2023-11-14": 7819,
-  "2023-11-15": 7819,
-  "2023-11-16": 7819,
-  "2023-11-17": 7819,
-  "2023-11-18": 7819,
-  "2023-11-19": 7819,
-  "2023-11-20": 7819,
-  "2023-11-21": 7819,
-  "2023-11-22": 7819,
-  "2023-11-23": 7819,
-  "2023-11-24": 7819,
-  "2023-11-25": 7819,
-  "2023-11-26": 7819,
-  "2023-11-27": 7819,
-  "2023-11-28": 7819,
-  "2023-11-29": 7819,
-  "2023-11-30": 7819,
-  "2023-12-01": 7819,
-  "2023-12-02": 7819,
-  "2023-12-03": 7819,
-  "2023-12-04": 7819,
-  "2023-12-05": 7819,
-  "2023-12-06": 7819,
-  "2023-12-07": 7819,
-  "2023-12-08": 7819,
-  "2023-12-09": 7819,
-  "2023-12-10": 7819,
-  "2023-12-11": 7819,
-  "2023-12-12": 7819,
-  "2023-12-13": 7819,
-  "2023-12-14": 7872,
-  "2023-12-15": 7875,
-  "2023-12-16": 7882,
-  "2023-12-17": 7886,
-  "2023-12-18": 7886,
-  "2023-12-19": 7887,
-  "2023-12-20": 7887,
-  "2023-12-21": 7888,
-  "2023-12-22": 7889,
-  "2023-12-23": 7891,
-  "2023-12-24": 7891,
-  "2023-12-25": 7894,
-  "2023-12-26": 7893,
-  "2023-12-27": 7894,
-  "2023-12-30": 7897,
-  "2023-12-31": 7898,
-  "2024-01-01": 7898,
-  "2024-01-02": 7899,
-  "2024-01-03": 7898
+  "2024-01-17": 7905,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
+  "name": "This Is TOKiMONSTA",
+  "tracks": [
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68233,
+      "name": "1st Boom",
+      "url": "https://open.spotify.com/track/0ZQaDaNwhVqAuCWY98mXQY"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93929,
+      "name": "2nd Boom",
+      "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47386,
+      "name": "3rd Boom",
+      "url": "https://open.spotify.com/track/2c4j5tKcZrTJdOkRfPrh2Z"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 90397,
+      "name": "4th Boom",
+      "url": "https://open.spotify.com/track/5yGttN7cpq88005UeU0EB0"
+    },
+    {
+      "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 179320,
+      "name": "Aching Nodes",
+      "url": "https://open.spotify.com/track/0MJajPeMcWgAUo87zKHjRZ"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 289526,
+      "name": "Bready Soul",
+      "url": "https://open.spotify.com/track/42hbE9hxMxRDizdr9UkzTj"
+    },
+    {
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1"
+      },
+      "artists": [
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 160000,
+      "name": "Breath Strokes",
+      "url": "https://open.spotify.com/track/2AK7aIPe5b1LtIZ7YMyUJP"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230261,
+      "name": "Bright Shadows",
+      "url": "https://open.spotify.com/track/1mop9TPR16EBFbTaCBYTaf"
+    },
+    {
+      "album": {
+        "name": "Clubbers Bible 2017",
+        "url": "https://open.spotify.com/album/4StE7yNyqSEL8RblWNoaKm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204877,
+      "name": "Caught In The Rain",
+      "url": "https://open.spotify.com/track/5KKms9cK7uFGAWssPdR9CM"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 215123,
+      "name": "Collection Plate",
+      "url": "https://open.spotify.com/track/7iz3dRXquhdT4aFkUthste"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "Halogenix",
+          "url": "https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248907,
+      "name": "Come and Go - Halogenix Remix",
+      "url": "https://open.spotify.com/track/6Jtsd3odMpY7p5XOS3VgY0"
+    },
+    {
+      "album": {
+        "name": "Time To / Conversion Theory",
+        "url": "https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 204497,
+      "name": "Conversion Theory",
+      "url": "https://open.spotify.com/track/0VPUud31GGlGG8TTFoeY4j"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204497,
+      "name": "Conversion Theory",
+      "url": "https://open.spotify.com/track/2vWi4XIxGzzWjr3DA9CqIR"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309145,
+      "name": "Darkest (Dim)",
+      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275586,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/4QRs1M6DYXbNkHHWlhvYvk"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217537,
+      "name": "Don't Call Me (feat. Yuna)",
+      "url": "https://open.spotify.com/track/0Dy8xi4hjZHaZij3I4pyWP"
+    },
+    {
+      "album": {
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3LsLYmmHtxx3j5aes44tZM"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/6kEZ1FCPDkCeaDeORgMzzZ"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Arama",
+          "url": "https://open.spotify.com/artist/3bRj518241KTJEkmDDgv57"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 194862,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/6Rspcj5SfbODT0JVlPxmca"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 191304,
+      "name": "Dusty Stars",
+      "url": "https://open.spotify.com/track/6zkKeA1t9mEJ0TopG3gqIw"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 218589,
+      "name": "Early to Dawn (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/3VIQEM7WmXhLBQBahoyPf2"
+    },
+    {
+      "album": {
+        "name": "Eats The Tale",
+        "url": "https://open.spotify.com/album/6AzvKQoqiD8PHz5n9b4XqT"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221503,
+      "name": "Eats The Tale",
+      "url": "https://open.spotify.com/track/5pyLmnW31JUqznPiwsoeUR"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195607,
+      "name": "Fallen Arches",
+      "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169786,
+      "name": "For My Eternal, Oh Dream My Treasure",
+      "url": "https://open.spotify.com/track/0hlXa1QoFPuMaTKjWccv98"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/6JFh4QqTwsad0Mn16eZqc7"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146441,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/2ahtfg7eIq70ftILthfSnr"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Drew Love",
+          "url": "https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY"
+        },
+        {
+          "name": "Dumbfoundead",
+          "url": "https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212811,
+      "name": "Get Me Some",
+      "url": "https://open.spotify.com/track/54bJVMbRyGmVHWslFpU4nK"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 263301,
+      "name": "Go With It",
+      "url": "https://open.spotify.com/track/5dFhRQKsHnAiyg9wXKtJDz"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+    },
+    {
+      "album": {
+        "name": "Golden Years (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/370rX8pnkJuSCFBNnUHQWp"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 181636,
+      "name": "Golden Years - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/6m4C4gtiienQVNSWJ1JuU8"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 238027,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/0fhyPqMIwWmEMmScVOXk0H"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Kiya Lacey",
+          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 211764,
+      "name": "Heart on the Ground",
+      "url": "https://open.spotify.com/track/4pSs3nGm22r5f43E5qKzoW"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 266345,
+      "name": "House of Dal",
+      "url": "https://open.spotify.com/track/4psFTXt6MSnrYTAiOYiwGg"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/6bfoNQLQk8pU1hcd0esCii"
+    },
+    {
+      "album": {
+        "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
+        "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219348,
+      "name": "I'm Every Woman - From \u201cBlack History Always / Music For the Movement Vol. 2\"",
+      "url": "https://open.spotify.com/track/7v5AEwuaQurzjaOwOzFVdo"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190090,
+      "name": "I'm Waiting",
+      "url": "https://open.spotify.com/track/7tbm1Ca9FlGnxSF9XamZUI"
+    },
+    {
+      "album": {
+        "name": "Ija (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Ija - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
+    },
+    {
+      "album": {
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+      },
+      "artists": [
+        {
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+    },
+    {
+      "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 170333,
+      "name": "Line to Dot",
+      "url": "https://open.spotify.com/track/40wUkKSrR6po7tjPhHROlS"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241753,
+      "name": "Little Pleasures",
+      "url": "https://open.spotify.com/track/0rX9TS7ru452E29D7uekAY"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Love That Never - IMANU Remix",
+      "url": "https://open.spotify.com/track/7dqyP8Zvv23kyRygun9V57"
+    },
+    {
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/1SjMeC7cK1SiK76J0qm5mi"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/0OWM271M81gfFl3RdM9AmI"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182756,
+      "name": "Mind Of",
+      "url": "https://open.spotify.com/track/6wq6qtnJCEQET0of8vhit8"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/1dUrO46Kk7VZW91AM6zTKT"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5dyFpHnCShXfEmDoKIg0J5"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        },
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Joey Purp",
+          "url": "https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204077,
+      "name": "NO WAY (feat. Isaiah Rashad, Joey Purp & Ambr\u00e9)",
+      "url": "https://open.spotify.com/track/5p4drVwua5J1BYgqhrMwWa"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231639,
+      "name": "Nxt Msg - Deletion Mix",
+      "url": "https://open.spotify.com/track/04I7GkdacPUoq91OCjoyPe"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-10",
+      "duration_ms": 185945,
+      "name": "Penny",
+      "url": "https://open.spotify.com/track/0fDwiIESCD4DHUiZ7N7EwP"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno (Remixed)",
+        "url": "https://open.spotify.com/album/6cC6x6bk3lsebSLz2CzGCP"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        },
+        {
+          "name": "bad tuner",
+          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205475,
+      "name": "Phases - bad tuner Remix",
+      "url": "https://open.spotify.com/track/5mLfDev8PWL1gIMGWZyRJq"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "KRANE",
+          "url": "https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/0xGgaX21ytUiJu1nIgdYpa"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210448,
+      "name": "Realla",
+      "url": "https://open.spotify.com/track/5mzoBYJM5WKAMQEOHpcgsx"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/1xqUV7b5I7gdaINGhSO8CM"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264733,
+      "name": "Rose's Thorn",
+      "url": "https://open.spotify.com/track/0VCUjtHZm8SRvKLWGzQKBf"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/45CvmoLWs7OKLnWr5kBR9s"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133130,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/1y4OnSCtttqYNLA1602LYh"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186708,
+      "name": "Sa Mo Jung",
+      "url": "https://open.spotify.com/track/2xbfhyjjSQMzBooLs7ZmT8"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196799,
+      "name": "Sakamoto's Spring",
+      "url": "https://open.spotify.com/track/5Jebi010cDghmArxUrQeBB"
+    },
+    {
+      "album": {
+        "name": "Say Tell Me",
+        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241750,
+      "name": "Say Tell Me",
+      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
+    },
+    {
+      "album": {
+        "name": "Say Yes",
+        "url": "https://open.spotify.com/album/2FYcP3Q4x7xwW10spuxkZk"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233658,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/0gfZlbWWWd1VKvwQHOI0wS"
+    },
+    {
+      "album": {
+        "name": "Homegrown (Deluxe)",
+        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 233653,
+      "name": "Say Yes (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
+    },
+    {
+      "album": {
+        "name": "Cosmic Intoxication",
+        "url": "https://open.spotify.com/album/1dgeBfSWvjzX7qvpri6rpU"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Smoke & Mirrors",
+      "url": "https://open.spotify.com/track/0Zb19M8DGaIEreIyyFTo5k"
+    },
+    {
+      "album": {
+        "name": "Boom",
+        "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 122697,
+      "name": "So Ridiculous",
+      "url": "https://open.spotify.com/track/1VU9BGdWkqfpSqLdr6AsXl"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 209049,
+      "name": "Soul to Seoul",
+      "url": "https://open.spotify.com/track/2WfrK7vN1C7ScEauF96AHb"
+    },
+    {
+      "album": {
+        "name": "FOVERE",
+        "url": "https://open.spotify.com/album/1L6lmqIsXeFTMakLAYp3hv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 195529,
+      "name": "Starlight Lace",
+      "url": "https://open.spotify.com/track/6sB4yuAwsgiWSgOpheHtjI"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260617,
+      "name": "Steal My Attention",
+      "url": "https://open.spotify.com/track/3F2Vq9ZHzNZmHMBuaf4LcP"
+    },
+    {
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178224,
+      "name": "Stigmatizing Sex",
+      "url": "https://open.spotify.com/track/02bnahS6YFurzZoNoRdXUj"
+    },
+    {
+      "album": {
+        "name": "Young Art Sound II",
+        "url": "https://open.spotify.com/album/7sz0qElTWnguxouKLGMQlY"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153297,
+      "name": "Strange Froot",
+      "url": "https://open.spotify.com/track/341G2gobBE0xAXYaCFK5SR"
+    },
+    {
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/25f18whwKF8gB6U8z7IlZ1"
+      },
+      "artists": [
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3jifQTZXtoV5KxLGi1snKz"
+    },
+    {
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/4X82sfwbHWa8KFz5Ik1tRX"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216726,
+      "name": "Sweet Day",
+      "url": "https://open.spotify.com/track/3w4hulywDgU9V8D9qw5B08"
+    },
+    {
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/048Y5hrjEH1z26wzWqModK"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-03",
+      "duration_ms": 219019,
+      "name": "Sweet Williams",
+      "url": "https://open.spotify.com/track/11P1ofuhfbUdxHCBgTLIiy"
+    },
+    {
+      "album": {
+        "name": "Desiderium",
+        "url": "https://open.spotify.com/album/2mhTitMTzAO14t7oxcXvaC"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101161,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/0eVOAnzGXpbboig0AtjvrA"
+    },
+    {
+      "album": {
+        "name": "Time To / Conversion Theory",
+        "url": "https://open.spotify.com/album/0dXSyC5EkDgf2QKICe0etz"
+      },
+      "artists": [
+        {
+          "name": "Analogue Monsta",
+          "url": "https://open.spotify.com/artist/6QGjDTH5REc5e9irNSQ5K2"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Suzi Analogue",
+          "url": "https://open.spotify.com/artist/0hNK7ZdOjiUJd2C17JAjK8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182001,
+      "name": "Time To",
+      "url": "https://open.spotify.com/track/1uJZNnSaILpgIWks1zYFKW"
+    },
+    {
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/50vgSpF6a7VAOUj9XRR2H1"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/2URXBdx9353u9BxBHQoD7K"
+    },
+    {
+      "album": {
+        "name": "Lune Rouge (Remixed)",
+        "url": "https://open.spotify.com/album/7uKVs92IVcvcoMzhPbi8V5"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        },
+        {
+          "name": "Felix Cartal",
+          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "We Love - Felix Cartal Remix",
+      "url": "https://open.spotify.com/track/4sq6ztw5bT9pibLbt8xxD3"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2i3yMV"
 }

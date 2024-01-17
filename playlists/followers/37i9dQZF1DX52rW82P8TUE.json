@@ -1,474 +1,1365 @@
 {
-  "2022-09-15": 39741,
-  "2022-09-16": 39784,
-  "2022-09-17": 39819,
-  "2022-09-18": 39872,
-  "2022-09-19": 39921,
-  "2022-09-20": 39948,
-  "2022-09-21": 39976,
-  "2022-09-22": 40013,
-  "2022-09-23": 40057,
-  "2022-09-24": 40087,
-  "2022-09-25": 40150,
-  "2022-09-26": 40194,
-  "2022-09-27": 40219,
-  "2022-09-28": 40255,
-  "2022-09-29": 40298,
-  "2022-09-30": 40326,
-  "2022-10-01": 40361,
-  "2022-10-02": 40427,
-  "2022-10-03": 40452,
-  "2022-10-04": 40489,
-  "2022-10-05": 40531,
-  "2022-10-06": 40575,
-  "2022-10-07": 40627,
-  "2022-10-08": 40684,
-  "2022-10-09": 40795,
-  "2022-10-10": 40811,
-  "2022-10-11": 40861,
-  "2022-10-12": 40908,
-  "2022-10-13": 41051,
-  "2022-10-14": 41096,
-  "2022-10-15": 41144,
-  "2022-10-16": 41272,
-  "2022-10-17": 41353,
-  "2022-10-18": 41399,
-  "2022-10-19": 41440,
-  "2022-10-20": 41487,
-  "2022-10-21": 41517,
-  "2022-10-22": 41568,
-  "2022-10-23": 41658,
-  "2022-10-24": 41716,
-  "2022-10-25": 41747,
-  "2022-10-26": 41802,
-  "2022-10-27": 41826,
-  "2022-10-28": 41870,
-  "2022-10-29": 41910,
-  "2022-10-30": 41976,
-  "2022-10-31": 42031,
-  "2022-11-01": 42068,
-  "2022-11-02": 42110,
-  "2022-11-03": 42148,
-  "2022-11-04": 42178,
-  "2022-11-05": 42226,
-  "2022-11-06": 42284,
-  "2022-11-07": 42313,
-  "2022-11-08": 42357,
-  "2022-11-09": 42401,
-  "2022-11-10": 42448,
-  "2022-11-11": 42486,
-  "2022-11-12": 42530,
-  "2022-11-13": 42574,
-  "2022-11-14": 42623,
-  "2022-11-15": 42667,
-  "2022-11-16": 42694,
-  "2022-11-17": 42733,
-  "2022-11-18": 42746,
-  "2022-11-19": 42759,
-  "2022-11-20": 42781,
-  "2022-11-21": 42776,
-  "2022-11-22": 42877,
-  "2022-11-23": 42865,
-  "2022-11-24": 43008,
-  "2022-11-25": 43055,
-  "2022-11-26": 43092,
-  "2022-11-27": 43138,
-  "2022-11-28": 43181,
-  "2022-11-29": 43207,
-  "2022-11-30": 43246,
-  "2022-12-01": 43286,
-  "2022-12-02": 43312,
-  "2022-12-03": 43364,
-  "2022-12-04": 43410,
-  "2022-12-05": 43459,
-  "2022-12-06": 43490,
-  "2022-12-07": 43533,
-  "2022-12-08": 43580,
-  "2022-12-09": 43616,
-  "2022-12-10": 43654,
-  "2022-12-11": 43709,
-  "2022-12-12": 43767,
-  "2022-12-13": 43805,
-  "2022-12-14": 43852,
-  "2022-12-15": 43897,
-  "2022-12-16": 43952,
-  "2022-12-17": 43994,
-  "2022-12-18": 44038,
-  "2022-12-19": 44088,
-  "2022-12-20": 44164,
-  "2022-12-21": 44164,
-  "2022-12-22": 44191,
-  "2022-12-24": 44264,
-  "2022-12-25": 44301,
-  "2022-12-26": 44332,
-  "2022-12-27": 44366,
-  "2022-12-28": 44393,
-  "2022-12-29": 44431,
-  "2022-12-30": 44474,
-  "2022-12-31": 44510,
-  "2023-01-01": 44557,
-  "2023-01-02": 44581,
-  "2023-01-03": 44627,
-  "2023-01-04": 44670,
-  "2023-01-05": 44713,
-  "2023-01-06": 44790,
-  "2023-01-07": 44885,
-  "2023-01-08": 44901,
-  "2023-01-09": 44957,
-  "2023-01-10": 44999,
-  "2023-01-11": 45052,
-  "2023-01-12": 45104,
-  "2023-01-13": 45164,
-  "2023-01-14": 45274,
-  "2023-01-15": 45291,
-  "2023-01-16": 45350,
-  "2023-01-17": 45400,
-  "2023-01-18": 45454,
-  "2023-01-19": 45520,
-  "2023-01-20": 45571,
-  "2023-01-21": 45622,
-  "2023-01-22": 45691,
-  "2023-01-23": 45763,
-  "2023-01-24": 45806,
-  "2023-01-25": 45847,
-  "2023-01-26": 45907,
-  "2023-01-27": 45960,
-  "2023-01-28": 46012,
-  "2023-01-29": 46094,
-  "2023-01-30": 46168,
-  "2023-01-31": 46168,
-  "2023-02-01": 46290,
-  "2023-02-02": 46342,
-  "2023-02-03": 46384,
-  "2023-02-04": 46443,
-  "2023-02-05": 46510,
-  "2023-02-06": 46577,
-  "2023-02-07": 46634,
-  "2023-02-08": 46754,
-  "2023-02-09": 46754,
-  "2023-02-10": 46814,
-  "2023-02-11": 46865,
-  "2023-02-12": 46990,
-  "2023-02-13": 47049,
-  "2023-02-14": 47049,
-  "2023-02-15": 47125,
-  "2023-02-16": 47188,
-  "2023-02-17": 47267,
-  "2023-02-18": 47431,
-  "2023-02-19": 47439,
-  "2023-02-20": 47491,
-  "2023-02-21": 47556,
-  "2023-02-22": 47627,
-  "2023-02-23": 47686,
-  "2023-02-24": 47754,
-  "2023-02-25": 47825,
-  "2023-02-26": 47906,
-  "2023-02-27": 48034,
-  "2023-02-28": 48034,
-  "2023-03-01": 48089,
-  "2023-03-02": 48146,
-  "2023-03-03": 48186,
-  "2023-03-04": 48237,
-  "2023-03-05": 48382,
-  "2023-03-06": 48382,
-  "2023-03-07": 48431,
-  "2023-03-08": 48488,
-  "2023-03-09": 48533,
-  "2023-03-10": 48590,
-  "2023-03-11": 48655,
-  "2023-03-12": 48732,
-  "2023-03-13": 48799,
-  "2023-03-14": 48866,
-  "2023-03-15": 48923,
-  "2023-03-16": 48963,
-  "2023-03-17": 48963,
-  "2023-03-18": 49088,
-  "2023-03-19": 49168,
-  "2023-03-20": 49225,
-  "2023-03-21": 49283,
-  "2023-03-22": 49347,
-  "2023-03-23": 49401,
-  "2023-03-24": 49401,
-  "2023-03-25": 49504,
-  "2023-03-26": 49587,
-  "2023-03-27": 49656,
-  "2023-03-28": 49713,
-  "2023-03-29": 49761,
-  "2023-03-30": 49854,
-  "2023-03-31": 49854,
-  "2023-04-01": 49909,
-  "2023-04-02": 49968,
-  "2023-04-03": 50040,
-  "2023-04-04": 50090,
-  "2023-04-05": 50143,
-  "2023-04-06": 50205,
-  "2023-04-07": 50264,
-  "2023-04-09": 50399,
-  "2023-04-10": 50474,
-  "2023-04-11": 50564,
-  "2023-04-12": 50564,
-  "2023-04-13": 50588,
-  "2023-04-14": 50646,
-  "2023-04-15": 50713,
-  "2023-04-16": 50768,
-  "2023-04-17": 50846,
-  "2023-04-18": 50918,
-  "2023-04-19": 50967,
-  "2023-04-20": 51021,
-  "2023-04-21": 51062,
-  "2023-04-22": 51114,
-  "2023-04-23": 51193,
-  "2023-04-24": 51256,
-  "2023-04-25": 51297,
-  "2023-04-26": 51360,
-  "2023-04-27": 51434,
-  "2023-04-28": 51486,
-  "2023-04-29": 51538,
-  "2023-04-30": 51617,
-  "2023-05-01": 51693,
-  "2023-05-02": 51760,
-  "2023-05-03": 51806,
-  "2023-05-04": 51849,
-  "2023-05-05": 51884,
-  "2023-05-06": 51940,
-  "2023-05-07": 52012,
-  "2023-05-08": 52085,
-  "2023-05-09": 52154,
-  "2023-05-10": 52202,
-  "2023-05-11": 52251,
-  "2023-05-12": 52320,
-  "2023-05-13": 52390,
-  "2023-05-14": 52451,
-  "2023-05-15": 52495,
-  "2023-05-16": 52531,
-  "2023-05-17": 52561,
-  "2023-05-18": 52625,
-  "2023-05-19": 52691,
-  "2023-05-20": 52818,
-  "2023-05-21": 52818,
-  "2023-05-22": 52818,
-  "2023-05-23": 52920,
-  "2023-05-24": 53005,
-  "2023-05-25": 53022,
-  "2023-05-26": 53084,
-  "2023-05-27": 53135,
-  "2023-05-28": 53201,
-  "2023-05-29": 53201,
-  "2023-05-30": 53310,
-  "2023-05-31": 53367,
-  "2023-06-01": 53422,
-  "2023-06-02": 53467,
-  "2023-06-03": 53516,
-  "2023-06-04": 53601,
-  "2023-06-05": 53659,
-  "2023-06-06": 53708,
-  "2023-06-07": 53763,
-  "2023-06-08": 53826,
-  "2023-06-09": 53902,
-  "2023-06-10": 53944,
-  "2023-06-11": 53998,
-  "2023-06-12": 54045,
-  "2023-06-13": 54097,
-  "2023-06-14": 54151,
-  "2023-06-15": 54215,
-  "2023-06-16": 54273,
-  "2023-06-17": 54317,
-  "2023-06-18": 54383,
-  "2023-06-19": 54459,
-  "2023-06-20": 54521,
-  "2023-06-21": 54566,
-  "2023-06-22": 54627,
-  "2023-06-23": 54679,
-  "2023-06-24": 54728,
-  "2023-06-25": 54800,
-  "2023-06-26": 54894,
-  "2023-06-27": 54943,
-  "2023-06-28": 55017,
-  "2023-06-29": 55087,
-  "2023-06-30": 55151,
-  "2023-07-01": 55270,
-  "2023-07-02": 55270,
-  "2023-07-03": 55341,
-  "2023-07-04": 55415,
-  "2023-07-05": 55497,
-  "2023-07-06": 55620,
-  "2023-07-07": 55620,
-  "2023-07-08": 55685,
-  "2023-07-09": 55774,
-  "2023-07-10": 55854,
-  "2023-07-11": 55916,
-  "2023-07-12": 55979,
-  "2023-07-13": 56056,
-  "2023-07-14": 56123,
-  "2023-07-15": 56194,
-  "2023-07-16": 56287,
-  "2023-07-17": 56367,
-  "2023-07-18": 56423,
-  "2023-07-19": 56494,
-  "2023-07-20": 56563,
-  "2023-07-21": 56631,
-  "2023-07-22": 56718,
-  "2023-07-23": 56799,
-  "2023-07-24": 56871,
-  "2023-07-25": 56942,
-  "2023-07-26": 56999,
-  "2023-07-27": 57055,
-  "2023-07-28": 57114,
-  "2023-07-29": 57177,
-  "2023-07-30": 57259,
-  "2023-07-31": 57343,
-  "2023-08-01": 57390,
-  "2023-08-02": 57437,
-  "2023-08-03": 57489,
-  "2023-08-04": 57565,
-  "2023-08-05": 57624,
-  "2023-08-06": 57762,
-  "2023-08-07": 57762,
-  "2023-08-08": 57796,
-  "2023-08-09": 57839,
-  "2023-08-10": 57902,
-  "2023-08-11": 57947,
-  "2023-08-12": 58024,
-  "2023-08-13": 58092,
-  "2023-08-14": 58143,
-  "2023-08-15": 58256,
-  "2023-08-16": 58256,
-  "2023-08-17": 58305,
-  "2023-08-18": 58356,
-  "2023-08-19": 58411,
-  "2023-08-20": 58500,
-  "2023-08-21": 58560,
-  "2023-08-22": 58615,
-  "2023-08-23": 58692,
-  "2023-08-24": 58735,
-  "2023-08-25": 58793,
-  "2023-08-26": 58845,
-  "2023-08-27": 58929,
-  "2023-08-28": 59018,
-  "2023-08-29": 59087,
-  "2023-08-30": 59146,
-  "2023-08-31": 59199,
-  "2023-09-01": 59296,
-  "2023-09-02": 59296,
-  "2023-09-03": 59349,
-  "2023-09-04": 59424,
-  "2023-09-05": 59476,
-  "2023-09-06": 59524,
-  "2023-09-07": 59572,
-  "2023-09-08": 59654,
-  "2023-09-09": 59709,
-  "2023-09-10": 59781,
-  "2023-09-11": 59830,
-  "2023-09-12": 59870,
-  "2023-09-13": 59928,
-  "2023-09-14": 59981,
-  "2023-09-15": 60023,
-  "2023-09-16": 60090,
-  "2023-09-17": 60163,
-  "2023-09-18": 60240,
-  "2023-09-19": 60286,
-  "2023-09-20": 60328,
-  "2023-09-21": 60382,
-  "2023-09-22": 60436,
-  "2023-09-23": 60491,
-  "2023-09-24": 60567,
-  "2023-09-25": 60639,
-  "2023-09-26": 60699,
-  "2023-09-27": 60735,
-  "2023-09-28": 60775,
-  "2023-09-29": 60841,
-  "2023-09-30": 60882,
-  "2023-10-01": 60936,
-  "2023-10-02": 60991,
-  "2023-10-03": 61028,
-  "2023-10-04": 61070,
-  "2023-10-05": 61124,
-  "2023-10-06": 61175,
-  "2023-10-07": 61205,
-  "2023-10-08": 61262,
-  "2023-10-09": 61310,
-  "2023-10-10": 61294,
-  "2023-10-11": 61317,
-  "2023-10-12": 61317,
-  "2023-10-13": 61336,
-  "2023-10-14": 61340,
-  "2023-10-15": 61430,
-  "2023-10-16": 61491,
-  "2023-10-17": 61528,
-  "2023-10-18": 61584,
-  "2023-10-19": 61642,
-  "2023-10-20": 61685,
-  "2023-10-21": 61738,
-  "2023-10-22": 61807,
-  "2023-10-23": 61874,
-  "2023-10-24": 61921,
-  "2023-10-25": 61969,
-  "2023-10-26": 62028,
-  "2023-10-27": 62076,
-  "2023-10-28": 62124,
-  "2023-10-29": 62199,
-  "2023-10-30": 62290,
-  "2023-10-31": 62290,
-  "2023-11-01": 62333,
-  "2023-11-02": 62378,
-  "2023-11-03": 62438,
-  "2023-11-04": 62495,
-  "2023-11-05": 62541,
-  "2023-11-06": 62573,
-  "2023-11-07": 62613,
-  "2023-11-08": 62642,
-  "2023-11-09": 62678,
-  "2023-11-10": 62706,
-  "2023-11-11": 62750,
-  "2023-11-12": 62797,
-  "2023-11-13": 62839,
-  "2023-11-14": 62862,
-  "2023-11-15": 62862,
-  "2023-11-16": 62930,
-  "2023-11-17": 62992,
-  "2023-11-18": 62992,
-  "2023-11-19": 63035,
-  "2023-11-20": 63075,
-  "2023-11-21": 63113,
-  "2023-11-22": 63145,
-  "2023-11-23": 63170,
-  "2023-11-24": 63193,
-  "2023-11-25": 63219,
-  "2023-11-26": 63259,
-  "2023-11-27": 63293,
-  "2023-11-28": 63328,
-  "2023-11-29": 63379,
-  "2023-11-30": 63379,
-  "2023-12-01": 63414,
-  "2023-12-02": 63443,
-  "2023-12-03": 63472,
-  "2023-12-04": 63517,
-  "2023-12-05": 63545,
-  "2023-12-06": 63577,
-  "2023-12-07": 63608,
-  "2023-12-08": 63639,
-  "2023-12-09": 63668,
-  "2023-12-10": 63699,
-  "2023-12-11": 63725,
-  "2023-12-12": 63750,
-  "2023-12-13": 63777,
-  "2023-12-14": 63808,
-  "2023-12-15": 63831,
-  "2023-12-16": 63853,
-  "2023-12-17": 63890,
-  "2023-12-18": 63908,
-  "2023-12-19": 63944,
-  "2023-12-20": 63957,
-  "2023-12-21": 63993,
-  "2023-12-22": 64017,
-  "2023-12-23": 64053,
-  "2023-12-24": 64066,
-  "2023-12-25": 64083,
-  "2023-12-26": 64098,
-  "2023-12-27": 64120,
-  "2023-12-30": 64191,
-  "2023-12-31": 64212,
-  "2024-01-01": 64234,
-  "2024-01-02": 64252,
-  "2024-01-03": 64268
+  "2024-01-17": 64338,
+  "date_first_scraped": "2022-09-15",
+  "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
+  "name": "Gospel Kids",
+  "tracks": [
+    {
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 6",
+        "url": "https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203885,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d"
+    },
+    {
+      "album": {
+        "name": "Trio R3 Kids",
+        "url": "https://open.spotify.com/album/3iXWPgtTT7O1t7e5eZoDmf"
+      },
+      "artists": [
+        {
+          "name": "Trio R3",
+          "url": "https://open.spotify.com/artist/1j80V5H3SnqrUDKhpAo1OE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202743,
+      "name": "A Alegria Est\u00e1 no Cora\u00e7\u00e3o / Celebrai / Solta o Cabo da Nau",
+      "url": "https://open.spotify.com/track/7FNueAtAXOl1aImDlO9jO0"
+    },
+    {
+      "album": {
+        "name": "Amigo de Deus",
+        "url": "https://open.spotify.com/album/6Ks1nDyBm9wyusj94wCSox"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 329840,
+      "name": "A B\u00edblia",
+      "url": "https://open.spotify.com/track/2MlMPbEM8qbDxsEBV6vkYw"
+    },
+    {
+      "album": {
+        "name": "Arautos do Rei pra Baixinhos e Grand\u00f5es",
+        "url": "https://open.spotify.com/album/6hQ1VdOFsnwERYnnBuxsFK"
+      },
+      "artists": [
+        {
+          "name": "Arautos Do Rei",
+          "url": "https://open.spotify.com/artist/7HMkkJU8KMSMpEZ1RA8gvK"
+        },
+        {
+          "name": "T\u00e1rsis Ira\u00eddes",
+          "url": "https://open.spotify.com/artist/0p942FANsPACepQGy7HuF7"
+        },
+        {
+          "name": "Elson Gollub",
+          "url": "https://open.spotify.com/artist/4CnTjFbM00kSSgLddqNgqh"
+        },
+        {
+          "name": "Jos\u00e9 Barbalho",
+          "url": "https://open.spotify.com/artist/3nTd1c0vX2OvYS4cF6otAo"
+        },
+        {
+          "name": "Ronaldo Fagundes",
+          "url": "https://open.spotify.com/artist/3k8WlBrUAmrPAAwGILLlMj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "A Hist\u00f3ria dos Animais",
+      "url": "https://open.spotify.com/track/54p1PR4nMkq495gv1LIQxO"
+    },
+    {
+      "album": {
+        "name": "A Tua Gra\u00e7a",
+        "url": "https://open.spotify.com/album/2gcCOA0Zi0ntszohuIbxVj"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-03",
+      "duration_ms": 145466,
+      "name": "A Tua Gra\u00e7a",
+      "url": "https://open.spotify.com/track/58PgmYUic0mM7Qwi297ZG3"
+    },
+    {
+      "album": {
+        "name": "A,E,I,O,U",
+        "url": "https://open.spotify.com/album/5xWQKN7mnHZ9b2WxW5JrF9"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "A, E, I, O, U",
+      "url": "https://open.spotify.com/track/3ECu0Ipd7bspFhrJTuYwoA"
+    },
+    {
+      "album": {
+        "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
+        "url": "https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Smiling\u00fcido",
+          "url": "https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171758,
+      "name": "Alegria do Senhor (feat. Smiling\u00fcido)",
+      "url": "https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk"
+    },
+    {
+      "album": {
+        "name": "Amor Diferente",
+        "url": "https://open.spotify.com/album/45R0EnUDMoQs4PYaTYsuMD"
+      },
+      "artists": [
+        {
+          "name": "Jessyca Kids",
+          "url": "https://open.spotify.com/artist/5EpOx5y4zpvyXMBFGIugRb"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 208714,
+      "name": "Aleluia",
+      "url": "https://open.spotify.com/track/5uOTuH6m5hn98ATHq8BX67"
+    },
+    {
+      "album": {
+        "name": "Ao Orarmos",
+        "url": "https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 189386,
+      "name": "Ao Orarmos",
+      "url": "https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne"
+    },
+    {
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272933,
+      "name": "Aos Olhos do Pai",
+      "url": "https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201038,
+      "name": "Arca de No\u00e9",
+      "url": "https://open.spotify.com/track/2IlFyiCXLg5EK5JChEgWGA"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/5WbxbZVfwBmL49abPSPRfA"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 220653,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/36NbDqHBejqD2grPynmlWl"
+    },
+    {
+      "album": {
+        "name": "Turminha da Cristina Mel - Fazendo a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/6T5y5A3YoPNXQsUu7OlAaX"
+      },
+      "artists": [
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188653,
+      "name": "Brilhando",
+      "url": "https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX"
+    },
+    {
+      "album": {
+        "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
+        "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132240,
+      "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
+      "url": "https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs"
+    },
+    {
+      "album": {
+        "name": "Caminhando Vou Para Cana\u00e3",
+        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137320,
+      "name": "Caminhando Vou Para Cana\u00e3",
+      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
+    },
+    {
+      "album": {
+        "name": "Caminho no Deserto (Vers\u00e3o Kids)",
+        "url": "https://open.spotify.com/album/34EQIvp5R1X7n4chgsK1PR"
+      },
+      "artists": [
+        {
+          "name": "Soraya Moraes",
+          "url": "https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp"
+        },
+        {
+          "name": "Kaiky Mello",
+          "url": "https://open.spotify.com/artist/576aczLz6CXzj9E0WZ1EJw"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333113,
+      "name": "Caminho no Deserto - Vers\u00e3o Kids",
+      "url": "https://open.spotify.com/track/1J1eBc6ECu1cZq7JslY4VG"
+    },
+    {
+      "album": {
+        "name": "Chevere (feat. Lito Atalaia)",
+        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213422,
+      "name": "Chevere (feat. Lito Atalaia)",
+      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+    },
+    {
+      "album": {
+        "name": "Com Jesus",
+        "url": "https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178301,
+      "name": "Com Jesus",
+      "url": "https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID"
+    },
+    {
+      "album": {
+        "name": "Conectada Com Deus",
+        "url": "https://open.spotify.com/album/58yeAD8aegEUHWbQBZp3mx"
+      },
+      "artists": [
+        {
+          "name": "Aline Nascimento",
+          "url": "https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 153941,
+      "name": "Conectada Com Deus",
+      "url": "https://open.spotify.com/track/0mdbQRBEonvAxHHJsS5UCj"
+    },
+    {
+      "album": {
+        "name": "Conectada com Deus",
+        "url": "https://open.spotify.com/album/2mlaRjwR3nEaaJ78eNa0Ws"
+      },
+      "artists": [
+        {
+          "name": "Aline Nascimento",
+          "url": "https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-28",
+      "duration_ms": 153941,
+      "name": "Conectada com Deus",
+      "url": "https://open.spotify.com/track/1iK8557dfKjDCeN8Jjkryg"
+    },
+    {
+      "album": {
+        "name": "Conectada com Deus (PlayBack)",
+        "url": "https://open.spotify.com/album/4CNNveKXMH7k2VMTC1FrAs"
+      },
+      "artists": [
+        {
+          "name": "Aline Nascimento",
+          "url": "https://open.spotify.com/artist/5Iz1GoxCNhkBe8vn9fXQV4"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 153941,
+      "name": "Conectada com Deus - PlayBack",
+      "url": "https://open.spotify.com/track/4uxJTPhvT8FyOzQkS7DxoL"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 6",
+        "url": "https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231778,
+      "name": "Coral dos Bichos",
+      "url": "https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR"
+    },
+    {
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
+    },
+    {
+      "album": {
+        "name": "Crian\u00e7a Nota 10",
+        "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Coral de Crian\u00e7as",
+          "url": "https://open.spotify.com/artist/2qUfzKBWjm4UpH1MjdKnSi"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164165,
+      "name": "Crian\u00e7a Nota 10",
+      "url": "https://open.spotify.com/track/2kPwaMnS3qowXfg8aBh7nn"
+    },
+    {
+      "album": {
+        "name": "Cristo Fez os Peixes",
+        "url": "https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112840,
+      "name": "Cristo Fez os Peixes",
+      "url": "https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA"
+    },
+    {
+      "album": {
+        "name": "Daniel, o Profeta",
+        "url": "https://open.spotify.com/album/6AfVvz0xDRmWlKMGF0McxK"
+      },
+      "artists": [
+        {
+          "name": "Projeto Vida Nova de Iraj\u00e1",
+          "url": "https://open.spotify.com/artist/0ZmABAt0Sl0CzkOqnmoMMP"
+        },
+        {
+          "name": "Tati Teixeira Campos",
+          "url": "https://open.spotify.com/artist/2TQJSBWhqZjuGRieOyBCAM"
+        },
+        {
+          "name": "Diego Campos",
+          "url": "https://open.spotify.com/artist/0cvBXvjdFZSN9RfAOk0wTC"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 232873,
+      "name": "Daniel, o Profeta",
+      "url": "https://open.spotify.com/track/5C0j4okqm1pd9CBVXmJBZ5"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 3",
+        "url": "https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173267,
+      "name": "Dan\u00e7a do Canguru",
+      "url": "https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia",
+        "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Dan\u00e7a do Pinguim",
+      "url": "https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq"
+    },
+    {
+      "album": {
+        "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
+        "url": "https://open.spotify.com/album/00V7yrHCIin1VafIHtkpKE"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 205400,
+      "name": "Deixa a Gl\u00f3ria de Deus Brilhar",
+      "url": "https://open.spotify.com/track/18tzWeX2isOaJA2KnITpDs"
+    },
+    {
+      "album": {
+        "name": "Destino ao C\u00e9u",
+        "url": "https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226628,
+      "name": "Destino ao C\u00e9u",
+      "url": "https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn"
+    },
+    {
+      "album": {
+        "name": "Deus Grand\u00e3o",
+        "url": "https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251147,
+      "name": "Deus Grand\u00e3o",
+      "url": "https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5"
+    },
+    {
+      "album": {
+        "name": "Mara Lima e Seus Amiguinhos, Vol. 5",
+        "url": "https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR"
+      },
+      "artists": [
+        {
+          "name": "Mara Lima",
+          "url": "https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197893,
+      "name": "Erguei as M\u00e3os",
+      "url": "https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK"
+    },
+    {
+      "album": {
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181458,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
+    },
+    {
+      "album": {
+        "name": "Eu Canto pra Jesus",
+        "url": "https://open.spotify.com/album/2WHmaYUFvRDjwnlm43omei"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 182910,
+      "name": "Eu Canto pra Jesus",
+      "url": "https://open.spotify.com/track/2xsZveD2EsMMjp7JbIVu3h"
+    },
+    {
+      "album": {
+        "name": "Eu Nasci",
+        "url": "https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214089,
+      "name": "Eu Nasci",
+      "url": "https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI"
+    },
+    {
+      "album": {
+        "name": "Eu Sou Um Cordeirinho",
+        "url": "https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162285,
+      "name": "Eu Sou Um Cordeirinho",
+      "url": "https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE"
+    },
+    {
+      "album": {
+        "name": "Fam\u00edlia Perfeita",
+        "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
+      },
+      "artists": [
+        {
+          "name": "\u00c1quila",
+          "url": "https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196270,
+      "name": "Fam\u00edlia Perfeita",
+      "url": "https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR"
+    },
+    {
+      "album": {
+        "name": "Festa das Cores",
+        "url": "https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206767,
+      "name": "Festa das Cores",
+      "url": "https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw"
+    },
+    {
+      "album": {
+        "name": "Galileia",
+        "url": "https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 157120,
+      "name": "Galileia",
+      "url": "https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0"
+    },
+    {
+      "album": {
+        "name": "Brincando de Escolinha",
+        "url": "https://open.spotify.com/album/28QrtBn35MNZOGsNMjUrja"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186224,
+      "name": "Hit da Formiguinha",
+      "url": "https://open.spotify.com/track/2jxOwM1YWNLdVtYKhHjY4r"
+    },
+    {
+      "album": {
+        "name": "Jesus Me Ama Tanto",
+        "url": "https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc"
+      },
+      "artists": [
+        {
+          "name": "Arieta Magrini",
+          "url": "https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5"
+        },
+        {
+          "name": "Metodista Kids",
+          "url": "https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236683,
+      "name": "Jesus Me Ama Tanto",
+      "url": "https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX"
+    },
+    {
+      "album": {
+        "name": "Medley Crian\u00e7as Diante do Trono (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2F0dpBrgay5e2ikGnyBbpj"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338635,
+      "name": "Medley Crian\u00e7as DT Toin Toin - Ao Vivo",
+      "url": "https://open.spotify.com/track/26XndRd8wqjXghY0rTIWd1"
+    },
+    {
+      "album": {
+        "name": "Medley das Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        },
+        {
+          "name": "Galo Jac\u00f3",
+          "url": "https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Medley das Crian\u00e7as",
+      "url": "https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ"
+    },
+    {
+      "album": {
+        "name": "Meu Amig\u00e3o do Peito",
+        "url": "https://open.spotify.com/album/1CUbAbluxubTfpGKXg5BgA"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 232960,
+      "name": "Meu Amig\u00e3o do Peito",
+      "url": "https://open.spotify.com/track/7kpsitoqNZGXXvxUtFg4Qj"
+    },
+    {
+      "album": {
+        "name": "Meu Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137826,
+      "name": "Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG"
+    },
+    {
+      "album": {
+        "name": "Minha Pequena Luz",
+        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122626,
+      "name": "Minha Pequena Luz",
+      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
+    },
+    {
+      "album": {
+        "name": "Na Trilha da Cria\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7L2eWc0MQm3Da6L80gd6jW"
+      },
+      "artists": [
+        {
+          "name": "Margem Norte Kids",
+          "url": "https://open.spotify.com/artist/7MqM27ki9IN3dGwGttHIYa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 158282,
+      "name": "Na Trilha da Cria\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 5",
+        "url": "https://open.spotify.com/album/2DCbdwhK6SoBW9XawSSrbK"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 185585,
+      "name": "N\u00e3o Temos Medo do Fogo",
+      "url": "https://open.spotify.com/track/3tnh93byTIcpyhZYsLN93O"
+    },
+    {
+      "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+    },
+    {
+      "album": {
+        "name": "O Sab\u00e3o (Deluxe)",
+        "url": "https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142697,
+      "name": "O Sab\u00e3o - Deluxe",
+      "url": "https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L"
+    },
+    {
+      "album": {
+        "name": "Comigo Sonhou",
+        "url": "https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV"
+      },
+      "artists": [
+        {
+          "name": "Louvor Videira Kids",
+          "url": "https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 187586,
+      "name": "Obra do Criador - Ao Vivo",
+      "url": "https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw"
+    },
+    {
+      "album": {
+        "name": "Oceanos",
+        "url": "https://open.spotify.com/album/3FleqT33sYIhpOTkWYKbsM"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 234893,
+      "name": "Oceanos",
+      "url": "https://open.spotify.com/track/1IAuelibP1msP0p6ztsLpV"
+    },
+    {
+      "album": {
+        "name": "Oceanos",
+        "url": "https://open.spotify.com/album/3vt5PFQ9JUQbeL7AnfsK2j"
+      },
+      "artists": [
+        {
+          "name": "Rayne Almeida",
+          "url": "https://open.spotify.com/artist/2WtIzFKxQniqeliHt4vIVj"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 234893,
+      "name": "Oceanos",
+      "url": "https://open.spotify.com/track/2Ehjl2vMGZhWsNwRco3hMu"
+    },
+    {
+      "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "album": {
+        "name": "3 Palavrinhas, Vol. 3",
+        "url": "https://open.spotify.com/album/4Aw3KlIumWtvdpamB7DMsU"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117613,
+      "name": "Por Dentro, Fora, Alto, Embaixo",
+      "url": "https://open.spotify.com/track/5zuOwjPMZkCfzTa9mE8I87"
+    },
+    {
+      "album": {
+        "name": "Sou Livre",
+        "url": "https://open.spotify.com/album/2Wgno6YhkdyXyfhDo1MH7M"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Nemer",
+          "url": "https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252720,
+      "name": "Poror\u00f3",
+      "url": "https://open.spotify.com/track/44FbIn8MPPGj7jjDFLhXIr"
+    },
+    {
+      "album": {
+        "name": "Quem Ama os Animais: Yasminzinha",
+        "url": "https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Verissimo",
+          "url": "https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138240,
+      "name": "Quem Ama os Animais: Yasminzinha",
+      "url": "https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn"
+    },
+    {
+      "album": {
+        "name": "Reluz",
+        "url": "https://open.spotify.com/album/4Oolk7dVn9F9EfQoomK1w8"
+      },
+      "artists": [
+        {
+          "name": "Mara Maravilha",
+          "url": "https://open.spotify.com/artist/2vEZbLLAKRqzoiTR9aupGu"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226486,
+      "name": "Rei Davi",
+      "url": "https://open.spotify.com/track/4v1Yf5GPWOAgOk67CSU0dP"
+    },
+    {
+      "album": {
+        "name": "Rock da Arca",
+        "url": "https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Benigno",
+          "url": "https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202586,
+      "name": "Rock da Arca",
+      "url": "https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW"
+    },
+    {
+      "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186967,
+      "name": "Sapo Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
+    },
+    {
+      "album": {
+        "name": "Satisfa\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137103,
+      "name": "Satisfa\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE"
+    },
+    {
+      "album": {
+        "name": "Se Tiveres F\u00e9",
+        "url": "https://open.spotify.com/album/0fWX2FbGnRFsR1YxiWQtsv"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Mariah Santos",
+          "url": "https://open.spotify.com/artist/1E7bSnpcGC4KgCF52NEuRz"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 244850,
+      "name": "Se Tiveres F\u00e9",
+      "url": "https://open.spotify.com/track/0oVkVpb179YlBZponywS0O"
+    },
+    {
+      "album": {
+        "name": "ImaginAline",
+        "url": "https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276321,
+      "name": "Sr. Ant\u00f4nimo",
+      "url": "https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r"
+    },
+    {
+      "album": {
+        "name": "Tesouro",
+        "url": "https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v"
+      },
+      "artists": [
+        {
+          "name": "Vaneyse",
+          "url": "https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205403,
+      "name": "Tesouro",
+      "url": "https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF"
+    },
+    {
+      "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk"
+      },
+      "artists": [
+        {
+          "name": "Talitha Franco",
+          "url": "https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188061,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx"
+    },
+    {
+      "album": {
+        "name": "Toc Toc Toc - Baby Fun (Remix)",
+        "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137639,
+      "name": "Toc Toc Toc - Baby Fun - Remix",
+      "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
+    },
+    {
+      "album": {
+        "name": "Minha Vida \u00c9 uma Viagem 4",
+        "url": "https://open.spotify.com/album/0TOnCsiORdMr35eFNYYA6s"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        },
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 197731,
+      "name": "Todo Olho o Ver\u00e1",
+      "url": "https://open.spotify.com/track/5ObzGyGLgiOhAv0etKoboF"
+    },
+    {
+      "album": {
+        "name": "Tudo Vai Terminar Bem",
+        "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
+      },
+      "artists": [
+        {
+          "name": "Minha Vida \u00e9 Uma Viagem",
+          "url": "https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225735,
+      "name": "Tudo Vai Terminar Bem",
+      "url": "https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP"
+    },
+    {
+      "album": {
+        "name": "Spoleta",
+        "url": "https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro"
+      },
+      "artists": [
+        {
+          "name": "Spoleta",
+          "url": "https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci"
+        },
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86883,
+      "name": "T\u00e3o Pequeno",
+      "url": "https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc"
+    },
+    {
+      "album": {
+        "name": "Verdadeiro Amor",
+        "url": "https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH"
+      },
+      "artists": [
+        {
+          "name": "Bunek\u00e3o de Jesus",
+          "url": "https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2"
+        },
+        {
+          "name": "Ol\u00edvia Teles",
+          "url": "https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ"
+        }
+      ],
+      "date_added": "2022-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211312,
+      "name": "Verdadeiro Amor",
+      "url": "https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX52rW82P8TUE"
 }

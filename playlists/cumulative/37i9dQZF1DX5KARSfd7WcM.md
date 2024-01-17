@@ -4,7 +4,7 @@
 
 > Show the world what love is made of\. Listen to the music from Heartstopper, new season now streaming on Netflix.
 
-96 songs - 5 hr 22 min
+97 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [seven](https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:28 | 2023-08-02 |  |
 | [Shatter](https://open.spotify.com/track/4MP5tSTc6LxY8xhrUOv9Ya) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 3:40 | 2023-08-02 |  |
 | [Skin](https://open.spotify.com/track/6EA4yBY5CRQavs6c92nNDA) | [Carmody](https://open.spotify.com/artist/4wdK3zLMWPQK6CD0dpHh8F) | [Skin](https://open.spotify.com/album/138yytSu0OqwpsNUw7Aafg) | 4:01 | 2023-08-02 |  |
-| [Smokey Eyes](https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 3:15 | 2022-05-02 |  |
+| [Smokey Eyes](https://open.spotify.com/track/0VeJZDfCOxBFSmocsNIBei) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/3a3XFNgXZLHSuUXORJgvmV) | 3:15 | 2022-05-02 |  |
+| [Smokey Eyes](https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo) | [Lincoln](https://open.spotify.com/artist/6RcxmUOBnyAQr2rRsNfQI5) | [A Constant State of Ohio](https://open.spotify.com/album/6vEyxIuSDfiR0qIfK7F167) | 3:15 | 2022-05-02 | 2024-01-13 |
 | [T + E](https://open.spotify.com/track/2GVKVUUkLl2iwBOpnjnhED) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5uQK8mAEhFxwsmV2tHIQiE) | 2:29 | 2023-08-02 |  |
 | [Telephone](https://open.spotify.com/track/4VgdhAy0DBSF5hbbKzTEdS) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:33 | 2022-05-02 |  |
 | [Telling People](https://open.spotify.com/track/4KUMH8xV63A14ii1wTeNqx) | [Adiescar Chase](https://open.spotify.com/artist/1oI96ZlUXDKA3KCVPJRVYk) | [Heartstopper: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5uQK8mAEhFxwsmV2tHIQiE) | 1:43 | 2023-08-02 |  |

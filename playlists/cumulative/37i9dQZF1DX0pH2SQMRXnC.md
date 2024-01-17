@@ -4,7 +4,7 @@
 
 > Only the biggest Hardstyle tracks!
 
-662 songs - 1 day 14 hr 17 min
+663 songs - 1 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,6 +267,7 @@
 | [Hit 'Em](https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk) | [Refract](https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm) | [Hit 'Em](https://open.spotify.com/album/5pZ7OHl8T2iycRLdBTwMvR) | 3:00 | 2021-12-16 | 2022-10-05 |
 | [Home](https://open.spotify.com/track/57nbwxwiq9szIHvdnaikKo) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Dougal](https://open.spotify.com/artist/4Dn8TwLoOeWtznIg0LLWFL), [Jacob Wellfair](https://open.spotify.com/artist/3ltleRPN7qd0CQ3rNVMW2V) | [Home](https://open.spotify.com/album/5md4CGNUmLhLhtHYrJCbHA) | 4:14 | 2022-03-24 | 2023-06-30 |
 | [Home](https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy) | [Home](https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i) | 3:54 | 2021-12-16 |  |
+| [HOOYAH](https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [HOOYAH](https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw) | 1:44 | 2024-01-11 |  |
 | [Horrorshow](https://open.spotify.com/track/7j3yHIUcCQzuQv3fiQp4BN) | [Killshot](https://open.spotify.com/artist/2m5uCiZcpQ50tXsJrThFoM) | [Horrorshow](https://open.spotify.com/album/1Dv5tHT8KndXXPwubxunDS) | 3:25 | 2022-05-23 | 2022-05-30 |
 | [Human Error](https://open.spotify.com/track/2GELXkWZuBBSfpztDWC1qP) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [Danimal](https://open.spotify.com/artist/6SQ1RYZmxJGxii56ou9RQj), [Influencerz](https://open.spotify.com/artist/163A7vg111FgP21NQSD6dN) | [Human Error](https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5) | 2:22 | 2023-02-23 |  |
 | [Hunters Lullaby 2020](https://open.spotify.com/track/0ZvKkulRYWDCheU3Wb9yFY) | [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic) | [Hunters Lullaby 2020](https://open.spotify.com/album/3Zx1ups2lvkCmbX7kiccFv) | 2:53 | 2022-07-22 |  |
@@ -402,7 +403,7 @@
 | [No Guts No Glory \(Defqon.1 Anthem 2015\) \- Edit Version](https://open.spotify.com/track/5niWktDYrgqE6FbStUkeDS) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [Skits Vicious](https://open.spotify.com/artist/6wagDejDLL6ujxepmXcj9m) | [No Guts No Glory \(Defqon.1 Anthem 2015\)](https://open.spotify.com/album/7qCywPCmgkThjMMuvJXWfJ) | 5:58 | 2022-06-12 | 2022-06-27 |
 | [No No No](https://open.spotify.com/track/0vgyr6vnAEJQhlmkPVuoOE) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [No No No](https://open.spotify.com/album/48gjcJd24Bp7tZ2QChRZzp) | 2:48 | 2021-12-16 | 2022-07-29 |
 | [No One Can Stop Us Now](https://open.spotify.com/track/5YjqaxkS4NLVlzMQVFjez8) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Wildstylez](https://open.spotify.com/artist/0wr85NuJuAYZsRzP1lJgiV), [Noisecontrollers](https://open.spotify.com/artist/6qJ61DomA73g7jQEKESw9Z) | [The Return Of Headhunterz](https://open.spotify.com/album/6cPSD583Rf7B8ZoIZ2bbEH) | 3:49 | 2022-03-24 | 2022-06-06 |
-| [No Paradise](https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [No Paradise](https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9) | 4:01 | 2021-12-16 |  |
+| [No Paradise](https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [No Paradise](https://open.spotify.com/album/6hq96WXyeVwi6UpYMaATa9) | 4:01 | 2021-12-16 | 2024-01-12 |
 | [No Reality](https://open.spotify.com/track/7yUiYmIPh1UtRxfbrvFYxq) | [Stormerz](https://open.spotify.com/artist/4FSHCrSzZlOrwOMmEInVwf) | [No Reality](https://open.spotify.com/album/5Bz2trhpTom60ByTi9HlqT) | 3:05 | 2022-03-24 | 2022-04-21 |
 | [No Regret](https://open.spotify.com/track/5sfsiONdOGcThDKPugDl5S) | [Dillytek](https://open.spotify.com/artist/7jyPELo8anRil0femQikVJ) | [No Regret](https://open.spotify.com/album/30xRgPea8hF3U166uEQIi9) | 4:05 | 2022-03-24 | 2022-04-21 |
 | [No Sleep](https://open.spotify.com/track/6le1LT9NtaUlQ22aITOM7g) | [Vertile](https://open.spotify.com/artist/2CREMC4YATn7Bx9ZQku6IH) | [No Sleep](https://open.spotify.com/album/6dwJj2ANDzjJLsAXF4Govc) | 3:47 | 2023-01-27 | 2023-03-18 |

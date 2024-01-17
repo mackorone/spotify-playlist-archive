@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
+    },
+    {
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -1200,7 +1218,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 204920,
       "name": "No Sales de Mi Mente (feat. Nicky Jam)",
       "url": "https://open.spotify.com/track/2suE76uvhA05ks3YbvwRGT"
@@ -1778,7 +1796,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 168720,
       "name": "Vamos Hacerlo",
       "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"

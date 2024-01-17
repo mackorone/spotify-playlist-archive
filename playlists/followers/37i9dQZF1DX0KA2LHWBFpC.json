@@ -1,458 +1,1407 @@
 {
-  "2022-10-01": 3701,
-  "2022-10-02": 6324,
-  "2022-10-03": 8355,
-  "2022-10-04": 9132,
-  "2022-10-05": 9644,
-  "2022-10-06": 10327,
-  "2022-10-07": 10924,
-  "2022-10-08": 11338,
-  "2022-10-09": 12292,
-  "2022-10-10": 12368,
-  "2022-10-11": 12892,
-  "2022-10-12": 13260,
-  "2022-10-13": 13663,
-  "2022-10-14": 14078,
-  "2022-10-15": 14431,
-  "2022-10-16": 14876,
-  "2022-10-17": 15293,
-  "2022-10-18": 15631,
-  "2022-10-19": 15939,
-  "2022-10-20": 16259,
-  "2022-10-21": 16578,
-  "2022-10-22": 16921,
-  "2022-10-23": 17280,
-  "2022-10-24": 17730,
-  "2022-10-25": 18071,
-  "2022-10-26": 18437,
-  "2022-10-27": 18777,
-  "2022-10-28": 19244,
-  "2022-10-29": 20086,
-  "2022-10-30": 20888,
-  "2022-10-31": 21614,
-  "2022-11-01": 22158,
-  "2022-11-02": 23049,
-  "2022-11-03": 23704,
-  "2022-11-04": 24369,
-  "2022-11-05": 24885,
-  "2022-11-06": 25375,
-  "2022-11-07": 26039,
-  "2022-11-08": 26596,
-  "2022-11-09": 27135,
-  "2022-11-10": 27655,
-  "2022-11-11": 28361,
-  "2022-11-12": 33999,
-  "2022-11-13": 36928,
-  "2022-11-14": 39980,
-  "2022-11-15": 41717,
-  "2022-11-16": 43163,
-  "2022-11-17": 44468,
-  "2022-11-18": 45260,
-  "2022-11-19": 45041,
-  "2022-11-20": 46335,
-  "2022-11-21": 46045,
-  "2022-11-22": 49162,
-  "2022-11-23": 49012,
-  "2022-11-24": 51460,
-  "2022-11-25": 52794,
-  "2022-11-26": 53369,
-  "2022-11-27": 54373,
-  "2022-11-28": 55194,
-  "2022-11-29": 55729,
-  "2022-11-30": 56307,
-  "2022-12-01": 56831,
-  "2022-12-02": 57111,
-  "2022-12-03": 57800,
-  "2022-12-04": 58364,
-  "2022-12-05": 59036,
-  "2022-12-06": 59507,
-  "2022-12-07": 59958,
-  "2022-12-08": 60426,
-  "2022-12-09": 60820,
-  "2022-12-10": 61203,
-  "2022-12-11": 61624,
-  "2022-12-12": 62075,
-  "2022-12-13": 62484,
-  "2022-12-14": 62873,
-  "2022-12-15": 63334,
-  "2022-12-16": 63685,
-  "2022-12-17": 64021,
-  "2022-12-18": 64472,
-  "2022-12-19": 64830,
-  "2022-12-20": 65466,
-  "2022-12-21": 65466,
-  "2022-12-22": 65747,
-  "2022-12-24": 66305,
-  "2022-12-25": 66610,
-  "2022-12-26": 66990,
-  "2022-12-27": 67400,
-  "2022-12-28": 67743,
-  "2022-12-29": 68170,
-  "2022-12-30": 68572,
-  "2022-12-31": 68926,
-  "2023-01-01": 69298,
-  "2023-01-02": 69640,
-  "2023-01-03": 70018,
-  "2023-01-04": 70325,
-  "2023-01-05": 70596,
-  "2023-01-06": 70891,
-  "2023-01-07": 71313,
-  "2023-01-08": 71339,
-  "2023-01-09": 71625,
-  "2023-01-10": 71900,
-  "2023-01-11": 72137,
-  "2023-01-12": 72376,
-  "2023-01-13": 72602,
-  "2023-01-14": 73002,
-  "2023-01-15": 73046,
-  "2023-01-16": 73294,
-  "2023-01-17": 73516,
-  "2023-01-18": 73699,
-  "2023-01-19": 73914,
-  "2023-01-20": 74131,
-  "2023-01-21": 74323,
-  "2023-01-22": 74574,
-  "2023-01-23": 74817,
-  "2023-01-24": 74985,
-  "2023-01-25": 75174,
-  "2023-01-26": 75341,
-  "2023-01-27": 75504,
-  "2023-01-28": 75719,
-  "2023-01-29": 75961,
-  "2023-01-30": 76201,
-  "2023-01-31": 76201,
-  "2023-02-01": 76572,
-  "2023-02-02": 76765,
-  "2023-02-03": 76955,
-  "2023-02-04": 77140,
-  "2023-02-05": 77330,
-  "2023-02-06": 77541,
-  "2023-02-07": 77716,
-  "2023-02-08": 78029,
-  "2023-02-09": 78029,
-  "2023-02-10": 78185,
-  "2023-02-11": 78374,
-  "2023-02-12": 78788,
-  "2023-02-13": 78981,
-  "2023-02-14": 78981,
-  "2023-02-15": 79179,
-  "2023-02-16": 79387,
-  "2023-02-17": 79569,
-  "2023-02-18": 80008,
-  "2023-02-19": 80063,
-  "2023-02-20": 80217,
-  "2023-02-21": 80398,
-  "2023-02-22": 80569,
-  "2023-02-23": 80769,
-  "2023-02-24": 80997,
-  "2023-02-25": 81303,
-  "2023-02-26": 81468,
-  "2023-02-27": 81927,
-  "2023-02-28": 81927,
-  "2023-03-01": 82154,
-  "2023-03-02": 82360,
-  "2023-03-03": 82643,
-  "2023-03-04": 82913,
-  "2023-03-05": 83686,
-  "2023-03-06": 83686,
-  "2023-03-07": 84007,
-  "2023-03-08": 84292,
-  "2023-03-09": 85145,
-  "2023-03-10": 86196,
-  "2023-03-11": 87429,
-  "2023-03-12": 89636,
-  "2023-03-13": 91909,
-  "2023-03-14": 93494,
-  "2023-03-15": 95051,
-  "2023-03-16": 96334,
-  "2023-03-17": 96334,
-  "2023-03-18": 98761,
-  "2023-03-19": 100208,
-  "2023-03-20": 101753,
-  "2023-03-21": 102829,
-  "2023-03-22": 103869,
-  "2023-03-23": 104741,
-  "2023-03-24": 104741,
-  "2023-03-25": 106512,
-  "2023-03-26": 108410,
-  "2023-03-27": 110665,
-  "2023-03-28": 112171,
-  "2023-03-29": 113245,
-  "2023-03-30": 114401,
-  "2023-03-31": 114401,
-  "2023-04-01": 115009,
-  "2023-04-02": 115619,
-  "2023-04-03": 116311,
-  "2023-04-04": 116876,
-  "2023-04-05": 117436,
-  "2023-04-06": 117965,
-  "2023-04-07": 118460,
-  "2023-04-09": 119503,
-  "2023-04-10": 120016,
-  "2023-04-11": 121162,
-  "2023-04-12": 121162,
-  "2023-04-13": 121767,
-  "2023-04-14": 122655,
-  "2023-04-15": 124104,
-  "2023-04-16": 128404,
-  "2023-04-17": 131981,
-  "2023-04-18": 134797,
-  "2023-04-19": 136465,
-  "2023-04-20": 137678,
-  "2023-04-21": 138815,
-  "2023-04-22": 140562,
-  "2023-04-23": 144012,
-  "2023-04-24": 148144,
-  "2023-04-25": 150846,
-  "2023-04-26": 151845,
-  "2023-04-27": 152850,
-  "2023-04-28": 153678,
-  "2023-04-29": 154442,
-  "2023-04-30": 155374,
-  "2023-05-01": 156333,
-  "2023-05-02": 157241,
-  "2023-05-03": 158046,
-  "2023-05-04": 158697,
-  "2023-05-05": 159313,
-  "2023-05-06": 159883,
-  "2023-05-07": 160426,
-  "2023-05-08": 161030,
-  "2023-05-09": 161611,
-  "2023-05-10": 162114,
-  "2023-05-11": 162578,
-  "2023-05-12": 163053,
-  "2023-05-13": 163532,
-  "2023-05-14": 164085,
-  "2023-05-15": 164646,
-  "2023-05-16": 165106,
-  "2023-05-17": 165531,
-  "2023-05-18": 165964,
-  "2023-05-19": 166451,
-  "2023-05-20": 167349,
-  "2023-05-21": 167349,
-  "2023-05-22": 167349,
-  "2023-05-23": 168262,
-  "2023-05-24": 168935,
-  "2023-05-25": 169018,
-  "2023-05-26": 169390,
-  "2023-05-27": 169799,
-  "2023-05-28": 170205,
-  "2023-05-29": 170205,
-  "2023-05-30": 170962,
-  "2023-05-31": 171348,
-  "2023-06-01": 171716,
-  "2023-06-02": 172003,
-  "2023-06-03": 172346,
-  "2023-06-04": 172690,
-  "2023-06-05": 173046,
-  "2023-06-06": 173354,
-  "2023-06-07": 173659,
-  "2023-06-08": 173958,
-  "2023-06-09": 174265,
-  "2023-06-10": 174531,
-  "2023-06-11": 174833,
-  "2023-06-12": 175189,
-  "2023-06-13": 175485,
-  "2023-06-14": 175748,
-  "2023-06-15": 175991,
-  "2023-06-16": 176288,
-  "2023-06-17": 176576,
-  "2023-06-18": 176859,
-  "2023-06-19": 177157,
-  "2023-06-20": 177396,
-  "2023-06-21": 177664,
-  "2023-06-22": 177960,
-  "2023-06-23": 178230,
-  "2023-06-24": 178462,
-  "2023-06-25": 178729,
-  "2023-06-26": 178966,
-  "2023-06-27": 179150,
-  "2023-06-28": 179338,
-  "2023-06-29": 179552,
-  "2023-06-30": 179783,
-  "2023-07-01": 180217,
-  "2023-07-02": 180217,
-  "2023-07-03": 180418,
-  "2023-07-04": 180610,
-  "2023-07-05": 180829,
-  "2023-07-06": 181289,
-  "2023-07-07": 181289,
-  "2023-07-08": 181500,
-  "2023-07-09": 181724,
-  "2023-07-10": 181949,
-  "2023-07-11": 182113,
-  "2023-07-12": 182350,
-  "2023-07-13": 182575,
-  "2023-07-14": 182775,
-  "2023-07-15": 182975,
-  "2023-07-16": 183241,
-  "2023-07-17": 183453,
-  "2023-07-18": 183668,
-  "2023-07-19": 183911,
-  "2023-07-20": 184137,
-  "2023-07-21": 184345,
-  "2023-07-22": 184554,
-  "2023-07-23": 184767,
-  "2023-07-24": 184999,
-  "2023-07-25": 185207,
-  "2023-07-26": 185428,
-  "2023-07-27": 185664,
-  "2023-07-28": 185838,
-  "2023-07-29": 186053,
-  "2023-07-30": 186287,
-  "2023-07-31": 186524,
-  "2023-08-01": 186733,
-  "2023-08-02": 186915,
-  "2023-08-03": 187102,
-  "2023-08-04": 187320,
-  "2023-08-05": 187493,
-  "2023-08-06": 187953,
-  "2023-08-07": 187953,
-  "2023-08-08": 188164,
-  "2023-08-09": 188327,
-  "2023-08-10": 188477,
-  "2023-08-11": 188628,
-  "2023-08-12": 188814,
-  "2023-08-13": 188976,
-  "2023-08-14": 189165,
-  "2023-08-15": 189454,
-  "2023-08-16": 189454,
-  "2023-08-17": 189597,
-  "2023-08-18": 189723,
-  "2023-08-19": 189857,
-  "2023-08-20": 189985,
-  "2023-08-21": 190128,
-  "2023-08-22": 190270,
-  "2023-08-23": 190382,
-  "2023-08-24": 190507,
-  "2023-08-25": 190650,
-  "2023-08-26": 190805,
-  "2023-08-27": 190960,
-  "2023-08-28": 191121,
-  "2023-08-29": 191250,
-  "2023-08-30": 191382,
-  "2023-08-31": 191512,
-  "2023-09-01": 191699,
-  "2023-09-02": 191699,
-  "2023-09-03": 191793,
-  "2023-09-04": 191896,
-  "2023-09-05": 191996,
-  "2023-09-06": 192094,
-  "2023-09-07": 192187,
-  "2023-09-08": 192296,
-  "2023-09-09": 192376,
-  "2023-09-10": 192479,
-  "2023-09-11": 192567,
-  "2023-09-12": 192626,
-  "2023-09-13": 192724,
-  "2023-09-14": 192790,
-  "2023-09-15": 192876,
-  "2023-09-16": 192978,
-  "2023-09-17": 193050,
-  "2023-09-18": 193168,
-  "2023-09-19": 193237,
-  "2023-09-20": 193290,
-  "2023-09-21": 193394,
-  "2023-09-22": 193468,
-  "2023-09-23": 193554,
-  "2023-09-24": 193640,
-  "2023-09-25": 193756,
-  "2023-09-26": 193848,
-  "2023-09-27": 193928,
-  "2023-09-28": 194006,
-  "2023-09-29": 194095,
-  "2023-09-30": 194207,
-  "2023-10-01": 194293,
-  "2023-10-02": 194377,
-  "2023-10-03": 194481,
-  "2023-10-04": 194548,
-  "2023-10-05": 194617,
-  "2023-10-06": 194692,
-  "2023-10-07": 194779,
-  "2023-10-08": 194881,
-  "2023-10-09": 194977,
-  "2023-10-10": 195057,
-  "2023-10-11": 195186,
-  "2023-10-12": 195186,
-  "2023-10-13": 195246,
-  "2023-10-14": 195321,
-  "2023-10-15": 195384,
-  "2023-10-16": 195428,
-  "2023-10-17": 195490,
-  "2023-10-18": 195535,
-  "2023-10-19": 195590,
-  "2023-10-20": 195648,
-  "2023-10-21": 195691,
-  "2023-10-22": 195748,
-  "2023-10-23": 195835,
-  "2023-10-24": 195883,
-  "2023-10-25": 195942,
-  "2023-10-26": 195998,
-  "2023-10-27": 196053,
-  "2023-10-28": 196117,
-  "2023-10-29": 196179,
-  "2023-10-30": 196273,
-  "2023-10-31": 196273,
-  "2023-11-01": 196326,
-  "2023-11-02": 196383,
-  "2023-11-03": 196429,
-  "2023-11-04": 196479,
-  "2023-11-05": 196512,
-  "2023-11-06": 196588,
-  "2023-11-07": 196643,
-  "2023-11-08": 196692,
-  "2023-11-09": 196740,
-  "2023-11-10": 196807,
-  "2023-11-11": 196876,
-  "2023-11-12": 196953,
-  "2023-11-13": 197008,
-  "2023-11-14": 197043,
-  "2023-11-15": 197043,
-  "2023-11-16": 197155,
-  "2023-11-17": 197237,
-  "2023-11-18": 197237,
-  "2023-11-19": 197303,
-  "2023-11-20": 197361,
-  "2023-11-21": 197413,
-  "2023-11-22": 197473,
-  "2023-11-23": 197520,
-  "2023-11-24": 197573,
-  "2023-11-25": 197612,
-  "2023-11-26": 197662,
-  "2023-11-27": 197704,
-  "2023-11-28": 197733,
-  "2023-11-29": 197794,
-  "2023-11-30": 197794,
-  "2023-12-01": 197843,
-  "2023-12-02": 197847,
-  "2023-12-03": 197873,
-  "2023-12-04": 197932,
-  "2023-12-05": 197973,
-  "2023-12-06": 198023,
-  "2023-12-07": 198066,
-  "2023-12-08": 198116,
-  "2023-12-09": 198173,
-  "2023-12-10": 198235,
-  "2023-12-11": 198283,
-  "2023-12-12": 198353,
-  "2023-12-13": 198406,
-  "2023-12-14": 198479,
-  "2023-12-15": 198496,
-  "2023-12-16": 198539,
-  "2023-12-17": 198586,
-  "2023-12-18": 198648,
-  "2023-12-19": 198704,
-  "2023-12-20": 198728,
-  "2023-12-21": 198759,
-  "2023-12-22": 198794,
-  "2023-12-23": 198836,
-  "2023-12-24": 198878,
-  "2023-12-25": 198913,
-  "2023-12-26": 198959,
-  "2023-12-27": 199012,
-  "2023-12-30": 199162,
-  "2023-12-31": 199192,
-  "2024-01-01": 199219,
-  "2024-01-02": 199267,
-  "2024-01-03": 199295
+  "2024-01-17": 199846,
+  "date_first_scraped": "2022-10-01",
+  "description": "Collection of the greatest songs from Makoto Shinkai's movies, including the latest movie, <a href=\"https://suzume-tojimari-movie.jp/\">\"Suzume\"</a>.   2022 \"Suzume\" Film Partners\n\n",
+  "name": "\"Suzume\" & Songs from Makoto Shinkai's Movies (~2022)",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u6620\u753b \u8a00\u306e\u8449\u306e\u5ead Original Soundtracks",
+        "url": "https://open.spotify.com/album/4w0CCXT5BAXCVkpzEqWBlz"
+      },
+      "artists": [
+        {
+          "name": "KASHIWA Daisuke",
+          "url": "https://open.spotify.com/artist/5sGsy5o8hBSMmDUFTC5Q2P"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50480,
+      "name": "A Rainy Morning ~Main Title~",
+      "url": "https://open.spotify.com/track/3EWzWVQjIg8ndlfyYDNoIs"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        },
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237933,
+      "name": "Abandoned Resort",
+      "url": "https://open.spotify.com/track/3N8thLimHT9gKmmJHiROyD"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "Abandoned School",
+      "url": "https://open.spotify.com/track/3m5V72fX8VNquONB7ZbKdB"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103853,
+      "name": "Aftermath",
+      "url": "https://open.spotify.com/track/5W7XShf7rQwwsmg5Tfi1QG"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113266,
+      "name": "At Night in Ferry",
+      "url": "https://open.spotify.com/track/641hc9TYd8HoFMIOWCniMb"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135733,
+      "name": "Cat Chase",
+      "url": "https://open.spotify.com/track/7gXXJ5dDfswRXGg19q3N6h"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93160,
+      "name": "Cat me if you can",
+      "url": "https://open.spotify.com/track/1p1ply1f30t0Eks37fVCAt"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Celebration (Movie Edit) [feat. Toko Miura]",
+      "url": "https://open.spotify.com/track/2AmRjWxvLxJK3DjCYNruLI"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232053,
+      "name": "Closing the Door",
+      "url": "https://open.spotify.com/track/10Kx38QA6D80owewvAmfDC"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102760,
+      "name": "Double Riding",
+      "url": "https://open.spotify.com/track/5Devw3qzris9cc7vbk4MBy"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131666,
+      "name": "Dream lantern",
+      "url": "https://open.spotify.com/track/5mEqD00bdFcsiVd0MfvEeF"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        },
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291146,
+      "name": "Dreaming on Ferris Wheel",
+      "url": "https://open.spotify.com/track/0dJdBAvUj33ipKvgSRyf84"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "Fireworks Festival",
+      "url": "https://open.spotify.com/track/1IISJrJingJVC2JItzHG67"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84893,
+      "name": "First Aid",
+      "url": "https://open.spotify.com/track/1dgGQZhEOxiQw2Wn0REjAa"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79786,
+      "name": "First Part Time Job As Sunshine Girl",
+      "url": "https://open.spotify.com/track/53I0J03P282PSumZukDHsX"
+    },
+    {
+      "album": {
+        "name": "Final Tour Budoukan Live",
+        "url": "https://open.spotify.com/album/1d15Or6YvXpD6EAlmKlJVY"
+      },
+      "artists": [
+        {
+          "name": "The Checkers",
+          "url": "https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-14",
+      "duration_ms": 267893,
+      "name": "Giza Giza Heart no Komoriuta",
+      "url": "https://open.spotify.com/track/6B9896DwhyX1IGdVgVNywP"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toko Miura",
+          "url": "https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188066,
+      "name": "Grand Escape (Movie Edit) [feat. Toko Miura]",
+      "url": "https://open.spotify.com/track/2cE5PbW9PhPmnyETXqH3VE"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u6620\u753b \u661f\u3092\u8ffd\u3046\u5b50\u3069\u3082 Original SoundTrack",
+        "url": "https://open.spotify.com/album/4gIx3Duk6wl9yOD45Bqfbq"
+      },
+      "artists": [
+        {
+          "name": "Anri Kumaki",
+          "url": "https://open.spotify.com/artist/03r5Qp1stBSmYxUSF7T7vc"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300413,
+      "name": "Hello Goodbye & Hello (For Movie)",
+      "url": "https://open.spotify.com/track/5CcOp5Xa3jLVyUmuTwJcwo"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86826,
+      "name": "History of Mimizu",
+      "url": "https://open.spotify.com/track/52get1japYJ9yHVHe3puSm"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137893,
+      "name": "Hitchhike",
+      "url": "https://open.spotify.com/track/64tLZ5caSy0ldRJD0S8aNC"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150653,
+      "name": "Is There Still Anything That Love Can Do? (Movie Edit)",
+      "url": "https://open.spotify.com/track/4iRat7YqKIWOwkXwDwoEZc"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111346,
+      "name": "It wasn't a dream",
+      "url": "https://open.spotify.com/track/0pDOZHDk9MUdaztwf0DI9H"
+    },
+    {
+      "album": {
+        "name": "KANATA HALUKA",
+        "url": "https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355706,
+      "name": "KANATA HALUKA",
+      "url": "https://open.spotify.com/track/4O6htogl2A9ycNLwc9dVK1"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Katawaredoki",
+      "url": "https://open.spotify.com/track/4WedBZTeFawYCBCgfj36iK"
+    },
+    {
+      "album": {
+        "name": "Your Name. (Deluxe Edition / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4msOF7XQKkdvBpvqmIONGW"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170026,
+      "name": "Katawaredoki",
+      "url": "https://open.spotify.com/track/5h56opjpFXqIpIXUBSf1AO"
+    },
+    {
+      "album": {
+        "name": "\u5f7c\u5973\u3068\u5f7c\u5973\u306e\u732b SOUNDTRACKS",
+        "url": "https://open.spotify.com/album/0IC4wHA2HkbqzZI6oxUcSJ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83859,
+      "name": "Main Theme",
+      "url": "https://open.spotify.com/track/2H1FBwAjqbTn8aEj65Xfd4"
+    },
+    {
+      "album": {
+        "name": "RADWIMPS\u304b\u3089\u306e\u30b9\u30da\u30b7\u30e3\u30eb\u30e1\u30c3\u30bb\u30fc\u30b8",
+        "url": "https://open.spotify.com/album/7xMIRQtJDr9uUSSZ9Q51mp"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-01",
+      "duration_ms": 19386,
+      "name": "Message from RADWIMPS",
+      "url": "https://open.spotify.com/track/3IgYT8fWwouE7ivOQ6hzl1"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344053,
+      "name": "Nandemonaiya - movie ver.",
+      "url": "https://open.spotify.com/track/7dEfa89dZfo6CQPdsgGCF6"
+    },
+    {
+      "album": {
+        "name": "One more time,One more chance",
+        "url": "https://open.spotify.com/album/7fjfM7dCDIjPRKK3QaUZ8Z"
+      },
+      "artists": [
+        {
+          "name": "Masayoshi Yamazaki",
+          "url": "https://open.spotify.com/artist/6gvedX0HcRQYMD5IhY8KKt"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330786,
+      "name": "One more time,One more chance",
+      "url": "https://open.spotify.com/track/3akr0ZrJxLMBLIFeNNKffW"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84520,
+      "name": "Posessed",
+      "url": "https://open.spotify.com/track/6TnD2TTGBGUlbZpqKh7uLF"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185013,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/53SK9XiSIysk4a4VEzibFT"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u30ce\u8449",
+        "url": "https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293040,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/0U32q8CZRRo7xCzyiaZw5f"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91840,
+      "name": "Shinkansen Super Express",
+      "url": "https://open.spotify.com/track/275Ek5CV7O2Fyd5NmYE9fo"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184386,
+      "name": "Significant Precursor",
+      "url": "https://open.spotify.com/track/0UxE9U8IiD2zvVolfgtHG2"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254933,
+      "name": "Sky Over Tokyo",
+      "url": "https://open.spotify.com/track/4IP1rM2sH1vwPVfPDLu4TI"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171786,
+      "name": "Soldier's Break",
+      "url": "https://open.spotify.com/track/2Z8XcBiUlGpku7bmocPFId"
+    },
+    {
+      "album": {
+        "name": "Yuki's Best",
+        "url": "https://open.spotify.com/album/6wo64DefvXuab2rWWZjEtf"
+      },
+      "artists": [
+        {
+          "name": "Yuki Saitou",
+          "url": "https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283713,
+      "name": "Sotsugyou",
+      "url": "https://open.spotify.com/track/60Oi2EFpU4u0tn94LCub1h"
+    },
+    {
+      "album": {
+        "name": "Sotsugyou",
+        "url": "https://open.spotify.com/album/3U7T5S8XjWbIcVkQR3jMFq"
+      },
+      "artists": [
+        {
+          "name": "Yuki Saitou",
+          "url": "https://open.spotify.com/artist/5ySccSThgufSUXyDQHnLae"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 285600,
+      "name": "Sotsugyou",
+      "url": "https://open.spotify.com/track/69Bi4gzneyGJ2NhgvxvteO"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537653,
+      "name": "Sparkle - movie ver.",
+      "url": "https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO"
+    },
+    {
+      "album": {
+        "name": "Suzume",
+        "url": "https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 236390,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        },
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329853,
+      "name": "Suzume's Departure",
+      "url": "https://open.spotify.com/track/68h654xntkez1ndKm1ZtNa"
+    },
+    {
+      "album": {
+        "name": "\u30da\u30f3\u30ae\u30f3\u30ba\u30fb\u30e1\u30e2\u30ea\u30fc\u300c\u5e78\u798f\u7269\u8a9e\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7bcgXOWD6gojVuI6joqEtJ"
+      },
+      "artists": [
+        {
+          "name": "Seiko Matsuda",
+          "url": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274826,
+      "name": "SWEET MEMORIES (Re-Mix Version)",
+      "url": "https://open.spotify.com/track/6UDky6rmQprD5seH60B8jY"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295293,
+      "name": "Tamaki",
+      "url": "https://open.spotify.com/track/1EywXLi9gbYeWA6JXjUh7W"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275653,
+      "name": "Tears of Suzume",
+      "url": "https://open.spotify.com/track/3KIo0vpEnqsjgO2Fqrf4l6"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62013,
+      "name": "The First Encounter",
+      "url": "https://open.spotify.com/track/55w1B7hDJPArtUNbiE4G1A"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        },
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68240,
+      "name": "The Other Side of the Door",
+      "url": "https://open.spotify.com/track/2136Q0VwS4YwfMwxdeqauf"
+    },
+    {
+      "album": {
+        "name": "\u300c\u307b\u3057\u306e\u3053\u3048\u300dSOUNDTRACK",
+        "url": "https://open.spotify.com/album/7aADsc9Vj2R8ckH6ULg7hf"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71028,
+      "name": "The voices of distant star ~PREVIEW~",
+      "url": "https://open.spotify.com/track/6oTgn5L290FDJfunuzRA3m"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41733,
+      "name": "Theme of \"Weathering With You\"",
+      "url": "https://open.spotify.com/track/2mlFkeGCkKcEYqp7MAdRlm"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246146,
+      "name": "Theme of Mitsuha",
+      "url": "https://open.spotify.com/track/66HNv8qd9jr7q5P9nNTOOZ"
+    },
+    {
+      "album": {
+        "name": "\u300c\u307b\u3057\u306e\u3053\u3048\u300dSOUNDTRACK",
+        "url": "https://open.spotify.com/album/5oTXx8twYo5f82j3tFEPzD"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/6UY0ZhbmOUWnNPmlDaQsjG"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217605,
+      "name": "THROUGH THE YEARS AND FAR AWAY(\u5287\u4e2dversion)",
+      "url": "https://open.spotify.com/track/0SCZSOB5XrOon6ZHP6eY18"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176800,
+      "name": "Time for two",
+      "url": "https://open.spotify.com/track/77rUlZga9O7BOUSoRVSEBQ"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143173,
+      "name": "To be with Sota",
+      "url": "https://open.spotify.com/track/3hICiYv3ttunfwawTUYu2O"
+    },
+    {
+      "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "Kazuma Jinnouchi",
+          "url": "https://open.spotify.com/artist/2UM9kTNJPoOHuN4yeDT54i"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82133,
+      "name": "Two Little Terrors",
+      "url": "https://open.spotify.com/track/2SgTIkeHOQIwuelex6JH51"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156746,
+      "name": "Unusual changes of two",
+      "url": "https://open.spotify.com/track/23wbvIPlLBO8Ef3kceOCYO"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157080,
+      "name": "Voice of Wind (Movie Edit)",
+      "url": "https://open.spotify.com/track/0L7TjIdcVQaDlX3nQbMdQC"
+    },
+    {
+      "album": {
+        "name": "Weathering With You",
+        "url": "https://open.spotify.com/album/2BcCxJ3EWhsd4IyN8XJA3q"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258373,
+      "name": "We'll Be Alright (Movie Edit)",
+      "url": "https://open.spotify.com/track/4toGhOrpjQfweDT9flB5iq"
+    },
+    {
+      "album": {
+        "name": "Your Name.",
+        "url": "https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285880,
+      "name": "Zenzenzense - movie ver.",
+      "url": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
+    },
+    {
+      "album": {
+        "name": "\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+        "url": "https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5"
+      },
+      "artists": [
+        {
+          "name": "\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
+          "url": "https://open.spotify.com/show/5nlDsmpul9enHhSHgkfPD5"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 6165199,
+      "name": "\u300c\u8074\u304f\u5c0f\u8aac\u30fb\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a\u300d\u307e\u3068\u3081(1-30\u8a71)",
+      "url": "https://open.spotify.com/episode/5zN35BEzRUY4bDh3NGI60N"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240 Original Sound Track",
+        "url": "https://open.spotify.com/album/59CGpIQ02102FKPMemsKtr"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30fc\u30c8",
+          "url": "https://open.spotify.com/artist/7pmcLNwJyf09QTxgqZRk0z"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336392,
+      "name": "\u304d\u307f\u306e\u3053\u3048",
+      "url": "https://open.spotify.com/track/4K1MF8LEThwlvklwxvobLN"
+    },
+    {
+      "album": {
+        "name": "\u3051\u3093\u304b\u3092\u3084\u3081\u3066",
+        "url": "https://open.spotify.com/album/6JDq7lXrVjiED6fHNjGx1N"
+      },
+      "artists": [
+        {
+          "name": "Naoko Kawai",
+          "url": "https://open.spotify.com/artist/1BMCwAT2geYkKBKjRAJ8Qu"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271066,
+      "name": "\u3051\u3093\u304b\u3092\u3084\u3081\u3066",
+      "url": "https://open.spotify.com/track/2UiO3tzClF7mHiuRyhUt3R"
+    },
+    {
+      "album": {
+        "name": "\u30ae\u30b6\u30ae\u30b6\u30cf\u30fc\u30c8\u306e\u5b50\u5b88\u5504",
+        "url": "https://open.spotify.com/album/6f4c3mNtbtNOB3KPViiuhF"
+      },
+      "artists": [
+        {
+          "name": "The Checkers",
+          "url": "https://open.spotify.com/artist/5lA50TmLEmo7BkEYBu7hS1"
+        }
+      ],
+      "date_added": "2023-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "\u30ae\u30b6\u30ae\u30b6\u30cf\u30fc\u30c8\u306e\u5b50\u5b88\u5504",
+      "url": "https://open.spotify.com/track/68V2EbvUklK3ORiiKl0c3Z"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30fb\u30ad\u30c3\u30b9",
+        "url": "https://open.spotify.com/album/5qxEqwkeJaDCO7vKIB500c"
+      },
+      "artists": [
+        {
+          "name": "Sayuri Kokusho",
+          "url": "https://open.spotify.com/artist/3Ts5ELxUNyqlHKYJX8uq5t"
+        },
+        {
+          "name": "Onyanko Club",
+          "url": "https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216133,
+      "name": "\u30d0\u30ec\u30f3\u30bf\u30a4\u30f3\u30fb\u30ad\u30c3\u30b9",
+      "url": "https://open.spotify.com/track/27Zq1Uh9ITJwfTaqvqUsfy"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240 Original Sound Track",
+        "url": "https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88836,
+      "name": "\u30e1\u30a4\u30f3\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/5ynaMlHUTnUwcKQQ2wgRdk"
+    },
+    {
+      "album": {
+        "name": "COBALT HOUR",
+        "url": "https://open.spotify.com/album/5q4nqytaxLA99VEVJ6yQRu"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-16",
+      "duration_ms": 182800,
+      "name": "\u30eb\u30fc\u30b8\u30e5\u306e\u4f1d\u8a00",
+      "url": "https://open.spotify.com/track/1jw992uwXhqJJ0H42ucTRL"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30b8\u30e5\u306e\u4f1d\u8a00",
+        "url": "https://open.spotify.com/album/4rJiEREugS8KDs7oSF35Tt"
+      },
+      "artists": [
+        {
+          "name": "Yumi Arai",
+          "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
+        }
+      ],
+      "date_added": "2022-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "\u30eb\u30fc\u30b8\u30e5\u306e\u4f1d\u8a00",
+      "url": "https://open.spotify.com/track/462O96Nj5zuTA13QAlrd8A"
+    },
+    {
+      "album": {
+        "name": "TOKYO - SHOWA KAYO -",
+        "url": "https://open.spotify.com/album/66vVSUnLq20V9AWYxY4C2x"
+      },
+      "artists": [
+        {
+          "name": "Yosui Inoue",
+          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "\u5922\u306e\u4e2d\u3078 - 2017 Remaster",
+      "url": "https://open.spotify.com/track/1HGsenQaGP7MbBMeeISial"
+    },
+    {
+      "album": {
+        "name": "\u5922\u306e\u4e2d\u3078",
+        "url": "https://open.spotify.com/album/6b18Ztx6B8CM0mDE4ZUGwf"
+      },
+      "artists": [
+        {
+          "name": "Yosui Inoue",
+          "url": "https://open.spotify.com/artist/4BQT8wAPy5SGtRnfstMzbA"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 156413,
+      "name": "\u5922\u306e\u4e2d\u3078 - 2017 Remaster",
+      "url": "https://open.spotify.com/track/2YgyW0CWOD7vMrgbB68LQk"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u79d2\u901f5\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb Soundtracks",
+        "url": "https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101520,
+      "name": "\u60f3\u3044\u51fa\u306f\u9060\u304f\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/5dzk9bYbpDpSgZxFaP3iBu"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u79d2\u901f5\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb Soundtracks",
+        "url": "https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291120,
+      "name": "\u685c\u82b1\u6284",
+      "url": "https://open.spotify.com/track/5vgbpz9DQTLPa91f0wxUOH"
+    },
+    {
+      "album": {
+        "name": "\u65e5\u91ce\u7f8e\u6b4c\u5168\u66f2\u96c6 \u3044\u306e\u308a\u3046\u305f",
+        "url": "https://open.spotify.com/album/3riEoVadQnLwFFGh94BEAk"
+      },
+      "artists": [
+        {
+          "name": "Mika Hino",
+          "url": "https://open.spotify.com/artist/4SnVzUk8sP61RFT8czNxjj"
+        },
+        {
+          "name": "Kenji Niinuma",
+          "url": "https://open.spotify.com/artist/4eZxAuDEWugT2KHS32AIkA"
+        }
+      ],
+      "date_added": "2022-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237146,
+      "name": "\u7537\u3068\u5973\u306e\u30e9\u30d6\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/4qVrWEpm4fjdTakJg5Ykk6"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u79d2\u901f5\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb Soundtracks",
+        "url": "https://open.spotify.com/album/1z3stAkapb5t7QAXNGCZqP"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120120,
+      "name": "\u7a7a\u3068\u6d77\u306e\u8a69",
+      "url": "https://open.spotify.com/track/0KJiMu4yueVH0gIgpCnYfU"
+    },
+    {
+      "album": {
+        "name": "\u8a00\u30ce\u8449",
+        "url": "https://open.spotify.com/album/0fBfQqaMCXmFe2rgHPi24t"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302800,
+      "name": "\u8a00\u30ce\u8449",
+      "url": "https://open.spotify.com/track/6ktyTmXjfehtEO5wWFyjkP"
+    },
+    {
+      "album": {
+        "name": "\u5287\u5834\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3 \u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240 Original Sound Track",
+        "url": "https://open.spotify.com/album/2ZWQnipGzWgVUWcphJElZ1"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u9580",
+          "url": "https://open.spotify.com/artist/0dZaFaggaLMwGbMrO39KJJ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238521,
+      "name": "\u96f2\u306e\u3080\u3053\u3046\u3001\u7d04\u675f\u306e\u5834\u6240",
+      "url": "https://open.spotify.com/track/2TVZyozGqvsbpcYfptk3nJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0KA2LHWBFpC"
 }

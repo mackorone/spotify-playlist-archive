@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfudhV4pgtf.md) - [plain]
 
 > <a href="spotify:artist:7icoOm5fKKPo49jVxoj1Cq">Anfisa Letyago</a>'s favorite tracks\. Updated regularly\. Curated by Anfisa Letyago\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,869 likes - 49 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,976 likes - 49 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Haze \- FILM Remix](https://open.spotify.com/track/74aCBEoZBRNwK4wdS5Ep6g) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq), [FILM](https://open.spotify.com/artist/7zaagdALQjtxmHTIRa3H2T) | [Haze Remixes](https://open.spotify.com/album/7g1Rj26ma74ZKBPmnAA09M) | 5:41 |
 | 2 | [ISO \- DJ Seinfeld Remix](https://open.spotify.com/track/4JP1Xjt1aqM1A1unMoih4x) | [Baltra](https://open.spotify.com/artist/2tEyBfwGBfQgLXeAJW0MgC), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Rendezvous](https://open.spotify.com/album/5EvhOZgGd0Iz4aONhMj0fY) | 5:51 |
-| 3 | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/track/6wfnKqy0C9xUrxZVgzHz8C) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/1ljK6QlQ1cFgK46R5QIMVV) | 3:44 |
+| 3 | [Ovule \(feat\. Shygirl\) \- Sega Bodega Remix](https://open.spotify.com/track/1e0lY9vlLsvpjNpj3NgFwQ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Ovule \(feat\. Shygirl\) \[Sega Bodega Remix\]](https://open.spotify.com/album/67NJcllhirRuOzzC4Ivfvx) | 3:44 |
 | 4 | [Let Me Be](https://open.spotify.com/track/5m6dY8ZvU87n4nPnA2jcrR) | [Anna Kost](https://open.spotify.com/artist/3I5IACZdrxcIUHqQnpiItF) | [Let Me Be](https://open.spotify.com/album/5jamu59YhhB6KG5gGjirCb) | 5:25 |
 | 5 | [Ognuno p''a via soja](https://open.spotify.com/track/64Tb4DxB5W2axD6XgFySKV) | [Enzo Avitabile](https://open.spotify.com/artist/3Q4phRnS8Pcq8s5FRA1aIO) | [La Vita Bugiarda Degli Adulti \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0tCgV1ZcCEn77kUoCwpImi) | 4:15 |
 | 6 | [Rosso Profondo](https://open.spotify.com/track/0Regj8wXZsDesHK6DrWaDg) | [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Rosso Profondo](https://open.spotify.com/album/5yaUSupnWkaCaVqSlbubbk) | 5:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > ¡Márquele sección! Los corridones tronando en vivo\. Gabito Ballesteros, Peso Pluma y Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,437 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,302 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

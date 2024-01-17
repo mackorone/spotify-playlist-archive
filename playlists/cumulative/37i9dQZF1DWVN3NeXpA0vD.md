@@ -4,7 +4,7 @@
 
 > D vitaminin.
 
-107 songs - 5 hr 49 min
+108 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2023-03-10 |  |
 | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Love Me Less \(feat\. Quinn XCII\)](https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg) | 2:57 | 2023-03-10 |  |
 | [Love To Go](https://open.spotify.com/track/14d79QOV2pvJHH9vlUfZwJ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [Love To Go](https://open.spotify.com/album/4fn5LDl6DjSBfoMCHBO1jv) | 2:49 | 2023-03-10 |  |
-| [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2023-03-10 |  |
+| [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2023-03-10 | 2024-01-09 |
 | [Message In A Bottle \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:45 | 2023-03-10 |  |
 | [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2023-03-10 |  |
 | [No Judgement](https://open.spotify.com/track/2sGF7DBXvL2GjkbG606m1G) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 2:56 | 2023-03-10 |  |
@@ -109,6 +109,7 @@
 | [Wave of You](https://open.spotify.com/track/0GYjlsMiLhspkDFB6y7HDU) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5HoTuFtFZuqihC7z5zz3uB) | 3:33 | 2023-03-10 |  |
 | [Way Back Home \(feat\. Conor Maynard\) \- Sam Feldt Edit](https://open.spotify.com/track/1ZLrDPgR7mvuTco3rQK8Pk) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Way Back Home \(feat\. Conor Maynard\) \[Sam Feldt Edit\]](https://open.spotify.com/album/13aeLAMXve4Jxd8mNKu068) | 3:12 | 2023-03-10 |  |
 | [We Can Do Better](https://open.spotify.com/track/1swaftqa6ahRIFf9E48FlN) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [After The Landslide](https://open.spotify.com/album/3KYIEsx3p2h8mtxWBXdVEG) | 2:59 | 2023-03-10 |  |
+| [West Coast \(feat\. Quinn XCII\)](https://open.spotify.com/track/4VZlXx05loUmppWMqHFzt1) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [West Coast \(feat\. Quinn XCII\)](https://open.spotify.com/album/437ICQjjhBRkK47bG686f9) | 2:30 | 2023-03-10 |  |
 | [West Coast \(feat\. Quinn XCII\)](https://open.spotify.com/track/4fCE1SCDulouoac9Q8XroU) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [West Coast \(feat\. Quinn XCII\)](https://open.spotify.com/album/0tpXPxodrY4gC6cPWAuuoJ) | 2:30 | 2023-03-10 | 2023-11-24 |
 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 | 2023-03-10 |  |
 | [Wherever You Are](https://open.spotify.com/track/42fu5cmEhi5EWmoqaZUZuK) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [One Day At A Time](https://open.spotify.com/album/2S3HfZLtg6KQ6czD3lyfBH) | 3:05 | 2023-03-10 |  |

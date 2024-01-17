@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-09-21",
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "name": "Soundtrack oficial de EA SPORTS FC 24",
+  "name": "EA SPORTS FC 24 Official Soundtrack",
   "tracks": [
     {
       "album": {
@@ -118,10 +118,32 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 246840,
       "name": "Always Get Through To You",
       "url": "https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1"
+    },
+    {
+      "album": {
+        "name": "Always Get Through To You",
+        "url": "https://open.spotify.com/album/5bK1x9ey30EPZybTe6s1Jg"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Surya Sen",
+          "url": "https://open.spotify.com/artist/4hqsQ13aH4njud9LBg2Qap"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203130,
+      "name": "Always Get Through To You",
+      "url": "https://open.spotify.com/track/7AzXnrWEKbHxjOX1NRuKtn"
     },
     {
       "album": {

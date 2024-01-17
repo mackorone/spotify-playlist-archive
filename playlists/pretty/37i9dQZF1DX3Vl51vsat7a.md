@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: ÄTNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,078 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,108 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 |
-| 2 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 |
+| 2 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
 | 3 | [Sorry Mama Papa](https://open.spotify.com/track/0fF0IJSe5HVQnC6PFRPzEz) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Details](https://open.spotify.com/album/2hfaV0g2aEvB5hOduWzqPB) | 2:33 |
 | 4 | [Wir machen das](https://open.spotify.com/track/45qb6m1SimXHGVp8s5UTHn) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [GO TIME](https://open.spotify.com/album/2v46Uqtl1mZWr3CUzZLXnP) | 2:53 |
 | 5 | [Retail Therapy](https://open.spotify.com/track/6UvodWwiKAwVxXK2gfLru0) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Retail Therapy](https://open.spotify.com/album/6m0WgwY6xKMDwtDutoKgiI) | 2:28 |
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 28 | [Teen](https://open.spotify.com/track/3QEmBsw9CFMnNWaevPo91r) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Teen](https://open.spotify.com/album/2zRB8bzRMCoXTqNKQtD4Hf) | 3:03 |
 | 29 | [Keine Tränen](https://open.spotify.com/track/03ClGz3IWepPxLcVlGSC5Q) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Keine Tränen](https://open.spotify.com/album/6omnE7nYZCSFSkbTFTVSqR) | 2:11 |
 | 30 | [sirens](https://open.spotify.com/track/5lehSTwJVN2ed0VawpFZF3) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [sirens](https://open.spotify.com/album/3FwlJZOsRiHYUdR7Iqp5Ca) | 3:08 |
-| 31 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
-| 32 | [Downgrade](https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Downgrade](https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz) | 2:30 |
-| 33 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
-| 34 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 |
-| 35 | [Cold Wars](https://open.spotify.com/track/1oQlYBANjW80ewuxr5gHwZ) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Cold Wars](https://open.spotify.com/album/6IC554ETcIoeMaIofdZNve) | 3:54 |
+| 31 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 |
+| 32 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
+| 33 | [Downgrade](https://open.spotify.com/track/46yBpFu9lmZt2aowHN9oG9) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo), [Zymba](https://open.spotify.com/artist/1ozEI1HiloddRy01cuXQNo) | [Downgrade](https://open.spotify.com/album/0ZO4POLOhmSkLwWkiizPKz) | 2:30 |
+| 34 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 |
+| 35 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 |
 | 36 | [Red Flag](https://open.spotify.com/track/0fNzU26XiTKY2lhmOpokgR) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Red Flag](https://open.spotify.com/album/1Hefm7MGT5MeV0bvdDjZHc) | 2:28 |
 | 37 | [Piccolo](https://open.spotify.com/track/0g3hdWIwkYStsPojCvDIG0) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Piccolo](https://open.spotify.com/album/3Imzkvlri6mG8V04fsdFkv) | 2:27 |
 | 38 | [In My Novaa](https://open.spotify.com/track/0BWgnfDV4o5PPQMhcKfrzH) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [In My Novaa](https://open.spotify.com/album/6vEMutP9WTvE9vC5oxhH2a) | 4:16 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 59 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 |
 | 60 | [Paranoid](https://open.spotify.com/track/0HMqKvy71TIbFMZP573ggQ) | [Leoniden](https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX) | [Complex Happenings Reduced To A Simple Design](https://open.spotify.com/album/759AQPUMn36dDf7cRSwsmF) | 3:16 |
 
-Snapshot ID: `MCxjNzVkODdmNGQ1YTdkZTAzOGIyNWNkNDU1NWUyNThlNjMwZTQ2Y2Iw`
+Snapshot ID: `MCwzMmZmMmY5ZTAwYTQxNzUwMjM2OGIyZDhiYjAwODU2OWZiYTc4ODVm`

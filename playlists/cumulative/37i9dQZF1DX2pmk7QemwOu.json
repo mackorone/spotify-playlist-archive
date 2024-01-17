@@ -1235,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180330,
+      "name": "LEveL",
+      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
+    },
+    {
+      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },

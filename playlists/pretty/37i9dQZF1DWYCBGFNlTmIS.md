@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 
 > 生命中有各種離別時刻，在告別前，你會點播那一首歌給那位聽？
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,226 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,214 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCBGFNlTmIS.md) - [plain]
 | 52 | [返屋企](https://open.spotify.com/track/7Ep3R67pdK7SSGTKJQIaAT) | [LMF](https://open.spotify.com/artist/65epDBv5elxypoA07rXg29) | [Crazy Children \(2nd Version\)](https://open.spotify.com/album/0HlPIzA2LwiGH0m8dgsynt) | 5:00 |
 | 53 | [Lost In L.A.](https://open.spotify.com/track/7x0pRjtwBgXo29c159apaE) | [At17](https://open.spotify.com/artist/21Ep61xfoCPTDMMPPy0i0z) | [Kiss Kiss Kiss](https://open.spotify.com/album/6R6b3p1Y5S3dt9QxBWvzjE) | 3:22 |
 | 54 | [我們都是這樣長大的](https://open.spotify.com/track/17rK9wMYbnbMfeeXKO5iZX) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [我們都是這樣長大的](https://open.spotify.com/album/4VuD9G02XE4kqet67quDGY) | 4:43 |
-| 55 | [Today](https://open.spotify.com/track/31IF0JBGxQSVHOKekkkn4c) | [梁詠琪](https://open.spotify.com/artist/047BSugYejxO54yeTOZ87p) | [Kiss 梁詠琪新曲+精選](https://open.spotify.com/album/6BXWFu5HhqFYpnmwamqJR0) | 3:38 |
+| 55 | [Today](https://open.spotify.com/track/31IF0JBGxQSVHOKekkkn4c) | [Gigi Leung](https://open.spotify.com/artist/1kvvEkC7PQfgfqtCi9YQau) | [Kiss 梁詠琪新曲+精選](https://open.spotify.com/album/6BXWFu5HhqFYpnmwamqJR0) | 3:38 |
 | 56 | [離開, 是為了回來](https://open.spotify.com/track/7tjBSD63FgLBT3EtFvH3Lh) | [Chet Lam](https://open.spotify.com/artist/0eE5MIp5hONB0TxIJS5H48) | [遊樂](https://open.spotify.com/album/5Ydyl1o47u4z0efeDOR2cz) | 3:57 |
 | 57 | [如無意外](https://open.spotify.com/track/5Wh6JTxdiNdTHq25P2tRrL) | [Denise Ho](https://open.spotify.com/artist/4yN0M1P08hXwuDi81G6O5U) | [艷光四射](https://open.spotify.com/album/3z50Y8A5d5jz63vaYBnnU7) | 3:27 |
 | 58 | [告別的藝術](https://open.spotify.com/track/4Klbd6usXpmlVoexs6jlI5) | [陳健安](https://open.spotify.com/artist/5g1lCXhXTqGf2QNpyQXh9S) | [告別的藝術](https://open.spotify.com/album/3hgtFPiQF0qmWM4dLKl7yQ) | 4:56 |

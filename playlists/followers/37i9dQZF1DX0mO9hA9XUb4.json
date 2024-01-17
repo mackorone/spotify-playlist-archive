@@ -1,580 +1,935 @@
 {
-  "2022-05-30": 1225,
-  "2022-05-31": 1278,
-  "2022-06-01": 1345,
-  "2022-06-02": 1351,
-  "2022-06-03": 1381,
-  "2022-06-04": 1425,
-  "2022-06-05": 1458,
-  "2022-06-06": 1488,
-  "2022-06-07": 1509,
-  "2022-06-08": 1544,
-  "2022-06-09": 1563,
-  "2022-06-10": 1592,
-  "2022-06-11": 1617,
-  "2022-06-12": 1638,
-  "2022-06-13": 1653,
-  "2022-06-14": 1662,
-  "2022-06-15": 1688,
-  "2022-06-16": 1715,
-  "2022-06-17": 1746,
-  "2022-06-18": 1770,
-  "2022-06-19": 1808,
-  "2022-06-20": 1808,
-  "2022-06-21": 1825,
-  "2022-06-22": 1888,
-  "2022-06-23": 1888,
-  "2022-06-24": 1911,
-  "2022-06-25": 1931,
-  "2022-06-26": 1955,
-  "2022-06-27": 1968,
-  "2022-06-28": 1989,
-  "2022-06-29": 2016,
-  "2022-06-30": 2048,
-  "2022-07-01": 2080,
-  "2022-07-02": 2108,
-  "2022-07-03": 2143,
-  "2022-07-04": 2160,
-  "2022-07-05": 2178,
-  "2022-07-06": 2193,
-  "2022-07-07": 2221,
-  "2022-07-08": 2259,
-  "2022-07-09": 2275,
-  "2022-07-10": 2292,
-  "2022-07-11": 2307,
-  "2022-07-12": 2332,
-  "2022-07-13": 2355,
-  "2022-07-14": 2370,
-  "2022-07-15": 2393,
-  "2022-07-16": 2419,
-  "2022-07-17": 2435,
-  "2022-07-18": 2461,
-  "2022-07-19": 2476,
-  "2022-07-20": 2510,
-  "2022-07-21": 2534,
-  "2022-07-22": 2555,
-  "2022-07-23": 2581,
-  "2022-07-24": 2597,
-  "2022-07-25": 2625,
-  "2022-07-26": 2643,
-  "2022-07-27": 2661,
-  "2022-07-28": 2687,
-  "2022-07-29": 2708,
-  "2022-07-30": 2758,
-  "2022-07-31": 2758,
-  "2022-08-01": 2791,
-  "2022-08-02": 2822,
-  "2022-08-03": 2822,
-  "2022-08-04": 2843,
-  "2022-08-05": 2869,
-  "2022-08-06": 2884,
-  "2022-08-07": 2899,
-  "2022-08-08": 2918,
-  "2022-08-09": 2950,
-  "2022-08-10": 2977,
-  "2022-08-11": 2991,
-  "2022-08-12": 3012,
-  "2022-08-13": 3025,
-  "2022-08-14": 3038,
-  "2022-08-15": 3052,
-  "2022-08-16": 3067,
-  "2022-08-17": 3087,
-  "2022-08-18": 3108,
-  "2022-08-19": 3129,
-  "2022-08-20": 3146,
-  "2022-08-21": 3165,
-  "2022-08-22": 3175,
-  "2022-08-23": 3183,
-  "2022-08-24": 3201,
-  "2022-08-25": 3217,
-  "2022-08-26": 3230,
-  "2022-08-27": 3242,
-  "2022-08-28": 3260,
-  "2022-08-29": 3271,
-  "2022-08-30": 3273,
-  "2022-08-31": 3286,
-  "2022-09-01": 3294,
-  "2022-09-02": 3306,
-  "2022-09-03": 3324,
-  "2022-09-04": 3331,
-  "2022-09-05": 3342,
-  "2022-09-06": 3367,
-  "2022-09-07": 3382,
-  "2022-09-09": 3412,
-  "2022-09-10": 3430,
-  "2022-09-11": 3444,
-  "2022-09-12": 3466,
-  "2022-09-13": 3486,
-  "2022-09-15": 3530,
-  "2022-09-16": 3546,
-  "2022-09-17": 3565,
-  "2022-09-18": 3582,
-  "2022-09-19": 3597,
-  "2022-09-20": 3613,
-  "2022-09-21": 3629,
-  "2022-09-22": 3647,
-  "2022-09-23": 3658,
-  "2022-09-24": 3678,
-  "2022-09-25": 3687,
-  "2022-09-26": 3704,
-  "2022-09-27": 3716,
-  "2022-09-28": 3736,
-  "2022-09-29": 3756,
-  "2022-09-30": 3774,
-  "2022-10-01": 3788,
-  "2022-10-02": 3811,
-  "2022-10-03": 3823,
-  "2022-10-04": 3836,
-  "2022-10-05": 3857,
-  "2022-10-06": 3869,
-  "2022-10-07": 3888,
-  "2022-10-08": 3905,
-  "2022-10-09": 3933,
-  "2022-10-10": 3937,
-  "2022-10-11": 3953,
-  "2022-10-12": 3965,
-  "2022-10-13": 3975,
-  "2022-10-14": 3993,
-  "2022-10-15": 4006,
-  "2022-10-16": 4019,
-  "2022-10-17": 4036,
-  "2022-10-18": 4059,
-  "2022-10-19": 4070,
-  "2022-10-20": 4081,
-  "2022-10-21": 4099,
-  "2022-10-22": 4110,
-  "2022-10-23": 4121,
-  "2022-10-24": 4125,
-  "2022-10-25": 4134,
-  "2022-10-26": 4143,
-  "2022-10-27": 4154,
-  "2022-10-28": 4162,
-  "2022-10-29": 4169,
-  "2022-10-30": 4180,
-  "2022-10-31": 4191,
-  "2022-11-01": 4203,
-  "2022-11-02": 4215,
-  "2022-11-03": 4227,
-  "2022-11-04": 4235,
-  "2022-11-05": 4253,
-  "2022-11-06": 4274,
-  "2022-11-07": 4289,
-  "2022-11-08": 4302,
-  "2022-11-09": 4320,
-  "2022-11-10": 4332,
-  "2022-11-11": 4344,
-  "2022-11-12": 4364,
-  "2022-11-13": 4372,
-  "2022-11-14": 4386,
-  "2022-11-15": 4399,
-  "2022-11-16": 4415,
-  "2022-11-17": 4423,
-  "2022-11-18": 4423,
-  "2022-11-19": 4421,
-  "2022-11-20": 4424,
-  "2022-11-21": 4430,
-  "2022-11-22": 4453,
-  "2022-11-23": 4445,
-  "2022-11-24": 4479,
-  "2022-11-25": 4493,
-  "2022-11-26": 4511,
-  "2022-11-27": 4528,
-  "2022-11-28": 4539,
-  "2022-11-29": 4548,
-  "2022-11-30": 4566,
-  "2022-12-01": 4587,
-  "2022-12-02": 4598,
-  "2022-12-03": 4619,
-  "2022-12-04": 4637,
-  "2022-12-05": 4649,
-  "2022-12-06": 4657,
-  "2022-12-07": 4671,
-  "2022-12-08": 4682,
-  "2022-12-09": 4704,
-  "2022-12-10": 4715,
-  "2022-12-11": 4738,
-  "2022-12-12": 4757,
-  "2022-12-13": 4768,
-  "2022-12-14": 4784,
-  "2022-12-15": 4795,
-  "2022-12-16": 4804,
-  "2022-12-17": 4814,
-  "2022-12-18": 4828,
-  "2022-12-19": 4840,
-  "2022-12-20": 4855,
-  "2022-12-21": 4855,
-  "2022-12-22": 4872,
-  "2022-12-24": 4901,
-  "2022-12-25": 4908,
-  "2022-12-26": 4916,
-  "2022-12-27": 4922,
-  "2022-12-28": 4934,
-  "2022-12-29": 4948,
-  "2022-12-30": 4960,
-  "2022-12-31": 4966,
-  "2023-01-01": 4984,
-  "2023-01-02": 5000,
-  "2023-01-03": 5014,
-  "2023-01-04": 5025,
-  "2023-01-05": 5040,
-  "2023-01-06": 5062,
-  "2023-01-07": 5082,
-  "2023-01-08": 5086,
-  "2023-01-09": 5102,
-  "2023-01-10": 5116,
-  "2023-01-11": 5131,
-  "2023-01-12": 5145,
-  "2023-01-13": 5156,
-  "2023-01-14": 5178,
-  "2023-01-15": 5182,
-  "2023-01-16": 5197,
-  "2023-01-17": 5209,
-  "2023-01-18": 5217,
-  "2023-01-19": 5230,
-  "2023-01-20": 5240,
-  "2023-01-21": 5250,
-  "2023-01-22": 5276,
-  "2023-01-23": 5297,
-  "2023-01-24": 5308,
-  "2023-01-25": 5324,
-  "2023-01-26": 5336,
-  "2023-01-27": 5340,
-  "2023-01-28": 5359,
-  "2023-01-29": 5366,
-  "2023-01-30": 5375,
-  "2023-01-31": 5375,
-  "2023-02-01": 5394,
-  "2023-02-02": 5401,
-  "2023-02-03": 5419,
-  "2023-02-04": 5433,
-  "2023-02-05": 5443,
-  "2023-02-06": 5452,
-  "2023-02-07": 5463,
-  "2023-02-08": 5480,
-  "2023-02-09": 5480,
-  "2023-02-10": 5480,
-  "2023-02-11": 5480,
-  "2023-02-12": 5480,
-  "2023-02-13": 5480,
-  "2023-02-14": 5480,
-  "2023-02-15": 5480,
-  "2023-02-16": 5480,
-  "2023-02-17": 5480,
-  "2023-02-18": 5480,
-  "2023-02-19": 5480,
-  "2023-02-20": 5480,
-  "2023-02-21": 5480,
-  "2023-02-22": 5480,
-  "2023-02-23": 5480,
-  "2023-02-24": 5480,
-  "2023-02-25": 5480,
-  "2023-02-26": 5480,
-  "2023-02-27": 5480,
-  "2023-02-28": 5480,
-  "2023-03-01": 5480,
-  "2023-03-02": 5480,
-  "2023-03-03": 5480,
-  "2023-03-04": 5480,
-  "2023-03-05": 5480,
-  "2023-03-06": 5480,
-  "2023-03-07": 5480,
-  "2023-03-08": 5480,
-  "2023-03-09": 5480,
-  "2023-03-10": 5480,
-  "2023-03-11": 5480,
-  "2023-03-12": 5480,
-  "2023-03-13": 5480,
-  "2023-03-14": 5480,
-  "2023-03-15": 5480,
-  "2023-03-16": 5480,
-  "2023-03-17": 5480,
-  "2023-03-18": 5480,
-  "2023-03-19": 5480,
-  "2023-03-20": 5480,
-  "2023-03-21": 5480,
-  "2023-03-22": 5480,
-  "2023-03-23": 5480,
-  "2023-03-24": 5480,
-  "2023-03-25": 5480,
-  "2023-03-26": 5480,
-  "2023-03-27": 5480,
-  "2023-03-28": 5480,
-  "2023-03-29": 5480,
-  "2023-03-30": 5480,
-  "2023-03-31": 5480,
-  "2023-04-01": 5480,
-  "2023-04-02": 5480,
-  "2023-04-03": 5480,
-  "2023-04-04": 5480,
-  "2023-04-05": 5480,
-  "2023-04-06": 5480,
-  "2023-04-07": 5480,
-  "2023-04-09": 5480,
-  "2023-04-10": 5480,
-  "2023-04-11": 5480,
-  "2023-04-12": 5480,
-  "2023-04-13": 5480,
-  "2023-04-14": 5480,
-  "2023-04-15": 5480,
-  "2023-04-16": 5480,
-  "2023-04-17": 5480,
-  "2023-04-18": 5480,
-  "2023-04-19": 5480,
-  "2023-04-20": 5480,
-  "2023-04-21": 5480,
-  "2023-04-22": 5480,
-  "2023-04-23": 5480,
-  "2023-04-24": 5480,
-  "2023-04-25": 5480,
-  "2023-04-26": 5480,
-  "2023-04-27": 5480,
-  "2023-04-28": 5480,
-  "2023-04-29": 5480,
-  "2023-04-30": 5480,
-  "2023-05-01": 5480,
-  "2023-05-02": 5480,
-  "2023-05-03": 5480,
-  "2023-05-04": 5480,
-  "2023-05-05": 5480,
-  "2023-05-06": 5480,
-  "2023-05-07": 5480,
-  "2023-05-08": 5480,
-  "2023-05-09": 5480,
-  "2023-05-10": 5480,
-  "2023-05-11": 5480,
-  "2023-05-12": 5480,
-  "2023-05-13": 5480,
-  "2023-05-14": 5480,
-  "2023-05-15": 5480,
-  "2023-05-16": 5480,
-  "2023-05-17": 5480,
-  "2023-05-18": 5480,
-  "2023-05-19": 5480,
-  "2023-05-20": 5480,
-  "2023-05-21": 5480,
-  "2023-05-22": 5480,
-  "2023-05-23": 5480,
-  "2023-05-24": 5480,
-  "2023-05-25": 5480,
-  "2023-05-26": 5480,
-  "2023-05-27": 5480,
-  "2023-05-28": 5480,
-  "2023-05-29": 5480,
-  "2023-05-30": 5480,
-  "2023-05-31": 5480,
-  "2023-06-01": 5480,
-  "2023-06-02": 5480,
-  "2023-06-03": 5480,
-  "2023-06-04": 5480,
-  "2023-06-05": 5480,
-  "2023-06-06": 5480,
-  "2023-06-07": 5480,
-  "2023-06-08": 5480,
-  "2023-06-09": 5480,
-  "2023-06-10": 5480,
-  "2023-06-11": 5480,
-  "2023-06-12": 5480,
-  "2023-06-13": 5480,
-  "2023-06-14": 5480,
-  "2023-06-15": 5480,
-  "2023-06-16": 5480,
-  "2023-06-17": 5480,
-  "2023-06-18": 5480,
-  "2023-06-19": 5480,
-  "2023-06-20": 5480,
-  "2023-06-21": 5480,
-  "2023-06-22": 5480,
-  "2023-06-23": 5480,
-  "2023-06-24": 5480,
-  "2023-06-25": 5480,
-  "2023-06-26": 5480,
-  "2023-06-27": 5480,
-  "2023-06-28": 5480,
-  "2023-06-29": 5480,
-  "2023-06-30": 5480,
-  "2023-07-01": 5480,
-  "2023-07-02": 5480,
-  "2023-07-03": 5480,
-  "2023-07-04": 5480,
-  "2023-07-05": 5480,
-  "2023-07-06": 5480,
-  "2023-07-07": 5480,
-  "2023-07-08": 5480,
-  "2023-07-09": 5480,
-  "2023-07-10": 5480,
-  "2023-07-11": 5480,
-  "2023-07-12": 5480,
-  "2023-07-13": 5480,
-  "2023-07-14": 5480,
-  "2023-07-15": 5480,
-  "2023-07-16": 5480,
-  "2023-07-17": 5480,
-  "2023-07-18": 5480,
-  "2023-07-19": 5480,
-  "2023-07-20": 5480,
-  "2023-07-21": 5480,
-  "2023-07-22": 5480,
-  "2023-07-23": 5480,
-  "2023-07-24": 5480,
-  "2023-07-25": 5480,
-  "2023-07-26": 5480,
-  "2023-07-27": 5480,
-  "2023-07-28": 5480,
-  "2023-07-29": 5480,
-  "2023-07-30": 5480,
-  "2023-07-31": 5480,
-  "2023-08-01": 5480,
-  "2023-08-02": 5480,
-  "2023-08-03": 5480,
-  "2023-08-04": 5480,
-  "2023-08-05": 5480,
-  "2023-08-06": 5480,
-  "2023-08-07": 5480,
-  "2023-08-08": 5480,
-  "2023-08-09": 5480,
-  "2023-08-10": 5480,
-  "2023-08-11": 5480,
-  "2023-08-12": 5480,
-  "2023-08-13": 5480,
-  "2023-08-14": 5480,
-  "2023-08-15": 5480,
-  "2023-08-16": 5480,
-  "2023-08-17": 5480,
-  "2023-08-18": 5480,
-  "2023-08-19": 5480,
-  "2023-08-20": 5480,
-  "2023-08-21": 5480,
-  "2023-08-22": 5480,
-  "2023-08-23": 5480,
-  "2023-08-24": 5480,
-  "2023-08-25": 5480,
-  "2023-08-26": 5480,
-  "2023-08-27": 5480,
-  "2023-08-28": 5480,
-  "2023-08-29": 5480,
-  "2023-08-30": 5480,
-  "2023-08-31": 5480,
-  "2023-09-01": 5480,
-  "2023-09-02": 5480,
-  "2023-09-03": 5480,
-  "2023-09-04": 5480,
-  "2023-09-05": 5480,
-  "2023-09-06": 5480,
-  "2023-09-07": 5480,
-  "2023-09-08": 5480,
-  "2023-09-09": 5480,
-  "2023-09-10": 5480,
-  "2023-09-11": 5480,
-  "2023-09-12": 5480,
-  "2023-09-13": 5480,
-  "2023-09-14": 5480,
-  "2023-09-15": 5480,
-  "2023-09-16": 5480,
-  "2023-09-17": 5480,
-  "2023-09-18": 5480,
-  "2023-09-19": 5480,
-  "2023-09-20": 5480,
-  "2023-09-21": 5480,
-  "2023-09-22": 5480,
-  "2023-09-23": 5480,
-  "2023-09-24": 5480,
-  "2023-09-25": 5480,
-  "2023-09-26": 5480,
-  "2023-09-27": 5480,
-  "2023-09-28": 5480,
-  "2023-09-29": 5480,
-  "2023-09-30": 5480,
-  "2023-10-01": 5480,
-  "2023-10-02": 5480,
-  "2023-10-03": 5480,
-  "2023-10-04": 5480,
-  "2023-10-05": 5480,
-  "2023-10-06": 5480,
-  "2023-10-07": 5480,
-  "2023-10-08": 5480,
-  "2023-10-09": 5480,
-  "2023-10-10": 5480,
-  "2023-10-11": 5480,
-  "2023-10-12": 5480,
-  "2023-10-13": 5480,
-  "2023-10-14": 5480,
-  "2023-10-15": 5480,
-  "2023-10-16": 5480,
-  "2023-10-17": 5480,
-  "2023-10-18": 5480,
-  "2023-10-19": 5480,
-  "2023-10-20": 5480,
-  "2023-10-21": 5480,
-  "2023-10-22": 5480,
-  "2023-10-23": 5480,
-  "2023-10-24": 5480,
-  "2023-10-25": 5480,
-  "2023-10-26": 5480,
-  "2023-10-27": 5480,
-  "2023-10-28": 5480,
-  "2023-10-29": 5480,
-  "2023-10-30": 5480,
-  "2023-10-31": 5480,
-  "2023-11-01": 5480,
-  "2023-11-02": 5480,
-  "2023-11-03": 5480,
-  "2023-11-04": 5480,
-  "2023-11-05": 5480,
-  "2023-11-06": 5480,
-  "2023-11-07": 5480,
-  "2023-11-08": 5480,
-  "2023-11-09": 5480,
-  "2023-11-10": 5480,
-  "2023-11-11": 5480,
-  "2023-11-12": 5480,
-  "2023-11-13": 5480,
-  "2023-11-14": 5480,
-  "2023-11-15": 5480,
-  "2023-11-16": 5480,
-  "2023-11-17": 5480,
-  "2023-11-18": 5480,
-  "2023-11-19": 5480,
-  "2023-11-20": 5480,
-  "2023-11-21": 5480,
-  "2023-11-22": 5480,
-  "2023-11-23": 5480,
-  "2023-11-24": 5480,
-  "2023-11-25": 5480,
-  "2023-11-26": 5480,
-  "2023-11-27": 5480,
-  "2023-11-28": 5480,
-  "2023-11-29": 5480,
-  "2023-11-30": 5480,
-  "2023-12-01": 5480,
-  "2023-12-02": 5480,
-  "2023-12-03": 5480,
-  "2023-12-04": 5480,
-  "2023-12-05": 5480,
-  "2023-12-06": 5480,
-  "2023-12-07": 5480,
-  "2023-12-08": 5480,
-  "2023-12-09": 5480,
-  "2023-12-10": 5480,
-  "2023-12-11": 5480,
-  "2023-12-12": 5480,
-  "2023-12-13": 5480,
-  "2023-12-14": 5480,
-  "2023-12-15": 5480,
-  "2023-12-16": 5480,
-  "2023-12-17": 5480,
-  "2023-12-18": 5480,
-  "2023-12-19": 5480,
-  "2023-12-20": 5480,
-  "2023-12-21": 5480,
-  "2023-12-22": 5480,
-  "2023-12-23": 5480,
-  "2023-12-24": 5480,
-  "2023-12-25": 5480,
-  "2023-12-26": 5480,
-  "2023-12-27": 5480,
-  "2023-12-30": 5480,
-  "2023-12-31": 5480,
-  "2024-01-01": 5480,
-  "2024-01-02": 5480,
-  "2024-01-03": 5480
+  "2024-01-17": 5480,
+  "date_first_scraped": "2022-05-30",
+  "description": "a musical love letter to fearless immigrant daughters. to diaspora children showing up and taking names. to the firsts, but not the lasts. to queer & multilingual & proudly Asian American Pacific Islanders, Rina said it best, we out here!",
+  "name": "APIHM Takeover: Malavika Kannan",
+  "tracks": [
+    {
+      "album": {
+        "name": "goldilocks x",
+        "url": "https://open.spotify.com/album/2nkqAzbvQUWZ0p88NxrJ7s"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178599,
+      "name": "a woman is a god",
+      "url": "https://open.spotify.com/track/5kcERXTIoNbkBjb6o4vYBf"
+    },
+    {
+      "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
+    },
+    {
+      "album": {
+        "name": "Bad Habits",
+        "url": "https://open.spotify.com/album/4qKIwcoyB91GMyy9431kaf"
+      },
+      "artists": [
+        {
+          "name": "Madame Gandhi",
+          "url": "https://open.spotify.com/artist/1zBHbitf3pjF7W00UIFfVf"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227011,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/4paOi2D1A1pS5bPugSfUg7"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207604,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/25iXD24rJ3QByQl58vG5hB"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 207604,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/5wfU3eM43UptY57VigdHzh"
+    },
+    {
+      "album": {
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205224,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
+    },
+    {
+      "album": {
+        "name": "Chicken Lemon Rice",
+        "url": "https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153018,
+      "name": "Chicken Lemon Rice",
+      "url": "https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
+        "name": "a liquid breakfast",
+        "url": "https://open.spotify.com/album/45QlLBsyMU0XRqw3cxdTKb"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152533,
+      "name": "Comic Sans (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU"
+    },
+    {
+      "album": {
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185083,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3"
+    },
+    {
+      "album": {
+        "name": "Firestarter",
+        "url": "https://open.spotify.com/album/6gs8SxesV2lUoXo6x3PZWh"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155739,
+      "name": "Firestarter",
+      "url": "https://open.spotify.com/track/6OKflEmwo66otVCLryCSqt"
+    },
+    {
+      "album": {
+        "name": "Antares",
+        "url": "https://open.spotify.com/album/6w5zZMxmvsqAED65Lx42lS"
+      },
+      "artists": [
+        {
+          "name": "\u5434\u4ea6\u51e1",
+          "url": "https://open.spotify.com/artist/650ZvsETuttSbMAgAodNTv"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Freedom (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/1WL6Q6zaMDVE8yyGYwu3zG"
+    },
+    {
+      "album": {
+        "name": "AIM (Deluxe)",
+        "url": "https://open.spotify.com/album/7sZqZpGN6leR2PncwkuaUc"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        },
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282386,
+      "name": "Freedun",
+      "url": "https://open.spotify.com/track/6AawG8z80kmCNAwQjsISI8"
+    },
+    {
+      "album": {
+        "name": "Abhi vs The Universe",
+        "url": "https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135213,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF"
+    },
+    {
+      "album": {
+        "name": "Good Ones",
+        "url": "https://open.spotify.com/album/6Z0w6c5y1hX7dYbdBe4XKt"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136614,
+      "name": "Good Ones",
+      "url": "https://open.spotify.com/track/6PZpNMstpIiRenGK5UyG5D"
+    },
+    {
+      "album": {
+        "name": "Hot One",
+        "url": "https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9"
+      },
+      "artists": [
+        {
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176445,
+      "name": "Hot One",
+      "url": "https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL"
+    },
+    {
+      "album": {
+        "name": "Indian Summer",
+        "url": "https://open.spotify.com/album/1qIKTrQQ5bErc4kr6qRtwL"
+      },
+      "artists": [
+        {
+          "name": "Shuba",
+          "url": "https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185228,
+      "name": "Indian Summer",
+      "url": "https://open.spotify.com/track/6BjFI5EoskHoXWTVFbcK25"
+    },
+    {
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209213,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/60r0mEqH580d1kYWGeEpwM"
+    },
+    {
+      "album": {
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Kamali",
+      "url": "https://open.spotify.com/track/6vwAUOhw6l1fSAbLjHZBo0"
+    },
+    {
+      "album": {
+        "name": "KARMA",
+        "url": "https://open.spotify.com/album/6ooIqBUjoxd1MAzRfF4SGj"
+      },
+      "artists": [
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168274,
+      "name": "KARMA",
+      "url": "https://open.spotify.com/track/4wK7cKpXBSTuXPmWKG1pTg"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/1t6ey57jKPumpSusx0mMKn"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205118,
+      "name": "Kuthu Fire",
+      "url": "https://open.spotify.com/track/2XeiE7RWxBQCNdCvZzqTiA"
+    },
+    {
+      "album": {
+        "name": "Kuthu Fire",
+        "url": "https://open.spotify.com/album/22N9hU678amR5NiwIIlnEy"
+      },
+      "artists": [
+        {
+          "name": "Vidya Vox",
+          "url": "https://open.spotify.com/artist/4OFJbe1HHVcpnw480py1uN"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 205118,
+      "name": "Kuthu Fire",
+      "url": "https://open.spotify.com/track/2pqPH34BNK9eTi2TBVSExL"
+    },
+    {
+      "album": {
+        "name": "Ladke",
+        "url": "https://open.spotify.com/album/4Uh9XqmhAOByEFxoM5zJ4q"
+      },
+      "artists": [
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152327,
+      "name": "Ladke",
+      "url": "https://open.spotify.com/track/17hbpd8PHheADKIJF6U7YK"
+    },
+    {
+      "album": {
+        "name": "Ladke",
+        "url": "https://open.spotify.com/album/5JoeYlEhBE7R1LOQUG1Uqr"
+      },
+      "artists": [
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        },
+        {
+          "name": "REHMA",
+          "url": "https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152327,
+      "name": "Ladke",
+      "url": "https://open.spotify.com/track/2eNTpPmJhxKbULrc0BtbRj"
+    },
+    {
+      "album": {
+        "name": "Tightrope Walker",
+        "url": "https://open.spotify.com/album/1m8boVg3zd9sXFLlMYKMy4"
+      },
+      "artists": [
+        {
+          "name": "Rachael Yamagata",
+          "url": "https://open.spotify.com/artist/7w0qj2HiAPIeUcoPogvOZ6"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288700,
+      "name": "Let Me Be Your Girl",
+      "url": "https://open.spotify.com/track/7yg0qtS3Ny9ib9FFc9OuId"
+    },
+    {
+      "album": {
+        "name": "Lost In Japan",
+        "url": "https://open.spotify.com/album/1rJzWVqveYf67JtkrqBHQM"
+      },
+      "artists": [
+        {
+          "name": "Citizen Queen",
+          "url": "https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181564,
+      "name": "Lost In Japan",
+      "url": "https://open.spotify.com/track/2wEYhUrt3xrxWkHeAIYd6S"
+    },
+    {
+      "album": {
+        "name": "MAKE IT MINE",
+        "url": "https://open.spotify.com/album/1P02N6AY2tk7mKlU5tjANK"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130967,
+      "name": "MAKE IT MINE",
+      "url": "https://open.spotify.com/track/4WnxgTTFsaJ7Fhh4CQbevQ"
+    },
+    {
+      "album": {
+        "name": "No Fire",
+        "url": "https://open.spotify.com/album/1RqgwCz5bFe7FAZSpeB1we"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 193885,
+      "name": "No Fire",
+      "url": "https://open.spotify.com/track/1wv18B6Z3Sc82PTwsthRKq"
+    },
+    {
+      "album": {
+        "name": "No Fire",
+        "url": "https://open.spotify.com/album/2yKRqx4PIXWmNWglUaHZgg"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193885,
+      "name": "No Fire",
+      "url": "https://open.spotify.com/track/254FecGsiOAtDYPKbdhUqq"
+    },
+    {
+      "album": {
+        "name": "No Fire",
+        "url": "https://open.spotify.com/album/3U2gwkS3N72ELWDqVky9pQ"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193885,
+      "name": "No Fire",
+      "url": "https://open.spotify.com/track/7ng8M65zraeczfUW3r9DQM"
+    },
+    {
+      "album": {
+        "name": "Ol' Dude",
+        "url": "https://open.spotify.com/album/6qZ81JK9kCmzJZR0lNTjHL"
+      },
+      "artists": [
+        {
+          "name": "Shreea Kaul",
+          "url": "https://open.spotify.com/artist/1c203LuoIFKuIn2X5Uz5lE"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177387,
+      "name": "Ol' Dude",
+      "url": "https://open.spotify.com/track/4LYQZVXSnW7IZYmyaW32U5"
+    },
+    {
+      "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4c4aLA391P0WfAZOnaqhUR"
+      },
+      "artists": [
+        {
+          "name": "RIKA",
+          "url": "https://open.spotify.com/artist/6Si6fslrH2xSORoY5TclT5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161626,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/38zEODrwgUnlWODI3AGW7S"
+    },
+    {
+      "album": {
+        "name": "goldilocks x",
+        "url": "https://open.spotify.com/album/2nkqAzbvQUWZ0p88NxrJ7s"
+      },
+      "artists": [
+        {
+          "name": "Tommy Genesis",
+          "url": "https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167113,
+      "name": "peppermint",
+      "url": "https://open.spotify.com/track/1B2trkDtiqvM0MBjFShWz9"
+    },
+    {
+      "album": {
+        "name": "PSYCHO HOLE",
+        "url": "https://open.spotify.com/album/3wuSvuTGQbfQrvTG4MTsir"
+      },
+      "artists": [
+        {
+          "name": "ASHWARYA",
+          "url": "https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225247,
+      "name": "PSYCHO HOLE",
+      "url": "https://open.spotify.com/track/3tpn9S7AZdy9MjmRX69xND"
+    },
+    {
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/0UF11gV73DufP2QSgL7553"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164768,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/3sVhlEsPFzrHD6b6kiOtDM"
+    },
+    {
+      "album": {
+        "name": "RUNAWAY",
+        "url": "https://open.spotify.com/album/5Yl0liNZMlc6C1aAH6KXoh"
+      },
+      "artists": [
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164768,
+      "name": "RUNAWAY",
+      "url": "https://open.spotify.com/track/5XX6yZbIiKGhPmgDazBNhN"
+    },
+    {
+      "album": {
+        "name": "See U Never",
+        "url": "https://open.spotify.com/album/3ZqxhYWOhGEXYrYUkuflL0"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221620,
+      "name": "See U Never",
+      "url": "https://open.spotify.com/track/5nPdol1JZWJqG4OSHVzSCF"
+    },
+    {
+      "album": {
+        "name": "Stoked",
+        "url": "https://open.spotify.com/album/1OU3G06GfW9lFtJ2Tneohy"
+      },
+      "artists": [
+        {
+          "name": "Weston Estate",
+          "url": "https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189329,
+      "name": "Stoked",
+      "url": "https://open.spotify.com/track/6nef0wHkelfKqNVHAtzJbR"
+    },
+    {
+      "album": {
+        "name": "Sugarcoat",
+        "url": "https://open.spotify.com/album/1prY9LTdmMIeSyc0VCw8dF"
+      },
+      "artists": [
+        {
+          "name": "Malavika",
+          "url": "https://open.spotify.com/artist/1TCfnoI5nqmdISEbaZSpFZ"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Sugarcoat",
+      "url": "https://open.spotify.com/track/02LXZvKAyndCmWGzrp0sBT"
+    },
+    {
+      "album": {
+        "name": "Sway With Me (with GALXARA)",
+        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "GALXARA",
+          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168018,
+      "name": "Sway With Me (with GALXARA)",
+      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
+    },
+    {
+      "album": {
+        "name": "Talk Talk",
+        "url": "https://open.spotify.com/album/50kyW0bqOeH1SWb57DUrCV"
+      },
+      "artists": [
+        {
+          "name": "\u62c9\u5a1c",
+          "url": "https://open.spotify.com/artist/6VjWK5SUspQwIzFaRaWIel"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213785,
+      "name": "Talk Talk",
+      "url": "https://open.spotify.com/track/6cTsBThkBab2yEfFvY5nJd"
+    },
+    {
+      "album": {
+        "name": "Upside",
+        "url": "https://open.spotify.com/album/5huXDLGFyTBjbtYxjilbJ1"
+      },
+      "artists": [
+        {
+          "name": "Judith Hill",
+          "url": "https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170865,
+      "name": "Upside",
+      "url": "https://open.spotify.com/track/1eRvvnfpeisIH2JY07equa"
+    },
+    {
+      "album": {
+        "name": "Venom",
+        "url": "https://open.spotify.com/album/2Sl73qVduRb08sWj28sIjz"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113406,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/0JTcrSy0QHpzpdiXykZufX"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177041,
+      "name": "We Out Here - Bonus Track",
+      "url": "https://open.spotify.com/track/5h1nLTGPTG3OjFEzeWlHHD"
+    },
+    {
+      "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "What I Need (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5nFyaoBWwwMJ9fv33tZ2MB"
+    },
+    {
+      "album": {
+        "name": "SAWAYAMA",
+        "url": "https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201060,
+      "name": "XS",
+      "url": "https://open.spotify.com/track/1TWNKyNQOBfNUkWWs7FooF"
+    },
+    {
+      "album": {
+        "name": "You Look so Good",
+        "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "date_added": "2022-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170728,
+      "name": "You Look so Good",
+      "url": "https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0mO9hA9XUb4"
 }

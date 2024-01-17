@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-102 songs - 6 hr 59 min
+104 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,9 @@
 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 | 2021-10-21 |  |
 | [Bhaio Bhin](https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI) | [Sarah](https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb), [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 3:51 | 2021-10-21 |  |
 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 | 2022-06-22 |  |
+| [Bholo Bholo](https://open.spotify.com/track/6t4PpvS1hC2DD0v99WQjHN) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq), [Fojo](https://open.spotify.com/artist/1LOWdqg4PUzzIDEXagG4Ft), [Fiona Singh](https://open.spotify.com/artist/5Z02QXCya9wAsOd9qVUZMf) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:56 | 2024-01-11 |  |
 | [Birana](https://open.spotify.com/track/2ieNMS5bcrFHzeXuRltLlz) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/74qikSE4Wj924WHoPJYPgf) | 4:33 | 2022-06-22 | 2022-10-06 |
-| [Birana](https://open.spotify.com/track/70NzqCskRA7XRDUos19Wq3) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/2lZyQHX5F8QCMqQgC8QyTr) | 4:33 | 2022-09-27 |  |
+| [Birana](https://open.spotify.com/track/70NzqCskRA7XRDUos19Wq3) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Birana](https://open.spotify.com/album/2lZyQHX5F8QCMqQgC8QyTr) | 4:33 | 2022-09-27 | 2024-01-12 |
 | [Bollywood](https://open.spotify.com/track/70zwaLKQHTsfnpopKJ8RZN) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [K RICH](https://open.spotify.com/artist/4APcCG1bHmbxwPjbEQ6YQA) | [Curry Que Riddim](https://open.spotify.com/album/3HzvqUiLh4iJD6TB096WLo) | 3:06 | 2021-10-21 | 2022-06-23 |
 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 | 2021-10-21 |  |
 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 | 2021-10-21 |  |
@@ -32,7 +33,7 @@
 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 | 2023-09-06 |  |
 | [Chal Kechal](https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:56 | 2022-06-22 |  |
 | [Champion](https://open.spotify.com/track/6AxialEjIE7B74QNAs1PGu) | [Dwayne Bravo](https://open.spotify.com/artist/6ojv0aS0qisHLi5IgYowXI) | [Champion](https://open.spotify.com/album/3LWQqkmaprr7Zf2LUnB9Mn) | 2:29 | 2021-10-21 | 2022-06-23 |
-| [Chapar](https://open.spotify.com/track/578PfZQhcglyX136Y1nGpP) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Chapar](https://open.spotify.com/album/4dOCgZEUBvys0ZW6CYXhIQ) | 3:36 | 2022-06-22 |  |
+| [Chapar](https://open.spotify.com/track/578PfZQhcglyX136Y1nGpP) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Chapar](https://open.spotify.com/album/4dOCgZEUBvys0ZW6CYXhIQ) | 3:36 | 2022-06-22 | 2024-01-12 |
 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 | 2022-09-15 |  |
 | [Chutney](https://open.spotify.com/track/6ipW3uRbbsH672TQZZWwMF) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Drupatee Ramgoonai](https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz) | 5:10 | 2023-02-06 |  |
 | [Chutney Bachannal](https://open.spotify.com/track/5P0X7qfDz1XsrlOi31vi1g) | [Byron Lee](https://open.spotify.com/artist/1qerVYQkyneFNgZfMKH6HX), [The Dragonaires](https://open.spotify.com/artist/6lSdMYrQWXU22MBTq1qc0y) | [Soca Engine](https://open.spotify.com/album/1XZv3qPdcRhpyQXpULHedg) | 3:03 | 2022-07-12 |  |
@@ -106,6 +107,7 @@
 | [Soca Bhangra](https://open.spotify.com/track/1hEDFirSFxTFM4p6FHbSL5) | [Bunji Garlin & Shammi](https://open.spotify.com/artist/6EE3XVTI99bu42FHGzTziR) | [Soca Gold 2003](https://open.spotify.com/album/5Eg7rfQh9NtDvffZ1yyyyP) | 3:56 | 2021-10-21 | 2022-06-23 |
 | [Tek Meh Gul \(feat\. Hitman & Andy Singh\)](https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Andy Singh](https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz), [Hitman](https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG) | [Karmageddon](https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc) | 5:00 | 2021-10-21 |  |
 | [Tell Where Yuh From \(feat\. Neeshan Prabhoo\)](https://open.spotify.com/track/1mr68zqTjj5tHRVUkSyGfa) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Neeshan Prabhoo](https://open.spotify.com/artist/6cqqpiOe197K2rEGTzEsIs) | [Karmageddon](https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc) | 3:16 | 2021-10-21 | 2022-06-23 |
+| [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 | 2024-01-11 |  |
 | [Tu tani se lage hai](https://open.spotify.com/track/00vleY8Bli2zfCLsmBjb6B) | [Raj Mohan](https://open.spotify.com/artist/6q9e4Kaz8B1rWUhn90FKHH) | [Kantráki / Contract Labourer](https://open.spotify.com/album/6dP0XhtwqilpImIPxApFoN) | 4:43 | 2022-06-22 | 2022-09-28 |
 | [Wine on Me](https://open.spotify.com/track/1AWYz94FX04hFocOxUwqFz) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Karma the Band](https://open.spotify.com/artist/52MoRnO0o1FgFRlFrNhc4E), [Kees](https://open.spotify.com/artist/1gosPmtnE4fZcPbQb6QjTM), [Nisha Bissambhar](https://open.spotify.com/artist/5zaF9yRIWE1zhToYvdzwRn) | [Karma Unleashed](https://open.spotify.com/album/1Cq2RuKjDlOEobzvKpnPPc) | 3:46 | 2021-10-21 | 2022-06-23 |
 | [Yard Fowl](https://open.spotify.com/track/0ig6iNhu240WdlFNdEO8z6) | [Kenneth Salick](https://open.spotify.com/artist/6SmabcvkBcB2lpaQn3EdN6), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Yard Fowl](https://open.spotify.com/album/5HZXzchA8gyOYaCujmpxTd) | 3:58 | 2022-09-27 |  |

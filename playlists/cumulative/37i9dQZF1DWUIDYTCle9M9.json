@@ -247,6 +247,28 @@
     },
     {
       "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
+    },
+    {
+      "album": {
         "name": "Los Hermanos",
         "url": "https://open.spotify.com/album/5cZ2ehOhB8ZQ0yCHJZyhlh"
       },
@@ -1394,7 +1416,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 289133,
       "name": "I Gotta Feeling",
       "url": "https://open.spotify.com/track/2H1047e0oMSj10dgp7p2VG"
@@ -1679,6 +1701,28 @@
     },
     {
       "album": {
+        "name": "Mensagem de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6If6NctPizDNAcgrnVG5gN"
+      },
+      "artists": [
+        {
+          "name": "Toni Platao",
+          "url": "https://open.spotify.com/artist/7drMo8O4JHwK9n9mTfpkoM"
+        },
+        {
+          "name": "Mumuzinho",
+          "url": "https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238760,
+      "name": "Mensagem de Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7oslptGlQaO6QQDutI7t7h"
+    },
+    {
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J"
       },
@@ -1708,7 +1752,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192190,
       "name": "My House",
       "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1"
@@ -2230,7 +2274,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 228000,
       "name": "Saideira - Ao Vivo",
       "url": "https://open.spotify.com/track/6JXOcssLcLq4STrYTfLa3I"
@@ -2302,7 +2346,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 201287,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/4ofwffwvvnbSkrMSCKQDaC"
@@ -2734,7 +2778,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": "2024-01-11",
       "duration_ms": 201773,
       "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
       "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"

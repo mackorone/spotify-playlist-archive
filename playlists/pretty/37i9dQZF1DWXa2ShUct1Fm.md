@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,317 likes - 164 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,142 likes - 164 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,7 +120,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 110 | [Run to you](https://open.spotify.com/track/7MhirYiYlbhN8L1y6VwbBu) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:14 |
 | 111 | [Thinkin' about you](https://open.spotify.com/track/2oGLTWJpqJxr1oM8yM5pwO) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN SPECIAL ALBUM 'DIRECTOR'S CUT’](https://open.spotify.com/album/5QpD7kgp5dpkNFuG6ez2yI) | 3:41 |
 | 112 | [Habit](https://open.spotify.com/track/0ePDb0b1tMQlqP9u58pmcg) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Mini Album ‘Al1’](https://open.spotify.com/album/2BNimvLLlD89e4Sb7ZVX6I) | 4:13 |
-| 113 | [SWEETEST THING](https://open.spotify.com/track/5KQxlns9VOvH50PbSMWiUU) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/0ChZoRdAFz2ndevcYBkzlO) | 3:38 |
+| 113 | [SWEETEST THING](https://open.spotify.com/track/3XFlKoTOgfMzUJmpwFp0ri) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Chocolate,Pt.1\(Original Television Soundtrack\)](https://open.spotify.com/album/6yUiH6Ny04UXYdGtkTQOUL) | 3:38 |
 | 114 | [Don't listen in secret](https://open.spotify.com/track/01bnqaE6nQogjdMMrrL1dj) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Seventeen 3rd Mini Album ’Going Seventeen’](https://open.spotify.com/album/3wXGFboFgcK9ezbPuSrKk9) | 3:57 |
 | 115 | [A\-TEEN](https://open.spotify.com/track/5P0Uo1LqAgvFuxabQMe81X) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [A\-TEEN Part.3](https://open.spotify.com/album/62kX5esOPtWPjfCbT7tQwb) | 3:16 |
 | 116 | [ROCKET](https://open.spotify.com/track/3o83eepKSAqhA2pkdxXCkL) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 2ND ALBUM 'TEEN, AGE' \(2\)](https://open.spotify.com/album/5aHdNainJWMc3n2AqfiOg5) | 3:08 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 163 | [Miracle](https://open.spotify.com/track/0YLLRbbpq3Qte4rszcddMk) | [WOOZI](https://open.spotify.com/artist/4TdiASPlU3QdZvGQBothcQ) | [The Tale Of Nokdu \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1ocOn4sgfTUE2QiuPDC2Sm) | 3:38 |
 | 164 | [Lotto \(feat.Don Mills\) \(Prod\. by Gonzo\)](https://open.spotify.com/track/1Jg92FCIcH6fcAl30QZfZi) | [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Lotto](https://open.spotify.com/album/2QVaWXBBQMxUQBADLgGLIV) | 3:25 |
 
-Snapshot ID: `MCxhMTA5YTJiOWM3ODY2NTkwZjUwZTBkYzZiYTQ5OGYyZDdjMDQ2MDIz`
+Snapshot ID: `MCw1YzM5YTNhNmU5MTI2YzQ3ZTExYWE3MWQ5NjAyNDhkNGY4ZjNkNTgw`

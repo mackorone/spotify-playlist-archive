@@ -1,97 +1,1287 @@
 {
-  "2023-09-29": 2487,
-  "2023-09-30": 2488,
-  "2023-10-01": 2491,
-  "2023-10-02": 2490,
-  "2023-10-03": 2491,
-  "2023-10-04": 2492,
-  "2023-10-05": 2494,
-  "2023-10-06": 2497,
-  "2023-10-07": 2501,
-  "2023-10-08": 2501,
-  "2023-10-09": 2507,
-  "2023-10-10": 2507,
-  "2023-10-11": 2513,
-  "2023-10-12": 2513,
-  "2023-10-13": 2518,
-  "2023-10-14": 2519,
-  "2023-10-15": 2522,
-  "2023-10-16": 2525,
-  "2023-10-17": 2527,
-  "2023-10-18": 2528,
-  "2023-10-19": 2528,
-  "2023-10-20": 2531,
-  "2023-10-21": 2533,
-  "2023-10-22": 2533,
-  "2023-10-23": 2534,
-  "2023-10-24": 2541,
-  "2023-10-25": 2544,
-  "2023-10-26": 2546,
-  "2023-10-27": 2550,
-  "2023-10-28": 2556,
-  "2023-10-29": 2557,
-  "2023-10-30": 2562,
-  "2023-10-31": 2562,
-  "2023-11-01": 2566,
-  "2023-11-02": 2570,
-  "2023-11-03": 2571,
-  "2023-11-04": 2573,
-  "2023-11-05": 2578,
-  "2023-11-06": 2582,
-  "2023-11-07": 2582,
-  "2023-11-08": 2587,
-  "2023-11-09": 2589,
-  "2023-11-10": 2590,
-  "2023-11-11": 2589,
-  "2023-11-12": 2591,
-  "2023-11-13": 2594,
-  "2023-11-14": 2595,
-  "2023-11-15": 2595,
-  "2023-11-16": 2599,
-  "2023-11-17": 2600,
-  "2023-11-18": 2600,
-  "2023-11-19": 2602,
-  "2023-11-20": 2605,
-  "2023-11-21": 2610,
-  "2023-11-22": 2619,
-  "2023-11-23": 2625,
-  "2023-11-24": 2627,
-  "2023-11-25": 2626,
-  "2023-11-26": 2629,
-  "2023-11-27": 2634,
-  "2023-11-28": 2636,
-  "2023-11-29": 2649,
-  "2023-11-30": 2649,
-  "2023-12-01": 2653,
-  "2023-12-02": 2661,
-  "2023-12-03": 2664,
-  "2023-12-04": 2667,
-  "2023-12-05": 2670,
-  "2023-12-06": 2671,
-  "2023-12-07": 2673,
-  "2023-12-08": 2674,
-  "2023-12-09": 2676,
-  "2023-12-10": 2678,
-  "2023-12-11": 2683,
-  "2023-12-12": 2684,
-  "2023-12-13": 2686,
-  "2023-12-14": 2689,
-  "2023-12-15": 2692,
-  "2023-12-16": 2690,
-  "2023-12-17": 2694,
-  "2023-12-18": 2695,
-  "2023-12-19": 2697,
-  "2023-12-20": 2698,
-  "2023-12-21": 2698,
-  "2023-12-22": 2701,
-  "2023-12-23": 2700,
-  "2023-12-24": 2699,
-  "2023-12-25": 2701,
-  "2023-12-26": 2701,
-  "2023-12-27": 2707,
-  "2023-12-30": 2714,
-  "2023-12-31": 2715,
-  "2024-01-01": 2717,
-  "2024-01-02": 2722,
-  "2024-01-03": 2725
+  "2024-01-17": 2762,
+  "date_first_scraped": "2023-09-29",
+  "description": "Quelques chansons tranquilles pour des moments tendres et complices",
+  "name": "Douceurs acoustiques",
+  "tracks": [
+    {
+      "album": {
+        "name": "Vous & moi",
+        "url": "https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        },
+        {
+          "name": "Dick Rivers",
+          "url": "https://open.spotify.com/artist/7EErtRkIXKEnllrCa1a7xR"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Africa (with Dick Rivers) - Acoustic",
+      "url": "https://open.spotify.com/track/7ymUswVurmzlemLf74Ob4K"
+    },
+    {
+      "album": {
+        "name": "beau-papa",
+        "url": "https://open.spotify.com/album/6yjAQKNvPjnpqiDV7MC38n"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199998,
+      "name": "beau-papa",
+      "url": "https://open.spotify.com/track/1WnF8aQf2WezWlJIpslJ7m"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur de pirate",
+        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127400,
+      "name": "Berceuse",
+      "url": "https://open.spotify.com/track/2B2RGvB17Otaw6LdizQ4oq"
+    },
+    {
+      "album": {
+        "name": "Nino Kids",
+        "url": "https://open.spotify.com/album/16pCEADUR6oRyqHt4Tad1n"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77866,
+      "name": "Chanson Pour Petit Bout",
+      "url": "https://open.spotify.com/track/0VhxCyQCOuHuIR0gSjuTNX"
+    },
+    {
+      "album": {
+        "name": "Vous & moi",
+        "url": "https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226293,
+      "name": "Coco C\u00e2line - Acoustic",
+      "url": "https://open.spotify.com/track/78KD7blxwETXx2wo57jSEs"
+    },
+    {
+      "album": {
+        "name": "C\u0153ur de pirate",
+        "url": "https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169106,
+      "name": "Comme des enfants",
+      "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "album": {
+        "name": "IL Y A Longtemps Que Je T'aime [B.O. Du Film De P.Claudel]",
+        "url": "https://open.spotify.com/album/5vRnmtfrIvwlydCxpsdDBr"
+      },
+      "artists": [
+        {
+          "name": "Jean-Louis Aubert",
+          "url": "https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269440,
+      "name": "Dis quand reviendras-tu ?",
+      "url": "https://open.spotify.com/track/3CF6eEQIylA5NFlDxBtZVP"
+    },
+    {
+      "album": {
+        "name": "Henri Salvador chante pour les enfants",
+        "url": "https://open.spotify.com/album/3zT72RVo9o9yylTgawheyu"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Dors mon petit ange",
+      "url": "https://open.spotify.com/track/6QpiubnPJ4vEDOLnUA3Q2a"
+    },
+    {
+      "album": {
+        "name": "Emm\u00e8ne-moi (feat. L.E.J)",
+        "url": "https://open.spotify.com/album/5eRerGrB84BcQFaGyYZyXB"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        },
+        {
+          "name": "L.E.J",
+          "url": "https://open.spotify.com/artist/7kKKMBmEtyQcPb9idicNr7"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172346,
+      "name": "Emm\u00e8ne-moi (feat. L.E.J)",
+      "url": "https://open.spotify.com/track/6PmjmuQxr4bkssYwUxMNrQ"
+    },
+    {
+      "album": {
+        "name": "Nos histoires",
+        "url": "https://open.spotify.com/album/7CMheWWt0vjfNNBwYx4sIg"
+      },
+      "artists": [
+        {
+          "name": "La Grande Sophie",
+          "url": "https://open.spotify.com/artist/76IqDKTydgWzyIuNpUD3Jg"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348440,
+      "name": "Hano\u00ef",
+      "url": "https://open.spotify.com/track/719MetPJkfGf8cpeafcgFA"
+    },
+    {
+      "album": {
+        "name": "L'attrape-r\u00eaves",
+        "url": "https://open.spotify.com/album/5gKqyN7Gths4NJi0mtf3pI"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250480,
+      "name": "Il est o\u00f9 le bonheur",
+      "url": "https://open.spotify.com/track/1TM73fujNDKSpigPLfxCZm"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183080,
+      "name": "Il y a",
+      "url": "https://open.spotify.com/track/0F6ju9gPE2nUiqOgixQFZ9"
+    },
+    {
+      "album": {
+        "name": "Eternels jusqu\u2019\u00e0 demain",
+        "url": "https://open.spotify.com/album/6h57y7voPpiRDYnh4X6hqg"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "I\u2019ll See You In My Dreams",
+      "url": "https://open.spotify.com/track/0SOeHOnrKeUCSoLD1lbjcj"
+    },
+    {
+      "album": {
+        "name": "Les Reprises",
+        "url": "https://open.spotify.com/album/0FXvzxrw0ojVDRC3CpG9wA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Ruiz",
+          "url": "https://open.spotify.com/artist/12OSqKGORygb2C6H36qKuj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "J'Envoie Valser",
+      "url": "https://open.spotify.com/track/5MwcRqYCC4d7hOdgb0i5Td"
+    },
+    {
+      "album": {
+        "name": "Vianney",
+        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "J'm'en fous",
+      "url": "https://open.spotify.com/track/51kz0pS0t6ZjcKX1quyQAK"
+    },
+    {
+      "album": {
+        "name": "Chambre avec vue",
+        "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Jardin d'hiver",
+      "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "album": {
+        "name": "Les chemins de traverse (Remastered)",
+        "url": "https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163466,
+      "name": "Je l'aime \u00e0 mourir - Remastered",
+      "url": "https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO"
+    },
+    {
+      "album": {
+        "name": "Vianney",
+        "url": "https://open.spotify.com/album/51uvnRRpgp7FEUO7Y0jj5O"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198773,
+      "name": "Je m'en vais",
+      "url": "https://open.spotify.com/track/6cZDf3mpynxrZbnx95j0tp"
+    },
+    {
+      "album": {
+        "name": "Je me dis que toi aussi (Version acoustique)",
+        "url": "https://open.spotify.com/album/1uGJC0WTkPIcSTs10rW2SX"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143013,
+      "name": "Je me dis que toi aussi - Version acoustique",
+      "url": "https://open.spotify.com/track/6C6zXuXTNnHza7OFC9X1z7"
+    },
+    {
+      "album": {
+        "name": "les failles",
+        "url": "https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138746,
+      "name": "je sais pas danser",
+      "url": "https://open.spotify.com/track/7FMDhuPk4KiG2Y1DV7y56c"
+    },
+    {
+      "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Je veux tes yeux",
+      "url": "https://open.spotify.com/track/1ZV4ZCUVOwt5gSnWoQEnY2"
+    },
+    {
+      "album": {
+        "name": "Chambre 12",
+        "url": "https://open.spotify.com/album/3Es3rIJujUaxh8HrPZwgmr"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Je vole",
+      "url": "https://open.spotify.com/track/5WhMVZ58MqdvACu3OaP5cZ"
+    },
+    {
+      "album": {
+        "name": "Fragile (Remastered)",
+        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186706,
+      "name": "L'encre de tes yeux - Remastered",
+      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
+    },
+    {
+      "album": {
+        "name": "Divinidylle",
+        "url": "https://open.spotify.com/album/4pywhrSfNmGJVO6SAQxza4"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206240,
+      "name": "L'incendie",
+      "url": "https://open.spotify.com/track/6l7RgOsJr8CGBO6EmYTO8C"
+    },
+    {
+      "album": {
+        "name": "Yves Duteil chante les enfants",
+        "url": "https://open.spotify.com/album/5zdcIJG9qVGmKL7qb1Wjx3"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155506,
+      "name": "L'op\u00e9ra",
+      "url": "https://open.spotify.com/track/6xv4Qaypw08v8OceC9cXrY"
+    },
+    {
+      "album": {
+        "name": "aim\u00e9e",
+        "url": "https://open.spotify.com/album/6BDmnvL4iyvqfXR4OtDZ2r"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227466,
+      "name": "L'\u00eele au lendemain (feat. Clara Luciani)",
+      "url": "https://open.spotify.com/track/6mNXZmVqnfXEUpkjtApd2V"
+    },
+    {
+      "album": {
+        "name": "La bonne \u00e9toile",
+        "url": "https://open.spotify.com/album/5m5Qe4fwmXtLjlADVsO0bB"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        },
+        {
+          "name": "Ariane Moffat",
+          "url": "https://open.spotify.com/artist/6WCfv3ApgE7lAYwW9NY8GO"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252333,
+      "name": "La bonne \u00e9toile (Duo dub) [feat. Ariane Moffat]",
+      "url": "https://open.spotify.com/track/65XxFc7ir5H4iUWlfCfBRW"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9tonnant Serge Gainsbourg (N\u00b03)",
+        "url": "https://open.spotify.com/album/5sMMhisGphUYvtb9jmdydj"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182013,
+      "name": "La chanson de Pr\u00e9vert",
+      "url": "https://open.spotify.com/track/0Y04xGwKImCqVSFZQI5All"
+    },
+    {
+      "album": {
+        "name": "Zaz",
+        "url": "https://open.spotify.com/album/6MuoqipFgorIZEYwGWEFAU"
+      },
+      "artists": [
+        {
+          "name": "Zaz",
+          "url": "https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245385,
+      "name": "La f\u00e9e",
+      "url": "https://open.spotify.com/track/06pqXPHiUMiTagMqmDKttd"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose 2",
+        "url": "https://open.spotify.com/album/0VoSSoBOjDUqrUZDxEQ7Br"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 197760,
+      "name": "La sieste",
+      "url": "https://open.spotify.com/track/0Hac68gGmbJEDbcWsOQReb"
+    },
+    {
+      "album": {
+        "name": "Le Soldat Rose 2",
+        "url": "https://open.spotify.com/album/6fZCT61LQYLgNuwQkR8JCD"
+      },
+      "artists": [
+        {
+          "name": "Le Soldat Rose",
+          "url": "https://open.spotify.com/artist/2rOCPPNRJnQMkNa5D18Ef2"
+        },
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197760,
+      "name": "La sieste (feat. T\u00e9t\u00e9)",
+      "url": "https://open.spotify.com/track/1erAsezbhHFWDURC6OGkEj"
+    },
+    {
+      "album": {
+        "name": "Enfantillages 3",
+        "url": "https://open.spotify.com/album/77kv2o5PJeW3mim1yWPiMA"
+      },
+      "artists": [
+        {
+          "name": "Aldebert",
+          "url": "https://open.spotify.com/artist/1Vr9NCbc1sYiPDeZmFjOTS"
+        },
+        {
+          "name": "Malou Harel",
+          "url": "https://open.spotify.com/artist/6ttO3F8QBMsaaEA7NCPLTI"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "La vie c'est quoi ?",
+      "url": "https://open.spotify.com/track/2ApNTgwQpO1X64nCT8sXWn"
+    },
+    {
+      "album": {
+        "name": "La vie d'artiste",
+        "url": "https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223866,
+      "name": "La vie d'artiste",
+      "url": "https://open.spotify.com/track/5rE7sFkSxvGjPkQgu8zSsp"
+    },
+    {
+      "album": {
+        "name": "Best Of & Variations",
+        "url": "https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250200,
+      "name": "Le baiser",
+      "url": "https://open.spotify.com/track/5mVzrfnZncbgZsUGcj2DkU"
+    },
+    {
+      "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+    },
+    {
+      "album": {
+        "name": "Des ombres et des lumi\u00e8res",
+        "url": "https://open.spotify.com/album/3XuF0RF1ZBgyr0J5dJSJZt"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232986,
+      "name": "Le coeur \u00e9l\u00e9phant",
+      "url": "https://open.spotify.com/track/2lij6UjT8o2N74udWSE1AB"
+    },
+    {
+      "album": {
+        "name": "Ma Chanson D'Enfance",
+        "url": "https://open.spotify.com/album/1ZpENiPIL7B3tLWpHjC51S"
+      },
+      "artists": [
+        {
+          "name": "Bernard Lavilliers",
+          "url": "https://open.spotify.com/artist/20YtJDRaSzJREUlVvNfYB3"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144360,
+      "name": "Le Loup La Biche Et Le Chevalier",
+      "url": "https://open.spotify.com/track/5djeefJNI0DazEi44qp25z"
+    },
+    {
+      "album": {
+        "name": "Les feux d'artifice (Deluxe)",
+        "url": "https://open.spotify.com/album/4bauhAhQtAvxo0r5cnn68G"
+      },
+      "artists": [
+        {
+          "name": "Calogero",
+          "url": "https://open.spotify.com/artist/5Nq9MbzweBc5oL4WzsECx4"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183840,
+      "name": "Le portrait - Acoustique",
+      "url": "https://open.spotify.com/track/1AepftfmEz0Nv44jkxayeh"
+    },
+    {
+      "album": {
+        "name": "Frenchy (Deluxe Version)",
+        "url": "https://open.spotify.com/album/58bdFlzDzkwFRs6hct7CtW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dutronc",
+          "url": "https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108320,
+      "name": "Le premier bonheur du jour",
+      "url": "https://open.spotify.com/track/1QiK39v4YOtHz5ziquZMn6"
+    },
+    {
+      "album": {
+        "name": "Nino Ferrer",
+        "url": "https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG"
+      },
+      "artists": [
+        {
+          "name": "Nino Ferrer",
+          "url": "https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275040,
+      "name": "Le sud",
+      "url": "https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD"
+    },
+    {
+      "album": {
+        "name": "Ma Chanson D'Enfance",
+        "url": "https://open.spotify.com/album/1ZpENiPIL7B3tLWpHjC51S"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222026,
+      "name": "Le Tourbillon",
+      "url": "https://open.spotify.com/track/4i4rIPSGXRYhy0QCrSmfZ6"
+    },
+    {
+      "album": {
+        "name": "Une place pour moi",
+        "url": "https://open.spotify.com/album/2wghVdeCqQTaOavwTo3yWD"
+      },
+      "artists": [
+        {
+          "name": "Joyce Jonathan",
+          "url": "https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE"
+        },
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262373,
+      "name": "Les filles d'aujourd'hui",
+      "url": "https://open.spotify.com/track/0QprVASPJEbmOhD9P2gcNG"
+    },
+    {
+      "album": {
+        "name": "La vie d'artiste",
+        "url": "https://open.spotify.com/album/77umZ5RoAPP2dnv0ibyjAQ"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Les gens",
+      "url": "https://open.spotify.com/track/3bCC5fxH6wMAOeCCqMzFLN"
+    },
+    {
+      "album": {
+        "name": "D\u2019Une Tonne A Un Tout Petit Poids",
+        "url": "https://open.spotify.com/album/3IZYKZL2tUqYKUL9EAbPpt"
+      },
+      "artists": [
+        {
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253546,
+      "name": "Les Secrets Chuchot\u00e9s",
+      "url": "https://open.spotify.com/track/3DnoHIA9BPsMBNVnMYbYIL"
+    },
+    {
+      "album": {
+        "name": "Chambre 12 (Deluxe)",
+        "url": "https://open.spotify.com/album/3xYOBFQWa6kJ1pKzbo4Spt"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160693,
+      "name": "Maman",
+      "url": "https://open.spotify.com/track/2oCkXoSDwMd5b2zEUHI6aA"
+    },
+    {
+      "album": {
+        "name": "Henri Salvador-Grands succ\u00e8s",
+        "url": "https://open.spotify.com/album/3ao6OVStUYIxkkXdqa6Qzz"
+      },
+      "artists": [
+        {
+          "name": "Henri Salvador",
+          "url": "https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193586,
+      "name": "Maman la plues belle du monde",
+      "url": "https://open.spotify.com/track/5BWYjkqsy0xiLCqWTB2Iuz"
+    },
+    {
+      "album": {
+        "name": "Merci pour \u00e7a",
+        "url": "https://open.spotify.com/album/544zXjuiQh3aDIYwc7bQXo"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203782,
+      "name": "Merci pour \u00e7a",
+      "url": "https://open.spotify.com/track/1y6n4bMkeTzf2Sx5b1DQ0v"
+    },
+    {
+      "album": {
+        "name": "La Bande A Renaud",
+        "url": "https://open.spotify.com/album/5xzBHr7suKnLz6l8JkPXRn"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Mistral gagnant",
+      "url": "https://open.spotify.com/track/4yq6Lt1S8hn8RLFwTvFfb6"
+    },
+    {
+      "album": {
+        "name": "Renaud CD Story",
+        "url": "https://open.spotify.com/album/1QuRVhgQ3UM7N9dz0O1s0z"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372200,
+      "name": "Morgane de toi",
+      "url": "https://open.spotify.com/track/5OYXpxvWMhgMntxoW1Xg8c"
+    },
+    {
+      "album": {
+        "name": "Brol",
+        "url": "https://open.spotify.com/album/6KSvWFf4g4PrIldtchJsTC"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192546,
+      "name": "Nombreux",
+      "url": "https://open.spotify.com/track/59HKbTnmmFONvKLAPuc9rF"
+    },
+    {
+      "album": {
+        "name": "Le bapt\u00eame",
+        "url": "https://open.spotify.com/album/76lN7B8wVcozwR3DK7B05j"
+      },
+      "artists": [
+        {
+          "name": "-M-",
+          "url": "https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Nostalgic du cool",
+      "url": "https://open.spotify.com/track/5zhgJUGxCvOd8K7qn3BrY8"
+    },
+    {
+      "album": {
+        "name": "Nuit 17 \u00e0 52",
+        "url": "https://open.spotify.com/album/4cs2w6vZu5FiybB2uJFWlj"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261040,
+      "name": "Nuit 17 \u00e0 52",
+      "url": "https://open.spotify.com/track/46DlBa8Ur16bfKayDj4VaT"
+    },
+    {
+      "album": {
+        "name": "Au coeur de moi (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/3RxIsw5PjwrPGYOicwJqt4"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "On dirait - Acoustic version",
+      "url": "https://open.spotify.com/track/5Lk4J1Su1lx2eTYsPMHKtH"
+    },
+    {
+      "album": {
+        "name": "Id\u00e9es blanches (Les acoustiques)",
+        "url": "https://open.spotify.com/album/0wn6iB8oezeWx0pzVTbhZt"
+      },
+      "artists": [
+        {
+          "name": "Vianney",
+          "url": "https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "Pas l\u00e0 - Acoustique",
+      "url": "https://open.spotify.com/track/1IzhHLiKs5S4pZiC2yWg6u"
+    },
+    {
+      "album": {
+        "name": "Le Jour De Clarte",
+        "url": "https://open.spotify.com/album/5Il5Gj7VRXii7xNpKHY4aC"
+      },
+      "artists": [
+        {
+          "name": "Graeme Allwright",
+          "url": "https://open.spotify.com/artist/0IacSUFvqg5bMJZFfEwsIO"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "Petit gar\u00e7on",
+      "url": "https://open.spotify.com/track/5MKmgItXKHcZQswt78k3SQ"
+    },
+    {
+      "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/5ks6A7kl0RWnqejf2k5cnu"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216506,
+      "name": "Pourtant",
+      "url": "https://open.spotify.com/track/2Y53CuS1lihvQPh2kQrpea"
+    },
+    {
+      "album": {
+        "name": "Po\u00e9sie ind\u00e9cise",
+        "url": "https://open.spotify.com/album/7FVxVVD3KcURx086rtWRn1"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "Po\u00e9sie ind\u00e9cise",
+      "url": "https://open.spotify.com/track/1HxrGiL73gWNFHkTNx2rDD"
+    },
+    {
+      "album": {
+        "name": "La tarentelle",
+        "url": "https://open.spotify.com/album/74ZWi5tnm2gY5ubaMMfSgu"
+      },
+      "artists": [
+        {
+          "name": "Yves Duteil",
+          "url": "https://open.spotify.com/artist/3LOaK3KF7jOJRsZ8J3aMSl"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258826,
+      "name": "Prendre un enfant",
+      "url": "https://open.spotify.com/track/5ArboR4WpgNf6bClJA8Xiw"
+    },
+    {
+      "album": {
+        "name": "Printemps \u00c9ternel",
+        "url": "https://open.spotify.com/album/3mabxFKODwvHWRmEjVMUUI"
+      },
+      "artists": [
+        {
+          "name": "Flo Delavega",
+          "url": "https://open.spotify.com/artist/43bHLwpFPnPHdvID2juGoZ"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Printemps \u00c9ternel",
+      "url": "https://open.spotify.com/track/5hILiyJbTPMy4F1oXGWqha"
+    },
+    {
+      "album": {
+        "name": "Ilo Veyou",
+        "url": "https://open.spotify.com/album/0tOFyyQeAYENYub9DDloWP"
+      },
+      "artists": [
+        {
+          "name": "Camille",
+          "url": "https://open.spotify.com/artist/0gOsZcHl7H3ewXVIEnWFZX"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Que je t'aime",
+      "url": "https://open.spotify.com/track/2wqHH4mITmvGf0ogwCzS5r"
+    },
+    {
+      "album": {
+        "name": "Revoir",
+        "url": "https://open.spotify.com/album/5v6PsHAyfM0DbY4EzJIyuN"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181223,
+      "name": "Revoir",
+      "url": "https://open.spotify.com/track/58M2tMXP6XuzSVFrAMifAk"
+    },
+    {
+      "album": {
+        "name": "Louane",
+        "url": "https://open.spotify.com/album/7rDvst38yYrJFGqs4W25Y8"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Si t'\u00e9tais l\u00e0",
+      "url": "https://open.spotify.com/track/3ghmFXEXTP6DdVOyvuPHpr"
+    },
+    {
+      "album": {
+        "name": "Petite Amie (Edition D\u00e9lice)",
+        "url": "https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196133,
+      "name": "Sous la Pluie",
+      "url": "https://open.spotify.com/track/1BqSRusAMnOjY7FaemoZP5"
+    },
+    {
+      "album": {
+        "name": "Vous & moi",
+        "url": "https://open.spotify.com/album/5pSQDgT8MXpFtgVR9ZFJRJ"
+      },
+      "artists": [
+        {
+          "name": "Julien Dor\u00e9",
+          "url": "https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313426,
+      "name": "Sublime & silence - Acoustic",
+      "url": "https://open.spotify.com/track/52vhPeg4uC6fxfEKLMwPVp"
+    },
+    {
+      "album": {
+        "name": "Des ombres et des lumi\u00e8res - Live \u00e0 l'Olympia / 2016",
+        "url": "https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        },
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174400,
+      "name": "Ton visage - Acoustic",
+      "url": "https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR"
+    },
+    {
+      "album": {
+        "name": "Matriochka",
+        "url": "https://open.spotify.com/album/4lXTDTBv4geOKHRh9O8lPv"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9my Frerot",
+          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Tu donnes",
+      "url": "https://open.spotify.com/track/7fCYB4aKLTc8Yrrg491Ji6"
+    },
+    {
+      "album": {
+        "name": "Hotel S",
+        "url": "https://open.spotify.com/album/5izluV9r74JI8ZdsOUJ1xt"
+      },
+      "artists": [
+        {
+          "name": "Stephan Eicher",
+          "url": "https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234226,
+      "name": "Tu Ne Me Dois Rien",
+      "url": "https://open.spotify.com/track/7BVEtUdMRwBD3JTsIkXP2W"
+    },
+    {
+      "album": {
+        "name": "\u00c0 la faveur de l'automne",
+        "url": "https://open.spotify.com/album/0EOK4Nqc012P7YPnIE1xot"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223706,
+      "name": "\u00c0 la faveur de l'automne",
+      "url": "https://open.spotify.com/track/5XCeCprrLZHLHHmKxYOXq1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1V8OzNxefxu"
 }

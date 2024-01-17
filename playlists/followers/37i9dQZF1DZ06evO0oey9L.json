@@ -1,577 +1,1721 @@
 {
-  "2022-06-02": 74258,
-  "2022-06-03": 74279,
-  "2022-06-04": 74305,
-  "2022-06-05": 74333,
-  "2022-06-06": 74348,
-  "2022-06-07": 74357,
-  "2022-06-08": 74381,
-  "2022-06-09": 74398,
-  "2022-06-10": 74420,
-  "2022-06-11": 74436,
-  "2022-06-12": 74453,
-  "2022-06-13": 74470,
-  "2022-06-14": 74473,
-  "2022-06-15": 74490,
-  "2022-06-16": 74496,
-  "2022-06-17": 74522,
-  "2022-06-18": 74531,
-  "2022-06-19": 74586,
-  "2022-06-20": 74586,
-  "2022-06-21": 74609,
-  "2022-06-22": 74644,
-  "2022-06-23": 74644,
-  "2022-06-24": 74664,
-  "2022-06-25": 74678,
-  "2022-06-26": 74692,
-  "2022-06-27": 74701,
-  "2022-06-28": 74717,
-  "2022-06-29": 74726,
-  "2022-06-30": 74740,
-  "2022-07-01": 74750,
-  "2022-07-02": 74769,
-  "2022-07-03": 74770,
-  "2022-07-04": 74791,
-  "2022-07-05": 74802,
-  "2022-07-06": 74802,
-  "2022-07-07": 74838,
-  "2022-07-08": 74894,
-  "2022-07-09": 74958,
-  "2022-07-10": 75003,
-  "2022-07-11": 75031,
-  "2022-07-12": 75056,
-  "2022-07-13": 75085,
-  "2022-07-14": 75104,
-  "2022-07-15": 75128,
-  "2022-07-16": 75157,
-  "2022-07-17": 75171,
-  "2022-07-18": 75192,
-  "2022-07-19": 75209,
-  "2022-07-20": 75232,
-  "2022-07-21": 75259,
-  "2022-07-22": 75275,
-  "2022-07-23": 75288,
-  "2022-07-24": 75305,
-  "2022-07-25": 75326,
-  "2022-07-26": 75343,
-  "2022-07-27": 75378,
-  "2022-07-28": 75410,
-  "2022-07-29": 75421,
-  "2022-07-30": 75467,
-  "2022-07-31": 75467,
-  "2022-08-01": 75483,
-  "2022-08-02": 75530,
-  "2022-08-03": 75530,
-  "2022-08-04": 75552,
-  "2022-08-05": 75571,
-  "2022-08-06": 75594,
-  "2022-08-07": 75612,
-  "2022-08-08": 75627,
-  "2022-08-09": 75650,
-  "2022-08-10": 75665,
-  "2022-08-11": 75680,
-  "2022-08-12": 75696,
-  "2022-08-13": 75708,
-  "2022-08-14": 75729,
-  "2022-08-15": 75748,
-  "2022-08-16": 75775,
-  "2022-08-17": 75792,
-  "2022-08-18": 75802,
-  "2022-08-19": 75833,
-  "2022-08-20": 75848,
-  "2022-08-21": 75876,
-  "2022-08-22": 75893,
-  "2022-08-23": 75896,
-  "2022-08-24": 75921,
-  "2022-08-25": 75954,
-  "2022-08-26": 75975,
-  "2022-08-27": 75995,
-  "2022-08-28": 76018,
-  "2022-08-29": 76032,
-  "2022-08-30": 76050,
-  "2022-08-31": 76075,
-  "2022-09-01": 76107,
-  "2022-09-02": 76141,
-  "2022-09-03": 76159,
-  "2022-09-04": 76184,
-  "2022-09-05": 76217,
-  "2022-09-06": 76237,
-  "2022-09-07": 76260,
-  "2022-09-09": 76292,
-  "2022-09-10": 76324,
-  "2022-09-11": 76328,
-  "2022-09-12": 76353,
-  "2022-09-13": 76368,
-  "2022-09-15": 76406,
-  "2022-09-16": 76434,
-  "2022-09-17": 76449,
-  "2022-09-18": 76472,
-  "2022-09-19": 76486,
-  "2022-09-20": 76505,
-  "2022-09-21": 76518,
-  "2022-09-22": 76543,
-  "2022-09-23": 76572,
-  "2022-09-24": 76597,
-  "2022-09-25": 76616,
-  "2022-09-26": 76637,
-  "2022-09-27": 76648,
-  "2022-09-28": 76671,
-  "2022-09-29": 76703,
-  "2022-09-30": 76728,
-  "2022-10-01": 76738,
-  "2022-10-02": 76753,
-  "2022-10-03": 76770,
-  "2022-10-04": 76779,
-  "2022-10-05": 76796,
-  "2022-10-06": 76807,
-  "2022-10-07": 76834,
-  "2022-10-08": 76852,
-  "2022-10-09": 76880,
-  "2022-10-10": 76885,
-  "2022-10-11": 76905,
-  "2022-10-12": 76922,
-  "2022-10-13": 76937,
-  "2022-10-14": 76950,
-  "2022-10-15": 76973,
-  "2022-10-16": 76993,
-  "2022-10-17": 77010,
-  "2022-10-18": 77032,
-  "2022-10-19": 77050,
-  "2022-10-20": 77083,
-  "2022-10-21": 77106,
-  "2022-10-22": 77122,
-  "2022-10-23": 77154,
-  "2022-10-24": 77176,
-  "2022-10-25": 77205,
-  "2022-10-26": 77220,
-  "2022-10-27": 77239,
-  "2022-10-28": 77273,
-  "2022-10-29": 77291,
-  "2022-10-30": 77306,
-  "2022-10-31": 77323,
-  "2022-11-01": 77333,
-  "2022-11-02": 77357,
-  "2022-11-03": 77378,
-  "2022-11-04": 77388,
-  "2022-11-05": 77418,
-  "2022-11-06": 77433,
-  "2022-11-07": 77453,
-  "2022-11-08": 77475,
-  "2022-11-09": 77499,
-  "2022-11-10": 77521,
-  "2022-11-11": 77543,
-  "2022-11-12": 77569,
-  "2022-11-13": 77585,
-  "2022-11-14": 77601,
-  "2022-11-15": 77612,
-  "2022-11-16": 77621,
-  "2022-11-17": 77641,
-  "2022-11-18": 77652,
-  "2022-11-19": 77658,
-  "2022-11-20": 77680,
-  "2022-11-21": 77700,
-  "2022-11-22": 77708,
-  "2022-11-23": 77718,
-  "2022-11-24": 77742,
-  "2022-11-25": 77768,
-  "2022-11-26": 77791,
-  "2022-11-27": 77803,
-  "2022-11-28": 77811,
-  "2022-11-29": 77821,
-  "2022-11-30": 77839,
-  "2022-12-01": 77847,
-  "2022-12-02": 77859,
-  "2022-12-03": 77896,
-  "2022-12-04": 77912,
-  "2022-12-05": 77931,
-  "2022-12-06": 77946,
-  "2022-12-07": 77968,
-  "2022-12-08": 78001,
-  "2022-12-09": 78032,
-  "2022-12-10": 78050,
-  "2022-12-11": 78075,
-  "2022-12-12": 78091,
-  "2022-12-13": 78108,
-  "2022-12-14": 78128,
-  "2022-12-15": 78165,
-  "2022-12-16": 78190,
-  "2022-12-17": 78205,
-  "2022-12-18": 78227,
-  "2022-12-19": 78240,
-  "2022-12-20": 78275,
-  "2022-12-21": 78275,
-  "2022-12-22": 78279,
-  "2022-12-24": 78321,
-  "2022-12-25": 78340,
-  "2022-12-26": 78353,
-  "2022-12-27": 78372,
-  "2022-12-28": 78398,
-  "2022-12-29": 78423,
-  "2022-12-30": 78435,
-  "2022-12-31": 78458,
-  "2023-01-01": 78481,
-  "2023-01-02": 78492,
-  "2023-01-03": 78522,
-  "2023-01-04": 78538,
-  "2023-01-05": 78565,
-  "2023-01-06": 78590,
-  "2023-01-07": 78611,
-  "2023-01-08": 78622,
-  "2023-01-09": 78638,
-  "2023-01-10": 78665,
-  "2023-01-11": 78688,
-  "2023-01-12": 78727,
-  "2023-01-13": 78764,
-  "2023-01-14": 78807,
-  "2023-01-15": 78814,
-  "2023-01-16": 78846,
-  "2023-01-17": 78866,
-  "2023-01-18": 78894,
-  "2023-01-19": 78922,
-  "2023-01-20": 78936,
-  "2023-01-21": 78956,
-  "2023-01-22": 78979,
-  "2023-01-23": 79005,
-  "2023-01-24": 79017,
-  "2023-01-25": 79033,
-  "2023-01-26": 79070,
-  "2023-01-27": 79098,
-  "2023-01-28": 79127,
-  "2023-01-29": 79141,
-  "2023-01-30": 79173,
-  "2023-01-31": 79173,
-  "2023-02-01": 79213,
-  "2023-02-02": 79236,
-  "2023-02-03": 79268,
-  "2023-02-04": 79282,
-  "2023-02-05": 79311,
-  "2023-02-06": 79328,
-  "2023-02-07": 79334,
-  "2023-02-08": 79369,
-  "2023-02-09": 79369,
-  "2023-02-10": 79384,
-  "2023-02-11": 79405,
-  "2023-02-12": 79461,
-  "2023-02-13": 79490,
-  "2023-02-14": 79490,
-  "2023-02-15": 79511,
-  "2023-02-16": 79539,
-  "2023-02-17": 79574,
-  "2023-02-18": 79626,
-  "2023-02-19": 79638,
-  "2023-02-20": 79664,
-  "2023-02-21": 79689,
-  "2023-02-22": 79725,
-  "2023-02-23": 79745,
-  "2023-02-24": 79772,
-  "2023-02-25": 79816,
-  "2023-02-26": 79842,
-  "2023-02-27": 79897,
-  "2023-02-28": 79897,
-  "2023-03-01": 79929,
-  "2023-03-02": 79972,
-  "2023-03-03": 80003,
-  "2023-03-04": 80034,
-  "2023-03-05": 80102,
-  "2023-03-06": 80102,
-  "2023-03-07": 80132,
-  "2023-03-08": 80157,
-  "2023-03-09": 80189,
-  "2023-03-10": 80232,
-  "2023-03-11": 80266,
-  "2023-03-12": 80296,
-  "2023-03-13": 80322,
-  "2023-03-14": 80359,
-  "2023-03-15": 80400,
-  "2023-03-16": 80400,
-  "2023-03-17": 80400,
-  "2023-03-18": 80511,
-  "2023-03-19": 80511,
-  "2023-03-20": 80576,
-  "2023-03-21": 80614,
-  "2023-03-22": 80658,
-  "2023-03-23": 80689,
-  "2023-03-24": 80689,
-  "2023-03-25": 80754,
-  "2023-03-26": 80779,
-  "2023-03-27": 80815,
-  "2023-03-28": 80820,
-  "2023-03-29": 80864,
-  "2023-03-30": 80926,
-  "2023-03-31": 80926,
-  "2023-04-01": 80956,
-  "2023-04-02": 80998,
-  "2023-04-03": 81024,
-  "2023-04-04": 81048,
-  "2023-04-05": 81075,
-  "2023-04-06": 81121,
-  "2023-04-07": 81152,
-  "2023-04-09": 81209,
-  "2023-04-10": 81239,
-  "2023-04-11": 81293,
-  "2023-04-12": 81293,
-  "2023-04-13": 81312,
-  "2023-04-14": 81342,
-  "2023-04-15": 81362,
-  "2023-04-16": 81388,
-  "2023-04-17": 81405,
-  "2023-04-18": 81442,
-  "2023-04-19": 81480,
-  "2023-04-20": 81512,
-  "2023-04-21": 81543,
-  "2023-04-22": 81578,
-  "2023-04-23": 81610,
-  "2023-04-24": 81638,
-  "2023-04-25": 81661,
-  "2023-04-26": 81695,
-  "2023-04-27": 81736,
-  "2023-04-28": 81775,
-  "2023-04-29": 81815,
-  "2023-04-30": 81845,
-  "2023-05-01": 81860,
-  "2023-05-02": 81884,
-  "2023-05-03": 81915,
-  "2023-05-04": 81941,
-  "2023-05-05": 81961,
-  "2023-05-06": 81984,
-  "2023-05-07": 82006,
-  "2023-05-08": 82024,
-  "2023-05-09": 82043,
-  "2023-05-10": 82080,
-  "2023-05-11": 82109,
-  "2023-05-12": 82142,
-  "2023-05-13": 82171,
-  "2023-05-14": 82187,
-  "2023-05-15": 82193,
-  "2023-05-16": 82222,
-  "2023-05-17": 82240,
-  "2023-05-18": 82262,
-  "2023-05-19": 82288,
-  "2023-05-20": 82336,
-  "2023-05-21": 82336,
-  "2023-05-22": 82336,
-  "2023-05-23": 82388,
-  "2023-05-24": 82428,
-  "2023-05-25": 82437,
-  "2023-05-26": 82470,
-  "2023-05-27": 82494,
-  "2023-05-28": 82512,
-  "2023-05-29": 82512,
-  "2023-05-30": 82553,
-  "2023-05-31": 82585,
-  "2023-06-01": 82605,
-  "2023-06-02": 82636,
-  "2023-06-03": 82661,
-  "2023-06-04": 82684,
-  "2023-06-05": 82709,
-  "2023-06-06": 82733,
-  "2023-06-07": 82748,
-  "2023-06-08": 82770,
-  "2023-06-09": 82790,
-  "2023-06-10": 82819,
-  "2023-06-11": 82843,
-  "2023-06-12": 82862,
-  "2023-06-13": 82880,
-  "2023-06-14": 82880,
-  "2023-06-15": 82920,
-  "2023-06-16": 82949,
-  "2023-06-17": 82979,
-  "2023-06-18": 83011,
-  "2023-06-19": 83034,
-  "2023-06-20": 83042,
-  "2023-06-21": 83066,
-  "2023-06-22": 83092,
-  "2023-06-23": 83121,
-  "2023-06-24": 83158,
-  "2023-06-25": 83179,
-  "2023-06-26": 83192,
-  "2023-06-27": 83214,
-  "2023-06-28": 83263,
-  "2023-06-29": 83304,
-  "2023-06-30": 83335,
-  "2023-07-01": 83384,
-  "2023-07-02": 83384,
-  "2023-07-03": 83396,
-  "2023-07-04": 83415,
-  "2023-07-05": 83431,
-  "2023-07-06": 83475,
-  "2023-07-07": 83475,
-  "2023-07-08": 83501,
-  "2023-07-09": 83523,
-  "2023-07-10": 83549,
-  "2023-07-11": 83576,
-  "2023-07-12": 83602,
-  "2023-07-13": 83618,
-  "2023-07-14": 83644,
-  "2023-07-15": 83669,
-  "2023-07-16": 83698,
-  "2023-07-17": 83722,
-  "2023-07-18": 83751,
-  "2023-07-19": 83768,
-  "2023-07-20": 83794,
-  "2023-07-21": 83812,
-  "2023-07-22": 83831,
-  "2023-07-23": 83850,
-  "2023-07-24": 83864,
-  "2023-07-25": 83880,
-  "2023-07-26": 83903,
-  "2023-07-27": 83926,
-  "2023-07-28": 83933,
-  "2023-07-29": 83959,
-  "2023-07-30": 83980,
-  "2023-07-31": 83988,
-  "2023-08-01": 84016,
-  "2023-08-02": 84034,
-  "2023-08-03": 84053,
-  "2023-08-04": 84068,
-  "2023-08-05": 84083,
-  "2023-08-06": 84109,
-  "2023-08-07": 84109,
-  "2023-08-08": 84124,
-  "2023-08-09": 84143,
-  "2023-08-10": 84156,
-  "2023-08-11": 84174,
-  "2023-08-12": 84174,
-  "2023-08-13": 84174,
-  "2023-08-14": 84231,
-  "2023-08-15": 84231,
-  "2023-08-16": 84231,
-  "2023-08-17": 84275,
-  "2023-08-18": 84275,
-  "2023-08-19": 84306,
-  "2023-08-20": 84326,
-  "2023-08-21": 84326,
-  "2023-08-22": 84380,
-  "2023-08-23": 84404,
-  "2023-08-24": 84429,
-  "2023-08-25": 84429,
-  "2023-08-26": 84472,
-  "2023-08-27": 84503,
-  "2023-08-28": 84514,
-  "2023-08-29": 84514,
-  "2023-08-30": 84514,
-  "2023-08-31": 84597,
-  "2023-09-01": 84645,
-  "2023-09-02": 84645,
-  "2023-09-03": 84666,
-  "2023-09-04": 84666,
-  "2023-09-05": 84666,
-  "2023-09-06": 84738,
-  "2023-09-07": 84738,
-  "2023-09-08": 84738,
-  "2023-09-09": 84738,
-  "2023-09-10": 84859,
-  "2023-09-11": 84895,
-  "2023-09-12": 84895,
-  "2023-09-13": 84945,
-  "2023-09-14": 84945,
-  "2023-09-15": 84945,
-  "2023-09-16": 85033,
-  "2023-09-17": 85033,
-  "2023-09-18": 85033,
-  "2023-09-19": 85077,
-  "2023-09-20": 85077,
-  "2023-09-21": 85077,
-  "2023-09-22": 85171,
-  "2023-09-23": 85171,
-  "2023-09-24": 85171,
-  "2023-09-25": 85171,
-  "2023-09-26": 85262,
-  "2023-09-27": 85262,
-  "2023-09-28": 85262,
-  "2023-09-29": 85262,
-  "2023-09-30": 85262,
-  "2023-10-01": 85262,
-  "2023-10-02": 85416,
-  "2023-10-03": 85416,
-  "2023-10-04": 85416,
-  "2023-10-05": 85499,
-  "2023-10-06": 85517,
-  "2023-10-07": 85517,
-  "2023-10-08": 85517,
-  "2023-10-09": 85517,
-  "2023-10-10": 85517,
-  "2023-10-11": 85482,
-  "2023-10-12": 85482,
-  "2023-10-13": 85482,
-  "2023-10-14": 85482,
-  "2023-10-15": 85482,
-  "2023-10-16": 85482,
-  "2023-10-17": 85482,
-  "2023-10-18": 85482,
-  "2023-10-19": 85482,
-  "2023-10-20": 85482,
-  "2023-10-21": 85482,
-  "2023-10-22": 85482,
-  "2023-10-23": 85482,
-  "2023-10-24": 85482,
-  "2023-10-25": 85482,
-  "2023-10-26": 85482,
-  "2023-10-27": 85482,
-  "2023-10-28": 85482,
-  "2023-10-29": 85482,
-  "2023-10-30": 85482,
-  "2023-10-31": 85482,
-  "2023-11-01": 85482,
-  "2023-11-02": 85482,
-  "2023-11-03": 85482,
-  "2023-11-04": 85482,
-  "2023-11-05": 85482,
-  "2023-11-06": 85482,
-  "2023-11-07": 85482,
-  "2023-11-08": 85482,
-  "2023-11-09": 85482,
-  "2023-11-10": 85482,
-  "2023-11-11": 85934,
-  "2023-11-12": 85934,
-  "2023-11-13": 85934,
-  "2023-11-14": 85934,
-  "2023-11-15": 85934,
-  "2023-11-16": 85934,
-  "2023-11-17": 85934,
-  "2023-11-18": 85934,
-  "2023-11-19": 85934,
-  "2023-11-20": 85934,
-  "2023-11-21": 85934,
-  "2023-11-22": 85934,
-  "2023-11-23": 85934,
-  "2023-11-24": 85934,
-  "2023-11-25": 85934,
-  "2023-11-26": 85934,
-  "2023-11-27": 85934,
-  "2023-11-28": 85934,
-  "2023-11-29": 85934,
-  "2023-11-30": 85934,
-  "2023-12-01": 85934,
-  "2023-12-02": 85934,
-  "2023-12-03": 85934,
-  "2023-12-04": 85934,
-  "2023-12-05": 85934,
-  "2023-12-06": 85934,
-  "2023-12-07": 85934,
-  "2023-12-08": 85934,
-  "2023-12-09": 85934,
-  "2023-12-10": 85934,
-  "2023-12-11": 85934,
-  "2023-12-12": 85934,
-  "2023-12-13": 85934,
-  "2023-12-14": 86677,
-  "2023-12-15": 86698,
-  "2023-12-16": 86710,
-  "2023-12-17": 86729,
-  "2023-12-18": 86743,
-  "2023-12-19": 86754,
-  "2023-12-20": 86775,
-  "2023-12-21": 86793,
-  "2023-12-22": 86816,
-  "2023-12-23": 86828,
-  "2023-12-24": 86839,
-  "2023-12-25": 86855,
-  "2023-12-26": 86868,
-  "2023-12-27": 86887,
-  "2023-12-30": 86918,
-  "2023-12-31": 86931,
-  "2024-01-01": 86950,
-  "2024-01-02": 86964,
-  "2024-01-03": 87000
+  "2024-01-17": 86733,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
+  "name": "This Is El de La Guitarra",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 246935,
+      "name": "10 Iniciales NC",
+      "url": "https://open.spotify.com/track/0Y0qqu5lwjtQFzDfYgODls"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148561,
+      "name": "A Lo Lejos Me Veran",
+      "url": "https://open.spotify.com/track/3VHtIuKm8MvOTo81Usu2f5"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 174749,
+      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/0osBwuy7W8a7H0HkPPTDgn"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 174749,
+      "name": "Al Ni\u00f1o Le Gusta Lo Bueno",
+      "url": "https://open.spotify.com/track/1c6ilYnCPdP1BiFN6qi0Dy"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138272,
+      "name": "Alex Valencia",
+      "url": "https://open.spotify.com/track/07fYyawvkLBdf7V4Ad0dwL"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 167500,
+      "name": "Arriba De Una Moto",
+      "url": "https://open.spotify.com/track/4nkR3bV6HENhWYJ88HDhrX"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 167500,
+      "name": "Arriba De Una Moto",
+      "url": "https://open.spotify.com/track/4pNhqgKHVZ7DFRkgirEykX"
+    },
+    {
+      "album": {
+        "name": "Barrio Xolo",
+        "url": "https://open.spotify.com/album/2WdXJMn7Y4jlMM5tXPzt7j"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5yJPahX4wJlrRPH1agjvtH"
+    },
+    {
+      "album": {
+        "name": "Botas Ariat",
+        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197463,
+      "name": "Calles De S.D.",
+      "url": "https://open.spotify.com/track/7qjrn67d14U8XDsnwOL0Nr"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-20",
+      "duration_ms": 150875,
+      "name": "Cheyenne Black",
+      "url": "https://open.spotify.com/track/0rgn0SK9Xfi9fRY9YVeICI"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 155876,
+      "name": "Ch\u00e1vez Charola",
+      "url": "https://open.spotify.com/track/2yPFa8QtSZrST8wMtfRsSm"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 155876,
+      "name": "Ch\u00e1vez Charola",
+      "url": "https://open.spotify.com/track/3BYXaFIdgpcqSK2kvHJnd5"
+    },
+    {
+      "album": {
+        "name": "Como Una Pantera",
+        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Siqueiros",
+          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170492,
+      "name": "Como Una Pantera",
+      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208393,
+      "name": "Con Finta De Cholo",
+      "url": "https://open.spotify.com/track/5QAY068s3fGLRQm8Re0nKy"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 168356,
+      "name": "Con Un Pu\u00f1o De Cannabis",
+      "url": "https://open.spotify.com/track/38StyWZFxOVmZyciFwExOi"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Cookies En Las Pipas",
+      "url": "https://open.spotify.com/track/5LeqwOYzwZZZCz7ftzpUYS"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241424,
+      "name": "Cr\u00f3nicas De Mi Guitarra",
+      "url": "https://open.spotify.com/track/76ZaecbpNsMJdhoB0LkhJG"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136991,
+      "name": "Cuando Se Le Ofrezca",
+      "url": "https://open.spotify.com/track/7BynlyGJKOxSq7t99jatxz"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184751,
+      "name": "Cuartitos De Libra",
+      "url": "https://open.spotify.com/track/0rewTyKwnWKLcHKbt1XM42"
+    },
+    {
+      "album": {
+        "name": "De Aqu\u00ed Para All\u00e1",
+        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216841,
+      "name": "De Aqu\u00ed Para All\u00e1",
+      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120653,
+      "name": "Diamantes De Esfera",
+      "url": "https://open.spotify.com/track/2G7lzDzR0Bz3x7LoD3r27I"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-30",
+      "duration_ms": 141818,
+      "name": "El Chava",
+      "url": "https://open.spotify.com/track/5Tr6YTRAFfsnFd2k36DAh5"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172879,
+      "name": "El Chuko",
+      "url": "https://open.spotify.com/track/5omrXpkdGMI539unfxFfRS"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241444,
+      "name": "El Del Jolly Rancher",
+      "url": "https://open.spotify.com/track/6x8tNMBrOiFAvA2WoqYKgU"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 209155,
+      "name": "El Del Z06",
+      "url": "https://open.spotify.com/track/2U36BSlxU5Lo5FmdVev4a4"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228879,
+      "name": "El Dios Del Trueno",
+      "url": "https://open.spotify.com/track/1SCdueIbk9GhV2PVMVKY32"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 240750,
+      "name": "El Intercambio",
+      "url": "https://open.spotify.com/track/0frsTsRmNDlPMy2Sjpowqu"
+    },
+    {
+      "album": {
+        "name": "El Mes De Mayo (En Vivo)",
+        "url": "https://open.spotify.com/album/0N8zBzirioemkl2Zrf3F4O"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Los Nuevos Originales Del Bajio",
+          "url": "https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "El Mes De Mayo (En Vivo)",
+      "url": "https://open.spotify.com/track/2sVae2Wnry7TQIz83qg0YG"
+    },
+    {
+      "album": {
+        "name": "El Mismo Morro",
+        "url": "https://open.spotify.com/album/159mfKivxJG6O33wzaMVCI"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Clave 210",
+          "url": "https://open.spotify.com/artist/3WJpNFakTQrmngFia1tX7Y"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140122,
+      "name": "El Mismo Morro",
+      "url": "https://open.spotify.com/track/2LJC71XUvul0dUcGy41neC"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202124,
+      "name": "El Monstro 7",
+      "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
+    },
+    {
+      "album": {
+        "name": "El Oso",
+        "url": "https://open.spotify.com/album/3uh2JvWLCJ9qEbrYdhyNhf"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 287126,
+      "name": "El Oso",
+      "url": "https://open.spotify.com/track/3XkmnmWXsNw790uaFBexqb"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 164500,
+      "name": "El Roque",
+      "url": "https://open.spotify.com/track/6WxSL4jaPaxEa1mm7p2uMd"
+    },
+    {
+      "album": {
+        "name": "Pura Lumbre",
+        "url": "https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170672,
+      "name": "En La Bola (feat. El De La Guitarra)",
+      "url": "https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50"
+    },
+    {
+      "album": {
+        "name": "Estilo Militar",
+        "url": "https://open.spotify.com/album/5e51uEalSKB8Rb6PChOkCQ"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Los De La Villa",
+          "url": "https://open.spotify.com/artist/4k0T7XGZDSFv5fnAnZUNHl"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175300,
+      "name": "Estilo Militar",
+      "url": "https://open.spotify.com/track/5YzIk26HIxTcchwGwWQ5p9"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/0Kkw5A0E9THKHiZwpqY78h"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147999,
+      "name": "Fino El Porteson",
+      "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"
+    },
+    {
+      "album": {
+        "name": "Gabbana Es El Porte",
+        "url": "https://open.spotify.com/album/3BJkR82p0ArgHkjaZLyAld"
+      },
+      "artists": [
+        {
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151690,
+      "name": "Gabbana Es El Porte",
+      "url": "https://open.spotify.com/track/4KSo7rlreDnU5TuilX7vLi"
+    },
+    {
+      "album": {
+        "name": "Galil Rameado",
+        "url": "https://open.spotify.com/album/1QLEQpE84nhDO17QuAmyzT"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 196336,
+      "name": "Galil Rameado",
+      "url": "https://open.spotify.com/track/7mTQYSdS2N4Fb9T2ieH7dl"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-18",
+      "duration_ms": 154500,
+      "name": "Gerardo V1",
+      "url": "https://open.spotify.com/track/3iFeFrtR3ubraz7cbKwzWX"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 154500,
+      "name": "Gerardo V1",
+      "url": "https://open.spotify.com/track/5vVHHD6VOh5KRn3gzju0Sk"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225825,
+      "name": "Gustos VIP",
+      "url": "https://open.spotify.com/track/7iRrVxEVK37m34vGEE8LfJ"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153289,
+      "name": "JJ Es La Clave",
+      "url": "https://open.spotify.com/track/1g6LesEZ6Ai99arHJv6hBr"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 207996,
+      "name": "La Casita De Madera",
+      "url": "https://open.spotify.com/track/24VN5sgRu9hvIElo0lRzHx"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 172000,
+      "name": "La Cubana",
+      "url": "https://open.spotify.com/track/3rDQsjtqw3rNSX3niFAJqq"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 172000,
+      "name": "La Cubana",
+      "url": "https://open.spotify.com/track/5s8flimp5WHfmQFkVgSNpA"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148344,
+      "name": "La Fiesta Ya Empezo",
+      "url": "https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149350,
+      "name": "La Gente Del Toro",
+      "url": "https://open.spotify.com/track/6ZLaLbmUGycFj1aNjlx2Ul"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 157875,
+      "name": "La Gente Nueva",
+      "url": "https://open.spotify.com/track/3nsj36Pio46eXURlJdDRz5"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 157875,
+      "name": "La Gente Nueva",
+      "url": "https://open.spotify.com/track/5vyDbihMtrtyrKp6xUW8Gq"
+    },
+    {
+      "album": {
+        "name": "La Internacional",
+        "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159176,
+      "name": "La Internacional",
+      "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-10",
+      "duration_ms": 209624,
+      "name": "La Moneda Vueltas Dio",
+      "url": "https://open.spotify.com/track/0HdwsDCUpvVm0f9mPvGaRk"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 209624,
+      "name": "La Moneda Vueltas Dio",
+      "url": "https://open.spotify.com/track/7aMuodDbZvgLOPk3zRReqJ"
+    },
+    {
+      "album": {
+        "name": "La Noche Anterior",
+        "url": "https://open.spotify.com/album/1fz4sp1j66qf159oNik9zv"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 213751,
+      "name": "La Noche Anterior",
+      "url": "https://open.spotify.com/track/0eDNOhglSxYP2r4jelyE1a"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196205,
+      "name": "Lo Que Me Distingue",
+      "url": "https://open.spotify.com/track/2evqVdCxI2wKa5G0fjnEgB"
+    },
+    {
+      "album": {
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161693,
+      "name": "Loco Malandro",
+      "url": "https://open.spotify.com/track/0idKybdhXgh5O94UhJCufA"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188124,
+      "name": "Me Prendo Un Gallito",
+      "url": "https://open.spotify.com/track/5VE64Tvg3eS8eBhL1kKMqH"
+    },
+    {
+      "album": {
+        "name": "Me Pueden Juzgar",
+        "url": "https://open.spotify.com/album/3QDHcul1zZ2aZZQo860HMI"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217678,
+      "name": "Me Pueden Juzgar",
+      "url": "https://open.spotify.com/track/1jtw4JaOsoFCWflmycd1fD"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 179499,
+      "name": "Millonario y Me Retiro",
+      "url": "https://open.spotify.com/track/5TS8Q5BGgq3PlqfySprCB4"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 179499,
+      "name": "Millonario y Me Retiro",
+      "url": "https://open.spotify.com/track/6u9KQvTQBGQ6uQ5PbqPItd"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196500,
+      "name": "Miran La Apariencia",
+      "url": "https://open.spotify.com/track/3FhARguQQiWEunemrkl3Yh"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162469,
+      "name": "Morras De Cache",
+      "url": "https://open.spotify.com/track/7mDwgb8zCEZRppGqCTAvKo"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157499,
+      "name": "No Andamos Solos",
+      "url": "https://open.spotify.com/track/0RFLlf7uUUUCgDUT6sJsBQ"
+    },
+    {
+      "album": {
+        "name": "No Quiero Agarrar El Rollo",
+        "url": "https://open.spotify.com/album/46KXJipvIK5dbK6PyltADi"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121209,
+      "name": "No Quiero Agarrar El Rollo",
+      "url": "https://open.spotify.com/track/5cM3YFGrnT7EdFNW4kPWv6"
+    },
+    {
+      "album": {
+        "name": "No Somos Magos (En Vivo)",
+        "url": "https://open.spotify.com/album/7DBlyphKV6gb24sWIvtxbM"
+      },
+      "artists": [
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 212545,
+      "name": "No Somos Magos (En Vivo)",
+      "url": "https://open.spotify.com/track/40zjogs2ktlvHxAUFbxboV"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 174550,
+      "name": "No Toco Inocentes",
+      "url": "https://open.spotify.com/track/1EXfrxDYUSufbBeUXnf2j6"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "album": {
+        "name": "Paris & Grecia",
+        "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Santiago Rdgz",
+          "url": "https://open.spotify.com/artist/5RZmXdBhExWcBGjyZVSy1u"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        },
+        {
+          "name": "Juan Soler",
+          "url": "https://open.spotify.com/artist/62we2Z4MfYSQknQesr1111"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "Paris & Grecia",
+      "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
+    },
+    {
+      "album": {
+        "name": "Peligro",
+        "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120749,
+      "name": "Peligro",
+      "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163374,
+      "name": "Peter King Kong",
+      "url": "https://open.spotify.com/track/3gv9PZLhs2c87MEcy6zOfu"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/7KlLuBZiwOzCTL7Q3J26cq"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 163374,
+      "name": "Peter King Kong",
+      "url": "https://open.spotify.com/track/4CJGVxXvB3PIqRgnmFBIo8"
+    },
+    {
+      "album": {
+        "name": "Polvo de Angel",
+        "url": "https://open.spotify.com/album/0oFAjjQ2LwtJuO17g9YEvM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 195969,
+      "name": "Polvo De Angel",
+      "url": "https://open.spotify.com/track/0AprGMXtG62kJk1gMwnk4Q"
+    },
+    {
+      "album": {
+        "name": "Que Linda Se Le Ve",
+        "url": "https://open.spotify.com/album/7Jjms4SHlgcXgiK9aZKO2O"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/2OqxU44QdNmVanpNxqHBbe"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192395,
+      "name": "Que Linda Se Le Ve",
+      "url": "https://open.spotify.com/track/4M2GA9Lb86oxivtlSfiAx9"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+    },
+    {
+      "album": {
+        "name": "Salvame",
+        "url": "https://open.spotify.com/album/2qeh4FNql0C7JKzDNpdBSK"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 217501,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/7q32Q7n5p2DeVQ3lClXfl8"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186261,
+      "name": "Se Oyen Recio Los Disparos",
+      "url": "https://open.spotify.com/track/6qqICh8gOle9spzdSru35F"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 174918,
+      "name": "Sigo y Sigo",
+      "url": "https://open.spotify.com/track/18ex1QePwFr4kevw448OlG"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.4)",
+        "url": "https://open.spotify.com/album/3xOwDpuBJiCY7nxJEDQR71"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 199875,
+      "name": "Somos Humildes",
+      "url": "https://open.spotify.com/track/0TtHb0peNWzLRcln4DSXHb"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-31",
+      "duration_ms": 167251,
+      "name": "Soy De La",
+      "url": "https://open.spotify.com/track/1tRKJ5Ov5meBRAg7B9rab6"
+    },
+    {
+      "album": {
+        "name": "Soy El Cholo Soy El 7",
+        "url": "https://open.spotify.com/album/5XUY9Ibmxbyk1dU3222hPR"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182790,
+      "name": "Soy El Cholo Soy El 7",
+      "url": "https://open.spotify.com/track/73zTFBi0S4u3sAa4vT2Cnn"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1os y Metas",
+        "url": "https://open.spotify.com/album/5xznQhaDmG3QocS1i5KfUE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Rub\u00e9n Miranda Y Los De La J",
+          "url": "https://open.spotify.com/artist/4A6lttDRrPRN2lb5SvyI9t"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 165250,
+      "name": "Sue\u00f1os y Metas",
+      "url": "https://open.spotify.com/track/2IAz40IUjp8A2OdtOo9DUO"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.1",
+        "url": "https://open.spotify.com/album/61sqe6L00SzLzj1yz30Mr5"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193744,
+      "name": "Tinta y Plomo",
+      "url": "https://open.spotify.com/track/1CJoATnCszv00FT1CEnLPx"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 172471,
+      "name": "Todo A Su Tiempo",
+      "url": "https://open.spotify.com/track/0eh9ZrTOVClUh7lhBv1pLt"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178987,
+      "name": "Va Por Todos",
+      "url": "https://open.spotify.com/track/4u0L6n0eSV5gTBvAYglqTB"
+    },
+    {
+      "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206861,
+      "name": "Vida De Locura",
+      "url": "https://open.spotify.com/track/72kmnOvZvpNfsIsbGQ6FGH"
+    },
+    {
+      "album": {
+        "name": "Viniste, Viste y Venciste",
+        "url": "https://open.spotify.com/album/37tNYEbQrGJRh0gxC5Uca1"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-25",
+      "duration_ms": 157248,
+      "name": "Viniste, Viste y Venciste",
+      "url": "https://open.spotify.com/track/0qpwTaBmwc6QMdFgnzr9zg"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197247,
+      "name": "WAX",
+      "url": "https://open.spotify.com/track/7utzGYXtCeiFOMTAWzU6BJ"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166749,
+      "name": "Ya La Conecte",
+      "url": "https://open.spotify.com/track/24WJmf2sL7u9iyeuGHV6Vy"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
+    },
+    {
+      "album": {
+        "name": "Lo Prometido Es Deuda Vol.2",
+        "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170456,
+      "name": "Yo Quiero Fumar",
+      "url": "https://open.spotify.com/track/54R1JRL65L0LarHmgdMqay"
+    },
+    {
+      "album": {
+        "name": "Con Los Pies En La Tierra Y La Mirada En El Cielo",
+        "url": "https://open.spotify.com/album/2DE5r32KUueRrOKkeGXQ1T"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 193497,
+      "name": "Zumbando Por Cali",
+      "url": "https://open.spotify.com/track/0lVa6LbJNXui0L4zzxu8n6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L"
 }

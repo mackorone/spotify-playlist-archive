@@ -1277,18 +1277,36 @@
     },
     {
       "album": {
-        "name": "Um Junghwa 5th(005.1999.06)",
+        "name": "005.1999.06",
+        "url": "https://open.spotify.com/album/5A7lldim6md3AHucoZVeLQ"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237029,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/6lDpdjzXfBHBnfy95qROol"
+    },
+    {
+      "album": {
+        "name": "005.1999.06",
         "url": "https://open.spotify.com/album/2Mp1Q5RhkLFDlWSXV1W2m0"
       },
       "artists": [
         {
-          "name": "Um Junghwa",
-          "url": "https://open.spotify.com/artist/5v7oyChb49D5Z9mkkXxuVY"
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
         }
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 239173,
       "name": "Festival",
       "url": "https://open.spotify.com/track/0JcKkqHW6JGxJ8GyHbpVyp"
@@ -1784,16 +1802,34 @@
       },
       "artists": [
         {
-          "name": "Um Junghwa",
-          "url": "https://open.spotify.com/artist/5v7oyChb49D5Z9mkkXxuVY"
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/2ahy4G7Txxqq8WgNA913g0"
         }
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 233795,
       "name": "Invitation",
       "url": "https://open.spotify.com/track/61O7Yh3Sj9N8Euk1HZVb05"
+    },
+    {
+      "album": {
+        "name": "Invitation",
+        "url": "https://open.spotify.com/album/5JgddHGpRW0BxtkIT0LZB4"
+      },
+      "artists": [
+        {
+          "name": "Uhm Jung Hwa",
+          "url": "https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Invitation",
+      "url": "https://open.spotify.com/track/0HmNuAoSYVsRRjKiAucFn7"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 489089,
+  "num_followers": 488509,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Mister Asylum",
-        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 242560,
-      "name": "Lydia",
-      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "\"Let's Rock\"",
         "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 177768,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/25YlltWXRb9k7KbrEBRuhJ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Mister Asylum",
+        "url": "https://open.spotify.com/album/7wGLeeJt18EBjc181FP2cM"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 242560,
+      "name": "Lydia",
+      "url": "https://open.spotify.com/track/7yoBjKO6cCnK3zV8gr1k4e"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -367,38 +367,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Magic Potion",
-        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Your Touch",
-      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "The Boy Who Died Wolf",
-        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "My Name Is Human",
-      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "hometown",
         "url": "https://open.spotify.com/album/3vYwarsz5qWMYHL3B9b5ni"
       },
@@ -415,18 +383,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Let the Vultures In",
-        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+        "name": "Magic Potion",
+        "url": "https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O"
       },
       "artists": [
         {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 207141,
-      "name": "Let Me Live / Let Me Die",
-      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+      "duration_ms": 162586,
+      "name": "Your Touch",
+      "url": "https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -447,18 +415,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Back To The Water Below",
-        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+        "name": "The Boy Who Died Wolf",
+        "url": "https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
         }
       ],
-      "duration_ms": 207849,
-      "name": "Shiner In The Dark",
-      "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
+      "duration_ms": 258773,
+      "name": "My Name Is Human",
+      "url": "https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -479,6 +447,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Let the Vultures In",
+        "url": "https://open.spotify.com/album/0NvZagPSgA7PLFI7yydUTn"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 207141,
+      "name": "Let Me Live / Let Me Die",
+      "url": "https://open.spotify.com/track/0AVIswXP3Q5FnlorjU0DbI"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Higher Truth",
         "url": "https://open.spotify.com/album/0n7hphNFF3s9pov8oaATFl"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 234426,
       "name": "Nearly Forgot My Broken Heart",
       "url": "https://open.spotify.com/track/7MjRtWS2teufvOiMM0BARZ"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 207849,
+      "name": "Shiner In The Dark",
+      "url": "https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -543,38 +543,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "The Midnight Demon Club",
-        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 196135,
-      "name": "Natural Born Killer",
-      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Back To The Water Below",
-        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 186196,
-      "name": "Mountains At Midnight",
-      "url": "https://open.spotify.com/track/63V2LU9M9pLkimultjujl5"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Heart On",
         "url": "https://open.spotify.com/album/2WcK8D30CYZQxCUv5mEnMT"
       },
@@ -587,22 +555,6 @@
       "duration_ms": 135853,
       "name": "Wannabe in L.A",
       "url": "https://open.spotify.com/track/3B7mbMbbcuKdfWssAcyvG8"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Emotion Sickness",
-        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 271076,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -623,18 +575,50 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Dirty Honey",
-        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
+        "name": "Back To The Water Below",
+        "url": "https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ"
       },
       "artists": [
         {
-          "name": "Dirty Honey",
-          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
         }
       ],
-      "duration_ms": 205090,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+      "duration_ms": 186196,
+      "name": "Mountains At Midnight",
+      "url": "https://open.spotify.com/track/63V2LU9M9pLkimultjujl5"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "The Midnight Demon Club",
+        "url": "https://open.spotify.com/album/0SWbz68LauoDrMdgdNv6gr"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 196135,
+      "name": "Natural Born Killer",
+      "url": "https://open.spotify.com/track/4nMUPQeTor23d8RxiiJO9W"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Emotion Sickness",
+        "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "duration_ms": 271076,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -655,18 +639,50 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Death By Rock And Roll",
-        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
+        "name": "Erase You",
+        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "Bleeker",
+          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Death By Rock And Roll",
-      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+      "duration_ms": 201680,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Dirty Honey",
+        "url": "https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7"
+      },
+      "artists": [
+        {
+          "name": "Dirty Honey",
+          "url": "https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -691,18 +707,50 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Erase You",
-        "url": "https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP"
+        "name": "Death By Rock And Roll",
+        "url": "https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey"
       },
       "artists": [
         {
-          "name": "Bleeker",
-          "url": "https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 201680,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N"
+      "duration_ms": 234466,
+      "name": "Death By Rock And Roll",
+      "url": "https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Hidden Gems",
+        "url": "https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2"
+      },
+      "artists": [
+        {
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
+        }
+      ],
+      "duration_ms": 222936,
+      "name": "Shakin' Off The Rust",
+      "url": "https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -723,34 +771,34 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi"
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/5aFGo8wHEntVxFI8IF7Wuj"
+      "duration_ms": 179447,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
     },
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "-!- (Deluxe)",
+        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+      "duration_ms": 224306,
+      "name": ".CoDA.",
+      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -791,54 +839,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "-!- (Deluxe)",
-        "url": "https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": ".CoDA.",
-      "url": "https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 179447,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Down To The Bottom",
-        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 152468,
-      "name": "Down To The Bottom",
-      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "This is Our Life",
         "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
       },
@@ -851,22 +851,6 @@
       "duration_ms": 224306,
       "name": "This is Our Life",
       "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
-        "name": "Hollow Bones",
-        "url": "https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT"
-      },
-      "artists": [
-        {
-          "name": "Rival Sons",
-          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
-        }
-      ],
-      "duration_ms": 207359,
-      "name": "Tied Up",
-      "url": "https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -887,6 +871,22 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Hollow Bones",
+        "url": "https://open.spotify.com/album/7hKJMKE01FvUJEVxY8bBOT"
+      },
+      "artists": [
+        {
+          "name": "Rival Sons",
+          "url": "https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf"
+        }
+      ],
+      "duration_ms": 207359,
+      "name": "Tied Up",
+      "url": "https://open.spotify.com/track/08yhz3ei8jgCmwcsHZTSAa"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Sea of Cowards",
         "url": "https://open.spotify.com/album/77B6oHxsalO8agATK8uGN0"
       },
@@ -903,18 +903,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+        "name": "Down To The Bottom",
+        "url": "https://open.spotify.com/album/6QRQuIulSyoqOlNGJGLkmG"
       },
       "artists": [
         {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
         }
       ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+      "duration_ms": 152468,
+      "name": "Down To The Bottom",
+      "url": "https://open.spotify.com/track/5jddjli3YTIxueb3xFdLaA"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Skinny",
-        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
       },
       "artists": [
         {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
         }
       ],
-      "duration_ms": 222316,
-      "name": "Skinny",
-      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "daphne did it / the depths",
-        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
-      },
-      "artists": [
-        {
-          "name": "cleopatrick",
-          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
-        }
-      ],
-      "duration_ms": 202687,
-      "name": "daphne did it",
-      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Brothers",
         "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Rest In Peace",
-        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+        "name": "Skinny",
+        "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
       },
       "artists": [
         {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
         }
       ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
+      "duration_ms": 222316,
+      "name": "Skinny",
+      "url": "https://open.spotify.com/track/08CVVZ9HYOXzPRAIV0w8nq"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1075,6 +1059,38 @@
       "duration_ms": 171226,
       "name": "Who\u2019s Gonna Love Me Now",
       "url": "https://open.spotify.com/track/5VqnXEcxWfLdnsXBVjEpWx"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "daphne did it / the depths",
+        "url": "https://open.spotify.com/album/2k2DP0So7mBzytKNoH1A1M"
+      },
+      "artists": [
+        {
+          "name": "cleopatrick",
+          "url": "https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW"
+        }
+      ],
+      "duration_ms": 202687,
+      "name": "daphne did it",
+      "url": "https://open.spotify.com/track/0QZ3iagvfN7158bVgqIkPR"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Rest In Peace",
+        "url": "https://open.spotify.com/album/4OVPoCoVpZ9qhhicoabdiE"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/1nx0EzitUaNF08xrQunABp"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1143,22 +1159,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hidden Gems",
-        "url": "https://open.spotify.com/album/5xQEeIrALM66vXokyP5ik2"
-      },
-      "artists": [
-        {
-          "name": "The Blue Stones",
-          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
-        }
-      ],
-      "duration_ms": 222936,
-      "name": "Shakin' Off The Rust",
-      "url": "https://open.spotify.com/track/5MKtQtz40BsJZvqkS5FmC6"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Fear Of The Dawn",
         "url": "https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Hannah Wicklund & The Steppin Stones",
-        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Bomb Through the Breeze",
-      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 189769,
       "name": "Dark Nights",
       "url": "https://open.spotify.com/track/5cwZFTdktFh5XjRglkqJYr"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Hannah Wicklund & The Steppin Stones",
+        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through the Breeze",
+      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Cross The Line",
-        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 187390,
-      "name": "Cross The Line",
-      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "That Dress (Demo)",
         "url": "https://open.spotify.com/album/4LDDJCImKdsayb1PmLniF3"
       },
@@ -1271,22 +1255,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Patient Number 9",
-        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+        "name": "Cross The Line",
+        "url": "https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        },
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
         }
       ],
-      "duration_ms": 250274,
-      "name": "Degradation Rules (feat. Tony Iommi)",
-      "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+      "duration_ms": 187390,
+      "name": "Cross The Line",
+      "url": "https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1323,6 +1303,26 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
+        "name": "Patient Number 9",
+        "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        },
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        }
+      ],
+      "duration_ms": 250274,
+      "name": "Degradation Rules (feat. Tony Iommi)",
+      "url": "https://open.spotify.com/track/6pLzzki6vNk6EZO0cSVpPl"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/212W7GOucihqMBWrN17RlY"
       },
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
-      },
-      "artists": [
-        {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
-        }
-      ],
-      "duration_ms": 246932,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/1TmLWHno2aTHedSxNofPkg"
+      },
+      "artists": [
+        {
+          "name": "Ayron Jones",
+          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+        }
+      ],
+      "duration_ms": 246932,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4CEqDmkqD7illXHuym76V6"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Young Blood",
-        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Night People",
         "url": "https://open.spotify.com/album/1snS7GPKcsbRHihG1ug2VN"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 183720,
       "name": "Night People",
       "url": "https://open.spotify.com/track/0deuG8hdDyPJCsT3qovhF0"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Young Blood",
+        "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Girl Sports",
-        "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
-      },
-      "artists": [
-        {
-          "name": "Teen Jesus and the Jean Teasers",
-          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
-        }
-      ],
-      "duration_ms": 194588,
-      "name": "Girl Sports",
-      "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
-    },
-    {
-      "added_at": "2023-09-22 00:56:58",
-      "album": {
         "name": "Man Of The Moment",
         "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
       },
@@ -1543,34 +1527,50 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+        "name": "Girl Sports",
+        "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Teen Jesus and the Jean Teasers",
+          "url": "https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF"
         }
       ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
+      "duration_ms": 194588,
+      "name": "Girl Sports",
+      "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
     },
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "Slomosa",
-        "url": "https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS"
+        "name": "Pretty Monster",
+        "url": "https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6"
       },
       "artists": [
         {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+          "name": "The Blue Stones",
+          "url": "https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC"
         }
       ],
-      "duration_ms": 167389,
-      "name": "Kevin",
-      "url": "https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3"
+      "duration_ms": 200622,
+      "name": "What\u2019s It Take To Be Happy?",
+      "url": "https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg"
+    },
+    {
+      "added_at": "2023-09-22 00:56:58",
+      "album": {
+        "name": "Grownass Man",
+        "url": "https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK"
+      },
+      "artists": [
+        {
+          "name": "The Shouting Matches",
+          "url": "https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Heaven Knows",
+      "url": "https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL"
     },
     {
       "added_at": "2023-09-22 00:56:58",
@@ -1591,18 +1591,18 @@
     {
       "added_at": "2023-09-22 00:56:58",
       "album": {
-        "name": "\"Filthy\"",
-        "url": "https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5"
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
       "artists": [
         {
-          "name": "Ayron Jones",
-          "url": "https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 181447,
-      "name": "\"Filthy\"",
-      "url": "https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw"
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-09-22 00:56:58",

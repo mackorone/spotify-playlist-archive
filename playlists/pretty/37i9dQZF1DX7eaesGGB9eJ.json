@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 225532,
+  "num_followers": 225988,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Proyecto Akwid",
         "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 243466,
       "name": "No Hay Manera",
       "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -207,8 +239,8 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
       },
       "artists": [
         {
@@ -216,41 +248,9 @@
           "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Clasificacion C Vol.1",
-        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 228092,
-      "name": "Un Par De Balas",
-      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -267,6 +267,22 @@
       "duration_ms": 209440,
       "name": "Chingo de Cheve",
       "url": "https://open.spotify.com/track/15zmYFxKIToe8TlX3JbHLm"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Clasificacion C Vol.1",
+        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 228092,
+      "name": "Un Par De Balas",
+      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -303,22 +319,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Me Puse Pedo",
-        "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
-      },
-      "artists": [
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Me Puse Pedo",
-      "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Artilleria Pesada, Presenta:",
         "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
       },
@@ -335,34 +335,18 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+        "name": "Me Puse Pedo",
+        "url": "https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Aquamosh",
-        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 262613,
-      "name": "Mr. P-Mosh",
-      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
+      "duration_ms": 190000,
+      "name": "Me Puse Pedo",
+      "url": "https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -395,6 +379,38 @@
       "duration_ms": 255693,
       "name": "Tres Delinquentes - Radio Version",
       "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Aquamosh",
+        "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
+      },
+      "artists": [
+        {
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
+        }
+      ],
+      "duration_ms": 262613,
+      "name": "Mr. P-Mosh",
+      "url": "https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -451,22 +467,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Donde Jugaran Las Ni\u00f1as",
-        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 250640,
-      "name": "Gimme Tha Power",
-      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "KOMP 104.9 Radio Compa",
         "url": "https://open.spotify.com/album/1vg1nn8RYZMLG3B3DdLWRj"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 258585,
       "name": "C\u00f3mo, Cu\u00e1ndo Y D\u00f3nde",
       "url": "https://open.spotify.com/track/7HqibgWgNi1e6nWNjeFiXD"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Donde Jugaran Las Ni\u00f1as",
+        "url": "https://open.spotify.com/album/7h9NpO38NZFD8vcEHw4lkZ"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 250640,
+      "name": "Gimme Tha Power",
+      "url": "https://open.spotify.com/track/6grtIVjVPuZWup0fIXF900"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -503,8 +519,8 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
       "artists": [
         {
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -555,6 +571,22 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
+        "name": "Todo Bien",
+        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
+      },
+      "artists": [
+        {
+          "name": "La Banda Baston",
+          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
         "name": "Manos de Anillo",
         "url": "https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU"
       },
@@ -567,22 +599,6 @@
       "duration_ms": 225957,
       "name": "Manos de Anillo",
       "url": "https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
-        "name": "Grandes \u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
-      },
-      "artists": [
-        {
-          "name": "Iluminatik",
-          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
-        }
-      ],
-      "duration_ms": 296100,
-      "name": "Dios, El Diablo Y Yo",
-      "url": "https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -603,18 +619,18 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Todo Bien",
-        "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
+        "name": "Grandes \u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj"
       },
       "artists": [
         {
-          "name": "La Banda Baston",
-          "url": "https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP"
+          "name": "Iluminatik",
+          "url": "https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
+      "duration_ms": 296100,
+      "name": "Dios, El Diablo Y Yo",
+      "url": "https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7"
     },
     {
       "added_at": "2022-03-07 23:02:38",
@@ -635,22 +651,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Ataraxia: A Plena Luz del Dia",
         "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-03-07 23:02:38",
       "album": {
-        "name": "Henceforth",
-        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
-      },
-      "artists": [
-        {
-          "name": "Achepe",
-          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Fue un Placer",
-      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
-    },
-    {
-      "added_at": "2022-03-07 23:02:38",
-      "album": {
         "name": "Verdugo",
         "url": "https://open.spotify.com/album/3kXUPuwSmjQiyCgPIDeZW1"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 224651,
       "name": "Tratos Con el Diablo",
       "url": "https://open.spotify.com/track/3dtbEL58G2yATa9GlVD2Th"
+    },
+    {
+      "added_at": "2022-03-07 23:02:38",
+      "album": {
+        "name": "Henceforth",
+        "url": "https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx"
+      },
+      "artists": [
+        {
+          "name": "Achepe",
+          "url": "https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM"
+        }
+      ],
+      "duration_ms": 228026,
+      "name": "Fue un Placer",
+      "url": "https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8"
     },
     {
       "added_at": "2022-03-07 23:02:38",

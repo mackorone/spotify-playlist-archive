@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVUsw2RlcPf.md) - [plain]
 
 > Are you ready to listen JK's songs for 7 DAYS?
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,245 likes - 64 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,748 likes - 64 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

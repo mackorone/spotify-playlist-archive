@@ -1,291 +1,549 @@
 {
-  "2023-03-18": 25,
-  "2023-03-19": 56,
-  "2023-03-20": 98,
-  "2023-03-21": 126,
-  "2023-03-22": 360,
-  "2023-03-23": 440,
-  "2023-03-24": 440,
-  "2023-03-25": 536,
-  "2023-03-26": 584,
-  "2023-03-27": 626,
-  "2023-03-28": 657,
-  "2023-03-29": 708,
-  "2023-03-30": 776,
-  "2023-03-31": 776,
-  "2023-04-01": 822,
-  "2023-04-02": 860,
-  "2023-04-03": 892,
-  "2023-04-04": 920,
-  "2023-04-05": 955,
-  "2023-04-06": 990,
-  "2023-04-07": 1019,
-  "2023-04-09": 1071,
-  "2023-04-10": 1118,
-  "2023-04-11": 1177,
-  "2023-04-12": 1177,
-  "2023-04-13": 1202,
-  "2023-04-14": 1225,
-  "2023-04-15": 1235,
-  "2023-04-16": 1268,
-  "2023-04-17": 1290,
-  "2023-04-18": 1310,
-  "2023-04-19": 1332,
-  "2023-04-20": 1352,
-  "2023-04-21": 1371,
-  "2023-04-22": 1404,
-  "2023-04-23": 1429,
-  "2023-04-24": 1455,
-  "2023-04-25": 1472,
-  "2023-04-26": 1501,
-  "2023-04-27": 1530,
-  "2023-04-28": 1558,
-  "2023-04-29": 1587,
-  "2023-04-30": 1621,
-  "2023-05-01": 1672,
-  "2023-05-02": 1713,
-  "2023-05-03": 1742,
-  "2023-05-04": 1769,
-  "2023-05-05": 1797,
-  "2023-05-06": 1827,
-  "2023-05-07": 1845,
-  "2023-05-08": 1876,
-  "2023-05-09": 1901,
-  "2023-05-10": 1920,
-  "2023-05-11": 1945,
-  "2023-05-12": 1969,
-  "2023-05-13": 1994,
-  "2023-05-14": 2015,
-  "2023-05-15": 2046,
-  "2023-05-16": 2079,
-  "2023-05-17": 2097,
-  "2023-05-18": 2129,
-  "2023-05-19": 2160,
-  "2023-05-20": 2204,
-  "2023-05-21": 2204,
-  "2023-05-22": 2204,
-  "2023-05-23": 2240,
-  "2023-05-24": 2281,
-  "2023-05-25": 2288,
-  "2023-05-26": 2304,
-  "2023-05-27": 2326,
-  "2023-05-28": 2357,
-  "2023-05-29": 2357,
-  "2023-05-30": 2399,
-  "2023-05-31": 2426,
-  "2023-06-01": 2453,
-  "2023-06-02": 2463,
-  "2023-06-03": 2481,
-  "2023-06-04": 2509,
-  "2023-06-05": 2533,
-  "2023-06-06": 2549,
-  "2023-06-07": 2572,
-  "2023-06-08": 2598,
-  "2023-06-09": 2623,
-  "2023-06-10": 2645,
-  "2023-06-11": 2673,
-  "2023-06-12": 2688,
-  "2023-06-13": 2719,
-  "2023-06-14": 2746,
-  "2023-06-15": 2776,
-  "2023-06-16": 2801,
-  "2023-06-17": 2835,
-  "2023-06-18": 2874,
-  "2023-06-19": 2910,
-  "2023-06-20": 2944,
-  "2023-06-21": 2964,
-  "2023-06-22": 2992,
-  "2023-06-23": 3015,
-  "2023-06-24": 3063,
-  "2023-06-25": 3128,
-  "2023-06-26": 3162,
-  "2023-06-27": 3205,
-  "2023-06-28": 3240,
-  "2023-06-29": 3279,
-  "2023-06-30": 3317,
-  "2023-07-01": 3384,
-  "2023-07-02": 3384,
-  "2023-07-03": 3404,
-  "2023-07-04": 3421,
-  "2023-07-05": 3438,
-  "2023-07-06": 3469,
-  "2023-07-07": 3469,
-  "2023-07-08": 3488,
-  "2023-07-09": 3517,
-  "2023-07-10": 3542,
-  "2023-07-11": 3558,
-  "2023-07-12": 3574,
-  "2023-07-13": 3596,
-  "2023-07-14": 3619,
-  "2023-07-15": 3632,
-  "2023-07-16": 3651,
-  "2023-07-17": 3678,
-  "2023-07-18": 3696,
-  "2023-07-19": 3719,
-  "2023-07-20": 3737,
-  "2023-07-21": 3750,
-  "2023-07-22": 3772,
-  "2023-07-23": 3792,
-  "2023-07-24": 3820,
-  "2023-07-25": 3834,
-  "2023-07-26": 3864,
-  "2023-07-27": 3878,
-  "2023-07-28": 3897,
-  "2023-07-29": 3914,
-  "2023-07-30": 3948,
-  "2023-07-31": 3969,
-  "2023-08-01": 3995,
-  "2023-08-02": 4011,
-  "2023-08-03": 4026,
-  "2023-08-04": 4048,
-  "2023-08-05": 4072,
-  "2023-08-06": 4115,
-  "2023-08-07": 4115,
-  "2023-08-08": 4126,
-  "2023-08-09": 4143,
-  "2023-08-10": 4157,
-  "2023-08-11": 4167,
-  "2023-08-12": 4202,
-  "2023-08-13": 4223,
-  "2023-08-14": 4236,
-  "2023-08-15": 4258,
-  "2023-08-16": 4258,
-  "2023-08-17": 4284,
-  "2023-08-18": 4311,
-  "2023-08-19": 4322,
-  "2023-08-20": 4345,
-  "2023-08-21": 4361,
-  "2023-08-22": 4380,
-  "2023-08-23": 4395,
-  "2023-08-24": 4412,
-  "2023-08-25": 4427,
-  "2023-08-26": 4450,
-  "2023-08-27": 4461,
-  "2023-08-28": 4474,
-  "2023-08-29": 4495,
-  "2023-08-30": 4530,
-  "2023-08-31": 4555,
-  "2023-09-01": 4606,
-  "2023-09-02": 4606,
-  "2023-09-03": 4623,
-  "2023-09-04": 4640,
-  "2023-09-05": 4659,
-  "2023-09-06": 4674,
-  "2023-09-07": 4694,
-  "2023-09-08": 4704,
-  "2023-09-09": 4727,
-  "2023-09-10": 4751,
-  "2023-09-11": 4782,
-  "2023-09-12": 4806,
-  "2023-09-13": 4830,
-  "2023-09-14": 4851,
-  "2023-09-15": 4863,
-  "2023-09-16": 4888,
-  "2023-09-17": 4901,
-  "2023-09-18": 4917,
-  "2023-09-19": 4933,
-  "2023-09-20": 4953,
-  "2023-09-21": 4969,
-  "2023-09-22": 4975,
-  "2023-09-23": 4988,
-  "2023-09-24": 5014,
-  "2023-09-25": 5024,
-  "2023-09-26": 5041,
-  "2023-09-27": 5051,
-  "2023-09-28": 5062,
-  "2023-09-29": 5077,
-  "2023-09-30": 5091,
-  "2023-10-01": 5115,
-  "2023-10-02": 5136,
-  "2023-10-03": 5149,
-  "2023-10-04": 5173,
-  "2023-10-05": 5195,
-  "2023-10-06": 5215,
-  "2023-10-07": 5224,
-  "2023-10-08": 5247,
-  "2023-10-09": 5277,
-  "2023-10-10": 5290,
-  "2023-10-11": 5315,
-  "2023-10-12": 5315,
-  "2023-10-13": 5324,
-  "2023-10-14": 5343,
-  "2023-10-15": 5360,
-  "2023-10-16": 5382,
-  "2023-10-17": 5405,
-  "2023-10-18": 5418,
-  "2023-10-19": 5432,
-  "2023-10-20": 5450,
-  "2023-10-21": 5461,
-  "2023-10-22": 5478,
-  "2023-10-23": 5495,
-  "2023-10-24": 5509,
-  "2023-10-25": 5530,
-  "2023-10-26": 5544,
-  "2023-10-27": 5561,
-  "2023-10-28": 5581,
-  "2023-10-29": 5596,
-  "2023-10-30": 5629,
-  "2023-10-31": 5629,
-  "2023-11-01": 5641,
-  "2023-11-02": 5660,
-  "2023-11-03": 5683,
-  "2023-11-04": 5697,
-  "2023-11-05": 5712,
-  "2023-11-06": 5728,
-  "2023-11-07": 5746,
-  "2023-11-08": 5756,
-  "2023-11-09": 5779,
-  "2023-11-10": 5796,
-  "2023-11-11": 5813,
-  "2023-11-12": 5832,
-  "2023-11-13": 5859,
-  "2023-11-14": 5872,
-  "2023-11-15": 5872,
-  "2023-11-16": 5911,
-  "2023-11-17": 5950,
-  "2023-11-18": 5950,
-  "2023-11-19": 5963,
-  "2023-11-20": 5978,
-  "2023-11-21": 5989,
-  "2023-11-22": 6010,
-  "2023-11-23": 6021,
-  "2023-11-24": 6049,
-  "2023-11-25": 6067,
-  "2023-11-26": 6094,
-  "2023-11-27": 6119,
-  "2023-11-28": 6141,
-  "2023-11-29": 6204,
-  "2023-11-30": 6204,
-  "2023-12-01": 6252,
-  "2023-12-02": 6298,
-  "2023-12-03": 6326,
-  "2023-12-04": 6360,
-  "2023-12-05": 6398,
-  "2023-12-06": 6436,
-  "2023-12-07": 6476,
-  "2023-12-08": 6519,
-  "2023-12-09": 6548,
-  "2023-12-10": 6588,
-  "2023-12-11": 6623,
-  "2023-12-12": 6659,
-  "2023-12-13": 6714,
-  "2023-12-14": 6764,
-  "2023-12-15": 6794,
-  "2023-12-16": 6844,
-  "2023-12-17": 6903,
-  "2023-12-18": 6938,
-  "2023-12-19": 6980,
-  "2023-12-20": 7007,
-  "2023-12-21": 7038,
-  "2023-12-22": 7078,
-  "2023-12-23": 7104,
-  "2023-12-24": 7146,
-  "2023-12-25": 7179,
-  "2023-12-26": 7220,
-  "2023-12-27": 7245,
-  "2023-12-30": 7325,
-  "2023-12-31": 7366,
-  "2024-01-01": 7396,
-  "2024-01-02": 7436,
-  "2024-01-03": 7467
+  "2024-01-17": 8055,
+  "date_first_scraped": "2023-03-18",
+  "description": "La playlist oficial de la serie de Netflix, Sky High.",
+  "name": "Sky High Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "World Impressions",
+        "url": "https://open.spotify.com/album/4tzPHd5EFW52GjbVBoCvZA"
+      },
+      "artists": [
+        {
+          "name": "Eric Heber Suffrin",
+          "url": "https://open.spotify.com/artist/7MQFnr0KcTl4EZUM8Ge5Oa"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89506,
+      "name": "African Journey",
+      "url": "https://open.spotify.com/track/36wRUH2ec7FtIuteZPrJUk"
+    },
+    {
+      "album": {
+        "name": "Caribbean Islands, Vol. 2",
+        "url": "https://open.spotify.com/album/74GJWGb4ySzCC2znrFI1eI"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Chambaud",
+          "url": "https://open.spotify.com/artist/1c4N14gu1jokeHNDbSPaBB"
+        },
+        {
+          "name": "Yon Kalawang",
+          "url": "https://open.spotify.com/artist/0QXeGcT3mUqxhgiqZvCQ0i"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98786,
+      "name": "Calypso Drums",
+      "url": "https://open.spotify.com/track/2dgeDyEQ3550i12cbHUzck"
+    },
+    {
+      "album": {
+        "name": "Supercharged Global Beats",
+        "url": "https://open.spotify.com/album/4DZwdUZXHKLRc87uqxxvOO"
+      },
+      "artists": [
+        {
+          "name": "Christopher James Dececio",
+          "url": "https://open.spotify.com/artist/7k5iEsM39PGnTbKP2GPh5K"
+        },
+        {
+          "name": "Vance Westlake",
+          "url": "https://open.spotify.com/artist/1DGhrLpoKQS2WrOnDsR5P3"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131891,
+      "name": "Fiery Fiesta",
+      "url": "https://open.spotify.com/track/2rkfnZQgzPNEXYkSk1M9uF"
+    },
+    {
+      "album": {
+        "name": "Hace Calor",
+        "url": "https://open.spotify.com/album/6kfkMEQwnXozr3dnjZI9ZW"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201197,
+      "name": "Hace Calor",
+      "url": "https://open.spotify.com/track/5j3wzSS6z80VEs71O0gysC"
+    },
+    {
+      "album": {
+        "name": "Hace Calor (Remix)",
+        "url": "https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247384,
+      "name": "Hace Calor - Remix",
+      "url": "https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w"
+    },
+    {
+      "album": {
+        "name": "Hello Future",
+        "url": "https://open.spotify.com/album/4RT2kZOigGFTQMA5qSIfmp"
+      },
+      "artists": [
+        {
+          "name": "Henry Parsley",
+          "url": "https://open.spotify.com/artist/1CRpNf9ceFASm89QV2U0aY"
+        },
+        {
+          "name": "Sid Narbom",
+          "url": "https://open.spotify.com/artist/07bc07kEzUQS2m70LOWchA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155887,
+      "name": "Just Like This",
+      "url": "https://open.spotify.com/track/3weSaf2Dycd25zteQP5Tjj"
+    },
+    {
+      "album": {
+        "name": "Retro Afrobeat",
+        "url": "https://open.spotify.com/album/1LpWAaAPbGtqx7yMBGbIKj"
+      },
+      "artists": [
+        {
+          "name": "Eliasson",
+          "url": "https://open.spotify.com/artist/5Dj9JNInwX9anxzgiYx2u4"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225947,
+      "name": "Kalimba Beauty",
+      "url": "https://open.spotify.com/track/7pFmzWxLdoFjjfMFh2Ddjp"
+    },
+    {
+      "album": {
+        "name": "Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/2Pj2kZM5XpyIeyFBTAVulL"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "Knockin' On Heaven's Door",
+      "url": "https://open.spotify.com/track/6HSXNV0b4M4cLJ7ljgVVeh"
+    },
+    {
+      "album": {
+        "name": "Hasta el Cielo, La Serie",
+        "url": "https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jean",
+          "url": "https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171100,
+      "name": "Kriptonita (feat. Villano Antillano)",
+      "url": "https://open.spotify.com/track/3CRIyxtaqIhrMbUmTpqwH5"
+    },
+    {
+      "album": {
+        "name": "Des visages des figures",
+        "url": "https://open.spotify.com/album/4vvtMZGxbWEHyOv7MNgrsT"
+      },
+      "artists": [
+        {
+          "name": "Noir D\u00e9sir",
+          "url": "https://open.spotify.com/artist/4ksCwAPgMi8rkQwwR3nMos"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288746,
+      "name": "Le vent nous portera",
+      "url": "https://open.spotify.com/track/2g4oQ1siRRrg8yAkQLVx0c"
+    },
+    {
+      "album": {
+        "name": "Pure Pop",
+        "url": "https://open.spotify.com/album/4QE6O7nmoZJdg3T9yQ8Xkd"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Mac",
+          "url": "https://open.spotify.com/artist/3aWOFh8GZ19uI0ZdIEJOcu"
+        },
+        {
+          "name": "Henry Richard Obree Parsley",
+          "url": "https://open.spotify.com/artist/0HuUTQ2zRcSJ5npEKjqglh"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149702,
+      "name": "Like We Do",
+      "url": "https://open.spotify.com/track/3b5nalfUlw30Hvk36Bz9sX"
+    },
+    {
+      "album": {
+        "name": "Percussive Pop",
+        "url": "https://open.spotify.com/album/4z7UTQ7cn3NSZ8Asrfle5f"
+      },
+      "artists": [
+        {
+          "name": "Stax",
+          "url": "https://open.spotify.com/artist/72NM7f1GtFP1LvuhMzqfT6"
+        },
+        {
+          "name": "Beth Cole",
+          "url": "https://open.spotify.com/artist/6nsig1J2LF9B2tsX9XDH7X"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146040,
+      "name": "Lose Your Head",
+      "url": "https://open.spotify.com/track/0mgIRj1X6Jl1iD0QiBSaQi"
+    },
+    {
+      "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
+    },
+    {
+      "album": {
+        "name": "Mir\u00e1ndote",
+        "url": "https://open.spotify.com/album/7xnKqGbHSMxldHS5AcCn08"
+      },
+      "artists": [
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135914,
+      "name": "Mir\u00e1ndote",
+      "url": "https://open.spotify.com/track/6wywJ7RutAY0JL7cMP7uFN"
+    },
+    {
+      "album": {
+        "name": "Play Me Again",
+        "url": "https://open.spotify.com/album/54vSb9255iZKykjuytWbZh"
+      },
+      "artists": [
+        {
+          "name": "Kid Francescoli",
+          "url": "https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD"
+        },
+        {
+          "name": "Julia Minkin",
+          "url": "https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390638,
+      "name": "Moon (And It Went Like)",
+      "url": "https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E"
+    },
+    {
+      "album": {
+        "name": "LDN Sounds 2",
+        "url": "https://open.spotify.com/album/11ZoQ8pSRn3ZTPexF6d8ma"
+      },
+      "artists": [
+        {
+          "name": "Oliver Holmes",
+          "url": "https://open.spotify.com/artist/74sowxTJmpHW0j0oAcUWYJ"
+        },
+        {
+          "name": "AFRODITETOOLIVELY",
+          "url": "https://open.spotify.com/artist/1vYoCjBZp412cCNoHfApR4"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124007,
+      "name": "On Fleek",
+      "url": "https://open.spotify.com/track/7EpMFmGu8pdVgRTOg8Mrk6"
+    },
+    {
+      "album": {
+        "name": "POP: Synthwave",
+        "url": "https://open.spotify.com/album/0jS9LOKH9vGFeCoqpFoqri"
+      },
+      "artists": [
+        {
+          "name": "Henrik Lars Wikstrom",
+          "url": "https://open.spotify.com/artist/1No9dLQzBAihU2KAM5HMdP"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215121,
+      "name": "Out Of The Night",
+      "url": "https://open.spotify.com/track/0KvUTACJYxJOABcNM5KAMx"
+    },
+    {
+      "album": {
+        "name": "Hasta el Cielo, La Serie",
+        "url": "https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jean",
+          "url": "https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA"
+        },
+        {
+          "name": "Bebe",
+          "url": "https://open.spotify.com/artist/2byU53ebtTxcAnIRE814Ts"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "Parte Por Parte",
+      "url": "https://open.spotify.com/track/3m6uuHUNDl3iYZVCBuvPEz"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/03ZLnEibkBpQxhXKaQiqfU"
+      },
+      "artists": [
+        {
+          "name": "Vald",
+          "url": "https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js"
+        },
+        {
+          "name": "Orelsan",
+          "url": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227386,
+      "name": "Peon (feat. Orelsan)",
+      "url": "https://open.spotify.com/track/6GCre1ICOJlP3AQNuOS3oe"
+    },
+    {
+      "album": {
+        "name": "Hasta el Cielo, La Serie",
+        "url": "https://open.spotify.com/album/7qfblK0x5GREl8K0TKnnxR"
+      },
+      "artists": [
+        {
+          "name": "Carlos Jean",
+          "url": "https://open.spotify.com/artist/3oDsfHaRCBv7Jp8HO6VgeA"
+        },
+        {
+          "name": "Miguel Campello",
+          "url": "https://open.spotify.com/artist/0OzDyhPnwvUVGRNWrVILlg"
+        },
+        {
+          "name": "Mala Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223591,
+      "name": "Quisiera Volverme Buena",
+      "url": "https://open.spotify.com/track/6Ap6cqtMY5hGRq7vqqP9fj"
+    },
+    {
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
+    },
+    {
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+    },
+    {
+      "album": {
+        "name": "Sin Carn\u00e9",
+        "url": "https://open.spotify.com/album/09kDovcZ38SvmgoUHlh1Hc"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117680,
+      "name": "Sin Carn\u00e9",
+      "url": "https://open.spotify.com/track/240Wr3oL2io76a5D6wfQsm"
+    },
+    {
+      "album": {
+        "name": "Ultracool Beats & Samples",
+        "url": "https://open.spotify.com/album/1NBMW8x0MMBaJJCifN2ASz"
+      },
+      "artists": [
+        {
+          "name": "Anders Johan Greger Lewen",
+          "url": "https://open.spotify.com/artist/22aYRaFLiSyrr0qDu2a68g"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136412,
+      "name": "Soul Connection",
+      "url": "https://open.spotify.com/track/4uyfGs4H0TWED0hsmauAZh"
+    },
+    {
+      "album": {
+        "name": "Caribbean Islands, Vol. 2",
+        "url": "https://open.spotify.com/album/74GJWGb4ySzCC2znrFI1eI"
+      },
+      "artists": [
+        {
+          "name": "Aur\u00e9lien Chambaud",
+          "url": "https://open.spotify.com/artist/1c4N14gu1jokeHNDbSPaBB"
+        },
+        {
+          "name": "Yon Kalawang",
+          "url": "https://open.spotify.com/artist/0QXeGcT3mUqxhgiqZvCQ0i"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96746,
+      "name": "Tassa",
+      "url": "https://open.spotify.com/track/2dR9JLGTTfeUvP4WE2JMdp"
+    },
+    {
+      "album": {
+        "name": "Jefe",
+        "url": "https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187027,
+      "name": "VVS",
+      "url": "https://open.spotify.com/track/5S12Ds2RswM2ITC0u1J01f"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXGhPW9YWwgC"
 }

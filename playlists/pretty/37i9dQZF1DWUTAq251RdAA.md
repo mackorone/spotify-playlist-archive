@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTAq251RdAA.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/3EOfjHuLO7f2VbwNGu0Tqg">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,189 likes - 81 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,214 likes - 81 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

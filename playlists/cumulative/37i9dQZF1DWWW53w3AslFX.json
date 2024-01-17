@@ -2622,7 +2622,7 @@
     {
       "album": {
         "name": "Dead Magic",
-        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
+        "url": "https://open.spotify.com/album/6TwIgTmp0ntCzuc846KoXB"
       },
       "artists": [
         {
@@ -2633,6 +2633,24 @@
       "date_added": "2021-06-15",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 368692,
+      "name": "The Mysterious Vanishing of Electra",
+      "url": "https://open.spotify.com/track/6psEcKfHh1nDCDXOcyMO6I"
+    },
+    {
+      "album": {
+        "name": "Dead Magic",
+        "url": "https://open.spotify.com/album/29haLrvX37jDkDfwVk4FKV"
+      },
+      "artists": [
+        {
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        }
+      ],
+      "date_added": "2021-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
       "duration_ms": 368692,
       "name": "The Mysterious Vanishing of Electra",
       "url": "https://open.spotify.com/track/6y1hWuNQjq0x4qqVqfpp1Q"

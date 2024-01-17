@@ -4,7 +4,7 @@
 
 > Get into the rhythm of SXSW '17 with this collection of tracks from artists set to perform this year\. Cover: <a href="spotify:artist:4TsHKU8l8Wq7n7OPVikirn">Jidenna</a>.
 
-38 songs - 2 hr 14 min
+39 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Frustrated](https://open.spotify.com/track/5Ny3wPkBqfpmDxuifn4s8s) | [R.LUM.R](https://open.spotify.com/artist/7JBZN2pehWRUu3fX11lP2y) | [Frustrated](https://open.spotify.com/album/0ewxQHdl5Jc5VVsBbyh3nZ) | 3:21 | 2022-07-29 | 2022-10-14 |
 | [Good As Hell](https://open.spotify.com/track/6uAm7pG66O1XesXS9bpHSF) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good As Hell](https://open.spotify.com/album/5PMpdvn38HScK6IuLniRep) | 2:39 | 2017-02-27 | 2022-07-29 |
 | [Good as Hell](https://open.spotify.com/track/1fUXdFpj8AbpkdwiaJwQWk) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O) | 2:39 | 2022-11-11 | 2022-11-13 |
-| [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2022-07-29 |  |
+| [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2022-07-29 | 2024-01-13 |
+| [Good as Hell](https://open.spotify.com/track/4h3oVavW1qzWynZTfzKJUZ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Rap Love Songs](https://open.spotify.com/album/0tr0cC27RBXAmDAKaO0nST) | 2:39 | 2024-01-13 |  |
 | [Got Me Loose](https://open.spotify.com/track/4xsjRZgz4eKl4MdAZ8afjJ) | [Reesa Renee](https://open.spotify.com/artist/1sP9nzoMXxaI0LiU1uWoLL) | [Got Me Loose](https://open.spotify.com/album/0u5pSvtfkTrcAwf11TxxFW) | 3:57 | 2017-02-27 |  |
 | [Hello](https://open.spotify.com/track/44s8AnWjkj68J5N9JKX8Zw) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/4f2Gxvy2gb2VXTIWemUEqL) | 5:19 | 2017-02-27 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/6f02BtyPQvYflisHQPlCTz) | [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw), [Tdot illdude](https://open.spotify.com/artist/4gcBXAL1iwHPIrf1LdVsKg) | [Morning Comes Too Fast](https://open.spotify.com/album/5SMNVBBlhEKuzwe78byNnl) | 3:13 | 2017-02-27 |  |

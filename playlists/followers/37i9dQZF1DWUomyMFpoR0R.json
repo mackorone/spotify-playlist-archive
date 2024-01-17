@@ -1,16 +1,743 @@
 {
-  "2023-12-19": 30869,
-  "2023-12-20": 30884,
-  "2023-12-21": 30903,
-  "2023-12-22": 30922,
-  "2023-12-23": 30936,
-  "2023-12-24": 30954,
-  "2023-12-25": 30986,
-  "2023-12-26": 31010,
-  "2023-12-27": 31032,
-  "2023-12-30": 31102,
-  "2023-12-31": 31139,
-  "2024-01-01": 31161,
-  "2024-01-02": 31170,
-  "2024-01-03": 31196
+  "2024-01-17": 31417,
+  "date_first_scraped": "2023-12-19",
+  "description": " <a href=\"spotify:artist:3TXQ1ddouwQAI78hV4hXDjj\">Maceo Plex</a> shares his favorite tracks and new ones from his 3rd album this week. \"My newest album, \u201993, is a fusion of diverse influences throughout my musical career\u2014from techno to drum and bass, rap to pop, and beyond. Dive into it\". More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
+  "name": "Maceo Plex's track IDs",
+  "tracks": [
+    {
+      "album": {
+        "name": "Troisi\u00e8me Sens (Remixes)",
+        "url": "https://open.spotify.com/album/5X8quvrAWxBJxzpoOd7ZJZ"
+      },
+      "artists": [
+        {
+          "name": "Madben",
+          "url": "https://open.spotify.com/artist/1Ky9YENYbC5XUBRGLQUZBY"
+        },
+        {
+          "name": "AVNU",
+          "url": "https://open.spotify.com/artist/2oGslc3bozUKzvYlegsEMZ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260638,
+      "name": "1 A.M At A Rave - AVNU Remix",
+      "url": "https://open.spotify.com/track/0iQxnzAWcHERXpaijjPcyM"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376448,
+      "name": "All Night feat. Oscar and the Wolf - Garage Version",
+      "url": "https://open.spotify.com/track/4RfhFXn9IRAvI96YS5TJNQ"
+    },
+    {
+      "album": {
+        "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+        "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        },
+        {
+          "name": "IRAH",
+          "url": "https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU"
+        },
+        {
+          "name": "Trigga",
+          "url": "https://open.spotify.com/artist/4LqFJ98PEA7gIrRtviMUmb"
+        },
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/4n81jTX3LJ7zxNr6Ss8PkQ"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177291,
+      "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
+      "url": "https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg"
+    },
+    {
+      "album": {
+        "name": "Rave Classics",
+        "url": "https://open.spotify.com/album/5RxPozvp4dooX36BFRIUMT"
+      },
+      "artists": [
+        {
+          "name": "Adam F",
+          "url": "https://open.spotify.com/artist/3m38ZSwkLdeBDUhdGnFPrn"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227533,
+      "name": "Circles - 7'' Edit",
+      "url": "https://open.spotify.com/track/3XM2ormuVHvn3tQvTQoy3J"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248297,
+      "name": "Clickbait (This Ain't Hollywood)",
+      "url": "https://open.spotify.com/track/2RXEi21IUvW1sUPpwZzABz"
+    },
+    {
+      "album": {
+        "name": "Conjure One",
+        "url": "https://open.spotify.com/album/7pYGPMwQ2tjXAnj9wZqhtz"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 499253,
+      "name": "Conjure Balearia",
+      "url": "https://open.spotify.com/track/6nNVrATle8kh4x3VbTD0t5"
+    },
+    {
+      "album": {
+        "name": "Conjure Superstar",
+        "url": "https://open.spotify.com/album/4h0c2JJkJAw8spNfQ2XG8P"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460269,
+      "name": "Conjure Superstar",
+      "url": "https://open.spotify.com/track/5pYsZ4LY6LU4wEEDUGmsaB"
+    },
+    {
+      "album": {
+        "name": "Dramatic 2050 EP",
+        "url": "https://open.spotify.com/album/0VJSDspZ8pM9VLL9AOrGUB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        },
+        {
+          "name": "Waltervelt",
+          "url": "https://open.spotify.com/artist/2ifquSqLcfE2N6jHsjYUIR"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302450,
+      "name": "Dramatic 2050",
+      "url": "https://open.spotify.com/track/4BAQPTLbyvnQDl6evZcPfd"
+    },
+    {
+      "album": {
+        "name": "Ellum Sampler V3 - Part 2",
+        "url": "https://open.spotify.com/album/28nfbXw92dXsLlPETqYAoF"
+      },
+      "artists": [
+        {
+          "name": "Headwaters",
+          "url": "https://open.spotify.com/artist/3zl0xOnASfvN3NcowWxSRm"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332950,
+      "name": "Eternal Madness",
+      "url": "https://open.spotify.com/track/5Ht7wCMVWUqE5JAJNzPWG2"
+    },
+    {
+      "album": {
+        "name": "Signals from Pier Thirteen",
+        "url": "https://open.spotify.com/album/00Um0BxJmJnm6kufvHBl7A"
+      },
+      "artists": [
+        {
+          "name": "Crash Course In Science",
+          "url": "https://open.spotify.com/artist/7mifyf6uQQKKffciTy7sOK"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181110,
+      "name": "Flying Turns",
+      "url": "https://open.spotify.com/track/2R42iXxH0Y6cwMoNyrKQZk"
+    },
+    {
+      "album": {
+        "name": "Force One",
+        "url": "https://open.spotify.com/album/5hBY8xq8ODpqWPg9oGwBiy"
+      },
+      "artists": [
+        {
+          "name": "Paradigm Shift",
+          "url": "https://open.spotify.com/artist/01r0qlwRahsp4lbWWvZaIK"
+        },
+        {
+          "name": "Nathan Fake",
+          "url": "https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451831,
+      "name": "Force One - Nathan Fake Remix",
+      "url": "https://open.spotify.com/track/5Qf2ioU3a8Y0FkYwDFRCa1"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341541,
+      "name": "Get Out Of Here feat. Perry Farrell",
+      "url": "https://open.spotify.com/track/5pw3k0Hy4k2e7HfDwbPJG0"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        },
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359281,
+      "name": "Go Back feat. Desire",
+      "url": "https://open.spotify.com/track/5kUrBZGDu49FesPBIOx6Ni"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391156,
+      "name": "Hooligan Plex",
+      "url": "https://open.spotify.com/track/3OelSBsfqVkSozDF5i3s4L"
+    },
+    {
+      "album": {
+        "name": "Tough to Love but Worth the Effort",
+        "url": "https://open.spotify.com/album/29vMlKzKeQ0YncueKXNujx"
+      },
+      "artists": [
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354031,
+      "name": "I Lov U",
+      "url": "https://open.spotify.com/track/6dNlY6O5rkfhCFWi6ML5wt"
+    },
+    {
+      "album": {
+        "name": "U Move EP",
+        "url": "https://open.spotify.com/album/4pjlD450AKpthI6G45O1Ow"
+      },
+      "artists": [
+        {
+          "name": "Third Culture (USA)",
+          "url": "https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289687,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/5T8VVBCIj97dje87qw56a2"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/3fu0dvi8F9JoT3S1KG1VKG"
+      },
+      "artists": [
+        {
+          "name": "Sian",
+          "url": "https://open.spotify.com/artist/4JkX37Ibpb0cJq2IItah0y"
+        },
+        {
+          "name": "Sacha Robotti",
+          "url": "https://open.spotify.com/artist/5zheoDzRTIhWzE1j1DttZf"
+        },
+        {
+          "name": "Third Culture (USA)",
+          "url": "https://open.spotify.com/artist/6sJJfdZkhHzBYzBWu0my9p"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373333,
+      "name": "In The Dark - Original Mix",
+      "url": "https://open.spotify.com/track/4ATyGC5RIUkOS1MtXX6Yja"
+    },
+    {
+      "album": {
+        "name": "Ultraviolet EP",
+        "url": "https://open.spotify.com/album/2lHt97eJTknujw3A2bfKh4"
+      },
+      "artists": [
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377277,
+      "name": "Infrared",
+      "url": "https://open.spotify.com/track/3aTHTbrPuTBnxo1HRRHRAh"
+    },
+    {
+      "album": {
+        "name": "Insomnia 2021",
+        "url": "https://open.spotify.com/album/04zGytx3eRCDR7JEQB9GSX"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288238,
+      "name": "Insomnia 2021 - Epic Edit",
+      "url": "https://open.spotify.com/track/6E1VvKBTi0FtLhE8b6GxbE"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368533,
+      "name": "Just You And I",
+      "url": "https://open.spotify.com/track/1I3ozv6FqPeu4blAeMiKkw"
+    },
+    {
+      "album": {
+        "name": "Like An Old Dog (Maceo Plex Remix)",
+        "url": "https://open.spotify.com/album/0eKC58ZvlGo6Xge3vAASYZ"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Pixx",
+          "url": "https://open.spotify.com/artist/6QDPfX2YaZAGJnhpClg8Jo"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390171,
+      "name": "Like An Old Dog - Maceo Plex Remix",
+      "url": "https://open.spotify.com/track/0QNSgg2CPslZbcvKmkFN0N"
+    },
+    {
+      "album": {
+        "name": "Metaverse",
+        "url": "https://open.spotify.com/album/5TcMZXuubM6teV7I7HEzGt"
+      },
+      "artists": [
+        {
+          "name": "Effin & Blindin",
+          "url": "https://open.spotify.com/artist/7MFh3nBnwA0qt8VD0qQoEO"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217322,
+      "name": "Metaverse - Radio Edit",
+      "url": "https://open.spotify.com/track/6FnyAbROppjVPb1pnW7cF5"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Ishi",
+          "url": "https://open.spotify.com/artist/0PuOTaQilwmrn6xRCKVsFo"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307680,
+      "name": "Moon Sky feat. Ishi - House Version",
+      "url": "https://open.spotify.com/track/3psCBBUSE3JylJWtO9hl8W"
+    },
+    {
+      "album": {
+        "name": "Mutant Romance",
+        "url": "https://open.spotify.com/album/6KNCQXuOE6dpELCvYOZfyE"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377952,
+      "name": "Mutant Romance",
+      "url": "https://open.spotify.com/track/4MqzD6Kx1JiziGoaoONea8"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334143,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6uQPQ4r4q33CpiMWP2xlQo"
+    },
+    {
+      "album": {
+        "name": "POGO",
+        "url": "https://open.spotify.com/album/31xpx3Uel2vtuPflA7B1q8"
+      },
+      "artists": [
+        {
+          "name": "KKoi",
+          "url": "https://open.spotify.com/artist/67Op2PSJg4SjmqfWNIaQwC"
+        },
+        {
+          "name": "Teej",
+          "url": "https://open.spotify.com/artist/6Ul7DXJIfPhwGBIP3J96U7"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273168,
+      "name": "POGO",
+      "url": "https://open.spotify.com/track/1notlEPWSqkxrhirc8pjfo"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Gio Santi",
+          "url": "https://open.spotify.com/artist/7F57JJSLjR39pwgOF0RFAA"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391333,
+      "name": "Revision feat. Gio Santi",
+      "url": "https://open.spotify.com/track/48sQDk5lU0iQzvWiZhduO3"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322500,
+      "name": "Serpent Jazz",
+      "url": "https://open.spotify.com/track/0Z9ymbJZb0hB9zrOrFMWRW"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Kirsty Hawkshaw",
+          "url": "https://open.spotify.com/artist/2tJIQxQM0X4lCYERyANSdT"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449785,
+      "name": "Shine On & On feat. Kirsty Hawkshaw (Orbital Tribute)",
+      "url": "https://open.spotify.com/track/70eD1jwCDMmU3kzCQbXet8"
+    },
+    {
+      "album": {
+        "name": "Smooth / Move",
+        "url": "https://open.spotify.com/album/3MKsy0CENi6cakVTDBD5aX"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435628,
+      "name": "Smooth",
+      "url": "https://open.spotify.com/track/6XCIuvobv8ig13xBgCdzlO"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335145,
+      "name": "Stop That",
+      "url": "https://open.spotify.com/track/4kCobKvqHOPEa5GOCz3oR3"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398400,
+      "name": "Wervik",
+      "url": "https://open.spotify.com/track/71qfyoXjGUsKtHCfPWlden"
+    },
+    {
+      "album": {
+        "name": "When the Lights Are Out",
+        "url": "https://open.spotify.com/album/28eezLT3nxoLghPoLKaduu"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444150,
+      "name": "When the Lights Are Out",
+      "url": "https://open.spotify.com/track/2BIe0r0ghtyoeinWcBgQky"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Cubicolor",
+          "url": "https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308658,
+      "name": "You Don't Have To Wait",
+      "url": "https://open.spotify.com/track/2bkWvif6U9KPAqPLUwL1Hu"
+    },
+    {
+      "album": {
+        "name": "'93",
+        "url": "https://open.spotify.com/album/3UJOuk02GRRQoskeaCFwbG"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Mystic Bill",
+          "url": "https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368856,
+      "name": "You're My Desire feat. Mystic Bill",
+      "url": "https://open.spotify.com/track/7tWi5s4uhm4Xq2jozLaLm7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUomyMFpoR0R"
 }

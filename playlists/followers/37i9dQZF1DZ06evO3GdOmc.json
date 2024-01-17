@@ -1,474 +1,1347 @@
 {
-  "2022-09-15": 8227,
-  "2022-09-16": 8280,
-  "2022-09-17": 8330,
-  "2022-09-18": 8372,
-  "2022-09-19": 8431,
-  "2022-09-20": 8470,
-  "2022-09-21": 8530,
-  "2022-09-22": 8593,
-  "2022-09-23": 8655,
-  "2022-09-24": 8655,
-  "2022-09-25": 8775,
-  "2022-09-26": 8844,
-  "2022-09-27": 8897,
-  "2022-09-28": 8958,
-  "2022-09-29": 9024,
-  "2022-09-30": 9088,
-  "2022-10-01": 9140,
-  "2022-10-02": 9195,
-  "2022-10-03": 9269,
-  "2022-10-04": 9325,
-  "2022-10-05": 9369,
-  "2022-10-06": 9434,
-  "2022-10-07": 9500,
-  "2022-10-08": 9564,
-  "2022-10-09": 9649,
-  "2022-10-10": 9666,
-  "2022-10-11": 9737,
-  "2022-10-12": 9801,
-  "2022-10-13": 9858,
-  "2022-10-14": 9924,
-  "2022-10-15": 9959,
-  "2022-10-16": 10015,
-  "2022-10-17": 10077,
-  "2022-10-18": 10143,
-  "2022-10-19": 10200,
-  "2022-10-20": 10247,
-  "2022-10-21": 10289,
-  "2022-10-22": 10351,
-  "2022-10-23": 10409,
-  "2022-10-24": 10476,
-  "2022-10-25": 10535,
-  "2022-10-26": 10592,
-  "2022-10-27": 10650,
-  "2022-10-28": 10712,
-  "2022-10-29": 10761,
-  "2022-10-30": 10823,
-  "2022-10-31": 10889,
-  "2022-11-01": 10942,
-  "2022-11-02": 10986,
-  "2022-11-03": 11047,
-  "2022-11-04": 11099,
-  "2022-11-05": 11146,
-  "2022-11-06": 11200,
-  "2022-11-07": 11267,
-  "2022-11-08": 11330,
-  "2022-11-09": 11379,
-  "2022-11-10": 11418,
-  "2022-11-11": 11484,
-  "2022-11-12": 11543,
-  "2022-11-13": 11589,
-  "2022-11-14": 11638,
-  "2022-11-15": 11682,
-  "2022-11-16": 11726,
-  "2022-11-17": 11767,
-  "2022-11-18": 11791,
-  "2022-11-19": 11807,
-  "2022-11-20": 11853,
-  "2022-11-21": 11886,
-  "2022-11-22": 11934,
-  "2022-11-23": 11983,
-  "2022-11-24": 12046,
-  "2022-11-25": 12111,
-  "2022-11-26": 12164,
-  "2022-11-27": 12222,
-  "2022-11-28": 12258,
-  "2022-11-29": 12294,
-  "2022-11-30": 12329,
-  "2022-12-01": 12377,
-  "2022-12-02": 12418,
-  "2022-12-03": 12481,
-  "2022-12-04": 12533,
-  "2022-12-05": 12588,
-  "2022-12-06": 12641,
-  "2022-12-07": 12697,
-  "2022-12-08": 12741,
-  "2022-12-09": 12796,
-  "2022-12-10": 12841,
-  "2022-12-11": 12875,
-  "2022-12-12": 12928,
-  "2022-12-13": 12976,
-  "2022-12-14": 13025,
-  "2022-12-15": 13066,
-  "2022-12-16": 13104,
-  "2022-12-17": 13148,
-  "2022-12-18": 13187,
-  "2022-12-19": 13234,
-  "2022-12-20": 13310,
-  "2022-12-21": 13310,
-  "2022-12-22": 13344,
-  "2022-12-24": 13419,
-  "2022-12-25": 13464,
-  "2022-12-26": 13492,
-  "2022-12-27": 13544,
-  "2022-12-28": 13600,
-  "2022-12-29": 13648,
-  "2022-12-30": 13687,
-  "2022-12-31": 13751,
-  "2023-01-01": 13811,
-  "2023-01-02": 13859,
-  "2023-01-03": 13923,
-  "2023-01-04": 13969,
-  "2023-01-05": 14021,
-  "2023-01-06": 14074,
-  "2023-01-07": 14164,
-  "2023-01-08": 14177,
-  "2023-01-09": 14231,
-  "2023-01-10": 14292,
-  "2023-01-11": 14355,
-  "2023-01-12": 14406,
-  "2023-01-13": 14476,
-  "2023-01-14": 14561,
-  "2023-01-15": 14573,
-  "2023-01-16": 14647,
-  "2023-01-17": 14694,
-  "2023-01-18": 14759,
-  "2023-01-19": 14818,
-  "2023-01-20": 14886,
-  "2023-01-21": 14946,
-  "2023-01-22": 15007,
-  "2023-01-23": 15078,
-  "2023-01-24": 15132,
-  "2023-01-25": 15196,
-  "2023-01-26": 15255,
-  "2023-01-27": 15302,
-  "2023-01-28": 15352,
-  "2023-01-29": 15421,
-  "2023-01-30": 15482,
-  "2023-01-31": 15482,
-  "2023-02-01": 15597,
-  "2023-02-02": 15658,
-  "2023-02-03": 15712,
-  "2023-02-04": 15757,
-  "2023-02-05": 15825,
-  "2023-02-06": 15892,
-  "2023-02-07": 15951,
-  "2023-02-08": 16072,
-  "2023-02-09": 16072,
-  "2023-02-10": 16131,
-  "2023-02-11": 16190,
-  "2023-02-12": 16308,
-  "2023-02-13": 16387,
-  "2023-02-14": 16387,
-  "2023-02-15": 16454,
-  "2023-02-16": 16501,
-  "2023-02-17": 16569,
-  "2023-02-18": 16671,
-  "2023-02-19": 16686,
-  "2023-02-20": 16737,
-  "2023-02-21": 16793,
-  "2023-02-22": 16856,
-  "2023-02-23": 16920,
-  "2023-02-24": 16999,
-  "2023-02-25": 17079,
-  "2023-02-26": 17132,
-  "2023-02-27": 17260,
-  "2023-02-28": 17260,
-  "2023-03-01": 17332,
-  "2023-03-02": 17405,
-  "2023-03-03": 17456,
-  "2023-03-04": 17502,
-  "2023-03-05": 17632,
-  "2023-03-06": 17632,
-  "2023-03-07": 17686,
-  "2023-03-08": 17754,
-  "2023-03-09": 17808,
-  "2023-03-10": 17866,
-  "2023-03-11": 17919,
-  "2023-03-12": 17969,
-  "2023-03-13": 18030,
-  "2023-03-14": 18094,
-  "2023-03-15": 18132,
-  "2023-03-16": 18132,
-  "2023-03-17": 18132,
-  "2023-03-18": 18296,
-  "2023-03-19": 18296,
-  "2023-03-20": 18388,
-  "2023-03-21": 18449,
-  "2023-03-22": 18502,
-  "2023-03-23": 18566,
-  "2023-03-24": 18566,
-  "2023-03-25": 18662,
-  "2023-03-26": 18717,
-  "2023-03-27": 18773,
-  "2023-03-28": 18841,
-  "2023-03-29": 18913,
-  "2023-03-30": 19015,
-  "2023-03-31": 19015,
-  "2023-04-01": 19061,
-  "2023-04-02": 19110,
-  "2023-04-03": 19155,
-  "2023-04-04": 19219,
-  "2023-04-05": 19259,
-  "2023-04-06": 19300,
-  "2023-04-07": 19356,
-  "2023-04-09": 19472,
-  "2023-04-10": 19526,
-  "2023-04-11": 19618,
-  "2023-04-12": 19618,
-  "2023-04-13": 19667,
-  "2023-04-14": 19714,
-  "2023-04-15": 19758,
-  "2023-04-16": 19806,
-  "2023-04-17": 19857,
-  "2023-04-18": 19908,
-  "2023-04-19": 19972,
-  "2023-04-20": 20016,
-  "2023-04-21": 20085,
-  "2023-04-22": 20146,
-  "2023-04-23": 20198,
-  "2023-04-24": 20262,
-  "2023-04-25": 20304,
-  "2023-04-26": 20339,
-  "2023-04-27": 20396,
-  "2023-04-28": 20455,
-  "2023-04-29": 20487,
-  "2023-04-30": 20528,
-  "2023-05-01": 20577,
-  "2023-05-02": 20620,
-  "2023-05-03": 20671,
-  "2023-05-04": 20714,
-  "2023-05-05": 20752,
-  "2023-05-06": 20801,
-  "2023-05-07": 20849,
-  "2023-05-08": 20883,
-  "2023-05-09": 20925,
-  "2023-05-10": 20971,
-  "2023-05-11": 21002,
-  "2023-05-12": 21050,
-  "2023-05-13": 21093,
-  "2023-05-14": 21138,
-  "2023-05-15": 21178,
-  "2023-05-16": 21232,
-  "2023-05-17": 21268,
-  "2023-05-18": 21314,
-  "2023-05-19": 21360,
-  "2023-05-20": 21452,
-  "2023-05-21": 21452,
-  "2023-05-22": 21452,
-  "2023-05-23": 21562,
-  "2023-05-24": 21620,
-  "2023-05-25": 21627,
-  "2023-05-26": 21668,
-  "2023-05-27": 21714,
-  "2023-05-28": 21754,
-  "2023-05-29": 21754,
-  "2023-05-30": 21851,
-  "2023-05-31": 21893,
-  "2023-06-01": 21934,
-  "2023-06-02": 21971,
-  "2023-06-03": 22007,
-  "2023-06-04": 22061,
-  "2023-06-05": 22109,
-  "2023-06-06": 22142,
-  "2023-06-07": 22176,
-  "2023-06-08": 22211,
-  "2023-06-09": 22255,
-  "2023-06-10": 22310,
-  "2023-06-11": 22362,
-  "2023-06-12": 22412,
-  "2023-06-13": 22459,
-  "2023-06-14": 22497,
-  "2023-06-15": 22527,
-  "2023-06-16": 22565,
-  "2023-06-17": 22613,
-  "2023-06-18": 22648,
-  "2023-06-19": 22690,
-  "2023-06-20": 22732,
-  "2023-06-21": 22763,
-  "2023-06-22": 22808,
-  "2023-06-23": 22850,
-  "2023-06-24": 22882,
-  "2023-06-25": 22910,
-  "2023-06-26": 22963,
-  "2023-06-27": 23005,
-  "2023-06-28": 23047,
-  "2023-06-29": 23098,
-  "2023-06-30": 23122,
-  "2023-07-01": 23210,
-  "2023-07-02": 23210,
-  "2023-07-03": 23246,
-  "2023-07-04": 23288,
-  "2023-07-05": 23338,
-  "2023-07-06": 23395,
-  "2023-07-07": 23395,
-  "2023-07-08": 23395,
-  "2023-07-09": 23463,
-  "2023-07-10": 23515,
-  "2023-07-11": 23558,
-  "2023-07-12": 23593,
-  "2023-07-13": 23631,
-  "2023-07-14": 23681,
-  "2023-07-15": 23706,
-  "2023-07-16": 23754,
-  "2023-07-17": 23783,
-  "2023-07-18": 23815,
-  "2023-07-19": 23859,
-  "2023-07-20": 23859,
-  "2023-07-21": 23929,
-  "2023-07-22": 23972,
-  "2023-07-23": 24034,
-  "2023-07-24": 24082,
-  "2023-07-25": 24132,
-  "2023-07-26": 24169,
-  "2023-07-27": 24210,
-  "2023-07-28": 24248,
-  "2023-07-29": 24286,
-  "2023-07-30": 24335,
-  "2023-07-31": 24395,
-  "2023-08-01": 24440,
-  "2023-08-02": 24478,
-  "2023-08-03": 24518,
-  "2023-08-04": 24555,
-  "2023-08-05": 24590,
-  "2023-08-06": 24677,
-  "2023-08-07": 24677,
-  "2023-08-08": 24723,
-  "2023-08-09": 24769,
-  "2023-08-10": 24815,
-  "2023-08-11": 24860,
-  "2023-08-12": 24860,
-  "2023-08-13": 24860,
-  "2023-08-14": 25009,
-  "2023-08-15": 25009,
-  "2023-08-16": 25009,
-  "2023-08-17": 25009,
-  "2023-08-18": 25009,
-  "2023-08-19": 25009,
-  "2023-08-20": 25319,
-  "2023-08-21": 25319,
-  "2023-08-22": 25398,
-  "2023-08-23": 25398,
-  "2023-08-24": 25398,
-  "2023-08-25": 25398,
-  "2023-08-26": 25551,
-  "2023-08-27": 25551,
-  "2023-08-28": 25619,
-  "2023-08-29": 25619,
-  "2023-08-30": 25619,
-  "2023-08-31": 25733,
-  "2023-09-01": 25770,
-  "2023-09-02": 25770,
-  "2023-09-03": 25770,
-  "2023-09-04": 25770,
-  "2023-09-05": 25770,
-  "2023-09-06": 25770,
-  "2023-09-07": 25770,
-  "2023-09-08": 25770,
-  "2023-09-09": 25770,
-  "2023-09-10": 25770,
-  "2023-09-11": 25770,
-  "2023-09-12": 25770,
-  "2023-09-13": 25770,
-  "2023-09-14": 25770,
-  "2023-09-15": 25770,
-  "2023-09-16": 26468,
-  "2023-09-17": 26468,
-  "2023-09-18": 26468,
-  "2023-09-19": 26597,
-  "2023-09-20": 26597,
-  "2023-09-21": 26597,
-  "2023-09-22": 26720,
-  "2023-09-23": 26720,
-  "2023-09-24": 26720,
-  "2023-09-25": 26720,
-  "2023-09-26": 26883,
-  "2023-09-27": 26883,
-  "2023-09-28": 26883,
-  "2023-09-29": 26883,
-  "2023-09-30": 26883,
-  "2023-10-01": 26883,
-  "2023-10-02": 26883,
-  "2023-10-03": 26883,
-  "2023-10-04": 26883,
-  "2023-10-05": 26883,
-  "2023-10-06": 26883,
-  "2023-10-07": 26883,
-  "2023-10-08": 26883,
-  "2023-10-09": 26883,
-  "2023-10-10": 26883,
-  "2023-10-11": 27459,
-  "2023-10-12": 27459,
-  "2023-10-13": 27459,
-  "2023-10-14": 27459,
-  "2023-10-15": 27459,
-  "2023-10-16": 27459,
-  "2023-10-17": 27459,
-  "2023-10-18": 27459,
-  "2023-10-19": 27459,
-  "2023-10-20": 27459,
-  "2023-10-21": 27459,
-  "2023-10-22": 27459,
-  "2023-10-23": 27459,
-  "2023-10-24": 27459,
-  "2023-10-25": 27459,
-  "2023-10-26": 27459,
-  "2023-10-27": 27459,
-  "2023-10-28": 27459,
-  "2023-10-29": 27459,
-  "2023-10-30": 27459,
-  "2023-10-31": 27459,
-  "2023-11-01": 27459,
-  "2023-11-02": 27459,
-  "2023-11-03": 27459,
-  "2023-11-04": 27459,
-  "2023-11-05": 27459,
-  "2023-11-06": 27459,
-  "2023-11-07": 27459,
-  "2023-11-08": 27459,
-  "2023-11-09": 27459,
-  "2023-11-10": 27459,
-  "2023-11-11": 28644,
-  "2023-11-12": 28644,
-  "2023-11-13": 28644,
-  "2023-11-14": 28644,
-  "2023-11-15": 28644,
-  "2023-11-16": 28644,
-  "2023-11-17": 28644,
-  "2023-11-18": 28644,
-  "2023-11-19": 28644,
-  "2023-11-20": 28644,
-  "2023-11-21": 28644,
-  "2023-11-22": 28644,
-  "2023-11-23": 28644,
-  "2023-11-24": 28644,
-  "2023-11-25": 28644,
-  "2023-11-26": 28644,
-  "2023-11-27": 28644,
-  "2023-11-28": 28644,
-  "2023-11-29": 28644,
-  "2023-11-30": 28644,
-  "2023-12-01": 28644,
-  "2023-12-02": 28644,
-  "2023-12-03": 28644,
-  "2023-12-04": 28644,
-  "2023-12-05": 28644,
-  "2023-12-06": 28644,
-  "2023-12-07": 28644,
-  "2023-12-08": 28644,
-  "2023-12-09": 28644,
-  "2023-12-10": 28644,
-  "2023-12-11": 28644,
-  "2023-12-12": 28644,
-  "2023-12-13": 28644,
-  "2023-12-14": 29633,
-  "2023-12-15": 29666,
-  "2023-12-16": 29699,
-  "2023-12-17": 29724,
-  "2023-12-18": 29753,
-  "2023-12-19": 29775,
-  "2023-12-20": 29801,
-  "2023-12-21": 29828,
-  "2023-12-22": 29857,
-  "2023-12-23": 29880,
-  "2023-12-24": 29911,
-  "2023-12-25": 29930,
-  "2023-12-26": 29960,
-  "2023-12-27": 29978,
-  "2023-12-30": 30072,
-  "2023-12-31": 30103,
-  "2024-01-01": 30127,
-  "2024-01-02": 30164,
-  "2024-01-03": 30202
+  "2024-01-17": 30605,
+  "date_first_scraped": "2022-09-15",
+  "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
+  "name": "This Is Casting Crowns",
+  "tracks": [
+    {
+      "album": {
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "'Tis So Sweet To Trust In Jesus",
+      "url": "https://open.spotify.com/track/68QjFdBRwqWSgfxRnEu9SZ"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 227813,
+      "name": "All Because of Mercy",
+      "url": "https://open.spotify.com/track/1bq21JiVUbQG41ukuhC8MT"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227397,
+      "name": "All Because of Mercy - Radio Version",
+      "url": "https://open.spotify.com/track/1YrKO5etuAXHFcHQvI8JgW"
+    },
+    {
+      "album": {
+        "name": "All Because of Mercy (Radio Version)",
+        "url": "https://open.spotify.com/album/4vrOAtOtsKVs7WXeUhMFHj"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 227397,
+      "name": "All Because of Mercy - Radio Version",
+      "url": "https://open.spotify.com/track/5mPhLHqbvMEfeW9QjSwCVK"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241746,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "Already There",
+      "url": "https://open.spotify.com/track/1d0uIYuNGbAfgNX0Bm1wKm"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 295440,
+      "name": "Always Enough",
+      "url": "https://open.spotify.com/track/7IP4RkSILR5CM2qOgzDUwU"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250826,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/2OO0hAm1v0uRkqJCupGu4n"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 224013,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/7qO1aodqqumMLHFybn0AvP"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223893,
+      "name": "Anything But Easy",
+      "url": "https://open.spotify.com/track/2D7d85KIN7zckN4g177TGE"
+    },
+    {
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-28",
+      "duration_ms": 287560,
+      "name": "At Calvary - Live",
+      "url": "https://open.spotify.com/track/5lFbpKvhMEeVqzgRziBYXR"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 275573,
+      "name": "At Your Feet",
+      "url": "https://open.spotify.com/track/3hRprnE1Pjq2xHZ6Iqztgi"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281426,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239973,
+      "name": "Courageous",
+      "url": "https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148413,
+      "name": "Crazy People",
+      "url": "https://open.spotify.com/track/2WCHNPQYkjeuoVzcuEBaFF"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 218533,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ"
+    },
+    {
+      "album": {
+        "name": "Desert Road",
+        "url": "https://open.spotify.com/album/4Vux1bTa1zV0RjGeCEAUd5"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218484,
+      "name": "Desert Road",
+      "url": "https://open.spotify.com/track/02a8RhJAiUYkYdd2zXK81t"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268666,
+      "name": "Does Anybody Hear Her",
+      "url": "https://open.spotify.com/track/7pJB2CjZQUt4Ig1fdPQl5s"
+    },
+    {
+      "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266106,
+      "name": "East To West",
+      "url": "https://open.spotify.com/track/1wV6lCsV2PCeVZlyGTkVPt"
+    },
+    {
+      "album": {
+        "name": "East To West",
+        "url": "https://open.spotify.com/album/2mppFezAfFbXwrthx4HKnR"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 251469,
+      "name": "East To West",
+      "url": "https://open.spotify.com/track/4Af0nbwppQs3hc5ga2mzby"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289200,
+      "name": "Even When You're Running",
+      "url": "https://open.spotify.com/track/1A1JXSMsVOrPe2UV3PNhHl"
+    },
+    {
+      "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 286520,
+      "name": "Every Man",
+      "url": "https://open.spotify.com/track/7gO6lB3vqU96BPwhvVCJG5"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 115826,
+      "name": "Gentle Healer",
+      "url": "https://open.spotify.com/track/2U7fRaEDNKN8MkqawXXBkd"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280880,
+      "name": "Glorious Day (Living He Loved Me)",
+      "url": "https://open.spotify.com/track/0co8dS1eYzTanYw3N5BEvM"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301173,
+      "name": "God of All My Days",
+      "url": "https://open.spotify.com/track/2zqbu8PfKMlNHKBXUvLvWi"
+    },
+    {
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379213,
+      "name": "Good Good Father - Live",
+      "url": "https://open.spotify.com/track/7nLL5UrsXYHVWv2DnXBtud"
+    },
+    {
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393120,
+      "name": "Great Are You Lord - Live",
+      "url": "https://open.spotify.com/track/4raGCYqMOIn8n9bgQJSNxk"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 314160,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/5qCPM2o6XuYok9ThME8JCd"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/6rt4pxatKBWEK34ElopOmw"
+    },
+    {
+      "album": {
+        "name": "A Live Worship Experience",
+        "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411733,
+      "name": "Here's My Heart - Live",
+      "url": "https://open.spotify.com/track/4lD6Rr1Z7oNhKh0EtdCNpf"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214986,
+      "name": "I'm Still Out Here",
+      "url": "https://open.spotify.com/track/0ELRoYeGlU0XxbvtL3JNJF"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238960,
+      "name": "If We Are The Body",
+      "url": "https://open.spotify.com/track/0IpYDPNzFWxcLgZDkkrc5C"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218746,
+      "name": "If We've Ever Needed You",
+      "url": "https://open.spotify.com/track/33RrcL9vPax7BkUg95Kp7t"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229213,
+      "name": "Jesus at a Distance",
+      "url": "https://open.spotify.com/track/1dWpEnUYgYkJHMT7zXKMh4"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338133,
+      "name": "Jesus, Friend Of Sinners",
+      "url": "https://open.spotify.com/track/2ex0hGTbxQBBmKEpPwzxOt"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266426,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/1Pv9XvvQE3KXs66DWKOhmy"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221080,
+      "name": "Just Be Held",
+      "url": "https://open.spotify.com/track/5t35FJYwzRt9MG3ae2O41L"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316720,
+      "name": "Lifesong",
+      "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205800,
+      "name": "Love Moved First",
+      "url": "https://open.spotify.com/track/4vkeAHQBXmUTgMOfaT94CR"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-19",
+      "duration_ms": 270613,
+      "name": "Love Them Like Jesus",
+      "url": "https://open.spotify.com/track/0dgxnoVuTcjmd62E86tgQr"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273146,
+      "name": "Loving My Jesus",
+      "url": "https://open.spotify.com/track/0qZXAGI1FPTn0IM7tvyqrJ"
+    },
+    {
+      "album": {
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 271786,
+      "name": "My Jesus, I Love Thee",
+      "url": "https://open.spotify.com/track/5Ws9Mkn4ClkjMllKVAvkCJ"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/2GhHGQlN5X0KflaSxAuMZf"
+    },
+    {
+      "album": {
+        "name": "No Hurt",
+        "url": "https://open.spotify.com/album/0Hbl3j7AuG0kQeHsM6GT7T"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 192613,
+      "name": "No Hurt",
+      "url": "https://open.spotify.com/track/4JoRciZN3rt1yl5akIAkrx"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Nobody (feat. Matthew West)",
+      "url": "https://open.spotify.com/track/0W7KIc2GSB9suYQAaMZ9rF"
+    },
+    {
+      "album": {
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 226066,
+      "name": "Nothing But the Blood",
+      "url": "https://open.spotify.com/track/4oV2Jx7ZzK5w1HKPHOxqAf"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255173,
+      "name": "Oh My Soul",
+      "url": "https://open.spotify.com/track/3s0h3pyKFrS3XX6ZLBPx6s"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Mark Hall",
+          "url": "https://open.spotify.com/artist/6Mv17l9MQGEB30u1vDtNIM"
+        },
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251213,
+      "name": "On This Desert Road",
+      "url": "https://open.spotify.com/track/3MFbObnkO53PRjcNYN7Itu"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272213,
+      "name": "One Awkward Moment",
+      "url": "https://open.spotify.com/track/7BAUDW6RQ8XfRCjmJ9HypC"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-23",
+      "duration_ms": 265893,
+      "name": "One More Song for You",
+      "url": "https://open.spotify.com/track/5Dxz0gviDnCbziOTTGIyxo"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "One Step Away",
+      "url": "https://open.spotify.com/track/5hOYQACuJVKPsVcTHjaeEH"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "Only Jesus",
+      "url": "https://open.spotify.com/track/5SVARIypUactzhS79rk6x8"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297640,
+      "name": "Praise You In This Storm",
+      "url": "https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5"
+    },
+    {
+      "album": {
+        "name": "Lifesongs: A Celebration of the First 20 Years",
+        "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        },
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 273554,
+      "name": "Praise You In This Storm (feat. Phil Wickham)",
+      "url": "https://open.spotify.com/track/6FW1HQDSZViaX37fyOFL57"
+    },
+    {
+      "album": {
+        "name": "Scars in Heaven",
+        "url": "https://open.spotify.com/album/6pdwWxEt670pc5jYxzbmYf"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268080,
+      "name": "Scars in Heaven",
+      "url": "https://open.spotify.com/track/2qg7U5mbHDFTXNKvPNF0IZ"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 265720,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2zmJZypH7dZoPmKOK1xt0O"
+    },
+    {
+      "album": {
+        "name": "The Altar and The Door",
+        "url": "https://open.spotify.com/album/3YNvCS8uVgcJVMfk2Ad8EL"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277293,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/3GkIRSRXThXbSfQTKcMApx"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200933,
+      "name": "Song That the Angels Can't Sing",
+      "url": "https://open.spotify.com/track/3EWv66RNUPkc1NT5lVSLqF"
+    },
+    {
+      "album": {
+        "name": "Lifesong",
+        "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 229960,
+      "name": "Stained Glass Masquerade",
+      "url": "https://open.spotify.com/track/0VYDTgzNqIwwze0GiulsUH"
+    },
+    {
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220280,
+      "name": "Start Right Here",
+      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
+    },
+    {
+      "album": {
+        "name": "Healer (Deluxe)",
+        "url": "https://open.spotify.com/album/0WMEBJvWLGzgMMToZMitk4"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 219853,
+      "name": "The Devil is on the Run",
+      "url": "https://open.spotify.com/track/6sFugoulb2dVefcdFOuJsa"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/7tUX8t3YsmIfYcykcSjwYw"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242306,
+      "name": "The Power of the Cross",
+      "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/17vJ8PfHJ0hcqqO4nJ9ES3"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305333,
+      "name": "Thrive",
+      "url": "https://open.spotify.com/track/08shoW0qPqgMDnNQppWAQj"
+    },
+    {
+      "album": {
+        "name": "Until The Whole World Hears",
+        "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303800,
+      "name": "Until The Whole World Hears",
+      "url": "https://open.spotify.com/track/0bZ9e7IoTlBnivvPEbNY6b"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323866,
+      "name": "Voice of Truth",
+      "url": "https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx"
+    },
+    {
+      "album": {
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-06",
+      "duration_ms": 265200,
+      "name": "Wedding Day",
+      "url": "https://open.spotify.com/track/2QQKgTMc1shfwwIzuh4Afd"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208466,
+      "name": "What If His People Prayed",
+      "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
+    },
+    {
+      "album": {
+        "name": "The Very Next Thing",
+        "url": "https://open.spotify.com/album/09NNL9Reo4Mfo5tptI6s8S"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "What If I Gave Everything",
+      "url": "https://open.spotify.com/track/1YEUxb72rwYLEUv48AC3eE"
+    },
+    {
+      "album": {
+        "name": "Glorious Day: Hymns of Faith",
+        "url": "https://open.spotify.com/album/3hB7IALT7uaNMC6Ol0elbo"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "When We All Get to Heaven",
+      "url": "https://open.spotify.com/track/0IL8cGV1ni3VP2SFeNCRuJ"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335906,
+      "name": "Who Am I",
+      "url": "https://open.spotify.com/track/5VUQsLff8A3ruAyCdTxqzg"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 227213,
+      "name": "You Are the Only One",
+      "url": "https://open.spotify.com/track/2iVRq4HIoUSIlq91fdZvvG"
+    },
+    {
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "Your Love Is Extravagant",
+      "url": "https://open.spotify.com/track/45odkrz6e8NWiM8vdJrgZi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GdOmc"
 }

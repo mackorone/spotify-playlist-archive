@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,243 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,557 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 4 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 |
 | 5 | [Profit \- Acoustic](https://open.spotify.com/track/6zZWw2nK4OgfPH7G03tovl) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Profit \(Acoustic\)](https://open.spotify.com/album/1X9rApsojGChWUmi5eDyQR) | 2:50 |
 | 6 | [I Know the Blues](https://open.spotify.com/track/46nsFqBOhJ3qKWTQBTTGiX) | [Marco Descontus](https://open.spotify.com/artist/2w7qGk2290BWS3LWrxvuPQ), [The Italian Connection](https://open.spotify.com/artist/4R1OrT7otEReliIBrMMekn) | [I Know the Blues](https://open.spotify.com/album/3ZKQp9QDr7bdj7AZRy4wrw) | 4:04 |
-| 7 | [I’m Gone](https://open.spotify.com/track/6ApksZhyT5U7HiKVdWiMmm) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/6SBifKJcv5Cm8PYH3akPeC) | 3:11 |
+| 7 | [I'm Gone](https://open.spotify.com/track/4VNrVZjijlntOMeUqzTVKK) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Raw Blues 1](https://open.spotify.com/album/1eXV0McHkRo6xzbEBP6pCt) | 3:11 |
 | 8 | [Banty Rooster Blues](https://open.spotify.com/track/4qTmr1QcPZNzj06rf0GA92) | [The Reverend Peyton's Big Damn Band](https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK) | [Banty Rooster Blues](https://open.spotify.com/album/3XLhfpwOjTnPqRLg9AiNMA) | 4:06 |
 | 9 | [Fishin' Blues \(with Taj Mahal\)](https://open.spotify.com/track/2i9YLsEQ2z0NhJ1ynuQQm2) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 4:03 |
 | 10 | [Other Side of Goodbye](https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Other Side of Goodbye](https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ) | 2:34 |
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 49 | [Deep River Blues](https://open.spotify.com/track/4PvPkRcbnO4s67MPnij3sh) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 3:12 |
 | 50 | [Backstreets](https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f) | [Lazer Lloyd](https://open.spotify.com/artist/3M7XE8fhxddDJWWhchEXud) | [Backstreets](https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi) | 4:56 |
 | 51 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 |
-| 52 | [When the Hurt Is Over](https://open.spotify.com/track/0FtlOiBxDgFR6wz9N7Arz6) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/0YKahH7gYqKnCX3eCcvr67) | 6:11 |
+| 52 | [When the Hurt Is Over](https://open.spotify.com/track/5hmrxXohb7HbRovzFAnKWJ) | [Mighty Sam McClain](https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W) | [A Diamond in the Rough](https://open.spotify.com/album/6QxUFpQy5rx7JtIRXhBRIZ) | 6:11 |
 | 53 | [Going Down the Road Feeling Bad](https://open.spotify.com/track/2sTHsK8xaGGg7PRLiSnhhY) | [Steve Hill](https://open.spotify.com/artist/2f1hLQKsXGmF9rxdrq6Jt4) | [Solo Recordings, Vol\. 3](https://open.spotify.com/album/30Ww7ImwchFWThx0qTrhHa) | 4:57 |
 | 54 | [Don't Ask Me \(Bonus Track\)](https://open.spotify.com/track/6K90dTF2qbjHOMpPJ9dH3A) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv) | [Sonic Soul Surfer \(Deluxe\)](https://open.spotify.com/album/45x5hEhdNvtx94NDAYrLEy) | 7:28 |
 | 55 | [Ships in the Night](https://open.spotify.com/track/08pCnq3MdYsbEjubAWBdCt) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc) | [Ships in the Night](https://open.spotify.com/album/6m1eIQQFgZx0n5PkM3dKdx) | 3:41 |

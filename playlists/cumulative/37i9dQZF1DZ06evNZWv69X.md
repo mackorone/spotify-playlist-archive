@@ -4,7 +4,7 @@
 
 > This is Mar de Copas\. The essential tracks, all in one playlist.
 
-55 songs - 3 hr 43 min
+57 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A tu lado](https://open.spotify.com/track/4V9KOFxoj2K8kqYWfAsjPi) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [El Soundtrack de una Vida](https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt) | 2:00 | 2023-08-23 | 2023-12-18 |
 | [Adiós Amor](https://open.spotify.com/track/7KIY1H6TG5ygADaaPE9YRA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:36 | 2023-08-23 |  |
 | [Al Pasar de las Horas](https://open.spotify.com/track/0SENuKLsa754MHOogcYawc) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 3:47 | 2023-08-23 |  |
-| [Aquí en el Borde del Mar](https://open.spotify.com/track/4Xd26x7Lwx85TCuCRQ9fMP) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:47 | 2023-12-17 |  |
+| [Aquí en el Borde del Mar](https://open.spotify.com/track/4Xd26x7Lwx85TCuCRQ9fMP) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 5:47 | 2023-12-17 | 2024-01-15 |
 | [Atardecer](https://open.spotify.com/track/0v1ICcAGUizjFs9CcNGeGX) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:02 | 2023-08-23 |  |
 | [Balada de un Encuentro Fugaz](https://open.spotify.com/track/7sdwEEi3ZHZVzy2FldXqzx) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:45 | 2023-08-23 |  |
 | [Blu Ice](https://open.spotify.com/track/5ksrKcALCfKEftO6hYwVuU) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 2:45 | 2023-08-23 |  |
@@ -45,7 +45,8 @@
 | [No Me Imagino](https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:01 | 2023-08-23 |  |
 | [Otra Canción](https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [III](https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG) | 3:45 | 2023-08-23 |  |
 | [Otra Canción / Con el Mar](https://open.spotify.com/track/2lzaXswPXVZSLzbMAq8Dop) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Lado B](https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t) | 3:41 | 2023-08-23 |  |
-| [País de Tus Sueños](https://open.spotify.com/track/7isAg8ijt5gmjPuEBUzaps) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 3:46 | 2023-08-23 |  |
+| [País de Tus Sueños](https://open.spotify.com/track/05RT1AgIYaPPWYKpw6DZiO) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:39 | 2024-01-14 |  |
+| [País de Tus Sueños](https://open.spotify.com/track/7isAg8ijt5gmjPuEBUzaps) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 3:46 | 2023-08-23 | 2024-01-15 |
 | [Pensando en Ti](https://open.spotify.com/track/6VCbMz84tUE3xUlWfsH9yA) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:27 | 2023-08-23 |  |
 | [Perdido](https://open.spotify.com/track/6DLfKxy6w3DOMojFHt0Maa) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:12 | 2023-08-23 |  |
 | [Popurrí](https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [De Tierra](https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP) | 5:49 | 2023-08-23 |  |
@@ -54,6 +55,7 @@
 | [Prisión](https://open.spotify.com/track/1vqDaboJexxFgHaJ2T4yYQ) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Mar de Copas](https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ) | 4:41 | 2023-12-13 |  |
 | [Ramera](https://open.spotify.com/track/0X3d4JZSeh3Fu4TREaviYr) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 3:20 | 2023-08-23 |  |
 | [Regalo de Amor](https://open.spotify.com/track/3xHQGvUg0EiLQw0ali1XKi) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Entre los Árboles](https://open.spotify.com/album/2j0iKUIDasypZ0UhG5nwgM) | 3:17 | 2023-08-23 |  |
+| [Samba](https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [En Vivo](https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4) | 4:56 | 2024-01-14 |  |
 | [Si Algo Así Como el Amor Está en el Aire](https://open.spotify.com/track/160l5r7WExN0zm1bKEOQmS) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Si algo así como el amor está en el aire](https://open.spotify.com/album/4Z2EOWKODHlBbLnvewyQwW) | 3:33 | 2023-08-23 |  |
 | [Siglo XX](https://open.spotify.com/track/4OZgSWznmn6hzNSJSIgiV8) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Seis](https://open.spotify.com/album/50PI1azbBTaS655Uhs9Ulx) | 4:09 | 2023-08-23 |  |
 | [Suna](https://open.spotify.com/track/4udGuDY6x5WzWdMiVe3yea) | [Mar de Copas](https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur) | [Todos los Singles 1993\-2006](https://open.spotify.com/album/6OthgAS7EYRLPuGJKTitu8) | 4:04 | 2023-08-23 |  |

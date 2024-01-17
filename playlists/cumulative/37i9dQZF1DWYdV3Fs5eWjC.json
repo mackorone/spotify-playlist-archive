@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 185949,
       "name": "BAD HABITS",
       "url": "https://open.spotify.com/track/6syPVEsTBgBnBORZAsNQnH"
@@ -190,10 +190,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 106666,
       "name": "Bikini Bottom",
       "url": "https://open.spotify.com/track/0BlMeDRvAOgRjUDDLamIaO"
+    },
+    {
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
     },
     {
       "album": {
@@ -302,6 +320,24 @@
       "duration_ms": 176950,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/7f8ikUEaa2glQLszmOh7aN"
+    },
+    {
+      "album": {
+        "name": "Body Move",
+        "url": "https://open.spotify.com/album/3cCuqxwQ3zfQ9XBQjmg5Ed"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Fae",
+          "url": "https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176950,
+      "name": "Body Move",
+      "url": "https://open.spotify.com/track/7zA0VTyhfiIalyRgcQJzU7"
     },
     {
       "album": {

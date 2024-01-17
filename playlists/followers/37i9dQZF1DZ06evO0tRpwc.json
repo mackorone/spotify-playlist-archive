@@ -1,178 +1,1383 @@
 {
-  "2023-07-10": 38360,
-  "2023-07-11": 38359,
-  "2023-07-12": 38360,
-  "2023-07-13": 38369,
-  "2023-07-14": 38372,
-  "2023-07-15": 38378,
-  "2023-07-16": 38378,
-  "2023-07-17": 38379,
-  "2023-07-18": 38384,
-  "2023-07-19": 38384,
-  "2023-07-20": 38383,
-  "2023-07-21": 38384,
-  "2023-07-22": 38387,
-  "2023-07-23": 38391,
-  "2023-07-24": 38389,
-  "2023-07-25": 38391,
-  "2023-07-26": 38390,
-  "2023-07-27": 38392,
-  "2023-07-28": 38392,
-  "2023-07-29": 38393,
-  "2023-07-30": 38395,
-  "2023-07-31": 38394,
-  "2023-08-01": 38395,
-  "2023-08-02": 38399,
-  "2023-08-03": 38395,
-  "2023-08-04": 38405,
-  "2023-08-05": 38403,
-  "2023-08-06": 38411,
-  "2023-08-07": 38411,
-  "2023-08-08": 38413,
-  "2023-08-09": 38417,
-  "2023-08-10": 38422,
-  "2023-08-11": 38422,
-  "2023-08-12": 38422,
-  "2023-08-13": 38422,
-  "2023-08-14": 38427,
-  "2023-08-15": 38427,
-  "2023-08-16": 38427,
-  "2023-08-17": 38432,
-  "2023-08-18": 38432,
-  "2023-08-19": 38431,
-  "2023-08-20": 38433,
-  "2023-08-21": 38433,
-  "2023-08-22": 38435,
-  "2023-08-23": 38433,
-  "2023-08-24": 38440,
-  "2023-08-25": 38440,
-  "2023-08-26": 38445,
-  "2023-08-27": 38445,
-  "2023-08-28": 38452,
-  "2023-08-29": 38452,
-  "2023-08-30": 38452,
-  "2023-08-31": 38458,
-  "2023-09-01": 38464,
-  "2023-09-02": 38464,
-  "2023-09-03": 38469,
-  "2023-09-04": 38469,
-  "2023-09-05": 38469,
-  "2023-09-06": 38473,
-  "2023-09-07": 38473,
-  "2023-09-08": 38473,
-  "2023-09-09": 38473,
-  "2023-09-10": 38486,
-  "2023-09-11": 38487,
-  "2023-09-12": 38487,
-  "2023-09-13": 38486,
-  "2023-09-14": 38486,
-  "2023-09-15": 38486,
-  "2023-09-16": 38491,
-  "2023-09-17": 38491,
-  "2023-09-18": 38491,
-  "2023-09-19": 38491,
-  "2023-09-20": 38491,
-  "2023-09-21": 38491,
-  "2023-09-22": 38494,
-  "2023-09-23": 38494,
-  "2023-09-24": 38494,
-  "2023-09-25": 38494,
-  "2023-09-26": 38498,
-  "2023-09-27": 38498,
-  "2023-09-28": 38498,
-  "2023-09-29": 38498,
-  "2023-09-30": 38498,
-  "2023-10-01": 38498,
-  "2023-10-02": 38502,
-  "2023-10-03": 38502,
-  "2023-10-04": 38502,
-  "2023-10-05": 38502,
-  "2023-10-06": 38507,
-  "2023-10-07": 38507,
-  "2023-10-08": 38507,
-  "2023-10-09": 38507,
-  "2023-10-10": 38507,
-  "2023-10-11": 38462,
-  "2023-10-12": 38462,
-  "2023-10-13": 38462,
-  "2023-10-14": 38462,
-  "2023-10-15": 38462,
-  "2023-10-16": 38462,
-  "2023-10-17": 38462,
-  "2023-10-18": 38462,
-  "2023-10-19": 38462,
-  "2023-10-20": 38462,
-  "2023-10-21": 38462,
-  "2023-10-22": 38462,
-  "2023-10-23": 38462,
-  "2023-10-24": 38462,
-  "2023-10-25": 38462,
-  "2023-10-26": 38462,
-  "2023-10-27": 38462,
-  "2023-10-28": 38462,
-  "2023-10-29": 38462,
-  "2023-10-30": 38462,
-  "2023-10-31": 38462,
-  "2023-11-01": 38462,
-  "2023-11-02": 38462,
-  "2023-11-03": 38462,
-  "2023-11-04": 38462,
-  "2023-11-05": 38462,
-  "2023-11-06": 38462,
-  "2023-11-07": 38462,
-  "2023-11-08": 38462,
-  "2023-11-09": 38462,
-  "2023-11-10": 38462,
-  "2023-11-11": 38497,
-  "2023-11-12": 38497,
-  "2023-11-13": 38497,
-  "2023-11-14": 38497,
-  "2023-11-15": 38497,
-  "2023-11-16": 38497,
-  "2023-11-17": 38497,
-  "2023-11-18": 38497,
-  "2023-11-19": 38497,
-  "2023-11-20": 38497,
-  "2023-11-21": 38497,
-  "2023-11-22": 38497,
-  "2023-11-23": 38497,
-  "2023-11-24": 38497,
-  "2023-11-25": 38497,
-  "2023-11-26": 38497,
-  "2023-11-27": 38497,
-  "2023-11-28": 38497,
-  "2023-11-29": 38497,
-  "2023-11-30": 38497,
-  "2023-12-01": 38497,
-  "2023-12-02": 38497,
-  "2023-12-03": 38497,
-  "2023-12-04": 38497,
-  "2023-12-05": 38497,
-  "2023-12-06": 38497,
-  "2023-12-07": 38497,
-  "2023-12-08": 38497,
-  "2023-12-09": 38497,
-  "2023-12-10": 38497,
-  "2023-12-11": 38497,
-  "2023-12-12": 38497,
-  "2023-12-13": 38497,
-  "2023-12-14": 38545,
-  "2023-12-15": 38546,
-  "2023-12-16": 38545,
-  "2023-12-17": 38545,
-  "2023-12-18": 38540,
-  "2023-12-19": 38544,
-  "2023-12-20": 38540,
-  "2023-12-21": 38541,
-  "2023-12-22": 38541,
-  "2023-12-23": 38542,
-  "2023-12-24": 38539,
-  "2023-12-25": 38542,
-  "2023-12-26": 38545,
-  "2023-12-27": 38545,
-  "2023-12-30": 38548,
-  "2023-12-31": 38550,
-  "2024-01-01": 38551,
-  "2024-01-02": 38553,
-  "2024-01-03": 38555
+  "2024-01-17": 38255,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
+  "name": "This Is Daniela Ara\u00fajo",
+  "tracks": [
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/3PuIN4CvidkN27v8FCJVbq"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 236900,
+      "name": "911",
+      "url": "https://open.spotify.com/track/0Ci1S6gSZJ912cYoSZvJMW"
+    },
+    {
+      "album": {
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271360,
+      "name": "A Voz (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/1cVSnQQIkjPgOnV6GohVEB"
+    },
+    {
+      "album": {
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263260,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4"
+    },
+    {
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vitor Kivitz",
+          "url": "https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229111,
+      "name": "Abril",
+      "url": "https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt"
+    },
+    {
+      "album": {
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302083,
+      "name": "Agosto",
+      "url": "https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL"
+    },
+    {
+      "album": {
+        "name": "Asas",
+        "url": "https://open.spotify.com/album/0t6Y2mC822PeB4CI3bvFwC"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/19bV8Y5dqrDUNgV2uCV69Q"
+    },
+    {
+      "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217941,
+      "name": "Asas",
+      "url": "https://open.spotify.com/track/0dhtPfFgvM2IgIRbsO0Wn1"
+    },
+    {
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/4qqAlVI0hP6ChNG47MTzpl"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216533,
+      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/05mwu7pLihvrLbqnJ7UkHf"
+    },
+    {
+      "album": {
+        "name": "Bem Melhor =) (Fogo)",
+        "url": "https://open.spotify.com/album/1geA7zrjdcCV7MN1vLlsMS"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197014,
+      "name": "Bem Melhor =) (Fogo) - Piano e Voz",
+      "url": "https://open.spotify.com/track/3K7q49Ism6zlVIS03yHc0Y"
+    },
+    {
+      "album": {
+        "name": "Cicatrizes",
+        "url": "https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215343,
+      "name": "Cicatrizes",
+      "url": "https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229565,
+      "name": "Conex\u00e3o",
+      "url": "https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd"
+    },
+    {
+      "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Adriano Daga",
+          "url": "https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222727,
+      "name": "Cora\u00e7\u00e3o de Pedra",
+      "url": "https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249306,
+      "name": "Criador do Mundo",
+      "url": "https://open.spotify.com/track/37QXq42xGy7Qmzqsozd1aM"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249104,
+      "name": "De Deus",
+      "url": "https://open.spotify.com/track/7lRK2khEH6AmGActHV3he9"
+    },
+    {
+      "album": {
+        "name": "Conoc\u00ed una Oveja",
+        "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274500,
+      "name": "Del King",
+      "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
+    },
+    {
+      "album": {
+        "name": "15 Anos (ao Vivo)",
+        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361185,
+      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
+    },
+    {
+      "album": {
+        "name": "Dono dos Meus Dias",
+        "url": "https://open.spotify.com/album/0nklO7xX9T6fnQuDqzMPJU"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239946,
+      "name": "Dono dos Meus Dias",
+      "url": "https://open.spotify.com/track/4DqMjreua66sH84GbccttX"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343320,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/5hJ9Z5KsXKVwoHkQO51Meu"
+    },
+    {
+      "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
+    },
+    {
+      "album": {
+        "name": "Eu Dan\u00e7o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/59Wdbm08N9Zq0dMpvAyUU5"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Christ For The Nations Worship",
+          "url": "https://open.spotify.com/artist/4FGuhMc7yWmxgyIZNGSKN7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381833,
+      "name": "Eu Dan\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5otgONGQu1jYyeFdz9R9zD"
+    },
+    {
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238363,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/73Z4wszmkzrbZb8b4fNCYv"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262140,
+      "name": "Fa\u00e7a Morada - Ao Vivo",
+      "url": "https://open.spotify.com/track/76jwmxMu3mYo805VuBLVsC"
+    },
+    {
+      "album": {
+        "name": "Flutuar",
+        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214191,
+      "name": "Flutuar",
+      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254407,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237819,
+      "name": "Guia-Me",
+      "url": "https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261972,
+      "name": "Jugo Suave",
+      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
+    },
+    {
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242683,
+      "name": "Junho",
+      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
+    },
+    {
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180188,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270480,
+      "name": "Liberdade",
+      "url": "https://open.spotify.com/track/1MksipefYCj3jjdupynfZi"
+    },
+    {
+      "album": {
+        "name": "Nexus VII",
+        "url": "https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285251,
+      "name": "Lo Que Hace Falta",
+      "url": "https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN"
+    },
+    {
+      "album": {
+        "name": "Mi Jes\u00fas",
+        "url": "https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260649,
+      "name": "Mi Jes\u00fas",
+      "url": "https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO"
+    },
+    {
+      "album": {
+        "name": "Miseric\u00f3rdia \u00c9s",
+        "url": "https://open.spotify.com/album/03LxqclfFIJNh2fmPdqWCG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 154104,
+      "name": "Miseric\u00f3rdia \u00c9s",
+      "url": "https://open.spotify.com/track/5AKt5pJIlou7XCZvWH1hGV"
+    },
+    {
+      "album": {
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "album": {
+        "name": "Mais",
+        "url": "https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203120,
+      "name": "N\u00e3o Fale (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/0CYLRw7EaHlDmbsX15HzUI"
+    },
+    {
+      "album": {
+        "name": "O Reino Vem",
+        "url": "https://open.spotify.com/album/1XGpn9IDF3qwuCPfF8SgW8"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Vit\u00f3ria Souza",
+          "url": "https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198928,
+      "name": "O Reino Vem",
+      "url": "https://open.spotify.com/track/2kA9woThYCW2HDgV8OMKJ8"
+    },
+    {
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195860,
+      "name": "Outubro",
+      "url": "https://open.spotify.com/track/4pepw9xWpAQeRPOJQUigkF"
+    },
+    {
+      "album": {
+        "name": "Party Love",
+        "url": "https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 196800,
+      "name": "Party Love",
+      "url": "https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3"
+    },
+    {
+      "album": {
+        "name": "Party Love",
+        "url": "https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Party Love",
+      "url": "https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI"
+    },
+    {
+      "album": {
+        "name": "Party Love",
+        "url": "https://open.spotify.com/album/4L66sciwtXBjMMNgVwlqXy"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        },
+        {
+          "name": "DOMINICO GONZALEZ",
+          "url": "https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 196800,
+      "name": "Party Love",
+      "url": "https://open.spotify.com/track/7adbOWjIdUJC6oBFSfVO1h"
+    },
+    {
+      "album": {
+        "name": "Me Llevas M\u00e1s Alto",
+        "url": "https://open.spotify.com/album/6ZOw1bQKJpRWnAmyKkVhe2"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202580,
+      "name": "Por La Eternidad (feat. Daniela Araujo)",
+      "url": "https://open.spotify.com/track/35eEWWPLsnReY9E7r8lfBT"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Porto Seguro",
+      "url": "https://open.spotify.com/track/4i0f7BtiCQlPvopZK1b2w6"
+    },
+    {
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467853,
+      "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
+    },
+    {
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/1GlIbrvYMYY3ioQEJEHGdb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336802,
+      "name": "Promessas",
+      "url": "https://open.spotify.com/track/5D6hUXCXaBOhcS7Jz9pnFO"
+    },
+    {
+      "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 227586,
+      "name": "Purifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y"
+    },
+    {
+      "album": {
+        "name": "Quem de N\u00f3s (Vers\u00e3o Alternativa)",
+        "url": "https://open.spotify.com/album/5KolDQ8sprN12SFVayUGGe"
+      },
+      "artists": [
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Mauro Henrique",
+          "url": "https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd"
+        },
+        {
+          "name": "Bruno Faglioni",
+          "url": "https://open.spotify.com/artist/4LIbjnopQ6CL8GEybKGTmq"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307647,
+      "name": "Quem de N\u00f3s - Vers\u00e3o Alternativa",
+      "url": "https://open.spotify.com/track/2WmEpkDt8cj4cLeOOsurNH"
+    },
+    {
+      "album": {
+        "name": "Acelera e Pisa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 e Felipe",
+          "url": "https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321746,
+      "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
+    },
+    {
+      "album": {
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+    },
+    {
+      "album": {
+        "name": "Turma do Barulho, Vol. 4",
+        "url": "https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr"
+      },
+      "artists": [
+        {
+          "name": "Turma do Barulho",
+          "url": "https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92"
+        },
+        {
+          "name": "Elen Diana",
+          "url": "https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE"
+        },
+        {
+          "name": "Suelen Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158706,
+      "name": "Salmo 100",
+      "url": "https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 189103,
+      "name": "Santifica\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/42krsS3vXIQISvUTaW5ymH"
+    },
+    {
+      "album": {
+        "name": "Santo",
+        "url": "https://open.spotify.com/album/5jFjtCN7cYop72h0iylfxk"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 218538,
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/2MHys4QtjlA9PW4vpWMHme"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 258613,
+      "name": "Santo/ Gra\u00e7a",
+      "url": "https://open.spotify.com/track/33O7e0HmKndEDMf6hj96p0"
+    },
+    {
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 209546,
+      "name": "Seja o Centro",
+      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
+    },
+    {
+      "album": {
+        "name": "Simplicidade",
+        "url": "https://open.spotify.com/album/3JlvrhhuCDxlKOHIdzt4y3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Jo\u00e3o Bosco & Vinicius",
+          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 288008,
+      "name": "Simplicidade",
+      "url": "https://open.spotify.com/track/0yf88EGCVK7LAgGDvUsibf"
+    },
+    {
+      "album": {
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202875,
+      "name": "Sintonia",
+      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
+    },
+    {
+      "album": {
+        "name": "Sonhadora",
+        "url": "https://open.spotify.com/album/7EqHSTvdqhKDK21jfofgE5"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 215992,
+      "name": "Sonhadora",
+      "url": "https://open.spotify.com/track/1ZHBGWxxwCMETGr2X6dNo2"
+    },
+    {
+      "album": {
+        "name": "Sonhadora (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/02nJW6oejJzhPeTqOf0oP7"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236199,
+      "name": "Sonhadora (Vers\u00e3o Alternativa) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3cvGAENB5FNMcdl2bYk2VS"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248773,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/4aMAnyg0b8l4IWSamec9eg"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204746,
+      "name": "Teu Perd\u00e3o",
+      "url": "https://open.spotify.com/track/3DlSTzwUTCBc3g3uYj9zr8"
+    },
+    {
+      "album": {
+        "name": "Fam\u00edlia Soul (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4v1GcWMB02AhaNwiN26TBB"
+      },
+      "artists": [
+        {
+          "name": "Fam\u00edlia Soul",
+          "url": "https://open.spotify.com/artist/5lbUN093iR5kBddrOsMU7c"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276986,
+      "name": "Um Servo - Ao Vivo",
+      "url": "https://open.spotify.com/track/2f3wgWT46EMO7luhYXZrc0"
+    },
+    {
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 235733,
+      "name": "Verdade",
+      "url": "https://open.spotify.com/track/52gwchgkLip9BrstkfDOGE"
+    },
+    {
+      "album": {
+        "name": "Principio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254880,
+      "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
+      "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+    },
+    {
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 316892,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/1miCqZ9vKOVNDRGDyeNKFu"
+    },
+    {
+      "album": {
+        "name": "Boaz Novaz",
+        "url": "https://open.spotify.com/album/1POssn3x8pJZztmDsUFXUM"
+      },
+      "artists": [
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 267466,
+      "name": "\u00c9ramos Iguais (feat. Daniela Ara\u00fajo & Rashid)",
+      "url": "https://open.spotify.com/track/27YVyh5IDUSnjC23NlUfOw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc"
 }

@@ -1,584 +1,2021 @@
 {
-  "2022-05-26": 213914,
-  "2022-05-27": 213923,
-  "2022-05-28": 213958,
-  "2022-05-29": 214258,
-  "2022-05-30": 214308,
-  "2022-05-31": 214323,
-  "2022-06-01": 214355,
-  "2022-06-02": 214358,
-  "2022-06-03": 214369,
-  "2022-06-04": 214387,
-  "2022-06-05": 214631,
-  "2022-06-06": 214663,
-  "2022-06-07": 214667,
-  "2022-06-08": 214671,
-  "2022-06-09": 214682,
-  "2022-06-10": 214698,
-  "2022-06-11": 214724,
-  "2022-06-12": 214985,
-  "2022-06-13": 215027,
-  "2022-06-14": 215028,
-  "2022-06-15": 215058,
-  "2022-06-16": 215078,
-  "2022-06-17": 215106,
-  "2022-06-18": 215128,
-  "2022-06-19": 215420,
-  "2022-06-20": 215420,
-  "2022-06-21": 215416,
-  "2022-06-22": 215457,
-  "2022-06-23": 215457,
-  "2022-06-24": 215468,
-  "2022-06-25": 215473,
-  "2022-06-26": 215737,
-  "2022-06-27": 215777,
-  "2022-06-28": 215782,
-  "2022-06-29": 215777,
-  "2022-06-30": 215776,
-  "2022-07-01": 215790,
-  "2022-07-02": 215805,
-  "2022-07-03": 216076,
-  "2022-07-04": 216109,
-  "2022-07-05": 216132,
-  "2022-07-06": 216144,
-  "2022-07-07": 216159,
-  "2022-07-08": 216170,
-  "2022-07-09": 216189,
-  "2022-07-10": 216488,
-  "2022-07-11": 216531,
-  "2022-07-12": 216529,
-  "2022-07-13": 216554,
-  "2022-07-14": 216561,
-  "2022-07-15": 216585,
-  "2022-07-16": 216618,
-  "2022-07-17": 216997,
-  "2022-07-18": 217041,
-  "2022-07-19": 217071,
-  "2022-07-20": 217102,
-  "2022-07-21": 217110,
-  "2022-07-22": 217140,
-  "2022-07-23": 217172,
-  "2022-07-24": 217573,
-  "2022-07-25": 217661,
-  "2022-07-26": 217687,
-  "2022-07-27": 217713,
-  "2022-07-28": 217731,
-  "2022-07-29": 217760,
-  "2022-07-30": 218188,
-  "2022-07-31": 218188,
-  "2022-08-01": 218254,
-  "2022-08-02": 218286,
-  "2022-08-03": 218286,
-  "2022-08-04": 218294,
-  "2022-08-05": 218309,
-  "2022-08-06": 218336,
-  "2022-08-07": 218721,
-  "2022-08-08": 218776,
-  "2022-08-09": 218810,
-  "2022-08-10": 218822,
-  "2022-08-11": 218831,
-  "2022-08-12": 218844,
-  "2022-08-13": 218878,
-  "2022-08-14": 219294,
-  "2022-08-15": 219351,
-  "2022-08-16": 219382,
-  "2022-08-17": 219421,
-  "2022-08-18": 219442,
-  "2022-08-19": 219453,
-  "2022-08-20": 219488,
-  "2022-08-21": 219856,
-  "2022-08-22": 219916,
-  "2022-08-23": 219938,
-  "2022-08-24": 219964,
-  "2022-08-25": 219976,
-  "2022-08-26": 220004,
-  "2022-08-27": 220046,
-  "2022-08-28": 220499,
-  "2022-08-29": 220564,
-  "2022-08-30": 220578,
-  "2022-08-31": 220600,
-  "2022-09-01": 220619,
-  "2022-09-02": 220638,
-  "2022-09-03": 220677,
-  "2022-09-04": 220729,
-  "2022-09-05": 220745,
-  "2022-09-06": 220775,
-  "2022-09-07": 220801,
-  "2022-09-09": 220825,
-  "2022-09-10": 220855,
-  "2022-09-11": 220913,
-  "2022-09-12": 220941,
-  "2022-09-13": 220956,
-  "2022-09-15": 220966,
-  "2022-09-16": 220989,
-  "2022-09-17": 221012,
-  "2022-09-18": 221073,
-  "2022-09-19": 221104,
-  "2022-09-20": 221114,
-  "2022-09-21": 221124,
-  "2022-09-22": 221152,
-  "2022-09-23": 221168,
-  "2022-09-24": 221179,
-  "2022-09-25": 221249,
-  "2022-09-26": 221285,
-  "2022-09-27": 221311,
-  "2022-09-28": 221318,
-  "2022-09-29": 221337,
-  "2022-09-30": 221349,
-  "2022-10-01": 221371,
-  "2022-10-02": 221426,
-  "2022-10-03": 221452,
-  "2022-10-04": 221455,
-  "2022-10-05": 221464,
-  "2022-10-06": 221473,
-  "2022-10-07": 221491,
-  "2022-10-08": 221511,
-  "2022-10-09": 221591,
-  "2022-10-10": 221596,
-  "2022-10-11": 221607,
-  "2022-10-12": 221627,
-  "2022-10-13": 221634,
-  "2022-10-14": 221644,
-  "2022-10-15": 221665,
-  "2022-10-16": 221738,
-  "2022-10-17": 221762,
-  "2022-10-18": 221766,
-  "2022-10-19": 221773,
-  "2022-10-20": 221780,
-  "2022-10-21": 221786,
-  "2022-10-22": 221817,
-  "2022-10-23": 221881,
-  "2022-10-24": 221914,
-  "2022-10-25": 221928,
-  "2022-10-26": 221938,
-  "2022-10-27": 221954,
-  "2022-10-28": 221982,
-  "2022-10-29": 221999,
-  "2022-10-30": 222053,
-  "2022-10-31": 222087,
-  "2022-11-01": 222096,
-  "2022-11-02": 222105,
-  "2022-11-03": 222131,
-  "2022-11-04": 222155,
-  "2022-11-05": 222177,
-  "2022-11-06": 222229,
-  "2022-11-07": 222260,
-  "2022-11-08": 222263,
-  "2022-11-09": 222291,
-  "2022-11-10": 222308,
-  "2022-11-11": 222336,
-  "2022-11-12": 222371,
-  "2022-11-13": 222440,
-  "2022-11-14": 222496,
-  "2022-11-15": 222531,
-  "2022-11-16": 222567,
-  "2022-11-17": 222580,
-  "2022-11-18": 222582,
-  "2022-11-19": 222566,
-  "2022-11-20": 222608,
-  "2022-11-21": 222585,
-  "2022-11-22": 222706,
-  "2022-11-23": 222693,
-  "2022-11-24": 222766,
-  "2022-11-25": 222798,
-  "2022-11-26": 222810,
-  "2022-11-27": 222877,
-  "2022-11-28": 222903,
-  "2022-11-29": 222923,
-  "2022-11-30": 222938,
-  "2022-12-01": 222948,
-  "2022-12-02": 222956,
-  "2022-12-03": 222967,
-  "2022-12-04": 223005,
-  "2022-12-05": 223035,
-  "2022-12-06": 223049,
-  "2022-12-07": 223064,
-  "2022-12-08": 223085,
-  "2022-12-09": 223111,
-  "2022-12-10": 223137,
-  "2022-12-11": 223208,
-  "2022-12-12": 223246,
-  "2022-12-13": 223248,
-  "2022-12-14": 223251,
-  "2022-12-15": 223263,
-  "2022-12-16": 223270,
-  "2022-12-17": 223284,
-  "2022-12-18": 223343,
-  "2022-12-19": 223378,
-  "2022-12-20": 223403,
-  "2022-12-21": 223403,
-  "2022-12-22": 223411,
-  "2022-12-24": 223456,
-  "2022-12-25": 223524,
-  "2022-12-26": 223587,
-  "2022-12-27": 223607,
-  "2022-12-28": 223631,
-  "2022-12-29": 223651,
-  "2022-12-30": 223669,
-  "2022-12-31": 223712,
-  "2023-01-01": 223813,
-  "2023-01-02": 223866,
-  "2023-01-03": 223898,
-  "2023-01-04": 223909,
-  "2023-01-05": 223926,
-  "2023-01-06": 223951,
-  "2023-01-07": 223997,
-  "2023-01-08": 224014,
-  "2023-01-09": 224067,
-  "2023-01-10": 224067,
-  "2023-01-11": 224081,
-  "2023-01-12": 224095,
-  "2023-01-13": 224108,
-  "2023-01-14": 224160,
-  "2023-01-15": 224173,
-  "2023-01-16": 224193,
-  "2023-01-17": 224212,
-  "2023-01-18": 224225,
-  "2023-01-19": 224240,
-  "2023-01-20": 224258,
-  "2023-01-21": 224281,
-  "2023-01-22": 224338,
-  "2023-01-23": 224392,
-  "2023-01-24": 224399,
-  "2023-01-25": 224424,
-  "2023-01-26": 224444,
-  "2023-01-27": 224465,
-  "2023-01-28": 224492,
-  "2023-01-29": 224548,
-  "2023-01-30": 224584,
-  "2023-01-31": 224584,
-  "2023-02-01": 224598,
-  "2023-02-02": 224605,
-  "2023-02-03": 224615,
-  "2023-02-04": 224639,
-  "2023-02-05": 224693,
-  "2023-02-06": 224725,
-  "2023-02-07": 224740,
-  "2023-02-08": 224779,
-  "2023-02-09": 224779,
-  "2023-02-10": 224787,
-  "2023-02-11": 224810,
-  "2023-02-12": 224918,
-  "2023-02-13": 224934,
-  "2023-02-14": 224934,
-  "2023-02-15": 224951,
-  "2023-02-16": 224967,
-  "2023-02-17": 224971,
-  "2023-02-18": 225095,
-  "2023-02-19": 225101,
-  "2023-02-20": 225144,
-  "2023-02-21": 225189,
-  "2023-02-22": 225246,
-  "2023-02-23": 225262,
-  "2023-02-24": 225279,
-  "2023-02-25": 225308,
-  "2023-02-26": 225360,
-  "2023-02-27": 225403,
-  "2023-02-28": 225403,
-  "2023-03-01": 225413,
-  "2023-03-02": 225415,
-  "2023-03-03": 225421,
-  "2023-03-04": 225449,
-  "2023-03-05": 225512,
-  "2023-03-06": 225512,
-  "2023-03-07": 225526,
-  "2023-03-08": 225530,
-  "2023-03-09": 225544,
-  "2023-03-10": 225545,
-  "2023-03-11": 225563,
-  "2023-03-12": 225613,
-  "2023-03-13": 225630,
-  "2023-03-14": 225646,
-  "2023-03-15": 225662,
-  "2023-03-16": 225693,
-  "2023-03-17": 225693,
-  "2023-03-18": 225733,
-  "2023-03-19": 225790,
-  "2023-03-20": 225839,
-  "2023-03-21": 225838,
-  "2023-03-22": 225853,
-  "2023-03-23": 225863,
-  "2023-03-24": 225863,
-  "2023-03-25": 225906,
-  "2023-03-26": 225959,
-  "2023-03-27": 225991,
-  "2023-03-28": 225998,
-  "2023-03-29": 226020,
-  "2023-03-30": 226054,
-  "2023-03-31": 226054,
-  "2023-04-01": 226077,
-  "2023-04-02": 226128,
-  "2023-04-03": 226164,
-  "2023-04-04": 226187,
-  "2023-04-05": 226205,
-  "2023-04-06": 226228,
-  "2023-04-07": 226257,
-  "2023-04-09": 226331,
-  "2023-04-10": 226373,
-  "2023-04-11": 226395,
-  "2023-04-12": 226395,
-  "2023-04-13": 226403,
-  "2023-04-14": 226425,
-  "2023-04-15": 226438,
-  "2023-04-16": 226490,
-  "2023-04-17": 226538,
-  "2023-04-18": 226550,
-  "2023-04-19": 226565,
-  "2023-04-20": 226581,
-  "2023-04-21": 226617,
-  "2023-04-22": 226682,
-  "2023-04-23": 226727,
-  "2023-04-24": 226774,
-  "2023-04-25": 226780,
-  "2023-04-26": 226793,
-  "2023-04-27": 226814,
-  "2023-04-28": 226840,
-  "2023-04-29": 226879,
-  "2023-04-30": 226948,
-  "2023-05-01": 226981,
-  "2023-05-02": 227015,
-  "2023-05-03": 227021,
-  "2023-05-04": 227035,
-  "2023-05-05": 227042,
-  "2023-05-06": 227074,
-  "2023-05-07": 227124,
-  "2023-05-08": 227148,
-  "2023-05-09": 227140,
-  "2023-05-10": 227159,
-  "2023-05-11": 227168,
-  "2023-05-12": 227190,
-  "2023-05-13": 227220,
-  "2023-05-14": 227274,
-  "2023-05-15": 227318,
-  "2023-05-16": 227342,
-  "2023-05-17": 227348,
-  "2023-05-18": 227371,
-  "2023-05-19": 227390,
-  "2023-05-20": 227464,
-  "2023-05-21": 227464,
-  "2023-05-22": 227464,
-  "2023-05-23": 227525,
-  "2023-05-24": 227550,
-  "2023-05-25": 227552,
-  "2023-05-26": 227576,
-  "2023-05-27": 227597,
-  "2023-05-28": 227640,
-  "2023-05-29": 227640,
-  "2023-05-30": 227693,
-  "2023-05-31": 227711,
-  "2023-06-01": 227720,
-  "2023-06-02": 227735,
-  "2023-06-03": 227759,
-  "2023-06-04": 227796,
-  "2023-06-05": 227822,
-  "2023-06-06": 227831,
-  "2023-06-07": 227851,
-  "2023-06-08": 227869,
-  "2023-06-09": 227906,
-  "2023-06-10": 227925,
-  "2023-06-11": 227965,
-  "2023-06-12": 227993,
-  "2023-06-13": 228002,
-  "2023-06-14": 228012,
-  "2023-06-15": 228014,
-  "2023-06-16": 228035,
-  "2023-06-17": 228054,
-  "2023-06-18": 228091,
-  "2023-06-19": 228116,
-  "2023-06-20": 228136,
-  "2023-06-21": 228145,
-  "2023-06-22": 228166,
-  "2023-06-23": 228183,
-  "2023-06-24": 228210,
-  "2023-06-25": 228250,
-  "2023-06-26": 228286,
-  "2023-06-27": 228290,
-  "2023-06-28": 228309,
-  "2023-06-29": 228325,
-  "2023-06-30": 228334,
-  "2023-07-01": 228391,
-  "2023-07-02": 228391,
-  "2023-07-03": 228429,
-  "2023-07-04": 228452,
-  "2023-07-05": 228463,
-  "2023-07-06": 228494,
-  "2023-07-07": 228494,
-  "2023-07-08": 228504,
-  "2023-07-09": 228542,
-  "2023-07-10": 228562,
-  "2023-07-11": 228574,
-  "2023-07-12": 228589,
-  "2023-07-13": 228620,
-  "2023-07-14": 228635,
-  "2023-07-15": 228647,
-  "2023-07-16": 228685,
-  "2023-07-17": 228714,
-  "2023-07-18": 228737,
-  "2023-07-19": 228743,
-  "2023-07-20": 228760,
-  "2023-07-21": 228775,
-  "2023-07-22": 228799,
-  "2023-07-23": 228834,
-  "2023-07-24": 228851,
-  "2023-07-25": 228861,
-  "2023-07-26": 228878,
-  "2023-07-27": 228884,
-  "2023-07-28": 228910,
-  "2023-07-29": 228934,
-  "2023-07-30": 228988,
-  "2023-07-31": 229011,
-  "2023-08-01": 229018,
-  "2023-08-02": 229036,
-  "2023-08-03": 229040,
-  "2023-08-04": 229051,
-  "2023-08-05": 229079,
-  "2023-08-06": 229138,
-  "2023-08-07": 229138,
-  "2023-08-08": 229142,
-  "2023-08-09": 229161,
-  "2023-08-10": 229176,
-  "2023-08-11": 229186,
-  "2023-08-12": 229212,
-  "2023-08-13": 229233,
-  "2023-08-14": 229258,
-  "2023-08-15": 229270,
-  "2023-08-16": 229270,
-  "2023-08-17": 229289,
-  "2023-08-18": 229308,
-  "2023-08-19": 229332,
-  "2023-08-20": 229376,
-  "2023-08-21": 229401,
-  "2023-08-22": 229411,
-  "2023-08-23": 229427,
-  "2023-08-24": 229440,
-  "2023-08-25": 229454,
-  "2023-08-26": 229485,
-  "2023-08-27": 229535,
-  "2023-08-28": 229568,
-  "2023-08-29": 229567,
-  "2023-08-30": 229578,
-  "2023-08-31": 229590,
-  "2023-09-01": 229630,
-  "2023-09-02": 229630,
-  "2023-09-03": 229673,
-  "2023-09-04": 229708,
-  "2023-09-05": 229724,
-  "2023-09-06": 229733,
-  "2023-09-07": 229744,
-  "2023-09-08": 229767,
-  "2023-09-09": 229803,
-  "2023-09-10": 229868,
-  "2023-09-11": 229903,
-  "2023-09-12": 229911,
-  "2023-09-13": 229904,
-  "2023-09-14": 229922,
-  "2023-09-15": 229936,
-  "2023-09-16": 229952,
-  "2023-09-17": 229995,
-  "2023-09-18": 230017,
-  "2023-09-19": 230033,
-  "2023-09-20": 230032,
-  "2023-09-21": 230046,
-  "2023-09-22": 230044,
-  "2023-09-23": 230063,
-  "2023-09-24": 230119,
-  "2023-09-25": 230145,
-  "2023-09-26": 230154,
-  "2023-09-27": 230165,
-  "2023-09-28": 230172,
-  "2023-09-29": 230183,
-  "2023-09-30": 230199,
-  "2023-10-01": 230236,
-  "2023-10-02": 230249,
-  "2023-10-03": 230253,
-  "2023-10-04": 230260,
-  "2023-10-05": 230270,
-  "2023-10-06": 230287,
-  "2023-10-07": 230303,
-  "2023-10-08": 230339,
-  "2023-10-09": 230370,
-  "2023-10-10": 230249,
-  "2023-10-11": 230131,
-  "2023-10-12": 230131,
-  "2023-10-13": 230018,
-  "2023-10-14": 229946,
-  "2023-10-15": 229971,
-  "2023-10-16": 229986,
-  "2023-10-17": 229995,
-  "2023-10-18": 229996,
-  "2023-10-19": 230001,
-  "2023-10-20": 230006,
-  "2023-10-21": 230027,
-  "2023-10-22": 230044,
-  "2023-10-23": 230050,
-  "2023-10-24": 230062,
-  "2023-10-25": 230076,
-  "2023-10-26": 230084,
-  "2023-10-27": 230095,
-  "2023-10-28": 230103,
-  "2023-10-29": 230154,
-  "2023-10-30": 230186,
-  "2023-10-31": 230186,
-  "2023-11-01": 230186,
-  "2023-11-02": 230193,
-  "2023-11-03": 230208,
-  "2023-11-04": 230216,
-  "2023-11-05": 230251,
-  "2023-11-06": 230277,
-  "2023-11-07": 230284,
-  "2023-11-08": 230287,
-  "2023-11-09": 230289,
-  "2023-11-10": 230301,
-  "2023-11-11": 230323,
-  "2023-11-12": 230372,
-  "2023-11-13": 230399,
-  "2023-11-14": 230406,
-  "2023-11-15": 230406,
-  "2023-11-16": 230448,
-  "2023-11-17": 230475,
-  "2023-11-18": 230475,
-  "2023-11-19": 230503,
-  "2023-11-20": 230515,
-  "2023-11-21": 230521,
-  "2023-11-22": 230523,
-  "2023-11-23": 230528,
-  "2023-11-24": 230528,
-  "2023-11-25": 230545,
-  "2023-11-26": 230586,
-  "2023-11-27": 230603,
-  "2023-11-28": 230595,
-  "2023-11-29": 230596,
-  "2023-11-30": 230596,
-  "2023-12-01": 230587,
-  "2023-12-02": 230596,
-  "2023-12-03": 230631,
-  "2023-12-04": 230630,
-  "2023-12-05": 230635,
-  "2023-12-06": 230635,
-  "2023-12-07": 230650,
-  "2023-12-08": 230664,
-  "2023-12-09": 230676,
-  "2023-12-10": 230706,
-  "2023-12-11": 230721,
-  "2023-12-12": 230715,
-  "2023-12-13": 230746,
-  "2023-12-14": 230799,
-  "2023-12-15": 230809,
-  "2023-12-16": 230845,
-  "2023-12-17": 230873,
-  "2023-12-18": 230881,
-  "2023-12-19": 230890,
-  "2023-12-20": 230938,
-  "2023-12-21": 230983,
-  "2023-12-22": 230986,
-  "2023-12-23": 231018,
-  "2023-12-24": 231044,
-  "2023-12-25": 231074,
-  "2023-12-26": 231089,
-  "2023-12-27": 231148,
-  "2023-12-30": 231310,
-  "2023-12-31": 231351,
-  "2024-01-01": 231415,
-  "2024-01-02": 231458,
-  "2024-01-03": 231505
+  "2024-01-17": 231298,
+  "date_first_scraped": "2022-05-26",
+  "description": "Um bom sambinha para acompanhar cada gole.",
+  "name": "Caipirinha",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Batucada Dos Nossos Tant\u00e3s",
+        "url": "https://open.spotify.com/album/23zoyC5zT8lqnPTBytd4LC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "A Batucada Dos Nossos Tant\u00e3s",
+      "url": "https://open.spotify.com/track/1yqJ3Xi70OumcNDUgVAT5p"
+    },
+    {
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Keti",
+          "url": "https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123760,
+      "name": "A Voz do Morro",
+      "url": "https://open.spotify.com/track/6ItZuqcTniqKVEwENXoDBP"
+    },
+    {
+      "album": {
+        "name": "Tudo Que Sou, Vol. 1: Fragmentos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17clMnpX0WwlXFt3v7rmEW"
+      },
+      "artists": [
+        {
+          "name": "Toninho Geraes",
+          "url": "https://open.spotify.com/artist/1XavFymdZWNz3HyS5jkStp"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 267545,
+      "name": "Alma Bo\u00eamia - Ao Vivo",
+      "url": "https://open.spotify.com/track/54pvIGtbbIUy5qhVNPDfCt"
+    },
+    {
+      "album": {
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292275,
+      "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
+    },
+    {
+      "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192893,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/5SK175I291bHHcroTHUwQn"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 194426,
+      "name": "Argumento",
+      "url": "https://open.spotify.com/track/7Fpa5YcWRvaYfwNyGjnAqQ"
+    },
+    {
+      "album": {
+        "name": "Carnaval Samba",
+        "url": "https://open.spotify.com/album/42TRJqMGcShiWlnhLR9IKm"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 196893,
+      "name": "Argumento - 2012 Remaster",
+      "url": "https://open.spotify.com/track/6cB8s0RjeWV8HmrftZB3ua"
+    },
+    {
+      "album": {
+        "name": "Bota Pra Tocar Tim Maia",
+        "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222577,
+      "name": "Bota Pra Tocar Tim Maia",
+      "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
+    },
+    {
+      "album": {
+        "name": "Focus - O Essencial de Jo\u00e3o Nogueira",
+        "url": "https://open.spotify.com/album/1V4HN6xdGBhu4u6wB2pNsI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Nogueira",
+          "url": "https://open.spotify.com/artist/5gcpKqNGPhEtKW5G1ZUZPK"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168560,
+      "name": "Boteco do Arlindo",
+      "url": "https://open.spotify.com/track/0zRnv0rsYvYNdt9as7kHmm"
+    },
+    {
+      "album": {
+        "name": "Menino do Rio",
+        "url": "https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153666,
+      "name": "Cabide",
+      "url": "https://open.spotify.com/track/6Uhnj8W9qflWLavYUfHkPJ"
+    },
+    {
+      "album": {
+        "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146613,
+      "name": "Caciqueando - Ao Vivo",
+      "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "album": {
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
+    },
+    {
+      "album": {
+        "name": "Retratos",
+        "url": "https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261733,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3"
+    },
+    {
+      "album": {
+        "name": "Quatro Grandes Do Samba",
+        "url": "https://open.spotify.com/album/6qmP5pJpulEEaQK9YQtvI2"
+      },
+      "artists": [
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144240,
+      "name": "Chove e N\u00e3o Molha",
+      "url": "https://open.spotify.com/track/0DLLQHCiMG1HMljBqFU8KF"
+    },
+    {
+      "album": {
+        "name": "Sambabook Jo\u00e3o Nogueira, 2",
+        "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/7JLJesHA1X8IH1g5MoB3Fw"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Leny Andrade",
+          "url": "https://open.spotify.com/artist/1Tm9XBJrigDUM4NEE9EAEu"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1Qk9ckc3PPE9tpMQxSkb66"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Gisa Nogueira",
+          "url": "https://open.spotify.com/artist/7xHDLztw9AgbpknKg7z7Pk"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 278853,
+      "name": "Clube do Samba",
+      "url": "https://open.spotify.com/track/0hR8aII8gulgOK3r5UxfDq"
+    },
+    {
+      "album": {
+        "name": "Sambabook Jo\u00e3o Nogueira, 2",
+        "url": "https://open.spotify.com/album/72PzoPL30DnS51nE6UMzfH"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        },
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        },
+        {
+          "name": "Dudu Nobre",
+          "url": "https://open.spotify.com/artist/4Mw0vJsDXTZF7kn7EsdNoD"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Gisa Nogueira",
+          "url": "https://open.spotify.com/artist/5jJWOdj0Sn9Spis0JYZYRp"
+        },
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Ivan Lins",
+          "url": "https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        },
+        {
+          "name": "Leny Andrade",
+          "url": "https://open.spotify.com/artist/0cWAA0nMjRXh8o61j3hUgm"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278853,
+      "name": "Clube do Samba",
+      "url": "https://open.spotify.com/track/6NV8IxFmG9cPtnZqQwulAy"
+    },
+    {
+      "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/6kJ0JRouLgeP9Pg45kev9v"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1Pt5sw50mjvMMCsN71R1Q9"
+    },
+    {
+      "album": {
+        "name": "Mundu\u00ea",
+        "url": "https://open.spotify.com/album/3cfNClgPYBPdc851rk4E0p"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211059,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/6r4C14W79TxEkYCEGpqITg"
+    },
+    {
+      "album": {
+        "name": "Fundamental - Teresa Cristina e Grupo Semente",
+        "url": "https://open.spotify.com/album/5SYSqHKFkkeHj6HmjK6Ctv"
+      },
+      "artists": [
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Grupo Semente",
+          "url": "https://open.spotify.com/artist/2bp9eOh1MD4xwxUgFQll36"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 156280,
+      "name": "Cora\u00e7\u00e3o Imprudente",
+      "url": "https://open.spotify.com/track/52bhuRTX975WLB5tpGguvL"
+    },
+    {
+      "album": {
+        "name": "Bis - Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 171493,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/5M1SiL8Xl8lUW4VpjJtNsG"
+    },
+    {
+      "album": {
+        "name": "Cora\u00e7\u00e3o Leviano",
+        "url": "https://open.spotify.com/album/22OU59k6Hqx07gF2tqd7cy"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172329,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/3byAfeclgYBN1cdyVc76Uh"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 172733,
+      "name": "Cora\u00e7\u00e3o Leviano",
+      "url": "https://open.spotify.com/track/3Pz0EPURuJlpuUCRzgb7hQ"
+    },
+    {
+      "album": {
+        "name": "Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe)",
+        "url": "https://open.spotify.com/album/4rDMla3wFYoWfhcoUQ5XuC"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194678,
+      "name": "Deixa A Vida Me Levar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3ADuEIn09NAZIBgpYY3IsE"
+    },
+    {
+      "album": {
+        "name": "Mais Feliz",
+        "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224376,
+      "name": "Dependente Do Amor",
+      "url": "https://open.spotify.com/track/0ONoYJqSkvUFp2wmNvH2kW"
+    },
+    {
+      "album": {
+        "name": "Luiz Melodia Especial MTV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5yAarIXV8aFp0tMacqDH1h"
+      },
+      "artists": [
+        {
+          "name": "Luiz Melodia",
+          "url": "https://open.spotify.com/artist/1zZjt7cDeeJSLWZYK34r7W"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Est\u00e1cio Eu e Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/77aWqhX9yVfwj2P50AnvKi"
+    },
+    {
+      "album": {
+        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo, Pt. 1",
+        "url": "https://open.spotify.com/album/2E1JGC6suXlgoQQqGYgqQ8"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251850,
+      "name": "Eu e Voc\u00ea Sempre - Ao Vivo",
+      "url": "https://open.spotify.com/track/2XXa3wavj9vwz353ezqLUx"
+    },
+    {
+      "album": {
+        "name": "Mund\u00e3o de Ouro",
+        "url": "https://open.spotify.com/album/3fShPfDTdSqu0pck5wlWfm"
+      },
+      "artists": [
+        {
+          "name": "Riach\u00e3o",
+          "url": "https://open.spotify.com/artist/4DehzNT3tR37NB0Nz1iHBD"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176573,
+      "name": "Eu Vou Chegando",
+      "url": "https://open.spotify.com/track/0MlLbRZYmBLd2sWKECh6zA"
+    },
+    {
+      "album": {
+        "name": "Mund\u00e3o de Ouro",
+        "url": "https://open.spotify.com/album/68RAcI96T1s2u23uMJbAhm"
+      },
+      "artists": [
+        {
+          "name": "Riach\u00e3o",
+          "url": "https://open.spotify.com/artist/4DehzNT3tR37NB0Nz1iHBD"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176573,
+      "name": "Eu Vou Chegando",
+      "url": "https://open.spotify.com/track/3Yugu3Z6fUcFktCG5O6B5b"
+    },
+    {
+      "album": {
+        "name": "A Voz Do Samba (Disco 03)",
+        "url": "https://open.spotify.com/album/5YhN39hwkvR7TLaFJihcsR"
+      },
+      "artists": [
+        {
+          "name": "Jamel\u00e3o",
+          "url": "https://open.spotify.com/artist/4PirWL5JYf8HerMVvmwuD0"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189080,
+      "name": "Exalta\u00e7\u00e3o \u00e0 mangueira",
+      "url": "https://open.spotify.com/track/1LUL95mWeAqJExfFImkub9"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194291,
+      "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
+    },
+    {
+      "album": {
+        "name": "Chico Buarque",
+        "url": "https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171253,
+      "name": "Feijoada Completa",
+      "url": "https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv"
+    },
+    {
+      "album": {
+        "name": "Ao vivo",
+        "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "Feitio de paix\u00e3o - Ao vivo",
+      "url": "https://open.spotify.com/track/5ZAE7mG7SUcHAkorXb2poH"
+    },
+    {
+      "album": {
+        "name": "Cartola (1974)",
+        "url": "https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119560,
+      "name": "Festa Da Vinda",
+      "url": "https://open.spotify.com/track/5KfWGOC0Ql9ATrCVw3w3ky"
+    },
+    {
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 121466,
+      "name": "Festa Da Vinda",
+      "url": "https://open.spotify.com/track/0bOGxsTpvqleMEuLQUGDUP"
+    },
+    {
+      "album": {
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Foi Um Rio Que Passou Em Minha Vida",
+      "url": "https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz"
+    },
+    {
+      "album": {
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235180,
+      "name": "Gente",
+      "url": "https://open.spotify.com/track/4N2qVdPVkeBX0d89WflVbc"
+    },
+    {
+      "album": {
+        "name": "Gostoso Veneno",
+        "url": "https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195493,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId"
+    },
+    {
+      "album": {
+        "name": "Sol de Ver\u00e3o 2021",
+        "url": "https://open.spotify.com/album/19nZbz3qRHOvixEPSMR3WH"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 195786,
+      "name": "Gostoso Veneno",
+      "url": "https://open.spotify.com/track/6sNHpCbiVu3kosd4sDsZ36"
+    },
+    {
+      "album": {
+        "name": "+ 100",
+        "url": "https://open.spotify.com/album/0qcVF3tbambXrwHNDcdDKf"
+      },
+      "artists": [
+        {
+          "name": "Casuarina",
+          "url": "https://open.spotify.com/artist/0Z7qVrRll0xvdJ68DX0O0b"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 151900,
+      "name": "Heran\u00e7a de Partideiro",
+      "url": "https://open.spotify.com/track/6GFELqU2Mq8vpIZEpslS8F"
+    },
+    {
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220240,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
+    },
+    {
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/4rvNHxkP41rxzhthGuwo6Y"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NLv2AywCBibMUaGLKj5B4"
+    },
+    {
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/7cfkiCdd6edpUO472ZpOMm"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3JVJaqZ6qZajZaMi66za1b"
+    },
+    {
+      "album": {
+        "name": "Espiral de Ilus\u00e3o - Deluxe Edition",
+        "url": "https://open.spotify.com/album/4otv4T2Rew5smnD73tNz8W"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220320,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/3x048ys8VRKBAe4JHvi8kU"
+    },
+    {
+      "album": {
+        "name": "Al\u00f4 Malandragem Maloca o Flagrante",
+        "url": "https://open.spotify.com/album/37znmRInvE0JRX8rNkiXXO"
+      },
+      "artists": [
+        {
+          "name": "Bezerra Da Silva",
+          "url": "https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Malandragem d\u00e1 um Tempo",
+      "url": "https://open.spotify.com/track/0rImThhPOV8wtgeyltD6no"
+    },
+    {
+      "album": {
+        "name": "Jovelina P\u00e9rola Negra",
+        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Menina Voc\u00ea Bebeu",
+      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
+    },
+    {
+      "album": {
+        "name": "Meu Pitel",
+        "url": "https://open.spotify.com/album/4h1iJEXqxsKiqaqcXwfkm5"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256783,
+      "name": "Meu Pitel",
+      "url": "https://open.spotify.com/track/7uTGKM0QXSukI6UMMOzXu8"
+    },
+    {
+      "album": {
+        "name": "Uma nova paix\u00e3o",
+        "url": "https://open.spotify.com/album/6dXmMQCykJuG3inOM5aE7u"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207866,
+      "name": "Meu \u00e9bano",
+      "url": "https://open.spotify.com/track/0nmEuK27DMGbYmSdh6NtKB"
+    },
+    {
+      "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
+    },
+    {
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
+    },
+    {
+      "album": {
+        "name": "Na Veia",
+        "url": "https://open.spotify.com/album/6YkPuUcUIQVdivq1u8blQH"
+      },
+      "artists": [
+        {
+          "name": "Rog\u00ea",
+          "url": "https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3"
+        },
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 188058,
+      "name": "Na veia (Participa\u00e7\u00e3o especial de Marcelo D2)",
+      "url": "https://open.spotify.com/track/4Z6APQkEZQ7m1vpwisOua8"
+    },
+    {
+      "album": {
+        "name": "Vers\u00e1til",
+        "url": "https://open.spotify.com/album/6QLdS0DHJp6v493GZr9KOM"
+      },
+      "artists": [
+        {
+          "name": "Nelson Sargento",
+          "url": "https://open.spotify.com/artist/0Ij2lGitwYszblscnFtglL"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "Nas Asas da Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/7gW3883SbE306v3X4pKTWN"
+    },
+    {
+      "album": {
+        "name": "Argumento",
+        "url": "https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185120,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/3X4JN049J3iPAkwkHVPJxD"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 185706,
+      "name": "No Pagode Do Vav\u00e1",
+      "url": "https://open.spotify.com/track/76gxg0ZNq873zRgVHEAIR9"
+    },
+    {
+      "album": {
+        "name": "Nosso Bem Maior",
+        "url": "https://open.spotify.com/album/03EkDfv61ZKxH1UjGwOI7v"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 243413,
+      "name": "Nosso Bem Maior",
+      "url": "https://open.spotify.com/track/5hH6oJVLl2NzGbASEkT6cD"
+    },
+    {
+      "album": {
+        "name": "Jorge 70: Ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/2yHTFcy7OkSFLyyPwRKbnY"
+      },
+      "artists": [
+        {
+          "name": "Jorge Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 187749,
+      "name": "N\u00e3o Sou Mais Disso",
+      "url": "https://open.spotify.com/track/7e6kk7ScZkINdw3yCALoln"
+    },
+    {
+      "album": {
+        "name": "Conto de Areia",
+        "url": "https://open.spotify.com/album/6NgSgCVVwhRKD1TTwp2vOt"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178613,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/1N10tJPyQ70QcMLxhobSbJ"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179120,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/5rsdJ481oIM9OYyrqcEwWt"
+    },
+    {
+      "album": {
+        "name": "Talento",
+        "url": "https://open.spotify.com/album/2VvorQM5txxUtVFX8L5NAi"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 180040,
+      "name": "O Mar Serenou",
+      "url": "https://open.spotify.com/track/0zhsIsJre5RIJpRmUHhdAY"
+    },
+    {
+      "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97200,
+      "name": "O Sol Nascer\u00e1 (A Sorrir)",
+      "url": "https://open.spotify.com/track/4M2j1X47FwMozJrnJHnYNm"
+    },
+    {
+      "album": {
+        "name": "Nos Botequins Da Vida",
+        "url": "https://open.spotify.com/album/5jrnGYZ7bHuFqOG2GusH50"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190106,
+      "name": "Olho por Olho",
+      "url": "https://open.spotify.com/track/6P71LmKrWTwnGBe4BYK5IG"
+    },
+    {
+      "album": {
+        "name": "Marcelo D2 - Canta Bezerra Da Silva",
+        "url": "https://open.spotify.com/album/3I564AuHICCCnWEBHbvtoP"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Partideiro Sem N\u00f3 Na Garganta",
+      "url": "https://open.spotify.com/track/4vrcEe4iwNrGJi0ODXljvx"
+    },
+    {
+      "album": {
+        "name": "Eu Sou O Samba",
+        "url": "https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234000,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/6IUgylT8YuhvEhSEqleKJj"
+    },
+    {
+      "album": {
+        "name": "Nova Bis - Paulinho da Viola",
+        "url": "https://open.spotify.com/album/2QipO0phbQmxu1yiR0TcEa"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238573,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3mkd8FiQAr8yxbavwZx6Do"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos: Paulinho Da Viola",
+        "url": "https://open.spotify.com/album/5DJ8Iu9nfpGykmggpCLsYu"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        },
+        {
+          "name": "Elton Medeiros",
+          "url": "https://open.spotify.com/artist/4kJdvLeXdVp1o5WjnrehLV"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 240640,
+      "name": "Perdoa",
+      "url": "https://open.spotify.com/track/3SLfDGY3UqESBUEdd7K2Ev"
+    },
+    {
+      "album": {
+        "name": "Da M\u00fasica",
+        "url": "https://open.spotify.com/album/39xsVtekCnsMAsaPiXurfM"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz & Sombrinha",
+          "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 264466,
+      "name": "Pintou uma Lua L\u00e1",
+      "url": "https://open.spotify.com/track/4gTgc97a6GDA8KpQB0eeGr"
+    },
+    {
+      "album": {
+        "name": "De M\u00e3os Dadas",
+        "url": "https://open.spotify.com/album/01pZRU79DqDZnNJkakf7gF"
+      },
+      "artists": [
+        {
+          "name": "Noca Da Portela",
+          "url": "https://open.spotify.com/artist/4EldGA7pMrLTLd6TbMDjRC"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Promessa",
+      "url": "https://open.spotify.com/track/5SOKObsm1zwSbEENEhfQYo"
+    },
+    {
+      "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169201,
+      "name": "Prudente - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63"
+    },
+    {
+      "album": {
+        "name": "P\u00e9 Na Areia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6j0eevSzWWuNeN9tkY5AZt"
+      },
+      "artists": [
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "P\u00e9 Na Areia",
+      "url": "https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re"
+    },
+    {
+      "album": {
+        "name": "S\u00e9rie Documento - Nelson Cavaquinho",
+        "url": "https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k"
+      },
+      "artists": [
+        {
+          "name": "Nelson Cavaquinho",
+          "url": "https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207786,
+      "name": "Quando Eu Me Chamar Saudade",
+      "url": "https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF"
+    },
+    {
+      "album": {
+        "name": "Sentimento Brasileiro",
+        "url": "https://open.spotify.com/album/5m41zPmVbSbYMcOng63xaP"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171293,
+      "name": "Quando o povo entra na dan\u00e7a",
+      "url": "https://open.spotify.com/track/7zjQUpmz0SkAwYiGbzL40F"
+    },
+    {
+      "album": {
+        "name": "Samba Pras Mo\u00e7as (Remastered)",
+        "url": "https://open.spotify.com/album/1r0CyGhPtjXHJgkiGS6Xii"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 298788,
+      "name": "Samba Pras Mo\u00e7as - Remastered 2020",
+      "url": "https://open.spotify.com/track/6yzCe61NytUn7FXQAneiLr"
+    },
+    {
+      "album": {
+        "name": "Sambista Perfeito",
+        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226813,
+      "name": "Sambista Perfeito",
+      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
+    },
+    {
+      "album": {
+        "name": "Para Sempre",
+        "url": "https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF"
+      },
+      "artists": [
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140706,
+      "name": "Saudosa Maloca",
+      "url": "https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ"
+    },
+    {
+      "album": {
+        "name": "Sambabook Dona Ivone Lara",
+        "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
+      },
+      "artists": [
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Aline Calixto",
+          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
+        },
+        {
+          "name": "Luiza Dionizio",
+          "url": "https://open.spotify.com/artist/6gMrwpIWKyYIk77kZMWwa4"
+        },
+        {
+          "name": "\u00c1urea Martins",
+          "url": "https://open.spotify.com/artist/2IhXQoBqrZnxbQgLlnEQuh"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Reinaldo",
+          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Wilson Das Neves",
+          "url": "https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Grupo Fundo De Quintal",
+          "url": "https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Lu Carvalho",
+          "url": "https://open.spotify.com/artist/2Ye9ezvx9sQjOCnkNbzk6O"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        },
+        {
+          "name": "Bruno Castro",
+          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228720,
+      "name": "Sonho Meu",
+      "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "album": {
+        "name": "Sambabook Dona Ivone Lara, Vol. 2",
+        "url": "https://open.spotify.com/album/1wG4O32OX2POpj77Cstqk7"
+      },
+      "artists": [
+        {
+          "name": "Sambabook",
+          "url": "https://open.spotify.com/artist/2FW6Zt8gyIF7Fb7O3TGxnE"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        },
+        {
+          "name": "Maria Beth\u00e2nia",
+          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
+        },
+        {
+          "name": "Delcio Carvalho",
+          "url": "https://open.spotify.com/artist/0aYIJDtwspSbUCDEOJNbcn"
+        },
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        },
+        {
+          "name": "Diogo Nogueira",
+          "url": "https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd"
+        },
+        {
+          "name": "Dona Ivone Lara",
+          "url": "https://open.spotify.com/artist/6Q1U3z1hge970f3QhrPKcW"
+        },
+        {
+          "name": "Mariene De Castro",
+          "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Teresa Cristina",
+          "url": "https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Leci Brandao",
+          "url": "https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u"
+        },
+        {
+          "name": "Carminho",
+          "url": "https://open.spotify.com/artist/6I1r8xKn6bCeionvZVdzdR"
+        },
+        {
+          "name": "Luiza Dion\u00edsio",
+          "url": "https://open.spotify.com/artist/0MjSZ7nMuEBukUZsRYquqf"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Aline Calixto",
+          "url": "https://open.spotify.com/artist/3CtqQGt0S8sDVhei9MutSq"
+        },
+        {
+          "name": "Bruno Castro",
+          "url": "https://open.spotify.com/artist/5zuSZ0T9iRss0BaobIc6Xm"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Z\u00e9lia Duncan",
+          "url": "https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33"
+        },
+        {
+          "name": "Elba Ramalho",
+          "url": "https://open.spotify.com/artist/4ph6Bt1mkDlmf32PSvRa8A"
+        },
+        {
+          "name": "Reinaldo",
+          "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
+        },
+        {
+          "name": "Hamilton De Holanda",
+          "url": "https://open.spotify.com/artist/5Bn4jYRlfMfbxVwfPDGeL8"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228132,
+      "name": "Sonho Meu",
+      "url": "https://open.spotify.com/track/5Ikos3uiBfPYAf7EZfz8t3"
+    },
+    {
+      "album": {
+        "name": "Zeca Pagodinho",
+        "url": "https://open.spotify.com/album/2enLS4TGDR3l4FtvpqswEs"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Spc",
+      "url": "https://open.spotify.com/track/0IEbtavzyWh3EHchvR5Jjt"
+    },
+    {
+      "album": {
+        "name": "A For\u00e7a do Nosso Som Continua (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ADQD0bAhwSQIwvt9aZldY"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182860,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/15DHt4fP4FARWLvWkIxdAx"
+    },
+    {
+      "album": {
+        "name": "A For\u00e7a do Nosso Som Continua (EP4) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/54qZebNGBVhpyvMtTxrnhr"
+      },
+      "artists": [
+        {
+          "name": "Vou pro Sereno",
+          "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 182860,
+      "name": "Teu Segredo - Ao Vivo",
+      "url": "https://open.spotify.com/track/3kySOLOrkLeOPvu3HXEgVz"
+    },
+    {
+      "album": {
+        "name": "Bebadosamba",
+        "url": "https://open.spotify.com/album/57x8KvcGMec2o8XTwBYEwf"
+      },
+      "artists": [
+        {
+          "name": "Paulinho Da Viola",
+          "url": "https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Timoneiro",
+      "url": "https://open.spotify.com/track/3C8ULtjiUmTtcpE7QJBZ7G"
+    },
+    {
+      "album": {
+        "name": "The Essential",
+        "url": "https://open.spotify.com/album/3us4cLbfx4qKTomS5Z9ggz"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        },
+        {
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "Tiro Ao \u00c1lvaro",
+      "url": "https://open.spotify.com/track/0m3hiKjI2QGSKxvG732Ekq"
+    },
+    {
+      "album": {
+        "name": "Musicas para Churrasco, Vol.1 (Ao Vivo) (Delux Edition)",
+        "url": "https://open.spotify.com/album/5Tna37qsQnWE9aLPHNPmah"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551933,
+      "name": "Tive Raz\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4RQmuUT5DBOvnlewygH5Vy"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9rica Brasil Ao Vivo (Live)",
+        "url": "https://open.spotify.com/album/41qwuDifJUPHTl57rEK83K"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233346,
+      "name": "Tive Raz\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/76Ni49PIcJCfiuZuOxtn14"
+    },
+    {
+      "album": {
+        "name": "M\u00fasicas Para Churrasco Vol.1 Ao Vivo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3RnUHSj1pNqVeWvQbEvqzI"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 551933,
+      "name": "Tive Raz\u00e3o - Live",
+      "url": "https://open.spotify.com/track/3GKOAWCxKK7y1Rhb0Q0FaG"
+    },
+    {
+      "album": {
+        "name": "Tra\u00e7o De Uni\u00e3o",
+        "url": "https://open.spotify.com/album/06sqEby97VgsMr7ZrKuhDB"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 211626,
+      "name": "Tra\u00e7o De Uni\u00e3o",
+      "url": "https://open.spotify.com/track/26bA7oKwbeJs5GvNRRBBqd"
+    },
+    {
+      "album": {
+        "name": "Tudo Azul",
+        "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
+      },
+      "artists": [
+        {
+          "name": "VELHA GUARDA DA PORTELA",
+          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264373,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95"
+    },
+    {
+      "album": {
+        "name": "Tudo Azul",
+        "url": "https://open.spotify.com/album/6POI5YwQbVMnplbryMA4VT"
+      },
+      "artists": [
+        {
+          "name": "VELHA GUARDA DA PORTELA",
+          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "Volta, Meu Amor",
+      "url": "https://open.spotify.com/track/1izDPzew6TdIcAJVN4XIyj"
+    },
+    {
+      "album": {
+        "name": "O Samba Em Mim (Ao Vivo Na Lapa)",
+        "url": "https://open.spotify.com/album/2wv5WDVgqmtwqCcVok5eyr"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226694,
+      "name": "\u00c9 Corpo, \u00c9 Alma, \u00c9 Religi\u00e3o - Ao Vivo Na Lapa",
+      "url": "https://open.spotify.com/track/1Titm76tFsIqqjjITUYRfx"
+    },
+    {
+      "album": {
+        "name": "Meus Momentos",
+        "url": "https://open.spotify.com/album/7aGsQAH1uvanvleHoNZtrk"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 180933,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/0i3M4dh0eIigfk4fsYPNlm"
+    },
+    {
+      "album": {
+        "name": "Samba na Pista",
+        "url": "https://open.spotify.com/album/12pRCAQrjRjNcO1FPdfDZX"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180933,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/2Hxac1INWuYqvLEkL7QPbp"
+    },
+    {
+      "album": {
+        "name": "Nova Bis - Clara Nunes",
+        "url": "https://open.spotify.com/album/1nVMy8Gae1hKAPYAqUj66Y"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181466,
+      "name": "\u00ca Baiana",
+      "url": "https://open.spotify.com/track/2TQUBvaI4k1Z1VnUDWL6AP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX11Pe3b7DsbG"
 }

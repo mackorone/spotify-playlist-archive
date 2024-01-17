@@ -1,621 +1,783 @@
 {
-  "2022-04-19": 3586,
-  "2022-04-20": 3589,
-  "2022-04-21": 3591,
-  "2022-04-22": 3592,
-  "2022-04-23": 3593,
-  "2022-04-24": 3599,
-  "2022-04-25": 3608,
-  "2022-04-26": 3608,
-  "2022-04-27": 3616,
-  "2022-04-28": 3621,
-  "2022-04-29": 3625,
-  "2022-04-30": 3631,
-  "2022-05-01": 3644,
-  "2022-05-02": 3644,
-  "2022-05-03": 3647,
-  "2022-05-04": 3655,
-  "2022-05-05": 3660,
-  "2022-05-06": 3659,
-  "2022-05-07": 3660,
-  "2022-05-08": 3665,
-  "2022-05-09": 3665,
-  "2022-05-10": 3673,
-  "2022-05-11": 3680,
-  "2022-05-12": 3688,
-  "2022-05-13": 3701,
-  "2022-05-14": 3710,
-  "2022-05-15": 3717,
-  "2022-05-16": 3727,
-  "2022-05-17": 3737,
-  "2022-05-18": 3739,
-  "2022-05-19": 3748,
-  "2022-05-20": 3759,
-  "2022-05-21": 3778,
-  "2022-05-22": 3778,
-  "2022-05-23": 3781,
-  "2022-05-24": 3785,
-  "2022-05-25": 3791,
-  "2022-05-26": 3793,
-  "2022-05-27": 3797,
-  "2022-05-28": 3802,
-  "2022-05-29": 3804,
-  "2022-05-30": 3814,
-  "2022-05-31": 3817,
-  "2022-06-01": 3821,
-  "2022-06-02": 3822,
-  "2022-06-03": 3823,
-  "2022-06-04": 3826,
-  "2022-06-05": 3829,
-  "2022-06-06": 3826,
-  "2022-06-07": 3826,
-  "2022-06-08": 3832,
-  "2022-06-09": 3836,
-  "2022-06-10": 3837,
-  "2022-06-11": 3842,
-  "2022-06-12": 3844,
-  "2022-06-13": 3849,
-  "2022-06-14": 3849,
-  "2022-06-15": 3852,
-  "2022-06-16": 3855,
-  "2022-06-17": 3857,
-  "2022-06-18": 3861,
-  "2022-06-19": 3865,
-  "2022-06-20": 3865,
-  "2022-06-21": 3871,
-  "2022-06-22": 3874,
-  "2022-06-23": 3874,
-  "2022-06-24": 3878,
-  "2022-06-25": 3882,
-  "2022-06-26": 3882,
-  "2022-06-27": 3887,
-  "2022-06-28": 3889,
-  "2022-06-29": 3896,
-  "2022-06-30": 3898,
-  "2022-07-01": 3897,
-  "2022-07-02": 3900,
-  "2022-07-03": 3903,
-  "2022-07-04": 3904,
-  "2022-07-05": 3905,
-  "2022-07-06": 3908,
-  "2022-07-07": 3909,
-  "2022-07-08": 3911,
-  "2022-07-09": 3915,
-  "2022-07-10": 3921,
-  "2022-07-11": 3923,
-  "2022-07-12": 3924,
-  "2022-07-13": 3926,
-  "2022-07-14": 3931,
-  "2022-07-15": 3934,
-  "2022-07-16": 3935,
-  "2022-07-17": 3939,
-  "2022-07-18": 3943,
-  "2022-07-19": 3941,
-  "2022-07-20": 3946,
-  "2022-07-21": 3948,
-  "2022-07-22": 3952,
-  "2022-07-23": 3956,
-  "2022-07-24": 3957,
-  "2022-07-25": 3960,
-  "2022-07-26": 3961,
-  "2022-07-27": 3962,
-  "2022-07-28": 3963,
-  "2022-07-29": 3967,
-  "2022-07-30": 3977,
-  "2022-07-31": 3977,
-  "2022-08-01": 3979,
-  "2022-08-02": 3988,
-  "2022-08-03": 3988,
-  "2022-08-04": 3990,
-  "2022-08-05": 3988,
-  "2022-08-06": 3989,
-  "2022-08-07": 3993,
-  "2022-08-08": 3996,
-  "2022-08-09": 3998,
-  "2022-08-10": 4002,
-  "2022-08-11": 4007,
-  "2022-08-12": 4010,
-  "2022-08-13": 4013,
-  "2022-08-14": 4017,
-  "2022-08-15": 4026,
-  "2022-08-16": 4032,
-  "2022-08-17": 4040,
-  "2022-08-18": 4047,
-  "2022-08-19": 4058,
-  "2022-08-20": 4068,
-  "2022-08-21": 4083,
-  "2022-08-22": 4095,
-  "2022-08-23": 4103,
-  "2022-08-24": 4114,
-  "2022-08-25": 4120,
-  "2022-08-26": 4130,
-  "2022-08-27": 4132,
-  "2022-08-28": 4138,
-  "2022-08-29": 4141,
-  "2022-08-30": 4143,
-  "2022-08-31": 4151,
-  "2022-09-01": 4156,
-  "2022-09-02": 4168,
-  "2022-09-03": 4171,
-  "2022-09-04": 4175,
-  "2022-09-05": 4178,
-  "2022-09-06": 4183,
-  "2022-09-07": 4185,
-  "2022-09-09": 4191,
-  "2022-09-10": 4195,
-  "2022-09-11": 4197,
-  "2022-09-12": 4202,
-  "2022-09-13": 4206,
-  "2022-09-15": 4214,
-  "2022-09-16": 4219,
-  "2022-09-17": 4225,
-  "2022-09-18": 4230,
-  "2022-09-19": 4234,
-  "2022-09-20": 4235,
-  "2022-09-21": 4236,
-  "2022-09-22": 4240,
-  "2022-09-23": 4241,
-  "2022-09-24": 4246,
-  "2022-09-25": 4250,
-  "2022-09-26": 4251,
-  "2022-09-27": 4256,
-  "2022-09-28": 4259,
-  "2022-09-29": 4265,
-  "2022-09-30": 4264,
-  "2022-10-01": 4267,
-  "2022-10-02": 4270,
-  "2022-10-03": 4276,
-  "2022-10-04": 4278,
-  "2022-10-05": 4282,
-  "2022-10-06": 4287,
-  "2022-10-07": 4288,
-  "2022-10-08": 4292,
-  "2022-10-09": 4301,
-  "2022-10-10": 4303,
-  "2022-10-11": 4299,
-  "2022-10-12": 4303,
-  "2022-10-13": 4304,
-  "2022-10-14": 4314,
-  "2022-10-15": 4315,
-  "2022-10-16": 4323,
-  "2022-10-17": 4320,
-  "2022-10-18": 4323,
-  "2022-10-19": 4327,
-  "2022-10-20": 4334,
-  "2022-10-21": 4335,
-  "2022-10-22": 4337,
-  "2022-10-23": 4340,
-  "2022-10-24": 4344,
-  "2022-10-25": 4344,
-  "2022-10-26": 4349,
-  "2022-10-27": 4349,
-  "2022-10-28": 4356,
-  "2022-10-29": 4362,
-  "2022-10-30": 4363,
-  "2022-10-31": 4375,
-  "2022-11-01": 4376,
-  "2022-11-02": 4383,
-  "2022-11-03": 4392,
-  "2022-11-04": 4390,
-  "2022-11-05": 4399,
-  "2022-11-06": 4405,
-  "2022-11-07": 4415,
-  "2022-11-08": 4420,
-  "2022-11-09": 4423,
-  "2022-11-10": 4428,
-  "2022-11-11": 4434,
-  "2022-11-12": 4435,
-  "2022-11-13": 4441,
-  "2022-11-14": 4444,
-  "2022-11-15": 4450,
-  "2022-11-16": 4456,
-  "2022-11-17": 4463,
-  "2022-11-18": 4461,
-  "2022-11-19": 4461,
-  "2022-11-20": 4461,
-  "2022-11-21": 4466,
-  "2022-11-22": 4471,
-  "2022-11-23": 4472,
-  "2022-11-24": 4476,
-  "2022-11-25": 4486,
-  "2022-11-26": 4487,
-  "2022-11-27": 4493,
-  "2022-11-28": 4495,
-  "2022-11-29": 4500,
-  "2022-11-30": 4506,
-  "2022-12-01": 4509,
-  "2022-12-02": 4510,
-  "2022-12-03": 4514,
-  "2022-12-04": 4516,
-  "2022-12-05": 4515,
-  "2022-12-06": 4520,
-  "2022-12-07": 4519,
-  "2022-12-08": 4520,
-  "2022-12-09": 4524,
-  "2022-12-10": 4525,
-  "2022-12-11": 4534,
-  "2022-12-12": 4536,
-  "2022-12-13": 4539,
-  "2022-12-14": 4541,
-  "2022-12-15": 4550,
-  "2022-12-16": 4557,
-  "2022-12-17": 4561,
-  "2022-12-18": 4569,
-  "2022-12-19": 4570,
-  "2022-12-20": 4577,
-  "2022-12-21": 4577,
-  "2022-12-22": 4580,
-  "2022-12-24": 4587,
-  "2022-12-25": 4588,
-  "2022-12-26": 4590,
-  "2022-12-27": 4589,
-  "2022-12-28": 4589,
-  "2022-12-29": 4594,
-  "2022-12-30": 4597,
-  "2022-12-31": 4603,
-  "2023-01-01": 4608,
-  "2023-01-02": 4612,
-  "2023-01-03": 4618,
-  "2023-01-04": 4622,
-  "2023-01-05": 4627,
-  "2023-01-06": 4630,
-  "2023-01-07": 4636,
-  "2023-01-08": 4637,
-  "2023-01-09": 4648,
-  "2023-01-10": 4647,
-  "2023-01-11": 4649,
-  "2023-01-12": 4656,
-  "2023-01-13": 4663,
-  "2023-01-14": 4670,
-  "2023-01-15": 4671,
-  "2023-01-16": 4675,
-  "2023-01-17": 4678,
-  "2023-01-18": 4679,
-  "2023-01-19": 4679,
-  "2023-01-20": 4682,
-  "2023-01-21": 4684,
-  "2023-01-22": 4691,
-  "2023-01-23": 4697,
-  "2023-01-24": 4701,
-  "2023-01-25": 4703,
-  "2023-01-26": 4706,
-  "2023-01-27": 4706,
-  "2023-01-28": 4707,
-  "2023-01-29": 4714,
-  "2023-01-30": 4720,
-  "2023-01-31": 4720,
-  "2023-02-01": 4724,
-  "2023-02-02": 4730,
-  "2023-02-03": 4734,
-  "2023-02-04": 4738,
-  "2023-02-05": 4749,
-  "2023-02-06": 4751,
-  "2023-02-07": 4754,
-  "2023-02-08": 4757,
-  "2023-02-09": 4757,
-  "2023-02-10": 4757,
-  "2023-02-11": 4761,
-  "2023-02-12": 4769,
-  "2023-02-13": 4769,
-  "2023-02-14": 4769,
-  "2023-02-15": 4777,
-  "2023-02-16": 4778,
-  "2023-02-17": 4780,
-  "2023-02-18": 4787,
-  "2023-02-19": 4787,
-  "2023-02-20": 4788,
-  "2023-02-21": 4789,
-  "2023-02-22": 4793,
-  "2023-02-23": 4792,
-  "2023-02-24": 4797,
-  "2023-02-25": 4801,
-  "2023-02-26": 4803,
-  "2023-02-27": 4806,
-  "2023-02-28": 4806,
-  "2023-03-01": 4810,
-  "2023-03-02": 4813,
-  "2023-03-03": 4815,
-  "2023-03-04": 4816,
-  "2023-03-05": 4818,
-  "2023-03-06": 4818,
-  "2023-03-07": 4820,
-  "2023-03-08": 4826,
-  "2023-03-09": 4828,
-  "2023-03-10": 4838,
-  "2023-03-11": 4847,
-  "2023-03-12": 4858,
-  "2023-03-13": 4872,
-  "2023-03-14": 4878,
-  "2023-03-15": 4887,
-  "2023-03-16": 4891,
-  "2023-03-17": 4891,
-  "2023-03-18": 4911,
-  "2023-03-19": 4921,
-  "2023-03-20": 4933,
-  "2023-03-21": 4937,
-  "2023-03-22": 4946,
-  "2023-03-23": 4955,
-  "2023-03-24": 4955,
-  "2023-03-25": 4962,
-  "2023-03-26": 4964,
-  "2023-03-27": 4966,
-  "2023-03-28": 4969,
-  "2023-03-29": 4970,
-  "2023-03-30": 4975,
-  "2023-03-31": 4975,
-  "2023-04-01": 4980,
-  "2023-04-02": 4985,
-  "2023-04-03": 4986,
-  "2023-04-04": 4994,
-  "2023-04-05": 4994,
-  "2023-04-06": 4995,
-  "2023-04-07": 4999,
-  "2023-04-09": 5007,
-  "2023-04-10": 5011,
-  "2023-04-11": 5039,
-  "2023-04-12": 5039,
-  "2023-04-13": 5046,
-  "2023-04-14": 5047,
-  "2023-04-15": 5059,
-  "2023-04-16": 5068,
-  "2023-04-17": 5076,
-  "2023-04-18": 5088,
-  "2023-04-19": 5093,
-  "2023-04-20": 5103,
-  "2023-04-21": 5113,
-  "2023-04-22": 5121,
-  "2023-04-23": 5132,
-  "2023-04-24": 5137,
-  "2023-04-25": 5135,
-  "2023-04-26": 5139,
-  "2023-04-27": 5139,
-  "2023-04-28": 5142,
-  "2023-04-29": 5147,
-  "2023-04-30": 5148,
-  "2023-05-01": 5152,
-  "2023-05-02": 5157,
-  "2023-05-03": 5156,
-  "2023-05-04": 5156,
-  "2023-05-05": 5162,
-  "2023-05-06": 5167,
-  "2023-05-07": 5175,
-  "2023-05-08": 5180,
-  "2023-05-09": 5186,
-  "2023-05-10": 5188,
-  "2023-05-11": 5187,
-  "2023-05-12": 5190,
-  "2023-05-13": 5194,
-  "2023-05-14": 5199,
-  "2023-05-15": 5203,
-  "2023-05-16": 5204,
-  "2023-05-17": 5205,
-  "2023-05-18": 5205,
-  "2023-05-19": 5204,
-  "2023-05-20": 5208,
-  "2023-05-21": 5208,
-  "2023-05-22": 5208,
-  "2023-05-23": 5212,
-  "2023-05-24": 5219,
-  "2023-05-25": 5218,
-  "2023-05-26": 5217,
-  "2023-05-27": 5222,
-  "2023-05-28": 5222,
-  "2023-05-29": 5222,
-  "2023-05-30": 5233,
-  "2023-05-31": 5233,
-  "2023-06-01": 5232,
-  "2023-06-02": 5239,
-  "2023-06-03": 5241,
-  "2023-06-04": 5241,
-  "2023-06-05": 5248,
-  "2023-06-06": 5252,
-  "2023-06-07": 5255,
-  "2023-06-08": 5256,
-  "2023-06-09": 5261,
-  "2023-06-10": 5264,
-  "2023-06-11": 5266,
-  "2023-06-12": 5273,
-  "2023-06-13": 5276,
-  "2023-06-14": 5276,
-  "2023-06-15": 5277,
-  "2023-06-16": 5283,
-  "2023-06-17": 5283,
-  "2023-06-18": 5282,
-  "2023-06-19": 5280,
-  "2023-06-20": 5278,
-  "2023-06-21": 5280,
-  "2023-06-22": 5281,
-  "2023-06-23": 5281,
-  "2023-06-24": 5282,
-  "2023-06-25": 5289,
-  "2023-06-26": 5294,
-  "2023-06-27": 5301,
-  "2023-06-28": 5303,
-  "2023-06-29": 5306,
-  "2023-06-30": 5309,
-  "2023-07-01": 5319,
-  "2023-07-02": 5319,
-  "2023-07-03": 5323,
-  "2023-07-04": 5331,
-  "2023-07-05": 5333,
-  "2023-07-06": 5336,
-  "2023-07-07": 5336,
-  "2023-07-08": 5337,
-  "2023-07-09": 5338,
-  "2023-07-10": 5339,
-  "2023-07-11": 5341,
-  "2023-07-12": 5345,
-  "2023-07-13": 5348,
-  "2023-07-14": 5349,
-  "2023-07-15": 5350,
-  "2023-07-16": 5351,
-  "2023-07-17": 5356,
-  "2023-07-18": 5356,
-  "2023-07-19": 5365,
-  "2023-07-20": 5366,
-  "2023-07-21": 5367,
-  "2023-07-22": 5371,
-  "2023-07-23": 5374,
-  "2023-07-24": 5377,
-  "2023-07-25": 5378,
-  "2023-07-26": 5382,
-  "2023-07-27": 5383,
-  "2023-07-28": 5385,
-  "2023-07-29": 5386,
-  "2023-07-30": 5389,
-  "2023-07-31": 5391,
-  "2023-08-01": 5392,
-  "2023-08-02": 5398,
-  "2023-08-03": 5399,
-  "2023-08-04": 5402,
-  "2023-08-05": 5406,
-  "2023-08-06": 5408,
-  "2023-08-07": 5408,
-  "2023-08-08": 5410,
-  "2023-08-09": 5414,
-  "2023-08-10": 5421,
-  "2023-08-11": 5421,
-  "2023-08-12": 5423,
-  "2023-08-13": 5425,
-  "2023-08-14": 5427,
-  "2023-08-15": 5434,
-  "2023-08-16": 5434,
-  "2023-08-17": 5438,
-  "2023-08-18": 5441,
-  "2023-08-19": 5446,
-  "2023-08-20": 5452,
-  "2023-08-21": 5456,
-  "2023-08-22": 5456,
-  "2023-08-23": 5456,
-  "2023-08-24": 5459,
-  "2023-08-25": 5461,
-  "2023-08-26": 5461,
-  "2023-08-27": 5463,
-  "2023-08-28": 5469,
-  "2023-08-29": 5472,
-  "2023-08-30": 5476,
-  "2023-08-31": 5475,
-  "2023-09-01": 5478,
-  "2023-09-02": 5478,
-  "2023-09-03": 5480,
-  "2023-09-04": 5485,
-  "2023-09-05": 5489,
-  "2023-09-06": 5489,
-  "2023-09-07": 5489,
-  "2023-09-08": 5495,
-  "2023-09-09": 5498,
-  "2023-09-10": 5504,
-  "2023-09-11": 5508,
-  "2023-09-12": 5508,
-  "2023-09-13": 5510,
-  "2023-09-14": 5510,
-  "2023-09-15": 5512,
-  "2023-09-16": 5518,
-  "2023-09-17": 5518,
-  "2023-09-18": 5518,
-  "2023-09-19": 5523,
-  "2023-09-20": 5526,
-  "2023-09-21": 5529,
-  "2023-09-22": 5535,
-  "2023-09-23": 5535,
-  "2023-09-24": 5535,
-  "2023-09-25": 5535,
-  "2023-09-26": 5543,
-  "2023-09-27": 5543,
-  "2023-09-28": 5546,
-  "2023-09-29": 5547,
-  "2023-09-30": 5547,
-  "2023-10-01": 5557,
-  "2023-10-02": 5562,
-  "2023-10-03": 5563,
-  "2023-10-04": 5566,
-  "2023-10-05": 5567,
-  "2023-10-06": 5568,
-  "2023-10-07": 5568,
-  "2023-10-08": 5573,
-  "2023-10-09": 5573,
-  "2023-10-10": 5573,
-  "2023-10-11": 5584,
-  "2023-10-12": 5584,
-  "2023-10-13": 5587,
-  "2023-10-14": 5587,
-  "2023-10-15": 5587,
-  "2023-10-16": 5587,
-  "2023-10-17": 5587,
-  "2023-10-18": 5587,
-  "2023-10-19": 5587,
-  "2023-10-20": 5587,
-  "2023-10-21": 5587,
-  "2023-10-22": 5587,
-  "2023-10-23": 5587,
-  "2023-10-24": 5611,
-  "2023-10-25": 5611,
-  "2023-10-26": 5611,
-  "2023-10-27": 5611,
-  "2023-10-28": 5611,
-  "2023-10-29": 5611,
-  "2023-10-30": 5611,
-  "2023-10-31": 5611,
-  "2023-11-01": 5611,
-  "2023-11-02": 5611,
-  "2023-11-03": 5611,
-  "2023-11-04": 5611,
-  "2023-11-05": 5611,
-  "2023-11-06": 5611,
-  "2023-11-07": 5611,
-  "2023-11-08": 5611,
-  "2023-11-09": 5611,
-  "2023-11-10": 5611,
-  "2023-11-11": 5641,
-  "2023-11-12": 5641,
-  "2023-11-13": 5641,
-  "2023-11-14": 5641,
-  "2023-11-15": 5641,
-  "2023-11-16": 5641,
-  "2023-11-17": 5655,
-  "2023-11-18": 5655,
-  "2023-11-19": 5655,
-  "2023-11-20": 5655,
-  "2023-11-21": 5655,
-  "2023-11-22": 5655,
-  "2023-11-23": 5658,
-  "2023-11-24": 5658,
-  "2023-11-25": 5658,
-  "2023-11-26": 5658,
-  "2023-11-27": 5658,
-  "2023-11-28": 5658,
-  "2023-11-29": 5658,
-  "2023-11-30": 5658,
-  "2023-12-01": 5658,
-  "2023-12-02": 5658,
-  "2023-12-03": 5658,
-  "2023-12-04": 5658,
-  "2023-12-05": 5658,
-  "2023-12-06": 5658,
-  "2023-12-07": 5658,
-  "2023-12-08": 5658,
-  "2023-12-09": 5666,
-  "2023-12-10": 5666,
-  "2023-12-11": 5674,
-  "2023-12-12": 5674,
-  "2023-12-13": 5674,
-  "2023-12-14": 5681,
-  "2023-12-15": 5682,
-  "2023-12-16": 5684,
-  "2023-12-17": 5685,
-  "2023-12-18": 5682,
-  "2023-12-19": 5684,
-  "2023-12-20": 5684,
-  "2023-12-21": 5685,
-  "2023-12-22": 5685,
-  "2023-12-23": 5687,
-  "2023-12-24": 5689,
-  "2023-12-25": 5690,
-  "2023-12-26": 5692,
-  "2023-12-27": 5693,
-  "2023-12-30": 5698,
-  "2023-12-31": 5696,
-  "2024-01-01": 5700,
-  "2024-01-02": 5698,
-  "2024-01-03": 5697
+  "2024-01-17": 5732,
+  "date_first_scraped": "2022-04-19",
+  "description": "Sing along with Thomas & Friends!",
+  "name": "Thomas & Friends",
+  "tracks": [
+    {
+      "album": {
+        "name": "Happy Birthday, Thomas!",
+        "url": "https://open.spotify.com/album/0bvaeStznqUPemF4d0DYDI"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129151,
+      "name": "Adventure Song (Journey Never Ends)",
+      "url": "https://open.spotify.com/track/2rkrOpxDKQO9IePMpzHJPr"
+    },
+    {
+      "album": {
+        "name": "All Engines Go (Theme Song)",
+        "url": "https://open.spotify.com/album/724ddsnGT2yWXZXT1beP2f"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85723,
+      "name": "All Engines Go (Theme Song)",
+      "url": "https://open.spotify.com/track/5deGc0zXStd6c48GLn6JEv"
+    },
+    {
+      "album": {
+        "name": "Meet the Steam Team!",
+        "url": "https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "All You Need Are Friends",
+      "url": "https://open.spotify.com/track/03E8ow95vXDwG6hyQH5mxV"
+    },
+    {
+      "album": {
+        "name": "Big World! Big Adventures! Theme Song",
+        "url": "https://open.spotify.com/album/1Z6L82rj8wjkjBzhH932dH"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161476,
+      "name": "Big World! Big Adventures! Theme Song",
+      "url": "https://open.spotify.com/track/7oESRh0nSjLrm6GQty88cM"
+    },
+    {
+      "album": {
+        "name": "Steam, Rattle & Roll Thomas",
+        "url": "https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32928,
+      "name": "Coming on Through",
+      "url": "https://open.spotify.com/track/1rAXFbzA8rrO5yyuut6t7E"
+    },
+    {
+      "album": {
+        "name": "Steam, Rattle & Roll Thomas",
+        "url": "https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32500,
+      "name": "Dance with Me",
+      "url": "https://open.spotify.com/track/2SDjVkGb80HFN1eBSRpzaW"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164787,
+      "name": "Day of the Diesels",
+      "url": "https://open.spotify.com/track/3ZMm1CiM6olLrb4AXCoCkF"
+    },
+    {
+      "album": {
+        "name": "Big World! Big Adventures! the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50746,
+      "name": "Enda Ulale",
+      "url": "https://open.spotify.com/track/7JrS2AxPCICTCJ4bztWN3M"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180797,
+      "name": "Every Cloud Has a Silver Lining",
+      "url": "https://open.spotify.com/track/7FNViZwBBXthnGPdsrCgkC"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130594,
+      "name": "Every Day's A Special Day",
+      "url": "https://open.spotify.com/track/56TiBDsoZDMGuu18WqURhb"
+    },
+    {
+      "album": {
+        "name": "All Aboard (Songs From Season 26)",
+        "url": "https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120918,
+      "name": "Feel the Hush",
+      "url": "https://open.spotify.com/track/2MdhS24ejaTguVkMtJ1NeN"
+    },
+    {
+      "album": {
+        "name": "Big World! Big Adventures! the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Free and Easy",
+      "url": "https://open.spotify.com/track/2821w1cSGMHQ3r2eb7Vx4m"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130540,
+      "name": "Go, Go Thomas",
+      "url": "https://open.spotify.com/track/5ExvsvyrHJLSaFih8inGVT"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180464,
+      "name": "Gone Fishing",
+      "url": "https://open.spotify.com/track/5zDn4p16W73jTR1EYJIFLF"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175432,
+      "name": "He's a Really Useful Engine",
+      "url": "https://open.spotify.com/track/5ZJsYPz4WYgDZMcjlaH5M4"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126404,
+      "name": "Hear The Engines",
+      "url": "https://open.spotify.com/track/0JnE9kx6QfrBsKn8WdGmyD"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151804,
+      "name": "Hey, Hey Thomas!",
+      "url": "https://open.spotify.com/track/1m7SVr2EomcH8W0vr6nCCl"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151804,
+      "name": "Hey, Hey Thomas!",
+      "url": "https://open.spotify.com/track/3RHRBsLiElwxnAx6Uh5Lop"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127948,
+      "name": "It's Gonna Be a Great Day",
+      "url": "https://open.spotify.com/track/3U7hkvdCVrLm7PlWtGup6G"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127948,
+      "name": "It's Gonna Be a Great Day",
+      "url": "https://open.spotify.com/track/6iTDhsIr48ZVUPQnJlqnOv"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126739,
+      "name": "Misty Island Rescue",
+      "url": "https://open.spotify.com/track/35zPrxceveAWka8GLr27xK"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/3rBTiYbS2ndRyEzQb7auLf"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127076,
+      "name": "On a Journey Today",
+      "url": "https://open.spotify.com/track/1QdNooH6vJDFWCLkeUIvVj"
+    },
+    {
+      "album": {
+        "name": "Sodor Summertime",
+        "url": "https://open.spotify.com/album/1VptAjM2WeFFk8wEWzH7Im"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127076,
+      "name": "On a Journey Today",
+      "url": "https://open.spotify.com/track/1wag3kiQfXNjLMlr5riAEj"
+    },
+    {
+      "album": {
+        "name": "Meet the Steam Team!",
+        "url": "https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193504,
+      "name": "Party Time",
+      "url": "https://open.spotify.com/track/15cUkamTaPi6rYkniKtPDu"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131852,
+      "name": "Roll Along",
+      "url": "https://open.spotify.com/track/7k4W3iasB3vqsVVX90O8Hy"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75856,
+      "name": "Roll Call",
+      "url": "https://open.spotify.com/track/6qKr5DEHMhyD8HugUyD19C"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/2jn7Dn8YT6cwuR5Kyh5Xez"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Roll Call Lullaby",
+      "url": "https://open.spotify.com/track/2pZ3DU9a6JO6xAEFVW3C7T"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182880,
+      "name": "Sir Topham Hatt",
+      "url": "https://open.spotify.com/track/5J026z1CPObMFQfLzPQcSD"
+    },
+    {
+      "album": {
+        "name": "Meet the Steam Team!",
+        "url": "https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189146,
+      "name": "Sounds (The Sound Song)",
+      "url": "https://open.spotify.com/track/3Pahvt7EYavkLIxrM2G9Sg"
+    },
+    {
+      "album": {
+        "name": "Steam, Rattle & Roll Thomas",
+        "url": "https://open.spotify.com/album/63uEoErqlbuB1LkhcbEQkX"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57500,
+      "name": "Steam, Rattle & Roll",
+      "url": "https://open.spotify.com/track/4BiELPE8w8vqZWkYPN15yh"
+    },
+    {
+      "album": {
+        "name": "All Aboard (Songs From Season 26)",
+        "url": "https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126973,
+      "name": "The World Has a Mind of Its Own",
+      "url": "https://open.spotify.com/track/52pNuMtZreeK6hs5f2HzId"
+    },
+    {
+      "album": {
+        "name": "Meet the Steam Team!",
+        "url": "https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187783,
+      "name": "There's A Job for Everyone",
+      "url": "https://open.spotify.com/track/4KVBIanmzauQB2Rv76zcFP"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30946,
+      "name": "Thomas Theme (Reprise)",
+      "url": "https://open.spotify.com/track/2mQVahe9gsumDmr67neUzb"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/2jn7Dn8YT6cwuR5Kyh5Xez"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99999,
+      "name": "Thomas Theme Lullaby",
+      "url": "https://open.spotify.com/track/0A6j4xUMaDvq2wyKFr6eVG"
+    },
+    {
+      "album": {
+        "name": "Thomas' Songs & Roundhouse Rhythms",
+        "url": "https://open.spotify.com/album/1SK0kSsuZqspVNCMIitM6v"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176918,
+      "name": "Thomas' Anthem",
+      "url": "https://open.spotify.com/track/6hUvVkZuxCgYZcJO53Zd6a"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124682,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/12rdkOaEG532RwKssKevdg"
+    },
+    {
+      "album": {
+        "name": "Big World! Big Adventures! the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96120,
+      "name": "We're Friends",
+      "url": "https://open.spotify.com/track/6X2JdSbOAmpKKbHdRiG0CL"
+    },
+    {
+      "album": {
+        "name": "Thomas & Friends: All Star Tracks",
+        "url": "https://open.spotify.com/album/2KitLxTg9Uj3rDwKodSudD"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180029,
+      "name": "What Makes an Engine Happy",
+      "url": "https://open.spotify.com/track/0eaYJ1YzdfC6iHLuJwNlJA"
+    },
+    {
+      "album": {
+        "name": "Race for the Sodor Cup (Music from the Movie)",
+        "url": "https://open.spotify.com/album/3nXkQt9TkcRDIahh08eth3"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117983,
+      "name": "When I Go Fast",
+      "url": "https://open.spotify.com/track/3E29DJb5C3iizrux2bLdRp"
+    },
+    {
+      "album": {
+        "name": "Big World! Big Adventures! the Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5V3rouxWWLl52CDEfAycak"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Where in the World is Thomas?",
+      "url": "https://open.spotify.com/track/0MGdbMuKkrysQ4VVq57vfg"
+    },
+    {
+      "album": {
+        "name": "Meet the Steam Team!",
+        "url": "https://open.spotify.com/album/5voSY5POhmyE1anZ4LCrHd"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151583,
+      "name": "You Can Only Be You",
+      "url": "https://open.spotify.com/track/7pXeGRaQCxZXctU6UPHNiD"
+    },
+    {
+      "album": {
+        "name": "Lullabies",
+        "url": "https://open.spotify.com/album/2jn7Dn8YT6cwuR5Kyh5Xez"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "You Can Only Be You Lullaby",
+      "url": "https://open.spotify.com/track/7oiuM1m1aQhlfeVcdGMrvg"
+    },
+    {
+      "album": {
+        "name": "All Aboard (Songs From Season 26)",
+        "url": "https://open.spotify.com/album/4kcU5WG4lApZ6JXFUj4oH6"
+      },
+      "artists": [
+        {
+          "name": "Thomas & Friends",
+          "url": "https://open.spotify.com/artist/6jGPmpMdDk6KzyNeXvD1xs"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114630,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/3KrHDf3hq91kveXG2jtADK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdDLDbdNxXQX"
 }

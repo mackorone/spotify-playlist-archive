@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,243 likes - 21 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,455 likes - 21 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 | 9 | [Falling Down](https://open.spotify.com/track/4sZh7yPeOBNlfEI4qlfJe6) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Trolley \(Original Soundtrack Part.1\)](https://open.spotify.com/album/7xcKq4QOt8Nf0WlPK1BSMa) | 3:39 |
 | 10 | [Villain](https://open.spotify.com/track/188Fa4orcugsnlfeLUHRym) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Trolley \(Original Soundtrack Part.3\)](https://open.spotify.com/album/1YSAjSAvHuoTaXF11Esxnu) | 3:08 |
 | 11 | [My Memory \(Inst.\)](https://open.spotify.com/track/4ZOfYW2n7vAeh7Zqngjzvv) | [leeSA](https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY) | [Mis ma, the goddess of revenge OST Part.2](https://open.spotify.com/album/752w5Inpj7VEfrFlEy6f1F) | 3:13 |
-| 12 | [그댄 아나요](https://open.spotify.com/track/0L0RQOToaWhfj5GY1amVBd) | [SALTNPAPER](https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv) | [Ms\. Ma, Nemesis \(Original Television Soundtrack\)](https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN) | 3:48 |
-| 13 | [Hourglass \(Inst.\)](https://open.spotify.com/track/2E2MrjljNbAbekopBgQx3D) | [YEIN](https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY), [Masterclass](https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4) | [Ms\. Ma, Nemesis Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1uE1fwR0tohMo5j3vYFkbD) | 3:46 |
+| 12 | [그댄 아나요](https://open.spotify.com/track/2QyWg4ksyBMWA6MvOi6Qc2) | [SALTNPAPER](https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv) | [Ms\. Ma, Nemesis Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4l2G0tnTuUjLjEMw95bjJd) | 3:48 |
+| 13 | [Hourglass](https://open.spotify.com/track/3Fn65LaOyYdYuoV0LExohi) | [YEIN](https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY), [Masterclass](https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4) | [Mis ma, the goddess of revenge OST Part.6](https://open.spotify.com/album/0OMphKtUQPjFa7kFPkoB3w) | 3:46 |
 | 14 | [Nothing](https://open.spotify.com/track/2j2nHZ1zTKBlMUzd185e58) | [CAR](https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8), [THE GARDEN](https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4) | [Secret Mother OST Part.1](https://open.spotify.com/album/7tTBAN8l4EX2eit2QR8R5g) | 4:24 |
 | 15 | [Perfect Love](https://open.spotify.com/track/1dWIh1RbI0UJaUjjvyqMpc) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Secret Mother OST Part.2](https://open.spotify.com/album/3i2HyvCvZKOykSqVKCQp8n) | 2:25 |
 | 16 | [A Bright Moment That Seems Eternal](https://open.spotify.com/track/0X51g4yKl0L2qgABfVQIAQ) | [Kim Jun Seok](https://open.spotify.com/artist/4JX9jAIfnzPX7GqqaOwHxn) | [Penthouse 2&3 Score Album \(Original Television Soundtrack\)](https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3) | 3:25 |
@@ -28,6 +28,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O7LMRollp1.md) - [plain]
 | 18 | [An Endless Desire](https://open.spotify.com/track/6vM9g9Lla2BXRhtmuRPP9p) | [Lee Yoon Ji](https://open.spotify.com/artist/70EhidkYcundxC6z273E9Y) | [Penthouse 2&3 Score Album \(Original Television Soundtrack\)](https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3) | 3:33 |
 | 19 | [irony of choice](https://open.spotify.com/track/0n818xv8jNlkAwf9NBv8v9) | [Se Rin Jung](https://open.spotify.com/artist/4vKfrDcWqtPpqqWmzH26wO) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 2:42 |
 | 20 | [trolley](https://open.spotify.com/track/1Dg4uXR9ZzV0Z12kUFC13j) | [Jun Seok Kim](https://open.spotify.com/artist/3NNk3sbGKHqIhfs6Sm5dsB) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 3:09 |
-| 21 | [Masquerade](https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique Pt.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES) | 3:59 |
+| 21 | [Masquerade](https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Secret Boutique OST](https://open.spotify.com/album/4dUX8oSxxSeZdll1GLOM48) | 3:59 |
 
 Snapshot ID: `MCw1OTMzMGIwNzBkMGIzM2YzZGE4ZDUyYTdlYjNmYzhkYjY0YWM3ZDg1`

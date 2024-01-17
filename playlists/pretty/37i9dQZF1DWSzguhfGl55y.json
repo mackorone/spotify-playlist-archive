@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 622955,
+  "num_followers": 622569,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,26 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Palmen aus Plastik",
+        "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        }
+      ],
+      "duration_ms": 184995,
+      "name": "Palmen aus Plastik",
+      "url": "https://open.spotify.com/track/6wHRm1KR8pzVDPdmR6Qovj"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Hurra die Welt geht unter",
         "url": "https://open.spotify.com/album/7uclLfIIEvq0Bz46QP6FWY"
       },
@@ -159,58 +179,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Palmen aus Plastik",
-        "url": "https://open.spotify.com/album/1L8yTtYjg4JhfN7Aa6bqmN"
-      },
-      "artists": [
-        {
-          "name": "Bonez MC",
-          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
-        },
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        }
-      ],
-      "duration_ms": 184995,
-      "name": "Palmen aus Plastik",
-      "url": "https://open.spotify.com/track/6wHRm1KR8pzVDPdmR6Qovj"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Stadtaffe",
-        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
-      },
-      "artists": [
-        {
-          "name": "Peter Fox",
-          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "Schwarz zu blau",
-      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Zeiten \u00e4ndern dich",
-        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 218106,
-      "name": "Alles wird gut",
-      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Casia Deluxe",
         "url": "https://open.spotify.com/album/03kquvjDEXJugsDtZ2pPA8"
       },
@@ -243,18 +211,34 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Die John Bello Story, Vol. 3",
-        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
+        "name": "Zeiten \u00e4ndern dich",
+        "url": "https://open.spotify.com/album/31mBvCgKrTFJLpI6ONjgfF"
       },
       "artists": [
         {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 196946,
-      "name": "Rhythmus meines Lebens",
-      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
+      "duration_ms": 218106,
+      "name": "Alles wird gut",
+      "url": "https://open.spotify.com/track/4SF1K7VfTBnVSEyBCrrUWK"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Stadtaffe",
+        "url": "https://open.spotify.com/album/6cEVfMd0XVocPbRrYkVY5H"
+      },
+      "artists": [
+        {
+          "name": "Peter Fox",
+          "url": "https://open.spotify.com/artist/6rqlONGmPuP2wJVSfliLBI"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "Schwarz zu blau",
+      "url": "https://open.spotify.com/track/1Fjz0ME9pzk553wH86m3ZZ"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -279,18 +263,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Ganz Oben (Mixtape)",
-        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+        "name": "Die John Bello Story, Vol. 3",
+        "url": "https://open.spotify.com/album/5CF8sggi5aUSptomzuGzQB"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
         }
       ],
-      "duration_ms": 225693,
-      "name": "Ein Affe und ein Pferd",
-      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
+      "duration_ms": 196946,
+      "name": "Rhythmus meines Lebens",
+      "url": "https://open.spotify.com/track/4FyVe8mdjaRLvtqnXae6BM"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -307,6 +291,22 @@
       "duration_ms": 219013,
       "name": "Oh Jonny",
       "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Ganz Oben (Mixtape)",
+        "url": "https://open.spotify.com/album/1sRETCvm24dPNwAhpZqytk"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ein Affe und ein Pferd",
+      "url": "https://open.spotify.com/track/3qM75mSV84LHHJqlITqZsk"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Au\u00dfen Top Hits, innen Geschmack",
+        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
+      },
+      "artists": [
+        {
+          "name": "Fettes Brot",
+          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
+        }
+      ],
+      "duration_ms": 354133,
+      "name": "Jein",
+      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Samy Deluxe",
-        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
-      },
-      "artists": [
-        {
-          "name": "Samy Deluxe",
-          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
-        }
-      ],
-      "duration_ms": 343226,
-      "name": "Weck mich auf",
-      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "Urlaub f\u00fcrs Gehirn",
         "url": "https://open.spotify.com/album/4Uicg3ScGwWT6M0M59UjJR"
       },
@@ -427,50 +427,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
+        "name": "Samy Deluxe",
+        "url": "https://open.spotify.com/album/4kQCxfqNqcYufbx2rilgcx"
       },
       "artists": [
         {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+          "name": "Samy Deluxe",
+          "url": "https://open.spotify.com/artist/7J207fU1tty4DWCIhJSzh0"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Au\u00dfen Top Hits, innen Geschmack",
-        "url": "https://open.spotify.com/album/4VFsj2vgk7Iyiw7Nsv9HfH"
-      },
-      "artists": [
-        {
-          "name": "Fettes Brot",
-          "url": "https://open.spotify.com/artist/3RRODs1rHC2ktLqyDDfgPH"
-        }
-      ],
-      "duration_ms": 354133,
-      "name": "Jein",
-      "url": "https://open.spotify.com/track/22f8RBGm0xklH4wSh36J3w"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
-      },
-      "artists": [
-        {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        }
-      ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+      "duration_ms": 343226,
+      "name": "Weck mich auf",
+      "url": "https://open.spotify.com/track/47VRtROAdociHgtuVZNoBL"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -495,18 +463,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 301173,
-      "name": "Walpurgisnacht",
-      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -543,6 +511,38 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+      },
+      "artists": [
+        {
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        }
+      ],
+      "duration_ms": 301173,
+      "name": "Walpurgisnacht",
+      "url": "https://open.spotify.com/track/36fc7ffgOJZmEAavDEmbwu"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        }
+      ],
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
         "name": "Demotape",
         "url": "https://open.spotify.com/album/2It5lgo0UhWhaxsZfwI905"
       },
@@ -555,42 +555,6 @@
       "duration_ms": 205293,
       "name": "Schwule M\u00e4dchen",
       "url": "https://open.spotify.com/track/2MEm4ydaYLfXcS0RwocAu4"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Prison Break Anthem (Ich glaub an Dich)",
-        "url": "https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK"
-      },
-      "artists": [
-        {
-          "name": "AZAD",
-          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
-        },
-        {
-          "name": "Adel Tawil",
-          "url": "https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Prison Break Anthem (Ich glaub an Dich) - Single Version",
-      "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Electro Ghetto (Re-Release)",
-        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 232226,
-      "name": "Schmetterling",
-      "url": "https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -619,26 +583,54 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Hahnenkampf",
-        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
+        "name": "Electro Ghetto (Re-Release)",
+        "url": "https://open.spotify.com/album/6hjvEsyxjU2eRqtofEHPvX"
       },
       "artists": [
         {
-          "name": "K.I.Z",
-          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
-        },
-        {
-          "name": "Kuba",
-          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
-        },
-        {
-          "name": "Cannibal Rob",
-          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
         }
       ],
-      "duration_ms": 323253,
-      "name": "Neuruppin",
-      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
+      "duration_ms": 232226,
+      "name": "Schmetterling",
+      "url": "https://open.spotify.com/track/7zIZF5nHbZXS3Um6p9tiO2"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "4:99 - Jubil\u00e4ums-Edition",
+        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+      },
+      "artists": [
+        {
+          "name": "Die Fantastischen Vier",
+          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+        }
+      ],
+      "duration_ms": 215933,
+      "name": "Mit freundlichen Gr\u00fc\u00dfen",
+      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Prison Break Anthem (Ich glaub an Dich)",
+        "url": "https://open.spotify.com/album/1xeVXMLFtHrldJwO4nbNdK"
+      },
+      "artists": [
+        {
+          "name": "AZAD",
+          "url": "https://open.spotify.com/artist/7LQLsKs1Qulq0BxYdhRnBU"
+        },
+        {
+          "name": "Adel Tawil",
+          "url": "https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi"
+        }
+      ],
+      "duration_ms": 242813,
+      "name": "Prison Break Anthem (Ich glaub an Dich) - Single Version",
+      "url": "https://open.spotify.com/track/1mC06CRaWGhsWhdX99GJqL"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -663,34 +655,42 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "4:99 - Jubil\u00e4ums-Edition",
-        "url": "https://open.spotify.com/album/3iOJWVUmGzq2NOCDP3fmWl"
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
       },
       "artists": [
         {
-          "name": "Die Fantastischen Vier",
-          "url": "https://open.spotify.com/artist/748dDObrUoBetes0pLj788"
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
         }
       ],
-      "duration_ms": 215933,
-      "name": "Mit freundlichen Gr\u00fc\u00dfen",
-      "url": "https://open.spotify.com/track/4BwQLePZSn9X2HoTwNpoLg"
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+        "name": "Hahnenkampf",
+        "url": "https://open.spotify.com/album/0coO5OMFsw888Gok7JwXxe"
       },
       "artists": [
         {
-          "name": "Casper",
-          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+          "name": "K.I.Z",
+          "url": "https://open.spotify.com/artist/0bMt8SJlp0gFRUufzifS05"
+        },
+        {
+          "name": "Kuba",
+          "url": "https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK"
+        },
+        {
+          "name": "Cannibal Rob",
+          "url": "https://open.spotify.com/artist/4D5Tio68jTH1n0ut1J2Qyk"
         }
       ],
-      "duration_ms": 235186,
-      "name": "Hinterland",
-      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
+      "duration_ms": 323253,
+      "name": "Neuruppin",
+      "url": "https://open.spotify.com/track/6REiDLAJKtYGoZsPVgNdiH"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -711,34 +711,18 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Mercedes Dance",
-        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 295440,
-      "name": "Klar",
-      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
+      "duration_ms": 235186,
+      "name": "Hinterland",
+      "url": "https://open.spotify.com/track/2uPDOny5jb6teyb9WEKFyc"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -755,6 +739,22 @@
       "duration_ms": 254080,
       "name": "Liebes Lied",
       "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Mercedes Dance",
+        "url": "https://open.spotify.com/album/2SBaZj97eH8S2s2KYjM6Th"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 295440,
+      "name": "Klar",
+      "url": "https://open.spotify.com/track/01y4v0GVDAFwj9hjxTMshg"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -823,26 +823,6 @@
     {
       "added_at": "2023-12-07 13:48:37",
       "album": {
-        "name": "Irgendwie, Irgendwo, Irgendwann",
-        "url": "https://open.spotify.com/album/5pDCfBYA6CphwerrwR8av8"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        },
-        {
-          "name": "Dennis Dubplate",
-          "url": "https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3"
-        }
-      ],
-      "duration_ms": 330409,
-      "name": "Irgendwie, Irgendwo, Irgendwann",
-      "url": "https://open.spotify.com/track/04sIbgH6Vdo2V21QsUPaRJ"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
         "name": "BLYAT",
         "url": "https://open.spotify.com/album/186E5XovNHY19VgZPNjHJs"
       },
@@ -855,38 +835,6 @@
       "duration_ms": 212506,
       "name": "Nur noch Gucci",
       "url": "https://open.spotify.com/track/6zxFyURXhsMwwkLQGZbzBw"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
-    },
-    {
-      "added_at": "2023-12-07 13:48:37",
-      "album": {
-        "name": "Zum Gl\u00fcck in die Zukunft",
-        "url": "https://open.spotify.com/album/7nBhK71CSKNj5utsMybDTg"
-      },
-      "artists": [
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
-        }
-      ],
-      "duration_ms": 224080,
-      "name": "Endboss",
-      "url": "https://open.spotify.com/track/7pRY7ku84Y3x3nPoB2gxy0"
     },
     {
       "added_at": "2023-12-07 13:48:37",
@@ -907,6 +855,66 @@
       "duration_ms": 274640,
       "name": "F\u00fcchse",
       "url": "https://open.spotify.com/track/4vxjNphyAqPGR8KpuXPGoi"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "NWA",
+        "url": "https://open.spotify.com/album/5XJFzUdqPdsr7irvz4EnJS"
+      },
+      "artists": [
+        {
+          "name": "Shindy",
+          "url": "https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34"
+        },
+        {
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Panamera Flow (feat. Bushido)",
+      "url": "https://open.spotify.com/track/7pg0KCiFMABfGHWxnqqZvZ"
+    },
+    {
+      "added_at": "2023-12-07 13:48:37",
+      "album": {
+        "name": "Esperanto",
+        "url": "https://open.spotify.com/album/7vtEIlxot9pmKtv3KmSmTT"
+      },
+      "artists": [
+        {
+          "name": "Freundeskreis",
+          "url": "https://open.spotify.com/artist/3nJEogPoj1zQ6uokOgaKgk"
+        },
+        {
+          "name": "Max Herre",
+          "url": "https://open.spotify.com/artist/7IpWQKu80qQvyer3LO6SW3"
+        },
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 278960,
+      "name": "Mit Dir (feat. Joy Denalane)",
+      "url": "https://open.spotify.com/track/5EX0HiIyvhavnpjgbwDCeL"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

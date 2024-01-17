@@ -1,97 +1,911 @@
 {
-  "2023-09-29": 1182,
-  "2023-09-30": 1182,
-  "2023-10-01": 1187,
-  "2023-10-02": 1192,
-  "2023-10-03": 1192,
-  "2023-10-04": 1193,
-  "2023-10-05": 1193,
-  "2023-10-06": 1194,
-  "2023-10-07": 1193,
-  "2023-10-08": 1195,
-  "2023-10-09": 1195,
-  "2023-10-10": 1204,
-  "2023-10-11": 1204,
-  "2023-10-12": 1204,
-  "2023-10-13": 1209,
-  "2023-10-14": 1209,
-  "2023-10-15": 1209,
-  "2023-10-16": 1209,
-  "2023-10-17": 1209,
-  "2023-10-18": 1209,
-  "2023-10-19": 1209,
-  "2023-10-20": 1209,
-  "2023-10-21": 1209,
-  "2023-10-22": 1209,
-  "2023-10-23": 1209,
-  "2023-10-24": 1230,
-  "2023-10-25": 1230,
-  "2023-10-26": 1230,
-  "2023-10-27": 1230,
-  "2023-10-28": 1230,
-  "2023-10-29": 1230,
-  "2023-10-30": 1230,
-  "2023-10-31": 1230,
-  "2023-11-01": 1230,
-  "2023-11-02": 1230,
-  "2023-11-03": 1230,
-  "2023-11-04": 1230,
-  "2023-11-05": 1230,
-  "2023-11-06": 1230,
-  "2023-11-07": 1230,
-  "2023-11-08": 1230,
-  "2023-11-09": 1230,
-  "2023-11-10": 1230,
-  "2023-11-11": 1265,
-  "2023-11-12": 1265,
-  "2023-11-13": 1265,
-  "2023-11-14": 1265,
-  "2023-11-15": 1265,
-  "2023-11-16": 1265,
-  "2023-11-17": 1272,
-  "2023-11-18": 1272,
-  "2023-11-19": 1272,
-  "2023-11-20": 1272,
-  "2023-11-21": 1272,
-  "2023-11-22": 1272,
-  "2023-11-23": 1280,
-  "2023-11-24": 1280,
-  "2023-11-25": 1280,
-  "2023-11-26": 1280,
-  "2023-11-27": 1280,
-  "2023-11-28": 1280,
-  "2023-11-29": 1280,
-  "2023-11-30": 1280,
-  "2023-12-01": 1280,
-  "2023-12-02": 1280,
-  "2023-12-03": 1280,
-  "2023-12-04": 1280,
-  "2023-12-05": 1280,
-  "2023-12-06": 1280,
-  "2023-12-07": 1280,
-  "2023-12-08": 1280,
-  "2023-12-09": 1290,
-  "2023-12-10": 1290,
-  "2023-12-11": 1293,
-  "2023-12-12": 1293,
-  "2023-12-13": 1293,
-  "2023-12-14": 1295,
-  "2023-12-15": 1296,
-  "2023-12-16": 1298,
-  "2023-12-17": 1297,
-  "2023-12-18": 1295,
-  "2023-12-19": 1294,
-  "2023-12-20": 1294,
-  "2023-12-21": 1295,
-  "2023-12-22": 1295,
-  "2023-12-23": 1295,
-  "2023-12-24": 1296,
-  "2023-12-25": 1297,
-  "2023-12-26": 1299,
-  "2023-12-27": 1300,
-  "2023-12-30": 1302,
-  "2023-12-31": 1304,
-  "2024-01-01": 1303,
-  "2024-01-02": 1303,
-  "2024-01-03": 1302
+  "2024-01-17": 1307,
+  "date_first_scraped": "2023-09-29",
+  "description": "La playlist officielle de la Reine des Neiges",
+  "name": "La Reine des Neiges",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Evan Rachel Wood",
+          "url": "https://open.spotify.com/artist/3MyB0MyKec3Jq0AH2llk7v"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114040,
+      "name": "All Is Found (Lullaby Ending) - Outtake",
+      "url": "https://open.spotify.com/track/65CgboyZGiSj9PxSWVC0US"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "All Is Found - Kacey Musgraves Version",
+      "url": "https://open.spotify.com/track/0rRxbvmRbUHx58mkFew90Q"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Hervieux",
+          "url": "https://open.spotify.com/artist/2JpbgGjzeOmHt3igN0Mjyj"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195053,
+      "name": "Dans un autre monde",
+      "url": "https://open.spotify.com/track/07N6zWTkWYdLqwxYMwZrT5"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196495,
+      "name": "Dans un autre monde - Instrumental",
+      "url": "https://open.spotify.com/track/4IlJi32PxrLHx7m1oSIDAv"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111200,
+      "name": "En \u00c9t\u00e9",
+      "url": "https://open.spotify.com/track/4uTMszau2pl25o9yrAM9sf"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226586,
+      "name": "For the First Time in Forever - Instrumental Karaoke",
+      "url": "https://open.spotify.com/track/05E6k24W9Nah18ONCOJqQc"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107386,
+      "name": "In Summer - Instrumental Karaoke",
+      "url": "https://open.spotify.com/track/2X7zdF0OyiXh53f9dcazXS"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "Into the Unknown - Panic! At The Disco Version",
+      "url": "https://open.spotify.com/track/0mNZg2yhF4QrYMcFttjySL"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180706,
+      "name": "J'ai perdu le nord",
+      "url": "https://open.spotify.com/track/0xRsM3vKJt7kfP9HJVPCRG"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "J'ai perdu le nord - Instrumental",
+      "url": "https://open.spotify.com/track/7u4FNhk5tD0r7U9XzQaih7"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Hervieux",
+          "url": "https://open.spotify.com/artist/2JpbgGjzeOmHt3igN0Mjyj"
+        },
+        {
+          "name": "Prisca Demarez",
+          "url": "https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261026,
+      "name": "Je te cherche",
+      "url": "https://open.spotify.com/track/61UKFFulJ7bwozNc9YC9Mv"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258788,
+      "name": "Je te cherche - Instrumental",
+      "url": "https://open.spotify.com/track/4HQv2tVZ9YMckKkt2qGLP1"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Coralie Thuilier",
+          "url": "https://open.spotify.com/artist/2I4XNx2u6FZAZAeBpE6GVB"
+        },
+        {
+          "name": "Issia Lorrain",
+          "url": "https://open.spotify.com/artist/0P2QUPTCn1x0FKX8WjMqlC"
+        },
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "Je Voudrais un Bonhomme de Neige - De \"La Reine des Neiges\"/Bande Originale Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/4wWnvAqpO6ngHEkXe1SsXN"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44413,
+      "name": "La ballade de Flemmingrad",
+      "url": "https://open.spotify.com/track/4pK2I2zOX5am5oyoWAqrx8"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "La ballade de Flemmingrad (version traditionnelle)",
+      "url": "https://open.spotify.com/track/6TUn02YkW3gceQGnlbrddf"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Prisca Demarez",
+          "url": "https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125680,
+      "name": "La berceuse d'Ahtohallan",
+      "url": "https://open.spotify.com/track/70t6ELOe4D8lW0r9Sx68xv"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127343,
+      "name": "La berceuse d'Ahtohallan - Instrumental",
+      "url": "https://open.spotify.com/track/1chWFNOCy84gDnrnv58h8Q"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        },
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        },
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Cast - Joyeuses f\u00eates avec Olaf",
+          "url": "https://open.spotify.com/artist/4yYyZDsl5wFtBZg52h3o7I"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "La fin d'ann\u00e9e",
+      "url": "https://open.spotify.com/track/0tatWsP7qVfpvK3kRT3NYq"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52773,
+      "name": "La fin d'ann\u00e9e (reprise)",
+      "url": "https://open.spotify.com/track/1Of88AKvXEFMpnxE6n3PxJ"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        },
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118933,
+      "name": "La saison des f\u00eates",
+      "url": "https://open.spotify.com/track/5d6OfV6QuZFkapwMCqRIjw"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76053,
+      "name": "La saison des f\u00eates (reprise)",
+      "url": "https://open.spotify.com/track/5L1tHIH8FFAy72rsgBNgsE"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51760,
+      "name": "Le Chant du Renne",
+      "url": "https://open.spotify.com/track/0BQwoXJLK4sB2FAco7B57Y"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26413,
+      "name": "Le chant du renne (nouvelle version)",
+      "url": "https://open.spotify.com/track/29snTkVbbmcVuFJH1R7FiD"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14253,
+      "name": "Le chant du renne (nouvelle version) - Instrumental",
+      "url": "https://open.spotify.com/track/0TKnuOiEgmKQ5LHiX9MJLd"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105093,
+      "name": "Le C\u0153ur de Glace",
+      "url": "https://open.spotify.com/track/4x4218LnGddKg5mGcFqwLN"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144520,
+      "name": "Le Renouveau (Reprise)",
+      "url": "https://open.spotify.com/track/1K0IXrDpkx0JhNKRuRsJhp"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224533,
+      "name": "Le Renouveau - De \"La Reine des Neiges\"/Bande Originale Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6JeYEihWIUMPtvjIOVZkml"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "Let It Go - Demi Lovato Version / Instrumental Karaoke",
+      "url": "https://open.spotify.com/track/2B1VmPvKadTaOGgZBkzJRx"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "Let It Go - From \"Frozen / Single Version",
+      "url": "https://open.spotify.com/track/6R4tSpRHjXx659EmJPwamh"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226200,
+      "name": "Let It Go - Instrumental Karaoke",
+      "url": "https://open.spotify.com/track/3e8sklEEpIqUCrTxgKvOly"
+    },
+    {
+      "album": {
+        "name": "We Love Disney",
+        "url": "https://open.spotify.com/album/2yzqKVQAsCqKmrPoiJsXS3"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226613,
+      "name": "Lib\u00e9r\u00e9e, D\u00e9livr\u00e9e - Ana\u00efs Delva Version",
+      "url": "https://open.spotify.com/track/4Dbszfn4tJlfnvixgureMM"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224040,
+      "name": "Lib\u00e9r\u00e9e, D\u00e9livr\u00e9e - De \"La Reine des Neiges\"/Bande Originale Fran\u00e7aise",
+      "url": "https://open.spotify.com/track/6TLtIElohuqTQfcwfVz4HR"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Lost in the Woods - Weezer Version",
+      "url": "https://open.spotify.com/track/4HRlnQdOhl9iE7HEChm4Nn"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "Love Is an Open Door - Instrumental Karaoke",
+      "url": "https://open.spotify.com/track/3lJqsxzCpdapRRf0MNz7Lm"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Beaujolais",
+          "url": "https://open.spotify.com/artist/1LoQUk8Xi2lVQyk7j4CzcA"
+        },
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124600,
+      "name": "L\u2019Amour Est un Cadeau",
+      "url": "https://open.spotify.com/track/1QkUvAmhw9rF5bXzIavlsS"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges (Bande Originale Fran\u00e7aise du Film / Edition Deluxe)",
+        "url": "https://open.spotify.com/album/4pSRa5AfIj6QhNKEBFhGmA"
+      },
+      "artists": [
+        {
+          "name": "Cast - Frozen",
+          "url": "https://open.spotify.com/artist/2GOnnsN5XmABjEwX1fstby"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Nul N\u2019est Parfait",
+      "url": "https://open.spotify.com/track/3FWwOhvXnkzKbNePm6vP8n"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Charlotte Hervieux",
+          "url": "https://open.spotify.com/artist/2JpbgGjzeOmHt3igN0Mjyj"
+        },
+        {
+          "name": "Dany Boon",
+          "url": "https://open.spotify.com/artist/3UhnJy7K5SYTD0DfCTpIvx"
+        },
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        },
+        {
+          "name": "Cast - La Reine des Neiges 2",
+          "url": "https://open.spotify.com/artist/6ubuZmKXPvE4tEYsGayOdI"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209960,
+      "name": "Point d'avenir sans nous",
+      "url": "https://open.spotify.com/track/2IvGpiPjgNFmFFTI7gHqjy"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207588,
+      "name": "Point d'avenir sans nous - Instrumental",
+      "url": "https://open.spotify.com/track/1PmtDKNkPblL8T8DOVyenm"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Dany Boon",
+          "url": "https://open.spotify.com/artist/3UhnJy7K5SYTD0DfCTpIvx"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111240,
+      "name": "Quand je serai plus grand",
+      "url": "https://open.spotify.com/track/6XAMd4VLEFkbzlPZImJPlf"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112560,
+      "name": "Quand je serai plus grand - Instrumental",
+      "url": "https://open.spotify.com/track/5xlCAG8xSuXw8vctj1Bn5x"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges - Joyeuses f\u00eates avec Olaf (Bande Originale Fran\u00e7aise du Court M\u00e9trage)",
+        "url": "https://open.spotify.com/album/4Ehv2lNATcDgs7QYWD8c1S"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Delva",
+          "url": "https://open.spotify.com/artist/2Bgww7ckP3Xo1L7hsAGPUN"
+        },
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        },
+        {
+          "name": "Emmanuel Curtil",
+          "url": "https://open.spotify.com/artist/5LKzT4F7T3O0OlKtUdBRpP"
+        },
+        {
+          "name": "Donald Reignoux",
+          "url": "https://open.spotify.com/artist/7tEY1pZvwraqsWioIEa4xY"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Quand nous sommes tous ensemble",
+      "url": "https://open.spotify.com/track/6Z89LUPdeH7dh7i9iqxLXe"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Homs",
+          "url": "https://open.spotify.com/artist/23F7OWAypXryFVHyN0DJys"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Tout r\u00e9parer",
+      "url": "https://open.spotify.com/track/6vTCAqPefHOOrkrZOkDz8K"
+    },
+    {
+      "album": {
+        "name": "La Reine des Neiges 2 (Bande Originale Fran\u00e7aise du Film/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT"
+      },
+      "artists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "url": "https://open.spotify.com/artist/3CneYb5exy4KOtvCCrozDD"
+        },
+        {
+          "name": "Robert Lopez",
+          "url": "https://open.spotify.com/artist/3zUCHzvbTmCOZoY750yHPB"
+        }
+      ],
+      "date_added": "2021-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216653,
+      "name": "Tout r\u00e9parer - Instrumental",
+      "url": "https://open.spotify.com/track/2ivEQ9KXkEaJ05HzbPqnkE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcWVXhjjs3RH"
 }

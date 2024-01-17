@@ -1,580 +1,2557 @@
 {
-  "2022-05-30": 202134,
-  "2022-05-31": 202299,
-  "2022-06-01": 202671,
-  "2022-06-02": 202691,
-  "2022-06-03": 202894,
-  "2022-06-04": 206323,
-  "2022-06-05": 206936,
-  "2022-06-06": 207884,
-  "2022-06-07": 208241,
-  "2022-06-08": 208461,
-  "2022-06-09": 208655,
-  "2022-06-10": 208856,
-  "2022-06-11": 209114,
-  "2022-06-12": 209424,
-  "2022-06-13": 210310,
-  "2022-06-14": 210708,
-  "2022-06-15": 210918,
-  "2022-06-16": 211140,
-  "2022-06-17": 211363,
-  "2022-06-18": 211545,
-  "2022-06-19": 212202,
-  "2022-06-20": 212202,
-  "2022-06-21": 212648,
-  "2022-06-22": 213019,
-  "2022-06-23": 213019,
-  "2022-06-24": 213229,
-  "2022-06-25": 213443,
-  "2022-06-26": 213678,
-  "2022-06-27": 213678,
-  "2022-06-28": 214636,
-  "2022-06-29": 214828,
-  "2022-06-30": 215056,
-  "2022-07-01": 215712,
-  "2022-07-02": 216258,
-  "2022-07-03": 216755,
-  "2022-07-04": 217152,
-  "2022-07-05": 217416,
-  "2022-07-06": 217647,
-  "2022-07-07": 217845,
-  "2022-07-08": 218050,
-  "2022-07-09": 218952,
-  "2022-07-10": 219379,
-  "2022-07-11": 219661,
-  "2022-07-12": 219927,
-  "2022-07-13": 220220,
-  "2022-07-14": 221259,
-  "2022-07-15": 221809,
-  "2022-07-16": 222848,
-  "2022-07-17": 223419,
-  "2022-07-18": 223850,
-  "2022-07-19": 224301,
-  "2022-07-20": 224660,
-  "2022-07-21": 224950,
-  "2022-07-22": 225277,
-  "2022-07-23": 225627,
-  "2022-07-24": 225993,
-  "2022-07-25": 226329,
-  "2022-07-26": 226621,
-  "2022-07-27": 226971,
-  "2022-07-28": 227256,
-  "2022-07-29": 227558,
-  "2022-07-30": 228049,
-  "2022-07-31": 228049,
-  "2022-08-01": 228321,
-  "2022-08-02": 228787,
-  "2022-08-03": 228787,
-  "2022-08-04": 228999,
-  "2022-08-05": 229241,
-  "2022-08-06": 229521,
-  "2022-08-07": 229846,
-  "2022-08-08": 230168,
-  "2022-08-09": 230393,
-  "2022-08-10": 230681,
-  "2022-08-11": 230910,
-  "2022-08-12": 231154,
-  "2022-08-13": 231391,
-  "2022-08-14": 231676,
-  "2022-08-15": 231890,
-  "2022-08-16": 232109,
-  "2022-08-17": 232352,
-  "2022-08-18": 232578,
-  "2022-08-19": 232859,
-  "2022-08-20": 233119,
-  "2022-08-21": 233327,
-  "2022-08-22": 233547,
-  "2022-08-23": 233800,
-  "2022-08-24": 234042,
-  "2022-08-25": 234257,
-  "2022-08-26": 234468,
-  "2022-08-27": 234720,
-  "2022-08-28": 234946,
-  "2022-08-29": 235174,
-  "2022-08-30": 235199,
-  "2022-08-31": 235057,
-  "2022-09-01": 234871,
-  "2022-09-02": 234664,
-  "2022-09-03": 234265,
-  "2022-09-04": 234220,
-  "2022-09-05": 234433,
-  "2022-09-06": 234564,
-  "2022-09-07": 234785,
-  "2022-09-09": 235127,
-  "2022-09-10": 235301,
-  "2022-09-11": 235492,
-  "2022-09-12": 235696,
-  "2022-09-13": 235810,
-  "2022-09-15": 236078,
-  "2022-09-16": 236241,
-  "2022-09-17": 236426,
-  "2022-09-18": 236664,
-  "2022-09-19": 236830,
-  "2022-09-20": 236964,
-  "2022-09-21": 237105,
-  "2022-09-22": 237262,
-  "2022-09-23": 237420,
-  "2022-09-24": 237628,
-  "2022-09-25": 237814,
-  "2022-09-26": 237968,
-  "2022-09-27": 238167,
-  "2022-09-28": 238342,
-  "2022-09-29": 238533,
-  "2022-09-30": 238683,
-  "2022-10-01": 238872,
-  "2022-10-02": 239086,
-  "2022-10-03": 239310,
-  "2022-10-04": 239492,
-  "2022-10-05": 239664,
-  "2022-10-06": 239823,
-  "2022-10-07": 240008,
-  "2022-10-08": 240187,
-  "2022-10-09": 240501,
-  "2022-10-10": 240535,
-  "2022-10-11": 240697,
-  "2022-10-12": 240830,
-  "2022-10-13": 240989,
-  "2022-10-14": 241146,
-  "2022-10-15": 241290,
-  "2022-10-16": 241447,
-  "2022-10-17": 241657,
-  "2022-10-18": 241875,
-  "2022-10-19": 242033,
-  "2022-10-20": 242170,
-  "2022-10-21": 242327,
-  "2022-10-22": 242565,
-  "2022-10-23": 242837,
-  "2022-10-24": 243063,
-  "2022-10-25": 243261,
-  "2022-10-26": 243415,
-  "2022-10-27": 243602,
-  "2022-10-28": 243762,
-  "2022-10-29": 243957,
-  "2022-10-30": 244132,
-  "2022-10-31": 244309,
-  "2022-11-01": 244440,
-  "2022-11-02": 244600,
-  "2022-11-03": 244784,
-  "2022-11-04": 244965,
-  "2022-11-05": 245119,
-  "2022-11-06": 245239,
-  "2022-11-07": 245391,
-  "2022-11-08": 245561,
-  "2022-11-09": 245707,
-  "2022-11-10": 245899,
-  "2022-11-11": 246085,
-  "2022-11-12": 246302,
-  "2022-11-13": 246474,
-  "2022-11-14": 246665,
-  "2022-11-15": 246882,
-  "2022-11-16": 247029,
-  "2022-11-17": 247242,
-  "2022-11-18": 247275,
-  "2022-11-19": 247266,
-  "2022-11-20": 247384,
-  "2022-11-21": 247556,
-  "2022-11-22": 247774,
-  "2022-11-23": 247687,
-  "2022-11-24": 248266,
-  "2022-11-25": 248575,
-  "2022-11-26": 248769,
-  "2022-11-27": 248971,
-  "2022-11-28": 249183,
-  "2022-11-29": 249359,
-  "2022-11-30": 249534,
-  "2022-12-01": 250055,
-  "2022-12-02": 250358,
-  "2022-12-03": 250943,
-  "2022-12-04": 251338,
-  "2022-12-05": 251611,
-  "2022-12-06": 251870,
-  "2022-12-07": 252133,
-  "2022-12-08": 252398,
-  "2022-12-09": 252633,
-  "2022-12-10": 252820,
-  "2022-12-11": 253031,
-  "2022-12-12": 253305,
-  "2022-12-13": 253517,
-  "2022-12-14": 253693,
-  "2022-12-15": 253872,
-  "2022-12-16": 254051,
-  "2022-12-17": 254251,
-  "2022-12-18": 254492,
-  "2022-12-19": 254717,
-  "2022-12-20": 255105,
-  "2022-12-21": 255105,
-  "2022-12-22": 255363,
-  "2022-12-24": 255781,
-  "2022-12-25": 256021,
-  "2022-12-26": 256235,
-  "2022-12-27": 256444,
-  "2022-12-28": 256660,
-  "2022-12-29": 256872,
-  "2022-12-30": 257064,
-  "2022-12-31": 257234,
-  "2023-01-01": 257417,
-  "2023-01-02": 257622,
-  "2023-01-03": 257829,
-  "2023-01-04": 257997,
-  "2023-01-05": 258188,
-  "2023-01-06": 258425,
-  "2023-01-07": 258790,
-  "2023-01-08": 258827,
-  "2023-01-09": 259097,
-  "2023-01-10": 259245,
-  "2023-01-11": 259412,
-  "2023-01-12": 259626,
-  "2023-01-13": 259823,
-  "2023-01-14": 260265,
-  "2023-01-15": 260289,
-  "2023-01-16": 260570,
-  "2023-01-17": 260807,
-  "2023-01-18": 261031,
-  "2023-01-19": 261271,
-  "2023-01-20": 261470,
-  "2023-01-21": 261669,
-  "2023-01-22": 261902,
-  "2023-01-23": 262113,
-  "2023-01-24": 262305,
-  "2023-01-25": 262486,
-  "2023-01-26": 262651,
-  "2023-01-27": 262872,
-  "2023-01-28": 263043,
-  "2023-01-29": 263270,
-  "2023-01-30": 263454,
-  "2023-01-31": 263454,
-  "2023-02-01": 263808,
-  "2023-02-02": 263930,
-  "2023-02-03": 264107,
-  "2023-02-04": 264308,
-  "2023-02-05": 264508,
-  "2023-02-06": 264742,
-  "2023-02-07": 264906,
-  "2023-02-08": 265275,
-  "2023-02-09": 265275,
-  "2023-02-10": 265475,
-  "2023-02-11": 265680,
-  "2023-02-12": 266054,
-  "2023-02-13": 266230,
-  "2023-02-14": 266230,
-  "2023-02-15": 266385,
-  "2023-02-16": 266527,
-  "2023-02-17": 266675,
-  "2023-02-18": 266992,
-  "2023-02-19": 267036,
-  "2023-02-20": 267152,
-  "2023-02-21": 267290,
-  "2023-02-22": 267438,
-  "2023-02-23": 267555,
-  "2023-02-24": 267759,
-  "2023-02-25": 268042,
-  "2023-02-26": 268174,
-  "2023-02-27": 268536,
-  "2023-02-28": 268536,
-  "2023-03-01": 268702,
-  "2023-03-02": 268877,
-  "2023-03-03": 269051,
-  "2023-03-04": 269209,
-  "2023-03-05": 269549,
-  "2023-03-06": 269549,
-  "2023-03-07": 269727,
-  "2023-03-08": 269851,
-  "2023-03-09": 269999,
-  "2023-03-10": 270125,
-  "2023-03-11": 270283,
-  "2023-03-12": 270505,
-  "2023-03-13": 270698,
-  "2023-03-14": 270835,
-  "2023-03-15": 271075,
-  "2023-03-16": 271243,
-  "2023-03-17": 271243,
-  "2023-03-18": 271543,
-  "2023-03-19": 271697,
-  "2023-03-20": 271813,
-  "2023-03-21": 271949,
-  "2023-03-22": 272088,
-  "2023-03-23": 272174,
-  "2023-03-24": 272174,
-  "2023-03-25": 272435,
-  "2023-03-26": 272544,
-  "2023-03-27": 272640,
-  "2023-03-28": 272758,
-  "2023-03-29": 272892,
-  "2023-03-30": 273104,
-  "2023-03-31": 273104,
-  "2023-04-01": 273236,
-  "2023-04-02": 273367,
-  "2023-04-03": 273473,
-  "2023-04-04": 273603,
-  "2023-04-05": 273727,
-  "2023-04-06": 273854,
-  "2023-04-07": 273982,
-  "2023-04-09": 274261,
-  "2023-04-10": 274390,
-  "2023-04-11": 274614,
-  "2023-04-12": 274614,
-  "2023-04-13": 274722,
-  "2023-04-14": 274840,
-  "2023-04-15": 274980,
-  "2023-04-16": 275131,
-  "2023-04-17": 275281,
-  "2023-04-18": 275400,
-  "2023-04-19": 275540,
-  "2023-04-20": 275651,
-  "2023-04-21": 275807,
-  "2023-04-22": 275939,
-  "2023-04-23": 276090,
-  "2023-04-24": 276193,
-  "2023-04-25": 276278,
-  "2023-04-26": 276398,
-  "2023-04-27": 276513,
-  "2023-04-28": 276608,
-  "2023-04-29": 276766,
-  "2023-04-30": 276891,
-  "2023-05-01": 277027,
-  "2023-05-02": 277159,
-  "2023-05-03": 277255,
-  "2023-05-04": 277356,
-  "2023-05-05": 277478,
-  "2023-05-06": 277585,
-  "2023-05-07": 277706,
-  "2023-05-08": 277813,
-  "2023-05-09": 277945,
-  "2023-05-10": 278076,
-  "2023-05-11": 278179,
-  "2023-05-12": 278268,
-  "2023-05-13": 278397,
-  "2023-05-14": 278501,
-  "2023-05-15": 278618,
-  "2023-05-16": 278719,
-  "2023-05-17": 278823,
-  "2023-05-18": 278899,
-  "2023-05-19": 279011,
-  "2023-05-20": 279275,
-  "2023-05-21": 279275,
-  "2023-05-22": 279275,
-  "2023-05-23": 279517,
-  "2023-05-24": 279689,
-  "2023-05-25": 279723,
-  "2023-05-26": 279799,
-  "2023-05-27": 279924,
-  "2023-05-28": 280044,
-  "2023-05-29": 280044,
-  "2023-05-30": 280230,
-  "2023-05-31": 280325,
-  "2023-06-01": 280409,
-  "2023-06-02": 280509,
-  "2023-06-03": 280610,
-  "2023-06-04": 280719,
-  "2023-06-05": 280815,
-  "2023-06-06": 280903,
-  "2023-06-07": 280994,
-  "2023-06-08": 281124,
-  "2023-06-09": 281206,
-  "2023-06-10": 281322,
-  "2023-06-11": 281407,
-  "2023-06-12": 281520,
-  "2023-06-13": 281572,
-  "2023-06-14": 281640,
-  "2023-06-15": 281694,
-  "2023-06-16": 281780,
-  "2023-06-17": 281846,
-  "2023-06-18": 281928,
-  "2023-06-19": 282034,
-  "2023-06-20": 282117,
-  "2023-06-21": 282196,
-  "2023-06-22": 282295,
-  "2023-06-23": 282410,
-  "2023-06-24": 282492,
-  "2023-06-25": 282592,
-  "2023-06-26": 282679,
-  "2023-06-27": 282777,
-  "2023-06-28": 282874,
-  "2023-06-29": 282988,
-  "2023-06-30": 283079,
-  "2023-07-01": 283296,
-  "2023-07-02": 283296,
-  "2023-07-03": 283473,
-  "2023-07-04": 283624,
-  "2023-07-05": 283746,
-  "2023-07-06": 283957,
-  "2023-07-07": 283957,
-  "2023-07-08": 284044,
-  "2023-07-09": 284129,
-  "2023-07-10": 284228,
-  "2023-07-11": 284318,
-  "2023-07-12": 284389,
-  "2023-07-13": 284469,
-  "2023-07-14": 284571,
-  "2023-07-15": 284629,
-  "2023-07-16": 284727,
-  "2023-07-17": 284820,
-  "2023-07-18": 284904,
-  "2023-07-19": 284975,
-  "2023-07-20": 285038,
-  "2023-07-21": 285178,
-  "2023-07-22": 285281,
-  "2023-07-23": 285392,
-  "2023-07-24": 285525,
-  "2023-07-25": 285691,
-  "2023-07-26": 285798,
-  "2023-07-27": 285921,
-  "2023-07-28": 286046,
-  "2023-07-29": 286167,
-  "2023-07-30": 286322,
-  "2023-07-31": 286433,
-  "2023-08-01": 286998,
-  "2023-08-02": 287323,
-  "2023-08-03": 287572,
-  "2023-08-04": 287840,
-  "2023-08-05": 288085,
-  "2023-08-06": 288455,
-  "2023-08-07": 288455,
-  "2023-08-08": 288623,
-  "2023-08-09": 288753,
-  "2023-08-10": 288900,
-  "2023-08-11": 289027,
-  "2023-08-12": 289201,
-  "2023-08-13": 289325,
-  "2023-08-14": 289436,
-  "2023-08-15": 289701,
-  "2023-08-16": 289701,
-  "2023-08-17": 289839,
-  "2023-08-18": 289931,
-  "2023-08-19": 290072,
-  "2023-08-20": 290221,
-  "2023-08-21": 290324,
-  "2023-08-22": 290424,
-  "2023-08-23": 290556,
-  "2023-08-24": 290652,
-  "2023-08-25": 290759,
-  "2023-08-26": 290891,
-  "2023-08-27": 291001,
-  "2023-08-28": 291137,
-  "2023-08-29": 291270,
-  "2023-08-30": 291398,
-  "2023-08-31": 291508,
-  "2023-09-01": 291782,
-  "2023-09-02": 291782,
-  "2023-09-03": 291904,
-  "2023-09-04": 292088,
-  "2023-09-05": 292210,
-  "2023-09-06": 292350,
-  "2023-09-07": 292487,
-  "2023-09-08": 292600,
-  "2023-09-09": 292753,
-  "2023-09-10": 292906,
-  "2023-09-11": 293022,
-  "2023-09-12": 293122,
-  "2023-09-13": 293228,
-  "2023-09-14": 293334,
-  "2023-09-15": 293445,
-  "2023-09-16": 293545,
-  "2023-09-17": 293698,
-  "2023-09-18": 293814,
-  "2023-09-19": 293909,
-  "2023-09-20": 294005,
-  "2023-09-21": 294117,
-  "2023-09-22": 294206,
-  "2023-09-23": 294309,
-  "2023-09-24": 294460,
-  "2023-09-25": 294604,
-  "2023-09-26": 294732,
-  "2023-09-27": 294833,
-  "2023-09-28": 294966,
-  "2023-09-29": 295154,
-  "2023-09-30": 295287,
-  "2023-10-01": 295461,
-  "2023-10-02": 295619,
-  "2023-10-03": 295738,
-  "2023-10-04": 295838,
-  "2023-10-05": 295938,
-  "2023-10-06": 296059,
-  "2023-10-07": 296194,
-  "2023-10-08": 296278,
-  "2023-10-09": 296415,
-  "2023-10-10": 296521,
-  "2023-10-11": 296725,
-  "2023-10-12": 296725,
-  "2023-10-13": 296798,
-  "2023-10-14": 296910,
-  "2023-10-15": 297063,
-  "2023-10-16": 297193,
-  "2023-10-17": 297297,
-  "2023-10-18": 297416,
-  "2023-10-19": 297572,
-  "2023-10-20": 297713,
-  "2023-10-21": 297839,
-  "2023-10-22": 297957,
-  "2023-10-23": 298074,
-  "2023-10-24": 298179,
-  "2023-10-25": 298278,
-  "2023-10-26": 298379,
-  "2023-10-27": 298493,
-  "2023-10-28": 298629,
-  "2023-10-29": 298758,
-  "2023-10-30": 299022,
-  "2023-10-31": 299022,
-  "2023-11-01": 299108,
-  "2023-11-02": 299218,
-  "2023-11-03": 299344,
-  "2023-11-04": 299417,
-  "2023-11-05": 299499,
-  "2023-11-06": 299579,
-  "2023-11-07": 299669,
-  "2023-11-08": 299760,
-  "2023-11-09": 299868,
-  "2023-11-10": 299948,
-  "2023-11-11": 300115,
-  "2023-11-12": 300219,
-  "2023-11-13": 300268,
-  "2023-11-14": 300339,
-  "2023-11-15": 300339,
-  "2023-11-16": 300472,
-  "2023-11-17": 300630,
-  "2023-11-18": 300630,
-  "2023-11-19": 300714,
-  "2023-11-20": 300786,
-  "2023-11-21": 300868,
-  "2023-11-22": 300939,
-  "2023-11-23": 300999,
-  "2023-11-24": 301077,
-  "2023-11-25": 301144,
-  "2023-11-26": 301229,
-  "2023-11-27": 301320,
-  "2023-11-28": 301389,
-  "2023-11-29": 301509,
-  "2023-11-30": 301509,
-  "2023-12-01": 301593,
-  "2023-12-02": 301699,
-  "2023-12-03": 301783,
-  "2023-12-04": 301865,
-  "2023-12-05": 301948,
-  "2023-12-06": 302042,
-  "2023-12-07": 302123,
-  "2023-12-08": 302209,
-  "2023-12-09": 302282,
-  "2023-12-10": 302366,
-  "2023-12-11": 302453,
-  "2023-12-12": 302537,
-  "2023-12-13": 302627,
-  "2023-12-14": 302713,
-  "2023-12-15": 302786,
-  "2023-12-16": 302885,
-  "2023-12-17": 303000,
-  "2023-12-18": 303152,
-  "2023-12-19": 303289,
-  "2023-12-20": 303387,
-  "2023-12-21": 303495,
-  "2023-12-22": 303581,
-  "2023-12-23": 303661,
-  "2023-12-24": 303784,
-  "2023-12-25": 303846,
-  "2023-12-26": 303918,
-  "2023-12-27": 304030,
-  "2023-12-30": 304388,
-  "2023-12-31": 304505,
-  "2024-01-01": 304578,
-  "2024-01-02": 304681,
-  "2024-01-03": 304817
+  "2024-01-17": 307136,
+  "date_first_scraped": "2022-05-30",
+  "description": "All in us! ITZY is back!",
+  "name": "This Is ITZY",
+  "tracks": [
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174440,
+      "name": "#Twenty",
+      "url": "https://open.spotify.com/track/0deWmYkaZHaElUm15oVXkE"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174440,
+      "name": "#Twenty",
+      "url": "https://open.spotify.com/track/3CTZlHDyGpbzNyRCsPbdMK"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127405,
+      "name": "24HRS",
+      "url": "https://open.spotify.com/track/14TxLhdCi8gfO49n7RT2W6"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127405,
+      "name": "24HRS",
+      "url": "https://open.spotify.com/track/5aNuBrqbdJ8r9qFZHliWxR"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185426,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0nV75BOrSyRuU11DtIhv0U"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185426,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5J0fF2lLWE6KJMzICG8OHt"
+    },
+    {
+      "album": {
+        "name": "The Red Sleeve OST Part.9",
+        "url": "https://open.spotify.com/album/5iPfEIz0ZnUL62v4ZkuizS"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226280,
+      "name": "Always be your star",
+      "url": "https://open.spotify.com/track/04uLMJFa1x21WX9J4QYF83"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "B[OO]M-BOXX",
+      "url": "https://open.spotify.com/track/2RMQFfyDZEyF6Bm8lCdEYu"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193733,
+      "name": "B[OO]M-BOXX",
+      "url": "https://open.spotify.com/track/7vf8wdpqIyBgbUd0We65hS"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200033,
+      "name": "Be In Love",
+      "url": "https://open.spotify.com/track/0FGeJSm4Iix7OdvjvENrwx"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200033,
+      "name": "Be In Love",
+      "url": "https://open.spotify.com/track/4arN86u5stNI1axzs27pAr"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199106,
+      "name": "BET ON ME",
+      "url": "https://open.spotify.com/track/5BCPIye83pj24VjCzQuL5F"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/0KaoPehrtwhjQfae6XMd7B"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185533,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/5wOWpaKW92jhcm8pBOlrdR"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "Blossom (LIA)",
+      "url": "https://open.spotify.com/track/1GUOz1gZZTRWkGjwmrIYO8"
+    },
+    {
+      "album": {
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/72zxKpd3QFTf5X2JvXqtpP"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228293,
+      "name": "Blue Flower",
+      "url": "https://open.spotify.com/track/4Xjw06dhxAVtsnug1ZpN76"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178773,
+      "name": "BORN TO BE",
+      "url": "https://open.spotify.com/track/45lXSvtDt6uKiGZIXB4LLF"
+    },
+    {
+      "album": {
+        "name": "Boys Like You",
+        "url": "https://open.spotify.com/album/1KYgerdWcEqB7KbppYtdXU"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Boys Like You",
+      "url": "https://open.spotify.com/track/34y2pV3RGFiCHSP12bNHVk"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162840,
+      "name": "Bratty",
+      "url": "https://open.spotify.com/track/5Z0gyPr6idyscwLribVpFH"
+    },
+    {
+      "album": {
+        "name": "Break Ice",
+        "url": "https://open.spotify.com/album/3OzSEoUPp5sNGtzXftotKm"
+      },
+      "artists": [
+        {
+          "name": "Second Aunt KimDaVi",
+          "url": "https://open.spotify.com/artist/2XrCYhwuq6x15QFddD1gQv"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176906,
+      "name": "Break Ice",
+      "url": "https://open.spotify.com/track/4iEeJKOE5zjsRbWBGkj9lS"
+    },
+    {
+      "album": {
+        "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+        "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "YEJI & RYUJIN of ITZY",
+          "url": "https://open.spotify.com/artist/4TYswX6bKUjM9rbEL7CMBH"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162273,
+      "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
+      "url": "https://open.spotify.com/track/5Av4jZOAbtY8STz7KPsNDB"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198887,
+      "name": "CAKE",
+      "url": "https://open.spotify.com/track/3syxwxJqX5jpgjNYmvzdW6"
+    },
+    {
+      "album": {
+        "name": "Blah Blah Blah",
+        "url": "https://open.spotify.com/album/3xDuIhFckdZPrS38dSr5Cl"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-21",
+      "duration_ms": 183573,
+      "name": "Can't tie me down",
+      "url": "https://open.spotify.com/track/0dUmImUrt3AnbItexrt6wi"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183573,
+      "name": "Can't tie me down",
+      "url": "https://open.spotify.com/track/35G2DPJgdku9Mr47LqQ1J0"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190372,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/0w63dfnXnMUEjHTH3dGcLQ"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190372,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/3Ef2Sr4U0oehtcozO23yUN"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182453,
+      "name": "Cheshire",
+      "url": "https://open.spotify.com/track/7ixVW7RobslvMrvlzHYLha"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206600,
+      "name": "Chillin' Chillin'",
+      "url": "https://open.spotify.com/track/5RwUH2QDC6BIZlesRkQKxr"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Chillin' Chillin'",
+      "url": "https://open.spotify.com/track/6g5nc2mO1KFqd2XbneHshB"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "Crown On My Head (YEJI)",
+      "url": "https://open.spotify.com/track/7us3VPvRjtjuMEexfyRsMC"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "DALLA DALLA",
+      "url": "https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190547,
+      "name": "DALLA DALLA - DallasK Remix",
+      "url": "https://open.spotify.com/track/2jqfCjRRmqaTBgiJpwCAV3"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190547,
+      "name": "DALLA DALLA - DallasK Remix",
+      "url": "https://open.spotify.com/track/6SIq7FSWa5Hx11oQPGbie2"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199873,
+      "name": "DALLA DALLA - English Ver.",
+      "url": "https://open.spotify.com/track/1tQMEpkJ6ayK5w9mtW3Tqv"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199873,
+      "name": "DALLA DALLA - English Ver.",
+      "url": "https://open.spotify.com/track/77QE9S59GeSHtkU7GRE5PV"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199904,
+      "name": "DALLA DALLA - Japanese ver.",
+      "url": "https://open.spotify.com/track/0OvHs9ccBYfv0447jwWTxr"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "DOMINO",
+      "url": "https://open.spotify.com/track/2Yi1F6c06h8HY5ZIvNRogo"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186293,
+      "name": "DOMINO",
+      "url": "https://open.spotify.com/track/7smzqb09g7J735QwRb6WUp"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196839,
+      "name": "Don\u2019t Give A What",
+      "url": "https://open.spotify.com/track/3tdKcnxykcmJcssYDGxoC2"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196839,
+      "name": "Don\u2019t Give A What",
+      "url": "https://open.spotify.com/track/4bjZomvqHkYJ6cIoyOAjrG"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/6qimUEOwCJJrFFKkfi1cCt"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Escalator",
+      "url": "https://open.spotify.com/track/73UD47tWBapeCpu1aJ2qF0"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175146,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/6VgVT2ZxtssMdzrbfW1R0d"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179226,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/0i9lsYuXfm13smNgSRmhFx"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Free Fall",
+      "url": "https://open.spotify.com/track/3bW8vRr2qQwtmz46OEPZKk"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "Gas Me Up",
+      "url": "https://open.spotify.com/track/3RCMSJIlIZkvJP4LFGtOtu"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149453,
+      "name": "Gas Me Up",
+      "url": "https://open.spotify.com/track/6UcfMqiOGeA3koBW01SsFs"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189812,
+      "name": "I DON\u2019T WANNA DANCE",
+      "url": "https://open.spotify.com/track/427ztPo5YDc2TgebnaFtgW"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189812,
+      "name": "I DON\u2019T WANNA DANCE",
+      "url": "https://open.spotify.com/track/4WzPXQ6z0JhJWyc43cAMMX"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/2vdkN2NSQ5mxqNGg7sJUxs"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191142,
+      "name": "ICY",
+      "url": "https://open.spotify.com/track/7zFBtYAVURF3bUVqEQ6UUu"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "ICY - English Ver.",
+      "url": "https://open.spotify.com/track/0H76idYK173LwctmFntEdz"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191129,
+      "name": "ICY - English Ver.",
+      "url": "https://open.spotify.com/track/4r4tlYK3l78cDNut5SMeQ3"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191129,
+      "name": "ICY - Japanese ver.",
+      "url": "https://open.spotify.com/track/67wtPyGqfHR548kN1LZrjg"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206553,
+      "name": "iD",
+      "url": "https://open.spotify.com/track/2GUikd8cj7qDBzkDzUMd8N"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206553,
+      "name": "iD",
+      "url": "https://open.spotify.com/track/6jfwYW9fmEAbbRxx42F5Kw"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172358,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/2QdH0rKlV3d9Y6lWzcnlBH"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172373,
+      "name": "In the morning",
+      "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172372,
+      "name": "In the morning - Japanese ver.",
+      "url": "https://open.spotify.com/track/1wcd1uC0CCZnMv2q8DqVgB"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197898,
+      "name": "IT'z SUMMER",
+      "url": "https://open.spotify.com/track/1F3q83uRQ1aO9LmaEUzYox"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197898,
+      "name": "IT'z SUMMER",
+      "url": "https://open.spotify.com/track/7p2qGo8x2bW9B0W789i1pt"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213960,
+      "name": "KIDDING ME",
+      "url": "https://open.spotify.com/track/3aGqHdZJusdhT3ZzfLRnO7"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "KIDDING ME",
+      "url": "https://open.spotify.com/track/74WtkDIkOXTtEVO4TatDMX"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136866,
+      "name": "Kill Shot",
+      "url": "https://open.spotify.com/track/3i7Z0CI7QIwnU4MVL0XJB9"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191462,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191462,
+      "name": "LOCO - English Ver.",
+      "url": "https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191462,
+      "name": "LOCO - English Ver.",
+      "url": "https://open.spotify.com/track/0QPYsEvaoEJzZLSF5Cq390"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191647,
+      "name": "LOCO - Japanese ver.",
+      "url": "https://open.spotify.com/track/1QiweW5dV0ydwbQmDogAvq"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201054,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/39pv61XfYr9MUwsYkx30aQ"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201054,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/5QJuILYkvFC2eceU6nLQ9f"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207160,
+      "name": "LOVE is",
+      "url": "https://open.spotify.com/track/3ppdTc5q8S2Mn8FpD97CTQ"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207160,
+      "name": "LOVE is",
+      "url": "https://open.spotify.com/track/5ezx4XG58DNj74FtGLUaNU"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168360,
+      "name": "Mine (CHAERYEONG)",
+      "url": "https://open.spotify.com/track/0vVjP9MvzcaGdy2gKgbGcb"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258680,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/4yYr4DzjAD7JZIrSd1CoZT"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258680,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/7hwBAcUNcMFqNL2ZdyUexn"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170080,
+      "name": "Mr. Vampire",
+      "url": "https://open.spotify.com/track/3uI6jqO0fFBoFryc8SJOXw"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197124,
+      "name": "NOBODY LIKE YOU",
+      "url": "https://open.spotify.com/track/4YUqGDMd1yJAa5i2ShysI6"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197124,
+      "name": "NOBODY LIKE YOU",
+      "url": "https://open.spotify.com/track/7JSaztudhBzfGiudI1QMJl"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "None of My Business",
+      "url": "https://open.spotify.com/track/6iYfUvWNdKulAgX2TOhk5u"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/4ecVWqbtW6phQGpZMAyqIU"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177742,
+      "name": "Not Shy - English Ver.",
+      "url": "https://open.spotify.com/track/2p0WmvGmzE3mKr3lc6ZB9g"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177742,
+      "name": "Not Shy - English Ver.",
+      "url": "https://open.spotify.com/track/7tEE2ICgZzdrCblRl7eLdV"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177742,
+      "name": "Not Shy - Japanese ver.",
+      "url": "https://open.spotify.com/track/0odXyiHUGaXGewarou0KV6"
+    },
+    {
+      "album": {
+        "name": "Romantic Doctor 3 OST Part.5",
+        "url": "https://open.spotify.com/album/3tbF7tfZeQa9WnXmpclfiF"
+      },
+      "artists": [
+        {
+          "name": "LIA (ITZY)",
+          "url": "https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5"
+        }
+      ],
+      "date_added": "2023-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "One Hundred Love",
+      "url": "https://open.spotify.com/track/4tyvvXI34H0YILQctQr0N6"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/0fDeofONl8z64x8zlrLgWR"
+    },
+    {
+      "album": {
+        "name": "KILL MY DOUBT",
+        "url": "https://open.spotify.com/album/6P01cKb7sdwfnNpuMLNEik"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164453,
+      "name": "Psychic Lover",
+      "url": "https://open.spotify.com/track/5Xik9Cid9UnaLMOyaDYO8F"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192893,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/5v15IF9D4nKZbto4US7Ar1"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192893,
+      "name": "RACER",
+      "url": "https://open.spotify.com/track/7cY0T2qBQU9gKKD47lqpI0"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "RINGO",
+      "url": "https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216893,
+      "name": "Run Away (RYUJIN)",
+      "url": "https://open.spotify.com/track/4e94KIas5maH8RixY26LiN"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 139213,
+      "name": "SHOOT!",
+      "url": "https://open.spotify.com/track/11RRkvXd7FvwxLWvtuBIR1"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139213,
+      "name": "SHOOT!",
+      "url": "https://open.spotify.com/track/2xeaHUnzzT5Kc974OQt1kA"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/1nX1b7kRg5a6XKAq7uQOpr"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "SNEAKERS",
+      "url": "https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179453,
+      "name": "SNEAKERS (English Ver.)",
+      "url": "https://open.spotify.com/track/4DM60RC0fVoHbVRtl4Fjdp"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179453,
+      "name": "SNEAKERS - English Ver.",
+      "url": "https://open.spotify.com/track/4JtAmFcrtdyYpruYS3tuv0"
+    },
+    {
+      "album": {
+        "name": "CHESHIRE",
+        "url": "https://open.spotify.com/album/2a1ezg7hE6Dyuymv1aCnkm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173560,
+      "name": "Snowy",
+      "url": "https://open.spotify.com/track/1i0NAz5emJMbRWSkADMsL7"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202280,
+      "name": "Sooo LUCKY",
+      "url": "https://open.spotify.com/track/1wA1P29wRxxk9UxhgxxCsm"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202280,
+      "name": "Sooo LUCKY",
+      "url": "https://open.spotify.com/track/6zqZfHvp3f9r4AF6G7Nhgl"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189786,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Spice",
+      "url": "https://open.spotify.com/track/2uIZvCteW9ZapDvSkfRJ69"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191640,
+      "name": "Spice",
+      "url": "https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr"
+    },
+    {
+      "album": {
+        "name": "RINGO",
+        "url": "https://open.spotify.com/album/1kRAzoCTDLqwU6nX2I2Nmc"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183546,
+      "name": "STYLE",
+      "url": "https://open.spotify.com/track/0aZ8DSEdBJbBfrNtnqgJy3"
+    },
+    {
+      "album": {
+        "name": "Sugar-holic",
+        "url": "https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Sugar-holic",
+      "url": "https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985"
+    },
+    {
+      "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "SUPERPOWERS",
+      "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193932,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/5P8KNvNOdqp0dd5SnilkDZ"
+    },
+    {
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193932,
+      "name": "SURF",
+      "url": "https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177893,
+      "name": "SWIPE",
+      "url": "https://open.spotify.com/track/5au5BF6e1TgZFrdoAz9p6x"
+    },
+    {
+      "album": {
+        "name": "CRAZY IN LOVE",
+        "url": "https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "SWIPE",
+      "url": "https://open.spotify.com/track/5o0urLKhjQLIFMoJH5SSrY"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219453,
+      "name": "TENNIS (0:0)",
+      "url": "https://open.spotify.com/track/1e8PJyZMP4Kx2lGbb7t4ng"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219453,
+      "name": "TENNIS (0:0)",
+      "url": "https://open.spotify.com/track/6wSBcV4mjwiVKGJzNrgwha"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180180,
+      "name": "THAT\u2019S A NO NO",
+      "url": "https://open.spotify.com/track/0q1NTsO5b93R97JdQxtFGx"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180180,
+      "name": "THAT\u2019S A NO NO",
+      "url": "https://open.spotify.com/track/67lCDm8Z4KcFQPIRrqaaQr"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219143,
+      "name": "TING TING TING (with Oliver Heldens)",
+      "url": "https://open.spotify.com/track/4RNqQdwEk03s14HLRXJ9aD"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219143,
+      "name": "TING TING TING (with Oliver Heldens)",
+      "url": "https://open.spotify.com/track/7ADlvg3uIjCvItqeJPgDbu"
+    },
+    {
+      "album": {
+        "name": "Trust Me (MIDZY)",
+        "url": "https://open.spotify.com/album/4zs9WBFiKWmvRM7s1XNcdb"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY)",
+      "url": "https://open.spotify.com/track/1NXZyqdvqt6pXe9XPaOfp1"
+    },
+    {
+      "album": {
+        "name": "Trust Me (MIDZY)",
+        "url": "https://open.spotify.com/album/7EHXDcznIDHxNWTSPBf9Po"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY)",
+      "url": "https://open.spotify.com/track/4ckfsMiX0wBKwaxIJCXxsJ"
+    },
+    {
+      "album": {
+        "name": "Trust Me (MIDZY) [Japanese ver.]",
+        "url": "https://open.spotify.com/album/60NlQsbRpTiScK1lrslOUf"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221638,
+      "name": "Trust Me (MIDZY) - Japanese ver.",
+      "url": "https://open.spotify.com/track/0wVLk4dLdgNwrIy1yhghFy"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194093,
+      "name": "UNTOUCHABLE",
+      "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
+    },
+    {
+      "album": {
+        "name": "Voltage",
+        "url": "https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Voltage",
+      "url": "https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/4pspYVQGFHLPEFgQPD1J7e"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191242,
+      "name": "WANNABE",
+      "url": "https://open.spotify.com/track/6tCssnvTUREcperDOUTqvA"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/0hoNwSKuuOeT9eAxopgMdm"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "WANNABE - English Ver.",
+      "url": "https://open.spotify.com/track/2cnhL9Xb7jlTuUs4taxJSB"
+    },
+    {
+      "album": {
+        "name": "Not Shy (English Ver.)",
+        "url": "https://open.spotify.com/album/3cNffd0CRxT7nxYuq7PHfL"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191242,
+      "name": "WANNABE - English Ver.",
+      "url": "https://open.spotify.com/track/6JPIU7vP5gY81UkFu7V9Ur"
+    },
+    {
+      "album": {
+        "name": "IT'z ITZY (Japanese ver.)",
+        "url": "https://open.spotify.com/album/1VvOaePbpheLTFGUlOb2yE"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191242,
+      "name": "WANNABE - Japanese ver.",
+      "url": "https://open.spotify.com/track/3fCRL3dDIapKnahoRXoSPg"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200303,
+      "name": "WANT IT?",
+      "url": "https://open.spotify.com/track/24HHXG8VtexJC0hrJe1WJY"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200303,
+      "name": "WANT IT?",
+      "url": "https://open.spotify.com/track/2DvBbpZ9MjOQZs2HtN5Ake"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/2y2Nuvvw5xNDYOunTSsgf1"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207870,
+      "name": "WANT IT? - Imad Royal Remix",
+      "url": "https://open.spotify.com/track/56g54pCBLSGyjhAviQ6WWY"
+    },
+    {
+      "album": {
+        "name": "IT'z ICY",
+        "url": "https://open.spotify.com/album/5Xb03XAF2LoaMqbM38H9eB"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        },
+        {
+          "name": "Imad Royal",
+          "url": "https://open.spotify.com/artist/6OgklJh1e1Z9S1Q2IQsHgy"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207870,
+      "name": "WANT IT? - Imad Royal Remix",
+      "url": "https://open.spotify.com/track/73Y127nxOVRDwWhW2wT3qY"
+    },
+    {
+      "album": {
+        "name": "Street Dance Girls Fighter(SGF) Special",
+        "url": "https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Weapon (With Newnion, FLOOR) (Prod.Czaer)",
+      "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143066,
+      "name": "WHAT I WANT",
+      "url": "https://open.spotify.com/track/28E5sYRuv2gpZPEdNAwMkE"
+    },
+    {
+      "album": {
+        "name": "CHECKMATE",
+        "url": "https://open.spotify.com/album/5nBLYhCXF29PmdeqAtjhH2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143066,
+      "name": "WHAT I WANT",
+      "url": "https://open.spotify.com/track/2zs9JUIjwWkveqL7el19Aq"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/3mRcVmaJlodmb7eensMMfZ"
+    },
+    {
+      "album": {
+        "name": "GUESS WHO",
+        "url": "https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203426,
+      "name": "Wild Wild West",
+      "url": "https://open.spotify.com/track/6oN3gPWl6ULGgq8EkslcBk"
+    },
+    {
+      "album": {
+        "name": "BORN TO BE",
+        "url": "https://open.spotify.com/album/3cm3EkNQLpKu58btSJT7fz"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Yet, but (YUNA)",
+      "url": "https://open.spotify.com/track/5xvvYrp0VcaigWP088jybs"
+    },
+    {
+      "album": {
+        "name": "IT'z ME",
+        "url": "https://open.spotify.com/album/7ynKAohxfwPUZzvU8f1p1U"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183163,
+      "name": "YOU MAKE ME",
+      "url": "https://open.spotify.com/track/3ehpqyAGlcbI6Qx2bbawcx"
+    },
+    {
+      "album": {
+        "name": "It'z Me",
+        "url": "https://open.spotify.com/album/2gertXS08whDTzBWfmewPO"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183163,
+      "name": "YOU MAKE ME",
+      "url": "https://open.spotify.com/track/5Hvr3JCRoAIKXDnXyg02OU"
+    },
+    {
+      "album": {
+        "name": "IT'z Different",
+        "url": "https://open.spotify.com/album/0fUJLlrsG1MpTHr3MxPN9C"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2022-04-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199873,
+      "name": "\ub2ec\ub77c\ub2ec\ub77c (DALLA DALLA)",
+      "url": "https://open.spotify.com/track/0GU5GuJQQEnnREO2FxnVPT"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ZHn4SQHDIn"
 }

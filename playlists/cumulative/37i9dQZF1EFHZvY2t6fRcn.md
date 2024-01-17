@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Ka1phroYqFsQPPQ1FOyBA">Trey Campbell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 7 hr 58 min
+146 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-04-08 |  |
 | [Candle](https://open.spotify.com/track/32Ka9ZTXBza9SkOWRtiXBO) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Candle](https://open.spotify.com/album/2FQ278LgDLpwbHa49ZmF63) | 3:16 | 2021-12-27 |  |
 | [Changes](https://open.spotify.com/track/7oLDuG0A70H4v8WTmGALiV) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3) | [Changes](https://open.spotify.com/album/2fnf0nNu49HtXi0JYCaJ2e) | 3:09 | 2021-12-27 |  |
-| [Chasers](https://open.spotify.com/track/0OktRUetYgBmIX7UKCvCda) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/7AT7uCIjJ5D90jHdfJBEbH) | 3:00 | 2021-12-27 |  |
+| [Chasers](https://open.spotify.com/track/0OktRUetYgBmIX7UKCvCda) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/7AT7uCIjJ5D90jHdfJBEbH) | 3:00 | 2021-12-27 | 2024-01-15 |
+| [Chasers](https://open.spotify.com/track/0nwAgXvY8LlVaImad8XCdF) | [Bahari](https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu) | [Chasers](https://open.spotify.com/album/3oz8jw6YLEOSf032rck2GY) | 3:00 | 2024-01-14 |  |
 | [Cliche](https://open.spotify.com/track/02Htc0atYU7iMGnKkIXh0f) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [i hate you, Don't Leave Me](https://open.spotify.com/album/3RP0foR47mZ1epRWFlL68Z) | 3:15 | 2022-07-17 |  |
 | [Cliche](https://open.spotify.com/track/45j8Wn3B8a0XNPXT5MURGQ) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Cliche](https://open.spotify.com/album/5xONmKddxJymbH5cqMhw1r) | 3:15 | 2022-04-17 | 2022-07-18 |
 | [COLLIDING](https://open.spotify.com/track/5OoKINatuviwC5o7vGyvDl) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [THIS IS NOT AN EXIT](https://open.spotify.com/album/34p9nqyJhDgyoGlLyecjHh) | 2:43 | 2023-12-13 |  |
@@ -58,7 +59,8 @@
 | [EMPATHY](https://open.spotify.com/track/7Mg30M7Yt6EBV7sN00Xr9k) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [EMPATHY](https://open.spotify.com/album/7A66n9P2h3Cfbuh5YZDNqZ) | 3:15 | 2021-12-27 | 2022-10-19 |
 | [End This \(L.O.V.E.\)](https://open.spotify.com/track/04fBskFuMgIx0T0ob7uIhd) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/5ryDRO9Lft4ltBzEETx9MM) | 3:03 | 2021-12-27 |  |
 | [Even Angels \(feat\. Blas Cantó\)](https://open.spotify.com/track/6ASYGi2AtXMPlwExjle1a4) | [Carlos Marco](https://open.spotify.com/artist/7L2leV7PPUnxsoSPkxLGxd), [Blas Cantó](https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46) | [Chalk Dreams](https://open.spotify.com/album/488np3gSXZtNGWUINrcTZi) | 3:46 | 2021-12-27 |  |
-| [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-05-18 |  |
+| [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-05-18 | 2024-01-17 |
+| [Extra Agenda](https://open.spotify.com/track/7MVTWohUrXo3UyLbUaWnLL) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6F4SlhiXa9I1eAQXAVxb9v) | 3:40 | 2024-01-03 |  |
 | [EYES SHUT](https://open.spotify.com/track/0YSjTKIEdW0EMNsZc9NJe0) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [FAITH](https://open.spotify.com/album/3iFLeRwYYgD7wq6hDVlw0v) | 3:27 | 2021-12-27 |  |
 | [FACE MYSELF](https://open.spotify.com/track/2R5hXZrxhgwycn39rC0OdQ) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [FACE MYSELF](https://open.spotify.com/album/0wwDGGiX6lAVuZDLG9oR2u) | 3:47 | 2023-03-31 |  |
 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 | 2021-12-27 |  |
@@ -83,9 +85,9 @@
 | [High & Dry](https://open.spotify.com/track/7rqYTfbYrg6GSSRza8KR2k) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Homegrown](https://open.spotify.com/album/6D701PBk88ecP19udi4EJj) | 2:39 | 2021-12-27 |  |
 | [Higher Than Heaven](https://open.spotify.com/track/22Hd0liOMDi9pFThvQJrlT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:29 | 2023-04-10 |  |
 | [Higher Than Heaven](https://open.spotify.com/track/7MXzPMXtOGwDasatLf0LGX) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven](https://open.spotify.com/album/5NoumVwpAYQdSDo6DEknjZ) | 3:29 | 2023-03-30 | 2023-04-11 |
-| [How Soon](https://open.spotify.com/track/1oG2Ool6Y60sPNsOTjLeeF) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Where Do We Go From Here?](https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP) | 3:10 | 2023-07-16 | 2023-12-27 |
+| [How Soon](https://open.spotify.com/track/1oG2Ool6Y60sPNsOTjLeeF) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Where Do We Go From Here?](https://open.spotify.com/album/0NnR23e1w5XEVCDaUYXrlP) | 3:10 | 2023-07-16 |  |
 | [How Soon](https://open.spotify.com/track/3xYN1E1k2yKo542ORTXM0G) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/4jdF1Zm7qKtorqthSwAokK) | 3:10 | 2023-07-10 | 2023-07-17 |
-| [How Soon](https://open.spotify.com/track/1KUiTZjA5fEMT3MlBZNifv) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/6yQpOyThTfe6Za8iwCWFXZ) | 3:17 | 2023-12-13 |  |
+| [How Soon](https://open.spotify.com/track/1KUiTZjA5fEMT3MlBZNifv) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [How Soon](https://open.spotify.com/album/6yQpOyThTfe6Za8iwCWFXZ) | 3:17 | 2023-12-13 | 2024-01-17 |
 | [How Soon](https://open.spotify.com/track/3GWvVMl4jh3Ix2xC3DpfWP) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [How Soon](https://open.spotify.com/album/1JL6Vatn02HjOJtxL1eHrt) | 3:09 | 2023-07-05 | 2023-07-11 |
 | [I Don't Love You](https://open.spotify.com/track/56DtlpHeMFHUIRf60GpBqa) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/0isT3M0fEUwPOiuECCGL9E) | 3:24 | 2021-12-27 | 2022-10-14 |
 | [I Don't Love You](https://open.spotify.com/track/5lmNLpttoz07aUCITtAKhX) | [Aidan Alexander](https://open.spotify.com/artist/470MOsSyAjffyO2de235Yw) | [I Don't Love You](https://open.spotify.com/album/352YNkVFSV9KDvGlLpEwRc) | 3:24 | 2022-10-13 |  |
@@ -126,6 +128,7 @@
 | [Small Talk](https://open.spotify.com/track/1yZ4DgpOllcy8ylgOLGKMy) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Part 1 EP](https://open.spotify.com/album/2tIENkGDORxbE6SItwVVkX) | 3:15 | 2021-12-27 |  |
 | [Stay In Bed](https://open.spotify.com/track/6tmA6I8aay97Aj0F0mRA2f) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Conscious](https://open.spotify.com/album/45jVbFOVEriXYOjNLjIJFq) | 3:35 | 2021-12-27 |  |
 | [Still Love You](https://open.spotify.com/track/4HhYCUVN6YEXY9Wi7VRwut) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:39 | 2022-04-01 |  |
+| [Stretch](https://open.spotify.com/track/0vJLnPPbip0ihNIavfRr4k) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Stretch](https://open.spotify.com/album/7AVMVoBNIuqrQVGEvlQyTA) | 3:07 | 2024-01-04 |  |
 | [Stroke](https://open.spotify.com/track/01a0H5HPeCMOktdRMygi3t) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [III](https://open.spotify.com/album/0oXzdlZ9duItTwmJLXbAfo) | 3:26 | 2021-12-27 |  |
 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 | 2023-07-05 |  |
 | [TALK!](https://open.spotify.com/track/45kFJyDpXX4AuKpvdWyTwW) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [PHOENIX](https://open.spotify.com/album/1bjMRqNRSj1acJP6XesJMW) | 2:37 | 2023-12-13 |  |

@@ -1,539 +1,819 @@
 {
-  "2022-07-10": 32,
-  "2022-07-11": 43,
-  "2022-07-12": 51,
-  "2022-07-13": 62,
-  "2022-07-14": 78,
-  "2022-07-15": 100,
-  "2022-07-16": 121,
-  "2022-07-17": 146,
-  "2022-07-18": 168,
-  "2022-07-19": 188,
-  "2022-07-20": 203,
-  "2022-07-21": 226,
-  "2022-07-22": 239,
-  "2022-07-23": 254,
-  "2022-07-24": 264,
-  "2022-07-25": 288,
-  "2022-07-26": 299,
-  "2022-07-27": 326,
-  "2022-07-28": 336,
-  "2022-07-29": 359,
-  "2022-07-30": 373,
-  "2022-07-31": 373,
-  "2022-08-01": 384,
-  "2022-08-02": 397,
-  "2022-08-03": 397,
-  "2022-08-04": 402,
-  "2022-08-05": 403,
-  "2022-08-06": 407,
-  "2022-08-07": 415,
-  "2022-08-08": 423,
-  "2022-08-09": 425,
-  "2022-08-10": 428,
-  "2022-08-11": 432,
-  "2022-08-12": 438,
-  "2022-08-13": 444,
-  "2022-08-14": 445,
-  "2022-08-15": 451,
-  "2022-08-16": 463,
-  "2022-08-17": 470,
-  "2022-08-18": 474,
-  "2022-08-19": 485,
-  "2022-08-20": 486,
-  "2022-08-21": 494,
-  "2022-08-22": 500,
-  "2022-08-23": 506,
-  "2022-08-24": 512,
-  "2022-08-25": 522,
-  "2022-08-26": 521,
-  "2022-08-27": 523,
-  "2022-08-28": 530,
-  "2022-08-29": 534,
-  "2022-08-30": 538,
-  "2022-08-31": 541,
-  "2022-09-01": 544,
-  "2022-09-02": 549,
-  "2022-09-03": 551,
-  "2022-09-04": 556,
-  "2022-09-05": 559,
-  "2022-09-06": 562,
-  "2022-09-07": 566,
-  "2022-09-09": 569,
-  "2022-09-10": 575,
-  "2022-09-11": 579,
-  "2022-09-12": 581,
-  "2022-09-13": 582,
-  "2022-09-15": 586,
-  "2022-09-16": 590,
-  "2022-09-17": 594,
-  "2022-09-18": 597,
-  "2022-09-19": 602,
-  "2022-09-20": 605,
-  "2022-09-21": 606,
-  "2022-09-22": 609,
-  "2022-09-23": 612,
-  "2022-09-24": 614,
-  "2022-09-25": 619,
-  "2022-09-26": 625,
-  "2022-09-27": 627,
-  "2022-09-28": 631,
-  "2022-09-29": 631,
-  "2022-09-30": 632,
-  "2022-10-01": 636,
-  "2022-10-02": 640,
-  "2022-10-03": 649,
-  "2022-10-04": 653,
-  "2022-10-05": 657,
-  "2022-10-06": 661,
-  "2022-10-07": 667,
-  "2022-10-08": 672,
-  "2022-10-09": 676,
-  "2022-10-10": 676,
-  "2022-10-11": 678,
-  "2022-10-12": 680,
-  "2022-10-13": 683,
-  "2022-10-14": 686,
-  "2022-10-15": 689,
-  "2022-10-16": 692,
-  "2022-10-17": 693,
-  "2022-10-18": 695,
-  "2022-10-19": 698,
-  "2022-10-20": 700,
-  "2022-10-21": 704,
-  "2022-10-22": 710,
-  "2022-10-23": 711,
-  "2022-10-24": 715,
-  "2022-10-25": 724,
-  "2022-10-26": 730,
-  "2022-10-27": 738,
-  "2022-10-28": 746,
-  "2022-10-29": 748,
-  "2022-10-30": 751,
-  "2022-10-31": 755,
-  "2022-11-01": 762,
-  "2022-11-02": 762,
-  "2022-11-03": 766,
-  "2022-11-04": 770,
-  "2022-11-05": 769,
-  "2022-11-06": 772,
-  "2022-11-07": 776,
-  "2022-11-08": 779,
-  "2022-11-09": 782,
-  "2022-11-10": 788,
-  "2022-11-11": 792,
-  "2022-11-12": 797,
-  "2022-11-13": 797,
-  "2022-11-14": 805,
-  "2022-11-15": 809,
-  "2022-11-16": 813,
-  "2022-11-17": 816,
-  "2022-11-18": 819,
-  "2022-11-19": 817,
-  "2022-11-20": 822,
-  "2022-11-21": 821,
-  "2022-11-22": 833,
-  "2022-11-23": 833,
-  "2022-11-24": 844,
-  "2022-11-25": 851,
-  "2022-11-26": 852,
-  "2022-11-27": 856,
-  "2022-11-28": 859,
-  "2022-11-29": 860,
-  "2022-11-30": 860,
-  "2022-12-01": 863,
-  "2022-12-02": 864,
-  "2022-12-03": 876,
-  "2022-12-04": 883,
-  "2022-12-05": 888,
-  "2022-12-06": 893,
-  "2022-12-07": 897,
-  "2022-12-08": 904,
-  "2022-12-09": 905,
-  "2022-12-10": 908,
-  "2022-12-11": 914,
-  "2022-12-12": 921,
-  "2022-12-13": 926,
-  "2022-12-14": 932,
-  "2022-12-15": 940,
-  "2022-12-16": 940,
-  "2022-12-17": 941,
-  "2022-12-18": 946,
-  "2022-12-19": 952,
-  "2022-12-20": 962,
-  "2022-12-21": 962,
-  "2022-12-22": 963,
-  "2022-12-24": 965,
-  "2022-12-25": 966,
-  "2022-12-26": 968,
-  "2022-12-27": 970,
-  "2022-12-28": 975,
-  "2022-12-29": 977,
-  "2022-12-30": 978,
-  "2022-12-31": 979,
-  "2023-01-01": 983,
-  "2023-01-02": 987,
-  "2023-01-03": 989,
-  "2023-01-04": 994,
-  "2023-01-05": 996,
-  "2023-01-06": 1002,
-  "2023-01-07": 1011,
-  "2023-01-08": 1010,
-  "2023-01-09": 1014,
-  "2023-01-10": 1017,
-  "2023-01-11": 1017,
-  "2023-01-12": 1023,
-  "2023-01-13": 1031,
-  "2023-01-14": 1043,
-  "2023-01-15": 1045,
-  "2023-01-16": 1047,
-  "2023-01-17": 1057,
-  "2023-01-18": 1061,
-  "2023-01-19": 1064,
-  "2023-01-20": 1065,
-  "2023-01-21": 1067,
-  "2023-01-22": 1069,
-  "2023-01-23": 1076,
-  "2023-01-24": 1085,
-  "2023-01-25": 1088,
-  "2023-01-26": 1089,
-  "2023-01-27": 1090,
-  "2023-01-28": 1095,
-  "2023-01-29": 1103,
-  "2023-01-30": 1103,
-  "2023-01-31": 1103,
-  "2023-02-01": 1111,
-  "2023-02-02": 1115,
-  "2023-02-03": 1115,
-  "2023-02-04": 1120,
-  "2023-02-05": 1124,
-  "2023-02-06": 1127,
-  "2023-02-07": 1128,
-  "2023-02-08": 1130,
-  "2023-02-09": 1130,
-  "2023-02-10": 1127,
-  "2023-02-11": 1130,
-  "2023-02-12": 1130,
-  "2023-02-13": 1130,
-  "2023-02-14": 1130,
-  "2023-02-15": 1135,
-  "2023-02-16": 1134,
-  "2023-02-17": 1134,
-  "2023-02-18": 1137,
-  "2023-02-19": 1138,
-  "2023-02-20": 1140,
-  "2023-02-21": 1145,
-  "2023-02-22": 1152,
-  "2023-02-23": 1155,
-  "2023-02-24": 1156,
-  "2023-02-25": 1161,
-  "2023-02-26": 1165,
-  "2023-02-27": 1179,
-  "2023-02-28": 1179,
-  "2023-03-01": 1180,
-  "2023-03-02": 1181,
-  "2023-03-03": 1186,
-  "2023-03-04": 1188,
-  "2023-03-05": 1197,
-  "2023-03-06": 1197,
-  "2023-03-07": 1202,
-  "2023-03-08": 1203,
-  "2023-03-09": 1205,
-  "2023-03-10": 1207,
-  "2023-03-11": 1208,
-  "2023-03-12": 1213,
-  "2023-03-13": 1217,
-  "2023-03-14": 1219,
-  "2023-03-15": 1224,
-  "2023-03-16": 1226,
-  "2023-03-17": 1226,
-  "2023-03-18": 1232,
-  "2023-03-19": 1233,
-  "2023-03-20": 1242,
-  "2023-03-21": 1247,
-  "2023-03-22": 1252,
-  "2023-03-23": 1254,
-  "2023-03-24": 1254,
-  "2023-03-25": 1270,
-  "2023-03-26": 1276,
-  "2023-03-27": 1278,
-  "2023-03-28": 1281,
-  "2023-03-29": 1285,
-  "2023-03-30": 1288,
-  "2023-03-31": 1288,
-  "2023-04-01": 1291,
-  "2023-04-02": 1296,
-  "2023-04-03": 1299,
-  "2023-04-04": 1303,
-  "2023-04-05": 1307,
-  "2023-04-06": 1307,
-  "2023-04-07": 1311,
-  "2023-04-09": 1314,
-  "2023-04-10": 1314,
-  "2023-04-11": 1319,
-  "2023-04-12": 1319,
-  "2023-04-13": 1321,
-  "2023-04-14": 1323,
-  "2023-04-15": 1324,
-  "2023-04-16": 1326,
-  "2023-04-17": 1328,
-  "2023-04-18": 1330,
-  "2023-04-19": 1333,
-  "2023-04-20": 1333,
-  "2023-04-21": 1338,
-  "2023-04-22": 1344,
-  "2023-04-23": 1348,
-  "2023-04-24": 1352,
-  "2023-04-25": 1356,
-  "2023-04-26": 1357,
-  "2023-04-27": 1358,
-  "2023-04-28": 1360,
-  "2023-04-29": 1361,
-  "2023-04-30": 1362,
-  "2023-05-01": 1369,
-  "2023-05-02": 1373,
-  "2023-05-03": 1373,
-  "2023-05-04": 1377,
-  "2023-05-05": 1380,
-  "2023-05-06": 1381,
-  "2023-05-07": 1385,
-  "2023-05-08": 1389,
-  "2023-05-09": 1394,
-  "2023-05-10": 1398,
-  "2023-05-11": 1401,
-  "2023-05-12": 1402,
-  "2023-05-13": 1407,
-  "2023-05-14": 1408,
-  "2023-05-15": 1411,
-  "2023-05-16": 1412,
-  "2023-05-17": 1412,
-  "2023-05-18": 1413,
-  "2023-05-19": 1415,
-  "2023-05-20": 1420,
-  "2023-05-21": 1420,
-  "2023-05-22": 1420,
-  "2023-05-23": 1426,
-  "2023-05-24": 1434,
-  "2023-05-25": 1434,
-  "2023-05-26": 1438,
-  "2023-05-27": 1442,
-  "2023-05-28": 1443,
-  "2023-05-29": 1443,
-  "2023-05-30": 1448,
-  "2023-05-31": 1450,
-  "2023-06-01": 1451,
-  "2023-06-02": 1451,
-  "2023-06-03": 1450,
-  "2023-06-04": 1450,
-  "2023-06-05": 1453,
-  "2023-06-06": 1458,
-  "2023-06-07": 1458,
-  "2023-06-08": 1460,
-  "2023-06-09": 1461,
-  "2023-06-10": 1464,
-  "2023-06-11": 1468,
-  "2023-06-12": 1471,
-  "2023-06-13": 1474,
-  "2023-06-14": 1478,
-  "2023-06-15": 1479,
-  "2023-06-16": 1484,
-  "2023-06-17": 1487,
-  "2023-06-18": 1487,
-  "2023-06-19": 1488,
-  "2023-06-20": 1490,
-  "2023-06-21": 1490,
-  "2023-06-22": 1494,
-  "2023-06-23": 1494,
-  "2023-06-24": 1495,
-  "2023-06-25": 1500,
-  "2023-06-26": 1504,
-  "2023-06-27": 1504,
-  "2023-06-28": 1506,
-  "2023-06-29": 1506,
-  "2023-06-30": 1508,
-  "2023-07-01": 1519,
-  "2023-07-02": 1519,
-  "2023-07-03": 1519,
-  "2023-07-04": 1519,
-  "2023-07-05": 1521,
-  "2023-07-06": 1525,
-  "2023-07-07": 1525,
-  "2023-07-08": 1526,
-  "2023-07-09": 1527,
-  "2023-07-10": 1530,
-  "2023-07-11": 1531,
-  "2023-07-12": 1532,
-  "2023-07-13": 1533,
-  "2023-07-14": 1535,
-  "2023-07-15": 1537,
-  "2023-07-16": 1540,
-  "2023-07-17": 1538,
-  "2023-07-18": 1538,
-  "2023-07-19": 1540,
-  "2023-07-20": 1542,
-  "2023-07-21": 1547,
-  "2023-07-22": 1549,
-  "2023-07-23": 1552,
-  "2023-07-24": 1554,
-  "2023-07-25": 1560,
-  "2023-07-26": 1562,
-  "2023-07-27": 1562,
-  "2023-07-28": 1563,
-  "2023-07-29": 1566,
-  "2023-07-30": 1570,
-  "2023-07-31": 1571,
-  "2023-08-01": 1574,
-  "2023-08-02": 1577,
-  "2023-08-03": 1580,
-  "2023-08-04": 1582,
-  "2023-08-05": 1583,
-  "2023-08-06": 1584,
-  "2023-08-07": 1584,
-  "2023-08-08": 1587,
-  "2023-08-09": 1589,
-  "2023-08-10": 1588,
-  "2023-08-11": 1590,
-  "2023-08-12": 1595,
-  "2023-08-13": 1596,
-  "2023-08-14": 1596,
-  "2023-08-15": 1604,
-  "2023-08-16": 1604,
-  "2023-08-17": 1604,
-  "2023-08-18": 1605,
-  "2023-08-19": 1605,
-  "2023-08-20": 1610,
-  "2023-08-21": 1609,
-  "2023-08-22": 1610,
-  "2023-08-23": 1613,
-  "2023-08-24": 1616,
-  "2023-08-25": 1618,
-  "2023-08-26": 1622,
-  "2023-08-27": 1627,
-  "2023-08-28": 1628,
-  "2023-08-29": 1630,
-  "2023-08-30": 1631,
-  "2023-08-31": 1634,
-  "2023-09-01": 1644,
-  "2023-09-02": 1644,
-  "2023-09-03": 1646,
-  "2023-09-04": 1651,
-  "2023-09-05": 1655,
-  "2023-09-06": 1657,
-  "2023-09-07": 1661,
-  "2023-09-08": 1662,
-  "2023-09-09": 1662,
-  "2023-09-10": 1666,
-  "2023-09-11": 1670,
-  "2023-09-12": 1671,
-  "2023-09-13": 1674,
-  "2023-09-14": 1683,
-  "2023-09-15": 1683,
-  "2023-09-16": 1685,
-  "2023-09-17": 1685,
-  "2023-09-18": 1691,
-  "2023-09-19": 1698,
-  "2023-09-20": 1700,
-  "2023-09-21": 1706,
-  "2023-09-22": 1707,
-  "2023-09-23": 1706,
-  "2023-09-24": 1710,
-  "2023-09-25": 1714,
-  "2023-09-26": 1717,
-  "2023-09-27": 1721,
-  "2023-09-28": 1719,
-  "2023-09-29": 1722,
-  "2023-09-30": 1726,
-  "2023-10-01": 1727,
-  "2023-10-02": 1731,
-  "2023-10-03": 1736,
-  "2023-10-04": 1737,
-  "2023-10-05": 1741,
-  "2023-10-06": 1745,
-  "2023-10-07": 1749,
-  "2023-10-08": 1758,
-  "2023-10-09": 1760,
-  "2023-10-10": 1763,
-  "2023-10-11": 1775,
-  "2023-10-12": 1775,
-  "2023-10-13": 1780,
-  "2023-10-14": 1785,
-  "2023-10-15": 1789,
-  "2023-10-16": 1791,
-  "2023-10-17": 1794,
-  "2023-10-18": 1796,
-  "2023-10-19": 1795,
-  "2023-10-20": 1799,
-  "2023-10-21": 1807,
-  "2023-10-22": 1808,
-  "2023-10-23": 1816,
-  "2023-10-24": 1818,
-  "2023-10-25": 1824,
-  "2023-10-26": 1830,
-  "2023-10-27": 1834,
-  "2023-10-28": 1838,
-  "2023-10-29": 1838,
-  "2023-10-30": 1841,
-  "2023-10-31": 1841,
-  "2023-11-01": 1844,
-  "2023-11-02": 1850,
-  "2023-11-03": 1854,
-  "2023-11-04": 1864,
-  "2023-11-05": 1875,
-  "2023-11-06": 1887,
-  "2023-11-07": 1889,
-  "2023-11-08": 1892,
-  "2023-11-09": 1897,
-  "2023-11-10": 1900,
-  "2023-11-11": 1907,
-  "2023-11-12": 1907,
-  "2023-11-13": 1914,
-  "2023-11-14": 1916,
-  "2023-11-15": 1916,
-  "2023-11-16": 1923,
-  "2023-11-17": 1929,
-  "2023-11-18": 1929,
-  "2023-11-19": 1935,
-  "2023-11-20": 1940,
-  "2023-11-21": 1946,
-  "2023-11-22": 1949,
-  "2023-11-23": 1954,
-  "2023-11-24": 1956,
-  "2023-11-25": 1960,
-  "2023-11-26": 1965,
-  "2023-11-27": 1972,
-  "2023-11-28": 1972,
-  "2023-11-29": 1981,
-  "2023-11-30": 1981,
-  "2023-12-01": 1988,
-  "2023-12-02": 1992,
-  "2023-12-03": 1994,
-  "2023-12-04": 1999,
-  "2023-12-05": 2005,
-  "2023-12-06": 2009,
-  "2023-12-07": 2010,
-  "2023-12-08": 2020,
-  "2023-12-09": 2032,
-  "2023-12-10": 2042,
-  "2023-12-11": 2047,
-  "2023-12-12": 2058,
-  "2023-12-13": 2065,
-  "2023-12-14": 2079,
-  "2023-12-15": 2087,
-  "2023-12-16": 2096,
-  "2023-12-17": 2105,
-  "2023-12-18": 2119,
-  "2023-12-19": 2126,
-  "2023-12-20": 2134,
-  "2023-12-21": 2140,
-  "2023-12-22": 2151,
-  "2023-12-23": 2156,
-  "2023-12-24": 2162,
-  "2023-12-25": 2170,
-  "2023-12-26": 2175,
-  "2023-12-27": 2182,
-  "2023-12-30": 2201,
-  "2023-12-31": 2206,
-  "2024-01-01": 2212,
-  "2024-01-02": 2215,
-  "2024-01-03": 2224
+  "2024-01-17": 2347,
+  "date_first_scraped": "2022-07-10",
+  "description": "Enjoy the soundtrack of Broker! (\uc601\ud654 \ube0c\ub85c\ucee4\uc758 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "Broker (\ube0c\ub85c\ucee4)",
+  "tracks": [
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 54400,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/12WK8Woe1a4gpEgL686VFK"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54400,
+      "name": "Betrayal",
+      "url": "https://open.spotify.com/track/1QAPoJfIi2fZbAqT3WB2Ij"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26666,
+      "name": "Booooo",
+      "url": "https://open.spotify.com/track/4qqXOVqbU9WS2FJELqjxkT"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43906,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/0IKB0sdYNfXIvoxKWlh05D"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 43906,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/4sHX6AmqHCxu2DKlv4YxnS"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68680,
+      "name": "Companiero",
+      "url": "https://open.spotify.com/track/4P5fV7NVNeX9y4Z22K29va"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 68680,
+      "name": "Companiero",
+      "url": "https://open.spotify.com/track/54SeI4jOvwj8BzW3wJnRLK"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 51186,
+      "name": "Daughter",
+      "url": "https://open.spotify.com/track/0LbbOVdlWGoaTgnAiUHzAQ"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51186,
+      "name": "Daughter",
+      "url": "https://open.spotify.com/track/1o7ss7NXK6sFQ5hHrg5LWo"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114000,
+      "name": "Eavesdrop",
+      "url": "https://open.spotify.com/track/2lFxdoyIgacLzTc5lTZaNV"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 114000,
+      "name": "Eavesdrop",
+      "url": "https://open.spotify.com/track/3m9W5TIe2EyqAofv0szXAm"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 53693,
+      "name": "End Up Where",
+      "url": "https://open.spotify.com/track/07dwB1cXputGlFw6VSmy7V"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53693,
+      "name": "End Up Where",
+      "url": "https://open.spotify.com/track/0rKr9ET8l2vZSf1GV5N9WS"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168413,
+      "name": "Family Trip",
+      "url": "https://open.spotify.com/track/3qgEqKt23APkQn3h74tdj5"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 168413,
+      "name": "Family Trip",
+      "url": "https://open.spotify.com/track/5G3Wy1IZklGgDdgEnEQ0zM"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74133,
+      "name": "Fleeing From the Past",
+      "url": "https://open.spotify.com/track/0VKcqi568dOg5xupo7nVzX"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 74133,
+      "name": "Fleeing From The Past",
+      "url": "https://open.spotify.com/track/11CrxplDN6MIphXYBmre8q"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121426,
+      "name": "Follow the Dot",
+      "url": "https://open.spotify.com/track/68x9drlczIcwxy0UqSTWYK"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 121426,
+      "name": "Follow The Dot",
+      "url": "https://open.spotify.com/track/6wMMPl6O9jx48IRv2rN7HT"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328933,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/4U324aaav8HaNNOHQoQ2hj"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 328933,
+      "name": "Forgiven",
+      "url": "https://open.spotify.com/track/56EPrVcx6xbsHcUQzIN6p4"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "From Afar",
+      "url": "https://open.spotify.com/track/66ixyDYaVBTqZTKghQzKjc"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 226066,
+      "name": "From Afar",
+      "url": "https://open.spotify.com/track/7bk1M5jeNw2marajY1PEGT"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 148720,
+      "name": "In The Beginning Was Rain",
+      "url": "https://open.spotify.com/track/6ltmTqtSTLC2h1oBmjxdGW"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "In The Beginning Was Rain",
+      "url": "https://open.spotify.com/track/7y1Igrzzq5nwJSEoFFkYuS"
+    },
+    {
+      "album": {
+        "name": "Audio Liner - Jung Jae Il",
+        "url": "https://open.spotify.com/album/3YN91OIiII9YSO9zh8vUk3"
+      },
+      "artists": [
+        {
+          "name": "Jung Jae Il",
+          "url": "https://open.spotify.com/artist/6H254DhyRvYsGdRz9tTsHa"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23456,
+      "name": "Message from Jung Jae Il",
+      "url": "https://open.spotify.com/track/3fY6Vvug3ipzNXaTAuo1ab"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120133,
+      "name": "Old Pal",
+      "url": "https://open.spotify.com/track/1LlAixTnZZEyq1BFHH7sMy"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 120133,
+      "name": "Old Pal",
+      "url": "https://open.spotify.com/track/4ddZT1QRWPCF60HQSwLBIm"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 77960,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/1KcCtHdZYceK7NomUeHdlH"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77960,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/1xcy2SRnKyhHt7jNWthFK5"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 69626,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/0CGJzfZRqclXO8cUJeCZU6"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69626,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/3OWR4yEhzEkR1vuSf101xl"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 61693,
+      "name": "Saddle The Wind",
+      "url": "https://open.spotify.com/track/4bMGyyyCxzo1La63txPrAn"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61693,
+      "name": "Saddle the Wind",
+      "url": "https://open.spotify.com/track/5QzUOwrWDdn42EhXHKcWJa"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43186,
+      "name": "See You When I See You",
+      "url": "https://open.spotify.com/track/3SAUTXs424L3xaYODfS7xS"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 43186,
+      "name": "See You When I See You",
+      "url": "https://open.spotify.com/track/4QCGlNnDJAXJdTDHw2ixb9"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105706,
+      "name": "Staircases",
+      "url": "https://open.spotify.com/track/2mjO5LcLtrklQ7aQCSciUg"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 105706,
+      "name": "Staircases",
+      "url": "https://open.spotify.com/track/7hI5asPsgmZOTa53Jffvp0"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103560,
+      "name": "Suspended Step",
+      "url": "https://open.spotify.com/track/5wpRIkcxQPV4ITy9VUxW3W"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49400,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/58OSocZTLzjc24hF31csDz"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38480,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0brGZ0l0rwNZgGo7HHjj2N"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295293,
+      "name": "To Be a Bird",
+      "url": "https://open.spotify.com/track/4XmDAEaBCJXz09e0OogXoG"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 295293,
+      "name": "To Be A Bird",
+      "url": "https://open.spotify.com/track/4e3SrVo3O3fAb1nKJIq7LN"
+    },
+    {
+      "album": {
+        "name": "BROKER",
+        "url": "https://open.spotify.com/album/0srjvvUSnk0KY9XmtfjK08"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 125533,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/06BTp2Oi4JTVVuwN2K4C7y"
+    },
+    {
+      "album": {
+        "name": "Broker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Lz4m6rLilZB0iruHd50uo"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/5KNk7pUqW70iv1AC4obcmU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5ZabZ8cxclR"
 }

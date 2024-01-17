@@ -1,674 +1,843 @@
 {
-  "2022-02-24": 18128,
-  "2022-02-25": 18135,
-  "2022-02-26": 18147,
-  "2022-02-27": 18171,
-  "2022-02-28": 18171,
-  "2022-03-01": 18177,
-  "2022-03-02": 18187,
-  "2022-03-03": 18191,
-  "2022-03-04": 18196,
-  "2022-03-05": 18201,
-  "2022-03-06": 18207,
-  "2022-03-07": 18219,
-  "2022-03-08": 18222,
-  "2022-03-09": 18238,
-  "2022-03-10": 18251,
-  "2022-03-11": 18253,
-  "2022-03-12": 18261,
-  "2022-03-13": 18269,
-  "2022-03-14": 18281,
-  "2022-03-15": 18301,
-  "2022-03-16": 18308,
-  "2022-03-17": 18312,
-  "2022-03-18": 18321,
-  "2022-03-19": 18332,
-  "2022-03-20": 18332,
-  "2022-03-21": 18350,
-  "2022-03-22": 18358,
-  "2022-03-23": 18367,
-  "2022-03-24": 18375,
-  "2022-03-25": 18376,
-  "2022-03-26": 18382,
-  "2022-03-27": 18393,
-  "2022-03-28": 18398,
-  "2022-03-30": 18416,
-  "2022-03-31": 18427,
-  "2022-04-01": 18433,
-  "2022-04-02": 18443,
-  "2022-04-03": 18455,
-  "2022-04-04": 18462,
-  "2022-04-05": 18471,
-  "2022-04-06": 18481,
-  "2022-04-07": 18492,
-  "2022-04-08": 18503,
-  "2022-04-09": 18513,
-  "2022-04-10": 18536,
-  "2022-04-11": 18545,
-  "2022-04-12": 18546,
-  "2022-04-13": 18554,
-  "2022-04-14": 18562,
-  "2022-04-15": 18574,
-  "2022-04-16": 18588,
-  "2022-04-17": 18597,
-  "2022-04-18": 18606,
-  "2022-04-19": 18610,
-  "2022-04-20": 18617,
-  "2022-04-21": 18620,
-  "2022-04-22": 18625,
-  "2022-04-23": 18636,
-  "2022-04-24": 18650,
-  "2022-04-25": 18657,
-  "2022-04-26": 18661,
-  "2022-04-27": 18677,
-  "2022-04-28": 18689,
-  "2022-04-29": 18698,
-  "2022-04-30": 18710,
-  "2022-05-01": 18731,
-  "2022-05-02": 18731,
-  "2022-05-03": 18750,
-  "2022-05-04": 18755,
-  "2022-05-05": 18759,
-  "2022-05-06": 18769,
-  "2022-05-07": 18776,
-  "2022-05-08": 18787,
-  "2022-05-09": 18789,
-  "2022-05-10": 18796,
-  "2022-05-11": 18799,
-  "2022-05-12": 18802,
-  "2022-05-13": 18807,
-  "2022-05-14": 18811,
-  "2022-05-15": 18823,
-  "2022-05-16": 18827,
-  "2022-05-17": 18827,
-  "2022-05-18": 18830,
-  "2022-05-19": 18831,
-  "2022-05-20": 18843,
-  "2022-05-21": 18846,
-  "2022-05-22": 18846,
-  "2022-05-23": 18848,
-  "2022-05-24": 18855,
-  "2022-05-25": 18858,
-  "2022-05-26": 18864,
-  "2022-05-27": 18868,
-  "2022-05-28": 18877,
-  "2022-05-29": 18887,
-  "2022-05-30": 18895,
-  "2022-05-31": 18897,
-  "2022-06-01": 18903,
-  "2022-06-02": 18903,
-  "2022-06-03": 18904,
-  "2022-06-04": 18913,
-  "2022-06-05": 18920,
-  "2022-06-06": 18926,
-  "2022-06-07": 18928,
-  "2022-06-08": 18935,
-  "2022-06-09": 18941,
-  "2022-06-10": 18943,
-  "2022-06-11": 18945,
-  "2022-06-12": 18950,
-  "2022-06-13": 18953,
-  "2022-06-14": 18958,
-  "2022-06-15": 18961,
-  "2022-06-16": 18967,
-  "2022-06-17": 18969,
-  "2022-06-18": 18976,
-  "2022-06-19": 18991,
-  "2022-06-20": 18991,
-  "2022-06-21": 18993,
-  "2022-06-22": 18996,
-  "2022-06-23": 18996,
-  "2022-06-24": 19003,
-  "2022-06-25": 19017,
-  "2022-06-26": 19029,
-  "2022-06-27": 19029,
-  "2022-06-28": 19038,
-  "2022-06-29": 19046,
-  "2022-06-30": 19051,
-  "2022-07-01": 19059,
-  "2022-07-02": 19067,
-  "2022-07-03": 19073,
-  "2022-07-04": 19079,
-  "2022-07-05": 19081,
-  "2022-07-06": 19086,
-  "2022-07-07": 19089,
-  "2022-07-08": 19094,
-  "2022-07-09": 19099,
-  "2022-07-10": 19104,
-  "2022-07-11": 19107,
-  "2022-07-12": 19116,
-  "2022-07-13": 19124,
-  "2022-07-14": 19130,
-  "2022-07-15": 19138,
-  "2022-07-16": 19140,
-  "2022-07-17": 19141,
-  "2022-07-18": 19148,
-  "2022-07-19": 19155,
-  "2022-07-20": 19164,
-  "2022-07-21": 19171,
-  "2022-07-22": 19176,
-  "2022-07-23": 19181,
-  "2022-07-24": 19188,
-  "2022-07-25": 19195,
-  "2022-07-26": 19203,
-  "2022-07-27": 19208,
-  "2022-07-28": 19215,
-  "2022-07-29": 19219,
-  "2022-07-30": 19236,
-  "2022-07-31": 19236,
-  "2022-08-01": 19239,
-  "2022-08-02": 19247,
-  "2022-08-03": 19247,
-  "2022-08-04": 19250,
-  "2022-08-05": 19251,
-  "2022-08-06": 19257,
-  "2022-08-07": 19260,
-  "2022-08-08": 19267,
-  "2022-08-09": 19271,
-  "2022-08-10": 19272,
-  "2022-08-11": 19280,
-  "2022-08-12": 19285,
-  "2022-08-13": 19296,
-  "2022-08-14": 19305,
-  "2022-08-15": 19313,
-  "2022-08-16": 19319,
-  "2022-08-17": 19329,
-  "2022-08-18": 19334,
-  "2022-08-19": 19341,
-  "2022-08-20": 19347,
-  "2022-08-21": 19353,
-  "2022-08-22": 19360,
-  "2022-08-23": 19362,
-  "2022-08-24": 19365,
-  "2022-08-25": 19374,
-  "2022-08-26": 19383,
-  "2022-08-27": 19388,
-  "2022-08-28": 19390,
-  "2022-08-29": 19392,
-  "2022-08-30": 19397,
-  "2022-08-31": 19399,
-  "2022-09-01": 19406,
-  "2022-09-02": 19409,
-  "2022-09-03": 19416,
-  "2022-09-04": 19420,
-  "2022-09-05": 19424,
-  "2022-09-06": 19435,
-  "2022-09-07": 19434,
-  "2022-09-09": 19442,
-  "2022-09-10": 19448,
-  "2022-09-11": 19453,
-  "2022-09-12": 19462,
-  "2022-09-13": 19466,
-  "2022-09-15": 19476,
-  "2022-09-16": 19477,
-  "2022-09-17": 19478,
-  "2022-09-18": 19481,
-  "2022-09-19": 19484,
-  "2022-09-20": 19484,
-  "2022-09-21": 19489,
-  "2022-09-22": 19491,
-  "2022-09-23": 19492,
-  "2022-09-24": 19497,
-  "2022-09-25": 19505,
-  "2022-09-26": 19508,
-  "2022-09-27": 19508,
-  "2022-09-28": 19508,
-  "2022-09-29": 19508,
-  "2022-09-30": 19508,
-  "2022-10-01": 19508,
-  "2022-10-02": 19508,
-  "2022-10-03": 19508,
-  "2022-10-04": 19508,
-  "2022-10-05": 19508,
-  "2022-10-06": 19508,
-  "2022-10-07": 19508,
-  "2022-10-08": 19508,
-  "2022-10-09": 19508,
-  "2022-10-10": 19508,
-  "2022-10-11": 19508,
-  "2022-10-12": 19508,
-  "2022-10-13": 19508,
-  "2022-10-14": 19508,
-  "2022-10-15": 19508,
-  "2022-10-16": 19508,
-  "2022-10-17": 19508,
-  "2022-10-18": 19508,
-  "2022-10-19": 19508,
-  "2022-10-20": 19508,
-  "2022-10-21": 19508,
-  "2022-10-22": 19508,
-  "2022-10-23": 19508,
-  "2022-10-24": 19508,
-  "2022-10-25": 19508,
-  "2022-10-26": 19508,
-  "2022-10-27": 19508,
-  "2022-10-28": 19508,
-  "2022-10-29": 19508,
-  "2022-10-30": 19508,
-  "2022-10-31": 19508,
-  "2022-11-01": 19508,
-  "2022-11-02": 19508,
-  "2022-11-03": 19508,
-  "2022-11-04": 19508,
-  "2022-11-05": 19508,
-  "2022-11-06": 19508,
-  "2022-11-07": 19508,
-  "2022-11-08": 19508,
-  "2022-11-09": 19508,
-  "2022-11-10": 19508,
-  "2022-11-11": 19508,
-  "2022-11-12": 19508,
-  "2022-11-13": 19508,
-  "2022-11-14": 19508,
-  "2022-11-15": 19508,
-  "2022-11-16": 19508,
-  "2022-11-17": 19508,
-  "2022-11-18": 19508,
-  "2022-11-19": 19508,
-  "2022-11-20": 19508,
-  "2022-11-21": 19508,
-  "2022-11-22": 19508,
-  "2022-11-23": 19508,
-  "2022-11-24": 19508,
-  "2022-11-25": 19508,
-  "2022-11-26": 19508,
-  "2022-11-27": 19508,
-  "2022-11-28": 19508,
-  "2022-11-29": 19508,
-  "2022-11-30": 19508,
-  "2022-12-01": 19508,
-  "2022-12-02": 19508,
-  "2022-12-03": 19508,
-  "2022-12-04": 19508,
-  "2022-12-05": 19508,
-  "2022-12-06": 19508,
-  "2022-12-07": 19508,
-  "2022-12-08": 19508,
-  "2022-12-09": 19508,
-  "2022-12-10": 19508,
-  "2022-12-11": 19508,
-  "2022-12-12": 19508,
-  "2022-12-13": 19508,
-  "2022-12-14": 19508,
-  "2022-12-15": 19508,
-  "2022-12-16": 19508,
-  "2022-12-17": 19508,
-  "2022-12-18": 19508,
-  "2022-12-19": 19508,
-  "2022-12-20": 19508,
-  "2022-12-21": 19508,
-  "2022-12-22": 19508,
-  "2022-12-24": 19508,
-  "2022-12-25": 19508,
-  "2022-12-26": 19508,
-  "2022-12-27": 19508,
-  "2022-12-28": 19508,
-  "2022-12-29": 19508,
-  "2022-12-30": 19508,
-  "2022-12-31": 19508,
-  "2023-01-01": 19508,
-  "2023-01-02": 19508,
-  "2023-01-03": 19508,
-  "2023-01-04": 19508,
-  "2023-01-05": 19508,
-  "2023-01-06": 19508,
-  "2023-01-07": 19508,
-  "2023-01-08": 19508,
-  "2023-01-09": 19508,
-  "2023-01-10": 19508,
-  "2023-01-11": 19508,
-  "2023-01-12": 19508,
-  "2023-01-13": 19508,
-  "2023-01-14": 19508,
-  "2023-01-15": 19508,
-  "2023-01-16": 19508,
-  "2023-01-17": 19508,
-  "2023-01-18": 19508,
-  "2023-01-19": 19508,
-  "2023-01-20": 19508,
-  "2023-01-21": 19508,
-  "2023-01-22": 19508,
-  "2023-01-23": 19508,
-  "2023-01-24": 19508,
-  "2023-01-25": 19508,
-  "2023-01-26": 19508,
-  "2023-01-27": 19508,
-  "2023-01-28": 19508,
-  "2023-01-29": 19508,
-  "2023-01-30": 19508,
-  "2023-01-31": 19508,
-  "2023-02-01": 19508,
-  "2023-02-02": 19508,
-  "2023-02-03": 19508,
-  "2023-02-04": 19508,
-  "2023-02-05": 19508,
-  "2023-02-06": 19508,
-  "2023-02-07": 19508,
-  "2023-02-08": 19508,
-  "2023-02-09": 19508,
-  "2023-02-10": 19508,
-  "2023-02-11": 19508,
-  "2023-02-12": 19508,
-  "2023-02-13": 19508,
-  "2023-02-14": 19508,
-  "2023-02-15": 19508,
-  "2023-02-16": 19508,
-  "2023-02-17": 19508,
-  "2023-02-18": 19508,
-  "2023-02-19": 19508,
-  "2023-02-20": 19508,
-  "2023-02-21": 19508,
-  "2023-02-22": 19508,
-  "2023-02-23": 19508,
-  "2023-02-24": 19508,
-  "2023-02-25": 19508,
-  "2023-02-26": 19508,
-  "2023-02-27": 19508,
-  "2023-02-28": 19508,
-  "2023-03-01": 19508,
-  "2023-03-02": 19508,
-  "2023-03-03": 19508,
-  "2023-03-04": 19508,
-  "2023-03-05": 19508,
-  "2023-03-06": 19508,
-  "2023-03-07": 19508,
-  "2023-03-08": 19508,
-  "2023-03-09": 19508,
-  "2023-03-10": 19508,
-  "2023-03-11": 19508,
-  "2023-03-12": 19508,
-  "2023-03-13": 19508,
-  "2023-03-14": 19508,
-  "2023-03-15": 19508,
-  "2023-03-16": 19508,
-  "2023-03-17": 19508,
-  "2023-03-18": 19508,
-  "2023-03-19": 19508,
-  "2023-03-20": 19508,
-  "2023-03-21": 19508,
-  "2023-03-22": 19508,
-  "2023-03-23": 19508,
-  "2023-03-24": 19508,
-  "2023-03-25": 19508,
-  "2023-03-26": 19508,
-  "2023-03-27": 19508,
-  "2023-03-28": 19508,
-  "2023-03-29": 19508,
-  "2023-03-30": 19508,
-  "2023-03-31": 19508,
-  "2023-04-01": 19508,
-  "2023-04-02": 19508,
-  "2023-04-03": 19508,
-  "2023-04-04": 19508,
-  "2023-04-05": 19508,
-  "2023-04-06": 19508,
-  "2023-04-07": 19508,
-  "2023-04-09": 19508,
-  "2023-04-10": 19508,
-  "2023-04-11": 19508,
-  "2023-04-12": 19508,
-  "2023-04-13": 19508,
-  "2023-04-14": 19508,
-  "2023-04-15": 19508,
-  "2023-04-16": 19508,
-  "2023-04-17": 19508,
-  "2023-04-18": 19508,
-  "2023-04-19": 19508,
-  "2023-04-20": 19508,
-  "2023-04-21": 19508,
-  "2023-04-22": 19508,
-  "2023-04-23": 19508,
-  "2023-04-24": 19508,
-  "2023-04-25": 19508,
-  "2023-04-26": 19508,
-  "2023-04-27": 19508,
-  "2023-04-28": 19508,
-  "2023-04-29": 19508,
-  "2023-04-30": 19508,
-  "2023-05-01": 19508,
-  "2023-05-02": 19508,
-  "2023-05-03": 19508,
-  "2023-05-04": 19508,
-  "2023-05-05": 19508,
-  "2023-05-06": 19508,
-  "2023-05-07": 19508,
-  "2023-05-08": 19508,
-  "2023-05-09": 19508,
-  "2023-05-10": 19508,
-  "2023-05-11": 19508,
-  "2023-05-12": 19508,
-  "2023-05-13": 19508,
-  "2023-05-14": 19508,
-  "2023-05-15": 19508,
-  "2023-05-16": 19508,
-  "2023-05-17": 19508,
-  "2023-05-18": 19508,
-  "2023-05-19": 19508,
-  "2023-05-20": 19508,
-  "2023-05-21": 19508,
-  "2023-05-22": 19508,
-  "2023-05-23": 19508,
-  "2023-05-24": 19508,
-  "2023-05-25": 19508,
-  "2023-05-26": 19508,
-  "2023-05-27": 19508,
-  "2023-05-28": 19508,
-  "2023-05-29": 19508,
-  "2023-05-30": 19508,
-  "2023-05-31": 19508,
-  "2023-06-01": 19508,
-  "2023-06-02": 19508,
-  "2023-06-03": 19508,
-  "2023-06-04": 19508,
-  "2023-06-05": 19508,
-  "2023-06-06": 19508,
-  "2023-06-07": 19508,
-  "2023-06-08": 19508,
-  "2023-06-09": 19508,
-  "2023-06-10": 19508,
-  "2023-06-11": 19508,
-  "2023-06-12": 19508,
-  "2023-06-13": 19508,
-  "2023-06-14": 19508,
-  "2023-06-15": 19508,
-  "2023-06-16": 19508,
-  "2023-06-17": 19508,
-  "2023-06-18": 19508,
-  "2023-06-19": 19508,
-  "2023-06-20": 19508,
-  "2023-06-21": 19508,
-  "2023-06-22": 19508,
-  "2023-06-23": 19508,
-  "2023-06-24": 19508,
-  "2023-06-25": 19508,
-  "2023-06-26": 19508,
-  "2023-06-27": 19508,
-  "2023-06-28": 19508,
-  "2023-06-29": 19508,
-  "2023-06-30": 19508,
-  "2023-07-01": 19508,
-  "2023-07-02": 19508,
-  "2023-07-03": 19508,
-  "2023-07-04": 19508,
-  "2023-07-05": 19508,
-  "2023-07-06": 19508,
-  "2023-07-07": 19508,
-  "2023-07-08": 19508,
-  "2023-07-09": 19508,
-  "2023-07-10": 19508,
-  "2023-07-11": 19508,
-  "2023-07-12": 19508,
-  "2023-07-13": 19508,
-  "2023-07-14": 19508,
-  "2023-07-15": 19508,
-  "2023-07-16": 19508,
-  "2023-07-17": 19508,
-  "2023-07-18": 19508,
-  "2023-07-19": 19508,
-  "2023-07-20": 19508,
-  "2023-07-21": 19508,
-  "2023-07-22": 19508,
-  "2023-07-23": 19508,
-  "2023-07-24": 19508,
-  "2023-07-25": 19508,
-  "2023-07-26": 19508,
-  "2023-07-27": 19508,
-  "2023-07-28": 19508,
-  "2023-07-29": 19508,
-  "2023-07-30": 19508,
-  "2023-07-31": 19508,
-  "2023-08-01": 19508,
-  "2023-08-02": 19508,
-  "2023-08-03": 19508,
-  "2023-08-04": 19508,
-  "2023-08-05": 19508,
-  "2023-08-06": 19508,
-  "2023-08-07": 19508,
-  "2023-08-08": 19508,
-  "2023-08-09": 19508,
-  "2023-08-10": 19508,
-  "2023-08-11": 19508,
-  "2023-08-12": 19508,
-  "2023-08-13": 19508,
-  "2023-08-14": 19508,
-  "2023-08-15": 19508,
-  "2023-08-16": 19508,
-  "2023-08-17": 19508,
-  "2023-08-18": 19508,
-  "2023-08-19": 19508,
-  "2023-08-20": 19508,
-  "2023-08-21": 19508,
-  "2023-08-22": 19508,
-  "2023-08-23": 19508,
-  "2023-08-24": 19508,
-  "2023-08-25": 19508,
-  "2023-08-26": 19508,
-  "2023-08-27": 19508,
-  "2023-08-28": 19508,
-  "2023-08-29": 19508,
-  "2023-08-30": 19508,
-  "2023-08-31": 19508,
-  "2023-09-01": 19508,
-  "2023-09-02": 19508,
-  "2023-09-03": 19508,
-  "2023-09-04": 19508,
-  "2023-09-05": 19508,
-  "2023-09-06": 19508,
-  "2023-09-07": 19508,
-  "2023-09-08": 19508,
-  "2023-09-09": 19508,
-  "2023-09-10": 19508,
-  "2023-09-11": 19508,
-  "2023-09-12": 19508,
-  "2023-09-13": 19508,
-  "2023-09-14": 19508,
-  "2023-09-15": 19508,
-  "2023-09-16": 19508,
-  "2023-09-17": 19508,
-  "2023-09-18": 19508,
-  "2023-09-19": 19508,
-  "2023-09-20": 19508,
-  "2023-09-21": 19508,
-  "2023-09-22": 19508,
-  "2023-09-23": 19508,
-  "2023-09-24": 19508,
-  "2023-09-25": 19508,
-  "2023-09-26": 19508,
-  "2023-09-27": 19508,
-  "2023-09-28": 19508,
-  "2023-09-29": 19508,
-  "2023-09-30": 19508,
-  "2023-10-01": 19508,
-  "2023-10-02": 19508,
-  "2023-10-03": 19508,
-  "2023-10-04": 19508,
-  "2023-10-05": 19508,
-  "2023-10-06": 19508,
-  "2023-10-07": 19508,
-  "2023-10-08": 19508,
-  "2023-10-09": 19508,
-  "2023-10-10": 19508,
-  "2023-10-11": 19508,
-  "2023-10-12": 19508,
-  "2023-10-13": 19508,
-  "2023-10-14": 19508,
-  "2023-10-15": 19508,
-  "2023-10-16": 19508,
-  "2023-10-17": 19508,
-  "2023-10-18": 19508,
-  "2023-10-19": 19508,
-  "2023-10-20": 19508,
-  "2023-10-21": 19508,
-  "2023-10-22": 19508,
-  "2023-10-23": 19508,
-  "2023-10-24": 19508,
-  "2023-10-25": 19508,
-  "2023-10-26": 19508,
-  "2023-10-27": 19508,
-  "2023-10-28": 19508,
-  "2023-10-29": 19508,
-  "2023-10-30": 19508,
-  "2023-10-31": 19508,
-  "2023-11-01": 19508,
-  "2023-11-02": 19508,
-  "2023-11-03": 19508,
-  "2023-11-04": 19508,
-  "2023-11-05": 19508,
-  "2023-11-06": 19508,
-  "2023-11-07": 19508,
-  "2023-11-08": 19508,
-  "2023-11-09": 19508,
-  "2023-11-10": 19508,
-  "2023-11-11": 19508,
-  "2023-11-12": 19508,
-  "2023-11-13": 19508,
-  "2023-11-14": 19508,
-  "2023-11-15": 19508,
-  "2023-11-16": 19508,
-  "2023-11-17": 19508,
-  "2023-11-18": 19508,
-  "2023-11-19": 19508,
-  "2023-11-20": 19508,
-  "2023-11-21": 19508,
-  "2023-11-22": 19508,
-  "2023-11-23": 19508,
-  "2023-11-24": 19508,
-  "2023-11-25": 19508,
-  "2023-11-26": 19508,
-  "2023-11-27": 19508,
-  "2023-11-28": 19508,
-  "2023-11-29": 19508,
-  "2023-11-30": 19508,
-  "2023-12-01": 19508,
-  "2023-12-02": 19508,
-  "2023-12-03": 19508,
-  "2023-12-04": 19508,
-  "2023-12-05": 19508,
-  "2023-12-06": 19508,
-  "2023-12-07": 19508,
-  "2023-12-08": 19508,
-  "2023-12-09": 19508,
-  "2023-12-10": 19508,
-  "2023-12-11": 19508,
-  "2023-12-12": 19508,
-  "2023-12-13": 19508,
-  "2023-12-14": 19508,
-  "2023-12-15": 19508,
-  "2023-12-16": 19508,
-  "2023-12-17": 19508,
-  "2023-12-18": 19508,
-  "2023-12-19": 19508,
-  "2023-12-20": 19508,
-  "2023-12-21": 19508,
-  "2023-12-22": 19508,
-  "2023-12-23": 19508,
-  "2023-12-24": 19508,
-  "2023-12-25": 19508,
-  "2023-12-26": 19508,
-  "2023-12-27": 19508,
-  "2023-12-30": 19508,
-  "2023-12-31": 19508,
-  "2024-01-01": 19508,
-  "2024-01-02": 19508,
-  "2024-01-03": 19508
+  "2024-01-17": 19508,
+  "date_first_scraped": "2022-02-24",
+  "description": "Brought to you by <a href=\"spotify:artist:2cADQgiLMjNhbsfeN52Bf3\">Swizz Beatz</a> and <a href=\"spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ\">Timbaland</a>.",
+  "name": "Verzuz: 112 vs. Jagged Edge",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Cried Out EP",
+        "url": "https://open.spotify.com/album/3Qw0UJD0P5Kbof20UGCCNy"
+      },
+      "artists": [
+        {
+          "name": "Allure",
+          "url": "https://open.spotify.com/artist/1VPr8y4GGZJBtWyaoLdYUT"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "All Cried Out (feat. 112) - Edit",
+      "url": "https://open.spotify.com/track/3Vqi9EyGo1G38Klj6vt4bM"
+    },
+    {
+      "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Lil' Zane",
+          "url": "https://open.spotify.com/artist/61mwtI8FCpYa9G2NuThRhI"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244415,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/0Zze3tFRSNwL6KllmYjLgZ"
+    },
+    {
+      "album": {
+        "name": "Q Mike Slim Daron",
+        "url": "https://open.spotify.com/album/6rN35Bxpfrcu0eVn3WYilF"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219174,
+      "name": "Both Of Us (feat. Jagged Edge)",
+      "url": "https://open.spotify.com/track/71l9pkTlLtP7eCfnVoxC1Z"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304573,
+      "name": "Can I Touch You",
+      "url": "https://open.spotify.com/track/7DVeWlH6Dt4B03mZf1O7ni"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265760,
+      "name": "Come See Me",
+      "url": "https://open.spotify.com/track/0uuu6GPfF36MPr6SKMHvuF"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252266,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
+    },
+    {
+      "album": {
+        "name": "R&B Hits",
+        "url": "https://open.spotify.com/album/5Bp5PZqYJ9tiz0Hf6lOD5Q"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Beanie Sigel",
+          "url": "https://open.spotify.com/artist/0tCtGc5vt29zFZp6KXzN50"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295226,
+      "name": "Dance With Me (feat. Beanie Sigel) - Remix",
+      "url": "https://open.spotify.com/track/06EmqZJolHpHSwNKLHVmqB"
+    },
+    {
+      "album": {
+        "name": "Nivea",
+        "url": "https://open.spotify.com/album/6tXzTKfHd9fR1OPsvstxVt"
+      },
+      "artists": [
+        {
+          "name": "Nivea",
+          "url": "https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN"
+        },
+        {
+          "name": "Brian Casey",
+          "url": "https://open.spotify.com/artist/1Zgn8DDi8ema6uKufbQOdG"
+        },
+        {
+          "name": "Brandon Casey",
+          "url": "https://open.spotify.com/artist/6pw5ePxlLPN87ikxsFHsvZ"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213226,
+      "name": "Don't Mess With My Man (feat. Brian Casey & Brandon Casey)",
+      "url": "https://open.spotify.com/track/39YovPslPCXbFYhlYjsZ2Y"
+    },
+    {
+      "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "Girl It's Over",
+      "url": "https://open.spotify.com/track/4EQIq1j1tAmK5y66a8qWtm"
+    },
+    {
+      "album": {
+        "name": "Jagged Edge",
+        "url": "https://open.spotify.com/album/2GqAV0eTWlifSFIoHOnUME"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264640,
+      "name": "Good Luck Charm",
+      "url": "https://open.spotify.com/track/0rJBJ4K6uNeDg1rGVyi0Tp"
+    },
+    {
+      "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273226,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3PcocqQL1Qn6LtUxjSlk4R"
+    },
+    {
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261079,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/4u5T8SVKuAHqbu9tBzVPNm"
+    },
+    {
+      "album": {
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244053,
+      "name": "He Can't Love U",
+      "url": "https://open.spotify.com/track/3VEZvzr84WVnoorZ4tlBSw"
+    },
+    {
+      "album": {
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222546,
+      "name": "Healing",
+      "url": "https://open.spotify.com/track/5eOUKWk8zeaEg0pJE2sldI"
+    },
+    {
+      "album": {
+        "name": "Infamy",
+        "url": "https://open.spotify.com/album/2hSnMHuLYfpp8hvdpZRjAk"
+      },
+      "artists": [
+        {
+          "name": "Mobb Deep",
+          "url": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242093,
+      "name": "Hey Luv (Anything) (feat. 112)",
+      "url": "https://open.spotify.com/track/6IdK1E8oLtVNdPPH9Np6he"
+    },
+    {
+      "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "I Gotta Be",
+      "url": "https://open.spotify.com/track/5nS5mDWAyce9gjD8crHcZX"
+    },
+    {
+      "album": {
+        "name": "No Way Out (2014 Remaster)",
+        "url": "https://open.spotify.com/album/33hEDxsIVGf7R6wRdZBQOw"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz"
+    },
+    {
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264933,
+      "name": "It's Over Now",
+      "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+    },
+    {
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/72phYQZz7SLAT9xwK6LMO6"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "RUN",
+          "url": "https://open.spotify.com/artist/2qFXvV0t7QXlF7Tdc9YTie"
+        },
+        {
+          "name": "Lamarquis Jefferson",
+          "url": "https://open.spotify.com/artist/6eZD2i7kAelKt5z1ytH0Me"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249040,
+      "name": "Let's Get Married (feat. Run) - ReMarqable Remix",
+      "url": "https://open.spotify.com/track/18CODOzJ5DWzWh6kAeKiSC"
+    },
+    {
+      "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257333,
+      "name": "Love Me (feat. Mase)",
+      "url": "https://open.spotify.com/track/4uI5xNUdEupLKskfQnfx3o"
+    },
+    {
+      "album": {
+        "name": "Room 112",
+        "url": "https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258733,
+      "name": "Love You Like I Did",
+      "url": "https://open.spotify.com/track/4za4hwET81Hncno04XQKAa"
+    },
+    {
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Miss U - 2014 Remaster",
+      "url": "https://open.spotify.com/track/612lE4c57zWDOqeWca1Pmf"
+    },
+    {
+      "album": {
+        "name": "Duets: The Final Chapter",
+        "url": "https://open.spotify.com/album/2M6rjUsC2T3KJ8Ku2uTTQG"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Avery Storm",
+          "url": "https://open.spotify.com/artist/79OSA519ScnPY0MVDpu8ZV"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286186,
+      "name": "Nasty Girl (feat. Diddy, Nelly, Jagged Edge & Avery Storm) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4GIsskMpViPkt0uzPJTJSp"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309506,
+      "name": "Now That We're Done",
+      "url": "https://open.spotify.com/track/6JUTn2qBWaQFylVZgwp2mH"
+    },
+    {
+      "album": {
+        "name": "112",
+        "url": "https://open.spotify.com/album/5lSLGYViKHz22S8gEXz9Vc"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        },
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "Only You (feat. The Notorious B.I.G.) - Radio Mix",
+      "url": "https://open.spotify.com/track/7jg3Irt0hqnss3HvaPP2D2"
+    },
+    {
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193093,
+      "name": "Peaches & Cream",
+      "url": "https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7"
+    },
+    {
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283893,
+      "name": "Player",
+      "url": "https://open.spotify.com/track/5ZEyR4PSJyIWAK5ihkI21u"
+    },
+    {
+      "album": {
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246720,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD"
+    },
+    {
+      "album": {
+        "name": "So So Def presents: Definition of a Remix feat. Jermaine Dupri and Jagged Edge (This Is The Remix) (Explicit Version)",
+        "url": "https://open.spotify.com/album/38TZrkhZT3QGTl2VPFMcAn"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273600,
+      "name": "Promise (feat. Loon) - Cool JD Remix",
+      "url": "https://open.spotify.com/track/4iIzuqTpvDpo1VTzIyqZuK"
+    },
+    {
+      "album": {
+        "name": "Put A Little Umph In It",
+        "url": "https://open.spotify.com/album/5X0ijafyfFgd75wpobqPZx"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Put A Little Umph In It",
+      "url": "https://open.spotify.com/track/46aTTcwM3Q74TE4UogWBFT"
+    },
+    {
+      "album": {
+        "name": "Part III",
+        "url": "https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118200,
+      "name": "Q, Mike, Slim, Daron - Interlude",
+      "url": "https://open.spotify.com/track/3GuliNti6PIEJoqUoPp8Wl"
+    },
+    {
+      "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313666,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/6erUaewLXaLfppXcOviDjI"
+    },
+    {
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329426,
+      "name": "Sky's the Limit (feat. 112) - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0xdYzkbBBfTevSyOJqWUSX"
+    },
+    {
+      "album": {
+        "name": "Love's Crazy",
+        "url": "https://open.spotify.com/album/0z5RVnmXdr5bx73XeLcJYs"
+      },
+      "artists": [
+        {
+          "name": "Slim",
+          "url": "https://open.spotify.com/artist/33nrND6ODgesoa1Qmr5DbD"
+        },
+        {
+          "name": "Yung Joc",
+          "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212453,
+      "name": "So Fly (feat. Yung Joc)",
+      "url": "https://open.spotify.com/track/2wmBKUx62Px6my6U1mYw18"
+    },
+    {
+      "album": {
+        "name": "Street Dreams (Bonus Track)",
+        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Trade It All, Pt. 2 (feat. P. Diddy & Jagged Edge)",
+      "url": "https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU"
+    },
+    {
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
+    },
+    {
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270880,
+      "name": "Walked Outta Heaven",
+      "url": "https://open.spotify.com/track/06ZDLodo1UDVavc3MXREZ3"
+    },
+    {
+      "album": {
+        "name": "A Jagged Era",
+        "url": "https://open.spotify.com/album/71V8liHaRbtSZ2ZGkjcqZB"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271173,
+      "name": "Wednesday Lover",
+      "url": "https://open.spotify.com/track/2arYwvMEmqwnMWvOOASv5U"
+    },
+    {
+      "album": {
+        "name": "J.E. Heartbreak",
+        "url": "https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257253,
+      "name": "What You Tryin' To Do",
+      "url": "https://open.spotify.com/track/1agSO3iKOpk9TuYthowkCj"
+    },
+    {
+      "album": {
+        "name": "Hard",
+        "url": "https://open.spotify.com/album/6ZIfULvfXHqu6jcNm6vfSl"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "What's It Like",
+      "url": "https://open.spotify.com/track/5SKkOuJxufkWfkTFnwQvWO"
+    },
+    {
+      "album": {
+        "name": "Jagged Little Thrill",
+        "url": "https://open.spotify.com/album/2LFRjzwf61Y7CIl54Kiq8j"
+      },
+      "artists": [
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232573,
+      "name": "Where the Party At (feat. Nelly)",
+      "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6Mi3Mw1YGw5"
 }

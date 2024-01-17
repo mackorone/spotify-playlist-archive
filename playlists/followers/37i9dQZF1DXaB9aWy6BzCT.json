@@ -1,716 +1,1855 @@
 {
-  "2022-01-13": 71051,
-  "2022-01-14": 71370,
-  "2022-01-15": 71786,
-  "2022-01-16": 71800,
-  "2022-01-17": 72217,
-  "2022-01-18": 72238,
-  "2022-01-19": 72363,
-  "2022-01-20": 72559,
-  "2022-01-21": 72759,
-  "2022-01-22": 73001,
-  "2022-01-23": 73205,
-  "2022-01-24": 73401,
-  "2022-01-25": 73546,
-  "2022-01-26": 73736,
-  "2022-01-27": 73945,
-  "2022-01-28": 74110,
-  "2022-01-29": 74320,
-  "2022-01-30": 74540,
-  "2022-01-31": 74726,
-  "2022-02-01": 74915,
-  "2022-02-02": 75107,
-  "2022-02-03": 75324,
-  "2022-02-04": 75521,
-  "2022-02-05": 75725,
-  "2022-02-06": 75725,
-  "2022-02-07": 76093,
-  "2022-02-08": 76298,
-  "2022-02-09": 76520,
-  "2022-02-10": 76696,
-  "2022-02-11": 76889,
-  "2022-02-12": 77085,
-  "2022-02-13": 77249,
-  "2022-02-14": 77433,
-  "2022-02-15": 77575,
-  "2022-02-16": 77734,
-  "2022-02-17": 77940,
-  "2022-02-18": 78139,
-  "2022-02-19": 78327,
-  "2022-02-20": 78548,
-  "2022-02-21": 78717,
-  "2022-02-22": 78915,
-  "2022-02-23": 79089,
-  "2022-02-24": 79298,
-  "2022-02-25": 79418,
-  "2022-02-26": 79600,
-  "2022-02-27": 79960,
-  "2022-02-28": 79960,
-  "2022-03-01": 80114,
-  "2022-03-02": 80277,
-  "2022-03-03": 80439,
-  "2022-03-04": 80629,
-  "2022-03-05": 80810,
-  "2022-03-06": 80991,
-  "2022-03-07": 81179,
-  "2022-03-08": 81355,
-  "2022-03-09": 81532,
-  "2022-03-10": 81750,
-  "2022-03-11": 81942,
-  "2022-03-12": 82114,
-  "2022-03-13": 82297,
-  "2022-03-14": 82484,
-  "2022-03-15": 82640,
-  "2022-03-16": 82811,
-  "2022-03-17": 83000,
-  "2022-03-18": 83251,
-  "2022-03-19": 83396,
-  "2022-03-20": 83396,
-  "2022-03-21": 83826,
-  "2022-03-22": 84056,
-  "2022-03-23": 84393,
-  "2022-03-24": 84816,
-  "2022-03-25": 85249,
-  "2022-03-26": 85694,
-  "2022-03-27": 86111,
-  "2022-03-28": 86479,
-  "2022-03-30": 87113,
-  "2022-03-31": 87420,
-  "2022-04-01": 87742,
-  "2022-04-02": 88047,
-  "2022-04-03": 88370,
-  "2022-04-04": 88637,
-  "2022-04-05": 88902,
-  "2022-04-06": 89207,
-  "2022-04-07": 89509,
-  "2022-04-08": 89814,
-  "2022-04-09": 90134,
-  "2022-04-10": 90727,
-  "2022-04-11": 91020,
-  "2022-04-12": 91071,
-  "2022-04-13": 91348,
-  "2022-04-14": 91589,
-  "2022-04-15": 91892,
-  "2022-04-16": 92125,
-  "2022-04-17": 92351,
-  "2022-04-18": 92613,
-  "2022-04-19": 92791,
-  "2022-04-20": 93014,
-  "2022-04-21": 93225,
-  "2022-04-22": 93450,
-  "2022-04-23": 93665,
-  "2022-04-24": 93909,
-  "2022-04-25": 94106,
-  "2022-04-26": 94326,
-  "2022-04-27": 94626,
-  "2022-04-28": 94811,
-  "2022-04-29": 95182,
-  "2022-04-30": 95425,
-  "2022-05-01": 95673,
-  "2022-05-02": 95673,
-  "2022-05-03": 95905,
-  "2022-05-04": 96093,
-  "2022-05-05": 96301,
-  "2022-05-06": 96484,
-  "2022-05-07": 96705,
-  "2022-05-08": 96945,
-  "2022-05-09": 96979,
-  "2022-05-10": 97108,
-  "2022-05-11": 97267,
-  "2022-05-12": 97441,
-  "2022-05-13": 97635,
-  "2022-05-14": 97796,
-  "2022-05-15": 97970,
-  "2022-05-16": 98135,
-  "2022-05-17": 98284,
-  "2022-05-18": 98454,
-  "2022-05-19": 98667,
-  "2022-05-20": 98888,
-  "2022-05-21": 99211,
-  "2022-05-22": 99211,
-  "2022-05-23": 99385,
-  "2022-05-24": 99544,
-  "2022-05-25": 99702,
-  "2022-05-26": 99834,
-  "2022-05-27": 99986,
-  "2022-05-28": 100133,
-  "2022-05-29": 100314,
-  "2022-05-30": 100476,
-  "2022-05-31": 100624,
-  "2022-06-01": 100895,
-  "2022-06-02": 100921,
-  "2022-06-03": 101095,
-  "2022-06-04": 101253,
-  "2022-06-05": 101409,
-  "2022-06-06": 101553,
-  "2022-06-07": 101710,
-  "2022-06-08": 101889,
-  "2022-06-09": 102004,
-  "2022-06-10": 102149,
-  "2022-06-11": 102295,
-  "2022-06-12": 102480,
-  "2022-06-13": 102634,
-  "2022-06-14": 102741,
-  "2022-06-15": 102886,
-  "2022-06-16": 103029,
-  "2022-06-17": 103123,
-  "2022-06-18": 103262,
-  "2022-06-19": 103539,
-  "2022-06-20": 103539,
-  "2022-06-21": 103677,
-  "2022-06-22": 103941,
-  "2022-06-23": 103941,
-  "2022-06-24": 104082,
-  "2022-06-25": 104082,
-  "2022-06-26": 104378,
-  "2022-06-27": 104532,
-  "2022-06-28": 104665,
-  "2022-06-29": 104803,
-  "2022-06-30": 104982,
-  "2022-07-01": 105181,
-  "2022-07-02": 105403,
-  "2022-07-03": 105613,
-  "2022-07-04": 105805,
-  "2022-07-05": 105999,
-  "2022-07-06": 106208,
-  "2022-07-07": 106411,
-  "2022-07-08": 106632,
-  "2022-07-09": 106837,
-  "2022-07-10": 107023,
-  "2022-07-11": 107192,
-  "2022-07-12": 107344,
-  "2022-07-13": 107509,
-  "2022-07-14": 107681,
-  "2022-07-15": 107852,
-  "2022-07-16": 108049,
-  "2022-07-17": 108253,
-  "2022-07-18": 108416,
-  "2022-07-19": 108605,
-  "2022-07-20": 108792,
-  "2022-07-21": 108984,
-  "2022-07-22": 109174,
-  "2022-07-23": 109372,
-  "2022-07-24": 109551,
-  "2022-07-25": 109713,
-  "2022-07-26": 109891,
-  "2022-07-27": 110090,
-  "2022-07-28": 110286,
-  "2022-07-29": 110464,
-  "2022-07-30": 110835,
-  "2022-07-31": 110835,
-  "2022-08-01": 110994,
-  "2022-08-02": 111325,
-  "2022-08-03": 111325,
-  "2022-08-04": 111491,
-  "2022-08-05": 111672,
-  "2022-08-06": 111866,
-  "2022-08-07": 112010,
-  "2022-08-08": 112164,
-  "2022-08-09": 112276,
-  "2022-08-10": 112420,
-  "2022-08-11": 112577,
-  "2022-08-12": 112731,
-  "2022-08-13": 112890,
-  "2022-08-14": 113077,
-  "2022-08-15": 113262,
-  "2022-08-16": 113402,
-  "2022-08-17": 113564,
-  "2022-08-18": 113732,
-  "2022-08-19": 113880,
-  "2022-08-20": 114034,
-  "2022-08-21": 114188,
-  "2022-08-22": 114324,
-  "2022-08-23": 114473,
-  "2022-08-24": 114643,
-  "2022-08-25": 114811,
-  "2022-08-26": 114932,
-  "2022-08-27": 115108,
-  "2022-08-28": 115257,
-  "2022-08-29": 115385,
-  "2022-08-30": 115513,
-  "2022-08-31": 115649,
-  "2022-09-01": 115773,
-  "2022-09-02": 115893,
-  "2022-09-03": 116032,
-  "2022-09-04": 116175,
-  "2022-09-05": 116287,
-  "2022-09-06": 116415,
-  "2022-09-07": 116534,
-  "2022-09-09": 116813,
-  "2022-09-10": 116936,
-  "2022-09-11": 117077,
-  "2022-09-12": 117210,
-  "2022-09-13": 117302,
-  "2022-09-15": 117550,
-  "2022-09-16": 117690,
-  "2022-09-17": 117810,
-  "2022-09-18": 117964,
-  "2022-09-19": 118105,
-  "2022-09-20": 118205,
-  "2022-09-21": 118329,
-  "2022-09-22": 118476,
-  "2022-09-23": 118608,
-  "2022-09-24": 118753,
-  "2022-09-25": 118901,
-  "2022-09-26": 119058,
-  "2022-09-27": 119188,
-  "2022-09-28": 119352,
-  "2022-09-29": 119527,
-  "2022-09-30": 119712,
-  "2022-10-01": 119879,
-  "2022-10-02": 120046,
-  "2022-10-03": 120236,
-  "2022-10-04": 120376,
-  "2022-10-05": 120520,
-  "2022-10-06": 120686,
-  "2022-10-07": 120862,
-  "2022-10-08": 121040,
-  "2022-10-09": 121341,
-  "2022-10-10": 121395,
-  "2022-10-11": 121517,
-  "2022-10-12": 121649,
-  "2022-10-13": 121780,
-  "2022-10-14": 121935,
-  "2022-10-15": 122101,
-  "2022-10-16": 122239,
-  "2022-10-17": 122388,
-  "2022-10-18": 122522,
-  "2022-10-19": 122681,
-  "2022-10-20": 122843,
-  "2022-10-21": 123034,
-  "2022-10-22": 123218,
-  "2022-10-23": 123347,
-  "2022-10-24": 123524,
-  "2022-10-25": 123629,
-  "2022-10-26": 123803,
-  "2022-10-27": 123935,
-  "2022-10-28": 124101,
-  "2022-10-29": 124255,
-  "2022-10-30": 124383,
-  "2022-10-31": 124532,
-  "2022-11-01": 124690,
-  "2022-11-02": 124795,
-  "2022-11-03": 124900,
-  "2022-11-04": 125043,
-  "2022-11-05": 125187,
-  "2022-11-06": 125358,
-  "2022-11-07": 125519,
-  "2022-11-08": 125640,
-  "2022-11-09": 125778,
-  "2022-11-10": 125894,
-  "2022-11-11": 126011,
-  "2022-11-12": 126183,
-  "2022-11-13": 126330,
-  "2022-11-14": 126464,
-  "2022-11-15": 126614,
-  "2022-11-16": 126742,
-  "2022-11-17": 126887,
-  "2022-11-18": 126926,
-  "2022-11-19": 126981,
-  "2022-11-20": 127122,
-  "2022-11-21": 127271,
-  "2022-11-22": 127388,
-  "2022-11-23": 127510,
-  "2022-11-24": 127774,
-  "2022-11-25": 128010,
-  "2022-11-26": 128187,
-  "2022-11-27": 128384,
-  "2022-11-28": 128530,
-  "2022-11-29": 128656,
-  "2022-11-30": 128845,
-  "2022-12-01": 129058,
-  "2022-12-02": 129176,
-  "2022-12-03": 129436,
-  "2022-12-04": 129653,
-  "2022-12-05": 129834,
-  "2022-12-06": 130018,
-  "2022-12-07": 130216,
-  "2022-12-08": 130405,
-  "2022-12-09": 130605,
-  "2022-12-10": 130748,
-  "2022-12-11": 130914,
-  "2022-12-12": 131128,
-  "2022-12-13": 131292,
-  "2022-12-14": 131441,
-  "2022-12-15": 131609,
-  "2022-12-16": 131755,
-  "2022-12-17": 131922,
-  "2022-12-18": 132074,
-  "2022-12-19": 132234,
-  "2022-12-20": 132550,
-  "2022-12-21": 132550,
-  "2022-12-22": 132715,
-  "2022-12-24": 133076,
-  "2022-12-25": 133227,
-  "2022-12-26": 133316,
-  "2022-12-27": 133464,
-  "2022-12-28": 133640,
-  "2022-12-29": 133808,
-  "2022-12-30": 133978,
-  "2022-12-31": 134157,
-  "2023-01-01": 134334,
-  "2023-01-02": 134466,
-  "2023-01-03": 134606,
-  "2023-01-04": 134748,
-  "2023-01-05": 134880,
-  "2023-01-06": 135071,
-  "2023-01-07": 135299,
-  "2023-01-08": 135353,
-  "2023-01-09": 135497,
-  "2023-01-10": 135640,
-  "2023-01-11": 135778,
-  "2023-01-12": 135912,
-  "2023-01-13": 136079,
-  "2023-01-14": 136406,
-  "2023-01-15": 136452,
-  "2023-01-16": 136622,
-  "2023-01-17": 136782,
-  "2023-01-18": 136949,
-  "2023-01-19": 137140,
-  "2023-01-20": 137293,
-  "2023-01-21": 137488,
-  "2023-01-22": 137674,
-  "2023-01-23": 137851,
-  "2023-01-24": 138002,
-  "2023-01-25": 138158,
-  "2023-01-26": 138294,
-  "2023-01-27": 138468,
-  "2023-01-28": 138658,
-  "2023-01-29": 138884,
-  "2023-01-30": 139060,
-  "2023-01-31": 139060,
-  "2023-02-01": 139500,
-  "2023-02-02": 139739,
-  "2023-02-03": 139976,
-  "2023-02-04": 140190,
-  "2023-02-05": 140408,
-  "2023-02-06": 140597,
-  "2023-02-07": 140787,
-  "2023-02-08": 141241,
-  "2023-02-09": 141241,
-  "2023-02-10": 141428,
-  "2023-02-11": 141609,
-  "2023-02-12": 142012,
-  "2023-02-13": 142204,
-  "2023-02-14": 142204,
-  "2023-02-15": 142404,
-  "2023-02-16": 142583,
-  "2023-02-17": 142758,
-  "2023-02-18": 143162,
-  "2023-02-19": 143201,
-  "2023-02-20": 143328,
-  "2023-02-21": 143525,
-  "2023-02-22": 143694,
-  "2023-02-23": 143912,
-  "2023-02-24": 144113,
-  "2023-02-25": 144377,
-  "2023-02-26": 144511,
-  "2023-02-27": 144916,
-  "2023-02-28": 144916,
-  "2023-03-01": 145099,
-  "2023-03-02": 145272,
-  "2023-03-03": 145450,
-  "2023-03-04": 145621,
-  "2023-03-05": 146012,
-  "2023-03-06": 146012,
-  "2023-03-07": 146180,
-  "2023-03-08": 146346,
-  "2023-03-09": 146511,
-  "2023-03-10": 146691,
-  "2023-03-11": 146854,
-  "2023-03-12": 147032,
-  "2023-03-13": 147209,
-  "2023-03-14": 147358,
-  "2023-03-15": 147537,
-  "2023-03-16": 147750,
-  "2023-03-17": 147750,
-  "2023-03-18": 148123,
-  "2023-03-19": 148354,
-  "2023-03-20": 148493,
-  "2023-03-21": 148645,
-  "2023-03-22": 148801,
-  "2023-03-23": 148956,
-  "2023-03-24": 148956,
-  "2023-03-25": 149314,
-  "2023-03-26": 149481,
-  "2023-03-27": 149649,
-  "2023-03-28": 149823,
-  "2023-03-29": 150019,
-  "2023-03-30": 150310,
-  "2023-03-31": 150310,
-  "2023-04-01": 150496,
-  "2023-04-02": 150677,
-  "2023-04-03": 150845,
-  "2023-04-04": 150999,
-  "2023-04-05": 151180,
-  "2023-04-06": 151387,
-  "2023-04-07": 151589,
-  "2023-04-09": 151927,
-  "2023-04-10": 152094,
-  "2023-04-11": 152406,
-  "2023-04-12": 152406,
-  "2023-04-13": 152613,
-  "2023-04-14": 152848,
-  "2023-04-15": 153101,
-  "2023-04-16": 153336,
-  "2023-04-17": 153529,
-  "2023-04-18": 153725,
-  "2023-04-19": 153967,
-  "2023-04-20": 154154,
-  "2023-04-21": 154358,
-  "2023-04-22": 154563,
-  "2023-04-23": 154796,
-  "2023-04-24": 154993,
-  "2023-04-25": 155175,
-  "2023-04-26": 155394,
-  "2023-04-27": 155609,
-  "2023-04-28": 155851,
-  "2023-04-29": 156114,
-  "2023-04-30": 156334,
-  "2023-05-01": 156504,
-  "2023-05-02": 156689,
-  "2023-05-03": 156832,
-  "2023-05-04": 157012,
-  "2023-05-05": 157179,
-  "2023-05-06": 157377,
-  "2023-05-07": 157597,
-  "2023-05-08": 157794,
-  "2023-05-09": 157960,
-  "2023-05-10": 158145,
-  "2023-05-11": 158322,
-  "2023-05-12": 158553,
-  "2023-05-13": 158738,
-  "2023-05-14": 158922,
-  "2023-05-15": 159078,
-  "2023-05-16": 159264,
-  "2023-05-17": 159471,
-  "2023-05-18": 159646,
-  "2023-05-19": 159853,
-  "2023-05-20": 160280,
-  "2023-05-21": 160280,
-  "2023-05-22": 160280,
-  "2023-05-23": 160621,
-  "2023-05-24": 160912,
-  "2023-05-25": 160988,
-  "2023-05-26": 161220,
-  "2023-05-27": 161470,
-  "2023-05-28": 161672,
-  "2023-05-29": 161672,
-  "2023-05-30": 162010,
-  "2023-05-31": 162193,
-  "2023-06-01": 162382,
-  "2023-06-02": 162554,
-  "2023-06-03": 162734,
-  "2023-06-04": 162894,
-  "2023-06-05": 163042,
-  "2023-06-06": 163211,
-  "2023-06-07": 163383,
-  "2023-06-08": 163551,
-  "2023-06-09": 163733,
-  "2023-06-10": 163921,
-  "2023-06-11": 164172,
-  "2023-06-12": 164320,
-  "2023-06-13": 164487,
-  "2023-06-14": 164658,
-  "2023-06-15": 164875,
-  "2023-06-16": 165077,
-  "2023-06-17": 165278,
-  "2023-06-18": 165491,
-  "2023-06-19": 165670,
-  "2023-06-20": 165852,
-  "2023-06-21": 166028,
-  "2023-06-22": 166203,
-  "2023-06-23": 166416,
-  "2023-06-24": 166615,
-  "2023-06-25": 166787,
-  "2023-06-26": 166950,
-  "2023-06-27": 167099,
-  "2023-06-28": 167279,
-  "2023-06-29": 167471,
-  "2023-06-30": 167667,
-  "2023-07-01": 168057,
-  "2023-07-02": 168057,
-  "2023-07-03": 168204,
-  "2023-07-04": 168356,
-  "2023-07-05": 168539,
-  "2023-07-06": 168866,
-  "2023-07-07": 168866,
-  "2023-07-08": 169040,
-  "2023-07-09": 169218,
-  "2023-07-10": 169385,
-  "2023-07-11": 169533,
-  "2023-07-12": 169695,
-  "2023-07-13": 169881,
-  "2023-07-14": 170069,
-  "2023-07-15": 170184,
-  "2023-07-16": 170385,
-  "2023-07-17": 170503,
-  "2023-07-18": 170677,
-  "2023-07-19": 170830,
-  "2023-07-20": 170988,
-  "2023-07-21": 171163,
-  "2023-07-22": 171305,
-  "2023-07-23": 171466,
-  "2023-07-24": 171588,
-  "2023-07-25": 171744,
-  "2023-07-26": 171893,
-  "2023-07-27": 172065,
-  "2023-07-28": 172255,
-  "2023-07-29": 172415,
-  "2023-07-30": 172600,
-  "2023-07-31": 172712,
-  "2023-08-01": 172868,
-  "2023-08-02": 172986,
-  "2023-08-03": 173143,
-  "2023-08-04": 173306,
-  "2023-08-05": 173433,
-  "2023-08-06": 173738,
-  "2023-08-07": 173738,
-  "2023-08-08": 173894,
-  "2023-08-09": 174049,
-  "2023-08-10": 174184,
-  "2023-08-11": 174354,
-  "2023-08-12": 174530,
-  "2023-08-13": 174677,
-  "2023-08-14": 174816,
-  "2023-08-15": 175126,
-  "2023-08-16": 175126,
-  "2023-08-17": 175279,
-  "2023-08-18": 175436,
-  "2023-08-19": 175583,
-  "2023-08-20": 175743,
-  "2023-08-21": 175871,
-  "2023-08-22": 176018,
-  "2023-08-23": 176161,
-  "2023-08-24": 176302,
-  "2023-08-25": 176490,
-  "2023-08-26": 176636,
-  "2023-08-27": 176802,
-  "2023-08-28": 176933,
-  "2023-08-29": 177070,
-  "2023-08-30": 177179,
-  "2023-08-31": 177306,
-  "2023-09-01": 177542,
-  "2023-09-02": 177542,
-  "2023-09-03": 177645,
-  "2023-09-04": 177764,
-  "2023-09-05": 177885,
-  "2023-09-06": 178008,
-  "2023-09-07": 178114,
-  "2023-09-08": 178250,
-  "2023-09-09": 178380,
-  "2023-09-10": 178533,
-  "2023-09-11": 178671,
-  "2023-09-12": 178812,
-  "2023-09-13": 178950,
-  "2023-09-14": 179098,
-  "2023-09-15": 179233,
-  "2023-09-16": 179378,
-  "2023-09-17": 179516,
-  "2023-09-18": 179660,
-  "2023-09-19": 179779,
-  "2023-09-20": 179889,
-  "2023-09-21": 180028,
-  "2023-09-22": 180158,
-  "2023-09-23": 180296,
-  "2023-09-24": 180422,
-  "2023-09-25": 180554,
-  "2023-09-26": 180708,
-  "2023-09-27": 180797,
-  "2023-09-28": 180914,
-  "2023-09-29": 181029,
-  "2023-09-30": 181156,
-  "2023-10-01": 181291,
-  "2023-10-02": 181379,
-  "2023-10-03": 181464,
-  "2023-10-04": 181615,
-  "2023-10-05": 181725,
-  "2023-10-06": 181855,
-  "2023-10-07": 181974,
-  "2023-10-08": 182105,
-  "2023-10-09": 182207,
-  "2023-10-10": 182283,
-  "2023-10-11": 182501,
-  "2023-10-12": 182501,
-  "2023-10-13": 182592,
-  "2023-10-14": 182681,
-  "2023-10-15": 182791,
-  "2023-10-16": 182895,
-  "2023-10-17": 183004,
-  "2023-10-18": 183080,
-  "2023-10-19": 183192,
-  "2023-10-20": 183297,
-  "2023-10-21": 183418,
-  "2023-10-22": 183512,
-  "2023-10-23": 183599,
-  "2023-10-24": 183674,
-  "2023-10-25": 183781,
-  "2023-10-26": 183886,
-  "2023-10-27": 184001,
-  "2023-10-28": 184001,
-  "2023-10-29": 184001,
-  "2023-10-30": 184317,
-  "2023-10-31": 184317,
-  "2023-11-01": 184504,
-  "2023-11-02": 184594,
-  "2023-11-03": 184701,
-  "2023-11-04": 184701,
-  "2023-11-05": 184900,
-  "2023-11-06": 184978,
-  "2023-11-07": 185069,
-  "2023-11-08": 185174,
-  "2023-11-09": 185174,
-  "2023-11-10": 185353,
-  "2023-11-11": 185471,
-  "2023-11-12": 185551,
-  "2023-11-13": 185645,
-  "2023-11-14": 185712,
-  "2023-11-15": 185712,
-  "2023-11-16": 185899,
-  "2023-11-17": 186101,
-  "2023-11-18": 186101,
-  "2023-11-19": 186195,
-  "2023-11-20": 186251,
-  "2023-11-21": 186366,
-  "2023-11-22": 186467,
-  "2023-11-23": 186563,
-  "2023-11-24": 186563,
-  "2023-11-25": 186747,
-  "2023-11-26": 186845,
-  "2023-11-27": 186924,
-  "2023-11-28": 186994,
-  "2023-11-29": 187178,
-  "2023-11-30": 187178,
-  "2023-12-01": 187178,
-  "2023-12-02": 187387,
-  "2023-12-03": 187472,
-  "2023-12-04": 187472,
-  "2023-12-05": 187654,
-  "2023-12-06": 187746,
-  "2023-12-07": 187865,
-  "2023-12-08": 187865,
-  "2023-12-09": 188157,
-  "2023-12-10": 188157,
-  "2023-12-11": 188468,
-  "2023-12-12": 188468,
-  "2023-12-13": 188686,
-  "2023-12-14": 188864,
-  "2023-12-15": 188962,
-  "2023-12-16": 189097,
-  "2023-12-17": 189254,
-  "2023-12-18": 189355,
-  "2023-12-19": 189455,
-  "2023-12-20": 189560,
-  "2023-12-21": 189704,
-  "2023-12-22": 189869,
-  "2023-12-23": 190024,
-  "2023-12-24": 190199,
-  "2023-12-25": 190340,
-  "2023-12-26": 190444,
-  "2023-12-27": 190534,
-  "2023-12-30": 190919,
-  "2023-12-31": 191063,
-  "2024-01-01": 191208,
-  "2024-01-02": 191308,
-  "2024-01-03": 191421
+  "2024-01-17": 193142,
+  "date_first_scraped": "2022-01-13",
+  "description": "Los grandes \u00e9xitos de Daddy Yankee y Nicky Jam en un mismo lugar.",
+  "name": "Dos \u00edconos: Daddy Yankee x Nicky Jam",
+  "tracks": [
+    {
+      "album": {
+        "name": "Adictiva",
+        "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Adictiva",
+      "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
+    },
+    {
+      "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204700,
+      "name": "Bella y Sensual",
+      "url": "https://open.spotify.com/track/0ERbK7qVqveCaBWIiYCrl3"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
+    },
+    {
+      "album": {
+        "name": "Cheerleader (feat. Nicky Jam) [Felix Jaehn Remix]",
+        "url": "https://open.spotify.com/album/2iTOL3spi3OG2FH4wKismY"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Cheerleader (feat. Nicky Jam) - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/2Pc6PwPhcIThcK34ElYJri"
+    },
+    {
+      "album": {
+        "name": "Cheerleader (feat. Nicky Jam) [Felix Jaehn Remix]",
+        "url": "https://open.spotify.com/album/78pYkzquJWs2tsEwIJ06fW"
+      },
+      "artists": [
+        {
+          "name": "OMI",
+          "url": "https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180967,
+      "name": "Cheerleader (feat. Nicky Jam) - Felix Jaehn Remix",
+      "url": "https://open.spotify.com/track/1mnPNAxWN8MvWYsjHWpnnc"
+    },
+    {
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227986,
+      "name": "Cuando Quieras (feat. Valentino)",
+      "url": "https://open.spotify.com/track/0iP84MjJ1KvnzxWa91Zsvt"
+    },
+    {
+      "album": {
+        "name": "Definitivamente",
+        "url": "https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Definitivamente",
+      "url": "https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv"
+    },
+    {
+      "album": {
+        "name": "Desahogo (feat. Carla Morrison)",
+        "url": "https://open.spotify.com/album/2eJA1FwzgGFXNB1nhXnOJM"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198253,
+      "name": "Desahogo (feat. Carla Morrison)",
+      "url": "https://open.spotify.com/track/71oz9Wgbrm873aMlVBrDKR"
+    },
+    {
+      "album": {
+        "name": "Daddy Yankee Mundial",
+        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172906,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/3FOh6ssnmv39CsoMYVUMZA"
+    },
+    {
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Descontrol",
+      "url": "https://open.spotify.com/track/42RRK0WSxwG117CEFHdGOY"
+    },
+    {
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+    },
+    {
+      "album": {
+        "name": "Latin Cardio",
+        "url": "https://open.spotify.com/album/7apF9TqGFBwecDzFcmX7oc"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230466,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6mob4PvfmPlG2nIiJd0IyE"
+    },
+    {
+      "album": {
+        "name": "Despacito (Featuring Daddy Yankee)",
+        "url": "https://open.spotify.com/album/5qnvJbamuZLbsasuYKRy1l"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228200,
+      "name": "Despacito (Featuring Daddy Yankee)",
+      "url": "https://open.spotify.com/track/7CUYHcu0RnbOnMz4RuN07w"
+    },
+    {
+      "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "album": {
+        "name": "El Desorden",
+        "url": "https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190243,
+      "name": "El Desorden",
+      "url": "https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+    },
+    {
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/3AZXqe3LGCFD4r6YFJgaK3"
+    },
+    {
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219466,
+      "name": "Estrella",
+      "url": "https://open.spotify.com/track/4S2JBCs9FfFEJPLEf8YiE7"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185106,
+      "name": "Impacto",
+      "url": "https://open.spotify.com/track/4jjPvqzUHNYuNEtSJnklwJ"
+    },
+    {
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185106,
+      "name": "Impacto",
+      "url": "https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60"
+    },
+    {
+      "album": {
+        "name": "Juegos Prohibidos",
+        "url": "https://open.spotify.com/album/13A1xwgLxWDMarimSzgGtT"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191297,
+      "name": "Juegos Prohibidos",
+      "url": "https://open.spotify.com/track/0cpxR4XkBg6Gm4VIUCiwYN"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Vol. 1",
+        "url": "https://open.spotify.com/album/2kQxNs7CGUGJrUgS6PnmOJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191297,
+      "name": "Juegos Prohibidos",
+      "url": "https://open.spotify.com/track/1e0JCGN2pjqjpVPBuQtgwm"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192156,
+      "name": "Juegos Prohibidos",
+      "url": "https://open.spotify.com/track/07Z5WXxcQC7FjUcJcq3z0c"
+    },
+    {
+      "album": {
+        "name": "Mundial (Deluxe Version)",
+        "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
+    },
+    {
+      "album": {
+        "name": "Daddy Yankee Mundial",
+        "url": "https://open.spotify.com/album/4MAUxicEf2ZyY569TJNBdk"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202826,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/44f68Zu5X9gJ44ziVnaYoR"
+    },
+    {
+      "album": {
+        "name": "King Daddy",
+        "url": "https://open.spotify.com/album/5m43SVd4aJhA7M88UwzU8a"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197053,
+      "name": "La Nueva Y La Ex",
+      "url": "https://open.spotify.com/track/2UYXTSZkSxWJYGpcd64SRO"
+    },
+    {
+      "album": {
+        "name": "Super Mix Latino",
+        "url": "https://open.spotify.com/album/7eN7o1wZt0cpn7BaxF2KBs"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197053,
+      "name": "La Nueva Y La Ex",
+      "url": "https://open.spotify.com/track/4vWPMWx1XbOuIYUoOKyf1q"
+    },
+    {
+      "album": {
+        "name": "King Daddy",
+        "url": "https://open.spotify.com/album/3xtMlD79fXUjZ92e1c4TnX"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197053,
+      "name": "La Nueva Y La Ex",
+      "url": "https://open.spotify.com/track/6WuufZDBNoEJBTinRiznhO"
+    },
+    {
+      "album": {
+        "name": "La Rompe Corazones",
+        "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204520,
+      "name": "La Rompe Corazones",
+      "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239920,
+      "name": "Llamado de Emergencia",
+      "url": "https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 239920,
+      "name": "Llamado de Emergencia",
+      "url": "https://open.spotify.com/track/3bkBVEmRJuJZNh5iVgJkWm"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/6z5Xrx58p5Bs18RIe6KXbI"
+    },
+    {
+      "album": {
+        "name": "Dance Latin # 1 Hits",
+        "url": "https://open.spotify.com/album/4GMgJaHCYCH8YVqEYZ0NxA"
+      },
+      "artists": [
+        {
+          "name": "Luny Tunes",
+          "url": "https://open.spotify.com/artist/5pZE9tgrhmIGWAsJZ7YxNK"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309266,
+      "name": "Mayor Que Yo 3",
+      "url": "https://open.spotify.com/track/0bMRpUsk1IWi5O2NIkWsqR"
+    },
+    {
+      "album": {
+        "name": "Mi Cama (Remix)",
+        "url": "https://open.spotify.com/album/6dVC3KSMioVw7ywpXx10cl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196320,
+      "name": "Mi Cama - Remix",
+      "url": "https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192006,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208346,
+      "name": "Mil L\u00e1grimas",
+      "url": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL"
+    },
+    {
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194892,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
+    },
+    {
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "No Te Puedo Olvidar",
+      "url": "https://open.spotify.com/track/4lMBnVOEKScRyQyfyJQwI4"
+    },
+    {
+      "album": {
+        "name": "Ojos Rojos",
+        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152110,
+      "name": "Ojos Rojos",
+      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+    },
+    {
+      "album": {
+        "name": "PAM",
+        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
+    },
+    {
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/3mCZPmix70kS3uC4aOXz7w"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "Pasarela",
+      "url": "https://open.spotify.com/track/4yORNsoYe4XnK99EXhKhWB"
+    },
+    {
+      "album": {
+        "name": "Piensas en M\u00ed",
+        "url": "https://open.spotify.com/album/5ZaSzyQcoisKR0DHwKbKHx"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255973,
+      "name": "Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/2uhkqlbBlLRYItG0eDzFTR"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255973,
+      "name": "Piensas en M\u00ed",
+      "url": "https://open.spotify.com/track/7pUaz2o36MSX36TUISuoR5"
+    },
+    {
+      "album": {
+        "name": "Polvo",
+        "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211130,
+      "name": "Polvo",
+      "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
+    },
+    {
+      "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
+    },
+    {
+      "album": {
+        "name": "Barrio Fino En Directo",
+        "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188626,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "album": {
+        "name": "Satisfacci\u00f3n",
+        "url": "https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "Satisfacci\u00f3n",
+      "url": "https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7"
+    },
+    {
+      "album": {
+        "name": "40 \u00c9xitos: Fiest\u00f3n",
+        "url": "https://open.spotify.com/album/4QfueEYpYMx5Eu6lhufXug"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 234320,
+      "name": "Shaky Shaky",
+      "url": "https://open.spotify.com/track/4DLDu5aTPEpg69QlLG2lsY"
+    },
+    {
+      "album": {
+        "name": "Shaky Shaky",
+        "url": "https://open.spotify.com/album/2zrLk90b4qjmrxRZKyIY7X"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234320,
+      "name": "Shaky Shaky",
+      "url": "https://open.spotify.com/track/58IL315gMSTD37DOZPJ2hf"
+    },
+    {
+      "album": {
+        "name": "Shaky Shaky",
+        "url": "https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Shaky Shaky",
+      "url": "https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk"
+    },
+    {
+      "album": {
+        "name": "Si Supieras",
+        "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241880,
+      "name": "Si Supieras",
+      "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218540,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/5BAmltzhQpFXtBddPN4sUf"
+    },
+    {
+      "album": {
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218540,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl"
+    },
+    {
+      "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
+    },
+    {
+      "album": {
+        "name": "S\u00edgueme Y Te Sigo",
+        "url": "https://open.spotify.com/album/0VrKUe36H6KPKSe9Y1FL2w"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209786,
+      "name": "S\u00edgueme Y Te Sigo",
+      "url": "https://open.spotify.com/track/1ClQpnPU9M6mQpXGvhGPvQ"
+    },
+    {
+      "album": {
+        "name": "Retro Urbano",
+        "url": "https://open.spotify.com/album/0ftuinQ55uMVMfBcILaumH"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209786,
+      "name": "S\u00edgueme Y Te Sigo",
+      "url": "https://open.spotify.com/track/4n5a3ANTvmFnwHMcUTTQ25"
+    },
+    {
+      "album": {
+        "name": "S\u00edgueme Y Te Sigo",
+        "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209786,
+      "name": "S\u00edgueme Y Te Sigo",
+      "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
+    },
+    {
+      "album": {
+        "name": "Tanta Falta Remix",
+        "url": "https://open.spotify.com/album/1H5ki3YSO29zF5kEmN3Fd4"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 181106,
+      "name": "Tanta Falta Remix",
+      "url": "https://open.spotify.com/track/2AbPshGfRDKLlkM0lrDNTR"
+    },
+    {
+      "album": {
+        "name": "Tanta Falta Remix",
+        "url": "https://open.spotify.com/album/7E9rraDzsfh89jnUTLR1ff"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Tanta Falta Remix",
+      "url": "https://open.spotify.com/track/5iFKtk78vFrZHpxC53kyfe"
+    },
+    {
+      "album": {
+        "name": "Tanta Falta Remix",
+        "url": "https://open.spotify.com/album/296ygxpV1TLiYxQqiMLrvu"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181106,
+      "name": "Tanta Falta Remix",
+      "url": "https://open.spotify.com/track/6GxEpbOvB4dXgRF2SLJliK"
+    },
+    {
+      "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/1rvF6y0pavyw1cJHeibSnE"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233559,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6"
+    },
+    {
+      "album": {
+        "name": "Te Busco",
+        "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233639,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n 2020 - \u00c9xitos Urbanos",
+        "url": "https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/4mVWg4OwQy9bDsgPYAutqK"
+    },
+    {
+      "album": {
+        "name": "Te Robar\u00e9",
+        "url": "https://open.spotify.com/album/4ykGcrqJO8PcTePuNOFMxa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201818,
+      "name": "Te Robar\u00e9",
+      "url": "https://open.spotify.com/track/6v0lAdFF4haL8xjBIUjtOw"
+    },
+    {
+      "album": {
+        "name": "Travesuras",
+        "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195369,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
+    },
+    {
+      "album": {
+        "name": "Nicky Jam Hits",
+        "url": "https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195453,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5"
+    },
+    {
+      "album": {
+        "name": "Leones Del Reggaeton",
+        "url": "https://open.spotify.com/album/2rc29xg5aPWzW7aphIeNPa"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 197546,
+      "name": "Travesuras",
+      "url": "https://open.spotify.com/track/1obLCWFaKpz2Q0G751CE3J"
+    },
+    {
+      "album": {
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204720,
+      "name": "Tu Hombre (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/3u8fKvW5X1zvrsweW5h2xa"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178299,
+      "name": "Tu Primera Vez",
+      "url": "https://open.spotify.com/track/0APyIFymuzSzBN5mvFgdsj"
+    },
+    {
+      "album": {
+        "name": "Tu Primera Vez",
+        "url": "https://open.spotify.com/album/0EnrF2xIslYWg7BmfOmI5x"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "Tu Primera Vez",
+      "url": "https://open.spotify.com/track/4zbYC54N8jcI55NyK2GtX9"
+    },
+    {
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219786,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Vol. 1",
+        "url": "https://open.spotify.com/album/2kQxNs7CGUGJrUgS6PnmOJ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224568,
+      "name": "Voy A Beber - Remix",
+      "url": "https://open.spotify.com/track/0OBshoie90ABJmXp76BIp5"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/5ytonwvl51xqB6BYnzX68U"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "\u00d1ejo",
+          "url": "https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224679,
+      "name": "Voy a Beber - Remix",
+      "url": "https://open.spotify.com/track/62aO9HGJY7hdFDyljqCHO2"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n 2020 - \u00c9xitos Urbanos",
+        "url": "https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/6UQxArOMy4QzATDoUPpzSl"
+    },
+    {
+      "album": {
+        "name": "Whine Up",
+        "url": "https://open.spotify.com/album/71mNEWYV4Qvnj4quA26eM2"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215459,
+      "name": "Whine Up",
+      "url": "https://open.spotify.com/track/7JabxjX6a5GvDDw6zRFscj"
+    },
+    {
+      "album": {
+        "name": "Intimo",
+        "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172854,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/74D2cU8F6KbBqva3mnzrqI"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173627,
+      "name": "X",
+      "url": "https://open.spotify.com/track/39N9RPD9MRb5WmoLzNzPeA"
+    },
+    {
+      "album": {
+        "name": "Reggaet\u00f3n 2020 - \u00c9xitos Urbanos",
+        "url": "https://open.spotify.com/album/72cMrdnkM1mJfvvIxvv4ya"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173627,
+      "name": "X",
+      "url": "https://open.spotify.com/track/3s2C419Hcz7UxBIxyNCSC2"
+    },
+    {
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
+      "url": "https://open.spotify.com/track/0Xfo7PfltbOrAiBs0eSCTH"
+    },
+    {
+      "album": {
+        "name": "Talento de Barrio",
+        "url": "https://open.spotify.com/album/5fn6sCofBYgRn6OICMeDvr"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 218506,
+      "name": "\u00bfQu\u00e9 Tengo Que Hacer?",
+      "url": "https://open.spotify.com/track/0nssGbqC6ZSMx0OliWCkHk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaB9aWy6BzCT"
 }

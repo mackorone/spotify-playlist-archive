@@ -1,584 +1,1487 @@
 {
-  "2022-05-26": 126542,
-  "2022-05-27": 126577,
-  "2022-05-28": 126604,
-  "2022-05-29": 126633,
-  "2022-05-30": 126655,
-  "2022-05-31": 126681,
-  "2022-06-01": 126730,
-  "2022-06-02": 126734,
-  "2022-06-03": 126771,
-  "2022-06-04": 126793,
-  "2022-06-05": 126805,
-  "2022-06-06": 126829,
-  "2022-06-07": 126848,
-  "2022-06-08": 126870,
-  "2022-06-09": 126895,
-  "2022-06-10": 126921,
-  "2022-06-11": 126944,
-  "2022-06-12": 126971,
-  "2022-06-13": 127001,
-  "2022-06-14": 127032,
-  "2022-06-15": 127060,
-  "2022-06-16": 127093,
-  "2022-06-17": 127133,
-  "2022-06-18": 127154,
-  "2022-06-19": 127202,
-  "2022-06-20": 127202,
-  "2022-06-21": 127229,
-  "2022-06-22": 127257,
-  "2022-06-23": 127257,
-  "2022-06-24": 127282,
-  "2022-06-25": 127303,
-  "2022-06-26": 127317,
-  "2022-06-27": 127334,
-  "2022-06-28": 127350,
-  "2022-06-29": 127378,
-  "2022-06-30": 127400,
-  "2022-07-01": 127422,
-  "2022-07-02": 127446,
-  "2022-07-03": 127467,
-  "2022-07-04": 127493,
-  "2022-07-05": 127507,
-  "2022-07-06": 127507,
-  "2022-07-07": 127558,
-  "2022-07-08": 127589,
-  "2022-07-09": 127625,
-  "2022-07-10": 127649,
-  "2022-07-11": 127671,
-  "2022-07-12": 127695,
-  "2022-07-13": 127718,
-  "2022-07-14": 127749,
-  "2022-07-15": 127769,
-  "2022-07-16": 127804,
-  "2022-07-17": 127843,
-  "2022-07-18": 127863,
-  "2022-07-19": 127891,
-  "2022-07-20": 127912,
-  "2022-07-21": 127951,
-  "2022-07-22": 127981,
-  "2022-07-23": 128018,
-  "2022-07-24": 128054,
-  "2022-07-25": 128097,
-  "2022-07-26": 128115,
-  "2022-07-27": 128126,
-  "2022-07-28": 128161,
-  "2022-07-29": 128189,
-  "2022-07-30": 128258,
-  "2022-07-31": 128258,
-  "2022-08-01": 128307,
-  "2022-08-02": 128370,
-  "2022-08-03": 128370,
-  "2022-08-04": 128400,
-  "2022-08-05": 128433,
-  "2022-08-06": 128461,
-  "2022-08-07": 128480,
-  "2022-08-08": 128501,
-  "2022-08-09": 128529,
-  "2022-08-10": 128555,
-  "2022-08-11": 128586,
-  "2022-08-12": 128621,
-  "2022-08-13": 128654,
-  "2022-08-14": 128682,
-  "2022-08-15": 128719,
-  "2022-08-16": 128751,
-  "2022-08-17": 128776,
-  "2022-08-18": 128801,
-  "2022-08-19": 128823,
-  "2022-08-20": 128856,
-  "2022-08-21": 128884,
-  "2022-08-22": 128902,
-  "2022-08-23": 128932,
-  "2022-08-24": 128943,
-  "2022-08-25": 128974,
-  "2022-08-26": 128999,
-  "2022-08-27": 129026,
-  "2022-08-28": 129057,
-  "2022-08-29": 129088,
-  "2022-08-30": 129112,
-  "2022-08-31": 129140,
-  "2022-09-01": 129170,
-  "2022-09-02": 129205,
-  "2022-09-03": 129246,
-  "2022-09-04": 129275,
-  "2022-09-05": 129312,
-  "2022-09-06": 129347,
-  "2022-09-07": 129365,
-  "2022-09-09": 129415,
-  "2022-09-10": 129456,
-  "2022-09-11": 129477,
-  "2022-09-12": 129510,
-  "2022-09-13": 129536,
-  "2022-09-15": 129580,
-  "2022-09-16": 129613,
-  "2022-09-17": 129643,
-  "2022-09-18": 129685,
-  "2022-09-19": 129707,
-  "2022-09-20": 129740,
-  "2022-09-21": 129768,
-  "2022-09-22": 129795,
-  "2022-09-23": 129838,
-  "2022-09-24": 129838,
-  "2022-09-25": 129909,
-  "2022-09-26": 129944,
-  "2022-09-27": 129976,
-  "2022-09-28": 130029,
-  "2022-09-29": 130062,
-  "2022-09-30": 130103,
-  "2022-10-01": 130133,
-  "2022-10-02": 130166,
-  "2022-10-03": 130203,
-  "2022-10-04": 130237,
-  "2022-10-05": 130267,
-  "2022-10-06": 130323,
-  "2022-10-07": 130369,
-  "2022-10-08": 130416,
-  "2022-10-09": 130490,
-  "2022-10-10": 130512,
-  "2022-10-11": 130562,
-  "2022-10-12": 130600,
-  "2022-10-13": 130650,
-  "2022-10-14": 130696,
-  "2022-10-15": 130743,
-  "2022-10-16": 130793,
-  "2022-10-17": 130827,
-  "2022-10-18": 130877,
-  "2022-10-19": 130928,
-  "2022-10-20": 130964,
-  "2022-10-21": 131009,
-  "2022-10-22": 131045,
-  "2022-10-23": 131077,
-  "2022-10-24": 131119,
-  "2022-10-25": 131157,
-  "2022-10-26": 131208,
-  "2022-10-27": 131260,
-  "2022-10-28": 131296,
-  "2022-10-29": 131348,
-  "2022-10-30": 131383,
-  "2022-10-31": 131422,
-  "2022-11-01": 131457,
-  "2022-11-02": 131501,
-  "2022-11-03": 131533,
-  "2022-11-04": 131583,
-  "2022-11-05": 131629,
-  "2022-11-06": 131671,
-  "2022-11-07": 131716,
-  "2022-11-08": 131764,
-  "2022-11-09": 131819,
-  "2022-11-10": 131871,
-  "2022-11-11": 131915,
-  "2022-11-12": 131944,
-  "2022-11-13": 131984,
-  "2022-11-14": 132023,
-  "2022-11-15": 132046,
-  "2022-11-16": 132110,
-  "2022-11-17": 132147,
-  "2022-11-18": 132159,
-  "2022-11-19": 132175,
-  "2022-11-20": 132208,
-  "2022-11-21": 132252,
-  "2022-11-22": 132283,
-  "2022-11-23": 132322,
-  "2022-11-24": 132388,
-  "2022-11-25": 132453,
-  "2022-11-26": 132488,
-  "2022-11-27": 132527,
-  "2022-11-28": 132570,
-  "2022-11-29": 132603,
-  "2022-11-30": 132631,
-  "2022-12-01": 132666,
-  "2022-12-02": 132692,
-  "2022-12-03": 132750,
-  "2022-12-04": 132792,
-  "2022-12-05": 132826,
-  "2022-12-06": 132877,
-  "2022-12-07": 132917,
-  "2022-12-08": 132981,
-  "2022-12-09": 133042,
-  "2022-12-10": 133083,
-  "2022-12-11": 133124,
-  "2022-12-12": 133168,
-  "2022-12-13": 133200,
-  "2022-12-14": 133223,
-  "2022-12-15": 133246,
-  "2022-12-16": 133289,
-  "2022-12-17": 133328,
-  "2022-12-18": 133372,
-  "2022-12-19": 133401,
-  "2022-12-20": 133473,
-  "2022-12-21": 133473,
-  "2022-12-22": 133512,
-  "2022-12-24": 133618,
-  "2022-12-25": 133656,
-  "2022-12-26": 133696,
-  "2022-12-27": 133740,
-  "2022-12-28": 133779,
-  "2022-12-29": 133835,
-  "2022-12-30": 133891,
-  "2022-12-31": 133957,
-  "2023-01-01": 134016,
-  "2023-01-02": 134060,
-  "2023-01-03": 134128,
-  "2023-01-04": 134174,
-  "2023-01-05": 134225,
-  "2023-01-06": 134308,
-  "2023-01-07": 134423,
-  "2023-01-08": 134440,
-  "2023-01-09": 134505,
-  "2023-01-10": 134573,
-  "2023-01-11": 134619,
-  "2023-01-12": 134688,
-  "2023-01-13": 134756,
-  "2023-01-14": 134916,
-  "2023-01-15": 134927,
-  "2023-01-16": 135016,
-  "2023-01-17": 135077,
-  "2023-01-18": 135158,
-  "2023-01-19": 135231,
-  "2023-01-20": 135288,
-  "2023-01-21": 135362,
-  "2023-01-22": 135438,
-  "2023-01-23": 135495,
-  "2023-01-24": 135548,
-  "2023-01-25": 135614,
-  "2023-01-26": 135697,
-  "2023-01-27": 135770,
-  "2023-01-28": 135838,
-  "2023-01-29": 135923,
-  "2023-01-30": 135987,
-  "2023-01-31": 135987,
-  "2023-02-01": 136102,
-  "2023-02-02": 136181,
-  "2023-02-03": 136242,
-  "2023-02-04": 136320,
-  "2023-02-05": 136394,
-  "2023-02-06": 136466,
-  "2023-02-07": 136524,
-  "2023-02-08": 136666,
-  "2023-02-09": 136666,
-  "2023-02-10": 136719,
-  "2023-02-11": 136790,
-  "2023-02-12": 136912,
-  "2023-02-13": 137002,
-  "2023-02-14": 137002,
-  "2023-02-15": 137083,
-  "2023-02-16": 137148,
-  "2023-02-17": 137205,
-  "2023-02-18": 137336,
-  "2023-02-19": 137340,
-  "2023-02-20": 137381,
-  "2023-02-21": 137451,
-  "2023-02-22": 137517,
-  "2023-02-23": 137572,
-  "2023-02-24": 137660,
-  "2023-02-25": 137742,
-  "2023-02-26": 137796,
-  "2023-02-27": 137922,
-  "2023-02-28": 137922,
-  "2023-03-01": 137987,
-  "2023-03-02": 138060,
-  "2023-03-03": 138143,
-  "2023-03-04": 138208,
-  "2023-03-05": 138354,
-  "2023-03-06": 138354,
-  "2023-03-07": 138430,
-  "2023-03-08": 138457,
-  "2023-03-09": 138509,
-  "2023-03-10": 138569,
-  "2023-03-11": 138625,
-  "2023-03-12": 138664,
-  "2023-03-13": 138728,
-  "2023-03-14": 138783,
-  "2023-03-15": 138834,
-  "2023-03-16": 138834,
-  "2023-03-17": 138834,
-  "2023-03-18": 138974,
-  "2023-03-19": 138974,
-  "2023-03-20": 139059,
-  "2023-03-21": 139093,
-  "2023-03-22": 139155,
-  "2023-03-23": 139203,
-  "2023-03-24": 139203,
-  "2023-03-25": 139333,
-  "2023-03-26": 139390,
-  "2023-03-27": 139431,
-  "2023-03-28": 139480,
-  "2023-03-29": 139561,
-  "2023-03-30": 139710,
-  "2023-03-31": 139710,
-  "2023-04-01": 139784,
-  "2023-04-02": 139863,
-  "2023-04-03": 139919,
-  "2023-04-04": 139982,
-  "2023-04-05": 140038,
-  "2023-04-06": 140106,
-  "2023-04-07": 140171,
-  "2023-04-09": 140273,
-  "2023-04-10": 140328,
-  "2023-04-11": 140409,
-  "2023-04-12": 140409,
-  "2023-04-13": 140451,
-  "2023-04-14": 140493,
-  "2023-04-15": 140543,
-  "2023-04-16": 140584,
-  "2023-04-17": 140619,
-  "2023-04-18": 140655,
-  "2023-04-19": 140706,
-  "2023-04-20": 140744,
-  "2023-04-21": 140780,
-  "2023-04-22": 140824,
-  "2023-04-23": 140870,
-  "2023-04-24": 140919,
-  "2023-04-25": 140960,
-  "2023-04-26": 141004,
-  "2023-04-27": 141052,
-  "2023-04-28": 141103,
-  "2023-04-29": 141167,
-  "2023-04-30": 141214,
-  "2023-05-01": 141256,
-  "2023-05-02": 141288,
-  "2023-05-03": 141338,
-  "2023-05-04": 141370,
-  "2023-05-05": 141411,
-  "2023-05-06": 141454,
-  "2023-05-07": 141489,
-  "2023-05-08": 141515,
-  "2023-05-09": 141564,
-  "2023-05-10": 141591,
-  "2023-05-11": 141634,
-  "2023-05-12": 141688,
-  "2023-05-13": 141731,
-  "2023-05-14": 141778,
-  "2023-05-15": 141816,
-  "2023-05-16": 141851,
-  "2023-05-17": 141882,
-  "2023-05-18": 141938,
-  "2023-05-19": 141985,
-  "2023-05-20": 142068,
-  "2023-05-21": 142068,
-  "2023-05-22": 142068,
-  "2023-05-23": 142172,
-  "2023-05-24": 142277,
-  "2023-05-25": 142297,
-  "2023-05-26": 142355,
-  "2023-05-27": 142408,
-  "2023-05-28": 142452,
-  "2023-05-29": 142452,
-  "2023-05-30": 142530,
-  "2023-05-31": 142571,
-  "2023-06-01": 142612,
-  "2023-06-02": 142652,
-  "2023-06-03": 142694,
-  "2023-06-04": 142729,
-  "2023-06-05": 142757,
-  "2023-06-06": 142800,
-  "2023-06-07": 142848,
-  "2023-06-08": 142895,
-  "2023-06-09": 142942,
-  "2023-06-10": 142976,
-  "2023-06-11": 143020,
-  "2023-06-12": 143048,
-  "2023-06-13": 143081,
-  "2023-06-14": 143120,
-  "2023-06-15": 143160,
-  "2023-06-16": 143201,
-  "2023-06-17": 143237,
-  "2023-06-18": 143278,
-  "2023-06-19": 143315,
-  "2023-06-20": 143353,
-  "2023-06-21": 143399,
-  "2023-06-22": 143438,
-  "2023-06-23": 143462,
-  "2023-06-24": 143498,
-  "2023-06-25": 143519,
-  "2023-06-26": 143555,
-  "2023-06-27": 143589,
-  "2023-06-28": 143637,
-  "2023-06-29": 143691,
-  "2023-06-30": 143728,
-  "2023-07-01": 143853,
-  "2023-07-02": 143853,
-  "2023-07-03": 143897,
-  "2023-07-04": 143928,
-  "2023-07-05": 143964,
-  "2023-07-06": 144070,
-  "2023-07-07": 144070,
-  "2023-07-08": 144113,
-  "2023-07-09": 144157,
-  "2023-07-10": 144200,
-  "2023-07-11": 144237,
-  "2023-07-12": 144283,
-  "2023-07-13": 144338,
-  "2023-07-14": 144390,
-  "2023-07-15": 144422,
-  "2023-07-16": 144476,
-  "2023-07-17": 144520,
-  "2023-07-18": 144565,
-  "2023-07-19": 144660,
-  "2023-07-20": 144745,
-  "2023-07-21": 144800,
-  "2023-07-22": 144852,
-  "2023-07-23": 144919,
-  "2023-07-24": 144972,
-  "2023-07-25": 145044,
-  "2023-07-26": 145122,
-  "2023-07-27": 145188,
-  "2023-07-28": 145257,
-  "2023-07-29": 145299,
-  "2023-07-30": 145352,
-  "2023-07-31": 145404,
-  "2023-08-01": 145431,
-  "2023-08-02": 145483,
-  "2023-08-03": 145531,
-  "2023-08-04": 145581,
-  "2023-08-05": 145630,
-  "2023-08-06": 145707,
-  "2023-08-07": 145707,
-  "2023-08-08": 145739,
-  "2023-08-09": 145771,
-  "2023-08-10": 145818,
-  "2023-08-11": 145861,
-  "2023-08-12": 145861,
-  "2023-08-13": 145861,
-  "2023-08-14": 146000,
-  "2023-08-15": 146000,
-  "2023-08-16": 146000,
-  "2023-08-17": 146129,
-  "2023-08-18": 146129,
-  "2023-08-19": 146129,
-  "2023-08-20": 146258,
-  "2023-08-21": 146258,
-  "2023-08-22": 146343,
-  "2023-08-23": 146343,
-  "2023-08-24": 146424,
-  "2023-08-25": 146424,
-  "2023-08-26": 146521,
-  "2023-08-27": 146521,
-  "2023-08-28": 146623,
-  "2023-08-29": 146623,
-  "2023-08-30": 146623,
-  "2023-08-31": 146751,
-  "2023-09-01": 146811,
-  "2023-09-02": 146811,
-  "2023-09-03": 146891,
-  "2023-09-04": 146891,
-  "2023-09-05": 146891,
-  "2023-09-06": 146998,
-  "2023-09-07": 146998,
-  "2023-09-08": 146998,
-  "2023-09-09": 146998,
-  "2023-09-10": 147155,
-  "2023-09-11": 147155,
-  "2023-09-12": 147155,
-  "2023-09-13": 147278,
-  "2023-09-14": 147278,
-  "2023-09-15": 147278,
-  "2023-09-16": 147403,
-  "2023-09-17": 147403,
-  "2023-09-18": 147403,
-  "2023-09-19": 147555,
-  "2023-09-20": 147555,
-  "2023-09-21": 147555,
-  "2023-09-22": 147674,
-  "2023-09-23": 147674,
-  "2023-09-24": 147674,
-  "2023-09-25": 147674,
-  "2023-09-26": 147853,
-  "2023-09-27": 147853,
-  "2023-09-28": 147853,
-  "2023-09-29": 147853,
-  "2023-09-30": 147853,
-  "2023-10-01": 147853,
-  "2023-10-02": 148092,
-  "2023-10-03": 148092,
-  "2023-10-04": 148092,
-  "2023-10-05": 148219,
-  "2023-10-06": 148266,
-  "2023-10-07": 148266,
-  "2023-10-08": 148266,
-  "2023-10-09": 148266,
-  "2023-10-10": 148266,
-  "2023-10-11": 148411,
-  "2023-10-12": 148411,
-  "2023-10-13": 148411,
-  "2023-10-14": 148411,
-  "2023-10-15": 148411,
-  "2023-10-16": 148411,
-  "2023-10-17": 148411,
-  "2023-10-18": 148411,
-  "2023-10-19": 148411,
-  "2023-10-20": 148411,
-  "2023-10-21": 148411,
-  "2023-10-22": 148411,
-  "2023-10-23": 148411,
-  "2023-10-24": 148411,
-  "2023-10-25": 148411,
-  "2023-10-26": 148411,
-  "2023-10-27": 148411,
-  "2023-10-28": 148411,
-  "2023-10-29": 148411,
-  "2023-10-30": 148411,
-  "2023-10-31": 148411,
-  "2023-11-01": 148411,
-  "2023-11-02": 148411,
-  "2023-11-03": 148411,
-  "2023-11-04": 148411,
-  "2023-11-05": 148411,
-  "2023-11-06": 148411,
-  "2023-11-07": 148411,
-  "2023-11-08": 148411,
-  "2023-11-09": 148411,
-  "2023-11-10": 148411,
-  "2023-11-11": 149586,
-  "2023-11-12": 149586,
-  "2023-11-13": 149586,
-  "2023-11-14": 149586,
-  "2023-11-15": 149586,
-  "2023-11-16": 149586,
-  "2023-11-17": 149586,
-  "2023-11-18": 149586,
-  "2023-11-19": 149586,
-  "2023-11-20": 149586,
-  "2023-11-21": 149586,
-  "2023-11-22": 149586,
-  "2023-11-23": 149586,
-  "2023-11-24": 149586,
-  "2023-11-25": 149586,
-  "2023-11-26": 149586,
-  "2023-11-27": 149586,
-  "2023-11-28": 149586,
-  "2023-11-29": 149586,
-  "2023-11-30": 149586,
-  "2023-12-01": 149586,
-  "2023-12-02": 149586,
-  "2023-12-03": 149586,
-  "2023-12-04": 149586,
-  "2023-12-05": 149586,
-  "2023-12-06": 149586,
-  "2023-12-07": 149586,
-  "2023-12-08": 149586,
-  "2023-12-09": 149586,
-  "2023-12-10": 149586,
-  "2023-12-11": 149586,
-  "2023-12-12": 149586,
-  "2023-12-13": 149586,
-  "2023-12-14": 150898,
-  "2023-12-15": 150934,
-  "2023-12-16": 150968,
-  "2023-12-17": 151009,
-  "2023-12-18": 151041,
-  "2023-12-19": 151069,
-  "2023-12-20": 151096,
-  "2023-12-21": 151145,
-  "2023-12-22": 151179,
-  "2023-12-23": 151215,
-  "2023-12-24": 151256,
-  "2023-12-25": 151272,
-  "2023-12-26": 151304,
-  "2023-12-27": 151354,
-  "2023-12-30": 151469,
-  "2023-12-31": 151506,
-  "2024-01-01": 151550,
-  "2024-01-02": 151584,
-  "2024-01-03": 151615
+  "2024-01-17": 151837,
+  "date_first_scraped": "2022-05-26",
+  "description": "This is Los Cafres. The essential tracks, all in one playlist.",
+  "name": "This Is Los Cafres",
+  "tracks": [
+    {
+      "album": {
+        "name": "Luna Park",
+        "url": "https://open.spotify.com/album/6YnNbmDNBe4H47DUKka4Hp"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-27",
+      "duration_ms": 203583,
+      "name": "A pesar",
+      "url": "https://open.spotify.com/track/6NOXVnNgo1e90gncQ1T4RC"
+    },
+    {
+      "album": {
+        "name": "Acho Pu\u00f1eta (feat. Los Cafres) (Reggae Remix)",
+        "url": "https://open.spotify.com/album/7bstRDc2A1L8ugU4OpxtrT"
+      },
+      "artists": [
+        {
+          "name": "Gomba Jahbari",
+          "url": "https://open.spotify.com/artist/3q9LLc7LLFwXnDzKE9U24c"
+        },
+        {
+          "name": "Pj Sin Suela",
+          "url": "https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292000,
+      "name": "Acho Pun\u0303eta - Reggae Remix",
+      "url": "https://open.spotify.com/track/3wTF8x41fGiusgpQGBEBVW"
+    },
+    {
+      "album": {
+        "name": "Acto Salvaje",
+        "url": "https://open.spotify.com/album/4EKPGoTkb0oq3i1H3Al9NJ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248074,
+      "name": "Acto Salvaje",
+      "url": "https://open.spotify.com/track/5FdrNZgshY1Q4afERWOyb5"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257999,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/2hkJ7fYPM5V27pjxiPG2gg"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275933,
+      "name": "Al Menos Hoy",
+      "url": "https://open.spotify.com/track/6PknRxiThPZZxfuyP3Upvy"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Alas Canciones",
+      "url": "https://open.spotify.com/track/4f1q6kRlO1qyw7pZIPG3Tp"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-01",
+      "duration_ms": 233280,
+      "name": "Arco Iris",
+      "url": "https://open.spotify.com/track/1oTHZaQXBcga9tgpFX2qV7"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279920,
+      "name": "Bastar\u00e1",
+      "url": "https://open.spotify.com/track/5fRgvfgF4TM947Gi6qOlcF"
+    },
+    {
+      "album": {
+        "name": "Classic Lover Covers",
+        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168600,
+      "name": "Boys Don't Cry",
+      "url": "https://open.spotify.com/track/4E2RRctYO1FJwBK3u36xQr"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "Capit\u00e1n Pelusa",
+      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "album": {
+        "name": "Hombre Simple",
+        "url": "https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232560,
+      "name": "Corazoncito",
+      "url": "https://open.spotify.com/track/5kfTTsve31mQ8zGwcoZIVc"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 258905,
+      "name": "C\u00f3mo Imaginar",
+      "url": "https://open.spotify.com/track/7w8h1IvnQHhe4oduF1EQJW"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 190786,
+      "name": "Dale! - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/4AUpGuaBY9IWkOYgvA1hy6"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227999,
+      "name": "De Mi Mente",
+      "url": "https://open.spotify.com/track/1b8V0hvwAP8dO4xxrvvoXK"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 259959,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/3iHSXnpo93gvNp3yZCBfcK"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 228945,
+      "name": "Dreadlocks",
+      "url": "https://open.spotify.com/track/2eqZ6S26CM4HE6AQAFHAZV"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264466,
+      "name": "Dulce Mu\u00f1equita",
+      "url": "https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 299706,
+      "name": "El Mighty - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/0KSAvTCPwlQBYLEdl9FqVq"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223346,
+      "name": "El Silencio",
+      "url": "https://open.spotify.com/track/490zFllTSVutzmCeB12226"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233557,
+      "name": "El \u00e1ngel",
+      "url": "https://open.spotify.com/track/0g5Fx2wKdyyF3DZIJXSUG4"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 258213,
+      "name": "Es la M\u00fasica - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231584,
+      "name": "Escritorio",
+      "url": "https://open.spotify.com/track/5pOli51fQo1bNV3oO2HHls"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283000,
+      "name": "Este Jard\u00edn",
+      "url": "https://open.spotify.com/track/5UgPN09gWrOMI9zC2io8yC"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247785,
+      "name": "Flaca huella",
+      "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231264,
+      "name": "Flor del Potrero",
+      "url": "https://open.spotify.com/track/3OLZc8KQSTfpc7zcGrqKyM"
+    },
+    {
+      "album": {
+        "name": "Frecuencia Cafre",
+        "url": "https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-15",
+      "duration_ms": 292998,
+      "name": "Hasta cuando",
+      "url": "https://open.spotify.com/track/2QsWEaEhFOKVPAFez0QFWi"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 289491,
+      "name": "Hormiga",
+      "url": "https://open.spotify.com/track/3fbAxq4hxphyKOLSDc3aP3"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316386,
+      "name": "Imposible - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3MNAqtaZyWQjwRjoup22BU"
+    },
+    {
+      "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298449,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 279611,
+      "name": "La magia",
+      "url": "https://open.spotify.com/track/0sCiTglDE8RsNSXSHlDdbg"
+    },
+    {
+      "album": {
+        "name": "La Naturaleza",
+        "url": "https://open.spotify.com/album/11gf4bxcj3Fkx6xhkZZ7Rw"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 410562,
+      "name": "La Naturaleza",
+      "url": "https://open.spotify.com/track/0OtycdXDc8Q8UBNKwX21J7"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 159426,
+      "name": "La Receta - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/4dzDPsRrI8VWFgFbUqAcsS"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357413,
+      "name": "La Vela - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/1RUxqobMDkexH6e7mliVtV"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 267013,
+      "name": "Listo",
+      "url": "https://open.spotify.com/track/4qzyzNMkDKITsgcm5Q1JS6"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 244280,
+      "name": "Llueve",
+      "url": "https://open.spotify.com/track/1fVYU0sWD02L8yqq2jgdp3"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272853,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0yWSrApKh3AgJ5rzbIwtRG"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243200,
+      "name": "Mi Aliento",
+      "url": "https://open.spotify.com/track/5KHWBI8FTuKOVu80l5M3xz"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254037,
+      "name": "Mientras tanto",
+      "url": "https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376800,
+      "name": "Misterio",
+      "url": "https://open.spotify.com/track/3xKXKFjtT24Z6RDNXPF4au"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349520,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Mostrame Como Sos - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t"
+    },
+    {
+      "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300135,
+      "name": "Muia",
+      "url": "https://open.spotify.com/track/5ZGZUjb5imCbUbm9a0Dkir"
+    },
+    {
+      "album": {
+        "name": "Nice Time (Bob Marley)",
+        "url": "https://open.spotify.com/album/4aQICjjARpQgUnGEf3FaFe"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 210050,
+      "name": "Nice Time",
+      "url": "https://open.spotify.com/track/6zTmBVtXNBKJvVsb2rJiHd"
+    },
+    {
+      "album": {
+        "name": "Frecuencia Cafre",
+        "url": "https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-13",
+      "duration_ms": 260133,
+      "name": "No puedo esperar",
+      "url": "https://open.spotify.com/track/7LOyPKmbXWbkrmmCVbIyIH"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269490,
+      "name": "Objeto Sexual",
+      "url": "https://open.spotify.com/track/3slMnI3iN08GhusgtK8O93"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294053,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/5noZB6CRuCQuvfwVVCphDR"
+    },
+    {
+      "album": {
+        "name": "Pimper's Paradise (Bob Marley)",
+        "url": "https://open.spotify.com/album/0ljpQsZqy1hxGYrK7eUvG2"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 236666,
+      "name": "Pimper's Paradise",
+      "url": "https://open.spotify.com/track/2snrBjjv1hGoP0RUtCUroH"
+    },
+    {
+      "album": {
+        "name": "Hombre Simple",
+        "url": "https://open.spotify.com/album/0cBsE8gL9lYm0LjjmFw9R9"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 292453,
+      "name": "Privilegio",
+      "url": "https://open.spotify.com/track/1CgCTkGw7KzyrNc4esCfuy"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 315293,
+      "name": "Puedo",
+      "url": "https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0"
+    },
+    {
+      "album": {
+        "name": "Classic Lover Covers",
+        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205055,
+      "name": "Qued\u00e1ndote O Y\u00e9ndote",
+      "url": "https://open.spotify.com/track/2zH2SJsU74xiNq14SuhRKz"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 225786,
+      "name": "Revelaci\u00f3n",
+      "url": "https://open.spotify.com/track/5ajEyAFPp4udppS39qa0a9"
+    },
+    {
+      "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257189,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/4ZxQu8cu8NhahM4DqG9O19"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 249997,
+      "name": "Ruge la Barra",
+      "url": "https://open.spotify.com/track/2JHpzvygFt7SJeDHXqK0lA"
+    },
+    {
+      "album": {
+        "name": "Hoy \u2013 3d\u00e9cadas, Vol. 1",
+        "url": "https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271183,
+      "name": "Se Va de M\u00ed",
+      "url": "https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z"
+    },
+    {
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252479,
+      "name": "Secreto m\u00edo",
+      "url": "https://open.spotify.com/track/5NHiMB5NKyNseGSdUAPqn3"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 309160,
+      "name": "See You Comin'",
+      "url": "https://open.spotify.com/track/09VF5b8Sy9tdnkSbQWOhBV"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 271000,
+      "name": "Si El Amor Se Cae",
+      "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 274413,
+      "name": "Si Te Da lo Mismo - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2A3mfvW9RaldwHe3yG8lIm"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196998,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/0NbdZ9fS7saRQAyyTqBWBE"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302280,
+      "name": "Sigo Caminando",
+      "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224490,
+      "name": "Sin Gamul\u00e1n",
+      "url": "https://open.spotify.com/track/1ccEBfPmipV4R41R6Y3ouy"
+    },
+    {
+      "album": {
+        "name": "Frecuencia Cafre",
+        "url": "https://open.spotify.com/album/2vAAr7JcXT2eB5olXE8qEK"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 285826,
+      "name": "Sinsemilla",
+      "url": "https://open.spotify.com/track/3rE0BjJXdWN4XozxPptoVf"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 266773,
+      "name": "So Please - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3Uqykrseya62eyLuusZsM0"
+    },
+    {
+      "album": {
+        "name": "Vivo a Lo Cafre",
+        "url": "https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136437,
+      "name": "Suena la Alarma",
+      "url": "https://open.spotify.com/track/2Bykx7Sa2MB0JhgM1U770v"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311533,
+      "name": "S\u00e9 Q' el Mar",
+      "url": "https://open.spotify.com/track/5kKtxKJpSH1iaUlYRFZKBi"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271293,
+      "name": "S\u00f3lo un Pensamiento - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/2gDIa4YN7mAIwFpFNnvCZq"
+    },
+    {
+      "album": {
+        "name": "Instinto",
+        "url": "https://open.spotify.com/album/4BJ27soCC0DWKQZbjXl6u0"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 195892,
+      "name": "Todo lo que quiero",
+      "url": "https://open.spotify.com/track/1pdaJnpDILlSbgSGGAcY0B"
+    },
+    {
+      "album": {
+        "name": "Tu Meta",
+        "url": "https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288386,
+      "name": "Tu Meta",
+      "url": "https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 326506,
+      "name": "Tu Voz",
+      "url": "https://open.spotify.com/track/7GaK0B8C8RDElzE5lHM1e5"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254865,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J"
+    },
+    {
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280040,
+      "name": "Una Perla en Mi Vida - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL"
+    },
+    {
+      "album": {
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266533,
+      "name": "Velas y Sahumerios",
+      "url": "https://open.spotify.com/track/3ANlhNoOuwdQBgh9p8GW3Z"
+    },
+    {
+      "album": {
+        "name": "Barrilete",
+        "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210800,
+      "name": "Verte Bien",
+      "url": "https://open.spotify.com/track/3UE4HKwbSFNjk3LdhJ4qhG"
+    },
+    {
+      "album": {
+        "name": "Vos Sab\u00e9s",
+        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 238291,
+      "name": "Vos sab\u00e9s",
+      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
+    },
+    {
+      "album": {
+        "name": "Espejitos",
+        "url": "https://open.spotify.com/album/4D4Qd2NYRSnmd6wWh9VjVQ"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314491,
+      "name": "Waitin en Vano",
+      "url": "https://open.spotify.com/track/03eLaRGb1oZgmtGSrMuoty"
+    },
+    {
+      "album": {
+        "name": "Vivo a Lo Cafre",
+        "url": "https://open.spotify.com/album/1TvNdTWV1EhWnlOfze5taj"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298199,
+      "name": "Waiting en Vano",
+      "url": "https://open.spotify.com/track/5sAK5JZrlRF0QMY6AL0Ygl"
+    },
+    {
+      "album": {
+        "name": "Classic Lover Covers",
+        "url": "https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216317,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX"
+    },
+    {
+      "album": {
+        "name": "Alas Canciones",
+        "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 284893,
+      "name": "\u00d3rbita",
+      "url": "https://open.spotify.com/track/3Ki4G6890ziJUHEV8aOaWn"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Fa8jC"
 }

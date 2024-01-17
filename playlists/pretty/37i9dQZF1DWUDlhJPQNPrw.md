@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 
 > things will get better soon\. for now, just listen and dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,355 likes - 147 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,661 likes - 147 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

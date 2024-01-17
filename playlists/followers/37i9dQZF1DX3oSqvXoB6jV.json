@@ -1,210 +1,615 @@
 {
-  "2023-06-08": 76,
-  "2023-06-09": 126,
-  "2023-06-10": 196,
-  "2023-06-11": 358,
-  "2023-06-12": 578,
-  "2023-06-13": 714,
-  "2023-06-14": 847,
-  "2023-06-15": 961,
-  "2023-06-16": 1085,
-  "2023-06-17": 1184,
-  "2023-06-18": 1288,
-  "2023-06-19": 1393,
-  "2023-06-20": 1499,
-  "2023-06-21": 1607,
-  "2023-06-22": 1681,
-  "2023-06-23": 1764,
-  "2023-06-24": 1841,
-  "2023-06-25": 1936,
-  "2023-06-26": 2041,
-  "2023-06-27": 2166,
-  "2023-06-28": 2269,
-  "2023-06-29": 2357,
-  "2023-06-30": 2445,
-  "2023-07-01": 2652,
-  "2023-07-02": 2652,
-  "2023-07-03": 2771,
-  "2023-07-04": 2896,
-  "2023-07-05": 2992,
-  "2023-07-06": 3185,
-  "2023-07-07": 3185,
-  "2023-07-08": 3272,
-  "2023-07-09": 3370,
-  "2023-07-10": 3482,
-  "2023-07-11": 3569,
-  "2023-07-12": 3648,
-  "2023-07-13": 3727,
-  "2023-07-14": 3802,
-  "2023-07-15": 3852,
-  "2023-07-16": 3940,
-  "2023-07-17": 4020,
-  "2023-07-18": 4087,
-  "2023-07-19": 4156,
-  "2023-07-20": 4227,
-  "2023-07-21": 4286,
-  "2023-07-22": 4351,
-  "2023-07-23": 4420,
-  "2023-07-24": 4504,
-  "2023-07-25": 4580,
-  "2023-07-26": 4637,
-  "2023-07-27": 4682,
-  "2023-07-28": 4732,
-  "2023-07-29": 4800,
-  "2023-07-30": 4850,
-  "2023-07-31": 4907,
-  "2023-08-01": 4955,
-  "2023-08-02": 5002,
-  "2023-08-03": 5048,
-  "2023-08-04": 5097,
-  "2023-08-05": 5156,
-  "2023-08-06": 5265,
-  "2023-08-07": 5265,
-  "2023-08-08": 5317,
-  "2023-08-09": 5357,
-  "2023-08-10": 5411,
-  "2023-08-11": 5456,
-  "2023-08-12": 5529,
-  "2023-08-13": 5570,
-  "2023-08-14": 5617,
-  "2023-08-15": 5731,
-  "2023-08-16": 5731,
-  "2023-08-17": 5782,
-  "2023-08-18": 5830,
-  "2023-08-19": 5873,
-  "2023-08-20": 5918,
-  "2023-08-21": 5973,
-  "2023-08-22": 6025,
-  "2023-08-23": 6067,
-  "2023-08-24": 6104,
-  "2023-08-25": 6150,
-  "2023-08-26": 6195,
-  "2023-08-27": 6243,
-  "2023-08-28": 6294,
-  "2023-08-29": 6342,
-  "2023-08-30": 6373,
-  "2023-08-31": 6415,
-  "2023-09-01": 6459,
-  "2023-09-02": 6459,
-  "2023-09-03": 6484,
-  "2023-09-04": 6512,
-  "2023-09-05": 6542,
-  "2023-09-06": 6566,
-  "2023-09-07": 6590,
-  "2023-09-08": 6610,
-  "2023-09-09": 6628,
-  "2023-09-10": 6656,
-  "2023-09-11": 6678,
-  "2023-09-12": 6699,
-  "2023-09-13": 6715,
-  "2023-09-14": 6746,
-  "2023-09-15": 6767,
-  "2023-09-16": 6778,
-  "2023-09-17": 6787,
-  "2023-09-18": 6826,
-  "2023-09-19": 6846,
-  "2023-09-20": 6856,
-  "2023-09-21": 6883,
-  "2023-09-22": 6907,
-  "2023-09-23": 6934,
-  "2023-09-24": 6959,
-  "2023-09-25": 6988,
-  "2023-09-26": 7013,
-  "2023-09-27": 7023,
-  "2023-09-28": 7040,
-  "2023-09-29": 7056,
-  "2023-09-30": 7081,
-  "2023-10-01": 7111,
-  "2023-10-02": 7139,
-  "2023-10-03": 7165,
-  "2023-10-04": 7190,
-  "2023-10-05": 7207,
-  "2023-10-06": 7226,
-  "2023-10-07": 7242,
-  "2023-10-08": 7255,
-  "2023-10-09": 7282,
-  "2023-10-10": 7299,
-  "2023-10-11": 7348,
-  "2023-10-12": 7348,
-  "2023-10-13": 7361,
-  "2023-10-14": 7389,
-  "2023-10-15": 7411,
-  "2023-10-16": 7441,
-  "2023-10-17": 7460,
-  "2023-10-18": 7475,
-  "2023-10-19": 7493,
-  "2023-10-20": 7520,
-  "2023-10-21": 7540,
-  "2023-10-22": 7557,
-  "2023-10-23": 7581,
-  "2023-10-24": 7598,
-  "2023-10-25": 7618,
-  "2023-10-26": 7633,
-  "2023-10-27": 7648,
-  "2023-10-28": 7677,
-  "2023-10-29": 7696,
-  "2023-10-30": 7728,
-  "2023-10-31": 7728,
-  "2023-11-01": 7740,
-  "2023-11-02": 7762,
-  "2023-11-03": 7778,
-  "2023-11-04": 7793,
-  "2023-11-05": 7809,
-  "2023-11-06": 7815,
-  "2023-11-07": 7831,
-  "2023-11-08": 7839,
-  "2023-11-09": 7855,
-  "2023-11-10": 7874,
-  "2023-11-11": 7885,
-  "2023-11-12": 7901,
-  "2023-11-13": 7913,
-  "2023-11-14": 7919,
-  "2023-11-15": 7919,
-  "2023-11-16": 7937,
-  "2023-11-17": 7961,
-  "2023-11-18": 7961,
-  "2023-11-19": 7977,
-  "2023-11-20": 7999,
-  "2023-11-21": 8009,
-  "2023-11-22": 8023,
-  "2023-11-23": 8028,
-  "2023-11-24": 8041,
-  "2023-11-25": 8055,
-  "2023-11-26": 8068,
-  "2023-11-27": 8085,
-  "2023-11-28": 8091,
-  "2023-11-29": 8135,
-  "2023-11-30": 8135,
-  "2023-12-01": 8149,
-  "2023-12-02": 8167,
-  "2023-12-03": 8185,
-  "2023-12-04": 8203,
-  "2023-12-05": 8219,
-  "2023-12-06": 8226,
-  "2023-12-07": 8237,
-  "2023-12-08": 8254,
-  "2023-12-09": 8277,
-  "2023-12-10": 8313,
-  "2023-12-11": 8338,
-  "2023-12-12": 8370,
-  "2023-12-13": 8388,
-  "2023-12-14": 8417,
-  "2023-12-15": 8438,
-  "2023-12-16": 8458,
-  "2023-12-17": 8497,
-  "2023-12-18": 8529,
-  "2023-12-19": 8560,
-  "2023-12-20": 8582,
-  "2023-12-21": 8606,
-  "2023-12-22": 8627,
-  "2023-12-23": 8659,
-  "2023-12-24": 8675,
-  "2023-12-25": 8704,
-  "2023-12-26": 8712,
-  "2023-12-27": 8738,
-  "2023-12-30": 8832,
-  "2023-12-31": 8858,
-  "2024-01-01": 8881,
-  "2024-01-02": 8908,
-  "2024-01-03": 8937
+  "2024-01-17": 9289,
+  "date_first_scraped": "2023-06-08",
+  "description": "Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama The Good Bad Mother. (JTBC \ub4dc\ub77c\ub9c8 \ub098\uc05c\uc5c4\ub9c8\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! \ubc30\uc6b0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\ub3c4 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc640 \ud074\ub9bd\uc2a4\ub97c \ud1b5\ud574 \ud655\uc778\ud558\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "\ub098\uc05c\uc5c4\ub9c8 (The Good Bad Mother)",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/2omLP9FjywLa5VPH0dyNB2"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A Dreamy Town",
+      "url": "https://open.spotify.com/track/7xi7TEARUncO87gztq1eKz"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/2omLP9FjywLa5VPH0dyNB2"
+      },
+      "artists": [
+        {
+          "name": "Hajin",
+          "url": "https://open.spotify.com/artist/7KZnYmjUlqcJ8Hozbg64Lu"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "A Dreamy Town - Instrumental",
+      "url": "https://open.spotify.com/track/4SFQ7ivL8ea6ZKrDz3jD4a"
+    },
+    {
+      "album": {
+        "name": "A Mother\u2019s Fear",
+        "url": "https://open.spotify.com/album/6jZWt0bIqs4O8vTMKndYpv"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216960,
+      "name": "A Mother\u2019s Fear",
+      "url": "https://open.spotify.com/track/0DffMF7OZ4FztRUI9ssARg"
+    },
+    {
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/77PGmdoeRH2FhCB9VJtkHN"
+      },
+      "artists": [
+        {
+          "name": "Toy",
+          "url": "https://open.spotify.com/artist/2HyoXCqcYBSzVibRweDeX8"
+        },
+        {
+          "name": "Sung Si Kyung",
+          "url": "https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329280,
+      "name": "A song to my daughter (Vocal Sung Si Kyung)",
+      "url": "https://open.spotify.com/track/0l2h78X4npYJFrIAgqKw0w"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/5vgLtCaNQFormvvIyGB9oX"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/6ja6MFMMXJqNgTj1059D8C"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/5vgLtCaNQFormvvIyGB9oX"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "About You - Instrumental",
+      "url": "https://open.spotify.com/track/3sSQKE7Zj5FigyzJACF863"
+    },
+    {
+      "album": {
+        "name": "Break into My Heart (From \"The Good Bad Mother\" Original Television Soundtrack, Bonus Track)",
+        "url": "https://open.spotify.com/album/3iAXz9cfOTTNGfHpQ5vOBP"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\ud0dc\uc6d0",
+          "url": "https://open.spotify.com/artist/6sHWnCG3W5vUyBbEuUerkk"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178260,
+      "name": "Break into My Heart (From \"The Good Bad Mother\" Original Television Soundtrack, Bonus Track)",
+      "url": "https://open.spotify.com/track/5uvJnz956f6R4X9zTaa9Uw"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/0lVWUc9umG4kW4ZdClfj5l"
+      },
+      "artists": [
+        {
+          "name": "Broccoli, you too?",
+          "url": "https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269435,
+      "name": "Don't Cry",
+      "url": "https://open.spotify.com/track/1CK3AXEftHvx26jG8a7vFa"
+    },
+    {
+      "album": {
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 2",
+        "url": "https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231696,
+      "name": "Don't worry",
+      "url": "https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1UBKXAzmO6NlBINXjTTYS4"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/34u5QnHo33LkkxDhfrokrQ"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Good Night - Instrumental",
+      "url": "https://open.spotify.com/track/3n9v0SjlbJVHbIa99mmSJX"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/5o499KkVYTXYJPJfIwW0Ae"
+      },
+      "artists": [
+        {
+          "name": "Andy Love",
+          "url": "https://open.spotify.com/artist/1or82agbJU2mMGz3QAFUXL"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Home And Dry",
+      "url": "https://open.spotify.com/track/43DT5iknCE6QOoY048ylui"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/0MTztT8DDv1Mqkv8cbZgwu"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Love you again",
+      "url": "https://open.spotify.com/track/3tt4jUdcPx7ZRNrXcP58x2"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/0MTztT8DDv1Mqkv8cbZgwu"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Love you again - Instrumental",
+      "url": "https://open.spotify.com/track/3sz5gn0SzxPMTIIhzK6zf2"
+    },
+    {
+      "album": {
+        "name": "DESTINY",
+        "url": "https://open.spotify.com/album/6QXXHoQo4VxMuoZQlL1tK1"
+      },
+      "artists": [
+        {
+          "name": "INFINITE",
+          "url": "https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282510,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/6fr0IxOEP30oSL0xHdzm4K"
+    },
+    {
+      "album": {
+        "name": "Ra.D",
+        "url": "https://open.spotify.com/album/4iMLr53DXhEl63OkiUnRBQ"
+      },
+      "artists": [
+        {
+          "name": "Ra.D",
+          "url": "https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308249,
+      "name": "Mom - 2020 Ver.",
+      "url": "https://open.spotify.com/track/2cZxa5tK7XEPwbJgbAEk38"
+    },
+    {
+      "album": {
+        "name": "LIKE",
+        "url": "https://open.spotify.com/album/4uALCT7fTF4FFva8pB2i32"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205505,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/6HXElLXqRMTfsUIgWWXYqO"
+    },
+    {
+      "album": {
+        "name": "Mother and daughter (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JLar6YZQaGbw6v1ZvRXCV"
+      },
+      "artists": [
+        {
+          "name": "Saein",
+          "url": "https://open.spotify.com/artist/4SkqKuSedO1rxJNyPRuifq"
+        },
+        {
+          "name": "Insooni",
+          "url": "https://open.spotify.com/artist/5jGYA5Yz8Tt8UFx5jbtxTy"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217999,
+      "name": "Mother and daughter",
+      "url": "https://open.spotify.com/track/5930Pdj3EUekuwTxMEzrFM"
+    },
+    {
+      "album": {
+        "name": "Love call center PART46",
+        "url": "https://open.spotify.com/album/4YbqjZeYVa6XfaqvPxNu1X"
+      },
+      "artists": [
+        {
+          "name": "Jeong Dong Won",
+          "url": "https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki"
+        },
+        {
+          "name": "Yang Jieun",
+          "url": "https://open.spotify.com/artist/6GNi8HpRpHUCEtRNd0XDT0"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299833,
+      "name": "Mother to daughter",
+      "url": "https://open.spotify.com/track/3MJ4sGCdgggo4PYBd9aad5"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Talk About Love",
+      "url": "https://open.spotify.com/track/4jJG67ZARJRVBBIXMf0qpM"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2KFsvdLGizodPJeSc39k30"
+      },
+      "artists": [
+        {
+          "name": "Lee Moon Sae",
+          "url": "https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Talk About Love - Instrumental",
+      "url": "https://open.spotify.com/track/4v8z7ug9egio7OMFhbxAog"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/61BP0xUAwiYULnLWKeziso"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/63gnEuPiYkgzX3l36tRw1e"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Tell Me - Instrumental",
+      "url": "https://open.spotify.com/track/2IhjQ4UqQOvrX3nfBYT0ni"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/6XXs7VIxHhaeIjVW0nwkM0"
+      },
+      "artists": [
+        {
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Road not Taken",
+      "url": "https://open.spotify.com/track/17BytRtBL3ajgsOQD1cCxT"
+    },
+    {
+      "album": {
+        "name": "The Good Bad Mother (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/6XXs7VIxHhaeIjVW0nwkM0"
+      },
+      "artists": [
+        {
+          "name": "JeHwi",
+          "url": "https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "The Road not Taken - Instrumental",
+      "url": "https://open.spotify.com/track/2ZNDmwIzIKQ8bLBasXFh5K"
+    },
+    {
+      "album": {
+        "name": "\uae40\uad11\uc11d 4\uc9d1 \ub9ac\ub9c8\uc2a4\ud130\ub9c1\uc568\ubc94",
+        "url": "https://open.spotify.com/album/1Yk9jrcx4JQpSmyqpvakvV"
+      },
+      "artists": [
+        {
+          "name": "Kim Kwang Seok",
+          "url": "https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "\ub108\ubb34 \uae4a\uc774 \uc0dd\uac01\ud558\uc9c0\ub9c8",
+      "url": "https://open.spotify.com/track/4xzgv2UElvb4bgvfFpZd10"
+    },
+    {
+      "album": {
+        "name": "\ub2ec\ub9ac\uae30 Run",
+        "url": "https://open.spotify.com/album/0H3i0ra42JzwEWdgYRWSSu"
+      },
+      "artists": [
+        {
+          "name": "OKDAL",
+          "url": "https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177089,
+      "name": "\ub2ec\ub9ac\uae30 Run",
+      "url": "https://open.spotify.com/track/4knCGquFltgDzhO1VAbixL"
+    },
+    {
+      "album": {
+        "name": "Chapter 1",
+        "url": "https://open.spotify.com/album/7nXgDEsZZdp3ri3WtDNS8v"
+      },
+      "artists": [
+        {
+          "name": "god",
+          "url": "https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "\uc5b4\uba38\ub2d8\uaed8",
+      "url": "https://open.spotify.com/track/3731F2mROqxhXB4gtdteLn"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 \uc2dc\uc98c4 `\uc5c4\ub9c8\ub85c \uc0b0\ub2e4\ub294 \uac83\uc740`",
+        "url": "https://open.spotify.com/album/2PWqUtdLKYUEHSo1qBcEqb"
+      },
+      "artists": [
+        {
+          "name": "Lee Seol Ah",
+          "url": "https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-16",
+      "duration_ms": 174133,
+      "name": "\uc5c4\ub9c8\ub85c \uc0b0\ub2e4\ub294 \uac83\uc740",
+      "url": "https://open.spotify.com/track/64nEK5eNrJgLIXsjcH8k9V"
+    },
+    {
+      "album": {
+        "name": "K\ud31d \uc2a4\ud0c0 \uc2dc\uc98c4 \uc5c4\ub9c8\ub85c \uc0b0\ub2e4\ub294 \uac83\uc740",
+        "url": "https://open.spotify.com/album/4mHoxWJ57E6WinNmIAhE47"
+      },
+      "artists": [
+        {
+          "name": "Lee Seol Ah",
+          "url": "https://open.spotify.com/artist/2mBJXhOnDZnZFxvoaGsZlJ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174242,
+      "name": "\uc5c4\ub9c8\ub85c \uc0b0\ub2e4\ub294 \uac83\uc740",
+      "url": "https://open.spotify.com/track/3w0hU4ljjvZN7sb1Ch1Gzk"
+    },
+    {
+      "album": {
+        "name": "\uc9c0\uae08\uc774 \uc6b0\ub9ac\uc758 \uc804\ubd80",
+        "url": "https://open.spotify.com/album/4rMy2rJVLXBdlhnGvWyPMf"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2023-06-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195394,
+      "name": "\uc9c0\uae08\uc774 \uc6b0\ub9ac\uc758 \uc804\ubd80",
+      "url": "https://open.spotify.com/track/0YRZJRVNOsiwAuAFkA6qq9"
+    },
+    {
+      "album": {
+        "name": "\uc9c0\uae08\uc774 \uc6b0\ub9ac\uc758 \uc804\ubd80",
+        "url": "https://open.spotify.com/album/09RGAbZaeX5z2eGSs97LCA"
+      },
+      "artists": [
+        {
+          "name": "Hello Ga-Young",
+          "url": "https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 195394,
+      "name": "\uc9c0\uae08\uc774 \uc6b0\ub9ac\uc758 \uc804\ubd80",
+      "url": "https://open.spotify.com/track/7f3WNw4UdMs9IrRdt36yRj"
+    },
+    {
+      "album": {
+        "name": "Wax 4",
+        "url": "https://open.spotify.com/album/36AQk4c5ynxBY8XDikd01n"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265453,
+      "name": "\ud669\ud63c\uc758 \ubb38\ud131",
+      "url": "https://open.spotify.com/track/7p09HfcAITKOpoF0PjPJJ8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3oSqvXoB6jV"
 }

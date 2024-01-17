@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 238876,
       "name": "Affection",
       "url": "https://open.spotify.com/track/1aUpK1JSRMXiQS2CcEaDMH"
@@ -284,7 +284,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 222670,
       "name": "Around the Block",
       "url": "https://open.spotify.com/track/2Q5tHXr0obkhR9YhZR5DXB"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 272381,
       "name": "Black Dynamite",
       "url": "https://open.spotify.com/track/6GAkD2g89uH0bLwiDw5hrP"
@@ -1058,7 +1058,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 245925,
       "name": "Deep Dive",
       "url": "https://open.spotify.com/track/1mnNpkP5NgED8O3Zx6GuCA"
@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "On the Up and Up",
+        "url": "https://open.spotify.com/album/0fendbHIfxrBOViSQahezC"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248412,
+      "name": "On the Up and Up",
+      "url": "https://open.spotify.com/track/2VGeV6n8YqmOoOY0zhOBeB"
+    },
+    {
+      "album": {
         "name": "A Day In The Life",
         "url": "https://open.spotify.com/album/2grvoFsNL4w9k0kXP6fkyn"
       },
@@ -2976,7 +2994,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 281706,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7t6q9hCtvEY9it0G5pj7Mm"
@@ -3316,7 +3334,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 215200,
       "name": "Round And Round",
       "url": "https://open.spotify.com/track/4KtQuilZOf6EhdcmqMSLVP"
@@ -4266,7 +4284,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 260333,
       "name": "Valentin Dream (feat. Bob Baldwin)",
       "url": "https://open.spotify.com/track/3RO3Ct4WkUIaYIC5AP9j2A"

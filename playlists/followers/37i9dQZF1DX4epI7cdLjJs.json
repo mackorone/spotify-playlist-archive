@@ -1,595 +1,727 @@
 {
-  "2022-05-15": 2983,
-  "2022-05-16": 3326,
-  "2022-05-17": 3672,
-  "2022-05-18": 4043,
-  "2022-05-19": 4320,
-  "2022-05-20": 4658,
-  "2022-05-21": 5188,
-  "2022-05-22": 5188,
-  "2022-05-23": 5520,
-  "2022-05-24": 5855,
-  "2022-05-25": 6141,
-  "2022-05-26": 6417,
-  "2022-05-27": 6678,
-  "2022-05-28": 6897,
-  "2022-05-29": 7132,
-  "2022-05-30": 7382,
-  "2022-05-31": 7627,
-  "2022-06-01": 8062,
-  "2022-06-02": 8084,
-  "2022-06-03": 8323,
-  "2022-06-04": 8543,
-  "2022-06-05": 8772,
-  "2022-06-06": 8990,
-  "2022-06-07": 9210,
-  "2022-06-08": 9449,
-  "2022-06-09": 9619,
-  "2022-06-10": 9817,
-  "2022-06-11": 10055,
-  "2022-06-12": 10318,
-  "2022-06-13": 10556,
-  "2022-06-14": 10788,
-  "2022-06-15": 10991,
-  "2022-06-16": 11214,
-  "2022-06-17": 11466,
-  "2022-06-18": 11668,
-  "2022-06-19": 12166,
-  "2022-06-20": 12166,
-  "2022-06-21": 12397,
-  "2022-06-22": 12814,
-  "2022-06-23": 12814,
-  "2022-06-24": 13012,
-  "2022-06-25": 13231,
-  "2022-06-26": 13431,
-  "2022-06-27": 13623,
-  "2022-06-28": 13825,
-  "2022-06-29": 14019,
-  "2022-06-30": 14195,
-  "2022-07-01": 14382,
-  "2022-07-02": 14529,
-  "2022-07-03": 14768,
-  "2022-07-04": 14984,
-  "2022-07-05": 15188,
-  "2022-07-06": 15391,
-  "2022-07-07": 15604,
-  "2022-07-08": 15795,
-  "2022-07-09": 15997,
-  "2022-07-10": 16215,
-  "2022-07-11": 16438,
-  "2022-07-12": 16608,
-  "2022-07-13": 16816,
-  "2022-07-14": 17016,
-  "2022-07-15": 17211,
-  "2022-07-16": 17384,
-  "2022-07-17": 17577,
-  "2022-07-18": 17803,
-  "2022-07-19": 18021,
-  "2022-07-20": 18211,
-  "2022-07-21": 18409,
-  "2022-07-22": 18603,
-  "2022-07-23": 18787,
-  "2022-07-24": 19003,
-  "2022-07-25": 19237,
-  "2022-07-26": 19424,
-  "2022-07-27": 19623,
-  "2022-07-28": 19806,
-  "2022-07-29": 20041,
-  "2022-07-30": 20480,
-  "2022-07-31": 20480,
-  "2022-08-01": 20721,
-  "2022-08-02": 21129,
-  "2022-08-03": 21129,
-  "2022-08-04": 21351,
-  "2022-08-05": 21542,
-  "2022-08-06": 21772,
-  "2022-08-07": 22058,
-  "2022-08-08": 22324,
-  "2022-08-09": 22567,
-  "2022-08-10": 22833,
-  "2022-08-11": 23067,
-  "2022-08-12": 23304,
-  "2022-08-13": 23485,
-  "2022-08-14": 23686,
-  "2022-08-15": 23941,
-  "2022-08-16": 24167,
-  "2022-08-17": 24347,
-  "2022-08-18": 24508,
-  "2022-08-19": 24716,
-  "2022-08-20": 24889,
-  "2022-08-21": 25069,
-  "2022-08-22": 25314,
-  "2022-08-23": 25495,
-  "2022-08-24": 25680,
-  "2022-08-25": 25844,
-  "2022-08-26": 26014,
-  "2022-08-27": 26188,
-  "2022-08-28": 26390,
-  "2022-08-29": 26578,
-  "2022-08-30": 26711,
-  "2022-08-31": 26863,
-  "2022-09-01": 27049,
-  "2022-09-02": 27192,
-  "2022-09-03": 27354,
-  "2022-09-04": 27517,
-  "2022-09-05": 27668,
-  "2022-09-06": 27833,
-  "2022-09-07": 27975,
-  "2022-09-09": 28222,
-  "2022-09-10": 28360,
-  "2022-09-11": 28484,
-  "2022-09-12": 28610,
-  "2022-09-13": 28732,
-  "2022-09-15": 28969,
-  "2022-09-16": 29087,
-  "2022-09-17": 29190,
-  "2022-09-18": 29324,
-  "2022-09-19": 29441,
-  "2022-09-20": 29538,
-  "2022-09-21": 29624,
-  "2022-09-22": 29733,
-  "2022-09-23": 29803,
-  "2022-09-24": 29884,
-  "2022-09-25": 30010,
-  "2022-09-26": 30119,
-  "2022-09-27": 30255,
-  "2022-09-28": 30381,
-  "2022-09-29": 30520,
-  "2022-09-30": 30628,
-  "2022-10-01": 30736,
-  "2022-10-02": 30854,
-  "2022-10-03": 30980,
-  "2022-10-04": 31071,
-  "2022-10-05": 31180,
-  "2022-10-06": 31281,
-  "2022-10-07": 31392,
-  "2022-10-08": 31526,
-  "2022-10-09": 31730,
-  "2022-10-10": 31770,
-  "2022-10-11": 31913,
-  "2022-10-12": 32051,
-  "2022-10-13": 32158,
-  "2022-10-14": 32298,
-  "2022-10-15": 32460,
-  "2022-10-16": 32587,
-  "2022-10-17": 32753,
-  "2022-10-18": 32896,
-  "2022-10-19": 33039,
-  "2022-10-20": 33151,
-  "2022-10-21": 33268,
-  "2022-10-22": 33403,
-  "2022-10-23": 33527,
-  "2022-10-24": 33664,
-  "2022-10-25": 33799,
-  "2022-10-26": 33907,
-  "2022-10-27": 34013,
-  "2022-10-28": 34148,
-  "2022-10-29": 34300,
-  "2022-10-30": 34412,
-  "2022-10-31": 34548,
-  "2022-11-01": 34662,
-  "2022-11-02": 34802,
-  "2022-11-03": 34955,
-  "2022-11-04": 35122,
-  "2022-11-05": 35269,
-  "2022-11-06": 35443,
-  "2022-11-07": 35609,
-  "2022-11-08": 35761,
-  "2022-11-09": 35902,
-  "2022-11-10": 36035,
-  "2022-11-11": 36196,
-  "2022-11-12": 36386,
-  "2022-11-13": 36545,
-  "2022-11-14": 36712,
-  "2022-11-15": 36870,
-  "2022-11-16": 36996,
-  "2022-11-17": 37111,
-  "2022-11-18": 37168,
-  "2022-11-19": 37123,
-  "2022-11-20": 37337,
-  "2022-11-21": 37286,
-  "2022-11-22": 37652,
-  "2022-11-23": 37617,
-  "2022-11-24": 38043,
-  "2022-11-25": 38253,
-  "2022-11-26": 38399,
-  "2022-11-27": 38598,
-  "2022-11-28": 38758,
-  "2022-11-29": 38927,
-  "2022-11-30": 39046,
-  "2022-12-01": 39219,
-  "2022-12-02": 39317,
-  "2022-12-03": 39515,
-  "2022-12-04": 39691,
-  "2022-12-05": 39837,
-  "2022-12-06": 39999,
-  "2022-12-07": 40141,
-  "2022-12-08": 40297,
-  "2022-12-09": 40457,
-  "2022-12-10": 40593,
-  "2022-12-11": 40746,
-  "2022-12-12": 40898,
-  "2022-12-13": 41045,
-  "2022-12-14": 41181,
-  "2022-12-15": 41315,
-  "2022-12-16": 41419,
-  "2022-12-17": 41550,
-  "2022-12-18": 41670,
-  "2022-12-19": 41788,
-  "2022-12-20": 42076,
-  "2022-12-21": 42076,
-  "2022-12-22": 42213,
-  "2022-12-24": 42442,
-  "2022-12-25": 42577,
-  "2022-12-26": 42665,
-  "2022-12-27": 42824,
-  "2022-12-28": 42995,
-  "2022-12-29": 43160,
-  "2022-12-30": 43334,
-  "2022-12-31": 43538,
-  "2023-01-01": 43692,
-  "2023-01-02": 43834,
-  "2023-01-03": 44057,
-  "2023-01-04": 44268,
-  "2023-01-05": 44448,
-  "2023-01-06": 44659,
-  "2023-01-07": 44908,
-  "2023-01-08": 44967,
-  "2023-01-09": 45168,
-  "2023-01-10": 45354,
-  "2023-01-11": 45541,
-  "2023-01-12": 45765,
-  "2023-01-13": 45985,
-  "2023-01-14": 46322,
-  "2023-01-15": 46399,
-  "2023-01-16": 46575,
-  "2023-01-17": 46746,
-  "2023-01-18": 46902,
-  "2023-01-19": 47064,
-  "2023-01-20": 47248,
-  "2023-01-21": 47429,
-  "2023-01-22": 47635,
-  "2023-01-23": 47824,
-  "2023-01-24": 47990,
-  "2023-01-25": 48138,
-  "2023-01-26": 48289,
-  "2023-01-27": 48447,
-  "2023-01-28": 48600,
-  "2023-01-29": 48746,
-  "2023-01-30": 48857,
-  "2023-01-31": 48857,
-  "2023-02-01": 49152,
-  "2023-02-02": 49285,
-  "2023-02-03": 49434,
-  "2023-02-04": 49564,
-  "2023-02-05": 49708,
-  "2023-02-06": 49865,
-  "2023-02-07": 49996,
-  "2023-02-08": 50269,
-  "2023-02-09": 50269,
-  "2023-02-10": 50397,
-  "2023-02-11": 50529,
-  "2023-02-12": 50853,
-  "2023-02-13": 50994,
-  "2023-02-14": 50994,
-  "2023-02-15": 51146,
-  "2023-02-16": 51289,
-  "2023-02-17": 51448,
-  "2023-02-18": 51671,
-  "2023-02-19": 51712,
-  "2023-02-20": 51806,
-  "2023-02-21": 51946,
-  "2023-02-22": 52066,
-  "2023-02-23": 52197,
-  "2023-02-24": 52305,
-  "2023-02-25": 52470,
-  "2023-02-26": 52587,
-  "2023-02-27": 52880,
-  "2023-02-28": 52880,
-  "2023-03-01": 52996,
-  "2023-03-02": 53101,
-  "2023-03-03": 53231,
-  "2023-03-04": 53351,
-  "2023-03-05": 53603,
-  "2023-03-06": 53603,
-  "2023-03-07": 53766,
-  "2023-03-08": 53907,
-  "2023-03-09": 54002,
-  "2023-03-10": 54137,
-  "2023-03-11": 54269,
-  "2023-03-12": 54423,
-  "2023-03-13": 54572,
-  "2023-03-14": 54670,
-  "2023-03-15": 54808,
-  "2023-03-16": 54943,
-  "2023-03-17": 54943,
-  "2023-03-18": 55216,
-  "2023-03-19": 55372,
-  "2023-03-20": 55517,
-  "2023-03-21": 55627,
-  "2023-03-22": 55764,
-  "2023-03-23": 55861,
-  "2023-03-24": 55861,
-  "2023-03-25": 56072,
-  "2023-03-26": 56183,
-  "2023-03-27": 56314,
-  "2023-03-28": 56412,
-  "2023-03-29": 56562,
-  "2023-03-30": 56738,
-  "2023-03-31": 56738,
-  "2023-04-01": 56865,
-  "2023-04-02": 57011,
-  "2023-04-03": 57111,
-  "2023-04-04": 57237,
-  "2023-04-05": 57357,
-  "2023-04-06": 57477,
-  "2023-04-07": 57580,
-  "2023-04-09": 57804,
-  "2023-04-10": 57930,
-  "2023-04-11": 58151,
-  "2023-04-12": 58151,
-  "2023-04-13": 58293,
-  "2023-04-14": 58417,
-  "2023-04-15": 58518,
-  "2023-04-16": 58650,
-  "2023-04-17": 58768,
-  "2023-04-18": 58873,
-  "2023-04-19": 58976,
-  "2023-04-20": 59059,
-  "2023-04-21": 59161,
-  "2023-04-22": 59269,
-  "2023-04-23": 59384,
-  "2023-04-24": 59490,
-  "2023-04-25": 59605,
-  "2023-04-26": 59714,
-  "2023-04-27": 59811,
-  "2023-04-28": 59927,
-  "2023-04-29": 60039,
-  "2023-04-30": 60179,
-  "2023-05-01": 60290,
-  "2023-05-02": 60417,
-  "2023-05-03": 60504,
-  "2023-05-04": 60624,
-  "2023-05-05": 60722,
-  "2023-05-06": 60824,
-  "2023-05-07": 60967,
-  "2023-05-08": 61092,
-  "2023-05-09": 61222,
-  "2023-05-10": 61334,
-  "2023-05-11": 61438,
-  "2023-05-12": 61542,
-  "2023-05-13": 61646,
-  "2023-05-14": 61760,
-  "2023-05-15": 61857,
-  "2023-05-16": 61986,
-  "2023-05-17": 62097,
-  "2023-05-18": 62199,
-  "2023-05-19": 62334,
-  "2023-05-20": 62573,
-  "2023-05-21": 62573,
-  "2023-05-22": 62573,
-  "2023-05-23": 62825,
-  "2023-05-24": 63028,
-  "2023-05-25": 63060,
-  "2023-05-26": 63179,
-  "2023-05-27": 63281,
-  "2023-05-28": 63407,
-  "2023-05-29": 63407,
-  "2023-05-30": 63625,
-  "2023-05-31": 63724,
-  "2023-06-01": 63809,
-  "2023-06-02": 63926,
-  "2023-06-03": 64033,
-  "2023-06-04": 64186,
-  "2023-06-05": 64283,
-  "2023-06-06": 64367,
-  "2023-06-07": 64493,
-  "2023-06-08": 64597,
-  "2023-06-09": 64694,
-  "2023-06-10": 64782,
-  "2023-06-11": 64902,
-  "2023-06-12": 64990,
-  "2023-06-13": 65084,
-  "2023-06-14": 65177,
-  "2023-06-15": 65272,
-  "2023-06-16": 65342,
-  "2023-06-17": 65422,
-  "2023-06-18": 65533,
-  "2023-06-19": 65611,
-  "2023-06-20": 65684,
-  "2023-06-21": 65798,
-  "2023-06-22": 65910,
-  "2023-06-23": 66031,
-  "2023-06-24": 66144,
-  "2023-06-25": 66236,
-  "2023-06-26": 66356,
-  "2023-06-27": 66464,
-  "2023-06-28": 66589,
-  "2023-06-29": 66706,
-  "2023-06-30": 66816,
-  "2023-07-01": 67055,
-  "2023-07-02": 67055,
-  "2023-07-03": 67168,
-  "2023-07-04": 67278,
-  "2023-07-05": 67379,
-  "2023-07-06": 67591,
-  "2023-07-07": 67591,
-  "2023-07-08": 67711,
-  "2023-07-09": 67839,
-  "2023-07-10": 67982,
-  "2023-07-11": 68094,
-  "2023-07-12": 68199,
-  "2023-07-13": 68299,
-  "2023-07-14": 68415,
-  "2023-07-15": 68485,
-  "2023-07-16": 68617,
-  "2023-07-17": 68722,
-  "2023-07-18": 68850,
-  "2023-07-19": 68953,
-  "2023-07-20": 69053,
-  "2023-07-21": 69142,
-  "2023-07-22": 69245,
-  "2023-07-23": 69367,
-  "2023-07-24": 69475,
-  "2023-07-25": 69576,
-  "2023-07-26": 69675,
-  "2023-07-27": 69792,
-  "2023-07-28": 69897,
-  "2023-07-29": 70006,
-  "2023-07-30": 70136,
-  "2023-07-31": 70250,
-  "2023-08-01": 70350,
-  "2023-08-02": 70437,
-  "2023-08-03": 70544,
-  "2023-08-04": 70656,
-  "2023-08-05": 70772,
-  "2023-08-06": 70991,
-  "2023-08-07": 70991,
-  "2023-08-08": 71118,
-  "2023-08-09": 71273,
-  "2023-08-10": 71405,
-  "2023-08-11": 71539,
-  "2023-08-12": 71674,
-  "2023-08-13": 71790,
-  "2023-08-14": 71904,
-  "2023-08-15": 72118,
-  "2023-08-16": 72118,
-  "2023-08-17": 72212,
-  "2023-08-18": 72313,
-  "2023-08-19": 72415,
-  "2023-08-20": 72539,
-  "2023-08-21": 72653,
-  "2023-08-22": 72747,
-  "2023-08-23": 72866,
-  "2023-08-24": 72974,
-  "2023-08-25": 73124,
-  "2023-08-26": 73214,
-  "2023-08-27": 73344,
-  "2023-08-28": 73424,
-  "2023-08-29": 73550,
-  "2023-08-30": 73621,
-  "2023-08-31": 73741,
-  "2023-09-01": 73882,
-  "2023-09-02": 73882,
-  "2023-09-03": 73969,
-  "2023-09-04": 74045,
-  "2023-09-05": 74119,
-  "2023-09-06": 74189,
-  "2023-09-07": 74229,
-  "2023-09-08": 74308,
-  "2023-09-09": 74358,
-  "2023-09-10": 74446,
-  "2023-09-11": 74523,
-  "2023-09-12": 74585,
-  "2023-09-13": 74644,
-  "2023-09-14": 74704,
-  "2023-09-15": 74748,
-  "2023-09-16": 74807,
-  "2023-09-17": 74870,
-  "2023-09-18": 74951,
-  "2023-09-19": 75000,
-  "2023-09-20": 75043,
-  "2023-09-21": 75119,
-  "2023-09-22": 75159,
-  "2023-09-23": 75235,
-  "2023-09-24": 75318,
-  "2023-09-25": 75369,
-  "2023-09-26": 75463,
-  "2023-09-27": 75517,
-  "2023-09-28": 75570,
-  "2023-09-29": 75629,
-  "2023-09-30": 75692,
-  "2023-10-01": 75741,
-  "2023-10-02": 75795,
-  "2023-10-03": 75849,
-  "2023-10-04": 75887,
-  "2023-10-05": 75937,
-  "2023-10-06": 75971,
-  "2023-10-07": 76014,
-  "2023-10-08": 76068,
-  "2023-10-09": 76113,
-  "2023-10-10": 76150,
-  "2023-10-11": 76242,
-  "2023-10-12": 76242,
-  "2023-10-13": 76286,
-  "2023-10-14": 76343,
-  "2023-10-15": 76407,
-  "2023-10-16": 76484,
-  "2023-10-17": 76520,
-  "2023-10-18": 76571,
-  "2023-10-19": 76627,
-  "2023-10-20": 76678,
-  "2023-10-21": 76707,
-  "2023-10-22": 76736,
-  "2023-10-23": 76773,
-  "2023-10-24": 76818,
-  "2023-10-25": 76846,
-  "2023-10-26": 76898,
-  "2023-10-27": 76917,
-  "2023-10-28": 76941,
-  "2023-10-29": 76965,
-  "2023-10-30": 77039,
-  "2023-10-31": 77039,
-  "2023-11-01": 77053,
-  "2023-11-02": 77079,
-  "2023-11-03": 77113,
-  "2023-11-04": 77136,
-  "2023-11-05": 77170,
-  "2023-11-06": 77223,
-  "2023-11-07": 77247,
-  "2023-11-08": 77284,
-  "2023-11-09": 77311,
-  "2023-11-10": 77320,
-  "2023-11-11": 77337,
-  "2023-11-12": 77365,
-  "2023-11-13": 77378,
-  "2023-11-14": 77393,
-  "2023-11-15": 77393,
-  "2023-11-16": 77429,
-  "2023-11-17": 77467,
-  "2023-11-18": 77467,
-  "2023-11-19": 77481,
-  "2023-11-20": 77494,
-  "2023-11-21": 77518,
-  "2023-11-22": 77537,
-  "2023-11-23": 77552,
-  "2023-11-24": 77583,
-  "2023-11-25": 77606,
-  "2023-11-26": 77623,
-  "2023-11-27": 77653,
-  "2023-11-28": 77678,
-  "2023-11-29": 77693,
-  "2023-11-30": 77693,
-  "2023-12-01": 77692,
-  "2023-12-02": 77707,
-  "2023-12-03": 77722,
-  "2023-12-04": 77725,
-  "2023-12-05": 77748,
-  "2023-12-06": 77769,
-  "2023-12-07": 77796,
-  "2023-12-08": 77825,
-  "2023-12-09": 77865,
-  "2023-12-10": 77907,
-  "2023-12-11": 77943,
-  "2023-12-12": 77993,
-  "2023-12-13": 78028,
-  "2023-12-14": 78069,
-  "2023-12-15": 78107,
-  "2023-12-16": 78148,
-  "2023-12-17": 78180,
-  "2023-12-18": 78237,
-  "2023-12-19": 78264,
-  "2023-12-20": 78310,
-  "2023-12-21": 78343,
-  "2023-12-22": 78374,
-  "2023-12-23": 78409,
-  "2023-12-24": 78451,
-  "2023-12-25": 78486,
-  "2023-12-26": 78511,
-  "2023-12-27": 78535,
-  "2023-12-30": 78722,
-  "2023-12-31": 78761,
-  "2024-01-01": 78807,
-  "2024-01-02": 78841,
-  "2024-01-03": 78905
+  "2024-01-17": 79601,
+  "date_first_scraped": "2022-05-15",
+  "description": "Enjoy the soundtrack of Business Proposal! (\ub4dc\ub77c\ub9c8 \uc0ac\ub0b4 \ub9de\uc120\uc758 \uc0ac\uc6b4\ub4dc\ud2b8\ub799\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "name": "Business Proposal (\uc0ac\ub0b4 \ub9de\uc120)",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "WOO JI HUN",
+          "url": "https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127828,
+      "name": "Acoustic Romance",
+      "url": "https://open.spotify.com/track/7CmLlsJ9PExKs6P4L5cAxM"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Yu Hui Hyeon",
+          "url": "https://open.spotify.com/artist/54H4uu5zowKnSl1rzZcD7c"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207208,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/0KIk3oin9DDJ9HecnEs91T"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Yu Hui Hyeon",
+          "url": "https://open.spotify.com/artist/54H4uu5zowKnSl1rzZcD7c"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104052,
+      "name": "Awkward Situation",
+      "url": "https://open.spotify.com/track/4nadl399x1dndJ5MFM8LEs"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "WOO JI HUN",
+          "url": "https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64559,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/5uVIYV2vvy9Klhes5j1Ljd"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Kim TaeHwan",
+          "url": "https://open.spotify.com/artist/724ViSIaJe6HaYOWCpv5JU"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121631,
+      "name": "BongKuRa",
+      "url": "https://open.spotify.com/track/15NmskfwJnJXJXqH54Dri7"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Na Yoon Sik",
+          "url": "https://open.spotify.com/artist/0bUV6TgZPVdoinyGf0jAeT"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165162,
+      "name": "Candle Light",
+      "url": "https://open.spotify.com/track/1F2P7srOE767cLt6lhs9nw"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238813,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/1h1Cr0879UYdOFE2AwVIns"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Ji",
+          "url": "https://open.spotify.com/artist/7bEE8ag9PQsb89eNzAdbQv"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120700,
+      "name": "Cream Shake",
+      "url": "https://open.spotify.com/track/1bAUueFkBPyLjftDFOHbgB"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Kim TaeHwan",
+          "url": "https://open.spotify.com/artist/724ViSIaJe6HaYOWCpv5JU"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112127,
+      "name": "Damn It",
+      "url": "https://open.spotify.com/track/5BNASvMekn4DQkOsYfDwUj"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Jihan",
+          "url": "https://open.spotify.com/artist/47ODPG71p0WSxPL9fjooi4"
+        },
+        {
+          "name": "Park Soeun",
+          "url": "https://open.spotify.com/artist/5mRaQUiwWOrJGSsC2TM1K0"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/5gWr7mzkXFPFDfY0pD8a6Q"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Lee Nyeom",
+          "url": "https://open.spotify.com/artist/1sICrpjblLnT3YlWUWpXBO"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162052,
+      "name": "Forest Of Memories",
+      "url": "https://open.spotify.com/track/70yF1ekG7gs78Ey5T8m2Ze"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Lee Nyeom",
+          "url": "https://open.spotify.com/artist/1sICrpjblLnT3YlWUWpXBO"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137839,
+      "name": "God Of Love",
+      "url": "https://open.spotify.com/track/0LiCjOcfc4i059gEyGjpUH"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "WOO JI HUN",
+          "url": "https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80011,
+      "name": "Hi Kid",
+      "url": "https://open.spotify.com/track/6tydpi2zRA13npPi18NbZr"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Na Sang Jin",
+          "url": "https://open.spotify.com/artist/30IPE5ia0YNKT1QtgiNFt0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111916,
+      "name": "In The West",
+      "url": "https://open.spotify.com/track/1rrgOL3WuerTuuW32l0mFH"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "It's Up To You",
+      "url": "https://open.spotify.com/track/38YUqOMBslBRUauuSqyaFX"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Ji",
+          "url": "https://open.spotify.com/artist/7bEE8ag9PQsb89eNzAdbQv"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83498,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/6qmXgrskm57dAq6pwsszhY"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "WOO JI HUN",
+          "url": "https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98217,
+      "name": "Let Us Go",
+      "url": "https://open.spotify.com/track/5f4UBdOdFCYO4evd1kA5QI"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/3YsCMGLIVo1yuTRL0MzUAl"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Love, Maybe",
+      "url": "https://open.spotify.com/track/2hbFM866nfLphLKKZNhnsW"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171680,
+      "name": "Love, Maybe (Acoustic Ver.)",
+      "url": "https://open.spotify.com/track/3HbX8AD9hZgkDqd5eRxD0G"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "BamBam",
+          "url": "https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184680,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/0QKOCQ3LJSmTSDLBVxiXun"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Song Jae Kyung",
+          "url": "https://open.spotify.com/artist/2lwSORf2zF6pBe8fZszsfB"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94951,
+      "name": "Modern Show",
+      "url": "https://open.spotify.com/track/2w1eqjKSOdVetL7QvTgcOR"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Gim Dong Hyuk",
+          "url": "https://open.spotify.com/artist/4q2rmErLC50o189308xeRJ"
+        },
+        {
+          "name": "Choi Moonseok",
+          "url": "https://open.spotify.com/artist/6riHI4FN8xbEQjH6AjW42h"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121581,
+      "name": "My Beauty",
+      "url": "https://open.spotify.com/track/05dBk3sCjkX66bYPD3TDTj"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Lee Nyeom",
+          "url": "https://open.spotify.com/artist/1sICrpjblLnT3YlWUWpXBO"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213882,
+      "name": "My Honey Dream",
+      "url": "https://open.spotify.com/track/0BHHaGuszWlVgoh7dLsTKQ"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "WOO JI HUN",
+          "url": "https://open.spotify.com/artist/7gtqoiAM3hN5D0ug4BuHW0"
+        },
+        {
+          "name": "Park Sejun",
+          "url": "https://open.spotify.com/artist/6NudWSh9xMZQ1fQyERNRDW"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121087,
+      "name": "Never Ending Falling Down",
+      "url": "https://open.spotify.com/track/4ra71wrzAA9FtJ0nrtwrFa"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Song Jin Seok",
+          "url": "https://open.spotify.com/artist/39gwJ5Pyd3jpuC2IPh3GFg"
+        },
+        {
+          "name": "HWANG SEUNG PIL",
+          "url": "https://open.spotify.com/artist/2B0ns0f43BZMTheyMx0ELG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99570,
+      "name": "Peaches On The Bed",
+      "url": "https://open.spotify.com/track/4VVCyNiD83wGaWjHFbSv5S"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Ji",
+          "url": "https://open.spotify.com/artist/7bEE8ag9PQsb89eNzAdbQv"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113529,
+      "name": "Samba Girl",
+      "url": "https://open.spotify.com/track/0alWdIIM0Bm7kzra5eB0yk"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "NEW (THE BOYZ)",
+          "url": "https://open.spotify.com/artist/67pva3FofOzEWZ3dSAItPL"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Spring Breeze",
+      "url": "https://open.spotify.com/track/6O47mAbHvhLxCTVkBFLFhr"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "Sun Shower",
+      "url": "https://open.spotify.com/track/6mgMKlpruxqFBWGBGtrOmw"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/31ww06T99hidCTBfXXI7JM"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Song Jin Seok",
+          "url": "https://open.spotify.com/artist/39gwJ5Pyd3jpuC2IPh3GFg"
+        },
+        {
+          "name": "HWANG SEUNG PIL",
+          "url": "https://open.spotify.com/artist/2B0ns0f43BZMTheyMx0ELG"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112812,
+      "name": "Terrible Mistake",
+      "url": "https://open.spotify.com/track/5GY8fd9L48CsyKT4I2trCV"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Gim Dong Hyuk",
+          "url": "https://open.spotify.com/artist/4q2rmErLC50o189308xeRJ"
+        },
+        {
+          "name": "Choi Moonseok",
+          "url": "https://open.spotify.com/artist/6riHI4FN8xbEQjH6AjW42h"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177232,
+      "name": "To Find You",
+      "url": "https://open.spotify.com/track/6NdrVnoiBqOVoyKPjVArih"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "Gim Dong Hyuk",
+          "url": "https://open.spotify.com/artist/4q2rmErLC50o189308xeRJ"
+        },
+        {
+          "name": "Choi Moonseok",
+          "url": "https://open.spotify.com/artist/6riHI4FN8xbEQjH6AjW42h"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112517,
+      "name": "Ullala Ullala",
+      "url": "https://open.spotify.com/track/3bnatiDRFXbeQ5awjx4iSh"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "HAN SEUNG YUN",
+          "url": "https://open.spotify.com/artist/0YVjg0dVOZ5aKZK66BWxNI"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/4dgs4D8qKznSSzME2POXRN"
+    },
+    {
+      "album": {
+        "name": "A Business Proposal OST",
+        "url": "https://open.spotify.com/album/3mus1JiTJRZUfhOExy71lY"
+      },
+      "artists": [
+        {
+          "name": "VICTON",
+          "url": "https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207640,
+      "name": "You Are Mine",
+      "url": "https://open.spotify.com/track/5QpIWR4XQChU7SxdXCoQ4J"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4epI7cdLjJs"
 }

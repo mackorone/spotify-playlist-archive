@@ -684,7 +684,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 120520,
       "name": "Corte Caco",
       "url": "https://open.spotify.com/track/1bST5OPPEuBY8bSpgEQKx3"
@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 190200,
       "name": "La Gata",
       "url": "https://open.spotify.com/track/1YIJl3bkyybWVf1PWgfv3M"
@@ -2278,6 +2278,40 @@
       "duration_ms": 157080,
       "name": "Mata",
       "url": "https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT"
+    },
+    {
+      "album": {
+        "name": "Mata (Remix)",
+        "url": "https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227080,
+      "name": "Mata - Remix",
+      "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
     },
     {
       "album": {
@@ -2980,7 +3014,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 158181,
       "name": "ROCAMORA",
       "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
@@ -3334,6 +3368,24 @@
       "duration_ms": 217013,
       "name": "Soy Soltero",
       "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+    },
+    {
+      "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151224,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
     },
     {
       "album": {
@@ -3756,6 +3808,32 @@
       "duration_ms": 267813,
       "name": "Vamos A Bailar",
       "url": "https://open.spotify.com/track/657aFPrDGW4f57rkoCG4lS"
+    },
+    {
+      "album": {
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "album": {

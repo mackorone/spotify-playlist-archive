@@ -1,569 +1,1809 @@
 {
-  "2022-06-10": 21410,
-  "2022-06-11": 21421,
-  "2022-06-12": 21436,
-  "2022-06-13": 21456,
-  "2022-06-14": 21467,
-  "2022-06-15": 21474,
-  "2022-06-16": 21489,
-  "2022-06-17": 21506,
-  "2022-06-18": 21506,
-  "2022-06-19": 21531,
-  "2022-06-20": 21531,
-  "2022-06-21": 21548,
-  "2022-06-22": 21571,
-  "2022-06-23": 21571,
-  "2022-06-24": 21593,
-  "2022-06-25": 21606,
-  "2022-06-26": 21623,
-  "2022-06-27": 21623,
-  "2022-06-28": 21644,
-  "2022-06-29": 21661,
-  "2022-06-30": 21671,
-  "2022-07-01": 21681,
-  "2022-07-02": 21696,
-  "2022-07-03": 21702,
-  "2022-07-04": 21716,
-  "2022-07-05": 21734,
-  "2022-07-06": 21748,
-  "2022-07-07": 21756,
-  "2022-07-08": 21769,
-  "2022-07-09": 21777,
-  "2022-07-10": 21785,
-  "2022-07-11": 21802,
-  "2022-07-12": 21815,
-  "2022-07-13": 21820,
-  "2022-07-14": 21828,
-  "2022-07-15": 21832,
-  "2022-07-16": 21843,
-  "2022-07-17": 21850,
-  "2022-07-18": 21866,
-  "2022-07-19": 21883,
-  "2022-07-20": 21898,
-  "2022-07-21": 21908,
-  "2022-07-22": 21914,
-  "2022-07-23": 21930,
-  "2022-07-24": 21945,
-  "2022-07-25": 21959,
-  "2022-07-26": 21969,
-  "2022-07-27": 21979,
-  "2022-07-28": 21986,
-  "2022-07-29": 22001,
-  "2022-07-30": 22025,
-  "2022-07-31": 22025,
-  "2022-08-01": 22040,
-  "2022-08-02": 22069,
-  "2022-08-03": 22069,
-  "2022-08-04": 22082,
-  "2022-08-05": 22097,
-  "2022-08-06": 22112,
-  "2022-08-07": 22122,
-  "2022-08-08": 22143,
-  "2022-08-09": 22154,
-  "2022-08-10": 22163,
-  "2022-08-11": 22173,
-  "2022-08-12": 22184,
-  "2022-08-13": 22201,
-  "2022-08-14": 22226,
-  "2022-08-15": 22257,
-  "2022-08-16": 22275,
-  "2022-08-17": 22293,
-  "2022-08-18": 22309,
-  "2022-08-19": 22322,
-  "2022-08-20": 22347,
-  "2022-08-21": 22354,
-  "2022-08-22": 22378,
-  "2022-08-23": 22403,
-  "2022-08-24": 22410,
-  "2022-08-25": 22423,
-  "2022-08-26": 22433,
-  "2022-08-27": 22452,
-  "2022-08-28": 22471,
-  "2022-08-29": 22484,
-  "2022-08-30": 22483,
-  "2022-08-31": 22455,
-  "2022-09-01": 22435,
-  "2022-09-02": 22414,
-  "2022-09-03": 22376,
-  "2022-09-04": 22371,
-  "2022-09-05": 22386,
-  "2022-09-06": 22404,
-  "2022-09-07": 22416,
-  "2022-09-09": 22443,
-  "2022-09-10": 22451,
-  "2022-09-11": 22462,
-  "2022-09-12": 22480,
-  "2022-09-13": 22502,
-  "2022-09-15": 22532,
-  "2022-09-16": 22550,
-  "2022-09-17": 22581,
-  "2022-09-18": 22597,
-  "2022-09-19": 22614,
-  "2022-09-20": 22622,
-  "2022-09-21": 22633,
-  "2022-09-22": 22641,
-  "2022-09-23": 22655,
-  "2022-09-24": 22670,
-  "2022-09-25": 22685,
-  "2022-09-26": 22700,
-  "2022-09-27": 22720,
-  "2022-09-28": 22731,
-  "2022-09-29": 22746,
-  "2022-09-30": 22753,
-  "2022-10-01": 22769,
-  "2022-10-02": 22777,
-  "2022-10-03": 22797,
-  "2022-10-04": 22812,
-  "2022-10-05": 22820,
-  "2022-10-06": 22840,
-  "2022-10-07": 22851,
-  "2022-10-08": 22856,
-  "2022-10-09": 22875,
-  "2022-10-10": 22879,
-  "2022-10-11": 22894,
-  "2022-10-12": 22913,
-  "2022-10-13": 22932,
-  "2022-10-14": 22940,
-  "2022-10-15": 22950,
-  "2022-10-16": 22969,
-  "2022-10-17": 22983,
-  "2022-10-18": 22990,
-  "2022-10-19": 23000,
-  "2022-10-20": 23010,
-  "2022-10-21": 23027,
-  "2022-10-22": 23043,
-  "2022-10-23": 23064,
-  "2022-10-24": 23071,
-  "2022-10-25": 23079,
-  "2022-10-26": 23095,
-  "2022-10-27": 23104,
-  "2022-10-28": 23113,
-  "2022-10-29": 23122,
-  "2022-10-30": 23131,
-  "2022-10-31": 23142,
-  "2022-11-01": 23151,
-  "2022-11-02": 23158,
-  "2022-11-03": 23173,
-  "2022-11-04": 23178,
-  "2022-11-05": 23188,
-  "2022-11-06": 23204,
-  "2022-11-07": 23219,
-  "2022-11-08": 23232,
-  "2022-11-09": 23254,
-  "2022-11-10": 23260,
-  "2022-11-11": 23267,
-  "2022-11-12": 23277,
-  "2022-11-13": 23287,
-  "2022-11-14": 23307,
-  "2022-11-15": 23316,
-  "2022-11-16": 23329,
-  "2022-11-17": 23346,
-  "2022-11-18": 23358,
-  "2022-11-19": 23359,
-  "2022-11-20": 23371,
-  "2022-11-21": 23387,
-  "2022-11-22": 23411,
-  "2022-11-23": 23428,
-  "2022-11-24": 23460,
-  "2022-11-25": 23483,
-  "2022-11-26": 23504,
-  "2022-11-27": 23529,
-  "2022-11-28": 23542,
-  "2022-11-29": 23556,
-  "2022-11-30": 23571,
-  "2022-12-01": 23591,
-  "2022-12-02": 23595,
-  "2022-12-03": 23608,
-  "2022-12-04": 23622,
-  "2022-12-05": 23633,
-  "2022-12-06": 23647,
-  "2022-12-07": 23655,
-  "2022-12-08": 23662,
-  "2022-12-09": 23679,
-  "2022-12-10": 23692,
-  "2022-12-11": 23701,
-  "2022-12-12": 23717,
-  "2022-12-13": 23723,
-  "2022-12-14": 23731,
-  "2022-12-15": 23749,
-  "2022-12-16": 23757,
-  "2022-12-17": 23772,
-  "2022-12-18": 23796,
-  "2022-12-19": 23818,
-  "2022-12-20": 23840,
-  "2022-12-21": 23840,
-  "2022-12-22": 23848,
-  "2022-12-24": 23875,
-  "2022-12-25": 23884,
-  "2022-12-26": 23899,
-  "2022-12-27": 23907,
-  "2022-12-28": 23909,
-  "2022-12-29": 23916,
-  "2022-12-30": 23925,
-  "2022-12-31": 23935,
-  "2023-01-01": 23948,
-  "2023-01-02": 23956,
-  "2023-01-03": 23969,
-  "2023-01-04": 23982,
-  "2023-01-05": 23988,
-  "2023-01-06": 24015,
-  "2023-01-07": 24040,
-  "2023-01-08": 24045,
-  "2023-01-09": 24066,
-  "2023-01-10": 24076,
-  "2023-01-11": 24099,
-  "2023-01-12": 24111,
-  "2023-01-13": 24119,
-  "2023-01-14": 24142,
-  "2023-01-15": 24142,
-  "2023-01-16": 24153,
-  "2023-01-17": 24176,
-  "2023-01-18": 24190,
-  "2023-01-19": 24199,
-  "2023-01-20": 24225,
-  "2023-01-21": 24246,
-  "2023-01-22": 24254,
-  "2023-01-23": 24270,
-  "2023-01-24": 24284,
-  "2023-01-25": 24288,
-  "2023-01-26": 24302,
-  "2023-01-27": 24313,
-  "2023-01-28": 24320,
-  "2023-01-29": 24326,
-  "2023-01-30": 24333,
-  "2023-01-31": 24333,
-  "2023-02-01": 24342,
-  "2023-02-02": 24349,
-  "2023-02-03": 24361,
-  "2023-02-04": 24376,
-  "2023-02-05": 24393,
-  "2023-02-06": 24406,
-  "2023-02-07": 24415,
-  "2023-02-08": 24440,
-  "2023-02-09": 24440,
-  "2023-02-10": 24449,
-  "2023-02-11": 24464,
-  "2023-02-12": 24484,
-  "2023-02-13": 24501,
-  "2023-02-14": 24501,
-  "2023-02-15": 24520,
-  "2023-02-16": 24529,
-  "2023-02-17": 24549,
-  "2023-02-18": 24570,
-  "2023-02-19": 24570,
-  "2023-02-20": 24582,
-  "2023-02-21": 24595,
-  "2023-02-22": 24597,
-  "2023-02-23": 24604,
-  "2023-02-24": 24608,
-  "2023-02-25": 24616,
-  "2023-02-26": 24627,
-  "2023-02-27": 24642,
-  "2023-02-28": 24642,
-  "2023-03-01": 24652,
-  "2023-03-02": 24663,
-  "2023-03-03": 24674,
-  "2023-03-04": 24674,
-  "2023-03-05": 24695,
-  "2023-03-06": 24695,
-  "2023-03-07": 24697,
-  "2023-03-08": 24703,
-  "2023-03-09": 24710,
-  "2023-03-10": 24712,
-  "2023-03-11": 24729,
-  "2023-03-12": 24745,
-  "2023-03-13": 24751,
-  "2023-03-14": 24755,
-  "2023-03-15": 24760,
-  "2023-03-16": 24775,
-  "2023-03-17": 24775,
-  "2023-03-18": 24801,
-  "2023-03-19": 24818,
-  "2023-03-20": 24829,
-  "2023-03-21": 24840,
-  "2023-03-22": 24849,
-  "2023-03-23": 24860,
-  "2023-03-24": 24860,
-  "2023-03-25": 24883,
-  "2023-03-26": 24891,
-  "2023-03-27": 24903,
-  "2023-03-28": 24910,
-  "2023-03-29": 24921,
-  "2023-03-30": 24924,
-  "2023-03-31": 24924,
-  "2023-04-01": 24925,
-  "2023-04-02": 24924,
-  "2023-04-03": 24930,
-  "2023-04-04": 24933,
-  "2023-04-05": 24946,
-  "2023-04-06": 24950,
-  "2023-04-07": 24960,
-  "2023-04-09": 24972,
-  "2023-04-10": 24982,
-  "2023-04-11": 24995,
-  "2023-04-12": 24995,
-  "2023-04-13": 24999,
-  "2023-04-14": 25004,
-  "2023-04-15": 25009,
-  "2023-04-16": 25013,
-  "2023-04-17": 25017,
-  "2023-04-18": 25027,
-  "2023-04-19": 25034,
-  "2023-04-20": 25035,
-  "2023-04-21": 25045,
-  "2023-04-22": 25058,
-  "2023-04-23": 25062,
-  "2023-04-24": 25072,
-  "2023-04-25": 25085,
-  "2023-04-26": 25096,
-  "2023-04-27": 25104,
-  "2023-04-28": 25114,
-  "2023-04-29": 25135,
-  "2023-04-30": 25143,
-  "2023-05-01": 25150,
-  "2023-05-02": 25158,
-  "2023-05-03": 25160,
-  "2023-05-04": 25163,
-  "2023-05-05": 25178,
-  "2023-05-06": 25175,
-  "2023-05-07": 25184,
-  "2023-05-08": 25186,
-  "2023-05-09": 25199,
-  "2023-05-10": 25207,
-  "2023-05-11": 25219,
-  "2023-05-12": 25230,
-  "2023-05-13": 25235,
-  "2023-05-14": 25238,
-  "2023-05-15": 25252,
-  "2023-05-16": 25256,
-  "2023-05-17": 25269,
-  "2023-05-18": 25283,
-  "2023-05-19": 25291,
-  "2023-05-20": 25310,
-  "2023-05-21": 25310,
-  "2023-05-22": 25310,
-  "2023-05-23": 25328,
-  "2023-05-24": 25342,
-  "2023-05-25": 25346,
-  "2023-05-26": 25351,
-  "2023-05-27": 25356,
-  "2023-05-28": 25371,
-  "2023-05-29": 25371,
-  "2023-05-30": 25381,
-  "2023-05-31": 25395,
-  "2023-06-01": 25394,
-  "2023-06-02": 25402,
-  "2023-06-03": 25411,
-  "2023-06-04": 25410,
-  "2023-06-05": 25415,
-  "2023-06-06": 25418,
-  "2023-06-07": 25430,
-  "2023-06-08": 25441,
-  "2023-06-09": 25453,
-  "2023-06-10": 25469,
-  "2023-06-11": 25479,
-  "2023-06-12": 25488,
-  "2023-06-13": 25494,
-  "2023-06-14": 25504,
-  "2023-06-15": 25515,
-  "2023-06-16": 25531,
-  "2023-06-17": 25537,
-  "2023-06-18": 25546,
-  "2023-06-19": 25551,
-  "2023-06-20": 25567,
-  "2023-06-21": 25577,
-  "2023-06-22": 25583,
-  "2023-06-23": 25587,
-  "2023-06-24": 25597,
-  "2023-06-25": 25605,
-  "2023-06-26": 25612,
-  "2023-06-27": 25617,
-  "2023-06-28": 25624,
-  "2023-06-29": 25633,
-  "2023-06-30": 25642,
-  "2023-07-01": 25657,
-  "2023-07-02": 25657,
-  "2023-07-03": 25659,
-  "2023-07-04": 25665,
-  "2023-07-05": 25671,
-  "2023-07-06": 25684,
-  "2023-07-07": 25684,
-  "2023-07-08": 25695,
-  "2023-07-09": 25700,
-  "2023-07-10": 25708,
-  "2023-07-11": 25719,
-  "2023-07-12": 25728,
-  "2023-07-13": 25735,
-  "2023-07-14": 25750,
-  "2023-07-15": 25755,
-  "2023-07-16": 25765,
-  "2023-07-17": 25771,
-  "2023-07-18": 25784,
-  "2023-07-19": 25795,
-  "2023-07-20": 25806,
-  "2023-07-21": 25816,
-  "2023-07-22": 25824,
-  "2023-07-23": 25826,
-  "2023-07-24": 25829,
-  "2023-07-25": 25836,
-  "2023-07-26": 25838,
-  "2023-07-27": 25840,
-  "2023-07-28": 25846,
-  "2023-07-29": 25853,
-  "2023-07-30": 25864,
-  "2023-07-31": 25869,
-  "2023-08-01": 25875,
-  "2023-08-02": 25884,
-  "2023-08-03": 25891,
-  "2023-08-04": 25901,
-  "2023-08-05": 25908,
-  "2023-08-06": 25937,
-  "2023-08-07": 25937,
-  "2023-08-08": 25949,
-  "2023-08-09": 25955,
-  "2023-08-10": 25955,
-  "2023-08-11": 25962,
-  "2023-08-12": 25977,
-  "2023-08-13": 25983,
-  "2023-08-14": 25987,
-  "2023-08-15": 25992,
-  "2023-08-16": 25992,
-  "2023-08-17": 25997,
-  "2023-08-18": 26001,
-  "2023-08-19": 26007,
-  "2023-08-20": 26017,
-  "2023-08-21": 26027,
-  "2023-08-22": 26032,
-  "2023-08-23": 26038,
-  "2023-08-24": 26045,
-  "2023-08-25": 26050,
-  "2023-08-26": 26055,
-  "2023-08-27": 26067,
-  "2023-08-28": 26071,
-  "2023-08-29": 26078,
-  "2023-08-30": 26087,
-  "2023-08-31": 26095,
-  "2023-09-01": 26128,
-  "2023-09-02": 26128,
-  "2023-09-03": 26137,
-  "2023-09-04": 26159,
-  "2023-09-05": 26174,
-  "2023-09-06": 26183,
-  "2023-09-07": 26195,
-  "2023-09-08": 26209,
-  "2023-09-09": 26220,
-  "2023-09-10": 26231,
-  "2023-09-11": 26243,
-  "2023-09-12": 26261,
-  "2023-09-13": 26294,
-  "2023-09-14": 26307,
-  "2023-09-15": 26327,
-  "2023-09-16": 26343,
-  "2023-09-17": 26356,
-  "2023-09-18": 26376,
-  "2023-09-19": 26391,
-  "2023-09-20": 26405,
-  "2023-09-21": 26426,
-  "2023-09-22": 26441,
-  "2023-09-23": 26450,
-  "2023-09-24": 26464,
-  "2023-09-25": 26479,
-  "2023-09-26": 26513,
-  "2023-09-27": 26528,
-  "2023-09-28": 26546,
-  "2023-09-29": 26566,
-  "2023-09-30": 26583,
-  "2023-10-01": 26605,
-  "2023-10-02": 26617,
-  "2023-10-03": 26634,
-  "2023-10-04": 26653,
-  "2023-10-05": 26668,
-  "2023-10-06": 26688,
-  "2023-10-07": 26701,
-  "2023-10-08": 26723,
-  "2023-10-09": 26735,
-  "2023-10-10": 26750,
-  "2023-10-11": 26780,
-  "2023-10-12": 26780,
-  "2023-10-13": 26795,
-  "2023-10-14": 26801,
-  "2023-10-15": 26816,
-  "2023-10-16": 26839,
-  "2023-10-17": 26857,
-  "2023-10-18": 26872,
-  "2023-10-19": 26893,
-  "2023-10-20": 26907,
-  "2023-10-21": 26916,
-  "2023-10-22": 26933,
-  "2023-10-23": 26948,
-  "2023-10-24": 26960,
-  "2023-10-25": 26977,
-  "2023-10-26": 26994,
-  "2023-10-27": 27012,
-  "2023-10-28": 27012,
-  "2023-10-29": 27012,
-  "2023-10-30": 27056,
-  "2023-10-31": 27056,
-  "2023-11-01": 27091,
-  "2023-11-02": 27122,
-  "2023-11-03": 27139,
-  "2023-11-04": 27153,
-  "2023-11-05": 27171,
-  "2023-11-06": 27185,
-  "2023-11-07": 27197,
-  "2023-11-08": 27216,
-  "2023-11-09": 27229,
-  "2023-11-10": 27248,
-  "2023-11-11": 27275,
-  "2023-11-12": 27289,
-  "2023-11-13": 27299,
-  "2023-11-14": 27318,
-  "2023-11-15": 27318,
-  "2023-11-16": 27345,
-  "2023-11-17": 27393,
-  "2023-11-18": 27393,
-  "2023-11-19": 27410,
-  "2023-11-20": 27423,
-  "2023-11-21": 27444,
-  "2023-11-22": 27455,
-  "2023-11-23": 27463,
-  "2023-11-24": 27463,
-  "2023-11-25": 27490,
-  "2023-11-26": 27499,
-  "2023-11-27": 27515,
-  "2023-11-28": 27535,
-  "2023-11-29": 27574,
-  "2023-11-30": 27574,
-  "2023-12-01": 27588,
-  "2023-12-02": 27595,
-  "2023-12-03": 27611,
-  "2023-12-04": 27611,
-  "2023-12-05": 27631,
-  "2023-12-06": 27649,
-  "2023-12-07": 27655,
-  "2023-12-08": 27677,
-  "2023-12-09": 27689,
-  "2023-12-10": 27689,
-  "2023-12-11": 27711,
-  "2023-12-12": 27711,
-  "2023-12-13": 27733,
-  "2023-12-14": 27751,
-  "2023-12-15": 27767,
-  "2023-12-16": 27770,
-  "2023-12-17": 27783,
-  "2023-12-18": 27795,
-  "2023-12-19": 27802,
-  "2023-12-20": 27814,
-  "2023-12-21": 27830,
-  "2023-12-22": 27843,
-  "2023-12-23": 27863,
-  "2023-12-24": 27890,
-  "2023-12-25": 27905,
-  "2023-12-26": 27920,
-  "2023-12-27": 27941,
-  "2023-12-30": 27984,
-  "2023-12-31": 28007,
-  "2024-01-01": 28024,
-  "2024-01-02": 28029,
-  "2024-01-03": 28047
+  "2024-01-17": 28222,
+  "date_first_scraped": "2022-06-10",
+  "description": "Immerse yourself in the world of NIOH, an intense action RPG experience in Sengoku Era in Japan. \n\u30c0\u30fc\u30af\u6226\u56fd\u30a2\u30af\u30b7\u30e7\u30f3RPG, \u300c\u4ec1\u738b\u300d\u306e\u4e16\u754c\u3078\uff01",
+  "name": "NIOH -\u4ec1\u738b-",
+  "tracks": [
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158053,
+      "name": "Alchemists I",
+      "url": "https://open.spotify.com/track/0dBQHdIYtoqsR7in5Hf6qS"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158053,
+      "name": "Alchemists I",
+      "url": "https://open.spotify.com/track/3CdO37IXRdWwmEgvzFhleU"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144906,
+      "name": "Alchemists II",
+      "url": "https://open.spotify.com/track/3SWvjwDQ995WRIJ1EKgeIx"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144906,
+      "name": "Alchemists II",
+      "url": "https://open.spotify.com/track/4ebUVWnkZ6KlA4KmjudUqy"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133680,
+      "name": "Ayakashi I",
+      "url": "https://open.spotify.com/track/0rwZoC2W9C0yrb3owdUEmV"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 133680,
+      "name": "Ayakashi I",
+      "url": "https://open.spotify.com/track/3WNBIwNbNriO5TuOfQ9VXd"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113986,
+      "name": "Ayakashi II",
+      "url": "https://open.spotify.com/track/3qnfhCfEJ1my8hWR3MyLBR"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113986,
+      "name": "Ayakashi II",
+      "url": "https://open.spotify.com/track/5iPTcphMYLqxahbtbLhBcZ"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161093,
+      "name": "Ayakashi III",
+      "url": "https://open.spotify.com/track/27T3oYOUBDmUUNlSsR5BIt"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161093,
+      "name": "Ayakashi III",
+      "url": "https://open.spotify.com/track/5enS0spu0OJd4N00gq7w7z"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128586,
+      "name": "Azai Nagamasa",
+      "url": "https://open.spotify.com/track/2qqC6mcHVReOcBhflnNzX1"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128586,
+      "name": "Azai Nagamasa",
+      "url": "https://open.spotify.com/track/52vJ385RjiEYe6ItAEykfq"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204546,
+      "name": "Battle I",
+      "url": "https://open.spotify.com/track/2fcioQfjWay3eBp448ngiU"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204546,
+      "name": "Battle I",
+      "url": "https://open.spotify.com/track/3D1G59h5svRkVq4YjgQfB3"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204160,
+      "name": "Battle I",
+      "url": "https://open.spotify.com/track/47D7FnqrwULXT773bvTLwi"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204160,
+      "name": "Battle I",
+      "url": "https://open.spotify.com/track/7lUYfSphX1CMO1wHq8BAfC"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197773,
+      "name": "Battle II",
+      "url": "https://open.spotify.com/track/1qPHMjSq2biD4CgBmawjXC"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197773,
+      "name": "Battle II",
+      "url": "https://open.spotify.com/track/3ICLcR4d8cztmSCuQ02rOA"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225280,
+      "name": "Battle II",
+      "url": "https://open.spotify.com/track/1RzGt4VULBKQLkdvwdsJ4v"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Battle II",
+      "url": "https://open.spotify.com/track/5EtirXHvIkUFJfxXElyp4M"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176613,
+      "name": "Battle III",
+      "url": "https://open.spotify.com/track/6c7DOiDJLNaG5pHPE4pT0c"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176613,
+      "name": "Battle III",
+      "url": "https://open.spotify.com/track/7iCRfEhOTHTsF4fFwAvGlQ"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201733,
+      "name": "Battle III",
+      "url": "https://open.spotify.com/track/4zk5W7L8kCethdZcEXnZcN"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "Battle III",
+      "url": "https://open.spotify.com/track/6HGuvLUjHqJ0O9CtxSoDAE"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "Battle IV",
+      "url": "https://open.spotify.com/track/0W8LLSdywmnMRG85zqAMyW"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200613,
+      "name": "Battle IV",
+      "url": "https://open.spotify.com/track/7AeWfBHx6BHmGgN5ipqiSj"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223533,
+      "name": "Daigoji Temple",
+      "url": "https://open.spotify.com/track/3hRNpck8cWRtzY58vuNiUt"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223533,
+      "name": "Daigoji Temple",
+      "url": "https://open.spotify.com/track/520flNmwNxh9TVQckKFl3u"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196066,
+      "name": "Dark Realm I",
+      "url": "https://open.spotify.com/track/0kAsngWDqorNOapDNdFr4k"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196066,
+      "name": "Dark Realm I",
+      "url": "https://open.spotify.com/track/5nomQqra3Fcda0NkSIdwWY"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Dark Realm II",
+      "url": "https://open.spotify.com/track/40NjorVOkcf7wWI67hrs14"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195813,
+      "name": "Dark Realm II",
+      "url": "https://open.spotify.com/track/5YrXOrgjyJ75b3O2TBWiXZ"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108226,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3pAgjvW80ymdI1Tw4BUTDr"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108226,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/6LCQcYaoX3cRomrtoJkJTe"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147213,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/5WlASwKJk7K6RNrJDCoa19"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147213,
+      "name": "Ending",
+      "url": "https://open.spotify.com/track/734qYhBc5ZLCEAzYHSZG41"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "Enenra",
+      "url": "https://open.spotify.com/track/4GI033E5opL3Q2ofoqnVXh"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184280,
+      "name": "Enenra",
+      "url": "https://open.spotify.com/track/7zjyyZdugYglHkOF2wOfwB"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92600,
+      "name": "Freed From This Mortal Coil",
+      "url": "https://open.spotify.com/track/2bFu0n3E1xMEd1XOBhhMwz"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 92600,
+      "name": "Freed From This Mortal Coil",
+      "url": "https://open.spotify.com/track/6iAi1sUylNcjuGWva0z9em"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93813,
+      "name": "Freed From This Mortal Coil",
+      "url": "https://open.spotify.com/track/1XKdK4CrGfSpaHjcnZ0Qto"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 93813,
+      "name": "Freed From This Mortal Coil",
+      "url": "https://open.spotify.com/track/7jLPrfQePUTsvPXFMrnrQ5"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193093,
+      "name": "Front Line",
+      "url": "https://open.spotify.com/track/3VXV3REnBcQZA96hNESsv9"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193093,
+      "name": "Front Line",
+      "url": "https://open.spotify.com/track/4FRd5UnY7C2ApfhETi9wFE"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154893,
+      "name": "Gyuki",
+      "url": "https://open.spotify.com/track/1OQKDY5j0ji819LN8gI7Tk"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154893,
+      "name": "Gyuki",
+      "url": "https://open.spotify.com/track/3iiq2eI9OK08ZAT9AwgTXN"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172786,
+      "name": "Imagawa Yoshimoto",
+      "url": "https://open.spotify.com/track/14jVGhzqB2x5Xr3hC4dbvp"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172786,
+      "name": "Imagawa Yoshimoto",
+      "url": "https://open.spotify.com/track/5IaaZ8INYxs2m12egMC8I2"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128746,
+      "name": "Kamaitachi",
+      "url": "https://open.spotify.com/track/27hOIdkKFScrXO9N1JlP86"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 128746,
+      "name": "Kamaitachi",
+      "url": "https://open.spotify.com/track/6wOLkh1hxDnOhDRiHYxztZ"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "Kasha",
+      "url": "https://open.spotify.com/track/3hv8rqE9UHkdkorhTexcDO"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170333,
+      "name": "Kasha",
+      "url": "https://open.spotify.com/track/7nikes4I1TfkQTA270bIGh"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Lady Osakabe",
+      "url": "https://open.spotify.com/track/1qRDFgN65Uuj4vGBaZtuWP"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172626,
+      "name": "Lady Osakabe",
+      "url": "https://open.spotify.com/track/3HwtkHSurYmRd9Spf05acM"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180653,
+      "name": "Magara Naotaka",
+      "url": "https://open.spotify.com/track/133SDUcHF5kDUsCB96innk"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180653,
+      "name": "Magara Naotaka",
+      "url": "https://open.spotify.com/track/21VKtbeDGf7hXmBBIXGQ8b"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129613,
+      "name": "Mezuki",
+      "url": "https://open.spotify.com/track/66MCTS3wySdlvQqwTppHsM"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129613,
+      "name": "Mezuki",
+      "url": "https://open.spotify.com/track/6LGB0l4yOLan9XkUgWnh9X"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146413,
+      "name": "Mononofu I",
+      "url": "https://open.spotify.com/track/0KSp43foP3LRY4CeKaICmi"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146413,
+      "name": "Mononofu I",
+      "url": "https://open.spotify.com/track/5ubQ9DdCIrWwkLxkLSNExg"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143533,
+      "name": "Mononofu III",
+      "url": "https://open.spotify.com/track/3NiFMVJpz5ohlZwEWt0Yvy"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143533,
+      "name": "Mononofu III",
+      "url": "https://open.spotify.com/track/5ESUP5mxrRLzCcn3EY3jit"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265666,
+      "name": "Nioh -Main Theme-",
+      "url": "https://open.spotify.com/track/0gtxoM3oos8f0TSozXksZ4"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265666,
+      "name": "Nioh -Main Theme-",
+      "url": "https://open.spotify.com/track/4JcBCqiwAL8wnAR0a3f2Qe"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130026,
+      "name": "Nioh 2",
+      "url": "https://open.spotify.com/track/41mPKrRBzPY6hcRfz2yL9f"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 130026,
+      "name": "Nioh 2",
+      "url": "https://open.spotify.com/track/5Us5nArRWD7BitQLv7GrkL"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Nobunaga",
+      "url": "https://open.spotify.com/track/0X3ZD1MWt3OL3Jn65sI9kk"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 177253,
+      "name": "Nobunaga",
+      "url": "https://open.spotify.com/track/4AIsNqPyTyegIAXjYCXTcV"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 110093,
+      "name": "Oda Nobunaga",
+      "url": "https://open.spotify.com/track/6zvb4oF5q4A6wtV2FRerou"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110093,
+      "name": "Oda Nobunaga",
+      "url": "https://open.spotify.com/track/7DjnjG3hbkmLIctfaUszVr"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168293,
+      "name": "Okatsu I",
+      "url": "https://open.spotify.com/track/5SQQfhYwKaF6v5aFlW6S9b"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168293,
+      "name": "Okatsu I",
+      "url": "https://open.spotify.com/track/6fMcryFN51ABwTenUhPexL"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 107840,
+      "name": "Okatsu II",
+      "url": "https://open.spotify.com/track/7fELb51W9uA7jeM1wsmVex"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107840,
+      "name": "Okatsu II",
+      "url": "https://open.spotify.com/track/7nUIRaluI3uDBf9K6ce7hz"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121466,
+      "name": "Okuni",
+      "url": "https://open.spotify.com/track/1Dbp70eanwGtmQ0NfzdxKn"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121466,
+      "name": "Okuni",
+      "url": "https://open.spotify.com/track/5gm87UauIriN5v4a5dSFOH"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79986,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/0WGHRrnLE77IGuIotNAraJ"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79986,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/19EuTOL3k6ohEVdtwzHIni"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 111386,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/1ok3zSxIcFQxqmT8oakoN3"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111386,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/79AaAGvtxLUXx2KbwqNU0I"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153240,
+      "name": "Otakemaru",
+      "url": "https://open.spotify.com/track/3TRzYUUTxRJvszisGwOk6R"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153240,
+      "name": "Otakemaru",
+      "url": "https://open.spotify.com/track/4WkA7zn2Ajao4lgQa5ssDC"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104026,
+      "name": "Region I -Kyushu-",
+      "url": "https://open.spotify.com/track/1ozPqpg1VZ7ACFEQ4dMb2b"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104026,
+      "name": "Region I -Kyushu-",
+      "url": "https://open.spotify.com/track/2Cdwmz1cvB9qGCUixQKlOb"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b Complete Edition \u30aa\u30ea\u30b8\u30ca\u30eb\u30df\u30cb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30afCD",
+        "url": "https://open.spotify.com/album/1ykBqY2dD6PX94GLVwLkzN"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115093,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/6Jl800NWLQZBSsCAaLZx0k"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115280,
+      "name": "Saoirse",
+      "url": "https://open.spotify.com/track/1I2ZPxyhzVdys9ue0Zjgc4"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113680,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/3ZHHb5jJkxDYJGR7G4756U"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113680,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/7pYBqkvW9Geh9sB7gnTBxS"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145173,
+      "name": "Shuten Doji",
+      "url": "https://open.spotify.com/track/2jV6xrwqxpxXQ5tox9xBTV"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145173,
+      "name": "Shuten Doji",
+      "url": "https://open.spotify.com/track/2zZWnwNKNml7lImzfXihGR"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 137786,
+      "name": "Tokichiro I",
+      "url": "https://open.spotify.com/track/5Yk7ce8TgNWHxiB1zFFk2l"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137786,
+      "name": "Tokichiro I",
+      "url": "https://open.spotify.com/track/7hqjErxCMkeFvoJT4qUbvb"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153786,
+      "name": "Tokichiro II",
+      "url": "https://open.spotify.com/track/1wsp2yP2SNZiWZFmCPOR7f"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Tokichiro II",
+      "url": "https://open.spotify.com/track/3Zmxc1A4Esgy3Bwc9ThqKi"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "William",
+      "url": "https://open.spotify.com/track/2v9y0Yz8mlEZS4mGY2YHBt"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199880,
+      "name": "William",
+      "url": "https://open.spotify.com/track/55Pv5mYLPnsiPLtDkICEz3"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1x14ZtuyZf9qwZrjNnNEPY"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159320,
+      "name": "Yamata-No-Orochi",
+      "url": "https://open.spotify.com/track/1wI8tS8nGxWjMWXJ9649vR"
+    },
+    {
+      "album": {
+        "name": "NIOH Original Sound Track",
+        "url": "https://open.spotify.com/album/3jsiRHQm5nSfQgJbvm8ZAe"
+      },
+      "artists": [
+        {
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159320,
+      "name": "Yamata-No-Orochi",
+      "url": "https://open.spotify.com/track/2OwXYc2zV3rWqf9DLzxbjs"
+    },
+    {
+      "album": {
+        "name": "NIOH 2 Original Sound Track",
+        "url": "https://open.spotify.com/album/2Q2c2ybEgT7vHTaEHtFq9G"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167680,
+      "name": "Yatsu-no-Kami",
+      "url": "https://open.spotify.com/track/1W3TSYKnD6SUIgSi8WneK9"
+    },
+    {
+      "album": {
+        "name": "\u4ec1\u738b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6cna98umOsfvU0FXOa7bF8"
+      },
+      "artists": [
+        {
+          "name": "Akihiro Manabe",
+          "url": "https://open.spotify.com/artist/6BGqRAG5HD89cdadYJWR1x"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167680,
+      "name": "Yatsu-no-Kami",
+      "url": "https://open.spotify.com/track/6c22uiSbJdZoE3qyUKui2k"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9o0sjdAbiLJ"
 }

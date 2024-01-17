@@ -4,7 +4,7 @@
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-136 songs - 7 hr 58 min
+137 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-10-13 |  |
 | [Mountains](https://open.spotify.com/track/0tCfgUBnB6aRVa2jzOOMbP) | [Cult Of Venus](https://open.spotify.com/artist/2gBkcjCYEKisBVDaWyWY1W) | [Mountains](https://open.spotify.com/album/5UDtpP5XnWkE8dHQQaKI4r) | 3:36 | 2023-10-13 |  |
 | [My Eyes Only](https://open.spotify.com/track/2iD1Ogu3Mck9MuMKIgIBVG) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [My Eyes Only](https://open.spotify.com/album/1VChtX56VENbyIyKw0NP19) | 3:14 | 2023-10-13 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-01-12 |  |
 | [My Parade](https://open.spotify.com/track/72C3qcVhTWmaN8K2ijM3I5) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [STS](https://open.spotify.com/artist/0LhUDcQWIfiP624KorSrcB), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [KARNEVAL](https://open.spotify.com/album/78OnKUK4yFB3bv7VGsEaZL) | 1:44 | 2023-10-13 |  |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2023-10-13 |  |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2023-10-13 |  |

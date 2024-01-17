@@ -4,7 +4,7 @@
 
 > The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre\. Cover: Ray Charles
 
-88 songs - 5 hr 25 min
+89 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Boogie Woogie Country Girl](https://open.spotify.com/track/5OesDeYiBNJ68MX5gGspNI) | [Big Joe Turner with Orchester](https://open.spotify.com/artist/1FWWq0aSrfcWZaHrHLyShK), [Van 'Piano Man' Walls Orchestra](https://open.spotify.com/artist/3LhM28i6lmR4TTc9yZJD6O) | [Flip Flop And Fly](https://open.spotify.com/album/4t4fEfhICbe6UyBQmCkj77) | 2:55 | 2022-05-13 | 2022-07-29 |
 | [Booker's Boogie](https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues On The Prowl](https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N) | 3:37 | 2022-05-13 |  |
 | [Boot That Thing](https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u) | [Ken Saydak](https://open.spotify.com/artist/3CbqTmz4MT9cGAUZsGeFbJ) | [Tribute: Delmark's 65th Anniversary](https://open.spotify.com/album/7mtoUrLaCBwUODx3QwqlUi) | 4:00 | 2022-05-13 |  |
-| [Country Girl](https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb) | [Eye to Eye](https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD) | 4:48 | 2022-05-13 |  |
+| [Country Girl](https://open.spotify.com/track/51cYl5SvZURtIKvPx3xSRu) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Eye to Eye](https://open.spotify.com/album/4qeeoJt7NRA6hPXYrIMguD) | 4:48 | 2022-05-13 | 2024-01-15 |
+| [Country Girl](https://open.spotify.com/track/7sZIzMl4D1WUEFjNZA6FJL) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55), [Calvin "fuzz" Jones](https://open.spotify.com/artist/5zQ0mnqRSt39lqzodnSIMb), [Willie "Big Eyes" Smith](https://open.spotify.com/artist/17YszgQumE14Qyj0t2IGng) | [Eye to Eye](https://open.spotify.com/album/7j9tdbLMzhbDlo7qA1ZE7q) | 4:48 | 2023-09-15 |  |
 | [Dices Blues](https://open.spotify.com/track/1SpInnSzoo1rAKv0BNQyrC) | [Big Chief Ellis](https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW) | [Classic Piano Blues from Smithsonian Folkways](https://open.spotify.com/album/2v3tVwUhutMHIHeUd8lFaL) | 4:58 | 2022-05-13 |  |
 | [Early in the Morning](https://open.spotify.com/track/6LnP6nCXhVeRtDaKJU1omH) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [Blues Routes: Heroes and Tricksters: Blues and Jazz Work Songs and Street Music](https://open.spotify.com/album/3fJ4RbYBvlLsdSVDnK23Gb) | 3:05 | 2022-05-13 |  |
 | [Early In The Morning](https://open.spotify.com/track/0YbX9uVeQs6i4BuGL8ovUg) | [Booker T\. Laury](https://open.spotify.com/artist/6Tsq5rIvRhxQwRsvsRDsWH) | [SUN STUDIO STORY](https://open.spotify.com/album/5epU2OecYpVApVosZYDW9m) | 4:32 | 2022-05-13 |  |

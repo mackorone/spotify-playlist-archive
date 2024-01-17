@@ -1,732 +1,2117 @@
 {
-  "2021-12-28": 31831,
-  "2021-12-29": 31869,
-  "2021-12-30": 31926,
-  "2021-12-31": 31990,
-  "2022-01-01": 32088,
-  "2022-01-02": 32103,
-  "2022-01-03": 32154,
-  "2022-01-04": 32202,
-  "2022-01-05": 32267,
-  "2022-01-06": 32300,
-  "2022-01-07": 32353,
-  "2022-01-08": 32471,
-  "2022-01-09": 32468,
-  "2022-01-10": 32539,
-  "2022-01-11": 32603,
-  "2022-01-12": 32656,
-  "2022-01-13": 32708,
-  "2022-01-14": 32771,
-  "2022-01-15": 32904,
-  "2022-01-16": 32910,
-  "2022-01-17": 33044,
-  "2022-01-18": 33057,
-  "2022-01-19": 33101,
-  "2022-01-20": 33155,
-  "2022-01-21": 33206,
-  "2022-01-22": 33252,
-  "2022-01-23": 33305,
-  "2022-01-24": 33413,
-  "2022-01-25": 33468,
-  "2022-01-26": 33540,
-  "2022-01-27": 33600,
-  "2022-01-28": 33662,
-  "2022-01-29": 33736,
-  "2022-01-30": 33820,
-  "2022-01-31": 33911,
-  "2022-02-01": 33956,
-  "2022-02-02": 34012,
-  "2022-02-03": 34059,
-  "2022-02-04": 34123,
-  "2022-02-05": 34187,
-  "2022-02-06": 34279,
-  "2022-02-07": 34352,
-  "2022-02-08": 34418,
-  "2022-02-09": 34473,
-  "2022-02-10": 34519,
-  "2022-02-11": 34588,
-  "2022-02-12": 34644,
-  "2022-02-13": 34707,
-  "2022-02-14": 34794,
-  "2022-02-15": 34850,
-  "2022-02-16": 34902,
-  "2022-02-17": 34957,
-  "2022-02-18": 35028,
-  "2022-02-19": 35076,
-  "2022-02-20": 35157,
-  "2022-02-21": 35222,
-  "2022-02-22": 35283,
-  "2022-02-23": 35328,
-  "2022-02-24": 35379,
-  "2022-02-25": 35422,
-  "2022-02-26": 35479,
-  "2022-02-27": 35590,
-  "2022-02-28": 35590,
-  "2022-03-01": 35621,
-  "2022-03-02": 35683,
-  "2022-03-03": 35726,
-  "2022-03-04": 35771,
-  "2022-03-05": 35845,
-  "2022-03-06": 35913,
-  "2022-03-07": 35978,
-  "2022-03-08": 36024,
-  "2022-03-09": 36079,
-  "2022-03-10": 36135,
-  "2022-03-11": 36206,
-  "2022-03-12": 36269,
-  "2022-03-13": 36309,
-  "2022-03-14": 36380,
-  "2022-03-15": 36445,
-  "2022-03-16": 36495,
-  "2022-03-17": 36548,
-  "2022-03-18": 36619,
-  "2022-03-19": 36657,
-  "2022-03-20": 36657,
-  "2022-03-21": 36795,
-  "2022-03-22": 36841,
-  "2022-03-23": 36888,
-  "2022-03-24": 36941,
-  "2022-03-25": 36994,
-  "2022-03-26": 37048,
-  "2022-03-27": 37115,
-  "2022-03-28": 37157,
-  "2022-03-30": 37255,
-  "2022-03-31": 37314,
-  "2022-04-01": 37362,
-  "2022-04-02": 37422,
-  "2022-04-03": 37503,
-  "2022-04-04": 37574,
-  "2022-04-05": 37620,
-  "2022-04-06": 37669,
-  "2022-04-07": 37727,
-  "2022-04-08": 37790,
-  "2022-04-09": 37871,
-  "2022-04-10": 38008,
-  "2022-04-11": 38050,
-  "2022-04-12": 38059,
-  "2022-04-13": 38144,
-  "2022-04-14": 38196,
-  "2022-04-15": 38245,
-  "2022-04-16": 38302,
-  "2022-04-17": 38360,
-  "2022-04-18": 38417,
-  "2022-04-19": 38451,
-  "2022-04-20": 38496,
-  "2022-04-21": 38552,
-  "2022-04-22": 38609,
-  "2022-04-23": 38649,
-  "2022-04-24": 38723,
-  "2022-04-25": 38785,
-  "2022-04-26": 38841,
-  "2022-04-27": 38889,
-  "2022-04-28": 38936,
-  "2022-04-29": 39021,
-  "2022-04-30": 39090,
-  "2022-05-01": 39164,
-  "2022-05-02": 39164,
-  "2022-05-03": 39227,
-  "2022-05-04": 39297,
-  "2022-05-05": 39350,
-  "2022-05-06": 39398,
-  "2022-05-07": 39441,
-  "2022-05-08": 39527,
-  "2022-05-09": 39533,
-  "2022-05-10": 39582,
-  "2022-05-11": 39621,
-  "2022-05-12": 39657,
-  "2022-05-13": 39711,
-  "2022-05-14": 39750,
-  "2022-05-15": 39822,
-  "2022-05-16": 39869,
-  "2022-05-17": 39908,
-  "2022-05-18": 39969,
-  "2022-05-19": 40018,
-  "2022-05-20": 40073,
-  "2022-05-21": 40179,
-  "2022-05-22": 40179,
-  "2022-05-23": 40231,
-  "2022-05-24": 40262,
-  "2022-05-25": 40310,
-  "2022-05-26": 40368,
-  "2022-05-27": 40426,
-  "2022-05-28": 40458,
-  "2022-05-29": 40510,
-  "2022-05-30": 40562,
-  "2022-05-31": 40593,
-  "2022-06-01": 40671,
-  "2022-06-02": 40679,
-  "2022-06-03": 40724,
-  "2022-06-04": 40764,
-  "2022-06-05": 40810,
-  "2022-06-06": 40861,
-  "2022-06-07": 40908,
-  "2022-06-08": 40958,
-  "2022-06-09": 41010,
-  "2022-06-10": 41053,
-  "2022-06-11": 41094,
-  "2022-06-12": 41148,
-  "2022-06-13": 41213,
-  "2022-06-14": 41259,
-  "2022-06-15": 41309,
-  "2022-06-16": 41352,
-  "2022-06-17": 41415,
-  "2022-06-18": 41415,
-  "2022-06-19": 41556,
-  "2022-06-20": 41556,
-  "2022-06-21": 41597,
-  "2022-06-22": 41688,
-  "2022-06-23": 41688,
-  "2022-06-24": 41740,
-  "2022-06-25": 41796,
-  "2022-06-26": 41841,
-  "2022-06-27": 41885,
-  "2022-06-28": 41937,
-  "2022-06-29": 41973,
-  "2022-06-30": 42008,
-  "2022-07-01": 42056,
-  "2022-07-02": 42106,
-  "2022-07-03": 42168,
-  "2022-07-04": 42221,
-  "2022-07-05": 42263,
-  "2022-07-06": 42309,
-  "2022-07-07": 42351,
-  "2022-07-08": 42399,
-  "2022-07-09": 42453,
-  "2022-07-10": 42508,
-  "2022-07-11": 42570,
-  "2022-07-12": 42628,
-  "2022-07-13": 42665,
-  "2022-07-14": 42703,
-  "2022-07-15": 42751,
-  "2022-07-16": 42794,
-  "2022-07-17": 42831,
-  "2022-07-18": 42902,
-  "2022-07-19": 42942,
-  "2022-07-20": 42978,
-  "2022-07-21": 43020,
-  "2022-07-22": 43076,
-  "2022-07-23": 43127,
-  "2022-07-24": 43178,
-  "2022-07-25": 43232,
-  "2022-07-26": 43280,
-  "2022-07-27": 43329,
-  "2022-07-28": 43382,
-  "2022-07-29": 43440,
-  "2022-07-30": 43539,
-  "2022-07-31": 43539,
-  "2022-08-01": 43608,
-  "2022-08-02": 43726,
-  "2022-08-03": 43726,
-  "2022-08-04": 43763,
-  "2022-08-05": 43800,
-  "2022-08-06": 43847,
-  "2022-08-07": 43890,
-  "2022-08-08": 43934,
-  "2022-08-09": 43961,
-  "2022-08-10": 44005,
-  "2022-08-11": 44057,
-  "2022-08-12": 44100,
-  "2022-08-13": 44138,
-  "2022-08-14": 44191,
-  "2022-08-15": 44240,
-  "2022-08-16": 44289,
-  "2022-08-17": 44342,
-  "2022-08-18": 44402,
-  "2022-08-19": 44458,
-  "2022-08-20": 44510,
-  "2022-08-21": 44557,
-  "2022-08-22": 44627,
-  "2022-08-23": 44667,
-  "2022-08-24": 44711,
-  "2022-08-25": 44751,
-  "2022-08-26": 44789,
-  "2022-08-27": 44832,
-  "2022-08-28": 44880,
-  "2022-08-29": 44936,
-  "2022-08-30": 44931,
-  "2022-08-31": 44895,
-  "2022-09-01": 44844,
-  "2022-09-02": 44807,
-  "2022-09-03": 44703,
-  "2022-09-04": 44684,
-  "2022-09-05": 44723,
-  "2022-09-06": 44763,
-  "2022-09-07": 44813,
-  "2022-09-09": 44899,
-  "2022-09-10": 44946,
-  "2022-09-11": 44996,
-  "2022-09-12": 45045,
-  "2022-09-13": 45073,
-  "2022-09-15": 45159,
-  "2022-09-16": 45197,
-  "2022-09-17": 45247,
-  "2022-09-18": 45303,
-  "2022-09-19": 45359,
-  "2022-09-20": 45391,
-  "2022-09-21": 45431,
-  "2022-09-22": 45473,
-  "2022-09-23": 45528,
-  "2022-09-24": 45569,
-  "2022-09-25": 45609,
-  "2022-09-26": 45669,
-  "2022-09-27": 45722,
-  "2022-09-28": 45773,
-  "2022-09-29": 45834,
-  "2022-09-30": 45906,
-  "2022-10-01": 45950,
-  "2022-10-02": 46003,
-  "2022-10-03": 46051,
-  "2022-10-04": 46099,
-  "2022-10-05": 46144,
-  "2022-10-06": 46185,
-  "2022-10-07": 46240,
-  "2022-10-08": 46296,
-  "2022-10-09": 46415,
-  "2022-10-10": 46427,
-  "2022-10-11": 46496,
-  "2022-10-12": 46552,
-  "2022-10-13": 46599,
-  "2022-10-14": 46637,
-  "2022-10-15": 46687,
-  "2022-10-16": 46748,
-  "2022-10-17": 46800,
-  "2022-10-18": 46844,
-  "2022-10-19": 46881,
-  "2022-10-20": 46935,
-  "2022-10-21": 46996,
-  "2022-10-22": 47051,
-  "2022-10-23": 47131,
-  "2022-10-24": 47183,
-  "2022-10-25": 47232,
-  "2022-10-26": 47287,
-  "2022-10-27": 47346,
-  "2022-10-28": 47394,
-  "2022-10-29": 47455,
-  "2022-10-30": 47500,
-  "2022-10-31": 47559,
-  "2022-11-01": 47599,
-  "2022-11-02": 47670,
-  "2022-11-03": 47725,
-  "2022-11-04": 47779,
-  "2022-11-05": 47842,
-  "2022-11-06": 47896,
-  "2022-11-07": 47970,
-  "2022-11-08": 48020,
-  "2022-11-09": 48068,
-  "2022-11-10": 48125,
-  "2022-11-11": 48163,
-  "2022-11-12": 48226,
-  "2022-11-13": 48274,
-  "2022-11-14": 48331,
-  "2022-11-15": 48385,
-  "2022-11-16": 48418,
-  "2022-11-17": 48457,
-  "2022-11-18": 48475,
-  "2022-11-19": 48501,
-  "2022-11-20": 48542,
-  "2022-11-21": 48602,
-  "2022-11-22": 48675,
-  "2022-11-23": 48736,
-  "2022-11-24": 48903,
-  "2022-11-25": 48885,
-  "2022-11-26": 48968,
-  "2022-11-27": 49042,
-  "2022-11-28": 49101,
-  "2022-11-29": 49159,
-  "2022-11-30": 49213,
-  "2022-12-01": 49262,
-  "2022-12-02": 49287,
-  "2022-12-03": 49358,
-  "2022-12-04": 49419,
-  "2022-12-05": 49482,
-  "2022-12-06": 49539,
-  "2022-12-07": 49614,
-  "2022-12-08": 49639,
-  "2022-12-09": 49708,
-  "2022-12-10": 49759,
-  "2022-12-11": 49841,
-  "2022-12-12": 49912,
-  "2022-12-13": 49965,
-  "2022-12-14": 50014,
-  "2022-12-15": 10044,
-  "2022-12-16": 2116,
-  "2022-12-17": 608,
-  "2022-12-18": 371,
-  "2022-12-19": 382,
-  "2022-12-20": 492,
-  "2022-12-21": 492,
-  "2022-12-22": 562,
-  "2022-12-24": 137,
-  "2022-12-25": 199,
-  "2022-12-26": 284,
-  "2022-12-27": 373,
-  "2022-12-28": 445,
-  "2022-12-29": 522,
-  "2022-12-30": 600,
-  "2022-12-31": 600,
-  "2023-01-01": 600,
-  "2023-01-02": 600,
-  "2023-01-03": 600,
-  "2023-01-04": 600,
-  "2023-01-05": 600,
-  "2023-01-06": 600,
-  "2023-01-07": 600,
-  "2023-01-08": 600,
-  "2023-01-09": 600,
-  "2023-01-10": 600,
-  "2023-01-11": 600,
-  "2023-01-12": 600,
-  "2023-01-13": 600,
-  "2023-01-14": 600,
-  "2023-01-15": 600,
-  "2023-01-16": 600,
-  "2023-01-17": 600,
-  "2023-01-18": 600,
-  "2023-01-19": 600,
-  "2023-01-20": 600,
-  "2023-01-21": 600,
-  "2023-01-22": 600,
-  "2023-01-23": 600,
-  "2023-01-24": 600,
-  "2023-01-25": 600,
-  "2023-01-26": 600,
-  "2023-01-27": 600,
-  "2023-01-28": 600,
-  "2023-01-29": 600,
-  "2023-01-30": 600,
-  "2023-01-31": 600,
-  "2023-02-01": 600,
-  "2023-02-02": 600,
-  "2023-02-03": 600,
-  "2023-02-04": 600,
-  "2023-02-05": 600,
-  "2023-02-06": 600,
-  "2023-02-07": 600,
-  "2023-02-08": 600,
-  "2023-02-09": 600,
-  "2023-02-10": 600,
-  "2023-02-11": 600,
-  "2023-02-12": 600,
-  "2023-02-13": 600,
-  "2023-02-14": 600,
-  "2023-02-15": 600,
-  "2023-02-16": 600,
-  "2023-02-17": 600,
-  "2023-02-18": 600,
-  "2023-02-19": 600,
-  "2023-02-20": 600,
-  "2023-02-21": 600,
-  "2023-02-22": 600,
-  "2023-02-23": 600,
-  "2023-02-24": 600,
-  "2023-02-25": 600,
-  "2023-02-26": 600,
-  "2023-02-27": 600,
-  "2023-02-28": 600,
-  "2023-03-01": 600,
-  "2023-03-02": 600,
-  "2023-03-03": 600,
-  "2023-03-04": 600,
-  "2023-03-05": 600,
-  "2023-03-06": 600,
-  "2023-03-07": 600,
-  "2023-03-08": 600,
-  "2023-03-09": 600,
-  "2023-03-10": 600,
-  "2023-03-11": 600,
-  "2023-03-12": 600,
-  "2023-03-13": 600,
-  "2023-03-14": 600,
-  "2023-03-15": 600,
-  "2023-03-16": 600,
-  "2023-03-17": 600,
-  "2023-03-18": 600,
-  "2023-03-19": 600,
-  "2023-03-20": 600,
-  "2023-03-21": 600,
-  "2023-03-22": 600,
-  "2023-03-23": 600,
-  "2023-03-24": 600,
-  "2023-03-25": 600,
-  "2023-03-26": 600,
-  "2023-03-27": 600,
-  "2023-03-28": 600,
-  "2023-03-29": 600,
-  "2023-03-30": 600,
-  "2023-03-31": 600,
-  "2023-04-01": 600,
-  "2023-04-02": 600,
-  "2023-04-03": 600,
-  "2023-04-04": 600,
-  "2023-04-05": 600,
-  "2023-04-06": 600,
-  "2023-04-07": 600,
-  "2023-04-09": 600,
-  "2023-04-10": 600,
-  "2023-04-11": 600,
-  "2023-04-12": 600,
-  "2023-04-13": 600,
-  "2023-04-14": 600,
-  "2023-04-15": 600,
-  "2023-04-16": 600,
-  "2023-04-17": 600,
-  "2023-04-18": 600,
-  "2023-04-19": 600,
-  "2023-04-20": 600,
-  "2023-04-21": 600,
-  "2023-04-22": 600,
-  "2023-04-23": 600,
-  "2023-04-24": 600,
-  "2023-04-25": 600,
-  "2023-04-26": 600,
-  "2023-04-27": 600,
-  "2023-04-28": 600,
-  "2023-04-29": 600,
-  "2023-04-30": 600,
-  "2023-05-01": 600,
-  "2023-05-02": 600,
-  "2023-05-03": 600,
-  "2023-05-04": 600,
-  "2023-05-05": 600,
-  "2023-05-06": 600,
-  "2023-05-07": 600,
-  "2023-05-08": 600,
-  "2023-05-09": 600,
-  "2023-05-10": 600,
-  "2023-05-11": 600,
-  "2023-05-12": 600,
-  "2023-05-13": 600,
-  "2023-05-14": 600,
-  "2023-05-15": 600,
-  "2023-05-16": 600,
-  "2023-05-17": 600,
-  "2023-05-18": 600,
-  "2023-05-19": 600,
-  "2023-05-20": 600,
-  "2023-05-21": 600,
-  "2023-05-22": 600,
-  "2023-05-23": 600,
-  "2023-05-24": 600,
-  "2023-05-25": 600,
-  "2023-05-26": 600,
-  "2023-05-27": 600,
-  "2023-05-28": 600,
-  "2023-05-29": 600,
-  "2023-05-30": 600,
-  "2023-05-31": 600,
-  "2023-06-01": 600,
-  "2023-06-02": 600,
-  "2023-06-03": 600,
-  "2023-06-04": 600,
-  "2023-06-05": 600,
-  "2023-06-06": 600,
-  "2023-06-07": 600,
-  "2023-06-08": 600,
-  "2023-06-09": 600,
-  "2023-06-10": 600,
-  "2023-06-11": 600,
-  "2023-06-12": 600,
-  "2023-06-13": 600,
-  "2023-06-14": 600,
-  "2023-06-15": 600,
-  "2023-06-16": 600,
-  "2023-06-17": 600,
-  "2023-06-18": 600,
-  "2023-06-19": 600,
-  "2023-06-20": 600,
-  "2023-06-21": 600,
-  "2023-06-22": 600,
-  "2023-06-23": 600,
-  "2023-06-24": 600,
-  "2023-06-25": 600,
-  "2023-06-26": 600,
-  "2023-06-27": 600,
-  "2023-06-28": 600,
-  "2023-06-29": 600,
-  "2023-06-30": 600,
-  "2023-07-01": 600,
-  "2023-07-02": 600,
-  "2023-07-03": 600,
-  "2023-07-04": 600,
-  "2023-07-05": 600,
-  "2023-07-06": 600,
-  "2023-07-07": 600,
-  "2023-07-08": 600,
-  "2023-07-09": 600,
-  "2023-07-10": 600,
-  "2023-07-11": 600,
-  "2023-07-12": 600,
-  "2023-07-13": 600,
-  "2023-07-14": 600,
-  "2023-07-15": 600,
-  "2023-07-16": 600,
-  "2023-07-17": 600,
-  "2023-07-18": 600,
-  "2023-07-19": 600,
-  "2023-07-20": 600,
-  "2023-07-21": 600,
-  "2023-07-22": 600,
-  "2023-07-23": 600,
-  "2023-07-24": 600,
-  "2023-07-25": 600,
-  "2023-07-26": 600,
-  "2023-07-27": 600,
-  "2023-07-28": 600,
-  "2023-07-29": 600,
-  "2023-07-30": 600,
-  "2023-07-31": 600,
-  "2023-08-01": 600,
-  "2023-08-02": 600,
-  "2023-08-03": 600,
-  "2023-08-04": 600,
-  "2023-08-05": 600,
-  "2023-08-06": 600,
-  "2023-08-07": 600,
-  "2023-08-08": 600,
-  "2023-08-09": 600,
-  "2023-08-10": 600,
-  "2023-08-11": 600,
-  "2023-08-12": 600,
-  "2023-08-13": 600,
-  "2023-08-14": 600,
-  "2023-08-15": 600,
-  "2023-08-16": 600,
-  "2023-08-17": 600,
-  "2023-08-18": 600,
-  "2023-08-19": 600,
-  "2023-08-20": 600,
-  "2023-08-21": 600,
-  "2023-08-22": 600,
-  "2023-08-23": 600,
-  "2023-08-24": 600,
-  "2023-08-25": 600,
-  "2023-08-26": 600,
-  "2023-08-27": 600,
-  "2023-08-28": 600,
-  "2023-08-29": 600,
-  "2023-08-30": 600,
-  "2023-08-31": 600,
-  "2023-09-01": 600,
-  "2023-09-02": 600,
-  "2023-09-03": 600,
-  "2023-09-04": 600,
-  "2023-09-05": 600,
-  "2023-09-06": 600,
-  "2023-09-07": 600,
-  "2023-09-08": 600,
-  "2023-09-09": 600,
-  "2023-09-10": 600,
-  "2023-09-11": 600,
-  "2023-09-12": 600,
-  "2023-09-13": 600,
-  "2023-09-14": 600,
-  "2023-09-15": 600,
-  "2023-09-16": 600,
-  "2023-09-17": 600,
-  "2023-09-18": 600,
-  "2023-09-19": 600,
-  "2023-09-20": 600,
-  "2023-09-21": 600,
-  "2023-09-22": 600,
-  "2023-09-23": 600,
-  "2023-09-24": 600,
-  "2023-09-25": 600,
-  "2023-09-26": 600,
-  "2023-09-27": 600,
-  "2023-09-28": 600,
-  "2023-09-29": 600,
-  "2023-09-30": 600,
-  "2023-10-01": 600,
-  "2023-10-02": 600,
-  "2023-10-03": 600,
-  "2023-10-04": 600,
-  "2023-10-05": 600,
-  "2023-10-06": 600,
-  "2023-10-07": 600,
-  "2023-10-08": 600,
-  "2023-10-09": 600,
-  "2023-10-10": 600,
-  "2023-10-11": 600,
-  "2023-10-12": 600,
-  "2023-10-13": 600,
-  "2023-10-14": 600,
-  "2023-10-15": 600,
-  "2023-10-16": 600,
-  "2023-10-17": 600,
-  "2023-10-18": 600,
-  "2023-10-19": 600,
-  "2023-10-20": 600,
-  "2023-10-21": 600,
-  "2023-10-22": 600,
-  "2023-10-23": 600,
-  "2023-10-24": 600,
-  "2023-10-25": 600,
-  "2023-10-26": 600,
-  "2023-10-27": 600,
-  "2023-10-28": 600,
-  "2023-10-29": 600,
-  "2023-10-30": 600,
-  "2023-10-31": 600,
-  "2023-11-01": 600,
-  "2023-11-02": 600,
-  "2023-11-03": 600,
-  "2023-11-04": 600,
-  "2023-11-05": 600,
-  "2023-11-06": 600,
-  "2023-11-07": 600,
-  "2023-11-08": 600,
-  "2023-11-09": 600,
-  "2023-11-10": 600,
-  "2023-11-11": 600,
-  "2023-11-12": 600,
-  "2023-11-13": 600,
-  "2023-11-14": 600,
-  "2023-11-15": 600,
-  "2023-11-16": 600,
-  "2023-11-17": 600,
-  "2023-11-18": 600,
-  "2023-11-19": 600,
-  "2023-11-20": 600,
-  "2023-11-21": 600,
-  "2023-11-22": 600,
-  "2023-11-23": 600,
-  "2023-11-24": 600,
-  "2023-11-25": 600,
-  "2023-11-26": 600,
-  "2023-11-27": 600,
-  "2023-11-28": 600,
-  "2023-11-29": 600,
-  "2023-11-30": 600,
-  "2023-12-01": 600,
-  "2023-12-02": 600,
-  "2023-12-03": 600,
-  "2023-12-04": 600,
-  "2023-12-05": 600,
-  "2023-12-06": 600,
-  "2023-12-07": 600,
-  "2023-12-08": 600,
-  "2023-12-09": 600,
-  "2023-12-10": 600,
-  "2023-12-11": 600,
-  "2023-12-12": 600,
-  "2023-12-13": 600,
-  "2023-12-14": 600,
-  "2023-12-15": 600,
-  "2023-12-16": 600,
-  "2023-12-17": 600,
-  "2023-12-18": 600,
-  "2023-12-19": 600,
-  "2023-12-20": 600,
-  "2023-12-21": 600,
-  "2023-12-22": 600,
-  "2023-12-23": 600,
-  "2023-12-24": 600,
-  "2023-12-25": 600,
-  "2023-12-26": 600,
-  "2023-12-27": 600,
-  "2023-12-30": 600,
-  "2023-12-31": 600,
-  "2024-01-01": 600,
-  "2024-01-02": 600,
-  "2024-01-03": 600
+  "2024-01-17": 600,
+  "date_first_scraped": "2021-12-28",
+  "description": "Your favorite arias, performed by legendary opera divas.",
+  "name": "Opera Divas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Leontyne Price - Prima Donna Vol. 4: Great Soprano Arias from Mozart to Menotti",
+        "url": "https://open.spotify.com/album/3GxcD96CF8zoOhhegrlUU0"
+      },
+      "artists": [
+        {
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Nello Santi",
+          "url": "https://open.spotify.com/artist/3oqxBzBkG6Q2xFAAM1c9pl"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368733,
+      "name": "Act I: Gl\u00fcck, das mir verblieb (Marietta's Lied)",
+      "url": "https://open.spotify.com/track/6GFiSW2OllzAVnCSaWPJhk"
+    },
+    {
+      "album": {
+        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
+        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334480,
+      "name": "Addio del passato - Violetta",
+      "url": "https://open.spotify.com/track/05AEogBNCZykkSdKjFHu0P"
+    },
+    {
+      "album": {
+        "name": "Great Operatic Arias (Sung in English), Vol. 17 - Christine Brewer",
+        "url": "https://open.spotify.com/album/5YGIOtzaTbgrmidM9yeIly"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Christine Brewer",
+          "url": "https://open.spotify.com/artist/2JBU8gccWLZRrAHgDU3nja"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "David Parry",
+          "url": "https://open.spotify.com/artist/2dfDjeZroUd3LWmSFrAZCD"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 802000,
+      "name": "Ah, perfido!, Op. 65",
+      "url": "https://open.spotify.com/track/2ytQqOBWsDgYqfvF4Xp8Iw"
+    },
+    {
+      "album": {
+        "name": "Casta diva (La Scala, 1960)",
+        "url": "https://open.spotify.com/album/6fg4AYdAZVXPVqSiYe2vod"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Coro Del Teatro Alla Scala Di Milano",
+          "url": "https://open.spotify.com/artist/7FMCfu4mkrKZd36Pj4lZla"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340200,
+      "name": "Bellini: Norma, Act 1: \"Casta diva\" (Norma, Coro)",
+      "url": "https://open.spotify.com/track/569mjluijFje19TIApu5Ws"
+    },
+    {
+      "album": {
+        "name": "Bizet : Carmen",
+        "url": "https://open.spotify.com/album/78ogxnOLeRebXlY7HV1dRc"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Michel Plasson",
+          "url": "https://open.spotify.com/artist/2fzmIYnCPAZ9LeJFpYcHob"
+        },
+        {
+          "name": "Wolff",
+          "url": "https://open.spotify.com/artist/6QU20RnCPYe0CFYutfeq6D"
+        },
+        {
+          "name": "Orchestre National Du Capitole De Toulouse",
+          "url": "https://open.spotify.com/artist/75ehLoOSz7elHefmAk5QWa"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "Carmen, Act I: No.5 Habanera : L'amour est un oiseau rebelle (Carmen/Cigari\u00e8res/Jeunes gens/Dragons)",
+      "url": "https://open.spotify.com/track/4Dao462IWwRykAA9UsNT9O"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/5tmysEgney8v5Xj0aJlRAN"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 269000,
+      "name": "Carmen, WD 31 / Act 1: Chanson et Duo: \"Pr\u00e8s des remparts de S\u00e9ville\"",
+      "url": "https://open.spotify.com/track/4MjevbG7eLqOzTs9VdCFPP"
+    },
+    {
+      "album": {
+        "name": "Bizet: Carmen",
+        "url": "https://open.spotify.com/album/3wGsemyIA0V2SPk0wWlLgu"
+      },
+      "artists": [
+        {
+          "name": "Georges Bizet",
+          "url": "https://open.spotify.com/artist/2D7RkvtKKb6E5UmbjQM1Jd"
+        },
+        {
+          "name": "Teresa Berganza",
+          "url": "https://open.spotify.com/artist/6myXAUJ8cAp5oSXId946SJ"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "Carmen, WD 31 / Act I: Chanson et Duo: \"Pr\u00e8s des remparts de S\u00e9ville\"",
+      "url": "https://open.spotify.com/track/7CvvR4ZVO8vhQMNxDoeCTB"
+    },
+    {
+      "album": {
+        "name": "Songs Of Inspiration",
+        "url": "https://open.spotify.com/album/2OWysc8K9BFyUgKNRvyXjP"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "The Tabernacle Choir at Temple Square",
+          "url": "https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5"
+        },
+        {
+          "name": "Utah Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0nUgGmqaWapTF9BiRDBmJp"
+        },
+        {
+          "name": "Julius Rudel",
+          "url": "https://open.spotify.com/artist/1C75oX13xZkt49Gun2REwA"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212893,
+      "name": "Casanova: Nuns' Chorus",
+      "url": "https://open.spotify.com/track/60Q1k8INO76ZFAPEbJNCMn"
+    },
+    {
+      "album": {
+        "name": "Kiri - A Portrait",
+        "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
+      },
+      "artists": [
+        {
+          "name": "Joseph Canteloube",
+          "url": "https://open.spotify.com/artist/2Qxqr7UC93OtiiCiyFZsmw"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399506,
+      "name": "Chants d'Auvergne: 2. Bailero",
+      "url": "https://open.spotify.com/track/2sCVPcPadQfJNqNZbmSPf1"
+    },
+    {
+      "album": {
+        "name": "Mozart: Cos\u00ec fan tutte",
+        "url": "https://open.spotify.com/album/2kOtAaMJSViw001aqYWH8I"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Marie McLaughlin",
+          "url": "https://open.spotify.com/artist/6tqC1oVsnZLC2OuVcYFUdW"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "James Levine",
+          "url": "https://open.spotify.com/artist/4qFQgEF1rg6a9WvJM0MQIa"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306560,
+      "name": "Cos\u00ec fan tutte ossia La scuola degli amanti, K.588 / Act 2: \"Una donna a quindici anni\" - \"Sorella, cosa dici?\"",
+      "url": "https://open.spotify.com/track/6WxD3jGU4r7VMSWKAMhVkJ"
+    },
+    {
+      "album": {
+        "name": "Mozart: Cos\u00ec fan tutte",
+        "url": "https://open.spotify.com/album/5XQCwXxCtJC7ibbJkwCfNk"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Miah Persson",
+          "url": "https://open.spotify.com/artist/3hcyVVem6bxNJH1gx2Ww5F"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248973,
+      "name": "Cos\u00ec fan tutte, K. 588 / Act I: \"Come scoglio\"",
+      "url": "https://open.spotify.com/track/45h7YLENRhWk2wmGkUivtJ"
+    },
+    {
+      "album": {
+        "name": "Mozart: Cos\u00ec fan tutte",
+        "url": "https://open.spotify.com/album/5azjbVDVbTWLKbV8sjLjX1"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Miah Persson",
+          "url": "https://open.spotify.com/artist/3hcyVVem6bxNJH1gx2Ww5F"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248973,
+      "name": "Cos\u00ec fan tutte, K.588 / Act 1: \"Come scoglio\"",
+      "url": "https://open.spotify.com/track/7aXnm2B00nnKjq8iTs4uS9"
+    },
+    {
+      "album": {
+        "name": "Purcell: Dido & Aeneas",
+        "url": "https://open.spotify.com/album/0qoRz7WoN63imSw1xk1BNA"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246240,
+      "name": "Dido and Aeneas / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
+      "url": "https://open.spotify.com/track/6qeXMMv1oyTyVGzDilOYNu"
+    },
+    {
+      "album": {
+        "name": "Purcell: Dido and Aeneas",
+        "url": "https://open.spotify.com/album/5TT52YrUqYmYuKbnyRq1Yh"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "Dido and Aeneas / Act 3: \"Thy Hand Belinda - When I Am Laid In Earth\"",
+      "url": "https://open.spotify.com/track/7zY5vYh9YGBwU63IacQpn4"
+    },
+    {
+      "album": {
+        "name": "Solti - Wagner - The Operas",
+        "url": "https://open.spotify.com/album/0gwWHAzKo3OPiWMnb6HOei"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "R\u00e9gine Crespin",
+          "url": "https://open.spotify.com/artist/1iVZJI0TTCU0bNewKZS0R1"
+        },
+        {
+          "name": "James King",
+          "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406666,
+      "name": "Die Walk\u00fcre / Erster Aufzug: \"Schl\u00e4fst du, Gast?\"",
+      "url": "https://open.spotify.com/track/5bMVfWsx1R68PwGMwaaQDv"
+    },
+    {
+      "album": {
+        "name": "Wagner: Die Walk\u00fcre",
+        "url": "https://open.spotify.com/album/6sBYzKzbrGncOysgiiL3v1"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "R\u00e9gine Crespin",
+          "url": "https://open.spotify.com/artist/1iVZJI0TTCU0bNewKZS0R1"
+        },
+        {
+          "name": "James King",
+          "url": "https://open.spotify.com/artist/5I2cYLH1KGi4ezFJ9X7JTI"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 406692,
+      "name": "Die Walk\u00fcre, WWV 86B / Act 1: \"Schl\u00e4fst du, Gast?\"",
+      "url": "https://open.spotify.com/track/3Ysox2dGfkoPUEHjhmVNkN"
+    },
+    {
+      "album": {
+        "name": "Mozart: Die Zauberfl\u00f6te - Highlights",
+        "url": "https://open.spotify.com/album/1IHY6RUqwZInSWR6WnQ8EO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cristina Deutekom",
+          "url": "https://open.spotify.com/artist/3pPmntFuOiNf2Rpp35KqxP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173960,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/4bkdxDtqsuSHOTHos4hxCv"
+    },
+    {
+      "album": {
+        "name": "101 Mozart",
+        "url": "https://open.spotify.com/album/521Io1iL1asDyuKIS8vq1u"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Cristina Deutekom",
+          "url": "https://open.spotify.com/artist/3pPmntFuOiNf2Rpp35KqxP"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 178040,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/0iAOwp40agX3UuVjYjiBm2"
+    },
+    {
+      "album": {
+        "name": "Mozart 250",
+        "url": "https://open.spotify.com/album/418jxlGaNMiou2cgUSN7t5"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 173880,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/1nbfUtAaJY78tegj5cjfZE"
+    },
+    {
+      "album": {
+        "name": "The Art Of Ren\u00e9e Fleming",
+        "url": "https://open.spotify.com/album/31bA5djbrOQ3Q5RPBSm3P9"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169253,
+      "name": "Gianni Schicchi: \"O mio babbino caro\"",
+      "url": "https://open.spotify.com/track/51Fi8flrG3IHrFeU4G198k"
+    },
+    {
+      "album": {
+        "name": "Opera Chill & Relax",
+        "url": "https://open.spotify.com/album/0kUiwKyKt3FOXFIGII0y2K"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169880,
+      "name": "Gianni Schicchi: \"O mio babbino caro\"",
+      "url": "https://open.spotify.com/track/4ErQ9so16QNxy0srB7vJE7"
+    },
+    {
+      "album": {
+        "name": "Handel",
+        "url": "https://open.spotify.com/album/1b5bXNH6U0KZfc8lNaIhTB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Sonya Yoncheva",
+          "url": "https://open.spotify.com/artist/1zjyJqtr2NOxgztq78bnDw"
+        },
+        {
+          "name": "Alessandro De Marchi",
+          "url": "https://open.spotify.com/artist/3j7YF1zH6VwkwdtiMdDc3n"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470760,
+      "name": "Giulio Cesare in Egitto, HWV 17, Act II, Scene 8: Se piet\u00e0 di me non senti",
+      "url": "https://open.spotify.com/track/1liaKYQKIsy53U8ejRSorc"
+    },
+    {
+      "album": {
+        "name": "A Journey",
+        "url": "https://open.spotify.com/album/6ULCgVtgmYYGxl4btSHSm1"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Pretty Yende",
+          "url": "https://open.spotify.com/artist/2s7dm9RxxQaLtAXbWjQeco"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368026,
+      "name": "Il barbiere di Siviglia, Act I, No. 5: Una voce poco fa",
+      "url": "https://open.spotify.com/track/6rduwQDcGmWbqL3tm9Kgt0"
+    },
+    {
+      "album": {
+        "name": "Puccini: La Boh\u00e8me",
+        "url": "https://open.spotify.com/album/0DdPI0pzTRV6uT4ty2JBpF"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Elizabeth Harwood",
+          "url": "https://open.spotify.com/artist/7BS6vu4ECeq6Xec0G36NXS"
+        },
+        {
+          "name": "Michel S\u00e9n\u00e9chal",
+          "url": "https://open.spotify.com/artist/6uvw9qz33jjkYmhO2fW6Mx"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Nicolai Ghiaurov",
+          "url": "https://open.spotify.com/artist/0gHar4003EyqU81XGv1Bka"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Gianni Maffeo",
+          "url": "https://open.spotify.com/artist/6AEcGDHISXQ3PFqgQRPxOt"
+        },
+        {
+          "name": "Sch\u00f6neberger S\u00e4ngerknaben",
+          "url": "https://open.spotify.com/artist/0RYyqMk4tvb7RN91ZDr6nl"
+        },
+        {
+          "name": "Chor der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/2KvV4gawnuMNG74DgSAQ0n"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321506,
+      "name": "La boh\u00e8me, SC 67 / Act 2: \"Quando m'en vo'\" (Musetta's Waltz)",
+      "url": "https://open.spotify.com/track/50rLDfcJA7ngUFhfRGhau8"
+    },
+    {
+      "album": {
+        "name": "Rossini: La Cenerentola",
+        "url": "https://open.spotify.com/album/7l63teUxbSza8o8gG9SLc4"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "William Matteuzzi",
+          "url": "https://open.spotify.com/artist/2dWFggqo9Ob31YW0SAIeuO"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Alessandro Corbelli",
+          "url": "https://open.spotify.com/artist/0pGnh4HFJGMRsps26YwFye"
+        },
+        {
+          "name": "Enzo Dara",
+          "url": "https://open.spotify.com/artist/03SZ5zVrrY9ydcNEqpaQrZ"
+        },
+        {
+          "name": "Michele Pertusi",
+          "url": "https://open.spotify.com/artist/5rw1xoECGR6GjOanoR5S9G"
+        },
+        {
+          "name": "Fernanda Costa",
+          "url": "https://open.spotify.com/artist/1ZNE6qy039cPc6dYNwWllt"
+        },
+        {
+          "name": "Gloria Banditelli",
+          "url": "https://open.spotify.com/artist/6I2wNCFS6kRIteg0mZvj28"
+        },
+        {
+          "name": "Coro del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/3NBbsGQbuX0Vx15B0gPpj4"
+        },
+        {
+          "name": "Orchestra del Teatro Comunale di Bologna",
+          "url": "https://open.spotify.com/artist/1lSYYojBSSgq0bgJ3vQErg"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189333,
+      "name": "La Cenerentola / Act 2: \"Non pi\u00f9 mesta\"",
+      "url": "https://open.spotify.com/track/52YXekNG4JiRZqrFOoEOyg"
+    },
+    {
+      "album": {
+        "name": "Mozart: La clemenza di Tito (Live)",
+        "url": "https://open.spotify.com/album/0wIV3hABhrsqlOnTGLZmqO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Joyce DiDonato",
+          "url": "https://open.spotify.com/artist/6uFDUz42zInHQ1T2JFqNrE"
+        },
+        {
+          "name": "Chamber Orchestra of Europe",
+          "url": "https://open.spotify.com/artist/1VfDXOsmvKAtebAZ9KxQhC"
+        },
+        {
+          "name": "Yannick N\u00e9zet-S\u00e9guin",
+          "url": "https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411360,
+      "name": "La clemenza di Tito, K. 621 / Act 2: \"Deh per questo istante solo\" - Live",
+      "url": "https://open.spotify.com/track/3lZZkQP6ZX4uzxXHlWDpZi"
+    },
+    {
+      "album": {
+        "name": "Eileen Farrell: Verdi Arias",
+        "url": "https://open.spotify.com/album/48RaEt3vUOKBoXeIm7Pu1j"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Eileen Farrell",
+          "url": "https://open.spotify.com/artist/2hm0Aj6jK7ZlOPd26VKAOb"
+        },
+        {
+          "name": "Max Rudolf",
+          "url": "https://open.spotify.com/artist/7bVJ6Yev7yDKSceh9KNUja"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287546,
+      "name": "La forza del destino, Act IV: \"Pace, pace, mio Dio!\"",
+      "url": "https://open.spotify.com/track/0xwNJxGe5lCUklorkhkV69"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/4oqJ13EemIRGsK7u5JIJef"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175506,
+      "name": "La Traviata / Act 1: \"Libiamo ne'lieti calici\"",
+      "url": "https://open.spotify.com/track/3jQa7pofP3CHRTt4Xnoyt6"
+    },
+    {
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/56wRW64Pb6yVU8NIC2Ywgq"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175506,
+      "name": "La traviata / Act I: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/41ujv4mhxlqR8nlnieDpDp"
+    },
+    {
+      "album": {
+        "name": "Eternal Verdi",
+        "url": "https://open.spotify.com/album/4vAOVKSl72BslInRXZKrPP"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Ileana Cotrubas",
+          "url": "https://open.spotify.com/artist/3ArbrVTsYfUVK7hNaXl6z1"
+        },
+        {
+          "name": "Pl\u00e1cido Domingo",
+          "url": "https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW"
+        },
+        {
+          "name": "Chor der Bayerischen Staatsoper M\u00fcnchen",
+          "url": "https://open.spotify.com/artist/2WQOMWyQxqfd96VyU943Tx"
+        },
+        {
+          "name": "Bavarian State Orchestra",
+          "url": "https://open.spotify.com/artist/3ZXZN86zspTIIkwbzlkDwf"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 177466,
+      "name": "La traviata / Act I: Libiamo ne'lieti calici",
+      "url": "https://open.spotify.com/track/4M8NOePituFGBwoRaO9I2V"
+    },
+    {
+      "album": {
+        "name": "Opera dinner",
+        "url": "https://open.spotify.com/album/3IGvw4Lku6J9HdEBg0gZY2"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Catalani",
+          "url": "https://open.spotify.com/artist/2pJPaYySRIl7SVCgkT2weI"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220522,
+      "name": "La Wally / Act 1: \"Ebben? Ne andr\u00f2 lontana\"",
+      "url": "https://open.spotify.com/track/6rEcavC5L0v3wmOPOtahhN"
+    },
+    {
+      "album": {
+        "name": "Angela Gheorghiu: The Essential Collection",
+        "url": "https://open.spotify.com/album/1gnZrcj64QAXTkaz95qDkN"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Catalani",
+          "url": "https://open.spotify.com/artist/2pJPaYySRIl7SVCgkT2weI"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222000,
+      "name": "La Wally / Act 1: \"Ebben? Ne andr\u00f2 lontana\"",
+      "url": "https://open.spotify.com/track/5Gjs266kK1CyCvPJVDveDs"
+    },
+    {
+      "album": {
+        "name": "Angela Gheorghiu - Arias",
+        "url": "https://open.spotify.com/album/1DPWdHhr6ncwSF5k2R75jY"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Catalani",
+          "url": "https://open.spotify.com/artist/2pJPaYySRIl7SVCgkT2weI"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Orchestra del Teatro Regio di Torino",
+          "url": "https://open.spotify.com/artist/7cCOauMuHRz9yZYbWUjAsL"
+        },
+        {
+          "name": "John Mauceri",
+          "url": "https://open.spotify.com/artist/0aBCjuDMg4Bh7SU0ayu4ov"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "La Wally / Act 1: \"Ebben? Ne andr\u00f2 lontana\"",
+      "url": "https://open.spotify.com/track/2QpjxfugzwgZ4ruMT1oZAN"
+    },
+    {
+      "album": {
+        "name": "The Best Of Elina Garanca",
+        "url": "https://open.spotify.com/album/6QtrmPQbhdGijL8maH23Ac"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Elina Garanca",
+          "url": "https://open.spotify.com/artist/74qCFeNvjcO4R0cRXik17C"
+        },
+        {
+          "name": "SWR Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302186,
+      "name": "Lakm\u00e9 / Act 1: \"D\u00f4me \u00e9pais\" - Live",
+      "url": "https://open.spotify.com/track/3uSyAT77m1gzVhMTbTqcqk"
+    },
+    {
+      "album": {
+        "name": "Opera Chill & Relax",
+        "url": "https://open.spotify.com/album/0kUiwKyKt3FOXFIGII0y2K"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Elina Garanca",
+          "url": "https://open.spotify.com/artist/74qCFeNvjcO4R0cRXik17C"
+        },
+        {
+          "name": "SWR Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1g37QvdtwkYKJUtIKDBBAR"
+        },
+        {
+          "name": "Marco Armiliato",
+          "url": "https://open.spotify.com/artist/36WnZcQTHWowOoT1kS3LxV"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304106,
+      "name": "Lakm\u00e9 / Act 1: \"D\u00f4me \u00e9pais\" - Live",
+      "url": "https://open.spotify.com/track/3XVtZyZyopnSCBLdVDrQY2"
+    },
+    {
+      "album": {
+        "name": "Mozart: Le Nozze di Figaro",
+        "url": "https://open.spotify.com/album/5SNTSThGzDGsWqU1wV4C1d"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Frederica von Stade",
+          "url": "https://open.spotify.com/artist/5LUjwmTidlIffhKkvXZo8k"
+        },
+        {
+          "name": "Kiri Te Kanawa",
+          "url": "https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T"
+        },
+        {
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Le nozze di Figaro, K. 492 / Act 2: \"Voi che sapete\" - \"Bravo! che bella voce!\"",
+      "url": "https://open.spotify.com/track/1gJUnlMq7e2cc39lGUfnPB"
+    },
+    {
+      "album": {
+        "name": "Mozart: Le Nozze di Figaro (Complete Mozart Edition)",
+        "url": "https://open.spotify.com/album/1sap4qZDxscXXTWYRVogmW"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237773,
+      "name": "Le nozze di Figaro, K.492 / Act 2: \"Porgi amor\"",
+      "url": "https://open.spotify.com/track/5QGhn5Z7RRsMKx6hPFOSUO"
+    },
+    {
+      "album": {
+        "name": "Baroque Duet",
+        "url": "https://open.spotify.com/album/1Qhu4B7qy5Ut1E8iUSt2Qx"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "John Nelson",
+          "url": "https://open.spotify.com/artist/0rUC7g0r3Q9pfNeeVioxzC"
+        },
+        {
+          "name": "Orchestra of St. Luke's",
+          "url": "https://open.spotify.com/artist/6iyKy3RT5yvMRgKJK54Pzr"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332026,
+      "name": "Let the Bright Seraphim from Samson, HWV 57 - Voice",
+      "url": "https://open.spotify.com/track/1GpGul0ESFCDuaaL0ccSFt"
+    },
+    {
+      "album": {
+        "name": "Kathleen Battle: Essentials",
+        "url": "https://open.spotify.com/album/5gs6Fm3zfCeumR0FDY8SpZ"
+      },
+      "artists": [
+        {
+          "name": "Gustave Charpentier",
+          "url": "https://open.spotify.com/artist/5OZAfzSUnJzQ5PrW4ZYCc8"
+        },
+        {
+          "name": "Kathleen Battle",
+          "url": "https://open.spotify.com/artist/13Tfk6ZpGdF0G3v9B3kasP"
+        },
+        {
+          "name": "Orchestre de l'Op\u00e9ra Bastille",
+          "url": "https://open.spotify.com/artist/4w8yzPixoCNwxRpUZYpWpP"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284227,
+      "name": "Louise: \"Depuis le jour\"",
+      "url": "https://open.spotify.com/track/72MYWlUmt3FZFYQXcNIKmG"
+    },
+    {
+      "album": {
+        "name": "Verismo",
+        "url": "https://open.spotify.com/album/2eNDxlVOu7zEr3r3qBHiSZ"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167786,
+      "name": "Manon Lescaut / Act II: \"In quelle trine morbide\"",
+      "url": "https://open.spotify.com/track/3nbcin8kl89hboxQBKaLR0"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - The Beautiful Voice",
+        "url": "https://open.spotify.com/album/1iRgkTYJhIBNoXe2j9XOek"
+      },
+      "artists": [
+        {
+          "name": "Friedrich von Flotow",
+          "url": "https://open.spotify.com/artist/1fiVwfyL3nKnmVz7580kET"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jeffrey Tate",
+          "url": "https://open.spotify.com/artist/08C4m48uN8PsFIPgTS1KqK"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292533,
+      "name": "Martha / Act 2: Last Rose of Summer",
+      "url": "https://open.spotify.com/track/1WJLS6QFqosNjYcgjwCU27"
+    },
+    {
+      "album": {
+        "name": "Mozart Heroines",
+        "url": "https://open.spotify.com/album/2IbEg1opRdbeNN7pq1KGIB"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Natalie Dessay",
+          "url": "https://open.spotify.com/artist/4jCfIA4UDHUWpc45H7A4ud"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Louis Langr\u00e9e",
+          "url": "https://open.spotify.com/artist/7e2ILiOIViOE4UwWsomh8d"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381506,
+      "name": "Mozart: Zaide, K. 344/336b, Act 1 Scene 3: No. 3, Arie, \"Ruhe sanft, mein holdes Leben\" (Zaide)",
+      "url": "https://open.spotify.com/track/3w14gk0C0Vn5elVzbDjrMI"
+    },
+    {
+      "album": {
+        "name": "Bellini: Norma",
+        "url": "https://open.spotify.com/album/0gEOmSeTO7qjfQ9yzDARLW"
+      },
+      "artists": [
+        {
+          "name": "Vincenzo Bellini",
+          "url": "https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Welsh National Opera Orchestra",
+          "url": "https://open.spotify.com/artist/5CPW0GIpb1RyTpxuheUfXD"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313826,
+      "name": "Norma / Act 2: Mira, o Norma",
+      "url": "https://open.spotify.com/track/6bZ7SdiZmIC9RXdp77iaz1"
+    },
+    {
+      "album": {
+        "name": "Offenbach: Les Contes d'Hoffmann",
+        "url": "https://open.spotify.com/album/7Kp2mDL9QCEGE5Sf8Tqbfj"
+      },
+      "artists": [
+        {
+          "name": "Jacques Offenbach",
+          "url": "https://open.spotify.com/artist/4OihBPCQzR4GfbzqOY69Xm"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "Choeurs Rene Duclos",
+          "url": "https://open.spotify.com/artist/0iwjANAnsGz9IwE2UXLCFs"
+        },
+        {
+          "name": "Walter Ruhlmann",
+          "url": "https://open.spotify.com/artist/0xbV0ZoTTiXysPG13gVMcL"
+        },
+        {
+          "name": "Andr\u00e9 Cluytens",
+          "url": "https://open.spotify.com/artist/2qGkessPTMJjSEYtxJ11KC"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228600,
+      "name": "Offenbach: Les contes d'Hoffmann, Act 3: Entr'acte - \"Belle nuite, \u00f4 nuit d'amour\" (Une voix, Giulietta, Chorus)",
+      "url": "https://open.spotify.com/track/3zcnxEjJEDUeQS97PmnKd5"
+    },
+    {
+      "album": {
+        "name": "Gluck: Opera Arias",
+        "url": "https://open.spotify.com/album/5Ty0PD7VBAjOGC79ZzTn3e"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Janet Baker",
+          "url": "https://open.spotify.com/artist/7rAA9SXeqCtCcf7jkcMcKQ"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229986,
+      "name": "Orfeo ed Euridice (Orph\u00e9e et Euridice), Wq. 30 / Act 3: \"Che far\u00f2 senza Euridice?\"",
+      "url": "https://open.spotify.com/track/71kggwBQ2SYb2sgKaEFdEB"
+    },
+    {
+      "album": {
+        "name": "Arias",
+        "url": "https://open.spotify.com/album/54lNbesx2bw7HraNASuHBK"
+      },
+      "artists": [
+        {
+          "name": "Christoph Willibald Gluck",
+          "url": "https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM"
+        },
+        {
+          "name": "Pumeza Matshikiza",
+          "url": "https://open.spotify.com/artist/2ocJVD1FLWgNmyAFR8beTO"
+        },
+        {
+          "name": "Aarhus Symfoniorkester",
+          "url": "https://open.spotify.com/artist/7jHwH3PMC3VZIUxEUaXPFt"
+        },
+        {
+          "name": "Tobias Ringborg",
+          "url": "https://open.spotify.com/artist/3oLALFpBASJctPerbzWz2L"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185706,
+      "name": "Orfeo ed Euridice (Orph\u00e9e et Eurydice), Wq. 30: \"Che fiero momento\"",
+      "url": "https://open.spotify.com/track/32Mani5ydtEWVcTnplZRpe"
+    },
+    {
+      "album": {
+        "name": "Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/5btOhOSp8wd1mNrcU4gzwA"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308666,
+      "name": "Pagliacci / Act 1: \"Qual fiamma aveva nel guardo!\"",
+      "url": "https://open.spotify.com/track/00dvGFBsEowNQWSsACiqut"
+    },
+    {
+      "album": {
+        "name": "Mascagni: Cavalleria Rusticana/Leoncavallo: Pagliacci",
+        "url": "https://open.spotify.com/album/0MkD4EFygmHlaZKjUBeOom"
+      },
+      "artists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "url": "https://open.spotify.com/artist/72auy9NefUbGecYVrTiPzq"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Giuseppe Patan\u00e8",
+          "url": "https://open.spotify.com/artist/5ZJ9PMKBpN56YhrhFzAR5o"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308666,
+      "name": "Pagliacci / Act 1: \"Qual fiamma aveva nel guardo!\"",
+      "url": "https://open.spotify.com/track/36BpSfcBkLq8xHRP5M1x53"
+    },
+    {
+      "album": {
+        "name": "Amor - Opera's Great Love Songs",
+        "url": "https://open.spotify.com/album/26aMR1clxpIp1aAvBLodxV"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Dame Joan Sutherland",
+          "url": "https://open.spotify.com/artist/57ut70dPEUxC1dk83YY3hY"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Francesco Molinari-Pradelli",
+          "url": "https://open.spotify.com/artist/66k7IrRNS0asVkppCoq0zN"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372933,
+      "name": "Rigoletto / Act 1: \"Gualtier Mald\u00e8...Caro nome\"",
+      "url": "https://open.spotify.com/track/7EbVNsWLhUVZFH4oajExkh"
+    },
+    {
+      "album": {
+        "name": "Handel: Rinaldo (Original 1711 Version)",
+        "url": "https://open.spotify.com/album/51AEGqTCrec0ZTcIBaq3vl"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "Rinaldo / Act 2: Lascia ch'io pianga",
+      "url": "https://open.spotify.com/track/6xZGds6ClLaEPeyep1C8si"
+    },
+    {
+      "album": {
+        "name": "Montserrat Caball\u00e9 - French Opera Arias",
+        "url": "https://open.spotify.com/album/0wMuaeXzEUUnDUJe9cvAKs"
+      },
+      "artists": [
+        {
+          "name": "Charles Gounod",
+          "url": "https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui"
+        },
+        {
+          "name": "Montserrat Caball\u00e9",
+          "url": "https://open.spotify.com/artist/6oGu0NZWy8gJ18wggybFqH"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        },
+        {
+          "name": "Reynald Giovaninetti",
+          "url": "https://open.spotify.com/artist/424wS8pC5a73duAdcRzM78"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Rom\u00e9o et Juliette / Act 1: \"Ah, je veux vivre\"",
+      "url": "https://open.spotify.com/track/3vrSUksg7VasQgp7cYUxpR"
+    },
+    {
+      "album": {
+        "name": "Dvor\u00e1k: Rusalka",
+        "url": "https://open.spotify.com/album/1MbSqz9rKKrafWGK21gdJv"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/4pTTYeA2XH8nuTCb5NR3fZ"
+        },
+        {
+          "name": "Sir Charles Mackerras",
+          "url": "https://open.spotify.com/artist/1iyvtzGjtuQa1I5UGpzk6l"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385440,
+      "name": "Rusalka, Op. 114 / Act 1: Mesicku na nebi hlubok\u00e9m",
+      "url": "https://open.spotify.com/track/00wWGgq0SV0nfmUTUeb0eu"
+    },
+    {
+      "album": {
+        "name": "Aida",
+        "url": "https://open.spotify.com/album/1YqBplR949WcsuZ710cVII"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Aida Garifullina",
+          "url": "https://open.spotify.com/artist/7irTi8cqirW4rD9JV4lT24"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        },
+        {
+          "name": "Cornelius Meister",
+          "url": "https://open.spotify.com/artist/6hOJp0y028Npc0EoEjH2lV"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Sadko: Song Of India",
+      "url": "https://open.spotify.com/track/7FR62B1bLKGyj5TM6fKO20"
+    },
+    {
+      "album": {
+        "name": "Leontyne Price - Prima Donna Vol. 5: Great Soprano Arias from Handel to Britten",
+        "url": "https://open.spotify.com/album/2qROTWt6R0J48XDHymRUQo"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Henry Lewis",
+          "url": "https://open.spotify.com/artist/30jajRhHMqSWi3BWgtSttr"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355173,
+      "name": "Semele, Act II: \"Where'er You Walk\"",
+      "url": "https://open.spotify.com/track/7L3Nr36g3XzFQYASRs1E3L"
+    },
+    {
+      "album": {
+        "name": "VIOLETTA - Arias and Duets from Verdi's La Traviata",
+        "url": "https://open.spotify.com/album/2ywmhFf1VwOwe003Whpuu8"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233640,
+      "name": "Sempre libera - Violetta",
+      "url": "https://open.spotify.com/track/73F6pnKDIVis0DHm69Osjn"
+    },
+    {
+      "album": {
+        "name": "Ren\u00e9e Fleming - Handel Arias",
+        "url": "https://open.spotify.com/album/53QDC8TNL7CEHRhbwpuudB"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Harry Bicket",
+          "url": "https://open.spotify.com/artist/634i1ptyc5dA18xYg9hHL9"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "Serse / Act 1, HWV 40: \"Ombra mai fu\"",
+      "url": "https://open.spotify.com/track/1qNNg6vuSZqdeSWrnmqgS2"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2YdHwds4adS7v7QUPOVbI8"
+      },
+      "artists": [
+        {
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+        },
+        {
+          "name": "Diana Damrau",
+          "url": "https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE"
+        },
+        {
+          "name": "David Charles Abell",
+          "url": "https://open.spotify.com/artist/0mjGt6S5abhcUYx586Q9HP"
+        },
+        {
+          "name": "Karl Huffier",
+          "url": "https://open.spotify.com/artist/2QdDwnVYWwm7gTcQyZkED4"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225733,
+      "name": "Strauss, Johann II: Die Fledermaus, Act 2: \"Mein Herr Marquis\" (Adele)",
+      "url": "https://open.spotify.com/track/0bUF3AgC8LLnlESArDEqSJ"
+    },
+    {
+      "album": {
+        "name": "Un bel di - Puccini Scenes & Arias",
+        "url": "https://open.spotify.com/album/6riZmU9PzbLE2cyWdk5O17"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Mirella Freni",
+          "url": "https://open.spotify.com/artist/5dz9lXIYillOvg5xH0t5EN"
+        },
+        {
+          "name": "Orchestra del Maggio Musicale Fiorentino",
+          "url": "https://open.spotify.com/artist/0YfVUjHFL0QWCSFRzliCDk"
+        },
+        {
+          "name": "Bruno Bartoletti",
+          "url": "https://open.spotify.com/artist/7drPVBAlMSneq1rZuNM3FQ"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279480,
+      "name": "Suor Angelica: Senza mamma, o bimbo",
+      "url": "https://open.spotify.com/track/4jtDDUUAL64B1e6p8Xeyn0"
+    },
+    {
+      "album": {
+        "name": "Richard Strauss: Four Last Songs / Wagner: Arias from Tannh\u00e4user",
+        "url": "https://open.spotify.com/album/1fsJhFgqGAJiSJo61ALeSO"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Lise Davidsen",
+          "url": "https://open.spotify.com/artist/0D3CJYrRNDUGbkNRw92e7N"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "Tannh\u00e4user, WWV 70 / Act 2: \"Dich, teure Halle, gr\u00fc\u00df ich wieder\"",
+      "url": "https://open.spotify.com/track/5dBHELm9dGc3kKsPeYIYKd"
+    },
+    {
+      "album": {
+        "name": "Purcell: The Indian Queen",
+        "url": "https://open.spotify.com/album/5tPvBTC92aeMLYJZCYUVcF"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331400,
+      "name": "The Indian Queen, Z. 630 - Ed A. Pinnock, M. Laurie / Act 4: They Tell Us That Your Mighty Powers",
+      "url": "https://open.spotify.com/track/0rggHhZztpxROymU751u9i"
+    },
+    {
+      "album": {
+        "name": "Various: The World of Catherine Bott",
+        "url": "https://open.spotify.com/album/68WB28emTZqgPZGXdRZRo3"
+      },
+      "artists": [
+        {
+          "name": "Henry Purcell",
+          "url": "https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq"
+        },
+        {
+          "name": "Catherine Bott",
+          "url": "https://open.spotify.com/artist/7KRp4uySSbnML3PBKpcZp2"
+        },
+        {
+          "name": "Academy of Ancient Music",
+          "url": "https://open.spotify.com/artist/60adCptqwRkANTtVja0bvf"
+        },
+        {
+          "name": "Christopher Hogwood",
+          "url": "https://open.spotify.com/artist/0vBafEFOLXtq5mZuhMgsyL"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334720,
+      "name": "The Indian Queen, Z. 630 - Ed A. Pinnock, M. Laurie / Act 4: They Tell Us That Your Mighty Powers",
+      "url": "https://open.spotify.com/track/1mh3cVKik8Siu7sTZLsNJb"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/2oEn5IklXZ1V64HTAW2XBF"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "Giuseppe Taddei",
+          "url": "https://open.spotify.com/artist/1sWPJ06Ed62WqGtrPUY4fa"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285733,
+      "name": "Tosca / Act 2: \"Vissi d'arte, vissi d'amore\"",
+      "url": "https://open.spotify.com/track/7llzoWbL1ToAHq9IL3F84D"
+    },
+    {
+      "album": {
+        "name": "Wagner: Tristan und Isolde",
+        "url": "https://open.spotify.com/album/0q781kMYrvKGeeCHRXrHcI"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Birgit Nilsson",
+          "url": "https://open.spotify.com/artist/6ljM6B2XmSU7BtG3tZLQ1K"
+        },
+        {
+          "name": "Bayreuth Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2thIN2TDSmbYcqkHm6nQ6b"
+        },
+        {
+          "name": "Karl B\u00f6hm",
+          "url": "https://open.spotify.com/artist/3fyr5uksidSlLzsUjRIz5A"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375373,
+      "name": "Tristan und Isolde, WWV 90 / Act III: Mild und leise wie er l\u00e4chelt",
+      "url": "https://open.spotify.com/track/5IlwoNhsF1QC4HoDke1rjO"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Motets RV 627,632,630,626",
+        "url": "https://open.spotify.com/album/7gxjVNRWWELpIOvfT4ZMth"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Simone Kermes",
+          "url": "https://open.spotify.com/artist/5YB96PPFR0dEMazdUzMJDb"
+        },
+        {
+          "name": "Venice Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/68xp8lYo96f9PMra0LHHl6"
+        },
+        {
+          "name": "Andrea Marcon",
+          "url": "https://open.spotify.com/artist/3VmMw22C6Yt9rM2T8tcZKU"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149866,
+      "name": "Vivaldi: Orlando Furioso RV 728 - Adapted By Andrea Marcon / Act 2: Ah fuggi rapido",
+      "url": "https://open.spotify.com/track/72Uzn6J1hVRUqdqCWXzrVR"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: Amor profano",
+        "url": "https://open.spotify.com/album/4kvaTtXQpvcroDcKZnA3of"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Simone Kermes",
+          "url": "https://open.spotify.com/artist/5YB96PPFR0dEMazdUzMJDb"
+        },
+        {
+          "name": "Venice Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/68xp8lYo96f9PMra0LHHl6"
+        },
+        {
+          "name": "Andrea Marcon",
+          "url": "https://open.spotify.com/artist/3VmMw22C6Yt9rM2T8tcZKU"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148693,
+      "name": "Vivaldi: Orlando Furioso RV 728 - Adapted by Andrea Marcon / Act II: Ah fuggi rapido",
+      "url": "https://open.spotify.com/track/3vqo9iDXKFcRAnrPGGtHe5"
+    },
+    {
+      "album": {
+        "name": "Archiv Produktion - Simone Kermes",
+        "url": "https://open.spotify.com/album/1xokCs1rKvAXoNHWwkUvnH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Simone Kermes",
+          "url": "https://open.spotify.com/artist/5YB96PPFR0dEMazdUzMJDb"
+        },
+        {
+          "name": "Venice Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/68xp8lYo96f9PMra0LHHl6"
+        },
+        {
+          "name": "Andrea Marcon",
+          "url": "https://open.spotify.com/artist/3VmMw22C6Yt9rM2T8tcZKU"
+        }
+      ],
+      "date_added": "2020-12-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 149866,
+      "name": "Vivaldi: Orlando Furioso RV 728 - Adapted by Andrea Marcon / Act II: Ah fuggi rapido",
+      "url": "https://open.spotify.com/track/00T5BYNumVxDGD32RWO9Hi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbn7xTVabEKT"
 }

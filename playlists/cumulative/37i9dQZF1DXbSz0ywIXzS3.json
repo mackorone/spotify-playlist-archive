@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "152",
+        "url": "https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
+    },
+    {
+      "album": {
         "name": "Out of Exile",
         "url": "https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU"
       },
@@ -164,10 +182,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 254263,
       "name": "Birds and the Bees",
       "url": "https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah"
+    },
+    {
+      "album": {
+        "name": "Absolution",
+        "url": "https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262064,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/6p1KkKTYiuou500RtWnWmU"
     },
     {
       "album": {
@@ -528,7 +564,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 169800,
       "name": "Heavy (feat. Kiiara)",
       "url": "https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4"
@@ -694,6 +730,24 @@
       "duration_ms": 215853,
       "name": "Just Breathe",
       "url": "https://open.spotify.com/track/6i81qFkru6Kj1IEsB7KNp2"
+    },
+    {
+      "album": {
+        "name": "Comfort in Sound",
+        "url": "https://open.spotify.com/album/75qYHeS22EEn0neCZZ7kng"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263253,
+      "name": "Just the Way I'm Feeling",
+      "url": "https://open.spotify.com/track/08DO757dzPTgeHSwOQvnIS"
     },
     {
       "album": {
@@ -1108,6 +1162,24 @@
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
+    },
+    {
+      "album": {
+        "name": "California (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0fmq1b2T3bjRyTsigDWUP6"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "San Diego",
+      "url": "https://open.spotify.com/track/2USJYiIo3g8dt9a2qzD9fG"
     },
     {
       "album": {
@@ -1720,7 +1792,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 290800,
       "name": "What A Catch, Donnie",
       "url": "https://open.spotify.com/track/62Vulfjc2qjCWim4LWBvvc"

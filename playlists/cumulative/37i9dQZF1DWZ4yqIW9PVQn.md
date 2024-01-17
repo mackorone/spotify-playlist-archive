@@ -4,7 +4,7 @@
 
 > 가을 감성이 담긴 노래들과 함께 감상에 젖어보세요\. \(Listen to K\-Pop autumn songs\)
 
-139 songs - 8 hr 27 min
+140 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Manboy](https://open.spotify.com/track/4o9p0KV76QIbeTKPhcGWmA) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Manboy](https://open.spotify.com/album/61tT8FEfOgMQ2vzl5abEYM) | 3:39 | 2023-10-16 |  |
 | [Missing You](https://open.spotify.com/track/2zlgwqw8BLX2JGB76LIFeF) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Brother Act.](https://open.spotify.com/album/3oXEVu3gwToJRkE2xAW44a) | 3:56 | 2022-11-01 |  |
 | [Moments Make Memories](https://open.spotify.com/track/0ZfedXecbZhyHEQbO9Xlnr) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again Special \(Original Television Soundtrack\)](https://open.spotify.com/album/5T3saGcqKRNtLGMP8MqjnM) | 4:07 | 2022-11-03 | 2022-11-13 |
-| [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 |  |
+| [Moments Make Memories](https://open.spotify.com/track/3aWHovl6h2c1RyCAJP56gd) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2dKTxeYl2l4LldeOAbphMF) | 4:07 | 2022-07-04 | 2024-01-10 |
+| [Moments Make Memories](https://open.spotify.com/track/7xU8MduijQhBEKTpBgVp2E) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [18 again, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KQYYKO4MADwhz6V9A0357) | 4:07 | 2023-11-03 |  |
 | [My Heart](https://open.spotify.com/track/1K9aHp1cak4AR7FghqIO8C) | [YELLOW BENCH](https://open.spotify.com/artist/39sjkhnRSciccucSsramsQ) | [My Heart](https://open.spotify.com/album/4g93bvLDXSt6aa4Thp76Zz) | 3:56 | 2022-07-04 |  |
 | [Never hate you](https://open.spotify.com/track/3tx4KMR9xXVwOAINuoFdzr) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [POETIC](https://open.spotify.com/album/6abgwNSjwS5Y80uD5hR255) | 3:35 | 2022-11-03 |  |
 | [Never Hate You](https://open.spotify.com/track/0t28FLiywBPXcui9Q1X5J8) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poetic](https://open.spotify.com/album/4mn6UviE5kkqGrHkxXzjnK) | 3:35 | 2022-07-04 | 2022-12-16 |

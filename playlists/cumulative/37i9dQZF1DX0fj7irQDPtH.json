@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "date_added": "2021-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234760,
+      "name": "Hilito",
+      "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
+    },
+    {
+      "album": {
         "name": "En Todo Estar\u00e9 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
       },
@@ -1008,7 +1026,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 306453,
       "name": "Yo Tambi\u00e9n (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/5A9AILetvfQg3LHyX5X0pV"

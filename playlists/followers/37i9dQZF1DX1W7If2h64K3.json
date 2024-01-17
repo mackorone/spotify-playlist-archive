@@ -1,735 +1,2641 @@
 {
-  "2021-12-25": 27429,
-  "2021-12-26": 27444,
-  "2021-12-27": 27485,
-  "2021-12-28": 27485,
-  "2021-12-29": 27506,
-  "2021-12-30": 27528,
-  "2021-12-31": 27546,
-  "2022-01-01": 27544,
-  "2022-01-02": 27549,
-  "2022-01-03": 27562,
-  "2022-01-04": 27583,
-  "2022-01-05": 27601,
-  "2022-01-06": 27623,
-  "2022-01-07": 27659,
-  "2022-01-08": 27697,
-  "2022-01-09": 27697,
-  "2022-01-10": 27722,
-  "2022-01-11": 27752,
-  "2022-01-12": 27771,
-  "2022-01-13": 27787,
-  "2022-01-14": 27796,
-  "2022-01-15": 27831,
-  "2022-01-16": 27833,
-  "2022-01-17": 27873,
-  "2022-01-18": 27878,
-  "2022-01-19": 27899,
-  "2022-01-20": 27913,
-  "2022-01-21": 27939,
-  "2022-01-22": 27965,
-  "2022-01-23": 27992,
-  "2022-01-24": 27999,
-  "2022-01-25": 28025,
-  "2022-01-26": 28050,
-  "2022-01-27": 28073,
-  "2022-01-28": 28104,
-  "2022-01-29": 28138,
-  "2022-01-30": 28158,
-  "2022-01-31": 28184,
-  "2022-02-01": 28200,
-  "2022-02-02": 28221,
-  "2022-02-03": 28240,
-  "2022-02-04": 28263,
-  "2022-02-05": 28280,
-  "2022-02-06": 28308,
-  "2022-02-07": 28339,
-  "2022-02-08": 28371,
-  "2022-02-09": 28389,
-  "2022-02-10": 28400,
-  "2022-02-11": 28419,
-  "2022-02-12": 28441,
-  "2022-02-13": 28466,
-  "2022-02-14": 28497,
-  "2022-02-15": 28528,
-  "2022-02-16": 28546,
-  "2022-02-17": 28560,
-  "2022-02-18": 28585,
-  "2022-02-19": 28604,
-  "2022-02-20": 28637,
-  "2022-02-21": 28668,
-  "2022-02-22": 28687,
-  "2022-02-23": 28716,
-  "2022-02-24": 28755,
-  "2022-02-25": 28770,
-  "2022-02-26": 28788,
-  "2022-02-27": 28828,
-  "2022-02-28": 28828,
-  "2022-03-01": 28848,
-  "2022-03-02": 28875,
-  "2022-03-03": 28900,
-  "2022-03-04": 28924,
-  "2022-03-05": 28949,
-  "2022-03-06": 28971,
-  "2022-03-07": 29003,
-  "2022-03-08": 29027,
-  "2022-03-09": 29052,
-  "2022-03-10": 29077,
-  "2022-03-11": 29110,
-  "2022-03-12": 29128,
-  "2022-03-13": 29156,
-  "2022-03-14": 29184,
-  "2022-03-15": 29197,
-  "2022-03-16": 29221,
-  "2022-03-17": 29251,
-  "2022-03-18": 29278,
-  "2022-03-19": 29293,
-  "2022-03-20": 29293,
-  "2022-03-21": 29334,
-  "2022-03-22": 29353,
-  "2022-03-23": 29376,
-  "2022-03-24": 29413,
-  "2022-03-25": 29432,
-  "2022-03-26": 29446,
-  "2022-03-27": 29473,
-  "2022-03-28": 29496,
-  "2022-03-30": 29533,
-  "2022-03-31": 29565,
-  "2022-04-01": 29601,
-  "2022-04-02": 29626,
-  "2022-04-03": 29649,
-  "2022-04-04": 29667,
-  "2022-04-05": 29694,
-  "2022-04-06": 29714,
-  "2022-04-07": 29732,
-  "2022-04-08": 29762,
-  "2022-04-09": 29787,
-  "2022-04-10": 29826,
-  "2022-04-11": 29849,
-  "2022-04-12": 29851,
-  "2022-04-13": 29869,
-  "2022-04-14": 29898,
-  "2022-04-15": 29916,
-  "2022-04-16": 29950,
-  "2022-04-17": 29973,
-  "2022-04-18": 29993,
-  "2022-04-19": 30005,
-  "2022-04-20": 30025,
-  "2022-04-21": 30042,
-  "2022-04-22": 30062,
-  "2022-04-23": 30083,
-  "2022-04-24": 30098,
-  "2022-04-25": 30120,
-  "2022-04-26": 30138,
-  "2022-04-27": 30162,
-  "2022-04-28": 30181,
-  "2022-04-29": 30220,
-  "2022-04-30": 30243,
-  "2022-05-01": 30260,
-  "2022-05-02": 30260,
-  "2022-05-03": 30285,
-  "2022-05-04": 30310,
-  "2022-05-05": 30326,
-  "2022-05-06": 30352,
-  "2022-05-07": 30375,
-  "2022-05-08": 30404,
-  "2022-05-09": 30406,
-  "2022-05-10": 30427,
-  "2022-05-11": 30446,
-  "2022-05-12": 30461,
-  "2022-05-13": 30475,
-  "2022-05-14": 30494,
-  "2022-05-15": 30505,
-  "2022-05-16": 30519,
-  "2022-05-17": 30535,
-  "2022-05-18": 30544,
-  "2022-05-19": 30560,
-  "2022-05-20": 30586,
-  "2022-05-21": 30638,
-  "2022-05-22": 30638,
-  "2022-05-23": 30663,
-  "2022-05-24": 30676,
-  "2022-05-25": 30698,
-  "2022-05-26": 30727,
-  "2022-05-27": 30739,
-  "2022-05-28": 30767,
-  "2022-05-29": 30788,
-  "2022-05-30": 30804,
-  "2022-05-31": 30829,
-  "2022-06-01": 30868,
-  "2022-06-02": 30872,
-  "2022-06-03": 30893,
-  "2022-06-04": 30901,
-  "2022-06-05": 30918,
-  "2022-06-06": 30939,
-  "2022-06-07": 30972,
-  "2022-06-08": 30981,
-  "2022-06-09": 30999,
-  "2022-06-10": 31028,
-  "2022-06-11": 31047,
-  "2022-06-12": 31057,
-  "2022-06-13": 31070,
-  "2022-06-14": 31094,
-  "2022-06-15": 31115,
-  "2022-06-16": 31132,
-  "2022-06-17": 31152,
-  "2022-06-18": 31167,
-  "2022-06-19": 31202,
-  "2022-06-20": 31202,
-  "2022-06-21": 31222,
-  "2022-06-22": 31250,
-  "2022-06-23": 31250,
-  "2022-06-24": 31273,
-  "2022-06-25": 31292,
-  "2022-06-26": 31313,
-  "2022-06-27": 31329,
-  "2022-06-28": 31352,
-  "2022-06-29": 31372,
-  "2022-06-30": 31392,
-  "2022-07-01": 31406,
-  "2022-07-02": 31431,
-  "2022-07-03": 31452,
-  "2022-07-04": 31471,
-  "2022-07-05": 31491,
-  "2022-07-06": 31511,
-  "2022-07-07": 31529,
-  "2022-07-08": 31542,
-  "2022-07-09": 31579,
-  "2022-07-10": 31598,
-  "2022-07-11": 31616,
-  "2022-07-12": 31644,
-  "2022-07-13": 31665,
-  "2022-07-14": 31683,
-  "2022-07-15": 31704,
-  "2022-07-16": 31716,
-  "2022-07-17": 31739,
-  "2022-07-18": 31760,
-  "2022-07-19": 31782,
-  "2022-07-20": 31799,
-  "2022-07-21": 31815,
-  "2022-07-22": 31836,
-  "2022-07-23": 31851,
-  "2022-07-24": 31882,
-  "2022-07-25": 31909,
-  "2022-07-26": 31921,
-  "2022-07-27": 31933,
-  "2022-07-28": 31950,
-  "2022-07-29": 31973,
-  "2022-07-30": 32020,
-  "2022-07-31": 32020,
-  "2022-08-01": 32052,
-  "2022-08-02": 32104,
-  "2022-08-03": 32104,
-  "2022-08-04": 32131,
-  "2022-08-05": 32165,
-  "2022-08-06": 32186,
-  "2022-08-07": 32208,
-  "2022-08-08": 32248,
-  "2022-08-09": 32270,
-  "2022-08-10": 32289,
-  "2022-08-11": 32307,
-  "2022-08-12": 32343,
-  "2022-08-13": 32355,
-  "2022-08-14": 32389,
-  "2022-08-15": 32409,
-  "2022-08-16": 32439,
-  "2022-08-17": 32455,
-  "2022-08-18": 32480,
-  "2022-08-19": 32517,
-  "2022-08-20": 32539,
-  "2022-08-21": 32564,
-  "2022-08-22": 32590,
-  "2022-08-23": 32618,
-  "2022-08-24": 32649,
-  "2022-08-25": 32667,
-  "2022-08-26": 32689,
-  "2022-08-27": 32722,
-  "2022-08-28": 32756,
-  "2022-08-29": 32776,
-  "2022-08-30": 32781,
-  "2022-08-31": 32777,
-  "2022-09-01": 32753,
-  "2022-09-02": 32781,
-  "2022-09-03": 32748,
-  "2022-09-04": 32688,
-  "2022-09-05": 32659,
-  "2022-09-06": 32684,
-  "2022-09-07": 32712,
-  "2022-09-09": 32758,
-  "2022-09-10": 32792,
-  "2022-09-11": 32834,
-  "2022-09-12": 32870,
-  "2022-09-13": 32889,
-  "2022-09-15": 32947,
-  "2022-09-16": 32975,
-  "2022-09-17": 33000,
-  "2022-09-18": 33026,
-  "2022-09-19": 33053,
-  "2022-09-20": 33072,
-  "2022-09-21": 33105,
-  "2022-09-22": 33122,
-  "2022-09-23": 33150,
-  "2022-09-24": 33168,
-  "2022-09-25": 33199,
-  "2022-09-26": 33219,
-  "2022-09-27": 33242,
-  "2022-09-28": 33278,
-  "2022-09-29": 33300,
-  "2022-09-30": 33336,
-  "2022-10-01": 33366,
-  "2022-10-02": 33402,
-  "2022-10-03": 33431,
-  "2022-10-04": 33449,
-  "2022-10-05": 33472,
-  "2022-10-06": 33486,
-  "2022-10-07": 33507,
-  "2022-10-08": 33520,
-  "2022-10-09": 33582,
-  "2022-10-10": 33588,
-  "2022-10-11": 33621,
-  "2022-10-12": 33653,
-  "2022-10-13": 33677,
-  "2022-10-14": 33708,
-  "2022-10-15": 33733,
-  "2022-10-16": 33763,
-  "2022-10-17": 33802,
-  "2022-10-18": 33832,
-  "2022-10-19": 33847,
-  "2022-10-20": 33877,
-  "2022-10-21": 33901,
-  "2022-10-22": 33931,
-  "2022-10-23": 33959,
-  "2022-10-24": 33981,
-  "2022-10-25": 34008,
-  "2022-10-26": 34034,
-  "2022-10-27": 34056,
-  "2022-10-28": 34089,
-  "2022-10-29": 34118,
-  "2022-10-30": 34159,
-  "2022-10-31": 34196,
-  "2022-11-01": 34237,
-  "2022-11-02": 34272,
-  "2022-11-03": 34310,
-  "2022-11-04": 34349,
-  "2022-11-05": 34379,
-  "2022-11-06": 34425,
-  "2022-11-07": 34453,
-  "2022-11-08": 34481,
-  "2022-11-09": 34510,
-  "2022-11-10": 34541,
-  "2022-11-11": 34564,
-  "2022-11-12": 34597,
-  "2022-11-13": 34615,
-  "2022-11-14": 34645,
-  "2022-11-15": 34675,
-  "2022-11-16": 34698,
-  "2022-11-17": 34723,
-  "2022-11-18": 34732,
-  "2022-11-19": 34723,
-  "2022-11-20": 34752,
-  "2022-11-21": 34748,
-  "2022-11-22": 34816,
-  "2022-11-23": 34805,
-  "2022-11-24": 34912,
-  "2022-11-25": 34967,
-  "2022-11-26": 34987,
-  "2022-11-27": 35042,
-  "2022-11-28": 35077,
-  "2022-11-29": 35115,
-  "2022-11-30": 35147,
-  "2022-12-01": 35179,
-  "2022-12-02": 35207,
-  "2022-12-03": 35259,
-  "2022-12-04": 35296,
-  "2022-12-05": 35353,
-  "2022-12-06": 35389,
-  "2022-12-07": 35410,
-  "2022-12-08": 35428,
-  "2022-12-09": 35448,
-  "2022-12-10": 35475,
-  "2022-12-11": 35519,
-  "2022-12-12": 35561,
-  "2022-12-13": 35605,
-  "2022-12-14": 35637,
-  "2022-12-15": 35676,
-  "2022-12-16": 35707,
-  "2022-12-17": 35743,
-  "2022-12-18": 35774,
-  "2022-12-19": 35797,
-  "2022-12-20": 35854,
-  "2022-12-21": 35854,
-  "2022-12-22": 35888,
-  "2022-12-24": 35944,
-  "2022-12-25": 35974,
-  "2022-12-26": 36014,
-  "2022-12-27": 36045,
-  "2022-12-28": 36063,
-  "2022-12-29": 36111,
-  "2022-12-30": 36143,
-  "2022-12-31": 36171,
-  "2023-01-01": 36188,
-  "2023-01-02": 36203,
-  "2023-01-03": 36238,
-  "2023-01-04": 36258,
-  "2023-01-05": 36296,
-  "2023-01-06": 36327,
-  "2023-01-07": 36389,
-  "2023-01-08": 36396,
-  "2023-01-09": 36434,
-  "2023-01-10": 36474,
-  "2023-01-11": 36507,
-  "2023-01-12": 36547,
-  "2023-01-13": 36588,
-  "2023-01-14": 36648,
-  "2023-01-15": 36664,
-  "2023-01-16": 36688,
-  "2023-01-17": 36720,
-  "2023-01-18": 36749,
-  "2023-01-19": 36783,
-  "2023-01-20": 36797,
-  "2023-01-21": 36825,
-  "2023-01-22": 36860,
-  "2023-01-23": 36894,
-  "2023-01-24": 36937,
-  "2023-01-25": 36967,
-  "2023-01-26": 36998,
-  "2023-01-27": 37026,
-  "2023-01-28": 37070,
-  "2023-01-29": 37108,
-  "2023-01-30": 37140,
-  "2023-01-31": 37140,
-  "2023-02-01": 37202,
-  "2023-02-02": 37230,
-  "2023-02-03": 37248,
-  "2023-02-04": 37272,
-  "2023-02-05": 37309,
-  "2023-02-06": 37347,
-  "2023-02-07": 37377,
-  "2023-02-08": 37441,
-  "2023-02-09": 37441,
-  "2023-02-10": 37469,
-  "2023-02-11": 37498,
-  "2023-02-12": 37563,
-  "2023-02-13": 37594,
-  "2023-02-14": 37594,
-  "2023-02-15": 37637,
-  "2023-02-16": 37665,
-  "2023-02-17": 37701,
-  "2023-02-18": 37765,
-  "2023-02-19": 37774,
-  "2023-02-20": 37803,
-  "2023-02-21": 37831,
-  "2023-02-22": 37877,
-  "2023-02-23": 37911,
-  "2023-02-24": 37950,
-  "2023-02-25": 38008,
-  "2023-02-26": 38026,
-  "2023-02-27": 38089,
-  "2023-02-28": 38089,
-  "2023-03-01": 38124,
-  "2023-03-02": 38155,
-  "2023-03-03": 38183,
-  "2023-03-04": 38208,
-  "2023-03-05": 38258,
-  "2023-03-06": 38258,
-  "2023-03-07": 38300,
-  "2023-03-08": 38332,
-  "2023-03-09": 38372,
-  "2023-03-10": 38409,
-  "2023-03-11": 38438,
-  "2023-03-12": 38479,
-  "2023-03-13": 38507,
-  "2023-03-14": 38530,
-  "2023-03-15": 38554,
-  "2023-03-16": 38581,
-  "2023-03-17": 38581,
-  "2023-03-18": 38621,
-  "2023-03-19": 38646,
-  "2023-03-20": 38686,
-  "2023-03-21": 38714,
-  "2023-03-22": 38751,
-  "2023-03-23": 38793,
-  "2023-03-24": 38793,
-  "2023-03-25": 38854,
-  "2023-03-26": 38885,
-  "2023-03-27": 38926,
-  "2023-03-28": 38970,
-  "2023-03-29": 38999,
-  "2023-03-30": 39048,
-  "2023-03-31": 39048,
-  "2023-04-01": 39074,
-  "2023-04-02": 39100,
-  "2023-04-03": 39124,
-  "2023-04-04": 39143,
-  "2023-04-05": 39167,
-  "2023-04-06": 39192,
-  "2023-04-07": 39225,
-  "2023-04-09": 39291,
-  "2023-04-10": 39314,
-  "2023-04-11": 39374,
-  "2023-04-12": 39374,
-  "2023-04-13": 39396,
-  "2023-04-14": 39428,
-  "2023-04-15": 39454,
-  "2023-04-16": 39497,
-  "2023-04-17": 39545,
-  "2023-04-18": 39578,
-  "2023-04-19": 39613,
-  "2023-04-20": 39641,
-  "2023-04-21": 39665,
-  "2023-04-22": 39688,
-  "2023-04-23": 39702,
-  "2023-04-24": 39727,
-  "2023-04-25": 39755,
-  "2023-04-26": 39797,
-  "2023-04-27": 39832,
-  "2023-04-28": 39858,
-  "2023-04-29": 39882,
-  "2023-04-30": 39923,
-  "2023-05-01": 39949,
-  "2023-05-02": 39986,
-  "2023-05-03": 40023,
-  "2023-05-04": 40045,
-  "2023-05-05": 40076,
-  "2023-05-06": 40103,
-  "2023-05-07": 40128,
-  "2023-05-08": 40165,
-  "2023-05-09": 40205,
-  "2023-05-10": 40234,
-  "2023-05-11": 40257,
-  "2023-05-12": 40279,
-  "2023-05-13": 40308,
-  "2023-05-14": 40339,
-  "2023-05-15": 40363,
-  "2023-05-16": 40390,
-  "2023-05-17": 40402,
-  "2023-05-18": 40425,
-  "2023-05-19": 40467,
-  "2023-05-20": 40509,
-  "2023-05-21": 40509,
-  "2023-05-22": 40509,
-  "2023-05-23": 40556,
-  "2023-05-24": 40607,
-  "2023-05-25": 40622,
-  "2023-05-26": 40655,
-  "2023-05-27": 40676,
-  "2023-05-28": 40696,
-  "2023-05-29": 40696,
-  "2023-05-30": 40748,
-  "2023-05-31": 40784,
-  "2023-06-01": 40801,
-  "2023-06-02": 40819,
-  "2023-06-03": 40835,
-  "2023-06-04": 40873,
-  "2023-06-05": 40901,
-  "2023-06-06": 40918,
-  "2023-06-07": 40952,
-  "2023-06-08": 40968,
-  "2023-06-09": 41012,
-  "2023-06-10": 41043,
-  "2023-06-11": 41078,
-  "2023-06-12": 41114,
-  "2023-06-13": 41131,
-  "2023-06-14": 41169,
-  "2023-06-15": 41195,
-  "2023-06-16": 41201,
-  "2023-06-17": 41234,
-  "2023-06-18": 41267,
-  "2023-06-19": 41283,
-  "2023-06-20": 41307,
-  "2023-06-21": 41325,
-  "2023-06-22": 41338,
-  "2023-06-23": 41359,
-  "2023-06-24": 41369,
-  "2023-06-25": 41389,
-  "2023-06-26": 41412,
-  "2023-06-27": 41427,
-  "2023-06-28": 41447,
-  "2023-06-29": 41463,
-  "2023-06-30": 41471,
-  "2023-07-01": 41515,
-  "2023-07-02": 41515,
-  "2023-07-03": 41544,
-  "2023-07-04": 41555,
-  "2023-07-05": 41572,
-  "2023-07-06": 41612,
-  "2023-07-07": 41612,
-  "2023-07-08": 41626,
-  "2023-07-09": 41639,
-  "2023-07-10": 41653,
-  "2023-07-11": 41676,
-  "2023-07-12": 41686,
-  "2023-07-13": 41695,
-  "2023-07-14": 41716,
-  "2023-07-15": 41722,
-  "2023-07-16": 41739,
-  "2023-07-17": 41760,
-  "2023-07-18": 41783,
-  "2023-07-19": 41809,
-  "2023-07-20": 41824,
-  "2023-07-21": 41849,
-  "2023-07-22": 41871,
-  "2023-07-23": 41891,
-  "2023-07-24": 41922,
-  "2023-07-25": 41946,
-  "2023-07-26": 41963,
-  "2023-07-27": 41987,
-  "2023-07-28": 42017,
-  "2023-07-29": 42041,
-  "2023-07-30": 42062,
-  "2023-07-31": 42073,
-  "2023-08-01": 42097,
-  "2023-08-02": 42129,
-  "2023-08-03": 42163,
-  "2023-08-04": 42187,
-  "2023-08-05": 42210,
-  "2023-08-06": 42251,
-  "2023-08-07": 42251,
-  "2023-08-08": 42280,
-  "2023-08-09": 42302,
-  "2023-08-10": 42322,
-  "2023-08-11": 42343,
-  "2023-08-12": 42362,
-  "2023-08-13": 42380,
-  "2023-08-14": 42412,
-  "2023-08-15": 42441,
-  "2023-08-16": 42441,
-  "2023-08-17": 42464,
-  "2023-08-18": 42489,
-  "2023-08-19": 42504,
-  "2023-08-20": 42524,
-  "2023-08-21": 42556,
-  "2023-08-22": 42572,
-  "2023-08-23": 42592,
-  "2023-08-24": 42625,
-  "2023-08-25": 42636,
-  "2023-08-26": 42671,
-  "2023-08-27": 42693,
-  "2023-08-28": 42721,
-  "2023-08-29": 42747,
-  "2023-08-30": 42784,
-  "2023-08-31": 42807,
-  "2023-09-01": 42845,
-  "2023-09-02": 42845,
-  "2023-09-03": 42863,
-  "2023-09-04": 42879,
-  "2023-09-05": 42906,
-  "2023-09-06": 42930,
-  "2023-09-07": 42954,
-  "2023-09-08": 42969,
-  "2023-09-09": 42992,
-  "2023-09-10": 43011,
-  "2023-09-11": 43045,
-  "2023-09-12": 43067,
-  "2023-09-13": 43085,
-  "2023-09-14": 43108,
-  "2023-09-15": 43132,
-  "2023-09-16": 43159,
-  "2023-09-17": 43186,
-  "2023-09-18": 43215,
-  "2023-09-19": 43243,
-  "2023-09-20": 43257,
-  "2023-09-21": 43287,
-  "2023-09-22": 43306,
-  "2023-09-23": 43317,
-  "2023-09-24": 43341,
-  "2023-09-25": 43376,
-  "2023-09-26": 43411,
-  "2023-09-27": 43439,
-  "2023-09-28": 43467,
-  "2023-09-29": 43485,
-  "2023-09-30": 43505,
-  "2023-10-01": 43527,
-  "2023-10-02": 43556,
-  "2023-10-03": 43580,
-  "2023-10-04": 43599,
-  "2023-10-05": 43621,
-  "2023-10-06": 43646,
-  "2023-10-07": 43672,
-  "2023-10-08": 43688,
-  "2023-10-09": 43721,
-  "2023-10-10": 43731,
-  "2023-10-11": 43752,
-  "2023-10-12": 43752,
-  "2023-10-13": 43771,
-  "2023-10-14": 43792,
-  "2023-10-15": 43811,
-  "2023-10-16": 43837,
-  "2023-10-17": 43865,
-  "2023-10-18": 43885,
-  "2023-10-19": 43907,
-  "2023-10-20": 43921,
-  "2023-10-21": 43951,
-  "2023-10-22": 43970,
-  "2023-10-23": 44001,
-  "2023-10-24": 44029,
-  "2023-10-25": 44047,
-  "2023-10-26": 44070,
-  "2023-10-27": 44095,
-  "2023-10-28": 44115,
-  "2023-10-29": 44132,
-  "2023-10-30": 44174,
-  "2023-10-31": 44174,
-  "2023-11-01": 44197,
-  "2023-11-02": 44217,
-  "2023-11-03": 44241,
-  "2023-11-04": 44266,
-  "2023-11-05": 44293,
-  "2023-11-06": 44314,
-  "2023-11-07": 44334,
-  "2023-11-08": 44364,
-  "2023-11-09": 44390,
-  "2023-11-10": 44411,
-  "2023-11-11": 44442,
-  "2023-11-12": 44464,
-  "2023-11-13": 44495,
-  "2023-11-14": 44521,
-  "2023-11-15": 44521,
-  "2023-11-16": 44567,
-  "2023-11-17": 44624,
-  "2023-11-18": 44624,
-  "2023-11-19": 44643,
-  "2023-11-20": 44674,
-  "2023-11-21": 44697,
-  "2023-11-22": 44727,
-  "2023-11-23": 44756,
-  "2023-11-24": 44779,
-  "2023-11-25": 44800,
-  "2023-11-26": 44829,
-  "2023-11-27": 44866,
-  "2023-11-28": 44889,
-  "2023-11-29": 44953,
-  "2023-11-30": 44953,
-  "2023-12-01": 44978,
-  "2023-12-02": 45000,
-  "2023-12-03": 45027,
-  "2023-12-04": 45060,
-  "2023-12-05": 45084,
-  "2023-12-06": 45113,
-  "2023-12-07": 45132,
-  "2023-12-08": 45155,
-  "2023-12-09": 45187,
-  "2023-12-10": 45201,
-  "2023-12-11": 45228,
-  "2023-12-12": 45249,
-  "2023-12-13": 45280,
-  "2023-12-14": 45302,
-  "2023-12-15": 45315,
-  "2023-12-16": 45339,
-  "2023-12-17": 45361,
-  "2023-12-18": 45387,
-  "2023-12-19": 45408,
-  "2023-12-20": 45424,
-  "2023-12-21": 45445,
-  "2023-12-22": 45462,
-  "2023-12-23": 45486,
-  "2023-12-24": 45517,
-  "2023-12-25": 45547,
-  "2023-12-26": 45562,
-  "2023-12-27": 45581,
-  "2023-12-30": 45640,
-  "2023-12-31": 45664,
-  "2024-01-01": 45699,
-  "2024-01-02": 45715,
-  "2024-01-03": 45732
+  "2024-01-17": 45987,
+  "date_first_scraped": "2021-12-21",
+  "description": "Discover the music of Schumann.",
+  "name": "This Is Schumann",
+  "tracks": [
+    {
+      "album": {
+        "name": "Schumann: Liederkreis; Romances and Ballades",
+        "url": "https://open.spotify.com/album/4dd5w7LFFg8aCP49P5TxTz"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\"Mein Wagen rollet langsam\", Op. 142, No. 4",
+      "url": "https://open.spotify.com/track/2IiB2he5PNntuhU9yP7jJc"
+    },
+    {
+      "album": {
+        "name": "Schumann: Liederkreis; Romances and Ballades",
+        "url": "https://open.spotify.com/album/1FpndL20A3urdP86aQpwfG"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207000,
+      "name": "\"Mein Wagen rollet langsam\", Op.142, No.4",
+      "url": "https://open.spotify.com/track/73SMd66KgeTZ6jn7BeihI4"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245773,
+      "name": "12 Gedichte aus \"Liebesfr\u00fchling\", Op. 37: No. 9: Rose, Meer und Sonne",
+      "url": "https://open.spotify.com/track/1N3ERZsZVlSwUzMS4hHyc4"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 1: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Gesange Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 245773,
+      "name": "12 Gedichte aus Liebesfruhling, Op. 37: No. 9: Rose, Meer und Sonne",
+      "url": "https://open.spotify.com/track/4DWEaoESLobp6WSUx4ouh6"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
+        "url": "https://open.spotify.com/album/5FJVA034Nom1aERQkFmhpq"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Hans-J\u00f6rg Mammel",
+          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170506,
+      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
+      "url": "https://open.spotify.com/track/4F3EBkccyUiLYLCNwd0IrJ"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 4: 12 Gedichte, Op. 35 - 5 Lieder Und Ges\u00e4nge, Op. 127 - 4 Ges\u00e4nge, Op. 142",
+        "url": "https://open.spotify.com/album/2gMMvfkICzWt9IpFfKedS1"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Hans-J\u00f6rg Mammel",
+          "url": "https://open.spotify.com/artist/19HTwufflsRQULGPkxN9m5"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170506,
+      "name": "12 Gedichte, Op. 35: No. 10, Stille Tranen",
+      "url": "https://open.spotify.com/track/4iUF6VfUUPziBpZP7A3Hcf"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Works for Oboe and Piano",
+        "url": "https://open.spotify.com/album/5a5FayCRTbXIj7CQKmoD7W"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jozsef Kiss",
+          "url": "https://open.spotify.com/artist/1hninhiYSqfJZbHMS2RbZM"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214000,
+      "name": "3 Romances, Op. 94: Einfach, innig",
+      "url": "https://open.spotify.com/track/121wCe6YqHFRKLP3pgEiSF"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Works for Oboe and Piano",
+        "url": "https://open.spotify.com/album/7CijIoQoh5qLsfAPOZix3e"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jozsef Kiss",
+          "url": "https://open.spotify.com/artist/1hninhiYSqfJZbHMS2RbZM"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "3 Romanzen, Op. 94: Einfach, innig",
+      "url": "https://open.spotify.com/track/6ibGOXbknLnQtG5pmSUGSu"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162453,
+      "name": "6 Gedichte und Requiem, Op. 90: No. 2. Meine Rose",
+      "url": "https://open.spotify.com/track/1uGvjzTXFyTHauXfN0T5D6"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/2T0I90L18QL0ycTnzuMPM6"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260186,
+      "name": "6 Gedichte und Requiem, Op. 90: No. 7. Requiem",
+      "url": "https://open.spotify.com/track/4zPZbj1sNxCOtU1CdgCK53"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162453,
+      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 2, Meine Rose",
+      "url": "https://open.spotify.com/track/23OlUfTExh1b2MMOy9MBXF"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 6: Myrthen - 6 Gedichte und Requiem",
+        "url": "https://open.spotify.com/album/0LlTYA9dmlXeNnFGk4W1kE"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260186,
+      "name": "6 Gedichte von N. Lenau und Requiem, Op. 90: No. 7, Requiem",
+      "url": "https://open.spotify.com/track/3IxhtUZA8n5R7O3H8k9ktM"
+    },
+    {
+      "album": {
+        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
+        "url": "https://open.spotify.com/album/58cWPG3vuU5tWsuNBHjJCz"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108253,
+      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
+      "url": "https://open.spotify.com/track/0yo0vw091q0O4zQZm7PhaR"
+    },
+    {
+      "album": {
+        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
+        "url": "https://open.spotify.com/album/6AfZmSbe2iFVPpycWDfVLk"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 108253,
+      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
+      "url": "https://open.spotify.com/track/1Sf7Ea5G6VqX4WTk2q3hUo"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
+      "url": "https://open.spotify.com/track/5QDEgTgdhunlzQBa40pgkI"
+    },
+    {
+      "album": {
+        "name": "Robert Schumann - A Night of Classics",
+        "url": "https://open.spotify.com/album/0WBvg0ioxfJjzp7t1LPjmp"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 143000,
+      "name": "8 Fantasiest\u00fccke, Op. 12: 3. Warum?",
+      "url": "https://open.spotify.com/track/5nZg9HX5aZEVNcPnNvDwVD"
+    },
+    {
+      "album": {
+        "name": "Alfred Brendel: Steinway Legends",
+        "url": "https://open.spotify.com/album/6FnGOwQWk5sSh2huJd53iI"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142000,
+      "name": "8 Fantasiest\u00fccke, Op.12: 3. Warum?",
+      "url": "https://open.spotify.com/track/4pFOsIjzXXk99LKaPLcc0n"
+    },
+    {
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/0YtPAM2t711M4mzhNosoby"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256320,
+      "name": "Adagio & Allegro, Op. 70: Adagio",
+      "url": "https://open.spotify.com/track/0pMWKxBFETorT82gydM61q"
+    },
+    {
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/0YtPAM2t711M4mzhNosoby"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 316800,
+      "name": "Adagio & Allegro, Op. 70: Allegro",
+      "url": "https://open.spotify.com/track/1q94xuhFJb5eqMxTgz9Fmk"
+    },
+    {
+      "album": {
+        "name": "Schubert For Study",
+        "url": "https://open.spotify.com/album/3cal3vdG50SK9iuM3Je0Cz"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Adagio and Allegro, Op. 70 (version for cello and piano): Adagio",
+      "url": "https://open.spotify.com/track/7LV4axHaWIEMQYIdp3sDEC"
+    },
+    {
+      "album": {
+        "name": "Schubert: Arpeggione Sonata / Schumann: Fantasiestucke",
+        "url": "https://open.spotify.com/album/5UHzBpKCHYZpr04YnJP0vy"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Kliegel",
+          "url": "https://open.spotify.com/artist/0SPYS9NzfjFEplX7yD7PsK"
+        },
+        {
+          "name": "Kristin Merscher",
+          "url": "https://open.spotify.com/artist/5TFRDFXpRjT5suDvJVNHzH"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316800,
+      "name": "Adagio and Allegro, Op. 70: Allegro",
+      "url": "https://open.spotify.com/track/57V1s2MwyMEXWZcZV6Pzjl"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
+        "url": "https://open.spotify.com/album/4Rdv36mCe3gGv192IDliVV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223160,
+      "name": "Albumblatter, Op. 124: Schlummerlied",
+      "url": "https://open.spotify.com/track/5m3vo2QBwM6BO8ZCNviKXR"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
+        "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223160,
+      "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
+      "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
+    },
+    {
+      "album": {
+        "name": "Live from the Lugano Festival 2007",
+        "url": "https://open.spotify.com/album/1DuZ25ZGiTC2kAVIEubWgw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Gabriela Montero",
+          "url": "https://open.spotify.com/artist/0zn66Km3MeK24VuWUZydgr"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 808160,
+      "name": "Andante and Variation for two pianos, Op.46",
+      "url": "https://open.spotify.com/track/46g55JN50hOZNdaLH9s6VF"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Fantasiestucke, Op. 12 / Brahms: Klavierstucke, Op. 118",
+        "url": "https://open.spotify.com/album/1NZDevk3cqou9O0YgpIciv"
+      },
+      "artists": [
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 336506,
+      "name": "Arabeske In C Major, Op. 18",
+      "url": "https://open.spotify.com/track/7db4BYhx8GYLf6U5Rs1Eux"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/15BPdDo1pKfq4nyxIcMpdC"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 332160,
+      "name": "Arabeske in C Major, Op. 18",
+      "url": "https://open.spotify.com/track/40DGdTzYK08uKp5ZNJXR7r"
+    },
+    {
+      "album": {
+        "name": "50 of the Best Classical Music: Schumann",
+        "url": "https://open.spotify.com/album/7eRCToL7a2bIvsBVmYsm5q"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 386893,
+      "name": "Blumenstuck in D-Flat Major, Op. 19",
+      "url": "https://open.spotify.com/track/68N0w5tWF1AGK3BDIlA2TN"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
+        "url": "https://open.spotify.com/album/7ACtKPpQI4ahJg8tRw6zbj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386893,
+      "name": "Blumenstuck, Op. 19",
+      "url": "https://open.spotify.com/track/7F5eYGRqDcJzGdLz3uOV9A"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Waldszenen / Blumenstuck",
+        "url": "https://open.spotify.com/album/45kbE0iXyNMSy7bLKvkPUi"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Gulda",
+          "url": "https://open.spotify.com/artist/3YhVnqwZFmH7JRoGrf6v6N"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 386893,
+      "name": "Blumenst\u00fcck in D-Flat Major, Op. 19",
+      "url": "https://open.spotify.com/track/5FYpCFvLXojkdhAuW3FS5F"
+    },
+    {
+      "album": {
+        "name": "Schumann: Cello Concerto; Piano Trio No. 1",
+        "url": "https://open.spotify.com/album/572k9YtrTjku07ed5jf8rH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        },
+        {
+          "name": "Pablo Heras-Casado",
+          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475426,
+      "name": "Cello Concerto in A minor, op. 129: III. Finale vivace - Sehr Lebhaft",
+      "url": "https://open.spotify.com/track/01Q0yJSYeyoNFYxJXjWbQG"
+    },
+    {
+      "album": {
+        "name": "Schumann: Piano Works",
+        "url": "https://open.spotify.com/album/2ndIhvARtfbePKnG2ilv57"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439213,
+      "name": "Concerto Without Orchestra, Op. 14 (Grand Sonata No. 3 in F Minor): III. Quasi variazioni. Andantino de Clara Wieck",
+      "url": "https://open.spotify.com/track/2IAnU53rak76TpGpA515Xl"
+    },
+    {
+      "album": {
+        "name": "Schumann: Das Paradies und die Peri",
+        "url": "https://open.spotify.com/album/5qQbLaME0qmQ3RSUYtGLHd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Symphony Chorus",
+          "url": "https://open.spotify.com/artist/7gCZfkXLOfuZozSItq6tCG"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Simon Halsey",
+          "url": "https://open.spotify.com/artist/4Ip1bpjhIV8RKLDuKB0N2L"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112520,
+      "name": "Das Paradies und die Peri, Op. 50, Erster Teil: No. 8 Weh, weh, er fehlte das Ziel",
+      "url": "https://open.spotify.com/track/690XpbTwwfD1pd6tw8rUGJ"
+    },
+    {
+      "album": {
+        "name": "Schumann - Jan\u00e1\u010dek - Berg",
+        "url": "https://open.spotify.com/album/4exYsowx0ys0TtAh6R7DwQ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne",
+      "url": "https://open.spotify.com/track/74hhrFJWIKOa5xkpNU2dJX"
+    },
+    {
+      "album": {
+        "name": "Schumann, Jan\u00e1\u010dek & Berg (Wigmore Hall Live)",
+        "url": "https://open.spotify.com/album/1h4htyHlxBURMkbs0DtfKU"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 228186,
+      "name": "Davidsb\u00fcndlert\u00e4nze, Op. 6: XVII. Wie aus der Ferne - Live",
+      "url": "https://open.spotify.com/track/7fOLsGUxTO2QGAMugzVZRW"
+    },
+    {
+      "album": {
+        "name": "Schumann - Great Recordings",
+        "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op. 48: X. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/0Xy1rQBbVieYCGcVYrpBJ9"
+    },
+    {
+      "album": {
+        "name": "A Classical Dawn: Schumann",
+        "url": "https://open.spotify.com/album/0WFLWADi7bnK82n1fezXzo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op. 48: X. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/3dWeNEgVFhyx5GKSnGAtgZ"
+    },
+    {
+      "album": {
+        "name": "Legendary Wunderlich",
+        "url": "https://open.spotify.com/album/6EegyCkBepnLk8FjsC7uea"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op. 48: X. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/4sK65CdBoDX0TWwfWqKFTo"
+    },
+    {
+      "album": {
+        "name": "Schumann: Dichterliebe / Beethoven & Schubert: Lieder",
+        "url": "https://open.spotify.com/album/36OhNMPqhk5lVf2HNY6ErU"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op.48: 10. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/3VItFGYyv2uvEzrzKQcbAM"
+    },
+    {
+      "album": {
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
+    },
+    {
+      "album": {
+        "name": "SCHUMANN, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/5HCsWjDHkaMVofJVERjE9P"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/1nCxQUon2dNtAne4XP7uuZ"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
+        "url": "https://open.spotify.com/album/71F4hUTu6bw5xDTRSAjBJj"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593373,
+      "name": "Fantasie in C Major, Op. 17: III. Langsam getragen. Durchaus leise zu halten",
+      "url": "https://open.spotify.com/track/2uLi3RIKPSw49fdS3DKa08"
+    },
+    {
+      "album": {
+        "name": "Mutterissimo \u2013 The Art Of Anne-Sophie Mutter",
+        "url": "https://open.spotify.com/album/0yp2zg5g8pSrvqR145tGlf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 798826,
+      "name": "Fantasy For Violin And Orchestra In C Major, Op. 131 (Transcription: Fritz Kreisler): Moderato semplice ma espressivo - Live",
+      "url": "https://open.spotify.com/track/0psGNGrwkFlhGIMxH5gHyA"
+    },
+    {
+      "album": {
+        "name": "Schumann - Great Recordings",
+        "url": "https://open.spotify.com/album/3cJJIw6UF33nIpKFxFPJwB"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Anne-Sophie Mutter",
+          "url": "https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        },
+        {
+          "name": "Kurt Masur",
+          "url": "https://open.spotify.com/artist/37Lr1lIJy824MQIENRUnZn"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 801000,
+      "name": "Fantasy for Violin and Orchestra in C Major, Op. 131: Moderato semplice ma espressivo (Transcr. by Fritz Kreisler) - Live",
+      "url": "https://open.spotify.com/track/7iqtk0DuSB3McFvAs6WQgp"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/6QP3t46uYCVcljL3lVQm1z"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
+      "url": "https://open.spotify.com/track/4R75u2TaRktccyVRHrZPqB"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Kreisleriana / Faschingsschwank Aus Wien",
+        "url": "https://open.spotify.com/album/0TjrgdDIhB7sAXTUtYFX1Y"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jen\u0151 Jand\u00f3",
+          "url": "https://open.spotify.com/artist/5Kb0Qf13EyYtVJvzCdI9M7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
+      "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
+    },
+    {
+      "album": {
+        "name": "Schumann: Piano Pieces",
+        "url": "https://open.spotify.com/album/3s7iUla63fkBt3XwwMUFc7"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo (Colla pi\u00f9 grande energia)",
+      "url": "https://open.spotify.com/track/7Jbuk6fy23BwXeegTvsRcj"
+    },
+    {
+      "album": {
+        "name": "Romantique",
+        "url": "https://open.spotify.com/album/1BnT4knOzjmwLAK58YIoiN"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Anne Gastinel",
+          "url": "https://open.spotify.com/artist/5MODxzUZOCkd6YRLMH5RVC"
+        },
+        {
+          "name": "Claire D\u00e9sert",
+          "url": "https://open.spotify.com/artist/0ekU4rxJFrjDFLfOawba94"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198266,
+      "name": "Five Pieces in Folk-Style Op. 102: Vanitas vanitatum mit Humor",
+      "url": "https://open.spotify.com/track/5wxWCCzIbN24JyyoQ95kAD"
+    },
+    {
+      "album": {
+        "name": "Schumann: Cello Concerto (Works for Cello and Piano)",
+        "url": "https://open.spotify.com/album/3G6V68IICMcwQMrYIOb49P"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Anne Gastinel",
+          "url": "https://open.spotify.com/artist/5MODxzUZOCkd6YRLMH5RVC"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198266,
+      "name": "Five Pieces In Folk-style, Op.102: I. Vanitas vanitatum mit Humor",
+      "url": "https://open.spotify.com/track/77TWBMDDkZeLJu9IXPk2ro"
+    },
+    {
+      "album": {
+        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
+        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1579000,
+      "name": "Humoreske, op. 20",
+      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/3ckSyqB9V7Po09OD2jYLf5"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 758440,
+      "name": "Introduction And Concert-Allegro, Op. 134",
+      "url": "https://open.spotify.com/track/0gSnNcZ8wpHpczpJ45KFkT"
+    },
+    {
+      "album": {
+        "name": "Schumann",
+        "url": "https://open.spotify.com/album/1JbcxmOSbG4dlPsosu7Igl"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 758440,
+      "name": "Introduction And Concert-Allegro, Op.134",
+      "url": "https://open.spotify.com/track/5tLoB5B4halqoOaljIFhdd"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana",
+        "url": "https://open.spotify.com/album/6sxH5yHob34qbhbYjYWjsX"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113240,
+      "name": "Kinderszenen, Op. 15: 1. Von fremden L\u00e4ndern und Menschen",
+      "url": "https://open.spotify.com/track/4pfkZUqRCYG5If39QHFpbQ"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kreisleriana; Kinderszenen; Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/5vek6eoWa9v7lhnV2IbYWW"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Alfred Brendel",
+          "url": "https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Kinderszenen, Op. 15: 7. Tr\u00e4umerei",
+      "url": "https://open.spotify.com/track/7rrDSYbroZhV6aKkbYxiuG"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen; Arabesque; Fantasie; Tr\u00e4umerei",
+        "url": "https://open.spotify.com/album/5OmHBy2Gm6zSt7sihzbEW2"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Vladimir Horowitz",
+          "url": "https://open.spotify.com/artist/4Ws5hSoABAwvGJ4LhHwHgq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48106,
+      "name": "Kinderszenen, Op. 15: No. 5, Gl\u00fcckes genug",
+      "url": "https://open.spotify.com/track/5qQqJuT1RPEthmfp3amYWW"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No. 4, Overture, Scherzo & Finale & Konzertstuck",
+        "url": "https://open.spotify.com/album/2ayXNQZo9DicCQxyFsEXvr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Paavo J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/3V9McxlPI0G2RmkU0DhYGO"
+        },
+        {
+          "name": "Deutsche Kammerphilharmonie Bremen",
+          "url": "https://open.spotify.com/artist/2g3N0oxbmn5Q95mYNNdIo4"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436266,
+      "name": "Konzertst\u00fcck for 4 Horns and Orchestra in F Major, Op. 86: I. Lebhaft",
+      "url": "https://open.spotify.com/track/6En1L5jLJAW9ydhVTB1kEB"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/7cQbTe4L4FgcO2VKgelHB9"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116200,
+      "name": "Liederkreis, Op. 39: In der Fremde",
+      "url": "https://open.spotify.com/track/38mTuvpPTSbw2u5jupOs2B"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116200,
+      "name": "Liederkreis, Op. 39: In der Fremde",
+      "url": "https://open.spotify.com/track/4kStvokm1k1PFT5mTuoU1B"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/5En6DGCjjYAZqLZ39egU8A"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 86266,
+      "name": "Liederkreis, Op. 39: Schone Fremde",
+      "url": "https://open.spotify.com/track/5ESTHb0vaM0B57HIYWCoP3"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Dichterliebe, Op. 48 / Liederkreis, Op. 39",
+        "url": "https://open.spotify.com/album/7cQbTe4L4FgcO2VKgelHB9"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sebastian Bluth",
+          "url": "https://open.spotify.com/artist/4ipjAEa9ZO3UhUu1SE1TnE"
+        },
+        {
+          "name": "Anita Keller",
+          "url": "https://open.spotify.com/artist/3vjXL9sFRtbp3uHtHRWpBL"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 86266,
+      "name": "Liederkreis, Op. 39: Sch\u00f6ne Fremde",
+      "url": "https://open.spotify.com/track/0LyaAr7O6FFAIaXInRt3rZ"
+    },
+    {
+      "album": {
+        "name": "Besser ohne Worte",
+        "url": "https://open.spotify.com/album/4AAbCsOBu1MXyE1d8VXQc4"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "duo tuba & harfe",
+          "url": "https://open.spotify.com/artist/1GNzzWtAC8PwUERRL8Ldkv"
+        },
+        {
+          "name": "Andreas Martin Hofmeir",
+          "url": "https://open.spotify.com/artist/7fPSTBoGnZDdi3uSsMZtLW"
+        },
+        {
+          "name": "Andreas Mildner",
+          "url": "https://open.spotify.com/artist/5zTimQ8WAG2hGhQqWtoDVv"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97003,
+      "name": "Loreley, Op. 53 No. 2 (Arr. A. Mildner & A. Martin for Harp & Tuba)",
+      "url": "https://open.spotify.com/track/2P2A2quqdVt99XQxTfyUWa"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 2: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Ges\u00e4nge Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3ZxazYh6avlkPE4x8cjCL2"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201640,
+      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
+      "url": "https://open.spotify.com/track/0DeEj6R8KMJQSajVMJk41K"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lied Edition, Vol. 1: 12 Gedichte Aus \"Liebesfruhling\", Op. 37 - Lieder Und Gesange Aus Goethes Wilhelm Meister, Op. 98A - Minnespiel",
+        "url": "https://open.spotify.com/album/3b76JBP8F5vSUIMEgZnKi3"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Thomas E. Bauer",
+          "url": "https://open.spotify.com/artist/2CZtxZGpDalPgf7ZE2mXXq"
+        },
+        {
+          "name": "Susanne Bernhard",
+          "url": "https://open.spotify.com/artist/4QxzCi72edOOk6FNy00HDN"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Minnespiel, Op. 101: No. 1: Meine Tone still und heiter",
+      "url": "https://open.spotify.com/track/1xU1yjwGAGCCE3RiB8YKLe"
+    },
+    {
+      "album": {
+        "name": "Schumann: Missa sacra; 4 doppelch\u00f6rige Ges\u00e4nge",
+        "url": "https://open.spotify.com/album/0hcRHKRzGfDrUmqOvVpPsC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Marianne Crebassa",
+          "url": "https://open.spotify.com/artist/4asOb5ev8RSnUcvl7kFNlW"
+        },
+        {
+          "name": "Les Cris De Paris",
+          "url": "https://open.spotify.com/artist/18WClKhoOmHFZasTywJX1n"
+        },
+        {
+          "name": "Geoffroy Jourdain",
+          "url": "https://open.spotify.com/artist/7zYG8ixRuJNyuc00Lyq5EF"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172186,
+      "name": "Missa Sacra Op. 147: IV. Offertorium",
+      "url": "https://open.spotify.com/track/01bUsrRqDL4L7UL2faL6VF"
+    },
+    {
+      "album": {
+        "name": "Schumann: Myrthen",
+        "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Camilla Tilling",
+          "url": "https://open.spotify.com/artist/125PYk9VJbA5d7CQ0DjLtK"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "Myrthen, Op. 25: No. 1, Widmung",
+      "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "album": {
+        "name": "Schumann: Lieder",
+        "url": "https://open.spotify.com/album/0VC90XnvgOYh6xD8KMmwsh"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Margaret Price",
+          "url": "https://open.spotify.com/artist/5pWhQJvszoZVnQASf6KrEt"
+        },
+        {
+          "name": "James Lockhart",
+          "url": "https://open.spotify.com/artist/6IJUNqU4tyQiaVmGAdqFTQ"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212933,
+      "name": "Myrthen, Op. 25: No. 3. Der Nussbaum",
+      "url": "https://open.spotify.com/track/3jGlYaLUrPTZmzvNoZJNsD"
+    },
+    {
+      "album": {
+        "name": "Mozart: Quintet in E-Flat & Trio in E-Flat - Schumann: M\u00e4rchenerz\u00e4hlungen & Fantasiest\u00fccke",
+        "url": "https://open.spotify.com/album/4ATmHy2jtryKewpgqLW1yR"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nash Ensemble",
+          "url": "https://open.spotify.com/artist/4JxE9udapTtgj0yOFS4Se7"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275466,
+      "name": "M\u00e4rchenerz\u00e4hlungen for Piano, Clarinet and Viola, Op. 132",
+      "url": "https://open.spotify.com/track/33kssi5UBcOtZIby6VxQhR"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 887000,
+      "name": "Overture Manfred, Op. 115",
+      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
+    },
+    {
+      "album": {
+        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
+        "url": "https://open.spotify.com/album/51yfGhj90dXz64rXefaed5"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 266093,
+      "name": "Overture, Scherzo & Finale, Op. 52: No. 2, Scherzo. Vivo",
+      "url": "https://open.spotify.com/track/1AazaNB59cpHizjfp92iNm"
+    },
+    {
+      "album": {
+        "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
+        "url": "https://open.spotify.com/album/5O3tSB85mXcvnAuqqIL2SN"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Seattle Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5KeUHRKEYWc5cFO5V032sb"
+        },
+        {
+          "name": "Gerard Schwarz",
+          "url": "https://open.spotify.com/artist/2m3QTMNI89DEFSlvmnayPE"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266093,
+      "name": "Overture, Scherzo and Finale, Op. 52: Scherzo - Vivo",
+      "url": "https://open.spotify.com/track/1siFaMo0uVa8Npo1LqjZxE"
+    },
+    {
+      "album": {
+        "name": "Nelson Freire: Schumann Recital",
+        "url": "https://open.spotify.com/album/5Y0mKf6Om9SdHQSPI8WRxw"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144626,
+      "name": "Papillons, Op. 2: No. 11",
+      "url": "https://open.spotify.com/track/2mDEaxFxyzecnvTvrxxM1h"
+    },
+    {
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/0fNkt7mfTDI1BbnvgZRDyV"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/181fzxvpTWkbL0e9v2zBBu"
+    },
+    {
+      "album": {
+        "name": "Schumann: Carnaval, Davidsb\u00fcndlert\u00e4nze & Papillons",
+        "url": "https://open.spotify.com/album/6KX1EazmfugSG0FPBfAqQN"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Papillons, Op. 2: XII. Finale",
+      "url": "https://open.spotify.com/track/3XyvgqwifZAcKOli6PHcas"
+    },
+    {
+      "album": {
+        "name": "Nelson Freire: Schumann Recital",
+        "url": "https://open.spotify.com/album/4Cq6LZA9eQY44wrxZkfpPa"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Nelson Freire",
+          "url": "https://open.spotify.com/artist/22jDZXnu8F1BNH63ujGkT3"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144626,
+      "name": "Papillons, Op.2: No. 11",
+      "url": "https://open.spotify.com/track/2skuYukG99NJw0JWlSwVKD"
+    },
+    {
+      "album": {
+        "name": "Sleeping - Schumann",
+        "url": "https://open.spotify.com/album/0c8aVgN6xStByn66KPdBf8"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Cherubini-Quartett",
+          "url": "https://open.spotify.com/artist/6EPNMsR0Cs0DXIvwHWXyq3"
+        },
+        {
+          "name": "Christian Zacharias",
+          "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 460960,
+      "name": "Piano Quintet in E-Flat Major, Op. 44: IV. Finale (Allegro ma non troppo)",
+      "url": "https://open.spotify.com/track/2mDd07g7eJmsi9X74s1CLE"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
+        "url": "https://open.spotify.com/album/23V6eDmrJMIgryHYYJQ0Kb"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374533,
+      "name": "Presto passionato",
+      "url": "https://open.spotify.com/track/4UpIfrd4UaEw94BDwjD516"
+    },
+    {
+      "album": {
+        "name": "Schumann, R.: Piano Sonata No. 2 / Nachtstucke / Arabeske",
+        "url": "https://open.spotify.com/album/1SZjgH6FtvPpoX57dlW6xS"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Bernd Glemser",
+          "url": "https://open.spotify.com/artist/0OCB739kEu37yjT5VBLPEW"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 374533,
+      "name": "Presto passionato, WoO 5",
+      "url": "https://open.spotify.com/track/5bJeedOgNMZTKabLnhpZXG"
+    },
+    {
+      "album": {
+        "name": "Schumann : Piano works",
+        "url": "https://open.spotify.com/album/6jBpmfj61Fb3gOmpGTcMlv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Piotr Anderszewski",
+          "url": "https://open.spotify.com/artist/0ndw1tUehEV3tnnYUnqFw9"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125466,
+      "name": "Schumann: 6 Studien in kanonischer Form, Op. 56: No. 1, Nicht schnell",
+      "url": "https://open.spotify.com/track/1q5ayzgYUD1uL2kI389fV4"
+    },
+    {
+      "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176920,
+      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
+      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
+    },
+    {
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/7egP1n54TpFaOg0zyIoch0"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/3MdV4O6NgN42ZC0a335Cag"
+    },
+    {
+      "album": {
+        "name": "Schumann Recital",
+        "url": "https://open.spotify.com/album/2rn9cFuujCXaJtDDu6DeXr"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonathan Biss",
+          "url": "https://open.spotify.com/artist/6leuX0SjB7cZZP8mFNJPMw"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234986,
+      "name": "Schumann: Kreisleriana, Op. 16: VIII. Schnell und spielend",
+      "url": "https://open.spotify.com/track/4j8lYY8CxTPkY2DLLQT4hy"
+    },
+    {
+      "album": {
+        "name": "Mozart/Schumann",
+        "url": "https://open.spotify.com/album/2osmfKvcPN85yfdoXMCASn"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 965280,
+      "name": "Schumann: Piano Concerto in A Minor, Op. 54: I. Allegro affettuoso",
+      "url": "https://open.spotify.com/track/0cz6XFt5fhHG0MQMAO97Gt"
+    },
+    {
+      "album": {
+        "name": "Schumann Concerto, Mozart Concerto No 24",
+        "url": "https://open.spotify.com/album/1fcsqzBU2pszJQ0fWMPRws"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Evgeny Kissin",
+          "url": "https://open.spotify.com/artist/71kYWgqr6eHLOZj6u3JTuJ"
+        },
+        {
+          "name": "Sir Colin Davis",
+          "url": "https://open.spotify.com/artist/0TrG2LSot4KhaXqdf5K2zE"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 965280,
+      "name": "Schumann: Piano Concerto in A Minor, Op. 54: I. Allegro affettuoso",
+      "url": "https://open.spotify.com/track/2JzsHRzDT3kCokSu0ggZ8U"
+    },
+    {
+      "album": {
+        "name": "String Quartets/Piano Quintet",
+        "url": "https://open.spotify.com/album/6M2mXTeJcT6mc8CrHYn72k"
+      },
+      "artists": [
+        {
+          "name": "Christian Zacharias",
+          "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
+        },
+        {
+          "name": "Cherubini-Quartett",
+          "url": "https://open.spotify.com/artist/6EPNMsR0Cs0DXIvwHWXyq3"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 460640,
+      "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/0FleQccRXoBoIqHKYbF7sp"
+    },
+    {
+      "album": {
+        "name": "Schumann: Piano Quintet - String Quartets 1-3",
+        "url": "https://open.spotify.com/album/0QXuIPV4wTatxg7ZmAvYBc"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Zacharias",
+          "url": "https://open.spotify.com/artist/7euAAWjiEIEo1a2XkkR7wZ"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460960,
+      "name": "Schumann: Piano Quintet in E-Flat Major, Op. 44: IV. Allegro, ma non troppo",
+      "url": "https://open.spotify.com/track/3bhbdUcr5UeEDYdzqjRLwi"
+    },
+    {
+      "album": {
+        "name": "Schumann: Complete Works for Piano Trio",
+        "url": "https://open.spotify.com/album/2M0yWj2uwyyGiGJxKm8Nwx"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        },
+        {
+          "name": "Christian Tetzlaff",
+          "url": "https://open.spotify.com/artist/1fo7wyhU0wmbIbknhGaBOi"
+        },
+        {
+          "name": "Tanja Tetzlaff",
+          "url": "https://open.spotify.com/artist/02bDUUUCAdpFob66KNgPtF"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478546,
+      "name": "Schumann: Piano Trio No. 1 in D Minor, Op. 63: IV. Mit Feuer",
+      "url": "https://open.spotify.com/track/5Nxjc7qVeZTcNv7lCNTiSS"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphonies Nos. 1-4",
+        "url": "https://open.spotify.com/album/1EoQmT4c5JMm6oajMiNU5G"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 623369,
+      "name": "Schumann: Symphony No. 2 in C Major, Op. 61: III. Adagio espressivo",
+      "url": "https://open.spotify.com/track/6D60l5TKz2VxaxERhjt0QX"
+    },
+    {
+      "album": {
+        "name": "Schumann: Frage",
+        "url": "https://open.spotify.com/album/1PY3eZFiACssW8rfkG1qMu"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110773,
+      "name": "Sechs Ges\u00e4nge, Op. 107: No. 1, Herzeleid",
+      "url": "https://open.spotify.com/track/3eNYgvJHWGcfAlFp8ZrlRl"
+    },
+    {
+      "album": {
+        "name": "Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Bl\u00e4tter; Arabeske",
+        "url": "https://open.spotify.com/album/3Om7V78rEsrTdoTWG10GTC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Symphonic Studies, Op. 13 - Version 1852 with Etudes from 1837 version: Variation II. Marcato il canto",
+      "url": "https://open.spotify.com/track/1yxfsbowmJcg2Lm82AzpG4"
+    },
+    {
+      "album": {
+        "name": "Schumann: Etudes symphonique; Fantasie, Op.17; Bunte Bl\u00e4tter; Arabeske",
+        "url": "https://open.spotify.com/album/6w9nCuNPnwzEfnd25Ou6kJ"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179666,
+      "name": "Symphonic Studies, Op.13 - Version 1852 with Etudes from 1837 version: Variation II. Marcato il canto",
+      "url": "https://open.spotify.com/track/3zbDdZWImX6dYDZkqdsHe7"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+        "url": "https://open.spotify.com/album/6ucj1lc7fJKkUghOv2CLq7"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353000,
+      "name": "Symphony No. 1 in B Flat Major, Op. 38 \"Spring\": III. Scherzo. Molto vivace",
+      "url": "https://open.spotify.com/track/22O2MEvTDmsVdbbn5J6jYT"
+    },
+    {
+      "album": {
+        "name": "Schumann: The 4 Symphonies; Overtures Opp.81 \"Genoveva\" & 115 \"Manfred\"",
+        "url": "https://open.spotify.com/album/0YY96s0OHD2X49Qb8TszSC"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Rafael Kubel\u00edk",
+          "url": "https://open.spotify.com/artist/1JlF2VuyOSOasy8ZxCbD6C"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427653,
+      "name": "Symphony No. 1 in B-Flat Major, Op. 38 \"Spring\": IV. Allegro animato e grazioso",
+      "url": "https://open.spotify.com/track/2qYu0I9yKKpGnbySmN6w3K"
+    },
+    {
+      "album": {
+        "name": "Schumann Symphonies Nos. 1-4",
+        "url": "https://open.spotify.com/album/5fFm0CVrVz72EKDeXC9iga"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 623369,
+      "name": "Symphony No. 2 in C Major, Op. 61: III. Adagio espressivo",
+      "url": "https://open.spotify.com/track/1rHUIdGj02fFm44oVs0p06"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C, Op. 61: 1. Sostenuto assai - Un poco pi\u00f9 vivace - Allegro ma non troppo - Con fuoco",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No. 3 in E Flat Major, Op. 97 \"Rhenish\": II. Scherzo. Sehr m\u00e4\u00dfig",
+        "url": "https://open.spotify.com/album/1JGLrORwA8JolhaxSDlXrd"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394000,
+      "name": "Symphony No. 3 in E Flat Major, Op. 97 \"Rhenish\": II. Scherzo. Sehr m\u00e4\u00dfig",
+      "url": "https://open.spotify.com/track/6fuXiRYW2L72WAHTkR9K8i"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
+        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 660133,
+      "name": "Symphony No. 4 In D Minor, Op. 120: 1. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/1VuvUzlD0yr6cbWHEiGKOA"
+    },
+    {
+      "album": {
+        "name": "Schumann: Symphony No.4 In D Minor, Op.120 / Dvorak: Symphony No. 8 In G Major, Op. 88",
+        "url": "https://open.spotify.com/album/7jYg0obdjvMG4JcF6ptMWm"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289400,
+      "name": "Symphony No. 4 In D Minor, Op. 120: 2. Romanze (Ziemlich langsam)",
+      "url": "https://open.spotify.com/track/3c2yscx4AaNQtgW24uF3Yg"
+    },
+    {
+      "album": {
+        "name": "Schumann: The Symphonies",
+        "url": "https://open.spotify.com/album/0mPFNFmftItN3rF566s1nM"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 709466,
+      "name": "Symphony No. 4 in D Minor, Op. 120: I. Ziemlich langsam - Lebhaft",
+      "url": "https://open.spotify.com/track/5MgPesNBFwhIy5iVRbknLO"
+    },
+    {
+      "album": {
+        "name": "Easy-Listening Piano Classics: Schumann",
+        "url": "https://open.spotify.com/album/7ESxx79sd53ukjQ2OH6w8v"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 416986,
+      "name": "Theme and Variations on the name Abegg, Op. 1",
+      "url": "https://open.spotify.com/track/3A5nVX9JxmxuKWRa4c5bVf"
+    },
+    {
+      "album": {
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/67NnX49VmU1rb1oQeJJPiH"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/10MXyf1e2wktLfzvHRHVGD"
+    },
+    {
+      "album": {
+        "name": "Piano Recital: Kotaro Fukuma",
+        "url": "https://open.spotify.com/album/4lzzEHjPwcZZwo08SQSutT"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kotaro Fukuma",
+          "url": "https://open.spotify.com/artist/2NXGOKB3pcM9r9W2poWyZK"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 417866,
+      "name": "Theme and Variations on the name Abegg, Op. 1: Abegg Variations, Op. 1",
+      "url": "https://open.spotify.com/track/3DRv3MuAiScYKAPNljvbGb"
+    },
+    {
+      "album": {
+        "name": "Schumann: Violin Concerto; Piano Trio No. 3",
+        "url": "https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Isabelle Faust",
+          "url": "https://open.spotify.com/artist/00q3HI6mnGUJqMlfwBJTco"
+        },
+        {
+          "name": "Freiburger Barockorchester",
+          "url": "https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai"
+        },
+        {
+          "name": "Pablo Heras-Casado",
+          "url": "https://open.spotify.com/artist/17QYL51GCUv2vKlQWGqvWp"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 911400,
+      "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
+      "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
+    },
+    {
+      "album": {
+        "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+        "url": "https://open.spotify.com/album/6jttl9oqX32A5kVSRkBT1C"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Andrew Wan",
+          "url": "https://open.spotify.com/artist/5uzHTiIlBm52CfvHki0BXF"
+        },
+        {
+          "name": "Charles Richard-Hamelin",
+          "url": "https://open.spotify.com/artist/50mnKnOEmIVxdz2mNoNOa5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 484560,
+      "name": "Violin Sonata No. 1 in A Minor, Op. 105: I. Mit leidenschaftlichem ausdruck",
+      "url": "https://open.spotify.com/track/6FvHLsIsj4HI5eaX7dZvxm"
+    },
+    {
+      "album": {
+        "name": "Kempff plays Schumann",
+        "url": "https://open.spotify.com/album/70q9hBpW2d5poJoz0z2UCv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202866,
+      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
+      "url": "https://open.spotify.com/track/4SLJgCwLMh5wayIPb4ZfHv"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/7f9V9jwebM6tVDpItA1O8m"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202986,
+      "name": "Waldszenen, Op. 82: No. 7 Vogel als Prophet",
+      "url": "https://open.spotify.com/track/41z9F9wr2JU7nAB7fMTOUq"
+    },
+    {
+      "album": {
+        "name": "Schumann: Kinderszenen; Kreisleriana; Waldszenen",
+        "url": "https://open.spotify.com/album/19MZqf1DSx11yfSvnyGfPt"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Wilhelm Kempff",
+          "url": "https://open.spotify.com/artist/4F0h097DbL1XBqIbDw2xOj"
+        }
+      ],
+      "date_added": "2020-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202986,
+      "name": "Waldszenen, Op.82: 7. Vogel als Prophet",
+      "url": "https://open.spotify.com/track/5NUNJMIQIhASajZcR4irhK"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1W7If2h64K3"
 }

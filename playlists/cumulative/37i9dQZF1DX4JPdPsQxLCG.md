@@ -4,7 +4,7 @@
 
 > Classic tunes for the open road.
 
-359 songs - 23 hr 36 min
+360 songs - 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Black Velvet](https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Alannah Myles](https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv) | 4:47 | 2022-05-02 |  |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-06-09 |  |
 | [Blown Wide Open](https://open.spotify.com/track/2wDGbbr3Urw84aKqf9AmJ4) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory](https://open.spotify.com/album/0k4rjOvtXzqIP3sktiBvek) | 5:55 | 2022-05-02 | 2022-07-29 |
-| [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 | 2023-12-01 |  |
+| [Blown Wide Open](https://open.spotify.com/track/3KyDvRT8RdsBcRkvKmy4M2) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [In Loving Memory Of \- 20th Anniversary Special Edition](https://open.spotify.com/album/6Agfrk7oe0H7WsXauqMPR6) | 5:55 | 2023-12-01 | 2024-01-05 |
 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 | 2022-05-02 |  |
 | [bodyache](https://open.spotify.com/track/4gWvy90PdAXgY39Z7S8zSe) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [another eternity](https://open.spotify.com/album/5ydKh3bO3jF6oZWkBrzwpn) | 2:53 | 2023-06-09 | 2023-07-15 |
 | [Bon Voyage](https://open.spotify.com/track/4Okyax7cvVoNfoBKYr2RA0) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:47 | 2023-06-09 |  |
@@ -101,7 +101,7 @@
 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 | 2022-05-02 |  |
 | [Fine State Of Affairs](https://open.spotify.com/track/53SaQ3h6q5LuBbkUmhc1by) | [Burton Cummings](https://open.spotify.com/artist/5ziVRv2caoBDNG2fythJ2n) | [Woman Love](https://open.spotify.com/album/1v4amSDZul4mwPzM0b7qah) | 3:13 | 2022-05-02 | 2022-07-29 |
 | [Fire and Rain \- 2019 Remaster](https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:23 | 2022-09-10 | 2022-09-15 |
-| [Flesh and Blood](https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [A Blemish in the Great Light](https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q) | 4:57 | 2023-05-18 |  |
+| [Flesh and Blood](https://open.spotify.com/track/5JNQ5leQ1NEZFHQxlojjBt) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [A Blemish in the Great Light](https://open.spotify.com/album/0mW3Hyde2wbKVTSYPhYF2Q) | 4:57 | 2023-05-18 | 2024-01-14 |
 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/65P1kWWq2FOig9q2POBD4K) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/0HFcnY7LMUaE0PsCg9W1KI) | 4:53 | 2022-05-02 |  |
 | [Fly At Night \(In The Morning We Land\)](https://open.spotify.com/track/7M0Q9ZGZdEQn0AHomogllv) | [Chilliwack](https://open.spotify.com/artist/3TkWygOTDBZXAdFDh9HOkG) | [Dreams, Dreams, Dreams](https://open.spotify.com/album/2QNKyqGsn9xJZws9EevADr) | 4:53 | 2022-05-02 | 2022-07-29 |
 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 | 2022-09-10 | 2022-09-15 |
@@ -116,7 +116,7 @@
 | [Hand in My Pocket](https://open.spotify.com/track/78kkknD87Eor8RDGY9Gyuv) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [The Collection \(Standard Edition\)](https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg) | 3:39 | 2022-05-02 |  |
 | [Hard Ground](https://open.spotify.com/track/3dTN5Z69GkKKhlkkIHG9wh) | [Leela Gilday](https://open.spotify.com/artist/0nSstpr48Xb3fVs5AZHOLN) | [Hard Ground](https://open.spotify.com/album/5Iohm4tA6T2w7tOhuTSjEe) | 3:31 | 2022-05-02 | 2022-07-12 |
 | [Hard To Laugh](https://open.spotify.com/track/5U5KjKI1zudxGTv7WVODO6) | [The Pursuit Of Happiness](https://open.spotify.com/artist/0lVGx5D7ylaycWxIdGXMt0) | [Love Junk](https://open.spotify.com/album/31BdrZHZlWKIGjoy0aaplt) | 2:39 | 2022-05-02 | 2022-07-28 |
-| [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2023-05-18 | 2023-12-02 |
+| [Harvest Moon](https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest Moon](https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q) | 5:03 | 2023-05-18 |  |
 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 | 2022-05-02 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Pendulum \(Expanded Edition\)](https://open.spotify.com/album/372cMadhAGlNuDnc8TssqF) | 2:40 | 2022-09-10 | 2022-09-15 |
 | [Hayloft](https://open.spotify.com/track/2kKkl59fY6Cic1CmhvSEZK) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/41U6Qbx5KxhHYIuwlK3lXA) | 3:01 | 2023-12-22 |  |
@@ -261,6 +261,7 @@
 | [Shine](https://open.spotify.com/track/36PBE4YpFVdSsHxBqntXs9) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Fuzz](https://open.spotify.com/album/6V9x9IgN7BDPsnuF3uhgXX) | 5:06 | 2022-05-02 | 2022-07-29 |
 | [Signs](https://open.spotify.com/track/5KWXi2eCYsC6ofIILjvG4V) | [Five Man Electrical Band](https://open.spotify.com/artist/1GjVNyMzPjdBuip6Xanllu) | [Absolutely Right \- The Best Of Five Man Electrical Band](https://open.spotify.com/album/5W6F5tJqFnmmbPV4oJKbbR) | 4:01 | 2022-05-02 | 2023-05-19 |
 | [Silver](https://open.spotify.com/track/4VFHfPzSlpvTrLkGYwl921) | [Moist](https://open.spotify.com/artist/405mr7FXn2Owukvhlid2Tz) | [Silver](https://open.spotify.com/album/6rzMckapLqcGs5GubjR8CA) | 4:15 | 2022-05-02 | 2022-07-08 |
+| [Single Again](https://open.spotify.com/track/2fKAG7MnnFDrQERDAzSztc) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Single Again](https://open.spotify.com/album/6b0zmV6vwUV9Jrwo5FiF0P) | 2:59 | 2024-01-12 |  |
 | [Sinking Like A Sunset](https://open.spotify.com/track/25uc621mjv2Qh02hwYxUvM) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5PMU9v49i3qHuJEb9RVSmU) | 5:46 | 2022-05-02 | 2022-07-29 |
 | [Skin](https://open.spotify.com/track/2wvW8xOZAD9n0vMuVxUrTl) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Laundry Pile](https://open.spotify.com/album/1QlYhaYb8Tfd47iuoUKaaz) | 3:51 | 2023-09-29 | 2023-12-08 |
 | [Skin](https://open.spotify.com/track/2ylkVRkpfmIP2B59GcfSlO) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/0eDX7CrW59UxWQvTUo7eq4) | 3:51 | 2023-06-28 | 2023-09-24 |

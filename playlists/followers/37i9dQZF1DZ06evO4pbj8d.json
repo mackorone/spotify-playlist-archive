@@ -1,472 +1,1273 @@
 {
-  "2022-09-17": 1690,
-  "2022-09-18": 1692,
-  "2022-09-19": 1698,
-  "2022-09-20": 1705,
-  "2022-09-21": 1708,
-  "2022-09-22": 1714,
-  "2022-09-23": 1722,
-  "2022-09-24": 1722,
-  "2022-09-25": 1750,
-  "2022-09-26": 1755,
-  "2022-09-27": 1766,
-  "2022-09-28": 1774,
-  "2022-09-29": 1781,
-  "2022-09-30": 1791,
-  "2022-10-01": 1805,
-  "2022-10-02": 1815,
-  "2022-10-03": 1824,
-  "2022-10-04": 1829,
-  "2022-10-05": 1839,
-  "2022-10-06": 2123,
-  "2022-10-07": 2137,
-  "2022-10-08": 2149,
-  "2022-10-09": 2164,
-  "2022-10-10": 2168,
-  "2022-10-11": 2175,
-  "2022-10-12": 2180,
-  "2022-10-13": 2311,
-  "2022-10-14": 2346,
-  "2022-10-15": 2360,
-  "2022-10-16": 2368,
-  "2022-10-17": 2383,
-  "2022-10-18": 2389,
-  "2022-10-19": 2396,
-  "2022-10-20": 2409,
-  "2022-10-21": 2415,
-  "2022-10-22": 2419,
-  "2022-10-23": 2426,
-  "2022-10-24": 2435,
-  "2022-10-25": 2443,
-  "2022-10-26": 2451,
-  "2022-10-27": 2458,
-  "2022-10-28": 2467,
-  "2022-10-29": 2478,
-  "2022-10-30": 2485,
-  "2022-10-31": 2493,
-  "2022-11-01": 2496,
-  "2022-11-02": 2504,
-  "2022-11-03": 2507,
-  "2022-11-04": 2515,
-  "2022-11-05": 2519,
-  "2022-11-06": 2528,
-  "2022-11-07": 2537,
-  "2022-11-08": 2540,
-  "2022-11-09": 2545,
-  "2022-11-10": 2550,
-  "2022-11-11": 2553,
-  "2022-11-12": 2559,
-  "2022-11-13": 2564,
-  "2022-11-14": 2573,
-  "2022-11-15": 2581,
-  "2022-11-16": 2585,
-  "2022-11-17": 2585,
-  "2022-11-18": 2587,
-  "2022-11-19": 2590,
-  "2022-11-20": 2598,
-  "2022-11-21": 2606,
-  "2022-11-22": 2611,
-  "2022-11-23": 2619,
-  "2022-11-24": 2626,
-  "2022-11-25": 2633,
-  "2022-11-26": 2639,
-  "2022-11-27": 2640,
-  "2022-11-28": 2647,
-  "2022-11-29": 2653,
-  "2022-11-30": 2661,
-  "2022-12-01": 2673,
-  "2022-12-02": 2673,
-  "2022-12-03": 2682,
-  "2022-12-04": 2687,
-  "2022-12-05": 2694,
-  "2022-12-06": 2698,
-  "2022-12-07": 2703,
-  "2022-12-08": 2712,
-  "2022-12-09": 2713,
-  "2022-12-10": 2717,
-  "2022-12-11": 2721,
-  "2022-12-12": 2725,
-  "2022-12-13": 2730,
-  "2022-12-14": 2734,
-  "2022-12-15": 2744,
-  "2022-12-16": 2751,
-  "2022-12-17": 2754,
-  "2022-12-18": 2764,
-  "2022-12-19": 2771,
-  "2022-12-20": 2787,
-  "2022-12-21": 2787,
-  "2022-12-22": 2794,
-  "2022-12-24": 2798,
-  "2022-12-25": 2801,
-  "2022-12-26": 2809,
-  "2022-12-27": 2811,
-  "2022-12-28": 2811,
-  "2022-12-29": 2820,
-  "2022-12-30": 2825,
-  "2022-12-31": 2835,
-  "2023-01-01": 2842,
-  "2023-01-02": 2846,
-  "2023-01-03": 2848,
-  "2023-01-04": 2854,
-  "2023-01-05": 2861,
-  "2023-01-06": 2871,
-  "2023-01-07": 2877,
-  "2023-01-08": 2878,
-  "2023-01-09": 2884,
-  "2023-01-10": 2885,
-  "2023-01-11": 2891,
-  "2023-01-12": 2895,
-  "2023-01-13": 2902,
-  "2023-01-14": 2918,
-  "2023-01-15": 2920,
-  "2023-01-16": 2928,
-  "2023-01-17": 2933,
-  "2023-01-18": 2937,
-  "2023-01-19": 2945,
-  "2023-01-20": 2952,
-  "2023-01-21": 2960,
-  "2023-01-22": 2967,
-  "2023-01-23": 2975,
-  "2023-01-24": 2980,
-  "2023-01-25": 2985,
-  "2023-01-26": 2989,
-  "2023-01-27": 2994,
-  "2023-01-28": 3002,
-  "2023-01-29": 3009,
-  "2023-01-30": 3016,
-  "2023-01-31": 3016,
-  "2023-02-01": 3035,
-  "2023-02-02": 3038,
-  "2023-02-03": 3044,
-  "2023-02-04": 3052,
-  "2023-02-05": 3054,
-  "2023-02-06": 3061,
-  "2023-02-07": 3070,
-  "2023-02-08": 3093,
-  "2023-02-09": 3093,
-  "2023-02-10": 3101,
-  "2023-02-11": 3112,
-  "2023-02-12": 3124,
-  "2023-02-13": 3134,
-  "2023-02-14": 3134,
-  "2023-02-15": 3138,
-  "2023-02-16": 3147,
-  "2023-02-17": 3154,
-  "2023-02-18": 3189,
-  "2023-02-19": 3195,
-  "2023-02-20": 3208,
-  "2023-02-21": 3222,
-  "2023-02-22": 3238,
-  "2023-02-23": 3254,
-  "2023-02-24": 3275,
-  "2023-02-25": 3282,
-  "2023-02-26": 3285,
-  "2023-02-27": 3304,
-  "2023-02-28": 3304,
-  "2023-03-01": 3314,
-  "2023-03-02": 3325,
-  "2023-03-03": 3348,
-  "2023-03-04": 3356,
-  "2023-03-05": 3383,
-  "2023-03-06": 3383,
-  "2023-03-07": 3389,
-  "2023-03-08": 3398,
-  "2023-03-09": 3409,
-  "2023-03-10": 3416,
-  "2023-03-11": 3425,
-  "2023-03-12": 3433,
-  "2023-03-13": 3446,
-  "2023-03-14": 3451,
-  "2023-03-15": 3458,
-  "2023-03-16": 3458,
-  "2023-03-17": 3458,
-  "2023-03-18": 3484,
-  "2023-03-19": 3484,
-  "2023-03-20": 3506,
-  "2023-03-21": 3516,
-  "2023-03-22": 3534,
-  "2023-03-23": 3547,
-  "2023-03-24": 3547,
-  "2023-03-25": 3575,
-  "2023-03-26": 3594,
-  "2023-03-27": 3609,
-  "2023-03-28": 3628,
-  "2023-03-29": 3641,
-  "2023-03-30": 3674,
-  "2023-03-31": 3674,
-  "2023-04-01": 3689,
-  "2023-04-02": 3703,
-  "2023-04-03": 3713,
-  "2023-04-04": 3724,
-  "2023-04-05": 3750,
-  "2023-04-06": 3765,
-  "2023-04-07": 3773,
-  "2023-04-09": 3792,
-  "2023-04-10": 3802,
-  "2023-04-11": 3815,
-  "2023-04-12": 3815,
-  "2023-04-13": 3822,
-  "2023-04-14": 3829,
-  "2023-04-15": 3841,
-  "2023-04-16": 3852,
-  "2023-04-17": 3868,
-  "2023-04-18": 3879,
-  "2023-04-19": 3889,
-  "2023-04-20": 3905,
-  "2023-04-21": 3911,
-  "2023-04-22": 3922,
-  "2023-04-23": 3943,
-  "2023-04-24": 3981,
-  "2023-04-25": 3998,
-  "2023-04-26": 4017,
-  "2023-04-27": 4031,
-  "2023-04-28": 4047,
-  "2023-04-29": 4061,
-  "2023-04-30": 4074,
-  "2023-05-01": 4087,
-  "2023-05-02": 4097,
-  "2023-05-03": 4124,
-  "2023-05-04": 4140,
-  "2023-05-05": 4152,
-  "2023-05-06": 4164,
-  "2023-05-07": 4169,
-  "2023-05-08": 4181,
-  "2023-05-09": 4185,
-  "2023-05-10": 4192,
-  "2023-05-11": 4200,
-  "2023-05-12": 4204,
-  "2023-05-13": 4207,
-  "2023-05-14": 4221,
-  "2023-05-15": 4228,
-  "2023-05-16": 4238,
-  "2023-05-17": 4243,
-  "2023-05-18": 4251,
-  "2023-05-19": 4262,
-  "2023-05-20": 4276,
-  "2023-05-21": 4276,
-  "2023-05-22": 4276,
-  "2023-05-23": 4283,
-  "2023-05-24": 4297,
-  "2023-05-25": 4300,
-  "2023-05-26": 4319,
-  "2023-05-27": 4331,
-  "2023-05-28": 4338,
-  "2023-05-29": 4338,
-  "2023-05-30": 4358,
-  "2023-05-31": 4364,
-  "2023-06-01": 4379,
-  "2023-06-02": 4392,
-  "2023-06-03": 4410,
-  "2023-06-04": 4421,
-  "2023-06-05": 4429,
-  "2023-06-06": 4433,
-  "2023-06-07": 4448,
-  "2023-06-08": 4460,
-  "2023-06-09": 4471,
-  "2023-06-10": 4481,
-  "2023-06-11": 4488,
-  "2023-06-12": 4497,
-  "2023-06-13": 4503,
-  "2023-06-14": 4503,
-  "2023-06-15": 4514,
-  "2023-06-16": 4523,
-  "2023-06-17": 4529,
-  "2023-06-18": 4542,
-  "2023-06-19": 4554,
-  "2023-06-20": 4562,
-  "2023-06-21": 4572,
-  "2023-06-22": 4589,
-  "2023-06-23": 4601,
-  "2023-06-24": 4618,
-  "2023-06-25": 4624,
-  "2023-06-26": 4634,
-  "2023-06-27": 4639,
-  "2023-06-28": 4646,
-  "2023-06-29": 4650,
-  "2023-06-30": 4659,
-  "2023-07-01": 4678,
-  "2023-07-02": 4678,
-  "2023-07-03": 4685,
-  "2023-07-04": 4694,
-  "2023-07-05": 4700,
-  "2023-07-06": 4716,
-  "2023-07-07": 4716,
-  "2023-07-08": 4716,
-  "2023-07-09": 4729,
-  "2023-07-10": 4746,
-  "2023-07-11": 4752,
-  "2023-07-12": 4757,
-  "2023-07-13": 4760,
-  "2023-07-14": 4767,
-  "2023-07-15": 4766,
-  "2023-07-16": 4773,
-  "2023-07-17": 4781,
-  "2023-07-18": 4790,
-  "2023-07-19": 4799,
-  "2023-07-20": 4799,
-  "2023-07-21": 4806,
-  "2023-07-22": 4815,
-  "2023-07-23": 4828,
-  "2023-07-24": 4833,
-  "2023-07-25": 4837,
-  "2023-07-26": 4845,
-  "2023-07-27": 4853,
-  "2023-07-28": 4853,
-  "2023-07-29": 4874,
-  "2023-07-30": 4874,
-  "2023-07-31": 4892,
-  "2023-08-01": 4901,
-  "2023-08-02": 4905,
-  "2023-08-03": 4916,
-  "2023-08-04": 4930,
-  "2023-08-05": 4942,
-  "2023-08-06": 4962,
-  "2023-08-07": 4962,
-  "2023-08-08": 4967,
-  "2023-08-09": 4980,
-  "2023-08-10": 4993,
-  "2023-08-11": 5003,
-  "2023-08-12": 5003,
-  "2023-08-13": 5003,
-  "2023-08-14": 5003,
-  "2023-08-15": 5003,
-  "2023-08-16": 5003,
-  "2023-08-17": 5003,
-  "2023-08-18": 5003,
-  "2023-08-19": 5003,
-  "2023-08-20": 5144,
-  "2023-08-21": 5144,
-  "2023-08-22": 5165,
-  "2023-08-23": 5165,
-  "2023-08-24": 5165,
-  "2023-08-25": 5165,
-  "2023-08-26": 5201,
-  "2023-08-27": 5201,
-  "2023-08-28": 5214,
-  "2023-08-29": 5214,
-  "2023-08-30": 5214,
-  "2023-08-31": 5229,
-  "2023-09-01": 5244,
-  "2023-09-02": 5244,
-  "2023-09-03": 5244,
-  "2023-09-04": 5244,
-  "2023-09-05": 5244,
-  "2023-09-06": 5244,
-  "2023-09-07": 5244,
-  "2023-09-08": 5244,
-  "2023-09-09": 5244,
-  "2023-09-10": 5244,
-  "2023-09-11": 5244,
-  "2023-09-12": 5244,
-  "2023-09-13": 5244,
-  "2023-09-14": 5244,
-  "2023-09-15": 5244,
-  "2023-09-16": 5244,
-  "2023-09-17": 5244,
-  "2023-09-18": 5244,
-  "2023-09-19": 5244,
-  "2023-09-20": 5244,
-  "2023-09-21": 5244,
-  "2023-09-22": 5445,
-  "2023-09-23": 5445,
-  "2023-09-24": 5445,
-  "2023-09-25": 5445,
-  "2023-09-26": 5474,
-  "2023-09-27": 5474,
-  "2023-09-28": 5474,
-  "2023-09-29": 5474,
-  "2023-09-30": 5474,
-  "2023-10-01": 5474,
-  "2023-10-02": 5474,
-  "2023-10-03": 5474,
-  "2023-10-04": 5474,
-  "2023-10-05": 5474,
-  "2023-10-06": 5474,
-  "2023-10-07": 5474,
-  "2023-10-08": 5474,
-  "2023-10-09": 5474,
-  "2023-10-10": 5474,
-  "2023-10-11": 5474,
-  "2023-10-12": 5474,
-  "2023-10-13": 5474,
-  "2023-10-14": 5474,
-  "2023-10-15": 5474,
-  "2023-10-16": 5474,
-  "2023-10-17": 5474,
-  "2023-10-18": 5474,
-  "2023-10-19": 5474,
-  "2023-10-20": 5474,
-  "2023-10-21": 5474,
-  "2023-10-22": 5474,
-  "2023-10-23": 5474,
-  "2023-10-24": 5474,
-  "2023-10-25": 5474,
-  "2023-10-26": 5474,
-  "2023-10-27": 5474,
-  "2023-10-28": 5474,
-  "2023-10-29": 5474,
-  "2023-10-30": 5474,
-  "2023-10-31": 5474,
-  "2023-11-01": 5474,
-  "2023-11-02": 5474,
-  "2023-11-03": 5474,
-  "2023-11-04": 5474,
-  "2023-11-05": 5474,
-  "2023-11-06": 5474,
-  "2023-11-07": 5474,
-  "2023-11-08": 5474,
-  "2023-11-09": 5474,
-  "2023-11-10": 5474,
-  "2023-11-11": 5811,
-  "2023-11-12": 5811,
-  "2023-11-13": 5811,
-  "2023-11-14": 5811,
-  "2023-11-15": 5811,
-  "2023-11-16": 5811,
-  "2023-11-17": 5811,
-  "2023-11-18": 5811,
-  "2023-11-19": 5811,
-  "2023-11-20": 5811,
-  "2023-11-21": 5811,
-  "2023-11-22": 5811,
-  "2023-11-23": 5811,
-  "2023-11-24": 5811,
-  "2023-11-25": 5811,
-  "2023-11-26": 5811,
-  "2023-11-27": 5811,
-  "2023-11-28": 5811,
-  "2023-11-29": 5811,
-  "2023-11-30": 5811,
-  "2023-12-01": 5811,
-  "2023-12-02": 5811,
-  "2023-12-03": 5811,
-  "2023-12-04": 5811,
-  "2023-12-05": 5811,
-  "2023-12-06": 5811,
-  "2023-12-07": 5811,
-  "2023-12-08": 5811,
-  "2023-12-09": 5811,
-  "2023-12-10": 5811,
-  "2023-12-11": 5811,
-  "2023-12-12": 5811,
-  "2023-12-13": 5811,
-  "2023-12-14": 5969,
-  "2023-12-15": 5971,
-  "2023-12-16": 5972,
-  "2023-12-17": 5975,
-  "2023-12-18": 5980,
-  "2023-12-19": 5982,
-  "2023-12-20": 5989,
-  "2023-12-21": 5995,
-  "2023-12-22": 5994,
-  "2023-12-23": 5998,
-  "2023-12-24": 6003,
-  "2023-12-25": 6003,
-  "2023-12-26": 6006,
-  "2023-12-27": 6011,
-  "2023-12-30": 6023,
-  "2023-12-31": 6026,
-  "2024-01-01": 6030,
-  "2024-01-02": 6037,
-  "2024-01-03": 6037
+  "2024-01-17": 6116,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Joy Oladokun. The essential tracks, all in one playlist.",
+  "name": "This Is Joy Oladokun",
+  "tracks": [
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279614,
+      "name": "Animals & Angels",
+      "url": "https://open.spotify.com/track/0UIIvj8kMxJCxi831RpS4c"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "bad blood",
+      "url": "https://open.spotify.com/track/4lizDGXpBCg6o9B90eA5pH"
+    },
+    {
+      "album": {
+        "name": "Be Careful",
+        "url": "https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf"
+      },
+      "artists": [
+        {
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
+        {
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342272,
+      "name": "Be Careful",
+      "url": "https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186986,
+      "name": "Bigger Man (with Maren Morris)",
+      "url": "https://open.spotify.com/track/3Dd9ip26FejJl8qi6mJ7M8"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171700,
+      "name": "Black Car",
+      "url": "https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau"
+    },
+    {
+      "album": {
+        "name": "Blame",
+        "url": "https://open.spotify.com/album/6p8BW3TYnDRWENfV8PwoiV"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215227,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/5PtVPNgUwUDeN0rWMJDmzp"
+    },
+    {
+      "album": {
+        "name": "Blink Twice",
+        "url": "https://open.spotify.com/album/0YXMnmlNlrJhL1nC8NXAoT"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197767,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/15mBjCfIMBnW92VxkswM2P"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 319770,
+      "name": "Bread + Wine",
+      "url": "https://open.spotify.com/track/59dOoa6Zco8dpqZnEONvBO"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "breathe again",
+      "url": "https://open.spotify.com/track/2exUyljlhoH86MlcicuUXd"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "brick by brick",
+      "url": "https://open.spotify.com/track/4JUSXwDFcncj0TbXByi0U7"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242811,
+      "name": "Carry",
+      "url": "https://open.spotify.com/track/6drp4VbnWwVxfn5v5jzqp7"
+    },
+    {
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2Q8EuF1l9sDpbVAmRRiW7e"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189722,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/11pocbaq7T3ouJd4oa64Xn"
+    },
+    {
+      "album": {
+        "name": "The Hating Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196606,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 220186,
+      "name": "Fight for It",
+      "url": "https://open.spotify.com/track/6utNdBDGTw1DRUQLn20T7b"
+    },
+    {
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/0ZgGiET6nxLm3cQTaMS3gx"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 234548,
+      "name": "Flyin' High (In The Friendly Sky)",
+      "url": "https://open.spotify.com/track/3K7eIFjBMP37ueJaApIJ1k"
+    },
+    {
+      "album": {
+        "name": "Fortune Favors The Bold",
+        "url": "https://open.spotify.com/album/6Z4nwjLYejRAzZo1HeyyPy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Tim Gent",
+          "url": "https://open.spotify.com/artist/3zt7KD1sd6pwQ3PgWPZiln"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218164,
+      "name": "Fortune Favors The Bold",
+      "url": "https://open.spotify.com/track/3pfibYzsaexMHmLnmQ8iMH"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201483,
+      "name": "Friends (with Mt. Joy)",
+      "url": "https://open.spotify.com/track/4smxhbkhynwlqp8cjVxuxg"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Penny and Sparrow",
+          "url": "https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183546,
+      "name": "heaven from here (with Penny and Sparrow)",
+      "url": "https://open.spotify.com/track/14zduMrtXG6iAyoozpQhDA"
+    },
+    {
+      "album": {
+        "name": "Give Me the Truth",
+        "url": "https://open.spotify.com/album/3yOlYe0Rc57s41Te9z1JPY"
+      },
+      "artists": [
+        {
+          "name": "Dominic Balli",
+          "url": "https://open.spotify.com/artist/2QCtK2hdxxcU1BU5Npa8Zu"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 243156,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2cid9gPwIOMa4fYTreyLtl"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4P4Melmltlh69qk94BPZDY"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196772,
+      "name": "I Can't Make You Love Me - Spotify Singles",
+      "url": "https://open.spotify.com/track/6AdxrIYy5CT1LLzLYAQOwy"
+    },
+    {
+      "album": {
+        "name": "i get high (feat. Joy Oladokun)",
+        "url": "https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md"
+      },
+      "artists": [
+        {
+          "name": "JORDY",
+          "url": "https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123807,
+      "name": "i get high (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "i see america",
+      "url": "https://open.spotify.com/track/6hi7QmxdXBbgdFSnQjCiaK"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "if you got a problem",
+      "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "album": {
+        "name": "It's a good day (to fight the system) [feat. Joy Oladokun]",
+        "url": "https://open.spotify.com/album/2AU0XiCtjQEU55l846nraF"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 197474,
+      "name": "It's a good day (to fight the system) [feat. Joy Oladokun]",
+      "url": "https://open.spotify.com/track/4xzCJ65pFTogCfav8IVqSw"
+    },
+    {
+      "album": {
+        "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
+        "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
+      },
+      "artists": [
+        {
+          "name": "Shungudzo",
+          "url": "https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197474,
+      "name": "It\u2019s a good day (to fight the system) (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241200,
+      "name": "jordan",
+      "url": "https://open.spotify.com/track/2BGyfq5k9xGO9019bUsYFk"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/4FzapZZ2S0xvuB5yJLebUM"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161706,
+      "name": "judas",
+      "url": "https://open.spotify.com/track/03x5RegHjby0lwfcqQ2GjI"
+    },
+    {
+      "album": {
+        "name": "Keeping The Light On",
+        "url": "https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223628,
+      "name": "Keeping The Light On",
+      "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "look up",
+      "url": "https://open.spotify.com/track/0oEji7lz6paMOdk97XEK4Z"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (complete)",
+        "url": "https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 204720,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/7bvq2OKntVXLVnbEIo0nOx"
+    },
+    {
+      "album": {
+        "name": "Memphis",
+        "url": "https://open.spotify.com/album/3Q4xfrse6fqosRqjAzqF7s"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Memphis",
+      "url": "https://open.spotify.com/track/1yeSznrghGszZVKvN5DZ2f"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 138400,
+      "name": "mighty die young",
+      "url": "https://open.spotify.com/track/7ansr2uebaL7XFbFlc45h2"
+    },
+    {
+      "album": {
+        "name": "My Girl",
+        "url": "https://open.spotify.com/album/48rv1iGnI8ggoWnKNalXRR"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185054,
+      "name": "My Girl",
+      "url": "https://open.spotify.com/track/25TrYuBFlgMIaaQDYZNJoa"
+    },
+    {
+      "album": {
+        "name": "No Turning Back",
+        "url": "https://open.spotify.com/album/4QWBRmlZjIolh4WBq84jy0"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/6XwtP51GmM6r09dVouba1W"
+    },
+    {
+      "album": {
+        "name": "Outer Banks: Season 3 (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/1NNtICY8M1jgZf5KeZVdu5"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242714,
+      "name": "Out on the Weekend",
+      "url": "https://open.spotify.com/track/6b9aVZxVnYtUIZD8oW9yS9"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296839,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/1yCbpQOLC7pCOKUpnYfm4Q"
+    },
+    {
+      "album": {
+        "name": "Power (From the Al Sharpton Documentary LOUDMOUTH)",
+        "url": "https://open.spotify.com/album/3NBUJAebIR6GVVQpyG6sK7"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 194507,
+      "name": "Power - From the Al Sharpton Documentary LOUDMOUTH",
+      "url": "https://open.spotify.com/track/7thDDJkwC3ubFYK7x1q7I3"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 202167,
+      "name": "Pride",
+      "url": "https://open.spotify.com/track/4IGfjCoUAqHbBr6iuURNOi"
+    },
+    {
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 219951,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/2garoQsT8YUfXVKA8vYRYR"
+    },
+    {
+      "album": {
+        "name": "Carry",
+        "url": "https://open.spotify.com/album/0yUV7CmhrBa3a30vrzk3dt"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235047,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/3caJRuvtyzXyECb92ORGqF"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "smoke",
+      "url": "https://open.spotify.com/track/282iiFgHe0vEhEWZOE5v73"
+    },
+    {
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/2LAq8CGSyEPEWDadcMmMRs"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201856,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0VTJh1k8GwxCOdSHpcDe9s"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/0F9RwW1ScEh2gNEADX67BO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236291,
+      "name": "Somebody Like Me",
+      "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 134598,
+      "name": "Somehow - Living Proof Version",
+      "url": "https://open.spotify.com/track/7dL0GUsX3URQk8FMdZfnXa"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Somehow Intro - Living Proof Version",
+      "url": "https://open.spotify.com/track/3fcs9tMlhX6U7PQoDZXbLI"
+    },
+    {
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 221853,
+      "name": "someone that i used to be",
+      "url": "https://open.spotify.com/track/4ESU8fhu6M9TUg5vmjV87S"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195383,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/6Vg2zBT0AFSoKhV7L5csFf"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193786,
+      "name": "sunday",
+      "url": "https://open.spotify.com/track/5zYiD0qYctWMiLHGAiEcd3"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228076,
+      "name": "Sweet Symphony (feat. Chris Stapleton)",
+      "url": "https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2"
+    },
+    {
+      "album": {
+        "name": "Sweet Symphony",
+        "url": "https://open.spotify.com/album/2FuEelEorhSFMkmvhI8iq7"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2022-09-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 228076,
+      "name": "Sweet Symphony (with Chris Stapleton)",
+      "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness",
+        "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 197520,
+      "name": "taking the heat",
+      "url": "https://open.spotify.com/track/5DvOLjJBXwyEVM2kj05upJ"
+    },
+    {
+      "album": {
+        "name": "Taking Things For Granted",
+        "url": "https://open.spotify.com/album/44idK1vYXKaSlCxRugsLrN"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216167,
+      "name": "Taking Things For Granted",
+      "url": "https://open.spotify.com/track/2UY1uX2Wt5cj5mUVCa4c3O"
+    },
+    {
+      "album": {
+        "name": "That's How God Made Me (Anything\u2019s Possible Soundtrack)",
+        "url": "https://open.spotify.com/album/5XBt12tohG1P2PLW2fcxP3"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 194623,
+      "name": "That's How God Made Me",
+      "url": "https://open.spotify.com/track/4OI2PKCDvjtlfwZ6BYrOO7"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240553,
+      "name": "The Hard Way",
+      "url": "https://open.spotify.com/track/4ZWK6VyzlXUb2n96pXDIsE"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196093,
+      "name": "too high",
+      "url": "https://open.spotify.com/track/6bk6LnJA5MsK9E5kWFxfSG"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235714,
+      "name": "Trying",
+      "url": "https://open.spotify.com/track/4BkroYCzKrqTNuDB4Ou6AS"
+    },
+    {
+      "album": {
+        "name": "With Love From",
+        "url": "https://open.spotify.com/album/3oFIKpX63uWlFve7BaVK1r"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240733,
+      "name": "Way of Nature Way of Grace",
+      "url": "https://open.spotify.com/track/6XvIVhREinnOkdeh1v6Ut0"
+    },
+    {
+      "album": {
+        "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+        "url": "https://open.spotify.com/album/1vJ4hlzBjTPtW54msCMGb9"
+      },
+      "artists": [
+        {
+          "name": "Lucie Silvas",
+          "url": "https://open.spotify.com/artist/57HiMjhnxdJflQodRyC5Ju"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270426,
+      "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
+      "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "album": {
+        "name": "We\u2019re All Gonna Die",
+        "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-03-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179202,
+      "name": "We\u2019re All Gonna Die (with Noah Kahan)",
+      "url": "https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU"
+    },
+    {
+      "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/5daVnBVz3xKJCpNdGIbKxa"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232727,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/6hpR4wi9DNXQNSdp63RiiL"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 189545,
+      "name": "Who Do I Turn To?",
+      "url": "https://open.spotify.com/track/2yzQE6ilaBZVO45UpdRQyK"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life (Deluxe)",
+        "url": "https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166649,
+      "name": "Wild Enough",
+      "url": "https://open.spotify.com/track/3nq6KWRl5C0aedpJTYbKWV"
+    },
+    {
+      "album": {
+        "name": "Proof Of Life",
+        "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        },
+        {
+          "name": "Manchester Orchestra",
+          "url": "https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230744,
+      "name": "You At The Table (with Manchester Orchestra)",
+      "url": "https://open.spotify.com/track/1I5XT1jCeaxVJXJ4mQ9INX"
+    },
+    {
+      "album": {
+        "name": "in defense of my own happiness (the beginnings)",
+        "url": "https://open.spotify.com/album/376qFRUbcROL5XR8jdFzg4"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "younger days",
+      "url": "https://open.spotify.com/track/2agvjfJOq8U16b5IOjH1YC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pbj8d"
 }

@@ -1,13 +1,29 @@
 {
   "description": "Relax and take it slow today",
-  "num_followers": 78656,
+  "num_followers": 78779,
   "original_name": "Take it Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2QxZWM5NWI4YWQwOWE0OTk0NjljZTg1OTA5ODExOGQyZDJhYTY0",
+  "snapshot_id": "MCxkMTM5ZGYyMWM5OGQyYjdkNWI3ZWNmNGYyMDEwZmU5YTY1MDEzNDU5",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "7:40",
+        "url": "https://open.spotify.com/album/3fC02Gt50dEhWrBtV3ESnC"
+      },
+      "artists": [
+        {
+          "name": "Maria Aragon",
+          "url": "https://open.spotify.com/artist/2aiQfmxcWSx7RrqSVbhiFX"
+        }
+      ],
+      "duration_ms": 179124,
+      "name": "7:40",
+      "url": "https://open.spotify.com/track/5zkyyfHR18x8flUW3JixtX"
+    },
     {
       "added_at": "2023-08-25 04:01:00",
       "album": {
@@ -1595,22 +1611,6 @@
       "duration_ms": 219333,
       "name": "Far Too Good",
       "url": "https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj"
-    },
-    {
-      "added_at": "2021-04-19 17:11:28",
-      "album": {
-        "name": "Puxico",
-        "url": "https://open.spotify.com/album/24wTPEb0rJiR9RdVBv9EQA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
-        }
-      ],
-      "duration_ms": 179306,
-      "name": "Cairo, IL",
-      "url": "https://open.spotify.com/track/36S4cmtCiqFx3ywMpfSBDT"
     },
     {
       "added_at": "2021-04-19 17:11:28",

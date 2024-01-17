@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-374 songs - 1 day 10 hr 39 min
+375 songs - 1 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Kami](https://open.spotify.com/track/6ZbJmCC26Y3968mSLS2VNc) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/3h8TA79sGuevEV4PZzQRkz) | 5:15 | 2022-09-30 | 2022-11-16 |
 | [KayCee](https://open.spotify.com/track/1kaVJgf1xCcoDHYGqa1vZv) | [Nico Pusch](https://open.spotify.com/artist/6mbgZyWRlDKMVMALyV28sl) | [KayCee](https://open.spotify.com/album/1QtaRf7p4nPjhke9wFZORf) | 5:42 | 2021-11-26 | 2022-03-23 |
 | [Keep It Away](https://open.spotify.com/track/2wjDWSYtQUF4BiHmqS9ka6) | [Kaempe](https://open.spotify.com/artist/47PU6fKivO2k8QkZXTI4Sk), [Latteo](https://open.spotify.com/artist/4IQLm7ZNKGlw7AaV7okjKv) | [Keep It Away](https://open.spotify.com/album/5vpgVxoFm2Jzw8NKhe6pUh) | 5:34 | 2023-04-05 | 2023-04-29 |
-| [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 | 2021-11-26 |  |
+| [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 | 2021-11-26 | 2024-01-04 |
 | [Korrelate](https://open.spotify.com/track/0qmuy4k8kApluZHCv5E7hl) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [15 Years Stil vor Talent, Part 1](https://open.spotify.com/album/4W9nMMfxhYdKpIswm5cAay) | 6:25 | 2021-11-26 | 2022-06-25 |
 | [Kyiv](https://open.spotify.com/track/34MwXjVPRNc6Dap8xBnmXD) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Kyiv](https://open.spotify.com/album/7xsXpmHmW9uZRSlHyyl27u) | 4:16 | 2022-04-04 | 2022-04-20 |
 | [La Perla \- Tourist Remix](https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [La Perla \(Tourist Remix\)](https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor) | 5:17 | 2021-11-26 |  |
@@ -188,6 +188,7 @@
 | [Lei](https://open.spotify.com/track/18PSybAifQoAseXYxLa1Xn) | [Mastrovita](https://open.spotify.com/artist/4XU8dozOz0okhDgr9Fq3eN) | [Lei / Anima](https://open.spotify.com/album/3Z3vT3dadtyemBIbnz21yK) | 3:06 | 2021-11-26 | 2022-06-18 |
 | [Les Gout](https://open.spotify.com/track/0ko0sZ5hNieT3LRq2lOGl3) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Les Gout](https://open.spotify.com/album/6zBJ3YyqKZTRTRudbhCpeV) | 5:44 | 2022-09-30 |  |
 | [Let Me Out](https://open.spotify.com/track/67qAVjzBUVVs8RALR2AQ3K) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Diana Miro](https://open.spotify.com/artist/7HKB2dr6EceAJM8xRlXYlK) | [Let Me Out](https://open.spotify.com/album/2wjZRBDyv6WtFUjfzK65wn) | 5:13 | 2023-11-14 |  |
+| [Letting Go](https://open.spotify.com/track/0MNM0hmteyINSvRtUIURTM) | [Evelynka](https://open.spotify.com/artist/2GfOeShdTYQziYC2HjP8PN) | [Letting Go](https://open.spotify.com/album/6gqSSAAFz9rzYgyTGjFdSD) | 4:16 | 2023-11-14 |  |
 | [Like A Friend \- Radio Edit](https://open.spotify.com/track/4fI461wHCNlAX7pNIhnSys) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Like A Friend](https://open.spotify.com/album/7AdBvQZPfDBAbwbXXcOxpe) | 3:22 | 2022-01-14 | 2023-11-16 |
 | [Like My Way](https://open.spotify.com/track/4iELCZDu8BTCgP0MWNLQ9u) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [You've Got the Whole Night to Go](https://open.spotify.com/album/5xp8nj4Uji2Kr1nkm3CLFC) | 4:13 | 2022-04-04 | 2022-04-18 |
 | [Linda](https://open.spotify.com/track/5crNzoEWl4aXE9NR3b4y8Y) | [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Linda](https://open.spotify.com/album/3UZE1UZDlJGZjjNc381wds) | 7:57 | 2022-04-04 | 2022-04-21 |

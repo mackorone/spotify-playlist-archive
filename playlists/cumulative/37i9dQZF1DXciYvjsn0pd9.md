@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:00CMSJdbf36zOzKB3z8JrR">Victor Cardenas</a>'s favorite tracks\. Updated regularly\. Curated by Victor Cardenas\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-95 songs - 5 hr 47 min
+96 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,8 +12,9 @@
 | [305](https://open.spotify.com/track/4a6WhZfqxLyV0Cd6EwLspC) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Happy Face](https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR), [MelyMel](https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y) | [305](https://open.spotify.com/album/1al69Guh5GCnfuuFxTpZXa) | 4:03 | 2023-01-09 |  |
 | [Aferrado](https://open.spotify.com/track/4ZemwkxPJB7CSWLe4WuuU0) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Nico Parga](https://open.spotify.com/artist/1ah3rkTMCdKDGtshxvCUyo), [Emicoco](https://open.spotify.com/artist/28IjGGOO54zidNdVTmEvAK) | [Aferrado](https://open.spotify.com/album/3IcHEAMGDDh4lSvd32z8rH) | 6:52 | 2022-06-30 |  |
 | [Amor en la Playa](https://open.spotify.com/track/4OHNBsIbM33o4BfDh29o1s) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/4vqGhRDHwCslPAP983rk78) | 3:54 | 2023-01-09 | 2023-12-25 |
+| [Amor en la Playa](https://open.spotify.com/track/70K9VzlfzCcCutjPZhmS7Y) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/0klkDdlN67eRBIoJEUfRh9) | 3:54 | 2023-01-09 |  |
 | [Amor en la Playa](https://open.spotify.com/track/7AGyPaTqoFSExT0YAybdgV) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/0I3VQaK9LSkAdI4l73cHpe) | 3:54 | 2022-06-30 | 2023-07-25 |
-| [Amor en la Playa](https://open.spotify.com/track/7po18yftlR0AgXUq2QxNTk) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/6Dd7ia5yM9pOKvfqPFnb5p) | 3:54 | 2023-01-09 |  |
+| [Amor en la Playa](https://open.spotify.com/track/7po18yftlR0AgXUq2QxNTk) | [Dr\. Stev](https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf), [Erika Perdomo](https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf) | [Amor en la Playa](https://open.spotify.com/album/6Dd7ia5yM9pOKvfqPFnb5p) | 3:54 | 2023-01-09 | 2024-01-13 |
 | [Amores \(feat\. Valka\)](https://open.spotify.com/track/5dDcVdAwFxaqeXrcITfIcX) | [Samanta Duque](https://open.spotify.com/artist/0tZfsqImQ4jKbuMYIj8rpl), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Amores \(feat\. Valka\)](https://open.spotify.com/album/6tMyBFl7iVXxKXKTj2xKQW) | 3:06 | 2022-06-30 |  |
 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 | 2022-06-30 |  |
 | [Beats Knockin \(feat\. Fly Boi Keno\)](https://open.spotify.com/track/4gwF1NiLbZl2uKJDS3AX9O) | [Jack Ü](https://open.spotify.com/artist/1HxJeLhIuegM3KgvPn8sTa), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Fly Boi Keno](https://open.spotify.com/artist/4abEgIF5hnsotmbZleI4Du) | [Skrillex and Diplo present Jack Ü](https://open.spotify.com/album/6bfkwBrGYKJFk6Z4QVyjxd) | 2:53 | 2022-06-30 |  |

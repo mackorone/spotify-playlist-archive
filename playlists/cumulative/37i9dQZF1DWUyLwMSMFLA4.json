@@ -600,7 +600,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 130403,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU"
@@ -854,6 +854,28 @@
       "duration_ms": 184893,
       "name": "Fuiste",
       "url": "https://open.spotify.com/track/4fLd1pIpGwV4IEbQNyQMLh"
+    },
+    {
+      "album": {
+        "name": "HOLA PERDIDA",
+        "url": "https://open.spotify.com/album/1CoW3JLanCH9BjdttRNjIl"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/10eRgZUM59q2G5ogpztSeL"
     },
     {
       "album": {
@@ -2019,6 +2041,28 @@
     },
     {
       "album": {
+        "name": "Por Dios Que No",
+        "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168189,
+      "name": "Por Dios Que No",
+      "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
+    },
+    {
+      "album": {
         "name": "Sa, Za...Sabor",
         "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
       },
@@ -2414,7 +2458,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 185091,
       "name": "Sobreviviendo",
       "url": "https://open.spotify.com/track/2ca7BrKnsQd0iSSkEI9CFY"

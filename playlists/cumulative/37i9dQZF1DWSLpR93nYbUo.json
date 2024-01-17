@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Night Owls",
+        "url": "https://open.spotify.com/album/5k7SXzPDoAw8y9sbAiJtP2"
+      },
+      "artists": [
+        {
+          "name": "Leandro Da Silva",
+          "url": "https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "Night Owls",
+      "url": "https://open.spotify.com/track/4anGNCfSIlqVgBGxcgKNNK"
+    },
+    {
+      "album": {
         "name": "No More",
         "url": "https://open.spotify.com/album/1ds0Q6TijhktHgKsLVAUEL"
       },

@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "Ahora Que No Te Tengo",
+        "url": "https://open.spotify.com/album/62AI6DFXsSSVWV5l0ZBOVl"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        },
+        {
+          "name": "FMK",
+          "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155843,
+      "name": "Ahora Que No Te Tengo",
+      "url": "https://open.spotify.com/track/59FrYnRQIPpCtnJ7LOxx49"
+    },
+    {
+      "album": {
         "name": "BM | DJ TAO Turreo Sessions #17",
         "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
@@ -122,10 +144,32 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 68560,
       "name": "Carta Al Coraz\u00f3n",
       "url": "https://open.spotify.com/track/32Fd3j4mqUBJ3w2LGMTmNK"
+    },
+    {
+      "album": {
+        "name": "SEROTONINA (DELUXE)",
+        "url": "https://open.spotify.com/album/77PfUu2wLVGjkkJ6uxL8vY"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211127,
+      "name": "COMO YO TE QUIERO (DELUXE)",
+      "url": "https://open.spotify.com/track/0scExGzOWnDaq2ExI3HRQx"
     },
     {
       "album": {
@@ -144,6 +188,28 @@
       "duration_ms": 266760,
       "name": "Con la Misma Moneda",
       "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "album": {
+        "name": "Confiesalo",
+        "url": "https://open.spotify.com/album/4bLYAYzf1bXE1fxGGnuDfe"
+      },
+      "artists": [
+        {
+          "name": "Jackita",
+          "url": "https://open.spotify.com/artist/4QPzOa9mWjgUVvy9ObVGo8"
+        },
+        {
+          "name": "Henry El Mismo y La Fusion",
+          "url": "https://open.spotify.com/artist/3zMSUpRuMgms8SBD2ujk8p"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171625,
+      "name": "Confiesalo",
+      "url": "https://open.spotify.com/track/0hELSYmn4kNUmZXoWvhaR2"
     },
     {
       "album": {
@@ -548,7 +614,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 207760,
       "name": "Muchacha Sola",
       "url": "https://open.spotify.com/track/2aJTAFg1QZ4o7ftICW3Zcu"
@@ -624,7 +690,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 214920,
       "name": "Noche De Estrellas",
       "url": "https://open.spotify.com/track/5Cbwmcp3bFIM9u5QDlrviR"
@@ -672,6 +738,28 @@
       "duration_ms": 202342,
       "name": "Otro D\u00eda M\u00e1s",
       "url": "https://open.spotify.com/track/0ccUrj1mliFnR8R8VxCmKO"
+    },
+    {
+      "album": {
+        "name": "Por Dios Que No",
+        "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168189,
+      "name": "Por Dios Que No",
+      "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
     },
     {
       "album": {
@@ -824,7 +912,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 143813,
       "name": "Te Perdon\u00e9 Tantas Veces",
       "url": "https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16"

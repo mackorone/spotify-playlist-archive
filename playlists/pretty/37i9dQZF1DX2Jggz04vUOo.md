@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 
 > <a href="spotify:artist:3iT6d90Vy630068736OgW8">Foxall</a>'s favorite tracks\. Updated regularly\. Curated by Foxall\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,663 likes - 70 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,997 likes - 70 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Jggz04vUOo.md) - [plain]
 | 43 | [Pire](https://open.spotify.com/track/7qZ5is8K4lCoyFPeUcOK8C) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT) | [Pire](https://open.spotify.com/album/25UC82lB2kSaJIacwHkafb) | 7:43 |
 | 44 | [Den Minsta Av Segrar \(Crussen Rework\)](https://open.spotify.com/track/264CKaSa289MXeBkLfvMZi) | [Crussen](https://open.spotify.com/artist/79OTUKSZMGMmmR32RWG2ig), [1900](https://open.spotify.com/artist/4mUmj1CkLfQkngLUuXsM7D) | [Den Minsta Av Segrar \(Crussen Rework\)](https://open.spotify.com/album/23nuTUL7RfoLeQPvrxsWXE) | 5:25 |
 | 45 | [The Lambert Reinterpretation](https://open.spotify.com/track/3KbNkAfxsv9ZcfZLSjv3FH) | [Crussen](https://open.spotify.com/artist/79OTUKSZMGMmmR32RWG2ig), [Lambert](https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK) | [Breakfast in the Hut](https://open.spotify.com/album/0S7AgQAIqLBwcScR4JE2Gq) | 5:49 |
-| 46 | [El Pelo De Oro](https://open.spotify.com/track/6QCXyaMzQNMdS8W7CFEsW7) | [J G B](https://open.spotify.com/artist/27FeHe23RpMUBcll7ABPD1) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 4:55 |
+| 46 | [El Pelo De Oro](https://open.spotify.com/track/6QCXyaMzQNMdS8W7CFEsW7) | [J g b](https://open.spotify.com/artist/4WspJWVtgRgOU0FxfFsTGb) | [Urban Cosmonaut Reveries](https://open.spotify.com/album/5j6v7TGXqQnxAo5njwHXUd) | 4:55 |
 | 47 | [Cabras no Elevado Quilombola](https://open.spotify.com/track/3cSdiaevRvnmpiD6Z556GB) | [R Vincenzo](https://open.spotify.com/artist/60s8SE3Mr3oRVBOrLgi4vT) | [EP](https://open.spotify.com/album/0UeipqzhRd8Vvu94cTx7E5) | 7:10 |
 | 48 | [Alabora \- Foxall Pale Blue Remix](https://open.spotify.com/track/3VrcaX1j7kSZpcE55vigoZ) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo), [Foxall](https://open.spotify.com/artist/3iT6d90Vy630068736OgW8) | [Alabora \(Foxall Pale Blue Remix\)](https://open.spotify.com/album/2R2n2rPaFTtO7mt8fXvbBH) | 7:50 |
 | 49 | [Lommer \- Pablo Bolivar Remix](https://open.spotify.com/track/4kQ8zdvQQ4fjyy5eYekALj) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Old Friends](https://open.spotify.com/album/3pBIw5dSdAnih7fvKCk3pF) | 8:49 |

@@ -744,7 +744,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 238933,
       "name": "Another Round",
       "url": "https://open.spotify.com/track/14x0olxuhl7Q2e5Fx3lEYN"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 231400,
       "name": "April Fooled Me",
       "url": "https://open.spotify.com/track/4Lfn9B6tlGER7NVIHinhfX"
@@ -1674,7 +1674,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 246677,
       "name": "Brighter Sun",
       "url": "https://open.spotify.com/track/0XxabEZXVU40LCFIieeLvJ"
@@ -5825,6 +5825,24 @@
     },
     {
       "album": {
+        "name": "I've Seen That Face Before (Libertango)",
+        "url": "https://open.spotify.com/album/3oGgc8Wx9GDWbfikSmSndi"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298680,
+      "name": "I've Seen That Face Before (Libertango)",
+      "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
+    },
+    {
+      "album": {
         "name": "As Time Goes By",
         "url": "https://open.spotify.com/album/0qshBfZ7c1fQLjr8fIAROW"
       },
@@ -8227,6 +8245,24 @@
     },
     {
       "album": {
+        "name": "Moonlight Saving Time",
+        "url": "https://open.spotify.com/album/7iaBrbkEsbv9OKNCzgxvai"
+      },
+      "artists": [
+        {
+          "name": "Kelly Green",
+          "url": "https://open.spotify.com/artist/6MGNhzLevHtkeVTcwNpTmZ"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228177,
+      "name": "Moonlight Saving Time",
+      "url": "https://open.spotify.com/track/0PTJWngEh1q5CXeNUduXjU"
+    },
+    {
+      "album": {
         "name": "Morning Coffee",
         "url": "https://open.spotify.com/album/3DG4FpCeVGZQDtQNw1kQqc"
       },
@@ -9342,7 +9378,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 330240,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
@@ -10078,6 +10114,24 @@
       "duration_ms": 397453,
       "name": "Seahorse Tranquilizer",
       "url": "https://open.spotify.com/track/6Wsm9HgQEyFs6BR8ABa7eA"
+    },
+    {
+      "album": {
+        "name": "Seconds and Circles",
+        "url": "https://open.spotify.com/album/7k4psYXqD38YZviHC2Yyqm"
+      },
+      "artists": [
+        {
+          "name": "Connie Lansberg",
+          "url": "https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223624,
+      "name": "Seconds and Circles",
+      "url": "https://open.spotify.com/track/7zYGm9rxgXGenwz0tQvT2s"
     },
     {
       "album": {
@@ -14276,6 +14330,28 @@
       "duration_ms": 239413,
       "name": "You're Nobody 'Til Somebody Loves You",
       "url": "https://open.spotify.com/track/1pKtdSATJygLf7dVWSqS62"
+    },
+    {
+      "album": {
+        "name": "You're the Top",
+        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248087,
+      "name": "You're the Top",
+      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
     },
     {
       "album": {

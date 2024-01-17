@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 
 > Soft instrumental Blues for any activity.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,472 likes - 76 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,900 likes - 76 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,6 +83,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7b1e7B17gg7.md) - [plain]
 | 73 | [Sunflower River Blues \- Re\-Recorded Version](https://open.spotify.com/track/6CePeHbXmgwna8B5dC6xKV) | [John Fahey](https://open.spotify.com/artist/4js8BDiQwnHLlDmT1shPH7) | [Death Chants, Breakdowns And Military Waltzes](https://open.spotify.com/album/05HGeZ7JSfwJiOpaToYzUu) | 3:20 |
 | 74 | [5th Position Plea](https://open.spotify.com/track/3u6pVUAt82LMApfue9DnNn) | [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH), [Junior Watson](https://open.spotify.com/artist/3GKQjnbn10eiRdADeCZjYC), [Fred Kaplan](https://open.spotify.com/artist/5wC9sb6NlppKOXNs2XYzcL) | [Taboo](https://open.spotify.com/album/7fTpxRyO1CkFPok1b4YCfS) | 5:04 |
 | 75 | [Blues 'Fore Dawn \- Instrumental](https://open.spotify.com/track/3zVx7964ROy15h1lC7fhzD) | [Jimmy Thackery](https://open.spotify.com/artist/22I2nRL3Avazb5FfXhmyDQ) | [Guitar](https://open.spotify.com/album/1k1BDnn6ynbeFG5ts58NRI) | 4:54 |
-| 76 | [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 |
+| 76 | [The Prowler](https://open.spotify.com/track/0FNTkAob9g8XsdsrbWDiYc) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/31HD5QjsENI878ZVrGFt12) | 6:23 |
 
 Snapshot ID: `MCwzODQyNGYzYTFiNmFmZjFlNGU1NjNjNzczZTZjOTk2N2U0NDQ0OTRm`

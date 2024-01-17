@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Fossils, Vol. 1",
+        "url": "https://open.spotify.com/album/4LK7A9a8z4UFHAL5MNpPdb"
+      },
+      "artists": [
+        {
+          "name": "Rupam Islam",
+          "url": "https://open.spotify.com/artist/1pRruDTNcEFpBPvpFZU76o"
+        },
+        {
+          "name": "Fossils",
+          "url": "https://open.spotify.com/artist/3sLXzn7CKmzQ3r2pnYfzAo"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404245,
+      "name": "Aaro Ekbar",
+      "url": "https://open.spotify.com/track/0OM0yZX9mjzK1FuKraQWvU"
+    },
+    {
+      "album": {
         "name": "Nights in Shining Karma",
         "url": "https://open.spotify.com/album/7Hg5bidAjLakmk9T86sNvo"
       },
@@ -52,7 +74,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 404245,
       "name": "Aro Ekbar",
       "url": "https://open.spotify.com/track/1cUq9SX7nQL1u0kKyhT7lX"

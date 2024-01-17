@@ -303,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Best Day of my life",
+        "url": "https://open.spotify.com/album/6EIR0cybgt68aCZtVDoMlr"
+      },
+      "artists": [
+        {
+          "name": "Altozano",
+          "url": "https://open.spotify.com/artist/45abbsTxbatVK1zPypX2kt"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136391,
+      "name": "Best Day of my life",
+      "url": "https://open.spotify.com/track/4wtrK6RBsunXTxiKJqg1y8"
+    },
+    {
+      "album": {
         "name": "Big Girls Don't Cry (Bossanova)",
         "url": "https://open.spotify.com/album/5aEbSlv30UgTywehDuQ2vL"
       },
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 260355,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/0iWxNXbC8UDuNHUjiLgR1t"
@@ -4360,7 +4378,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 260355,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/2YeJSReOgLqnx0tex1RhEw"

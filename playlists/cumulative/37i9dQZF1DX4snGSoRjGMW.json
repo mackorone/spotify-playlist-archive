@@ -100,7 +100,7 @@
     {
       "album": {
         "name": "Betcha Didn't Know",
-        "url": "https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI"
+        "url": "https://open.spotify.com/album/0GahKnjx2DsUw3ZN2mdinA"
       },
       "artists": [
         {
@@ -111,6 +111,24 @@
       "date_added": "2020-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 257372,
+      "name": "Betcha Didn't Know",
+      "url": "https://open.spotify.com/track/0lQ5vJJhJWjxpvoilbq137"
+    },
+    {
+      "album": {
+        "name": "Betcha Didn't Know",
+        "url": "https://open.spotify.com/album/3m8b3Hgnjzn9r19PmXenfI"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sam McClain",
+          "url": "https://open.spotify.com/artist/71sDMpcZzbN4kDKnYoGT1W"
+        }
+      ],
+      "date_added": "2020-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 257372,
       "name": "Betcha Didn't Know",
       "url": "https://open.spotify.com/track/2sXl847DWvw9guoTrHpdSL"

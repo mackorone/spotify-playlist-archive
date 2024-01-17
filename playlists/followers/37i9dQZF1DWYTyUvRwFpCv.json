@@ -1,716 +1,1083 @@
 {
-  "2022-01-13": 46638,
-  "2022-01-14": 46774,
-  "2022-01-15": 47003,
-  "2022-01-16": 47016,
-  "2022-01-17": 47283,
-  "2022-01-18": 47296,
-  "2022-01-19": 47373,
-  "2022-01-20": 47474,
-  "2022-01-21": 47597,
-  "2022-01-22": 47704,
-  "2022-01-23": 47811,
-  "2022-01-24": 47933,
-  "2022-01-25": 48033,
-  "2022-01-26": 48152,
-  "2022-01-27": 48279,
-  "2022-01-28": 48392,
-  "2022-01-29": 48509,
-  "2022-01-30": 48614,
-  "2022-01-31": 48729,
-  "2022-02-01": 48825,
-  "2022-02-02": 48947,
-  "2022-02-03": 49046,
-  "2022-02-04": 49124,
-  "2022-02-05": 49229,
-  "2022-02-06": 49344,
-  "2022-02-07": 49452,
-  "2022-02-08": 49573,
-  "2022-02-09": 49661,
-  "2022-02-10": 49763,
-  "2022-02-11": 49859,
-  "2022-02-12": 49957,
-  "2022-02-13": 50054,
-  "2022-02-14": 50151,
-  "2022-02-15": 50230,
-  "2022-02-16": 50307,
-  "2022-02-17": 50406,
-  "2022-02-18": 50580,
-  "2022-02-19": 50745,
-  "2022-02-20": 50938,
-  "2022-02-21": 51086,
-  "2022-02-22": 51225,
-  "2022-02-23": 51361,
-  "2022-02-24": 51529,
-  "2022-02-25": 51652,
-  "2022-02-26": 51807,
-  "2022-02-27": 52105,
-  "2022-02-28": 52105,
-  "2022-03-01": 52206,
-  "2022-03-02": 52323,
-  "2022-03-03": 52446,
-  "2022-03-04": 52587,
-  "2022-03-05": 52681,
-  "2022-03-06": 52803,
-  "2022-03-07": 52905,
-  "2022-03-08": 52986,
-  "2022-03-09": 53079,
-  "2022-03-10": 53201,
-  "2022-03-11": 53312,
-  "2022-03-12": 53409,
-  "2022-03-13": 53523,
-  "2022-03-14": 53640,
-  "2022-03-15": 53726,
-  "2022-03-16": 53821,
-  "2022-03-17": 53932,
-  "2022-03-18": 54085,
-  "2022-03-19": 54157,
-  "2022-03-20": 54157,
-  "2022-03-21": 54413,
-  "2022-03-22": 54474,
-  "2022-03-23": 54570,
-  "2022-03-24": 54670,
-  "2022-03-25": 54748,
-  "2022-03-26": 54817,
-  "2022-03-27": 54902,
-  "2022-03-28": 55010,
-  "2022-03-30": 55148,
-  "2022-03-31": 55231,
-  "2022-04-01": 55321,
-  "2022-04-02": 55429,
-  "2022-04-03": 55575,
-  "2022-04-04": 55691,
-  "2022-04-05": 55795,
-  "2022-04-06": 55879,
-  "2022-04-07": 55982,
-  "2022-04-08": 56111,
-  "2022-04-09": 56208,
-  "2022-04-10": 56454,
-  "2022-04-11": 56567,
-  "2022-04-12": 56581,
-  "2022-04-13": 56648,
-  "2022-04-14": 56753,
-  "2022-04-15": 56859,
-  "2022-04-16": 56976,
-  "2022-04-17": 57099,
-  "2022-04-18": 57237,
-  "2022-04-19": 57307,
-  "2022-04-20": 57420,
-  "2022-04-21": 57528,
-  "2022-04-22": 57646,
-  "2022-04-23": 57747,
-  "2022-04-24": 57882,
-  "2022-04-25": 58005,
-  "2022-04-26": 58078,
-  "2022-04-27": 58199,
-  "2022-04-28": 58285,
-  "2022-04-29": 58426,
-  "2022-04-30": 58554,
-  "2022-05-01": 58693,
-  "2022-05-02": 58693,
-  "2022-05-03": 58801,
-  "2022-05-04": 58905,
-  "2022-05-05": 58996,
-  "2022-05-06": 59107,
-  "2022-05-07": 59240,
-  "2022-05-08": 59421,
-  "2022-05-09": 59448,
-  "2022-05-10": 59527,
-  "2022-05-11": 59605,
-  "2022-05-12": 59678,
-  "2022-05-13": 59757,
-  "2022-05-14": 59849,
-  "2022-05-15": 59957,
-  "2022-05-16": 60043,
-  "2022-05-17": 60104,
-  "2022-05-18": 60184,
-  "2022-05-19": 60273,
-  "2022-05-20": 60390,
-  "2022-05-21": 60535,
-  "2022-05-22": 60535,
-  "2022-05-23": 60617,
-  "2022-05-24": 60690,
-  "2022-05-25": 60757,
-  "2022-05-26": 60846,
-  "2022-05-27": 60921,
-  "2022-05-28": 61005,
-  "2022-05-29": 61113,
-  "2022-05-30": 61197,
-  "2022-05-31": 61266,
-  "2022-06-01": 61385,
-  "2022-06-02": 61403,
-  "2022-06-03": 61482,
-  "2022-06-04": 61550,
-  "2022-06-05": 61628,
-  "2022-06-06": 61716,
-  "2022-06-07": 61784,
-  "2022-06-08": 61880,
-  "2022-06-09": 61945,
-  "2022-06-10": 62031,
-  "2022-06-11": 62100,
-  "2022-06-12": 62189,
-  "2022-06-13": 62248,
-  "2022-06-14": 62308,
-  "2022-06-15": 62379,
-  "2022-06-16": 62444,
-  "2022-06-17": 62504,
-  "2022-06-18": 62581,
-  "2022-06-19": 62729,
-  "2022-06-20": 62729,
-  "2022-06-21": 62791,
-  "2022-06-22": 62924,
-  "2022-06-23": 62924,
-  "2022-06-24": 63009,
-  "2022-06-25": 63073,
-  "2022-06-26": 63146,
-  "2022-06-27": 63220,
-  "2022-06-28": 63285,
-  "2022-06-29": 63356,
-  "2022-06-30": 63429,
-  "2022-07-01": 63508,
-  "2022-07-02": 63618,
-  "2022-07-03": 63727,
-  "2022-07-04": 63820,
-  "2022-07-05": 63882,
-  "2022-07-06": 63938,
-  "2022-07-07": 64008,
-  "2022-07-08": 64089,
-  "2022-07-09": 64176,
-  "2022-07-10": 64256,
-  "2022-07-11": 64331,
-  "2022-07-12": 64397,
-  "2022-07-13": 64476,
-  "2022-07-14": 64568,
-  "2022-07-15": 64637,
-  "2022-07-16": 64717,
-  "2022-07-17": 64807,
-  "2022-07-18": 64864,
-  "2022-07-19": 64940,
-  "2022-07-20": 65018,
-  "2022-07-21": 65090,
-  "2022-07-22": 65149,
-  "2022-07-23": 65217,
-  "2022-07-24": 65304,
-  "2022-07-25": 65374,
-  "2022-07-26": 65452,
-  "2022-07-27": 65515,
-  "2022-07-28": 65588,
-  "2022-07-29": 65677,
-  "2022-07-30": 65896,
-  "2022-07-31": 65896,
-  "2022-08-01": 65974,
-  "2022-08-02": 66150,
-  "2022-08-03": 66150,
-  "2022-08-04": 66253,
-  "2022-08-05": 66341,
-  "2022-08-06": 66440,
-  "2022-08-07": 66539,
-  "2022-08-08": 66645,
-  "2022-08-09": 66733,
-  "2022-08-10": 66837,
-  "2022-08-11": 66925,
-  "2022-08-12": 67010,
-  "2022-08-13": 67085,
-  "2022-08-14": 67172,
-  "2022-08-15": 67266,
-  "2022-08-16": 67341,
-  "2022-08-17": 67419,
-  "2022-08-18": 67505,
-  "2022-08-19": 67597,
-  "2022-08-20": 67691,
-  "2022-08-21": 67789,
-  "2022-08-22": 67876,
-  "2022-08-23": 67955,
-  "2022-08-24": 68019,
-  "2022-08-25": 68080,
-  "2022-08-26": 68157,
-  "2022-08-27": 68263,
-  "2022-08-28": 68404,
-  "2022-08-29": 68480,
-  "2022-08-30": 68546,
-  "2022-08-31": 68621,
-  "2022-09-01": 68673,
-  "2022-09-02": 68758,
-  "2022-09-03": 68862,
-  "2022-09-04": 68982,
-  "2022-09-05": 69060,
-  "2022-09-06": 69123,
-  "2022-09-07": 69187,
-  "2022-09-09": 69346,
-  "2022-09-10": 69424,
-  "2022-09-11": 69527,
-  "2022-09-12": 69613,
-  "2022-09-13": 69692,
-  "2022-09-15": 69848,
-  "2022-09-16": 69947,
-  "2022-09-17": 70039,
-  "2022-09-18": 70151,
-  "2022-09-19": 70240,
-  "2022-09-20": 70320,
-  "2022-09-21": 70388,
-  "2022-09-22": 70461,
-  "2022-09-23": 70545,
-  "2022-09-24": 70651,
-  "2022-09-25": 70742,
-  "2022-09-26": 70853,
-  "2022-09-27": 70942,
-  "2022-09-28": 71008,
-  "2022-09-29": 71084,
-  "2022-09-30": 71182,
-  "2022-10-01": 71291,
-  "2022-10-02": 71397,
-  "2022-10-03": 71497,
-  "2022-10-04": 71580,
-  "2022-10-05": 71685,
-  "2022-10-06": 71768,
-  "2022-10-07": 71855,
-  "2022-10-08": 71960,
-  "2022-10-09": 72164,
-  "2022-10-10": 72192,
-  "2022-10-11": 72271,
-  "2022-10-12": 72346,
-  "2022-10-13": 72427,
-  "2022-10-14": 72525,
-  "2022-10-15": 72634,
-  "2022-10-16": 72729,
-  "2022-10-17": 72825,
-  "2022-10-18": 72900,
-  "2022-10-19": 72982,
-  "2022-10-20": 73064,
-  "2022-10-21": 73153,
-  "2022-10-22": 73241,
-  "2022-10-23": 73343,
-  "2022-10-24": 73420,
-  "2022-10-25": 73503,
-  "2022-10-26": 73583,
-  "2022-10-27": 73670,
-  "2022-10-28": 73763,
-  "2022-10-29": 73851,
-  "2022-10-30": 73954,
-  "2022-10-31": 74055,
-  "2022-11-01": 74142,
-  "2022-11-02": 74224,
-  "2022-11-03": 74309,
-  "2022-11-04": 74428,
-  "2022-11-05": 74551,
-  "2022-11-06": 74687,
-  "2022-11-07": 74800,
-  "2022-11-08": 74907,
-  "2022-11-09": 75001,
-  "2022-11-10": 75106,
-  "2022-11-11": 75222,
-  "2022-11-12": 75372,
-  "2022-11-13": 75473,
-  "2022-11-14": 75607,
-  "2022-11-15": 75693,
-  "2022-11-16": 75778,
-  "2022-11-17": 75876,
-  "2022-11-18": 75908,
-  "2022-11-19": 75873,
-  "2022-11-20": 75907,
-  "2022-11-21": 76008,
-  "2022-11-22": 76238,
-  "2022-11-23": 76198,
-  "2022-11-24": 76382,
-  "2022-11-25": 76605,
-  "2022-11-26": 76776,
-  "2022-11-27": 76904,
-  "2022-11-28": 76997,
-  "2022-11-29": 77089,
-  "2022-11-30": 77168,
-  "2022-12-01": 77241,
-  "2022-12-02": 77324,
-  "2022-12-03": 77406,
-  "2022-12-04": 77510,
-  "2022-12-05": 77609,
-  "2022-12-06": 77672,
-  "2022-12-07": 77777,
-  "2022-12-08": 77882,
-  "2022-12-09": 78010,
-  "2022-12-10": 78162,
-  "2022-12-11": 78387,
-  "2022-12-12": 78583,
-  "2022-12-13": 78705,
-  "2022-12-14": 78827,
-  "2022-12-15": 78956,
-  "2022-12-16": 79085,
-  "2022-12-17": 79211,
-  "2022-12-18": 79373,
-  "2022-12-19": 79509,
-  "2022-12-20": 79753,
-  "2022-12-21": 79753,
-  "2022-12-22": 79885,
-  "2022-12-24": 80172,
-  "2022-12-25": 80332,
-  "2022-12-26": 80442,
-  "2022-12-27": 80563,
-  "2022-12-28": 80685,
-  "2022-12-29": 80814,
-  "2022-12-30": 80965,
-  "2022-12-31": 81145,
-  "2023-01-01": 81345,
-  "2023-01-02": 81496,
-  "2023-01-03": 81605,
-  "2023-01-04": 81720,
-  "2023-01-05": 81875,
-  "2023-01-06": 82063,
-  "2023-01-07": 82262,
-  "2023-01-08": 82318,
-  "2023-01-09": 82479,
-  "2023-01-10": 82586,
-  "2023-01-11": 82714,
-  "2023-01-12": 82855,
-  "2023-01-13": 83005,
-  "2023-01-14": 83226,
-  "2023-01-15": 83302,
-  "2023-01-16": 83443,
-  "2023-01-17": 83539,
-  "2023-01-18": 83652,
-  "2023-01-19": 83758,
-  "2023-01-20": 83917,
-  "2023-01-21": 84059,
-  "2023-01-22": 84220,
-  "2023-01-23": 84376,
-  "2023-01-24": 84503,
-  "2023-01-25": 84636,
-  "2023-01-26": 84773,
-  "2023-01-27": 84885,
-  "2023-01-28": 85058,
-  "2023-01-29": 85263,
-  "2023-01-30": 85434,
-  "2023-01-31": 85434,
-  "2023-02-01": 85768,
-  "2023-02-02": 85878,
-  "2023-02-03": 86044,
-  "2023-02-04": 86200,
-  "2023-02-05": 86392,
-  "2023-02-06": 86551,
-  "2023-02-07": 86695,
-  "2023-02-08": 86995,
-  "2023-02-09": 86995,
-  "2023-02-10": 87129,
-  "2023-02-11": 87274,
-  "2023-02-12": 87612,
-  "2023-02-13": 87744,
-  "2023-02-14": 87744,
-  "2023-02-15": 87868,
-  "2023-02-16": 88005,
-  "2023-02-17": 88145,
-  "2023-02-18": 88490,
-  "2023-02-19": 88542,
-  "2023-02-20": 88649,
-  "2023-02-21": 88765,
-  "2023-02-22": 88891,
-  "2023-02-23": 88987,
-  "2023-02-24": 89094,
-  "2023-02-25": 89297,
-  "2023-02-26": 89412,
-  "2023-02-27": 89647,
-  "2023-02-28": 89647,
-  "2023-03-01": 89731,
-  "2023-03-02": 89845,
-  "2023-03-03": 89959,
-  "2023-03-04": 90048,
-  "2023-03-05": 90308,
-  "2023-03-06": 90308,
-  "2023-03-07": 90417,
-  "2023-03-08": 90503,
-  "2023-03-09": 90594,
-  "2023-03-10": 90675,
-  "2023-03-11": 90770,
-  "2023-03-12": 90914,
-  "2023-03-13": 91060,
-  "2023-03-14": 91158,
-  "2023-03-15": 91230,
-  "2023-03-16": 91312,
-  "2023-03-17": 91312,
-  "2023-03-18": 91560,
-  "2023-03-19": 91718,
-  "2023-03-20": 91875,
-  "2023-03-21": 91999,
-  "2023-03-22": 92108,
-  "2023-03-23": 92234,
-  "2023-03-24": 92234,
-  "2023-03-25": 92456,
-  "2023-03-26": 92594,
-  "2023-03-27": 92709,
-  "2023-03-28": 92795,
-  "2023-03-29": 92952,
-  "2023-03-30": 93168,
-  "2023-03-31": 93168,
-  "2023-04-01": 93318,
-  "2023-04-02": 93517,
-  "2023-04-03": 93687,
-  "2023-04-04": 93810,
-  "2023-04-05": 93930,
-  "2023-04-06": 94098,
-  "2023-04-07": 94252,
-  "2023-04-09": 94531,
-  "2023-04-10": 94647,
-  "2023-04-11": 94836,
-  "2023-04-12": 94836,
-  "2023-04-13": 94943,
-  "2023-04-14": 95051,
-  "2023-04-15": 95195,
-  "2023-04-16": 95327,
-  "2023-04-17": 95440,
-  "2023-04-18": 95547,
-  "2023-04-19": 95627,
-  "2023-04-20": 95725,
-  "2023-04-21": 95845,
-  "2023-04-22": 95973,
-  "2023-04-23": 96114,
-  "2023-04-24": 96226,
-  "2023-04-25": 96322,
-  "2023-04-26": 96418,
-  "2023-04-27": 96527,
-  "2023-04-28": 96636,
-  "2023-04-29": 96751,
-  "2023-04-30": 96853,
-  "2023-05-01": 96955,
-  "2023-05-02": 97040,
-  "2023-05-03": 97133,
-  "2023-05-04": 97208,
-  "2023-05-05": 97307,
-  "2023-05-06": 97435,
-  "2023-05-07": 97565,
-  "2023-05-08": 97673,
-  "2023-05-09": 97765,
-  "2023-05-10": 97829,
-  "2023-05-11": 97934,
-  "2023-05-12": 98024,
-  "2023-05-13": 98125,
-  "2023-05-14": 98256,
-  "2023-05-15": 98351,
-  "2023-05-16": 98420,
-  "2023-05-17": 98501,
-  "2023-05-18": 98595,
-  "2023-05-19": 98717,
-  "2023-05-20": 98922,
-  "2023-05-21": 98922,
-  "2023-05-22": 98922,
-  "2023-05-23": 99090,
-  "2023-05-24": 99209,
-  "2023-05-25": 99234,
-  "2023-05-26": 99327,
-  "2023-05-27": 99424,
-  "2023-05-28": 99537,
-  "2023-05-29": 99537,
-  "2023-05-30": 99723,
-  "2023-05-31": 99800,
-  "2023-06-01": 99874,
-  "2023-06-02": 99942,
-  "2023-06-03": 100022,
-  "2023-06-04": 100124,
-  "2023-06-05": 100212,
-  "2023-06-06": 100299,
-  "2023-06-07": 100379,
-  "2023-06-08": 100444,
-  "2023-06-09": 100525,
-  "2023-06-10": 100607,
-  "2023-06-11": 100706,
-  "2023-06-12": 100814,
-  "2023-06-13": 100866,
-  "2023-06-14": 100939,
-  "2023-06-15": 101017,
-  "2023-06-16": 101110,
-  "2023-06-17": 101186,
-  "2023-06-18": 101284,
-  "2023-06-19": 101376,
-  "2023-06-20": 101454,
-  "2023-06-21": 101528,
-  "2023-06-22": 101587,
-  "2023-06-23": 101667,
-  "2023-06-24": 101759,
-  "2023-06-25": 101856,
-  "2023-06-26": 101941,
-  "2023-06-27": 102013,
-  "2023-06-28": 102105,
-  "2023-06-29": 102178,
-  "2023-06-30": 102232,
-  "2023-07-01": 102416,
-  "2023-07-02": 102416,
-  "2023-07-03": 102509,
-  "2023-07-04": 102593,
-  "2023-07-05": 102712,
-  "2023-07-06": 102870,
-  "2023-07-07": 102870,
-  "2023-07-08": 102954,
-  "2023-07-09": 103070,
-  "2023-07-10": 103170,
-  "2023-07-11": 103244,
-  "2023-07-12": 103318,
-  "2023-07-13": 103411,
-  "2023-07-14": 103507,
-  "2023-07-15": 103567,
-  "2023-07-16": 103668,
-  "2023-07-17": 103757,
-  "2023-07-18": 103817,
-  "2023-07-19": 103883,
-  "2023-07-20": 103949,
-  "2023-07-21": 104039,
-  "2023-07-22": 104128,
-  "2023-07-23": 104226,
-  "2023-07-24": 104315,
-  "2023-07-25": 104371,
-  "2023-07-26": 104437,
-  "2023-07-27": 104512,
-  "2023-07-28": 104587,
-  "2023-07-29": 104691,
-  "2023-07-30": 104784,
-  "2023-07-31": 104874,
-  "2023-08-01": 104943,
-  "2023-08-02": 105009,
-  "2023-08-03": 105094,
-  "2023-08-04": 105177,
-  "2023-08-05": 105283,
-  "2023-08-06": 105486,
-  "2023-08-07": 105486,
-  "2023-08-08": 105569,
-  "2023-08-09": 105636,
-  "2023-08-10": 105717,
-  "2023-08-11": 105832,
-  "2023-08-12": 105946,
-  "2023-08-13": 106046,
-  "2023-08-14": 106164,
-  "2023-08-15": 106332,
-  "2023-08-16": 106332,
-  "2023-08-17": 106419,
-  "2023-08-18": 106541,
-  "2023-08-19": 106649,
-  "2023-08-20": 106766,
-  "2023-08-21": 106870,
-  "2023-08-22": 106929,
-  "2023-08-23": 106999,
-  "2023-08-24": 107084,
-  "2023-08-25": 107161,
-  "2023-08-26": 107272,
-  "2023-08-27": 107373,
-  "2023-08-28": 107467,
-  "2023-08-29": 107520,
-  "2023-08-30": 107583,
-  "2023-08-31": 107659,
-  "2023-09-01": 107808,
-  "2023-09-02": 107808,
-  "2023-09-03": 107925,
-  "2023-09-04": 108011,
-  "2023-09-05": 108092,
-  "2023-09-06": 108164,
-  "2023-09-07": 108246,
-  "2023-09-08": 108315,
-  "2023-09-09": 108410,
-  "2023-09-10": 108500,
-  "2023-09-11": 108588,
-  "2023-09-12": 108669,
-  "2023-09-13": 108734,
-  "2023-09-14": 108783,
-  "2023-09-15": 108875,
-  "2023-09-16": 108940,
-  "2023-09-17": 109020,
-  "2023-09-18": 109082,
-  "2023-09-19": 109139,
-  "2023-09-20": 109206,
-  "2023-09-21": 109260,
-  "2023-09-22": 109309,
-  "2023-09-23": 109375,
-  "2023-09-24": 109449,
-  "2023-09-25": 109533,
-  "2023-09-26": 109605,
-  "2023-09-27": 109652,
-  "2023-09-28": 109714,
-  "2023-09-29": 109777,
-  "2023-09-30": 109838,
-  "2023-10-01": 109912,
-  "2023-10-02": 109985,
-  "2023-10-03": 110031,
-  "2023-10-04": 110090,
-  "2023-10-05": 110151,
-  "2023-10-06": 110218,
-  "2023-10-07": 110305,
-  "2023-10-08": 110391,
-  "2023-10-09": 110487,
-  "2023-10-10": 110551,
-  "2023-10-11": 110661,
-  "2023-10-12": 110661,
-  "2023-10-13": 110724,
-  "2023-10-14": 110796,
-  "2023-10-15": 110882,
-  "2023-10-16": 110962,
-  "2023-10-17": 111017,
-  "2023-10-18": 111069,
-  "2023-10-19": 111145,
-  "2023-10-20": 111199,
-  "2023-10-21": 111254,
-  "2023-10-22": 111321,
-  "2023-10-23": 111395,
-  "2023-10-24": 111451,
-  "2023-10-25": 111504,
-  "2023-10-26": 111554,
-  "2023-10-27": 111629,
-  "2023-10-28": 111698,
-  "2023-10-29": 111764,
-  "2023-10-30": 111882,
-  "2023-10-31": 111882,
-  "2023-11-01": 111932,
-  "2023-11-02": 111981,
-  "2023-11-03": 112044,
-  "2023-11-04": 112099,
-  "2023-11-05": 112161,
-  "2023-11-06": 112199,
-  "2023-11-07": 112249,
-  "2023-11-08": 112317,
-  "2023-11-09": 112370,
-  "2023-11-10": 112420,
-  "2023-11-11": 112467,
-  "2023-11-12": 112533,
-  "2023-11-13": 112612,
-  "2023-11-14": 112668,
-  "2023-11-15": 112668,
-  "2023-11-16": 112752,
-  "2023-11-17": 112832,
-  "2023-11-18": 112832,
-  "2023-11-19": 112878,
-  "2023-11-20": 112935,
-  "2023-11-21": 112975,
-  "2023-11-22": 113033,
-  "2023-11-23": 113100,
-  "2023-11-24": 113144,
-  "2023-11-25": 113178,
-  "2023-11-26": 113222,
-  "2023-11-27": 113265,
-  "2023-11-28": 113322,
-  "2023-11-29": 113414,
-  "2023-11-30": 113414,
-  "2023-12-01": 113458,
-  "2023-12-02": 113502,
-  "2023-12-03": 113552,
-  "2023-12-04": 113597,
-  "2023-12-05": 113645,
-  "2023-12-06": 113687,
-  "2023-12-07": 113762,
-  "2023-12-08": 113853,
-  "2023-12-09": 113960,
-  "2023-12-10": 114238,
-  "2023-12-11": 114405,
-  "2023-12-12": 114485,
-  "2023-12-13": 114564,
-  "2023-12-14": 114679,
-  "2023-12-15": 114741,
-  "2023-12-16": 114835,
-  "2023-12-17": 114900,
-  "2023-12-18": 114962,
-  "2023-12-19": 115017,
-  "2023-12-20": 115066,
-  "2023-12-21": 115119,
-  "2023-12-22": 115183,
-  "2023-12-23": 115269,
-  "2023-12-24": 115323,
-  "2023-12-25": 115405,
-  "2023-12-26": 115472,
-  "2023-12-27": 115537,
-  "2023-12-30": 115720,
-  "2023-12-31": 115787,
-  "2024-01-01": 115872,
-  "2024-01-02": 115960,
-  "2024-01-03": 115997
+  "2024-01-17": 116787,
+  "date_first_scraped": "2022-01-13",
+  "description": "Los grandes \u00e9xitos de Selena y Jenni en un mismo lugar.",
+  "name": "Dos \u00cdconos: Selena x Jenni Rivera",
+  "tracks": [
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8"
+    },
+    {
+      "album": {
+        "name": "Aparentemente Bien",
+        "url": "https://open.spotify.com/album/1932flu69zKoy3j2Qgz0P2"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257721,
+      "name": "Aparentemente Bien - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/2nHekPOutiUg9MiCp74NjH"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Baila Esta Cumbia",
+      "url": "https://open.spotify.com/track/6NARL6C1RLFN05rfeAvDeG"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Banda",
+        "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Basta Ya - Banda",
+      "url": "https://open.spotify.com/track/51CruNPLETPjo5BV5k2MYt"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219026,
+      "name": "Besos y Copas",
+      "url": "https://open.spotify.com/track/1ELj6KLkqtZ200I3R3Aplv"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/0RGtxX63R5YBrxJTZFtPU6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219026,
+      "name": "Besos Y Copas",
+      "url": "https://open.spotify.com/track/1Ph6FFrGY1CgXjwhQ3H38U"
+    },
+    {
+      "album": {
+        "name": "Besos y Copas Desde Hollywood (En Vivo)",
+        "url": "https://open.spotify.com/album/0RhEu6IcEPSdrW6GFzQipE"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Besos y Copas - En Vivo",
+      "url": "https://open.spotify.com/track/0fqFKDW0OUuuZSNaQjt8fp"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Alvaro Torres",
+          "url": "https://open.spotify.com/artist/7p5DVejD1eXP8GO6clYQlE"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284986,
+      "name": "Buenos Amigos",
+      "url": "https://open.spotify.com/track/4G4L9a5uT1avSixNbGGEHl"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/5CEm4zZF9bw06Z9jHSMELV"
+    },
+    {
+      "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        },
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260493,
+      "name": "Como Tu Mujer - Pop",
+      "url": "https://open.spotify.com/track/5im5eFZxOiXeUklQZXaqpR"
+    },
+    {
+      "album": {
+        "name": "Mis Primeros \u00c9xitos",
+        "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229306,
+      "name": "Costumbres",
+      "url": "https://open.spotify.com/track/4b7NywXvngCF1aB49IQLyC"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Cuando Muere una Dama",
+      "url": "https://open.spotify.com/track/2WDYkaIeWZOxdnp14Oa71G"
+    },
+    {
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212902,
+      "name": "Culpable o Inocente",
+      "url": "https://open.spotify.com/track/59AAuV11OFaL8VX98tLxYx"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233973,
+      "name": "Dame Un Beso",
+      "url": "https://open.spotify.com/track/0PSHdbCNLX0HTDgNojCSav"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314866,
+      "name": "Dreaming Of You",
+      "url": "https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208866,
+      "name": "El Chico Del Apartamento 512",
+      "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/47GzRDebzUiqjo2pxdl0vd"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281560,
+      "name": "I Could Fall In Love",
+      "url": "https://open.spotify.com/track/3ACQkIMv6nGYHRpPGyS4BK"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179320,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Jefa de Jefas",
+      "url": "https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233533,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/2JKwqmTIKneOIwZCd4seTh"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "La Carcacha",
+      "url": "https://open.spotify.com/track/0gnuZwgq63rIbQx2GZGbRY"
+    },
+    {
+      "album": {
+        "name": "La Chacalosa",
+        "url": "https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "La Chacalosa",
+      "url": "https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252440,
+      "name": "La Gran Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB"
+    },
+    {
+      "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "La Llamada - 1993 Version",
+      "url": "https://open.spotify.com/track/3LKORQbpEWTGrNRz3EX5VZ"
+    },
+    {
+      "album": {
+        "name": "Simplemente la Mejor",
+        "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177986,
+      "name": "Las Malandrinas",
+      "url": "https://open.spotify.com/track/4wtAL7gHDYlUlKarXla2hU"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "Mariposa de Barrio",
+      "url": "https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Loca",
+        "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211946,
+      "name": "Mi Vida Loca",
+      "url": "https://open.spotify.com/track/1B9pWWgEJEb5YD8h1xnAjq"
+    },
+    {
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Missing My Baby",
+      "url": "https://open.spotify.com/track/7qTljW3wfx3CM8oEQeB2cR"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "No Llega el Olvido",
+      "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/0RGtxX63R5YBrxJTZFtPU6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217400,
+      "name": "No Me Pregunten Por El",
+      "url": "https://open.spotify.com/track/14ZpjQxwh1PykMvaShgi8e"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220480,
+      "name": "No Me Pregunten por \u00c9l",
+      "url": "https://open.spotify.com/track/5Nj0RXNoIlEarYJPo6VWJR"
+    },
+    {
+      "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200840,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/1r28ZDlVxz24Rmy8Sq9REY"
+    },
+    {
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
+    },
+    {
+      "album": {
+        "name": "Paloma Negra (Live)",
+        "url": "https://open.spotify.com/album/3OS6PLSZWePt0jDDq35M8C"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189986,
+      "name": "Paloma Negra - Live",
+      "url": "https://open.spotify.com/track/7qeQeyEcYWISbz3DIHT1ke"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/78I27AxTxuvAEWRfQLfcma"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203133,
+      "name": "Por Que No Le Calas",
+      "url": "https://open.spotify.com/track/5iPUnVsuxuOsy6TNi3KnWx"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "Por Qu\u00e9 No Le Calas",
+      "url": "https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/4JckvbYfeoqro9OfNM87y5"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223400,
+      "name": "Por un Amor, Cucurrucuc\u00fa Paloma",
+      "url": "https://open.spotify.com/track/149YkaDRIByCYvyWU8WzKL"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215093,
+      "name": "Que Cre\u00edas",
+      "url": "https://open.spotify.com/track/3iRksarurtwIGBmlZtq99S"
+    },
+    {
+      "album": {
+        "name": "La Misma Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/0RGtxX63R5YBrxJTZFtPU6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193493,
+      "name": "Que Me Vas A Dar",
+      "url": "https://open.spotify.com/track/2cHEC6i3gFLcWb5RMmyEzu"
+    },
+    {
+      "album": {
+        "name": "Quisieran Tener Mi Lugar (Versi\u00f3n Sencillo)",
+        "url": "https://open.spotify.com/album/0kg1rb7cl4qpi5jidLc1aT"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177274,
+      "name": "Quisieran Tener Mi Lugar - Versi\u00f3n Sencillo",
+      "url": "https://open.spotify.com/track/768fXYUtL5UUDEC2UvOJTN"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195626,
+      "name": "Qu\u00e9 Me Vas a Dar",
+      "url": "https://open.spotify.com/track/1dqURLZC3n4EL6lPUF2DHx"
+    },
+    {
+      "album": {
+        "name": "Se las Voy a Dar a Otro",
+        "url": "https://open.spotify.com/album/2XGyVths5rK6LJEYO69Dum"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215038,
+      "name": "Se Las Voy a Dar a Otro",
+      "url": "https://open.spotify.com/track/43BemmCZRTcjYDnT7HqJWW"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "Si La Quieres",
+      "url": "https://open.spotify.com/track/35rQ37DZKFJ38whEQkygV9"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De\u2026",
+        "url": "https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167040,
+      "name": "Si Una Vez",
+      "url": "https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena y los Dinos",
+          "url": "https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Sukiyaki",
+      "url": "https://open.spotify.com/track/3m87egz5xtrrphsVjhkpSJ"
+    },
+    {
+      "album": {
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/4Djr1mj7dBvYElBFCLO6P6"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Techno Cumbia",
+      "url": "https://open.spotify.com/track/6M9FEVLhh9wQrsq2CUk6QR"
+    },
+    {
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191564,
+      "name": "T\u00fa, Solo T\u00fa",
+      "url": "https://open.spotify.com/track/29WGydilDyujOwFpi8Ivr1"
+    },
+    {
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "T\u00fa, Solo T\u00fa",
+      "url": "https://open.spotify.com/track/2yvg28oa8lHSenq7nJ5Ss2"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148040,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/1Ivebeb1orqVsI33fU0bsc"
+    },
+    {
+      "album": {
+        "name": "La Gran Se\u00f1ora",
+        "url": "https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Ya Lo S\u00e9",
+      "url": "https://open.spotify.com/track/4pIiKrGXCgTZOAFGJjCEvL"
+    },
+    {
+      "album": {
+        "name": "Exitos Y Recuerdos - Selena",
+        "url": "https://open.spotify.com/album/1FCCWcbEQaxglbbAsZbjjk"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195600,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/6Dc2BbGqqIhxDvs0jcq6oh"
+    },
+    {
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196626,
+      "name": "Ya Ves",
+      "url": "https://open.spotify.com/track/05pItgL5lq3H5H4RjtSRdw"
+    },
+    {
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195626,
+      "name": "\u00bfQu\u00e9 Me Vas a Dar?",
+      "url": "https://open.spotify.com/track/3bQnLrfziz5zOcp5a8Igrp"
+    },
+    {
+      "album": {
+        "name": "Selena: The Series Soundtrack",
+        "url": "https://open.spotify.com/album/4zKd7rKQ7dXKXEEGcRoFNN"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/4rBTKVhIQZpFQPeF1oM3yP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYTyUvRwFpCv"
 }

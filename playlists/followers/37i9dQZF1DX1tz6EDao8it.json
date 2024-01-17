@@ -1,732 +1,2471 @@
 {
-  "2021-12-28": 317360,
-  "2021-12-29": 317854,
-  "2021-12-30": 318330,
-  "2021-12-31": 318815,
-  "2022-01-01": 319586,
-  "2022-01-02": 319764,
-  "2022-01-03": 320174,
-  "2022-01-04": 320658,
-  "2022-01-05": 321166,
-  "2022-01-06": 321723,
-  "2022-01-07": 322280,
-  "2022-01-08": 323343,
-  "2022-01-09": 323361,
-  "2022-01-10": 323885,
-  "2022-01-11": 324304,
-  "2022-01-12": 324788,
-  "2022-01-13": 325438,
-  "2022-01-14": 326079,
-  "2022-01-15": 327033,
-  "2022-01-16": 327069,
-  "2022-01-17": 328153,
-  "2022-01-18": 328200,
-  "2022-01-19": 328592,
-  "2022-01-20": 329093,
-  "2022-01-21": 329623,
-  "2022-01-22": 330098,
-  "2022-01-23": 330593,
-  "2022-01-24": 331168,
-  "2022-01-25": 331605,
-  "2022-01-26": 332143,
-  "2022-01-27": 332687,
-  "2022-01-28": 333183,
-  "2022-01-29": 333646,
-  "2022-01-30": 334196,
-  "2022-01-31": 334699,
-  "2022-02-01": 335158,
-  "2022-02-02": 335637,
-  "2022-02-03": 336141,
-  "2022-02-04": 336590,
-  "2022-02-05": 337068,
-  "2022-02-06": 337498,
-  "2022-02-07": 337956,
-  "2022-02-08": 338416,
-  "2022-02-09": 338889,
-  "2022-02-10": 339370,
-  "2022-02-11": 339816,
-  "2022-02-12": 340284,
-  "2022-02-13": 340758,
-  "2022-02-14": 341241,
-  "2022-02-15": 341653,
-  "2022-02-16": 342109,
-  "2022-02-17": 342639,
-  "2022-02-18": 343140,
-  "2022-02-19": 343585,
-  "2022-02-20": 344099,
-  "2022-02-21": 344604,
-  "2022-02-22": 345044,
-  "2022-02-23": 345541,
-  "2022-02-24": 346052,
-  "2022-02-25": 346437,
-  "2022-02-26": 346868,
-  "2022-02-27": 347699,
-  "2022-02-28": 347699,
-  "2022-03-01": 348109,
-  "2022-03-02": 348527,
-  "2022-03-03": 348966,
-  "2022-03-04": 349426,
-  "2022-03-05": 349779,
-  "2022-03-06": 350232,
-  "2022-03-07": 350700,
-  "2022-03-08": 351114,
-  "2022-03-09": 351539,
-  "2022-03-10": 351934,
-  "2022-03-11": 352408,
-  "2022-03-12": 352845,
-  "2022-03-13": 353298,
-  "2022-03-14": 353808,
-  "2022-03-15": 354240,
-  "2022-03-16": 354668,
-  "2022-03-17": 355139,
-  "2022-03-18": 355774,
-  "2022-03-19": 356079,
-  "2022-03-20": 356079,
-  "2022-03-21": 357022,
-  "2022-03-22": 357393,
-  "2022-03-23": 357825,
-  "2022-03-24": 358255,
-  "2022-03-25": 358685,
-  "2022-03-26": 359126,
-  "2022-03-27": 359508,
-  "2022-03-28": 359956,
-  "2022-03-30": 360913,
-  "2022-03-31": 361416,
-  "2022-04-01": 361911,
-  "2022-04-02": 362363,
-  "2022-04-03": 362830,
-  "2022-04-04": 363315,
-  "2022-04-05": 363765,
-  "2022-04-06": 364216,
-  "2022-04-07": 364664,
-  "2022-04-08": 365139,
-  "2022-04-09": 365614,
-  "2022-04-10": 366495,
-  "2022-04-11": 366926,
-  "2022-04-12": 366971,
-  "2022-04-13": 367424,
-  "2022-04-14": 367878,
-  "2022-04-15": 368299,
-  "2022-04-16": 368767,
-  "2022-04-17": 369203,
-  "2022-04-18": 369733,
-  "2022-04-19": 370116,
-  "2022-04-20": 370562,
-  "2022-04-21": 371050,
-  "2022-04-22": 371578,
-  "2022-04-23": 372123,
-  "2022-04-24": 372689,
-  "2022-04-25": 373288,
-  "2022-04-26": 373975,
-  "2022-04-27": 375026,
-  "2022-04-28": 375586,
-  "2022-04-29": 376410,
-  "2022-04-30": 376953,
-  "2022-05-01": 377605,
-  "2022-05-02": 377605,
-  "2022-05-03": 378111,
-  "2022-05-04": 378603,
-  "2022-05-05": 379194,
-  "2022-05-06": 379660,
-  "2022-05-07": 380102,
-  "2022-05-08": 380803,
-  "2022-05-09": 380909,
-  "2022-05-10": 381271,
-  "2022-05-11": 381641,
-  "2022-05-12": 381986,
-  "2022-05-13": 382387,
-  "2022-05-14": 382749,
-  "2022-05-15": 383132,
-  "2022-05-16": 383534,
-  "2022-05-17": 383916,
-  "2022-05-18": 384324,
-  "2022-05-19": 384734,
-  "2022-05-20": 385371,
-  "2022-05-21": 386256,
-  "2022-05-22": 386256,
-  "2022-05-23": 386688,
-  "2022-05-24": 387075,
-  "2022-05-25": 387479,
-  "2022-05-26": 387909,
-  "2022-05-27": 388354,
-  "2022-05-28": 388760,
-  "2022-05-29": 389196,
-  "2022-05-30": 389632,
-  "2022-05-31": 390015,
-  "2022-06-01": 390847,
-  "2022-06-02": 390905,
-  "2022-06-03": 391359,
-  "2022-06-04": 391777,
-  "2022-06-05": 392266,
-  "2022-06-06": 392756,
-  "2022-06-07": 393265,
-  "2022-06-08": 393795,
-  "2022-06-09": 394180,
-  "2022-06-10": 394566,
-  "2022-06-11": 395024,
-  "2022-06-12": 395431,
-  "2022-06-13": 395923,
-  "2022-06-14": 396283,
-  "2022-06-15": 396654,
-  "2022-06-16": 396973,
-  "2022-06-17": 397355,
-  "2022-06-18": 397692,
-  "2022-06-19": 398446,
-  "2022-06-20": 398446,
-  "2022-06-21": 398827,
-  "2022-06-22": 399534,
-  "2022-06-23": 399534,
-  "2022-06-24": 399895,
-  "2022-06-25": 400222,
-  "2022-06-26": 400529,
-  "2022-06-27": 400951,
-  "2022-06-28": 401289,
-  "2022-06-29": 401647,
-  "2022-06-30": 402025,
-  "2022-07-01": 402350,
-  "2022-07-02": 402696,
-  "2022-07-03": 403058,
-  "2022-07-04": 403370,
-  "2022-07-05": 403698,
-  "2022-07-06": 404024,
-  "2022-07-07": 404352,
-  "2022-07-08": 404722,
-  "2022-07-09": 405082,
-  "2022-07-10": 405464,
-  "2022-07-11": 405818,
-  "2022-07-12": 406182,
-  "2022-07-13": 406529,
-  "2022-07-14": 406932,
-  "2022-07-15": 407344,
-  "2022-07-16": 407752,
-  "2022-07-17": 408211,
-  "2022-07-18": 408618,
-  "2022-07-19": 408953,
-  "2022-07-20": 409323,
-  "2022-07-21": 409742,
-  "2022-07-22": 410122,
-  "2022-07-23": 410506,
-  "2022-07-24": 410940,
-  "2022-07-25": 411356,
-  "2022-07-26": 411684,
-  "2022-07-27": 412135,
-  "2022-07-28": 412540,
-  "2022-07-29": 412953,
-  "2022-07-30": 413716,
-  "2022-07-31": 413716,
-  "2022-08-01": 414075,
-  "2022-08-02": 414755,
-  "2022-08-03": 414755,
-  "2022-08-04": 415107,
-  "2022-08-05": 415541,
-  "2022-08-06": 415900,
-  "2022-08-07": 416250,
-  "2022-08-08": 416667,
-  "2022-08-09": 417021,
-  "2022-08-10": 417379,
-  "2022-08-11": 417728,
-  "2022-08-12": 418121,
-  "2022-08-13": 418535,
-  "2022-08-14": 418924,
-  "2022-08-15": 419329,
-  "2022-08-16": 419716,
-  "2022-08-17": 420105,
-  "2022-08-18": 420542,
-  "2022-08-19": 420938,
-  "2022-08-20": 421327,
-  "2022-08-21": 421719,
-  "2022-08-22": 422141,
-  "2022-08-23": 422528,
-  "2022-08-24": 422959,
-  "2022-08-25": 423366,
-  "2022-08-26": 423798,
-  "2022-08-27": 424206,
-  "2022-08-28": 424640,
-  "2022-08-29": 425073,
-  "2022-08-30": 425285,
-  "2022-08-31": 425237,
-  "2022-09-01": 425137,
-  "2022-09-02": 424997,
-  "2022-09-03": 425443,
-  "2022-09-04": 424951,
-  "2022-09-05": 424881,
-  "2022-09-06": 425288,
-  "2022-09-07": 425700,
-  "2022-09-09": 426487,
-  "2022-09-10": 426893,
-  "2022-09-11": 427257,
-  "2022-09-12": 427664,
-  "2022-09-13": 428044,
-  "2022-09-15": 428818,
-  "2022-09-16": 429212,
-  "2022-09-17": 429580,
-  "2022-09-18": 429935,
-  "2022-09-19": 430284,
-  "2022-09-20": 430613,
-  "2022-09-21": 430965,
-  "2022-09-22": 431330,
-  "2022-09-23": 431722,
-  "2022-09-24": 432092,
-  "2022-09-25": 432472,
-  "2022-09-26": 432881,
-  "2022-09-27": 433288,
-  "2022-09-28": 433731,
-  "2022-09-29": 434133,
-  "2022-09-30": 434571,
-  "2022-10-01": 434984,
-  "2022-10-02": 435405,
-  "2022-10-03": 435790,
-  "2022-10-04": 436180,
-  "2022-10-05": 436591,
-  "2022-10-06": 437018,
-  "2022-10-07": 437428,
-  "2022-10-08": 437859,
-  "2022-10-09": 438647,
-  "2022-10-10": 438740,
-  "2022-10-11": 439154,
-  "2022-10-12": 439529,
-  "2022-10-13": 439928,
-  "2022-10-14": 440354,
-  "2022-10-15": 440778,
-  "2022-10-16": 441237,
-  "2022-10-17": 441709,
-  "2022-10-18": 442106,
-  "2022-10-19": 442516,
-  "2022-10-20": 443010,
-  "2022-10-21": 443422,
-  "2022-10-22": 443875,
-  "2022-10-23": 444343,
-  "2022-10-24": 444809,
-  "2022-10-25": 445228,
-  "2022-10-26": 445698,
-  "2022-10-27": 446129,
-  "2022-10-28": 446577,
-  "2022-10-29": 447009,
-  "2022-10-30": 447446,
-  "2022-10-31": 447900,
-  "2022-11-01": 448379,
-  "2022-11-02": 448854,
-  "2022-11-03": 449283,
-  "2022-11-04": 449728,
-  "2022-11-05": 450182,
-  "2022-11-06": 450632,
-  "2022-11-07": 451090,
-  "2022-11-08": 451554,
-  "2022-11-09": 451979,
-  "2022-11-10": 452404,
-  "2022-11-11": 452876,
-  "2022-11-12": 453323,
-  "2022-11-13": 453706,
-  "2022-11-14": 454219,
-  "2022-11-15": 454661,
-  "2022-11-16": 455069,
-  "2022-11-17": 455533,
-  "2022-11-18": 455680,
-  "2022-11-19": 455534,
-  "2022-11-20": 456204,
-  "2022-11-21": 456034,
-  "2022-11-22": 457099,
-  "2022-11-23": 456940,
-  "2022-11-24": 458320,
-  "2022-11-25": 458928,
-  "2022-11-26": 459337,
-  "2022-11-27": 459802,
-  "2022-11-28": 460278,
-  "2022-11-29": 460698,
-  "2022-11-30": 461140,
-  "2022-12-01": 461632,
-  "2022-12-02": 461933,
-  "2022-12-03": 462524,
-  "2022-12-04": 463041,
-  "2022-12-05": 463577,
-  "2022-12-06": 464031,
-  "2022-12-07": 464545,
-  "2022-12-08": 465058,
-  "2022-12-09": 465574,
-  "2022-12-10": 466049,
-  "2022-12-11": 466518,
-  "2022-12-12": 467054,
-  "2022-12-13": 467591,
-  "2022-12-14": 468037,
-  "2022-12-15": 468544,
-  "2022-12-16": 469086,
-  "2022-12-17": 469608,
-  "2022-12-18": 470162,
-  "2022-12-19": 470661,
-  "2022-12-20": 471646,
-  "2022-12-21": 471646,
-  "2022-12-22": 472105,
-  "2022-12-24": 473055,
-  "2022-12-25": 473533,
-  "2022-12-26": 474040,
-  "2022-12-27": 474546,
-  "2022-12-28": 475068,
-  "2022-12-29": 475552,
-  "2022-12-30": 476098,
-  "2022-12-31": 476632,
-  "2023-01-01": 477147,
-  "2023-01-02": 477624,
-  "2023-01-03": 478121,
-  "2023-01-04": 478595,
-  "2023-01-05": 479115,
-  "2023-01-06": 479734,
-  "2023-01-07": 480619,
-  "2023-01-08": 480777,
-  "2023-01-09": 481350,
-  "2023-01-10": 481898,
-  "2023-01-11": 482453,
-  "2023-01-12": 483094,
-  "2023-01-13": 483704,
-  "2023-01-14": 484651,
-  "2023-01-15": 484807,
-  "2023-01-16": 485346,
-  "2023-01-17": 485934,
-  "2023-01-18": 486522,
-  "2023-01-19": 487091,
-  "2023-01-20": 487639,
-  "2023-01-21": 488188,
-  "2023-01-22": 488750,
-  "2023-01-23": 489319,
-  "2023-01-24": 489853,
-  "2023-01-25": 490410,
-  "2023-01-26": 490982,
-  "2023-01-27": 491666,
-  "2023-01-28": 492214,
-  "2023-01-29": 492734,
-  "2023-01-30": 493279,
-  "2023-01-31": 493279,
-  "2023-02-01": 494328,
-  "2023-02-02": 494902,
-  "2023-02-03": 495451,
-  "2023-02-04": 496062,
-  "2023-02-05": 496652,
-  "2023-02-06": 497256,
-  "2023-02-07": 497758,
-  "2023-02-08": 498845,
-  "2023-02-09": 498845,
-  "2023-02-10": 499440,
-  "2023-02-11": 499937,
-  "2023-02-12": 501076,
-  "2023-02-13": 501540,
-  "2023-02-14": 501540,
-  "2023-02-15": 501945,
-  "2023-02-16": 502415,
-  "2023-02-17": 502913,
-  "2023-02-18": 503938,
-  "2023-02-19": 504040,
-  "2023-02-20": 504483,
-  "2023-02-21": 504943,
-  "2023-02-22": 505418,
-  "2023-02-23": 505856,
-  "2023-02-24": 506375,
-  "2023-02-25": 507017,
-  "2023-02-26": 507422,
-  "2023-02-27": 508361,
-  "2023-02-28": 508361,
-  "2023-03-01": 508803,
-  "2023-03-02": 509263,
-  "2023-03-03": 509805,
-  "2023-03-04": 510270,
-  "2023-03-05": 511322,
-  "2023-03-06": 511322,
-  "2023-03-07": 511869,
-  "2023-03-08": 512329,
-  "2023-03-09": 512871,
-  "2023-03-10": 513390,
-  "2023-03-11": 513895,
-  "2023-03-12": 514530,
-  "2023-03-13": 515197,
-  "2023-03-14": 515797,
-  "2023-03-15": 516372,
-  "2023-03-16": 517040,
-  "2023-03-17": 517040,
-  "2023-03-18": 518224,
-  "2023-03-19": 518818,
-  "2023-03-20": 519499,
-  "2023-03-21": 520079,
-  "2023-03-22": 520758,
-  "2023-03-23": 521321,
-  "2023-03-24": 521321,
-  "2023-03-25": 522511,
-  "2023-03-26": 523167,
-  "2023-03-27": 523811,
-  "2023-03-28": 524373,
-  "2023-03-29": 525043,
-  "2023-03-30": 526201,
-  "2023-03-31": 526201,
-  "2023-04-01": 526806,
-  "2023-04-02": 527457,
-  "2023-04-03": 528210,
-  "2023-04-04": 528872,
-  "2023-04-05": 529487,
-  "2023-04-06": 530092,
-  "2023-04-07": 530654,
-  "2023-04-09": 531828,
-  "2023-04-10": 532417,
-  "2023-04-11": 533563,
-  "2023-04-12": 533563,
-  "2023-04-13": 534137,
-  "2023-04-14": 534712,
-  "2023-04-15": 535318,
-  "2023-04-16": 535910,
-  "2023-04-17": 536475,
-  "2023-04-18": 537011,
-  "2023-04-19": 537812,
-  "2023-04-20": 538503,
-  "2023-04-21": 539072,
-  "2023-04-22": 539606,
-  "2023-04-23": 540126,
-  "2023-04-24": 540664,
-  "2023-04-25": 541187,
-  "2023-04-26": 541722,
-  "2023-04-27": 542268,
-  "2023-04-28": 542820,
-  "2023-04-29": 543352,
-  "2023-04-30": 543846,
-  "2023-05-01": 544388,
-  "2023-05-02": 544868,
-  "2023-05-03": 545372,
-  "2023-05-04": 545869,
-  "2023-05-05": 546348,
-  "2023-05-06": 546922,
-  "2023-05-07": 547403,
-  "2023-05-08": 547973,
-  "2023-05-09": 548579,
-  "2023-05-10": 549131,
-  "2023-05-11": 549686,
-  "2023-05-12": 550332,
-  "2023-05-13": 550852,
-  "2023-05-14": 551446,
-  "2023-05-15": 551904,
-  "2023-05-16": 552428,
-  "2023-05-17": 552950,
-  "2023-05-18": 553471,
-  "2023-05-19": 554028,
-  "2023-05-20": 555088,
-  "2023-05-21": 555088,
-  "2023-05-22": 555088,
-  "2023-05-23": 556107,
-  "2023-05-24": 556976,
-  "2023-05-25": 557095,
-  "2023-05-26": 557599,
-  "2023-05-27": 558099,
-  "2023-05-28": 558583,
-  "2023-05-29": 558583,
-  "2023-05-30": 559527,
-  "2023-05-31": 560041,
-  "2023-06-01": 560551,
-  "2023-06-02": 561041,
-  "2023-06-03": 561510,
-  "2023-06-04": 561996,
-  "2023-06-05": 562540,
-  "2023-06-06": 563110,
-  "2023-06-07": 563563,
-  "2023-06-08": 564061,
-  "2023-06-09": 564546,
-  "2023-06-10": 564978,
-  "2023-06-11": 565473,
-  "2023-06-12": 565955,
-  "2023-06-13": 566465,
-  "2023-06-14": 566923,
-  "2023-06-15": 567442,
-  "2023-06-16": 567920,
-  "2023-06-17": 568360,
-  "2023-06-18": 568802,
-  "2023-06-19": 569272,
-  "2023-06-20": 569730,
-  "2023-06-21": 570215,
-  "2023-06-22": 570619,
-  "2023-06-23": 571099,
-  "2023-06-24": 571552,
-  "2023-06-25": 572004,
-  "2023-06-26": 572463,
-  "2023-06-27": 572871,
-  "2023-06-28": 573313,
-  "2023-06-29": 573758,
-  "2023-06-30": 574233,
-  "2023-07-01": 575242,
-  "2023-07-02": 575242,
-  "2023-07-03": 575757,
-  "2023-07-04": 576221,
-  "2023-07-05": 576742,
-  "2023-07-06": 577662,
-  "2023-07-07": 577662,
-  "2023-07-08": 578104,
-  "2023-07-09": 578510,
-  "2023-07-10": 578971,
-  "2023-07-11": 579439,
-  "2023-07-12": 579900,
-  "2023-07-13": 580354,
-  "2023-07-14": 580840,
-  "2023-07-15": 581225,
-  "2023-07-16": 581752,
-  "2023-07-17": 582304,
-  "2023-07-18": 582782,
-  "2023-07-19": 583328,
-  "2023-07-20": 583850,
-  "2023-07-21": 584379,
-  "2023-07-22": 584929,
-  "2023-07-23": 585474,
-  "2023-07-24": 586079,
-  "2023-07-25": 586649,
-  "2023-07-26": 587218,
-  "2023-07-27": 587783,
-  "2023-07-28": 588409,
-  "2023-07-29": 589034,
-  "2023-07-30": 589659,
-  "2023-07-31": 590217,
-  "2023-08-01": 590784,
-  "2023-08-02": 591364,
-  "2023-08-03": 591992,
-  "2023-08-04": 592525,
-  "2023-08-05": 593140,
-  "2023-08-06": 594565,
-  "2023-08-07": 594565,
-  "2023-08-08": 595239,
-  "2023-08-09": 595966,
-  "2023-08-10": 596563,
-  "2023-08-11": 597124,
-  "2023-08-12": 597638,
-  "2023-08-13": 598193,
-  "2023-08-14": 598712,
-  "2023-08-15": 599801,
-  "2023-08-16": 599801,
-  "2023-08-17": 600384,
-  "2023-08-18": 600991,
-  "2023-08-19": 601585,
-  "2023-08-20": 602170,
-  "2023-08-21": 602731,
-  "2023-08-22": 603239,
-  "2023-08-23": 603830,
-  "2023-08-24": 604382,
-  "2023-08-25": 604943,
-  "2023-08-26": 605501,
-  "2023-08-27": 606036,
-  "2023-08-28": 606778,
-  "2023-08-29": 607295,
-  "2023-08-30": 607845,
-  "2023-08-31": 608399,
-  "2023-09-01": 609334,
-  "2023-09-02": 609334,
-  "2023-09-03": 609722,
-  "2023-09-04": 610162,
-  "2023-09-05": 610590,
-  "2023-09-06": 610995,
-  "2023-09-07": 611424,
-  "2023-09-08": 611845,
-  "2023-09-09": 612304,
-  "2023-09-10": 612701,
-  "2023-09-11": 613124,
-  "2023-09-12": 613578,
-  "2023-09-13": 614110,
-  "2023-09-14": 614561,
-  "2023-09-15": 615029,
-  "2023-09-16": 615515,
-  "2023-09-17": 615955,
-  "2023-09-18": 616386,
-  "2023-09-19": 616818,
-  "2023-09-20": 617249,
-  "2023-09-21": 617749,
-  "2023-09-22": 618170,
-  "2023-09-23": 618580,
-  "2023-09-24": 618994,
-  "2023-09-25": 619491,
-  "2023-09-26": 620029,
-  "2023-09-27": 620363,
-  "2023-09-28": 620739,
-  "2023-09-29": 621151,
-  "2023-09-30": 621541,
-  "2023-10-01": 621889,
-  "2023-10-02": 622267,
-  "2023-10-03": 622607,
-  "2023-10-04": 623029,
-  "2023-10-05": 623422,
-  "2023-10-06": 623798,
-  "2023-10-07": 624157,
-  "2023-10-08": 624511,
-  "2023-10-09": 624914,
-  "2023-10-10": 625207,
-  "2023-10-11": 625929,
-  "2023-10-12": 625929,
-  "2023-10-13": 626305,
-  "2023-10-14": 626659,
-  "2023-10-15": 626954,
-  "2023-10-16": 627323,
-  "2023-10-17": 627655,
-  "2023-10-18": 627974,
-  "2023-10-19": 628284,
-  "2023-10-20": 628573,
-  "2023-10-21": 628877,
-  "2023-10-22": 629186,
-  "2023-10-23": 629523,
-  "2023-10-24": 629844,
-  "2023-10-25": 630190,
-  "2023-10-26": 630504,
-  "2023-10-27": 630837,
-  "2023-10-28": 631191,
-  "2023-10-29": 631521,
-  "2023-10-30": 632208,
-  "2023-10-31": 632208,
-  "2023-11-01": 632533,
-  "2023-11-02": 632863,
-  "2023-11-03": 633181,
-  "2023-11-04": 633511,
-  "2023-11-05": 633811,
-  "2023-11-06": 634131,
-  "2023-11-07": 634466,
-  "2023-11-08": 634750,
-  "2023-11-09": 635034,
-  "2023-11-10": 635351,
-  "2023-11-11": 635694,
-  "2023-11-12": 635964,
-  "2023-11-13": 636306,
-  "2023-11-14": 636558,
-  "2023-11-15": 636558,
-  "2023-11-16": 637177,
-  "2023-11-17": 637811,
-  "2023-11-18": 637811,
-  "2023-11-19": 638119,
-  "2023-11-20": 638411,
-  "2023-11-21": 638759,
-  "2023-11-22": 639114,
-  "2023-11-23": 639463,
-  "2023-11-24": 639812,
-  "2023-11-25": 640144,
-  "2023-11-26": 640469,
-  "2023-11-27": 640834,
-  "2023-11-28": 641111,
-  "2023-11-29": 641670,
-  "2023-11-30": 641670,
-  "2023-12-01": 641934,
-  "2023-12-02": 642201,
-  "2023-12-03": 642479,
-  "2023-12-04": 642767,
-  "2023-12-05": 643100,
-  "2023-12-06": 643387,
-  "2023-12-07": 643732,
-  "2023-12-08": 1153670,
-  "2023-12-09": 1153969,
-  "2023-12-10": 1154306,
-  "2023-12-11": 1154674,
-  "2023-12-12": 1154943,
-  "2023-12-13": 1155285,
-  "2023-12-14": 1155712,
-  "2023-12-15": 1155936,
-  "2023-12-16": 1156231,
-  "2023-12-17": 1156550,
-  "2023-12-18": 1156855,
-  "2023-12-19": 1157124,
-  "2023-12-20": 1157403,
-  "2023-12-21": 1157687,
-  "2023-12-22": 1157985,
-  "2023-12-23": 1158290,
-  "2023-12-24": 1158612,
-  "2023-12-25": 1158903,
-  "2023-12-26": 1159182,
-  "2023-12-27": 1159479,
-  "2023-12-30": 1160433,
-  "2023-12-31": 1160749,
-  "2024-01-01": 1161055,
-  "2024-01-02": 1161324,
-  "2024-01-03": 1161599
+  "2024-01-17": 1161819,
+  "date_first_scraped": "2021-12-28",
+  "description": "Timeless, unforgettable melodies from the movies.",
+  "name": "Iconic Soundtracks",
+  "tracks": [
+    {
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 271226,
+      "name": "\"Take Her to Sea, Mr. Murdoch\"",
+      "url": "https://open.spotify.com/track/0N6TuzP1jXjTT6gJO1tyFN"
+    },
+    {
+      "album": {
+        "name": "Braveheart - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5fMzvljNl2AQKFWZL8D117"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 97666,
+      "name": "A Gift Of A Thistle",
+      "url": "https://open.spotify.com/track/7MGFhIe9CBI5baTwLMj7iE"
+    },
+    {
+      "album": {
+        "name": "A Little Chaos (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/2Ae5IWNhCQvsH4fNF8FFHe"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337466,
+      "name": "A Little Chaos",
+      "url": "https://open.spotify.com/track/0OKWHkdIAi2purVKdqaPC0"
+    },
+    {
+      "album": {
+        "name": "A Little Chaos (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JJeRNz4Qu3YJ4JNevYQjW"
+      },
+      "artists": [
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 337470,
+      "name": "A Little Chaos",
+      "url": "https://open.spotify.com/track/0cKJ9VKdpwPA0MryV8K0vq"
+    },
+    {
+      "album": {
+        "name": "American Beauty (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/11y3Dzg44npGsTWKtmuzTW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246626,
+      "name": "Any Other Name",
+      "url": "https://open.spotify.com/track/33B1XmfncHqnfkrYZIcHbD"
+    },
+    {
+      "album": {
+        "name": "Transformers: The Score",
+        "url": "https://open.spotify.com/album/2bTtOvLX0HONkxoQx3ir7U"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326773,
+      "name": "Arrival to Earth",
+      "url": "https://open.spotify.com/track/4u4VElxO7JM4IR4jR4TL1s"
+    },
+    {
+      "album": {
+        "name": "Back To The Future (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0jz1nb6dEh9PvRZr9bs387"
+      },
+      "artists": [
+        {
+          "name": "The Outatime Orchestra",
+          "url": "https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Back To The Future",
+      "url": "https://open.spotify.com/track/5F7I0CfdEnVSPlwFabMyIi"
+    },
+    {
+      "album": {
+        "name": "Movie Soundtracks",
+        "url": "https://open.spotify.com/album/6ruP7gmmM6BfjKvX7QwGBA"
+      },
+      "artists": [
+        {
+          "name": "The Outatime Orchestra",
+          "url": "https://open.spotify.com/artist/2taffC19qE4FkJpPPfMzqw"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 197146,
+      "name": "Back To The Future - Original Score/End Credits",
+      "url": "https://open.spotify.com/track/4Ydnu5bkQUQFZ1udb4SWRT"
+    },
+    {
+      "album": {
+        "name": "Joker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/16bF6lLLeVcBNgYNreGjYZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128280,
+      "name": "Bathroom Dance",
+      "url": "https://open.spotify.com/track/4WiqPbWvLbv317E8fB4SJC"
+    },
+    {
+      "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 534400,
+      "name": "Blade Runner Blues",
+      "url": "https://open.spotify.com/track/575blCgesVtCu0HEYaIcas"
+    },
+    {
+      "album": {
+        "name": "The Shawshank Redemption",
+        "url": "https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        },
+        {
+          "name": "The Hollywood Studio Symphony",
+          "url": "https://open.spotify.com/artist/7EDsxqvVACibUGGHfMNjyK"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305840,
+      "name": "Brooks Was Here",
+      "url": "https://open.spotify.com/track/5FRGTGPZ7uA6JaLAH55PVV"
+    },
+    {
+      "album": {
+        "name": "Captain Marvel (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JkLtKFArRIE47ungawDy0"
+      },
+      "artists": [
+        {
+          "name": "Pinar Toprak",
+          "url": "https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135311,
+      "name": "Captain Marvel",
+      "url": "https://open.spotify.com/track/4CQ8uwWfH9hDCbwj4PUs58"
+    },
+    {
+      "album": {
+        "name": "The Da Vinci Code",
+        "url": "https://open.spotify.com/album/4GuLx38y1727p45spIvslr"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Richard Harvey",
+          "url": "https://open.spotify.com/artist/3J8wY38gX35pp2soOa4vje"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "Chevaliers De Sangreal - From The Da Vinci Code Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/64q5EfFKR9hYJ1FHqSClxe"
+    },
+    {
+      "album": {
+        "name": "1917 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6HiTc4Cu7pOdO5mA8PInRs"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2022-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339586,
+      "name": "Come Back to Us",
+      "url": "https://open.spotify.com/track/44sVQfPdCTGM5JLBRHUngc"
+    },
+    {
+      "album": {
+        "name": "Film trifft Klassik",
+        "url": "https://open.spotify.com/album/1Jk67VV9YnH7WUmNMBlwHd"
+      },
+      "artists": [
+        {
+          "name": "B. Kudanowski",
+          "url": "https://open.spotify.com/artist/0fqa5yr6KNfunoOKAW6TcM"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 142847,
+      "name": "Comptine d'un autre \u00e9t\u00e9 l'apr\u00e8s-midi - From \"Am\u00e9lie\"",
+      "url": "https://open.spotify.com/track/2igUeMIqtLOD7sGrOzvynK"
+    },
+    {
+      "album": {
+        "name": "Le Fabuleux destin d'Am\u00e9lie Poulain (Bande originale du film)",
+        "url": "https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+      "url": "https://open.spotify.com/track/14rZjW3RioG7WesZhYESso"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9lie (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7JG0QwvJRzPILHEW1xHEJj"
+      },
+      "artists": [
+        {
+          "name": "Yann Tiersen",
+          "url": "https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 140733,
+      "name": "Comptine d'un autre \u00e9t\u00e9, l'apr\u00e8s-midi",
+      "url": "https://open.spotify.com/track/4O2N861eOnF9q8EtpH8IJu"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175040,
+      "name": "Concerning Hobbits",
+      "url": "https://open.spotify.com/track/644es5aYPJghtZLjM1rmSP"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126959,
+      "name": "Cornfield Chase",
+      "url": "https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP"
+    },
+    {
+      "album": {
+        "name": "Sherlock Holmes: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/00PwJ8l6T1jwXkfK95PfWz"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144933,
+      "name": "Discombobulate",
+      "url": "https://open.spotify.com/track/0Wj7EzpRCrfbHbHj0koVdl"
+    },
+    {
+      "album": {
+        "name": "Sherlock Holmes (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4eouZPpapIAd6TvYkUTGDq"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "Discombobulate",
+      "url": "https://open.spotify.com/track/0cm6cAtRu0C0sEZzDjZFsx"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254346,
+      "name": "Duel of the Fates",
+      "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and the Half-Blood Prince (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Hooper",
+          "url": "https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142253,
+      "name": "Dumbledore's Farewell",
+      "url": "https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL"
+    },
+    {
+      "album": {
+        "name": "Gladiator: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181866,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/5JZdKynHn8pKmIfDBSOB1t"
+    },
+    {
+      "album": {
+        "name": "Gladiator - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/22UOVuCSJnESOxHBL7UJQN"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181866,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/6b4aMRJyI1vqwvrNZkDU4e"
+    },
+    {
+      "album": {
+        "name": "Epic Gaming",
+        "url": "https://open.spotify.com/album/18ccuDm8AWBAbzPBB0JQPI"
+      },
+      "artists": [
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181866,
+      "name": "Earth - From \"Gladiator\" Soundtrack",
+      "url": "https://open.spotify.com/track/4vFoz6VlhaQQPlwoFlikrK"
+    },
+    {
+      "album": {
+        "name": "Fury (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155826,
+      "name": "Emma",
+      "url": "https://open.spotify.com/track/4TuGt2O2iqrisOsNQNrL0j"
+    },
+    {
+      "album": {
+        "name": "The Duchess (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128320,
+      "name": "End Titles",
+      "url": "https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl"
+    },
+    {
+      "album": {
+        "name": "Star Wars Episode 1: The Phantom Menace: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/69YzvRcwhpusDLxorifBl1"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254360,
+      "name": "Episode I - Duel of The Fates",
+      "url": "https://open.spotify.com/track/4oZwvVtLqXMdZLJnlQDlt1"
+    },
+    {
+      "album": {
+        "name": "X-MEN: FIRST CLASS",
+        "url": "https://open.spotify.com/album/14jwLvbmFd60gtCScp5pcc"
+      },
+      "artists": [
+        {
+          "name": "Henry Jackman",
+          "url": "https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "First Class",
+      "url": "https://open.spotify.com/track/5IWmdl33NNTLsKlLT6WSlh"
+    },
+    {
+      "album": {
+        "name": "John Williams - Greatest Hits 1969-1999",
+        "url": "https://open.spotify.com/album/3xeo92ykCYWfe32si3I6zF"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "Flying Theme (From \"E.T. the Extra-Terrestrial\")",
+      "url": "https://open.spotify.com/track/4J9mulgiRlkkgdAONNVGQv"
+    },
+    {
+      "album": {
+        "name": "Braveheart (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/11RrIE8R4WdmybwaItRa97"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "For The Love Of A Princess",
+      "url": "https://open.spotify.com/track/22yxHt6UqZpH7tP6W4PooI"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321066,
+      "name": "Harry's Wondrous World",
+      "url": "https://open.spotify.com/track/4lg0h4AJhPMxbO3VMpbUqS"
+    },
+    {
+      "album": {
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4Qe057XqKloVNhnPohj6Yo"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90426,
+      "name": "He's a Pirate",
+      "url": "https://open.spotify.com/track/08QaHlMPWuO5PUxjl61bXn"
+    },
+    {
+      "album": {
+        "name": "Pirates Of The Caribbean Original Soundtrack",
+        "url": "https://open.spotify.com/album/46co3YFtDUWwq1DiazleHP"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 90426,
+      "name": "He's a Pirate",
+      "url": "https://open.spotify.com/track/4AD2dterIUjNt1LFNI9Bvi"
+    },
+    {
+      "album": {
+        "name": "Disney Magical Musical Passport",
+        "url": "https://open.spotify.com/album/4kIwk2bzm7kPlcvtVeX2iV"
+      },
+      "artists": [
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 90533,
+      "name": "He's a Pirate - From \"Pirates of the Caribbean: The Curse Of the Black Pearl\"",
+      "url": "https://open.spotify.com/track/4Qe9xvjCNSPVTvyY5M6k9E"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+    },
+    {
+      "album": {
+        "name": "Drive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fKas0iq7DWAylIQxGEIQW"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123533,
+      "name": "I Drive",
+      "url": "https://open.spotify.com/track/1ptBH8MFuEgtEcjcU6t5t1"
+    },
+    {
+      "album": {
+        "name": "Drive (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5c8OkYLDmxShOqZYG765wA"
+      },
+      "artists": [
+        {
+          "name": "Cliff Martinez",
+          "url": "https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123533,
+      "name": "I Drive",
+      "url": "https://open.spotify.com/track/4057No5KfVvXZZ8JXdkQTk"
+    },
+    {
+      "album": {
+        "name": "Forrest Gump - Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/1Fw951OcmbeCmVnnNcRYrp"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "I'm Forrest... Forrest Gump",
+      "url": "https://open.spotify.com/track/1ijrMIqQvZNsnoqGukPzFD"
+    },
+    {
+      "album": {
+        "name": "The Dark Knight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63uFfOZpC7jrV7wfuBY2lX"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394440,
+      "name": "I'm Not a Hero",
+      "url": "https://open.spotify.com/track/56pKYnSA0CyayMJWcEU5kH"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/5K8mB1LGyBDQBKnj6k64Uq"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 156933,
+      "name": "Introduction (Titles)",
+      "url": "https://open.spotify.com/track/4T0M3ao3PfYRkIolo5wpLK"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156933,
+      "name": "Introduction (Titles)",
+      "url": "https://open.spotify.com/track/55n2WpwjQnIM1lvmxkzllb"
+    },
+    {
+      "album": {
+        "name": "Iron Man 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi"
+      },
+      "artists": [
+        {
+          "name": "Brian Tyler",
+          "url": "https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143453,
+      "name": "Iron Man 3",
+      "url": "https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK"
+    },
+    {
+      "album": {
+        "name": "Mayerling",
+        "url": "https://open.spotify.com/album/7zfXdUZDhx7uKVLUPKGJWz"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Christian Gaubert",
+          "url": "https://open.spotify.com/artist/6B3KK89Stpd0cBueX1oLzT"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105560,
+      "name": "La le\u00e7on particuli\u00e8re - Bande originale du film \"La le\u00e7on particuli\u00e8re\"",
+      "url": "https://open.spotify.com/track/4OWa2dOlmtvMDhFrFL0QA1"
+    },
+    {
+      "album": {
+        "name": "Lady Bird (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1"
+      },
+      "artists": [
+        {
+          "name": "Jon Brion",
+          "url": "https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310266,
+      "name": "Lady Bird",
+      "url": "https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM"
+    },
+    {
+      "album": {
+        "name": "Harry Potter and the Deathly Hallows, Pt. 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1tkE7mAFHRLwrySs5mQzeN"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148813,
+      "name": "Lily's Theme",
+      "url": "https://open.spotify.com/track/3Ra4rkq1ExwPXwrPQeHBWg"
+    },
+    {
+      "album": {
+        "name": "The Matrix (The Complete Score)",
+        "url": "https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb"
+      },
+      "artists": [
+        {
+          "name": "Don Davis",
+          "url": "https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53306,
+      "name": "Logos / The Matrix Main Title",
+      "url": "https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P"
+    },
+    {
+      "album": {
+        "name": "Greatest Film Classics",
+        "url": "https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1"
+      },
+      "artists": [
+        {
+          "name": "Maurice Jarre",
+          "url": "https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT"
+        },
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra;Tolga Kashif",
+          "url": "https://open.spotify.com/artist/1gf0HHWM6iOcJNgTlNXEz7"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "Love Theme - From \"Romeo and Juliet\"",
+      "url": "https://open.spotify.com/track/1CDczwnTf6RJ076lukYNpP"
+    },
+    {
+      "album": {
+        "name": "Requiem for a Dream / OST",
+        "url": "https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Lux Aeterna",
+      "url": "https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG"
+    },
+    {
+      "album": {
+        "name": "Chocolat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Main Title",
+      "url": "https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
+        "name": "The Godfather (Soundtrack)",
+        "url": "https://open.spotify.com/album/1omMQEIiKOo8NwtYD6dJai"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185466,
+      "name": "Main Title (The Godfather Waltz)",
+      "url": "https://open.spotify.com/track/1swKKFR5trqbz9yxxL3WVO"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/6NUYObCeRmbNTQjBlLQxXb"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286666,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/17oLsEzzlGFlrBKViCzmGc"
+    },
+    {
+      "album": {
+        "name": "1996",
+        "url": "https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        },
+        {
+          "name": "Jaques Morelenbaum",
+          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
+        },
+        {
+          "name": "Everton Nelson",
+          "url": "https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286466,
+      "name": "Merry Christmas Mr. Lawrence",
+      "url": "https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr"
+    },
+    {
+      "album": {
+        "name": "Wallpaper Mach 1.5-Limitless Luxury",
+        "url": "https://open.spotify.com/album/3ASxXAfRqgPYhFJm3Bzx7K"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 285653,
+      "name": "Merry Christmas Mr. Lawrence - Ryuichi Sakamoto",
+      "url": "https://open.spotify.com/track/0yjzNp15L3zkiihocemz35"
+    },
+    {
+      "album": {
+        "name": "La La Land (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3GU8BzFEAdFSRjc8jZkL3S"
+      },
+      "artists": [
+        {
+          "name": "Justin Hurwitz",
+          "url": "https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98040,
+      "name": "Mia & Sebastian\u2019s Theme",
+      "url": "https://open.spotify.com/track/1Vk4yRsz0iBzDiZEoFMQyv"
+    },
+    {
+      "album": {
+        "name": "Mission: Impossible III (Music From The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1FuLQGtfibFyfzSDDiEUhK"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51800,
+      "name": "Mission: Impossible Theme",
+      "url": "https://open.spotify.com/track/1FL7eUG80aeUeyMO2N4btN"
+    },
+    {
+      "album": {
+        "name": "The Hobbit: An Unexpected Journey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6X0qkUUcolJDrRN3i3CAlT"
+      },
+      "artists": [
+        {
+          "name": "Richard Armitage",
+          "url": "https://open.spotify.com/artist/6DQsmplq17UDA3zmiybbSb"
+        },
+        {
+          "name": "The Dwarf Cast",
+          "url": "https://open.spotify.com/artist/0jU1GFJFpeW29LAqraN7n5"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103024,
+      "name": "Misty Mountains",
+      "url": "https://open.spotify.com/track/3AAwJ043uT1wXSKDtGyuxF"
+    },
+    {
+      "album": {
+        "name": "The Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0KRdwpsJJjZXq5spIpVXse"
+      },
+      "artists": [
+        {
+          "name": "Steve Jablonsky",
+          "url": "https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "My Name Is Lincoln",
+      "url": "https://open.spotify.com/track/24V9V4erGgsbLeSa7tlimK"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition]",
+        "url": "https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246271,
+      "name": "No Time for Caution",
+      "url": "https://open.spotify.com/track/5aaXqH8rgKZxg61HjECldi"
+    },
+    {
+      "album": {
+        "name": "Gladiator: 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5XgEM5g3xWEwL4Zr6UjoLo"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254293,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/6k41naacsmD4L3i9AzCFom"
+    },
+    {
+      "album": {
+        "name": "Classically Chilled",
+        "url": "https://open.spotify.com/album/5ycKnZf7lOSktlhw9TlooQ"
+      },
+      "artists": [
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 256946,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/7l2KQa8a0rZ7rTP9InFxlO"
+    },
+    {
+      "album": {
+        "name": "Gladiator - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/22UOVuCSJnESOxHBL7UJQN"
+      },
+      "artists": [
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        },
+        {
+          "name": "Bruce Fowler",
+          "url": "https://open.spotify.com/artist/5UIYVmIt5ktD8hfTGgvwQp"
+        },
+        {
+          "name": "Yvonne S. Moriarty",
+          "url": "https://open.spotify.com/artist/1e7uyBB3QYqNvrtb6RHDnm"
+        },
+        {
+          "name": "Walt Fowler",
+          "url": "https://open.spotify.com/artist/0zaC6HTwesZn36o2dLFo8p"
+        },
+        {
+          "name": "Ladd McIntosh",
+          "url": "https://open.spotify.com/artist/1Ix9jZshKPlgDASj6oRaIz"
+        },
+        {
+          "name": "Elizabeth Finch",
+          "url": "https://open.spotify.com/artist/6EPy5KOOQfSMDhazEKjntW"
+        },
+        {
+          "name": "Jack Smalley",
+          "url": "https://open.spotify.com/artist/7u01moHYvjd6PKblXzfPso"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254293,
+      "name": "Now We Are Free",
+      "url": "https://open.spotify.com/track/1ucCVtG5dKmgvCnXHAnhR9"
+    },
+    {
+      "album": {
+        "name": "Cinema Sounds of Hans Zimmer",
+        "url": "https://open.spotify.com/album/0rmQ3exOg2zn87yROU9RSX"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 254093,
+      "name": "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "url": "https://open.spotify.com/track/1yzAzGGN9wZNySoP6wGba6"
+    },
+    {
+      "album": {
+        "name": "Great Film Music",
+        "url": "https://open.spotify.com/album/5JVvx7DoVIRYrE7eSUYdpl"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 254093,
+      "name": "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "url": "https://open.spotify.com/track/3LjM8CRcfxMXdj2IbdNfXn"
+    },
+    {
+      "album": {
+        "name": "Hans Zimmer: Innovations",
+        "url": "https://open.spotify.com/album/2kfqp4674o7RJndJBT1sBv"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2023-04-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 254093,
+      "name": "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "url": "https://open.spotify.com/track/7GHmlrmNI6Rcgn1nagowIb"
+    },
+    {
+      "album": {
+        "name": "Gladiator - Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/0HqvyHCJ9EaORFyA8BPDyW"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Klaus Badelt",
+          "url": "https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ"
+        },
+        {
+          "name": "Lisa Gerrard",
+          "url": "https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        },
+        {
+          "name": "The Lyndhurst Orchestra",
+          "url": "https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-17",
+      "duration_ms": 254306,
+      "name": "Now We Are Free - From \"Gladiator\" Soundtrack",
+      "url": "https://open.spotify.com/track/1raWfcURBd1Q3W3K0ojDCM"
+    },
+    {
+      "album": {
+        "name": "Pirates Of The Caribbean: At World's End Original Soundtrack",
+        "url": "https://open.spotify.com/album/6JoI0NEAqeJ20X6lU3Drx0"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241560,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/2wbN4OiwGcUXXpR6xKkugA"
+    },
+    {
+      "album": {
+        "name": "Pirates of the Caribbean: At World's End",
+        "url": "https://open.spotify.com/album/241F2pNbl6OIJPixynRuiu"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "One Day - From \"Pirates of the Caribbean: At World's End\"/Score",
+      "url": "https://open.spotify.com/track/3r2fhVslpEJOmmHujRwcfL"
+    },
+    {
+      "album": {
+        "name": "There Will Be Blood (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0K7xCNs6QjWl1B2mPKCnk3"
+      },
+      "artists": [
+        {
+          "name": "Jonny Greenwood",
+          "url": "https://open.spotify.com/artist/0z9s3P5vCzKcUBSxgBDyLU"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "Open Spaces",
+      "url": "https://open.spotify.com/track/5aS4hzWTQ968fPIoKsDg1q"
+    },
+    {
+      "album": {
+        "name": "Captain Corelli's Mandolin -Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA"
+      },
+      "artists": [
+        {
+          "name": "Stephen Warbeck",
+          "url": "https://open.spotify.com/artist/63Cqun2Sv18L3vXIapd9iW"
+        },
+        {
+          "name": "Orchestra",
+          "url": "https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj"
+        },
+        {
+          "name": "Nick Ingman",
+          "url": "https://open.spotify.com/artist/2fJCHSiF0CwzZ2vuYWtt2p"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "Pelagia's Song",
+      "url": "https://open.spotify.com/track/7aVRZwGYPypqF7AMN0pwCG"
+    },
+    {
+      "album": {
+        "name": "Avengers: Endgame (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197213,
+      "name": "Portals",
+      "url": "https://open.spotify.com/track/0OVtnS3l4vThGxkdqCxN6K"
+    },
+    {
+      "album": {
+        "name": "AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner (Deluxe)",
+        "url": "https://open.spotify.com/album/2n9XTeWA3qyZVxWiH8TKlV"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529946,
+      "name": "Pure spirits of the forest",
+      "url": "https://open.spotify.com/track/1IFME3mAnOYVDv4I2gMUyd"
+    },
+    {
+      "album": {
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull (International Jewel)",
+        "url": "https://open.spotify.com/album/6NKHFx1dBKrBU68RDFo76f"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305621,
+      "name": "Raiders March",
+      "url": "https://open.spotify.com/track/1YYKKW40noxJ8BNBODnriF"
+    },
+    {
+      "album": {
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oLE7gLc5TVEsJzuY6Dxf5"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305640,
+      "name": "Raiders March",
+      "url": "https://open.spotify.com/track/5duZVZ4m1TaJDTCbeHG8TG"
+    },
+    {
+      "album": {
+        "name": "Road To Perdition (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Road To Perdition",
+      "url": "https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU"
+    },
+    {
+      "album": {
+        "name": "Film Music - Williams, J. / Barry, J. / Bacharach, B. / Nyman, M. / Lloyd Webber, A. / Armstrong, C. (Film Harmonic) (Royal Philharmonic)",
+        "url": "https://open.spotify.com/album/4SijWdkTLRBhIfOvhAa4xN"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        },
+        {
+          "name": "Paul Bateman",
+          "url": "https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349920,
+      "name": "Romeo + Juliet (arr. P. Bateman): Romeo and Juliet: The Balcony Scene (arr. P. Bateman for piano and orchestra)",
+      "url": "https://open.spotify.com/track/5FOHBhUtWl2x5Z6qflA8nd"
+    },
+    {
+      "album": {
+        "name": "Titanic: Original Motion Picture Soundtrack - Collector's Anniversary Edition",
+        "url": "https://open.spotify.com/album/3XwgFTxiWxep4s1VjPEaHs"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172520,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2yEt5pA29CwKNXSplwnhgn"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 383513,
+      "name": "S.T.A.Y.",
+      "url": "https://open.spotify.com/track/1olO0IZxJUM6COX6i57RGe"
+    },
+    {
+      "album": {
+        "name": "Memoirs of a Geisha",
+        "url": "https://open.spotify.com/album/4EstIlJ9P9TVBCOlvVLADj"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91493,
+      "name": "Sayuri's Theme",
+      "url": "https://open.spotify.com/track/66EIPOdC3UZZCJdiUSRo92"
+    },
+    {
+      "album": {
+        "name": "The Shawshank Redemption",
+        "url": "https://open.spotify.com/album/5ucvCY0hFIAL95DVKohEiB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Newman",
+          "url": "https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112973,
+      "name": "Shawshank Prison - Stoic Theme",
+      "url": "https://open.spotify.com/track/5zMuzsE5kvd54FwraufeeK"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346933,
+      "name": "Star Wars (Main Theme)",
+      "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
+    },
+    {
+      "album": {
+        "name": "Interstellar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7a78GiEowpaCa7ZJs44xUU"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 412424,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/1PyEOnj3tdaHAcDcsqTYbv"
+    },
+    {
+      "album": {
+        "name": "Pearl Harbor - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6d0LelwtKFd0F0ZfImWWDz"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219600,
+      "name": "Tennessee",
+      "url": "https://open.spotify.com/track/2O0UWIMFeMtFR0LJMuIPjJ"
+    },
+    {
+      "album": {
+        "name": "How To Train Your Dragon (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1kTnC045mQqurTQvGMGpmU"
+      },
+      "artists": [
+        {
+          "name": "John Powell",
+          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156306,
+      "name": "Test Drive - From How To Train Your Dragon Music From The Motion Picture",
+      "url": "https://open.spotify.com/track/2QTDuJIGKUjR7E2Q6KupIh"
+    },
+    {
+      "album": {
+        "name": "The Avengers (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3wvpIkfl4oOgZLMaQBWadf"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123360,
+      "name": "The Avengers",
+      "url": "https://open.spotify.com/track/5SXsXjVJCWeJuf7FHvgBYR"
+    },
+    {
+      "album": {
+        "name": "Avengers Assemble",
+        "url": "https://open.spotify.com/album/4woJ0YJRcxxt2VrdVJ6ERW"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123360,
+      "name": "The Avengers - From \"The Avengers\"/Score",
+      "url": "https://open.spotify.com/track/2exOqFZpfHpQE8E870qz1A"
+    },
+    {
+      "album": {
+        "name": "Movie Soundtracks",
+        "url": "https://open.spotify.com/album/6ruP7gmmM6BfjKvX7QwGBA"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 123360,
+      "name": "The Avengers - From \"The Avengers\"/Score",
+      "url": "https://open.spotify.com/track/7qlhVOhCgs3AtHD5FLv18B"
+    },
+    {
+      "album": {
+        "name": "The Batman (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/18nTX27XXEYARGmWMTgD19"
+      },
+      "artists": [
+        {
+          "name": "Michael Giacchino",
+          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
+        }
+      ],
+      "date_added": "2023-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407533,
+      "name": "The Batman",
+      "url": "https://open.spotify.com/track/1NkI8DtCnjcWVCVLF0gB71"
+    },
+    {
+      "album": {
+        "name": "Batman (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/1zqfyMgA1aXwVDbukfqSdE"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "The Batman Theme",
+      "url": "https://open.spotify.com/track/50csT5Qb2qOF7lHdDQ1Sbx"
+    },
+    {
+      "album": {
+        "name": "The Lord of the Rings: The Fellowship of the Ring (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/04rz93AqGy9JduzV3K81Dh"
+      },
+      "artists": [
+        {
+          "name": "Howard Shore",
+          "url": "https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7"
+        },
+        {
+          "name": "Edward Ross",
+          "url": "https://open.spotify.com/artist/4bGeBg1rtCaIQEyxuRgctG"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 440800,
+      "name": "The Breaking of the Fellowship (feat. \"In Dreams\")",
+      "url": "https://open.spotify.com/track/1ykbtFnlIjmIFnZ8j6wg6i"
+    },
+    {
+      "album": {
+        "name": "The Hunger Games: Original Motion Picture Score",
+        "url": "https://open.spotify.com/album/6PH1qpo8wXTJnhZHnQi8YT"
+      },
+      "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118413,
+      "name": "The Countdown",
+      "url": "https://open.spotify.com/track/3i3g2kJg5DMrp0rC5g98Ow"
+    },
+    {
+      "album": {
+        "name": "John Williams: A Life In Music",
+        "url": "https://open.spotify.com/album/35IxiAY1JPlCVM93bD4vMI"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296173,
+      "name": "The Flight To Neverland - From \"Hook\"",
+      "url": "https://open.spotify.com/track/20g6TJr37OZ9MQjM8odlrW"
+    },
+    {
+      "album": {
+        "name": "John Williams: A Life In Music",
+        "url": "https://open.spotify.com/album/6qhYCCFVOQKNFq5QbYpje8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gavin Greenaway",
+          "url": "https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296173,
+      "name": "The Flight To Neverland - From \"Hook\"",
+      "url": "https://open.spotify.com/track/5lRilqjJwiywcHntGRWbpx"
+    },
+    {
+      "album": {
+        "name": "Bicentennial Man - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7zp6npGMq8bwq6z9944ExA"
+      },
+      "artists": [
+        {
+          "name": "James Horner",
+          "url": "https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370666,
+      "name": "The Gift Of Mortality - Instrumental",
+      "url": "https://open.spotify.com/track/4ZnQXH7WqUCbzffYaeSMRM"
+    },
+    {
+      "album": {
+        "name": "The Godfather",
+        "url": "https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
+      "duration_ms": 185466,
+      "name": "The Godfather Waltz (Main Title)",
+      "url": "https://open.spotify.com/track/3WoSJF85H0qywD4qLp4HDd"
+    },
+    {
+      "album": {
+        "name": "Love Theme From \"The Godfather\" / The Godfather Waltz (Main Title)",
+        "url": "https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185466,
+      "name": "The Godfather Waltz (Main Title) - From \"The Godfather\" Soundtrack",
+      "url": "https://open.spotify.com/track/7C7VLxXI4bX0JWzWVBRaTH"
+    },
+    {
+      "album": {
+        "name": "Nino Rota - Musica E Sogno",
+        "url": "https://open.spotify.com/album/2RmQuzMwHzTTvo832chOlf"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        },
+        {
+          "name": "Milan La Scala Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/62ACMwlsLkaQDAhYDgVokj"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "The Godfather: V. Love Theme",
+      "url": "https://open.spotify.com/track/3Ii2KG3YLrC0KNbuJKAFj2"
+    },
+    {
+      "album": {
+        "name": "The Imitation Game (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2CsfKW5tze2DZKq49iARk1"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157026,
+      "name": "The Imitation Game",
+      "url": "https://open.spotify.com/track/0o9ivTBX7mjTnaUYF4Gk6t"
+    },
+    {
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179573,
+      "name": "The Imperial March (Darth Vader's Theme)",
+      "url": "https://open.spotify.com/track/2bw4WgXyXP90hIex7ur58y"
+    },
+    {
+      "album": {
+        "name": "Dances With Wolves - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0Z4Vrnqe9T959fiFI2Xyax"
+      },
+      "artists": [
+        {
+          "name": "John Barry",
+          "url": "https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "The John Dunbar Theme (From \"Dances With Wolves\")",
+      "url": "https://open.spotify.com/track/1ghqlcFUP85h1Gxn4Oa2Kt"
+    },
+    {
+      "album": {
+        "name": "The Last Of The Mohicans",
+        "url": "https://open.spotify.com/album/4AVb7Ga7W8x16X41UjCyXv"
+      },
+      "artists": [
+        {
+          "name": "Joel McNeely",
+          "url": "https://open.spotify.com/artist/59UCaDN9qLklKVTxSiEyMV"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 169693,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/32HMVmB4AgLikkNiL9ikX9"
+    },
+    {
+      "album": {
+        "name": "The Last Of The Mohicans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/71NrwUZGV90FcwYjfq8D9h"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jones",
+          "url": "https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/28BMJNUEpAFUiPOBCk3Xw2"
+    },
+    {
+      "album": {
+        "name": "Last of the Mohicans (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3msCAE2EZOM94uyivazQN8"
+      },
+      "artists": [
+        {
+          "name": "Trevor Jones",
+          "url": "https://open.spotify.com/artist/5928hF4c1MriHfAgpFf8ya"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169066,
+      "name": "The Kiss",
+      "url": "https://open.spotify.com/track/5umoZmJLW98rlImZulfLp5"
+    },
+    {
+      "album": {
+        "name": "The Magnificent Seven (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5XyqDuYkkEyTWmjUfUfHpb"
+      },
+      "artists": [
+        {
+          "name": "Elmer Bernstein",
+          "url": "https://open.spotify.com/artist/7sXdMnZeR5MsLKToZKpR2c"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109932,
+      "name": "The Magnificent Seven",
+      "url": "https://open.spotify.com/track/0lEtONdoCJJwUfmXUS2Zmk"
+    },
+    {
+      "album": {
+        "name": "Moonlight (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5evArWgt3lYByavFqzbo5x"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122253,
+      "name": "The Middle of the World",
+      "url": "https://open.spotify.com/track/5pn4wdFwix4qr5SlNyRw7W"
+    },
+    {
+      "album": {
+        "name": "The Piano: Music From The Motion Picture",
+        "url": "https://open.spotify.com/album/2QxIR22Sj9xGc4mOTN550A"
+      },
+      "artists": [
+        {
+          "name": "Michael Nyman",
+          "url": "https://open.spotify.com/artist/2LvhyFvUCDJ7gFuEBOcrM8"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256493,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/53ann6bENp7BF8uklrzQAp"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4LiGWgbLsZUCaUmCtdvr11"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161880,
+      "name": "The Revenant - Main Theme",
+      "url": "https://open.spotify.com/track/4KLSoarcSs3tO4JO934SAy"
+    },
+    {
+      "album": {
+        "name": "The Revenant (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/676FxUf8KIxyd45f2fvXaR"
+      },
+      "artists": [
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161465,
+      "name": "The Revenant Main Theme",
+      "url": "https://open.spotify.com/track/4QrLwgJt0OGkUFBbQKk0fL"
+    },
+    {
+      "album": {
+        "name": "Jurassic Park",
+        "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "Theme From Jurassic Park",
+      "url": "https://open.spotify.com/track/2TZbQZXOuR8osP2AK8yYMN"
+    },
+    {
+      "album": {
+        "name": "Schindler's List",
+        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Itzhak Perlman",
+          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Theme From Schindler's List",
+      "url": "https://open.spotify.com/track/42gZM6AQ9BDMaTyTmMDVlN"
+    },
+    {
+      "album": {
+        "name": "Inception (Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275556,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown"
+    },
+    {
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
+    },
+    {
+      "album": {
+        "name": "Ghost in the Shell (Music Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/2ebMxOVmA8iHaCdpV2FSoL"
+      },
+      "artists": [
+        {
+          "name": "Kenji Kawai",
+          "url": "https://open.spotify.com/artist/0lzVrkjlIZJH18hk2Gcjkp"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-05",
+      "duration_ms": 157280,
+      "name": "Utai IV: Reawakening",
+      "url": "https://open.spotify.com/track/18EMYXJEhYZbXyBL5lOXR1"
+    },
+    {
+      "album": {
+        "name": "Moon (Original Score)",
+        "url": "https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160"
+      },
+      "artists": [
+        {
+          "name": "Clint Mansell",
+          "url": "https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 431413,
+      "name": "Welcome to Lunar Industries",
+      "url": "https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx"
+    },
+    {
+      "album": {
+        "name": "Atonement OST",
+        "url": "https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280560,
+      "name": "With My Own Eyes",
+      "url": "https://open.spotify.com/track/1X26LGm0cnHhzAvXpIYIWc"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge I & II",
+        "url": "https://open.spotify.com/album/6SliTFEDNeVTMYivULb3x4"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 148106,
+      "name": "Your Song (From The Rehearsal Montage Scene) - From \"Moulin Rouge 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/43sTRY9NhFFspcW2ug0pkU"
+    },
+    {
+      "album": {
+        "name": "Moulin Rouge 2",
+        "url": "https://open.spotify.com/album/1AqmVZCKQc50JZ0GiYbDkU"
+      },
+      "artists": [
+        {
+          "name": "Craig Armstrong",
+          "url": "https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148106,
+      "name": "Your Song (From The Rehearsal Montage Scene) - From \"Moulin Rouge 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/4OapJjf0gVMc2MHdrcgXOm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1tz6EDao8it"
 }

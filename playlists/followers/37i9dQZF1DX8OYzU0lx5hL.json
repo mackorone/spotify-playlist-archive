@@ -1,735 +1,1647 @@
 {
-  "2021-12-25": 339504,
-  "2021-12-26": 339631,
-  "2021-12-27": 339886,
-  "2021-12-28": 339887,
-  "2021-12-29": 340024,
-  "2021-12-30": 340165,
-  "2021-12-31": 340295,
-  "2022-01-01": 340565,
-  "2022-01-02": 340613,
-  "2022-01-03": 340739,
-  "2022-01-04": 340880,
-  "2022-01-05": 341028,
-  "2022-01-06": 341154,
-  "2022-01-07": 341288,
-  "2022-01-08": 341607,
-  "2022-01-09": 341611,
-  "2022-01-10": 341765,
-  "2022-01-11": 341879,
-  "2022-01-12": 342030,
-  "2022-01-13": 342166,
-  "2022-01-14": 342316,
-  "2022-01-15": 342698,
-  "2022-01-16": 342713,
-  "2022-01-17": 343120,
-  "2022-01-18": 343135,
-  "2022-01-19": 343263,
-  "2022-01-20": 343400,
-  "2022-01-21": 343565,
-  "2022-01-22": 343758,
-  "2022-01-23": 344016,
-  "2022-01-24": 344212,
-  "2022-01-25": 344359,
-  "2022-01-26": 344522,
-  "2022-01-27": 344714,
-  "2022-01-28": 344858,
-  "2022-01-29": 345038,
-  "2022-01-30": 345253,
-  "2022-01-31": 345458,
-  "2022-02-01": 345598,
-  "2022-02-02": 345742,
-  "2022-02-03": 345887,
-  "2022-02-04": 346061,
-  "2022-02-05": 346235,
-  "2022-02-06": 346414,
-  "2022-02-07": 346601,
-  "2022-02-08": 346757,
-  "2022-02-09": 346928,
-  "2022-02-10": 347089,
-  "2022-02-11": 347237,
-  "2022-02-12": 347393,
-  "2022-02-13": 347565,
-  "2022-02-14": 347752,
-  "2022-02-15": 347851,
-  "2022-02-16": 347991,
-  "2022-02-17": 348090,
-  "2022-02-18": 348236,
-  "2022-02-19": 348367,
-  "2022-02-20": 348578,
-  "2022-02-21": 348754,
-  "2022-02-22": 349001,
-  "2022-02-23": 349190,
-  "2022-02-24": 349387,
-  "2022-02-25": 349521,
-  "2022-02-26": 349678,
-  "2022-02-27": 349995,
-  "2022-02-28": 349995,
-  "2022-03-01": 350119,
-  "2022-03-02": 350261,
-  "2022-03-03": 350385,
-  "2022-03-04": 350515,
-  "2022-03-05": 350656,
-  "2022-03-06": 350833,
-  "2022-03-07": 351019,
-  "2022-03-08": 351148,
-  "2022-03-09": 351284,
-  "2022-03-10": 351420,
-  "2022-03-11": 351583,
-  "2022-03-12": 351714,
-  "2022-03-13": 351886,
-  "2022-03-14": 352057,
-  "2022-03-15": 352190,
-  "2022-03-16": 352292,
-  "2022-03-17": 352433,
-  "2022-03-18": 352605,
-  "2022-03-19": 352696,
-  "2022-03-20": 352696,
-  "2022-03-21": 353074,
-  "2022-03-22": 353199,
-  "2022-03-23": 353323,
-  "2022-03-24": 353463,
-  "2022-03-25": 353643,
-  "2022-03-26": 353768,
-  "2022-03-27": 353943,
-  "2022-03-28": 354132,
-  "2022-03-30": 354412,
-  "2022-03-31": 354592,
-  "2022-04-01": 354741,
-  "2022-04-02": 354893,
-  "2022-04-03": 355090,
-  "2022-04-04": 355268,
-  "2022-04-05": 355405,
-  "2022-04-06": 355539,
-  "2022-04-07": 355686,
-  "2022-04-08": 355841,
-  "2022-04-09": 355978,
-  "2022-04-10": 356295,
-  "2022-04-11": 356420,
-  "2022-04-12": 356433,
-  "2022-04-13": 356551,
-  "2022-04-14": 356708,
-  "2022-04-15": 356831,
-  "2022-04-16": 357039,
-  "2022-04-17": 357209,
-  "2022-04-18": 357399,
-  "2022-04-19": 357551,
-  "2022-04-20": 357680,
-  "2022-04-21": 357781,
-  "2022-04-22": 357942,
-  "2022-04-23": 358089,
-  "2022-04-24": 358238,
-  "2022-04-25": 358405,
-  "2022-04-26": 358525,
-  "2022-04-27": 358686,
-  "2022-04-28": 358801,
-  "2022-04-29": 359079,
-  "2022-04-30": 359291,
-  "2022-05-01": 359478,
-  "2022-05-02": 359478,
-  "2022-05-03": 359589,
-  "2022-05-04": 359714,
-  "2022-05-05": 359813,
-  "2022-05-06": 359941,
-  "2022-05-07": 360119,
-  "2022-05-08": 360384,
-  "2022-05-09": 360416,
-  "2022-05-10": 360534,
-  "2022-05-11": 360660,
-  "2022-05-12": 360773,
-  "2022-05-13": 360895,
-  "2022-05-14": 361011,
-  "2022-05-15": 361164,
-  "2022-05-16": 361330,
-  "2022-05-17": 361447,
-  "2022-05-18": 361573,
-  "2022-05-19": 361699,
-  "2022-05-20": 361846,
-  "2022-05-21": 362108,
-  "2022-05-22": 362108,
-  "2022-05-23": 362264,
-  "2022-05-24": 362359,
-  "2022-05-25": 362486,
-  "2022-05-26": 362616,
-  "2022-05-27": 362780,
-  "2022-05-28": 362901,
-  "2022-05-29": 363059,
-  "2022-05-30": 363218,
-  "2022-05-31": 363355,
-  "2022-06-01": 363550,
-  "2022-06-02": 363571,
-  "2022-06-03": 363712,
-  "2022-06-04": 363862,
-  "2022-06-05": 364009,
-  "2022-06-06": 364141,
-  "2022-06-07": 364274,
-  "2022-06-08": 364424,
-  "2022-06-09": 364523,
-  "2022-06-10": 364656,
-  "2022-06-11": 364782,
-  "2022-06-12": 364928,
-  "2022-06-13": 365068,
-  "2022-06-14": 365185,
-  "2022-06-15": 365305,
-  "2022-06-16": 365441,
-  "2022-06-17": 365578,
-  "2022-06-18": 365728,
-  "2022-06-19": 366099,
-  "2022-06-20": 366099,
-  "2022-06-21": 366249,
-  "2022-06-22": 366472,
-  "2022-06-23": 366472,
-  "2022-06-24": 366630,
-  "2022-06-25": 366771,
-  "2022-06-26": 366909,
-  "2022-06-27": 367060,
-  "2022-06-28": 367189,
-  "2022-06-29": 367316,
-  "2022-06-30": 367473,
-  "2022-07-01": 367624,
-  "2022-07-02": 367774,
-  "2022-07-03": 367964,
-  "2022-07-04": 368156,
-  "2022-07-05": 368312,
-  "2022-07-06": 368459,
-  "2022-07-07": 368589,
-  "2022-07-08": 368725,
-  "2022-07-09": 368854,
-  "2022-07-10": 369038,
-  "2022-07-11": 369226,
-  "2022-07-12": 369380,
-  "2022-07-13": 369529,
-  "2022-07-14": 369676,
-  "2022-07-15": 369825,
-  "2022-07-16": 369987,
-  "2022-07-17": 370167,
-  "2022-07-18": 370336,
-  "2022-07-19": 370485,
-  "2022-07-20": 370611,
-  "2022-07-21": 370731,
-  "2022-07-22": 370889,
-  "2022-07-23": 371054,
-  "2022-07-24": 371207,
-  "2022-07-25": 371383,
-  "2022-07-26": 371517,
-  "2022-07-27": 371651,
-  "2022-07-28": 371776,
-  "2022-07-29": 371923,
-  "2022-07-30": 372244,
-  "2022-07-31": 372244,
-  "2022-08-01": 372420,
-  "2022-08-02": 372708,
-  "2022-08-03": 372708,
-  "2022-08-04": 372853,
-  "2022-08-05": 373008,
-  "2022-08-06": 373175,
-  "2022-08-07": 373337,
-  "2022-08-08": 373536,
-  "2022-08-09": 373707,
-  "2022-08-10": 373840,
-  "2022-08-11": 374003,
-  "2022-08-12": 374174,
-  "2022-08-13": 374317,
-  "2022-08-14": 374462,
-  "2022-08-15": 374641,
-  "2022-08-16": 374767,
-  "2022-08-17": 374926,
-  "2022-08-18": 375068,
-  "2022-08-19": 375236,
-  "2022-08-20": 375392,
-  "2022-08-21": 375543,
-  "2022-08-22": 375723,
-  "2022-08-23": 375879,
-  "2022-08-24": 376009,
-  "2022-08-25": 376157,
-  "2022-08-26": 376319,
-  "2022-08-27": 376473,
-  "2022-08-28": 376718,
-  "2022-08-29": 376876,
-  "2022-08-30": 376961,
-  "2022-08-31": 376902,
-  "2022-09-01": 376803,
-  "2022-09-02": 376726,
-  "2022-09-03": 376508,
-  "2022-09-04": 376516,
-  "2022-09-05": 376671,
-  "2022-09-06": 376800,
-  "2022-09-07": 376952,
-  "2022-09-09": 377254,
-  "2022-09-10": 377432,
-  "2022-09-11": 377590,
-  "2022-09-12": 377787,
-  "2022-09-13": 377922,
-  "2022-09-15": 378170,
-  "2022-09-16": 378328,
-  "2022-09-17": 378483,
-  "2022-09-18": 378667,
-  "2022-09-19": 378831,
-  "2022-09-20": 378939,
-  "2022-09-21": 379066,
-  "2022-09-22": 379206,
-  "2022-09-23": 379339,
-  "2022-09-24": 379479,
-  "2022-09-25": 379659,
-  "2022-09-26": 379812,
-  "2022-09-27": 379962,
-  "2022-09-28": 380101,
-  "2022-09-29": 380272,
-  "2022-09-30": 380435,
-  "2022-10-01": 380617,
-  "2022-10-02": 380817,
-  "2022-10-03": 381008,
-  "2022-10-04": 381145,
-  "2022-10-05": 381321,
-  "2022-10-06": 381497,
-  "2022-10-07": 381669,
-  "2022-10-08": 381843,
-  "2022-10-09": 382229,
-  "2022-10-10": 382265,
-  "2022-10-11": 382388,
-  "2022-10-12": 382522,
-  "2022-10-13": 382654,
-  "2022-10-14": 382829,
-  "2022-10-15": 382993,
-  "2022-10-16": 383196,
-  "2022-10-17": 383413,
-  "2022-10-18": 383580,
-  "2022-10-19": 383749,
-  "2022-10-20": 383914,
-  "2022-10-21": 384093,
-  "2022-10-22": 384270,
-  "2022-10-23": 384496,
-  "2022-10-24": 384679,
-  "2022-10-25": 384835,
-  "2022-10-26": 384948,
-  "2022-10-27": 385089,
-  "2022-10-28": 385236,
-  "2022-10-29": 385430,
-  "2022-10-30": 385593,
-  "2022-10-31": 385735,
-  "2022-11-01": 385896,
-  "2022-11-02": 386038,
-  "2022-11-03": 386208,
-  "2022-11-04": 386404,
-  "2022-11-05": 386588,
-  "2022-11-06": 386807,
-  "2022-11-07": 386994,
-  "2022-11-08": 387160,
-  "2022-11-09": 387346,
-  "2022-11-10": 387494,
-  "2022-11-11": 387668,
-  "2022-11-12": 387904,
-  "2022-11-13": 388091,
-  "2022-11-14": 388291,
-  "2022-11-15": 388477,
-  "2022-11-16": 388623,
-  "2022-11-17": 388784,
-  "2022-11-18": 388841,
-  "2022-11-19": 388913,
-  "2022-11-20": 389049,
-  "2022-11-21": 389228,
-  "2022-11-22": 389440,
-  "2022-11-23": 389612,
-  "2022-11-24": 389913,
-  "2022-11-25": 390184,
-  "2022-11-26": 390435,
-  "2022-11-27": 390739,
-  "2022-11-28": 391009,
-  "2022-11-29": 391223,
-  "2022-11-30": 391448,
-  "2022-12-01": 391663,
-  "2022-12-02": 391817,
-  "2022-12-03": 392125,
-  "2022-12-04": 392401,
-  "2022-12-05": 392674,
-  "2022-12-06": 392837,
-  "2022-12-07": 393032,
-  "2022-12-08": 393186,
-  "2022-12-09": 393458,
-  "2022-12-10": 393714,
-  "2022-12-11": 394015,
-  "2022-12-12": 394332,
-  "2022-12-13": 394512,
-  "2022-12-14": 394699,
-  "2022-12-15": 394871,
-  "2022-12-16": 395058,
-  "2022-12-17": 395291,
-  "2022-12-18": 395535,
-  "2022-12-19": 395743,
-  "2022-12-20": 396111,
-  "2022-12-21": 396111,
-  "2022-12-22": 396289,
-  "2022-12-24": 396682,
-  "2022-12-25": 396880,
-  "2022-12-26": 397085,
-  "2022-12-27": 397308,
-  "2022-12-28": 397542,
-  "2022-12-29": 397736,
-  "2022-12-30": 397958,
-  "2022-12-31": 398198,
-  "2023-01-01": 398401,
-  "2023-01-02": 398637,
-  "2023-01-03": 398841,
-  "2023-01-04": 399013,
-  "2023-01-05": 399223,
-  "2023-01-06": 399507,
-  "2023-01-07": 399831,
-  "2023-01-08": 399914,
-  "2023-01-09": 400146,
-  "2023-01-10": 400337,
-  "2023-01-11": 400556,
-  "2023-01-12": 400746,
-  "2023-01-13": 400968,
-  "2023-01-14": 401313,
-  "2023-01-15": 401376,
-  "2023-01-16": 401603,
-  "2023-01-17": 401776,
-  "2023-01-18": 401931,
-  "2023-01-19": 402104,
-  "2023-01-20": 402274,
-  "2023-01-21": 402453,
-  "2023-01-22": 402686,
-  "2023-01-23": 402911,
-  "2023-01-24": 403094,
-  "2023-01-25": 403270,
-  "2023-01-26": 403433,
-  "2023-01-27": 403602,
-  "2023-01-28": 403782,
-  "2023-01-29": 403998,
-  "2023-01-30": 404202,
-  "2023-01-31": 404202,
-  "2023-02-01": 404510,
-  "2023-02-02": 404668,
-  "2023-02-03": 404826,
-  "2023-02-04": 405023,
-  "2023-02-05": 405270,
-  "2023-02-06": 405500,
-  "2023-02-07": 405650,
-  "2023-02-08": 405975,
-  "2023-02-09": 405975,
-  "2023-02-10": 406187,
-  "2023-02-11": 406377,
-  "2023-02-12": 406850,
-  "2023-02-13": 407028,
-  "2023-02-14": 407028,
-  "2023-02-15": 407167,
-  "2023-02-16": 407329,
-  "2023-02-17": 407491,
-  "2023-02-18": 407910,
-  "2023-02-19": 407952,
-  "2023-02-20": 408125,
-  "2023-02-21": 408298,
-  "2023-02-22": 408761,
-  "2023-02-23": 409749,
-  "2023-02-24": 410469,
-  "2023-02-25": 411016,
-  "2023-02-26": 411286,
-  "2023-02-27": 411765,
-  "2023-02-28": 411765,
-  "2023-03-01": 411933,
-  "2023-03-02": 412106,
-  "2023-03-03": 412322,
-  "2023-03-04": 412539,
-  "2023-03-05": 413017,
-  "2023-03-06": 413017,
-  "2023-03-07": 413208,
-  "2023-03-08": 413388,
-  "2023-03-09": 413615,
-  "2023-03-10": 413800,
-  "2023-03-11": 414005,
-  "2023-03-12": 414242,
-  "2023-03-13": 414475,
-  "2023-03-14": 414659,
-  "2023-03-15": 414843,
-  "2023-03-16": 415048,
-  "2023-03-17": 415048,
-  "2023-03-18": 415461,
-  "2023-03-19": 415701,
-  "2023-03-20": 415931,
-  "2023-03-21": 416105,
-  "2023-03-22": 416273,
-  "2023-03-23": 416441,
-  "2023-03-24": 416441,
-  "2023-03-25": 416781,
-  "2023-03-26": 417006,
-  "2023-03-27": 417203,
-  "2023-03-28": 417348,
-  "2023-03-29": 417521,
-  "2023-03-30": 417838,
-  "2023-03-31": 417838,
-  "2023-04-01": 417987,
-  "2023-04-02": 418170,
-  "2023-04-03": 418367,
-  "2023-04-04": 418535,
-  "2023-04-05": 418667,
-  "2023-04-06": 418828,
-  "2023-04-07": 418971,
-  "2023-04-09": 419388,
-  "2023-04-10": 419555,
-  "2023-04-11": 419855,
-  "2023-04-12": 419855,
-  "2023-04-13": 420022,
-  "2023-04-14": 420164,
-  "2023-04-15": 420323,
-  "2023-04-16": 420541,
-  "2023-04-17": 420685,
-  "2023-04-18": 420812,
-  "2023-04-19": 420996,
-  "2023-04-20": 421136,
-  "2023-04-21": 421268,
-  "2023-04-22": 421531,
-  "2023-04-23": 421729,
-  "2023-04-24": 421939,
-  "2023-04-25": 422077,
-  "2023-04-26": 422274,
-  "2023-04-27": 422427,
-  "2023-04-28": 422588,
-  "2023-04-29": 422764,
-  "2023-04-30": 422953,
-  "2023-05-01": 423164,
-  "2023-05-02": 423322,
-  "2023-05-03": 423440,
-  "2023-05-04": 423583,
-  "2023-05-05": 423752,
-  "2023-05-06": 423947,
-  "2023-05-07": 424115,
-  "2023-05-08": 424260,
-  "2023-05-09": 424421,
-  "2023-05-10": 424591,
-  "2023-05-11": 424720,
-  "2023-05-12": 424876,
-  "2023-05-13": 425060,
-  "2023-05-14": 425224,
-  "2023-05-15": 425387,
-  "2023-05-16": 425536,
-  "2023-05-17": 425672,
-  "2023-05-18": 425824,
-  "2023-05-19": 425984,
-  "2023-05-20": 426372,
-  "2023-05-21": 426372,
-  "2023-05-22": 426372,
-  "2023-05-23": 426689,
-  "2023-05-24": 426957,
-  "2023-05-25": 427005,
-  "2023-05-26": 427157,
-  "2023-05-27": 427321,
-  "2023-05-28": 427495,
-  "2023-05-29": 427495,
-  "2023-05-30": 427808,
-  "2023-05-31": 427955,
-  "2023-06-01": 428085,
-  "2023-06-02": 428227,
-  "2023-06-03": 428382,
-  "2023-06-04": 428546,
-  "2023-06-05": 428704,
-  "2023-06-06": 428851,
-  "2023-06-07": 428995,
-  "2023-06-08": 429152,
-  "2023-06-09": 429295,
-  "2023-06-10": 429441,
-  "2023-06-11": 429630,
-  "2023-06-12": 429807,
-  "2023-06-13": 429970,
-  "2023-06-14": 430113,
-  "2023-06-15": 430260,
-  "2023-06-16": 430387,
-  "2023-06-17": 430545,
-  "2023-06-18": 430688,
-  "2023-06-19": 430860,
-  "2023-06-20": 430964,
-  "2023-06-21": 431108,
-  "2023-06-22": 431270,
-  "2023-06-23": 431396,
-  "2023-06-24": 431555,
-  "2023-06-25": 431718,
-  "2023-06-26": 431938,
-  "2023-06-27": 432078,
-  "2023-06-28": 432248,
-  "2023-06-29": 432382,
-  "2023-06-30": 432531,
-  "2023-07-01": 432856,
-  "2023-07-02": 432856,
-  "2023-07-03": 433038,
-  "2023-07-04": 433217,
-  "2023-07-05": 433367,
-  "2023-07-06": 433646,
-  "2023-07-07": 433646,
-  "2023-07-08": 433800,
-  "2023-07-09": 433947,
-  "2023-07-10": 434097,
-  "2023-07-11": 434235,
-  "2023-07-12": 434372,
-  "2023-07-13": 434528,
-  "2023-07-14": 434651,
-  "2023-07-15": 434759,
-  "2023-07-16": 434970,
-  "2023-07-17": 435156,
-  "2023-07-18": 435299,
-  "2023-07-19": 435471,
-  "2023-07-20": 435622,
-  "2023-07-21": 435810,
-  "2023-07-22": 436000,
-  "2023-07-23": 436193,
-  "2023-07-24": 436410,
-  "2023-07-25": 436583,
-  "2023-07-26": 436744,
-  "2023-07-27": 436889,
-  "2023-07-28": 437083,
-  "2023-07-29": 437267,
-  "2023-07-30": 437442,
-  "2023-07-31": 437624,
-  "2023-08-01": 437781,
-  "2023-08-02": 437936,
-  "2023-08-03": 438081,
-  "2023-08-04": 438223,
-  "2023-08-05": 438402,
-  "2023-08-06": 438757,
-  "2023-08-07": 438757,
-  "2023-08-08": 438911,
-  "2023-08-09": 439055,
-  "2023-08-10": 439223,
-  "2023-08-11": 439378,
-  "2023-08-12": 439534,
-  "2023-08-13": 439679,
-  "2023-08-14": 439845,
-  "2023-08-15": 440157,
-  "2023-08-16": 440157,
-  "2023-08-17": 440280,
-  "2023-08-18": 440470,
-  "2023-08-19": 440635,
-  "2023-08-20": 440809,
-  "2023-08-21": 441000,
-  "2023-08-22": 441169,
-  "2023-08-23": 441315,
-  "2023-08-24": 441468,
-  "2023-08-25": 441625,
-  "2023-08-26": 441796,
-  "2023-08-27": 441973,
-  "2023-08-28": 442139,
-  "2023-08-29": 442306,
-  "2023-08-30": 442418,
-  "2023-08-31": 442542,
-  "2023-09-01": 442774,
-  "2023-09-02": 442774,
-  "2023-09-03": 443062,
-  "2023-09-04": 443187,
-  "2023-09-05": 443272,
-  "2023-09-06": 443342,
-  "2023-09-07": 443562,
-  "2023-09-08": 443734,
-  "2023-09-09": 443876,
-  "2023-09-10": 444030,
-  "2023-09-11": 444172,
-  "2023-09-12": 444271,
-  "2023-09-13": 444388,
-  "2023-09-14": 444514,
-  "2023-09-15": 444630,
-  "2023-09-16": 444768,
-  "2023-09-17": 444921,
-  "2023-09-18": 445055,
-  "2023-09-19": 445144,
-  "2023-09-20": 445240,
-  "2023-09-21": 445338,
-  "2023-09-22": 445446,
-  "2023-09-23": 445588,
-  "2023-09-24": 445698,
-  "2023-09-25": 445797,
-  "2023-09-26": 445922,
-  "2023-09-27": 446011,
-  "2023-09-28": 446123,
-  "2023-09-29": 446209,
-  "2023-09-30": 446341,
-  "2023-10-01": 446481,
-  "2023-10-02": 446619,
-  "2023-10-03": 446717,
-  "2023-10-04": 446815,
-  "2023-10-05": 446955,
-  "2023-10-06": 447070,
-  "2023-10-07": 447182,
-  "2023-10-08": 447299,
-  "2023-10-09": 447430,
-  "2023-10-10": 447452,
-  "2023-10-11": 447617,
-  "2023-10-12": 447617,
-  "2023-10-13": 447695,
-  "2023-10-14": 447788,
-  "2023-10-15": 447898,
-  "2023-10-16": 448040,
-  "2023-10-17": 448117,
-  "2023-10-18": 448204,
-  "2023-10-19": 448296,
-  "2023-10-20": 448420,
-  "2023-10-21": 448542,
-  "2023-10-22": 448683,
-  "2023-10-23": 448802,
-  "2023-10-24": 448883,
-  "2023-10-25": 448997,
-  "2023-10-26": 449106,
-  "2023-10-27": 449223,
-  "2023-10-28": 449223,
-  "2023-10-29": 449442,
-  "2023-10-30": 449567,
-  "2023-10-31": 449567,
-  "2023-11-01": 449765,
-  "2023-11-02": 449864,
-  "2023-11-03": 449982,
-  "2023-11-04": 450105,
-  "2023-11-05": 450232,
-  "2023-11-06": 450355,
-  "2023-11-07": 450432,
-  "2023-11-08": 450543,
-  "2023-11-09": 450646,
-  "2023-11-10": 450731,
-  "2023-11-11": 450855,
-  "2023-11-12": 450961,
-  "2023-11-13": 451083,
-  "2023-11-14": 451158,
-  "2023-11-15": 451158,
-  "2023-11-16": 451333,
-  "2023-11-17": 451545,
-  "2023-11-18": 451545,
-  "2023-11-19": 451668,
-  "2023-11-20": 451773,
-  "2023-11-21": 451870,
-  "2023-11-22": 451959,
-  "2023-11-23": 452060,
-  "2023-11-24": 452060,
-  "2023-11-25": 452261,
-  "2023-11-26": 452367,
-  "2023-11-27": 452483,
-  "2023-11-28": 452584,
-  "2023-11-29": 452770,
-  "2023-11-30": 452770,
-  "2023-12-01": 452860,
-  "2023-12-02": 452955,
-  "2023-12-03": 453063,
-  "2023-12-04": 453156,
-  "2023-12-05": 453273,
-  "2023-12-06": 453358,
-  "2023-12-07": 453450,
-  "2023-12-08": 453557,
-  "2023-12-09": 453673,
-  "2023-12-10": 453803,
-  "2023-12-11": 453944,
-  "2023-12-12": 454050,
-  "2023-12-13": 454163,
-  "2023-12-14": 454277,
-  "2023-12-15": 454357,
-  "2023-12-16": 454482,
-  "2023-12-17": 454608,
-  "2023-12-18": 454720,
-  "2023-12-19": 454808,
-  "2023-12-20": 454911,
-  "2023-12-21": 455026,
-  "2023-12-22": 455130,
-  "2023-12-23": 455255,
-  "2023-12-24": 455381,
-  "2023-12-25": 455501,
-  "2023-12-26": 455623,
-  "2023-12-27": 455740,
-  "2023-12-30": 456112,
-  "2023-12-31": 456256,
-  "2024-01-01": 456390,
-  "2024-01-02": 456496,
-  "2024-01-03": 456563
+  "2024-01-17": 457812,
+  "date_first_scraped": "2021-12-21",
+  "description": "One of the finest <a href=\"spotify:artist:7G1GBhoKtEPnP86X2PvEYO\">voices</a> we've ever known. Now hear her greatest songs.",
+  "name": "This Is Nina Simone",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
+    },
+    {
+      "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278866,
+      "name": "Baltimore",
+      "url": "https://open.spotify.com/track/39CyGKIFqMzSuynOR8uilD"
+    },
+    {
+      "album": {
+        "name": "Spotlight on Nina Simone",
+        "url": "https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200666,
+      "name": "Be My Husband",
+      "url": "https://open.spotify.com/track/4BQPyRXVOnX2HPr9bz4gv0"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Be My Husband",
+      "url": "https://open.spotify.com/track/4ZFwqrpTFL9dRMDSyIH262"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues (Originals)",
+        "url": "https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200666,
+      "name": "Be My Husband - Live In New York/1965",
+      "url": "https://open.spotify.com/track/1uSedrh9ywZJKQje4RWi7d"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204440,
+      "name": "Black Is The Color Of My True Love's Hair",
+      "url": "https://open.spotify.com/track/33WjZmABjWk4zrerZiFLJ7"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204440,
+      "name": "Black Is The Color Of My True Love's Hair - Live In New York/1964",
+      "url": "https://open.spotify.com/track/1KBCVBuIeC60AqIOad0pJD"
+    },
+    {
+      "album": {
+        "name": "Point Of No Return",
+        "url": "https://open.spotify.com/album/7tpOLsPDpAOcLkMA7kMMX7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205106,
+      "name": "Black is the Color of My True Love's Hair - Music From the Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/16p3c7kcgiRdVS8iKuM8mE"
+    },
+    {
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
+    },
+    {
+      "album": {
+        "name": "Fodder On My Wings",
+        "url": "https://open.spotify.com/album/3HvgNs3UlPTLN6qliUzjUM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63626,
+      "name": "Color Is A Beautiful Thing",
+      "url": "https://open.spotify.com/track/027wIJmxOgCGvpI6qzHjj2"
+    },
+    {
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164986,
+      "name": "Do I Move You?",
+      "url": "https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "album": {
+        "name": "Broadway-Blues-Ballads",
+        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Don't Let Me Be Misunderstood",
+      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (Remastered 2013)",
+        "url": "https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190403,
+      "name": "Don't Smoke in Bed",
+      "url": "https://open.spotify.com/track/2aRxqvDFWVbRYqCpKZh2Xe"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190370,
+      "name": "Don't Smoke in Bed (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 190370,
+      "name": "Don't Smoke in Bed - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/4m7pFEW1DUYIqDAxChidNt"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264666,
+      "name": "Four Women",
+      "url": "https://open.spotify.com/track/01lMbl9TiYtrmVY2PwECDd"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "Four Women",
+      "url": "https://open.spotify.com/track/7urjzeGBtfHdwWmfYJjdAp"
+    },
+    {
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/4kkIy3MO9q0nkkL2Y8zqy9"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264693,
+      "name": "Four Women",
+      "url": "https://open.spotify.com/track/0KgTIwSlhFQDEdNWh755EP"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
+    },
+    {
+      "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289080,
+      "name": "I Get Along Without You Very Well (Except Sometimes)",
+      "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
+    },
+    {
+      "album": {
+        "name": "1950s R&B Hits",
+        "url": "https://open.spotify.com/album/2RtvgJlLcj1RqzeR9JlA0n"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 247373,
+      "name": "I Loves You Porgy",
+      "url": "https://open.spotify.com/track/6qUiRA9dQqSfPF8jqTiOeg"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (Remastered 2013)",
+        "url": "https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249823,
+      "name": "I Loves You Porgy",
+      "url": "https://open.spotify.com/track/4mGzm5ahHxMX5IhVWbU7cl"
+    },
+    {
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/5i11koayllPJWjgwYtFZtp"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "I Loves You Porgy",
+      "url": "https://open.spotify.com/track/7lUJd9FTYbZgo4jU7qpAel"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 249781,
+      "name": "I Loves You Porgy - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/0kDpFPQgQYeZ7t04Quiwkn"
+    },
+    {
+      "album": {
+        "name": "Nina Simone And Her Friends (2014 - Remaster)",
+        "url": "https://open.spotify.com/album/4R0PXsu2iOe9TGlq2wnINx"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 253426,
+      "name": "I Loves You, Porgy - 2014 - Remaster",
+      "url": "https://open.spotify.com/track/75aVGfaOnMhaWS7ogwBGcP"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "I Put A Spell On You",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq"
+    },
+    {
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "album": {
+        "name": "Nina Simone & Piano (Expanded Edition)",
+        "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "I Think It's Going to Rain Today",
+      "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
+    },
+    {
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "I Want a Little Sugar In My Bowl",
+      "url": "https://open.spotify.com/track/3NcJu9876GBJuNU6vJOrbb"
+    },
+    {
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188613,
+      "name": "I Wish I Knew How It Would Feel to Be Free",
+      "url": "https://open.spotify.com/track/5CKHhg31HcYYhwUeeGqvhq"
+    },
+    {
+      "album": {
+        "name": "A Single Woman (Expanded)",
+        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239400,
+      "name": "If I Should Lose You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/78c7e7g2gNTO8kbLgzYiwu"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290080,
+      "name": "Just Like a Woman",
+      "url": "https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p"
+    },
+    {
+      "album": {
+        "name": "At Newport",
+        "url": "https://open.spotify.com/album/1wRykEhSd6Q7MRPN8lixtU"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Li'l Liza Jane - Live at the Newport Jazz Festival, Newport, RI, June 30, 1960",
+      "url": "https://open.spotify.com/track/59ergcrbjTOTKEetpTQJhI"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253800,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/2qhievF6KHSxylW7XBt1pz"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 257733,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/6Y5LA4sn0Z2lxvrYqNgF60"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152373,
+      "name": "Little Girl Blue - Live In New York, 1964",
+      "url": "https://open.spotify.com/track/0Z6J3eMqewSwFvVuclFxwD"
+    },
+    {
+      "album": {
+        "name": "Spotlight on Nina Simone",
+        "url": "https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152373,
+      "name": "Little Girl Blue - Live In New York, 1964",
+      "url": "https://open.spotify.com/track/5BfE3WQAboAvatJS99Uj9s"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/2sSKSQUVytUJWswHSi95Tm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152373,
+      "name": "Little Girl Blue - Live In New York/1964",
+      "url": "https://open.spotify.com/track/1EtJGj738CJuyVcbEOJlhE"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/2sSKSQUVytUJWswHSi95Tm"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/0J4UqwIeRFbLRno0mU4e4Z"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244866,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt"
+    },
+    {
+      "album": {
+        "name": "\u6dbc\u590f\u7235\u58eb\u591c",
+        "url": "https://open.spotify.com/album/4OKvVrbAssIcbx1o9J0Pu1"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 245506,
+      "name": "Love Me Or Leave Me",
+      "url": "https://open.spotify.com/track/5ZEFsnuCqbOr8FA7QPpT2D"
+    },
+    {
+      "album": {
+        "name": "Feeling Good: The Very Best Of Nina Simone",
+        "url": "https://open.spotify.com/album/153rN9N6f7HMJFQqyCrgHJ"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 146000,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/75Ac4VwWhFXRi34R7ZuKj2"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146626,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/3vBx19MVX89jILEWWE4syK"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146626,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/2Xd8keBgwRiyR59DyaRd3v"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299213,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/5ywoRjfVIlcJiSAxwPT3Pt"
+    },
+    {
+      "album": {
+        "name": "Autour De Minuit - Nina Simone",
+        "url": "https://open.spotify.com/album/3iNGkF2fnu38AxNuCrhMd3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218653,
+      "name": "My Baby Just Cares For Me",
+      "url": "https://open.spotify.com/track/0njBiVj53H0uVZY8Apbvxu"
+    },
+    {
+      "album": {
+        "name": "Feeling Good: Her Greatest Hits And Remixes",
+        "url": "https://open.spotify.com/album/2sYpGtr8LUH2qXeY0lBQc5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220545,
+      "name": "My Baby Just Cares For Me",
+      "url": "https://open.spotify.com/track/3NJKI4cwlSBuTYNmDoRVb3"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314840,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/51T0GbjupzFyoJqhnLji47"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214533,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28"
+    },
+    {
+      "album": {
+        "name": "A Single Woman (Expanded)",
+        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195933,
+      "name": "No Woman, No Cry - Outtake",
+      "url": "https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158200,
+      "name": "Nobody Knows You When You're Down And Out",
+      "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues (Originals)",
+        "url": "https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158200,
+      "name": "Nobody Knows You When You're Down And Out - Live In New York/1965",
+      "url": "https://open.spotify.com/track/5QEVHaiiTKVZ6qkXReIxHc"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (Remastered 2013)",
+        "url": "https://open.spotify.com/album/0jIbJ6WxiAoOb3kpHmU6QD"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231851,
+      "name": "Plain Gold Ring",
+      "url": "https://open.spotify.com/track/6Lr1imJHRrQjQOiVWH5A6Q"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 - Remaster)",
+        "url": "https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228104,
+      "name": "Plain Gold Ring (2013 - Remaster)",
+      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS"
+    },
+    {
+      "album": {
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 228104,
+      "name": "Plain Gold Ring - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/1JDtis0DMrFexM4kfoIH98"
+    },
+    {
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
+    },
+    {
+      "album": {
+        "name": "Broadway-Blues-Ballads",
+        "url": "https://open.spotify.com/album/0do3UV5axUHkROOTkcxr1J"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155426,
+      "name": "See-Line Woman",
+      "url": "https://open.spotify.com/track/2vyIoVK6ggvXVNEvmIt1vs"
+    },
+    {
+      "album": {
+        "name": "Broadway - Blues - Ballads",
+        "url": "https://open.spotify.com/album/5mbAeqMcKNpJHDXTLOmRRw"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155426,
+      "name": "See-Line Woman",
+      "url": "https://open.spotify.com/track/5RVeHZqUeJhvsTLhun0KLB"
+    },
+    {
+      "album": {
+        "name": "Ne Me Quitte Pas",
+        "url": "https://open.spotify.com/album/6eDTbKzNxoTflObnfjBZjp"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156773,
+      "name": "See-Line Woman",
+      "url": "https://open.spotify.com/track/6HwIIFg6MKqllCbAahetxl"
+    },
+    {
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170320,
+      "name": "Since I Fell for You",
+      "url": "https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 622000,
+      "name": "Sinnerman",
+      "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues",
+        "url": "https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208933,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc"
+    },
+    {
+      "album": {
+        "name": "Spotlight on Nina Simone",
+        "url": "https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209578,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1AR61HAyjIHnTubEtEgpEL"
+    },
+    {
+      "album": {
+        "name": "Pastel Blues (Originals)",
+        "url": "https://open.spotify.com/album/5b2uj8OsgNJAbJuKyNykRb"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 208933,
+      "name": "Strange Fruit - Live In New York/1965",
+      "url": "https://open.spotify.com/track/7onuv6SC1xOoL8K4c908lQ"
+    },
+    {
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "Suzanne",
+      "url": "https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM"
+    },
+    {
+      "album": {
+        "name": "Verve / Unmixed 4",
+        "url": "https://open.spotify.com/album/0oJNVA4t7vAGWrSxmMzi3w"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 125800,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/0JCpH2bUJG1W0RflWYB9rf"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/6sPLMFOMVgY4dMB2se17uY"
+    },
+    {
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142613,
+      "name": "The Look of Love",
+      "url": "https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD"
+    },
+    {
+      "album": {
+        "name": "Spotlight on Nina Simone",
+        "url": "https://open.spotify.com/album/6N4bEm9XVxGP3YdMwDjwoF"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182400,
+      "name": "The Other Woman - Live In New York, 1964",
+      "url": "https://open.spotify.com/track/3E40vFxUVm2RsfTOeZzYWF"
+    },
+    {
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/3vBx19MVX89jILEWWE4syK"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182400,
+      "name": "The Other Woman - Live In New York/1964",
+      "url": "https://open.spotify.com/track/2FyTJxPdcMJnrxcIWBSNce"
+    },
+    {
+      "album": {
+        "name": "At Town Hall",
+        "url": "https://open.spotify.com/album/1F0tyYLIIxNnJuAgwLuIIn"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "The Other Woman - Live Version - Sept. 1959",
+      "url": "https://open.spotify.com/track/2kvYMbijT2djq5C0MnMI6h"
+    },
+    {
+      "album": {
+        "name": "A Single Woman (Expanded)",
+        "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58426,
+      "name": "The Times They Are A-Changin' - Outtake",
+      "url": "https://open.spotify.com/track/159F1pdX35fbRevVBbjTFw"
+    },
+    {
+      "album": {
+        "name": "Folksy Nina",
+        "url": "https://open.spotify.com/album/15BJXpDCCpQCVOQWfAf7gC"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207266,
+      "name": "The Twelveth of Never",
+      "url": "https://open.spotify.com/track/7F0YrCETWyKpprlNJpYfWi"
+    },
+    {
+      "album": {
+        "name": "Folksy Nina",
+        "url": "https://open.spotify.com/album/2yswGnEKfqStTVvG6VZZ55"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207266,
+      "name": "The Twelveth of Never",
+      "url": "https://open.spotify.com/track/7nG99BjC0xL4UAp7GBPxTm"
+    },
+    {
+      "album": {
+        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
+        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169840,
+      "name": "To Be Young, Gifted and Black - 2005 Remix",
+      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
+    },
+    {
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158746,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/7LZoKNMhsZ7qbP1lYGDva8"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168306,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo"
+    },
+    {
+      "album": {
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168306,
+      "name": "Tomorrow Is My Turn",
+      "url": "https://open.spotify.com/track/62ETPJazhz7Ty9BBeX9MmA"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416693,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF"
+    },
+    {
+      "album": {
+        "name": "Ne Me Quitte Pas",
+        "url": "https://open.spotify.com/album/6eDTbKzNxoTflObnfjBZjp"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 418733,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/1lGJYiVFVaCCnX0tdUNy1t"
+    },
+    {
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1XG6LCgenqe1bgkG3u2cHA"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 416693,
+      "name": "Wild Is The Wind - Live In New York/1964",
+      "url": "https://open.spotify.com/track/7Dw2lhlODeuG5ZJZDdXJGS"
+    },
+    {
+      "album": {
+        "name": "High Priestess Of Soul",
+        "url": "https://open.spotify.com/album/1FB6iFXR0baCcUAJwuYEQ0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2021-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/3scHKvIMnzYTzGB2OKh0SY"
+    },
+    {
+      "album": {
+        "name": "High Priestess Of Soul",
+        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
+    },
+    {
+      "album": {
+        "name": "Feeling Good: Her Greatest Hits And Remixes",
+        "url": "https://open.spotify.com/album/2sYpGtr8LUH2qXeY0lBQc5"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185962,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/1UJkiN5xrjneeqj2rbCPAv"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8OYzU0lx5hL"
 }

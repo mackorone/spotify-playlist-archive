@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Zara Larsson",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s pop. Photo : Jennifer Lopez",
   "name": "Nouveaut\u00e9s Pop",
   "tracks": [
     {
@@ -172,6 +172,24 @@
       "duration_ms": 130909,
       "name": "A2B",
       "url": "https://open.spotify.com/track/26RIaYLm31QkMg4vkigStp"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "album": {
@@ -632,7 +650,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 123109,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/5H42YUEriD3ToSUpJ9wklA"
@@ -690,10 +708,28 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159000,
       "name": "Can of Hurt",
       "url": "https://open.spotify.com/track/3CQBojjRFxgfVyNTjlGyI5"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186599,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd"
     },
     {
       "album": {
@@ -780,7 +816,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 131937,
       "name": "club heaven",
       "url": "https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3"
@@ -975,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "TRANSPARENT",
+        "url": "https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK"
+      },
+      "artists": [
+        {
+          "name": "Nea",
+          "url": "https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193196,
+      "name": "Death of Me",
+      "url": "https://open.spotify.com/track/1AgjsphQSNEEMj3DokN5wX"
+    },
+    {
+      "album": {
         "name": "DELIRIUM",
         "url": "https://open.spotify.com/album/5PrrhEOjQwqY1VsVuG4vQZ"
       },
@@ -1105,6 +1159,28 @@
     },
     {
       "album": {
+        "name": "Don't Hate You",
+        "url": "https://open.spotify.com/album/6AGPekG6MANxEmWEN2fXl7"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
+        {
+          "name": "Freddie Elmberg",
+          "url": "https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Don't Hate You",
+      "url": "https://open.spotify.com/track/7rjyb0xF3bKwJ3GZ9ORbaM"
+    },
+    {
+      "album": {
         "name": "Don't Need to Sleep",
         "url": "https://open.spotify.com/album/2VLbmvecrpdXHCGqwD1j3u"
       },
@@ -1142,6 +1218,24 @@
       "duration_ms": 140853,
       "name": "don\u2019t shop when ur hungry !! (feat. vaultboy)",
       "url": "https://open.spotify.com/track/2U2nYZb993yZhtaTJ9sGHl"
+    },
+    {
+      "album": {
+        "name": "DOUX M\u00c9LANGE",
+        "url": "https://open.spotify.com/album/4B4WA88glvEEEjFxdujAA0"
+      },
+      "artists": [
+        {
+          "name": "Jadana\u00eb",
+          "url": "https://open.spotify.com/artist/7qWpcLPHqE4eMj41jlOjvs"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190193,
+      "name": "DOUX M\u00c9LANGE",
+      "url": "https://open.spotify.com/track/0iL5w6GahrABgOwFD8cYJu"
     },
     {
       "album": {
@@ -1553,6 +1647,24 @@
     },
     {
       "album": {
+        "name": "Green Lights",
+        "url": "https://open.spotify.com/album/18RCcxjVnw1iqLpZYQARpX"
+      },
+      "artists": [
+        {
+          "name": "MIIA",
+          "url": "https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182399,
+      "name": "Green Lights",
+      "url": "https://open.spotify.com/track/0wmz1wZ1zpXs0PEAYWZ5Jp"
+    },
+    {
+      "album": {
         "name": "Hands On Me (feat. Meghan Trainor)",
         "url": "https://open.spotify.com/album/7tm57crYhN6WvRfB51A7Up"
       },
@@ -1691,6 +1803,28 @@
     },
     {
       "album": {
+        "name": "Hot Like Summer",
+        "url": "https://open.spotify.com/album/1dqMqzTsHQKmBLERRe7cPp"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176518,
+      "name": "Hot Like Summer AGP",
+      "url": "https://open.spotify.com/track/09DifLBp8dX9BOVZnIm9zT"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -1738,7 +1872,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 159360,
       "name": "I Do",
       "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
@@ -1839,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "Il pleut",
+        "url": "https://open.spotify.com/album/6Mj2fxzrnqBvmVuojdibLG"
+      },
+      "artists": [
+        {
+          "name": "Laura",
+          "url": "https://open.spotify.com/artist/0F01Y7t6Vim2IbJ2tSQnxa"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Il pleut",
+      "url": "https://open.spotify.com/track/1bBZNm27tlGUQNIw1WL3nB"
+    },
+    {
+      "album": {
         "name": "Il y a",
         "url": "https://open.spotify.com/album/55RuSf55f21hk6VLj55JYs"
       },
@@ -1854,7 +2006,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 205365,
       "name": "Il y a",
       "url": "https://open.spotify.com/track/5H3s6pH2SQsp6a0n8k0BrW"
@@ -1994,6 +2146,24 @@
       "duration_ms": 221493,
       "name": "It\u2019s Euphoric",
       "url": "https://open.spotify.com/track/7ynqVX9l6jWPDduSJwIiYG"
+    },
+    {
+      "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
     },
     {
       "album": {
@@ -2160,7 +2330,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180813,
       "name": "Lava Lamp",
       "url": "https://open.spotify.com/track/1MQvmrKpUj7mARu12pkbSV"
@@ -2344,7 +2514,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 178453,
       "name": "Loved By You",
       "url": "https://open.spotify.com/track/5MFUxQJGj5KrcCX6Gnphgh"
@@ -2380,7 +2550,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -2630,7 +2800,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 193938,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6snZcyxY401V8zPoWWf3w8"
@@ -2749,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "Mean Girls (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170528,
+      "name": "Not My Fault (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/18dlAFKaajLjRgBNZZ4ThU"
+    },
+    {
+      "album": {
         "name": "Not My Fault (with Megan Thee Stallion)",
         "url": "https://open.spotify.com/album/57HhIYa6hsyWo17gRNFGhr"
       },
@@ -2786,7 +2978,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 170528,
       "name": "Not My Fault (with Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M"
@@ -2966,7 +3158,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180527,
       "name": "Paris",
       "url": "https://open.spotify.com/track/3WzmwVmkRDTYroaLg0Klcb"
@@ -3144,7 +3336,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 175550,
       "name": "Sad Forever",
       "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
@@ -3278,7 +3470,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 175833,
       "name": "Someone I Used to Know",
       "url": "https://open.spotify.com/track/6JZD3cr8CTNOmZg205emdw"
@@ -3336,6 +3528,24 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
       "album": {
@@ -3880,10 +4090,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 178408,
       "name": "Trust Me Mate",
       "url": "https://open.spotify.com/track/2wWX4sZGZNc7lA594ZOhP7"
+    },
+    {
+      "album": {
+        "name": "Two Hands",
+        "url": "https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182733,
+      "name": "Two Hands",
+      "url": "https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7"
     },
     {
       "album": {
@@ -4093,6 +4321,32 @@
     },
     {
       "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Putri Ariani",
+          "url": "https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On"
+        },
+        {
+          "name": "Peder Elias",
+          "url": "https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193776,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
+    },
+    {
+      "album": {
         "name": "Why Do the Bad Things Feel Good",
         "url": "https://open.spotify.com/album/3skESfWDfea0zr9H54Ql0Z"
       },
@@ -4104,7 +4358,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 201519,
       "name": "Why Do the Bad Things Feel Good",
       "url": "https://open.spotify.com/track/4tlqyokGNPlVU2kciN4J2N"
@@ -4241,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "yes, and?",
+        "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214994,
+      "name": "yes, and?",
+      "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz"
       },
@@ -4372,6 +4644,24 @@
       "duration_ms": 277831,
       "name": "You\u2019re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
+    },
+    {
+      "album": {
+        "name": "premiers chocs",
+        "url": "https://open.spotify.com/album/5jUJHvqGAbvklfgPy9z2gy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9lie",
+          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160813,
+      "name": "\u00eatre moi-m\u00eame",
+      "url": "https://open.spotify.com/track/1QkNQXYEKusDSWe592C98z"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUSKuTscFFGY"

@@ -918,7 +918,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 181818,
       "name": "Clandestino",
       "url": "https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju"
@@ -1364,6 +1364,24 @@
       "duration_ms": 293746,
       "name": "Duda Morena",
       "url": "https://open.spotify.com/track/77DfJYwlIxQFbcNoZcVjuh"
+    },
+    {
+      "album": {
+        "name": "Los Santos y Pecadores",
+        "url": "https://open.spotify.com/album/05DKwPpIQiGJTKxEqvDJsu"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "Echale Az\u00facar",
+      "url": "https://open.spotify.com/track/6YeRS4KLT4a5P9Us9KzBBf"
     },
     {
       "album": {
@@ -2040,7 +2058,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 219737,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4WpbTxtMQAAoh3rCKOVdET"
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 201562,
       "name": "La Matanza",
       "url": "https://open.spotify.com/track/538h4bDYuZYT99IMlbMsdp"

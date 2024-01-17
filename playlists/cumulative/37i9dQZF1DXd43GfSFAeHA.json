@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Inkonnu & Sipo",
+  "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Lege-Cy",
   "name": "Arab Hip-Hop",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 156267,
       "name": "7abayby",
       "url": "https://open.spotify.com/track/7dc5rPTGzN3WUXO717YWFc"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 170919,
       "name": "Askot Khales",
       "url": "https://open.spotify.com/track/2zdUvdGC4hwlYC1WjaFKCr"
@@ -1264,7 +1264,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 158267,
       "name": "DAWLETNA",
       "url": "https://open.spotify.com/track/1VteZ9xomF21Idym2C8Xbb"
@@ -1330,10 +1330,32 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 149373,
       "name": "De Bruyne",
       "url": "https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL"
+    },
+    {
+      "album": {
+        "name": "Manchester City",
+        "url": "https://open.spotify.com/album/1RBSS6HP2nI5x8RkqGBoqt"
+      },
+      "artists": [
+        {
+          "name": "Dzel Uzi",
+          "url": "https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK"
+        },
+        {
+          "name": "Arsenik",
+          "url": "https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "De Bruyne",
+      "url": "https://open.spotify.com/track/6qK6hM0N1zVfdoUMc1xJnx"
     },
     {
       "album": {
@@ -1841,6 +1863,24 @@
     },
     {
       "album": {
+        "name": "Fawda",
+        "url": "https://open.spotify.com/album/4wHsvjXysSTYAkVnT9hhAc"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Fawda",
+      "url": "https://open.spotify.com/track/64icnQSqsWkz0d7oQeNlB9"
+    },
+    {
+      "album": {
         "name": "Fi Bali",
         "url": "https://open.spotify.com/album/5NhcEhXwj3dMqIovtmkQg1"
       },
@@ -1882,6 +1922,28 @@
       "duration_ms": 327428,
       "name": "Fi Rohak",
       "url": "https://open.spotify.com/track/6unuCQKefI6ZYBWcsZstma"
+    },
+    {
+      "album": {
+        "name": "Fi Swat",
+        "url": "https://open.spotify.com/album/5toT5zuJfqsK6Gm7MrC1ci"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        },
+        {
+          "name": "Al Nather",
+          "url": "https://open.spotify.com/artist/5qvrUMJ8oO3BswrQO3w0hl"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168467,
+      "name": "Fi Swat",
+      "url": "https://open.spotify.com/track/4fESDWM8VgNrS05CKsl1r1"
     },
     {
       "album": {
@@ -5600,6 +5662,24 @@
       "duration_ms": 266000,
       "name": "trap roumi v4",
       "url": "https://open.spotify.com/track/7B9t8WX9T38Df93JHlywfk"
+    },
+    {
+      "album": {
+        "name": "Placebo",
+        "url": "https://open.spotify.com/album/5T113asZkXnBZ3820ie2fa"
+      },
+      "artists": [
+        {
+          "name": "Lege-Cy",
+          "url": "https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228857,
+      "name": "Tripod",
+      "url": "https://open.spotify.com/track/4nydbqIi7U7DMM3ZGQEjtE"
     },
     {
       "album": {

@@ -1,577 +1,1291 @@
 {
-  "2022-06-02": 58776,
-  "2022-06-03": 58813,
-  "2022-06-04": 58859,
-  "2022-06-05": 58911,
-  "2022-06-06": 58968,
-  "2022-06-07": 58998,
-  "2022-06-08": 59034,
-  "2022-06-09": 59067,
-  "2022-06-10": 59109,
-  "2022-06-11": 59155,
-  "2022-06-12": 59194,
-  "2022-06-13": 59245,
-  "2022-06-14": 59275,
-  "2022-06-15": 59315,
-  "2022-06-16": 59349,
-  "2022-06-17": 59379,
-  "2022-06-18": 59427,
-  "2022-06-19": 59523,
-  "2022-06-20": 59523,
-  "2022-06-21": 59553,
-  "2022-06-22": 59623,
-  "2022-06-23": 59623,
-  "2022-06-24": 59666,
-  "2022-06-25": 59704,
-  "2022-06-26": 59750,
-  "2022-06-27": 59790,
-  "2022-06-28": 59827,
-  "2022-06-29": 59863,
-  "2022-06-30": 59895,
-  "2022-07-01": 59934,
-  "2022-07-02": 59986,
-  "2022-07-03": 60034,
-  "2022-07-04": 60088,
-  "2022-07-05": 60088,
-  "2022-07-06": 60088,
-  "2022-07-07": 60183,
-  "2022-07-08": 60213,
-  "2022-07-09": 60251,
-  "2022-07-10": 60296,
-  "2022-07-11": 60341,
-  "2022-07-12": 60369,
-  "2022-07-13": 60397,
-  "2022-07-14": 60437,
-  "2022-07-15": 60478,
-  "2022-07-16": 60538,
-  "2022-07-17": 60578,
-  "2022-07-18": 60641,
-  "2022-07-19": 60679,
-  "2022-07-20": 60709,
-  "2022-07-21": 60750,
-  "2022-07-22": 60792,
-  "2022-07-23": 60834,
-  "2022-07-24": 60863,
-  "2022-07-25": 60899,
-  "2022-07-26": 60943,
-  "2022-07-27": 60991,
-  "2022-07-28": 61023,
-  "2022-07-29": 61059,
-  "2022-07-30": 61178,
-  "2022-07-31": 61178,
-  "2022-08-01": 61220,
-  "2022-08-02": 61299,
-  "2022-08-03": 61299,
-  "2022-08-04": 61334,
-  "2022-08-05": 61374,
-  "2022-08-06": 61439,
-  "2022-08-07": 61500,
-  "2022-08-08": 61534,
-  "2022-08-09": 61587,
-  "2022-08-10": 61635,
-  "2022-08-11": 61663,
-  "2022-08-12": 61706,
-  "2022-08-13": 61755,
-  "2022-08-14": 61805,
-  "2022-08-15": 61858,
-  "2022-08-16": 61903,
-  "2022-08-17": 61983,
-  "2022-08-18": 62039,
-  "2022-08-19": 62083,
-  "2022-08-20": 62144,
-  "2022-08-21": 62195,
-  "2022-08-22": 62251,
-  "2022-08-23": 62290,
-  "2022-08-24": 62333,
-  "2022-08-25": 62372,
-  "2022-08-26": 62423,
-  "2022-08-27": 62485,
-  "2022-08-28": 62527,
-  "2022-08-29": 62578,
-  "2022-08-30": 62614,
-  "2022-08-31": 62665,
-  "2022-09-01": 62706,
-  "2022-09-02": 62760,
-  "2022-09-03": 62799,
-  "2022-09-04": 62845,
-  "2022-09-05": 62896,
-  "2022-09-06": 62922,
-  "2022-09-07": 62955,
-  "2022-09-09": 63033,
-  "2022-09-10": 63072,
-  "2022-09-11": 63133,
-  "2022-09-12": 63171,
-  "2022-09-13": 63212,
-  "2022-09-15": 63311,
-  "2022-09-16": 63377,
-  "2022-09-17": 63423,
-  "2022-09-18": 63475,
-  "2022-09-19": 63503,
-  "2022-09-20": 63539,
-  "2022-09-21": 63572,
-  "2022-09-22": 63617,
-  "2022-09-23": 63663,
-  "2022-09-24": 63663,
-  "2022-09-25": 63740,
-  "2022-09-26": 63774,
-  "2022-09-27": 63799,
-  "2022-09-28": 63843,
-  "2022-09-29": 63882,
-  "2022-09-30": 63935,
-  "2022-10-01": 63983,
-  "2022-10-02": 64024,
-  "2022-10-03": 64073,
-  "2022-10-04": 64128,
-  "2022-10-05": 64172,
-  "2022-10-06": 64220,
-  "2022-10-07": 64276,
-  "2022-10-08": 64327,
-  "2022-10-09": 64426,
-  "2022-10-10": 64439,
-  "2022-10-11": 64478,
-  "2022-10-12": 64520,
-  "2022-10-13": 64564,
-  "2022-10-14": 64616,
-  "2022-10-15": 64677,
-  "2022-10-16": 64734,
-  "2022-10-17": 64776,
-  "2022-10-18": 64815,
-  "2022-10-19": 64866,
-  "2022-10-20": 64916,
-  "2022-10-21": 64980,
-  "2022-10-22": 65032,
-  "2022-10-23": 65084,
-  "2022-10-24": 65133,
-  "2022-10-25": 65166,
-  "2022-10-26": 65212,
-  "2022-10-27": 65271,
-  "2022-10-28": 65319,
-  "2022-10-29": 65365,
-  "2022-10-30": 65420,
-  "2022-10-31": 65464,
-  "2022-11-01": 65506,
-  "2022-11-02": 65544,
-  "2022-11-03": 65589,
-  "2022-11-04": 65642,
-  "2022-11-05": 65696,
-  "2022-11-06": 65752,
-  "2022-11-07": 65807,
-  "2022-11-08": 65852,
-  "2022-11-09": 65910,
-  "2022-11-10": 65951,
-  "2022-11-11": 65993,
-  "2022-11-12": 66053,
-  "2022-11-13": 66089,
-  "2022-11-14": 66121,
-  "2022-11-15": 66152,
-  "2022-11-16": 66179,
-  "2022-11-17": 66211,
-  "2022-11-18": 66233,
-  "2022-11-19": 66245,
-  "2022-11-20": 66296,
-  "2022-11-21": 66349,
-  "2022-11-22": 66397,
-  "2022-11-23": 66433,
-  "2022-11-24": 66488,
-  "2022-11-25": 66542,
-  "2022-11-26": 66584,
-  "2022-11-27": 66641,
-  "2022-11-28": 66689,
-  "2022-11-29": 66723,
-  "2022-11-30": 66773,
-  "2022-12-01": 66818,
-  "2022-12-02": 66835,
-  "2022-12-03": 66919,
-  "2022-12-04": 66978,
-  "2022-12-05": 67033,
-  "2022-12-06": 67073,
-  "2022-12-07": 67111,
-  "2022-12-08": 67148,
-  "2022-12-09": 67199,
-  "2022-12-10": 67241,
-  "2022-12-11": 67298,
-  "2022-12-12": 67349,
-  "2022-12-13": 67395,
-  "2022-12-14": 67437,
-  "2022-12-15": 67491,
-  "2022-12-16": 67538,
-  "2022-12-17": 67583,
-  "2022-12-18": 67639,
-  "2022-12-19": 67691,
-  "2022-12-20": 67769,
-  "2022-12-21": 67769,
-  "2022-12-22": 67813,
-  "2022-12-24": 67937,
-  "2022-12-25": 67996,
-  "2022-12-26": 68049,
-  "2022-12-27": 68103,
-  "2022-12-28": 68146,
-  "2022-12-29": 68207,
-  "2022-12-30": 68271,
-  "2022-12-31": 68353,
-  "2023-01-01": 68421,
-  "2023-01-02": 68503,
-  "2023-01-03": 68551,
-  "2023-01-04": 68580,
-  "2023-01-05": 68623,
-  "2023-01-06": 68675,
-  "2023-01-07": 68751,
-  "2023-01-08": 68773,
-  "2023-01-09": 68846,
-  "2023-01-10": 68902,
-  "2023-01-11": 68946,
-  "2023-01-12": 69005,
-  "2023-01-13": 69071,
-  "2023-01-14": 69158,
-  "2023-01-15": 69165,
-  "2023-01-16": 69217,
-  "2023-01-17": 69238,
-  "2023-01-18": 69287,
-  "2023-01-19": 69329,
-  "2023-01-20": 69379,
-  "2023-01-21": 69436,
-  "2023-01-22": 69501,
-  "2023-01-23": 69559,
-  "2023-01-24": 69610,
-  "2023-01-25": 69659,
-  "2023-01-26": 69703,
-  "2023-01-27": 69758,
-  "2023-01-28": 69807,
-  "2023-01-29": 69871,
-  "2023-01-30": 69924,
-  "2023-01-31": 69924,
-  "2023-02-01": 70026,
-  "2023-02-02": 70064,
-  "2023-02-03": 70118,
-  "2023-02-04": 70171,
-  "2023-02-05": 70246,
-  "2023-02-06": 70308,
-  "2023-02-07": 70365,
-  "2023-02-08": 70459,
-  "2023-02-09": 70459,
-  "2023-02-10": 70517,
-  "2023-02-11": 70574,
-  "2023-02-12": 70692,
-  "2023-02-13": 70743,
-  "2023-02-14": 70743,
-  "2023-02-15": 70784,
-  "2023-02-16": 70842,
-  "2023-02-17": 70903,
-  "2023-02-18": 71019,
-  "2023-02-19": 71031,
-  "2023-02-20": 71071,
-  "2023-02-21": 71115,
-  "2023-02-22": 71173,
-  "2023-02-23": 71237,
-  "2023-02-24": 71309,
-  "2023-02-25": 71395,
-  "2023-02-26": 71433,
-  "2023-02-27": 71550,
-  "2023-02-28": 71550,
-  "2023-03-01": 71591,
-  "2023-03-02": 71628,
-  "2023-03-03": 71734,
-  "2023-03-04": 71824,
-  "2023-03-05": 72000,
-  "2023-03-06": 72000,
-  "2023-03-07": 72038,
-  "2023-03-08": 72107,
-  "2023-03-09": 72145,
-  "2023-03-10": 72216,
-  "2023-03-11": 72280,
-  "2023-03-12": 72337,
-  "2023-03-13": 72391,
-  "2023-03-14": 72437,
-  "2023-03-15": 72487,
-  "2023-03-16": 72487,
-  "2023-03-17": 72487,
-  "2023-03-18": 72684,
-  "2023-03-19": 72684,
-  "2023-03-20": 72797,
-  "2023-03-21": 72835,
-  "2023-03-22": 72889,
-  "2023-03-23": 72940,
-  "2023-03-24": 72940,
-  "2023-03-25": 73033,
-  "2023-03-26": 73096,
-  "2023-03-27": 73137,
-  "2023-03-28": 73197,
-  "2023-03-29": 73269,
-  "2023-03-30": 73366,
-  "2023-03-31": 73366,
-  "2023-04-01": 73423,
-  "2023-04-02": 73506,
-  "2023-04-03": 73558,
-  "2023-04-04": 73598,
-  "2023-04-05": 73650,
-  "2023-04-06": 73720,
-  "2023-04-07": 73797,
-  "2023-04-09": 73931,
-  "2023-04-10": 73980,
-  "2023-04-11": 74036,
-  "2023-04-12": 74036,
-  "2023-04-13": 74092,
-  "2023-04-14": 74161,
-  "2023-04-15": 74238,
-  "2023-04-16": 74308,
-  "2023-04-17": 74363,
-  "2023-04-18": 74413,
-  "2023-04-19": 74447,
-  "2023-04-20": 74507,
-  "2023-04-21": 74558,
-  "2023-04-22": 74623,
-  "2023-04-23": 74685,
-  "2023-04-24": 74758,
-  "2023-04-25": 74808,
-  "2023-04-26": 74859,
-  "2023-04-27": 74917,
-  "2023-04-28": 74976,
-  "2023-04-29": 75034,
-  "2023-04-30": 75116,
-  "2023-05-01": 75174,
-  "2023-05-02": 75239,
-  "2023-05-03": 75295,
-  "2023-05-04": 75360,
-  "2023-05-05": 75414,
-  "2023-05-06": 75490,
-  "2023-05-07": 75556,
-  "2023-05-08": 75658,
-  "2023-05-09": 75711,
-  "2023-05-10": 75785,
-  "2023-05-11": 75848,
-  "2023-05-12": 75902,
-  "2023-05-13": 75961,
-  "2023-05-14": 76043,
-  "2023-05-15": 76114,
-  "2023-05-16": 76177,
-  "2023-05-17": 76226,
-  "2023-05-18": 76282,
-  "2023-05-19": 76336,
-  "2023-05-20": 76445,
-  "2023-05-21": 76445,
-  "2023-05-22": 76445,
-  "2023-05-23": 76537,
-  "2023-05-24": 76609,
-  "2023-05-25": 76634,
-  "2023-05-26": 76668,
-  "2023-05-27": 76736,
-  "2023-05-28": 76797,
-  "2023-05-29": 76797,
-  "2023-05-30": 76900,
-  "2023-05-31": 76950,
-  "2023-06-01": 77021,
-  "2023-06-02": 77074,
-  "2023-06-03": 77141,
-  "2023-06-04": 77203,
-  "2023-06-05": 77263,
-  "2023-06-06": 77315,
-  "2023-06-07": 77381,
-  "2023-06-08": 77429,
-  "2023-06-09": 77482,
-  "2023-06-10": 77553,
-  "2023-06-11": 77613,
-  "2023-06-12": 77674,
-  "2023-06-13": 77728,
-  "2023-06-14": 77788,
-  "2023-06-15": 77849,
-  "2023-06-16": 77895,
-  "2023-06-17": 77946,
-  "2023-06-18": 78018,
-  "2023-06-19": 78066,
-  "2023-06-20": 78089,
-  "2023-06-21": 78143,
-  "2023-06-22": 78209,
-  "2023-06-23": 78268,
-  "2023-06-24": 78324,
-  "2023-06-25": 78387,
-  "2023-06-26": 78433,
-  "2023-06-27": 78486,
-  "2023-06-28": 78570,
-  "2023-06-29": 78625,
-  "2023-06-30": 78703,
-  "2023-07-01": 78819,
-  "2023-07-02": 78819,
-  "2023-07-03": 78871,
-  "2023-07-04": 78904,
-  "2023-07-05": 78958,
-  "2023-07-06": 79076,
-  "2023-07-07": 79076,
-  "2023-07-08": 79076,
-  "2023-07-09": 79197,
-  "2023-07-10": 79271,
-  "2023-07-11": 79316,
-  "2023-07-12": 79364,
-  "2023-07-13": 79445,
-  "2023-07-14": 79512,
-  "2023-07-15": 79563,
-  "2023-07-16": 79654,
-  "2023-07-17": 79698,
-  "2023-07-18": 79744,
-  "2023-07-19": 79816,
-  "2023-07-20": 79816,
-  "2023-07-21": 79932,
-  "2023-07-22": 80005,
-  "2023-07-23": 80092,
-  "2023-07-24": 80153,
-  "2023-07-25": 80251,
-  "2023-07-26": 80311,
-  "2023-07-27": 80394,
-  "2023-07-28": 80466,
-  "2023-07-29": 80535,
-  "2023-07-30": 80535,
-  "2023-07-31": 80681,
-  "2023-08-01": 80754,
-  "2023-08-02": 80817,
-  "2023-08-03": 80875,
-  "2023-08-04": 80944,
-  "2023-08-05": 81009,
-  "2023-08-06": 81157,
-  "2023-08-07": 81157,
-  "2023-08-08": 81207,
-  "2023-08-09": 81259,
-  "2023-08-10": 81330,
-  "2023-08-11": 81387,
-  "2023-08-12": 81387,
-  "2023-08-13": 81387,
-  "2023-08-14": 81387,
-  "2023-08-15": 81387,
-  "2023-08-16": 81387,
-  "2023-08-17": 81387,
-  "2023-08-18": 81387,
-  "2023-08-19": 81387,
-  "2023-08-20": 82010,
-  "2023-08-21": 82010,
-  "2023-08-22": 82137,
-  "2023-08-23": 82137,
-  "2023-08-24": 82137,
-  "2023-08-25": 82137,
-  "2023-08-26": 82379,
-  "2023-08-27": 82379,
-  "2023-08-28": 82516,
-  "2023-08-29": 82516,
-  "2023-08-30": 82516,
-  "2023-08-31": 82682,
-  "2023-09-01": 82757,
-  "2023-09-02": 82757,
-  "2023-09-03": 82757,
-  "2023-09-04": 82757,
-  "2023-09-05": 82757,
-  "2023-09-06": 82757,
-  "2023-09-07": 82757,
-  "2023-09-08": 82757,
-  "2023-09-09": 82757,
-  "2023-09-10": 82757,
-  "2023-09-11": 82757,
-  "2023-09-12": 82757,
-  "2023-09-13": 82757,
-  "2023-09-14": 82757,
-  "2023-09-15": 82757,
-  "2023-09-16": 83620,
-  "2023-09-17": 83620,
-  "2023-09-18": 83620,
-  "2023-09-19": 83788,
-  "2023-09-20": 83788,
-  "2023-09-21": 83788,
-  "2023-09-22": 83892,
-  "2023-09-23": 83892,
-  "2023-09-24": 83892,
-  "2023-09-25": 83892,
-  "2023-09-26": 84105,
-  "2023-09-27": 84105,
-  "2023-09-28": 84105,
-  "2023-09-29": 84105,
-  "2023-09-30": 84105,
-  "2023-10-01": 84105,
-  "2023-10-02": 84105,
-  "2023-10-03": 84105,
-  "2023-10-04": 84105,
-  "2023-10-05": 84105,
-  "2023-10-06": 84105,
-  "2023-10-07": 84105,
-  "2023-10-08": 84105,
-  "2023-10-09": 84105,
-  "2023-10-10": 84105,
-  "2023-10-11": 84105,
-  "2023-10-12": 84105,
-  "2023-10-13": 84105,
-  "2023-10-14": 84105,
-  "2023-10-15": 84105,
-  "2023-10-16": 84105,
-  "2023-10-17": 84105,
-  "2023-10-18": 84105,
-  "2023-10-19": 84105,
-  "2023-10-20": 84105,
-  "2023-10-21": 84105,
-  "2023-10-22": 84105,
-  "2023-10-23": 84105,
-  "2023-10-24": 84105,
-  "2023-10-25": 84105,
-  "2023-10-26": 84105,
-  "2023-10-27": 84105,
-  "2023-10-28": 84105,
-  "2023-10-29": 84105,
-  "2023-10-30": 84105,
-  "2023-10-31": 84105,
-  "2023-11-01": 84105,
-  "2023-11-02": 84105,
-  "2023-11-03": 84105,
-  "2023-11-04": 84105,
-  "2023-11-05": 84105,
-  "2023-11-06": 84105,
-  "2023-11-07": 84105,
-  "2023-11-08": 84105,
-  "2023-11-09": 84105,
-  "2023-11-10": 84105,
-  "2023-11-11": 86530,
-  "2023-11-12": 86530,
-  "2023-11-13": 86530,
-  "2023-11-14": 86530,
-  "2023-11-15": 86530,
-  "2023-11-16": 86530,
-  "2023-11-17": 86530,
-  "2023-11-18": 86530,
-  "2023-11-19": 86530,
-  "2023-11-20": 86530,
-  "2023-11-21": 86530,
-  "2023-11-22": 86530,
-  "2023-11-23": 86530,
-  "2023-11-24": 86530,
-  "2023-11-25": 86530,
-  "2023-11-26": 86530,
-  "2023-11-27": 86530,
-  "2023-11-28": 86530,
-  "2023-11-29": 86530,
-  "2023-11-30": 86530,
-  "2023-12-01": 86530,
-  "2023-12-02": 86530,
-  "2023-12-03": 86530,
-  "2023-12-04": 86530,
-  "2023-12-05": 86530,
-  "2023-12-06": 86530,
-  "2023-12-07": 86530,
-  "2023-12-08": 86530,
-  "2023-12-09": 86530,
-  "2023-12-10": 86530,
-  "2023-12-11": 86530,
-  "2023-12-12": 86530,
-  "2023-12-13": 86530,
-  "2023-12-14": 88232,
-  "2023-12-15": 88260,
-  "2023-12-16": 88295,
-  "2023-12-17": 88342,
-  "2023-12-18": 88399,
-  "2023-12-19": 88436,
-  "2023-12-20": 88482,
-  "2023-12-21": 88520,
-  "2023-12-22": 88574,
-  "2023-12-23": 88619,
-  "2023-12-24": 88667,
-  "2023-12-25": 88729,
-  "2023-12-26": 88778,
-  "2023-12-27": 88814,
-  "2023-12-30": 88962,
-  "2023-12-31": 88997,
-  "2024-01-01": 89051,
-  "2024-01-02": 89116,
-  "2024-01-03": 89151
+  "2024-01-17": 89670,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
+  "name": "This Is Sergio Vega \"El Shaka\"",
+  "tracks": [
+    {
+      "album": {
+        "name": "En Vivo - Fiesta Privada",
+        "url": "https://open.spotify.com/album/59BaFl2GHwAHNkkdvOvhAc"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 304000,
+      "name": "Alineando Cabrones - En Vivo",
+      "url": "https://open.spotify.com/track/7dvkjvHPjiKhVoZrl7HfQo"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 198373,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/7supUJMhpPfMQHMUBPvXsl"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 213054,
+      "name": "Atraves de la Luna",
+      "url": "https://open.spotify.com/track/3jvqC6Y2Ory7D6ijAOj6MP"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 176039,
+      "name": "Cartera Perdida",
+      "url": "https://open.spotify.com/track/4EZFnkhOnDCxnSbw6tM8w8"
+    },
+    {
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172293,
+      "name": "Como la Lluvia",
+      "url": "https://open.spotify.com/track/0KHmN9FByUeQ0FEKbmOPPF"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 217103,
+      "name": "Con Olor a Hierba",
+      "url": "https://open.spotify.com/track/3ER1xaSXSAjfOrbBYlXll7"
+    },
+    {
+      "album": {
+        "name": "Con Tuba, Guitarras y Accordeon",
+        "url": "https://open.spotify.com/album/29LRqdEVuAWaoN3adSdASE"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204146,
+      "name": "Contigo o Sin Ti",
+      "url": "https://open.spotify.com/track/5Wh5CjFwU85hXV41yjhRI5"
+    },
+    {
+      "album": {
+        "name": "Due\u00f1o De T\u00ed...Lo Mejor De El Shaka",
+        "url": "https://open.spotify.com/album/5eSL5zx5C2yRTUR0P6GQMm"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162986,
+      "name": "Coraz\u00f3n de Oropel",
+      "url": "https://open.spotify.com/track/38vsB0FOAILEKHDwXgERIT"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Cosas Raras",
+      "url": "https://open.spotify.com/track/2wOk4s5MjR44Yat4DTTGHi"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+    },
+    {
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 199546,
+      "name": "Cuando Te Lavas la Cara",
+      "url": "https://open.spotify.com/track/4VJ6ZbZphPJ57aiIKh6g3R"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Cuando Te Lavas la Cara",
+      "url": "https://open.spotify.com/track/6UpXhrZeMtzIo8rHwKCUck"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180040,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/0uYmSZoLXmxBkvsH4jGQRY"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171240,
+      "name": "Dos Botellas De Mezcal",
+      "url": "https://open.spotify.com/track/02KpEs5nhST1mtxBfDnZIW"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220586,
+      "name": "Due\u00f1o de Ti",
+      "url": "https://open.spotify.com/track/7j9iuJvGg8Ve2O20CO8Oho"
+    },
+    {
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "El Ayudante",
+      "url": "https://open.spotify.com/track/0dI9WuHlpDdUGFXUFO8ww7"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182946,
+      "name": "El Bitachero",
+      "url": "https://open.spotify.com/track/3uGo2w4vTh6iktL20sEYb0"
+    },
+    {
+      "album": {
+        "name": "30 Anos",
+        "url": "https://open.spotify.com/album/59StiRT1AuVJIaZn2igYWL"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 191373,
+      "name": "El Cuatro",
+      "url": "https://open.spotify.com/track/7CXITsuiY2lg4u0PAa0foj"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 249469,
+      "name": "El Dia Que Puedas",
+      "url": "https://open.spotify.com/track/2irOqljUpmxU16GCq8mZ6U"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "El Jefe De Las Plazas",
+      "url": "https://open.spotify.com/track/1pJMMnem25kCij6sF62hut"
+    },
+    {
+      "album": {
+        "name": "Serie Top Ten",
+        "url": "https://open.spotify.com/album/74dGCcyijMhAuNLja18GUZ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173532,
+      "name": "El Licenciado",
+      "url": "https://open.spotify.com/track/6PEkLz630jJBn80ddIhi5o"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254640,
+      "name": "El Maestro",
+      "url": "https://open.spotify.com/track/6eZ4prY9gxv8AAYVasW5FR"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 141213,
+      "name": "El Malandr\u00edn",
+      "url": "https://open.spotify.com/track/3YfrZf562Ixxq5rAHmO4GI"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201306,
+      "name": "El Melate",
+      "url": "https://open.spotify.com/track/6ykBuAVP23NGrXVm9HsuVt"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "El Santo De La Palma",
+      "url": "https://open.spotify.com/track/3W9AG3MZIN1EwBijFfpt91"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147520,
+      "name": "El Terr\u00f3n",
+      "url": "https://open.spotify.com/track/2VQ66m1O2NELSZ5d5a4aMQ"
+    },
+    {
+      "album": {
+        "name": "Eres Mi Estrella",
+        "url": "https://open.spotify.com/album/3gbFQIpKk46W2nJ6hg8gig"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 195761,
+      "name": "Eres Mi Estrella",
+      "url": "https://open.spotify.com/track/7HtRhY4YrqTIg2NCizbBL4"
+    },
+    {
+      "album": {
+        "name": "Eres Mi Estrella",
+        "url": "https://open.spotify.com/album/3gbFQIpKk46W2nJ6hg8gig"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 211408,
+      "name": "Esa Triste Guitarra",
+      "url": "https://open.spotify.com/track/6fq440VsaTM1gxrG5z9UXX"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146040,
+      "name": "La Captura",
+      "url": "https://open.spotify.com/track/79RyBdM6shRCcdYIFtyWoo"
+    },
+    {
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190026,
+      "name": "La Maestra - Ranchera Version",
+      "url": "https://open.spotify.com/track/1UUutkWcWg1vUeuWIlsuqW"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165053,
+      "name": "La Mentada",
+      "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168840,
+      "name": "La N\u00famero 20",
+      "url": "https://open.spotify.com/track/4dmOQs3LUlmxGenu1GxogE"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 163533,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/0WTCzhTWHYMhFyK6VURAbA"
+    },
+    {
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Las Parcelas de Mendoza",
+      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244346,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/2W5YzZvhA7SOsGAvk8e9Ke"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207573,
+      "name": "Luto En El Cielo",
+      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
+    },
+    {
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "M.P. Natural",
+      "url": "https://open.spotify.com/track/1LVPTmZhf9PNn2kHNFIImD"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 186080,
+      "name": "Maestro Y Aprendiz",
+      "url": "https://open.spotify.com/track/4SaKKJfr6J1dXS0wBYcr0L"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187760,
+      "name": "Maniaco Y Loco",
+      "url": "https://open.spotify.com/track/1EuXwKKhEXCIpaEoUO4RD6"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 223640,
+      "name": "Me Embriago",
+      "url": "https://open.spotify.com/track/5HHXZJ6bphSnMhyWD7h5r5"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138466,
+      "name": "Me Gusta Estar Contigo",
+      "url": "https://open.spotify.com/track/6Moso5DtGXmTgS3DaXZrRB"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Exitos Con El Shaka",
+        "url": "https://open.spotify.com/album/7C7OFtcJyns1tygKSowvzO"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162586,
+      "name": "Me Gusta Tener de a Dos",
+      "url": "https://open.spotify.com/track/0QlGXSHMfRUrzzPAC92nFo"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213693,
+      "name": "Me Vas A Doler",
+      "url": "https://open.spotify.com/track/6iKVu05WpKRug8ScrbIKDa"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183960,
+      "name": "Mi Buen Amante",
+      "url": "https://open.spotify.com/track/1aRrxkV7U4uDhrVkJt8F6Y"
+    },
+    {
+      "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152920,
+      "name": "Mi Primer Amor",
+      "url": "https://open.spotify.com/track/3Z9OK3CUYv9t5iQpweJhda"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222866,
+      "name": "Millonario De Amor",
+      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+    },
+    {
+      "album": {
+        "name": "Plaza Nueva",
+        "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207533,
+      "name": "Muchachita de Ojos Tristes - Banda Version",
+      "url": "https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd"
+    },
+    {
+      "album": {
+        "name": "Me Gusta Estar Contigo",
+        "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251506,
+      "name": "Musico, Poeta y Loco",
+      "url": "https://open.spotify.com/track/1J8WH97XXerjrLqOTgoeAx"
+    },
+    {
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/36csppf4oC76qA6vbMWDSo"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181506,
+      "name": "Necesito Due\u00f1a - Ranchera Version",
+      "url": "https://open.spotify.com/track/5nQusPyVdSNdpBJdX5uSq4"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 185991,
+      "name": "Ni en el Mundo Te Hago",
+      "url": "https://open.spotify.com/track/09gH0b6E2xLR0z6DK59huE"
+    },
+    {
+      "album": {
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
+      },
+      "artists": [
+        {
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212053,
+      "name": "Ni Se Te Ocurra (Para Toda La Vida)",
+      "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118746,
+      "name": "No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7AfzFp2S1yIDHjTjXnMXJs"
+    },
+    {
+      "album": {
+        "name": "Puros Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "Plaza Nueva",
+      "url": "https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm"
+    },
+    {
+      "album": {
+        "name": "Pueblito",
+        "url": "https://open.spotify.com/album/4oEvgVepK0dyHJvWRg2jHX"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 157031,
+      "name": "Pueblito",
+      "url": "https://open.spotify.com/track/5sEAy5vutvYZOxHbJOIS0l"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242613,
+      "name": "Quince Minutos De Ti",
+      "url": "https://open.spotify.com/track/2fczBn1fEYW5vJASRovoln"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213280,
+      "name": "Qui\u00e9n Es Usted",
+      "url": "https://open.spotify.com/track/4lac6b0JIjh4hQiW9IGKea"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190280,
+      "name": "Solamente T\u00fa",
+      "url": "https://open.spotify.com/track/0fqH7Nucs1Pzm7xJo5I1xi"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "Soy Tu Amante Y Que",
+      "url": "https://open.spotify.com/track/1iNP2rLmcCCoXuqsjNkSE2"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-21",
+      "duration_ms": 181253,
+      "name": "Tarado Y Medio",
+      "url": "https://open.spotify.com/track/17WzHp0FU2wjgenAGWIttt"
+    },
+    {
+      "album": {
+        "name": "\u00bfQui\u00e9n Es Usted?",
+        "url": "https://open.spotify.com/album/3NoapLHvTH6AlaSczk2e3o"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166786,
+      "name": "Te Amo M\u00e1s",
+      "url": "https://open.spotify.com/track/0mUXqS2tc8wAH8tXGl96fM"
+    },
+    {
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Te Han Dicho de M\u00ed",
+      "url": "https://open.spotify.com/track/1TVVzbCHWduRZubpPxzDkz"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Te Quiero Enamorar - Balada Version",
+      "url": "https://open.spotify.com/track/0tlYDlWKenqL5u78jZKh0z"
+    },
+    {
+      "album": {
+        "name": "Rey De La Banda Y Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2tdtsRboNFr44cpB8z8Lqp"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 235146,
+      "name": "Tierra En Los Ojos - Version Banda",
+      "url": "https://open.spotify.com/track/1dOmeBi3DAelKAMPi5QuKQ"
+    },
+    {
+      "album": {
+        "name": "Eres Mi Estrella",
+        "url": "https://open.spotify.com/album/3gbFQIpKk46W2nJ6hg8gig"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 282070,
+      "name": "Treinta A\u00f1os",
+      "url": "https://open.spotify.com/track/3xPnwRcoZ7Vd8H1w8wlPsW"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168160,
+      "name": "Tu Condena - Ranchera Version",
+      "url": "https://open.spotify.com/track/6mwSeGZQuRWkXapSFpzSeW"
+    },
+    {
+      "album": {
+        "name": "Atraves de la Luna",
+        "url": "https://open.spotify.com/album/5WTFgzxPRmlbYtoiZK8xk2"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 165877,
+      "name": "Tu Retrato",
+      "url": "https://open.spotify.com/track/3JAoKeOr0fK8MYeEEQRSzA"
+    },
+    {
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 224933,
+      "name": "T\u00fa - Balada Version",
+      "url": "https://open.spotify.com/track/2WLBbZNzqxxga0ZRhUX7w0"
+    },
+    {
+      "album": {
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "Ya No Me Preguntes",
+      "url": "https://open.spotify.com/track/46jA1c08Ti5zcSqnn1WgJu"
+    },
+    {
+      "album": {
+        "name": "Recordando A El Shaka",
+        "url": "https://open.spotify.com/album/78fYl5Q2DyPivtolvFxGaa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "Zapatos Nuevos",
+      "url": "https://open.spotify.com/track/4vSysCCv3X0TEGalKGXPu5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3wDj1z"
 }

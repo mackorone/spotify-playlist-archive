@@ -1,6 +1,6 @@
 {
   "description": "Rimas finas para inspirarte en el jale. ",
-  "num_followers": 108710,
+  "num_followers": 110355,
   "original_name": "Chambeando con Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,42 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Ni**as In Paris",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Mexicanos Bravos",
+        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
+      },
+      "artists": [
+        {
+          "name": "Kinto Sol",
+          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+        }
+      ],
+      "duration_ms": 218706,
+      "name": "Mexicanos Bravos",
+      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -111,18 +147,38 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Mexicanos Bravos",
-        "url": "https://open.spotify.com/album/3m1UaPJRxE8fDFcZ8u9L4I"
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
       "artists": [
         {
-          "name": "Kinto Sol",
-          "url": "https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu"
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 218706,
-      "name": "Mexicanos Bravos",
-      "url": "https://open.spotify.com/track/2jXfyuL0PbApA4GVn6pWhV"
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Medio D\u00eda",
+        "url": "https://open.spotify.com/album/1YtRL3WiIvAqEBoj6heQCp"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "duration_ms": 173102,
+      "name": "Medio D\u00eda",
+      "url": "https://open.spotify.com/track/2tVDpCEKqdPbtColbdpJVF"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -147,62 +203,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Ni**as In Paris",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Medio D\u00eda",
-        "url": "https://open.spotify.com/album/1YtRL3WiIvAqEBoj6heQCp"
-      },
-      "artists": [
-        {
-          "name": "Faruz Feet",
-          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
-        }
-      ],
-      "duration_ms": 173102,
-      "name": "Medio D\u00eda",
-      "url": "https://open.spotify.com/track/2tVDpCEKqdPbtColbdpJVF"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "2001",
-        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 270586,
-      "name": "Still D.R.E.",
-      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Nuevas Normas",
         "url": "https://open.spotify.com/album/5LHkIWpDVtAqZiYGgCLVm8"
       },
@@ -223,18 +223,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Graduation",
-        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 311866,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -255,34 +255,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
       "artists": [
         {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
         }
       ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 311866,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/0j2T0R9dR9qdJYsB7ciXhf"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -299,6 +283,22 @@
       "duration_ms": 260000,
       "name": "It Was A Good Day",
       "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Ready to Die (The Remaster)",
-        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 252746,
-      "name": "Big Poppa - 2005 Remaster",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "The Chronic",
         "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
       },
@@ -395,6 +379,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Ready to Die (The Remaster)",
+        "url": "https://open.spotify.com/album/2HTbQ0RHwukKVXAlTmCZP2"
+      },
+      "artists": [
+        {
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        }
+      ],
+      "duration_ms": 252746,
+      "name": "Big Poppa - 2005 Remaster",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 291781,
       "name": "Ride Wit Me",
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Fuera de \u00d3rbita",
+        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 233064,
+      "name": "Tocame",
+      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -447,22 +463,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Fuera de \u00d3rbita",
-        "url": "https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 233064,
-      "name": "Tocame",
-      "url": "https://open.spotify.com/track/4dWY6RpM9zmYvwqxrNvwtV"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -475,6 +475,30 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Young, Wild & Free (feat. Bruno Mars)",
+        "url": "https://open.spotify.com/album/1LMcmxhxL1g2GXj0X3w3sQ"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Young, Wild & Free (feat. Bruno Mars)",
+      "url": "https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -511,30 +535,6 @@
       "duration_ms": 224426,
       "name": "21 Questions",
       "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Young, Wild & Free (feat. Bruno Mars)",
-        "url": "https://open.spotify.com/album/1LMcmxhxL1g2GXj0X3w3sQ"
-      },
-      "artists": [
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Young, Wild & Free (feat. Bruno Mars)",
-      "url": "https://open.spotify.com/track/3FNy4yzOhHhFBeA5p4ofoq"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Amnesia",
         "url": "https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a"
       },
@@ -635,22 +619,6 @@
       "duration_ms": 188604,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Los Ni\u00f1os Grandes No Juegan",
-        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Nunca Te Pude Alcanzar",
-      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -679,18 +647,34 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Straight Outta Compton",
-        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
       "artists": [
         {
-          "name": "N.W.A.",
-          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 345717,
-      "name": "Fuck Tha Police",
-      "url": "https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/4Pwjz3DfvfQWV0rO2V8jyh"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Los Ni\u00f1os Grandes No Juegan",
+        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Nunca Te Pude Alcanzar",
+      "url": "https://open.spotify.com/track/7fdGqeuvSLVNMwFb6mDbXp"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -711,22 +695,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Viejo Marihuano",
-        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 225240,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Taste (feat. Offset)",
         "url": "https://open.spotify.com/album/0yd01cU78rnlFXq6vRxPSR"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 232959,
       "name": "Taste (feat. Offset)",
       "url": "https://open.spotify.com/track/5IaHrVsrferBYDm0bDyABy"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Viejo Marihuano",
+        "url": "https://open.spotify.com/album/0u6btZI3GPFtYX8T4DDW8O"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 225240,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/00jpfco62YfQj1BBYCCuKH"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "duration_ms": 345717,
+      "name": "Fuck Tha Police",
+      "url": "https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 219573,
+      "name": "Si Te Vienen a Contar",
+      "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/5bVfYgtEBKQDayvcxkyYq9"
       },
@@ -875,26 +891,22 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Activados y Prendidos",
-        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
+        "name": "Par de Dosis",
+        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
       },
       "artists": [
         {
-          "name": "Santa Estilo",
-          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
         },
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        },
-        {
-          "name": "Millonario",
-          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
         }
       ],
-      "duration_ms": 208026,
-      "name": "Pesao",
-      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
+      "duration_ms": 231304,
+      "name": "Par de Dosis",
+      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -915,18 +927,26 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+        "name": "Activados y Prendidos",
+        "url": "https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj"
       },
       "artists": [
         {
+          "name": "Santa Estilo",
+          "url": "https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG"
+        },
+        {
           "name": "Cartel De Santa",
           "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        },
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
         }
       ],
-      "duration_ms": 219573,
-      "name": "Si Te Vienen a Contar",
-      "url": "https://open.spotify.com/track/1qNUhmx3rGjiMRThz7Eruv"
+      "duration_ms": 208026,
+      "name": "Pesao",
+      "url": "https://open.spotify.com/track/6yZbbWkQ0cIjNXhOaBAfWP"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -963,26 +983,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Par de Dosis",
-        "url": "https://open.spotify.com/album/1zv3vTA4S3DeHHpI9J34O2"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        }
-      ],
-      "duration_ms": 231304,
-      "name": "Par de Dosis",
-      "url": "https://open.spotify.com/track/52k464DnpIm5sVQNEY76PN"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Mucho Barato",
         "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
@@ -995,6 +995,26 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Mucho para M\u00ed",
+        "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Franco Escamilla",
+          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
+        }
+      ],
+      "duration_ms": 310262,
+      "name": "Mucho para M\u00ed",
+      "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1019,26 +1039,6 @@
       "duration_ms": 178176,
       "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Mucho para M\u00ed",
-        "url": "https://open.spotify.com/album/57dqYC3Drhz5gxPxcIn4d5"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Franco Escamilla",
-          "url": "https://open.spotify.com/artist/1ZlIROqKXOEvPgEffO8vri"
-        }
-      ],
-      "duration_ms": 310262,
-      "name": "Mucho para M\u00ed",
-      "url": "https://open.spotify.com/track/29FljZjbNMcXlHAf2lKHbR"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1071,6 +1071,134 @@
       "duration_ms": 214946,
       "name": "Jump Around",
       "url": "https://open.spotify.com/track/6JymsaWDHk2Yj4e0yNBIFH"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "El Cuadro del Terror",
+        "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
+      },
+      "artists": [
+        {
+          "name": "El Makabelico",
+          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "El Sobrino",
+      "url": "https://open.spotify.com/track/4ThT8JzNJtbSkq5LqpxcCS"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Canciones Mamalonas 2",
+        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Eirian Music",
+          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "No Que No Eras Fan",
+      "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "duration_ms": 273485,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 245173,
+      "name": "Dirt Off Your Shoulder",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Proyecto Akwid",
+        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
+      },
+      "artists": [
+        {
+          "name": "Akwid",
+          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
+        }
+      ],
+      "duration_ms": 243466,
+      "name": "No Hay Manera",
+      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Artilleria Pesada, Presenta:",
+        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253880,
+      "name": "Si Se\u00f1or",
+      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Sincopa",
+        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 292160,
+      "name": "Bombos y Tarolas",
+      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1112,101 +1240,9 @@
           "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
         }
       ],
-      "duration_ms": 319556,
-      "name": "El Sobrino",
-      "url": "https://open.spotify.com/track/4ThT8JzNJtbSkq5LqpxcCS"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "The Black Album",
-        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Dirt Off Your Shoulder",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Yung Sarria",
-          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 273485,
-      "name": "Tantas Veces",
-      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Proyecto Akwid",
-        "url": "https://open.spotify.com/album/7IIVtFcrNzU7PV8gBqq6oM"
-      },
-      "artists": [
-        {
-          "name": "Akwid",
-          "url": "https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG"
-        }
-      ],
-      "duration_ms": 243466,
-      "name": "No Hay Manera",
-      "url": "https://open.spotify.com/track/5dFaYG4WClIHhbHSe0m3FO"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Artilleria Pesada, Presenta:",
-        "url": "https://open.spotify.com/album/4EK8c4DmpA3uhyKt6P2B2v"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253880,
-      "name": "Si Se\u00f1or",
-      "url": "https://open.spotify.com/track/3MameTW9RiNTUpFEoadsA3"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
+      "duration_ms": 273294,
+      "name": "Equipado Pa la Guerra",
+      "url": "https://open.spotify.com/track/6VYLUQk2KoQew6sLJkRqXH"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1223,22 +1259,6 @@
       "duration_ms": 258506,
       "name": "Sound of da Police",
       "url": "https://open.spotify.com/track/3Y6XWs8xMlCngyIxNOFnsp"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Sincopa",
-        "url": "https://open.spotify.com/album/4u16vv7jUXm8XTdvd2szGH"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 292160,
-      "name": "Bombos y Tarolas",
-      "url": "https://open.spotify.com/track/5HxcRTUT0X0X7WzwPoj0cm"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1307,66 +1327,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "El Cuadro del Terror",
-        "url": "https://open.spotify.com/album/7paQhjni7vgcDvOOPNHQqH"
-      },
-      "artists": [
-        {
-          "name": "El Makabelico",
-          "url": "https://open.spotify.com/artist/0rJ0xlAQI0wLRucDRoQQbO"
-        }
-      ],
-      "duration_ms": 273294,
-      "name": "Equipado Pa la Guerra",
-      "url": "https://open.spotify.com/track/6VYLUQk2KoQew6sLJkRqXH"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Canciones Mamalonas 2",
-        "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "No Que No Eras Fan",
-      "url": "https://open.spotify.com/track/41Y8W6QoYpAHO0vw0FpoqM"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "El Chivo",
-        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
-      },
-      "artists": [
-        {
-          "name": "Berner",
-          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
-        },
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "El Chivo (feat. T3r Elemento)",
-      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Humo en la Trampa 3",
         "url": "https://open.spotify.com/album/52pj5NqKKtffjSmxvMzhlY"
       },
@@ -1391,6 +1351,46 @@
       "duration_ms": 207218,
       "name": "C\u00f3mo Diamante",
       "url": "https://open.spotify.com/track/76j6ISLdqxSKJBNGLL0fPb"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "El Chivo",
+        "url": "https://open.spotify.com/album/0IbbPJkA83Unb76NTio1YP"
+      },
+      "artists": [
+        {
+          "name": "Berner",
+          "url": "https://open.spotify.com/artist/2lrtGWxNXWjd0JzDLKXubI"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "El Chivo (feat. T3r Elemento)",
+      "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1499,34 +1499,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Twelve Eighteen (Part I) [Explicit Version]",
         "url": "https://open.spotify.com/album/7jDU9nE51kel3vrhztvMrj"
       },
@@ -1563,18 +1535,30 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Silencio En El Callejon",
-        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
       "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
         {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 180062,
-      "name": "Silencio En El Callejon",
-      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
+      "duration_ms": 268124,
+      "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Suena En Mi Barrio",
-        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+        "name": "Silencio En El Callejon",
+        "url": "https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 233142,
-      "name": "Suena En Mi Barrio",
-      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
+      "duration_ms": 180062,
+      "name": "Silencio En El Callejon",
+      "url": "https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1647,6 +1627,26 @@
       "duration_ms": 254533,
       "name": "So Fly",
       "url": "https://open.spotify.com/track/2BjIi07kN0yKSur0Fwrnss"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Suena En Mi Barrio",
+        "url": "https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Suena En Mi Barrio",
+      "url": "https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1679,74 +1679,6 @@
       "duration_ms": 360724,
       "name": "Liga Malandra",
       "url": "https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "K\u00f3digos",
-        "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "473 Music",
-          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "K\u00f3digos",
-      "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Malvivientes",
-        "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
-      },
-      "artists": [
-        {
-          "name": "Tornillo",
-          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Richard Ahumada",
-          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
-        },
-        {
-          "name": "Karlos Loayzat",
-          "url": "https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU"
-        }
-      ],
-      "duration_ms": 294545,
-      "name": "Malvivientes",
-      "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Rolemos Otro",
-        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 187106,
-      "name": "Ya Te la Cypress",
-      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1787,6 +1719,74 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
+        "name": "K\u00f3digos",
+        "url": "https://open.spotify.com/album/0b5audVuKMeEU2EW1Dl4CS"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "K\u00f3digos",
+      "url": "https://open.spotify.com/track/6kMOMMTx2xVeL949eA43ld"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Rolemos Otro",
+        "url": "https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 187106,
+      "name": "Ya Te la Cypress",
+      "url": "https://open.spotify.com/track/45kftthTUcu0Ci2XW51jhE"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Malvivientes",
+        "url": "https://open.spotify.com/album/5avfygcAoK3LQ0vGSXWrVI"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Richard Ahumada",
+          "url": "https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC"
+        },
+        {
+          "name": "Karlos Loayzat",
+          "url": "https://open.spotify.com/artist/3rfra93e0UicabkeHC9NNU"
+        }
+      ],
+      "duration_ms": 294545,
+      "name": "Malvivientes",
+      "url": "https://open.spotify.com/track/5xl0AxAVWP8Css33vu2j9P"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
         "name": "Todo Bien",
         "url": "https://open.spotify.com/album/3ZDwja1a3VLSqjMAX8RxlJ"
       },
@@ -1799,22 +1799,6 @@
       "duration_ms": 208000,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5p6S0LXowt9jTCJfCP9A5S"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 214693,
-      "name": "As\u00ed Son Mis D\u00edas",
-      "url": "https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1835,18 +1819,18 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
-        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
       "artists": [
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 200253,
-      "name": "Pap\u00e1",
-      "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
+      "duration_ms": 214693,
+      "name": "As\u00ed Son Mis D\u00edas",
+      "url": "https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1863,6 +1847,22 @@
       "duration_ms": 209066,
       "name": "La Raza",
       "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "No Ten\u00edamos Nada, Pero \u00c9ramos Felices",
+        "url": "https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 200253,
+      "name": "Pap\u00e1",
+      "url": "https://open.spotify.com/track/6LqI79HurtSLxv8ulJohvG"
     },
     {
       "added_at": "2023-10-20 01:00:00",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2023-10-20 01:00:00",
       "album": {
-        "name": "Socios I",
-        "url": "https://open.spotify.com/album/4RDh4wYltzycXMyqQqJdAq"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        }
-      ],
-      "duration_ms": 258100,
-      "name": "\u00daltimo Adi\u00f3s",
-      "url": "https://open.spotify.com/track/62NGexdWmThjmnnlobPev4"
-    },
-    {
-      "added_at": "2023-10-20 01:00:00",
-      "album": {
         "name": "Hecho En Mexico",
         "url": "https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir"
       },
@@ -1951,6 +1931,22 @@
       "duration_ms": 262693,
       "name": "Hecho En Mexico",
       "url": "https://open.spotify.com/track/7kCp04jo6XWGVC3ZENX1vI"
+    },
+    {
+      "added_at": "2023-10-20 01:00:00",
+      "album": {
+        "name": "Afuera Que Tengan Miedo",
+        "url": "https://open.spotify.com/album/5RrtVeQtn3IeueXIIKNr51"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Afuera Que Tengan Miedo",
+      "url": "https://open.spotify.com/track/7lXM1W0RFoHXf4QRqx6U3g"
     }
   ],
   "unique_name": "Chambeando con Hip-Hop",

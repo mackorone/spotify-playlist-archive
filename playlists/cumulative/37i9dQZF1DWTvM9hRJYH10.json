@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: The Castellows",
+  "description": "Music from Nashville's emerging Singers and Songwriters. Cover: Georgia Webster",
   "name": "Young Nashville",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 202662,
       "name": "As I Go",
       "url": "https://open.spotify.com/track/1MCwq7D5Rep3JFFp6h9Bux"
+    },
+    {
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/4aEpV2d6LOIsKqsmdueLTD"
+      },
+      "artists": [
+        {
+          "name": "Georgia Webster",
+          "url": "https://open.spotify.com/artist/0SBVbPO2gePQlaDiIfaKDl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217400,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/2QU0RvgW6y0ePMPATJGemH"
     },
     {
       "album": {
@@ -3932,6 +3950,24 @@
       "duration_ms": 230086,
       "name": "Port City",
       "url": "https://open.spotify.com/track/2xtyduCtx4uPVxksiSYSjj"
+    },
+    {
+      "album": {
+        "name": "Pray All The Way Home",
+        "url": "https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn"
+      },
+      "artists": [
+        {
+          "name": "Austin Snell",
+          "url": "https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144173,
+      "name": "Pray All The Way Home",
+      "url": "https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF"
     },
     {
       "album": {

@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/3cHzK2dR1QpVHkwuOaERnW"
+      },
+      "artists": [
+        {
+          "name": "MiLES.",
+          "url": "https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183428,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/4NZcudZGLMwhRMgdqGdRBm"
+    },
+    {
+      "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
         "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
       },
@@ -4514,7 +4532,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 298160,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/3ixe45hov7EBKXm8tYBmvX"
@@ -4908,7 +4926,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 180064,
       "name": "Nectar.",
       "url": "https://open.spotify.com/track/5YamNEPEtoovtVgLWPZThg"
@@ -6851,6 +6869,24 @@
     },
     {
       "album": {
+        "name": "Noodle",
+        "url": "https://open.spotify.com/album/3AV012gIyQAqTHAfquzBPz"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172355,
+      "name": "Super Fresh",
+      "url": "https://open.spotify.com/track/3LnFzIurGFJBqNexZodUg0"
+    },
+    {
+      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0iu2xltdgI77Bkryi5JTNe"
       },
@@ -8078,7 +8114,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 189565,
       "name": "Turning Point",
       "url": "https://open.spotify.com/track/5pQR2DV8gHTVNJnXgrBDix"
@@ -9366,6 +9402,24 @@
       "duration_ms": 202886,
       "name": "\u6368\u3066\u305f\u3089\u3044\u3044",
       "url": "https://open.spotify.com/track/0S9lGaUMNdWlkC2otnCi3j"
+    },
+    {
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192462,
+      "name": "\u7a7a\u3068\u3076\u6771\u4eac",
+      "url": "https://open.spotify.com/track/1Z09qAdhbdRF40re5pjW0S"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX80MfQNTNVNZ"

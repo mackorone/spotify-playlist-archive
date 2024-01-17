@@ -1,579 +1,1183 @@
 {
-  "2022-05-31": 47639,
-  "2022-06-01": 47694,
-  "2022-06-02": 47696,
-  "2022-06-03": 47732,
-  "2022-06-04": 47760,
-  "2022-06-05": 47797,
-  "2022-06-06": 47820,
-  "2022-06-07": 47848,
-  "2022-06-08": 47889,
-  "2022-06-09": 47911,
-  "2022-06-10": 47940,
-  "2022-06-11": 47971,
-  "2022-06-12": 47996,
-  "2022-06-13": 48022,
-  "2022-06-14": 48051,
-  "2022-06-15": 48082,
-  "2022-06-16": 48114,
-  "2022-06-17": 48139,
-  "2022-06-18": 48168,
-  "2022-06-19": 48217,
-  "2022-06-20": 48217,
-  "2022-06-21": 48261,
-  "2022-06-22": 48339,
-  "2022-06-23": 48339,
-  "2022-06-24": 48373,
-  "2022-06-25": 48410,
-  "2022-06-26": 48445,
-  "2022-06-27": 48479,
-  "2022-06-28": 48499,
-  "2022-06-29": 48540,
-  "2022-06-30": 48559,
-  "2022-07-01": 48606,
-  "2022-07-02": 48635,
-  "2022-07-03": 48660,
-  "2022-07-04": 48681,
-  "2022-07-05": 48681,
-  "2022-07-06": 48681,
-  "2022-07-07": 48750,
-  "2022-07-08": 48777,
-  "2022-07-09": 48802,
-  "2022-07-10": 48835,
-  "2022-07-11": 48863,
-  "2022-07-12": 48887,
-  "2022-07-13": 48952,
-  "2022-07-14": 48986,
-  "2022-07-15": 49039,
-  "2022-07-16": 49093,
-  "2022-07-17": 49134,
-  "2022-07-18": 49175,
-  "2022-07-19": 49211,
-  "2022-07-20": 49243,
-  "2022-07-21": 49269,
-  "2022-07-22": 49319,
-  "2022-07-23": 49357,
-  "2022-07-24": 49403,
-  "2022-07-25": 49433,
-  "2022-07-26": 49470,
-  "2022-07-27": 49507,
-  "2022-07-28": 49528,
-  "2022-07-29": 49558,
-  "2022-07-30": 49628,
-  "2022-07-31": 49628,
-  "2022-08-01": 49653,
-  "2022-08-02": 49713,
-  "2022-08-03": 49713,
-  "2022-08-04": 49732,
-  "2022-08-05": 49770,
-  "2022-08-06": 49804,
-  "2022-08-07": 49847,
-  "2022-08-08": 49869,
-  "2022-08-09": 49904,
-  "2022-08-10": 49928,
-  "2022-08-11": 49962,
-  "2022-08-12": 49997,
-  "2022-08-13": 50023,
-  "2022-08-14": 50062,
-  "2022-08-15": 50084,
-  "2022-08-16": 50111,
-  "2022-08-17": 50170,
-  "2022-08-18": 50204,
-  "2022-08-19": 50234,
-  "2022-08-20": 50267,
-  "2022-08-21": 50294,
-  "2022-08-22": 50317,
-  "2022-08-23": 50357,
-  "2022-08-24": 50383,
-  "2022-08-25": 50424,
-  "2022-08-26": 50448,
-  "2022-08-27": 50477,
-  "2022-08-28": 50507,
-  "2022-08-29": 50527,
-  "2022-08-30": 50511,
-  "2022-08-31": 50442,
-  "2022-09-01": 50392,
-  "2022-09-02": 50324,
-  "2022-09-03": 50171,
-  "2022-09-04": 50106,
-  "2022-09-05": 50116,
-  "2022-09-06": 50148,
-  "2022-09-07": 50191,
-  "2022-09-09": 50250,
-  "2022-09-10": 50287,
-  "2022-09-11": 50309,
-  "2022-09-12": 50332,
-  "2022-09-13": 50341,
-  "2022-09-15": 50419,
-  "2022-09-16": 50450,
-  "2022-09-17": 50482,
-  "2022-09-18": 50514,
-  "2022-09-19": 50543,
-  "2022-09-20": 50574,
-  "2022-09-21": 50613,
-  "2022-09-22": 50658,
-  "2022-09-23": 50710,
-  "2022-09-24": 50710,
-  "2022-09-25": 50766,
-  "2022-09-26": 50779,
-  "2022-09-27": 50806,
-  "2022-09-28": 50824,
-  "2022-09-29": 50855,
-  "2022-09-30": 50884,
-  "2022-10-01": 50919,
-  "2022-10-02": 50949,
-  "2022-10-03": 50982,
-  "2022-10-04": 51015,
-  "2022-10-05": 51045,
-  "2022-10-06": 51077,
-  "2022-10-07": 51122,
-  "2022-10-08": 51148,
-  "2022-10-09": 51201,
-  "2022-10-10": 51202,
-  "2022-10-11": 51235,
-  "2022-10-12": 51265,
-  "2022-10-13": 51305,
-  "2022-10-14": 51351,
-  "2022-10-15": 51398,
-  "2022-10-16": 51421,
-  "2022-10-17": 51461,
-  "2022-10-18": 51496,
-  "2022-10-19": 51529,
-  "2022-10-20": 51558,
-  "2022-10-21": 51606,
-  "2022-10-22": 51655,
-  "2022-10-23": 51697,
-  "2022-10-24": 51747,
-  "2022-10-25": 51773,
-  "2022-10-26": 51822,
-  "2022-10-27": 51857,
-  "2022-10-28": 51900,
-  "2022-10-29": 51945,
-  "2022-10-30": 51960,
-  "2022-10-31": 51990,
-  "2022-11-01": 52014,
-  "2022-11-02": 52050,
-  "2022-11-03": 52080,
-  "2022-11-04": 52129,
-  "2022-11-05": 52178,
-  "2022-11-06": 52209,
-  "2022-11-07": 52268,
-  "2022-11-08": 52316,
-  "2022-11-09": 52393,
-  "2022-11-10": 52455,
-  "2022-11-11": 52508,
-  "2022-11-12": 52562,
-  "2022-11-13": 52595,
-  "2022-11-14": 52639,
-  "2022-11-15": 52682,
-  "2022-11-16": 52737,
-  "2022-11-17": 52782,
-  "2022-11-18": 52791,
-  "2022-11-19": 52797,
-  "2022-11-20": 52836,
-  "2022-11-21": 52869,
-  "2022-11-22": 52905,
-  "2022-11-23": 52944,
-  "2022-11-24": 52994,
-  "2022-11-25": 53050,
-  "2022-11-26": 53086,
-  "2022-11-27": 53115,
-  "2022-11-28": 53137,
-  "2022-11-29": 53183,
-  "2022-11-30": 53221,
-  "2022-12-01": 53266,
-  "2022-12-02": 53300,
-  "2022-12-03": 53381,
-  "2022-12-04": 53427,
-  "2022-12-05": 53461,
-  "2022-12-06": 53504,
-  "2022-12-07": 53557,
-  "2022-12-08": 53617,
-  "2022-12-09": 53673,
-  "2022-12-10": 53703,
-  "2022-12-11": 53730,
-  "2022-12-12": 53769,
-  "2022-12-13": 53791,
-  "2022-12-14": 53831,
-  "2022-12-15": 53869,
-  "2022-12-16": 53904,
-  "2022-12-17": 53934,
-  "2022-12-18": 53958,
-  "2022-12-19": 53984,
-  "2022-12-20": 54019,
-  "2022-12-21": 54019,
-  "2022-12-22": 54057,
-  "2022-12-24": 54116,
-  "2022-12-25": 54149,
-  "2022-12-26": 54173,
-  "2022-12-27": 54195,
-  "2022-12-28": 54223,
-  "2022-12-29": 54262,
-  "2022-12-30": 54281,
-  "2022-12-31": 54334,
-  "2023-01-01": 54366,
-  "2023-01-02": 54403,
-  "2023-01-03": 54434,
-  "2023-01-04": 54466,
-  "2023-01-05": 54518,
-  "2023-01-06": 54579,
-  "2023-01-07": 54671,
-  "2023-01-08": 54682,
-  "2023-01-09": 54732,
-  "2023-01-10": 54786,
-  "2023-01-11": 54831,
-  "2023-01-12": 54861,
-  "2023-01-13": 54904,
-  "2023-01-14": 54986,
-  "2023-01-15": 54992,
-  "2023-01-16": 55045,
-  "2023-01-17": 55082,
-  "2023-01-18": 55117,
-  "2023-01-19": 55157,
-  "2023-01-20": 55187,
-  "2023-01-21": 55230,
-  "2023-01-22": 55258,
-  "2023-01-23": 55288,
-  "2023-01-24": 55317,
-  "2023-01-25": 55344,
-  "2023-01-26": 55386,
-  "2023-01-27": 55409,
-  "2023-01-28": 55444,
-  "2023-01-29": 55467,
-  "2023-01-30": 55481,
-  "2023-01-31": 55481,
-  "2023-02-01": 55543,
-  "2023-02-02": 55567,
-  "2023-02-03": 55587,
-  "2023-02-04": 55620,
-  "2023-02-05": 55635,
-  "2023-02-06": 55663,
-  "2023-02-07": 55686,
-  "2023-02-08": 55743,
-  "2023-02-09": 55743,
-  "2023-02-10": 55772,
-  "2023-02-11": 55799,
-  "2023-02-12": 55861,
-  "2023-02-13": 55887,
-  "2023-02-14": 55887,
-  "2023-02-15": 55907,
-  "2023-02-16": 55938,
-  "2023-02-17": 55975,
-  "2023-02-18": 56050,
-  "2023-02-19": 56054,
-  "2023-02-20": 56091,
-  "2023-02-21": 56127,
-  "2023-02-22": 56162,
-  "2023-02-23": 56184,
-  "2023-02-24": 56210,
-  "2023-02-25": 56264,
-  "2023-02-26": 56279,
-  "2023-02-27": 56339,
-  "2023-02-28": 56339,
-  "2023-03-01": 56353,
-  "2023-03-02": 56387,
-  "2023-03-03": 56431,
-  "2023-03-04": 56458,
-  "2023-03-05": 56503,
-  "2023-03-06": 56503,
-  "2023-03-07": 56530,
-  "2023-03-08": 56565,
-  "2023-03-09": 56597,
-  "2023-03-10": 56631,
-  "2023-03-11": 56661,
-  "2023-03-12": 56690,
-  "2023-03-13": 56702,
-  "2023-03-14": 56726,
-  "2023-03-15": 56744,
-  "2023-03-16": 56744,
-  "2023-03-17": 56744,
-  "2023-03-18": 56828,
-  "2023-03-19": 56828,
-  "2023-03-20": 56885,
-  "2023-03-21": 56915,
-  "2023-03-22": 56944,
-  "2023-03-23": 56974,
-  "2023-03-24": 56974,
-  "2023-03-25": 57045,
-  "2023-03-26": 57086,
-  "2023-03-27": 57130,
-  "2023-03-28": 57157,
-  "2023-03-29": 57192,
-  "2023-03-30": 57250,
-  "2023-03-31": 57250,
-  "2023-04-01": 57277,
-  "2023-04-02": 57303,
-  "2023-04-03": 57329,
-  "2023-04-04": 57383,
-  "2023-04-05": 57420,
-  "2023-04-06": 57466,
-  "2023-04-07": 57485,
-  "2023-04-09": 57548,
-  "2023-04-10": 57569,
-  "2023-04-11": 57642,
-  "2023-04-12": 57642,
-  "2023-04-13": 57666,
-  "2023-04-14": 57692,
-  "2023-04-15": 57710,
-  "2023-04-16": 57730,
-  "2023-04-17": 57754,
-  "2023-04-18": 57778,
-  "2023-04-19": 57804,
-  "2023-04-20": 57832,
-  "2023-04-21": 57855,
-  "2023-04-22": 57888,
-  "2023-04-23": 57923,
-  "2023-04-24": 57955,
-  "2023-04-25": 57998,
-  "2023-04-26": 58025,
-  "2023-04-27": 58052,
-  "2023-04-28": 58113,
-  "2023-04-29": 58169,
-  "2023-04-30": 58202,
-  "2023-05-01": 58239,
-  "2023-05-02": 58275,
-  "2023-05-03": 58308,
-  "2023-05-04": 58348,
-  "2023-05-05": 58369,
-  "2023-05-06": 58396,
-  "2023-05-07": 58434,
-  "2023-05-08": 58455,
-  "2023-05-09": 58482,
-  "2023-05-10": 58511,
-  "2023-05-11": 58542,
-  "2023-05-12": 58580,
-  "2023-05-13": 58615,
-  "2023-05-14": 58641,
-  "2023-05-15": 58652,
-  "2023-05-16": 58690,
-  "2023-05-17": 58725,
-  "2023-05-18": 58755,
-  "2023-05-19": 58802,
-  "2023-05-20": 58883,
-  "2023-05-21": 58883,
-  "2023-05-22": 58883,
-  "2023-05-23": 58960,
-  "2023-05-24": 59021,
-  "2023-05-25": 59032,
-  "2023-05-26": 59067,
-  "2023-05-27": 59114,
-  "2023-05-28": 59157,
-  "2023-05-29": 59157,
-  "2023-05-30": 59221,
-  "2023-05-31": 59262,
-  "2023-06-01": 59309,
-  "2023-06-02": 59344,
-  "2023-06-03": 59391,
-  "2023-06-04": 59428,
-  "2023-06-05": 59461,
-  "2023-06-06": 59526,
-  "2023-06-07": 59574,
-  "2023-06-08": 59635,
-  "2023-06-09": 59697,
-  "2023-06-10": 59744,
-  "2023-06-11": 59788,
-  "2023-06-12": 59833,
-  "2023-06-13": 59882,
-  "2023-06-14": 59950,
-  "2023-06-15": 59994,
-  "2023-06-16": 60064,
-  "2023-06-17": 60132,
-  "2023-06-18": 60193,
-  "2023-06-19": 60230,
-  "2023-06-20": 60280,
-  "2023-06-21": 60326,
-  "2023-06-22": 60375,
-  "2023-06-23": 60421,
-  "2023-06-24": 60477,
-  "2023-06-25": 60522,
-  "2023-06-26": 60561,
-  "2023-06-27": 60604,
-  "2023-06-28": 60642,
-  "2023-06-29": 60675,
-  "2023-06-30": 60715,
-  "2023-07-01": 60778,
-  "2023-07-02": 60778,
-  "2023-07-03": 60796,
-  "2023-07-04": 60821,
-  "2023-07-05": 60845,
-  "2023-07-06": 60897,
-  "2023-07-07": 60897,
-  "2023-07-08": 60897,
-  "2023-07-09": 60942,
-  "2023-07-10": 60954,
-  "2023-07-11": 60980,
-  "2023-07-12": 60998,
-  "2023-07-13": 61037,
-  "2023-07-14": 61060,
-  "2023-07-15": 61075,
-  "2023-07-16": 61104,
-  "2023-07-17": 61131,
-  "2023-07-18": 61170,
-  "2023-07-19": 61203,
-  "2023-07-20": 61217,
-  "2023-07-21": 61259,
-  "2023-07-22": 61283,
-  "2023-07-23": 61315,
-  "2023-07-24": 61329,
-  "2023-07-25": 61355,
-  "2023-07-26": 61388,
-  "2023-07-27": 61427,
-  "2023-07-28": 61451,
-  "2023-07-29": 61470,
-  "2023-07-30": 61492,
-  "2023-07-31": 61522,
-  "2023-08-01": 61535,
-  "2023-08-02": 61574,
-  "2023-08-03": 61599,
-  "2023-08-04": 61634,
-  "2023-08-05": 61658,
-  "2023-08-06": 61706,
-  "2023-08-07": 61706,
-  "2023-08-08": 61725,
-  "2023-08-09": 61755,
-  "2023-08-10": 61778,
-  "2023-08-11": 61813,
-  "2023-08-12": 61813,
-  "2023-08-13": 61813,
-  "2023-08-14": 61889,
-  "2023-08-15": 61889,
-  "2023-08-16": 61889,
-  "2023-08-17": 61889,
-  "2023-08-18": 61889,
-  "2023-08-19": 61889,
-  "2023-08-20": 62039,
-  "2023-08-21": 62039,
-  "2023-08-22": 62102,
-  "2023-08-23": 62102,
-  "2023-08-24": 62102,
-  "2023-08-25": 62102,
-  "2023-08-26": 62250,
-  "2023-08-27": 62250,
-  "2023-08-28": 62283,
-  "2023-08-29": 62283,
-  "2023-08-30": 62283,
-  "2023-08-31": 62385,
-  "2023-09-01": 62413,
-  "2023-09-02": 62413,
-  "2023-09-03": 62413,
-  "2023-09-04": 62413,
-  "2023-09-05": 62413,
-  "2023-09-06": 62413,
-  "2023-09-07": 62413,
-  "2023-09-08": 62413,
-  "2023-09-09": 62413,
-  "2023-09-10": 62683,
-  "2023-09-11": 62683,
-  "2023-09-12": 62683,
-  "2023-09-13": 62683,
-  "2023-09-14": 62683,
-  "2023-09-15": 62683,
-  "2023-09-16": 62818,
-  "2023-09-17": 62818,
-  "2023-09-18": 62818,
-  "2023-09-19": 62873,
-  "2023-09-20": 62873,
-  "2023-09-21": 62873,
-  "2023-09-22": 62928,
-  "2023-09-23": 62928,
-  "2023-09-24": 62928,
-  "2023-09-25": 62928,
-  "2023-09-26": 63021,
-  "2023-09-27": 63021,
-  "2023-09-28": 63021,
-  "2023-09-29": 63021,
-  "2023-09-30": 63021,
-  "2023-10-01": 63021,
-  "2023-10-02": 63021,
-  "2023-10-03": 63021,
-  "2023-10-04": 63021,
-  "2023-10-05": 63021,
-  "2023-10-06": 63021,
-  "2023-10-07": 63021,
-  "2023-10-08": 63021,
-  "2023-10-09": 63021,
-  "2023-10-10": 63021,
-  "2023-10-11": 63370,
-  "2023-10-12": 63370,
-  "2023-10-13": 63370,
-  "2023-10-14": 63370,
-  "2023-10-15": 63370,
-  "2023-10-16": 63370,
-  "2023-10-17": 63370,
-  "2023-10-18": 63370,
-  "2023-10-19": 63370,
-  "2023-10-20": 63370,
-  "2023-10-21": 63370,
-  "2023-10-22": 63370,
-  "2023-10-23": 63370,
-  "2023-10-24": 63370,
-  "2023-10-25": 63370,
-  "2023-10-26": 63370,
-  "2023-10-27": 63370,
-  "2023-10-28": 63370,
-  "2023-10-29": 63370,
-  "2023-10-30": 63370,
-  "2023-10-31": 63370,
-  "2023-11-01": 63370,
-  "2023-11-02": 63370,
-  "2023-11-03": 63370,
-  "2023-11-04": 63370,
-  "2023-11-05": 63370,
-  "2023-11-06": 63370,
-  "2023-11-07": 63370,
-  "2023-11-08": 63370,
-  "2023-11-09": 63370,
-  "2023-11-10": 63370,
-  "2023-11-11": 63878,
-  "2023-11-12": 63878,
-  "2023-11-13": 63878,
-  "2023-11-14": 63878,
-  "2023-11-15": 63878,
-  "2023-11-16": 63878,
-  "2023-11-17": 63878,
-  "2023-11-18": 63878,
-  "2023-11-19": 63878,
-  "2023-11-20": 63878,
-  "2023-11-21": 63878,
-  "2023-11-22": 63878,
-  "2023-11-23": 63878,
-  "2023-11-24": 63878,
-  "2023-11-25": 63878,
-  "2023-11-26": 63878,
-  "2023-11-27": 63878,
-  "2023-11-28": 63878,
-  "2023-11-29": 63878,
-  "2023-11-30": 63878,
-  "2023-12-01": 63878,
-  "2023-12-02": 63878,
-  "2023-12-03": 63878,
-  "2023-12-04": 63878,
-  "2023-12-05": 63878,
-  "2023-12-06": 63878,
-  "2023-12-07": 63878,
-  "2023-12-08": 63878,
-  "2023-12-09": 63878,
-  "2023-12-10": 63878,
-  "2023-12-11": 63878,
-  "2023-12-12": 63878,
-  "2023-12-13": 63878,
-  "2023-12-14": 64983,
-  "2023-12-15": 65033,
-  "2023-12-16": 65083,
-  "2023-12-17": 65135,
-  "2023-12-18": 65167,
-  "2023-12-19": 65223,
-  "2023-12-20": 65266,
-  "2023-12-21": 65314,
-  "2023-12-22": 65356,
-  "2023-12-23": 65399,
-  "2023-12-24": 65433,
-  "2023-12-25": 65471,
-  "2023-12-26": 65498,
-  "2023-12-27": 65536,
-  "2023-12-30": 65648,
-  "2023-12-31": 65681,
-  "2024-01-01": 65716,
-  "2024-01-02": 65744,
-  "2024-01-03": 65767
+  "2024-01-17": 66199,
+  "date_first_scraped": "2022-05-31",
+  "description": "This is Architects. The essential tracks, all in one playlist.",
+  "name": "This Is Architects",
+  "tracks": [
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228017,
+      "name": "A Match Made In Heaven",
+      "url": "https://open.spotify.com/track/5QDDmrz819WmzBeQHZNhor"
+    },
+    {
+      "album": {
+        "name": "a new moral low ground",
+        "url": "https://open.spotify.com/album/3MIWFjKy0AuyJP2Z6PfNGy"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 211848,
+      "name": "a new moral low ground",
+      "url": "https://open.spotify.com/track/2LqlhqFm6R4b455OGfsU81"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211848,
+      "name": "a new moral low ground",
+      "url": "https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-12",
+      "duration_ms": 274933,
+      "name": "A Wasted Hymn",
+      "url": "https://open.spotify.com/track/7HxPeiu2gKZbGXWJA0bzHn"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 260191,
+      "name": "All Love is Lost",
+      "url": "https://open.spotify.com/track/7mVy5TK92iX36crfo0hSWH"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 241040,
+      "name": "all the love in the world",
+      "url": "https://open.spotify.com/track/6m1mPWWQTiOp2Daf024oCW"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Alpha Omega",
+      "url": "https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE"
+    },
+    {
+      "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 196093,
+      "name": "An Open Letter to Myself",
+      "url": "https://open.spotify.com/track/1A2AXzeYUe89aoCuuvsUyh"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 247664,
+      "name": "An Ordinary Extinction",
+      "url": "https://open.spotify.com/track/1a3ght71qSYa6wBFmmmTE2"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244364,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 273760,
+      "name": "Black Blood",
+      "url": "https://open.spotify.com/track/3zW2l6tss1kIZDj73CtJx6"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231161,
+      "name": "Black Lungs",
+      "url": "https://open.spotify.com/track/06BRkkaJsqM9i6VZKDvUlK"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 211394,
+      "name": "born again pessimist",
+      "url": "https://open.spotify.com/track/1NDLQvcwBgWn4Il3ex0kkH"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232939,
+      "name": "Broken Cross",
+      "url": "https://open.spotify.com/track/4b7oCl6v6kyH10igobXEuy"
+    },
+    {
+      "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 237853,
+      "name": "BTN",
+      "url": "https://open.spotify.com/track/0AL6hUwLhPmWTudNl9ViIE"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259143,
+      "name": "burn down my house",
+      "url": "https://open.spotify.com/track/3Pysg3zpSc34Aj08HPbl78"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259224,
+      "name": "C.A.N.C.E.R",
+      "url": "https://open.spotify.com/track/0MyPqVDidAoYEpmGl5VHGW"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222604,
+      "name": "Castles In The Air",
+      "url": "https://open.spotify.com/track/1UNG4xf1SxhDE62c8vPCwR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2jPjaTdyhWQ3dEa7NQXJui"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-29",
+      "duration_ms": 295074,
+      "name": "Change (In The House Of Flies) - Recorded at Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/0DFMMdvzwHhvTXVQs26mA0"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271418,
+      "name": "Colony Collapse",
+      "url": "https://open.spotify.com/track/3nRmk2LJq3bTacynhGmAUW"
+    },
+    {
+      "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Day in Day Out",
+      "url": "https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242407,
+      "name": "Dead Butterflies",
+      "url": "https://open.spotify.com/track/2XdcUAsMCuNMaWLmXIhdjW"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-09-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-16",
+      "duration_ms": 244164,
+      "name": "Dead Man Talking",
+      "url": "https://open.spotify.com/track/0r6jN06i84ulsRkf9oSZo4"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "Death Is Not Defeat",
+      "url": "https://open.spotify.com/track/7xpfgUe2sxoBx7CFygbTPg"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232614,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/0yu9zBW2iUBUodH8Rad5Tz"
+    },
+    {
+      "album": {
+        "name": "deep fake",
+        "url": "https://open.spotify.com/album/4JwL8PccOelOQpqspai7uF"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 213871,
+      "name": "deep fake",
+      "url": "https://open.spotify.com/track/1I3EjtaIQz2zzDE1aeiUEz"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213871,
+      "name": "deep fake",
+      "url": "https://open.spotify.com/track/7mfMTQ21RSVhUw778ymlyV"
+    },
+    {
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-27",
+      "duration_ms": 186853,
+      "name": "Dethroned",
+      "url": "https://open.spotify.com/track/2XvLhlHXJID2ORTL4EBlsW"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 246866,
+      "name": "Devil's Island",
+      "url": "https://open.spotify.com/track/7E72zJebtIL3QHjXZOBk3d"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 226605,
+      "name": "Discourse Is Dead",
+      "url": "https://open.spotify.com/track/3XFqW9PbzMBy6wV06egJQ2"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261568,
+      "name": "doomscrolling",
+      "url": "https://open.spotify.com/track/12lkUbhW7B4dZ46xHoT9Sj"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248880,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244614,
+      "name": "Downfall",
+      "url": "https://open.spotify.com/track/00qcVGqRxXM74x98mB6VXy"
+    },
+    {
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Early Grave",
+      "url": "https://open.spotify.com/track/4soE6F9djLRl3OwQyKd3p2"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Even If You Win, You're Still A Rat",
+      "url": "https://open.spotify.com/track/1YSmJJ1RRy9pOGgZHwyvhW"
+    },
+    {
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 220626,
+      "name": "Follow the Water",
+      "url": "https://open.spotify.com/track/4rN2FZNAj7u9r2PqL8u2js"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212063,
+      "name": "Giving Blood",
+      "url": "https://open.spotify.com/track/5OVb8VkoO9ZYG64ngOPZpW"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/6w9PFIfsLZvzo09nfmqjxQ"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245299,
+      "name": "Gravedigger",
+      "url": "https://open.spotify.com/track/6n5njQ1hPrRVjBtlYNQtgu"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198097,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/2oawNCxcTGKXlCtO6qSbdg"
+    },
+    {
+      "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 217080,
+      "name": "Heartburn",
+      "url": "https://open.spotify.com/track/7zWpt2cSbTHyjTdWY805Vz"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255586,
+      "name": "Hereafter",
+      "url": "https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt"
+    },
+    {
+      "album": {
+        "name": "Hollow Crown",
+        "url": "https://open.spotify.com/album/168nXS5Ri1MIdQh9NIECnz"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264706,
+      "name": "Hollow Crown",
+      "url": "https://open.spotify.com/track/5XAfYEX55FPFf5j41BuyeX"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        },
+        {
+          "name": "Winston McCall",
+          "url": "https://open.spotify.com/artist/16LgHo2fMZqYvsoo6kcLrO"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242356,
+      "name": "Impermanence",
+      "url": "https://open.spotify.com/track/3p7qbTzPf4jKeEEwy765sI"
+    },
+    {
+      "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Learn to Live",
+      "url": "https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-17",
+      "duration_ms": 221406,
+      "name": "living is killing us",
+      "url": "https://open.spotify.com/track/1Ho5lI6FHNyG8H7UW5kSrs"
+    },
+    {
+      "album": {
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 219773,
+      "name": "Mortal After All",
+      "url": "https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205663,
+      "name": "Naysayer",
+      "url": "https://open.spotify.com/track/7l1aujAcBQWpG1nHKOxPGe"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "Nihilist",
+      "url": "https://open.spotify.com/track/0LnNkDzIGaYKCvGbe5N9Wo"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 246074,
+      "name": "Phantom Fear",
+      "url": "https://open.spotify.com/track/2sjunuOZ4pBcbiooyCafel"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241586,
+      "name": "Royal Beggars",
+      "url": "https://open.spotify.com/track/50xyeJL2Hs9FDgtI1ROeB0"
+    },
+    {
+      "album": {
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 212479,
+      "name": "spit the bone",
+      "url": "https://open.spotify.com/track/46xcK3IlceaiXFuzOaLysR"
+    },
+    {
+      "album": {
+        "name": "tear gas",
+        "url": "https://open.spotify.com/album/7asPDnAVvFjretbhS9kXaL"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/2PIMvIwLS16zr5EBYss3pF"
+    },
+    {
+      "album": {
+        "name": "tear gas",
+        "url": "https://open.spotify.com/album/0lYpKR15pdTLNQuBHXNx6L"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/5dmmNOi4QVrB6TbYDy2GCg"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257903,
+      "name": "tear gas",
+      "url": "https://open.spotify.com/track/7Igb2aGtzSlisOgXbjmdZW"
+    },
+    {
+      "album": {
+        "name": "All Our Gods Have Abandoned Us",
+        "url": "https://open.spotify.com/album/2NJMu78M8xVy2NAxicD1so"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-10",
+      "duration_ms": 251876,
+      "name": "The Empty Hourglass",
+      "url": "https://open.spotify.com/track/1pk4fwnB6PXa6GMlSrolzq"
+    },
+    {
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2023-04-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108666,
+      "name": "The Seventh Circle",
+      "url": "https://open.spotify.com/track/74qcviASlpWUM5g35HAV1S"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241386,
+      "name": "These Colours Don't Run",
+      "url": "https://open.spotify.com/track/564qvXssjJM1BkMm4FgPzA"
+    },
+    {
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
+    },
+    {
+      "album": {
+        "name": "the classic symptoms of a broken spirit",
+        "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/7DkN4oeXv2mqyPy0sJNrus"
+    },
+    {
+      "album": {
+        "name": "Lost Forever // Lost Together",
+        "url": "https://open.spotify.com/album/1j8JsxOsu9e0ChyFO5KOpc"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 263211,
+      "name": "Youth Is Wasted On The Young",
+      "url": "https://open.spotify.com/track/1tEV2ayPBqNLBkZxjLGRDE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kuq2c"
 }

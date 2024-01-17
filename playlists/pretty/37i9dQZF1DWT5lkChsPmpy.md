@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 
 > Lounge and chill out music for your workday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,790 likes - 184 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,719 likes - 184 songs - 8 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5lkChsPmpy.md) - [plain]
 | 183 | [Torches to the Sky](https://open.spotify.com/track/5aIpECieH9BYbLdUt6iJI4) | [Lighter Days](https://open.spotify.com/artist/2ruDLZUYhNG7PMwQWEt0Pn) | [Torches to the Sky](https://open.spotify.com/album/0lHKzPVZAFbn3LXmtmcp6C) | 3:21 |
 | 184 | [Joseph's Well](https://open.spotify.com/track/1qfKWLhAOL9PBvZ5wsOhsU) | [Orange Roundabout](https://open.spotify.com/artist/5MLibyV1Zt03HCKOvJCHnB) | [Joseph's Well](https://open.spotify.com/album/7EZfQDTuKmTGircFR8XA9A) | 2:07 |
 
-Snapshot ID: `MCwzOGYwNjVlYTRkYTIxNDFiOGM2Zjc3NDU5NzlhZDE4MjFjYWFiZjcy`
+Snapshot ID: `MCw4Y2EzNTQ2M2E5MGM0NzViMzhkYmMxOThlMGY4OTZmM2JlMjhmZmNl`

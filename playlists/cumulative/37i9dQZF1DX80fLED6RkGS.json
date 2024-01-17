@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo?si=KK_i9gmUTCK-JWroUPFJ6g\"> Uncojingjong</a> ",
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo?si=KK_i9gmUTCK-JWroUPFJ6g\"> Trio Mio</a> ",
   "name": "Gengetone Fire",
   "tracks": [
     {
@@ -470,6 +470,28 @@
       "duration_ms": 227683,
       "name": "Balance the Ball",
       "url": "https://open.spotify.com/track/6zFxozO5rO7cvSKipJLWTO"
+    },
+    {
+      "album": {
+        "name": "Balo Balo (Remix)",
+        "url": "https://open.spotify.com/album/5PBO7lOsrZsuaks2mVvRvV"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "Balo Balo - Remix",
+      "url": "https://open.spotify.com/track/5gY3Xk1qyDyORfbHCfS2GH"
     },
     {
       "album": {
@@ -1394,8 +1416,8 @@
           "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
         },
         {
-          "name": "Odi Wa Murang'a",
-          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
         }
       ],
       "date_added": "2023-05-26",
@@ -2180,7 +2202,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 187555,
       "name": "Hapo Tu",
       "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
@@ -3161,6 +3183,36 @@
     },
     {
       "album": {
+        "name": "Kuja Ivo",
+        "url": "https://open.spotify.com/album/6hLexLcCQzcYfT5qdpgTPF"
+      },
+      "artists": [
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        },
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "SEAN MMG",
+          "url": "https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167540,
+      "name": "Kuja Ivo",
+      "url": "https://open.spotify.com/track/3nh0ogd4RKZBYYP2plSKA7"
+    },
+    {
+      "album": {
         "name": "Kula kwa macho (Remix)",
         "url": "https://open.spotify.com/album/0gBvkRR15NgxpGKN3agdOX"
       },
@@ -3924,6 +3976,28 @@
       "duration_ms": 184427,
       "name": "Miondoko",
       "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
+    },
+    {
+      "album": {
+        "name": "Mishe Mishe",
+        "url": "https://open.spotify.com/album/1isTdiYXInBSxANK9MQbEi"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rayd",
+          "url": "https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x"
+        },
+        {
+          "name": "Juicekid Beats",
+          "url": "https://open.spotify.com/artist/2EA0HqonawtMg1hwEriVw7"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160052,
+      "name": "Mishe Mishe",
+      "url": "https://open.spotify.com/track/0NFk0fySmtmq3sGhb9kVcY"
     },
     {
       "album": {
@@ -6094,7 +6168,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206280,
       "name": "Sipangwingwi",
       "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
@@ -6172,7 +6246,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 224052,
       "name": "Sirudi Home - Remix",
       "url": "https://open.spotify.com/track/6gQ3DbL1b9QPPK5ju19meo"

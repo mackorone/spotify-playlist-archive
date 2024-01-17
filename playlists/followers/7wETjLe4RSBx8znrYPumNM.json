@@ -1,226 +1,543 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 1,
-  "2023-06-03": 1,
-  "2023-06-04": 1,
-  "2023-06-05": 1,
-  "2023-06-06": 1,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 1,
-  "2023-06-22": 1,
-  "2023-06-23": 1,
-  "2023-06-24": 1,
-  "2023-06-25": 1,
-  "2023-06-26": 1,
-  "2023-06-27": 1,
-  "2023-06-28": 1,
-  "2023-06-29": 1,
-  "2023-06-30": 1,
-  "2023-07-01": 1,
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "Star finder playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Their Satanic Majesties Request (50th Anniversary Special Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2SE7fs002NlNc3cw3SQLRC"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284893,
+      "name": "2000 Light Years From Home - Stereo / Remastered",
+      "url": "https://open.spotify.com/track/4EPtqZQeTpMTAzFey8wCIa"
+    },
+    {
+      "album": {
+        "name": "2112 (Remastered)",
+        "url": "https://open.spotify.com/album/3eBrvZnagmIDbdgse7cjI6"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1233666,
+      "name": "2112: Overture / The Temples Of Syrinx / Discovery / Presentation / Oracle / Soliloquy / Grand Finale - Medley",
+      "url": "https://open.spotify.com/track/2DMDV9kUEO2WjUHg5acHBY"
+    },
+    {
+      "album": {
+        "name": "Eat To The Beat",
+        "url": "https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280324,
+      "name": "Atomic",
+      "url": "https://open.spotify.com/track/5QIbR39hAEDIOkr4ggh4xc"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Robin Goldwasser",
+          "url": "https://open.spotify.com/artist/3hMMtIOxxEPNUUWVRbGEGG"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Electric Car",
+      "url": "https://open.spotify.com/track/0wGtYIrTodIcfv9P9ALsx3"
+    },
+    {
+      "album": {
+        "name": "Flash Gordon (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Flash - Single Version",
+      "url": "https://open.spotify.com/track/6tYYT8zNxkadSCujCdR6Ur"
+    },
+    {
+      "album": {
+        "name": "Flash Gordon (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209986,
+      "name": "Flash's Theme - Remastered 2011",
+      "url": "https://open.spotify.com/track/5JEOUFbvcqe06BOo229jgF"
+    },
+    {
+      "album": {
+        "name": "Miscellaneous T",
+        "url": "https://open.spotify.com/album/2DP7AuNv2nj91CaFiZQmd5"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79333,
+      "name": "For Science",
+      "url": "https://open.spotify.com/track/4KR88DmAgaSemzaw9SuGHw"
+    },
+    {
+      "album": {
+        "name": "Hitler Bad, Vandals Good",
+        "url": "https://open.spotify.com/album/1VDzkX1kHYOhlnHWQjqy05"
+      },
+      "artists": [
+        {
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142360,
+      "name": "If The Gov't Could Read My Mind",
+      "url": "https://open.spotify.com/track/19gml3SfxHr7ivYzmpVl2f"
+    },
+    {
+      "album": {
+        "name": "Maiden England '88",
+        "url": "https://open.spotify.com/album/1suB0DNwLFtJijqR7Z0w0j"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352986,
+      "name": "Infinite Dreams - Live at Birmingham NEC, 1988; 2013 Remaster",
+      "url": "https://open.spotify.com/track/5YJgcHKdli6r2N4uCpYTGz"
+    },
+    {
+      "album": {
+        "name": "Life By The Sea",
+        "url": "https://open.spotify.com/album/2A2PsySYwEwfHOsnVNnNjm"
+      },
+      "artists": [
+        {
+          "name": "Tubbo",
+          "url": "https://open.spotify.com/artist/4B1kkhDbhSyiS3VDgbKV2T"
+        },
+        {
+          "name": "CG5",
+          "url": "https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232103,
+      "name": "Life By The Sea",
+      "url": "https://open.spotify.com/track/1f466T8PHzdRdnWBwnvCB3"
+    },
+    {
+      "album": {
+        "name": "Hunky Dory (2015 Remaster)",
+        "url": "https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Life on Mars? - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N"
+    },
+    {
+      "album": {
+        "name": "Metropolis: The Chase Suite (Special Edition)",
+        "url": "https://open.spotify.com/album/3T3bJi3cvwR5U7ihwgEwF1"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327520,
+      "name": "Many Moons",
+      "url": "https://open.spotify.com/track/4WehxcnPTxouLdfQhqANb3"
+    },
+    {
+      "album": {
+        "name": "Album Raises New and Troubling Questions",
+        "url": "https://open.spotify.com/album/4XUeXfnDHzQMKvw6hERsPo"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        },
+        {
+          "name": "The Other Thing Brass Band",
+          "url": "https://open.spotify.com/artist/0qx9nQ54T74RtmjyI1dSuj"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127462,
+      "name": "Particle Man",
+      "url": "https://open.spotify.com/track/7KwOAPT3XciX449iCWyFvC"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Blondie",
+        "url": "https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299373,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6F2vo4sxRNQ58VYe3pdiaL"
+    },
+    {
+      "album": {
+        "name": "Human After All",
+        "url": "https://open.spotify.com/album/1A2GTWGtFfWp7KSQTwWOyo"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287720,
+      "name": "Robot Rock",
+      "url": "https://open.spotify.com/track/4zu9wo2FXoBSsKjO6tRB3R"
+    },
+    {
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "album": {
+        "name": "The Rocky Horror Picture Show - Original Soundtrack",
+        "url": "https://open.spotify.com/album/4QviryaneolcRmDB57SLco"
+      },
+      "artists": [
+        {
+          "name": "Richard O'Brien",
+          "url": "https://open.spotify.com/artist/0aIOdrjH5s3hJqxmKoAEUg"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272448,
+      "name": "Science Fiction/Double Feature",
+      "url": "https://open.spotify.com/track/7AUOZzM5P8UDuA0zga0PP8"
+    },
+    {
+      "album": {
+        "name": "David Bowie (aka Space Oddity) [2015 Remaster]",
+        "url": "https://open.spotify.com/album/1ay9Z4R5ZYI2TY7WiDhNYQ"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318026,
+      "name": "Space Oddity - 2015 Remaster",
+      "url": "https://open.spotify.com/track/72Z17vmmeQKAg8bptWvpVG"
+    },
+    {
+      "album": {
+        "name": "Tiny Cities",
+        "url": "https://open.spotify.com/album/3bVDZOD7EnPkxludwZUidT"
+      },
+      "artists": [
+        {
+          "name": "Sun Kil Moon",
+          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Space Travel Is Boring",
+      "url": "https://open.spotify.com/track/1HYZjQjNbBiEAsaNADRDDE"
+    },
+    {
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274440,
+      "name": "Space Truckin'",
+      "url": "https://open.spotify.com/track/44lAQJzaUI6hcpHEFqp2mJ"
+    },
+    {
+      "album": {
+        "name": "Day & Age (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284546,
+      "name": "Spaceman",
+      "url": "https://open.spotify.com/track/1A8SxnqRK3qabmuN2qxIpa"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137013,
+      "name": "The Ballad of Davy Crockett (in Outer Space)",
+      "url": "https://open.spotify.com/track/55EQ8G6yRRK23iPHRL6g7A"
+    },
+    {
+      "album": {
+        "name": "Look What I Almost Stepped In",
+        "url": "https://open.spotify.com/album/6MUhPzikV426mVeyrbu6uE"
+      },
+      "artists": [
+        {
+          "name": "The Vandals",
+          "url": "https://open.spotify.com/artist/4AqIRTZF6DDmKmdorgFug6"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161200,
+      "name": "The New You",
+      "url": "https://open.spotify.com/track/4hWNuoYhcE8JT4KeVNZIqQ"
+    },
+    {
+      "album": {
+        "name": "Transformers The Movie",
+        "url": "https://open.spotify.com/album/36bvweRYCs0VblEKXb247W"
+      },
+      "artists": [
+        {
+          "name": "Stan Bush",
+          "url": "https://open.spotify.com/artist/7qT1EPkli4RDJ2KNynkQyQ"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236560,
+      "name": "The Touch",
+      "url": "https://open.spotify.com/track/2QyGSbGdT9suKuDKwnjwH9"
+    },
+    {
+      "album": {
+        "name": "Piece of Mind (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448746,
+      "name": "To Tame a Land - 2015 Remaster",
+      "url": "https://open.spotify.com/track/22mdba4RMpvKS3s4jLJNAe"
+    },
+    {
+      "album": {
+        "name": "Foxtrot (2007 Stereo Mix)",
+        "url": "https://open.spotify.com/album/3y67YB3vSbaopIg1VoAO1n"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443365,
+      "name": "Watcher of the Skies - 2007 Stereo Mix",
+      "url": "https://open.spotify.com/track/0QtL2ONAn6cSamg6vzvGI7"
+    },
+    {
+      "album": {
+        "name": "Such Great Heights",
+        "url": "https://open.spotify.com/album/6VTLXgGbi8EDfYdPdoknnx"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "We Will Become Silhouettes",
+      "url": "https://open.spotify.com/track/4mMxWNZXlKSNWdQdQ1EuyD"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2021-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "Ziggy Stardust - 2012 Remaster",
+      "url": "https://open.spotify.com/track/5IyL3XOaRPpTgxVjRIAxXU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/7wETjLe4RSBx8znrYPumNM"
 }

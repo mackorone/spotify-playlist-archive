@@ -4,7 +4,7 @@
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-174 songs - 9 hr 5 min
+175 songs - 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,8 @@
 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1VlcOoddCauF3kbl5tljN3) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Let There Be Peace On Earth](https://open.spotify.com/album/6VYEg0G3aXwANUdI9knq1r) | 4:02 | 2021-12-16 |  |
 | [Here Comes Santa Claus \(Down Santa Claus Lane\) \(with Vocal Group\) \- 1947 Version](https://open.spotify.com/track/22naVVqr5Z4uN8wBWt23aO) | [Gene Autry](https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs), [Vocal Group](https://open.spotify.com/artist/7nRb5RZjixyKFRDx02NABD) | [A Gene Autry Christmas](https://open.spotify.com/album/4RdZmqTchsAssdH8HyJ4bO) | 2:29 | 2021-12-16 | 2022-11-18 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/4BOSE2easo41Q7nuvLm979) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas](https://open.spotify.com/album/3XGx6BABeDvmtVA4k0wfCl) | 3:21 | 2021-12-16 | 2022-07-29 |
-| [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2021-12-16 |  |
+| [Holly Jolly Christmas](https://open.spotify.com/track/59zlM1isufljV8wUPby0rq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Deluxe Edition\)](https://open.spotify.com/album/5CyxV60eTfhgaVstkKxqVV) | 3:21 | 2021-12-16 | 2024-01-04 |
+| [Holly Jolly Christmas](https://open.spotify.com/track/5j2TuSC9kXrf4M0vzoqDMW) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Ultimate Deluxe Edition\)](https://open.spotify.com/album/0UKCFUDo5hCdAB4b6tPqQe) | 3:21 | 2023-11-24 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/7Lm2SpRFSiBUnojsvJUWuf) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [A Holly Dolly Christmas \(Bonus Version\)](https://open.spotify.com/album/1TTRKFwM6ccmHdEpt37L7Z) | 3:21 | 2022-11-04 | 2022-11-13 |
 | [Holly Jolly Christmas](https://open.spotify.com/track/4XWxLiqYW3Q78OuK5nvJRo) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Joy to the World!](https://open.spotify.com/album/1ufWN12kJj7YQR1PAfE4YB) | 2:18 | 2021-12-16 |  |
 | [Holly Jolly Christmas](https://open.spotify.com/track/2sZkqb7HSlNCu5DgIbrKNV) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Christmas with Scotty McCreery](https://open.spotify.com/album/7xY3dwj2terBE72lfMF0U6) | 2:28 | 2021-12-16 | 2022-12-10 |

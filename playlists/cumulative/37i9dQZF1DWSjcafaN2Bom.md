@@ -4,7 +4,7 @@
 
 > Finish together\. Listen to the official playlist for Sex Education, now streaming on Netflix.
 
-363 songs - 22 hr 36 min
+364 songs - 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,8 +229,9 @@
 | [Morning Train \(Nine to Five\)](https://open.spotify.com/track/6CEKntwndUlmWhSRflWA5X) | [Sheena Easton](https://open.spotify.com/artist/5dcOK4stT4JDkP6Dqhbz5s) | [Greatest Hits](https://open.spotify.com/album/7oYG4SA51T8d3QAMpImZ7G) | 3:20 | 2021-10-26 |  |
 | [My First Kiss \(feat\. Ke$ha\)](https://open.spotify.com/track/17tDv8WA8IhqE8qzuQn707) | [3OH!3](https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Streets Of Gold](https://open.spotify.com/album/1W9toxqtPfieKk6cft0f7R) | 3:12 | 2021-10-26 |  |
 | [My Zero](https://open.spotify.com/track/7c391oxUbYSvwfIfpWc32l) | [Ezra Furman](https://open.spotify.com/artist/1uR7zoLrSRI8bSL43OZ0GY) | [Day Of The Dog](https://open.spotify.com/album/11fA3GE9y2Qi0i8OfLv4AP) | 3:55 | 2023-08-22 |  |
+| [Mysterious Girl](https://open.spotify.com/track/0Uv7XAvLM1WH3evBVEDg2V) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90s](https://open.spotify.com/album/7y9vSSW4iCud59Lb4fmzlb) | 3:36 | 2023-09-25 |  |
 | [Mysterious Girl](https://open.spotify.com/track/6NLJlusvVnw31IYwU6mDPr) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [Timeless Songs](https://open.spotify.com/album/4FOVqYCDh143soz01EjTqr) | 3:36 | 2023-09-21 | 2023-11-01 |
-| [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 | 2023-09-25 |  |
+| [Mysterious Girl \- Radio Edit](https://open.spotify.com/track/6Y3lJ2VwukbHOH9zCDi6zj) | [Peter Andre](https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S) | [90\-tal](https://open.spotify.com/album/0yjliARBQfcAQkVqq46sS8) | 3:38 | 2023-09-25 | 2024-01-11 |
 | [Mysterious Power](https://open.spotify.com/track/3O1TxpDQzLKu8S0uMAEkkC) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Mysterious Power](https://open.spotify.com/album/2UxFvYFHXR1mKurBo95GmH) | 3:08 | 2023-08-22 |  |
 | [Mysterious Power](https://open.spotify.com/track/3sBRhgrhGeT39oBWvuHHnF) | [Ezra Furman & The Harpoons](https://open.spotify.com/artist/6mMA3DehwLwdvO6YlwUFHk) | [Sex Education: Songs from Season 3](https://open.spotify.com/album/5CGSdovQvDlAaaD7xqpGX7) | 3:08 | 2023-08-22 |  |
 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 | 2023-08-22 |  |

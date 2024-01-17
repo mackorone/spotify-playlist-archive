@@ -4,7 +4,7 @@
 
 > Enjoy music from Anime "Frieren"\. アニメ「葬送のフリーレン」プレイリスト。Enjoy Frieren Music\. ©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会
 
-26 songs - 1 hr 3 min
+27 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,5 +34,6 @@
 | [Zoltraak](https://open.spotify.com/track/3IQfe1CaR2vuk3CJwjTDCz) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [TVアニメ『葬送のフリーレン』Original Soundtrack〜Pre\-release〜](https://open.spotify.com/album/4jqriXCBaXfrJomQAwCCJa) | 2:20 | 2023-12-21 | 2023-12-23 |
 | [Zoltraak](https://open.spotify.com/track/5v3cE1JozTgYP4sdaDygDE) | [Evan Call](https://open.spotify.com/artist/0nMGbTpPx4b3h5fMG9CpWJ) | [Frieren: Beyond Journey's End \- Original Series Soundtrack EP](https://open.spotify.com/album/1uHhpd4ep36y3qtaIcL1sW) | 2:20 | 2023-12-21 |  |
 | [勇者](https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 3](https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl) | 3:14 | 2023-12-21 |  |
+| [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 | 2024-01-04 |  |
 
 \*This playlist was first scraped on 2023-12-22. Prior content cannot be recovered.

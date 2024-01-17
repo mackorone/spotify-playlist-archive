@@ -1,553 +1,759 @@
 {
-  "2022-06-26": 1197,
-  "2022-06-27": 1358,
-  "2022-06-28": 1529,
-  "2022-06-29": 1730,
-  "2022-06-30": 1908,
-  "2022-07-01": 2125,
-  "2022-07-02": 2331,
-  "2022-07-03": 2510,
-  "2022-07-04": 2689,
-  "2022-07-05": 2860,
-  "2022-07-06": 3030,
-  "2022-07-07": 3230,
-  "2022-07-08": 3445,
-  "2022-07-09": 3618,
-  "2022-07-10": 3831,
-  "2022-07-11": 4017,
-  "2022-07-12": 4151,
-  "2022-07-13": 4297,
-  "2022-07-14": 4451,
-  "2022-07-15": 4641,
-  "2022-07-16": 4818,
-  "2022-07-17": 5008,
-  "2022-07-18": 5186,
-  "2022-07-19": 5370,
-  "2022-07-20": 5544,
-  "2022-07-21": 5707,
-  "2022-07-22": 5866,
-  "2022-07-23": 6057,
-  "2022-07-24": 6230,
-  "2022-07-25": 6383,
-  "2022-07-26": 6533,
-  "2022-07-27": 6703,
-  "2022-07-28": 6831,
-  "2022-07-29": 6971,
-  "2022-07-30": 7283,
-  "2022-07-31": 7283,
-  "2022-08-01": 7428,
-  "2022-08-02": 7705,
-  "2022-08-03": 7705,
-  "2022-08-04": 7832,
-  "2022-08-05": 7978,
-  "2022-08-06": 8132,
-  "2022-08-07": 8294,
-  "2022-08-08": 8459,
-  "2022-08-09": 8605,
-  "2022-08-10": 8722,
-  "2022-08-11": 8835,
-  "2022-08-12": 8963,
-  "2022-08-13": 9096,
-  "2022-08-14": 9244,
-  "2022-08-15": 9408,
-  "2022-08-16": 9549,
-  "2022-08-17": 9683,
-  "2022-08-18": 9795,
-  "2022-08-19": 9915,
-  "2022-08-20": 10032,
-  "2022-08-21": 10173,
-  "2022-08-22": 10280,
-  "2022-08-23": 10384,
-  "2022-08-24": 10490,
-  "2022-08-25": 10589,
-  "2022-08-26": 10709,
-  "2022-08-27": 10825,
-  "2022-08-28": 10969,
-  "2022-08-29": 11067,
-  "2022-08-30": 11176,
-  "2022-08-31": 11270,
-  "2022-09-01": 11359,
-  "2022-09-02": 11454,
-  "2022-09-03": 11567,
-  "2022-09-04": 11680,
-  "2022-09-05": 11814,
-  "2022-09-06": 11919,
-  "2022-09-07": 12016,
-  "2022-09-09": 12186,
-  "2022-09-10": 12287,
-  "2022-09-11": 12408,
-  "2022-09-12": 12525,
-  "2022-09-13": 12579,
-  "2022-09-15": 12730,
-  "2022-09-16": 12827,
-  "2022-09-17": 12924,
-  "2022-09-18": 13067,
-  "2022-09-19": 13150,
-  "2022-09-20": 13213,
-  "2022-09-21": 13293,
-  "2022-09-22": 13367,
-  "2022-09-23": 13452,
-  "2022-09-24": 13548,
-  "2022-09-25": 13666,
-  "2022-09-26": 13759,
-  "2022-09-27": 13834,
-  "2022-09-28": 13892,
-  "2022-09-29": 13974,
-  "2022-09-30": 14056,
-  "2022-10-01": 14144,
-  "2022-10-02": 14218,
-  "2022-10-03": 14328,
-  "2022-10-04": 14400,
-  "2022-10-05": 14475,
-  "2022-10-06": 14553,
-  "2022-10-07": 14640,
-  "2022-10-08": 14717,
-  "2022-10-09": 14879,
-  "2022-10-10": 14897,
-  "2022-10-11": 14977,
-  "2022-10-12": 15031,
-  "2022-10-13": 15083,
-  "2022-10-14": 15159,
-  "2022-10-15": 15245,
-  "2022-10-16": 15327,
-  "2022-10-17": 15427,
-  "2022-10-18": 15474,
-  "2022-10-19": 15521,
-  "2022-10-20": 15594,
-  "2022-10-21": 15670,
-  "2022-10-22": 15735,
-  "2022-10-23": 15818,
-  "2022-10-24": 15867,
-  "2022-10-25": 15931,
-  "2022-10-26": 15985,
-  "2022-10-27": 16035,
-  "2022-10-28": 16103,
-  "2022-10-29": 16161,
-  "2022-10-30": 16241,
-  "2022-10-31": 16302,
-  "2022-11-01": 16352,
-  "2022-11-02": 16417,
-  "2022-11-03": 16459,
-  "2022-11-04": 16519,
-  "2022-11-05": 16593,
-  "2022-11-06": 16683,
-  "2022-11-07": 16751,
-  "2022-11-08": 16811,
-  "2022-11-09": 16870,
-  "2022-11-10": 16926,
-  "2022-11-11": 16981,
-  "2022-11-12": 17045,
-  "2022-11-13": 17128,
-  "2022-11-14": 17198,
-  "2022-11-15": 17258,
-  "2022-11-16": 17315,
-  "2022-11-17": 17363,
-  "2022-11-18": 17376,
-  "2022-11-19": 17383,
-  "2022-11-20": 17432,
-  "2022-11-21": 17521,
-  "2022-11-22": 17597,
-  "2022-11-23": 17660,
-  "2022-11-24": 17767,
-  "2022-11-25": 17834,
-  "2022-11-26": 17907,
-  "2022-11-27": 17978,
-  "2022-11-28": 18037,
-  "2022-11-29": 18073,
-  "2022-11-30": 18124,
-  "2022-12-01": 18168,
-  "2022-12-02": 18205,
-  "2022-12-03": 18269,
-  "2022-12-04": 18348,
-  "2022-12-05": 18416,
-  "2022-12-06": 18454,
-  "2022-12-07": 18501,
-  "2022-12-08": 18553,
-  "2022-12-09": 18616,
-  "2022-12-10": 18664,
-  "2022-12-11": 18732,
-  "2022-12-12": 18784,
-  "2022-12-13": 18825,
-  "2022-12-14": 18858,
-  "2022-12-15": 18901,
-  "2022-12-16": 18934,
-  "2022-12-17": 18969,
-  "2022-12-18": 19031,
-  "2022-12-19": 19080,
-  "2022-12-20": 19160,
-  "2022-12-21": 19160,
-  "2022-12-22": 19212,
-  "2022-12-24": 19298,
-  "2022-12-25": 19351,
-  "2022-12-26": 19396,
-  "2022-12-27": 19451,
-  "2022-12-28": 19484,
-  "2022-12-29": 19534,
-  "2022-12-30": 19573,
-  "2022-12-31": 19627,
-  "2023-01-01": 19684,
-  "2023-01-02": 19746,
-  "2023-01-03": 19794,
-  "2023-01-04": 19840,
-  "2023-01-05": 19896,
-  "2023-01-06": 19966,
-  "2023-01-07": 20059,
-  "2023-01-08": 20066,
-  "2023-01-09": 20115,
-  "2023-01-10": 20149,
-  "2023-01-11": 20189,
-  "2023-01-12": 20229,
-  "2023-01-13": 20273,
-  "2023-01-14": 20391,
-  "2023-01-15": 20407,
-  "2023-01-16": 20486,
-  "2023-01-17": 20538,
-  "2023-01-18": 20588,
-  "2023-01-19": 20627,
-  "2023-01-20": 20677,
-  "2023-01-21": 20749,
-  "2023-01-22": 20814,
-  "2023-01-23": 20874,
-  "2023-01-24": 20948,
-  "2023-01-25": 20997,
-  "2023-01-26": 21052,
-  "2023-01-27": 21110,
-  "2023-01-28": 21162,
-  "2023-01-29": 21237,
-  "2023-01-30": 21283,
-  "2023-01-31": 21283,
-  "2023-02-01": 21369,
-  "2023-02-02": 21411,
-  "2023-02-03": 21456,
-  "2023-02-04": 21519,
-  "2023-02-05": 21579,
-  "2023-02-06": 21644,
-  "2023-02-07": 21678,
-  "2023-02-08": 21776,
-  "2023-02-09": 21776,
-  "2023-02-10": 21828,
-  "2023-02-11": 21866,
-  "2023-02-12": 21979,
-  "2023-02-13": 22033,
-  "2023-02-14": 22033,
-  "2023-02-15": 22077,
-  "2023-02-16": 22110,
-  "2023-02-17": 22145,
-  "2023-02-18": 22234,
-  "2023-02-19": 22239,
-  "2023-02-20": 22287,
-  "2023-02-21": 22320,
-  "2023-02-22": 22376,
-  "2023-02-23": 22407,
-  "2023-02-24": 22451,
-  "2023-02-25": 22533,
-  "2023-02-26": 22565,
-  "2023-02-27": 22671,
-  "2023-02-28": 22671,
-  "2023-03-01": 22715,
-  "2023-03-02": 22764,
-  "2023-03-03": 22806,
-  "2023-03-04": 22851,
-  "2023-03-05": 22965,
-  "2023-03-06": 22965,
-  "2023-03-07": 23006,
-  "2023-03-08": 23053,
-  "2023-03-09": 23096,
-  "2023-03-10": 23152,
-  "2023-03-11": 23177,
-  "2023-03-12": 23236,
-  "2023-03-13": 23291,
-  "2023-03-14": 23325,
-  "2023-03-15": 23358,
-  "2023-03-16": 23407,
-  "2023-03-17": 23407,
-  "2023-03-18": 23500,
-  "2023-03-19": 23566,
-  "2023-03-20": 23618,
-  "2023-03-21": 23658,
-  "2023-03-22": 23695,
-  "2023-03-23": 23726,
-  "2023-03-24": 23726,
-  "2023-03-25": 23805,
-  "2023-03-26": 23836,
-  "2023-03-27": 23875,
-  "2023-03-28": 23895,
-  "2023-03-29": 23902,
-  "2023-03-30": 23954,
-  "2023-03-31": 23954,
-  "2023-04-01": 23976,
-  "2023-04-02": 24009,
-  "2023-04-03": 24039,
-  "2023-04-04": 24050,
-  "2023-04-05": 24082,
-  "2023-04-06": 24098,
-  "2023-04-07": 24121,
-  "2023-04-09": 24166,
-  "2023-04-10": 24185,
-  "2023-04-11": 24222,
-  "2023-04-12": 24222,
-  "2023-04-13": 24240,
-  "2023-04-14": 24261,
-  "2023-04-15": 24271,
-  "2023-04-16": 24296,
-  "2023-04-17": 24317,
-  "2023-04-18": 24324,
-  "2023-04-19": 24341,
-  "2023-04-20": 24350,
-  "2023-04-21": 24367,
-  "2023-04-22": 24383,
-  "2023-04-23": 24405,
-  "2023-04-24": 24431,
-  "2023-04-25": 24450,
-  "2023-04-26": 24470,
-  "2023-04-27": 24480,
-  "2023-04-28": 24497,
-  "2023-04-29": 24520,
-  "2023-04-30": 24552,
-  "2023-05-01": 24578,
-  "2023-05-02": 24599,
-  "2023-05-03": 24619,
-  "2023-05-04": 24635,
-  "2023-05-05": 24652,
-  "2023-05-06": 24667,
-  "2023-05-07": 24671,
-  "2023-05-08": 24704,
-  "2023-05-09": 24719,
-  "2023-05-10": 24740,
-  "2023-05-11": 24753,
-  "2023-05-12": 24776,
-  "2023-05-13": 24795,
-  "2023-05-14": 24815,
-  "2023-05-15": 24832,
-  "2023-05-16": 24841,
-  "2023-05-17": 24856,
-  "2023-05-18": 24873,
-  "2023-05-19": 24884,
-  "2023-05-20": 24910,
-  "2023-05-21": 24910,
-  "2023-05-22": 24910,
-  "2023-05-23": 24942,
-  "2023-05-24": 24957,
-  "2023-05-25": 24961,
-  "2023-05-26": 24969,
-  "2023-05-27": 24983,
-  "2023-05-28": 24996,
-  "2023-05-29": 24996,
-  "2023-05-30": 25023,
-  "2023-05-31": 25028,
-  "2023-06-01": 25039,
-  "2023-06-02": 25052,
-  "2023-06-03": 25063,
-  "2023-06-04": 25083,
-  "2023-06-05": 25098,
-  "2023-06-06": 25114,
-  "2023-06-07": 25132,
-  "2023-06-08": 25138,
-  "2023-06-09": 25162,
-  "2023-06-10": 25174,
-  "2023-06-11": 25179,
-  "2023-06-12": 25191,
-  "2023-06-13": 25199,
-  "2023-06-14": 25211,
-  "2023-06-15": 25224,
-  "2023-06-16": 25232,
-  "2023-06-17": 25249,
-  "2023-06-18": 25250,
-  "2023-06-19": 25260,
-  "2023-06-20": 25263,
-  "2023-06-21": 25267,
-  "2023-06-22": 25269,
-  "2023-06-23": 25275,
-  "2023-06-24": 25275,
-  "2023-06-25": 25286,
-  "2023-06-26": 25301,
-  "2023-06-27": 25306,
-  "2023-06-28": 25317,
-  "2023-06-29": 25317,
-  "2023-06-30": 25327,
-  "2023-07-01": 25350,
-  "2023-07-02": 25350,
-  "2023-07-03": 25360,
-  "2023-07-04": 25366,
-  "2023-07-05": 25372,
-  "2023-07-06": 25374,
-  "2023-07-07": 25374,
-  "2023-07-08": 25381,
-  "2023-07-09": 25394,
-  "2023-07-10": 25403,
-  "2023-07-11": 25407,
-  "2023-07-12": 25417,
-  "2023-07-13": 25415,
-  "2023-07-14": 25418,
-  "2023-07-15": 25425,
-  "2023-07-16": 25436,
-  "2023-07-17": 25444,
-  "2023-07-18": 25460,
-  "2023-07-19": 25468,
-  "2023-07-20": 25473,
-  "2023-07-21": 25482,
-  "2023-07-22": 25491,
-  "2023-07-23": 25501,
-  "2023-07-24": 25510,
-  "2023-07-25": 25514,
-  "2023-07-26": 25520,
-  "2023-07-27": 25534,
-  "2023-07-28": 25544,
-  "2023-07-29": 25557,
-  "2023-07-30": 25562,
-  "2023-07-31": 25569,
-  "2023-08-01": 25570,
-  "2023-08-02": 25578,
-  "2023-08-03": 25577,
-  "2023-08-04": 25581,
-  "2023-08-05": 25591,
-  "2023-08-06": 25616,
-  "2023-08-07": 25616,
-  "2023-08-08": 25636,
-  "2023-08-09": 25643,
-  "2023-08-10": 25654,
-  "2023-08-11": 25674,
-  "2023-08-12": 25686,
-  "2023-08-13": 25709,
-  "2023-08-14": 25727,
-  "2023-08-15": 25745,
-  "2023-08-16": 25745,
-  "2023-08-17": 25756,
-  "2023-08-18": 25767,
-  "2023-08-19": 25780,
-  "2023-08-20": 25784,
-  "2023-08-21": 25800,
-  "2023-08-22": 25813,
-  "2023-08-23": 25827,
-  "2023-08-24": 25833,
-  "2023-08-25": 25843,
-  "2023-08-26": 25845,
-  "2023-08-27": 25861,
-  "2023-08-28": 25880,
-  "2023-08-29": 25888,
-  "2023-08-30": 25898,
-  "2023-08-31": 25910,
-  "2023-09-01": 25929,
-  "2023-09-02": 25929,
-  "2023-09-03": 25935,
-  "2023-09-04": 25935,
-  "2023-09-05": 25957,
-  "2023-09-06": 25962,
-  "2023-09-07": 25962,
-  "2023-09-08": 25962,
-  "2023-09-09": 25978,
-  "2023-09-10": 25981,
-  "2023-09-11": 25988,
-  "2023-09-12": 25988,
-  "2023-09-13": 25994,
-  "2023-09-14": 25994,
-  "2023-09-15": 26001,
-  "2023-09-16": 26011,
-  "2023-09-17": 26011,
-  "2023-09-18": 26011,
-  "2023-09-19": 26026,
-  "2023-09-20": 26038,
-  "2023-09-21": 26046,
-  "2023-09-22": 26054,
-  "2023-09-23": 26054,
-  "2023-09-24": 26054,
-  "2023-09-25": 26054,
-  "2023-09-26": 26087,
-  "2023-09-27": 26087,
-  "2023-09-28": 26091,
-  "2023-09-29": 26090,
-  "2023-09-30": 26090,
-  "2023-10-01": 26108,
-  "2023-10-02": 26110,
-  "2023-10-03": 26111,
-  "2023-10-04": 26118,
-  "2023-10-05": 26115,
-  "2023-10-06": 26115,
-  "2023-10-07": 26115,
-  "2023-10-08": 26119,
-  "2023-10-09": 26119,
-  "2023-10-10": 26119,
-  "2023-10-11": 26114,
-  "2023-10-12": 26114,
-  "2023-10-13": 26125,
-  "2023-10-14": 26125,
-  "2023-10-15": 26125,
-  "2023-10-16": 26125,
-  "2023-10-17": 26125,
-  "2023-10-18": 26125,
-  "2023-10-19": 26125,
-  "2023-10-20": 26125,
-  "2023-10-21": 26125,
-  "2023-10-22": 26125,
-  "2023-10-23": 26125,
-  "2023-10-24": 26125,
-  "2023-10-25": 26125,
-  "2023-10-26": 26125,
-  "2023-10-27": 26125,
-  "2023-10-28": 26125,
-  "2023-10-29": 26125,
-  "2023-10-30": 26125,
-  "2023-10-31": 26125,
-  "2023-11-01": 26125,
-  "2023-11-02": 26125,
-  "2023-11-03": 26125,
-  "2023-11-04": 26125,
-  "2023-11-05": 26125,
-  "2023-11-06": 26125,
-  "2023-11-07": 26125,
-  "2023-11-08": 26125,
-  "2023-11-09": 26125,
-  "2023-11-10": 26125,
-  "2023-11-11": 26218,
-  "2023-11-12": 26218,
-  "2023-11-13": 26218,
-  "2023-11-14": 26218,
-  "2023-11-15": 26218,
-  "2023-11-16": 26218,
-  "2023-11-17": 26238,
-  "2023-11-18": 26238,
-  "2023-11-19": 26238,
-  "2023-11-20": 26238,
-  "2023-11-21": 26238,
-  "2023-11-22": 26238,
-  "2023-11-23": 26240,
-  "2023-11-24": 26240,
-  "2023-11-25": 26240,
-  "2023-11-26": 26240,
-  "2023-11-27": 26240,
-  "2023-11-28": 26240,
-  "2023-11-29": 26240,
-  "2023-11-30": 26240,
-  "2023-12-01": 26240,
-  "2023-12-02": 26240,
-  "2023-12-03": 26240,
-  "2023-12-04": 26240,
-  "2023-12-05": 26240,
-  "2023-12-06": 26240,
-  "2023-12-07": 26240,
-  "2023-12-08": 26240,
-  "2023-12-09": 26240,
-  "2023-12-10": 26240,
-  "2023-12-11": 26231,
-  "2023-12-12": 26231,
-  "2023-12-13": 26231,
-  "2023-12-14": 26234,
-  "2023-12-15": 26235,
-  "2023-12-16": 26232,
-  "2023-12-17": 26234,
-  "2023-12-18": 26234,
-  "2023-12-19": 26233,
-  "2023-12-20": 26236,
-  "2023-12-21": 26235,
-  "2023-12-22": 26239,
-  "2023-12-23": 26241,
-  "2023-12-24": 26241,
-  "2023-12-25": 26243,
-  "2023-12-26": 26240,
-  "2023-12-27": 26241,
-  "2023-12-30": 26239,
-  "2023-12-31": 26235,
-  "2024-01-01": 26240,
-  "2024-01-02": 26243,
-  "2024-01-03": 26237
+  "2024-01-17": 26275,
+  "date_first_scraped": "2022-06-26",
+  "description": "Listen to all of the music from the Minions and Despicable Me movies!",
+  "name": "Minions Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 39065,
+      "name": "Another Irish Drinking Song",
+      "url": "https://open.spotify.com/track/3GHmmhBOxInPfIJ58JFX6C"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 13886,
+      "name": "Ba Do Bleep",
+      "url": "https://open.spotify.com/track/4BL4UfHwtUptYscPcNFQQJ"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2xyqCXLirxQrARCU7wCIKe"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138806,
+      "name": "Bang Bang - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0FxfaDH6ruPoKfIgpjY68b"
+    },
+    {
+      "album": {
+        "name": "Bang Bang (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/1wPUjmvjbAMXf8vc5kkWrG"
+      },
+      "artists": [
+        {
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138806,
+      "name": "Bang Bang - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/4mJ7DPXsKLuQ7o71Vfe4O5"
+    },
+    {
+      "album": {
+        "name": "Black Magic Woman (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3JAjdEVXggoXUSExBBFBnY"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249595,
+      "name": "Black Magic Woman - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/1APa50Daw6xc3mgNWLA6BS"
+    },
+    {
+      "album": {
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249595,
+      "name": "Black Magic Woman - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/1tOaLXw4uhsuW2IesqDzSV"
+    },
+    {
+      "album": {
+        "name": "Born To Be Alive (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/04Qwy7yFfUd6o9prhAFCU3"
+      },
+      "artists": [
+        {
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Born To Be Alive - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/3xfa9a3Qir4ybQRbvHBVLH"
+    },
+    {
+      "album": {
+        "name": "Cecilia (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6dU01tufEQ3jaRbfdkY1MZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134057,
+      "name": "Cecilia - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/4I4RiYWFY4z0XenFVcqXag"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195680,
+      "name": "Chuck Berry",
+      "url": "https://open.spotify.com/track/6YKsrLIfXGhOzDKVyb0VNL"
+    },
+    {
+      "album": {
+        "name": "Dance To The Music (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/1dAzt59wZ2lkkJNgecsO1a"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163529,
+      "name": "Dance To The Music - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/5PB5GPADqc74DvB6vxhD3I"
+    },
+    {
+      "album": {
+        "name": "Desafinado (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130955,
+      "name": "Desafinado - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM"
+    },
+    {
+      "album": {
+        "name": "Despicable Me",
+        "url": "https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252973,
+      "name": "Despicable Me",
+      "url": "https://open.spotify.com/track/2EOMe4XAS7U6UA1mhDs9tP"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242120,
+      "name": "Doowit",
+      "url": "https://open.spotify.com/track/5kEtqjB0rxTT1oEYGkD0Po"
+    },
+    {
+      "album": {
+        "name": "Fly Like an Eagle (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2FRv54YdknVaD2A2B3reLU"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178309,
+      "name": "Fly Like An Eagle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3Aw8a13WJi24hkjRRtMp9n"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/6RB9YvNyP0RZfCUcMtZELH"
+    },
+    {
+      "album": {
+        "name": "Despicable Me",
+        "url": "https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205960,
+      "name": "Fun, Fun, Fun - From \"Despicable Me\"",
+      "url": "https://open.spotify.com/track/0APR73JawLr7KKImPsPUsR"
+    },
+    {
+      "album": {
+        "name": "Funkytown (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6OxOGNWMW6OVc9u5K2cOrb"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263659,
+      "name": "Funkytown - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/7p7kNdvLaNeW52PlsnYLF1"
+    },
+    {
+      "album": {
+        "name": "Minions (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54601,
+      "name": "Hair",
+      "url": "https://open.spotify.com/track/0ufMgyci5BJrFzZFxFjCuA"
+    },
+    {
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
+        "name": "Hollywood Swinging (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6pM1qrdxcRoGS6iVGBDH77"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150472,
+      "name": "Hollywood Swinging - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/3NN340gakfJdhCVbTvJh9g"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Trey Parker",
+          "url": "https://open.spotify.com/artist/0NnoRcD3WkqC9aouHyE8YY"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/6eVM9lCmIqwGTUOoeH61Lu"
+    },
+    {
+      "album": {
+        "name": "Instant Karma (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6nOibfJZ3ZVI3LbFREQ7AQ"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221878,
+      "name": "Instant Karma! - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Uq4zJJbqIOveeRt6zecgw"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176078,
+      "name": "Just a Cloud Away",
+      "url": "https://open.spotify.com/track/4UPQiDmYScn2C6S2C2WATY"
+    },
+    {
+      "album": {
+        "name": "Kung Fu Suite (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3Z4O9z29ikbbKkToDNByIO"
+      },
+      "artists": [
+        {
+          "name": "RZA",
+          "url": "https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92227,
+      "name": "Kung Fu Suite - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/54bzmzTCRJjStJ7t3Rm6b9"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37626,
+      "name": "Malatikalano Polatina",
+      "url": "https://open.spotify.com/track/7sYsXW1nvtrLpsTs7YAZ2n"
+    },
+    {
+      "album": {
+        "name": "Minions: The Rise of Gru Score Suite (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/6rehimSKuEx4c2JCRyivSI"
+      },
+      "artists": [
+        {
+          "name": "Heitor Pereira",
+          "url": "https://open.spotify.com/artist/2RaHCHhZWBXn460JpMaicz"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230797,
+      "name": "Minions: The Rise of Gru Score Suite - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/1wtXJyAZjEQAApvfP7ACOQ"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89480,
+      "name": "Papa Mama Loca Pipa",
+      "url": "https://open.spotify.com/track/1WbZ7ZmDVARABHF2isuWF7"
+    },
+    {
+      "album": {
+        "name": "Despicable Me",
+        "url": "https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199506,
+      "name": "Prettiest Girls",
+      "url": "https://open.spotify.com/track/5WeYv1tloNxFI59B77iRlC"
+    },
+    {
+      "album": {
+        "name": "Minions (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142236,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/0ndkzkEd6LHSndLmRsEziR"
+    },
+    {
+      "album": {
+        "name": "Shining Star (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/3lSQ4O8nvG0NT8q962HP2A"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        },
+        {
+          "name": "Verdine White",
+          "url": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172505,
+      "name": "Shining Star - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/6Lp3RzF26KEHtRKEsAIoiw"
+    },
+    {
+      "album": {
+        "name": "Despicable Me",
+        "url": "https://open.spotify.com/album/0FcxFAcd4gP2kzHrQ95e1m"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/2RgQeO9accs4W4KVcq0Skm"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128320,
+      "name": "The Unicorn Song - From The Despicable Me Soundtrack",
+      "url": "https://open.spotify.com/track/0rsbxP7iy8QJZSEU9lbU2Y"
+    },
+    {
+      "album": {
+        "name": "Minions (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29751,
+      "name": "Theme from the Monkees",
+      "url": "https://open.spotify.com/track/5K0tGDDb6F5YFoywrHXOlf"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224506,
+      "name": "There's Something Special - Despicable Me 3 Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3rRA4vw4tQWygQHM7GUbbu"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73773,
+      "name": "Tiki Tiki Babeloo",
+      "url": "https://open.spotify.com/track/3dgfi5YrSygf97UVhLtH4s"
+    },
+    {
+      "album": {
+        "name": "Turn Up The Sunshine (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229610,
+      "name": "Turn Up The Sunshine - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM"
+    },
+    {
+      "album": {
+        "name": "Minions (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5AUaqhd50uf80bWumH9HFr"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32417,
+      "name": "Universal Fanfare",
+      "url": "https://open.spotify.com/track/1OrSkn4lXO1cD1NaR7v2IG"
+    },
+    {
+      "album": {
+        "name": "Minions: The Rise Of Gru (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Kc0f1PCbWZLOmZNOyXYGN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/0Dlp5ZdDKylTKVJE3ejoJD"
+    },
+    {
+      "album": {
+        "name": "Vehicle (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/1kGXvzn5iUfVOUl1jNyNeh"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175086,
+      "name": "Vehicle - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/6sBErahr0v0QRvwboz1oSl"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+      },
+      "artists": [
+        {
+          "name": "The Minions",
+          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175291,
+      "name": "Y.M.C.A.",
+      "url": "https://open.spotify.com/track/45WZ2N9hK3b7KhOECCUGkh"
+    },
+    {
+      "album": {
+        "name": "Despicable Me 3 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kFJhsN8drSfWwL493qK0c"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217226,
+      "name": "Yellow Light - Despicable Me 3 Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/3ShUt434h9mfW3hpT3Vqz4"
+    },
+    {
+      "album": {
+        "name": "You're No Good (From 'Minions: The Rise of Gru' Soundtrack)",
+        "url": "https://open.spotify.com/album/2jtS6nClybdLMxomuy8je9"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216981,
+      "name": "You're No Good - From 'Minions: The Rise of Gru' Soundtrack",
+      "url": "https://open.spotify.com/track/4w6JAPKhKqBZJfjn2DjCeZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdTBzNcDowKf"
 }

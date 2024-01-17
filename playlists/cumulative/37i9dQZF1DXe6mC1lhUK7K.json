@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "These Dreams EP",
+        "url": "https://open.spotify.com/album/54q0cB6VUWE84i66K4cPvg"
+      },
+      "artists": [
+        {
+          "name": "Anna B Savage",
+          "url": "https://open.spotify.com/artist/6nbtlXRy0S6adYpDVoRdNi"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192600,
+      "name": "A Girl Like You",
+      "url": "https://open.spotify.com/track/0vyWtA8CYYZP2DxpP2Hbgm"
+    },
+    {
+      "album": {
         "name": "A Girl Like You",
         "url": "https://open.spotify.com/album/6vtVr80gX551QRmXU6QZJ4"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 192600,
       "name": "A Girl Like You",
       "url": "https://open.spotify.com/track/3KrIoPBs9kptUnczFNg9tW"

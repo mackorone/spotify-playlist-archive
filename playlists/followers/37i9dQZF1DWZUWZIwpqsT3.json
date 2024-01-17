@@ -1,735 +1,3589 @@
 {
-  "2021-12-25": 1569148,
-  "2021-12-26": 1569541,
-  "2021-12-27": 1570233,
-  "2021-12-28": 1570243,
-  "2021-12-29": 1570574,
-  "2021-12-30": 1570988,
-  "2021-12-31": 1571527,
-  "2022-01-01": 1572805,
-  "2022-01-02": 1572937,
-  "2022-01-03": 1573294,
-  "2022-01-04": 1573563,
-  "2022-01-05": 1573856,
-  "2022-01-06": 1574116,
-  "2022-01-07": 1574403,
-  "2022-01-08": 1575147,
-  "2022-01-09": 1575153,
-  "2022-01-10": 1575466,
-  "2022-01-11": 1575691,
-  "2022-01-12": 1575945,
-  "2022-01-13": 1576169,
-  "2022-01-14": 1576398,
-  "2022-01-15": 1577492,
-  "2022-01-16": 1577529,
-  "2022-01-17": 1578089,
-  "2022-01-18": 1578099,
-  "2022-01-19": 1578308,
-  "2022-01-20": 1578506,
-  "2022-01-21": 1578691,
-  "2022-01-22": 1578958,
-  "2022-01-23": 1579332,
-  "2022-01-24": 1580692,
-  "2022-01-25": 1581172,
-  "2022-01-26": 1581491,
-  "2022-01-27": 1581806,
-  "2022-01-28": 1582062,
-  "2022-01-29": 1582306,
-  "2022-01-30": 1582619,
-  "2022-01-31": 1582855,
-  "2022-02-01": 1583050,
-  "2022-02-02": 1583263,
-  "2022-02-03": 1583465,
-  "2022-02-04": 1583664,
-  "2022-02-05": 1583916,
-  "2022-02-06": 1584232,
-  "2022-02-07": 1584563,
-  "2022-02-08": 1584797,
-  "2022-02-09": 1585017,
-  "2022-02-10": 1585246,
-  "2022-02-11": 1585457,
-  "2022-02-12": 1585697,
-  "2022-02-13": 1585998,
-  "2022-02-14": 1586201,
-  "2022-02-15": 1586303,
-  "2022-02-16": 1586476,
-  "2022-02-17": 1586686,
-  "2022-02-18": 1586884,
-  "2022-02-19": 1587166,
-  "2022-02-20": 1587538,
-  "2022-02-21": 1587820,
-  "2022-02-22": 1588054,
-  "2022-02-23": 1588316,
-  "2022-02-24": 1588618,
-  "2022-02-25": 1588849,
-  "2022-02-26": 1589128,
-  "2022-02-27": 1589892,
-  "2022-02-28": 1589892,
-  "2022-03-01": 1590154,
-  "2022-03-02": 1590461,
-  "2022-03-03": 1590671,
-  "2022-03-04": 1590917,
-  "2022-03-05": 1591250,
-  "2022-03-06": 1591789,
-  "2022-03-07": 1592085,
-  "2022-03-08": 1592289,
-  "2022-03-09": 1592482,
-  "2022-03-10": 1592645,
-  "2022-03-11": 1592828,
-  "2022-03-12": 1592992,
-  "2022-03-13": 1593219,
-  "2022-03-14": 1593388,
-  "2022-03-15": 1593531,
-  "2022-03-16": 1593661,
-  "2022-03-17": 1593788,
-  "2022-03-18": 1593988,
-  "2022-03-19": 1594249,
-  "2022-03-20": 1594249,
-  "2022-03-21": 1594955,
-  "2022-03-22": 1595149,
-  "2022-03-23": 1595356,
-  "2022-03-24": 1595516,
-  "2022-03-25": 1595647,
-  "2022-03-26": 1595828,
-  "2022-03-27": 1596127,
-  "2022-03-28": 1596435,
-  "2022-03-30": 1596816,
-  "2022-03-31": 1596964,
-  "2022-04-01": 1597126,
-  "2022-04-02": 1597361,
-  "2022-04-03": 1597632,
-  "2022-04-04": 1597845,
-  "2022-04-05": 1598038,
-  "2022-04-06": 1598223,
-  "2022-04-07": 1598497,
-  "2022-04-08": 1598729,
-  "2022-04-09": 1598994,
-  "2022-04-10": 1599569,
-  "2022-04-11": 1599755,
-  "2022-04-12": 1599772,
-  "2022-04-13": 1599930,
-  "2022-04-14": 1600138,
-  "2022-04-15": 1600357,
-  "2022-04-16": 1600540,
-  "2022-04-17": 1600726,
-  "2022-04-18": 1600879,
-  "2022-04-19": 1600991,
-  "2022-04-20": 1601092,
-  "2022-04-21": 1601288,
-  "2022-04-22": 1601583,
-  "2022-04-23": 1601789,
-  "2022-04-24": 1602067,
-  "2022-04-25": 1602295,
-  "2022-04-26": 1602392,
-  "2022-04-27": 1602612,
-  "2022-04-28": 1602722,
-  "2022-04-29": 1603021,
-  "2022-04-30": 1603279,
-  "2022-05-01": 1603552,
-  "2022-05-02": 1603552,
-  "2022-05-03": 1603663,
-  "2022-05-04": 1603792,
-  "2022-05-05": 1603911,
-  "2022-05-06": 1604050,
-  "2022-05-07": 1604349,
-  "2022-05-08": 1604780,
-  "2022-05-09": 1604835,
-  "2022-05-10": 1605024,
-  "2022-05-11": 1605179,
-  "2022-05-12": 1605387,
-  "2022-05-13": 1605602,
-  "2022-05-14": 1605856,
-  "2022-05-15": 1606155,
-  "2022-05-16": 1606466,
-  "2022-05-17": 1606634,
-  "2022-05-18": 1606809,
-  "2022-05-19": 1606981,
-  "2022-05-20": 1607123,
-  "2022-05-21": 1607383,
-  "2022-05-22": 1607383,
-  "2022-05-23": 1607484,
-  "2022-05-24": 1607584,
-  "2022-05-25": 1607667,
-  "2022-05-26": 1607760,
-  "2022-05-27": 1607863,
-  "2022-05-28": 1607956,
-  "2022-05-29": 1608082,
-  "2022-05-30": 1608161,
-  "2022-05-31": 1608223,
-  "2022-06-01": 1608311,
-  "2022-06-02": 1608327,
-  "2022-06-03": 1608407,
-  "2022-06-04": 1608511,
-  "2022-06-05": 1608654,
-  "2022-06-06": 1608758,
-  "2022-06-07": 1608800,
-  "2022-06-08": 1608868,
-  "2022-06-09": 1608948,
-  "2022-06-10": 1609038,
-  "2022-06-11": 1609165,
-  "2022-06-12": 1609331,
-  "2022-06-13": 1609410,
-  "2022-06-14": 1609494,
-  "2022-06-15": 1609610,
-  "2022-06-16": 1609734,
-  "2022-06-17": 1609916,
-  "2022-06-18": 1610110,
-  "2022-06-19": 1610468,
-  "2022-06-20": 1610468,
-  "2022-06-21": 1610583,
-  "2022-06-22": 1610851,
-  "2022-06-23": 1610851,
-  "2022-06-24": 1610983,
-  "2022-06-25": 1611112,
-  "2022-06-26": 1611233,
-  "2022-06-27": 1611318,
-  "2022-06-28": 1611343,
-  "2022-06-29": 1611411,
-  "2022-06-30": 1611483,
-  "2022-07-01": 1611585,
-  "2022-07-02": 1611695,
-  "2022-07-03": 1611873,
-  "2022-07-04": 1611960,
-  "2022-07-05": 1612046,
-  "2022-07-06": 1612140,
-  "2022-07-07": 1612325,
-  "2022-07-08": 1612474,
-  "2022-07-09": 1612632,
-  "2022-07-10": 1612903,
-  "2022-07-11": 1613155,
-  "2022-07-12": 1613303,
-  "2022-07-13": 1613495,
-  "2022-07-14": 1613629,
-  "2022-07-15": 1613815,
-  "2022-07-16": 1613993,
-  "2022-07-17": 1614272,
-  "2022-07-18": 1614514,
-  "2022-07-19": 1614690,
-  "2022-07-20": 1614875,
-  "2022-07-21": 1615135,
-  "2022-07-22": 1615322,
-  "2022-07-23": 1615534,
-  "2022-07-24": 1615732,
-  "2022-07-25": 1615925,
-  "2022-07-26": 1616036,
-  "2022-07-27": 1616106,
-  "2022-07-28": 1616207,
-  "2022-07-29": 1616293,
-  "2022-07-30": 1616564,
-  "2022-07-31": 1616564,
-  "2022-08-01": 1616727,
-  "2022-08-02": 1616813,
-  "2022-08-03": 1616813,
-  "2022-08-04": 1616882,
-  "2022-08-05": 1616995,
-  "2022-08-06": 1617211,
-  "2022-08-07": 1617484,
-  "2022-08-08": 1617756,
-  "2022-08-09": 1617898,
-  "2022-08-10": 1618022,
-  "2022-08-11": 1618147,
-  "2022-08-12": 1618286,
-  "2022-08-13": 1618448,
-  "2022-08-14": 1618677,
-  "2022-08-15": 1618869,
-  "2022-08-16": 1619028,
-  "2022-08-17": 1619172,
-  "2022-08-18": 1619278,
-  "2022-08-19": 1619367,
-  "2022-08-20": 1619499,
-  "2022-08-21": 1619609,
-  "2022-08-22": 1619719,
-  "2022-08-23": 1619810,
-  "2022-08-24": 1619845,
-  "2022-08-25": 1619944,
-  "2022-08-26": 1620053,
-  "2022-08-27": 1620220,
-  "2022-08-28": 1620390,
-  "2022-08-29": 1620523,
-  "2022-08-30": 1620599,
-  "2022-08-31": 1620703,
-  "2022-09-01": 1620834,
-  "2022-09-02": 1620984,
-  "2022-09-03": 1621100,
-  "2022-09-04": 1621382,
-  "2022-09-05": 1621617,
-  "2022-09-06": 1621757,
-  "2022-09-07": 1621938,
-  "2022-09-09": 1622247,
-  "2022-09-10": 1622432,
-  "2022-09-11": 1622624,
-  "2022-09-12": 1622779,
-  "2022-09-13": 1622916,
-  "2022-09-15": 1623051,
-  "2022-09-16": 1623177,
-  "2022-09-17": 1623316,
-  "2022-09-18": 1623465,
-  "2022-09-19": 1623573,
-  "2022-09-20": 1623693,
-  "2022-09-21": 1623807,
-  "2022-09-22": 1623935,
-  "2022-09-23": 1624097,
-  "2022-09-24": 1624280,
-  "2022-09-25": 1624549,
-  "2022-09-26": 1624772,
-  "2022-09-27": 1624955,
-  "2022-09-28": 1625123,
-  "2022-09-29": 1625260,
-  "2022-09-30": 1625406,
-  "2022-10-01": 1625578,
-  "2022-10-02": 1625793,
-  "2022-10-03": 1625957,
-  "2022-10-04": 1626078,
-  "2022-10-05": 1626221,
-  "2022-10-06": 1626332,
-  "2022-10-07": 1626444,
-  "2022-10-08": 1626635,
-  "2022-10-09": 1626981,
-  "2022-10-10": 1626998,
-  "2022-10-11": 1627104,
-  "2022-10-12": 1627239,
-  "2022-10-13": 1627359,
-  "2022-10-14": 1627525,
-  "2022-10-15": 1627650,
-  "2022-10-16": 1627822,
-  "2022-10-17": 1628007,
-  "2022-10-18": 1628079,
-  "2022-10-19": 1628173,
-  "2022-10-20": 1628266,
-  "2022-10-21": 1628370,
-  "2022-10-22": 1628507,
-  "2022-10-23": 1628711,
-  "2022-10-24": 1628801,
-  "2022-10-25": 1628889,
-  "2022-10-26": 1628998,
-  "2022-10-27": 1629111,
-  "2022-10-28": 1629254,
-  "2022-10-29": 1629424,
-  "2022-10-30": 1629578,
-  "2022-10-31": 1629671,
-  "2022-11-01": 1629759,
-  "2022-11-02": 1629905,
-  "2022-11-03": 1630142,
-  "2022-11-04": 1630349,
-  "2022-11-05": 1630586,
-  "2022-11-06": 1630864,
-  "2022-11-07": 1631111,
-  "2022-11-08": 1631293,
-  "2022-11-09": 1631492,
-  "2022-11-10": 1631678,
-  "2022-11-11": 1631897,
-  "2022-11-12": 1632137,
-  "2022-11-13": 1632383,
-  "2022-11-14": 1632640,
-  "2022-11-15": 1632893,
-  "2022-11-16": 1633144,
-  "2022-11-17": 1633243,
-  "2022-11-18": 1633217,
-  "2022-11-19": 1633082,
-  "2022-11-20": 1633056,
-  "2022-11-21": 1633172,
-  "2022-11-22": 1633679,
-  "2022-11-23": 1633547,
-  "2022-11-24": 1633839,
-  "2022-11-25": 1634248,
-  "2022-11-26": 1634399,
-  "2022-11-27": 1634567,
-  "2022-11-28": 1634724,
-  "2022-11-29": 1634843,
-  "2022-11-30": 1634911,
-  "2022-12-01": 1634972,
-  "2022-12-02": 1635010,
-  "2022-12-03": 1635148,
-  "2022-12-04": 1635295,
-  "2022-12-05": 1635407,
-  "2022-12-06": 1635472,
-  "2022-12-07": 1635516,
-  "2022-12-08": 1635624,
-  "2022-12-09": 1635741,
-  "2022-12-10": 1635869,
-  "2022-12-11": 1636028,
-  "2022-12-12": 1636170,
-  "2022-12-13": 1636262,
-  "2022-12-14": 1636356,
-  "2022-12-15": 1636452,
-  "2022-12-16": 1636616,
-  "2022-12-17": 1636804,
-  "2022-12-18": 1637005,
-  "2022-12-19": 1637131,
-  "2022-12-20": 1637384,
-  "2022-12-21": 1637384,
-  "2022-12-22": 1637483,
-  "2022-12-24": 1637771,
-  "2022-12-25": 1638021,
-  "2022-12-26": 1638201,
-  "2022-12-27": 1638327,
-  "2022-12-28": 1638490,
-  "2022-12-29": 1638703,
-  "2022-12-30": 1638863,
-  "2022-12-31": 1639158,
-  "2023-01-01": 1639502,
-  "2023-01-02": 1639777,
-  "2023-01-03": 1639923,
-  "2023-01-04": 1640085,
-  "2023-01-05": 1640210,
-  "2023-01-06": 1640389,
-  "2023-01-07": 1640705,
-  "2023-01-08": 1640761,
-  "2023-01-09": 1640913,
-  "2023-01-10": 1641054,
-  "2023-01-11": 1641169,
-  "2023-01-12": 1641295,
-  "2023-01-13": 1641408,
-  "2023-01-14": 1641753,
-  "2023-01-15": 1641849,
-  "2023-01-16": 1641998,
-  "2023-01-17": 1642169,
-  "2023-01-18": 1642319,
-  "2023-01-19": 1642513,
-  "2023-01-20": 1642697,
-  "2023-01-21": 1642936,
-  "2023-01-22": 1643178,
-  "2023-01-23": 1643377,
-  "2023-01-24": 1643513,
-  "2023-01-25": 1643678,
-  "2023-01-26": 1643788,
-  "2023-01-27": 1643913,
-  "2023-01-28": 1644019,
-  "2023-01-29": 1644154,
-  "2023-01-30": 1644244,
-  "2023-01-31": 1644244,
-  "2023-02-01": 1644401,
-  "2023-02-02": 1644460,
-  "2023-02-03": 1644535,
-  "2023-02-04": 1644609,
-  "2023-02-05": 1644733,
-  "2023-02-06": 1644820,
-  "2023-02-07": 1644878,
-  "2023-02-08": 1644990,
-  "2023-02-09": 1644990,
-  "2023-02-10": 1645037,
-  "2023-02-11": 1645110,
-  "2023-02-12": 1645249,
-  "2023-02-13": 1645306,
-  "2023-02-14": 1645306,
-  "2023-02-15": 1645382,
-  "2023-02-16": 1645482,
-  "2023-02-17": 1645570,
-  "2023-02-18": 1645906,
-  "2023-02-19": 1645921,
-  "2023-02-20": 1646025,
-  "2023-02-21": 1646164,
-  "2023-02-22": 1646270,
-  "2023-02-23": 1646353,
-  "2023-02-24": 1646424,
-  "2023-02-25": 1646537,
-  "2023-02-26": 1646669,
-  "2023-02-27": 1646870,
-  "2023-02-28": 1646870,
-  "2023-03-01": 1646946,
-  "2023-03-02": 1647011,
-  "2023-03-03": 1647115,
-  "2023-03-04": 1647202,
-  "2023-03-05": 1647427,
-  "2023-03-06": 1647427,
-  "2023-03-07": 1647510,
-  "2023-03-08": 1647583,
-  "2023-03-09": 1647636,
-  "2023-03-10": 1647716,
-  "2023-03-11": 1647830,
-  "2023-03-12": 1647929,
-  "2023-03-13": 1647979,
-  "2023-03-14": 1648046,
-  "2023-03-15": 1648103,
-  "2023-03-16": 1648169,
-  "2023-03-17": 1648169,
-  "2023-03-18": 1648349,
-  "2023-03-19": 1648464,
-  "2023-03-20": 1648538,
-  "2023-03-21": 1648598,
-  "2023-03-22": 1648693,
-  "2023-03-23": 1648779,
-  "2023-03-24": 1648779,
-  "2023-03-25": 1648941,
-  "2023-03-26": 1649059,
-  "2023-03-27": 1649163,
-  "2023-03-28": 1649217,
-  "2023-03-29": 1649255,
-  "2023-03-30": 1649368,
-  "2023-03-31": 1649368,
-  "2023-04-01": 1649440,
-  "2023-04-02": 1649562,
-  "2023-04-03": 1649632,
-  "2023-04-04": 1649654,
-  "2023-04-05": 1649757,
-  "2023-04-06": 1649824,
-  "2023-04-07": 1649884,
-  "2023-04-09": 1650036,
-  "2023-04-10": 1650110,
-  "2023-04-11": 1650171,
-  "2023-04-12": 1650171,
-  "2023-04-13": 1650219,
-  "2023-04-14": 1650313,
-  "2023-04-15": 1650420,
-  "2023-04-16": 1650521,
-  "2023-04-17": 1650600,
-  "2023-04-18": 1650671,
-  "2023-04-19": 1650773,
-  "2023-04-20": 1650902,
-  "2023-04-21": 1651015,
-  "2023-04-22": 1651141,
-  "2023-04-23": 1651264,
-  "2023-04-24": 1651369,
-  "2023-04-25": 1651405,
-  "2023-04-26": 1651482,
-  "2023-04-27": 1651513,
-  "2023-04-28": 1651571,
-  "2023-04-29": 1651636,
-  "2023-04-30": 1651783,
-  "2023-05-01": 1651831,
-  "2023-05-02": 1651910,
-  "2023-05-03": 1651958,
-  "2023-05-04": 1652004,
-  "2023-05-05": 1652051,
-  "2023-05-06": 1652116,
-  "2023-05-07": 1652253,
-  "2023-05-08": 1652294,
-  "2023-05-09": 1652346,
-  "2023-05-10": 1652434,
-  "2023-05-11": 1652469,
-  "2023-05-12": 1652520,
-  "2023-05-13": 1652624,
-  "2023-05-14": 1652718,
-  "2023-05-15": 1652824,
-  "2023-05-16": 1652865,
-  "2023-05-17": 1652910,
-  "2023-05-18": 1652946,
-  "2023-05-19": 1653008,
-  "2023-05-20": 1653178,
-  "2023-05-21": 1653178,
-  "2023-05-22": 1653178,
-  "2023-05-23": 1653319,
-  "2023-05-24": 1653488,
-  "2023-05-25": 1653505,
-  "2023-05-26": 1653570,
-  "2023-05-27": 1653663,
-  "2023-05-28": 1653762,
-  "2023-05-29": 1653762,
-  "2023-05-30": 1653859,
-  "2023-05-31": 1653894,
-  "2023-06-01": 1653971,
-  "2023-06-02": 1653997,
-  "2023-06-03": 1653958,
-  "2023-06-04": 1653957,
-  "2023-06-05": 1653912,
-  "2023-06-06": 1653967,
-  "2023-06-07": 331037,
-  "2023-06-08": 66578,
-  "2023-06-09": 66578,
-  "2023-06-10": 66578,
-  "2023-06-11": 66578,
-  "2023-06-12": 66578,
-  "2023-06-13": 66578,
-  "2023-06-14": 66578,
-  "2023-06-15": 66578,
-  "2023-06-16": 66578,
-  "2023-06-17": 66578,
-  "2023-06-18": 66578,
-  "2023-06-19": 66578,
-  "2023-06-20": 66578,
-  "2023-06-21": 66578,
-  "2023-06-22": 66578,
-  "2023-06-23": 66578,
-  "2023-06-24": 66578,
-  "2023-06-25": 66578,
-  "2023-06-26": 66578,
-  "2023-06-27": 66578,
-  "2023-06-28": 66578,
-  "2023-06-29": 66578,
-  "2023-06-30": 66578,
-  "2023-07-01": 66578,
-  "2023-07-02": 66578,
-  "2023-07-03": 66578,
-  "2023-07-04": 66578,
-  "2023-07-05": 66578,
-  "2023-07-06": 66578,
-  "2023-07-07": 66578,
-  "2023-07-08": 66578,
-  "2023-07-09": 66578,
-  "2023-07-10": 66578,
-  "2023-07-11": 66578,
-  "2023-07-12": 66578,
-  "2023-07-13": 66578,
-  "2023-07-14": 66578,
-  "2023-07-15": 66578,
-  "2023-07-16": 66578,
-  "2023-07-17": 66578,
-  "2023-07-18": 66578,
-  "2023-07-19": 66578,
-  "2023-07-20": 66578,
-  "2023-07-21": 66578,
-  "2023-07-22": 66578,
-  "2023-07-23": 66578,
-  "2023-07-24": 66578,
-  "2023-07-25": 66578,
-  "2023-07-26": 66578,
-  "2023-07-27": 66578,
-  "2023-07-28": 66578,
-  "2023-07-29": 66578,
-  "2023-07-30": 66578,
-  "2023-07-31": 66578,
-  "2023-08-01": 66578,
-  "2023-08-02": 66578,
-  "2023-08-03": 66578,
-  "2023-08-04": 66578,
-  "2023-08-05": 66578,
-  "2023-08-06": 66578,
-  "2023-08-07": 66578,
-  "2023-08-08": 66578,
-  "2023-08-09": 66578,
-  "2023-08-10": 66578,
-  "2023-08-11": 66578,
-  "2023-08-12": 66578,
-  "2023-08-13": 66578,
-  "2023-08-14": 66578,
-  "2023-08-15": 66578,
-  "2023-08-16": 66578,
-  "2023-08-17": 66578,
-  "2023-08-18": 66578,
-  "2023-08-19": 66578,
-  "2023-08-20": 66578,
-  "2023-08-21": 66578,
-  "2023-08-22": 66578,
-  "2023-08-23": 66578,
-  "2023-08-24": 66578,
-  "2023-08-25": 66578,
-  "2023-08-26": 66578,
-  "2023-08-27": 66578,
-  "2023-08-28": 66578,
-  "2023-08-29": 66578,
-  "2023-08-30": 66578,
-  "2023-08-31": 66578,
-  "2023-09-01": 66578,
-  "2023-09-02": 66578,
-  "2023-09-03": 66578,
-  "2023-09-04": 66578,
-  "2023-09-05": 66578,
-  "2023-09-06": 66578,
-  "2023-09-07": 66578,
-  "2023-09-08": 66578,
-  "2023-09-09": 66578,
-  "2023-09-10": 66578,
-  "2023-09-11": 66578,
-  "2023-09-12": 66578,
-  "2023-09-13": 66578,
-  "2023-09-14": 66578,
-  "2023-09-15": 66578,
-  "2023-09-16": 66578,
-  "2023-09-17": 66578,
-  "2023-09-18": 66578,
-  "2023-09-19": 66578,
-  "2023-09-20": 66578,
-  "2023-09-21": 66578,
-  "2023-09-22": 66578,
-  "2023-09-23": 66578,
-  "2023-09-24": 66578,
-  "2023-09-25": 66578,
-  "2023-09-26": 66578,
-  "2023-09-27": 66578,
-  "2023-09-28": 66578,
-  "2023-09-29": 66578,
-  "2023-09-30": 66578,
-  "2023-10-01": 66578,
-  "2023-10-02": 66578,
-  "2023-10-03": 66578,
-  "2023-10-04": 66578,
-  "2023-10-05": 66578,
-  "2023-10-06": 66578,
-  "2023-10-07": 66578,
-  "2023-10-08": 66578,
-  "2023-10-09": 66578,
-  "2023-10-10": 66578,
-  "2023-10-11": 66578,
-  "2023-10-12": 66578,
-  "2023-10-13": 66578,
-  "2023-10-14": 66578,
-  "2023-10-15": 66578,
-  "2023-10-16": 66578,
-  "2023-10-17": 66578,
-  "2023-10-18": 66578,
-  "2023-10-19": 66578,
-  "2023-10-20": 66578,
-  "2023-10-21": 66578,
-  "2023-10-22": 66578,
-  "2023-10-23": 66578,
-  "2023-10-24": 66578,
-  "2023-10-25": 66578,
-  "2023-10-26": 66578,
-  "2023-10-27": 66578,
-  "2023-10-28": 66578,
-  "2023-10-29": 66578,
-  "2023-10-30": 66578,
-  "2023-10-31": 66578,
-  "2023-11-01": 66578,
-  "2023-11-02": 66578,
-  "2023-11-03": 66578,
-  "2023-11-04": 66578,
-  "2023-11-05": 66578,
-  "2023-11-06": 66578,
-  "2023-11-07": 66578,
-  "2023-11-08": 66578,
-  "2023-11-09": 66578,
-  "2023-11-10": 66578,
-  "2023-11-11": 66578,
-  "2023-11-12": 66578,
-  "2023-11-13": 66578,
-  "2023-11-14": 66578,
-  "2023-11-15": 66578,
-  "2023-11-16": 66578,
-  "2023-11-17": 66578,
-  "2023-11-18": 66578,
-  "2023-11-19": 66578,
-  "2023-11-20": 66578,
-  "2023-11-21": 66578,
-  "2023-11-22": 66578,
-  "2023-11-23": 66578,
-  "2023-11-24": 66578,
-  "2023-11-25": 66578,
-  "2023-11-26": 66578,
-  "2023-11-27": 66578,
-  "2023-11-28": 66578,
-  "2023-11-29": 66578,
-  "2023-11-30": 66578,
-  "2023-12-01": 66578,
-  "2023-12-02": 66578,
-  "2023-12-03": 66578,
-  "2023-12-04": 66578,
-  "2023-12-05": 66578,
-  "2023-12-06": 66578,
-  "2023-12-07": 66578,
-  "2023-12-08": 66578,
-  "2023-12-09": 66578,
-  "2023-12-10": 66578,
-  "2023-12-11": 66578,
-  "2023-12-12": 66578,
-  "2023-12-13": 66578,
-  "2023-12-14": 66578,
-  "2023-12-15": 66578,
-  "2023-12-16": 66578,
-  "2023-12-17": 66578,
-  "2023-12-18": 66578,
-  "2023-12-19": 66578,
-  "2023-12-20": 66578,
-  "2023-12-21": 66578,
-  "2023-12-22": 66578,
-  "2023-12-23": 66578,
-  "2023-12-24": 66578,
-  "2023-12-25": 66578,
-  "2023-12-26": 66578,
-  "2023-12-27": 66578,
-  "2023-12-30": 66578,
-  "2023-12-31": 66578,
-  "2024-01-01": 66578,
-  "2024-01-02": 66578,
-  "2024-01-03": 66578
+  "2024-01-17": 66578,
+  "date_first_scraped": "2021-12-21",
+  "description": "Press play and let's dance with the biggest Brazilian DJ!",
+  "name": "This Is Alok",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alive (It Feels Like)",
+        "url": "https://open.spotify.com/album/4pXpgHjsecO9r9f22UB1Rk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "Alive (It Feels Like)",
+      "url": "https://open.spotify.com/track/4fB85IhVASxXMWgoke5WVJ"
+    },
+    {
+      "album": {
+        "name": "Alive (It Feels Like)",
+        "url": "https://open.spotify.com/album/1jU9kFRQP9Vf7R5ncpkcCh"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142500,
+      "name": "Alive (It Feels Like)",
+      "url": "https://open.spotify.com/track/4zzHe0vVVQwLwn1mAoKFJq"
+    },
+    {
+      "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/3lAmnw0gNntYuTltwETnSn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171747,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/5Hp4xFihdOE2dmDzxWcBFb"
+    },
+    {
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/09daeFM7AXK0INoZ00lTeD"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Liu",
+          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+        },
+        {
+          "name": "Stonefox",
+          "url": "https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159074,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/40ydUI6moZMoOd65wbf6oz"
+    },
+    {
+      "album": {
+        "name": "BREATHE",
+        "url": "https://open.spotify.com/album/4dNB3Gat1KKAIzIaFKNRM1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179456,
+      "name": "All The Lies",
+      "url": "https://open.spotify.com/track/6JGNxHVmOUpyj17iLgI9fq"
+    },
+    {
+      "album": {
+        "name": "All The Lies",
+        "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 179456,
+      "name": "All The Lies",
+      "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
+    },
+    {
+      "album": {
+        "name": "All The Lies (with Felix Jaehn & The Vamps)",
+        "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179456,
+      "name": "All The Lies (with Felix Jaehn & The Vamps)",
+      "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5ZJDxWchW5jtfDJlnj9CKC"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
+        },
+        {
+          "name": "Apophis",
+          "url": "https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200655,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/2y0W59c6wUGIJ6astaUNcQ"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2YyY8qfDyn0P6cyqZ1l48A"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
+        },
+        {
+          "name": "Apophis",
+          "url": "https://open.spotify.com/artist/6Sz3s1OLPiCr3cniHuCSoK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200655,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3JS1nCTR2jixEUAUHnh4fk"
+    },
+    {
+      "album": {
+        "name": "Always Feel Like",
+        "url": "https://open.spotify.com/album/4kCNzICullbugxM6oBG2G1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181935,
+      "name": "Always Feel Like",
+      "url": "https://open.spotify.com/track/7rt3hHR1meaDWFqQygtZrS"
+    },
+    {
+      "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/3enffrW6QJyTfqUnHK72OX"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/509mnNEq2OOcJsK0Y9TlKd"
+    },
+    {
+      "album": {
+        "name": "Ameno",
+        "url": "https://open.spotify.com/album/5pBSrDiMe8onek8N64bzNt"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gaullin",
+          "url": "https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K"
+        },
+        {
+          "name": "Kohen",
+          "url": "https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155428,
+      "name": "Ameno",
+      "url": "https://open.spotify.com/track/5q7ejdXtFaxHUOybHdFee7"
+    },
+    {
+      "album": {
+        "name": "Another You (feat. The Vamps)",
+        "url": "https://open.spotify.com/album/7f2gWbQrwvU6JgidZr2xqV"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BLOODLINE",
+          "url": "https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158709,
+      "name": "Another You (feat. The Vamps)",
+      "url": "https://open.spotify.com/track/2OPCGQHz6Gi7U7aDShfhR8"
+    },
+    {
+      "album": {
+        "name": "Another You (feat. The Vamps)",
+        "url": "https://open.spotify.com/album/76hS3XEBXE1T653ircVVjs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BLOODLINE",
+          "url": "https://open.spotify.com/artist/2XIjSIUqsAXWJbMrVykTZ3"
+        },
+        {
+          "name": "The Vamps",
+          "url": "https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158709,
+      "name": "Another You (feat. The Vamps)",
+      "url": "https://open.spotify.com/track/7dEFrrQfssrOCbxQfk49yg"
+    },
+    {
+      "album": {
+        "name": "Astronaut In The Ocean (Alok Remix)",
+        "url": "https://open.spotify.com/album/7M3xleJoRyne18xf0fM9Jo"
+      },
+      "artists": [
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Astronaut In The Ocean - Alok Remix",
+      "url": "https://open.spotify.com/track/1yX6sh2TkrT5hsXodo7aS6"
+    },
+    {
+      "album": {
+        "name": "Bella Ciao (feat. Andre Sarate & Adolfo Celdran)",
+        "url": "https://open.spotify.com/album/1SAdASSzDf70GDvfGSX5D0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Adolfo Celdran",
+          "url": "https://open.spotify.com/artist/6aI1hAdb3IC4JNgYJOsVr7"
+        },
+        {
+          "name": "Andr\u00e9 Sarate",
+          "url": "https://open.spotify.com/artist/0w5G9RC0o4u8L0cCchFwBb"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170944,
+      "name": "Bella Ciao (feat. Andre Sarate & Adolfo Celdran)",
+      "url": "https://open.spotify.com/track/1kJ1E0czwQPvUVNXCLaHAB"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/35i6JrOJDOFIUuyQDtMjbA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/1xd3OqTbx17HutN7RfJOTj"
+    },
+    {
+      "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/1D4ITrJ9CiiaagmBMUexV3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mathieu Koss",
+          "url": "https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182146,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/71P1N0X76YtZMbBIGG47un"
+    },
+    {
+      "album": {
+        "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+        "url": "https://open.spotify.com/album/0n06oWsR6j9iFYWPpqqibF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "Boa Sorte (Alok, Vanessa da Mata e Cat Dealers)",
+      "url": "https://open.spotify.com/track/4smXdvRpH5aqlqTzNKCFAh"
+    },
+    {
+      "album": {
+        "name": "Body On My Mind",
+        "url": "https://open.spotify.com/album/1BwEL9Uw8vU3ND0KCaTmdw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/0tC6DBA0PA8o0LL3M6neZ9"
+    },
+    {
+      "album": {
+        "name": "CONTROVERSIA by Alok Vol. 002",
+        "url": "https://open.spotify.com/album/7DwBtsPSp8U1dVFQWtKqjk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/2hKr4BrXEPAsmTCcX8aV5J"
+    },
+    {
+      "album": {
+        "name": "Body On My Mind",
+        "url": "https://open.spotify.com/album/74z7Bcwu01V3ZE2CAqrtqf"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Body On My Mind",
+      "url": "https://open.spotify.com/track/6h1PXppJpiPHDhqdGycFdL"
+    },
+    {
+      "album": {
+        "name": "Born to Kill (with Alok)",
+        "url": "https://open.spotify.com/album/2D3DsYvDso78HVWekeXJbx"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162096,
+      "name": "Born To Kill (with Alok)",
+      "url": "https://open.spotify.com/track/1jWkEX1OmliA2etRvBH9Xk"
+    },
+    {
+      "album": {
+        "name": "Byob",
+        "url": "https://open.spotify.com/album/0LPvWHftIjaAH376ZyX9yQ"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259693,
+      "name": "Byob",
+      "url": "https://open.spotify.com/track/3GjF8PNprVtiBtQnSgcHFU"
+    },
+    {
+      "album": {
+        "name": "Byob",
+        "url": "https://open.spotify.com/album/1LrjVxiPQecTh1LugY8jPm"
+      },
+      "artists": [
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259693,
+      "name": "Byob",
+      "url": "https://open.spotify.com/track/7uF4XVBeZeWsjhioGUhI47"
+    },
+    {
+      "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "album": {
+        "name": "Deeper EP",
+        "url": "https://open.spotify.com/album/6C0ooONb4IUWci4RXwQJAw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/09BrFM9kCBGVevooxF1uP2"
+    },
+    {
+      "album": {
+        "name": "Domino (feat. Oxia)",
+        "url": "https://open.spotify.com/album/7dUrVkmjf3TSkdoEn4VSV3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158000,
+      "name": "Domino (feat. Oxia)",
+      "url": "https://open.spotify.com/track/0tuH3Dayq9KTxt7Es7qili"
+    },
+    {
+      "album": {
+        "name": "Domino (feat. Oxia)",
+        "url": "https://open.spotify.com/album/0pth5KWHb0y7nvYqLp9Mzl"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Domino (feat. Oxia)",
+      "url": "https://open.spotify.com/track/1TepyN2GXukyc6wo3kTFMO"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158000,
+      "name": "Domino (feat. Oxia)",
+      "url": "https://open.spotify.com/track/5m4szZ7L1y003hVCtr5t6k"
+    },
+    {
+      "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+    },
+    {
+      "album": {
+        "name": "Don't Say Goodbye (feat. Tove Lo)",
+        "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ilkay Sencan",
+          "url": "https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186700,
+      "name": "Don't Say Goodbye (feat. Tove Lo)",
+      "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
+    },
+    {
+      "album": {
+        "name": "E Depois (Que Sorte A Minha)",
+        "url": "https://open.spotify.com/album/0ICc6IqSIkLkS2idTkFXu0"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220125,
+      "name": "E Depois (Que Sorte A Minha)",
+      "url": "https://open.spotify.com/track/214FzhGa7IXferIhbZ9KnL"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/16QR0dsvnAghkCk31Q1Qd3"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/2JVbZEpewmqNlSzmXJTx2E"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
+    },
+    {
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/6YoRnsRWfFtEFK2G8s5AaM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+    },
+    {
+      "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/7F5b3CtINIB8fGrxZqPMjY"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160645,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/7zcmIz44ipSUMprZKvEeRO"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4UzyEKZKmEIKT1KkWO3Crp"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/30pVSKdzBpZ9Np4Y2bJbFM"
+    },
+    {
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4tbAqm9aiF0xKEV3A8NRVs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188852,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/7ac8sivblLQjsQipO5FZ63"
+    },
+    {
+      "album": {
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/4YBSn85qXXKs13Rx5A0XsF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/4s6PYL51msvsxDjME9i6OM"
+    },
+    {
+      "album": {
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "album": {
+        "name": "Hear Me Now",
+        "url": "https://open.spotify.com/album/6apmeAAgvzvhBKio8WYThf"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192846,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON"
+    },
+    {
+      "album": {
+        "name": "Hear Me Now (feat. Zeeba)",
+        "url": "https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194840,
+      "name": "Hear Me Now",
+      "url": "https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa"
+    },
+    {
+      "album": {
+        "name": "Hear Me Tonight",
+        "url": "https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "THRDL!FE",
+          "url": "https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Hear Me Tonight",
+      "url": "https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Talk",
+        "url": "https://open.spotify.com/album/4m7tyOcr2Ds0QsWr3cA4Yo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144000,
+      "name": "I Don't Wanna Talk",
+      "url": "https://open.spotify.com/track/0QgcfIGSmqv9cFxjT0hQAR"
+    },
+    {
+      "album": {
+        "name": "I Don't Wanna Talk (feat. Amber Van Day)",
+        "url": "https://open.spotify.com/album/6fmPSJmMLKVoTiQ6EZK0Zj"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Amber Van Day",
+          "url": "https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "I Don't Wanna Talk (feat. Amber Van Day)",
+      "url": "https://open.spotify.com/track/6ZHW34diMlNGGVwcrOfrkr"
+    },
+    {
+      "album": {
+        "name": "I Need Someone (feat. Nathan Ball & Caleb Femi) [Alok Remix] [Edit]",
+        "url": "https://open.spotify.com/album/3K1dyql0lF9cbbFfIpaQZo"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        },
+        {
+          "name": "Caleb Femi",
+          "url": "https://open.spotify.com/artist/7EBbMrJpvd3qQVxQxskCfI"
+        },
+        {
+          "name": "Nathan Ball",
+          "url": "https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "I Need Someone (feat. Nathan Ball & Caleb Femi) [Alok Remix] - Edit",
+      "url": "https://open.spotify.com/track/1XrQIHZjSUVwgtpnq8hojj"
+    },
+    {
+      "album": {
+        "name": "Ilus\u00e3o (Cracol\u00e2ndia)",
+        "url": "https://open.spotify.com/album/7zT3w0lc1ZBlAMvF9ZMBF5"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "Ilus\u00e3o (Cracol\u00e2ndia)",
+      "url": "https://open.spotify.com/track/6WXglvTFRmjlHHhgjYMNif"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/0ns8wB6mJDe5AZbYDnlPSG"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175555,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/4JUjUe1zor1myq8f2eq3Kq"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
+    },
+    {
+      "album": {
+        "name": "Innocent (feat. Gavin James)",
+        "url": "https://open.spotify.com/album/6sFBBEA0J9xZuxFLJgRjiI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Yves V",
+          "url": "https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179510,
+      "name": "Innocent (feat. Gavin James)",
+      "url": "https://open.spotify.com/track/0nWhvEGfDmIuz6ujMPaMBn"
+    },
+    {
+      "album": {
+        "name": "It Don't Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/1y8GQ99W2OOIKGnedOqbC8"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173742,
+      "name": "It Don't Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/3GMsSOhn712MhnWa1KEmaD"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Out Of My Head Vol. 001",
+        "url": "https://open.spotify.com/album/1Fzq2n9s3YHDajNdQOCOQS"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/09H7683siuy9rsTDbJdGL1"
+    },
+    {
+      "album": {
+        "name": "It Don\u2019t Matter - Spotify Singles",
+        "url": "https://open.spotify.com/album/5w5UPTvxo2vjCWnP5fbEnc"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173742,
+      "name": "It Don\u2019t Matter - Spotify Singles",
+      "url": "https://open.spotify.com/track/7ltLi7CG003USSGYsSba9s"
+    },
+    {
+      "album": {
+        "name": "Joga Duro",
+        "url": "https://open.spotify.com/album/4D2ZVnO8eXwMv8UQNlpKj6"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213947,
+      "name": "Joga Duro",
+      "url": "https://open.spotify.com/track/6Ay5my8JKH3Kvv7Vhyx4Gg"
+    },
+    {
+      "album": {
+        "name": "Keep Walking",
+        "url": "https://open.spotify.com/album/1t9Z2mDpAC9nccGPRFP1xA"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132000,
+      "name": "Keep Walking",
+      "url": "https://open.spotify.com/track/0es2qbkcHh721NGxclHtKu"
+    },
+    {
+      "album": {
+        "name": "Keep Walking",
+        "url": "https://open.spotify.com/album/2RaehuDcE8Z1duKDxOASeY"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Keep Walking",
+      "url": "https://open.spotify.com/track/4KGp4u2uzL2fK8CoKj64Gx"
+    },
+    {
+      "album": {
+        "name": "Kids on Whizz",
+        "url": "https://open.spotify.com/album/2MV1nbjEFQ3coFdpVpz9QQ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Everyone You Know",
+          "url": "https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Kids on Whizz",
+      "url": "https://open.spotify.com/track/34ZAEDXyI4hBfBYYnGXA73"
+    },
+    {
+      "album": {
+        "name": "Killed By The City",
+        "url": "https://open.spotify.com/album/0fhuw1u22igt3GCU9QJ54n"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Killed By The City",
+      "url": "https://open.spotify.com/track/4i5IUKZht1OTaBGm8zwhzB"
+    },
+    {
+      "album": {
+        "name": "Killed by the City",
+        "url": "https://open.spotify.com/album/24lVlsojPGQ2FHHtAGyPwo"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180000,
+      "name": "Killed by the City",
+      "url": "https://open.spotify.com/track/6fjxgYAEaUc89LnWCmqS34"
+    },
+    {
+      "album": {
+        "name": "Let Me Go (with MKLA)",
+        "url": "https://open.spotify.com/album/6sfiq9XzQfE0HGzEVrKkDH"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "MKLA",
+          "url": "https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149250,
+      "name": "Let Me Go (with MKLA)",
+      "url": "https://open.spotify.com/track/1W3TC8MjoPvrVbNfUxMPJQ"
+    },
+    {
+      "album": {
+        "name": "Liberdade (Quando o Grave Bate Forte)",
+        "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150461,
+      "name": "Liberdade (Quando o Grave Bate Forte)",
+      "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "album": {
+        "name": "Life Goes On (Alok Remix)",
+        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157647,
+      "name": "Life Goes On - Alok Remix",
+      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
+    },
+    {
+      "album": {
+        "name": "Living In A Ghost Town (Alok Remix)",
+        "url": "https://open.spotify.com/album/4xCqZR98seMndZDy9iZrXA"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208980,
+      "name": "Living In A Ghost Town - Alok Remix",
+      "url": "https://open.spotify.com/track/4Tfyx7YzQBDcI45LBWyr15"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/7KVK7tuZWISu6DWhvxtNyM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147401,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/7HmLm3SiBGJeVpJ552PJJP"
+    },
+    {
+      "album": {
+        "name": "Love Again (feat. Alida)",
+        "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147401,
+      "name": "Love Again (feat. Alida)",
+      "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
+    },
+    {
+      "album": {
+        "name": "Love Is Gone - Alok Remix",
+        "url": "https://open.spotify.com/album/09oE5IJaXz157AqAoX6u4s"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Dylan Matthew",
+          "url": "https://open.spotify.com/artist/6d0ZjIp5L7Ygy2l02HskRX"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137124,
+      "name": "Love Is Gone - Alok Remix",
+      "url": "https://open.spotify.com/track/1tpTV7D5TwPBKgb2JaciMm"
+    },
+    {
+      "album": {
+        "name": "ALL WE HAVE IS N:OW",
+        "url": "https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196164,
+      "name": "Love Love (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/3tkPQfYq3NybNRdMTdww3p"
+    },
+    {
+      "album": {
+        "name": "Love Love (feat. Gilsons)",
+        "url": "https://open.spotify.com/album/2YBubTKCWWX3681kCrq4AF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196164,
+      "name": "Love Love (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/5DUKWjGZOVwdPN048FIHc4"
+    },
+    {
+      "album": {
+        "name": "Love Love (feat. Gilsons)",
+        "url": "https://open.spotify.com/album/7mSkA7d35tqJAddf4SBgeM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196164,
+      "name": "Love Love (feat. Gilsons)",
+      "url": "https://open.spotify.com/track/5o5A0Ww1nQsetGUelp5RJl"
+    },
+    {
+      "album": {
+        "name": "Mami Mami",
+        "url": "https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121955,
+      "name": "Mami Mami",
+      "url": "https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV"
+    },
+    {
+      "album": {
+        "name": "XOXO (Music from the Netflix Original Film)",
+        "url": "https://open.spotify.com/album/7GII7KZDArYqZ14xcyshb4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327272,
+      "name": "Me & You (feat. IRO)",
+      "url": "https://open.spotify.com/track/2WTCoQLkQ9FPdvThkf8nN1"
+    },
+    {
+      "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/2ds371eeP7JXPUhBCk26eH"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/1UTXQrmAL4oladIwc1PWSh"
+    },
+    {
+      "album": {
+        "name": "Meu Amor",
+        "url": "https://open.spotify.com/album/2ElhtOxvJeTj0UfBjJgAeQ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ix\u00e3",
+          "url": "https://open.spotify.com/artist/44fxF9nKWZaTM2IKcJbdaf"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Meu Amor",
+      "url": "https://open.spotify.com/track/4fSAzexU19fbxl8OzbyhXH"
+    },
+    {
+      "album": {
+        "name": "My Head (Can\u2019t Get You Out)",
+        "url": "https://open.spotify.com/album/1DdWQ5wL4E17EC3YiraRkO"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199153,
+      "name": "My Head (Can\u2019t Get You Out)",
+      "url": "https://open.spotify.com/track/2FVv9vxJT2NOxKWFzZnvDI"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 199153,
+      "name": "My Head (Can\u2019t Get You Out)",
+      "url": "https://open.spotify.com/track/43i4pnJCaImvxsBaHMFwdY"
+    },
+    {
+      "album": {
+        "name": "My Head (Can\u2019t Get You Out)",
+        "url": "https://open.spotify.com/album/5wt9DQGWAAB42zuZthgEkn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Glimmer of Blooms",
+          "url": "https://open.spotify.com/artist/5Ha7OvvalK4moJei0zEKg6"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199153,
+      "name": "My Head (Can\u2019t Get You Out)",
+      "url": "https://open.spotify.com/track/6CVSPw8cDb8gtv2w9lZAPB"
+    },
+    {
+      "album": {
+        "name": "My Life Is Going On (Remix Version)",
+        "url": "https://open.spotify.com/album/6er2OMGxSPeZQMp9b1eADv"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Krull",
+          "url": "https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "WADD",
+          "url": "https://open.spotify.com/artist/1D8g0sSx3lKf9qZeFhYBku"
+        },
+        {
+          "name": "HOT-Q",
+          "url": "https://open.spotify.com/artist/6CO3icJe86W5FK3U73zyyR"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232205,
+      "name": "My Life Is Going On - Remix Version",
+      "url": "https://open.spotify.com/track/7ht7UcsH5dlcaFX5pMHycn"
+    },
+    {
+      "album": {
+        "name": "My Life Is Going On / La Casa de Papel (Alok, JetLag Music, HOT-Q e WADD Remix)",
+        "url": "https://open.spotify.com/album/2LVrN6m3Fo2GHM4HZVj1en"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Cecilia Krull",
+          "url": "https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8"
+        },
+        {
+          "name": "HOT-Q",
+          "url": "https://open.spotify.com/artist/6CO3icJe86W5FK3U73zyyR"
+        },
+        {
+          "name": "WADD",
+          "url": "https://open.spotify.com/artist/1D8g0sSx3lKf9qZeFhYBku"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232205,
+      "name": "My Life Is Going On / La Casa de Papel - Alok, JetLag Music, HOT-Q e WADD Remix",
+      "url": "https://open.spotify.com/track/51MuxTQJudvUASe91tzR4C"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/6nGQyyUsp3p4JOWvRCIKux"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184070,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/06ZpMjkNdIDKVf3mK29UiC"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1JhicJyEqq12ezmUwYJ5or"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184070,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1yzBGun3xDY7WpHOIP9nNp"
+    },
+    {
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/5WdbJyYhdrJ9iS7xUyfkzs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174001,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/4nraNqonMyfc0U3o8VeXVu"
+    },
+    {
+      "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie) [Alok Remix]",
+        "url": "https://open.spotify.com/album/4FoMXPUZRhvuriRNTwyDwI"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie) - Alok Remix",
+      "url": "https://open.spotify.com/track/467dsBV8ZGP7Lz1GMZjoaF"
+    },
+    {
+      "album": {
+        "name": "Over Again",
+        "url": "https://open.spotify.com/album/3yvIAGFouolgRJTItuv3br"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159458,
+      "name": "Over Again",
+      "url": "https://open.spotify.com/track/00U3nGjoxrqX04GvjiypUz"
+    },
+    {
+      "album": {
+        "name": "Party Never Ends",
+        "url": "https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Party Never Ends",
+      "url": "https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x"
+    },
+    {
+      "album": {
+        "name": "Party On My Own",
+        "url": "https://open.spotify.com/album/1NntTMz0L8e1Cc9U44UPLb"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 146500,
+      "name": "Party On My Own",
+      "url": "https://open.spotify.com/track/49ifZncZRGpqKqx3B3DoSO"
+    },
+    {
+      "album": {
+        "name": "Party On My Own (feat. FAULHABER)",
+        "url": "https://open.spotify.com/album/0KyVN9LjYo0ASG1ibiShht"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146500,
+      "name": "Party On My Own (feat. FAULHABER)",
+      "url": "https://open.spotify.com/track/4c9Py6O1NeuYKbJ8Ok7mTl"
+    },
+    {
+      "album": {
+        "name": "Party On My Own (feat. FAULHABER) [VIP Mix]",
+        "url": "https://open.spotify.com/album/6q1ioc7uSSsGa6ccF5ysYY"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "FAULHABER",
+          "url": "https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199791,
+      "name": "Party On My Own (feat. FAULHABER) - VIP Mix",
+      "url": "https://open.spotify.com/track/3Yck3VLpQ9pBnOgmubSJ8O"
+    },
+    {
+      "album": {
+        "name": "Physical (Alok Remix)",
+        "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Physical - Alok Remix",
+      "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "album": {
+        "name": "Piece Of Your Heart (Alok Remix)",
+        "url": "https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Piece Of Your Heart - Alok Remix",
+      "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/7Lot6c8rqaZdDeeAIL6KM5"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/0CNxWAkG4ysu9Z3eCfknWK"
+    },
+    {
+      "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/4lyMqsR3T6SEFEgqzOHgMu"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Daniel Blume",
+          "url": "https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166451,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/5Q8uxf5IIGcvB18tRXu0Rp"
+    },
+    {
+      "album": {
+        "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
+        "url": "https://open.spotify.com/album/2ITE6WwNqWTiLkPiAa8YV3"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
+      "url": "https://open.spotify.com/track/3eedpY1EF6yMfEyqkcdak0"
+    },
+    {
+      "album": {
+        "name": "ALL WE HAVE IS N:OW",
+        "url": "https://open.spotify.com/album/7keB6Min15oq3l7AUmHDX1"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 158000,
+      "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
+      "url": "https://open.spotify.com/track/45qQ4VQkG5MVbFJZXOMSs6"
+    },
+    {
+      "album": {
+        "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
+        "url": "https://open.spotify.com/album/4z6ifv13aOXoOJnGB9RRuu"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158000,
+      "name": "Reunion (Free Fire 4th Anniversary Theme Song) [with Alok & Zafrir]",
+      "url": "https://open.spotify.com/track/6wLPoBmMtM0uT9WD5aKVtB"
+    },
+    {
+      "album": {
+        "name": "Right Here (Alok Remix)",
+        "url": "https://open.spotify.com/album/6bGugWyc58M7pv8VUEV3yV"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Right Here - Alok Remix",
+      "url": "https://open.spotify.com/track/4hmhWjYjHszUdYzeUpYCUs"
+    },
+    {
+      "album": {
+        "name": "Run Into Trouble",
+        "url": "https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182564,
+      "name": "Run Into Trouble",
+      "url": "https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy"
+    },
+    {
+      "album": {
+        "name": "Deeper EP",
+        "url": "https://open.spotify.com/album/6C0ooONb4IUWci4RXwQJAw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "MAGNUS",
+          "url": "https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195483,
+      "name": "See You There (feat. MAGNUS)",
+      "url": "https://open.spotify.com/track/3FpOx5puPuaX1TAkjsbEoA"
+    },
+    {
+      "album": {
+        "name": "Shivers (Alok Remix)",
+        "url": "https://open.spotify.com/album/6cgj2takjXRiUbUcjvbVZO"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Shivers - Alok Remix",
+      "url": "https://open.spotify.com/track/2W5n5YsWKPy3kw3yMb4qh0"
+    },
+    {
+      "album": {
+        "name": "Si Tu Vuelas (Hadal Ahbek [Alok Remix])",
+        "url": "https://open.spotify.com/album/0pA2mN8037NNpW8L7YKsqM"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197550,
+      "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
+      "url": "https://open.spotify.com/track/1aRK0rvz0Wyt2MdR7BnfMH"
+    },
+    {
+      "album": {
+        "name": "Side Effect (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/7DCosam3gp0TJXArI597bT"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144193,
+      "name": "Side Effect (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/4oGo7473OiyYAxpx4UpCIR"
+    },
+    {
+      "album": {
+        "name": "Side Effect (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/3zZfGVDKje9EiK2q4pki53"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144193,
+      "name": "Side Effect (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/4op0sQ8BfzRsW4gGGlR7TU"
+    },
+    {
+      "album": {
+        "name": "Sky High (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/1rJPJMJSw8OigDeS1buLcj"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 134500,
+      "name": "Sky High (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/400WptNm7JLz4CbEvHCtMe"
+    },
+    {
+      "album": {
+        "name": "Sky High (feat. Non\u00f4)",
+        "url": "https://open.spotify.com/album/3vtdsgEmhYh46FzlQLzXWF"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Non\u00f4",
+          "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Sky High (feat. Non\u00f4)",
+      "url": "https://open.spotify.com/track/6yHR35fYbMEaDz2or8YsH1"
+    },
+    {
+      "album": {
+        "name": "New Global Hot Hits Vol. 2",
+        "url": "https://open.spotify.com/album/47niadFzI3wflB8Bx7Bvr6"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/2vwfgGB6OuRqmRZA6QB3Ym"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/44PmiYzFsLXaXSzMZaRZQc"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/3kewDExeHWRPVAUzYd1lTG"
+    },
+    {
+      "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152380,
+      "name": "Squid Game (Let's Play)",
+      "url": "https://open.spotify.com/track/75pquWTQ3292AqzMsaik85"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/0XZcnB9MB1WLcfbHucBryb"
+    },
+    {
+      "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/4dTRTGMiV1kR5v4LJMyz8m"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/0Zst3tJ1WhBLfmISlV9JKZ"
+    },
+    {
+      "album": {
+        "name": "Sunglasses At Night",
+        "url": "https://open.spotify.com/album/2RjNrAtCnOrtBYgVBtOTHY"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Hollaphonic",
+          "url": "https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 155000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/3mcazXNhaAdymoRqJvAai6"
+    },
+    {
+      "album": {
+        "name": "Sweet Dreams (feat. Imanbek) [Remixes]",
+        "url": "https://open.spotify.com/album/5LKrGd8oU56PLe793imghr"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Sweet Dreams (feat. Imanbek) - With Alok",
+      "url": "https://open.spotify.com/track/5mnidOH84oGj82xBcypP2j"
+    },
+    {
+      "album": {
+        "name": "Symphonia",
+        "url": "https://open.spotify.com/album/45uRcbQLOKGANqzLrkkYaD"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164812,
+      "name": "Symphonia",
+      "url": "https://open.spotify.com/track/4sdMRMJdBpVdHs3Aq29P87"
+    },
+    {
+      "album": {
+        "name": "Table For 2",
+        "url": "https://open.spotify.com/album/3eH0FdLqQtwQepYe6PazQw"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "iRO",
+          "url": "https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176283,
+      "name": "Table For 2",
+      "url": "https://open.spotify.com/track/11xOwUHV7P1q7UpEQuMIrx"
+    },
+    {
+      "album": {
+        "name": "Te Bot\u00e9",
+        "url": "https://open.spotify.com/album/24tx57L8SkaN4SPUattbZI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Axel Cooper",
+          "url": "https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI"
+        },
+        {
+          "name": "Stefy De Cicco",
+          "url": "https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Te Bot\u00e9",
+      "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/08abjipelIFw9qL9SpusZn"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/3pxgCftwF14lNFHeEBqYyv"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 129500,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/4L5kqlFCjwbRSS2VFlrq9v"
+    },
+    {
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/2GtLb9jtOONDLOyoquo7ug"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 129500,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/4yyjp7Ujqsw5NtZXZEbXoQ"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/5n7MSjhgbvRAEHvVvVHN29"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161951,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/1UAi9ezb5HH3GPP8b8X9t4"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/1R2C7EG1sDRGnKSxGmLU4o"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/36C0Gw2RmYWy5aEpMPaQ0e"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why (VIP Mix)",
+        "url": "https://open.spotify.com/album/0AkevggrGc8ijv633pPODM"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158333,
+      "name": "Tell Me Why - VIP Mix",
+      "url": "https://open.spotify.com/track/0meX6eoFnu7M75TqO8z2lx"
+    },
+    {
+      "album": {
+        "name": "Tell Me Why (Vip Mix)",
+        "url": "https://open.spotify.com/album/73alePbM4Zpf0b48hPv4Iz"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 158333,
+      "name": "Tell Me Why - Vip Mix",
+      "url": "https://open.spotify.com/track/7MPKkYCc48RiQec37FY1Ge"
+    },
+    {
+      "album": {
+        "name": "That's My Way (Alok Remix)",
+        "url": "https://open.spotify.com/album/4fL78NnjnPLQ7K2Qeo8OEY"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295081,
+      "name": "That's My Way - Alok Remix",
+      "url": "https://open.spotify.com/track/2SeevfUUQlLq6HNaJ07Vda"
+    },
+    {
+      "album": {
+        "name": "That's My Way (Alok Remix)",
+        "url": "https://open.spotify.com/album/0yjyJAPuOwoxk1YY3myG40"
+      },
+      "artists": [
+        {
+          "name": "Edi Rock",
+          "url": "https://open.spotify.com/artist/2fYAyTS2erZgqEHKHYqgi2"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295081,
+      "name": "That's My Way - Alok Remix",
+      "url": "https://open.spotify.com/track/6e6Q8NQHv2xBhl5zU9DZFn"
+    },
+    {
+      "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
+    },
+    {
+      "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/1a5zRROlgNBwPC8rcci6Aj"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/17iyulZlFT09oivJZEvIpW"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/4w68G9ohlk8eiePpr3Dd4a"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/0Qp1IH1EkRCNabfgzxNMUT"
+    },
+    {
+      "album": {
+        "name": "The Wall",
+        "url": "https://open.spotify.com/album/0hH9tb1b4Z87g7SHmnriKa"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Sevenn",
+          "url": "https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159500,
+      "name": "The Wall",
+      "url": "https://open.spotify.com/track/2Dnb6yPGUq0vmGtxzm3bwi"
+    },
+    {
+      "album": {
+        "name": "Alok presents Brazilian Bass - Part 1",
+        "url": "https://open.spotify.com/album/2Sm32GiSQujIZI3HtAQQWq"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stonefox",
+          "url": "https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219692,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/0hPI50BO2ExTbGCg6RhX21"
+    },
+    {
+      "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Stonefox",
+          "url": "https://open.spotify.com/artist/3lQvg5w1PYUH7HzcbTBsLu"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3mggb9ShBvXJBXCY2RfCUs"
+    },
+    {
+      "album": {
+        "name": "Typical (feat. Lars Martin)",
+        "url": "https://open.spotify.com/album/0IGbfr3QRfclnJh2VvhN9Z"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "date_added": "2021-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/0ov3zuZGNe3LTTKseNnIPX"
+    },
+    {
+      "album": {
+        "name": "Typical (feat. Lars Martin)",
+        "url": "https://open.spotify.com/album/4ZgHHCDZ6YI1iZ9L8xzrB4"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/0zbCQ5BMhpFfKWcpEuzqVd"
+    },
+    {
+      "album": {
+        "name": "Annual 2021",
+        "url": "https://open.spotify.com/album/66cSCYHzE9eWbgtICJ7ceI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Lars Martin",
+          "url": "https://open.spotify.com/artist/22GWBRw4EYd2qGvzDqzxXO"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 141312,
+      "name": "Typical (feat. Lars Martin)",
+      "url": "https://open.spotify.com/track/2MsRkqapim4BgxBRqPAIob"
+    },
+    {
+      "album": {
+        "name": "Un Ratito",
+        "url": "https://open.spotify.com/album/32dHZEMDKiq0pAGnPgwn2B"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Juliette",
+          "url": "https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194906,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/7m4EYPEEFkhI5aEsM5Tgo0"
+    },
+    {
+      "album": {
+        "name": "Underwater Love (LA Vision Remix)",
+        "url": "https://open.spotify.com/album/7IOfwlk4gUZr26A5DEZVFf"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "LA Vision",
+          "url": "https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 148000,
+      "name": "Underwater Love (LA Vision Remix)",
+      "url": "https://open.spotify.com/track/7kZTobj3Gi2CO83vGBe2FQ"
+    },
+    {
+      "album": {
+        "name": "Underwater Love (LA Vision Remix)",
+        "url": "https://open.spotify.com/album/4e4pBkcRCWIglczNdKYr8k"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "LA Vision",
+          "url": "https://open.spotify.com/artist/02qlwM8fpqep7vX8KKEFmK"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Underwater Love - LA Vision Remix",
+      "url": "https://open.spotify.com/track/7L2lhosR2K7iBRb2yiTVRV"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/0qWkaODQn1EElV40ExhpYW"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217391,
+      "name": "United",
+      "url": "https://open.spotify.com/track/4pBykn8eWxl3O9JvIHZXj4"
+    },
+    {
+      "album": {
+        "name": "Vale Vale",
+        "url": "https://open.spotify.com/album/2llEFasK0tmnuR08L2zlYs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193432,
+      "name": "Vale Vale",
+      "url": "https://open.spotify.com/track/0sfgF2kM3yrZbkLmAbjSo6"
+    },
+    {
+      "album": {
+        "name": "Vale Vale",
+        "url": "https://open.spotify.com/album/3GS5dFB95PQMqwu0Gl4qhJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zafrir",
+          "url": "https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193432,
+      "name": "Vale Vale",
+      "url": "https://open.spotify.com/track/3bTjd1iQJvsfIoH8v7A0Gy"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin)",
+        "url": "https://open.spotify.com/album/7pISC7Gh6pNbNLPgv4PToV"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200163,
+      "name": "Wherever You Go (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2AxWgWJarJxOdU9C2T85yR"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin)",
+        "url": "https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200163,
+      "name": "Wherever You Go (feat. John Martin)",
+      "url": "https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) [Alan Walker Remix]",
+        "url": "https://open.spotify.com/album/4UKRnLgsxEQY5fsv1w3uHJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 200163,
+      "name": "Wherever You Go (feat. John Martin)",
+      "url": "https://open.spotify.com/track/3fCkaVpL9bGPWh5DdyR5Gq"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) [Alan Walker Remix]",
+        "url": "https://open.spotify.com/album/4UKRnLgsxEQY5fsv1w3uHJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "Wherever You Go (feat. John Martin) - Alan Walker Remix",
+      "url": "https://open.spotify.com/track/6U3aDkgAkEfd6Rfhq5U3MA"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) [Alle Farben Remix]",
+        "url": "https://open.spotify.com/album/65DHvkWSKfgSzw0xd8VF8h"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204402,
+      "name": "Wherever You Go (feat. John Martin) - Alle Farben Remix",
+      "url": "https://open.spotify.com/track/7jRnSGpjJcnwiLY4QMChzp"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) [Alan Walker Remix]",
+        "url": "https://open.spotify.com/album/4rn3aNUPv1cggzCQqHdaCp"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196721,
+      "name": "Wherever You Go (feat. John Martin) [Alan Walker Remix]",
+      "url": "https://open.spotify.com/track/6McS3EupXFAjaPdhziFjk7"
+    },
+    {
+      "album": {
+        "name": "Wherever You Go (feat. John Martin) [Alle Farben Remix]",
+        "url": "https://open.spotify.com/album/2FuG2kQ25n1AEbSTAH8cBq"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204402,
+      "name": "Wherever You Go (feat. John Martin) [Alle Farben Remix]",
+      "url": "https://open.spotify.com/track/4r6ndOoKApeKBXx9BB4VVA"
+    },
+    {
+      "album": {
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZUWZIwpqsT3"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 
 > El Top 50 de canciones en Instagram Reels, actualizado cada semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,030 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,332 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 30 | [La Víctima](https://open.spotify.com/track/5XVdHRf4CAJ2Jm0uMIy5qY) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Víctima](https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr) | 2:36 |
 | 31 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 32 | [ANGEL](https://open.spotify.com/track/33pO82v2czlYe19jpx6ENI) | [Toby Mai](https://open.spotify.com/artist/71XRExAcKFmzM0fckCrCvo) | [ANGEL](https://open.spotify.com/album/3kLcgy3mj53vQ284PvX4gV) | 2:30 |
-| 33 | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/track/1Zhzqwu4w6h9OrFJDK9AUQ) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC TH](https://open.spotify.com/artist/3F1443WJZgYSDywzIDYSBr), [Mc Cyclope](https://open.spotify.com/artist/3xIDIb8awFTVp48OtoKEAW) | [MONTAGEM CORAL \(feat\. Mc Cyclope\)](https://open.spotify.com/album/6okX6RHMDNrISnibgpclju) | 2:25 |
+| 33 | [Montagem Coral](https://open.spotify.com/track/7o5n1CDIYYM3f979LbsMr3) | [loera](https://open.spotify.com/artist/7gSVrCt5LUSUjTRGf2qIlX), [ZETH INC.](https://open.spotify.com/artist/6CH6yCwls8JUmh0J4tKdxj), [Flexyz](https://open.spotify.com/artist/7b1fbUqnT4rGuWLNK8aQDI) | [Montagem Coral](https://open.spotify.com/album/4qYv01PwTelamkcX0aqoYS) | 2:25 |
 | 34 | [Trendsetter](https://open.spotify.com/track/09VW2o6EHSWwzCdhW4ARU1) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Haviah Mighty](https://open.spotify.com/artist/3UROQ34SGxV7h71Z3Gqp8u) | [Trendsetter](https://open.spotify.com/album/1Hxam85Bhf98cIkMRKX9QA) | 2:22 |
 | 35 | [Heartbeat](https://open.spotify.com/track/5y3M0g9NeTe4YKc0uBvVX1) | [Nitecore](https://open.spotify.com/artist/485ejjccNSGYlOTuNc0AN0) | [Heartbeat](https://open.spotify.com/album/5pqtjzO6DNDeDGKFlTUyhW) | 2:27 |
 | 36 | [Out of My League \- Sped Up](https://open.spotify.com/track/4y7SaFjgZMbTOxK833yJKd) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Out of My League Collection](https://open.spotify.com/album/0NeVF3Nalvj9MXdNIlYbjh) | 2:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pYgLUl85GP.md) - [plain]
 | 47 | [Christmas Vibes](https://open.spotify.com/track/6Wut5M7Af14UTbT3nKde1M) | [Crazy Fox](https://open.spotify.com/artist/0Zzs6tTHRHMXV4otAYXaK0) | [Christmas Vibes](https://open.spotify.com/album/5Bj7r0zDc5JgCfZXXR8zb9) | 1:13 |
 | 48 | [Magical Fantasy](https://open.spotify.com/track/7HJv3cUOGwU1I2EDWYUCdS) | [Dmitriy Sevostyanov](https://open.spotify.com/artist/2EjhIBhwDZiastNGvRR0iN) | [Magical Fantasy](https://open.spotify.com/album/2DuvGdw9GE5lL2cRul3Rk2) | 2:08 |
 | 49 | [Tiempo](https://open.spotify.com/track/0roHxvWUsTnrKQDTXKXGwZ) | [Tony Dark Eyes](https://open.spotify.com/artist/3aJBHJUwHkjkGQ4zkG93HP), [Sofia Rød](https://open.spotify.com/artist/1DKDOfgZ1sBbOQwXfPKOHN) | [Tiempo](https://open.spotify.com/album/67t8LdykkpoG6o7nmjmzuv) | 4:01 |
-| 50 | [Little Life](https://open.spotify.com/track/3MBWR1rqc72QGiFIaOpKv6) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/0GgcxG8Xq5qN3rcYvjqzF0) | 4:30 |
+| 50 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
 
-Snapshot ID: `MCw5Yzk5OTc3M2NlYzk4OTczODk1YWZkMDgxOTViMGIzMzI1ZWQzNGQx`
+Snapshot ID: `MCxlZWNhMmQ2NDRjNDZhNTJkZjM5ZWFlMzg3ZGFlMDg3MTFjNDg4OWQ1`

@@ -4,7 +4,7 @@
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-85 songs - 5 hr 55 min
+86 songs - 5 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [End Of The World](https://open.spotify.com/track/7MMfLNp2UYwj9jMWi6elal) | [Great Big Sea](https://open.spotify.com/artist/0GxOdKrtD5oUmQROcCs8M4) | [Play](https://open.spotify.com/album/5QuBHgoCMFaH1Jlp3HcTe2) | 2:45 | 2021-09-21 | 2023-07-10 |
 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 | 2020-10-29\* |  |
 | [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/3yBWPiXqbEOCr4cWmczG79) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Famous Rich and Beautiful](https://open.spotify.com/album/5HfNnVRmm1ImVThtfrfNUS) | 5:21 | 2020-10-29\* | 2022-07-29 |
-| [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Four Hits: The Philosopher Kings](https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb) | 5:21 | 2021-09-21 |  |
+| [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Four Hits: The Philosopher Kings](https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb) | 5:21 | 2021-09-21 | 2024-01-04 |
 | [I Don't Want To Think About It](https://open.spotify.com/track/0mLzR7UE4so9fUfi3MX3rf) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/3TwFXy7ldbkDmSC9EiUTcB) | 3:46 | 2021-09-21 |  |
 | [I Don't Want to Think About It](https://open.spotify.com/track/5qYkPxkYVbzMRnHApgTxFt) | [Wild Strawberries](https://open.spotify.com/artist/7ljHszidUrPozzc2HtsL3y) | [Heroine](https://open.spotify.com/album/558Yz0cyPe3qKQOhDz3mTV) | 3:46 | 2020-10-29\* | 2022-07-29 |
 | [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2020-10-29\* |  |
@@ -67,6 +67,7 @@
 | [Someone Who's Cool](https://open.spotify.com/track/1g8ubxSaVpjtPm90fE77oz) | [Odds](https://open.spotify.com/artist/1MVQ4bbrG5VdRyozjajZQp), [Mixed by Steven Drake with other Odds](https://open.spotify.com/artist/5HS2kOCWsYhB2BxDM9k0iH) | [Nest](https://open.spotify.com/album/3bosHaEpGeWKUMTwAtVKUU) | 3:17 | 2020-10-29\* |  |
 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 | 2020-10-29\* |  |
 | [Spaceman](https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I Bificus](https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps) | 4:21 | 2020-10-29\* | 2022-12-24 |
+| [Spaceman \(2023 Remastered Version\)](https://open.spotify.com/track/3nf3FN7MRLuZDjQxcEwWxU) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I,Bificus XXV Anniversary \(2023 Remastered Version\)](https://open.spotify.com/album/1QOhDrMqusjS4aBYoO7Lig) | 4:21 | 2021-09-21 |  |
 | [Squeeze Toy](https://open.spotify.com/track/5IVckL0RmYTjMzazIUBp0J) | [The Boomtang Boys](https://open.spotify.com/artist/5x2uSbE1afrYyEUD0GqNmT), [Kim Esty](https://open.spotify.com/artist/0WHRMUndMVIszj5fSeLdiK) | [Greatest Hits Volume One](https://open.spotify.com/album/4oKWaqi2tkfhBZiA4dNVwK) | 3:39 | 2020-10-29\* |  |
 | [Steal My Sunshine \- Remastered Version](https://open.spotify.com/track/6tsMn9okxcLBklFQ2Sc8Ar) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine \(Remixes, Vol\. 1\)](https://open.spotify.com/album/00nBnX92FEffzDHV1e84FL) | 3:31 | 2020-10-29\* |  |
 | [Sucks To Be You](https://open.spotify.com/track/2vc1zvxODjpoUrxGdLPLIv) | [Prozzak](https://open.spotify.com/artist/0xJDpKj8NVkSRawbaxRF6q) | [Hot Show](https://open.spotify.com/album/0FxSVyJ7d9BTddJfekVzpz) | 3:21 | 2021-09-21 |  |

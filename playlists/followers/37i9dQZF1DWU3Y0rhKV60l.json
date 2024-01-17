@@ -1,392 +1,1377 @@
 {
-  "2022-12-06": 1,
-  "2022-12-07": 19,
-  "2022-12-08": 36,
-  "2022-12-09": 68,
-  "2022-12-10": 89,
-  "2022-12-11": 112,
-  "2022-12-12": 143,
-  "2022-12-13": 181,
-  "2022-12-14": 218,
-  "2022-12-15": 248,
-  "2022-12-16": 265,
-  "2022-12-17": 280,
-  "2022-12-18": 306,
-  "2022-12-19": 334,
-  "2022-12-20": 381,
-  "2022-12-21": 381,
-  "2022-12-22": 412,
-  "2022-12-24": 464,
-  "2022-12-25": 472,
-  "2022-12-26": 488,
-  "2022-12-27": 531,
-  "2022-12-28": 573,
-  "2022-12-29": 616,
-  "2022-12-30": 673,
-  "2022-12-31": 714,
-  "2023-01-01": 730,
-  "2023-01-02": 764,
-  "2023-01-03": 816,
-  "2023-01-04": 847,
-  "2023-01-05": 878,
-  "2023-01-06": 929,
-  "2023-01-07": 973,
-  "2023-01-08": 988,
-  "2023-01-09": 1027,
-  "2023-01-10": 1050,
-  "2023-01-11": 1091,
-  "2023-01-12": 1116,
-  "2023-01-13": 1151,
-  "2023-01-14": 1211,
-  "2023-01-15": 1228,
-  "2023-01-16": 1258,
-  "2023-01-17": 1282,
-  "2023-01-18": 1313,
-  "2023-01-19": 1354,
-  "2023-01-20": 1406,
-  "2023-01-21": 1459,
-  "2023-01-22": 1511,
-  "2023-01-23": 1559,
-  "2023-01-24": 1623,
-  "2023-01-25": 1688,
-  "2023-01-26": 1741,
-  "2023-01-27": 1789,
-  "2023-01-28": 1825,
-  "2023-01-29": 1877,
-  "2023-01-30": 1922,
-  "2023-01-31": 1922,
-  "2023-02-01": 2018,
-  "2023-02-02": 2075,
-  "2023-02-03": 2120,
-  "2023-02-04": 2161,
-  "2023-02-05": 2211,
-  "2023-02-06": 2261,
-  "2023-02-07": 2297,
-  "2023-02-08": 2368,
-  "2023-02-09": 2368,
-  "2023-02-10": 2407,
-  "2023-02-11": 2437,
-  "2023-02-12": 2492,
-  "2023-02-13": 2528,
-  "2023-02-14": 2528,
-  "2023-02-15": 2566,
-  "2023-02-16": 2602,
-  "2023-02-17": 2663,
-  "2023-02-18": 2740,
-  "2023-02-19": 2751,
-  "2023-02-20": 2781,
-  "2023-02-21": 2842,
-  "2023-02-22": 2903,
-  "2023-02-23": 2973,
-  "2023-02-24": 3041,
-  "2023-02-25": 3092,
-  "2023-02-26": 3107,
-  "2023-02-27": 3208,
-  "2023-02-28": 3208,
-  "2023-03-01": 3245,
-  "2023-03-02": 3301,
-  "2023-03-03": 3350,
-  "2023-03-04": 3377,
-  "2023-03-05": 3455,
-  "2023-03-06": 3455,
-  "2023-03-07": 3491,
-  "2023-03-08": 3521,
-  "2023-03-09": 3556,
-  "2023-03-10": 3604,
-  "2023-03-11": 3639,
-  "2023-03-12": 3671,
-  "2023-03-13": 3708,
-  "2023-03-14": 3736,
-  "2023-03-15": 3770,
-  "2023-03-16": 3817,
-  "2023-03-17": 3817,
-  "2023-03-18": 3903,
-  "2023-03-19": 3935,
-  "2023-03-20": 3973,
-  "2023-03-21": 4023,
-  "2023-03-22": 4065,
-  "2023-03-23": 4105,
-  "2023-03-24": 4105,
-  "2023-03-25": 4174,
-  "2023-03-26": 4193,
-  "2023-03-27": 4219,
-  "2023-03-28": 4267,
-  "2023-03-29": 4303,
-  "2023-03-30": 4362,
-  "2023-03-31": 4362,
-  "2023-04-01": 4392,
-  "2023-04-02": 4424,
-  "2023-04-03": 4443,
-  "2023-04-04": 4469,
-  "2023-04-05": 4503,
-  "2023-04-06": 4531,
-  "2023-04-07": 4562,
-  "2023-04-09": 4622,
-  "2023-04-10": 4645,
-  "2023-04-11": 4718,
-  "2023-04-12": 4718,
-  "2023-04-13": 4746,
-  "2023-04-14": 4777,
-  "2023-04-15": 4802,
-  "2023-04-16": 4841,
-  "2023-04-17": 4860,
-  "2023-04-18": 4887,
-  "2023-04-19": 4913,
-  "2023-04-20": 4954,
-  "2023-04-21": 4985,
-  "2023-04-22": 5014,
-  "2023-04-23": 5036,
-  "2023-04-24": 5069,
-  "2023-04-25": 5108,
-  "2023-04-26": 5146,
-  "2023-04-27": 5170,
-  "2023-04-28": 5206,
-  "2023-04-29": 5236,
-  "2023-04-30": 5266,
-  "2023-05-01": 5298,
-  "2023-05-02": 5332,
-  "2023-05-03": 5356,
-  "2023-05-04": 5384,
-  "2023-05-05": 5407,
-  "2023-05-06": 5424,
-  "2023-05-07": 5444,
-  "2023-05-08": 5487,
-  "2023-05-09": 5509,
-  "2023-05-10": 5539,
-  "2023-05-11": 5563,
-  "2023-05-12": 5592,
-  "2023-05-13": 5617,
-  "2023-05-14": 5653,
-  "2023-05-15": 5692,
-  "2023-05-16": 5717,
-  "2023-05-17": 5742,
-  "2023-05-18": 5777,
-  "2023-05-19": 5806,
-  "2023-05-20": 5851,
-  "2023-05-21": 5851,
-  "2023-05-22": 5851,
-  "2023-05-23": 5904,
-  "2023-05-24": 5930,
-  "2023-05-25": 5936,
-  "2023-05-26": 5955,
-  "2023-05-27": 5974,
-  "2023-05-28": 5994,
-  "2023-05-29": 5994,
-  "2023-05-30": 6028,
-  "2023-05-31": 6043,
-  "2023-06-01": 6064,
-  "2023-06-02": 6077,
-  "2023-06-03": 6093,
-  "2023-06-04": 6100,
-  "2023-06-05": 6122,
-  "2023-06-06": 6128,
-  "2023-06-07": 6138,
-  "2023-06-08": 6147,
-  "2023-06-09": 6171,
-  "2023-06-10": 6183,
-  "2023-06-11": 6204,
-  "2023-06-12": 6214,
-  "2023-06-13": 6222,
-  "2023-06-14": 6222,
-  "2023-06-15": 6256,
-  "2023-06-16": 6270,
-  "2023-06-17": 6279,
-  "2023-06-18": 6289,
-  "2023-06-19": 6303,
-  "2023-06-20": 6326,
-  "2023-06-21": 6341,
-  "2023-06-22": 6358,
-  "2023-06-23": 6375,
-  "2023-06-24": 6382,
-  "2023-06-25": 6395,
-  "2023-06-26": 6410,
-  "2023-06-27": 6419,
-  "2023-06-28": 6433,
-  "2023-06-29": 6442,
-  "2023-06-30": 6452,
-  "2023-07-01": 6482,
-  "2023-07-02": 6482,
-  "2023-07-03": 6499,
-  "2023-07-04": 6512,
-  "2023-07-05": 6523,
-  "2023-07-06": 6543,
-  "2023-07-07": 6543,
-  "2023-07-08": 6548,
-  "2023-07-09": 6567,
-  "2023-07-10": 6584,
-  "2023-07-11": 6603,
-  "2023-07-12": 6614,
-  "2023-07-13": 6630,
-  "2023-07-14": 6637,
-  "2023-07-15": 6644,
-  "2023-07-16": 6656,
-  "2023-07-17": 6662,
-  "2023-07-18": 6675,
-  "2023-07-19": 6701,
-  "2023-07-20": 6723,
-  "2023-07-21": 6736,
-  "2023-07-22": 6759,
-  "2023-07-23": 6773,
-  "2023-07-24": 6783,
-  "2023-07-25": 6796,
-  "2023-07-26": 6816,
-  "2023-07-27": 6835,
-  "2023-07-28": 6851,
-  "2023-07-29": 6871,
-  "2023-07-30": 6885,
-  "2023-07-31": 6913,
-  "2023-08-01": 6945,
-  "2023-08-02": 6969,
-  "2023-08-03": 7007,
-  "2023-08-04": 7030,
-  "2023-08-05": 7053,
-  "2023-08-06": 7107,
-  "2023-08-07": 7107,
-  "2023-08-08": 7137,
-  "2023-08-09": 7162,
-  "2023-08-10": 7183,
-  "2023-08-11": 7211,
-  "2023-08-12": 7236,
-  "2023-08-13": 7255,
-  "2023-08-14": 7280,
-  "2023-08-15": 7335,
-  "2023-08-16": 7335,
-  "2023-08-17": 7366,
-  "2023-08-18": 7385,
-  "2023-08-19": 7403,
-  "2023-08-20": 7434,
-  "2023-08-21": 7459,
-  "2023-08-22": 7486,
-  "2023-08-23": 7505,
-  "2023-08-24": 7538,
-  "2023-08-25": 7568,
-  "2023-08-26": 7593,
-  "2023-08-27": 7641,
-  "2023-08-28": 7664,
-  "2023-08-29": 7702,
-  "2023-08-30": 7729,
-  "2023-08-31": 7750,
-  "2023-09-01": 7813,
-  "2023-09-02": 7813,
-  "2023-09-03": 7823,
-  "2023-09-04": 7848,
-  "2023-09-05": 7892,
-  "2023-09-06": 7926,
-  "2023-09-07": 7954,
-  "2023-09-08": 7997,
-  "2023-09-09": 8025,
-  "2023-09-10": 8053,
-  "2023-09-11": 8087,
-  "2023-09-12": 8121,
-  "2023-09-13": 8149,
-  "2023-09-14": 8176,
-  "2023-09-15": 8201,
-  "2023-09-16": 8233,
-  "2023-09-17": 8267,
-  "2023-09-18": 8316,
-  "2023-09-19": 8347,
-  "2023-09-20": 8380,
-  "2023-09-21": 8418,
-  "2023-09-22": 8456,
-  "2023-09-23": 8491,
-  "2023-09-24": 8508,
-  "2023-09-25": 8536,
-  "2023-09-26": 8570,
-  "2023-09-27": 8594,
-  "2023-09-28": 8622,
-  "2023-09-29": 8663,
-  "2023-09-30": 8695,
-  "2023-10-01": 8719,
-  "2023-10-02": 8754,
-  "2023-10-03": 8775,
-  "2023-10-04": 8791,
-  "2023-10-05": 8818,
-  "2023-10-06": 8838,
-  "2023-10-07": 8854,
-  "2023-10-08": 8874,
-  "2023-10-09": 8898,
-  "2023-10-10": 8925,
-  "2023-10-11": 8985,
-  "2023-10-12": 8985,
-  "2023-10-13": 9010,
-  "2023-10-14": 9034,
-  "2023-10-15": 9061,
-  "2023-10-16": 9084,
-  "2023-10-17": 9115,
-  "2023-10-18": 9149,
-  "2023-10-19": 9183,
-  "2023-10-20": 9204,
-  "2023-10-21": 9231,
-  "2023-10-22": 9256,
-  "2023-10-23": 9282,
-  "2023-10-24": 9325,
-  "2023-10-25": 9365,
-  "2023-10-26": 9394,
-  "2023-10-27": 9427,
-  "2023-10-28": 9464,
-  "2023-10-29": 9496,
-  "2023-10-30": 9546,
-  "2023-10-31": 9546,
-  "2023-11-01": 9564,
-  "2023-11-02": 9590,
-  "2023-11-03": 9618,
-  "2023-11-04": 9650,
-  "2023-11-05": 9678,
-  "2023-11-06": 9700,
-  "2023-11-07": 9732,
-  "2023-11-08": 9751,
-  "2023-11-09": 9781,
-  "2023-11-10": 9821,
-  "2023-11-11": 9846,
-  "2023-11-12": 9873,
-  "2023-11-13": 9894,
-  "2023-11-14": 9914,
-  "2023-11-15": 9914,
-  "2023-11-16": 9956,
-  "2023-11-17": 2008,
-  "2023-11-18": 2008,
-  "2023-11-19": 2008,
-  "2023-11-20": 2008,
-  "2023-11-21": 2008,
-  "2023-11-22": 2008,
-  "2023-11-23": 2008,
-  "2023-11-24": 2008,
-  "2023-11-25": 2008,
-  "2023-11-26": 2008,
-  "2023-11-27": 2008,
-  "2023-11-28": 2008,
-  "2023-11-29": 2008,
-  "2023-11-30": 2008,
-  "2023-12-01": 2008,
-  "2023-12-02": 2008,
-  "2023-12-03": 2008,
-  "2023-12-04": 2008,
-  "2023-12-05": 2008,
-  "2023-12-06": 2008,
-  "2023-12-07": 2008,
-  "2023-12-08": 2008,
-  "2023-12-09": 2008,
-  "2023-12-10": 2008,
-  "2023-12-11": 2008,
-  "2023-12-12": 2008,
-  "2023-12-13": 2008,
-  "2023-12-14": 2008,
-  "2023-12-15": 2008,
-  "2023-12-16": 2008,
-  "2023-12-17": 2008,
-  "2023-12-18": 2008,
-  "2023-12-19": 2008,
-  "2023-12-20": 2008,
-  "2023-12-21": 2008,
-  "2023-12-22": 2008,
-  "2023-12-23": 2008,
-  "2023-12-24": 2008,
-  "2023-12-25": 2008,
-  "2023-12-26": 2008,
-  "2023-12-27": 2008,
-  "2023-12-30": 2008,
-  "2023-12-31": 2008,
-  "2024-01-01": 2008,
-  "2024-01-02": 2008,
-  "2024-01-03": 2008
+  "2024-01-17": 2008,
+  "date_first_scraped": "2022-12-06",
+  "description": "Keep your focus and drown out distracting sounds with white noise from the oceans.",
+  "name": "White Waves",
+  "tracks": [
+    {
+      "album": {
+        "name": "Andaman",
+        "url": "https://open.spotify.com/album/2AAemFxPrKRqlTWYdzsEKN"
+      },
+      "artists": [
+        {
+          "name": "Moon Samples",
+          "url": "https://open.spotify.com/artist/63ziOZ0VIIvzFR5G3RTaRw"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121709,
+      "name": "Andaman Ocean Sounds",
+      "url": "https://open.spotify.com/track/1frIGFGHFJkJW70E5dMBWq"
+    },
+    {
+      "album": {
+        "name": "Coastal Clifftop Waves",
+        "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250464,
+      "name": "Bali Beach Waves",
+      "url": "https://open.spotify.com/track/6AiS3Vw8NbfUvrgbMeRC1V"
+    },
+    {
+      "album": {
+        "name": "Ocean Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175750,
+      "name": "Baltic Ocean Wave Sounds",
+      "url": "https://open.spotify.com/track/01Q7qJ90WP59CceunoiD7B"
+    },
+    {
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
+      },
+      "artists": [
+        {
+          "name": "Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Beautiful Waves",
+      "url": "https://open.spotify.com/track/4CwIqumGqAoLU68O1Q0Amm"
+    },
+    {
+      "album": {
+        "name": "Windy Beach",
+        "url": "https://open.spotify.com/album/5aENLHyxg8CXD3WHtUjIrL"
+      },
+      "artists": [
+        {
+          "name": "Beach Wave Explosion",
+          "url": "https://open.spotify.com/artist/1DNNwqmuY6iopjc3F9uLLN"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190403,
+      "name": "Big Waves",
+      "url": "https://open.spotify.com/track/4LMB7JZy59tKfOkqAmnd8W"
+    },
+    {
+      "album": {
+        "name": "Brain Waves Ocean Sounds",
+        "url": "https://open.spotify.com/album/51mmFPq33EjPSn9SIGhWKU"
+      },
+      "artists": [
+        {
+          "name": "Brain Timbre",
+          "url": "https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Brain Waves Ocean Sounds",
+      "url": "https://open.spotify.com/track/46pmGWrth04JCva2F0yMDR"
+    },
+    {
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sounds FX",
+          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 113445,
+      "name": "Cabin By the Beach",
+      "url": "https://open.spotify.com/track/3K2s2zeGS5yWUAP5Y5IHf7"
+    },
+    {
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180777,
+      "name": "Calm Pouring Ocean",
+      "url": "https://open.spotify.com/track/6AiW2dz9mOgsZjsEKwAhIv"
+    },
+    {
+      "album": {
+        "name": "Calm Waves",
+        "url": "https://open.spotify.com/album/2cFzBWXywCjPKQ2PJAWHIM"
+      },
+      "artists": [
+        {
+          "name": "Outside HD Samples",
+          "url": "https://open.spotify.com/artist/0puqEYQUnviYjUyomzF5rJ"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138762,
+      "name": "Calm Waves pt. 3",
+      "url": "https://open.spotify.com/track/5UnPhb3mYd8wVudFPXbHzh"
+    },
+    {
+      "album": {
+        "name": "Coastal Clifftop Waves",
+        "url": "https://open.spotify.com/album/5zjuTmzWlK96s1zHSZSFoj"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187392,
+      "name": "Cave Mouth Tide",
+      "url": "https://open.spotify.com/track/4reNcBdaouUlAzAtVK5zgC"
+    },
+    {
+      "album": {
+        "name": "3D Audio Textures of Waves",
+        "url": "https://open.spotify.com/album/27CDKjjwubPm4ZAQVNqsPq"
+      },
+      "artists": [
+        {
+          "name": "Shaman",
+          "url": "https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280336,
+      "name": "Close to the Shores",
+      "url": "https://open.spotify.com/track/243lmQ66EFqpi10PJa5JU4"
+    },
+    {
+      "album": {
+        "name": "Crashing Ocean Waves",
+        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+      },
+      "artists": [
+        {
+          "name": "EarthMovies",
+          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Crashing Ocean Waves",
+      "url": "https://open.spotify.com/track/2Nyt4vYufF0RUrTSyDsRqu"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
+      },
+      "artists": [
+        {
+          "name": "Tailormade Ocean Waves",
+          "url": "https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 83053,
+      "name": "Daytona Beach Waves",
+      "url": "https://open.spotify.com/track/5bV68Ar7VlCSyDyTnAQsTD"
+    },
+    {
+      "album": {
+        "name": "Thunderous Ocean",
+        "url": "https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX"
+      },
+      "artists": [
+        {
+          "name": "Somnography",
+          "url": "https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "Deep And Beautiful - Seamless",
+      "url": "https://open.spotify.com/track/4GahIgDfF61wccryMGdTeu"
+    },
+    {
+      "album": {
+        "name": "Ocean Beach Samples",
+        "url": "https://open.spotify.com/album/0rp2448Xx1xBQrHCRGdlcX"
+      },
+      "artists": [
+        {
+          "name": "Michael Pole",
+          "url": "https://open.spotify.com/artist/5QOg8xdFwY9ttJgSXlp8Jk"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 102345,
+      "name": "Distant Waves",
+      "url": "https://open.spotify.com/track/4Ql30uKSojQ49MCRV7IMV5"
+    },
+    {
+      "album": {
+        "name": "Beside the sea",
+        "url": "https://open.spotify.com/album/5HvCBTCUytZGRUKKcsfdQ8"
+      },
+      "artists": [
+        {
+          "name": "D-Scartes",
+          "url": "https://open.spotify.com/artist/5Swuq3805bmBGZhWb6aPe3"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Fury of the waves",
+      "url": "https://open.spotify.com/track/1UgfZYJL9nhgR0TCUqgiNB"
+    },
+    {
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 115916,
+      "name": "Gentle Waves",
+      "url": "https://open.spotify.com/track/1Yq8mLKvdhdos3bkfNRBdC"
+    },
+    {
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/6ClrSFB0vSebj3ZjaPAVkF"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sounds FX",
+          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135445,
+      "name": "Hear the Distant Waves",
+      "url": "https://open.spotify.com/track/6HIWJ7OCiyShqeix9zAODH"
+    },
+    {
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 119374,
+      "name": "Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0AX42EvX4TiCnlEOf2Vm5G"
+    },
+    {
+      "album": {
+        "name": "Oceanic Samples",
+        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
+      },
+      "artists": [
+        {
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Heavy Oceans",
+      "url": "https://open.spotify.com/track/6ppTcmC9WC7sOhfNVwEhqK"
+    },
+    {
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134625,
+      "name": "Late Night Calm (Ocean)",
+      "url": "https://open.spotify.com/track/4F7mrKbhRNQq7DqB9azPPI"
+    },
+    {
+      "album": {
+        "name": "Luscious Waves",
+        "url": "https://open.spotify.com/album/4h9XHDPN6L0AFyomHKjis8"
+      },
+      "artists": [
+        {
+          "name": "Focus 365",
+          "url": "https://open.spotify.com/artist/3zMGPjG6X1Rw0JGeBOoEV2"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Luscious Waves",
+      "url": "https://open.spotify.com/track/7DuENdWAHfixMKYqEObGPx"
+    },
+    {
+      "album": {
+        "name": "Lush Waves",
+        "url": "https://open.spotify.com/album/3HsfMxvNvueXhO9PDqA7Oq"
+      },
+      "artists": [
+        {
+          "name": "Mindful Audio",
+          "url": "https://open.spotify.com/artist/5oCUHDy7fu07K8dPo2DMNP"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Lush Waves",
+      "url": "https://open.spotify.com/track/75hBeoFUIqCtkEnO2c1VKs"
+    },
+    {
+      "album": {
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279998,
+      "name": "Majestic Ocean",
+      "url": "https://open.spotify.com/track/1ocx24cg3X119MilyogyCd"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
+      },
+      "artists": [
+        {
+          "name": "Chill Bees",
+          "url": "https://open.spotify.com/artist/317OsNvmAmolBVu7dLWhhD"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143167,
+      "name": "Miami Beach Waves",
+      "url": "https://open.spotify.com/track/12Dq3g5lnKjg6sgtQITuUw"
+    },
+    {
+      "album": {
+        "name": "Sunday Night Waves",
+        "url": "https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs"
+      },
+      "artists": [
+        {
+          "name": "Microdynamic Recordings",
+          "url": "https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174345,
+      "name": "Misty Waves",
+      "url": "https://open.spotify.com/track/0NMm7e8hghkc45813KsWOn"
+    },
+    {
+      "album": {
+        "name": "Mystic Oceanic Haze",
+        "url": "https://open.spotify.com/album/4EMxafhgSM7uUpRc1cbhdL"
+      },
+      "artists": [
+        {
+          "name": "Dreams of Dreams",
+          "url": "https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128259,
+      "name": "Mystic Oceanic Haze",
+      "url": "https://open.spotify.com/track/4mcepi8rh6nRNNCGvKLR3i"
+    },
+    {
+      "album": {
+        "name": "Nature Sleep",
+        "url": "https://open.spotify.com/album/1yBIAR1qeElPKP6DjD4OBG"
+      },
+      "artists": [
+        {
+          "name": "Tailormade Ocean Waves",
+          "url": "https://open.spotify.com/artist/3OjEIMPj8o4suACoEANPly"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122380,
+      "name": "Naples Beach",
+      "url": "https://open.spotify.com/track/0P3wyNDU63zoKiqJmrQI7g"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves Indonesia",
+        "url": "https://open.spotify.com/album/6JPjDC6NKIFndVbzPEFeJv"
+      },
+      "artists": [
+        {
+          "name": "Natural Sound Escapes",
+          "url": "https://open.spotify.com/artist/14BvO4zkMab4WlRfbqv5cM"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175486,
+      "name": "Ocean Waves Indonesia",
+      "url": "https://open.spotify.com/track/1Vmc9mZYLSttBKyFC2E0dS"
+    },
+    {
+      "album": {
+        "name": "Soft Waves",
+        "url": "https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Noise",
+          "url": "https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122042,
+      "name": "Oceans Outside",
+      "url": "https://open.spotify.com/track/4ndb9Sv5pTIolY8Lt5jmSn"
+    },
+    {
+      "album": {
+        "name": "Oceanside Waves & Outer Channel Waves",
+        "url": "https://open.spotify.com/album/4xzchEzzhXDViDHdQXEhre"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Oceanside Waves",
+      "url": "https://open.spotify.com/track/1lvD3gzMjX7yHL8qfRHRch"
+    },
+    {
+      "album": {
+        "name": "On Formentera Island",
+        "url": "https://open.spotify.com/album/1TPKlNlIynyFcMZfKHFdLA"
+      },
+      "artists": [
+        {
+          "name": "Sundays By The Ocean",
+          "url": "https://open.spotify.com/artist/0zZl9VsforOKto9vF8ufLg"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 201688,
+      "name": "Playa Formentera Waves",
+      "url": "https://open.spotify.com/track/3PMiF1Df2XzFHSK6kkb0zx"
+    },
+    {
+      "album": {
+        "name": "Part One",
+        "url": "https://open.spotify.com/album/39zcjubfAiJRC0EbKtruol"
+      },
+      "artists": [
+        {
+          "name": "Exotic Wave Sounds",
+          "url": "https://open.spotify.com/artist/1kwv2ZDCeSTSoa9J88tN3N"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-28",
+      "duration_ms": 210000,
+      "name": "Powerful Waves",
+      "url": "https://open.spotify.com/track/3DqGnCwlU4RDBOdB2AExfv"
+    },
+    {
+      "album": {
+        "name": "Relax Waves",
+        "url": "https://open.spotify.com/album/6Qvj2A6BbHE0449Y6DD7Pf"
+      },
+      "artists": [
+        {
+          "name": "Factorial FX",
+          "url": "https://open.spotify.com/artist/16weRDppbG11cOcQQtKjFu"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 94000,
+      "name": "Relax Waves",
+      "url": "https://open.spotify.com/track/1TCKDptBmCHnGZ9cqGoBSZ"
+    },
+    {
+      "album": {
+        "name": "Sleep Sound Green Noise",
+        "url": "https://open.spotify.com/album/3mcbAYY05vqOQvEOQaZPnb"
+      },
+      "artists": [
+        {
+          "name": "Ilmium",
+          "url": "https://open.spotify.com/artist/3SkVjj0FTFiYQ0aLDTtxf8"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120374,
+      "name": "Relaxing Wave Sounds",
+      "url": "https://open.spotify.com/track/7sdoVOZWSmSJGZMqKUUsu5"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves for Sleep Volume 3",
+        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
+      },
+      "artists": [
+        {
+          "name": "Coast to Coast Recordings",
+          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222918,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/4u2hY8U7zkJWoPHYgVU0z9"
+    },
+    {
+      "album": {
+        "name": "Epic Waves - vol.1",
+        "url": "https://open.spotify.com/album/5TqNOa6TnRuY2tClFCGkS9"
+      },
+      "artists": [
+        {
+          "name": "Epic Soundscapes",
+          "url": "https://open.spotify.com/artist/5u0dE6Vw509dFP0YK5y8lc"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229337,
+      "name": "Relaxing Waves",
+      "url": "https://open.spotify.com/track/5CtCmIiaXMoc5p9ngH8xSh"
+    },
+    {
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Rocking Waves",
+      "url": "https://open.spotify.com/track/6RAlemH3wuNmuIT07DlMOa"
+    },
+    {
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Rolling Waves and Rockpools",
+      "url": "https://open.spotify.com/track/1db2CHgoX19tKKu2p8Zbu2"
+    },
+    {
+      "album": {
+        "name": "Oceania",
+        "url": "https://open.spotify.com/album/6BC1BnvuC4fknH2P7GBvwZ"
+      },
+      "artists": [
+        {
+          "name": "Ocean Sounds FX",
+          "url": "https://open.spotify.com/artist/28IUEhtz4D8xy7OKMXMkyK"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129746,
+      "name": "Salty Sea Breezes",
+      "url": "https://open.spotify.com/track/1fJnFst1A5P5b9LD7zzHTc"
+    },
+    {
+      "album": {
+        "name": "Pieces of Paradise (Nature)",
+        "url": "https://open.spotify.com/album/2DLSPTlBNC8o12gNrRN8mQ"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sandy Gulf (Ocean)",
+      "url": "https://open.spotify.com/track/19fsuPH0RsbaPJ1VQ586CM"
+    },
+    {
+      "album": {
+        "name": "Relaxation Makers",
+        "url": "https://open.spotify.com/album/3SY2zYzHrnx5bceJlLCWpl"
+      },
+      "artists": [
+        {
+          "name": "Relaxation Makers",
+          "url": "https://open.spotify.com/artist/4IHmgRUGokc5EEm9pmUHmF"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237591,
+      "name": "Sea Waves",
+      "url": "https://open.spotify.com/track/6Ur0qE68F4aPlI515XfVYJ"
+    },
+    {
+      "album": {
+        "name": "The Vast Sea",
+        "url": "https://open.spotify.com/album/2FgrpbWJmq5gxqtPGZAx0Y"
+      },
+      "artists": [
+        {
+          "name": "Seas of Dreams",
+          "url": "https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 151000,
+      "name": "Sleepy Rolling Depths (Ocean)",
+      "url": "https://open.spotify.com/track/61QIkVCbYisHbmc8qae4yh"
+    },
+    {
+      "album": {
+        "name": "Slow Waves",
+        "url": "https://open.spotify.com/album/5v5qT4eyJfLXD8lnNAIo2d"
+      },
+      "artists": [
+        {
+          "name": "Sleep Factory",
+          "url": "https://open.spotify.com/artist/06ee9JG54Z38RLoYguHZV8"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 107793,
+      "name": "Slow Waves",
+      "url": "https://open.spotify.com/track/5Is3rDh7Y7JcdmeaiOomYp"
+    },
+    {
+      "album": {
+        "name": "Soft Green Noise",
+        "url": "https://open.spotify.com/album/5FH8F4EH75oKcua1Lp4e6w"
+      },
+      "artists": [
+        {
+          "name": "The Noise Generator",
+          "url": "https://open.spotify.com/artist/3GIwszk9gdJUbYk6LnuNOj"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126318,
+      "name": "Smooth Waves",
+      "url": "https://open.spotify.com/track/1EoIIM5NUOuRUmT8nS6X7Q"
+    },
+    {
+      "album": {
+        "name": "Oceanic Samples",
+        "url": "https://open.spotify.com/album/2ffO6O5OI2XeIx02v1pdTt"
+      },
+      "artists": [
+        {
+          "name": "Hi Freq Samples",
+          "url": "https://open.spotify.com/artist/6DMErYWlNweJ8rNY62Q6jw"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181067,
+      "name": "Soft Waves",
+      "url": "https://open.spotify.com/track/4AtqK695Bo1OxeXHG9uzGp"
+    },
+    {
+      "album": {
+        "name": "Soothing Mediterranean Waves",
+        "url": "https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Soothing Mediterranean Waves 1",
+      "url": "https://open.spotify.com/track/2ut8jbR0IscCy1BXbLUhbu"
+    },
+    {
+      "album": {
+        "name": "Soothing Mediterranean Waves",
+        "url": "https://open.spotify.com/album/1vghmld08G61LHeiw0ULMq"
+      },
+      "artists": [
+        {
+          "name": "Seascapers",
+          "url": "https://open.spotify.com/artist/1OCxhMsilRRM68yBUkQ3NA"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214380,
+      "name": "Soothing Mediterranean Waves 2",
+      "url": "https://open.spotify.com/track/7GUIUopUV2y3PaGx0xUZcc"
+    },
+    {
+      "album": {
+        "name": "Soothing Ocean Sound",
+        "url": "https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq"
+      },
+      "artists": [
+        {
+          "name": "Astrinity",
+          "url": "https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169367,
+      "name": "Soothing Ocean Sound",
+      "url": "https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2"
+    },
+    {
+      "album": {
+        "name": "Dancing with the Sea",
+        "url": "https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7"
+      },
+      "artists": [
+        {
+          "name": "Ocean Bank",
+          "url": "https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124545,
+      "name": "Soothing Sirens",
+      "url": "https://open.spotify.com/track/38cFWalIAa6hrSBQDAdHky"
+    },
+    {
+      "album": {
+        "name": "Ocean Sounds Vol. 1",
+        "url": "https://open.spotify.com/album/70GyyrJtf355wkI3MmMH59"
+      },
+      "artists": [
+        {
+          "name": "JBE Nature Sounds",
+          "url": "https://open.spotify.com/artist/4pGknLkW2buCRBkvnMQC5o"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154001,
+      "name": "Soothing Waves",
+      "url": "https://open.spotify.com/track/0bhqI2juxlq9NIMN35cCm1"
+    },
+    {
+      "album": {
+        "name": "Moments Of Waves",
+        "url": "https://open.spotify.com/album/6bDLxgwRP0nDtNpwifS95d"
+      },
+      "artists": [
+        {
+          "name": "KPR Sounds",
+          "url": "https://open.spotify.com/artist/3nfWQXN1xjbpJOlIrd71AD"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171959,
+      "name": "Still Thoughts And Wave Sounds",
+      "url": "https://open.spotify.com/track/2JIPn2N3uxyCvu2HlNPnqL"
+    },
+    {
+      "album": {
+        "name": "Stormy Beach Waves",
+        "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
+      },
+      "artists": [
+        {
+          "name": "XLX Library",
+          "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130061,
+      "name": "Stormy Beach Waves",
+      "url": "https://open.spotify.com/track/5MOt0d6iCGy8x0tWqDjNuF"
+    },
+    {
+      "album": {
+        "name": "Soft Waves",
+        "url": "https://open.spotify.com/album/0AVeNcB2nbFWNFCoN4znCx"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Nature Noise",
+          "url": "https://open.spotify.com/artist/1ZJbPwe4zKnUDRT7yi9dBC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 110000,
+      "name": "Stormy Ocean",
+      "url": "https://open.spotify.com/track/6gViURBimCpiLxGRo2afuG"
+    },
+    {
+      "album": {
+        "name": "Stormy Beach Waves",
+        "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
+      },
+      "artists": [
+        {
+          "name": "XLX Library",
+          "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137795,
+      "name": "Stormy Ocean Sounds",
+      "url": "https://open.spotify.com/track/5VH0Pf6E9PvCH1d6HH9g5q"
+    },
+    {
+      "album": {
+        "name": "Gale Waves",
+        "url": "https://open.spotify.com/album/1Xw88FSrpv0U6yOdiWMRi0"
+      },
+      "artists": [
+        {
+          "name": "Sounds From Nature",
+          "url": "https://open.spotify.com/artist/18tl5fHMk7CTQ7olpWVhO9"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-06",
+      "duration_ms": 184934,
+      "name": "Stormy Waves",
+      "url": "https://open.spotify.com/track/66O9NZF24EBcnE60E5FDCU"
+    },
+    {
+      "album": {
+        "name": "Stormy Beach Waves",
+        "url": "https://open.spotify.com/album/1vWTYI5vpjiAdclCZsbkgc"
+      },
+      "artists": [
+        {
+          "name": "XLX Library",
+          "url": "https://open.spotify.com/artist/3881qbORbYjyNg3bM6bvEp"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145988,
+      "name": "Stormy Waves",
+      "url": "https://open.spotify.com/track/4v72wZUSK1njS9GD6grIpw"
+    },
+    {
+      "album": {
+        "name": "Summer Ocean Waves",
+        "url": "https://open.spotify.com/album/3MLAsuIHjgNCswm71zZqgT"
+      },
+      "artists": [
+        {
+          "name": "Hello Soundz",
+          "url": "https://open.spotify.com/artist/6ZoQ6B2kB3hiM2MqN0ZKgT"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Summer Ocean Waves",
+      "url": "https://open.spotify.com/track/6jg9qbDWnKh9FvZjWUpQ76"
+    },
+    {
+      "album": {
+        "name": "The Mighty Ocean",
+        "url": "https://open.spotify.com/album/3HiJVREwoCfooghAEqS1UJ"
+      },
+      "artists": [
+        {
+          "name": "Sea Kelp",
+          "url": "https://open.spotify.com/artist/1lsfjYQYAnNxn8kDcYerKh"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213624,
+      "name": "The Mighty Ocean - Seamless",
+      "url": "https://open.spotify.com/track/0iNxGeDgOlsk3DGQMLLvs2"
+    },
+    {
+      "album": {
+        "name": "Stereo Waves",
+        "url": "https://open.spotify.com/album/0jsBg94hPzWjFfGYUFwdJJ"
+      },
+      "artists": [
+        {
+          "name": "4D Nature Recordings",
+          "url": "https://open.spotify.com/artist/6EAXjip845wircvDzEImru"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173422,
+      "name": "The Oceanic Beach Sound",
+      "url": "https://open.spotify.com/track/5mvw769FihTs6dokvzhosR"
+    },
+    {
+      "album": {
+        "name": "Thunderous Ocean",
+        "url": "https://open.spotify.com/album/6CJiA8Yu7j4YbN7YwHHjKX"
+      },
+      "artists": [
+        {
+          "name": "Somnography",
+          "url": "https://open.spotify.com/artist/7jjmpyxSEBfFehyESBdMpM"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Thunderous Ocean - Seamless",
+      "url": "https://open.spotify.com/track/0IY1lXJOW9g5Lt0HiVBqiB"
+    },
+    {
+      "album": {
+        "name": "Tulum Beach Mexico",
+        "url": "https://open.spotify.com/album/0qx8dsZdAmOr9YWYkX0PgF"
+      },
+      "artists": [
+        {
+          "name": "Beaches Of Mexico",
+          "url": "https://open.spotify.com/artist/60ZQhamDSQvaag9ALSY1Zy"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183999,
+      "name": "Tulum Beach Mexico",
+      "url": "https://open.spotify.com/track/3e1XvFj6gAk9EIzyd4c730"
+    },
+    {
+      "album": {
+        "name": "Underwater Symphony",
+        "url": "https://open.spotify.com/album/2IRHovngovEhMeN2HapRuB"
+      },
+      "artists": [
+        {
+          "name": "Relaxed Minds",
+          "url": "https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R"
+        }
+      ],
+      "date_added": "2023-02-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 109684,
+      "name": "Underwater Symphony",
+      "url": "https://open.spotify.com/track/38gVD9RmSNjZG8TvIszftv"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves for Sleep Volume 3",
+        "url": "https://open.spotify.com/album/3Gee2RZkrNJhpxTLn9sQae"
+      },
+      "artists": [
+        {
+          "name": "Coast to Coast Recordings",
+          "url": "https://open.spotify.com/artist/0WNzUSHn04Gmm07Okzc0YC"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176850,
+      "name": "Wandering Waves",
+      "url": "https://open.spotify.com/track/5XzujG7g5cV0gEN3mtu1gs"
+    },
+    {
+      "album": {
+        "name": "Crashing Ocean Waves",
+        "url": "https://open.spotify.com/album/23is2ikMTPfqd5ASwbCvkB"
+      },
+      "artists": [
+        {
+          "name": "EarthMovies",
+          "url": "https://open.spotify.com/artist/3T3jDhDfzFEBtXWcPNKqNe"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Watching Heavy Ocean Waves",
+      "url": "https://open.spotify.com/track/0eyBqBpSrc7XNnQfW8pvCk"
+    },
+    {
+      "album": {
+        "name": "Waves For Sleeping",
+        "url": "https://open.spotify.com/album/1iOxi5K0NRnew8562HF8zx"
+      },
+      "artists": [
+        {
+          "name": "Gnees Early Waves",
+          "url": "https://open.spotify.com/artist/7HWzEstD6nTbL0iiKjMu7s"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155337,
+      "name": "Waves After Midnight",
+      "url": "https://open.spotify.com/track/1Zj4Br0NYdvldwqS2vPXOJ"
+    },
+    {
+      "album": {
+        "name": "Waves Beneath The Lighthouse",
+        "url": "https://open.spotify.com/album/2zcL1FgHHu2hAnv6AcKFuj"
+      },
+      "artists": [
+        {
+          "name": "Wellseed",
+          "url": "https://open.spotify.com/artist/1zItvztjRaMupg7QMvV1Sl"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169081,
+      "name": "Waves Beneath The Lighthouse",
+      "url": "https://open.spotify.com/track/4gml8LGGIDTMi5bQlkAqYG"
+    },
+    {
+      "album": {
+        "name": "Venice Beach Night Waves",
+        "url": "https://open.spotify.com/album/6CF71cuLiDydgs6cSnAyPD"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147118,
+      "name": "Waves Crashing",
+      "url": "https://open.spotify.com/track/0YuKG1kFgb6vLDiQqmBaM3"
+    },
+    {
+      "album": {
+        "name": "More waves From Scandinavia",
+        "url": "https://open.spotify.com/album/6VSjNdgSi4EPpJF4aHIdGB"
+      },
+      "artists": [
+        {
+          "name": "In The Ocean (Sound FX)",
+          "url": "https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173808,
+      "name": "Waves Loopable",
+      "url": "https://open.spotify.com/track/1MEZXgooG2c5g84uaRbIn6"
+    },
+    {
+      "album": {
+        "name": "Waves of Bliss",
+        "url": "https://open.spotify.com/album/1GmylbiB9fL0N2L1mdQ9hC"
+      },
+      "artists": [
+        {
+          "name": "Brainwave Samples",
+          "url": "https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136434,
+      "name": "Waves of Bliss",
+      "url": "https://open.spotify.com/track/4yQ7BMMHa6aNV4cXYwg3oS"
+    },
+    {
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/457JbvsnuRxeVObXwIemfG"
+      },
+      "artists": [
+        {
+          "name": "Waves At Night",
+          "url": "https://open.spotify.com/artist/3CuV0Rsf4ZxEHHB6I7I9tG"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187857,
+      "name": "Waves of Hope",
+      "url": "https://open.spotify.com/track/4WShV9ueF0eVdev69kRxyD"
+    },
+    {
+      "album": {
+        "name": "Ocean Sounds",
+        "url": "https://open.spotify.com/album/2D26q0hZo0yskDLfl9qo2D"
+      },
+      "artists": [
+        {
+          "name": "Natural Sample Makers",
+          "url": "https://open.spotify.com/artist/2kAU05Lt29wxhRj3BpiwhA"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 113812,
+      "name": "Waves: Tranquility Touch",
+      "url": "https://open.spotify.com/track/2PX3JsYV9ndh0ICsS9uCwg"
+    },
+    {
+      "album": {
+        "name": "Calm Sounds of Nature",
+        "url": "https://open.spotify.com/album/62DcRTqJiZFfQuPv3ZvPTE"
+      },
+      "artists": [
+        {
+          "name": "Earthlite",
+          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "White Sand (Ocean)",
+      "url": "https://open.spotify.com/track/7Cc199uIoKo3YoCrV6dp3p"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves Volume 2",
+        "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
+      },
+      "artists": [
+        {
+          "name": "Surrounded by Sound",
+          "url": "https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Windy Beach 1",
+      "url": "https://open.spotify.com/track/4cBZpXxrYjGUJ59TaoBODP"
+    },
+    {
+      "album": {
+        "name": "Ocean Waves Volume 2",
+        "url": "https://open.spotify.com/album/1UIjE0VjMi2pvv8GP2EzpR"
+      },
+      "artists": [
+        {
+          "name": "Surrounded by Sound",
+          "url": "https://open.spotify.com/artist/0F7xvD7p2K3aCiXBZEZ90i"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 158830,
+      "name": "Windy Beach 3",
+      "url": "https://open.spotify.com/track/7ge6TRJoEc97N5Aa3rS59U"
+    },
+    {
+      "album": {
+        "name": "Windy Beaches",
+        "url": "https://open.spotify.com/album/5D7fwCIheOaP2aBPha6I7U"
+      },
+      "artists": [
+        {
+          "name": "Nassa Studios",
+          "url": "https://open.spotify.com/artist/3eGvDj3BfP3VSPaZinrZWJ"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 185434,
+      "name": "Windy Ocean Beach",
+      "url": "https://open.spotify.com/track/1tryCsGCA3oKoVOxR96SvE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWU3Y0rhKV60l"
 }

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gU1rnYEgSF.md) - [plain]
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,355 likes - 94 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,367 likes - 94 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

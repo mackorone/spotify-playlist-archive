@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-13",
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
@@ -2340,7 +2340,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 208962,
       "name": "LA ARA\u00d1A",
       "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
@@ -2704,7 +2704,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 222721,
       "name": "Marcas",
       "url": "https://open.spotify.com/track/0gMJWL100Hky7I4awRPAof"
@@ -4334,7 +4334,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 191658,
       "name": "Rua Lisboa",
       "url": "https://open.spotify.com/track/0c2CiUEiiw9O0aF58VCRs1"
@@ -5430,6 +5430,24 @@
       "duration_ms": 153320,
       "name": "Y vos dec\u00eds que me gust\u00e1s",
       "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
+    },
+    {
+      "album": {
+        "name": "Ya Lo S\u00e9, Pero Igual",
+        "url": "https://open.spotify.com/album/5yYSt3CC3iidgCucpNRbe0"
+      },
+      "artists": [
+        {
+          "name": "Luciano Altair",
+          "url": "https://open.spotify.com/artist/5zYGj1hsIxc6gjoLLTs9IQ"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263865,
+      "name": "Ya Lo S\u00e9, Pero Igual",
+      "url": "https://open.spotify.com/track/6XQfcsz1rjEYWhFKN6JXBR"
     },
     {
       "album": {

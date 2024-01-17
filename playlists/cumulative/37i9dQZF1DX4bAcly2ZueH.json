@@ -481,6 +481,24 @@
     },
     {
       "album": {
+        "name": "Dragon Collection",
+        "url": "https://open.spotify.com/album/0grDrfjal45SSpAVr2okoh"
+      },
+      "artists": [
+        {
+          "name": "Four Face",
+          "url": "https://open.spotify.com/artist/5c2zHqQMxPMh7ZP3Ldtrko"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222222,
+      "name": "Dragon Collection",
+      "url": "https://open.spotify.com/track/3om00NSQvFa2fHEFkMxbzt"
+    },
+    {
+      "album": {
         "name": "Tel P\u00e8re Tel Fils",
         "url": "https://open.spotify.com/album/0lU7hjTcAchfSYl45Z4TOz"
       },
@@ -848,7 +866,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 157440,
       "name": "How You Been",
       "url": "https://open.spotify.com/track/0tSusFmbtXwd8VbrYq4CnG"

@@ -548,7 +548,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 233958,
       "name": "boy",
       "url": "https://open.spotify.com/track/77bGNpC1hZH3JSZQhR1vxn"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 262513,
       "name": "Fireplace",
       "url": "https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ"
@@ -1602,7 +1602,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 177877,
       "name": "in the car",
       "url": "https://open.spotify.com/track/3pYKGgI0CzsiXUtqI97tuR"
@@ -2141,6 +2141,36 @@
     },
     {
       "album": {
+        "name": "The moment I loved",
+        "url": "https://open.spotify.com/album/0kGEApRuPVl76yI8cJbXQn"
+      },
+      "artists": [
+        {
+          "name": "merrymerryseoul",
+          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
+        },
+        {
+          "name": "Plo6",
+          "url": "https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa"
+        },
+        {
+          "name": "Stay.d",
+          "url": "https://open.spotify.com/artist/2pLNWAWPJJwM2r2zfDinLZ"
+        },
+        {
+          "name": "O RO",
+          "url": "https://open.spotify.com/artist/3bYQBVXWRrgRQpi0BjSy9n"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-17",
+      "duration_ms": 160955,
+      "name": "Nightmare (feat. Plo6, Stay.d & O RO)",
+      "url": "https://open.spotify.com/track/5gOsBcGDog5XvleJjOFz02"
+    },
+    {
+      "album": {
         "name": "Yearbook 2022",
         "url": "https://open.spotify.com/album/7wMpdprIWFdFG1z8vhpOb4"
       },
@@ -2528,6 +2558,24 @@
       "duration_ms": 212840,
       "name": "Poker (Feat. Dvwn)",
       "url": "https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2"
+    },
+    {
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175866,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-269 songs - 14 hr 42 min
+270 songs - 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,9 +146,10 @@
 | [Looking at You](https://open.spotify.com/track/50w6PJJmcNzmqlQwts40x1) | [MC5](https://open.spotify.com/artist/4WquJweZPIK9qcfVFhTKvf) | [Back In The USA](https://open.spotify.com/album/67NkpPGMcxoIiumOW3oRpL) | 3:01 | 2015-07-23 |  |
 | [Love Buzz](https://open.spotify.com/track/3kH1ziuJCIV1m3JZ8VKmaM) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [At Home](https://open.spotify.com/album/2vbAImlNuDjPBMdU6T1oRQ) | 3:45 | 2019-06-19 |  |
 | [Making Time](https://open.spotify.com/track/5TysIim10uxdcYtUqftQlZ) | [The Creation](https://open.spotify.com/artist/2hgCDEv4mfDuEkr9M3wLaV) | [Our Music Is Red \- With Purple Flashes](https://open.spotify.com/album/0UTT9ebEZOiheAxyQrOUlS) | 2:58 | 2015-07-23 |  |
-| [Master Race Rock](https://open.spotify.com/track/0lXYFIJhajqDxlIn900fSE) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/3FakgwdUfKXPuvj4Kj0iZy) | 4:11 | 2015-07-23 |  |
+| [Master Race Rock](https://open.spotify.com/track/0lXYFIJhajqDxlIn900fSE) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/3FakgwdUfKXPuvj4Kj0iZy) | 4:11 | 2015-07-23 | 2024-01-14 |
 | [Master Race Rock](https://open.spotify.com/track/2DFY5Iti8OjcTo8xOkhMmQ) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Everyday is Saturday](https://open.spotify.com/album/28y60a1qw2DwL2kMlUv3Fx) | 4:11 | 2015-07-23 | 2023-04-24 |
 | [Master Race Rock](https://open.spotify.com/track/3vFk6NHuQUphZWGT898pEO) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/1j8Px7Mo5PJI2cOteLcMJj) | 4:11 | 2015-07-23 | 2022-07-29 |
+| [Master Race Rock](https://open.spotify.com/track/5G8tB7knYL2BcP7fzynxCl) | [The Dictators](https://open.spotify.com/artist/2Ohpu0UE5PFDgfhUxEi0Fy) | [Every Day Is Saturday](https://open.spotify.com/album/2R7I24kPHfcwAP5oezINnE) | 4:11 | 2015-07-23 |  |
 | [My Generation \- Mono Version](https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:18 | 2015-07-23 | 2022-11-13 |
 | [My Generation \- Original Mono Version](https://open.spotify.com/track/40bvnVS14b2gF3ZfiTKPAf) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Greatest Hits](https://open.spotify.com/album/23W2qtQDqASXPMsBXYpTY0) | 3:17 | 2015-07-23 | 2022-07-29 |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 | 2015-07-23 |  |

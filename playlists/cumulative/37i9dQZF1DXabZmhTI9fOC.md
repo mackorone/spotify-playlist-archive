@@ -4,7 +4,7 @@
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-511 songs - 1 day 3 hr 51 min
+512 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [A Thousand Miles \- Acoustic](https://open.spotify.com/track/29YsuhKPLsC8OjunZrRE0A) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm) | [A Thousand Miles \(Acoustic\)](https://open.spotify.com/album/6h0Yw3neOUrbSGakS0ugfS) | 3:15 | 2023-09-13 |  |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2022-07-25 |  |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-15 | 2023-07-19 |
-| [About To Get Crazy](https://open.spotify.com/track/6L6ErHDSCYsDZ3RyFFRcTh) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/6c40DRTEn1jyN3q07kAxfM) | 3:06 | 2023-07-20 |  |
+| [About To Get Crazy](https://open.spotify.com/track/3HtN9YBRCw6rIZIkmd3GGA) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/53nMmwWs7tA4XOTrJYS9Yo) | 3:06 | 2023-09-13 |  |
+| [About To Get Crazy](https://open.spotify.com/track/6L6ErHDSCYsDZ3RyFFRcTh) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/6c40DRTEn1jyN3q07kAxfM) | 3:06 | 2023-07-20 | 2024-01-15 |
 | [Ain't No Mountain High Enough \(Epic Trailer Version\)](https://open.spotify.com/track/24Do455N8joHdXsEWU3ddE) | [J2](https://open.spotify.com/artist/7bKIwE1P5IDeq0NcQC6dHd), [Coleen McMahon](https://open.spotify.com/artist/4VwhHaBXbJEmcHMxxglPmY) | [J2 the Iconic Series, Vol\. 8](https://open.spotify.com/album/4FI9EU7NbuCcwrXUZTo0Fd) | 3:09 | 2022-08-05 | 2023-07-19 |
 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 | 2022-08-26 | 2023-07-19 |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-08-19 | 2023-07-19 |

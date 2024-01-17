@@ -4,7 +4,7 @@
 
 > Desde la Sierra hasta el mar, Perú es una tierra de rimas y rap\. Foto: Jaze
 
-85 songs - 5 hr 0 min
+86 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [My Girl](https://open.spotify.com/track/1tREl7Eo7dMS6JZe6wQKT5) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 2:34 | 2022-08-26 |  |
 | [no le mienta a mamá](https://open.spotify.com/track/6ckaxHc7YjKZuIb4obB29X) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [no le mienta a mamá](https://open.spotify.com/album/0UnIcBlwXeIUTgywoiYzxx) | 3:48 | 2022-08-26 |  |
 | [No Puedo](https://open.spotify.com/track/6tR7jCnOKTWzhIMbDdXgSu) | [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Licor Amor & Jazz](https://open.spotify.com/album/2GhMbToGx7NXxMr5YADy7a) | 3:01 | 2022-08-26 |  |
-| [No Que No](https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/1hU2tAaWy5dLSt9hKb0HfT) | 3:09 | 2022-08-26 |  |
+| [No Que No](https://open.spotify.com/track/0sLUxVo2K8F36pCItPx9uI) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/1hU2tAaWy5dLSt9hKb0HfT) | 3:09 | 2022-08-26 | 2024-01-11 |
+| [No Que No](https://open.spotify.com/track/4DglXidRECKDeqeu9G6jfu) | [Heavy Coste](https://open.spotify.com/artist/3pqn0ioxPYRovpTxAmXEh8), [Once](https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6) | [No Que No](https://open.spotify.com/album/2amccbWMnR8RZxGBP0vaFL) | 3:09 | 2023-11-24 |  |
 | [No Quieres Nada](https://open.spotify.com/track/7jGZ02gflu5DTLJgi1YUIp) | [Norick](https://open.spotify.com/artist/6QpEp4wXCGHehb8OeyqUDo) | [Alma Corazón Y Vida](https://open.spotify.com/album/6nPDlP06ntwX78n1UDI5XE) | 3:42 | 2022-08-26 |  |
 | [No quiero un final](https://open.spotify.com/track/64CPCpkhdmhb63M6ycEUaN) | [Pleito](https://open.spotify.com/artist/7wasz5TnWDoaQWia1cuxzS), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD), [Susanojuicio](https://open.spotify.com/artist/32cwAgp6jfKF6fM2myJPp8) | [No quiero un final](https://open.spotify.com/album/7MyOIHGBrF8QRiYwgZUdos) | 3:57 | 2023-04-21 |  |
 | [Nos Vamos](https://open.spotify.com/track/6zbZr7j9rkkaycv8lOoWmi) | [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6), [Gonzalo Genek](https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I) | [Nos Vamos](https://open.spotify.com/album/2oCe9cIPMlhcPaVoU28Sbd) | 3:41 | 2022-08-26 |  |

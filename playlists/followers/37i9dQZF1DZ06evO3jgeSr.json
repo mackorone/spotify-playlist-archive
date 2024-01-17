@@ -1,731 +1,1993 @@
 {
-  "2021-12-29": 2880,
-  "2021-12-30": 2884,
-  "2021-12-31": 2886,
-  "2022-01-01": 2891,
-  "2022-01-02": 2893,
-  "2022-01-03": 2892,
-  "2022-01-04": 2892,
-  "2022-01-05": 2897,
-  "2022-01-06": 2898,
-  "2022-01-07": 2902,
-  "2022-01-08": 2906,
-  "2022-01-09": 2906,
-  "2022-01-10": 2910,
-  "2022-01-11": 2910,
-  "2022-01-12": 2914,
-  "2022-01-13": 2916,
-  "2022-01-14": 2916,
-  "2022-01-15": 2923,
-  "2022-01-16": 2923,
-  "2022-01-17": 2935,
-  "2022-01-18": 2934,
-  "2022-01-19": 2933,
-  "2022-01-20": 2935,
-  "2022-01-21": 2938,
-  "2022-01-22": 2937,
-  "2022-01-23": 2938,
-  "2022-01-24": 2941,
-  "2022-01-25": 2942,
-  "2022-01-26": 2944,
-  "2022-01-27": 2945,
-  "2022-01-28": 2947,
-  "2022-01-29": 2949,
-  "2022-01-30": 2952,
-  "2022-01-31": 2953,
-  "2022-02-01": 3016,
-  "2022-02-02": 3027,
-  "2022-02-03": 3029,
-  "2022-02-04": 3036,
-  "2022-02-05": 3040,
-  "2022-02-06": 3047,
-  "2022-02-07": 3050,
-  "2022-02-08": 3055,
-  "2022-02-09": 3062,
-  "2022-02-10": 3065,
-  "2022-02-11": 3072,
-  "2022-02-12": 3075,
-  "2022-02-13": 3080,
-  "2022-02-14": 3086,
-  "2022-02-15": 3339,
-  "2022-02-16": 3405,
-  "2022-02-17": 3419,
-  "2022-02-18": 3439,
-  "2022-02-19": 3454,
-  "2022-02-20": 3468,
-  "2022-02-21": 3474,
-  "2022-02-22": 3484,
-  "2022-02-23": 3491,
-  "2022-02-24": 3495,
-  "2022-02-25": 3497,
-  "2022-02-26": 3502,
-  "2022-02-27": 3517,
-  "2022-02-28": 3517,
-  "2022-03-01": 3520,
-  "2022-03-02": 3522,
-  "2022-03-03": 3526,
-  "2022-03-04": 3531,
-  "2022-03-05": 3536,
-  "2022-03-06": 3538,
-  "2022-03-07": 3540,
-  "2022-03-08": 3539,
-  "2022-03-09": 3542,
-  "2022-03-10": 3543,
-  "2022-03-11": 3549,
-  "2022-03-12": 3553,
-  "2022-03-13": 3560,
-  "2022-03-14": 3564,
-  "2022-03-15": 3567,
-  "2022-03-16": 3569,
-  "2022-03-17": 3572,
-  "2022-03-18": 3575,
-  "2022-03-19": 3574,
-  "2022-03-20": 3574,
-  "2022-03-21": 3579,
-  "2022-03-22": 3583,
-  "2022-03-23": 3582,
-  "2022-03-24": 3586,
-  "2022-03-25": 3589,
-  "2022-03-26": 3589,
-  "2022-03-27": 3592,
-  "2022-03-28": 3592,
-  "2022-03-30": 3598,
-  "2022-03-31": 3602,
-  "2022-04-01": 3604,
-  "2022-04-02": 3604,
-  "2022-04-03": 3606,
-  "2022-04-04": 3609,
-  "2022-04-05": 3608,
-  "2022-04-06": 3609,
-  "2022-04-07": 3611,
-  "2022-04-08": 3612,
-  "2022-04-09": 3618,
-  "2022-04-10": 3624,
-  "2022-04-11": 3627,
-  "2022-04-12": 3627,
-  "2022-04-13": 3627,
-  "2022-04-14": 3635,
-  "2022-04-15": 3634,
-  "2022-04-16": 3637,
-  "2022-04-17": 3637,
-  "2022-04-18": 3644,
-  "2022-04-19": 3646,
-  "2022-04-20": 3649,
-  "2022-04-21": 3655,
-  "2022-04-22": 3658,
-  "2022-04-23": 3665,
-  "2022-04-24": 3670,
-  "2022-04-25": 3671,
-  "2022-04-26": 3673,
-  "2022-04-27": 3679,
-  "2022-04-28": 3684,
-  "2022-04-29": 3688,
-  "2022-04-30": 3691,
-  "2022-05-01": 3694,
-  "2022-05-02": 3694,
-  "2022-05-03": 3697,
-  "2022-05-04": 3702,
-  "2022-05-05": 3706,
-  "2022-05-06": 3706,
-  "2022-05-07": 3710,
-  "2022-05-08": 3718,
-  "2022-05-09": 3718,
-  "2022-05-10": 3721,
-  "2022-05-11": 3726,
-  "2022-05-12": 3724,
-  "2022-05-13": 3728,
-  "2022-05-14": 3731,
-  "2022-05-15": 3732,
-  "2022-05-16": 3733,
-  "2022-05-17": 3733,
-  "2022-05-18": 3736,
-  "2022-05-19": 3737,
-  "2022-05-20": 3738,
-  "2022-05-21": 3744,
-  "2022-05-22": 3744,
-  "2022-05-23": 3744,
-  "2022-05-24": 3746,
-  "2022-05-25": 3747,
-  "2022-05-26": 3749,
-  "2022-05-27": 3750,
-  "2022-05-28": 3752,
-  "2022-05-29": 3753,
-  "2022-05-30": 3757,
-  "2022-05-31": 3760,
-  "2022-06-01": 3764,
-  "2022-06-02": 3764,
-  "2022-06-03": 3766,
-  "2022-06-04": 3767,
-  "2022-06-05": 3770,
-  "2022-06-06": 3776,
-  "2022-06-07": 3780,
-  "2022-06-08": 3781,
-  "2022-06-09": 3782,
-  "2022-06-10": 3785,
-  "2022-06-11": 3785,
-  "2022-06-12": 3786,
-  "2022-06-13": 3788,
-  "2022-06-14": 3789,
-  "2022-06-15": 3792,
-  "2022-06-16": 3796,
-  "2022-06-17": 3795,
-  "2022-06-18": 3796,
-  "2022-06-19": 3798,
-  "2022-06-20": 3798,
-  "2022-06-21": 3800,
-  "2022-06-22": 3805,
-  "2022-06-23": 3805,
-  "2022-06-24": 3809,
-  "2022-06-25": 3812,
-  "2022-06-26": 3818,
-  "2022-06-27": 3824,
-  "2022-06-28": 3828,
-  "2022-06-29": 3828,
-  "2022-06-30": 3828,
-  "2022-07-01": 3831,
-  "2022-07-02": 3833,
-  "2022-07-03": 3836,
-  "2022-07-04": 3837,
-  "2022-07-05": 3837,
-  "2022-07-06": 3837,
-  "2022-07-07": 3845,
-  "2022-07-08": 3847,
-  "2022-07-09": 3849,
-  "2022-07-10": 3850,
-  "2022-07-11": 3854,
-  "2022-07-12": 3855,
-  "2022-07-13": 3859,
-  "2022-07-14": 3861,
-  "2022-07-15": 3865,
-  "2022-07-16": 3867,
-  "2022-07-17": 3866,
-  "2022-07-18": 3864,
-  "2022-07-19": 3867,
-  "2022-07-20": 3868,
-  "2022-07-21": 3871,
-  "2022-07-22": 3874,
-  "2022-07-23": 3876,
-  "2022-07-24": 3877,
-  "2022-07-25": 3881,
-  "2022-07-26": 3884,
-  "2022-07-27": 3884,
-  "2022-07-28": 3889,
-  "2022-07-29": 3895,
-  "2022-07-30": 3896,
-  "2022-07-31": 3896,
-  "2022-08-01": 3898,
-  "2022-08-02": 3904,
-  "2022-08-03": 3904,
-  "2022-08-04": 3903,
-  "2022-08-05": 3906,
-  "2022-08-06": 3908,
-  "2022-08-07": 3914,
-  "2022-08-08": 3920,
-  "2022-08-09": 3930,
-  "2022-08-10": 3934,
-  "2022-08-11": 3934,
-  "2022-08-12": 3936,
-  "2022-08-13": 3938,
-  "2022-08-14": 3941,
-  "2022-08-15": 3945,
-  "2022-08-16": 3947,
-  "2022-08-17": 3951,
-  "2022-08-18": 3955,
-  "2022-08-19": 3958,
-  "2022-08-20": 3961,
-  "2022-08-21": 3965,
-  "2022-08-22": 3967,
-  "2022-08-23": 3968,
-  "2022-08-24": 3972,
-  "2022-08-25": 3975,
-  "2022-08-26": 3978,
-  "2022-08-27": 3980,
-  "2022-08-28": 3982,
-  "2022-08-29": 3984,
-  "2022-08-30": 3987,
-  "2022-08-31": 3990,
-  "2022-09-01": 3991,
-  "2022-09-02": 3993,
-  "2022-09-03": 3994,
-  "2022-09-04": 3997,
-  "2022-09-05": 4000,
-  "2022-09-06": 4003,
-  "2022-09-07": 4009,
-  "2022-09-09": 4013,
-  "2022-09-10": 4015,
-  "2022-09-11": 4018,
-  "2022-09-12": 4020,
-  "2022-09-13": 4020,
-  "2022-09-15": 4026,
-  "2022-09-16": 4029,
-  "2022-09-17": 4030,
-  "2022-09-18": 4035,
-  "2022-09-19": 4047,
-  "2022-09-20": 4050,
-  "2022-09-21": 4052,
-  "2022-09-22": 4057,
-  "2022-09-23": 4062,
-  "2022-09-24": 4062,
-  "2022-09-25": 4068,
-  "2022-09-26": 4076,
-  "2022-09-27": 4079,
-  "2022-09-28": 4084,
-  "2022-09-29": 4086,
-  "2022-09-30": 4090,
-  "2022-10-01": 4093,
-  "2022-10-02": 4094,
-  "2022-10-03": 4099,
-  "2022-10-04": 4098,
-  "2022-10-05": 4106,
-  "2022-10-06": 4109,
-  "2022-10-07": 4114,
-  "2022-10-08": 4112,
-  "2022-10-09": 4116,
-  "2022-10-10": 4117,
-  "2022-10-11": 4121,
-  "2022-10-12": 4128,
-  "2022-10-13": 4126,
-  "2022-10-14": 4127,
-  "2022-10-15": 4131,
-  "2022-10-16": 4132,
-  "2022-10-17": 4132,
-  "2022-10-18": 4136,
-  "2022-10-19": 4140,
-  "2022-10-20": 4146,
-  "2022-10-21": 4149,
-  "2022-10-22": 4151,
-  "2022-10-23": 4153,
-  "2022-10-24": 4153,
-  "2022-10-25": 4156,
-  "2022-10-26": 4159,
-  "2022-10-27": 4162,
-  "2022-10-28": 4164,
-  "2022-10-29": 4164,
-  "2022-10-30": 4166,
-  "2022-10-31": 4170,
-  "2022-11-01": 4172,
-  "2022-11-02": 4174,
-  "2022-11-03": 4176,
-  "2022-11-04": 4176,
-  "2022-11-05": 4180,
-  "2022-11-06": 4185,
-  "2022-11-07": 4189,
-  "2022-11-08": 4189,
-  "2022-11-09": 4191,
-  "2022-11-10": 4197,
-  "2022-11-11": 4201,
-  "2022-11-12": 4205,
-  "2022-11-13": 4204,
-  "2022-11-14": 4206,
-  "2022-11-15": 4209,
-  "2022-11-16": 4208,
-  "2022-11-17": 4207,
-  "2022-11-18": 4207,
-  "2022-11-19": 4206,
-  "2022-11-20": 4208,
-  "2022-11-21": 4212,
-  "2022-11-22": 4215,
-  "2022-11-23": 4215,
-  "2022-11-24": 4219,
-  "2022-11-25": 4222,
-  "2022-11-26": 4223,
-  "2022-11-27": 4227,
-  "2022-11-28": 4228,
-  "2022-11-29": 4228,
-  "2022-11-30": 4228,
-  "2022-12-01": 4235,
-  "2022-12-02": 4236,
-  "2022-12-03": 4236,
-  "2022-12-04": 4241,
-  "2022-12-05": 4243,
-  "2022-12-06": 4242,
-  "2022-12-07": 4244,
-  "2022-12-08": 4247,
-  "2022-12-09": 4250,
-  "2022-12-10": 4254,
-  "2022-12-11": 4257,
-  "2022-12-12": 4261,
-  "2022-12-13": 4261,
-  "2022-12-14": 4263,
-  "2022-12-15": 4267,
-  "2022-12-16": 4268,
-  "2022-12-17": 4271,
-  "2022-12-18": 4272,
-  "2022-12-19": 4276,
-  "2022-12-20": 4284,
-  "2022-12-21": 4284,
-  "2022-12-22": 4284,
-  "2022-12-24": 4288,
-  "2022-12-25": 4291,
-  "2022-12-26": 4291,
-  "2022-12-27": 4294,
-  "2022-12-28": 4294,
-  "2022-12-29": 4295,
-  "2022-12-30": 4303,
-  "2022-12-31": 4312,
-  "2023-01-01": 4314,
-  "2023-01-02": 4319,
-  "2023-01-03": 4323,
-  "2023-01-04": 4325,
-  "2023-01-05": 4328,
-  "2023-01-06": 4335,
-  "2023-01-07": 4338,
-  "2023-01-08": 4340,
-  "2023-01-09": 4341,
-  "2023-01-10": 4344,
-  "2023-01-11": 4347,
-  "2023-01-12": 4351,
-  "2023-01-13": 4357,
-  "2023-01-14": 4361,
-  "2023-01-15": 4363,
-  "2023-01-16": 4363,
-  "2023-01-17": 4369,
-  "2023-01-18": 4372,
-  "2023-01-19": 4374,
-  "2023-01-20": 4380,
-  "2023-01-21": 4383,
-  "2023-01-22": 4387,
-  "2023-01-23": 4389,
-  "2023-01-24": 4393,
-  "2023-01-25": 4399,
-  "2023-01-26": 4401,
-  "2023-01-27": 4404,
-  "2023-01-28": 4409,
-  "2023-01-29": 4411,
-  "2023-01-30": 4413,
-  "2023-01-31": 4413,
-  "2023-02-01": 4413,
-  "2023-02-02": 4414,
-  "2023-02-03": 4418,
-  "2023-02-04": 4417,
-  "2023-02-05": 4422,
-  "2023-02-06": 4425,
-  "2023-02-07": 4427,
-  "2023-02-08": 4428,
-  "2023-02-09": 4428,
-  "2023-02-10": 4428,
-  "2023-02-11": 4433,
-  "2023-02-12": 4438,
-  "2023-02-13": 4441,
-  "2023-02-14": 4441,
-  "2023-02-15": 4442,
-  "2023-02-16": 4445,
-  "2023-02-17": 4445,
-  "2023-02-18": 4448,
-  "2023-02-19": 4450,
-  "2023-02-20": 4453,
-  "2023-02-21": 4454,
-  "2023-02-22": 4456,
-  "2023-02-23": 4458,
-  "2023-02-24": 4461,
-  "2023-02-25": 4465,
-  "2023-02-26": 4466,
-  "2023-02-27": 4468,
-  "2023-02-28": 4468,
-  "2023-03-01": 4470,
-  "2023-03-02": 4471,
-  "2023-03-03": 4477,
-  "2023-03-04": 4481,
-  "2023-03-05": 4489,
-  "2023-03-06": 4489,
-  "2023-03-07": 4494,
-  "2023-03-08": 4497,
-  "2023-03-09": 4499,
-  "2023-03-10": 4503,
-  "2023-03-11": 4510,
-  "2023-03-12": 4513,
-  "2023-03-13": 4517,
-  "2023-03-14": 4523,
-  "2023-03-15": 4524,
-  "2023-03-16": 4524,
-  "2023-03-17": 4524,
-  "2023-03-18": 4536,
-  "2023-03-19": 4536,
-  "2023-03-20": 4543,
-  "2023-03-21": 4544,
-  "2023-03-22": 4546,
-  "2023-03-23": 4553,
-  "2023-03-24": 4553,
-  "2023-03-25": 4556,
-  "2023-03-26": 4561,
-  "2023-03-27": 4563,
-  "2023-03-28": 4564,
-  "2023-03-29": 4566,
-  "2023-03-30": 4568,
-  "2023-03-31": 4568,
-  "2023-04-01": 4568,
-  "2023-04-02": 4570,
-  "2023-04-03": 4575,
-  "2023-04-04": 4576,
-  "2023-04-05": 4576,
-  "2023-04-06": 4579,
-  "2023-04-07": 4585,
-  "2023-04-09": 4590,
-  "2023-04-10": 4594,
-  "2023-04-11": 4598,
-  "2023-04-12": 4598,
-  "2023-04-13": 4601,
-  "2023-04-14": 4600,
-  "2023-04-15": 4599,
-  "2023-04-16": 4599,
-  "2023-04-17": 4599,
-  "2023-04-18": 4601,
-  "2023-04-19": 4602,
-  "2023-04-20": 4604,
-  "2023-04-21": 4607,
-  "2023-04-22": 4613,
-  "2023-04-23": 4617,
-  "2023-04-24": 4617,
-  "2023-04-25": 4619,
-  "2023-04-26": 4623,
-  "2023-04-27": 4628,
-  "2023-04-28": 4632,
-  "2023-04-29": 4636,
-  "2023-04-30": 4639,
-  "2023-05-01": 4643,
-  "2023-05-02": 4641,
-  "2023-05-03": 4643,
-  "2023-05-04": 4646,
-  "2023-05-05": 4650,
-  "2023-05-06": 4651,
-  "2023-05-07": 4654,
-  "2023-05-08": 4655,
-  "2023-05-09": 4652,
-  "2023-05-10": 4653,
-  "2023-05-11": 4657,
-  "2023-05-12": 4657,
-  "2023-05-13": 4658,
-  "2023-05-14": 4660,
-  "2023-05-15": 4659,
-  "2023-05-16": 4659,
-  "2023-05-17": 4663,
-  "2023-05-18": 4663,
-  "2023-05-19": 4666,
-  "2023-05-20": 4672,
-  "2023-05-21": 4672,
-  "2023-05-22": 4672,
-  "2023-05-23": 4678,
-  "2023-05-24": 4686,
-  "2023-05-25": 4687,
-  "2023-05-26": 4687,
-  "2023-05-27": 4690,
-  "2023-05-28": 4696,
-  "2023-05-29": 4696,
-  "2023-05-30": 4701,
-  "2023-05-31": 4705,
-  "2023-06-01": 4711,
-  "2023-06-02": 4719,
-  "2023-06-03": 4728,
-  "2023-06-04": 4734,
-  "2023-06-05": 4741,
-  "2023-06-06": 4756,
-  "2023-06-07": 4764,
-  "2023-06-08": 4770,
-  "2023-06-09": 4774,
-  "2023-06-10": 4782,
-  "2023-06-11": 4787,
-  "2023-06-12": 4805,
-  "2023-06-13": 4813,
-  "2023-06-14": 4825,
-  "2023-06-15": 4829,
-  "2023-06-16": 4832,
-  "2023-06-17": 4840,
-  "2023-06-18": 4847,
-  "2023-06-19": 4854,
-  "2023-06-20": 4860,
-  "2023-06-21": 4861,
-  "2023-06-22": 4865,
-  "2023-06-23": 4872,
-  "2023-06-24": 4876,
-  "2023-06-25": 4877,
-  "2023-06-26": 4882,
-  "2023-06-27": 4885,
-  "2023-06-28": 4890,
-  "2023-06-29": 4895,
-  "2023-06-30": 4904,
-  "2023-07-01": 4913,
-  "2023-07-02": 4913,
-  "2023-07-03": 4921,
-  "2023-07-04": 4920,
-  "2023-07-05": 4923,
-  "2023-07-06": 4928,
-  "2023-07-07": 4928,
-  "2023-07-08": 4928,
-  "2023-07-09": 4929,
-  "2023-07-10": 4932,
-  "2023-07-11": 4936,
-  "2023-07-12": 4938,
-  "2023-07-13": 4944,
-  "2023-07-14": 4943,
-  "2023-07-15": 4950,
-  "2023-07-16": 4951,
-  "2023-07-17": 4958,
-  "2023-07-18": 4962,
-  "2023-07-19": 4965,
-  "2023-07-20": 4965,
-  "2023-07-21": 4972,
-  "2023-07-22": 4981,
-  "2023-07-23": 4984,
-  "2023-07-24": 4988,
-  "2023-07-25": 4994,
-  "2023-07-26": 4999,
-  "2023-07-27": 5005,
-  "2023-07-28": 5009,
-  "2023-07-29": 5014,
-  "2023-07-30": 5014,
-  "2023-07-31": 5018,
-  "2023-08-01": 5019,
-  "2023-08-02": 5021,
-  "2023-08-03": 5024,
-  "2023-08-04": 5026,
-  "2023-08-05": 5029,
-  "2023-08-06": 5035,
-  "2023-08-07": 5035,
-  "2023-08-08": 5035,
-  "2023-08-09": 5046,
-  "2023-08-10": 5069,
-  "2023-08-11": 5087,
-  "2023-08-12": 5087,
-  "2023-08-13": 5087,
-  "2023-08-14": 5087,
-  "2023-08-15": 5087,
-  "2023-08-16": 5087,
-  "2023-08-17": 5087,
-  "2023-08-18": 5087,
-  "2023-08-19": 5087,
-  "2023-08-20": 5283,
-  "2023-08-21": 5283,
-  "2023-08-22": 5321,
-  "2023-08-23": 5321,
-  "2023-08-24": 5321,
-  "2023-08-25": 5321,
-  "2023-08-26": 5381,
-  "2023-08-27": 5381,
-  "2023-08-28": 5409,
-  "2023-08-29": 5409,
-  "2023-08-30": 5409,
-  "2023-08-31": 5431,
-  "2023-09-01": 5440,
-  "2023-09-02": 5440,
-  "2023-09-03": 5440,
-  "2023-09-04": 5440,
-  "2023-09-05": 5440,
-  "2023-09-06": 5440,
-  "2023-09-07": 5440,
-  "2023-09-08": 5440,
-  "2023-09-09": 5440,
-  "2023-09-10": 5440,
-  "2023-09-11": 5440,
-  "2023-09-12": 5440,
-  "2023-09-13": 5440,
-  "2023-09-14": 5440,
-  "2023-09-15": 5440,
-  "2023-09-16": 5557,
-  "2023-09-17": 5557,
-  "2023-09-18": 5557,
-  "2023-09-19": 5580,
-  "2023-09-20": 5580,
-  "2023-09-21": 5580,
-  "2023-09-22": 5606,
-  "2023-09-23": 5606,
-  "2023-09-24": 5606,
-  "2023-09-25": 5606,
-  "2023-09-26": 5652,
-  "2023-09-27": 5652,
-  "2023-09-28": 5652,
-  "2023-09-29": 5652,
-  "2023-09-30": 5652,
-  "2023-10-01": 5652,
-  "2023-10-02": 5652,
-  "2023-10-03": 5652,
-  "2023-10-04": 5652,
-  "2023-10-05": 5652,
-  "2023-10-06": 5652,
-  "2023-10-07": 5652,
-  "2023-10-08": 5652,
-  "2023-10-09": 5652,
-  "2023-10-10": 5652,
-  "2023-10-11": 5652,
-  "2023-10-12": 5652,
-  "2023-10-13": 5652,
-  "2023-10-14": 5652,
-  "2023-10-15": 5652,
-  "2023-10-16": 5652,
-  "2023-10-17": 5652,
-  "2023-10-18": 5652,
-  "2023-10-19": 5652,
-  "2023-10-20": 5652,
-  "2023-10-21": 5652,
-  "2023-10-22": 5652,
-  "2023-10-23": 5652,
-  "2023-10-24": 5652,
-  "2023-10-25": 5652,
-  "2023-10-26": 5652,
-  "2023-10-27": 5652,
-  "2023-10-28": 5652,
-  "2023-10-29": 5652,
-  "2023-10-30": 5652,
-  "2023-10-31": 5652,
-  "2023-11-01": 5652,
-  "2023-11-02": 5652,
-  "2023-11-03": 5652,
-  "2023-11-04": 5652,
-  "2023-11-05": 5652,
-  "2023-11-06": 5652,
-  "2023-11-07": 5652,
-  "2023-11-08": 5652,
-  "2023-11-09": 5652,
-  "2023-11-10": 5652,
-  "2023-11-11": 6216,
-  "2023-11-12": 6216,
-  "2023-11-13": 6216,
-  "2023-11-14": 6216,
-  "2023-11-15": 6216,
-  "2023-11-16": 6216,
-  "2023-11-17": 6216,
-  "2023-11-18": 6216,
-  "2023-11-19": 6216,
-  "2023-11-20": 6216,
-  "2023-11-21": 6216,
-  "2023-11-22": 6216,
-  "2023-11-23": 6216,
-  "2023-11-24": 6216,
-  "2023-11-25": 6216,
-  "2023-11-26": 6216,
-  "2023-11-27": 6216,
-  "2023-11-28": 6216,
-  "2023-11-29": 6216,
-  "2023-11-30": 6216,
-  "2023-12-01": 6216,
-  "2023-12-02": 6216,
-  "2023-12-03": 6216,
-  "2023-12-04": 6216,
-  "2023-12-05": 6216,
-  "2023-12-06": 6216,
-  "2023-12-07": 6216,
-  "2023-12-08": 6216,
-  "2023-12-09": 6216,
-  "2023-12-10": 6216,
-  "2023-12-11": 6216,
-  "2023-12-12": 6216,
-  "2023-12-13": 6216,
-  "2023-12-14": 6564,
-  "2023-12-15": 6567,
-  "2023-12-16": 6572,
-  "2023-12-17": 6581,
-  "2023-12-18": 6586,
-  "2023-12-19": 6590,
-  "2023-12-20": 6594,
-  "2023-12-21": 6595,
-  "2023-12-22": 6598,
-  "2023-12-23": 6603,
-  "2023-12-24": 6608,
-  "2023-12-25": 6615,
-  "2023-12-26": 6618,
-  "2023-12-27": 6623,
-  "2023-12-30": 6647,
-  "2023-12-31": 6653,
-  "2024-01-01": 6655,
-  "2024-01-02": 6661,
-  "2024-01-03": 6664
+  "2024-01-17": 6759,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Labi Siffre. The essential tracks, all in one playlist.",
+  "name": "This Is Labi Siffre",
+  "tracks": [
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75346,
+      "name": "'Till Forever",
+      "url": "https://open.spotify.com/track/7vVywc6HuOtPzwdMkSxhI2"
+    },
+    {
+      "album": {
+        "name": "(Love Is Love Is Love) Why Isn't Love Enough?",
+        "url": "https://open.spotify.com/album/0ctlCn65ZX5zRC6VfAa0er"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-13",
+      "duration_ms": 225514,
+      "name": "(Love Is Love Is Love) Why Isn't Love Enough?",
+      "url": "https://open.spotify.com/track/1oaiPXcPUGlhfSZrXwu78c"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        },
+        {
+          "name": "Kevin W. Smith",
+          "url": "https://open.spotify.com/artist/44FqOyGC5ba51jR91sP5TC"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337493,
+      "name": "(Something Inside) So Strong",
+      "url": "https://open.spotify.com/track/2z8PSS00q39tUuVjYfTO67"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 177826,
+      "name": "A Feeling I Got",
+      "url": "https://open.spotify.com/track/6SPNLnjcFbGl9mG7uN5QRk"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre",
+        "url": "https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "A Little More Line",
+      "url": "https://open.spotify.com/track/5JGaqfYu0hMPIZJhGlKuy8"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 153693,
+      "name": "A Number of Words",
+      "url": "https://open.spotify.com/track/4ig3ylysiMU3Eo9YlunjMd"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289999,
+      "name": "And the Wind Blows",
+      "url": "https://open.spotify.com/track/0GGmpJMU7BoezAOSGTt8HQ"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 254426,
+      "name": "Another Year - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0mrui4YU819ofTR3q3tSWi"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 305626,
+      "name": "Blue Lady",
+      "url": "https://open.spotify.com/track/1kdp5JKEEHxDmU0VEvKVG9"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246866,
+      "name": "Cannock Chase",
+      "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 392986,
+      "name": "Children of Children",
+      "url": "https://open.spotify.com/track/6hNw6Q5zCfCJzp1SdZJdtC"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 331053,
+      "name": "Clinging to the Ledge",
+      "url": "https://open.spotify.com/track/71KiSnfV0Q4ug0Pv1V83oK"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 177546,
+      "name": "Come on Michael",
+      "url": "https://open.spotify.com/track/4eiQHWqJPu4iUFaVsUqzbm"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "Crying, Laughing, Loving, Lying",
+      "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 261693,
+      "name": "Doctor Doctor",
+      "url": "https://open.spotify.com/track/5yIedMWjWmeooDaKLICaBd"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261693,
+      "name": "Doctor Doctor",
+      "url": "https://open.spotify.com/track/7rzCydzyXY6gtjFHVCy4SV"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348280,
+      "name": "Down - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4xGy9REHUd7RPZOEhIl9Zu"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 243506,
+      "name": "Dreamer - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4gV1QbhEUbgvHnvSSxyrZH"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245013,
+      "name": "Entertainment Value",
+      "url": "https://open.spotify.com/track/0zEyPZnf4NRddO2lRWaC1g"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356840,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/1fsDSwRMG9BfcsSWsYG8Ss"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 398146,
+      "name": "Face to Face (A Paper Regret)",
+      "url": "https://open.spotify.com/track/27yzBRMWbPCavBo4ixzEa2"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156720,
+      "name": "Fallin' for You",
+      "url": "https://open.spotify.com/track/4qvMnfRbueOf7sEqgPf9V6"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224706,
+      "name": "Fool Me a Good Night",
+      "url": "https://open.spotify.com/track/1GxCJ6QRoRv1BHUDto1mGn"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 226026,
+      "name": "For the Children",
+      "url": "https://open.spotify.com/track/2ZaJd8nlH68uGoTZ92QDBL"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 269133,
+      "name": "For the Lovin'",
+      "url": "https://open.spotify.com/track/6uJzAwwiuTfIKF5VL2KNlL"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 179960,
+      "name": "Get to the Country",
+      "url": "https://open.spotify.com/track/1HUCAIw6lVFNS17tTX1s9J"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Gimme Some More",
+      "url": "https://open.spotify.com/track/6VBoIw0kxcNgXDwNOTNXKn"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-14",
+      "duration_ms": 274440,
+      "name": "Give Love",
+      "url": "https://open.spotify.com/track/4MnM7lo6p63SIiSmvHGpgD"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/6hMOrk6GCHps5l9MPkQviM"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 190945,
+      "name": "Good Old Days",
+      "url": "https://open.spotify.com/track/51xvMcPCgVvsVethI8Jcav"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230973,
+      "name": "Hard Road",
+      "url": "https://open.spotify.com/track/2REJDTgmJgCnbm0uzKJhM7"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 160893,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/22yPK2dGvhaGycPT9mECWF"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160893,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/4HdfaXQLyzdMNICNmalvuV"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191213,
+      "name": "Hot and Dirty in the City - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2xrxYSteGfxNUfUROIgPFn"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre",
+        "url": "https://open.spotify.com/album/0n2vxxav2CpuUL8LFL4jWz"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "I Don't Know What's Happened to the Kids Today",
+      "url": "https://open.spotify.com/track/4KxSVz2ckytVobzXNsEeHG"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395373,
+      "name": "I Got The... - 2006 Remaster",
+      "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2q6fYv8J39MSzGRBbQpTIh"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327559,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/1CjlMwVMrvWphUBZ3nCpyx"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308506,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/5CQftpQA5NjF1aZbuZvXuR"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 250333,
+      "name": "If You Have Faith",
+      "url": "https://open.spotify.com/track/3vbpYCQ1hVpzPTRAXX7KPT"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 186480,
+      "name": "Interlude",
+      "url": "https://open.spotify.com/track/7yzc0ePGHmlGUruqGrI2JL"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 236986,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123306,
+      "name": "Just a Face",
+      "url": "https://open.spotify.com/track/6zfa85hBi3dpmUfF7bjMAr"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 214173,
+      "name": "La-De-Da-De-Da (Lost Without Your Love)",
+      "url": "https://open.spotify.com/track/38kRs9beBRJdfg1gQNCZUA"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 576440,
+      "name": "Let's Pretend",
+      "url": "https://open.spotify.com/track/1iB4hNYD8FUYdK9P182FAM"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269399,
+      "name": "Listen to the Voices",
+      "url": "https://open.spotify.com/track/6eyKldvrtmRfTyie4i6lY5"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 257959,
+      "name": "Lose Myself in You",
+      "url": "https://open.spotify.com/track/4BvYUnxGzuzFHySgU0P2k2"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 267106,
+      "name": "Love Oh Love Oh Love",
+      "url": "https://open.spotify.com/track/1TcRmyQp51TMIDVq0SiMhV"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167493,
+      "name": "Love Song for Someone",
+      "url": "https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 178573,
+      "name": "Love-A-Love-A-Love-A-Love-A-Love",
+      "url": "https://open.spotify.com/track/011IzFkQzXmOJCB39BKVjY"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 220199,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/7peWB3RK5kHtSCjHLoKTa1"
+    },
+    {
+      "album": {
+        "name": "Man Of Reason",
+        "url": "https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-25",
+      "duration_ms": 254000,
+      "name": "Lovers in Arms",
+      "url": "https://open.spotify.com/track/4AhAydUmwbUneSEvERkq7U"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/06AAV1gIjFCBjCKL3qooVf"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "Make My Day",
+      "url": "https://open.spotify.com/track/5ynftPYCnToT1wAXkzUyuF"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 221346,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/2tN2vlqY6BlwGVxP8xFSsN"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284480,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV"
+    },
+    {
+      "album": {
+        "name": "Nightmare/Run to Him/The Love Thing",
+        "url": "https://open.spotify.com/album/2iu0cxxPhCMlbhS1ylbMuE"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 186253,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/767ZXrndm2nCWSBngN1YqI"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-15",
+      "duration_ms": 124693,
+      "name": "Not so Long Ago",
+      "url": "https://open.spotify.com/track/5yq9kXHnTWpyLVYbqbyZ6B"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-13",
+      "duration_ms": 223933,
+      "name": "Nothin's Gonna Change",
+      "url": "https://open.spotify.com/track/2UPPvu8zpvQCjKFMiskO8V"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Nothing in the World Like Love",
+      "url": "https://open.spotify.com/track/2PP9MyExHQv5GzbWJXAhaE"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 241600,
+      "name": "Odds & Ends",
+      "url": "https://open.spotify.com/track/1wX3vEINaJqDMddr1SjSqk"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 290546,
+      "name": "Old Time Song - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5SeTPjaVXFW6uzhAvKd3XE"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118733,
+      "name": "Prayer",
+      "url": "https://open.spotify.com/track/7eR1obV7V8atMmC9Sse7MR"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Pristine Verses",
+      "url": "https://open.spotify.com/track/3OEltAYEQ0CMPi7Plafi0J"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 181323,
+      "name": "Pristine Verses",
+      "url": "https://open.spotify.com/track/105c9YhKaHStNTlvCbEVnQ"
+    },
+    {
+      "album": {
+        "name": "Man Of Reason",
+        "url": "https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 243293,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/1FcJKRWg2FvksuwMFeUfMM"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 361893,
+      "name": "Remember My Song - 2006 Remaster",
+      "url": "https://open.spotify.com/track/0PiQMQuR9Gqr0ll0eFUzFk"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148053,
+      "name": "Rocking Chair",
+      "url": "https://open.spotify.com/track/53qn0116gOP48ns8zcr0sL"
+    },
+    {
+      "album": {
+        "name": "Nightmare/Run to Him/The Love Thing",
+        "url": "https://open.spotify.com/album/2iu0cxxPhCMlbhS1ylbMuE"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-21",
+      "duration_ms": 230626,
+      "name": "Run to Him",
+      "url": "https://open.spotify.com/track/20Ip9T6BcAOwNCaa8ctCzZ"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233280,
+      "name": "Sadie and the Devil - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2WvwMBkSC9jg5eYJ9AWXhR"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271626,
+      "name": "Sally Came to Stay",
+      "url": "https://open.spotify.com/track/49mJWMhvpbhhuyFR0WZYIC"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 305466,
+      "name": "Samaritans",
+      "url": "https://open.spotify.com/track/4ZdYII20MN9mFPkzj8agPl"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-08",
+      "duration_ms": 130533,
+      "name": "Saved",
+      "url": "https://open.spotify.com/track/2Sc7BHveG5jN9IzPaiInsC"
+    },
+    {
+      "album": {
+        "name": "Man Of Reason",
+        "url": "https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 256399,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/6huzazT99jlqOBCsO6fHws"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130400,
+      "name": "Seasons Come, Seasons Go",
+      "url": "https://open.spotify.com/track/3PjBSTYctUXzr2levZNNgc"
+    },
+    {
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/17aYOCF5PDgv9TQaWFGNTu"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242733,
+      "name": "Second Time Around",
+      "url": "https://open.spotify.com/track/0zvjDCmVZ0g7uVNRdI1Wdy"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 157213,
+      "name": "Solid Love - 2006 Remaster",
+      "url": "https://open.spotify.com/track/6xwqazotUkJLHyNSs2mxKj"
+    },
+    {
+      "album": {
+        "name": "For the Children (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5CVLuGM12kmx16qR4rGy2u"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175426,
+      "name": "Somesay",
+      "url": "https://open.spotify.com/track/7FcwlImuJKJiBJUhRmrcc9"
+    },
+    {
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/06AAV1gIjFCBjCKL3qooVf"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-02",
+      "duration_ms": 176813,
+      "name": "Somesay",
+      "url": "https://open.spotify.com/track/2tEERlewMsFkdNHg034f8m"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-13",
+      "duration_ms": 158226,
+      "name": "Something on My Mind",
+      "url": "https://open.spotify.com/track/2tUZ1KhS4t4Oame9Z8Ed1S"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-07",
+      "duration_ms": 305106,
+      "name": "Sparrow in the Storm",
+      "url": "https://open.spotify.com/track/3Gv9WpKCEpneOn2nrd20p1"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 262800,
+      "name": "Staride to Nowhere",
+      "url": "https://open.spotify.com/track/1R9zMVwsFqnKnuYZrnZob3"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 193186,
+      "name": "Summer Is Coming",
+      "url": "https://open.spotify.com/track/580oXJE0NpJqVusRiJcOt4"
+    },
+    {
+      "album": {
+        "name": "The Music Of Labi Siffre",
+        "url": "https://open.spotify.com/album/7tyc9SuNusJlTI6Dkhsajy"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 350800,
+      "name": "Supaluvva",
+      "url": "https://open.spotify.com/track/28jDdm97Yf5YaL5Jq0M4pv"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Talkabout",
+      "url": "https://open.spotify.com/track/2dGUGJmo9wSRB4vmgX61lb"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 182400,
+      "name": "Thank Your Lucky Star",
+      "url": "https://open.spotify.com/track/1m7WlUC67FKB8jk1PTYt3Z"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "The Life I Got",
+      "url": "https://open.spotify.com/track/4sRNeqCO9HtszLpsMqaR53"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 215360,
+      "name": "The Shadow of Our Love",
+      "url": "https://open.spotify.com/track/5VmcD4MxHiUBz1d8oe5S10"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "The Vulture - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3tBc6zaW5ojbpgKAn3iCL2"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-06",
+      "duration_ms": 337866,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/5GdsbtfTztKiR3mP7TsVDb"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vI4NNwyHDsMnxeC5QVl1w"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 213573,
+      "name": "Till Night Time Comes Along",
+      "url": "https://open.spotify.com/track/7hOTEbKv9W8eev2AeQrKIq"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121133,
+      "name": "To Find Love",
+      "url": "https://open.spotify.com/track/5LztLV2HEE7H5pjhiTD6FN"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197200,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/0HQAx13Vd4qKpTBlxnjKm6"
+    },
+    {
+      "album": {
+        "name": "Remember My Song",
+        "url": "https://open.spotify.com/album/1wTqD7FSQ8XgKPy8xBUaEV"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225333,
+      "name": "Turn on Your Love - 2006 Remaster",
+      "url": "https://open.spotify.com/track/2DxGu0pXlKp6QPUc1VpqTm"
+    },
+    {
+      "album": {
+        "name": "Man Of Reason",
+        "url": "https://open.spotify.com/album/13qWiNM7eIxVIEwmSgRHy2"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 231426,
+      "name": "Wash Away Your Troubles in Love",
+      "url": "https://open.spotify.com/track/0cS1CHuLuFqXuYePMeAPus"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Watch Me",
+      "url": "https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85146,
+      "name": "When I'm on My Own You Are on My Mind",
+      "url": "https://open.spotify.com/track/3wiGdP73tq99dHMmeEE58i"
+    },
+    {
+      "album": {
+        "name": "So Strong",
+        "url": "https://open.spotify.com/album/1eY6wnXsy13mXFzMyP5Iuk"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-30",
+      "duration_ms": 131853,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/23Vhc0SDblDARyCo3CIOQC"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 184226,
+      "name": "Who Do You See",
+      "url": "https://open.spotify.com/track/7rMcwxMWXeBsbXjSdnA28J"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193660,
+      "name": "Why Did You Go, Why Did You Leave Me?",
+      "url": "https://open.spotify.com/track/3pv18093n2pXhYpv61uYDA"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-19",
+      "duration_ms": 193660,
+      "name": "Why Did You Go, Why Did You Leave Me?",
+      "url": "https://open.spotify.com/track/4Mi4smdYzAKzbVulBkJ81Z"
+    },
+    {
+      "album": {
+        "name": "The Last Songs",
+        "url": "https://open.spotify.com/album/1kWpxZ7bSgK6iImNVl4PYr"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 219586,
+      "name": "Why Isn't Love Enough",
+      "url": "https://open.spotify.com/track/34PfD0OG540oYvqsDmnj3r"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142266,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/403OoxbU1lvuPlkaXMNxdc"
+    },
+    {
+      "album": {
+        "name": "Labi Siffre (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-25",
+      "duration_ms": 181186,
+      "name": "You and I Should Be Together",
+      "url": "https://open.spotify.com/track/4ms845MWQUI7CXPBeGpIZR"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 248009,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/0aZLBvvY0fD4E27sqA3tm8"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250026,
+      "name": "You Make It Easy",
+      "url": "https://open.spotify.com/track/1f2tuM9cGS0U3usGnCZ0pY"
+    },
+    {
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2022-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 228573,
+      "name": "You'll Let Me Know",
+      "url": "https://open.spotify.com/track/5qFgkAegJUlElcXmdUKJUk"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/0s2hy5O0CQGH0nK1MKvSrB"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-05-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 228654,
+      "name": "You'll Let Me Know",
+      "url": "https://open.spotify.com/track/3YfHt1q2C0FCn9rQqYJmS8"
+    },
+    {
+      "album": {
+        "name": "Watch Me",
+        "url": "https://open.spotify.com/album/6XISjZWPMHGjsWWmRhBf1R"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228654,
+      "name": "You'll Let Me Know",
+      "url": "https://open.spotify.com/track/3wxGdT22AfBNMPkKd04eGU"
+    },
+    {
+      "album": {
+        "name": "The Singer & The Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31853,
+      "name": "You're Lovely",
+      "url": "https://open.spotify.com/track/7qFAzYTQlj9WXS4QitMgQ6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jgeSr"
 }

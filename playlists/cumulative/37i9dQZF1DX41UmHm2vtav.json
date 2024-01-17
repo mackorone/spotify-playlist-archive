@@ -795,6 +795,40 @@
     },
     {
       "album": {
+        "name": "Bololo (Remixes)",
+        "url": "https://open.spotify.com/album/3bC1j0lxI66MJl2T3anvF2"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "MC Bin Laden",
+          "url": "https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Francesco V",
+          "url": "https://open.spotify.com/artist/44lpT2O5mBIXeyrXhVlj7Q"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143255,
+      "name": "Bololo - MichaelBM & Francesco V Remix",
+      "url": "https://open.spotify.com/track/6H0Jp0W6K5arH3w38rE8ZU"
+    },
+    {
+      "album": {
         "name": "Cad\u00ea Voc\u00ea",
         "url": "https://open.spotify.com/album/2WfDm5tqsrSVe0h82I7TpP"
       },
@@ -2598,7 +2632,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 212640,
       "name": "O Descobridor dos Sete Mares",
       "url": "https://open.spotify.com/track/6bEBNUXuY9zKjSYFGGyL1E"

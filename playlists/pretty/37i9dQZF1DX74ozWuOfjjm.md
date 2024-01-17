@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Highlights of 2023, listen to women at full volume! Cover: Jessica Mauboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,935 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,873 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 19 | [Feel Alive](https://open.spotify.com/track/0Ewbn4M4wxWt8sweebYu1U) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [How Do You Feel?](https://open.spotify.com/album/2PVSQH2TCtppaZAGAHF0Iz) | 3:21 |
 | 20 | [nice](https://open.spotify.com/track/29wl32cIPkuiOcGLYdFGVv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [nice](https://open.spotify.com/album/6VQGSVyGAftU1zhTJU4Q3t) | 1:57 |
 | 21 | [He Said](https://open.spotify.com/track/2EJsZgcZUA9NcY2vKKXUMC) | [Jordan Gavet](https://open.spotify.com/artist/07Zk7DnHt6dFfnNh5H9fLd) | [He Said](https://open.spotify.com/album/5ZmCYJDWBHmrGQFJ5E1qTD) | 3:08 |
-| 22 | [foolish thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
+| 22 | [Foolish Thinking](https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv) | [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti), [Ryan Lott](https://open.spotify.com/artist/0rLLyTr5rx0qYKb63MdVW9) | [foolish thinking](https://open.spotify.com/album/3aazS3R5JRjdKi2CcbAA3N) | 5:53 |
 | 23 | [Mermaid Avenue](https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mermaid Avenue](https://open.spotify.com/album/6mdXgYc7y2rHgMEvk0oU0t) | 3:08 |
 | 24 | [Good Time](https://open.spotify.com/track/5C5TY76zEvTDPT3FRi6Obs) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Good Time](https://open.spotify.com/album/3D3que0A2F6BVUqmsY2MFh) | 3:18 |
 | 25 | [U, U and Only U](https://open.spotify.com/track/4rq2z754eYOq3HBDCVcswc) | [PRICIE](https://open.spotify.com/artist/74qq2TFVWRaySx8MVjKelJ) | [IT'S PRICIE](https://open.spotify.com/album/3oxB7OZmXl7G0KAehBE9iJ) | 3:14 |

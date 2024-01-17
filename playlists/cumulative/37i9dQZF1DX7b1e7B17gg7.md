@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-89 songs - 6 hr 12 min
+90 songs - 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,8 @@
 | [The Band Ladies Have the Blues](https://open.spotify.com/track/52iD7EXUYlAF5mx8QUDYE3) | [Billy Branch & The Sons of Blues](https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y), [Carl Weathersby](https://open.spotify.com/artist/2Qs4vDt8kbXB2sZUDisXPw) | [As the Years Go Passing By \(Blues Reference\)](https://open.spotify.com/album/5574yQ0jXasT5PZCRs4C9o) | 6:35 | 2022-11-30 |  |
 | [The Fireside Blues](https://open.spotify.com/track/4dXy13QZxeT9Qoglo2hOl3) | [James Saunder](https://open.spotify.com/artist/7lJYI82LVMMO0MrbXo1SPB) | [The Fireside Blues](https://open.spotify.com/album/6XGWasVw8nd9b3yMormg4E) | 2:01 | 2023-05-22 | 2023-08-24 |
 | [The Junkyard Blues](https://open.spotify.com/track/32p1tBD1d2PuMujJU7hQgA) | [Terry Johnson](https://open.spotify.com/artist/7DWOTQc5g2G2zbd6SaXej7) | [Terry Mojo Johnson, Vol\. 2](https://open.spotify.com/album/0dx2z2A8kweCRK3etpg5GK) | 3:49 | 2022-11-30 |  |
-| [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 | 2022-11-30 |  |
+| [The Prowler](https://open.spotify.com/track/0FNTkAob9g8XsdsrbWDiYc) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/31HD5QjsENI878ZVrGFt12) | 6:23 | 2023-11-24 |  |
+| [The Prowler](https://open.spotify.com/track/3kigvjr2fMr4E1pQXJ15zG) | [Bruce Katz Band](https://open.spotify.com/artist/7cvmkkkAA2mTfwhhMSfrEi) | [Mississippi Moan](https://open.spotify.com/album/1wVpbsQQCr3RG3GdIqucwo) | 6:23 | 2022-11-30 | 2024-01-15 |
 | [The Return Of Duke's Mood \(Unreleased Demo\)](https://open.spotify.com/track/6xlsvtBeqIXXqsYeDmmz0n) | [Duke Robillard](https://open.spotify.com/artist/3SQa9cVuiUaZfao2KZiElA) | [Outtakes and Oddities: The Unheard Duke Robillard](https://open.spotify.com/album/1xflBLXWAJDuE4s2qNMAwD) | 7:21 | 2023-01-03 |  |
 | [The Sway \(feat\. David Rotundo\)](https://open.spotify.com/track/6xqkuiYiTKhKQ8xxsAAcB0) | [David Rotundo](https://open.spotify.com/artist/1wB0MLsDX5MQHlZUbI7j70) | [Blues Ignited](https://open.spotify.com/album/2AO6l6RDuj8YUePV2GlXZz) | 5:52 | 2022-11-30 |  |
 | [Under The Sun](https://open.spotify.com/track/0iu6IMgTL20s10ihxUaent) | [Big Walter Horton](https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX) | [Big Walter Horton w/ Carey Bell](https://open.spotify.com/album/0u6qeEym4B0JLaVZrw4Ih5) | 3:51 | 2022-11-30 |  |

@@ -1,13 +1,69 @@
 {
   "description": "Let this smooth mix carry you home in style.",
-  "num_followers": 511889,
+  "num_followers": 509985,
   "original_name": "Evening Commute",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjcxNjdiZTNlMmNmZWRiMjRlZWQxYTVjZTAwM2U5ZTYyMGUwZTQ5",
+  "snapshot_id": "MCw5NmU4Y2E0MmJlMzlhNWM3NWJmZDAyZDE4MGViMDAyZmJlZTk3YTQ2",
   "tracks": [
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "summer after senior year",
+        "url": "https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        },
+        {
+          "name": "Michael Carreon",
+          "url": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 145059,
+      "name": "summer after senior year",
+      "url": "https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "(Trust Me Now) I'm Fine",
+        "url": "https://open.spotify.com/album/6bfXbubGntyDwedi7dlq5N"
+      },
+      "artists": [
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "(Trust Me Now) I'm Fine",
+      "url": "https://open.spotify.com/track/13B8K60ppDcg8MjlvN0Bb9"
+    },
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 165799,
+      "name": "Bitter Sweet Love",
+      "url": "https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv"
+    },
     {
       "added_at": "2023-12-08 05:01:00",
       "album": {
@@ -799,28 +855,12 @@
     {
       "added_at": "2023-09-04 21:51:37",
       "album": {
-        "name": "I'll Follow",
-        "url": "https://open.spotify.com/album/2eVMMMyptV72ZWM75hER4w"
-      },
-      "artists": [
-        {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-        }
-      ],
-      "duration_ms": 172506,
-      "name": "I'll Follow",
-      "url": "https://open.spotify.com/track/05oHYdKxu7cnqrZgw6CiLK"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
         "name": "Blur",
         "url": "https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8"
       },
       "artists": [
         {
-          "name": "dhruv",
+          "name": "Dhruv",
           "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
         }
       ],
@@ -1187,22 +1227,6 @@
       "duration_ms": 220403,
       "name": "Like A Saviour",
       "url": "https://open.spotify.com/track/5aNjxmDikP3zGMHfO9dop5"
-    },
-    {
-      "added_at": "2023-09-04 21:51:37",
-      "album": {
-        "name": "coastline",
-        "url": "https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy"
-      },
-      "artists": [
-        {
-          "name": "mehro",
-          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
-        }
-      ],
-      "duration_ms": 158596,
-      "name": "coastline",
-      "url": "https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2"
     },
     {
       "added_at": "2023-09-04 21:51:37",

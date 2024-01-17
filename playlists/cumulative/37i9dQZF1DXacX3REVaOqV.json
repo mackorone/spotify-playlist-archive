@@ -789,6 +789,32 @@
     },
     {
       "album": {
+        "name": "Boy (feat. JONES)",
+        "url": "https://open.spotify.com/album/7psQd9JcAGWum1t1YOXlag"
+      },
+      "artists": [
+        {
+          "name": "Illyus & Barrientos",
+          "url": "https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C"
+        },
+        {
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166451,
+      "name": "Boy (feat. JONES)",
+      "url": "https://open.spotify.com/track/5RnIXOgEJUkG6nvVzf7meY"
+    },
+    {
+      "album": {
         "name": "Boyz N Da Club (Radio Edit)",
         "url": "https://open.spotify.com/album/0W9rKo615E4R4jTAsE4vZM"
       },
@@ -2352,7 +2378,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 169000,
       "name": "Giving Me",
       "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
@@ -3886,7 +3912,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 178032,
       "name": "Like I Used To",
       "url": "https://open.spotify.com/track/2SMqAHurJ7vtu16DSQojou"
@@ -4160,7 +4186,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 160437,
       "name": "Love Somebody Else - Sandy Rivera & Aruhtra's Mix",
       "url": "https://open.spotify.com/track/6fbrnevm8nfmTn5cLlgHtX"
@@ -4462,7 +4488,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-18",
+      "date_removed": null,
       "duration_ms": 217741,
       "name": "Move On Up",
       "url": "https://open.spotify.com/track/4lCXIbRAJLIUiiwEXRr9NM"
@@ -5406,6 +5432,24 @@
       "duration_ms": 194978,
       "name": "PRAY",
       "url": "https://open.spotify.com/track/2yfBO8K26U04vEP8vHrqgE"
+    },
+    {
+      "album": {
+        "name": "Back To The 00s",
+        "url": "https://open.spotify.com/album/7AsNZZrJHooqb8GgjnPQ7a"
+      },
+      "artists": [
+        {
+          "name": "Tagmann",
+          "url": "https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181406,
+      "name": "Prize Is Rite",
+      "url": "https://open.spotify.com/track/7ssKlWmZGC3NP5xpxcQvbR"
     },
     {
       "album": {
@@ -7154,7 +7198,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 360960,
       "name": "Underground Is My Home - Crazibiza Remix",
       "url": "https://open.spotify.com/track/3Ncgj12Qf2bmw6FAStRUB4"
@@ -7382,7 +7426,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 247500,
       "name": "What You Gonna Do",
       "url": "https://open.spotify.com/track/2e8DHrgHFGnaJ7rjLeVqbr"

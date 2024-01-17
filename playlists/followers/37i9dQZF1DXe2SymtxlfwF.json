@@ -1,580 +1,3545 @@
 {
-  "2022-05-30": 80464,
-  "2022-05-31": 80510,
-  "2022-06-01": 80604,
-  "2022-06-02": 80609,
-  "2022-06-03": 80645,
-  "2022-06-04": 80694,
-  "2022-06-05": 80738,
-  "2022-06-06": 80795,
-  "2022-06-07": 80841,
-  "2022-06-08": 80878,
-  "2022-06-09": 80903,
-  "2022-06-10": 80979,
-  "2022-06-11": 81051,
-  "2022-06-12": 81110,
-  "2022-06-13": 81156,
-  "2022-06-14": 81204,
-  "2022-06-15": 81273,
-  "2022-06-16": 81318,
-  "2022-06-17": 81369,
-  "2022-06-18": 81408,
-  "2022-06-19": 81517,
-  "2022-06-20": 81517,
-  "2022-06-21": 81573,
-  "2022-06-22": 81658,
-  "2022-06-23": 81658,
-  "2022-06-24": 81718,
-  "2022-06-25": 81783,
-  "2022-06-26": 81828,
-  "2022-06-27": 81888,
-  "2022-06-28": 81926,
-  "2022-06-29": 81958,
-  "2022-06-30": 81999,
-  "2022-07-01": 82059,
-  "2022-07-02": 82114,
-  "2022-07-03": 82165,
-  "2022-07-04": 82219,
-  "2022-07-05": 82269,
-  "2022-07-06": 82269,
-  "2022-07-07": 82343,
-  "2022-07-08": 82396,
-  "2022-07-09": 82438,
-  "2022-07-10": 82487,
-  "2022-07-11": 82536,
-  "2022-07-12": 82593,
-  "2022-07-13": 82633,
-  "2022-07-14": 82689,
-  "2022-07-15": 82741,
-  "2022-07-16": 82793,
-  "2022-07-17": 82855,
-  "2022-07-18": 82894,
-  "2022-07-19": 82931,
-  "2022-07-20": 82980,
-  "2022-07-21": 83029,
-  "2022-07-22": 83081,
-  "2022-07-23": 83122,
-  "2022-07-24": 83153,
-  "2022-07-25": 83196,
-  "2022-07-26": 83245,
-  "2022-07-27": 83278,
-  "2022-07-28": 83329,
-  "2022-07-29": 83378,
-  "2022-07-30": 83493,
-  "2022-07-31": 83493,
-  "2022-08-01": 83541,
-  "2022-08-02": 83644,
-  "2022-08-03": 83644,
-  "2022-08-04": 83699,
-  "2022-08-05": 83732,
-  "2022-08-06": 83777,
-  "2022-08-07": 83826,
-  "2022-08-08": 83874,
-  "2022-08-09": 83917,
-  "2022-08-10": 83976,
-  "2022-08-11": 84039,
-  "2022-08-12": 84097,
-  "2022-08-13": 84137,
-  "2022-08-14": 84195,
-  "2022-08-15": 84246,
-  "2022-08-16": 84300,
-  "2022-08-17": 84355,
-  "2022-08-18": 84419,
-  "2022-08-19": 84482,
-  "2022-08-20": 84526,
-  "2022-08-21": 84582,
-  "2022-08-22": 84628,
-  "2022-08-23": 84690,
-  "2022-08-24": 84741,
-  "2022-08-25": 84802,
-  "2022-08-26": 84858,
-  "2022-08-27": 84903,
-  "2022-08-28": 84961,
-  "2022-08-29": 85008,
-  "2022-08-30": 85013,
-  "2022-08-31": 84943,
-  "2022-09-01": 84863,
-  "2022-09-02": 84769,
-  "2022-09-03": 84586,
-  "2022-09-04": 84532,
-  "2022-09-05": 84571,
-  "2022-09-06": 84607,
-  "2022-09-07": 84647,
-  "2022-09-09": 84746,
-  "2022-09-10": 84801,
-  "2022-09-11": 84859,
-  "2022-09-12": 84910,
-  "2022-09-13": 84972,
-  "2022-09-15": 85066,
-  "2022-09-16": 85117,
-  "2022-09-17": 85160,
-  "2022-09-18": 85210,
-  "2022-09-19": 85264,
-  "2022-09-20": 85314,
-  "2022-09-21": 85362,
-  "2022-09-22": 85419,
-  "2022-09-23": 85461,
-  "2022-09-24": 85512,
-  "2022-09-25": 85552,
-  "2022-09-26": 85610,
-  "2022-09-27": 85653,
-  "2022-09-28": 85726,
-  "2022-09-29": 85778,
-  "2022-09-30": 85849,
-  "2022-10-01": 85895,
-  "2022-10-02": 85961,
-  "2022-10-03": 86026,
-  "2022-10-04": 86093,
-  "2022-10-05": 86164,
-  "2022-10-06": 86218,
-  "2022-10-07": 86281,
-  "2022-10-08": 86331,
-  "2022-10-09": 86432,
-  "2022-10-10": 86447,
-  "2022-10-11": 86497,
-  "2022-10-12": 86554,
-  "2022-10-13": 86623,
-  "2022-10-14": 86711,
-  "2022-10-15": 86775,
-  "2022-10-16": 86840,
-  "2022-10-17": 86915,
-  "2022-10-18": 86971,
-  "2022-10-19": 87035,
-  "2022-10-20": 87091,
-  "2022-10-21": 87154,
-  "2022-10-22": 87194,
-  "2022-10-23": 87259,
-  "2022-10-24": 87297,
-  "2022-10-25": 87352,
-  "2022-10-26": 87402,
-  "2022-10-27": 87464,
-  "2022-10-28": 87531,
-  "2022-10-29": 87593,
-  "2022-10-30": 87659,
-  "2022-10-31": 87724,
-  "2022-11-01": 87779,
-  "2022-11-02": 87838,
-  "2022-11-03": 87879,
-  "2022-11-04": 87948,
-  "2022-11-05": 87993,
-  "2022-11-06": 88050,
-  "2022-11-07": 88117,
-  "2022-11-08": 88194,
-  "2022-11-09": 88250,
-  "2022-11-10": 88291,
-  "2022-11-11": 88356,
-  "2022-11-12": 88432,
-  "2022-11-13": 88482,
-  "2022-11-14": 88542,
-  "2022-11-15": 88602,
-  "2022-11-16": 88654,
-  "2022-11-17": 88720,
-  "2022-11-18": 88749,
-  "2022-11-19": 88759,
-  "2022-11-20": 88809,
-  "2022-11-21": 88874,
-  "2022-11-22": 88936,
-  "2022-11-23": 89005,
-  "2022-11-24": 89105,
-  "2022-11-25": 89193,
-  "2022-11-26": 89244,
-  "2022-11-27": 89308,
-  "2022-11-28": 89364,
-  "2022-11-29": 89423,
-  "2022-11-30": 89493,
-  "2022-12-01": 89572,
-  "2022-12-02": 89620,
-  "2022-12-03": 89738,
-  "2022-12-04": 89802,
-  "2022-12-05": 89872,
-  "2022-12-06": 89923,
-  "2022-12-07": 89988,
-  "2022-12-08": 90053,
-  "2022-12-09": 90110,
-  "2022-12-10": 90164,
-  "2022-12-11": 90228,
-  "2022-12-12": 90308,
-  "2022-12-13": 90376,
-  "2022-12-14": 90437,
-  "2022-12-15": 90492,
-  "2022-12-16": 90544,
-  "2022-12-17": 90599,
-  "2022-12-18": 90679,
-  "2022-12-19": 90731,
-  "2022-12-20": 90855,
-  "2022-12-21": 90855,
-  "2022-12-22": 90894,
-  "2022-12-24": 90998,
-  "2022-12-25": 91064,
-  "2022-12-26": 91108,
-  "2022-12-27": 91176,
-  "2022-12-28": 91214,
-  "2022-12-29": 91267,
-  "2022-12-30": 91325,
-  "2022-12-31": 91393,
-  "2023-01-01": 91462,
-  "2023-01-02": 91531,
-  "2023-01-03": 91607,
-  "2023-01-04": 91668,
-  "2023-01-05": 91745,
-  "2023-01-06": 91814,
-  "2023-01-07": 91937,
-  "2023-01-08": 91951,
-  "2023-01-09": 92046,
-  "2023-01-10": 92113,
-  "2023-01-11": 92168,
-  "2023-01-12": 92230,
-  "2023-01-13": 92299,
-  "2023-01-14": 92435,
-  "2023-01-15": 92457,
-  "2023-01-16": 92513,
-  "2023-01-17": 92593,
-  "2023-01-18": 92666,
-  "2023-01-19": 92738,
-  "2023-01-20": 92789,
-  "2023-01-21": 92863,
-  "2023-01-22": 92919,
-  "2023-01-23": 92986,
-  "2023-01-24": 93071,
-  "2023-01-25": 93121,
-  "2023-01-26": 93188,
-  "2023-01-27": 93259,
-  "2023-01-28": 93305,
-  "2023-01-29": 93382,
-  "2023-01-30": 93461,
-  "2023-01-31": 93461,
-  "2023-02-01": 93731,
-  "2023-02-02": 93841,
-  "2023-02-03": 93946,
-  "2023-02-04": 94042,
-  "2023-02-05": 94145,
-  "2023-02-06": 94232,
-  "2023-02-07": 94326,
-  "2023-02-08": 94475,
-  "2023-02-09": 94475,
-  "2023-02-10": 94563,
-  "2023-02-11": 94654,
-  "2023-02-12": 94867,
-  "2023-02-13": 94959,
-  "2023-02-14": 94959,
-  "2023-02-15": 95052,
-  "2023-02-16": 95132,
-  "2023-02-17": 95203,
-  "2023-02-18": 95388,
-  "2023-02-19": 95401,
-  "2023-02-20": 95480,
-  "2023-02-21": 95579,
-  "2023-02-22": 95671,
-  "2023-02-23": 95747,
-  "2023-02-24": 95828,
-  "2023-02-25": 95920,
-  "2023-02-26": 95969,
-  "2023-02-27": 96246,
-  "2023-02-28": 96246,
-  "2023-03-01": 96331,
-  "2023-03-02": 96442,
-  "2023-03-03": 96533,
-  "2023-03-04": 96657,
-  "2023-03-05": 96872,
-  "2023-03-06": 96872,
-  "2023-03-07": 96969,
-  "2023-03-08": 97059,
-  "2023-03-09": 97135,
-  "2023-03-10": 97213,
-  "2023-03-11": 97297,
-  "2023-03-12": 97375,
-  "2023-03-13": 97477,
-  "2023-03-14": 97554,
-  "2023-03-15": 97640,
-  "2023-03-16": 97720,
-  "2023-03-17": 97720,
-  "2023-03-18": 97887,
-  "2023-03-19": 97973,
-  "2023-03-20": 98081,
-  "2023-03-21": 98184,
-  "2023-03-22": 98278,
-  "2023-03-23": 98381,
-  "2023-03-24": 98381,
-  "2023-03-25": 98582,
-  "2023-03-26": 98673,
-  "2023-03-27": 98818,
-  "2023-03-28": 98918,
-  "2023-03-29": 99009,
-  "2023-03-30": 99176,
-  "2023-03-31": 99176,
-  "2023-04-01": 99277,
-  "2023-04-02": 99383,
-  "2023-04-03": 99488,
-  "2023-04-04": 99582,
-  "2023-04-05": 99647,
-  "2023-04-06": 99710,
-  "2023-04-07": 99782,
-  "2023-04-09": 99899,
-  "2023-04-10": 99963,
-  "2023-04-11": 100075,
-  "2023-04-12": 100075,
-  "2023-04-13": 100158,
-  "2023-04-14": 100191,
-  "2023-04-15": 100254,
-  "2023-04-16": 100335,
-  "2023-04-17": 100427,
-  "2023-04-18": 100489,
-  "2023-04-19": 100581,
-  "2023-04-20": 100629,
-  "2023-04-21": 100690,
-  "2023-04-22": 100749,
-  "2023-04-23": 100821,
-  "2023-04-24": 100887,
-  "2023-04-25": 100978,
-  "2023-04-26": 101041,
-  "2023-04-27": 101142,
-  "2023-04-28": 101195,
-  "2023-04-29": 101260,
-  "2023-04-30": 101325,
-  "2023-05-01": 101392,
-  "2023-05-02": 101445,
-  "2023-05-03": 101500,
-  "2023-05-04": 101581,
-  "2023-05-05": 101654,
-  "2023-05-06": 101720,
-  "2023-05-07": 101787,
-  "2023-05-08": 101864,
-  "2023-05-09": 101927,
-  "2023-05-10": 101994,
-  "2023-05-11": 102047,
-  "2023-05-12": 102108,
-  "2023-05-13": 102173,
-  "2023-05-14": 102237,
-  "2023-05-15": 102292,
-  "2023-05-16": 102357,
-  "2023-05-17": 102428,
-  "2023-05-18": 102476,
-  "2023-05-19": 102556,
-  "2023-05-20": 102704,
-  "2023-05-21": 102704,
-  "2023-05-22": 102704,
-  "2023-05-23": 102839,
-  "2023-05-24": 102947,
-  "2023-05-25": 102956,
-  "2023-05-26": 103024,
-  "2023-05-27": 103091,
-  "2023-05-28": 103176,
-  "2023-05-29": 103176,
-  "2023-05-30": 103273,
-  "2023-05-31": 103330,
-  "2023-06-01": 103396,
-  "2023-06-02": 103464,
-  "2023-06-03": 103517,
-  "2023-06-04": 103590,
-  "2023-06-05": 103653,
-  "2023-06-06": 103708,
-  "2023-06-07": 103753,
-  "2023-06-08": 103822,
-  "2023-06-09": 103877,
-  "2023-06-10": 103919,
-  "2023-06-11": 103981,
-  "2023-06-12": 104048,
-  "2023-06-13": 104109,
-  "2023-06-14": 104162,
-  "2023-06-15": 104207,
-  "2023-06-16": 104251,
-  "2023-06-17": 104316,
-  "2023-06-18": 104379,
-  "2023-06-19": 104446,
-  "2023-06-20": 104497,
-  "2023-06-21": 104568,
-  "2023-06-22": 104718,
-  "2023-06-23": 104879,
-  "2023-06-24": 104951,
-  "2023-06-25": 105067,
-  "2023-06-26": 105128,
-  "2023-06-27": 105187,
-  "2023-06-28": 105245,
-  "2023-06-29": 105305,
-  "2023-06-30": 105341,
-  "2023-07-01": 105446,
-  "2023-07-02": 105446,
-  "2023-07-03": 105525,
-  "2023-07-04": 105589,
-  "2023-07-05": 105652,
-  "2023-07-06": 105757,
-  "2023-07-07": 105757,
-  "2023-07-08": 105822,
-  "2023-07-09": 105875,
-  "2023-07-10": 105934,
-  "2023-07-11": 105986,
-  "2023-07-12": 106031,
-  "2023-07-13": 106072,
-  "2023-07-14": 106127,
-  "2023-07-15": 106172,
-  "2023-07-16": 106234,
-  "2023-07-17": 106292,
-  "2023-07-18": 106338,
-  "2023-07-19": 106389,
-  "2023-07-20": 106444,
-  "2023-07-21": 106497,
-  "2023-07-22": 106553,
-  "2023-07-23": 106601,
-  "2023-07-24": 106653,
-  "2023-07-25": 106698,
-  "2023-07-26": 106754,
-  "2023-07-27": 106815,
-  "2023-07-28": 106885,
-  "2023-07-29": 106943,
-  "2023-07-30": 107001,
-  "2023-07-31": 107048,
-  "2023-08-01": 107097,
-  "2023-08-02": 107151,
-  "2023-08-03": 107198,
-  "2023-08-04": 107246,
-  "2023-08-05": 107301,
-  "2023-08-06": 107426,
-  "2023-08-07": 107426,
-  "2023-08-08": 107457,
-  "2023-08-09": 107518,
-  "2023-08-10": 107556,
-  "2023-08-11": 107614,
-  "2023-08-12": 107668,
-  "2023-08-13": 107668,
-  "2023-08-14": 107788,
-  "2023-08-15": 107912,
-  "2023-08-16": 107912,
-  "2023-08-17": 107971,
-  "2023-08-18": 108032,
-  "2023-08-19": 108071,
-  "2023-08-20": 108147,
-  "2023-08-21": 108207,
-  "2023-08-22": 108261,
-  "2023-08-23": 108311,
-  "2023-08-24": 108371,
-  "2023-08-25": 108434,
-  "2023-08-26": 108486,
-  "2023-08-27": 108557,
-  "2023-08-28": 108625,
-  "2023-08-29": 108687,
-  "2023-08-30": 108745,
-  "2023-08-31": 108803,
-  "2023-09-01": 108889,
-  "2023-09-02": 108889,
-  "2023-09-03": 108935,
-  "2023-09-04": 108935,
-  "2023-09-05": 109038,
-  "2023-09-06": 109083,
-  "2023-09-07": 109083,
-  "2023-09-08": 109083,
-  "2023-09-09": 109083,
-  "2023-09-10": 109278,
-  "2023-09-11": 109333,
-  "2023-09-12": 109333,
-  "2023-09-13": 109469,
-  "2023-09-14": 109469,
-  "2023-09-15": 109571,
-  "2023-09-16": 109608,
-  "2023-09-17": 109608,
-  "2023-09-18": 109608,
-  "2023-09-19": 109760,
-  "2023-09-20": 109797,
-  "2023-09-21": 109847,
-  "2023-09-22": 109899,
-  "2023-09-23": 109899,
-  "2023-09-24": 109899,
-  "2023-09-25": 109899,
-  "2023-09-26": 110112,
-  "2023-09-27": 110112,
-  "2023-09-28": 110112,
-  "2023-09-29": 110112,
-  "2023-09-30": 110112,
-  "2023-10-01": 110112,
-  "2023-10-02": 110392,
-  "2023-10-03": 110392,
-  "2023-10-04": 110392,
-  "2023-10-05": 110548,
-  "2023-10-06": 110594,
-  "2023-10-07": 110594,
-  "2023-10-08": 110594,
-  "2023-10-09": 110594,
-  "2023-10-10": 110594,
-  "2023-10-11": 110805,
-  "2023-10-12": 110805,
-  "2023-10-13": 110899,
-  "2023-10-14": 110899,
-  "2023-10-15": 110899,
-  "2023-10-16": 110899,
-  "2023-10-17": 110899,
-  "2023-10-18": 110899,
-  "2023-10-19": 110899,
-  "2023-10-20": 110899,
-  "2023-10-21": 110899,
-  "2023-10-22": 110899,
-  "2023-10-23": 110899,
-  "2023-10-24": 110899,
-  "2023-10-25": 110899,
-  "2023-10-26": 110899,
-  "2023-10-27": 110899,
-  "2023-10-28": 110899,
-  "2023-10-29": 110899,
-  "2023-10-30": 110899,
-  "2023-10-31": 110899,
-  "2023-11-01": 110899,
-  "2023-11-02": 110899,
-  "2023-11-03": 110899,
-  "2023-11-04": 110899,
-  "2023-11-05": 110899,
-  "2023-11-06": 110899,
-  "2023-11-07": 110899,
-  "2023-11-08": 110899,
-  "2023-11-09": 110899,
-  "2023-11-10": 110899,
-  "2023-11-11": 112454,
-  "2023-11-12": 112454,
-  "2023-11-13": 112454,
-  "2023-11-14": 112454,
-  "2023-11-15": 112454,
-  "2023-11-16": 112454,
-  "2023-11-17": 112751,
-  "2023-11-18": 112751,
-  "2023-11-19": 112751,
-  "2023-11-20": 112751,
-  "2023-11-21": 112751,
-  "2023-11-22": 112751,
-  "2023-11-23": 112751,
-  "2023-11-24": 112751,
-  "2023-11-25": 112751,
-  "2023-11-26": 112751,
-  "2023-11-27": 112751,
-  "2023-11-28": 112751,
-  "2023-11-29": 112751,
-  "2023-11-30": 112751,
-  "2023-12-01": 112751,
-  "2023-12-02": 112751,
-  "2023-12-03": 112751,
-  "2023-12-04": 112751,
-  "2023-12-05": 112751,
-  "2023-12-06": 112751,
-  "2023-12-07": 112751,
-  "2023-12-08": 112751,
-  "2023-12-09": 112751,
-  "2023-12-10": 112751,
-  "2023-12-11": 112751,
-  "2023-12-12": 112751,
-  "2023-12-13": 112751,
-  "2023-12-14": 114016,
-  "2023-12-15": 114047,
-  "2023-12-16": 114081,
-  "2023-12-17": 114127,
-  "2023-12-18": 114177,
-  "2023-12-19": 114218,
-  "2023-12-20": 114261,
-  "2023-12-21": 114293,
-  "2023-12-22": 114328,
-  "2023-12-23": 114369,
-  "2023-12-24": 114414,
-  "2023-12-25": 114471,
-  "2023-12-26": 114510,
-  "2023-12-27": 114560,
-  "2023-12-30": 114699,
-  "2023-12-31": 114745,
-  "2024-01-01": 114793,
-  "2024-01-02": 114839,
-  "2024-01-03": 114881
+  "2024-01-17": 115519,
+  "date_first_scraped": "2022-05-30",
+  "description": "Your essential Max Richter, all in one collection.",
+  "name": "This is Max Richter",
+  "tracks": [
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 594700,
+      "name": "\"we circle through the night, consumed by fire\" - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7pAksEVGKqiXRvl2bO0vhy"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152286,
+      "name": "A Blessing",
+      "url": "https://open.spotify.com/track/31ANDOxrKxaonfwKirq0ac"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152286,
+      "name": "A Blessing",
+      "url": "https://open.spotify.com/track/3Qh4Inf43LSK22wdfmLC2r"
+    },
+    {
+      "album": {
+        "name": "A Catalogue Of Afternoons",
+        "url": "https://open.spotify.com/album/3EmrqoUaH8b96oBjtbwfl5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110880,
+      "name": "A Catalogue of Afternoons",
+      "url": "https://open.spotify.com/track/42c1ppLBsSbUjFNDzYLY10"
+    },
+    {
+      "album": {
+        "name": "Taboo (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/6U5z9EiIl1iBdwfzAGxS0B"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109738,
+      "name": "A Lamenting Song",
+      "url": "https://open.spotify.com/track/1GkAK6lX1NKI51YmMy7oR0"
+    },
+    {
+      "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/09x25TUKcHtSYTDNNFQGHZ"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "After Gunter's Death",
+      "url": "https://open.spotify.com/track/4RPilUg9WofA2cIZAzOlhh"
+    },
+    {
+      "album": {
+        "name": "All Human Beings",
+        "url": "https://open.spotify.com/album/3n6NQRhWB5DGH4k4p09vWx"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "KiKi Layne",
+          "url": "https://open.spotify.com/artist/6XHc5bOPo6tCfP92bbhNa4"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76160,
+      "name": "All Human Beings - Pt. 1",
+      "url": "https://open.spotify.com/track/1451bjNvKQN81KFR8VbMLB"
+    },
+    {
+      "album": {
+        "name": "All Human Beings",
+        "url": "https://open.spotify.com/album/3n6NQRhWB5DGH4k4p09vWx"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "KiKi Layne",
+          "url": "https://open.spotify.com/artist/6XHc5bOPo6tCfP92bbhNa4"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54840,
+      "name": "All Human Beings - Pt. 2",
+      "url": "https://open.spotify.com/track/3Iks7rs63Ra9195TX3Lcxk"
+    },
+    {
+      "album": {
+        "name": "All Human Beings",
+        "url": "https://open.spotify.com/album/3n6NQRhWB5DGH4k4p09vWx"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170453,
+      "name": "All Human Beings - Pt. 3",
+      "url": "https://open.spotify.com/track/3RvDGtNHdupRbEvIOw5jcl"
+    },
+    {
+      "album": {
+        "name": "All Human Beings",
+        "url": "https://open.spotify.com/album/3n6NQRhWB5DGH4k4p09vWx"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "KiKi Layne",
+          "url": "https://open.spotify.com/artist/6XHc5bOPo6tCfP92bbhNa4"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76880,
+      "name": "All Human Beings - Pt. 4",
+      "url": "https://open.spotify.com/track/0JTAaizXXYA9OGPXhbIQVk"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/4fcZBukqygltK48rGGzylj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426853,
+      "name": "Arbenita (11 Years)",
+      "url": "https://open.spotify.com/track/3z4LWIYfaUiuNUjXRGD314"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 426853,
+      "name": "Arbenita - 11 Years",
+      "url": "https://open.spotify.com/track/6VKJZGB1jDDlzKilQL3b1s"
+    },
+    {
+      "album": {
+        "name": "Songs From Before",
+        "url": "https://open.spotify.com/album/1v1fuOZBcYqCRPp1y0p9eZ"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Rico Costa",
+          "url": "https://open.spotify.com/artist/32yNIfEWrf88F4913yqbNL"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Autumn Music 1",
+      "url": "https://open.spotify.com/track/3Renw0Ivd1KMbw39bH9gvw"
+    },
+    {
+      "album": {
+        "name": "Songs From Before",
+        "url": "https://open.spotify.com/album/1v1fuOZBcYqCRPp1y0p9eZ"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Rico Costa",
+          "url": "https://open.spotify.com/artist/32yNIfEWrf88F4913yqbNL"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "Autumn Music 2",
+      "url": "https://open.spotify.com/track/0NQ9NrEQx22mr2CJc2h5J6"
+    },
+    {
+      "album": {
+        "name": "The Congress (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/095QbAjet5Lb4lfaR5Lz70"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 294759,
+      "name": "Beginning and Ending",
+      "url": "https://open.spotify.com/track/1QfjGDbGtAluEPT376X8zs"
+    },
+    {
+      "album": {
+        "name": "The Congress",
+        "url": "https://open.spotify.com/album/5tO5lnQWQ73Xq6aMKDmIY6"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294760,
+      "name": "Beginning and Ending",
+      "url": "https://open.spotify.com/track/7J7towQJuyt1Rf2tVBC0R7"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215027,
+      "name": "Cassiopeia - Pt. 6",
+      "url": "https://open.spotify.com/track/5g3LwGreo7OUYDusbRYQVb"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215027,
+      "name": "Cassiopeia - Pt. 6",
+      "url": "https://open.spotify.com/track/15PAbIlt5wETEwcQCQUXkz"
+    },
+    {
+      "album": {
+        "name": "24 Postcards In Full Colour",
+        "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64386,
+      "name": "Circles From The Rue Simon \u2013 Crubellier",
+      "url": "https://open.spotify.com/track/5ZkBWiTd1AgqkW8PflCgHr"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182728,
+      "name": "Colour Wheel",
+      "url": "https://open.spotify.com/track/7aRqwFtiflAVibpScrs5o3"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305376,
+      "name": "De Profundis",
+      "url": "https://open.spotify.com/track/3ZyFFvk9DHESkOE8OrIuol"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305376,
+      "name": "De Profundis",
+      "url": "https://open.spotify.com/track/6eZdxP7SUDLbxAfNHr6FGW"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114288,
+      "name": "Departure (Home)",
+      "url": "https://open.spotify.com/track/0aF5lDR6bB34Bhx2MefN1X"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114288,
+      "name": "Departure (Home)",
+      "url": "https://open.spotify.com/track/6oL99CBEXTL8vZ5PpmknXk"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228493,
+      "name": "Dona Nobis Pacem 1",
+      "url": "https://open.spotify.com/track/0tKTrU0F9lPkZIzwnBJPKn"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228493,
+      "name": "Dona Nobis Pacem 1",
+      "url": "https://open.spotify.com/track/1VbkuH51xozbtwOcMjis5N"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 200650,
+      "name": "Dona Nobis Pacem 2",
+      "url": "https://open.spotify.com/track/4FDsAHKFYgBJzkaQna9kJL"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200650,
+      "name": "Dona Nobis Pacem 2",
+      "url": "https://open.spotify.com/track/4wkxtebeaxN8KvYe0CEi5y"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 143739,
+      "name": "Dream 0 (till break of day) - Pt. 3",
+      "url": "https://open.spotify.com/track/0etsQkVBxOZ4bQSTQoU5JW"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143739,
+      "name": "Dream 0 (Till Break of Day) - Pt. 3",
+      "url": "https://open.spotify.com/track/7bP6edNQw2AHfOMxswSdfJ"
+    },
+    {
+      "album": {
+        "name": "Dream 0 (till break of day) [Pt. 3 / Edit]",
+        "url": "https://open.spotify.com/album/6NgpHcBNnveHmmPS4EEBpR"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 143846,
+      "name": "Dream 0 (till break of day) - Pt. 3 / Edit",
+      "url": "https://open.spotify.com/track/10BkiDhJdzbL2ZeqhGDCe7"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153101,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 1",
+      "url": "https://open.spotify.com/track/3FVy3aVs0TFzLv6FEiLqC2"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142355,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 2",
+      "url": "https://open.spotify.com/track/4lyY06kGvzvmG6ErToOVLe"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138954,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 3",
+      "url": "https://open.spotify.com/track/73acjJgRohsq2yCD2FbkUX"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133629,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 4",
+      "url": "https://open.spotify.com/track/0bnSSnjn83WSf2voqAUZfU"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118668,
+      "name": "Dream 1 (before the wind blows it all away) - Pt. 8",
+      "url": "https://open.spotify.com/track/1A8qD0Ygjzsby5OmXh1PTa"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata Resnick",
+          "url": "https://open.spotify.com/artist/2TVn6PQxnrxlIq4F2Vz3Qs"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 603600,
+      "name": "Dream 3 (in the midst of my life)",
+      "url": "https://open.spotify.com/track/3Nnh8zqsJQGuJdNnyP6m03"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218306,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/5y13OjQquerzFK0dIDETgG"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/4fcZBukqygltK48rGGzylj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218306,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/4hsPt6vWzSPxYRHgeyA1Mb"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303126,
+      "name": "Follower",
+      "url": "https://open.spotify.com/track/5SAVbHhpOagXU5QbueZno8"
+    },
+    {
+      "album": {
+        "name": "24 Postcards In Full Colour",
+        "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110253,
+      "name": "H In New England",
+      "url": "https://open.spotify.com/track/1rlp0Err7DDPV4mu3iWCwX"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks",
+        "url": "https://open.spotify.com/album/2Zlgv1oosng3OWHzdcTk9a"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112613,
+      "name": "Horizon Variations",
+      "url": "https://open.spotify.com/track/2vvuFgKz1DVcMDymMI3eBH"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112613,
+      "name": "Horizon Variations",
+      "url": "https://open.spotify.com/track/37xq4ONkOsboVdMMkYhdOm"
+    },
+    {
+      "album": {
+        "name": "At Home Classical Edition",
+        "url": "https://open.spotify.com/album/5sPRmNQ86xnw4G7glT4Zhz"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 112613,
+      "name": "Horizon Variations",
+      "url": "https://open.spotify.com/track/6iGX6MDMFUgpRim1aXN3r4"
+    },
+    {
+      "album": {
+        "name": "Testament Of Youth (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/2dEs5t9eHCmWYI1rkoMQSN"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235826,
+      "name": "I will not forget you",
+      "url": "https://open.spotify.com/track/6zacWNZy18tMVJo9yJ69gL"
+    },
+    {
+      "album": {
+        "name": "Testament of Youth (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0JXZzgtDNWEQeBucUNDKWz"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235840,
+      "name": "I Will Not Forget You",
+      "url": "https://open.spotify.com/track/6Mx6Xya6JZMdQDATJMhRBi"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark Room",
+        "url": "https://open.spotify.com/album/0jGnjoFPTAHUKC7YQFTdJO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 235853,
+      "name": "I Will Not Forget You (from \"Testament of Youth\")",
+      "url": "https://open.spotify.com/track/4WC7A6YMmE1Xn3COkj8u58"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks",
+        "url": "https://open.spotify.com/album/0m6Zt3YJAMWwGRTPvTnY4g"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218853,
+      "name": "Iconography",
+      "url": "https://open.spotify.com/track/6RdySnqgL63I7ISbYOECjL"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218853,
+      "name": "Iconography",
+      "url": "https://open.spotify.com/track/6h3detvfBsYvepS77rckEv"
+    },
+    {
+      "album": {
+        "name": "Voyager - Essential Max Richter",
+        "url": "https://open.spotify.com/album/3vEiYqSfrz7tHnHq14XHQd"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 221306,
+      "name": "Iconography",
+      "url": "https://open.spotify.com/track/4F1q5F10hNF0LkZgWMtT4b"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297630,
+      "name": "In The Garden - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4wEL6ZCwfaYdmeKR14MJVa"
+    },
+    {
+      "album": {
+        "name": "Infra",
+        "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Nick Barr",
+          "url": "https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165853,
+      "name": "Infra 4",
+      "url": "https://open.spotify.com/track/72XHAwIqoQF3awnqfGHzSX"
+    },
+    {
+      "album": {
+        "name": "Infra",
+        "url": "https://open.spotify.com/album/7zwjum4hz8odYpeZrSZyz2"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Nick Barr",
+          "url": "https://open.spotify.com/artist/4wY5whlhuthLIZfG1IaZ6Y"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201960,
+      "name": "Infra 8",
+      "url": "https://open.spotify.com/track/3BabcLOnik1iGxVcXxk0eK"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455019,
+      "name": "Little Requiems - Cello Version",
+      "url": "https://open.spotify.com/track/6bw0n3EJHPq531tnwKfi9q"
+    },
+    {
+      "album": {
+        "name": "24 Postcards In Full Colour",
+        "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122106,
+      "name": "Lullaby From The Westcoast Sleepers",
+      "url": "https://open.spotify.com/track/0T3rCQEMPQU8bnQBLkjpGZ"
+    },
+    {
+      "album": {
+        "name": "Perfect Sense: Original Film Soundtrack",
+        "url": "https://open.spotify.com/album/6RpPv20iDOS4H3WO8jrrvf"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305725,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/2cQ9Gu7qFvXTJcPEOjdd4V"
+    },
+    {
+      "album": {
+        "name": "In 27 Pieces: the Hilary Hahn Encores",
+        "url": "https://open.spotify.com/album/7GiMQKT1Twq3MOVAGQekF7"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Hilary Hahn",
+          "url": "https://open.spotify.com/artist/5JdT0LYJdlPbTC58p60WTX"
+        },
+        {
+          "name": "Cory Smythe",
+          "url": "https://open.spotify.com/artist/5UageRpKPwCqXQLs79kXO3"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331520,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/0mZ6lTHCrackZGL9rGWlxO"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7GLOFKK7gZHLC0RkSmSRgz"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328573,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/2MCJ5Mk1JkWYnEbc93sTVE"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266495,
+      "name": "Mercy Duet",
+      "url": "https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156133,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5cR0oEVJrFbHPvhFnEPv06"
+    },
+    {
+      "album": {
+        "name": "Miss Sloane (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/09zIgmRsrLm0bpTzxQCBO7"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127733,
+      "name": "Miss Sloane Solo",
+      "url": "https://open.spotify.com/track/08w5Hy6Lv5d6y3iZZyaM3K"
+    },
+    {
+      "album": {
+        "name": "Miss Sloane (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yZ9kWiGkJ3i6fxWw9cxV9"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 127733,
+      "name": "Miss Sloane Solo",
+      "url": "https://open.spotify.com/track/45SUuwxzQQzvnAaMjuM5XZ"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348687,
+      "name": "Movement Study",
+      "url": "https://open.spotify.com/track/5MKvfWEvkc50Vu07HRotqW"
+    },
+    {
+      "album": {
+        "name": "White Boy Rick (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2oEASogrKIZSBOa6ykScxq"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Nonviolent Offender",
+      "url": "https://open.spotify.com/track/3fc6z0RlVBu0ggtidwCpvw"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 382880,
+      "name": "November",
+      "url": "https://open.spotify.com/track/4NtfmGeS6yNfDG7GXZu1n2"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/4fcZBukqygltK48rGGzylj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382880,
+      "name": "November",
+      "url": "https://open.spotify.com/track/6tHPSEdxp6g2Ntur8nANYt"
+    },
+    {
+      "album": {
+        "name": "Black Mirror - Nosedive (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434862,
+      "name": "On Reflection",
+      "url": "https://open.spotify.com/track/4EKMLcDmI7I5bORpsWgQg1"
+    },
+    {
+      "album": {
+        "name": "R\u00e9viser en musique",
+        "url": "https://open.spotify.com/album/7EfARh3xGTOPr8o45eNcxR"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 396066,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/6M69nlgfVdNiNiYpPQDzV9"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Philip Sheppard",
+          "url": "https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371746,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks",
+        "url": "https://open.spotify.com/album/0m6Zt3YJAMWwGRTPvTnY4g"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 394986,
+      "name": "On The Nature Of Daylight - Bonus Track",
+      "url": "https://open.spotify.com/track/7AbvvetUXOiLPiibxKWtu7"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Lorenz Dangel",
+          "url": "https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396066,
+      "name": "On the Nature of Daylight - Orchestral Version",
+      "url": "https://open.spotify.com/track/0tYuVSs2DqXhtXT4JzDWSt"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77418,
+      "name": "Only Questions",
+      "url": "https://open.spotify.com/track/29GL9OJ3CuuoeyKEOJK6db"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 77418,
+      "name": "Only Questions",
+      "url": "https://open.spotify.com/track/2Ua2U7enh9ErAF6DaJh4hg"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193480,
+      "name": "Organum",
+      "url": "https://open.spotify.com/track/0xyUCEk6IkYMN6asvcavk9"
+    },
+    {
+      "album": {
+        "name": "Soothing Music",
+        "url": "https://open.spotify.com/album/4aC1Dm51o2nm5iEWwKE9Bt"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 193480,
+      "name": "Organum",
+      "url": "https://open.spotify.com/track/25RAjjjSUosyuFovL7p99P"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks",
+        "url": "https://open.spotify.com/album/0m6Zt3YJAMWwGRTPvTnY4g"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193480,
+      "name": "Organum",
+      "url": "https://open.spotify.com/track/5NEwKnqmaTO4sGXZSYsrMC"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248041,
+      "name": "Origins (Solo)",
+      "url": "https://open.spotify.com/track/5tZePjNQ81uJZew7j0Z5Kc"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164579,
+      "name": "Path 17 (before the ending of daylight) - Pt. 1",
+      "url": "https://open.spotify.com/track/0Y3Ossw70oeM9WJcGMr9Wg"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164579,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 1",
+      "url": "https://open.spotify.com/track/7fLYd1Jock7FY5c7PuM8BF"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 120121,
+      "name": "Path 17 (before the ending of daylight) - Pt. 2",
+      "url": "https://open.spotify.com/track/5KMP32A2uCjQlawE7FUn7g"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sleep",
+        "url": "https://open.spotify.com/album/0ZTNOXYBaaYrvCV0wLkZXu"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 120121,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 2",
+      "url": "https://open.spotify.com/track/3dtdoOrIlGIrUg5PY00wUT"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120121,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 2",
+      "url": "https://open.spotify.com/track/5A2bAJGUwqjGaCQDvrtJKQ"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183018,
+      "name": "Path 17 (before the ending of daylight) - Pt. 3",
+      "url": "https://open.spotify.com/track/6r0yvMq5ENUG7yAnApqt3B"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183018,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 3",
+      "url": "https://open.spotify.com/track/6A0ef2nvfKwAPDLO2jfIVZ"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217984,
+      "name": "Path 17 (before the ending of daylight) - Pt. 4",
+      "url": "https://open.spotify.com/track/4dV0eWFqA6nI13YhkACtbZ"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217984,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 4",
+      "url": "https://open.spotify.com/track/7tQPvCK4wWf1BXos1vD9XE"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192055,
+      "name": "Path 17 (before the ending of daylight) - Pt. 5",
+      "url": "https://open.spotify.com/track/3yC80solf73rfJANxQDc31"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192055,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 5",
+      "url": "https://open.spotify.com/track/4VHCYMHDuOiNVr7J587ffz"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/12qYj59iJP2Od7tKV0tcAE"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192055,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 5",
+      "url": "https://open.spotify.com/track/5vzFRT69QXeha7pxhakJ0E"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233035,
+      "name": "Path 17 (before the ending of daylight) - Pt. 6",
+      "url": "https://open.spotify.com/track/1drYtgeOeRkO5rQMGPQh27"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233035,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 6",
+      "url": "https://open.spotify.com/track/2aGGibdmtHmVQS8TdfpFqm"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 501212,
+      "name": "Path 17 (before the ending of daylight) - Pt. 7",
+      "url": "https://open.spotify.com/track/4t0XPlik93Pk4N0RPhvlkX"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501212,
+      "name": "Path 17 (Before the Ending of Daylight) - Pt. 7",
+      "url": "https://open.spotify.com/track/1xgtOKcyZrvPDDMlbsANlb"
+    },
+    {
+      "album": {
+        "name": "From Sleep",
+        "url": "https://open.spotify.com/album/7tP7WLxusDpTi1gf1JFsrT"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 674160,
+      "name": "Path 5 (delta)",
+      "url": "https://open.spotify.com/track/3izYqkzqnPu8SctUNeyne2"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258411,
+      "name": "Prelude 2",
+      "url": "https://open.spotify.com/track/6YqGYGZ8veE2PeCxInWN6E"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413241,
+      "name": "Psychogeography",
+      "url": "https://open.spotify.com/track/5rGghULRHdt40jvMnpDubb"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/4gmhjAsvL6c7se2PBh7dHw"
+    },
+    {
+      "album": {
+        "name": "Brunch with Vivaldi",
+        "url": "https://open.spotify.com/album/7vjUkzgBtOhL42fXMscbUW"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 155135,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/2WP7odDNsrrkceU9zarqqd"
+    },
+    {
+      "album": {
+        "name": "Spring 1 (2022)",
+        "url": "https://open.spotify.com/album/4TW6r5GP0V1Ji1ZMnrlgDl"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        },
+        {
+          "name": "Chineke! Orchestra",
+          "url": "https://open.spotify.com/artist/7FKUsKktgY7Zf8iAL6wOls"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152094,
+      "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons: Spring 1 - 2022",
+      "url": "https://open.spotify.com/track/2B3o5ddgGObs1M0CGkdTr9"
+    },
+    {
+      "album": {
+        "name": "Hostiles (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1Xp9rz5hJZg5Wyobk8UJSF"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254159,
+      "name": "Rosalee Theme",
+      "url": "https://open.spotify.com/track/26biCo2zkO7KlOzrwIbSrT"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229403,
+      "name": "She Remembers",
+      "url": "https://open.spotify.com/track/3JggEa7I7tBPQhiOfexL6U"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229403,
+      "name": "She Remembers",
+      "url": "https://open.spotify.com/track/4zj2TfCmxKJ92IwtNWOAaM"
+    },
+    {
+      "album": {
+        "name": "Voices 2",
+        "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289182,
+      "name": "Solitaries",
+      "url": "https://open.spotify.com/track/1ZtENrjdrvGPllE7NvzS9S"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122840,
+      "name": "Space 17 (chains) - Pt. 1",
+      "url": "https://open.spotify.com/track/0d6D779VpHJdVcvyyqBb75"
+    },
+    {
+      "album": {
+        "name": "Relaxing Sleep",
+        "url": "https://open.spotify.com/album/0ZTNOXYBaaYrvCV0wLkZXu"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 122840,
+      "name": "Space 17 (Chains) - Pt. 1",
+      "url": "https://open.spotify.com/track/0d0evpPV7fHf1rhPsA8e4Z"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122840,
+      "name": "Space 17 (Chains) - Pt. 1",
+      "url": "https://open.spotify.com/track/1rLziWNhWFgPcyJmKNkIYm"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138326,
+      "name": "Space 17 (chains) - Pt. 5",
+      "url": "https://open.spotify.com/track/6Vu6DMUTzZul63xEAWdyhl"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138326,
+      "name": "Space 17 (Chains) - Pt. 5",
+      "url": "https://open.spotify.com/track/1kNXOVJ9TfSgMBTiL0DU1Q"
+    },
+    {
+      "album": {
+        "name": "Space 17 (chains) [Pt. 5 / Edit]",
+        "url": "https://open.spotify.com/album/3SWtRZuA8ntUTg4j7Oq7qj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 138500,
+      "name": "Space 17 (chains) - Pt. 5 / Edit",
+      "url": "https://open.spotify.com/track/2CdIsamdh1y7hkL4c7PMrF"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/1ZM8WtR1Z629k41Rh2bt02"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248160,
+      "name": "Space 2 (slow waves) - Pt. 1",
+      "url": "https://open.spotify.com/track/4w05dUZMo8TkV2LOMvgnzJ"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/12qYj59iJP2Od7tKV0tcAE"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 248160,
+      "name": "Space 2 (Slow Waves) - Pt. 1",
+      "url": "https://open.spotify.com/track/1Wb3m81gkRvl6HAyl78fAZ"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/0JLN7JryQ2T7lBEYIrSQF1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Ben Russell",
+          "url": "https://open.spotify.com/artist/5BG0gerrHZFHPaIEi43FHB"
+        },
+        {
+          "name": "Yuki Numata",
+          "url": "https://open.spotify.com/artist/4rYJIqA2SBfcbn8y8yUGtU"
+        },
+        {
+          "name": "Caleb Burhans",
+          "url": "https://open.spotify.com/artist/3962g9Dfd93mJSVy1D37LF"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248160,
+      "name": "Space 2 (Slow Waves) - Pt. 1",
+      "url": "https://open.spotify.com/track/1sLTpFesY0A406SD0IlbJI"
+    },
+    {
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/5yuG2LEkf7QA9ZGIXldCmy"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
+        },
+        {
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
+        },
+        {
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151506,
+      "name": "Spring 1 - 2012",
+      "url": "https://open.spotify.com/track/5xbuJuQsTVheVZvX2AJVIv"
+    },
+    {
+      "album": {
+        "name": "Songs From Before",
+        "url": "https://open.spotify.com/album/1v1fuOZBcYqCRPp1y0p9eZ"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "Rico Costa",
+          "url": "https://open.spotify.com/artist/32yNIfEWrf88F4913yqbNL"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335400,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/5DXpeFcPHZY3RMChjnB2b5"
+    },
+    {
+      "album": {
+        "name": "Black Mirror - Nosedive (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/2PgwF3dLz3ESa0pyNDMWK5"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 336998,
+      "name": "The Consolations Of Philosophy",
+      "url": "https://open.spotify.com/track/5gbBbzBnuat3nBDZWNHusF"
+    },
+    {
+      "album": {
+        "name": "Black Mirror - Nosedive (Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336998,
+      "name": "The Consolations of Philosophy",
+      "url": "https://open.spotify.com/track/6gllTV2Gyhpn7OwunTAaQH"
+    },
+    {
+      "album": {
+        "name": "Classical For Revising",
+        "url": "https://open.spotify.com/album/15n3JICpoTrlCUwngnhuz9"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 336998,
+      "name": "The Consolations of Philosophy - Music From \"Black Mirror\" TV Series",
+      "url": "https://open.spotify.com/track/1eqf3ZsdpqMDJjEgm8D8Hx"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/5GwkoBYQ4trQO34CZ6RQkg"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75849,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/3KG9I4JXpDwNQOsotE3uLh"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 1",
+        "url": "https://open.spotify.com/album/3QxkdzjGRA4Z1dOfY0e994"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 75849,
+      "name": "The Departure",
+      "url": "https://open.spotify.com/track/7oTKvLjCe7db1UxsImGBwr"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/4MdFhRjrJkeudVfbl15380"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "The End of All Our Exploring",
+      "url": "https://open.spotify.com/track/1CDmaZTOumRbgnF6r33vc0"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 3",
+        "url": "https://open.spotify.com/album/3AkFHz7m4n0dllsScilois"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215333,
+      "name": "the end of all our exploring",
+      "url": "https://open.spotify.com/track/3mVrRcYW3i21oY2SoJhlCM"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVsNr4TRweoIjUR2Dfi4G"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122710,
+      "name": "The Haunted Ocean 1",
+      "url": "https://open.spotify.com/track/3M90kiaIKcUeKOvgJH9x3L"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir",
+        "url": "https://open.spotify.com/album/0OBQ8rUMbtOyMZCq1RhYFj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127013,
+      "name": "The Haunted Ocean 1",
+      "url": "https://open.spotify.com/track/6jPa1nUJW4Dx8xBwq3U5ba"
+    },
+    {
+      "album": {
+        "name": "Royalcore",
+        "url": "https://open.spotify.com/album/1My6NaobL4gtTlkaHEr3s3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 122710,
+      "name": "The Haunted Ocean 1 - From \"Waltz With Bashir\" Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/1NDwSk4vxvz4Vq4fbupsN4"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVsNr4TRweoIjUR2Dfi4G"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219839,
+      "name": "The Haunted Ocean 4",
+      "url": "https://open.spotify.com/track/5J7AFB5FCod6sk6YOlsVj7"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir",
+        "url": "https://open.spotify.com/album/0OBQ8rUMbtOyMZCq1RhYFj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224853,
+      "name": "The Haunted Ocean 4",
+      "url": "https://open.spotify.com/track/1bTJkfwWgQRjubgLzkCI9c"
+    },
+    {
+      "album": {
+        "name": "The Leftovers (Music from the HBO\u00ae Series) Season 2",
+        "url": "https://open.spotify.com/album/4iEVCVnyJVcKMYFSmuaGEt"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 252151,
+      "name": "The Quality of Mercy",
+      "url": "https://open.spotify.com/track/3IQ2lC0AaZ3BMRYMXOJXJQ"
+    },
+    {
+      "album": {
+        "name": "The Leftovers: Season 2 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3UQKi6NGLPqo0stOFYOER3"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252151,
+      "name": "The Quality of Mercy",
+      "url": "https://open.spotify.com/track/6qWKxzkGaEnYavQeKwa7KV"
+    },
+    {
+      "album": {
+        "name": "24 Postcards In Full Colour",
+        "url": "https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125680,
+      "name": "The Tartu Piano",
+      "url": "https://open.spotify.com/track/1moO1G4lgt6zpYDXmVFyVA"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/4fcZBukqygltK48rGGzylj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "BBC Philharmonic",
+          "url": "https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X"
+        },
+        {
+          "name": "Rumon Gamba",
+          "url": "https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118453,
+      "name": "The Twins (Prague)",
+      "url": "https://open.spotify.com/track/3exV5Gea3pXKID4wpjSNWL"
+    },
+    {
+      "album": {
+        "name": "Memoryhouse",
+        "url": "https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 118453,
+      "name": "The Twins - Prague",
+      "url": "https://open.spotify.com/track/4DcM9EUPSYYa9oTSBhc5JY"
+    },
+    {
+      "album": {
+        "name": "Testament Of Youth (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/2dEs5t9eHCmWYI1rkoMQSN"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "These I Send to You",
+      "url": "https://open.spotify.com/track/2RCV9GcstxHGLZ3aTLEjWL"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark Room",
+        "url": "https://open.spotify.com/album/2fJnSsRsg4FjUvq5g2lp8V"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153520,
+      "name": "These I Send to You - From \"Testament of Youth\"",
+      "url": "https://open.spotify.com/track/4b7ECMonM4nTpxqWqF1yjN"
+    },
+    {
+      "album": {
+        "name": "Three Worlds: Music From Woolf Works",
+        "url": "https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Louisa Fuller",
+          "url": "https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ"
+        },
+        {
+          "name": "Natalia Bonner",
+          "url": "https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB"
+        },
+        {
+          "name": "John Metcalfe",
+          "url": "https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd"
+        },
+        {
+          "name": "Ian Burdge",
+          "url": "https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL"
+        },
+        {
+          "name": "Chris Worsey",
+          "url": "https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367000,
+      "name": "Three Worlds: Music from Woolf Works / Mrs Dalloway: Meeting Again",
+      "url": "https://open.spotify.com/track/2IbvPIObLKU3KSiupcOURK"
+    },
+    {
+      "album": {
+        "name": "Three Worlds: Music From Woolf Works",
+        "url": "https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Hila Karni",
+          "url": "https://open.spotify.com/artist/1wOBL5ZQMz6SF4Rf7uabxS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416000,
+      "name": "Three Worlds: Music from Woolf Works / Mrs Dalloway: War Anthem",
+      "url": "https://open.spotify.com/track/2Z5986hxmkwuLG2U2aE72L"
+    },
+    {
+      "album": {
+        "name": "Three Worlds: Music From Woolf Works",
+        "url": "https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194294,
+      "name": "Three Worlds: Music from Woolf Works / Orlando: Modular Astronomy",
+      "url": "https://open.spotify.com/track/14bRPu3Iok7TpqR6xr0FCy"
+    },
+    {
+      "album": {
+        "name": "Three Worlds: Music From Woolf Works",
+        "url": "https://open.spotify.com/album/4fo551Vy3KXbbRxRlVTD9D"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Deutsches Filmorchester Babelsberg",
+          "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
+        },
+        {
+          "name": "Robert Ziegler",
+          "url": "https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx"
+        },
+        {
+          "name": "Mari Samuelsen",
+          "url": "https://open.spotify.com/artist/670EXb4x6t2MAvRvqCixyx"
+        },
+        {
+          "name": "Hila Karni",
+          "url": "https://open.spotify.com/artist/1wOBL5ZQMz6SF4Rf7uabxS"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Gillian Anderson",
+          "url": "https://open.spotify.com/artist/1MANROYUAqKF9H6kRezrHi"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1297912,
+      "name": "Three Worlds: Music from Woolf Works / The Waves: Tuesday",
+      "url": "https://open.spotify.com/track/7ISIqewgqoRByGPWOsWUF1"
+    },
+    {
+      "album": {
+        "name": "To The Stars (From \"Ad Astra\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3SapFtmMw8WCjCRLaABmZ1"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210052,
+      "name": "To the Stars - From \"Ad Astra\" Soundtrack",
+      "url": "https://open.spotify.com/track/2UcUL4jytfVpW0jSXi3Ggi"
+    },
+    {
+      "album": {
+        "name": "SLEEP: Tranquility Base",
+        "url": "https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83000,
+      "name": "Tranquility I",
+      "url": "https://open.spotify.com/track/2g7C6cihBai7u7RGgK6qZ1"
+    },
+    {
+      "album": {
+        "name": "SLEEP: Tranquility Base",
+        "url": "https://open.spotify.com/album/47SL4kZlIzoTa3CMsT5ZNL"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Grace Davidson",
+          "url": "https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5"
+        },
+        {
+          "name": "Clarice Jensen",
+          "url": "https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a"
+        },
+        {
+          "name": "Brian Snow",
+          "url": "https://open.spotify.com/artist/2ESi6tlKQpAqymfpcmBmYi"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82229,
+      "name": "Tranquility II",
+      "url": "https://open.spotify.com/track/3C6SnHzfIxlUFyVPK7vqJG"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78546,
+      "name": "Vladimir's Blues",
+      "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
+    },
+    {
+      "album": {
+        "name": "Gregson Richter J\u00f3hannsson",
+        "url": "https://open.spotify.com/album/7vbCaTZ82Z4Ypq0kmY0lIq"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517966,
+      "name": "Vocal",
+      "url": "https://open.spotify.com/track/3cppjHQ3IlFRQMvcxa8nia"
+    },
+    {
+      "album": {
+        "name": "Gregson Richter J\u00f3hannsson",
+        "url": "https://open.spotify.com/album/5gquemtX2Xqv7NEKXAhG3b"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Peter Gregson",
+          "url": "https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 517966,
+      "name": "Vocal",
+      "url": "https://open.spotify.com/track/4FaNVpaZK3Qy4vd6l7NqrT"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVsNr4TRweoIjUR2Dfi4G"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108733,
+      "name": "What Have They Done?",
+      "url": "https://open.spotify.com/track/695SGQZWiUBjOKDr2NVOQl"
+    },
+    {
+      "album": {
+        "name": "Waltz With Bashir",
+        "url": "https://open.spotify.com/album/0OBQ8rUMbtOyMZCq1RhYFj"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112813,
+      "name": "What Have They Done?",
+      "url": "https://open.spotify.com/track/3Ne4AkxJXpDOzGG7Connkk"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark Room",
+        "url": "https://open.spotify.com/album/0jGnjoFPTAHUKC7YQFTdJO"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "When She Came Back (from \"Sarah's Key\")",
+      "url": "https://open.spotify.com/track/3txJN9cDrbfLDq4QRWiKZz"
+    },
+    {
+      "album": {
+        "name": "Out of the Dark Room",
+        "url": "https://open.spotify.com/album/2fJnSsRsg4FjUvq5g2lp8V"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214653,
+      "name": "When She Came Back - From \"Sarah's Key\"",
+      "url": "https://open.spotify.com/track/4A9mY56mdBMeErE7nKGQXC"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks",
+        "url": "https://open.spotify.com/album/0m6Zt3YJAMWwGRTPvTnY4g"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 100000,
+      "name": "Written On The Sky",
+      "url": "https://open.spotify.com/track/3ozeTjX2upd1YjiYC6eJdo"
+    },
+    {
+      "album": {
+        "name": "The Blue Notebooks (15 Years)",
+        "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/2ffwBvpsQhgXyU7zBUOhwP"
+    },
+    {
+      "album": {
+        "name": "Spring Study Classical",
+        "url": "https://open.spotify.com/album/7l8MWsC5Sq7IdpboEMarrB"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 100013,
+      "name": "Written on the Sky",
+      "url": "https://open.spotify.com/track/7xJ5rnnTJldFqusYmGr0Gs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXe2SymtxlfwF"
 }

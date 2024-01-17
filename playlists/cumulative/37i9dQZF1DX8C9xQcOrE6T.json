@@ -2647,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Grace Potter",
+          "url": "https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163280,
+      "name": "Something That I Want",
+      "url": "https://open.spotify.com/track/3eR3lWuvQqOzhTn91nbRCa"
+    },
+    {
+      "album": {
         "name": "Walt Disney Records The Legacy Collection: Beauty and the Beast",
         "url": "https://open.spotify.com/album/7hq1LYjKOhg1jn39YzbqVK"
       },

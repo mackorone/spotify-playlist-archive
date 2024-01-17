@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,547 likes - 73 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,840 likes - 73 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 21 | [Pompeii 76 A.D.](https://open.spotify.com/track/68sMOYzXAebkYwfvZsedDI) | [Gail Laughton](https://open.spotify.com/artist/5WRr9OjL0ERTqeeUuuaklY) | [I Am the Center: Private Issue New Age Music in America, 1950\-1990](https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso) | 2:22 |
 | 22 | [Dawn's Spirit](https://open.spotify.com/track/1CodjlFitI1S49ioxKShjM) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [River of Soul](https://open.spotify.com/album/5oWq6DEjHyb3YcX4Sn8ttI) | 2:11 |
 | 23 | [Safe in the Angel's Wing](https://open.spotify.com/track/5b37N7OEe9IQJQ48hiKY1p) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [Safe in the Angel's Wing](https://open.spotify.com/album/7E5Jb6jN40I022vJXge97c) | 4:22 |
-| 24 | [Mother of the World](https://open.spotify.com/track/5cmstplnrK8JGDeVbSZM5I) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 5:29 |
+| 24 | [Mother of the World](https://open.spotify.com/track/5SVTe1r6VqMcAYLbWrSMpP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/1FngnWbWnA0absWOPE3Njd) | 5:29 |
 | 25 | [September Rain](https://open.spotify.com/track/5HlvfP7We9wt4Sr2Es9oJd) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Harmonic Dreams](https://open.spotify.com/album/59NYhfyieB8lMKSiuxarUP) | 5:56 |
 | 26 | [The Angels Voice](https://open.spotify.com/track/5jssdePPnGzHhhJOdoSbZD) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 7:05 |
 | 27 | [Ship Ahoy](https://open.spotify.com/track/67Zxpws8FVxlsg0GgVyK2M) | [Michele Ippolito](https://open.spotify.com/artist/02T9iupvpUM5kUAXy74bOM) | [Drifting in Dreams](https://open.spotify.com/album/5Jt9bhKrGeU6hh69D8scOy) | 5:52 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QGYV9jyeOE.md) - [plain]
 | 55 | [Ice Kingdom](https://open.spotify.com/track/4qyNzRyF3wnBVpTPKIBh5j) | [Kerani](https://open.spotify.com/artist/1WTSCwO7YCqyqp8BpKZiG3) | [Arctic Sunrise](https://open.spotify.com/album/5J2kIXMsZ4ERqe9hoykpGl) | 6:45 |
 | 56 | [Whisper](https://open.spotify.com/track/4tiMJFpS9DzRHTGXZ5Kpn1) | [Lisa Lynne](https://open.spotify.com/artist/7DCHj51jkx28ABRyrKzmul), [Aryeh Frankfurter](https://open.spotify.com/artist/2SJAELt6ygyUmDglWepUoJ) | [Weaving Worlds](https://open.spotify.com/album/1cTcE6flp51XhTLEeqAee5) | 4:44 |
 | 57 | [Reflections](https://open.spotify.com/track/51UWxmmOgBSLb3TB3LQdlt) | [Michele Ippolito](https://open.spotify.com/artist/02T9iupvpUM5kUAXy74bOM) | [In The Clouds](https://open.spotify.com/album/5S8W67erHZKChkn5Z65L8i) | 7:59 |
-| 58 | [Chambers of the Heart](https://open.spotify.com/track/3OrwR5F1kWsUgoYhBZSogm) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 4:37 |
+| 58 | [Chambers of the Heart](https://open.spotify.com/track/6cC9oGq9NQdW2HYp5Qzc14) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/1FngnWbWnA0absWOPE3Njd) | 4:37 |
 | 59 | [Touching the Sky](https://open.spotify.com/track/3b4nIHXW63YoTzK8ObFOWh) | [Joanna Brouk](https://open.spotify.com/artist/3yITaOTDcBPYNnYxlxQuUt) | [Sounds of The Sea](https://open.spotify.com/album/3DSg8Ljevyy63dE6dcZ9Vz) | 5:04 |
 | 60 | [Silent Wolf](https://open.spotify.com/track/5VIsj4I7FufxKKyVa8ambj) | [Mary Youngblood](https://open.spotify.com/artist/0pRrf0i6X4uUIdzYrA2mDz) | [Dance with the Wind](https://open.spotify.com/album/1rWvERc73t9QUtAKw4sgLP) | 2:56 |
 | 61 | [Face of Things](https://open.spotify.com/track/1rAbmEmh5lvSoL7elbKWky) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Harmonic Dreams](https://open.spotify.com/album/59NYhfyieB8lMKSiuxarUP) | 5:36 |

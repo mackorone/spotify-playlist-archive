@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06p2NnNBbZc.md) - [plain]
 
 > 【セトリ公開】2023年5月に行われた<a href="https://www.twicejapan.com/feature/5thworldtour\_readytobe">TWICE ワールドツアー「READY TO BE」の日本公演</a>セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,429 likes - 35 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,615 likes - 35 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

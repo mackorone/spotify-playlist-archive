@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Ric Hassani",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Qing Madi",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 145892,
       "name": "21",
       "url": "https://open.spotify.com/track/2Nc7cDLjqgAFXNyFvJXOkS"
@@ -540,6 +540,24 @@
       "duration_ms": 128666,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/3GGqmMO9i3fS3kONWUsSxE"
+    },
+    {
+      "album": {
+        "name": "Qing Madi",
+        "url": "https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189015,
+      "name": "American Love",
+      "url": "https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N"
     },
     {
       "album": {
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 182361,
       "name": "Break Up",
       "url": "https://open.spotify.com/track/2HC8oDukA9GvcWG5MuGYde"
@@ -4080,6 +4098,28 @@
       "duration_ms": 187500,
       "name": "IDG",
       "url": "https://open.spotify.com/track/3k9Y1OBtIdPQNqbKILvJcD"
+    },
+    {
+      "album": {
+        "name": "If They Are Real",
+        "url": "https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF"
+      },
+      "artists": [
+        {
+          "name": "Vector",
+          "url": "https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "If They Are Real",
+      "url": "https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j"
     },
     {
       "album": {

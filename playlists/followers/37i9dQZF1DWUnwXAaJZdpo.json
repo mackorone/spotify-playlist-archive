@@ -1,580 +1,2085 @@
 {
-  "2022-05-30": 785878,
-  "2022-05-31": 785900,
-  "2022-06-01": 786009,
-  "2022-06-02": 786033,
-  "2022-06-03": 786135,
-  "2022-06-04": 786210,
-  "2022-06-05": 786277,
-  "2022-06-06": 786318,
-  "2022-06-07": 786363,
-  "2022-06-08": 786419,
-  "2022-06-09": 786473,
-  "2022-06-10": 786535,
-  "2022-06-11": 786592,
-  "2022-06-12": 786708,
-  "2022-06-13": 787294,
-  "2022-06-14": 788014,
-  "2022-06-15": 788536,
-  "2022-06-16": 788953,
-  "2022-06-17": 789240,
-  "2022-06-18": 789498,
-  "2022-06-19": 789832,
-  "2022-06-20": 789832,
-  "2022-06-21": 789943,
-  "2022-06-22": 790154,
-  "2022-06-23": 790154,
-  "2022-06-24": 790242,
-  "2022-06-25": 790328,
-  "2022-06-26": 790490,
-  "2022-06-27": 790490,
-  "2022-06-28": 790613,
-  "2022-06-29": 790684,
-  "2022-06-30": 790752,
-  "2022-07-01": 790887,
-  "2022-07-02": 791003,
-  "2022-07-03": 791117,
-  "2022-07-04": 791178,
-  "2022-07-05": 791214,
-  "2022-07-06": 791281,
-  "2022-07-07": 791357,
-  "2022-07-08": 791417,
-  "2022-07-09": 791487,
-  "2022-07-10": 791559,
-  "2022-07-11": 791625,
-  "2022-07-12": 791646,
-  "2022-07-13": 791721,
-  "2022-07-14": 791767,
-  "2022-07-15": 791785,
-  "2022-07-16": 791839,
-  "2022-07-17": 791937,
-  "2022-07-18": 791992,
-  "2022-07-19": 792033,
-  "2022-07-20": 792081,
-  "2022-07-21": 792112,
-  "2022-07-22": 792147,
-  "2022-07-23": 792208,
-  "2022-07-24": 792305,
-  "2022-07-25": 792379,
-  "2022-07-26": 792393,
-  "2022-07-27": 792467,
-  "2022-07-28": 792551,
-  "2022-07-29": 792679,
-  "2022-07-30": 792966,
-  "2022-07-31": 792966,
-  "2022-08-01": 793081,
-  "2022-08-02": 793342,
-  "2022-08-03": 793342,
-  "2022-08-04": 793479,
-  "2022-08-05": 793611,
-  "2022-08-06": 793752,
-  "2022-08-07": 793867,
-  "2022-08-08": 793955,
-  "2022-08-09": 794064,
-  "2022-08-10": 794159,
-  "2022-08-11": 794268,
-  "2022-08-12": 794353,
-  "2022-08-13": 794496,
-  "2022-08-14": 794624,
-  "2022-08-15": 794691,
-  "2022-08-16": 794765,
-  "2022-08-17": 794890,
-  "2022-08-18": 795002,
-  "2022-08-19": 795097,
-  "2022-08-20": 795214,
-  "2022-08-21": 795297,
-  "2022-08-22": 795389,
-  "2022-08-23": 795446,
-  "2022-08-24": 795509,
-  "2022-08-25": 795593,
-  "2022-08-26": 795710,
-  "2022-08-27": 795796,
-  "2022-08-28": 795876,
-  "2022-08-29": 795969,
-  "2022-08-30": 796009,
-  "2022-08-31": 796023,
-  "2022-09-01": 796094,
-  "2022-09-02": 796167,
-  "2022-09-03": 796269,
-  "2022-09-04": 796340,
-  "2022-09-05": 796395,
-  "2022-09-06": 796467,
-  "2022-09-07": 796515,
-  "2022-09-09": 796611,
-  "2022-09-10": 796685,
-  "2022-09-11": 796763,
-  "2022-09-12": 796782,
-  "2022-09-13": 796799,
-  "2022-09-15": 796900,
-  "2022-09-16": 796978,
-  "2022-09-17": 797040,
-  "2022-09-18": 797061,
-  "2022-09-19": 797112,
-  "2022-09-20": 797151,
-  "2022-09-21": 797169,
-  "2022-09-22": 797288,
-  "2022-09-23": 797378,
-  "2022-09-24": 797461,
-  "2022-09-25": 797547,
-  "2022-09-26": 797549,
-  "2022-09-27": 797551,
-  "2022-09-28": 797617,
-  "2022-09-29": 797689,
-  "2022-09-30": 797772,
-  "2022-10-01": 797835,
-  "2022-10-02": 797881,
-  "2022-10-03": 797939,
-  "2022-10-04": 798002,
-  "2022-10-05": 798138,
-  "2022-10-06": 798394,
-  "2022-10-07": 798608,
-  "2022-10-08": 798799,
-  "2022-10-09": 798998,
-  "2022-10-10": 799051,
-  "2022-10-11": 799476,
-  "2022-10-12": 799813,
-  "2022-10-13": 800049,
-  "2022-10-14": 800238,
-  "2022-10-15": 800428,
-  "2022-10-16": 800567,
-  "2022-10-17": 800704,
-  "2022-10-18": 800822,
-  "2022-10-19": 800971,
-  "2022-10-20": 801080,
-  "2022-10-21": 801220,
-  "2022-10-22": 801311,
-  "2022-10-23": 801434,
-  "2022-10-24": 801480,
-  "2022-10-25": 801571,
-  "2022-10-26": 801663,
-  "2022-10-27": 801755,
-  "2022-10-28": 801853,
-  "2022-10-29": 801976,
-  "2022-10-30": 802067,
-  "2022-10-31": 802149,
-  "2022-11-01": 802203,
-  "2022-11-02": 802274,
-  "2022-11-03": 802357,
-  "2022-11-04": 802452,
-  "2022-11-05": 802538,
-  "2022-11-06": 802622,
-  "2022-11-07": 802674,
-  "2022-11-08": 802724,
-  "2022-11-09": 802790,
-  "2022-11-10": 802858,
-  "2022-11-11": 802959,
-  "2022-11-12": 803073,
-  "2022-11-13": 803140,
-  "2022-11-14": 803197,
-  "2022-11-15": 803230,
-  "2022-11-16": 803303,
-  "2022-11-17": 803338,
-  "2022-11-18": 803329,
-  "2022-11-19": 803217,
-  "2022-11-20": 803204,
-  "2022-11-21": 803271,
-  "2022-11-22": 803308,
-  "2022-11-23": 803347,
-  "2022-11-24": 803691,
-  "2022-11-25": 804057,
-  "2022-11-26": 804283,
-  "2022-11-27": 804429,
-  "2022-11-28": 804518,
-  "2022-11-29": 804557,
-  "2022-11-30": 804619,
-  "2022-12-01": 804621,
-  "2022-12-02": 804653,
-  "2022-12-03": 804753,
-  "2022-12-04": 804871,
-  "2022-12-05": 804926,
-  "2022-12-06": 804966,
-  "2022-12-07": 805046,
-  "2022-12-08": 805102,
-  "2022-12-09": 805215,
-  "2022-12-10": 805287,
-  "2022-12-11": 805393,
-  "2022-12-12": 805483,
-  "2022-12-13": 805722,
-  "2022-12-14": 805931,
-  "2022-12-15": 806340,
-  "2022-12-16": 806676,
-  "2022-12-17": 807375,
-  "2022-12-18": 808036,
-  "2022-12-19": 808822,
-  "2022-12-20": 820296,
-  "2022-12-21": 820296,
-  "2022-12-22": 825754,
-  "2022-12-24": 833028,
-  "2022-12-25": 835129,
-  "2022-12-26": 836069,
-  "2022-12-27": 837505,
-  "2022-12-28": 838863,
-  "2022-12-29": 840244,
-  "2022-12-30": 841562,
-  "2022-12-31": 842851,
-  "2023-01-01": 843763,
-  "2023-01-02": 844271,
-  "2023-01-03": 845046,
-  "2023-01-04": 845741,
-  "2023-01-05": 846429,
-  "2023-01-06": 847336,
-  "2023-01-07": 848396,
-  "2023-01-08": 848568,
-  "2023-01-09": 849102,
-  "2023-01-10": 849554,
-  "2023-01-11": 850036,
-  "2023-01-12": 850567,
-  "2023-01-13": 851151,
-  "2023-01-14": 852032,
-  "2023-01-15": 852150,
-  "2023-01-16": 852468,
-  "2023-01-17": 852873,
-  "2023-01-18": 853256,
-  "2023-01-19": 853789,
-  "2023-01-20": 854561,
-  "2023-01-21": 858980,
-  "2023-01-22": 861261,
-  "2023-01-23": 862780,
-  "2023-01-24": 864285,
-  "2023-01-25": 865912,
-  "2023-01-26": 867972,
-  "2023-01-27": 871346,
-  "2023-01-28": 874029,
-  "2023-01-29": 876027,
-  "2023-01-30": 877205,
-  "2023-01-31": 877205,
-  "2023-02-01": 879567,
-  "2023-02-02": 880743,
-  "2023-02-03": 881937,
-  "2023-02-04": 883203,
-  "2023-02-05": 884193,
-  "2023-02-06": 884831,
-  "2023-02-07": 885287,
-  "2023-02-08": 886193,
-  "2023-02-09": 886193,
-  "2023-02-10": 886618,
-  "2023-02-11": 887089,
-  "2023-02-12": 887763,
-  "2023-02-13": 888076,
-  "2023-02-14": 888076,
-  "2023-02-15": 888533,
-  "2023-02-16": 888939,
-  "2023-02-17": 889350,
-  "2023-02-18": 890082,
-  "2023-02-19": 890130,
-  "2023-02-20": 890315,
-  "2023-02-21": 890549,
-  "2023-02-22": 890818,
-  "2023-02-23": 891059,
-  "2023-02-24": 891619,
-  "2023-02-25": 897168,
-  "2023-02-26": 897548,
-  "2023-02-27": 898113,
-  "2023-02-28": 898113,
-  "2023-03-01": 898361,
-  "2023-03-02": 898616,
-  "2023-03-03": 898920,
-  "2023-03-04": 899162,
-  "2023-03-05": 899555,
-  "2023-03-06": 899555,
-  "2023-03-07": 899721,
-  "2023-03-08": 899889,
-  "2023-03-09": 900052,
-  "2023-03-10": 900143,
-  "2023-03-11": 900253,
-  "2023-03-12": 900366,
-  "2023-03-13": 900478,
-  "2023-03-14": 900545,
-  "2023-03-15": 900611,
-  "2023-03-16": 900688,
-  "2023-03-17": 900688,
-  "2023-03-18": 900935,
-  "2023-03-19": 901066,
-  "2023-03-20": 901134,
-  "2023-03-21": 901178,
-  "2023-03-22": 901240,
-  "2023-03-23": 901332,
-  "2023-03-24": 901332,
-  "2023-03-25": 901590,
-  "2023-03-26": 901762,
-  "2023-03-27": 901841,
-  "2023-03-28": 901975,
-  "2023-03-29": 902113,
-  "2023-03-30": 903013,
-  "2023-03-31": 903013,
-  "2023-04-01": 903284,
-  "2023-04-02": 903528,
-  "2023-04-03": 903705,
-  "2023-04-04": 903912,
-  "2023-04-05": 904104,
-  "2023-04-06": 904300,
-  "2023-04-07": 904528,
-  "2023-04-09": 904793,
-  "2023-04-10": 904878,
-  "2023-04-11": 905132,
-  "2023-04-12": 905132,
-  "2023-04-13": 905242,
-  "2023-04-14": 905397,
-  "2023-04-15": 905498,
-  "2023-04-16": 905616,
-  "2023-04-17": 905729,
-  "2023-04-18": 905782,
-  "2023-04-19": 905860,
-  "2023-04-20": 905940,
-  "2023-04-21": 906071,
-  "2023-04-22": 906192,
-  "2023-04-23": 906304,
-  "2023-04-24": 906376,
-  "2023-04-25": 906458,
-  "2023-04-26": 906536,
-  "2023-04-27": 906642,
-  "2023-04-28": 906734,
-  "2023-04-29": 906832,
-  "2023-04-30": 906916,
-  "2023-05-01": 906979,
-  "2023-05-02": 907023,
-  "2023-05-03": 907066,
-  "2023-05-04": 907155,
-  "2023-05-05": 907214,
-  "2023-05-06": 907277,
-  "2023-05-07": 907363,
-  "2023-05-08": 907399,
-  "2023-05-09": 907420,
-  "2023-05-10": 907483,
-  "2023-05-11": 907553,
-  "2023-05-12": 907585,
-  "2023-05-13": 907684,
-  "2023-05-14": 907735,
-  "2023-05-15": 907814,
-  "2023-05-16": 907850,
-  "2023-05-17": 907928,
-  "2023-05-18": 907979,
-  "2023-05-19": 908051,
-  "2023-05-20": 908202,
-  "2023-05-21": 908202,
-  "2023-05-22": 908202,
-  "2023-05-23": 908325,
-  "2023-05-24": 908433,
-  "2023-05-25": 908447,
-  "2023-05-26": 908535,
-  "2023-05-27": 908628,
-  "2023-05-28": 908708,
-  "2023-05-29": 908708,
-  "2023-05-30": 908800,
-  "2023-05-31": 908872,
-  "2023-06-01": 908950,
-  "2023-06-02": 909026,
-  "2023-06-03": 909120,
-  "2023-06-04": 909190,
-  "2023-06-05": 909257,
-  "2023-06-06": 909293,
-  "2023-06-07": 909391,
-  "2023-06-08": 909507,
-  "2023-06-09": 909563,
-  "2023-06-10": 909653,
-  "2023-06-11": 909747,
-  "2023-06-12": 909817,
-  "2023-06-13": 909900,
-  "2023-06-14": 910001,
-  "2023-06-15": 910125,
-  "2023-06-16": 910239,
-  "2023-06-17": 910369,
-  "2023-06-18": 910496,
-  "2023-06-19": 910572,
-  "2023-06-20": 910642,
-  "2023-06-21": 910744,
-  "2023-06-22": 910835,
-  "2023-06-23": 910939,
-  "2023-06-24": 911024,
-  "2023-06-25": 911120,
-  "2023-06-26": 911188,
-  "2023-06-27": 911274,
-  "2023-06-28": 911358,
-  "2023-06-29": 911476,
-  "2023-06-30": 911580,
-  "2023-07-01": 911852,
-  "2023-07-02": 911852,
-  "2023-07-03": 911933,
-  "2023-07-04": 912028,
-  "2023-07-05": 912116,
-  "2023-07-06": 912352,
-  "2023-07-07": 912352,
-  "2023-07-08": 912460,
-  "2023-07-09": 912523,
-  "2023-07-10": 912599,
-  "2023-07-11": 912686,
-  "2023-07-12": 912801,
-  "2023-07-13": 912916,
-  "2023-07-14": 912992,
-  "2023-07-15": 913118,
-  "2023-07-16": 913215,
-  "2023-07-17": 913269,
-  "2023-07-18": 913320,
-  "2023-07-19": 913391,
-  "2023-07-20": 913586,
-  "2023-07-21": 913740,
-  "2023-07-22": 913895,
-  "2023-07-23": 914000,
-  "2023-07-24": 914076,
-  "2023-07-25": 914156,
-  "2023-07-26": 914247,
-  "2023-07-27": 914368,
-  "2023-07-28": 914465,
-  "2023-07-29": 914619,
-  "2023-07-30": 914738,
-  "2023-07-31": 914807,
-  "2023-08-01": 914873,
-  "2023-08-02": 914979,
-  "2023-08-03": 915103,
-  "2023-08-04": 915204,
-  "2023-08-05": 915367,
-  "2023-08-06": 915633,
-  "2023-08-07": 915633,
-  "2023-08-08": 915731,
-  "2023-08-09": 915869,
-  "2023-08-10": 916041,
-  "2023-08-11": 916214,
-  "2023-08-12": 916373,
-  "2023-08-13": 916550,
-  "2023-08-14": 916673,
-  "2023-08-15": 917031,
-  "2023-08-16": 917031,
-  "2023-08-17": 917202,
-  "2023-08-18": 917429,
-  "2023-08-19": 917735,
-  "2023-08-20": 917964,
-  "2023-08-21": 918100,
-  "2023-08-22": 918261,
-  "2023-08-23": 918447,
-  "2023-08-24": 918704,
-  "2023-08-25": 919012,
-  "2023-08-26": 919522,
-  "2023-08-27": 921739,
-  "2023-08-28": 923062,
-  "2023-08-29": 924523,
-  "2023-08-30": 925755,
-  "2023-08-31": 926793,
-  "2023-09-01": 928556,
-  "2023-09-02": 928556,
-  "2023-09-03": 929375,
-  "2023-09-04": 930041,
-  "2023-09-05": 930670,
-  "2023-09-06": 931231,
-  "2023-09-07": 931797,
-  "2023-09-08": 932308,
-  "2023-09-09": 932813,
-  "2023-09-10": 933231,
-  "2023-09-11": 933583,
-  "2023-09-12": 933925,
-  "2023-09-13": 934258,
-  "2023-09-14": 934582,
-  "2023-09-15": 934898,
-  "2023-09-16": 935179,
-  "2023-09-17": 935410,
-  "2023-09-18": 935607,
-  "2023-09-19": 935824,
-  "2023-09-20": 936000,
-  "2023-09-21": 936131,
-  "2023-09-22": 936298,
-  "2023-09-23": 936522,
-  "2023-09-24": 936758,
-  "2023-09-25": 936974,
-  "2023-09-26": 937138,
-  "2023-09-27": 937252,
-  "2023-09-28": 937371,
-  "2023-09-29": 937530,
-  "2023-09-30": 937750,
-  "2023-10-01": 937883,
-  "2023-10-02": 938051,
-  "2023-10-03": 938189,
-  "2023-10-04": 938327,
-  "2023-10-05": 938445,
-  "2023-10-06": 938631,
-  "2023-10-07": 938818,
-  "2023-10-08": 939000,
-  "2023-10-09": 939119,
-  "2023-10-10": 939220,
-  "2023-10-11": 939506,
-  "2023-10-12": 939506,
-  "2023-10-13": 939655,
-  "2023-10-14": 939701,
-  "2023-10-15": 939848,
-  "2023-10-16": 939962,
-  "2023-10-17": 940058,
-  "2023-10-18": 940189,
-  "2023-10-19": 940340,
-  "2023-10-20": 940578,
-  "2023-10-21": 940808,
-  "2023-10-22": 941017,
-  "2023-10-23": 941160,
-  "2023-10-24": 941319,
-  "2023-10-25": 941487,
-  "2023-10-26": 941648,
-  "2023-10-27": 941794,
-  "2023-10-28": 941949,
-  "2023-10-29": 942091,
-  "2023-10-30": 942306,
-  "2023-10-31": 942306,
-  "2023-11-01": 942452,
-  "2023-11-02": 942624,
-  "2023-11-03": 942879,
-  "2023-11-04": 943169,
-  "2023-11-05": 943542,
-  "2023-11-06": 943853,
-  "2023-11-07": 944204,
-  "2023-11-08": 944644,
-  "2023-11-09": 945126,
-  "2023-11-10": 945744,
-  "2023-11-11": 947212,
-  "2023-11-12": 948125,
-  "2023-11-13": 948793,
-  "2023-11-14": 949760,
-  "2023-11-15": 949760,
-  "2023-11-16": 951364,
-  "2023-11-17": 952562,
-  "2023-11-18": 952562,
-  "2023-11-19": 952957,
-  "2023-11-20": 953393,
-  "2023-11-21": 953963,
-  "2023-11-22": 954487,
-  "2023-11-23": 954958,
-  "2023-11-24": 955407,
-  "2023-11-25": 956025,
-  "2023-11-26": 956469,
-  "2023-11-27": 956789,
-  "2023-11-28": 957259,
-  "2023-11-29": 958098,
-  "2023-11-30": 958098,
-  "2023-12-01": 958542,
-  "2023-12-02": 959158,
-  "2023-12-03": 959646,
-  "2023-12-04": 960103,
-  "2023-12-05": 960565,
-  "2023-12-06": 960971,
-  "2023-12-07": 961287,
-  "2023-12-08": 961538,
-  "2023-12-09": 961764,
-  "2023-12-10": 961933,
-  "2023-12-11": 962093,
-  "2023-12-12": 962218,
-  "2023-12-13": 962371,
-  "2023-12-14": 962572,
-  "2023-12-15": 962696,
-  "2023-12-16": 962840,
-  "2023-12-17": 963072,
-  "2023-12-18": 963268,
-  "2023-12-19": 963475,
-  "2023-12-20": 963670,
-  "2023-12-21": 963820,
-  "2023-12-22": 964041,
-  "2023-12-23": 964358,
-  "2023-12-24": 964655,
-  "2023-12-25": 964813,
-  "2023-12-26": 964884,
-  "2023-12-27": 965028,
-  "2023-12-30": 965492,
-  "2023-12-31": 965642,
-  "2024-01-01": 965759,
-  "2024-01-02": 965804,
-  "2024-01-03": 965818
+  "2024-01-17": 965430,
+  "date_first_scraped": "2022-05-30",
+  "description": "\u00a1Yo digo R, t\u00fa dices BD! \u00a1RBD!",
+  "name": "This Is RBD",
+  "tracks": [
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/6UNeB5gXHBfQGvfmER9Qcb"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte De M\u00ed",
+        "url": "https://open.spotify.com/album/0Ws2LzruQBP9qY05yVMFWW"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216973,
+      "name": "Adi\u00f3s",
+      "url": "https://open.spotify.com/track/7ohMOdg8JgyKHjVWAW3aQi"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "Alg\u00fan D\u00eda",
+      "url": "https://open.spotify.com/track/7EB4ZRdAMdPj13wFQWR5t2"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189266,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/5QEgSyNbcWXYbxXNkz4pxs"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214933,
+      "name": "A\u00fan Hay Algo",
+      "url": "https://open.spotify.com/track/6fqpsCQ7jF7OgQolXgYovX"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211746,
+      "name": "B\u00e9same Sin Miedo",
+      "url": "https://open.spotify.com/track/4ewlDzSnh67tWEFx24JXsI"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Cari\u00f1o M\u00edo",
+      "url": "https://open.spotify.com/track/2L0fQ0R5z4U3uy815l6kzO"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207093,
+      "name": "Celestial",
+      "url": "https://open.spotify.com/track/48VQWZdgyvZPrrtKAtdJ9x"
+    },
+    {
+      "album": {
+        "name": "Cerquita De Ti",
+        "url": "https://open.spotify.com/album/5Wg1E8vq9CFjnaBKJClHK2"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217346,
+      "name": "Cerquita De Ti",
+      "url": "https://open.spotify.com/track/70FJ7VpGX4Luv8GlMGSLRM"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/1LPfKzfFd9JvqvPhD18o0w"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244573,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/3TttyiswmYRzsuPVS2jD5g"
+    },
+    {
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194813,
+      "name": "Empezar Desde Cero",
+      "url": "https://open.spotify.com/track/1tJ7QglWwgMg3XDG82ZMsF"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221853,
+      "name": "Ens\u00e9\u00f1ame",
+      "url": "https://open.spotify.com/track/3eo3Dw5OGSWCzJDVHLKE3v"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "Era La M\u00fasica",
+      "url": "https://open.spotify.com/track/3crvUAdaAwyUywU4HHjM4r"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0bMVCO35RJiUhAfvFsLjIF"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte De M\u00ed",
+        "url": "https://open.spotify.com/album/0Ws2LzruQBP9qY05yVMFWW"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Est\u00e9 Donde Est\u00e9",
+      "url": "https://open.spotify.com/track/4asftP0LP7PpwOmrGqtMaI"
+    },
+    {
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258573,
+      "name": "Extra\u00f1a Sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/63SaeXhOwdGileY2LbdkaY"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Feliz Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/5FH61v4nlAdnBir8GSzr14"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "Fuera",
+      "url": "https://open.spotify.com/track/4haBiYrYQ7AbvQxlt1QahV"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181520,
+      "name": "Futuro Ex - Novio",
+      "url": "https://open.spotify.com/track/6adofcKuKjIl78iwvWF5MM"
+    },
+    {
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254773,
+      "name": "Inalcanzable",
+      "url": "https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Liso, Sensual",
+      "url": "https://open.spotify.com/track/2gntb7qx5t8W7c4gMefWJN"
+    },
+    {
+      "album": {
+        "name": "Los Peces En El R\u00edo",
+        "url": "https://open.spotify.com/album/2Xa5PK3vGkxnmonjoOBX89"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "Los Peces En El R\u00edo",
+      "url": "https://open.spotify.com/track/5p1pTmxWcGcCXO7czBADDB"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205973,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/6FTKCTZxT1jrx5LpjssYRC"
+    },
+    {
+      "album": {
+        "name": "Live In Brasilia",
+        "url": "https://open.spotify.com/album/3yjVrBzW9M8AanUrbiL9HS"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "No Pares - En Vivo",
+      "url": "https://open.spotify.com/track/1JFPxf1X2TtFauDHEP2EjQ"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215746,
+      "name": "Nuestro Amor",
+      "url": "https://open.spotify.com/track/7F7qwp7VZRVwZsNoddRRgX"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Otro D\u00eda Que Va",
+      "url": "https://open.spotify.com/track/7FJThvbD5d8OIIbU9eNLGB"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte De M\u00ed",
+        "url": "https://open.spotify.com/album/0Ws2LzruQBP9qY05yVMFWW"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Para Olvidarte De M\u00ed",
+      "url": "https://open.spotify.com/track/2jrhZ2b61bumhM2PZADyZF"
+    },
+    {
+      "album": {
+        "name": "Para Olvidarte De M\u00ed",
+        "url": "https://open.spotify.com/album/0Ws2LzruQBP9qY05yVMFWW"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194920,
+      "name": "Puedes Ver Pero No Tocar",
+      "url": "https://open.spotify.com/track/4BmN9mlxC6XivgikRV3WUE"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212026,
+      "name": "Quiz\u00e1",
+      "url": "https://open.spotify.com/track/3OcAjdtEodAzHpa6cc0rxm"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225066,
+      "name": "Qu\u00e9 Fue Del Amor",
+      "url": "https://open.spotify.com/track/3BQmLUIDmkHMJ4O41pcfkO"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198373,
+      "name": "Qu\u00e9 Hay Detr\u00e1s",
+      "url": "https://open.spotify.com/track/5Ya2WSoqPdAkmohiRZgZGl"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "Rebelde",
+      "url": "https://open.spotify.com/track/56tOMi4N980gmsdUoyaLb3"
+    },
+    {
+      "album": {
+        "name": "S.H.E.A",
+        "url": "https://open.spotify.com/album/6kc3mO2sDTCs77Gi7OLGYL"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "S.H.E.A",
+      "url": "https://open.spotify.com/track/3gQm8QtxHR8pnMxykb1HHH"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189533,
+      "name": "Santa No Soy",
+      "url": "https://open.spotify.com/track/5TsOI5oLN3PJexyp5jlspK"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211466,
+      "name": "Ser O Parecer",
+      "url": "https://open.spotify.com/track/5sgvzXoYFCr5F5tUZdAA20"
+    },
+    {
+      "album": {
+        "name": "Siempre He Estado Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4Ysv59Z987ELBVKCx7Yhlp"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "Siempre He Estado Aqu\u00ed",
+      "url": "https://open.spotify.com/track/35iionyYNL2IHmtctvwYAk"
+    },
+    {
+      "album": {
+        "name": "Siempre He Estado Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/1305C9G8WHTdX67UoVvGVw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187066,
+      "name": "Siempre He Estado Aqu\u00ed - En Vivo",
+      "url": "https://open.spotify.com/track/54DkjENyNvP9RFywjNYDV3"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222746,
+      "name": "Solo Para Ti",
+      "url": "https://open.spotify.com/track/4h0wzo47AjISCSeumOuAjd"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224973,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186613,
+      "name": "Tal Vez Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3KqUJT8rYfHBOyii4wTFGG"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206853,
+      "name": "Tenerte Y Quererte",
+      "url": "https://open.spotify.com/track/3YxD0wSTC9vw2EXsSOmUsp"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220853,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/6vBNrP2ZdyFwZ5fDERajsi"
+    },
+    {
+      "album": {
+        "name": "Nuestro Amor",
+        "url": "https://open.spotify.com/album/6pBngj1vpWoWV2L2e0XQVF"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192320,
+      "name": "Tras De M\u00ed",
+      "url": "https://open.spotify.com/track/1AO5MeGsWdPLejY47pnYYy"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280440,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/2EnlBJQ6ZcndUmsI8ZrJjI"
+    },
+    {
+      "album": {
+        "name": "Celestial",
+        "url": "https://open.spotify.com/album/1cjDwE4UHCXZOwgYE3XUgw"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "Tu Dulce Voz",
+      "url": "https://open.spotify.com/track/4LD0x2ZN54Hk4K7Gp57mCn"
+    },
+    {
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206120,
+      "name": "Un Poco De Tu Amor",
+      "url": "https://open.spotify.com/track/64mK5Yd0rdGeXVkMFspEyt"
+    },
+    {
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/6LU9GsicDF4ojJHA0iXsfA"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223733,
+      "name": "Wanna Play",
+      "url": "https://open.spotify.com/track/5phdRUGTYnPaQnYZpId7LW"
+    },
+    {
+      "album": {
+        "name": "Empezar Desde Cero",
+        "url": "https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "date_added": "2021-02-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236106,
+      "name": "Y No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1OgFMtx10SrOPypjCl7E0Q"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUnwXAaJZdpo"
 }

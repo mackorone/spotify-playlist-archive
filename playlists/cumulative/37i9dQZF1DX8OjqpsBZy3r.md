@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Hailey Whitters
 
-176 songs - 9 hr 40 min
+177 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Crazy Girl](https://open.spotify.com/track/1nVLAEzhBXMJLR5zAl90Nl) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:20 | 2021-12-03 |  |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-28 |  |
 | [Diamond In My Pocket](https://open.spotify.com/track/24Nt4OalWDICkEKVy81X6k) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [A Different Day](https://open.spotify.com/album/3KzIZXKtYfxYkoHmLU1R3k) | 3:16 | 2021-12-03 |  |
-| [Dicked Down in Dallas](https://open.spotify.com/track/1yhft6ZqYadd4GOrKrmK3a) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/4l5bLOtUFmUkD9RbsvJV9R) | 3:21 | 2021-12-03 |  |
+| [Dicked Down in Dallas](https://open.spotify.com/track/1yhft6ZqYadd4GOrKrmK3a) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/4l5bLOtUFmUkD9RbsvJV9R) | 3:21 | 2021-12-03 | 2024-01-06 |
+| [Dicked Down in Dallas](https://open.spotify.com/track/3R0l4ivVzkajiNAYH07ZKl) | [Trey Lewis](https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO) | [Dicked Down in Dallas](https://open.spotify.com/album/0LOmxOPfggmCP2Lhtxf25Z) | 3:21 | 2023-11-20 |  |
 | [Different 'Round Here](https://open.spotify.com/track/6cqxDqWwB9o3j3eHMSV2mA) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Different 'Round Here](https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv) | 3:03 | 2021-12-03 |  |
 | [Dirt Road](https://open.spotify.com/track/24LyKCgvEia1eAPUbuISlk) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Dirt Road](https://open.spotify.com/album/2rVX2YE6zvgkTVsWmk7OP5) | 2:30 | 2021-12-03 |  |
 | [Dirty Looks](https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin’ What I’m Thinkin’](https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR) | 3:14 | 2023-08-18 |  |

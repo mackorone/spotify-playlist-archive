@@ -78,7 +78,7 @@
     {
       "album": {
         "name": "Freddie McGregor: The Anthology",
-        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+        "url": "https://open.spotify.com/album/0BYUeVSCYNS6CaldxhIo1F"
       },
       "artists": [
         {
@@ -89,6 +89,24 @@
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197733,
+      "name": "Big Ship",
+      "url": "https://open.spotify.com/track/3wIMCE0IWJmOQFeBjCS6hy"
+    },
+    {
+      "album": {
+        "name": "Freddie McGregor: The Anthology",
+        "url": "https://open.spotify.com/album/3LamMh1kBDsc516HnS0Iuf"
+      },
+      "artists": [
+        {
+          "name": "Freddie McGregor",
+          "url": "https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq"
+        }
+      ],
+      "date_added": "2020-10-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
       "duration_ms": 197733,
       "name": "Big Ship",
       "url": "https://open.spotify.com/track/7IBIZHonObtZG33pkVZZkg"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2020-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 219013,
       "name": "Trueversation (feat. Damian Marley)",
       "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"

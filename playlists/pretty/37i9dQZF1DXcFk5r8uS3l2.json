@@ -1,13 +1,45 @@
 {
-  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: ZZ Ward",
-  "num_followers": 445320,
+  "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Danielle Nicole",
+  "num_followers": 442729,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDc4Yjg2OTM1MTc5MDljNzUwMzc4NGRkN2IwMjM2ZThhY2JmODRm",
+  "snapshot_id": "MCw1OWI5YWQyOTlhZTk2YTk1OWM5ZDVlYTI4Y2MzODUyOTI2YTg0NzRm",
   "tracks": [
+    {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "The Circle Sessions, 2023",
+        "url": "https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 216838,
+      "name": "Oceans Of Emotions - The Circle Sessions, 2023",
+      "url": "https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF"
+    },
+    {
+      "added_at": "2024-01-05 05:00:00",
+      "album": {
+        "name": "Love On My Brain",
+        "url": "https://open.spotify.com/album/4Fdyy95DuFJhaDSzzIuZer"
+      },
+      "artists": [
+        {
+          "name": "Danielle Nicole",
+          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+        }
+      ],
+      "duration_ms": 273121,
+      "name": "Love On My Brain",
+      "url": "https://open.spotify.com/track/1SifJq6qcWrT6jgpkKAtgD"
+    },
     {
       "added_at": "2023-12-15 05:01:00",
       "album": {
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
     },
     {
+      "added_at": "2024-01-12 05:01:00",
+      "album": {
+        "name": "Plenty of Time, None to Waste (Acoustic)",
+        "url": "https://open.spotify.com/album/4GTqucW2wjwuv8SUYXvMGt"
+      },
+      "artists": [
+        {
+          "name": "Adam Douglas",
+          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
+        }
+      ],
+      "duration_ms": 186044,
+      "name": "Plenty of Time, None to Waste - Acoustic",
+      "url": "https://open.spotify.com/track/6Ao8Tw3aT5PxddiWWU7YyK"
+    },
+    {
       "added_at": "2023-12-08 05:01:00",
       "album": {
         "name": "Baby's Long Gone",
@@ -135,22 +183,6 @@
       "duration_ms": 226726,
       "name": "I Drink Alone",
       "url": "https://open.spotify.com/track/3uiPbbS5yy5wuENxzsS01Q"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Make Love",
-        "url": "https://open.spotify.com/album/2LED4jDRenQlNKkmAK0G2u"
-      },
-      "artists": [
-        {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
-        }
-      ],
-      "duration_ms": 227937,
-      "name": "Make Love",
-      "url": "https://open.spotify.com/track/5Cx64YCZg2FBDTdGK9F6Cp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -279,22 +311,6 @@
       "duration_ms": 162589,
       "name": "Jumpin'",
       "url": "https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "I Need a Cigarette",
-        "url": "https://open.spotify.com/album/6Q3NpJI06MuIhYEqp9QEkb"
-      },
-      "artists": [
-        {
-          "name": "Adam Douglas",
-          "url": "https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG"
-        }
-      ],
-      "duration_ms": 220891,
-      "name": "I Need a Cigarette",
-      "url": "https://open.spotify.com/track/2J6c7nw2laKuGzu8ky4j2i"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1055,26 +1071,6 @@
       "duration_ms": 158855,
       "name": "Good To You",
       "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        }
-      ],
-      "duration_ms": 221213,
-      "name": "Thinking 'Bout Myself",
-      "url": "https://open.spotify.com/track/3cOKBor2QHIg1V9n7Mue5Q"
     },
     {
       "added_at": "2023-10-06 04:00:00",

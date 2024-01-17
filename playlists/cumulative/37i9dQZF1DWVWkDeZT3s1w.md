@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-97 songs - 6 hr 18 min
+98 songs - 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Libertad](https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [Kase.O Jazz Magnetism](https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4) | 3:30 | 2023-04-14 |  |
 | [Los Zurdos Mueren Antes](https://open.spotify.com/track/5s16f3iVV9qJUykWsfOXiV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Almanauta](https://open.spotify.com/album/78bbjiERGysWG8XhqEAnbV) | 7:36 | 2023-04-14 |  |
 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 | 2023-04-14 |  |
-| [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 | 2023-04-14 |  |
+| [Madurar](https://open.spotify.com/track/1NeVrrBxzzG9hlF7HYMqrl) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/6vrLra49PAThZU0jag7B7k) | 4:27 | 2023-04-14 | 2024-01-11 |
+| [Madurar](https://open.spotify.com/track/3FKEQ67zqDyH3FcraQ4UTA) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Madurar](https://open.spotify.com/album/5okDYebvQXR8pkKASwVn8V) | 4:27 | 2023-12-15 |  |
 | [Magia](https://open.spotify.com/track/0HI9IBpdXp7wBgeEGjf0xa) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/5cofGaDskv7OnKP9VZThiB) | 3:40 | 2023-11-24 |  |
 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 | 2023-04-14 | 2023-12-07 |
 | [MALDITO](https://open.spotify.com/track/6P8WRpldEaZbp1xiobRE8A) | [Hard GZ](https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB), [Marcelus Airlinez](https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [LACOSTA](https://open.spotify.com/album/4WxcXC1fsy3SGx2BPpgmwc) | 4:08 | 2023-11-24 |  |

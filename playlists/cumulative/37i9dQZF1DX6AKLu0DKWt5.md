@@ -2,9 +2,9 @@
 
 ### [Golden Globes](https://open.spotify.com/playlist/37i9dQZF1DX6AKLu0DKWt5)
 
-> Music from TV shows and films nominated for the 81st Golden Globe Awards\. Watch Jan 7, 2024 on CBS and Paramount+.
+> Music from the winners and nominees from the 81st Golden Globe Awards.
 
-68 songs - 3 hr 9 min
+69 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Empire Of Light](https://open.spotify.com/track/6O22GpPxzXC3lnaiGZsGXa) | [Trent Reznor and Atticus Ross](https://open.spotify.com/artist/6cadOIa5DTh6a5mGo5r4bh) | [Empire of Light \(Original Score\)](https://open.spotify.com/album/1vyONs5zeECX2CNwehnn0D) | 5:17 | 2022-12-21 | 2023-12-20 |
 | [End Credits \(from the Netflix Series "DAHMER \- Monster: The Jeffrey Dahmer Story"\)](https://open.spotify.com/track/1zmRTJEYYYamHKy8Bsi8ne) | [Nick Cave](https://open.spotify.com/artist/1RM5gp0RFfjpJhCYFPB30p), [Warren Ellis](https://open.spotify.com/artist/0A8tch4LePxVn1Cn60wGXu) | [DAHMER \- Monster: The Jeffrey Dahmer Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0iWf4fEHwkLXSHoHunjwtt) | 2:30 | 2022-12-21 | 2023-12-20 |
 | [Eye For an Eye](https://open.spotify.com/track/63OiFJTU3Xv1CCCLFJQ6Fl) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [John Wick: Chapter 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PQjHSR0NRLwAZMXOJIqcN) | 3:05 | 2023-12-19 |  |
-| [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 | 2023-12-19 |  |
+| [Forbidden Joy](https://open.spotify.com/track/5oSKfEgB2UhxP0ZRowITA7) | [Paul Leonard\-Morgan](https://open.spotify.com/artist/0360rTDeUjEyBXaz2Ki00a) | [Fellow Travelers \(Original Series Soundtrack\)](https://open.spotify.com/album/6Q93LklTcvLAysA2IhxHmP) | 1:33 | 2023-12-19 | 2024-01-08 |
 | [Fought & Lost \- Full Length TV Version](https://open.spotify.com/track/2VegZvwc34NF0RVqxjkwfY) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Ted Lasso: Season 3 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/6oemmy2XTmRXRryKR77LuG) | 4:14 | 2023-12-19 | 2023-12-23 |
 | [Frightening Fishes \- Main Title Theme from "Shrinking"](https://open.spotify.com/track/51RsJySU0hYlm2AGDsnmWZ) | [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL), [Tom Howe](https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6) | [Shrinking: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/1IuPUZAYcDdrcDH4kItWjq) | 2:27 | 2023-12-19 |  |
 | [Get Outta My Face \(feat\. Sebastian Stan\)](https://open.spotify.com/track/6o9NhaBfBJS4pCd2RjGb66) | [Isaac Carpenter](https://open.spotify.com/artist/4xbXNEpKqu2JcnjxaHAWpj), [Sebastian Stan](https://open.spotify.com/artist/0JX0HkJxazV5WddFlKp9JV) | [Pam & Tommy \(Original Series Soundtrack\)](https://open.spotify.com/album/3DLTFjUNq8cigCAqaU1ZOc) | 1:02 | 2022-12-21 | 2023-12-20 |
@@ -67,6 +67,7 @@
 | [Titles](https://open.spotify.com/track/3nXtowNQOkWjIu1Ep2smUw) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3d5Y2qarMZlq0YyvLueE4I) | 4:55 | 2022-12-21 | 2023-12-20 |
 | [Titles](https://open.spotify.com/track/4HFqmG18ztVvqqBG0jVu34) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Black Bird](https://open.spotify.com/album/3O5ig1AqlNK4SQYU3litHb) | 4:55 | 2022-12-21 | 2023-05-01 |
 | [Today We Launch](https://open.spotify.com/track/5IOfH50BVukvKUeIzQ7JWA) | [Anne Nikitin](https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr) | [The Dropout \(Original Score\)](https://open.spotify.com/album/35AnVuSAzHTf7saCHf9xrb) | 2:14 | 2022-12-21 | 2023-12-20 |
+| [Toxic \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/7i32pPA4dxzFn0IDb9VvrY) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Fargo Year 5 \(Soundtrack from the MGM/ FXP Series\)](https://open.spotify.com/album/2XIs8DMM10mhsQDR8fOtVP) | 4:42 | 2023-12-19 |  |
 | [Trouble](https://open.spotify.com/track/1XF9P9QsH5D3rPHk1oIQd5) | [Austin Butler](https://open.spotify.com/artist/7fonh9s1Y6OjzCsh7pbYQm) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 2:20 | 2022-12-21 | 2023-12-20 |
 | [VARIATION AUTOUR D'UN PRÉLUDE \- Anatomie d'une chute](https://open.spotify.com/track/56aWLDEFQ8M8N5lYELOlCh) | [Benoît Daniel](https://open.spotify.com/artist/1Dx91qbEKrT1WqwsVCROCS) | [ANATOMIE D'UNE CHUTE \(Musique Originale\)](https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o) | 4:32 | 2023-12-19 |  |
 | [Vegas](https://open.spotify.com/track/3FWwi61OP7vXEikwqhZCPZ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [ELVIS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb) | 3:03 | 2022-12-21 | 2023-12-20 |

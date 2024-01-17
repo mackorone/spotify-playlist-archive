@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-49 songs - 3 hr 2 min
+51 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,8 +40,10 @@
 | [NOTHING TO ME](https://open.spotify.com/track/06lMiszDlc039Ti5XRV590) | [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [OASIS](https://open.spotify.com/album/6e74y0B8zXO3CEtVVFihd8) | 4:25 | 2022-05-25 |  |
 | [On Sight](https://open.spotify.com/track/5WiShbQYrJnoG7mD961IKY) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF), [MIKNNA](https://open.spotify.com/artist/53htGvuREf9YT5LYk5HEvb) | [Free Nationals](https://open.spotify.com/album/53oqFs4q8sfqH6IPiyleEN) | 4:09 | 2022-05-25 |  |
 | [Outer Body](https://open.spotify.com/track/7s116fYbWa8JjEoi6jxaZQ) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Luv N Chaos](https://open.spotify.com/album/0H28jSSR9L1HMmvk47xtXg) | 2:02 | 2023-12-13 |  |
-| [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 | 2022-05-25 |  |
-| [Plans We Make](https://open.spotify.com/track/2OAwDkzUvN3XSqWFoUj8dx) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/759fWQ4pmDoPYMf1jMtrhw) | 3:32 | 2022-05-25 |  |
+| [Plans We Made](https://open.spotify.com/track/2SieYbWMvEVhiTSmBUALv0) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/49leS9Adpf8wPfT6fnu1Ix) | 3:40 | 2022-05-25 | 2024-01-13 |
+| [Plans We Made](https://open.spotify.com/track/6UgjnH9pBNIL1pk97NRLQo) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe) | [Tomorrows I](https://open.spotify.com/album/3VXoNIIn3hZ6h6jnYn8fUm) | 3:40 | 2024-01-12 |  |
+| [Plans We Make](https://open.spotify.com/track/2OAwDkzUvN3XSqWFoUj8dx) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/759fWQ4pmDoPYMf1jMtrhw) | 3:32 | 2022-05-25 | 2024-01-13 |
+| [Plans We Make](https://open.spotify.com/track/3T8FCttEVrCkz69AMHReIU) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Tomorrows III](https://open.spotify.com/album/5Tw9tdB9BkgwyPx2kQ135q) | 3:32 | 2024-01-12 |  |
 | [Procession](https://open.spotify.com/track/2rrdr7O92fV48GgHDrzJ75) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:52 | 2022-05-25 |  |
 | [Second Wind](https://open.spotify.com/track/70j5IpLhG6klLJtTpYXUss) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:08 | 2022-05-25 |  |
 | [Someone Like You](https://open.spotify.com/track/1oAtUtXLAHDOag6mwR0wyL) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Party Of One](https://open.spotify.com/album/3bgCu5Lk4saMzZrtDMX118) | 4:09 | 2023-12-13 |  |

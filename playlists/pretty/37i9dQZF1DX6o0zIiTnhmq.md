@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,855 likes - 50 songs - 14 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,885 likes - 50 songs - 14 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 |
 | 50 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
 
-Snapshot ID: `MCxmMjc2YWNjYmFhZTEyZWZmNmFmNzUwNzE2NDQ5ODYwZDUxM2FhZmNi`
+Snapshot ID: `MCw5ZGI0ZjA5NzliNDMyOGUxOTgzMGExM2I1YzYxM2RjYmNlZGNlZmVh`

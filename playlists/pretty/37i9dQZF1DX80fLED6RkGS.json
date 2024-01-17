@@ -1,15 +1,31 @@
 {
-  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo?si=KK_i9gmUTCK-JWroUPFJ6g\"> Uncojingjong</a> ",
-  "num_followers": 24605,
+  "description": "Only the hottest Gengetone coming out of Kenya. Cover: <a href=\"https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo?si=KK_i9gmUTCK-JWroUPFJ6g\"> Trio Mio</a> ",
+  "num_followers": 24899,
   "original_name": "Gengetone Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2I5MjUwNWIwMTJhMTIzMTc4NDQ2OWVhMTEzMmY0YzZkYzRmYjg2",
+  "snapshot_id": "MCw3Nzc1YmNmODg4YzFmNDE2ZWE1NDRjMGEzNmQwYzA5NGI4MDUwNTdk",
   "tracks": [
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "BUBBLY BUBBLY (na niki)",
+        "url": "https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh"
+      },
+      "artists": [
+        {
+          "name": "Maandy",
+          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
+        }
+      ],
+      "duration_ms": 166922,
+      "name": "BUBBLY BUBBLY (na niki)",
+      "url": "https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "NAKUDAI",
         "url": "https://open.spotify.com/album/1MOXbYPVwue2bYu972FlTT"
@@ -29,39 +45,7 @@
       "url": "https://open.spotify.com/track/2R0cPu8OCV9DMTQJANdXDL"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "BUBBLY BUBBLY (na niki)",
-        "url": "https://open.spotify.com/album/2AQedaeVARNPXPRJ6fNDLh"
-      },
-      "artists": [
-        {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        }
-      ],
-      "duration_ms": 166922,
-      "name": "BUBBLY BUBBLY (na niki)",
-      "url": "https://open.spotify.com/track/1gc249pSRCtXKb3vezJwG8"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Pretty Girls Twerk",
-        "url": "https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO"
-      },
-      "artists": [
-        {
-          "name": "NDOVU KUU",
-          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
-        }
-      ],
-      "duration_ms": 139840,
-      "name": "Pretty Girls Twerk",
-      "url": "https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Maisha Ya Stunna",
         "url": "https://open.spotify.com/album/4eqe1F9Zy61KrOEZBQTszi"
@@ -81,7 +65,43 @@
       "url": "https://open.spotify.com/track/0RorhnHkgmBKkam8tMkc2M"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Balo Balo (Remix)",
+        "url": "https://open.spotify.com/album/5PBO7lOsrZsuaks2mVvRvV"
+      },
+      "artists": [
+        {
+          "name": "Mudra D Viral",
+          "url": "https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR"
+        },
+        {
+          "name": "Trio Mio",
+          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "Balo Balo - Remix",
+      "url": "https://open.spotify.com/track/5gY3Xk1qyDyORfbHCfS2GH"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Pretty Girls Twerk",
+        "url": "https://open.spotify.com/album/0w2Zc0AAXFJfk81787eMCO"
+      },
+      "artists": [
+        {
+          "name": "NDOVU KUU",
+          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+        }
+      ],
+      "duration_ms": 139840,
+      "name": "Pretty Girls Twerk",
+      "url": "https://open.spotify.com/track/6RwL8bUFS3sCfJRNHUaLkt"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "DANCEHALLING",
         "url": "https://open.spotify.com/album/0S3d65JRsHsULOLi4BTkyc"
@@ -97,7 +117,7 @@
       "url": "https://open.spotify.com/track/1HDXvQAavbE3GsTOIQWkKi"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "KINARE",
         "url": "https://open.spotify.com/album/59RCYnLluTVay2gvf2VWa4"
@@ -117,7 +137,27 @@
       "url": "https://open.spotify.com/track/0B3KgzCTluFTPHsF54MbR6"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "LELE",
+        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
+      },
+      "artists": [
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "Lufasa",
+          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
+        }
+      ],
+      "duration_ms": 184464,
+      "name": "LELE",
+      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/5XYEw0QEAFJeN3JVyhaiyl"
@@ -133,7 +173,7 @@
       "url": "https://open.spotify.com/track/4M6r3xrzpD75ajUsUU3cPR"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Miss Behavior",
         "url": "https://open.spotify.com/album/7qs2V9CF80wz2vlkeYPmgC"
@@ -157,27 +197,7 @@
       "url": "https://open.spotify.com/track/0d2WBQpBAgE5VZE1UeoIon"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "LELE",
-        "url": "https://open.spotify.com/album/5kc0Lv9SvPgMa7sAVD9Utu"
-      },
-      "artists": [
-        {
-          "name": "YBW Smith",
-          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
-        },
-        {
-          "name": "Lufasa",
-          "url": "https://open.spotify.com/artist/5fmt1ywQDIrAxPSUmx978J"
-        }
-      ],
-      "duration_ms": 184464,
-      "name": "LELE",
-      "url": "https://open.spotify.com/track/2LruoeWC1TSmFte9Fk6hWh"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Tic Tac",
         "url": "https://open.spotify.com/album/45tM63BQiPw2SIbXkMVgz6"
@@ -193,7 +213,7 @@
       "url": "https://open.spotify.com/track/35KmDvN2PDlwKYNHMkIi7i"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "KISHASH",
         "url": "https://open.spotify.com/album/5FIGoVPCIumXd9FgJrOv4b"
@@ -209,7 +229,27 @@
       "url": "https://open.spotify.com/track/7BmSFviUm0dByhAZ10wNbk"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Sababisha",
+        "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
+      },
+      "artists": [
+        {
+          "name": "Rico Gang",
+          "url": "https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx"
+        },
+        {
+          "name": "Mbuzi Gang",
+          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
+        }
+      ],
+      "duration_ms": 184427,
+      "name": "Miondoko",
+      "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "THE KONG EFFECT",
         "url": "https://open.spotify.com/album/6HfReOmZ0xgIZzktvTKW0v"
@@ -233,27 +273,7 @@
       "url": "https://open.spotify.com/track/5qFo47h5fM98znW7QTM6GI"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Sababisha",
-        "url": "https://open.spotify.com/album/3jN1KdqjRgVa8yyWA0975q"
-      },
-      "artists": [
-        {
-          "name": "Rico Gang",
-          "url": "https://open.spotify.com/artist/0h07tyuXINVc3kGjHGCZRx"
-        },
-        {
-          "name": "Mbuzi Gang",
-          "url": "https://open.spotify.com/artist/6bhGj7isui9u4aShV8ONrl"
-        }
-      ],
-      "duration_ms": 184427,
-      "name": "Miondoko",
-      "url": "https://open.spotify.com/track/4PqHRjNOD0OxOjS9Lk0tar"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Ndiwike",
         "url": "https://open.spotify.com/album/4lRUfKVEB7fAC7NiE3Ecfv"
@@ -273,7 +293,27 @@
       "url": "https://open.spotify.com/track/2jnFTsVnjyfYM8khLyZSxA"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Mishe Mishe",
+        "url": "https://open.spotify.com/album/1isTdiYXInBSxANK9MQbEi"
+      },
+      "artists": [
+        {
+          "name": "Fidel Rayd",
+          "url": "https://open.spotify.com/artist/5gjuJ3cbWR2QWDOJy1av6x"
+        },
+        {
+          "name": "Juicekid Beats",
+          "url": "https://open.spotify.com/artist/2EA0HqonawtMg1hwEriVw7"
+        }
+      ],
+      "duration_ms": 160052,
+      "name": "Mishe Mishe",
+      "url": "https://open.spotify.com/track/0NFk0fySmtmq3sGhb9kVcY"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Dem Mauru",
         "url": "https://open.spotify.com/album/5a9bIZ0OOkkm3QBjjEhnXj"
@@ -289,7 +329,7 @@
       "url": "https://open.spotify.com/track/60wD5VNwJuJo4osZ2JLPlM"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Pocahantas",
         "url": "https://open.spotify.com/album/4QaCeC55ghgtBFliu7SMtY"
@@ -309,7 +349,7 @@
       "url": "https://open.spotify.com/track/2lKb0Zxafn6GLthqh3Fd3P"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Bestie Bestie",
         "url": "https://open.spotify.com/album/46oe1I6dhof7Fk15sM18Rf"
@@ -325,7 +365,7 @@
       "url": "https://open.spotify.com/track/3yvo1fzIADFYewf9McFjoN"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Si Unajua",
         "url": "https://open.spotify.com/album/2djH8uF4iqhv1AGAM5uBD0"
@@ -345,7 +385,7 @@
       "url": "https://open.spotify.com/track/0hIzn15rP82pk1b166xmKq"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Wivu",
         "url": "https://open.spotify.com/album/7AsYZfFmKs7nyXjM5ZBkGo"
@@ -365,7 +405,35 @@
       "url": "https://open.spotify.com/track/3E8paT7Cseo3B1vZlXlMku"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Kuja Ivo",
+        "url": "https://open.spotify.com/album/6hLexLcCQzcYfT5qdpgTPF"
+      },
+      "artists": [
+        {
+          "name": "Gody Tennor",
+          "url": "https://open.spotify.com/artist/0zDvYiEj0OwqizX4YYVsbB"
+        },
+        {
+          "name": "YBW Smith",
+          "url": "https://open.spotify.com/artist/68U6AVEqnL3frYT7udHvYo"
+        },
+        {
+          "name": "SEAN MMG",
+          "url": "https://open.spotify.com/artist/3XNm5VibIYc1xUEDURP1kw"
+        },
+        {
+          "name": "Tipsy Gee",
+          "url": "https://open.spotify.com/artist/2gZ9Qtzq8vrqLkR5EUSJy5"
+        }
+      ],
+      "duration_ms": 167540,
+      "name": "Kuja Ivo",
+      "url": "https://open.spotify.com/track/3nh0ogd4RKZBYYP2plSKA7"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Yega Master (feat. Ucho)",
         "url": "https://open.spotify.com/album/2sYqas6cknrMXwC2rhWYPd"
@@ -385,7 +453,7 @@
       "url": "https://open.spotify.com/track/4TeBKOiJxNhU1iiCWziVYq"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Body Count",
         "url": "https://open.spotify.com/album/2tiWnPlBkpaV8WBU42uZd6"
@@ -409,7 +477,7 @@
       "url": "https://open.spotify.com/track/5YdCQ6QNUaZWwJ9DwoTXvv"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Usiniblame",
         "url": "https://open.spotify.com/album/4MlPwm9c40NaJ8irGSfaqL"
@@ -433,7 +501,7 @@
       "url": "https://open.spotify.com/track/1pUuL0BjLcVnvL1666g7QU"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Update Status",
         "url": "https://open.spotify.com/album/1SEb4D5etu08tpFek7gsoC"
@@ -453,7 +521,7 @@
       "url": "https://open.spotify.com/track/3sLugEb8xrupyOpFRygRdr"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Hatukosi Raha",
         "url": "https://open.spotify.com/album/7Ek1PCCkkQlnUNNw5Vu86k"
@@ -477,7 +545,7 @@
       "url": "https://open.spotify.com/track/0LH8cljkC5wtVR75Yb74Uc"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "SHIKISHA",
         "url": "https://open.spotify.com/album/6KL7UuI8zLAudCNlqNlU7b"
@@ -497,7 +565,7 @@
       "url": "https://open.spotify.com/track/67onwGiAzAdJcOV34Selns"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Ako Ka Feeling",
         "url": "https://open.spotify.com/album/0imxECfj1qBmBLpMb5r3eZ"
@@ -513,7 +581,7 @@
       "url": "https://open.spotify.com/track/1EHQQgoWAm2VOJz3NauBtB"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1aJN6BERgVwmJvRinhiDot"
@@ -537,135 +605,27 @@
       "url": "https://open.spotify.com/track/2PrCP14dXcFeBsV4ksFi1C"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
-        "name": "Dollshse",
-        "url": "https://open.spotify.com/album/47lwmJSPFj3LhqUnvrOwWI"
+        "name": "Ngwai",
+        "url": "https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b"
       },
       "artists": [
         {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+          "name": "danski",
+          "url": "https://open.spotify.com/artist/1QSL2mlVoqSq1xoU67Bf8T"
         },
         {
-          "name": "Kappy",
-          "url": "https://open.spotify.com/artist/4nk9M2FJUaSSyw33Ob1YEk"
-        },
-        {
-          "name": "gody tennor",
-          "url": "https://open.spotify.com/artist/1C0BUumPtXRv8TpA46JmE8"
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
         }
       ],
-      "duration_ms": 223178,
-      "name": "Dollshse",
-      "url": "https://open.spotify.com/track/7aexSjyFDZT9HzhOEdXBAK"
+      "duration_ms": 132779,
+      "name": "Ngwai",
+      "url": "https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Tit for Tat",
-        "url": "https://open.spotify.com/album/5o7mfGHt7SJ4VkpH1MWq9g"
-      },
-      "artists": [
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        },
-        {
-          "name": "Tipsy",
-          "url": "https://open.spotify.com/artist/05r8qVIoFPCtYPchJqt3gW"
-        },
-        {
-          "name": "Gody Tenor",
-          "url": "https://open.spotify.com/artist/4HHn3Ax96xRTiyG0w5wjQE"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Tit for Tat",
-      "url": "https://open.spotify.com/track/0jzOQI1ZUrSuW1OH4FoDW6"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "G 2 G (Genge to Grammy)",
-        "url": "https://open.spotify.com/album/7fqkkzqLBFCzhFuFKgoUKC"
-      },
-      "artists": [
-        {
-          "name": "Eladin Kiranja Wa Rende",
-          "url": "https://open.spotify.com/artist/3Z9htGqCQL9VBHfqgTnH2g"
-        }
-      ],
-      "duration_ms": 146654,
-      "name": "Genge Banger",
-      "url": "https://open.spotify.com/track/6TiMhtf3KMsoSWL16dBzxB"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Party Like This",
-        "url": "https://open.spotify.com/album/6z9bKh7tDvF21vWQqKg21E"
-      },
-      "artists": [
-        {
-          "name": "Kilundeezy",
-          "url": "https://open.spotify.com/artist/2pvFPrGFSGZvkIe5nSkEzf"
-        }
-      ],
-      "duration_ms": 168048,
-      "name": "Party Like This",
-      "url": "https://open.spotify.com/track/4181dcgc23miEgs2hSEOW8"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Ndukunduku",
-        "url": "https://open.spotify.com/album/7x6ydErVGlZq5vI22gB5hg"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        }
-      ],
-      "duration_ms": 189387,
-      "name": "Ndukunduku",
-      "url": "https://open.spotify.com/track/6AUCYvA0Nvgl0C5FBu3ZM4"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Kanashikia Wapi",
-        "url": "https://open.spotify.com/album/00DjM0lwYZuErSOlVfNqeA"
-      },
-      "artists": [
-        {
-          "name": "Nelly The Goon",
-          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "Kanashikia Wapi",
-      "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Kejani",
-        "url": "https://open.spotify.com/album/0cmB6MbFMNdqjOjKbOVqZO"
-      },
-      "artists": [
-        {
-          "name": "sosatheprodigyy",
-          "url": "https://open.spotify.com/artist/4LFr9lmpNxcbQRDToII2q4"
-        }
-      ],
-      "duration_ms": 205705,
-      "name": "Kejani",
-      "url": "https://open.spotify.com/track/75EHmOnNQFy6Vzw11qbuHB"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Pesa Ndogo",
         "url": "https://open.spotify.com/album/7tgBbKwNZAGHLbqyVEZIXH"
@@ -685,7 +645,7 @@
       "url": "https://open.spotify.com/track/17SB8W5WdkVpsA6huzqu1X"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Kaskie Vibaya",
         "url": "https://open.spotify.com/album/3I2xim6t1W5RqtqXKElICs"
@@ -705,51 +665,7 @@
       "url": "https://open.spotify.com/track/1kgxOHGjNsyg4fGZ31YJQT"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Naskwambii Pole",
-        "url": "https://open.spotify.com/album/0T02oHTSKUQHTZ2ghfRy0A"
-      },
-      "artists": [
-        {
-          "name": "Iphoolish",
-          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Harry Craze",
-          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
-        }
-      ],
-      "duration_ms": 147644,
-      "name": "Naskwambii Pole",
-      "url": "https://open.spotify.com/track/7r2VdMH4KBz8GCQyQP7gSV"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Form",
-        "url": "https://open.spotify.com/album/0DtEH8E2OctJwkxSSdfP3I"
-      },
-      "artists": [
-        {
-          "name": "Mpizy Tycoon",
-          "url": "https://open.spotify.com/artist/5pEZH8oYh04Ce9rufZruCt"
-        },
-        {
-          "name": "Kushman",
-          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
-        }
-      ],
-      "duration_ms": 180302,
-      "name": "Form",
-      "url": "https://open.spotify.com/track/734KNxtCgk9vrqjlgvNgVn"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Kuna Kuna",
         "url": "https://open.spotify.com/album/6SfLFCTyZ9Os3uYxhZg8iT"
@@ -781,7 +697,179 @@
       "url": "https://open.spotify.com/track/53vfuY2r8Eg1jRMkjY62QZ"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Dollshse",
+        "url": "https://open.spotify.com/album/47lwmJSPFj3LhqUnvrOwWI"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Kappy",
+          "url": "https://open.spotify.com/artist/4nk9M2FJUaSSyw33Ob1YEk"
+        },
+        {
+          "name": "gody tennor",
+          "url": "https://open.spotify.com/artist/1C0BUumPtXRv8TpA46JmE8"
+        }
+      ],
+      "duration_ms": 223178,
+      "name": "Dollshse",
+      "url": "https://open.spotify.com/track/7aexSjyFDZT9HzhOEdXBAK"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Tit for Tat",
+        "url": "https://open.spotify.com/album/5o7mfGHt7SJ4VkpH1MWq9g"
+      },
+      "artists": [
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        },
+        {
+          "name": "Tipsy",
+          "url": "https://open.spotify.com/artist/05r8qVIoFPCtYPchJqt3gW"
+        },
+        {
+          "name": "Gody Tenor",
+          "url": "https://open.spotify.com/artist/4HHn3Ax96xRTiyG0w5wjQE"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Tit for Tat",
+      "url": "https://open.spotify.com/track/0jzOQI1ZUrSuW1OH4FoDW6"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "G 2 G (Genge to Grammy)",
+        "url": "https://open.spotify.com/album/7fqkkzqLBFCzhFuFKgoUKC"
+      },
+      "artists": [
+        {
+          "name": "Eladin Kiranja Wa Rende",
+          "url": "https://open.spotify.com/artist/3Z9htGqCQL9VBHfqgTnH2g"
+        }
+      ],
+      "duration_ms": 146654,
+      "name": "Genge Banger",
+      "url": "https://open.spotify.com/track/6TiMhtf3KMsoSWL16dBzxB"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Party Like This",
+        "url": "https://open.spotify.com/album/6z9bKh7tDvF21vWQqKg21E"
+      },
+      "artists": [
+        {
+          "name": "Kilundeezy",
+          "url": "https://open.spotify.com/artist/2pvFPrGFSGZvkIe5nSkEzf"
+        }
+      ],
+      "duration_ms": 168048,
+      "name": "Party Like This",
+      "url": "https://open.spotify.com/track/4181dcgc23miEgs2hSEOW8"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Ndukunduku",
+        "url": "https://open.spotify.com/album/7x6ydErVGlZq5vI22gB5hg"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        }
+      ],
+      "duration_ms": 189387,
+      "name": "Ndukunduku",
+      "url": "https://open.spotify.com/track/6AUCYvA0Nvgl0C5FBu3ZM4"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Kanashikia Wapi",
+        "url": "https://open.spotify.com/album/00DjM0lwYZuErSOlVfNqeA"
+      },
+      "artists": [
+        {
+          "name": "Nelly The Goon",
+          "url": "https://open.spotify.com/artist/6Z0LfL7qEINpGSsgc9aeeO"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "Kanashikia Wapi",
+      "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Kejani",
+        "url": "https://open.spotify.com/album/0cmB6MbFMNdqjOjKbOVqZO"
+      },
+      "artists": [
+        {
+          "name": "sosatheprodigyy",
+          "url": "https://open.spotify.com/artist/4LFr9lmpNxcbQRDToII2q4"
+        }
+      ],
+      "duration_ms": 205705,
+      "name": "Kejani",
+      "url": "https://open.spotify.com/track/75EHmOnNQFy6Vzw11qbuHB"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Naskwambii Pole",
+        "url": "https://open.spotify.com/album/0T02oHTSKUQHTZ2ghfRy0A"
+      },
+      "artists": [
+        {
+          "name": "Iphoolish",
+          "url": "https://open.spotify.com/artist/4vgL7NjTcEXAmObSdo5nmp"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Harry Craze",
+          "url": "https://open.spotify.com/artist/2lf45VLBUxoX6W9CE718cp"
+        }
+      ],
+      "duration_ms": 147644,
+      "name": "Naskwambii Pole",
+      "url": "https://open.spotify.com/track/7r2VdMH4KBz8GCQyQP7gSV"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Form",
+        "url": "https://open.spotify.com/album/0DtEH8E2OctJwkxSSdfP3I"
+      },
+      "artists": [
+        {
+          "name": "Mpizy Tycoon",
+          "url": "https://open.spotify.com/artist/5pEZH8oYh04Ce9rufZruCt"
+        },
+        {
+          "name": "Kushman",
+          "url": "https://open.spotify.com/artist/0iQVMwFTMDQumGIfqbV7gB"
+        }
+      ],
+      "duration_ms": 180302,
+      "name": "Form",
+      "url": "https://open.spotify.com/track/734KNxtCgk9vrqjlgvNgVn"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Alert",
         "url": "https://open.spotify.com/album/6R8MrjmK8u5RfIwPHR2lU4"
@@ -797,7 +885,7 @@
       "url": "https://open.spotify.com/track/6Lp23k6v9eSrZf3kS4t1E7"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Nasikia Wah",
         "url": "https://open.spotify.com/album/3UWUoIRvsWuCBGEU03xNoh"
@@ -817,27 +905,7 @@
       "url": "https://open.spotify.com/track/2yfNX50aSgen5BcXbg7zVm"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Ngwai",
-        "url": "https://open.spotify.com/album/5CywYpe6tgVV1jhkNsRJ8b"
-      },
-      "artists": [
-        {
-          "name": "danski",
-          "url": "https://open.spotify.com/artist/1QSL2mlVoqSq1xoU67Bf8T"
-        },
-        {
-          "name": "Lilmaina",
-          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
-        }
-      ],
-      "duration_ms": 132779,
-      "name": "Ngwai",
-      "url": "https://open.spotify.com/track/1CfRqv98t4UmngWTWcgDZK"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Kaveve Kazoze (Remix)",
         "url": "https://open.spotify.com/album/25u5Tg874oEWtwT1RYhkci"
@@ -869,7 +937,7 @@
       "url": "https://open.spotify.com/track/4gh5zJb9IrOTtAWcmaJs4b"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Weh Decide",
         "url": "https://open.spotify.com/album/4OLUbUFLHsMaJzU06h98XL"
@@ -885,7 +953,7 @@
       "url": "https://open.spotify.com/track/18zzepMnPWJX3faAtOUWPQ"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Angela (Remix)",
         "url": "https://open.spotify.com/album/3R0Izl0KAG58L6RtxvBZ58"
@@ -913,7 +981,7 @@
       "url": "https://open.spotify.com/track/6dsJk2F3gaCFmpHawBAg3t"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Naipenda (Remix)",
         "url": "https://open.spotify.com/album/2Z3RxKuQWN6Cga3C5CHpE0"
@@ -941,7 +1009,7 @@
       "url": "https://open.spotify.com/track/4DtO8nYfN2sXIWpyzWU4CM"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Summer Bunny",
         "url": "https://open.spotify.com/album/4RdOzbPcys3H6QuuFT0MUe"
@@ -957,7 +1025,7 @@
       "url": "https://open.spotify.com/track/20wywVO84oJscsnS41xRwB"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Soko Ni Chafu",
         "url": "https://open.spotify.com/album/3tGmTCTfZrkVAlKUA7uLkX"
@@ -981,7 +1049,23 @@
       "url": "https://open.spotify.com/track/4aX0YxzDQPrhKNrlHE0NSV"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "PUNGUZA EGO",
+        "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
+      },
+      "artists": [
+        {
+          "name": "Mejja",
+          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
+        }
+      ],
+      "duration_ms": 181475,
+      "name": "PUNGUZA EGO",
+      "url": "https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Matime",
         "url": "https://open.spotify.com/album/02MH0ean4HTGbU3rieMoxO"
@@ -1005,7 +1089,7 @@
       "url": "https://open.spotify.com/track/451PAVNFC26WxDS8zKS7as"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Mother In Law",
         "url": "https://open.spotify.com/album/3jjhWvTYpWeIan09dWn7H1"
@@ -1025,7 +1109,7 @@
       "url": "https://open.spotify.com/track/0YnRiJ6vElTXerNKSjt5Fu"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Drop",
         "url": "https://open.spotify.com/album/4zcbTXVVjq5ZzX8TwnLDXr"
@@ -1049,7 +1133,7 @@
       "url": "https://open.spotify.com/track/5YWe5gsxJMOD22uY1bmjrL"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Bidii Na Ujanja",
         "url": "https://open.spotify.com/album/63aVh132tMv0Gjxj6QNpPK"
@@ -1065,7 +1149,27 @@
       "url": "https://open.spotify.com/track/171r8LQDLAvmGvykZNOa2f"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Dai Dai",
+        "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
+      },
+      "artists": [
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "duration_ms": 154388,
+      "name": "Dai Dai",
+      "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Mpoa",
         "url": "https://open.spotify.com/album/1YxJQhxMlt3BZVkH4XlZf3"
@@ -1085,23 +1189,7 @@
       "url": "https://open.spotify.com/track/5TjsFhDgWuzzVEWvKhjdfS"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "PUNGUZA EGO",
-        "url": "https://open.spotify.com/album/66K9xtlzsdkOVnGg6kGVtq"
-      },
-      "artists": [
-        {
-          "name": "Mejja",
-          "url": "https://open.spotify.com/artist/5VnDOE1MEaJ0VOgSypOi3u"
-        }
-      ],
-      "duration_ms": 181475,
-      "name": "PUNGUZA EGO",
-      "url": "https://open.spotify.com/track/7xv1IfCT79cFHzYYYVoQA6"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Do Ri Me",
         "url": "https://open.spotify.com/album/0D9vnNfCEJ2IhRfgwRXHMA"
@@ -1129,7 +1217,7 @@
       "url": "https://open.spotify.com/track/6nO5KlzzA3pq3DCtMCDC42"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "How Come?",
         "url": "https://open.spotify.com/album/2pUrfQp68auT1Ka9iIzGKL"
@@ -1149,131 +1237,7 @@
       "url": "https://open.spotify.com/track/37ix17VbIhu9HgozklYdYE"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Dai Dai",
-        "url": "https://open.spotify.com/album/3kTpDX8OQWsQ9mRuPwFyoK"
-      },
-      "artists": [
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Shekina Karen",
-          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
-        }
-      ],
-      "duration_ms": 154388,
-      "name": "Dai Dai",
-      "url": "https://open.spotify.com/track/4BlBFQR8SjwtHpsuJIMoFu"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
-      },
-      "artists": [
-        {
-          "name": "Joefes",
-          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
-        },
-        {
-          "name": "Fathermoh",
-          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
-        },
-        {
-          "name": "Unspoken Salaton",
-          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
-        },
-        {
-          "name": "Odi Wa Murang'a",
-          "url": "https://open.spotify.com/artist/4LmwDeDzv98ZgzZ4Kbz3UH"
-        }
-      ],
-      "duration_ms": 170612,
-      "name": "Confirmed",
-      "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Hapo Tu",
-        "url": "https://open.spotify.com/album/24PHVy5OkPyLKeR3Jjh6nc"
-      },
-      "artists": [
-        {
-          "name": "Nyashinski",
-          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
-        },
-        {
-          "name": "Chris Kaiga",
-          "url": "https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz"
-        }
-      ],
-      "duration_ms": 187555,
-      "name": "Hapo Tu",
-      "url": "https://open.spotify.com/track/5g90vbGDO2zc7tYUqUHtmN"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Makofi",
-        "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Omollo",
-          "url": "https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf"
-        },
-        {
-          "name": "Odi Wa Muranga",
-          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
-        }
-      ],
-      "duration_ms": 209397,
-      "name": "Makofi",
-      "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Naipenda",
-        "url": "https://open.spotify.com/album/6kJHFGeQpJIjz2G9Ufy4kG"
-      },
-      "artists": [
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Naipenda",
-      "url": "https://open.spotify.com/track/4zcZKjDkzrAqG1o8S1MG7U"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "WANJAPI 2",
-        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
-      },
-      "artists": [
-        {
-          "name": "Uncojingjong",
-          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
-        }
-      ],
-      "duration_ms": 210960,
-      "name": "WANJAPI 2",
-      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Nawacha Pombe Remix (Feat Ssaru & Benzema)",
         "url": "https://open.spotify.com/album/1kNN171CDs85dUraRxampa"
@@ -1297,7 +1261,91 @@
       "url": "https://open.spotify.com/track/4mmCwOqDjsHc60WUSA5hDB"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/5QGE7Gq5bxFa5jt8Y6vTIx"
+      },
+      "artists": [
+        {
+          "name": "Joefes",
+          "url": "https://open.spotify.com/artist/6ZgN5sC0MG0xE7VBkxC318"
+        },
+        {
+          "name": "Fathermoh",
+          "url": "https://open.spotify.com/artist/7nzWhKIO0MuVrFR69jQxTA"
+        },
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "duration_ms": 170612,
+      "name": "Confirmed",
+      "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Makofi",
+        "url": "https://open.spotify.com/album/5Mb2exbthwd15Wn62pqnyC"
+      },
+      "artists": [
+        {
+          "name": "Exray Taniua",
+          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
+        },
+        {
+          "name": "Omollo",
+          "url": "https://open.spotify.com/artist/7HPHXUb4hjkkVdGe1YzxGf"
+        },
+        {
+          "name": "Odi Wa Muranga",
+          "url": "https://open.spotify.com/artist/789Et77m6EivwPJBTtEcu8"
+        }
+      ],
+      "duration_ms": 209397,
+      "name": "Makofi",
+      "url": "https://open.spotify.com/track/0KBjCrxN7mmBmQmzupQxMR"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Naipenda",
+        "url": "https://open.spotify.com/album/6kJHFGeQpJIjz2G9Ufy4kG"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Naipenda",
+      "url": "https://open.spotify.com/track/4zcZKjDkzrAqG1o8S1MG7U"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "WANJAPI 2",
+        "url": "https://open.spotify.com/album/1v9gFHN7jF9Fg4SIImuA40"
+      },
+      "artists": [
+        {
+          "name": "Uncojingjong",
+          "url": "https://open.spotify.com/artist/4TM3Re5tPyINdQRSNlAfIo"
+        }
+      ],
+      "duration_ms": 210960,
+      "name": "WANJAPI 2",
+      "url": "https://open.spotify.com/track/03SNSLtdmdgsLfzz91DAzQ"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Mapema Ndio Best",
         "url": "https://open.spotify.com/album/5qz0x0K2k5b4N8DFjjQPoY"
@@ -1321,7 +1369,7 @@
       "url": "https://open.spotify.com/track/5b8caYTRWpbi5I0jKrVah1"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Kamkora",
         "url": "https://open.spotify.com/album/2upMZcAVnGiPWhm346S1a0"
@@ -1337,31 +1385,7 @@
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Sipangwingwi",
-        "url": "https://open.spotify.com/album/0ywMMyiBU8YALzIvDbG2qn"
-      },
-      "artists": [
-        {
-          "name": "Exray Taniua",
-          "url": "https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6"
-        },
-        {
-          "name": "Trio Mio",
-          "url": "https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX"
-        },
-        {
-          "name": "Ssaru",
-          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Sipangwingwi",
-      "url": "https://open.spotify.com/track/7oWXkvkj3DMw2xNRl172Q1"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Three Wise Goats",
         "url": "https://open.spotify.com/album/3txLNkrdXGL8nvqiOItiRR"
@@ -1405,7 +1429,7 @@
       "url": "https://open.spotify.com/track/4KTtFRBpLBZdxt0jU5wGgZ"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Token",
         "url": "https://open.spotify.com/album/2wzTbfTBbyBrrwjgR92fS5"
@@ -1425,7 +1449,7 @@
       "url": "https://open.spotify.com/track/6ko3K47SosuIJBtpMQi64L"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/5HSnQUDLG6vxwHQeAGQsnl"
@@ -1445,7 +1469,7 @@
       "url": "https://open.spotify.com/track/733bVgbJZKLFwtSRwsMckd"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Matokeo",
         "url": "https://open.spotify.com/album/1IYKUDzq8smxvyHaNKyz9W"
@@ -1465,23 +1489,7 @@
       "url": "https://open.spotify.com/track/1fcist535HjFco6ntIxKEH"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Muni DM",
-        "url": "https://open.spotify.com/album/22BZjp4rtVKXS59kS35Qf3"
-      },
-      "artists": [
-        {
-          "name": "Ochungulo Family",
-          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
-        }
-      ],
-      "duration_ms": 224842,
-      "name": "Muni DM",
-      "url": "https://open.spotify.com/track/4fA1QLI0XFCuCpxMYZtOpU"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Kiss N Tell",
         "url": "https://open.spotify.com/album/11XXk49A9CjlxqZUAnRMLl"
@@ -1501,7 +1509,7 @@
       "url": "https://open.spotify.com/track/6UjG1rkeqxQIQjgNum5TVf"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Utam Flani",
         "url": "https://open.spotify.com/album/4CoDewrdVftBcRsB46UOwZ"
@@ -1525,27 +1533,7 @@
       "url": "https://open.spotify.com/track/0uvrmmBRFUpK9Ur9IdJRnD"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Kitawaramba",
-        "url": "https://open.spotify.com/album/22NjO8LsBSof8uFtoENhe6"
-      },
-      "artists": [
-        {
-          "name": "Gwaash",
-          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
-        },
-        {
-          "name": "queen b 254",
-          "url": "https://open.spotify.com/artist/2fE54T1REZAjSnJ9j1Se9l"
-        }
-      ],
-      "duration_ms": 131186,
-      "name": "Kitawaramba",
-      "url": "https://open.spotify.com/track/0NG3W6lJsBLz7ipN3KQtAP"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Drunk N Disorderly",
         "url": "https://open.spotify.com/album/3TePjPiZ3703jTmot3igo0"
@@ -1561,7 +1549,7 @@
       "url": "https://open.spotify.com/track/2wkzB9IwJTATr2ORoqQKzo"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Yinga",
         "url": "https://open.spotify.com/album/2zkSoisn7kPVhKHEBos1sY"
@@ -1589,51 +1577,23 @@
       "url": "https://open.spotify.com/track/6KqqpWRJtPmgE4GZaQSyje"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
-        "name": "Frisky",
-        "url": "https://open.spotify.com/album/6tDJySumvRZs2doH897gCk"
+        "name": "Muni DM",
+        "url": "https://open.spotify.com/album/22BZjp4rtVKXS59kS35Qf3"
       },
       "artists": [
         {
-          "name": "Maandy",
-          "url": "https://open.spotify.com/artist/3AaXIAk5OkIRmHnoEP4XmP"
-        },
-        {
-          "name": "Breeder LW",
-          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
-        },
-        {
-          "name": "NDOVU KUU",
-          "url": "https://open.spotify.com/artist/6QwcM8l3VfDjl3SZD7QAGP"
+          "name": "Ochungulo Family",
+          "url": "https://open.spotify.com/artist/6EZFShtIueshKPSVIdaq5b"
         }
       ],
-      "duration_ms": 224052,
-      "name": "Sirudi Home - Remix",
-      "url": "https://open.spotify.com/track/6gQ3DbL1b9QPPK5ju19meo"
+      "duration_ms": 224842,
+      "name": "Muni DM",
+      "url": "https://open.spotify.com/track/4fA1QLI0XFCuCpxMYZtOpU"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
-      "album": {
-        "name": "Dunda",
-        "url": "https://open.spotify.com/album/7jscWvZYXu0IN5lyJELcx8"
-      },
-      "artists": [
-        {
-          "name": "DERKMAN FTG",
-          "url": "https://open.spotify.com/artist/57tBsnrbnaUfGDDC2pwtfd"
-        },
-        {
-          "name": "Shekina Karen",
-          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Dunda",
-      "url": "https://open.spotify.com/track/7nanZK1NvN5ICcJSEuRL3U"
-    },
-    {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "Watoto",
         "url": "https://open.spotify.com/album/6zzlF1cZLfdxJlus1a4goT"
@@ -1649,7 +1609,27 @@
       "url": "https://open.spotify.com/track/1jrmvHoBCmufoYYCAP6A92"
     },
     {
-      "added_at": "2023-12-22 00:59:00",
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Kitawaramba",
+        "url": "https://open.spotify.com/album/22NjO8LsBSof8uFtoENhe6"
+      },
+      "artists": [
+        {
+          "name": "Gwaash",
+          "url": "https://open.spotify.com/artist/1F6HFgzRxozLXpqb188uD7"
+        },
+        {
+          "name": "queen b 254",
+          "url": "https://open.spotify.com/artist/2fE54T1REZAjSnJ9j1Se9l"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "Kitawaramba",
+      "url": "https://open.spotify.com/track/0NG3W6lJsBLz7ipN3KQtAP"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
       "album": {
         "name": "UTU UZIMA",
         "url": "https://open.spotify.com/album/7zAVowRwWqZPUSFpdbmN6P"
@@ -1671,6 +1651,26 @@
       "duration_ms": 188235,
       "name": "CHEZA KI WEWE",
       "url": "https://open.spotify.com/track/417ilOjQWFM6pGqLlGnFwN"
+    },
+    {
+      "added_at": "2024-01-11 22:59:00",
+      "album": {
+        "name": "Dunda",
+        "url": "https://open.spotify.com/album/7jscWvZYXu0IN5lyJELcx8"
+      },
+      "artists": [
+        {
+          "name": "DERKMAN FTG",
+          "url": "https://open.spotify.com/artist/57tBsnrbnaUfGDDC2pwtfd"
+        },
+        {
+          "name": "Shekina Karen",
+          "url": "https://open.spotify.com/artist/65Gq6WheHn3mmEgp64PGjl"
+        }
+      ],
+      "duration_ms": 178216,
+      "name": "Dunda",
+      "url": "https://open.spotify.com/track/7nanZK1NvN5ICcJSEuRL3U"
     }
   ],
   "unique_name": "Gengetone Fire",

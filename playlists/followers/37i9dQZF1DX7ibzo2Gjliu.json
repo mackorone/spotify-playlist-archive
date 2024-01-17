@@ -1,221 +1,945 @@
 {
-  "2023-05-28": 157038,
-  "2023-05-29": 157038,
-  "2023-05-30": 157658,
-  "2023-05-31": 157951,
-  "2023-06-01": 158232,
-  "2023-06-02": 158508,
-  "2023-06-03": 158825,
-  "2023-06-04": 159113,
-  "2023-06-05": 159398,
-  "2023-06-06": 159641,
-  "2023-06-07": 159890,
-  "2023-06-08": 160126,
-  "2023-06-09": 160382,
-  "2023-06-10": 160663,
-  "2023-06-11": 160948,
-  "2023-06-12": 161187,
-  "2023-06-13": 161398,
-  "2023-06-14": 161398,
-  "2023-06-15": 161838,
-  "2023-06-16": 162084,
-  "2023-06-17": 162329,
-  "2023-06-18": 162587,
-  "2023-06-19": 162781,
-  "2023-06-20": 162974,
-  "2023-06-21": 163197,
-  "2023-06-22": 163403,
-  "2023-06-23": 163604,
-  "2023-06-24": 163798,
-  "2023-06-25": 164028,
-  "2023-06-26": 164219,
-  "2023-06-27": 164398,
-  "2023-06-28": 164589,
-  "2023-06-29": 164815,
-  "2023-06-30": 165053,
-  "2023-07-01": 165486,
-  "2023-07-02": 165486,
-  "2023-07-03": 165695,
-  "2023-07-04": 165869,
-  "2023-07-05": 166054,
-  "2023-07-06": 166495,
-  "2023-07-07": 166495,
-  "2023-07-08": 166732,
-  "2023-07-09": 166954,
-  "2023-07-10": 167157,
-  "2023-07-11": 167314,
-  "2023-07-12": 167541,
-  "2023-07-13": 167744,
-  "2023-07-14": 167946,
-  "2023-07-15": 168139,
-  "2023-07-16": 168419,
-  "2023-07-17": 168618,
-  "2023-07-18": 168822,
-  "2023-07-19": 169028,
-  "2023-07-20": 169221,
-  "2023-07-21": 169418,
-  "2023-07-22": 169618,
-  "2023-07-23": 169831,
-  "2023-07-24": 170013,
-  "2023-07-25": 170179,
-  "2023-07-26": 170371,
-  "2023-07-27": 170560,
-  "2023-07-28": 170743,
-  "2023-07-29": 170944,
-  "2023-07-30": 171142,
-  "2023-07-31": 171355,
-  "2023-08-01": 171530,
-  "2023-08-02": 171754,
-  "2023-08-03": 171952,
-  "2023-08-04": 172187,
-  "2023-08-05": 172635,
-  "2023-08-06": 173653,
-  "2023-08-07": 173653,
-  "2023-08-08": 174143,
-  "2023-08-09": 174638,
-  "2023-08-10": 175197,
-  "2023-08-11": 175708,
-  "2023-08-12": 176221,
-  "2023-08-13": 176817,
-  "2023-08-14": 177289,
-  "2023-08-15": 178116,
-  "2023-08-16": 178116,
-  "2023-08-17": 178565,
-  "2023-08-18": 178994,
-  "2023-08-19": 179476,
-  "2023-08-20": 179919,
-  "2023-08-21": 180326,
-  "2023-08-22": 180665,
-  "2023-08-23": 181003,
-  "2023-08-24": 181374,
-  "2023-08-25": 181750,
-  "2023-08-26": 182134,
-  "2023-08-27": 182503,
-  "2023-08-28": 182842,
-  "2023-08-29": 183093,
-  "2023-08-30": 183353,
-  "2023-08-31": 183625,
-  "2023-09-01": 184133,
-  "2023-09-02": 184133,
-  "2023-09-03": 184367,
-  "2023-09-04": 184642,
-  "2023-09-05": 184842,
-  "2023-09-06": 185015,
-  "2023-09-07": 185278,
-  "2023-09-08": 185516,
-  "2023-09-09": 185772,
-  "2023-09-10": 186046,
-  "2023-09-11": 186278,
-  "2023-09-12": 186485,
-  "2023-09-13": 186716,
-  "2023-09-14": 186950,
-  "2023-09-15": 187158,
-  "2023-09-16": 187390,
-  "2023-09-17": 187596,
-  "2023-09-18": 187776,
-  "2023-09-19": 187939,
-  "2023-09-20": 188053,
-  "2023-09-21": 188278,
-  "2023-09-22": 188465,
-  "2023-09-23": 188660,
-  "2023-09-24": 188879,
-  "2023-09-25": 189043,
-  "2023-09-26": 189284,
-  "2023-09-27": 189437,
-  "2023-09-28": 189628,
-  "2023-09-29": 189833,
-  "2023-09-30": 190029,
-  "2023-10-01": 190263,
-  "2023-10-02": 190475,
-  "2023-10-03": 190574,
-  "2023-10-04": 190774,
-  "2023-10-05": 190937,
-  "2023-10-06": 191123,
-  "2023-10-07": 191282,
-  "2023-10-08": 191490,
-  "2023-10-09": 191639,
-  "2023-10-10": 191807,
-  "2023-10-11": 192167,
-  "2023-10-12": 192167,
-  "2023-10-13": 192288,
-  "2023-10-14": 192436,
-  "2023-10-15": 192626,
-  "2023-10-16": 192760,
-  "2023-10-17": 192902,
-  "2023-10-18": 193043,
-  "2023-10-19": 193201,
-  "2023-10-20": 193368,
-  "2023-10-21": 193530,
-  "2023-10-22": 193667,
-  "2023-10-23": 193762,
-  "2023-10-24": 193886,
-  "2023-10-25": 194012,
-  "2023-10-26": 194153,
-  "2023-10-27": 194280,
-  "2023-10-28": 194280,
-  "2023-10-29": 194585,
-  "2023-10-30": 194817,
-  "2023-10-31": 194817,
-  "2023-11-01": 194947,
-  "2023-11-02": 195064,
-  "2023-11-03": 195172,
-  "2023-11-04": 195318,
-  "2023-11-05": 195460,
-  "2023-11-06": 195591,
-  "2023-11-07": 195742,
-  "2023-11-08": 195871,
-  "2023-11-09": 195996,
-  "2023-11-10": 196132,
-  "2023-11-11": 196256,
-  "2023-11-12": 196355,
-  "2023-11-13": 196488,
-  "2023-11-14": 196628,
-  "2023-11-15": 196628,
-  "2023-11-16": 196912,
-  "2023-11-17": 197276,
-  "2023-11-18": 197276,
-  "2023-11-19": 197477,
-  "2023-11-20": 197642,
-  "2023-11-21": 197780,
-  "2023-11-22": 197915,
-  "2023-11-23": 198049,
-  "2023-11-24": 198231,
-  "2023-11-25": 198390,
-  "2023-11-26": 198568,
-  "2023-11-27": 198755,
-  "2023-11-28": 198910,
-  "2023-11-29": 199206,
-  "2023-11-30": 199206,
-  "2023-12-01": 199386,
-  "2023-12-02": 199560,
-  "2023-12-03": 199756,
-  "2023-12-04": 199978,
-  "2023-12-05": 200133,
-  "2023-12-06": 200341,
-  "2023-12-07": 200558,
-  "2023-12-08": 200763,
-  "2023-12-09": 200997,
-  "2023-12-10": 201232,
-  "2023-12-11": 201466,
-  "2023-12-12": 201656,
-  "2023-12-13": 201872,
-  "2023-12-14": 202140,
-  "2023-12-15": 202280,
-  "2023-12-16": 202456,
-  "2023-12-17": 202687,
-  "2023-12-18": 202858,
-  "2023-12-19": 203039,
-  "2023-12-20": 203252,
-  "2023-12-21": 203408,
-  "2023-12-22": 203605,
-  "2023-12-23": 203776,
-  "2023-12-24": 203952,
-  "2023-12-25": 204131,
-  "2023-12-26": 204247,
-  "2023-12-27": 204375,
-  "2023-12-30": 204814,
-  "2023-12-31": 204990,
-  "2024-01-01": 205178,
-  "2024-01-02": 205304,
-  "2024-01-03": 205442
+  "2024-01-17": 207620,
+  "date_first_scraped": "2023-05-28",
+  "description": "\u00a1Los \u00e9xitos pop de Luismi!",
+  "name": "Luis Miguel: Pop",
+  "tracks": [
+    {
+      "album": {
+        "name": "1 + 1 = 2 Enamorados",
+        "url": "https://open.spotify.com/album/6nTKGrjZSwfUQdQqAaA4aK"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205909,
+      "name": "1+1=2 Enamorados",
+      "url": "https://open.spotify.com/track/7lU5FqcEvaTBpdI2YcJUjz"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259066,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/4syvq0aJLeWu0UA9VYcgob"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202200,
+      "name": "Amante Del Amor",
+      "url": "https://open.spotify.com/track/3HE0wPD30AjKMKtxNaKFQ4"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
+    },
+    {
+      "album": {
+        "name": "Mis Romances",
+        "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222293,
+      "name": "Amor (Amor, amor, amor)",
+      "url": "https://open.spotify.com/track/1k4GYtmW7edpJ9uhQmzO66"
+    },
+    {
+      "album": {
+        "name": "Am\u00e9rica / Contigo En La Distancia (Live)",
+        "url": "https://open.spotify.com/album/3QZ3Wj0Uh0gH4nAYuEwxH6"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273373,
+      "name": "Am\u00e9rica, Am\u00e9rica",
+      "url": "https://open.spotify.com/track/5sz7gZG0kpQILXfUpxCbtO"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207360,
+      "name": "Ayer",
+      "url": "https://open.spotify.com/track/3PoR4LhD7Y74bPpk8lZ6f7"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236413,
+      "name": "Cuando Calienta El Sol",
+      "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264573,
+      "name": "Cuesti\u00f3n De Piel",
+      "url": "https://open.spotify.com/track/1PdgPj8tdE2OAhH40J4f4g"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
+    },
+    {
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256186,
+      "name": "C\u00f3mo Es Posible Que a Mi Lado",
+      "url": "https://open.spotify.com/track/3XNKgHcTo3JyWjOdb540Te"
+    },
+    {
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297893,
+      "name": "Dame",
+      "url": "https://open.spotify.com/track/4mu9UDULgYFQfWQFx5fkKM"
+    },
+    {
+      "album": {
+        "name": "Decidete",
+        "url": "https://open.spotify.com/album/3mO9TKGfnyfWGionNCwYvq"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183223,
+      "name": "Decidete",
+      "url": "https://open.spotify.com/track/0t4Z131i0IVcWfSvCxSeZd"
+    },
+    {
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/1qLSYu2HwnMyirHb6mkN9S"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168515,
+      "name": "Directo Al Corazon",
+      "url": "https://open.spotify.com/track/6A5wFaOyI8OEo84oKKOyPu"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "Dormir contigo",
+      "url": "https://open.spotify.com/track/0REKETXT8fkn2C863KKlO4"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263906,
+      "name": "Entr\u00e9gate",
+      "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247026,
+      "name": "Esa Ni\u00f1a",
+      "url": "https://open.spotify.com/track/2rL3yI7v4R3EKdK0shizrZ"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224493,
+      "name": "Hoy El Aire Huele a Ti",
+      "url": "https://open.spotify.com/track/2ZYvD9zQf1iBLelkgkUl7U"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 157484,
+      "name": "Isabel",
+      "url": "https://open.spotify.com/track/3opKjYKxwXvUHteDplV3mk"
+    },
+    {
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157484,
+      "name": "Isabel",
+      "url": "https://open.spotify.com/track/4cDNMGoDFdjXgxpZEyP6wH"
+    },
+    {
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "La Incondicional",
+      "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
+    },
+    {
+      "album": {
+        "name": "Luis Miguel (Edici\u00f3n De Lujo)",
+        "url": "https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235546,
+      "name": "Labios de miel",
+      "url": "https://open.spotify.com/track/3td8WklPGKKDSuOHbyxRdD"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301933,
+      "name": "Luz Verde",
+      "url": "https://open.spotify.com/track/0FpYqjOx9Q4khUauXDrVtj"
+    },
+    {
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193352,
+      "name": "Me Gustas Tal Como Eres",
+      "url": "https://open.spotify.com/track/3jxLYg1dhbj1rnsGmwdChh"
+    },
+    {
+      "album": {
+        "name": "El Idolo De Mexico",
+        "url": "https://open.spotify.com/album/28KtwGLD5soKpzJyP1tGUo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 193352,
+      "name": "Me Gustas Tal Como Eres",
+      "url": "https://open.spotify.com/track/5BrywDsYxdadc7hwsfdYon"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191826,
+      "name": "M\u00e1s",
+      "url": "https://open.spotify.com/track/1KRaDU2NWnUN28Dj1wlnl8"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245133,
+      "name": "M\u00e1s All\u00e1 De Todo",
+      "url": "https://open.spotify.com/track/7CbgafOaqArpdlZVlTpNeA"
+    },
+    {
+      "album": {
+        "name": "Decidete",
+        "url": "https://open.spotify.com/album/3mO9TKGfnyfWGionNCwYvq"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206117,
+      "name": "No Me Puedes Dejar Asi",
+      "url": "https://open.spotify.com/track/3eGfb1IkcwXqYCwDnmQKYA"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "O Tu O Ninguna",
+      "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "Oro De Ley",
+      "url": "https://open.spotify.com/track/2PZtKB8fDoDGLot27oUnWH"
+    },
+    {
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218951,
+      "name": "Palabra De Honor",
+      "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Perd\u00f3name (All by Myself)",
+      "url": "https://open.spotify.com/track/2kQtm92uUcTTIPN5smIxUl"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Por Favor Se\u00f1ora",
+      "url": "https://open.spotify.com/track/4MAUqdDvCTMS9ZiB5DB6UK"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237200,
+      "name": "Pupilas De Gato",
+      "url": "https://open.spotify.com/track/6MaaiqPz6nuaVVhDHKiWGa"
+    },
+    {
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252466,
+      "name": "Que T\u00fa Te Vas",
+      "url": "https://open.spotify.com/track/5xBgNzopylKVTJnrFcKang"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Qu\u00e9 Nivel De Mujer",
+      "url": "https://open.spotify.com/track/4yakD6EKEjeMezENNCSlcc"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216600,
+      "name": "Separados",
+      "url": "https://open.spotify.com/track/1BkWs6sjxg239MVdm3xOFx"
+    },
+    {
+      "album": {
+        "name": "El Concierto",
+        "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276226,
+      "name": "Ser\u00e1 Que No Me Amas - En Vivo",
+      "url": "https://open.spotify.com/track/6LBnaXnvXFwn1PgLmpxTXM"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mplices",
+        "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233840,
+      "name": "Si t\u00fa te atreves",
+      "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
+    },
+    {
+      "album": {
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Sol, arena y mar",
+      "url": "https://open.spotify.com/track/3pJlTmnEjkf1u9Bualfo8X"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176173,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/0VYSH5t5gIXadaAhcufgPu"
+    },
+    {
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+    },
+    {
+      "album": {
+        "name": "Nada Es Igual",
+        "url": "https://open.spotify.com/album/0WN5rXI75cVpVMiZ646oyn"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Sue\u00f1a",
+      "url": "https://open.spotify.com/track/7e3mCGbRFSsYmnGuQf9rMk"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194320,
+      "name": "Te necesito",
+      "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
+    },
+    {
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
+    },
+    {
+      "album": {
+        "name": "Fiebre De Amor",
+        "url": "https://open.spotify.com/album/7n9YR331Amwqwl0mdOuV9b"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159635,
+      "name": "Todo El Amor Del Mundo",
+      "url": "https://open.spotify.com/track/6T32aKDo9fEQ1E0wDrhrTO"
+    },
+    {
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215066,
+      "name": "Un Hombre Busca a Una Mujer",
+      "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "Yo Que No Vivo Sin Ti",
+      "url": "https://open.spotify.com/track/5SnH7xubfdfvHomShSjiIe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7ibzo2Gjliu"
 }

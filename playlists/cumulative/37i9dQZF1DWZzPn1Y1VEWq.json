@@ -298,7 +298,7 @@
     {
       "album": {
         "name": "M\u00e1quina de Sangre",
-        "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
+        "url": "https://open.spotify.com/album/5kCM1EfwsAr8VuV7OS5zLL"
       },
       "artists": [
         {
@@ -309,6 +309,24 @@
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Como Al\u00ed",
+      "url": "https://open.spotify.com/track/3yJKzKUDLo65qDDBDZm9im"
+    },
+    {
+      "album": {
+        "name": "M\u00e1quina de Sangre",
+        "url": "https://open.spotify.com/album/2CzDXrQbEVI5gJq79rvBZx"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
       "duration_ms": 211653,
       "name": "Como Al\u00ed",
       "url": "https://open.spotify.com/track/7Gjlbz4TEoeBGH43eEd3hs"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": "2024-01-13",
       "duration_ms": 234753,
       "name": "Complicado y Aturdido / Mulher de Fases",
       "url": "https://open.spotify.com/track/1EkrLhI0P5Iml6qYHHKk30"
@@ -766,7 +784,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 193080,
       "name": "La colorada",
       "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 282893,
       "name": "Pac\u00edfico",
       "url": "https://open.spotify.com/track/2LOw9ga2cBnxffMtqpDj5j"
@@ -1314,7 +1332,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-20",
+      "date_removed": null,
       "duration_ms": 305400,
       "name": "Que No Me Pierda",
       "url": "https://open.spotify.com/track/1hddbV736FaAFxMho50n75"
@@ -1692,10 +1710,28 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 220466,
       "name": "Una Piba Con la Remera de Greenpeace",
       "url": "https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd"
+    },
+    {
+      "album": {
+        "name": "Momo Sampler",
+        "url": "https://open.spotify.com/album/0omWExUGprwvcvYwGh3Vr0"
+      },
+      "artists": [
+        {
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220466,
+      "name": "Una Piba Con la Remera de Greenpeace",
+      "url": "https://open.spotify.com/track/6xxyN0K6opVJWMdQykqXQ7"
     },
     {
       "album": {
@@ -1818,7 +1854,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 248386,
       "name": "Western",
       "url": "https://open.spotify.com/track/2UVXBlqRLUJD60L3unaMyS"

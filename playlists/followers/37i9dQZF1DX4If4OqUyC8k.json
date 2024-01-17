@@ -1,621 +1,1105 @@
 {
-  "2022-04-19": 383,
-  "2022-04-20": 395,
-  "2022-04-21": 401,
-  "2022-04-22": 404,
-  "2022-04-23": 493,
-  "2022-04-24": 527,
-  "2022-04-25": 528,
-  "2022-04-26": 533,
-  "2022-04-27": 539,
-  "2022-04-28": 538,
-  "2022-04-29": 545,
-  "2022-04-30": 546,
-  "2022-05-01": 548,
-  "2022-05-02": 548,
-  "2022-05-03": 550,
-  "2022-05-04": 556,
-  "2022-05-05": 555,
-  "2022-05-06": 557,
-  "2022-05-07": 558,
-  "2022-05-08": 568,
-  "2022-05-09": 568,
-  "2022-05-10": 571,
-  "2022-05-11": 572,
-  "2022-05-12": 575,
-  "2022-05-13": 574,
-  "2022-05-14": 577,
-  "2022-05-15": 578,
-  "2022-05-16": 578,
-  "2022-05-17": 580,
-  "2022-05-18": 582,
-  "2022-05-19": 582,
-  "2022-05-20": 582,
-  "2022-05-21": 585,
-  "2022-05-22": 585,
-  "2022-05-23": 588,
-  "2022-05-24": 589,
-  "2022-05-25": 590,
-  "2022-05-26": 593,
-  "2022-05-27": 595,
-  "2022-05-28": 595,
-  "2022-05-29": 597,
-  "2022-05-30": 598,
-  "2022-05-31": 598,
-  "2022-06-01": 601,
-  "2022-06-02": 602,
-  "2022-06-03": 603,
-  "2022-06-04": 604,
-  "2022-06-05": 604,
-  "2022-06-06": 604,
-  "2022-06-07": 604,
-  "2022-06-08": 607,
-  "2022-06-09": 607,
-  "2022-06-10": 606,
-  "2022-06-11": 606,
-  "2022-06-12": 605,
-  "2022-06-13": 608,
-  "2022-06-14": 608,
-  "2022-06-15": 608,
-  "2022-06-16": 613,
-  "2022-06-17": 614,
-  "2022-06-18": 614,
-  "2022-06-19": 613,
-  "2022-06-20": 613,
-  "2022-06-21": 615,
-  "2022-06-22": 615,
-  "2022-06-23": 615,
-  "2022-06-24": 617,
-  "2022-06-25": 618,
-  "2022-06-26": 618,
-  "2022-06-27": 617,
-  "2022-06-28": 616,
-  "2022-06-29": 616,
-  "2022-06-30": 617,
-  "2022-07-01": 618,
-  "2022-07-02": 618,
-  "2022-07-03": 617,
-  "2022-07-04": 617,
-  "2022-07-05": 619,
-  "2022-07-06": 618,
-  "2022-07-07": 618,
-  "2022-07-08": 618,
-  "2022-07-09": 618,
-  "2022-07-10": 619,
-  "2022-07-11": 620,
-  "2022-07-12": 622,
-  "2022-07-13": 623,
-  "2022-07-14": 622,
-  "2022-07-15": 622,
-  "2022-07-16": 621,
-  "2022-07-17": 621,
-  "2022-07-18": 621,
-  "2022-07-19": 621,
-  "2022-07-20": 621,
-  "2022-07-21": 621,
-  "2022-07-22": 622,
-  "2022-07-23": 624,
-  "2022-07-24": 625,
-  "2022-07-25": 626,
-  "2022-07-26": 628,
-  "2022-07-27": 628,
-  "2022-07-28": 627,
-  "2022-07-29": 627,
-  "2022-07-30": 627,
-  "2022-07-31": 627,
-  "2022-08-01": 626,
-  "2022-08-02": 625,
-  "2022-08-03": 625,
-  "2022-08-04": 625,
-  "2022-08-05": 627,
-  "2022-08-06": 629,
-  "2022-08-07": 629,
-  "2022-08-08": 630,
-  "2022-08-09": 631,
-  "2022-08-10": 632,
-  "2022-08-11": 631,
-  "2022-08-12": 632,
-  "2022-08-13": 632,
-  "2022-08-14": 632,
-  "2022-08-15": 632,
-  "2022-08-16": 633,
-  "2022-08-17": 635,
-  "2022-08-18": 636,
-  "2022-08-19": 636,
-  "2022-08-20": 636,
-  "2022-08-21": 637,
-  "2022-08-22": 637,
-  "2022-08-23": 638,
-  "2022-08-24": 638,
-  "2022-08-25": 637,
-  "2022-08-26": 638,
-  "2022-08-27": 638,
-  "2022-08-28": 640,
-  "2022-08-29": 642,
-  "2022-08-30": 644,
-  "2022-08-31": 644,
-  "2022-09-01": 645,
-  "2022-09-02": 645,
-  "2022-09-03": 645,
-  "2022-09-04": 645,
-  "2022-09-05": 645,
-  "2022-09-06": 646,
-  "2022-09-07": 647,
-  "2022-09-09": 648,
-  "2022-09-10": 651,
-  "2022-09-11": 657,
-  "2022-09-12": 658,
-  "2022-09-13": 662,
-  "2022-09-15": 666,
-  "2022-09-16": 670,
-  "2022-09-17": 672,
-  "2022-09-18": 674,
-  "2022-09-19": 678,
-  "2022-09-20": 682,
-  "2022-09-21": 687,
-  "2022-09-22": 691,
-  "2022-09-23": 694,
-  "2022-09-24": 697,
-  "2022-09-25": 700,
-  "2022-09-26": 702,
-  "2022-09-27": 704,
-  "2022-09-28": 703,
-  "2022-09-29": 705,
-  "2022-09-30": 707,
-  "2022-10-01": 710,
-  "2022-10-02": 710,
-  "2022-10-03": 714,
-  "2022-10-04": 714,
-  "2022-10-05": 717,
-  "2022-10-06": 719,
-  "2022-10-07": 720,
-  "2022-10-08": 724,
-  "2022-10-09": 726,
-  "2022-10-10": 726,
-  "2022-10-11": 726,
-  "2022-10-12": 728,
-  "2022-10-13": 729,
-  "2022-10-14": 730,
-  "2022-10-15": 730,
-  "2022-10-16": 730,
-  "2022-10-17": 732,
-  "2022-10-18": 732,
-  "2022-10-19": 735,
-  "2022-10-20": 735,
-  "2022-10-21": 740,
-  "2022-10-22": 741,
-  "2022-10-23": 742,
-  "2022-10-24": 742,
-  "2022-10-25": 744,
-  "2022-10-26": 747,
-  "2022-10-27": 747,
-  "2022-10-28": 748,
-  "2022-10-29": 751,
-  "2022-10-30": 751,
-  "2022-10-31": 755,
-  "2022-11-01": 758,
-  "2022-11-02": 762,
-  "2022-11-03": 769,
-  "2022-11-04": 766,
-  "2022-11-05": 770,
-  "2022-11-06": 773,
-  "2022-11-07": 774,
-  "2022-11-08": 776,
-  "2022-11-09": 777,
-  "2022-11-10": 779,
-  "2022-11-11": 780,
-  "2022-11-12": 786,
-  "2022-11-13": 788,
-  "2022-11-14": 791,
-  "2022-11-15": 792,
-  "2022-11-16": 796,
-  "2022-11-17": 799,
-  "2022-11-18": 801,
-  "2022-11-19": 801,
-  "2022-11-20": 810,
-  "2022-11-21": 809,
-  "2022-11-22": 814,
-  "2022-11-23": 813,
-  "2022-11-24": 823,
-  "2022-11-25": 831,
-  "2022-11-26": 834,
-  "2022-11-27": 835,
-  "2022-11-28": 837,
-  "2022-11-29": 838,
-  "2022-11-30": 843,
-  "2022-12-01": 846,
-  "2022-12-02": 846,
-  "2022-12-03": 850,
-  "2022-12-04": 851,
-  "2022-12-05": 857,
-  "2022-12-06": 857,
-  "2022-12-07": 857,
-  "2022-12-08": 857,
-  "2022-12-09": 857,
-  "2022-12-10": 858,
-  "2022-12-11": 859,
-  "2022-12-12": 859,
-  "2022-12-13": 862,
-  "2022-12-14": 864,
-  "2022-12-15": 869,
-  "2022-12-16": 869,
-  "2022-12-17": 871,
-  "2022-12-18": 872,
-  "2022-12-19": 876,
-  "2022-12-20": 876,
-  "2022-12-21": 876,
-  "2022-12-22": 878,
-  "2022-12-24": 887,
-  "2022-12-25": 888,
-  "2022-12-26": 889,
-  "2022-12-27": 891,
-  "2022-12-28": 891,
-  "2022-12-29": 894,
-  "2022-12-30": 895,
-  "2022-12-31": 895,
-  "2023-01-01": 897,
-  "2023-01-02": 897,
-  "2023-01-03": 901,
-  "2023-01-04": 906,
-  "2023-01-05": 908,
-  "2023-01-06": 911,
-  "2023-01-07": 917,
-  "2023-01-08": 916,
-  "2023-01-09": 916,
-  "2023-01-10": 918,
-  "2023-01-11": 919,
-  "2023-01-12": 922,
-  "2023-01-13": 923,
-  "2023-01-14": 927,
-  "2023-01-15": 928,
-  "2023-01-16": 931,
-  "2023-01-17": 936,
-  "2023-01-18": 937,
-  "2023-01-19": 940,
-  "2023-01-20": 940,
-  "2023-01-21": 942,
-  "2023-01-22": 942,
-  "2023-01-23": 945,
-  "2023-01-24": 947,
-  "2023-01-25": 947,
-  "2023-01-26": 947,
-  "2023-01-27": 952,
-  "2023-01-28": 952,
-  "2023-01-29": 958,
-  "2023-01-30": 960,
-  "2023-01-31": 960,
-  "2023-02-01": 963,
-  "2023-02-02": 961,
-  "2023-02-03": 963,
-  "2023-02-04": 967,
-  "2023-02-05": 970,
-  "2023-02-06": 972,
-  "2023-02-07": 975,
-  "2023-02-08": 978,
-  "2023-02-09": 978,
-  "2023-02-10": 979,
-  "2023-02-11": 979,
-  "2023-02-12": 978,
-  "2023-02-13": 980,
-  "2023-02-14": 980,
-  "2023-02-15": 980,
-  "2023-02-16": 982,
-  "2023-02-17": 982,
-  "2023-02-18": 986,
-  "2023-02-19": 987,
-  "2023-02-20": 991,
-  "2023-02-21": 993,
-  "2023-02-22": 1004,
-  "2023-02-23": 1022,
-  "2023-02-24": 1032,
-  "2023-02-25": 1060,
-  "2023-02-26": 1070,
-  "2023-02-27": 1106,
-  "2023-02-28": 1106,
-  "2023-03-01": 1134,
-  "2023-03-02": 1155,
-  "2023-03-03": 1173,
-  "2023-03-04": 1186,
-  "2023-03-05": 1223,
-  "2023-03-06": 1223,
-  "2023-03-07": 1247,
-  "2023-03-08": 1265,
-  "2023-03-09": 1282,
-  "2023-03-10": 1305,
-  "2023-03-11": 1319,
-  "2023-03-12": 1339,
-  "2023-03-13": 1362,
-  "2023-03-14": 1377,
-  "2023-03-15": 1395,
-  "2023-03-16": 1415,
-  "2023-03-17": 1415,
-  "2023-03-18": 1445,
-  "2023-03-19": 1464,
-  "2023-03-20": 1478,
-  "2023-03-21": 1493,
-  "2023-03-22": 1507,
-  "2023-03-23": 1528,
-  "2023-03-24": 1528,
-  "2023-03-25": 1565,
-  "2023-03-26": 1583,
-  "2023-03-27": 1604,
-  "2023-03-28": 1629,
-  "2023-03-29": 1639,
-  "2023-03-30": 1671,
-  "2023-03-31": 1671,
-  "2023-04-01": 1696,
-  "2023-04-02": 1713,
-  "2023-04-03": 1726,
-  "2023-04-04": 1751,
-  "2023-04-05": 1766,
-  "2023-04-06": 1784,
-  "2023-04-07": 1810,
-  "2023-04-09": 1857,
-  "2023-04-10": 1875,
-  "2023-04-11": 1908,
-  "2023-04-12": 1908,
-  "2023-04-13": 1935,
-  "2023-04-14": 1964,
-  "2023-04-15": 1987,
-  "2023-04-16": 2012,
-  "2023-04-17": 2033,
-  "2023-04-18": 2074,
-  "2023-04-19": 2113,
-  "2023-04-20": 2148,
-  "2023-04-21": 2178,
-  "2023-04-22": 2220,
-  "2023-04-23": 2344,
-  "2023-04-24": 2369,
-  "2023-04-25": 2397,
-  "2023-04-26": 2421,
-  "2023-04-27": 2459,
-  "2023-04-28": 2482,
-  "2023-04-29": 2503,
-  "2023-04-30": 2530,
-  "2023-05-01": 2558,
-  "2023-05-02": 2575,
-  "2023-05-03": 2598,
-  "2023-05-04": 2614,
-  "2023-05-05": 2640,
-  "2023-05-06": 2661,
-  "2023-05-07": 2683,
-  "2023-05-08": 2700,
-  "2023-05-09": 2714,
-  "2023-05-10": 2749,
-  "2023-05-11": 2767,
-  "2023-05-12": 2794,
-  "2023-05-13": 2817,
-  "2023-05-14": 2837,
-  "2023-05-15": 2859,
-  "2023-05-16": 2881,
-  "2023-05-17": 2899,
-  "2023-05-18": 2920,
-  "2023-05-19": 2944,
-  "2023-05-20": 2985,
-  "2023-05-21": 2985,
-  "2023-05-22": 2985,
-  "2023-05-23": 3042,
-  "2023-05-24": 3079,
-  "2023-05-25": 3084,
-  "2023-05-26": 3094,
-  "2023-05-27": 3120,
-  "2023-05-28": 3137,
-  "2023-05-29": 3137,
-  "2023-05-30": 3178,
-  "2023-05-31": 3203,
-  "2023-06-01": 3221,
-  "2023-06-02": 3240,
-  "2023-06-03": 3253,
-  "2023-06-04": 3272,
-  "2023-06-05": 3287,
-  "2023-06-06": 3307,
-  "2023-06-07": 3335,
-  "2023-06-08": 3349,
-  "2023-06-09": 3364,
-  "2023-06-10": 3379,
-  "2023-06-11": 3396,
-  "2023-06-12": 3417,
-  "2023-06-13": 3437,
-  "2023-06-14": 3459,
-  "2023-06-15": 3480,
-  "2023-06-16": 3500,
-  "2023-06-17": 3522,
-  "2023-06-18": 3542,
-  "2023-06-19": 3556,
-  "2023-06-20": 3571,
-  "2023-06-21": 3587,
-  "2023-06-22": 3603,
-  "2023-06-23": 3616,
-  "2023-06-24": 3627,
-  "2023-06-25": 3650,
-  "2023-06-26": 3670,
-  "2023-06-27": 3696,
-  "2023-06-28": 3701,
-  "2023-06-29": 3718,
-  "2023-06-30": 3734,
-  "2023-07-01": 3768,
-  "2023-07-02": 3768,
-  "2023-07-03": 3782,
-  "2023-07-04": 3792,
-  "2023-07-05": 3818,
-  "2023-07-06": 3851,
-  "2023-07-07": 3851,
-  "2023-07-08": 3872,
-  "2023-07-09": 3894,
-  "2023-07-10": 3909,
-  "2023-07-11": 3922,
-  "2023-07-12": 3934,
-  "2023-07-13": 3953,
-  "2023-07-14": 3965,
-  "2023-07-15": 3974,
-  "2023-07-16": 4002,
-  "2023-07-17": 4014,
-  "2023-07-18": 4032,
-  "2023-07-19": 4047,
-  "2023-07-20": 4060,
-  "2023-07-21": 4075,
-  "2023-07-22": 4097,
-  "2023-07-23": 4113,
-  "2023-07-24": 4127,
-  "2023-07-25": 4149,
-  "2023-07-26": 4159,
-  "2023-07-27": 4178,
-  "2023-07-28": 4195,
-  "2023-07-29": 4209,
-  "2023-07-30": 4233,
-  "2023-07-31": 4245,
-  "2023-08-01": 4269,
-  "2023-08-02": 4285,
-  "2023-08-03": 4302,
-  "2023-08-04": 4324,
-  "2023-08-05": 4334,
-  "2023-08-06": 4382,
-  "2023-08-07": 4382,
-  "2023-08-08": 4396,
-  "2023-08-09": 4419,
-  "2023-08-10": 4446,
-  "2023-08-11": 4464,
-  "2023-08-12": 4483,
-  "2023-08-13": 4509,
-  "2023-08-14": 4523,
-  "2023-08-15": 4558,
-  "2023-08-16": 4558,
-  "2023-08-17": 4572,
-  "2023-08-18": 4593,
-  "2023-08-19": 4605,
-  "2023-08-20": 4620,
-  "2023-08-21": 4640,
-  "2023-08-22": 4656,
-  "2023-08-23": 4676,
-  "2023-08-24": 4680,
-  "2023-08-25": 4693,
-  "2023-08-26": 4713,
-  "2023-08-27": 4732,
-  "2023-08-28": 4750,
-  "2023-08-29": 4764,
-  "2023-08-30": 4779,
-  "2023-08-31": 4795,
-  "2023-09-01": 4812,
-  "2023-09-02": 4812,
-  "2023-09-03": 4825,
-  "2023-09-04": 4844,
-  "2023-09-05": 4862,
-  "2023-09-06": 4878,
-  "2023-09-07": 4889,
-  "2023-09-08": 4902,
-  "2023-09-09": 4918,
-  "2023-09-10": 4934,
-  "2023-09-11": 4950,
-  "2023-09-12": 4960,
-  "2023-09-13": 4975,
-  "2023-09-14": 4981,
-  "2023-09-15": 4994,
-  "2023-09-16": 5005,
-  "2023-09-17": 5018,
-  "2023-09-18": 5039,
-  "2023-09-19": 5049,
-  "2023-09-20": 5064,
-  "2023-09-21": 5076,
-  "2023-09-22": 5091,
-  "2023-09-23": 5103,
-  "2023-09-24": 5117,
-  "2023-09-25": 5132,
-  "2023-09-26": 5141,
-  "2023-09-27": 5150,
-  "2023-09-28": 5160,
-  "2023-09-29": 5177,
-  "2023-09-30": 5183,
-  "2023-10-01": 5198,
-  "2023-10-02": 5210,
-  "2023-10-03": 5218,
-  "2023-10-04": 5233,
-  "2023-10-05": 5250,
-  "2023-10-06": 5257,
-  "2023-10-07": 5269,
-  "2023-10-08": 5277,
-  "2023-10-09": 5284,
-  "2023-10-10": 5294,
-  "2023-10-11": 5308,
-  "2023-10-12": 5308,
-  "2023-10-13": 5317,
-  "2023-10-14": 5332,
-  "2023-10-15": 5345,
-  "2023-10-16": 5362,
-  "2023-10-17": 5366,
-  "2023-10-18": 5380,
-  "2023-10-19": 5393,
-  "2023-10-20": 5411,
-  "2023-10-21": 5425,
-  "2023-10-22": 5440,
-  "2023-10-23": 5447,
-  "2023-10-24": 5458,
-  "2023-10-25": 5472,
-  "2023-10-26": 5489,
-  "2023-10-27": 5504,
-  "2023-10-28": 5516,
-  "2023-10-29": 5523,
-  "2023-10-30": 5540,
-  "2023-10-31": 5540,
-  "2023-11-01": 5546,
-  "2023-11-02": 5564,
-  "2023-11-03": 5572,
-  "2023-11-04": 5582,
-  "2023-11-05": 5597,
-  "2023-11-06": 5615,
-  "2023-11-07": 5625,
-  "2023-11-08": 5634,
-  "2023-11-09": 5644,
-  "2023-11-10": 5659,
-  "2023-11-11": 5671,
-  "2023-11-12": 5681,
-  "2023-11-13": 5694,
-  "2023-11-14": 5700,
-  "2023-11-15": 5700,
-  "2023-11-16": 5720,
-  "2023-11-17": 5737,
-  "2023-11-18": 5737,
-  "2023-11-19": 5754,
-  "2023-11-20": 5762,
-  "2023-11-21": 5776,
-  "2023-11-22": 5781,
-  "2023-11-23": 5792,
-  "2023-11-24": 5810,
-  "2023-11-25": 5819,
-  "2023-11-26": 5837,
-  "2023-11-27": 5846,
-  "2023-11-28": 5854,
-  "2023-11-29": 5865,
-  "2023-11-30": 5865,
-  "2023-12-01": 5871,
-  "2023-12-02": 5877,
-  "2023-12-03": 5883,
-  "2023-12-04": 5891,
-  "2023-12-05": 5904,
-  "2023-12-06": 5921,
-  "2023-12-07": 5930,
-  "2023-12-08": 5939,
-  "2023-12-09": 5942,
-  "2023-12-10": 5954,
-  "2023-12-11": 5961,
-  "2023-12-12": 5962,
-  "2023-12-13": 5974,
-  "2023-12-14": 5985,
-  "2023-12-15": 5993,
-  "2023-12-16": 6000,
-  "2023-12-17": 6006,
-  "2023-12-18": 6015,
-  "2023-12-19": 6024,
-  "2023-12-20": 6030,
-  "2023-12-21": 6036,
-  "2023-12-22": 6041,
-  "2023-12-23": 6051,
-  "2023-12-24": 6057,
-  "2023-12-25": 6063,
-  "2023-12-26": 6070,
-  "2023-12-27": 6080,
-  "2023-12-30": 6114,
-  "2023-12-31": 6122,
-  "2024-01-01": 6135,
-  "2024-01-02": 6136,
-  "2024-01-03": 6157
+  "2024-01-17": 6303,
+  "date_first_scraped": "2022-04-19",
+  "description": "Get in touch with nature with these songs about our environment.",
+  "name": "Mother Nature",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Best of Talking Heads",
+        "url": "https://open.spotify.com/album/1UIoS9WbxcNNmvUGkWlfzU"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332066,
+      "name": "(Nothing But) Flowers - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3NNatBZ65onPjc4eeWhwNm"
+    },
+    {
+      "album": {
+        "name": "Metal & Wood",
+        "url": "https://open.spotify.com/album/6FXR4DEIYONPfvnTAW1XJV"
+      },
+      "artists": [
+        {
+          "name": "Tyrone Wells",
+          "url": "https://open.spotify.com/artist/5zeCSgiRyezbfLiGOpKAsR"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222213,
+      "name": "And the Birds Sing",
+      "url": "https://open.spotify.com/track/27IQtqCIy1KfK9TQGlG4jp"
+    },
+    {
+      "album": {
+        "name": "Pinkfong 50 Best Hits: Baby Shark and More",
+        "url": "https://open.spotify.com/album/2GkjtrCWy2aAY9R0XG7Haq"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77839,
+      "name": "Animal Families",
+      "url": "https://open.spotify.com/track/5JLOoJsu28Z9HT3vh2u4ec"
+    },
+    {
+      "album": {
+        "name": "YES!",
+        "url": "https://open.spotify.com/album/4mV8o8hl6v3u0Gzv0DfrXt"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224853,
+      "name": "Back to the Earth",
+      "url": "https://open.spotify.com/track/4JmIiLYJuKY5bVgtoduDhK"
+    },
+    {
+      "album": {
+        "name": "Evergreen, Everblue",
+        "url": "https://open.spotify.com/album/1CUqfnHkJRc3VNP1jGbgAF"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202386,
+      "name": "Big Beautiful Planet",
+      "url": "https://open.spotify.com/track/4dnkdfuWjmEOasfEarZsHc"
+    },
+    {
+      "album": {
+        "name": "Evergreen Everblue: 20th Anniversary",
+        "url": "https://open.spotify.com/album/2317AwaLLcYHPB2Cd69okk"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202400,
+      "name": "Big Beautiful Planet",
+      "url": "https://open.spotify.com/track/6a1yed5oiA1bsQ2HHT79pB"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-10",
+      "duration_ms": 134800,
+      "name": "Big Yellow Taxi",
+      "url": "https://open.spotify.com/track/6UkMcAA19lTdjs22jtB7o2"
+    },
+    {
+      "album": {
+        "name": "Dora Rocks! Music From The Special & More!",
+        "url": "https://open.spotify.com/album/5LQ9gKK7KfAZlvTZN5eFYE"
+      },
+      "artists": [
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132360,
+      "name": "Carnivores And Herbivores",
+      "url": "https://open.spotify.com/track/5vQc0vGyK5Yr5OA5fksxD8"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Bob Dorough",
+          "url": "https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "Don't Be a Carbon Sasquatch",
+      "url": "https://open.spotify.com/track/5YB8i1a3o6pkO3TBdNjM1D"
+    },
+    {
+      "album": {
+        "name": "Earth Songs",
+        "url": "https://open.spotify.com/album/6NAPijO8VmR4BTn0Aw39gq"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273866,
+      "name": "Earth Day Every Day (Celebrate)",
+      "url": "https://open.spotify.com/track/4Ra038eR3Jknu2ZQaBgXaY"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Robin Goldwasser",
+          "url": "https://open.spotify.com/artist/3hMMtIOxxEPNUUWVRbGEGG"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "Electric Car",
+      "url": "https://open.spotify.com/track/0wGtYIrTodIcfv9P9ALsx3"
+    },
+    {
+      "album": {
+        "name": "Ten Summoner's Tales",
+        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222120,
+      "name": "Fields Of Gold",
+      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+    },
+    {
+      "album": {
+        "name": "Moonshine in the Trunk",
+        "url": "https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196200,
+      "name": "Gone Green",
+      "url": "https://open.spotify.com/track/5aEmRympagn12cBjq2PHhm"
+    },
+    {
+      "album": {
+        "name": "Green Green Leaves",
+        "url": "https://open.spotify.com/album/65sdwlaWZwkl5t5N2Af8QQ"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112750,
+      "name": "Green Green Leaves",
+      "url": "https://open.spotify.com/track/2WeO5sKxyDtjkLIZzp2Mjy"
+    },
+    {
+      "album": {
+        "name": "Green River (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0i9mOB6mPGqwVvtJEXiwPG"
+      },
+      "artists": [
+        {
+          "name": "Creedence Clearwater Revival",
+          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154120,
+      "name": "Green River",
+      "url": "https://open.spotify.com/track/11DjZQEZ69EXLo77HVj6yW"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185733,
+      "name": "Here Comes The Sun - Remastered 2009",
+      "url": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2"
+    },
+    {
+      "album": {
+        "name": "Dr. Seuss' The Lorax - Original Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5"
+      },
+      "artists": [
+        {
+          "name": "The Lorax Singers",
+          "url": "https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163680,
+      "name": "I Love Nature - Original Demo",
+      "url": "https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Animal Songs",
+        "url": "https://open.spotify.com/album/1S7mumn7D4riEX2gVWYgPO"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100806,
+      "name": "Jungle Boogie",
+      "url": "https://open.spotify.com/track/1pwkwI43EaA79HlDWNSEok"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI"
+      },
+      "artists": [
+        {
+          "name": "Nitty Gritty Dirt Band",
+          "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205257,
+      "name": "Mother Earth (Provides For Me)",
+      "url": "https://open.spotify.com/track/667PlSHuLhVyQ9mmWd8KGm"
+    },
+    {
+      "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168026,
+      "name": "Mother Nature's Son - Remastered 2009",
+      "url": "https://open.spotify.com/track/6TjUg1cTUzWHbal6yQAi7c"
+    },
+    {
+      "album": {
+        "name": "The Mollusk",
+        "url": "https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC"
+      },
+      "artists": [
+        {
+          "name": "Ween",
+          "url": "https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126946,
+      "name": "Ocean Man",
+      "url": "https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW"
+    },
+    {
+      "album": {
+        "name": "Abbey Road (Remastered)",
+        "url": "https://open.spotify.com/album/0ETFjACtuP2ADo6LFhL6HN"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170720,
+      "name": "Octopus's Garden - Remastered 2009",
+      "url": "https://open.spotify.com/track/0suLngfo7rJoetk7Ub6N8l"
+    },
+    {
+      "album": {
+        "name": "Oh, What a World 2.0 (Earth Day Edition)",
+        "url": "https://open.spotify.com/album/7HH4W9FudfYQlGllznVsdq"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219320,
+      "name": "Oh, What a World 2.0 - Earth Day Edition",
+      "url": "https://open.spotify.com/track/2vTnFQO21943vBiaLhv4X5"
+    },
+    {
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/3CAX47TnPqTujLIQTw8nwI"
+    },
+    {
+      "album": {
+        "name": "It Ain't Easy",
+        "url": "https://open.spotify.com/album/0tJT9ZnxnlElGa34DRj59l"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Out In The Country",
+      "url": "https://open.spotify.com/track/5TdGMnyETHJU5RdjFFbVRR"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/2ipWREGW50eHJTjXVVWiCj"
+      },
+      "artists": [
+        {
+          "name": "FY\u00dcTCH",
+          "url": "https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170594,
+      "name": "Pick It Up",
+      "url": "https://open.spotify.com/track/6lY2AdInMhdWlio2rS8yph"
+    },
+    {
+      "album": {
+        "name": "Plant a Garden",
+        "url": "https://open.spotify.com/album/44A7cNMZjaX5kPJ27xtM1y"
+      },
+      "artists": [
+        {
+          "name": "Jenn Cleary",
+          "url": "https://open.spotify.com/artist/3Q3maBFeVNeYstxZOjHptS"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199240,
+      "name": "Plant a Garden",
+      "url": "https://open.spotify.com/track/6HfXSByXlK7TGTwOOi4b2l"
+    },
+    {
+      "album": {
+        "name": "R.E.C.Y.C.L.E. (Do It Right)",
+        "url": "https://open.spotify.com/album/6GUN6oAsdU3dDZnCEKziK4"
+      },
+      "artists": [
+        {
+          "name": "The Future Brigade",
+          "url": "https://open.spotify.com/artist/49iKOaoc47iFNhWp6i5l4A"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87700,
+      "name": "R.E.C.Y.C.L.E. (Do It Right)",
+      "url": "https://open.spotify.com/track/0O3qbIK90CIBAV3Vsme58y"
+    },
+    {
+      "album": {
+        "name": "The Muppet Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oDldtN1DXlRFL0zNfc1ux"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195813,
+      "name": "Rainbow Connection - From \"The Muppet Movie\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/4Fx3LVYQXplhz70cfoqbgq"
+    },
+    {
+      "album": {
+        "name": "Rocky Mountain High",
+        "url": "https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283640,
+      "name": "Rocky Mountain High",
+      "url": "https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER"
+    },
+    {
+      "album": {
+        "name": "Waste Free Wanda (Workin' On A Waste Free World)",
+        "url": "https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd"
+      },
+      "artists": [
+        {
+          "name": "Waste Free Wanda",
+          "url": "https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o"
+        },
+        {
+          "name": "Anna van Riel",
+          "url": "https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-27",
+      "duration_ms": 164778,
+      "name": "Rule of thumb",
+      "url": "https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB"
+    },
+    {
+      "album": {
+        "name": "Waste Free Wanda (Workin' On A Waste Free World)",
+        "url": "https://open.spotify.com/album/6zrqHnPVu66QV7tjNrbQsb"
+      },
+      "artists": [
+        {
+          "name": "Waste Free Wanda",
+          "url": "https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o"
+        },
+        {
+          "name": "Anna van Riel",
+          "url": "https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164778,
+      "name": "Rule of thumb",
+      "url": "https://open.spotify.com/track/36LUWAi5LYSwV57XPYPkOh"
+    },
+    {
+      "album": {
+        "name": "30 Pre-School Kid Songs - Fun and Silly",
+        "url": "https://open.spotify.com/album/4w9fHZXXLJKoBO55vhTLg8"
+      },
+      "artists": [
+        {
+          "name": "Tinsel Town Kids",
+          "url": "https://open.spotify.com/artist/7ofMbMyqQ9qMUVoFjY7mYi"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113106,
+      "name": "Sally the Camel",
+      "url": "https://open.spotify.com/track/4PKJ1ZfkvYGQ6zbsEFktRI"
+    },
+    {
+      "album": {
+        "name": "Blink of an Eye",
+        "url": "https://open.spotify.com/album/6nbSPIkCiKpbIdirJF1Ry9"
+      },
+      "artists": [
+        {
+          "name": "Frances England",
+          "url": "https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Salt Water Spin",
+      "url": "https://open.spotify.com/track/1hIbTLOhycYxqwfKfWGImp"
+    },
+    {
+      "album": {
+        "name": "Save the Earth Song",
+        "url": "https://open.spotify.com/album/2FukeFqL73bZyR82uOTCSN"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95131,
+      "name": "Save the Earth Song",
+      "url": "https://open.spotify.com/track/4Ny59bRByRrLNLs4Xn3xzb"
+    },
+    {
+      "album": {
+        "name": "Parsley, Sage, Rosemary And Thyme",
+        "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190346,
+      "name": "Scarborough Fair / Canticle",
+      "url": "https://open.spotify.com/track/3g2fYZW5v2od8KIF7VktT0"
+    },
+    {
+      "album": {
+        "name": "Summer Days",
+        "url": "https://open.spotify.com/album/5pVy5wPtKm0ZrRNEvLbn4u"
+      },
+      "artists": [
+        {
+          "name": "Music with Michal",
+          "url": "https://open.spotify.com/artist/0yWkbyIrjncjW6FdtfgRSc"
+        },
+        {
+          "name": "Loopy Tunes Preschool Music",
+          "url": "https://open.spotify.com/artist/0nyv9lZZ2dBi8WzcRfyH6y"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209789,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/2Zj78rZBB3AiGP3bSQx0ks"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Lynn Ahrens",
+          "url": "https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK"
+        },
+        {
+          "name": "Val Hawk",
+          "url": "https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN"
+        },
+        {
+          "name": "Vicki Doney",
+          "url": "https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd"
+        },
+        {
+          "name": "Nancy Reed",
+          "url": "https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Solar Power to the People",
+      "url": "https://open.spotify.com/track/2HL7G4IgB6gK8tTTfnalvX"
+    },
+    {
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311893,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "album": {
+        "name": "Sing-A-Longs & Lullabies For The Film Curious George",
+        "url": "https://open.spotify.com/album/0kYv61g7n6ZPe2TVaIBeeJ"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174346,
+      "name": "The 3 R's",
+      "url": "https://open.spotify.com/track/6MvbWjCoGy0IBHi5xqWPJB"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Mitchel Musso",
+          "url": "https://open.spotify.com/artist/3IcF2f5vEkY6HPQfLlQDlw"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186226,
+      "name": "The 3 R's",
+      "url": "https://open.spotify.com/track/3AzDXZlYrmFzhurP1I5Xfm"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        },
+        {
+          "name": "Bob Dorough",
+          "url": "https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH"
+        },
+        {
+          "name": "Bob Kaliban",
+          "url": "https://open.spotify.com/artist/1ExU2bSUg1xijuoiQHdKw9"
+        },
+        {
+          "name": "Lynn Ahrens",
+          "url": "https://open.spotify.com/artist/7vd6sS3NY5iwoMuyOK4LPK"
+        },
+        {
+          "name": "Val Hawk",
+          "url": "https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN"
+        },
+        {
+          "name": "Vicki Doney",
+          "url": "https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd"
+        },
+        {
+          "name": "Nancy Reed",
+          "url": "https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "The Little Things We Do",
+      "url": "https://open.spotify.com/track/0yUopclRSSHGbfvA3G57vJ"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Tituss Burgess",
+          "url": "https://open.spotify.com/artist/278a67UsMrPtjVfhFDNcwq"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "The Rainforest",
+      "url": "https://open.spotify.com/track/7mBERVrtotBdXmUrdDTiim"
+    },
+    {
+      "album": {
+        "name": "F Is for Fun!",
+        "url": "https://open.spotify.com/album/4eidzkVj7dlmhgam1t6Nq3"
+      },
+      "artists": [
+        {
+          "name": "Grover",
+          "url": "https://open.spotify.com/artist/0BQ8l7C4ooQ9YqqnXsi4Vn"
+        },
+        {
+          "name": "Oscar the Grouch",
+          "url": "https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9"
+        },
+        {
+          "name": "The Sesame Street Cast",
+          "url": "https://open.spotify.com/artist/5x7XfWbvbfarIFWWzMa4rM"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236040,
+      "name": "There's a Hole in the Bottom of the Sea",
+      "url": "https://open.spotify.com/track/3o0pKNC0dg21BYcPHUUFgb"
+    },
+    {
+      "album": {
+        "name": "Animal Songs 2",
+        "url": "https://open.spotify.com/album/5L9VHpr6V2kXzN3mI4eqZe"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78878,
+      "name": "This Is the Savanna",
+      "url": "https://open.spotify.com/track/6N1sYOiZBbRVpSWOd3bbLp"
+    },
+    {
+      "album": {
+        "name": "This Land is Your Land: The Asch Recordings, Vol. 1",
+        "url": "https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt"
+      },
+      "artists": [
+        {
+          "name": "Woody Guthrie",
+          "url": "https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139693,
+      "name": "This Land is Your Land",
+      "url": "https://open.spotify.com/track/3ZjrfGcb3A2PMGA1vRNgSk"
+    },
+    {
+      "album": {
+        "name": "What A Wonderful World",
+        "url": "https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139226,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/29U7stRjqHU6rMiS8BfaI9"
+    },
+    {
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231706,
+      "name": "Where Do The Children Play?",
+      "url": "https://open.spotify.com/track/7kTmndsuOxGut8Oy85Mn62"
+    },
+    {
+      "album": {
+        "name": "Tea For The Tillerman (Remastered)",
+        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232133,
+      "name": "Where Do The Children Play?",
+      "url": "https://open.spotify.com/track/0fGNZCxMxV2bCRndfbCl60"
+    },
+    {
+      "album": {
+        "name": "This Is Us - Season 2 (Music From The Series)",
+        "url": "https://open.spotify.com/album/5tj7T18XPCZOvArkrxASfI"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233000,
+      "name": "Where Do The Children Play?",
+      "url": "https://open.spotify.com/track/2tDCxk1CwgwdpLRHA0PJfH"
+    },
+    {
+      "album": {
+        "name": "Drastic Fantastic",
+        "url": "https://open.spotify.com/album/4XpXkww6Q6KLFOaFmZ6IxX"
+      },
+      "artists": [
+        {
+          "name": "KT Tunstall",
+          "url": "https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193240,
+      "name": "White Bird",
+      "url": "https://open.spotify.com/track/61qnl6ZTZDFKu2bNQ7Evla"
+    },
+    {
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Jack Sheldon",
+          "url": "https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj"
+        },
+        {
+          "name": "Bob Dorough",
+          "url": "https://open.spotify.com/artist/5vg8Gj3XHSpj4ELEh7nZAH"
+        },
+        {
+          "name": "Val Hawk",
+          "url": "https://open.spotify.com/artist/28N6wTL1paVOULEStVkJUN"
+        },
+        {
+          "name": "Vicki Doney",
+          "url": "https://open.spotify.com/artist/6WkAXr7Cg3BRK9X8c2fjWd"
+        },
+        {
+          "name": "Nancy Reed",
+          "url": "https://open.spotify.com/artist/1N20S4FfWNJFEIhueWeAAs"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Windy and the Windmills",
+      "url": "https://open.spotify.com/track/0n4FBCGuWBliyR6qetZmRn"
+    },
+    {
+      "album": {
+        "name": "Schoolhouse Rock! Earth",
+        "url": "https://open.spotify.com/album/6uiUMyYLl2w5RUQJEHlPno"
+      },
+      "artists": [
+        {
+          "name": "Barry Carl",
+          "url": "https://open.spotify.com/artist/5PHvmnOw3ONQYISKRUqgqZ"
+        },
+        {
+          "name": "Sean Altman",
+          "url": "https://open.spotify.com/artist/09bSPvjJiuPaVf4RMynNSD"
+        },
+        {
+          "name": "Elliott Kerman",
+          "url": "https://open.spotify.com/artist/3kVZF1cWEpN9Cyp8im4Hnc"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183040,
+      "name": "You Oughta Be Savin' Water",
+      "url": "https://open.spotify.com/track/1LvVTROucKghpT9PPVAr8x"
+    },
+    {
+      "album": {
+        "name": "Young People Marching (for Greta Thunberg)",
+        "url": "https://open.spotify.com/album/09yZsFS90mCk0YFGIoRpbu"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213836,
+      "name": "Young People Marching (for Greta Thunberg)",
+      "url": "https://open.spotify.com/track/0HE90iT148w68tOxtY34Tf"
+    },
+    {
+      "album": {
+        "name": "Young People Marching (for Greta Thunberg)",
+        "url": "https://open.spotify.com/album/0bLDE3xvvEhNvEcEkzXVMm"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213840,
+      "name": "Young People Marching (for Greta Thunberg)",
+      "url": "https://open.spotify.com/track/5KRESXF2mEjsHgHREPPhrE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4If4OqUyC8k"
 }

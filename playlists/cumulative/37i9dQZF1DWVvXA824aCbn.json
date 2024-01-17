@@ -322,7 +322,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 308187,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/1lj6MFAyOG9mlwmp0EkBAF"
@@ -718,7 +718,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 305337,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/187AUla3bUDTgVNC66V97T"
@@ -780,7 +780,7 @@
       ],
       "date_added": "2021-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 438600,
       "name": "As Times Goes By",
       "url": "https://open.spotify.com/track/3S7gPyRE9cjd5IXCh1WAWK"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 250704,
       "name": "Ask Me Again",
       "url": "https://open.spotify.com/track/6e47Pg5J7YtKJwGyvoDQjd"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2021-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-12",
+      "date_removed": null,
       "duration_ms": 160774,
       "name": "Asleep/Awake",
       "url": "https://open.spotify.com/track/4BqS4zhSeORs7b3OnyVkxs"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 198273,
       "name": "Beautiful Friendship",
       "url": "https://open.spotify.com/track/5gNyYlp835GvqvIl0Vp4xV"
@@ -1080,6 +1080,24 @@
       "duration_ms": 202855,
       "name": "Behind The Counter",
       "url": "https://open.spotify.com/track/1OxWXhGSkz9VSGVhLXveg8"
+    },
+    {
+      "album": {
+        "name": "Beloved Dance",
+        "url": "https://open.spotify.com/album/5GFwFOCJjn85NGxSxKFUR1"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183250,
+      "name": "Beloved Dance",
+      "url": "https://open.spotify.com/track/2WdNznaTlQStOKlyUEtOwy"
     },
     {
       "album": {
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 174500,
       "name": "Birds Down South",
       "url": "https://open.spotify.com/track/6wBo7Hme7JU3OCULiY72I6"
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 342520,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1"
@@ -1706,7 +1724,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 259959,
       "name": "Come Sunday",
       "url": "https://open.spotify.com/track/6XBbCNww5IHS2fPCdvpSyk"
@@ -1742,7 +1760,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 222508,
       "name": "Comme Il Faut",
       "url": "https://open.spotify.com/track/575lRFJnR1wGYPN4r6qoi5"
@@ -1886,7 +1904,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 207998,
       "name": "detour ahead",
       "url": "https://open.spotify.com/track/5EbkSAI9fgAtPsi2uHSKOF"
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 238965,
       "name": "Easy Dreamin'",
       "url": "https://open.spotify.com/track/5024U9ydj0BegOuxeNqRyU"
@@ -2160,6 +2178,24 @@
       "duration_ms": 260807,
       "name": "estate",
       "url": "https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC"
+    },
+    {
+      "album": {
+        "name": "Eternal Love",
+        "url": "https://open.spotify.com/album/7glJx2sUdT6hK6qU9kVVEw"
+      },
+      "artists": [
+        {
+          "name": "Arthur Taylor Trio",
+          "url": "https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209127,
+      "name": "Eternal Love",
+      "url": "https://open.spotify.com/track/56vEbP6qnGqn21YwH2WCcd"
     },
     {
       "album": {
@@ -2354,7 +2390,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 136213,
       "name": "Footprints of Your Memory",
       "url": "https://open.spotify.com/track/1l05veu7QVCsFgY4JhHAPU"
@@ -2514,7 +2550,7 @@
       ],
       "date_added": "2021-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 742560,
       "name": "Free",
       "url": "https://open.spotify.com/track/6wYs5HI0HGlKnt6bJTu5ZA"
@@ -2622,7 +2658,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 213721,
       "name": "Get Off A Sauce",
       "url": "https://open.spotify.com/track/4t7kDyMpWZavxRCjKjox34"
@@ -3090,7 +3126,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-24",
+      "date_removed": null,
       "duration_ms": 287381,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/55R3ErqINJB9SiOEMqv6mh"
@@ -3144,7 +3180,7 @@
       ],
       "date_added": "2021-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-01",
+      "date_removed": null,
       "duration_ms": 254627,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3WVKyc1in22UyqbohaNuhP"
@@ -3386,7 +3422,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 278666,
       "name": "I Sing This Song for You",
       "url": "https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA"
@@ -3440,7 +3476,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 263534,
       "name": "I Wish I Knew",
       "url": "https://open.spotify.com/track/6jEtmU0Wssyr3KObLUxFYU"
@@ -3570,6 +3606,24 @@
       "duration_ms": 241424,
       "name": "I'm Glad There's You",
       "url": "https://open.spotify.com/track/46xwl2PYDmeEnYGdXnvW2g"
+    },
+    {
+      "album": {
+        "name": "I'm Old Fashioned",
+        "url": "https://open.spotify.com/album/2VAEK52l7TchRl2CKfFK4M"
+      },
+      "artists": [
+        {
+          "name": "Drew Milner",
+          "url": "https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "I'm Old Fashioned",
+      "url": "https://open.spotify.com/track/5qaAnqAeGIGJeAl4mEl2CF"
     },
     {
       "album": {
@@ -3764,7 +3818,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 326625,
       "name": "Ill Wind",
       "url": "https://open.spotify.com/track/1fGWnQDdV8CTQoB2Fdh7en"
@@ -3926,7 +3980,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-22",
+      "date_removed": null,
       "duration_ms": 270614,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a"
@@ -3944,7 +3998,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 242600,
       "name": "In Thoughtful",
       "url": "https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy"
@@ -3980,7 +4034,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-29",
+      "date_removed": null,
       "duration_ms": 273345,
       "name": "Infant Eyes",
       "url": "https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S"
@@ -4178,7 +4232,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 150755,
       "name": "I\u2019ll be seeing you",
       "url": "https://open.spotify.com/track/5G9YKF1s6iBcsphlKZ43qD"
@@ -4268,7 +4322,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-31",
+      "date_removed": null,
       "duration_ms": 138727,
       "name": "je vivrai sans toi",
       "url": "https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf"
@@ -4610,7 +4664,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 358404,
       "name": "Late Lament",
       "url": "https://open.spotify.com/track/6Yq7c4xi4og0panpqWtonR"
@@ -4754,7 +4808,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-15",
+      "date_removed": null,
       "duration_ms": 221131,
       "name": "Living Wage",
       "url": "https://open.spotify.com/track/5sJdvym5Byu7ae2Uf83A0U"
@@ -4934,7 +4988,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 332662,
       "name": "Lunar Eclipse",
       "url": "https://open.spotify.com/track/0Q9gFXZfjSQKXgjnqhgmnm"
@@ -5546,7 +5600,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 232027,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/5rYHuAsiH4jUhhuIsad72T"
@@ -6202,7 +6256,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-22",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/7sVXqVvhTvRi8f9jdvh4Z0"
@@ -6274,7 +6328,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 325131,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/5BicIdY49XrhTcy7BNwTmI"
@@ -6296,6 +6350,24 @@
       "duration_ms": 206854,
       "name": "Pretty Ballad",
       "url": "https://open.spotify.com/track/4T82mssmK8VpyjB6QVMlcI"
+    },
+    {
+      "album": {
+        "name": "Pretty good idea",
+        "url": "https://open.spotify.com/album/1GgbHewm6SeVjv4RaCiA3d"
+      },
+      "artists": [
+        {
+          "name": "South North",
+          "url": "https://open.spotify.com/artist/7z19cN47vHnay3CoShIp1b"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203288,
+      "name": "Pretty good idea",
+      "url": "https://open.spotify.com/track/68xplK8Pr8LiMwsN03h1lE"
     },
     {
       "album": {
@@ -6364,7 +6436,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 294933,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/5110P5yc85WSckGmf47eA9"
@@ -6494,7 +6566,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-10-16",
+      "date_removed": null,
       "duration_ms": 251297,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB"
@@ -6674,7 +6746,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 330163,
       "name": "Sleep Deprivation",
       "url": "https://open.spotify.com/track/1xNbrJNkuEmItjwCt2dvnM"
@@ -6710,7 +6782,7 @@
       ],
       "date_added": "2021-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 266620,
       "name": "Slow Walk",
       "url": "https://open.spotify.com/track/6Dt4OkMHGhugPLCnaTh6Ji"
@@ -6750,6 +6822,24 @@
       "duration_ms": 151097,
       "name": "Snow Keeps Falling",
       "url": "https://open.spotify.com/track/2bNYgVK6yXzAuFD6uMWKsv"
+    },
+    {
+      "album": {
+        "name": "Soft Moments",
+        "url": "https://open.spotify.com/album/2jqAwZGJu7ymVMmo3qYTKD"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202851,
+      "name": "Soft Moments",
+      "url": "https://open.spotify.com/track/0cGUiaeg4Ty9MxXIttAnQB"
     },
     {
       "album": {
@@ -7016,7 +7106,7 @@
       ],
       "date_added": "2020-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 380532,
       "name": "Spring Can Really Hang You Up The Most",
       "url": "https://open.spotify.com/track/5CmFCnkDItoN2FcUHNCCQB"
@@ -7186,7 +7276,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 208227,
       "name": "Stella By Starlight",
       "url": "https://open.spotify.com/track/0RXtnsHGJOHHk1aH3RvTRS"
@@ -7528,7 +7618,7 @@
       ],
       "date_added": "2020-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": null,
       "duration_ms": 211164,
       "name": "Tennesse",
       "url": "https://open.spotify.com/track/2RkJ5dsaRwrnrhYUX2F7Qr"
@@ -7834,7 +7924,7 @@
       ],
       "date_added": "2021-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 157733,
       "name": "The Mood Is Mellow",
       "url": "https://open.spotify.com/track/59JE8arSWmuUexU2x22oiH"
@@ -7924,7 +8014,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 156770,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/0jXJ9u642pUSnPNchzYadK"
@@ -8068,7 +8158,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-24",
+      "date_removed": null,
       "duration_ms": 172034,
       "name": "The Worn Evening",
       "url": "https://open.spotify.com/track/6dsAFpaM3SyAZB0y7L8pKa"
@@ -8108,6 +8198,24 @@
       "duration_ms": 316000,
       "name": "Theme For Ernie",
       "url": "https://open.spotify.com/track/0nKb0vq42f1y3CuikU00vF"
+    },
+    {
+      "album": {
+        "name": "Manhattan",
+        "url": "https://open.spotify.com/album/7yb47QV1FEV34EfgMnN6xo"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 316000,
+      "name": "Theme For Ernie",
+      "url": "https://open.spotify.com/track/2vzWSK7e2pDTDSiRgjqvy7"
     },
     {
       "album": {
@@ -8698,7 +8806,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 128018,
       "name": "We're Almost At The End",
       "url": "https://open.spotify.com/track/6WMZ32iT8I5T2UUSQTdWf9"
@@ -8756,6 +8864,24 @@
       "duration_ms": 153060,
       "name": "What A Little Moonlight Can Do",
       "url": "https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd"
+    },
+    {
+      "album": {
+        "name": "What about us?",
+        "url": "https://open.spotify.com/album/1LsjFX2NwGjN1t0lqLZCtJ"
+      },
+      "artists": [
+        {
+          "name": "The Uptown Players",
+          "url": "https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169566,
+      "name": "What about us?",
+      "url": "https://open.spotify.com/track/2sPyhvBDiIdvbcKShnNh1D"
     },
     {
       "album": {
@@ -8860,7 +8986,7 @@
       ],
       "date_added": "2021-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 447813,
       "name": "When I Fall in Love",
       "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
@@ -8914,7 +9040,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2023-11-26",
+      "date_removed": null,
       "duration_ms": 256062,
       "name": "When We Lay Down",
       "url": "https://open.spotify.com/track/2fra5fucGEJTFXnE7NwnKZ"

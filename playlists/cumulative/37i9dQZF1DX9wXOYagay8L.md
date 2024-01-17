@@ -4,7 +4,7 @@
 
 > Proudly South African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF?si=6LcMRZJuRgKhHuzR\-k2a0A">Jabulile Majola</a>
 
-515 songs - 1 day 13 hr 4 min
+516 songs - 1 day 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Xolele](https://open.spotify.com/track/7hbpdfF24QSKHlRDaLE1HS) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96), [Zama Khumalo](https://open.spotify.com/artist/3qdj0tbSHsPoZVvftfSgFG) | [Xolele](https://open.spotify.com/album/77ZMPaD41XDBxolBY0aiVB) | 5:08 | 2022-05-26 | 2022-09-02 |
 | [Ya Costa](https://open.spotify.com/track/4JYITrghft32zlpjuYhYDA) | [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Lizwi Wokuqala](https://open.spotify.com/artist/6IYozrt74PPhQ409pE583w) | [Ya Costa](https://open.spotify.com/album/3P11k6EZ5pZA8zpRABT5h5) | 4:00 | 2023-04-14 | 2023-06-30 |
 | [Yelele](https://open.spotify.com/track/2FRbe1TC626TxkVeufmNsa) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi) | [Yelele](https://open.spotify.com/album/2R6tuyZ91QkYAJJuvfyEWA) | 3:42 | 2021-06-24 | 2022-07-01 |
+| [Yitshoni](https://open.spotify.com/track/7C1c8Epr55mrNcj4y89y8i) | [Zimbini](https://open.spotify.com/artist/3M4itkRJx8TOJCvyw63tiD) | [Ndiyehlela](https://open.spotify.com/album/74auQhsM98zKG619UaEFav) | 1:32 | 2024-01-11 |  |
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-11-23 |  |
 | [You're Special \- Ralf Gum Radio Edit](https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ) | [Ralf Gum](https://open.spotify.com/artist/2XE7Kskh4TLEcxIyNSoCwN), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [You're Special](https://open.spotify.com/album/1GUG1uN3ohEAJqL1H9VYE5) | 3:25 | 2023-06-22 | 2023-07-21 |
 | [Your Figure](https://open.spotify.com/track/1Cjs5h9o9cE81TSzF8E2EX) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu), [Leo B](https://open.spotify.com/artist/2q8GwVCQ8APjhA0tbwFPay), [DJ KAYSMART](https://open.spotify.com/artist/44RAWv4e52G2F8RoEQYswt) | [Your Figure](https://open.spotify.com/album/0p8Zz7jxyH5tx8GK5wiagJ) | 3:12 | 2023-07-07 | 2023-08-25 |

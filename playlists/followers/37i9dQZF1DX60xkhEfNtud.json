@@ -1,500 +1,1035 @@
 {
-  "2022-08-18": 100988,
-  "2022-08-19": 101160,
-  "2022-08-20": 101293,
-  "2022-08-21": 101448,
-  "2022-08-22": 101645,
-  "2022-08-23": 101780,
-  "2022-08-24": 101937,
-  "2022-08-25": 102090,
-  "2022-08-26": 102247,
-  "2022-08-27": 102374,
-  "2022-08-28": 102601,
-  "2022-08-29": 102807,
-  "2022-08-30": 102881,
-  "2022-08-31": 102862,
-  "2022-09-01": 102806,
-  "2022-09-02": 102774,
-  "2022-09-03": 102563,
-  "2022-09-04": 102532,
-  "2022-09-05": 102655,
-  "2022-09-06": 102803,
-  "2022-09-07": 102959,
-  "2022-09-09": 103197,
-  "2022-09-10": 103323,
-  "2022-09-11": 103471,
-  "2022-09-12": 103637,
-  "2022-09-13": 103801,
-  "2022-09-15": 104045,
-  "2022-09-16": 104180,
-  "2022-09-17": 104255,
-  "2022-09-18": 104376,
-  "2022-09-19": 104497,
-  "2022-09-20": 104607,
-  "2022-09-21": 104707,
-  "2022-09-22": 104827,
-  "2022-09-23": 104952,
-  "2022-09-24": 105065,
-  "2022-09-25": 105181,
-  "2022-09-26": 105326,
-  "2022-09-27": 105426,
-  "2022-09-28": 105540,
-  "2022-09-29": 105651,
-  "2022-09-30": 105765,
-  "2022-10-01": 105877,
-  "2022-10-02": 105978,
-  "2022-10-03": 106107,
-  "2022-10-04": 106241,
-  "2022-10-05": 106368,
-  "2022-10-06": 106478,
-  "2022-10-07": 106605,
-  "2022-10-08": 106755,
-  "2022-10-09": 106978,
-  "2022-10-10": 107009,
-  "2022-10-11": 107129,
-  "2022-10-12": 107257,
-  "2022-10-13": 107383,
-  "2022-10-14": 107533,
-  "2022-10-15": 107662,
-  "2022-10-16": 107784,
-  "2022-10-17": 107909,
-  "2022-10-18": 108036,
-  "2022-10-19": 108150,
-  "2022-10-20": 108253,
-  "2022-10-21": 108352,
-  "2022-10-22": 108442,
-  "2022-10-23": 108557,
-  "2022-10-24": 108665,
-  "2022-10-25": 108765,
-  "2022-10-26": 108888,
-  "2022-10-27": 109015,
-  "2022-10-28": 109154,
-  "2022-10-29": 109287,
-  "2022-10-30": 109425,
-  "2022-10-31": 109576,
-  "2022-11-01": 109716,
-  "2022-11-02": 109830,
-  "2022-11-03": 109975,
-  "2022-11-04": 110113,
-  "2022-11-05": 110249,
-  "2022-11-06": 110383,
-  "2022-11-07": 110552,
-  "2022-11-08": 110704,
-  "2022-11-09": 110844,
-  "2022-11-10": 110975,
-  "2022-11-11": 111116,
-  "2022-11-12": 111308,
-  "2022-11-13": 111450,
-  "2022-11-14": 111641,
-  "2022-11-15": 111794,
-  "2022-11-16": 111933,
-  "2022-11-17": 112068,
-  "2022-11-18": 112093,
-  "2022-11-19": 112042,
-  "2022-11-20": 112217,
-  "2022-11-21": 112169,
-  "2022-11-22": 112469,
-  "2022-11-23": 112403,
-  "2022-11-24": 112900,
-  "2022-11-25": 113128,
-  "2022-11-26": 113253,
-  "2022-11-27": 113385,
-  "2022-11-28": 113507,
-  "2022-11-29": 113650,
-  "2022-11-30": 113789,
-  "2022-12-01": 113888,
-  "2022-12-02": 113950,
-  "2022-12-03": 114118,
-  "2022-12-04": 114202,
-  "2022-12-05": 114326,
-  "2022-12-06": 114423,
-  "2022-12-07": 114568,
-  "2022-12-08": 114673,
-  "2022-12-09": 114807,
-  "2022-12-10": 114947,
-  "2022-12-11": 115054,
-  "2022-12-12": 115177,
-  "2022-12-13": 115298,
-  "2022-12-14": 115397,
-  "2022-12-15": 115493,
-  "2022-12-16": 115597,
-  "2022-12-17": 115727,
-  "2022-12-18": 115862,
-  "2022-12-19": 115990,
-  "2022-12-20": 116239,
-  "2022-12-21": 116239,
-  "2022-12-22": 116362,
-  "2022-12-24": 116616,
-  "2022-12-25": 116728,
-  "2022-12-26": 116841,
-  "2022-12-27": 116971,
-  "2022-12-28": 117113,
-  "2022-12-29": 117242,
-  "2022-12-30": 117368,
-  "2022-12-31": 117510,
-  "2023-01-01": 117637,
-  "2023-01-02": 117791,
-  "2023-01-03": 117954,
-  "2023-01-04": 118104,
-  "2023-01-05": 118259,
-  "2023-01-06": 118457,
-  "2023-01-07": 118674,
-  "2023-01-08": 118719,
-  "2023-01-09": 118907,
-  "2023-01-10": 119089,
-  "2023-01-11": 119259,
-  "2023-01-12": 119445,
-  "2023-01-13": 119644,
-  "2023-01-14": 119893,
-  "2023-01-15": 119922,
-  "2023-01-16": 120151,
-  "2023-01-17": 120370,
-  "2023-01-18": 120544,
-  "2023-01-19": 120722,
-  "2023-01-20": 120916,
-  "2023-01-21": 121090,
-  "2023-01-22": 121261,
-  "2023-01-23": 121455,
-  "2023-01-24": 121615,
-  "2023-01-25": 121795,
-  "2023-01-26": 121976,
-  "2023-01-27": 122161,
-  "2023-01-28": 122304,
-  "2023-01-29": 122479,
-  "2023-01-30": 122678,
-  "2023-01-31": 122678,
-  "2023-02-01": 123046,
-  "2023-02-02": 123218,
-  "2023-02-03": 123386,
-  "2023-02-04": 123560,
-  "2023-02-05": 123742,
-  "2023-02-06": 123949,
-  "2023-02-07": 124128,
-  "2023-02-08": 124469,
-  "2023-02-09": 124469,
-  "2023-02-10": 124640,
-  "2023-02-11": 124761,
-  "2023-02-12": 125082,
-  "2023-02-13": 125201,
-  "2023-02-14": 125201,
-  "2023-02-15": 125360,
-  "2023-02-16": 125536,
-  "2023-02-17": 125694,
-  "2023-02-18": 125985,
-  "2023-02-19": 126015,
-  "2023-02-20": 126173,
-  "2023-02-21": 126342,
-  "2023-02-22": 126534,
-  "2023-02-23": 126727,
-  "2023-02-24": 126905,
-  "2023-02-25": 127137,
-  "2023-02-26": 127255,
-  "2023-02-27": 127643,
-  "2023-02-28": 127643,
-  "2023-03-01": 127805,
-  "2023-03-02": 127980,
-  "2023-03-03": 128160,
-  "2023-03-04": 128295,
-  "2023-03-05": 128665,
-  "2023-03-06": 128665,
-  "2023-03-07": 128899,
-  "2023-03-08": 129058,
-  "2023-03-09": 129209,
-  "2023-03-10": 129395,
-  "2023-03-11": 129593,
-  "2023-03-12": 129759,
-  "2023-03-13": 129942,
-  "2023-03-14": 130116,
-  "2023-03-15": 130290,
-  "2023-03-16": 130445,
-  "2023-03-17": 130445,
-  "2023-03-18": 130819,
-  "2023-03-19": 130966,
-  "2023-03-20": 131130,
-  "2023-03-21": 131304,
-  "2023-03-22": 131469,
-  "2023-03-23": 131638,
-  "2023-03-24": 131638,
-  "2023-03-25": 131995,
-  "2023-03-26": 132157,
-  "2023-03-27": 132298,
-  "2023-03-28": 132453,
-  "2023-03-29": 132633,
-  "2023-03-30": 132911,
-  "2023-03-31": 132911,
-  "2023-04-01": 133046,
-  "2023-04-02": 133232,
-  "2023-04-03": 133398,
-  "2023-04-04": 133571,
-  "2023-04-05": 133758,
-  "2023-04-06": 133926,
-  "2023-04-07": 134084,
-  "2023-04-09": 134401,
-  "2023-04-10": 134566,
-  "2023-04-11": 134856,
-  "2023-04-12": 134856,
-  "2023-04-13": 135031,
-  "2023-04-14": 135205,
-  "2023-04-15": 135374,
-  "2023-04-16": 135536,
-  "2023-04-17": 135723,
-  "2023-04-18": 135888,
-  "2023-04-19": 136078,
-  "2023-04-20": 136238,
-  "2023-04-21": 136385,
-  "2023-04-22": 136544,
-  "2023-04-23": 136697,
-  "2023-04-24": 136876,
-  "2023-04-25": 137046,
-  "2023-04-26": 137195,
-  "2023-04-27": 137348,
-  "2023-04-28": 137491,
-  "2023-04-29": 137656,
-  "2023-04-30": 137823,
-  "2023-05-01": 137980,
-  "2023-05-02": 138133,
-  "2023-05-03": 138270,
-  "2023-05-04": 138413,
-  "2023-05-05": 138566,
-  "2023-05-06": 138697,
-  "2023-05-07": 138860,
-  "2023-05-08": 139045,
-  "2023-05-09": 139203,
-  "2023-05-10": 139397,
-  "2023-05-11": 139556,
-  "2023-05-12": 139690,
-  "2023-05-13": 139856,
-  "2023-05-14": 140001,
-  "2023-05-15": 140177,
-  "2023-05-16": 140310,
-  "2023-05-17": 140494,
-  "2023-05-18": 140653,
-  "2023-05-19": 140818,
-  "2023-05-20": 141136,
-  "2023-05-21": 141136,
-  "2023-05-22": 141136,
-  "2023-05-23": 141435,
-  "2023-05-24": 141680,
-  "2023-05-25": 141726,
-  "2023-05-26": 141858,
-  "2023-05-27": 142011,
-  "2023-05-28": 142131,
-  "2023-05-29": 142131,
-  "2023-05-30": 142416,
-  "2023-05-31": 142579,
-  "2023-06-01": 142741,
-  "2023-06-02": 142853,
-  "2023-06-03": 142951,
-  "2023-06-04": 143096,
-  "2023-06-05": 143286,
-  "2023-06-06": 143460,
-  "2023-06-07": 143625,
-  "2023-06-08": 143817,
-  "2023-06-09": 143974,
-  "2023-06-10": 144143,
-  "2023-06-11": 144281,
-  "2023-06-12": 144446,
-  "2023-06-13": 144596,
-  "2023-06-14": 144715,
-  "2023-06-15": 144863,
-  "2023-06-16": 145025,
-  "2023-06-17": 145228,
-  "2023-06-18": 145389,
-  "2023-06-19": 145572,
-  "2023-06-20": 145734,
-  "2023-06-21": 145873,
-  "2023-06-22": 146019,
-  "2023-06-23": 146146,
-  "2023-06-24": 146263,
-  "2023-06-25": 146437,
-  "2023-06-26": 146589,
-  "2023-06-27": 146771,
-  "2023-06-28": 146899,
-  "2023-06-29": 147051,
-  "2023-06-30": 147205,
-  "2023-07-01": 147544,
-  "2023-07-02": 147544,
-  "2023-07-03": 147697,
-  "2023-07-04": 147867,
-  "2023-07-05": 148038,
-  "2023-07-06": 148386,
-  "2023-07-07": 148386,
-  "2023-07-08": 148545,
-  "2023-07-09": 148685,
-  "2023-07-10": 148873,
-  "2023-07-11": 148995,
-  "2023-07-12": 149146,
-  "2023-07-13": 149307,
-  "2023-07-14": 149475,
-  "2023-07-15": 149574,
-  "2023-07-16": 149793,
-  "2023-07-17": 149949,
-  "2023-07-18": 150108,
-  "2023-07-19": 150285,
-  "2023-07-20": 150434,
-  "2023-07-21": 150594,
-  "2023-07-22": 150748,
-  "2023-07-23": 150927,
-  "2023-07-24": 151080,
-  "2023-07-25": 151288,
-  "2023-07-26": 151395,
-  "2023-07-27": 151547,
-  "2023-07-28": 151724,
-  "2023-07-29": 151859,
-  "2023-07-30": 152011,
-  "2023-07-31": 152207,
-  "2023-08-01": 152378,
-  "2023-08-02": 152510,
-  "2023-08-03": 152655,
-  "2023-08-04": 152806,
-  "2023-08-05": 152960,
-  "2023-08-06": 153301,
-  "2023-08-07": 153301,
-  "2023-08-08": 153434,
-  "2023-08-09": 153610,
-  "2023-08-10": 153772,
-  "2023-08-11": 153931,
-  "2023-08-12": 154073,
-  "2023-08-13": 154225,
-  "2023-08-14": 154377,
-  "2023-08-15": 154707,
-  "2023-08-16": 154707,
-  "2023-08-17": 154847,
-  "2023-08-18": 155007,
-  "2023-08-19": 155161,
-  "2023-08-20": 155297,
-  "2023-08-21": 155510,
-  "2023-08-22": 155658,
-  "2023-08-23": 155811,
-  "2023-08-24": 155955,
-  "2023-08-25": 156149,
-  "2023-08-26": 156307,
-  "2023-08-27": 156480,
-  "2023-08-28": 156680,
-  "2023-08-29": 156887,
-  "2023-08-30": 157065,
-  "2023-08-31": 157240,
-  "2023-09-01": 157560,
-  "2023-09-02": 157560,
-  "2023-09-03": 157680,
-  "2023-09-04": 157825,
-  "2023-09-05": 157968,
-  "2023-09-06": 158100,
-  "2023-09-07": 158241,
-  "2023-09-08": 158379,
-  "2023-09-09": 158511,
-  "2023-09-10": 158653,
-  "2023-09-11": 158821,
-  "2023-09-12": 158971,
-  "2023-09-13": 159114,
-  "2023-09-14": 159267,
-  "2023-09-15": 159441,
-  "2023-09-16": 159598,
-  "2023-09-17": 159745,
-  "2023-09-18": 159945,
-  "2023-09-19": 160089,
-  "2023-09-20": 160254,
-  "2023-09-21": 160413,
-  "2023-09-22": 160539,
-  "2023-09-23": 160688,
-  "2023-09-24": 160804,
-  "2023-09-25": 160931,
-  "2023-09-26": 161117,
-  "2023-09-27": 161199,
-  "2023-09-28": 161310,
-  "2023-09-29": 161441,
-  "2023-09-30": 161559,
-  "2023-10-01": 161666,
-  "2023-10-02": 161800,
-  "2023-10-03": 161906,
-  "2023-10-04": 162035,
-  "2023-10-05": 162170,
-  "2023-10-06": 162271,
-  "2023-10-07": 162355,
-  "2023-10-08": 162474,
-  "2023-10-09": 162593,
-  "2023-10-10": 162678,
-  "2023-10-11": 162827,
-  "2023-10-12": 162827,
-  "2023-10-13": 162893,
-  "2023-10-14": 162991,
-  "2023-10-15": 163097,
-  "2023-10-16": 163230,
-  "2023-10-17": 163356,
-  "2023-10-18": 163460,
-  "2023-10-19": 163557,
-  "2023-10-20": 163657,
-  "2023-10-21": 163779,
-  "2023-10-22": 163860,
-  "2023-10-23": 163985,
-  "2023-10-24": 164125,
-  "2023-10-25": 164268,
-  "2023-10-26": 164390,
-  "2023-10-27": 164525,
-  "2023-10-28": 164637,
-  "2023-10-29": 164756,
-  "2023-10-30": 164979,
-  "2023-10-31": 164979,
-  "2023-11-01": 165092,
-  "2023-11-02": 165193,
-  "2023-11-03": 165315,
-  "2023-11-04": 165392,
-  "2023-11-05": 165490,
-  "2023-11-06": 165595,
-  "2023-11-07": 165730,
-  "2023-11-08": 165857,
-  "2023-11-09": 165958,
-  "2023-11-10": 166060,
-  "2023-11-11": 166153,
-  "2023-11-12": 166257,
-  "2023-11-13": 166356,
-  "2023-11-14": 166454,
-  "2023-11-15": 166454,
-  "2023-11-16": 166652,
-  "2023-11-17": 166839,
-  "2023-11-18": 166839,
-  "2023-11-19": 166913,
-  "2023-11-20": 167003,
-  "2023-11-21": 167110,
-  "2023-11-22": 167200,
-  "2023-11-23": 167308,
-  "2023-11-24": 167439,
-  "2023-11-25": 167520,
-  "2023-11-26": 167632,
-  "2023-11-27": 167749,
-  "2023-11-28": 167848,
-  "2023-11-29": 168038,
-  "2023-11-30": 168038,
-  "2023-12-01": 168120,
-  "2023-12-02": 168199,
-  "2023-12-03": 168302,
-  "2023-12-04": 168404,
-  "2023-12-05": 168512,
-  "2023-12-06": 168614,
-  "2023-12-07": 168721,
-  "2023-12-08": 168823,
-  "2023-12-09": 168891,
-  "2023-12-10": 169019,
-  "2023-12-11": 169118,
-  "2023-12-12": 169227,
-  "2023-12-13": 169321,
-  "2023-12-14": 169464,
-  "2023-12-15": 169515,
-  "2023-12-16": 169615,
-  "2023-12-17": 169708,
-  "2023-12-18": 169825,
-  "2023-12-19": 169936,
-  "2023-12-20": 170042,
-  "2023-12-21": 170112,
-  "2023-12-22": 170184,
-  "2023-12-23": 170289,
-  "2023-12-24": 170390,
-  "2023-12-25": 170501,
-  "2023-12-26": 170624,
-  "2023-12-27": 170739,
-  "2023-12-30": 171064,
-  "2023-12-31": 171154,
-  "2024-01-01": 171233,
-  "2024-01-02": 171329,
-  "2024-01-03": 171429
+  "2024-01-17": 173044,
+  "date_first_scraped": "2022-08-18",
+  "description": "Whale song from the deep underwater world of the oceans",
+  "name": "Whale Sounds",
+  "tracks": [
+    {
+      "album": {
+        "name": "Wandering Whales",
+        "url": "https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Abyss Whales",
+      "url": "https://open.spotify.com/track/6EH7wcBsac2lV6eXa0m2Vs"
+    },
+    {
+      "album": {
+        "name": "Aquatic Whales",
+        "url": "https://open.spotify.com/album/4AkeTK8g8AGqrzOUKDox3V"
+      },
+      "artists": [
+        {
+          "name": "OrcWard",
+          "url": "https://open.spotify.com/artist/0xwz3aW7q8aGq2JJ6hLpBg"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169550,
+      "name": "Aquatic Whales",
+      "url": "https://open.spotify.com/track/673YfOTf2UL8MQzamexc0z"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Sea",
+        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Balaenoptera Musculus",
+      "url": "https://open.spotify.com/track/2AxtKjQpaxjSpNDP8cvTAZ"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
+      },
+      "artists": [
+        {
+          "name": "Weather Garden",
+          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121679,
+      "name": "Beautiful Whales",
+      "url": "https://open.spotify.com/track/4LNs3G6PdQNFoFbYxo5VAb"
+    },
+    {
+      "album": {
+        "name": "Binaural Whales Sound",
+        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
+      },
+      "artists": [
+        {
+          "name": "Binaural reality",
+          "url": "https://open.spotify.com/artist/3KpX5Ou0IqshHEM41e3AOn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 109994,
+      "name": "Binaural Whales Sound",
+      "url": "https://open.spotify.com/track/0V5EyXsFNT1FxJoHch6m8p"
+    },
+    {
+      "album": {
+        "name": "Binaural Whales Sound",
+        "url": "https://open.spotify.com/album/3xenWQBXBV8ONUKEW0ww0b"
+      },
+      "artists": [
+        {
+          "name": "Binaural reality",
+          "url": "https://open.spotify.com/artist/3KpX5Ou0IqshHEM41e3AOn"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205784,
+      "name": "Binaural Whales Sound 2",
+      "url": "https://open.spotify.com/track/0QQL2dGifMFHOpHRTjPuHB"
+    },
+    {
+      "album": {
+        "name": "Wandering Whales",
+        "url": "https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Black Water Whales",
+      "url": "https://open.spotify.com/track/4lCwll0aDIchTg9qd7njC4"
+    },
+    {
+      "album": {
+        "name": "Whales in the Deep Sea 2",
+        "url": "https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs"
+      },
+      "artists": [
+        {
+          "name": "Nature Expedition",
+          "url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159466,
+      "name": "Communicating Wales",
+      "url": "https://open.spotify.com/track/0t6nVgwOmJikwqxR3mHtYO"
+    },
+    {
+      "album": {
+        "name": "Ocean Whales",
+        "url": "https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196973,
+      "name": "Deep See Whales",
+      "url": "https://open.spotify.com/track/1d8PvcNnRHTwJnN0gvjYlY"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds of the Sea",
+        "url": "https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "Deep Underwater Whales",
+      "url": "https://open.spotify.com/track/6Yz8N3m0XdpAjPySeEU2Nm"
+    },
+    {
+      "album": {
+        "name": "Ambient Whale Sounds",
+        "url": "https://open.spotify.com/album/2pWbLGvbfu7tSMdSb4ACq7"
+      },
+      "artists": [
+        {
+          "name": "Humpback Sounds",
+          "url": "https://open.spotify.com/artist/5DCq6izASQ7Gzatgynkz5k"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133843,
+      "name": "Distant Underwater Whales Sounds",
+      "url": "https://open.spotify.com/track/6JB3nlgWptOPom3PhaTxvj"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds",
+        "url": "https://open.spotify.com/album/7qjf8RYINNHq3klX7QABXe"
+      },
+      "artists": [
+        {
+          "name": "Whale Sounds",
+          "url": "https://open.spotify.com/artist/7LVCDe9G98TWctZ7EzukDm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 67448,
+      "name": "Gentle Whale Sounds",
+      "url": "https://open.spotify.com/track/1H5D3NoPQbXHLrG4HYcGDS"
+    },
+    {
+      "album": {
+        "name": "Harmonious Woodscape",
+        "url": "https://open.spotify.com/album/43Jj479qaAzmeYgwiFr7l8"
+      },
+      "artists": [
+        {
+          "name": "Nature Recordings",
+          "url": "https://open.spotify.com/artist/4xE3NbWDeC7BEIlzQIjG5H"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160981,
+      "name": "Harmonious Woodscape",
+      "url": "https://open.spotify.com/track/0qTQh91AxYQEf0fOgEkqD0"
+    },
+    {
+      "album": {
+        "name": "Whales Sounds Collection",
+        "url": "https://open.spotify.com/album/57W20d0oOma8Hq8FKRjT34"
+      },
+      "artists": [
+        {
+          "name": "Whales Sample",
+          "url": "https://open.spotify.com/artist/0sWkEbH2U6YtdZurTXUhe6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140675,
+      "name": "Healing Whale",
+      "url": "https://open.spotify.com/track/2CfSXVfsGEZj6ptlCBD34R"
+    },
+    {
+      "album": {
+        "name": "Invisible Deep Whales",
+        "url": "https://open.spotify.com/album/0HVRCh8U2Z9BlSwZGDsHRu"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Invisible Deep Whales I",
+      "url": "https://open.spotify.com/track/14suyegd7sy7kIuha52qUl"
+    },
+    {
+      "album": {
+        "name": "Invisible Deep Whales",
+        "url": "https://open.spotify.com/album/0HVRCh8U2Z9BlSwZGDsHRu"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Invisible Deep Whales II",
+      "url": "https://open.spotify.com/track/62xI0FUSIEiSRHkTOYaOCq"
+    },
+    {
+      "album": {
+        "name": "Dream Whales",
+        "url": "https://open.spotify.com/album/2zmm83nqWpkkrFa7C8GkIh"
+      },
+      "artists": [
+        {
+          "name": "Oceanografers",
+          "url": "https://open.spotify.com/artist/4L9auJxQTdLdRXVkeg0CTZ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 107847,
+      "name": "Lamenting Whales 1",
+      "url": "https://open.spotify.com/track/634V8nCT9EsD6qWHBbJi58"
+    },
+    {
+      "album": {
+        "name": "Dream Whales",
+        "url": "https://open.spotify.com/album/2zmm83nqWpkkrFa7C8GkIh"
+      },
+      "artists": [
+        {
+          "name": "Oceanografers",
+          "url": "https://open.spotify.com/artist/4L9auJxQTdLdRXVkeg0CTZ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121054,
+      "name": "Lamenting Whales 2",
+      "url": "https://open.spotify.com/track/0wEAlJJugzCzf8BqDusm9H"
+    },
+    {
+      "album": {
+        "name": "Relaxing Whale Sounds",
+        "url": "https://open.spotify.com/album/1ad1XYtNX84FyYl88quBlP"
+      },
+      "artists": [
+        {
+          "name": "Whale Sounds",
+          "url": "https://open.spotify.com/artist/7LVCDe9G98TWctZ7EzukDm"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 61335,
+      "name": "Lucid Whale Sounds",
+      "url": "https://open.spotify.com/track/50v1ox7jonCUYfZOVgGuFg"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Sea",
+        "url": "https://open.spotify.com/album/5dGS7JyLoGnTlLs5f19oaM"
+      },
+      "artists": [
+        {
+          "name": "ORCA",
+          "url": "https://open.spotify.com/artist/59GmYZwizY9Xmk1CUsHpSq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Megaptera Novaeangliae",
+      "url": "https://open.spotify.com/track/1PmDangSs9cmS08IAWGNEg"
+    },
+    {
+      "album": {
+        "name": "Whales Sounds Collection",
+        "url": "https://open.spotify.com/album/57W20d0oOma8Hq8FKRjT34"
+      },
+      "artists": [
+        {
+          "name": "Whales Sample",
+          "url": "https://open.spotify.com/artist/0sWkEbH2U6YtdZurTXUhe6"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140675,
+      "name": "Mindfulness Whale Singing",
+      "url": "https://open.spotify.com/track/0EvS5F9cdN51uyxc7zD0jc"
+    },
+    {
+      "album": {
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203862,
+      "name": "North Atlantic Whales",
+      "url": "https://open.spotify.com/track/43RXQFu2Iu62DWhpBXvSOY"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds",
+        "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
+      },
+      "artists": [
+        {
+          "name": "Weather Batches",
+          "url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172889,
+      "name": "Ocean Atmosphere",
+      "url": "https://open.spotify.com/track/2gNaYeNB0U0f1YTRESqp6L"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
+      },
+      "artists": [
+        {
+          "name": "Weather Garden",
+          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 114874,
+      "name": "Ocean Journey",
+      "url": "https://open.spotify.com/track/3Qp0mndfcpcGvai0Pyh4pZ"
+    },
+    {
+      "album": {
+        "name": "Ocean Whale Song",
+        "url": "https://open.spotify.com/album/3zYQ9n3zNQ0e490ALvxqB2"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174174,
+      "name": "Ocean Whale Song",
+      "url": "https://open.spotify.com/track/4aDaGIKwl9YdB5IyqtDVE9"
+    },
+    {
+      "album": {
+        "name": "Ocean Whales",
+        "url": "https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196822,
+      "name": "Ocean Whales",
+      "url": "https://open.spotify.com/track/0MfWxklDqgV1g06b5GTNH6"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds for Sleep",
+        "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
+      },
+      "artists": [
+        {
+          "name": "Winds of Spirits",
+          "url": "https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142769,
+      "name": "Peaceful Underwater Sounds",
+      "url": "https://open.spotify.com/track/3kKxYG0iEOptbjH38AKXws"
+    },
+    {
+      "album": {
+        "name": "Whale Song",
+        "url": "https://open.spotify.com/album/1aG1eNe04lzjSuQ9lJlCLa"
+      },
+      "artists": [
+        {
+          "name": "Whale Song",
+          "url": "https://open.spotify.com/artist/5CsU2kZxj5Xye9kIDstUyt"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 90044,
+      "name": "Relaxing Whale Songs",
+      "url": "https://open.spotify.com/track/1wUocFec16NhFaDvyKnIKR"
+    },
+    {
+      "album": {
+        "name": "Relaxing Whale Sounds",
+        "url": "https://open.spotify.com/album/0SK7vxVKcatDdBGC2tIxJ5"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199999,
+      "name": "Relaxing Whale Sounds",
+      "url": "https://open.spotify.com/track/79gJ9ZOedZxTma3OxwUB0Q"
+    },
+    {
+      "album": {
+        "name": "Restful Reverberations (Whale Sounds)",
+        "url": "https://open.spotify.com/album/3eL8asslMtf0HAMTgL2xQb"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Restful Reverberations (Whale Sounds)",
+      "url": "https://open.spotify.com/track/0bagLXr8538aOXIAjvwY7J"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds of the Sea",
+        "url": "https://open.spotify.com/album/0YyICQb46YsV0Lytj42NeS"
+      },
+      "artists": [
+        {
+          "name": "The Nature Soundscapes",
+          "url": "https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "Singing Whales",
+      "url": "https://open.spotify.com/track/5u06TbepFp660RQvItOuqz"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds",
+        "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
+      },
+      "artists": [
+        {
+          "name": "Weather Batches",
+          "url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168181,
+      "name": "Singing Whales",
+      "url": "https://open.spotify.com/track/4migfa50Z5BlG56vAQuS2y"
+    },
+    {
+      "album": {
+        "name": "Submerged Whale Sounds",
+        "url": "https://open.spotify.com/album/6ntAl2qEq1chs5bOZd4W1T"
+      },
+      "artists": [
+        {
+          "name": "Harbour Porpoise",
+          "url": "https://open.spotify.com/artist/68BRfPFIXtYxZGApUBNxvc"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162165,
+      "name": "Submerged Whale Sounds",
+      "url": "https://open.spotify.com/track/4z87x01bT7ToVPmCP6MQv6"
+    },
+    {
+      "album": {
+        "name": "Tone of Whales",
+        "url": "https://open.spotify.com/album/58OJVATeFUfAFaiWwK7Idc"
+      },
+      "artists": [
+        {
+          "name": "Majestic Waters",
+          "url": "https://open.spotify.com/artist/0RZfw1ZeGZtv6XVk46okGk"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132332,
+      "name": "Tone of Whales",
+      "url": "https://open.spotify.com/track/6iRuWHZOz2GH35ljcNqt3i"
+    },
+    {
+      "album": {
+        "name": "Underwater Orchestra",
+        "url": "https://open.spotify.com/album/6kx2CDWAq6wuT3dBPSe1XD"
+      },
+      "artists": [
+        {
+          "name": "The Marine Mammals",
+          "url": "https://open.spotify.com/artist/1tkLiFoRextGEuUEjc5QcQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138760,
+      "name": "Underwater Orchestra",
+      "url": "https://open.spotify.com/track/6WRf9XzUcFR9UUwPFkeaHe"
+    },
+    {
+      "album": {
+        "name": "Wandering Whales",
+        "url": "https://open.spotify.com/album/7dgpgk3gWchyqql3ARp6jr"
+      },
+      "artists": [
+        {
+          "name": "Natsound",
+          "url": "https://open.spotify.com/artist/1GJH8huKOcDNdAdgwExXnw"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Wandering Whales",
+      "url": "https://open.spotify.com/track/0Ng5p0qxoxb3y9WBZsAuTM"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds",
+        "url": "https://open.spotify.com/album/0kg8UsoVxVRbtPBlFRPtOk"
+      },
+      "artists": [
+        {
+          "name": "Weather Batches",
+          "url": "https://open.spotify.com/artist/44RZwyPFg40Ferde44wbGT"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162250,
+      "name": "Whale Ambience",
+      "url": "https://open.spotify.com/track/5SxLUl5mYk8MYdH71x9Bx1"
+    },
+    {
+      "album": {
+        "name": "Whale Echoes",
+        "url": "https://open.spotify.com/album/0PmVS4rNzwKlxRLH7Cf2PV"
+      },
+      "artists": [
+        {
+          "name": "The Right Noises",
+          "url": "https://open.spotify.com/artist/68HmrxxSwi1z5OvNg7ufJQ"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146423,
+      "name": "Whale Echoes",
+      "url": "https://open.spotify.com/track/7spTUvcgwfHUAiBy5wBUJL"
+    },
+    {
+      "album": {
+        "name": "Whales",
+        "url": "https://open.spotify.com/album/2luUyfHV0c8pMcLxS1zGUV"
+      },
+      "artists": [
+        {
+          "name": "Weather Garden",
+          "url": "https://open.spotify.com/artist/1lJiaPKFdf4hlJezMwIIBX"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-21",
+      "duration_ms": 112535,
+      "name": "Whale Family",
+      "url": "https://open.spotify.com/track/5U5EL04oH9kHlFcuIWKNYS"
+    },
+    {
+      "album": {
+        "name": "Whales in the Deep Sea 2",
+        "url": "https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs"
+      },
+      "artists": [
+        {
+          "name": "Nature Expedition",
+          "url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171464,
+      "name": "Whale Journey",
+      "url": "https://open.spotify.com/track/4UAOXnU7WAkrf0Q1iyRUaj"
+    },
+    {
+      "album": {
+        "name": "Whale Sound",
+        "url": "https://open.spotify.com/album/1yslweRLL69chC57YVX6vB"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ice",
+          "url": "https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135366,
+      "name": "Whale Samples 1",
+      "url": "https://open.spotify.com/track/1DkGJRw96jrpa0akCqzRYf"
+    },
+    {
+      "album": {
+        "name": "Whale Sound",
+        "url": "https://open.spotify.com/album/1yslweRLL69chC57YVX6vB"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ice",
+          "url": "https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143415,
+      "name": "Whale Samples 2",
+      "url": "https://open.spotify.com/track/20HFo2XERVmld7mn3DiXRj"
+    },
+    {
+      "album": {
+        "name": "Whale Sound",
+        "url": "https://open.spotify.com/album/1yslweRLL69chC57YVX6vB"
+      },
+      "artists": [
+        {
+          "name": "Sounds of Ice",
+          "url": "https://open.spotify.com/artist/0XzyojMCU3KQJ86WLrfFLB"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150312,
+      "name": "Whale Samples 3",
+      "url": "https://open.spotify.com/track/2Z7AhdadhogkWvpn37uMfL"
+    },
+    {
+      "album": {
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196721,
+      "name": "Whale Song I",
+      "url": "https://open.spotify.com/track/1200m91gtne5JWrxvRaslI"
+    },
+    {
+      "album": {
+        "name": "Whale Songs",
+        "url": "https://open.spotify.com/album/3Nc01wKpTZjhGhyvES5eNr"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292682,
+      "name": "Whale Song II",
+      "url": "https://open.spotify.com/track/2t8KVWDy3uwlWjLebfYcYz"
+    },
+    {
+      "album": {
+        "name": "Whale Sonics",
+        "url": "https://open.spotify.com/album/3JP8ctGXwmNfjqkC2bnlmI"
+      },
+      "artists": [
+        {
+          "name": "Das Whale",
+          "url": "https://open.spotify.com/artist/7Hl1ospn4vNO9NYOi8oITU"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139083,
+      "name": "Whale Sonics",
+      "url": "https://open.spotify.com/track/2blxBz4OkiojOhYAYsP9lu"
+    },
+    {
+      "album": {
+        "name": "Whales in the Deep Sea 2",
+        "url": "https://open.spotify.com/album/2rDqBJ5WkcS2jw5jrJW1Hs"
+      },
+      "artists": [
+        {
+          "name": "Nature Expedition",
+          "url": "https://open.spotify.com/artist/4Yo8oXOy1dREjZAQkzbsTi"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161828,
+      "name": "Whales by Night",
+      "url": "https://open.spotify.com/track/1z7GxTap9r5l7xYj5XVGqC"
+    },
+    {
+      "album": {
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194555,
+      "name": "Whales Communicate",
+      "url": "https://open.spotify.com/track/2ELSswCIzVqnjev2HWrhNk"
+    },
+    {
+      "album": {
+        "name": "Whales in the Deep",
+        "url": "https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "Whales in the Deep",
+      "url": "https://open.spotify.com/track/4LBzgHFmgOME4ZkoJYSlcO"
+    },
+    {
+      "album": {
+        "name": "Whales in the Ocean",
+        "url": "https://open.spotify.com/album/6qJH650G6XotshNHvrgmqo"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Whales in the Ocean",
+      "url": "https://open.spotify.com/track/7hY4I1AJB3qjChEfeeZsbM"
+    },
+    {
+      "album": {
+        "name": "Whales in the Sea",
+        "url": "https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Sounds",
+          "url": "https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Whales in the Sea I",
+      "url": "https://open.spotify.com/track/4EurqEfun9u48PPN7IBUAC"
+    },
+    {
+      "album": {
+        "name": "Whales in the Sea",
+        "url": "https://open.spotify.com/album/4Oo0VSZpJ0RjsaJf3oSQhW"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Sounds",
+          "url": "https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw"
+        }
+      ],
+      "date_added": "2022-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Whales in the Sea II",
+      "url": "https://open.spotify.com/track/6eO4YceIq0yZFphCJ7ca57"
+    },
+    {
+      "album": {
+        "name": "Ocean Whales",
+        "url": "https://open.spotify.com/album/0OedfiztU6KGbCOHdQNBhW"
+      },
+      "artists": [
+        {
+          "name": "Wonderful Escape",
+          "url": "https://open.spotify.com/artist/0PJ6I5TXDRK4pmLuSfh33T"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193211,
+      "name": "Whales in the Wild",
+      "url": "https://open.spotify.com/track/16smWn9MSpDnsxIzq6KuDK"
+    },
+    {
+      "album": {
+        "name": "Whale Sounds for Sleep",
+        "url": "https://open.spotify.com/album/1yTiBYnYPCpFKUVNV6gG9m"
+      },
+      "artists": [
+        {
+          "name": "Winds of Spirits",
+          "url": "https://open.spotify.com/artist/2o4Z8cAefTvOBs6BPzA3Vv"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157844,
+      "name": "Whales Relaxation",
+      "url": "https://open.spotify.com/track/3CcsCkkquozro6x6H6loDi"
+    },
+    {
+      "album": {
+        "name": "Whales in the Wild",
+        "url": "https://open.spotify.com/album/4OxOMkXWCp40orgmtExWcL"
+      },
+      "artists": [
+        {
+          "name": "Memorable",
+          "url": "https://open.spotify.com/artist/216iyhH3TpJJYO9zF1zyxV"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197822,
+      "name": "Whales Singing",
+      "url": "https://open.spotify.com/track/15kTpHlXT02GbofofDh7n5"
+    },
+    {
+      "album": {
+        "name": "Whales Singing",
+        "url": "https://open.spotify.com/album/5esU5Av0nanL5Sjmu5L6HO"
+      },
+      "artists": [
+        {
+          "name": "Picturesque Sound",
+          "url": "https://open.spotify.com/artist/4kmwcaEZw9Xs2GMUGKaR3D"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Whales Singing",
+      "url": "https://open.spotify.com/track/0AxnbxJTvemaVTcnoNrvYD"
+    },
+    {
+      "album": {
+        "name": "Whales in the Deep",
+        "url": "https://open.spotify.com/album/5wprN3cK2FQ9JP9XzKVlPj"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189599,
+      "name": "Whispering Whales",
+      "url": "https://open.spotify.com/track/7zshAhxZAFYlG1XGwXKGIP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX60xkhEfNtud"
 }

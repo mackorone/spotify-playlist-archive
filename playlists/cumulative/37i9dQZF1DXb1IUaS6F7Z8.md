@@ -4,7 +4,7 @@
 
 > All of the best Celtic punk tracks\. Cover: The Dreadnoughts
 
-105 songs - 5 hr 55 min
+106 songs - 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Fistful O' Roses](https://open.spotify.com/track/0luBzUkwlfRGQKfUwDVwVe) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [A Fistful O' Roses](https://open.spotify.com/album/54ildx6MHioyvqGTAFASOe) | 4:52 | 2022-03-18 | 2022-07-29 |
 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 | 2022-03-18 |  |
 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 | 2022-03-18 | 2023-12-30 |
-| [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 | 2022-03-18 |  |
+| [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 | 2022-03-18 | 2024-01-07 |
 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 | 2022-03-18 |  |
 | [Bullhead](https://open.spotify.com/track/1Fa7HO1JHC20Fcv0wTTDTQ) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Bullhead](https://open.spotify.com/album/4e4gqnGXeLQIpccdoN95kE) | 2:39 | 2022-03-18 | 2022-07-29 |
 | [Bullhead](https://open.spotify.com/track/5EAEFB8usSqF2rCvwmjJbr) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Hestia](https://open.spotify.com/album/2pPRVxlpHiN4oSvwM18w4o) | 2:39 | 2022-03-18 |  |
@@ -86,6 +86,7 @@
 | [Sobriety](https://open.spotify.com/track/4zp0UU8f8INeMz7r61q1zj) | [Jolly Jackers](https://open.spotify.com/artist/3YroMUvRA81dwHWEU0bbDy) | [Sobriety](https://open.spotify.com/album/0cprCmWUMO5iMHIH3vrBPs) | 2:31 | 2022-03-18 |  |
 | [Stand Up](https://open.spotify.com/track/3icdIwRcG7VqMwwpbkqkSM) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/2vthT4utjsxoiZB6YmvsZ7) | 3:31 | 2022-03-18 | 2022-07-26 |
 | [Stand Up](https://open.spotify.com/track/5YmZ8wmqrZulmgtOfLHAnx) | [The Rumpled](https://open.spotify.com/artist/1KBTFIV3DLMDZlnQzoQUw6), [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Toss the Coin](https://open.spotify.com/album/6iyWp7G8k1eh3kiPa9OMX0) | 3:31 | 2022-03-18 |  |
+| [Still Alive](https://open.spotify.com/track/1RbpnDf4CwKWnQNdMeDjM1) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Spice It Up!](https://open.spotify.com/album/2NzU2lS6b41Dvmm0sFZNl4) | 2:47 | 2022-03-18 |  |
 | [Still Alive](https://open.spotify.com/track/1hVU5v9FSEjWEyqvBFs9Po) | [Firkin](https://open.spotify.com/artist/4gStxnd8dQCtu5jeE4rEBF) | [Still Alive](https://open.spotify.com/album/2lxPat5AT5o7D06Q7YNE6G) | 2:47 | 2022-03-18 | 2022-07-29 |
 | [The Cabin](https://open.spotify.com/track/7h0ua2NID4KBYNjs401sxT) | [Irish Moutarde](https://open.spotify.com/artist/5G57ycjj8BsL5ynIN06l7P) | [Raise 'em All](https://open.spotify.com/album/3dQ7S6VtgQfNR4XTSGor1I) | 2:37 | 2022-03-18 |  |
 | [The Foggy Dew](https://open.spotify.com/track/59cTalavalHWTXoEtGnrJA) | [Young Dubliners](https://open.spotify.com/artist/6goa2f1QVVT8aqSxKWnsVj) | [With All Due Respect \- The Irish Sessions](https://open.spotify.com/album/3SIgoKx2ScvBdf7XFps6i0) | 3:11 | 2022-03-18 | 2022-07-29 |

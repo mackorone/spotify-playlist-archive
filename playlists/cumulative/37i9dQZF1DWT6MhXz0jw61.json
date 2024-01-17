@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-10-07",
-  "description": "Chillout hip-hop vibes. Cover: Drake",
+  "description": "Chillout hip-hop vibes. Cover: Bas",
   "name": "Mellow Bars",
   "tracks": [
     {
@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 208269,
       "name": "90 Proof (with J. Cole)",
       "url": "https://open.spotify.com/track/0vbmYCIWENdYyJ36Q4CdSz"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 156585,
       "name": "Americana",
       "url": "https://open.spotify.com/track/6nnn7qnE1xyTnsnBHax70v"
@@ -2571,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "Can't Wake Up (Remix)",
+        "url": "https://open.spotify.com/album/3ELhsTmzpNjhEpfIGrC8X9"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Anonimis",
+          "url": "https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Can't Wake Up - Remix",
+      "url": "https://open.spotify.com/track/6j1TrNeuKkqa3id2H2q00I"
+    },
+    {
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/6ZkKQAXRv2KRTLiWfciQrk"
       },
@@ -3728,7 +3750,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 117808,
       "name": "Danger",
       "url": "https://open.spotify.com/track/2BY89ny2KHLZS2zUuqAHNO"
@@ -4054,7 +4076,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 231818,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT"
@@ -4204,6 +4226,24 @@
       "duration_ms": 222420,
       "name": "Don't Wait Up (feat. Mr Hudson)",
       "url": "https://open.spotify.com/track/3oOnBtFaXDovahuV8A4xvq"
+    },
+    {
+      "album": {
+        "name": "Dont.Tell.Nobody",
+        "url": "https://open.spotify.com/album/6fQ1en3gLW3hrlSkD2AVEj"
+      },
+      "artists": [
+        {
+          "name": "Kemba",
+          "url": "https://open.spotify.com/artist/0oZASNXz7lmZGoXFh8GnZM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137166,
+      "name": "Dont.Tell.Nobody",
+      "url": "https://open.spotify.com/track/4zbLSmk1L571sSUpw6ptwu"
     },
     {
       "album": {
@@ -4470,7 +4510,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 272516,
       "name": "Drug Trade Pt 2 (feat. Black Thought & Benny The Butcher)",
       "url": "https://open.spotify.com/track/0caNSAOGrPfUQAvqi7H91l"
@@ -4496,6 +4536,32 @@
       "duration_ms": 228111,
       "name": "D\u00e9j\u00e0 Vu (feat. Guapdad 4000)",
       "url": "https://open.spotify.com/track/0vBPRzU1L76Pc0CJE7nVY6"
+    },
+    {
+      "album": {
+        "name": "Penalty of Leadership",
+        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "Double Dee",
+          "url": "https://open.spotify.com/artist/0VCa5LsylPVCUo93jxHCYe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182857,
+      "name": "Early Worms Get Birds",
+      "url": "https://open.spotify.com/track/2Jhku0aj90zNf1d1S8HECm"
     },
     {
       "album": {
@@ -4780,6 +4846,28 @@
       "duration_ms": 213749,
       "name": "Expensive Pain",
       "url": "https://open.spotify.com/track/7eDkIDGKVe5B5RmTiEPiXJ"
+    },
+    {
+      "album": {
+        "name": "Ezekiel's Wheel",
+        "url": "https://open.spotify.com/album/1zy6nQsdVNRXPFRsbW2Q3M"
+      },
+      "artists": [
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235500,
+      "name": "Ezekiel's Wheel",
+      "url": "https://open.spotify.com/track/4jB5y3nekrMH0HOFSm1rC0"
     },
     {
       "album": {
@@ -5502,6 +5590,28 @@
       "duration_ms": 187669,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4NpGQqfAGuIkMVRgVD5VRX"
+    },
+    {
+      "album": {
+        "name": "Penalty of Leadership",
+        "url": "https://open.spotify.com/album/3jGa3xK9xpXMWpAN8JJ8NL"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Formal Invite",
+      "url": "https://open.spotify.com/track/6JAVPIgZPynxA3xKtd8WW0"
     },
     {
       "album": {
@@ -6942,7 +7052,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 153855,
       "name": "hyogo",
       "url": "https://open.spotify.com/track/1X6xLtOzeuQz4bbBGEcXR4"
@@ -7132,6 +7242,24 @@
       "duration_ms": 192562,
       "name": "Ickey Woods",
       "url": "https://open.spotify.com/track/1AATl3v50aBjpIYg61wee5"
+    },
+    {
+      "album": {
+        "name": "IIWII SEASON 3 FREESTYLE",
+        "url": "https://open.spotify.com/album/6wWWOj4Zemu8wfTi4RdDoI"
+      },
+      "artists": [
+        {
+          "name": "Cam'ron",
+          "url": "https://open.spotify.com/artist/7iMvwE8qANp3aIfAGKEAwS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205560,
+      "name": "IIWII SEASON 3 FREESTYLE",
+      "url": "https://open.spotify.com/track/5gQdkMgut9pCKfFHIj17FO"
     },
     {
       "album": {
@@ -7342,7 +7470,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 144000,
       "name": "IT IS WHAT IT IS",
       "url": "https://open.spotify.com/track/6SmmBWGRRoRJVpBNum6aOt"
@@ -7778,7 +7906,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 107931,
       "name": "KING PT 5",
       "url": "https://open.spotify.com/track/4LCEgFnlZKA5qSQUDQRe2X"
@@ -8132,6 +8260,24 @@
       "duration_ms": 172250,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/6WLHYByQ3ISetDywR1jaHT"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159133,
+      "name": "letter to my brudda",
+      "url": "https://open.spotify.com/track/5P1z8XwsCStb74emERTx9v"
     },
     {
       "album": {
@@ -10096,6 +10242,24 @@
       "duration_ms": 236108,
       "name": "Open Scars",
       "url": "https://open.spotify.com/track/5l2UlIRagkhJgn2qmA10ZV"
+    },
+    {
+      "album": {
+        "name": "Oregon",
+        "url": "https://open.spotify.com/album/2Zw3tUqmAocI2AD2YN0jgH"
+      },
+      "artists": [
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Oregon",
+      "url": "https://open.spotify.com/track/1xIAHRag2NC347gbTe5ig4"
     },
     {
       "album": {
@@ -13125,6 +13289,28 @@
     },
     {
       "album": {
+        "name": "'95 Civic",
+        "url": "https://open.spotify.com/album/4UoHIrUDmQa9WTLsKg7q6T"
+      },
+      "artists": [
+        {
+          "name": "Dende",
+          "url": "https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF"
+        },
+        {
+          "name": "Eimaral Sol",
+          "url": "https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199563,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/1szukOBC3EGeotj9HEVbjS"
+    },
+    {
+      "album": {
         "name": "Swerve",
         "url": "https://open.spotify.com/album/4bwRO6SKUjysjbdYZz2f8u"
       },
@@ -13140,7 +13326,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 199563,
       "name": "Swerve",
       "url": "https://open.spotify.com/track/73Vj0bDzuk77zsgxA0ujKG"

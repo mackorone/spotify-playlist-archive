@@ -1205,6 +1205,28 @@
     },
     {
       "album": {
+        "name": "\u4e00\u8d77\u53bb\u770b\u6d77",
+        "url": "https://open.spotify.com/album/6HtiHQeYikSXsmlExwGDcq"
+      },
+      "artists": [
+        {
+          "name": "\u82e5\u6052",
+          "url": "https://open.spotify.com/artist/7Bkl50hOMYEX2AqapoRaW0"
+        },
+        {
+          "name": "\u5a1c\u5862\u609f\u5409\u7d0d Naau E'ucna",
+          "url": "https://open.spotify.com/artist/3RcVxIc3dJo93GQRn16WI2"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 224000,
+      "name": "\u4e00\u8d77\u53bb\u770b\u6d77",
+      "url": "https://open.spotify.com/track/42hygMxpIhX0DFTFKq0E19"
+    },
+    {
+      "album": {
         "name": "\u4e00\u8def\u4ee5\u4f86 (\u96fb\u5f71\u300a\u5bcc\u90fd\u9752\u5e74\u300b\u4e3b\u984c\u66f2)",
         "url": "https://open.spotify.com/album/3bEr9BUeLk15CynVKvOsPt"
       },
@@ -3400,7 +3422,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 266085,
       "name": "\u60f3\u5ff5\u64ec\u4eba\u5316",
       "url": "https://open.spotify.com/track/2QkELHIEQONatqO5ZrE5H7"
@@ -4849,6 +4871,24 @@
     },
     {
       "album": {
+        "name": "\u6f6e\u6c34\u7bb4\u8a00",
+        "url": "https://open.spotify.com/album/5B0AZtKqwCRjMej90HoCKn"
+      },
+      "artists": [
+        {
+          "name": "SHUA",
+          "url": "https://open.spotify.com/artist/4ZPApia4YNHraw5nhgp804"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290149,
+      "name": "\u6f6e\u6c34\u7bb4\u8a00",
+      "url": "https://open.spotify.com/track/43ydEcvPtB09gg689Iizfu"
+    },
+    {
+      "album": {
         "name": "\u70ba\u4e86\u4ec0\u9ebc\u800c\u52aa\u529b",
         "url": "https://open.spotify.com/album/3ELx1GoOTS1TwywUjgArYL"
       },
@@ -5668,6 +5708,24 @@
       "duration_ms": 199154,
       "name": "\u85cd\u5929 - Acoustic",
       "url": "https://open.spotify.com/track/3ERjOssT8oJ42WsP42P9n6"
+    },
+    {
+      "album": {
+        "name": "\u300a\u4e00\u95ea\u4e00\u95ea\u4eae\u661f\u661f\u300b\u7535\u5f71\u539f\u58f0\u5e26",
+        "url": "https://open.spotify.com/album/1X1LA4lupIt483Gge0fvLm"
+      },
+      "artists": [
+        {
+          "name": "\u55ae\u4f9d\u7d14",
+          "url": "https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196125,
+      "name": "\u85cf\u5728\u4f60\u7684\u540d\u5b57\u91cc",
+      "url": "https://open.spotify.com/track/2BcK2K8CcFqE1E2vMN8oIi"
     },
     {
       "album": {
@@ -6532,7 +6590,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 293833,
       "name": "\u96d9\u68f2\u52d5\u7269",
       "url": "https://open.spotify.com/track/03PKZKaaflLteXAbL58s2d"

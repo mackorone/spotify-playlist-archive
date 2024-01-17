@@ -1,216 +1,3693 @@
 {
-  "2023-06-02": 415,
-  "2023-06-03": 443,
-  "2023-06-04": 467,
-  "2023-06-05": 503,
-  "2023-06-06": 530,
-  "2023-06-07": 564,
-  "2023-06-08": 597,
-  "2023-06-09": 634,
-  "2023-06-10": 663,
-  "2023-06-11": 687,
-  "2023-06-12": 723,
-  "2023-06-13": 757,
-  "2023-06-14": 757,
-  "2023-06-15": 816,
-  "2023-06-16": 848,
-  "2023-06-17": 873,
-  "2023-06-18": 905,
-  "2023-06-19": 939,
-  "2023-06-20": 972,
-  "2023-06-21": 1009,
-  "2023-06-22": 1036,
-  "2023-06-23": 1077,
-  "2023-06-24": 1094,
-  "2023-06-25": 1118,
-  "2023-06-26": 1150,
-  "2023-06-27": 1182,
-  "2023-06-28": 1200,
-  "2023-06-29": 1232,
-  "2023-06-30": 1260,
-  "2023-07-01": 1315,
-  "2023-07-02": 1315,
-  "2023-07-03": 1350,
-  "2023-07-04": 1403,
-  "2023-07-05": 1439,
-  "2023-07-06": 1514,
-  "2023-07-07": 1514,
-  "2023-07-08": 1529,
-  "2023-07-09": 1549,
-  "2023-07-10": 1584,
-  "2023-07-11": 1612,
-  "2023-07-12": 1642,
-  "2023-07-13": 1668,
-  "2023-07-14": 1695,
-  "2023-07-15": 1716,
-  "2023-07-16": 1738,
-  "2023-07-17": 1766,
-  "2023-07-18": 1791,
-  "2023-07-19": 1810,
-  "2023-07-20": 1846,
-  "2023-07-21": 1877,
-  "2023-07-22": 1900,
-  "2023-07-23": 1920,
-  "2023-07-24": 1948,
-  "2023-07-25": 1985,
-  "2023-07-26": 2020,
-  "2023-07-27": 2047,
-  "2023-07-28": 2085,
-  "2023-07-29": 2123,
-  "2023-07-30": 2153,
-  "2023-07-31": 2181,
-  "2023-08-01": 2203,
-  "2023-08-02": 2234,
-  "2023-08-03": 2259,
-  "2023-08-04": 2296,
-  "2023-08-05": 2329,
-  "2023-08-06": 2391,
-  "2023-08-07": 2391,
-  "2023-08-08": 2428,
-  "2023-08-09": 2460,
-  "2023-08-10": 2476,
-  "2023-08-11": 2506,
-  "2023-08-12": 2544,
-  "2023-08-13": 2576,
-  "2023-08-14": 2607,
-  "2023-08-15": 2673,
-  "2023-08-16": 2673,
-  "2023-08-17": 2709,
-  "2023-08-18": 2739,
-  "2023-08-19": 2770,
-  "2023-08-20": 2802,
-  "2023-08-21": 2835,
-  "2023-08-22": 2879,
-  "2023-08-23": 2918,
-  "2023-08-24": 2937,
-  "2023-08-25": 2980,
-  "2023-08-26": 3008,
-  "2023-08-27": 3041,
-  "2023-08-28": 3066,
-  "2023-08-29": 3096,
-  "2023-08-30": 3130,
-  "2023-08-31": 3166,
-  "2023-09-01": 3248,
-  "2023-09-02": 3248,
-  "2023-09-03": 3278,
-  "2023-09-04": 3346,
-  "2023-09-05": 3428,
-  "2023-09-06": 3499,
-  "2023-09-07": 3581,
-  "2023-09-08": 3661,
-  "2023-09-09": 3706,
-  "2023-09-10": 3760,
-  "2023-09-11": 3794,
-  "2023-09-12": 3851,
-  "2023-09-13": 3915,
-  "2023-09-14": 3970,
-  "2023-09-15": 4014,
-  "2023-09-16": 4055,
-  "2023-09-17": 4101,
-  "2023-09-18": 4157,
-  "2023-09-19": 4195,
-  "2023-09-20": 4236,
-  "2023-09-21": 4281,
-  "2023-09-22": 4324,
-  "2023-09-23": 4372,
-  "2023-09-24": 4416,
-  "2023-09-25": 4451,
-  "2023-09-26": 4508,
-  "2023-09-27": 4537,
-  "2023-09-28": 4592,
-  "2023-09-29": 4633,
-  "2023-09-30": 4678,
-  "2023-10-01": 4721,
-  "2023-10-02": 4769,
-  "2023-10-03": 4821,
-  "2023-10-04": 4872,
-  "2023-10-05": 4919,
-  "2023-10-06": 4974,
-  "2023-10-07": 5016,
-  "2023-10-08": 5047,
-  "2023-10-09": 5084,
-  "2023-10-10": 5140,
-  "2023-10-11": 5228,
-  "2023-10-12": 5228,
-  "2023-10-13": 5286,
-  "2023-10-14": 5334,
-  "2023-10-15": 5389,
-  "2023-10-16": 5461,
-  "2023-10-17": 5526,
-  "2023-10-18": 5588,
-  "2023-10-19": 5644,
-  "2023-10-20": 5711,
-  "2023-10-21": 5773,
-  "2023-10-22": 5822,
-  "2023-10-23": 5898,
-  "2023-10-24": 5967,
-  "2023-10-25": 6031,
-  "2023-10-26": 6090,
-  "2023-10-27": 6150,
-  "2023-10-28": 6209,
-  "2023-10-29": 6265,
-  "2023-10-30": 6393,
-  "2023-10-31": 6393,
-  "2023-11-01": 6422,
-  "2023-11-02": 6495,
-  "2023-11-03": 6547,
-  "2023-11-04": 6601,
-  "2023-11-05": 6643,
-  "2023-11-06": 6702,
-  "2023-11-07": 6752,
-  "2023-11-08": 6805,
-  "2023-11-09": 6866,
-  "2023-11-10": 6909,
-  "2023-11-11": 6948,
-  "2023-11-12": 7004,
-  "2023-11-13": 7065,
-  "2023-11-14": 7104,
-  "2023-11-15": 7104,
-  "2023-11-16": 7216,
-  "2023-11-17": 7296,
-  "2023-11-18": 7296,
-  "2023-11-19": 7346,
-  "2023-11-20": 7407,
-  "2023-11-21": 7454,
-  "2023-11-22": 7509,
-  "2023-11-23": 7559,
-  "2023-11-24": 7609,
-  "2023-11-25": 7646,
-  "2023-11-26": 7696,
-  "2023-11-27": 7748,
-  "2023-11-28": 7803,
-  "2023-11-29": 7897,
-  "2023-11-30": 7897,
-  "2023-12-01": 7938,
-  "2023-12-02": 7985,
-  "2023-12-03": 8025,
-  "2023-12-04": 8075,
-  "2023-12-05": 8121,
-  "2023-12-06": 8181,
-  "2023-12-07": 8231,
-  "2023-12-08": 8282,
-  "2023-12-09": 8333,
-  "2023-12-10": 8375,
-  "2023-12-11": 8425,
-  "2023-12-12": 8467,
-  "2023-12-13": 8536,
-  "2023-12-14": 8603,
-  "2023-12-15": 8637,
-  "2023-12-16": 8689,
-  "2023-12-17": 8729,
-  "2023-12-18": 8785,
-  "2023-12-19": 8828,
-  "2023-12-20": 8873,
-  "2023-12-21": 8927,
-  "2023-12-22": 8968,
-  "2023-12-23": 9001,
-  "2023-12-24": 9046,
-  "2023-12-25": 9096,
-  "2023-12-26": 9137,
-  "2023-12-27": 9196,
-  "2023-12-30": 9361,
-  "2023-12-31": 9406,
-  "2024-01-01": 9444,
-  "2024-01-02": 9493,
-  "2024-01-03": 9555
+  "2024-01-17": 10399,
+  "date_first_scraped": "2023-06-02",
+  "description": "Find your study focus with high pitched azure noise - perfect for masking disruptive noises. ",
+  "name": "Blue Noise",
+  "tracks": [
+    {
+      "album": {
+        "name": "Andalucian Blue Noise",
+        "url": "https://open.spotify.com/album/4wAsa6x7EZSlHX8xqCiyOe"
+      },
+      "artists": [
+        {
+          "name": "Zen Maestro",
+          "url": "https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208277,
+      "name": "Andalucian Blue Noise",
+      "url": "https://open.spotify.com/track/2a4ZF4wEOUBvq5gCLuHjgo"
+    },
+    {
+      "album": {
+        "name": "Soothe Blue Noise",
+        "url": "https://open.spotify.com/album/4fRjKjqT0DPTY19FzK8xs0"
+      },
+      "artists": [
+        {
+          "name": "Winding Down",
+          "url": "https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137874,
+      "name": "Appeasing Blue Noise",
+      "url": "https://open.spotify.com/track/3aQnOrA2opORaxIiutRaYK"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Tranquility",
+        "url": "https://open.spotify.com/album/6kof3XoaRMyowGAWiu7nZe"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Arctic Blue Noise",
+      "url": "https://open.spotify.com/track/62zcTRfEhEmo2eSn95yndk"
+    },
+    {
+      "album": {
+        "name": "Monta\u00f1a Azul",
+        "url": "https://open.spotify.com/album/1zeSf8kRIJeFhHk01FKfcM"
+      },
+      "artists": [
+        {
+          "name": "Magia Blanca",
+          "url": "https://open.spotify.com/artist/6NB99H716sPOH3xsWrtgHV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174250,
+      "name": "Azul Celeste",
+      "url": "https://open.spotify.com/track/6QpNnDKgtUBQp0pcYa6sBG"
+    },
+    {
+      "album": {
+        "name": "Azure Crystal\u00e9",
+        "url": "https://open.spotify.com/album/2nNadh7a53SrnMo0KJQvWJ"
+      },
+      "artists": [
+        {
+          "name": "Mentatranque",
+          "url": "https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "Azure Crystal\u00e9",
+      "url": "https://open.spotify.com/track/5sGAgeqpWMmHszM7cTSqmd"
+    },
+    {
+      "album": {
+        "name": "Azure Focus",
+        "url": "https://open.spotify.com/album/6DptTnAjZnz0r6VIaoy1IG"
+      },
+      "artists": [
+        {
+          "name": "The SubOceaners",
+          "url": "https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323840,
+      "name": "Azure Focus",
+      "url": "https://open.spotify.com/track/4Nc5D1DpDxyz44tTK057G2"
+    },
+    {
+      "album": {
+        "name": "Dozy Blue",
+        "url": "https://open.spotify.com/album/6MlcnEMhkCNPbU5AVOpKnL"
+      },
+      "artists": [
+        {
+          "name": "Evolysium",
+          "url": "https://open.spotify.com/artist/2HpNxW7zoPDIEnDC0g9y25"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167250,
+      "name": "Azure Freq.",
+      "url": "https://open.spotify.com/track/2fKYV3sUlgdKTtstSoxUnv"
+    },
+    {
+      "album": {
+        "name": "Azure Voyage",
+        "url": "https://open.spotify.com/album/0V6N5mAo9mHk9V9gukhRS3"
+      },
+      "artists": [
+        {
+          "name": "Trambiendo",
+          "url": "https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Azure Voyage (Blue Noise)",
+      "url": "https://open.spotify.com/track/3d2oTExzu9dEhfCPXlpVXd"
+    },
+    {
+      "album": {
+        "name": "Blissful Blue Noise",
+        "url": "https://open.spotify.com/album/026pqMVmUDdbisorPEs8rA"
+      },
+      "artists": [
+        {
+          "name": "Fluffy Duffy",
+          "url": "https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172750,
+      "name": "Blissful Blue Noise",
+      "url": "https://open.spotify.com/track/6wh7LJHpQHrhzXBtJNgZNc"
+    },
+    {
+      "album": {
+        "name": "Blue Beauty",
+        "url": "https://open.spotify.com/album/1k5JOZm1HJExbdKoN5782A"
+      },
+      "artists": [
+        {
+          "name": "Jane Color",
+          "url": "https://open.spotify.com/artist/5IHSYO8kKxpkIphS2vmEuX"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Blue Beauty",
+      "url": "https://open.spotify.com/track/480POEmKsRKYqgs0pm4yyC"
+    },
+    {
+      "album": {
+        "name": "Blue Echoes",
+        "url": "https://open.spotify.com/album/7Hjxn4R29xAzuC5Np9pmnR"
+      },
+      "artists": [
+        {
+          "name": "Astrofuss",
+          "url": "https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223695,
+      "name": "Blue Echoes",
+      "url": "https://open.spotify.com/track/2QCZgNuJThs1xERnCWTeCx"
+    },
+    {
+      "album": {
+        "name": "Blissful Blue Noise",
+        "url": "https://open.spotify.com/album/026pqMVmUDdbisorPEs8rA"
+      },
+      "artists": [
+        {
+          "name": "Fluffy Duffy",
+          "url": "https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "Blue Focus",
+      "url": "https://open.spotify.com/track/6MxwD3OIu9IwDLvNmPvd4B"
+    },
+    {
+      "album": {
+        "name": "Cozy Blue Noise",
+        "url": "https://open.spotify.com/album/5GFHNWL9E3NRkBPZakKsnC"
+      },
+      "artists": [
+        {
+          "name": "Panoramia",
+          "url": "https://open.spotify.com/artist/7j68r0RRJ2pdn6lh6Xhxn9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168250,
+      "name": "Blue Haven",
+      "url": "https://open.spotify.com/track/0JiSzDU1Hm0Ift4NVieay2"
+    },
+    {
+      "album": {
+        "name": "Winds of Azure",
+        "url": "https://open.spotify.com/album/0XSCFgUGO6CJxRgPmDGQr1"
+      },
+      "artists": [
+        {
+          "name": "Luke Andersson",
+          "url": "https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189250,
+      "name": "Blue Hibernation",
+      "url": "https://open.spotify.com/track/2cLQ6VHF4U9mEopVoOgwRl"
+    },
+    {
+      "album": {
+        "name": "Blue like the Ocean",
+        "url": "https://open.spotify.com/album/2Wmmr2z0gpZjrMqmsTugU5"
+      },
+      "artists": [
+        {
+          "name": "ZNoize",
+          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Blue like the Ocean",
+      "url": "https://open.spotify.com/track/6M0N39pyZW3niZxZySCe6S"
+    },
+    {
+      "album": {
+        "name": "Binaural Sleep Dreaming",
+        "url": "https://open.spotify.com/album/4k21ozciEwxLxkUcLbSQi1"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/1O9CbJ8WDL0zpHCJ8tNXN9"
+    },
+    {
+      "album": {
+        "name": "Delicate Brown Noise",
+        "url": "https://open.spotify.com/album/0ocp4JahNvy4dYr86a6L2o"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/1pZfUCIC56M7JAvNIUq8gP"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Collection: Sleep",
+        "url": "https://open.spotify.com/album/5O1vXGRI1IN0bdqUWzXr2T"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/25fXDo5Is19UfmSKDoBOCS"
+    },
+    {
+      "album": {
+        "name": "White Static for Sleep",
+        "url": "https://open.spotify.com/album/1Z2ChqQaaJfQv46pCYh1lN"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/29cmbGsPIiXOWPqug0RXoL"
+    },
+    {
+      "album": {
+        "name": "Baby Static Tones",
+        "url": "https://open.spotify.com/album/0ArXrUsbxpbT7LuKtV4pKq"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/2Dqq1T68lQib8Ai4EI4WeK"
+    },
+    {
+      "album": {
+        "name": "Cavernous Static",
+        "url": "https://open.spotify.com/album/3YKpYpTA6MZTu72JTwsacE"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/3Bg4GotCpb54ZreaT6tpch"
+    },
+    {
+      "album": {
+        "name": "Bathed in White Noise",
+        "url": "https://open.spotify.com/album/16lvWCfmWfZPjMsD4jzukf"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/4zSyzPrNsLf4nTpIRSRy90"
+    },
+    {
+      "album": {
+        "name": "Baby Centred Brown Noise",
+        "url": "https://open.spotify.com/album/6r8rVMeycxXL53v3cxnYS1"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/5E6kiAk5fq3sKA8zhDoIn9"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Bliss",
+        "url": "https://open.spotify.com/album/5n6lo2MQHFpD6dpi7liIcj"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/5Skrn3O7x6k5c1eA5rIZqv"
+    },
+    {
+      "album": {
+        "name": "Static Rings",
+        "url": "https://open.spotify.com/album/0RSv6EC4JThU311r6vLu7I"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/5zVIp2mHlWFHfSEgNvcGjy"
+    },
+    {
+      "album": {
+        "name": "Baby Static Hiss",
+        "url": "https://open.spotify.com/album/5xjJe0puuDtbD7sPSoFas1"
+      },
+      "artists": [
+        {
+          "name": "Brown Noise for Babies",
+          "url": "https://open.spotify.com/artist/0QPXkHYX4kJ5mOVJS9PzRi"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 229854,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/73lL8BybYB9LftMrEWwE2e"
+    },
+    {
+      "album": {
+        "name": "Blue Noise: Focus, Sleep, Relax or Tinnitus Relief",
+        "url": "https://open.spotify.com/album/1oHRmncgoTN4pWdNp479ec"
+      },
+      "artists": [
+        {
+          "name": "Loopable Radiance",
+          "url": "https://open.spotify.com/artist/0GfXhZyN3s9wncxoZ8dB9Q"
+        },
+        {
+          "name": "Sleep Sounds HD",
+          "url": "https://open.spotify.com/artist/1q6jGuUdnkrxYF6lybDkyd"
+        },
+        {
+          "name": "White Noise",
+          "url": "https://open.spotify.com/artist/3isyZmZLDZ3ZFFvPHdr2eK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 130699,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/26uoIyiYWnolW34Q45NcXr"
+    },
+    {
+      "album": {
+        "name": "White Noise, Pink Noise, Brown Noise, and Other Relaxing Sounds for Adults and Babies",
+        "url": "https://open.spotify.com/album/0FrbDYSPZq4dQ4SttMhUuy"
+      },
+      "artists": [
+        {
+          "name": "Robert Sherman",
+          "url": "https://open.spotify.com/artist/5f4noQpEoJy7W1Jsa6aQyR"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 188007,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/2ZNCb5GZ0LwyovOJKfERCd"
+    },
+    {
+      "album": {
+        "name": "Sleep Noise",
+        "url": "https://open.spotify.com/album/643WWfHSoWR2SFfTxAvpHS"
+      },
+      "artists": [
+        {
+          "name": "Sleep Noise",
+          "url": "https://open.spotify.com/artist/5nZcoiDV2Nr3s3pK5bzFOa"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 260384,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/02huPt7AGJnDkoz9uCEsPW"
+    },
+    {
+      "album": {
+        "name": "Sound Machine",
+        "url": "https://open.spotify.com/album/3WxhBVeZ4bA4saHERcpSbw"
+      },
+      "artists": [
+        {
+          "name": "Soothing Sounds",
+          "url": "https://open.spotify.com/artist/3jWe9pK6zADsZRKR2CZMNb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 569680,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/7nPocRxv7vGL0nkJZZbT5r"
+    },
+    {
+      "album": {
+        "name": "Ambient Noise",
+        "url": "https://open.spotify.com/album/1SMW8uAmNUvCpocBW8zX2k"
+      },
+      "artists": [
+        {
+          "name": "Sound Bath",
+          "url": "https://open.spotify.com/artist/1wuPfTKt5zzbZixeifF5DO"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 180000,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/5lfRrNTateuzwxEQJyQXcy"
+    },
+    {
+      "album": {
+        "name": "White Noise",
+        "url": "https://open.spotify.com/album/4Okg86SFmbflyJpqUb00Nx"
+      },
+      "artists": [
+        {
+          "name": "White Noise",
+          "url": "https://open.spotify.com/artist/5CIJEJK51mGBedoqmR7219"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 480000,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/1g7bwkWKsyQB2CIOKUh8Xv"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/0r42V3JecTdbFuWyCeqQaO"
+      },
+      "artists": [
+        {
+          "name": "White Noise Radiance",
+          "url": "https://open.spotify.com/artist/0QUBaF6Rtta4TTmxYYfzux"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 177446,
+      "name": "Blue Noise",
+      "url": "https://open.spotify.com/track/3BEXo9GmU3JfaVTify7ir5"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 142221,
+      "name": "Blue Noise (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/39OO7h9wpBR0TPTw3v8Bsz"
+    },
+    {
+      "album": {
+        "name": "The Sound Of Blue Noise, Wind, Rain And Storms",
+        "url": "https://open.spotify.com/album/1RbH1DRpQlpos0s0O9FpMV"
+      },
+      "artists": [
+        {
+          "name": "The Relaxing Sounds Of Blue Noise",
+          "url": "https://open.spotify.com/artist/6EjoONkF0xOGHNBck3ugdp"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 160000,
+      "name": "Blue Noise - Loopable",
+      "url": "https://open.spotify.com/track/1EZOQMwBIBvpaxtIpr6DnA"
+    },
+    {
+      "album": {
+        "name": "Tinnitus - The Sound of Nature to Helps to Relieve Tinnitus - Yoga Moods Cafe Buddha Del Bar Mar",
+        "url": "https://open.spotify.com/album/2GM7WQnyrTKhQdNKdIkdMS"
+      },
+      "artists": [
+        {
+          "name": "Tinnitus",
+          "url": "https://open.spotify.com/artist/25rb3E5xpJQHqt0RCSlKe9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 30054,
+      "name": "Blue Noise 30sec",
+      "url": "https://open.spotify.com/track/62Kg7WZi8BSaD4nR652Ase"
+    },
+    {
+      "album": {
+        "name": "Tinnitus - The Sound of Nature to Helps to Relieve Tinnitus - Yoga Moods Cafe Buddha Del Bar Mar",
+        "url": "https://open.spotify.com/album/2GM7WQnyrTKhQdNKdIkdMS"
+      },
+      "artists": [
+        {
+          "name": "Tinnitus",
+          "url": "https://open.spotify.com/artist/25rb3E5xpJQHqt0RCSlKe9"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 60043,
+      "name": "Blue Noise 60sec",
+      "url": "https://open.spotify.com/track/7dCrcYHTEafPCbloOrlZ7H"
+    },
+    {
+      "album": {
+        "name": "Blue Noise = Stress Relief",
+        "url": "https://open.spotify.com/album/0QsY3fnk1X11tFX04PgXRr"
+      },
+      "artists": [
+        {
+          "name": "Linus Xio",
+          "url": "https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188056,
+      "name": "Blue Noise = Stress Relief",
+      "url": "https://open.spotify.com/track/4LARgONSHp5tyqqCJmuYIP"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 118414,
+      "name": "Blue Noise Ambiance",
+      "url": "https://open.spotify.com/track/5XcF9xRYEVIZiKtKkViaNC"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Architecture",
+        "url": "https://open.spotify.com/album/2g0bySzL5EHwQwFZmyIvY4"
+      },
+      "artists": [
+        {
+          "name": "The Frequency Shifters",
+          "url": "https://open.spotify.com/artist/7MbxdnkfBJ2STy1K8VzbzJ"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196760,
+      "name": "Blue Noise Architecture",
+      "url": "https://open.spotify.com/track/7u3GWc7xnXci5PV5PLyihN"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 93485,
+      "name": "Blue Noise Background",
+      "url": "https://open.spotify.com/track/3J4n2oeZHXwRZnmU7S22SD"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Brain Boost",
+        "url": "https://open.spotify.com/album/0udWrSc4ZHZqjiQdRVZXiT"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320432,
+      "name": "Blue Noise Brain Boost",
+      "url": "https://open.spotify.com/track/7I5nFKY6GJd1zMci9Db8MD"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Paradise",
+        "url": "https://open.spotify.com/album/4U2KpO5wA12k9MNTF6FdOq"
+      },
+      "artists": [
+        {
+          "name": "Waveframe",
+          "url": "https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402000,
+      "name": "Blue Noise Calling",
+      "url": "https://open.spotify.com/track/1BoBA5AlKmGFZzr7nZznsS"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Chamber",
+        "url": "https://open.spotify.com/album/1DeMrTM6C2CppGQXPBGbzY"
+      },
+      "artists": [
+        {
+          "name": "GLXO",
+          "url": "https://open.spotify.com/artist/727d2Rcbyo1h1tmAfg9BuK"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Blue Noise Chamber",
+      "url": "https://open.spotify.com/track/4qUI5OOK5XisC4Jpn23Wzr"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Deep Sleep Therapy (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/0q2HAKD2NmJFJGhXl8jmBS"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Dreams",
+        "url": "https://open.spotify.com/album/7qk8YFEbcAPvuLStbmOjnZ"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188427,
+      "name": "Blue Noise Dreams",
+      "url": "https://open.spotify.com/track/4MKJ9ClZhhXafnVV1igvjv"
+    },
+    {
+      "album": {
+        "name": "Blue Noise EP 1",
+        "url": "https://open.spotify.com/album/6axMvk1H3LrIFTImtBU9jn"
+      },
+      "artists": [
+        {
+          "name": "White Noise Doctor",
+          "url": "https://open.spotify.com/artist/0Fk48JURmZQal1PvjuG4Ag"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Blue Noise Dreamscape",
+      "url": "https://open.spotify.com/track/6TaK3sJTvSIqGsEtrkcUoF"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Enigma",
+        "url": "https://open.spotify.com/album/1cXgOKvESifAx8dONqG2a3"
+      },
+      "artists": [
+        {
+          "name": "Snoozatronica",
+          "url": "https://open.spotify.com/artist/6Ik1AwpZwK66FCXtsdPaLt"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140500,
+      "name": "Blue Noise Enigma",
+      "url": "https://open.spotify.com/track/6yUw1IL1dHCIMPbmFqyQU7"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Focus Supply",
+        "url": "https://open.spotify.com/album/00N3bHNahZq6CD9onJynKz"
+      },
+      "artists": [
+        {
+          "name": "The Tone-Gens",
+          "url": "https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221281,
+      "name": "Blue Noise Focus Supply",
+      "url": "https://open.spotify.com/track/0zrWgPuXiyiXN3PEPQxWS5"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 142221,
+      "name": "Blue Noise For ADHD (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/5zHseiNJMitditpUoQmpEC"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 139189,
+      "name": "Blue Noise for Babies",
+      "url": "https://open.spotify.com/track/2rPpFOJhMMcZBorGCNYMA9"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise For Baby Sleep (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/0E55qTqvXOj9xTg4x1Sv5Q"
+    },
+    {
+      "album": {
+        "name": "Blue Noise for my Homework",
+        "url": "https://open.spotify.com/album/2WK2YQ55muc1aNztprreAx"
+      },
+      "artists": [
+        {
+          "name": "Freq Molecule",
+          "url": "https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185615,
+      "name": "Blue Noise for my Homework",
+      "url": "https://open.spotify.com/track/2qxo0P26Y4CwsKa2OoLjzP"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise For Sleeping (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/71jMcu6734ENPR8t2fBKFZ"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise For Sleeping Stereo (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/5COgxM0kBLuJcq4KUE7ipw"
+    },
+    {
+      "album": {
+        "name": "Blue Noise: Focus, Sleep, Relax or Tinnitus Relief",
+        "url": "https://open.spotify.com/album/1oHRmncgoTN4pWdNp479ec"
+      },
+      "artists": [
+        {
+          "name": "Loopable Radiance",
+          "url": "https://open.spotify.com/artist/0GfXhZyN3s9wncxoZ8dB9Q"
+        },
+        {
+          "name": "Sleep Sounds HD",
+          "url": "https://open.spotify.com/artist/1q6jGuUdnkrxYF6lybDkyd"
+        },
+        {
+          "name": "White Noise",
+          "url": "https://open.spotify.com/artist/3isyZmZLDZ3ZFFvPHdr2eK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 231112,
+      "name": "Blue Noise for Tinnitus Relief",
+      "url": "https://open.spotify.com/track/5B4RJ9MuNBMoxS1oo5MwiZ"
+    },
+    {
+      "album": {
+        "name": "Blue Noise for Work",
+        "url": "https://open.spotify.com/album/7sTB0ZNVhZAkHqy9BmSPnb"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Parents",
+          "url": "https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178556,
+      "name": "Blue Noise for Work",
+      "url": "https://open.spotify.com/track/3HShZZI17lsvv10kPYCKS2"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Fountain",
+        "url": "https://open.spotify.com/album/48x1vSc7TU4EmRqMdjzMrd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Sol",
+          "url": "https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Blue Noise Fountain",
+      "url": "https://open.spotify.com/track/3GdLxYOVkspD3OgHGsgb3U"
+    },
+    {
+      "album": {
+        "name": "Blue Noise in my Ears",
+        "url": "https://open.spotify.com/album/2EWfa7qvkJEwN5Obe38OUe"
+      },
+      "artists": [
+        {
+          "name": "The SubOceaners",
+          "url": "https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168141,
+      "name": "Blue Noise in my Ears",
+      "url": "https://open.spotify.com/track/4tNa9YanvFtR8epaPosWkp"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Deluxe",
+        "url": "https://open.spotify.com/album/4H47Fb8Kf22fIwSkvwYqMx"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134874,
+      "name": "Blue Noise Lounge",
+      "url": "https://open.spotify.com/track/5lEuAuN6ZKUWpB68USOfV8"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Mindscape",
+        "url": "https://open.spotify.com/album/7oaq3PNuSR87nRMkETiEUM"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311608,
+      "name": "Blue Noise Mindscape",
+      "url": "https://open.spotify.com/track/3zhunp9sjlXgY3pSfFUktA"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Mono Sound For Study Or Sleep (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/3m0ULXlZZqmwzYJ2klaNim"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1000 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/5AHV6y2XvTDYdCwjgSU9ZG"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1100 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/76voFWRPzTfeirbeaJTp6U"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/0n20HaRDAfbUqHKMrce22Q"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1500 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/2WDCnT7u8L9BEmJ3Aa21ug"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1600 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4xwxXoconZ068HiGUNLR8W"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 1700 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/680lDd5TWLPucRGPuPTMKP"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/1m1YTRlYXEhulQ4mVzdB1h"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 2200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/1KiS0RlFggWaErl5kObVt0"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 2400 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/37QCxDGMgQA8vjwEpaMLRp"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 2500 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/1Dy8XVCG0Zv8gLbNRe25wN"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 2900 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/26nFM81fTkaUUipUn6ZpLv"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 300 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/0i5EBCzFLhZHROsrIKFw9O"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 3100 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/0YqjUySgfqoMc50cdck8mF"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 3200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/2azzUJdffNxh4PSor99iWS"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 400 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4Hpt195fugKNlTP10JEzxw"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 4100 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/3x7JmOVEV3TPUpXuL5Lfis"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 4200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/75Akk4G0xtziVh9ULUuzy8"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 4700 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/7BOHFdzZjMCyM5ai3F2JnW"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 4800 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/6jVL194MQ0UOn1vPFZGsn0"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 4900 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/1tz22RSfSrVh97bWJTQvZH"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 500 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4mytV41OuSCb4kWgqCsuA0"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 5100 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/6KHflwUexUWFsNIUMCbXbU"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 5400 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/2YOolVCkEJlDMeyLiJ1p5f"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 5700 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/0pU1PSES5PgsT4JvJx06gS"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 5900 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/7sXVV7YD3qpKkOHsCYTzx5"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 600 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/2Qn2gz3qTaqdLUtcC3Hj8b"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 6300 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/3hUOOJX1zn8N9k8ELxt3R6"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 700 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4vvdUqgK67DxHrgMa1duL5"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 7000 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/23eMo5MPe6toDvjdThF2vL"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 7200 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/5LXjMJZuV2kVXpC4aHz9gg"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 7400 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/6dxqYU9hPxCfc2RBmvV3HP"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 7500 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/5GTdjMurQADThfIl53U9VS"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 7900 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/6ghTny6vkj8mJrrC8PPqSJ"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 800 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/1FOWJUsOLGb0TO2z4n8gE2"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 8700 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4GzWNLeN0MeVueYqzGuKtM"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 900 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/4eXCu4N7j9gFnZnAWWveoV"
+    },
+    {
+      "album": {
+        "name": "Notch Blue Noise: Tinnitus Therapy, Vol. 1",
+        "url": "https://open.spotify.com/album/5i64e9OJMdwiuUXSGafy1M"
+      },
+      "artists": [
+        {
+          "name": "Vaporwave",
+          "url": "https://open.spotify.com/artist/1QGvrft9ST5yqW8J0DImJb"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 300000,
+      "name": "Blue Noise Notched at 9000 Hertz for Tinnitus Therapy",
+      "url": "https://open.spotify.com/track/0n7ybgOX4HGGzcWJvX4o5t"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Oasis",
+        "url": "https://open.spotify.com/album/5KVtkISEE1rYJIKyw5xiCV"
+      },
+      "artists": [
+        {
+          "name": "Freq Molecule",
+          "url": "https://open.spotify.com/artist/0p03OqcToOGwKxzUkJQJkO"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226853,
+      "name": "Blue Noise Oasis",
+      "url": "https://open.spotify.com/track/60AUU38auG0GbyoF57V8Gp"
+    },
+    {
+      "album": {
+        "name": "Swimming In Blue Noise",
+        "url": "https://open.spotify.com/album/0DTX87dhusTrqNK6D6R03k"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roar",
+          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129623,
+      "name": "Blue Noise Ocean",
+      "url": "https://open.spotify.com/track/5gBu3x3JL640H6zsiG1pHb"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Loops",
+        "url": "https://open.spotify.com/album/6M1YKgautMbuVgPbXh4OcZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Noise Therapy",
+          "url": "https://open.spotify.com/artist/4T1DWhxZKiJsuAXiCtmckL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 180000,
+      "name": "Blue Noise Quiet Loop (No Fade)",
+      "url": "https://open.spotify.com/track/4zaS6H37JkD1YsrQEK22lH"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Soothing Waterfall Loop (Repeatable No Fade)",
+      "url": "https://open.spotify.com/track/0OgSrxx98NQ557jBzxISm9"
+    },
+    {
+      "album": {
+        "name": "White Noise and Color Noise for Sleep and Relaxation",
+        "url": "https://open.spotify.com/album/5dVTXeY6XFjnFMHAoHDrO6"
+      },
+      "artists": [
+        {
+          "name": "Tmsoft\u2019s White Noise Sleep Sounds",
+          "url": "https://open.spotify.com/artist/3HykQi5PlnOTB8tjm11KkK"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 1800000,
+      "name": "Blue Noise Sound",
+      "url": "https://open.spotify.com/track/5tz7DoCGxnC6RW0t2b7tkZ"
+    },
+    {
+      "album": {
+        "name": "The Colors of Noise: Audio Soundscapes for Sleep and Relaxation",
+        "url": "https://open.spotify.com/album/6KrbrW7gX8cntKAakbK5Ij"
+      },
+      "artists": [
+        {
+          "name": "White Noise Workshop",
+          "url": "https://open.spotify.com/artist/2Nb3UPrkX8zyfTpHLiPPMI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 132000,
+      "name": "Blue Noise Spread",
+      "url": "https://open.spotify.com/track/6W4rMj9qOUKPh7ESX2K3lS"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Super Light Loop (Repeatable No Fade)",
+      "url": "https://open.spotify.com/track/7K329gZa7Yw6oEAe71AYJd"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Super Light Loop Mono (Repeatable No Fade)",
+      "url": "https://open.spotify.com/track/7G9I44E7Qd5NH33jIafraY"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise Thin Sound (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/7kdU8ERhvi1c9OSSwiVNA8"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Noise To Help Baby Sleep Better (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/6bl9Bvk4g0DQEMdGtt8Or7"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Tranquility",
+        "url": "https://open.spotify.com/album/6kof3XoaRMyowGAWiu7nZe"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195607,
+      "name": "Blue Noise Tranquility",
+      "url": "https://open.spotify.com/track/4S9AIwP2najIeYdMOlxpdr"
+    },
+    {
+      "album": {
+        "name": "Masking Blue Noise",
+        "url": "https://open.spotify.com/album/61cGgXYQJ9H9cVLY9AALxq"
+      },
+      "artists": [
+        {
+          "name": "Crackling ASMR",
+          "url": "https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128873,
+      "name": "Blue Rejuvenating",
+      "url": "https://open.spotify.com/track/5o9GhsAZpQ3tyjZJN55Pbc"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue Static Noise For Focus (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/4bA8ArLAFUxEO69lTTS6Zp"
+    },
+    {
+      "album": {
+        "name": "Ethereal Blue Noise",
+        "url": "https://open.spotify.com/album/2bu51QWBB0jJaS108ye0Zx"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Time",
+          "url": "https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Blue Waves",
+      "url": "https://open.spotify.com/track/3VzAubUg9tph2Ibok0L3iE"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Blue White Noise For Sleeping (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/0zslnbT9CNiCuEbHOcBHmy"
+    },
+    {
+      "album": {
+        "name": "Blue Wind",
+        "url": "https://open.spotify.com/album/5u3ebqTRl83TUnjzg0mY9E"
+      },
+      "artists": [
+        {
+          "name": "White Noise Android",
+          "url": "https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203523,
+      "name": "Blue Wind",
+      "url": "https://open.spotify.com/track/1VY8kBjqvygkCftITb0kwM"
+    },
+    {
+      "album": {
+        "name": "Blue Wind Noise",
+        "url": "https://open.spotify.com/album/0WCEfZdTaT4gYHomK5oIvD"
+      },
+      "artists": [
+        {
+          "name": "Aeoluzzz",
+          "url": "https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195115,
+      "name": "Blue Wind Noise",
+      "url": "https://open.spotify.com/track/3hCD4TBSJF91KkdPQ4nQ2E"
+    },
+    {
+      "album": {
+        "name": "Blue Winds",
+        "url": "https://open.spotify.com/album/7pN3sI0Flz4dIHf12RpmrH"
+      },
+      "artists": [
+        {
+          "name": "Sky Travis",
+          "url": "https://open.spotify.com/artist/5IkHDfUNRiqyATjgbDHuGy"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Blue Winds",
+      "url": "https://open.spotify.com/track/0Ajiv63ZzqVEoIx7EZTwcR"
+    },
+    {
+      "album": {
+        "name": "Puffs of Blue",
+        "url": "https://open.spotify.com/album/5H0G8OwdTB3Nzb0yiLb64q"
+      },
+      "artists": [
+        {
+          "name": "Puffs Of Bliss",
+          "url": "https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185750,
+      "name": "Blue World",
+      "url": "https://open.spotify.com/track/5TKEDTBcGAJZk0m56K5GIQ"
+    },
+    {
+      "album": {
+        "name": "Hawaii Waterfalls",
+        "url": "https://open.spotify.com/album/06FL1OBJU19se5afKhXTLd"
+      },
+      "artists": [
+        {
+          "name": "Water Delicious",
+          "url": "https://open.spotify.com/artist/4zkUo3pQnquqLXUzZqrxEO"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 136698,
+      "name": "Bright Waterfall",
+      "url": "https://open.spotify.com/track/0uPc7gpCCNSRRoVab7lTeB"
+    },
+    {
+      "album": {
+        "name": "Clarity Blue Noise",
+        "url": "https://open.spotify.com/album/28wOk9QZH6RdM0D0txYHh3"
+      },
+      "artists": [
+        {
+          "name": "Dream Storms",
+          "url": "https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318946,
+      "name": "Clarity Blue Noise",
+      "url": "https://open.spotify.com/track/5NePnkBMW1nfGQxQkpvfRp"
+    },
+    {
+      "album": {
+        "name": "Best Blue Noise For Sleep Or Focus (Loopable)",
+        "url": "https://open.spotify.com/album/5PlxqRTAx1o8Nlcd4ZyQct"
+      },
+      "artists": [
+        {
+          "name": "Dream Supplier",
+          "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
+        },
+        {
+          "name": "Baby Sleeps",
+          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
+        },
+        {
+          "name": "Background White Noise",
+          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 142221,
+      "name": "Clean Blue Noise (Loopable No Fade)",
+      "url": "https://open.spotify.com/track/6pQYm2rzDmWDJyeL9SAtHA"
+    },
+    {
+      "album": {
+        "name": "Clear Blue Noise Soundscapes",
+        "url": "https://open.spotify.com/album/30mMdCh4rsAJTuIuvGRtK5"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Clear Blue Noise",
+      "url": "https://open.spotify.com/track/2CJh2URJhX6Tgvg0GaIoTd"
+    },
+    {
+      "album": {
+        "name": "Clouds of Blue Noise",
+        "url": "https://open.spotify.com/album/0iDAUkNQYS7Qan29mlVye9"
+      },
+      "artists": [
+        {
+          "name": "Noise Chillantro",
+          "url": "https://open.spotify.com/artist/5on19ok7di3nj6e4OEh5PU"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205305,
+      "name": "Clouds of Blue Noise",
+      "url": "https://open.spotify.com/track/2a8s3JpgbYFBhMqkVYYTzs"
+    },
+    {
+      "album": {
+        "name": "Ondas de Sonido Azul",
+        "url": "https://open.spotify.com/album/2lLPo0vw1h2iaM6eB86Xlg"
+      },
+      "artists": [
+        {
+          "name": "Ardeon",
+          "url": "https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "Colores Celestiales",
+      "url": "https://open.spotify.com/track/25RWfdxRHvMpvP070Jk7Vy"
+    },
+    {
+      "album": {
+        "name": "Puffs of Blue",
+        "url": "https://open.spotify.com/album/5H0G8OwdTB3Nzb0yiLb64q"
+      },
+      "artists": [
+        {
+          "name": "Puffs Of Bliss",
+          "url": "https://open.spotify.com/artist/3M9JjbG3CA2hZviKCseBVq"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Cozy Blue",
+      "url": "https://open.spotify.com/track/6BnIArGRJco0pSYxGWTYW7"
+    },
+    {
+      "album": {
+        "name": "Crisp Blue Noise Focus",
+        "url": "https://open.spotify.com/album/2WY0c9O9bOIaq3YinSqjPX"
+      },
+      "artists": [
+        {
+          "name": "Valdervande",
+          "url": "https://open.spotify.com/artist/5Opw5neCmYFjyVFuUE0lRX"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307243,
+      "name": "Crisp Blue Noise Focus",
+      "url": "https://open.spotify.com/track/5ed13gi0S6QJsvXlfKdGVK"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Paradise",
+        "url": "https://open.spotify.com/album/4U2KpO5wA12k9MNTF6FdOq"
+      },
+      "artists": [
+        {
+          "name": "Waveframe",
+          "url": "https://open.spotify.com/artist/6qllkUXzVK9b2C1HRVsp2T"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131500,
+      "name": "Cubic - Blue Noise",
+      "url": "https://open.spotify.com/track/102V3ZRp7lPwQvIOs5Sd4F"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 143343,
+      "name": "Deep Blue Noise for Studying",
+      "url": "https://open.spotify.com/track/2AlemJmuiR0Rmls9jZIutn"
+    },
+    {
+      "album": {
+        "name": "Zen of Blue Noise",
+        "url": "https://open.spotify.com/album/0TS0IVhmXvgJ6d2eqACYBU"
+      },
+      "artists": [
+        {
+          "name": "Zendium",
+          "url": "https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Dreamtime (Blue Noise)",
+      "url": "https://open.spotify.com/track/3q1ykgdAXTAvLeZvIZcsYU"
+    },
+    {
+      "album": {
+        "name": "Drowning out the Noise with Blue",
+        "url": "https://open.spotify.com/album/34GKzd6D3FCpzOsBwfsg8a"
+      },
+      "artists": [
+        {
+          "name": "ZNoize",
+          "url": "https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175212,
+      "name": "Drowning out the Noise with Blue",
+      "url": "https://open.spotify.com/track/7MqysZOzPq4PExqWsQRm3I"
+    },
+    {
+      "album": {
+        "name": "Electric Blue Noise",
+        "url": "https://open.spotify.com/album/0mfhV63D06cSRXKi5ulS71"
+      },
+      "artists": [
+        {
+          "name": "Drone-Dax",
+          "url": "https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148377,
+      "name": "Electric Blue",
+      "url": "https://open.spotify.com/track/6XmY2YvWZBSNhlBEBn5RbN"
+    },
+    {
+      "album": {
+        "name": "Concentrate Blue Noise",
+        "url": "https://open.spotify.com/album/1OzpgtmsSNysYIxuTrnJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143624,
+      "name": "Essential Blue Noise",
+      "url": "https://open.spotify.com/track/3CsvoveJalzAwMfT2um36p"
+    },
+    {
+      "album": {
+        "name": "Etheral Azure Noise",
+        "url": "https://open.spotify.com/album/0M5hjHzJeL1zPnobKv7kWl"
+      },
+      "artists": [
+        {
+          "name": "Dream Storms",
+          "url": "https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304364,
+      "name": "Etheral Azure Noise",
+      "url": "https://open.spotify.com/track/3uCBtykil1AKo5Bseh8VdG"
+    },
+    {
+      "album": {
+        "name": "Ethereal Blue Noise",
+        "url": "https://open.spotify.com/album/55IMMLmNy7IWMESXGkDj8f"
+      },
+      "artists": [
+        {
+          "name": "Fortuna",
+          "url": "https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193212,
+      "name": "Ethereal Blue Noise",
+      "url": "https://open.spotify.com/track/1unau4iVK8IHhCvIWg1wqu"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Deluxe",
+        "url": "https://open.spotify.com/album/4H47Fb8Kf22fIwSkvwYqMx"
+      },
+      "artists": [
+        {
+          "name": "Audio Hall",
+          "url": "https://open.spotify.com/artist/2oE6i58qqic0JnyKf7rqtI"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134750,
+      "name": "Exquisite Blue Noise",
+      "url": "https://open.spotify.com/track/10QZlCeuMz4UPU7WdXkKeT"
+    },
+    {
+      "album": {
+        "name": "Far Away Noise",
+        "url": "https://open.spotify.com/album/2FThs614ws4cA2gicXjYLP"
+      },
+      "artists": [
+        {
+          "name": "Tech Sleep",
+          "url": "https://open.spotify.com/artist/3yHChfIskI5mp08P6Ukgoy"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 137818,
+      "name": "Far Away Noise",
+      "url": "https://open.spotify.com/track/1ktq8Mf5OIW6by5ykv8ZpC"
+    },
+    {
+      "album": {
+        "name": "Flows Of Noise",
+        "url": "https://open.spotify.com/album/133VHTHxhwO9C2iES9HpwT"
+      },
+      "artists": [
+        {
+          "name": "Sleep Recorders",
+          "url": "https://open.spotify.com/artist/7h5XfS9TXa3VZEoiVHRheY"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 137439,
+      "name": "Flows Of Noise",
+      "url": "https://open.spotify.com/track/5MeTy3FL0YraE8eVvussoy"
+    },
+    {
+      "album": {
+        "name": "Sonorous Blue",
+        "url": "https://open.spotify.com/album/6fb4aTJ4aNbQOYEpvfWtfx"
+      },
+      "artists": [
+        {
+          "name": "Blazerod",
+          "url": "https://open.spotify.com/artist/50z9YbdAXVbmTQjMOZOHDS"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173250,
+      "name": "Focus Azure",
+      "url": "https://open.spotify.com/track/38q0ujMKDmCPGlNn7tOrRa"
+    },
+    {
+      "album": {
+        "name": "Concentrate Blue Noise",
+        "url": "https://open.spotify.com/album/1OzpgtmsSNysYIxuTrnJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Contented",
+          "url": "https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140750,
+      "name": "Focused Blue Noise",
+      "url": "https://open.spotify.com/track/4Hp0gNV0LnfVxol3tTUg5Y"
+    },
+    {
+      "album": {
+        "name": "Gentle Blue Noise",
+        "url": "https://open.spotify.com/album/2y9Iq0xx5RqRuNNexROOe9"
+      },
+      "artists": [
+        {
+          "name": "Aileron",
+          "url": "https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166750,
+      "name": "Gentle Blue Noise",
+      "url": "https://open.spotify.com/track/6bBfUCnNDGsFr9NBqY8w53"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Shores",
+        "url": "https://open.spotify.com/album/1YKaDBawNnAiFP3ugCd7DX"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Sounds",
+          "url": "https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Gentle Blue Noise",
+      "url": "https://open.spotify.com/track/3RttIRWuHEiKeOXbRwnSAK"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Cloudz",
+        "url": "https://open.spotify.com/album/6A7vZl6p7YbsAu8wHt3yAE"
+      },
+      "artists": [
+        {
+          "name": "Sleep Liquids",
+          "url": "https://open.spotify.com/artist/5V9IfR9NEcllAjfEif5TBC"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131874,
+      "name": "Graceful Blue",
+      "url": "https://open.spotify.com/track/3NBIrTsWvMwbzwLFW2a3vF"
+    },
+    {
+      "album": {
+        "name": "Natura Blue",
+        "url": "https://open.spotify.com/album/4RauYiLXVw1M6gssmMRpFP"
+      },
+      "artists": [
+        {
+          "name": "Natura Ferox",
+          "url": "https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185250,
+      "name": "Healing Blue Noise",
+      "url": "https://open.spotify.com/track/0B79ZKSuylMgF6u4SVN42q"
+    },
+    {
+      "album": {
+        "name": "Dozy Blue",
+        "url": "https://open.spotify.com/album/6MlcnEMhkCNPbU5AVOpKnL"
+      },
+      "artists": [
+        {
+          "name": "Evolysium",
+          "url": "https://open.spotify.com/artist/2HpNxW7zoPDIEnDC0g9y25"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169750,
+      "name": "Heavenly Blue",
+      "url": "https://open.spotify.com/track/5UzI55dwuhyDlzJTLlWBii"
+    },
+    {
+      "album": {
+        "name": "Oceanic Blue Noise",
+        "url": "https://open.spotify.com/album/6SKxPt1dSoMMV4jeHkqgkZ"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "High Blue Noise",
+      "url": "https://open.spotify.com/track/5G4ZO1xMatAItsdHkyuBWy"
+    },
+    {
+      "album": {
+        "name": "Blue Tonality",
+        "url": "https://open.spotify.com/album/7iN8iXD2irtHfCB8lydHSU"
+      },
+      "artists": [
+        {
+          "name": "Synthetic Architect",
+          "url": "https://open.spotify.com/artist/7CUcdQhE3WLGPzn3sEJNd5"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "High Freq. Blue Noise",
+      "url": "https://open.spotify.com/track/5ocznPFkaJcIdZahTgTokZ"
+    },
+    {
+      "album": {
+        "name": "Azure Crystal\u00e9",
+        "url": "https://open.spotify.com/album/2nNadh7a53SrnMo0KJQvWJ"
+      },
+      "artists": [
+        {
+          "name": "Mentatranque",
+          "url": "https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169250,
+      "name": "High Winds (Blue Noise)",
+      "url": "https://open.spotify.com/track/4H6BHdQCl2lP2SKcvsxSet"
+    },
+    {
+      "album": {
+        "name": "Electric Blue Noise",
+        "url": "https://open.spotify.com/album/0mfhV63D06cSRXKi5ulS71"
+      },
+      "artists": [
+        {
+          "name": "Drone-Dax",
+          "url": "https://open.spotify.com/artist/1aNjBrjn3QJrMcfE6jcwdZ"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Hollow Blue Noise",
+      "url": "https://open.spotify.com/track/2477pffoeb13qXJ5fli25t"
+    },
+    {
+      "album": {
+        "name": "Scandi Noise Vol. 3",
+        "url": "https://open.spotify.com/album/7zZQDziQJyqEW34WVF8yOC"
+      },
+      "artists": [
+        {
+          "name": "Scandinavian White Noise",
+          "url": "https://open.spotify.com/artist/2XglYsS1H5040yOMHXFhFG"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 143990,
+      "name": "Hora De Acostarse",
+      "url": "https://open.spotify.com/track/4OvEGQluVpKIVfpTR8C4Ef"
+    },
+    {
+      "album": {
+        "name": "Masking Blue Noise",
+        "url": "https://open.spotify.com/album/61cGgXYQJ9H9cVLY9AALxq"
+      },
+      "artists": [
+        {
+          "name": "Crackling ASMR",
+          "url": "https://open.spotify.com/artist/2I5u2mH0DBw7gO1nCAQ6Pe"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129843,
+      "name": "Hushed Blue",
+      "url": "https://open.spotify.com/track/74m2nzYWrZjdklbRDLeXnZ"
+    },
+    {
+      "album": {
+        "name": "Clear Blue Noise Soundscapes",
+        "url": "https://open.spotify.com/album/30mMdCh4rsAJTuIuvGRtK5"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Icebergs Blue Noise",
+      "url": "https://open.spotify.com/track/1PuK81lfi4z5LyX4GlKrsQ"
+    },
+    {
+      "album": {
+        "name": "In My Blue Noise Cabin",
+        "url": "https://open.spotify.com/album/4onpccpTtloWWzlBQ4VDMc"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Parents",
+          "url": "https://open.spotify.com/artist/1vMyDLSxieYUS3k7sehkvj"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177653,
+      "name": "In My Blue Noise Cabin",
+      "url": "https://open.spotify.com/track/1NgXpaP4tFJHoU9AlPrnIM"
+    },
+    {
+      "album": {
+        "name": "In the Blue",
+        "url": "https://open.spotify.com/album/5YgMA9Fjfjd7acrDTie7eB"
+      },
+      "artists": [
+        {
+          "name": "Likko Sol",
+          "url": "https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "In the Blue",
+      "url": "https://open.spotify.com/track/0zkTz4VxwDwTpGzNtUlaDF"
+    },
+    {
+      "album": {
+        "name": "Kinda Blue Noise",
+        "url": "https://open.spotify.com/album/60pWRZgnfnQvZze6Xu8dhT"
+      },
+      "artists": [
+        {
+          "name": "Sweet Sol",
+          "url": "https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211993,
+      "name": "Kinda Blue Noise",
+      "url": "https://open.spotify.com/track/6JjN36d3743SQZZ9nlhySt"
+    },
+    {
+      "album": {
+        "name": "Loopable Sleep Noise for Charity",
+        "url": "https://open.spotify.com/album/3AgWfNRRW9wiRA3FvMqoFM"
+      },
+      "artists": [
+        {
+          "name": "Soporific Sound Sanctum",
+          "url": "https://open.spotify.com/artist/5k4JFbgQpcMHnh2Sxh2oAs"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 122000,
+      "name": "Loopable Blue Noise for Charity",
+      "url": "https://open.spotify.com/track/4RfBZvmR6TSivWC3olxa6F"
+    },
+    {
+      "album": {
+        "name": "Marine Blue Noise",
+        "url": "https://open.spotify.com/album/3XUorlXyWO7ZlMOhnlUn4O"
+      },
+      "artists": [
+        {
+          "name": "Zen Maestro",
+          "url": "https://open.spotify.com/artist/3JyVeZAzOZdJ2dyl5Qd1Wv"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312816,
+      "name": "Marine Blue Noise",
+      "url": "https://open.spotify.com/track/74FIxncHya1nLGefZu2iWG"
+    },
+    {
+      "album": {
+        "name": "Masking Blue Noise Winds",
+        "url": "https://open.spotify.com/album/0h8Fy3W44tgC0jx9MaS5z0"
+      },
+      "artists": [
+        {
+          "name": "ULXI",
+          "url": "https://open.spotify.com/artist/4BEynIaDkgnXy4tS0v0DQU"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206048,
+      "name": "Masking Blue Noise Winds",
+      "url": "https://open.spotify.com/track/0ykKnJnS8xLDAUL22n67k8"
+    },
+    {
+      "album": {
+        "name": "Azure Voyage",
+        "url": "https://open.spotify.com/album/0V6N5mAo9mHk9V9gukhRS3"
+      },
+      "artists": [
+        {
+          "name": "Trambiendo",
+          "url": "https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Mellow Blue Noise",
+      "url": "https://open.spotify.com/track/7cwvrCQLUXRniIoEPzYxXh"
+    },
+    {
+      "album": {
+        "name": "Oceanic Blue Noise",
+        "url": "https://open.spotify.com/album/6SKxPt1dSoMMV4jeHkqgkZ"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Mists of Blue Noise",
+      "url": "https://open.spotify.com/track/6dWav9C3cT3GN1kbbgGSMy"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Tranquility",
+        "url": "https://open.spotify.com/album/6kof3XoaRMyowGAWiu7nZe"
+      },
+      "artists": [
+        {
+          "name": "Underwater Sound",
+          "url": "https://open.spotify.com/artist/2KJNQj4A21Hd22sjTEpTiq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202134,
+      "name": "Misty Air Blue Noise",
+      "url": "https://open.spotify.com/track/6lnhiMdUW8hCu4Lq3Suadt"
+    },
+    {
+      "album": {
+        "name": "Ethereal Blue Noise",
+        "url": "https://open.spotify.com/album/55IMMLmNy7IWMESXGkDj8f"
+      },
+      "artists": [
+        {
+          "name": "Fortuna",
+          "url": "https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206587,
+      "name": "Mystic Blue Noise",
+      "url": "https://open.spotify.com/track/16G7J5cV8huajKCvYaakxm"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 139189,
+      "name": "Natural Blue Noise",
+      "url": "https://open.spotify.com/track/3AHFW0JLqGT2kDlJMrmpUS"
+    },
+    {
+      "album": {
+        "name": "Ocean Blue Echo",
+        "url": "https://open.spotify.com/album/4REitvGqtrLoP0m2si2G52"
+      },
+      "artists": [
+        {
+          "name": "Ozeanus",
+          "url": "https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301856,
+      "name": "Ocean Blue Echo",
+      "url": "https://open.spotify.com/track/42Q4tH1TjhEPnQb4Ca9oQU"
+    },
+    {
+      "album": {
+        "name": "Ondas de Sonido Azul",
+        "url": "https://open.spotify.com/album/2lLPo0vw1h2iaM6eB86Xlg"
+      },
+      "artists": [
+        {
+          "name": "Ardeon",
+          "url": "https://open.spotify.com/artist/7IG0fEAR9mz2PBckWjAfS8"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170750,
+      "name": "Ondas de Sonido Azul",
+      "url": "https://open.spotify.com/track/7vT3zWtzCz3j8H7PPnRFHX"
+    },
+    {
+      "album": {
+        "name": "Blissful Blue Noise",
+        "url": "https://open.spotify.com/album/026pqMVmUDdbisorPEs8rA"
+      },
+      "artists": [
+        {
+          "name": "Fluffy Duffy",
+          "url": "https://open.spotify.com/artist/5Zar2ecaQrP2jeYjnjNk9p"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180750,
+      "name": "Particles Azure",
+      "url": "https://open.spotify.com/track/43AS7HYRmtDX4LsjWQQ1Fq"
+    },
+    {
+      "album": {
+        "name": "Ethereal Blue Noise",
+        "url": "https://open.spotify.com/album/2bu51QWBB0jJaS108ye0Zx"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Time",
+          "url": "https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190250,
+      "name": "Peaceful Blue",
+      "url": "https://open.spotify.com/track/0Y7ekwUaxlRIGOXYNZncJQ"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Loops",
+        "url": "https://open.spotify.com/album/6M1YKgautMbuVgPbXh4OcZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Noise Therapy",
+          "url": "https://open.spotify.com/artist/4T1DWhxZKiJsuAXiCtmckL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 180000,
+      "name": "Pure Blue Noise Loop (No Fade)",
+      "url": "https://open.spotify.com/track/5HHjiarat6KwAruN2kUw7L"
+    },
+    {
+      "album": {
+        "name": "Azure Voyage",
+        "url": "https://open.spotify.com/album/0V6N5mAo9mHk9V9gukhRS3"
+      },
+      "artists": [
+        {
+          "name": "Trambiendo",
+          "url": "https://open.spotify.com/artist/6qZ7HA1esDKoWoUeyFtQsV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Relaxing Blues",
+      "url": "https://open.spotify.com/track/1gwokQtfe5Ebpm58Nne0IZ"
+    },
+    {
+      "album": {
+        "name": "Oceanic Blue Noise",
+        "url": "https://open.spotify.com/album/6SKxPt1dSoMMV4jeHkqgkZ"
+      },
+      "artists": [
+        {
+          "name": "Sound of Muses",
+          "url": "https://open.spotify.com/artist/5l9VrNt92FCVro9qeWKBwi"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222257,
+      "name": "Rippling Blue Noise",
+      "url": "https://open.spotify.com/track/1T7wABNKCHkCOE8O2u9XmH"
+    },
+    {
+      "album": {
+        "name": "Waterfalls in Winter",
+        "url": "https://open.spotify.com/album/4tOaz7j4Juvd82I4qa29Rz"
+      },
+      "artists": [
+        {
+          "name": "Nature Field Recordings",
+          "url": "https://open.spotify.com/artist/3DTgZfug2RpZinxGiFR5FD"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 202606,
+      "name": "Rumbling Waterfall",
+      "url": "https://open.spotify.com/track/2ZJNFbQikkhOn0Yod0dD0M"
+    },
+    {
+      "album": {
+        "name": "Sapphire Blue Noise",
+        "url": "https://open.spotify.com/album/4WZQOU8BbWjmpARJ2a3ku7"
+      },
+      "artists": [
+        {
+          "name": "The SubOceaners",
+          "url": "https://open.spotify.com/artist/5JGfWE8Ws1aBP8283nSy8R"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308358,
+      "name": "Sapphire Blue Noise",
+      "url": "https://open.spotify.com/track/6ecx7AIB1idbuu4iH3JBFx"
+    },
+    {
+      "album": {
+        "name": "Clear Blue Noise Soundscapes",
+        "url": "https://open.spotify.com/album/30mMdCh4rsAJTuIuvGRtK5"
+      },
+      "artists": [
+        {
+          "name": "Inlet Noise",
+          "url": "https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Sapphire Cascade Blue Noise",
+      "url": "https://open.spotify.com/track/5VD5XoT2bR0MEL5qLbKXEN"
+    },
+    {
+      "album": {
+        "name": "Winds of Azure",
+        "url": "https://open.spotify.com/album/0XSCFgUGO6CJxRgPmDGQr1"
+      },
+      "artists": [
+        {
+          "name": "Luke Andersson",
+          "url": "https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188500,
+      "name": "Serene Blue Noise",
+      "url": "https://open.spotify.com/track/4UC3YUVAjDwGjEUNO56I0q"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Shores",
+        "url": "https://open.spotify.com/album/1YKaDBawNnAiFP3ugCd7DX"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Sounds",
+          "url": "https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Serene Blue Noise",
+      "url": "https://open.spotify.com/track/61eAfNL0kySwHy6FnWRIvH"
+    },
+    {
+      "album": {
+        "name": "Gentle Blue Noise",
+        "url": "https://open.spotify.com/album/2y9Iq0xx5RqRuNNexROOe9"
+      },
+      "artists": [
+        {
+          "name": "Aileron",
+          "url": "https://open.spotify.com/artist/2KETNse3N25ZwsHhq2iQnt"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "Shimmering Blue Noise",
+      "url": "https://open.spotify.com/track/2rMNp1UyRFQbSocmr9kmgr"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Shores",
+        "url": "https://open.spotify.com/album/1YKaDBawNnAiFP3ugCd7DX"
+      },
+      "artists": [
+        {
+          "name": "Shoreline Sounds",
+          "url": "https://open.spotify.com/artist/1AHEZC4lubUe98hmgYLxqw"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217323,
+      "name": "Shimmers of Blue Noise",
+      "url": "https://open.spotify.com/track/4rWcFHqcZMtM79WhhMW75F"
+    },
+    {
+      "album": {
+        "name": "Sky Serenade",
+        "url": "https://open.spotify.com/album/3s6tpfvFoaWVxO2Zuf7Zfj"
+      },
+      "artists": [
+        {
+          "name": "Ozeanus",
+          "url": "https://open.spotify.com/artist/6F1PK9RhhsAJbkt9g0VnYB"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316995,
+      "name": "Sky Serenade",
+      "url": "https://open.spotify.com/track/3PdE10T4RRBTpd5MK5mpzW"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Enigma",
+        "url": "https://open.spotify.com/album/1cXgOKvESifAx8dONqG2a3"
+      },
+      "artists": [
+        {
+          "name": "Snoozatronica",
+          "url": "https://open.spotify.com/artist/6Ik1AwpZwK66FCXtsdPaLt"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143500,
+      "name": "Snoozy Blue Noise",
+      "url": "https://open.spotify.com/track/66UZahRiWncM6LueGkQBM0"
+    },
+    {
+      "album": {
+        "name": "Natura Blue",
+        "url": "https://open.spotify.com/album/4RauYiLXVw1M6gssmMRpFP"
+      },
+      "artists": [
+        {
+          "name": "Natura Ferox",
+          "url": "https://open.spotify.com/artist/4pxwvJBcr1c7RBwb1sZ2pH"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Soft Blue Waves",
+      "url": "https://open.spotify.com/track/1WhqyrkTmgVjVx36LkWY73"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 145421,
+      "name": "Softened Blue Noise",
+      "url": "https://open.spotify.com/track/4JBDaNYB7caQUwL8FD8uHg"
+    },
+    {
+      "album": {
+        "name": "Sonic Study Blue",
+        "url": "https://open.spotify.com/album/5sungsdt2k6EMhYMfyGYoK"
+      },
+      "artists": [
+        {
+          "name": "Aeoluzzz",
+          "url": "https://open.spotify.com/artist/0aWv3c8ziN4LaKzIjHwb9V"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315138,
+      "name": "Sonic Study Blue",
+      "url": "https://open.spotify.com/track/1y05fimYF6VY4zFqQot3dW"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/0r42V3JecTdbFuWyCeqQaO"
+      },
+      "artists": [
+        {
+          "name": "White Noise Radiance",
+          "url": "https://open.spotify.com/artist/0QUBaF6Rtta4TTmxYYfzux"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 137377,
+      "name": "Soothing Blue Noise",
+      "url": "https://open.spotify.com/track/0yHTk671w4Y3V7PBk5jIZ8"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Loops",
+        "url": "https://open.spotify.com/album/6M1YKgautMbuVgPbXh4OcZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Noise Therapy",
+          "url": "https://open.spotify.com/artist/4T1DWhxZKiJsuAXiCtmckL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 180000,
+      "name": "Soothing Blue Noise Loop (No Fade)",
+      "url": "https://open.spotify.com/track/2dPKUed7VtKGfNOKYTZ9vW"
+    },
+    {
+      "album": {
+        "name": "Waterfall Sleep Noises",
+        "url": "https://open.spotify.com/album/6cyRxitvNynnQFZqkZLNuE"
+      },
+      "artists": [
+        {
+          "name": "Noise and Nature",
+          "url": "https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 199537,
+      "name": "Soothing Waterfall Sound",
+      "url": "https://open.spotify.com/track/6pgcEyzxF17mxQ6PYflb29"
+    },
+    {
+      "album": {
+        "name": "Azure Crystal\u00e9",
+        "url": "https://open.spotify.com/album/2nNadh7a53SrnMo0KJQvWJ"
+      },
+      "artists": [
+        {
+          "name": "Mentatranque",
+          "url": "https://open.spotify.com/artist/3bw6drBJri5MxagDKwjRr7"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Soulful Blue",
+      "url": "https://open.spotify.com/track/544wvifWdpnVQEhmsGgd0N"
+    },
+    {
+      "album": {
+        "name": "Waterfalling",
+        "url": "https://open.spotify.com/album/7qA6Aqaktt9X2qw9wbohuI"
+      },
+      "artists": [
+        {
+          "name": "Waterfalling",
+          "url": "https://open.spotify.com/artist/3e0rJbfOEVSWe77JRZWGXd"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 255094,
+      "name": "Steady Waterfall",
+      "url": "https://open.spotify.com/track/1w4LsiXcSP9JyEeHPNS9Fk"
+    },
+    {
+      "album": {
+        "name": "Blue Noise",
+        "url": "https://open.spotify.com/album/3JIrA3v6v7qpjNpfzc9Dd2"
+      },
+      "artists": [
+        {
+          "name": "Binaural Beats Radiance",
+          "url": "https://open.spotify.com/artist/7qNc1iaKYwKECfn3MdoJdE"
+        },
+        {
+          "name": "Binaural Beats",
+          "url": "https://open.spotify.com/artist/5syda4ik2slStG8YZkaC9c"
+        },
+        {
+          "name": "Deep Sleep Relaxation",
+          "url": "https://open.spotify.com/artist/2MFHjZApmAbHQxL2oWr8Tl"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 95562,
+      "name": "Super Deep Blue Noise",
+      "url": "https://open.spotify.com/track/3g4yv94HbQDE7O8DBMv5ih"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Loops",
+        "url": "https://open.spotify.com/album/6M1YKgautMbuVgPbXh4OcZ"
+      },
+      "artists": [
+        {
+          "name": "Blue Noise Therapy",
+          "url": "https://open.spotify.com/artist/4T1DWhxZKiJsuAXiCtmckL"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-21",
+      "duration_ms": 180000,
+      "name": "Super Light Blue Noise Loop (No Fade)",
+      "url": "https://open.spotify.com/track/4dZvkOdXXcpbdnLyJBcmZN"
+    },
+    {
+      "album": {
+        "name": "Swimming In Blue Noise",
+        "url": "https://open.spotify.com/album/0DTX87dhusTrqNK6D6R03k"
+      },
+      "artists": [
+        {
+          "name": "Ocean Roar",
+          "url": "https://open.spotify.com/artist/0o0rFNhdMAzctv0rVhzDlP"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "Swimming In Blue Noise",
+      "url": "https://open.spotify.com/track/6MohG3gOvYbwcnyDznkfTq"
+    },
+    {
+      "album": {
+        "name": "River & Waterfall Flow",
+        "url": "https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR"
+      },
+      "artists": [
+        {
+          "name": "Weather and Nature Recordings",
+          "url": "https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 200551,
+      "name": "Waterfall Flow",
+      "url": "https://open.spotify.com/track/3vutaIPu6s4ylCPr5rwvAB"
+    },
+    {
+      "album": {
+        "name": "Waterfall in the distance",
+        "url": "https://open.spotify.com/album/2on28DnTVwyWX5gfG3G4dy"
+      },
+      "artists": [
+        {
+          "name": "Waterfall in the distance",
+          "url": "https://open.spotify.com/artist/4lcG2wz9oZuu1VdEcBG6Nj"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-07",
+      "duration_ms": 184784,
+      "name": "Waterfall for Deep Sleep",
+      "url": "https://open.spotify.com/track/0F56cp7Le8p7iPydxUeTlJ"
+    },
+    {
+      "album": {
+        "name": "Blue Noise Trio",
+        "url": "https://open.spotify.com/album/6irV58M29tzZ7S8uV66Yiy"
+      },
+      "artists": [
+        {
+          "name": "Mantratown",
+          "url": "https://open.spotify.com/artist/2OWl1TNy7Drnvhb2Gso2CV"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135512,
+      "name": "Wide Blue Noise",
+      "url": "https://open.spotify.com/track/4Ov2HJRuwqnZ7eqpPUwmdA"
+    },
+    {
+      "album": {
+        "name": "Winds of Azure",
+        "url": "https://open.spotify.com/album/0XSCFgUGO6CJxRgPmDGQr1"
+      },
+      "artists": [
+        {
+          "name": "Luke Andersson",
+          "url": "https://open.spotify.com/artist/5aFhL9biVJqgXPKDvQyTFc"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Winds of Azure",
+      "url": "https://open.spotify.com/track/0sIjjHthxJBjnQWllYVaNs"
+    },
+    {
+      "album": {
+        "name": "Winds of Soldeu",
+        "url": "https://open.spotify.com/album/15WzO2R6ArjHeMbhv0Rnp2"
+      },
+      "artists": [
+        {
+          "name": "The Tone-Gens",
+          "url": "https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq"
+        }
+      ],
+      "date_added": "2023-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188215,
+      "name": "Winds of Soldeu",
+      "url": "https://open.spotify.com/track/2ukxaSFwrMHAv040UsB6S5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX65QClPuOQgF"
 }

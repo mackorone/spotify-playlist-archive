@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-365 songs - 22 hr 35 min
+366 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Lonely \- Mahogany Sessions](https://open.spotify.com/track/1WVpCn4WGCrgGXhhtyUzyM) | [Violet Skies](https://open.spotify.com/artist/56w356OnIbrmFsOFcx3NQN), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Lonely \(Mahogany Sessions\)](https://open.spotify.com/album/3RGECSD1Nw11dNnTMmdI2V) | 3:37 | 2021-12-06 | 2022-07-28 |
 | [Lonely Together](https://open.spotify.com/track/1ophi6jCPs6FkGgUFYmhfQ) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Lonely Together](https://open.spotify.com/album/4bhWav4766XFsvqHVOSLMw) | 3:07 | 2021-12-06 | 2022-07-29 |
 | [Lonely Together](https://open.spotify.com/track/6AvcWp4oTkqj4ZLqf3zxPh) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Lonely Together](https://open.spotify.com/album/7qb9g34jZgUlhLPTXKd4CJ) | 3:07 | 2022-10-28 | 2022-11-13 |
+| [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 | 2024-01-05 |  |
 | [Lose You Too](https://open.spotify.com/track/5JkUNbYSn06ghlmu0NRUMf) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Lose You Too](https://open.spotify.com/album/5Y5EDuf24u2yA488SKJiBW) | 3:06 | 2022-04-29 | 2022-12-20 |
 | [Losing It Over You \(feat\. Ayme\)](https://open.spotify.com/track/6TfbZ9vy5zqBEDLmqwH9sp) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Ayme](https://open.spotify.com/artist/3ij1FcXAaIkz7ulZ8Ud4kd) | [One in a Million](https://open.spotify.com/album/4GDE5FdlgBD3FE4A454YNz) | 3:27 | 2021-12-06 | 2022-07-27 |
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-18 | 2022-07-29 |
@@ -219,7 +220,7 @@
 | [Never Be Alone](https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:35 | 2022-07-08 |  |
 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 | 2021-12-06 | 2022-07-29 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-03-31 | 2023-07-18 |
-| [Never Get Over You](https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Never Get Over You](https://open.spotify.com/album/3s5eczhgSVYS1dhBao4UQu) | 3:40 | 2023-10-10 |  |
+| [Never Get Over You](https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Never Get Over You](https://open.spotify.com/album/3s5eczhgSVYS1dhBao4UQu) | 3:40 | 2023-10-10 | 2024-01-06 |
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2021-12-06 |  |
 | [No Matter](https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [No Matter](https://open.spotify.com/album/5NRbTPuE8enOjvcKkuhzDP) | 3:09 | 2021-12-06 | 2022-07-24 |
 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 | 2021-12-06 |  |

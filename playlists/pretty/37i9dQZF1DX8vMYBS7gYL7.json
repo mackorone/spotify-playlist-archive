@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 36400,
+  "num_followers": 36958,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 289466,
-      "name": "Vali\u00f3 la Pena - Salsa Version",
-      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 289466,
+      "name": "Vali\u00f3 la Pena - Salsa Version",
+      "url": "https://open.spotify.com/track/2AMDKSt4HJWZbuLupJuNrj"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
         "name": "Mitad Mitad",
         "url": "https://open.spotify.com/album/0jtFUO3fffRXGa7OsWw9iN"
       },
@@ -259,26 +259,6 @@
       "duration_ms": 241766,
       "name": "Me Voy (feat. Romeo Santos)",
       "url": "https://open.spotify.com/track/3ucH40KXUWWQ5pFw2685G8"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
-        "name": "M\u00e1s + Coraz\u00f3n Profundo",
-        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 278626,
-      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
-      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -303,22 +283,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Amor En Silencio",
         "url": "https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu"
       },
@@ -331,6 +295,38 @@
       "duration_ms": 239666,
       "name": "Tu Eres Ajena - Bachata",
       "url": "https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Justo A Tiempo",
+        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 307173,
+      "name": "Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -351,18 +347,22 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Justo A Tiempo",
-        "url": "https://open.spotify.com/album/250KLbxSw8cKrI7pomRdyl"
+        "name": "M\u00e1s + Coraz\u00f3n Profundo",
+        "url": "https://open.spotify.com/album/2YN1HrfqqAkts3D8DdVSHX"
       },
       "artists": [
         {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 307173,
-      "name": "Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/2YtWJzOcIHGC7uNbANUtPE"
+      "duration_ms": 278626,
+      "name": "Cuando Nos Volvamos a Encontrar (feat. Marc Anthony)",
+      "url": "https://open.spotify.com/track/59hfezbTqi7I68O4OyLfcR"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -447,22 +447,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Medicina De Amor",
-        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
-      },
-      "artists": [
-        {
-          "name": "Raulin Rodriguez",
-          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
-        }
-      ],
-      "duration_ms": 360720,
-      "name": "Medicina De Amor",
-      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Cuando Se Quiere Se Puede",
         "url": "https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 262586,
       "name": "Qui\u00e9n Eres Tu",
       "url": "https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Medicina De Amor",
+        "url": "https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz"
+      },
+      "artists": [
+        {
+          "name": "Raulin Rodriguez",
+          "url": "https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5"
+        }
+      ],
+      "duration_ms": 360720,
+      "name": "Medicina De Amor",
+      "url": "https://open.spotify.com/track/0OgX5NA7KFx8FCr5W0HYl9"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Tropical\u00edsimo, Vol. 1",
-        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vargas",
-          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
-        }
-      ],
-      "duration_ms": 394613,
-      "name": "La Quiero a Morir / Si Algun Dia la Vez",
-      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "No Es Casualidad",
         "url": "https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 239866,
       "name": "No Tengo Suerte En El Amor",
       "url": "https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Tropical\u00edsimo, Vol. 1",
+        "url": "https://open.spotify.com/album/6YJACTu0d3sPog520aE0Xx"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vargas",
+          "url": "https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs"
+        }
+      ],
+      "duration_ms": 394613,
+      "name": "La Quiero a Morir / Si Algun Dia la Vez",
+      "url": "https://open.spotify.com/track/5bpQBpeGQ0vRYs5JTGqR1t"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -583,18 +583,18 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Imprescindibles de la Salsa",
-        "url": "https://open.spotify.com/album/36zS1mWfui1fMKIbJ7KEE0"
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
       "artists": [
         {
-          "name": "Johnny Rivera",
-          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 284973,
-      "name": "Cuando Parar\u00e1 La Lluvia",
-      "url": "https://open.spotify.com/track/2PBuNxTsXYOCuyNOaoyWc8"
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -655,18 +639,34 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "25th Anniversary",
-        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         }
       ],
-      "duration_ms": 266400,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
+      "duration_ms": 218373,
+      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
+      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "Imprescindibles de la Salsa",
+        "url": "https://open.spotify.com/album/36zS1mWfui1fMKIbJ7KEE0"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rivera",
+          "url": "https://open.spotify.com/artist/6IcML1o1dzmMwBim7hyirf"
+        }
+      ],
+      "duration_ms": 284973,
+      "name": "Cuando Parar\u00e1 La Lluvia",
+      "url": "https://open.spotify.com/track/2PBuNxTsXYOCuyNOaoyWc8"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 218373,
-      "name": "El Papel Part 1 (Versi\u00f3n Amante)",
-      "url": "https://open.spotify.com/track/4uUxCpAWzNxpMXoUYCoERX"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "Lluvia (Baile Total)",
         "url": "https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 296040,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "25th Anniversary",
+        "url": "https://open.spotify.com/album/7GO5kZOp732nPbwGVsQePn"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 266400,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/6GGv5bp9nsEQMYyguJfWyv"
     },
     {
       "added_at": "2021-11-23 20:12:50",
@@ -771,22 +771,6 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "\u00a1Amame!",
-        "url": "https://open.spotify.com/album/2eGLKN2UDd8blNIizs7t4Z"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 252354,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/5k1OxW8WdINpWyQTjDup4b"
-    },
-    {
-      "added_at": "2021-11-23 20:12:50",
-      "album": {
         "name": "\u00c9xitos",
         "url": "https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2021-11-23 20:12:50",
       "album": {
-        "name": "Discos Bailables",
-        "url": "https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI"
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9"
       },
       "artists": [
         {
-          "name": "TNT Band",
-          "url": "https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         }
       ],
-      "duration_ms": 236796,
-      "name": "Sabre Olvidar",
-      "url": "https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32"
+      "duration_ms": 238666,
+      "name": "Arroyito",
+      "url": "https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS"
+    },
+    {
+      "added_at": "2021-11-23 20:12:50",
+      "album": {
+        "name": "\u00a1Amame!",
+        "url": "https://open.spotify.com/album/2eGLKN2UDd8blNIizs7t4Z"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 252354,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/5k1OxW8WdINpWyQTjDup4b"
     }
   ],
   "unique_name": "Lluvia Tropical",

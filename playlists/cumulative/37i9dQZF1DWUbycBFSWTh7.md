@@ -4,7 +4,7 @@
 
 > get into the groove
 
-255 songs - 23 hr 41 min
+256 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Friday Service](https://open.spotify.com/track/1r2IC0yl0n06utA3gIcIjC) | [Kitchen Beats](https://open.spotify.com/artist/3Ev7LAm7ED8RS0A0puMYM9), [salameh](https://open.spotify.com/artist/6K6cnA1qYqXCmftC2hP9zw), [ruso](https://open.spotify.com/artist/4K0sQDP80cZ2I5SvVozpiC) | [Bread & Circuses](https://open.spotify.com/album/2NstuK7ULnLLr6ZycEeggf) | 3:47 | 2023-07-11 |  |
 | [Friki](https://open.spotify.com/track/3ZYOwmTAkBqbVVWkuerrGD) | [Locklead](https://open.spotify.com/artist/14X4Rn0s4EuGtizL0l8IIw) | [Era E.P.](https://open.spotify.com/album/4Cxzpd11XkfbuA7TPs7cWJ) | 4:21 | 2022-09-15 | 2023-05-26 |
 | [Fruitless](https://open.spotify.com/track/78DKBZtIi968rlYrvTAINt) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kabbina](https://open.spotify.com/artist/09quqGQT73S32UhGAucXAf) | [Fruitless EP](https://open.spotify.com/album/6ROFvm3dAUknf2dy0fWwTA) | 6:19 | 2022-09-15 | 2023-05-26 |
+| [Gary's Dreamland](https://open.spotify.com/track/0Ad4GdnzZZCIZrH5IvIXYa) | [Garrett David](https://open.spotify.com/artist/69SzexVRRKFGpliMowL7ZZ) | [Gary's Dreamland](https://open.spotify.com/album/2wr6LbnQrX6ebyTC89Jy6N) | 6:29 | 2024-01-12 |  |
 | [Ghosts](https://open.spotify.com/track/5Xzn5zL1v2Hv3ReLKMt0OS) | [Black Light Smoke](https://open.spotify.com/artist/6tBzfm9cIQVj3JFJnF2QTm), [Léah Lazonick](https://open.spotify.com/artist/2K1ed5T8Jf1MgMaqEai1kc) | [Ghosts](https://open.spotify.com/album/0hqMOsNXDvvkgaYNn8k3wi) | 6:16 | 2023-07-07 |  |
 | [Good High](https://open.spotify.com/track/1SxO0Ah8zvoRwxq83RZqWk) | [Deeleegenz](https://open.spotify.com/artist/51Owzst8mz8gEYdXQXyLkq) | [Good High](https://open.spotify.com/album/5OZ677vM7vbNnuKPVgz5rt) | 5:59 | 2022-09-15 | 2023-04-09 |
 | [Good to You](https://open.spotify.com/track/0zuBTTsaoYyYmNhuiVsgSO) | [Makam](https://open.spotify.com/artist/2TOcbvWbyh2rWEKBdCwpUS) | [Dekmantel Anniversary Series](https://open.spotify.com/album/2JriIHEiDKJ60FnfxJnvqT) | 4:25 | 2023-11-04 |  |
@@ -101,7 +102,7 @@
 | [Heat of the Moon \- Phairo's Lunar Eclipse Mix](https://open.spotify.com/track/1q7MXzLGZK2DqVNIF66VFh) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8), [Phairo](https://open.spotify.com/artist/0ddHqZkNzQv7cmCGN6NwXY) | [Heat of the Moon \(Phairo's Lunar Eclipse Mix\)](https://open.spotify.com/album/3uERrl8jhKSyvA7NRviGPi) | 4:27 | 2023-07-07 |  |
 | [Heavn](https://open.spotify.com/track/569G6Qa1BCoDYAsIIEKe80) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Heavn](https://open.spotify.com/album/2NfL96ilq6da1HHRo4hOIe) | 5:19 | 2023-04-07 | 2023-11-03 |
 | [Here And Now \- INVU's Lexicon Remix](https://open.spotify.com/track/1gSANgZerYiT7UiY2T0avU) | [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil), [INVU](https://open.spotify.com/artist/0eP5IhmeRqYd8TXPzMKy5H) | [Here And Now \- INVU Remixes](https://open.spotify.com/album/1oa2kKjR6ByavGP97SWhxW) | 6:14 | 2022-09-15 | 2023-04-09 |
-| [High School](https://open.spotify.com/track/1mNwuE3ShRGCoGv3WD3oVO) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:57 | 2023-05-25 |  |
+| [High School](https://open.spotify.com/track/1mNwuE3ShRGCoGv3WD3oVO) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [Voice Memos](https://open.spotify.com/album/5fvdI0au0Ncr9EDbKBIzV6) | 2:57 | 2023-05-25 | 2024-01-13 |
 | [High School](https://open.spotify.com/track/5BxxJuGICKXs0HcGsVS7Rj) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN) | [High School](https://open.spotify.com/album/1j1wj9lsbZzpUUqCItD4cQ) | 2:57 | 2022-12-08 | 2023-06-18 |
 | [Holos \- Edit](https://open.spotify.com/track/0bkzYVDAsHmwrbbgzu6nfh) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq), [Markus Homm](https://open.spotify.com/artist/6lU2Le0VfhyLnb8x0bOqil) | [Holos](https://open.spotify.com/album/5qqz89AxH2yfrkc1X2Lu01) | 4:40 | 2022-09-15 | 2023-04-09 |
 | [Hot Stuff](https://open.spotify.com/track/0Ea1vhRQJME0EUa9oUIcFW) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Hot Stuff](https://open.spotify.com/album/7d38luOmuFNQMhpSqIKG6C) | 5:55 | 2022-09-15 | 2023-09-15 |

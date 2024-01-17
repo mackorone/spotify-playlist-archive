@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-239 songs - 14 hr 59 min
+240 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,8 +224,9 @@
 | [Too Much Music](https://open.spotify.com/track/0WwJffrixdTk9m74Gr5K1N) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1) | [Too Much Music](https://open.spotify.com/album/64027I7hoqCPxRjGhIK7yP) | 4:38 | 2023-02-03 | 2023-03-25 |
 | [Touch](https://open.spotify.com/track/6p1xdGwSFQkmyWm3hFuHZn) | [Liam Mockridge](https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG), [Herizen](https://open.spotify.com/artist/3niPESDNKjDtTNfWzxZkXv), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Touch](https://open.spotify.com/album/4QoLb7RcShidfum5Ghi1Xs) | 3:48 | 2023-05-26 |  |
 | [Try Again \- Single Edit](https://open.spotify.com/track/1V3roFh4ZJRPIJekw9Y78R) | [JKriv](https://open.spotify.com/artist/1E7Z1EQlB22dXWNzsAxY0K), [The Phenomenal Handclap Band](https://open.spotify.com/artist/4S8UOAApPhwz9WcVOj13VO), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Try Again](https://open.spotify.com/album/73TY0JHIcJrLAvpgppmTQs) | 4:05 | 2022-07-08 | 2023-03-18 |
+| [Tunnel Vision](https://open.spotify.com/track/1Vkn7qPTWmEl6yDR46RjAN) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Future Classic](https://open.spotify.com/album/6lgYtcJdANfL1cE4OsQxot) | 3:45 | 2023-05-26 |  |
 | [Tunnel Vision](https://open.spotify.com/track/33BUDYCkofJ0AuyRxEVk7c) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Tunnel Vision](https://open.spotify.com/album/44Dfv0I0KJuoKnN9wvctkV) | 3:45 | 2023-05-26 | 2023-09-22 |
-| [Tunnel Vision](https://open.spotify.com/track/7E8AOsIgNo1KKzmD21d21h) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Art of Loving You](https://open.spotify.com/album/4DWsGZrf8adwrx0FFR5kWx) | 3:45 | 2023-05-26 |  |
+| [Tunnel Vision](https://open.spotify.com/track/7E8AOsIgNo1KKzmD21d21h) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Art of Loving You](https://open.spotify.com/album/4DWsGZrf8adwrx0FFR5kWx) | 3:45 | 2023-05-26 | 2024-01-12 |
 | [Turn Back Time \(feat\. Alexandra Prince\)](https://open.spotify.com/track/5ZPVXbxtab4liZabBCMiUV) | [Mark Lower](https://open.spotify.com/artist/5Hlywis1lsrKUDxoP0t4jL), [Alexandra Prince](https://open.spotify.com/artist/3aw1KqQDAtevNW0nEJ2srg) | [Blurry Dreams Of You](https://open.spotify.com/album/5dimhizjBzHvYXDbc9IQpf) | 3:22 | 2021-07-16 | 2022-09-03 |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Bless This Mess](https://open.spotify.com/album/5aGGbXFpuBcMzc8o6TORY9) | 6:26 | 2023-02-24 | 2023-07-15 |
 | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/track/3EhloZSmphDC1gdJ1GPFXs) | [U.S\. Girls](https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA) | [Tux \(Your Body Fills Me, Boo\)](https://open.spotify.com/album/5zsgOkEX05pj4Gu3BAgcPd) | 6:26 | 2023-02-24 | 2023-02-27 |

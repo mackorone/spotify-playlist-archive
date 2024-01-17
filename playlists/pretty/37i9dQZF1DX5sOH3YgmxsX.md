@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5sOH3YgmxsX.md) - [plain]
 
 > Aquele papo de boteco para se perder no play
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,108 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 12,116 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

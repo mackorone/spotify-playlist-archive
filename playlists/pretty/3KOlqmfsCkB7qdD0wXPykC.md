@@ -1,0 +1,27 @@
+pretty - [cumulative](/playlists/cumulative/3KOlqmfsCkB7qdD0wXPykC.md) - [plain](/playlists/plain/3KOlqmfsCkB7qdD0wXPykC) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/3KOlqmfsCkB7qdD0wXPykC)
+
+### [Mountain Goats Songs for Werewolves](https://open.spotify.com/playlist/3KOlqmfsCkB7qdD0wXPykC)
+
+> &quot;You&\#x27;ve got a friend downstairs &\#x2F; He howls all night&quot;
+
+[Sarah 💖](https://open.spotify.com/user/12158684120) - 57 likes - 15 songs - 48 min 29 sec
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [As Many Candles As Possible](https://open.spotify.com/track/0hYaVGEWRYsH7ODLUSqp2s) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [As Many Candles As Possible](https://open.spotify.com/album/08WdRHADS1zNGge16EzlRc) | 3:24 |
+| 2 | [The Wooded Hills Along the Black Sea](https://open.spotify.com/track/1Ic6nOZRhDQ0NUfRDFxlyv) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Songs for Pierre Chuvin](https://open.spotify.com/album/6mO1tSf7N2BXxAcGrW9Mt4) | 2:57 |
+| 3 | [Heretic Pride](https://open.spotify.com/track/3LsPToq3yB7g5IKfw829e1) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Heretic Pride](https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv) | 3:42 |
+| 4 | [If You See Light](https://open.spotify.com/track/4D3uowsEqP3YIkQ3d273al) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Get Lonely](https://open.spotify.com/album/7hvaCdKMRUDwi6fdDSal1s) | 1:58 |
+| 5 | [Autoclave](https://open.spotify.com/track/2cFBGQxTs9fGssAQXxEskT) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Heretic Pride](https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv) | 3:34 |
+| 6 | [Until I Am Whole](https://open.spotify.com/track/7rASOb6TUibjcvhI4IpXQV) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/7l2lKqa3E3oTrF3y6rHAzJ) | 2:48 |
+| 7 | [Up the Wolves](https://open.spotify.com/track/41LUI2mXScZDjIZWmvvWpR) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Sunset Tree](https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43) | 3:27 |
+| 8 | [Family Happiness](https://open.spotify.com/track/4J0g6KQHc00FYRdXnhhIS8) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [The Coroner's Gambit](https://open.spotify.com/album/5cv0NAb6FJ2lbJYjqrEDz9) | 2:57 |
+| 9 | [Lovecraft in Brooklyn](https://open.spotify.com/track/2yBB2TGwhpd5ci79gfC9Gz) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Heretic Pride](https://open.spotify.com/album/2bkCoiEfZnOQhahtDHvzzv) | 3:49 |
+| 10 | [Grendel's Mother](https://open.spotify.com/track/4pPfbP2gMxU75ZWqb7jN61) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Zopilote Machine](https://open.spotify.com/album/05CTDTTvDlkgM4Utz5HUxy) | 2:20 |
+| 11 | [Wolf Count](https://open.spotify.com/track/1HmV9kqorsiu9ak5XLBQFj) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Getting Into Knives](https://open.spotify.com/album/3hmzJ6czCNKNiSdRvFGToy) | 3:49 |
+| 12 | [Going to Scotland](https://open.spotify.com/track/0vcZUPOhMVlBl5jnJLZ5ne) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Nothing for Juice](https://open.spotify.com/album/21o3AFcGJBapqPnygk3AZJ) | 2:06 |
+| 13 | [Song for Ted Sallis](https://open.spotify.com/track/1H6gwmnYeGC0hUVb9ZEL3d) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Hex of Infinite Binding EP](https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw) | 3:30 |
+| 14 | [Resonant Bell World](https://open.spotify.com/track/2xkusgD5mDOEzzVcrDJqZd) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beautiful Rat Sunset](https://open.spotify.com/album/4Matl0g5l7qXKvsoorZ1Bf) | 2:36 |
+| 15 | [When a Powerful Animal Comes](https://open.spotify.com/track/6Yhv2dngI4I4h9O9jsBZpU) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Dark in Here](https://open.spotify.com/album/0pxREP6pt2DbPP7beBGCA4) | 5:26 |
+
+Snapshot ID: `MjEsM2E5Nzc3NTRkNTAzZGI1NzQyMTRjN2FlMmYxYjVkNTVmMTQ0MjY4MQ==`

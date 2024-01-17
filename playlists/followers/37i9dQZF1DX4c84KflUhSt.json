@@ -1,735 +1,1207 @@
 {
-  "2021-12-25": 100763,
-  "2021-12-26": 100818,
-  "2021-12-27": 100894,
-  "2021-12-28": 100895,
-  "2021-12-29": 100935,
-  "2021-12-30": 100963,
-  "2021-12-31": 100994,
-  "2022-01-01": 101057,
-  "2022-01-02": 101073,
-  "2022-01-03": 101096,
-  "2022-01-04": 101131,
-  "2022-01-05": 101143,
-  "2022-01-06": 101167,
-  "2022-01-07": 101198,
-  "2022-01-08": 101247,
-  "2022-01-09": 101247,
-  "2022-01-10": 101282,
-  "2022-01-11": 101302,
-  "2022-01-12": 101325,
-  "2022-01-13": 101352,
-  "2022-01-14": 101378,
-  "2022-01-15": 101440,
-  "2022-01-16": 101442,
-  "2022-01-17": 101494,
-  "2022-01-18": 101494,
-  "2022-01-19": 101516,
-  "2022-01-20": 101533,
-  "2022-01-21": 101555,
-  "2022-01-22": 101598,
-  "2022-01-23": 101643,
-  "2022-01-24": 101698,
-  "2022-01-25": 101714,
-  "2022-01-26": 101742,
-  "2022-01-27": 101764,
-  "2022-01-28": 101780,
-  "2022-01-29": 101790,
-  "2022-01-30": 101807,
-  "2022-01-31": 101859,
-  "2022-02-01": 101893,
-  "2022-02-02": 101903,
-  "2022-02-03": 101938,
-  "2022-02-04": 101955,
-  "2022-02-05": 101975,
-  "2022-02-06": 102000,
-  "2022-02-07": 102030,
-  "2022-02-08": 102050,
-  "2022-02-09": 102071,
-  "2022-02-10": 102086,
-  "2022-02-11": 102119,
-  "2022-02-12": 102148,
-  "2022-02-13": 102173,
-  "2022-02-14": 102200,
-  "2022-02-15": 102224,
-  "2022-02-16": 102245,
-  "2022-02-17": 102258,
-  "2022-02-18": 102259,
-  "2022-02-19": 102286,
-  "2022-02-20": 102317,
-  "2022-02-21": 102340,
-  "2022-02-22": 102354,
-  "2022-02-23": 102374,
-  "2022-02-24": 102394,
-  "2022-02-25": 102408,
-  "2022-02-26": 102427,
-  "2022-02-27": 102475,
-  "2022-02-28": 102475,
-  "2022-03-01": 102499,
-  "2022-03-02": 102517,
-  "2022-03-03": 102530,
-  "2022-03-04": 102542,
-  "2022-03-05": 102563,
-  "2022-03-06": 102576,
-  "2022-03-07": 102591,
-  "2022-03-08": 102607,
-  "2022-03-09": 102623,
-  "2022-03-10": 102632,
-  "2022-03-11": 102648,
-  "2022-03-12": 102673,
-  "2022-03-13": 102692,
-  "2022-03-14": 102704,
-  "2022-03-15": 102730,
-  "2022-03-16": 102747,
-  "2022-03-17": 102764,
-  "2022-03-18": 102787,
-  "2022-03-19": 102802,
-  "2022-03-20": 102802,
-  "2022-03-21": 102854,
-  "2022-03-22": 102870,
-  "2022-03-23": 102887,
-  "2022-03-24": 102905,
-  "2022-03-25": 102919,
-  "2022-03-26": 102933,
-  "2022-03-27": 102968,
-  "2022-03-28": 102985,
-  "2022-03-30": 103013,
-  "2022-03-31": 103041,
-  "2022-04-01": 103058,
-  "2022-04-02": 103083,
-  "2022-04-03": 103114,
-  "2022-04-04": 103144,
-  "2022-04-05": 103218,
-  "2022-04-06": 103253,
-  "2022-04-07": 103283,
-  "2022-04-08": 103310,
-  "2022-04-09": 103346,
-  "2022-04-10": 103411,
-  "2022-04-11": 103432,
-  "2022-04-12": 103436,
-  "2022-04-13": 103474,
-  "2022-04-14": 103500,
-  "2022-04-15": 103534,
-  "2022-04-16": 103567,
-  "2022-04-17": 103590,
-  "2022-04-18": 103623,
-  "2022-04-19": 103648,
-  "2022-04-20": 103678,
-  "2022-04-21": 103702,
-  "2022-04-22": 103724,
-  "2022-04-23": 103747,
-  "2022-04-24": 103773,
-  "2022-04-25": 103799,
-  "2022-04-26": 103811,
-  "2022-04-27": 103833,
-  "2022-04-28": 103852,
-  "2022-04-29": 103879,
-  "2022-04-30": 103896,
-  "2022-05-01": 103924,
-  "2022-05-02": 103924,
-  "2022-05-03": 103948,
-  "2022-05-04": 103972,
-  "2022-05-05": 103994,
-  "2022-05-06": 104026,
-  "2022-05-07": 104037,
-  "2022-05-08": 104094,
-  "2022-05-09": 104101,
-  "2022-05-10": 104126,
-  "2022-05-11": 104148,
-  "2022-05-12": 104173,
-  "2022-05-13": 104191,
-  "2022-05-14": 104216,
-  "2022-05-15": 104243,
-  "2022-05-16": 104263,
-  "2022-05-17": 104274,
-  "2022-05-18": 104284,
-  "2022-05-19": 104297,
-  "2022-05-20": 104313,
-  "2022-05-21": 104353,
-  "2022-05-22": 104353,
-  "2022-05-23": 104368,
-  "2022-05-24": 104394,
-  "2022-05-25": 104412,
-  "2022-05-26": 104431,
-  "2022-05-27": 104445,
-  "2022-05-28": 104463,
-  "2022-05-29": 104487,
-  "2022-05-30": 104521,
-  "2022-05-31": 104536,
-  "2022-06-01": 104568,
-  "2022-06-02": 104567,
-  "2022-06-03": 104593,
-  "2022-06-04": 104629,
-  "2022-06-05": 104673,
-  "2022-06-06": 104718,
-  "2022-06-07": 104753,
-  "2022-06-08": 104778,
-  "2022-06-09": 104792,
-  "2022-06-10": 104825,
-  "2022-06-11": 104848,
-  "2022-06-12": 104877,
-  "2022-06-13": 104903,
-  "2022-06-14": 104932,
-  "2022-06-15": 104958,
-  "2022-06-16": 104973,
-  "2022-06-17": 105007,
-  "2022-06-18": 105033,
-  "2022-06-19": 105085,
-  "2022-06-20": 105085,
-  "2022-06-21": 105103,
-  "2022-06-22": 105149,
-  "2022-06-23": 105149,
-  "2022-06-24": 105200,
-  "2022-06-25": 105222,
-  "2022-06-26": 105251,
-  "2022-06-27": 105282,
-  "2022-06-28": 105308,
-  "2022-06-29": 105335,
-  "2022-06-30": 105349,
-  "2022-07-01": 105357,
-  "2022-07-02": 105381,
-  "2022-07-03": 105412,
-  "2022-07-04": 105435,
-  "2022-07-05": 105462,
-  "2022-07-06": 105474,
-  "2022-07-07": 105499,
-  "2022-07-08": 105512,
-  "2022-07-09": 105532,
-  "2022-07-10": 105556,
-  "2022-07-11": 105577,
-  "2022-07-12": 105600,
-  "2022-07-13": 105617,
-  "2022-07-14": 105638,
-  "2022-07-15": 105653,
-  "2022-07-16": 105673,
-  "2022-07-17": 105696,
-  "2022-07-18": 105713,
-  "2022-07-19": 105739,
-  "2022-07-20": 105753,
-  "2022-07-21": 105778,
-  "2022-07-22": 105802,
-  "2022-07-23": 105814,
-  "2022-07-24": 105828,
-  "2022-07-25": 105846,
-  "2022-07-26": 105867,
-  "2022-07-27": 105885,
-  "2022-07-28": 105904,
-  "2022-07-29": 105932,
-  "2022-07-30": 105978,
-  "2022-07-31": 105978,
-  "2022-08-01": 106003,
-  "2022-08-02": 106031,
-  "2022-08-03": 106031,
-  "2022-08-04": 106083,
-  "2022-08-05": 106122,
-  "2022-08-06": 106148,
-  "2022-08-07": 106175,
-  "2022-08-08": 106209,
-  "2022-08-09": 106232,
-  "2022-08-10": 106258,
-  "2022-08-11": 106289,
-  "2022-08-12": 106314,
-  "2022-08-13": 106339,
-  "2022-08-14": 106351,
-  "2022-08-15": 106372,
-  "2022-08-16": 106401,
-  "2022-08-17": 106418,
-  "2022-08-18": 106428,
-  "2022-08-19": 106446,
-  "2022-08-20": 106479,
-  "2022-08-21": 106506,
-  "2022-08-22": 106537,
-  "2022-08-23": 106551,
-  "2022-08-24": 106564,
-  "2022-08-25": 106586,
-  "2022-08-26": 106618,
-  "2022-08-27": 106644,
-  "2022-08-28": 106667,
-  "2022-08-29": 106697,
-  "2022-08-30": 106695,
-  "2022-08-31": 106690,
-  "2022-09-01": 106667,
-  "2022-09-02": 106656,
-  "2022-09-03": 106631,
-  "2022-09-04": 106632,
-  "2022-09-05": 106667,
-  "2022-09-06": 106693,
-  "2022-09-07": 106709,
-  "2022-09-09": 106751,
-  "2022-09-10": 106773,
-  "2022-09-11": 106805,
-  "2022-09-12": 106825,
-  "2022-09-13": 106843,
-  "2022-09-15": 106870,
-  "2022-09-16": 106884,
-  "2022-09-17": 106906,
-  "2022-09-18": 106929,
-  "2022-09-19": 106954,
-  "2022-09-20": 106979,
-  "2022-09-21": 107007,
-  "2022-09-22": 107020,
-  "2022-09-23": 107034,
-  "2022-09-24": 107050,
-  "2022-09-25": 107073,
-  "2022-09-26": 107095,
-  "2022-09-27": 107105,
-  "2022-09-28": 107127,
-  "2022-09-29": 107150,
-  "2022-09-30": 107159,
-  "2022-10-01": 107182,
-  "2022-10-02": 107220,
-  "2022-10-03": 107243,
-  "2022-10-04": 107262,
-  "2022-10-05": 107288,
-  "2022-10-06": 107307,
-  "2022-10-07": 107334,
-  "2022-10-08": 107356,
-  "2022-10-09": 107383,
-  "2022-10-10": 107384,
-  "2022-10-11": 107406,
-  "2022-10-12": 107425,
-  "2022-10-13": 107439,
-  "2022-10-14": 107463,
-  "2022-10-15": 107490,
-  "2022-10-16": 107528,
-  "2022-10-17": 107560,
-  "2022-10-18": 107579,
-  "2022-10-19": 107604,
-  "2022-10-20": 107628,
-  "2022-10-21": 107652,
-  "2022-10-22": 107688,
-  "2022-10-23": 107711,
-  "2022-10-24": 107736,
-  "2022-10-25": 107749,
-  "2022-10-26": 107776,
-  "2022-10-27": 107803,
-  "2022-10-28": 107829,
-  "2022-10-29": 107849,
-  "2022-10-30": 107871,
-  "2022-10-31": 107901,
-  "2022-11-01": 107917,
-  "2022-11-02": 107946,
-  "2022-11-03": 107975,
-  "2022-11-04": 108004,
-  "2022-11-05": 108033,
-  "2022-11-06": 108060,
-  "2022-11-07": 108100,
-  "2022-11-08": 108121,
-  "2022-11-09": 108148,
-  "2022-11-10": 108159,
-  "2022-11-11": 108186,
-  "2022-11-12": 108212,
-  "2022-11-13": 108241,
-  "2022-11-14": 108288,
-  "2022-11-15": 108321,
-  "2022-11-16": 108351,
-  "2022-11-17": 108391,
-  "2022-11-18": 108390,
-  "2022-11-19": 108399,
-  "2022-11-20": 108427,
-  "2022-11-21": 108414,
-  "2022-11-22": 108509,
-  "2022-11-23": 108503,
-  "2022-11-24": 108576,
-  "2022-11-25": 108627,
-  "2022-11-26": 108654,
-  "2022-11-27": 108681,
-  "2022-11-28": 108706,
-  "2022-11-29": 108729,
-  "2022-11-30": 108741,
-  "2022-12-01": 108749,
-  "2022-12-02": 108769,
-  "2022-12-03": 108799,
-  "2022-12-04": 108839,
-  "2022-12-05": 108867,
-  "2022-12-06": 108891,
-  "2022-12-07": 108915,
-  "2022-12-08": 108954,
-  "2022-12-09": 108993,
-  "2022-12-10": 109015,
-  "2022-12-11": 109048,
-  "2022-12-12": 109063,
-  "2022-12-13": 109087,
-  "2022-12-14": 109109,
-  "2022-12-15": 109124,
-  "2022-12-16": 109146,
-  "2022-12-17": 109176,
-  "2022-12-18": 109197,
-  "2022-12-19": 109220,
-  "2022-12-20": 109267,
-  "2022-12-21": 109267,
-  "2022-12-22": 109286,
-  "2022-12-24": 109336,
-  "2022-12-25": 109369,
-  "2022-12-26": 109404,
-  "2022-12-27": 109436,
-  "2022-12-28": 109468,
-  "2022-12-29": 109499,
-  "2022-12-30": 109535,
-  "2022-12-31": 109571,
-  "2023-01-01": 109610,
-  "2023-01-02": 109650,
-  "2023-01-03": 109678,
-  "2023-01-04": 109698,
-  "2023-01-05": 109717,
-  "2023-01-06": 109744,
-  "2023-01-07": 109796,
-  "2023-01-08": 109814,
-  "2023-01-09": 109851,
-  "2023-01-10": 109878,
-  "2023-01-11": 109902,
-  "2023-01-12": 109939,
-  "2023-01-13": 109974,
-  "2023-01-14": 110011,
-  "2023-01-15": 110019,
-  "2023-01-16": 110052,
-  "2023-01-17": 110075,
-  "2023-01-18": 110110,
-  "2023-01-19": 110134,
-  "2023-01-20": 110151,
-  "2023-01-21": 110179,
-  "2023-01-22": 110214,
-  "2023-01-23": 110234,
-  "2023-01-24": 110255,
-  "2023-01-25": 110279,
-  "2023-01-26": 110298,
-  "2023-01-27": 110309,
-  "2023-01-28": 110330,
-  "2023-01-29": 110349,
-  "2023-01-30": 110384,
-  "2023-01-31": 110384,
-  "2023-02-01": 110425,
-  "2023-02-02": 110444,
-  "2023-02-03": 110460,
-  "2023-02-04": 110482,
-  "2023-02-05": 110527,
-  "2023-02-06": 110548,
-  "2023-02-07": 110568,
-  "2023-02-08": 110609,
-  "2023-02-09": 110609,
-  "2023-02-10": 110629,
-  "2023-02-11": 110655,
-  "2023-02-12": 110703,
-  "2023-02-13": 110722,
-  "2023-02-14": 110722,
-  "2023-02-15": 110734,
-  "2023-02-16": 110758,
-  "2023-02-17": 110783,
-  "2023-02-18": 110851,
-  "2023-02-19": 110864,
-  "2023-02-20": 110922,
-  "2023-02-21": 110971,
-  "2023-02-22": 111034,
-  "2023-02-23": 111087,
-  "2023-02-24": 111143,
-  "2023-02-25": 111206,
-  "2023-02-26": 111261,
-  "2023-02-27": 111365,
-  "2023-02-28": 111365,
-  "2023-03-01": 111426,
-  "2023-03-02": 111472,
-  "2023-03-03": 111536,
-  "2023-03-04": 111580,
-  "2023-03-05": 111714,
-  "2023-03-06": 111714,
-  "2023-03-07": 111760,
-  "2023-03-08": 111799,
-  "2023-03-09": 111855,
-  "2023-03-10": 111897,
-  "2023-03-11": 111954,
-  "2023-03-12": 112027,
-  "2023-03-13": 112083,
-  "2023-03-14": 112130,
-  "2023-03-15": 112181,
-  "2023-03-16": 112228,
-  "2023-03-17": 112228,
-  "2023-03-18": 112299,
-  "2023-03-19": 112356,
-  "2023-03-20": 112407,
-  "2023-03-21": 112446,
-  "2023-03-22": 112501,
-  "2023-03-23": 112545,
-  "2023-03-24": 112545,
-  "2023-03-25": 112643,
-  "2023-03-26": 112709,
-  "2023-03-27": 112776,
-  "2023-03-28": 112812,
-  "2023-03-29": 112855,
-  "2023-03-30": 112946,
-  "2023-03-31": 112946,
-  "2023-04-01": 112980,
-  "2023-04-02": 113036,
-  "2023-04-03": 113079,
-  "2023-04-04": 113118,
-  "2023-04-05": 113156,
-  "2023-04-06": 113202,
-  "2023-04-07": 113251,
-  "2023-04-09": 113361,
-  "2023-04-10": 113418,
-  "2023-04-11": 113499,
-  "2023-04-12": 113499,
-  "2023-04-13": 113538,
-  "2023-04-14": 113584,
-  "2023-04-15": 113632,
-  "2023-04-16": 113693,
-  "2023-04-17": 113739,
-  "2023-04-18": 113774,
-  "2023-04-19": 113857,
-  "2023-04-20": 113908,
-  "2023-04-21": 113955,
-  "2023-04-22": 113992,
-  "2023-04-23": 114047,
-  "2023-04-24": 114114,
-  "2023-04-25": 114156,
-  "2023-04-26": 114212,
-  "2023-04-27": 114260,
-  "2023-04-28": 114326,
-  "2023-04-29": 114378,
-  "2023-04-30": 114439,
-  "2023-05-01": 114489,
-  "2023-05-02": 114543,
-  "2023-05-03": 114592,
-  "2023-05-04": 114653,
-  "2023-05-05": 114698,
-  "2023-05-06": 114740,
-  "2023-05-07": 114778,
-  "2023-05-08": 114849,
-  "2023-05-09": 114878,
-  "2023-05-10": 114935,
-  "2023-05-11": 114989,
-  "2023-05-12": 115042,
-  "2023-05-13": 115096,
-  "2023-05-14": 115150,
-  "2023-05-15": 115224,
-  "2023-05-16": 115260,
-  "2023-05-17": 115303,
-  "2023-05-18": 115355,
-  "2023-05-19": 115421,
-  "2023-05-20": 115533,
-  "2023-05-21": 115533,
-  "2023-05-22": 115533,
-  "2023-05-23": 115650,
-  "2023-05-24": 115716,
-  "2023-05-25": 115723,
-  "2023-05-26": 115773,
-  "2023-05-27": 115814,
-  "2023-05-28": 115867,
-  "2023-05-29": 115867,
-  "2023-05-30": 115969,
-  "2023-05-31": 116013,
-  "2023-06-01": 116054,
-  "2023-06-02": 116094,
-  "2023-06-03": 116134,
-  "2023-06-04": 116181,
-  "2023-06-05": 116229,
-  "2023-06-06": 116278,
-  "2023-06-07": 116312,
-  "2023-06-08": 116358,
-  "2023-06-09": 116411,
-  "2023-06-10": 116462,
-  "2023-06-11": 116524,
-  "2023-06-12": 116568,
-  "2023-06-13": 116610,
-  "2023-06-14": 116645,
-  "2023-06-15": 116691,
-  "2023-06-16": 116738,
-  "2023-06-17": 116787,
-  "2023-06-18": 116854,
-  "2023-06-19": 116904,
-  "2023-06-20": 116945,
-  "2023-06-21": 116968,
-  "2023-06-22": 117012,
-  "2023-06-23": 117064,
-  "2023-06-24": 117111,
-  "2023-06-25": 117171,
-  "2023-06-26": 117213,
-  "2023-06-27": 117238,
-  "2023-06-28": 117281,
-  "2023-06-29": 117329,
-  "2023-06-30": 117378,
-  "2023-07-01": 117485,
-  "2023-07-02": 117485,
-  "2023-07-03": 117536,
-  "2023-07-04": 117588,
-  "2023-07-05": 117631,
-  "2023-07-06": 117719,
-  "2023-07-07": 117719,
-  "2023-07-08": 117768,
-  "2023-07-09": 117812,
-  "2023-07-10": 117864,
-  "2023-07-11": 117901,
-  "2023-07-12": 117943,
-  "2023-07-13": 117988,
-  "2023-07-14": 118036,
-  "2023-07-15": 118070,
-  "2023-07-16": 118139,
-  "2023-07-17": 118184,
-  "2023-07-18": 118224,
-  "2023-07-19": 118263,
-  "2023-07-20": 118312,
-  "2023-07-21": 118341,
-  "2023-07-22": 123946,
-  "2023-07-23": 127340,
-  "2023-07-24": 128712,
-  "2023-07-25": 129499,
-  "2023-07-26": 129923,
-  "2023-07-27": 130286,
-  "2023-07-28": 130591,
-  "2023-07-29": 130830,
-  "2023-07-30": 131070,
-  "2023-07-31": 131257,
-  "2023-08-01": 131440,
-  "2023-08-02": 131558,
-  "2023-08-03": 131674,
-  "2023-08-04": 131838,
-  "2023-08-05": 132001,
-  "2023-08-06": 132327,
-  "2023-08-07": 132327,
-  "2023-08-08": 132409,
-  "2023-08-09": 132511,
-  "2023-08-10": 132620,
-  "2023-08-11": 132706,
-  "2023-08-12": 132808,
-  "2023-08-13": 132893,
-  "2023-08-14": 132983,
-  "2023-08-15": 133148,
-  "2023-08-16": 133148,
-  "2023-08-17": 133225,
-  "2023-08-18": 133332,
-  "2023-08-19": 133432,
-  "2023-08-20": 133537,
-  "2023-08-21": 133627,
-  "2023-08-22": 133679,
-  "2023-08-23": 133747,
-  "2023-08-24": 133812,
-  "2023-08-25": 133871,
-  "2023-08-26": 133948,
-  "2023-08-27": 134030,
-  "2023-08-28": 134120,
-  "2023-08-29": 134170,
-  "2023-08-30": 134234,
-  "2023-08-31": 134301,
-  "2023-09-01": 134452,
-  "2023-09-02": 134452,
-  "2023-09-03": 134517,
-  "2023-09-04": 134581,
-  "2023-09-05": 134636,
-  "2023-09-06": 134701,
-  "2023-09-07": 134774,
-  "2023-09-08": 134846,
-  "2023-09-09": 134908,
-  "2023-09-10": 134992,
-  "2023-09-11": 135064,
-  "2023-09-12": 135133,
-  "2023-09-13": 135197,
-  "2023-09-14": 135248,
-  "2023-09-15": 135319,
-  "2023-09-16": 135389,
-  "2023-09-17": 135449,
-  "2023-09-18": 135488,
-  "2023-09-19": 135545,
-  "2023-09-20": 135571,
-  "2023-09-21": 135621,
-  "2023-09-22": 135690,
-  "2023-09-23": 135750,
-  "2023-09-24": 135815,
-  "2023-09-25": 135871,
-  "2023-09-26": 135948,
-  "2023-09-27": 135993,
-  "2023-09-28": 136046,
-  "2023-09-29": 136084,
-  "2023-09-30": 136130,
-  "2023-10-01": 136191,
-  "2023-10-02": 136252,
-  "2023-10-03": 136298,
-  "2023-10-04": 136350,
-  "2023-10-05": 136412,
-  "2023-10-06": 136466,
-  "2023-10-07": 136536,
-  "2023-10-08": 136605,
-  "2023-10-09": 136656,
-  "2023-10-10": 136641,
-  "2023-10-11": 136644,
-  "2023-10-12": 136644,
-  "2023-10-13": 136655,
-  "2023-10-14": 136653,
-  "2023-10-15": 136704,
-  "2023-10-16": 136771,
-  "2023-10-17": 136821,
-  "2023-10-18": 136869,
-  "2023-10-19": 136910,
-  "2023-10-20": 136959,
-  "2023-10-21": 137018,
-  "2023-10-22": 137053,
-  "2023-10-23": 137101,
-  "2023-10-24": 137153,
-  "2023-10-25": 137197,
-  "2023-10-26": 137250,
-  "2023-10-27": 137295,
-  "2023-10-28": 137351,
-  "2023-10-29": 137431,
-  "2023-10-30": 137556,
-  "2023-10-31": 137556,
-  "2023-11-01": 137603,
-  "2023-11-02": 137653,
-  "2023-11-03": 137700,
-  "2023-11-04": 137746,
-  "2023-11-05": 137805,
-  "2023-11-06": 137872,
-  "2023-11-07": 137920,
-  "2023-11-08": 137966,
-  "2023-11-09": 138014,
-  "2023-11-10": 138063,
-  "2023-11-11": 138123,
-  "2023-11-12": 138179,
-  "2023-11-13": 138229,
-  "2023-11-14": 138276,
-  "2023-11-15": 138276,
-  "2023-11-16": 138357,
-  "2023-11-17": 138452,
-  "2023-11-18": 138452,
-  "2023-11-19": 138524,
-  "2023-11-20": 138582,
-  "2023-11-21": 138636,
-  "2023-11-22": 138684,
-  "2023-11-23": 138715,
-  "2023-11-24": 138774,
-  "2023-11-25": 138822,
-  "2023-11-26": 138854,
-  "2023-11-27": 138911,
-  "2023-11-28": 138961,
-  "2023-11-29": 139329,
-  "2023-11-30": 139329,
-  "2023-12-01": 139591,
-  "2023-12-02": 139755,
-  "2023-12-03": 139876,
-  "2023-12-04": 140015,
-  "2023-12-05": 140092,
-  "2023-12-06": 140186,
-  "2023-12-07": 140263,
-  "2023-12-08": 140373,
-  "2023-12-09": 140496,
-  "2023-12-10": 140616,
-  "2023-12-11": 140705,
-  "2023-12-12": 140780,
-  "2023-12-13": 140870,
-  "2023-12-14": 140996,
-  "2023-12-15": 141072,
-  "2023-12-16": 141179,
-  "2023-12-17": 141270,
-  "2023-12-18": 141366,
-  "2023-12-19": 141442,
-  "2023-12-20": 141534,
-  "2023-12-21": 141616,
-  "2023-12-22": 141684,
-  "2023-12-23": 141768,
-  "2023-12-24": 141867,
-  "2023-12-25": 141961,
-  "2023-12-26": 142027,
-  "2023-12-27": 142114,
-  "2023-12-30": 142393,
-  "2023-12-31": 142519,
-  "2024-01-01": 142650,
-  "2024-01-02": 142770,
-  "2024-01-03": 142833
+  "2024-01-17": 143492,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is Tony Bennett",
+  "tracks": [
+    {
+      "album": {
+        "name": "Love Is Here To Stay",
+        "url": "https://open.spotify.com/album/7dj3N9Ue8kXeMjXyxesD2t"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170186,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/4tqGZzY8YmngfaTqUAHENj"
+    },
+    {
+      "album": {
+        "name": "I Left My Heart In San Francisco",
+        "url": "https://open.spotify.com/album/64CGgldzMUCxdkvmDb3OU7"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170960,
+      "name": "(I Left My Heart) In San Francisco",
+      "url": "https://open.spotify.com/track/1bYItjcPRtxZs6Ir71O5RB"
+    },
+    {
+      "album": {
+        "name": "Get Happy",
+        "url": "https://open.spotify.com/album/5UqQzHJ8Mu4WRGuNCN5yn6"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240986,
+      "name": "(Where Do I Begin) Love Story - Live at the Royal Albert Hall, London, England - January 1971",
+      "url": "https://open.spotify.com/track/3vPnBjUIfKqr1FRsdbw9F8"
+    },
+    {
+      "album": {
+        "name": "A Wonderful World",
+        "url": "https://open.spotify.com/album/626Y44MkmT99wZsqs5R8vY"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "A Kiss to Build a Dream On",
+      "url": "https://open.spotify.com/track/4xsJ6KEsIjsHKWJA7D8GAI"
+    },
+    {
+      "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+    },
+    {
+      "album": {
+        "name": "Playin' With My Friends: Bennett Sings The Blues",
+        "url": "https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209426,
+      "name": "Alright, Okay, You Win (with Diana Krall)",
+      "url": "https://open.spotify.com/track/5Q9uoUcUF0bVLJqDLaurw4"
+    },
+    {
+      "album": {
+        "name": "60 Years: The Artistry of Tony Bennett",
+        "url": "https://open.spotify.com/album/4PEuqYJixNSCMotzbfmWNb"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181133,
+      "name": "Blue Velvet",
+      "url": "https://open.spotify.com/track/5sMVujBLwXJH9AjToNoSbH"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200586,
+      "name": "Body and Soul",
+      "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+    },
+    {
+      "album": {
+        "name": "Perfectly Frank",
+        "url": "https://open.spotify.com/album/0TJ7C1j57qo0mciMMtjSTo"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Call Me Irresponsible",
+      "url": "https://open.spotify.com/track/6DpQxZwQ5EXVsUNEWxoAWH"
+    },
+    {
+      "album": {
+        "name": "Hot Christmas Hits",
+        "url": "https://open.spotify.com/album/5gkdC2yqeIClCn2Zx2jNX0"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/03oJxEzzNWN9REdfrRqRs9"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/6X3UtyOgJYgJk7wYoykghH"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0HuhtLZ5HlVFvh2KVgn8Gc"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170546,
+      "name": "Cheek To Cheek",
+      "url": "https://open.spotify.com/track/0UuRIovHyU6KeTzY4gS0L2"
+    },
+    {
+      "album": {
+        "name": "The Art Of Romance",
+        "url": "https://open.spotify.com/album/7Cf4bdUWcBVpP591Gklio8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265693,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/7BtjJpMWnGiRtK4EaH9ptF"
+    },
+    {
+      "album": {
+        "name": "Tony Bennett's \"Something\"",
+        "url": "https://open.spotify.com/album/5EUZZ0LdS5mzyLlwhQli2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267680,
+      "name": "Come Saturday Morning (From \"The Sterile Cuckoo\")",
+      "url": "https://open.spotify.com/track/4Bjro7bd4brOhU6EbBm6BA"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "Don't Get Around Much Anymore",
+      "url": "https://open.spotify.com/track/6RjvMuSa4ZCqPueIIO4IBs"
+    },
+    {
+      "album": {
+        "name": "Playin' With My Friends: Bennett Sings The Blues",
+        "url": "https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "Evenin' (with Ray Charles)",
+      "url": "https://open.spotify.com/track/3BYcF3H1qbzBPkuhXNbC9z"
+    },
+    {
+      "album": {
+        "name": "If I Ruled The World: Songs For The Jet Set",
+        "url": "https://open.spotify.com/album/4bx05hDVTDSbFA9iFoG4FX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "Fly Me To The Moon",
+      "url": "https://open.spotify.com/track/6AjznBCgVaYESh8UHsHpDz"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326493,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/4LTa2DALHWoAvFKQwsRugj"
+    },
+    {
+      "album": {
+        "name": "I Get A Kick Out Of You",
+        "url": "https://open.spotify.com/album/7dSqdzXE3lZxd6QBKesRab"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/4TRX5ZivGItdUnpkRC3JyU"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/6tANJIaIQAFhMxgnafAZd2"
+    },
+    {
+      "album": {
+        "name": "Award Winning Hits 2022",
+        "url": "https://open.spotify.com/album/2oF6fEtW5G1rJh4TusCJAE"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 213960,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/7vFyHHpHhtdrygb7ULHVUU"
+    },
+    {
+      "album": {
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180973,
+      "name": "I Wanna Be Around (with Ricardo Arjona)",
+      "url": "https://open.spotify.com/track/2MYXo44cKkRtB4O5Glziw3"
+    },
+    {
+      "album": {
+        "name": "Perfectly Frank",
+        "url": "https://open.spotify.com/album/0TJ7C1j57qo0mciMMtjSTo"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172133,
+      "name": "I've Got the World On a String",
+      "url": "https://open.spotify.com/track/6pNITw0qemtKXpKIELHD1P"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "I've Got You Under My Skin",
+      "url": "https://open.spotify.com/track/6jz5HzDmPuQ24U7u7KfKGw"
+    },
+    {
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "If I Ruled the World (with C\u00e9line Dion)",
+      "url": "https://open.spotify.com/track/57GQHVnq4UIAgxU38lJwUC"
+    },
+    {
+      "album": {
+        "name": "When Lights Are Low",
+        "url": "https://open.spotify.com/album/1WT9HorENIY0JeMlb3OqhX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/7dwEFJGLcO6sQJtw9AxUq4"
+    },
+    {
+      "album": {
+        "name": "Playin' With My Friends: Bennett Sings The Blues",
+        "url": "https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Let the Good Times Roll (with B.B. King)",
+      "url": "https://open.spotify.com/track/2Pw5vIumO9PGcvtbHXQ3rZ"
+    },
+    {
+      "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156320,
+      "name": "Look For the Silver Lining",
+      "url": "https://open.spotify.com/track/7aNS9QCpBCDMZfdUPZFNvG"
+    },
+    {
+      "album": {
+        "name": "Love For Sale (Deluxe)",
+        "url": "https://open.spotify.com/album/6hBQkPnq5u1BwZncSEDEgs"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "Love For Sale",
+      "url": "https://open.spotify.com/track/4biVNJdcVpAljZjpiO9B4Z"
+    },
+    {
+      "album": {
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/397wI1XGpZ1DOuP0Zvq3Xi"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196906,
+      "name": "My Favourite Things",
+      "url": "https://open.spotify.com/track/3QelBnwgLpQErit1TNZ4kD"
+    },
+    {
+      "album": {
+        "name": "Snowfall: The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2zpZloLD6haM3GzorLdfoC"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "My Favourite Things",
+      "url": "https://open.spotify.com/track/7qLTpTd1Txpo8Vd84yci7u"
+    },
+    {
+      "album": {
+        "name": "Snowfall - The Tony Bennett Christmas Album",
+        "url": "https://open.spotify.com/album/2sw2JVdzZ4lcn2cxh3Nxdc"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 197600,
+      "name": "My Favourite Things",
+      "url": "https://open.spotify.com/track/0MoZADdiiC9yzcWpBbNYAC"
+    },
+    {
+      "album": {
+        "name": "The Complete Fantasy Recordings",
+        "url": "https://open.spotify.com/album/0rK5RsYTNgeNGTcJeRR9Pi"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-19",
+      "duration_ms": 287293,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/58gR6TOLfgO7oW0IhOWCVS"
+    },
+    {
+      "album": {
+        "name": "The Tony Bennett / Bill Evans Album",
+        "url": "https://open.spotify.com/album/3aRkeXqWFdxFNumHJe0hDc"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289461,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6pzUMbFYQPz2qbL6hxoeHY"
+    },
+    {
+      "album": {
+        "name": "The Tony Bennett / Bill Evans Album (Expanded Reissue)",
+        "url": "https://open.spotify.com/album/7oviEOBGFIC09QpiWRnyFF"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 291040,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/1yJ7VLv9pPrhyfQjmhTQlk"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/6X3UtyOgJYgJk7wYoykghH"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 248426,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/3giSAdFOdYGxHJzoPnKF1a"
+    },
+    {
+      "album": {
+        "name": "Cheek To Cheek (Deluxe)",
+        "url": "https://open.spotify.com/album/2VX9rp6NAC19TQN4IgkmYu"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "date_added": "2022-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248426,
+      "name": "Nature Boy",
+      "url": "https://open.spotify.com/track/7sYJdgkkdcjN1Zr5Rgbpl8"
+    },
+    {
+      "album": {
+        "name": "Playin' With My Friends: Bennett Sings The Blues",
+        "url": "https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "New York State of Mind (with Billy Joel)",
+      "url": "https://open.spotify.com/track/2k4eIKbrXS2f7AKJpPEk59"
+    },
+    {
+      "album": {
+        "name": "Tony Bennett's \"Something\"",
+        "url": "https://open.spotify.com/album/5EUZZ0LdS5mzyLlwhQli2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "On A Clear Day You Can See Forever",
+      "url": "https://open.spotify.com/track/0l4m0VuJ2wwD98SPMJKo4t"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176013,
+      "name": "One for My Baby (And One More for the Road)",
+      "url": "https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8"
+    },
+    {
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158826,
+      "name": "Rags to Riches (with Elton John)",
+      "url": "https://open.spotify.com/track/3wp90Rmqt276hbFvLKQi9v"
+    },
+    {
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279453,
+      "name": "Smile (with Barbra Streisand)",
+      "url": "https://open.spotify.com/track/2nXdwNjPLt1F51vCBWSnnX"
+    },
+    {
+      "album": {
+        "name": "Tony Bennett's \"Something\"",
+        "url": "https://open.spotify.com/album/5EUZZ0LdS5mzyLlwhQli2s"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200253,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/4RagweKs4qJJBavRuPoyuE"
+    },
+    {
+      "album": {
+        "name": "Here's To The Ladies",
+        "url": "https://open.spotify.com/album/3x93NpLVNz3RphYvvWE59F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237226,
+      "name": "Somewhere over the Rainbow",
+      "url": "https://open.spotify.com/track/5jGWwfmve3p9h26ujnEmwq"
+    },
+    {
+      "album": {
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122226,
+      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
+    },
+    {
+      "album": {
+        "name": "Playin' With My Friends: Bennett Sings The Blues",
+        "url": "https://open.spotify.com/album/3x7M1eG03gHfeH4RjNaJ5a"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272640,
+      "name": "Stormy Weather",
+      "url": "https://open.spotify.com/track/5K3hhr79wnCenmQYtZ0aE4"
+    },
+    {
+      "album": {
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219626,
+      "name": "The Best Is Yet to Come (with Diana Krall)",
+      "url": "https://open.spotify.com/track/056eVJj0qZRNm8SW63wdOu"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be Around",
+        "url": "https://open.spotify.com/album/11KbbI91LeZUkXALWALytD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134893,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/4MVvSNPOUd2z70vkkNCbLr"
+    },
+    {
+      "album": {
+        "name": "The Movie Song Album",
+        "url": "https://open.spotify.com/album/0viEs6bCf3nP560AFtCDcn"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "The Shadow of Your Smile (Love Theme from \"The Sandpiper\")",
+      "url": "https://open.spotify.com/track/66YI4JFp7BcMcepibGprsN"
+    },
+    {
+      "album": {
+        "name": "A Time For Love",
+        "url": "https://open.spotify.com/album/2j4u8cxT6xn17clysMYxI0"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/6k3PVeDsILF9UIRokDwh7D"
+    },
+    {
+      "album": {
+        "name": "Rarities, Outtakes & Other Delights, Vol. 2",
+        "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203306,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+    },
+    {
+      "album": {
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174280,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz"
+    },
+    {
+      "album": {
+        "name": "Sings The American Songbook, Vols. 1 - 4",
+        "url": "https://open.spotify.com/album/2FMnpi9WcPtVUX7kLhU0OD"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130226,
+      "name": "They All Laughed",
+      "url": "https://open.spotify.com/track/6L4g2duoBQdxG65Qu6PKLx"
+    },
+    {
+      "album": {
+        "name": "This Is All I Ask",
+        "url": "https://open.spotify.com/album/79cG8xSryuzAlsMAIUVvap"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "This Is All I Ask",
+      "url": "https://open.spotify.com/track/5P9guvAyGzysMhzMyADHOQ"
+    },
+    {
+      "album": {
+        "name": "I've Gotta Be Me",
+        "url": "https://open.spotify.com/album/6OU8IefCiUm7eWlP5YFSTv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161573,
+      "name": "What The World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4uXygYyLsFUr9P1UzILrHf"
+    },
+    {
+      "album": {
+        "name": "Duets II",
+        "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172546,
+      "name": "When Do the Bells Ring for Me",
+      "url": "https://open.spotify.com/track/1krycl0zNSW1RkKIDdcKm7"
+    },
+    {
+      "album": {
+        "name": "Who Can I Turn To",
+        "url": "https://open.spotify.com/album/0o4Cd21kLXMNZKW2k1Y6uV"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175360,
+      "name": "Who Can I Turn To (When Nobody Needs Me)",
+      "url": "https://open.spotify.com/track/2FXk3LhwfbziRcCg8Rp0fN"
+    },
+    {
+      "album": {
+        "name": "Steppin' Out",
+        "url": "https://open.spotify.com/album/0DItsczVSy5rOaJOOIZ49F"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Who Cares?",
+      "url": "https://open.spotify.com/track/7h8Y5ozXb7D7COLHahSq4b"
+    },
+    {
+      "album": {
+        "name": "The Art Of Excellence",
+        "url": "https://open.spotify.com/album/0nhX55gQsfnzhYeCYekXlv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "date_added": "2021-10-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249573,
+      "name": "Why Do People Fall In Love/People",
+      "url": "https://open.spotify.com/track/2jk1qByu49V0JD2v9XCULE"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4c84KflUhSt"
 }

@@ -1,735 +1,621 @@
 {
-  "2021-12-25": 7007,
-  "2021-12-26": 7007,
-  "2021-12-27": 7007,
-  "2021-12-28": 7007,
-  "2021-12-29": 7007,
-  "2021-12-30": 7007,
-  "2021-12-31": 7006,
-  "2022-01-01": 7005,
-  "2022-01-02": 7005,
-  "2022-01-03": 7005,
-  "2022-01-04": 7004,
-  "2022-01-05": 7004,
-  "2022-01-06": 7004,
-  "2022-01-07": 7004,
-  "2022-01-08": 7004,
-  "2022-01-09": 7004,
-  "2022-01-10": 7003,
-  "2022-01-11": 7003,
-  "2022-01-12": 7003,
-  "2022-01-13": 7003,
-  "2022-01-14": 7003,
-  "2022-01-15": 7003,
-  "2022-01-16": 7003,
-  "2022-01-17": 7002,
-  "2022-01-18": 7002,
-  "2022-01-19": 7002,
-  "2022-01-20": 7000,
-  "2022-01-21": 7000,
-  "2022-01-22": 7000,
-  "2022-01-23": 7000,
-  "2022-01-24": 7000,
-  "2022-01-25": 6999,
-  "2022-01-26": 6999,
-  "2022-01-27": 6998,
-  "2022-01-28": 6998,
-  "2022-01-29": 6998,
-  "2022-01-30": 6997,
-  "2022-01-31": 6996,
-  "2022-02-01": 6996,
-  "2022-02-02": 6996,
-  "2022-02-03": 6995,
-  "2022-02-04": 6994,
-  "2022-02-05": 6994,
-  "2022-02-06": 6994,
-  "2022-02-07": 6994,
-  "2022-02-08": 6994,
-  "2022-02-09": 6994,
-  "2022-02-10": 6994,
-  "2022-02-11": 6993,
-  "2022-02-12": 6992,
-  "2022-02-13": 6991,
-  "2022-02-14": 6990,
-  "2022-02-15": 6990,
-  "2022-02-16": 6990,
-  "2022-02-17": 6990,
-  "2022-02-18": 6990,
-  "2022-02-19": 6990,
-  "2022-02-20": 6990,
-  "2022-02-21": 6990,
-  "2022-02-22": 6990,
-  "2022-02-23": 6989,
-  "2022-02-24": 6988,
-  "2022-02-25": 6988,
-  "2022-02-26": 6988,
-  "2022-02-27": 6987,
-  "2022-02-28": 6987,
-  "2022-03-01": 6987,
-  "2022-03-02": 6987,
-  "2022-03-03": 6987,
-  "2022-03-04": 6986,
-  "2022-03-05": 6984,
-  "2022-03-06": 6984,
-  "2022-03-07": 6984,
-  "2022-03-08": 6983,
-  "2022-03-09": 6983,
-  "2022-03-10": 6983,
-  "2022-03-11": 6983,
-  "2022-03-12": 6983,
-  "2022-03-13": 6983,
-  "2022-03-14": 6983,
-  "2022-03-15": 6982,
-  "2022-03-16": 6982,
-  "2022-03-17": 6982,
-  "2022-03-18": 6982,
-  "2022-03-19": 6982,
-  "2022-03-20": 6982,
-  "2022-03-21": 6982,
-  "2022-03-22": 6982,
-  "2022-03-23": 6982,
-  "2022-03-24": 6982,
-  "2022-03-25": 6982,
-  "2022-03-26": 6982,
-  "2022-03-27": 6980,
-  "2022-03-28": 6980,
-  "2022-03-30": 6979,
-  "2022-03-31": 6979,
-  "2022-04-01": 6979,
-  "2022-04-02": 6979,
-  "2022-04-03": 6979,
-  "2022-04-04": 6979,
-  "2022-04-05": 6979,
-  "2022-04-06": 6979,
-  "2022-04-07": 6979,
-  "2022-04-08": 6979,
-  "2022-04-09": 6979,
-  "2022-04-10": 6979,
-  "2022-04-11": 6979,
-  "2022-04-12": 6979,
-  "2022-04-13": 6979,
-  "2022-04-14": 6979,
-  "2022-04-15": 6979,
-  "2022-04-16": 6979,
-  "2022-04-17": 6979,
-  "2022-04-18": 6979,
-  "2022-04-19": 6979,
-  "2022-04-20": 6979,
-  "2022-04-21": 6979,
-  "2022-04-22": 6979,
-  "2022-04-23": 6979,
-  "2022-04-24": 6979,
-  "2022-04-25": 6979,
-  "2022-04-26": 6979,
-  "2022-04-27": 6979,
-  "2022-04-28": 6979,
-  "2022-04-29": 6979,
-  "2022-04-30": 6979,
-  "2022-05-01": 6979,
-  "2022-05-02": 6979,
-  "2022-05-03": 6979,
-  "2022-05-04": 6979,
-  "2022-05-05": 6979,
-  "2022-05-06": 6979,
-  "2022-05-07": 6979,
-  "2022-05-08": 6979,
-  "2022-05-09": 6979,
-  "2022-05-10": 6979,
-  "2022-05-11": 6979,
-  "2022-05-12": 6979,
-  "2022-05-13": 6979,
-  "2022-05-14": 6979,
-  "2022-05-15": 6979,
-  "2022-05-16": 6979,
-  "2022-05-17": 6979,
-  "2022-05-18": 6979,
-  "2022-05-19": 6979,
-  "2022-05-20": 6979,
-  "2022-05-21": 6979,
-  "2022-05-22": 6979,
-  "2022-05-23": 6979,
-  "2022-05-24": 6979,
-  "2022-05-25": 6979,
-  "2022-05-26": 6979,
-  "2022-05-27": 6979,
-  "2022-05-28": 6979,
-  "2022-05-29": 6979,
-  "2022-05-30": 6979,
-  "2022-05-31": 6979,
-  "2022-06-01": 6979,
-  "2022-06-02": 6979,
-  "2022-06-03": 6979,
-  "2022-06-04": 6979,
-  "2022-06-05": 6979,
-  "2022-06-06": 6979,
-  "2022-06-07": 6979,
-  "2022-06-08": 6979,
-  "2022-06-09": 6979,
-  "2022-06-10": 6979,
-  "2022-06-11": 6979,
-  "2022-06-12": 6979,
-  "2022-06-13": 6979,
-  "2022-06-14": 6979,
-  "2022-06-15": 6979,
-  "2022-06-16": 6979,
-  "2022-06-17": 6979,
-  "2022-06-18": 6979,
-  "2022-06-19": 6979,
-  "2022-06-20": 6979,
-  "2022-06-21": 6979,
-  "2022-06-22": 6979,
-  "2022-06-23": 6979,
-  "2022-06-24": 6979,
-  "2022-06-25": 6979,
-  "2022-06-26": 6979,
-  "2022-06-27": 6979,
-  "2022-06-28": 6979,
-  "2022-06-29": 6979,
-  "2022-06-30": 6979,
-  "2022-07-01": 6979,
-  "2022-07-02": 6979,
-  "2022-07-03": 6979,
-  "2022-07-04": 6979,
-  "2022-07-05": 6979,
-  "2022-07-06": 6979,
-  "2022-07-07": 6979,
-  "2022-07-08": 6979,
-  "2022-07-09": 6979,
-  "2022-07-10": 6979,
-  "2022-07-11": 6979,
-  "2022-07-12": 6979,
-  "2022-07-13": 6979,
-  "2022-07-14": 6979,
-  "2022-07-15": 6979,
-  "2022-07-16": 6979,
-  "2022-07-17": 6979,
-  "2022-07-18": 6979,
-  "2022-07-19": 6979,
-  "2022-07-20": 6979,
-  "2022-07-21": 6979,
-  "2022-07-22": 6979,
-  "2022-07-23": 6979,
-  "2022-07-24": 6979,
-  "2022-07-25": 6979,
-  "2022-07-26": 6979,
-  "2022-07-27": 6979,
-  "2022-07-28": 6979,
-  "2022-07-29": 6979,
-  "2022-07-30": 6979,
-  "2022-07-31": 6979,
-  "2022-08-01": 6979,
-  "2022-08-02": 6979,
-  "2022-08-03": 6979,
-  "2022-08-04": 6979,
-  "2022-08-05": 6979,
-  "2022-08-06": 6979,
-  "2022-08-07": 6979,
-  "2022-08-08": 6979,
-  "2022-08-09": 6979,
-  "2022-08-10": 6979,
-  "2022-08-11": 6979,
-  "2022-08-12": 6979,
-  "2022-08-13": 6979,
-  "2022-08-14": 6979,
-  "2022-08-15": 6979,
-  "2022-08-16": 6979,
-  "2022-08-17": 6979,
-  "2022-08-18": 6979,
-  "2022-08-19": 6979,
-  "2022-08-20": 6979,
-  "2022-08-21": 6979,
-  "2022-08-22": 6979,
-  "2022-08-23": 6979,
-  "2022-08-24": 6979,
-  "2022-08-25": 6979,
-  "2022-08-26": 6979,
-  "2022-08-27": 6979,
-  "2022-08-28": 6979,
-  "2022-08-29": 6979,
-  "2022-08-30": 6979,
-  "2022-08-31": 6979,
-  "2022-09-01": 6979,
-  "2022-09-02": 6979,
-  "2022-09-03": 6979,
-  "2022-09-04": 6979,
-  "2022-09-05": 6979,
-  "2022-09-06": 6979,
-  "2022-09-07": 6979,
-  "2022-09-09": 6979,
-  "2022-09-10": 6979,
-  "2022-09-11": 6979,
-  "2022-09-12": 6979,
-  "2022-09-13": 6979,
-  "2022-09-15": 6979,
-  "2022-09-16": 6979,
-  "2022-09-17": 6979,
-  "2022-09-18": 6979,
-  "2022-09-19": 6979,
-  "2022-09-20": 6979,
-  "2022-09-21": 6979,
-  "2022-09-22": 6979,
-  "2022-09-23": 6979,
-  "2022-09-24": 6979,
-  "2022-09-25": 6979,
-  "2022-09-26": 6979,
-  "2022-09-27": 6979,
-  "2022-09-28": 6979,
-  "2022-09-29": 6979,
-  "2022-09-30": 6979,
-  "2022-10-01": 6979,
-  "2022-10-02": 6979,
-  "2022-10-03": 6979,
-  "2022-10-04": 6979,
-  "2022-10-05": 6979,
-  "2022-10-06": 6979,
-  "2022-10-07": 6979,
-  "2022-10-08": 6979,
-  "2022-10-09": 6979,
-  "2022-10-10": 6979,
-  "2022-10-11": 6979,
-  "2022-10-12": 6979,
-  "2022-10-13": 6979,
-  "2022-10-14": 6979,
-  "2022-10-15": 6979,
-  "2022-10-16": 6979,
-  "2022-10-17": 6979,
-  "2022-10-18": 6979,
-  "2022-10-19": 6979,
-  "2022-10-20": 6979,
-  "2022-10-21": 6979,
-  "2022-10-22": 6979,
-  "2022-10-23": 6979,
-  "2022-10-24": 6979,
-  "2022-10-25": 6979,
-  "2022-10-26": 6979,
-  "2022-10-27": 6979,
-  "2022-10-28": 6979,
-  "2022-10-29": 6979,
-  "2022-10-30": 6979,
-  "2022-10-31": 6979,
-  "2022-11-01": 6979,
-  "2022-11-02": 6979,
-  "2022-11-03": 6979,
-  "2022-11-04": 6979,
-  "2022-11-05": 6979,
-  "2022-11-06": 6979,
-  "2022-11-07": 6979,
-  "2022-11-08": 6979,
-  "2022-11-09": 6979,
-  "2022-11-10": 6979,
-  "2022-11-11": 6979,
-  "2022-11-12": 6979,
-  "2022-11-13": 6979,
-  "2022-11-14": 6979,
-  "2022-11-15": 6979,
-  "2022-11-16": 6979,
-  "2022-11-17": 6979,
-  "2022-11-18": 6979,
-  "2022-11-19": 6979,
-  "2022-11-20": 6979,
-  "2022-11-21": 6979,
-  "2022-11-22": 6979,
-  "2022-11-23": 6979,
-  "2022-11-24": 6979,
-  "2022-11-25": 6979,
-  "2022-11-26": 6979,
-  "2022-11-27": 6979,
-  "2022-11-28": 6979,
-  "2022-11-29": 6979,
-  "2022-11-30": 6979,
-  "2022-12-01": 6979,
-  "2022-12-02": 6979,
-  "2022-12-03": 6979,
-  "2022-12-04": 6979,
-  "2022-12-05": 6979,
-  "2022-12-06": 6979,
-  "2022-12-07": 6979,
-  "2022-12-08": 6979,
-  "2022-12-09": 6979,
-  "2022-12-10": 6979,
-  "2022-12-11": 6979,
-  "2022-12-12": 6979,
-  "2022-12-13": 6979,
-  "2022-12-14": 6979,
-  "2022-12-15": 6979,
-  "2022-12-16": 6979,
-  "2022-12-17": 6979,
-  "2022-12-18": 6979,
-  "2022-12-19": 6979,
-  "2022-12-20": 6979,
-  "2022-12-21": 6979,
-  "2022-12-22": 6979,
-  "2022-12-24": 6979,
-  "2022-12-25": 6979,
-  "2022-12-26": 6979,
-  "2022-12-27": 6979,
-  "2022-12-28": 6979,
-  "2022-12-29": 6979,
-  "2022-12-30": 6979,
-  "2022-12-31": 6979,
-  "2023-01-01": 6979,
-  "2023-01-02": 6979,
-  "2023-01-03": 6979,
-  "2023-01-04": 6979,
-  "2023-01-05": 6979,
-  "2023-01-06": 6979,
-  "2023-01-07": 6979,
-  "2023-01-08": 6979,
-  "2023-01-09": 6979,
-  "2023-01-10": 6979,
-  "2023-01-11": 6979,
-  "2023-01-12": 6979,
-  "2023-01-13": 6979,
-  "2023-01-14": 6979,
-  "2023-01-15": 6979,
-  "2023-01-16": 6979,
-  "2023-01-17": 6979,
-  "2023-01-18": 6979,
-  "2023-01-19": 6979,
-  "2023-01-20": 6979,
-  "2023-01-21": 6979,
-  "2023-01-22": 6979,
-  "2023-01-23": 6979,
-  "2023-01-24": 6979,
-  "2023-01-25": 6979,
-  "2023-01-26": 6979,
-  "2023-01-27": 6979,
-  "2023-01-28": 6979,
-  "2023-01-29": 6979,
-  "2023-01-30": 6979,
-  "2023-01-31": 6979,
-  "2023-02-01": 6979,
-  "2023-02-02": 6979,
-  "2023-02-03": 6979,
-  "2023-02-04": 6979,
-  "2023-02-05": 6979,
-  "2023-02-06": 6979,
-  "2023-02-07": 6979,
-  "2023-02-08": 6979,
-  "2023-02-09": 6979,
-  "2023-02-10": 6979,
-  "2023-02-11": 6979,
-  "2023-02-12": 6979,
-  "2023-02-13": 6979,
-  "2023-02-14": 6979,
-  "2023-02-15": 6979,
-  "2023-02-16": 6979,
-  "2023-02-17": 6979,
-  "2023-02-18": 6979,
-  "2023-02-19": 6979,
-  "2023-02-20": 6979,
-  "2023-02-21": 6979,
-  "2023-02-22": 6979,
-  "2023-02-23": 6979,
-  "2023-02-24": 6979,
-  "2023-02-25": 6979,
-  "2023-02-26": 6979,
-  "2023-02-27": 6979,
-  "2023-02-28": 6979,
-  "2023-03-01": 6979,
-  "2023-03-02": 6979,
-  "2023-03-03": 6979,
-  "2023-03-04": 6979,
-  "2023-03-05": 6979,
-  "2023-03-06": 6979,
-  "2023-03-07": 6979,
-  "2023-03-08": 6979,
-  "2023-03-09": 6979,
-  "2023-03-10": 6979,
-  "2023-03-11": 6979,
-  "2023-03-12": 6979,
-  "2023-03-13": 6979,
-  "2023-03-14": 6979,
-  "2023-03-15": 6979,
-  "2023-03-16": 6979,
-  "2023-03-17": 6979,
-  "2023-03-18": 6979,
-  "2023-03-19": 6979,
-  "2023-03-20": 6979,
-  "2023-03-21": 6979,
-  "2023-03-22": 6979,
-  "2023-03-23": 6979,
-  "2023-03-24": 6979,
-  "2023-03-25": 6979,
-  "2023-03-26": 6979,
-  "2023-03-27": 6979,
-  "2023-03-28": 6979,
-  "2023-03-29": 6979,
-  "2023-03-30": 6979,
-  "2023-03-31": 6979,
-  "2023-04-01": 6979,
-  "2023-04-02": 6979,
-  "2023-04-03": 6979,
-  "2023-04-04": 6979,
-  "2023-04-05": 6979,
-  "2023-04-06": 6979,
-  "2023-04-07": 6979,
-  "2023-04-09": 6979,
-  "2023-04-10": 6979,
-  "2023-04-11": 6979,
-  "2023-04-12": 6979,
-  "2023-04-13": 6979,
-  "2023-04-14": 6979,
-  "2023-04-15": 6979,
-  "2023-04-16": 6979,
-  "2023-04-17": 6979,
-  "2023-04-18": 6979,
-  "2023-04-19": 6979,
-  "2023-04-20": 6979,
-  "2023-04-21": 6979,
-  "2023-04-22": 6979,
-  "2023-04-23": 6979,
-  "2023-04-24": 6979,
-  "2023-04-25": 6979,
-  "2023-04-26": 6979,
-  "2023-04-27": 6979,
-  "2023-04-28": 6979,
-  "2023-04-29": 6979,
-  "2023-04-30": 6979,
-  "2023-05-01": 6979,
-  "2023-05-02": 6979,
-  "2023-05-03": 6979,
-  "2023-05-04": 6979,
-  "2023-05-05": 6979,
-  "2023-05-06": 6979,
-  "2023-05-07": 6979,
-  "2023-05-08": 6979,
-  "2023-05-09": 6979,
-  "2023-05-10": 6979,
-  "2023-05-11": 6979,
-  "2023-05-12": 6979,
-  "2023-05-13": 6979,
-  "2023-05-14": 6979,
-  "2023-05-15": 6979,
-  "2023-05-16": 6979,
-  "2023-05-17": 6979,
-  "2023-05-18": 6979,
-  "2023-05-19": 6979,
-  "2023-05-20": 6979,
-  "2023-05-21": 6979,
-  "2023-05-22": 6979,
-  "2023-05-23": 6979,
-  "2023-05-24": 6979,
-  "2023-05-25": 6979,
-  "2023-05-26": 6979,
-  "2023-05-27": 6979,
-  "2023-05-28": 6979,
-  "2023-05-29": 6979,
-  "2023-05-30": 6979,
-  "2023-05-31": 6979,
-  "2023-06-01": 6979,
-  "2023-06-02": 6979,
-  "2023-06-03": 6979,
-  "2023-06-04": 6979,
-  "2023-06-05": 6979,
-  "2023-06-06": 6979,
-  "2023-06-07": 6979,
-  "2023-06-08": 6979,
-  "2023-06-09": 6979,
-  "2023-06-10": 6979,
-  "2023-06-11": 6979,
-  "2023-06-12": 6979,
-  "2023-06-13": 6979,
-  "2023-06-14": 6979,
-  "2023-06-15": 6979,
-  "2023-06-16": 6979,
-  "2023-06-17": 6979,
-  "2023-06-18": 6979,
-  "2023-06-19": 6979,
-  "2023-06-20": 6979,
-  "2023-06-21": 6979,
-  "2023-06-22": 6979,
-  "2023-06-23": 6979,
-  "2023-06-24": 6979,
-  "2023-06-25": 6979,
-  "2023-06-26": 6979,
-  "2023-06-27": 6979,
-  "2023-06-28": 6979,
-  "2023-06-29": 6979,
-  "2023-06-30": 6979,
-  "2023-07-01": 6979,
-  "2023-07-02": 6979,
-  "2023-07-03": 6979,
-  "2023-07-04": 6979,
-  "2023-07-05": 6979,
-  "2023-07-06": 6979,
-  "2023-07-07": 6979,
-  "2023-07-08": 6979,
-  "2023-07-09": 6979,
-  "2023-07-10": 6979,
-  "2023-07-11": 6979,
-  "2023-07-12": 6979,
-  "2023-07-13": 6979,
-  "2023-07-14": 6979,
-  "2023-07-15": 6979,
-  "2023-07-16": 6979,
-  "2023-07-17": 6979,
-  "2023-07-18": 6979,
-  "2023-07-19": 6979,
-  "2023-07-20": 6979,
-  "2023-07-21": 6979,
-  "2023-07-22": 6979,
-  "2023-07-23": 6979,
-  "2023-07-24": 6979,
-  "2023-07-25": 6979,
-  "2023-07-26": 6979,
-  "2023-07-27": 6979,
-  "2023-07-28": 6979,
-  "2023-07-29": 6979,
-  "2023-07-30": 6979,
-  "2023-07-31": 6979,
-  "2023-08-01": 6979,
-  "2023-08-02": 6979,
-  "2023-08-03": 6979,
-  "2023-08-04": 6979,
-  "2023-08-05": 6979,
-  "2023-08-06": 6979,
-  "2023-08-07": 6979,
-  "2023-08-08": 6979,
-  "2023-08-09": 6979,
-  "2023-08-10": 6979,
-  "2023-08-11": 6979,
-  "2023-08-12": 6979,
-  "2023-08-13": 6979,
-  "2023-08-14": 6979,
-  "2023-08-15": 6979,
-  "2023-08-16": 6979,
-  "2023-08-17": 6979,
-  "2023-08-18": 6979,
-  "2023-08-19": 6979,
-  "2023-08-20": 6979,
-  "2023-08-21": 6979,
-  "2023-08-22": 6979,
-  "2023-08-23": 6979,
-  "2023-08-24": 6979,
-  "2023-08-25": 6979,
-  "2023-08-26": 6979,
-  "2023-08-27": 6979,
-  "2023-08-28": 6979,
-  "2023-08-29": 6979,
-  "2023-08-30": 6979,
-  "2023-08-31": 6979,
-  "2023-09-01": 6979,
-  "2023-09-02": 6979,
-  "2023-09-03": 6979,
-  "2023-09-04": 6979,
-  "2023-09-05": 6979,
-  "2023-09-06": 6979,
-  "2023-09-07": 6979,
-  "2023-09-08": 6979,
-  "2023-09-09": 6979,
-  "2023-09-10": 6979,
-  "2023-09-11": 6979,
-  "2023-09-12": 6979,
-  "2023-09-13": 6979,
-  "2023-09-14": 6979,
-  "2023-09-15": 6979,
-  "2023-09-16": 6979,
-  "2023-09-17": 6979,
-  "2023-09-18": 6979,
-  "2023-09-19": 6979,
-  "2023-09-20": 6979,
-  "2023-09-21": 6979,
-  "2023-09-22": 6979,
-  "2023-09-23": 6979,
-  "2023-09-24": 6979,
-  "2023-09-25": 6979,
-  "2023-09-26": 6979,
-  "2023-09-27": 6979,
-  "2023-09-28": 6979,
-  "2023-09-29": 6979,
-  "2023-09-30": 6979,
-  "2023-10-01": 6979,
-  "2023-10-02": 6979,
-  "2023-10-03": 6979,
-  "2023-10-04": 6979,
-  "2023-10-05": 6979,
-  "2023-10-06": 6979,
-  "2023-10-07": 6979,
-  "2023-10-08": 6979,
-  "2023-10-09": 6979,
-  "2023-10-10": 6979,
-  "2023-10-11": 6979,
-  "2023-10-12": 6979,
-  "2023-10-13": 6979,
-  "2023-10-14": 6979,
-  "2023-10-15": 6979,
-  "2023-10-16": 6979,
-  "2023-10-17": 6979,
-  "2023-10-18": 6979,
-  "2023-10-19": 6979,
-  "2023-10-20": 6979,
-  "2023-10-21": 6979,
-  "2023-10-22": 6979,
-  "2023-10-23": 6979,
-  "2023-10-24": 6979,
-  "2023-10-25": 6979,
-  "2023-10-26": 6979,
-  "2023-10-27": 6979,
-  "2023-10-28": 6979,
-  "2023-10-29": 6979,
-  "2023-10-30": 6979,
-  "2023-10-31": 6979,
-  "2023-11-01": 6979,
-  "2023-11-02": 6979,
-  "2023-11-03": 6979,
-  "2023-11-04": 6979,
-  "2023-11-05": 6979,
-  "2023-11-06": 6979,
-  "2023-11-07": 6979,
-  "2023-11-08": 6979,
-  "2023-11-09": 6979,
-  "2023-11-10": 6979,
-  "2023-11-11": 6979,
-  "2023-11-12": 6979,
-  "2023-11-13": 6979,
-  "2023-11-14": 6979,
-  "2023-11-15": 6979,
-  "2023-11-16": 6979,
-  "2023-11-17": 6979,
-  "2023-11-18": 6979,
-  "2023-11-19": 6979,
-  "2023-11-20": 6979,
-  "2023-11-21": 6979,
-  "2023-11-22": 6979,
-  "2023-11-23": 6979,
-  "2023-11-24": 6979,
-  "2023-11-25": 6979,
-  "2023-11-26": 6979,
-  "2023-11-27": 6979,
-  "2023-11-28": 6979,
-  "2023-11-29": 6979,
-  "2023-11-30": 6979,
-  "2023-12-01": 6979,
-  "2023-12-02": 6979,
-  "2023-12-03": 6979,
-  "2023-12-04": 6979,
-  "2023-12-05": 6979,
-  "2023-12-06": 6979,
-  "2023-12-07": 6979,
-  "2023-12-08": 6979,
-  "2023-12-09": 6979,
-  "2023-12-10": 6979,
-  "2023-12-11": 6979,
-  "2023-12-12": 6979,
-  "2023-12-13": 6979,
-  "2023-12-14": 6979,
-  "2023-12-15": 6979,
-  "2023-12-16": 6979,
-  "2023-12-17": 6979,
-  "2023-12-18": 6979,
-  "2023-12-19": 6979,
-  "2023-12-20": 6979,
-  "2023-12-21": 6979,
-  "2023-12-22": 6979,
-  "2023-12-23": 6979,
-  "2023-12-24": 6979,
-  "2023-12-25": 6979,
-  "2023-12-26": 6979,
-  "2023-12-27": 6979,
-  "2023-12-30": 6979,
-  "2023-12-31": 6979,
-  "2024-01-01": 6979,
-  "2024-01-02": 6979,
-  "2024-01-03": 6979
+  "2024-01-17": 6979,
+  "date_first_scraped": "2021-12-21",
+  "description": "Comedians weigh in on all things sports, football, and -of course- the Super Bowl.",
+  "name": "The Funny Thing About Football Is...",
+  "tracks": [
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269226,
+      "name": "America Loses It's Mind",
+      "url": "https://open.spotify.com/track/5M469KaLo1PNb4OrCfDVFl"
+    },
+    {
+      "album": {
+        "name": "Comedian",
+        "url": "https://open.spotify.com/album/7ty80QhFy4GZ5WLWZqlo6Z"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Ajaye",
+          "url": "https://open.spotify.com/artist/7rbEMtV9BwuY50Y0e6iVQ4"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92120,
+      "name": "B Football",
+      "url": "https://open.spotify.com/track/2YzhPIpucueJQkOytM8285"
+    },
+    {
+      "album": {
+        "name": "Funny How?",
+        "url": "https://open.spotify.com/album/3N8VKzEKtOeNRe8adGJH35"
+      },
+      "artists": [
+        {
+          "name": "Nick Di Paolo",
+          "url": "https://open.spotify.com/artist/7naOkDNNXvQkBOoV0KZEPK"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89226,
+      "name": "BBQ Grill",
+      "url": "https://open.spotify.com/track/2neWa1jjxRXwox0YW0F3oH"
+    },
+    {
+      "album": {
+        "name": "Jack Benny Program, Vol. 2: Vintage Comedy Radio Episodes",
+        "url": "https://open.spotify.com/album/4fsukVOvIyYEC69aUUuBiJ"
+      },
+      "artists": [
+        {
+          "name": "Jack Benny",
+          "url": "https://open.spotify.com/artist/2LVZkJV3QeInWxmgeFzziL"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1787455,
+      "name": "Buying USC-UCLA Football Game Tickets",
+      "url": "https://open.spotify.com/track/7jCk8Ghr0grlxUd2Zuswu2"
+    },
+    {
+      "album": {
+        "name": "The End Of The Universe",
+        "url": "https://open.spotify.com/album/4YHtvoxX17COevFj2T2DQm"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423160,
+      "name": "Coke and Pepsi and the Super Bowl of 2001",
+      "url": "https://open.spotify.com/track/5JDKnAqRRAPalDoExl0hWG"
+    },
+    {
+      "album": {
+        "name": "True Stories I Made Up",
+        "url": "https://open.spotify.com/album/4Zt1BxHpCk3ASGmQsFXz7G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Tosh",
+          "url": "https://open.spotify.com/artist/2RQsqlGDunlzpIEm43kSlM"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218346,
+      "name": "Dream Small The Disappointment Hurts Less",
+      "url": "https://open.spotify.com/track/6thYFdbWJ1qbzXBFkCWe1W"
+    },
+    {
+      "album": {
+        "name": "Jack And Coke",
+        "url": "https://open.spotify.com/album/1O5frSZHRvzTU8pkTaOB4w"
+      },
+      "artists": [
+        {
+          "name": "Artie Lange",
+          "url": "https://open.spotify.com/artist/3s5KtckSMZSS7wsELtMDme"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233133,
+      "name": "Eagles Fans",
+      "url": "https://open.spotify.com/track/1qR0DMhSaO92tnnb1z7FhC"
+    },
+    {
+      "album": {
+        "name": "Comedy Tonight",
+        "url": "https://open.spotify.com/album/1MT9Ef63RCTgYf0ha0QKCY"
+      },
+      "artists": [
+        {
+          "name": "Franklyn Ajaye",
+          "url": "https://open.spotify.com/artist/7rbEMtV9BwuY50Y0e6iVQ4"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Football",
+      "url": "https://open.spotify.com/track/1tvv9vNN7m7iPvstEkSbpD"
+    },
+    {
+      "album": {
+        "name": "Why Do I Do This",
+        "url": "https://open.spotify.com/album/60z6eVAiESsGhfd4mIpEm0"
+      },
+      "artists": [
+        {
+          "name": "Bill Burr",
+          "url": "https://open.spotify.com/artist/25qhKKJ17Ury0KqRKJXj4d"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92026,
+      "name": "Football Coach",
+      "url": "https://open.spotify.com/track/7hNvrpZbcsVPkfXvnaatjG"
+    },
+    {
+      "album": {
+        "name": "Comedy for People",
+        "url": "https://open.spotify.com/album/54SmfkLJeAESASOBvtC8l3"
+      },
+      "artists": [
+        {
+          "name": "Beards Of Comedy",
+          "url": "https://open.spotify.com/artist/6zggtDJU4YYgFb1sXzPFr8"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100231,
+      "name": "Football Commercials",
+      "url": "https://open.spotify.com/track/7faaYeOl0q3rgJzmv052Ns"
+    },
+    {
+      "album": {
+        "name": "The Very Best In Comedy Vol. 1",
+        "url": "https://open.spotify.com/album/6z1hn2XXvJSy9AA35peuMG"
+      },
+      "artists": [
+        {
+          "name": "Abbott & Costello",
+          "url": "https://open.spotify.com/artist/2aYDKatB8JT71pcdbjcgKS"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1558517,
+      "name": "Football Game",
+      "url": "https://open.spotify.com/track/3eBmLsuP0vAALgiBasoPez"
+    },
+    {
+      "album": {
+        "name": "Money Shot",
+        "url": "https://open.spotify.com/album/5NztqrOJLJ9qk4l3EtOqgu"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133386,
+      "name": "Guys and Sports",
+      "url": "https://open.spotify.com/track/2cMcvZ7ULm9mNI0hnskdWn"
+    },
+    {
+      "album": {
+        "name": "Halftime",
+        "url": "https://open.spotify.com/album/2Zp1eVO4WQ33ZJJGBGuKNX"
+      },
+      "artists": [
+        {
+          "name": "Billy Gardell",
+          "url": "https://open.spotify.com/artist/2MFXhBjYDQHYZ99lqLjvBL"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213346,
+      "name": "Halftime",
+      "url": "https://open.spotify.com/track/35BnpXm2jX5QxfVyZbBHt7"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184013,
+      "name": "Halftime '04",
+      "url": "https://open.spotify.com/track/5XvqQeZrYvIFuXj5F2wyic"
+    },
+    {
+      "album": {
+        "name": "The End Of The Universe",
+        "url": "https://open.spotify.com/album/4YHtvoxX17COevFj2T2DQm"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346533,
+      "name": "Halftime at the Super Bowl of 2001",
+      "url": "https://open.spotify.com/track/5UjS3HJCV8rnPu8MGmNANi"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Justin And Janet",
+      "url": "https://open.spotify.com/track/36FEd0PGXVRyZok3Vu8q1H"
+    },
+    {
+      "album": {
+        "name": "Jack And Coke",
+        "url": "https://open.spotify.com/album/1O5frSZHRvzTU8pkTaOB4w"
+      },
+      "artists": [
+        {
+          "name": "Artie Lange",
+          "url": "https://open.spotify.com/artist/3s5KtckSMZSS7wsELtMDme"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273840,
+      "name": "Lawrence Taylor",
+      "url": "https://open.spotify.com/track/0plAoFDAlsNo6NPgiT4lGd"
+    },
+    {
+      "album": {
+        "name": "Funny How?",
+        "url": "https://open.spotify.com/album/3N8VKzEKtOeNRe8adGJH35"
+      },
+      "artists": [
+        {
+          "name": "Nick Di Paolo",
+          "url": "https://open.spotify.com/artist/7naOkDNNXvQkBOoV0KZEPK"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284240,
+      "name": "Michael Vick",
+      "url": "https://open.spotify.com/track/4QxFZyRVb7m5mEODpJfm7S"
+    },
+    {
+      "album": {
+        "name": "The Vintage Comedy Collection",
+        "url": "https://open.spotify.com/album/6alzxoJT2lNOvVRuG80LgC"
+      },
+      "artists": [
+        {
+          "name": "Weber & Fields",
+          "url": "https://open.spotify.com/artist/2IYivubOjbf5UEhl3FLvAb"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186453,
+      "name": "Mike Meyer At The Football Game Part 1",
+      "url": "https://open.spotify.com/track/3hRANb9cstv5t4aVGna9wH"
+    },
+    {
+      "album": {
+        "name": "The Vintage Comedy Collection",
+        "url": "https://open.spotify.com/album/6alzxoJT2lNOvVRuG80LgC"
+      },
+      "artists": [
+        {
+          "name": "Weber & Fields",
+          "url": "https://open.spotify.com/artist/2IYivubOjbf5UEhl3FLvAb"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Mike Meyer At The Football Game Part 2",
+      "url": "https://open.spotify.com/track/7n5RYobY6sGHcb9lMPfBvx"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/7wTMnfTS5JutmUEOjiNlRt"
+    },
+    {
+      "album": {
+        "name": "Funny How?",
+        "url": "https://open.spotify.com/album/3N8VKzEKtOeNRe8adGJH35"
+      },
+      "artists": [
+        {
+          "name": "Nick Di Paolo",
+          "url": "https://open.spotify.com/artist/7naOkDNNXvQkBOoV0KZEPK"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Neck Muscle",
+      "url": "https://open.spotify.com/track/0EHGvaTdcaOyfHho1eJMaV"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166186,
+      "name": "Nipple Clamps",
+      "url": "https://open.spotify.com/track/7AqbcU8rve7nn8eWDiRUos"
+    },
+    {
+      "album": {
+        "name": "Final Engagement",
+        "url": "https://open.spotify.com/album/1XuQCO3AH672Qywfb6Y5YD"
+      },
+      "artists": [
+        {
+          "name": "Marc Maron",
+          "url": "https://open.spotify.com/artist/66VG2mrV8hpXCAiPI5WYG6"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Not a Sports Guy",
+      "url": "https://open.spotify.com/track/0vVgfJLPNvN89Zuz32myyy"
+    },
+    {
+      "album": {
+        "name": "That's How We Do It!",
+        "url": "https://open.spotify.com/album/6t1hKHHrnYzUxYTLaEl9UL"
+      },
+      "artists": [
+        {
+          "name": "Anjelah Johnson",
+          "url": "https://open.spotify.com/artist/5uM0Xhxwo3D632eVABcctF"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361986,
+      "name": "Oakland Raiders",
+      "url": "https://open.spotify.com/track/2Iz3hx26nSpPoAbZwZ1ATF"
+    },
+    {
+      "album": {
+        "name": "Road Rage",
+        "url": "https://open.spotify.com/album/1tAPudNlhIUfvpFGC0kUd3"
+      },
+      "artists": [
+        {
+          "name": "Nick Di Paolo",
+          "url": "https://open.spotify.com/artist/7naOkDNNXvQkBOoV0KZEPK"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132706,
+      "name": "Soccer vs. Football",
+      "url": "https://open.spotify.com/track/0Hqp30bZdsGlE5ioFIJnux"
+    },
+    {
+      "album": {
+        "name": "Conversations With Inanimate Objects",
+        "url": "https://open.spotify.com/album/4cWgeuXwUTFB18uAy3JADS"
+      },
+      "artists": [
+        {
+          "name": "Gary Gulman",
+          "url": "https://open.spotify.com/artist/1e6dQzOjEh1eHhme10gUjm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120013,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/5kA8WI9BjXnG55YKqyxred"
+    },
+    {
+      "album": {
+        "name": "Emotional Ninja",
+        "url": "https://open.spotify.com/album/7fnA7ylxDbl2lvp8sebj3D"
+      },
+      "artists": [
+        {
+          "name": "Whitney Cummings",
+          "url": "https://open.spotify.com/artist/5nrXNyP5XC1DIgN1CPycmy"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100133,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/1hzBkFynpDXu8Kb3LljC3a"
+    },
+    {
+      "album": {
+        "name": "Midlife Vices",
+        "url": "https://open.spotify.com/album/3cswNF1JhsZpI5xLsnrFT0"
+      },
+      "artists": [
+        {
+          "name": "Greg Giraldo",
+          "url": "https://open.spotify.com/artist/10qBkc8lLi41AsFmvEqa3x"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366533,
+      "name": "Sports / China",
+      "url": "https://open.spotify.com/track/54VpGOSXcMJOxXcJHPtomB"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "Superbowl Redux",
+      "url": "https://open.spotify.com/track/5EWwq9VjObrguXGAOfOOm6"
+    },
+    {
+      "album": {
+        "name": "Feelin' Kinda Patton",
+        "url": "https://open.spotify.com/album/6QV7eBU4Y3kEzJuiRNdMDs"
+      },
+      "artists": [
+        {
+          "name": "Patton Oswalt",
+          "url": "https://open.spotify.com/artist/6YvKo1VtZxCoT8IkbAYswy"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128333,
+      "name": "The Winning Team",
+      "url": "https://open.spotify.com/track/6aPmr8JyB0eZUFuL2cCTwu"
+    },
+    {
+      "album": {
+        "name": "Jack And Coke",
+        "url": "https://open.spotify.com/album/1O5frSZHRvzTU8pkTaOB4w"
+      },
+      "artists": [
+        {
+          "name": "Artie Lange",
+          "url": "https://open.spotify.com/artist/3s5KtckSMZSS7wsELtMDme"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234186,
+      "name": "Tom Brady",
+      "url": "https://open.spotify.com/track/3bxNERrs00knR7dGNqzBJu"
+    },
+    {
+      "album": {
+        "name": "American Originals (Remastered)",
+        "url": "https://open.spotify.com/album/0AZRL1tTzpbcP76hajJQFw"
+      },
+      "artists": [
+        {
+          "name": "Andy Griffith",
+          "url": "https://open.spotify.com/artist/7hEbJvh3BAedDS2vVJvx0B"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340400,
+      "name": "What It Was, Was Football - Pts. 1 & 2 / Remastered 1993",
+      "url": "https://open.spotify.com/track/2l24teAeQMncLusiqD08Ar"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2015-02-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137440,
+      "name": "What Sex... ...Are They?",
+      "url": "https://open.spotify.com/track/4JlPqfrih2Na7vDYm7hTSa"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWsTBFM3ksVb"
 }

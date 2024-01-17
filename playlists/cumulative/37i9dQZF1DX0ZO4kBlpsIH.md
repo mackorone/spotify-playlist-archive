@@ -4,7 +4,7 @@
 
 > A taste of French café culture; the charming sounds of the Parisian streets.
 
-191 songs - 9 hr 16 min
+194 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Besame Mucho](https://open.spotify.com/track/6NTGlwq5oGviybLyppZL7T) | [Pierre\-Antoine Martin](https://open.spotify.com/artist/51QwiXSzbhgzbvvHNOcyUs) | [French Cafe](https://open.spotify.com/album/5adQdukvF9RPivGzmYQUAC) | 3:21 | 2023-03-15 | 2023-08-19 |
 | [Bistro Fada](https://open.spotify.com/track/08T5wMbEnPN8ghT8o24KY6) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Bistro Fada](https://open.spotify.com/album/6lT35xJDhO7Ao5TOLfKsqZ) | 3:02 | 2022-02-18 |  |
 | [Black and White](https://open.spotify.com/track/2EQpfex5XjYR1ctXdtjJ9I) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:01 | 2023-05-18 |  |
+| [bleu comme ton cœur](https://open.spotify.com/track/66rl8hBMjkG5qOwzwP7sRN) | [Swing Bohème](https://open.spotify.com/artist/4NfSzqocfeGJwQeP3vulmw) | [bleu comme ton cœur](https://open.spotify.com/album/6bMV2838VZMsLZ6wLoHnyp) | 4:20 | 2024-01-05 |  |
 | [Bleu D’Auvergne](https://open.spotify.com/track/6q0M3prfVKJeSdx2ruNjsg) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Songs in a Parisian Cafe](https://open.spotify.com/album/0zZVqcIwJ2Z5gGs9oooaO5) | 1:50 | 2023-03-15 | 2023-08-04 |
 | [Bohemienne](https://open.spotify.com/track/24B4JQh1WaoVllHGQzjRMr) | [Cafe Accordion Orchestra](https://open.spotify.com/artist/6utQ2I1L0PDIc1mwU6tf5M) | [Dancing On the Moon](https://open.spotify.com/album/0Zf7Qa3xDuoaYmKgJun22x) | 4:22 | 2022-11-25 | 2023-08-19 |
 | [bol et rot](https://open.spotify.com/track/0o41kkPhY0if5o8mdXUgKl) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Parfum de Paris](https://open.spotify.com/album/3gHpNebmsHMAiLJZoIohHl) | 2:54 | 2023-06-15 |  |
@@ -38,6 +39,7 @@
 | [Cest Si Bon](https://open.spotify.com/track/0OHa1UeDdKnkfGlq7brxnB) | [Bon Appétit Musique](https://open.spotify.com/artist/7tWQJ9vhVcQQBscWdUR4MI) | [France And French Cafe Accordion Music](https://open.spotify.com/album/41kogh7wCSEEL2olQyMmXi) | 3:16 | 2022-02-18 | 2023-01-12 |
 | [Chapeau Mou](https://open.spotify.com/track/1rmj070DPlN49hcaQvUD2J) | [Les Sales Gosses](https://open.spotify.com/artist/3ysjzjJYSYv6Rp4j2Buspn) | [Vallée Fleurie](https://open.spotify.com/album/5x7vEsluoexnpCH0T5dE37) | 2:04 | 2023-08-03 |  |
 | [Cirque Francais](https://open.spotify.com/track/1e8P1UMUIa6sOlX9a4BbNb) | [Ralf Gscheidle](https://open.spotify.com/artist/7KlIXYsEgvbJzrCqcWTauW) | [Accordion World](https://open.spotify.com/album/7owjEbcQb8XxoDrUYte0PG) | 2:24 | 2022-11-25 |  |
+| [Comme je te disais](https://open.spotify.com/track/2RciaGAEtLJk8u4LoCt9Zg) | [Cordeone](https://open.spotify.com/artist/1oWxX91ViQeuJImpXilLpZ) | [Comme je te disais](https://open.spotify.com/album/0Kv07HzslMBTmh9dWPXHQg) | 2:13 | 2024-01-12 |  |
 | [Coquette](https://open.spotify.com/track/5XeaVWbqR2qst9AE7CY64k) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Coquette](https://open.spotify.com/album/2FS2664m3YH36zTKCaRTxp) | 3:15 | 2023-05-18 |  |
 | [Corinne](https://open.spotify.com/track/6W8cg08lZU9JnndwYtEhTS) | [Charles Camilleri](https://open.spotify.com/artist/0S86Uw64KjBhVoZxgbuZiM), [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/3eF4eKkt4DHrOUG1A0z6wC) | 4:02 | 2022-02-18 | 2022-07-29 |
 | [Corinne](https://open.spotify.com/track/1CEjw6vteEMITpEl15WseM) | [Enrique Ugarte](https://open.spotify.com/artist/50XfjlKluHTqnuuNtr7SHI) | [Enrique Ugarte: Valse Musette De Paris](https://open.spotify.com/album/40lbxc3DN4ml0PdpajRj4u) | 4:02 | 2022-02-18 |  |
@@ -107,6 +109,7 @@
 | [Le Parc De Plaisir](https://open.spotify.com/track/3eFo3R4r0KPT932Wa5zq0P) | [Francois Parisi](https://open.spotify.com/artist/5UwPIPTmXwjYU3VoTOVXDV) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 2:12 | 2022-02-18 | 2023-05-19 |
 | [Le Plus Beau Tango Du Monde \- Tango](https://open.spotify.com/track/2UDqPpMrmvP0FXHZ35YHsP) | [Edouard Duleu](https://open.spotify.com/artist/49WpqtZQzP4PICzb34lY15) | [Au bal musette, Vol\. 4](https://open.spotify.com/album/1P2kQLzal0rB0gUutYCMjd) | 2:40 | 2022-02-18 | 2023-04-28 |
 | [Le Printemps Me Manque](https://open.spotify.com/track/3sL8PRW9gZHGVqJiuBWnrJ) | [Eugene Lambert](https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl) | [Le Printemps Me Manque](https://open.spotify.com/album/3P7c08Xkgb40avYxJQrzvE) | 3:54 | 2023-08-24 |  |
+| [Le Vieux Moulin](https://open.spotify.com/track/0gIYlhqKe0h8LRSOKMerU3) | [Bateau Mouche](https://open.spotify.com/artist/5qCJ0Ww13jRmYWuL3PLEmf) | [Le Vieux Moulin](https://open.spotify.com/album/5t2X4RIkdsCrFMshfr3g6N) | 2:48 | 2024-01-12 |  |
 | [Le Vin Est La Clé de Mon Coeur](https://open.spotify.com/track/7BnNWk7YTw1DgVN2E9owRX) | [Les Petits Parisians](https://open.spotify.com/artist/6zjNoaNyUsp1ZEIbzLv4Jk) | [Valse de la Rose](https://open.spotify.com/album/3cmofgkvBgbsU8igeIgC6w) | 1:50 | 2023-03-21 | 2023-08-19 |
 | [Les feuilles mortes](https://open.spotify.com/track/3XqH3vtrR5gTkj1XxMcKIM) | [Carré Bleu](https://open.spotify.com/artist/1QV54AIfd6OK9AbHFG19es) | [Les feuilles mortes](https://open.spotify.com/album/3OtWDcUB17fVR7UtlQof1c) | 2:28 | 2023-03-21 |  |
 | [Les rues de Paris](https://open.spotify.com/track/2Z706066GiPx7nVpQrVLqU) | [Stefano Corradi](https://open.spotify.com/artist/4KnatJMl9LPIdRUSQsYION), [Gian Pietro Marazza](https://open.spotify.com/artist/2tgYUszDncWLQhwJzSSfVX), [Luca Garlaschell](https://open.spotify.com/artist/4uHfosVwJmQAuFyXngLoPo) | [Love Routes \(Romantic Accordion Ballads in Rome\)](https://open.spotify.com/album/3lEXZx6W90Y1WjkWILQwaB) | 2:08 | 2022-02-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSmMYD9cJ98J.md) - [plain]
 
 > De jolies berceuses pour aider bébé à bien faire ses nuits
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,986 likes - 252 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,010 likes - 252 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

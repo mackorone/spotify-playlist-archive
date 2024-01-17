@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "What Are You Listening To?",
+        "url": "https://open.spotify.com/album/7jd74KSRF0oENZovGN1oBx"
+      },
+      "artists": [
+        {
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251479,
+      "name": "What Are You Listening To?",
+      "url": "https://open.spotify.com/track/3FS0ghB392xRn9wdhk7IfM"
+    },
+    {
+      "album": {
         "name": "Wonder",
         "url": "https://open.spotify.com/album/3XL3TJkGqmZac0iXTL8kdC"
       },

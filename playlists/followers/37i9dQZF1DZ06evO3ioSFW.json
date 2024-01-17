@@ -1,298 +1,1059 @@
 {
-  "2023-03-11": 363618,
-  "2023-03-12": 363893,
-  "2023-03-13": 364188,
-  "2023-03-14": 364445,
-  "2023-03-15": 364662,
-  "2023-03-16": 364662,
-  "2023-03-17": 364662,
-  "2023-03-18": 365462,
-  "2023-03-19": 365462,
-  "2023-03-20": 366071,
-  "2023-03-21": 366345,
-  "2023-03-22": 366619,
-  "2023-03-23": 366868,
-  "2023-03-24": 366868,
-  "2023-03-25": 367427,
-  "2023-03-26": 367760,
-  "2023-03-27": 368028,
-  "2023-03-28": 368280,
-  "2023-03-29": 368505,
-  "2023-03-30": 368868,
-  "2023-03-31": 368868,
-  "2023-04-01": 369083,
-  "2023-04-02": 369304,
-  "2023-04-03": 369510,
-  "2023-04-04": 369716,
-  "2023-04-05": 369943,
-  "2023-04-06": 370183,
-  "2023-04-07": 370437,
-  "2023-04-09": 370845,
-  "2023-04-10": 370993,
-  "2023-04-11": 371299,
-  "2023-04-12": 371299,
-  "2023-04-13": 371494,
-  "2023-04-14": 371717,
-  "2023-04-15": 371918,
-  "2023-04-16": 372101,
-  "2023-04-17": 372259,
-  "2023-04-18": 372420,
-  "2023-04-19": 372591,
-  "2023-04-20": 372737,
-  "2023-04-21": 372906,
-  "2023-04-22": 373098,
-  "2023-04-23": 373266,
-  "2023-04-24": 373420,
-  "2023-04-25": 373561,
-  "2023-04-26": 373691,
-  "2023-04-27": 373875,
-  "2023-04-28": 374019,
-  "2023-04-29": 374206,
-  "2023-04-30": 374365,
-  "2023-05-01": 374493,
-  "2023-05-02": 374645,
-  "2023-05-03": 374784,
-  "2023-05-04": 374916,
-  "2023-05-05": 375111,
-  "2023-05-06": 375298,
-  "2023-05-07": 375500,
-  "2023-05-08": 375658,
-  "2023-05-09": 375793,
-  "2023-05-10": 375945,
-  "2023-05-11": 376084,
-  "2023-05-12": 376244,
-  "2023-05-13": 376404,
-  "2023-05-14": 376541,
-  "2023-05-15": 376668,
-  "2023-05-16": 376824,
-  "2023-05-17": 376967,
-  "2023-05-18": 377100,
-  "2023-05-19": 377259,
-  "2023-05-20": 377616,
-  "2023-05-21": 377616,
-  "2023-05-22": 377616,
-  "2023-05-23": 377896,
-  "2023-05-24": 378125,
-  "2023-05-25": 378160,
-  "2023-05-26": 378305,
-  "2023-05-27": 378469,
-  "2023-05-28": 378609,
-  "2023-05-29": 378609,
-  "2023-05-30": 378904,
-  "2023-05-31": 379012,
-  "2023-06-01": 379159,
-  "2023-06-02": 379306,
-  "2023-06-03": 379446,
-  "2023-06-04": 379575,
-  "2023-06-05": 379677,
-  "2023-06-06": 379789,
-  "2023-06-07": 379939,
-  "2023-06-08": 380034,
-  "2023-06-09": 380162,
-  "2023-06-10": 380336,
-  "2023-06-11": 380471,
-  "2023-06-12": 380630,
-  "2023-06-13": 380765,
-  "2023-06-14": 380910,
-  "2023-06-15": 380995,
-  "2023-06-16": 381115,
-  "2023-06-17": 381239,
-  "2023-06-18": 381390,
-  "2023-06-19": 381471,
-  "2023-06-20": 381595,
-  "2023-06-21": 381728,
-  "2023-06-22": 381855,
-  "2023-06-23": 381961,
-  "2023-06-24": 382110,
-  "2023-06-25": 382225,
-  "2023-06-26": 382343,
-  "2023-06-27": 382461,
-  "2023-06-28": 382638,
-  "2023-06-29": 382766,
-  "2023-06-30": 382870,
-  "2023-07-01": 383156,
-  "2023-07-02": 383156,
-  "2023-07-03": 383240,
-  "2023-07-04": 383368,
-  "2023-07-05": 383484,
-  "2023-07-06": 383731,
-  "2023-07-07": 383731,
-  "2023-07-08": 383731,
-  "2023-07-09": 384039,
-  "2023-07-10": 384171,
-  "2023-07-11": 384287,
-  "2023-07-12": 384436,
-  "2023-07-13": 384584,
-  "2023-07-14": 384731,
-  "2023-07-15": 384815,
-  "2023-07-16": 385006,
-  "2023-07-17": 385135,
-  "2023-07-18": 385239,
-  "2023-07-19": 385335,
-  "2023-07-20": 385335,
-  "2023-07-21": 385587,
-  "2023-07-22": 385731,
-  "2023-07-23": 385868,
-  "2023-07-24": 385965,
-  "2023-07-25": 386074,
-  "2023-07-26": 386279,
-  "2023-07-27": 386419,
-  "2023-07-28": 386605,
-  "2023-07-29": 386781,
-  "2023-07-30": 386781,
-  "2023-07-31": 387134,
-  "2023-08-01": 387292,
-  "2023-08-02": 387432,
-  "2023-08-03": 387592,
-  "2023-08-04": 387763,
-  "2023-08-05": 387920,
-  "2023-08-06": 388189,
-  "2023-08-07": 388189,
-  "2023-08-08": 388346,
-  "2023-08-09": 388514,
-  "2023-08-10": 388693,
-  "2023-08-11": 388855,
-  "2023-08-12": 388855,
-  "2023-08-13": 388855,
-  "2023-08-14": 388855,
-  "2023-08-15": 388855,
-  "2023-08-16": 388855,
-  "2023-08-17": 388855,
-  "2023-08-18": 388855,
-  "2023-08-19": 388855,
-  "2023-08-20": 390425,
-  "2023-08-21": 390425,
-  "2023-08-22": 390752,
-  "2023-08-23": 390752,
-  "2023-08-24": 390752,
-  "2023-08-25": 390752,
-  "2023-08-26": 391401,
-  "2023-08-27": 391401,
-  "2023-08-28": 391733,
-  "2023-08-29": 391733,
-  "2023-08-30": 391733,
-  "2023-08-31": 392273,
-  "2023-09-01": 392434,
-  "2023-09-02": 392434,
-  "2023-09-03": 392434,
-  "2023-09-04": 392434,
-  "2023-09-05": 392434,
-  "2023-09-06": 392434,
-  "2023-09-07": 392434,
-  "2023-09-08": 392434,
-  "2023-09-09": 392434,
-  "2023-09-10": 392434,
-  "2023-09-11": 392434,
-  "2023-09-12": 392434,
-  "2023-09-13": 392434,
-  "2023-09-14": 392434,
-  "2023-09-15": 392434,
-  "2023-09-16": 394918,
-  "2023-09-17": 394918,
-  "2023-09-18": 394918,
-  "2023-09-19": 395300,
-  "2023-09-20": 395300,
-  "2023-09-21": 395300,
-  "2023-09-22": 395687,
-  "2023-09-23": 395687,
-  "2023-09-24": 395687,
-  "2023-09-25": 395687,
-  "2023-09-26": 396216,
-  "2023-09-27": 396216,
-  "2023-09-28": 396216,
-  "2023-09-29": 396216,
-  "2023-09-30": 396216,
-  "2023-10-01": 396216,
-  "2023-10-02": 396216,
-  "2023-10-03": 396216,
-  "2023-10-04": 396216,
-  "2023-10-05": 396216,
-  "2023-10-06": 396216,
-  "2023-10-07": 396216,
-  "2023-10-08": 396216,
-  "2023-10-09": 396216,
-  "2023-10-10": 396216,
-  "2023-10-11": 396216,
-  "2023-10-12": 396216,
-  "2023-10-13": 396216,
-  "2023-10-14": 396216,
-  "2023-10-15": 396216,
-  "2023-10-16": 396216,
-  "2023-10-17": 396216,
-  "2023-10-18": 396216,
-  "2023-10-19": 396216,
-  "2023-10-20": 396216,
-  "2023-10-21": 396216,
-  "2023-10-22": 396216,
-  "2023-10-23": 396216,
-  "2023-10-24": 396216,
-  "2023-10-25": 396216,
-  "2023-10-26": 396216,
-  "2023-10-27": 396216,
-  "2023-10-28": 396216,
-  "2023-10-29": 396216,
-  "2023-10-30": 396216,
-  "2023-10-31": 396216,
-  "2023-11-01": 396216,
-  "2023-11-02": 396216,
-  "2023-11-03": 396216,
-  "2023-11-04": 396216,
-  "2023-11-05": 396216,
-  "2023-11-06": 396216,
-  "2023-11-07": 396216,
-  "2023-11-08": 396216,
-  "2023-11-09": 396216,
-  "2023-11-10": 396216,
-  "2023-11-11": 401065,
-  "2023-11-12": 401065,
-  "2023-11-13": 401065,
-  "2023-11-14": 401065,
-  "2023-11-15": 401065,
-  "2023-11-16": 401065,
-  "2023-11-17": 401065,
-  "2023-11-18": 401065,
-  "2023-11-19": 401065,
-  "2023-11-20": 401065,
-  "2023-11-21": 401065,
-  "2023-11-22": 401065,
-  "2023-11-23": 401065,
-  "2023-11-24": 401065,
-  "2023-11-25": 401065,
-  "2023-11-26": 401065,
-  "2023-11-27": 401065,
-  "2023-11-28": 401065,
-  "2023-11-29": 401065,
-  "2023-11-30": 401065,
-  "2023-12-01": 401065,
-  "2023-12-02": 401065,
-  "2023-12-03": 401065,
-  "2023-12-04": 401065,
-  "2023-12-05": 401065,
-  "2023-12-06": 401065,
-  "2023-12-07": 401065,
-  "2023-12-08": 401065,
-  "2023-12-09": 401065,
-  "2023-12-10": 401065,
-  "2023-12-11": 401065,
-  "2023-12-12": 401065,
-  "2023-12-13": 401065,
-  "2023-12-14": 405439,
-  "2023-12-15": 405531,
-  "2023-12-16": 405733,
-  "2023-12-17": 405933,
-  "2023-12-18": 406096,
-  "2023-12-19": 406261,
-  "2023-12-20": 406433,
-  "2023-12-21": 406597,
-  "2023-12-22": 406761,
-  "2023-12-23": 406929,
-  "2023-12-24": 407097,
-  "2023-12-25": 407222,
-  "2023-12-26": 407334,
-  "2023-12-27": 407496,
-  "2023-12-30": 407958,
-  "2023-12-31": 408089,
-  "2024-01-01": 408227,
-  "2024-01-02": 408312,
-  "2024-01-03": 408433
+  "2024-01-17": 409246,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Yuridia. The essential tracks, all in one playlist.",
+  "name": "This Is Yuridia",
+  "tracks": [
+    {
+      "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Ahora Entendi",
+      "url": "https://open.spotify.com/track/3ExYgqotmwh9sG0hs3Zjqw"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225480,
+      "name": "Amigos No por Favor (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/2hyAEExgoEfxrVJKUJTqZV"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244893,
+      "name": "Cobarde",
+      "url": "https://open.spotify.com/track/1Pk27SJFLKsyqMJDQrOe5B"
+    },
+    {
+      "album": {
+        "name": "Como T\u00fa",
+        "url": "https://open.spotify.com/album/1bQWnxgPm6ORaX1UgOa60p"
+      },
+      "artists": [
+        {
+          "name": "Chucho Rivas",
+          "url": "https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222397,
+      "name": "Como T\u00fa",
+      "url": "https://open.spotify.com/track/4uwQvY3meWjiwSjXbhydYA"
+    },
+    {
+      "album": {
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Como Yo Nadie Te Ha Amado (This Ain't a Love Song)",
+      "url": "https://open.spotify.com/track/3Fv1f20Go5eQ39mOkt2qM1"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
+    },
+    {
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161880,
+      "name": "Con Toda Libertad",
+      "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
+    },
+    {
+      "album": {
+        "name": "Cuando Es Amor",
+        "url": "https://open.spotify.com/album/4eCVJzH5bl4F8JEcKeZ5rQ"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189424,
+      "name": "Cuando Es Amor",
+      "url": "https://open.spotify.com/track/4F6lDDi3q1Xdum015op2NS"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Cuento - Sesi\u00f3n de Estudio",
+      "url": "https://open.spotify.com/track/5d8wZd0qDKMAZVLmGZUhcn"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274346,
+      "name": "Detr\u00e1s de Mi Ventana",
+      "url": "https://open.spotify.com/track/2fU0vlCigzP7oAO8aAk2Hn"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "D\u00e9jame Volver Contigo",
+      "url": "https://open.spotify.com/track/1OMYZ5Qs0ih6cufVsAU5Ls"
+    },
+    {
+      "album": {
+        "name": "Habla el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4LKPqWQKZjngVlTfGbh8xy"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Patricio Borghetti",
+          "url": "https://open.spotify.com/artist/2Ih1clLteUElCgQc7VYklP"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324493,
+      "name": "Eclipse Total del Amor (Total Eclipse of the Heart) (with Patricio Borghetti)",
+      "url": "https://open.spotify.com/track/2rvDPgJnBxnkIRpYwVFrY2"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208137,
+      "name": "Empieza a Preocuparte",
+      "url": "https://open.spotify.com/track/4a6nW42Enzj0cA2D9nBhZ5"
+    },
+    {
+      "album": {
+        "name": "Carlos Rivera",
+        "url": "https://open.spotify.com/album/315x6nGeTXPxnN5LaCNrlN"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "En el Amor No Se Manda (with Yuridia)",
+      "url": "https://open.spotify.com/track/3JtfVprJNMK4ieh27aLJCx"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "En Su Lugar (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/5yCR7tDXeMhHNAIhKr3VN6"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223120,
+      "name": "Enamorada y Herida",
+      "url": "https://open.spotify.com/track/6HfYJQt9WHhfXKJT8bGdBM"
+    },
+    {
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "Irremediable",
+      "url": "https://open.spotify.com/track/3CxoLEKjZDJbss6DatyPok"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "La Duda (Primera fila) - En Vivo",
+      "url": "https://open.spotify.com/track/0ExDYdvqPj4KV7YA1mjGxH"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 271533,
+      "name": "Ll\u00e9vame (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/40IAm3om8Ii0b4jpFkw99Q"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vate",
+        "url": "https://open.spotify.com/album/7MUSVV4fqHvAad5HZdy0kD"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190626,
+      "name": "Ll\u00e9vate",
+      "url": "https://open.spotify.com/track/3m8SsLYXGo2JVeUhsZ9RtO"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Lo Que Son las Cosas",
+      "url": "https://open.spotify.com/track/7GprMlRqZpBd6LYqar2hBv"
+    },
+    {
+      "album": {
+        "name": "Malamente",
+        "url": "https://open.spotify.com/album/043NQRYJMoTeqqMQpvXYh4"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176292,
+      "name": "Malamente",
+      "url": "https://open.spotify.com/track/6hz7lasdrLrRF7foBVVHbi"
+    },
+    {
+      "album": {
+        "name": "Lo Esencial de Yuridia",
+        "url": "https://open.spotify.com/album/06bdXqlNr3oJe6CwEdc6SJ"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Maldita Primavera - Utilizar el c\u00f3digo MXF011400504",
+      "url": "https://open.spotify.com/track/4ySUZAN05ItrB1q2j7r0gA"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Me Hace Tanto Bien",
+      "url": "https://open.spotify.com/track/0J87ieRdbGPItHA6qc3KCr"
+    },
+    {
+      "album": {
+        "name": "Nada Es Color De Rosa",
+        "url": "https://open.spotify.com/album/0bD5fShn27gOBTTh2PI5Ln"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Me Olvidar\u00e1s",
+      "url": "https://open.spotify.com/track/3702UGFpHLtMh25rZoSbVx"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195306,
+      "name": "No la Beses - Sesi\u00f3n de Estudio",
+      "url": "https://open.spotify.com/track/4ulIv3JXcoNnHJplhMKb6C"
+    },
+    {
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203639,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej"
+    },
+    {
+      "album": {
+        "name": "Habla Ahora",
+        "url": "https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196961,
+      "name": "No Soy",
+      "url": "https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188893,
+      "name": "Noche De Copas",
+      "url": "https://open.spotify.com/track/3aujR2yY9i1Y2uFph0ULzb"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Para Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248360,
+      "name": "Polos Opuestos / Noche de Copas (Primera Fila) - En Vivo",
+      "url": "https://open.spotify.com/track/38YaOFMuwa5EBaaVB4Y2LO"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 212746,
+      "name": "Por Salud Mental",
+      "url": "https://open.spotify.com/track/2fHKAwEiIp1ZuRdeAsYKex"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/477GG0JLBi1bINyJRj0qOO"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222066,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/7DpuFVTvhJyTTRBm7DzKRX"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257209,
+      "name": "Si No Piensas Cambiar",
+      "url": "https://open.spotify.com/track/00TtkTraaGXv6LuGrzvw0c"
+    },
+    {
+      "album": {
+        "name": "Sin Llorar",
+        "url": "https://open.spotify.com/album/7xmW8wBwAeNvLnZ5IUcFUE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222583,
+      "name": "Sin Llorar",
+      "url": "https://open.spotify.com/track/2mZkOJx1Cvfg6cEJJ0biaS"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185153,
+      "name": "Te Dejo",
+      "url": "https://open.spotify.com/track/5N3lFRVdbmindAPgkEQwe4"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Te Equivocaste",
+      "url": "https://open.spotify.com/track/4QS7axg5vSSSbR7CA3z5QU"
+    },
+    {
+      "album": {
+        "name": "Valiente",
+        "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153373,
+      "name": "Viento y Cielo Alcanzar",
+      "url": "https://open.spotify.com/track/7xP1PzRNG24qpTWdtin1Gb"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-25",
+      "duration_ms": 178378,
+      "name": "Y T\u00fa, \u00bfQu\u00e9 Ganas?",
+      "url": "https://open.spotify.com/track/1KYrci9yociotmNJ2sYHPF"
+    },
+    {
+      "album": {
+        "name": "6",
+        "url": "https://open.spotify.com/album/1K33cjiOp7BN2ZMR4BgXbG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241986,
+      "name": "Ya Es Muy Tarde",
+      "url": "https://open.spotify.com/track/0gmVAogl6O1i2qBPBU09Ef"
+    },
+    {
+      "album": {
+        "name": "Para M\u00ed",
+        "url": "https://open.spotify.com/album/0nN4sE3MnNnZQSCXcYFiF0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211373,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/4FsVB8msXzmemjJdTKUoal"
+    },
+    {
+      "album": {
+        "name": "Entre Mariposas",
+        "url": "https://open.spotify.com/album/1jPtvaUml63VAJGOwTixv0"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217826,
+      "name": "Yo por \u00c9l",
+      "url": "https://open.spotify.com/track/4Wf7GYRnkySl3s9h5uKlhd"
+    },
+    {
+      "album": {
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212175,
+      "name": "Yo Te Prefiero a Ti",
+      "url": "https://open.spotify.com/track/0LuHppPzpqZ6lxdpmjmAz8"
+    },
+    {
+      "album": {
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/2eSTnoRpEK2VXIccMbzXrE"
+    },
+    {
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
+    },
+    {
+      "album": {
+        "name": "Bien Acompa\u00f1ado",
+        "url": "https://open.spotify.com/album/0rU8BvCez2ostHJ1KY8gVX"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Armando \u00c1vila",
+          "url": "https://open.spotify.com/artist/1fQ04gxgU3X7aKVf8YtzCl"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232906,
+      "name": "\u00bfQu\u00e9 Nos Pas\u00f3? (with Yuridia)",
+      "url": "https://open.spotify.com/track/4eE8rU7ymogVA74C8j2b2f"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
+    },
+    {
+      "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255520,
+      "name": "\u00c1ngel (Angels)",
+      "url": "https://open.spotify.com/track/0oxpihgVSWeYrPoLVZ4udk"
+    },
+    {
+      "album": {
+        "name": "\u00c9l Lo Tiene Todo",
+        "url": "https://open.spotify.com/album/1LGkKJvNJbYTeKcMzzECN5"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214081,
+      "name": "\u00c9l Lo Tiene Todo",
+      "url": "https://open.spotify.com/track/5AV4sa9x9Qt3CYUIUbUadZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ioSFW"
 }

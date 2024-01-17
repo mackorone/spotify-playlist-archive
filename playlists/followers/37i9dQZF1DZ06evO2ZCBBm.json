@@ -1,711 +1,1627 @@
 {
-  "2022-01-18": 33060,
-  "2022-01-19": 33071,
-  "2022-01-20": 33116,
-  "2022-01-21": 33151,
-  "2022-01-22": 33172,
-  "2022-01-23": 33188,
-  "2022-01-24": 33203,
-  "2022-01-25": 33208,
-  "2022-01-26": 33229,
-  "2022-01-27": 33251,
-  "2022-01-28": 33273,
-  "2022-01-29": 33279,
-  "2022-01-30": 33285,
-  "2022-01-31": 33292,
-  "2022-02-01": 33298,
-  "2022-02-02": 33312,
-  "2022-02-03": 33329,
-  "2022-02-04": 33342,
-  "2022-02-05": 33361,
-  "2022-02-06": 33367,
-  "2022-02-07": 33376,
-  "2022-02-08": 33379,
-  "2022-02-09": 33388,
-  "2022-02-10": 33411,
-  "2022-02-11": 33422,
-  "2022-02-12": 33428,
-  "2022-02-13": 33438,
-  "2022-02-14": 33448,
-  "2022-02-15": 33460,
-  "2022-02-16": 33466,
-  "2022-02-17": 33481,
-  "2022-02-18": 33495,
-  "2022-02-19": 33503,
-  "2022-02-20": 33510,
-  "2022-02-21": 33518,
-  "2022-02-22": 33526,
-  "2022-02-23": 33534,
-  "2022-02-24": 33543,
-  "2022-02-25": 33556,
-  "2022-02-26": 33563,
-  "2022-02-27": 33584,
-  "2022-02-28": 33584,
-  "2022-03-01": 33593,
-  "2022-03-02": 33609,
-  "2022-03-03": 33623,
-  "2022-03-04": 33632,
-  "2022-03-05": 33637,
-  "2022-03-06": 33653,
-  "2022-03-07": 33663,
-  "2022-03-08": 33678,
-  "2022-03-09": 33685,
-  "2022-03-10": 33699,
-  "2022-03-11": 33711,
-  "2022-03-12": 33726,
-  "2022-03-13": 33734,
-  "2022-03-14": 33743,
-  "2022-03-15": 33750,
-  "2022-03-16": 33765,
-  "2022-03-17": 33785,
-  "2022-03-18": 33797,
-  "2022-03-19": 33801,
-  "2022-03-20": 33801,
-  "2022-03-21": 33820,
-  "2022-03-22": 33830,
-  "2022-03-23": 33840,
-  "2022-03-24": 33843,
-  "2022-03-25": 33854,
-  "2022-03-26": 33872,
-  "2022-03-27": 33877,
-  "2022-03-28": 33892,
-  "2022-03-30": 33906,
-  "2022-03-31": 33915,
-  "2022-04-01": 33925,
-  "2022-04-02": 33937,
-  "2022-04-03": 33949,
-  "2022-04-04": 33956,
-  "2022-04-05": 33964,
-  "2022-04-06": 33975,
-  "2022-04-07": 33989,
-  "2022-04-08": 33997,
-  "2022-04-09": 34015,
-  "2022-04-10": 34026,
-  "2022-04-11": 34041,
-  "2022-04-12": 34042,
-  "2022-04-13": 34049,
-  "2022-04-14": 34063,
-  "2022-04-15": 34070,
-  "2022-04-16": 34074,
-  "2022-04-17": 34082,
-  "2022-04-18": 34092,
-  "2022-04-19": 34099,
-  "2022-04-20": 34107,
-  "2022-04-21": 34117,
-  "2022-04-22": 34131,
-  "2022-04-23": 34150,
-  "2022-04-24": 34158,
-  "2022-04-25": 34171,
-  "2022-04-26": 34180,
-  "2022-04-27": 34187,
-  "2022-04-28": 34195,
-  "2022-04-29": 34213,
-  "2022-04-30": 34222,
-  "2022-05-01": 34235,
-  "2022-05-02": 34235,
-  "2022-05-03": 34243,
-  "2022-05-04": 34253,
-  "2022-05-05": 34260,
-  "2022-05-06": 34267,
-  "2022-05-07": 34284,
-  "2022-05-08": 34301,
-  "2022-05-09": 34307,
-  "2022-05-10": 34327,
-  "2022-05-11": 34341,
-  "2022-05-12": 34353,
-  "2022-05-13": 34359,
-  "2022-05-14": 34380,
-  "2022-05-15": 34396,
-  "2022-05-16": 34404,
-  "2022-05-17": 34419,
-  "2022-05-18": 34436,
-  "2022-05-19": 34443,
-  "2022-05-20": 34453,
-  "2022-05-21": 34475,
-  "2022-05-22": 34475,
-  "2022-05-23": 34481,
-  "2022-05-24": 34482,
-  "2022-05-25": 34492,
-  "2022-05-26": 34506,
-  "2022-05-27": 34520,
-  "2022-05-28": 34529,
-  "2022-05-29": 34538,
-  "2022-05-30": 34549,
-  "2022-05-31": 34567,
-  "2022-06-01": 34589,
-  "2022-06-02": 34590,
-  "2022-06-03": 34595,
-  "2022-06-04": 34592,
-  "2022-06-05": 34603,
-  "2022-06-06": 34609,
-  "2022-06-07": 34616,
-  "2022-06-08": 34627,
-  "2022-06-09": 34637,
-  "2022-06-10": 34644,
-  "2022-06-11": 34657,
-  "2022-06-12": 34669,
-  "2022-06-13": 34680,
-  "2022-06-14": 34683,
-  "2022-06-15": 34694,
-  "2022-06-16": 34703,
-  "2022-06-17": 34710,
-  "2022-06-18": 34722,
-  "2022-06-19": 34733,
-  "2022-06-20": 34733,
-  "2022-06-21": 34742,
-  "2022-06-22": 34782,
-  "2022-06-23": 34782,
-  "2022-06-24": 34797,
-  "2022-06-25": 34805,
-  "2022-06-26": 34811,
-  "2022-06-27": 34824,
-  "2022-06-28": 34836,
-  "2022-06-29": 34838,
-  "2022-06-30": 34857,
-  "2022-07-01": 34860,
-  "2022-07-02": 34871,
-  "2022-07-03": 34873,
-  "2022-07-04": 34884,
-  "2022-07-05": 34884,
-  "2022-07-06": 34884,
-  "2022-07-07": 34924,
-  "2022-07-08": 34932,
-  "2022-07-09": 34941,
-  "2022-07-10": 34944,
-  "2022-07-11": 34949,
-  "2022-07-12": 34953,
-  "2022-07-13": 34967,
-  "2022-07-14": 34985,
-  "2022-07-15": 34999,
-  "2022-07-16": 35012,
-  "2022-07-17": 35025,
-  "2022-07-18": 35040,
-  "2022-07-19": 35063,
-  "2022-07-20": 35078,
-  "2022-07-21": 35088,
-  "2022-07-22": 35106,
-  "2022-07-23": 35118,
-  "2022-07-24": 35138,
-  "2022-07-25": 35154,
-  "2022-07-26": 35169,
-  "2022-07-27": 35179,
-  "2022-07-28": 35199,
-  "2022-07-29": 35200,
-  "2022-07-30": 35234,
-  "2022-07-31": 35234,
-  "2022-08-01": 35251,
-  "2022-08-02": 35266,
-  "2022-08-03": 35266,
-  "2022-08-04": 35281,
-  "2022-08-05": 35300,
-  "2022-08-06": 35313,
-  "2022-08-07": 35332,
-  "2022-08-08": 35334,
-  "2022-08-09": 35351,
-  "2022-08-10": 35368,
-  "2022-08-11": 35389,
-  "2022-08-12": 35415,
-  "2022-08-13": 35432,
-  "2022-08-14": 35445,
-  "2022-08-15": 35463,
-  "2022-08-16": 35476,
-  "2022-08-17": 35491,
-  "2022-08-18": 35502,
-  "2022-08-19": 35525,
-  "2022-08-20": 35536,
-  "2022-08-21": 35548,
-  "2022-08-22": 35560,
-  "2022-08-23": 35566,
-  "2022-08-24": 35571,
-  "2022-08-25": 35581,
-  "2022-08-26": 35588,
-  "2022-08-27": 35609,
-  "2022-08-28": 35620,
-  "2022-08-29": 35624,
-  "2022-08-30": 35627,
-  "2022-08-31": 35615,
-  "2022-09-01": 35606,
-  "2022-09-02": 35604,
-  "2022-09-03": 35588,
-  "2022-09-04": 35590,
-  "2022-09-05": 35595,
-  "2022-09-06": 35610,
-  "2022-09-07": 35611,
-  "2022-09-09": 35628,
-  "2022-09-10": 35641,
-  "2022-09-11": 35656,
-  "2022-09-12": 35664,
-  "2022-09-13": 35677,
-  "2022-09-15": 35697,
-  "2022-09-16": 35709,
-  "2022-09-17": 35721,
-  "2022-09-18": 35732,
-  "2022-09-19": 35742,
-  "2022-09-20": 35747,
-  "2022-09-21": 35752,
-  "2022-09-22": 35765,
-  "2022-09-23": 35782,
-  "2022-09-24": 35782,
-  "2022-09-25": 35805,
-  "2022-09-26": 35816,
-  "2022-09-27": 35825,
-  "2022-09-28": 35839,
-  "2022-09-29": 35854,
-  "2022-09-30": 35863,
-  "2022-10-01": 35884,
-  "2022-10-02": 35891,
-  "2022-10-03": 35898,
-  "2022-10-04": 35902,
-  "2022-10-05": 35918,
-  "2022-10-06": 35927,
-  "2022-10-07": 35945,
-  "2022-10-08": 35955,
-  "2022-10-09": 35985,
-  "2022-10-10": 35986,
-  "2022-10-11": 35996,
-  "2022-10-12": 36010,
-  "2022-10-13": 36030,
-  "2022-10-14": 36048,
-  "2022-10-15": 36060,
-  "2022-10-16": 36084,
-  "2022-10-17": 36100,
-  "2022-10-18": 36116,
-  "2022-10-19": 36132,
-  "2022-10-20": 36149,
-  "2022-10-21": 36165,
-  "2022-10-22": 36191,
-  "2022-10-23": 36213,
-  "2022-10-24": 36231,
-  "2022-10-25": 36263,
-  "2022-10-26": 36291,
-  "2022-10-27": 36308,
-  "2022-10-28": 36336,
-  "2022-10-29": 36366,
-  "2022-10-30": 36378,
-  "2022-10-31": 36387,
-  "2022-11-01": 36400,
-  "2022-11-02": 36421,
-  "2022-11-03": 36427,
-  "2022-11-04": 36444,
-  "2022-11-05": 36468,
-  "2022-11-06": 36480,
-  "2022-11-07": 36487,
-  "2022-11-08": 36499,
-  "2022-11-09": 36504,
-  "2022-11-10": 36514,
-  "2022-11-11": 36525,
-  "2022-11-12": 36541,
-  "2022-11-13": 36550,
-  "2022-11-14": 36560,
-  "2022-11-15": 36564,
-  "2022-11-16": 36568,
-  "2022-11-17": 36586,
-  "2022-11-18": 36595,
-  "2022-11-19": 36594,
-  "2022-11-20": 36600,
-  "2022-11-21": 36611,
-  "2022-11-22": 36619,
-  "2022-11-23": 36640,
-  "2022-11-24": 36669,
-  "2022-11-25": 36686,
-  "2022-11-26": 36695,
-  "2022-11-27": 36710,
-  "2022-11-28": 36720,
-  "2022-11-29": 36719,
-  "2022-11-30": 36723,
-  "2022-12-01": 36733,
-  "2022-12-02": 36735,
-  "2022-12-03": 36752,
-  "2022-12-04": 36762,
-  "2022-12-05": 36784,
-  "2022-12-06": 36791,
-  "2022-12-07": 36803,
-  "2022-12-08": 36816,
-  "2022-12-09": 36832,
-  "2022-12-10": 36843,
-  "2022-12-11": 36850,
-  "2022-12-12": 36860,
-  "2022-12-13": 36862,
-  "2022-12-14": 36874,
-  "2022-12-15": 36878,
-  "2022-12-16": 36889,
-  "2022-12-17": 36896,
-  "2022-12-18": 36906,
-  "2022-12-19": 36914,
-  "2022-12-20": 36925,
-  "2022-12-21": 36925,
-  "2022-12-22": 36928,
-  "2022-12-24": 36947,
-  "2022-12-25": 36963,
-  "2022-12-26": 36963,
-  "2022-12-27": 36973,
-  "2022-12-28": 36976,
-  "2022-12-29": 36986,
-  "2022-12-30": 36995,
-  "2022-12-31": 37001,
-  "2023-01-01": 37014,
-  "2023-01-02": 37027,
-  "2023-01-03": 37040,
-  "2023-01-04": 37046,
-  "2023-01-05": 37053,
-  "2023-01-06": 37064,
-  "2023-01-07": 37086,
-  "2023-01-08": 37090,
-  "2023-01-09": 37103,
-  "2023-01-10": 37115,
-  "2023-01-11": 37120,
-  "2023-01-12": 37129,
-  "2023-01-13": 37131,
-  "2023-01-14": 37143,
-  "2023-01-15": 37149,
-  "2023-01-16": 37166,
-  "2023-01-17": 37178,
-  "2023-01-18": 37205,
-  "2023-01-19": 37216,
-  "2023-01-20": 37236,
-  "2023-01-21": 37256,
-  "2023-01-22": 37274,
-  "2023-01-23": 37286,
-  "2023-01-24": 37296,
-  "2023-01-25": 37321,
-  "2023-01-26": 37338,
-  "2023-01-27": 37357,
-  "2023-01-28": 37370,
-  "2023-01-29": 37386,
-  "2023-01-30": 37397,
-  "2023-01-31": 37397,
-  "2023-02-01": 37419,
-  "2023-02-02": 37429,
-  "2023-02-03": 37443,
-  "2023-02-04": 37446,
-  "2023-02-05": 37456,
-  "2023-02-06": 37459,
-  "2023-02-07": 37466,
-  "2023-02-08": 37488,
-  "2023-02-09": 37488,
-  "2023-02-10": 37499,
-  "2023-02-11": 37508,
-  "2023-02-12": 37515,
-  "2023-02-13": 37527,
-  "2023-02-14": 37527,
-  "2023-02-15": 37542,
-  "2023-02-16": 37554,
-  "2023-02-17": 37567,
-  "2023-02-18": 37602,
-  "2023-02-19": 37605,
-  "2023-02-20": 37619,
-  "2023-02-21": 37639,
-  "2023-02-22": 37658,
-  "2023-02-23": 37676,
-  "2023-02-24": 37696,
-  "2023-02-25": 37712,
-  "2023-02-26": 37726,
-  "2023-02-27": 37748,
-  "2023-02-28": 37748,
-  "2023-03-01": 37761,
-  "2023-03-02": 37776,
-  "2023-03-03": 37794,
-  "2023-03-04": 37808,
-  "2023-03-05": 37841,
-  "2023-03-06": 37841,
-  "2023-03-07": 37853,
-  "2023-03-08": 37894,
-  "2023-03-09": 37943,
-  "2023-03-10": 37961,
-  "2023-03-11": 37981,
-  "2023-03-12": 38003,
-  "2023-03-13": 38005,
-  "2023-03-14": 38018,
-  "2023-03-15": 38036,
-  "2023-03-16": 38036,
-  "2023-03-17": 38036,
-  "2023-03-18": 38073,
-  "2023-03-19": 38073,
-  "2023-03-20": 38104,
-  "2023-03-21": 38112,
-  "2023-03-22": 38137,
-  "2023-03-23": 38155,
-  "2023-03-24": 38155,
-  "2023-03-25": 38184,
-  "2023-03-26": 38194,
-  "2023-03-27": 38211,
-  "2023-03-28": 38220,
-  "2023-03-29": 38245,
-  "2023-03-30": 38272,
-  "2023-03-31": 38272,
-  "2023-04-01": 38288,
-  "2023-04-02": 38293,
-  "2023-04-03": 38302,
-  "2023-04-04": 38315,
-  "2023-04-05": 38330,
-  "2023-04-06": 38351,
-  "2023-04-07": 38373,
-  "2023-04-09": 38404,
-  "2023-04-10": 38416,
-  "2023-04-11": 38449,
-  "2023-04-12": 38449,
-  "2023-04-13": 38458,
-  "2023-04-14": 38481,
-  "2023-04-15": 38500,
-  "2023-04-16": 38517,
-  "2023-04-17": 38530,
-  "2023-04-18": 38548,
-  "2023-04-19": 38568,
-  "2023-04-20": 38584,
-  "2023-04-21": 38601,
-  "2023-04-22": 38633,
-  "2023-04-23": 38661,
-  "2023-04-24": 38681,
-  "2023-04-25": 38707,
-  "2023-04-26": 38728,
-  "2023-04-27": 38741,
-  "2023-04-28": 38765,
-  "2023-04-29": 38787,
-  "2023-04-30": 38807,
-  "2023-05-01": 38814,
-  "2023-05-02": 38826,
-  "2023-05-03": 38836,
-  "2023-05-04": 38846,
-  "2023-05-05": 38856,
-  "2023-05-06": 38869,
-  "2023-05-07": 38881,
-  "2023-05-08": 38895,
-  "2023-05-09": 38904,
-  "2023-05-10": 38917,
-  "2023-05-11": 38936,
-  "2023-05-12": 38949,
-  "2023-05-13": 38971,
-  "2023-05-14": 38990,
-  "2023-05-15": 39009,
-  "2023-05-16": 39018,
-  "2023-05-17": 39029,
-  "2023-05-18": 39049,
-  "2023-05-19": 39071,
-  "2023-05-20": 39103,
-  "2023-05-21": 39103,
-  "2023-05-22": 39103,
-  "2023-05-23": 39137,
-  "2023-05-24": 39175,
-  "2023-05-25": 39182,
-  "2023-05-26": 39195,
-  "2023-05-27": 39221,
-  "2023-05-28": 39245,
-  "2023-05-29": 39245,
-  "2023-05-30": 39273,
-  "2023-05-31": 39296,
-  "2023-06-01": 39316,
-  "2023-06-02": 39331,
-  "2023-06-03": 39350,
-  "2023-06-04": 39368,
-  "2023-06-05": 39381,
-  "2023-06-06": 39396,
-  "2023-06-07": 39415,
-  "2023-06-08": 39438,
-  "2023-06-09": 39450,
-  "2023-06-10": 39461,
-  "2023-06-11": 39474,
-  "2023-06-12": 39485,
-  "2023-06-13": 39504,
-  "2023-06-14": 39522,
-  "2023-06-15": 39535,
-  "2023-06-16": 39539,
-  "2023-06-17": 39553,
-  "2023-06-18": 39563,
-  "2023-06-19": 39578,
-  "2023-06-20": 39596,
-  "2023-06-21": 39613,
-  "2023-06-22": 39634,
-  "2023-06-23": 39643,
-  "2023-06-24": 39652,
-  "2023-06-25": 39660,
-  "2023-06-26": 39668,
-  "2023-06-27": 39696,
-  "2023-06-28": 39713,
-  "2023-06-29": 39730,
-  "2023-06-30": 39752,
-  "2023-07-01": 39792,
-  "2023-07-02": 39792,
-  "2023-07-03": 39816,
-  "2023-07-04": 39828,
-  "2023-07-05": 39844,
-  "2023-07-06": 39860,
-  "2023-07-07": 39860,
-  "2023-07-08": 39860,
-  "2023-07-09": 39887,
-  "2023-07-10": 39894,
-  "2023-07-11": 39899,
-  "2023-07-12": 39912,
-  "2023-07-13": 39924,
-  "2023-07-14": 39933,
-  "2023-07-15": 39943,
-  "2023-07-16": 39960,
-  "2023-07-17": 39975,
-  "2023-07-18": 39980,
-  "2023-07-19": 39992,
-  "2023-07-20": 40013,
-  "2023-07-21": 40019,
-  "2023-07-22": 40022,
-  "2023-07-23": 40030,
-  "2023-07-24": 40046,
-  "2023-07-25": 40051,
-  "2023-07-26": 40061,
-  "2023-07-27": 40073,
-  "2023-07-28": 40090,
-  "2023-07-29": 40100,
-  "2023-07-30": 40108,
-  "2023-07-31": 40114,
-  "2023-08-01": 40130,
-  "2023-08-02": 40129,
-  "2023-08-03": 40143,
-  "2023-08-04": 40151,
-  "2023-08-05": 40170,
-  "2023-08-06": 40182,
-  "2023-08-07": 40182,
-  "2023-08-08": 40194,
-  "2023-08-09": 40209,
-  "2023-08-10": 40219,
-  "2023-08-11": 40238,
-  "2023-08-12": 40238,
-  "2023-08-13": 40238,
-  "2023-08-14": 40274,
-  "2023-08-15": 40274,
-  "2023-08-16": 40274,
-  "2023-08-17": 40274,
-  "2023-08-18": 40274,
-  "2023-08-19": 40274,
-  "2023-08-20": 40360,
-  "2023-08-21": 40360,
-  "2023-08-22": 40393,
-  "2023-08-23": 40393,
-  "2023-08-24": 40393,
-  "2023-08-25": 40393,
-  "2023-08-26": 40444,
-  "2023-08-27": 40444,
-  "2023-08-28": 40462,
-  "2023-08-29": 40462,
-  "2023-08-30": 40462,
-  "2023-08-31": 40509,
-  "2023-09-01": 40519,
-  "2023-09-02": 40519,
-  "2023-09-03": 40519,
-  "2023-09-04": 40519,
-  "2023-09-05": 40519,
-  "2023-09-06": 40519,
-  "2023-09-07": 40519,
-  "2023-09-08": 40519,
-  "2023-09-09": 40519,
-  "2023-09-10": 40666,
-  "2023-09-11": 40666,
-  "2023-09-12": 40666,
-  "2023-09-13": 40666,
-  "2023-09-14": 40666,
-  "2023-09-15": 40666,
-  "2023-09-16": 40757,
-  "2023-09-17": 40757,
-  "2023-09-18": 40757,
-  "2023-09-19": 40806,
-  "2023-09-20": 40806,
-  "2023-09-21": 40806,
-  "2023-09-22": 40854,
-  "2023-09-23": 40854,
-  "2023-09-24": 40854,
-  "2023-09-25": 40854,
-  "2023-09-26": 40913,
-  "2023-09-27": 40913,
-  "2023-09-28": 40913,
-  "2023-09-29": 40913,
-  "2023-09-30": 40913,
-  "2023-10-01": 40913,
-  "2023-10-02": 40913,
-  "2023-10-03": 40913,
-  "2023-10-04": 40913,
-  "2023-10-05": 40913,
-  "2023-10-06": 40913,
-  "2023-10-07": 40913,
-  "2023-10-08": 40913,
-  "2023-10-09": 40913,
-  "2023-10-10": 40913,
-  "2023-10-11": 41232,
-  "2023-10-12": 41232,
-  "2023-10-13": 41232,
-  "2023-10-14": 41232,
-  "2023-10-15": 41232,
-  "2023-10-16": 41232,
-  "2023-10-17": 41232,
-  "2023-10-18": 41232,
-  "2023-10-19": 41232,
-  "2023-10-20": 41232,
-  "2023-10-21": 41232,
-  "2023-10-22": 41232,
-  "2023-10-23": 41232,
-  "2023-10-24": 41232,
-  "2023-10-25": 41232,
-  "2023-10-26": 41232,
-  "2023-10-27": 41232,
-  "2023-10-28": 41232,
-  "2023-10-29": 41232,
-  "2023-10-30": 41232,
-  "2023-10-31": 41232,
-  "2023-11-01": 41232,
-  "2023-11-02": 41232,
-  "2023-11-03": 41232,
-  "2023-11-04": 41232,
-  "2023-11-05": 41232,
-  "2023-11-06": 41232,
-  "2023-11-07": 41232,
-  "2023-11-08": 41232,
-  "2023-11-09": 41232,
-  "2023-11-10": 41232,
-  "2023-11-11": 41495,
-  "2023-11-12": 41495,
-  "2023-11-13": 41495,
-  "2023-11-14": 41495,
-  "2023-11-15": 41495,
-  "2023-11-16": 41495,
-  "2023-11-17": 41495,
-  "2023-11-18": 41495,
-  "2023-11-19": 41495,
-  "2023-11-20": 41495,
-  "2023-11-21": 41495,
-  "2023-11-22": 41495,
-  "2023-11-23": 41495,
-  "2023-11-24": 41495,
-  "2023-11-25": 41495,
-  "2023-11-26": 41495,
-  "2023-11-27": 41495,
-  "2023-11-28": 41495,
-  "2023-11-29": 41495,
-  "2023-11-30": 41495,
-  "2023-12-01": 41495,
-  "2023-12-02": 41495,
-  "2023-12-03": 41495,
-  "2023-12-04": 41495,
-  "2023-12-05": 41495,
-  "2023-12-06": 41495,
-  "2023-12-07": 41495,
-  "2023-12-08": 41495,
-  "2023-12-09": 41495,
-  "2023-12-10": 41495,
-  "2023-12-11": 41495,
-  "2023-12-12": 41495,
-  "2023-12-13": 41495,
-  "2023-12-14": 41833,
-  "2023-12-15": 41840,
-  "2023-12-16": 41846,
-  "2023-12-17": 41853,
-  "2023-12-18": 41861,
-  "2023-12-19": 41875,
-  "2023-12-20": 41880,
-  "2023-12-21": 41887,
-  "2023-12-22": 41893,
-  "2023-12-23": 41909,
-  "2023-12-24": 41918,
-  "2023-12-25": 41922,
-  "2023-12-26": 41922,
-  "2023-12-27": 41935,
-  "2023-12-30": 41963,
-  "2023-12-31": 41969,
-  "2024-01-01": 41972,
-  "2024-01-02": 41976,
-  "2024-01-03": 41981
+  "2024-01-17": 42068,
+  "date_first_scraped": "2022-01-18",
+  "description": "This is The Used. The essential tracks, all in one playlist.",
+  "name": "This Is The Used",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "All That I've Got",
+      "url": "https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 210157,
+      "name": "BIG, WANNA BE",
+      "url": "https://open.spotify.com/track/0uUEGPZyZh4eVj7hP9gyf7"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 165586,
+      "name": "Blood Meridian",
+      "url": "https://open.spotify.com/track/3mW52uoe0PI5XQIjs2Eaid"
+    },
+    {
+      "album": {
+        "name": "Artwork (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3998jgjlz1fvCo57NoN07p"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197866,
+      "name": "Blood on My Hands",
+      "url": "https://open.spotify.com/track/5hNeatT8kKThMjqGNi9SZk"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-13",
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/0RE910pA9ESzmm7kdbIEWD"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184105,
+      "name": "Bloody Nose",
+      "url": "https://open.spotify.com/track/7q9kMLY1nPqL4fxO4CgKhZ"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Jason Aalon Butler",
+          "url": "https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200765,
+      "name": "Blow Me",
+      "url": "https://open.spotify.com/track/1vS7jjy99wfMVVC9nzZtX1"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201426,
+      "name": "Blue and Yellow",
+      "url": "https://open.spotify.com/track/32GWSQbpg1Ea1MMvl8HN23"
+    },
+    {
+      "album": {
+        "name": "Tickets To My Downfall (SOLD OUT Deluxe)",
+        "url": "https://open.spotify.com/album/13lMLnHs5qsmm687oRc3VC"
+      },
+      "artists": [
+        {
+          "name": "Machine Gun Kelly",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170074,
+      "name": "body bag (feat. YUNGBLUD & Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/0NZrY7Lc9g6V03hxRpfToV"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-06",
+      "duration_ms": 213946,
+      "name": "Born to Quit",
+      "url": "https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 88412,
+      "name": "Brain Unguent",
+      "url": "https://open.spotify.com/track/6YYVHAMbXOyQSgFtSYYRsW"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 200333,
+      "name": "Bulimic",
+      "url": "https://open.spotify.com/track/7F3siFl1KHijy9icZP3Idd"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+    },
+    {
+      "album": {
+        "name": "Transformers: Revenge Of The Fallen The Album",
+        "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219053,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/0rzLLXjpITMF8FyBycxwgM"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184706,
+      "name": "Cathedral Bell",
+      "url": "https://open.spotify.com/track/55P8hiMTFfvmTXWlB16seg"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 175190,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/3aQTxgRDETgigJT8zowxL2"
+    },
+    {
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120640,
+      "name": "Choke Me",
+      "url": "https://open.spotify.com/track/1oditvPc1cjhCleCocVlhu"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 171757,
+      "name": "Clean Cut Heals",
+      "url": "https://open.spotify.com/track/1PAX9ynnphRVTW90f7cRnl"
+    },
+    {
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210133,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 227066,
+      "name": "Cut up Angels",
+      "url": "https://open.spotify.com/track/7akKg3nBKORcCNCd7Hwzek"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-25",
+      "duration_ms": 159010,
+      "name": "Dancing With A Brick Wall",
+      "url": "https://open.spotify.com/track/40ZattjYiApbUORccYQ9XP"
+    },
+    {
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-15",
+      "duration_ms": 225600,
+      "name": "Devil Beside You",
+      "url": "https://open.spotify.com/track/3lv9uDBvn4H2hePDrtgG0K"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Empty With You",
+      "url": "https://open.spotify.com/track/7caJcFZTtLzy0ZSol1AXKH"
+    },
+    {
+      "album": {
+        "name": "Fuck You",
+        "url": "https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9"
+    },
+    {
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 185813,
+      "name": "Generation Throwaway",
+      "url": "https://open.spotify.com/track/3h7413CpAUx1ZhrI1zQizA"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 198546,
+      "name": "Give Me Love",
+      "url": "https://open.spotify.com/track/6taJ6bkT6aiy0cEO3bSfSd"
+    },
+    {
+      "album": {
+        "name": "Giving Up",
+        "url": "https://open.spotify.com/album/7KAXNNp4vIagjF5vA2vaEr"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/3JErllOXtQ1u1a78JocVlW"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190222,
+      "name": "Giving Up",
+      "url": "https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 254033,
+      "name": "Gravity's Rainbow",
+      "url": "https://open.spotify.com/track/7Cva9HwdG6d7zEnqrCHfSJ"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-23",
+      "duration_ms": 205813,
+      "name": "Hands and Faces",
+      "url": "https://open.spotify.com/track/08ekG1d4iNye5Zpwb6s9fV"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 215645,
+      "name": "Headspace",
+      "url": "https://open.spotify.com/track/0YZ2K1bacl9wXyoCMSJH35"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176786,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205160,
+      "name": "I Caught Fire",
+      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "I Come Alive",
+      "url": "https://open.spotify.com/track/006JXPV4FsK49ehd5lrWYG"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246480,
+      "name": "I'm a Fake",
+      "url": "https://open.spotify.com/track/5li1sKlA0UhTk2rY0JIVUv"
+    },
+    {
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 204973,
+      "name": "Imaginary Enemy",
+      "url": "https://open.spotify.com/track/7cXA3gMSOBxqBbqpNHZWrE"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248720,
+      "name": "Kissing You Goodbye",
+      "url": "https://open.spotify.com/track/1GD14FW1m3XP8596se9WBk"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190813,
+      "name": "Let It Bleed",
+      "url": "https://open.spotify.com/track/5kbXvXRsxSe6IzRpIFeURw"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "Liar Liar (Burn in Hell)",
+      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166226,
+      "name": "Listening",
+      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-23",
+      "duration_ms": 233533,
+      "name": "Love Heart",
+      "url": "https://open.spotify.com/track/2S0zGdkdWlrLavuAhMY3Ku"
+    },
+    {
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 207080,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/7xoPwaMWYFsuL4NsmVpB7i"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "Maybe Memories",
+      "url": "https://open.spotify.com/track/4I4uCtlWg6I7OyuGZE4wqn"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 226080,
+      "name": "Meant to Die",
+      "url": "https://open.spotify.com/track/3Fyq5OUycByql5TURYfBMs"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 354426,
+      "name": "Men Are All the Same",
+      "url": "https://open.spotify.com/track/7fLHdD5ONsHXtP7u8m11tI"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 60907,
+      "name": "My Cocoon",
+      "url": "https://open.spotify.com/track/4eHZTkPNMpF4wDjA6myGGA"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 268102,
+      "name": "Night-Sea Journey",
+      "url": "https://open.spotify.com/track/4S61z1zbkoyFOrkt2XqYIZ"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 169160,
+      "name": "Noise and Kisses",
+      "url": "https://open.spotify.com/track/3J0cTSuhrsoG9lY2AonjmH"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1duAXhfgEErfZ2yrdhpSXw"
+    },
+    {
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-14",
+      "duration_ms": 174350,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Travis Barker",
+          "url": "https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-30",
+      "duration_ms": 172878,
+      "name": "Obvious Blas\u00e9",
+      "url": "https://open.spotify.com/track/6uconLlN5bCZsWYZDcaty4"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163333,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-02",
+      "duration_ms": 181874,
+      "name": "Operation Me",
+      "url": "https://open.spotify.com/track/5lpF23ghsmM7udnXOdoF14"
+    },
+    {
+      "album": {
+        "name": "The Canyon",
+        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314373,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167920,
+      "name": "Paradise Lost, a poem by John Milton",
+      "url": "https://open.spotify.com/track/0brRAViWRg60fyrCynTPxl"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/7I106tELU6iawFLUJcBUx5"
+    },
+    {
+      "album": {
+        "name": "People Are Vomit",
+        "url": "https://open.spotify.com/album/0qijHJkDRqedEy7Lpezs2o"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172146,
+      "name": "People Are Vomit",
+      "url": "https://open.spotify.com/track/6PUd82fC8aYlk81GbUSAkN"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133518,
+      "name": "Pinky Swear",
+      "url": "https://open.spotify.com/track/1mNrTiHrV8DthnCiWLW8G9"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 142412,
+      "name": "Playing The Victim",
+      "url": "https://open.spotify.com/track/1jQ56oPXtND0hIyb2SHGQN"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 224000,
+      "name": "Poetic Tragedy",
+      "url": "https://open.spotify.com/track/58sdfzX722CMoU7m0s5dUi"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215146,
+      "name": "Pretty Handsome Awkward",
+      "url": "https://open.spotify.com/track/77BfOPXhlnNaSbg647qkx2"
+    },
+    {
+      "album": {
+        "name": "Vulnerable",
+        "url": "https://open.spotify.com/album/4Onu4JUb8cK11LGvVOZ4N8"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 242306,
+      "name": "Put Me Out",
+      "url": "https://open.spotify.com/track/6XcLXKshSwwbShcndUY1Kh"
+    },
+    {
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184286,
+      "name": "River Stay",
+      "url": "https://open.spotify.com/track/2PDjw1dzFPDBBUV1uXZ4KV"
+    },
+    {
+      "album": {
+        "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
+        "url": "https://open.spotify.com/album/579CdMvfi7V8g1PLyCkr6s"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Self Sabotaging (feat. Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/5WfV4m7ZXJYdIWUct1VJxd"
+    },
+    {
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 207706,
+      "name": "Sick Hearts",
+      "url": "https://open.spotify.com/track/3unplKLGy9fffR2HDbMWTa"
+    },
+    {
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Slit Your Own Throat",
+      "url": "https://open.spotify.com/track/1j8b6BNsHXaAImvIocZqHn"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 252453,
+      "name": "Sold My Soul",
+      "url": "https://open.spotify.com/track/68mlXME4DllvQgMbSsSimc"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 208560,
+      "name": "Sound Effects and Overdramatics",
+      "url": "https://open.spotify.com/track/4dlyVQH6YlWuOOF2HZAFoz"
+    },
+    {
+      "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217946,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2PzjnmkdMr6eOkFwQgqmyC"
+    },
+    {
+      "album": {
+        "name": "Shallow Believer",
+        "url": "https://open.spotify.com/album/1x5yyz6449G5rrSqZA2qnU"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 199573,
+      "name": "The Back of Your Mouth",
+      "url": "https://open.spotify.com/track/3Ua3QeckMlbTSUKphKtdFt"
+    },
+    {
+      "album": {
+        "name": "Artwork",
+        "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 269226,
+      "name": "The Best of Me",
+      "url": "https://open.spotify.com/track/5bum8mmmDUVUAhgsz69TfA"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225040,
+      "name": "The Bird and the Worm",
+      "url": "https://open.spotify.com/track/6tKky3l379dnGe7F85ztrJ"
+    },
+    {
+      "album": {
+        "name": "Heartwork",
+        "url": "https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Mark Hoppus",
+          "url": "https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171741,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 176266,
+      "name": "The Ripper",
+      "url": "https://open.spotify.com/track/0exqjhSWHO6SLsnEfhQI9J"
+    },
+    {
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
+    },
+    {
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170202,
+      "name": "The Worst I've Ever Been",
+      "url": "https://open.spotify.com/track/4MxBcnUAE1Vx0Y1WLBgw8j"
+    },
+    {
+      "album": {
+        "name": "in loving memory",
+        "url": "https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/01tEAvdPLPREA9JT9Wpb26"
+    },
+    {
+      "album": {
+        "name": "toxic energy",
+        "url": "https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 191559,
+      "name": "toxic energy (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ"
+    },
+    {
+      "album": {
+        "name": "Under Pressure",
+        "url": "https://open.spotify.com/album/3yeNEy2TFt4hvtQ6sRichS"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211733,
+      "name": "Under Pressure",
+      "url": "https://open.spotify.com/track/4j08A1efdJcVINBHSmQKPS"
+    },
+    {
+      "album": {
+        "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+        "url": "https://open.spotify.com/album/7zQFULxk2VKVXrCsOFlGHJ"
+      },
+      "artists": [
+        {
+          "name": "3OH!3",
+          "url": "https://open.spotify.com/artist/0FWzNDaEu9jdgcYTbcOa4F"
+        },
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "Bert McCracken",
+          "url": "https://open.spotify.com/artist/6ulyIBuifBzU35RsvFZIx0"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 148642,
+      "name": "VAMPIRE'S DIET (with Bert McCracken of The Used)",
+      "url": "https://open.spotify.com/track/78ITp8KLeHWvtjjf42LXck"
+    },
+    {
+      "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-02-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-20",
+      "duration_ms": 186200,
+      "name": "With Me Tonight",
+      "url": "https://open.spotify.com/track/4oTxl0vSAvtBkX1v8jCrhn"
+    },
+    {
+      "album": {
+        "name": "Heartwork (Deluxe)",
+        "url": "https://open.spotify.com/album/4J2liOk0lc7aLArgpZE1So"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 176863,
+      "name": "Wow, I Hate This Song",
+      "url": "https://open.spotify.com/track/552BP8WKoVwwnmwbm28h4i"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZCBBm"
 }

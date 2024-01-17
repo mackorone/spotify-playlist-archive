@@ -1,456 +1,767 @@
 {
-  "2022-10-03": 20916,
-  "2022-10-04": 20931,
-  "2022-10-05": 20939,
-  "2022-10-06": 20952,
-  "2022-10-07": 20971,
-  "2022-10-08": 20981,
-  "2022-10-09": 21010,
-  "2022-10-10": 21010,
-  "2022-10-11": 21036,
-  "2022-10-12": 21045,
-  "2022-10-13": 21059,
-  "2022-10-14": 21082,
-  "2022-10-15": 21099,
-  "2022-10-16": 21114,
-  "2022-10-17": 21127,
-  "2022-10-18": 21146,
-  "2022-10-19": 21158,
-  "2022-10-20": 21173,
-  "2022-10-21": 21184,
-  "2022-10-22": 21199,
-  "2022-10-23": 21206,
-  "2022-10-24": 21225,
-  "2022-10-25": 21235,
-  "2022-10-26": 21261,
-  "2022-10-27": 21270,
-  "2022-10-28": 21275,
-  "2022-10-29": 21286,
-  "2022-10-30": 21300,
-  "2022-10-31": 21317,
-  "2022-11-01": 21330,
-  "2022-11-02": 21339,
-  "2022-11-03": 21347,
-  "2022-11-04": 21360,
-  "2022-11-05": 21368,
-  "2022-11-06": 21366,
-  "2022-11-07": 21377,
-  "2022-11-08": 21390,
-  "2022-11-09": 21408,
-  "2022-11-10": 21421,
-  "2022-11-11": 21445,
-  "2022-11-12": 21469,
-  "2022-11-13": 21494,
-  "2022-11-14": 21500,
-  "2022-11-15": 21515,
-  "2022-11-16": 21536,
-  "2022-11-17": 21551,
-  "2022-11-18": 21555,
-  "2022-11-19": 21550,
-  "2022-11-20": 21575,
-  "2022-11-21": 21571,
-  "2022-11-22": 21611,
-  "2022-11-23": 21607,
-  "2022-11-24": 21652,
-  "2022-11-25": 21683,
-  "2022-11-26": 21704,
-  "2022-11-27": 21721,
-  "2022-11-28": 21732,
-  "2022-11-29": 21743,
-  "2022-11-30": 21750,
-  "2022-12-01": 21764,
-  "2022-12-02": 21770,
-  "2022-12-03": 21789,
-  "2022-12-04": 21799,
-  "2022-12-05": 21806,
-  "2022-12-06": 21815,
-  "2022-12-07": 21825,
-  "2022-12-08": 21841,
-  "2022-12-09": 21848,
-  "2022-12-10": 21853,
-  "2022-12-11": 21867,
-  "2022-12-12": 21874,
-  "2022-12-13": 21884,
-  "2022-12-14": 21891,
-  "2022-12-15": 21895,
-  "2022-12-16": 21899,
-  "2022-12-17": 21907,
-  "2022-12-18": 21913,
-  "2022-12-19": 21927,
-  "2022-12-20": 21940,
-  "2022-12-21": 21940,
-  "2022-12-22": 21940,
-  "2022-12-24": 21954,
-  "2022-12-25": 21959,
-  "2022-12-26": 21962,
-  "2022-12-27": 21975,
-  "2022-12-28": 21980,
-  "2022-12-29": 21989,
-  "2022-12-30": 21995,
-  "2022-12-31": 22002,
-  "2023-01-01": 22009,
-  "2023-01-02": 22022,
-  "2023-01-03": 22034,
-  "2023-01-04": 22043,
-  "2023-01-05": 22047,
-  "2023-01-06": 22051,
-  "2023-01-07": 22059,
-  "2023-01-08": 22063,
-  "2023-01-09": 22080,
-  "2023-01-10": 22095,
-  "2023-01-11": 22108,
-  "2023-01-12": 22120,
-  "2023-01-13": 22128,
-  "2023-01-14": 22147,
-  "2023-01-15": 22151,
-  "2023-01-16": 22164,
-  "2023-01-17": 22178,
-  "2023-01-18": 22188,
-  "2023-01-19": 22192,
-  "2023-01-20": 22195,
-  "2023-01-21": 22201,
-  "2023-01-22": 22210,
-  "2023-01-23": 22214,
-  "2023-01-24": 22222,
-  "2023-01-25": 22232,
-  "2023-01-26": 22245,
-  "2023-01-27": 22254,
-  "2023-01-28": 22265,
-  "2023-01-29": 22271,
-  "2023-01-30": 22276,
-  "2023-01-31": 22276,
-  "2023-02-01": 22290,
-  "2023-02-02": 22302,
-  "2023-02-03": 22317,
-  "2023-02-04": 22327,
-  "2023-02-05": 22334,
-  "2023-02-06": 22345,
-  "2023-02-07": 22354,
-  "2023-02-08": 22364,
-  "2023-02-09": 22364,
-  "2023-02-10": 22369,
-  "2023-02-11": 22379,
-  "2023-02-12": 22397,
-  "2023-02-13": 22401,
-  "2023-02-14": 22401,
-  "2023-02-15": 22412,
-  "2023-02-16": 22430,
-  "2023-02-17": 22444,
-  "2023-02-18": 22472,
-  "2023-02-19": 22479,
-  "2023-02-20": 22491,
-  "2023-02-21": 22501,
-  "2023-02-22": 22519,
-  "2023-02-23": 22533,
-  "2023-02-24": 22544,
-  "2023-02-25": 22560,
-  "2023-02-26": 22566,
-  "2023-02-27": 22606,
-  "2023-02-28": 22606,
-  "2023-03-01": 22619,
-  "2023-03-02": 22625,
-  "2023-03-03": 22632,
-  "2023-03-04": 22630,
-  "2023-03-05": 22653,
-  "2023-03-06": 22653,
-  "2023-03-07": 22659,
-  "2023-03-08": 22664,
-  "2023-03-09": 22673,
-  "2023-03-10": 22684,
-  "2023-03-11": 22697,
-  "2023-03-12": 22707,
-  "2023-03-13": 22721,
-  "2023-03-14": 22730,
-  "2023-03-15": 22738,
-  "2023-03-16": 22753,
-  "2023-03-17": 22753,
-  "2023-03-18": 22768,
-  "2023-03-19": 22782,
-  "2023-03-20": 22785,
-  "2023-03-21": 22789,
-  "2023-03-22": 22799,
-  "2023-03-23": 22811,
-  "2023-03-24": 22811,
-  "2023-03-25": 22824,
-  "2023-03-26": 22841,
-  "2023-03-27": 22855,
-  "2023-03-28": 22860,
-  "2023-03-29": 22880,
-  "2023-03-30": 22901,
-  "2023-03-31": 22901,
-  "2023-04-01": 22910,
-  "2023-04-02": 22917,
-  "2023-04-03": 22927,
-  "2023-04-04": 22930,
-  "2023-04-05": 22946,
-  "2023-04-06": 22950,
-  "2023-04-07": 22960,
-  "2023-04-09": 22977,
-  "2023-04-10": 22990,
-  "2023-04-11": 23010,
-  "2023-04-12": 23010,
-  "2023-04-13": 23014,
-  "2023-04-14": 23021,
-  "2023-04-15": 23038,
-  "2023-04-16": 23040,
-  "2023-04-17": 23046,
-  "2023-04-18": 23057,
-  "2023-04-19": 23065,
-  "2023-04-20": 23072,
-  "2023-04-21": 23076,
-  "2023-04-22": 23096,
-  "2023-04-23": 23113,
-  "2023-04-24": 23119,
-  "2023-04-25": 23131,
-  "2023-04-26": 23137,
-  "2023-04-27": 23144,
-  "2023-04-28": 23154,
-  "2023-04-29": 23163,
-  "2023-04-30": 23175,
-  "2023-05-01": 23187,
-  "2023-05-02": 23194,
-  "2023-05-03": 23200,
-  "2023-05-04": 23207,
-  "2023-05-05": 23219,
-  "2023-05-06": 23229,
-  "2023-05-07": 23239,
-  "2023-05-08": 23249,
-  "2023-05-09": 23257,
-  "2023-05-10": 23263,
-  "2023-05-11": 23275,
-  "2023-05-12": 23292,
-  "2023-05-13": 23296,
-  "2023-05-14": 23306,
-  "2023-05-15": 23308,
-  "2023-05-16": 23314,
-  "2023-05-17": 23324,
-  "2023-05-18": 23337,
-  "2023-05-19": 23342,
-  "2023-05-20": 23358,
-  "2023-05-21": 23358,
-  "2023-05-22": 23358,
-  "2023-05-23": 23376,
-  "2023-05-24": 23391,
-  "2023-05-25": 23393,
-  "2023-05-26": 23400,
-  "2023-05-27": 23412,
-  "2023-05-28": 23423,
-  "2023-05-29": 23423,
-  "2023-05-30": 23441,
-  "2023-05-31": 23451,
-  "2023-06-01": 23462,
-  "2023-06-02": 23471,
-  "2023-06-03": 23477,
-  "2023-06-04": 23482,
-  "2023-06-05": 23497,
-  "2023-06-06": 23511,
-  "2023-06-07": 23525,
-  "2023-06-08": 23529,
-  "2023-06-09": 23534,
-  "2023-06-10": 23547,
-  "2023-06-11": 23565,
-  "2023-06-12": 23578,
-  "2023-06-13": 23580,
-  "2023-06-14": 23587,
-  "2023-06-15": 23599,
-  "2023-06-16": 23615,
-  "2023-06-17": 23632,
-  "2023-06-18": 23640,
-  "2023-06-19": 23645,
-  "2023-06-20": 23659,
-  "2023-06-21": 23665,
-  "2023-06-22": 23668,
-  "2023-06-23": 23676,
-  "2023-06-24": 23685,
-  "2023-06-25": 23692,
-  "2023-06-26": 23709,
-  "2023-06-27": 23716,
-  "2023-06-28": 23723,
-  "2023-06-29": 23727,
-  "2023-06-30": 23734,
-  "2023-07-01": 23748,
-  "2023-07-02": 23748,
-  "2023-07-03": 23759,
-  "2023-07-04": 23765,
-  "2023-07-05": 23768,
-  "2023-07-06": 23782,
-  "2023-07-07": 23782,
-  "2023-07-08": 23790,
-  "2023-07-09": 23804,
-  "2023-07-10": 23819,
-  "2023-07-11": 23827,
-  "2023-07-12": 23837,
-  "2023-07-13": 23845,
-  "2023-07-14": 23851,
-  "2023-07-15": 23859,
-  "2023-07-16": 23872,
-  "2023-07-17": 23886,
-  "2023-07-18": 23891,
-  "2023-07-19": 23900,
-  "2023-07-20": 23904,
-  "2023-07-21": 23911,
-  "2023-07-22": 23921,
-  "2023-07-23": 23924,
-  "2023-07-24": 23925,
-  "2023-07-25": 23938,
-  "2023-07-26": 23951,
-  "2023-07-27": 23959,
-  "2023-07-28": 23966,
-  "2023-07-29": 23972,
-  "2023-07-30": 23974,
-  "2023-07-31": 23981,
-  "2023-08-01": 23992,
-  "2023-08-02": 23997,
-  "2023-08-03": 24005,
-  "2023-08-04": 24007,
-  "2023-08-05": 24014,
-  "2023-08-06": 24025,
-  "2023-08-07": 24025,
-  "2023-08-08": 24032,
-  "2023-08-09": 24046,
-  "2023-08-10": 24052,
-  "2023-08-11": 24058,
-  "2023-08-12": 24062,
-  "2023-08-13": 24064,
-  "2023-08-14": 24070,
-  "2023-08-15": 24081,
-  "2023-08-16": 24081,
-  "2023-08-17": 24082,
-  "2023-08-18": 24083,
-  "2023-08-19": 24088,
-  "2023-08-20": 24095,
-  "2023-08-21": 24099,
-  "2023-08-22": 24109,
-  "2023-08-23": 24113,
-  "2023-08-24": 24123,
-  "2023-08-25": 24126,
-  "2023-08-26": 24133,
-  "2023-08-27": 24144,
-  "2023-08-28": 24149,
-  "2023-08-29": 24153,
-  "2023-08-30": 24167,
-  "2023-08-31": 24174,
-  "2023-09-01": 24199,
-  "2023-09-02": 24199,
-  "2023-09-03": 24207,
-  "2023-09-04": 24217,
-  "2023-09-05": 24230,
-  "2023-09-06": 24249,
-  "2023-09-07": 24264,
-  "2023-09-08": 24282,
-  "2023-09-09": 24300,
-  "2023-09-10": 24327,
-  "2023-09-11": 24350,
-  "2023-09-12": 24355,
-  "2023-09-13": 24368,
-  "2023-09-14": 24388,
-  "2023-09-15": 24398,
-  "2023-09-16": 24408,
-  "2023-09-17": 24420,
-  "2023-09-18": 24435,
-  "2023-09-19": 24447,
-  "2023-09-20": 24462,
-  "2023-09-21": 24478,
-  "2023-09-22": 24489,
-  "2023-09-23": 24500,
-  "2023-09-24": 24510,
-  "2023-09-25": 24523,
-  "2023-09-26": 24541,
-  "2023-09-27": 24545,
-  "2023-09-28": 24556,
-  "2023-09-29": 24564,
-  "2023-09-30": 24571,
-  "2023-10-01": 24586,
-  "2023-10-02": 24598,
-  "2023-10-03": 24601,
-  "2023-10-04": 24606,
-  "2023-10-05": 24622,
-  "2023-10-06": 24630,
-  "2023-10-07": 24630,
-  "2023-10-08": 24638,
-  "2023-10-09": 24650,
-  "2023-10-10": 24637,
-  "2023-10-11": 24645,
-  "2023-10-12": 24645,
-  "2023-10-13": 24638,
-  "2023-10-14": 24632,
-  "2023-10-15": 24642,
-  "2023-10-16": 24649,
-  "2023-10-17": 24657,
-  "2023-10-18": 24665,
-  "2023-10-19": 24668,
-  "2023-10-20": 24681,
-  "2023-10-21": 24696,
-  "2023-10-22": 24704,
-  "2023-10-23": 24714,
-  "2023-10-24": 24727,
-  "2023-10-25": 24734,
-  "2023-10-26": 24742,
-  "2023-10-27": 24750,
-  "2023-10-28": 24757,
-  "2023-10-29": 24774,
-  "2023-10-30": 24792,
-  "2023-10-31": 24792,
-  "2023-11-01": 24799,
-  "2023-11-02": 24804,
-  "2023-11-03": 24817,
-  "2023-11-04": 24826,
-  "2023-11-05": 24836,
-  "2023-11-06": 24850,
-  "2023-11-07": 24867,
-  "2023-11-08": 24880,
-  "2023-11-09": 24888,
-  "2023-11-10": 24895,
-  "2023-11-11": 24915,
-  "2023-11-12": 24922,
-  "2023-11-13": 24932,
-  "2023-11-14": 24941,
-  "2023-11-15": 24941,
-  "2023-11-16": 24966,
-  "2023-11-17": 24979,
-  "2023-11-18": 24979,
-  "2023-11-19": 24988,
-  "2023-11-20": 25001,
-  "2023-11-21": 25007,
-  "2023-11-22": 25018,
-  "2023-11-23": 25032,
-  "2023-11-24": 25040,
-  "2023-11-25": 25047,
-  "2023-11-26": 25061,
-  "2023-11-27": 25070,
-  "2023-11-28": 25082,
-  "2023-11-29": 25117,
-  "2023-11-30": 25117,
-  "2023-12-01": 25127,
-  "2023-12-02": 25136,
-  "2023-12-03": 25147,
-  "2023-12-04": 25158,
-  "2023-12-05": 25170,
-  "2023-12-06": 25170,
-  "2023-12-07": 25179,
-  "2023-12-08": 25187,
-  "2023-12-09": 25201,
-  "2023-12-10": 25211,
-  "2023-12-11": 25215,
-  "2023-12-12": 25238,
-  "2023-12-13": 25248,
-  "2023-12-14": 25270,
-  "2023-12-15": 25275,
-  "2023-12-16": 25289,
-  "2023-12-17": 25304,
-  "2023-12-18": 25317,
-  "2023-12-19": 25335,
-  "2023-12-20": 25354,
-  "2023-12-21": 25364,
-  "2023-12-22": 25368,
-  "2023-12-23": 25376,
-  "2023-12-24": 25390,
-  "2023-12-25": 25404,
-  "2023-12-26": 25420,
-  "2023-12-27": 25433,
-  "2023-12-30": 25475,
-  "2023-12-31": 25486,
-  "2024-01-01": 25498,
-  "2024-01-02": 25513,
-  "2024-01-03": 25531
+  "2024-01-17": 25681,
+  "date_first_scraped": "2022-10-03",
+  "description": "Music from \"Yowamushi Pedal\", a series of cycle road race manga. /\u81ea\u8ee2\u8eca\u30ed\u30fc\u30c9\u30ec\u30fc\u30b9\u30a2\u30cb\u30e1\u306e\u91d1\u5b57\u5854\u3001<a href=\"http://yowapeda.com/\">\u300e\u5f31\u866b\u30da\u30c0\u30eb\u300f</a>\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01\u00a9\u6e21\u8fba\u822a\uff08\u9031\u520a\u5c11\u5e74\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\uff09\uff0f\u5f31\u866b\u30da\u30c0\u30eb04\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "\u5f31\u866b\u30da\u30c0\u30eb -Yowamushi Pedal-",
+  "tracks": [
+    {
+      "album": {
+        "name": "Action",
+        "url": "https://open.spotify.com/album/5BF4yE3mmMcdiwoJAr8Scb"
+      },
+      "artists": [
+        {
+          "name": "Daiki Yamashita",
+          "url": "https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py"
+        },
+        {
+          "name": "Yusuke Saeki",
+          "url": "https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-05",
+      "duration_ms": 219266,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/0iQUmjHgNQJSgaXSfI38Ty"
+    },
+    {
+      "album": {
+        "name": "from here",
+        "url": "https://open.spotify.com/album/7qAbSvs8VpfPOwqXJYlyGx"
+      },
+      "artists": [
+        {
+          "name": "Daiki Yamashita",
+          "url": "https://open.spotify.com/artist/2DkVexkT4h6ScFo5sp96py"
+        },
+        {
+          "name": "Yusuke Saeki",
+          "url": "https://open.spotify.com/artist/3ChXwHZFR7YqeuKi6OOA2m"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221926,
+      "name": "Action",
+      "url": "https://open.spotify.com/track/4eBxnGsRwwZmy1A8b0jnGu"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u6cc9\u4fca\u8f14(CV:\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6l0ihzxL9SQxFveCIESRi1"
+        },
+        {
+          "name": "\u91d1\u57ce\u771f\u8b77(CV:\u5b89\u5143\u6d0b\u8cb4)",
+          "url": "https://open.spotify.com/artist/1b60JNECUGTk6J3yGP59N9"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "ALL FOR ONE",
+      "url": "https://open.spotify.com/track/4dCeh7GVusg5NJyWea5NmP"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cBe As One\u300d",
+        "url": "https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30fc\u30e0\u7dcf\u5317 <\u5c0f\u91ce\u7530\u5742\u9053(cv.\u5c71\u4e0b\u5927\u8f1d)\u3001\u4eca\u6cc9\u4fca\u8f14(cv.\u9ce5\u6d77\u6d69\u8f14)\u3001\u9cf4\u5b50\u7ae0\u5409(cv.\u798f\u5cf6\u6f64)\u3001\u91d1\u57ce\u771f\u8b77(cv.\u5b89\u5143\u6d0b\u8cb4)\u3001\u5dfb\u5cf6\u88d5\u4ecb(cv.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u7530\u6240\u8fc5(cv.\u4f0a\u85e4\u5065\u592a\u90ce)>",
+          "url": "https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253400,
+      "name": "Be As One",
+      "url": "https://open.spotify.com/track/3ksyq1hry8hfAbfMFVJmHE"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW"
+      },
+      "artists": [
+        {
+          "name": "LASTGASP",
+          "url": "https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/00iJEqP9yfPE953xtpt2S5"
+    },
+    {
+      "album": {
+        "name": "Carry the Hope",
+        "url": "https://open.spotify.com/album/77I8FM7bsZXPDI5Qr5fZW8"
+      },
+      "artists": [
+        {
+          "name": "THE HIGH CADENCE(\u5c0f\u91ce\u7530\u5742\u9053/\u4eca\u6cc9\u4fca\u8f14/\u9cf4\u5b50\u7ae0\u5409/\u624b\u5d8b\u7d14\u592a/\u9752\u516b\u6728 \u4e00/\u93d1\u6728\u4e00\u5dee)",
+          "url": "https://open.spotify.com/artist/3ht8MRvgGxkXxrhm6iyvap"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228253,
+      "name": "Carry the Hope",
+      "url": "https://open.spotify.com/track/1m2TF19GfWj7gaMZmPXawy"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW"
+      },
+      "artists": [
+        {
+          "name": "LASTGASP",
+          "url": "https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243733,
+      "name": "Days",
+      "url": "https://open.spotify.com/track/4jyQfuh5tNjkT8rzzboO4w"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb GRANDE ROAD OP\u30c6\u30fc\u30de\u300cDetermination\u300d",
+        "url": "https://open.spotify.com/album/25l8gyTFTCwxJUoIvEkKee"
+      },
+      "artists": [
+        {
+          "name": "LASTGASP",
+          "url": "https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199333,
+      "name": "Determination",
+      "url": "https://open.spotify.com/track/2JlTK3SmZigRGc0anPyvXS"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300cBe As One\u300d",
+        "url": "https://open.spotify.com/album/41D1qI7ozO3eTophC4TVWr"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30fc\u30e0\u7dcf\u5317 <\u5c0f\u91ce\u7530\u5742\u9053(cv.\u5c71\u4e0b\u5927\u8f1d)\u3001\u4eca\u6cc9\u4fca\u8f14(cv.\u9ce5\u6d77\u6d69\u8f14)\u3001\u9cf4\u5b50\u7ae0\u5409(cv.\u798f\u5cf6\u6f64)\u3001\u91d1\u57ce\u771f\u8b77(cv.\u5b89\u5143\u6d0b\u8cb4)\u3001\u5dfb\u5cf6\u88d5\u4ecb(cv.\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)\u3001\u7530\u6240\u8fc5(cv.\u4f0a\u85e4\u5065\u592a\u90ce)>",
+          "url": "https://open.spotify.com/artist/1b0DGO2FRixEDN9FerxtXI"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263066,
+      "name": "Dream Believer",
+      "url": "https://open.spotify.com/track/28TmwytTJsmvkSfWgWIz1d"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cGlory Road\u300d",
+        "url": "https://open.spotify.com/album/4XnrebZM9gdQtxyB0UfBLJ"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30fc\u30e0\u7bb1\u6839\u5b66\u5712 <\u798f\u5bcc\u5bff\u4e00(cv.\u524d\u91ce\u667a\u662d)\u3001\u771f\u6ce2\u5c71\u5cb3(cv.\u4ee3\u6c38 \u7ffc)\u3001\u6771\u5802\u5c3d\u516b(cv.\u67ff\u539f\u5fb9\u4e5f)\u3001\u65b0\u958b\u96bc\u4eba(cv.\u65e5\u91ce \u8061)\u3001\u8352\u5317\u9756\u53cb(cv.\u5409\u91ce\u88d5\u884c)\u3001\u6cc9\u7530\u5854\u4e00\u90ce(cv.\u963f\u90e8 \u6566)>",
+          "url": "https://open.spotify.com/artist/3L4qFGtK0VgAMZNaskrLUk"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213440,
+      "name": "Glory Road",
+      "url": "https://open.spotify.com/track/13wKQKFkNJV8OCxQLnE9q8"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW"
+      },
+      "artists": [
+        {
+          "name": "AUTRIBE",
+          "url": "https://open.spotify.com/artist/2kiYlSdquZ5mz78jmUwGKt"
+        },
+        {
+          "name": "Dirty Old Men",
+          "url": "https://open.spotify.com/artist/0P1rgYRUiPqQ7BfY5to7uV"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/1nEpAspgUPW9jYvDjYGN8M"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300cGlory Road\u300d",
+        "url": "https://open.spotify.com/album/4XnrebZM9gdQtxyB0UfBLJ"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30fc\u30e0\u7bb1\u6839\u5b66\u5712 <\u798f\u5bcc\u5bff\u4e00(cv.\u524d\u91ce\u667a\u662d)\u3001\u771f\u6ce2\u5c71\u5cb3(cv.\u4ee3\u6c38 \u7ffc)\u3001\u6771\u5802\u5c3d\u516b(cv.\u67ff\u539f\u5fb9\u4e5f)\u3001\u65b0\u958b\u96bc\u4eba(cv.\u65e5\u91ce \u8061)\u3001\u8352\u5317\u9756\u53cb(cv.\u5409\u91ce\u88d5\u884c)\u3001\u6cc9\u7530\u5854\u4e00\u90ce(cv.\u963f\u90e8 \u6566)>",
+          "url": "https://open.spotify.com/artist/3L4qFGtK0VgAMZNaskrLUk"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259093,
+      "name": "It's easy !!",
+      "url": "https://open.spotify.com/track/5avdw9H3MVZIpySXOWcWQb"
+    },
+    {
+      "album": {
+        "name": "Keep going",
+        "url": "https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT"
+      },
+      "artists": [
+        {
+          "name": "04 Limited Sazabys",
+          "url": "https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160306,
+      "name": "Keep going",
+      "url": "https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb \u30c6\u30fc\u30de\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/10ySnvOAqlHznO85JSuGBW"
+      },
+      "artists": [
+        {
+          "name": "LASTGASP",
+          "url": "https://open.spotify.com/artist/6DtWvcsqUEaxfTrEdGyXmS"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269333,
+      "name": "Link",
+      "url": "https://open.spotify.com/track/6RoYQ8xtnD0iQLX91tjW7B"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u5dfb\u5cf6\u88d5\u4ecb(CV:\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1s7XJw4YW4yEqowfVbC1QL"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "Long Way to Go",
+      "url": "https://open.spotify.com/track/6I8XESMBinf8pxLcfWEk31"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb GLORY LINE\u300d\u7b2c2\u30af\u30fc\u30ebED\u4e3b\u984c\u6b4c\u300cOver the Limit\u300d",
+        "url": "https://open.spotify.com/album/3CO6YdjWm9J4MZr546Y1QS"
+      },
+      "artists": [
+        {
+          "name": "ROUTE85(\u771f\u6ce2\u5c71\u5cb3/\u6cc9\u7530\u5854\u4e00\u90ce/\u9ed2\u7530\u96ea\u6210/\u8466\u6728\u5834\u62d3\u6597/\u9285\u6a4b\u6b63\u6e05/\u65b0\u958b\u60a0\u4eba)",
+          "url": "https://open.spotify.com/artist/691RXcHdtcohJu0SBo7L3B"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252253,
+      "name": "Over the Limit",
+      "url": "https://open.spotify.com/track/1cGcCVpNh8p3PeGeS2Z97L"
+    },
+    {
+      "album": {
+        "name": "PRIDE",
+        "url": "https://open.spotify.com/album/7A0ixTAOm6k9iyuYVX7lBb"
+      },
+      "artists": [
+        {
+          "name": "Novelbright",
+          "url": "https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217200,
+      "name": "PRIDE",
+      "url": "https://open.spotify.com/track/4w1J2ejTHgtxRR6IvFoB8n"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u7530\u5742\u9053(CV:\u5c71\u4e0b\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/2sluA9dqqWRKhFdNl7Y7pZ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224266,
+      "name": "Ride On",
+      "url": "https://open.spotify.com/track/6fwf7NQucrVPviDoxFL9pz"
+    },
+    {
+      "album": {
+        "name": "\u300e\u5f31\u866b\u30da\u30c0\u30eb SPARE BIKE\u300f\u4e3b\u984c\u6b4c\u300c\u306f\u3058\u307e\u308a\u306e\u65e5\u3005\u300d/\u300eBS\u30b9\u30ab\u30d1\u30fc! \u30aa\u30ea\u30b8\u30ca\u30eb\u9023\u7d9a\u30c9\u30e9\u30de\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u300f\u4e3b\u984c\u6b4c\u300c\u30b9\u30ad\u30eb\u30d5\u30e9\u30ef\u30fc\u300d",
+        "url": "https://open.spotify.com/album/2vQIZICXv3DpHWs6b8v9xJ"
+      },
+      "artists": [
+        {
+          "name": "MAGIC OF LiFE",
+          "url": "https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ"
+        }
+      ],
+      "date_added": "2022-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 219306,
+      "name": "\u306f\u3058\u307e\u308a\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/60z9F2a52fM1PJcmQOdpx6"
+    },
+    {
+      "album": {
+        "name": "Niemeyer",
+        "url": "https://open.spotify.com/album/1Sh5Yv0oTXifF8oXgyOFme"
+      },
+      "artists": [
+        {
+          "name": "MAGIC OF LiFE",
+          "url": "https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "\u306f\u3058\u307e\u308a\u306e\u65e5\u3005",
+      "url": "https://open.spotify.com/track/0NEhEFk3CrVeoYtCSfgBlJ"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u5c0f\u91ce\u7530\u5742\u9053(CV:\u5c71\u4e0b\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/2sluA9dqqWRKhFdNl7Y7pZ"
+        },
+        {
+          "name": "\u5dfb\u5cf6\u88d5\u4ecb(CV:\u68ee\u4e45\u4fdd\u7965\u592a\u90ce)",
+          "url": "https://open.spotify.com/artist/1s7XJw4YW4yEqowfVbC1QL"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230133,
+      "name": "\u3082\u3046\u5c11\u3057\u3001\u3042\u3068\u5c11\u3057",
+      "url": "https://open.spotify.com/track/2XVtzdar3sZnFi39YJxrwW"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30b1\u30a4\u30c7\u30f3\u30b9\u300d",
+        "url": "https://open.spotify.com/album/1gKsHNFY8OIEJUHp0yeBuc"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u4ee3\u5b5d\u660e",
+          "url": "https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257666,
+      "name": "\u30b1\u30a4\u30c7\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/2llVdRrltHCLKcIO8Vmleb"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR"
+      },
+      "artists": [
+        {
+          "name": "\u6ca2\u7530\u5b8c",
+          "url": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "\u30b4\u30fc\u30eb\u3078\u7e4b\u3050\u30b9\u30d7\u30ea\u30f3\u30c8",
+      "url": "https://open.spotify.com/track/1BQ7bUVIOWjtTRUkZprltg"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u5802\u5c3d\u516b(CV:\u67ff\u539f\u5fb9\u4e5f)",
+          "url": "https://open.spotify.com/artist/1y49q8w1mSGOU0aYXr5QOz"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224226,
+      "name": "\u30b9\u30ea\u30fc\u30d4\u30f3\u30b0\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30fc",
+      "url": "https://open.spotify.com/track/5AqZvDbPnmHb3Ra1WLUGwq"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u7b2c2\u30af\u30fc\u30eb\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30bf\u30ab\u30a4\u30c8\u30b3\u30ed\u300d",
+        "url": "https://open.spotify.com/album/6kQsiFX8QQcoixsfZtGouI"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220493,
+      "name": "\u30bf\u30ab\u30a4\u30c8\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/5ykPBWdtzrElW66ZIMOeJa"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb GLORY LINE\u300d\u7b2c2\u30af\u30fc\u30ebOP\u4e3b\u984c\u6b4c\u300c\u30c0\u30f3\u30b7\u30f3\u30b0\u300d",
+        "url": "https://open.spotify.com/album/43m2VCHf5YtCLiGkCgHzoI"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221000,
+      "name": "\u30c0\u30f3\u30b7\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/5tep2WmM1e9l0qY7ipBPe0"
+    },
+    {
+      "album": {
+        "name": "\u30c4\u30e8\u30b5\u30e8\u30ef\u30b5/\u884c\u304b\u306a\u3044\u3068",
+        "url": "https://open.spotify.com/album/2qw57WcsgI21f1lxRppVfg"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210266,
+      "name": "\u30c4\u30e8\u30b5\u30e8\u30ef\u30b5",
+      "url": "https://open.spotify.com/track/6egJ4mBsymW0x6O19Cfl4I"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u7b2c2\u30af\u30fc\u30eb\u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30c8\u30e9\u30f3\u30b8\u30c3\u30c8\u300d",
+        "url": "https://open.spotify.com/album/7zz9WzfZt0Oq1BvfTAqQCz"
+      },
+      "artists": [
+        {
+          "name": "\u590f\u4ee3\u5b5d\u660e",
+          "url": "https://open.spotify.com/artist/0fhTFborEMzRFyZIaVgz9r"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262440,
+      "name": "\u30c8\u30e9\u30f3\u30b8\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0fv2r0EZrKN4X70dyZZI7i"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\u300c\u30ca\u30a6\u30aa\u30a2\u30cd\u30d0\u30fc\u300d",
+        "url": "https://open.spotify.com/album/5A99n3kzpMz8FuSFrNf7K1"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4f2f\u30e6\u30a6\u30b9\u30b1",
+          "url": "https://open.spotify.com/artist/7bjHzqnMSYi84ljh01L8DM"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231533,
+      "name": "\u30ca\u30a6\u30aa\u30a2\u30cd\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/1c8RbJOxcw7BL9Jkjzj2wH"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR"
+      },
+      "artists": [
+        {
+          "name": "\u6ca2\u7530\u5b8c",
+          "url": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144680,
+      "name": "\u30cb\u30e5\u30fc\u30d5\u30ec\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/5t56c6slJeWWGSkU01jm6e"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u30da\u30c0\u30eb GRANDE ROAD ED\u30c6\u30fc\u30de\u300c\u30ea\u30a2\u30e9\u30a4\u30ba\u300d",
+        "url": "https://open.spotify.com/album/1BGTmqn40dd7wQDEBHU6or"
+      },
+      "artists": [
+        {
+          "name": "ROOKiEZ is PUNK'D",
+          "url": "https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257839,
+      "name": "\u30ea\u30a2\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2GyadQhctfDwMi8KNliuLk"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30af\u30e9\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/4b2ZaJ9CQCdKadWSOKCEuR"
+      },
+      "artists": [
+        {
+          "name": "ROOKiEZ is PUNK'D",
+          "url": "https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "\u30ea\u30af\u30e9\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/3Kc7MCGYcgSw8RdOJE2oaO"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb GRANDE ROAD\u300d \u7b2c2\u30af\u30fc\u30eb \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0\u30fb\u30c6\u30fc\u30de\u300c\u30ea\u30de\u30a4\u30f3\u30c9\u300d",
+        "url": "https://open.spotify.com/album/3K8sbQklMQN7KcIwj3Jey6"
+      },
+      "artists": [
+        {
+          "name": "ROOKiEZ is PUNK'D",
+          "url": "https://open.spotify.com/artist/2mg9AmMi3b9jTbaOR5If4C"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250720,
+      "name": "\u30ea\u30de\u30a4\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/2NFkqiNE9gbG1AyrWQ5a7J"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306e\u58f0",
+        "url": "https://open.spotify.com/album/4cKwkFMQUzB6Edh1nt9fQE"
+      },
+      "artists": [
+        {
+          "name": "Rhythmic Toy World",
+          "url": "https://open.spotify.com/artist/492ytiAvzwy9ZliqycIFw7"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253986,
+      "name": "\u50d5\u306e\u58f0",
+      "url": "https://open.spotify.com/track/1nlTCSkw6920B0BO6y4GsE"
+    },
+    {
+      "album": {
+        "name": "\u5f31\u866b\u306a\u708e",
+        "url": "https://open.spotify.com/album/5OliZRswaLPkwcpPtykMbu"
+      },
+      "artists": [
+        {
+          "name": "Dirty Old Men",
+          "url": "https://open.spotify.com/artist/0P1rgYRUiPqQ7BfY5to7uV"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "\u5f31\u866b\u306a\u708e",
+      "url": "https://open.spotify.com/track/12Vjq58rW5zSzHEK3dlpkX"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u59eb\u91ce\u6e56\u9ce5(CV:\u7530\u6751\u3086\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/0aoVZxtubf7qvjWDb457U2"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236280,
+      "name": "\u604b\u306e\u30d2\u30e1\u30d2\u30e1\u307a\u3063\u305f\u3093\u3053",
+      "url": "https://open.spotify.com/track/7MIp8tHu7bnVPouYg19Ukr"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR"
+      },
+      "artists": [
+        {
+          "name": "\u6ca2\u7530\u5b8c",
+          "url": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "\u6210\u9577\u3057\u305f\u5742\u9053!",
+      "url": "https://open.spotify.com/track/34SKwfk58PfHbj5aZF4pcE"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb GRANDE ROAD\u300d \u7b2c2\u30af\u30fc\u30eb \u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30fb\u30c6\u30fc\u30de\u300c\u6804\u5149\u3078\u306e\u4e00\u79d2\u300d",
+        "url": "https://open.spotify.com/album/3vJ7d8yNJ9f6UwhlpjDEt0"
+      },
+      "artists": [
+        {
+          "name": "MAGIC OF LiFE",
+          "url": "https://open.spotify.com/artist/0QGg16GFoyYl8yEODlSxpQ"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243306,
+      "name": "\u6804\u5149\u3078\u306e\u4e00\u79d2",
+      "url": "https://open.spotify.com/track/7dFE4eFmJnVExRqkUiJVLs"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb NEW GENERATION\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4K8itKzK58Bt26r93cq0WR"
+      },
+      "artists": [
+        {
+          "name": "\u6ca2\u7530\u5b8c",
+          "url": "https://open.spotify.com/artist/6yhTirX1NZzmEgI3T83vIG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124120,
+      "name": "\u9650\u754c\u306e\u5148",
+      "url": "https://open.spotify.com/track/5N0xRd4JNfvntR7YN0Q8qE"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u5f31\u866b\u30da\u30c0\u30eb\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0\u30a2\u30eb\u30d0\u30e0",
+        "url": "https://open.spotify.com/album/683Mu9sf42JaD3oetQexMy"
+      },
+      "artists": [
+        {
+          "name": "\u4eca\u6cc9\u4fca\u8f14(CV:\u9ce5\u6d77\u6d69\u8f14)",
+          "url": "https://open.spotify.com/artist/6l0ihzxL9SQxFveCIESRi1"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247333,
+      "name": "\u9759\u5bc2\u306e\u4e16\u754c",
+      "url": "https://open.spotify.com/track/6dB1D8b8GmXYHzTbxaJFzU"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u3092\u547c\u3079",
+        "url": "https://open.spotify.com/album/6AhRX7P2urN0xyPJhIW7RB"
+      },
+      "artists": [
+        {
+          "name": "UNDER GRAPH",
+          "url": "https://open.spotify.com/artist/2Ox7XO5C0tbbk9pfZVDGA1"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "\u98a8\u3092\u547c\u3079",
+      "url": "https://open.spotify.com/track/1S3E32fYpv1BYGmSUod9YM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4jN8Su7sLaI"
 }

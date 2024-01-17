@@ -1,735 +1,1991 @@
 {
-  "2021-12-25": 1033764,
-  "2021-12-26": 1034249,
-  "2021-12-27": 1035310,
-  "2021-12-28": 1035310,
-  "2021-12-29": 1035746,
-  "2021-12-30": 1036226,
-  "2021-12-31": 1036730,
-  "2022-01-01": 1037597,
-  "2022-01-02": 1037745,
-  "2022-01-03": 1038074,
-  "2022-01-04": 1038418,
-  "2022-01-05": 1038741,
-  "2022-01-06": 1039099,
-  "2022-01-07": 1039482,
-  "2022-01-08": 1040283,
-  "2022-01-09": 1040292,
-  "2022-01-10": 1040689,
-  "2022-01-11": 1040982,
-  "2022-01-12": 1041312,
-  "2022-01-13": 1041670,
-  "2022-01-14": 1041950,
-  "2022-01-15": 1042673,
-  "2022-01-16": 1042709,
-  "2022-01-17": 1043456,
-  "2022-01-18": 1043480,
-  "2022-01-19": 1043697,
-  "2022-01-20": 1043985,
-  "2022-01-21": 1044319,
-  "2022-01-22": 1044703,
-  "2022-01-23": 1045185,
-  "2022-01-24": 1045576,
-  "2022-01-25": 1045862,
-  "2022-01-26": 1046168,
-  "2022-01-27": 1046527,
-  "2022-01-28": 1046860,
-  "2022-01-29": 1047168,
-  "2022-01-30": 1047587,
-  "2022-01-31": 1047908,
-  "2022-02-01": 1048227,
-  "2022-02-02": 1048476,
-  "2022-02-03": 1048736,
-  "2022-02-04": 1049047,
-  "2022-02-05": 1049455,
-  "2022-02-06": 1049867,
-  "2022-02-07": 1050288,
-  "2022-02-08": 1050570,
-  "2022-02-09": 1050858,
-  "2022-02-10": 1051165,
-  "2022-02-11": 1051595,
-  "2022-02-12": 1052035,
-  "2022-02-13": 1052454,
-  "2022-02-14": 1052821,
-  "2022-02-15": 1053028,
-  "2022-02-16": 1053251,
-  "2022-02-17": 1053487,
-  "2022-02-18": 1053717,
-  "2022-02-19": 1053968,
-  "2022-02-20": 1054323,
-  "2022-02-21": 1054625,
-  "2022-02-22": 1054900,
-  "2022-02-23": 1055159,
-  "2022-02-24": 1055447,
-  "2022-02-25": 1055668,
-  "2022-02-26": 1055963,
-  "2022-02-27": 1056579,
-  "2022-02-28": 1056579,
-  "2022-03-01": 1056795,
-  "2022-03-02": 1057034,
-  "2022-03-03": 1057265,
-  "2022-03-04": 1057545,
-  "2022-03-05": 1057775,
-  "2022-03-06": 1058153,
-  "2022-03-07": 1058482,
-  "2022-03-08": 1058713,
-  "2022-03-09": 1058922,
-  "2022-03-10": 1059185,
-  "2022-03-11": 1059494,
-  "2022-03-12": 1059780,
-  "2022-03-13": 1060144,
-  "2022-03-14": 1060490,
-  "2022-03-15": 1060737,
-  "2022-03-16": 1061009,
-  "2022-03-17": 1061235,
-  "2022-03-18": 1061634,
-  "2022-03-19": 1061823,
-  "2022-03-20": 1061823,
-  "2022-03-21": 1062503,
-  "2022-03-22": 1062718,
-  "2022-03-23": 1062980,
-  "2022-03-24": 1063272,
-  "2022-03-25": 1063596,
-  "2022-03-26": 1064151,
-  "2022-03-27": 1064697,
-  "2022-03-28": 1065308,
-  "2022-03-30": 1065961,
-  "2022-03-31": 1066308,
-  "2022-04-01": 1066645,
-  "2022-04-02": 1067000,
-  "2022-04-03": 1067382,
-  "2022-04-04": 1067718,
-  "2022-04-05": 1067954,
-  "2022-04-06": 1068240,
-  "2022-04-07": 1068532,
-  "2022-04-08": 1068831,
-  "2022-04-09": 1069204,
-  "2022-04-10": 1069959,
-  "2022-04-11": 1070238,
-  "2022-04-12": 1070278,
-  "2022-04-13": 1070599,
-  "2022-04-14": 1070960,
-  "2022-04-15": 1071340,
-  "2022-04-16": 1071738,
-  "2022-04-17": 1072134,
-  "2022-04-18": 1072583,
-  "2022-04-19": 1072891,
-  "2022-04-20": 1073166,
-  "2022-04-21": 1073463,
-  "2022-04-22": 1073781,
-  "2022-04-23": 1074097,
-  "2022-04-24": 1074479,
-  "2022-04-25": 1074871,
-  "2022-04-26": 1075131,
-  "2022-04-27": 1075448,
-  "2022-04-28": 1075733,
-  "2022-04-29": 1076211,
-  "2022-04-30": 1076620,
-  "2022-05-01": 1077025,
-  "2022-05-02": 1077025,
-  "2022-05-03": 1077275,
-  "2022-05-04": 1077555,
-  "2022-05-05": 1077767,
-  "2022-05-06": 1078065,
-  "2022-05-07": 1078448,
-  "2022-05-08": 1078928,
-  "2022-05-09": 1078997,
-  "2022-05-10": 1079213,
-  "2022-05-11": 1079460,
-  "2022-05-12": 1079699,
-  "2022-05-13": 1079976,
-  "2022-05-14": 1080290,
-  "2022-05-15": 1080599,
-  "2022-05-16": 1080902,
-  "2022-05-17": 1081187,
-  "2022-05-18": 1081408,
-  "2022-05-19": 1081671,
-  "2022-05-20": 1081977,
-  "2022-05-21": 1082599,
-  "2022-05-22": 1082599,
-  "2022-05-23": 1082938,
-  "2022-05-24": 1083173,
-  "2022-05-25": 1083446,
-  "2022-05-26": 1083760,
-  "2022-05-27": 1084112,
-  "2022-05-28": 1084475,
-  "2022-05-29": 1084857,
-  "2022-05-30": 1085278,
-  "2022-05-31": 1085586,
-  "2022-06-01": 1086121,
-  "2022-06-02": 1086140,
-  "2022-06-03": 1086498,
-  "2022-06-04": 1086847,
-  "2022-06-05": 1087406,
-  "2022-06-06": 1087888,
-  "2022-06-07": 1088219,
-  "2022-06-08": 1088618,
-  "2022-06-09": 1088924,
-  "2022-06-10": 1089465,
-  "2022-06-11": 1090099,
-  "2022-06-12": 1090643,
-  "2022-06-13": 1091098,
-  "2022-06-14": 1091426,
-  "2022-06-15": 1091762,
-  "2022-06-16": 1092118,
-  "2022-06-17": 1092486,
-  "2022-06-18": 1092924,
-  "2022-06-19": 1093744,
-  "2022-06-20": 1093744,
-  "2022-06-21": 1094108,
-  "2022-06-22": 1094750,
-  "2022-06-23": 1094750,
-  "2022-06-24": 1095077,
-  "2022-06-25": 1095077,
-  "2022-06-26": 1095917,
-  "2022-06-27": 1096341,
-  "2022-06-28": 1096641,
-  "2022-06-29": 1096955,
-  "2022-06-30": 1097318,
-  "2022-07-01": 1097664,
-  "2022-07-02": 1098068,
-  "2022-07-03": 1098523,
-  "2022-07-04": 1098950,
-  "2022-07-05": 1099285,
-  "2022-07-06": 1099598,
-  "2022-07-07": 1099867,
-  "2022-07-08": 1100206,
-  "2022-07-09": 1100569,
-  "2022-07-10": 1101036,
-  "2022-07-11": 1101497,
-  "2022-07-12": 1101810,
-  "2022-07-13": 1102169,
-  "2022-07-14": 1102496,
-  "2022-07-15": 1102847,
-  "2022-07-16": 1103248,
-  "2022-07-17": 1103718,
-  "2022-07-18": 1104151,
-  "2022-07-19": 1104478,
-  "2022-07-20": 1104790,
-  "2022-07-21": 1105150,
-  "2022-07-22": 1105559,
-  "2022-07-23": 1105980,
-  "2022-07-24": 1106438,
-  "2022-07-25": 1106887,
-  "2022-07-26": 1107306,
-  "2022-07-27": 1107694,
-  "2022-07-28": 1108127,
-  "2022-07-29": 1108548,
-  "2022-07-30": 1109430,
-  "2022-07-31": 1109430,
-  "2022-08-01": 1109844,
-  "2022-08-02": 1110416,
-  "2022-08-03": 1110416,
-  "2022-08-04": 1110830,
-  "2022-08-05": 1111260,
-  "2022-08-06": 1111682,
-  "2022-08-07": 1112108,
-  "2022-08-08": 1112575,
-  "2022-08-09": 1112874,
-  "2022-08-10": 1113186,
-  "2022-08-11": 1113499,
-  "2022-08-12": 1113787,
-  "2022-08-13": 1114120,
-  "2022-08-14": 1114459,
-  "2022-08-15": 1114737,
-  "2022-08-16": 1115039,
-  "2022-08-17": 1115263,
-  "2022-08-18": 1115507,
-  "2022-08-19": 1115755,
-  "2022-08-20": 1116062,
-  "2022-08-21": 1116427,
-  "2022-08-22": 1116722,
-  "2022-08-23": 1116971,
-  "2022-08-24": 1117230,
-  "2022-08-25": 1117487,
-  "2022-08-26": 1117775,
-  "2022-08-27": 1118350,
-  "2022-08-28": 1118888,
-  "2022-08-29": 1119395,
-  "2022-08-30": 1119653,
-  "2022-08-31": 1119759,
-  "2022-09-01": 1119889,
-  "2022-09-02": 1120031,
-  "2022-09-03": 1119998,
-  "2022-09-04": 1120229,
-  "2022-09-05": 1120564,
-  "2022-09-06": 1120895,
-  "2022-09-07": 1121274,
-  "2022-09-09": 1122153,
-  "2022-09-10": 1122694,
-  "2022-09-11": 1123236,
-  "2022-09-12": 1123660,
-  "2022-09-13": 1123974,
-  "2022-09-15": 1124612,
-  "2022-09-16": 1124947,
-  "2022-09-17": 1125339,
-  "2022-09-18": 1125790,
-  "2022-09-19": 1126152,
-  "2022-09-20": 1126445,
-  "2022-09-21": 1126752,
-  "2022-09-22": 1127043,
-  "2022-09-23": 1127413,
-  "2022-09-24": 1127753,
-  "2022-09-25": 1128221,
-  "2022-09-26": 1128625,
-  "2022-09-27": 1128992,
-  "2022-09-28": 1129287,
-  "2022-09-29": 1129609,
-  "2022-09-30": 1129961,
-  "2022-10-01": 1130312,
-  "2022-10-02": 1130695,
-  "2022-10-03": 1131044,
-  "2022-10-04": 1131338,
-  "2022-10-05": 1131610,
-  "2022-10-06": 1131895,
-  "2022-10-07": 1132212,
-  "2022-10-08": 1132536,
-  "2022-10-09": 1133297,
-  "2022-10-10": 1133404,
-  "2022-10-11": 1133732,
-  "2022-10-12": 1134024,
-  "2022-10-13": 1134325,
-  "2022-10-14": 1134625,
-  "2022-10-15": 1134982,
-  "2022-10-16": 1135387,
-  "2022-10-17": 1135714,
-  "2022-10-18": 1135954,
-  "2022-10-19": 1136247,
-  "2022-10-20": 1136555,
-  "2022-10-21": 1136846,
-  "2022-10-22": 1137268,
-  "2022-10-23": 1137685,
-  "2022-10-24": 1138072,
-  "2022-10-25": 1138386,
-  "2022-10-26": 1138745,
-  "2022-10-27": 1139079,
-  "2022-10-28": 1139381,
-  "2022-10-29": 1139736,
-  "2022-10-30": 1140137,
-  "2022-10-31": 1140465,
-  "2022-11-01": 1140724,
-  "2022-11-02": 1140934,
-  "2022-11-03": 1141200,
-  "2022-11-04": 1141484,
-  "2022-11-05": 1141812,
-  "2022-11-06": 1142201,
-  "2022-11-07": 1142497,
-  "2022-11-08": 1142713,
-  "2022-11-09": 1142996,
-  "2022-11-10": 1143281,
-  "2022-11-11": 1143614,
-  "2022-11-12": 1144031,
-  "2022-11-13": 1144382,
-  "2022-11-14": 1144702,
-  "2022-11-15": 1145049,
-  "2022-11-16": 1145364,
-  "2022-11-17": 1145686,
-  "2022-11-18": 1145760,
-  "2022-11-19": 1145873,
-  "2022-11-20": 1146261,
-  "2022-11-21": 1146674,
-  "2022-11-22": 1147098,
-  "2022-11-23": 1146934,
-  "2022-11-24": 1148415,
-  "2022-11-25": 1148995,
-  "2022-11-26": 1149395,
-  "2022-11-27": 1149704,
-  "2022-11-28": 1150037,
-  "2022-11-29": 1150231,
-  "2022-11-30": 1150444,
-  "2022-12-01": 1150637,
-  "2022-12-02": 1150805,
-  "2022-12-03": 1151330,
-  "2022-12-04": 1151748,
-  "2022-12-05": 1152127,
-  "2022-12-06": 1152360,
-  "2022-12-07": 1152630,
-  "2022-12-08": 1152905,
-  "2022-12-09": 1153184,
-  "2022-12-10": 1153490,
-  "2022-12-11": 1153832,
-  "2022-12-12": 1154173,
-  "2022-12-13": 1154424,
-  "2022-12-14": 1154693,
-  "2022-12-15": 1154944,
-  "2022-12-16": 1155232,
-  "2022-12-17": 1155586,
-  "2022-12-18": 1156013,
-  "2022-12-19": 1156353,
-  "2022-12-20": 1156850,
-  "2022-12-21": 1156850,
-  "2022-12-22": 1157092,
-  "2022-12-24": 1157696,
-  "2022-12-25": 1158041,
-  "2022-12-26": 1158421,
-  "2022-12-27": 1158739,
-  "2022-12-28": 1159096,
-  "2022-12-29": 1159439,
-  "2022-12-30": 1159807,
-  "2022-12-31": 1160153,
-  "2023-01-01": 1160562,
-  "2023-01-02": 1160921,
-  "2023-01-03": 1161283,
-  "2023-01-04": 1161604,
-  "2023-01-05": 1161937,
-  "2023-01-06": 1162341,
-  "2023-01-07": 1163042,
-  "2023-01-08": 1163173,
-  "2023-01-09": 1163650,
-  "2023-01-10": 1164002,
-  "2023-01-11": 1164334,
-  "2023-01-12": 1164707,
-  "2023-01-13": 1165037,
-  "2023-01-14": 1165804,
-  "2023-01-15": 1165884,
-  "2023-01-16": 1166324,
-  "2023-01-17": 1166633,
-  "2023-01-18": 1167006,
-  "2023-01-19": 1167403,
-  "2023-01-20": 1167805,
-  "2023-01-21": 1168253,
-  "2023-01-22": 1168735,
-  "2023-01-23": 1169194,
-  "2023-01-24": 1169475,
-  "2023-01-25": 1169846,
-  "2023-01-26": 1170197,
-  "2023-01-27": 1170518,
-  "2023-01-28": 1170851,
-  "2023-01-29": 1171230,
-  "2023-01-30": 1171568,
-  "2023-01-31": 1171568,
-  "2023-02-01": 1172030,
-  "2023-02-02": 1172339,
-  "2023-02-03": 1172636,
-  "2023-02-04": 1172915,
-  "2023-02-05": 1173241,
-  "2023-02-06": 1173536,
-  "2023-02-07": 1173717,
-  "2023-02-08": 1174193,
-  "2023-02-09": 1174193,
-  "2023-02-10": 1174424,
-  "2023-02-11": 1174696,
-  "2023-02-12": 1175326,
-  "2023-02-13": 1175528,
-  "2023-02-14": 1175528,
-  "2023-02-15": 1175784,
-  "2023-02-16": 1176015,
-  "2023-02-17": 1176245,
-  "2023-02-18": 1176808,
-  "2023-02-19": 1176849,
-  "2023-02-20": 1177111,
-  "2023-02-21": 1177373,
-  "2023-02-22": 1177629,
-  "2023-02-23": 1177867,
-  "2023-02-24": 1178112,
-  "2023-02-25": 1178474,
-  "2023-02-26": 1178704,
-  "2023-02-27": 1179214,
-  "2023-02-28": 1179214,
-  "2023-03-01": 1179430,
-  "2023-03-02": 1179654,
-  "2023-03-03": 1179892,
-  "2023-03-04": 1180134,
-  "2023-03-05": 1180723,
-  "2023-03-06": 1180723,
-  "2023-03-07": 1180985,
-  "2023-03-08": 1181188,
-  "2023-03-09": 1181383,
-  "2023-03-10": 1181596,
-  "2023-03-11": 1181800,
-  "2023-03-12": 1182073,
-  "2023-03-13": 1182305,
-  "2023-03-14": 1182467,
-  "2023-03-15": 1182621,
-  "2023-03-16": 1182794,
-  "2023-03-17": 1182794,
-  "2023-03-18": 1183217,
-  "2023-03-19": 1183496,
-  "2023-03-20": 1183821,
-  "2023-03-21": 1184039,
-  "2023-03-22": 1184264,
-  "2023-03-23": 1184530,
-  "2023-03-24": 1184530,
-  "2023-03-25": 1185064,
-  "2023-03-26": 1185476,
-  "2023-03-27": 1185856,
-  "2023-03-28": 1186098,
-  "2023-03-29": 1186409,
-  "2023-03-30": 1186905,
-  "2023-03-31": 1186905,
-  "2023-04-01": 1187232,
-  "2023-04-02": 1187564,
-  "2023-04-03": 1187900,
-  "2023-04-04": 1188158,
-  "2023-04-05": 1188434,
-  "2023-04-06": 1188741,
-  "2023-04-07": 1189062,
-  "2023-04-09": 1189649,
-  "2023-04-10": 1189949,
-  "2023-04-11": 1190391,
-  "2023-04-12": 1190391,
-  "2023-04-13": 1190668,
-  "2023-04-14": 1190920,
-  "2023-04-15": 1191202,
-  "2023-04-16": 1191489,
-  "2023-04-17": 1191753,
-  "2023-04-18": 1191969,
-  "2023-04-19": 1192165,
-  "2023-04-20": 1192347,
-  "2023-04-21": 1192600,
-  "2023-04-22": 1192870,
-  "2023-04-23": 1193142,
-  "2023-04-24": 1193344,
-  "2023-04-25": 1193522,
-  "2023-04-26": 1193711,
-  "2023-04-27": 1193910,
-  "2023-04-28": 1194190,
-  "2023-04-29": 1194494,
-  "2023-04-30": 1194771,
-  "2023-05-01": 1194998,
-  "2023-05-02": 1195274,
-  "2023-05-03": 1195479,
-  "2023-05-04": 1195759,
-  "2023-05-05": 1196033,
-  "2023-05-06": 1196354,
-  "2023-05-07": 1196702,
-  "2023-05-08": 1196958,
-  "2023-05-09": 1197161,
-  "2023-05-10": 1197378,
-  "2023-05-11": 1197582,
-  "2023-05-12": 1197830,
-  "2023-05-13": 1198120,
-  "2023-05-14": 1198408,
-  "2023-05-15": 1198709,
-  "2023-05-16": 1198900,
-  "2023-05-17": 1199123,
-  "2023-05-18": 1199360,
-  "2023-05-19": 1199626,
-  "2023-05-20": 1200244,
-  "2023-05-21": 1200244,
-  "2023-05-22": 1200244,
-  "2023-05-23": 1200787,
-  "2023-05-24": 1201234,
-  "2023-05-25": 1201326,
-  "2023-05-26": 1201628,
-  "2023-05-27": 1201904,
-  "2023-05-28": 1202312,
-  "2023-05-29": 1202312,
-  "2023-05-30": 1202874,
-  "2023-05-31": 1203158,
-  "2023-06-01": 1203503,
-  "2023-06-02": 1203836,
-  "2023-06-03": 1204108,
-  "2023-06-04": 1204487,
-  "2023-06-05": 1204822,
-  "2023-06-06": 1205087,
-  "2023-06-07": 1205381,
-  "2023-06-08": 1205613,
-  "2023-06-09": 1205847,
-  "2023-06-10": 1206138,
-  "2023-06-11": 1206456,
-  "2023-06-12": 1206818,
-  "2023-06-13": 1207015,
-  "2023-06-14": 1207019,
-  "2023-06-15": 1207108,
-  "2023-06-16": 242518,
-  "2023-06-17": 242518,
-  "2023-06-18": 242518,
-  "2023-06-19": 242518,
-  "2023-06-20": 242518,
-  "2023-06-21": 242518,
-  "2023-06-22": 242518,
-  "2023-06-23": 242518,
-  "2023-06-24": 242518,
-  "2023-06-25": 242518,
-  "2023-06-26": 242518,
-  "2023-06-27": 242518,
-  "2023-06-28": 242518,
-  "2023-06-29": 242518,
-  "2023-06-30": 242518,
-  "2023-07-01": 242518,
-  "2023-07-02": 242518,
-  "2023-07-03": 242518,
-  "2023-07-04": 242518,
-  "2023-07-05": 242518,
-  "2023-07-06": 242518,
-  "2023-07-07": 242518,
-  "2023-07-08": 242518,
-  "2023-07-09": 242518,
-  "2023-07-10": 242518,
-  "2023-07-11": 242518,
-  "2023-07-12": 242518,
-  "2023-07-13": 242518,
-  "2023-07-14": 242518,
-  "2023-07-15": 242518,
-  "2023-07-16": 242518,
-  "2023-07-17": 242518,
-  "2023-07-18": 242518,
-  "2023-07-19": 242518,
-  "2023-07-20": 242518,
-  "2023-07-21": 242518,
-  "2023-07-22": 242518,
-  "2023-07-23": 242518,
-  "2023-07-24": 242518,
-  "2023-07-25": 242518,
-  "2023-07-26": 242518,
-  "2023-07-27": 242518,
-  "2023-07-28": 242518,
-  "2023-07-29": 242518,
-  "2023-07-30": 242518,
-  "2023-07-31": 242518,
-  "2023-08-01": 242518,
-  "2023-08-02": 242518,
-  "2023-08-03": 242518,
-  "2023-08-04": 242518,
-  "2023-08-05": 242518,
-  "2023-08-06": 242518,
-  "2023-08-07": 242518,
-  "2023-08-08": 242518,
-  "2023-08-09": 242518,
-  "2023-08-10": 242518,
-  "2023-08-11": 242518,
-  "2023-08-12": 242518,
-  "2023-08-13": 242518,
-  "2023-08-14": 242518,
-  "2023-08-15": 242518,
-  "2023-08-16": 242518,
-  "2023-08-17": 242518,
-  "2023-08-18": 242518,
-  "2023-08-19": 242518,
-  "2023-08-20": 242518,
-  "2023-08-21": 242518,
-  "2023-08-22": 242518,
-  "2023-08-23": 242518,
-  "2023-08-24": 242518,
-  "2023-08-25": 242518,
-  "2023-08-26": 242518,
-  "2023-08-27": 242518,
-  "2023-08-28": 242518,
-  "2023-08-29": 242518,
-  "2023-08-30": 242518,
-  "2023-08-31": 242518,
-  "2023-09-01": 242518,
-  "2023-09-02": 242518,
-  "2023-09-03": 242518,
-  "2023-09-04": 242518,
-  "2023-09-05": 242518,
-  "2023-09-06": 242518,
-  "2023-09-07": 242518,
-  "2023-09-08": 242518,
-  "2023-09-09": 242518,
-  "2023-09-10": 242518,
-  "2023-09-11": 242518,
-  "2023-09-12": 242518,
-  "2023-09-13": 242518,
-  "2023-09-14": 242518,
-  "2023-09-15": 242518,
-  "2023-09-16": 242518,
-  "2023-09-17": 242518,
-  "2023-09-18": 242518,
-  "2023-09-19": 242518,
-  "2023-09-20": 242518,
-  "2023-09-21": 242518,
-  "2023-09-22": 242518,
-  "2023-09-23": 242518,
-  "2023-09-24": 242518,
-  "2023-09-25": 242518,
-  "2023-09-26": 242518,
-  "2023-09-27": 242518,
-  "2023-09-28": 242518,
-  "2023-09-29": 242518,
-  "2023-09-30": 242518,
-  "2023-10-01": 242518,
-  "2023-10-02": 242518,
-  "2023-10-03": 242518,
-  "2023-10-04": 242518,
-  "2023-10-05": 242518,
-  "2023-10-06": 242518,
-  "2023-10-07": 242518,
-  "2023-10-08": 242518,
-  "2023-10-09": 242518,
-  "2023-10-10": 242518,
-  "2023-10-11": 242518,
-  "2023-10-12": 242518,
-  "2023-10-13": 242518,
-  "2023-10-14": 242518,
-  "2023-10-15": 242518,
-  "2023-10-16": 242518,
-  "2023-10-17": 242518,
-  "2023-10-18": 242518,
-  "2023-10-19": 242518,
-  "2023-10-20": 242518,
-  "2023-10-21": 242518,
-  "2023-10-22": 242518,
-  "2023-10-23": 242518,
-  "2023-10-24": 242518,
-  "2023-10-25": 242518,
-  "2023-10-26": 242518,
-  "2023-10-27": 242518,
-  "2023-10-28": 242518,
-  "2023-10-29": 242518,
-  "2023-10-30": 242518,
-  "2023-10-31": 242518,
-  "2023-11-01": 242518,
-  "2023-11-02": 242518,
-  "2023-11-03": 242518,
-  "2023-11-04": 242518,
-  "2023-11-05": 242518,
-  "2023-11-06": 242518,
-  "2023-11-07": 242518,
-  "2023-11-08": 242518,
-  "2023-11-09": 242518,
-  "2023-11-10": 242518,
-  "2023-11-11": 242518,
-  "2023-11-12": 242518,
-  "2023-11-13": 242518,
-  "2023-11-14": 242518,
-  "2023-11-15": 242518,
-  "2023-11-16": 242518,
-  "2023-11-17": 242518,
-  "2023-11-18": 242518,
-  "2023-11-19": 242518,
-  "2023-11-20": 242518,
-  "2023-11-21": 242518,
-  "2023-11-22": 242518,
-  "2023-11-23": 242518,
-  "2023-11-24": 242518,
-  "2023-11-25": 242518,
-  "2023-11-26": 242518,
-  "2023-11-27": 242518,
-  "2023-11-28": 242518,
-  "2023-11-29": 242518,
-  "2023-11-30": 242518,
-  "2023-12-01": 242518,
-  "2023-12-02": 242518,
-  "2023-12-03": 242518,
-  "2023-12-04": 242518,
-  "2023-12-05": 242518,
-  "2023-12-06": 242518,
-  "2023-12-07": 242518,
-  "2023-12-08": 242518,
-  "2023-12-09": 242518,
-  "2023-12-10": 242518,
-  "2023-12-11": 242518,
-  "2023-12-12": 242518,
-  "2023-12-13": 242518,
-  "2023-12-14": 242518,
-  "2023-12-15": 242518,
-  "2023-12-16": 242518,
-  "2023-12-17": 242518,
-  "2023-12-18": 242518,
-  "2023-12-19": 242518,
-  "2023-12-20": 242518,
-  "2023-12-21": 242518,
-  "2023-12-22": 242518,
-  "2023-12-23": 242518,
-  "2023-12-24": 242518,
-  "2023-12-25": 242518,
-  "2023-12-26": 242518,
-  "2023-12-27": 242518,
-  "2023-12-30": 242518,
-  "2023-12-31": 242518,
-  "2024-01-01": 242518,
-  "2024-01-02": 242518,
-  "2024-01-03": 242518
+  "2024-01-17": 242518,
+  "date_first_scraped": "2021-12-21",
+  "description": "Just some of the many highlights from the <a href=\"spotify:artist:3PhoLpVuITZKcymswpck5b\">Rocket Man</a>'s career.",
+  "name": "This Is Elton John",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rocketman (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/16iIPsnAjGZea8TeOCzeN8"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Taron Egerton",
+          "url": "https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250773,
+      "name": "(I'm Gonna) Love Me Again",
+      "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night (Deluxe)",
+        "url": "https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290535,
+      "name": "A Good Heart",
+      "url": "https://open.spotify.com/track/0tHSq0Q3IdId4dodh4JxkQ"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night",
+        "url": "https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 290535,
+      "name": "A Good Heart",
+      "url": "https://open.spotify.com/track/6HuapIQx5d2311CutkhqAh"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "After All",
+      "url": "https://open.spotify.com/track/4A9g0WVvFYjJftYWWXXxP7"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257237,
+      "name": "Always Love You",
+      "url": "https://open.spotify.com/track/12MHScs4Y5gDdxy0eQYCkr"
+    },
+    {
+      "album": {
+        "name": "Are You Ready For Love?",
+        "url": "https://open.spotify.com/album/1l9jI5f9g2WntXhj84O8YD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210500,
+      "name": "Are You Ready For Love - '79 Version Radio Edit",
+      "url": "https://open.spotify.com/track/3YdJzolD4HFvWGioELW2pC"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 212440,
+      "name": "Are You Ready For Love? - Remastered",
+      "url": "https://open.spotify.com/track/3D15FZXmjfna7aFfKmEajd"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Are You Ready For Love? - Remastered",
+      "url": "https://open.spotify.com/track/4IN5LOq2UhGrCk2cBRlsmR"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361546,
+      "name": "Bennie And The Jets - Recorded At The Colosseum, Caesars Palace, Las Vegas",
+      "url": "https://open.spotify.com/track/144y07SeEatHOBswM3BZHk"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 323493,
+      "name": "Bennie And The Jets - Remastered",
+      "url": "https://open.spotify.com/track/1evbCBIYNc7YUTsgryhnmm"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/3iJxloILmOu2NIRZ0OGyui"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
+    },
+    {
+      "album": {
+        "name": "Jump Up! (Remastered 2003)",
+        "url": "https://open.spotify.com/album/2IK2faEYu07GxN2mhZW0F4"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206266,
+      "name": "Blue Eyes - Remastered 2003",
+      "url": "https://open.spotify.com/track/1rUu58wEd44nEzIbF2CYil"
+    },
+    {
+      "album": {
+        "name": "Jump Up!",
+        "url": "https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206266,
+      "name": "Blue Eyes - Remastered 2003",
+      "url": "https://open.spotify.com/track/4PFhHd7DsNg0ke9Nmlxms5"
+    },
+    {
+      "album": {
+        "name": "Breaking Hearts (Remastered)",
+        "url": "https://open.spotify.com/album/7jKGIW8OzSkaHUuEINdGE3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213840,
+      "name": "Breaking Hearts (Ain't What It Used To Be)",
+      "url": "https://open.spotify.com/track/3w7ALluoTA0KCX0m4DBa7V"
+    },
+    {
+      "album": {
+        "name": "Breaking Hearts",
+        "url": "https://open.spotify.com/album/572Rt1N8EW6yMEEQ298qQJ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Breaking Hearts (Ain't What It Used To Be)",
+      "url": "https://open.spotify.com/track/4fBCtdSAeJHMhWlXxTGoEB"
+    },
+    {
+      "album": {
+        "name": "Tumbleweed Connection (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TuCLx6fu1rEd46r5Oxx7y"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 381240,
+      "name": "Burn Down The Mission",
+      "url": "https://open.spotify.com/track/6vS7WmlHHzv8to3XmIxHvD"
+    },
+    {
+      "album": {
+        "name": "Tumbleweed Connection",
+        "url": "https://open.spotify.com/album/03zfU3IwWmymKoaWnwFNaY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382933,
+      "name": "Burn Down The Mission",
+      "url": "https://open.spotify.com/track/3ggTCH9i9dJ0sRdAxFGzcr"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Can You Feel The Love Tonight",
+      "url": "https://open.spotify.com/track/67HKtdqchK0rmODxsBeWT8"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 229453,
+      "name": "Candle In The Wind - Remastered",
+      "url": "https://open.spotify.com/track/4XYWXReYdOQ6rEu5zN4TUD"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 229533,
+      "name": "Candle In The Wind - Remastered",
+      "url": "https://open.spotify.com/track/2bjh0ZOw1w7QT1ohJ5JYA2"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1L9fzw2pXprOqtemTwtxXF"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5zbzqL7RTp3KlJ2kIqbi72"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228932,
+      "name": "Candle In The Wind - Remastered 2014",
+      "url": "https://open.spotify.com/track/1j0Nyzf2MFBcZcC8GPmynK"
+    },
+    {
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "Candle In The Wind 1997",
+      "url": "https://open.spotify.com/track/3DUcaEvPO72PijivCjtZcU"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346360,
+      "name": "Captain Fantastic And The Brown Dirt Cowboy",
+      "url": "https://open.spotify.com/track/6dix9mJZambkCkDOlXQTwG"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01sJklSgqDgyR7nlhnRcFA"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 346640,
+      "name": "Captain Fantastic And The Brown Dirt Cowboy",
+      "url": "https://open.spotify.com/track/58hb5zNHFE6np8gGHm0b9n"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0eN7VehLIpUYvAfZ2mO5za"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346640,
+      "name": "Captain Fantastic And The Brown Dirt Cowboy",
+      "url": "https://open.spotify.com/track/6qxfacGQsF82vBW33ite2D"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290093,
+      "name": "Circle Of Life",
+      "url": "https://open.spotify.com/track/7em38Hh2sKwnZ1HDgxvg82"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
+    },
+    {
+      "album": {
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234666,
+      "name": "Daniel",
+      "url": "https://open.spotify.com/track/1BvJmtaXsqtH438BcDPeBb"
+    },
+    {
+      "album": {
+        "name": "Rock Of The Westies (Remastered)",
+        "url": "https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X"
+    },
+    {
+      "album": {
+        "name": "Rock Of The Westies",
+        "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275440,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299600,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/5knatk8Xid2nNvr4D6Tdjg"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5Lv4IZbfcdeAzljFwY8gzO"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299600,
+      "name": "Don't Go Breaking My Heart",
+      "url": "https://open.spotify.com/track/6PfEJ050oh7DbAqDScmFmM"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Kiki Dee",
+          "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 266146,
+      "name": "Don't Go Breaking My Heart - Remastered",
+      "url": "https://open.spotify.com/track/3Oa9AekIq67UBax1H9bXp6"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347666,
+      "name": "Don't Let The Sun Go Down On Me - Live",
+      "url": "https://open.spotify.com/track/6Zkulfbv0ebe7tukkftvd1"
+    },
+    {
+      "album": {
+        "name": "Duets",
+        "url": "https://open.spotify.com/album/5Lv4IZbfcdeAzljFwY8gzO"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347466,
+      "name": "Don't Let The Sun Go Down On Me - Live At Wembley Arena / 1991",
+      "url": "https://open.spotify.com/track/5X5jeTWAS0zzm4VN3lvqGH"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264846,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/70TFwuLyduUQYij2aCmIsx"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration)",
+        "url": "https://open.spotify.com/album/5kRxjqksGBxJ9AxrAisUZ4"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 666571,
+      "name": "Funeral For A Friend / Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/4a9vY0QgMWZXk667bGBtJI"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 667560,
+      "name": "Funeral For A Friend / Love Lies Bleeding",
+      "url": "https://open.spotify.com/track/3egZQiFOhh3sAS5wF4B4yh"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 666571,
+      "name": "Funeral For A Friend / Love Lies Bleeding - Remastered 2014",
+      "url": "https://open.spotify.com/track/5NERbS7923kF471NLKDZkB"
+    },
+    {
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/6reqzR9irdAHWR8abHyqbG"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238053,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/2MQ51y5NhCyva4SgWmK2Me"
+    },
+    {
+      "album": {
+        "name": "Loyal To The Game",
+        "url": "https://open.spotify.com/album/33lk2GnP8cJzl7cd1OJrXn"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238053,
+      "name": "Ghetto Gospel",
+      "url": "https://open.spotify.com/track/7jLbTp3qZzah9kMIdW8e5M"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194560,
+      "name": "Goodbye Yellow Brick Road",
+      "url": "https://open.spotify.com/track/5jWYqrw9smZkVaxYU0ZbKk"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/1IywC3FcPZekfT7MS1TZMS"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
+    },
+    {
+      "album": {
+        "name": "Hold Me Closer",
+        "url": "https://open.spotify.com/album/4QQWpCEX4BxMXwRQmtkKY6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202245,
+      "name": "Hold Me Closer",
+      "url": "https://open.spotify.com/track/72yP0DUlWPyH8P7IoxskwN"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313133,
+      "name": "Honky Cat",
+      "url": "https://open.spotify.com/track/4wlB8D6OZpHEz3kXVuYD2O"
+    },
+    {
+      "album": {
+        "name": "Reg Strikes Back",
+        "url": "https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275373,
+      "name": "I Don't Wanna Go On With You Like That",
+      "url": "https://open.spotify.com/track/2Gd10PZnMktt3Cgo9s6yi0"
+    },
+    {
+      "album": {
+        "name": "Reg Strikes Back (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/2pZOoHU4hQwRnSX2Ppgl3i"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275373,
+      "name": "I Don't Wanna Go On With You Like That",
+      "url": "https://open.spotify.com/track/4X7lg7XBi9KZKo8ujO0uTv"
+    },
+    {
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285333,
+      "name": "I Guess That's Why They Call It The Blues",
+      "url": "https://open.spotify.com/track/23l1kVpqMVREiwU1YAlcr4"
+    },
+    {
+      "album": {
+        "name": "Songs From The West Coast",
+        "url": "https://open.spotify.com/album/0f8JxUd1l1aeDm8mRmwTiQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275493,
+      "name": "I Want Love",
+      "url": "https://open.spotify.com/track/3Mg3hjdH0nAIzcJuokLdQI"
+    },
+    {
+      "album": {
+        "name": "Songs From The West Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275493,
+      "name": "I Want Love",
+      "url": "https://open.spotify.com/track/5rnMgctZxjKDNdqrVqg7Bm"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277746,
+      "name": "I Want Love - Remastered",
+      "url": "https://open.spotify.com/track/3Mf1nXLTLtIxkCJjV562sn"
+    },
+    {
+      "album": {
+        "name": "Too Low For Zero",
+        "url": "https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183440,
+      "name": "I'm Still Standing",
+      "url": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night",
+        "url": "https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273543,
+      "name": "In The Name Of You",
+      "url": "https://open.spotify.com/track/6ygS5mLIiRi6u711PEyE64"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night (Deluxe)",
+        "url": "https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273543,
+      "name": "In The Name Of You",
+      "url": "https://open.spotify.com/track/7Fxo33DpdxrWBvlP7qW28m"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377573,
+      "name": "Lucy In The Sky With Diamonds",
+      "url": "https://open.spotify.com/track/13JsYnkF16pHKuOFG6uI1C"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7bcUz60MilxMGurjN2T5nS"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 378773,
+      "name": "Lucy In The Sky With Diamonds",
+      "url": "https://open.spotify.com/track/7wBmWdMs0cWeWZGFBhJeOB"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 376800,
+      "name": "Lucy In The Sky With Diamonds - Remastered",
+      "url": "https://open.spotify.com/track/0JrJngo3Zn79B294yQRlI2"
+    },
+    {
+      "album": {
+        "name": "Made In England",
+        "url": "https://open.spotify.com/album/6IaKLU7NOK4XzxNGDeyC9R"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 303020,
+      "name": "Made In England",
+      "url": "https://open.spotify.com/track/6ryzRaNxzMtOHQkNRlReDh"
+    },
+    {
+      "album": {
+        "name": "Made In England",
+        "url": "https://open.spotify.com/album/70N1KLB06vjUQWSUaEYYdq"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 308106,
+      "name": "Made In England",
+      "url": "https://open.spotify.com/track/5mZHT7OH6mz0vpqDQeHBbd"
+    },
+    {
+      "album": {
+        "name": "Made In England",
+        "url": "https://open.spotify.com/album/1IkLYWnY2NNZjpE0z7m3EH"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308106,
+      "name": "Made In England",
+      "url": "https://open.spotify.com/track/6VmxhbNRCURgu8d5pEPRb8"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg"
+    },
+    {
+      "album": {
+        "name": "Ice On Fire",
+        "url": "https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/3G0ENKW9vzV0SuYKaWFflI"
+    },
+    {
+      "album": {
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 343841,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/6LWW998TfGPyxPVWuO88iR"
+    },
+    {
+      "album": {
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Robert Trujillo",
+          "url": "https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16"
+        },
+        {
+          "name": "Chad Smith",
+          "url": "https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395785,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/54OjiOo0P2qro91GkZOQxp"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7bcUz60MilxMGurjN2T5nS"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 321933,
+      "name": "Philadelphia Freedom",
+      "url": "https://open.spotify.com/track/5wzEKaovqFK2LXKKzScukl"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/01sJklSgqDgyR7nlhnRcFA"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 321933,
+      "name": "Philadelphia Freedom",
+      "url": "https://open.spotify.com/track/6kLGxJA0QCVDTIbZDbXgL3"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324573,
+      "name": "Philadelphia Freedom",
+      "url": "https://open.spotify.com/track/2hl9ONQ7YGgZGYx0OSHvIq"
+    },
+    {
+      "album": {
+        "name": "Caribou (Remastered)",
+        "url": "https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309106,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/55BxsTlelow3XAE4qA0W6E"
+    },
+    {
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309106,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/6CJCCb9ookMMDQNz1Rrtii"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration / Super Deluxe)",
+        "url": "https://open.spotify.com/album/5u5AXYtYIxnIs4S7K3xHAN"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 315627,
+      "name": "Pinball Wizard",
+      "url": "https://open.spotify.com/track/7bLVAgQDVEdeGrsPVABVRi"
+    },
+    {
+      "album": {
+        "name": "Honky Chateau (Remastered)",
+        "url": "https://open.spotify.com/album/46g6b33tbttcPtzbwzBoG6"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "url": "https://open.spotify.com/track/2zvot9pY2FNl1E94kc4K8M"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 282000,
+      "name": "Rocket Man (I Think It's Going To Be A Long Long Time) - Remastered",
+      "url": "https://open.spotify.com/track/05qss0DVKZr7QneuqX4PLc"
+    },
+    {
+      "album": {
+        "name": "Honky Chateau",
+        "url": "https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281613,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 282160,
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "url": "https://open.spotify.com/track/64G0Qif9GkKJP22VZHMSJV"
+    },
+    {
+      "album": {
+        "name": "Sleeping With The Past (Remastered with bonus tracks)",
+        "url": "https://open.spotify.com/album/0j12QW17dkUCCI7eOAiT1r"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304133,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/0e3yhVeNaTfKIWQRw9U9sY"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (40th Anniversary Celebration/ Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Gp6qSE1ywXCLjal5NUWUE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 295466,
+      "name": "Saturday Night's Alright For Fighting - Remastered 2014",
+      "url": "https://open.spotify.com/track/4lHxSKtJHqnGOrXfUykcYx"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/45F4Pmp3EJi3T6qYonm4Ml"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 295680,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered",
+      "url": "https://open.spotify.com/track/0ygP2v2yM8fNCjw7EZMC2Q"
+    },
+    {
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295466,
+      "name": "Saturday Night\u2019s Alright (For Fighting) - Remastered 2014",
+      "url": "https://open.spotify.com/track/12yHvSYFXI7PGzNecUvIDu"
+    },
+    {
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/3g61rwvRs1NPeVBxuAMmHZ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240546,
+      "name": "Something About The Way You Look Tonight - Edit Version",
+      "url": "https://open.spotify.com/track/5LjSxAIKwyZvQqJ04ZQ0Da"
+    },
+    {
+      "album": {
+        "name": "Candle In The Wind 1997 / Something About ...",
+        "url": "https://open.spotify.com/album/0GjamXB5m6Q9S8PhfksiNQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240546,
+      "name": "Something About The Way You Look Tonight - Edit Version",
+      "url": "https://open.spotify.com/track/6nedNOsyaCO7DPh8tGBrtu"
+    },
+    {
+      "album": {
+        "name": "A Single Man",
+        "url": "https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413866,
+      "name": "Song For Guy",
+      "url": "https://open.spotify.com/track/71zJRiAG1f817v9R9tYMvg"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/1bnoqPJyaxMCtYuSprcBTD"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227640,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/4LlcpTTVG45rrjqEP913UU"
+    },
+    {
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/2ObA2NIXNeQIEGt4FbYFZ3"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228226,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/4eP6oyNbAJcViaiHtPsOCh"
+    },
+    {
+      "album": {
+        "name": "Blue Moves",
+        "url": "https://open.spotify.com/album/0XsM7TdicJh19osmKPUoR2"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228933,
+      "name": "Sorry Seems To Be The Hardest Word",
+      "url": "https://open.spotify.com/track/6XfxmT5QNCXvpZA6PKfWVL"
+    },
+    {
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224706,
+      "name": "Take Me To The Pilot",
+      "url": "https://open.spotify.com/track/5ikzxNue9a4uAQmSmTXZSi"
+    },
+    {
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226626,
+      "name": "Take Me To The Pilot",
+      "url": "https://open.spotify.com/track/1CPmTJHyeVRWsc6Va27fpQ"
+    },
+    {
+      "album": {
+        "name": "Elton John (Remastered Version)",
+        "url": "https://open.spotify.com/album/7dtLYwLOdYQa2S8Vjeuxci"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226626,
+      "name": "Take Me To The Pilot",
+      "url": "https://open.spotify.com/track/7ugS6KXsB2gurPKRXZVnCU"
+    },
+    {
+      "album": {
+        "name": "Caribou (Remastered)",
+        "url": "https://open.spotify.com/album/4wBEBXmZSMUnscian0hgCI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back",
+      "url": "https://open.spotify.com/track/39mil4vLySlovlIjyGzAp5"
+    },
+    {
+      "album": {
+        "name": "Caribou",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224933,
+      "name": "The Bitch Is Back",
+      "url": "https://open.spotify.com/track/40tnCfx2mTtHozyaRDcYC5"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 224793,
+      "name": "The Bitch Is Back - Remastered",
+      "url": "https://open.spotify.com/track/4sb6aP473MyK2QJBPSumqY"
+    },
+    {
+      "album": {
+        "name": "Songs From The West Coast (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278426,
+      "name": "This Train Don't Stop There Anymore",
+      "url": "https://open.spotify.com/track/6mFnYxzUmEzEiqkB94k3g7"
+    },
+    {
+      "album": {
+        "name": "Songs From The West Coast",
+        "url": "https://open.spotify.com/album/0f8JxUd1l1aeDm8mRmwTiQ"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279306,
+      "name": "This Train Don't Stop There Anymore",
+      "url": "https://open.spotify.com/track/04URwvZpMNuNEUCREAkadL"
+    },
+    {
+      "album": {
+        "name": "To Be Continued...",
+        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 375000,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/6fKBv1AMKwLbiEghJMOmTM"
+    },
+    {
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/3kUqS4YNcnNNlYoUMAeqNB"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375866,
+      "name": "Tiny Dancer - Remastered",
+      "url": "https://open.spotify.com/track/5fP7YHDNkIwh3F7zPPgEdB"
+    },
+    {
+      "album": {
+        "name": "The Union (Deluxe)",
+        "url": "https://open.spotify.com/album/7hZmPWO4fh1zlDBQOdRwSg"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Leon Russell",
+          "url": "https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290680,
+      "name": "When Love Is Dying",
+      "url": "https://open.spotify.com/track/1E57RLSEqhFOmNa4WycsOu"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night",
+        "url": "https://open.spotify.com/album/10BzXBAjOIr8EkDsIYrY1B"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193793,
+      "name": "Wonderful Crazy Night",
+      "url": "https://open.spotify.com/track/0Y3j5jrjyHX9K8UYwPdHie"
+    },
+    {
+      "album": {
+        "name": "Wonderful Crazy Night (Deluxe)",
+        "url": "https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193793,
+      "name": "Wonderful Crazy Night",
+      "url": "https://open.spotify.com/track/4SKakzuaSX2PMXIHGUDNyo"
+    },
+    {
+      "album": {
+        "name": "Elton John",
+        "url": "https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241786,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1"
+    },
+    {
+      "album": {
+        "name": "Diamonds (Deluxe)",
+        "url": "https://open.spotify.com/album/1uzIyRT1QxDx4fMIX0UiAE"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 243066,
+      "name": "Your Song - Remastered",
+      "url": "https://open.spotify.com/track/2bUXfclD8DwJwwUENtSCWu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7VulteLVOkq"
 }

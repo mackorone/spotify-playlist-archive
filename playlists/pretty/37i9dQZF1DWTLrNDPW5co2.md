@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: COBRAH
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,036 likes - 65 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,920 likes - 65 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-129 songs - 13 hr 33 min
+131 songs - 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,8 @@
 | [Nguwe Wedwa](https://open.spotify.com/track/403Vm1j1wKEGNW6JEIPfj4) | [De Noko](https://open.spotify.com/artist/1pu7Qe97ITuDcrYKkzym70) | [Nguwe Wedwa](https://open.spotify.com/album/6pyQCAOLq8kTpjn1ZZgjV4) | 4:40 | 2023-03-16 | 2023-04-21 |
 | [Nkanyezi](https://open.spotify.com/track/16qkCa4zVqLCEYSMWcQHG5) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [DJ LESOUL](https://open.spotify.com/artist/5C6dZk6xmSCgrYWjje5zPm), [Simmy](https://open.spotify.com/artist/3MjlXVCfmLdY9QQ2GCd7iA) | [My Story](https://open.spotify.com/album/4VK04E5cKOGEQHnpE6ysge) | 5:04 | 2022-08-11 | 2023-03-18 |
 | [Ntinga Ntaka](https://open.spotify.com/track/78ELbuKid579q8ip7sv7Vk) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [THALITHA](https://open.spotify.com/artist/2sl2F1s3TCR4FoFp5KOqLg), [OBIE](https://open.spotify.com/artist/3n87awdctItEZJ7fWjlQtC) | [Ntinga Ntaka](https://open.spotify.com/album/6sOndSTzqdFQtNm4MBEKLa) | 5:41 | 2022-08-18 |  |
+| [Nwenwela](https://open.spotify.com/track/1YyCmk4ix2BwZRJg4osM2x) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/4KZH6u22G4cvO1SPHLKbmy) | 3:36 | 2024-01-11 | 2024-01-13 |
+| [Nwenwela](https://open.spotify.com/track/2drbYRYGC55fHOuMu12420) | [Choujaa](https://open.spotify.com/artist/0QWgPFVQStHSDmN0Jq67qY), [IRENEE S](https://open.spotify.com/artist/1doNmBGMoB2AvFsp7DHQyp), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Nwenwela](https://open.spotify.com/album/2n1pmgUzfsq8KAihRhLuKi) | 3:36 | 2024-01-11 |  |
 | [One Man](https://open.spotify.com/track/6h5lnTQja76tPQOnveu6dX) | [Fabio Aurea](https://open.spotify.com/artist/19yeJrAma98qEbDOmye8SQ), [Paso Doble](https://open.spotify.com/artist/3UcGeZb5ji86oAC34FtYtp) | [One Man](https://open.spotify.com/album/3wjmJ6YkEwyTeTEUjKPRwX) | 7:22 | 2023-01-19 | 2023-03-18 |
 | [Owam](https://open.spotify.com/track/0IVJgvxbcpwebKoQUwEpRN) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr), [40D](https://open.spotify.com/artist/7uvCVtgyDcHAN5H0W1uF9x), [Tsimo](https://open.spotify.com/artist/1We2xONK8C00JZbSBllfsE) | [Owam](https://open.spotify.com/album/3gDdaYeQkUfUK0SeY05WyZ) | 6:07 | 2023-01-19 | 2023-04-21 |
 | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/track/1H9TYvAoW9ntBwyP8d0Rna) | [Buddynice](https://open.spotify.com/artist/2xjvb56AjGc8c8WwkPfJgp), [Lorraine Ditsebe](https://open.spotify.com/artist/7HXnk61pLAf6l4pEr5Sp3w) | [Own Your Crown \(feat\. Lorraine Ditsebe\)](https://open.spotify.com/album/2yfnsIziWvYQ7YDOTrbHFT) | 4:37 | 2022-09-15 | 2022-12-03 |

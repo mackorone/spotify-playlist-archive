@@ -1,6 +1,6 @@
 {
   "description": "El junte entre las estrellas del dance global y del urbano latino. Foto: Ghetto Kids, Major Lazer, Guaynaa, Tavo Rayo",
-  "num_followers": 7510,
+  "num_followers": 7511,
   "original_name": "Global Dance Crossover",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Anthony Watts",
+          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
+        },
+        {
+          "name": "DJ White Shadow",
+          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -327,30 +351,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/2PLkTYhmHH6Ew40EDLivS9"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        },
-        {
-          "name": "Anthony Watts",
-          "url": "https://open.spotify.com/artist/52S7chJRLMM0ueWjN6hhn1"
-        },
-        {
-          "name": "DJ White Shadow",
-          "url": "https://open.spotify.com/artist/2yP2heDvGPROpYtPMKsOh1"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/2hZTeA6c94dBoiuGcBv3R0"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -397,6 +397,34 @@
       "url": "https://open.spotify.com/track/22YVt0f3WR4XaK6l1TEgOr"
     },
     {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Free The Universe (Extended Version)",
+        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        },
+        {
+          "name": "The Flexican",
+          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
+        },
+        {
+          "name": "FS Green",
+          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "Watch Out For This (Bumaye)",
+      "url": "https://open.spotify.com/track/1lhpyjqKywDlNjw4nii2ZO"
+    },
+    {
       "added_at": "2022-01-21 04:37:53",
       "album": {
         "name": "Un Ratito",
@@ -431,30 +459,22 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Free The Universe (Extended Version)",
-        "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
+        "name": "Selfish Love (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
       },
       "artists": [
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
         },
         {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        },
-        {
-          "name": "The Flexican",
-          "url": "https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN"
-        },
-        {
-          "name": "FS Green",
-          "url": "https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Watch Out For This (Bumaye)",
-      "url": "https://open.spotify.com/track/1lhpyjqKywDlNjw4nii2ZO"
+      "duration_ms": 168648,
+      "name": "Selfish Love (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -535,26 +555,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Selfish Love (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/0WvtxtkwXaFDLrmOl9mXDQ"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Selfish Love (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Dancing On Dangerous",
         "url": "https://open.spotify.com/album/3jkuK2ShKMXEjgI2B7aw1o"
       },
@@ -623,6 +623,54 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Neon Future IV",
+        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 168158,
+      "name": "Maldad",
+      "url": "https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Sad Song (feat. TINI)",
         "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
       },
@@ -671,26 +719,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Neon Future IV",
-        "url": "https://open.spotify.com/album/7IzDIMRk24CJxqUADOSbZ4"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 168158,
-      "name": "Maldad",
-      "url": "https://open.spotify.com/track/33R8NSJ3eRCwWsnKDxxTrl"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Si Me Dices Que S\u00ed (feat. Camilo) [R3HAB Remix]",
         "url": "https://open.spotify.com/album/6i2maKWlX3CxMAeXotdTPu"
       },
@@ -719,34 +747,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-        "url": "https://open.spotify.com/album/0nfzbzXtyqNclDemdScFnT"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 225600,
-      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
-      "url": "https://open.spotify.com/track/7K5tOFxje8nlunmexOmWgo"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/6VDoSX37HjE1QnFP18Ooe3"
       },
@@ -763,6 +763,30 @@
       "duration_ms": 176000,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/5qEDMy4lkVZ93et8y1VP99"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Major Lazer Essentials",
+        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 167310,
+      "name": "Sua Cara",
+      "url": "https://open.spotify.com/track/5D2m0GT5EDngcqD7YdkF7w"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -815,30 +839,6 @@
       "duration_ms": 235603,
       "name": "Pa' La Cultura",
       "url": "https://open.spotify.com/track/3MR5Lnhd6uCIgLXSK7nmyX"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Major Lazer Essentials",
-        "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 167310,
-      "name": "Sua Cara",
-      "url": "https://open.spotify.com/track/5D2m0GT5EDngcqD7YdkF7w"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -927,30 +927,6 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
-        "name": "Mi Gente (Cedric Gervais Remix)",
-        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 269666,
-      "name": "Mi Gente - Cedric Gervais Remix",
-      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
         "name": "Major Lazer Essentials",
         "url": "https://open.spotify.com/album/2TVyGtVP8przbQk6f2oSXl"
       },
@@ -975,6 +951,30 @@
     {
       "added_at": "2021-12-31 04:31:13",
       "album": {
+        "name": "Mi Gente (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/0DWEKLIz2eHd8R9N3mhZaI"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Mi Gente - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/71uiOC9BjtKy1bKAqdUrxx"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
         "name": "Algo M\u00e1gico (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R"
       },
@@ -991,6 +991,30 @@
       "duration_ms": 167884,
       "name": "Algo M\u00e1gico - R3HAB Remix",
       "url": "https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Roses (Imanbek Remix / Latino Gang Version)",
+        "url": "https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 208449,
+      "name": "Roses - Imanbek Remix / Latino Gang Version",
+      "url": "https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1027,54 +1051,6 @@
       "duration_ms": 208909,
       "name": "Bum Bum Tam Tam - Jax Jones Remix",
       "url": "https://open.spotify.com/track/5NOuNThafeyeuqjD4q6fzt"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Roses (Imanbek Remix / Latino Gang Version)",
-        "url": "https://open.spotify.com/album/3fzRzT5lbkYMUTZcC964qT"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 208449,
-      "name": "Roses - Imanbek Remix / Latino Gang Version",
-      "url": "https://open.spotify.com/track/0IiO3BMMnQC14SGKfB3pZQ"
-    },
-    {
-      "added_at": "2021-12-31 04:31:13",
-      "album": {
-        "name": "Mi Gente (Alesso Remix)",
-        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        },
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Mi Gente - Alesso Remix",
-      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
     },
     {
       "added_at": "2021-12-31 04:31:13",
@@ -1155,6 +1131,30 @@
       "duration_ms": 283187,
       "name": "No Te Enamores - Alan Walker Remix",
       "url": "https://open.spotify.com/track/2tfvxvWE1EwdHR6rAUTzGa"
+    },
+    {
+      "added_at": "2021-12-31 04:31:13",
+      "album": {
+        "name": "Pues (with Luis Fonsi & Sean Paul)",
+        "url": "https://open.spotify.com/album/03HdtkcGhFu7BdOGdFV3Hf"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 127333,
+      "name": "Pues (with Luis Fonsi & Sean Paul)",
+      "url": "https://open.spotify.com/track/0H4olUjRf0vXXuQkpKnJmr"
     }
   ],
   "unique_name": "Global Dance Crossover",

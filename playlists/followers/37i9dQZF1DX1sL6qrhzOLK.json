@@ -1,182 +1,767 @@
 {
-  "2023-07-06": 597,
-  "2023-07-07": 597,
-  "2023-07-08": 1034,
-  "2023-07-09": 1321,
-  "2023-07-10": 1364,
-  "2023-07-11": 1393,
-  "2023-07-12": 1404,
-  "2023-07-13": 1418,
-  "2023-07-14": 1427,
-  "2023-07-15": 1426,
-  "2023-07-16": 1432,
-  "2023-07-17": 1442,
-  "2023-07-18": 1453,
-  "2023-07-19": 1480,
-  "2023-07-20": 1480,
-  "2023-07-21": 1486,
-  "2023-07-22": 1490,
-  "2023-07-23": 1502,
-  "2023-07-24": 1505,
-  "2023-07-25": 1509,
-  "2023-07-26": 1516,
-  "2023-07-27": 1520,
-  "2023-07-28": 1528,
-  "2023-07-29": 1534,
-  "2023-07-30": 1535,
-  "2023-07-31": 1543,
-  "2023-08-01": 1548,
-  "2023-08-02": 1557,
-  "2023-08-03": 1562,
-  "2023-08-04": 1564,
-  "2023-08-05": 1572,
-  "2023-08-06": 1575,
-  "2023-08-07": 1575,
-  "2023-08-08": 1587,
-  "2023-08-09": 1595,
-  "2023-08-10": 1598,
-  "2023-08-11": 1600,
-  "2023-08-12": 1609,
-  "2023-08-13": 1615,
-  "2023-08-14": 1621,
-  "2023-08-15": 1631,
-  "2023-08-16": 1631,
-  "2023-08-17": 1638,
-  "2023-08-18": 1643,
-  "2023-08-19": 1651,
-  "2023-08-20": 1655,
-  "2023-08-21": 1658,
-  "2023-08-22": 1664,
-  "2023-08-23": 1672,
-  "2023-08-24": 1680,
-  "2023-08-25": 1687,
-  "2023-08-26": 1692,
-  "2023-08-27": 1696,
-  "2023-08-28": 1700,
-  "2023-08-29": 1713,
-  "2023-08-30": 1725,
-  "2023-08-31": 1732,
-  "2023-09-01": 1743,
-  "2023-09-02": 1743,
-  "2023-09-03": 1744,
-  "2023-09-04": 1746,
-  "2023-09-05": 1745,
-  "2023-09-06": 1749,
-  "2023-09-07": 1751,
-  "2023-09-08": 1761,
-  "2023-09-09": 1763,
-  "2023-09-10": 1767,
-  "2023-09-11": 1771,
-  "2023-09-12": 1776,
-  "2023-09-13": 1778,
-  "2023-09-14": 1782,
-  "2023-09-15": 1787,
-  "2023-09-16": 1792,
-  "2023-09-17": 1796,
-  "2023-09-18": 1798,
-  "2023-09-19": 1802,
-  "2023-09-20": 1803,
-  "2023-09-21": 1808,
-  "2023-09-22": 1808,
-  "2023-09-23": 1810,
-  "2023-09-24": 1811,
-  "2023-09-25": 1816,
-  "2023-09-26": 1818,
-  "2023-09-27": 1822,
-  "2023-09-28": 1822,
-  "2023-09-29": 1827,
-  "2023-09-30": 1828,
-  "2023-10-01": 1833,
-  "2023-10-02": 1836,
-  "2023-10-03": 1843,
-  "2023-10-04": 1845,
-  "2023-10-05": 1848,
-  "2023-10-06": 1849,
-  "2023-10-07": 1852,
-  "2023-10-08": 1853,
-  "2023-10-09": 1854,
-  "2023-10-10": 1858,
-  "2023-10-11": 1861,
-  "2023-10-12": 1861,
-  "2023-10-13": 1861,
-  "2023-10-14": 1865,
-  "2023-10-15": 1867,
-  "2023-10-16": 1870,
-  "2023-10-17": 1874,
-  "2023-10-18": 1876,
-  "2023-10-19": 1874,
-  "2023-10-20": 1871,
-  "2023-10-21": 1873,
-  "2023-10-22": 1872,
-  "2023-10-23": 1874,
-  "2023-10-24": 1876,
-  "2023-10-25": 1878,
-  "2023-10-26": 1882,
-  "2023-10-27": 1883,
-  "2023-10-28": 1884,
-  "2023-10-29": 1887,
-  "2023-10-30": 1897,
-  "2023-10-31": 1897,
-  "2023-11-01": 1902,
-  "2023-11-02": 1901,
-  "2023-11-03": 1901,
-  "2023-11-04": 1901,
-  "2023-11-05": 1900,
-  "2023-11-06": 1906,
-  "2023-11-07": 1910,
-  "2023-11-08": 1911,
-  "2023-11-09": 1911,
-  "2023-11-10": 1915,
-  "2023-11-11": 1917,
-  "2023-11-12": 1918,
-  "2023-11-13": 1920,
-  "2023-11-14": 1925,
-  "2023-11-15": 1925,
-  "2023-11-16": 1931,
-  "2023-11-17": 1932,
-  "2023-11-18": 1932,
-  "2023-11-19": 1932,
-  "2023-11-20": 1933,
-  "2023-11-21": 1936,
-  "2023-11-22": 1938,
-  "2023-11-23": 1941,
-  "2023-11-24": 1943,
-  "2023-11-25": 1944,
-  "2023-11-26": 1947,
-  "2023-11-27": 1951,
-  "2023-11-28": 1952,
-  "2023-11-29": 1959,
-  "2023-11-30": 1959,
-  "2023-12-01": 1960,
-  "2023-12-02": 1959,
-  "2023-12-03": 1963,
-  "2023-12-04": 1965,
-  "2023-12-05": 1967,
-  "2023-12-06": 1967,
-  "2023-12-07": 1968,
-  "2023-12-08": 1969,
-  "2023-12-09": 1971,
-  "2023-12-10": 1978,
-  "2023-12-11": 1977,
-  "2023-12-12": 1978,
-  "2023-12-13": 1983,
-  "2023-12-14": 1989,
-  "2023-12-15": 1993,
-  "2023-12-16": 1997,
-  "2023-12-17": 2001,
-  "2023-12-18": 2008,
-  "2023-12-19": 2009,
-  "2023-12-20": 2014,
-  "2023-12-21": 2016,
-  "2023-12-22": 2013,
-  "2023-12-23": 2015,
-  "2023-12-24": 2020,
-  "2023-12-25": 2025,
-  "2023-12-26": 2028,
-  "2023-12-27": 2033,
-  "2023-12-30": 2036,
-  "2023-12-31": 2040,
-  "2024-01-01": 2045,
-  "2024-01-02": 2048,
-  "2024-01-03": 2050
+  "2024-01-17": 2107,
+  "date_first_scraped": "2023-07-06",
+  "description": "\uac00\uc7a5 \ud2b8\ub80c\ub514\ud55c \uc608\uc220 \uacbd\ud5d8 Sync Next 23\uc758 \ucc38\uc5ec \uc544\ud2f0\uc2a4\ud2b8\uac00 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Enjoy the songs selected by participating artists of Sync Next 23, the trendiest art experience!)",
+  "name": "Sync Next 23",
+  "tracks": [
+    {
+      "album": {
+        "name": "SUGUNGGA",
+        "url": "https://open.spotify.com/album/6MYao96QUzW6tn5JvN5EZi"
+      },
+      "artists": [
+        {
+          "name": "LEENALCHI",
+          "url": "https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 188347,
+      "name": "A Fish Map",
+      "url": "https://open.spotify.com/track/6dKE0UMUT9qRYjbQZLTdAh"
+    },
+    {
+      "album": {
+        "name": "SUGUNGGA",
+        "url": "https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW"
+      },
+      "artists": [
+        {
+          "name": "LEENALCHI",
+          "url": "https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188934,
+      "name": "A Fish Map",
+      "url": "https://open.spotify.com/track/5yMr8TkBo7mMFAtbB1LPTz"
+    },
+    {
+      "album": {
+        "name": "Sharp Objects (Music from the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/5PR10VRZ9EFNP6vHeBN6rK"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 287210,
+      "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/4BFB5iUZSnsHJL69VEU9rf"
+    },
+    {
+      "album": {
+        "name": "Sharp Objects (Music from the HBO Limited Series)",
+        "url": "https://open.spotify.com/album/2UXDdNs3CSozXPUFnqx4PS"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287210,
+      "name": "Concerto in D Minor (After Alessandro Marcello), BWV 974: II. Adagio",
+      "url": "https://open.spotify.com/track/4FiHyAEbe8UH8Oy4rFewkQ"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15931,
+      "name": "Curated by 250",
+      "url": "https://open.spotify.com/track/5TZ1mbFUnICHppztgXA8E0"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24227,
+      "name": "Curated by Do Body By Body",
+      "url": "https://open.spotify.com/track/6OkBqZbSvm8BkcZYL3L4m6"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23146,
+      "name": "Curated by Elephants Laugh",
+      "url": "https://open.spotify.com/track/0DGs0QEG0WMcRVOwLyMyla"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24277,
+      "name": "Curated by GRIMENTO",
+      "url": "https://open.spotify.com/track/62FpF7qxquBG7TeWRlNKsQ"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34090,
+      "name": "Curated by HWANG Min Wang(Gwang Gwang, Goeng Goeng)",
+      "url": "https://open.spotify.com/track/4ZAKnmQb0o0YI41cLE25pu"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36223,
+      "name": "Curated by LEE Ilwoo(Gwang Gwang, Goeng Goeng)",
+      "url": "https://open.spotify.com/track/2M0a5P89ATi18LBbCZedmU"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22336,
+      "name": "Curated by LEENALCHI",
+      "url": "https://open.spotify.com/track/3neXVezrF2dZRX7rPcRvMT"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20010,
+      "name": "Curated by MONIKA x CIFIKA",
+      "url": "https://open.spotify.com/track/3vFSsY0MsqRFe2UN4U3MYj"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16170,
+      "name": "Curated by Nerd Connection x Z1",
+      "url": "https://open.spotify.com/track/3qDzNky3TH9Qlvv9nqFJ2N"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 14805,
+      "name": "Curated by Samuel Seo x ghootree",
+      "url": "https://open.spotify.com/track/3FwOxzMEAN0Kbbh8cnmoXt"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 21321,
+      "name": "Curated by SUNG Si Young(Gwang Gwang, Goeng Goeng)",
+      "url": "https://open.spotify.com/track/3eVSm8aCQczmwPcWK9dtmZ"
+    },
+    {
+      "album": {
+        "name": "Sync Next 23 audio liners",
+        "url": "https://open.spotify.com/album/1gikHrQG6Ea2kMNGJNhHSc"
+      },
+      "artists": [
+        {
+          "name": "Sync Next 23",
+          "url": "https://open.spotify.com/artist/27b0t1LcXVxP4Vpawd8m9E"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45673,
+      "name": "Curated by The Muddha",
+      "url": "https://open.spotify.com/track/0p7b55WF56k8YTMMpQyDGg"
+    },
+    {
+      "album": {
+        "name": "D I A L",
+        "url": "https://open.spotify.com/album/0wNrxOQ4vOP4YOpXZFfRnc"
+      },
+      "artists": [
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        },
+        {
+          "name": "Taehun Lee",
+          "url": "https://open.spotify.com/artist/5ZqtIEgzlhPKdO8iRVHXVO"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196585,
+      "name": "DAMN THINGS (feat. Taehun Lee)",
+      "url": "https://open.spotify.com/track/1zLMssXsZqzfXnWbYdQxGy"
+    },
+    {
+      "album": {
+        "name": "Dying tree",
+        "url": "https://open.spotify.com/album/7lRw7wayPP8VjYGcLdnEhL"
+      },
+      "artists": [
+        {
+          "name": "Kim Jae duk",
+          "url": "https://open.spotify.com/artist/2g0UGTCVEn8R0xSLPlg6FS"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Dying tree",
+      "url": "https://open.spotify.com/track/6L8KXLIj6lH3KuEuk0SW6j"
+    },
+    {
+      "album": {
+        "name": "Moods",
+        "url": "https://open.spotify.com/album/3Ibz2JPuDpcpl6qUkf2agv"
+      },
+      "artists": [
+        {
+          "name": "Aad Aalberts",
+          "url": "https://open.spotify.com/artist/1ARw44fBifEIjNpCfZ62RR"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429515,
+      "name": "Focus",
+      "url": "https://open.spotify.com/track/7r9M2GybYSWqLaFI3TjS5i"
+    },
+    {
+      "album": {
+        "name": "ION",
+        "url": "https://open.spotify.com/album/0MFykXNF16vdKA92yO4eiI"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245503,
+      "name": "Giant Lion",
+      "url": "https://open.spotify.com/track/12dRR2NrTclT2KJeAwuFR3"
+    },
+    {
+      "album": {
+        "name": "Good Night Good Dream",
+        "url": "https://open.spotify.com/album/4lFbDrujNnh4oFGBHIGYiv"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265983,
+      "name": "Good Night Good Dream",
+      "url": "https://open.spotify.com/track/423WHvB4mKprM6hELzpH3F"
+    },
+    {
+      "album": {
+        "name": "Partial Eclipse",
+        "url": "https://open.spotify.com/album/6cjvwi9UEz7sGfTjYSA9MN"
+      },
+      "artists": [
+        {
+          "name": "49 Morphines",
+          "url": "https://open.spotify.com/artist/3GAp8PrsfvuY7QnAzHWcyW"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527666,
+      "name": "Heart of Despair",
+      "url": "https://open.spotify.com/track/7was9DGKU6THHCRIA5pEbZ"
+    },
+    {
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/5cYLKcquLbRmq2373tQJ8B"
+      },
+      "artists": [
+        {
+          "name": "CIFIKA",
+          "url": "https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Hexagon",
+      "url": "https://open.spotify.com/track/5lLWytmmISFbNfd2PJ0Q4j"
+    },
+    {
+      "album": {
+        "name": "I Robbed a Bank",
+        "url": "https://open.spotify.com/album/0Ml07bUAnZZ4T3utkN0lpl"
+      },
+      "artists": [
+        {
+          "name": "Nerd Connection",
+          "url": "https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170499,
+      "name": "I Robbed a Bank",
+      "url": "https://open.spotify.com/track/3eBQCl5y6oGPnAJ1yTGeMW"
+    },
+    {
+      "album": {
+        "name": "Light, Many",
+        "url": "https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv"
+      },
+      "artists": [
+        {
+          "name": "Bek Hyunjin",
+          "url": "https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280789,
+      "name": "Late Summer",
+      "url": "https://open.spotify.com/track/0ienAKret1Pd5rqqQUJS6j"
+    },
+    {
+      "album": {
+        "name": "Light, Many",
+        "url": "https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls"
+      },
+      "artists": [
+        {
+          "name": "Bek Hyunjin",
+          "url": "https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 280789,
+      "name": "Late Summer",
+      "url": "https://open.spotify.com/track/6kYNbyWTyVlrqzpjEekqYx"
+    },
+    {
+      "album": {
+        "name": "The Nothings of The North",
+        "url": "https://open.spotify.com/album/3Idut3J1biBvpPCoT6eSVj"
+      },
+      "artists": [
+        {
+          "name": "Ametsub",
+          "url": "https://open.spotify.com/artist/1lqeOtFoEHyRGR9QoRJpEz"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341213,
+      "name": "Lichen With Piano",
+      "url": "https://open.spotify.com/track/0IQ0ugQ4qAO9aA33CBXwxu"
+    },
+    {
+      "album": {
+        "name": "Light, Many",
+        "url": "https://open.spotify.com/album/7BbHkyxJ0mVINcwhI3pnqv"
+      },
+      "artists": [
+        {
+          "name": "Bek Hyunjin",
+          "url": "https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332250,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3vmhYKR2p23IoEfVrQg0iL"
+    },
+    {
+      "album": {
+        "name": "Light, Many",
+        "url": "https://open.spotify.com/album/0AEr98hdrOq3Sb7BZORmls"
+      },
+      "artists": [
+        {
+          "name": "Bek Hyunjin",
+          "url": "https://open.spotify.com/artist/57xLdReOSuCdlxeNNnS2Nb"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-16",
+      "duration_ms": 332250,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/44KK2VZbjIoQFxiKLiE4gx"
+    },
+    {
+      "album": {
+        "name": "Lilies of the Valley",
+        "url": "https://open.spotify.com/album/7rofHEWzcDWkFoS4fZg4Ot"
+      },
+      "artists": [
+        {
+          "name": "Jun Miyake",
+          "url": "https://open.spotify.com/artist/3a7hEDDgro56kvwVOfQ6nc"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329826,
+      "name": "Lilies of the Valley",
+      "url": "https://open.spotify.com/track/5aTWayNDQOKjvOhq3rSwoS"
+    },
+    {
+      "album": {
+        "name": "Moment:",
+        "url": "https://open.spotify.com/album/0U5XVpMvNcRCLG3UFJePgI"
+      },
+      "artists": [
+        {
+          "name": "\ub178\uc544\uc724",
+          "url": "https://open.spotify.com/artist/0NNBggjhk6qjKo4N3GTYvk"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284910,
+      "name": "Moment:",
+      "url": "https://open.spotify.com/track/2jJgwdRGb0JnSTG8sn5GCb"
+    },
+    {
+      "album": {
+        "name": "Isang Yun: Muak - Pi\u00e8ce concertante",
+        "url": "https://open.spotify.com/album/4lrf4TsLFqljEzJBQBOHju"
+      },
+      "artists": [
+        {
+          "name": "Isang Yun",
+          "url": "https://open.spotify.com/artist/1Llzez777plMW31dzEyaxz"
+        },
+        {
+          "name": "Rundfunk-Sinfonieorchester Saarbr\u00fccken",
+          "url": "https://open.spotify.com/artist/5rS7KZ3kWgJENsXr19lAVz"
+        },
+        {
+          "name": "Hans Zender",
+          "url": "https://open.spotify.com/artist/33AGvI9rf3CpKfFS6Rt8Er"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1101666,
+      "name": "Muak, T\u00e4nzerische Fantasie f\u00fcr grosses Orchester - 1978",
+      "url": "https://open.spotify.com/track/02pii2e9kfAsYRtuuHy3X9"
+    },
+    {
+      "album": {
+        "name": "UNITY II",
+        "url": "https://open.spotify.com/album/2vHhBALBCTEvfsLnXc6OIf"
+      },
+      "artists": [
+        {
+          "name": "Samuel Seo",
+          "url": "https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234720,
+      "name": "Pale Blue",
+      "url": "https://open.spotify.com/track/22JdVTVqriuQvmYZcCffDt"
+    },
+    {
+      "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/4zSVdjoEqSm18A6nkdLDyH"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/7hZnAqzJGdz58gS4XxRowB"
+    },
+    {
+      "album": {
+        "name": "Wagner: Orchestral Favourites",
+        "url": "https://open.spotify.com/album/4clpzOVyYckfHXEuFZ8gXu"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 853826,
+      "name": "Tannh\u00e4user: Overture",
+      "url": "https://open.spotify.com/track/1U1i1HBJ5H8DY5J4fO8ySg"
+    },
+    {
+      "album": {
+        "name": "Tayo's Sing Along Show 1 (Korean Version)",
+        "url": "https://open.spotify.com/album/6HX2fE9yheC34o4JpYmn1B"
+      },
+      "artists": [
+        {
+          "name": "Tayo the Little Bus",
+          "url": "https://open.spotify.com/artist/3gzyfNen0cMn6dybhnmwpd"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150356,
+      "name": "The Strong Heavy Vehicles - Korean Version",
+      "url": "https://open.spotify.com/track/0p8Qv06h32F2PT45OMGyKX"
+    },
+    {
+      "album": {
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/1QrWbdIbZAigQwNOqBtIjC"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/2YNrv84MQ5SA4jZ8k3Us9d"
+    },
+    {
+      "album": {
+        "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+        "url": "https://open.spotify.com/album/21NMEtVxkqbaEpLMYWMIT2"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 217500,
+      "name": "\ub291\ub300\uac00 \ub098\ud0c0\ub0ac\ub2e4 There is A Wolf",
+      "url": "https://open.spotify.com/track/3KdI1tVygKtnAOCUOZudXD"
+    },
+    {
+      "album": {
+        "name": "The Living Korean Classical Music Collection 1",
+        "url": "https://open.spotify.com/album/4KJXhgAUB8nAuSg6znrfU5"
+      },
+      "artists": [
+        {
+          "name": "National Gugak Center",
+          "url": "https://open.spotify.com/artist/7t6X0UODxGNkjBmT22w1El"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331650,
+      "name": "\ub300\ucde8\ud0c0",
+      "url": "https://open.spotify.com/track/3wmAhONcZ7OgIPmWWQjtDj"
+    },
+    {
+      "album": {
+        "name": "\uc0b6\uacfc \uc7a0\uacfc \uc5b8\ub2c8\uc640 \ub098 PRIDE",
+        "url": "https://open.spotify.com/album/2rqKcP5HHJtneNxcvXGLNi"
+      },
+      "artists": [
+        {
+          "name": "Lang Lee",
+          "url": "https://open.spotify.com/artist/1D96VVpW4US2VSZaZGsRmH"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236032,
+      "name": "\uc0b6\uacfc \uc7a0\uacfc \uc5b8\ub2c8\uc640 \ub098 PRIDE",
+      "url": "https://open.spotify.com/track/7j4sdJ48LRUNMGl7pJSSTw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1sL6qrhzOLK"
 }

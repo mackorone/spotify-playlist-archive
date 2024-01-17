@@ -508,7 +508,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 227293,
       "name": "Let There Be Light Again",
       "url": "https://open.spotify.com/track/4Anip7bDkwKk4HacAIwvEl"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 217186,
       "name": "My Plan - Lofi Remix",
       "url": "https://open.spotify.com/track/3By0mwdcJC2m9Vq0W3LwC2"
@@ -963,6 +963,28 @@
     },
     {
       "album": {
+        "name": "Suzume (Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Ar5HxNWXtvraqs7FI7bYq"
+      },
+      "artists": [
+        {
+          "name": "RADWIMPS",
+          "url": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+        },
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Suzume",
+      "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+    },
+    {
+      "album": {
         "name": "Ghibli, Anime & Chill",
         "url": "https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK"
       },
@@ -1154,7 +1176,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 149200,
       "name": "\u30a4\u30b6\u30d9\u30e9\u306e\u5504",
       "url": "https://open.spotify.com/track/6qzTbAFDX82BxJIBbdKPH8"
@@ -1406,7 +1428,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-17",
+      "date_removed": null,
       "duration_ms": 227625,
       "name": "\u5c0f\u558b\u65e5\u548c",
       "url": "https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN"

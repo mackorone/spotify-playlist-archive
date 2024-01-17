@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6P51sFpSo2r.md) - [plain]
 
 > The perfect mix between old\-school and modern Metalcore\. Cover: Avenged Sevenfold
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,579 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,531 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

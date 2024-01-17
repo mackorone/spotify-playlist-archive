@@ -4,7 +4,7 @@
 
 > Get the perfect 8 hours in with gentle Ambient and piano.
 
-163 songs - 8 hr 0 min
+166 songs - 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Aquiver](https://open.spotify.com/track/3Dm8skAbA9W4ufmCESqlDg) | [Chév Asto](https://open.spotify.com/artist/13ZKAALykJ7sZ130Vh7Y2n) | [Isolate](https://open.spotify.com/album/2lkmlImaHA6RPzCfkSbmQz) | 3:50 | 2023-10-02 |  |
 | [Arcadia](https://open.spotify.com/track/57LIE4xGtrUqicdDiikdMp) | [Elsa Whage](https://open.spotify.com/artist/7E9YFx8NvGyjVR7WKZfaZo) | [Arcadia](https://open.spotify.com/album/6xil8dpE2Ky4SeNOvkpS33) | 2:56 | 2023-10-02 |  |
 | [Arid Dream](https://open.spotify.com/track/4QStzOnmEl00iAnWuhlqXM) | [Ceri Rocha](https://open.spotify.com/artist/5clH6r1ZxRb7fYJ3StNDxP) | [Arid Dream](https://open.spotify.com/album/0MOK1Wxkbd4MTD86Uwb2zF) | 2:51 | 2023-10-02 |  |
+| [Atmospherical Aura](https://open.spotify.com/track/5hYlPIXXwNPr4XavYPuiXr) | [Deltachromatique](https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP) | [Atmospherical Aura](https://open.spotify.com/album/2z3LxcaSWnGzElgfM7vH8X) | 3:20 | 2024-01-13 |  |
 | [Aureole](https://open.spotify.com/track/4T3JcVdMphiLK94BsbLr1s) | [Parker Woods](https://open.spotify.com/artist/1eNbVzydYSYdXyjnVSMypX) | [Aureole](https://open.spotify.com/album/4svAUDu4JDOidd18XZVfIL) | 2:35 | 2023-10-02 |  |
 | [Before The Full Moon](https://open.spotify.com/track/6f9yi7FErSjPN4hWCJURLq) | [Isah Atkins](https://open.spotify.com/artist/6Cus1UHddFX9FPj4CoBEK4) | [Before The Full Moon.](https://open.spotify.com/album/1oRxGgmdb4IrBsbKEbU0Qf) | 3:18 | 2023-10-02 |  |
 | [Bliss](https://open.spotify.com/track/6CyhyoyReIuVataudR0uv8) | [Theodore Brim](https://open.spotify.com/artist/1qzetpI2OtTttg58OsZI0o) | [Elegance](https://open.spotify.com/album/3Jnn48sROmjLQe0hKqIa2P) | 3:02 | 2023-10-02 |  |
@@ -120,7 +121,9 @@
 | [Promised](https://open.spotify.com/track/1fSln3JhzB7Asdi83JTvPa) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Promised](https://open.spotify.com/album/1kTofA1YT3X06ZU94dXJhN) | 2:33 | 2023-10-02 |  |
 | [Protect Your Mind](https://open.spotify.com/track/475L4j7qFaZE0jlcvrsScN) | [Treasures Meditation Flow](https://open.spotify.com/artist/601K9Ks46CQk3kNbZsaOlr) | [Endless Time](https://open.spotify.com/album/4dJ0UwGAVSUK22PK3W3qNg) | 3:14 | 2023-10-02 |  |
 | [Pulsar Calm](https://open.spotify.com/track/6P4yBCuihd8penjqwrWPqL) | [Leon Baker](https://open.spotify.com/artist/3JQJt6xbvE5sawRz3bgKB0) | [Ovnimoon](https://open.spotify.com/album/0NtzOmiqujYbHomKllzUVg) | 2:58 | 2023-10-02 |  |
+| [Rays of Warmth](https://open.spotify.com/track/66OUrai5ZjJgzwhKimF8F8) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Rays of Warmth](https://open.spotify.com/album/3F4YB50btI83J496J2zj3p) | 3:11 | 2024-01-13 |  |
 | [Relations](https://open.spotify.com/track/66uQkXu45zDJSxvbUR4jPk) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [Relations](https://open.spotify.com/album/6bXV4rq5bUsnjnFwi0Xm7c) | 3:04 | 2023-10-02 |  |
+| [Relaxed Mind](https://open.spotify.com/track/20A3nwNDQ7cEiqJdQqXHdi) | [Malviti](https://open.spotify.com/artist/7vJXWasyMwsr0wU5akcu2x) | [Relaxed Mind](https://open.spotify.com/album/4hstfomwyvw149vheXWQZ5) | 3:02 | 2024-01-13 |  |
 | [Relieve](https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc) | [Juliana Stipe](https://open.spotify.com/artist/6PXpkuuJT837QGtcdXSMo3) | [Relieve](https://open.spotify.com/album/3tVeSv36k61jehxXt3xuPn) | 3:13 | 2023-10-02 |  |
 | [Remedial](https://open.spotify.com/track/5bQQyxb1iyBtWQMauCWPj5) | [Clip Aloe](https://open.spotify.com/artist/6CxgcvEFmR83qRXJmgZj67) | [Remedial](https://open.spotify.com/album/2v3z3P2GckZOwEyNzt5YvG) | 2:15 | 2023-10-02 |  |
 | [Rum & Tid](https://open.spotify.com/track/2HDIkvzHBYohuX1HztM7Qk) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Rum & Tid](https://open.spotify.com/album/67amONuVjJ9NHjSqcTiZo8) | 2:47 | 2023-10-02 |  |

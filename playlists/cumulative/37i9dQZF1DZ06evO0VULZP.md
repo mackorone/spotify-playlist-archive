@@ -4,7 +4,7 @@
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-83 songs - 2 hr 53 min
+84 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [In Love This Way](https://open.spotify.com/track/1wvQFyYkXrEAqkR22UugcJ) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 2:32 | 2023-02-10 |  |
 | [In Love This Way](https://open.spotify.com/track/4LlmKr3eGaU3oxnvd84kY4) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 2:32 | 2022-09-16 | 2023-02-11 |
 | [It's A Hectic World](https://open.spotify.com/track/1wwJvz8aqieLQc8tZvYIX9) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:37 | 2022-09-16 | 2023-03-07 |
-| [Jean Is Dead](https://open.spotify.com/track/2kUxi7tRDgprqqJrGE3SDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 1:33 | 2023-12-29 |  |
+| [Jean Is Dead](https://open.spotify.com/track/2kUxi7tRDgprqqJrGE3SDR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 1:33 | 2023-12-29 | 2024-01-05 |
+| [Kabuki Girl](https://open.spotify.com/track/3lrQFKjwoDladcpdSauYCj) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 1:10 | 2024-01-04 | 2024-01-12 |
 | [Like the Way I Know](https://open.spotify.com/track/7sAvo8h2WuM87WeVrQxMLA) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 | 2023-03-06 |  |
 | [Lullaby](https://open.spotify.com/track/2E9ttxZB1OpSmdkasZpYND) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 1:01 | 2022-09-16 |  |
 | [M\-16](https://open.spotify.com/track/2fZPDNhVXaK6o5bas9LkxV) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq) | 0:43 | 2023-08-22 |  |
@@ -79,7 +80,7 @@
 | [Sour Grapes](https://open.spotify.com/track/2aiuhCouDKhPW8Oj6JYbq6) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:49 | 2022-12-28 | 2023-07-17 |
 | [Sour Grapes](https://open.spotify.com/track/1zX9ziH6fCwdtH3exHEIq8) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 3:51 | 2022-09-16 | 2022-12-25 |
 | [Spineless and Scarlet Red](https://open.spotify.com/track/7wumsq89VLbMlbrrqHyWsT) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 3:15 | 2022-09-16 | 2023-08-03 |
-| [Suburban Home](https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:40 | 2022-09-16 | 2023-12-14 |
+| [Suburban Home](https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:40 | 2022-09-16 |  |
 | [Talking](https://open.spotify.com/track/5MbtRgGNhwK2KdJFt39a8L) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Cool to Be You](https://open.spotify.com/album/52RKlgHaL9hv8VjlVa3YkB) | 2:27 | 2022-09-16 |  |
 | [Testosterone](https://open.spotify.com/track/6jnunhDko6kFi4sVWFaR85) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Hypercaffium Spazzinate \(Deluxe Edition\)](https://open.spotify.com/album/2hGGxQXnZpKXPmQJUgLGXS) | 1:22 | 2022-09-18 | 2022-10-06 |
 | [That's The Breaks](https://open.spotify.com/track/6ITRdfrMgETFrRGlMj4KTs) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [That's The Breaks](https://open.spotify.com/album/7jBnEaexaIWaZvD7Bft29z) | 0:42 | 2022-09-16 | 2023-02-01 |

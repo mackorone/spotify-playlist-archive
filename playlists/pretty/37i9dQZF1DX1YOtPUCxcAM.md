@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YOtPUCxcAM.md) - [plain]
 
 > The best and finest 90s Funk\. Cover: The Brand New Heavies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,699 likes - 102 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,277 likes - 102 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

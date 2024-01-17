@@ -1,6 +1,6 @@
 {
   "description": "Pouring Indie tunes for all you bathroom singers.",
-  "num_followers": 127908,
+  "num_followers": 128186,
   "original_name": "Indie Shower Tunes",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Ved",
-        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        }
-      ],
-      "duration_ms": 180413,
-      "name": "Udd Gaye",
-      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
         "name": "Kasoor",
         "url": "https://open.spotify.com/album/7rHLltVNJFnZyNIas91XbT"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 197549,
       "name": "Kasoor",
       "url": "https://open.spotify.com/track/08kTa3SL9sV6Iy8KLKtGql"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
+        "name": "Mera Safar",
+        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        }
+      ],
+      "duration_ms": 190549,
+      "name": "Mera Safar",
+      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -203,18 +203,18 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Mera Safar",
-        "url": "https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q"
+        "name": "Ved",
+        "url": "https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ"
       },
       "artists": [
         {
-          "name": "Iqlipse Nova",
-          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
         }
       ],
-      "duration_ms": 190549,
-      "name": "Mera Safar",
-      "url": "https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ"
+      "duration_ms": 180413,
+      "name": "Udd Gaye",
+      "url": "https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -375,26 +375,18 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Dilbar",
-        "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
+        "name": "Songs of Love",
+        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
       },
       "artists": [
         {
-          "name": "Tech Panda",
-          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
-        },
-        {
-          "name": "Kenzani",
-          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
-        },
-        {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         }
       ],
-      "duration_ms": 168545,
-      "name": "Dilbar",
-      "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
+      "duration_ms": 243333,
+      "name": "Madhubala",
+      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -415,18 +407,26 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Songs of Love",
-        "url": "https://open.spotify.com/album/0jpXgPEyyujKElDwbCWL7o"
+        "name": "Dilbar",
+        "url": "https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD"
       },
       "artists": [
         {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+          "name": "Tech Panda",
+          "url": "https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X"
+        },
+        {
+          "name": "Kenzani",
+          "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
         }
       ],
-      "duration_ms": 243333,
-      "name": "Madhubala",
-      "url": "https://open.spotify.com/track/3hcwpXiJtR7kwDrWllcH0v"
+      "duration_ms": 168545,
+      "name": "Dilbar",
+      "url": "https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -475,22 +475,18 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Baaraat",
-        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
+        "name": "Shaan",
+        "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
       },
       "artists": [
         {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+          "name": "Salman Elahi",
+          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
         }
       ],
-      "duration_ms": 222096,
-      "name": "Baaraat",
-      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
+      "duration_ms": 225391,
+      "name": "Pahadon Mein",
+      "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -511,34 +507,22 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Shaan",
-        "url": "https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W"
+        "name": "Baaraat",
+        "url": "https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn"
       },
       "artists": [
         {
-          "name": "Salman Elahi",
-          "url": "https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT"
-        }
-      ],
-      "duration_ms": 225391,
-      "name": "Pahadon Mein",
-      "url": "https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
-        "name": "Boondein",
-        "url": "https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk"
-      },
-      "artists": [
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
         {
-          "name": "Silk Route",
-          "url": "https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm"
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
         }
       ],
-      "duration_ms": 303020,
-      "name": "Dooba Dooba",
-      "url": "https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz"
+      "duration_ms": 222096,
+      "name": "Baaraat",
+      "url": "https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -555,6 +539,22 @@
       "duration_ms": 211462,
       "name": "Tere Jaane Se",
       "url": "https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
+        "name": "Boondein",
+        "url": "https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk"
+      },
+      "artists": [
+        {
+          "name": "Silk Route",
+          "url": "https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm"
+        }
+      ],
+      "duration_ms": 303020,
+      "name": "Dooba Dooba",
+      "url": "https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -619,22 +619,18 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Piya Basanti",
-        "url": "https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2"
+        "name": "Vaaqif",
+        "url": "https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn"
       },
       "artists": [
         {
-          "name": "Sultan Khan",
-          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+          "name": "The Local Train",
+          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
         }
       ],
-      "duration_ms": 276520,
-      "name": "Piya Basanti",
-      "url": "https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP"
+      "duration_ms": 297642,
+      "name": "Khudi",
+      "url": "https://open.spotify.com/track/46HUXpfLQmX8t0QcDr4w7W"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -655,6 +651,42 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
+        "name": "Piya Basanti",
+        "url": "https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khan",
+          "url": "https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "duration_ms": 276520,
+      "name": "Piya Basanti",
+      "url": "https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
+        "name": "When We Feel Young",
+        "url": "https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 266393,
+      "name": "When We Feel Young",
+      "url": "https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
         "name": "Baatein Karo",
         "url": "https://open.spotify.com/album/66vdrbexbgZKs1NkNRmIET"
       },
@@ -667,22 +699,6 @@
       "duration_ms": 195309,
       "name": "Baatein Karo",
       "url": "https://open.spotify.com/track/0defKES0cQIsig27CpfPWx"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
-        "name": "Vaaqif",
-        "url": "https://open.spotify.com/album/1DW7mX33rABORCELQ4KkQn"
-      },
-      "artists": [
-        {
-          "name": "The Local Train",
-          "url": "https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0"
-        }
-      ],
-      "duration_ms": 297642,
-      "name": "Khudi",
-      "url": "https://open.spotify.com/track/46HUXpfLQmX8t0QcDr4w7W"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -703,6 +719,22 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
+        "name": "Sifar",
+        "url": "https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF"
+      },
+      "artists": [
+        {
+          "name": "Lucky Ali",
+          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Dekha Hai Aise Bhi",
+      "url": "https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
         "name": "Baaton Baaton Main",
         "url": "https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY"
       },
@@ -719,22 +751,6 @@
       "duration_ms": 234374,
       "name": "Baaton Baaton Main",
       "url": "https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
-        "name": "Sifar",
-        "url": "https://open.spotify.com/album/0aHRE11myjLyOfFgEb8LpF"
-      },
-      "artists": [
-        {
-          "name": "Lucky Ali",
-          "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
-        }
-      ],
-      "duration_ms": 238066,
-      "name": "Dekha Hai Aise Bhi",
-      "url": "https://open.spotify.com/track/0GybyL5gY2kSLgiSwauFei"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -803,42 +819,6 @@
     {
       "added_at": "2023-12-18 06:12:28",
       "album": {
-        "name": "Pehli Baarish",
-        "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bhandari",
-          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Pehli Baarish",
-      "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
-        "name": "Dev",
-        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
-      },
-      "artists": [
-        {
-          "name": "Ritviz",
-          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
-        },
-        {
-          "name": "Karan Kanchan",
-          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Khamoshi",
-      "url": "https://open.spotify.com/track/7I1nwZimETiRW83xZv023W"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
         "name": "Tera Nishaan",
         "url": "https://open.spotify.com/album/1FsGhpy3Br29xgbS1PJB4I"
       },
@@ -855,22 +835,6 @@
       "duration_ms": 167000,
       "name": "Tera Nishaan",
       "url": "https://open.spotify.com/track/23gBGYYQcA8ivnVDj2eZxD"
-    },
-    {
-      "added_at": "2023-12-18 06:12:28",
-      "album": {
-        "name": "When We Feel Young",
-        "url": "https://open.spotify.com/album/6w9Q9E6CxC2bdSYmcS84t0"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 266393,
-      "name": "When We Feel Young",
-      "url": "https://open.spotify.com/track/36E24mIdUgRMkf303ZqjOm"
     },
     {
       "added_at": "2023-12-18 06:12:28",
@@ -895,6 +859,42 @@
       "duration_ms": 158446,
       "name": "Noor",
       "url": "https://open.spotify.com/track/5B5mUnRDq9AGMGD8RdTjLL"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
+        "name": "Dev",
+        "url": "https://open.spotify.com/album/6y1pmHE0VptaUzu39ApqqE"
+      },
+      "artists": [
+        {
+          "name": "Ritviz",
+          "url": "https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Khamoshi",
+      "url": "https://open.spotify.com/track/7I1nwZimETiRW83xZv023W"
+    },
+    {
+      "added_at": "2023-12-18 06:12:28",
+      "album": {
+        "name": "Pehli Baarish",
+        "url": "https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Bhandari",
+          "url": "https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Pehli Baarish",
+      "url": "https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0"
     }
   ],
   "unique_name": "Indie Shower Tunes",

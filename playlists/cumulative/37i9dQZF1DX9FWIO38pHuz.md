@@ -4,7 +4,7 @@
 
 > Funk favorites from 2023\. Cover: Kossisko \#SpotifyWrapped
 
-136 songs - 8 hr 7 min
+137 songs - 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Glitter Fonk](https://open.spotify.com/track/6eK4CZTcYTdxF745ynuAsm) | [Dabeull](https://open.spotify.com/artist/7sw3xJMTpdcpfssx17hfrb), [Holybrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Glitter Fonk](https://open.spotify.com/album/4jyk3vn3DRG1c93gUi9al1) | 3:33 | 2022-11-30 | 2023-11-30 |
 | [Glory \(feat\. Waajeed\)](https://open.spotify.com/track/3g9aqptwJdGB0Xrnqz9hha) | [Dames Brown](https://open.spotify.com/artist/7Hgnu346InP2IcZoMGGT8B), [Waajeed](https://open.spotify.com/artist/4dXRZcf1AdzvwZ9AiRIsmT) | [Glory \(feat\. Waajeed\)](https://open.spotify.com/album/2csRZtfPvyILJD2rzTsiPb) | 3:52 | 2023-11-29 |  |
 | [Golden Limousine](https://open.spotify.com/track/1BdLSaXkqWLqbUPnK1ASh0) | [Golden Dawn Arkestra](https://open.spotify.com/artist/7b0pvMSrnBWY6s6DA00YMK) | [The Gold Album](https://open.spotify.com/album/35zeMiMgMj3JcWSGkBT8Ps) | 2:50 | 2022-11-30 | 2023-11-30 |
-| [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 | 2023-11-29 |  |
+| [Good Love](https://open.spotify.com/track/0Tz0QSj60jGd6liWezWmEW) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/3BwkJpkYkCYNBlW2TNFu1w) | 4:49 | 2023-11-29 |  |
+| [Good Love](https://open.spotify.com/track/65zNYzgkRthLtLVTVhLz4P) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [Good Love](https://open.spotify.com/album/0NNE3o9iAtAsHYbxxmME78) | 4:49 | 2023-11-29 | 2024-01-10 |
 | [GOODTIME](https://open.spotify.com/track/0B1u3O0JaCDxlInbrjT6CE) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/69nDpEyn52nnxChWwUDSO3) | 3:42 | 2022-11-30 | 2023-11-30 |
 | [GOODTIME](https://open.spotify.com/track/0Cz1CWsDSgGMbHZykVO5ei) | [CAPYAC](https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5) | [GOODTIME](https://open.spotify.com/album/6MHZpDk5kHnqLBXla2znoS) | 3:42 | 2022-11-30 | 2023-06-10 |
 | [Got to Get Me a Job](https://open.spotify.com/track/5qpUDXMOItqAFeWz9IzK7E) | [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Get a Job](https://open.spotify.com/album/68dxO0C5YU57P93Af0b9Ya) | 2:50 | 2022-11-30 | 2023-11-30 |

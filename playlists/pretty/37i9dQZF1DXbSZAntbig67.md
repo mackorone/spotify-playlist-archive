@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 
 > Canciones para celebrar la Navidad para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,781 likes - 108 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,569 likes - 108 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSZAntbig67.md) - [plain]
 | 36 | [Rodolfo El Reno](https://open.spotify.com/track/3xTu36xxRoNReV7FTSiy5X) | [Canciones Infantiles En Español](https://open.spotify.com/artist/1FEmVBvJ5naZ1qBKeLcoHv) | [Canciones De Navidad En Español](https://open.spotify.com/album/716i3FUoHuiLCScWOZFvUn) | 2:00 |
 | 37 | [A Esa Puerta Llama un Niño](https://open.spotify.com/track/3Yq3bBM0bsjeuYGGBIbaC1) | [Coro infantil "La Alegria" y Papote y su grupo](https://open.spotify.com/artist/6Xlkdmse4pYDWT5EA7ReoC) | [Navidad para Niños](https://open.spotify.com/album/3iyk293JGoNz6oj4UYdJiL) | 2:08 |
 | 38 | [Hacia Bélen va una burra, rin rin](https://open.spotify.com/track/3KA2Y5e9Ert3b9Cp6qS5DS) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Navidad Navidad](https://open.spotify.com/album/1IWZv2eiVbzCkOpmujRJUL) | 2:36 |
-| 39 | [Paseo en Trineo](https://open.spotify.com/track/7A9lcwkCPrbsrWHeAPv9dG) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/1rPVI2q16wVDSYnUGYPIQm) | 2:40 |
+| 39 | [Paseo en Trineo](https://open.spotify.com/track/5ItdwQk3SqGcnyJkShiz3X) | [Las Ardillitas](https://open.spotify.com/artist/6GthntuQGvG7F72j9850Td) | [Las Ardillitas: Paseo en Trineo, Vol\. 1](https://open.spotify.com/album/4SRHTrhoMQlcDKupWrY0Mp) | 2:40 |
 | 40 | [Los Peces en el Rio](https://open.spotify.com/track/5ZqjpXE2c5ek9jJ3CpHGA9) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:03 |
 | 41 | [Feliz Navidad](https://open.spotify.com/track/0DpjUwuKAtDBRJ76H0lHlo) | [El Payaso Plim Plim](https://open.spotify.com/artist/1E7NoA5YJu5N0XEm6ojotR) | [Feliz Navidad](https://open.spotify.com/album/2Eox8nau4HXNMIRslo1Jfm) | 2:17 |
 | 42 | [Navidades Blancas](https://open.spotify.com/track/25C6SHZN5v5jZB81lMWVXX) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:26 |

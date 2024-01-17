@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-411 songs - 1 day 1 hr 28 min
+413 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Balm](https://open.spotify.com/track/22h4bg05XHk550N5HIEs35) | [Bill Laurance](https://open.spotify.com/artist/2QjVv1gkLn8XkQxVndgLHF) | [Zeal EP](https://open.spotify.com/album/1r2Yh46iOWNS6fnoc1qPhW) | 4:21 | 2022-02-17 | 2023-03-21 |
 | [Barney's](https://open.spotify.com/track/4SPtyeZCNeiPsquKP8B8ip) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Life in Space](https://open.spotify.com/album/63Y51ZVDizFQyxA8znmmbn) | 3:03 | 2023-03-20 | 2023-04-14 |
 | [Barnwohl's Voyage](https://open.spotify.com/track/36g3YNQmFyZd73VZQr00hF) | [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Ezzy](https://open.spotify.com/artist/1GUjxtOEHWzcLju2zUw0Pu) | [Barnwohl's Voyage](https://open.spotify.com/album/3EoNdWxcIKcmmikjrBw0Hq) | 2:06 | 2022-06-22 | 2022-08-12 |
-| [Bathtub Bourbon](https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Bathtub Bourbon](https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G) | 4:28 | 2023-05-04 |  |
+| [Bathtub Bourbon](https://open.spotify.com/track/6LGK2OFycwxM4ulvpEYNdt) | [6th Street Jazz](https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1) | [Bathtub Bourbon](https://open.spotify.com/album/3QPvb7pwKL9PdIqhOpmm1G) | 4:28 | 2023-05-04 | 2024-01-14 |
 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 | 2023-03-20 |  |
 | [Better Worlds](https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Kissamilé](https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR) | [Better Worlds](https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC) | 3:01 | 2022-03-11 | 2023-04-24 |
 | [Between Days](https://open.spotify.com/track/59XUNESVcQFbJMQzlyGeZm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Between Days](https://open.spotify.com/album/3LKXTSlaDYPRyUiApj5G8X) | 2:34 | 2022-04-22 | 2022-12-08 |
@@ -137,6 +137,7 @@
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-17 | 2022-06-03 |
 | [Fruit Market Jazz](https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Fruit Market Jazz](https://open.spotify.com/album/7mTU3mxr061prOhmRKuHzQ) | 1:59 | 2022-02-17 | 2023-03-21 |
 | [Full\-time Obsession](https://open.spotify.com/track/3ecM9Yp2c4Aw37mni1kOi2) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Full\-time Obsession](https://open.spotify.com/album/2Spm5SWIwhma9WmuVv4yDB) | 3:24 | 2023-10-27 | 2023-12-25 |
+| [Gentle Rain](https://open.spotify.com/track/2EJujnITIj7jRLTM38DBwB) | [Tom Francis](https://open.spotify.com/artist/6uaneVpX351id57reqAEff) | [Gentle Rain](https://open.spotify.com/album/5fwhgGEmNF748ytdgWVmci) | 3:12 | 2024-01-12 |  |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
 | [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-10-06 |  |
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
@@ -146,7 +147,7 @@
 | [Happiness](https://open.spotify.com/track/3dyNc3TbcaGcmLrQuk4Hls) | [DARGZ](https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV) | [Happiness](https://open.spotify.com/album/4QmRHhICo301Jue6KX2IVU) | 1:40 | 2022-06-02 | 2022-08-12 |
 | [Have no control](https://open.spotify.com/track/0pS8dgfvPuJJL1JSd73Epw) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Have no control](https://open.spotify.com/album/6JPWlvZmndErRZxkwnb6Gj) | 3:39 | 2023-10-27 | 2023-12-24 |
 | [Have You Seen Me Lately](https://open.spotify.com/track/6aaYBpzYrY3bGS3eIDOG5s) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Have You Seen Me Lately](https://open.spotify.com/album/0QTxZxJKxQhTOLpoZLxjgp) | 2:11 | 2023-05-04 |  |
-| [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-05-04 |  |
+| [Heaven Sent You](https://open.spotify.com/track/0oucU7y8EaRo6PbBHIaAdt) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [A Cookie For Marie](https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp) | 4:14 | 2023-05-04 | 2024-01-14 |
 | [Here Comes Friday](https://open.spotify.com/track/2HwC77N8rDxMrW3Ve8RfE2) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [Here Comes Friday](https://open.spotify.com/album/6RoLm9qaZtHvLzoLTguwW8) | 2:49 | 2023-09-22 |  |
 | [Hey Ye Ye Yeah \- Slow](https://open.spotify.com/track/5h97Md9cmCNB80k2fHnFT3) | [Bear Garden](https://open.spotify.com/artist/0BchEmsNc1BNnt1rzHkGD2) | [Hey Ye Ye Yeah \(Slow\)](https://open.spotify.com/album/5vvATIEeqF3VXPHRsDiTfG) | 2:51 | 2022-11-17 | 2023-01-12 |
 | [Hidden Harmonies](https://open.spotify.com/track/2MYuzF9LpfzpQPIIt28unv) | [Duponte et Duponte](https://open.spotify.com/artist/2deWXMlH853VExXZNmSe5o) | [Hidden Harmonies](https://open.spotify.com/album/2jIBxZzaQt8mlP9QVZQosN) | 3:19 | 2023-12-13 |  |
@@ -409,6 +410,7 @@
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-27 |  |
 | [Yipee](https://open.spotify.com/track/78R0kfQEC2vEB2J6twyVoo) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Yipee](https://open.spotify.com/album/65f6s3zvSKgc39bx0IsDJD) | 2:16 | 2022-02-17 | 2022-03-12 |
 | [You Gave Me That Look](https://open.spotify.com/track/2BBxt787LSuIdPXN6YM3S1) | [Original Three](https://open.spotify.com/artist/0Zi9ASlerELD4nnDLV7wv3) | [You Gave Me That Look](https://open.spotify.com/album/4ZFC18j6lyUKueqtxiorZa) | 5:04 | 2023-10-27 |  |
+| [You Go To My Head](https://open.spotify.com/track/0kqwoyaat9Kv8vvLsxUQXs) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [You Go To My Head](https://open.spotify.com/album/3wvTUr0jvkCGLBG4ESBF1a) | 4:59 | 2024-01-12 |  |
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-20 |  |
 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 | 2023-02-23 | 2023-04-16 |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-20 |  |

@@ -1,539 +1,653 @@
 {
-  "2022-07-10": 29803,
-  "2022-07-11": 31569,
-  "2022-07-12": 33116,
-  "2022-07-13": 34280,
-  "2022-07-14": 35128,
-  "2022-07-15": 48451,
-  "2022-07-16": 66655,
-  "2022-07-17": 71070,
-  "2022-07-18": 74917,
-  "2022-07-19": 77007,
-  "2022-07-20": 81321,
-  "2022-07-21": 85037,
-  "2022-07-22": 87851,
-  "2022-07-23": 90696,
-  "2022-07-24": 92746,
-  "2022-07-25": 94723,
-  "2022-07-26": 96450,
-  "2022-07-27": 98093,
-  "2022-07-28": 99619,
-  "2022-07-29": 101430,
-  "2022-07-30": 104335,
-  "2022-07-31": 104335,
-  "2022-08-01": 106100,
-  "2022-08-02": 111024,
-  "2022-08-03": 111024,
-  "2022-08-04": 112607,
-  "2022-08-05": 114034,
-  "2022-08-06": 115804,
-  "2022-08-07": 117321,
-  "2022-08-08": 118579,
-  "2022-08-09": 119653,
-  "2022-08-10": 120884,
-  "2022-08-11": 121969,
-  "2022-08-12": 123028,
-  "2022-08-13": 123946,
-  "2022-08-14": 124900,
-  "2022-08-15": 125767,
-  "2022-08-16": 126641,
-  "2022-08-17": 127441,
-  "2022-08-18": 128302,
-  "2022-08-19": 129113,
-  "2022-08-20": 129901,
-  "2022-08-21": 131104,
-  "2022-08-22": 132715,
-  "2022-08-23": 134059,
-  "2022-08-24": 135025,
-  "2022-08-25": 135923,
-  "2022-08-26": 136682,
-  "2022-08-27": 137575,
-  "2022-08-28": 138884,
-  "2022-08-29": 139831,
-  "2022-08-30": 140687,
-  "2022-08-31": 141549,
-  "2022-09-01": 142220,
-  "2022-09-02": 143094,
-  "2022-09-03": 143910,
-  "2022-09-04": 144676,
-  "2022-09-05": 145382,
-  "2022-09-06": 146032,
-  "2022-09-07": 146645,
-  "2022-09-09": 147862,
-  "2022-09-10": 148412,
-  "2022-09-11": 149057,
-  "2022-09-12": 149718,
-  "2022-09-13": 150277,
-  "2022-09-15": 151375,
-  "2022-09-16": 152064,
-  "2022-09-17": 152675,
-  "2022-09-18": 153438,
-  "2022-09-19": 154108,
-  "2022-09-20": 154766,
-  "2022-09-21": 155421,
-  "2022-09-22": 156279,
-  "2022-09-23": 157681,
-  "2022-09-24": 158655,
-  "2022-09-25": 159453,
-  "2022-09-26": 160143,
-  "2022-09-27": 160877,
-  "2022-09-28": 161458,
-  "2022-09-29": 161966,
-  "2022-09-30": 162717,
-  "2022-10-01": 163403,
-  "2022-10-02": 164047,
-  "2022-10-03": 164629,
-  "2022-10-04": 165119,
-  "2022-10-05": 165629,
-  "2022-10-06": 168165,
-  "2022-10-07": 171575,
-  "2022-10-08": 172857,
-  "2022-10-09": 174230,
-  "2022-10-10": 174409,
-  "2022-10-11": 175177,
-  "2022-10-12": 175840,
-  "2022-10-13": 176545,
-  "2022-10-14": 177223,
-  "2022-10-15": 177992,
-  "2022-10-16": 178654,
-  "2022-10-17": 179365,
-  "2022-10-18": 180072,
-  "2022-10-19": 180789,
-  "2022-10-20": 181487,
-  "2022-10-21": 182158,
-  "2022-10-22": 183808,
-  "2022-10-23": 185079,
-  "2022-10-24": 186163,
-  "2022-10-25": 187359,
-  "2022-10-26": 188653,
-  "2022-10-27": 189849,
-  "2022-10-28": 190975,
-  "2022-10-29": 192594,
-  "2022-10-30": 193743,
-  "2022-10-31": 194713,
-  "2022-11-01": 195474,
-  "2022-11-02": 196247,
-  "2022-11-03": 196991,
-  "2022-11-04": 197701,
-  "2022-11-05": 198425,
-  "2022-11-06": 199213,
-  "2022-11-07": 199994,
-  "2022-11-08": 200668,
-  "2022-11-09": 201296,
-  "2022-11-10": 201747,
-  "2022-11-11": 202448,
-  "2022-11-12": 203354,
-  "2022-11-13": 204155,
-  "2022-11-14": 204988,
-  "2022-11-15": 205709,
-  "2022-11-16": 206400,
-  "2022-11-17": 207206,
-  "2022-11-18": 207597,
-  "2022-11-19": 207884,
-  "2022-11-20": 208491,
-  "2022-11-21": 209425,
-  "2022-11-22": 210876,
-  "2022-11-23": 211877,
-  "2022-11-24": 213534,
-  "2022-11-25": 214895,
-  "2022-11-26": 215839,
-  "2022-11-27": 216442,
-  "2022-11-28": 217066,
-  "2022-11-29": 217582,
-  "2022-11-30": 218386,
-  "2022-12-01": 219550,
-  "2022-12-02": 220628,
-  "2022-12-03": 225680,
-  "2022-12-04": 228042,
-  "2022-12-05": 229862,
-  "2022-12-06": 230948,
-  "2022-12-07": 231909,
-  "2022-12-08": 233041,
-  "2022-12-09": 234124,
-  "2022-12-10": 234961,
-  "2022-12-11": 235784,
-  "2022-12-12": 236530,
-  "2022-12-13": 237202,
-  "2022-12-14": 237900,
-  "2022-12-15": 238563,
-  "2022-12-16": 239252,
-  "2022-12-17": 239959,
-  "2022-12-18": 240689,
-  "2022-12-19": 241384,
-  "2022-12-20": 242614,
-  "2022-12-21": 242614,
-  "2022-12-22": 243121,
-  "2022-12-24": 244240,
-  "2022-12-25": 244736,
-  "2022-12-26": 245175,
-  "2022-12-27": 245684,
-  "2022-12-28": 246256,
-  "2022-12-29": 246848,
-  "2022-12-30": 247438,
-  "2022-12-31": 247965,
-  "2023-01-01": 248450,
-  "2023-01-02": 248911,
-  "2023-01-03": 249469,
-  "2023-01-04": 249946,
-  "2023-01-05": 250640,
-  "2023-01-06": 251364,
-  "2023-01-07": 252165,
-  "2023-01-08": 252295,
-  "2023-01-09": 252864,
-  "2023-01-10": 253368,
-  "2023-01-11": 253914,
-  "2023-01-12": 254479,
-  "2023-01-13": 255057,
-  "2023-01-14": 256506,
-  "2023-01-15": 256631,
-  "2023-01-16": 257288,
-  "2023-01-17": 257891,
-  "2023-01-18": 258377,
-  "2023-01-19": 258871,
-  "2023-01-20": 259336,
-  "2023-01-21": 259766,
-  "2023-01-22": 260266,
-  "2023-01-23": 260759,
-  "2023-01-24": 261190,
-  "2023-01-25": 261647,
-  "2023-01-26": 262085,
-  "2023-01-27": 262580,
-  "2023-01-28": 263161,
-  "2023-01-29": 263842,
-  "2023-01-30": 264523,
-  "2023-01-31": 264523,
-  "2023-02-01": 265764,
-  "2023-02-02": 266220,
-  "2023-02-03": 266788,
-  "2023-02-04": 267337,
-  "2023-02-05": 267907,
-  "2023-02-06": 268587,
-  "2023-02-07": 269156,
-  "2023-02-08": 270465,
-  "2023-02-09": 270465,
-  "2023-02-10": 271009,
-  "2023-02-11": 271579,
-  "2023-02-12": 272934,
-  "2023-02-13": 273484,
-  "2023-02-14": 273484,
-  "2023-02-15": 274007,
-  "2023-02-16": 274528,
-  "2023-02-17": 275091,
-  "2023-02-18": 276594,
-  "2023-02-19": 276702,
-  "2023-02-20": 277138,
-  "2023-02-21": 277633,
-  "2023-02-22": 278133,
-  "2023-02-23": 278632,
-  "2023-02-24": 279144,
-  "2023-02-25": 279940,
-  "2023-02-26": 280315,
-  "2023-02-27": 281580,
-  "2023-02-28": 281580,
-  "2023-03-01": 282133,
-  "2023-03-02": 282870,
-  "2023-03-03": 284112,
-  "2023-03-04": 289931,
-  "2023-03-05": 294513,
-  "2023-03-06": 294513,
-  "2023-03-07": 296081,
-  "2023-03-08": 297114,
-  "2023-03-09": 298099,
-  "2023-03-10": 298894,
-  "2023-03-11": 299856,
-  "2023-03-12": 301232,
-  "2023-03-13": 302221,
-  "2023-03-14": 303027,
-  "2023-03-15": 303989,
-  "2023-03-16": 304850,
-  "2023-03-17": 304850,
-  "2023-03-18": 307001,
-  "2023-03-19": 308069,
-  "2023-03-20": 308890,
-  "2023-03-21": 309612,
-  "2023-03-22": 310305,
-  "2023-03-23": 311029,
-  "2023-03-24": 311029,
-  "2023-03-25": 315777,
-  "2023-03-26": 317259,
-  "2023-03-27": 318415,
-  "2023-03-28": 319279,
-  "2023-03-29": 320225,
-  "2023-03-30": 322019,
-  "2023-03-31": 322019,
-  "2023-04-01": 323087,
-  "2023-04-02": 324138,
-  "2023-04-03": 325140,
-  "2023-04-04": 326061,
-  "2023-04-05": 327578,
-  "2023-04-06": 328584,
-  "2023-04-07": 329556,
-  "2023-04-09": 332799,
-  "2023-04-10": 334156,
-  "2023-04-11": 335866,
-  "2023-04-12": 335866,
-  "2023-04-13": 336762,
-  "2023-04-14": 337646,
-  "2023-04-15": 338569,
-  "2023-04-16": 339404,
-  "2023-04-17": 340232,
-  "2023-04-18": 340994,
-  "2023-04-19": 341937,
-  "2023-04-20": 342642,
-  "2023-04-21": 343486,
-  "2023-04-22": 345279,
-  "2023-04-23": 346480,
-  "2023-04-24": 347415,
-  "2023-04-25": 348281,
-  "2023-04-26": 349326,
-  "2023-04-27": 350185,
-  "2023-04-28": 350975,
-  "2023-04-29": 351843,
-  "2023-04-30": 352743,
-  "2023-05-01": 353568,
-  "2023-05-02": 354347,
-  "2023-05-03": 355044,
-  "2023-05-04": 355715,
-  "2023-05-05": 356624,
-  "2023-05-06": 357458,
-  "2023-05-07": 358315,
-  "2023-05-08": 359155,
-  "2023-05-09": 360004,
-  "2023-05-10": 360866,
-  "2023-05-11": 361629,
-  "2023-05-12": 362393,
-  "2023-05-13": 363286,
-  "2023-05-14": 364018,
-  "2023-05-15": 364650,
-  "2023-05-16": 365230,
-  "2023-05-17": 365864,
-  "2023-05-18": 366476,
-  "2023-05-19": 367248,
-  "2023-05-20": 368423,
-  "2023-05-21": 368423,
-  "2023-05-22": 368423,
-  "2023-05-23": 369629,
-  "2023-05-24": 370616,
-  "2023-05-25": 370743,
-  "2023-05-26": 371292,
-  "2023-05-27": 371899,
-  "2023-05-28": 372576,
-  "2023-05-29": 372576,
-  "2023-05-30": 373712,
-  "2023-05-31": 374376,
-  "2023-06-01": 374938,
-  "2023-06-02": 375536,
-  "2023-06-03": 376173,
-  "2023-06-04": 376723,
-  "2023-06-05": 377326,
-  "2023-06-06": 377896,
-  "2023-06-07": 378518,
-  "2023-06-08": 379072,
-  "2023-06-09": 379706,
-  "2023-06-10": 380940,
-  "2023-06-11": 381634,
-  "2023-06-12": 382299,
-  "2023-06-13": 382824,
-  "2023-06-14": 383429,
-  "2023-06-15": 384019,
-  "2023-06-16": 384574,
-  "2023-06-17": 385012,
-  "2023-06-18": 385538,
-  "2023-06-19": 386062,
-  "2023-06-20": 386512,
-  "2023-06-21": 386987,
-  "2023-06-22": 387444,
-  "2023-06-23": 387932,
-  "2023-06-24": 388390,
-  "2023-06-25": 388827,
-  "2023-06-26": 389234,
-  "2023-06-27": 389586,
-  "2023-06-28": 390061,
-  "2023-06-29": 390550,
-  "2023-06-30": 391171,
-  "2023-07-01": 392154,
-  "2023-07-02": 392154,
-  "2023-07-03": 392616,
-  "2023-07-04": 393475,
-  "2023-07-05": 393981,
-  "2023-07-06": 394884,
-  "2023-07-07": 394884,
-  "2023-07-08": 395439,
-  "2023-07-09": 395932,
-  "2023-07-10": 396413,
-  "2023-07-11": 396909,
-  "2023-07-12": 397224,
-  "2023-07-13": 397686,
-  "2023-07-14": 398269,
-  "2023-07-15": 399233,
-  "2023-07-16": 400393,
-  "2023-07-17": 401321,
-  "2023-07-18": 402057,
-  "2023-07-19": 402662,
-  "2023-07-20": 403182,
-  "2023-07-21": 403759,
-  "2023-07-22": 404294,
-  "2023-07-23": 404816,
-  "2023-07-24": 405363,
-  "2023-07-25": 405872,
-  "2023-07-26": 406364,
-  "2023-07-27": 406830,
-  "2023-07-28": 407265,
-  "2023-07-29": 407720,
-  "2023-07-30": 408078,
-  "2023-07-31": 408414,
-  "2023-08-01": 408751,
-  "2023-08-02": 409099,
-  "2023-08-03": 409476,
-  "2023-08-04": 409906,
-  "2023-08-05": 410302,
-  "2023-08-06": 411214,
-  "2023-08-07": 411214,
-  "2023-08-08": 411660,
-  "2023-08-09": 412159,
-  "2023-08-10": 412693,
-  "2023-08-11": 413203,
-  "2023-08-12": 413964,
-  "2023-08-13": 414489,
-  "2023-08-14": 415159,
-  "2023-08-15": 416219,
-  "2023-08-16": 416219,
-  "2023-08-17": 416653,
-  "2023-08-18": 417265,
-  "2023-08-19": 418309,
-  "2023-08-20": 418954,
-  "2023-08-21": 419447,
-  "2023-08-22": 419898,
-  "2023-08-23": 420335,
-  "2023-08-24": 420768,
-  "2023-08-25": 421132,
-  "2023-08-26": 421574,
-  "2023-08-27": 421921,
-  "2023-08-28": 422264,
-  "2023-08-29": 422723,
-  "2023-08-30": 423043,
-  "2023-08-31": 423347,
-  "2023-09-01": 423835,
-  "2023-09-02": 423835,
-  "2023-09-03": 424023,
-  "2023-09-04": 424330,
-  "2023-09-05": 424543,
-  "2023-09-06": 424722,
-  "2023-09-07": 424974,
-  "2023-09-08": 425293,
-  "2023-09-09": 425680,
-  "2023-09-10": 425906,
-  "2023-09-11": 426227,
-  "2023-09-12": 426436,
-  "2023-09-13": 426686,
-  "2023-09-14": 426883,
-  "2023-09-15": 427065,
-  "2023-09-16": 427281,
-  "2023-09-17": 427483,
-  "2023-09-18": 427799,
-  "2023-09-19": 428067,
-  "2023-09-20": 428262,
-  "2023-09-21": 428512,
-  "2023-09-22": 428777,
-  "2023-09-23": 429061,
-  "2023-09-24": 429425,
-  "2023-09-25": 429679,
-  "2023-09-26": 429994,
-  "2023-09-27": 430236,
-  "2023-09-28": 430500,
-  "2023-09-29": 430733,
-  "2023-09-30": 431084,
-  "2023-10-01": 431373,
-  "2023-10-02": 431666,
-  "2023-10-03": 431837,
-  "2023-10-04": 432081,
-  "2023-10-05": 432353,
-  "2023-10-06": 432547,
-  "2023-10-07": 432785,
-  "2023-10-08": 432960,
-  "2023-10-09": 433189,
-  "2023-10-10": 433383,
-  "2023-10-11": 433796,
-  "2023-10-12": 433796,
-  "2023-10-13": 433951,
-  "2023-10-14": 434092,
-  "2023-10-15": 434252,
-  "2023-10-16": 434501,
-  "2023-10-17": 434728,
-  "2023-10-18": 434914,
-  "2023-10-19": 435114,
-  "2023-10-20": 435464,
-  "2023-10-21": 435738,
-  "2023-10-22": 436123,
-  "2023-10-23": 436523,
-  "2023-10-24": 436794,
-  "2023-10-25": 437031,
-  "2023-10-26": 437245,
-  "2023-10-27": 437471,
-  "2023-10-28": 437471,
-  "2023-10-29": 437471,
-  "2023-10-30": 438194,
-  "2023-10-31": 438194,
-  "2023-11-01": 438582,
-  "2023-11-02": 438788,
-  "2023-11-03": 439028,
-  "2023-11-04": 439329,
-  "2023-11-05": 439624,
-  "2023-11-06": 439810,
-  "2023-11-07": 440064,
-  "2023-11-08": 440283,
-  "2023-11-09": 440537,
-  "2023-11-10": 440789,
-  "2023-11-11": 441107,
-  "2023-11-12": 441364,
-  "2023-11-13": 441567,
-  "2023-11-14": 441743,
-  "2023-11-15": 441743,
-  "2023-11-16": 442100,
-  "2023-11-17": 442414,
-  "2023-11-18": 442414,
-  "2023-11-19": 442559,
-  "2023-11-20": 442720,
-  "2023-11-21": 442973,
-  "2023-11-22": 443121,
-  "2023-11-23": 443263,
-  "2023-11-24": 443263,
-  "2023-11-25": 443590,
-  "2023-11-26": 443733,
-  "2023-11-27": 443858,
-  "2023-11-28": 443994,
-  "2023-11-29": 444498,
-  "2023-11-30": 444498,
-  "2023-12-01": 444806,
-  "2023-12-02": 445154,
-  "2023-12-03": 445453,
-  "2023-12-04": 445453,
-  "2023-12-05": 445823,
-  "2023-12-06": 445995,
-  "2023-12-07": 446199,
-  "2023-12-08": 446388,
-  "2023-12-09": 446565,
-  "2023-12-10": 446565,
-  "2023-12-11": 446893,
-  "2023-12-12": 446893,
-  "2023-12-13": 447240,
-  "2023-12-14": 447500,
-  "2023-12-15": 447758,
-  "2023-12-16": 448104,
-  "2023-12-17": 448406,
-  "2023-12-18": 448657,
-  "2023-12-19": 448846,
-  "2023-12-20": 449049,
-  "2023-12-21": 449290,
-  "2023-12-22": 449538,
-  "2023-12-23": 449837,
-  "2023-12-24": 450056,
-  "2023-12-25": 450238,
-  "2023-12-26": 450381,
-  "2023-12-27": 450589,
-  "2023-12-30": 450965,
-  "2023-12-31": 451095,
-  "2024-01-01": 451212,
-  "2024-01-02": 451958,
-  "2024-01-03": 452759
+  "2024-01-17": 456875,
+  "date_first_scraped": "2022-07-10",
+  "description": "Welcome to the Hope World! \ud83d\udc9c",
+  "name": "This Is j-hope",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114477,
+      "name": "= (Equal Sign)",
+      "url": "https://open.spotify.com/track/70XnKsO3UnIT4FnEwChQXx"
+    },
+    {
+      "album": {
+        "name": "The Project",
+        "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Hareem",
+          "url": "https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "A Song Make to You Smile",
+      "url": "https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197913,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/2jk6oBuLiCZJTDWhlJEzIw"
+    },
+    {
+      "album": {
+        "name": "I'm Da One",
+        "url": "https://open.spotify.com/album/3Ds62hZPPPtvWgLDQLo5lD"
+      },
+      "artists": [
+        {
+          "name": "JO KWON",
+          "url": "https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202270,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6idjdo9ya87si2JI5OdbXc"
+    },
+    {
+      "album": {
+        "name": "I'm Da One",
+        "url": "https://open.spotify.com/album/0dsK6yub3rsqQLYaO7TDqf"
+      },
+      "artists": [
+        {
+          "name": "JO KWON",
+          "url": "https://open.spotify.com/artist/1hJ6EZjb0pnvPeBdzulrUr"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-06",
+      "duration_ms": 202270,
+      "name": "Animal (feat. \uc815\ud638\uc11d Of \ubc29\ud0c4\uc18c\ub144\ub2e8)",
+      "url": "https://open.spotify.com/track/40oks8fZ9XdDeJyuI44yCf"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159761,
+      "name": "Arson",
+      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159770,
+      "name": "Arson (Instrumental)",
+      "url": "https://open.spotify.com/track/02FJa38VBPTnwinFBloq8P"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89769,
+      "name": "Base Line",
+      "url": "https://open.spotify.com/track/3eSCPt6StovDAIps2XhZ2Z"
+    },
+    {
+      "album": {
+        "name": "Blue Side",
+        "url": "https://open.spotify.com/album/1PwHmb34vUnPLJp3vSLKed"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198600,
+      "name": "Blue Side",
+      "url": "https://open.spotify.com/track/1nwdfbj4UyRMpa9L98a4Yi"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90539,
+      "name": "Blue Side (Outro)",
+      "url": "https://open.spotify.com/track/20zr2Oef3PVeGRxjmSF5CC"
+    },
+    {
+      "album": {
+        "name": "Chicken Noodle Soup (feat. Becky G)",
+        "url": "https://open.spotify.com/album/2wwGHSWLwrlXDmi3DEaZ4A"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235497,
+      "name": "Chicken Noodle Soup (feat. Becky G)",
+      "url": "https://open.spotify.com/track/2y6Ty2NPAsP84XJAtzLxuk"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228759,
+      "name": "Daydream (\ubc31\uc77c\ubabd)",
+      "url": "https://open.spotify.com/track/56sdcbPR74RxqmKVbQzJ8s"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127869,
+      "name": "Equal Sign (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/2JcJJjTFzpGo1G5nXqC6Qq"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139308,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/0Puudh380z6cOCgMaTNm7h"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258542,
+      "name": "Future (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/4Q6S4uWD8dwpWiI3VkdBuV"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204930,
+      "name": "Hope World",
+      "url": "https://open.spotify.com/track/5UMPPsXaGbR1qtzcnEtTpM"
+    },
+    {
+      "album": {
+        "name": "D-DAY",
+        "url": "https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX"
+      },
+      "artists": [
+        {
+          "name": "Agust D",
+          "url": "https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183290,
+      "name": "HUH?! (feat. j-hope)",
+      "url": "https://open.spotify.com/track/6XrPzwKeGzEvtan3acn7VH"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58871,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/0M7ai1yfYyb4OlyRgdmtTK"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121770,
+      "name": "Intro: Boy Meets Evil",
+      "url": "https://open.spotify.com/track/1hlT8F0X27uf3fpOWawjbY"
+    },
+    {
+      "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/1vhNGBTFoaSTLbHjPGFIlF"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212275,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/51hIGgLnT8s6gEzjVqKlEF"
+    },
+    {
+      "album": {
+        "name": "MORE",
+        "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180022,
+      "name": "MORE",
+      "url": "https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178584,
+      "name": "MORE (Instrumental)",
+      "url": "https://open.spotify.com/track/5rJgabqFRVuC3yN7f7L5IC"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70546,
+      "name": "Music Box : Reflection",
+      "url": "https://open.spotify.com/track/0PJSXtjkdTjJzZAMyNus02"
+    },
+    {
+      "album": {
+        "name": "on the street (with J. Cole)",
+        "url": "https://open.spotify.com/album/70xdtgH5XuYTqBNdNbUwGO"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214701,
+      "name": "on the street (with J. Cole)",
+      "url": "https://open.spotify.com/track/5wxYxygyHpbgv0EXZuqb9V"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : 7",
+        "url": "https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196198,
+      "name": "Outro : Ego",
+      "url": "https://open.spotify.com/track/2LVw2bIK99go1NdD77dUCW"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "P.O.P (Piece Of Peace) Pt. 1",
+      "url": "https://open.spotify.com/track/78GQP9XBSqpEDlMoPAbUAJ"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156291,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/2On611HXKQAbaYkuc4NQAm"
+    },
+    {
+      "album": {
+        "name": "Rush Hour",
+        "url": "https://open.spotify.com/album/7egcy2gtlyoUUl1OlQrY3R"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177302,
+      "name": "Rush Hour (Feat. j-hope of BTS)",
+      "url": "https://open.spotify.com/track/5aucVLKiumD89mxVCB4zvS"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165340,
+      "name": "Safety Zone",
+      "url": "https://open.spotify.com/track/00I41xsW6SunZDJ5fB8KAd"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122211,
+      "name": "STOP",
+      "url": "https://open.spotify.com/track/1XIIvx9S19CZVc7eow7EX7"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box (HOPE Edition)",
+        "url": "https://open.spotify.com/album/3XuUxVKw2mDLSIkZNYoaa6"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135142,
+      "name": "STOP (Lollapalooza ver.)",
+      "url": "https://open.spotify.com/track/5m5te1JAMYvJmEa5XnGTWi"
+    },
+    {
+      "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225220,
+      "name": "Trivia \u8d77 : Just Dance",
+      "url": "https://open.spotify.com/track/4YDHRtzm0OGuieCTVQjVuk"
+    },
+    {
+      "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136063,
+      "name": "What if\u2026",
+      "url": "https://open.spotify.com/track/1fNwwml8UcKvhfM6YEVIRh"
+    },
+    {
+      "album": {
+        "name": "Hope World",
+        "url": "https://open.spotify.com/album/0XX1044L7ovU5aon6nRiF7"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        },
+        {
+          "name": "Supreme Boi",
+          "url": "https://open.spotify.com/artist/6sBiS0iWcCyMMgiYrEOxbt"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229675,
+      "name": "\ud56d\uc0c1 (HANGSANG)",
+      "url": "https://open.spotify.com/track/270k38FpoKhnvZLv50NlTr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9owDoKZZXV5"
 }

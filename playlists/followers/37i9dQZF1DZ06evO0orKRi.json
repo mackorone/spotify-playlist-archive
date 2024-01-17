@@ -1,200 +1,955 @@
 {
-  "2023-06-18": 20121,
-  "2023-06-19": 20136,
-  "2023-06-20": 20139,
-  "2023-06-21": 20156,
-  "2023-06-22": 20170,
-  "2023-06-23": 20172,
-  "2023-06-24": 20183,
-  "2023-06-25": 20192,
-  "2023-06-26": 20208,
-  "2023-06-27": 20213,
-  "2023-06-28": 20220,
-  "2023-06-29": 20224,
-  "2023-06-30": 20232,
-  "2023-07-01": 20259,
-  "2023-07-02": 20259,
-  "2023-07-03": 20271,
-  "2023-07-04": 20279,
-  "2023-07-05": 20295,
-  "2023-07-06": 20316,
-  "2023-07-07": 20316,
-  "2023-07-08": 20326,
-  "2023-07-09": 20341,
-  "2023-07-10": 20351,
-  "2023-07-11": 20352,
-  "2023-07-12": 20362,
-  "2023-07-13": 20373,
-  "2023-07-14": 20388,
-  "2023-07-15": 20394,
-  "2023-07-16": 20406,
-  "2023-07-17": 20410,
-  "2023-07-18": 20422,
-  "2023-07-19": 20438,
-  "2023-07-20": 20454,
-  "2023-07-21": 20464,
-  "2023-07-22": 20482,
-  "2023-07-23": 20488,
-  "2023-07-24": 20500,
-  "2023-07-25": 20502,
-  "2023-07-26": 20507,
-  "2023-07-27": 20520,
-  "2023-07-28": 20534,
-  "2023-07-29": 20545,
-  "2023-07-30": 20555,
-  "2023-07-31": 20563,
-  "2023-08-01": 20567,
-  "2023-08-02": 20570,
-  "2023-08-03": 20576,
-  "2023-08-04": 20584,
-  "2023-08-05": 20593,
-  "2023-08-06": 20621,
-  "2023-08-07": 20621,
-  "2023-08-08": 20632,
-  "2023-08-09": 20641,
-  "2023-08-10": 20653,
-  "2023-08-11": 20660,
-  "2023-08-12": 20660,
-  "2023-08-13": 20660,
-  "2023-08-14": 20704,
-  "2023-08-15": 20704,
-  "2023-08-16": 20704,
-  "2023-08-17": 20733,
-  "2023-08-18": 20733,
-  "2023-08-19": 20744,
-  "2023-08-20": 20754,
-  "2023-08-21": 20754,
-  "2023-08-22": 20785,
-  "2023-08-23": 20792,
-  "2023-08-24": 20799,
-  "2023-08-25": 20799,
-  "2023-08-26": 20829,
-  "2023-08-27": 20840,
-  "2023-08-28": 20852,
-  "2023-08-29": 20852,
-  "2023-08-30": 20852,
-  "2023-08-31": 20881,
-  "2023-09-01": 20913,
-  "2023-09-02": 20913,
-  "2023-09-03": 20919,
-  "2023-09-04": 20919,
-  "2023-09-05": 20919,
-  "2023-09-06": 20950,
-  "2023-09-07": 20950,
-  "2023-09-08": 20950,
-  "2023-09-09": 20950,
-  "2023-09-10": 20977,
-  "2023-09-11": 20990,
-  "2023-09-12": 20990,
-  "2023-09-13": 21012,
-  "2023-09-14": 21012,
-  "2023-09-15": 21012,
-  "2023-09-16": 21039,
-  "2023-09-17": 21039,
-  "2023-09-18": 21039,
-  "2023-09-19": 21068,
-  "2023-09-20": 21068,
-  "2023-09-21": 21068,
-  "2023-09-22": 21093,
-  "2023-09-23": 21093,
-  "2023-09-24": 21093,
-  "2023-09-25": 21093,
-  "2023-09-26": 21139,
-  "2023-09-27": 21139,
-  "2023-09-28": 21139,
-  "2023-09-29": 21139,
-  "2023-09-30": 21139,
-  "2023-10-01": 21139,
-  "2023-10-02": 21180,
-  "2023-10-03": 21180,
-  "2023-10-04": 21180,
-  "2023-10-05": 21213,
-  "2023-10-06": 21223,
-  "2023-10-07": 21223,
-  "2023-10-08": 21223,
-  "2023-10-09": 21223,
-  "2023-10-10": 21223,
-  "2023-10-11": 21273,
-  "2023-10-12": 21273,
-  "2023-10-13": 21273,
-  "2023-10-14": 21273,
-  "2023-10-15": 21273,
-  "2023-10-16": 21273,
-  "2023-10-17": 21273,
-  "2023-10-18": 21273,
-  "2023-10-19": 21273,
-  "2023-10-20": 21273,
-  "2023-10-21": 21273,
-  "2023-10-22": 21273,
-  "2023-10-23": 21273,
-  "2023-10-24": 21273,
-  "2023-10-25": 21273,
-  "2023-10-26": 21273,
-  "2023-10-27": 21273,
-  "2023-10-28": 21273,
-  "2023-10-29": 21273,
-  "2023-10-30": 21273,
-  "2023-10-31": 21273,
-  "2023-11-01": 21273,
-  "2023-11-02": 21273,
-  "2023-11-03": 21273,
-  "2023-11-04": 21273,
-  "2023-11-05": 21273,
-  "2023-11-06": 21273,
-  "2023-11-07": 21273,
-  "2023-11-08": 21273,
-  "2023-11-09": 21273,
-  "2023-11-10": 21273,
-  "2023-11-11": 21558,
-  "2023-11-12": 21558,
-  "2023-11-13": 21558,
-  "2023-11-14": 21558,
-  "2023-11-15": 21558,
-  "2023-11-16": 21558,
-  "2023-11-17": 21558,
-  "2023-11-18": 21558,
-  "2023-11-19": 21558,
-  "2023-11-20": 21558,
-  "2023-11-21": 21558,
-  "2023-11-22": 21558,
-  "2023-11-23": 21558,
-  "2023-11-24": 21558,
-  "2023-11-25": 21558,
-  "2023-11-26": 21558,
-  "2023-11-27": 21558,
-  "2023-11-28": 21558,
-  "2023-11-29": 21558,
-  "2023-11-30": 21558,
-  "2023-12-01": 21558,
-  "2023-12-02": 21558,
-  "2023-12-03": 21558,
-  "2023-12-04": 21558,
-  "2023-12-05": 21558,
-  "2023-12-06": 21558,
-  "2023-12-07": 21558,
-  "2023-12-08": 21558,
-  "2023-12-09": 21558,
-  "2023-12-10": 21558,
-  "2023-12-11": 21558,
-  "2023-12-12": 21558,
-  "2023-12-13": 21558,
-  "2023-12-14": 21798,
-  "2023-12-15": 21809,
-  "2023-12-16": 21808,
-  "2023-12-17": 21814,
-  "2023-12-18": 21818,
-  "2023-12-19": 21822,
-  "2023-12-20": 21829,
-  "2023-12-21": 21835,
-  "2023-12-22": 21834,
-  "2023-12-23": 21843,
-  "2023-12-24": 21848,
-  "2023-12-25": 21855,
-  "2023-12-26": 21867,
-  "2023-12-27": 21873,
-  "2023-12-30": 21895,
-  "2023-12-31": 21901,
-  "2024-01-01": 21912,
-  "2024-01-02": 21919,
-  "2024-01-03": 21921
+  "2024-01-17": 22007,
+  "date_first_scraped": "2023-06-18",
+  "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
+  "name": "This Is Slim Dusty",
+  "tracks": [
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "A Bad Day's Fishin'",
+      "url": "https://open.spotify.com/track/3PwrVREh5ak8dpX7rqYZ0N"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "A Pub With No Beer - 1979 Version",
+      "url": "https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212853,
+      "name": "Boomaroo Flyer",
+      "url": "https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe"
+    },
+    {
+      "album": {
+        "name": "Slim Dusty Sings Stan Coster",
+        "url": "https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178760,
+      "name": "By A Fire Of Gidgee Coal - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185893,
+      "name": "Charleville - 1998 Remaster",
+      "url": "https://open.spotify.com/track/1dZTsgcWwDKcdqaaov3jnW"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 138960,
+      "name": "Country Revival",
+      "url": "https://open.spotify.com/track/0XBaUOSbvjUJ6bHX5Exlqv"
+    },
+    {
+      "album": {
+        "name": "A Piece of Australia (Remastered)",
+        "url": "https://open.spotify.com/album/3CK418yRkaVxaLHsp8XRLB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132093,
+      "name": "Cunnamulla Fella - 1998 Remaster",
+      "url": "https://open.spotify.com/track/002TGKi4LBwxYodlfWoaN0"
+    },
+    {
+      "album": {
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
+    },
+    {
+      "album": {
+        "name": "Trucks On The Track",
+        "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203666,
+      "name": "Dieseline Dreams",
+      "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155026,
+      "name": "Duncan",
+      "url": "https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj"
+    },
+    {
+      "album": {
+        "name": "Where Country Is",
+        "url": "https://open.spotify.com/album/4aGplOfbNUeAwn1hiAdQVR"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187546,
+      "name": "G'Day Blue",
+      "url": "https://open.spotify.com/track/43A1Y9Z1KRzmR3Oao6uwkt"
+    },
+    {
+      "album": {
+        "name": "G'Day G'Day",
+        "url": "https://open.spotify.com/album/1KTBqz8bscsrmRKGqK3UaC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kate Arneman",
+          "url": "https://open.spotify.com/artist/1KpALiKBK6dbdckzHD2OCK"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190826,
+      "name": "G'Day G'Day",
+      "url": "https://open.spotify.com/track/7s8eyRDMj04XXszU0QUVXs"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Give Me Room",
+      "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+    },
+    {
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162026,
+      "name": "Haulin' For The Double 'T'",
+      "url": "https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Highway Fever - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198586,
+      "name": "I'm Married To My Bulldog Mack - 2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/0wQNp6E0dtrERTq2Jqy3sA"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176066,
+      "name": "Leave Him In The Long Yard",
+      "url": "https://open.spotify.com/track/0D6AKpyrtz8gBLIgPgcnRk"
+    },
+    {
+      "album": {
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Lights On The Hill - Remastered 1992",
+      "url": "https://open.spotify.com/track/2cIKLkNyXliGa1we1FOOJn"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Looking Forward Looking Back",
+      "url": "https://open.spotify.com/track/3yW1XsTXzSorz1AuMwKFUC"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Kasey Chambers",
+          "url": "https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221306,
+      "name": "Matilda No More",
+      "url": "https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM"
+    },
+    {
+      "album": {
+        "name": "Sittin' On 80 (Remastered)",
+        "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195586,
+      "name": "Mechanised Swaggie",
+      "url": "https://open.spotify.com/track/0TJ7R2m1d0bs0H4EZT79Fe"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Never Was At All",
+      "url": "https://open.spotify.com/track/1rqr7YSNxRfHLbotx9lpYP"
+    },
+    {
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150853,
+      "name": "No Good Truckin' Man",
+      "url": "https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j"
+    },
+    {
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174773,
+      "name": "Old Time Country Halls",
+      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Paddy William",
+      "url": "https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193533,
+      "name": "Plains Of Peppimenarti - 1998 Remaster",
+      "url": "https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq"
+    },
+    {
+      "album": {
+        "name": "Lights On The Hill (Remastered)",
+        "url": "https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "The Travelling Country Band",
+          "url": "https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174466,
+      "name": "Pushin' Time - Remastered 1992",
+      "url": "https://open.spotify.com/track/3H9nKLdJjaJLcOj4ChOcVQ"
+    },
+    {
+      "album": {
+        "name": "Ringer From The Top End",
+        "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153266,
+      "name": "Ringer From The Top End",
+      "url": "https://open.spotify.com/track/4MFQc7u01Kpy4GB48SUsDV"
+    },
+    {
+      "album": {
+        "name": "The Son of Noisy Dan",
+        "url": "https://open.spotify.com/album/0bADhBUI8wtRyyftPcEw9h"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176040,
+      "name": "Sittin' On The Old Front Verandah",
+      "url": "https://open.spotify.com/track/0RHonCLjFf9Xsu8dD0Ew4k"
+    },
+    {
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178066,
+      "name": "Some Things Never Change Out Here",
+      "url": "https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h"
+    },
+    {
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240413,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
+    },
+    {
+      "album": {
+        "name": "The Classic Albums - 1960's",
+        "url": "https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 211586,
+      "name": "Somewhere Up In Queensland - 1996 Remaster",
+      "url": "https://open.spotify.com/track/66ynx59GQTrcWnGAn1xafk"
+    },
+    {
+      "album": {
+        "name": "Truck Songs",
+        "url": "https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Star Trucker",
+      "url": "https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB"
+    },
+    {
+      "album": {
+        "name": "Just Slim With Old Friends",
+        "url": "https://open.spotify.com/album/3elqWo7odIDOfzBZMngubH"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-23",
+      "duration_ms": 176546,
+      "name": "That Old Blue Dog Of Mine - 1996 Digital Remaster",
+      "url": "https://open.spotify.com/track/1ugCuL7ZfvjVInz270m0vI"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184866,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/7BXwT7paPEOEGgG8Qj18r2"
+    },
+    {
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/4tAfpE4IepSl8JL7Jyv54z"
+      },
+      "artists": [
+        {
+          "name": "Troy Cassar-Daley",
+          "url": "https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM"
+        },
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "The Biggest Disappointment",
+      "url": "https://open.spotify.com/track/4CzNjmXvCS9v9EqyeQ8lGd"
+    },
+    {
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
+    },
+    {
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249266,
+      "name": "The Man From Iron Bark",
+      "url": "https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y"
+    },
+    {
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463800,
+      "name": "The Man From Snowy River",
+      "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+    },
+    {
+      "album": {
+        "name": "The Classic Albums - 1960's",
+        "url": "https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114266,
+      "name": "The Road To Gundagai - 2004 Remaster",
+      "url": "https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203200,
+      "name": "Three Rivers Hotel",
+      "url": "https://open.spotify.com/track/6etnW9TP1vFYrUP90dgUA9"
+    },
+    {
+      "album": {
+        "name": "Singer From Down Under",
+        "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195400,
+      "name": "Traveller's Prayer - 1996 Remaster",
+      "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
+    },
+    {
+      "album": {
+        "name": "Old Time Drover's Lament",
+        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "Trumby - 1994 Remaster",
+      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
+    },
+    {
+      "album": {
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Under The Spell Of Highway One",
+      "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
+    },
+    {
+      "album": {
+        "name": "Walk A Country Mile",
+        "url": "https://open.spotify.com/album/3sc1AiknncWpdSsemqjhXi"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172493,
+      "name": "Walk A Country Mile",
+      "url": "https://open.spotify.com/track/3KhUgTw3hzDZPwgbpxgIEE"
+    },
+    {
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Waltzing Matilda",
+      "url": "https://open.spotify.com/track/3ES9dBjha6huNi9vHAsQAo"
+    },
+    {
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271133,
+      "name": "We've Done Us Proud",
+      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
+    },
+    {
+      "album": {
+        "name": "No. 50 - The Golden Anniversary Album",
+        "url": "https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "When The Rain Tumbles Down In July - 1979 Version",
+      "url": "https://open.spotify.com/track/5cS4iHrmDZpJWYj2UXQcJe"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229360,
+      "name": "Where Country Is - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB"
+    },
+    {
+      "album": {
+        "name": "Pubs, Trucks & Plains",
+        "url": "https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        },
+        {
+          "name": "Rolf Harris",
+          "url": "https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178306,
+      "name": "Wobbly Boot",
+      "url": "https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0orKRi"
 }

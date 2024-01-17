@@ -212,10 +212,28 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 143173,
       "name": "Bad State",
       "url": "https://open.spotify.com/track/5CiWTX6qSqNtHIAUcRaSmS"
+    },
+    {
+      "album": {
+        "name": "Diagnosis",
+        "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143173,
+      "name": "Bad State",
+      "url": "https://open.spotify.com/track/60HUBKxo7tMHPLbLCEK2XQ"
     },
     {
       "album": {
@@ -1199,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "Girls Night",
+        "url": "https://open.spotify.com/album/5SQMqplTnx2JC1SgNbdPT4"
+      },
+      "artists": [
+        {
+          "name": "Dot.",
+          "url": "https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197095,
+      "name": "Girls Night",
+      "url": "https://open.spotify.com/track/5X5FVp16eymvPgpozLX5Vt"
+    },
+    {
+      "album": {
         "name": "Good Hair Day (Harvey Sutherland Remix)",
         "url": "https://open.spotify.com/album/6Tzr0ct0zPtuUWU5tyFg0B"
       },
@@ -1810,6 +1846,24 @@
       "duration_ms": 323584,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/4WhxZNWqt4rzXf6ctk73CY"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/2PT518qif2NTxvgizAObme"
+      },
+      "artists": [
+        {
+          "name": "Britti",
+          "url": "https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215869,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60"
     },
     {
       "album": {
@@ -2844,10 +2898,28 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 139500,
       "name": "Soon We'll Make It",
       "url": "https://open.spotify.com/track/1aVJfYAryZWDqwa6IOiHzE"
+    },
+    {
+      "album": {
+        "name": "More Better",
+        "url": "https://open.spotify.com/album/4rsrAAeWRTA0FZqJ9eWS3A"
+      },
+      "artists": [
+        {
+          "name": "Cisco Swank",
+          "url": "https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "Soon We'll Make It",
+      "url": "https://open.spotify.com/track/2QA97SRId1uFVmiJljRkHH"
     },
     {
       "album": {

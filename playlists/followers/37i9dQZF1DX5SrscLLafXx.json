@@ -1,735 +1,959 @@
 {
-  "2021-12-25": 284637,
-  "2021-12-26": 284697,
-  "2021-12-27": 284832,
-  "2021-12-28": 284833,
-  "2021-12-29": 284909,
-  "2021-12-30": 284973,
-  "2021-12-31": 285026,
-  "2022-01-01": 285124,
-  "2022-01-02": 285128,
-  "2022-01-03": 285154,
-  "2022-01-04": 285222,
-  "2022-01-05": 285259,
-  "2022-01-06": 285317,
-  "2022-01-07": 285378,
-  "2022-01-08": 285498,
-  "2022-01-09": 285500,
-  "2022-01-10": 285561,
-  "2022-01-11": 285615,
-  "2022-01-12": 285653,
-  "2022-01-13": 285675,
-  "2022-01-14": 285754,
-  "2022-01-15": 285877,
-  "2022-01-16": 285889,
-  "2022-01-17": 286027,
-  "2022-01-18": 286037,
-  "2022-01-19": 286073,
-  "2022-01-20": 286122,
-  "2022-01-21": 286166,
-  "2022-01-22": 286227,
-  "2022-01-23": 286305,
-  "2022-01-24": 286395,
-  "2022-01-25": 286454,
-  "2022-01-26": 286514,
-  "2022-01-27": 286577,
-  "2022-01-28": 286649,
-  "2022-01-29": 286719,
-  "2022-01-30": 286782,
-  "2022-01-31": 286849,
-  "2022-02-01": 286902,
-  "2022-02-02": 286966,
-  "2022-02-03": 287039,
-  "2022-02-04": 287085,
-  "2022-02-05": 287133,
-  "2022-02-06": 287219,
-  "2022-02-07": 287310,
-  "2022-02-08": 287369,
-  "2022-02-09": 287445,
-  "2022-02-10": 287506,
-  "2022-02-11": 287560,
-  "2022-02-12": 287653,
-  "2022-02-13": 287715,
-  "2022-02-14": 287792,
-  "2022-02-15": 287864,
-  "2022-02-16": 287925,
-  "2022-02-17": 287982,
-  "2022-02-18": 288036,
-  "2022-02-19": 288095,
-  "2022-02-20": 288162,
-  "2022-02-21": 288236,
-  "2022-02-22": 288284,
-  "2022-02-23": 288334,
-  "2022-02-24": 288381,
-  "2022-02-25": 288428,
-  "2022-02-26": 288491,
-  "2022-02-27": 288579,
-  "2022-02-28": 288579,
-  "2022-03-01": 288628,
-  "2022-03-02": 288671,
-  "2022-03-03": 288734,
-  "2022-03-04": 288789,
-  "2022-03-05": 288875,
-  "2022-03-06": 288920,
-  "2022-03-07": 288987,
-  "2022-03-08": 289033,
-  "2022-03-09": 289078,
-  "2022-03-10": 289137,
-  "2022-03-11": 289185,
-  "2022-03-12": 289222,
-  "2022-03-13": 289283,
-  "2022-03-14": 289331,
-  "2022-03-15": 289394,
-  "2022-03-16": 289451,
-  "2022-03-17": 289492,
-  "2022-03-18": 289588,
-  "2022-03-19": 289634,
-  "2022-03-20": 289634,
-  "2022-03-21": 289741,
-  "2022-03-22": 289793,
-  "2022-03-23": 289831,
-  "2022-03-24": 289900,
-  "2022-03-25": 289971,
-  "2022-03-26": 290025,
-  "2022-03-27": 290108,
-  "2022-03-28": 290166,
-  "2022-03-30": 290261,
-  "2022-03-31": 290289,
-  "2022-04-01": 290325,
-  "2022-04-02": 290378,
-  "2022-04-03": 290448,
-  "2022-04-04": 290494,
-  "2022-04-05": 290531,
-  "2022-04-06": 290577,
-  "2022-04-07": 290619,
-  "2022-04-08": 290657,
-  "2022-04-09": 290683,
-  "2022-04-10": 290809,
-  "2022-04-11": 290859,
-  "2022-04-12": 290857,
-  "2022-04-13": 290925,
-  "2022-04-14": 290958,
-  "2022-04-15": 291011,
-  "2022-04-16": 291076,
-  "2022-04-17": 291156,
-  "2022-04-18": 291230,
-  "2022-04-19": 291275,
-  "2022-04-20": 291299,
-  "2022-04-21": 291350,
-  "2022-04-22": 291399,
-  "2022-04-23": 291461,
-  "2022-04-24": 291518,
-  "2022-04-25": 291574,
-  "2022-04-26": 291643,
-  "2022-04-27": 291743,
-  "2022-04-28": 291800,
-  "2022-04-29": 291884,
-  "2022-04-30": 291937,
-  "2022-05-01": 292034,
-  "2022-05-02": 292034,
-  "2022-05-03": 292080,
-  "2022-05-04": 292135,
-  "2022-05-05": 292185,
-  "2022-05-06": 292229,
-  "2022-05-07": 292301,
-  "2022-05-08": 292434,
-  "2022-05-09": 292444,
-  "2022-05-10": 292484,
-  "2022-05-11": 292502,
-  "2022-05-12": 292544,
-  "2022-05-13": 292574,
-  "2022-05-14": 292611,
-  "2022-05-15": 292663,
-  "2022-05-16": 292699,
-  "2022-05-17": 292742,
-  "2022-05-18": 292766,
-  "2022-05-19": 292806,
-  "2022-05-20": 292839,
-  "2022-05-21": 292924,
-  "2022-05-22": 292924,
-  "2022-05-23": 292968,
-  "2022-05-24": 293003,
-  "2022-05-25": 293038,
-  "2022-05-26": 293068,
-  "2022-05-27": 293115,
-  "2022-05-28": 293162,
-  "2022-05-29": 293213,
-  "2022-05-30": 293253,
-  "2022-05-31": 293291,
-  "2022-06-01": 293368,
-  "2022-06-02": 293370,
-  "2022-06-03": 293402,
-  "2022-06-04": 293430,
-  "2022-06-05": 293476,
-  "2022-06-06": 293531,
-  "2022-06-07": 293574,
-  "2022-06-08": 293592,
-  "2022-06-09": 293609,
-  "2022-06-10": 293641,
-  "2022-06-11": 293654,
-  "2022-06-12": 293706,
-  "2022-06-13": 293737,
-  "2022-06-14": 293764,
-  "2022-06-15": 293795,
-  "2022-06-16": 293820,
-  "2022-06-17": 293853,
-  "2022-06-18": 293865,
-  "2022-06-19": 293957,
-  "2022-06-20": 293957,
-  "2022-06-21": 293984,
-  "2022-06-22": 294035,
-  "2022-06-23": 294035,
-  "2022-06-24": 294069,
-  "2022-06-25": 294115,
-  "2022-06-26": 294166,
-  "2022-06-27": 294166,
-  "2022-06-28": 294242,
-  "2022-06-29": 294242,
-  "2022-06-30": 294242,
-  "2022-07-01": 294242,
-  "2022-07-02": 294242,
-  "2022-07-03": 294242,
-  "2022-07-04": 294242,
-  "2022-07-05": 294242,
-  "2022-07-06": 294242,
-  "2022-07-07": 294242,
-  "2022-07-08": 294242,
-  "2022-07-09": 294242,
-  "2022-07-10": 294242,
-  "2022-07-11": 294242,
-  "2022-07-12": 294242,
-  "2022-07-13": 294242,
-  "2022-07-14": 294242,
-  "2022-07-15": 294242,
-  "2022-07-16": 294242,
-  "2022-07-17": 294242,
-  "2022-07-18": 294242,
-  "2022-07-19": 294242,
-  "2022-07-20": 294242,
-  "2022-07-21": 294242,
-  "2022-07-22": 294242,
-  "2022-07-23": 294242,
-  "2022-07-24": 294242,
-  "2022-07-25": 294242,
-  "2022-07-26": 294242,
-  "2022-07-27": 294242,
-  "2022-07-28": 294242,
-  "2022-07-29": 294242,
-  "2022-07-30": 294242,
-  "2022-07-31": 294242,
-  "2022-08-01": 294242,
-  "2022-08-02": 294242,
-  "2022-08-03": 294242,
-  "2022-08-04": 294242,
-  "2022-08-05": 294242,
-  "2022-08-06": 294242,
-  "2022-08-07": 294242,
-  "2022-08-08": 294242,
-  "2022-08-09": 294242,
-  "2022-08-10": 294242,
-  "2022-08-11": 294242,
-  "2022-08-12": 294242,
-  "2022-08-13": 294242,
-  "2022-08-14": 294242,
-  "2022-08-15": 294242,
-  "2022-08-16": 294242,
-  "2022-08-17": 294242,
-  "2022-08-18": 294242,
-  "2022-08-19": 294242,
-  "2022-08-20": 294242,
-  "2022-08-21": 294242,
-  "2022-08-22": 294242,
-  "2022-08-23": 294242,
-  "2022-08-24": 294242,
-  "2022-08-25": 294242,
-  "2022-08-26": 294242,
-  "2022-08-27": 294242,
-  "2022-08-28": 294242,
-  "2022-08-29": 294242,
-  "2022-08-30": 294242,
-  "2022-08-31": 294242,
-  "2022-09-01": 294242,
-  "2022-09-02": 294242,
-  "2022-09-03": 294242,
-  "2022-09-04": 294242,
-  "2022-09-05": 294242,
-  "2022-09-06": 294242,
-  "2022-09-07": 294242,
-  "2022-09-09": 294242,
-  "2022-09-10": 294242,
-  "2022-09-11": 294242,
-  "2022-09-12": 294242,
-  "2022-09-13": 294242,
-  "2022-09-15": 294242,
-  "2022-09-16": 294242,
-  "2022-09-17": 294242,
-  "2022-09-18": 294242,
-  "2022-09-19": 294242,
-  "2022-09-20": 294242,
-  "2022-09-21": 294242,
-  "2022-09-22": 294242,
-  "2022-09-23": 294242,
-  "2022-09-24": 294242,
-  "2022-09-25": 294242,
-  "2022-09-26": 294242,
-  "2022-09-27": 294242,
-  "2022-09-28": 294242,
-  "2022-09-29": 294242,
-  "2022-09-30": 294242,
-  "2022-10-01": 294242,
-  "2022-10-02": 294242,
-  "2022-10-03": 294242,
-  "2022-10-04": 294242,
-  "2022-10-05": 294242,
-  "2022-10-06": 294242,
-  "2022-10-07": 294242,
-  "2022-10-08": 294242,
-  "2022-10-09": 294242,
-  "2022-10-10": 294242,
-  "2022-10-11": 294242,
-  "2022-10-12": 294242,
-  "2022-10-13": 294242,
-  "2022-10-14": 294242,
-  "2022-10-15": 294242,
-  "2022-10-16": 294242,
-  "2022-10-17": 294242,
-  "2022-10-18": 294242,
-  "2022-10-19": 294242,
-  "2022-10-20": 294242,
-  "2022-10-21": 294242,
-  "2022-10-22": 294242,
-  "2022-10-23": 294242,
-  "2022-10-24": 294242,
-  "2022-10-25": 294242,
-  "2022-10-26": 294242,
-  "2022-10-27": 294242,
-  "2022-10-28": 294242,
-  "2022-10-29": 294242,
-  "2022-10-30": 294242,
-  "2022-10-31": 294242,
-  "2022-11-01": 294242,
-  "2022-11-02": 294242,
-  "2022-11-03": 294242,
-  "2022-11-04": 294242,
-  "2022-11-05": 294242,
-  "2022-11-06": 294242,
-  "2022-11-07": 294242,
-  "2022-11-08": 294242,
-  "2022-11-09": 294242,
-  "2022-11-10": 294242,
-  "2022-11-11": 294242,
-  "2022-11-12": 294242,
-  "2022-11-13": 294242,
-  "2022-11-14": 294242,
-  "2022-11-15": 294242,
-  "2022-11-16": 294242,
-  "2022-11-17": 294242,
-  "2022-11-18": 294242,
-  "2022-11-19": 294242,
-  "2022-11-20": 294242,
-  "2022-11-21": 294242,
-  "2022-11-22": 294242,
-  "2022-11-23": 294242,
-  "2022-11-24": 294242,
-  "2022-11-25": 294242,
-  "2022-11-26": 294242,
-  "2022-11-27": 294242,
-  "2022-11-28": 294242,
-  "2022-11-29": 294242,
-  "2022-11-30": 294242,
-  "2022-12-01": 294242,
-  "2022-12-02": 294242,
-  "2022-12-03": 294242,
-  "2022-12-04": 294242,
-  "2022-12-05": 294242,
-  "2022-12-06": 294242,
-  "2022-12-07": 294242,
-  "2022-12-08": 294242,
-  "2022-12-09": 294242,
-  "2022-12-10": 294242,
-  "2022-12-11": 294242,
-  "2022-12-12": 294242,
-  "2022-12-13": 294242,
-  "2022-12-14": 294242,
-  "2022-12-15": 294242,
-  "2022-12-16": 294242,
-  "2022-12-17": 294242,
-  "2022-12-18": 294242,
-  "2022-12-19": 294242,
-  "2022-12-20": 294242,
-  "2022-12-21": 294242,
-  "2022-12-22": 294242,
-  "2022-12-24": 294242,
-  "2022-12-25": 294242,
-  "2022-12-26": 294242,
-  "2022-12-27": 294242,
-  "2022-12-28": 294242,
-  "2022-12-29": 294242,
-  "2022-12-30": 294242,
-  "2022-12-31": 294242,
-  "2023-01-01": 294242,
-  "2023-01-02": 294242,
-  "2023-01-03": 294242,
-  "2023-01-04": 294242,
-  "2023-01-05": 294242,
-  "2023-01-06": 294242,
-  "2023-01-07": 294242,
-  "2023-01-08": 294242,
-  "2023-01-09": 294242,
-  "2023-01-10": 294242,
-  "2023-01-11": 294242,
-  "2023-01-12": 294242,
-  "2023-01-13": 294242,
-  "2023-01-14": 294242,
-  "2023-01-15": 294242,
-  "2023-01-16": 294242,
-  "2023-01-17": 294242,
-  "2023-01-18": 294242,
-  "2023-01-19": 294242,
-  "2023-01-20": 294242,
-  "2023-01-21": 294242,
-  "2023-01-22": 294242,
-  "2023-01-23": 294242,
-  "2023-01-24": 294242,
-  "2023-01-25": 294242,
-  "2023-01-26": 294242,
-  "2023-01-27": 294242,
-  "2023-01-28": 294242,
-  "2023-01-29": 294242,
-  "2023-01-30": 294242,
-  "2023-01-31": 294242,
-  "2023-02-01": 294242,
-  "2023-02-02": 294242,
-  "2023-02-03": 294242,
-  "2023-02-04": 294242,
-  "2023-02-05": 294242,
-  "2023-02-06": 294242,
-  "2023-02-07": 294242,
-  "2023-02-08": 294242,
-  "2023-02-09": 294242,
-  "2023-02-10": 294242,
-  "2023-02-11": 294242,
-  "2023-02-12": 294242,
-  "2023-02-13": 294242,
-  "2023-02-14": 294242,
-  "2023-02-15": 294242,
-  "2023-02-16": 294242,
-  "2023-02-17": 294242,
-  "2023-02-18": 294242,
-  "2023-02-19": 294242,
-  "2023-02-20": 294242,
-  "2023-02-21": 294242,
-  "2023-02-22": 294242,
-  "2023-02-23": 294242,
-  "2023-02-24": 294242,
-  "2023-02-25": 294242,
-  "2023-02-26": 294242,
-  "2023-02-27": 294242,
-  "2023-02-28": 294242,
-  "2023-03-01": 294242,
-  "2023-03-02": 294242,
-  "2023-03-03": 294242,
-  "2023-03-04": 294242,
-  "2023-03-05": 294242,
-  "2023-03-06": 294242,
-  "2023-03-07": 294242,
-  "2023-03-08": 294242,
-  "2023-03-09": 294242,
-  "2023-03-10": 294242,
-  "2023-03-11": 294242,
-  "2023-03-12": 294242,
-  "2023-03-13": 294242,
-  "2023-03-14": 294242,
-  "2023-03-15": 294242,
-  "2023-03-16": 294242,
-  "2023-03-17": 294242,
-  "2023-03-18": 294242,
-  "2023-03-19": 294242,
-  "2023-03-20": 294242,
-  "2023-03-21": 294242,
-  "2023-03-22": 294242,
-  "2023-03-23": 294242,
-  "2023-03-24": 294242,
-  "2023-03-25": 294242,
-  "2023-03-26": 294242,
-  "2023-03-27": 294242,
-  "2023-03-28": 294242,
-  "2023-03-29": 294242,
-  "2023-03-30": 294242,
-  "2023-03-31": 294242,
-  "2023-04-01": 294242,
-  "2023-04-02": 294242,
-  "2023-04-03": 294242,
-  "2023-04-04": 294242,
-  "2023-04-05": 294242,
-  "2023-04-06": 294242,
-  "2023-04-07": 294242,
-  "2023-04-09": 294242,
-  "2023-04-10": 294242,
-  "2023-04-11": 294242,
-  "2023-04-12": 294242,
-  "2023-04-13": 294242,
-  "2023-04-14": 294242,
-  "2023-04-15": 294242,
-  "2023-04-16": 294242,
-  "2023-04-17": 294242,
-  "2023-04-18": 294242,
-  "2023-04-19": 294242,
-  "2023-04-20": 294242,
-  "2023-04-21": 294242,
-  "2023-04-22": 294242,
-  "2023-04-23": 294242,
-  "2023-04-24": 294242,
-  "2023-04-25": 294242,
-  "2023-04-26": 294242,
-  "2023-04-27": 294242,
-  "2023-04-28": 294242,
-  "2023-04-29": 294242,
-  "2023-04-30": 294242,
-  "2023-05-01": 294242,
-  "2023-05-02": 294242,
-  "2023-05-03": 294242,
-  "2023-05-04": 294242,
-  "2023-05-05": 294242,
-  "2023-05-06": 294242,
-  "2023-05-07": 294242,
-  "2023-05-08": 294242,
-  "2023-05-09": 294242,
-  "2023-05-10": 294242,
-  "2023-05-11": 294242,
-  "2023-05-12": 294242,
-  "2023-05-13": 294242,
-  "2023-05-14": 294242,
-  "2023-05-15": 294242,
-  "2023-05-16": 294242,
-  "2023-05-17": 294242,
-  "2023-05-18": 294242,
-  "2023-05-19": 294242,
-  "2023-05-20": 294242,
-  "2023-05-21": 294242,
-  "2023-05-22": 294242,
-  "2023-05-23": 294242,
-  "2023-05-24": 294242,
-  "2023-05-25": 294242,
-  "2023-05-26": 294242,
-  "2023-05-27": 294242,
-  "2023-05-28": 294242,
-  "2023-05-29": 294242,
-  "2023-05-30": 294242,
-  "2023-05-31": 294242,
-  "2023-06-01": 294242,
-  "2023-06-02": 294242,
-  "2023-06-03": 294242,
-  "2023-06-04": 294242,
-  "2023-06-05": 294242,
-  "2023-06-06": 294242,
-  "2023-06-07": 294242,
-  "2023-06-08": 294242,
-  "2023-06-09": 294242,
-  "2023-06-10": 294242,
-  "2023-06-11": 294242,
-  "2023-06-12": 294242,
-  "2023-06-13": 294242,
-  "2023-06-14": 294242,
-  "2023-06-15": 294242,
-  "2023-06-16": 294242,
-  "2023-06-17": 294242,
-  "2023-06-18": 294242,
-  "2023-06-19": 294242,
-  "2023-06-20": 294242,
-  "2023-06-21": 294242,
-  "2023-06-22": 294242,
-  "2023-06-23": 294242,
-  "2023-06-24": 294242,
-  "2023-06-25": 294242,
-  "2023-06-26": 294242,
-  "2023-06-27": 294242,
-  "2023-06-28": 294242,
-  "2023-06-29": 294242,
-  "2023-06-30": 294242,
-  "2023-07-01": 294242,
-  "2023-07-02": 294242,
-  "2023-07-03": 294242,
-  "2023-07-04": 294242,
-  "2023-07-05": 294242,
-  "2023-07-06": 294242,
-  "2023-07-07": 294242,
-  "2023-07-08": 294242,
-  "2023-07-09": 294242,
-  "2023-07-10": 294242,
-  "2023-07-11": 294242,
-  "2023-07-12": 294242,
-  "2023-07-13": 294242,
-  "2023-07-14": 294242,
-  "2023-07-15": 294242,
-  "2023-07-16": 294242,
-  "2023-07-17": 294242,
-  "2023-07-18": 294242,
-  "2023-07-19": 294242,
-  "2023-07-20": 294242,
-  "2023-07-21": 294242,
-  "2023-07-22": 294242,
-  "2023-07-23": 294242,
-  "2023-07-24": 294242,
-  "2023-07-25": 294242,
-  "2023-07-26": 294242,
-  "2023-07-27": 294242,
-  "2023-07-28": 294242,
-  "2023-07-29": 294242,
-  "2023-07-30": 294242,
-  "2023-07-31": 294242,
-  "2023-08-01": 294242,
-  "2023-08-02": 294242,
-  "2023-08-03": 294242,
-  "2023-08-04": 294242,
-  "2023-08-05": 294242,
-  "2023-08-06": 294242,
-  "2023-08-07": 294242,
-  "2023-08-08": 294242,
-  "2023-08-09": 294242,
-  "2023-08-10": 294242,
-  "2023-08-11": 294242,
-  "2023-08-12": 294242,
-  "2023-08-13": 294242,
-  "2023-08-14": 294242,
-  "2023-08-15": 294242,
-  "2023-08-16": 294242,
-  "2023-08-17": 294242,
-  "2023-08-18": 294242,
-  "2023-08-19": 294242,
-  "2023-08-20": 294242,
-  "2023-08-21": 294242,
-  "2023-08-22": 294242,
-  "2023-08-23": 294242,
-  "2023-08-24": 294242,
-  "2023-08-25": 294242,
-  "2023-08-26": 294242,
-  "2023-08-27": 294242,
-  "2023-08-28": 294242,
-  "2023-08-29": 294242,
-  "2023-08-30": 294242,
-  "2023-08-31": 294242,
-  "2023-09-01": 294242,
-  "2023-09-02": 294242,
-  "2023-09-03": 294242,
-  "2023-09-04": 294242,
-  "2023-09-05": 294242,
-  "2023-09-06": 294242,
-  "2023-09-07": 294242,
-  "2023-09-08": 294242,
-  "2023-09-09": 294242,
-  "2023-09-10": 294242,
-  "2023-09-11": 294242,
-  "2023-09-12": 294242,
-  "2023-09-13": 294242,
-  "2023-09-14": 294242,
-  "2023-09-15": 294242,
-  "2023-09-16": 294242,
-  "2023-09-17": 294242,
-  "2023-09-18": 294242,
-  "2023-09-19": 294242,
-  "2023-09-20": 294242,
-  "2023-09-21": 294242,
-  "2023-09-22": 294242,
-  "2023-09-23": 294242,
-  "2023-09-24": 294242,
-  "2023-09-25": 294242,
-  "2023-09-26": 294242,
-  "2023-09-27": 294242,
-  "2023-09-28": 294242,
-  "2023-09-29": 294242,
-  "2023-09-30": 294242,
-  "2023-10-01": 294242,
-  "2023-10-02": 294242,
-  "2023-10-03": 294242,
-  "2023-10-04": 294242,
-  "2023-10-05": 294242,
-  "2023-10-06": 294242,
-  "2023-10-07": 294242,
-  "2023-10-08": 294242,
-  "2023-10-09": 294242,
-  "2023-10-10": 294242,
-  "2023-10-11": 294242,
-  "2023-10-12": 294242,
-  "2023-10-13": 294242,
-  "2023-10-14": 294242,
-  "2023-10-15": 294242,
-  "2023-10-16": 294242,
-  "2023-10-17": 294242,
-  "2023-10-18": 294242,
-  "2023-10-19": 294242,
-  "2023-10-20": 294242,
-  "2023-10-21": 294242,
-  "2023-10-22": 294242,
-  "2023-10-23": 294242,
-  "2023-10-24": 294242,
-  "2023-10-25": 294242,
-  "2023-10-26": 294242,
-  "2023-10-27": 294242,
-  "2023-10-28": 294242,
-  "2023-10-29": 294242,
-  "2023-10-30": 294242,
-  "2023-10-31": 294242,
-  "2023-11-01": 294242,
-  "2023-11-02": 294242,
-  "2023-11-03": 294242,
-  "2023-11-04": 294242,
-  "2023-11-05": 294242,
-  "2023-11-06": 294242,
-  "2023-11-07": 294242,
-  "2023-11-08": 294242,
-  "2023-11-09": 294242,
-  "2023-11-10": 294242,
-  "2023-11-11": 294242,
-  "2023-11-12": 294242,
-  "2023-11-13": 294242,
-  "2023-11-14": 294242,
-  "2023-11-15": 294242,
-  "2023-11-16": 294242,
-  "2023-11-17": 294242,
-  "2023-11-18": 294242,
-  "2023-11-19": 294242,
-  "2023-11-20": 294242,
-  "2023-11-21": 294242,
-  "2023-11-22": 294242,
-  "2023-11-23": 294242,
-  "2023-11-24": 294242,
-  "2023-11-25": 294242,
-  "2023-11-26": 294242,
-  "2023-11-27": 294242,
-  "2023-11-28": 294242,
-  "2023-11-29": 294242,
-  "2023-11-30": 294242,
-  "2023-12-01": 294242,
-  "2023-12-02": 294242,
-  "2023-12-03": 294242,
-  "2023-12-04": 294242,
-  "2023-12-05": 294242,
-  "2023-12-06": 294242,
-  "2023-12-07": 294242,
-  "2023-12-08": 294242,
-  "2023-12-09": 294242,
-  "2023-12-10": 294242,
-  "2023-12-11": 294242,
-  "2023-12-12": 294242,
-  "2023-12-13": 294242,
-  "2023-12-14": 294242,
-  "2023-12-15": 294242,
-  "2023-12-16": 294242,
-  "2023-12-17": 294242,
-  "2023-12-18": 294242,
-  "2023-12-19": 294242,
-  "2023-12-20": 294242,
-  "2023-12-21": 294242,
-  "2023-12-22": 294242,
-  "2023-12-23": 294242,
-  "2023-12-24": 294242,
-  "2023-12-25": 294242,
-  "2023-12-26": 294242,
-  "2023-12-27": 294242,
-  "2023-12-30": 294242,
-  "2023-12-31": 294242,
-  "2024-01-01": 294242,
-  "2024-01-02": 294242,
-  "2024-01-03": 294242
+  "2024-01-17": 294242,
+  "date_first_scraped": "2021-12-21",
+  "description": "Ah, Paris. It's easy to see why it's called the city of love.",
+  "name": "Love In Paris",
+  "tracks": [
+    {
+      "album": {
+        "name": "Ferrat chante Aragon, l'int\u00e9grale",
+        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141106,
+      "name": "Aimer \u00e0 perdre la raison",
+      "url": "https://open.spotify.com/track/0Ag2xi0475usibWK9xy2HL"
+    },
+    {
+      "album": {
+        "name": "Aline",
+        "url": "https://open.spotify.com/album/0R5sCENJleZp9oxN9JcXgR"
+      },
+      "artists": [
+        {
+          "name": "Christophe",
+          "url": "https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169946,
+      "name": "Aline",
+      "url": "https://open.spotify.com/track/1N4ixxhbBH1ClnPdTTsRzz"
+    },
+    {
+      "album": {
+        "name": "Amoureuse",
+        "url": "https://open.spotify.com/album/7i4xZ7pSzpp5zB1EcJinIg"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Amoureuse",
+      "url": "https://open.spotify.com/track/2l92zwWev2aUbbGKEqpHw6"
+    },
+    {
+      "album": {
+        "name": "Les plus grandes chansons",
+        "url": "https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh"
+      },
+      "artists": [
+        {
+          "name": "Richard Anthony",
+          "url": "https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163320,
+      "name": "Amoureux de ma femme",
+      "url": "https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee"
+    },
+    {
+      "album": {
+        "name": "Notre Dame de Paris - Studio",
+        "url": "https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lavoie",
+          "url": "https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM"
+        },
+        {
+          "name": "Patrick Fiori",
+          "url": "https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq"
+        },
+        {
+          "name": "Garou",
+          "url": "https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277786,
+      "name": "Belle (with Patrick Fiori & Garou)",
+      "url": "https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg"
+    },
+    {
+      "album": {
+        "name": "Besoin De Rien, Envie De Toi",
+        "url": "https://open.spotify.com/album/6KHWQW2tGc64o6y7YA79nF"
+      },
+      "artists": [
+        {
+          "name": "Peter & Sloane",
+          "url": "https://open.spotify.com/artist/6REk440jiYtbGdIyi2BjuV"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222440,
+      "name": "Besoin de rien, envie de toi",
+      "url": "https://open.spotify.com/track/2xwJmtyYt3tJNl4Ql9DmmW"
+    },
+    {
+      "album": {
+        "name": "C'Est Extra",
+        "url": "https://open.spotify.com/album/7jwANC9B4cK7woNhwNKKxA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226093,
+      "name": "C'est extra",
+      "url": "https://open.spotify.com/track/6UANIFJUTSA77swvaACv8P"
+    },
+    {
+      "album": {
+        "name": "La Chansonnette",
+        "url": "https://open.spotify.com/album/6tuqJfnEEUt2dq013aC4r4"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214800,
+      "name": "C'est Si Bon",
+      "url": "https://open.spotify.com/track/410cmT6Q5GQRG3bYczDw7c"
+    },
+    {
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295426,
+      "name": "Comme Ils Disent",
+      "url": "https://open.spotify.com/track/422kCwhe9nDgNDcYHdmsEl"
+    },
+    {
+      "album": {
+        "name": "Comment te dire adieu ?",
+        "url": "https://open.spotify.com/album/5lX198dectE8fpkow4UXrf"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146333,
+      "name": "Comment te dire adieu - It Hurts to Say Goodbye",
+      "url": "https://open.spotify.com/track/29GuoJqjg7aMxUmEO3XLEp"
+    },
+    {
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
+    },
+    {
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
+    },
+    {
+      "album": {
+        "name": "1950 Greatest Hits",
+        "url": "https://open.spotify.com/album/50JIabzQ2eJozxN1sdcLcn"
+      },
+      "artists": [
+        {
+          "name": "Fabrice Pr\u00e9jan et Cercle d' Amis",
+          "url": "https://open.spotify.com/artist/0lztWTMGqmJ1EvloqVExuX"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201653,
+      "name": "Hymne \u00e0 L'amour",
+      "url": "https://open.spotify.com/track/5XlQFVHD7HUCkZcwDVxFhA"
+    },
+    {
+      "album": {
+        "name": "40 succ\u00e8s en or",
+        "url": "https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN"
+    },
+    {
+      "album": {
+        "name": "D'Eux",
+        "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273133,
+      "name": "Je sais pas",
+      "url": "https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO"
+    },
+    {
+      "album": {
+        "name": "Je Suis Malade",
+        "url": "https://open.spotify.com/album/6TdQpl3zNMInvcyJLrkBM0"
+      },
+      "artists": [
+        {
+          "name": "Serge Lama",
+          "url": "https://open.spotify.com/artist/3fR5PRhFohNbxEXDE69pUz"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249826,
+      "name": "Je suis malade",
+      "url": "https://open.spotify.com/track/4Qzdktws811tv59fMf7CBz"
+    },
+    {
+      "album": {
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
+    },
+    {
+      "album": {
+        "name": "Bubble Gum (Vol. 2)",
+        "url": "https://open.spotify.com/album/2OMk77L7S7Fprc3LFmx3l0"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        },
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-04",
+      "duration_ms": 270506,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/6cW2O9dKdUwHnemwlbfoEo"
+    },
+    {
+      "album": {
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
+    },
+    {
+      "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/6AzbqBv06i1Et6IR84yfEr"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/1nazrrUvlyrT5ZiOe6c6ih"
+    },
+    {
+      "album": {
+        "name": "L'amour, l'amour, l'amour - Le meilleur de Mouloudji",
+        "url": "https://open.spotify.com/album/1B1HpA7dQsnlhub9eiFIgo"
+      },
+      "artists": [
+        {
+          "name": "Mouloudji",
+          "url": "https://open.spotify.com/artist/4pZgpCHvAI14ug9dSfxTjp"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "L'amour l'amour l'amour",
+      "url": "https://open.spotify.com/track/7jVHD6NiChZGX887WrNBrH"
+    },
+    {
+      "album": {
+        "name": "Sacha Distel: Crooner",
+        "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
+      },
+      "artists": [
+        {
+          "name": "Sacha Distel",
+          "url": "https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123053,
+      "name": "La belle vie",
+      "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "album": {
+        "name": "Ballades Et Mots D'Amour",
+        "url": "https://open.spotify.com/album/48xkCpQACHieRXdeGyEAwn"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "La chanson des vieux amants",
+      "url": "https://open.spotify.com/track/2UE1LplKFZwAQmDOMd2I5n"
+    },
+    {
+      "album": {
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+      },
+      "artists": [
+        {
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
+    },
+    {
+      "album": {
+        "name": "La Maladie D'Amour",
+        "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
+      },
+      "artists": [
+        {
+          "name": "Michel Sardou",
+          "url": "https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210186,
+      "name": "La maladie d'amour",
+      "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
+    },
+    {
+      "album": {
+        "name": "La Tendresse",
+        "url": "https://open.spotify.com/album/62fCLH9ZfHhjmUcsJApxUo"
+      },
+      "artists": [
+        {
+          "name": "Daniel Guichard",
+          "url": "https://open.spotify.com/artist/0lFr08kPxkwkXfsrHSmPvs"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139760,
+      "name": "La tendresse",
+      "url": "https://open.spotify.com/track/2fHAMs5LaNXB4zYfujV9uP"
+    },
+    {
+      "album": {
+        "name": "20eme anniversaire",
+        "url": "https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203093,
+      "name": "Laisse moi t'aimer",
+      "url": "https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS"
+    },
+    {
+      "album": {
+        "name": "Le Chasseur",
+        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Le chasseur",
+      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
+    },
+    {
+      "album": {
+        "name": "Ferrat chante Aragon, l'int\u00e9grale",
+        "url": "https://open.spotify.com/album/7uupYuSgYXHP2DpI2ERIfA"
+      },
+      "artists": [
+        {
+          "name": "Jean Ferrat",
+          "url": "https://open.spotify.com/artist/4GAdDePOvBsOl3n3nVHWpt"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164506,
+      "name": "Le malheur d'aimer",
+      "url": "https://open.spotify.com/track/59EBicHdiCFvth8PNaGzc4"
+    },
+    {
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144826,
+      "name": "Le temps de l'amour",
+      "url": "https://open.spotify.com/track/6rqUOLt9dpfMANLMKTzoWj"
+    },
+    {
+      "album": {
+        "name": "Le tourbillon de ma vie (Best Of 2017)",
+        "url": "https://open.spotify.com/album/6gRQtl64VsWWTh26IuNoGP"
+      },
+      "artists": [
+        {
+          "name": "Jeanne Moreau",
+          "url": "https://open.spotify.com/artist/3rbOOc4VJ3BFxQXKppOuQP"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126960,
+      "name": "Le tourbillon",
+      "url": "https://open.spotify.com/track/0ZRnvyA5MxbgTCfWRw3YU4"
+    },
+    {
+      "album": {
+        "name": "Le mal aim\u00e9 / Le t\u00e9l\u00e9phone pleure",
+        "url": "https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9rique",
+          "url": "https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245493,
+      "name": "Le t\u00e9l\u00e9phone pleure",
+      "url": "https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD"
+    },
+    {
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+    },
+    {
+      "album": {
+        "name": "Les Champs-\u00c8lys\u00e9es",
+        "url": "https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157626,
+      "name": "Les Champs-Elys\u00e9es",
+      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz"
+    },
+    {
+      "album": {
+        "name": "Wilson chante Montand",
+        "url": "https://open.spotify.com/album/2hnfEWDPsFGtW5MxrFWr45"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kosma",
+          "url": "https://open.spotify.com/artist/0Fb7u2KBJ3anw54Qs7Oh0Y"
+        },
+        {
+          "name": "Lambert Wilson",
+          "url": "https://open.spotify.com/artist/1oolJ3Y3tlf3Qxky7dGl2I"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338653,
+      "name": "Les feuilles mortes",
+      "url": "https://open.spotify.com/track/75ufjSlHcHcWBUbIrCHecp"
+    },
+    {
+      "album": {
+        "name": "Enzo Enzo",
+        "url": "https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3"
+      },
+      "artists": [
+        {
+          "name": "Enzo Enzo",
+          "url": "https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208200,
+      "name": "Les yeux ouverts",
+      "url": "https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe"
+    },
+    {
+      "album": {
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
+      },
+      "artists": [
+        {
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "album": {
+        "name": "L'Int\u00e9grale Des Albums Studio",
+        "url": "https://open.spotify.com/album/45fQviu3NFQcpi21hz4rBt"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290200,
+      "name": "Ma plus belle histoire d'amour",
+      "url": "https://open.spotify.com/track/3c0DRhn53wHSNzwcTCOQOd"
+    },
+    {
+      "album": {
+        "name": "Di Doo Dah",
+        "url": "https://open.spotify.com/album/7wERv90J8MOPA3Jc7f6WHZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "Mon amour baiser",
+      "url": "https://open.spotify.com/track/1tvRa7gV3YxU84SB2eYa9e"
+    },
+    {
+      "album": {
+        "name": "1966-1968",
+        "url": "https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF"
+      },
+      "artists": [
+        {
+          "name": "Marie Lafor\u00eat",
+          "url": "https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138520,
+      "name": "Mon amour, mon ami",
+      "url": "https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB"
+    },
+    {
+      "album": {
+        "name": "Morgane De Toi (Remastered)",
+        "url": "https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE"
+      },
+      "artists": [
+        {
+          "name": "Renaud",
+          "url": "https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372186,
+      "name": "Morgane de toi",
+      "url": "https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1"
+    },
+    {
+      "album": {
+        "name": "Tribute To Jaques Brel",
+        "url": "https://open.spotify.com/album/6nebSFQNuhdGEUqBOsvFwp"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232594,
+      "name": "Ne Me Quitte Pas",
+      "url": "https://open.spotify.com/track/4J4k4mafjcMvjHXplp5Ahf"
+    },
+    {
+      "album": {
+        "name": "Ballades Et Mots D'Amour",
+        "url": "https://open.spotify.com/album/48xkCpQACHieRXdeGyEAwn"
+      },
+      "artists": [
+        {
+          "name": "Jacques Brel",
+          "url": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "Quand on n'a que l'amour",
+      "url": "https://open.spotify.com/track/6epVAJvssoXXRxpYI2Ai9D"
+    },
+    {
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Que reste-t-il de nos amours ?",
+      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
+    },
+    {
+      "album": {
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+      },
+      "artists": [
+        {
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217640,
+      "name": "Quelques mots d'amour - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/6qbieXHVuCIIlzi55j6E5i"
+    },
+    {
+      "album": {
+        "name": "Joe",
+        "url": "https://open.spotify.com/album/1AX6ugtUs8xZXXBJV2HLbt"
+      },
+      "artists": [
+        {
+          "name": "Joe Dassin",
+          "url": "https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241933,
+      "name": "Salut les amoureux - City of New Orleans",
+      "url": "https://open.spotify.com/track/2cCtyPE0ZgoW9qWcI8YUvU"
+    },
+    {
+      "album": {
+        "name": "100 Mejores Exitos De La Musica - Francia",
+        "url": "https://open.spotify.com/album/3z11HzzFYSLAAuDecsX8Ne"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152746,
+      "name": "She",
+      "url": "https://open.spotify.com/track/5llDIH1OhU6G5R0khPFneu"
+    },
+    {
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
+    },
+    {
+      "album": {
+        "name": "Le Cin\u00e9ma De Francis Lai",
+        "url": "https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56"
+      },
+      "artists": [
+        {
+          "name": "Francis Lai",
+          "url": "https://open.spotify.com/artist/0Lf3tvw0Rzwr38KDrShstn"
+        },
+        {
+          "name": "Nicole Croisille",
+          "url": "https://open.spotify.com/artist/6nKiMtIgRJLOREJtl0eBfV"
+        },
+        {
+          "name": "Pierre Barouh",
+          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162373,
+      "name": "Un Homme Et Une Femme",
+      "url": "https://open.spotify.com/track/5ZvaHksc9o4AuZVrtOOU0r"
+    },
+    {
+      "album": {
+        "name": "Deshabillez-Moi",
+        "url": "https://open.spotify.com/album/1299SQM1WjALR2NBHfq536"
+      },
+      "artists": [
+        {
+          "name": "Juliette Gr\u00e9co",
+          "url": "https://open.spotify.com/artist/7j237zyOedtfrugnWFJKOJ"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104333,
+      "name": "Un petit poisson, un petit oiseau",
+      "url": "https://open.spotify.com/track/53oh4MvWKvnsCYHUOQYVJH"
+    },
+    {
+      "album": {
+        "name": "Twistin\u2019 The Rock, Vol. 9",
+        "url": "https://open.spotify.com/album/0MSicRahv1o4WgJ6pXjUkg"
+      },
+      "artists": [
+        {
+          "name": "Gillian Hills",
+          "url": "https://open.spotify.com/artist/3uA9RwNUL7HZKroYyVlUuL"
+        }
+      ],
+      "date_added": "2020-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Zou bisou bisou",
+      "url": "https://open.spotify.com/track/4qqf1avpzRUnVowNQd1jFw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5SrscLLafXx"
 }

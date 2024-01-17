@@ -1,6 +1,1675 @@
 {
-  "2023-12-31": 34284,
-  "2024-01-01": 34290,
-  "2024-01-02": 34294,
-  "2024-01-03": 34299
+  "2024-01-17": 34319,
+  "date_first_scraped": "2023-12-31",
+  "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
+  "name": "This Is Mc Dricka",
+  "tracks": [
+    {
+      "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "MC Leozinho ZS",
+          "url": "https://open.spotify.com/artist/6VyttZwyEMGBl90oGdKCB8"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358950,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "album": {
+        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162764,
+      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+    },
+    {
+      "album": {
+        "name": "Bate Com Vontade (Remix)",
+        "url": "https://open.spotify.com/album/51peMoxvm8UqlfLlfLTVY3"
+      },
+      "artists": [
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Tarik Lima",
+          "url": "https://open.spotify.com/artist/78UVlULnfPpf8EdnfGlvK7"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144915,
+      "name": "Bate Com Vontade (Remix)",
+      "url": "https://open.spotify.com/track/5iQwqOEVRAMyZ3HeBggL78"
+    },
+    {
+      "album": {
+        "name": "Bh no Topo 2",
+        "url": "https://open.spotify.com/album/6xn79ltvd8322T69fIS6OA"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mc Vitera",
+          "url": "https://open.spotify.com/artist/5mr05eYTzL2oMCHdrezu5d"
+        },
+        {
+          "name": "MC Braian",
+          "url": "https://open.spotify.com/artist/1eQZtSbuI8HDvaA2dtPzF1"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189152,
+      "name": "Bh no Topo 2",
+      "url": "https://open.spotify.com/track/5I81jhsQaycXS0qS8bvLHc"
+    },
+    {
+      "album": {
+        "name": "Botada nas Malvadas",
+        "url": "https://open.spotify.com/album/1NGlWWw9GXw52DIcsJGdiE"
+      },
+      "artists": [
+        {
+          "name": "DG e Batid\u00e3o Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Eric Land",
+          "url": "https://open.spotify.com/artist/007FXgr0jLBJxhPJjacXQH"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Botada nas Malvadas",
+      "url": "https://open.spotify.com/track/6CoxzqEukPHBMS62EQifbV"
+    },
+    {
+      "album": {
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+    },
+    {
+      "album": {
+        "name": "Catucad\u00e3o",
+        "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138900,
+      "name": "Catucad\u00e3o",
+      "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
+    },
+    {
+      "album": {
+        "name": "Como Se T\u00e1 Maravilhosa",
+        "url": "https://open.spotify.com/album/4LNewfE8VAsibABsIDWPGE"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Como Se T\u00e1 Maravilhosa",
+      "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
+    },
+    {
+      "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "album": {
+        "name": "De 38 Carregado Arrochadeira",
+        "url": "https://open.spotify.com/album/32ITaOUF5DKA4yOqy1WUXL"
+      },
+      "artists": [
+        {
+          "name": "Dj Kevin Oficial",
+          "url": "https://open.spotify.com/artist/6ysi6BecWzevAJ3HYaZNMS"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108387,
+      "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/4OkTHc1uouLNe0XUSEE0Lf"
+    },
+    {
+      "album": {
+        "name": "Donas do Jogo",
+        "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
+      },
+      "artists": [
+        {
+          "name": "Tropa do Bruxo",
+          "url": "https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Donas do Jogo",
+      "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "album": {
+        "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+        "url": "https://open.spotify.com/album/3G1gxfsqkeaQmsf0eSp9jy"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Novo Imp\u00e9rio",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197480,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora",
+      "url": "https://open.spotify.com/track/4koUrXFuoId1b6wrMF3laS"
+    },
+    {
+      "album": {
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
+    },
+    {
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5JIKChGTkrJIMvDHqSDXa2"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153596,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/5mnH5NY1gMOPIPylBdNkR6"
+    },
+    {
+      "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+    },
+    {
+      "album": {
+        "name": "Faixa Rosa (feat. Mc Carol)",
+        "url": "https://open.spotify.com/album/5RzMHKloQw9dB6S8OWEzsz"
+      },
+      "artists": [
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        },
+        {
+          "name": "Jojo Maronttinni",
+          "url": "https://open.spotify.com/artist/6bGwi8TG7T8Vcp415XooE5"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 153230,
+      "name": "Faixa Rosa (feat. Mc Carol)",
+      "url": "https://open.spotify.com/track/6ADQaiTWb63joaiYYXPUAf"
+    },
+    {
+      "album": {
+        "name": "Festa Linda 2",
+        "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
+      },
+      "artists": [
+        {
+          "name": "MC Kapela",
+          "url": "https://open.spotify.com/artist/2MKq3nQOfCRUwxtmmAOpqR"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Djay W",
+          "url": "https://open.spotify.com/artist/5nkzLizeD93QtabjeK4oyl"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Mc Kelvinho",
+          "url": "https://open.spotify.com/artist/1S4ASTDQvMwm6jP95pIsYB"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435565,
+      "name": "Festa Linda 2",
+      "url": "https://open.spotify.com/track/0DE1l2HcghLozALTx39lQt"
+    },
+    {
+      "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/4Ag9Ig1yYW7Nj82EuKyIHi"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135047,
+      "name": "Festa na Marina (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/1g7V8GuSminOBopI9jAC1c"
+    },
+    {
+      "album": {
+        "name": "Foi Bate Bate",
+        "url": "https://open.spotify.com/album/2kmG2VoE2lf4YwKIT2bFG5"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211633,
+      "name": "Foi Bate Bate",
+      "url": "https://open.spotify.com/track/1Y3zrX5iO7vxBvdyBH8xpQ"
+    },
+    {
+      "album": {
+        "name": "GR6 Convoca #01 (Relacionamentos)",
+        "url": "https://open.spotify.com/album/7t9UUGqz5MA1gFrNOk5JMh"
+      },
+      "artists": [
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Perera DJ",
+          "url": "https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "MC Rodolfinho",
+          "url": "https://open.spotify.com/artist/4885EF8HYSK3OyCRe7yZIp"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "DJ 900",
+          "url": "https://open.spotify.com/artist/6Ovxg5WDcnSQc8iQXv0IvI"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472615,
+      "name": "GR6 Convoca #01 (Relacionamentos)",
+      "url": "https://open.spotify.com/track/3xNJbOYwWipF9SAfEGt1LG"
+    },
+    {
+      "album": {
+        "name": "Homenagem Aos Rel\u00edquias 6",
+        "url": "https://open.spotify.com/album/6gircmXubpamNOojqAYziw"
+      },
+      "artists": [
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        },
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Mc Kanhoto",
+          "url": "https://open.spotify.com/artist/3bpbNht7qJCmPo8sjVF3tA"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "Marin",
+          "url": "https://open.spotify.com/artist/5kni0YNAYU6UftGp4Pn077"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570360,
+      "name": "Homenagem Aos Rel\u00edquias 6",
+      "url": "https://open.spotify.com/track/3eEbxFa7nnp5J7HRsM0juH"
+    },
+    {
+      "album": {
+        "name": "CORO COM CO\u00c7A",
+        "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "J\u00c1 ERA TARDE",
+      "url": "https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X"
+    },
+    {
+      "album": {
+        "name": "Llorando x 1",
+        "url": "https://open.spotify.com/album/7hRErvNPgsqn5IAuv73qBX"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150732,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/2pmdNnInTpDCoui6M8JK8n"
+    },
+    {
+      "album": {
+        "name": "Mandrake",
+        "url": "https://open.spotify.com/album/0UAKOc3fGQRCRUjmTDMClk"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157440,
+      "name": "Mandrake",
+      "url": "https://open.spotify.com/track/1wBt59AABSYomRpGojX7cb"
+    },
+    {
+      "album": {
+        "name": "Me Bate Com O Caralho",
+        "url": "https://open.spotify.com/album/7B79TEYgmIny5ucYQy70ig"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Alex BNH",
+          "url": "https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105230,
+      "name": "Me Bate Com O Caralho",
+      "url": "https://open.spotify.com/track/34YOfsZtxrotk7ZtgxEWkJ"
+    },
+    {
+      "album": {
+        "name": "Me Olha e Me Respeita",
+        "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Me Olha e Me Respeita",
+      "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
+    },
+    {
+      "album": {
+        "name": "Ca\u00e7a Fantasma, Vol. 1",
+        "url": "https://open.spotify.com/album/3gjhcGuAkjlH2QhHAK64Vy"
+      },
+      "artists": [
+        {
+          "name": "DJ Ws da Igrejinha",
+          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134769,
+      "name": "Mentiroso Que Vem Junto",
+      "url": "https://open.spotify.com/track/5wr5mPRFg0hb3D7PZ7q6ux"
+    },
+    {
+      "album": {
+        "name": "Mundo Pequeno",
+        "url": "https://open.spotify.com/album/7GuKGIzQ0kkXOxsMpi8wbI"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 228252,
+      "name": "Mundo Pequeno",
+      "url": "https://open.spotify.com/track/5Vuu2s36p0cVA8EVLciqr5"
+    },
+    {
+      "album": {
+        "name": "Nosso Flow",
+        "url": "https://open.spotify.com/album/6dqKRg8kzuAiWzFt6pj7JY"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281904,
+      "name": "Nosso Flow",
+      "url": "https://open.spotify.com/track/2uK2zK0CBh8w2C4Uq8qo7z"
+    },
+    {
+      "album": {
+        "name": "PANCADA",
+        "url": "https://open.spotify.com/album/2PIe2lGJ5so2DrWDzSQR8o"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "TH4I",
+          "url": "https://open.spotify.com/artist/7nknAoywwPTdaW0PGKys24"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135616,
+      "name": "PANCADA",
+      "url": "https://open.spotify.com/track/4TsPXN8xOpRRaetAtnlKRU"
+    },
+    {
+      "album": {
+        "name": "Pede Chamando de Amor",
+        "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
+      },
+      "artists": [
+        {
+          "name": "Shevchenko e Elloco",
+          "url": "https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1"
+        },
+        {
+          "name": "MC Marley",
+          "url": "https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Biel XCamoso",
+          "url": "https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119248,
+      "name": "Pede Chamando de Amor",
+      "url": "https://open.spotify.com/track/0uaVr4TJNoD7x3IQ0Z1cRP"
+    },
+    {
+      "album": {
+        "name": "A Press\u00e3o Mundial Continua",
+        "url": "https://open.spotify.com/album/4phurGajFFr4t6VD6Vp5xQ"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119376,
+      "name": "Pede que Eu Te Dou (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5nCU2l9qq9dYPgkASU8Lgo"
+    },
+    {
+      "album": {
+        "name": "Mellokillaz",
+        "url": "https://open.spotify.com/album/4Tl9UDO3kyio8srwAu4Jnd"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Popola (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/41mbP4HHVq29rVatGp0S2t"
+    },
+    {
+      "album": {
+        "name": "Porque Elas Te Preferem",
+        "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Porque Elas Te Preferem",
+      "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
+    },
+    {
+      "album": {
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
+    },
+    {
+      "album": {
+        "name": "Mega Da Rainha",
+        "url": "https://open.spotify.com/album/1mCnUUpeiGRAq3aiDaoBoT"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ S2K",
+          "url": "https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125769,
+      "name": "Quer Sair Da Minha Vida, Pode Sair",
+      "url": "https://open.spotify.com/track/7A0ZHoT5x6DHACj8Dpnz13"
+    },
+    {
+      "album": {
+        "name": "Rel\u00edquias da Marketada",
+        "url": "https://open.spotify.com/album/5JIgWCYZs2KsvSllIfjjyZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        },
+        {
+          "name": "MC LEON",
+          "url": "https://open.spotify.com/artist/1knOHAH1uapqFXGgy6upjg"
+        },
+        {
+          "name": "DJ Rugal Original",
+          "url": "https://open.spotify.com/artist/0Po8wyMF4UI4YCzSdjqy5B"
+        },
+        {
+          "name": "DJ Salatiel",
+          "url": "https://open.spotify.com/artist/5t9AqmSUojIXlcw8vUEqDc"
+        },
+        {
+          "name": "Dj Erick Bernardo",
+          "url": "https://open.spotify.com/artist/4LkJmFKt5yOMRmiGAVoHe5"
+        },
+        {
+          "name": "Mc 7 Belo",
+          "url": "https://open.spotify.com/artist/48HM9dIFLIwnmNlXW5KBy7"
+        },
+        {
+          "name": "Mc Kitinho",
+          "url": "https://open.spotify.com/artist/1d2PrJ5wELpihT8yrwH4mO"
+        },
+        {
+          "name": "MC Neguinho Original",
+          "url": "https://open.spotify.com/artist/6svP9hATUo3v10dCJA8K3G"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "mc talib\u00e3",
+          "url": "https://open.spotify.com/artist/11bGvkxWCsKDOsDWYU8G7r"
+        },
+        {
+          "name": "Silva Mc",
+          "url": "https://open.spotify.com/artist/7v4hw85pzG0M9kJHlBGsi3"
+        },
+        {
+          "name": "Mc Topre",
+          "url": "https://open.spotify.com/artist/6bmZfABIjvLMAMYwujdjFy"
+        },
+        {
+          "name": "MC MENOR DO DOZE",
+          "url": "https://open.spotify.com/artist/5bnpaWpiU7oX1gYenzcSQu"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241899,
+      "name": "Rel\u00edquias da Marketada",
+      "url": "https://open.spotify.com/track/46rzoekJ9TnohJdBJcCUS3"
+    },
+    {
+      "album": {
+        "name": "Revoada do Tubar\u00e3o",
+        "url": "https://open.spotify.com/album/16SuYMsmpv5WbN33Bm2fqh"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Brisola",
+          "url": "https://open.spotify.com/artist/2civFPMAiigAwTEUKkeRW2"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Vk",
+          "url": "https://open.spotify.com/artist/0QHeVlSNj20H73pBvefBNZ"
+        },
+        {
+          "name": "Mc Brinquedo",
+          "url": "https://open.spotify.com/artist/1SZXYhJz4sqEss888VmWLP"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 573333,
+      "name": "Revoada do Tubar\u00e3o",
+      "url": "https://open.spotify.com/track/0C1cJj3ZNCS75sojrcMhZV"
+    },
+    {
+      "album": {
+        "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
+        "url": "https://open.spotify.com/album/6SYKU2YKvPcBslCHjnFtKU"
+      },
+      "artists": [
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc Lbx",
+          "url": "https://open.spotify.com/artist/1Po5CvMZ0cXWGS2bplQL1i"
+        },
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591157,
+      "name": "Revoada do Tubar\u00e3o 2 (feat. Mc Davi, Mc PP da VS, Mc Pedrinho, Mc Dricka, Mc Lbx, Mc Kevin, Salvador Da Rima, Ferrugem, MC Kevinho, Gaab)",
+      "url": "https://open.spotify.com/track/5Dcb2W1UpzVFQuyzxpqZaB"
+    },
+    {
+      "album": {
+        "name": "Se o Port\u00e3o Tiver Trancado",
+        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103105,
+      "name": "Se o Port\u00e3o Tiver Trancado",
+      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
+    },
+    {
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "album": {
+        "name": "Set Dj Everton Martins",
+        "url": "https://open.spotify.com/album/0FfobeJcJmHtxWcU5kl1ow"
+      },
+      "artists": [
+        {
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
+        },
+        {
+          "name": "Enid\u00ea",
+          "url": "https://open.spotify.com/artist/08zJKSZg43RF8jxvmDmoTb"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Ninbr\u00ea",
+          "url": "https://open.spotify.com/artist/725NzNUfGYCqOYno36v2SC"
+        },
+        {
+          "name": "Mc DB",
+          "url": "https://open.spotify.com/artist/2hKfWlZLozDVOkReXCYJXq"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        }
+      ],
+      "date_added": "2024-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 378947,
+      "name": "Set Dj Everton Martins",
+      "url": "https://open.spotify.com/track/02Vkj8FCP6dksyHz3M5Ej9"
+    },
+    {
+      "album": {
+        "name": "SET DJ GM 2.0",
+        "url": "https://open.spotify.com/album/7MNRt1Veypg7CQ3MGortjE"
+      },
+      "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Magal",
+          "url": "https://open.spotify.com/artist/2FDaBZt51fOXh2rbHL8Afr"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        },
+        {
+          "name": "Mc Barone",
+          "url": "https://open.spotify.com/artist/5b7N6Le7TXrNRdoTcqOLMF"
+        },
+        {
+          "name": "Mc CL",
+          "url": "https://open.spotify.com/artist/2I6tDfWEkn4Ozfb6ePjRX4"
+        },
+        {
+          "name": "MC Yuri",
+          "url": "https://open.spotify.com/artist/2FHS70d0Slskx7fTNkGRzF"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475200,
+      "name": "SET DJ GM 2.0",
+      "url": "https://open.spotify.com/track/38BuaDkieTqCDqaawXsf78"
+    },
+    {
+      "album": {
+        "name": "Soca Com Press\u00e3o",
+        "url": "https://open.spotify.com/album/4TqKAZRTG5HUCMS9FNLFi3"
+      },
+      "artists": [
+        {
+          "name": "Mc Troia",
+          "url": "https://open.spotify.com/artist/4qeuGyDAaXAa1wuWcy0KuV"
+        },
+        {
+          "name": "Mc Terror",
+          "url": "https://open.spotify.com/artist/67qkN07rOU517tFWiOghoQ"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140231,
+      "name": "Soca Com Press\u00e3o",
+      "url": "https://open.spotify.com/track/0hPD3ikmwJmWvNY3ITOZHG"
+    },
+    {
+      "album": {
+        "name": "Soca na \u00dfucetinh\u03b1",
+        "url": "https://open.spotify.com/album/35InzOxcUrwCoaU8yEQ52B"
+      },
+      "artists": [
+        {
+          "name": "Radar Phonk",
+          "url": "https://open.spotify.com/artist/5Ao9A6BPmZOba67uGkcFpE"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Lon do Pantanal",
+          "url": "https://open.spotify.com/artist/285tlYw4FEmJiMODTzNrb2"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135230,
+      "name": "Soca na \u00dfucetinh\u03b1",
+      "url": "https://open.spotify.com/track/6J43L6MUDnYGczwT6FZ0tk"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Socando Dentro",
+        "url": "https://open.spotify.com/album/1AA2FXHuJpyGP2LccwWzhX"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Biel Divulga",
+          "url": "https://open.spotify.com/artist/4nWyeZK6CbH0eAQ5tRWf9o"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136858,
+      "name": "S\u00f3 Socando Dentro",
+      "url": "https://open.spotify.com/track/1Nf8QP9ecfeV0szrZljTH1"
+    },
+    {
+      "album": {
+        "name": "To Solteira, \u00c9 S\u00f3 Bail\u00e3o",
+        "url": "https://open.spotify.com/album/7v0IJOaRrAi2XU5szVyqDj"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ LC MARTINS",
+          "url": "https://open.spotify.com/artist/2M1LWSbBSx7g1SkZQnmk35"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114172,
+      "name": "To Solteira, \u00c9 S\u00f3 Bail\u00e3o",
+      "url": "https://open.spotify.com/track/742BRDNTf72lH6GSdJocW0"
+    },
+    {
+      "album": {
+        "name": "Julho",
+        "url": "https://open.spotify.com/album/2U11n8cKDtqAPX9vwexbHk"
+      },
+      "artists": [
+        {
+          "name": "Chic\u00e3o do Piseiro",
+          "url": "https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150384,
+      "name": "T\u00f4 Solteiro \u00c9 S\u00f3 Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5xN9BzkEmwEXGRfBc4UnRv"
+    },
+    {
+      "album": {
+        "name": "Rickweek",
+        "url": "https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf"
+      },
+      "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 126511,
+      "name": "Vagabunda do Caralho",
+      "url": "https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc"
+    },
+    {
+      "album": {
+        "name": "Vai Sua Cavalona (Remix Arrochadeira)",
+        "url": "https://open.spotify.com/album/64X409jRijesvSKuLwJTjC"
+      },
+      "artists": [
+        {
+          "name": "Turma do Cangaceiro",
+          "url": "https://open.spotify.com/artist/3keWcR7OadJtVV1ICcJLEu"
+        },
+        {
+          "name": "Mc Th",
+          "url": "https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161831,
+      "name": "Vai Sua Cavalona (feat. Mc Th & Mc Dricka)",
+      "url": "https://open.spotify.com/track/7wI6xm1OLGJtnvPgCuTR7y"
+    },
+    {
+      "album": {
+        "name": "Vegas",
+        "url": "https://open.spotify.com/album/18DDpF3WzyoedUBDHKqBmb"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ LC MARTINS",
+          "url": "https://open.spotify.com/artist/2M1LWSbBSx7g1SkZQnmk35"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Vegas",
+      "url": "https://open.spotify.com/track/3tDhSfnRKMOt9DIfKqxkrB"
+    },
+    {
+      "album": {
+        "name": "O Maior Piseiro de Todos os Tempos!",
+        "url": "https://open.spotify.com/album/0oxygTtCqNQwwgTd7xIezI"
+      },
+      "artists": [
+        {
+          "name": "Biu do Piseiro",
+          "url": "https://open.spotify.com/artist/0Pl4c5YACE9Hwq4l48d9kv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119640,
+      "name": "Vegas (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5TOpvd9y5J0v6ZN8Yiz2p4"
+    },
+    {
+      "album": {
+        "name": "O de Sempre no Mesmo Padr\u00e3o",
+        "url": "https://open.spotify.com/album/0yMK3loQLSpSSesvrtdDT5"
+      },
+      "artists": [
+        {
+          "name": "Turma da Bregadeira",
+          "url": "https://open.spotify.com/artist/1Yd4ADHmH76FCy0nK4Nf2J"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 155245,
+      "name": "Vegas (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/0GBDRkOUYLDU62RU57mPCo"
+    },
+    {
+      "album": {
+        "name": "Vida Do Crime",
+        "url": "https://open.spotify.com/album/7ciWlEhMW3TZgU2TPtytQq"
+      },
+      "artists": [
+        {
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+        },
+        {
+          "name": "DJ PH DA SERRA",
+          "url": "https://open.spotify.com/artist/7Dq3oCz43MCuWBRgWTltZI"
+        },
+        {
+          "name": "Dj Fiuza",
+          "url": "https://open.spotify.com/artist/2nuDz3WMd4B9RkG6R7l5Wh"
+        },
+        {
+          "name": "Dj Stay",
+          "url": "https://open.spotify.com/artist/5dfYej4GdOLSX8HxKOSLK2"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Fahah",
+          "url": "https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Vida Do Crime",
+      "url": "https://open.spotify.com/track/7pgXxhMqy7lFnAXborqxse"
+    },
+    {
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5JIKChGTkrJIMvDHqSDXa2"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "date_added": "2023-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/3fkfnMA8nRuf6rDt7LlPJP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2"
 }

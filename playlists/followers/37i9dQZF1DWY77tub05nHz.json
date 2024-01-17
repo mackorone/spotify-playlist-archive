@@ -1,97 +1,801 @@
 {
-  "2023-09-29": 71773,
-  "2023-09-30": 71806,
-  "2023-10-01": 71846,
-  "2023-10-02": 71886,
-  "2023-10-03": 71919,
-  "2023-10-04": 71944,
-  "2023-10-05": 71987,
-  "2023-10-06": 72007,
-  "2023-10-07": 72045,
-  "2023-10-08": 72074,
-  "2023-10-09": 72117,
-  "2023-10-10": 72131,
-  "2023-10-11": 72199,
-  "2023-10-12": 72199,
-  "2023-10-13": 72220,
-  "2023-10-14": 72237,
-  "2023-10-15": 72294,
-  "2023-10-16": 72324,
-  "2023-10-17": 72363,
-  "2023-10-18": 72383,
-  "2023-10-19": 72425,
-  "2023-10-20": 72459,
-  "2023-10-21": 72487,
-  "2023-10-22": 72527,
-  "2023-10-23": 72578,
-  "2023-10-24": 72615,
-  "2023-10-25": 72657,
-  "2023-10-26": 72705,
-  "2023-10-27": 72738,
-  "2023-10-28": 72776,
-  "2023-10-29": 72824,
-  "2023-10-30": 72908,
-  "2023-10-31": 72908,
-  "2023-11-01": 72944,
-  "2023-11-02": 73004,
-  "2023-11-03": 73041,
-  "2023-11-04": 73101,
-  "2023-11-05": 73149,
-  "2023-11-06": 73191,
-  "2023-11-07": 73221,
-  "2023-11-08": 73251,
-  "2023-11-09": 73285,
-  "2023-11-10": 73318,
-  "2023-11-11": 73366,
-  "2023-11-12": 73419,
-  "2023-11-13": 73482,
-  "2023-11-14": 73516,
-  "2023-11-15": 73516,
-  "2023-11-16": 73581,
-  "2023-11-17": 73657,
-  "2023-11-18": 73657,
-  "2023-11-19": 73705,
-  "2023-11-20": 73745,
-  "2023-11-21": 73776,
-  "2023-11-22": 73819,
-  "2023-11-23": 73851,
-  "2023-11-24": 73886,
-  "2023-11-25": 73929,
-  "2023-11-26": 73961,
-  "2023-11-27": 74001,
-  "2023-11-28": 74021,
-  "2023-11-29": 74076,
-  "2023-11-30": 74076,
-  "2023-12-01": 74107,
-  "2023-12-02": 74150,
-  "2023-12-03": 74179,
-  "2023-12-04": 74218,
-  "2023-12-05": 74238,
-  "2023-12-06": 74261,
-  "2023-12-07": 74293,
-  "2023-12-08": 74311,
-  "2023-12-09": 74326,
-  "2023-12-10": 74359,
-  "2023-12-11": 74386,
-  "2023-12-12": 74404,
-  "2023-12-13": 74426,
-  "2023-12-14": 74455,
-  "2023-12-15": 74477,
-  "2023-12-16": 74503,
-  "2023-12-17": 74524,
-  "2023-12-18": 74533,
-  "2023-12-19": 74551,
-  "2023-12-20": 74567,
-  "2023-12-21": 74585,
-  "2023-12-22": 74611,
-  "2023-12-23": 74628,
-  "2023-12-24": 74656,
-  "2023-12-25": 74687,
-  "2023-12-26": 74703,
-  "2023-12-27": 74723,
-  "2023-12-30": 74819,
-  "2023-12-31": 74856,
-  "2024-01-01": 74873,
-  "2024-01-02": 74897,
-  "2024-01-03": 74918
+  "2024-01-17": 75215,
+  "date_first_scraped": "2023-09-29",
+  "description": "Vos enfants les connaissent par coeur. Et vous ?",
+  "name": "Comptines & Chansons",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dansons la capucine",
+        "url": "https://open.spotify.com/album/7M2FjkurNha88yYP3REHIv"
+      },
+      "artists": [
+        {
+          "name": "Sing n Play",
+          "url": "https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195951,
+      "name": "A la ferme de Mathurin",
+      "url": "https://open.spotify.com/track/1TEQPfdGCwaBThH4PGgFOL"
+    },
+    {
+      "album": {
+        "name": "40 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74374,
+      "name": "A la p\u00eache aux moules",
+      "url": "https://open.spotify.com/track/5lr3MUJlQSskK6PRqCRlop"
+    },
+    {
+      "album": {
+        "name": "Ah Les Crocodiles - Comptines",
+        "url": "https://open.spotify.com/album/4bnbv8DvHZrP986mcR9EPS"
+      },
+      "artists": [
+        {
+          "name": "La Superstar Des Comptines Rondes Et Berceuses",
+          "url": "https://open.spotify.com/artist/6TaGVnSdzIsOLVxiAKxotV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Ah Les Crocodiles - Comptines",
+      "url": "https://open.spotify.com/track/5whKKZba7pCYuzQnro3dC3"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Alex Vizorek",
+          "url": "https://open.spotify.com/artist/5RHsoPIPjZG2rJiRO7wAkq"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123933,
+      "name": "Ainsi font font font - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/37tRhvABNKo4xEIwB99Q1r"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167720,
+      "name": "Alouette, gentille alouette - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/0Ik2WJIc0DvgiHu8uxHLOh"
+    },
+    {
+      "album": {
+        "name": "Comptines TV",
+        "url": "https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117812,
+      "name": "Au clair de la lune",
+      "url": "https://open.spotify.com/track/5qnOQ1d8Ori0JOc3Vb1H4h"
+    },
+    {
+      "album": {
+        "name": "40 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86500,
+      "name": "Bateau sur l'eau",
+      "url": "https://open.spotify.com/track/5pj9Q5s4kRZrKxEHcQth3e"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121440,
+      "name": "Dans la for\u00eat lointaine (coucou hibou) - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/4wG4iIr5BCHbuGAM9WGHzB"
+    },
+    {
+      "album": {
+        "name": "Dans sa maison un grand cerf (Les plus belles comptines d'Okoo)",
+        "url": "https://open.spotify.com/album/7sVKIIkUq1ANcWZBMHaTZB"
+      },
+      "artists": [
+        {
+          "name": "Kad Merad",
+          "url": "https://open.spotify.com/artist/7HSntKvALIoZ48jXpBXWT8"
+        },
+        {
+          "name": "Nolwenn Leroy",
+          "url": "https://open.spotify.com/artist/6suRVbMTiFWlTpB6fdLdF2"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181173,
+      "name": "Dans sa maison un grand cerf - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/5VlNJRsRhXGGxVqdMYGILd"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Pascal Obispo",
+          "url": "https://open.spotify.com/artist/6XPs6CAjfdxIFrVVUFRrAS"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150360,
+      "name": "Dodo l'enfant do - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/7gprWIq6cyUUBqFqZvGoim"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Fr\u00e8re Jacques",
+      "url": "https://open.spotify.com/track/4vtLMw7V9b6BdaevH2i8PS"
+    },
+    {
+      "album": {
+        "name": "20 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/1sll6PeEkOXCFHIq0AizU3"
+      },
+      "artists": [
+        {
+          "name": "La Superstar Des Comptines Rondes Et Berceuses",
+          "url": "https://open.spotify.com/artist/6TaGVnSdzIsOLVxiAKxotV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88000,
+      "name": "Il court, il court, le furet",
+      "url": "https://open.spotify.com/track/4PPKYpreUyHiVv9VldpqLC"
+    },
+    {
+      "album": {
+        "name": "Comptines TV",
+        "url": "https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221361,
+      "name": "Il \u00e9tait un petit navire",
+      "url": "https://open.spotify.com/track/3MZrfMouSiNcnboUyrydiU"
+    },
+    {
+      "album": {
+        "name": "Les Animaux En 48 Rondes, Comptines Et Berceuses",
+        "url": "https://open.spotify.com/album/0E94bsdKGBSXKOw9s00QKd"
+      },
+      "artists": [
+        {
+          "name": "Les Cerfs-Volants",
+          "url": "https://open.spotify.com/artist/6zi8EUaB5H4OXlvXPqIsd7"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64693,
+      "name": "Il \u00c9tait Une Berg\u00e8re",
+      "url": "https://open.spotify.com/track/3nFQhLCExAHqqI4oofasts"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 3",
+        "url": "https://open.spotify.com/album/4FC671DSP3EAYOMh27M34Z"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Franck Sitbon",
+          "url": "https://open.spotify.com/artist/7n1Kwm2wCzFHoJfvHE8dAB"
+        },
+        {
+          "name": "Les amis de tous les enfants du monde",
+          "url": "https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR"
+        },
+        {
+          "name": "\u00c9ric Bessot",
+          "url": "https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144026,
+      "name": "J'ai un gros nez rouge",
+      "url": "https://open.spotify.com/track/1KMQrjOQlxYuPiS2eUd14w"
+    },
+    {
+      "album": {
+        "name": "40 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52500,
+      "name": "L'araigne\u0301e Gipsy",
+      "url": "https://open.spotify.com/track/21EojObu9p05dVvtL65ZR8"
+    },
+    {
+      "album": {
+        "name": "Comptines TV",
+        "url": "https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76669,
+      "name": "La famille tortue",
+      "url": "https://open.spotify.com/track/0qcD4tnuqj8WI9X7tLzLU2"
+    },
+    {
+      "album": {
+        "name": "Comptines et chansons pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/4xG9dlJEH33OJsm9VfFVC0"
+      },
+      "artists": [
+        {
+          "name": "La Superstar Des Comptines Rondes Et Berceuses",
+          "url": "https://open.spotify.com/artist/56pVh0bIeiW6ykdsoHdy4L"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "La fourmi m'a piqu\u00e9 la main",
+      "url": "https://open.spotify.com/track/1E5uYEyDGmRghjqsHp2gZH"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "La m\u00e8re Michel",
+      "url": "https://open.spotify.com/track/6L313qH2yVy9ymE18ERInW"
+    },
+    {
+      "album": {
+        "name": "40 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Le bon roi Dagobert",
+      "url": "https://open.spotify.com/track/25LCkANV3dqdHnVjTbAf6o"
+    },
+    {
+      "album": {
+        "name": "Henri D\u00e8s, Vol. 8: Les b\u00eatises",
+        "url": "https://open.spotify.com/album/5WCCx1iO2rBD4IxIN7PSZx"
+      },
+      "artists": [
+        {
+          "name": "Henri D\u00e8s",
+          "url": "https://open.spotify.com/artist/0CY3kcceNHCysHMl8u7duy"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Les b\u00eatises \u00e0 l'\u00e9cole",
+      "url": "https://open.spotify.com/track/5wmDD5RG5p3KYH6Kp9nrnQ"
+    },
+    {
+      "album": {
+        "name": "Comptines TV",
+        "url": "https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98977,
+      "name": "Les petits poissons dans l'eau",
+      "url": "https://open.spotify.com/track/44yQKjSWIWeeP3aROIlzgM"
+    },
+    {
+      "album": {
+        "name": "Comptines pour b\u00e9b\u00e9s (Titounis Best of)",
+        "url": "https://open.spotify.com/album/2ywaMC0beADGLXe8rbIfNI"
+      },
+      "artists": [
+        {
+          "name": "Monde des Titounis",
+          "url": "https://open.spotify.com/artist/2ojTzBORrgTPHsG4aUXq6e"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99600,
+      "name": "Les roues de l'autobus",
+      "url": "https://open.spotify.com/track/78nD0cBELsGioo1vEhGCgc"
+    },
+    {
+      "album": {
+        "name": "Les premi\u00e8res comptines des p'tits lascars",
+        "url": "https://open.spotify.com/album/3dgk9BP6O6b1uKv3BBwNAN"
+      },
+      "artists": [
+        {
+          "name": "Le Ch\u0153ur des enfants",
+          "url": "https://open.spotify.com/artist/58qpouPnLYMIzR5CgBSool"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165186,
+      "name": "Mon petit oiseau",
+      "url": "https://open.spotify.com/track/6Qq30XrYZ1aXcFmB8cVpDU"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95500,
+      "name": "Mon \u00e2ne",
+      "url": "https://open.spotify.com/track/4SGfyKgY3CH3LzjKGVxcPd"
+    },
+    {
+      "album": {
+        "name": "Comptines TV",
+        "url": "https://open.spotify.com/album/1WvyfJ3rEHw7GM2whNJqqz"
+      },
+      "artists": [
+        {
+          "name": "Comptines TV",
+          "url": "https://open.spotify.com/artist/4JkJK4qLTiechJHxxIP2nb"
+        },
+        {
+          "name": "Aur\u00e9lia Izarn-Berger",
+          "url": "https://open.spotify.com/artist/5KosdkswvXY1dH6bSn8eyV"
+        },
+        {
+          "name": "St\u00e9phane Gilet",
+          "url": "https://open.spotify.com/artist/0P3qheVkfg3vNp4Esri8Mf"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90122,
+      "name": "Petit escargot",
+      "url": "https://open.spotify.com/track/3XU9z0Bj3FNPKsS8cR5vPm"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113000,
+      "name": "Pirouette, cacahu\u00e8te",
+      "url": "https://open.spotify.com/track/3yCoWlqfp2wnOS4PeNsADE"
+    },
+    {
+      "album": {
+        "name": "40 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/3l8djzquzOn7WXIL1l7bFx"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41500,
+      "name": "Pomme de reinette et pomme d'api",
+      "url": "https://open.spotify.com/track/3rwL6kSi2MjDqV8UJKIjyd"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102000,
+      "name": "Promenons-nous dans les bois",
+      "url": "https://open.spotify.com/track/5NrWiJMqaaVaEQT7jR0TSI"
+    },
+    {
+      "album": {
+        "name": "20 Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/1sll6PeEkOXCFHIq0AizU3"
+      },
+      "artists": [
+        {
+          "name": "La Superstar Des Comptines Rondes Et Berceuses",
+          "url": "https://open.spotify.com/artist/6TaGVnSdzIsOLVxiAKxotV"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "Savez-vous planter les choux",
+      "url": "https://open.spotify.com/track/3WEwruu7TrngI1ytUbWIeM"
+    },
+    {
+      "album": {
+        "name": "20 chansons et comptines pour les petits, Vol. 3",
+        "url": "https://open.spotify.com/album/4FC671DSP3EAYOMh27M34Z"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Gaboriau",
+          "url": "https://open.spotify.com/artist/1bDtXGzHBisKKSCAEX8unH"
+        },
+        {
+          "name": "Franck Sitbon",
+          "url": "https://open.spotify.com/artist/7n1Kwm2wCzFHoJfvHE8dAB"
+        },
+        {
+          "name": "Les amis de tous les enfants du monde",
+          "url": "https://open.spotify.com/artist/1GyAfL3ee6VLvRipRPELwR"
+        },
+        {
+          "name": "\u00c9ric Bessot",
+          "url": "https://open.spotify.com/artist/1JbfIDFRPJnJW1OaN2S0Hp"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82077,
+      "name": "Sur le plancher, une araign\u00e9e",
+      "url": "https://open.spotify.com/track/3d7SkoJmqS4VFNEvKnURXa"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Chim\u00e8ne Badi",
+          "url": "https://open.spotify.com/artist/04kcokUKRXC8btCcOMLi8z"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140333,
+      "name": "Sur le pont d'Avignon - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/6IGCEPGabuwosKwFZCw5Yv"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Volume 2)",
+        "url": "https://open.spotify.com/album/7Lw29n2TRYabizEdsddlsF"
+      },
+      "artists": [
+        {
+          "name": "Les plus belles comptines d'Okoo",
+          "url": "https://open.spotify.com/artist/2jhOKo1SElusbD4jKMoABk"
+        },
+        {
+          "name": "Alex Vizorek",
+          "url": "https://open.spotify.com/artist/5RHsoPIPjZG2rJiRO7wAkq"
+        },
+        {
+          "name": "B\u00e9nabar",
+          "url": "https://open.spotify.com/artist/6xoAWsIOZxJVPpo7Qvqaqv"
+        },
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA"
+        },
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134133,
+      "name": "Un kilom\u00e8tre \u00e0 pied - Les plus belles comptines d'Okoo (Volume 2)",
+      "url": "https://open.spotify.com/track/1p2QAdUCugZ15uHSdB6AAC"
+    },
+    {
+      "album": {
+        "name": "Un petit canard au bord de l'eau, 55 chansons et comptines",
+        "url": "https://open.spotify.com/album/7cWBUYRXKlpi1AfO5e6FS9"
+      },
+      "artists": [
+        {
+          "name": "Clipounets",
+          "url": "https://open.spotify.com/artist/22KksDqgo5vTegN5SMl0j8"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71600,
+      "name": "Un Petit Canard Au Bord De L'eau",
+      "url": "https://open.spotify.com/track/6XibqZiMde0nOfvBYheyge"
+    },
+    {
+      "album": {
+        "name": "Ma main est une fleur, 44 comptines et jeux de doigts",
+        "url": "https://open.spotify.com/album/2dvVNJpbznXL8v1tss7iyD"
+      },
+      "artists": [
+        {
+          "name": "Clipounets",
+          "url": "https://open.spotify.com/artist/22KksDqgo5vTegN5SMl0j8"
+        },
+        {
+          "name": "Les Petits Minous",
+          "url": "https://open.spotify.com/artist/6Z2gXzyjDz8vJcz3v5QkOo"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38626,
+      "name": "Un petit chat gris",
+      "url": "https://open.spotify.com/track/52YNTCTXFMzJkRaXkSUNc2"
+    },
+    {
+      "album": {
+        "name": "Les plus belles comptines d'Okoo (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/0nZ0Q8MFYfrSEXDTleUIH4"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Un \u00e9l\u00e9phant qui se balan\u00e7ait - Les plus belles comptines d'Okoo",
+      "url": "https://open.spotify.com/track/23dwpRvxImSXGWXSFJ2ldh"
+    },
+    {
+      "album": {
+        "name": "Comptines pour enfants et b\u00e9b\u00e9s",
+        "url": "https://open.spotify.com/album/6FecQTEh8B3mWK9KOJJUXF"
+      },
+      "artists": [
+        {
+          "name": "La Reine des chansons pour enfants et b\u00e9b\u00e9s",
+          "url": "https://open.spotify.com/artist/38LDl2oddqYUi1eEE1uw2Q"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43500,
+      "name": "Une souris verte",
+      "url": "https://open.spotify.com/track/4wbTTaqEfNsSb5MlhrSEDG"
+    },
+    {
+      "album": {
+        "name": "69 comptines et jeux chant\u00e9s des tout-petits",
+        "url": "https://open.spotify.com/album/5485Wpk0c5HlWpfM6oV1Et"
+      },
+      "artists": [
+        {
+          "name": "Le Ch\u0153ur des enfants",
+          "url": "https://open.spotify.com/artist/58qpouPnLYMIzR5CgBSool"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68093,
+      "name": "Vole, vole, vole papillon",
+      "url": "https://open.spotify.com/track/7GaJX6Rzid7yJp6bPRyLUZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWY77tub05nHz"
 }

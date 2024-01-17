@@ -816,6 +816,24 @@
     {
       "album": {
         "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/43BXwIoGAQMEPKl97bDEi7"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370426,
+      "name": "Goin' Down South",
+      "url": "https://open.spotify.com/track/2oROjYKgLpkH62lrVPGBZE"
+    },
+    {
+      "album": {
+        "name": "Shake Hands With Shorty",
         "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
       },
       "artists": [
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2020-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 256880,
       "name": "Mind Bender",
       "url": "https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC"

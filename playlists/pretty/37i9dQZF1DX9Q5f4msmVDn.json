@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 17855,
+  "num_followers": 18464,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 93799,
+      "name": "Lick Back",
+      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
       },
@@ -287,38 +303,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Soundgasm",
-        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 204755,
-      "name": "Soundgasm",
-      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 93799,
-      "name": "Lick Back",
-      "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Playboi Carti",
         "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 224347,
       "name": "Smoothies In 1991",
       "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Soundgasm",
+        "url": "https://open.spotify.com/album/5dfgyak8CbmvnfGHUlBq1n"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 204755,
+      "name": "Soundgasm",
+      "url": "https://open.spotify.com/track/5c549LWiKCWGvcDsZwMN6v"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thirsty",
-        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
-      },
-      "artists": [
-        {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
-        }
-      ],
-      "duration_ms": 415133,
-      "name": "Never Would Have Made It",
-      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Slauson Boy 2",
         "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 230080,
       "name": "Ocean Views",
       "url": "https://open.spotify.com/track/1f0tj0IQ28OXq7hS0Rz0LH"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Thirsty",
+        "url": "https://open.spotify.com/album/04IAkH0X6ZDu6T35zD8KQy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 415133,
+      "name": "Never Would Have Made It",
+      "url": "https://open.spotify.com/track/3QdBvvYJ9k1CES1e9aYvaA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -467,26 +467,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Just For Me (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
-      },
-      "artists": [
-        {
-          "name": "SAINt JHN",
-          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 217394,
-      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
-      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Table For Two",
         "url": "https://open.spotify.com/album/0OPKA9Mrv6JFrTjC0KpvdT"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 302240,
       "name": "How Much Can A Heart Take (feat. Yebba)",
       "url": "https://open.spotify.com/track/5SFssNXGjeOxdAnECfgttm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Just For Me (Space Jam: A New Legacy)",
+        "url": "https://open.spotify.com/album/0uXCtaJMMAAgaB1AavNLSh"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 217394,
+      "name": "Just For Me (with SZA) - Space Jam: A New Legacy",
+      "url": "https://open.spotify.com/track/3B5yl01KF06NkYG39BdTBa"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "no sense",
-        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 170765,
-      "name": "no sense",
-      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "no sense",
+        "url": "https://open.spotify.com/album/43xK2HvPN2Tt8uKUiT93li"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 170765,
+      "name": "no sense",
+      "url": "https://open.spotify.com/track/0TSyYtpSnQrLqsnbSTALTP"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Lay Wit Ya (feat. Duke Deuce)",
-        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
-      },
-      "artists": [
-        {
-          "name": "Isaiah Rashad",
-          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
-        }
-      ],
-      "duration_ms": 202331,
-      "name": "Lay Wit Ya (feat. Duke Deuce)",
-      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "We Win (Space Jam: A New Legacy)",
         "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 194999,
       "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
       "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Lay Wit Ya (feat. Duke Deuce)",
+        "url": "https://open.spotify.com/album/0Y3NDVXecRTw8quOVxBBZ9"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
+        }
+      ],
+      "duration_ms": 202331,
+      "name": "Lay Wit Ya (feat. Duke Deuce)",
+      "url": "https://open.spotify.com/track/0RlsFYqkOzlg4ZxVQs9YJA"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Shhh",
-        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
-      },
-      "artists": [
-        {
-          "name": "Nardo Wick",
-          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
-        }
-      ],
-      "duration_ms": 139029,
-      "name": "Shhh",
-      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Fan-Tas-Tic, Vol. 2",
         "url": "https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Shhh",
+        "url": "https://open.spotify.com/album/74kNuwmmF4oX5K45mK21IQ"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "duration_ms": 139029,
+      "name": "Shhh",
+      "url": "https://open.spotify.com/track/6jaLhbtCCj0FyIf8ddYSKw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 398906,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/6eGRWLRQtT7pX6iXPpFiYk"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
-      },
-      "artists": [
-        {
-          "name": "Jaz Elise",
-          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
-        }
-      ],
-      "duration_ms": 180066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -883,6 +867,22 @@
       "duration_ms": 191067,
       "name": "About That Time (with G-Eazy, P-Lo & White Dave)",
       "url": "https://open.spotify.com/track/1wEbh1de74iKTl2L932zcJ"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/5KvwBh1yyh6HiaTGDBzP78"
+      },
+      "artists": [
+        {
+          "name": "Jaz Elise",
+          "url": "https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA"
+        }
+      ],
+      "duration_ms": 180066,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/3dRjsMrxyqUbN5bfyLGbOS"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,621 +1,1847 @@
 {
-  "2022-04-19": 604,
-  "2022-04-20": 604,
-  "2022-04-21": 604,
-  "2022-04-22": 604,
-  "2022-04-23": 605,
-  "2022-04-24": 605,
-  "2022-04-25": 605,
-  "2022-04-26": 605,
-  "2022-04-27": 606,
-  "2022-04-28": 606,
-  "2022-04-29": 607,
-  "2022-04-30": 607,
-  "2022-05-01": 607,
-  "2022-05-02": 607,
-  "2022-05-03": 608,
-  "2022-05-04": 608,
-  "2022-05-05": 608,
-  "2022-05-06": 608,
-  "2022-05-07": 608,
-  "2022-05-08": 608,
-  "2022-05-09": 608,
-  "2022-05-10": 608,
-  "2022-05-11": 608,
-  "2022-05-12": 608,
-  "2022-05-13": 608,
-  "2022-05-14": 609,
-  "2022-05-15": 609,
-  "2022-05-16": 609,
-  "2022-05-17": 610,
-  "2022-05-18": 610,
-  "2022-05-19": 609,
-  "2022-05-20": 609,
-  "2022-05-21": 609,
-  "2022-05-22": 609,
-  "2022-05-23": 609,
-  "2022-05-24": 609,
-  "2022-05-25": 610,
-  "2022-05-26": 611,
-  "2022-05-27": 612,
-  "2022-05-28": 613,
-  "2022-05-29": 613,
-  "2022-05-30": 613,
-  "2022-05-31": 613,
-  "2022-06-01": 613,
-  "2022-06-02": 614,
-  "2022-06-03": 614,
-  "2022-06-04": 614,
-  "2022-06-05": 614,
-  "2022-06-06": 614,
-  "2022-06-07": 614,
-  "2022-06-08": 614,
-  "2022-06-09": 615,
-  "2022-06-10": 616,
-  "2022-06-11": 616,
-  "2022-06-12": 616,
-  "2022-06-13": 616,
-  "2022-06-14": 616,
-  "2022-06-15": 616,
-  "2022-06-16": 615,
-  "2022-06-17": 614,
-  "2022-06-18": 614,
-  "2022-06-19": 615,
-  "2022-06-20": 615,
-  "2022-06-21": 614,
-  "2022-06-22": 614,
-  "2022-06-23": 614,
-  "2022-06-24": 615,
-  "2022-06-25": 615,
-  "2022-06-26": 615,
-  "2022-06-27": 615,
-  "2022-06-28": 615,
-  "2022-06-29": 616,
-  "2022-06-30": 617,
-  "2022-07-01": 617,
-  "2022-07-02": 617,
-  "2022-07-03": 617,
-  "2022-07-04": 617,
-  "2022-07-05": 617,
-  "2022-07-06": 617,
-  "2022-07-07": 617,
-  "2022-07-08": 617,
-  "2022-07-09": 619,
-  "2022-07-10": 619,
-  "2022-07-11": 619,
-  "2022-07-12": 620,
-  "2022-07-13": 620,
-  "2022-07-14": 620,
-  "2022-07-15": 621,
-  "2022-07-16": 621,
-  "2022-07-17": 621,
-  "2022-07-18": 621,
-  "2022-07-19": 621,
-  "2022-07-20": 622,
-  "2022-07-21": 622,
-  "2022-07-22": 622,
-  "2022-07-23": 622,
-  "2022-07-24": 622,
-  "2022-07-25": 622,
-  "2022-07-26": 622,
-  "2022-07-27": 622,
-  "2022-07-28": 622,
-  "2022-07-29": 623,
-  "2022-07-30": 624,
-  "2022-07-31": 624,
-  "2022-08-01": 625,
-  "2022-08-02": 626,
-  "2022-08-03": 626,
-  "2022-08-04": 627,
-  "2022-08-05": 627,
-  "2022-08-06": 627,
-  "2022-08-07": 627,
-  "2022-08-08": 628,
-  "2022-08-09": 629,
-  "2022-08-10": 630,
-  "2022-08-11": 631,
-  "2022-08-12": 633,
-  "2022-08-13": 633,
-  "2022-08-14": 633,
-  "2022-08-15": 633,
-  "2022-08-16": 633,
-  "2022-08-17": 634,
-  "2022-08-18": 634,
-  "2022-08-19": 636,
-  "2022-08-20": 636,
-  "2022-08-21": 637,
-  "2022-08-22": 637,
-  "2022-08-23": 637,
-  "2022-08-24": 638,
-  "2022-08-25": 639,
-  "2022-08-26": 639,
-  "2022-08-27": 640,
-  "2022-08-28": 641,
-  "2022-08-29": 643,
-  "2022-08-30": 643,
-  "2022-08-31": 643,
-  "2022-09-01": 643,
-  "2022-09-02": 642,
-  "2022-09-03": 644,
-  "2022-09-04": 643,
-  "2022-09-05": 644,
-  "2022-09-06": 644,
-  "2022-09-07": 644,
-  "2022-09-09": 644,
-  "2022-09-10": 644,
-  "2022-09-11": 645,
-  "2022-09-12": 644,
-  "2022-09-13": 645,
-  "2022-09-15": 646,
-  "2022-09-16": 646,
-  "2022-09-17": 647,
-  "2022-09-18": 647,
-  "2022-09-19": 647,
-  "2022-09-20": 647,
-  "2022-09-21": 648,
-  "2022-09-22": 648,
-  "2022-09-23": 648,
-  "2022-09-24": 649,
-  "2022-09-25": 649,
-  "2022-09-26": 649,
-  "2022-09-27": 651,
-  "2022-09-28": 652,
-  "2022-09-29": 652,
-  "2022-09-30": 652,
-  "2022-10-01": 652,
-  "2022-10-02": 653,
-  "2022-10-03": 653,
-  "2022-10-04": 653,
-  "2022-10-05": 653,
-  "2022-10-06": 653,
-  "2022-10-07": 653,
-  "2022-10-08": 654,
-  "2022-10-09": 654,
-  "2022-10-10": 654,
-  "2022-10-11": 654,
-  "2022-10-12": 654,
-  "2022-10-13": 654,
-  "2022-10-14": 654,
-  "2022-10-15": 654,
-  "2022-10-16": 654,
-  "2022-10-17": 656,
-  "2022-10-18": 656,
-  "2022-10-19": 656,
-  "2022-10-20": 657,
-  "2022-10-21": 657,
-  "2022-10-22": 658,
-  "2022-10-23": 658,
-  "2022-10-24": 658,
-  "2022-10-25": 659,
-  "2022-10-26": 659,
-  "2022-10-27": 659,
-  "2022-10-28": 659,
-  "2022-10-29": 659,
-  "2022-10-30": 659,
-  "2022-10-31": 660,
-  "2022-11-01": 660,
-  "2022-11-02": 660,
-  "2022-11-03": 660,
-  "2022-11-04": 662,
-  "2022-11-05": 662,
-  "2022-11-06": 661,
-  "2022-11-07": 661,
-  "2022-11-08": 662,
-  "2022-11-09": 662,
-  "2022-11-10": 662,
-  "2022-11-11": 663,
-  "2022-11-12": 663,
-  "2022-11-13": 663,
-  "2022-11-14": 663,
-  "2022-11-15": 665,
-  "2022-11-16": 665,
-  "2022-11-17": 665,
-  "2022-11-18": 665,
-  "2022-11-19": 664,
-  "2022-11-20": 666,
-  "2022-11-21": 665,
-  "2022-11-22": 665,
-  "2022-11-23": 665,
-  "2022-11-24": 665,
-  "2022-11-25": 667,
-  "2022-11-26": 670,
-  "2022-11-27": 670,
-  "2022-11-28": 669,
-  "2022-11-29": 669,
-  "2022-11-30": 669,
-  "2022-12-01": 669,
-  "2022-12-02": 669,
-  "2022-12-03": 669,
-  "2022-12-04": 669,
-  "2022-12-05": 669,
-  "2022-12-06": 670,
-  "2022-12-07": 670,
-  "2022-12-08": 671,
-  "2022-12-09": 671,
-  "2022-12-10": 671,
-  "2022-12-11": 671,
-  "2022-12-12": 670,
-  "2022-12-13": 670,
-  "2022-12-14": 669,
-  "2022-12-15": 670,
-  "2022-12-16": 672,
-  "2022-12-17": 672,
-  "2022-12-18": 671,
-  "2022-12-19": 671,
-  "2022-12-20": 672,
-  "2022-12-21": 672,
-  "2022-12-22": 672,
-  "2022-12-24": 673,
-  "2022-12-25": 673,
-  "2022-12-26": 672,
-  "2022-12-27": 672,
-  "2022-12-28": 672,
-  "2022-12-29": 672,
-  "2022-12-30": 672,
-  "2022-12-31": 672,
-  "2023-01-01": 672,
-  "2023-01-02": 673,
-  "2023-01-03": 673,
-  "2023-01-04": 673,
-  "2023-01-05": 673,
-  "2023-01-06": 674,
-  "2023-01-07": 674,
-  "2023-01-08": 674,
-  "2023-01-09": 674,
-  "2023-01-10": 674,
-  "2023-01-11": 674,
-  "2023-01-12": 674,
-  "2023-01-13": 674,
-  "2023-01-14": 674,
-  "2023-01-15": 674,
-  "2023-01-16": 675,
-  "2023-01-17": 676,
-  "2023-01-18": 676,
-  "2023-01-19": 681,
-  "2023-01-20": 682,
-  "2023-01-21": 683,
-  "2023-01-22": 682,
-  "2023-01-23": 682,
-  "2023-01-24": 682,
-  "2023-01-25": 682,
-  "2023-01-26": 682,
-  "2023-01-27": 683,
-  "2023-01-28": 683,
-  "2023-01-29": 683,
-  "2023-01-30": 683,
-  "2023-01-31": 683,
-  "2023-02-01": 683,
-  "2023-02-02": 683,
-  "2023-02-03": 684,
-  "2023-02-04": 686,
-  "2023-02-05": 687,
-  "2023-02-06": 687,
-  "2023-02-07": 687,
-  "2023-02-08": 689,
-  "2023-02-09": 689,
-  "2023-02-10": 689,
-  "2023-02-11": 692,
-  "2023-02-12": 692,
-  "2023-02-13": 692,
-  "2023-02-14": 692,
-  "2023-02-15": 692,
-  "2023-02-16": 692,
-  "2023-02-17": 693,
-  "2023-02-18": 695,
-  "2023-02-19": 695,
-  "2023-02-20": 696,
-  "2023-02-21": 696,
-  "2023-02-22": 696,
-  "2023-02-23": 695,
-  "2023-02-24": 696,
-  "2023-02-25": 697,
-  "2023-02-26": 697,
-  "2023-02-27": 697,
-  "2023-02-28": 697,
-  "2023-03-01": 696,
-  "2023-03-02": 697,
-  "2023-03-03": 699,
-  "2023-03-04": 698,
-  "2023-03-05": 699,
-  "2023-03-06": 699,
-  "2023-03-07": 700,
-  "2023-03-08": 700,
-  "2023-03-09": 700,
-  "2023-03-10": 700,
-  "2023-03-11": 701,
-  "2023-03-12": 701,
-  "2023-03-13": 701,
-  "2023-03-14": 702,
-  "2023-03-15": 702,
-  "2023-03-16": 702,
-  "2023-03-17": 702,
-  "2023-03-18": 703,
-  "2023-03-19": 704,
-  "2023-03-20": 704,
-  "2023-03-21": 704,
-  "2023-03-22": 704,
-  "2023-03-23": 705,
-  "2023-03-24": 705,
-  "2023-03-25": 705,
-  "2023-03-26": 705,
-  "2023-03-27": 705,
-  "2023-03-28": 707,
-  "2023-03-29": 707,
-  "2023-03-30": 707,
-  "2023-03-31": 707,
-  "2023-04-01": 707,
-  "2023-04-02": 709,
-  "2023-04-03": 710,
-  "2023-04-04": 710,
-  "2023-04-05": 710,
-  "2023-04-06": 710,
-  "2023-04-07": 710,
-  "2023-04-09": 709,
-  "2023-04-10": 709,
-  "2023-04-11": 710,
-  "2023-04-12": 710,
-  "2023-04-13": 710,
-  "2023-04-14": 710,
-  "2023-04-15": 710,
-  "2023-04-16": 710,
-  "2023-04-17": 710,
-  "2023-04-18": 711,
-  "2023-04-19": 712,
-  "2023-04-20": 712,
-  "2023-04-21": 714,
-  "2023-04-22": 713,
-  "2023-04-23": 713,
-  "2023-04-24": 712,
-  "2023-04-25": 712,
-  "2023-04-26": 712,
-  "2023-04-27": 712,
-  "2023-04-28": 712,
-  "2023-04-29": 712,
-  "2023-04-30": 712,
-  "2023-05-01": 712,
-  "2023-05-02": 712,
-  "2023-05-03": 712,
-  "2023-05-04": 712,
-  "2023-05-05": 713,
-  "2023-05-06": 713,
-  "2023-05-07": 713,
-  "2023-05-08": 713,
-  "2023-05-09": 713,
-  "2023-05-10": 713,
-  "2023-05-11": 713,
-  "2023-05-12": 713,
-  "2023-05-13": 713,
-  "2023-05-14": 713,
-  "2023-05-15": 713,
-  "2023-05-16": 713,
-  "2023-05-17": 713,
-  "2023-05-18": 713,
-  "2023-05-19": 713,
-  "2023-05-20": 714,
-  "2023-05-21": 714,
-  "2023-05-22": 714,
-  "2023-05-23": 714,
-  "2023-05-24": 714,
-  "2023-05-25": 714,
-  "2023-05-26": 714,
-  "2023-05-27": 714,
-  "2023-05-28": 714,
-  "2023-05-29": 714,
-  "2023-05-30": 713,
-  "2023-05-31": 713,
-  "2023-06-01": 713,
-  "2023-06-02": 713,
-  "2023-06-03": 713,
-  "2023-06-04": 713,
-  "2023-06-05": 713,
-  "2023-06-06": 713,
-  "2023-06-07": 713,
-  "2023-06-08": 713,
-  "2023-06-09": 713,
-  "2023-06-10": 713,
-  "2023-06-11": 713,
-  "2023-06-12": 713,
-  "2023-06-13": 714,
-  "2023-06-14": 714,
-  "2023-06-15": 714,
-  "2023-06-16": 714,
-  "2023-06-17": 714,
-  "2023-06-18": 714,
-  "2023-06-19": 714,
-  "2023-06-20": 714,
-  "2023-06-21": 714,
-  "2023-06-22": 714,
-  "2023-06-23": 714,
-  "2023-06-24": 714,
-  "2023-06-25": 714,
-  "2023-06-26": 715,
-  "2023-06-27": 715,
-  "2023-06-28": 714,
-  "2023-06-29": 714,
-  "2023-06-30": 714,
-  "2023-07-01": 716,
-  "2023-07-02": 716,
-  "2023-07-03": 716,
-  "2023-07-04": 716,
-  "2023-07-05": 715,
-  "2023-07-06": 715,
-  "2023-07-07": 715,
-  "2023-07-08": 715,
-  "2023-07-09": 715,
-  "2023-07-10": 715,
-  "2023-07-11": 715,
-  "2023-07-12": 715,
-  "2023-07-13": 715,
-  "2023-07-14": 715,
-  "2023-07-15": 714,
-  "2023-07-16": 714,
-  "2023-07-17": 714,
-  "2023-07-18": 714,
-  "2023-07-19": 714,
-  "2023-07-20": 714,
-  "2023-07-21": 714,
-  "2023-07-22": 715,
-  "2023-07-23": 715,
-  "2023-07-24": 715,
-  "2023-07-25": 716,
-  "2023-07-26": 716,
-  "2023-07-27": 716,
-  "2023-07-28": 716,
-  "2023-07-29": 715,
-  "2023-07-30": 715,
-  "2023-07-31": 716,
-  "2023-08-01": 716,
-  "2023-08-02": 717,
-  "2023-08-03": 717,
-  "2023-08-04": 717,
-  "2023-08-05": 717,
-  "2023-08-06": 717,
-  "2023-08-07": 717,
-  "2023-08-08": 717,
-  "2023-08-09": 716,
-  "2023-08-10": 716,
-  "2023-08-11": 716,
-  "2023-08-12": 716,
-  "2023-08-13": 716,
-  "2023-08-14": 716,
-  "2023-08-15": 716,
-  "2023-08-16": 716,
-  "2023-08-17": 716,
-  "2023-08-18": 717,
-  "2023-08-19": 717,
-  "2023-08-20": 717,
-  "2023-08-21": 717,
-  "2023-08-22": 717,
-  "2023-08-23": 717,
-  "2023-08-24": 717,
-  "2023-08-25": 718,
-  "2023-08-26": 718,
-  "2023-08-27": 718,
-  "2023-08-28": 718,
-  "2023-08-29": 718,
-  "2023-08-30": 719,
-  "2023-08-31": 718,
-  "2023-09-01": 719,
-  "2023-09-02": 719,
-  "2023-09-03": 718,
-  "2023-09-04": 718,
-  "2023-09-05": 718,
-  "2023-09-06": 718,
-  "2023-09-07": 718,
-  "2023-09-08": 718,
-  "2023-09-09": 719,
-  "2023-09-10": 719,
-  "2023-09-11": 719,
-  "2023-09-12": 719,
-  "2023-09-13": 719,
-  "2023-09-14": 719,
-  "2023-09-15": 719,
-  "2023-09-16": 719,
-  "2023-09-17": 719,
-  "2023-09-18": 719,
-  "2023-09-19": 719,
-  "2023-09-20": 719,
-  "2023-09-21": 719,
-  "2023-09-22": 720,
-  "2023-09-23": 720,
-  "2023-09-24": 721,
-  "2023-09-25": 721,
-  "2023-09-26": 721,
-  "2023-09-27": 721,
-  "2023-09-28": 721,
-  "2023-09-29": 721,
-  "2023-09-30": 721,
-  "2023-10-01": 721,
-  "2023-10-02": 720,
-  "2023-10-03": 721,
-  "2023-10-04": 720,
-  "2023-10-05": 720,
-  "2023-10-06": 719,
-  "2023-10-07": 719,
-  "2023-10-08": 718,
-  "2023-10-09": 718,
-  "2023-10-10": 718,
-  "2023-10-11": 718,
-  "2023-10-12": 718,
-  "2023-10-13": 718,
-  "2023-10-14": 718,
-  "2023-10-15": 718,
-  "2023-10-16": 717,
-  "2023-10-17": 717,
-  "2023-10-18": 717,
-  "2023-10-19": 717,
-  "2023-10-20": 717,
-  "2023-10-21": 717,
-  "2023-10-22": 717,
-  "2023-10-23": 717,
-  "2023-10-24": 717,
-  "2023-10-25": 717,
-  "2023-10-26": 717,
-  "2023-10-27": 717,
-  "2023-10-28": 717,
-  "2023-10-29": 718,
-  "2023-10-30": 719,
-  "2023-10-31": 719,
-  "2023-11-01": 719,
-  "2023-11-02": 719,
-  "2023-11-03": 719,
-  "2023-11-04": 719,
-  "2023-11-05": 719,
-  "2023-11-06": 719,
-  "2023-11-07": 719,
-  "2023-11-08": 718,
-  "2023-11-09": 719,
-  "2023-11-10": 718,
-  "2023-11-11": 719,
-  "2023-11-12": 720,
-  "2023-11-13": 720,
-  "2023-11-14": 720,
-  "2023-11-15": 720,
-  "2023-11-16": 722,
-  "2023-11-17": 722,
-  "2023-11-18": 722,
-  "2023-11-19": 722,
-  "2023-11-20": 722,
-  "2023-11-21": 722,
-  "2023-11-22": 722,
-  "2023-11-23": 722,
-  "2023-11-24": 722,
-  "2023-11-25": 722,
-  "2023-11-26": 722,
-  "2023-11-27": 723,
-  "2023-11-28": 722,
-  "2023-11-29": 724,
-  "2023-11-30": 724,
-  "2023-12-01": 723,
-  "2023-12-02": 723,
-  "2023-12-03": 723,
-  "2023-12-04": 723,
-  "2023-12-05": 722,
-  "2023-12-06": 722,
-  "2023-12-07": 722,
-  "2023-12-08": 722,
-  "2023-12-09": 722,
-  "2023-12-10": 722,
-  "2023-12-11": 722,
-  "2023-12-12": 722,
-  "2023-12-13": 722,
-  "2023-12-14": 722,
-  "2023-12-15": 722,
-  "2023-12-16": 722,
-  "2023-12-17": 722,
-  "2023-12-18": 722,
-  "2023-12-19": 722,
-  "2023-12-20": 722,
-  "2023-12-21": 722,
-  "2023-12-22": 722,
-  "2023-12-23": 722,
-  "2023-12-24": 722,
-  "2023-12-25": 722,
-  "2023-12-26": 722,
-  "2023-12-27": 722,
-  "2023-12-30": 722,
-  "2023-12-31": 721,
-  "2024-01-01": 721,
-  "2024-01-02": 721,
-  "2024-01-03": 721
+  "2024-01-17": 719,
+  "date_first_scraped": "2022-04-19",
+  "description": "Songs to help your kids learn in English and Spanish!",
+  "name": "\u00a1Let's Aprender!",
+  "tracks": [
+    {
+      "album": {
+        "name": "All-Time Favorites 1",
+        "url": "https://open.spotify.com/album/4NrLPZaAgx6XWXlAnjdYFD"
+      },
+      "artists": [
+        {
+          "name": "Cookie Monster",
+          "url": "https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87400,
+      "name": "\"C\" Is for Cookie",
+      "url": "https://open.spotify.com/track/4A42MpqLUMijUxh9PZdqoq"
+    },
+    {
+      "album": {
+        "name": "Abc Phonics Song",
+        "url": "https://open.spotify.com/album/4cNNe5IYhsrsio1Xh9jEVN"
+      },
+      "artists": [
+        {
+          "name": "The Learning Station",
+          "url": "https://open.spotify.com/artist/0qIXXh38Do2fvBqiUjiHbm"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161463,
+      "name": "Abc Phonics Song",
+      "url": "https://open.spotify.com/track/6C0KJ9MMjL4G3FkkpUSQph"
+    },
+    {
+      "album": {
+        "name": "Learning Letters in the Classroom",
+        "url": "https://open.spotify.com/album/76evQcPiAR5Ec4egk4ipy1"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "ABC Song (Now I Know MY ABCs)",
+      "url": "https://open.spotify.com/track/2a2vb2BBrHIzDaLFQq56e8"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96000,
+      "name": "ABC Song (Now I Know MY ABCs)",
+      "url": "https://open.spotify.com/track/3YYHpNrXTFwChTbaOwv7ni"
+    },
+    {
+      "album": {
+        "name": "All-Time Favorites 1",
+        "url": "https://open.spotify.com/album/4NrLPZaAgx6XWXlAnjdYFD"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106053,
+      "name": "ABC-DEF-GHI",
+      "url": "https://open.spotify.com/track/7f0kigcXF0041AyUGbMdkk"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/5oBOEdezn50Wgt9mv3xh9V"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 108410,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/1Rt5jDuAVWdTNRvUt1JF4Z"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/0u9yhBGC9a8wyNUDilI0QT"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108410,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/57ocGtdjzazXaV0HRxTug1"
+    },
+    {
+      "album": {
+        "name": "Bubble Guppies Bubble Bops!",
+        "url": "https://open.spotify.com/album/7b6l4ldOcy0FtFkI3pAgLF"
+      },
+      "artists": [
+        {
+          "name": "Bubble Guppies Cast",
+          "url": "https://open.spotify.com/artist/6pWkuBPSzAfEZP83VhSL99"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 108410,
+      "name": "At the Zoo",
+      "url": "https://open.spotify.com/track/7G7x8nNHG5WKbNh0FQ2WOB"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Bichos",
+      "url": "https://open.spotify.com/track/3peRufMxZi9baS60hEK4BN"
+    },
+    {
+      "album": {
+        "name": "\u00a1Diversi\u00f3n en la Granja de Animales!",
+        "url": "https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124726,
+      "name": "Bingo (El Abecedario y los N\u00fameros)",
+      "url": "https://open.spotify.com/track/48CyJpHXn5eedkqy5roU07"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124726,
+      "name": "Bingo (El Abecedario y los N\u00fameros)",
+      "url": "https://open.spotify.com/track/7CDbZ2MufocDSGSG30KuLe"
+    },
+    {
+      "album": {
+        "name": "Learning Songs, Vol. 1 - Counting!",
+        "url": "https://open.spotify.com/album/1zKvQCMJ57vF2jaz8LmEUw"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123280,
+      "name": "Bingo Song - ABCs and 123s",
+      "url": "https://open.spotify.com/track/17Tyq0AeUiFrV5RiXBtjGd"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 123280,
+      "name": "Bingo Song - ABCs and 123s",
+      "url": "https://open.spotify.com/track/5wgNbLATNUHqJgXMGUW9sD"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles y M\u00fasica Infantil",
+        "url": "https://open.spotify.com/album/2tWX7GIwYl13czIw4CQEb1"
+      },
+      "artists": [
+        {
+          "name": "La Superstar De Las Canciones Infantiles",
+          "url": "https://open.spotify.com/artist/3LTE8GZvyNxWXRrtXc228U"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66000,
+      "name": "Cabeza, hombros, rodillas y pies",
+      "url": "https://open.spotify.com/track/16Yn5xeg3TZGvxIGnHG1kl"
+    },
+    {
+      "album": {
+        "name": "El Reino Infantil Vol. 2",
+        "url": "https://open.spotify.com/album/5hGTxEwPDXSov7ZT1AwKVa"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118781,
+      "name": "Canci\u00f3n para contar",
+      "url": "https://open.spotify.com/track/4gVC5YL6p0ooKRrozGkxob"
+    },
+    {
+      "album": {
+        "name": "\u00a1C es para Canta!",
+        "url": "https://open.spotify.com/album/2Am4OCwxhJuQKLAstBzhNq"
+      },
+      "artists": [
+        {
+          "name": "The Sesame Street Kids",
+          "url": "https://open.spotify.com/artist/6kGYHssc98t3PPOiwFlb4G"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Canta (Sing)",
+      "url": "https://open.spotify.com/track/7g0OeBTxxKB4FwXzofUVC6"
+    },
+    {
+      "album": {
+        "name": "Canciones del Zoo Vol. 3",
+        "url": "https://open.spotify.com/album/3COabJotsgeogBvNsNpcok"
+      },
+      "artists": [
+        {
+          "name": "El Reino Infantil",
+          "url": "https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "Cinco Monitos",
+      "url": "https://open.spotify.com/track/2e2sd0X417jZmO7pSLcyys"
+    },
+    {
+      "album": {
+        "name": "Ruidos y Ruiditos, Vol. 2",
+        "url": "https://open.spotify.com/album/2cJUdWMthni7FplLIosIJS"
+      },
+      "artists": [
+        {
+          "name": "Judith Akoschky",
+          "url": "https://open.spotify.com/artist/1sUBQ6W6QVd9WmKj08qRnJ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Cinco Ratoncitos",
+      "url": "https://open.spotify.com/track/1ZJOsnxsAtNq0AMQkLPTZX"
+    },
+    {
+      "album": {
+        "name": "Ruidos y Ruiditos (Vol. 1)",
+        "url": "https://open.spotify.com/album/7KGm5AeQuF36aIEpEghT9z"
+      },
+      "artists": [
+        {
+          "name": "Judith Akoschky",
+          "url": "https://open.spotify.com/artist/1sUBQ6W6QVd9WmKj08qRnJ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 108000,
+      "name": "Cinco Ratoncitos",
+      "url": "https://open.spotify.com/track/3x0tH9hEsQ3WUf6GFmNNOU"
+    },
+    {
+      "album": {
+        "name": "Letras y Numeros",
+        "url": "https://open.spotify.com/album/4Ndl4dSNXW090qohHFlNUE"
+      },
+      "artists": [
+        {
+          "name": "Jorge Lan",
+          "url": "https://open.spotify.com/artist/02v5zrGrbnMBgl4pIWVHe0"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64626,
+      "name": "Con Cada Letra",
+      "url": "https://open.spotify.com/track/2QYYHtyHys1DyAwrHkm5Kk"
+    },
+    {
+      "album": {
+        "name": "Las Ruedas del Autob\u00fas y M\u00e1s Canciones de Veh\u00edculos",
+        "url": "https://open.spotify.com/album/5WpnQFRViLxLjxOqXWzODf"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "Contar Veh\u00edculos de Colores",
+      "url": "https://open.spotify.com/track/6t6yDRUkINj1RZEi4Fu74h"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 113906,
+      "name": "Contar Veh\u00edculos de Colores",
+      "url": "https://open.spotify.com/track/3oaamZr4QNynCo6vPbuXN4"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113906,
+      "name": "Contar Veh\u00edculos de Colores",
+      "url": "https://open.spotify.com/track/6G2kY5RqTyVSZtlEJkhdRU"
+    },
+    {
+      "album": {
+        "name": "Classroom Songs",
+        "url": "https://open.spotify.com/album/5aEadEk3YW3nJZ0RPXAOKh"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 69375,
+      "name": "Count & Move",
+      "url": "https://open.spotify.com/track/2su98ur3mUwDzbgWKQWILW"
+    },
+    {
+      "album": {
+        "name": "Counting Songs for Kids",
+        "url": "https://open.spotify.com/album/0dlw2wtrVmAo6plmmVLFcy"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 69375,
+      "name": "Count & Move",
+      "url": "https://open.spotify.com/track/6ReIRVkAsOLkSTTyOn2uo2"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & More Kids Songs",
+        "url": "https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70891,
+      "name": "Count & Move",
+      "url": "https://open.spotify.com/track/62DApnlLEbCxeIoZmx2Fkp"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Fiesta Songs!",
+        "url": "https://open.spotify.com/album/2UtAsfNPW51sH75UhlcFtS"
+      },
+      "artists": [
+        {
+          "name": "Count Von Count",
+          "url": "https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI"
+        },
+        {
+          "name": "Tito & the Bats",
+          "url": "https://open.spotify.com/artist/0wJd04fme8msAhFaKKfzja"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Counting Backwards in Spanish",
+      "url": "https://open.spotify.com/track/1uxF8yhbOirewaayoJHxMA"
+    },
+    {
+      "album": {
+        "name": "Animal Songs, Vol. 2",
+        "url": "https://open.spotify.com/album/57EVetORlpx4SiKLTr6KoT"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91836,
+      "name": "Counting Ducks Song",
+      "url": "https://open.spotify.com/track/2Ec32B6l4fpntU6ZpcPb6A"
+    },
+    {
+      "album": {
+        "name": "Animal Songs and Nursery Rhymes for Children, Vol. 3 - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/2wHrjY2KwfaFSKpZgnvILo"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91836,
+      "name": "Counting Ducks Song",
+      "url": "https://open.spotify.com/track/2XGBwiSqhsW9q8pW4AidEg"
+    },
+    {
+      "album": {
+        "name": "Learning Songs, Vol. 1 - Counting!",
+        "url": "https://open.spotify.com/album/1zKvQCMJ57vF2jaz8LmEUw"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 91836,
+      "name": "Counting Ducks Song",
+      "url": "https://open.spotify.com/track/3VtMpvScmQ4xkMGImxWdxy"
+    },
+    {
+      "album": {
+        "name": "Adelante",
+        "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174511,
+      "name": "Cuantos Tacos (The Taco Song)",
+      "url": "https://open.spotify.com/track/4gwBN4pGzuwvn5uoKe9JCS"
+    },
+    {
+      "album": {
+        "name": "Learning Songs",
+        "url": "https://open.spotify.com/album/05xhT2X7yGBhVsMWkv45Ly"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86020,
+      "name": "Days of the Week",
+      "url": "https://open.spotify.com/track/5WjkCn7MeoYiXIHN79GR7h"
+    },
+    {
+      "album": {
+        "name": "\u00a1Diversi\u00f3n en la Granja de Animales!",
+        "url": "https://open.spotify.com/album/3NTKOcn4UI6ukm4p26aTSU"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124726,
+      "name": "Diez Huevitos",
+      "url": "https://open.spotify.com/track/4yiT2uEgIvsZ9XsAKat3B8"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 124726,
+      "name": "Diez Huevitos",
+      "url": "https://open.spotify.com/track/0oDiDejsvUeCDkshoPiVYp"
+    },
+    {
+      "album": {
+        "name": "Ronda Musical Infantil",
+        "url": "https://open.spotify.com/album/0sJyrcUs0wpott1tvJvNXj"
+      },
+      "artists": [
+        {
+          "name": "Felix Canales",
+          "url": "https://open.spotify.com/artist/023KBSapQrYaQEs8EgN0vx"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190976,
+      "name": "El T\u00edo McDonald Ten\u00eda una Granja",
+      "url": "https://open.spotify.com/track/4PQHPHrY05iVfWnloiUuQf"
+    },
+    {
+      "album": {
+        "name": "Las 100 Cl\u00e1sicas de Cri Cri, Vol. 2",
+        "url": "https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149386,
+      "name": "Escuela de Perritos",
+      "url": "https://open.spotify.com/track/1xaIfPBnOV3aWKx2nrEMBM"
+    },
+    {
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/3dPdREEhxWnXBcVDcl90Ea"
+      },
+      "artists": [
+        {
+          "name": "Chiquititas",
+          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132773,
+      "name": "Hasta Diez",
+      "url": "https://open.spotify.com/track/4vdyMCHuBNWRVPysXZFtsc"
+    },
+    {
+      "album": {
+        "name": "24 Horas",
+        "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
+      },
+      "artists": [
+        {
+          "name": "Chiquititas",
+          "url": "https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 132773,
+      "name": "Hasta Diez",
+      "url": "https://open.spotify.com/track/6tUYiOgNXLU72ZQUQk3dgF"
+    },
+    {
+      "album": {
+        "name": "Learning Songs",
+        "url": "https://open.spotify.com/album/05xhT2X7yGBhVsMWkv45Ly"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106000,
+      "name": "If You Know All the Seasons - 2012 Version",
+      "url": "https://open.spotify.com/track/4tBZMSnovDVNBlDxZklNh5"
+    },
+    {
+      "album": {
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 3 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0sESu4JK502RYgNZBC27lJ"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91139,
+      "name": "La Canci\u00f3n de los Colores del Arco Iris",
+      "url": "https://open.spotify.com/track/1nrJvpZU0L37rc4XgVirkN"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91139,
+      "name": "La Canci\u00f3n de los Colores del Arco Iris",
+      "url": "https://open.spotify.com/track/4tQ4soXO34sGvHR9rXoL1L"
+    },
+    {
+      "album": {
+        "name": "\u00a1ABC, 123, Colores y Figuras!",
+        "url": "https://open.spotify.com/album/1XEDdfACwROZsHARJ1rS7T"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "La Canci\u00f3n del ABC",
+      "url": "https://open.spotify.com/track/6PbagrbF4H4aEs7XXCcOXL"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96000,
+      "name": "La Canci\u00f3n del ABC",
+      "url": "https://open.spotify.com/track/5FmaEGHKIAa99FNaQJkuAp"
+    },
+    {
+      "album": {
+        "name": "Baile, Juegos y Diversi\u00f3n para el Recreo",
+        "url": "https://open.spotify.com/album/17OiV3LrDZlLUm1j0RJQI2"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 96000,
+      "name": "La Canci\u00f3n del ABC",
+      "url": "https://open.spotify.com/track/7ssEZaZDJ1yBPdSgqew0ik"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122895,
+      "name": "La Canci\u00f3n del Tren",
+      "url": "https://open.spotify.com/track/6z7Z8LLWdAIgyeTcOe5XH4"
+    },
+    {
+      "album": {
+        "name": "Nanas y Canciones para Ni\u00f1os, Vol. 8 (Cantar y Aprender con LittleBabyBum)",
+        "url": "https://open.spotify.com/album/5RPEDvQsMWuZ3DURrH01x4"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/64eFqyIS1dsTv725lcQ25w"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122895,
+      "name": "La Canci\u00f3n del Tren de Formas",
+      "url": "https://open.spotify.com/track/6owNfXnjfSzSKfeKEL8Ebo"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Rima Ni\u00f1os Amigos",
+          "url": "https://open.spotify.com/artist/4jxICVokHTn2J2VwTCvPxm"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 122895,
+      "name": "La Canci\u00f3n del Tren de Formas",
+      "url": "https://open.spotify.com/track/4YLIsuNXY1esQo2xIk9KU1"
+    },
+    {
+      "album": {
+        "name": "\u00a1Viva Mi Planeta! (Versi\u00f3n Audio)",
+        "url": "https://open.spotify.com/album/0cMtQQ0cRiBFqWyoXMp6K9"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124306,
+      "name": "La Galaxia de las Letras",
+      "url": "https://open.spotify.com/track/5vVUAIQzdknDiqgwurh0de"
+    },
+    {
+      "album": {
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104257,
+      "name": "Las Cuatro Estaciones",
+      "url": "https://open.spotify.com/track/4qKLnu1BxIM7O3OoTk2wwR"
+    },
+    {
+      "album": {
+        "name": "Wheels on the Bus & More Vehicle Songs!",
+        "url": "https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113906,
+      "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+      "url": "https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 113906,
+      "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+      "url": "https://open.spotify.com/track/2qoa06w5d05xfzmlTrz9Ra"
+    },
+    {
+      "album": {
+        "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+        "url": "https://open.spotify.com/album/6wN2BEennZBtVma7Z1DDF7"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 113906,
+      "name": "Learn Numbers and Colours Song - Bus, Cars and Trucks",
+      "url": "https://open.spotify.com/track/669yctsCsIjukbyRlXo7NW"
+    },
+    {
+      "album": {
+        "name": "Letter B Song",
+        "url": "https://open.spotify.com/album/5q2xQhlLtoUeu2L8CJEpwi"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67500,
+      "name": "Letter B Song",
+      "url": "https://open.spotify.com/track/5xL1i0wCQ1kAk5YiaIow1S"
+    },
+    {
+      "album": {
+        "name": "N Is for Numbers!",
+        "url": "https://open.spotify.com/album/2adtSJ5NVSnB3YPNfValJ0"
+      },
+      "artists": [
+        {
+          "name": "Count Von Count",
+          "url": "https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI"
+        },
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/4t8Z2cp7ogUDJcmOjDoEpe"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125573,
+      "name": "Little Miss Count Along",
+      "url": "https://open.spotify.com/track/1IeCKu6vTiR0gyeoRhpFJK"
+    },
+    {
+      "album": {
+        "name": "\u00a1Fantastico!",
+        "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
+      },
+      "artists": [
+        {
+          "name": "Lucky Diaz and the Family Jam Band",
+          "url": "https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179026,
+      "name": "Los Numeros",
+      "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
+    },
+    {
+      "album": {
+        "name": "La Vaca Lola Y Otras Canciones Infantiles",
+        "url": "https://open.spotify.com/album/4h2B0YWCUOVfOO7irnLB17"
+      },
+      "artists": [
+        {
+          "name": "La Vaca Lola La Vaca Lola",
+          "url": "https://open.spotify.com/artist/1H89yfXllRrOvumojYn7yr"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78000,
+      "name": "Los Pollitos Dicen Pio Pio",
+      "url": "https://open.spotify.com/track/0Au8V5YJFWPWqDHfhKhHCz"
+    },
+    {
+      "album": {
+        "name": "RCA 100 A\u00f1os de M\u00fasica - Segunda Parte",
+        "url": "https://open.spotify.com/album/35tXa79TFnXRr6j2wWuDFS"
+      },
+      "artists": [
+        {
+          "name": "Cri-Cri",
+          "url": "https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156920,
+      "name": "Marcha de las Letras - Remasterizado",
+      "url": "https://open.spotify.com/track/5bKzsNRXlGq1XQn8zojVpz"
+    },
+    {
+      "album": {
+        "name": "Radio Jungle",
+        "url": "https://open.spotify.com/album/2AB8yOMrkGnkzCdvVUuKte"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 194372,
+      "name": "Math Rock",
+      "url": "https://open.spotify.com/track/1BtyMTwHG9Hul83lnmwlwt"
+    },
+    {
+      "album": {
+        "name": "Radio Jungle",
+        "url": "https://open.spotify.com/album/4IYiLuEwpQ3ksLwzmagQxu"
+      },
+      "artists": [
+        {
+          "name": "The Pop Ups",
+          "url": "https://open.spotify.com/artist/3GkU6eKKcQk2cOtu14MDgw"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194372,
+      "name": "Math Rock",
+      "url": "https://open.spotify.com/track/3GxB1NBguq3n4Ri6gekJHI"
+    },
+    {
+      "album": {
+        "name": "\u00a1C es para Canta!",
+        "url": "https://open.spotify.com/album/2Am4OCwxhJuQKLAstBzhNq"
+      },
+      "artists": [
+        {
+          "name": "Rosita",
+          "url": "https://open.spotify.com/artist/2wxve9scaPJQnUUKE3Q4Sf"
+        },
+        {
+          "name": "Sesame Street's Luis",
+          "url": "https://open.spotify.com/artist/5gkgowgHErOkz7nmAed0hD"
+        },
+        {
+          "name": "Sesame Street's Maria",
+          "url": "https://open.spotify.com/artist/57OWlDKazIVF2qqFDWoFFp"
+        },
+        {
+          "name": "Sesame Street",
+          "url": "https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109853,
+      "name": "Me Gusta (I Like It)",
+      "url": "https://open.spotify.com/track/4C1r13PlR7cmnCf1eEnU8X"
+    },
+    {
+      "album": {
+        "name": "CD2:Yo Soy Panam - Vol.2",
+        "url": "https://open.spotify.com/album/2ettljH6l8EIeEsFc0rTGT"
+      },
+      "artists": [
+        {
+          "name": "Panam y Circo",
+          "url": "https://open.spotify.com/artist/0hjh0CtlHZMyBcu4e8y8xW"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173360,
+      "name": "Mi Sopa de Letras",
+      "url": "https://open.spotify.com/track/7e2ZoYqkJzphbPi57ShqYl"
+    },
+    {
+      "album": {
+        "name": "Why?",
+        "url": "https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126505,
+      "name": "Moles, Hounds, Bears, Bees and Hares",
+      "url": "https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi"
+    },
+    {
+      "album": {
+        "name": "Educational Songs 3",
+        "url": "https://open.spotify.com/album/1p4aAAwr9unLhUL0mrmsnn"
+      },
+      "artists": [
+        {
+          "name": "Kids TV 123",
+          "url": "https://open.spotify.com/artist/0zC8dOCRSyLAqsBq99du1f"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "Old MacDonald Had a Farm",
+      "url": "https://open.spotify.com/track/2L9xurw5eLbFlxzNSwQsUA"
+    },
+    {
+      "album": {
+        "name": "Sounds Like Fun by Barbara Milne",
+        "url": "https://open.spotify.com/album/47sxgesT4JUa5XH9GXHoQ6"
+      },
+      "artists": [
+        {
+          "name": "Barbara Milne",
+          "url": "https://open.spotify.com/artist/4MQPTZi9TH3JNc6yGnLp6x"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91573,
+      "name": "One to Ten in Spanish",
+      "url": "https://open.spotify.com/track/607fJ6gaCzapC2vzRNTIYt"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Favorite Classic Kids' Songs",
+        "url": "https://open.spotify.com/album/7H52XlHHIAZ8gLnNvjZEHl"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 40945,
+      "name": "One Two Buckle My Shoe",
+      "url": "https://open.spotify.com/track/3i9w1SJX31DC4onEpSqtat"
+    },
+    {
+      "album": {
+        "name": "Laurie Berkner's Favorite Classic Kids' Songs",
+        "url": "https://open.spotify.com/album/6DL5ZTWLrApqcpOXN2ljj9"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40945,
+      "name": "One Two Buckle My Shoe",
+      "url": "https://open.spotify.com/track/7gdB3HCeYvUg3wp2CkOwHx"
+    },
+    {
+      "album": {
+        "name": "En Vivo - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/7lRcKpMoYWFNvn2VLrXycs"
+      },
+      "artists": [
+        {
+          "name": "Pica-Pica",
+          "url": "https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337923,
+      "name": "Popurr\u00ed de animales (El se\u00f1or don Gato - La cucaracha - Pollito chicken) - Remasterizado 2016",
+      "url": "https://open.spotify.com/track/0fqm5VQW2MnitfZJ0oVopy"
+    },
+    {
+      "album": {
+        "name": "Porque yo te quiero",
+        "url": "https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137746,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/7vcvb93WzpZA1WGhrhBqPI"
+    },
+    {
+      "album": {
+        "name": "Nursery Rhymes & Children's Songs, Vol. 3 (Sing & Learn with LittleBabyBum)",
+        "url": "https://open.spotify.com/album/0za6wcd3SWkmyKn4ToVffG"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91139,
+      "name": "Rainbow Colors Song",
+      "url": "https://open.spotify.com/track/1ZyZxL7FAqAaEWWid5FDyR"
+    },
+    {
+      "album": {
+        "name": "Learn German - Lern Englisch",
+        "url": "https://open.spotify.com/album/0bjT7VIKtNa4H4F4uTt6r6"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 91139,
+      "name": "Rainbow Colors Song",
+      "url": "https://open.spotify.com/track/2Un31Y92ulLTNrZKoJlfAV"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 91139,
+      "name": "Rainbow Colors Song",
+      "url": "https://open.spotify.com/track/34bBmSl0cnSqxxwhVTJNlO"
+    },
+    {
+      "album": {
+        "name": "Colors!",
+        "url": "https://open.spotify.com/album/7GNrmUgUdUJsWu9XiCGO3T"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112200,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/0rI7Nb3sQsT8Yt9ML9guc9"
+    },
+    {
+      "album": {
+        "name": "Colors!",
+        "url": "https://open.spotify.com/album/24XJsYLdtZ5o0asVUgMobS"
+      },
+      "artists": [
+        {
+          "name": "Pancake Manor",
+          "url": "https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 112200,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7BSXTBBAjLoqnVGgv9I2Z4"
+    },
+    {
+      "album": {
+        "name": "Here Comes Science",
+        "url": "https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Roy G. Biv",
+      "url": "https://open.spotify.com/track/0UG9o1jtxAPt2aZXvWefBS"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 122872,
+      "name": "Shapes Train Song",
+      "url": "https://open.spotify.com/track/4DvfoXiSwTT6TOAQ2XTwmx"
+    },
+    {
+      "album": {
+        "name": "ABC Colors Shapes and More - Fun Songs for Learning with LittleBabyBum",
+        "url": "https://open.spotify.com/album/73AdelAITLoU5PxRGGYyk0"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122872,
+      "name": "Shapes Train Song",
+      "url": "https://open.spotify.com/track/5EQNnclurQIg5uAtNcqfc0"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 122872,
+      "name": "Shapes Train Song",
+      "url": "https://open.spotify.com/track/60mJzNoEc2k08FFNMTqP4i"
+    },
+    {
+      "album": {
+        "name": "Planets of Our Solar System",
+        "url": "https://open.spotify.com/album/6iApbHoANBNEz1hxZ6eLcv"
+      },
+      "artists": [
+        {
+          "name": "Kids Learning Tube",
+          "url": "https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206106,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/4bRKc6gfJwv6MykBCOj6ju"
+    },
+    {
+      "album": {
+        "name": "Planets of Our Solar System",
+        "url": "https://open.spotify.com/album/6IDvLE2zmw0d6mgFHBBLg8"
+      },
+      "artists": [
+        {
+          "name": "Kids Learning Tube",
+          "url": "https://open.spotify.com/artist/3RvQsrlQFlGXHeLl1Vl9e0"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 208561,
+      "name": "Solar System",
+      "url": "https://open.spotify.com/track/5zc9lVtIyznZOSEyQaOwqe"
+    },
+    {
+      "album": {
+        "name": "Loose Tooth",
+        "url": "https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7"
+      },
+      "artists": [
+        {
+          "name": "Juice Box Heroes",
+          "url": "https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Sound Like an Elephant",
+      "url": "https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3"
+    },
+    {
+      "album": {
+        "name": "Learn French - Apprenez l'anglais",
+        "url": "https://open.spotify.com/album/4C9zHKc12UnEnsmnQy02GT"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 119154,
+      "name": "Ten Little Speckled Eggs - Learn Numbers with Chicks and Bunnies",
+      "url": "https://open.spotify.com/track/2nlhaw8vkW29o8YL8TB6PM"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/6Jinhx24ZxUTesnZTFc1NP"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119154,
+      "name": "Ten Little Speckled Eggs - Learn Numbers with Chicks and Bunnies",
+      "url": "https://open.spotify.com/track/3Tr4BBQbmGMmlyl9e6wdBw"
+    },
+    {
+      "album": {
+        "name": "Learn Spanish - Aprende Ingl\u00e9s",
+        "url": "https://open.spotify.com/album/49gD6mZhZkoYmr0n9PL5q5"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2020-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119154,
+      "name": "Ten Little Speckled Eggs - Learn Numbers with Chicks and Bunnies",
+      "url": "https://open.spotify.com/track/5rA5GviXad7rQQzNMQXDyC"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & More Kids Songs",
+        "url": "https://open.spotify.com/album/5x1G4XCXE1i9021srH6cQg"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 104498,
+      "name": "The Alphabet Chant",
+      "url": "https://open.spotify.com/track/4tYk6thaXl4sFEEahK4Tms"
+    },
+    {
+      "album": {
+        "name": "Classroom Songs",
+        "url": "https://open.spotify.com/album/2Nrljq7rYGd2SvyRplYnfA"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 104498,
+      "name": "The Alphabet Chant",
+      "url": "https://open.spotify.com/track/5CSp0nSPjiIJ6My7sUu56M"
+    },
+    {
+      "album": {
+        "name": "Twinkle Twinkle Little Star & More Kids Songs",
+        "url": "https://open.spotify.com/album/2T9jkpdjKDjzoOqPfaCAMu"
+      },
+      "artists": [
+        {
+          "name": "Super Simple Songs",
+          "url": "https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a"
+        },
+        {
+          "name": "Noodle & Pals",
+          "url": "https://open.spotify.com/artist/5r4Bnflqc1rt8z3UIhwwKf"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106338,
+      "name": "The Alphabet Chant",
+      "url": "https://open.spotify.com/track/4lmGHOgGeI327WihOT9B47"
+    },
+    {
+      "album": {
+        "name": "Number Songs",
+        "url": "https://open.spotify.com/album/7gCAneoc2gSI5BqKHeJlxZ"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "The Magic Number World",
+      "url": "https://open.spotify.com/track/7fxlZCcbrrNsiaQpfJv5VW"
+    },
+    {
+      "album": {
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
+      },
+      "artists": [
+        {
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187306,
+      "name": "The Piranha Song",
+      "url": "https://open.spotify.com/track/7Dsbo5Csnzyn47M9DtHc7i"
+    },
+    {
+      "album": {
+        "name": "Educational Songs 1",
+        "url": "https://open.spotify.com/album/1wzSIovQv6FXAUvn6TAq3U"
+      },
+      "artists": [
+        {
+          "name": "Kids TV 123",
+          "url": "https://open.spotify.com/artist/0zC8dOCRSyLAqsBq99du1f"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101680,
+      "name": "The Shapes Song",
+      "url": "https://open.spotify.com/track/7hDnprrtikCpdxSdyoIrd0"
+    },
+    {
+      "album": {
+        "name": "Educational Songs 1",
+        "url": "https://open.spotify.com/album/1wzSIovQv6FXAUvn6TAq3U"
+      },
+      "artists": [
+        {
+          "name": "Kids TV 123",
+          "url": "https://open.spotify.com/artist/0zC8dOCRSyLAqsBq99du1f"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "The Solar System Song",
+      "url": "https://open.spotify.com/track/38EBb626VY2MLEgvRw7UUL"
+    },
+    {
+      "album": {
+        "name": "Sesame Street: Fiesta Songs!",
+        "url": "https://open.spotify.com/album/2UtAsfNPW51sH75UhlcFtS"
+      },
+      "artists": [
+        {
+          "name": "Big Bird",
+          "url": "https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE"
+        },
+        {
+          "name": "Count Von Count",
+          "url": "https://open.spotify.com/artist/1oDbLbJSRUBBOp9SU6NOjI"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107840,
+      "name": "The Spanish Numba Rumba",
+      "url": "https://open.spotify.com/track/34f4sXOY5Wh3tjx1vsXE0d"
+    },
+    {
+      "album": {
+        "name": "Learning Songs",
+        "url": "https://open.spotify.com/album/05xhT2X7yGBhVsMWkv45Ly"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Them ABC Bones",
+      "url": "https://open.spotify.com/track/4ZpZ8CPqyZBV1h6wFRVGsj"
+    },
+    {
+      "album": {
+        "name": "150 Preschool Songs",
+        "url": "https://open.spotify.com/album/6vh3S6NVQ0pNEt70fj7oAf"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79538,
+      "name": "Thirty Days Has September",
+      "url": "https://open.spotify.com/track/5KscD9ewLs2AVOl4TBdHHX"
+    },
+    {
+      "album": {
+        "name": "Mother Goose Club Sings Nursery Rhymes, Vol. 8: Children's Sing Along Songs",
+        "url": "https://open.spotify.com/album/1BurLHHyJ5fhOfjryFHiOs"
+      },
+      "artists": [
+        {
+          "name": "Mother Goose Club",
+          "url": "https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148018,
+      "name": "Twelve Months in a Year",
+      "url": "https://open.spotify.com/track/2PuQJ7Hn5DHwAXYMKIfhud"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles, Series de Televisi\u00f3n",
+        "url": "https://open.spotify.com/album/204OMtaHJh2sLRny1vhaCt"
+      },
+      "artists": [
+        {
+          "name": "Super Banda Infantil",
+          "url": "https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89164,
+      "name": "Un,Dos,Tres,Las Tres Mellizas (De \"Las Tres Mellizas\")",
+      "url": "https://open.spotify.com/track/3Nzgv0Xt8Os10hoPMQ315c"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130280,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/3eVAzZ87xVvV3zFcIYwGnt"
+    },
+    {
+      "album": {
+        "name": "Whaddaya Think Of That?",
+        "url": "https://open.spotify.com/album/43laH3uvyD7glYUOQ6RnjB"
+      },
+      "artists": [
+        {
+          "name": "The Laurie Berkner Band",
+          "url": "https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137066,
+      "name": "We Are The Dinosaurs",
+      "url": "https://open.spotify.com/track/21ryEt5nCkFjsHJHegnLOA"
+    },
+    {
+      "album": {
+        "name": "Learning Songs",
+        "url": "https://open.spotify.com/album/3jMQX3qGGQO2AOoocpdoaG"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "What Colour Am I Wearing?",
+      "url": "https://open.spotify.com/track/1r1WpyhzUksp4MeKBNnywt"
+    },
+    {
+      "album": {
+        "name": "Here Come the 123s",
+        "url": "https://open.spotify.com/album/0zw05iXjK9r60atJFvcVBh"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66106,
+      "name": "Zeroes",
+      "url": "https://open.spotify.com/track/04s49SL2BUMJfjwDthKV1S"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7sSQjtZZJpz"
 }

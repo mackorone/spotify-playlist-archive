@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 107000,
       "name": "Counting All The Sheep",
       "url": "https://open.spotify.com/track/1LGOfdXDa7GQYv8MOq0AzM"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 98000,
       "name": "Dounias Lullaby",
       "url": "https://open.spotify.com/track/4BGXXJp5Y46wo9ieTuL4vr"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 92898,
       "name": "Duermete Mi Nino",
       "url": "https://open.spotify.com/track/2f8NeDKkIfjjmHJMp6ETyb"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 85500,
       "name": "Fly With Sandyman",
       "url": "https://open.spotify.com/track/0FaGs1cOfVWG3DQ4CV2q2q"
@@ -2165,6 +2165,24 @@
     },
     {
       "album": {
+        "name": "Lavender's Blue",
+        "url": "https://open.spotify.com/album/0w8uK0BNQyFZnG9e6NGwu3"
+      },
+      "artists": [
+        {
+          "name": "Eva Bl\u00e1zquez",
+          "url": "https://open.spotify.com/artist/3uhc1JfzKzRdtm3L10LYjn"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83277,
+      "name": "Lavender's Blue",
+      "url": "https://open.spotify.com/track/2D4Tf9ESriW2ZqHfeAxTHn"
+    },
+    {
+      "album": {
         "name": "Let's Go On A Treasure Hunt",
         "url": "https://open.spotify.com/album/022hQEvWHvxHXd5JWuWLpu"
       },
@@ -2212,7 +2230,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 81460,
       "name": "Little Angel",
       "url": "https://open.spotify.com/track/73CaPoHAnTRdZeNHzQHxwf"
@@ -2464,7 +2482,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 89907,
       "name": "Miranda the Rabbit",
       "url": "https://open.spotify.com/track/3x6c0C2XRrdDZtniz3TjD9"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 77570,
       "name": "My Favourite Pillow",
       "url": "https://open.spotify.com/track/29l4of3MD72ipWWlP9VTqB"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 122592,
       "name": "Rabbit In The Hat",
       "url": "https://open.spotify.com/track/00rRb4G7YP7nppzamVFKA2"
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 118115,
       "name": "Sleep My Little Baby",
       "url": "https://open.spotify.com/track/3h8RjQkEJW4BcJg6d3ORyo"
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 93827,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/1afPpNBopNkkDYm9HcHBNY"
@@ -4156,7 +4174,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 82191,
       "name": "Watching The Sunset",
       "url": "https://open.spotify.com/track/3ZKFFf22SwSYsQrWMLKrbq"

@@ -4,7 +4,7 @@
 
 > Dreaming of a white Christmas ✨❄️
 
-346 songs - 18 hr 50 min
+347 songs - 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/track/6bwi6DRMwySEQ1UPzJTSew) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [Cool Yule \(Christmas Edition\)](https://open.spotify.com/album/3ggV8f813nt3mOWA0o31jj) | 2:18 | 2021-12-24 | 2022-07-29 |
 | [Count Your Blessings Instead Of Sheep](https://open.spotify.com/track/0pgP4ROMLqFVDby6dedXwz) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Christmas Songs](https://open.spotify.com/album/6jo4NImjVrEduySw2QJ2cO) | 3:40 | 2021-12-24 | 2023-11-18 |
 | [Counting Down Christmas](https://open.spotify.com/track/33f3uSgwn3G1HQUWOqFG4V) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [A Small Town Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2DTduc4psz9mRSfn3ABE3A) | 3:39 | 2023-12-01 |  |
+| [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-16 |  |
 | [Darling, It's Cold Out](https://open.spotify.com/track/4Kewnn1l7eGhLHVAIPQaLN) | [Cassiøpeia](https://open.spotify.com/artist/5CFPBKGpWF6x5Y4HfRXR4S) | [Darling, It's Cold Out](https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW) | 3:00 | 2022-11-28 | 2023-09-20 |
 | [Deck The Hall](https://open.spotify.com/track/0rHToGels2lt8Y0mCYoF90) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 1:08 | 2023-10-13 |  |
 | [DJ Play A Christmas Song](https://open.spotify.com/track/18uSfZqFBxQFi8CsXOIbhy) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Christmas](https://open.spotify.com/album/4Eeeg4yMb5qtMEm0lk6lDM) | 3:29 | 2023-12-16 |  |
@@ -216,7 +217,7 @@
 | [Maybe This Christmas](https://open.spotify.com/track/3TrwJl33jfgEJDdwpSa2lK) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The O.C\. Mix 3 Have A Very Merry Chrismukkah](https://open.spotify.com/album/6NIY572otUHYWANBBa4fiq) | 1:52 | 2021-12-24 | 2022-07-28 |
 | [Maybe This Christmas](https://open.spotify.com/track/52qdJ88vESWGhFo3Hu7WEH) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Maybe This Christmas](https://open.spotify.com/album/2X4eD8NAwuPT9inq0yAZCY) | 1:52 | 2021-12-24 | 2023-10-30 |
 | [Maybe This Christmas](https://open.spotify.com/track/0c58Aj6LMtGrYASYmjl2kR) | [The Holiday Place](https://open.spotify.com/artist/5JoU0EDGoDd6zBTUtzDQw4), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Mellow Christmas Acoustic](https://open.spotify.com/album/7a9xO4nvdqFcrMb2eHtojJ) | 1:52 | 2023-10-27 | 2023-12-17 |
-| [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 | 2021-12-24 |  |
+| [Merry Christmas](https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Merry Christmas](https://open.spotify.com/album/4e4Amgi25FhDCFIYhbyuEh) | 2:30 | 2021-12-24 | 2024-01-05 |
 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 | 2023-10-13 |  |
 | [Merry Christmas Everybody](https://open.spotify.com/track/5y4tLbaZJ4Yzy5W5Flksmk) | [Eleven Past One](https://open.spotify.com/artist/3nkE7E51pOn9kif5cyC2eb) | [Merry Christmas Everybody](https://open.spotify.com/album/1yupCayowArixzFoXupKoz) | 3:16 | 2021-12-24 | 2022-07-27 |
 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/4v9WbaxW8HdjqfUiWYWsII) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Home For Christmas](https://open.spotify.com/album/6uIB97CqMcssTss9WrtX8c) | 4:15 | 2023-10-13 |  |

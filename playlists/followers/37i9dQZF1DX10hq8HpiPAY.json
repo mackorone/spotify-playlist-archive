@@ -1,453 +1,625 @@
 {
-  "2022-10-06": 0,
-  "2022-10-07": 4,
-  "2022-10-08": 9,
-  "2022-10-09": 13,
-  "2022-10-10": 15,
-  "2022-10-11": 27,
-  "2022-10-12": 33,
-  "2022-10-13": 33,
-  "2022-10-14": 35,
-  "2022-10-15": 35,
-  "2022-10-16": 36,
-  "2022-10-17": 36,
-  "2022-10-18": 37,
-  "2022-10-19": 36,
-  "2022-10-20": 36,
-  "2022-10-21": 36,
-  "2022-10-22": 36,
-  "2022-10-23": 36,
-  "2022-10-24": 36,
-  "2022-10-25": 36,
-  "2022-10-26": 36,
-  "2022-10-27": 36,
-  "2022-10-28": 36,
-  "2022-10-29": 36,
-  "2022-10-30": 36,
-  "2022-10-31": 36,
-  "2022-11-01": 36,
-  "2022-11-02": 36,
-  "2022-11-03": 36,
-  "2022-11-04": 36,
-  "2022-11-05": 36,
-  "2022-11-06": 36,
-  "2022-11-07": 36,
-  "2022-11-08": 36,
-  "2022-11-09": 36,
-  "2022-11-10": 36,
-  "2022-11-11": 36,
-  "2022-11-12": 36,
-  "2022-11-13": 36,
-  "2022-11-14": 36,
-  "2022-11-15": 36,
-  "2022-11-16": 37,
-  "2022-11-17": 37,
-  "2022-11-18": 37,
-  "2022-11-19": 38,
-  "2022-11-20": 38,
-  "2022-11-21": 38,
-  "2022-11-22": 39,
-  "2022-11-23": 39,
-  "2022-11-24": 39,
-  "2022-11-25": 39,
-  "2022-11-26": 39,
-  "2022-11-27": 39,
-  "2022-11-28": 39,
-  "2022-11-29": 40,
-  "2022-11-30": 40,
-  "2022-12-01": 40,
-  "2022-12-02": 40,
-  "2022-12-03": 40,
-  "2022-12-04": 40,
-  "2022-12-05": 40,
-  "2022-12-06": 40,
-  "2022-12-07": 40,
-  "2022-12-08": 40,
-  "2022-12-09": 40,
-  "2022-12-10": 40,
-  "2022-12-11": 40,
-  "2022-12-12": 41,
-  "2022-12-13": 41,
-  "2022-12-14": 41,
-  "2022-12-15": 41,
-  "2022-12-16": 41,
-  "2022-12-17": 41,
-  "2022-12-18": 41,
-  "2022-12-19": 41,
-  "2022-12-20": 41,
-  "2022-12-21": 41,
-  "2022-12-22": 41,
-  "2022-12-24": 41,
-  "2022-12-25": 41,
-  "2022-12-26": 41,
-  "2022-12-27": 41,
-  "2022-12-28": 41,
-  "2022-12-29": 41,
-  "2022-12-30": 41,
-  "2022-12-31": 41,
-  "2023-01-01": 41,
-  "2023-01-02": 41,
-  "2023-01-03": 41,
-  "2023-01-04": 41,
-  "2023-01-05": 41,
-  "2023-01-06": 41,
-  "2023-01-07": 41,
-  "2023-01-08": 41,
-  "2023-01-09": 41,
-  "2023-01-10": 41,
-  "2023-01-11": 40,
-  "2023-01-12": 40,
-  "2023-01-13": 40,
-  "2023-01-14": 40,
-  "2023-01-15": 40,
-  "2023-01-16": 40,
-  "2023-01-17": 40,
-  "2023-01-18": 40,
-  "2023-01-19": 41,
-  "2023-01-20": 41,
-  "2023-01-21": 41,
-  "2023-01-22": 41,
-  "2023-01-23": 41,
-  "2023-01-24": 42,
-  "2023-01-25": 42,
-  "2023-01-26": 42,
-  "2023-01-27": 42,
-  "2023-01-28": 42,
-  "2023-01-29": 42,
-  "2023-01-30": 43,
-  "2023-01-31": 43,
-  "2023-02-01": 43,
-  "2023-02-02": 43,
-  "2023-02-03": 43,
-  "2023-02-04": 43,
-  "2023-02-05": 43,
-  "2023-02-06": 43,
-  "2023-02-07": 43,
-  "2023-02-08": 43,
-  "2023-02-09": 43,
-  "2023-02-10": 43,
-  "2023-02-11": 43,
-  "2023-02-12": 44,
-  "2023-02-13": 44,
-  "2023-02-14": 44,
-  "2023-02-15": 45,
-  "2023-02-16": 45,
-  "2023-02-17": 45,
-  "2023-02-18": 45,
-  "2023-02-19": 45,
-  "2023-02-20": 45,
-  "2023-02-21": 45,
-  "2023-02-22": 46,
-  "2023-02-23": 46,
-  "2023-02-24": 46,
-  "2023-02-25": 47,
-  "2023-02-26": 47,
-  "2023-02-27": 48,
-  "2023-02-28": 48,
-  "2023-03-01": 48,
-  "2023-03-02": 48,
-  "2023-03-03": 48,
-  "2023-03-04": 48,
-  "2023-03-05": 48,
-  "2023-03-06": 48,
-  "2023-03-07": 48,
-  "2023-03-08": 48,
-  "2023-03-09": 48,
-  "2023-03-10": 48,
-  "2023-03-11": 48,
-  "2023-03-12": 48,
-  "2023-03-13": 48,
-  "2023-03-14": 48,
-  "2023-03-15": 48,
-  "2023-03-16": 48,
-  "2023-03-17": 48,
-  "2023-03-18": 48,
-  "2023-03-19": 48,
-  "2023-03-20": 48,
-  "2023-03-21": 48,
-  "2023-03-22": 48,
-  "2023-03-23": 48,
-  "2023-03-24": 48,
-  "2023-03-25": 48,
-  "2023-03-26": 48,
-  "2023-03-27": 48,
-  "2023-03-28": 48,
-  "2023-03-29": 48,
-  "2023-03-30": 48,
-  "2023-03-31": 48,
-  "2023-04-01": 49,
-  "2023-04-02": 49,
-  "2023-04-03": 49,
-  "2023-04-04": 49,
-  "2023-04-05": 49,
-  "2023-04-06": 49,
-  "2023-04-07": 49,
-  "2023-04-09": 49,
-  "2023-04-10": 49,
-  "2023-04-11": 49,
-  "2023-04-12": 49,
-  "2023-04-13": 50,
-  "2023-04-14": 50,
-  "2023-04-15": 51,
-  "2023-04-16": 52,
-  "2023-04-17": 52,
-  "2023-04-18": 52,
-  "2023-04-19": 52,
-  "2023-04-20": 52,
-  "2023-04-21": 52,
-  "2023-04-22": 52,
-  "2023-04-23": 52,
-  "2023-04-24": 53,
-  "2023-04-25": 53,
-  "2023-04-26": 53,
-  "2023-04-27": 53,
-  "2023-04-28": 54,
-  "2023-04-29": 54,
-  "2023-04-30": 54,
-  "2023-05-01": 54,
-  "2023-05-02": 55,
-  "2023-05-03": 55,
-  "2023-05-04": 55,
-  "2023-05-05": 55,
-  "2023-05-06": 55,
-  "2023-05-07": 55,
-  "2023-05-08": 56,
-  "2023-05-09": 56,
-  "2023-05-10": 56,
-  "2023-05-11": 56,
-  "2023-05-12": 56,
-  "2023-05-13": 56,
-  "2023-05-14": 56,
-  "2023-05-15": 56,
-  "2023-05-16": 56,
-  "2023-05-17": 56,
-  "2023-05-18": 56,
-  "2023-05-19": 56,
-  "2023-05-20": 57,
-  "2023-05-21": 57,
-  "2023-05-22": 57,
-  "2023-05-23": 57,
-  "2023-05-24": 56,
-  "2023-05-25": 56,
-  "2023-05-26": 56,
-  "2023-05-27": 56,
-  "2023-05-28": 56,
-  "2023-05-29": 56,
-  "2023-05-30": 56,
-  "2023-05-31": 56,
-  "2023-06-01": 56,
-  "2023-06-02": 56,
-  "2023-06-03": 56,
-  "2023-06-04": 56,
-  "2023-06-05": 57,
-  "2023-06-06": 57,
-  "2023-06-07": 57,
-  "2023-06-08": 57,
-  "2023-06-09": 57,
-  "2023-06-10": 57,
-  "2023-06-11": 57,
-  "2023-06-12": 57,
-  "2023-06-13": 58,
-  "2023-06-14": 58,
-  "2023-06-15": 58,
-  "2023-06-16": 58,
-  "2023-06-17": 58,
-  "2023-06-18": 58,
-  "2023-06-19": 58,
-  "2023-06-20": 58,
-  "2023-06-21": 58,
-  "2023-06-22": 58,
-  "2023-06-23": 58,
-  "2023-06-24": 58,
-  "2023-06-25": 58,
-  "2023-06-26": 58,
-  "2023-06-27": 58,
-  "2023-06-28": 58,
-  "2023-06-29": 58,
-  "2023-06-30": 58,
-  "2023-07-01": 58,
-  "2023-07-02": 58,
-  "2023-07-03": 58,
-  "2023-07-04": 58,
-  "2023-07-05": 59,
-  "2023-07-06": 60,
-  "2023-07-07": 60,
-  "2023-07-08": 60,
-  "2023-07-09": 60,
-  "2023-07-10": 60,
-  "2023-07-11": 60,
-  "2023-07-12": 60,
-  "2023-07-13": 60,
-  "2023-07-14": 60,
-  "2023-07-15": 60,
-  "2023-07-16": 60,
-  "2023-07-17": 60,
-  "2023-07-18": 60,
-  "2023-07-19": 60,
-  "2023-07-20": 60,
-  "2023-07-21": 60,
-  "2023-07-22": 60,
-  "2023-07-23": 60,
-  "2023-07-24": 60,
-  "2023-07-25": 60,
-  "2023-07-26": 60,
-  "2023-07-27": 60,
-  "2023-07-28": 60,
-  "2023-07-29": 60,
-  "2023-07-30": 60,
-  "2023-07-31": 60,
-  "2023-08-01": 60,
-  "2023-08-02": 60,
-  "2023-08-03": 60,
-  "2023-08-04": 60,
-  "2023-08-05": 60,
-  "2023-08-06": 60,
-  "2023-08-07": 60,
-  "2023-08-08": 59,
-  "2023-08-09": 59,
-  "2023-08-10": 59,
-  "2023-08-11": 59,
-  "2023-08-12": 59,
-  "2023-08-13": 60,
-  "2023-08-14": 61,
-  "2023-08-15": 61,
-  "2023-08-16": 61,
-  "2023-08-17": 61,
-  "2023-08-18": 63,
-  "2023-08-19": 63,
-  "2023-08-20": 63,
-  "2023-08-21": 63,
-  "2023-08-22": 63,
-  "2023-08-23": 63,
-  "2023-08-24": 63,
-  "2023-08-25": 63,
-  "2023-08-26": 64,
-  "2023-08-27": 65,
-  "2023-08-28": 65,
-  "2023-08-29": 65,
-  "2023-08-30": 66,
-  "2023-08-31": 66,
-  "2023-09-01": 66,
-  "2023-09-02": 66,
-  "2023-09-03": 66,
-  "2023-09-04": 66,
-  "2023-09-05": 66,
-  "2023-09-06": 66,
-  "2023-09-07": 66,
-  "2023-09-08": 66,
-  "2023-09-09": 66,
-  "2023-09-10": 66,
-  "2023-09-11": 66,
-  "2023-09-12": 66,
-  "2023-09-13": 66,
-  "2023-09-14": 66,
-  "2023-09-15": 66,
-  "2023-09-16": 66,
-  "2023-09-17": 66,
-  "2023-09-18": 66,
-  "2023-09-19": 66,
-  "2023-09-20": 68,
-  "2023-09-21": 68,
-  "2023-09-22": 68,
-  "2023-09-23": 68,
-  "2023-09-24": 68,
-  "2023-09-25": 68,
-  "2023-09-26": 68,
-  "2023-09-27": 68,
-  "2023-09-28": 68,
-  "2023-09-29": 68,
-  "2023-09-30": 68,
-  "2023-10-01": 68,
-  "2023-10-02": 68,
-  "2023-10-03": 69,
-  "2023-10-04": 69,
-  "2023-10-05": 69,
-  "2023-10-06": 69,
-  "2023-10-07": 69,
-  "2023-10-08": 69,
-  "2023-10-09": 69,
-  "2023-10-10": 69,
-  "2023-10-11": 69,
-  "2023-10-12": 69,
-  "2023-10-13": 69,
-  "2023-10-14": 69,
-  "2023-10-15": 69,
-  "2023-10-16": 70,
-  "2023-10-17": 70,
-  "2023-10-18": 70,
-  "2023-10-19": 70,
-  "2023-10-20": 70,
-  "2023-10-21": 70,
-  "2023-10-22": 70,
-  "2023-10-23": 70,
-  "2023-10-24": 70,
-  "2023-10-25": 70,
-  "2023-10-26": 70,
-  "2023-10-27": 70,
-  "2023-10-28": 70,
-  "2023-10-29": 70,
-  "2023-10-30": 70,
-  "2023-10-31": 70,
-  "2023-11-01": 70,
-  "2023-11-02": 70,
-  "2023-11-03": 70,
-  "2023-11-04": 70,
-  "2023-11-05": 71,
-  "2023-11-06": 71,
-  "2023-11-07": 72,
-  "2023-11-08": 72,
-  "2023-11-09": 72,
-  "2023-11-10": 72,
-  "2023-11-11": 72,
-  "2023-11-12": 71,
-  "2023-11-13": 71,
-  "2023-11-14": 71,
-  "2023-11-15": 71,
-  "2023-11-16": 71,
-  "2023-11-17": 71,
-  "2023-11-18": 71,
-  "2023-11-19": 71,
-  "2023-11-20": 71,
-  "2023-11-21": 73,
-  "2023-11-22": 77,
-  "2023-11-23": 77,
-  "2023-11-24": 78,
-  "2023-11-25": 79,
-  "2023-11-26": 79,
-  "2023-11-27": 79,
-  "2023-11-28": 78,
-  "2023-11-29": 78,
-  "2023-11-30": 78,
-  "2023-12-01": 79,
-  "2023-12-02": 80,
-  "2023-12-03": 81,
-  "2023-12-04": 81,
-  "2023-12-05": 82,
-  "2023-12-06": 83,
-  "2023-12-07": 82,
-  "2023-12-08": 82,
-  "2023-12-09": 82,
-  "2023-12-10": 83,
-  "2023-12-11": 83,
-  "2023-12-12": 83,
-  "2023-12-13": 84,
-  "2023-12-14": 84,
-  "2023-12-15": 84,
-  "2023-12-16": 84,
-  "2023-12-17": 84,
-  "2023-12-18": 84,
-  "2023-12-19": 84,
-  "2023-12-20": 84,
-  "2023-12-21": 85,
-  "2023-12-22": 85,
-  "2023-12-23": 86,
-  "2023-12-24": 86,
-  "2023-12-25": 86,
-  "2023-12-26": 87,
-  "2023-12-27": 88,
-  "2023-12-30": 90,
-  "2023-12-31": 91,
-  "2024-01-01": 91,
-  "2024-01-02": 92,
-  "2024-01-03": 92
+  "2024-01-17": 96,
+  "date_first_scraped": "2022-10-06",
+  "description": "Host of \"GoOD Mornings w/ CurlyNikki\" and \"Meditation w/ CurlyNikki\u2019 shares the music that keeps her feeling GoOD. Cover: Nikki Walton\n\n",
+  "name": "Tune In with Nikki Walton",
+  "tracks": [
+    {
+      "album": {
+        "name": "Breath of the Heart",
+        "url": "https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838560,
+      "name": "Baba Hanuman",
+      "url": "https://open.spotify.com/track/468YB4iLb2YJyncuHGJ62i"
+    },
+    {
+      "album": {
+        "name": "Breath of the Heart",
+        "url": "https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 838560,
+      "name": "Baba Hanuman",
+      "url": "https://open.spotify.com/track/4Frp9uObfJLGLsMXosQp27"
+    },
+    {
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/3HWDWyIqWuLsTHECx9DvXF"
+    },
+    {
+      "album": {
+        "name": "Breath of the Heart",
+        "url": "https://open.spotify.com/album/6UxQYKwxX79QNmagONxvr0"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 463066,
+      "name": "Brindavan Hare Ram",
+      "url": "https://open.spotify.com/track/3faStz9tu8BZCjZwGYxx1f"
+    },
+    {
+      "album": {
+        "name": "Breath of the Heart",
+        "url": "https://open.spotify.com/album/2RNmtNcssxfz2BItN1jUnQ"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463066,
+      "name": "Brindavan Hare Ram",
+      "url": "https://open.spotify.com/track/6vzYofDukTbayVKpxiNcNb"
+    },
+    {
+      "album": {
+        "name": "Like a River to the Sea",
+        "url": "https://open.spotify.com/album/7GJOFsyNN2u7yii6fOc8bo"
+      },
+      "artists": [
+        {
+          "name": "Jahnavi Harrison",
+          "url": "https://open.spotify.com/artist/5yFeIzipr0tcFe2TAU1vBz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 638320,
+      "name": "Ceili in Braj! (Hari Haraye)",
+      "url": "https://open.spotify.com/track/69ff3mnTdc3wZTn8MHuEH8"
+    },
+    {
+      "album": {
+        "name": "Live in Buenos Aires",
+        "url": "https://open.spotify.com/album/19CvkGjYpifkdwgVJSbog2"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284426,
+      "name": "Charlie Brown - Live in Buenos Aires",
+      "url": "https://open.spotify.com/track/3ksF058sVZ21EgQdRLbUyI"
+    },
+    {
+      "album": {
+        "name": "Donda (Deluxe)",
+        "url": "https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310393,
+      "name": "Come to Life",
+      "url": "https://open.spotify.com/track/14VMRC6EbRfeub5SkIXiad"
+    },
+    {
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282693,
+      "name": "Everglow",
+      "url": "https://open.spotify.com/track/5qfZRNjt2TkHEL12r3sDEU"
+    },
+    {
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183320,
+      "name": "Everlasting Arms",
+      "url": "https://open.spotify.com/track/5bbvdCQ6kc3OeC3FzUl9Dx"
+    },
+    {
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351855,
+      "name": "Father Stretch",
+      "url": "https://open.spotify.com/track/2tLH5EsewbZNvmWidJqzDF"
+    },
+    {
+      "album": {
+        "name": "Rise Up - To the Most High Awakening, Vol. 1",
+        "url": "https://open.spotify.com/album/0SCUJL9zCIvoVHthL2pii7"
+      },
+      "artists": [
+        {
+          "name": "Mooji Mala",
+          "url": "https://open.spotify.com/artist/4r6OrlUbCRFfe2EOSmTl00"
+        },
+        {
+          "name": "Nirvan",
+          "url": "https://open.spotify.com/artist/4OBvRBls06BDmHbrBKc1XH"
+        },
+        {
+          "name": "Lluis Martinez Ten",
+          "url": "https://open.spotify.com/artist/5PjFxMANosfLFt65QXo4g5"
+        },
+        {
+          "name": "Mooji",
+          "url": "https://open.spotify.com/artist/3sEwC1YZpzG5QWDUGRES4H"
+        },
+        {
+          "name": "Anna Ling",
+          "url": "https://open.spotify.com/artist/3LKkv2Nxjzynfv7ieSEbLZ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352386,
+      "name": "Filling up My Eyes (Live)",
+      "url": "https://open.spotify.com/track/58N4sK5KHI7VT4m5RahL8A"
+    },
+    {
+      "album": {
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+      },
+      "artists": [
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187746,
+      "name": "He Lives In You - From \"Rhythm Of The Pride Lands\"",
+      "url": "https://open.spotify.com/track/2ahrqdsWQEbDkZqE7nwbaT"
+    },
+    {
+      "album": {
+        "name": "Namaste",
+        "url": "https://open.spotify.com/album/6mEJoBeEsCr8OlqL2kuTDf"
+      },
+      "artists": [
+        {
+          "name": "Sam Garrett",
+          "url": "https://open.spotify.com/artist/6bYrznKbGdUBy4IXEgxxOU"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286826,
+      "name": "Higher Than The Mountains",
+      "url": "https://open.spotify.com/track/6DoksnxMUS9PrDdzRaraby"
+    },
+    {
+      "album": {
+        "name": "The Royal Albert Hall Concert",
+        "url": "https://open.spotify.com/album/6HrjdZBesenIY3JJjldQF3"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Einaudi",
+          "url": "https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399973,
+      "name": "I Giorni - Live",
+      "url": "https://open.spotify.com/track/0R2HjTdF6olxqjoumQX5FS"
+    },
+    {
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413655,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/2vUNNg9K4PAY5o3OBwGUVU"
+    },
+    {
+      "album": {
+        "name": "The Calling",
+        "url": "https://open.spotify.com/album/1oR69W7oLHugoe4keaoWyT"
+      },
+      "artists": [
+        {
+          "name": "Mooji Mala",
+          "url": "https://open.spotify.com/artist/4r6OrlUbCRFfe2EOSmTl00"
+        },
+        {
+          "name": "Karuna",
+          "url": "https://open.spotify.com/artist/1lVBlTKrFna6LTjJjGFh2y"
+        },
+        {
+          "name": "Mooji",
+          "url": "https://open.spotify.com/artist/3sEwC1YZpzG5QWDUGRES4H"
+        },
+        {
+          "name": "Lluis Martinez Ten",
+          "url": "https://open.spotify.com/artist/5PjFxMANosfLFt65QXo4g5"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394625,
+      "name": "On the Way to the Beloved (Love Never Fails)",
+      "url": "https://open.spotify.com/track/3XljN2ubG6sWIXgIe0kAbC"
+    },
+    {
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/6hoa5K74pqIBYkeaNUZKuL"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        },
+        {
+          "name": "Alex Boy\u00e9",
+          "url": "https://open.spotify.com/artist/6SraGCznFUAZ3zb4zVe3DM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266693,
+      "name": "Peponi (Paradise) [Live]",
+      "url": "https://open.spotify.com/track/4KTvBpuyzikbShNQ2wl3NQ"
+    },
+    {
+      "album": {
+        "name": "Ah: 30th Anniversary (Enhanced Edition)",
+        "url": "https://open.spotify.com/album/4hXTrVD83vyLmrL7jDiOb8"
+      },
+      "artists": [
+        {
+          "name": "Bhagavan Das",
+          "url": "https://open.spotify.com/artist/5E8de54TFXkGwZZAdzmWuq"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319026,
+      "name": "Rama",
+      "url": "https://open.spotify.com/track/6F9C9MtBDeSxTSKK6vXJdE"
+    },
+    {
+      "album": {
+        "name": "Jesus Is Born",
+        "url": "https://open.spotify.com/album/65zhpgwMMRxncpa7zHckQ6"
+      },
+      "artists": [
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333075,
+      "name": "Revelations 19:1",
+      "url": "https://open.spotify.com/track/4pSUxkUKeWFyFNkzl7XoBU"
+    },
+    {
+      "album": {
+        "name": "The Best - Reminiscent 10th Anniversary",
+        "url": "https://open.spotify.com/album/7dZ49XnPBaF4e6SMYmsNQ1"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218293,
+      "name": "River Flows in You",
+      "url": "https://open.spotify.com/track/3xr8COed4nPPn6XWZ0iCGr"
+    },
+    {
+      "album": {
+        "name": "Hanuman Maui Presents: A Bhaktimala for Ram Dass",
+        "url": "https://open.spotify.com/album/1eEIMvA5ScGjxrI9w7mZFr"
+      },
+      "artists": [
+        {
+          "name": "Kripa",
+          "url": "https://open.spotify.com/artist/1138SOFJJV3LOQH6eRWb4G"
+        },
+        {
+          "name": "KRISHNA PREM",
+          "url": "https://open.spotify.com/artist/5wBY640pmsGX604Jw8DnGG"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 756417,
+      "name": "Sankat Mochan Hanuman Chalisa",
+      "url": "https://open.spotify.com/track/1lIiUHjQcmJceqMaY3Uw8Z"
+    },
+    {
+      "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/5q1HAmutGTq9viEr2GONrp"
+      },
+      "artists": [
+        {
+          "name": "Bhagavan Das",
+          "url": "https://open.spotify.com/artist/5E8de54TFXkGwZZAdzmWuq"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 670760,
+      "name": "Shiva Gospel",
+      "url": "https://open.spotify.com/track/6KJMtDvtlMK031n9GeLPSq"
+    },
+    {
+      "album": {
+        "name": "SitaRam (Going Home)",
+        "url": "https://open.spotify.com/album/0xI9fZOkWVTGXCJpt9gX6C"
+      },
+      "artists": [
+        {
+          "name": "Mu / Krishna Prem",
+          "url": "https://open.spotify.com/artist/67lephGhdt19UmfwjkZRrE"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518000,
+      "name": "SitaRam (Going Home)",
+      "url": "https://open.spotify.com/track/4B0XWpFOAXTEQcvkH383Sx"
+    },
+    {
+      "album": {
+        "name": "Facing Future",
+        "url": "https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9"
+      },
+      "artists": [
+        {
+          "name": "Israel Kamakawiwo'ole",
+          "url": "https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308026,
+      "name": "Somewhere Over The Rainbow_What A Wonderful World",
+      "url": "https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277030,
+      "name": "SPIRIT - From Disney's \"The Lion King\"",
+      "url": "https://open.spotify.com/track/6ucmgsair6pvRYfwgvI6e0"
+    },
+    {
+      "album": {
+        "name": "Kirtan Wallah (Bonus Version)",
+        "url": "https://open.spotify.com/album/30ZrG4aRlyV5O4DKOHVSwn"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 738240,
+      "name": "Sri Argala Stotram (Selected Verses) / Show Me Love",
+      "url": "https://open.spotify.com/track/5V1XAce8nFtkyd1186uAIF"
+    },
+    {
+      "album": {
+        "name": "Sri Ram Kirtan Sadhana",
+        "url": "https://open.spotify.com/album/4inFYMaqYYc5Gb6ZZkDxUe"
+      },
+      "artists": [
+        {
+          "name": "Krishna Das",
+          "url": "https://open.spotify.com/artist/7BIXafmacnax46P30TEzNz"
+        },
+        {
+          "name": "Nina Rao",
+          "url": "https://open.spotify.com/artist/6y3uAYl8r5AavDEOk6KENi"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 5925667,
+      "name": "Sri Ram Kirtan Sadhana",
+      "url": "https://open.spotify.com/track/2ymzb9BzyUTDNqtezYE7aw"
+    },
+    {
+      "album": {
+        "name": "Aim and Ignite (Deluxe Version)",
+        "url": "https://open.spotify.com/album/39vNHJ3nDr6oO9mWLrRpsI"
+      },
+      "artists": [
+        {
+          "name": "fun.",
+          "url": "https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "The Gambler",
+      "url": "https://open.spotify.com/track/4Nkn6En6TiZQRuTpEDPOYs"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248807,
+      "name": "White Ferrari",
+      "url": "https://open.spotify.com/track/2LMkwUfqC6S6s6qDVlEuzV"
+    },
+    {
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/6hoa5K74pqIBYkeaNUZKuL"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293440,
+      "name": "With or Without You (Live)",
+      "url": "https://open.spotify.com/track/0yMOZ4IFKnhjnNO7ZkbFkr"
+    },
+    {
+      "album": {
+        "name": "Modern Vampires of the City",
+        "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312653,
+      "name": "Ya Hey",
+      "url": "https://open.spotify.com/track/1AmsqMwCRHj7BCtsZr7ZeY"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX10hq8HpiPAY"
 }

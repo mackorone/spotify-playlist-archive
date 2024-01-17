@@ -1,61 +1,827 @@
 {
-  "2023-11-04": 2,
-  "2023-11-05": 6,
-  "2023-11-06": 18,
-  "2023-11-07": 32,
-  "2023-11-08": 52,
-  "2023-11-09": 66,
-  "2023-11-10": 86,
-  "2023-11-11": 108,
-  "2023-11-12": 133,
-  "2023-11-13": 150,
-  "2023-11-14": 161,
-  "2023-11-15": 161,
-  "2023-11-16": 191,
-  "2023-11-17": 222,
-  "2023-11-18": 222,
-  "2023-11-19": 257,
-  "2023-11-20": 284,
-  "2023-11-21": 311,
-  "2023-11-22": 337,
-  "2023-11-23": 356,
-  "2023-11-24": 375,
-  "2023-11-25": 387,
-  "2023-11-26": 397,
-  "2023-11-27": 424,
-  "2023-11-28": 442,
-  "2023-11-29": 464,
-  "2023-11-30": 464,
-  "2023-12-01": 479,
-  "2023-12-02": 498,
-  "2023-12-03": 511,
-  "2023-12-04": 530,
-  "2023-12-05": 540,
-  "2023-12-06": 552,
-  "2023-12-07": 563,
-  "2023-12-08": 571,
-  "2023-12-09": 580,
-  "2023-12-10": 587,
-  "2023-12-11": 594,
-  "2023-12-12": 603,
-  "2023-12-13": 623,
-  "2023-12-14": 646,
-  "2023-12-15": 654,
-  "2023-12-16": 663,
-  "2023-12-17": 674,
-  "2023-12-18": 683,
-  "2023-12-19": 693,
-  "2023-12-20": 699,
-  "2023-12-21": 709,
-  "2023-12-22": 714,
-  "2023-12-23": 721,
-  "2023-12-24": 735,
-  "2023-12-25": 740,
-  "2023-12-26": 743,
-  "2023-12-27": 748,
-  "2023-12-30": 768,
-  "2023-12-31": 786,
-  "2024-01-01": 797,
-  "2024-01-02": 809,
-  "2024-01-03": 811
+  "2024-01-17": 922,
+  "date_first_scraped": "2023-11-04",
+  "description": "Own your power. Listen to the music from and inspired by Rustin, now streaming on Netflix. ",
+  "name": "Rustin Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46800,
+      "name": "Bayard Breaks Down the Meeting",
+      "url": "https://open.spotify.com/track/2h7T4sw1xgDxYVtx0vWAuC"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55360,
+      "name": "Bayard Breaks Down the Meeting, Version 1",
+      "url": "https://open.spotify.com/track/3E10epvgTflJCYWAeHIHRh"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77373,
+      "name": "Bayard Bush Flashback",
+      "url": "https://open.spotify.com/track/7B6RDv9RBLeDkmVMrAWniT"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40546,
+      "name": "Bayard Cruising",
+      "url": "https://open.spotify.com/track/5qdpGV8Z4uQFsbH3IUIuZA"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 20413,
+      "name": "Bayard Goes to See Martin",
+      "url": "https://open.spotify.com/track/1nPQXRTbJ5chti3MCiMUae"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43973,
+      "name": "Black Strength",
+      "url": "https://open.spotify.com/track/73pc1zm5lR7QbUNHww3gdx"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55466,
+      "name": "Chief Wells Redux",
+      "url": "https://open.spotify.com/track/1shybmA8iWzJ9QKPdSAzJD"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Tonya Boyd-Cannon",
+          "url": "https://open.spotify.com/artist/1ZwCt7hd76oczrXCoe5wVH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "Didn't It Rain",
+      "url": "https://open.spotify.com/track/4DHltCMNPkc7a2Vx5xAhJU"
+    },
+    {
+      "album": {
+        "name": "The Essential Mahalia Jackson",
+        "url": "https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222693,
+      "name": "Didn't It Rain - Live",
+      "url": "https://open.spotify.com/track/6rLLRCfvauPCmNr3h92fS8"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139120,
+      "name": "Dinner Music Cha-Cha",
+      "url": "https://open.spotify.com/track/3v0OmvEw95P60xQ6R94st9"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77160,
+      "name": "Elias' Song",
+      "url": "https://open.spotify.com/track/5QtsCoEUzfgR1SBOuIYpmc"
+    },
+    {
+      "album": {
+        "name": "Golden Girl (The Columbia Recordings 1944-1966)",
+        "url": "https://open.spotify.com/album/5Vck2QyeSlhWymxrnQWpoM"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160466,
+      "name": "Everybody Loves a Lover",
+      "url": "https://open.spotify.com/track/6QfGyzfwf7dm38Tmf49BpC"
+    },
+    {
+      "album": {
+        "name": "The Savoy Years And More...",
+        "url": "https://open.spotify.com/album/7Kaog0yQBXxdB9ougm7bQl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Scott",
+          "url": "https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149373,
+      "name": "Everybody Needs Somebody",
+      "url": "https://open.spotify.com/track/7BYJK8MpZ8JsRdrSOBAnQw"
+    },
+    {
+      "album": {
+        "name": "Additional Singles & Rarities",
+        "url": "https://open.spotify.com/album/0tprlYfYw9Y1fjq5SUFEQp"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386466,
+      "name": "Fingertips Pts. 1 & 2 - Live",
+      "url": "https://open.spotify.com/track/0kFJKz9uAD5WLdGI92eEib"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115933,
+      "name": "Fingertips Redux",
+      "url": "https://open.spotify.com/track/6GddnRJeloHXSRe2dhlG4V"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51786,
+      "name": "Heres Comes the People",
+      "url": "https://open.spotify.com/track/7iUnXZUWQskI8zjjruVvUD"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Tonya Boyd-Cannon",
+          "url": "https://open.spotify.com/artist/1ZwCt7hd76oczrXCoe5wVH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273720,
+      "name": "How I Got Over",
+      "url": "https://open.spotify.com/track/5RwzLNX9c2dkXtWcK3KkUm"
+    },
+    {
+      "album": {
+        "name": "The Essential Mahalia Jackson",
+        "url": "https://open.spotify.com/album/2w9wFu5qjGKqBHDLNU2b8N"
+      },
+      "artists": [
+        {
+          "name": "Mahalia Jackson",
+          "url": "https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436693,
+      "name": "How I Got Over - Live",
+      "url": "https://open.spotify.com/track/3p0fZ3N8pU6GQwczB17C3I"
+    },
+    {
+      "album": {
+        "name": "The Essentials: Ruth Brown",
+        "url": "https://open.spotify.com/album/5hUfSBla2buX5rW8aCeAl7"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/047Ip9c6dijAJfuwloV3NF"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Victor Ryan Robertson",
+          "url": "https://open.spotify.com/artist/5QHDpVYQM5EbStQC1mnULA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135853,
+      "name": "I Ne'r Didst Dream",
+      "url": "https://open.spotify.com/track/2yglIPOEuh2aHfOSdm4Wqg"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 24080,
+      "name": "King to March",
+      "url": "https://open.spotify.com/track/1Kgx1xeubVRuruxzHKDN7p"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 32213,
+      "name": "King to March, Version 2",
+      "url": "https://open.spotify.com/track/1p0SQB18nwxgYa4hdhr3IA"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55026,
+      "name": "Louis Reads the Pledge",
+      "url": "https://open.spotify.com/track/3AJiHclLmMAmBEqQYBod71"
+    },
+    {
+      "album": {
+        "name": "The Essential Little Richard",
+        "url": "https://open.spotify.com/album/7tmbNQrDZHuLYKXFiEWlwf"
+      },
+      "artists": [
+        {
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143733,
+      "name": "Lucille",
+      "url": "https://open.spotify.com/track/1YuvAZ445u1tbegYi8u34i"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93426,
+      "name": "Makes You Want To Believe",
+      "url": "https://open.spotify.com/track/1z2FB00FHaenDBKEFYszin"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108506,
+      "name": "Meeting at the Mall",
+      "url": "https://open.spotify.com/track/3XGVnPLkfSHM9SImg6X53r"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84853,
+      "name": "MLK Jr.",
+      "url": "https://open.spotify.com/track/2vlwcDLvyw2PShDRZD4taC"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217146,
+      "name": "Moving to Utopia",
+      "url": "https://open.spotify.com/track/5Uc7GD8lp8OTBWj2r4O3J2"
+    },
+    {
+      "album": {
+        "name": "NO MORE TEARDROPS feat. Malik Yusef & Wyatt Waddell",
+        "url": "https://open.spotify.com/album/7BgsmO0lOdFfyCcSdW3JjL"
+      },
+      "artists": [
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        },
+        {
+          "name": "Malik Yusef",
+          "url": "https://open.spotify.com/artist/2hikCywT7dcTj6gt3jmsbD"
+        },
+        {
+          "name": "Wyatt Waddell",
+          "url": "https://open.spotify.com/artist/5VicbscvXlAJafb1vdsCSY"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272440,
+      "name": "NO MORE TEARDROPS feat. Malik Yusef & Wyatt Waddell",
+      "url": "https://open.spotify.com/track/3g2oTDIRQMLuxhV4UVSuBc"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100906,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/1X3HEa3RKQnzdh1pd3qV9s"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66173,
+      "name": "Press Conference",
+      "url": "https://open.spotify.com/track/2nO9vQSOJQPjeWFw9SV5Gw"
+    },
+    {
+      "album": {
+        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 16400,
+      "name": "Roy Has Issues with Me",
+      "url": "https://open.spotify.com/track/2QdHXxATz8NnaeZxVrVT2z"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48586,
+      "name": "Rustin Walks Home",
+      "url": "https://open.spotify.com/track/1a4xAfsgRTrtHxTtoqYTob"
+    },
+    {
+      "album": {
+        "name": "Shotgun",
+        "url": "https://open.spotify.com/album/09uQ81RxL7Bbsq7jEstXWc"
+      },
+      "artists": [
+        {
+          "name": "Jr. Walker & The All Stars",
+          "url": "https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "Shotgun",
+      "url": "https://open.spotify.com/track/2Zk0eoq7d6Vw0fRVRXPWnc"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "Show Me Your Ideas",
+      "url": "https://open.spotify.com/track/3ebNcUhv7EANAYRJrdmn1F"
+    },
+    {
+      "album": {
+        "name": "Sin & Soul... And Then Some",
+        "url": "https://open.spotify.com/album/3TdZSCq4s3DPl4v5G01kFY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Brown, Jr.",
+          "url": "https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101133,
+      "name": "Straighten Up and Fly Right",
+      "url": "https://open.spotify.com/track/2ffTneEpVqbs8QrhjensNa"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85600,
+      "name": "The Day Of, Part I",
+      "url": "https://open.spotify.com/track/5gaDDW2C2X3atKMIdFxv0k"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 25400,
+      "name": "The Day Of, Part II",
+      "url": "https://open.spotify.com/track/7fXiyRloWyGNNdFaxsPfKW"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31946,
+      "name": "The Day Of, Part III",
+      "url": "https://open.spotify.com/track/2NsNCQLIk6oK7HQvuwhl3u"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "The Knowing",
+      "url": "https://open.spotify.com/track/0PIc95qmfynWbbWQCf3ZXL"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41906,
+      "name": "The Rustin Shuffle",
+      "url": "https://open.spotify.com/track/0BQYDdaD1W0ScdnREOrI4L"
+    },
+    {
+      "album": {
+        "name": "Walking The Dog",
+        "url": "https://open.spotify.com/album/5oy9TjdYHEiuHZoLUCKVsD"
+      },
+      "artists": [
+        {
+          "name": "Rufus Thomas",
+          "url": "https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157760,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/6iFYsQckCCtGsabW0rXEPn"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Who Said You're Not Our Man",
+      "url": "https://open.spotify.com/track/5KleuCNhTgsCUKZ5axqiur"
+    },
+    {
+      "album": {
+        "name": "Rustin (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/2iSDhliWAxQC0Jgtwn4n1B"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis",
+          "url": "https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44173,
+      "name": "Work As One, Move As One",
+      "url": "https://open.spotify.com/track/1zKCEZpNr8TChw4RP1B8Z1"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3YPBv1bwOB5"
 }

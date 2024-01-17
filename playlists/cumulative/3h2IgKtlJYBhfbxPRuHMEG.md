@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Rezz &amp; Subtronics
 
-97 songs - 5 hr 34 min
+98 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Before We Go Down](https://open.spotify.com/track/7LSg7qrUGRNxSsJ8GlIkg4) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Before We Go Down](https://open.spotify.com/album/0FV6oEJVkyEZfJPyIs3bUc) | 3:57 | 2023-12-01 |  |
 | [Berserker](https://open.spotify.com/track/2wc52WYNVpZTpNkZuGIYyN) | [Emalkay](https://open.spotify.com/artist/1P6WOOkGjqDnfIitbKYb9w), [The Others](https://open.spotify.com/artist/0HUAf6rGiD9cMQOMYzYuaL), [Subscape](https://open.spotify.com/artist/1hsDuQAI5ewVmflUTVTVtS) | [Berserker](https://open.spotify.com/album/4iUOTUxfPrPr1bZ6huAUlX) | 4:28 | 2023-12-01 |  |
 | [Big Bank](https://open.spotify.com/track/4VcoVWo2v3pkhbIqYjgFKf) | [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q) | [Big Bank](https://open.spotify.com/album/3eKVvNq7xAol0SwHS5GX9m) | 2:30 | 2023-12-01 |  |
+| [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 | 2024-01-12 |  |
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-12-01 |  |
 | [Blue In The Face](https://open.spotify.com/track/5z8uM7nBjl7kHGiYHvm94Z) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Shadient](https://open.spotify.com/artist/6ADRET3UXTOmGBjjO67fNd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Blue In The Face](https://open.spotify.com/album/6UqdnruIxTdntsqhL9bSfW) | 2:46 | 2023-12-01 |  |
 | [BODY SH!T](https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [A$AP TyY](https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY) | [BODY SH!T](https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr) | 3:04 | 2023-12-01 |  |

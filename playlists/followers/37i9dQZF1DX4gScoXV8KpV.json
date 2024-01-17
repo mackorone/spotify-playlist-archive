@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 152301,
-  "2021-12-26": 152335,
-  "2021-12-27": 152410,
-  "2021-12-28": 152410,
-  "2021-12-29": 152444,
-  "2021-12-30": 152477,
-  "2021-12-31": 152541,
-  "2022-01-01": 152597,
-  "2022-01-02": 152600,
-  "2022-01-03": 152620,
-  "2022-01-04": 152631,
-  "2022-01-05": 152657,
-  "2022-01-06": 152689,
-  "2022-01-07": 152723,
-  "2022-01-08": 152814,
-  "2022-01-09": 152813,
-  "2022-01-10": 152862,
-  "2022-01-11": 152866,
-  "2022-01-12": 152870,
-  "2022-01-13": 152870,
-  "2022-01-14": 152870,
-  "2022-01-15": 152870,
-  "2022-01-16": 152870,
-  "2022-01-17": 152870,
-  "2022-01-18": 152870,
-  "2022-01-19": 152870,
-  "2022-01-20": 152870,
-  "2022-01-21": 152870,
-  "2022-01-22": 152870,
-  "2022-01-23": 152870,
-  "2022-01-24": 152870,
-  "2022-01-25": 152870,
-  "2022-01-26": 152870,
-  "2022-01-27": 152870,
-  "2022-01-28": 152870,
-  "2022-01-29": 152870,
-  "2022-01-30": 152870,
-  "2022-01-31": 152870,
-  "2022-02-01": 152870,
-  "2022-02-02": 152870,
-  "2022-02-03": 152870,
-  "2022-02-04": 152870,
-  "2022-02-05": 152870,
-  "2022-02-06": 152870,
-  "2022-02-07": 152870,
-  "2022-02-08": 152870,
-  "2022-02-09": 152870,
-  "2022-02-10": 152870,
-  "2022-02-11": 152870,
-  "2022-02-12": 152870,
-  "2022-02-13": 152870,
-  "2022-02-14": 152870,
-  "2022-02-15": 152870,
-  "2022-02-16": 152870,
-  "2022-02-17": 152870,
-  "2022-02-18": 152870,
-  "2022-02-19": 152870,
-  "2022-02-20": 152870,
-  "2022-02-21": 152870,
-  "2022-02-22": 152870,
-  "2022-02-23": 152870,
-  "2022-02-24": 152870,
-  "2022-02-25": 152870,
-  "2022-02-26": 152870,
-  "2022-02-27": 152870,
-  "2022-02-28": 152870,
-  "2022-03-01": 152870,
-  "2022-03-02": 152870,
-  "2022-03-03": 152870,
-  "2022-03-04": 152870,
-  "2022-03-05": 152870,
-  "2022-03-06": 152870,
-  "2022-03-07": 152870,
-  "2022-03-08": 152870,
-  "2022-03-09": 152870,
-  "2022-03-10": 152870,
-  "2022-03-11": 152870,
-  "2022-03-12": 152870,
-  "2022-03-13": 152870,
-  "2022-03-14": 152870,
-  "2022-03-15": 152870,
-  "2022-03-16": 152870,
-  "2022-03-17": 152870,
-  "2022-03-18": 152870,
-  "2022-03-19": 152870,
-  "2022-03-20": 152870,
-  "2022-03-21": 152870,
-  "2022-03-22": 152870,
-  "2022-03-23": 152870,
-  "2022-03-24": 152870,
-  "2022-03-25": 152870,
-  "2022-03-26": 152870,
-  "2022-03-27": 152870,
-  "2022-03-28": 152870,
-  "2022-03-30": 152870,
-  "2022-03-31": 152870,
-  "2022-04-01": 152870,
-  "2022-04-02": 152870,
-  "2022-04-03": 152870,
-  "2022-04-04": 152870,
-  "2022-04-05": 152870,
-  "2022-04-06": 152870,
-  "2022-04-07": 152870,
-  "2022-04-08": 152870,
-  "2022-04-09": 152870,
-  "2022-04-10": 152870,
-  "2022-04-11": 152870,
-  "2022-04-12": 152870,
-  "2022-04-13": 152870,
-  "2022-04-14": 152870,
-  "2022-04-15": 152870,
-  "2022-04-16": 152870,
-  "2022-04-17": 152870,
-  "2022-04-18": 152870,
-  "2022-04-19": 152870,
-  "2022-04-20": 152870,
-  "2022-04-21": 152870,
-  "2022-04-22": 152870,
-  "2022-04-23": 152870,
-  "2022-04-24": 152870,
-  "2022-04-25": 152870,
-  "2022-04-26": 152870,
-  "2022-04-27": 152870,
-  "2022-04-28": 152870,
-  "2022-04-29": 152870,
-  "2022-04-30": 152870,
-  "2022-05-01": 152870,
-  "2022-05-02": 152870,
-  "2022-05-03": 152870,
-  "2022-05-04": 152870,
-  "2022-05-05": 152870,
-  "2022-05-06": 152870,
-  "2022-05-07": 152870,
-  "2022-05-08": 152870,
-  "2022-05-09": 152870,
-  "2022-05-10": 152870,
-  "2022-05-11": 152870,
-  "2022-05-12": 152870,
-  "2022-05-13": 152870,
-  "2022-05-14": 152870,
-  "2022-05-15": 152870,
-  "2022-05-16": 152870,
-  "2022-05-17": 152870,
-  "2022-05-18": 152870,
-  "2022-05-19": 152870,
-  "2022-05-20": 152870,
-  "2022-05-21": 152870,
-  "2022-05-22": 152870,
-  "2022-05-23": 152870,
-  "2022-05-24": 152870,
-  "2022-05-25": 152870,
-  "2022-05-26": 152870,
-  "2022-05-27": 152870,
-  "2022-05-28": 152870,
-  "2022-05-29": 152870,
-  "2022-05-30": 152870,
-  "2022-05-31": 152870,
-  "2022-06-01": 152870,
-  "2022-06-02": 152870,
-  "2022-06-03": 152870,
-  "2022-06-04": 152870,
-  "2022-06-05": 152870,
-  "2022-06-06": 152870,
-  "2022-06-07": 152870,
-  "2022-06-08": 152870,
-  "2022-06-09": 152870,
-  "2022-06-10": 152870,
-  "2022-06-11": 152870,
-  "2022-06-12": 152870,
-  "2022-06-13": 152870,
-  "2022-06-14": 152870,
-  "2022-06-15": 152870,
-  "2022-06-16": 152870,
-  "2022-06-17": 152870,
-  "2022-06-18": 152870,
-  "2022-06-19": 152870,
-  "2022-06-20": 152870,
-  "2022-06-21": 152870,
-  "2022-06-22": 152870,
-  "2022-06-23": 152870,
-  "2022-06-24": 152870,
-  "2022-06-25": 152870,
-  "2022-06-26": 152870,
-  "2022-06-27": 152870,
-  "2022-06-28": 152870,
-  "2022-06-29": 152870,
-  "2022-06-30": 152870,
-  "2022-07-01": 152870,
-  "2022-07-02": 152870,
-  "2022-07-03": 152870,
-  "2022-07-04": 152870,
-  "2022-07-05": 152870,
-  "2022-07-06": 152870,
-  "2022-07-07": 152870,
-  "2022-07-08": 152870,
-  "2022-07-09": 152870,
-  "2022-07-10": 152870,
-  "2022-07-11": 152870,
-  "2022-07-12": 152870,
-  "2022-07-13": 152870,
-  "2022-07-14": 152870,
-  "2022-07-15": 152870,
-  "2022-07-16": 152870,
-  "2022-07-17": 152870,
-  "2022-07-18": 152870,
-  "2022-07-19": 152870,
-  "2022-07-20": 152870,
-  "2022-07-21": 152870,
-  "2022-07-22": 152870,
-  "2022-07-23": 152870,
-  "2022-07-24": 152870,
-  "2022-07-25": 152870,
-  "2022-07-26": 152870,
-  "2022-07-27": 152870,
-  "2022-07-28": 152870,
-  "2022-07-29": 152870,
-  "2022-07-30": 152870,
-  "2022-07-31": 152870,
-  "2022-08-01": 152870,
-  "2022-08-02": 152870,
-  "2022-08-03": 152870,
-  "2022-08-04": 152870,
-  "2022-08-05": 152870,
-  "2022-08-06": 152870,
-  "2022-08-07": 152870,
-  "2022-08-08": 152870,
-  "2022-08-09": 152870,
-  "2022-08-10": 152870,
-  "2022-08-11": 152870,
-  "2022-08-12": 152870,
-  "2022-08-13": 152870,
-  "2022-08-14": 152870,
-  "2022-08-15": 152870,
-  "2022-08-16": 152870,
-  "2022-08-17": 152870,
-  "2022-08-18": 152870,
-  "2022-08-19": 152870,
-  "2022-08-20": 152870,
-  "2022-08-21": 152870,
-  "2022-08-22": 152870,
-  "2022-08-23": 152870,
-  "2022-08-24": 152870,
-  "2022-08-25": 152870,
-  "2022-08-26": 152870,
-  "2022-08-27": 152870,
-  "2022-08-28": 152870,
-  "2022-08-29": 152870,
-  "2022-08-30": 152870,
-  "2022-08-31": 152870,
-  "2022-09-01": 152870,
-  "2022-09-02": 152870,
-  "2022-09-03": 152870,
-  "2022-09-04": 152870,
-  "2022-09-05": 152870,
-  "2022-09-06": 152870,
-  "2022-09-07": 152870,
-  "2022-09-09": 152870,
-  "2022-09-10": 152870,
-  "2022-09-11": 152870,
-  "2022-09-12": 152870,
-  "2022-09-13": 152870,
-  "2022-09-15": 152870,
-  "2022-09-16": 152870,
-  "2022-09-17": 152870,
-  "2022-09-18": 152870,
-  "2022-09-19": 152870,
-  "2022-09-20": 152870,
-  "2022-09-21": 152870,
-  "2022-09-22": 152870,
-  "2022-09-23": 152870,
-  "2022-09-24": 152870,
-  "2022-09-25": 152870,
-  "2022-09-26": 152870,
-  "2022-09-27": 152870,
-  "2022-09-28": 152870,
-  "2022-09-29": 152870,
-  "2022-09-30": 152870,
-  "2022-10-01": 152870,
-  "2022-10-02": 152870,
-  "2022-10-03": 152870,
-  "2022-10-04": 152870,
-  "2022-10-05": 152870,
-  "2022-10-06": 152870,
-  "2022-10-07": 152870,
-  "2022-10-08": 152870,
-  "2022-10-09": 152870,
-  "2022-10-10": 152870,
-  "2022-10-11": 152870,
-  "2022-10-12": 152870,
-  "2022-10-13": 152870,
-  "2022-10-14": 152870,
-  "2022-10-15": 152870,
-  "2022-10-16": 152870,
-  "2022-10-17": 152870,
-  "2022-10-18": 152870,
-  "2022-10-19": 152870,
-  "2022-10-20": 152870,
-  "2022-10-21": 152870,
-  "2022-10-22": 152870,
-  "2022-10-23": 152870,
-  "2022-10-24": 152870,
-  "2022-10-25": 152870,
-  "2022-10-26": 152870,
-  "2022-10-27": 152870,
-  "2022-10-28": 152870,
-  "2022-10-29": 152870,
-  "2022-10-30": 152870,
-  "2022-10-31": 152870,
-  "2022-11-01": 152870,
-  "2022-11-02": 152870,
-  "2022-11-03": 152870,
-  "2022-11-04": 152870,
-  "2022-11-05": 152870,
-  "2022-11-06": 152870,
-  "2022-11-07": 152870,
-  "2022-11-08": 152870,
-  "2022-11-09": 152870,
-  "2022-11-10": 152870,
-  "2022-11-11": 152870,
-  "2022-11-12": 152870,
-  "2022-11-13": 152870,
-  "2022-11-14": 152870,
-  "2022-11-15": 152870,
-  "2022-11-16": 152870,
-  "2022-11-17": 152870,
-  "2022-11-18": 152870,
-  "2022-11-19": 152870,
-  "2022-11-20": 152870,
-  "2022-11-21": 152870,
-  "2022-11-22": 152870,
-  "2022-11-23": 152870,
-  "2022-11-24": 152870,
-  "2022-11-25": 152870,
-  "2022-11-26": 152870,
-  "2022-11-27": 152870,
-  "2022-11-28": 152870,
-  "2022-11-29": 152870,
-  "2022-11-30": 152870,
-  "2022-12-01": 152870,
-  "2022-12-02": 152870,
-  "2022-12-03": 152870,
-  "2022-12-04": 152870,
-  "2022-12-05": 152870,
-  "2022-12-06": 152870,
-  "2022-12-07": 152870,
-  "2022-12-08": 152870,
-  "2022-12-09": 152870,
-  "2022-12-10": 152870,
-  "2022-12-11": 152870,
-  "2022-12-12": 152870,
-  "2022-12-13": 152870,
-  "2022-12-14": 152870,
-  "2022-12-15": 152870,
-  "2022-12-16": 152870,
-  "2022-12-17": 152870,
-  "2022-12-18": 152870,
-  "2022-12-19": 152870,
-  "2022-12-20": 152870,
-  "2022-12-21": 152870,
-  "2022-12-22": 152870,
-  "2022-12-24": 152870,
-  "2022-12-25": 152870,
-  "2022-12-26": 152870,
-  "2022-12-27": 152870,
-  "2022-12-28": 152870,
-  "2022-12-29": 152870,
-  "2022-12-30": 152870,
-  "2022-12-31": 152870,
-  "2023-01-01": 152870,
-  "2023-01-02": 152870,
-  "2023-01-03": 152870,
-  "2023-01-04": 152870,
-  "2023-01-05": 152870,
-  "2023-01-06": 152870,
-  "2023-01-07": 152870,
-  "2023-01-08": 152870,
-  "2023-01-09": 152870,
-  "2023-01-10": 152870,
-  "2023-01-11": 152870,
-  "2023-01-12": 152870,
-  "2023-01-13": 152870,
-  "2023-01-14": 152870,
-  "2023-01-15": 152870,
-  "2023-01-16": 152870,
-  "2023-01-17": 152870,
-  "2023-01-18": 152870,
-  "2023-01-19": 152870,
-  "2023-01-20": 152870,
-  "2023-01-21": 152870,
-  "2023-01-22": 152870,
-  "2023-01-23": 152870,
-  "2023-01-24": 152870,
-  "2023-01-25": 152870,
-  "2023-01-26": 152870,
-  "2023-01-27": 152870,
-  "2023-01-28": 152870,
-  "2023-01-29": 152870,
-  "2023-01-30": 152870,
-  "2023-01-31": 152870,
-  "2023-02-01": 152870,
-  "2023-02-02": 152870,
-  "2023-02-03": 152870,
-  "2023-02-04": 152870,
-  "2023-02-05": 152870,
-  "2023-02-06": 152870,
-  "2023-02-07": 152870,
-  "2023-02-08": 152870,
-  "2023-02-09": 152870,
-  "2023-02-10": 152870,
-  "2023-02-11": 152870,
-  "2023-02-12": 152870,
-  "2023-02-13": 152870,
-  "2023-02-14": 152870,
-  "2023-02-15": 152870,
-  "2023-02-16": 152870,
-  "2023-02-17": 152870,
-  "2023-02-18": 152870,
-  "2023-02-19": 152870,
-  "2023-02-20": 152870,
-  "2023-02-21": 152870,
-  "2023-02-22": 152870,
-  "2023-02-23": 152870,
-  "2023-02-24": 152870,
-  "2023-02-25": 152870,
-  "2023-02-26": 152870,
-  "2023-02-27": 152870,
-  "2023-02-28": 152870,
-  "2023-03-01": 152870,
-  "2023-03-02": 152870,
-  "2023-03-03": 152870,
-  "2023-03-04": 152870,
-  "2023-03-05": 152870,
-  "2023-03-06": 152870,
-  "2023-03-07": 152870,
-  "2023-03-08": 152870,
-  "2023-03-09": 152870,
-  "2023-03-10": 152870,
-  "2023-03-11": 152870,
-  "2023-03-12": 152870,
-  "2023-03-13": 152870,
-  "2023-03-14": 152870,
-  "2023-03-15": 152870,
-  "2023-03-16": 152870,
-  "2023-03-17": 152870,
-  "2023-03-18": 152870,
-  "2023-03-19": 152870,
-  "2023-03-20": 152870,
-  "2023-03-21": 152870,
-  "2023-03-22": 152870,
-  "2023-03-23": 152870,
-  "2023-03-24": 152870,
-  "2023-03-25": 152870,
-  "2023-03-26": 152870,
-  "2023-03-27": 152870,
-  "2023-03-28": 152870,
-  "2023-03-29": 152870,
-  "2023-03-30": 152870,
-  "2023-03-31": 152870,
-  "2023-04-01": 152870,
-  "2023-04-02": 152870,
-  "2023-04-03": 152870,
-  "2023-04-04": 152870,
-  "2023-04-05": 152870,
-  "2023-04-06": 152870,
-  "2023-04-07": 152870,
-  "2023-04-09": 152870,
-  "2023-04-10": 152870,
-  "2023-04-11": 152870,
-  "2023-04-12": 152870,
-  "2023-04-13": 152870,
-  "2023-04-14": 152870,
-  "2023-04-15": 152870,
-  "2023-04-16": 152870,
-  "2023-04-17": 152870,
-  "2023-04-18": 152870,
-  "2023-04-19": 152870,
-  "2023-04-20": 152870,
-  "2023-04-21": 152870,
-  "2023-04-22": 152870,
-  "2023-04-23": 152870,
-  "2023-04-24": 152870,
-  "2023-04-25": 152870,
-  "2023-04-26": 152870,
-  "2023-04-27": 152870,
-  "2023-04-28": 152870,
-  "2023-04-29": 152870,
-  "2023-04-30": 152870,
-  "2023-05-01": 152870,
-  "2023-05-02": 152870,
-  "2023-05-03": 152870,
-  "2023-05-04": 152870,
-  "2023-05-05": 152870,
-  "2023-05-06": 152870,
-  "2023-05-07": 152870,
-  "2023-05-08": 152870,
-  "2023-05-09": 152870,
-  "2023-05-10": 152870,
-  "2023-05-11": 152870,
-  "2023-05-12": 152870,
-  "2023-05-13": 152870,
-  "2023-05-14": 152870,
-  "2023-05-15": 152870,
-  "2023-05-16": 152870,
-  "2023-05-17": 152870,
-  "2023-05-18": 152870,
-  "2023-05-19": 152870,
-  "2023-05-20": 152870,
-  "2023-05-21": 152870,
-  "2023-05-22": 152870,
-  "2023-05-23": 152870,
-  "2023-05-24": 152870,
-  "2023-05-25": 152870,
-  "2023-05-26": 152870,
-  "2023-05-27": 152870,
-  "2023-05-28": 152870,
-  "2023-05-29": 152870,
-  "2023-05-30": 152870,
-  "2023-05-31": 152870,
-  "2023-06-01": 152870,
-  "2023-06-02": 152870,
-  "2023-06-03": 152870,
-  "2023-06-04": 152870,
-  "2023-06-05": 152870,
-  "2023-06-06": 152870,
-  "2023-06-07": 152870,
-  "2023-06-08": 152870,
-  "2023-06-09": 152870,
-  "2023-06-10": 152870,
-  "2023-06-11": 152870,
-  "2023-06-12": 152870,
-  "2023-06-13": 152870,
-  "2023-06-14": 152870,
-  "2023-06-15": 152870,
-  "2023-06-16": 152870,
-  "2023-06-17": 152870,
-  "2023-06-18": 152870,
-  "2023-06-19": 152870,
-  "2023-06-20": 152870,
-  "2023-06-21": 152870,
-  "2023-06-22": 152870,
-  "2023-06-23": 152870,
-  "2023-06-24": 152870,
-  "2023-06-25": 152870,
-  "2023-06-26": 152870,
-  "2023-06-27": 152870,
-  "2023-06-28": 152870,
-  "2023-06-29": 152870,
-  "2023-06-30": 152870,
-  "2023-07-01": 152870,
-  "2023-07-02": 152870,
-  "2023-07-03": 152870,
-  "2023-07-04": 152870,
-  "2023-07-05": 152870,
-  "2023-07-06": 152870,
-  "2023-07-07": 152870,
-  "2023-07-08": 152870,
-  "2023-07-09": 152870,
-  "2023-07-10": 152870,
-  "2023-07-11": 152870,
-  "2023-07-12": 152870,
-  "2023-07-13": 152870,
-  "2023-07-14": 152870,
-  "2023-07-15": 152870,
-  "2023-07-16": 152870,
-  "2023-07-17": 152870,
-  "2023-07-18": 152870,
-  "2023-07-19": 152870,
-  "2023-07-20": 152870,
-  "2023-07-21": 152870,
-  "2023-07-22": 152870,
-  "2023-07-23": 152870,
-  "2023-07-24": 152870,
-  "2023-07-25": 152870,
-  "2023-07-26": 152870,
-  "2023-07-27": 152870,
-  "2023-07-28": 152870,
-  "2023-07-29": 152870,
-  "2023-07-30": 152870,
-  "2023-07-31": 152870,
-  "2023-08-01": 152870,
-  "2023-08-02": 152870,
-  "2023-08-03": 152870,
-  "2023-08-04": 152870,
-  "2023-08-05": 152870,
-  "2023-08-06": 152870,
-  "2023-08-07": 152870,
-  "2023-08-08": 152870,
-  "2023-08-09": 152870,
-  "2023-08-10": 152870,
-  "2023-08-11": 152870,
-  "2023-08-12": 152870,
-  "2023-08-13": 152870,
-  "2023-08-14": 152870,
-  "2023-08-15": 152870,
-  "2023-08-16": 152870,
-  "2023-08-17": 152870,
-  "2023-08-18": 152870,
-  "2023-08-19": 152870,
-  "2023-08-20": 152870,
-  "2023-08-21": 152870,
-  "2023-08-22": 152870,
-  "2023-08-23": 152870,
-  "2023-08-24": 152870,
-  "2023-08-25": 152870,
-  "2023-08-26": 152870,
-  "2023-08-27": 152870,
-  "2023-08-28": 152870,
-  "2023-08-29": 152870,
-  "2023-08-30": 152870,
-  "2023-08-31": 152870,
-  "2023-09-01": 152870,
-  "2023-09-02": 152870,
-  "2023-09-03": 152870,
-  "2023-09-04": 152870,
-  "2023-09-05": 152870,
-  "2023-09-06": 152870,
-  "2023-09-07": 152870,
-  "2023-09-08": 152870,
-  "2023-09-09": 152870,
-  "2023-09-10": 152870,
-  "2023-09-11": 152870,
-  "2023-09-12": 152870,
-  "2023-09-13": 152870,
-  "2023-09-14": 152870,
-  "2023-09-15": 152870,
-  "2023-09-16": 152870,
-  "2023-09-17": 152870,
-  "2023-09-18": 152870,
-  "2023-09-19": 152870,
-  "2023-09-20": 152870,
-  "2023-09-21": 152870,
-  "2023-09-22": 152870,
-  "2023-09-23": 152870,
-  "2023-09-24": 152870,
-  "2023-09-25": 152870,
-  "2023-09-26": 152870,
-  "2023-09-27": 152870,
-  "2023-09-28": 152870,
-  "2023-09-29": 152870,
-  "2023-09-30": 152870,
-  "2023-10-01": 152870,
-  "2023-10-02": 152870,
-  "2023-10-03": 152870,
-  "2023-10-04": 152870,
-  "2023-10-05": 152870,
-  "2023-10-06": 152870,
-  "2023-10-07": 152870,
-  "2023-10-08": 152870,
-  "2023-10-09": 152870,
-  "2023-10-10": 152870,
-  "2023-10-11": 152870,
-  "2023-10-12": 152870,
-  "2023-10-13": 152870,
-  "2023-10-14": 152870,
-  "2023-10-15": 152870,
-  "2023-10-16": 152870,
-  "2023-10-17": 152870,
-  "2023-10-18": 152870,
-  "2023-10-19": 152870,
-  "2023-10-20": 152870,
-  "2023-10-21": 152870,
-  "2023-10-22": 152870,
-  "2023-10-23": 152870,
-  "2023-10-24": 152870,
-  "2023-10-25": 152870,
-  "2023-10-26": 152870,
-  "2023-10-27": 152870,
-  "2023-10-28": 152870,
-  "2023-10-29": 152870,
-  "2023-10-30": 152870,
-  "2023-10-31": 152870,
-  "2023-11-01": 152870,
-  "2023-11-02": 152870,
-  "2023-11-03": 152870,
-  "2023-11-04": 152870,
-  "2023-11-05": 152870,
-  "2023-11-06": 152870,
-  "2023-11-07": 152870,
-  "2023-11-08": 152870,
-  "2023-11-09": 152870,
-  "2023-11-10": 152870,
-  "2023-11-11": 152870,
-  "2023-11-12": 152870,
-  "2023-11-13": 152870,
-  "2023-11-14": 152870,
-  "2023-11-15": 152870,
-  "2023-11-16": 152870,
-  "2023-11-17": 152870,
-  "2023-11-18": 152870,
-  "2023-11-19": 152870,
-  "2023-11-20": 152870,
-  "2023-11-21": 152870,
-  "2023-11-22": 152870,
-  "2023-11-23": 152870,
-  "2023-11-24": 152870,
-  "2023-11-25": 152870,
-  "2023-11-26": 152870,
-  "2023-11-27": 152870,
-  "2023-11-28": 152870,
-  "2023-11-29": 152870,
-  "2023-11-30": 152870,
-  "2023-12-01": 152870,
-  "2023-12-02": 152870,
-  "2023-12-03": 152870,
-  "2023-12-04": 152870,
-  "2023-12-05": 152870,
-  "2023-12-06": 152870,
-  "2023-12-07": 152870,
-  "2023-12-08": 152870,
-  "2023-12-09": 152870,
-  "2023-12-10": 152870,
-  "2023-12-11": 152870,
-  "2023-12-12": 152870,
-  "2023-12-13": 152870,
-  "2023-12-14": 152870,
-  "2023-12-15": 152870,
-  "2023-12-16": 152870,
-  "2023-12-17": 152870,
-  "2023-12-18": 152870,
-  "2023-12-19": 152870,
-  "2023-12-20": 152870,
-  "2023-12-21": 152870,
-  "2023-12-22": 152870,
-  "2023-12-23": 152870,
-  "2023-12-24": 152870,
-  "2023-12-25": 152870,
-  "2023-12-26": 152870,
-  "2023-12-27": 152870,
-  "2023-12-30": 152870,
-  "2023-12-31": 152870,
-  "2024-01-01": 152870,
-  "2024-01-02": 152870,
-  "2024-01-03": 152870
+  "2024-01-17": 152870,
+  "date_first_scraped": "2021-12-21",
+  "description": "All killer, no filler.",
+  "name": "This Is Sum 41 (2)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192039,
+      "name": "45 (A Matter Of Time)",
+      "url": "https://open.spotify.com/track/7pAl6xhxJtpuekgzY1dmlE"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278573,
+      "name": "88",
+      "url": "https://open.spotify.com/track/41i7tcb5sXCXBfDhXDRo7r"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198358,
+      "name": "A Death In The Family",
+      "url": "https://open.spotify.com/track/7lnfnIFZxiW58fW7qLZaQp"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Angels With Dirty Faces",
+      "url": "https://open.spotify.com/track/7hDtMUjtvOyAt0u9FrlmLO"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Best of Me",
+      "url": "https://open.spotify.com/track/5Sk13wjWDJMkMV128tLRni"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/2jhJTJljHHwsBZNL86pqqe"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256706,
+      "name": "Blood in My Eyes",
+      "url": "https://open.spotify.com/track/5dj6f9mZG199JKWwhBGk00"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3dM9CsNzXCIf5yPRFwlcvF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243098,
+      "name": "Breaking The Chain",
+      "url": "https://open.spotify.com/track/1ijfXmenqXnS37PioJBvjp"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241705,
+      "name": "Catching Fire",
+      "url": "https://open.spotify.com/track/4SK27ywWZG821Kl1p27UWx"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135533,
+      "name": "Crazy Amanda Bunkface",
+      "url": "https://open.spotify.com/track/2F7PzExCcvbIgy71AhmAFP"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164383,
+      "name": "Eat You Alive",
+      "url": "https://open.spotify.com/track/6FYHAFHLlV84c7gI0EZ4ym"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3dM9CsNzXCIf5yPRFwlcvF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194590,
+      "name": "Fake My Own Death",
+      "url": "https://open.spotify.com/track/5dcHKKPLXJJVE4HcVefdOI"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178320,
+      "name": "Fat Lip",
+      "url": "https://open.spotify.com/track/3tWudnj1NK7YUfnR91nezW"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3dM9CsNzXCIf5yPRFwlcvF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233337,
+      "name": "God Save Us All (Death to POP)",
+      "url": "https://open.spotify.com/track/7LDO74aCpgeW9a95bBBwOx"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3dM9CsNzXCIf5yPRFwlcvF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/1WXKBNlQstOm9sCqpHPB3f"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216963,
+      "name": "Handle This",
+      "url": "https://open.spotify.com/track/78w3fypfNbUb18oCko7XVR"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230096,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/6TJDRJlPtKJLoJVvgQRs0S"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206999,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/3u7EIgAlwNQtxkM4bOA7uI"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/2jhJTJljHHwsBZNL86pqqe"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170200,
+      "name": "Jessica Kill",
+      "url": "https://open.spotify.com/track/258tbPE9IK4zjKd2HAd6pV"
+    },
+    {
+      "album": {
+        "name": "Half Hour of Power",
+        "url": "https://open.spotify.com/album/5ZgJPEg0RS7gqWapD3lg2R"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190466,
+      "name": "Makes No Difference",
+      "url": "https://open.spotify.com/track/5qf4735WCJJdsN7ZDFtuze"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189040,
+      "name": "March of the Dogs",
+      "url": "https://open.spotify.com/track/1iMkOFj5JUpikLGFT2UffT"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169959,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/3dPC7sI3QzW2MeeqEm1DJV"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122693,
+      "name": "My Direction",
+      "url": "https://open.spotify.com/track/03Idg040KDC1hl2oQOQ5sm"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260093,
+      "name": "Never There",
+      "url": "https://open.spotify.com/track/5k8kLXTx77H5Hiu3QkByg0"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166293,
+      "name": "No Brains",
+      "url": "https://open.spotify.com/track/7eJ9a2Io4AN9PQb01674FD"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184533,
+      "name": "No Reason",
+      "url": "https://open.spotify.com/track/5iK4QpNvnQtTj67eHrDne2"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164960,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/3SB9Lwlg5OKU2L1eLcfMBb"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216571,
+      "name": "Out For Blood",
+      "url": "https://open.spotify.com/track/5FzPEGHio0vzpwBO3c5DHn"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149306,
+      "name": "Over My Head - Better Off Dead",
+      "url": "https://open.spotify.com/track/38U1XnzXWKb9lMS8inL3Va"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103253,
+      "name": "Pain for Pleasure",
+      "url": "https://open.spotify.com/track/4cUYgHt3l0G2MoWjjyY9jl"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/6XZY6zVuVdk43t269pO8lt"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/2jhJTJljHHwsBZNL86pqqe"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Reason to Believe",
+      "url": "https://open.spotify.com/track/5VrZzcJY9VJdrSxb3aGstr"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/2jhJTJljHHwsBZNL86pqqe"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204626,
+      "name": "Screaming Bloody Murder",
+      "url": "https://open.spotify.com/track/2yxNYMnvxPPhi23xODVHcI"
+    },
+    {
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/2jhJTJljHHwsBZNL86pqqe"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Skumfuk",
+      "url": "https://open.spotify.com/track/4nn4OJQleb22WGmbQQNY8z"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181613,
+      "name": "So Long Goodbye",
+      "url": "https://open.spotify.com/track/1yezpMdwXFsRZ1FeEphFJ9"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206146,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/7FKG99aCVKwCoGg1eZ5XRk"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238693,
+      "name": "Speak of the Devil",
+      "url": "https://open.spotify.com/track/2Sz72JklBOsuOEJiAsuWwB"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Still Waiting",
+      "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
+    },
+    {
+      "album": {
+        "name": "All Killer No Filler",
+        "url": "https://open.spotify.com/album/6iPCb85GDSrbgpkAJSHMPw"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169423,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/70jlgjfZSSQEljK4HiqwdH"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184440,
+      "name": "Thanks For Nothing",
+      "url": "https://open.spotify.com/track/07EMbrqx4EmXQR9eenOjKi"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171906,
+      "name": "The Bitter End",
+      "url": "https://open.spotify.com/track/763DkPOhf9TwTmOjBObM0J"
+    },
+    {
+      "album": {
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198493,
+      "name": "The Hell Song",
+      "url": "https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230184,
+      "name": "The New Sensation",
+      "url": "https://open.spotify.com/track/5nsJzJbDoa5ifocayORlbe"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199460,
+      "name": "The People Vs\u2026",
+      "url": "https://open.spotify.com/track/7JFRTvbESsZHp8Ty3Xmq2e"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "There's No Solution",
+      "url": "https://open.spotify.com/track/0OorijDzBi62DKlWVY1Wfm"
+    },
+    {
+      "album": {
+        "name": "Order In Decline",
+        "url": "https://open.spotify.com/album/0GGHKJnkFE7PX8ToUPhVjU"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230806,
+      "name": "Turning Away",
+      "url": "https://open.spotify.com/track/05l63xRmIhBCYmGSPFOhyE"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194133,
+      "name": "Underclass Hero - Bonus Track",
+      "url": "https://open.spotify.com/track/1eSgbMhAsxM5ImuMRjzAMA"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286373,
+      "name": "Walking Disaster",
+      "url": "https://open.spotify.com/track/1ZkhRoP7jhHzC90SM8uVTi"
+    },
+    {
+      "album": {
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3dM9CsNzXCIf5yPRFwlcvF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209666,
+      "name": "War",
+      "url": "https://open.spotify.com/track/4lUHxbFilSwlkl52me8x1W"
+    },
+    {
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/0NkDiPzg8Piql64Sfwnoft"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219146,
+      "name": "We're All to Blame",
+      "url": "https://open.spotify.com/track/5nU7CaKQhHFIUUeXdNiwl7"
+    },
+    {
+      "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/5d7wvjlsCpHxMLC6Xl0tEL"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "date_added": "2020-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291360,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/2GpFYF56kYINvKjQntqnxM"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4gScoXV8KpV"
 }

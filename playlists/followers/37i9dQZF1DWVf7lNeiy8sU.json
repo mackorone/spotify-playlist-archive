@@ -1,16 +1,957 @@
 {
-  "2023-12-19": 64687,
-  "2023-12-20": 64704,
-  "2023-12-21": 64726,
-  "2023-12-22": 64744,
-  "2023-12-23": 64770,
-  "2023-12-24": 64785,
-  "2023-12-25": 64804,
-  "2023-12-26": 64820,
-  "2023-12-27": 64835,
-  "2023-12-30": 64877,
-  "2023-12-31": 64898,
-  "2024-01-01": 64921,
-  "2024-01-02": 64944,
-  "2024-01-03": 64948
+  "2024-01-17": 64853,
+  "date_first_scraped": "2023-12-19",
+  "description": "Ahora s\u00ed se pudieron alcanzar. Escucha la Fusi\u00f3n entre Jos\u00e9 Jos\u00e9 y Gera MX.",
+  "name": "Gera MX + Jos\u00e9 Jos\u00e9",
+  "tracks": [
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "A Esa",
+      "url": "https://open.spotify.com/track/1TJS7POzl1qrGhqvFcjtHv"
+    },
+    {
+      "album": {
+        "name": "Dalt\u00f3nico",
+        "url": "https://open.spotify.com/album/4mDChWqPYkd9Jp7b9khgV6"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200012,
+      "name": "Amenaza",
+      "url": "https://open.spotify.com/track/6A0QILDTwuD2rZBtbzr4tA"
+    },
+    {
+      "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232160,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/20SYFuI4MDNkIl0CzNaa9x"
+    },
+    {
+      "album": {
+        "name": "No soy de aqu\u00ed",
+        "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
+      },
+      "artists": [
+        {
+          "name": "Alberto Cortez",
+          "url": "https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Camina siempre adelante",
+      "url": "https://open.spotify.com/track/4mKvhjgr8RNElB89pQlYHc"
+    },
+    {
+      "album": {
+        "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
+        "url": "https://open.spotify.com/album/3Ci1X3dr7NJlbuUgqsFUgK"
+      },
+      "artists": [
+        {
+          "name": "Germ\u00e1n Vald\u00e9s \"Tin Tan\"",
+          "url": "https://open.spotify.com/artist/3UycXszmChrsTWhbmydyDZ"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178703,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2S5ogx9YB1fhCcoKVd4UkQ"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Cuando Vayas Conmigo",
+      "url": "https://open.spotify.com/track/2ygSprUUsLJTu16DzspsDm"
+    },
+    {
+      "album": {
+        "name": "Los Ni\u00f1os Grandes No Juegan",
+        "url": "https://open.spotify.com/album/2XvDnpebvUFa49NKpPvakc"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Culpable Soy Yo",
+      "url": "https://open.spotify.com/track/23iwhpEiVdcrgzrB0BgBx1"
+    },
+    {
+      "album": {
+        "name": "Cypher",
+        "url": "https://open.spotify.com/album/0rzIr66tetyEnqVL7Ypkrc"
+      },
+      "artists": [
+        {
+          "name": "Tornillo",
+          "url": "https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL"
+        },
+        {
+          "name": "473 Music",
+          "url": "https://open.spotify.com/artist/5RNHJe1xtJ3dKLb28DPT0V"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/3Er5VEk7QKeRkO5ThxVNbU"
+    },
+    {
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206186,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks"
+    },
+    {
+      "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234773,
+      "name": "El Amar y el Querer",
+      "url": "https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260026,
+      "name": "El Amor Acaba",
+      "url": "https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7uPzKdcqvqwzibkvJHXL6z"
+      },
+      "artists": [
+        {
+          "name": "Angelica Maria",
+          "url": "https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126937,
+      "name": "El D\u00eda",
+      "url": "https://open.spotify.com/track/0SwGoYee4jSY4FXSGmGdIW"
+    },
+    {
+      "album": {
+        "name": "Las Olas Y El Viento",
+        "url": "https://open.spotify.com/album/2amD55dOtiDwUqok7DrP8y"
+      },
+      "artists": [
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/3M9CqiLGObWndTeSA2W73n"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "El Milagro de Tus Ojos",
+      "url": "https://open.spotify.com/track/0ZJoR4W1zBWxgtSm1tP30c"
+    },
+    {
+      "album": {
+        "name": "Jose Jose Ranchero",
+        "url": "https://open.spotify.com/album/7lQPm3Tv9W22mU3SCcZrKt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254480,
+      "name": "El Triste - Versi\u00f3n Ranchero",
+      "url": "https://open.spotify.com/track/4I9pFNbAVt1oeuQRjDuuo3"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213493,
+      "name": "Entre Ella y T\u00fa",
+      "url": "https://open.spotify.com/track/2yhWQ2AlCOIl6LfAJ5mI3g"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307933,
+      "name": "Esta Noche Te Voy a Estrenar",
+      "url": "https://open.spotify.com/track/5hw9bYLqQBRt0GqWVlRnvU"
+    },
+    {
+      "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/0eE9QHMoSOqmSRMOixRnsk"
+    },
+    {
+      "album": {
+        "name": "Flight 0008",
+        "url": "https://open.spotify.com/album/4jVLUwOIKjTZKk0OvZYPvL"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Dave Gars\u00eda",
+          "url": "https://open.spotify.com/artist/4T5AUmeV0b1Q7YB8YfTfPf"
+        },
+        {
+          "name": "Danni Ble",
+          "url": "https://open.spotify.com/artist/1zBY2uQAr60siJjrsWkbsn"
+        },
+        {
+          "name": "Meny Mendez",
+          "url": "https://open.spotify.com/artist/5mspsOF08gPhzzDwy5YFHM"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140499,
+      "name": "Flight 0008",
+      "url": "https://open.spotify.com/track/57wTi5tNWiIpSJhZTxUpUe"
+    },
+    {
+      "album": {
+        "name": "Recordando a Luisito Rey",
+        "url": "https://open.spotify.com/album/58uPvmLFttDExcycapIS03"
+      },
+      "artists": [
+        {
+          "name": "Luisito Rey",
+          "url": "https://open.spotify.com/artist/1bdgHvfW3oLuPbeHEJeAqR"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207280,
+      "name": "Frente a una Copa de Vino",
+      "url": "https://open.spotify.com/track/7kdqhh8wNhjnZT9TudxMZ7"
+    },
+    {
+      "album": {
+        "name": "Los Caifanes (M\u00fasica Original De La Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/06tkaBFlbFf85SrGOH9MU4"
+      },
+      "artists": [
+        {
+          "name": "\u00d3scar Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99440,
+      "name": "Fuera Del Mundo",
+      "url": "https://open.spotify.com/track/5ch3BOnn93stPfXhWUWibx"
+    },
+    {
+      "album": {
+        "name": "18 Joyas Musicales",
+        "url": "https://open.spotify.com/album/6wF8Ky8ElhUyU7schVPXXN"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148816,
+      "name": "Gema - Bonus Track",
+      "url": "https://open.spotify.com/track/7JxJ6EcCpuynGQQ7ityhhc"
+    },
+    {
+      "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147650,
+      "name": "Hasta Pronto",
+      "url": "https://open.spotify.com/track/3LqNlyufDGjUrodHAUp76Y"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "He Renunciado a Ti - Remasterizado",
+      "url": "https://open.spotify.com/track/59Q0mA0Bq3bqfV5ySjfTbn"
+    },
+    {
+      "album": {
+        "name": "La Misi\u00f3n (Episodio 1)",
+        "url": "https://open.spotify.com/album/6FQ1Tzg2WxYElU7sBioMtF"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246306,
+      "name": "La Misi\u00f3n (Episodio 1)",
+      "url": "https://open.spotify.com/track/4cPqCZXsVh9xJwIK7mJqsA"
+    },
+    {
+      "album": {
+        "name": "Jose Jose Ranchero",
+        "url": "https://open.spotify.com/album/7lQPm3Tv9W22mU3SCcZrKt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "La Nave del Olvido - Versi\u00f3n Ranchero",
+      "url": "https://open.spotify.com/track/3POyuJbISPQY8ToGbucydR"
+    },
+    {
+      "album": {
+        "name": "HECHO M13RD4",
+        "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220612,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/7C9gziHjggJ28pDVYS5LxQ"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219960,
+      "name": "Lo Dudo",
+      "url": "https://open.spotify.com/track/65vU70CBDU0sQDfOWkwUEH"
+    },
+    {
+      "album": {
+        "name": "Viva El Pr\u00edncipe (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5s1szSS0a2V9biUld0YdNK"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        },
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241613,
+      "name": "Lo Pasado, Pasado",
+      "url": "https://open.spotify.com/track/3WN0hAp3Gz3JONjMPEvpN5"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312066,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/2zrXo3DZdEgp317Hfj2g08"
+    },
+    {
+      "album": {
+        "name": "Coleccion de Oro",
+        "url": "https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V"
+      },
+      "artists": [
+        {
+          "name": "Lupita D'Alessio",
+          "url": "https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250644,
+      "name": "Mentiras",
+      "url": "https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT"
+    },
+    {
+      "album": {
+        "name": "Mi Vida Eres T\u00fa",
+        "url": "https://open.spotify.com/album/0pKc1X7fBv9chuZRiSIZyE"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Mi Vida Eres T\u00fa",
+      "url": "https://open.spotify.com/track/5mKwzq7UTXf1xwWcpPoteX"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
+        "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251704,
+      "name": "No Soy Nada",
+      "url": "https://open.spotify.com/track/0HAjUxXqIZLEOKLa3QuIar"
+    },
+    {
+      "album": {
+        "name": "El G.O.A.T.",
+        "url": "https://open.spotify.com/album/68MBg9nXOdCbLD8ebxQWfw"
+      },
+      "artists": [
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Or\u00edgenes Vivos",
+      "url": "https://open.spotify.com/track/2jSmOM6QiR0TM9m6OknmxR"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/2VAfS6wE5hokS4Nb5I0p4O"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Perfume de Gardenias",
+      "url": "https://open.spotify.com/track/1ICqpf7OYjH09oepUWopUm"
+    },
+    {
+      "album": {
+        "name": "Tenampa",
+        "url": "https://open.spotify.com/album/3LuWdmOrquQBb65zzLxWhD"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302866,
+      "name": "Popurr\u00ed: C\u00f3mo Hacer para Olvidar / Con Mis Propias Manos (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/63IIgFOKUy9bUPsFbFg5Hz"
+    },
+    {
+      "album": {
+        "name": "Azulejos (En Vivo Desde La Casa De Los Azulejos, M\u00e9xico/ 2015)",
+        "url": "https://open.spotify.com/album/3ApYeWRBPRz6Egiy7JcGY9"
+      },
+      "artists": [
+        {
+          "name": "Jorge Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/0NV9kotO8AcragqHykjdSd"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317240,
+      "name": "Por El Amor De Una Mujer - En Vivo Desde La Casa De Los Azulejos, M\u00e9xico/ 2015",
+      "url": "https://open.spotify.com/track/0HwgJVRIQAjAYUmvx3Vj0r"
+    },
+    {
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188160,
+      "name": "Prisi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295666,
+      "name": "Quiero Perderme Contigo",
+      "url": "https://open.spotify.com/track/1nbte2bCwsxqioAhzo68aE"
+    },
+    {
+      "album": {
+        "name": "Tributo a",
+        "url": "https://open.spotify.com/album/3LwPc8Zrys1J762hn8LttR"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        },
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Regresa Ya (feat. Aleks Syntek)",
+      "url": "https://open.spotify.com/track/3JneJ4CR6ON6ud0sJJnPLD"
+    },
+    {
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161146,
+      "name": "Significas Todo Para Mi",
+      "url": "https://open.spotify.com/track/2AN25qW8T7TBLpUDTWNDip"
+    },
+    {
+      "album": {
+        "name": "16 Exitos De Oro",
+        "url": "https://open.spotify.com/album/3VY0qHeigmX5fmljWRSQkk"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186200,
+      "name": "Soy Lo Prohibido",
+      "url": "https://open.spotify.com/track/3NNehXVkdD040tJURh6Foc"
+    },
+    {
+      "album": {
+        "name": "Toma 1",
+        "url": "https://open.spotify.com/album/7iljZj5qiQMzlARfZQZpy2"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "Toma 1",
+      "url": "https://open.spotify.com/track/6tzvSqAhZ0PbvCGcGG8mqu"
+    },
+    {
+      "album": {
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4BflgJLizU9pNVTjhGrOHD"
+    },
+    {
+      "album": {
+        "name": "Triolog\u00eda",
+        "url": "https://open.spotify.com/album/1pW0PEHTSVkSyVlmdfvxwL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191466,
+      "name": "Tres Regalos",
+      "url": "https://open.spotify.com/track/3nVz60SGoVGyEBxtKbdjva"
+    },
+    {
+      "album": {
+        "name": "Tu \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0uunEJN1BK7y3yg2GncXxa"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262333,
+      "name": "Tu \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7dWSrvzawBZPa7VVeHZBn7"
+    },
+    {
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "Vamos a Darnos Tiempo",
+      "url": "https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/11SbgUOwExKHYdsApzHSuP"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167226,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/74wCVAy23zlSs39EP2A4u4"
+    },
+    {
+      "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324573,
+      "name": "Voy a Llenarte Toda",
+      "url": "https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos del Boleroglam Vol. 1",
+        "url": "https://open.spotify.com/album/35GNEh5IcebaEJ3Lv2ZJSU"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "Ya S\u00e9",
+      "url": "https://open.spotify.com/track/3oHFLejTrYABV5OCi4vGEv"
+    },
+    {
+      "album": {
+        "name": "Tenampa",
+        "url": "https://open.spotify.com/album/3LuWdmOrquQBb65zzLxWhD"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212960,
+      "name": "\u00bfQu\u00e9 Ganaste Coraz\u00f3n? (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/5n26oLUlPRNhghMdBt8axx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVf7lNeiy8sU"
 }

@@ -1,111 +1,751 @@
 {
-  "2023-09-15": 790,
-  "2023-09-16": 1709,
-  "2023-09-17": 2380,
-  "2023-09-18": 2610,
-  "2023-09-19": 2665,
-  "2023-09-20": 2729,
-  "2023-09-21": 2786,
-  "2023-09-22": 2843,
-  "2023-09-23": 2915,
-  "2023-09-24": 2962,
-  "2023-09-25": 3000,
-  "2023-09-26": 3059,
-  "2023-09-27": 3096,
-  "2023-09-28": 3142,
-  "2023-09-29": 3184,
-  "2023-09-30": 3220,
-  "2023-10-01": 3255,
-  "2023-10-02": 3289,
-  "2023-10-03": 3329,
-  "2023-10-04": 3363,
-  "2023-10-05": 3398,
-  "2023-10-06": 3430,
-  "2023-10-07": 3464,
-  "2023-10-08": 3499,
-  "2023-10-09": 3534,
-  "2023-10-10": 3555,
-  "2023-10-11": 3621,
-  "2023-10-12": 3621,
-  "2023-10-13": 3658,
-  "2023-10-14": 3687,
-  "2023-10-15": 3712,
-  "2023-10-16": 3740,
-  "2023-10-17": 3761,
-  "2023-10-18": 3790,
-  "2023-10-19": 3821,
-  "2023-10-20": 3843,
-  "2023-10-21": 3881,
-  "2023-10-22": 3902,
-  "2023-10-23": 3921,
-  "2023-10-24": 3938,
-  "2023-10-25": 3958,
-  "2023-10-26": 3985,
-  "2023-10-27": 4016,
-  "2023-10-28": 4039,
-  "2023-10-29": 4072,
-  "2023-10-30": 4120,
-  "2023-10-31": 4120,
-  "2023-11-01": 4135,
-  "2023-11-02": 4155,
-  "2023-11-03": 4183,
-  "2023-11-04": 4206,
-  "2023-11-05": 4226,
-  "2023-11-06": 4240,
-  "2023-11-07": 4253,
-  "2023-11-08": 4278,
-  "2023-11-09": 4306,
-  "2023-11-10": 4326,
-  "2023-11-11": 4353,
-  "2023-11-12": 4375,
-  "2023-11-13": 4391,
-  "2023-11-14": 4409,
-  "2023-11-15": 4409,
-  "2023-11-16": 4459,
-  "2023-11-17": 4510,
-  "2023-11-18": 4510,
-  "2023-11-19": 4546,
-  "2023-11-20": 4563,
-  "2023-11-21": 4578,
-  "2023-11-22": 4598,
-  "2023-11-23": 4621,
-  "2023-11-24": 4644,
-  "2023-11-25": 4678,
-  "2023-11-26": 4704,
-  "2023-11-27": 4727,
-  "2023-11-28": 4749,
-  "2023-11-29": 4802,
-  "2023-11-30": 4802,
-  "2023-12-01": 4830,
-  "2023-12-02": 4840,
-  "2023-12-03": 4870,
-  "2023-12-04": 4896,
-  "2023-12-05": 4919,
-  "2023-12-06": 4942,
-  "2023-12-07": 4964,
-  "2023-12-08": 4987,
-  "2023-12-09": 4995,
-  "2023-12-10": 5016,
-  "2023-12-11": 5025,
-  "2023-12-12": 5049,
-  "2023-12-13": 5070,
-  "2023-12-14": 5096,
-  "2023-12-15": 5107,
-  "2023-12-16": 5121,
-  "2023-12-17": 5127,
-  "2023-12-18": 5140,
-  "2023-12-19": 5156,
-  "2023-12-20": 5180,
-  "2023-12-21": 5190,
-  "2023-12-22": 5203,
-  "2023-12-23": 5211,
-  "2023-12-24": 5231,
-  "2023-12-25": 5242,
-  "2023-12-26": 5259,
-  "2023-12-27": 5271,
-  "2023-12-30": 5319,
-  "2023-12-31": 5330,
-  "2024-01-01": 5340,
-  "2024-01-02": 5354,
-  "2024-01-03": 5365
+  "2024-01-17": 5554,
+  "date_first_scraped": "2023-09-15",
+  "description": "Music From \"Monster Hunter Now\"! \u97f3\u697d\u3067\u8fbf\u308b\u300cMonster Hunter Now\u300d\u306e\u4e16\u754c! \u00a9 2023 Niantic. Characters / Artwork/ Music \u00a9 CAPCOM CO., LTD.",
+  "name": "Monster Hunter Now",
+  "tracks": [
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140813,
+      "name": "Ancient Forest : Medium Monsters Abound",
+      "url": "https://open.spotify.com/track/1vejxjxGC9uMvEtUPFlExt"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127586,
+      "name": "Ancient Forest : Small Monsters Abound",
+      "url": "https://open.spotify.com/track/3lhmTGBeOZQVp9ktV3m0W2"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141706,
+      "name": "Coral Highlands: Medium Monsters Abound",
+      "url": "https://open.spotify.com/track/1uODGdjLsyLjmMhQ5ValKY"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126560,
+      "name": "Coral Highlands: Small Monsters Abound",
+      "url": "https://open.spotify.com/track/4KR1RTXcPMsaVtYlqDTeEG"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257613,
+      "name": "Dancer in the Coral Highlands",
+      "url": "https://open.spotify.com/track/0zcszMVvCOU5bKJYYWWri0"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105253,
+      "name": "Dancer in the Coral Highlands : The Chase",
+      "url": "https://open.spotify.com/track/5NBvYg24l3g2YfsJpgwR1w"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER RISE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT"
+      },
+      "artists": [
+        {
+          "name": "Reo Uratani",
+          "url": "https://open.spotify.com/artist/09RfEzNT81tvlqp2yvrZpA"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Kamura's Song of Purification",
+      "url": "https://open.spotify.com/track/1rSo2cFFBRiiQfL8ttbem5"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271520,
+      "name": "Main Theme - Stars At Our Backs",
+      "url": "https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev"
+    },
+    {
+      "album": {
+        "name": "Make It Out Alive",
+        "url": "https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209799,
+      "name": "Make It Out Alive",
+      "url": "https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283306,
+      "name": "Murmurs from the Land Forbidden",
+      "url": "https://open.spotify.com/track/2uE9xSQBNqfs9MUiRuCGwl"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Murmurs from the Land Forbidden : The Chase",
+      "url": "https://open.spotify.com/track/1xf7vm598YNqHwjTaN0Xkr"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 31906,
+      "name": "Raining Life on the Highlands (Night)",
+      "url": "https://open.spotify.com/track/4RerCANHsiWG81YthQum03"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150346,
+      "name": "Rotten Vale: Medium Monsters Abound",
+      "url": "https://open.spotify.com/track/0oaYqcCWpwjSCIzWvmTRlP"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128946,
+      "name": "Rotten Vale: Small Monsters Abound",
+      "url": "https://open.spotify.com/track/6VXQa83xt5ivr01rBXZhEd"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271373,
+      "name": "Rulers of the Wildspire",
+      "url": "https://open.spotify.com/track/1raCCeepTOe4TDb4afEzlE"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144466,
+      "name": "Rulers of the Wildspire : The Chase",
+      "url": "https://open.spotify.com/track/48q2k37fCLqlGiX8YE1dry"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Savage of the Ancient Forest",
+      "url": "https://open.spotify.com/track/5KhEsB16Y3KlFvd5I7QJxF"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145493,
+      "name": "Savage of the Ancient Forest : The Chase",
+      "url": "https://open.spotify.com/track/4DbcnIdlKZZNJN5Uzq8Vt7"
+    },
+    {
+      "album": {
+        "name": "Monster Hunter World: Iceborne Original Soundtrack",
+        "url": "https://open.spotify.com/album/4AenYpO2QiF0pi74wSIDOa"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "Succession of Light",
+      "url": "https://open.spotify.com/track/1qtmr0RDgcyEhMEmN0VZzf"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER RISE:SUNBREAK ORIGINALSOUNDTRACK",
+        "url": "https://open.spotify.com/album/6R1dDgIgAg07LgssoTdSzr"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        },
+        {
+          "name": "\u30b5\u30e9\u30fb\u30aa\u30ec\u30a4\u30f3",
+          "url": "https://open.spotify.com/artist/0VVDJwGWHTDTyzQDCenBoN"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336813,
+      "name": "Sunbreak - English Version",
+      "url": "https://open.spotify.com/track/1H4PFdeesF3V0ELt8AJO2J"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153653,
+      "name": "Wildspire Waste: Medium Monsters Abound",
+      "url": "https://open.spotify.com/track/6mllzC3mGOvMBZ9u0LONa3"
+    },
+    {
+      "album": {
+        "name": "MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115093,
+      "name": "Wildspire Waste: Small Monsters Abound",
+      "url": "https://open.spotify.com/track/505juTsBnOtvVtfHvP1lUU"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc\u30af\u30ed\u30b9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5Nn8ZLhvrI2uJ7YosLER7r"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244840,
+      "name": "\u30c8\u30e9\u30d9\u30eb\u30ca - Fullver.",
+      "url": "https://open.spotify.com/track/5kXkL92c1WlmBjD99O5EQJ"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6XX",
+        "url": "https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3(CV:\u4e0a\u7530\u9e97\u5948&\u9ad8\u91ce\u9ebb\u91cc\u4f73)",
+          "url": "https://open.spotify.com/artist/6F3dWs4bYDUJ80qE7ypQQN"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113240,
+      "name": "\u30cb\u30e3\u30f3\u3066\u30cf\u30c3\u30d4\u30fc\u30e9\u30c3\u30ad\u30fc\u30c7\u30a4! \u301c \u30df\u30e9\u30af\u30eb\u2606\u30df\u30eb\u30af\u30c6\u30a3 - game ver.",
+      "url": "https://open.spotify.com/track/38IUaD5ECId2Fqal68ZmqG"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2G \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5V9SaJ7QjH2Gq56Yt8HpXE"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Fukasawa",
+          "url": "https://open.spotify.com/artist/3cDGDsZOLwD5aBLoX0GICu"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258399,
+      "name": "\u30e1\u30bc\u30dd\u30eb\u30bf\u306e\u967d/\u30e1\u30bc\u30dd\u30eb\u30bf(\u663c)",
+      "url": "https://open.spotify.com/track/6IHpZVMayoy4vXI8zuLZH1"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177840,
+      "name": "\u53cc\u89d2\u731b\u308b\u7802\u6f20\u306e\u66b4\u541b/\u30c7\u30a3\u30a2\u30d6\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/4gAG6XYs8I3nEzf6D2Z4Rr"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22360,
+      "name": "\u547d\u306e\u884c\u304d\u3064\u304f\u5834\u6240(\u591c)",
+      "url": "https://open.spotify.com/track/46sKIFefFSu37CVJPpV95h"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 22786,
+      "name": "\u547d\u306e\u884c\u304d\u3064\u304f\u5834\u6240(\u663c)",
+      "url": "https://open.spotify.com/track/4Py6zfyG3Ydy0LlhQgasQf"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "TADAYOSHI MAKINO",
+          "url": "https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 29506,
+      "name": "\u547d\u306e\u96ea\u304c\u964d\u308b\u53f0\u5730(\u663c)",
+      "url": "https://open.spotify.com/track/0x4MHP22TCBM9x8eMup9mM"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104533,
+      "name": "\u5486\u54ee /\u30ea\u30aa\u30ec\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/2ou7EkHGjXDsFJxk0FzEGW"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc3 (tri-) \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/34a2F897NiFXJry79ahuz3"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223693,
+      "name": "\u571f\u7802\u3068\u71b1\u98a8/\u30dc\u30eb\u30dc\u30ed\u30b9",
+      "url": "https://open.spotify.com/track/1NgvpSo0StB1O9kq6E2qFm"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149360,
+      "name": "\u5927\u6575\u3078\u306e\u6311\u6226/\u30b7\u30a7\u30f3\u30ac\u30aa\u30ec\u30f3",
+      "url": "https://open.spotify.com/track/6Zkpl0zvpbIBP7yDaFkkV1"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179040,
+      "name": "\u592a\u53e4\u306e\u5f8b\u52d5/\u30ea\u30aa\u30ec\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/6FO1WrWt4Us3AFoUMWJQHt"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/7wfws2r87STQ7y7lSgXRmC"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207746,
+      "name": "\u65c5\u7acb\u3061\u306e\u98a8",
+      "url": "https://open.spotify.com/track/5MoptE6WpED1IksdhpH000"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc3 (tri-) \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/34a2F897NiFXJry79ahuz3"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189760,
+      "name": "\u751f\u547d\u3042\u308b\u8005\u3078",
+      "url": "https://open.spotify.com/track/2ehyCjO5IImPIAzyunddFn"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18506,
+      "name": "\u773c\u524d\u306b\u5e83\u304c\u308b\u65b0\u5927\u9678(\u591c)",
+      "url": "https://open.spotify.com/track/0fRg6ZLQJXzlu9OvwPmHzU"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "YUKO KOMIYAMA",
+          "url": "https://open.spotify.com/artist/4EbP1joGE8aSWYO4Seq23A"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19373,
+      "name": "\u773c\u524d\u306b\u5e83\u304c\u308b\u65b0\u5927\u9678(\u663c)",
+      "url": "https://open.spotify.com/track/2vwvjfZWc5yOoNb8F3NQV7"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6II \u301c\u5486\u54ee\u306e\u7ae0\u301c",
+        "url": "https://open.spotify.com/album/3mApUVCShStbmFQtPPoTVM"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "\u79d8\u5883\u306e\u4f1d\u8aac",
+      "url": "https://open.spotify.com/track/0u7BPiDObpb1uIGwvSGMqU"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc \u72e9\u731f\u97f3\u697d\u96c6 ~3\u5468\u5e74\u8a18\u5ff5\u30d9\u30b9\u30c8\u30c8\u30e9\u30c3\u30af~",
+        "url": "https://open.spotify.com/album/7sJWDYzGh1HaAQzjc0ScxI"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257866,
+      "name": "\u82f1\u96c4\u306e\u8a3c",
+      "url": "https://open.spotify.com/track/0MvELkmRWxQoEVBfrMTkjl"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26746,
+      "name": "\u8352\u308c\u91ce\u306b\u5439\u304f\u98a8(\u591c)",
+      "url": "https://open.spotify.com/track/3E0wePWBSwRzFhkEjKWPSM"
+    },
+    {
+      "album": {
+        "name": "\u30e2\u30f3\u30b9\u30bf\u30fc\u30cf\u30f3\u30bf\u30fc:\u30ef\u30fc\u30eb\u30c9 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/0hU2xjMRQWN7zsawye1wfh"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 26346,
+      "name": "\u8352\u308c\u91ce\u306b\u5439\u304f\u98a8(\u663c)",
+      "url": "https://open.spotify.com/track/4x63SzGK4YL8pgEm2prxDF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX1sSSKY6eN8p"
 }

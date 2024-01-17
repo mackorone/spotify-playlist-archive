@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-195 songs - 11 hr 32 min
+197 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Fade Into You](https://open.spotify.com/track/4h7WDNloLUhJgPPuqgaMS7) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [Fade Into You](https://open.spotify.com/album/2ELqd8jEtBWMidcQsERbqk) | 3:46 | 2023-06-08 |  |
 | [Faster](https://open.spotify.com/track/0fbxkVJjBAv6MYUgXJNnRB) | [Orlean](https://open.spotify.com/artist/0CMi4bdgWM5KaUWQ5Wt6RO) | [Faster](https://open.spotify.com/album/1y4klEfZXHcvBgdIzHfFsv) | 3:04 | 2023-06-08 |  |
 | [Feels like Summer \- Lhotse Remix](https://open.spotify.com/track/1LnceISmVaEQUcNI8EAhLz) | [Samuel Jack](https://open.spotify.com/artist/78rEst9B8h5utylmzIoUgb), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [Feels like Summer \(Lhotse Remix\)](https://open.spotify.com/album/2VwgoDnK5A2OVOoURGPgGw) | 3:26 | 2023-06-08 |  |
-| [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-06-08 |  |
+| [Feels Right](https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:34 | 2023-06-08 | 2024-01-12 |
+| [Feels Right](https://open.spotify.com/track/226kedQbsIsYmkylaxPzcV) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 4:34 | 2023-06-08 |  |
 | [Finding You](https://open.spotify.com/track/6aKBO7LneC2thOQmSlkHml) | [Mel Blue](https://open.spotify.com/artist/6GV5OpDaGm4sYeWlaXMHnJ) | [Sanctuary Point](https://open.spotify.com/album/2vnz72t4mSjrw1RhgfDSTN) | 3:42 | 2023-06-08 |  |
 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2023-06-08 |  |
 | [Floating \- Kabul Fire RMX](https://open.spotify.com/track/5TvjvDPTBv2DDao0dVCReQ) | [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK), [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt), [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k) | [Reality Check](https://open.spotify.com/album/7wddEpL1aMf3LFdzt85AcG) | 2:40 | 2023-06-08 |  |
@@ -108,7 +109,8 @@
 | [Light up the Party](https://open.spotify.com/track/0mKVeA6fwC8GLHxFfEp6Nj) | [Skully Boyz](https://open.spotify.com/artist/0LqUbElKxWRmBSGK3V08hf) | [100 Styles & Gunnin'](https://open.spotify.com/album/1bIdRmt0JrgQD590hTIQ1c) | 2:35 | 2023-06-08 |  |
 | [Lightleak](https://open.spotify.com/track/3szbKoHJIy4dMCIPnmV9u4) | [There's Talk](https://open.spotify.com/artist/2WhB9sVFJmyQTjSx54za8L) | [Lightleak](https://open.spotify.com/album/3a0DLD5fuRlbEQQhARZFHY) | 3:54 | 2023-06-08 |  |
 | [Lilac House](https://open.spotify.com/track/3tRlEuSKHctR38ES9NYf2l) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Lavender](https://open.spotify.com/album/2vJ4wdrDggsYBywQSBhuMi) | 2:28 | 2023-06-08 |  |
-| [Lost](https://open.spotify.com/track/2ru0OaqYvJS8yXMMsZZWcH) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:29 | 2023-06-08 |  |
+| [Lost](https://open.spotify.com/track/1h45FLiZJT9oYjbrHKcHjy) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/7c844zy9jk6SzVpC57SGZL) | 4:29 | 2023-06-08 |  |
+| [Lost](https://open.spotify.com/track/2ru0OaqYvJS8yXMMsZZWcH) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Careful](https://open.spotify.com/album/6G1kayusfMD3mcRXtPty2k) | 4:29 | 2023-06-08 | 2024-01-13 |
 | [Love Goes \(feat\. Labrinth\)](https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 4:44 | 2023-06-08 |  |
 | [Love Is a Phase](https://open.spotify.com/track/6JTeB7aJW2jwIjAyMCD9cv) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [Voyage](https://open.spotify.com/album/71pGZ0F3laTMZPmwfXxmFS) | 5:38 | 2023-06-08 |  |
 | [Lucid](https://open.spotify.com/track/5GL0OMMSziz8VwN87p30TE) | [Innocent Bird](https://open.spotify.com/artist/3XKL5IuEz5yErHp6S3Wk8q) | [Vol\. 4](https://open.spotify.com/album/7L3orQnuqz95Y1e5W62y3V) | 3:43 | 2023-06-08 |  |

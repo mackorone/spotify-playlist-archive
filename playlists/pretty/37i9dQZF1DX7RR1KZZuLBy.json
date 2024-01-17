@@ -1,29 +1,13 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 38818,
+  "num_followers": 39593,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGU4N2Y3ZDEwMzU0MTFhYTkxYTJmODM0ZmMxYjNhMmVkOTIyNWI2",
+  "snapshot_id": "MCxkYmJiZDRlNDA5N2M5MjBiNDlhZWYxNjMyMTU0NGViZDA4ZjNmMjEy",
   "tracks": [
-    {
-      "added_at": "2023-11-24 00:01:00",
-      "album": {
-        "name": "Sibonga Umusa (Live)",
-        "url": "https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3"
-      },
-      "artists": [
-        {
-          "name": "Sneziey",
-          "url": "https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5"
-        }
-      ],
-      "duration_ms": 589875,
-      "name": "Thixo Wamadinga Ethu (Live)",
-      "url": "https://open.spotify.com/track/67NHjEvUTfqyKqNZF0tSMh"
-    },
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
@@ -89,26 +73,6 @@
       "url": "https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG"
     },
     {
-      "added_at": "2023-12-22 09:02:50",
-      "album": {
-        "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
-        "url": "https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw"
-      },
-      "artists": [
-        {
-          "name": "Worship House",
-          "url": "https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD"
-        },
-        {
-          "name": "Mahazel",
-          "url": "https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA"
-        }
-      ],
-      "duration_ms": 591930,
-      "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
-      "url": "https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA"
-    },
-    {
       "added_at": "2023-12-01 00:01:00",
       "album": {
         "name": "Zion (Deluxe Edition)",
@@ -127,6 +91,22 @@
       "duration_ms": 535962,
       "name": "Oceans (Where Feet May Fail)",
       "url": "https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -155,46 +135,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+        "name": "What A Beautiful Name",
+        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
         },
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 598994,
-      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
-      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Better Word",
-        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
-      },
-      "artists": [
-        {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        }
-      ],
-      "duration_ms": 503240,
-      "name": "Way Maker - Live",
-      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+      "duration_ms": 238200,
+      "name": "What A Beautiful Name",
+      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -219,50 +175,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "What A Beautiful Name",
-        "url": "https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "What A Beautiful Name",
-      "url": "https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -307,6 +219,50 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 598994,
+      "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
+      "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "COAT OF MANY COLORS",
+        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "MIRACLE CHILD",
+      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Yet",
         "url": "https://open.spotify.com/album/2R9rTZLe39Z0QZrCKpdqft"
       },
@@ -339,40 +295,8 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "COAT OF MANY COLORS",
-        "url": "https://open.spotify.com/album/44dncCBiOODhAa9L0UCvoE"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "MIRACLE CHILD",
-      "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "In The Room (feat. Tasha Cobbs Leonard)",
-        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
@@ -380,21 +304,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
           "name": "Chandler Moore",
           "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
         },
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 597481,
-      "name": "In The Room (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -451,6 +371,74 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "He Who Is To Come",
+        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 410958,
+      "name": "He Who Is To Come",
+      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "In The Room (feat. Tasha Cobbs Leonard)",
+        "url": "https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 597481,
+      "name": "In The Room (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Fall On Me (Maverick City Music Version)",
         "url": "https://open.spotify.com/album/5AXnIJzI8jSbXecVXwJdMP"
       },
@@ -479,6 +467,22 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "House Of Miracles",
+        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 343426,
+      "name": "Graves Into Gardens",
+      "url": "https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "Get Ready",
         "url": "https://open.spotify.com/album/6NkYBmhWU3LERnRJg4sgu6"
       },
@@ -491,46 +495,6 @@
       "duration_ms": 207800,
       "name": "He Wants It All",
       "url": "https://open.spotify.com/track/1A3Hqv4qJd1RBJMq4au7GS"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 405513,
-      "name": "Million Little Miracles (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Count 'Em",
-        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "COUNT 'EM",
-      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -575,50 +539,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Crazy Love (feat. JWLKRS Worship)",
-        "url": "https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22"
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "JWLKRS Worship",
-          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 358151,
-      "name": "Crazy Love (feat. JWLKRS Worship)",
-      "url": "https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+      "duration_ms": 309600,
+      "name": "Intentional",
+      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -639,70 +571,26 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "The Hill",
-        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
       "artists": [
         {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "Intentional",
-      "url": "https://open.spotify.com/track/7amI71zqlFSwDF3jFjHa2l"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 208965,
-      "name": "Be Okay",
-      "url": "https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "House Of Miracles",
-        "url": "https://open.spotify.com/album/0UJqeXmYE9Bs5jxXL0tCtW"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 343426,
-      "name": "Graves Into Gardens",
-      "url": "https://open.spotify.com/track/4rnoCR7AOaa6RWdyh7JgP0"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Heart. Passion. Pursuit.",
-        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
         },
         {
-          "name": "Jimi Cravity",
-          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
         }
       ],
-      "duration_ms": 480546,
-      "name": "You Know My Name",
-      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+      "duration_ms": 405513,
+      "name": "Million Little Miracles (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -735,18 +623,54 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Joy in Chaos",
-        "url": "https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp"
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
       },
       "artists": [
         {
-          "name": "Holy drill",
-          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Jimi Cravity",
+          "url": "https://open.spotify.com/artist/3klvuxan8KcvysB5d9q7Ls"
         }
       ],
-      "duration_ms": 70216,
-      "name": "Joy in Chaos",
-      "url": "https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB"
+      "duration_ms": 480546,
+      "name": "You Know My Name",
+      "url": "https://open.spotify.com/track/0Dlm41iXvTsIVsEOce3yX6"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 208965,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Count 'Em",
+        "url": "https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "COUNT 'EM",
+      "url": "https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -765,44 +689,20 @@
       "url": "https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C"
     },
     {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "I Need You Now",
-        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 251466,
-      "name": "I Need You Now",
-      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "He Who Is To Come",
-        "url": "https://open.spotify.com/album/5zKF5mAt03NcwrTKa3Z5or"
+        "name": "Good Plans / Doxology",
+        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
         }
       ],
-      "duration_ms": 410958,
-      "name": "He Who Is To Come",
-      "url": "https://open.spotify.com/track/5HKXRikAE7tdWY0XR5J7z9"
+      "duration_ms": 495246,
+      "name": "Good Plans / Doxology",
+      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -827,34 +727,50 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
       },
       "artists": [
         {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Good Plans / Doxology",
-        "url": "https://open.spotify.com/album/7dAjZUwVmP9kzsyvpBbHMH"
+        "name": "Crazy Love (feat. JWLKRS Worship)",
+        "url": "https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22"
       },
       "artists": [
         {
-          "name": "Red Rocks Worship",
-          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
         }
       ],
-      "duration_ms": 495246,
-      "name": "Good Plans / Doxology",
-      "url": "https://open.spotify.com/track/10Akq9wk9NP2IyiwiaDHWU"
+      "duration_ms": 358151,
+      "name": "Crazy Love (feat. JWLKRS Worship)",
+      "url": "https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -875,18 +791,50 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
       },
       "artists": [
         {
-          "name": "Mary Mary",
-          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 297960,
-      "name": "Can't Give Up Now",
-      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Joy in Chaos",
+        "url": "https://open.spotify.com/album/7x1iXdhcoN8Aw9pE15Ajvp"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        }
+      ],
+      "duration_ms": 70216,
+      "name": "Joy in Chaos",
+      "url": "https://open.spotify.com/track/1HDMh5q6NQAYlos9fFLmOB"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "I Need You Now",
+        "url": "https://open.spotify.com/album/5vjrbEc6Kpn67oHShGgBJF"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "I Need You Now",
+      "url": "https://open.spotify.com/track/44q2DhInsQYJ8X1q2H1RNj"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -903,22 +851,6 @@
       "duration_ms": 380666,
       "name": "Firm Foundation (He Won\u2019t) - Live",
       "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
-        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
-      },
-      "artists": [
-        {
-          "name": "Joyous Celebration",
-          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
-        }
-      ],
-      "duration_ms": 349973,
-      "name": "Yesu Wena UnguMhlobo - Live",
-      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -939,6 +871,74 @@
       "duration_ms": 317146,
       "name": "Simple Matter",
       "url": "https://open.spotify.com/track/19TiECi9uhu3vRj2XAQrq5"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/2CW02evpO85vRxOSYx7zcP"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "duration_ms": 297960,
+      "name": "Can't Give Up Now",
+      "url": "https://open.spotify.com/track/5xxnE0Nm5v3L9tekNEWpCg"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Joyous Celebration 23 - Live at the CTICC Cape Town",
+        "url": "https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj"
+      },
+      "artists": [
+        {
+          "name": "Joyous Celebration",
+          "url": "https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W"
+        }
+      ],
+      "duration_ms": 349973,
+      "name": "Yesu Wena UnguMhlobo - Live",
+      "url": "https://open.spotify.com/track/3j3Jn0bcG8rzliG4vHBYCa"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "How To Start A Housefire (Pt. III)",
+        "url": "https://open.spotify.com/album/43KFGs97OB7Mgyx0Gbmie8"
+      },
+      "artists": [
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 415598,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Just Like You've Always Done",
+        "url": "https://open.spotify.com/album/2Qi1MljxqICjyyjvTLx9Pp"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 212277,
+      "name": "Just Like You've Always Done",
+      "url": "https://open.spotify.com/track/2shl2yhyeveafJFGjecS1X"
     },
     {
       "added_at": "2023-12-01 00:01:00",

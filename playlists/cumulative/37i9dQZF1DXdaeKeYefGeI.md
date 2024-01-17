@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: André van Duin
 
-138 songs - 8 hr 37 min
+139 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,8 +118,9 @@
 | [Sarah](https://open.spotify.com/track/7yDqMzyLCuu3pE1NqbqWbO) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Edith Leerkes](https://open.spotify.com/artist/78UaWj1oZgFfDSjhTj6oKs) | [Moeders](https://open.spotify.com/album/7tjnfbRE4E3jCzH6pv1BHd) | 3:30 | 2023-02-10 | 2023-04-26 |
 | [Stap Voor Stap](https://open.spotify.com/track/6x8y52msTAuUrGpXjkrYKG) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Stap Voor Stap](https://open.spotify.com/album/0gDWnkxZ44kcBdizwd12qT) | 3:53 | 2023-02-10 | 2023-10-13 |
 | [Stilte Na De Storm](https://open.spotify.com/track/6wkKgQuU44VWkWD7A4Y2mv) | [The Kik](https://open.spotify.com/artist/5vEW6oifezRitpxbykJSw8) | [Stilte Na De Storm](https://open.spotify.com/album/1edANTaXlVj17VXFPOG04b) | 3:33 | 2023-02-10 | 2023-04-26 |
+| [Straks](https://open.spotify.com/track/7AFTRQtshBcHlTTzuvk2Ig) | [Stephanie Struijk](https://open.spotify.com/artist/2D2KkoPYCe9SDUQwp6G8ff) | [Dezelfde Zon](https://open.spotify.com/album/0W4OKFFc9K9IqXpvxUpemx) | 2:16 | 2024-01-11 |  |
 | [Suzanne](https://open.spotify.com/track/1BNp77RjuxC9koWD67CNiL) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh) | [20 Jaar Herman Van Veen \- In Vogelvlucht](https://open.spotify.com/album/5YVe7mgjlq0FThqEIgo1ze) | 3:59 | 2023-02-10 |  |
-| [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 |  |
+| [Telkens Weer](https://open.spotify.com/track/45PcTtMMf5qUGhSTj43ZnE) | [Willeke Alberti](https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV) | [Liedjes Uit De Film Rooie Sien \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1mejiAFSmPftZbBTq43Bee) | 3:14 | 2023-02-10 | 2024-01-12 |
 | [Testament](https://open.spotify.com/track/6uWWbsGYJT8d4wvQKqkJEG) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [De Vrienden Van Vroeger \(1966\-1973\)](https://open.spotify.com/album/5mTJI3gIyjVfK4UV0Li4AX) | 3:15 | 2023-02-10 |  |
 | [Troostliedje](https://open.spotify.com/track/3wjD0K6q3g81Eo9hT9Pkii) | [Maaike Ouboter](https://open.spotify.com/artist/51jBhM2gW17sCGLI1eBkDn) | [Troostliedje](https://open.spotify.com/album/5NewFgJdkg0r6rhELb8RHZ) | 3:18 | 2023-02-10 | 2023-11-11 |
 | [Vaderland](https://open.spotify.com/track/2tD9WSm02XImRDAc5jsvCD) | [Frank Boeijen](https://open.spotify.com/artist/0e6dXSbAaFM0M9SlsgHIBj) | [Vaderland](https://open.spotify.com/album/47eizTmbC25xFfzp0kB8sD) | 6:28 | 2023-02-10 | 2023-06-02 |

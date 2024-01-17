@@ -381,6 +381,32 @@
     },
     {
       "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/0UQjd1grnKWmHS6OFY1Qqh"
+      },
+      "artists": [
+        {
+          "name": "Avi Snow",
+          "url": "https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu"
+        },
+        {
+          "name": "Sync",
+          "url": "https://open.spotify.com/artist/6h2Ljt4yaJzSN5IGJusE13"
+        },
+        {
+          "name": "Marky Style",
+          "url": "https://open.spotify.com/artist/30rdwRJSoSZicHb4xOCrme"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194754,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/2pgcIWzePTTC2a99dRrTzd"
+    },
+    {
+      "album": {
         "name": "Annabelle's Tea Party",
         "url": "https://open.spotify.com/album/0G2m4IHWmXSqKQFSPnQN24"
       },
@@ -1684,7 +1710,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 215079,
       "name": "Cyberpunk",
       "url": "https://open.spotify.com/track/0x5iuaeBzKEVT49lJKpRAR"
@@ -1808,7 +1834,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 195200,
       "name": "Desperate",
       "url": "https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4"
@@ -1972,6 +1998,24 @@
       "duration_ms": 137261,
       "name": "Don't Left Me",
       "url": "https://open.spotify.com/track/5mBeCgCZbOczw4BBZoXzIa"
+    },
+    {
+      "album": {
+        "name": "Don't Stay",
+        "url": "https://open.spotify.com/album/5gBqiNczDMwkm4hM5BrhKo"
+      },
+      "artists": [
+        {
+          "name": "NGO",
+          "url": "https://open.spotify.com/artist/3UKatg0fWx5md56wN6mEYb"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154015,
+      "name": "Don't Stay",
+      "url": "https://open.spotify.com/track/5QMwOxEiP3My3HaUxGj4Sf"
     },
     {
       "album": {
@@ -2202,7 +2246,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 155156,
       "name": "Dreamin'",
       "url": "https://open.spotify.com/track/6Pqil5djDYDxWzitsw2eD3"
@@ -3562,7 +3606,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 174375,
       "name": "Freakshow",
       "url": "https://open.spotify.com/track/0qhe7FV1vBw4g7wQqp6rjm"
@@ -4351,6 +4395,24 @@
     },
     {
       "album": {
+        "name": "I Like It With You",
+        "url": "https://open.spotify.com/album/6Zgev7ySrbUwKAqL10ofNV"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levi",
+          "url": "https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "I Like It With You",
+      "url": "https://open.spotify.com/track/5P8vqkiF7Wek3iPOVJmqr0"
+    },
+    {
+      "album": {
         "name": "14/02",
         "url": "https://open.spotify.com/album/49L9LPfiRFp334a9If9igo"
       },
@@ -4899,6 +4961,24 @@
     },
     {
       "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2Yia5sGQfwQFtpvl90YwDc"
+      },
+      "artists": [
+        {
+          "name": "Diamond Eyes",
+          "url": "https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/3tkfu51XGoO7bnv44QL9iX"
+    },
+    {
+      "album": {
         "name": "Light",
         "url": "https://open.spotify.com/album/2TGOblwUSAVufEeIDQeOoP"
       },
@@ -4918,7 +4998,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 253793,
       "name": "Light",
       "url": "https://open.spotify.com/track/6pO4iuzfi0PVODLtm0y4dN"
@@ -5112,7 +5192,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 136421,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/0c2IOjZnVajRBMIQSYq2jZ"
@@ -5266,6 +5346,24 @@
       "duration_ms": 224003,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/229ZrydmFXZ22CkZTJx8Wn"
+    },
+    {
+      "album": {
+        "name": "Keep",
+        "url": "https://open.spotify.com/album/11gPSu8vh1e4velnMh8VOr"
+      },
+      "artists": [
+        {
+          "name": "intouch",
+          "url": "https://open.spotify.com/artist/3Ikgdt3VgIO7o76F1SBnkR"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/7qKXidnk1oaOl0DKAobGib"
     },
     {
       "album": {
@@ -6192,7 +6290,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 153088,
       "name": "Numb The Pain",
       "url": "https://open.spotify.com/track/4vAze2mrHQgy44qRuz1rCm"
@@ -6250,7 +6348,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 230625,
       "name": "Oblivion",
       "url": "https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda"
@@ -6810,7 +6908,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 204006,
       "name": "Perfect 10",
       "url": "https://open.spotify.com/track/2MolFsdE7ydCQQgsmfvX6w"
@@ -7316,7 +7414,7 @@
       ],
       "date_added": "2023-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 179375,
       "name": "Ride or Die (ft. Indy Skies)",
       "url": "https://open.spotify.com/track/0xXaabBmxaTsxxNcf1a0Yn"
@@ -7446,7 +7544,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 212859,
       "name": "Royalty - Wiguez & Alltair Remix",
       "url": "https://open.spotify.com/track/6kl3BgBeYYAUtuxDi5aKQX"
@@ -7658,7 +7756,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 230117,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/05Tj9EuuK3me0NBJsgcgd6"
@@ -7684,7 +7782,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 248275,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/2pFL6kVGR4PIuPlL2AuAWk"
@@ -7750,7 +7848,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 194746,
       "name": "Set You Free",
       "url": "https://open.spotify.com/track/2MZJIe78uKE7B7cFC1LNbR"
@@ -7808,7 +7906,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 315585,
       "name": "Shine",
       "url": "https://open.spotify.com/track/7jW2dcStZndF9lWRrPUvzV"
@@ -7936,7 +8034,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 236254,
       "name": "Sky High",
       "url": "https://open.spotify.com/track/61k7xAKMsuvTf2j2YnieSi"
@@ -8086,7 +8184,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 212575,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA"
@@ -8108,6 +8206,28 @@
       "duration_ms": 145655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi"
+    },
+    {
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        },
+        {
+          "name": "Halvorsen",
+          "url": "https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA"
     },
     {
       "album": {
@@ -8148,7 +8268,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 179224,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/4tF4f9GwL52a4VruWF5Brp"
@@ -8410,7 +8530,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 179617,
       "name": "Take You On",
       "url": "https://open.spotify.com/track/1YxGxw82Jn4jmwh2uhOhfC"
@@ -9001,6 +9121,32 @@
     },
     {
       "album": {
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/50PnhUD4Z1qTrgDLOgfcXV"
+      },
+      "artists": [
+        {
+          "name": "Lost Sky",
+          "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+        },
+        {
+          "name": "ANGELPLAYA",
+          "url": "https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo"
+        },
+        {
+          "name": "Chris Linton",
+          "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196847,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/7ImmvnWXfjXGPecqo9eUVt"
+    },
+    {
+      "album": {
         "name": "Unforgivable",
         "url": "https://open.spotify.com/album/3htLm8vM0bgKTSTy2b0cSs"
       },
@@ -9390,6 +9536,24 @@
       "duration_ms": 236812,
       "name": "We Are",
       "url": "https://open.spotify.com/track/5sMEi6i03q7JUh2xRTL02D"
+    },
+    {
+      "album": {
+        "name": "WHAT",
+        "url": "https://open.spotify.com/album/05K4uCusOkFEIGFCdfQYvo"
+      },
+      "artists": [
+        {
+          "name": "Jonth",
+          "url": "https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224914,
+      "name": "WHAT",
+      "url": "https://open.spotify.com/track/7gPFNOXap9pXQpHHYNFQRI"
     },
     {
       "album": {

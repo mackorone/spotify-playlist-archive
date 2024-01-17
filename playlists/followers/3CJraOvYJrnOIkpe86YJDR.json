@@ -1,226 +1,327 @@
 {
-  "2023-05-23": 1,
-  "2023-05-24": 1,
-  "2023-05-25": 1,
-  "2023-05-26": 1,
-  "2023-05-27": 1,
-  "2023-05-28": 1,
-  "2023-05-29": 1,
-  "2023-05-30": 1,
-  "2023-05-31": 1,
-  "2023-06-01": 1,
-  "2023-06-02": 1,
-  "2023-06-03": 1,
-  "2023-06-04": 1,
-  "2023-06-05": 1,
-  "2023-06-06": 1,
-  "2023-06-07": 1,
-  "2023-06-08": 1,
-  "2023-06-09": 1,
-  "2023-06-10": 1,
-  "2023-06-11": 1,
-  "2023-06-12": 1,
-  "2023-06-13": 1,
-  "2023-06-14": 1,
-  "2023-06-15": 1,
-  "2023-06-16": 1,
-  "2023-06-17": 1,
-  "2023-06-18": 1,
-  "2023-06-19": 1,
-  "2023-06-20": 1,
-  "2023-06-21": 1,
-  "2023-06-22": 1,
-  "2023-06-23": 1,
-  "2023-06-24": 1,
-  "2023-06-25": 1,
-  "2023-06-26": 1,
-  "2023-06-27": 1,
-  "2023-06-28": 1,
-  "2023-06-29": 1,
-  "2023-06-30": 1,
-  "2023-07-01": 1,
-  "2023-07-02": 1,
-  "2023-07-03": 1,
-  "2023-07-04": 1,
-  "2023-07-05": 1,
-  "2023-07-06": 1,
-  "2023-07-07": 1,
-  "2023-07-08": 1,
-  "2023-07-09": 1,
-  "2023-07-10": 1,
-  "2023-07-11": 1,
-  "2023-07-12": 1,
-  "2023-07-13": 1,
-  "2023-07-14": 1,
-  "2023-07-15": 1,
-  "2023-07-16": 1,
-  "2023-07-17": 1,
-  "2023-07-18": 1,
-  "2023-07-19": 1,
-  "2023-07-20": 1,
-  "2023-07-21": 1,
-  "2023-07-22": 1,
-  "2023-07-23": 1,
-  "2023-07-24": 1,
-  "2023-07-25": 1,
-  "2023-07-26": 1,
-  "2023-07-27": 1,
-  "2023-07-28": 1,
-  "2023-07-29": 1,
-  "2023-07-30": 1,
-  "2023-07-31": 1,
-  "2023-08-01": 1,
-  "2023-08-02": 1,
-  "2023-08-03": 1,
-  "2023-08-04": 1,
-  "2023-08-05": 1,
-  "2023-08-06": 1,
-  "2023-08-07": 1,
-  "2023-08-08": 1,
-  "2023-08-09": 1,
-  "2023-08-10": 1,
-  "2023-08-11": 1,
-  "2023-08-12": 1,
-  "2023-08-13": 1,
-  "2023-08-14": 1,
-  "2023-08-15": 1,
-  "2023-08-16": 1,
-  "2023-08-17": 1,
-  "2023-08-18": 1,
-  "2023-08-19": 1,
-  "2023-08-20": 1,
-  "2023-08-21": 1,
-  "2023-08-22": 1,
-  "2023-08-23": 1,
-  "2023-08-24": 1,
-  "2023-08-25": 1,
-  "2023-08-26": 1,
-  "2023-08-27": 1,
-  "2023-08-28": 1,
-  "2023-08-29": 1,
-  "2023-08-30": 1,
-  "2023-08-31": 1,
-  "2023-09-01": 1,
-  "2023-09-02": 1,
-  "2023-09-03": 1,
-  "2023-09-04": 1,
-  "2023-09-05": 1,
-  "2023-09-06": 1,
-  "2023-09-07": 1,
-  "2023-09-08": 1,
-  "2023-09-09": 1,
-  "2023-09-10": 1,
-  "2023-09-11": 1,
-  "2023-09-12": 1,
-  "2023-09-13": 1,
-  "2023-09-14": 1,
-  "2023-09-15": 1,
-  "2023-09-16": 1,
-  "2023-09-17": 1,
-  "2023-09-18": 1,
-  "2023-09-19": 1,
-  "2023-09-20": 1,
-  "2023-09-21": 1,
-  "2023-09-22": 1,
-  "2023-09-23": 1,
-  "2023-09-24": 1,
-  "2023-09-25": 1,
-  "2023-09-26": 1,
-  "2023-09-27": 1,
-  "2023-09-28": 1,
-  "2023-09-29": 1,
-  "2023-09-30": 1,
-  "2023-10-01": 1,
-  "2023-10-02": 1,
-  "2023-10-03": 1,
-  "2023-10-04": 1,
-  "2023-10-05": 1,
-  "2023-10-06": 1,
-  "2023-10-07": 1,
-  "2023-10-08": 1,
-  "2023-10-09": 1,
-  "2023-10-10": 1,
-  "2023-10-11": 1,
-  "2023-10-12": 1,
-  "2023-10-13": 1,
-  "2023-10-14": 1,
-  "2023-10-15": 1,
-  "2023-10-16": 1,
-  "2023-10-17": 1,
-  "2023-10-18": 1,
-  "2023-10-19": 1,
-  "2023-10-20": 1,
-  "2023-10-21": 1,
-  "2023-10-22": 1,
-  "2023-10-23": 1,
-  "2023-10-24": 1,
-  "2023-10-25": 1,
-  "2023-10-26": 1,
-  "2023-10-27": 1,
-  "2023-10-28": 1,
-  "2023-10-29": 1,
-  "2023-10-30": 1,
-  "2023-10-31": 1,
-  "2023-11-01": 1,
-  "2023-11-02": 1,
-  "2023-11-03": 1,
-  "2023-11-04": 1,
-  "2023-11-05": 1,
-  "2023-11-06": 1,
-  "2023-11-07": 1,
-  "2023-11-08": 1,
-  "2023-11-09": 1,
-  "2023-11-10": 1,
-  "2023-11-11": 1,
-  "2023-11-12": 1,
-  "2023-11-13": 1,
-  "2023-11-14": 1,
-  "2023-11-15": 1,
-  "2023-11-16": 1,
-  "2023-11-17": 1,
-  "2023-11-18": 1,
-  "2023-11-19": 1,
-  "2023-11-20": 1,
-  "2023-11-21": 1,
-  "2023-11-22": 1,
-  "2023-11-23": 1,
-  "2023-11-24": 1,
-  "2023-11-25": 1,
-  "2023-11-26": 1,
-  "2023-11-27": 1,
-  "2023-11-28": 1,
-  "2023-11-29": 1,
-  "2023-11-30": 1,
-  "2023-12-01": 1,
-  "2023-12-02": 1,
-  "2023-12-03": 1,
-  "2023-12-04": 1,
-  "2023-12-05": 1,
-  "2023-12-06": 1,
-  "2023-12-07": 1,
-  "2023-12-08": 1,
-  "2023-12-09": 1,
-  "2023-12-10": 1,
-  "2023-12-11": 1,
-  "2023-12-12": 1,
-  "2023-12-13": 1,
-  "2023-12-14": 1,
-  "2023-12-15": 1,
-  "2023-12-16": 1,
-  "2023-12-17": 1,
-  "2023-12-18": 1,
-  "2023-12-19": 1,
-  "2023-12-20": 1,
-  "2023-12-21": 1,
-  "2023-12-22": 1,
-  "2023-12-23": 1,
-  "2023-12-24": 1,
-  "2023-12-25": 1,
-  "2023-12-26": 1,
-  "2023-12-27": 1,
-  "2023-12-30": 1,
-  "2023-12-31": 1,
-  "2024-01-01": 1,
-  "2024-01-02": 1,
-  "2024-01-03": 1
+  "2024-01-17": 1,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "Mental illness: a lifestyle ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Go Farther In Lightness",
+        "url": "https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab"
+      },
+      "artists": [
+        {
+          "name": "Gang of Youths",
+          "url": "https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422146,
+      "name": "Achilles Come Down",
+      "url": "https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs"
+    },
+    {
+      "album": {
+        "name": "Heretic Pride",
+        "url": "https://open.spotify.com/album/6MUZjh882oNqHYbVhDpTTy"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Autoclave",
+      "url": "https://open.spotify.com/track/3Dih4FAgCtXoolsJVTBwC6"
+    },
+    {
+      "album": {
+        "name": "Better in the Morning",
+        "url": "https://open.spotify.com/album/192l8IAm2wYfwxsbt58WOO"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Better in the Morning",
+      "url": "https://open.spotify.com/track/4iZDK4OvoQSZGeTmkxM4GH"
+    },
+    {
+      "album": {
+        "name": "I'm Afraid I'm Not Angry",
+        "url": "https://open.spotify.com/album/6v1cqU0UMIhDGzhIN5BQcC"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248045,
+      "name": "Call In The Morning",
+      "url": "https://open.spotify.com/track/75sKkAB6RLm1qP4HXT1eqQ"
+    },
+    {
+      "album": {
+        "name": "Come On Up To The House",
+        "url": "https://open.spotify.com/album/15IupTy7QxRWm292YZFcDk"
+      },
+      "artists": [
+        {
+          "name": "JOSEPH",
+          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240927,
+      "name": "Come On Up To The House",
+      "url": "https://open.spotify.com/track/6WncpOTO3hcLUoi0qCzeKd"
+    },
+    {
+      "album": {
+        "name": "The Sticks",
+        "url": "https://open.spotify.com/album/11uxxaV9tzojjq1UCd23w6"
+      },
+      "artists": [
+        {
+          "name": "Mother Mother",
+          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151506,
+      "name": "Dread In My Heart",
+      "url": "https://open.spotify.com/track/0waMM1eY9MnO6I35XOmhHV"
+    },
+    {
+      "album": {
+        "name": "Songs from The Golden One",
+        "url": "https://open.spotify.com/album/3RzbLjcGj06htrb08Wf9py"
+      },
+      "artists": [
+        {
+          "name": "Whitmer Thomas",
+          "url": "https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222840,
+      "name": "Hurts to Be Alive",
+      "url": "https://open.spotify.com/track/4ymUJhziZLrUZJ2uQVL6kf"
+    },
+    {
+      "album": {
+        "name": "Conor Oberst",
+        "url": "https://open.spotify.com/album/4EFkiDiipLkTPtUkmXrtrk"
+      },
+      "artists": [
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212520,
+      "name": "I Don't Want To Die (In The Hospital)",
+      "url": "https://open.spotify.com/track/79efCZL0Bpc0b48YYAtYLC"
+    },
+    {
+      "album": {
+        "name": "i wish to sleep but not wake",
+        "url": "https://open.spotify.com/album/6XqQYqQobRA5fBotfAQWBJ"
+      },
+      "artists": [
+        {
+          "name": "Ezra Bell",
+          "url": "https://open.spotify.com/artist/1nGqKVGfPPiVgxMdx8hYOI"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195157,
+      "name": "i wish to sleep but not wake",
+      "url": "https://open.spotify.com/track/1s6Y7suUP485P5iEFxK2GB"
+    },
+    {
+      "album": {
+        "name": "Soup for My Girlfriend",
+        "url": "https://open.spotify.com/album/1ds2fS4oqyWURFwmfHs3vH"
+      },
+      "artists": [
+        {
+          "name": "Crooks & Nannies",
+          "url": "https://open.spotify.com/artist/2v081HF22KJUbNXmXPKTdk"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248080,
+      "name": "Perpetual Mild Illness",
+      "url": "https://open.spotify.com/track/2fyn2C9PQyd0stf9DLjiKR"
+    },
+    {
+      "album": {
+        "name": "MOOMINVALLEY (Official Soundtrack)",
+        "url": "https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181969,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE"
+    },
+    {
+      "album": {
+        "name": "Watch Your Step",
+        "url": "https://open.spotify.com/album/3XnHTwogsnLUFhC7nZ983d"
+      },
+      "artists": [
+        {
+          "name": "Ted Hawkins",
+          "url": "https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130933,
+      "name": "Sorry You're Sick",
+      "url": "https://open.spotify.com/track/0bQfDEGIkkjrrbGkK4JLmF"
+    },
+    {
+      "album": {
+        "name": "My Cute Fiend Sweet Princess",
+        "url": "https://open.spotify.com/album/1I9BSJQJevSd54rIhL1JD5"
+      },
+      "artists": [
+        {
+          "name": "Kimya Dawson",
+          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191533,
+      "name": "The Beer",
+      "url": "https://open.spotify.com/track/18nZKLSzod0avci3LDix4E"
+    },
+    {
+      "album": {
+        "name": "The Execution Of All Things",
+        "url": "https://open.spotify.com/album/1aFyAtSRxLNzSTGwHMRvWj"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271800,
+      "name": "The Good That Won't Come Out",
+      "url": "https://open.spotify.com/track/3Fuf9vd6hlIkXBgwotuVWS"
+    },
+    {
+      "album": {
+        "name": "The Sunset Tree",
+        "url": "https://open.spotify.com/album/0Cug9j2T7MHK4k8hUEGQ43"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232893,
+      "name": "This Year",
+      "url": "https://open.spotify.com/track/2M1Qc1mGSI1IYtmJzQtfPq"
+    },
+    {
+      "album": {
+        "name": "Thunder Thighs",
+        "url": "https://open.spotify.com/album/7xlsy9b5oxex0Lru8ZxLFE"
+      },
+      "artists": [
+        {
+          "name": "Kimya Dawson",
+          "url": "https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz"
+        },
+        {
+          "name": "Aesop Rock",
+          "url": "https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ"
+        },
+        {
+          "name": "John Darnielle",
+          "url": "https://open.spotify.com/artist/5LuRao2ppqg5wDkm0UKA7O"
+        },
+        {
+          "name": "Nikolai Fraiture",
+          "url": "https://open.spotify.com/artist/16trnnOrvbSWfQfIEQlwQJ"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 634066,
+      "name": "Walk Like Thunder",
+      "url": "https://open.spotify.com/track/0RbhOb9xN798aLfjtGztv7"
+    },
+    {
+      "album": {
+        "name": "Gliss Riffer",
+        "url": "https://open.spotify.com/album/7c0DRALsdT9K7FLQBTR9PS"
+      },
+      "artists": [
+        {
+          "name": "Dan Deacon",
+          "url": "https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258959,
+      "name": "When I Was Done Dying",
+      "url": "https://open.spotify.com/track/69L4d5HlE0YOCwWFYVFGoW"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/3CJraOvYJrnOIkpe86YJDR"
 }

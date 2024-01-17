@@ -1,178 +1,1443 @@
 {
-  "2023-07-10": 68862,
-  "2023-07-11": 68874,
-  "2023-07-12": 68897,
-  "2023-07-13": 68915,
-  "2023-07-14": 68930,
-  "2023-07-15": 68935,
-  "2023-07-16": 68954,
-  "2023-07-17": 68968,
-  "2023-07-18": 68986,
-  "2023-07-19": 68996,
-  "2023-07-20": 69010,
-  "2023-07-21": 69028,
-  "2023-07-22": 69042,
-  "2023-07-23": 69056,
-  "2023-07-24": 69088,
-  "2023-07-25": 69102,
-  "2023-07-26": 69118,
-  "2023-07-27": 69142,
-  "2023-07-28": 69172,
-  "2023-07-29": 69187,
-  "2023-07-30": 69193,
-  "2023-07-31": 69203,
-  "2023-08-01": 69211,
-  "2023-08-02": 69230,
-  "2023-08-03": 69243,
-  "2023-08-04": 69256,
-  "2023-08-05": 69264,
-  "2023-08-06": 69291,
-  "2023-08-07": 69291,
-  "2023-08-08": 69312,
-  "2023-08-09": 69330,
-  "2023-08-10": 69351,
-  "2023-08-11": 69370,
-  "2023-08-12": 69390,
-  "2023-08-13": 69390,
-  "2023-08-14": 69413,
-  "2023-08-15": 69446,
-  "2023-08-16": 69446,
-  "2023-08-17": 69469,
-  "2023-08-18": 69489,
-  "2023-08-19": 69508,
-  "2023-08-20": 69514,
-  "2023-08-21": 69537,
-  "2023-08-22": 69559,
-  "2023-08-23": 69586,
-  "2023-08-24": 69605,
-  "2023-08-25": 69620,
-  "2023-08-26": 69631,
-  "2023-08-27": 69651,
-  "2023-08-28": 69676,
-  "2023-08-29": 69696,
-  "2023-08-30": 69696,
-  "2023-08-31": 69725,
-  "2023-09-01": 69773,
-  "2023-09-02": 69773,
-  "2023-09-03": 69789,
-  "2023-09-04": 69789,
-  "2023-09-05": 69822,
-  "2023-09-06": 69833,
-  "2023-09-07": 69833,
-  "2023-09-08": 69833,
-  "2023-09-09": 69833,
-  "2023-09-10": 69890,
-  "2023-09-11": 69899,
-  "2023-09-12": 69899,
-  "2023-09-13": 69937,
-  "2023-09-14": 69937,
-  "2023-09-15": 69980,
-  "2023-09-16": 69995,
-  "2023-09-17": 69995,
-  "2023-09-18": 69995,
-  "2023-09-19": 70042,
-  "2023-09-20": 70057,
-  "2023-09-21": 70057,
-  "2023-09-22": 70080,
-  "2023-09-23": 70080,
-  "2023-09-24": 70080,
-  "2023-09-25": 70080,
-  "2023-09-26": 70145,
-  "2023-09-27": 70145,
-  "2023-09-28": 70145,
-  "2023-09-29": 70145,
-  "2023-09-30": 70145,
-  "2023-10-01": 70145,
-  "2023-10-02": 70212,
-  "2023-10-03": 70212,
-  "2023-10-04": 70212,
-  "2023-10-05": 70231,
-  "2023-10-06": 70238,
-  "2023-10-07": 70238,
-  "2023-10-08": 70238,
-  "2023-10-09": 70238,
-  "2023-10-10": 70238,
-  "2023-10-11": 70172,
-  "2023-10-12": 70172,
-  "2023-10-13": 70041,
-  "2023-10-14": 70041,
-  "2023-10-15": 70041,
-  "2023-10-16": 70041,
-  "2023-10-17": 70041,
-  "2023-10-18": 70041,
-  "2023-10-19": 70041,
-  "2023-10-20": 70041,
-  "2023-10-21": 70041,
-  "2023-10-22": 70041,
-  "2023-10-23": 70041,
-  "2023-10-24": 70041,
-  "2023-10-25": 70041,
-  "2023-10-26": 70041,
-  "2023-10-27": 70041,
-  "2023-10-28": 70041,
-  "2023-10-29": 70041,
-  "2023-10-30": 70041,
-  "2023-10-31": 70041,
-  "2023-11-01": 70041,
-  "2023-11-02": 70041,
-  "2023-11-03": 70041,
-  "2023-11-04": 70041,
-  "2023-11-05": 70041,
-  "2023-11-06": 70041,
-  "2023-11-07": 70041,
-  "2023-11-08": 70041,
-  "2023-11-09": 70041,
-  "2023-11-10": 70041,
-  "2023-11-11": 70612,
-  "2023-11-12": 70612,
-  "2023-11-13": 70612,
-  "2023-11-14": 70612,
-  "2023-11-15": 70612,
-  "2023-11-16": 70612,
-  "2023-11-17": 70612,
-  "2023-11-18": 70612,
-  "2023-11-19": 70612,
-  "2023-11-20": 70612,
-  "2023-11-21": 70612,
-  "2023-11-22": 70612,
-  "2023-11-23": 70612,
-  "2023-11-24": 70612,
-  "2023-11-25": 70612,
-  "2023-11-26": 70612,
-  "2023-11-27": 70612,
-  "2023-11-28": 70612,
-  "2023-11-29": 70612,
-  "2023-11-30": 70612,
-  "2023-12-01": 70612,
-  "2023-12-02": 70612,
-  "2023-12-03": 70612,
-  "2023-12-04": 70612,
-  "2023-12-05": 70612,
-  "2023-12-06": 70612,
-  "2023-12-07": 70612,
-  "2023-12-08": 70612,
-  "2023-12-09": 70612,
-  "2023-12-10": 70612,
-  "2023-12-11": 70612,
-  "2023-12-12": 70612,
-  "2023-12-13": 70612,
-  "2023-12-14": 71044,
-  "2023-12-15": 71056,
-  "2023-12-16": 71071,
-  "2023-12-17": 71081,
-  "2023-12-18": 71095,
-  "2023-12-19": 71109,
-  "2023-12-20": 71117,
-  "2023-12-21": 71126,
-  "2023-12-22": 71132,
-  "2023-12-23": 71147,
-  "2023-12-24": 71161,
-  "2023-12-25": 71167,
-  "2023-12-26": 71170,
-  "2023-12-27": 71175,
-  "2023-12-30": 71222,
-  "2023-12-31": 71229,
-  "2024-01-01": 71238,
-  "2024-01-02": 71250,
-  "2024-01-03": 71262
+  "2024-01-17": 70864,
+  "date_first_scraped": "2023-07-10",
+  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
+  "name": "This Is Fernanda Brum",
+  "tracks": [
+    {
+      "album": {
+        "name": "A F\u00e9",
+        "url": "https://open.spotify.com/album/7mHPBFcGtHMW3O2MvSDDHW"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Lopes",
+          "url": "https://open.spotify.com/artist/2w3GMLgGsm8mJyVWdWwrKb"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 258437,
+      "name": "A Samaritana",
+      "url": "https://open.spotify.com/track/6qxBdvvCDU3mdBcxrMujkq"
+    },
+    {
+      "album": {
+        "name": "Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/5CUs5dQYJ3TpPBWVuvh5vZ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279289,
+      "name": "A Tua Gl\u00f3ria Faz",
+      "url": "https://open.spotify.com/track/0XwvAADxjroSuGZa8G2riw"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305342,
+      "name": "Adorai, Adonai",
+      "url": "https://open.spotify.com/track/5oHXT1Q1gqtfxnbyjjGITZ"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228948,
+      "name": "Algu\u00e9m",
+      "url": "https://open.spotify.com/track/5ENo74QS0V473XYwZAXt91"
+    },
+    {
+      "album": {
+        "name": "Rastros de Amor (ao Vivo)",
+        "url": "https://open.spotify.com/album/1V7TNa8BKB71Bh07oIeEzF"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3stenes Mendes",
+          "url": "https://open.spotify.com/artist/5py5BssQzmRfIo2CBA0dbb"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262053,
+      "name": "Alto Pre\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0hBqI20YJBtrQvAUUh3CMI"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234103,
+      "name": "Amo o Senhor",
+      "url": "https://open.spotify.com/track/1wGL1n0b3tqhLvzN0A5y1m"
+    },
+    {
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212137,
+      "name": "Aos Teus P\u00e9s",
+      "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
+    },
+    {
+      "album": {
+        "name": "Apenas Um Toque",
+        "url": "https://open.spotify.com/album/2pComoIWGKFuSPQU6I3iuD"
+      },
+      "artists": [
+        {
+          "name": "Delino Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/0MGbmpBm2Gzvy6ENd9D1qv"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305621,
+      "name": "Apenas Um Toque",
+      "url": "https://open.spotify.com/track/6vyBGkgcPlt6ztpCNxoWpS"
+    },
+    {
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420234,
+      "name": "Apenas um Toque",
+      "url": "https://open.spotify.com/track/0edfc3t992Gzwlpk4AFGKY"
+    },
+    {
+      "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245481,
+      "name": "Cacos Pelo Ch\u00e3o",
+      "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273670,
+      "name": "Como Se Cura a Ferida",
+      "url": "https://open.spotify.com/track/1MGocqM5nUccHth3CL3y79"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263082,
+      "name": "Cora\u00e7\u00e3o que Sangra",
+      "url": "https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310590,
+      "name": "Cura-me",
+      "url": "https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto"
+    },
+    {
+      "album": {
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
+    },
+    {
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259227,
+      "name": "Deus Est\u00e1 me Construindo",
+      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
+    },
+    {
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268422,
+      "name": "Ef\u00e9sios",
+      "url": "https://open.spotify.com/track/2IT4tSAPF4eNQLvHh70YeT"
+    },
+    {
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 279986,
+      "name": "Ele Escolheu os Cravos",
+      "url": "https://open.spotify.com/track/56cCCbRpp3X4X6YrD0Edim"
+    },
+    {
+      "album": {
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
+    },
+    {
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401333,
+      "name": "Em tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4CLyiUczxtE9eHVwpZPIIR"
+    },
+    {
+      "album": {
+        "name": "Do \u00c9den ao \u00c9den",
+        "url": "https://open.spotify.com/album/1fN1vWWQULxQSivpEJQE4X"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 275590,
+      "name": "Escreve",
+      "url": "https://open.spotify.com/track/3UBNyYE56SDaVpvGZnq7iu"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259691,
+      "name": "Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/4qO3WITv7447OvVUAdJjzM"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/5WSufwHXuerKqxUiLZQ5To"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368666,
+      "name": "Eu Vou Abrir o Meu Corac\u0327a\u0303o - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6007JEFykqjFKhrRddZPDk"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268035,
+      "name": "Fazendo o Imposs\u00edvel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IhFmvBx9bOynhtLCEOjVA"
+    },
+    {
+      "album": {
+        "name": "Feliz De Vez",
+        "url": "https://open.spotify.com/album/1zSWKGWQ3VUPP76F6Ya8RO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279475,
+      "name": "Feliz De Vez",
+      "url": "https://open.spotify.com/track/3DrIFTV0EvCGiI4vH38lHm"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 377238,
+      "name": "Fonte Inesgot\u00e1vel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2m0n1K1xijm4QGAdGjfYRg"
+    },
+    {
+      "album": {
+        "name": "Rastros de Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3KbgZ0JFK8dILy3jaZripS"
+      },
+      "artists": [
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Paulo Figueir\u00f3",
+          "url": "https://open.spotify.com/artist/78jkf2tGpyXw7OSnCrIFPz"
+        },
+        {
+          "name": "L\u00edgia Rosana Borba",
+          "url": "https://open.spotify.com/artist/1ehwaCFeyMExOtwC2kjs2F"
+        },
+        {
+          "name": "Christie Trist\u00e3o",
+          "url": "https://open.spotify.com/artist/1UgwkRPC9yEFAtd6bKme5P"
+        },
+        {
+          "name": "Massao Sughihara",
+          "url": "https://open.spotify.com/artist/4WFSZj3tmRuxnh1PxZha4c"
+        },
+        {
+          "name": "Alda C\u00e9lia",
+          "url": "https://open.spotify.com/artist/6UTqT9xxXAPjmyfNHDuNdv"
+        },
+        {
+          "name": "Carm\u00e9lia Tonin",
+          "url": "https://open.spotify.com/artist/1D395OIHUKfTf3PUjwqzN9"
+        },
+        {
+          "name": "DANIEL DE SOUZA",
+          "url": "https://open.spotify.com/artist/1uHg6TlW57YOJQS04ffj7e"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Gerson Ortega",
+          "url": "https://open.spotify.com/artist/6HY61ZWvyi9VDNTvB6ydTo"
+        },
+        {
+          "name": "Adhemar De Campos",
+          "url": "https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP"
+        },
+        {
+          "name": "Andr\u00e9 Borba",
+          "url": "https://open.spotify.com/artist/6EtZBYi9o5tLMHcYCUBC05"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "S\u00f3st",
+          "url": "https://open.spotify.com/artist/3sDHlT1fgAbyE3GmknrDGZ"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250666,
+      "name": "H\u00e1 Muito Mais - Ao Vivo",
+      "url": "https://open.spotify.com/track/6W4iAMbZCXSG4ixmZG1A5b"
+    },
+    {
+      "album": {
+        "name": "Imagine (Ao Vivo)",
+        "url": "https://open.spotify.com/album/70BXXPNfNXGXBT7P2vjh17"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275604,
+      "name": "Imagine (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7i3FmPXzZ09XKSECqPSDLi"
+    },
+    {
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416194,
+      "name": "Jesus, Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266332,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/5q2t4YnLSh9KkNvEGxL2Dm"
+    },
+    {
+      "album": {
+        "name": "Corinhos Inesquec\u00edveis I",
+        "url": "https://open.spotify.com/album/0x9i9AWCUPTsMOpiRONmai"
+      },
+      "artists": [
+        {
+          "name": "Banda & Voz",
+          "url": "https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 274831,
+      "name": "Medley - Caiam Por Terra / Vem Com Josu\u00e9 / Posso Pisar Uma Tropa",
+      "url": "https://open.spotify.com/track/3hH9dgOeGkTp8xgy4JKan7"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+    },
+    {
+      "album": {
+        "name": "Meu Bem Maior",
+        "url": "https://open.spotify.com/album/2WdRhfIIk9y1EbZm0TO3ae"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217849,
+      "name": "Meu Bem Maior",
+      "url": "https://open.spotify.com/track/2L45wEZfgukdZIixbyZVA4"
+    },
+    {
+      "album": {
+        "name": "Cura-me",
+        "url": "https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3"
+      },
+      "artists": [
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324522,
+      "name": "N\u00e3o \u00e9 Tarde",
+      "url": "https://open.spotify.com/track/1FrncXJGmRTpAGksXoR9k8"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256255,
+      "name": "O Amor Que Cura",
+      "url": "https://open.spotify.com/track/27kYyisy1Or7SFxUdyWZIL"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 241906,
+      "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ"
+    },
+    {
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399243,
+      "name": "O Que Sua Gl\u00f3ria Fez Comigo",
+      "url": "https://open.spotify.com/track/0Y9nHU2Fhl76LHbRRmNQ6X"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0Y4f9yXZuldhcASt6p6HCm"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416842,
+      "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
+      "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
+    },
+    {
+      "album": {
+        "name": "Orai Por Todas As Crian\u00e7as",
+        "url": "https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293440,
+      "name": "Orai Por Todas As Crian\u00e7as",
+      "url": "https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 475307,
+      "name": "Ouve, Oh Israel (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0XCoSegs9Ska1Rn8JilbTo"
+    },
+    {
+      "album": {
+        "name": "Ou\u00e7o Deus Me Chamar",
+        "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Marcos Freire",
+          "url": "https://open.spotify.com/artist/1WhgPbb1dZTZWicZlNbB7g"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Ou\u00e7o Deus Me Chamar",
+      "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Thyago Fersil",
+          "url": "https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        },
+        {
+          "name": "Cleyde Jane",
+          "url": "https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T"
+        },
+        {
+          "name": "Marquinhos Menezes",
+          "url": "https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2"
+        },
+        {
+          "name": "Lilian Azevedo",
+          "url": "https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N"
+        },
+        {
+          "name": "Cristina Mel",
+          "url": "https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Emerson Pinheiro",
+          "url": "https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376720,
+      "name": "Pastor",
+      "url": "https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv"
+    },
+    {
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Liz Lanne",
+          "url": "https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373385,
+      "name": "Pelo Fogo",
+      "url": "https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM"
+    },
+    {
+      "album": {
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267633,
+      "name": "Peniel",
+      "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
+    },
+    {
+      "album": {
+        "name": "Amar e Perdoar",
+        "url": "https://open.spotify.com/album/3Z1fceQgyz4oMxnOrPRooJ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-21",
+      "duration_ms": 230310,
+      "name": "Por N\u00f3s",
+      "url": "https://open.spotify.com/track/2BSlxEYxjBdTefmzs5COfA"
+    },
+    {
+      "album": {
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/76HKXyRoHi007rh7EISKFl"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Ana N\u00f3brega",
+          "url": "https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU"
+        },
+        {
+          "name": "Andr\u00e9 Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq"
+        },
+        {
+          "name": "Asaph Borba",
+          "url": "https://open.spotify.com/artist/0D4H0xcs0vYHATdW3z93PU"
+        },
+        {
+          "name": "Brun\u00e3o Morada",
+          "url": "https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Gabi Sampaio",
+          "url": "https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ"
+        },
+        {
+          "name": "Gabriel Barreto",
+          "url": "https://open.spotify.com/artist/06ii0QUGCLVALU7jqPB1K1"
+        },
+        {
+          "name": "Helena Tannure",
+          "url": "https://open.spotify.com/artist/7yilUzReOHGdRaqypuG7f5"
+        },
+        {
+          "name": "Isaque Valad\u00e3o Bessa",
+          "url": "https://open.spotify.com/artist/054LTzkZ6sYAjYVmvYgyn9"
+        },
+        {
+          "name": "Israel Salazar",
+          "url": "https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC"
+        },
+        {
+          "name": "Jo\u00e3o L\u00facio Tannure",
+          "url": "https://open.spotify.com/artist/30TJO7wBIMmfnGdC0bIfSe"
+        },
+        {
+          "name": "Lu Alone",
+          "url": "https://open.spotify.com/artist/352auYzmQ8KYsRjM2bFD8U"
+        },
+        {
+          "name": "Mariana Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/4ABs1DvG7IqLjBpYvOQedm"
+        },
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        },
+        {
+          "name": "Nena Lacerda",
+          "url": "https://open.spotify.com/artist/6UHyiSKriWWiIldzzXmnBW"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384876,
+      "name": "Preciso de Ti - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bYTEQ6PyFCJTq3FcohJYQ"
+    },
+    {
+      "album": {
+        "name": "Apenas um Toque",
+        "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289041,
+      "name": "Puro Nardo",
+      "url": "https://open.spotify.com/track/7LHGwdC5OJpb4v8nO0ie73"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202663,
+      "name": "Quebrantado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0DUJZXdp0XGbRafeTKA3TJ"
+    },
+    {
+      "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301255,
+      "name": "Rasgando o Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5zZwoproPHsIgob7Qco75l"
+    },
+    {
+      "album": {
+        "name": "Romanos 8:26 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
+    },
+    {
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290249,
+      "name": "Suas Digitais",
+      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
+    },
+    {
+      "album": {
+        "name": "Fernanda Brum - Falando de Amor",
+        "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263639,
+      "name": "Te Amaria Outra Vez",
+      "url": "https://open.spotify.com/track/4ZkGjVqwuUurX1BD89CJFh"
+    },
+    {
+      "album": {
+        "name": "Entre",
+        "url": "https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
+      "duration_ms": 304813,
+      "name": "Te Amo Tanto (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/1dZmUPNuSob99F8hLnwCfb"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Pedro Henrique",
+          "url": "https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231230,
+      "name": "Toca-me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Deluxe)",
+        "url": "https://open.spotify.com/album/2g5xYfM6zkLWBhWn4C44dN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 313124,
+      "name": "Tu \u00c9s Deus",
+      "url": "https://open.spotify.com/track/00OmdEHRlkPyUr50noD3bA"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 420500,
+      "name": "Tu \u00c9s Deus (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6zrBTyHijYBU6xcem6hd8X"
+    },
+    {
+      "album": {
+        "name": "Marina de Oliveira - Gospel Collection Ao Vivo",
+        "url": "https://open.spotify.com/album/4PcFH8X4A19i8WMtkT967n"
+      },
+      "artists": [
+        {
+          "name": "Marina De Oliveira",
+          "url": "https://open.spotify.com/artist/2Nj5eY05IUPK0AZKBzR9xB"
+        },
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        },
+        {
+          "name": "Alex Gonzaga",
+          "url": "https://open.spotify.com/artist/7uGIP1PFDEHgHsmO2kWJEd"
+        },
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Jozyanne",
+          "url": "https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh"
+        },
+        {
+          "name": "Brother Simion",
+          "url": "https://open.spotify.com/artist/1pEaPL16IqfzG8ze1Xp3gZ"
+        },
+        {
+          "name": "Marquinhos Gomes",
+          "url": "https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Banda & Voz",
+          "url": "https://open.spotify.com/artist/4NAh7PnUxqDfRCM2DfQg5E"
+        },
+        {
+          "name": "Ellas",
+          "url": "https://open.spotify.com/artist/7dF8hILhALje8j53j84hDm"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Rayssa e Ravel",
+          "url": "https://open.spotify.com/artist/0P2j58zAS5AS4k8FUDatnT"
+        },
+        {
+          "name": "Raquel Mello",
+          "url": "https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Kleber Lucas",
+          "url": "https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182508,
+      "name": "Unidos Pelo Amor",
+      "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
+    },
+    {
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
+    },
+    {
+      "album": {
+        "name": "Paix\u00e3o de Cristo - O Musical",
+        "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193004,
+      "name": "Vinho e P\u00e3o",
+      "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
+    },
+    {
+      "album": {
+        "name": "Onde o Fogo N\u00e3o Apaga (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366461,
+      "name": "Yeshua (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n"
+    },
+    {
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/798ewTqgND9GVg541W8w41"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2023-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334506,
+      "name": "\u00c9s Real Pra Mim",
+      "url": "https://open.spotify.com/track/1lkGggSQYb4s6JKDuR9xfm"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi"
 }

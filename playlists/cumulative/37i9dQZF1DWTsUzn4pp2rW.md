@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-294 songs - 19 hr 0 min
+295 songs - 19 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2022-10-13 | 2022-11-30 |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2021-11-19 |  |
 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 | 2021-11-19 |  |
+| [Fly Again](https://open.spotify.com/track/2Cm6dZn5E2iTe0HpkJjfM4) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/1eGL7G4KSKQflLp3Ca8xSK) | 3:21 | 2023-12-20 |  |
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 | 2023-12-14 |
 | [Follow](https://open.spotify.com/track/17BdO3lx1ovJHyELPJxIYa) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/0qcy7sm9UaA9qKFSOHVlvD) | 3:52 | 2022-07-14 |  |
 | [Follow](https://open.spotify.com/track/54klJfQfIJY2CrU1VOJHxk) | [Ragnar H](https://open.spotify.com/artist/7cU7WCvR7gGHnxaNx7unOT) | [Follow](https://open.spotify.com/album/2wPswblTpxjufCoGGyilYs) | 3:52 | 2021-11-19 | 2022-07-29 |
@@ -106,7 +107,7 @@
 | [Gran Torino](https://open.spotify.com/track/34LFbjLKIgASznt0EJ9jFX) | [Kyle Eastwood](https://open.spotify.com/artist/2QUGNfaOw1iDPrXbECsd4I), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Gran Torino](https://open.spotify.com/album/2mcBexma2TuSeJkWPZDSzo) | 4:36 | 2021-11-19 | 2022-07-29 |
 | [H I M](https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf) | [Louis Amanti](https://open.spotify.com/artist/00qkKppMjnPRz16SLZekPu) | [H I M](https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi) | 3:40 | 2021-11-19 |  |
 | [Hallelujah](https://open.spotify.com/track/3Fn1AoG7bIcMKPKy30KtKD) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 6:20 | 2022-10-13 | 2023-05-06 |
-| [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 | 2021-11-19 |  |
+| [Heaven's King](https://open.spotify.com/track/1GGuMQPqHVoalqP8uMHRmX) | [Imprint Worship](https://open.spotify.com/artist/2160ezPQKriZfU5FrHrJdV) | [Heaven's King](https://open.spotify.com/album/5XY9ss7WjGTbJ4ZgtzmReQ) | 3:35 | 2021-11-19 | 2024-01-14 |
 | [Help Me Make It Through the Night \(feat\. Loren Allred\)](https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [love \(Deluxe Edition\)](https://open.spotify.com/album/68xKnVblFsSQ48CtgZT0oY) | 3:42 | 2021-11-19 |  |
 | [Here It Is](https://open.spotify.com/track/0MJpdShAMrg3fpW83THGyC) | [Here It Is](https://open.spotify.com/artist/1QtALu1sicFWJUIkm4fABw), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Here It Is: A Tribute to Leonard Cohen](https://open.spotify.com/album/7dcCXRBgb3p86KCg4ZUTff) | 5:12 | 2022-10-13 | 2023-05-06 |
 | [Here We Go Again / Fanboi](https://open.spotify.com/track/1sUcuZMuz5Kn5rATfzL77v) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [Craziest thing happened in my backyard](https://open.spotify.com/album/2jmWbG3qOhAutjzQnr47K6) | 3:12 | 2021-11-19 | 2023-12-15 |

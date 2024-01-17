@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: El Clooy
 
-99 songs - 5 hr 21 min
+100 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Los Negritos II](https://open.spotify.com/track/26NyY7vQeWoP4wtVoEB9u1) | [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Oliver Outc](https://open.spotify.com/artist/4ZK8wO3w5bwhtX0XtUjgWw) | [Los Negritos II](https://open.spotify.com/album/1B1jKCRab5fXBJlZPwgWGQ) | 2:09 | 2023-02-10 | 2023-03-25 |
 | [Ma' G](https://open.spotify.com/track/4iFSDLdPrWIaYo2VQeCv4f) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Ma' G](https://open.spotify.com/album/4jSlgVZD4bbTuxOYrXTPWe) | 3:46 | 2021-10-15 |  |
 | [Macaroni](https://open.spotify.com/track/1fvectJae9RagHJqiOHNrl) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Macaroni](https://open.spotify.com/album/4p33iikBxMotuZjXAzRAla) | 2:48 | 2021-10-15 | 2022-08-20 |
+| [Makin Noi](https://open.spotify.com/track/1hIHfZuUxL9cqUAat01bQm) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [suei](https://open.spotify.com/artist/6jEjSPxnwsibG6vPOjkeER) | [Makin Noi](https://open.spotify.com/album/5Osdpx6HZWNnE8l5MjCwQs) | 2:42 | 2024-01-12 |  |
 | [Me Dejé Llevar](https://open.spotify.com/track/3Mc2Y3qgBL5WsQWjch3VVK) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Me Dejé Llevar](https://open.spotify.com/album/6xXpnfndZYsh8F5Tvtus5e) | 2:24 | 2022-01-28 |  |
 | [Mil Curitas](https://open.spotify.com/track/4VNLSG0SHlSrFPvBiFA9ks) | [Andrekza](https://open.spotify.com/artist/7K2ZrWY8iteGlM7G4V9B0s) | [Cassette](https://open.spotify.com/album/2lTCkJLh11fjo87tpgm8GQ) | 2:16 | 2022-04-08 | 2022-09-03 |
 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 | 2021-10-15 | 2023-12-14 |
@@ -76,7 +77,7 @@
 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-10-15 |  |
 | [No Sé](https://open.spotify.com/track/3cDTaeeL4b7zSVYXbSoSpS) | [Stailmic](https://open.spotify.com/artist/3JvGIegytK234itXw0xaOY) | [No Sé](https://open.spotify.com/album/7tR03q8Trq7V0i3mYKnZ2j) | 4:05 | 2021-10-15 | 2022-04-09 |
 | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/track/2uCUEMPaiBg3mOBzP0ygId) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Pipo Martinez](https://open.spotify.com/artist/3NBtvR4R4OWimH7bzLOvYB) | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/album/4Js4KZ1XTWxnxM1yi38poT) | 3:15 | 2022-04-08 | 2023-11-18 |
-| [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 |  |
+| [P0rn0 Gr@t1$](https://open.spotify.com/track/6T4P9BZoObMWZgkWAnxPRq) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Niña Buena](https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd) | 2:36 | 2023-12-01 | 2024-01-13 |
 | [Panamera](https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC) | [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O), [Zuco OMG](https://open.spotify.com/artist/2AsK0GD1xFCS4L3lv8im4w) | [Panamera](https://open.spotify.com/album/4CZrPqu9r8VFm5RA6M4v5v) | 3:15 | 2021-10-15 |  |
 | [Party Trippy \(feat\. Totoy El Frio\)](https://open.spotify.com/track/1UP8LOk66LufjRtBBEZtGL) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Party Trippy \(feat\. Totoy El Frio\)](https://open.spotify.com/album/75BqSoSbTrDofWH3MIKgXN) | 3:21 | 2022-09-02 | 2023-11-11 |
 | [Patrón](https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 5:30 | 2022-04-08 |  |

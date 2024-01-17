@@ -4,7 +4,7 @@
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-269 songs - 16 hr 1 min
+272 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Captivated](https://open.spotify.com/track/4215JgBYhwg7jUtfL4Nzkc) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Captivated](https://open.spotify.com/album/6cFedsjaaJ4Lx6D8g907YE) | 4:02 | 2021-10-19 | 2022-07-25 |
 | [catching 22](https://open.spotify.com/track/2ZHm3kf3DQEqVb3vQ2Vu5k) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [catching 22](https://open.spotify.com/album/1qSKceR9xzJkmUqqnbxCyG) | 3:21 | 2021-03-19 | 2022-07-29 |
 | [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2023-01-11 |  |
-| [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 | 2022-04-29 |  |
+| [Change Your Mind](https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0) | 3:08 | 2022-04-29 | 2024-01-15 |
 | [Change Your Mind](https://open.spotify.com/track/7n5Urh7w9AWfBxeAKoSet2) | [Oceanic](https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J) | [Change Your Mind](https://open.spotify.com/album/4g38GYff47lUG4muuQ8u2f) | 3:08 | 2021-01-19 | 2022-07-29 |
 | [Chemicals](https://open.spotify.com/track/4xnaRQjBsHrJY5hmxBlMel) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Chemicals](https://open.spotify.com/album/2rKMATGYJneoAvdd6ZJrIB) | 4:14 | 2020-11-04\* |  |
 | [cherry blossom](https://open.spotify.com/track/44xUqPXksQ2MNtuF2AuRBN) | [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [cherry blossom](https://open.spotify.com/album/4iwQeZpCPNI3TNfhrYmk8U) | 2:20 | 2020-12-11 | 2022-07-29 |
@@ -203,7 +203,7 @@
 | [Right Here Right Now](https://open.spotify.com/track/0isjCoV7jZ3lx6Vuo2Slnu) | [Ben Kessler](https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo) | [Right Here Right Now](https://open.spotify.com/album/7ejhAdGh6Mae7IuZLSKlel) | 3:03 | 2020-11-04\* | 2021-10-20 |
 | [River's Song](https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g) | [Frase](https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254) | [River's Song](https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc) | 4:08 | 2021-01-23 | 2023-01-21 |
 | [Run Run \- Japanese Wallpaper Remix](https://open.spotify.com/track/2Mf0bgVGpUu3bPup06votX) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS), [Samuraii](https://open.spotify.com/artist/2yNQvjEbPVQzceNCU1L2AO), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [Run Run \(Japanese Wallpaper Remix\)](https://open.spotify.com/album/5WCEypMGHYiBofTOnEpohr) | 3:25 | 2021-01-08 | 2023-10-21 |
-| [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 | 2020-11-04\* |  |
+| [Santa Monica](https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Iridescent](https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU) | 3:22 | 2020-11-04\* | 2024-01-05 |
 | [Scarlett](https://open.spotify.com/track/5UqTWnG7YZAbj1SYMvnGsU) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Can You Afford To Lose Me?](https://open.spotify.com/album/17XDDX3RYaIu56inOJzAWO) | 3:16 | 2022-04-29 |  |
 | [Scarlett](https://open.spotify.com/track/61HHWViQkXFwVRYAFWmqhk) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Scarlett](https://open.spotify.com/album/3Ib4FYFZTU0cmLZJRNUBkh) | 3:16 | 2021-10-19 | 2022-07-29 |
 | [Scarlett](https://open.spotify.com/track/6dIU41Lx5NqUncAnPOJDco) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:16 | 2022-04-29 | 2022-10-28 |
@@ -255,11 +255,14 @@
 | [Trouble to Share](https://open.spotify.com/track/2Z4TNNcJCzsEmecTUQdE2B) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/4eYcxWOrAIrbuy6bOCJvSw) | 4:00 | 2022-04-29 | 2022-11-15 |
 | [Trouble to Share](https://open.spotify.com/track/4LeOE2C8BG5mQUu0SC5YEX) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [That Was Now](https://open.spotify.com/album/1gCGFSSWkObei98ZWHVt3D) | 4:00 | 2023-01-11 |  |
 | [Trouble to Share](https://open.spotify.com/track/65lZrz3d2nPrryy7VawRai) | [Just Jack](https://open.spotify.com/artist/2KT0mSAPvd9PreXYCiVfVO) | [Trouble to Share](https://open.spotify.com/album/1RbB0Hxt0Yb0al0DSMBQJF) | 4:00 | 2020-11-06 | 2022-07-29 |
+| [Trying Not To Think About You](https://open.spotify.com/track/33tnb8bGqn3eTXxbzc3Wml) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [A Producer From Vienna](https://open.spotify.com/album/7AX7iptabwUqOi4rFekYgp) | 2:35 | 2023-01-11 |  |
 | [Trying Not To Think About You](https://open.spotify.com/track/39wvIKme8KGQVSVLq9kZi3) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Trying Not To Think About You](https://open.spotify.com/album/5i6ERkc5hrOLAK9a0MXBb1) | 2:35 | 2020-11-04\* | 2022-07-29 |
+| [Tunnels and Planes](https://open.spotify.com/track/2ymKOhF3LMfqJSeMox9Y5g) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Tunnels & Planes](https://open.spotify.com/album/2FJbfnxj4NgTOkF6O4EI9I) | 4:11 | 2023-01-11 |  |
 | [Tunnels and Planes](https://open.spotify.com/track/4yjfM171SimZyctF5W3yoX) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Tunnels and Planes](https://open.spotify.com/album/0HCzdELOpFkRXIhqmZb8bm) | 4:11 | 2020-11-04\* | 2023-12-01 |
 | [Twin Flame](https://open.spotify.com/track/2HZasNmIAzprwJjFLPoSGM) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [And In The Darkness, Hearts Aglow](https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A) | 4:22 | 2023-01-11 |  |
 | [Twisted](https://open.spotify.com/track/3PhRL0xECU41r6j8Mc5F6Z) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Fractures](https://open.spotify.com/album/6a7mIWHjfQRdaXNlZ4Wcyz) | 4:20 | 2020-11-04\* | 2021-10-20 |
 | [Two Steps](https://open.spotify.com/track/4ACWPAiIYOtETNu9QsFEaP) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/2a9OfXHzWrnWmYoXN3QPYM) | 4:02 | 2020-11-04\* | 2023-12-24 |
+| [Two Steps](https://open.spotify.com/track/6iPfkO3MvKEZcD7OnGWzFB) | [Maths Time Joy](https://open.spotify.com/artist/3w18CP1k8zFZb1GfRlPHyK), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Two Steps](https://open.spotify.com/album/7mnUY7L09wxAiEp6ERMbjI) | 4:02 | 2023-01-11 |  |
 | [Wake](https://open.spotify.com/track/3BmL6MEoKXBmbFH0IVgOLh) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/3zQq28Rtge918rsAivPP0G) | 3:09 | 2020-11-04\* | 2022-07-28 |
 | [What Fiction Is For](https://open.spotify.com/track/5etacX29P2TI1oIg3rhmB3) | [DYAN](https://open.spotify.com/artist/5oVU37Ru65xPHl7dJG7gR9) | [What Fiction Is For](https://open.spotify.com/album/52jxNlTCHOzyquz7inHbut) | 4:36 | 2020-11-04\* | 2021-10-20 |
 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 | 2020-11-04\* |  |
@@ -276,6 +279,6 @@
 | [Would You Love Me the Same](https://open.spotify.com/track/3qiiRTPb1l2PTBtxttuz0V) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [Would You Love Me the Same](https://open.spotify.com/album/3wBj93MAo01J27xJVVh5Gy) | 3:02 | 2020-11-04\* | 2022-07-29 |
 | [You Don’t Look at Me the Same](https://open.spotify.com/track/2mNFhyfs6zXClFy20XHb34) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [You Don’t Look at Me the Same](https://open.spotify.com/album/5kKlM8cwqFu70WyLJjfXKf) | 2:56 | 2021-01-19 | 2022-07-29 |
 | [Your Man](https://open.spotify.com/track/6Vgtvd7I5yopJdBuxqjBd2) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/6YKk4wlKdACRITGKmGnoIm) | 2:43 | 2020-11-04\* |  |
-| [Youth](https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU) | [Ben Khan](https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K) | [1992 EP](https://open.spotify.com/album/6NebCuedf30wTZqRTGprn2) | 3:17 | 2020-11-04\* |  |
+| [Youth](https://open.spotify.com/track/3bfZPCm4UrEEmrayPyxtbU) | [Ben Khan](https://open.spotify.com/artist/2YwPMfgNYeDjbkGI7PwZ3K) | [1992 EP](https://open.spotify.com/album/6NebCuedf30wTZqRTGprn2) | 3:17 | 2020-11-04\* | 2024-01-05 |
 
 \*This playlist was first scraped on 2020-11-04. Prior content cannot be recovered.

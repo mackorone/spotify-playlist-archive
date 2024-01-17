@@ -1,480 +1,2159 @@
 {
-  "2022-09-07": 25974,
-  "2022-09-09": 26002,
-  "2022-09-10": 26031,
-  "2022-09-11": 26052,
-  "2022-09-12": 26071,
-  "2022-09-13": 26085,
-  "2022-09-15": 26108,
-  "2022-09-16": 26123,
-  "2022-09-17": 26142,
-  "2022-09-18": 26160,
-  "2022-09-19": 26194,
-  "2022-09-20": 26207,
-  "2022-09-21": 26222,
-  "2022-09-22": 26235,
-  "2022-09-23": 26250,
-  "2022-09-24": 26303,
-  "2022-09-25": 26331,
-  "2022-09-26": 26374,
-  "2022-09-27": 26392,
-  "2022-09-28": 26414,
-  "2022-09-29": 26438,
-  "2022-09-30": 26453,
-  "2022-10-01": 26476,
-  "2022-10-02": 26504,
-  "2022-10-03": 26529,
-  "2022-10-04": 26549,
-  "2022-10-05": 26562,
-  "2022-10-06": 26585,
-  "2022-10-07": 26600,
-  "2022-10-08": 26614,
-  "2022-10-09": 26657,
-  "2022-10-10": 26666,
-  "2022-10-11": 26698,
-  "2022-10-12": 26711,
-  "2022-10-13": 26720,
-  "2022-10-14": 26739,
-  "2022-10-15": 26759,
-  "2022-10-16": 26788,
-  "2022-10-17": 26811,
-  "2022-10-18": 26824,
-  "2022-10-19": 26834,
-  "2022-10-20": 26849,
-  "2022-10-21": 26866,
-  "2022-10-22": 26883,
-  "2022-10-23": 26897,
-  "2022-10-24": 26912,
-  "2022-10-25": 26919,
-  "2022-10-26": 26939,
-  "2022-10-27": 26948,
-  "2022-10-28": 26963,
-  "2022-10-29": 26982,
-  "2022-10-30": 27004,
-  "2022-10-31": 27015,
-  "2022-11-01": 27025,
-  "2022-11-02": 27046,
-  "2022-11-03": 27060,
-  "2022-11-04": 27077,
-  "2022-11-05": 27095,
-  "2022-11-06": 27112,
-  "2022-11-07": 27133,
-  "2022-11-08": 27141,
-  "2022-11-09": 27160,
-  "2022-11-10": 27185,
-  "2022-11-11": 27199,
-  "2022-11-12": 27233,
-  "2022-11-13": 27257,
-  "2022-11-14": 27279,
-  "2022-11-15": 27299,
-  "2022-11-16": 27317,
-  "2022-11-17": 27347,
-  "2022-11-18": 27355,
-  "2022-11-19": 27351,
-  "2022-11-20": 27374,
-  "2022-11-21": 27370,
-  "2022-11-22": 27419,
-  "2022-11-23": 27414,
-  "2022-11-24": 27488,
-  "2022-11-25": 27493,
-  "2022-11-26": 27510,
-  "2022-11-27": 27528,
-  "2022-11-28": 27537,
-  "2022-11-29": 27561,
-  "2022-11-30": 27572,
-  "2022-12-01": 27588,
-  "2022-12-02": 27599,
-  "2022-12-03": 27623,
-  "2022-12-04": 27640,
-  "2022-12-05": 27658,
-  "2022-12-06": 27666,
-  "2022-12-07": 27689,
-  "2022-12-08": 27704,
-  "2022-12-09": 27715,
-  "2022-12-10": 27729,
-  "2022-12-11": 27740,
-  "2022-12-12": 27750,
-  "2022-12-13": 27769,
-  "2022-12-14": 27784,
-  "2022-12-15": 27800,
-  "2022-12-16": 27815,
-  "2022-12-17": 27832,
-  "2022-12-18": 27846,
-  "2022-12-19": 27867,
-  "2022-12-20": 27915,
-  "2022-12-21": 27915,
-  "2022-12-22": 27931,
-  "2022-12-24": 27961,
-  "2022-12-25": 27975,
-  "2022-12-26": 27986,
-  "2022-12-27": 28000,
-  "2022-12-28": 28001,
-  "2022-12-29": 28008,
-  "2022-12-30": 28025,
-  "2022-12-31": 28038,
-  "2023-01-01": 28059,
-  "2023-01-02": 28073,
-  "2023-01-03": 28096,
-  "2023-01-04": 28110,
-  "2023-01-05": 28116,
-  "2023-01-06": 28132,
-  "2023-01-07": 28153,
-  "2023-01-08": 28159,
-  "2023-01-09": 28184,
-  "2023-01-10": 28188,
-  "2023-01-11": 28204,
-  "2023-01-12": 28218,
-  "2023-01-13": 28235,
-  "2023-01-14": 28261,
-  "2023-01-15": 28269,
-  "2023-01-16": 28285,
-  "2023-01-17": 28303,
-  "2023-01-18": 28317,
-  "2023-01-19": 28322,
-  "2023-01-20": 28341,
-  "2023-01-21": 28351,
-  "2023-01-22": 28374,
-  "2023-01-23": 28404,
-  "2023-01-24": 28412,
-  "2023-01-25": 28430,
-  "2023-01-26": 28444,
-  "2023-01-27": 28459,
-  "2023-01-28": 28475,
-  "2023-01-29": 28494,
-  "2023-01-30": 28510,
-  "2023-01-31": 28510,
-  "2023-02-01": 28537,
-  "2023-02-02": 28541,
-  "2023-02-03": 28547,
-  "2023-02-04": 28557,
-  "2023-02-05": 28571,
-  "2023-02-06": 28574,
-  "2023-02-07": 28585,
-  "2023-02-08": 28605,
-  "2023-02-09": 28605,
-  "2023-02-10": 28609,
-  "2023-02-11": 28614,
-  "2023-02-12": 28637,
-  "2023-02-13": 28648,
-  "2023-02-14": 28648,
-  "2023-02-15": 28658,
-  "2023-02-16": 28660,
-  "2023-02-17": 28678,
-  "2023-02-18": 28767,
-  "2023-02-19": 28779,
-  "2023-02-20": 28813,
-  "2023-02-21": 28855,
-  "2023-02-22": 28896,
-  "2023-02-23": 28932,
-  "2023-02-24": 28963,
-  "2023-02-25": 28997,
-  "2023-02-26": 29032,
-  "2023-02-27": 29113,
-  "2023-02-28": 29113,
-  "2023-03-01": 29151,
-  "2023-03-02": 29176,
-  "2023-03-03": 29211,
-  "2023-03-04": 29251,
-  "2023-03-05": 29379,
-  "2023-03-06": 29379,
-  "2023-03-07": 29416,
-  "2023-03-08": 29463,
-  "2023-03-09": 29511,
-  "2023-03-10": 29551,
-  "2023-03-11": 29581,
-  "2023-03-12": 29621,
-  "2023-03-13": 29645,
-  "2023-03-14": 29674,
-  "2023-03-15": 29696,
-  "2023-03-16": 29736,
-  "2023-03-17": 29736,
-  "2023-03-18": 29804,
-  "2023-03-19": 29838,
-  "2023-03-20": 29863,
-  "2023-03-21": 29894,
-  "2023-03-22": 29922,
-  "2023-03-23": 29947,
-  "2023-03-24": 29947,
-  "2023-03-25": 30010,
-  "2023-03-26": 30041,
-  "2023-03-27": 30068,
-  "2023-03-28": 30103,
-  "2023-03-29": 30128,
-  "2023-03-30": 30176,
-  "2023-03-31": 30176,
-  "2023-04-01": 30202,
-  "2023-04-02": 30239,
-  "2023-04-03": 30273,
-  "2023-04-04": 30322,
-  "2023-04-05": 30352,
-  "2023-04-06": 30381,
-  "2023-04-07": 30413,
-  "2023-04-09": 30485,
-  "2023-04-10": 30524,
-  "2023-04-11": 30593,
-  "2023-04-12": 30593,
-  "2023-04-13": 30623,
-  "2023-04-14": 30659,
-  "2023-04-15": 30703,
-  "2023-04-16": 30752,
-  "2023-04-17": 30792,
-  "2023-04-18": 30824,
-  "2023-04-19": 30863,
-  "2023-04-20": 30884,
-  "2023-04-21": 30915,
-  "2023-04-22": 30963,
-  "2023-04-23": 31022,
-  "2023-04-24": 31064,
-  "2023-04-25": 31101,
-  "2023-04-26": 31130,
-  "2023-04-27": 31157,
-  "2023-04-28": 31191,
-  "2023-04-29": 31242,
-  "2023-04-30": 31287,
-  "2023-05-01": 31334,
-  "2023-05-02": 31384,
-  "2023-05-03": 31415,
-  "2023-05-04": 31454,
-  "2023-05-05": 31492,
-  "2023-05-06": 31526,
-  "2023-05-07": 31576,
-  "2023-05-08": 31625,
-  "2023-05-09": 31643,
-  "2023-05-10": 31674,
-  "2023-05-11": 31712,
-  "2023-05-12": 31758,
-  "2023-05-13": 31785,
-  "2023-05-14": 31820,
-  "2023-05-15": 31871,
-  "2023-05-16": 31911,
-  "2023-05-17": 31940,
-  "2023-05-18": 31978,
-  "2023-05-19": 32013,
-  "2023-05-20": 32108,
-  "2023-05-21": 32108,
-  "2023-05-22": 32108,
-  "2023-05-23": 32200,
-  "2023-05-24": 32233,
-  "2023-05-25": 32242,
-  "2023-05-26": 32268,
-  "2023-05-27": 32306,
-  "2023-05-28": 32342,
-  "2023-05-29": 32342,
-  "2023-05-30": 32382,
-  "2023-05-31": 32407,
-  "2023-06-01": 32438,
-  "2023-06-02": 32466,
-  "2023-06-03": 32491,
-  "2023-06-04": 32528,
-  "2023-06-05": 32549,
-  "2023-06-06": 32575,
-  "2023-06-07": 32604,
-  "2023-06-08": 32626,
-  "2023-06-09": 32648,
-  "2023-06-10": 32682,
-  "2023-06-11": 32722,
-  "2023-06-12": 32766,
-  "2023-06-13": 32798,
-  "2023-06-14": 32826,
-  "2023-06-15": 32862,
-  "2023-06-16": 32899,
-  "2023-06-17": 32934,
-  "2023-06-18": 32972,
-  "2023-06-19": 33027,
-  "2023-06-20": 33064,
-  "2023-06-21": 33099,
-  "2023-06-22": 33115,
-  "2023-06-23": 33142,
-  "2023-06-24": 33172,
-  "2023-06-25": 33206,
-  "2023-06-26": 33232,
-  "2023-06-27": 33263,
-  "2023-06-28": 33289,
-  "2023-06-29": 33327,
-  "2023-06-30": 33348,
-  "2023-07-01": 33401,
-  "2023-07-02": 33401,
-  "2023-07-03": 33438,
-  "2023-07-04": 33468,
-  "2023-07-05": 33498,
-  "2023-07-06": 33552,
-  "2023-07-07": 33552,
-  "2023-07-08": 33575,
-  "2023-07-09": 33603,
-  "2023-07-10": 33647,
-  "2023-07-11": 33669,
-  "2023-07-12": 33684,
-  "2023-07-13": 33712,
-  "2023-07-14": 33741,
-  "2023-07-15": 33767,
-  "2023-07-16": 33806,
-  "2023-07-17": 33844,
-  "2023-07-18": 33869,
-  "2023-07-19": 33894,
-  "2023-07-20": 33926,
-  "2023-07-21": 33949,
-  "2023-07-22": 33980,
-  "2023-07-23": 34016,
-  "2023-07-24": 34040,
-  "2023-07-25": 34057,
-  "2023-07-26": 34083,
-  "2023-07-27": 34103,
-  "2023-07-28": 34129,
-  "2023-07-29": 34167,
-  "2023-07-30": 34193,
-  "2023-07-31": 34224,
-  "2023-08-01": 34242,
-  "2023-08-02": 34269,
-  "2023-08-03": 34298,
-  "2023-08-04": 34321,
-  "2023-08-05": 34358,
-  "2023-08-06": 34419,
-  "2023-08-07": 34419,
-  "2023-08-08": 34435,
-  "2023-08-09": 34461,
-  "2023-08-10": 34486,
-  "2023-08-11": 34516,
-  "2023-08-12": 34531,
-  "2023-08-13": 34561,
-  "2023-08-14": 34594,
-  "2023-08-15": 34644,
-  "2023-08-16": 34644,
-  "2023-08-17": 34666,
-  "2023-08-18": 34691,
-  "2023-08-19": 34722,
-  "2023-08-20": 34748,
-  "2023-08-21": 34772,
-  "2023-08-22": 34809,
-  "2023-08-23": 34819,
-  "2023-08-24": 34844,
-  "2023-08-25": 34854,
-  "2023-08-26": 34884,
-  "2023-08-27": 34916,
-  "2023-08-28": 34950,
-  "2023-08-29": 34971,
-  "2023-08-30": 34993,
-  "2023-08-31": 35018,
-  "2023-09-01": 35096,
-  "2023-09-02": 35096,
-  "2023-09-03": 35134,
-  "2023-09-04": 35193,
-  "2023-09-05": 35237,
-  "2023-09-06": 35280,
-  "2023-09-07": 35333,
-  "2023-09-08": 35385,
-  "2023-09-09": 35441,
-  "2023-09-10": 35518,
-  "2023-09-11": 35586,
-  "2023-09-12": 35631,
-  "2023-09-13": 35677,
-  "2023-09-14": 35730,
-  "2023-09-15": 35786,
-  "2023-09-16": 35877,
-  "2023-09-17": 35953,
-  "2023-09-18": 36010,
-  "2023-09-19": 36047,
-  "2023-09-20": 36090,
-  "2023-09-21": 36143,
-  "2023-09-22": 36184,
-  "2023-09-23": 36239,
-  "2023-09-24": 36295,
-  "2023-09-25": 36363,
-  "2023-09-26": 36429,
-  "2023-09-27": 36470,
-  "2023-09-28": 36517,
-  "2023-09-29": 36590,
-  "2023-09-30": 36646,
-  "2023-10-01": 36708,
-  "2023-10-02": 36762,
-  "2023-10-03": 36798,
-  "2023-10-04": 36847,
-  "2023-10-05": 36901,
-  "2023-10-06": 36949,
-  "2023-10-07": 37017,
-  "2023-10-08": 37065,
-  "2023-10-09": 37118,
-  "2023-10-10": 37150,
-  "2023-10-11": 37246,
-  "2023-10-12": 37246,
-  "2023-10-13": 37276,
-  "2023-10-14": 37311,
-  "2023-10-15": 37368,
-  "2023-10-16": 37414,
-  "2023-10-17": 37468,
-  "2023-10-18": 37503,
-  "2023-10-19": 37550,
-  "2023-10-20": 37589,
-  "2023-10-21": 37635,
-  "2023-10-22": 37682,
-  "2023-10-23": 37732,
-  "2023-10-24": 37783,
-  "2023-10-25": 37822,
-  "2023-10-26": 37866,
-  "2023-10-27": 37896,
-  "2023-10-28": 37932,
-  "2023-10-29": 37989,
-  "2023-10-30": 38079,
-  "2023-10-31": 38079,
-  "2023-11-01": 38130,
-  "2023-11-02": 38184,
-  "2023-11-03": 38250,
-  "2023-11-04": 38305,
-  "2023-11-05": 38363,
-  "2023-11-06": 38430,
-  "2023-11-07": 38471,
-  "2023-11-08": 38519,
-  "2023-11-09": 38564,
-  "2023-11-10": 38616,
-  "2023-11-11": 38677,
-  "2023-11-12": 38707,
-  "2023-11-13": 38752,
-  "2023-11-14": 38786,
-  "2023-11-15": 38786,
-  "2023-11-16": 38857,
-  "2023-11-17": 38949,
-  "2023-11-18": 38949,
-  "2023-11-19": 38995,
-  "2023-11-20": 39046,
-  "2023-11-21": 39099,
-  "2023-11-22": 39143,
-  "2023-11-23": 39176,
-  "2023-11-24": 39243,
-  "2023-11-25": 39282,
-  "2023-11-26": 39341,
-  "2023-11-27": 39395,
-  "2023-11-28": 39439,
-  "2023-11-29": 39522,
-  "2023-11-30": 39522,
-  "2023-12-01": 39555,
-  "2023-12-02": 39603,
-  "2023-12-03": 39657,
-  "2023-12-04": 39712,
-  "2023-12-05": 39747,
-  "2023-12-06": 39799,
-  "2023-12-07": 39838,
-  "2023-12-08": 39874,
-  "2023-12-09": 39894,
-  "2023-12-10": 39944,
-  "2023-12-11": 39974,
-  "2023-12-12": 39998,
-  "2023-12-13": 40029,
-  "2023-12-14": 40076,
-  "2023-12-15": 40095,
-  "2023-12-16": 40121,
-  "2023-12-17": 40161,
-  "2023-12-18": 40196,
-  "2023-12-19": 40220,
-  "2023-12-20": 40243,
-  "2023-12-21": 40288,
-  "2023-12-22": 40342,
-  "2023-12-23": 40398,
-  "2023-12-24": 40448,
-  "2023-12-25": 40486,
-  "2023-12-26": 40523,
-  "2023-12-27": 40560,
-  "2023-12-30": 40649,
-  "2023-12-31": 40679,
-  "2024-01-01": 40721,
-  "2024-01-02": 40763,
-  "2024-01-03": 40785
+  "2024-01-17": 41219,
+  "date_first_scraped": "2022-09-07",
+  "description": "Antonio, Pepe, \u00c1ngela, Majo & Leonardo... Los Aguilar a trav\u00e9s de las generaciones.",
+  "name": "La Dinast\u00eda de... Los Aguilar",
+  "tracks": [
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 151051,
+      "name": "A la Medida",
+      "url": "https://open.spotify.com/track/4ZeC3j8u2e4i5hn4k5bFSw"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 244642,
+      "name": "Ahi\u0301 Donde Me Ven",
+      "url": "https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244642,
+      "name": "Ah\u00ed Donde Me Ven",
+      "url": "https://open.spotify.com/track/2HsN4JUcjkdVKyafNlu7pL"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 156046,
+      "name": "Albur De Amor",
+      "url": "https://open.spotify.com/track/4VCuUyLW4lHvVsAgR1cNZd"
+    },
+    {
+      "album": {
+        "name": "Amiga M\u00eda",
+        "url": "https://open.spotify.com/album/1ZhjvXP3Frzxshp4OVKUvE"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "MORVN",
+          "url": "https://open.spotify.com/artist/76AlElZjbs04hHBpPDmR5f"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 220000,
+      "name": "Amiga M\u00eda",
+      "url": "https://open.spotify.com/track/3PAb3SSA1zP388eqKXKNsV"
+    },
+    {
+      "album": {
+        "name": "Amigos",
+        "url": "https://open.spotify.com/album/74Hes6pOqG1u1DN65jg0aV"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 168866,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/4uoHAwCca3pR6SCnYA3XPZ"
+    },
+    {
+      "album": {
+        "name": "De Plaza En Plaza (Cumbia Sinf\u00f3nica/Deluxe)",
+        "url": "https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "Amigos Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/56flGLpXk65jcXDKirq75B"
+    },
+    {
+      "album": {
+        "name": "Amor Ilegal",
+        "url": "https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170253,
+      "name": "Amor Ilegal",
+      "url": "https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ"
+    },
+    {
+      "album": {
+        "name": "Tambora, Vol. 3",
+        "url": "https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 147513,
+      "name": "Anillo Grabado",
+      "url": "https://open.spotify.com/track/4M3A1xOY409r0cGLEKSDmf"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Es La Vida",
+        "url": "https://open.spotify.com/album/5ygmzSeurGyRn57a5XAJNp"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-11",
+      "duration_ms": 187280,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/3c8lIXaRUGniycNN1Mz2i7"
+    },
+    {
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178689,
+      "name": "Ay, Chabela",
+      "url": "https://open.spotify.com/track/2LyHh2xmfD5nOWNwfkueUH"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos: Duetos Famosos",
+        "url": "https://open.spotify.com/album/2iC2yfvmZHl8Tnkx3FS7XU"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/2GmQrkLViOY0hJUn0bolVT"
+    },
+    {
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178932,
+      "name": "Bandido De Amores",
+      "url": "https://open.spotify.com/track/5gbThduFQLh53m500xE54t"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195665,
+      "name": "Busca Otro Amor",
+      "url": "https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY"
+    },
+    {
+      "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+    },
+    {
+      "album": {
+        "name": "Con Orgullo por Herencia",
+        "url": "https://open.spotify.com/album/631FZYGn9qRAEfMumyldp3"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 261361,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5aC5qtYtVuh7JKwxZul1EY"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 235813,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/5uTPstkP1Ljt3MzP0LE3uw"
+    },
+    {
+      "album": {
+        "name": "Un Canto por M\u00e9xico, Vol. II",
+        "url": "https://open.spotify.com/album/0Ece1my4kjbR0frvMUzRT0"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/4SL8wbnGRP0nkIYyjeIKRU"
+    },
+    {
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 177423,
+      "name": "Corrido De Lucio V\u00e1zquez (Los Pavo Reales)",
+      "url": "https://open.spotify.com/track/6lXrAxIS0gKuvyaytEy4Ck"
+    },
+    {
+      "album": {
+        "name": "AYAYAY! (S\u00faper Deluxe)",
+        "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "Dime C\u00f3mo Quieres",
+      "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200480,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB"
+    },
+    {
+      "album": {
+        "name": "El Anticuado",
+        "url": "https://open.spotify.com/album/19JnLRfaf1P5U9qVNJn9jj"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 244727,
+      "name": "El Anticuado",
+      "url": "https://open.spotify.com/track/4ZO4lNK6uR8okn2q6Tl8FR"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188070,
+      "name": "El Chivo",
+      "url": "https://open.spotify.com/track/1QHsh7mQuy7ykz9W9avvTR"
+    },
+    {
+      "album": {
+        "name": "El Comienzo del Final",
+        "url": "https://open.spotify.com/album/2sk5lhzj7DeKg6efRrhu9g"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3MWYxx33qIGH4ShVmAltW6"
+    },
+    {
+      "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173816,
+      "name": "El Comienzo del Final",
+      "url": "https://open.spotify.com/track/3q0TpT3IiVHe2Kulf4a6qC"
+    },
+    {
+      "album": {
+        "name": "Rancher\u00edsimo, Vol. 2",
+        "url": "https://open.spotify.com/album/3AV09tqLmn5HRwmf54Dz1U"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195117,
+      "name": "El Hijo Desobediente",
+      "url": "https://open.spotify.com/track/1uWves4S89RPNHMMM28H0x"
+    },
+    {
+      "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/439PoHmgdLpwc6LOF66FwH"
+      },
+      "artists": [
+        {
+          "name": "Luis Aguilar",
+          "url": "https://open.spotify.com/artist/4vazE48JBgn7Q7itFsfFVx"
+        },
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240906,
+      "name": "El Mala Estrella",
+      "url": "https://open.spotify.com/track/5XjtX9V4qh0WCGnK8MWQBr"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195744,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
+    },
+    {
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252013,
+      "name": "El Triste (with Pepe Aguilar)",
+      "url": "https://open.spotify.com/track/1OjT7kzrMsYFhzTKkzEyiT"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-08",
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 228989,
+      "name": "Ella Qu\u00e9 Te Dio",
+      "url": "https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205236,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/1gm88KVoDOV0tsSBnB0hri"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 205236,
+      "name": "En Realidad",
+      "url": "https://open.spotify.com/track/2m7I1EX7ogZVHFow6Q1jeC"
+    },
+    {
+      "album": {
+        "name": "Grandes Duetos",
+        "url": "https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 180976,
+      "name": "Est\u00e1s Fallando",
+      "url": "https://open.spotify.com/track/2bWImXJQNVfgrROo4Xj630"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173033,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/1GnPPH2PfejdBYZ2yyEwkb"
+    },
+    {
+      "album": {
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 173033,
+      "name": "Fruta Prohibida",
+      "url": "https://open.spotify.com/track/5SXHKeVmlPxpP5jNkOXo1B"
+    },
+    {
+      "album": {
+        "name": "Fue un Placer Conocerte: Gracias Juan Gabriel, Vol. 1",
+        "url": "https://open.spotify.com/album/53mW1mcrK5HCENdQKkwVtV"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 210042,
+      "name": "Fue un Placer Conocerte",
+      "url": "https://open.spotify.com/track/2keN15BswHOxejdRAaMT8s"
+    },
+    {
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/6Au63pdf8vjOy905MVQEeq"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177388,
+      "name": "Gabino Barrera",
+      "url": "https://open.spotify.com/track/2QSvl8WTIffnGgCvvlpixE"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/293y4eczsVhfT5dbjvhUNz"
+    },
+    {
+      "album": {
+        "name": "Rancheras de Relajo",
+        "url": "https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 224525,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi"
+    },
+    {
+      "album": {
+        "name": "Nueva Tradici\u00f3n",
+        "url": "https://open.spotify.com/album/2vdSOHJ3ruarPaifT2LXjF"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 213030,
+      "name": "La Chancla",
+      "url": "https://open.spotify.com/track/42fLdVjXz6aU02oMKUKNQQ"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 462000,
+      "name": "La Chancla, el Chivo, Pu\u00f1o de Tierra",
+      "url": "https://open.spotify.com/track/61Bjgk8Vrb3hY5MPcZj7FO"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 490753,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490762,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 324365,
+      "name": "La Malaguen\u0303a",
+      "url": "https://open.spotify.com/track/5yL9T1WK7fY0SFjnvSfima"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos: Corridos Famosos",
+        "url": "https://open.spotify.com/album/4zViKwboAczInCqS6EP1Y7"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 197578,
+      "name": "La Martina",
+      "url": "https://open.spotify.com/track/34uNgYubjTKtgslAceJELk"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184064,
+      "name": "Lamberto Quintero",
+      "url": "https://open.spotify.com/track/5FWViyEsDYr3hkYmj10GxZ"
+    },
+    {
+      "album": {
+        "name": "Las Ma\u00f1anitas",
+        "url": "https://open.spotify.com/album/59LFY4Br1iJqDxzw7xp9nn"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 171605,
+      "name": "Las Ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/6kbmiCL77OvBdw6ZUfG6oV"
+    },
+    {
+      "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/0OFAMb4oOtIp0j5ENQWN4a"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/1N1CJ0PkWvsK2Rd7JqtlJV"
+    },
+    {
+      "album": {
+        "name": "Lo Busqu\u00e9",
+        "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250670,
+      "name": "Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
+    },
+    {
+      "album": {
+        "name": "Por El Amor De Siempre",
+        "url": "https://open.spotify.com/album/3anZPZONnJphGTJxmFCfPC"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 226146,
+      "name": "Me Estoy Acostumbrando A Ti",
+      "url": "https://open.spotify.com/track/5oZa1smfDqlY8E2rfUgUEl"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 170685,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4GTbtRKeOTMoQ1OJyXKQpU"
+    },
+    {
+      "album": {
+        "name": "Me Vale",
+        "url": "https://open.spotify.com/album/65gyP6lTxC1JcRWQSiX7nj"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0JVgORYQZm05UVmrHs4DXN"
+    },
+    {
+      "album": {
+        "name": "Lo Mejor De Nosotros",
+        "url": "https://open.spotify.com/album/6DKj6CdMCUYRYJ4BnJnjd0"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260829,
+      "name": "Me Vas A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/47UjuR24Bp3LgCTHNTynXu"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Los Grandes Compositores",
+        "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
+      },
+      "artists": [
+        {
+          "name": "Guadalupe Pineda",
+          "url": "https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261133,
+      "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, Angela Aguilar & Leonardo Aguilar)",
+      "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 362320,
+      "name": "Mi Credo",
+      "url": "https://open.spotify.com/track/5k057RF9fQMimy59dS0pYJ"
+    },
+    {
+      "album": {
+        "name": "Mi Gusto Es Con Tambora",
+        "url": "https://open.spotify.com/album/3Zjx5IAwDDMUfYagxBP4wg"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-24",
+      "duration_ms": 206657,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/59nRuCsjHNdHNrs6BMj3fR"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora",
+        "url": "https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184466,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy"
+    },
+    {
+      "album": {
+        "name": "Tambora, Vol. 3",
+        "url": "https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188638,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/1qVDKiZHtN5DdelrFphs7k"
+    },
+    {
+      "album": {
+        "name": "Nada de Ti",
+        "url": "https://open.spotify.com/album/1vMml3En3NNjiSmokeLg4q"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223578,
+      "name": "Nada de Ti",
+      "url": "https://open.spotify.com/track/5ikUjQaH48yITEb174TQIi"
+    },
+    {
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/3JfApDXBer1RCuD8XhRye1"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/1ndseyLQi4OjwsmchDsLet"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 6",
+        "url": "https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172141,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl"
+    },
+    {
+      "album": {
+        "name": "Navajas En El Viento",
+        "url": "https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 225133,
+      "name": "Navajas En El Viento",
+      "url": "https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7"
+    },
+    {
+      "album": {
+        "name": "Esto S\u00ed Es Cumbia",
+        "url": "https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251626,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/3tHYpuF2eIc4pDrzIdNN3Y"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Para La Fiesta -Las Numero Uno-",
+        "url": "https://open.spotify.com/album/0zqHvACI7LFDz2z2bMg9Zk"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 251626,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/51gNwRZGaM3SE84HcnSO06"
+    },
+    {
+      "album": {
+        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
+        "url": "https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75"
+    },
+    {
+      "album": {
+        "name": "Negociar\u00e9 Con la Pena",
+        "url": "https://open.spotify.com/album/1D6HaQjqbn7B3r2jsZalIx"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-05",
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/6Y7W7sn8mT1C6FatpoPhhd"
+    },
+    {
+      "album": {
+        "name": "Pepe Aguilar te Acompa\u00f1a en Navidad",
+        "url": "https://open.spotify.com/album/1c9m6HNJPNlmpPGMWHqxnK"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271000,
+      "name": "Ni Contigo, Ni Sin Ti",
+      "url": "https://open.spotify.com/track/6eIyYAySNu4qIyi7gYCjHF"
+    },
+    {
+      "album": {
+        "name": "No Lo Pod\u00eda Hacer Mejor",
+        "url": "https://open.spotify.com/album/6k964PchdjqpKVlAuoYvfL"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 178980,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
+    },
+    {
+      "album": {
+        "name": "Y Lo Volv\u00ed a Hacer",
+        "url": "https://open.spotify.com/album/1mTNZKeVd4sbVAh6VhV2YB"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179108,
+      "name": "No Lo Pod\u00eda Hacer Mejor",
+      "url": "https://open.spotify.com/track/2aJTy5XK52GzfOMQVTddni"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/03zaQokPmEiYjrLFl9NAK6"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/5s7Sdy6j98iO22nOIkXkS1"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/2FHW0H29DDCTWYLXwpAwpu"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 200269,
+      "name": "No Me Queda M\u00e1s",
+      "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
+    },
+    {
+      "album": {
+        "name": "No Voy A Llorar",
+        "url": "https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "No Voy A Llorar",
+      "url": "https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt"
+    },
+    {
+      "album": {
+        "name": "Ojal\u00e1 Te Duela",
+        "url": "https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232099,
+      "name": "Ojal\u00e1 Te Duela",
+      "url": "https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH"
+    },
+    {
+      "album": {
+        "name": "M\u00e9xico Mi Amor",
+        "url": "https://open.spotify.com/album/461W4AUSlc1f345rMxDzMg"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205120,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/6azmVYavoYRuLjLYhMwTDP"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 209184,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2sPKpLQFem7ScAbUQDAzeh"
+    },
+    {
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
+    },
+    {
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185207,
+      "name": "POR EL CONTRARIO (with Angela Aguilar & Leonardo Aguilar)",
+      "url": "https://open.spotify.com/track/6VsqdsaY4oV06NODea0L0J"
+    },
+    {
+      "album": {
+        "name": "Por Eso T\u00fa",
+        "url": "https://open.spotify.com/album/47ozRi9t0GGajhkEFFeuDv"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 192677,
+      "name": "Por Eso T\u00fa",
+      "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
+    },
+    {
+      "album": {
+        "name": "Por Mujeres Como T\u00fa",
+        "url": "https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263133,
+      "name": "Por Mujeres Como T\u00fa",
+      "url": "https://open.spotify.com/track/4Zd6gElrsmSyVomurxAPOD"
+    },
+    {
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164720,
+      "name": "Por Una Mujer Bonita",
+      "url": "https://open.spotify.com/track/0ttipGf9tKRBGayR53Zy79"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa Robles",
+          "url": "https://open.spotify.com/artist/03Qx159jmT9mvmw5YjzvAs"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 305120,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/2UypFzxfaYgMUnQX2k4qtj"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged (En Vivo)",
+        "url": "https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/5OWPM4ybplRvlK9RJgAtSm"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305120,
+      "name": "Prometiste (En Vivo)",
+      "url": "https://open.spotify.com/track/1VHkHdFww8aXRTqj4VVSwC"
+    },
+    {
+      "album": {
+        "name": "Colecci\u00f3n De Oro De Antonio Aguilar, Vol. 5: 1990-2000",
+        "url": "https://open.spotify.com/album/4fNCUyeFb9HMw0iBBbNIQy"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/26CKi8JrfHO28g0rJ7RMUD"
+    },
+    {
+      "album": {
+        "name": "Tambora, Vol. 3",
+        "url": "https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 187907,
+      "name": "Que Me Entierren Con La Banda",
+      "url": "https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188206,
+      "name": "Qu\u00e9 Agon\u00eda - Remix",
+      "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos Con Banda, Vol. 4",
+        "url": "https://open.spotify.com/album/2ji1g39cwZ9RNtYKC0t4c4"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181835,
+      "name": "Qu\u00e9 Falta Me Hace Mi Padre",
+      "url": "https://open.spotify.com/track/6jkq3KyVOBcep5HKRHTvOB"
+    },
+    {
+      "album": {
+        "name": "Recu\u00e9rdame Bonito",
+        "url": "https://open.spotify.com/album/7ILpDmbUgAzuyGupH5kDIr"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 191461,
+      "name": "Recu\u00e9rdame Bonito",
+      "url": "https://open.spotify.com/track/1APZxSVM4utFv3005z4FtB"
+    },
+    {
+      "album": {
+        "name": "Primera Fila (En Vivo)",
+        "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Resp\u00f3ndeme T\u00fa (Primera Fila) (feat. Pepe Aguilar) - En Vivo",
+      "url": "https://open.spotify.com/track/2nFcMS2GvgK1vZmtnnZ6d7"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 206383,
+      "name": "Se Disfrazo\u0301",
+      "url": "https://open.spotify.com/track/35vWB9Yj2WwxpuI2WceZ38"
+    },
+    {
+      "album": {
+        "name": "Baila Esta Cumbia",
+        "url": "https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 168504,
+      "name": "Si una Vez",
+      "url": "https://open.spotify.com/track/4FA7IjDMarat0OWXMuH0AC"
+    },
+    {
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/3rmJcsxTIFLu4AzQu3QuZK"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155742,
+      "name": "Soy Como Quiero Ser",
+      "url": "https://open.spotify.com/track/5fj9XNJjscbBoZUkJOKDYu"
+    },
+    {
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287277,
+      "name": "Te Quiero para Mi\u0301",
+      "url": "https://open.spotify.com/track/2ftfhExQaYLkbqqhUa5Vwz"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar con Mariachi",
+        "url": "https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233116,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF"
+    },
+    {
+      "album": {
+        "name": "Triste Recuerdo",
+        "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 208902,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "album": {
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/42RuQQPnKN7hNT5ddN3Bl3"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/0seAoPgURqi44EBhXOl3DP"
+    },
+    {
+      "album": {
+        "name": "Tu M\u00e9ndigo Recuerdo",
+        "url": "https://open.spotify.com/album/6bWMB6mbApeonX5EJYl8vQ"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213923,
+      "name": "Tu M\u00e9ndigo Recuerdo",
+      "url": "https://open.spotify.com/track/7JEvTL4J2RMj8QHVWKSgSS"
+    },
+    {
+      "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238002,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1EarUeWxzDC364EWOSXhNL"
+    },
+    {
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 238022,
+      "name": "Tu Sangre en Mi Cuerpo",
+      "url": "https://open.spotify.com/track/1xqSh7mbpThNiSjDU7FwLe"
+    },
+    {
+      "album": {
+        "name": "Tus Desprecios",
+        "url": "https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 142819,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se"
+    },
+    {
+      "album": {
+        "name": "A la Medida",
+        "url": "https://open.spotify.com/album/6efOKRzidSTHQXjUyHmCM4"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-14",
+      "duration_ms": 143010,
+      "name": "Tus Desprecios",
+      "url": "https://open.spotify.com/track/3GXUtMP7Q0Lv7UsL2Bpqh0"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188395,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb"
+    },
+    {
+      "album": {
+        "name": "Una y Mil Razones",
+        "url": "https://open.spotify.com/album/6D2xGN02Ea4nv97JtzlMFz"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 183547,
+      "name": "Una y Mil Razones",
+      "url": "https://open.spotify.com/track/4GYEw1rccnn36siGuvhxEn"
+    },
+    {
+      "album": {
+        "name": "MTV Unplugged. El Libro De Las Mutaciones",
+        "url": "https://open.spotify.com/album/3AO4YRY9r2gQL6GWLtdm7h"
+      },
+      "artists": [
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2021-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278461,
+      "name": "Ven y camina conmigo (feat. Pepe Aguilar) - MTV Unplugged",
+      "url": "https://open.spotify.com/track/1FlYaJEsXJVRXHmSyaueQY"
+    },
+    {
+      "album": {
+        "name": "Antonio Aguilar Con Tambora, Vol. 2",
+        "url": "https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "date_added": "2022-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189277,
+      "name": "Y \u00c1ndale",
+      "url": "https://open.spotify.com/track/56ziVkiGIGcTiQM1kGzjx5"
+    },
+    {
+      "album": {
+        "name": "\u00bfSer\u00e1 Prudente?",
+        "url": "https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86"
+      },
+      "artists": [
+        {
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226906,
+      "name": "\u00bfSer\u00e1 Prudente?",
+      "url": "https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5moqgdeY56a"
 }

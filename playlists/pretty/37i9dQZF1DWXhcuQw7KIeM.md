@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,929 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,808 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 48 | [Dronning Ellisiv](https://open.spotify.com/track/5QdO7aRLZEUhwti8gTM0qW) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Dronning Ellisiv](https://open.spotify.com/album/1VQkQ1tkn5lIVXTG1QjpEZ) | 4:32 |
 | 49 | [Fæcele](https://open.spotify.com/track/36P9S31Td4pdmDd95c9OGe) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Fæcele](https://open.spotify.com/album/5r7j50lSSkS8kFO6CRFJFN) | 3:12 |
 | 50 | [Storm Son](https://open.spotify.com/track/6obT3ZJ0SQLSGuFS6PWaT8) | [Enslaved](https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD) | [E](https://open.spotify.com/album/4I62KutcTuOqExb7fDeJU3) | 10:54 |
-| 51 | [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 |
+| 51 | [Hemkomst](https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 5:40 |
 | 52 | [Appalachia](https://open.spotify.com/track/7IxH4gQrVZSZxB3P9sHqB4) | [Osi And The Jupiter](https://open.spotify.com/artist/0xzTfHbo1gs0SIKVe2qsHh) | [Stave](https://open.spotify.com/album/64LXA7HAr6IsT5wISAmZqu) | 3:59 |
 | 53 | [Mandara](https://open.spotify.com/track/5U0awMJOLy123ikEFUIfHt) | [Vas](https://open.spotify.com/artist/7bUGU28qbm4vGTSrha1H55) | [Feast Of Silence](https://open.spotify.com/album/1QTNlTne1hb0WHJe0sF6K4) | 6:23 |
 | 54 | [In Maidjan](https://open.spotify.com/track/4vy2YnIiU37OB7BonhYWgZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Lifa](https://open.spotify.com/album/5gUvVQFa8seLyMSuvOGC93) | 12:38 |
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 61 | [Ég felé](https://open.spotify.com/track/4PSVK92v0jtq8NiOtgqnFe) | [The Moon & The Nightspirit](https://open.spotify.com/artist/7hm6tfDbNUdRrz2hfRpJG3) | [Ősforras](https://open.spotify.com/album/012OIS7HI85MqcAOKHL6fP) | 5:56 |
 | 62 | [Relics of the Natural Realm](https://open.spotify.com/track/5cbnif2ROYIXzqWWJ6ZUMa) | [Sojourner](https://open.spotify.com/artist/0XFkf3NSP76nB7zhzPdM9X) | [Perennial](https://open.spotify.com/album/3zxt9rDcbBMJBPL6fmgTeJ) | 5:20 |
 | 63 | [Dagar eru Taldir \- Days Are Numbered](https://open.spotify.com/track/1LEulFdOhyD0t2VPgQydEK) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 4:06 |
-| 64 | [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 |
+| 64 | [Yggdrasil](https://open.spotify.com/track/6JJGu31qvtkU9sQcyouXXN) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 4:15 |
 | 65 | [Hrafnsmál \- The Words Of The Raven](https://open.spotify.com/track/1Qo0cfUADSzlkG0Pw91L5A) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:20 |
 | 66 | [Ulvsblakk](https://open.spotify.com/track/7m4Z1nsSHc55wGVC0Go3iQ) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Kveldssanger](https://open.spotify.com/album/7cXrQFBd5R6TwtRyV7LOGq) | 6:56 |
 | 67 | [U\-Gra](https://open.spotify.com/track/1skpul4CRFFh1irTjprkF7) | [Nytt Land](https://open.spotify.com/artist/6NQ701XGEJodDZ5lqVtrBp) | [U\-Gra](https://open.spotify.com/album/25S9xlQbFOAZE9pgV2sczx) | 6:00 |

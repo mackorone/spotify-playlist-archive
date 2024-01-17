@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 
 > Honor our native communities\. Listen to the sounds of acclaimed artists' Native American flute music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,344 likes - 70 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,287 likes - 70 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6LkIGouseT.md) - [plain]
 | 65 | [Daybreak Vision](https://open.spotify.com/track/6u7gkxuLH88WxAyUAVMgOT) | [R\. Carlos Nakai](https://open.spotify.com/artist/2D38buglrcCl9TMZ45tkh1) | [Canyon Trilogy](https://open.spotify.com/album/3XRepPhs3JVUlwQSe7W8Sp) | 1:49 |
 | 66 | [Elders Speak](https://open.spotify.com/track/2QeZliWDH9IhJxHDGF85Q1) | [Tony Duncan](https://open.spotify.com/artist/57j0g1L7kjnLpoDKjyaU8m), [Darrin Yazzie](https://open.spotify.com/artist/3eSu0lpgaJFDa1Fn13MNlN) | [Earth Warrior \- Light of our Ancestors](https://open.spotify.com/album/3DIpGvfh9BjK8cV5tiPfEr) | 3:55 |
 | 67 | [Lullaby with Flute & Crickets \- Soothing Crickets And Solo Flute](https://open.spotify.com/track/09n5OYAlgClYFQFYtXjVwS) | [Native American Flute](https://open.spotify.com/artist/0VaYChYezacJi7h3aCmcpG) | [Native American Flute: Sleep Music](https://open.spotify.com/album/3t8ECdZ3ZWuDU0ksoaI8Rz) | 4:22 |
-| 68 | [Translucent Shadows](https://open.spotify.com/track/1OmnvhVmoct7xBGdm0VTXD) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/3F54i2mdjYQ7dLWmaZTllR) | 5:59 |
+| 68 | [Translucent Shadows](https://open.spotify.com/track/2JICvh6G2BE0vCRPyAWTpV) | [Coyote Oldman](https://open.spotify.com/artist/7LQeFPitSkKhIskTd8knhP) | [Under An Ancient Sky](https://open.spotify.com/album/7e4q1fV2MAltbpftP1hhrX) | 5:59 |
 | 69 | [Brother Wolf](https://open.spotify.com/track/57kOtzCpHthVIepprNw5Wi) | [Music Body and Spirit](https://open.spotify.com/artist/4fQId7SvZ1T10dAmQ7ozxo) | [Native American Music](https://open.spotify.com/album/5G1mttC8wtVbOtLK8sJBw4) | 3:15 |
 | 70 | [Healer's Quest](https://open.spotify.com/track/1bvtmhS3ELHZUjo8Od6cBZ) | [Jessita Reyes](https://open.spotify.com/artist/4N57Ev9G6CQqREsZCIrcfL), [Native Flute Ensemble](https://open.spotify.com/artist/3c1jNtzb2xmmwXIcMLEoPK) | [Healers of the Flute](https://open.spotify.com/album/6Dd1QnIuHrg5pilZn9BL26) | 3:12 |
 

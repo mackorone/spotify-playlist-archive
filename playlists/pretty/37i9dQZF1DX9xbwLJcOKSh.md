@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xbwLJcOKSh.md) - [plain]
 
 > 作曲、編曲、プロデュースワークを中心に活動。ジャンルを超えた表現で三木鶏郎広告音楽賞等、数々のアワードを受賞。
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,558 likes - 72 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,595 likes - 72 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

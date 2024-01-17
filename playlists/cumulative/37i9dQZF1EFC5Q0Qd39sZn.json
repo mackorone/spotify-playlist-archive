@@ -470,7 +470,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-17",
       "duration_ms": 259986,
       "name": "Bed of Nails",
       "url": "https://open.spotify.com/track/5XeT9fYCeg1jYithrEni7v"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 256810,
       "name": "Can't Take That Away (Mariah's Theme)",
       "url": "https://open.spotify.com/track/0gwI5LE3kHY4xeauRCQe6R"
@@ -968,7 +968,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 272293,
       "name": "Can't Take That Away (Mariah's Theme)",
       "url": "https://open.spotify.com/track/2Epqce6wM48J6Wnlmhn42c"
@@ -4686,7 +4686,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 242496,
       "name": "Lonely Is The Night",
       "url": "https://open.spotify.com/track/7zVB6SE1nYVzBrQJfsRTWf"
@@ -4704,7 +4704,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 249066,
       "name": "Lonely Is the Night",
       "url": "https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W"
@@ -6212,6 +6212,24 @@
       "duration_ms": 200566,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/3pJVN3mFHTpNgmOHR7je3p"
+    },
+    {
+      "album": {
+        "name": "Pretend (Official Video)",
+        "url": "https://open.spotify.com/album/7MMTHzb4ZDAqXhXGNUuWOJ"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 212480,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/437P36748raU6f8jCkcFXZ"
     },
     {
       "album": {
@@ -8108,6 +8126,24 @@
         {
           "name": "Toni Braxton",
           "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270466,
+      "name": "Un-Break My Heart",
+      "url": "https://open.spotify.com/track/35FrSEASDKsZnStrgnT4vp"
+    },
+    {
+      "album": {
+        "name": "Secrets (Remix Package)",
+        "url": "https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         },
         {
           "name": "Frankie Knuckles",
@@ -8116,7 +8152,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 267400,
       "name": "Un-Break My Heart - Classic Radio Mix",
       "url": "https://open.spotify.com/track/5lxWBU8FM7pqidZcDsgvb3"

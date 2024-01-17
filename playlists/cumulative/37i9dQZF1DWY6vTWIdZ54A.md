@@ -4,11 +4,11 @@
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-299 songs - 17 hr 33 min
+300 songs - 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 |  |
+| ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 | 2022-08-26 | 2024-01-12 |
 | [.CoDA.](https://open.spotify.com/track/1PlzMAYlt0Qziq9Q1AOcv7) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 3:44 | 2022-10-07 |  |
 | [.CoDA.](https://open.spotify.com/track/5Key8WcA9y3rW9BC9ZrGME) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [.getawayfortheweekend.](https://open.spotify.com/album/46mMja473feJC3459xFEUi) | 3:44 | 2021-03-11 | 2023-05-04 |
 | [A Taste of Silver](https://open.spotify.com/track/3q0tvLJLDdm0HkUDwOOvoM) | [Until The Ribbon Breaks](https://open.spotify.com/artist/0PFM64sKw3GG4Sk8kqNIcp) | [A Taste of Silver](https://open.spotify.com/album/5VcTTlkBQvgYZRgXOsQC06) | 3:02 | 2022-10-07 | 2022-11-13 |
@@ -108,7 +108,7 @@
 | [Heartache Melody](https://open.spotify.com/track/1uZz1fImBM6bSk7BjwzIdw) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Where Do We Go From Here?](https://open.spotify.com/album/4mugwf4oHm7gG12MrLJsJV) | 2:52 | 2022-10-07 | 2022-11-13 |
 | [Heartache Melody](https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g) | 2:52 | 2022-10-07 | 2023-09-22 |
 | [Heartache Melody](https://open.spotify.com/track/3SiZI9CQ5wjl79gs0gem6Q) | [Electric Enemy](https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v) | [Heartache Melody](https://open.spotify.com/album/5vgjMsTYIGUJe9D46PANW4) | 2:52 | 2020-12-11 | 2022-10-21 |
-| [Heaven Knows](https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL) | [The Shouting Matches](https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ) | [Grownass Man](https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK) | 3:35 | 2020-12-11 | 2023-12-14 |
+| [Heaven Knows](https://open.spotify.com/track/4lEnkalPpZEYgTzV5t9oJL) | [The Shouting Matches](https://open.spotify.com/artist/4Ol9S3QuVEVdbXfSjM6ZdQ) | [Grownass Man](https://open.spotify.com/album/2jnRkK55ZjE9XLKhJjyePK) | 3:35 | 2020-12-11 |  |
 | [Hellfire](https://open.spotify.com/track/57ala3dITsOzu59EfKMTlA) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Dull Drums \- EP](https://open.spotify.com/album/4VK3Q5h20xhrakwpBnxDDf) | 2:48 | 2020-12-11 | 2023-06-10 |
 | [Highway](https://open.spotify.com/track/1MErD2rlHmrMnA8JQZac1N) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/0tUmHGR6wK19sQAMxuYmuP) | 3:21 | 2023-07-07 |  |
 | [Highway](https://open.spotify.com/track/7aQT5OB4zEgyyxfRDbOBIt) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Erase You](https://open.spotify.com/album/40MZW6y8j9zJLyyB946IKH) | 3:21 | 2020-12-11 | 2023-08-31 |
@@ -136,7 +136,7 @@
 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 | 2022-06-17 |  |
 | [Invincible](https://open.spotify.com/track/1r7PBed0nZQo31UU1g0aRA) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [Invincible](https://open.spotify.com/album/65pbAYp4nfHGSZknGgvbDy) | 3:21 | 2020-12-11 | 2023-06-10 |
 | [It's Too Late](https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Young Blood](https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7) | 2:56 | 2022-08-26 |  |
-| [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2020-12-11 |  |
+| [Kevin](https://open.spotify.com/track/3bTJRzsVHaL4JOmmNX4Cm3) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Slomosa](https://open.spotify.com/album/4P0wMxlWvsilPWY5tbvVKS) | 2:47 | 2020-12-11 | 2024-01-15 |
 | [Legendary](https://open.spotify.com/track/579cIDb3DYSkR0AULxrAvW) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary](https://open.spotify.com/album/3BzcCNIizREnaZlZlxMEZG) | 3:50 | 2020-12-11 | 2022-07-29 |
 | [Legendary](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:52 | 2022-06-17 | 2022-09-24 |
 | [Let It Ride](https://open.spotify.com/track/1TR1KgInMmVlpCI6QWg0Ze) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Let It Ride](https://open.spotify.com/album/7xTvFnKhIlcMerkgIIV9jA) | 3:37 | 2020-12-11 | 2022-06-14 |
@@ -291,6 +291,7 @@
 | [Wayne](https://open.spotify.com/track/3ZFaioRJSjrdH01nfBgbNB) | [Des Rocs](https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8) | [Wayne](https://open.spotify.com/album/2SQsKlB8q1DwgMYDbkN5h4) | 3:20 | 2020-12-11 | 2022-09-20 |
 | [Welcome to Silvertown](https://open.spotify.com/track/3Vm5T4ZUrPXXkJ5YXqfvMX) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Welcome to Silvertown](https://open.spotify.com/album/3aYOZUrvSmkzFKxWXdJphY) | 3:15 | 2020-12-11 | 2023-06-10 |
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2023-06-09 |  |
+| [What’s It Take To Be Happy?](https://open.spotify.com/track/0wFr2Uk87dQY3AYKfGPZqg) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Pretty Monster](https://open.spotify.com/album/1ZSM06t6wMNeIaNMXxCuL6) | 3:20 | 2023-09-22 |  |
 | [What’s It Take To Be Happy?](https://open.spotify.com/track/36ctXtkmh0ot5PTBhlr9vJ) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [What’s It Take To Be Happy?](https://open.spotify.com/album/2gqKXGj4NkMH4FdrXviY9x) | 3:20 | 2022-09-23 | 2023-06-10 |
 | [When I'm Gone](https://open.spotify.com/track/3VZjogSj2XePaVubGgFOUo) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/5P1eT6Xpd9DNeSHJkJAzNo) | 3:25 | 2020-12-11 | 2022-07-29 |
 | [When I'm Gone](https://open.spotify.com/track/7mVYYM1jFHP5d5ygTgjrf6) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/6FEBG6JNlWI3QkY3YlfhO7) | 3:25 | 2022-06-17 |  |

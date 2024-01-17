@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 
 > Our editor’s picks for best songs from The Locker in 2023\. Cover: NOAHFINNCE
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,407 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,820 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUtjhu2IHar.md) - [plain]
 | 20 | [prove me wrong](https://open.spotify.com/track/5jvrQFIIVJj1yEPSbs18sL) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [prove me wrong](https://open.spotify.com/album/2ZckjKYhWyWwiiHEfyXqQ6) | 2:41 |
 | 21 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 22 | [racecar](https://open.spotify.com/track/1gG7e6Gl58VynG7GOPYejZ) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj) | [racecar](https://open.spotify.com/album/7pX5E2EHCaBVhruxMqlmEr) | 2:49 |
-| 23 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 |
+| 23 | [Friends With Benefits](https://open.spotify.com/track/3cubovyBMABNcWzSdbzMTP) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Friends With Benefits](https://open.spotify.com/album/1V6UogSpYpLE8XYmCdjR5N) | 3:07 |
 | 24 | [MK Nothing](https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [MK Nothing](https://open.spotify.com/album/3O6JtZeMzT19scGcO0z88j) | 3:24 |
 | 25 | [Drones](https://open.spotify.com/track/5JvspoRjPwqMmPV5anGYZj) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [I Love You, I’m Trying](https://open.spotify.com/album/2BTddi3XyqAcset5mAYl2n) | 2:30 |
 | 26 | [Brat](https://open.spotify.com/track/5s3bbolCTheDzCZDkfiwYD) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Brat](https://open.spotify.com/album/7H1sFr4WCcIPGfyMyY0dCW) | 3:06 |

@@ -1,233 +1,733 @@
 {
-  "2023-05-16": 875,
-  "2023-05-17": 878,
-  "2023-05-18": 881,
-  "2023-05-19": 881,
-  "2023-05-20": 883,
-  "2023-05-21": 883,
-  "2023-05-22": 883,
-  "2023-05-23": 887,
-  "2023-05-24": 891,
-  "2023-05-25": 892,
-  "2023-05-26": 893,
-  "2023-05-27": 895,
-  "2023-05-28": 899,
-  "2023-05-29": 899,
-  "2023-05-30": 900,
-  "2023-05-31": 901,
-  "2023-06-01": 900,
-  "2023-06-02": 900,
-  "2023-06-03": 901,
-  "2023-06-04": 903,
-  "2023-06-05": 901,
-  "2023-06-06": 903,
-  "2023-06-07": 910,
-  "2023-06-08": 911,
-  "2023-06-09": 910,
-  "2023-06-10": 911,
-  "2023-06-11": 910,
-  "2023-06-12": 912,
-  "2023-06-13": 913,
-  "2023-06-14": 914,
-  "2023-06-15": 915,
-  "2023-06-16": 916,
-  "2023-06-17": 915,
-  "2023-06-18": 916,
-  "2023-06-19": 916,
-  "2023-06-20": 917,
-  "2023-06-21": 916,
-  "2023-06-22": 916,
-  "2023-06-23": 916,
-  "2023-06-24": 917,
-  "2023-06-25": 917,
-  "2023-06-26": 917,
-  "2023-06-27": 916,
-  "2023-06-28": 917,
-  "2023-06-29": 918,
-  "2023-06-30": 918,
-  "2023-07-01": 919,
-  "2023-07-02": 919,
-  "2023-07-03": 919,
-  "2023-07-04": 922,
-  "2023-07-05": 922,
-  "2023-07-06": 924,
-  "2023-07-07": 924,
-  "2023-07-08": 925,
-  "2023-07-09": 927,
-  "2023-07-10": 927,
-  "2023-07-11": 928,
-  "2023-07-12": 929,
-  "2023-07-13": 929,
-  "2023-07-14": 929,
-  "2023-07-15": 930,
-  "2023-07-16": 932,
-  "2023-07-17": 932,
-  "2023-07-18": 933,
-  "2023-07-19": 934,
-  "2023-07-20": 935,
-  "2023-07-21": 938,
-  "2023-07-22": 938,
-  "2023-07-23": 938,
-  "2023-07-24": 941,
-  "2023-07-25": 942,
-  "2023-07-26": 943,
-  "2023-07-27": 944,
-  "2023-07-28": 946,
-  "2023-07-29": 949,
-  "2023-07-30": 949,
-  "2023-07-31": 949,
-  "2023-08-01": 949,
-  "2023-08-02": 948,
-  "2023-08-03": 949,
-  "2023-08-04": 950,
-  "2023-08-05": 950,
-  "2023-08-06": 953,
-  "2023-08-07": 953,
-  "2023-08-08": 953,
-  "2023-08-09": 954,
-  "2023-08-10": 956,
-  "2023-08-11": 955,
-  "2023-08-12": 955,
-  "2023-08-13": 957,
-  "2023-08-14": 959,
-  "2023-08-15": 959,
-  "2023-08-16": 959,
-  "2023-08-17": 966,
-  "2023-08-18": 966,
-  "2023-08-19": 968,
-  "2023-08-20": 969,
-  "2023-08-21": 971,
-  "2023-08-22": 974,
-  "2023-08-23": 975,
-  "2023-08-24": 977,
-  "2023-08-25": 978,
-  "2023-08-26": 979,
-  "2023-08-27": 980,
-  "2023-08-28": 981,
-  "2023-08-29": 982,
-  "2023-08-30": 981,
-  "2023-08-31": 982,
-  "2023-09-01": 985,
-  "2023-09-02": 985,
-  "2023-09-03": 986,
-  "2023-09-04": 985,
-  "2023-09-05": 986,
-  "2023-09-06": 987,
-  "2023-09-07": 989,
-  "2023-09-08": 992,
-  "2023-09-09": 995,
-  "2023-09-10": 997,
-  "2023-09-11": 999,
-  "2023-09-12": 1000,
-  "2023-09-13": 1001,
-  "2023-09-14": 1003,
-  "2023-09-15": 1003,
-  "2023-09-16": 1002,
-  "2023-09-17": 1003,
-  "2023-09-18": 1005,
-  "2023-09-19": 1009,
-  "2023-09-20": 1013,
-  "2023-09-21": 1014,
-  "2023-09-22": 1018,
-  "2023-09-23": 1017,
-  "2023-09-24": 1019,
-  "2023-09-25": 1019,
-  "2023-09-26": 1021,
-  "2023-09-27": 1021,
-  "2023-09-28": 1020,
-  "2023-09-29": 1020,
-  "2023-09-30": 1020,
-  "2023-10-01": 1020,
-  "2023-10-02": 1021,
-  "2023-10-03": 1022,
-  "2023-10-04": 1022,
-  "2023-10-05": 1022,
-  "2023-10-06": 1023,
-  "2023-10-07": 1025,
-  "2023-10-08": 1027,
-  "2023-10-09": 1027,
-  "2023-10-10": 1026,
-  "2023-10-11": 1027,
-  "2023-10-12": 1027,
-  "2023-10-13": 1028,
-  "2023-10-14": 1028,
-  "2023-10-15": 1028,
-  "2023-10-16": 1031,
-  "2023-10-17": 1031,
-  "2023-10-18": 1032,
-  "2023-10-19": 1033,
-  "2023-10-20": 1033,
-  "2023-10-21": 1033,
-  "2023-10-22": 1033,
-  "2023-10-23": 1038,
-  "2023-10-24": 1037,
-  "2023-10-25": 1037,
-  "2023-10-26": 1039,
-  "2023-10-27": 1039,
-  "2023-10-28": 1039,
-  "2023-10-29": 1039,
-  "2023-10-30": 1042,
-  "2023-10-31": 1042,
-  "2023-11-01": 1043,
-  "2023-11-02": 1046,
-  "2023-11-03": 1047,
-  "2023-11-04": 1047,
-  "2023-11-05": 1047,
-  "2023-11-06": 1047,
-  "2023-11-07": 1047,
-  "2023-11-08": 1047,
-  "2023-11-09": 1047,
-  "2023-11-10": 1050,
-  "2023-11-11": 1052,
-  "2023-11-12": 1052,
-  "2023-11-13": 1052,
-  "2023-11-14": 1052,
-  "2023-11-15": 1052,
-  "2023-11-16": 1052,
-  "2023-11-17": 1058,
-  "2023-11-18": 1058,
-  "2023-11-19": 1058,
-  "2023-11-20": 1058,
-  "2023-11-21": 1059,
-  "2023-11-22": 1062,
-  "2023-11-23": 1064,
-  "2023-11-24": 1064,
-  "2023-11-25": 1064,
-  "2023-11-26": 1064,
-  "2023-11-27": 1064,
-  "2023-11-28": 1064,
-  "2023-11-29": 1070,
-  "2023-11-30": 1070,
-  "2023-12-01": 1070,
-  "2023-12-02": 1070,
-  "2023-12-03": 1070,
-  "2023-12-04": 1070,
-  "2023-12-05": 1070,
-  "2023-12-06": 1076,
-  "2023-12-07": 1076,
-  "2023-12-08": 1076,
-  "2023-12-09": 1076,
-  "2023-12-10": 1076,
-  "2023-12-11": 1078,
-  "2023-12-12": 1078,
-  "2023-12-13": 1080,
-  "2023-12-14": 1080,
-  "2023-12-15": 1079,
-  "2023-12-16": 1079,
-  "2023-12-17": 1080,
-  "2023-12-18": 1081,
-  "2023-12-19": 1082,
-  "2023-12-20": 1082,
-  "2023-12-21": 1082,
-  "2023-12-22": 1082,
-  "2023-12-23": 1081,
-  "2023-12-24": 1082,
-  "2023-12-25": 1082,
-  "2023-12-26": 1083,
-  "2023-12-27": 1083,
-  "2023-12-30": 1087,
-  "2023-12-31": 1087,
-  "2024-01-01": 1089,
-  "2024-01-02": 1092,
-  "2024-01-03": 1095
+  "2024-01-17": 1105,
+  "date_first_scraped": "2023-05-16",
+  "description": "Celebrate Mommy with these family-friendly tunes.",
+  "name": "I Love You, Mommy",
+  "tracks": [
+    {
+      "album": {
+        "name": "Action Mum",
+        "url": "https://open.spotify.com/album/0Uby5IBLkIqhu59u6Cwaqq"
+      },
+      "artists": [
+        {
+          "name": "Andy And The Odd Socks",
+          "url": "https://open.spotify.com/artist/7FaeyOiIacUzZR8I3b7uGh"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "Action Mum",
+      "url": "https://open.spotify.com/track/7xC9fST9tbRupldFMOUxgm"
+    },
+    {
+      "album": {
+        "name": "Bohemian Rhapsody",
+        "url": "https://open.spotify.com/album/2e6lW14FdkQeDCetGcF6tQ"
+      },
+      "artists": [
+        {
+          "name": "Queen + The Muppets",
+          "url": "https://open.spotify.com/artist/7snk050RNCu5ZsAHIOhfRn"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277200,
+      "name": "Bohemian Rhapsody - Muppet version",
+      "url": "https://open.spotify.com/track/6edptv31oI3QmAyP7iBWA5"
+    },
+    {
+      "album": {
+        "name": "Celebrate This!",
+        "url": "https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6"
+      },
+      "artists": [
+        {
+          "name": "Koo Koo",
+          "url": "https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162033,
+      "name": "Cool Moms",
+      "url": "https://open.spotify.com/track/5ISxjI9FwApRseY76dAyCT"
+    },
+    {
+      "album": {
+        "name": "Licensed to Move",
+        "url": "https://open.spotify.com/album/2TFrz8eacV3RaLmzi7yB8v"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131873,
+      "name": "Following My Mom Around",
+      "url": "https://open.spotify.com/track/5hdF9iC9kSaLSq4bnGAxtg"
+    },
+    {
+      "album": {
+        "name": "Happy Mother's Day Mummy",
+        "url": "https://open.spotify.com/album/48QN4nK8kW3D9wySEf4Yh5"
+      },
+      "artists": [
+        {
+          "name": "Press Play Picture House",
+          "url": "https://open.spotify.com/artist/3kkuBZw9vZG5rsZkEvyGhS"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118703,
+      "name": "Happy Mother's Day Mummy",
+      "url": "https://open.spotify.com/track/3DhjNNMYbckuVz73ieLwQc"
+    },
+    {
+      "album": {
+        "name": "Happy Mother's Day with Baby Shark",
+        "url": "https://open.spotify.com/album/4lApY6xvSJDQyRcnbp9bIZ"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74110,
+      "name": "Happy Mother's Day with Baby Shark",
+      "url": "https://open.spotify.com/track/5LC3fpdMCYyFFE8GC052r4"
+    },
+    {
+      "album": {
+        "name": "Turn On The Music",
+        "url": "https://open.spotify.com/album/69MEKh7ZpoGtbZOfMHotLt"
+      },
+      "artists": [
+        {
+          "name": "Hap Palmer",
+          "url": "https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218200,
+      "name": "Helping Mommy In The Kitchen",
+      "url": "https://open.spotify.com/track/0ucteKSOUuH0b9pmutT9jA"
+    },
+    {
+      "album": {
+        "name": "Baby Shark Sing Along (Pt. 1-3)",
+        "url": "https://open.spotify.com/album/1KBrAqtwJqFp2Zwru0PZaq"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80684,
+      "name": "Hey, Mommy Shark",
+      "url": "https://open.spotify.com/track/2UyUR5GD433SVeNTHbwGMS"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109355,
+      "name": "Hip Hop Mother's Day Rock",
+      "url": "https://open.spotify.com/track/3SCWwCtiuLBlWrN7UekGZL"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80799,
+      "name": "Hugs and Kisses for Mommy",
+      "url": "https://open.spotify.com/track/5zrtSxBCxn4QuptKnPt6EP"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115708,
+      "name": "I Love Mommy",
+      "url": "https://open.spotify.com/track/630ihm1kJaitOKsgxOUJHF"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91641,
+      "name": "I Love My Mommy",
+      "url": "https://open.spotify.com/track/2e14VUwnhD4ThBxrblyMKT"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107529,
+      "name": "I Love You Mommy",
+      "url": "https://open.spotify.com/track/6bTFCfc0G6PfJ0LNjiMi9m"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87466,
+      "name": "I Picked Some Flowers for My Mom",
+      "url": "https://open.spotify.com/track/4xdkLlddiPXnoBcv4BNqcl"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89529,
+      "name": "I Really Love My Mommy",
+      "url": "https://open.spotify.com/track/5HDkoYm5aS4AwPeXaPQGzF"
+    },
+    {
+      "album": {
+        "name": "Mothers Day",
+        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194270,
+      "name": "I Want to be Like Mommy",
+      "url": "https://open.spotify.com/track/2JUzsgxxEnXw0UedVPGg1o"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100166,
+      "name": "It's Mother's Day",
+      "url": "https://open.spotify.com/track/6JSqCwmSoBeeT0IKS0wNb5"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77251,
+      "name": "Love My Mommy, Yes I Do!",
+      "url": "https://open.spotify.com/track/3I8io8k8ydqL05aTX7c4PC"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123375,
+      "name": "M-O-M-M-Y",
+      "url": "https://open.spotify.com/track/6vYewtvUufz5UghaFEO8Wf"
+    },
+    {
+      "album": {
+        "name": "Love Bug",
+        "url": "https://open.spotify.com/album/2uaC3lAGlZv8hxxGHx1S6w"
+      },
+      "artists": [
+        {
+          "name": "Raffi",
+          "url": "https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137666,
+      "name": "Mama Loves It",
+      "url": "https://open.spotify.com/track/7MCTcFklv8p43JOrAcYd3M"
+    },
+    {
+      "album": {
+        "name": "Blue Skies and Sunny Days",
+        "url": "https://open.spotify.com/album/4Mme8SP7bn6b5t38PIbuDV"
+      },
+      "artists": [
+        {
+          "name": "Frances England",
+          "url": "https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238140,
+      "name": "Mama Said",
+      "url": "https://open.spotify.com/track/63Z8FhR7FQWkZ90VQOoS3F"
+    },
+    {
+      "album": {
+        "name": "Mothers Day",
+        "url": "https://open.spotify.com/album/2QJy7Bc9kyiO0LWgATw0O4"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180161,
+      "name": "Mom and Daughter Song",
+      "url": "https://open.spotify.com/track/7KOETCj66ndXwYCNW962Eu"
+    },
+    {
+      "album": {
+        "name": "Reggae for Children",
+        "url": "https://open.spotify.com/album/4mC6TW4LFO8RwX9tU4w4tn"
+      },
+      "artists": [
+        {
+          "name": "Dublife All Stars",
+          "url": "https://open.spotify.com/artist/63ZDJNw0li915py41MmXZq"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133443,
+      "name": "Mommy Finger",
+      "url": "https://open.spotify.com/track/5FjZhM8eJvi3qcqrH3MWiu"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109625,
+      "name": "Mommy Loves Me",
+      "url": "https://open.spotify.com/track/3dgf6GRV4qlC5399FcB9mD"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Healthy Habits Songs (Pt. 1-3)",
+        "url": "https://open.spotify.com/album/57aoBY63rXYvnherisZpdh"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96500,
+      "name": "Mommy Loves You",
+      "url": "https://open.spotify.com/track/2I04Gr5fNNMZFSlKeZPLpR"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108125,
+      "name": "Mommy Takes Good Care of Me",
+      "url": "https://open.spotify.com/track/34zpc0dl0WBYWfZ0wmN99a"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123564,
+      "name": "Mommy Takes Good Care of Me",
+      "url": "https://open.spotify.com/track/1cjIobTjZZmnjBCyxOWeJR"
+    },
+    {
+      "album": {
+        "name": "Mommy, Mommy!",
+        "url": "https://open.spotify.com/album/1FouBgja6EuWwKYrk4ZPJF"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116925,
+      "name": "Mommy, Mommy!",
+      "url": "https://open.spotify.com/track/6rjWweBkNhm8uNamaxaSNa"
+    },
+    {
+      "album": {
+        "name": "Mommy, Mommy!",
+        "url": "https://open.spotify.com/album/1FouBgja6EuWwKYrk4ZPJF"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118656,
+      "name": "Mother's Day",
+      "url": "https://open.spotify.com/track/4ZbcvaGNRLkdXpgBITVPCy"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93458,
+      "name": "Mother's Day! Mother's Day!",
+      "url": "https://open.spotify.com/track/0cB12eizJKMfiZW0bM9qun"
+    },
+    {
+      "album": {
+        "name": "Kids Songs",
+        "url": "https://open.spotify.com/album/0iSrS0QaUXaJjR5GXDncC2"
+      },
+      "artists": [
+        {
+          "name": "Bounce Patrol",
+          "url": "https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156886,
+      "name": "Mummy's Got a Baby in Her Belly (Baby Song)",
+      "url": "https://open.spotify.com/track/3JGpUllk0VprNAFbl6PBRU"
+    },
+    {
+      "album": {
+        "name": "Peek-A-Boo And Other Songs For Young Children",
+        "url": "https://open.spotify.com/album/4ukpQ1JISBdMDdQBgiH5Rm"
+      },
+      "artists": [
+        {
+          "name": "Hap Palmer",
+          "url": "https://open.spotify.com/artist/69mxXDPodcz1qr9p68AqsJ"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137866,
+      "name": "My Mommy Comes Back",
+      "url": "https://open.spotify.com/track/3gSKldNmh3LXVCb0Ea0eGC"
+    },
+    {
+      "album": {
+        "name": "Super Moms!",
+        "url": "https://open.spotify.com/album/7MhryfVaYubkg40Bu1rS8X"
+      },
+      "artists": [
+        {
+          "name": "Little Baby Bum Nursery Rhyme Friends",
+          "url": "https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "My Mommy is a Super Mommy",
+      "url": "https://open.spotify.com/track/1am3rdVaWHJMufruC8acrz"
+    },
+    {
+      "album": {
+        "name": "CoComelon I Love My Family",
+        "url": "https://open.spotify.com/album/3YBvGGVcQfxHWYe3AdlrgU"
+      },
+      "artists": [
+        {
+          "name": "CoComelon",
+          "url": "https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170066,
+      "name": "My Mommy Song",
+      "url": "https://open.spotify.com/track/1td2pKXIeUugkWMUEUK7pe"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142729,
+      "name": "My Special Friend Is Mommy",
+      "url": "https://open.spotify.com/track/7uAlqUfCGdQuZA9J6AwfvU"
+    },
+    {
+      "album": {
+        "name": "Kids Pop Songs for Mothers Day",
+        "url": "https://open.spotify.com/album/4bKn5ib2OR3YeCCLhWGwYa"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85909,
+      "name": "Oh I Love My Mommy So",
+      "url": "https://open.spotify.com/track/0TSai3cyDrGpyv1XyIKJfF"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94625,
+      "name": "On Mother's Day",
+      "url": "https://open.spotify.com/track/7MHA7PTTePkYv8vx5BfR4k"
+    },
+    {
+      "album": {
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/191SEpVLWA88ApjrNJjkcl"
+      },
+      "artists": [
+        {
+          "name": "Frances England",
+          "url": "https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Sleepyhead Mommy",
+      "url": "https://open.spotify.com/track/79gNDjlbphlruuu12PodYh"
+    },
+    {
+      "album": {
+        "name": "Mother's Day and Father's Day Songs for Kids",
+        "url": "https://open.spotify.com/album/5Kzm0vKSwHDj1Ib3w4fVE8"
+      },
+      "artists": [
+        {
+          "name": "The Kiboomers",
+          "url": "https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79302,
+      "name": "Sometimes Mom Says",
+      "url": "https://open.spotify.com/track/1978PdQF0T9jH7W2FUG1yT"
+    },
+    {
+      "album": {
+        "name": "You Are The Sunshine Of My Life",
+        "url": "https://open.spotify.com/album/6wTPkouTjjHitxYTSlFFRS"
+      },
+      "artists": [
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        },
+        {
+          "name": "The Muppets",
+          "url": "https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu"
+        }
+      ],
+      "date_added": "2022-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/2BNasDBIqnhWc4CEBovdod"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbDhnB1YKTSg"
 }

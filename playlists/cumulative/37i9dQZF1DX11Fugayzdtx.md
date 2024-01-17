@@ -4,7 +4,7 @@
 
 > Featuring El Guincho on West's fan curated mixtape\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-21 songs - 1 hr 5 min
+22 songs - 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,9 @@
 | [Duro 2005](https://open.spotify.com/track/0pgS3J6Vyt1VKrUI0MUeNG) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Dimen5ión](https://open.spotify.com/album/0KhUcxGeOjOsGCodu9IaHj) | 2:21 | 2023-06-29 |  |
 | [El Apagón](https://open.spotify.com/track/0UvZcEfpzVyx47QsRbjyBz) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:21 | 2023-06-29 |  |
 | [Enamorada De Ti](https://open.spotify.com/track/1rDMH6HnLbZWdgzIuRv0mC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:01 | 2023-06-29 |  |
+| [Freakytona \(feat\. Plan B\)](https://open.spotify.com/track/5Ps2ZqATo5drFSEHtpp8lt) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Boy Wonder Presents Chosen Few Grandes Exitos](https://open.spotify.com/album/5CckZmLqh8aJ74pGLZPmaN) | 3:05 | 2023-06-29 |  |
 | [Frenesí](https://open.spotify.com/track/7Kz2Op4u003oogY6FTqDkB) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 3:13 | 2023-06-29 |  |
-| [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2023-06-29 |  |
+| [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2023-06-29 | 2024-01-15 |
 | [Hello Kitty](https://open.spotify.com/track/0rhOEMRH8K7OVe4wjLlstl) | [OH!DULCEARi](https://open.spotify.com/artist/4RVTG56sSMIyoqRazFzpVn), [Leston](https://open.spotify.com/artist/5vU7O06Mto29k2V4oBBbDZ) | [Hello Kitty](https://open.spotify.com/album/1zE1QaUY29I0LZASdVAarT) | 1:39 | 2023-06-29 |  |
 | [Lotus 72 D \- Fast Version](https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:00 | 2023-06-29 |  |
 | [Mirame](https://open.spotify.com/track/3Z0D5UAIPkDeSvS3i2e7e7) | [La Goony Chonga](https://open.spotify.com/artist/4ZNk4pFFvI85sdgjkFPBjI) | [Mirame](https://open.spotify.com/album/2NIB13nbIWv8wldphYVbTb) | 3:01 | 2023-06-29 |  |

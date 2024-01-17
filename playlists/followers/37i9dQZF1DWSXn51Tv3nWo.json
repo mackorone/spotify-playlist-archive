@@ -1,621 +1,2327 @@
 {
-  "2022-04-19": 21866,
-  "2022-04-20": 21866,
-  "2022-04-21": 21871,
-  "2022-04-22": 21877,
-  "2022-04-23": 21890,
-  "2022-04-24": 21903,
-  "2022-04-25": 21913,
-  "2022-04-26": 21918,
-  "2022-04-27": 21926,
-  "2022-04-28": 21933,
-  "2022-04-29": 21942,
-  "2022-04-30": 21947,
-  "2022-05-01": 21959,
-  "2022-05-02": 21959,
-  "2022-05-03": 21963,
-  "2022-05-04": 21971,
-  "2022-05-05": 21971,
-  "2022-05-06": 21974,
-  "2022-05-07": 21983,
-  "2022-05-08": 21992,
-  "2022-05-09": 21995,
-  "2022-05-10": 21996,
-  "2022-05-11": 22006,
-  "2022-05-12": 22011,
-  "2022-05-13": 22022,
-  "2022-05-14": 22026,
-  "2022-05-15": 22038,
-  "2022-05-16": 22049,
-  "2022-05-17": 22061,
-  "2022-05-18": 22072,
-  "2022-05-19": 22077,
-  "2022-05-20": 22087,
-  "2022-05-21": 22121,
-  "2022-05-22": 22121,
-  "2022-05-23": 22132,
-  "2022-05-24": 22145,
-  "2022-05-25": 22152,
-  "2022-05-26": 22166,
-  "2022-05-27": 22177,
-  "2022-05-28": 22190,
-  "2022-05-29": 22215,
-  "2022-05-30": 22235,
-  "2022-05-31": 22242,
-  "2022-06-01": 22263,
-  "2022-06-02": 22264,
-  "2022-06-03": 22282,
-  "2022-06-04": 22291,
-  "2022-06-05": 22304,
-  "2022-06-06": 22317,
-  "2022-06-07": 22321,
-  "2022-06-08": 22338,
-  "2022-06-09": 22343,
-  "2022-06-10": 22354,
-  "2022-06-11": 22371,
-  "2022-06-12": 22398,
-  "2022-06-13": 22412,
-  "2022-06-14": 22423,
-  "2022-06-15": 22432,
-  "2022-06-16": 22447,
-  "2022-06-17": 22460,
-  "2022-06-18": 22475,
-  "2022-06-19": 22501,
-  "2022-06-20": 22501,
-  "2022-06-21": 22515,
-  "2022-06-22": 22536,
-  "2022-06-23": 22536,
-  "2022-06-24": 22545,
-  "2022-06-25": 22550,
-  "2022-06-26": 22567,
-  "2022-06-27": 22576,
-  "2022-06-28": 22587,
-  "2022-06-29": 22602,
-  "2022-06-30": 22610,
-  "2022-07-01": 22621,
-  "2022-07-02": 22631,
-  "2022-07-03": 22647,
-  "2022-07-04": 22659,
-  "2022-07-05": 22671,
-  "2022-07-06": 22689,
-  "2022-07-07": 22701,
-  "2022-07-08": 22714,
-  "2022-07-09": 22729,
-  "2022-07-10": 22742,
-  "2022-07-11": 22755,
-  "2022-07-12": 22766,
-  "2022-07-13": 22778,
-  "2022-07-14": 22790,
-  "2022-07-15": 22812,
-  "2022-07-16": 22829,
-  "2022-07-17": 22845,
-  "2022-07-18": 22852,
-  "2022-07-19": 22862,
-  "2022-07-20": 22874,
-  "2022-07-21": 22887,
-  "2022-07-22": 22904,
-  "2022-07-23": 22915,
-  "2022-07-24": 22926,
-  "2022-07-25": 22941,
-  "2022-07-26": 22961,
-  "2022-07-27": 22971,
-  "2022-07-28": 22972,
-  "2022-07-29": 22980,
-  "2022-07-30": 23006,
-  "2022-07-31": 23006,
-  "2022-08-01": 23020,
-  "2022-08-02": 23042,
-  "2022-08-03": 23042,
-  "2022-08-04": 23057,
-  "2022-08-05": 23063,
-  "2022-08-06": 23074,
-  "2022-08-07": 23083,
-  "2022-08-08": 23100,
-  "2022-08-09": 23108,
-  "2022-08-10": 23115,
-  "2022-08-11": 23118,
-  "2022-08-12": 23128,
-  "2022-08-13": 23151,
-  "2022-08-14": 23159,
-  "2022-08-15": 23175,
-  "2022-08-16": 23190,
-  "2022-08-17": 23197,
-  "2022-08-18": 23214,
-  "2022-08-19": 23231,
-  "2022-08-20": 23245,
-  "2022-08-21": 23257,
-  "2022-08-22": 23276,
-  "2022-08-23": 23292,
-  "2022-08-24": 23294,
-  "2022-08-25": 23302,
-  "2022-08-26": 23322,
-  "2022-08-27": 23333,
-  "2022-08-28": 23346,
-  "2022-08-29": 23364,
-  "2022-08-30": 23335,
-  "2022-08-31": 23342,
-  "2022-09-01": 23254,
-  "2022-09-02": 23164,
-  "2022-09-03": 23055,
-  "2022-09-04": 22902,
-  "2022-09-05": 22844,
-  "2022-09-06": 22843,
-  "2022-09-07": 22861,
-  "2022-09-09": 22878,
-  "2022-09-10": 22892,
-  "2022-09-11": 22905,
-  "2022-09-12": 22917,
-  "2022-09-13": 22925,
-  "2022-09-15": 22942,
-  "2022-09-16": 22960,
-  "2022-09-17": 22962,
-  "2022-09-18": 22972,
-  "2022-09-19": 22994,
-  "2022-09-20": 22997,
-  "2022-09-21": 23004,
-  "2022-09-22": 23013,
-  "2022-09-23": 23022,
-  "2022-09-24": 23027,
-  "2022-09-25": 23049,
-  "2022-09-26": 23075,
-  "2022-09-27": 23081,
-  "2022-09-28": 23090,
-  "2022-09-29": 23106,
-  "2022-09-30": 23107,
-  "2022-10-01": 23116,
-  "2022-10-02": 23128,
-  "2022-10-03": 23147,
-  "2022-10-04": 23149,
-  "2022-10-05": 23154,
-  "2022-10-06": 23165,
-  "2022-10-07": 23177,
-  "2022-10-08": 23187,
-  "2022-10-09": 23221,
-  "2022-10-10": 23226,
-  "2022-10-11": 23231,
-  "2022-10-12": 23238,
-  "2022-10-13": 23246,
-  "2022-10-14": 23258,
-  "2022-10-15": 23271,
-  "2022-10-16": 23289,
-  "2022-10-17": 23303,
-  "2022-10-18": 23310,
-  "2022-10-19": 23329,
-  "2022-10-20": 23335,
-  "2022-10-21": 23347,
-  "2022-10-22": 23356,
-  "2022-10-23": 23373,
-  "2022-10-24": 23383,
-  "2022-10-25": 23394,
-  "2022-10-26": 23401,
-  "2022-10-27": 23411,
-  "2022-10-28": 23414,
-  "2022-10-29": 23420,
-  "2022-10-30": 23440,
-  "2022-10-31": 23454,
-  "2022-11-01": 23461,
-  "2022-11-02": 23467,
-  "2022-11-03": 23483,
-  "2022-11-04": 23486,
-  "2022-11-05": 23498,
-  "2022-11-06": 23507,
-  "2022-11-07": 23523,
-  "2022-11-08": 23535,
-  "2022-11-09": 23547,
-  "2022-11-10": 23550,
-  "2022-11-11": 23553,
-  "2022-11-12": 23578,
-  "2022-11-13": 23595,
-  "2022-11-14": 23604,
-  "2022-11-15": 23616,
-  "2022-11-16": 23628,
-  "2022-11-17": 23637,
-  "2022-11-18": 23632,
-  "2022-11-19": 23625,
-  "2022-11-20": 23616,
-  "2022-11-21": 23629,
-  "2022-11-22": 23653,
-  "2022-11-23": 23674,
-  "2022-11-24": 23701,
-  "2022-11-25": 23722,
-  "2022-11-26": 23741,
-  "2022-11-27": 23751,
-  "2022-11-28": 23770,
-  "2022-11-29": 23778,
-  "2022-11-30": 23785,
-  "2022-12-01": 23788,
-  "2022-12-02": 23798,
-  "2022-12-03": 23807,
-  "2022-12-04": 23823,
-  "2022-12-05": 23827,
-  "2022-12-06": 23837,
-  "2022-12-07": 23847,
-  "2022-12-08": 23856,
-  "2022-12-09": 23871,
-  "2022-12-10": 23881,
-  "2022-12-11": 23890,
-  "2022-12-12": 23908,
-  "2022-12-13": 23915,
-  "2022-12-14": 23920,
-  "2022-12-15": 23929,
-  "2022-12-16": 23953,
-  "2022-12-17": 23960,
-  "2022-12-18": 23973,
-  "2022-12-19": 23993,
-  "2022-12-20": 24011,
-  "2022-12-21": 24011,
-  "2022-12-22": 24025,
-  "2022-12-24": 24056,
-  "2022-12-25": 24063,
-  "2022-12-26": 24071,
-  "2022-12-27": 24092,
-  "2022-12-28": 24102,
-  "2022-12-29": 24108,
-  "2022-12-30": 24124,
-  "2022-12-31": 24148,
-  "2023-01-01": 24159,
-  "2023-01-02": 24176,
-  "2023-01-03": 24198,
-  "2023-01-04": 24220,
-  "2023-01-05": 24234,
-  "2023-01-06": 24251,
-  "2023-01-07": 24267,
-  "2023-01-08": 24274,
-  "2023-01-09": 24294,
-  "2023-01-10": 24302,
-  "2023-01-11": 24310,
-  "2023-01-12": 24328,
-  "2023-01-13": 24333,
-  "2023-01-14": 24357,
-  "2023-01-15": 24371,
-  "2023-01-16": 24393,
-  "2023-01-17": 24412,
-  "2023-01-18": 24417,
-  "2023-01-19": 24432,
-  "2023-01-20": 24452,
-  "2023-01-21": 24475,
-  "2023-01-22": 24499,
-  "2023-01-23": 24525,
-  "2023-01-24": 24542,
-  "2023-01-25": 24560,
-  "2023-01-26": 24572,
-  "2023-01-27": 24587,
-  "2023-01-28": 24606,
-  "2023-01-29": 24616,
-  "2023-01-30": 24643,
-  "2023-01-31": 24643,
-  "2023-02-01": 24666,
-  "2023-02-02": 24676,
-  "2023-02-03": 24684,
-  "2023-02-04": 24689,
-  "2023-02-05": 24707,
-  "2023-02-06": 24732,
-  "2023-02-07": 24750,
-  "2023-02-08": 24776,
-  "2023-02-09": 24776,
-  "2023-02-10": 24786,
-  "2023-02-11": 24797,
-  "2023-02-12": 24831,
-  "2023-02-13": 24840,
-  "2023-02-14": 24840,
-  "2023-02-15": 24850,
-  "2023-02-16": 24859,
-  "2023-02-17": 24883,
-  "2023-02-18": 25255,
-  "2023-02-19": 25301,
-  "2023-02-20": 25488,
-  "2023-02-21": 25744,
-  "2023-02-22": 25969,
-  "2023-02-23": 26183,
-  "2023-02-24": 26394,
-  "2023-02-25": 26697,
-  "2023-02-26": 26918,
-  "2023-02-27": 27392,
-  "2023-02-28": 27392,
-  "2023-03-01": 27573,
-  "2023-03-02": 27776,
-  "2023-03-03": 28002,
-  "2023-03-04": 28225,
-  "2023-03-05": 28791,
-  "2023-03-06": 28791,
-  "2023-03-07": 28980,
-  "2023-03-08": 29135,
-  "2023-03-09": 29344,
-  "2023-03-10": 29525,
-  "2023-03-11": 29756,
-  "2023-03-12": 30037,
-  "2023-03-13": 30309,
-  "2023-03-14": 30480,
-  "2023-03-15": 30676,
-  "2023-03-16": 30886,
-  "2023-03-17": 30886,
-  "2023-03-18": 31307,
-  "2023-03-19": 31582,
-  "2023-03-20": 31806,
-  "2023-03-21": 31984,
-  "2023-03-22": 32182,
-  "2023-03-23": 32377,
-  "2023-03-24": 32377,
-  "2023-03-25": 32804,
-  "2023-03-26": 33082,
-  "2023-03-27": 33286,
-  "2023-03-28": 33469,
-  "2023-03-29": 33688,
-  "2023-03-30": 34035,
-  "2023-03-31": 34035,
-  "2023-04-01": 34282,
-  "2023-04-02": 34581,
-  "2023-04-03": 34855,
-  "2023-04-04": 35061,
-  "2023-04-05": 35263,
-  "2023-04-06": 35470,
-  "2023-04-07": 35715,
-  "2023-04-09": 36211,
-  "2023-04-10": 36452,
-  "2023-04-11": 36891,
-  "2023-04-12": 36891,
-  "2023-04-13": 37120,
-  "2023-04-14": 37331,
-  "2023-04-15": 37602,
-  "2023-04-16": 37913,
-  "2023-04-17": 38216,
-  "2023-04-18": 38456,
-  "2023-04-19": 38695,
-  "2023-04-20": 38948,
-  "2023-04-21": 39169,
-  "2023-04-22": 39475,
-  "2023-04-23": 39812,
-  "2023-04-24": 40133,
-  "2023-04-25": 40390,
-  "2023-04-26": 40608,
-  "2023-04-27": 40854,
-  "2023-04-28": 41101,
-  "2023-04-29": 41372,
-  "2023-04-30": 41666,
-  "2023-05-01": 41920,
-  "2023-05-02": 42180,
-  "2023-05-03": 42394,
-  "2023-05-04": 42609,
-  "2023-05-05": 42831,
-  "2023-05-06": 43046,
-  "2023-05-07": 43338,
-  "2023-05-08": 43616,
-  "2023-05-09": 43801,
-  "2023-05-10": 44017,
-  "2023-05-11": 44197,
-  "2023-05-12": 44397,
-  "2023-05-13": 44596,
-  "2023-05-14": 44846,
-  "2023-05-15": 45115,
-  "2023-05-16": 45292,
-  "2023-05-17": 45471,
-  "2023-05-18": 45688,
-  "2023-05-19": 45896,
-  "2023-05-20": 46383,
-  "2023-05-21": 46383,
-  "2023-05-22": 46383,
-  "2023-05-23": 46779,
-  "2023-05-24": 47112,
-  "2023-05-25": 47170,
-  "2023-05-26": 47385,
-  "2023-05-27": 47608,
-  "2023-05-28": 47862,
-  "2023-05-29": 47862,
-  "2023-05-30": 48283,
-  "2023-05-31": 48470,
-  "2023-06-01": 48642,
-  "2023-06-02": 48838,
-  "2023-06-03": 49024,
-  "2023-06-04": 49287,
-  "2023-06-05": 49573,
-  "2023-06-06": 49768,
-  "2023-06-07": 49936,
-  "2023-06-08": 50114,
-  "2023-06-09": 50306,
-  "2023-06-10": 50527,
-  "2023-06-11": 50741,
-  "2023-06-12": 50947,
-  "2023-06-13": 51119,
-  "2023-06-14": 51278,
-  "2023-06-15": 51431,
-  "2023-06-16": 51597,
-  "2023-06-17": 51763,
-  "2023-06-18": 51967,
-  "2023-06-19": 52170,
-  "2023-06-20": 52314,
-  "2023-06-21": 52486,
-  "2023-06-22": 52642,
-  "2023-06-23": 52788,
-  "2023-06-24": 52957,
-  "2023-06-25": 53188,
-  "2023-06-26": 53368,
-  "2023-06-27": 53538,
-  "2023-06-28": 53679,
-  "2023-06-29": 53826,
-  "2023-06-30": 53960,
-  "2023-07-01": 54323,
-  "2023-07-02": 54323,
-  "2023-07-03": 54501,
-  "2023-07-04": 54666,
-  "2023-07-05": 54824,
-  "2023-07-06": 55134,
-  "2023-07-07": 55134,
-  "2023-07-08": 55299,
-  "2023-07-09": 55466,
-  "2023-07-10": 55661,
-  "2023-07-11": 55820,
-  "2023-07-12": 55993,
-  "2023-07-13": 56141,
-  "2023-07-14": 56308,
-  "2023-07-15": 56478,
-  "2023-07-16": 56721,
-  "2023-07-17": 56921,
-  "2023-07-18": 57073,
-  "2023-07-19": 57240,
-  "2023-07-20": 57385,
-  "2023-07-21": 57538,
-  "2023-07-22": 57707,
-  "2023-07-23": 57898,
-  "2023-07-24": 58095,
-  "2023-07-25": 58223,
-  "2023-07-26": 58343,
-  "2023-07-27": 58511,
-  "2023-07-28": 58653,
-  "2023-07-29": 58790,
-  "2023-07-30": 58963,
-  "2023-07-31": 59144,
-  "2023-08-01": 59285,
-  "2023-08-02": 59399,
-  "2023-08-03": 59568,
-  "2023-08-04": 59725,
-  "2023-08-05": 59878,
-  "2023-08-06": 60256,
-  "2023-08-07": 60256,
-  "2023-08-08": 60389,
-  "2023-08-09": 60537,
-  "2023-08-10": 60711,
-  "2023-08-11": 60854,
-  "2023-08-12": 61023,
-  "2023-08-13": 61187,
-  "2023-08-14": 61378,
-  "2023-08-15": 61678,
-  "2023-08-16": 61678,
-  "2023-08-17": 61834,
-  "2023-08-18": 62012,
-  "2023-08-19": 62161,
-  "2023-08-20": 62333,
-  "2023-08-21": 62524,
-  "2023-08-22": 62674,
-  "2023-08-23": 62791,
-  "2023-08-24": 62950,
-  "2023-08-25": 63094,
-  "2023-08-26": 63271,
-  "2023-08-27": 63444,
-  "2023-08-28": 63642,
-  "2023-08-29": 63786,
-  "2023-08-30": 63941,
-  "2023-08-31": 64087,
-  "2023-09-01": 64391,
-  "2023-09-02": 64391,
-  "2023-09-03": 64555,
-  "2023-09-04": 64734,
-  "2023-09-05": 64846,
-  "2023-09-06": 64956,
-  "2023-09-07": 65075,
-  "2023-09-08": 65211,
-  "2023-09-09": 65323,
-  "2023-09-10": 65523,
-  "2023-09-11": 65693,
-  "2023-09-12": 65796,
-  "2023-09-13": 65923,
-  "2023-09-14": 66008,
-  "2023-09-15": 66141,
-  "2023-09-16": 66283,
-  "2023-09-17": 66424,
-  "2023-09-18": 66599,
-  "2023-09-19": 66698,
-  "2023-09-20": 66808,
-  "2023-09-21": 66927,
-  "2023-09-22": 67250,
-  "2023-09-23": 67475,
-  "2023-09-24": 67703,
-  "2023-09-25": 67859,
-  "2023-09-26": 68013,
-  "2023-09-27": 68115,
-  "2023-09-28": 68254,
-  "2023-09-29": 68383,
-  "2023-09-30": 68528,
-  "2023-10-01": 68702,
-  "2023-10-02": 68875,
-  "2023-10-03": 68975,
-  "2023-10-04": 69084,
-  "2023-10-05": 69216,
-  "2023-10-06": 69353,
-  "2023-10-07": 69501,
-  "2023-10-08": 69673,
-  "2023-10-09": 69832,
-  "2023-10-10": 69979,
-  "2023-10-11": 70214,
-  "2023-10-12": 70214,
-  "2023-10-13": 70403,
-  "2023-10-14": 70643,
-  "2023-10-15": 70944,
-  "2023-10-16": 71228,
-  "2023-10-17": 71406,
-  "2023-10-18": 71623,
-  "2023-10-19": 71844,
-  "2023-10-20": 72070,
-  "2023-10-21": 72836,
-  "2023-10-22": 73520,
-  "2023-10-23": 74086,
-  "2023-10-24": 74442,
-  "2023-10-25": 74754,
-  "2023-10-26": 75056,
-  "2023-10-27": 75299,
-  "2023-10-28": 75581,
-  "2023-10-29": 75913,
-  "2023-10-30": 76501,
-  "2023-10-31": 76501,
-  "2023-11-01": 76687,
-  "2023-11-02": 76911,
-  "2023-11-03": 77184,
-  "2023-11-04": 77476,
-  "2023-11-05": 77836,
-  "2023-11-06": 78159,
-  "2023-11-07": 78373,
-  "2023-11-08": 78605,
-  "2023-11-09": 78874,
-  "2023-11-10": 79113,
-  "2023-11-11": 79420,
-  "2023-11-12": 79723,
-  "2023-11-13": 80052,
-  "2023-11-14": 80290,
-  "2023-11-15": 80290,
-  "2023-11-16": 80747,
-  "2023-11-17": 81439,
-  "2023-11-18": 81439,
-  "2023-11-19": 82154,
-  "2023-11-20": 82865,
-  "2023-11-21": 83511,
-  "2023-11-22": 84073,
-  "2023-11-23": 84775,
-  "2023-11-24": 85500,
-  "2023-11-25": 86288,
-  "2023-11-26": 87265,
-  "2023-11-27": 88325,
-  "2023-11-28": 89188,
-  "2023-11-29": 90883,
-  "2023-11-30": 90883,
-  "2023-12-01": 91867,
-  "2023-12-02": 92998,
-  "2023-12-03": 94348,
-  "2023-12-04": 95559,
-  "2023-12-05": 96499,
-  "2023-12-06": 97474,
-  "2023-12-07": 98490,
-  "2023-12-08": 99563,
-  "2023-12-09": 100705,
-  "2023-12-10": 102026,
-  "2023-12-11": 103396,
-  "2023-12-12": 104501,
-  "2023-12-13": 105547,
-  "2023-12-14": 106940,
-  "2023-12-15": 107732,
-  "2023-12-16": 108776,
-  "2023-12-17": 110023,
-  "2023-12-18": 111262,
-  "2023-12-19": 112290,
-  "2023-12-20": 113294,
-  "2023-12-21": 114440,
-  "2023-12-22": 115618,
-  "2023-12-23": 116738,
-  "2023-12-24": 117997,
-  "2023-12-25": 119068,
-  "2023-12-26": 120063,
-  "2023-12-27": 121185,
-  "2023-12-30": 125007,
-  "2023-12-31": 126184,
-  "2024-01-01": 127311,
-  "2024-01-02": 128431,
-  "2024-01-03": 129566
+  "2024-01-17": 143725,
+  "date_first_scraped": "2022-04-19",
+  "description": "There are some new trolls on the block. Rock your body to the music from Trolls, including Trolls Band Together. ",
+  "name": "Trolls Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Zosia Mamet",
+          "url": "https://open.spotify.com/artist/2589W31FXcAH8WBvJCJRWr"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87146,
+      "name": "9 to 5",
+      "url": "https://open.spotify.com/track/4GJbtX8H1qS2oLDUtXFrb5"
+    },
+    {
+      "album": {
+        "name": "Computer Games",
+        "url": "https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav"
+      },
+      "artists": [
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287106,
+      "name": "Atomic Dog",
+      "url": "https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257279,
+      "name": "Atomic Dog World Tour Remix",
+      "url": "https://open.spotify.com/track/5t6N3Gn8oJf3GZliOjv3Yd"
+    },
+    {
+      "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bloom",
+          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246080,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/04753LTNIuoQaQ4ATBcHzY"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/2JSd29ATGEql12Ecx0UTnA"
+    },
+    {
+      "album": {
+        "name": "Better Place (From TROLLS Band Together)",
+        "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216666,
+      "name": "Better Place (From TROLLS Band Together)",
+      "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182506,
+      "name": "Better Place - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/1CHnNHvOJOiTdHHfHQSZYC"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205786,
+      "name": "Born to Die",
+      "url": "https://open.spotify.com/track/5Y5b0wokJqZxaefDVRm43v"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/4RRIzAHAHMBd2VivYuF5Ap"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237546,
+      "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+      "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
+    },
+    {
+      "album": {
+        "name": "Blizzard of Ozz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296200,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bloom",
+          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194586,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/6lk31ijUSG5exPmV34zFkL"
+    },
+    {
+      "album": {
+        "name": "The Osbourne Family Album (Clean Version)",
+        "url": "https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 289893,
+      "name": "Crazy Train - 2002 Version",
+      "url": "https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169053,
+      "name": "Dance It Out",
+      "url": "https://open.spotify.com/track/6Cc44CY0hkXB57ak5MDwms"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Don't Slack",
+      "url": "https://open.spotify.com/track/10bTsH8ANDUlrR4iPXnbig"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138480,
+      "name": "Double-Down Speed Round",
+      "url": "https://open.spotify.com/track/6GFAI795uiBVoAdvAtWo5J"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/5VKmgf3NzITb0esxqBYse5"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Forgive Me - Remix",
+      "url": "https://open.spotify.com/track/4rm2TLgVLa9zPgTbLcDNW0"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Forgive Me - Show Version",
+      "url": "https://open.spotify.com/track/1rQoZq76ctLkrsTaNOOzM1"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "The Forest Creatures",
+          "url": "https://open.spotify.com/artist/4oJiAWtAkawAepQptyOprR"
+        },
+        {
+          "name": "The Bergens",
+          "url": "https://open.spotify.com/artist/0145M1oBeEX50yBgaCeQWY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128066,
+      "name": "Friend Medley",
+      "url": "https://open.spotify.com/track/7KInKDzsPxcWY4PYrjNyRr"
+    },
+    {
+      "album": {
+        "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+        "url": "https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219493,
+      "name": "Gangnam Style (\uac15\ub0a8\uc2a4\ud0c0\uc77c)",
+      "url": "https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165773,
+      "name": "Get Back Up Again",
+      "url": "https://open.spotify.com/track/3K7xYRXPFDVyen7cZF5Zk2"
+    },
+    {
+      "album": {
+        "name": "She's So Unusual",
+        "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238266,
+      "name": "Girls Just Want to Have Fun",
+      "url": "https://open.spotify.com/track/4y1LsJpmMti1PfRQV9AWWe"
+    },
+    {
+      "album": {
+        "name": "The Chic Organization 1977-1979 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3Jhtxnrjbk5oxleA3oafAy"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486186,
+      "name": "Good Times - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4N3stlRuz5cBNI4J4vDJ18"
+    },
+    {
+      "album": {
+        "name": "Music For The People",
+        "url": "https://open.spotify.com/album/03ZfzcyHfeWSuADL87VuTQ"
+      },
+      "artists": [
+        {
+          "name": "Marky Mark And The Funky Bunch",
+          "url": "https://open.spotify.com/artist/4046bnFxFJdLEtG7F2qXaV"
+        },
+        {
+          "name": "Loleatta Holloway",
+          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269306,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/5hWdgGVcfTeLPAiHM6EZG9"
+    },
+    {
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Deee-Lite",
+        "url": "https://open.spotify.com/album/5ONmarDtpkKbrlhu0p83XM"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2UVLuddklEVak5PXgC7baA"
+    },
+    {
+      "album": {
+        "name": "Shower Sing-a-Long",
+        "url": "https://open.spotify.com/album/4IB9YBgbA0chtYsILhYozo"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 231786,
+      "name": "Groove Is In the Heart",
+      "url": "https://open.spotify.com/track/31Ooxmxr2mSG5BjlyV5ziC"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134493,
+      "name": "Hair In The Air (Trolls: The Beat Goes On Theme)",
+      "url": "https://open.spotify.com/track/1mHtYTi3jasQzaUIwUM2RC"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178360,
+      "name": "Hair Up",
+      "url": "https://open.spotify.com/track/2986J0T5CGwJGY3aqgANtE"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        },
+        {
+          "name": "Guy Diamond",
+          "url": "https://open.spotify.com/artist/4D5oXxmEutTMj9s6YxzS2q"
+        },
+        {
+          "name": "Mr. Dinkles",
+          "url": "https://open.spotify.com/artist/0kYQMvu3KyHcR9QR60Auyf"
+        },
+        {
+          "name": "Biggie",
+          "url": "https://open.spotify.com/artist/0QNkbud6whJ9loG0bOtkuE"
+        },
+        {
+          "name": "DJ Suki",
+          "url": "https://open.spotify.com/artist/0u3wJFFUvQozEfOwgnLKK0"
+        },
+        {
+          "name": "Satin",
+          "url": "https://open.spotify.com/artist/2QRNoVWN7avKiwDKFJWq79"
+        },
+        {
+          "name": "Chenille",
+          "url": "https://open.spotify.com/artist/3XPLcgu5GdY1n7jZ30qiCe"
+        },
+        {
+          "name": "Cooper",
+          "url": "https://open.spotify.com/artist/1e9E4tGNxrzTxuImKufdqr"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154280,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/3zFXdpKxKbxOlV4sPek4o6"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Harper",
+          "url": "https://open.spotify.com/artist/7MjMfQskeb73adj1haGs7k"
+        },
+        {
+          "name": "Cooper",
+          "url": "https://open.spotify.com/artist/1e9E4tGNxrzTxuImKufdqr"
+        },
+        {
+          "name": "DJ Suki",
+          "url": "https://open.spotify.com/artist/0u3wJFFUvQozEfOwgnLKK0"
+        },
+        {
+          "name": "Guy Diamond",
+          "url": "https://open.spotify.com/artist/4D5oXxmEutTMj9s6YxzS2q"
+        },
+        {
+          "name": "Satin",
+          "url": "https://open.spotify.com/artist/2QRNoVWN7avKiwDKFJWq79"
+        },
+        {
+          "name": "Chenille",
+          "url": "https://open.spotify.com/artist/3XPLcgu5GdY1n7jZ30qiCe"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138786,
+      "name": "Happy Prank Day",
+      "url": "https://open.spotify.com/track/04Y0qz8DJtYK1LKQzKzP8V"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97586,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2jXTBrywc6ruxaUXW84Xhr"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Christopher Mintz-Plasse",
+          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
+        },
+        {
+          "name": "The Bergens",
+          "url": "https://open.spotify.com/artist/0145M1oBeEX50yBgaCeQWY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170880,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3hsyh6h2KU3VNFYPHBUXlm"
+    },
+    {
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231560,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/3ibAzRj9JnowdoLkyllk3n"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121506,
+      "name": "Hustle Dimension",
+      "url": "https://open.spotify.com/track/2nlnngOFdNYV51bAff4CgK"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Sam Rockwell",
+          "url": "https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133306,
+      "name": "I Fall to Pieces",
+      "url": "https://open.spotify.com/track/2zWc9ii8uDntk6srjMKTGY"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "I Fall To Pieces - Single Version",
+      "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360026,
+      "name": "I'm Coming Out - Original CHIC Mix",
+      "url": "https://open.spotify.com/track/1HoZjhl0cjWU3MfUMCc8cl"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61906,
+      "name": "I'm Coming Out / Mo' Money Mo' Problems",
+      "url": "https://open.spotify.com/track/3SUQYLuMqCW7lkMAZ1Bhev"
+    },
+    {
+      "album": {
+        "name": "It Takes Two (feat. Eric Andre, Daveed Diggs, Kid Cudi & Trolls)",
+        "url": "https://open.spotify.com/album/7oGTxPAGX6htcQblSqWo0r"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215333,
+      "name": "It's All Love",
+      "url": "https://open.spotify.com/track/62xFtXfi1MpX9Mqyv4rZzl"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130253,
+      "name": "It's All Love (History of Funk)",
+      "url": "https://open.spotify.com/track/0kEaLUKTpUot9DBTFGMor7"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221480,
+      "name": "Just Sing",
+      "url": "https://open.spotify.com/track/0ZjmrnH5Uh4WD1L29NTcUs"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        {
+          "name": "George Clinton",
+          "url": "https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Rachel Bloom",
+          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Sam Rockwell",
+          "url": "https://open.spotify.com/artist/6WPC3Dc27kiyJ14fZbDXMl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240600,
+      "name": "Just Sing (Trolls World Tour)",
+      "url": "https://open.spotify.com/track/139tsLjqIp7RJo22lAaTPs"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "Leaving Lonesome Flats",
+      "url": "https://open.spotify.com/track/635voGfgpgAlUvsOrCkqcw"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189520,
+      "name": "Let's Get Married",
+      "url": "https://open.spotify.com/track/01E6LkTTHDP35lIjDa0dQi"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38520,
+      "name": "Lonely People",
+      "url": "https://open.spotify.com/track/1MAXCiP6VRIvtAixkjqoQZ"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50386,
+      "name": "Lookin' For A Holiday",
+      "url": "https://open.spotify.com/track/4xpW95Zs5qFjgyqSwRZQNU"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141440,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/6VjGPadARCQTjvpEGXbIOY"
+    },
+    {
+      "album": {
+        "name": "Back Stabbers",
+        "url": "https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "Love Train",
+      "url": "https://open.spotify.com/track/28285KFbyCq8sJofn58qlD"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        },
+        {
+          "name": "Brianna Mazzola",
+          "url": "https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177853,
+      "name": "Mount Rageous",
+      "url": "https://open.spotify.com/track/5V4Qp6tNIrqdBP3iAkyKuY"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Cloud Guy",
+          "url": "https://open.spotify.com/artist/1JM04aXQw4BDmYLFNbCiXE"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162680,
+      "name": "Move Ya Body",
+      "url": "https://open.spotify.com/track/0rqterIZrtUlnFjyALMSZB"
+    },
+    {
+      "album": {
+        "name": "d-d-don't don't stop the beat (Explicit Content U.S. Version)",
+        "url": "https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI"
+      },
+      "artists": [
+        {
+          "name": "Junior Senior",
+          "url": "https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "Move Your Feet",
+      "url": "https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
+      "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Bridget",
+          "url": "https://open.spotify.com/artist/24hfxVOLTDU7t3b1Ec9OPw"
+        },
+        {
+          "name": "Gristle",
+          "url": "https://open.spotify.com/artist/4KCHgHMlQB3Fy1JbXCUFrC"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142760,
+      "name": "One and Only Love",
+      "url": "https://open.spotify.com/track/7LD3xBcHqy0vBewJ9z6fue"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162146,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5O0aq4KMFEariO9hGQze7M"
+    },
+    {
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc"
+      },
+      "artists": [
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320357,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Smidge",
+          "url": "https://open.spotify.com/artist/7K4dJbwcA1OMVpnD7Hz9RJ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140426,
+      "name": "Party On",
+      "url": "https://open.spotify.com/track/1NqTAh6Ro3a2LUEmiTWNBO"
+    },
+    {
+      "album": {
+        "name": "Sorry For Party Rocking",
+        "url": "https://open.spotify.com/album/1MbBSfcqLg2OjkeZ1RMSIq"
+      },
+      "artists": [
+        {
+          "name": "LMFAO",
+          "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
+        },
+        {
+          "name": "Lauren Bennett",
+          "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
+        },
+        {
+          "name": "GoonRock",
+          "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262173,
+      "name": "Party Rock Anthem",
+      "url": "https://open.spotify.com/track/0IkKz2J93C94Ei4BvDop7P"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Eric Andre",
+          "url": "https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke"
+        },
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4LfCnHkgiU8hUpjtsW4zEi"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227186,
+      "name": "Perfect for Me",
+      "url": "https://open.spotify.com/track/2G2U56mtnq7zRLNEjv3QZK"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        },
+        {
+          "name": "Joseph Shirley",
+          "url": "https://open.spotify.com/artist/6QeQA8W6WZNwHfDU1mOA2e"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 12640,
+      "name": "Rainbows, Unicorns, Everything Nice",
+      "url": "https://open.spotify.com/track/15bDEMeqO9hJwl1WZ14gOI"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Master Control",
+          "url": "https://open.spotify.com/artist/0X3W5OfIXo2nBsfQlClA7x"
+        },
+        {
+          "name": "Biggie",
+          "url": "https://open.spotify.com/artist/0QNkbud6whJ9loG0bOtkuE"
+        },
+        {
+          "name": "Smidge",
+          "url": "https://open.spotify.com/artist/7K4dJbwcA1OMVpnD7Hz9RJ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135226,
+      "name": "Rap Battle Suite",
+      "url": "https://open.spotify.com/track/049sK4rP9khad3M0KO50oy"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189426,
+      "name": "Rock N Roll Rules",
+      "url": "https://open.spotify.com/track/6k2fcdMZRetgikCiVJULVq"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bloom",
+          "url": "https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185506,
+      "name": "Rock You Like a Hurricane",
+      "url": "https://open.spotify.com/track/2ljXeDcwxPDBdfwxzdbAnB"
+    },
+    {
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/4MgtwNYjD89Oj2km6eFRYd"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215080,
+      "name": "September",
+      "url": "https://open.spotify.com/track/7Cuk8jsPPoNYQWXK9XRFvG"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "September - from DreamWorks Animation's \"TROLLS\"",
+      "url": "https://open.spotify.com/track/1QvPIlDwzql2ub5MCyYa78"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156200,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/0LKsKNbx1NhGRzGSVBHH1F"
+    },
+    {
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "DJ Suki",
+          "url": "https://open.spotify.com/artist/0u3wJFFUvQozEfOwgnLKK0"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155706,
+      "name": "Sunshine All The Time",
+      "url": "https://open.spotify.com/track/0lA58Ma3yU1LnSYkYxjMtB"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday",
+        "url": "https://open.spotify.com/album/3lo9YzrubM3XXIKjBL1cgf"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        },
+        {
+          "name": "Christopher Mintz-Plasse",
+          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130946,
+      "name": "The Holla-Day For You",
+      "url": "https://open.spotify.com/track/66LTNuQSnUtPGxvZdv1Num"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188186,
+      "name": "The Other Side",
+      "url": "https://open.spotify.com/track/6cN7DMetKweuV7GZ5htak4"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        },
+        {
+          "name": "Branch",
+          "url": "https://open.spotify.com/artist/1cpn7jBL4ELqWrJDtC98k5"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177546,
+      "name": "The Other Side of the Storm",
+      "url": "https://open.spotify.com/track/2nfxY5pTs1ckDtRJLtNaTx"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48480,
+      "name": "The Sound Of Silence",
+      "url": "https://open.spotify.com/track/75e1EYhLzB3mQZQBcRmklN"
+    },
+    {
+      "album": {
+        "name": "DreamWorks Trolls - The Beat Goes On!",
+        "url": "https://open.spotify.com/album/1zw9LWtiAU1UiZW2D2RyVX"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/6Qz2gLHNk9JULr7HzsEBDg"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142213,
+      "name": "The Winners",
+      "url": "https://open.spotify.com/track/6PlS2xYXVatiJ1sQzG854u"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/1w1kzejjmiMhdWAOecgo4l"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79280,
+      "name": "Tiny's Journey",
+      "url": "https://open.spotify.com/track/1eiT2gfjD3Yv3mjqj2sM8v"
+    },
+    {
+      "album": {
+        "name": "TROLLS Holiday In Harmony",
+        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176466,
+      "name": "Together Now",
+      "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61920,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/365CXcD4ijaTLbhfaDrlfw"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Kenan Thompson",
+          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
+        },
+        {
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
+        },
+        {
+          "name": "Ester Dean",
+          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205306,
+      "name": "Trolls Wanna Have Good Times",
+      "url": "https://open.spotify.com/track/1mo8r5EwAfNElDFOQNgcQ8"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243720,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/7xvqJlCB4eStxxMjFJyYuo"
+    },
+    {
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/31TRqoVBTQi0lzlPLtvINn"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2A6yzRGMgSQCUapR2ptm6A"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180573,
+      "name": "True Colors - Film Version",
+      "url": "https://open.spotify.com/track/1JY9hsqLWZ3JB3K39Ve1xF"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        },
+        {
+          "name": "India Carney",
+          "url": "https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy"
+        },
+        {
+          "name": "Ty Taylor",
+          "url": "https://open.spotify.com/artist/7FxLKkFmNsDT54KrzN2HJn"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101933,
+      "name": "Vacay Island",
+      "url": "https://open.spotify.com/track/1UYP9hT02T2tdUkNRfW8Id"
+    },
+    {
+      "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173026,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/1Je1IMUlBXcx1Fz0WE7oPT"
+    },
+    {
+      "album": {
+        "name": "TROLLS Band Together (Original Motion Picture Soundtrack) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/4Hd2fHOUEo7CJL7ol5oDyH"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rannells",
+          "url": "https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b"
+        },
+        {
+          "name": "Brianna Mazzola",
+          "url": "https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "Watch Me Work",
+      "url": "https://open.spotify.com/track/1zbrObY9VWzKcR8LFq0fkG"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "What U Workin' With?",
+      "url": "https://open.spotify.com/track/3IxRWXccxjVsUjyQZnKqYa"
+    },
+    {
+      "album": {
+        "name": "Who Let The Dogs Out",
+        "url": "https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd"
+      },
+      "artists": [
+        {
+          "name": "Baha Men",
+          "url": "https://open.spotify.com/artist/67FFKYikvTlvsPNk4NPOYJ"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Who Let The Dogs Out",
+      "url": "https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo"
+    },
+    {
+      "album": {
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1jOcKmWE1mUEnyt6JdLTr8"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "date_added": "2021-11-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Yodel Beat",
+      "url": "https://open.spotify.com/track/0PKkhjNbKn4ZjMdKHYQ6uf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSXn51Tv3nWo"
 }

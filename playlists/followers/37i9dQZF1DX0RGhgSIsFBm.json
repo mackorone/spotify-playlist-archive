@@ -1,734 +1,2485 @@
 {
-  "2021-12-25": 129096,
-  "2021-12-26": 129089,
-  "2021-12-27": 129051,
-  "2021-12-28": 129051,
-  "2021-12-29": 129034,
-  "2021-12-30": 129020,
-  "2021-12-31": 129014,
-  "2022-01-01": 128995,
-  "2022-01-02": 128987,
-  "2022-01-03": 128976,
-  "2022-01-04": 128957,
-  "2022-01-05": 128938,
-  "2022-01-06": 128920,
-  "2022-01-07": 128906,
-  "2022-01-08": 128891,
-  "2022-01-09": 128888,
-  "2022-01-10": 128879,
-  "2022-01-11": 128871,
-  "2022-01-12": 128857,
-  "2022-01-13": 128847,
-  "2022-01-14": 128834,
-  "2022-01-15": 128801,
-  "2022-01-16": 128800,
-  "2022-01-17": 128772,
-  "2022-01-18": 128770,
-  "2022-01-19": 128762,
-  "2022-01-20": 128745,
-  "2022-01-21": 128732,
-  "2022-01-22": 128718,
-  "2022-01-23": 128715,
-  "2022-01-24": 128704,
-  "2022-01-25": 128696,
-  "2022-01-26": 128684,
-  "2022-01-27": 128677,
-  "2022-01-28": 128664,
-  "2022-01-29": 128652,
-  "2022-01-30": 128638,
-  "2022-01-31": 128624,
-  "2022-02-01": 128609,
-  "2022-02-02": 128590,
-  "2022-02-03": 128573,
-  "2022-02-04": 128561,
-  "2022-02-05": 128553,
-  "2022-02-06": 128546,
-  "2022-02-07": 128532,
-  "2022-02-08": 128523,
-  "2022-02-09": 128515,
-  "2022-02-10": 128506,
-  "2022-02-11": 128497,
-  "2022-02-12": 128487,
-  "2022-02-13": 128474,
-  "2022-02-14": 128469,
-  "2022-02-15": 128445,
-  "2022-02-16": 128428,
-  "2022-02-17": 128409,
-  "2022-02-18": 128389,
-  "2022-02-19": 128384,
-  "2022-02-20": 128374,
-  "2022-02-21": 128372,
-  "2022-02-22": 128370,
-  "2022-02-23": 128350,
-  "2022-02-24": 128333,
-  "2022-02-25": 128330,
-  "2022-02-26": 128322,
-  "2022-02-27": 128306,
-  "2022-02-28": 128306,
-  "2022-03-01": 128296,
-  "2022-03-02": 128294,
-  "2022-03-03": 128283,
-  "2022-03-04": 128274,
-  "2022-03-05": 128265,
-  "2022-03-06": 128254,
-  "2022-03-07": 128246,
-  "2022-03-08": 128238,
-  "2022-03-09": 128227,
-  "2022-03-10": 128214,
-  "2022-03-11": 128211,
-  "2022-03-12": 128202,
-  "2022-03-13": 128194,
-  "2022-03-14": 128196,
-  "2022-03-15": 128182,
-  "2022-03-16": 128178,
-  "2022-03-17": 128168,
-  "2022-03-18": 128153,
-  "2022-03-19": 128147,
-  "2022-03-20": 128147,
-  "2022-03-21": 128128,
-  "2022-03-22": 128125,
-  "2022-03-23": 128110,
-  "2022-03-24": 128099,
-  "2022-03-25": 128085,
-  "2022-03-26": 128075,
-  "2022-03-27": 128067,
-  "2022-03-28": 128062,
-  "2022-03-30": 128050,
-  "2022-03-31": 128049,
-  "2022-04-01": 128048,
-  "2022-04-02": 128046,
-  "2022-04-03": 128046,
-  "2022-04-04": 128038,
-  "2022-04-05": 128028,
-  "2022-04-06": 128023,
-  "2022-04-07": 128012,
-  "2022-04-08": 128016,
-  "2022-04-09": 128004,
-  "2022-04-10": 127996,
-  "2022-04-11": 127999,
-  "2022-04-12": 127996,
-  "2022-04-13": 127989,
-  "2022-04-14": 127981,
-  "2022-04-15": 127982,
-  "2022-04-16": 127976,
-  "2022-04-17": 127968,
-  "2022-04-18": 127975,
-  "2022-04-19": 127971,
-  "2022-04-20": 127964,
-  "2022-04-21": 127965,
-  "2022-04-22": 127966,
-  "2022-04-23": 127961,
-  "2022-04-24": 127961,
-  "2022-04-25": 127958,
-  "2022-04-26": 127955,
-  "2022-04-27": 127950,
-  "2022-04-28": 127957,
-  "2022-04-29": 127945,
-  "2022-04-30": 127940,
-  "2022-05-01": 127942,
-  "2022-05-02": 127942,
-  "2022-05-03": 127940,
-  "2022-05-04": 127937,
-  "2022-05-05": 127936,
-  "2022-05-06": 127931,
-  "2022-05-07": 127926,
-  "2022-05-08": 127923,
-  "2022-05-09": 127920,
-  "2022-05-10": 127915,
-  "2022-05-11": 127912,
-  "2022-05-12": 127905,
-  "2022-05-13": 127896,
-  "2022-05-14": 127887,
-  "2022-05-15": 127879,
-  "2022-05-16": 127882,
-  "2022-05-17": 127887,
-  "2022-05-18": 127880,
-  "2022-05-19": 127882,
-  "2022-05-20": 127878,
-  "2022-05-21": 127872,
-  "2022-05-22": 127872,
-  "2022-05-23": 127877,
-  "2022-05-24": 127863,
-  "2022-05-25": 127861,
-  "2022-05-26": 127860,
-  "2022-05-27": 127859,
-  "2022-05-28": 127851,
-  "2022-05-29": 127853,
-  "2022-05-30": 127859,
-  "2022-05-31": 127863,
-  "2022-06-01": 127870,
-  "2022-06-02": 127872,
-  "2022-06-03": 127872,
-  "2022-06-04": 127869,
-  "2022-06-05": 127876,
-  "2022-06-06": 127880,
-  "2022-06-07": 127877,
-  "2022-06-08": 127871,
-  "2022-06-09": 127863,
-  "2022-06-10": 127862,
-  "2022-06-11": 127852,
-  "2022-06-12": 127854,
-  "2022-06-13": 127854,
-  "2022-06-14": 127847,
-  "2022-06-15": 127840,
-  "2022-06-16": 127842,
-  "2022-06-17": 127836,
-  "2022-06-18": 127828,
-  "2022-06-19": 127829,
-  "2022-06-20": 127829,
-  "2022-06-21": 127825,
-  "2022-06-22": 127831,
-  "2022-06-23": 127831,
-  "2022-06-24": 127829,
-  "2022-06-25": 127825,
-  "2022-06-26": 127827,
-  "2022-06-27": 127823,
-  "2022-06-28": 127813,
-  "2022-06-29": 127811,
-  "2022-06-30": 127803,
-  "2022-07-01": 127796,
-  "2022-07-02": 127794,
-  "2022-07-03": 127794,
-  "2022-07-04": 127798,
-  "2022-07-05": 127788,
-  "2022-07-06": 127793,
-  "2022-07-07": 127796,
-  "2022-07-08": 127793,
-  "2022-07-09": 127793,
-  "2022-07-10": 127788,
-  "2022-07-11": 127789,
-  "2022-07-12": 127793,
-  "2022-07-13": 127795,
-  "2022-07-14": 127794,
-  "2022-07-15": 127795,
-  "2022-07-16": 127794,
-  "2022-07-17": 127793,
-  "2022-07-18": 127792,
-  "2022-07-19": 127790,
-  "2022-07-20": 127794,
-  "2022-07-21": 127797,
-  "2022-07-22": 127788,
-  "2022-07-23": 127790,
-  "2022-07-24": 127789,
-  "2022-07-25": 127787,
-  "2022-07-26": 127780,
-  "2022-07-27": 127772,
-  "2022-07-28": 127769,
-  "2022-07-29": 127765,
-  "2022-07-30": 127774,
-  "2022-07-31": 127774,
-  "2022-08-01": 127771,
-  "2022-08-02": 127765,
-  "2022-08-03": 127765,
-  "2022-08-04": 127765,
-  "2022-08-05": 127760,
-  "2022-08-06": 127760,
-  "2022-08-07": 127764,
-  "2022-08-08": 127760,
-  "2022-08-10": 127763,
-  "2022-08-11": 127761,
-  "2022-08-12": 127754,
-  "2022-08-13": 127756,
-  "2022-08-14": 127759,
-  "2022-08-15": 127759,
-  "2022-08-16": 127757,
-  "2022-08-17": 127762,
-  "2022-08-18": 127762,
-  "2022-08-19": 127754,
-  "2022-08-20": 127756,
-  "2022-08-21": 127754,
-  "2022-08-22": 127758,
-  "2022-08-23": 127766,
-  "2022-08-24": 127762,
-  "2022-08-25": 127766,
-  "2022-08-26": 127766,
-  "2022-08-27": 127765,
-  "2022-08-28": 127770,
-  "2022-08-29": 127764,
-  "2022-08-30": 127758,
-  "2022-08-31": 127754,
-  "2022-09-01": 127749,
-  "2022-09-02": 127751,
-  "2022-09-03": 127741,
-  "2022-09-04": 127726,
-  "2022-09-05": 127725,
-  "2022-09-06": 127718,
-  "2022-09-07": 127715,
-  "2022-09-09": 127719,
-  "2022-09-10": 127718,
-  "2022-09-11": 127720,
-  "2022-09-12": 127724,
-  "2022-09-13": 127725,
-  "2022-09-15": 127720,
-  "2022-09-16": 127729,
-  "2022-09-17": 127727,
-  "2022-09-18": 127741,
-  "2022-09-19": 127737,
-  "2022-09-20": 127730,
-  "2022-09-21": 127729,
-  "2022-09-22": 127730,
-  "2022-09-23": 127727,
-  "2022-09-24": 127729,
-  "2022-09-25": 127729,
-  "2022-09-26": 127728,
-  "2022-09-27": 127736,
-  "2022-09-28": 127730,
-  "2022-09-29": 127720,
-  "2022-09-30": 127716,
-  "2022-10-01": 127717,
-  "2022-10-02": 127718,
-  "2022-10-03": 127713,
-  "2022-10-04": 127711,
-  "2022-10-05": 127713,
-  "2022-10-06": 25558,
-  "2022-10-07": 5128,
-  "2022-10-08": 5132,
-  "2022-10-09": 239,
-  "2022-10-10": 77,
-  "2022-10-11": 48,
-  "2022-10-12": 50,
-  "2022-10-13": 50,
-  "2022-10-14": 50,
-  "2022-10-15": 50,
-  "2022-10-16": 50,
-  "2022-10-17": 50,
-  "2022-10-18": 50,
-  "2022-10-19": 50,
-  "2022-10-20": 50,
-  "2022-10-21": 50,
-  "2022-10-22": 50,
-  "2022-10-23": 50,
-  "2022-10-24": 50,
-  "2022-10-25": 50,
-  "2022-10-26": 50,
-  "2022-10-27": 50,
-  "2022-10-28": 50,
-  "2022-10-29": 50,
-  "2022-10-30": 50,
-  "2022-10-31": 50,
-  "2022-11-01": 50,
-  "2022-11-02": 50,
-  "2022-11-03": 50,
-  "2022-11-04": 50,
-  "2022-11-05": 50,
-  "2022-11-06": 50,
-  "2022-11-07": 50,
-  "2022-11-08": 50,
-  "2022-11-09": 50,
-  "2022-11-10": 50,
-  "2022-11-11": 50,
-  "2022-11-12": 50,
-  "2022-11-13": 50,
-  "2022-11-14": 50,
-  "2022-11-15": 50,
-  "2022-11-16": 50,
-  "2022-11-17": 50,
-  "2022-11-18": 50,
-  "2022-11-19": 50,
-  "2022-11-20": 50,
-  "2022-11-21": 50,
-  "2022-11-22": 50,
-  "2022-11-23": 50,
-  "2022-11-24": 50,
-  "2022-11-25": 50,
-  "2022-11-26": 50,
-  "2022-11-27": 50,
-  "2022-11-28": 50,
-  "2022-11-29": 50,
-  "2022-11-30": 50,
-  "2022-12-01": 50,
-  "2022-12-02": 50,
-  "2022-12-03": 50,
-  "2022-12-04": 50,
-  "2022-12-05": 50,
-  "2022-12-06": 50,
-  "2022-12-07": 50,
-  "2022-12-08": 50,
-  "2022-12-09": 50,
-  "2022-12-10": 50,
-  "2022-12-11": 50,
-  "2022-12-12": 50,
-  "2022-12-13": 50,
-  "2022-12-14": 50,
-  "2022-12-15": 50,
-  "2022-12-16": 50,
-  "2022-12-17": 50,
-  "2022-12-18": 50,
-  "2022-12-19": 50,
-  "2022-12-20": 50,
-  "2022-12-21": 50,
-  "2022-12-22": 50,
-  "2022-12-24": 50,
-  "2022-12-25": 50,
-  "2022-12-26": 50,
-  "2022-12-27": 50,
-  "2022-12-28": 50,
-  "2022-12-29": 50,
-  "2022-12-30": 50,
-  "2022-12-31": 50,
-  "2023-01-01": 50,
-  "2023-01-02": 50,
-  "2023-01-03": 50,
-  "2023-01-04": 50,
-  "2023-01-05": 50,
-  "2023-01-06": 50,
-  "2023-01-07": 50,
-  "2023-01-08": 50,
-  "2023-01-09": 50,
-  "2023-01-10": 50,
-  "2023-01-11": 50,
-  "2023-01-12": 50,
-  "2023-01-13": 50,
-  "2023-01-14": 50,
-  "2023-01-15": 50,
-  "2023-01-16": 50,
-  "2023-01-17": 50,
-  "2023-01-18": 50,
-  "2023-01-19": 50,
-  "2023-01-20": 50,
-  "2023-01-21": 50,
-  "2023-01-22": 50,
-  "2023-01-23": 50,
-  "2023-01-24": 50,
-  "2023-01-25": 50,
-  "2023-01-26": 50,
-  "2023-01-27": 50,
-  "2023-01-28": 50,
-  "2023-01-29": 50,
-  "2023-01-30": 50,
-  "2023-01-31": 50,
-  "2023-02-01": 50,
-  "2023-02-02": 50,
-  "2023-02-03": 50,
-  "2023-02-04": 50,
-  "2023-02-05": 50,
-  "2023-02-06": 50,
-  "2023-02-07": 50,
-  "2023-02-08": 50,
-  "2023-02-09": 50,
-  "2023-02-10": 50,
-  "2023-02-11": 50,
-  "2023-02-12": 50,
-  "2023-02-13": 50,
-  "2023-02-14": 50,
-  "2023-02-15": 50,
-  "2023-02-16": 50,
-  "2023-02-17": 50,
-  "2023-02-18": 50,
-  "2023-02-19": 50,
-  "2023-02-20": 50,
-  "2023-02-21": 50,
-  "2023-02-22": 50,
-  "2023-02-23": 50,
-  "2023-02-24": 50,
-  "2023-02-25": 50,
-  "2023-02-26": 50,
-  "2023-02-27": 50,
-  "2023-02-28": 50,
-  "2023-03-01": 50,
-  "2023-03-02": 50,
-  "2023-03-03": 50,
-  "2023-03-04": 50,
-  "2023-03-05": 50,
-  "2023-03-06": 50,
-  "2023-03-07": 50,
-  "2023-03-08": 50,
-  "2023-03-09": 50,
-  "2023-03-10": 50,
-  "2023-03-11": 50,
-  "2023-03-12": 50,
-  "2023-03-13": 50,
-  "2023-03-14": 50,
-  "2023-03-15": 50,
-  "2023-03-16": 50,
-  "2023-03-17": 50,
-  "2023-03-18": 50,
-  "2023-03-19": 50,
-  "2023-03-20": 50,
-  "2023-03-21": 50,
-  "2023-03-22": 50,
-  "2023-03-23": 50,
-  "2023-03-24": 50,
-  "2023-03-25": 50,
-  "2023-03-26": 50,
-  "2023-03-27": 50,
-  "2023-03-28": 50,
-  "2023-03-29": 50,
-  "2023-03-30": 50,
-  "2023-03-31": 50,
-  "2023-04-01": 50,
-  "2023-04-02": 50,
-  "2023-04-03": 50,
-  "2023-04-04": 50,
-  "2023-04-05": 50,
-  "2023-04-06": 50,
-  "2023-04-07": 50,
-  "2023-04-09": 50,
-  "2023-04-10": 50,
-  "2023-04-11": 50,
-  "2023-04-12": 50,
-  "2023-04-13": 50,
-  "2023-04-14": 50,
-  "2023-04-15": 50,
-  "2023-04-16": 50,
-  "2023-04-17": 50,
-  "2023-04-18": 50,
-  "2023-04-19": 50,
-  "2023-04-20": 50,
-  "2023-04-21": 50,
-  "2023-04-22": 50,
-  "2023-04-23": 50,
-  "2023-04-24": 50,
-  "2023-04-25": 50,
-  "2023-04-26": 50,
-  "2023-04-27": 50,
-  "2023-04-28": 50,
-  "2023-04-29": 50,
-  "2023-04-30": 50,
-  "2023-05-01": 50,
-  "2023-05-02": 50,
-  "2023-05-03": 50,
-  "2023-05-04": 50,
-  "2023-05-05": 50,
-  "2023-05-06": 50,
-  "2023-05-07": 50,
-  "2023-05-08": 50,
-  "2023-05-09": 50,
-  "2023-05-10": 50,
-  "2023-05-11": 50,
-  "2023-05-12": 50,
-  "2023-05-13": 50,
-  "2023-05-14": 50,
-  "2023-05-15": 50,
-  "2023-05-16": 50,
-  "2023-05-17": 50,
-  "2023-05-18": 50,
-  "2023-05-19": 50,
-  "2023-05-20": 50,
-  "2023-05-21": 50,
-  "2023-05-22": 50,
-  "2023-05-23": 50,
-  "2023-05-24": 50,
-  "2023-05-25": 50,
-  "2023-05-26": 50,
-  "2023-05-27": 50,
-  "2023-05-28": 50,
-  "2023-05-29": 50,
-  "2023-05-30": 50,
-  "2023-05-31": 50,
-  "2023-06-01": 50,
-  "2023-06-02": 50,
-  "2023-06-03": 50,
-  "2023-06-04": 50,
-  "2023-06-05": 50,
-  "2023-06-06": 50,
-  "2023-06-07": 50,
-  "2023-06-08": 50,
-  "2023-06-09": 50,
-  "2023-06-10": 50,
-  "2023-06-11": 50,
-  "2023-06-12": 50,
-  "2023-06-13": 50,
-  "2023-06-14": 50,
-  "2023-06-15": 50,
-  "2023-06-16": 50,
-  "2023-06-17": 50,
-  "2023-06-18": 50,
-  "2023-06-19": 50,
-  "2023-06-20": 50,
-  "2023-06-21": 50,
-  "2023-06-22": 50,
-  "2023-06-23": 50,
-  "2023-06-24": 50,
-  "2023-06-25": 50,
-  "2023-06-26": 50,
-  "2023-06-27": 50,
-  "2023-06-28": 50,
-  "2023-06-29": 50,
-  "2023-06-30": 50,
-  "2023-07-01": 50,
-  "2023-07-02": 50,
-  "2023-07-03": 50,
-  "2023-07-04": 50,
-  "2023-07-05": 50,
-  "2023-07-06": 50,
-  "2023-07-07": 50,
-  "2023-07-08": 50,
-  "2023-07-09": 50,
-  "2023-07-10": 50,
-  "2023-07-11": 50,
-  "2023-07-12": 50,
-  "2023-07-13": 50,
-  "2023-07-14": 50,
-  "2023-07-15": 50,
-  "2023-07-16": 50,
-  "2023-07-17": 50,
-  "2023-07-18": 50,
-  "2023-07-19": 50,
-  "2023-07-20": 50,
-  "2023-07-21": 50,
-  "2023-07-22": 50,
-  "2023-07-23": 50,
-  "2023-07-24": 50,
-  "2023-07-25": 50,
-  "2023-07-26": 50,
-  "2023-07-27": 50,
-  "2023-07-28": 50,
-  "2023-07-29": 50,
-  "2023-07-30": 50,
-  "2023-07-31": 50,
-  "2023-08-01": 50,
-  "2023-08-02": 50,
-  "2023-08-03": 50,
-  "2023-08-04": 50,
-  "2023-08-05": 50,
-  "2023-08-06": 50,
-  "2023-08-07": 50,
-  "2023-08-08": 50,
-  "2023-08-09": 50,
-  "2023-08-10": 50,
-  "2023-08-11": 50,
-  "2023-08-12": 50,
-  "2023-08-13": 50,
-  "2023-08-14": 50,
-  "2023-08-15": 50,
-  "2023-08-16": 50,
-  "2023-08-17": 50,
-  "2023-08-18": 50,
-  "2023-08-19": 50,
-  "2023-08-20": 50,
-  "2023-08-21": 50,
-  "2023-08-22": 50,
-  "2023-08-23": 50,
-  "2023-08-24": 50,
-  "2023-08-25": 50,
-  "2023-08-26": 50,
-  "2023-08-27": 50,
-  "2023-08-28": 50,
-  "2023-08-29": 50,
-  "2023-08-30": 50,
-  "2023-08-31": 50,
-  "2023-09-01": 50,
-  "2023-09-02": 50,
-  "2023-09-03": 50,
-  "2023-09-04": 50,
-  "2023-09-05": 50,
-  "2023-09-06": 50,
-  "2023-09-07": 50,
-  "2023-09-08": 50,
-  "2023-09-09": 50,
-  "2023-09-10": 50,
-  "2023-09-11": 50,
-  "2023-09-12": 50,
-  "2023-09-13": 50,
-  "2023-09-14": 50,
-  "2023-09-15": 50,
-  "2023-09-16": 50,
-  "2023-09-17": 50,
-  "2023-09-18": 50,
-  "2023-09-19": 50,
-  "2023-09-20": 50,
-  "2023-09-21": 50,
-  "2023-09-22": 50,
-  "2023-09-23": 50,
-  "2023-09-24": 50,
-  "2023-09-25": 50,
-  "2023-09-26": 50,
-  "2023-09-27": 50,
-  "2023-09-28": 50,
-  "2023-09-29": 50,
-  "2023-09-30": 50,
-  "2023-10-01": 50,
-  "2023-10-02": 50,
-  "2023-10-03": 50,
-  "2023-10-04": 50,
-  "2023-10-05": 50,
-  "2023-10-06": 50,
-  "2023-10-07": 50,
-  "2023-10-08": 50,
-  "2023-10-09": 50,
-  "2023-10-10": 50,
-  "2023-10-11": 50,
-  "2023-10-12": 50,
-  "2023-10-13": 50,
-  "2023-10-14": 50,
-  "2023-10-15": 50,
-  "2023-10-16": 50,
-  "2023-10-17": 50,
-  "2023-10-18": 50,
-  "2023-10-19": 50,
-  "2023-10-20": 50,
-  "2023-10-21": 50,
-  "2023-10-22": 50,
-  "2023-10-23": 50,
-  "2023-10-24": 50,
-  "2023-10-25": 50,
-  "2023-10-26": 50,
-  "2023-10-27": 50,
-  "2023-10-28": 50,
-  "2023-10-29": 50,
-  "2023-10-30": 50,
-  "2023-10-31": 50,
-  "2023-11-01": 50,
-  "2023-11-02": 50,
-  "2023-11-03": 50,
-  "2023-11-04": 50,
-  "2023-11-05": 50,
-  "2023-11-06": 50,
-  "2023-11-07": 50,
-  "2023-11-08": 50,
-  "2023-11-09": 50,
-  "2023-11-10": 50,
-  "2023-11-11": 50,
-  "2023-11-12": 50,
-  "2023-11-13": 50,
-  "2023-11-14": 50,
-  "2023-11-15": 50,
-  "2023-11-16": 50,
-  "2023-11-17": 50,
-  "2023-11-18": 50,
-  "2023-11-19": 50,
-  "2023-11-20": 50,
-  "2023-11-21": 50,
-  "2023-11-22": 50,
-  "2023-11-23": 50,
-  "2023-11-24": 50,
-  "2023-11-25": 50,
-  "2023-11-26": 50,
-  "2023-11-27": 50,
-  "2023-11-28": 50,
-  "2023-11-29": 50,
-  "2023-11-30": 50,
-  "2023-12-01": 50,
-  "2023-12-02": 50,
-  "2023-12-03": 50,
-  "2023-12-04": 50,
-  "2023-12-05": 50,
-  "2023-12-06": 50,
-  "2023-12-07": 50,
-  "2023-12-08": 50,
-  "2023-12-09": 50,
-  "2023-12-10": 50,
-  "2023-12-11": 50,
-  "2023-12-12": 50,
-  "2023-12-13": 50,
-  "2023-12-14": 50,
-  "2023-12-15": 50,
-  "2023-12-16": 50,
-  "2023-12-17": 50,
-  "2023-12-18": 50,
-  "2023-12-19": 50,
-  "2023-12-20": 50,
-  "2023-12-21": 50,
-  "2023-12-22": 50,
-  "2023-12-23": 50,
-  "2023-12-24": 50,
-  "2023-12-25": 50,
-  "2023-12-26": 50,
-  "2023-12-27": 50,
-  "2023-12-30": 50,
-  "2023-12-31": 50,
-  "2024-01-01": 50,
-  "2024-01-02": 50,
-  "2024-01-03": 50
+  "2024-01-17": 50,
+  "date_first_scraped": "2021-12-21",
+  "description": "A collection of classic horror and spooky stories, from Stoker to Hitchcock.",
+  "name": "Scary Stories",
+  "tracks": [
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1610000,
+      "name": "A Kidnapped Santa Claus by L. Frank Baum",
+      "url": "https://open.spotify.com/track/1xITYSlAfs5Uy68D8Qf9uQ"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1168000,
+      "name": "A School Story",
+      "url": "https://open.spotify.com/track/54ARuMdbpcbocvP78OLTYo"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110915,
+      "name": "All About the Monster",
+      "url": "https://open.spotify.com/track/7iMxjk6xSk3W9JKxVDyqaG"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509653,
+      "name": "An Occurrence at Owl Creek Bridge (Ambrose Bierce)",
+      "url": "https://open.spotify.com/track/3J3Lm81lHVJZVnq9M8RJNV"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41540,
+      "name": "At The Piano By Thomas Hardy",
+      "url": "https://open.spotify.com/track/4w7bKf70WCO11HlRDZmBp0"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2103193,
+      "name": "Canon Alberic's Scrap-Book",
+      "url": "https://open.spotify.com/track/4edUN7XsoGh29vlo9oU7lJ"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Emma Hignett",
+          "url": "https://open.spotify.com/artist/2I31OmKUbh6WRIX3mG2KzN"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2000232,
+      "name": "Count Magnus",
+      "url": "https://open.spotify.com/track/4qLI17ZiLftaIMXWleO1Oq"
+    },
+    {
+      "album": {
+        "name": "The Halloween Poetry Collection",
+        "url": "https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126299,
+      "name": "Danse Macabre By Henri Cazalis",
+      "url": "https://open.spotify.com/track/4kRI0GswZDVFWrpybX27p4"
+    },
+    {
+      "album": {
+        "name": "Death For Sale",
+        "url": "https://open.spotify.com/album/6Caq3s2jiIlr1HKzYRIEFp"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1390746,
+      "name": "Death For Sale",
+      "url": "https://open.spotify.com/track/7674ggj11BvCUX8APhhVX3"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 877333,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 1, An Evil Story",
+      "url": "https://open.spotify.com/track/7aqEIfDVM91ryHmfiulwmF"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1307600,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 2, Fruitless Enquiries",
+      "url": "https://open.spotify.com/track/33NwjROKbuzKTVsVdKVFvI"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1280266,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 3, An Atrocious Crime",
+      "url": "https://open.spotify.com/track/6zBtQe3d1ZYw8L8hu6gVLl"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 856706,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 4, Deep Mysteries",
+      "url": "https://open.spotify.com/track/1DJh55Q9UsVsMEDubBm7IA"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1048733,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 5, Confrontation",
+      "url": "https://open.spotify.com/track/1uKTddJWp8sTcSJ7mT6SjE"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1051000,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 6, Secret Transformation",
+      "url": "https://open.spotify.com/track/38dMUMrXFA7tIWVQi5ff1B"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 706733,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 7 Confession",
+      "url": "https://open.spotify.com/track/0XRrAAgLAO5mxeugTU2tiz"
+    },
+    {
+      "album": {
+        "name": "Stevenson: Dr Jeckyll & Mr Hyde",
+        "url": "https://open.spotify.com/album/64PDDO8ZyNAO713qNsIk7D"
+      },
+      "artists": [
+        {
+          "name": "Tim Piggott Smith",
+          "url": "https://open.spotify.com/artist/7jdAiDjbw8fp1k4CpVlO4p"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1547240,
+      "name": "Dr Jeckyll & Mr Hyde: Chapter 8, Into The Abyss",
+      "url": "https://open.spotify.com/track/6MHB31jHR9yhMOyeo4TEts"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174654,
+      "name": "Dracula",
+      "url": "https://open.spotify.com/track/0TOuNbmTMuDKHkcTF1e4NI"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2722400,
+      "name": "Dracula - Part 1",
+      "url": "https://open.spotify.com/track/2H3z8eEODnOmzSsjWA7N3G"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2598545,
+      "name": "Dracula - Part 2",
+      "url": "https://open.spotify.com/track/7dwXklekzmiro73FGbtotg"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2573113,
+      "name": "Dracula - Part 3",
+      "url": "https://open.spotify.com/track/6f8dU9CZPD4HqHzFwVkCjk"
+    },
+    {
+      "album": {
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/6gtGuaSp2Ak9cfZzdQStix"
+      },
+      "artists": [
+        {
+          "name": "Bram Stoker",
+          "url": "https://open.spotify.com/artist/3k5xs8ZMTW9LV35SAY90KR"
+        },
+        {
+          "name": "Christopher Lee",
+          "url": "https://open.spotify.com/artist/7ziAy2bJOgjFO50ThstObl"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2687338,
+      "name": "Dracula - Part 4",
+      "url": "https://open.spotify.com/track/22P83QQMdUqWF3lM6hTFxi"
+    },
+    {
+      "album": {
+        "name": "Tales of Suspense",
+        "url": "https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        },
+        {
+          "name": "Herbert Marshall",
+          "url": "https://open.spotify.com/artist/7kEAIrSpOHG1YwP8uKiUsN"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 738173,
+      "name": "Evening by Zona Gale",
+      "url": "https://open.spotify.com/track/2pbtgBnmdEzcHdXAW5y2Ds"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86517,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/1elwx6d4pFNC7mhnXKFquW"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/5m04WSmeAbUqBaofCwsw8b"
+    },
+    {
+      "album": {
+        "name": "Frankenstein - The 1944 Radio Broadcast",
+        "url": "https://open.spotify.com/album/1hhHDowW8ddaBVZBrFY3QB"
+      },
+      "artists": [
+        {
+          "name": "Frankenstein",
+          "url": "https://open.spotify.com/artist/6Q6XKbZTemo9jK8YBdX81c"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1602253,
+      "name": "Frankenstein - The 1944 Radio Broadcast",
+      "url": "https://open.spotify.com/track/3q2wIjH8SowKDsqw73HBzF"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 35781,
+      "name": "Ghosts In Love By Vachel Lindsay",
+      "url": "https://open.spotify.com/track/2aO0olCKpjZTyUYKXoGJ6H"
+    },
+    {
+      "album": {
+        "name": "The Poetry of Christina Rossetti",
+        "url": "https://open.spotify.com/album/09PkP42KGo1zluPEbHbury"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1158253,
+      "name": "Goblin Market",
+      "url": "https://open.spotify.com/track/6sSizovsKbqxVBNuYkUqPy"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102608,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/44V3ttaOcnWhfT9CNmIP54"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/4HLCggkFZDw4BUdkOa4q1c"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 417436,
+      "name": "Jimmy Takes Vanishing Lessons",
+      "url": "https://open.spotify.com/track/0F8g6tjW0C2dQBBj3TE9Us"
+    },
+    {
+      "album": {
+        "name": "Alfred Hitchcock's Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/1KM6L4RJxevyVrXliUWBX1"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417440,
+      "name": "Jimmy Takes Vanishing Lessons",
+      "url": "https://open.spotify.com/track/5Elrboytm6XVOfFLeX8zV3"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145713,
+      "name": "La Belle Dame Sans Merci By John Keats",
+      "url": "https://open.spotify.com/track/0muXL52JRXdMoVQVRP6ciS"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143476,
+      "name": "Little Orphant Annie By James Whitcomb Riley",
+      "url": "https://open.spotify.com/track/50I80nLHGx7iS960XRmjkm"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1447404,
+      "name": "Lost Hearts",
+      "url": "https://open.spotify.com/track/5nrNhL0EvdiNcHFqkUcc3Z"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 545253,
+      "name": "Markheim (Robert Louis Stevenson)",
+      "url": "https://open.spotify.com/track/2vLsggAYmaOUEI1QElfOqU"
+    },
+    {
+      "album": {
+        "name": "The Very Best Classic Crime Short Stories",
+        "url": "https://open.spotify.com/album/1helcALBq5DmA3c5sZcBhi"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543246,
+      "name": "Markheim By Robert Louis Stevenson",
+      "url": "https://open.spotify.com/track/5wgB6lB7QtyUQIZRfcuuBX"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2177762,
+      "name": "Mr Humphreys and His Inheritance - Part One",
+      "url": "https://open.spotify.com/track/1MSfyyWCyYxXQ5tXXeajXx"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2224913,
+      "name": "Mr Humphreys and His Inheritance - Part Two",
+      "url": "https://open.spotify.com/track/2IRl82Dh3yH9FOwaC00Qr5"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2167026,
+      "name": "Mrs Amworth By E. F. Benson",
+      "url": "https://open.spotify.com/track/4KEEf0ugpvjDXRQuF3Zj0i"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Radio Years",
+        "url": "https://open.spotify.com/album/6cHAhaiHDH4eHBGzIHcF0z"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poe",
+          "url": "https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1488933,
+      "name": "Never Bet The Devil Your Head (1957)",
+      "url": "https://open.spotify.com/track/5qfez5P5FfR9O7xqL1eY32"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2516442,
+      "name": "Number 13",
+      "url": "https://open.spotify.com/track/4wK9DA8zw3pe9XFyfttqiw"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3310009,
+      "name": "Oh, Whistle, And I'll Come to You, My Lad",
+      "url": "https://open.spotify.com/track/2lal6j1akITUWanlaNbQD4"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1959021,
+      "name": "Pickman's Model",
+      "url": "https://open.spotify.com/track/6QnQfQ99ambfDVFTPX3n1l"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593811,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/748uKGq0ybVjXgE8MN2VEa"
+    },
+    {
+      "album": {
+        "name": "The Halloween Poetry Collection",
+        "url": "https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9"
+      },
+      "artists": [
+        {
+          "name": "Richard Burton",
+          "url": "https://open.spotify.com/artist/3axaLrA0gIANDLYAv9pC9P"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134069,
+      "name": "The Apparition By John Donne",
+      "url": "https://open.spotify.com/track/6tZM7EgcQ7UgQkarWhTQs3"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1953458,
+      "name": "The Ash Tree",
+      "url": "https://open.spotify.com/track/0NQ41xTrmX0Obk9bC96bmq"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories By M.R. James",
+        "url": "https://open.spotify.com/album/7ytsePZArnBHHS7rexoOhT"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        },
+        {
+          "name": "MR James",
+          "url": "https://open.spotify.com/artist/4DMpIrQ2ECc2UZ0K8flBb5"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1953466,
+      "name": "The Ash Tree",
+      "url": "https://open.spotify.com/track/4r3zon3h4VTBhz8bpYikrH"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Radio Years",
+        "url": "https://open.spotify.com/album/6cHAhaiHDH4eHBGzIHcF0z"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poe",
+          "url": "https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1769946,
+      "name": "The Black Cat (1947)",
+      "url": "https://open.spotify.com/track/5s8gQsjxTdOEF07DgNZEBS"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "David Moore",
+          "url": "https://open.spotify.com/artist/1w50KY0tLIblQTpeGbyYYE"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 604870,
+      "name": "The Boarded Window By Ambrose Bierce",
+      "url": "https://open.spotify.com/track/0jxuATE6wiIbTUZb13Nkje"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 536240,
+      "name": "The Body Snatcher (Robert Louis Stevenson)",
+      "url": "https://open.spotify.com/track/752Nc2GueV0ln8t0tUFzLc"
+    },
+    {
+      "album": {
+        "name": "Scary Halloween Stories",
+        "url": "https://open.spotify.com/album/0Ey9T9EiJDQXhXUO7sTgvT"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536240,
+      "name": "The Body Snatcher by Robert Louis Stevenson",
+      "url": "https://open.spotify.com/track/1ZmERfl96Ypp1HssQhmudB"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176979,
+      "name": "The Bride of Frankenstein",
+      "url": "https://open.spotify.com/track/2QcYBEPojL0hhlmQMSQfon"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1805480,
+      "name": "The Call Of Cthulhu - Part 1",
+      "url": "https://open.spotify.com/track/4tW4ksFqrosWt66RvSiQJI"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2360080,
+      "name": "The Call Of Cthulhu - Part 2",
+      "url": "https://open.spotify.com/track/2PocUsFmYuPcZUvAKHXQrZ"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Gareth David-Lloyd",
+          "url": "https://open.spotify.com/artist/5dDIOObda8ay70ZX6xVfly"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1478026,
+      "name": "The Call Of Cthulhu - Part 3",
+      "url": "https://open.spotify.com/track/0PjiRHD0bEJ0mwPbZNQEn8"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 521740,
+      "name": "The Cats of Ulthar",
+      "url": "https://open.spotify.com/track/4401Kdsr54gPG5nY2eXBdq"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129753,
+      "name": "The Clock Striking Midnight By Thomas Lovell Beddoes",
+      "url": "https://open.spotify.com/track/24ZOxeBen3lzY7jQ8eDO0z"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 4297177,
+      "name": "The Color Out of Space",
+      "url": "https://open.spotify.com/track/1tbtlLPgAY0oMdKSiOUVrK"
+    },
+    {
+      "album": {
+        "name": "Tales of Suspense",
+        "url": "https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG"
+      },
+      "artists": [
+        {
+          "name": "Laurence Olivier",
+          "url": "https://open.spotify.com/artist/67ONR17eAcuRMcqsLqc0M5"
+        },
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        },
+        {
+          "name": "Herbert Marshall",
+          "url": "https://open.spotify.com/artist/7kEAIrSpOHG1YwP8uKiUsN"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1613440,
+      "name": "The Country of the Blind by H. G. Wells",
+      "url": "https://open.spotify.com/track/20HmOwxyI3Q9b1fho9JkW7"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167717,
+      "name": "The Curse Upon Edward By Thomas Gray",
+      "url": "https://open.spotify.com/track/1vUUqB43AC5GI1hxXKHA9K"
+    },
+    {
+      "album": {
+        "name": "The Dead By James Joyce",
+        "url": "https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1712629,
+      "name": "The Dead - Part Four",
+      "url": "https://open.spotify.com/track/5E7oTKhbwUygKB3BhUdm2X"
+    },
+    {
+      "album": {
+        "name": "The Dead By James Joyce",
+        "url": "https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1572491,
+      "name": "The Dead - Part One",
+      "url": "https://open.spotify.com/track/77FxCxdzKteUj77eMSeV0j"
+    },
+    {
+      "album": {
+        "name": "The Dead By James Joyce",
+        "url": "https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1665706,
+      "name": "The Dead - Part Three",
+      "url": "https://open.spotify.com/track/6h8E7Zi73yyFx6wAN0q85b"
+    },
+    {
+      "album": {
+        "name": "The Dead By James Joyce",
+        "url": "https://open.spotify.com/album/1RiseYCaSyaBEHtiDI768E"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1657223,
+      "name": "The Dead - Part Two",
+      "url": "https://open.spotify.com/track/0CjYTMSTHamGLYMeGNg9h3"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2376695,
+      "name": "The Eclipse by James Fenimore Cooper",
+      "url": "https://open.spotify.com/track/6INGJhDH2Z1UzOWPBlqy4F"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320690,
+      "name": "The First Walpurgis Night By Johann Wolfgang Von Goethe - Extract",
+      "url": "https://open.spotify.com/track/5FYy5xInqhEXpcMjPKLcSX"
+    },
+    {
+      "album": {
+        "name": "Tales of Suspense",
+        "url": "https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 708680,
+      "name": "The Flowering of the Strange Orchid by H. G. Wells",
+      "url": "https://open.spotify.com/track/0NndGvYu5fIyWyHPKZuiAE"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 972328,
+      "name": "The Fly by Katherine Mansfield",
+      "url": "https://open.spotify.com/track/3uyoDLAXM07MhM5gv9F02w"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60070,
+      "name": "The Hag By Robert Herrick",
+      "url": "https://open.spotify.com/track/4Ibox7ohfEcAg5zi5jhXOI"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/4HLCggkFZDw4BUdkOa4q1c"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 487471,
+      "name": "The Haunted and the Hunters",
+      "url": "https://open.spotify.com/track/0B1qeuJ5BYHH1gJIcFvIAx"
+    },
+    {
+      "album": {
+        "name": "Alfred Hitchcock's Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/1KM6L4RJxevyVrXliUWBX1"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487480,
+      "name": "The Haunted and the Hunters",
+      "url": "https://open.spotify.com/track/7lq8JqLYnbBmdJLotwDLbL"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200486,
+      "name": "The Haunted Oak By Paul Laurence Dunbar",
+      "url": "https://open.spotify.com/track/3he29AzXAkgK0sppinawJn"
+    },
+    {
+      "album": {
+        "name": "Read Edgar Allan Poe Stories & Poems",
+        "url": "https://open.spotify.com/album/6xDmRcD6sgsGbDvBRpyH5H"
+      },
+      "artists": [
+        {
+          "name": "Basil Rathbone",
+          "url": "https://open.spotify.com/artist/10CL0EkknPWZykQvIMemD6"
+        },
+        {
+          "name": "Vincent Price",
+          "url": "https://open.spotify.com/artist/0jxakJi6yyeNIZ3yp8nEgf"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "The Haunted Palace",
+      "url": "https://open.spotify.com/track/4tJVaTBvJwDfb63dRxroHy"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149635,
+      "name": "The Haunted Place By Edgar Allan Poe",
+      "url": "https://open.spotify.com/track/2Tp8tkrn9ItaBUE52PTGpx"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/4HLCggkFZDw4BUdkOa4q1c"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267363,
+      "name": "The Helpful Hitchhiker",
+      "url": "https://open.spotify.com/track/3OEAGi4JJ71UpnI67VUyqp"
+    },
+    {
+      "album": {
+        "name": "Alfred Hitchcock's Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/1KM6L4RJxevyVrXliUWBX1"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267373,
+      "name": "The Helpful Hitchhiker",
+      "url": "https://open.spotify.com/track/4IO7W4ZqzQiHJkJsv7MZwP"
+    },
+    {
+      "album": {
+        "name": "The Call Of Cthulhu & Other Stories",
+        "url": "https://open.spotify.com/album/4hs4K0lL8mokEcPIq5hFrw"
+      },
+      "artists": [
+        {
+          "name": "Ian Fairbairn",
+          "url": "https://open.spotify.com/artist/2sslUu9QRurhlSajeoLtRA"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1254293,
+      "name": "The Hound",
+      "url": "https://open.spotify.com/track/73UrBJtmdxctzRmGhQ2tpx"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81867,
+      "name": "The House of Frankenstein",
+      "url": "https://open.spotify.com/track/3SryXzHtBsgJtwMp7Emsbr"
+    },
+    {
+      "album": {
+        "name": "Tales of Mystery and Imagination",
+        "url": "https://open.spotify.com/album/57rvLm5sESfYzLaOO4z4Od"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1048133,
+      "name": "The Legend of Sleepy Hollow",
+      "url": "https://open.spotify.com/track/4rBotg9DlEq1H7l60mZL32"
+    },
+    {
+      "album": {
+        "name": "Tales of Suspense",
+        "url": "https://open.spotify.com/album/7GoP0YPkwuYmE3iuJwXxdG"
+      },
+      "artists": [
+        {
+          "name": "Herbert Marshall",
+          "url": "https://open.spotify.com/artist/7kEAIrSpOHG1YwP8uKiUsN"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1573946,
+      "name": "The Lodger by Alfred Hitchcock",
+      "url": "https://open.spotify.com/track/779L9T3osMYowbIeJhirxN"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2108137,
+      "name": "The Luck of Roaring Camp by Bret Harte",
+      "url": "https://open.spotify.com/track/0GFgAzy9hHRDSTUOsbvb8h"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/4HLCggkFZDw4BUdkOa4q1c"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213472,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/5FwIHNcGWBmKnkDufqvGM6"
+    },
+    {
+      "album": {
+        "name": "Alfred Hitchcock's Ghost Stories for Young People",
+        "url": "https://open.spotify.com/album/1KM6L4RJxevyVrXliUWBX1"
+      },
+      "artists": [
+        {
+          "name": "Alfred Hitchcock",
+          "url": "https://open.spotify.com/artist/55RmZVCCLA4iZXgWibmh0i"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/4zLCUBC2e3QG4bFGRkJFMy"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1602094,
+      "name": "The Mezzotint",
+      "url": "https://open.spotify.com/track/4gcCOkB6eaXKNDj9uTxNM7"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories By M.R. James",
+        "url": "https://open.spotify.com/album/7ytsePZArnBHHS7rexoOhT"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        },
+        {
+          "name": "MR James",
+          "url": "https://open.spotify.com/artist/4DMpIrQ2ECc2UZ0K8flBb5"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1602106,
+      "name": "The Mezzotint",
+      "url": "https://open.spotify.com/track/7wBg3cKudaHgyIDo2pjoZU"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167157,
+      "name": "The Mummy",
+      "url": "https://open.spotify.com/track/5ke0XzGttBV0Zn8fhiPzTw"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495760,
+      "name": "The Mummy's Foot (Theophile Gautier)",
+      "url": "https://open.spotify.com/track/42IJU8ZoXdNiiGSse1PKxy"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444764,
+      "name": "The Open Window by Saki",
+      "url": "https://open.spotify.com/track/6zgb1KQojoOVcrK2DHMiI5"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1024986,
+      "name": "The Outsider",
+      "url": "https://open.spotify.com/track/7JC4m1fZIGBuMjXrP24D97"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2237407,
+      "name": "The Phantom Coach By Amelia Edwards",
+      "url": "https://open.spotify.com/track/0JPXDBq6xuAql4H0IFt84h"
+    },
+    {
+      "album": {
+        "name": "H P Lovecraft, Tales of Horror",
+        "url": "https://open.spotify.com/album/7EbZePlC1PXEHRzcSLRNJH"
+      },
+      "artists": [
+        {
+          "name": "Richard Mitchley",
+          "url": "https://open.spotify.com/artist/7M1yWBfWH7ssn0t018BLvC"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1261145,
+      "name": "The Picture in the House",
+      "url": "https://open.spotify.com/track/2zRCAaBJ2wHxkxl17O1djH"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Radio Years",
+        "url": "https://open.spotify.com/album/6cHAhaiHDH4eHBGzIHcF0z"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poe",
+          "url": "https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1499946,
+      "name": "The Pit and the Pendulum (1957)",
+      "url": "https://open.spotify.com/track/0XAIQIkVuO2TqMfRWM3D1E"
+    },
+    {
+      "album": {
+        "name": "Charles Dickens: Ghost Stories",
+        "url": "https://open.spotify.com/album/1nnUzryAy43ANw8plXvxSE"
+      },
+      "artists": [
+        {
+          "name": "Weird Circle",
+          "url": "https://open.spotify.com/artist/16sqmJDV6N0r81SiaJzWlL"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1544034,
+      "name": "The Queer Client",
+      "url": "https://open.spotify.com/track/3QdcjcRoweY3PXor9t7KIb"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1436409,
+      "name": "The Queer Feet by G. K. Chesterton - Part One",
+      "url": "https://open.spotify.com/track/69NJ4MEzxuiwo5mJbcpTfZ"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1848746,
+      "name": "The Queer Feet by G. K. Chesterton - Part Two",
+      "url": "https://open.spotify.com/track/73bLpwz4AKLY5RhsJ8vtxE"
+    },
+    {
+      "album": {
+        "name": "Four Tales Of Terror: unabridged",
+        "url": "https://open.spotify.com/album/58Q81ASocn1wnbaebQME9P"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poe",
+          "url": "https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0"
+        },
+        {
+          "name": "William Dufris",
+          "url": "https://open.spotify.com/artist/2fjWS81VAhiUdrKPtAlWaU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527800,
+      "name": "The Raven",
+      "url": "https://open.spotify.com/track/0A4FpU40H9T3q6B7WpS3De"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2212621,
+      "name": "The Rocking-Horse Winner by D. H. Lawrence",
+      "url": "https://open.spotify.com/track/4dNQu0L0SE3YYfjNtOlRyd"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1764728,
+      "name": "The Rose Garden",
+      "url": "https://open.spotify.com/track/6U5EwddPtZjzrGP5xg1awf"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1488093,
+      "name": "The Shadow Over Innsmouth - Part 1",
+      "url": "https://open.spotify.com/track/6StAn4OjXECTfy2CDj7otk"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2127413,
+      "name": "The Shadow Over Innsmouth - Part 2",
+      "url": "https://open.spotify.com/track/3Nwey4lWsaIxr72H0TPVmi"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2323093,
+      "name": "The Shadow Over Innsmouth - Part 3",
+      "url": "https://open.spotify.com/track/4kHLqALcypVhWRICr2FFiR"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1234906,
+      "name": "The Shadow Over Innsmouth - Part 4",
+      "url": "https://open.spotify.com/track/3ZpG6W1eBXFPZfIJu7lLJ8"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2008187,
+      "name": "The Shadow Over Innsmouth - Part 4 - Continued",
+      "url": "https://open.spotify.com/track/49XNFYHkSwY6Q1e7RltflM"
+    },
+    {
+      "album": {
+        "name": "The Shadow Over Innsmouth",
+        "url": "https://open.spotify.com/album/0Iqz6YDNGMWvibHBTtIxlJ"
+      },
+      "artists": [
+        {
+          "name": "Phil Reynolds",
+          "url": "https://open.spotify.com/artist/3NBrt8JfhJ7ucWdqrsxQbU"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1087213,
+      "name": "The Shadow Over Innsmouth - Part 5",
+      "url": "https://open.spotify.com/track/7hFO2GCSfozwxK7siFXoay"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 533013,
+      "name": "The Signal Man (Charles Dickens)",
+      "url": "https://open.spotify.com/track/3Fhsqd2uRytHcxDAUKFvSr"
+    },
+    {
+      "album": {
+        "name": "Scary Halloween Stories",
+        "url": "https://open.spotify.com/album/0Ey9T9EiJDQXhXUO7sTgvT"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533013,
+      "name": "The Signal Man by Charles Dickens",
+      "url": "https://open.spotify.com/track/58AdLUcpX8BhorUDHx8bsk"
+    },
+    {
+      "album": {
+        "name": "Charles Dickens: Ghost Stories",
+        "url": "https://open.spotify.com/album/1nnUzryAy43ANw8plXvxSE"
+      },
+      "artists": [
+        {
+          "name": "Emlyn Williams",
+          "url": "https://open.spotify.com/artist/6diP7aANttBUIeaViyCdQj"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1020470,
+      "name": "The Signalman",
+      "url": "https://open.spotify.com/track/18RIZtCKUw7XEmLD9OHqon"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Emma Topping",
+          "url": "https://open.spotify.com/artist/3s7FQVBFjzA2tABAaqPiYe"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 822618,
+      "name": "The Singing Lesson by Katherine Mansfield",
+      "url": "https://open.spotify.com/track/6bhc8HszvQKaxwThu7uszE"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210285,
+      "name": "The Son of Frankenstein",
+      "url": "https://open.spotify.com/track/52TxYK8q4H5WLHBMcuBdMc"
+    },
+    {
+      "album": {
+        "name": "The Halloween Poetry Collection",
+        "url": "https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 558736,
+      "name": "The Sorcerer's Apprentice By Johann Wolfgang Von Goethe",
+      "url": "https://open.spotify.com/track/3BAVEMVNxsAUHZhHbCGLF5"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2727572,
+      "name": "The Stalls of Barchester Cathedral",
+      "url": "https://open.spotify.com/track/6YrT1CADIdzN0ENpSohEcq"
+    },
+    {
+      "album": {
+        "name": "The Best Of The Radio Years",
+        "url": "https://open.spotify.com/album/6cHAhaiHDH4eHBGzIHcF0z"
+      },
+      "artists": [
+        {
+          "name": "Edgar Allan Poe",
+          "url": "https://open.spotify.com/artist/6pcPyOpEwaoP9q7wOjqHx0"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1602946,
+      "name": "The Tell-Tale Heart (1941)",
+      "url": "https://open.spotify.com/track/1saLjH00zFO8hR3REzaaPB"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1825797,
+      "name": "The Three Strangers By Thomas Hardy - Part One",
+      "url": "https://open.spotify.com/track/2YQmiCYGiyDwChzbeTRwIQ"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1611769,
+      "name": "The Three Strangers By Thomas Hardy - Part Two",
+      "url": "https://open.spotify.com/track/5DsLlOOaEGnziPFCPFnYVg"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1483858,
+      "name": "The Tractate Middoth - Part One",
+      "url": "https://open.spotify.com/track/4pTYWPCZt8T4VgG4HhYT9U"
+    },
+    {
+      "album": {
+        "name": "More Ghost Stories by M. R. James",
+        "url": "https://open.spotify.com/album/683Quyiy0FdCtk42SikEGd"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1217019,
+      "name": "The Tractate Middoth - Part Two",
+      "url": "https://open.spotify.com/track/2xKohJBLNOUiDwYewkB0M2"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1616933,
+      "name": "The Travellers Story of a Terribly Strange Bed By Wilkie Collins - Part One",
+      "url": "https://open.spotify.com/track/2fA4qVvUH2EzGybRXURUMp"
+    },
+    {
+      "album": {
+        "name": "Chilling Horror Stories - Volume 2",
+        "url": "https://open.spotify.com/album/7fJ88vZBZIKZ6gzQ1mV3zW"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1397555,
+      "name": "The Travellers Story of a Terribly Strange Bed By Wilkie Collins - Part Two",
+      "url": "https://open.spotify.com/track/2DSnMNKStpKjBEhOgB9ATl"
+    },
+    {
+      "album": {
+        "name": "Ghost Stories of an Antiquary by M. R. James",
+        "url": "https://open.spotify.com/album/4ptic7vkc9JtTJOcWtEEfq"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3238000,
+      "name": "The Treasure of Abbot Thomas",
+      "url": "https://open.spotify.com/track/7iUyVOCS7pWYpfFbZHUI1f"
+    },
+    {
+      "album": {
+        "name": "Charles Dickens: Ghost Stories",
+        "url": "https://open.spotify.com/album/1nnUzryAy43ANw8plXvxSE"
+      },
+      "artists": [
+        {
+          "name": "Weird Circle",
+          "url": "https://open.spotify.com/artist/16sqmJDV6N0r81SiaJzWlL"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1441401,
+      "name": "The Trial for Murder",
+      "url": "https://open.spotify.com/track/1X0P2ImiC4N0CL6POuCNd7"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157164,
+      "name": "The Vampiress By Lord Lytton",
+      "url": "https://open.spotify.com/track/6etjGV2lTLNtFIRSC98cB8"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57562,
+      "name": "The Vampyre By Lord Byron",
+      "url": "https://open.spotify.com/track/3irbPc3ZUm7AquUYiPzhgO"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Gideon Wagner",
+          "url": "https://open.spotify.com/artist/4pSztHQeYcvamhq97bmaOD"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97564,
+      "name": "The Witch Of Atlas By Percy Bysshe Shelley",
+      "url": "https://open.spotify.com/track/4RPIIrxXZtL6PrurjZDCiB"
+    },
+    {
+      "album": {
+        "name": "An Evening With Boris Karloff and His Friends",
+        "url": "https://open.spotify.com/album/3CbqxcM7oVtO7oMZS0SYrY"
+      },
+      "artists": [
+        {
+          "name": "Boris Karloff",
+          "url": "https://open.spotify.com/artist/1W9sjfsJp3TqWFgvScMZdG"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124421,
+      "name": "The Wolf Man",
+      "url": "https://open.spotify.com/track/4rInrqnPOwCyz7KtSKlinC"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2011555,
+      "name": "To Build a Fire by Jack London - Part One",
+      "url": "https://open.spotify.com/track/1Qmh1cDvvxTuY39VUeNE0m"
+    },
+    {
+      "album": {
+        "name": "Short Stories Collection",
+        "url": "https://open.spotify.com/album/4JjamBPGNnbY3ZK527KKnr"
+      },
+      "artists": [
+        {
+          "name": "Bart Wolffe",
+          "url": "https://open.spotify.com/artist/7tP8iG479D2GhVmZ8jKjSk"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 931000,
+      "name": "To Build a Fire by Jack London - Part Two",
+      "url": "https://open.spotify.com/track/40U9MuNTuKRhTKefuicOVw"
+    },
+    {
+      "album": {
+        "name": "Halloween Poems - Volume 1",
+        "url": "https://open.spotify.com/album/3W78ACpEh6bEVPJVvmShN2"
+      },
+      "artists": [
+        {
+          "name": "Ghizela Rowe",
+          "url": "https://open.spotify.com/artist/7CqQscIWxpvzFNI3TtaDHJ"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34272,
+      "name": "To Mock You Hollow By Daniel Sheehan",
+      "url": "https://open.spotify.com/track/59aTWX6yJQ6sSjAJfvOeYR"
+    },
+    {
+      "album": {
+        "name": "War of the Worlds (Classic Radio Theatre Production)",
+        "url": "https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J"
+      },
+      "artists": [
+        {
+          "name": "H.G. Wells",
+          "url": "https://open.spotify.com/artist/2rvJXYj8Y9cQL86CEUb5zO"
+        },
+        {
+          "name": "Orson Welles",
+          "url": "https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448835,
+      "name": "War of the Worlds - H G Wells Meets Orson Welles - Classic Radio Theatre Production",
+      "url": "https://open.spotify.com/track/2MxzQl2a6pgLRx3qK6anPv"
+    },
+    {
+      "album": {
+        "name": "War of the Worlds (Classic Radio Theatre Production)",
+        "url": "https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J"
+      },
+      "artists": [
+        {
+          "name": "H.G. Wells",
+          "url": "https://open.spotify.com/artist/2rvJXYj8Y9cQL86CEUb5zO"
+        },
+        {
+          "name": "Orson Welles",
+          "url": "https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1074259,
+      "name": "War of the Worlds - Part 1 - Classic Radio Theatre Production",
+      "url": "https://open.spotify.com/track/0VNSIgnavge5E0FrxRiZ8c"
+    },
+    {
+      "album": {
+        "name": "War of the Worlds (Classic Radio Theatre Production)",
+        "url": "https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J"
+      },
+      "artists": [
+        {
+          "name": "H.G. Wells",
+          "url": "https://open.spotify.com/artist/2rvJXYj8Y9cQL86CEUb5zO"
+        },
+        {
+          "name": "Orson Welles",
+          "url": "https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 795350,
+      "name": "War of the Worlds - Part 2 - Classic Radio Theatre Production",
+      "url": "https://open.spotify.com/track/5zXEzdSypoEH8EDjcVLPzQ"
+    },
+    {
+      "album": {
+        "name": "War of the Worlds (Classic Radio Theatre Production)",
+        "url": "https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J"
+      },
+      "artists": [
+        {
+          "name": "H.G. Wells",
+          "url": "https://open.spotify.com/artist/2rvJXYj8Y9cQL86CEUb5zO"
+        },
+        {
+          "name": "Orson Welles",
+          "url": "https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 852140,
+      "name": "War of the Worlds - Part 3 - Classic Radio Theatre Production",
+      "url": "https://open.spotify.com/track/4wOtN9vbLKst0NtnTcE5Ws"
+    },
+    {
+      "album": {
+        "name": "War of the Worlds (Classic Radio Theatre Production)",
+        "url": "https://open.spotify.com/album/4F6m0aXlJL4q43EmCmie3J"
+      },
+      "artists": [
+        {
+          "name": "H.G. Wells",
+          "url": "https://open.spotify.com/artist/2rvJXYj8Y9cQL86CEUb5zO"
+        },
+        {
+          "name": "Orson Welles",
+          "url": "https://open.spotify.com/artist/3OMNuqaefKpUsINmjY7Hlq"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 730984,
+      "name": "War of the Worlds - Part 4 - Classic Radio Theatre Production",
+      "url": "https://open.spotify.com/track/3ygLO0DHlOkGuYlfE7pcsl"
+    },
+    {
+      "album": {
+        "name": "Classic Horror Stories",
+        "url": "https://open.spotify.com/album/2M9dW14LX9LtDqpcXxsSrD"
+      },
+      "artists": [
+        {
+          "name": "Nelson Olmsted",
+          "url": "https://open.spotify.com/artist/3qTB5caIpkSUtGFge9HB7Q"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495706,
+      "name": "What Was It? (Fitz-James O'Brien)",
+      "url": "https://open.spotify.com/track/14yOLTMLX7vDCNlhWRamyT"
+    },
+    {
+      "album": {
+        "name": "The Halloween Poetry Collection",
+        "url": "https://open.spotify.com/album/1yMhVi0QBWc6ZmT0DCJCz9"
+      },
+      "artists": [
+        {
+          "name": "A Marlowe Society",
+          "url": "https://open.spotify.com/artist/1MK3NE6aTu3A8YPSnhg92J"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158267,
+      "name": "When Shall We Three Meet Again By William Shakespeare",
+      "url": "https://open.spotify.com/track/6xIYr8XA0bAnYrGQm57Xhq"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0RGhgSIsFBm"
 }

@@ -1,6 +1,6 @@
 {
   "description": "A place for hyphenated Americans, creating our own identity & connecting to our roots. Cover: Ivan Cornejo",
-  "num_followers": 6723,
+  "num_followers": 6785,
   "original_name": "Hyphenated",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "MI HOGAR (with maye)",
+        "url": "https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 175637,
+      "name": "MI HOGAR (with maye)",
+      "url": "https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "\u00bfqui\u00e9n dice?",
         "url": "https://open.spotify.com/album/4Rv795jWYRd8g5rvBdIOBN"
       },
@@ -319,6 +339,22 @@
       "duration_ms": 213647,
       "name": "\u00bfqui\u00e9n dice?",
       "url": "https://open.spotify.com/track/1yukmg1ga6TEI8i9qrtgMZ"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -343,26 +379,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "MI HOGAR (with maye)",
-        "url": "https://open.spotify.com/album/4zHI5dxhOPrGu0be8WkAhH"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 175637,
-      "name": "MI HOGAR (with maye)",
-      "url": "https://open.spotify.com/track/0QOKvEPOPr27mN2j9IRaJB"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Been That",
         "url": "https://open.spotify.com/album/0IqzERcAhNU3TqoxnT1Lj5"
       },
@@ -379,18 +395,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Louie Thesinger",
+          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
         }
       ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
+      "duration_ms": 166842,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -431,6 +451,22 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "A Mi Cama",
+        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        }
+      ],
+      "duration_ms": 154906,
+      "name": "A Mi Cama",
+      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Cu\u00e9ntame",
         "url": "https://open.spotify.com/album/1YElPMls8uTayRx3ubFRaS"
       },
@@ -451,38 +487,18 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Your Love Is Gold",
-        "url": "https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1"
+        "name": "Esperando",
+        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
       },
       "artists": [
         {
-          "name": "Baby Bash",
-          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
-        },
-        {
-          "name": "Louie Thesinger",
-          "url": "https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj"
+          "name": "Leanys",
+          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
         }
       ],
-      "duration_ms": 166842,
-      "name": "Your Love Is Gold",
-      "url": "https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "A Mi Cama",
-        "url": "https://open.spotify.com/album/4cXE08JpfNa7O2oSBtr6G6"
-      },
-      "artists": [
-        {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        }
-      ],
-      "duration_ms": 154906,
-      "name": "A Mi Cama",
-      "url": "https://open.spotify.com/track/3QJnb9jAkV48Q0J0sCsFHF"
+      "duration_ms": 141200,
+      "name": "Esperando",
+      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -503,42 +519,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Esperando",
-        "url": "https://open.spotify.com/album/0LalAUtAHroRqJZiF13axO"
-      },
-      "artists": [
-        {
-          "name": "Leanys",
-          "url": "https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V"
-        }
-      ],
-      "duration_ms": 141200,
-      "name": "Esperando",
-      "url": "https://open.spotify.com/track/51qtiFrcp7g6QHFHF59FX4"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Forma de Ser",
-        "url": "https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU"
-      },
-      "artists": [
-        {
-          "name": "Krofon",
-          "url": "https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR"
-        },
-        {
-          "name": "KORDELYA",
-          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
-        }
-      ],
-      "duration_ms": 169301,
-      "name": "Forma de Ser",
-      "url": "https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Si Una Vez",
         "url": "https://open.spotify.com/album/6aW8Fk5hy1LtljeI7EscKM"
       },
@@ -555,22 +535,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "LOBA Vol. I",
-        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 173642,
-      "name": "Tengo Sed",
-      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "Agradecido",
         "url": "https://open.spotify.com/album/58g9KaWSWjKq81CVyIsv9z"
       },
@@ -583,6 +547,22 @@
       "duration_ms": 161408,
       "name": "Agradecido",
       "url": "https://open.spotify.com/track/0ZHiVXwpcteAbqEJmFYBdy"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "LOBA Vol. I",
+        "url": "https://open.spotify.com/album/55D4qx1HrxXt5eD9AciIf2"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 173642,
+      "name": "Tengo Sed",
+      "url": "https://open.spotify.com/track/66UioEE9acy6rYWJ02ruwA"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -623,6 +603,26 @@
       "duration_ms": 179160,
       "name": "NI MUERTA",
       "url": "https://open.spotify.com/track/3e4GF58G6ilRXhqLG4fl64"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Forma de Ser",
+        "url": "https://open.spotify.com/album/5HA8gT8huIiB96MVgBotIU"
+      },
+      "artists": [
+        {
+          "name": "Krofon",
+          "url": "https://open.spotify.com/artist/4Esx64oaFV1013SafhyEpR"
+        },
+        {
+          "name": "KORDELYA",
+          "url": "https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV"
+        }
+      ],
+      "duration_ms": 169301,
+      "name": "Forma de Ser",
+      "url": "https://open.spotify.com/track/7eRwcu9IjN4AmmYb8MKILo"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Si Se Siente",
-        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
       },
       "artists": [
         {
-          "name": "Los Bravos De La H",
-          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+          "name": "Henao",
+          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
         }
       ],
-      "duration_ms": 184965,
-      "name": "Si Se Siente",
-      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
+      "duration_ms": 185017,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -707,38 +707,6 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2RT9PvhlYLEwy8KcO1DtUb"
-      },
-      "artists": [
-        {
-          "name": "selines",
-          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6iNDMmX5d8ZhxXy8klgcMt"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "C'est La Vie",
-        "url": "https://open.spotify.com/album/5sKVdHaUCdYnz3JHTin2N7"
-      },
-      "artists": [
-        {
-          "name": "Henao",
-          "url": "https://open.spotify.com/artist/2tAOr6Bu4b1JDQjRZcMdML"
-        }
-      ],
-      "duration_ms": 185017,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/3tnLzpNisAGDZVmemNcjM5"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
         "name": "mundo dulce",
         "url": "https://open.spotify.com/album/1Vbm9eKF88bWRkPNNz8uC1"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 152755,
       "name": "freak",
       "url": "https://open.spotify.com/track/1sPrKOJyjhFKGJdwaHvzZQ"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Si Se Siente",
+        "url": "https://open.spotify.com/album/2JA2xyMPBjqvJVz9Cdlrl9"
+      },
+      "artists": [
+        {
+          "name": "Los Bravos De La H",
+          "url": "https://open.spotify.com/artist/1ZsgdJmEpCrG7a4fMeiFOr"
+        }
+      ],
+      "duration_ms": 184965,
+      "name": "Si Se Siente",
+      "url": "https://open.spotify.com/track/3pTm05Q4Ba4uawoAK8T6tH"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2RT9PvhlYLEwy8KcO1DtUb"
+      },
+      "artists": [
+        {
+          "name": "selines",
+          "url": "https://open.spotify.com/artist/3kO8EO3svNUQSQW8rDOjAb"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6iNDMmX5d8ZhxXy8klgcMt"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
+        "name": "XO clubeteado",
+        "url": "https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        },
+        {
+          "name": "Heartgaze",
+          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+        }
+      ],
+      "duration_ms": 154630,
+      "name": "XO clubeteado",
+      "url": "https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
         "name": "Ra\u00edces (As\u00ed Se Hace)",
         "url": "https://open.spotify.com/album/1zek5N9ai5ZoXdgFhTVu1d"
       },
@@ -803,22 +823,6 @@
       "duration_ms": 189760,
       "name": "Luces De La Calle",
       "url": "https://open.spotify.com/track/0FpLsbGzRlspvM1Hr0sxCj"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "Is It Me?",
-        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Is It Me?",
-      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -839,22 +843,34 @@
     {
       "added_at": "2023-12-06 20:00:00",
       "album": {
-        "name": "XO clubeteado / NOS SOLTAMOS chiliado",
-        "url": "https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho"
+        "name": "guestlist",
+        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
       },
       "artists": [
         {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        },
-        {
-          "name": "Heartgaze",
-          "url": "https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH"
+          "name": "ARIEL",
+          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
         }
       ],
-      "duration_ms": 154630,
-      "name": "XO clubeteado",
-      "url": "https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB"
+      "duration_ms": 211070,
+      "name": "guestlist",
+      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
+    },
+    {
+      "added_at": "2023-12-06 20:00:00",
+      "album": {
+        "name": "Is It Me?",
+        "url": "https://open.spotify.com/album/1sTKsI00jcbVj6yF6RlzqB"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Is It Me?",
+      "url": "https://open.spotify.com/track/2filuHvc1yFC1zBkejvn5k"
     },
     {
       "added_at": "2023-12-06 20:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 116680,
       "name": "NISSAN",
       "url": "https://open.spotify.com/track/2UpUXtRKh1yaPW3p0UpEo3"
-    },
-    {
-      "added_at": "2023-12-06 20:00:00",
-      "album": {
-        "name": "guestlist",
-        "url": "https://open.spotify.com/album/2of4vbeGS8Fp7ylj6H5tJ9"
-      },
-      "artists": [
-        {
-          "name": "ARIEL",
-          "url": "https://open.spotify.com/artist/0CgwrEiQpSx2oppyHGCSV3"
-        }
-      ],
-      "duration_ms": 211070,
-      "name": "guestlist",
-      "url": "https://open.spotify.com/track/6RoVyGRo2NNIPfL6euEbuz"
     },
     {
       "added_at": "2023-12-06 20:00:00",

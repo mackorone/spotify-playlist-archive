@@ -859,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Abajo la Tarea",
+        "url": "https://open.spotify.com/album/74s1lnDnhjzuDdK3LovTXs"
+      },
+      "artists": [
+        {
+          "name": "Corriendo",
+          "url": "https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141776,
+      "name": "El Sol Es un Holgaz\u00e1n",
+      "url": "https://open.spotify.com/track/5m3QSbDsffb9ROpMlYZsGR"
+    },
+    {
+      "album": {
         "name": "Here comes a new challenger!",
         "url": "https://open.spotify.com/album/5WoJ4WK2WeN4uFB4Sz4NR7"
       },
@@ -2066,7 +2084,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 165093,
       "name": "The Barnacle Beach",
       "url": "https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v"

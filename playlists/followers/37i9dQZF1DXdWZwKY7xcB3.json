@@ -1,735 +1,1287 @@
 {
-  "2021-12-25": 4818,
-  "2021-12-26": 4818,
-  "2021-12-27": 4818,
-  "2021-12-28": 4818,
-  "2021-12-29": 4818,
-  "2021-12-30": 4818,
-  "2021-12-31": 4818,
-  "2022-01-01": 4817,
-  "2022-01-02": 4817,
-  "2022-01-03": 4817,
-  "2022-01-04": 4816,
-  "2022-01-05": 4816,
-  "2022-01-06": 4816,
-  "2022-01-07": 4816,
-  "2022-01-08": 4814,
-  "2022-01-09": 4814,
-  "2022-01-10": 4813,
-  "2022-01-11": 4813,
-  "2022-01-12": 4813,
-  "2022-01-13": 4813,
-  "2022-01-14": 4813,
-  "2022-01-15": 4812,
-  "2022-01-16": 4812,
-  "2022-01-17": 4813,
-  "2022-01-18": 4813,
-  "2022-01-19": 4813,
-  "2022-01-20": 4813,
-  "2022-01-21": 4813,
-  "2022-01-22": 4811,
-  "2022-01-23": 4811,
-  "2022-01-24": 4811,
-  "2022-01-25": 4811,
-  "2022-01-26": 4810,
-  "2022-01-27": 4810,
-  "2022-01-28": 4811,
-  "2022-01-29": 4811,
-  "2022-01-30": 4811,
-  "2022-01-31": 4810,
-  "2022-02-01": 4810,
-  "2022-02-02": 4809,
-  "2022-02-03": 4809,
-  "2022-02-04": 4809,
-  "2022-02-05": 4806,
-  "2022-02-06": 4806,
-  "2022-02-07": 4807,
-  "2022-02-08": 4806,
-  "2022-02-09": 4806,
-  "2022-02-10": 4806,
-  "2022-02-11": 4806,
-  "2022-02-12": 4806,
-  "2022-02-13": 4806,
-  "2022-02-14": 4806,
-  "2022-02-15": 4805,
-  "2022-02-16": 4805,
-  "2022-02-17": 4804,
-  "2022-02-18": 4803,
-  "2022-02-19": 4802,
-  "2022-02-20": 4802,
-  "2022-02-21": 4802,
-  "2022-02-22": 4802,
-  "2022-02-23": 4802,
-  "2022-02-24": 4801,
-  "2022-02-25": 4801,
-  "2022-02-26": 4800,
-  "2022-02-27": 4800,
-  "2022-02-28": 4800,
-  "2022-03-01": 4800,
-  "2022-03-02": 4800,
-  "2022-03-03": 4800,
-  "2022-03-04": 4800,
-  "2022-03-05": 4800,
-  "2022-03-06": 4800,
-  "2022-03-07": 4800,
-  "2022-03-08": 4799,
-  "2022-03-09": 4799,
-  "2022-03-10": 4799,
-  "2022-03-11": 4799,
-  "2022-03-12": 4799,
-  "2022-03-13": 4799,
-  "2022-03-14": 4799,
-  "2022-03-15": 4799,
-  "2022-03-16": 4799,
-  "2022-03-17": 4799,
-  "2022-03-18": 4799,
-  "2022-03-19": 4799,
-  "2022-03-20": 4799,
-  "2022-03-21": 4800,
-  "2022-03-22": 4800,
-  "2022-03-23": 4800,
-  "2022-03-24": 4800,
-  "2022-03-25": 4800,
-  "2022-03-26": 4800,
-  "2022-03-27": 4800,
-  "2022-03-28": 4800,
-  "2022-03-30": 4799,
-  "2022-03-31": 4799,
-  "2022-04-01": 4799,
-  "2022-04-02": 4799,
-  "2022-04-03": 4799,
-  "2022-04-04": 4799,
-  "2022-04-05": 4799,
-  "2022-04-06": 4799,
-  "2022-04-07": 4799,
-  "2022-04-08": 4799,
-  "2022-04-09": 4799,
-  "2022-04-10": 4799,
-  "2022-04-11": 4799,
-  "2022-04-12": 4799,
-  "2022-04-13": 4799,
-  "2022-04-14": 4799,
-  "2022-04-15": 4799,
-  "2022-04-16": 4799,
-  "2022-04-17": 4799,
-  "2022-04-18": 4799,
-  "2022-04-19": 4799,
-  "2022-04-20": 4799,
-  "2022-04-21": 4799,
-  "2022-04-22": 4799,
-  "2022-04-23": 4799,
-  "2022-04-24": 4799,
-  "2022-04-25": 4799,
-  "2022-04-26": 4799,
-  "2022-04-27": 4799,
-  "2022-04-28": 4799,
-  "2022-04-29": 4799,
-  "2022-04-30": 4799,
-  "2022-05-01": 4799,
-  "2022-05-02": 4799,
-  "2022-05-03": 4799,
-  "2022-05-04": 4799,
-  "2022-05-05": 4799,
-  "2022-05-06": 4799,
-  "2022-05-07": 4799,
-  "2022-05-08": 4799,
-  "2022-05-09": 4799,
-  "2022-05-10": 4799,
-  "2022-05-11": 4799,
-  "2022-05-12": 4799,
-  "2022-05-13": 4799,
-  "2022-05-14": 4799,
-  "2022-05-15": 4799,
-  "2022-05-16": 4799,
-  "2022-05-17": 4799,
-  "2022-05-18": 4799,
-  "2022-05-19": 4799,
-  "2022-05-20": 4799,
-  "2022-05-21": 4799,
-  "2022-05-22": 4799,
-  "2022-05-23": 4799,
-  "2022-05-24": 4799,
-  "2022-05-25": 4799,
-  "2022-05-26": 4799,
-  "2022-05-27": 4799,
-  "2022-05-28": 4799,
-  "2022-05-29": 4799,
-  "2022-05-30": 4799,
-  "2022-05-31": 4799,
-  "2022-06-01": 4799,
-  "2022-06-02": 4799,
-  "2022-06-03": 4799,
-  "2022-06-04": 4799,
-  "2022-06-05": 4799,
-  "2022-06-06": 4799,
-  "2022-06-07": 4799,
-  "2022-06-08": 4799,
-  "2022-06-09": 4799,
-  "2022-06-10": 4799,
-  "2022-06-11": 4799,
-  "2022-06-12": 4799,
-  "2022-06-13": 4799,
-  "2022-06-14": 4799,
-  "2022-06-15": 4799,
-  "2022-06-16": 4799,
-  "2022-06-17": 4799,
-  "2022-06-18": 4799,
-  "2022-06-19": 4799,
-  "2022-06-20": 4799,
-  "2022-06-21": 4799,
-  "2022-06-22": 4799,
-  "2022-06-23": 4799,
-  "2022-06-24": 4799,
-  "2022-06-25": 4799,
-  "2022-06-26": 4799,
-  "2022-06-27": 4799,
-  "2022-06-28": 4799,
-  "2022-06-29": 4799,
-  "2022-06-30": 4799,
-  "2022-07-01": 4799,
-  "2022-07-02": 4799,
-  "2022-07-03": 4799,
-  "2022-07-04": 4799,
-  "2022-07-05": 4799,
-  "2022-07-06": 4799,
-  "2022-07-07": 4799,
-  "2022-07-08": 4799,
-  "2022-07-09": 4799,
-  "2022-07-10": 4799,
-  "2022-07-11": 4799,
-  "2022-07-12": 4799,
-  "2022-07-13": 4799,
-  "2022-07-14": 4799,
-  "2022-07-15": 4799,
-  "2022-07-16": 4799,
-  "2022-07-17": 4799,
-  "2022-07-18": 4799,
-  "2022-07-19": 4799,
-  "2022-07-20": 4799,
-  "2022-07-21": 4799,
-  "2022-07-22": 4799,
-  "2022-07-23": 4799,
-  "2022-07-24": 4799,
-  "2022-07-25": 4799,
-  "2022-07-26": 4799,
-  "2022-07-27": 4799,
-  "2022-07-28": 4799,
-  "2022-07-29": 4799,
-  "2022-07-30": 4799,
-  "2022-07-31": 4799,
-  "2022-08-01": 4799,
-  "2022-08-02": 4799,
-  "2022-08-03": 4799,
-  "2022-08-04": 4799,
-  "2022-08-05": 4799,
-  "2022-08-06": 4799,
-  "2022-08-07": 4799,
-  "2022-08-08": 4799,
-  "2022-08-09": 4799,
-  "2022-08-10": 4799,
-  "2022-08-11": 4799,
-  "2022-08-12": 4799,
-  "2022-08-13": 4799,
-  "2022-08-14": 4799,
-  "2022-08-15": 4799,
-  "2022-08-16": 4799,
-  "2022-08-17": 4799,
-  "2022-08-18": 4799,
-  "2022-08-19": 4799,
-  "2022-08-20": 4799,
-  "2022-08-21": 4799,
-  "2022-08-22": 4799,
-  "2022-08-23": 4799,
-  "2022-08-24": 4799,
-  "2022-08-25": 4799,
-  "2022-08-26": 4799,
-  "2022-08-27": 4799,
-  "2022-08-28": 4799,
-  "2022-08-29": 4799,
-  "2022-08-30": 4799,
-  "2022-08-31": 4799,
-  "2022-09-01": 4799,
-  "2022-09-02": 4799,
-  "2022-09-03": 4799,
-  "2022-09-04": 4799,
-  "2022-09-05": 4799,
-  "2022-09-06": 4799,
-  "2022-09-07": 4799,
-  "2022-09-09": 4799,
-  "2022-09-10": 4799,
-  "2022-09-11": 4799,
-  "2022-09-12": 4799,
-  "2022-09-13": 4799,
-  "2022-09-15": 4799,
-  "2022-09-16": 4799,
-  "2022-09-17": 4799,
-  "2022-09-18": 4799,
-  "2022-09-19": 4799,
-  "2022-09-20": 4799,
-  "2022-09-21": 4799,
-  "2022-09-22": 4799,
-  "2022-09-23": 4799,
-  "2022-09-24": 4799,
-  "2022-09-25": 4799,
-  "2022-09-26": 4799,
-  "2022-09-27": 4799,
-  "2022-09-28": 4799,
-  "2022-09-29": 4799,
-  "2022-09-30": 4799,
-  "2022-10-01": 4799,
-  "2022-10-02": 4799,
-  "2022-10-03": 4799,
-  "2022-10-04": 4799,
-  "2022-10-05": 4799,
-  "2022-10-06": 4799,
-  "2022-10-07": 4799,
-  "2022-10-08": 4799,
-  "2022-10-09": 4799,
-  "2022-10-10": 4799,
-  "2022-10-11": 4799,
-  "2022-10-12": 4799,
-  "2022-10-13": 4799,
-  "2022-10-14": 4799,
-  "2022-10-15": 4799,
-  "2022-10-16": 4799,
-  "2022-10-17": 4799,
-  "2022-10-18": 4799,
-  "2022-10-19": 4799,
-  "2022-10-20": 4799,
-  "2022-10-21": 4799,
-  "2022-10-22": 4799,
-  "2022-10-23": 4799,
-  "2022-10-24": 4799,
-  "2022-10-25": 4799,
-  "2022-10-26": 4799,
-  "2022-10-27": 4799,
-  "2022-10-28": 4799,
-  "2022-10-29": 4799,
-  "2022-10-30": 4799,
-  "2022-10-31": 4799,
-  "2022-11-01": 4799,
-  "2022-11-02": 4799,
-  "2022-11-03": 4799,
-  "2022-11-04": 4799,
-  "2022-11-05": 4799,
-  "2022-11-06": 4799,
-  "2022-11-07": 4799,
-  "2022-11-08": 4799,
-  "2022-11-09": 4799,
-  "2022-11-10": 4799,
-  "2022-11-11": 4799,
-  "2022-11-12": 4799,
-  "2022-11-13": 4799,
-  "2022-11-14": 4799,
-  "2022-11-15": 4799,
-  "2022-11-16": 4799,
-  "2022-11-17": 4799,
-  "2022-11-18": 4799,
-  "2022-11-19": 4799,
-  "2022-11-20": 4799,
-  "2022-11-21": 4799,
-  "2022-11-22": 4799,
-  "2022-11-23": 4799,
-  "2022-11-24": 4799,
-  "2022-11-25": 4799,
-  "2022-11-26": 4799,
-  "2022-11-27": 4799,
-  "2022-11-28": 4799,
-  "2022-11-29": 4799,
-  "2022-11-30": 4799,
-  "2022-12-01": 4799,
-  "2022-12-02": 4799,
-  "2022-12-03": 4799,
-  "2022-12-04": 4799,
-  "2022-12-05": 4799,
-  "2022-12-06": 4799,
-  "2022-12-07": 4799,
-  "2022-12-08": 4799,
-  "2022-12-09": 4799,
-  "2022-12-10": 4799,
-  "2022-12-11": 4799,
-  "2022-12-12": 4799,
-  "2022-12-13": 4799,
-  "2022-12-14": 4799,
-  "2022-12-15": 4799,
-  "2022-12-16": 4799,
-  "2022-12-17": 4799,
-  "2022-12-18": 4799,
-  "2022-12-19": 4799,
-  "2022-12-20": 4799,
-  "2022-12-21": 4799,
-  "2022-12-22": 4799,
-  "2022-12-24": 4799,
-  "2022-12-25": 4799,
-  "2022-12-26": 4799,
-  "2022-12-27": 4799,
-  "2022-12-28": 4799,
-  "2022-12-29": 4799,
-  "2022-12-30": 4799,
-  "2022-12-31": 4799,
-  "2023-01-01": 4799,
-  "2023-01-02": 4799,
-  "2023-01-03": 4799,
-  "2023-01-04": 4799,
-  "2023-01-05": 4799,
-  "2023-01-06": 4799,
-  "2023-01-07": 4799,
-  "2023-01-08": 4799,
-  "2023-01-09": 4799,
-  "2023-01-10": 4799,
-  "2023-01-11": 4799,
-  "2023-01-12": 4799,
-  "2023-01-13": 4799,
-  "2023-01-14": 4799,
-  "2023-01-15": 4799,
-  "2023-01-16": 4799,
-  "2023-01-17": 4799,
-  "2023-01-18": 4799,
-  "2023-01-19": 4799,
-  "2023-01-20": 4799,
-  "2023-01-21": 4799,
-  "2023-01-22": 4799,
-  "2023-01-23": 4799,
-  "2023-01-24": 4799,
-  "2023-01-25": 4799,
-  "2023-01-26": 4799,
-  "2023-01-27": 4799,
-  "2023-01-28": 4799,
-  "2023-01-29": 4799,
-  "2023-01-30": 4799,
-  "2023-01-31": 4799,
-  "2023-02-01": 4799,
-  "2023-02-02": 4799,
-  "2023-02-03": 4799,
-  "2023-02-04": 4799,
-  "2023-02-05": 4799,
-  "2023-02-06": 4799,
-  "2023-02-07": 4799,
-  "2023-02-08": 4799,
-  "2023-02-09": 4799,
-  "2023-02-10": 4799,
-  "2023-02-11": 4799,
-  "2023-02-12": 4799,
-  "2023-02-13": 4799,
-  "2023-02-14": 4799,
-  "2023-02-15": 4799,
-  "2023-02-16": 4799,
-  "2023-02-17": 4799,
-  "2023-02-18": 4799,
-  "2023-02-19": 4799,
-  "2023-02-20": 4799,
-  "2023-02-21": 4799,
-  "2023-02-22": 4799,
-  "2023-02-23": 4799,
-  "2023-02-24": 4799,
-  "2023-02-25": 4799,
-  "2023-02-26": 4799,
-  "2023-02-27": 4799,
-  "2023-02-28": 4799,
-  "2023-03-01": 4799,
-  "2023-03-02": 4799,
-  "2023-03-03": 4799,
-  "2023-03-04": 4799,
-  "2023-03-05": 4799,
-  "2023-03-06": 4799,
-  "2023-03-07": 4799,
-  "2023-03-08": 4799,
-  "2023-03-09": 4799,
-  "2023-03-10": 4799,
-  "2023-03-11": 4799,
-  "2023-03-12": 4799,
-  "2023-03-13": 4799,
-  "2023-03-14": 4799,
-  "2023-03-15": 4799,
-  "2023-03-16": 4799,
-  "2023-03-17": 4799,
-  "2023-03-18": 4799,
-  "2023-03-19": 4799,
-  "2023-03-20": 4799,
-  "2023-03-21": 4799,
-  "2023-03-22": 4799,
-  "2023-03-23": 4799,
-  "2023-03-24": 4799,
-  "2023-03-25": 4799,
-  "2023-03-26": 4799,
-  "2023-03-27": 4799,
-  "2023-03-28": 4799,
-  "2023-03-29": 4799,
-  "2023-03-30": 4799,
-  "2023-03-31": 4799,
-  "2023-04-01": 4799,
-  "2023-04-02": 4799,
-  "2023-04-03": 4799,
-  "2023-04-04": 4799,
-  "2023-04-05": 4799,
-  "2023-04-06": 4799,
-  "2023-04-07": 4799,
-  "2023-04-09": 4799,
-  "2023-04-10": 4799,
-  "2023-04-11": 4799,
-  "2023-04-12": 4799,
-  "2023-04-13": 4799,
-  "2023-04-14": 4799,
-  "2023-04-15": 4799,
-  "2023-04-16": 4799,
-  "2023-04-17": 4799,
-  "2023-04-18": 4799,
-  "2023-04-19": 4799,
-  "2023-04-20": 4799,
-  "2023-04-21": 4799,
-  "2023-04-22": 4799,
-  "2023-04-23": 4799,
-  "2023-04-24": 4799,
-  "2023-04-25": 4799,
-  "2023-04-26": 4799,
-  "2023-04-27": 4799,
-  "2023-04-28": 4799,
-  "2023-04-29": 4799,
-  "2023-04-30": 4799,
-  "2023-05-01": 4799,
-  "2023-05-02": 4799,
-  "2023-05-03": 4799,
-  "2023-05-04": 4799,
-  "2023-05-05": 4799,
-  "2023-05-06": 4799,
-  "2023-05-07": 4799,
-  "2023-05-08": 4799,
-  "2023-05-09": 4799,
-  "2023-05-10": 4799,
-  "2023-05-11": 4799,
-  "2023-05-12": 4799,
-  "2023-05-13": 4799,
-  "2023-05-14": 4799,
-  "2023-05-15": 4799,
-  "2023-05-16": 4799,
-  "2023-05-17": 4799,
-  "2023-05-18": 4799,
-  "2023-05-19": 4799,
-  "2023-05-20": 4799,
-  "2023-05-21": 4799,
-  "2023-05-22": 4799,
-  "2023-05-23": 4799,
-  "2023-05-24": 4799,
-  "2023-05-25": 4799,
-  "2023-05-26": 4799,
-  "2023-05-27": 4799,
-  "2023-05-28": 4799,
-  "2023-05-29": 4799,
-  "2023-05-30": 4799,
-  "2023-05-31": 4799,
-  "2023-06-01": 4799,
-  "2023-06-02": 4799,
-  "2023-06-03": 4799,
-  "2023-06-04": 4799,
-  "2023-06-05": 4799,
-  "2023-06-06": 4799,
-  "2023-06-07": 4799,
-  "2023-06-08": 4799,
-  "2023-06-09": 4799,
-  "2023-06-10": 4799,
-  "2023-06-11": 4799,
-  "2023-06-12": 4799,
-  "2023-06-13": 4799,
-  "2023-06-14": 4799,
-  "2023-06-15": 4799,
-  "2023-06-16": 4799,
-  "2023-06-17": 4799,
-  "2023-06-18": 4799,
-  "2023-06-19": 4799,
-  "2023-06-20": 4799,
-  "2023-06-21": 4799,
-  "2023-06-22": 4799,
-  "2023-06-23": 4799,
-  "2023-06-24": 4799,
-  "2023-06-25": 4799,
-  "2023-06-26": 4799,
-  "2023-06-27": 4799,
-  "2023-06-28": 4799,
-  "2023-06-29": 4799,
-  "2023-06-30": 4799,
-  "2023-07-01": 4799,
-  "2023-07-02": 4799,
-  "2023-07-03": 4799,
-  "2023-07-04": 4799,
-  "2023-07-05": 4799,
-  "2023-07-06": 4799,
-  "2023-07-07": 4799,
-  "2023-07-08": 4799,
-  "2023-07-09": 4799,
-  "2023-07-10": 4799,
-  "2023-07-11": 4799,
-  "2023-07-12": 4799,
-  "2023-07-13": 4799,
-  "2023-07-14": 4799,
-  "2023-07-15": 4799,
-  "2023-07-16": 4799,
-  "2023-07-17": 4799,
-  "2023-07-18": 4799,
-  "2023-07-19": 4799,
-  "2023-07-20": 4799,
-  "2023-07-21": 4799,
-  "2023-07-22": 4799,
-  "2023-07-23": 4799,
-  "2023-07-24": 4799,
-  "2023-07-25": 4799,
-  "2023-07-26": 4799,
-  "2023-07-27": 4799,
-  "2023-07-28": 4799,
-  "2023-07-29": 4799,
-  "2023-07-30": 4799,
-  "2023-07-31": 4799,
-  "2023-08-01": 4799,
-  "2023-08-02": 4799,
-  "2023-08-03": 4799,
-  "2023-08-04": 4799,
-  "2023-08-05": 4799,
-  "2023-08-06": 4799,
-  "2023-08-07": 4799,
-  "2023-08-08": 4799,
-  "2023-08-09": 4799,
-  "2023-08-10": 4799,
-  "2023-08-11": 4799,
-  "2023-08-12": 4799,
-  "2023-08-13": 4799,
-  "2023-08-14": 4799,
-  "2023-08-15": 4799,
-  "2023-08-16": 4799,
-  "2023-08-17": 4799,
-  "2023-08-18": 4799,
-  "2023-08-19": 4799,
-  "2023-08-20": 4799,
-  "2023-08-21": 4799,
-  "2023-08-22": 4799,
-  "2023-08-23": 4799,
-  "2023-08-24": 4799,
-  "2023-08-25": 4799,
-  "2023-08-26": 4799,
-  "2023-08-27": 4799,
-  "2023-08-28": 4799,
-  "2023-08-29": 4799,
-  "2023-08-30": 4799,
-  "2023-08-31": 4799,
-  "2023-09-01": 4799,
-  "2023-09-02": 4799,
-  "2023-09-03": 4799,
-  "2023-09-04": 4799,
-  "2023-09-05": 4799,
-  "2023-09-06": 4799,
-  "2023-09-07": 4799,
-  "2023-09-08": 4799,
-  "2023-09-09": 4799,
-  "2023-09-10": 4799,
-  "2023-09-11": 4799,
-  "2023-09-12": 4799,
-  "2023-09-13": 4799,
-  "2023-09-14": 4799,
-  "2023-09-15": 4799,
-  "2023-09-16": 4799,
-  "2023-09-17": 4799,
-  "2023-09-18": 4799,
-  "2023-09-19": 4799,
-  "2023-09-20": 4799,
-  "2023-09-21": 4799,
-  "2023-09-22": 4799,
-  "2023-09-23": 4799,
-  "2023-09-24": 4799,
-  "2023-09-25": 4799,
-  "2023-09-26": 4799,
-  "2023-09-27": 4799,
-  "2023-09-28": 4799,
-  "2023-09-29": 4799,
-  "2023-09-30": 4799,
-  "2023-10-01": 4799,
-  "2023-10-02": 4799,
-  "2023-10-03": 4799,
-  "2023-10-04": 4799,
-  "2023-10-05": 4799,
-  "2023-10-06": 4799,
-  "2023-10-07": 4799,
-  "2023-10-08": 4799,
-  "2023-10-09": 4799,
-  "2023-10-10": 4799,
-  "2023-10-11": 4799,
-  "2023-10-12": 4799,
-  "2023-10-13": 4799,
-  "2023-10-14": 4799,
-  "2023-10-15": 4799,
-  "2023-10-16": 4799,
-  "2023-10-17": 4799,
-  "2023-10-18": 4799,
-  "2023-10-19": 4799,
-  "2023-10-20": 4799,
-  "2023-10-21": 4799,
-  "2023-10-22": 4799,
-  "2023-10-23": 4799,
-  "2023-10-24": 4799,
-  "2023-10-25": 4799,
-  "2023-10-26": 4799,
-  "2023-10-27": 4799,
-  "2023-10-28": 4799,
-  "2023-10-29": 4799,
-  "2023-10-30": 4799,
-  "2023-10-31": 4799,
-  "2023-11-01": 4799,
-  "2023-11-02": 4799,
-  "2023-11-03": 4799,
-  "2023-11-04": 4799,
-  "2023-11-05": 4799,
-  "2023-11-06": 4799,
-  "2023-11-07": 4799,
-  "2023-11-08": 4799,
-  "2023-11-09": 4799,
-  "2023-11-10": 4799,
-  "2023-11-11": 4799,
-  "2023-11-12": 4799,
-  "2023-11-13": 4799,
-  "2023-11-14": 4799,
-  "2023-11-15": 4799,
-  "2023-11-16": 4799,
-  "2023-11-17": 4799,
-  "2023-11-18": 4799,
-  "2023-11-19": 4799,
-  "2023-11-20": 4799,
-  "2023-11-21": 4799,
-  "2023-11-22": 4799,
-  "2023-11-23": 4799,
-  "2023-11-24": 4799,
-  "2023-11-25": 4799,
-  "2023-11-26": 4799,
-  "2023-11-27": 4799,
-  "2023-11-28": 4799,
-  "2023-11-29": 4799,
-  "2023-11-30": 4799,
-  "2023-12-01": 4799,
-  "2023-12-02": 4799,
-  "2023-12-03": 4799,
-  "2023-12-04": 4799,
-  "2023-12-05": 4799,
-  "2023-12-06": 4799,
-  "2023-12-07": 4799,
-  "2023-12-08": 4799,
-  "2023-12-09": 4799,
-  "2023-12-10": 4799,
-  "2023-12-11": 4799,
-  "2023-12-12": 4799,
-  "2023-12-13": 4799,
-  "2023-12-14": 4799,
-  "2023-12-15": 4799,
-  "2023-12-16": 4799,
-  "2023-12-17": 4799,
-  "2023-12-18": 4799,
-  "2023-12-19": 4799,
-  "2023-12-20": 4799,
-  "2023-12-21": 4799,
-  "2023-12-22": 4799,
-  "2023-12-23": 4799,
-  "2023-12-24": 4799,
-  "2023-12-25": 4799,
-  "2023-12-26": 4799,
-  "2023-12-27": 4799,
-  "2023-12-30": 4799,
-  "2023-12-31": 4799,
-  "2024-01-01": 4799,
-  "2024-01-02": 4799,
-  "2024-01-03": 4799
+  "2024-01-17": 4799,
+  "date_first_scraped": "2021-12-21",
+  "description": "Comedians ponder all things music, including their favorite celebrities and pop culture icons. [Warning: Explicit Content]",
+  "name": "Music Jokes",
+  "tracks": [
+    {
+      "album": {
+        "name": "Dangerously Delicious",
+        "url": "https://open.spotify.com/album/6ydSVwVEE7rvZ82z3Oh5ic"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "50 Cent Grapefruit Story",
+      "url": "https://open.spotify.com/track/3xLCjnRWJo49vATMxSiBv5"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241373,
+      "name": "A Night Out With Kanye West",
+      "url": "https://open.spotify.com/track/1mCUYpR3ZtwaqvcdCjgLuT"
+    },
+    {
+      "album": {
+        "name": "Greg Behrendt Is Uncool (Audio Tracks w/ PDF)",
+        "url": "https://open.spotify.com/album/1B45fDDeLB3UmvsXHJxPCi"
+      },
+      "artists": [
+        {
+          "name": "Greg Behrendt",
+          "url": "https://open.spotify.com/artist/4yVO8c9iA08ISK0R0qegz4"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152560,
+      "name": "Adult Rock Show",
+      "url": "https://open.spotify.com/track/7JaSnThbqsuQOrmNrQXd0V"
+    },
+    {
+      "album": {
+        "name": "Greg Behrendt Is Uncool (Audio Tracks w/ PDF)",
+        "url": "https://open.spotify.com/album/1B45fDDeLB3UmvsXHJxPCi"
+      },
+      "artists": [
+        {
+          "name": "Greg Behrendt",
+          "url": "https://open.spotify.com/artist/4yVO8c9iA08ISK0R0qegz4"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65360,
+      "name": "Air Guitar",
+      "url": "https://open.spotify.com/track/21lSnDT1yNhgkoGpbNoW6X"
+    },
+    {
+      "album": {
+        "name": "How To WIN!",
+        "url": "https://open.spotify.com/album/2x8kOugRLDcwlwBkh4FETg"
+      },
+      "artists": [
+        {
+          "name": "Maria Bamford",
+          "url": "https://open.spotify.com/artist/7bF1kZnhlO55twMXqZQIhX"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162040,
+      "name": "Alicia Keys",
+      "url": "https://open.spotify.com/track/1uvU8CY55MVGC8NnzaZYj8"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269226,
+      "name": "America Loses It's Mind",
+      "url": "https://open.spotify.com/track/5M469KaLo1PNb4OrCfDVFl"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/0Z4WRsJPXEopq83cTQ6yl5"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215022,
+      "name": "Baby I'm with the Band (feat. Brendan Benson)",
+      "url": "https://open.spotify.com/track/3n3rr1GHYVjuYwDRAJQ6P3"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53040,
+      "name": "Band With Orchestra",
+      "url": "https://open.spotify.com/track/7BK7GRPbR8k30k1PsGd7nP"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47853,
+      "name": "Bands Reuniting",
+      "url": "https://open.spotify.com/track/2pEy1pGbLyeAyk5m7k0bcp"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 48973,
+      "name": "Behind Stage",
+      "url": "https://open.spotify.com/track/1GWRe38ZTW1CmJoCYS9EcY"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51720,
+      "name": "Behind The Music",
+      "url": "https://open.spotify.com/track/4a3PID2ilQ0wpBdhCMcs7s"
+    },
+    {
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/2KrV6R81wxdB6x0bkwDRUG"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217053,
+      "name": "Bj\u00f6rk",
+      "url": "https://open.spotify.com/track/2iROIxu7N330ziO2hSAVWM"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88560,
+      "name": "Bonnaroo",
+      "url": "https://open.spotify.com/track/4G8f7ZK9hg4ygOEJOW2GAw"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43960,
+      "name": "Boxed Sets",
+      "url": "https://open.spotify.com/track/0GN8JwhW2AOP9uWyO2xvWB"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/0Z4WRsJPXEopq83cTQ6yl5"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172942,
+      "name": "Calling in Stoned (feat. Tommy Chong)",
+      "url": "https://open.spotify.com/track/36KYW7bgxVu2HbvIdkoSlI"
+    },
+    {
+      "album": {
+        "name": "Greg Behrendt Is Uncool (Audio Tracks w/ PDF)",
+        "url": "https://open.spotify.com/album/1B45fDDeLB3UmvsXHJxPCi"
+      },
+      "artists": [
+        {
+          "name": "Greg Behrendt",
+          "url": "https://open.spotify.com/artist/4yVO8c9iA08ISK0R0qegz4"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172626,
+      "name": "CD Repair Guy",
+      "url": "https://open.spotify.com/track/2E6ZwGkabuOHfP2znwQtKa"
+    },
+    {
+      "album": {
+        "name": "Super Crazy",
+        "url": "https://open.spotify.com/album/2yh7HPED9RQYlRFPWILXNc"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Confused For Another Comic",
+      "url": "https://open.spotify.com/track/3eQ4v19m3TRJIVlif2nTDg"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74760,
+      "name": "Cosmo",
+      "url": "https://open.spotify.com/track/2ACo9n6BN50SbjmUdWQ9lQ"
+    },
+    {
+      "album": {
+        "name": "Live!",
+        "url": "https://open.spotify.com/album/0JaWOHGqYFD5eEgYPEBb0W"
+      },
+      "artists": [
+        {
+          "name": "Sean Cullen",
+          "url": "https://open.spotify.com/artist/6GITfMIrVfWsONfH6fQkD7"
+        }
+      ],
+      "date_added": "2014-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112893,
+      "name": "Country Music",
+      "url": "https://open.spotify.com/track/6gn5mlwvJZkt5bSCIAnwLM"
+    },
+    {
+      "album": {
+        "name": "Doing My Time",
+        "url": "https://open.spotify.com/album/7oOxeBft2e9uZRZgxjFGDi"
+      },
+      "artists": [
+        {
+          "name": "Jim Gaffigan",
+          "url": "https://open.spotify.com/artist/0f4zEF6vddRYg7Y3GDL8lk"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 679960,
+      "name": "Elton John",
+      "url": "https://open.spotify.com/track/7F45KEsDPDejcdo2Mkqv0T"
+    },
+    {
+      "album": {
+        "name": "The Essential Collection",
+        "url": "https://open.spotify.com/album/0YYpowxkAVUUqahqHw6ovR"
+      },
+      "artists": [
+        {
+          "name": "Bill Hicks",
+          "url": "https://open.spotify.com/artist/0uoySDfSlj0gRR8I8Xg3lY"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127520,
+      "name": "Elvis",
+      "url": "https://open.spotify.com/track/5M31cT8bZFyJJAtSKnWWLV"
+    },
+    {
+      "album": {
+        "name": "Knee To The Groin",
+        "url": "https://open.spotify.com/album/4tsMH3utKAJFpQ3l5Qm5jK"
+      },
+      "artists": [
+        {
+          "name": "Pablo Francisco",
+          "url": "https://open.spotify.com/artist/3Ac7ymYqL8NMoyhuU6vrNJ"
+        }
+      ],
+      "date_added": "2014-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229800,
+      "name": "Fighting / Background Music",
+      "url": "https://open.spotify.com/track/7h3bN2ufjkSpjoXmHXqrwx"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 23560,
+      "name": "Food Or Music?",
+      "url": "https://open.spotify.com/track/6IgL22elfFJInTYcgefrv5"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53320,
+      "name": "Fugazi",
+      "url": "https://open.spotify.com/track/3TUMjP5HmxKBbkFLij3VPW"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 30840,
+      "name": "Grammy Awards",
+      "url": "https://open.spotify.com/track/1j08mFmfgfCWHC6jyKgPXX"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/0Z4WRsJPXEopq83cTQ6yl5"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253654,
+      "name": "Hey Big Dog (feat. Fiona Apple)",
+      "url": "https://open.spotify.com/track/1pHWW9cu587Yq2RRgboS7U"
+    },
+    {
+      "album": {
+        "name": "Coke Money",
+        "url": "https://open.spotify.com/album/2B5ht1XGOeBvIxyfqNNOtr"
+      },
+      "artists": [
+        {
+          "name": "Natasha Leggero",
+          "url": "https://open.spotify.com/artist/7wHGioVXNK6WomD7nnT3Nt"
+        }
+      ],
+      "date_added": "2014-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "Hip Hop",
+      "url": "https://open.spotify.com/track/3VXbNAMH4NbyciYBtUzZAK"
+    },
+    {
+      "album": {
+        "name": "Two Drink Mike",
+        "url": "https://open.spotify.com/album/6enT1GimoDVByihYaRxECp"
+      },
+      "artists": [
+        {
+          "name": "Mike Birbiglia",
+          "url": "https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "Hip Hop Animosity",
+      "url": "https://open.spotify.com/track/6BsqeOxv7N2u5l6fRN10Pr"
+    },
+    {
+      "album": {
+        "name": "Live From Chicago",
+        "url": "https://open.spotify.com/album/3jhpKP1B9hKUJ5vvH35qNX"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Slocumb",
+          "url": "https://open.spotify.com/artist/62MIOshyuahLgSrbgUru5Z"
+        }
+      ],
+      "date_added": "2014-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128440,
+      "name": "Hip Hop Testimony",
+      "url": "https://open.spotify.com/track/6O5ovrYjGBycT94JCBGPwy"
+    },
+    {
+      "album": {
+        "name": "Original Uncool",
+        "url": "https://open.spotify.com/album/4fU9RQGtiJOauWtLETyOdX"
+      },
+      "artists": [
+        {
+          "name": "Greg Behrendt",
+          "url": "https://open.spotify.com/artist/4yVO8c9iA08ISK0R0qegz4"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289546,
+      "name": "I Don't Hate Vampire Weekend",
+      "url": "https://open.spotify.com/track/2UiiAcZwhF2JVmn9BHVYF5"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/0Z4WRsJPXEopq83cTQ6yl5"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198205,
+      "name": "I'm Sorry (feat. Andrew Bird)",
+      "url": "https://open.spotify.com/track/1Uy3nTWhgsz4APLx1j2vWo"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19440,
+      "name": "In A Band?",
+      "url": "https://open.spotify.com/track/4U2sdzCuiXQSSNZ9KDlFRx"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/1BcLPh4yqNWHqC1r3A0r7r"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282354,
+      "name": "Intervention (feat. Tegan and Sara)",
+      "url": "https://open.spotify.com/track/0JDl3rKrbww5Nigrv4ENy7"
+    },
+    {
+      "album": {
+        "name": "Dangerously Delicious",
+        "url": "https://open.spotify.com/album/6ydSVwVEE7rvZ82z3Oh5ic"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232693,
+      "name": "Jay-Z New Year's Story",
+      "url": "https://open.spotify.com/track/4aZWedhPEcYkZXAemZEHBC"
+    },
+    {
+      "album": {
+        "name": "Live In Oakland",
+        "url": "https://open.spotify.com/album/1aki39CdQl22g61XAJiTB6"
+      },
+      "artists": [
+        {
+          "name": "Moshe Kasher",
+          "url": "https://open.spotify.com/artist/4vNh29QjtpewdqjtNfaVIN"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149453,
+      "name": "Jim Morrison Cat (The Doors)",
+      "url": "https://open.spotify.com/track/71ULFwiNlW2mWgGXWl3WTD"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239266,
+      "name": "Justin And Janet",
+      "url": "https://open.spotify.com/track/36FEd0PGXVRyZok3Vu8q1H"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131053,
+      "name": "Kanye West vs. Darwish",
+      "url": "https://open.spotify.com/track/70aSMOtrIMHL1CAdoyxFrZ"
+    },
+    {
+      "album": {
+        "name": "Cut Above Stupid",
+        "url": "https://open.spotify.com/album/3XTkiQeyyEvmE4UAnaOdG5"
+      },
+      "artists": [
+        {
+          "name": "Andrew Norelli",
+          "url": "https://open.spotify.com/artist/6C4qXuEJ6dc3tt12RSNwPc"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269533,
+      "name": "L Gaga",
+      "url": "https://open.spotify.com/track/3jF0Dh7i1OsdxwtvpUXmao"
+    },
+    {
+      "album": {
+        "name": "Comedy Juice All-Stars",
+        "url": "https://open.spotify.com/album/0ZWBEtEhNVLsRFazbXDGNS"
+      },
+      "artists": [
+        {
+          "name": "Hannibal Buress",
+          "url": "https://open.spotify.com/artist/4GIqbOr0FgE9qmJ31kVYdD"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216665,
+      "name": "Lil Wayne/Gangsta Questions",
+      "url": "https://open.spotify.com/track/70Kc5ULbaX1UV7k0k6Up2E"
+    },
+    {
+      "album": {
+        "name": "Greatest Comedy Hits",
+        "url": "https://open.spotify.com/album/2ZhzhtXw05s8Dv50SFLLJ9"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126640,
+      "name": "Little Richard",
+      "url": "https://open.spotify.com/track/7r0Y8I77LnxNTvGzWFFOb8"
+    },
+    {
+      "album": {
+        "name": "Why Do I Do This",
+        "url": "https://open.spotify.com/album/60z6eVAiESsGhfd4mIpEm0"
+      },
+      "artists": [
+        {
+          "name": "Bill Burr",
+          "url": "https://open.spotify.com/artist/25qhKKJ17Ury0KqRKJXj4d"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103253,
+      "name": "Madonna - Bonus Track",
+      "url": "https://open.spotify.com/track/7bGUUI7hnU2TTqPsi8iXLZ"
+    },
+    {
+      "album": {
+        "name": "Falling Off The Bone",
+        "url": "https://open.spotify.com/album/60d5jjea3KTzkxZtcJG8Uq"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53000,
+      "name": "Michael Jackson And Jose",
+      "url": "https://open.spotify.com/track/0DssxoA4uTDa2JsBgfq0pg"
+    },
+    {
+      "album": {
+        "name": "Yellow Discipline",
+        "url": "https://open.spotify.com/album/7z2XuaJQ0o2tuY5szj5yEN"
+      },
+      "artists": [
+        {
+          "name": "Jim Norton",
+          "url": "https://open.spotify.com/artist/3vIOYTxzWZMXnPJl0G7O0r"
+        }
+      ],
+      "date_added": "2014-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176053,
+      "name": "Michael Jackson Is The Artist Of The Millennium",
+      "url": "https://open.spotify.com/track/6dV7Fx9lPph5hqa4Vs3c6g"
+    },
+    {
+      "album": {
+        "name": "Animal Furnace",
+        "url": "https://open.spotify.com/album/7tG3Ad63oc6XqKrdvTSPXu"
+      },
+      "artists": [
+        {
+          "name": "Hannibal Buress",
+          "url": "https://open.spotify.com/artist/4GIqbOr0FgE9qmJ31kVYdD"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "MOE",
+      "url": "https://open.spotify.com/track/2J2vUuomuC6EpMBBvsv5HO"
+    },
+    {
+      "album": {
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/2xMTU800tBWtvJ3stLPf0Z"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208573,
+      "name": "Mommy Don't Like",
+      "url": "https://open.spotify.com/track/1lC6BVuGdbO8ZQlyZNMzKc"
+    },
+    {
+      "album": {
+        "name": "Dangerously Delicious",
+        "url": "https://open.spotify.com/album/6ydSVwVEE7rvZ82z3Oh5ic"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106120,
+      "name": "Motley Crue Tour vs. Aziz Tour",
+      "url": "https://open.spotify.com/track/6nSEbFrbRFAiT5R3cWR3IL"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41013,
+      "name": "Movie In Neighborhood",
+      "url": "https://open.spotify.com/track/12vYevf7cqf9wtE2FkzLvw"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224680,
+      "name": "MTV",
+      "url": "https://open.spotify.com/track/7wTMnfTS5JutmUEOjiNlRt"
+    },
+    {
+      "album": {
+        "name": "Emotionally Unavailable",
+        "url": "https://open.spotify.com/album/7H66AybGJ7tgtO6Bn2drk9"
+      },
+      "artists": [
+        {
+          "name": "Bill Burr",
+          "url": "https://open.spotify.com/artist/25qhKKJ17Ury0KqRKJXj4d"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "MTV Cribs",
+      "url": "https://open.spotify.com/track/16XYKLDXQNjluqeuTLrOnm"
+    },
+    {
+      "album": {
+        "name": "Medium Energy",
+        "url": "https://open.spotify.com/album/2pjWneAzdWfyDtHcil3JEt"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60253,
+      "name": "MTV Diary",
+      "url": "https://open.spotify.com/track/7oJ7NO2sRdFCGFMnkvEKua"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214613,
+      "name": "MTV's Next",
+      "url": "https://open.spotify.com/track/2f8MjDEJbEdVd4u9HvG9T3"
+    },
+    {
+      "album": {
+        "name": "Falling Off The Bone",
+        "url": "https://open.spotify.com/album/60d5jjea3KTzkxZtcJG8Uq"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 37826,
+      "name": "New Wilco Album",
+      "url": "https://open.spotify.com/track/4So4XZqP26abFAvZIuYn5H"
+    },
+    {
+      "album": {
+        "name": "Luther Burbank Performing Arts Center Blues",
+        "url": "https://open.spotify.com/album/7htmLu0JUc4wZHWV785Blt"
+      },
+      "artists": [
+        {
+          "name": "Lewis Black",
+          "url": "https://open.spotify.com/artist/6XloIaGQ9H1Nn37puBzQqm"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166186,
+      "name": "Nipple Clamps",
+      "url": "https://open.spotify.com/track/7AqbcU8rve7nn8eWDiRUos"
+    },
+    {
+      "album": {
+        "name": "Original Uncool",
+        "url": "https://open.spotify.com/album/4fU9RQGtiJOauWtLETyOdX"
+      },
+      "artists": [
+        {
+          "name": "Greg Behrendt",
+          "url": "https://open.spotify.com/artist/4yVO8c9iA08ISK0R0qegz4"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124600,
+      "name": "Punk Rock Shops",
+      "url": "https://open.spotify.com/track/6RgNHoV79i9Q2DPv4y7v9Y"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340053,
+      "name": "R Kelly: The Pied Piper Of R&B",
+      "url": "https://open.spotify.com/track/4IXMdUloqh2U9uXD9KZjJn"
+    },
+    {
+      "album": {
+        "name": "Dangerously Delicious",
+        "url": "https://open.spotify.com/album/6ydSVwVEE7rvZ82z3Oh5ic"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240506,
+      "name": "R. Kelly Online Video Dictionary",
+      "url": "https://open.spotify.com/track/1zqav5PRJlVCeZLZwemss5"
+    },
+    {
+      "album": {
+        "name": "Live From Chicago",
+        "url": "https://open.spotify.com/album/2Wb1AbdmWvSVDVImbnzNzN"
+      },
+      "artists": [
+        {
+          "name": "Hannibal Buress",
+          "url": "https://open.spotify.com/artist/4GIqbOr0FgE9qmJ31kVYdD"
+        }
+      ],
+      "date_added": "2014-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106049,
+      "name": "Rappers + drugs = comedy - Live",
+      "url": "https://open.spotify.com/track/58xID2UtBcC4qae8USE65u"
+    },
+    {
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/6QosNfTrElvYsNd7Gt3Y5O"
+      },
+      "artists": [
+        {
+          "name": "Bill Burr",
+          "url": "https://open.spotify.com/artist/25qhKKJ17Ury0KqRKJXj4d"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139240,
+      "name": "Sarah McLachlan",
+      "url": "https://open.spotify.com/track/5EmFRNZQ82D4C1EfKhuPvd"
+    },
+    {
+      "album": {
+        "name": "Animal Furnace",
+        "url": "https://open.spotify.com/album/7tG3Ad63oc6XqKrdvTSPXu"
+      },
+      "artists": [
+        {
+          "name": "Hannibal Buress",
+          "url": "https://open.spotify.com/artist/4GIqbOr0FgE9qmJ31kVYdD"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Scatting",
+      "url": "https://open.spotify.com/track/3Gg1GRIvP09nsMY82At99a"
+    },
+    {
+      "album": {
+        "name": "From Heaven",
+        "url": "https://open.spotify.com/album/6Xqu41Ck1lnkgxUeZmqImK"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236893,
+      "name": "Selling CDs, Springsteen At Bar, Moore At Party, Gawker",
+      "url": "https://open.spotify.com/track/1xfCL2cqMPGQQUOjOhDSEn"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108320,
+      "name": "Simple Man Cruise",
+      "url": "https://open.spotify.com/track/2WohGlK71bEl1a7xDgf88s"
+    },
+    {
+      "album": {
+        "name": "Intimate Moments For A Sensual Evening",
+        "url": "https://open.spotify.com/album/1Haev92kvZf3cCF53qBz6i"
+      },
+      "artists": [
+        {
+          "name": "Aziz Ansari",
+          "url": "https://open.spotify.com/artist/4SPvdqkhRp1ARWJvxByVuA"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40906,
+      "name": "Something Cool To Say To M.I.A.",
+      "url": "https://open.spotify.com/track/1b1nWYKuJZEUthmNzCpseJ"
+    },
+    {
+      "album": {
+        "name": "Falling Off The Bone",
+        "url": "https://open.spotify.com/album/60d5jjea3KTzkxZtcJG8Uq"
+      },
+      "artists": [
+        {
+          "name": "Todd Barry",
+          "url": "https://open.spotify.com/artist/0i5tBhcOplutWfWG482CYh"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126813,
+      "name": "Sugar Ray",
+      "url": "https://open.spotify.com/track/4VjuHavv2loEUL61cXUy3R"
+    },
+    {
+      "album": {
+        "name": "Two Drink Mike",
+        "url": "https://open.spotify.com/album/6enT1GimoDVByihYaRxECp"
+      },
+      "artists": [
+        {
+          "name": "Mike Birbiglia",
+          "url": "https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124720,
+      "name": "Thanks For Coming Song",
+      "url": "https://open.spotify.com/track/3PUIf8rg1PM7ZT1IofYAX1"
+    },
+    {
+      "album": {
+        "name": "Assassin",
+        "url": "https://open.spotify.com/album/2KrV6R81wxdB6x0bkwDRUG"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399373,
+      "name": "The Grammys",
+      "url": "https://open.spotify.com/track/2WDYNFzXXGYTMiLAEIchpV"
+    },
+    {
+      "album": {
+        "name": "These Are Jokes",
+        "url": "https://open.spotify.com/album/6OpqKZiVreygy7G39hduBG"
+      },
+      "artists": [
+        {
+          "name": "Demetri Martin",
+          "url": "https://open.spotify.com/artist/7po1FepqIImwFFx1ZITjJp"
+        }
+      ],
+      "date_added": "2014-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162973,
+      "name": "The Grapes Song",
+      "url": "https://open.spotify.com/track/2NcCc8dBHOd1hRw8HsVKTi"
+    },
+    {
+      "album": {
+        "name": "Two Drink Mike",
+        "url": "https://open.spotify.com/album/6enT1GimoDVByihYaRxECp"
+      },
+      "artists": [
+        {
+          "name": "Mike Birbiglia",
+          "url": "https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "The Guitar Guy At The Party",
+      "url": "https://open.spotify.com/track/5CtgLojr3iSiljoa4RA8vl"
+    },
+    {
+      "album": {
+        "name": "Two Drink Mike",
+        "url": "https://open.spotify.com/album/6enT1GimoDVByihYaRxECp"
+      },
+      "artists": [
+        {
+          "name": "Mike Birbiglia",
+          "url": "https://open.spotify.com/artist/7LA4bHpsuQA1bNuxHpqeIT"
+        }
+      ],
+      "date_added": "2014-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185120,
+      "name": "The Guitar Guy At The Party - Radio Version",
+      "url": "https://open.spotify.com/track/5WI3lWAtMaBSI1fUjKtm1K"
+    },
+    {
+      "album": {
+        "name": "These Are Jokes",
+        "url": "https://open.spotify.com/album/6OpqKZiVreygy7G39hduBG"
+      },
+      "artists": [
+        {
+          "name": "Demetri Martin",
+          "url": "https://open.spotify.com/artist/7po1FepqIImwFFx1ZITjJp"
+        }
+      ],
+      "date_added": "2014-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 838960,
+      "name": "The Jokes With Guitar",
+      "url": "https://open.spotify.com/track/7fCHsh4HXu59K2oS8z5BDu"
+    },
+    {
+      "album": {
+        "name": "These Are Jokes",
+        "url": "https://open.spotify.com/album/6OpqKZiVreygy7G39hduBG"
+      },
+      "artists": [
+        {
+          "name": "Demetri Martin",
+          "url": "https://open.spotify.com/artist/7po1FepqIImwFFx1ZITjJp"
+        }
+      ],
+      "date_added": "2014-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189746,
+      "name": "The Wisdom Song",
+      "url": "https://open.spotify.com/track/3S5EsRHvydpQNy58OQ4eko"
+    },
+    {
+      "album": {
+        "name": "Cho Dependent",
+        "url": "https://open.spotify.com/album/0Z4WRsJPXEopq83cTQ6yl5"
+      },
+      "artists": [
+        {
+          "name": "Margaret Cho",
+          "url": "https://open.spotify.com/artist/7jO2GajJA9YuNIZTb1Z4ij"
+        }
+      ],
+      "date_added": "2014-02-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248453,
+      "name": "Your Dick (feat. Ben Lee)",
+      "url": "https://open.spotify.com/track/3QLozSt4A8nOcExzbicP8A"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdWZwKY7xcB3"
 }

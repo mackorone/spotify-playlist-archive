@@ -1,735 +1,1291 @@
 {
-  "2021-12-25": 122,
-  "2021-12-26": 122,
-  "2021-12-27": 122,
-  "2021-12-28": 122,
-  "2021-12-29": 122,
-  "2021-12-30": 122,
-  "2021-12-31": 122,
-  "2022-01-01": 122,
-  "2022-01-02": 122,
-  "2022-01-03": 122,
-  "2022-01-04": 122,
-  "2022-01-05": 122,
-  "2022-01-06": 122,
-  "2022-01-07": 122,
-  "2022-01-08": 122,
-  "2022-01-09": 122,
-  "2022-01-10": 122,
-  "2022-01-11": 122,
-  "2022-01-12": 122,
-  "2022-01-13": 122,
-  "2022-01-14": 122,
-  "2022-01-15": 122,
-  "2022-01-16": 122,
-  "2022-01-17": 122,
-  "2022-01-18": 122,
-  "2022-01-19": 122,
-  "2022-01-20": 122,
-  "2022-01-21": 122,
-  "2022-01-22": 122,
-  "2022-01-23": 122,
-  "2022-01-24": 122,
-  "2022-01-25": 122,
-  "2022-01-26": 122,
-  "2022-01-27": 122,
-  "2022-01-28": 122,
-  "2022-01-29": 122,
-  "2022-01-30": 122,
-  "2022-01-31": 122,
-  "2022-02-01": 122,
-  "2022-02-02": 122,
-  "2022-02-03": 122,
-  "2022-02-04": 122,
-  "2022-02-05": 122,
-  "2022-02-06": 122,
-  "2022-02-07": 122,
-  "2022-02-08": 122,
-  "2022-02-09": 122,
-  "2022-02-10": 122,
-  "2022-02-11": 122,
-  "2022-02-12": 122,
-  "2022-02-13": 122,
-  "2022-02-14": 122,
-  "2022-02-15": 122,
-  "2022-02-16": 122,
-  "2022-02-17": 122,
-  "2022-02-18": 122,
-  "2022-02-19": 122,
-  "2022-02-20": 122,
-  "2022-02-21": 122,
-  "2022-02-22": 122,
-  "2022-02-23": 122,
-  "2022-02-24": 122,
-  "2022-02-25": 122,
-  "2022-02-26": 122,
-  "2022-02-27": 122,
-  "2022-02-28": 122,
-  "2022-03-01": 122,
-  "2022-03-02": 122,
-  "2022-03-03": 122,
-  "2022-03-04": 122,
-  "2022-03-05": 122,
-  "2022-03-06": 122,
-  "2022-03-07": 122,
-  "2022-03-08": 122,
-  "2022-03-09": 122,
-  "2022-03-10": 122,
-  "2022-03-11": 122,
-  "2022-03-12": 122,
-  "2022-03-13": 122,
-  "2022-03-14": 122,
-  "2022-03-15": 122,
-  "2022-03-16": 122,
-  "2022-03-17": 122,
-  "2022-03-18": 122,
-  "2022-03-19": 122,
-  "2022-03-20": 122,
-  "2022-03-21": 122,
-  "2022-03-22": 122,
-  "2022-03-23": 122,
-  "2022-03-24": 122,
-  "2022-03-25": 122,
-  "2022-03-26": 122,
-  "2022-03-27": 122,
-  "2022-03-28": 122,
-  "2022-03-30": 122,
-  "2022-03-31": 122,
-  "2022-04-01": 122,
-  "2022-04-02": 122,
-  "2022-04-03": 122,
-  "2022-04-04": 122,
-  "2022-04-05": 122,
-  "2022-04-06": 122,
-  "2022-04-07": 122,
-  "2022-04-08": 122,
-  "2022-04-09": 122,
-  "2022-04-10": 122,
-  "2022-04-11": 122,
-  "2022-04-12": 122,
-  "2022-04-13": 122,
-  "2022-04-14": 122,
-  "2022-04-15": 122,
-  "2022-04-16": 122,
-  "2022-04-17": 122,
-  "2022-04-18": 122,
-  "2022-04-19": 122,
-  "2022-04-20": 122,
-  "2022-04-21": 122,
-  "2022-04-22": 122,
-  "2022-04-23": 122,
-  "2022-04-24": 122,
-  "2022-04-25": 122,
-  "2022-04-26": 122,
-  "2022-04-27": 122,
-  "2022-04-28": 122,
-  "2022-04-29": 122,
-  "2022-04-30": 122,
-  "2022-05-01": 122,
-  "2022-05-02": 122,
-  "2022-05-03": 122,
-  "2022-05-04": 122,
-  "2022-05-05": 122,
-  "2022-05-06": 122,
-  "2022-05-07": 122,
-  "2022-05-08": 122,
-  "2022-05-09": 122,
-  "2022-05-10": 122,
-  "2022-05-11": 122,
-  "2022-05-12": 122,
-  "2022-05-13": 122,
-  "2022-05-14": 122,
-  "2022-05-15": 122,
-  "2022-05-16": 122,
-  "2022-05-17": 122,
-  "2022-05-18": 122,
-  "2022-05-19": 122,
-  "2022-05-20": 122,
-  "2022-05-21": 122,
-  "2022-05-22": 122,
-  "2022-05-23": 122,
-  "2022-05-24": 122,
-  "2022-05-25": 122,
-  "2022-05-26": 122,
-  "2022-05-27": 122,
-  "2022-05-28": 122,
-  "2022-05-29": 122,
-  "2022-05-30": 122,
-  "2022-05-31": 122,
-  "2022-06-01": 122,
-  "2022-06-02": 122,
-  "2022-06-03": 122,
-  "2022-06-04": 122,
-  "2022-06-05": 122,
-  "2022-06-06": 122,
-  "2022-06-07": 122,
-  "2022-06-08": 122,
-  "2022-06-09": 122,
-  "2022-06-10": 122,
-  "2022-06-11": 122,
-  "2022-06-12": 122,
-  "2022-06-13": 122,
-  "2022-06-14": 122,
-  "2022-06-15": 122,
-  "2022-06-16": 122,
-  "2022-06-17": 122,
-  "2022-06-18": 122,
-  "2022-06-19": 122,
-  "2022-06-20": 122,
-  "2022-06-21": 122,
-  "2022-06-22": 122,
-  "2022-06-23": 122,
-  "2022-06-24": 122,
-  "2022-06-25": 122,
-  "2022-06-26": 122,
-  "2022-06-27": 122,
-  "2022-06-28": 122,
-  "2022-06-29": 122,
-  "2022-06-30": 122,
-  "2022-07-01": 122,
-  "2022-07-02": 122,
-  "2022-07-03": 122,
-  "2022-07-04": 122,
-  "2022-07-05": 122,
-  "2022-07-06": 122,
-  "2022-07-07": 122,
-  "2022-07-08": 122,
-  "2022-07-09": 122,
-  "2022-07-10": 122,
-  "2022-07-11": 122,
-  "2022-07-12": 122,
-  "2022-07-13": 122,
-  "2022-07-14": 122,
-  "2022-07-15": 123,
-  "2022-07-16": 123,
-  "2022-07-17": 123,
-  "2022-07-18": 123,
-  "2022-07-19": 123,
-  "2022-07-20": 123,
-  "2022-07-21": 123,
-  "2022-07-22": 123,
-  "2022-07-23": 123,
-  "2022-07-24": 123,
-  "2022-07-25": 123,
-  "2022-07-26": 123,
-  "2022-07-27": 123,
-  "2022-07-28": 123,
-  "2022-07-29": 123,
-  "2022-07-30": 123,
-  "2022-07-31": 123,
-  "2022-08-01": 123,
-  "2022-08-02": 123,
-  "2022-08-03": 123,
-  "2022-08-04": 123,
-  "2022-08-05": 123,
-  "2022-08-06": 123,
-  "2022-08-07": 123,
-  "2022-08-08": 123,
-  "2022-08-09": 122,
-  "2022-08-10": 122,
-  "2022-08-11": 122,
-  "2022-08-12": 122,
-  "2022-08-13": 122,
-  "2022-08-14": 122,
-  "2022-08-15": 122,
-  "2022-08-16": 122,
-  "2022-08-17": 122,
-  "2022-08-18": 122,
-  "2022-08-19": 122,
-  "2022-08-20": 122,
-  "2022-08-21": 122,
-  "2022-08-22": 122,
-  "2022-08-23": 122,
-  "2022-08-24": 122,
-  "2022-08-25": 122,
-  "2022-08-26": 122,
-  "2022-08-27": 122,
-  "2022-08-28": 122,
-  "2022-08-29": 122,
-  "2022-08-30": 122,
-  "2022-08-31": 122,
-  "2022-09-01": 122,
-  "2022-09-02": 122,
-  "2022-09-03": 122,
-  "2022-09-04": 122,
-  "2022-09-05": 121,
-  "2022-09-06": 121,
-  "2022-09-07": 121,
-  "2022-09-09": 121,
-  "2022-09-10": 121,
-  "2022-09-11": 121,
-  "2022-09-12": 121,
-  "2022-09-13": 121,
-  "2022-09-15": 121,
-  "2022-09-16": 121,
-  "2022-09-17": 121,
-  "2022-09-18": 121,
-  "2022-09-19": 121,
-  "2022-09-20": 121,
-  "2022-09-21": 121,
-  "2022-09-22": 121,
-  "2022-09-23": 121,
-  "2022-09-24": 121,
-  "2022-09-25": 121,
-  "2022-09-26": 121,
-  "2022-09-27": 121,
-  "2022-09-28": 121,
-  "2022-09-29": 121,
-  "2022-09-30": 121,
-  "2022-10-01": 121,
-  "2022-10-02": 121,
-  "2022-10-03": 121,
-  "2022-10-04": 121,
-  "2022-10-05": 121,
-  "2022-10-06": 121,
-  "2022-10-07": 121,
-  "2022-10-08": 121,
-  "2022-10-09": 121,
-  "2022-10-10": 121,
-  "2022-10-11": 121,
-  "2022-10-12": 121,
-  "2022-10-13": 121,
-  "2022-10-14": 121,
-  "2022-10-15": 121,
-  "2022-10-16": 121,
-  "2022-10-17": 121,
-  "2022-10-18": 121,
-  "2022-10-19": 121,
-  "2022-10-20": 121,
-  "2022-10-21": 121,
-  "2022-10-22": 121,
-  "2022-10-23": 121,
-  "2022-10-24": 121,
-  "2022-10-25": 121,
-  "2022-10-26": 121,
-  "2022-10-27": 122,
-  "2022-10-28": 122,
-  "2022-10-29": 122,
-  "2022-10-30": 122,
-  "2022-10-31": 122,
-  "2022-11-01": 122,
-  "2022-11-02": 122,
-  "2022-11-03": 123,
-  "2022-11-04": 123,
-  "2022-11-05": 123,
-  "2022-11-06": 123,
-  "2022-11-07": 123,
-  "2022-11-08": 123,
-  "2022-11-09": 123,
-  "2022-11-10": 126,
-  "2022-11-11": 126,
-  "2022-11-12": 125,
-  "2022-11-13": 125,
-  "2022-11-14": 125,
-  "2022-11-15": 125,
-  "2022-11-16": 125,
-  "2022-11-17": 125,
-  "2022-11-18": 125,
-  "2022-11-19": 124,
-  "2022-11-20": 121,
-  "2022-11-21": 121,
-  "2022-11-22": 121,
-  "2022-11-23": 121,
-  "2022-11-24": 121,
-  "2022-11-25": 121,
-  "2022-11-26": 121,
-  "2022-11-27": 121,
-  "2022-11-28": 121,
-  "2022-11-29": 121,
-  "2022-11-30": 121,
-  "2022-12-01": 121,
-  "2022-12-02": 121,
-  "2022-12-03": 121,
-  "2022-12-04": 121,
-  "2022-12-05": 121,
-  "2022-12-06": 121,
-  "2022-12-07": 121,
-  "2022-12-08": 121,
-  "2022-12-09": 121,
-  "2022-12-10": 121,
-  "2022-12-11": 121,
-  "2022-12-12": 121,
-  "2022-12-13": 121,
-  "2022-12-14": 121,
-  "2022-12-15": 121,
-  "2022-12-16": 121,
-  "2022-12-17": 121,
-  "2022-12-18": 121,
-  "2022-12-19": 121,
-  "2022-12-20": 121,
-  "2022-12-21": 121,
-  "2022-12-22": 121,
-  "2022-12-24": 121,
-  "2022-12-25": 121,
-  "2022-12-26": 121,
-  "2022-12-27": 121,
-  "2022-12-28": 121,
-  "2022-12-29": 121,
-  "2022-12-30": 121,
-  "2022-12-31": 121,
-  "2023-01-01": 121,
-  "2023-01-02": 121,
-  "2023-01-03": 121,
-  "2023-01-04": 121,
-  "2023-01-05": 121,
-  "2023-01-06": 121,
-  "2023-01-07": 121,
-  "2023-01-08": 121,
-  "2023-01-09": 121,
-  "2023-01-10": 121,
-  "2023-01-11": 121,
-  "2023-01-12": 121,
-  "2023-01-13": 121,
-  "2023-01-14": 121,
-  "2023-01-15": 121,
-  "2023-01-16": 121,
-  "2023-01-17": 121,
-  "2023-01-18": 121,
-  "2023-01-19": 121,
-  "2023-01-20": 121,
-  "2023-01-21": 121,
-  "2023-01-22": 121,
-  "2023-01-23": 121,
-  "2023-01-24": 121,
-  "2023-01-25": 121,
-  "2023-01-26": 121,
-  "2023-01-27": 121,
-  "2023-01-28": 121,
-  "2023-01-29": 121,
-  "2023-01-30": 121,
-  "2023-01-31": 121,
-  "2023-02-01": 121,
-  "2023-02-02": 121,
-  "2023-02-03": 121,
-  "2023-02-04": 121,
-  "2023-02-05": 121,
-  "2023-02-06": 121,
-  "2023-02-07": 121,
-  "2023-02-08": 121,
-  "2023-02-09": 121,
-  "2023-02-10": 121,
-  "2023-02-11": 121,
-  "2023-02-12": 121,
-  "2023-02-13": 121,
-  "2023-02-14": 121,
-  "2023-02-15": 121,
-  "2023-02-16": 121,
-  "2023-02-17": 121,
-  "2023-02-18": 121,
-  "2023-02-19": 121,
-  "2023-02-20": 121,
-  "2023-02-21": 121,
-  "2023-02-22": 121,
-  "2023-02-23": 121,
-  "2023-02-24": 121,
-  "2023-02-25": 121,
-  "2023-02-26": 121,
-  "2023-02-27": 121,
-  "2023-02-28": 121,
-  "2023-03-01": 121,
-  "2023-03-02": 121,
-  "2023-03-03": 121,
-  "2023-03-04": 121,
-  "2023-03-05": 121,
-  "2023-03-06": 121,
-  "2023-03-07": 121,
-  "2023-03-08": 121,
-  "2023-03-09": 121,
-  "2023-03-10": 121,
-  "2023-03-11": 121,
-  "2023-03-12": 121,
-  "2023-03-13": 121,
-  "2023-03-14": 121,
-  "2023-03-15": 121,
-  "2023-03-16": 121,
-  "2023-03-17": 121,
-  "2023-03-18": 121,
-  "2023-03-19": 121,
-  "2023-03-20": 121,
-  "2023-03-21": 121,
-  "2023-03-22": 121,
-  "2023-03-23": 121,
-  "2023-03-24": 121,
-  "2023-03-25": 121,
-  "2023-03-26": 121,
-  "2023-03-27": 121,
-  "2023-03-28": 121,
-  "2023-03-29": 121,
-  "2023-03-30": 121,
-  "2023-03-31": 121,
-  "2023-04-01": 121,
-  "2023-04-02": 121,
-  "2023-04-03": 121,
-  "2023-04-04": 121,
-  "2023-04-05": 121,
-  "2023-04-06": 121,
-  "2023-04-07": 121,
-  "2023-04-09": 121,
-  "2023-04-10": 121,
-  "2023-04-11": 121,
-  "2023-04-12": 121,
-  "2023-04-13": 121,
-  "2023-04-14": 121,
-  "2023-04-15": 121,
-  "2023-04-16": 121,
-  "2023-04-17": 121,
-  "2023-04-18": 121,
-  "2023-04-19": 121,
-  "2023-04-20": 121,
-  "2023-04-21": 121,
-  "2023-04-22": 121,
-  "2023-04-23": 121,
-  "2023-04-24": 121,
-  "2023-04-25": 121,
-  "2023-04-26": 121,
-  "2023-04-27": 121,
-  "2023-04-28": 121,
-  "2023-04-29": 121,
-  "2023-04-30": 121,
-  "2023-05-01": 121,
-  "2023-05-02": 121,
-  "2023-05-03": 121,
-  "2023-05-04": 121,
-  "2023-05-05": 121,
-  "2023-05-06": 121,
-  "2023-05-07": 121,
-  "2023-05-08": 121,
-  "2023-05-09": 121,
-  "2023-05-10": 121,
-  "2023-05-11": 121,
-  "2023-05-12": 121,
-  "2023-05-13": 121,
-  "2023-05-14": 121,
-  "2023-05-15": 121,
-  "2023-05-16": 121,
-  "2023-05-17": 121,
-  "2023-05-18": 121,
-  "2023-05-19": 121,
-  "2023-05-20": 121,
-  "2023-05-21": 121,
-  "2023-05-22": 121,
-  "2023-05-23": 121,
-  "2023-05-24": 121,
-  "2023-05-25": 121,
-  "2023-05-26": 121,
-  "2023-05-27": 121,
-  "2023-05-28": 121,
-  "2023-05-29": 121,
-  "2023-05-30": 121,
-  "2023-05-31": 121,
-  "2023-06-01": 121,
-  "2023-06-02": 121,
-  "2023-06-03": 121,
-  "2023-06-04": 121,
-  "2023-06-05": 121,
-  "2023-06-06": 121,
-  "2023-06-07": 121,
-  "2023-06-08": 121,
-  "2023-06-09": 121,
-  "2023-06-10": 121,
-  "2023-06-11": 121,
-  "2023-06-12": 121,
-  "2023-06-13": 121,
-  "2023-06-14": 121,
-  "2023-06-15": 121,
-  "2023-06-16": 121,
-  "2023-06-17": 121,
-  "2023-06-18": 121,
-  "2023-06-19": 121,
-  "2023-06-20": 121,
-  "2023-06-21": 121,
-  "2023-06-22": 121,
-  "2023-06-23": 121,
-  "2023-06-24": 121,
-  "2023-06-25": 121,
-  "2023-06-26": 121,
-  "2023-06-27": 122,
-  "2023-06-28": 122,
-  "2023-06-29": 122,
-  "2023-06-30": 122,
-  "2023-07-01": 122,
-  "2023-07-02": 122,
-  "2023-07-03": 122,
-  "2023-07-04": 122,
-  "2023-07-05": 122,
-  "2023-07-06": 122,
-  "2023-07-07": 122,
-  "2023-07-08": 122,
-  "2023-07-09": 121,
-  "2023-07-10": 121,
-  "2023-07-11": 121,
-  "2023-07-12": 121,
-  "2023-07-13": 121,
-  "2023-07-14": 121,
-  "2023-07-15": 121,
-  "2023-07-16": 121,
-  "2023-07-17": 121,
-  "2023-07-18": 121,
-  "2023-07-19": 121,
-  "2023-07-20": 121,
-  "2023-07-21": 121,
-  "2023-07-22": 121,
-  "2023-07-23": 121,
-  "2023-07-24": 121,
-  "2023-07-25": 121,
-  "2023-07-26": 121,
-  "2023-07-27": 121,
-  "2023-07-28": 121,
-  "2023-07-29": 121,
-  "2023-07-30": 121,
-  "2023-07-31": 121,
-  "2023-08-01": 121,
-  "2023-08-02": 121,
-  "2023-08-03": 121,
-  "2023-08-04": 121,
-  "2023-08-05": 121,
-  "2023-08-06": 121,
-  "2023-08-07": 121,
-  "2023-08-08": 121,
-  "2023-08-09": 121,
-  "2023-08-10": 121,
-  "2023-08-11": 121,
-  "2023-08-12": 121,
-  "2023-08-13": 121,
-  "2023-08-14": 121,
-  "2023-08-15": 121,
-  "2023-08-16": 121,
-  "2023-08-17": 121,
-  "2023-08-18": 121,
-  "2023-08-19": 121,
-  "2023-08-20": 121,
-  "2023-08-21": 121,
-  "2023-08-22": 121,
-  "2023-08-23": 121,
-  "2023-08-24": 121,
-  "2023-08-25": 121,
-  "2023-08-26": 121,
-  "2023-08-27": 121,
-  "2023-08-28": 121,
-  "2023-08-29": 121,
-  "2023-08-30": 121,
-  "2023-08-31": 121,
-  "2023-09-01": 121,
-  "2023-09-02": 121,
-  "2023-09-03": 121,
-  "2023-09-04": 121,
-  "2023-09-05": 121,
-  "2023-09-06": 121,
-  "2023-09-07": 121,
-  "2023-09-08": 121,
-  "2023-09-09": 121,
-  "2023-09-10": 121,
-  "2023-09-11": 121,
-  "2023-09-12": 121,
-  "2023-09-13": 121,
-  "2023-09-14": 121,
-  "2023-09-15": 121,
-  "2023-09-16": 121,
-  "2023-09-17": 121,
-  "2023-09-18": 121,
-  "2023-09-19": 121,
-  "2023-09-20": 121,
-  "2023-09-21": 121,
-  "2023-09-22": 121,
-  "2023-09-23": 121,
-  "2023-09-24": 121,
-  "2023-09-25": 121,
-  "2023-09-26": 121,
-  "2023-09-27": 121,
-  "2023-09-28": 121,
-  "2023-09-29": 121,
-  "2023-09-30": 121,
-  "2023-10-01": 121,
-  "2023-10-02": 121,
-  "2023-10-03": 121,
-  "2023-10-04": 121,
-  "2023-10-05": 121,
-  "2023-10-06": 121,
-  "2023-10-07": 121,
-  "2023-10-08": 121,
-  "2023-10-09": 121,
-  "2023-10-10": 120,
-  "2023-10-11": 119,
-  "2023-10-12": 119,
-  "2023-10-13": 118,
-  "2023-10-14": 118,
-  "2023-10-15": 118,
-  "2023-10-16": 118,
-  "2023-10-17": 118,
-  "2023-10-18": 118,
-  "2023-10-19": 118,
-  "2023-10-20": 118,
-  "2023-10-21": 118,
-  "2023-10-22": 118,
-  "2023-10-23": 118,
-  "2023-10-24": 118,
-  "2023-10-25": 118,
-  "2023-10-26": 118,
-  "2023-10-27": 118,
-  "2023-10-28": 118,
-  "2023-10-29": 118,
-  "2023-10-30": 118,
-  "2023-10-31": 118,
-  "2023-11-01": 118,
-  "2023-11-02": 118,
-  "2023-11-03": 118,
-  "2023-11-04": 118,
-  "2023-11-05": 118,
-  "2023-11-06": 118,
-  "2023-11-07": 118,
-  "2023-11-08": 118,
-  "2023-11-09": 118,
-  "2023-11-10": 118,
-  "2023-11-11": 118,
-  "2023-11-12": 118,
-  "2023-11-13": 118,
-  "2023-11-14": 118,
-  "2023-11-15": 118,
-  "2023-11-16": 118,
-  "2023-11-17": 118,
-  "2023-11-18": 118,
-  "2023-11-19": 118,
-  "2023-11-20": 118,
-  "2023-11-21": 118,
-  "2023-11-22": 118,
-  "2023-11-23": 118,
-  "2023-11-24": 118,
-  "2023-11-25": 118,
-  "2023-11-26": 118,
-  "2023-11-27": 118,
-  "2023-11-28": 118,
-  "2023-11-29": 118,
-  "2023-11-30": 118,
-  "2023-12-01": 118,
-  "2023-12-02": 118,
-  "2023-12-03": 118,
-  "2023-12-04": 118,
-  "2023-12-05": 118,
-  "2023-12-06": 118,
-  "2023-12-07": 118,
-  "2023-12-08": 118,
-  "2023-12-09": 118,
-  "2023-12-10": 118,
-  "2023-12-11": 118,
-  "2023-12-12": 118,
-  "2023-12-13": 118,
-  "2023-12-14": 118,
-  "2023-12-15": 118,
-  "2023-12-16": 118,
-  "2023-12-17": 118,
-  "2023-12-18": 118,
-  "2023-12-19": 118,
-  "2023-12-20": 118,
-  "2023-12-21": 118,
-  "2023-12-22": 118,
-  "2023-12-23": 118,
-  "2023-12-24": 118,
-  "2023-12-25": 118,
-  "2023-12-26": 118,
-  "2023-12-27": 118,
-  "2023-12-30": 118,
-  "2023-12-31": 118,
-  "2024-01-01": 118,
-  "2024-01-02": 118,
-  "2024-01-03": 118
+  "2024-01-17": 113,
+  "date_first_scraped": "2021-12-21",
+  "description": "",
+  "name": "June 10",
+  "tracks": [
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362367,
+      "name": "A Beast I Have Yet To Find",
+      "url": "https://open.spotify.com/track/10LZ4QFrpsDaHM5mxSqpWZ"
+    },
+    {
+      "album": {
+        "name": "In Kind // Amends",
+        "url": "https://open.spotify.com/album/1QcS2sshd9Y9sOuJ8d9Fg6"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418435,
+      "name": "A Dawn In Me",
+      "url": "https://open.spotify.com/track/3JHEuiMU5S1c08n5dkfkx0"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "After the Fall",
+      "url": "https://open.spotify.com/track/4wl1dK5dHGp3Ig51stvxb0"
+    },
+    {
+      "album": {
+        "name": "In Kind // Amends",
+        "url": "https://open.spotify.com/album/1QcS2sshd9Y9sOuJ8d9Fg6"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363626,
+      "name": "Amends",
+      "url": "https://open.spotify.com/track/56YHX9zkgsgft9DHuesvGo"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "An English House",
+      "url": "https://open.spotify.com/track/5LXQEEPXv5R8DUpLN2gxtG"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183081,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/66l2Mj80OjNKvLZTQ4WOmv"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204829,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/12FAOfiE9IyM62Lys9kauu"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207146,
+      "name": "Barricades",
+      "url": "https://open.spotify.com/track/2ueMXgRPi7HBXCDKiM5Xdn"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166466,
+      "name": "Boy With an Old Tin Drum",
+      "url": "https://open.spotify.com/track/2gFJWdVvWQCTew4upKdlsU"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Brain Damage",
+      "url": "https://open.spotify.com/track/5T0jlNhduuJ5ZZ9Et9MTpC"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346586,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5NaVCh2wcKK2HDhq8SsPBs"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260746,
+      "name": "Breaking Silence",
+      "url": "https://open.spotify.com/track/5gG7YK2yQTKUP9TKtHOsSz"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100973,
+      "name": "Butterfly Girls",
+      "url": "https://open.spotify.com/track/5vX5XSKT39xA4Ewwl5VqXV"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216760,
+      "name": "Cold Chicago Morning",
+      "url": "https://open.spotify.com/track/1afsdtNUThvFxSxtv18TXD"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194706,
+      "name": "Come On Go Wild",
+      "url": "https://open.spotify.com/track/67ofhyhnsBtwMNNViNOQoz"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273346,
+      "name": "Community",
+      "url": "https://open.spotify.com/track/1unP66kks2PRNmYBfXvZRc"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Dead Souls",
+      "url": "https://open.spotify.com/track/7kNV6fqYbaNPkQmL6HWc6l"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "December",
+      "url": "https://open.spotify.com/track/6jIeMCJYjItWmVPQTfd77I"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Dem Worlds",
+      "url": "https://open.spotify.com/track/3mLvAmr6cBd2YXm2IFXiLR"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/31nfTR0ylqXsk9qJDqPe7Y"
+    },
+    {
+      "album": {
+        "name": "Disconnected",
+        "url": "https://open.spotify.com/album/0k6MgF4fM9SARF3RY3HCzI"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "Disconnected - Single Edit",
+      "url": "https://open.spotify.com/track/35PisWa2h11x4ntcWLsQQk"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139813,
+      "name": "Do You Really Love Me?",
+      "url": "https://open.spotify.com/track/6OPvk0mfMKbFTithmkDmq3"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208706,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/1TkFOmpjp4uulaXe1YTiAg"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277264,
+      "name": "Driving East, And Through Her",
+      "url": "https://open.spotify.com/track/5RiVsXZEWkMm7fXg0eemLs"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97693,
+      "name": "End",
+      "url": "https://open.spotify.com/track/4FN3HCuGEJYq6FyIthybL5"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "England My Darling",
+      "url": "https://open.spotify.com/track/38tAJ8mUc56wkEgJBaP4iZ"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188960,
+      "name": "Enoshima",
+      "url": "https://open.spotify.com/track/4TnYqplEodBX5zoraf549I"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275946,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/0nAFFYAGFww4SDl6nW4SGT"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273746,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/5ZkbvpzBiyGGRbWieAubYe"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Fight for Your Love",
+      "url": "https://open.spotify.com/track/0gPVqPn8Js3TmMMd70IztP"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Filters",
+      "url": "https://open.spotify.com/track/6SUKcgnMmroey1zjwuWJDc"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236760,
+      "name": "Flinton",
+      "url": "https://open.spotify.com/track/3cgLYbRNHUzM7dM84KjyAM"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190388,
+      "name": "From Richard Brautigan",
+      "url": "https://open.spotify.com/track/55wxZAKMze2hjPZfDUeYn3"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213373,
+      "name": "Hidden Place",
+      "url": "https://open.spotify.com/track/4dojMAeP5g8SAb7JRRd59x"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "House of Silk, House of Stone",
+      "url": "https://open.spotify.com/track/5Hlj29qmW4PcEOqk6TkfHl"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        },
+        {
+          "name": "Michaela \u0160r\u016fmov\u00e1",
+          "url": "https://open.spotify.com/artist/4ydc9o0h9J4SPkVnl4zSNr"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111000,
+      "name": "Hush - Interlude",
+      "url": "https://open.spotify.com/track/1s2wGMkqg4H2mO2hIq6z8G"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256415,
+      "name": "I Found Love",
+      "url": "https://open.spotify.com/track/635OoSVytELO57QggRxPcY"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131624,
+      "name": "I Found Love In A Different Place (Bonus Track)",
+      "url": "https://open.spotify.com/track/0WEwyEUnt9rRccBGh1jsMC"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124301,
+      "name": "Image",
+      "url": "https://open.spotify.com/track/6VdZSmnyeuAdI2eGiRi6eC"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213563,
+      "name": "In a Suit Made of Ash",
+      "url": "https://open.spotify.com/track/4Jo82RdVmyNBMeX44JXJJV"
+    },
+    {
+      "album": {
+        "name": "In Kind // Amends",
+        "url": "https://open.spotify.com/album/1QcS2sshd9Y9sOuJ8d9Fg6"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386573,
+      "name": "In Kind",
+      "url": "https://open.spotify.com/track/3wYaB6APPouNZ8DzLblbEH"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393240,
+      "name": "Junk City II",
+      "url": "https://open.spotify.com/track/2OPs6bcL0yOLiQ3llPudXs"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156920,
+      "name": "Kings and Queens",
+      "url": "https://open.spotify.com/track/4fxnTYYONJZmYsvn7exJ73"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320852,
+      "name": "Kirsten",
+      "url": "https://open.spotify.com/track/6JopEQTiwThlxcaWFq7Rsb"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222413,
+      "name": "Ladder",
+      "url": "https://open.spotify.com/track/63cVQuIyrvh6zziwWsT36c"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322009,
+      "name": "Like The Sea (Bonus Track)",
+      "url": "https://open.spotify.com/track/6rySBpZVn7HZR7wqgNFxIB"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151173,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/75bAK30Tq9SwxZ4PXTXToL"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388000,
+      "name": "Mouth to Mouth",
+      "url": "https://open.spotify.com/track/3Br9ms0Hc5oiO8Q7xyvIcP"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Move To The City",
+      "url": "https://open.spotify.com/track/4pJnYt4xiVjLZAvdBiMJwb"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "My Father In Hong Kong",
+      "url": "https://open.spotify.com/track/5T80CO22qOkjDoYUmjLOVC"
+    },
+    {
+      "album": {
+        "name": "In Kind // Amends",
+        "url": "https://open.spotify.com/album/1QcS2sshd9Y9sOuJ8d9Fg6"
+      },
+      "artists": [
+        {
+          "name": "Braids",
+          "url": "https://open.spotify.com/artist/6JX35IQ1Yw84Yjzq2Y5p5i"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Near Enough",
+      "url": "https://open.spotify.com/track/1BT59d2lNKsN7GOpjicgMN"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Oh My Father",
+      "url": "https://open.spotify.com/track/2csnlq8a8pop9lChPEHmOM"
+    },
+    {
+      "album": {
+        "name": "Son Be Wise",
+        "url": "https://open.spotify.com/album/0avvPyAcEmbCXBukUX3lxd"
+      },
+      "artists": [
+        {
+          "name": "Ralfe Band",
+          "url": "https://open.spotify.com/artist/5UefCSMjPiagsw0qeBf2PE"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Ox",
+      "url": "https://open.spotify.com/track/65dOzQW8Q6D2eoD4mYpzMR"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402221,
+      "name": "Passage / Me in the Dark",
+      "url": "https://open.spotify.com/track/1rPhWNsXzgQdJsmUBMER8A"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470994,
+      "name": "Perfect View",
+      "url": "https://open.spotify.com/track/5glDyOHWtqbczUa5JahOUN"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Primary Colours",
+      "url": "https://open.spotify.com/track/49B2Rdkho46sxJ6lFi6tps"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "Reprise",
+      "url": "https://open.spotify.com/track/7u3btkyoLWsq8Im8kkVwbG"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141946,
+      "name": "S950",
+      "url": "https://open.spotify.com/track/7JMStJMRZIhfKFqtJpdnmq"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "She Beats",
+      "url": "https://open.spotify.com/track/5mr2HrOej9RqByjbjZvm3g"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Sing to Me",
+      "url": "https://open.spotify.com/track/6LrCL7KTYbQ6kZW4fUmAHF"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Sleep With My Enemies",
+      "url": "https://open.spotify.com/track/19rJNWxuplUGwhoqIwn45R"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "Something/Nothing",
+      "url": "https://open.spotify.com/track/50PcrVv6cU97U23Xyn5UpN"
+    },
+    {
+      "album": {
+        "name": "Something/Nothing",
+        "url": "https://open.spotify.com/album/4HJAFLTq4m1NNq7MdTEtma"
+      },
+      "artists": [
+        {
+          "name": "Huw Costin",
+          "url": "https://open.spotify.com/artist/4QCYN72FTHNpU2Gf17KhEH"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "Sorry!",
+      "url": "https://open.spotify.com/track/7MDSB7WimmdulfUlYyQv5Y"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271893,
+      "name": "The Most Liveable City",
+      "url": "https://open.spotify.com/track/6QmSpVBxxGJ9oLazx01xGl"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190990,
+      "name": "This Is Another Life",
+      "url": "https://open.spotify.com/track/0kBpXc8wi9R84G37OnCAYo"
+    },
+    {
+      "album": {
+        "name": "Perfect View",
+        "url": "https://open.spotify.com/album/6Mkm44mkG1Xs5GjS4wzlUE"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233571,
+      "name": "Vibrant Brother",
+      "url": "https://open.spotify.com/track/2cdPbFjLFfN9Rw304qfVo7"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202286,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/7haHQHl3sIGVGogr2HL9rY"
+    },
+    {
+      "album": {
+        "name": "Half Of Where You Live",
+        "url": "https://open.spotify.com/album/2UDnuGUMHVW5iTQnwKT1sa"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357773,
+      "name": "We Work Nights",
+      "url": "https://open.spotify.com/track/7MZDzs1leVcXMFTGwECWcB"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/3YpfQPv91UnjOE5ghiM9xL"
+    },
+    {
+      "album": {
+        "name": "This Is Another Life",
+        "url": "https://open.spotify.com/album/0cyo7qxMwR9XY4HxxuLITU"
+      },
+      "artists": [
+        {
+          "name": "Case Studies",
+          "url": "https://open.spotify.com/artist/1PmRKCMrPoAz1uuVO8XLii"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373562,
+      "name": "You Say To Me, You Never Have To Ask",
+      "url": "https://open.spotify.com/track/3cx1tDTcbMD5vdp8VqTDbx"
+    },
+    {
+      "album": {
+        "name": "Dva",
+        "url": "https://open.spotify.com/album/2SccZOg3VmKUaJQGMDoovZ"
+      },
+      "artists": [
+        {
+          "name": "Emika",
+          "url": "https://open.spotify.com/artist/50Gx1SNB4vH2V7peIiYD4S"
+        }
+      ],
+      "date_added": "2013-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Young Minds",
+      "url": "https://open.spotify.com/track/17tN39CNfJH2t9W5rOCktV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/1pARmsw0z4yebhBtZKxAU0"
 }

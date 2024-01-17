@@ -130,7 +130,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 350851,
       "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 271112,
       "name": "CooCool",
       "url": "https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-19",
+      "date_removed": "2024-01-13",
       "duration_ms": 336438,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3w0PoZcluoJetM1ygo0c8A"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-13",
+      "date_removed": "2024-01-15",
       "duration_ms": 263265,
       "name": "El Sabor del Viejo Mar",
       "url": "https://open.spotify.com/track/29vzHaxX9UoRuRX1iBSbbl"
@@ -734,7 +734,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 279676,
       "name": "Falling Back",
       "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 274716,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/0LyCSWeijWECQa0rbB35V2"
@@ -1926,7 +1926,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 221135,
       "name": "Passion (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/7jtdG988aYR7IkFObSWfJe"
@@ -2426,6 +2426,24 @@
     {
       "album": {
         "name": "Polydans",
+        "url": "https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220726,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf"
+    },
+    {
+      "album": {
+        "name": "Polydans",
         "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
       },
       "artists": [
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 220726,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11"
@@ -2716,6 +2734,24 @@
       "duration_ms": 224390,
       "name": "Way to Go - Club Soda Mix",
       "url": "https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P"
+    },
+    {
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "album": {

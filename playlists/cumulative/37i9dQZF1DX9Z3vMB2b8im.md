@@ -4,7 +4,7 @@
 
 > Songs so beautiful, they'll stop you in your tracks
 
-211 songs - 12 hr 38 min
+212 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,8 @@
 | [Warped Window](https://open.spotify.com/track/7jd2h2mIeyKpqkFsrl5EHN) | [Anna Mieke](https://open.spotify.com/artist/52HjDHLlkCYt5Pemr9wefL) | [Idle Mind](https://open.spotify.com/album/5jz07RajgJtqxfBAwWULOW) | 4:55 | 2022-06-10 |  |
 | [Wavepool](https://open.spotify.com/track/1ZcjlVzHuLGEenurSfytvJ) | [Hailaker](https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy), [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Wavepool](https://open.spotify.com/album/6tgfkgWahbKBM3q1GV4XgL) | 3:38 | 2021-12-10 | 2023-01-07 |
 | [we’ll be fine \- acoustic](https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [we’ll be fine \(acoustic\)](https://open.spotify.com/album/2lzdWQWTB2ZJkfrXMiPDSC) | 4:56 | 2021-12-10 | 2023-04-01 |
-| [Who's Gonna Love You Now?](https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong EP](https://open.spotify.com/album/5FHhqubbDtgRAtkXGNQJ6n) | 3:17 | 2023-02-17 |  |
+| [Who's Gonna Love You Now?](https://open.spotify.com/track/1F6CDseJlmgXPhTekGbzTd) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong \- EP](https://open.spotify.com/album/1xEeRwpB4uqscEDBsAZ2rd) | 3:17 | 2023-11-24 |  |
+| [Who's Gonna Love You Now?](https://open.spotify.com/track/1RNi19cKwk2G5V9fy9676K) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Time Can Prove You Wrong EP](https://open.spotify.com/album/5FHhqubbDtgRAtkXGNQJ6n) | 3:17 | 2023-02-17 | 2024-01-06 |
 | [Whole \- demo](https://open.spotify.com/track/2NsW7nEPsgmqUqEO7GJ83F) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Whole \(demo\)](https://open.spotify.com/album/0kHwSWelfEdfr31kmH68Ue) | 3:08 | 2021-12-10 | 2022-10-15 |
 | [Whole Heart](https://open.spotify.com/track/0Vdkp4wpZjRGRrRXFdv50x) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/6DAN3bsYPQ18kT30KozGlJ) | 3:19 | 2021-12-10 | 2022-07-29 |
 | [Whole Heart](https://open.spotify.com/track/2sf9ZR3NgbcMG7izW5db8p) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Whole Heart](https://open.spotify.com/album/3BrID6twdD05At80AAVwYc) | 3:19 | 2022-06-10 | 2023-02-14 |

@@ -1,732 +1,3321 @@
 {
-  "2021-12-28": 19841,
-  "2021-12-29": 19867,
-  "2021-12-30": 19892,
-  "2021-12-31": 19910,
-  "2022-01-01": 19952,
-  "2022-01-02": 19958,
-  "2022-01-03": 19979,
-  "2022-01-04": 19998,
-  "2022-01-05": 20032,
-  "2022-01-06": 20046,
-  "2022-01-07": 20063,
-  "2022-01-08": 20109,
-  "2022-01-09": 20106,
-  "2022-01-10": 20143,
-  "2022-01-11": 20167,
-  "2022-01-12": 20196,
-  "2022-01-13": 20214,
-  "2022-01-14": 20237,
-  "2022-01-15": 20308,
-  "2022-01-16": 20310,
-  "2022-01-17": 20369,
-  "2022-01-18": 20371,
-  "2022-01-19": 20386,
-  "2022-01-20": 20405,
-  "2022-01-21": 20429,
-  "2022-01-22": 20450,
-  "2022-01-23": 20482,
-  "2022-01-24": 20503,
-  "2022-01-25": 20527,
-  "2022-01-26": 20547,
-  "2022-01-27": 27865,
-  "2022-01-28": 27883,
-  "2022-01-29": 27906,
-  "2022-01-30": 27930,
-  "2022-01-31": 27967,
-  "2022-02-01": 27994,
-  "2022-02-02": 28024,
-  "2022-02-03": 28043,
-  "2022-02-04": 28073,
-  "2022-02-05": 28108,
-  "2022-02-06": 28126,
-  "2022-02-07": 28161,
-  "2022-02-08": 28187,
-  "2022-02-09": 28207,
-  "2022-02-10": 28232,
-  "2022-02-11": 28264,
-  "2022-02-12": 28295,
-  "2022-02-13": 28316,
-  "2022-02-14": 28342,
-  "2022-02-15": 28355,
-  "2022-02-16": 28374,
-  "2022-02-17": 28390,
-  "2022-02-18": 28402,
-  "2022-02-19": 28435,
-  "2022-02-20": 28454,
-  "2022-02-21": 28472,
-  "2022-02-22": 28483,
-  "2022-02-23": 28509,
-  "2022-02-24": 28528,
-  "2022-02-25": 28546,
-  "2022-02-26": 28564,
-  "2022-02-27": 28598,
-  "2022-02-28": 28598,
-  "2022-03-01": 28617,
-  "2022-03-02": 28625,
-  "2022-03-03": 28641,
-  "2022-03-04": 28653,
-  "2022-03-05": 28675,
-  "2022-03-06": 28703,
-  "2022-03-07": 28745,
-  "2022-03-08": 28763,
-  "2022-03-09": 28782,
-  "2022-03-10": 28800,
-  "2022-03-11": 28827,
-  "2022-03-12": 28848,
-  "2022-03-13": 28876,
-  "2022-03-14": 28904,
-  "2022-03-15": 28914,
-  "2022-03-16": 28936,
-  "2022-03-17": 28950,
-  "2022-03-18": 28976,
-  "2022-03-19": 28978,
-  "2022-03-20": 28978,
-  "2022-03-21": 29026,
-  "2022-03-22": 29044,
-  "2022-03-23": 29073,
-  "2022-03-24": 29083,
-  "2022-03-25": 29114,
-  "2022-03-26": 29125,
-  "2022-03-27": 29146,
-  "2022-03-28": 29163,
-  "2022-03-30": 29191,
-  "2022-03-31": 29218,
-  "2022-04-01": 29245,
-  "2022-04-02": 29276,
-  "2022-04-03": 29302,
-  "2022-04-04": 29329,
-  "2022-04-05": 29344,
-  "2022-04-06": 29375,
-  "2022-04-07": 29394,
-  "2022-04-08": 29419,
-  "2022-04-09": 29438,
-  "2022-04-10": 29493,
-  "2022-04-11": 29530,
-  "2022-04-12": 29532,
-  "2022-04-13": 29553,
-  "2022-04-14": 29569,
-  "2022-04-15": 29583,
-  "2022-04-16": 29619,
-  "2022-04-17": 29641,
-  "2022-04-18": 29671,
-  "2022-04-19": 29686,
-  "2022-04-20": 29714,
-  "2022-04-21": 29724,
-  "2022-04-22": 29742,
-  "2022-04-23": 29761,
-  "2022-04-24": 29777,
-  "2022-04-25": 29791,
-  "2022-04-26": 29811,
-  "2022-04-27": 29842,
-  "2022-04-28": 29860,
-  "2022-04-29": 29878,
-  "2022-04-30": 29895,
-  "2022-05-01": 29919,
-  "2022-05-02": 29919,
-  "2022-05-03": 29939,
-  "2022-05-04": 29965,
-  "2022-05-05": 29981,
-  "2022-05-06": 30005,
-  "2022-05-07": 30026,
-  "2022-05-08": 30061,
-  "2022-05-09": 30067,
-  "2022-05-10": 30079,
-  "2022-05-11": 30106,
-  "2022-05-12": 30130,
-  "2022-05-13": 30142,
-  "2022-05-14": 30160,
-  "2022-05-15": 30189,
-  "2022-05-16": 30218,
-  "2022-05-17": 30249,
-  "2022-05-18": 30281,
-  "2022-05-19": 30305,
-  "2022-05-20": 30337,
-  "2022-05-21": 30384,
-  "2022-05-22": 30384,
-  "2022-05-23": 30398,
-  "2022-05-24": 30412,
-  "2022-05-25": 30428,
-  "2022-05-26": 30443,
-  "2022-05-27": 30456,
-  "2022-05-28": 30478,
-  "2022-05-29": 30499,
-  "2022-05-30": 30516,
-  "2022-05-31": 30536,
-  "2022-06-01": 30582,
-  "2022-06-02": 30585,
-  "2022-06-03": 30607,
-  "2022-06-04": 30625,
-  "2022-06-05": 30652,
-  "2022-06-06": 30668,
-  "2022-06-07": 30684,
-  "2022-06-08": 30696,
-  "2022-06-09": 30711,
-  "2022-06-10": 30729,
-  "2022-06-11": 30751,
-  "2022-06-12": 30758,
-  "2022-06-13": 30783,
-  "2022-06-14": 30806,
-  "2022-06-15": 30826,
-  "2022-06-16": 30851,
-  "2022-06-17": 30870,
-  "2022-06-18": 30902,
-  "2022-06-19": 30944,
-  "2022-06-20": 30944,
-  "2022-06-21": 30965,
-  "2022-06-22": 31017,
-  "2022-06-23": 31017,
-  "2022-06-24": 31028,
-  "2022-06-25": 31040,
-  "2022-06-26": 31061,
-  "2022-06-27": 31072,
-  "2022-06-28": 31092,
-  "2022-06-29": 31107,
-  "2022-06-30": 31129,
-  "2022-07-01": 31140,
-  "2022-07-02": 31162,
-  "2022-07-03": 31179,
-  "2022-07-04": 31202,
-  "2022-07-05": 31223,
-  "2022-07-06": 31242,
-  "2022-07-07": 31267,
-  "2022-07-08": 31291,
-  "2022-07-09": 31325,
-  "2022-07-10": 31342,
-  "2022-07-11": 31365,
-  "2022-07-12": 31387,
-  "2022-07-13": 31409,
-  "2022-07-14": 31415,
-  "2022-07-15": 31437,
-  "2022-07-16": 31458,
-  "2022-07-17": 31482,
-  "2022-07-18": 31506,
-  "2022-07-19": 31534,
-  "2022-07-20": 31550,
-  "2022-07-21": 31567,
-  "2022-07-22": 31602,
-  "2022-07-23": 31619,
-  "2022-07-24": 31649,
-  "2022-07-25": 31678,
-  "2022-07-26": 31703,
-  "2022-07-27": 31719,
-  "2022-07-28": 31740,
-  "2022-07-29": 31760,
-  "2022-07-30": 31792,
-  "2022-07-31": 31792,
-  "2022-08-01": 31822,
-  "2022-08-02": 31882,
-  "2022-08-03": 31882,
-  "2022-08-04": 31911,
-  "2022-08-05": 31927,
-  "2022-08-06": 31958,
-  "2022-08-07": 31975,
-  "2022-08-08": 32011,
-  "2022-08-09": 32035,
-  "2022-08-10": 32061,
-  "2022-08-11": 32081,
-  "2022-08-12": 32093,
-  "2022-08-13": 32119,
-  "2022-08-14": 32150,
-  "2022-08-15": 32174,
-  "2022-08-16": 32191,
-  "2022-08-17": 32213,
-  "2022-08-18": 32250,
-  "2022-08-19": 32266,
-  "2022-08-20": 32289,
-  "2022-08-21": 32313,
-  "2022-08-22": 32340,
-  "2022-08-23": 32364,
-  "2022-08-24": 32403,
-  "2022-08-25": 32437,
-  "2022-08-26": 32475,
-  "2022-08-27": 32512,
-  "2022-08-28": 32549,
-  "2022-08-29": 32591,
-  "2022-08-30": 32583,
-  "2022-08-31": 32536,
-  "2022-09-01": 32482,
-  "2022-09-02": 32517,
-  "2022-09-03": 32460,
-  "2022-09-04": 32343,
-  "2022-09-05": 32304,
-  "2022-09-06": 32331,
-  "2022-09-07": 32354,
-  "2022-09-09": 32423,
-  "2022-09-10": 32453,
-  "2022-09-11": 32488,
-  "2022-09-12": 32518,
-  "2022-09-13": 32541,
-  "2022-09-15": 32589,
-  "2022-09-16": 32601,
-  "2022-09-17": 32629,
-  "2022-09-18": 32661,
-  "2022-09-19": 32710,
-  "2022-09-20": 32735,
-  "2022-09-21": 32756,
-  "2022-09-22": 32778,
-  "2022-09-23": 32814,
-  "2022-09-24": 32842,
-  "2022-09-25": 32869,
-  "2022-09-26": 32911,
-  "2022-09-27": 32926,
-  "2022-09-28": 32951,
-  "2022-09-29": 32994,
-  "2022-09-30": 33019,
-  "2022-10-01": 33041,
-  "2022-10-02": 33065,
-  "2022-10-03": 33100,
-  "2022-10-04": 33122,
-  "2022-10-05": 33161,
-  "2022-10-06": 33186,
-  "2022-10-07": 33214,
-  "2022-10-08": 33235,
-  "2022-10-09": 33306,
-  "2022-10-10": 33313,
-  "2022-10-11": 33347,
-  "2022-10-12": 33374,
-  "2022-10-13": 33386,
-  "2022-10-14": 33410,
-  "2022-10-15": 33431,
-  "2022-10-16": 33480,
-  "2022-10-17": 33524,
-  "2022-10-18": 33554,
-  "2022-10-19": 33597,
-  "2022-10-20": 33626,
-  "2022-10-21": 33668,
-  "2022-10-22": 33698,
-  "2022-10-23": 33725,
-  "2022-10-24": 33764,
-  "2022-10-25": 33798,
-  "2022-10-26": 33817,
-  "2022-10-27": 33852,
-  "2022-10-28": 33886,
-  "2022-10-29": 33916,
-  "2022-10-30": 33961,
-  "2022-10-31": 34000,
-  "2022-11-01": 34045,
-  "2022-11-02": 34070,
-  "2022-11-03": 34107,
-  "2022-11-04": 34145,
-  "2022-11-05": 34168,
-  "2022-11-06": 34206,
-  "2022-11-07": 34237,
-  "2022-11-08": 34265,
-  "2022-11-09": 34297,
-  "2022-11-10": 34328,
-  "2022-11-11": 34353,
-  "2022-11-12": 34386,
-  "2022-11-13": 34413,
-  "2022-11-14": 34445,
-  "2022-11-15": 34475,
-  "2022-11-16": 34516,
-  "2022-11-17": 34545,
-  "2022-11-18": 34560,
-  "2022-11-19": 34553,
-  "2022-11-20": 34552,
-  "2022-11-21": 34572,
-  "2022-11-22": 34656,
-  "2022-11-23": 34649,
-  "2022-11-24": 34705,
-  "2022-11-25": 34778,
-  "2022-11-26": 34816,
-  "2022-11-27": 34862,
-  "2022-11-28": 34911,
-  "2022-11-29": 34941,
-  "2022-11-30": 34979,
-  "2022-12-01": 35003,
-  "2022-12-02": 35053,
-  "2022-12-03": 35085,
-  "2022-12-04": 35135,
-  "2022-12-05": 35182,
-  "2022-12-06": 35212,
-  "2022-12-07": 35251,
-  "2022-12-08": 35287,
-  "2022-12-09": 35335,
-  "2022-12-10": 35364,
-  "2022-12-11": 35389,
-  "2022-12-12": 35433,
-  "2022-12-13": 35466,
-  "2022-12-14": 35508,
-  "2022-12-15": 35526,
-  "2022-12-16": 35573,
-  "2022-12-17": 35613,
-  "2022-12-18": 35645,
-  "2022-12-19": 35687,
-  "2022-12-20": 35753,
-  "2022-12-21": 35753,
-  "2022-12-22": 35795,
-  "2022-12-24": 35854,
-  "2022-12-25": 35881,
-  "2022-12-26": 35911,
-  "2022-12-27": 35945,
-  "2022-12-28": 35971,
-  "2022-12-29": 36020,
-  "2022-12-30": 36054,
-  "2022-12-31": 36083,
-  "2023-01-01": 36117,
-  "2023-01-02": 36150,
-  "2023-01-03": 36196,
-  "2023-01-04": 36231,
-  "2023-01-05": 36264,
-  "2023-01-06": 36308,
-  "2023-01-07": 36364,
-  "2023-01-08": 36380,
-  "2023-01-09": 36428,
-  "2023-01-10": 36466,
-  "2023-01-11": 36504,
-  "2023-01-12": 36546,
-  "2023-01-13": 36590,
-  "2023-01-14": 36660,
-  "2023-01-15": 36678,
-  "2023-01-16": 36724,
-  "2023-01-17": 36778,
-  "2023-01-18": 36813,
-  "2023-01-19": 36852,
-  "2023-01-20": 36891,
-  "2023-01-21": 36939,
-  "2023-01-22": 36986,
-  "2023-01-23": 37025,
-  "2023-01-24": 37073,
-  "2023-01-25": 37102,
-  "2023-01-26": 37130,
-  "2023-01-27": 37167,
-  "2023-01-28": 37198,
-  "2023-01-29": 37234,
-  "2023-01-30": 37297,
-  "2023-01-31": 37297,
-  "2023-02-01": 37355,
-  "2023-02-02": 37392,
-  "2023-02-03": 37440,
-  "2023-02-04": 37492,
-  "2023-02-05": 37534,
-  "2023-02-06": 37600,
-  "2023-02-07": 37647,
-  "2023-02-08": 37731,
-  "2023-02-09": 37731,
-  "2023-02-10": 37772,
-  "2023-02-11": 37798,
-  "2023-02-12": 37909,
-  "2023-02-13": 37951,
-  "2023-02-14": 37951,
-  "2023-02-15": 37993,
-  "2023-02-16": 38028,
-  "2023-02-17": 38070,
-  "2023-02-18": 38159,
-  "2023-02-19": 38172,
-  "2023-02-20": 38219,
-  "2023-02-21": 38253,
-  "2023-02-22": 38288,
-  "2023-02-23": 38333,
-  "2023-02-24": 38362,
-  "2023-02-25": 38410,
-  "2023-02-26": 38449,
-  "2023-02-27": 38548,
-  "2023-02-28": 38548,
-  "2023-03-01": 38579,
-  "2023-03-02": 38610,
-  "2023-03-03": 38653,
-  "2023-03-04": 38691,
-  "2023-03-05": 38785,
-  "2023-03-06": 38785,
-  "2023-03-07": 38842,
-  "2023-03-08": 38874,
-  "2023-03-09": 38920,
-  "2023-03-10": 38958,
-  "2023-03-11": 38995,
-  "2023-03-12": 39033,
-  "2023-03-13": 39083,
-  "2023-03-14": 39128,
-  "2023-03-15": 39168,
-  "2023-03-16": 39198,
-  "2023-03-17": 39198,
-  "2023-03-18": 39272,
-  "2023-03-19": 39318,
-  "2023-03-20": 39372,
-  "2023-03-21": 39424,
-  "2023-03-22": 39471,
-  "2023-03-23": 39517,
-  "2023-03-24": 39517,
-  "2023-03-25": 39609,
-  "2023-03-26": 39638,
-  "2023-03-27": 39694,
-  "2023-03-28": 39730,
-  "2023-03-29": 39768,
-  "2023-03-30": 39828,
-  "2023-03-31": 39828,
-  "2023-04-01": 39865,
-  "2023-04-02": 39907,
-  "2023-04-03": 39945,
-  "2023-04-04": 39972,
-  "2023-04-05": 40008,
-  "2023-04-06": 40053,
-  "2023-04-07": 40085,
-  "2023-04-09": 40180,
-  "2023-04-10": 40206,
-  "2023-04-11": 40269,
-  "2023-04-12": 40269,
-  "2023-04-13": 40298,
-  "2023-04-14": 40327,
-  "2023-04-15": 40361,
-  "2023-04-16": 40397,
-  "2023-04-17": 40421,
-  "2023-04-18": 40447,
-  "2023-04-19": 40487,
-  "2023-04-20": 40520,
-  "2023-04-21": 40549,
-  "2023-04-22": 40588,
-  "2023-04-23": 40619,
-  "2023-04-24": 40660,
-  "2023-04-25": 40708,
-  "2023-04-26": 40736,
-  "2023-04-27": 40765,
-  "2023-04-28": 40798,
-  "2023-04-29": 40829,
-  "2023-04-30": 40862,
-  "2023-05-01": 40903,
-  "2023-05-02": 40955,
-  "2023-05-03": 40977,
-  "2023-05-04": 40992,
-  "2023-05-05": 41030,
-  "2023-05-06": 41058,
-  "2023-05-07": 41110,
-  "2023-05-08": 41148,
-  "2023-05-09": 41176,
-  "2023-05-10": 41198,
-  "2023-05-11": 41225,
-  "2023-05-12": 41272,
-  "2023-05-13": 41316,
-  "2023-05-14": 41353,
-  "2023-05-15": 41405,
-  "2023-05-16": 41437,
-  "2023-05-17": 41461,
-  "2023-05-18": 41495,
-  "2023-05-19": 41535,
-  "2023-05-20": 41619,
-  "2023-05-21": 41619,
-  "2023-05-22": 41619,
-  "2023-05-23": 41694,
-  "2023-05-24": 41772,
-  "2023-05-25": 41783,
-  "2023-05-26": 41802,
-  "2023-05-27": 41832,
-  "2023-05-28": 41858,
-  "2023-05-29": 41858,
-  "2023-05-30": 41943,
-  "2023-05-31": 41978,
-  "2023-06-01": 42005,
-  "2023-06-02": 42038,
-  "2023-06-03": 42079,
-  "2023-06-04": 42116,
-  "2023-06-05": 42153,
-  "2023-06-06": 42190,
-  "2023-06-07": 42209,
-  "2023-06-08": 42239,
-  "2023-06-09": 42269,
-  "2023-06-10": 42295,
-  "2023-06-11": 42328,
-  "2023-06-12": 42370,
-  "2023-06-13": 42388,
-  "2023-06-14": 42416,
-  "2023-06-15": 42438,
-  "2023-06-16": 42449,
-  "2023-06-17": 42471,
-  "2023-06-18": 42505,
-  "2023-06-19": 42533,
-  "2023-06-20": 42551,
-  "2023-06-21": 42579,
-  "2023-06-22": 42595,
-  "2023-06-23": 42612,
-  "2023-06-24": 42617,
-  "2023-06-25": 42636,
-  "2023-06-26": 42652,
-  "2023-06-27": 42674,
-  "2023-06-28": 42694,
-  "2023-06-29": 42701,
-  "2023-06-30": 42721,
-  "2023-07-01": 42767,
-  "2023-07-02": 42767,
-  "2023-07-03": 42792,
-  "2023-07-04": 42807,
-  "2023-07-05": 42822,
-  "2023-07-06": 42848,
-  "2023-07-07": 42848,
-  "2023-07-08": 42876,
-  "2023-07-09": 42892,
-  "2023-07-10": 42915,
-  "2023-07-11": 42934,
-  "2023-07-12": 42950,
-  "2023-07-13": 42955,
-  "2023-07-14": 42982,
-  "2023-07-15": 42995,
-  "2023-07-16": 43032,
-  "2023-07-17": 43059,
-  "2023-07-18": 43076,
-  "2023-07-19": 43097,
-  "2023-07-20": 43117,
-  "2023-07-21": 43137,
-  "2023-07-22": 43155,
-  "2023-07-23": 43179,
-  "2023-07-24": 43207,
-  "2023-07-25": 43221,
-  "2023-07-26": 43244,
-  "2023-07-27": 43264,
-  "2023-07-28": 43293,
-  "2023-07-29": 43319,
-  "2023-07-30": 43335,
-  "2023-07-31": 43362,
-  "2023-08-01": 43384,
-  "2023-08-02": 43413,
-  "2023-08-03": 43436,
-  "2023-08-04": 43452,
-  "2023-08-05": 43478,
-  "2023-08-06": 43520,
-  "2023-08-07": 43520,
-  "2023-08-08": 43540,
-  "2023-08-09": 43564,
-  "2023-08-10": 43573,
-  "2023-08-11": 43605,
-  "2023-08-12": 43627,
-  "2023-08-13": 43647,
-  "2023-08-14": 43676,
-  "2023-08-15": 43745,
-  "2023-08-16": 43745,
-  "2023-08-17": 43773,
-  "2023-08-18": 43789,
-  "2023-08-19": 43806,
-  "2023-08-20": 43834,
-  "2023-08-21": 43880,
-  "2023-08-22": 43906,
-  "2023-08-23": 43931,
-  "2023-08-24": 43958,
-  "2023-08-25": 43976,
-  "2023-08-26": 43997,
-  "2023-08-27": 44033,
-  "2023-08-28": 44066,
-  "2023-08-29": 44090,
-  "2023-08-30": 44114,
-  "2023-08-31": 44142,
-  "2023-09-01": 44198,
-  "2023-09-02": 44198,
-  "2023-09-03": 44219,
-  "2023-09-04": 44252,
-  "2023-09-05": 44285,
-  "2023-09-06": 44301,
-  "2023-09-07": 44323,
-  "2023-09-08": 44356,
-  "2023-09-09": 44392,
-  "2023-09-10": 44421,
-  "2023-09-11": 44459,
-  "2023-09-12": 44486,
-  "2023-09-13": 44517,
-  "2023-09-14": 44537,
-  "2023-09-15": 44556,
-  "2023-09-16": 44577,
-  "2023-09-17": 44602,
-  "2023-09-18": 44639,
-  "2023-09-19": 44669,
-  "2023-09-20": 44697,
-  "2023-09-21": 44719,
-  "2023-09-22": 44740,
-  "2023-09-23": 44767,
-  "2023-09-24": 44792,
-  "2023-09-25": 44831,
-  "2023-09-26": 44852,
-  "2023-09-27": 44867,
-  "2023-09-28": 44891,
-  "2023-09-29": 44914,
-  "2023-09-30": 44933,
-  "2023-10-01": 44953,
-  "2023-10-02": 44977,
-  "2023-10-03": 45001,
-  "2023-10-04": 45019,
-  "2023-10-05": 45037,
-  "2023-10-06": 45060,
-  "2023-10-07": 45094,
-  "2023-10-08": 45115,
-  "2023-10-09": 45145,
-  "2023-10-10": 45157,
-  "2023-10-11": 45185,
-  "2023-10-12": 45185,
-  "2023-10-13": 45209,
-  "2023-10-14": 45232,
-  "2023-10-15": 45247,
-  "2023-10-16": 45272,
-  "2023-10-17": 45288,
-  "2023-10-18": 45316,
-  "2023-10-19": 45345,
-  "2023-10-20": 45367,
-  "2023-10-21": 45393,
-  "2023-10-22": 45419,
-  "2023-10-23": 45444,
-  "2023-10-24": 45475,
-  "2023-10-25": 45503,
-  "2023-10-26": 45534,
-  "2023-10-27": 45554,
-  "2023-10-28": 45571,
-  "2023-10-29": 45595,
-  "2023-10-30": 45646,
-  "2023-10-31": 45646,
-  "2023-11-01": 45664,
-  "2023-11-02": 45695,
-  "2023-11-03": 45716,
-  "2023-11-04": 45739,
-  "2023-11-05": 45756,
-  "2023-11-06": 45781,
-  "2023-11-07": 45803,
-  "2023-11-08": 45821,
-  "2023-11-09": 45836,
-  "2023-11-10": 45858,
-  "2023-11-11": 45876,
-  "2023-11-12": 45904,
-  "2023-11-13": 45934,
-  "2023-11-14": 45952,
-  "2023-11-15": 45952,
-  "2023-11-16": 45990,
-  "2023-11-17": 46029,
-  "2023-11-18": 46029,
-  "2023-11-19": 46059,
-  "2023-11-20": 46081,
-  "2023-11-21": 46106,
-  "2023-11-22": 46124,
-  "2023-11-23": 46154,
-  "2023-11-24": 46172,
-  "2023-11-25": 46190,
-  "2023-11-26": 46218,
-  "2023-11-27": 46247,
-  "2023-11-28": 46255,
-  "2023-11-29": 46294,
-  "2023-11-30": 46294,
-  "2023-12-01": 46338,
-  "2023-12-02": 46371,
-  "2023-12-03": 46389,
-  "2023-12-04": 46416,
-  "2023-12-05": 46445,
-  "2023-12-06": 46472,
-  "2023-12-07": 46485,
-  "2023-12-08": 46515,
-  "2023-12-09": 46543,
-  "2023-12-10": 46571,
-  "2023-12-11": 46597,
-  "2023-12-12": 46613,
-  "2023-12-13": 46639,
-  "2023-12-14": 46665,
-  "2023-12-15": 46677,
-  "2023-12-16": 46705,
-  "2023-12-17": 46735,
-  "2023-12-18": 46756,
-  "2023-12-19": 46773,
-  "2023-12-20": 46794,
-  "2023-12-21": 46813,
-  "2023-12-22": 46836,
-  "2023-12-23": 46869,
-  "2023-12-24": 46900,
-  "2023-12-25": 46927,
-  "2023-12-26": 46936,
-  "2023-12-27": 46954,
-  "2023-12-30": 47034,
-  "2023-12-31": 47066,
-  "2024-01-01": 47090,
-  "2024-01-02": 47123,
-  "2024-01-03": 47154
+  "2024-01-17": 47460,
+  "date_first_scraped": "2021-12-28",
+  "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
+  "name": "This Is Mahler",
+  "tracks": [
+    {
+      "album": {
+        "name": "Masterpieces in Miniature",
+        "url": "https://open.spotify.com/album/0aeEn2dKbzSYIQY2tuYCrE"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 506940,
+      "name": "Blumine",
+      "url": "https://open.spotify.com/track/4mgLcAlGVuDgWkioFpZdx4"
+    },
+    {
+      "album": {
+        "name": "Liszt & Mahler: Das Himmlische Leben",
+        "url": "https://open.spotify.com/album/4MImFleZOeukwxIEolqXrQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612760,
+      "name": "Das himmlische Leben",
+      "url": "https://open.spotify.com/track/62FkMgQtMOYeKwVT3B3nm6"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das klagende Lied / Berg: Lulu-Suite",
+        "url": "https://open.spotify.com/album/4Ov78YRYesjbQrwv3QNRyh"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Dorothea R\u00f6schmann",
+          "url": "https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Johan Botha",
+          "url": "https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241093,
+      "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
+      "url": "https://open.spotify.com/track/30zTMjRPtzMxZzVeVWEt4L"
+    },
+    {
+      "album": {
+        "name": "Pierre Boulez - Legendary Recordings",
+        "url": "https://open.spotify.com/album/3WYMG5vUwnzb7CTA94maym"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Dorothea R\u00f6schmann",
+          "url": "https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Johan Botha",
+          "url": "https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 241093,
+      "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
+      "url": "https://open.spotify.com/track/5e700NADDtdKT3Qrv2ts77"
+    },
+    {
+      "album": {
+        "name": "Boulez - Mahler",
+        "url": "https://open.spotify.com/album/6wroBOCYmubAhwCb3yigIK"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Dorothea R\u00f6schmann",
+          "url": "https://open.spotify.com/artist/2OSNMmbTJZZ1k7hIUCxlsY"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Johan Botha",
+          "url": "https://open.spotify.com/artist/4nBHLeDunbOoRTKh58wiEV"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "Wiener Staatsopernchor",
+          "url": "https://open.spotify.com/artist/6IimpgX9XQY41o0p4EuuHL"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Das Klagende Lied / Pt. 2: Von hohen Felsen ergl\u00e4nzt das Schlo\u00df - Live From Festspielhaus, Salzburg / 2011",
+      "url": "https://open.spotify.com/track/5yGpRXOFuki10rtqMWR2Y0"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Henschel",
+          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+        },
+        {
+          "name": "Gregory Kunde",
+          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+        },
+        {
+          "name": "Houston Symphony",
+          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570586,
+      "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
+      "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Henschel",
+          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+        },
+        {
+          "name": "Gregory Kunde",
+          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+        },
+        {
+          "name": "Houston Symphony",
+          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1784293,
+      "name": "Das Lied von der Erde (Song of the Earth): VI. Der Abschied (The Farewell)",
+      "url": "https://open.spotify.com/track/1MgSNJghZVPGdSTMECzkMx"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Jonathan Nott",
+          "url": "https://open.spotify.com/artist/0GOAxav4uCDWG9g2lTgteS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486120,
+      "name": "Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde",
+      "url": "https://open.spotify.com/track/0nxbzSRf2JH6wPzIeW6Jg1"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/689CxX81ICOdUz86g4PNms"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Henschel",
+          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+        },
+        {
+          "name": "Gregory Kunde",
+          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+        },
+        {
+          "name": "Houston Symphony",
+          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 570586,
+      "name": "Das Lied von der Erde: II. Der Einsame im Herbst (the Lonely One in Autumn)",
+      "url": "https://open.spotify.com/track/2kTlRMiZlwwDlznr1QHDdY"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/3dIr8dqvuo0y2wmpSx4fyi"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "Das Lied von der Erde: III. Von der Jugend",
+      "url": "https://open.spotify.com/track/6fAj71NW0waaUp5BunIb3n"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408000,
+      "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250986,
+      "name": "Das Lied von der Erde: V. Der Trunkene im Fr\u00fchling",
+      "url": "https://open.spotify.com/track/6edUx0kf2GViMiIRu8wAKQ"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/689CxX81ICOdUz86g4PNms"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Henschel",
+          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+        },
+        {
+          "name": "Gregory Kunde",
+          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+        },
+        {
+          "name": "Houston Symphony",
+          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1784293,
+      "name": "Das Lied von der Erde: VI. Der Abschied (the Farewell)",
+      "url": "https://open.spotify.com/track/7aqhMfjjAYl6KTKI36Y7UE"
+    },
+    {
+      "album": {
+        "name": "Bernstein: Mahler",
+        "url": "https://open.spotify.com/album/6rMBGxLFVYCsPoFzDspkgh"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-20",
+      "duration_ms": 506200,
+      "name": "Des Knaben Wunderhorn: Wo die sch\u00f6nen Trompeten blasen - Live",
+      "url": "https://open.spotify.com/track/6clISRCow6xIUM2I5mElM9"
+    },
+    {
+      "album": {
+        "name": "Mahler - Vol. 1",
+        "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509000,
+      "name": "Des Knaben Wunderhorn: Wo die sch\u00f6nen Trompeten blasen - Live",
+      "url": "https://open.spotify.com/track/0sfRQ0SpAlkzpke2y5T44Z"
+    },
+    {
+      "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Tonhalle-Orchester Z\u00fcrich",
+          "url": "https://open.spotify.com/artist/6XB7gCSvNN5AkoAhEFv7Cg"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1324586,
+      "name": "I. Allegro maestoso",
+      "url": "https://open.spotify.com/track/2pEDMuA7Fmr92lCAKYo7hb"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.6 in A minor; R\u00fcckert-Lieder; Kindertotenlieder",
+        "url": "https://open.spotify.com/album/3dRGxFAz5nsLn7M9oCliV3"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336967,
+      "name": "Kindertotenlieder: In diesem Wetter",
+      "url": "https://open.spotify.com/track/18F4kGlmsGOkjhaymciS9V"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.6 in A minor; R\u00fcckert-Lieder; Kindertotenlieder (2 CDs)",
+        "url": "https://open.spotify.com/album/5nNbgMZK6LMo3nCt3FdNjT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 336967,
+      "name": "Kindertotenlieder: In diesem Wetter",
+      "url": "https://open.spotify.com/track/1auxLW7t1R28WqMs4zv05k"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.9; Kindertotenlieder; R\u00fcckert-Lieder",
+        "url": "https://open.spotify.com/album/1wnpKf5UbXfY1wZxOdXVVT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-07",
+      "duration_ms": 337000,
+      "name": "Kindertotenlieder: In diesem Wetter",
+      "url": "https://open.spotify.com/track/3YVoWpDwRejfPvlISBQTXb"
+    },
+    {
+      "album": {
+        "name": "The Art of Gustav Mahler",
+        "url": "https://open.spotify.com/album/1C1fS4A8L6Lp0XTvemrfWd"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 340133,
+      "name": "Kindertotenlieder: In diesem Wetter",
+      "url": "https://open.spotify.com/track/1EgbawsmEj9zClgObk0Kou"
+    },
+    {
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225720,
+      "name": "Lieder eines fahrenden Gesellen: Gieng heut' Morgen \u00fcber's Feld",
+      "url": "https://open.spotify.com/track/14IEaSAVPyMd1l2CNSw4At"
+    },
+    {
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183706,
+      "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
+      "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
+    },
+    {
+      "album": {
+        "name": "Mahler: Orchestral Songs",
+        "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Kent Nagano",
+          "url": "https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222800,
+      "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
+      "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
+    },
+    {
+      "album": {
+        "name": "Masterpieces in Miniature",
+        "url": "https://open.spotify.com/album/05Eck7k66jfjQEs0NGVPHj"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506931,
+      "name": "Mahler: Blumine",
+      "url": "https://open.spotify.com/track/2HoYwWckSvq3DCA48B7M5Y"
+    },
+    {
+      "album": {
+        "name": "Mahler: Des Knaben Wunderhorn",
+        "url": "https://open.spotify.com/album/2VMOxWRahor88AI0FXpHD3"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "George Szell",
+          "url": "https://open.spotify.com/artist/2CFaOiHKik5FgNGzZJ08sx"
+        },
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187720,
+      "name": "Mahler: Des Knaben Wunderhorn: No. 7, Rheinlegendchen",
+      "url": "https://open.spotify.com/track/1ndZ3nhH4ZzYaTkacGJzGi"
+    },
+    {
+      "album": {
+        "name": "Brahms: Piano Quartets Nos. 1 - 3",
+        "url": "https://open.spotify.com/album/7GlZbH2zGT93p6VKDFaLcY"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Domus",
+          "url": "https://open.spotify.com/artist/1NgZJs6c72EZW0BSHKCot8"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 680853,
+      "name": "Mahler: Piano Quartet in A Minor: I. Nicht zu schnell",
+      "url": "https://open.spotify.com/track/1FN4pJQQ2iOsUbmksgcqw2"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2009653,
+      "name": "Mahler: Symphony No. 3 in D Minor: I. Kr\u00e4ftig. Entschieden",
+      "url": "https://open.spotify.com/track/5xw32PKkA42ObOxNntOMPF"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 627306,
+      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
+      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1009173,
+      "name": "Mahler: Symphony No. 3 in D Minor: III. Comodo, Scherzando. Ohne Hast",
+      "url": "https://open.spotify.com/track/2orh65w2YtrAgTZHVtBEf9"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphonies Nos. 4 & 8 \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/3Ng7S1REbWUwDRMrwU7GWi"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Klaus Tennstedt",
+          "url": "https://open.spotify.com/artist/2uuAaf6yCHYDZDVCdMUlA3"
+        },
+        {
+          "name": "Edith Wiens",
+          "url": "https://open.spotify.com/artist/55v1ZPl6xDi1MCjKGrobdv"
+        },
+        {
+          "name": "Elizabeth Connell",
+          "url": "https://open.spotify.com/artist/2zhkJluHfCWD8DM8gd2PE9"
+        },
+        {
+          "name": "Hans Sotin",
+          "url": "https://open.spotify.com/artist/39JO4J46WGBdoGuDYkBIv1"
+        },
+        {
+          "name": "Jorma Hynninen",
+          "url": "https://open.spotify.com/artist/6wcDpCPElSjmLhPHZQGpiF"
+        },
+        {
+          "name": "London Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/7GUhTBqD7CAbbIjjBd0SdN"
+        },
+        {
+          "name": "Nadine Denize",
+          "url": "https://open.spotify.com/artist/0tltjZFKjdCf31pLTx4PPF"
+        },
+        {
+          "name": "Richard Versalle",
+          "url": "https://open.spotify.com/artist/3wK4D0XPqGWprjrBfYGanj"
+        },
+        {
+          "name": "Tiffin School Boys' Choir",
+          "url": "https://open.spotify.com/artist/72ue3BUFc72vjgKrbCMGSx"
+        },
+        {
+          "name": "Trudeliese Schmidt",
+          "url": "https://open.spotify.com/artist/2JbCNfw2vwUIgDR9MRFTel"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347866,
+      "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": II. Final Scene from Goethe's Faust. \"Alles Verg\u00e4ngliche\"",
+      "url": "https://open.spotify.com/track/0QOPz0LWC8R2rqDgPSWOqC"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 757713,
+      "name": "Mahler: Symphony No. 9 in D Major: III. Rondo-Burleske. Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/6qxqaKrowLHeeeYMsWd83i"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 9",
+        "url": "https://open.spotify.com/album/7bt4myU47pfLm7HVFHiuJI"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1562085,
+      "name": "Mahler: Symphony No. 9 in D Major: IV. Adagio. Sehr langsam und noch zur\u00fcckhaltend",
+      "url": "https://open.spotify.com/track/2Om6056obklMVh7a0gnKkN"
+    },
+    {
+      "album": {
+        "name": "Kremerata Musica - Mahler / Sch\u00f6nberg / Berg / Webern",
+        "url": "https://open.spotify.com/album/0ACozNVRuzehJroIzi4fhq"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Veronika Hagen",
+          "url": "https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP"
+        },
+        {
+          "name": "Clemens Hagen",
+          "url": "https://open.spotify.com/artist/1TuIsPqRpIB3EhZEN6V3yG"
+        },
+        {
+          "name": "Oleg Maisenberg",
+          "url": "https://open.spotify.com/artist/0uIlrJqe58rIie9LnMS1ow"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 660750,
+      "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
+      "url": "https://open.spotify.com/track/7C8FVQPzPq756M9F9sHTZz"
+    },
+    {
+      "album": {
+        "name": "Kremerata Musica - Mahler / Sch\u00f6nberg / Berg / Webern",
+        "url": "https://open.spotify.com/album/5rkIii1oZaarmImsEuK5jT"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Veronika Hagen",
+          "url": "https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP"
+        },
+        {
+          "name": "Clemens Hagen",
+          "url": "https://open.spotify.com/artist/1TuIsPqRpIB3EhZEN6V3yG"
+        },
+        {
+          "name": "Oleg Maisenberg",
+          "url": "https://open.spotify.com/artist/0uIlrJqe58rIie9LnMS1ow"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 664000,
+      "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
+      "url": "https://open.spotify.com/track/0TX14ARX1AD0w3vR5shKOT"
+    },
+    {
+      "album": {
+        "name": "Mahler 101",
+        "url": "https://open.spotify.com/album/6CCpm7zjSGxs4EC8ieeGcL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Veronika Hagen",
+          "url": "https://open.spotify.com/artist/3ijxXTal6hr7byhqZDdHsP"
+        },
+        {
+          "name": "Clemens Hagen",
+          "url": "https://open.spotify.com/artist/1TuIsPqRpIB3EhZEN6V3yG"
+        },
+        {
+          "name": "Oleg Maisenberg",
+          "url": "https://open.spotify.com/artist/0uIlrJqe58rIie9LnMS1ow"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 664000,
+      "name": "Piano Quartet in A minor (1876) Quartet for piano, violin, viola and cello: 1. Nicht zu schnell",
+      "url": "https://open.spotify.com/track/5ZWMSt8teEueoBW6mE1kqq"
+    },
+    {
+      "album": {
+        "name": "Brahms, Schumann & Mahler: Lieder",
+        "url": "https://open.spotify.com/album/2xnacrNX13CxDlq4ZW0S4Q"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145080,
+      "name": "R\u00fcckert-Lieder, Op. 44: 1. Ich atmet' einen linden Duft - Live",
+      "url": "https://open.spotify.com/track/5Fw8FVg8Z5XnayUWuSJ9FB"
+    },
+    {
+      "album": {
+        "name": "Mahler: Song Cycles",
+        "url": "https://open.spotify.com/album/0ofJuid6jQ2ebqrUsNznGZ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Violeta Urmana",
+          "url": "https://open.spotify.com/artist/5HRZLLjW8jC4Kqte3nptim"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422000,
+      "name": "R\u00fcckert-Lieder: Ich bin der Welt abhanden gekommen",
+      "url": "https://open.spotify.com/track/1SKqoOM0KO1ABXDzal9TNn"
+    },
+    {
+      "album": {
+        "name": "Mahler: Songs from Des Knaben Wunderhorn & R\u00fcckert-Lieder / Schubert: Lieder",
+        "url": "https://open.spotify.com/album/6aOEkTx3b2aoP995tRhoL2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Irwin Gage",
+          "url": "https://open.spotify.com/artist/4uR3qmb8hWYkPh3BQNwAtt"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "R\u00fcckert-Lieder: Liebst du um Sch\u00f6nheit",
+      "url": "https://open.spotify.com/track/4hkQ08cxtPUPiVEdVUwZr8"
+    },
+    {
+      "album": {
+        "name": "Mahler: Des Knaben Wunderhorn; Adagio from Symphony No.10",
+        "url": "https://open.spotify.com/album/3zDmMuKVskRiIBL3da9izQ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
+      "url": "https://open.spotify.com/track/5EuMyXy4CU3Ap10UfaZFdL"
+    },
+    {
+      "album": {
+        "name": "Boulez - Mahler",
+        "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172906,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Trost im Ungl\u00fcck - Live From Severance Hall, Cleveland / 2010",
+      "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
+    },
+    {
+      "album": {
+        "name": "Mahler - Vol. 1",
+        "url": "https://open.spotify.com/album/72hN3r6nJBr60A4VhtxfUn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lucia Popp",
+          "url": "https://open.spotify.com/artist/6FUbcx4NUDhuIqsmsFyIqJ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 509000,
+      "name": "Songs From \"Des Knaben Wunderhorn\": Wo die sch\u00f6nen Trompeten blasen - Live",
+      "url": "https://open.spotify.com/track/5UPrNbCf0f3Ben8ncNNkOh"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 880186,
+      "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
+      "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 1, \"Titan\"",
+        "url": "https://open.spotify.com/album/1u3QWfZoBOfur193RLbl18"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446973,
+      "name": "Symphony No. 1 in D Major \"Titan\": II. Kraftig bewegt, doch nicht zu schnell",
+      "url": "https://open.spotify.com/track/4KCXImejmRO09bfsOP2LnB"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 1, \"Titan\"",
+        "url": "https://open.spotify.com/album/6tYaQYBcXAAQVhNnGqAuQ2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 452000,
+      "name": "Symphony No. 1 in D Major \"Titan\": II. Kraftig bewegt, doch nicht zu schnell",
+      "url": "https://open.spotify.com/track/5Upbhmdnw5Usc9NsA2DmEu"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 1, \"Titan\"",
+        "url": "https://open.spotify.com/album/1u3QWfZoBOfur193RLbl18"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599120,
+      "name": "Symphony No. 1 in D Major \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
+      "url": "https://open.spotify.com/track/3LUHnlnenBwwwe14hH9LWp"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 1, \"Titan\"",
+        "url": "https://open.spotify.com/album/6tYaQYBcXAAQVhNnGqAuQ2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 602426,
+      "name": "Symphony No. 1 in D Major \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
+      "url": "https://open.spotify.com/track/6cu19WgrswmWhFrsn3bV1S"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 1",
+        "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1155933,
+      "name": "Symphony No. 1 in D Major \"Titan\": IV. St\u00fcrmisch Bewegt",
+      "url": "https://open.spotify.com/track/5JBo2pA0UXFoYzQQnQZfZ2"
+    },
+    {
+      "album": {
+        "name": "Discover Music of the Romantic Era",
+        "url": "https://open.spotify.com/album/4tbdVHqkdLZDt8hs9BYuZ2"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 608786,
+      "name": "Symphony No. 1 in D Major, \"Titan\": III. Feierlich und gemessen, ohne zu schleppen",
+      "url": "https://open.spotify.com/track/7L9IGtY7UrhoLNg7L9LaOa"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1550440,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 1. Adagio",
+      "url": "https://open.spotify.com/track/3lOAX3KoPxPgNiFezXUZhk"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 667800,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 2. Scherzo",
+      "url": "https://open.spotify.com/track/3t08w44vk6GJ3gttgYQTbc"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.10",
+        "url": "https://open.spotify.com/album/4jiU4En8NZgwPX3aIZjRsB"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240586,
+      "name": "Symphony No. 10 in F sharp (unfinished) - Ed. Deryck Cooke: 3. Purgatorio",
+      "url": "https://open.spotify.com/track/10QeQRM2VBCUETSVu2rSEz"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1324586,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": I. Allegro maestoso - Mit durchaus ernstem und feierlichem Ausdruck",
+      "url": "https://open.spotify.com/track/0hBIISqYVIvY8ikBaeTVEk"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato - Sehr gem\u00e4chlich - Nie eilen",
+      "url": "https://open.spotify.com/track/0dDjHMJbArRUuK6K4dH9rG"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/38ZZyI4zqjnZ5461Bi3dxe"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": III. In ruhig fliessender Bewegung - Sehr gem\u00e4chlich, nicht eilen",
+      "url": "https://open.spotify.com/track/1Wi8j2OdftVBQYV6qRCABl"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305760,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
+      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2164733,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": V. Im Tempo des Scherzos. Wild herausfahrend",
+      "url": "https://open.spotify.com/track/2ogyvIh53LR2KdkDhRYGJx"
+    },
+    {
+      "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
+      "url": "https://open.spotify.com/track/2gC4HKZ2Bhubhi3dgICGay"
+    },
+    {
+      "album": {
+        "name": "Gustav Mahler: Sinfonie Nr. 2",
+        "url": "https://open.spotify.com/album/3AxXvjC7n8j77e8RUYO3Kt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 632386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": II. Andante moderato",
+      "url": "https://open.spotify.com/track/7LcBEShTZXKXzMN7pyJtRg"
+    },
+    {
+      "album": {
+        "name": "David Zinman Conducts Mahler Symphonies",
+        "url": "https://open.spotify.com/album/5XcBRj2zqrkNftPFWPhJiF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
+      "url": "https://open.spotify.com/track/5gE04PX9nAFkZrIXgoENBm"
+    },
+    {
+      "album": {
+        "name": "Gustav Mahler: Sinfonie Nr. 2",
+        "url": "https://open.spotify.com/album/3AxXvjC7n8j77e8RUYO3Kt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 610386,
+      "name": "Symphony No. 2 in C Minor, \"Resurrection\": III. In ruhig fliessender Bewegung",
+      "url": "https://open.spotify.com/track/7p68zQpWgF47fWiujoORCv"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317266,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. A tempo",
+      "url": "https://open.spotify.com/track/47cNw2dW7SviIV0UsCmUiw"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361400,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Kr\u00e4ftig. Entschieden",
+      "url": "https://open.spotify.com/track/5D3PQQaRcSxVHrmIvoE3gj"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150626,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Langsam. Schwer",
+      "url": "https://open.spotify.com/track/5ZLCdjQJJk7ohvAogTpYOC"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 3 in D Minor",
+        "url": "https://open.spotify.com/album/71fpVhVaGMhR99T89QumK4"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292066,
+      "name": "Symphony No. 3 in D Minor: Part 1, I. Tempo Primo",
+      "url": "https://open.spotify.com/track/5IAtPkndh0xCgswlxuxyV3"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
+        "url": "https://open.spotify.com/album/1AVc4ybEES08rKYnECFE6e"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Ewa Podles",
+          "url": "https://open.spotify.com/artist/695u8FxP070ZAwSg47cIJI"
+        },
+        {
+          "name": "Cracow Boys' Choir",
+          "url": "https://open.spotify.com/artist/3D9GfiiFKK0ufUX6gkwslT"
+        },
+        {
+          "name": "Cracow Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5yOXXuw8o46aOG8SmFtAgs"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249080,
+      "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
+      "url": "https://open.spotify.com/track/4KsoqmJJis8uvvXOAjnU4M"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 3 / Symphony No. 10: Adagio",
+        "url": "https://open.spotify.com/album/4zS9aetqPwjmf8n7Ndv17t"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Ewa Podles",
+          "url": "https://open.spotify.com/artist/695u8FxP070ZAwSg47cIJI"
+        },
+        {
+          "name": "Cracow Boys' Choir",
+          "url": "https://open.spotify.com/artist/3D9GfiiFKK0ufUX6gkwslT"
+        },
+        {
+          "name": "Cracow Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5yOXXuw8o46aOG8SmFtAgs"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249080,
+      "name": "Symphony No. 3 in D Minor: V. Lustig im Tempo und keck im Ausdruck",
+      "url": "https://open.spotify.com/track/4oXa32SjjuVrBBjEMm94Mx"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 994466,
+      "name": "Symphony No. 4 in G Major: I. Bedachtig, nicht eilen",
+      "url": "https://open.spotify.com/track/306V1NZDnK86VMh4DSAFTg"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/2lrNRP11FToofkOr6iGZ6i"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 994466,
+      "name": "Symphony No. 4 in G Major: I. Bedachtig, nicht eilen",
+      "url": "https://open.spotify.com/track/4EevDsETK8AhWOJP5YPve2"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 994466,
+      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
+      "url": "https://open.spotify.com/track/6pDRSOe1X4qreChmYZXd3q"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 1262480,
+      "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
+      "url": "https://open.spotify.com/track/0GWUJCqanwtBOPGB0wNKYZ"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/2lrNRP11FToofkOr6iGZ6i"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1262480,
+      "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
+      "url": "https://open.spotify.com/track/48XZL1SXiQx4xkeXYfNXbG"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1262480,
+      "name": "Symphony No. 4 in G Major: III. Ruhevoll, poco adagio",
+      "url": "https://open.spotify.com/track/4bqsrYQjtZTGZ72JLWzBaZ"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/4aa1nbWZcIMVFAh71JntGG"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 564213,
+      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
+      "url": "https://open.spotify.com/track/1RQAkvir0B5eCxY1cavyfp"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 4",
+        "url": "https://open.spotify.com/album/2lrNRP11FToofkOr6iGZ6i"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 564213,
+      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
+      "url": "https://open.spotify.com/track/4qU7uo9ra85PqbCnOVaQQS"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564213,
+      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
+      "url": "https://open.spotify.com/track/7MSjAESpXgKmF3ewr119m3"
+    },
+    {
+      "album": {
+        "name": "Mahler: His Life In Music",
+        "url": "https://open.spotify.com/album/5ABb0UvS3349Y0OzvxZCJr"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 564213,
+      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
+      "url": "https://open.spotify.com/track/7hbtEwdt64hOaNh3MhJSDf"
+    },
+    {
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 761280,
+      "name": "Symphony No. 5 In C Sharp Minor: 1. Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)",
+      "url": "https://open.spotify.com/track/6NkqiE2wqfCz0mhjcV0WXj"
+    },
+    {
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1148173,
+      "name": "Symphony No. 5 In C Sharp Minor: 3. Scherzo (Kr\u00e4ftig, nicht zu schnell)",
+      "url": "https://open.spotify.com/track/6QNQHAY8KLaKstoszUp35z"
+    },
+    {
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 645706,
+      "name": "Symphony No. 5 In C Sharp Minor: 4. Adagietto (Sehr langsam)",
+      "url": "https://open.spotify.com/track/0M78i2tXl07RGPjcm0InHA"
+    },
+    {
+      "album": {
+        "name": "Mahler Symphony No. 5",
+        "url": "https://open.spotify.com/album/1o4kfpiFIgWxQ0ZLi7GIKL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gyeonggi Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1DvjQmNutQVTbEKxUOCe5N"
+        },
+        {
+          "name": "Shi-Yeon Sung",
+          "url": "https://open.spotify.com/artist/1OHdqAYcjx9YerSz0Hgh2P"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 940372,
+      "name": "Symphony No. 5 In C Sharp Minor: 5. Rondo-Finale (Allegro)",
+      "url": "https://open.spotify.com/track/6CkYMdE7d2b2WAuKIzaXLk"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1368453,
+      "name": "Symphony No. 6 in A Minor: I. Allegro energico, ma non troppo. Heftig, aber markig - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/67ogz3Hz2JF5n2fgjqrH7N"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 837013,
+      "name": "Symphony No. 6 in A Minor: II. Andante moderato - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/1nVnGOXq5ar7Kar7YuAMNY"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 763373,
+      "name": "Symphony No. 6 in A Minor: III. Scherzo. Wuchtig - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/25hGqLbUdyUIYNZrEsQDDU"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 6",
+        "url": "https://open.spotify.com/album/3FCu5nIj6qa8XiOPHn6j5v"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1784293,
+      "name": "Symphony No. 6 in A Minor: IV. Finale. Allegro moderato - Live at Philharmonie, Berlin, 2004",
+      "url": "https://open.spotify.com/track/1gN6KMDACiBI08J31DSQmZ"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1250186,
+      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/23ZAoFEVlfrjzMZHTgUD1c"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/2gfplXXrY0dMW9RGC2s6bn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1250186,
+      "name": "Symphony No. 7 in E Minor: I. Langsam - Allegro con fuoco",
+      "url": "https://open.spotify.com/track/7kRZCzndQJeUNDRhKaFBV5"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/2gfplXXrY0dMW9RGC2s6bn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 579986,
+      "name": "Symphony No. 7 in E Minor: III. Scherzo. Schattenhaft",
+      "url": "https://open.spotify.com/track/5CovWknOFg16vSEtiNULID"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 579986,
+      "name": "Symphony No. 7 in E Minor: III. Scherzo: Schattenhaft",
+      "url": "https://open.spotify.com/track/6donFiaElbTnuklM7XkPdp"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 835280,
+      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
+      "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/2gfplXXrY0dMW9RGC2s6bn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 835280,
+      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
+      "url": "https://open.spotify.com/track/6TK9PZ6Na7aBvvJimQMAAz"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/2gfplXXrY0dMW9RGC2s6bn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1041746,
+      "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
+      "url": "https://open.spotify.com/track/3qLiuSbheZVxEqCvag42Fp"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1041746,
+      "name": "Symphony No. 7 in E Minor: V. Rondo-Finale",
+      "url": "https://open.spotify.com/track/6LFriNh4QuVEDHWt2IHbcH"
+    },
+    {
+      "album": {
+        "name": "Mahler: The Symphonies",
+        "url": "https://open.spotify.com/album/2l3IspQ4ayL9bLIsY9oEKG"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Eaglen",
+          "url": "https://open.spotify.com/artist/7rBsqYA5AGno8zn0sVVS6c"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Sara Fulgoni",
+          "url": "https://open.spotify.com/artist/7cnNj77AFfSryAQ3KcqgnW"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Peter Mattei",
+          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
+        },
+        {
+          "name": "Jan-Hendrik Rootering",
+          "url": "https://open.spotify.com/artist/40uS8bQwZnLykIvMOwifxj"
+        },
+        {
+          "name": "Netherlands Radio Choir",
+          "url": "https://open.spotify.com/artist/0TXrrXRp1mHq4yPA1dHuf9"
+        },
+        {
+          "name": "Prague Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/1Rn0zX2Yet9c0CXSO9bJmi"
+        },
+        {
+          "name": "Jongens en meisjes van het Kathedrale Koor St.Bavo, Haarlem",
+          "url": "https://open.spotify.com/artist/01SlHnIg02znfJu5Ai86aA"
+        },
+        {
+          "name": "Sacramentskoor Breda",
+          "url": "https://open.spotify.com/artist/0ekMPgBxydXFRtVEqI1wFQ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309186,
+      "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
+      "url": "https://open.spotify.com/track/1MVQZ6IHffWxf5y2Yf3SVw"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8 (Mahler 8)",
+        "url": "https://open.spotify.com/album/0KQbrGXEyi2s9cgwuD4daL"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Eaglen",
+          "url": "https://open.spotify.com/artist/7rBsqYA5AGno8zn0sVVS6c"
+        },
+        {
+          "name": "Anne Schwanewilms",
+          "url": "https://open.spotify.com/artist/3mRERvxAET9zPx7kL90Srv"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Sara Fulgoni",
+          "url": "https://open.spotify.com/artist/7cnNj77AFfSryAQ3KcqgnW"
+        },
+        {
+          "name": "Anna Larsson",
+          "url": "https://open.spotify.com/artist/1OsJZxSshQD4BCg1VtwxsN"
+        },
+        {
+          "name": "Ben Heppner",
+          "url": "https://open.spotify.com/artist/3dMJsxDVl3FFouPCStt6o8"
+        },
+        {
+          "name": "Peter Mattei",
+          "url": "https://open.spotify.com/artist/18Bm1xs8qFr9pPiy6GONgu"
+        },
+        {
+          "name": "Jan-Hendrik Rootering",
+          "url": "https://open.spotify.com/artist/40uS8bQwZnLykIvMOwifxj"
+        },
+        {
+          "name": "Netherlands Radio Choir",
+          "url": "https://open.spotify.com/artist/0TXrrXRp1mHq4yPA1dHuf9"
+        },
+        {
+          "name": "Prague Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/6zhM9WlE1iJnsLAUXuDS47"
+        },
+        {
+          "name": "Jongens en meisjes van het Kathedrale Koor St.Bavo, Haarlem",
+          "url": "https://open.spotify.com/artist/01SlHnIg02znfJu5Ai86aA"
+        },
+        {
+          "name": "Sacramentskoor Breda",
+          "url": "https://open.spotify.com/artist/0ekMPgBxydXFRtVEqI1wFQ"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309209,
+      "name": "Symphony No. 8 in E flat - \"Symphony of a Thousand\" - Part One: Hymnus \"Veni creator spiritus\": \"Accende lumen sensibus\"",
+      "url": "https://open.spotify.com/track/2hurAdmJRAKfQBZCfVhNAM"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/1JFvYkrnJiipICQojNww1A"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Barbara Kubiak",
+          "url": "https://open.spotify.com/artist/2gW56XaO3aFRgFngFX90WJ"
+        },
+        {
+          "name": "Polish Radio Choir",
+          "url": "https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4"
+        },
+        {
+          "name": "Warsaw Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/47gaWDKsDnCPtFbboN9Kvl"
+        },
+        {
+          "name": "Cardinal Stefan Wyszynski University Choir",
+          "url": "https://open.spotify.com/artist/5HFCNK1XihJMV45QFNUXeU"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230666,
+      "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": Dir, der Unber\u00fchrbaren",
+      "url": "https://open.spotify.com/track/77HutfpFn6aRmARLktNEal"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/3VHp7AHPIHyGpvMxTzJKGF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95493,
+      "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": I. Teil. Hymnus. Veni, creator spiritus!",
+      "url": "https://open.spotify.com/track/6vtHsZ6rrJvcoUy2tmNpkt"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/1JFvYkrnJiipICQojNww1A"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Warsaw Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/47gaWDKsDnCPtFbboN9Kvl"
+        },
+        {
+          "name": "Polish Radio Choir",
+          "url": "https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4"
+        },
+        {
+          "name": "Cardinal Stefan Wyszynski University Choir",
+          "url": "https://open.spotify.com/artist/5HFCNK1XihJMV45QFNUXeU"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 84213,
+      "name": "Symphony No. 8 in E-Flat Major \"Symphony of a Thousand\": Veni, Creator Spiritus",
+      "url": "https://open.spotify.com/track/5UBLUjhAHaYfY60WyrWBfG"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 8, \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/27tv3ht9zh1vEimrzmN3FF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Barbara Kubiak",
+          "url": "https://open.spotify.com/artist/2gW56XaO3aFRgFngFX90WJ"
+        },
+        {
+          "name": "Izabela Klosinska",
+          "url": "https://open.spotify.com/artist/3XBVboDYG3geSCMAT6XUOX"
+        },
+        {
+          "name": "Marta Boberska",
+          "url": "https://open.spotify.com/artist/6hGhKOe4Ns07Iv2p5FCqnZ"
+        },
+        {
+          "name": "Jadwiga Rappe",
+          "url": "https://open.spotify.com/artist/0NEuWnJoVwgAbFrf4Navsq"
+        },
+        {
+          "name": "Ewa Marciniec",
+          "url": "https://open.spotify.com/artist/1aamglut4NVglA3AaiKdk5"
+        },
+        {
+          "name": "Timothy Bentch",
+          "url": "https://open.spotify.com/artist/2rucnmmSV8eaglADHMELdR"
+        },
+        {
+          "name": "Wojtek Drabowicz",
+          "url": "https://open.spotify.com/artist/56M9lxYtoDM30REVIZRG8x"
+        },
+        {
+          "name": "Piotr Nowacki",
+          "url": "https://open.spotify.com/artist/5zGCqvrHQJaNl5mpkg7Cly"
+        },
+        {
+          "name": "Cardinal Stefan Wyszynski University Choir",
+          "url": "https://open.spotify.com/artist/5HFCNK1XihJMV45QFNUXeU"
+        },
+        {
+          "name": "Polish Radio Choir",
+          "url": "https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4"
+        },
+        {
+          "name": "Warsaw Boys Choir",
+          "url": "https://open.spotify.com/artist/66eo4hzijwSx5tsWFObVxW"
+        },
+        {
+          "name": "Warsaw Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/47gaWDKsDnCPtFbboN9Kvl"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230666,
+      "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Dir, der Unberuhrbaren - Du schwebst zu Hohen der ewigen Reiche -",
+      "url": "https://open.spotify.com/track/6VU155VZpBpveXfAuSYeuj"
+    },
+    {
+      "album": {
+        "name": "Mahler, G.: Symphony No. 8, \"Symphony of a Thousand\"",
+        "url": "https://open.spotify.com/album/27tv3ht9zh1vEimrzmN3FF"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Barbara Kubiak",
+          "url": "https://open.spotify.com/artist/2gW56XaO3aFRgFngFX90WJ"
+        },
+        {
+          "name": "Izabela Klosinska",
+          "url": "https://open.spotify.com/artist/3XBVboDYG3geSCMAT6XUOX"
+        },
+        {
+          "name": "Jadwiga Rappe",
+          "url": "https://open.spotify.com/artist/0NEuWnJoVwgAbFrf4Navsq"
+        },
+        {
+          "name": "Ewa Marciniec",
+          "url": "https://open.spotify.com/artist/1aamglut4NVglA3AaiKdk5"
+        },
+        {
+          "name": "Timothy Bentch",
+          "url": "https://open.spotify.com/artist/2rucnmmSV8eaglADHMELdR"
+        },
+        {
+          "name": "Wojtek Drabowicz",
+          "url": "https://open.spotify.com/artist/56M9lxYtoDM30REVIZRG8x"
+        },
+        {
+          "name": "Piotr Nowacki",
+          "url": "https://open.spotify.com/artist/5zGCqvrHQJaNl5mpkg7Cly"
+        },
+        {
+          "name": "Warsaw Philharmonic Choir",
+          "url": "https://open.spotify.com/artist/47gaWDKsDnCPtFbboN9Kvl"
+        },
+        {
+          "name": "Polish Radio Choir",
+          "url": "https://open.spotify.com/artist/1rb7CB5Bi6Wh76dVfqZxP4"
+        },
+        {
+          "name": "Cardinal Stefan Wyszynski University Choir",
+          "url": "https://open.spotify.com/artist/5HFCNK1XihJMV45QFNUXeU"
+        },
+        {
+          "name": "Warsaw Boys Choir",
+          "url": "https://open.spotify.com/artist/66eo4hzijwSx5tsWFObVxW"
+        },
+        {
+          "name": "Warsaw Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3Wqs5ZgX7Orq4YKtPhHdED"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84213,
+      "name": "Symphony No. 8 in E-Flat Major, \"Symphony of a Thousand\": Veni, Creator Spiritus -",
+      "url": "https://open.spotify.com/track/2RGtWy0QKjMeAYQhbjUNGu"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 8",
+        "url": "https://open.spotify.com/album/0v90cyaG7HGzM8pLfaLiZ8"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "New York Choral Artists",
+          "url": "https://open.spotify.com/artist/70AeZLjqrd7QxYqwqFZ7Ed"
+        },
+        {
+          "name": "The Dessoff Symphonic Choir",
+          "url": "https://open.spotify.com/artist/0aWo0yS64FFhiebkTVJp9m"
+        },
+        {
+          "name": "Anthony Dean Griffey",
+          "url": "https://open.spotify.com/artist/0RQCOqfLa62jcI6Wb3Gt6Q"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349497,
+      "name": "Symphony No. 8: II - VII. H\u00f6chste Herrscherin der Welt! - Live",
+      "url": "https://open.spotify.com/track/4W2C9mMIoYrC48RVrlCUXU"
+    },
+    {
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1773213,
+      "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/3hcCcJC6p3mwQXecsKZrhf"
+    },
+    {
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1773213,
+      "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/483VMfYNqtUAxcEWXRVvDn"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 9 (Live From Walt Disney Concert Hall, Los Angeles / 2012)",
+        "url": "https://open.spotify.com/album/1yfm1Csv5axn37yNFDqlwM"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 1773213,
+      "name": "Symphony No. 9 in D Major: I. Andante comodo - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/6BIwsQHXDYEn4hepOwqJL4"
+    },
+    {
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
+    },
+    {
+      "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/2ZgKIsyj14wcl8GEL1LLC6"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/6vjx3iXxIXR8PZFX7ku3Bj"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 815226,
+      "name": "Symphony No.10 in F-sharp Major: IV. Scherzo II: Kr\u00e4ftig, nicht zu schnell",
+      "url": "https://open.spotify.com/track/56anl3ns0VcBsGy1E2M15Q"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 10",
+        "url": "https://open.spotify.com/album/1Ay9wNJ3tXg4rXAVk8AFJl"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1297293,
+      "name": "Symphony No.10 in F-sharp Major: V. Finale. Langsam - Allegro moderato - Andante comodo, aber nicht schleppend",
+      "url": "https://open.spotify.com/track/3HJ9Aq3y9nNaSkljrw4QTV"
+    },
+    {
+      "album": {
+        "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
+        "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Vladimir Jurowski",
+          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1352400,
+      "name": "Totenfeier",
+      "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+    },
+    {
+      "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/19GdtV83xdWPPx8PxkYeZg"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/74RyXlypy4lkNesWXoDpbo"
+    },
+    {
+      "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/3hGdaHVgLyLpKNOh5NbOkS"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gustav Mahler Ensemble",
+          "url": "https://open.spotify.com/artist/6ivbCf0rHD7MJLfawBtXqT"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "date_added": "2020-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWYFH7pZ5xe7h"
 }

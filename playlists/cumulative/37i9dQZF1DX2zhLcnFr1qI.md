@@ -4,7 +4,7 @@
 
 > Dance and Electronic tracks for the season <3
 
-120 songs - 6 hr 19 min
+121 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Angels we have Heard](https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [The Moth & The Flame](https://open.spotify.com/artist/6Fk18HpdnXUsKWpN9mPb9R) | [Kaskade Christmas Volume 2](https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v) | 3:11 | 2023-11-17 |  |
 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/5bLnab0c8Y9gVLDnLKdsfF) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/06RlOKlbMSJajJXRm2qVpt) | 3:37 | 2021-12-17 | 2022-11-29 |
 | [Another Chance \- Don Diablo Chill Mix](https://open.spotify.com/track/7HZqD8EWEBQrklzLf3oQer) | [Big Pineapple](https://open.spotify.com/artist/364ge6OLf1AsRisexSjfJN), [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Another Chance \(Remixes\)](https://open.spotify.com/album/5pLiabGezZM6PTes04JYsF) | 3:37 | 2021-12-17 | 2022-06-20 |
-| [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 | 2023-12-22 |  |
+| [Are You With Me \- Christmas Mix](https://open.spotify.com/track/1jpHQ0q1plPQme7lm0Blil) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/4U4TGgkDz7FguxhVF15ICf) | 2:18 | 2023-12-22 | 2024-01-12 |
+| [Are You With Me \- Christmas Mix](https://open.spotify.com/track/3IRloUCaYoOBxtWrdmo4An) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Are You With Me / Reality \(Christmas Remixes\)](https://open.spotify.com/album/1t30B1n6BLtehMNQw9qPF9) | 2:18 | 2023-12-22 |  |
 | [Battle \- Cause & Affect Jingle Bells Remix](https://open.spotify.com/track/4WZ8F1vkdu0H0Ve98rv0gO) | [Riddim Commission](https://open.spotify.com/artist/6VEfh7l6OPJYzIO8vRsqo9), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Cause & Affect](https://open.spotify.com/artist/6rrfw2MwiwpIMnA8pWj1UQ) | [Battle \(Cause & Affect Jingle Bells Remix\)](https://open.spotify.com/album/4OQwvPvXZFW1G2RINQFkZ1) | 2:37 | 2021-12-17 | 2023-12-13 |
 | [Bird Machine \- Jingle Bells Version](https://open.spotify.com/track/6t0KVCE10aI5wUeodIHhmW) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Alesia](https://open.spotify.com/artist/5Jq7xVix3aUHQFQ5vNUgBu) | [A Very Decent Christmas](https://open.spotify.com/album/2IjH5xDghPPF4tXn1Mgkph) | 2:57 | 2021-12-17 | 2022-12-03 |
 | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/track/1qXFfxYo6lyVk8Cgeuyuu2) | [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [High Level](https://open.spotify.com/artist/4KvRH69whFDlnlkk39c1Hh) | [Can Can \(Hardstyle Mix\)](https://open.spotify.com/album/7c9YtdfJjz6pCQWrrWb8Gn) | 2:00 | 2022-12-16 |  |

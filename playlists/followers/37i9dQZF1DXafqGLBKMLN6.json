@@ -1,55 +1,527 @@
 {
-  "2023-11-10": 1,
-  "2023-11-11": 6,
-  "2023-11-12": 9,
-  "2023-11-13": 9,
-  "2023-11-14": 9,
-  "2023-11-15": 9,
-  "2023-11-16": 439,
-  "2023-11-17": 449,
-  "2023-11-18": 449,
-  "2023-11-19": 454,
-  "2023-11-20": 454,
-  "2023-11-21": 461,
-  "2023-11-22": 465,
-  "2023-11-23": 472,
-  "2023-11-24": 472,
-  "2023-11-25": 484,
-  "2023-11-26": 484,
-  "2023-11-27": 488,
-  "2023-11-28": 488,
-  "2023-11-29": 503,
-  "2023-11-30": 503,
-  "2023-12-01": 503,
-  "2023-12-02": 516,
-  "2023-12-03": 516,
-  "2023-12-04": 516,
-  "2023-12-05": 535,
-  "2023-12-06": 538,
-  "2023-12-07": 538,
-  "2023-12-08": 538,
-  "2023-12-09": 548,
-  "2023-12-10": 548,
-  "2023-12-11": 551,
-  "2023-12-12": 551,
-  "2023-12-13": 566,
-  "2023-12-14": 568,
-  "2023-12-15": 567,
-  "2023-12-16": 569,
-  "2023-12-17": 574,
-  "2023-12-18": 576,
-  "2023-12-19": 576,
-  "2023-12-20": 576,
-  "2023-12-21": 579,
-  "2023-12-22": 584,
-  "2023-12-23": 588,
-  "2023-12-24": 591,
-  "2023-12-25": 591,
-  "2023-12-26": 591,
-  "2023-12-27": 598,
-  "2023-12-30": 604,
-  "2023-12-31": 606,
-  "2024-01-01": 608,
-  "2024-01-02": 610,
-  "2024-01-03": 615
+  "2024-01-17": 648,
+  "date_first_scraped": "2023-11-10",
+  "description": "Alvaro Diaz takes over Fuego! Featuring Don Omar, Kanye West, Trebol Clan & more. Find this week's Fuego mixtape <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb\">here</a>.",
+  "name": "Fuego #075 - Alvaro Diaz's Mixtape",
+  "tracks": [
+    {
+      "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/0SwqLSkutjgKHO8Y7jCplA"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3x7uFW9r8FpZpS7vlGShiJ"
+    },
+    {
+      "album": {
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+    },
+    {
+      "album": {
+        "name": "Reggaeton Hall of Fame, Vol. 1",
+        "url": "https://open.spotify.com/album/7z9bNKljyF4BCVf6srNhN0"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 157701,
+      "name": "Agarrala",
+      "url": "https://open.spotify.com/track/50K0GKbudptd9wZwQlQWdj"
+    },
+    {
+      "album": {
+        "name": "Los Bacatranes",
+        "url": "https://open.spotify.com/album/3Jk5Cjra0Q7wO2OtS27Hfg"
+      },
+      "artists": [
+        {
+          "name": "Trebol Clan",
+          "url": "https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152106,
+      "name": "Ag\u00e1rrala (Remix)",
+      "url": "https://open.spotify.com/track/7mL0vTeXzlUj2jsApatA83"
+    },
+    {
+      "album": {
+        "name": "Urban Hymns (Remastered 2016)",
+        "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357266,
+      "name": "Bitter Sweet Symphony - Remastered 2016",
+      "url": "https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw"
+    },
+    {
+      "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192253,
+      "name": "Erase Me - Main",
+      "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "FML",
+      "url": "https://open.spotify.com/track/30Zcjs7pgEkmJA1lEbGSWT"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238854,
+      "name": "Hey Jude",
+      "url": "https://open.spotify.com/track/1eT2CjXwFXNx6oY5ydvzKU"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257066,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/21DyCPJqQ8tzFCHJYX9Koz"
+    },
+    {
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119133,
+      "name": "Jocelyn Flores",
+      "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "album": {
+        "name": "AT.LONG.LAST.A$AP",
+        "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "L$D",
+      "url": "https://open.spotify.com/track/4S7YHmlWwfwArgd8LfSPud"
+    },
+    {
+      "album": {
+        "name": "In Search Of...",
+        "url": "https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6pk6yWYNSFNHkngDZPvjEL"
+        },
+        {
+          "name": "Lee Harvey",
+          "url": "https://open.spotify.com/artist/2vB0c3J8Y3OeMmgAv244Do"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Lapdance",
+      "url": "https://open.spotify.com/track/6FuAe03bP2SQT4TCDKhuGx"
+    },
+    {
+      "album": {
+        "name": "LENTITO",
+        "url": "https://open.spotify.com/album/4wIh0endOPhEFLXLVYQCR3"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203546,
+      "name": "LENTITO",
+      "url": "https://open.spotify.com/track/4RMKNv1Bl3koY4Kys0G8Rb"
+    },
+    {
+      "album": {
+        "name": "Regaetton Hits",
+        "url": "https://open.spotify.com/album/17zIDSCD7jEwW4afb8P7IU"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166107,
+      "name": "Mia Completa",
+      "url": "https://open.spotify.com/track/6XZTDi3DC1p33Dt1ZBtJNN"
+    },
+    {
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/5LbfmeWh5cvLpR1Nfvdch5"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "Not Too Much",
+      "url": "https://open.spotify.com/track/3wlHZBhl1SPbzEr0Y1Mk18"
+    },
+    {
+      "album": {
+        "name": "RAMONA FLOWERS",
+        "url": "https://open.spotify.com/album/0yw9ssvV1xfHZGdsZAp3Am"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181240,
+      "name": "RAMONA FLOWERS",
+      "url": "https://open.spotify.com/track/0zvj4JsD8fAV35vLTCdKWQ"
+    },
+    {
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Reminder",
+      "url": "https://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI"
+    },
+    {
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377600,
+      "name": "Say You Will",
+      "url": "https://open.spotify.com/track/5e5MKPtJuFb8NaeSEyV5gD"
+    },
+    {
+      "album": {
+        "name": "Take Off Your Pants And Jacket",
+        "url": "https://open.spotify.com/album/3nHpBmW5wJXGeC3ojBkpey"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239333,
+      "name": "Stay Together For The Kids",
+      "url": "https://open.spotify.com/track/3YD9EehnGOf88rGSZFrnHg"
+    },
+    {
+      "album": {
+        "name": "SUPRA 94TRO",
+        "url": "https://open.spotify.com/album/4Nu88yMEmPXFahuw65nZem"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176680,
+      "name": "SUPRA 94TRO",
+      "url": "https://open.spotify.com/track/711HDUbtqYw1FEdSk5dkpO"
+    },
+    {
+      "album": {
+        "name": "WZRD",
+        "url": "https://open.spotify.com/album/16Tz5tlOTNzG5DnMT4M4Xs"
+      },
+      "artists": [
+        {
+          "name": "WZRD",
+          "url": "https://open.spotify.com/artist/415rtLOb1FDKZAxo1IJ1hW"
+        },
+        {
+          "name": "Desire",
+          "url": "https://open.spotify.com/artist/2OuSnRT9BKAvFuw0yoTim0"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238400,
+      "name": "Teleport 2 Me, Jamie",
+      "url": "https://open.spotify.com/track/5xKvxwXINUs2dsyvDJ8Gjs"
+    },
+    {
+      "album": {
+        "name": "Lustmore",
+        "url": "https://open.spotify.com/album/4gcQlf421a5ydYH65ncTrU"
+      },
+      "artists": [
+        {
+          "name": "Lapalux",
+          "url": "https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269991,
+      "name": "U Never Know",
+      "url": "https://open.spotify.com/track/3JK30AgP4g1kXBkfGc7oRi"
+    },
+    {
+      "album": {
+        "name": "Los Benjamins - La Continuacion",
+        "url": "https://open.spotify.com/album/5IsjHngPrl7LI1001ZUjTM"
+      },
+      "artists": [
+        {
+          "name": "Randy",
+          "url": "https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247026,
+      "name": "Welcome To My Crib",
+      "url": "https://open.spotify.com/track/3taCy6SW79HbVJotZc03gB"
+    },
+    {
+      "album": {
+        "name": "California",
+        "url": "https://open.spotify.com/album/1Mp3A4tFDAiaMeGFJUzo1c"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175273,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/7lxOjQyVsHQ8toQeT7IgCc"
+    },
+    {
+      "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6KtLECDztnah63TNmV4Plw"
+    },
+    {
+      "album": {
+        "name": "(What's The Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/2u30gztZTylY4RG7IvfXs8"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258906,
+      "name": "Wonderwall",
+      "url": "https://open.spotify.com/track/1qPbGZqppFwLwcBC1JQ6Vr"
+    },
+    {
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "date_added": "2023-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXafqGLBKMLN6"
 }

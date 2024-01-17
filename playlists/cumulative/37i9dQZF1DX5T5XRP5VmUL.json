@@ -1547,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "Holidays",
+        "url": "https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK"
+      },
+      "artists": [
+        {
+          "name": "Anomalie",
+          "url": "https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104793,
+      "name": "Dance of the Sugar Plum Fairy",
+      "url": "https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0"
+    },
+    {
+      "album": {
         "name": "Darling, It's Cold Out",
         "url": "https://open.spotify.com/album/1wFu0LNxQVHGYqS2enaCBW"
       },
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 150697,
       "name": "Merry Christmas",
       "url": "https://open.spotify.com/track/6B8tOwbbbvRkGBrFw2PJB1"

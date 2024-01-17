@@ -4,7 +4,7 @@
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-202 songs - 16 hr 53 min
+203 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,10 +125,11 @@
 | [Move To Groove \- Live At The Montreaux Jazz Festival/1972](https://open.spotify.com/track/6ZKvCmbRHECqbs4M8AeqNd) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Live At The Montreaux Jazz Festival](https://open.spotify.com/album/6ea4nOTkOXTEI5m0p7I0MC) | 8:10 | 2022-02-10 | 2022-07-24 |
 | [My Girl \- Live \(1964 Fox Theater\)](https://open.spotify.com/track/4aSpobarPve3IvDYBG4mzb) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Lost & Found:The Temptations: You've Got To Earn It \(1962\-1968\)](https://open.spotify.com/album/7wrPrbiYeAizoeMAsRVoW5) | 2:59 | 2022-02-10 | 2022-07-29 |
 | [My Girl \[Paris\]](https://open.spotify.com/track/7fnUFbkKFYwm9WBxndODOs) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [Live in London And Paris](https://open.spotify.com/album/3HVpDIHlaQuOcvmTGLPQQI) | 2:42 | 2022-02-10 | 2022-07-15 |
-| [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 | 2022-02-10 |  |
+| [Nakamarra \- Live from Spotify Sydney](https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Spotify Sessions](https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw) | 4:56 | 2022-02-10 | 2024-01-14 |
 | [Never Too Much \- Live at Radio City Music Hall, New York \- Feb\. 12, 2003](https://open.spotify.com/track/13lur7EjGHqLbKCaJRh5aG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Live Radio City Music Hall 2003](https://open.spotify.com/album/5wq0AUenn2o3RXoBelNsxu) | 4:02 | 2022-02-10 |  |
 | [No Love Dying \- Live At The Royal Albert Hall / 02 April 2018](https://open.spotify.com/track/5zqOcGH3Is5EvPoMG9rBtx) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [One Night Only \(Live At The Royal Albert Hall / 02 April 2018\)](https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun) | 5:33 | 2022-02-10 | 2022-11-13 |
 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 | 2022-02-10 | 2023-12-30 |
+| [Oceans Of Emotions \- The Circle Sessions, 2023](https://open.spotify.com/track/4LW9XCbPyhnWyshA46rXmF) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Circle Sessions, 2023](https://open.spotify.com/album/3cOhZf6Vi6zK13jFZrPxrs) | 3:36 | 2024-01-11 |  |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/2lKZJgos5LeBRCfRShviWZ) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Deluxe Edition\)](https://open.spotify.com/album/7BEA5emJl0yTMC9XBDJCcm) | 5:44 | 2022-02-10 |  |
 | [OCT 33 \- Live In Studio](https://open.spotify.com/track/3xzMHgF7BPoo7Ys0VJRIVf) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [OCT 33 \(Live In Studio\)](https://open.spotify.com/album/6KcBenLJ5rjifhxTdmtZk5) | 5:44 | 2022-02-10 | 2022-07-29 |
 | [On & On \- Live](https://open.spotify.com/track/4QT4TDuorhuBn6ycdQN4sQ) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Live](https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX) | 5:30 | 2022-02-10 | 2023-10-13 |

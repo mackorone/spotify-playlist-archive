@@ -1,579 +1,931 @@
 {
-  "2022-05-31": 2124,
-  "2022-06-01": 2136,
-  "2022-06-02": 2137,
-  "2022-06-03": 2144,
-  "2022-06-04": 2147,
-  "2022-06-05": 2150,
-  "2022-06-06": 2157,
-  "2022-06-07": 2162,
-  "2022-06-08": 2169,
-  "2022-06-09": 2174,
-  "2022-06-10": 2180,
-  "2022-06-11": 2189,
-  "2022-06-12": 2193,
-  "2022-06-13": 2200,
-  "2022-06-14": 2203,
-  "2022-06-15": 2208,
-  "2022-06-16": 2217,
-  "2022-06-17": 2229,
-  "2022-06-18": 2232,
-  "2022-06-19": 2245,
-  "2022-06-20": 2245,
-  "2022-06-21": 2254,
-  "2022-06-22": 2271,
-  "2022-06-23": 2271,
-  "2022-06-24": 2276,
-  "2022-06-25": 2280,
-  "2022-06-26": 2285,
-  "2022-06-27": 2287,
-  "2022-06-28": 2290,
-  "2022-06-29": 2299,
-  "2022-06-30": 2301,
-  "2022-07-01": 2308,
-  "2022-07-02": 2315,
-  "2022-07-03": 2324,
-  "2022-07-04": 2329,
-  "2022-07-05": 2334,
-  "2022-07-06": 2336,
-  "2022-07-07": 2336,
-  "2022-07-08": 2340,
-  "2022-07-09": 2345,
-  "2022-07-10": 2350,
-  "2022-07-11": 2362,
-  "2022-07-12": 2370,
-  "2022-07-13": 2373,
-  "2022-07-14": 2376,
-  "2022-07-15": 2388,
-  "2022-07-16": 2390,
-  "2022-07-17": 2394,
-  "2022-07-18": 2401,
-  "2022-07-19": 2409,
-  "2022-07-20": 2413,
-  "2022-07-21": 2416,
-  "2022-07-22": 2422,
-  "2022-07-23": 2425,
-  "2022-07-24": 2434,
-  "2022-07-25": 2438,
-  "2022-07-26": 2443,
-  "2022-07-27": 2448,
-  "2022-07-28": 2454,
-  "2022-07-29": 2456,
-  "2022-07-30": 2473,
-  "2022-07-31": 2473,
-  "2022-08-01": 2475,
-  "2022-08-02": 2494,
-  "2022-08-03": 2494,
-  "2022-08-04": 2499,
-  "2022-08-05": 2506,
-  "2022-08-06": 2517,
-  "2022-08-07": 2524,
-  "2022-08-08": 2533,
-  "2022-08-09": 2535,
-  "2022-08-10": 2540,
-  "2022-08-11": 2550,
-  "2022-08-12": 2554,
-  "2022-08-13": 2561,
-  "2022-08-14": 2568,
-  "2022-08-15": 2573,
-  "2022-08-16": 2578,
-  "2022-08-17": 2586,
-  "2022-08-18": 2594,
-  "2022-08-19": 2597,
-  "2022-08-20": 2599,
-  "2022-08-21": 2609,
-  "2022-08-22": 2621,
-  "2022-08-23": 2630,
-  "2022-08-24": 2636,
-  "2022-08-25": 2639,
-  "2022-08-26": 2644,
-  "2022-08-27": 2649,
-  "2022-08-28": 2655,
-  "2022-08-29": 2662,
-  "2022-08-30": 2664,
-  "2022-08-31": 2666,
-  "2022-09-01": 2660,
-  "2022-09-02": 2661,
-  "2022-09-03": 2651,
-  "2022-09-04": 2645,
-  "2022-09-05": 2652,
-  "2022-09-06": 2658,
-  "2022-09-07": 2665,
-  "2022-09-09": 2679,
-  "2022-09-10": 2683,
-  "2022-09-11": 2686,
-  "2022-09-12": 2690,
-  "2022-09-13": 2696,
-  "2022-09-15": 2707,
-  "2022-09-16": 2712,
-  "2022-09-17": 2714,
-  "2022-09-18": 2719,
-  "2022-09-19": 2720,
-  "2022-09-20": 2723,
-  "2022-09-21": 2729,
-  "2022-09-22": 2731,
-  "2022-09-23": 2734,
-  "2022-09-24": 2739,
-  "2022-09-25": 2745,
-  "2022-09-26": 2754,
-  "2022-09-27": 2759,
-  "2022-09-28": 2766,
-  "2022-09-29": 2770,
-  "2022-09-30": 2772,
-  "2022-10-01": 2778,
-  "2022-10-02": 2783,
-  "2022-10-03": 2787,
-  "2022-10-04": 2789,
-  "2022-10-05": 2792,
-  "2022-10-06": 2795,
-  "2022-10-07": 2802,
-  "2022-10-08": 2808,
-  "2022-10-09": 2816,
-  "2022-10-10": 2817,
-  "2022-10-11": 2822,
-  "2022-10-12": 2825,
-  "2022-10-13": 2826,
-  "2022-10-14": 2834,
-  "2022-10-15": 2836,
-  "2022-10-16": 2843,
-  "2022-10-17": 2850,
-  "2022-10-18": 2858,
-  "2022-10-19": 2862,
-  "2022-10-20": 2867,
-  "2022-10-21": 2875,
-  "2022-10-22": 2888,
-  "2022-10-23": 2896,
-  "2022-10-24": 2899,
-  "2022-10-25": 2902,
-  "2022-10-26": 2905,
-  "2022-10-27": 2909,
-  "2022-10-28": 2915,
-  "2022-10-29": 2918,
-  "2022-10-30": 2928,
-  "2022-10-31": 2932,
-  "2022-11-01": 2935,
-  "2022-11-02": 2944,
-  "2022-11-03": 2948,
-  "2022-11-04": 2956,
-  "2022-11-05": 2957,
-  "2022-11-06": 2967,
-  "2022-11-07": 2975,
-  "2022-11-08": 2983,
-  "2022-11-09": 2994,
-  "2022-11-10": 2996,
-  "2022-11-11": 3003,
-  "2022-11-12": 3013,
-  "2022-11-13": 3015,
-  "2022-11-14": 3019,
-  "2022-11-15": 3023,
-  "2022-11-16": 3028,
-  "2022-11-17": 3035,
-  "2022-11-18": 3037,
-  "2022-11-19": 3039,
-  "2022-11-20": 3047,
-  "2022-11-21": 3054,
-  "2022-11-22": 3066,
-  "2022-11-23": 3074,
-  "2022-11-24": 3092,
-  "2022-11-25": 3101,
-  "2022-11-26": 3109,
-  "2022-11-27": 3110,
-  "2022-11-28": 3111,
-  "2022-11-29": 3118,
-  "2022-11-30": 3123,
-  "2022-12-01": 3132,
-  "2022-12-02": 3137,
-  "2022-12-03": 3142,
-  "2022-12-04": 3147,
-  "2022-12-05": 3151,
-  "2022-12-06": 3154,
-  "2022-12-07": 3161,
-  "2022-12-08": 3168,
-  "2022-12-09": 3172,
-  "2022-12-10": 3179,
-  "2022-12-11": 3186,
-  "2022-12-12": 3190,
-  "2022-12-13": 3192,
-  "2022-12-14": 3197,
-  "2022-12-15": 3199,
-  "2022-12-16": 3204,
-  "2022-12-17": 3207,
-  "2022-12-18": 3213,
-  "2022-12-19": 3219,
-  "2022-12-20": 3237,
-  "2022-12-21": 3237,
-  "2022-12-22": 3241,
-  "2022-12-24": 3250,
-  "2022-12-25": 3256,
-  "2022-12-26": 3259,
-  "2022-12-27": 3267,
-  "2022-12-28": 3278,
-  "2022-12-29": 3280,
-  "2022-12-30": 3289,
-  "2022-12-31": 3291,
-  "2023-01-01": 3293,
-  "2023-01-02": 3303,
-  "2023-01-03": 3310,
-  "2023-01-04": 3314,
-  "2023-01-05": 3319,
-  "2023-01-06": 3330,
-  "2023-01-07": 3340,
-  "2023-01-08": 3341,
-  "2023-01-09": 3349,
-  "2023-01-10": 3355,
-  "2023-01-11": 3359,
-  "2023-01-12": 3375,
-  "2023-01-13": 3380,
-  "2023-01-14": 3401,
-  "2023-01-15": 3404,
-  "2023-01-16": 3410,
-  "2023-01-17": 3419,
-  "2023-01-18": 3427,
-  "2023-01-19": 3433,
-  "2023-01-20": 3441,
-  "2023-01-21": 3447,
-  "2023-01-22": 3450,
-  "2023-01-23": 3463,
-  "2023-01-24": 3468,
-  "2023-01-25": 3473,
-  "2023-01-26": 3477,
-  "2023-01-27": 3487,
-  "2023-01-28": 3493,
-  "2023-01-29": 3494,
-  "2023-01-30": 3501,
-  "2023-01-31": 3501,
-  "2023-02-01": 3507,
-  "2023-02-02": 3515,
-  "2023-02-03": 3518,
-  "2023-02-04": 3524,
-  "2023-02-05": 3525,
-  "2023-02-06": 3531,
-  "2023-02-07": 3536,
-  "2023-02-08": 3557,
-  "2023-02-09": 3557,
-  "2023-02-10": 3565,
-  "2023-02-11": 3576,
-  "2023-02-12": 3591,
-  "2023-02-13": 3593,
-  "2023-02-14": 3593,
-  "2023-02-15": 3601,
-  "2023-02-16": 3603,
-  "2023-02-17": 3609,
-  "2023-02-18": 3624,
-  "2023-02-19": 3626,
-  "2023-02-20": 3628,
-  "2023-02-21": 3642,
-  "2023-02-22": 3653,
-  "2023-02-23": 3657,
-  "2023-02-24": 3659,
-  "2023-02-25": 3669,
-  "2023-02-26": 3673,
-  "2023-02-27": 3685,
-  "2023-02-28": 3685,
-  "2023-03-01": 3690,
-  "2023-03-02": 3697,
-  "2023-03-03": 3702,
-  "2023-03-04": 3706,
-  "2023-03-05": 3715,
-  "2023-03-06": 3715,
-  "2023-03-07": 3719,
-  "2023-03-08": 3724,
-  "2023-03-09": 3733,
-  "2023-03-10": 3738,
-  "2023-03-11": 3740,
-  "2023-03-12": 3746,
-  "2023-03-13": 3753,
-  "2023-03-14": 3753,
-  "2023-03-15": 3761,
-  "2023-03-16": 3771,
-  "2023-03-17": 3771,
-  "2023-03-18": 3780,
-  "2023-03-19": 3788,
-  "2023-03-20": 3802,
-  "2023-03-21": 3809,
-  "2023-03-22": 3814,
-  "2023-03-23": 3822,
-  "2023-03-24": 3822,
-  "2023-03-25": 3835,
-  "2023-03-26": 3842,
-  "2023-03-27": 3852,
-  "2023-03-28": 3853,
-  "2023-03-29": 3860,
-  "2023-03-30": 3870,
-  "2023-03-31": 3870,
-  "2023-04-01": 3875,
-  "2023-04-02": 3886,
-  "2023-04-03": 3890,
-  "2023-04-04": 3899,
-  "2023-04-05": 3904,
-  "2023-04-06": 3905,
-  "2023-04-07": 3907,
-  "2023-04-09": 3915,
-  "2023-04-10": 3918,
-  "2023-04-11": 3925,
-  "2023-04-12": 3925,
-  "2023-04-13": 3929,
-  "2023-04-14": 3937,
-  "2023-04-15": 3939,
-  "2023-04-16": 3947,
-  "2023-04-17": 3950,
-  "2023-04-18": 3981,
-  "2023-04-19": 4001,
-  "2023-04-20": 4009,
-  "2023-04-21": 4008,
-  "2023-04-22": 4017,
-  "2023-04-23": 4026,
-  "2023-04-24": 4030,
-  "2023-04-25": 4037,
-  "2023-04-26": 4043,
-  "2023-04-27": 4050,
-  "2023-04-28": 4058,
-  "2023-04-29": 4073,
-  "2023-04-30": 4080,
-  "2023-05-01": 4087,
-  "2023-05-02": 4093,
-  "2023-05-03": 4099,
-  "2023-05-04": 4108,
-  "2023-05-05": 4116,
-  "2023-05-06": 4124,
-  "2023-05-07": 4120,
-  "2023-05-08": 4126,
-  "2023-05-09": 4131,
-  "2023-05-10": 4139,
-  "2023-05-11": 4138,
-  "2023-05-12": 4143,
-  "2023-05-13": 4150,
-  "2023-05-14": 4156,
-  "2023-05-15": 4165,
-  "2023-05-16": 4170,
-  "2023-05-17": 4172,
-  "2023-05-18": 4176,
-  "2023-05-19": 4180,
-  "2023-05-20": 4193,
-  "2023-05-21": 4193,
-  "2023-05-22": 4193,
-  "2023-05-23": 4209,
-  "2023-05-24": 4219,
-  "2023-05-25": 4221,
-  "2023-05-26": 4223,
-  "2023-05-27": 4229,
-  "2023-05-28": 4236,
-  "2023-05-29": 4236,
-  "2023-05-30": 4246,
-  "2023-05-31": 4253,
-  "2023-06-01": 4259,
-  "2023-06-02": 4266,
-  "2023-06-03": 4269,
-  "2023-06-04": 4274,
-  "2023-06-05": 4280,
-  "2023-06-06": 4285,
-  "2023-06-07": 4284,
-  "2023-06-08": 4288,
-  "2023-06-09": 4298,
-  "2023-06-10": 4304,
-  "2023-06-11": 4309,
-  "2023-06-12": 4312,
-  "2023-06-13": 4318,
-  "2023-06-14": 4318,
-  "2023-06-15": 4321,
-  "2023-06-16": 4329,
-  "2023-06-17": 4329,
-  "2023-06-18": 4335,
-  "2023-06-19": 4339,
-  "2023-06-20": 4346,
-  "2023-06-21": 4351,
-  "2023-06-22": 4358,
-  "2023-06-23": 4361,
-  "2023-06-24": 4362,
-  "2023-06-25": 4365,
-  "2023-06-26": 4368,
-  "2023-06-27": 4373,
-  "2023-06-28": 4378,
-  "2023-06-29": 4384,
-  "2023-06-30": 4391,
-  "2023-07-01": 4405,
-  "2023-07-02": 4405,
-  "2023-07-03": 4413,
-  "2023-07-04": 4419,
-  "2023-07-05": 4429,
-  "2023-07-06": 4435,
-  "2023-07-07": 4435,
-  "2023-07-08": 4431,
-  "2023-07-09": 4438,
-  "2023-07-10": 4438,
-  "2023-07-11": 4445,
-  "2023-07-12": 4448,
-  "2023-07-13": 4450,
-  "2023-07-14": 4455,
-  "2023-07-15": 4453,
-  "2023-07-16": 4457,
-  "2023-07-17": 4465,
-  "2023-07-18": 4474,
-  "2023-07-19": 4474,
-  "2023-07-20": 4476,
-  "2023-07-21": 4477,
-  "2023-07-22": 4483,
-  "2023-07-23": 4490,
-  "2023-07-24": 4494,
-  "2023-07-25": 4503,
-  "2023-07-26": 4507,
-  "2023-07-27": 4509,
-  "2023-07-28": 4518,
-  "2023-07-29": 4519,
-  "2023-07-30": 4526,
-  "2023-07-31": 4528,
-  "2023-08-01": 4526,
-  "2023-08-02": 4532,
-  "2023-08-03": 4541,
-  "2023-08-04": 4546,
-  "2023-08-05": 4559,
-  "2023-08-06": 4571,
-  "2023-08-07": 4571,
-  "2023-08-08": 4576,
-  "2023-08-09": 4590,
-  "2023-08-10": 4594,
-  "2023-08-11": 4600,
-  "2023-08-12": 4610,
-  "2023-08-13": 4615,
-  "2023-08-14": 4622,
-  "2023-08-15": 4631,
-  "2023-08-16": 4631,
-  "2023-08-17": 4634,
-  "2023-08-18": 4641,
-  "2023-08-19": 4645,
-  "2023-08-20": 4658,
-  "2023-08-21": 4670,
-  "2023-08-22": 4673,
-  "2023-08-23": 4678,
-  "2023-08-24": 4685,
-  "2023-08-25": 4691,
-  "2023-08-26": 4710,
-  "2023-08-27": 4722,
-  "2023-08-28": 4731,
-  "2023-08-29": 4734,
-  "2023-08-30": 4736,
-  "2023-08-31": 4738,
-  "2023-09-01": 4746,
-  "2023-09-02": 4746,
-  "2023-09-03": 4750,
-  "2023-09-04": 4755,
-  "2023-09-05": 4763,
-  "2023-09-06": 4769,
-  "2023-09-07": 4774,
-  "2023-09-08": 4774,
-  "2023-09-09": 4778,
-  "2023-09-10": 4791,
-  "2023-09-11": 4791,
-  "2023-09-12": 4797,
-  "2023-09-13": 4799,
-  "2023-09-14": 4799,
-  "2023-09-15": 4808,
-  "2023-09-16": 4812,
-  "2023-09-17": 4812,
-  "2023-09-18": 4821,
-  "2023-09-19": 4828,
-  "2023-09-20": 4831,
-  "2023-09-21": 4839,
-  "2023-09-22": 4845,
-  "2023-09-23": 4852,
-  "2023-09-24": 4852,
-  "2023-09-25": 4852,
-  "2023-09-26": 4875,
-  "2023-09-27": 4875,
-  "2023-09-28": 4876,
-  "2023-09-29": 4881,
-  "2023-09-30": 4881,
-  "2023-10-01": 4885,
-  "2023-10-02": 4884,
-  "2023-10-03": 4887,
-  "2023-10-04": 4886,
-  "2023-10-05": 4892,
-  "2023-10-06": 4897,
-  "2023-10-07": 4897,
-  "2023-10-08": 4904,
-  "2023-10-09": 4904,
-  "2023-10-10": 4909,
-  "2023-10-11": 4912,
-  "2023-10-12": 4912,
-  "2023-10-13": 4922,
-  "2023-10-14": 4922,
-  "2023-10-15": 4922,
-  "2023-10-16": 4922,
-  "2023-10-17": 4922,
-  "2023-10-18": 4922,
-  "2023-10-19": 4922,
-  "2023-10-20": 4922,
-  "2023-10-21": 4922,
-  "2023-10-22": 4922,
-  "2023-10-23": 4922,
-  "2023-10-24": 4948,
-  "2023-10-25": 4948,
-  "2023-10-26": 4948,
-  "2023-10-27": 4948,
-  "2023-10-28": 4948,
-  "2023-10-29": 4948,
-  "2023-10-30": 4948,
-  "2023-10-31": 4948,
-  "2023-11-01": 4948,
-  "2023-11-02": 4948,
-  "2023-11-03": 4948,
-  "2023-11-04": 4948,
-  "2023-11-05": 4948,
-  "2023-11-06": 4948,
-  "2023-11-07": 4948,
-  "2023-11-08": 4948,
-  "2023-11-09": 4948,
-  "2023-11-10": 4948,
-  "2023-11-11": 4985,
-  "2023-11-12": 4985,
-  "2023-11-13": 4985,
-  "2023-11-14": 4985,
-  "2023-11-15": 4985,
-  "2023-11-16": 4985,
-  "2023-11-17": 5009,
-  "2023-11-18": 5009,
-  "2023-11-19": 5009,
-  "2023-11-20": 5009,
-  "2023-11-21": 5009,
-  "2023-11-22": 5009,
-  "2023-11-23": 5027,
-  "2023-11-24": 5027,
-  "2023-11-25": 5027,
-  "2023-11-26": 5027,
-  "2023-11-27": 5027,
-  "2023-11-28": 5027,
-  "2023-11-29": 5027,
-  "2023-11-30": 5027,
-  "2023-12-01": 5027,
-  "2023-12-02": 5027,
-  "2023-12-03": 5027,
-  "2023-12-04": 5027,
-  "2023-12-05": 5027,
-  "2023-12-06": 5027,
-  "2023-12-07": 5027,
-  "2023-12-08": 5027,
-  "2023-12-09": 5069,
-  "2023-12-10": 5069,
-  "2023-12-11": 5076,
-  "2023-12-12": 5076,
-  "2023-12-13": 5076,
-  "2023-12-14": 5080,
-  "2023-12-15": 5083,
-  "2023-12-16": 5088,
-  "2023-12-17": 5088,
-  "2023-12-18": 5094,
-  "2023-12-19": 5097,
-  "2023-12-20": 5099,
-  "2023-12-21": 5103,
-  "2023-12-22": 5106,
-  "2023-12-23": 5107,
-  "2023-12-24": 5113,
-  "2023-12-25": 5115,
-  "2023-12-26": 5116,
-  "2023-12-27": 5125,
-  "2023-12-30": 5132,
-  "2023-12-31": 5135,
-  "2024-01-01": 5138,
-  "2024-01-02": 5145,
-  "2024-01-03": 5149
+  "2024-01-17": 5203,
+  "date_first_scraped": "2022-05-31",
+  "description": "The best of Detroit Blues",
+  "name": "Motor City Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/4DmRMQamhr0qANq1ogJyRo"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266426,
+      "name": "A Woman Named Trouble",
+      "url": "https://open.spotify.com/track/4bK9Z3NpTdTlurLnm5JNyz"
+    },
+    {
+      "album": {
+        "name": "Havin' Nothin' Don't Bother Me",
+        "url": "https://open.spotify.com/album/10aST35mvcMVuRKZxwtS6U"
+      },
+      "artists": [
+        {
+          "name": "Harmonica Shah",
+          "url": "https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320386,
+      "name": "All My Kids Is Ugly",
+      "url": "https://open.spotify.com/track/3gpJDvL4a0gGKSN37u33MB"
+    },
+    {
+      "album": {
+        "name": "New King Of The Blues Harmonica",
+        "url": "https://open.spotify.com/album/39qo2SRPkczFmN3UMHomlI"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237266,
+      "name": "Baby, What You Want Me To Do",
+      "url": "https://open.spotify.com/track/1ObLykLqe292dWc8ftxMnb"
+    },
+    {
+      "album": {
+        "name": "If You Live to Get Old",
+        "url": "https://open.spotify.com/album/1sFjCrnV6Af6jtgJ896ZKb"
+      },
+      "artists": [
+        {
+          "name": "Harmonica Shah",
+          "url": "https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR"
+        },
+        {
+          "name": "Jack De Keyzer",
+          "url": "https://open.spotify.com/artist/5hZj7eohDYSHmg8m25UQYT"
+        },
+        {
+          "name": "Julian Fauth",
+          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286920,
+      "name": "Baby, You Have Got to Change",
+      "url": "https://open.spotify.com/track/3jG0FUqJWLfJHHaaXucc6f"
+    },
+    {
+      "album": {
+        "name": "The Okeh Rhythm & Blues Story 1949-1957",
+        "url": "https://open.spotify.com/album/6U4RdMRAljDPCe7T6jMPuU"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-28",
+      "duration_ms": 182560,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/0WGgptxgDjLKWbOELHKtjx"
+    },
+    {
+      "album": {
+        "name": "Fortune of Hits (1955-1960)",
+        "url": "https://open.spotify.com/album/4450CcX2Nl7CIcvYJfaJdG"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-14",
+      "duration_ms": 183133,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/1mjWWueEwPbTd0NOorW0Wf"
+    },
+    {
+      "album": {
+        "name": "Fortune of Hits (1955-1960)",
+        "url": "https://open.spotify.com/album/2CwjiY3ksRTlDh1PZ7KL2U"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183133,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/4BsXBCfVNwNyIrDsOPqtFu"
+    },
+    {
+      "album": {
+        "name": "Mr. Rhythm Presents Bacon Fat",
+        "url": "https://open.spotify.com/album/1qMIJgTCA5zSPLOjt6plA1"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/73ib4L0PmYxDpdqWFPLJik"
+    },
+    {
+      "album": {
+        "name": "Rock'n'Roll Boogie, Vol.2",
+        "url": "https://open.spotify.com/album/5l8CBFtwzGHEK09UMwZK7f"
+      },
+      "artists": [
+        {
+          "name": "Andre' Williams",
+          "url": "https://open.spotify.com/artist/1e1BLIWpSbtzNoDCOLxQny"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183786,
+      "name": "Bacon Fat",
+      "url": "https://open.spotify.com/track/0SSzWxy7ddDtIwuhQ8bFqp"
+    },
+    {
+      "album": {
+        "name": "Hooker",
+        "url": "https://open.spotify.com/album/3QSRtkfas8Gr0vDByhFvkE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189506,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/5oyKFxTeInGiLn7MVTqmMR"
+    },
+    {
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189640,
+      "name": "Boogie Chillen",
+      "url": "https://open.spotify.com/track/7mNFrf8IfgaWMFCz64CtK4"
+    },
+    {
+      "album": {
+        "name": "Detroit's Queen Of The Blues",
+        "url": "https://open.spotify.com/album/3F2QOyq76zLPL9zriSWVMz"
+      },
+      "artists": [
+        {
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414253,
+      "name": "Chains Of Love",
+      "url": "https://open.spotify.com/track/02dGchMLatXsSM6B8IUaXc"
+    },
+    {
+      "album": {
+        "name": "Saxin' the Blues",
+        "url": "https://open.spotify.com/album/0OBCCZoN77d7dMKbTF3Do2"
+      },
+      "artists": [
+        {
+          "name": "Detroit Gary Wiggins",
+          "url": "https://open.spotify.com/artist/4yeSZwbRtllHD7AtTmH6bg"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308453,
+      "name": "Cobb's Blues",
+      "url": "https://open.spotify.com/track/0Ld7H6BM85TM6uZgarKZLG"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251600,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/4iG6VpSawq9Bi4oGtXL11x"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/2nxaoRQVqunEfUyGzWCr4A"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251600,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/6tOEaXgbwg7twE9Y6BPvXH"
+    },
+    {
+      "album": {
+        "name": "Detroit Is My Home",
+        "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
+      },
+      "artists": [
+        {
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185853,
+      "name": "Detroit Is My Home",
+      "url": "https://open.spotify.com/track/34NPOkxVtCP8tsqkdOsFbO"
+    },
+    {
+      "album": {
+        "name": "Snake Eyes",
+        "url": "https://open.spotify.com/album/5uTej6gTGqxV0XWNSi9Vqd"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Hastings Street Special",
+      "url": "https://open.spotify.com/track/6KUsw1l9FqhBRwlVvaF9vo"
+    },
+    {
+      "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Baby Boy Warren",
+          "url": "https://open.spotify.com/artist/466ldsN2TDPubmDS42ApOv"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161201,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/6EwAdnnbbm6gZqLEwiaHkI"
+    },
+    {
+      "album": {
+        "name": "Uncut Detroit II",
+        "url": "https://open.spotify.com/album/1Y84fA1MxD5kRkd55S17Ni"
+      },
+      "artists": [
+        {
+          "name": "The Butler Twins",
+          "url": "https://open.spotify.com/artist/0MvgiHoMSPkfCcrXX6sKOp"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430293,
+      "name": "Hey Baby Don't You Know Your Daddy Loves You So",
+      "url": "https://open.spotify.com/track/1UE1QA2kjM66ADKzzSixny"
+    },
+    {
+      "album": {
+        "name": "Uncut Detroit II",
+        "url": "https://open.spotify.com/album/1Y84fA1MxD5kRkd55S17Ni"
+      },
+      "artists": [
+        {
+          "name": "The Butler Twins",
+          "url": "https://open.spotify.com/artist/0MvgiHoMSPkfCcrXX6sKOp"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431040,
+      "name": "I Ain't Got Nobody To Tell My Troubles To",
+      "url": "https://open.spotify.com/track/6wYUw9yuOZcbHx9oYuxxCO"
+    },
+    {
+      "album": {
+        "name": "Honest Woman",
+        "url": "https://open.spotify.com/album/4s0TMynFd7n5A6yd6QH789"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344506,
+      "name": "I Believe (Everything Gonna Be Alright)",
+      "url": "https://open.spotify.com/track/1rRXU8XXqTyaTpdp6hJu8z"
+    },
+    {
+      "album": {
+        "name": "American Blues Legends '73",
+        "url": "https://open.spotify.com/album/6Lwxof9pIWT2ZLEI4UlzIR"
+      },
+      "artists": [
+        {
+          "name": "Washboard Willie",
+          "url": "https://open.spotify.com/artist/1miTDjcdGnj3OWFxvajNNa"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142106,
+      "name": "I Feel So Fine",
+      "url": "https://open.spotify.com/track/0l3kg3lqdQP8tHroQz6oIW"
+    },
+    {
+      "album": {
+        "name": "Rural Blues Vol. 1 1934-1956",
+        "url": "https://open.spotify.com/album/6NYnUkUwSl4Hi5XIq6ZrVR"
+      },
+      "artists": [
+        {
+          "name": "One String Sam",
+          "url": "https://open.spotify.com/artist/1DuUpYJDpdP2kSToyejstV"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181107,
+      "name": "I Need A Hundred Dollars",
+      "url": "https://open.spotify.com/track/1esDf8HdU03qBhNijFD7R5"
+    },
+    {
+      "album": {
+        "name": "Honest Woman",
+        "url": "https://open.spotify.com/album/4s0TMynFd7n5A6yd6QH789"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369493,
+      "name": "I'd Rather Be Alone",
+      "url": "https://open.spotify.com/track/0fBqfLS5c14e39BVrs7kIR"
+    },
+    {
+      "album": {
+        "name": "Rockin' Blues Essentials",
+        "url": "https://open.spotify.com/album/5TIc8idRzn4AQ2ivvIHYB0"
+      },
+      "artists": [
+        {
+          "name": "Doctor Ross",
+          "url": "https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "Industrial Boogie",
+      "url": "https://open.spotify.com/track/58O4WeWqboLX7tZM7yRya9"
+    },
+    {
+      "album": {
+        "name": "Hard Goin' Up",
+        "url": "https://open.spotify.com/album/6aLaVUMRalvPJ6bk1jj9Jo"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "It's Hard Going Up (But Twice As Hard Coming Down)",
+      "url": "https://open.spotify.com/track/6DnKM8x0Ai0AyV7M2MOtwN"
+    },
+    {
+      "album": {
+        "name": "Lonesome Feeling (NL 1986) [Blues Reference]",
+        "url": "https://open.spotify.com/album/6gVNy0qKhpg4S4oa2283qU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287546,
+      "name": "Lonesome Feeling",
+      "url": "https://open.spotify.com/track/0byftPfdqBARAkZR33O3aK"
+    },
+    {
+      "album": {
+        "name": "I Can Make That Happen",
+        "url": "https://open.spotify.com/album/3cT1ofNKCnlBI4Qv6sTY4m"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Bassett",
+          "url": "https://open.spotify.com/artist/2ZlNZiymCW3X6GE1PzXbND"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216946,
+      "name": "Love Lessons",
+      "url": "https://open.spotify.com/track/0Rbr1ioyoFajCsxaOHVgk4"
+    },
+    {
+      "album": {
+        "name": "Gotta Boogie - The Modern Recordings 1948-55",
+        "url": "https://open.spotify.com/album/0cVyOf0zKFIDMW5NziJ8Gf"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160400,
+      "name": "Love Money Can't Buy",
+      "url": "https://open.spotify.com/track/0ePxqRzmI90yaxH9af9sA2"
+    },
+    {
+      "album": {
+        "name": "Volume 1",
+        "url": "https://open.spotify.com/album/3cqUvq5v36OEWFqdqmmIxi"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Bassett",
+          "url": "https://open.spotify.com/artist/2ZlNZiymCW3X6GE1PzXbND"
+        },
+        {
+          "name": "The Blues Insurgents",
+          "url": "https://open.spotify.com/artist/6702B3jkdIWhyjT9AGKs3N"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433866,
+      "name": "Mean Feeling",
+      "url": "https://open.spotify.com/track/75ON2I0Rcm1QlSztl4uFNP"
+    },
+    {
+      "album": {
+        "name": "Blues From The Heart Volume 3",
+        "url": "https://open.spotify.com/album/061VKoRfmEY8Tmzi8j7MBF"
+      },
+      "artists": [
+        {
+          "name": "Alberta Adams",
+          "url": "https://open.spotify.com/artist/0Hy7IqUHfhyTf0asGNf9mw"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387866,
+      "name": "Messin' Around With The Blues",
+      "url": "https://open.spotify.com/track/08gLhLqlD1XrcBg7evt43F"
+    },
+    {
+      "album": {
+        "name": "Can't Get You Off My Mind",
+        "url": "https://open.spotify.com/album/2vFoISsNHDivnSwXtb566U"
+      },
+      "artists": [
+        {
+          "name": "Detroit Blues Band",
+          "url": "https://open.spotify.com/artist/2An3asnUA53RzxhnauVTOl"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298093,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/1rPLUAUsHr60GU6vXT52je"
+    },
+    {
+      "album": {
+        "name": "Rural Blues Vol. 1 1934-1956",
+        "url": "https://open.spotify.com/album/6NYnUkUwSl4Hi5XIq6ZrVR"
+      },
+      "artists": [
+        {
+          "name": "One String Sam",
+          "url": "https://open.spotify.com/artist/1DuUpYJDpdP2kSToyejstV"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186854,
+      "name": "My Baby Ooo",
+      "url": "https://open.spotify.com/track/4SAbUosqGHdqqHCsFTVLt8"
+    },
+    {
+      "album": {
+        "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
+        "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166946,
+      "name": "No More Doggin'",
+      "url": "https://open.spotify.com/track/0BIKkRJagpbtQ5DRXVYP98"
+    },
+    {
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/3Hh5V9WtEeHXIXeAoo2deI"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO"
+        },
+        {
+          "name": "Eddie Burns Blues Band",
+          "url": "https://open.spotify.com/artist/0BZejzzjFxsvyPDyj3ItWF"
+        },
+        {
+          "name": "Eddie Burns, guitar, harmonica, vocal",
+          "url": "https://open.spotify.com/artist/3pqSveCVLoTn3E03BYRW8i"
+        },
+        {
+          "name": "Joe Hunter, piano",
+          "url": "https://open.spotify.com/artist/3ujZt3R1bUyY23qlV8UO2a"
+        },
+        {
+          "name": "Frank Bryant, bass",
+          "url": "https://open.spotify.com/artist/5rEhGoeGEepz5Rn3NXzUB3"
+        },
+        {
+          "name": "Bobby Welch, drums",
+          "url": "https://open.spotify.com/artist/5ipBht0WuuX2JRZRlNrTLp"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266600,
+      "name": "Orange Driver",
+      "url": "https://open.spotify.com/track/0tFcLqJMik9ZhWne94mSYg"
+    },
+    {
+      "album": {
+        "name": "Detroit City Blues, Vol. 4",
+        "url": "https://open.spotify.com/album/1cTsmvrW63RwPSzTxUyTGO"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Papa's Boogie",
+      "url": "https://open.spotify.com/track/7yg1FhiiqMWcumtyYRaPxA"
+    },
+    {
+      "album": {
+        "name": "If You Live to Get Old",
+        "url": "https://open.spotify.com/album/1sFjCrnV6Af6jtgJ896ZKb"
+      },
+      "artists": [
+        {
+          "name": "Harmonica Shah",
+          "url": "https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR"
+        },
+        {
+          "name": "Jack De Keyzer",
+          "url": "https://open.spotify.com/artist/5hZj7eohDYSHmg8m25UQYT"
+        },
+        {
+          "name": "Julian Fauth",
+          "url": "https://open.spotify.com/artist/1q89DTds6UuLXJ9SINH3wr"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278720,
+      "name": "She Used to Be Beautiful",
+      "url": "https://open.spotify.com/track/5lwU9PbMb4BF8ufFvhlKZZ"
+    },
+    {
+      "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Robert Henry",
+          "url": "https://open.spotify.com/artist/5LSBkrLDZkkNF4wlXWLSOQ"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Something's Wrong",
+      "url": "https://open.spotify.com/track/46zXxs0KWfZYEpKPtQeKZ8"
+    },
+    {
+      "album": {
+        "name": "Detroit Ghetto Blues 1948-1954",
+        "url": "https://open.spotify.com/album/59bT09aoxNKanCjNpVSIP2"
+      },
+      "artists": [
+        {
+          "name": "Walter Mitchell",
+          "url": "https://open.spotify.com/artist/507sW15WsWw2otXS5Yk47k"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196571,
+      "name": "Stop Messin' Around",
+      "url": "https://open.spotify.com/track/5ET9hXviEs1i1FXsUMaDwj"
+    },
+    {
+      "album": {
+        "name": "New King Of The Blues Harmonica",
+        "url": "https://open.spotify.com/album/39qo2SRPkczFmN3UMHomlI"
+      },
+      "artists": [
+        {
+          "name": "Little Sonny",
+          "url": "https://open.spotify.com/artist/3yCjxalqkRVkydpb2GN1GX"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "The Creeper Returns",
+      "url": "https://open.spotify.com/track/4xyzQTA9AaXAM7uPn61Fit"
+    },
+    {
+      "album": {
+        "name": "I Hate CD's: Norton Records 45 RPM Singles Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/4woOPYWSr6QibGfXh084Ot"
+      },
+      "artists": [
+        {
+          "name": "Andre Williams",
+          "url": "https://open.spotify.com/artist/4mmEKUZZBwnzg4m6hizPyN"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "The Monkey Speaks His Mind",
+      "url": "https://open.spotify.com/track/4A0M7Bm0djFjM5f92if4fW"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/4CBE3USIQmZK0eDLjLTmqg"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 159218,
+      "name": "Three Cent Stamp Blues",
+      "url": "https://open.spotify.com/track/0mZyTXRqojZDNe0JCBrzhx"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/5uClUPQy00WNgSzh2MZbDQ"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159218,
+      "name": "Three Cent Stamp Blues",
+      "url": "https://open.spotify.com/track/7BKS5HgeXhT4NvNJ4VTIU2"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/1uQIaq2Tp7RjJIqVblW0W0"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253626,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/56FIznrP3ojGOviBQJhkU2"
+    },
+    {
+      "album": {
+        "name": "Sunday Morning Music",
+        "url": "https://open.spotify.com/album/2nxaoRQVqunEfUyGzWCr4A"
+      },
+      "artists": [
+        {
+          "name": "Thornetta Davis",
+          "url": "https://open.spotify.com/artist/02HWgoL7gYSPcVlNjrJWRb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253626,
+      "name": "Try To Remember",
+      "url": "https://open.spotify.com/track/7tX4XfUvUVB81rpavzD54s"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/4CBE3USIQmZK0eDLjLTmqg"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 169347,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/4FtM0NdctmlsYNxyBFPgTF"
+    },
+    {
+      "album": {
+        "name": "Blues Sensation: Detroit Down Home Recordings 1948-49",
+        "url": "https://open.spotify.com/album/5uClUPQy00WNgSzh2MZbDQ"
+      },
+      "artists": [
+        {
+          "name": "Sylvester Cotton",
+          "url": "https://open.spotify.com/artist/3SXLoYFqaRWdNnIPdY6g8v"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169347,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/6UoUIQDcpuzxuXWERwksvF"
+    },
+    {
+      "album": {
+        "name": "The Gentleman is Back",
+        "url": "https://open.spotify.com/album/1iwX6EAGD56zNknQMEbZmz"
+      },
+      "artists": [
+        {
+          "name": "Johnni Bassett",
+          "url": "https://open.spotify.com/artist/0AlCRQs9e51hOOut6N70lb"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304520,
+      "name": "Woman's Got Ways",
+      "url": "https://open.spotify.com/track/4BhUlTik3YtCTRi9c4FiOC"
+    },
+    {
+      "album": {
+        "name": "Lonesome Feeling (NL 1986) [Blues Reference]",
+        "url": "https://open.spotify.com/album/6gVNy0qKhpg4S4oa2283qU"
+      },
+      "artists": [
+        {
+          "name": "Eddie Burns",
+          "url": "https://open.spotify.com/artist/02xaLTHeUgXhM3THo3y7BO"
+        }
+      ],
+      "date_added": "2020-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336040,
+      "name": "You Got To Love Me With A Feeling",
+      "url": "https://open.spotify.com/track/4SQq0bWlVOMYt93FSW3zdu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcgtZZKiQlS2"
 }

@@ -1,731 +1,1663 @@
 {
-  "2021-12-29": 3202,
-  "2021-12-30": 3206,
-  "2021-12-31": 3210,
-  "2022-01-01": 3215,
-  "2022-01-02": 3217,
-  "2022-01-03": 3218,
-  "2022-01-04": 3220,
-  "2022-01-05": 3221,
-  "2022-01-06": 3223,
-  "2022-01-07": 3226,
-  "2022-01-08": 3233,
-  "2022-01-09": 3233,
-  "2022-01-10": 3234,
-  "2022-01-11": 3235,
-  "2022-01-12": 3236,
-  "2022-01-13": 3237,
-  "2022-01-14": 3239,
-  "2022-01-15": 3239,
-  "2022-01-16": 3240,
-  "2022-01-17": 3242,
-  "2022-01-18": 3242,
-  "2022-01-19": 3242,
-  "2022-01-20": 3243,
-  "2022-01-21": 3244,
-  "2022-01-22": 3246,
-  "2022-01-23": 3247,
-  "2022-01-24": 3251,
-  "2022-01-25": 3252,
-  "2022-01-26": 3255,
-  "2022-01-27": 3259,
-  "2022-01-28": 3261,
-  "2022-01-29": 3262,
-  "2022-01-30": 3268,
-  "2022-01-31": 3265,
-  "2022-02-01": 3270,
-  "2022-02-02": 3271,
-  "2022-02-03": 3272,
-  "2022-02-04": 3274,
-  "2022-02-05": 3277,
-  "2022-02-06": 3277,
-  "2022-02-07": 3281,
-  "2022-02-08": 3282,
-  "2022-02-09": 3284,
-  "2022-02-10": 3289,
-  "2022-02-11": 3288,
-  "2022-02-12": 3293,
-  "2022-02-13": 3296,
-  "2022-02-14": 3295,
-  "2022-02-15": 3300,
-  "2022-02-16": 3300,
-  "2022-02-17": 3301,
-  "2022-02-18": 3305,
-  "2022-02-19": 3308,
-  "2022-02-20": 3312,
-  "2022-02-21": 3314,
-  "2022-02-22": 3314,
-  "2022-02-23": 3318,
-  "2022-02-24": 3321,
-  "2022-02-25": 3324,
-  "2022-02-26": 3329,
-  "2022-02-27": 3336,
-  "2022-02-28": 3336,
-  "2022-03-01": 3335,
-  "2022-03-02": 3340,
-  "2022-03-03": 3345,
-  "2022-03-04": 3345,
-  "2022-03-05": 3346,
-  "2022-03-06": 3344,
-  "2022-03-07": 3346,
-  "2022-03-08": 3348,
-  "2022-03-09": 3350,
-  "2022-03-10": 3352,
-  "2022-03-11": 3353,
-  "2022-03-12": 3355,
-  "2022-03-13": 3357,
-  "2022-03-14": 3357,
-  "2022-03-15": 3357,
-  "2022-03-16": 3359,
-  "2022-03-17": 3361,
-  "2022-03-18": 3366,
-  "2022-03-19": 3366,
-  "2022-03-20": 3366,
-  "2022-03-21": 3369,
-  "2022-03-22": 3371,
-  "2022-03-23": 3374,
-  "2022-03-24": 3376,
-  "2022-03-25": 3378,
-  "2022-03-26": 3379,
-  "2022-03-27": 3384,
-  "2022-03-28": 3388,
-  "2022-03-30": 3391,
-  "2022-03-31": 3391,
-  "2022-04-01": 3394,
-  "2022-04-02": 3396,
-  "2022-04-03": 3397,
-  "2022-04-04": 3402,
-  "2022-04-05": 3407,
-  "2022-04-06": 3409,
-  "2022-04-07": 3412,
-  "2022-04-08": 3412,
-  "2022-04-09": 3413,
-  "2022-04-10": 3417,
-  "2022-04-11": 3416,
-  "2022-04-12": 3416,
-  "2022-04-13": 3416,
-  "2022-04-14": 3418,
-  "2022-04-15": 3417,
-  "2022-04-16": 3419,
-  "2022-04-17": 3422,
-  "2022-04-18": 3424,
-  "2022-04-19": 3423,
-  "2022-04-20": 3423,
-  "2022-04-21": 3423,
-  "2022-04-22": 3425,
-  "2022-04-23": 3428,
-  "2022-04-24": 3436,
-  "2022-04-25": 3441,
-  "2022-04-26": 3444,
-  "2022-04-27": 3445,
-  "2022-04-28": 3445,
-  "2022-04-29": 3451,
-  "2022-04-30": 3453,
-  "2022-05-01": 3457,
-  "2022-05-02": 3457,
-  "2022-05-03": 3456,
-  "2022-05-04": 3458,
-  "2022-05-05": 3458,
-  "2022-05-06": 3460,
-  "2022-05-07": 3467,
-  "2022-05-08": 3476,
-  "2022-05-09": 3477,
-  "2022-05-10": 3480,
-  "2022-05-11": 3481,
-  "2022-05-12": 3483,
-  "2022-05-13": 3483,
-  "2022-05-14": 3483,
-  "2022-05-15": 3485,
-  "2022-05-16": 3488,
-  "2022-05-17": 3490,
-  "2022-05-18": 3493,
-  "2022-05-19": 3494,
-  "2022-05-20": 3496,
-  "2022-05-21": 3504,
-  "2022-05-22": 3504,
-  "2022-05-23": 3508,
-  "2022-05-24": 3509,
-  "2022-05-25": 3515,
-  "2022-05-26": 3519,
-  "2022-05-27": 3522,
-  "2022-05-28": 3527,
-  "2022-05-29": 3529,
-  "2022-05-30": 3531,
-  "2022-05-31": 3532,
-  "2022-06-01": 3537,
-  "2022-06-02": 3537,
-  "2022-06-03": 3537,
-  "2022-06-04": 3537,
-  "2022-06-05": 3538,
-  "2022-06-06": 3543,
-  "2022-06-07": 3545,
-  "2022-06-08": 3546,
-  "2022-06-09": 3548,
-  "2022-06-10": 3553,
-  "2022-06-11": 3558,
-  "2022-06-12": 3560,
-  "2022-06-13": 3560,
-  "2022-06-14": 3562,
-  "2022-06-15": 3563,
-  "2022-06-16": 3565,
-  "2022-06-17": 3566,
-  "2022-06-18": 3567,
-  "2022-06-19": 3573,
-  "2022-06-20": 3573,
-  "2022-06-21": 3572,
-  "2022-06-22": 3574,
-  "2022-06-23": 3574,
-  "2022-06-24": 3578,
-  "2022-06-25": 3581,
-  "2022-06-26": 3582,
-  "2022-06-27": 3585,
-  "2022-06-28": 3586,
-  "2022-06-29": 3589,
-  "2022-06-30": 3591,
-  "2022-07-01": 3597,
-  "2022-07-02": 3598,
-  "2022-07-03": 3600,
-  "2022-07-04": 3603,
-  "2022-07-05": 3606,
-  "2022-07-06": 3606,
-  "2022-07-07": 3608,
-  "2022-07-08": 3609,
-  "2022-07-09": 3612,
-  "2022-07-10": 3617,
-  "2022-07-11": 3617,
-  "2022-07-12": 3617,
-  "2022-07-13": 3620,
-  "2022-07-14": 3620,
-  "2022-07-15": 3622,
-  "2022-07-16": 3623,
-  "2022-07-17": 3629,
-  "2022-07-18": 3630,
-  "2022-07-19": 3632,
-  "2022-07-20": 3634,
-  "2022-07-21": 3635,
-  "2022-07-22": 3638,
-  "2022-07-23": 3640,
-  "2022-07-24": 3643,
-  "2022-07-25": 3645,
-  "2022-07-26": 3645,
-  "2022-07-27": 3647,
-  "2022-07-28": 3648,
-  "2022-07-29": 3651,
-  "2022-07-30": 3654,
-  "2022-07-31": 3654,
-  "2022-08-01": 3657,
-  "2022-08-02": 3662,
-  "2022-08-03": 3662,
-  "2022-08-04": 3665,
-  "2022-08-05": 3665,
-  "2022-08-06": 3666,
-  "2022-08-07": 3667,
-  "2022-08-08": 3668,
-  "2022-08-09": 3670,
-  "2022-08-10": 3677,
-  "2022-08-11": 3678,
-  "2022-08-12": 3681,
-  "2022-08-13": 3682,
-  "2022-08-14": 3684,
-  "2022-08-15": 3684,
-  "2022-08-16": 3687,
-  "2022-08-17": 3689,
-  "2022-08-18": 3690,
-  "2022-08-19": 3694,
-  "2022-08-20": 3703,
-  "2022-08-21": 3709,
-  "2022-08-22": 3710,
-  "2022-08-23": 3710,
-  "2022-08-24": 3712,
-  "2022-08-25": 3715,
-  "2022-08-26": 3719,
-  "2022-08-27": 3720,
-  "2022-08-28": 3722,
-  "2022-08-29": 3724,
-  "2022-08-30": 3724,
-  "2022-08-31": 3727,
-  "2022-09-01": 3729,
-  "2022-09-02": 3729,
-  "2022-09-03": 3732,
-  "2022-09-04": 3734,
-  "2022-09-05": 3738,
-  "2022-09-06": 3739,
-  "2022-09-07": 3741,
-  "2022-09-09": 3743,
-  "2022-09-10": 3745,
-  "2022-09-11": 3747,
-  "2022-09-12": 3751,
-  "2022-09-13": 3755,
-  "2022-09-15": 3760,
-  "2022-09-16": 3766,
-  "2022-09-17": 3770,
-  "2022-09-18": 3771,
-  "2022-09-19": 3775,
-  "2022-09-20": 3778,
-  "2022-09-21": 3780,
-  "2022-09-22": 3783,
-  "2022-09-23": 3786,
-  "2022-09-24": 3789,
-  "2022-09-25": 3790,
-  "2022-09-26": 3793,
-  "2022-09-27": 3799,
-  "2022-09-28": 3803,
-  "2022-09-29": 3807,
-  "2022-09-30": 3811,
-  "2022-10-01": 3814,
-  "2022-10-02": 3817,
-  "2022-10-03": 3821,
-  "2022-10-04": 3824,
-  "2022-10-05": 3828,
-  "2022-10-06": 3828,
-  "2022-10-07": 3829,
-  "2022-10-08": 3832,
-  "2022-10-09": 3837,
-  "2022-10-10": 3837,
-  "2022-10-11": 3838,
-  "2022-10-12": 3842,
-  "2022-10-13": 3847,
-  "2022-10-14": 3849,
-  "2022-10-15": 3852,
-  "2022-10-16": 3855,
-  "2022-10-17": 3855,
-  "2022-10-18": 3858,
-  "2022-10-19": 3862,
-  "2022-10-20": 3865,
-  "2022-10-21": 3868,
-  "2022-10-22": 3872,
-  "2022-10-23": 3875,
-  "2022-10-24": 3880,
-  "2022-10-25": 3884,
-  "2022-10-26": 3888,
-  "2022-10-27": 3887,
-  "2022-10-28": 3891,
-  "2022-10-29": 3893,
-  "2022-10-30": 3898,
-  "2022-10-31": 3904,
-  "2022-11-01": 3904,
-  "2022-11-02": 3905,
-  "2022-11-03": 3908,
-  "2022-11-04": 3912,
-  "2022-11-05": 3915,
-  "2022-11-06": 3922,
-  "2022-11-07": 3926,
-  "2022-11-08": 3927,
-  "2022-11-09": 3930,
-  "2022-11-10": 3931,
-  "2022-11-11": 3933,
-  "2022-11-12": 3936,
-  "2022-11-13": 3941,
-  "2022-11-14": 3946,
-  "2022-11-15": 3947,
-  "2022-11-16": 3948,
-  "2022-11-17": 3953,
-  "2022-11-18": 3953,
-  "2022-11-19": 3955,
-  "2022-11-20": 3957,
-  "2022-11-21": 3961,
-  "2022-11-22": 3968,
-  "2022-11-23": 3971,
-  "2022-11-24": 3975,
-  "2022-11-25": 3975,
-  "2022-11-26": 3972,
-  "2022-11-27": 3973,
-  "2022-11-28": 3973,
-  "2022-11-29": 3974,
-  "2022-11-30": 3977,
-  "2022-12-01": 3982,
-  "2022-12-02": 3984,
-  "2022-12-03": 3990,
-  "2022-12-04": 3993,
-  "2022-12-05": 3995,
-  "2022-12-06": 3998,
-  "2022-12-07": 4002,
-  "2022-12-08": 4004,
-  "2022-12-09": 4007,
-  "2022-12-10": 4013,
-  "2022-12-11": 4015,
-  "2022-12-12": 4019,
-  "2022-12-13": 4024,
-  "2022-12-14": 4025,
-  "2022-12-15": 4028,
-  "2022-12-16": 4032,
-  "2022-12-17": 4035,
-  "2022-12-18": 4037,
-  "2022-12-19": 4039,
-  "2022-12-20": 4039,
-  "2022-12-21": 4039,
-  "2022-12-22": 4041,
-  "2022-12-24": 4049,
-  "2022-12-25": 4053,
-  "2022-12-26": 4055,
-  "2022-12-27": 4059,
-  "2022-12-28": 4066,
-  "2022-12-29": 4071,
-  "2022-12-30": 4076,
-  "2022-12-31": 4078,
-  "2023-01-01": 4082,
-  "2023-01-02": 4086,
-  "2023-01-03": 4093,
-  "2023-01-04": 4095,
-  "2023-01-05": 4098,
-  "2023-01-06": 4102,
-  "2023-01-07": 4107,
-  "2023-01-08": 4107,
-  "2023-01-09": 4111,
-  "2023-01-10": 4111,
-  "2023-01-11": 4112,
-  "2023-01-12": 4115,
-  "2023-01-13": 4116,
-  "2023-01-14": 4124,
-  "2023-01-15": 4125,
-  "2023-01-16": 4129,
-  "2023-01-17": 4130,
-  "2023-01-18": 4132,
-  "2023-01-19": 4133,
-  "2023-01-20": 4136,
-  "2023-01-21": 4138,
-  "2023-01-22": 4138,
-  "2023-01-23": 4142,
-  "2023-01-24": 4147,
-  "2023-01-25": 4151,
-  "2023-01-26": 4158,
-  "2023-01-27": 4161,
-  "2023-01-28": 4165,
-  "2023-01-29": 4168,
-  "2023-01-30": 4170,
-  "2023-01-31": 4170,
-  "2023-02-01": 4178,
-  "2023-02-02": 4182,
-  "2023-02-03": 4182,
-  "2023-02-04": 4189,
-  "2023-02-05": 4193,
-  "2023-02-06": 4201,
-  "2023-02-07": 4205,
-  "2023-02-08": 4214,
-  "2023-02-09": 4214,
-  "2023-02-10": 4215,
-  "2023-02-11": 4218,
-  "2023-02-12": 4221,
-  "2023-02-13": 4223,
-  "2023-02-14": 4223,
-  "2023-02-15": 4226,
-  "2023-02-16": 4228,
-  "2023-02-17": 4229,
-  "2023-02-18": 4233,
-  "2023-02-19": 4233,
-  "2023-02-20": 4234,
-  "2023-02-21": 4233,
-  "2023-02-22": 4235,
-  "2023-02-23": 4237,
-  "2023-02-24": 4242,
-  "2023-02-25": 4244,
-  "2023-02-26": 4246,
-  "2023-02-27": 4250,
-  "2023-02-28": 4250,
-  "2023-03-01": 4253,
-  "2023-03-02": 4255,
-  "2023-03-03": 4259,
-  "2023-03-04": 4259,
-  "2023-03-05": 4266,
-  "2023-03-06": 4266,
-  "2023-03-07": 4267,
-  "2023-03-08": 4268,
-  "2023-03-09": 4268,
-  "2023-03-10": 4272,
-  "2023-03-11": 4275,
-  "2023-03-12": 4278,
-  "2023-03-13": 4282,
-  "2023-03-14": 4283,
-  "2023-03-15": 4286,
-  "2023-03-16": 4290,
-  "2023-03-17": 4290,
-  "2023-03-18": 4293,
-  "2023-03-19": 4295,
-  "2023-03-20": 4295,
-  "2023-03-21": 4294,
-  "2023-03-22": 4299,
-  "2023-03-23": 4303,
-  "2023-03-24": 4303,
-  "2023-03-25": 4305,
-  "2023-03-26": 4309,
-  "2023-03-27": 4315,
-  "2023-03-28": 4317,
-  "2023-03-29": 4323,
-  "2023-03-30": 4329,
-  "2023-03-31": 4329,
-  "2023-04-01": 4330,
-  "2023-04-02": 4330,
-  "2023-04-03": 4331,
-  "2023-04-04": 4332,
-  "2023-04-05": 4333,
-  "2023-04-06": 4336,
-  "2023-04-07": 4339,
-  "2023-04-09": 4350,
-  "2023-04-10": 4352,
-  "2023-04-11": 4359,
-  "2023-04-12": 4359,
-  "2023-04-13": 4358,
-  "2023-04-14": 4359,
-  "2023-04-15": 4360,
-  "2023-04-16": 4364,
-  "2023-04-17": 4369,
-  "2023-04-18": 4370,
-  "2023-04-19": 4374,
-  "2023-04-20": 4375,
-  "2023-04-21": 4376,
-  "2023-04-22": 4377,
-  "2023-04-23": 4381,
-  "2023-04-24": 4387,
-  "2023-04-25": 4390,
-  "2023-04-26": 4393,
-  "2023-04-27": 4393,
-  "2023-04-28": 4398,
-  "2023-04-29": 4402,
-  "2023-04-30": 4404,
-  "2023-05-01": 4408,
-  "2023-05-02": 4410,
-  "2023-05-03": 4413,
-  "2023-05-04": 4419,
-  "2023-05-05": 4418,
-  "2023-05-06": 4420,
-  "2023-05-07": 4426,
-  "2023-05-08": 4427,
-  "2023-05-09": 4428,
-  "2023-05-10": 4433,
-  "2023-05-11": 4438,
-  "2023-05-12": 4441,
-  "2023-05-13": 4443,
-  "2023-05-14": 4447,
-  "2023-05-15": 4448,
-  "2023-05-16": 4452,
-  "2023-05-17": 4457,
-  "2023-05-18": 4460,
-  "2023-05-19": 4468,
-  "2023-05-20": 4481,
-  "2023-05-21": 4481,
-  "2023-05-22": 4481,
-  "2023-05-23": 4489,
-  "2023-05-24": 4494,
-  "2023-05-25": 4495,
-  "2023-05-26": 4500,
-  "2023-05-27": 4504,
-  "2023-05-28": 4504,
-  "2023-05-29": 4504,
-  "2023-05-30": 4513,
-  "2023-05-31": 4516,
-  "2023-06-01": 4518,
-  "2023-06-02": 4522,
-  "2023-06-03": 4524,
-  "2023-06-04": 4527,
-  "2023-06-05": 4528,
-  "2023-06-06": 4532,
-  "2023-06-07": 4535,
-  "2023-06-08": 4536,
-  "2023-06-09": 4541,
-  "2023-06-10": 4542,
-  "2023-06-11": 4545,
-  "2023-06-12": 4551,
-  "2023-06-13": 4556,
-  "2023-06-14": 4561,
-  "2023-06-15": 4563,
-  "2023-06-16": 4564,
-  "2023-06-17": 4567,
-  "2023-06-18": 4569,
-  "2023-06-19": 4573,
-  "2023-06-20": 4574,
-  "2023-06-21": 4577,
-  "2023-06-22": 4581,
-  "2023-06-23": 4582,
-  "2023-06-24": 4585,
-  "2023-06-25": 4585,
-  "2023-06-26": 4589,
-  "2023-06-27": 4591,
-  "2023-06-28": 4592,
-  "2023-06-29": 4597,
-  "2023-06-30": 4599,
-  "2023-07-01": 4605,
-  "2023-07-02": 4605,
-  "2023-07-03": 4607,
-  "2023-07-04": 4609,
-  "2023-07-05": 4612,
-  "2023-07-06": 4619,
-  "2023-07-07": 4619,
-  "2023-07-08": 4624,
-  "2023-07-09": 4626,
-  "2023-07-10": 4630,
-  "2023-07-11": 4629,
-  "2023-07-12": 4632,
-  "2023-07-13": 4632,
-  "2023-07-14": 4638,
-  "2023-07-15": 4638,
-  "2023-07-16": 4644,
-  "2023-07-17": 4650,
-  "2023-07-18": 4652,
-  "2023-07-19": 4653,
-  "2023-07-20": 4655,
-  "2023-07-21": 4660,
-  "2023-07-22": 4663,
-  "2023-07-23": 4662,
-  "2023-07-24": 4665,
-  "2023-07-25": 4669,
-  "2023-07-26": 4670,
-  "2023-07-27": 4671,
-  "2023-07-28": 4677,
-  "2023-07-29": 4680,
-  "2023-07-30": 4684,
-  "2023-07-31": 4685,
-  "2023-08-01": 4686,
-  "2023-08-02": 4686,
-  "2023-08-03": 4688,
-  "2023-08-04": 4692,
-  "2023-08-05": 4693,
-  "2023-08-06": 4701,
-  "2023-08-07": 4701,
-  "2023-08-08": 4701,
-  "2023-08-09": 4705,
-  "2023-08-10": 4709,
-  "2023-08-11": 4711,
-  "2023-08-12": 4715,
-  "2023-08-13": 4715,
-  "2023-08-14": 4723,
-  "2023-08-15": 4726,
-  "2023-08-16": 4726,
-  "2023-08-17": 4731,
-  "2023-08-18": 4736,
-  "2023-08-19": 4740,
-  "2023-08-20": 4743,
-  "2023-08-21": 4745,
-  "2023-08-22": 4746,
-  "2023-08-23": 4749,
-  "2023-08-24": 4754,
-  "2023-08-25": 4755,
-  "2023-08-26": 4757,
-  "2023-08-27": 4761,
-  "2023-08-28": 4764,
-  "2023-08-29": 4767,
-  "2023-08-30": 4767,
-  "2023-08-31": 4772,
-  "2023-09-01": 4778,
-  "2023-09-02": 4778,
-  "2023-09-03": 4782,
-  "2023-09-04": 4782,
-  "2023-09-05": 4788,
-  "2023-09-06": 4788,
-  "2023-09-07": 4788,
-  "2023-09-08": 4788,
-  "2023-09-09": 4788,
-  "2023-09-10": 4798,
-  "2023-09-11": 4802,
-  "2023-09-12": 4802,
-  "2023-09-13": 4810,
-  "2023-09-14": 4810,
-  "2023-09-15": 4814,
-  "2023-09-16": 4816,
-  "2023-09-17": 4816,
-  "2023-09-18": 4816,
-  "2023-09-19": 4828,
-  "2023-09-20": 4828,
-  "2023-09-21": 4828,
-  "2023-09-22": 4836,
-  "2023-09-23": 4836,
-  "2023-09-24": 4836,
-  "2023-09-25": 4836,
-  "2023-09-26": 4848,
-  "2023-09-27": 4848,
-  "2023-09-28": 4848,
-  "2023-09-29": 4848,
-  "2023-09-30": 4848,
-  "2023-10-01": 4848,
-  "2023-10-02": 4864,
-  "2023-10-03": 4864,
-  "2023-10-04": 4864,
-  "2023-10-05": 4872,
-  "2023-10-06": 4872,
-  "2023-10-07": 4872,
-  "2023-10-08": 4872,
-  "2023-10-09": 4872,
-  "2023-10-10": 4872,
-  "2023-10-11": 4884,
-  "2023-10-12": 4884,
-  "2023-10-13": 4890,
-  "2023-10-14": 4890,
-  "2023-10-15": 4890,
-  "2023-10-16": 4890,
-  "2023-10-17": 4890,
-  "2023-10-18": 4890,
-  "2023-10-19": 4890,
-  "2023-10-20": 4890,
-  "2023-10-21": 4890,
-  "2023-10-22": 4890,
-  "2023-10-23": 4890,
-  "2023-10-24": 4890,
-  "2023-10-25": 4890,
-  "2023-10-26": 4890,
-  "2023-10-27": 4890,
-  "2023-10-28": 4890,
-  "2023-10-29": 4890,
-  "2023-10-30": 4890,
-  "2023-10-31": 4890,
-  "2023-11-01": 4890,
-  "2023-11-02": 4890,
-  "2023-11-03": 4890,
-  "2023-11-04": 4890,
-  "2023-11-05": 4890,
-  "2023-11-06": 4890,
-  "2023-11-07": 4890,
-  "2023-11-08": 4890,
-  "2023-11-09": 4890,
-  "2023-11-10": 4890,
-  "2023-11-11": 4988,
-  "2023-11-12": 4988,
-  "2023-11-13": 4988,
-  "2023-11-14": 4988,
-  "2023-11-15": 4988,
-  "2023-11-16": 4988,
-  "2023-11-17": 4988,
-  "2023-11-18": 4988,
-  "2023-11-19": 4988,
-  "2023-11-20": 4988,
-  "2023-11-21": 4988,
-  "2023-11-22": 4988,
-  "2023-11-23": 4988,
-  "2023-11-24": 4988,
-  "2023-11-25": 4988,
-  "2023-11-26": 4988,
-  "2023-11-27": 4988,
-  "2023-11-28": 4988,
-  "2023-11-29": 4988,
-  "2023-11-30": 4988,
-  "2023-12-01": 4988,
-  "2023-12-02": 4988,
-  "2023-12-03": 4988,
-  "2023-12-04": 4988,
-  "2023-12-05": 4988,
-  "2023-12-06": 4988,
-  "2023-12-07": 4988,
-  "2023-12-08": 4988,
-  "2023-12-09": 4988,
-  "2023-12-10": 4988,
-  "2023-12-11": 4988,
-  "2023-12-12": 4988,
-  "2023-12-13": 4988,
-  "2023-12-14": 5093,
-  "2023-12-15": 5095,
-  "2023-12-16": 5101,
-  "2023-12-17": 5104,
-  "2023-12-18": 5108,
-  "2023-12-19": 5108,
-  "2023-12-20": 5112,
-  "2023-12-21": 5115,
-  "2023-12-22": 5115,
-  "2023-12-23": 5116,
-  "2023-12-24": 5118,
-  "2023-12-25": 5122,
-  "2023-12-26": 5130,
-  "2023-12-27": 5132,
-  "2023-12-30": 5144,
-  "2023-12-31": 5147,
-  "2024-01-01": 5146,
-  "2024-01-02": 5150,
-  "2024-01-03": 5148
+  "2024-01-17": 5195,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
+  "name": "This Is King Sunny Ade",
+  "tracks": [
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 496733,
+      "name": "365 Is My Number/ The Message",
+      "url": "https://open.spotify.com/track/0chuxuOcL6oKVcroFT4mtR"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade the Master Guitarist, Vol. 1",
+        "url": "https://open.spotify.com/album/67kj63EqtPY6Yvu9RZ5SxB"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 213106,
+      "name": "A Kunle A Tewo Adura",
+      "url": "https://open.spotify.com/track/2mLWqit65SublpwGlkyf5A"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 424266,
+      "name": "Afai Bowon",
+      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 71626,
+      "name": "African Beats Lu Nsere",
+      "url": "https://open.spotify.com/track/1LV8wFaEEMJFG8Z5x57YPq"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "Akanbi Ogun",
+      "url": "https://open.spotify.com/track/5IXuhMzqbcrmHZkoGamZOT"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165459,
+      "name": "Akure Nile",
+      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239200,
+      "name": "Alashe L'Aiye",
+      "url": "https://open.spotify.com/track/7FKtCuNRSCxuEjBNHg7LKS"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409026,
+      "name": "Appreciation",
+      "url": "https://open.spotify.com/track/5KKA2xfuxPgOpSlCuBpOAQ"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ara Ma Nfe Sinmi",
+      "url": "https://open.spotify.com/track/2vna6VU41Yr5STFCbzgbVz"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 540106,
+      "name": "Ariya",
+      "url": "https://open.spotify.com/track/0chro0oQ5d6hRZLtXg9yD5"
+    },
+    {
+      "album": {
+        "name": "Lagos Evergreen Golden Oldies",
+        "url": "https://open.spotify.com/album/63es39jzJGaJPYTs5I4PVy"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1115233,
+      "name": "Aye Nreti Elaya Mi",
+      "url": "https://open.spotify.com/track/2aZjM68gmOEgMTt4csJDrM"
+    },
+    {
+      "album": {
+        "name": "Baba Mo Tunde",
+        "url": "https://open.spotify.com/album/0yLW9W0JreKsG8kj6ydA43"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-18",
+      "duration_ms": 1860426,
+      "name": "Baba Mo Tunde",
+      "url": "https://open.spotify.com/track/57qZQyeaVb971a1CZC2elR"
+    },
+    {
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2022-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116515,
+      "name": "Bo Se Nse Oju Yen",
+      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256707,
+      "name": "Bole Ya Koya",
+      "url": "https://open.spotify.com/track/1oOuk4BcivUjjNKX8gEVQP"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326640,
+      "name": "Bombibele Horojo",
+      "url": "https://open.spotify.com/track/6fRfIdYNbG9sK8t3IUXVLn"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464549,
+      "name": "Chief George Oyedele",
+      "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 372533,
+      "name": "Congratulations (Happy Birthday)",
+      "url": "https://open.spotify.com/track/5ZTLO93MiuA7SDDI0ivgME"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "Constant Star",
+      "url": "https://open.spotify.com/track/5iOtBg2xnmKg9DXVC6j4W3"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 238200,
+      "name": "Dance Dance Dance",
+      "url": "https://open.spotify.com/track/5yoFAQnNB3MzKRMYwvUxYF"
+    },
+    {
+      "album": {
+        "name": "Gems From the Classic Years (1967-1974)",
+        "url": "https://open.spotify.com/album/2BOctprQo5cN451bfjkJkX"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-04-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "Dele Davis",
+      "url": "https://open.spotify.com/track/2ZChJmNLoFQUkNaKV1A46m"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-13",
+      "duration_ms": 231902,
+      "name": "E Ba Mi Dupe",
+      "url": "https://open.spotify.com/track/0fHkUJMgVbYuuVhtAykwpM"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256133,
+      "name": "E Dide E Mujo",
+      "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-12",
+      "duration_ms": 387840,
+      "name": "E Saiye Re",
+      "url": "https://open.spotify.com/track/6PdCRrL9OHRBMcNlPj6Zmk"
+    },
+    {
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86807,
+      "name": "E Wa Woo",
+      "url": "https://open.spotify.com/track/6MMBVy9R8HsAPsDpxpqzX0"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-29",
+      "duration_ms": 199087,
+      "name": "E Wele",
+      "url": "https://open.spotify.com/track/7nWsNU40b27XMt7O1D9T1r"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93578,
+      "name": "E Yi Ga",
+      "url": "https://open.spotify.com/track/7hQWQu6FLh2EtCHtNY9O3M"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-21",
+      "duration_ms": 434200,
+      "name": "Eje Nlo Gba Ara Mi",
+      "url": "https://open.spotify.com/track/01yqvbTcS8yVeeIgZZDecW"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 111986,
+      "name": "Ejire Ara Isokun",
+      "url": "https://open.spotify.com/track/3zcN6BVYFkeiJU4epqwTr7"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245002,
+      "name": "Ekilo Fomo Ode",
+      "url": "https://open.spotify.com/track/5J0ZR2ulen5VfOLIy95jbZ"
+    },
+    {
+      "album": {
+        "name": "Baba Mo Tunde",
+        "url": "https://open.spotify.com/album/0yLW9W0JreKsG8kj6ydA43"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-05",
+      "duration_ms": 533133,
+      "name": "Emi Wo N'ile yi O",
+      "url": "https://open.spotify.com/track/7ca3jAptCDASTaF2zLr0ez"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157238,
+      "name": "Eni Binu Wa",
+      "url": "https://open.spotify.com/track/5APpE7tBp1dScv1vPd3DnK"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236771,
+      "name": "Eni Jesu We",
+      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 333000,
+      "name": "Enia L'Asho Mi",
+      "url": "https://open.spotify.com/track/5ZLh6VSrVXwPZ3EAF0U09B"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107963,
+      "name": "Enia Se Rere",
+      "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
+    },
+    {
+      "album": {
+        "name": "Lagos Evergreen Golden Oldies",
+        "url": "https://open.spotify.com/album/63es39jzJGaJPYTs5I4PVy"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 890741,
+      "name": "Eri Okan (Conscience)",
+      "url": "https://open.spotify.com/track/6qv4PX9dysCcJhjT70hpw4"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419996,
+      "name": "Esubiribiri Ebomi",
+      "url": "https://open.spotify.com/track/6FsOq2SPOG5TxBzX8cXe8n"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51200,
+      "name": "Gbass Kelele",
+      "url": "https://open.spotify.com/track/44g9vIk0L30PigZAL7pJ6k"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-01",
+      "duration_ms": 836360,
+      "name": "Ibanuje Mon Iwon",
+      "url": "https://open.spotify.com/track/4KoABnMvOjmxiViI1ZKdLV"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
+    },
+    {
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156914,
+      "name": "Kajo jijo olomo",
+      "url": "https://open.spotify.com/track/6v1Pd3anyDPKXjkZj1Bu0z"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-11",
+      "duration_ms": 600032,
+      "name": "Ki isu to diyan",
+      "url": "https://open.spotify.com/track/7e9CCpxMmcEsd5RcoWHy0p"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116386,
+      "name": "Ko Salapata",
+      "url": "https://open.spotify.com/track/2mHxlK2KOfX85JNQu4vJFG"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212775,
+      "name": "Komi Komi",
+      "url": "https://open.spotify.com/track/4Rpna21W80qkJwyg1WtuAw"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245080,
+      "name": "Kosun Tadie",
+      "url": "https://open.spotify.com/track/5bPX2y8YJbCUG6U2ee639t"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175760,
+      "name": "Let Them Say",
+      "url": "https://open.spotify.com/track/2htWAUV6T3rsTyfWS1i90N"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307866,
+      "name": "Ma Jaiye Oni",
+      "url": "https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 386134,
+      "name": "Ma Korin Titun",
+      "url": "https://open.spotify.com/track/6Mv3XAmczyFd9dj9RkmCid"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 206426,
+      "name": "Maajo",
+      "url": "https://open.spotify.com/track/6S8BapmclM4NWh19SciQOj"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 445069,
+      "name": "Majo Bi Olokun",
+      "url": "https://open.spotify.com/track/6lV4Xnx6vF3v8luJlY9kWs"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181159,
+      "name": "Major General Adebaye",
+      "url": "https://open.spotify.com/track/6c1kyQTE6mtUPZMl6FzLQE"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396933,
+      "name": "Merciful God",
+      "url": "https://open.spotify.com/track/2jZQ4tNLP0tgzYXbdtwPdi"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-28",
+      "duration_ms": 207266,
+      "name": "Mo Beru Agba",
+      "url": "https://open.spotify.com/track/7eQE0zygEXuwMhS2q0IZax"
+    },
+    {
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227985,
+      "name": "Mo L'Oluwa, Ohun To Mu Bale Ile",
+      "url": "https://open.spotify.com/track/4dGeiTEKIXjAWUZIAHJgv2"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75011,
+      "name": "Mo Ti Gohun Oluwa",
+      "url": "https://open.spotify.com/track/5n5qWKCQ05N6DdkCQulO4P"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-06",
+      "duration_ms": 331893,
+      "name": "Mo Ti Mo",
+      "url": "https://open.spotify.com/track/5fFfdLDPjOtKFpfvCLMycy"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 317306,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/6vUAf4UR2kgYm62l6S09pz"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188995,
+      "name": "Nitori Awa",
+      "url": "https://open.spotify.com/track/2yhTRdHynfCGIX4v7Vasg3"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189236,
+      "name": "O-wo-wo Obele",
+      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194026,
+      "name": "Ode La Alaga",
+      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 228266,
+      "name": "Odema Ti P'Ogidan S'oko",
+      "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 324654,
+      "name": "Odun Titun",
+      "url": "https://open.spotify.com/track/1tA1zcS6wRqNcWC6Rch40O"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431933,
+      "name": "Ogidan O Ni Se Barber",
+      "url": "https://open.spotify.com/track/7lyjh9rgJsl1dPeiQhaxUv"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 1: Let Them Say & Edide",
+        "url": "https://open.spotify.com/album/4sktsG6tLsbIT4jxdRUW3o"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155457,
+      "name": "Oluwa Lo Yan Mi",
+      "url": "https://open.spotify.com/track/6oTnc25hMY8S8bcos2dNy4"
+    },
+    {
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148520,
+      "name": "Omo Se Koko",
+      "url": "https://open.spotify.com/track/4G7H7RygxVOueRUdBsYYF9"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294533,
+      "name": "Omode O'Mela",
+      "url": "https://open.spotify.com/track/5xUD0LrfblKKbXmmHyxYn3"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 215026,
+      "name": "Ope Oku",
+      "url": "https://open.spotify.com/track/3rDEf6S1mglfiuforuUHcz"
+    },
+    {
+      "album": {
+        "name": "Salps-20",
+        "url": "https://open.spotify.com/album/3aDOSbJyx907iP0nLuWmID"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His African Beats",
+          "url": "https://open.spotify.com/artist/7bih7C01Wuo5zpNTBMQXAQ"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-21",
+      "duration_ms": 1103699,
+      "name": "Ori Mi Ja Fun Mi, Oro Ile Aiye, Olowo Je",
+      "url": "https://open.spotify.com/track/6TOAHLK0lCpEWkZqKjt5m7"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178266,
+      "name": "Orisun Iye",
+      "url": "https://open.spotify.com/track/1wDwfhJPl6NidDXTXLRF6P"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 217973,
+      "name": "Oro Towo Baseti",
+      "url": "https://open.spotify.com/track/53nr4M3BGTXAa5hyT4SmQf"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-04",
+      "duration_ms": 295626,
+      "name": "Ose Ose",
+      "url": "https://open.spotify.com/track/2xI8iICrB74eAcmMaBkBZb"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-13",
+      "duration_ms": 240373,
+      "name": "Penkele",
+      "url": "https://open.spotify.com/track/20DkS0CchyPQEmR7EuBOlm"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166112,
+      "name": "Prince Adesanya",
+      "url": "https://open.spotify.com/track/49xJOKFxTW6dR02sgj4oL3"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 195970,
+      "name": "Rod Publicity",
+      "url": "https://open.spotify.com/track/2nriCOm7jdB5YYtaezoZSt"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307400,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/5p1VlR4Y4TFYnjU7tCZO47"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 487333,
+      "name": "Samba/ E Falaba Lewe",
+      "url": "https://open.spotify.com/track/0bZi7uJsYdIXOtzZAeO6pr"
+    },
+    {
+      "album": {
+        "name": "Seven Degrees North",
+        "url": "https://open.spotify.com/album/7chxSu7nUUTymoEou7OhuF"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 581400,
+      "name": "Suku Suku Bam Bam",
+      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-04-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 188995,
+      "name": "Sunny Koni Ku",
+      "url": "https://open.spotify.com/track/1YmB4vXjQOBHPyJwTavRSy"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 330960,
+      "name": "Sunny Ti De",
+      "url": "https://open.spotify.com/track/59rVj0jJUkfnv97jESoxaT"
+    },
+    {
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-15",
+      "duration_ms": 226200,
+      "name": "Sunny Ti De Ariya",
+      "url": "https://open.spotify.com/track/6IqKmZd43Xw7jHCekXY1bO"
+    },
+    {
+      "album": {
+        "name": "Sunny Ade the Master Guitarist, Vol. 1",
+        "url": "https://open.spotify.com/album/67kj63EqtPY6Yvu9RZ5SxB"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-05",
+      "duration_ms": 978233,
+      "name": "Sunny Ti De, Kolawole Bicke",
+      "url": "https://open.spotify.com/track/4RJMw0L8RwukHzqt1ntZXX"
+    },
+    {
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "date_added": "2022-10-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100143,
+      "name": "Sweet Banana",
+      "url": "https://open.spotify.com/track/1oQlaO55lhToPtyrTgUSMX"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 336533,
+      "name": "Synchro Feelings - Ilako",
+      "url": "https://open.spotify.com/track/5vhdGNVEIGZAET0t7DZHzv"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2022-03-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-07",
+      "duration_ms": 305933,
+      "name": "Synchro Reprise",
+      "url": "https://open.spotify.com/track/2iS2W0aNtrayBIs2bTmE35"
+    },
+    {
+      "album": {
+        "name": "Synchro System (THEMBA's Herd Mix)",
+        "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
+      },
+      "artists": [
+        {
+          "name": "THEMBA",
+          "url": "https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC"
+        },
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His African Beats",
+          "url": "https://open.spotify.com/artist/7bih7C01Wuo5zpNTBMQXAQ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212256,
+      "name": "Synchro System (THEMBA's Herd Mix)",
+      "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
+    },
+    {
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-11",
+      "duration_ms": 1092666,
+      "name": "Synchro System - Complete Original Version",
+      "url": "https://open.spotify.com/track/1h8rqZHmVk8lzqmjWNTjaK"
+    },
+    {
+      "album": {
+        "name": "Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward",
+        "url": "https://open.spotify.com/album/6L1EFQ32iy12gBXUM58KVc"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 728006,
+      "name": "The Way Forward 1",
+      "url": "https://open.spotify.com/track/6dDjhgK6IA4QoqL8NMa0V6"
+    },
+    {
+      "album": {
+        "name": "Synchro System",
+        "url": "https://open.spotify.com/album/3Qx12NrsAYxt4TFFTiF97I"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 209165,
+      "name": "Tolongo",
+      "url": "https://open.spotify.com/track/5qGkDqxyxViXKEZjpbdMzS"
+    },
+    {
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 232040,
+      "name": "Yoruba",
+      "url": "https://open.spotify.com/track/5OprIO7jAo89hAeX5lpI2w"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO043912"
 }

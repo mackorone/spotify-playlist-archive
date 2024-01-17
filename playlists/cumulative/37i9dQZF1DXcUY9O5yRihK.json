@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-01-18",
   "description": "Bossa nova vibes for the hopeless romantic daydreamers. ",
-  "name": "blush",
+  "name": "bossa pop",
   "tracks": [
     {
       "album": {
@@ -246,7 +246,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 220010,
       "name": "Baby",
       "url": "https://open.spotify.com/track/7ezdBjcpj2yQVDLWv80z3U"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 182857,
       "name": "Drunk On A Flight",
       "url": "https://open.spotify.com/track/61gNWcpFdezb20Oc4uMrr6"
@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "NEVER AGAIN",
+        "url": "https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145720,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2"
+    },
+    {
+      "album": {
         "name": "When We Were Younger",
         "url": "https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w"
       },
@@ -1218,6 +1236,24 @@
       "duration_ms": 191555,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/3C8Z6rLzMjQiDSkZxpRHxV"
+    },
+    {
+      "album": {
+        "name": "Love Letters",
+        "url": "https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe"
+      },
+      "artists": [
+        {
+          "name": "EASHA",
+          "url": "https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149485,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj"
     },
     {
       "album": {

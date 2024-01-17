@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 182906,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/3Q02G6YTJ7hmbEG7h4sYVc"
@@ -580,7 +580,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 178758,
       "name": "Don't Ever Leave Me",
       "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
@@ -1426,7 +1426,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 193667,
       "name": "moon river (2021)",
       "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 245870,
       "name": "Something Special",
       "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
@@ -2220,10 +2220,6 @@
         {
           "name": "Eddy Kim",
           "url": "https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe"
-        },
-        {
-          "name": "Lee Sung-kyung",
-          "url": "https://open.spotify.com/artist/71GtNPltMLFyPOXCfZf0TF"
         }
       ],
       "date_added": "2022-05-03",
@@ -2899,6 +2895,28 @@
     },
     {
       "album": {
+        "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You",
+        "url": "https://open.spotify.com/album/1s3RA9wdbVXkSVHYPBIk8E"
+      },
+      "artists": [
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        },
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249723,
+      "name": "\ub108\ub294 \uc5b4\ub5bb\uac8c How Did You (feat. Yerin Baek)",
+      "url": "https://open.spotify.com/track/3rkH2oQnehYxTA0Vk50D1Z"
+    },
+    {
+      "album": {
         "name": "\ub10c you",
         "url": "https://open.spotify.com/album/4BJAHipUlFcQ1YXvYoWf0x"
       },
@@ -2914,6 +2932,24 @@
       "duration_ms": 226000,
       "name": "\ub10c you",
       "url": "https://open.spotify.com/track/2Lv4ICVjaLlBkSV63oktFV"
+    },
+    {
+      "album": {
+        "name": "\uc228\uc744 \uc270\ub2e4 breathe breathe",
+        "url": "https://open.spotify.com/album/1FmNBXnEFNjsYzw0KcHMIZ"
+      },
+      "artists": [
+        {
+          "name": "parkjiyoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "date_added": "2023-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "\ub10c You - 2022 Album Remastered",
+      "url": "https://open.spotify.com/track/433VlbJeMs6InuQJZGfYnB"
     },
     {
       "album": {

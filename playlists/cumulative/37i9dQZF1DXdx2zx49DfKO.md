@@ -4,7 +4,7 @@
 
 > The fastest growing genre in 2022.
 
-73 songs - 2 hr 56 min
+74 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [HELLDRIFT 2](https://open.spotify.com/track/5VENuZ5ybCQpujo3E0ej31) | [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d) | [HELLDRIFT 2](https://open.spotify.com/album/4kwUJCbt3qHdMSGMJTU5Y4) | 2:51 | 2022-11-30 | 2023-08-10 |
 | [HELLDRIFT 2](https://open.spotify.com/track/3Rgdf4iYQbg5FuTKeypE1w) | [paydak](https://open.spotify.com/artist/3rFUPY7oZm0KOljei2VSWx), [W\-NZG](https://open.spotify.com/artist/2sCBnTo6ZpK8E35WwJRQ6w), [Lythx](https://open.spotify.com/artist/01ffRQ3o5VegxsABrqos6d) | [HELLDRIFT 2](https://open.spotify.com/album/6fzvl3BYrE1oPmJaP8sdnj) | 2:51 | 2022-11-30 | 2023-08-16 |
 | [HELLDRIFT 2](https://open.spotify.com/track/78jwadUWHHsIXYoZtL9kpK) | [Randee Campers](https://open.spotify.com/artist/3XrwocEZ2D4EkmynAMtw5y) | [HELLDRIFT 2](https://open.spotify.com/album/6AFcMCYJfdAI9vO3YJ6wn8) | 2:51 | 2022-11-30 | 2023-06-11 |
+| [HELLDRIFT 2](https://open.spotify.com/track/6aJNy9RHJI1n9ji2EHlLGE) | [untouchable](https://open.spotify.com/artist/4bIFSTBc1bGexJLBdUA9zi), [unshackled](https://open.spotify.com/artist/7541yYNA9CAWFQE8dejvGd) | [HELLDRIFT 2](https://open.spotify.com/album/3k5nLUv93qRMp5qBYrsAnb) | 2:51 | 2022-11-30 | 2024-01-08 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2022-11-30 |  |
 | [INCOMING](https://open.spotify.com/track/4h3KlpOEXS6FxIpab6EKlf) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [INCOMING](https://open.spotify.com/album/4ASsNh1WHAjrGKh5jp0Q4F) | 2:20 | 2022-11-30 |  |
 | [Keraunos](https://open.spotify.com/track/5ZKyj00XSlmEoKnDGH4JZa) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Keraunos](https://open.spotify.com/album/4NlCk3xPB0LE5Ab9UwSK7A) | 2:24 | 2022-11-30 |  |

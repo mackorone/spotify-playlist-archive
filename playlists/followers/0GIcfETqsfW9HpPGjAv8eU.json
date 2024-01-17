@@ -1,226 +1,207 @@
 {
-  "2023-05-23": 0,
-  "2023-05-24": 0,
-  "2023-05-25": 0,
-  "2023-05-26": 0,
-  "2023-05-27": 0,
-  "2023-05-28": 0,
-  "2023-05-29": 0,
-  "2023-05-30": 0,
-  "2023-05-31": 0,
-  "2023-06-01": 0,
-  "2023-06-02": 0,
-  "2023-06-03": 0,
-  "2023-06-04": 0,
-  "2023-06-05": 0,
-  "2023-06-06": 0,
-  "2023-06-07": 0,
-  "2023-06-08": 0,
-  "2023-06-09": 0,
-  "2023-06-10": 0,
-  "2023-06-11": 0,
-  "2023-06-12": 0,
-  "2023-06-13": 0,
-  "2023-06-14": 0,
-  "2023-06-15": 0,
-  "2023-06-16": 0,
-  "2023-06-17": 0,
-  "2023-06-18": 0,
-  "2023-06-19": 0,
-  "2023-06-20": 0,
-  "2023-06-21": 0,
-  "2023-06-22": 0,
-  "2023-06-23": 0,
-  "2023-06-24": 0,
-  "2023-06-25": 0,
-  "2023-06-26": 0,
-  "2023-06-27": 0,
-  "2023-06-28": 0,
-  "2023-06-29": 0,
-  "2023-06-30": 0,
-  "2023-07-01": 0,
-  "2023-07-02": 0,
-  "2023-07-03": 0,
-  "2023-07-04": 0,
-  "2023-07-05": 0,
-  "2023-07-06": 0,
-  "2023-07-07": 0,
-  "2023-07-08": 0,
-  "2023-07-09": 0,
-  "2023-07-10": 0,
-  "2023-07-11": 0,
-  "2023-07-12": 0,
-  "2023-07-13": 0,
-  "2023-07-14": 0,
-  "2023-07-15": 0,
-  "2023-07-16": 0,
-  "2023-07-17": 0,
-  "2023-07-18": 0,
-  "2023-07-19": 0,
-  "2023-07-20": 0,
-  "2023-07-21": 0,
-  "2023-07-22": 0,
-  "2023-07-23": 0,
-  "2023-07-24": 0,
-  "2023-07-25": 0,
-  "2023-07-26": 0,
-  "2023-07-27": 0,
-  "2023-07-28": 0,
-  "2023-07-29": 0,
-  "2023-07-30": 0,
-  "2023-07-31": 0,
-  "2023-08-01": 0,
-  "2023-08-02": 0,
-  "2023-08-03": 0,
-  "2023-08-04": 0,
-  "2023-08-05": 0,
-  "2023-08-06": 0,
-  "2023-08-07": 0,
-  "2023-08-08": 0,
-  "2023-08-09": 0,
-  "2023-08-10": 0,
-  "2023-08-11": 0,
-  "2023-08-12": 0,
-  "2023-08-13": 0,
-  "2023-08-14": 0,
-  "2023-08-15": 0,
-  "2023-08-16": 0,
-  "2023-08-17": 0,
-  "2023-08-18": 0,
-  "2023-08-19": 0,
-  "2023-08-20": 0,
-  "2023-08-21": 0,
-  "2023-08-22": 0,
-  "2023-08-23": 0,
-  "2023-08-24": 0,
-  "2023-08-25": 0,
-  "2023-08-26": 0,
-  "2023-08-27": 0,
-  "2023-08-28": 0,
-  "2023-08-29": 0,
-  "2023-08-30": 0,
-  "2023-08-31": 0,
-  "2023-09-01": 0,
-  "2023-09-02": 0,
-  "2023-09-03": 0,
-  "2023-09-04": 0,
-  "2023-09-05": 0,
-  "2023-09-06": 0,
-  "2023-09-07": 0,
-  "2023-09-08": 0,
-  "2023-09-09": 0,
-  "2023-09-10": 0,
-  "2023-09-11": 0,
-  "2023-09-12": 0,
-  "2023-09-13": 0,
-  "2023-09-14": 0,
-  "2023-09-15": 0,
-  "2023-09-16": 0,
-  "2023-09-17": 0,
-  "2023-09-18": 0,
-  "2023-09-19": 0,
-  "2023-09-20": 0,
-  "2023-09-21": 0,
-  "2023-09-22": 0,
-  "2023-09-23": 0,
-  "2023-09-24": 0,
-  "2023-09-25": 0,
-  "2023-09-26": 0,
-  "2023-09-27": 0,
-  "2023-09-28": 0,
-  "2023-09-29": 0,
-  "2023-09-30": 0,
-  "2023-10-01": 0,
-  "2023-10-02": 0,
-  "2023-10-03": 0,
-  "2023-10-04": 0,
-  "2023-10-05": 0,
-  "2023-10-06": 0,
-  "2023-10-07": 0,
-  "2023-10-08": 0,
-  "2023-10-09": 0,
-  "2023-10-10": 0,
-  "2023-10-11": 0,
-  "2023-10-12": 0,
-  "2023-10-13": 0,
-  "2023-10-14": 0,
-  "2023-10-15": 0,
-  "2023-10-16": 0,
-  "2023-10-17": 0,
-  "2023-10-18": 0,
-  "2023-10-19": 0,
-  "2023-10-20": 0,
-  "2023-10-21": 0,
-  "2023-10-22": 0,
-  "2023-10-23": 0,
-  "2023-10-24": 0,
-  "2023-10-25": 0,
-  "2023-10-26": 0,
-  "2023-10-27": 0,
-  "2023-10-28": 0,
-  "2023-10-29": 0,
-  "2023-10-30": 0,
-  "2023-10-31": 0,
-  "2023-11-01": 0,
-  "2023-11-02": 0,
-  "2023-11-03": 0,
-  "2023-11-04": 0,
-  "2023-11-05": 0,
-  "2023-11-06": 0,
-  "2023-11-07": 0,
-  "2023-11-08": 0,
-  "2023-11-09": 0,
-  "2023-11-10": 0,
-  "2023-11-11": 0,
-  "2023-11-12": 0,
-  "2023-11-13": 0,
-  "2023-11-14": 0,
-  "2023-11-15": 0,
-  "2023-11-16": 0,
-  "2023-11-17": 0,
-  "2023-11-18": 0,
-  "2023-11-19": 0,
-  "2023-11-20": 0,
-  "2023-11-21": 0,
-  "2023-11-22": 0,
-  "2023-11-23": 0,
-  "2023-11-24": 0,
-  "2023-11-25": 0,
-  "2023-11-26": 0,
-  "2023-11-27": 0,
-  "2023-11-28": 0,
-  "2023-11-29": 0,
-  "2023-11-30": 0,
-  "2023-12-01": 0,
-  "2023-12-02": 0,
-  "2023-12-03": 0,
-  "2023-12-04": 0,
-  "2023-12-05": 0,
-  "2023-12-06": 0,
-  "2023-12-07": 0,
-  "2023-12-08": 0,
-  "2023-12-09": 0,
-  "2023-12-10": 0,
-  "2023-12-11": 0,
-  "2023-12-12": 0,
-  "2023-12-13": 0,
-  "2023-12-14": 0,
-  "2023-12-15": 0,
-  "2023-12-16": 0,
-  "2023-12-17": 0,
-  "2023-12-18": 0,
-  "2023-12-19": 0,
-  "2023-12-20": 0,
-  "2023-12-21": 0,
-  "2023-12-22": 0,
-  "2023-12-23": 0,
-  "2023-12-24": 0,
-  "2023-12-25": 0,
-  "2023-12-26": 0,
-  "2023-12-27": 0,
-  "2023-12-30": 0,
-  "2023-12-31": 0,
-  "2024-01-01": 0,
-  "2024-01-02": 0,
-  "2024-01-03": 0
+  "2024-01-17": 0,
+  "date_first_scraped": "2023-05-23",
+  "description": "",
+  "name": "One for the witches ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Denny's",
+        "url": "https://open.spotify.com/album/476J11dq56w95t0nwMV8nd"
+      },
+      "artists": [
+        {
+          "name": "The King's Busketeers",
+          "url": "https://open.spotify.com/artist/59LOExQz4tvCg7iUiDdbxL"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269522,
+      "name": "Denny's",
+      "url": "https://open.spotify.com/track/1LFXkONrtbQm4B6FbXcQtx"
+    },
+    {
+      "album": {
+        "name": "Gennifer Flowers",
+        "url": "https://open.spotify.com/album/48aq7jpcGuIvFA3fMTvp0s"
+      },
+      "artists": [
+        {
+          "name": "Fever Dolls",
+          "url": "https://open.spotify.com/artist/3KeGbFp8QkzaknOW0sLexS"
+        }
+      ],
+      "date_added": "2022-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206853,
+      "name": "Gennifer Flowers",
+      "url": "https://open.spotify.com/track/6FH7jNKYCdfYWBymtIrFT8"
+    },
+    {
+      "album": {
+        "name": "Dance Fever",
+        "url": "https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280455,
+      "name": "Girls Against God",
+      "url": "https://open.spotify.com/track/6kQlUiaTUyRW8fYQ2xDhpx"
+    },
+    {
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280130,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK"
+    },
+    {
+      "album": {
+        "name": "Blue Eyed Blondes",
+        "url": "https://open.spotify.com/album/4tGYbg5dh8In4XfdPGb57O"
+      },
+      "artists": [
+        {
+          "name": "Blue Eyed Blondes",
+          "url": "https://open.spotify.com/artist/5V9bDZ9RKJsUvttuW4qcvX"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291174,
+      "name": "Maneater",
+      "url": "https://open.spotify.com/track/0EqORLSYQnCRL30WzsWjxi"
+    },
+    {
+      "album": {
+        "name": "More Weight",
+        "url": "https://open.spotify.com/album/0E6xn6XwdGgku5tg3xoJOD"
+      },
+      "artists": [
+        {
+          "name": "Captain Vampire",
+          "url": "https://open.spotify.com/artist/3pV3Fn3xqQpCccrhCd8sxz"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108347,
+      "name": "More Weight",
+      "url": "https://open.spotify.com/track/2zVMtQQ0gLSkMxaCaf9MMv"
+    },
+    {
+      "album": {
+        "name": "Sunshine Superman",
+        "url": "https://open.spotify.com/album/2ULhVPvdhT7RREnqRWM06G"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293933,
+      "name": "Season of the Witch",
+      "url": "https://open.spotify.com/track/6MOEQCtAWNSCmvg3SFKF5y"
+    },
+    {
+      "album": {
+        "name": "You Don't Own Me Anymore",
+        "url": "https://open.spotify.com/album/48oEbT2demuZV5mRLlbaLC"
+      },
+      "artists": [
+        {
+          "name": "The Secret Sisters",
+          "url": "https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Tennessee River Runs Low",
+      "url": "https://open.spotify.com/track/5EtCO314GtiKs2hEGF5gUG"
+    },
+    {
+      "album": {
+        "name": "Jackrabbit",
+        "url": "https://open.spotify.com/album/2nKm6DX4cFNmSy3OuhniOu"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        }
+      ],
+      "date_added": "2022-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201906,
+      "name": "The Woods",
+      "url": "https://open.spotify.com/track/0pd7F7P48KLCYbQWY6U807"
+    },
+    {
+      "album": {
+        "name": "Hex of Infinite Binding EP",
+        "url": "https://open.spotify.com/album/11XH1JSn2kCsXgARceqXfw"
+      },
+      "artists": [
+        {
+          "name": "The Mountain Goats",
+          "url": "https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5"
+        }
+      ],
+      "date_added": "2022-02-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135626,
+      "name": "Tucson Fog",
+      "url": "https://open.spotify.com/track/05MnI3QZggqvsQLKzH4d7J"
+    },
+    {
+      "album": {
+        "name": "Vampire Chick",
+        "url": "https://open.spotify.com/album/19E7yz5gNjVerwucCpdZ9a"
+      },
+      "artists": [
+        {
+          "name": "Shawlin Supreme & the Kick Back Boys",
+          "url": "https://open.spotify.com/artist/1gmO3cHTsTIEghT1uxloGS"
+        }
+      ],
+      "date_added": "2022-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260200,
+      "name": "Vampire Chick",
+      "url": "https://open.spotify.com/track/5QdalXJNUevxn1jWtaL3Tc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/0GIcfETqsfW9HpPGjAv8eU"
 }

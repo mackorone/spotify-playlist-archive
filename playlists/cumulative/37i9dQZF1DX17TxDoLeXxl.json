@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-13",
-  "description": "for hiking through nature's playground \ud83c\udfd4\ufe0f",
+  "description": "for wandering through nature's playground \ud83c\udfd4\ufe0f",
   "name": "Mountain Air",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 222823,
       "name": "Already Gone",
       "url": "https://open.spotify.com/track/6OPCPWHHpFeRm60hiZuRrP"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 207519,
       "name": "Amadeus",
       "url": "https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S"
@@ -340,7 +340,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 328346,
       "name": "Been To The Mountain",
       "url": "https://open.spotify.com/track/1Ft1i4cDQKTAlnHO8tASBq"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 234500,
       "name": "Big Songbirds Don't Cry",
       "url": "https://open.spotify.com/track/4GGykL1fVMyX0d4qPCMaT4"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 220000,
       "name": "Bows",
       "url": "https://open.spotify.com/track/4LCOFsWBoBlGw3qf33dl5V"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 170537,
       "name": "Cowboy Nudes",
       "url": "https://open.spotify.com/track/4GBIZMasDFztSQfK0IrNh6"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 162920,
       "name": "Crosses",
       "url": "https://open.spotify.com/track/0ByKWq0hsuYriK5avSMJ5r"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 234400,
       "name": "Diamonds & Gasoline",
       "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
@@ -1093,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220720,
+      "name": "For Emma",
+      "url": "https://open.spotify.com/track/2nilAlGEZmwyaLTMMyDdLo"
+    },
+    {
+      "album": {
         "name": "For You I'll Wait",
         "url": "https://open.spotify.com/album/1H5gH4CAQceNqKpVZeVdG0"
       },
@@ -1140,7 +1158,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 263862,
       "name": "Girl in the War",
       "url": "https://open.spotify.com/track/2XQ6xhvd1q5JQyY21F198g"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 216573,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/1kOINdBKgHDCADJFsAYyIq"
@@ -1942,7 +1960,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 92769,
       "name": "Moving Light",
       "url": "https://open.spotify.com/track/6EQneB4nJ8r8COyeqR6eQz"
@@ -2014,7 +2032,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 234160,
       "name": "Nancy From Now On",
       "url": "https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i"
@@ -2499,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "album": {
         "name": "Little Neon Limelight",
         "url": "https://open.spotify.com/album/4FcLsVJY0NIKB8V9aHc1wh"
       },
@@ -2748,7 +2784,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 189200,
       "name": "Strawberry",
       "url": "https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN"
@@ -2802,7 +2838,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 176551,
       "name": "Summertime Mama",
       "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
@@ -2838,7 +2874,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 189329,
       "name": "Sweet Misery",
       "url": "https://open.spotify.com/track/5QDpRgmLJaWJaV7BUX5D0Y"
@@ -2874,7 +2910,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 130988,
       "name": "Take It Away - Pt. B",
       "url": "https://open.spotify.com/track/7DsQSKvFdDz2FkEy8n22hy"
@@ -3223,6 +3259,24 @@
     },
     {
       "album": {
+        "name": "Wild Rivers",
+        "url": "https://open.spotify.com/album/4SMbqvJenspMXbcPROZsVK"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "Wandering Child",
+      "url": "https://open.spotify.com/track/6xpF0dbtDGmEd0En18Kfwl"
+    },
+    {
+      "album": {
         "name": "And It\u2019s Still Alright",
         "url": "https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW"
       },
@@ -3270,7 +3324,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 284920,
       "name": "Whistling Trees",
       "url": "https://open.spotify.com/track/71jHTDUXLZmyqMItq9TaYs"
@@ -3288,7 +3342,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 199093,
       "name": "Whole",
       "url": "https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V"

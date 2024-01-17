@@ -4,7 +4,7 @@
 
 > Your favorite artists, caught in the act! Recorded Live...just like you were there\. Cover: Luke Combs
 
-141 songs - 9 hr 59 min
+143 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [County Roads \(Live At The Basement East\)](https://open.spotify.com/track/4bvW4uSC2l8njWBBngBXRp) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/0830KT6sUx0dI84JECxfaH) | 3:30 | 2023-11-03 |  |
 | [County Roads \- Live At The Basement East](https://open.spotify.com/track/3R9PwZfJT95NP9E2UuIcld) | [Elvie Shane](https://open.spotify.com/artist/2eIB6vFotL2su94z3pUC1j) | [County Roads \(Live At The Basement East\)](https://open.spotify.com/album/7wrvsCtkqd3jh8qAkR5773) | 3:30 | 2022-07-22 | 2023-11-05 |
 | [Creek Will Rise \- Live](https://open.spotify.com/track/0bZiAP7fav7CS9Ay3Zgv70) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Creek Will Rise \(Live\)](https://open.spotify.com/album/4Uf3xJWBGRwrRfJyBb2x0m) | 3:53 | 2023-06-30 |  |
+| [Dancing in the Sky \- Live](https://open.spotify.com/track/2J9gJOybt7LblzP7DOYtpL) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:04 | 2024-01-05 |  |
 | [Different ‘Round Here \- Live](https://open.spotify.com/track/3ENzGRDiKCLnbWXuY8vibZ) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [We Out Here: Live](https://open.spotify.com/album/5cxqlKuwtwuJOxFmAL2SSB) | 3:36 | 2022-03-25 |  |
 | [Don't Come Lookin' \- Live](https://open.spotify.com/track/2A8qDQF7hWDZo8ueroFu52) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Don't Come Lookin' \(Live\)](https://open.spotify.com/album/7sM0nVCmKgUpaj8GyNxVMr) | 3:19 | 2022-09-30 |  |
 | [Downtown \- Live](https://open.spotify.com/track/5OSgA8BnIaPpoYQKRSVv9x) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Spotify Live \(Live From Austin, TX\)](https://open.spotify.com/album/1uNyPWW6YzdIBWxwq5BiBE) | 3:29 | 2021-07-22 |  |
@@ -117,6 +118,7 @@
 | [Stand Behind Me \(Live\)](https://open.spotify.com/track/2ZWhZTVIC3r428R939eIpE) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Big Bang Concert Series: Jo Dee Messina \(Live\)](https://open.spotify.com/album/67mQKIj5RSXn08pWs8xP3k) | 4:12 | 2021-07-22 |  |
 | [Started Right Here \- Live](https://open.spotify.com/track/0sygbjwo6LURm9MzjNUFTS) | [SixForty1](https://open.spotify.com/artist/4dcnHUWXWZAHfA8FvQBtJS) | [Started Right Here \(Live\)](https://open.spotify.com/album/5a3IVgd9lHYR0ktqZaExi6) | 3:42 | 2022-07-29 |  |
 | [Stay A Little Longer \- Live](https://open.spotify.com/track/7A6DbpS31a2JwE6ql6LVrY) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Live At The Ryman](https://open.spotify.com/album/7fhOQNnwb75FndNQfbC3Mi) | 6:14 | 2021-07-22 |  |
+| [Straight and Narrow \- Live](https://open.spotify.com/track/0q2ZwaD697dTrD2Fq5jcvU) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Live EP 001](https://open.spotify.com/album/46Wz0JFGscUG5rbo5CEmZe) | 3:51 | 2024-01-05 |  |
 | [Suds in the Bucket \- Live at West Virginia University Creative Arts Center, Morgantown, West Virginia \- Aug\. 28, 2004](https://open.spotify.com/track/2TafupUYnuVWEMdJuM9M4q) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless \(Deluxe Edition\)](https://open.spotify.com/album/6ecuNAudkzhKkokkXS7xXa) | 3:53 | 2023-08-18 |  |
 | [Talladega \- Live At Legacy Arena At The BJCC, Birmingham, AL / February 17, 2017](https://open.spotify.com/track/6q50UDwq3vgqH7Itt2CME7) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [61 Days In Church Volume 1](https://open.spotify.com/album/2dZjAdGqTcHgYS0tuW4KVR) | 4:19 | 2021-07-22 |  |
 | [Thank God \- Live from Fenway](https://open.spotify.com/track/5cpNbiyqYcWtOy6C6TR5EC) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [Katelyn Brown](https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB) | [Thank God \(Live from Fenway\)](https://open.spotify.com/album/1FwfnEMU23NCsVbgMJBLC8) | 4:00 | 2023-08-18 |  |

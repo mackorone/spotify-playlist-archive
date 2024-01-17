@@ -1,159 +1,1127 @@
 {
-  "2023-07-29": 239391,
-  "2023-07-30": 239446,
-  "2023-07-31": 239508,
-  "2023-08-01": 239568,
-  "2023-08-02": 239615,
-  "2023-08-03": 239671,
-  "2023-08-04": 239721,
-  "2023-08-05": 239798,
-  "2023-08-06": 239925,
-  "2023-08-07": 239925,
-  "2023-08-08": 239968,
-  "2023-08-09": 239996,
-  "2023-08-10": 240053,
-  "2023-08-11": 240113,
-  "2023-08-12": 240113,
-  "2023-08-13": 240113,
-  "2023-08-14": 240276,
-  "2023-08-15": 240276,
-  "2023-08-16": 240276,
-  "2023-08-17": 240276,
-  "2023-08-18": 240276,
-  "2023-08-19": 240276,
-  "2023-08-20": 240628,
-  "2023-08-21": 240628,
-  "2023-08-22": 240758,
-  "2023-08-23": 240758,
-  "2023-08-24": 240758,
-  "2023-08-25": 240758,
-  "2023-08-26": 240991,
-  "2023-08-27": 240991,
-  "2023-08-28": 241106,
-  "2023-08-29": 241106,
-  "2023-08-30": 241106,
-  "2023-08-31": 241282,
-  "2023-09-01": 241337,
-  "2023-09-02": 241337,
-  "2023-09-03": 241337,
-  "2023-09-04": 241337,
-  "2023-09-05": 241337,
-  "2023-09-06": 241337,
-  "2023-09-07": 241337,
-  "2023-09-08": 241337,
-  "2023-09-09": 241337,
-  "2023-09-10": 241337,
-  "2023-09-11": 241337,
-  "2023-09-12": 241337,
-  "2023-09-13": 241337,
-  "2023-09-14": 241337,
-  "2023-09-15": 241337,
-  "2023-09-16": 242203,
-  "2023-09-17": 242203,
-  "2023-09-18": 242203,
-  "2023-09-19": 242362,
-  "2023-09-20": 242362,
-  "2023-09-21": 242362,
-  "2023-09-22": 242514,
-  "2023-09-23": 242514,
-  "2023-09-24": 242514,
-  "2023-09-25": 242514,
-  "2023-09-26": 242762,
-  "2023-09-27": 242762,
-  "2023-09-28": 242762,
-  "2023-09-29": 242762,
-  "2023-09-30": 242762,
-  "2023-10-01": 242762,
-  "2023-10-02": 242762,
-  "2023-10-03": 242762,
-  "2023-10-04": 242762,
-  "2023-10-05": 242762,
-  "2023-10-06": 242762,
-  "2023-10-07": 242762,
-  "2023-10-08": 242762,
-  "2023-10-09": 242762,
-  "2023-10-10": 242762,
-  "2023-10-11": 243562,
-  "2023-10-12": 243562,
-  "2023-10-13": 243562,
-  "2023-10-14": 243562,
-  "2023-10-15": 243562,
-  "2023-10-16": 243562,
-  "2023-10-17": 243562,
-  "2023-10-18": 243562,
-  "2023-10-19": 243562,
-  "2023-10-20": 243562,
-  "2023-10-21": 243562,
-  "2023-10-22": 243562,
-  "2023-10-23": 243562,
-  "2023-10-24": 243562,
-  "2023-10-25": 243562,
-  "2023-10-26": 243562,
-  "2023-10-27": 243562,
-  "2023-10-28": 243562,
-  "2023-10-29": 243562,
-  "2023-10-30": 243562,
-  "2023-10-31": 243562,
-  "2023-11-01": 243562,
-  "2023-11-02": 243562,
-  "2023-11-03": 243562,
-  "2023-11-04": 243562,
-  "2023-11-05": 243562,
-  "2023-11-06": 243562,
-  "2023-11-07": 243562,
-  "2023-11-08": 243562,
-  "2023-11-09": 243562,
-  "2023-11-10": 243562,
-  "2023-11-11": 246093,
-  "2023-11-12": 246093,
-  "2023-11-13": 246093,
-  "2023-11-14": 246093,
-  "2023-11-15": 246093,
-  "2023-11-16": 246093,
-  "2023-11-17": 246093,
-  "2023-11-18": 246093,
-  "2023-11-19": 246093,
-  "2023-11-20": 246093,
-  "2023-11-21": 246093,
-  "2023-11-22": 246093,
-  "2023-11-23": 246093,
-  "2023-11-24": 246093,
-  "2023-11-25": 246093,
-  "2023-11-26": 246093,
-  "2023-11-27": 246093,
-  "2023-11-28": 246093,
-  "2023-11-29": 246093,
-  "2023-11-30": 246093,
-  "2023-12-01": 246093,
-  "2023-12-02": 246093,
-  "2023-12-03": 246093,
-  "2023-12-04": 246093,
-  "2023-12-05": 246093,
-  "2023-12-06": 246093,
-  "2023-12-07": 246093,
-  "2023-12-08": 246093,
-  "2023-12-09": 246093,
-  "2023-12-10": 246093,
-  "2023-12-11": 246093,
-  "2023-12-12": 246093,
-  "2023-12-13": 246093,
-  "2023-12-14": 248315,
-  "2023-12-15": 248352,
-  "2023-12-16": 248411,
-  "2023-12-17": 248456,
-  "2023-12-18": 248509,
-  "2023-12-19": 248527,
-  "2023-12-20": 248583,
-  "2023-12-21": 248623,
-  "2023-12-22": 248676,
-  "2023-12-23": 248721,
-  "2023-12-24": 248789,
-  "2023-12-25": 248837,
-  "2023-12-26": 248862,
-  "2023-12-27": 248926,
-  "2023-12-30": 249094,
-  "2023-12-31": 249163,
-  "2024-01-01": 249202,
-  "2024-01-02": 249255,
-  "2024-01-03": 249302
+  "2024-01-17": 249826,
+  "date_first_scraped": "2023-07-29",
+  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
+  "name": "This Is Lenny Kravitz",
+  "tracks": [
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/2kGznkv6myGdlNTozvRG67"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242440,
+      "name": "5 More Days 'Til Summer",
+      "url": "https://open.spotify.com/track/6s6wtH2xGE4PIT4NlcRqqE"
+    },
+    {
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233066,
+      "name": "Always On The Run",
+      "url": "https://open.spotify.com/track/3xxBAMUVusDLjLFwwL9qoY"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "Are You Gonna Go My Way",
+      "url": "https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294693,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK"
+    },
+    {
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280973,
+      "name": "Believe In Me",
+      "url": "https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290826,
+      "name": "Black Velveteen",
+      "url": "https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 233249,
+      "name": "Borders (feat. Lenny Kravitz)",
+      "url": "https://open.spotify.com/track/2Fq1WjRulkMGB4O1920yCI"
+    },
+    {
+      "album": {
+        "name": "Ghetto Lenny's Love Songs",
+        "url": "https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF"
+      },
+      "artists": [
+        {
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233249,
+      "name": "Borders [Feat. Lenny Kravitz]",
+      "url": "https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA"
+    },
+    {
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "California",
+      "url": "https://open.spotify.com/track/5VEd2Yb0Mqy1GOuEp7LErd"
+    },
+    {
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312173,
+      "name": "Calling All Angels",
+      "url": "https://open.spotify.com/track/2nxzEMUmIhSJeGBaXgh30x"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Can't Get You Off My Mind",
+      "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288400,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL"
+    },
+    {
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309746,
+      "name": "Dancin' Til Dawn",
+      "url": "https://open.spotify.com/track/3Lc9RexjkRH4ButA7diDoj"
+    },
+    {
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Dig In",
+      "url": "https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293466,
+      "name": "Eleutheria",
+      "url": "https://open.spotify.com/track/7datu36O7lY60kKBOan48U"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "Fields Of Joy",
+      "url": "https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 163760,
+      "name": "Flowers For Zo\u00eb",
+      "url": "https://open.spotify.com/track/0yNaHmWHv5qdasXFlbr9Hs"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191200,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 282400,
+      "name": "Here to Love",
+      "url": "https://open.spotify.com/track/57TMkT1QKgbUKp9qjZA9hU"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282400,
+      "name": "Here to Love",
+      "url": "https://open.spotify.com/track/78RDnXJ0KEIq0qs38pcHql"
+    },
+    {
+      "album": {
+        "name": "I Believe In Love Again",
+        "url": "https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176524,
+      "name": "I Believe In Love Again",
+      "url": "https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+    },
+    {
+      "album": {
+        "name": "It Is Time For A Love Revolution",
+        "url": "https://open.spotify.com/album/5ugsV4BRJytwgevWeJnJAB"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259186,
+      "name": "I'll Be Waiting",
+      "url": "https://open.spotify.com/track/521r1faH9BQlyPVR5pMmXm"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317026,
+      "name": "If You Can't Say No",
+      "url": "https://open.spotify.com/track/5J221XVh7Kxg2bC4IWQ19n"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242640,
+      "name": "It Ain't Over 'Til It's Over",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474853,
+      "name": "It's Enough",
+      "url": "https://open.spotify.com/track/0vQ5L7OZlAqyTupWIIi1IG"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 474853,
+      "name": "It's Enough",
+      "url": "https://open.spotify.com/track/6ONzEVdRtesXdjM9hEah2r"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-11",
+      "duration_ms": 378040,
+      "name": "Johnny Cash",
+      "url": "https://open.spotify.com/track/3OrWg1VRhAjy2n27ixedud"
+    },
+    {
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255573,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/4qM2h3xkzwGJiVv6GgL6w0"
+    },
+    {
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 464733,
+      "name": "Little Girl's Eyes",
+      "url": "https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/6zXOZuDsPTGu4yEKaTXzlH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 318986,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/2E5ufno5JwzZiA96JiHUGN"
+    },
+    {
+      "album": {
+        "name": "Raise Vibration",
+        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318986,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/3zcccQe4KhGXRqRBUwGU3G"
+    },
+    {
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214653,
+      "name": "Minister Of Rock 'N Roll",
+      "url": "https://open.spotify.com/track/0pafggX0BBzTFibjc9VeL7"
+    },
+    {
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Mr. Cab Driver",
+      "url": "https://open.spotify.com/track/29SkFrotMPQH88drC646sy"
+    },
+    {
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382722,
+      "name": "New York City",
+      "url": "https://open.spotify.com/track/7ucAUu2oTX2P0xvcIwVSUg"
+    },
+    {
+      "album": {
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 263013,
+      "name": "Push",
+      "url": "https://open.spotify.com/track/5Rw1pzQikYEVDK4xjUJkq1"
+    },
+    {
+      "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/3P0bUyvkWgzD8IwVobUwZo"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220310,
+      "name": "Ride (Edit)",
+      "url": "https://open.spotify.com/track/1nBZjJhrHIFy1vavFiluy9"
+    },
+    {
+      "album": {
+        "name": "Ride (Edit)",
+        "url": "https://open.spotify.com/album/1N1yANyT1E01JumCbGsfm9"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 220310,
+      "name": "Ride - Edit",
+      "url": "https://open.spotify.com/track/32MB6prxawrLGkw6knhJBb"
+    },
+    {
+      "album": {
+        "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+        "url": "https://open.spotify.com/album/5pUwSUomYfyu78kyRIlfmN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220213,
+      "name": "Road to Freedom (from the Netflix Film \"Rustin\")",
+      "url": "https://open.spotify.com/track/1UavIKO5QdLEW5qMQLBmmk"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203933,
+      "name": "Rock And Roll Is Dead",
+      "url": "https://open.spotify.com/track/1os9lKQD0M56nlIiXbWpE5"
+    },
+    {
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 195744,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/6UNJHji7usBOTG9J3pKRQ3"
+    },
+    {
+      "album": {
+        "name": "Backatown",
+        "url": "https://open.spotify.com/album/5J26uchSALEhy9xwkdeV5a"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221360,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/1ZESGzWrFSwXPplkscUsUR"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260399,
+      "name": "Stand By My Woman",
+      "url": "https://open.spotify.com/track/2KT2tP853wbbERHxfSzmvd"
+    },
+    {
+      "album": {
+        "name": "Lenny",
+        "url": "https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255693,
+      "name": "Stillness Of Heart",
+      "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
+    },
+    {
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159240,
+      "name": "Stop Draggin' Around",
+      "url": "https://open.spotify.com/track/4UeM5va3UhQ5hRsiW8F2Di"
+    },
+    {
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238226,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/4TmBle7wip2pjeScZPJftc"
+    },
+    {
+      "album": {
+        "name": "Superlove",
+        "url": "https://open.spotify.com/album/4e8lXCOdFHi6iYGq9gZh7s"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322514,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/0kXJNqmYdjwb31QLWGkNb7"
+    },
+    {
+      "album": {
+        "name": "Black and White America",
+        "url": "https://open.spotify.com/album/0RJA6msM8USEqe50FRY6b0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208626,
+      "name": "Superlove",
+      "url": "https://open.spotify.com/track/3jzm36w0SW0QD005JxbRUR"
+    },
+    {
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297301,
+      "name": "The Chamber",
+      "url": "https://open.spotify.com/track/3qvFtKlZ9MV0VYUeZ3EC2A"
+    },
+    {
+      "album": {
+        "name": "Strut",
+        "url": "https://open.spotify.com/album/6ksKEEJaGLjotvGEyWaVNH"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308910,
+      "name": "The Pleasure and the Pain",
+      "url": "https://open.spotify.com/track/4Uv7n3pkpNhwhXqb9tnj3L"
+    },
+    {
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384133,
+      "name": "Thinking Of You",
+      "url": "https://open.spotify.com/track/4LU3LpgFCNdi8PE9PgnTZM"
+    },
+    {
+      "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/61cdO9Uj40jzlDGuzrO7Lv"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/1yrk5j7MegvbBqXnsQgw1I"
+    },
+    {
+      "album": {
+        "name": "TK421",
+        "url": "https://open.spotify.com/album/7IncAEknANwQthqiwWySBP"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 195266,
+      "name": "TK421",
+      "url": "https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO"
+    },
+    {
+      "album": {
+        "name": "Circus",
+        "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259026,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/1IuhMns4MRmjIlAdCDE1jR"
+    },
+    {
+      "album": {
+        "name": "Mama Said (Deluxe)",
+        "url": "https://open.spotify.com/album/2in7TjOFOuw5upPjUGB2jh"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289880,
+      "name": "What Goes Around Comes Around - 2012 Remaster/Explicit",
+      "url": "https://open.spotify.com/track/3pyjJrvYubl5klFaLTCLQg"
+    },
+    {
+      "album": {
+        "name": "Baptism",
+        "url": "https://open.spotify.com/album/6LToEXs3jBCKIFgC3AWU5R"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161293,
+      "name": "Where Are We Runnin'?",
+      "url": "https://open.spotify.com/track/4ouIWkFspNZYFO87Gdufxb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU"
 }

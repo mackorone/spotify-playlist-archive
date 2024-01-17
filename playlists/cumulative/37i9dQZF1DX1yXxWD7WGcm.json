@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Viens zouker, vol. 5",
+        "url": "https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM"
+      },
+      "artists": [
+        {
+          "name": "",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2023-03-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld"
+    },
+    {
+      "album": {
         "name": "Mizikasoleil",
         "url": "https://open.spotify.com/album/3gC1be7qMtmhU60jD1mrlH"
       },
@@ -543,8 +561,8 @@
     },
     {
       "album": {
-        "name": "Viens zouker, vol. 5",
-        "url": "https://open.spotify.com/album/4frSY8kCNasO8e5xmlT6WM"
+        "name": "Une histoire de musique : History Groov",
+        "url": "https://open.spotify.com/album/3HyB1RT37OKvsD2glcPuhm"
       },
       "artists": [
         {
@@ -552,12 +570,12 @@
           "url": "https://open.spotify.com/artist/11DvnOgfRFa9QTAnM8VbXo"
         }
       ],
-      "date_added": "2023-03-23",
+      "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 238863,
-      "name": "L\u00e8 ou lov",
-      "url": "https://open.spotify.com/track/3XkvHCG8tMtQLOpIW6vqld"
+      "date_removed": "2024-01-13",
+      "duration_ms": 238699,
+      "name": "L\u00e9 ou lov'",
+      "url": "https://open.spotify.com/track/117YPw9g56mMbnVbP8Z4tw"
     },
     {
       "album": {

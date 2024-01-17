@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-312 songs - 1 day 5 hr 57 min
+315 songs - 1 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 | 2021-11-30 |  |
 | [Greenthumb](https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf) | [Bongzilla](https://open.spotify.com/artist/1qPFzP54oMjiPXpmneoIwF) | [Gateway](https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER) | 4:07 | 2021-11-30 |  |
 | [Half Full Glass Of Wine](https://open.spotify.com/track/1hmK18w3PueSkGcMqlfnOX) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker \(Collector's Edition\)](https://open.spotify.com/album/19KL6IwPJMECn2wosxguq7) | 4:26 | 2021-11-30 | 2022-07-29 |
-| [Half Full Glass Of Wine](https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ) | 4:26 | 2022-04-28 |  |
+| [Half Full Glass Of Wine](https://open.spotify.com/track/4t6vrJg7GcUELCAxHX1z5W) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/78FAAvXmfdj0VKUuUEYeoV) | 4:26 | 2024-01-05 |  |
+| [Half Full Glass Of Wine](https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Tame Impala](https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ) | 4:26 | 2022-04-28 | 2024-01-13 |
 | [Heavy Lies The Crown](https://open.spotify.com/track/5FAO8M86HZX9TFfBMR2isb) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Back From The Abyss](https://open.spotify.com/album/6m0jOMIvEAtNOau0nUnpI3) | 6:18 | 2021-11-30 | 2023-03-23 |
 | [Heavy Low](https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Head Smashed In](https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5) | 4:50 | 2023-06-23 |  |
 | [Heavy Low](https://open.spotify.com/track/3lmUTqT4K2rPjtMgYRMB2P) | [We Hunt Buffalo](https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU) | [Heavy Low](https://open.spotify.com/album/6EZw5taKPaZUeY8IDbKZI0) | 4:50 | 2021-11-30 | 2022-07-29 |
@@ -182,6 +183,7 @@
 | [Messiah](https://open.spotify.com/track/52gU2shOCmGDbLlyHDpBCH) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Holy Shit](https://open.spotify.com/album/7AHwo06htB7Lz6zNGkdy3P) | 4:28 | 2022-01-14 | 2022-01-15 |
 | [Mirrors](https://open.spotify.com/track/1IsXC78RKIQr7AhGEDE9zM) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Mirrors](https://open.spotify.com/album/3ElBCupbHmxzXTpzoz6pwe) | 7:16 | 2021-11-30 | 2022-07-27 |
 | [Mississippi King](https://open.spotify.com/track/0N6c8BDycvkW7clYOIMCuP) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/4hltq2QquwWvTOUtgGdVXQ) | 3:34 | 2021-11-30 | 2022-07-24 |
+| [Mississippi King](https://open.spotify.com/track/2lDpCH1LL5QSX6PXi3E8F2) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/67i7N7vSnXUzF99mzneOAs) | 3:34 | 2023-10-06 |  |
 | [Mississippi King](https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD) | [Five Horse Johnson](https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl) | [The No\. 6 Dance](https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J) | 3:34 | 2022-04-28 | 2023-12-24 |
 | [Moonage Daydream](https://open.spotify.com/track/1TnTeLb4tKiJPP7SfW6gC5) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/43lCqKCk551gSROS2KyYD8) | 5:01 | 2021-11-30 | 2022-07-29 |
 | [Moonage Daydream](https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG) | [Zen Guerrilla](https://open.spotify.com/artist/1DXSOh1Ej7spg9XCFUt3nU) | [Trance States in Tongues](https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa) | 5:01 | 2022-04-28 |  |
@@ -244,7 +246,7 @@
 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-03-22 | 2023-06-11 |
 | [Smokyhead](https://open.spotify.com/track/3AkDOeS0MrVCNZQXQnOGuG) | [Electric Octopus](https://open.spotify.com/artist/4dcZVsGQzFSiXuAHyhw3qT) | [Smokyhead](https://open.spotify.com/album/7M4tIblTBvkcC9JdAUThqf) | 8:45 | 2021-11-30 | 2022-01-31 |
 | [So Come On](https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA) | [The Atomic Bitchwax](https://open.spotify.com/artist/4TnftWQx6fF7k4Nviu7Nn6) | [Boxriff](https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7) | 4:11 | 2021-11-30 |  |
-| [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 | 2021-11-30 |  |
+| [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 | 2021-11-30 | 2024-01-04 |
 | [Some You Win, Some You Lose](https://open.spotify.com/track/4vq8fEjeBE7gczue9Ow95x) | [Orange Goblin](https://open.spotify.com/artist/3nutnJ57QnbWEdCWn2EyWo) | [Thieving From The House Of God](https://open.spotify.com/album/7kkxlSKvTzruDLH928LTTu) | 3:21 | 2022-01-14 | 2022-07-13 |
 | [Song For The Dead](https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 5:52 | 2022-08-25 |  |
 | [Space Cadet](https://open.spotify.com/track/07HF5tFmwh6ahN93JC6LmE) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Welcome to Sky Valley](https://open.spotify.com/album/1npen0QK3TNxZd2hLNzzOj) | 7:02 | 2021-11-30 | 2022-07-29 |
@@ -285,7 +287,7 @@
 | [The Willow](https://open.spotify.com/track/2xL00osDc8ThgyQfNUbBrs) | [Doctor Smoke](https://open.spotify.com/artist/1YvNdmvJOQfwO3tbL38SRV) | [The Witching Hour](https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q) | 3:41 | 2021-11-30 | 2022-02-14 |
 | [The Wizard](https://open.spotify.com/track/3JvMig6Sc8XRLqHseNsccM) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2009 Remastered Version\)](https://open.spotify.com/album/2T6jeELx5BqH4GMLObBy10) | 4:20 | 2021-11-30 | 2022-07-29 |
 | [The Wizard \- 2014 Remaster](https://open.spotify.com/track/6sjTzevtstOxOMsFsypsEm) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Black Sabbath \(2014 Remaster\)](https://open.spotify.com/album/4ZLy3U2q17Yjw7jkjXPJQj) | 4:22 | 2022-04-28 | 2023-03-23 |
-| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 |  |
+| [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 | 2021-11-30 | 2024-01-10 |
 | [Therion](https://open.spotify.com/track/6d6kRYVYXDD5MLE2iJK6i6) | [RODEO](https://open.spotify.com/artist/1g3ajXwXHXa0iGFZCnzSfJ) | [Therion](https://open.spotify.com/album/5ALsc13niDZ7ORzmpPOOL9) | 3:18 | 2022-02-22 | 2022-03-18 |
 | [Time Is Going On](https://open.spotify.com/track/7LSuJosmvkGr3RJ1o3b0yp) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [Fu30, Pt.1](https://open.spotify.com/album/43zW0PaCnakqNHm98btuno) | 3:38 | 2021-11-30 | 2022-07-28 |
 | [Times Missing](https://open.spotify.com/track/60csY2knifHsghAL0qr5kl) | [Torche](https://open.spotify.com/artist/4PxqJghOAEvatt0scJvili) | [Times Missing](https://open.spotify.com/album/2DyQxKCnSNtbQvQqjVA68U) | 5:04 | 2021-11-30 | 2022-02-14 |
@@ -308,6 +310,7 @@
 | [Vakuum](https://open.spotify.com/track/36nwwsQJZbfRFZNCbqn4qH) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Vakuum](https://open.spotify.com/album/7CaOsoRykCfCIiVywFT2w5) | 5:02 | 2021-11-30 | 2022-07-29 |
 | [Vakuum](https://open.spotify.com/track/57nUabDrFFazqfafSr5UzF) | [GAUPA](https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg) | [Feberdröm](https://open.spotify.com/album/0Yqdj3KUlv24X7PIK0RV5w) | 5:02 | 2022-10-14 | 2023-03-23 |
 | [We Strive for Excellence](https://open.spotify.com/track/7Kjxo3ZGH9s2OzvxQIIhQ2) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [We Strive for Excellence](https://open.spotify.com/album/1IntXQlFhAc2KcA2dWuPxG) | 2:55 | 2022-07-22 | 2022-10-20 |
+| [Weavers' Weft](https://open.spotify.com/track/35kaYF2YEK74B0WOISySJc) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Weavers' Weft](https://open.spotify.com/album/6PpjfXaSeP2pYflV2kj6NX) | 9:41 | 2024-01-05 |  |
 | [Weißensee](https://open.spotify.com/track/4oi9uwVORDwDShiauc1Naq) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/0lF4uvIJba3SNIDCwTTLkQ) | 18:33 | 2021-11-30 | 2022-07-29 |
 | [What Needs Must Be](https://open.spotify.com/track/0xy3tLHmsJKEKpAsPsdglm) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/5PQ1YxpW1DyHIRDLQYRlf6) | 4:16 | 2021-11-30 | 2022-07-29 |
 | [What Needs Must Be](https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr) | [Dead Meadow](https://open.spotify.com/artist/0AI2um3PpFgOj7Yzmk2Xu0) | [Old Growth](https://open.spotify.com/album/7LGsgnr6xkCpnNScW4QthT) | 4:16 | 2022-04-28 |  |

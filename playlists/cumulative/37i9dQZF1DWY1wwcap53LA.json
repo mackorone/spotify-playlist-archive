@@ -1953,6 +1953,24 @@
     },
     {
       "album": {
+        "name": "Night In",
+        "url": "https://open.spotify.com/album/5qfu1icLSwAFmYoehJ3kYN"
+      },
+      "artists": [
+        {
+          "name": "Brittney Spencer",
+          "url": "https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207506,
+      "name": "Night In",
+      "url": "https://open.spotify.com/track/3Qt9dcvy6bNpbl6nmiioDd"
+    },
+    {
+      "album": {
         "name": "Night To Go",
         "url": "https://open.spotify.com/album/0NmgdVPj95vVLLxDor1R8T"
       },

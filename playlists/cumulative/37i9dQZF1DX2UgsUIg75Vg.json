@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Arin Ray",
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Destin Conrad",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -1998,7 +1998,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 189098,
       "name": "Breathe (feat. Arin Ray)",
       "url": "https://open.spotify.com/track/5T6MaD8kh2Sj5nUEM4DZXE"
@@ -3914,7 +3914,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 141666,
       "name": "Don't Pretend - Acoustic",
       "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
@@ -8834,7 +8834,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 361175,
       "name": "Lover, You Should\u2019ve Come Over",
       "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
@@ -9304,6 +9304,24 @@
       "duration_ms": 243085,
       "name": "Mean Mug",
       "url": "https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY"
+    },
+    {
+      "album": {
+        "name": "Mean Well",
+        "url": "https://open.spotify.com/album/1e1Iwj8gw8pFe7Ba0PvQiy"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172912,
+      "name": "Mean Well",
+      "url": "https://open.spotify.com/track/2fZjJ78yaF8CbjBRcIC3rY"
     },
     {
       "album": {
@@ -11635,6 +11653,28 @@
     },
     {
       "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207585,
+      "name": "prove it",
+      "url": "https://open.spotify.com/track/5wttBUDyaHAR5q9fYnN3YF"
+    },
+    {
+      "album": {
         "name": "CLEAR 2: SOFT LIFE EP",
         "url": "https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re"
       },
@@ -12264,6 +12304,28 @@
       "duration_ms": 274706,
       "name": "Same Love",
       "url": "https://open.spotify.com/track/4FQg9eezgtA5DVaYcyCyFi"
+    },
+    {
+      "album": {
+        "name": "SAME MISTAKE",
+        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
     },
     {
       "album": {
@@ -16778,6 +16840,24 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+    },
+    {
+      "album": {
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198300,
+      "name": "Young Rich & In Love",
+      "url": "https://open.spotify.com/track/2R6tflIwv19qoYxg5hYLVh"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2UgsUIg75Vg"

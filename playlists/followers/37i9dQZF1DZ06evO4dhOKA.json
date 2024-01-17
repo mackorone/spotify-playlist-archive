@@ -1,577 +1,2063 @@
 {
-  "2022-06-02": 35300,
-  "2022-06-03": 35320,
-  "2022-06-04": 35340,
-  "2022-06-05": 35363,
-  "2022-06-06": 35386,
-  "2022-06-07": 35398,
-  "2022-06-08": 35418,
-  "2022-06-09": 35424,
-  "2022-06-10": 35443,
-  "2022-06-11": 35454,
-  "2022-06-12": 35465,
-  "2022-06-13": 35491,
-  "2022-06-14": 35508,
-  "2022-06-15": 35524,
-  "2022-06-16": 35552,
-  "2022-06-17": 35572,
-  "2022-06-18": 35590,
-  "2022-06-19": 35665,
-  "2022-06-20": 35665,
-  "2022-06-21": 35692,
-  "2022-06-22": 35732,
-  "2022-06-23": 35732,
-  "2022-06-24": 35755,
-  "2022-06-25": 35780,
-  "2022-06-26": 35802,
-  "2022-06-27": 35814,
-  "2022-06-28": 35822,
-  "2022-06-29": 35844,
-  "2022-06-30": 35861,
-  "2022-07-01": 35882,
-  "2022-07-02": 35907,
-  "2022-07-03": 35929,
-  "2022-07-04": 35954,
-  "2022-07-05": 35954,
-  "2022-07-06": 35954,
-  "2022-07-07": 35994,
-  "2022-07-08": 36015,
-  "2022-07-09": 36035,
-  "2022-07-10": 36056,
-  "2022-07-11": 36078,
-  "2022-07-12": 36088,
-  "2022-07-13": 36097,
-  "2022-07-14": 36107,
-  "2022-07-15": 36125,
-  "2022-07-16": 36151,
-  "2022-07-17": 36176,
-  "2022-07-18": 36205,
-  "2022-07-19": 36224,
-  "2022-07-20": 36237,
-  "2022-07-21": 36251,
-  "2022-07-22": 36258,
-  "2022-07-23": 36281,
-  "2022-07-24": 36317,
-  "2022-07-25": 36346,
-  "2022-07-26": 36359,
-  "2022-07-27": 36365,
-  "2022-07-28": 36379,
-  "2022-07-29": 36389,
-  "2022-07-30": 36448,
-  "2022-07-31": 36448,
-  "2022-08-01": 36469,
-  "2022-08-02": 36505,
-  "2022-08-03": 36505,
-  "2022-08-04": 36518,
-  "2022-08-05": 36543,
-  "2022-08-06": 36565,
-  "2022-08-07": 36600,
-  "2022-08-08": 36629,
-  "2022-08-09": 36643,
-  "2022-08-10": 36654,
-  "2022-08-11": 36666,
-  "2022-08-12": 36684,
-  "2022-08-13": 36702,
-  "2022-08-14": 36719,
-  "2022-08-15": 36747,
-  "2022-08-16": 36759,
-  "2022-08-17": 36769,
-  "2022-08-18": 36784,
-  "2022-08-19": 36794,
-  "2022-08-20": 36818,
-  "2022-08-21": 36845,
-  "2022-08-22": 36872,
-  "2022-08-23": 36895,
-  "2022-08-24": 36914,
-  "2022-08-25": 36934,
-  "2022-08-26": 36952,
-  "2022-08-27": 36978,
-  "2022-08-28": 36999,
-  "2022-08-29": 37025,
-  "2022-08-30": 37043,
-  "2022-08-31": 37053,
-  "2022-09-01": 37061,
-  "2022-09-02": 37078,
-  "2022-09-03": 37093,
-  "2022-09-04": 37115,
-  "2022-09-05": 37141,
-  "2022-09-06": 37153,
-  "2022-09-07": 37163,
-  "2022-09-09": 37198,
-  "2022-09-10": 37219,
-  "2022-09-11": 37235,
-  "2022-09-12": 37253,
-  "2022-09-13": 37264,
-  "2022-09-15": 37289,
-  "2022-09-16": 37310,
-  "2022-09-17": 37330,
-  "2022-09-18": 37347,
-  "2022-09-19": 37376,
-  "2022-09-20": 37391,
-  "2022-09-21": 37413,
-  "2022-09-22": 37432,
-  "2022-09-23": 37447,
-  "2022-09-24": 37447,
-  "2022-09-25": 37495,
-  "2022-09-26": 37512,
-  "2022-09-27": 37518,
-  "2022-09-28": 37536,
-  "2022-09-29": 37550,
-  "2022-09-30": 37572,
-  "2022-10-01": 37592,
-  "2022-10-02": 37620,
-  "2022-10-03": 37648,
-  "2022-10-04": 37660,
-  "2022-10-05": 37693,
-  "2022-10-06": 37712,
-  "2022-10-07": 37735,
-  "2022-10-08": 37756,
-  "2022-10-09": 37798,
-  "2022-10-10": 37810,
-  "2022-10-11": 37817,
-  "2022-10-12": 37830,
-  "2022-10-13": 37846,
-  "2022-10-14": 37870,
-  "2022-10-15": 37889,
-  "2022-10-16": 37914,
-  "2022-10-17": 37947,
-  "2022-10-18": 37964,
-  "2022-10-19": 37995,
-  "2022-10-20": 38016,
-  "2022-10-21": 38032,
-  "2022-10-22": 38054,
-  "2022-10-23": 38080,
-  "2022-10-24": 38094,
-  "2022-10-25": 38110,
-  "2022-10-26": 38125,
-  "2022-10-27": 38151,
-  "2022-10-28": 38181,
-  "2022-10-29": 38208,
-  "2022-10-30": 38247,
-  "2022-10-31": 38277,
-  "2022-11-01": 38338,
-  "2022-11-02": 38419,
-  "2022-11-03": 38458,
-  "2022-11-04": 38503,
-  "2022-11-05": 38552,
-  "2022-11-06": 38606,
-  "2022-11-07": 38646,
-  "2022-11-08": 38669,
-  "2022-11-09": 38700,
-  "2022-11-10": 38718,
-  "2022-11-11": 38740,
-  "2022-11-12": 38796,
-  "2022-11-13": 38828,
-  "2022-11-14": 38873,
-  "2022-11-15": 38884,
-  "2022-11-16": 38919,
-  "2022-11-17": 38932,
-  "2022-11-18": 38944,
-  "2022-11-19": 38951,
-  "2022-11-20": 38979,
-  "2022-11-21": 39019,
-  "2022-11-22": 39049,
-  "2022-11-23": 39085,
-  "2022-11-24": 39109,
-  "2022-11-25": 39152,
-  "2022-11-26": 39189,
-  "2022-11-27": 39219,
-  "2022-11-28": 39250,
-  "2022-11-29": 39269,
-  "2022-11-30": 39285,
-  "2022-12-01": 39305,
-  "2022-12-02": 39324,
-  "2022-12-03": 39345,
-  "2022-12-04": 39374,
-  "2022-12-05": 39415,
-  "2022-12-06": 39432,
-  "2022-12-07": 39444,
-  "2022-12-08": 39474,
-  "2022-12-09": 39504,
-  "2022-12-10": 39527,
-  "2022-12-11": 39565,
-  "2022-12-12": 39596,
-  "2022-12-13": 39614,
-  "2022-12-14": 39639,
-  "2022-12-15": 39661,
-  "2022-12-16": 39703,
-  "2022-12-17": 39739,
-  "2022-12-18": 39783,
-  "2022-12-19": 39826,
-  "2022-12-20": 39875,
-  "2022-12-21": 39875,
-  "2022-12-22": 39911,
-  "2022-12-24": 39981,
-  "2022-12-25": 40035,
-  "2022-12-26": 40096,
-  "2022-12-27": 40141,
-  "2022-12-28": 40160,
-  "2022-12-29": 40185,
-  "2022-12-30": 40221,
-  "2022-12-31": 40258,
-  "2023-01-01": 40319,
-  "2023-01-02": 40381,
-  "2023-01-03": 40402,
-  "2023-01-04": 40417,
-  "2023-01-05": 40430,
-  "2023-01-06": 40455,
-  "2023-01-07": 40485,
-  "2023-01-08": 40495,
-  "2023-01-09": 40526,
-  "2023-01-10": 40548,
-  "2023-01-11": 40568,
-  "2023-01-12": 40592,
-  "2023-01-13": 40608,
-  "2023-01-14": 40659,
-  "2023-01-15": 40666,
-  "2023-01-16": 40710,
-  "2023-01-17": 40735,
-  "2023-01-18": 40753,
-  "2023-01-19": 40768,
-  "2023-01-20": 40783,
-  "2023-01-21": 40803,
-  "2023-01-22": 40845,
-  "2023-01-23": 40882,
-  "2023-01-24": 40898,
-  "2023-01-25": 40919,
-  "2023-01-26": 40958,
-  "2023-01-27": 40971,
-  "2023-01-28": 41006,
-  "2023-01-29": 41036,
-  "2023-01-30": 41061,
-  "2023-01-31": 41061,
-  "2023-02-01": 41109,
-  "2023-02-02": 41120,
-  "2023-02-03": 41144,
-  "2023-02-04": 41172,
-  "2023-02-05": 41184,
-  "2023-02-06": 41218,
-  "2023-02-07": 41233,
-  "2023-02-08": 41272,
-  "2023-02-09": 41272,
-  "2023-02-10": 41291,
-  "2023-02-11": 41307,
-  "2023-02-12": 41364,
-  "2023-02-13": 41381,
-  "2023-02-14": 41381,
-  "2023-02-15": 41396,
-  "2023-02-16": 41420,
-  "2023-02-17": 41452,
-  "2023-02-18": 41512,
-  "2023-02-19": 41529,
-  "2023-02-20": 41558,
-  "2023-02-21": 41597,
-  "2023-02-22": 41613,
-  "2023-02-23": 41631,
-  "2023-02-24": 41664,
-  "2023-02-25": 41726,
-  "2023-02-26": 41752,
-  "2023-02-27": 41827,
-  "2023-02-28": 41827,
-  "2023-03-01": 41856,
-  "2023-03-02": 41881,
-  "2023-03-03": 41904,
-  "2023-03-04": 41925,
-  "2023-03-05": 42010,
-  "2023-03-06": 42010,
-  "2023-03-07": 42038,
-  "2023-03-08": 42057,
-  "2023-03-09": 42095,
-  "2023-03-10": 42127,
-  "2023-03-11": 42166,
-  "2023-03-12": 42207,
-  "2023-03-13": 42247,
-  "2023-03-14": 42261,
-  "2023-03-15": 42290,
-  "2023-03-16": 42290,
-  "2023-03-17": 42290,
-  "2023-03-18": 42360,
-  "2023-03-19": 42360,
-  "2023-03-20": 42429,
-  "2023-03-21": 42447,
-  "2023-03-22": 42475,
-  "2023-03-23": 42489,
-  "2023-03-24": 42489,
-  "2023-03-25": 42547,
-  "2023-03-26": 42595,
-  "2023-03-27": 42632,
-  "2023-03-28": 42663,
-  "2023-03-29": 42704,
-  "2023-03-30": 42740,
-  "2023-03-31": 42740,
-  "2023-04-01": 42768,
-  "2023-04-02": 42819,
-  "2023-04-03": 42848,
-  "2023-04-04": 42878,
-  "2023-04-05": 42902,
-  "2023-04-06": 42940,
-  "2023-04-07": 42995,
-  "2023-04-09": 43087,
-  "2023-04-10": 43125,
-  "2023-04-11": 43167,
-  "2023-04-12": 43167,
-  "2023-04-13": 43200,
-  "2023-04-14": 43213,
-  "2023-04-15": 43241,
-  "2023-04-16": 43276,
-  "2023-04-17": 43307,
-  "2023-04-18": 43331,
-  "2023-04-19": 43354,
-  "2023-04-20": 43385,
-  "2023-04-21": 43413,
-  "2023-04-22": 43445,
-  "2023-04-23": 43478,
-  "2023-04-24": 43506,
-  "2023-04-25": 43524,
-  "2023-04-26": 43542,
-  "2023-04-27": 43563,
-  "2023-04-28": 43582,
-  "2023-04-29": 43606,
-  "2023-04-30": 43644,
-  "2023-05-01": 43689,
-  "2023-05-02": 43715,
-  "2023-05-03": 43737,
-  "2023-05-04": 43772,
-  "2023-05-05": 43795,
-  "2023-05-06": 43836,
-  "2023-05-07": 43877,
-  "2023-05-08": 43909,
-  "2023-05-09": 43927,
-  "2023-05-10": 43946,
-  "2023-05-11": 43981,
-  "2023-05-12": 43992,
-  "2023-05-13": 44033,
-  "2023-05-14": 44080,
-  "2023-05-15": 44109,
-  "2023-05-16": 44140,
-  "2023-05-17": 44156,
-  "2023-05-18": 44184,
-  "2023-05-19": 44201,
-  "2023-05-20": 44275,
-  "2023-05-21": 44275,
-  "2023-05-22": 44275,
-  "2023-05-23": 44337,
-  "2023-05-24": 44366,
-  "2023-05-25": 44377,
-  "2023-05-26": 44414,
-  "2023-05-27": 44439,
-  "2023-05-28": 44483,
-  "2023-05-29": 44483,
-  "2023-05-30": 44579,
-  "2023-05-31": 44601,
-  "2023-06-01": 44637,
-  "2023-06-02": 44667,
-  "2023-06-03": 44710,
-  "2023-06-04": 44759,
-  "2023-06-05": 44809,
-  "2023-06-06": 44825,
-  "2023-06-07": 44868,
-  "2023-06-08": 44886,
-  "2023-06-09": 44928,
-  "2023-06-10": 44960,
-  "2023-06-11": 45027,
-  "2023-06-12": 45074,
-  "2023-06-13": 45103,
-  "2023-06-14": 45144,
-  "2023-06-15": 45189,
-  "2023-06-16": 45234,
-  "2023-06-17": 45307,
-  "2023-06-18": 45390,
-  "2023-06-19": 45516,
-  "2023-06-20": 45577,
-  "2023-06-21": 45650,
-  "2023-06-22": 45798,
-  "2023-06-23": 45914,
-  "2023-06-24": 46017,
-  "2023-06-25": 46133,
-  "2023-06-26": 46226,
-  "2023-06-27": 46272,
-  "2023-06-28": 46323,
-  "2023-06-29": 46385,
-  "2023-06-30": 46430,
-  "2023-07-01": 46555,
-  "2023-07-02": 46555,
-  "2023-07-03": 46611,
-  "2023-07-04": 46663,
-  "2023-07-05": 46692,
-  "2023-07-06": 46796,
-  "2023-07-07": 46796,
-  "2023-07-08": 46796,
-  "2023-07-09": 46911,
-  "2023-07-10": 46960,
-  "2023-07-11": 46990,
-  "2023-07-12": 47029,
-  "2023-07-13": 47069,
-  "2023-07-14": 47103,
-  "2023-07-15": 47130,
-  "2023-07-16": 47191,
-  "2023-07-17": 47253,
-  "2023-07-18": 47274,
-  "2023-07-19": 47299,
-  "2023-07-20": 47299,
-  "2023-07-21": 47378,
-  "2023-07-22": 47432,
-  "2023-07-23": 47478,
-  "2023-07-24": 47533,
-  "2023-07-25": 47571,
-  "2023-07-26": 47594,
-  "2023-07-27": 47641,
-  "2023-07-28": 47641,
-  "2023-07-29": 47721,
-  "2023-07-30": 47721,
-  "2023-07-31": 47870,
-  "2023-08-01": 47911,
-  "2023-08-02": 47942,
-  "2023-08-03": 47973,
-  "2023-08-04": 48004,
-  "2023-08-05": 48045,
-  "2023-08-06": 48158,
-  "2023-08-07": 48158,
-  "2023-08-08": 48190,
-  "2023-08-09": 48230,
-  "2023-08-10": 48270,
-  "2023-08-11": 48323,
-  "2023-08-12": 48323,
-  "2023-08-13": 48323,
-  "2023-08-14": 48323,
-  "2023-08-15": 48323,
-  "2023-08-16": 48323,
-  "2023-08-17": 48323,
-  "2023-08-18": 48323,
-  "2023-08-19": 48323,
-  "2023-08-20": 48764,
-  "2023-08-21": 48764,
-  "2023-08-22": 48861,
-  "2023-08-23": 48861,
-  "2023-08-24": 48861,
-  "2023-08-25": 48861,
-  "2023-08-26": 49020,
-  "2023-08-27": 49020,
-  "2023-08-28": 49127,
-  "2023-08-29": 49127,
-  "2023-08-30": 49127,
-  "2023-08-31": 49245,
-  "2023-09-01": 49269,
-  "2023-09-02": 49269,
-  "2023-09-03": 49269,
-  "2023-09-04": 49269,
-  "2023-09-05": 49269,
-  "2023-09-06": 49269,
-  "2023-09-07": 49269,
-  "2023-09-08": 49269,
-  "2023-09-09": 49269,
-  "2023-09-10": 49269,
-  "2023-09-11": 49269,
-  "2023-09-12": 49269,
-  "2023-09-13": 49269,
-  "2023-09-14": 49269,
-  "2023-09-15": 49269,
-  "2023-09-16": 49269,
-  "2023-09-17": 49269,
-  "2023-09-18": 49269,
-  "2023-09-19": 49269,
-  "2023-09-20": 49269,
-  "2023-09-21": 49269,
-  "2023-09-22": 50086,
-  "2023-09-23": 50086,
-  "2023-09-24": 50086,
-  "2023-09-25": 50086,
-  "2023-09-26": 50228,
-  "2023-09-27": 50228,
-  "2023-09-28": 50228,
-  "2023-09-29": 50228,
-  "2023-09-30": 50228,
-  "2023-10-01": 50228,
-  "2023-10-02": 50228,
-  "2023-10-03": 50228,
-  "2023-10-04": 50228,
-  "2023-10-05": 50228,
-  "2023-10-06": 50228,
-  "2023-10-07": 50228,
-  "2023-10-08": 50228,
-  "2023-10-09": 50228,
-  "2023-10-10": 50228,
-  "2023-10-11": 50228,
-  "2023-10-12": 50228,
-  "2023-10-13": 50228,
-  "2023-10-14": 50228,
-  "2023-10-15": 50228,
-  "2023-10-16": 50228,
-  "2023-10-17": 50228,
-  "2023-10-18": 50228,
-  "2023-10-19": 50228,
-  "2023-10-20": 50228,
-  "2023-10-21": 50228,
-  "2023-10-22": 50228,
-  "2023-10-23": 50228,
-  "2023-10-24": 50228,
-  "2023-10-25": 50228,
-  "2023-10-26": 50228,
-  "2023-10-27": 50228,
-  "2023-10-28": 50228,
-  "2023-10-29": 50228,
-  "2023-10-30": 50228,
-  "2023-10-31": 50228,
-  "2023-11-01": 50228,
-  "2023-11-02": 50228,
-  "2023-11-03": 50228,
-  "2023-11-04": 50228,
-  "2023-11-05": 50228,
-  "2023-11-06": 50228,
-  "2023-11-07": 50228,
-  "2023-11-08": 50228,
-  "2023-11-09": 50228,
-  "2023-11-10": 50228,
-  "2023-11-11": 51669,
-  "2023-11-12": 51669,
-  "2023-11-13": 51669,
-  "2023-11-14": 51669,
-  "2023-11-15": 51669,
-  "2023-11-16": 51669,
-  "2023-11-17": 51669,
-  "2023-11-18": 51669,
-  "2023-11-19": 51669,
-  "2023-11-20": 51669,
-  "2023-11-21": 51669,
-  "2023-11-22": 51669,
-  "2023-11-23": 51669,
-  "2023-11-24": 51669,
-  "2023-11-25": 51669,
-  "2023-11-26": 51669,
-  "2023-11-27": 51669,
-  "2023-11-28": 51669,
-  "2023-11-29": 51669,
-  "2023-11-30": 51669,
-  "2023-12-01": 51669,
-  "2023-12-02": 51669,
-  "2023-12-03": 51669,
-  "2023-12-04": 51669,
-  "2023-12-05": 51669,
-  "2023-12-06": 51669,
-  "2023-12-07": 51669,
-  "2023-12-08": 51669,
-  "2023-12-09": 51669,
-  "2023-12-10": 51669,
-  "2023-12-11": 51669,
-  "2023-12-12": 51669,
-  "2023-12-13": 51669,
-  "2023-12-14": 52821,
-  "2023-12-15": 52838,
-  "2023-12-16": 52887,
-  "2023-12-17": 52920,
-  "2023-12-18": 52966,
-  "2023-12-19": 52983,
-  "2023-12-20": 53006,
-  "2023-12-21": 53047,
-  "2023-12-22": 53079,
-  "2023-12-23": 53119,
-  "2023-12-24": 53168,
-  "2023-12-25": 53246,
-  "2023-12-26": 53321,
-  "2023-12-27": 53354,
-  "2023-12-30": 53503,
-  "2023-12-31": 53547,
-  "2024-01-01": 53629,
-  "2024-01-02": 53694,
-  "2024-01-03": 53714
+  "2024-01-17": 53966,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
+  "name": "This Is Lalo Mora",
+  "tracks": [
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/6Hz8Ai2vWn1xSeapeSr8Sm"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129226,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/15wuN0eAzGzwLZk5AD9ptF"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139986,
+      "name": "Amor A La Ligera",
+      "url": "https://open.spotify.com/track/6lWhsgbZr8P2zKkucWWqGH"
+    },
+    {
+      "album": {
+        "name": "Bajo Mil Llaves",
+        "url": "https://open.spotify.com/album/0n7mcqBvdYnnSRhGaRKzSe"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-03-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "Bajo Mil Llaves",
+      "url": "https://open.spotify.com/track/7ym2izAqC0e5dQZolSVCLa"
+    },
+    {
+      "album": {
+        "name": "En Vivo (En Vivo - M\u00e9xico / 2005)",
+        "url": "https://open.spotify.com/album/67GwVrM9tiAcIZ7t1RLM9s"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "Bajo Mil Llaves - En Vivo",
+      "url": "https://open.spotify.com/track/3aE0EZj7qbS5codNP8lYBh"
+    },
+    {
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/2PmneeqjoT03FwVSBeSX16"
+    },
+    {
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "Bonita - Norte\u00f1a Version",
+      "url": "https://open.spotify.com/track/0B6rjFyCQZvxUk58juuk00"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 157826,
+      "name": "Caballo De La Cordada",
+      "url": "https://open.spotify.com/track/7JCKRnM6Sb7wTUeYWlhNT5"
+    },
+    {
+      "album": {
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 217466,
+      "name": "Cari\u00f1o Santo",
+      "url": "https://open.spotify.com/track/6nt93dU2QlPMrVrEWfKKlj"
+    },
+    {
+      "album": {
+        "name": "Una Historia M\u00e1s",
+        "url": "https://open.spotify.com/album/4Bmn8tRWto8DrTaCFfOjSc"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165355,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/3FnIgHwe3tD6LyAlW1CYlz"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162466,
+      "name": "Con el Brazo Derecho",
+      "url": "https://open.spotify.com/track/3mweaIKzhu8UYm6MzKYsu4"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221693,
+      "name": "Corrido De Los P\u00e9rez",
+      "url": "https://open.spotify.com/track/2uIFOZHlMfbFNVh00f2LB3"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178373,
+      "name": "De Nada Sirvi\u00f3",
+      "url": "https://open.spotify.com/track/26utHjizl63E8fLaTYtWf5"
+    },
+    {
+      "album": {
+        "name": "Deep",
+        "url": "https://open.spotify.com/album/3E1CxrVvYxSjqeDfBopHdk"
+      },
+      "artists": [
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-09",
+      "duration_ms": 154114,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5jYzfyCzZcddj4gwqIv85f"
+    },
+    {
+      "album": {
+        "name": "Dicomoz",
+        "url": "https://open.spotify.com/album/3iWsOYQEblNVbc1X0seuT2"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 245697,
+      "name": "Dicomoz",
+      "url": "https://open.spotify.com/track/4LByBaP3YMsvNgba2fJ6JL"
+    },
+    {
+      "album": {
+        "name": "Dicomo",
+        "url": "https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 245697,
+      "name": "Dicomoz",
+      "url": "https://open.spotify.com/track/7ydAQr1HQYaGu3Q8uupaFc"
+    },
+    {
+      "album": {
+        "name": "Lupe Mendoza y Lalo Mora 15 Exitos, vol. 1",
+        "url": "https://open.spotify.com/album/4B6xwGhnwh5pdsh0S58sVj"
+      },
+      "artists": [
+        {
+          "name": "Lupe Mendoza",
+          "url": "https://open.spotify.com/artist/7AV7uwxrICf5QVYXqWow9r"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 130919,
+      "name": "El Asesino",
+      "url": "https://open.spotify.com/track/3JMtn4ZzixtX8buL6jClUW"
+    },
+    {
+      "album": {
+        "name": "12 \u00c9xitos Con Sax al Estilo De: Lalo Mora",
+        "url": "https://open.spotify.com/album/500FKToABrSXqJrrlt0PoS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/4HjxDHRhdqlmoCbnobNHmI"
+    },
+    {
+      "album": {
+        "name": "Ilumina Se\u00f1or A M\u00e9xico",
+        "url": "https://open.spotify.com/album/1xSrVuzjzj8yoSrB4WAH3V"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 223106,
+      "name": "El Corrido De Monterrey",
+      "url": "https://open.spotify.com/track/1CTIs7OmI0qaYjmX1c8DKU"
+    },
+    {
+      "album": {
+        "name": "Las + Tocadas",
+        "url": "https://open.spotify.com/album/0uY9SyTmSDllUsSGgvmMzv"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180860,
+      "name": "El Corrido de Ramiro Quiroz",
+      "url": "https://open.spotify.com/track/0sS3oYCoRy1U0yl8KbbX3W"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 164213,
+      "name": "El Derrotado",
+      "url": "https://open.spotify.com/track/0mb5xqHgzHcpTyptMoxhmq"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196733,
+      "name": "El Hombre Que M\u00e1s Te Am\u00f3",
+      "url": "https://open.spotify.com/track/2yGA0E2SvFEKz17nAjWo1w"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177733,
+      "name": "El Pavido Navido",
+      "url": "https://open.spotify.com/track/1xBF8Vx4S94Pvtbm3l71z7"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "El Rey De Mil Coronas",
+      "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "El \u00c1rbol De La Horca",
+      "url": "https://open.spotify.com/track/2p811QLlje4MuDOqEUCBJs"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 177306,
+      "name": "En Eso No Quedamos",
+      "url": "https://open.spotify.com/track/6hZFTHGFwLWWiaGq73Z3p8"
+    },
+    {
+      "album": {
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194146,
+      "name": "En Mil Pedazos",
+      "url": "https://open.spotify.com/track/7116C8O8cYYI5opbMRDyZu"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Eslab\u00f3n Por Eslab\u00f3n",
+      "url": "https://open.spotify.com/track/1oystWhvsBVxFmDeXiY0Az"
+    },
+    {
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/0VX66bGU3eaYBlNTqFHBGp"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-10",
+      "duration_ms": 98139,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/6h1lY9QMidoG5C3h9d80Mg"
+    },
+    {
+      "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-27",
+      "duration_ms": 95666,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/5RU4aCfWgiDxrTqWLZTlsW"
+    },
+    {
+      "album": {
+        "name": "15 Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/5BCiEiRADjqGcjhVDD8KPt"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163013,
+      "name": "Flor de Dalia",
+      "url": "https://open.spotify.com/track/2uLpC85SooFEEKVbT59OXb"
+    },
+    {
+      "album": {
+        "name": "45 \u00c9xitos (Versiones Originales)",
+        "url": "https://open.spotify.com/album/3hgPZ6SJi38giU4wlYi9nN"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-05-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 174173,
+      "name": "Gorrion Errante",
+      "url": "https://open.spotify.com/track/6GaRuhFZAT492Bmmsf6Mwb"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 174133,
+      "name": "Gorri\u00f3n Errante",
+      "url": "https://open.spotify.com/track/315gGtlPXz4RJX7kZa2FPa"
+    },
+    {
+      "album": {
+        "name": "hill",
+        "url": "https://open.spotify.com/album/4WGjDGdwITVGUyrFcl5tDl"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 171877,
+      "name": "govio",
+      "url": "https://open.spotify.com/track/18hY6S67TUvc5UKpDNiC6J"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 215906,
+      "name": "Herida De Amor",
+      "url": "https://open.spotify.com/track/1bq6FVl1BWHIDC4MkirNyg"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos del Recuerdo, Vol. 2",
+        "url": "https://open.spotify.com/album/5UGuEWfqs1JU8ZnUrpfjsX"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220840,
+      "name": "Hermosisimo Lucero",
+      "url": "https://open.spotify.com/track/3dkgdxG4wDk3UQkVETh7YU"
+    },
+    {
+      "album": {
+        "name": "Invert",
+        "url": "https://open.spotify.com/album/3hTexdhwgTHA61czoJpJW7"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Samuray",
+          "url": "https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8"
+        },
+        {
+          "name": "SOYOU",
+          "url": "https://open.spotify.com/artist/3b4kLCI0ZJW47TFsNRqgCb"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 202409,
+      "name": "Invert",
+      "url": "https://open.spotify.com/track/0pVJDqSsklEzcFklw8X5aL"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "La Carga Ladeada",
+      "url": "https://open.spotify.com/track/1RhGBWA0En6KadlMY0a9rh"
+    },
+    {
+      "album": {
+        "name": "La Casita De Adobe",
+        "url": "https://open.spotify.com/album/6wU7pHjRDZGa4sRVawB1aZ"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191986,
+      "name": "La Casita De Adobe",
+      "url": "https://open.spotify.com/track/2OCEVBnAtKJlwFqnOhPolb"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162360,
+      "name": "La Novia De Mi Hermano AKA No Te Apasiones",
+      "url": "https://open.spotify.com/track/6uHagy7oY3oRrAHu2cJRGe"
+    },
+    {
+      "album": {
+        "name": "Serie Diamante-15 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/3Sz9S8n4MQUoyW4t8MM6JR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-08",
+      "duration_ms": 154893,
+      "name": "La Vieja Banca",
+      "url": "https://open.spotify.com/track/206W3bVhwGOxsEM6ujApk6"
+    },
+    {
+      "album": {
+        "name": "Laulomen",
+        "url": "https://open.spotify.com/album/6P0N1owkrdRD8IDeCmr1uH"
+      },
+      "artists": [
+        {
+          "name": "Ada Band",
+          "url": "https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f"
+        },
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 145247,
+      "name": "Laulomen",
+      "url": "https://open.spotify.com/track/7Eov2dZXJ7BX4SjSXxXEtY"
+    },
+    {
+      "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 143581,
+      "name": "Laulomen",
+      "url": "https://open.spotify.com/track/0Fwlg3YdgjlOuqM1iXA4UE"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186253,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/3R8wD60sNRPZYldMZsCVGk"
+    },
+    {
+      "album": {
+        "name": "Laurita Garza",
+        "url": "https://open.spotify.com/album/4Zm8jaqtwDSDMv1CmoBEHV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Hechizero de Linares",
+          "url": "https://open.spotify.com/artist/1kSQ94RPuHH2wKHqsfbCWB"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 197777,
+      "name": "Laurita Garza",
+      "url": "https://open.spotify.com/track/3k1jiAXoVUOI0Ijxw6Wfnn"
+    },
+    {
+      "album": {
+        "name": "12 Corridos",
+        "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174013,
+      "name": "Leonardo Reyes",
+      "url": "https://open.spotify.com/track/1Xsr3iof8yaviVyTbpp0m6"
+    },
+    {
+      "album": {
+        "name": "Litiznow",
+        "url": "https://open.spotify.com/album/3C1ujqy2xIAQuK2ldQrvcV"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        },
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 93627,
+      "name": "Litiznow",
+      "url": "https://open.spotify.com/track/7iNMJiQmglKRsh0g8tuO8G"
+    },
+    {
+      "album": {
+        "name": "Lo Bera De",
+        "url": "https://open.spotify.com/album/5WQrUtJ7GSrTiBf1E20jDG"
+      },
+      "artists": [
+        {
+          "name": "Ada Band",
+          "url": "https://open.spotify.com/artist/2owBL6a90fnWufVtP70K8f"
+        },
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 151835,
+      "name": "Lo Bera De",
+      "url": "https://open.spotify.com/track/7h029g3cf0asV2FrTFdG1I"
+    },
+    {
+      "album": {
+        "name": "Mil Pedazos",
+        "url": "https://open.spotify.com/album/4IsDmg2ktDjg3JemUKs14H"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 186044,
+      "name": "Lo Callar\u00e9",
+      "url": "https://open.spotify.com/track/4aPwWL3NT874DRWqnsGP41"
+    },
+    {
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/6b51Kuq495lTq1dqXQEzoo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-03",
+      "duration_ms": 204253,
+      "name": "Los Consejos De Mi Padre",
+      "url": "https://open.spotify.com/track/08vi6DInQWDhlG7PcN68Uh"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199706,
+      "name": "Los Sauces Llorones",
+      "url": "https://open.spotify.com/track/1gQKLdg3OAADtn3H0Bu9J1"
+    },
+    {
+      "album": {
+        "name": "LST",
+        "url": "https://open.spotify.com/album/2NiDblmiV1cVK89jmRrpYu"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 182815,
+      "name": "LST",
+      "url": "https://open.spotify.com/track/5JG6WYVJ1tAS9xBB7e0dOK"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199173,
+      "name": "Lucio Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4Jj72fzYOa4fHWAI4VQLCc"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Lupe Rubalcava AKA Corrido De Lupe Rubalcava",
+      "url": "https://open.spotify.com/track/6EDnuILfWDWBXsFrTmDt8L"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-04",
+      "duration_ms": 175200,
+      "name": "Me la Rifo",
+      "url": "https://open.spotify.com/track/3yjiLPEVHaYsPSdfekrm4Q"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193893,
+      "name": "Me Refiero A Ti",
+      "url": "https://open.spotify.com/track/7ImEnjGpUS77pquZ1IeZnH"
+    },
+    {
+      "album": {
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
+    },
+    {
+      "album": {
+        "name": "Ah\u00ed Deje las Llaves, Mami",
+        "url": "https://open.spotify.com/album/13YFq7kLYCAe8Gcp7XRKHR"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171533,
+      "name": "Mi Borrachera",
+      "url": "https://open.spotify.com/track/7hrlStQi4PXKK3aShdLYiD"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154880,
+      "name": "Mi Caballo El Invasor",
+      "url": "https://open.spotify.com/track/6bZ1tCffmw6Vj4JxecOPxB"
+    },
+    {
+      "album": {
+        "name": "Visi\u00f3n 20.20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/3bPCyFWI060W7Z0VEFEFH1"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/7hurP5YckvI4lJaWPUdTHR"
+    },
+    {
+      "album": {
+        "name": "Con Guitarras",
+        "url": "https://open.spotify.com/album/4blQXogvGZUxRz3zbELk71"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 178493,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0Z9CrDJJ78ZcCJIBBcxzu7"
+    },
+    {
+      "album": {
+        "name": "Las Norte\u00f1as Consentidas en la Voz de Lalo Mora",
+        "url": "https://open.spotify.com/album/2OHxP5VMnZyUkuAOWh3haU"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 217533,
+      "name": "Mi Cruz de Dolor",
+      "url": "https://open.spotify.com/track/20E4GJqIyCVjNW9UiCmvoE"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Ama a Su P\u00fablico (En Vivo)",
+        "url": "https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213733,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/4bSkZ266UEFGDDeAjyqu2G"
+    },
+    {
+      "album": {
+        "name": "Mi Reca\u00edda en Los Excesos",
+        "url": "https://open.spotify.com/album/3QtnUcwGuODxUlK9KaUPX9"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183724,
+      "name": "Mi Reca\u00edda en Los Excesos",
+      "url": "https://open.spotify.com/track/5YIwBGjK30d66PwWoMJsXN"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 170053,
+      "name": "Mil Pedazos",
+      "url": "https://open.spotify.com/track/4kRTaSby9ON4sBp9WsP0z6"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 195493,
+      "name": "Muchacha Bonita",
+      "url": "https://open.spotify.com/track/2wJwbI9zDg7Mmm6uUFjW8s"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 131253,
+      "name": "Muriendo Por Ella",
+      "url": "https://open.spotify.com/track/7D63GyavsqDG7i9JzlZDr7"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 173906,
+      "name": "Nadie Como Ella",
+      "url": "https://open.spotify.com/track/5x6ZJ3RkIKCcIFdQtgKq8J"
+    },
+    {
+      "album": {
+        "name": "Naynara II",
+        "url": "https://open.spotify.com/album/6wH1P1qyh8v0gvCYCHIojN"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-18",
+      "duration_ms": 159010,
+      "name": "Naynara II",
+      "url": "https://open.spotify.com/track/6vxjsQZkRuLZPtQGyGiMi4"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Te Amo",
+        "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181893,
+      "name": "Necesito Odiarte",
+      "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 137853,
+      "name": "Necesito Verte",
+      "url": "https://open.spotify.com/track/1VRKxi5SI03hPMZiSs1QSG"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+    },
+    {
+      "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-25",
+      "duration_ms": 159333,
+      "name": "Nineteenz",
+      "url": "https://open.spotify.com/track/76WEWDcFfI8Xgbg655gDNU"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160493,
+      "name": "Ojitos a Mi Gusto",
+      "url": "https://open.spotify.com/track/3RzxBoY4JgYKTQwiGlpctO"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 169573,
+      "name": "Para Ti Mi Amor",
+      "url": "https://open.spotify.com/track/2DgnPsg5oI4jiFLnTvuEBA"
+    },
+    {
+      "album": {
+        "name": "Pcrct",
+        "url": "https://open.spotify.com/album/5n4ScMcE5IpqkskLHGpTpE"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Voltio",
+          "url": "https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 180030,
+      "name": "Pcrct",
+      "url": "https://open.spotify.com/track/2NFxWx1OMaZzpGKYumJRqs"
+    },
+    {
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4GfA6yDRCYTj3qLeRqPbSy"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-04-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "Pero Mar\u00eda",
+      "url": "https://open.spotify.com/track/33qeDpeRoE4uUXCLK5JP7u"
+    },
+    {
+      "album": {
+        "name": "Corridos De Jefes",
+        "url": "https://open.spotify.com/album/661ltDGlqi9spo8kJRNRNV"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 209760,
+      "name": "Perro Viejo",
+      "url": "https://open.spotify.com/track/683mVjXRj66upXCE2s9tgj"
+    },
+    {
+      "album": {
+        "name": "20 Memorias Norte\u00f1as",
+        "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Playa Sola",
+      "url": "https://open.spotify.com/track/1JjaJSRN66vbHsz5J7pKEq"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Monterrey (En Vivo - La Fe Music Hall - Monterrey, NL / 2008)",
+        "url": "https://open.spotify.com/album/6sPFMWkFQiViv07Zpny6pL"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 547333,
+      "name": "Popurri / En Vivo Desde Monterrey - En Vivo - La Fe Music Hall - Monterrey, NL / 2008",
+      "url": "https://open.spotify.com/track/0sPQ3zxRu4JqrPm3fbwL80"
+    },
+    {
+      "album": {
+        "name": "Celebrando 40 Anos Con Los Grandes",
+        "url": "https://open.spotify.com/album/4e7nkQeq9HK90viFoAKJG5"
+      },
+      "artists": [
+        {
+          "name": "Los Baron De Apodaca",
+          "url": "https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-03",
+      "duration_ms": 197360,
+      "name": "Prieta Consentida",
+      "url": "https://open.spotify.com/track/3qitfywmnN1uAaD86mRPJs"
+    },
+    {
+      "album": {
+        "name": "Como en los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155908,
+      "name": "Que la Dejen Ir al Baile Sola",
+      "url": "https://open.spotify.com/track/5QBiktcoDAKR4pK5yRmCRe"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 142440,
+      "name": "Que La Dejen Ir Al Baile Sola",
+      "url": "https://open.spotify.com/track/2Ro00jkaTJPoDsZ4mJBfGv"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n Indeseable",
+        "url": "https://open.spotify.com/album/7bTW9IU0FaKOvcRXSiorZs"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 183493,
+      "name": "Que Me Perdone Dios",
+      "url": "https://open.spotify.com/track/2h8Cd3nuSvm2qTAMeVe5d1"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183973,
+      "name": "Rafael Caro Quintero",
+      "url": "https://open.spotify.com/track/3WbehJeoY3BaaKJFVm2CBH"
+    },
+    {
+      "album": {
+        "name": "20 Corridos Bien Perrones",
+        "url": "https://open.spotify.com/album/1fGux6tD9bRqucPsd1MJGi"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Regalo Caro",
+      "url": "https://open.spotify.com/track/3gpI8YBhKnhngpL7GaE08B"
+    },
+    {
+      "album": {
+        "name": "X Aniversario",
+        "url": "https://open.spotify.com/album/10KZI5H0ZTDzM69n8gYUe9"
+      },
+      "artists": [
+        {
+          "name": "Los Herederos De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196385,
+      "name": "Se Vale Llorar",
+      "url": "https://open.spotify.com/track/18OIUIhJegQ6KiMcekvBLo"
+    },
+    {
+      "album": {
+        "name": "El Amo del Imperio",
+        "url": "https://open.spotify.com/album/3OFg9B4j8an2JZCiM8smjo"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Si Llego a Viejo",
+      "url": "https://open.spotify.com/track/0pLDVyLQdWuQWfNoXGLcb4"
+    },
+    {
+      "album": {
+        "name": "Tambi\u00e9n De Los Ranchos Bajan",
+        "url": "https://open.spotify.com/album/54fEpvwsWS9F4ziKNrjgWj"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148680,
+      "name": "Si Me Vas A Dejar",
+      "url": "https://open.spotify.com/track/2b10msu5ZMtRJTsuNaCjWv"
+    },
+    {
+      "album": {
+        "name": "Somebodyz",
+        "url": "https://open.spotify.com/album/4TyiVN0uGAl3dqhkhQSnA0"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "date_added": "2023-01-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 196042,
+      "name": "Somebodyz",
+      "url": "https://open.spotify.com/track/7yNVL3HRGUSJD2QXjZ4JxP"
+    },
+    {
+      "album": {
+        "name": "Topofthe",
+        "url": "https://open.spotify.com/album/6B5MltaFnxT82cyLKiKyLk"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "MC Rahell",
+          "url": "https://open.spotify.com/artist/3A1pTNTVgpjpO39ORulNs2"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-16",
+      "duration_ms": 101591,
+      "name": "Topofthe",
+      "url": "https://open.spotify.com/track/49JH98Lzv1rSP8gWOLvYGY"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 169826,
+      "name": "Tres Vueltas",
+      "url": "https://open.spotify.com/track/136eFsPOpnzkxzQ9xldnkx"
+    },
+    {
+      "album": {
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161840,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/5viFunfUBvCz96uXWy2wTn"
+    },
+    {
+      "album": {
+        "name": "Lupe Mendoza y Lalo Mora 15 Exitos, vol. 1",
+        "url": "https://open.spotify.com/album/4B6xwGhnwh5pdsh0S58sVj"
+      },
+      "artists": [
+        {
+          "name": "Lupe Mendoza",
+          "url": "https://open.spotify.com/artist/7AV7uwxrICf5QVYXqWow9r"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 153173,
+      "name": "Tu Nuevo Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/7lSaKdIUjUHHIV4IqTi7Tq"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que M\u00e1s Ama a Su P\u00fablico (En Vivo)",
+        "url": "https://open.spotify.com/album/41u7D6sCeN75276OJs8FgM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-09",
+      "duration_ms": 252213,
+      "name": "Valente Quintero - En Vivo",
+      "url": "https://open.spotify.com/track/7uVMBqe030IswozmKmEG1Q"
+    },
+    {
+      "album": {
+        "name": "Vearon Se Lia",
+        "url": "https://open.spotify.com/album/5MUBzyqDOC056on93cpwBW"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 145249,
+      "name": "Vearon Se Lia",
+      "url": "https://open.spotify.com/track/1wy4ZOVpvmW3r8NHM8tV8x"
+    },
+    {
+      "album": {
+        "name": "Dicomo",
+        "url": "https://open.spotify.com/album/7uKXXhGd73QD8tDsztI3h3"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-19",
+      "duration_ms": 145249,
+      "name": "Vearon Se Lia",
+      "url": "https://open.spotify.com/track/2qh4hYDdpebCGhDVjQmuIk"
+    },
+    {
+      "album": {
+        "name": "Vinniys",
+        "url": "https://open.spotify.com/album/72gvgntnNmA2huYnWeOutr"
+      },
+      "artists": [
+        {
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/79uYTRCeQmTpq8eUptucKq"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Industria del Amor",
+          "url": "https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw"
+        }
+      ],
+      "date_added": "2022-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 210000,
+      "name": "Veil",
+      "url": "https://open.spotify.com/track/5WaoGoZ9CFLdbpIqNfFAXz"
+    },
+    {
+      "album": {
+        "name": "Tributo A Valent\u00edn Elizalde",
+        "url": "https://open.spotify.com/album/5HkVnJr6SoQ5Yt0esgPr00"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 183933,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/5Zza5gIVxsMi57nOlTwfgr"
+    },
+    {
+      "album": {
+        "name": "Vete Con \u00c9l",
+        "url": "https://open.spotify.com/album/6z3bp5QfUzrv0UBwZczWrZ"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 187200,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/3wb0nxCJhqLld4338jCLiB"
+    },
+    {
+      "album": {
+        "name": "W.A.R",
+        "url": "https://open.spotify.com/album/0L6syCHWE7I6A34WyGWpU9"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 207980,
+      "name": "W.A.R",
+      "url": "https://open.spotify.com/track/51VVGIHZga7D1iMTRJoeAa"
+    },
+    {
+      "album": {
+        "name": "\u00c9xitos Con Sax, Vol. 2",
+        "url": "https://open.spotify.com/album/3FvDzyXAOh5eCkXFs7LBht"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219120,
+      "name": "Yo Te Amo Mar\u00eda",
+      "url": "https://open.spotify.com/track/0MhXyLHLkVA2PjT7rqhMX8"
+    },
+    {
+      "album": {
+        "name": "Me Porto Bonito",
+        "url": "https://open.spotify.com/album/64cw2BtmoePT5gKlBbswDi"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-20",
+      "duration_ms": 132217,
+      "name": "Z07",
+      "url": "https://open.spotify.com/track/6OxIrIU3dQ0GXNSczy92Dc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dhOKA"
 }

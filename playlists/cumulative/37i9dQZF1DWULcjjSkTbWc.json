@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Call of the Road",
+        "url": "https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr"
+      },
+      "artists": [
+        {
+          "name": "Jenny Don't And The Spurs",
+          "url": "https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "Call of the Road",
+      "url": "https://open.spotify.com/track/3UilSg4uWBaUNBpbYp7uES"
+    },
+    {
+      "album": {
         "name": "By the Way (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
       },
@@ -528,7 +546,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 187493,
       "name": "Dormir So\u00f1ando",
       "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
@@ -1080,7 +1098,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 205026,
       "name": "Las batallas",
       "url": "https://open.spotify.com/track/4HTQcxErjqv1Up3ZOoJ1di"
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 238386,
       "name": "Mientele",
       "url": "https://open.spotify.com/track/2D7i2dmTCqHMlWFa0pz3Kw"

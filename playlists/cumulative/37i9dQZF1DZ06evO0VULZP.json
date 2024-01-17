@@ -758,10 +758,28 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 93840,
       "name": "Jean Is Dead",
       "url": "https://open.spotify.com/track/2kUxi7tRDgprqqJrGE3SDR"
+    },
+    {
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/6IU592n49Rn36fpEmg9LIq"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 70733,
+      "name": "Kabuki Girl",
+      "url": "https://open.spotify.com/track/3lrQFKjwoDladcpdSauYCj"
     },
     {
       "album": {
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 100333,
       "name": "Suburban Home",
       "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"

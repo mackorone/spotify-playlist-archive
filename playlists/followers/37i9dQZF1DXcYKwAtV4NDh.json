@@ -1,727 +1,2381 @@
 {
-  "2022-01-02": 56235,
-  "2022-01-03": 56310,
-  "2022-01-04": 56399,
-  "2022-01-05": 56483,
-  "2022-01-06": 56569,
-  "2022-01-07": 56664,
-  "2022-01-08": 56843,
-  "2022-01-09": 56845,
-  "2022-01-10": 56942,
-  "2022-01-11": 57050,
-  "2022-01-12": 57091,
-  "2022-01-13": 57214,
-  "2022-01-14": 57363,
-  "2022-01-15": 57573,
-  "2022-01-16": 57587,
-  "2022-01-17": 57817,
-  "2022-01-18": 57829,
-  "2022-01-19": 57879,
-  "2022-01-20": 57989,
-  "2022-01-21": 58080,
-  "2022-01-22": 58186,
-  "2022-01-23": 58288,
-  "2022-01-24": 58385,
-  "2022-01-25": 58472,
-  "2022-01-26": 58564,
-  "2022-01-27": 58665,
-  "2022-01-28": 58747,
-  "2022-01-29": 58835,
-  "2022-01-30": 58931,
-  "2022-01-31": 59031,
-  "2022-02-01": 59127,
-  "2022-02-02": 59226,
-  "2022-02-03": 59313,
-  "2022-02-04": 59412,
-  "2022-02-05": 59510,
-  "2022-02-06": 59622,
-  "2022-02-07": 59712,
-  "2022-02-08": 59794,
-  "2022-02-09": 59843,
-  "2022-02-10": 59918,
-  "2022-02-11": 60012,
-  "2022-02-12": 60090,
-  "2022-02-13": 60192,
-  "2022-02-14": 60302,
-  "2022-02-15": 60366,
-  "2022-02-16": 60439,
-  "2022-02-17": 60495,
-  "2022-02-18": 60571,
-  "2022-02-19": 60641,
-  "2022-02-20": 60745,
-  "2022-02-21": 60830,
-  "2022-02-22": 60918,
-  "2022-02-23": 61005,
-  "2022-02-24": 61099,
-  "2022-02-25": 61152,
-  "2022-02-26": 61221,
-  "2022-02-27": 61390,
-  "2022-02-28": 61390,
-  "2022-03-01": 61469,
-  "2022-03-02": 61535,
-  "2022-03-03": 61632,
-  "2022-03-04": 61702,
-  "2022-03-05": 61782,
-  "2022-03-06": 61860,
-  "2022-03-07": 61950,
-  "2022-03-08": 62021,
-  "2022-03-09": 62084,
-  "2022-03-10": 62172,
-  "2022-03-11": 62252,
-  "2022-03-12": 62351,
-  "2022-03-13": 62446,
-  "2022-03-14": 62558,
-  "2022-03-15": 62633,
-  "2022-03-16": 62717,
-  "2022-03-17": 62793,
-  "2022-03-18": 62903,
-  "2022-03-19": 62969,
-  "2022-03-20": 62969,
-  "2022-03-21": 63179,
-  "2022-03-22": 63236,
-  "2022-03-23": 63314,
-  "2022-03-24": 63398,
-  "2022-03-25": 63489,
-  "2022-03-26": 63566,
-  "2022-03-27": 63667,
-  "2022-03-28": 63755,
-  "2022-03-30": 63901,
-  "2022-03-31": 63978,
-  "2022-04-01": 64051,
-  "2022-04-02": 64136,
-  "2022-04-03": 64230,
-  "2022-04-04": 64315,
-  "2022-04-05": 64402,
-  "2022-04-06": 64498,
-  "2022-04-07": 64585,
-  "2022-04-08": 64680,
-  "2022-04-09": 64778,
-  "2022-04-10": 64967,
-  "2022-04-11": 65046,
-  "2022-04-12": 65064,
-  "2022-04-13": 65132,
-  "2022-04-14": 65252,
-  "2022-04-15": 65327,
-  "2022-04-16": 65442,
-  "2022-04-17": 65534,
-  "2022-04-18": 65640,
-  "2022-04-19": 65705,
-  "2022-04-20": 65775,
-  "2022-04-21": 65852,
-  "2022-04-22": 65940,
-  "2022-04-23": 66044,
-  "2022-04-24": 66129,
-  "2022-04-25": 66223,
-  "2022-04-26": 66301,
-  "2022-04-27": 66392,
-  "2022-04-28": 66460,
-  "2022-04-29": 66578,
-  "2022-04-30": 66684,
-  "2022-05-01": 66787,
-  "2022-05-02": 66787,
-  "2022-05-03": 66855,
-  "2022-05-04": 66921,
-  "2022-05-05": 67001,
-  "2022-05-06": 67067,
-  "2022-05-07": 67159,
-  "2022-05-08": 67294,
-  "2022-05-09": 67316,
-  "2022-05-10": 67384,
-  "2022-05-11": 67457,
-  "2022-05-12": 67522,
-  "2022-05-13": 67600,
-  "2022-05-14": 67688,
-  "2022-05-15": 67765,
-  "2022-05-16": 67836,
-  "2022-05-17": 67901,
-  "2022-05-18": 67983,
-  "2022-05-19": 68052,
-  "2022-05-20": 68180,
-  "2022-05-21": 68332,
-  "2022-05-22": 68332,
-  "2022-05-23": 68410,
-  "2022-05-24": 68477,
-  "2022-05-25": 68553,
-  "2022-05-26": 68625,
-  "2022-05-27": 68698,
-  "2022-05-28": 68778,
-  "2022-05-29": 68868,
-  "2022-05-30": 68944,
-  "2022-05-31": 69015,
-  "2022-06-01": 69132,
-  "2022-06-02": 69144,
-  "2022-06-03": 69206,
-  "2022-06-04": 69278,
-  "2022-06-05": 69361,
-  "2022-06-06": 69441,
-  "2022-06-07": 69519,
-  "2022-06-08": 69591,
-  "2022-06-09": 69635,
-  "2022-06-10": 69691,
-  "2022-06-11": 69766,
-  "2022-06-12": 69828,
-  "2022-06-13": 69905,
-  "2022-06-14": 70009,
-  "2022-06-15": 70091,
-  "2022-06-16": 70151,
-  "2022-06-17": 70215,
-  "2022-06-18": 70295,
-  "2022-06-19": 70491,
-  "2022-06-20": 70491,
-  "2022-06-21": 70574,
-  "2022-06-22": 70711,
-  "2022-06-23": 70711,
-  "2022-06-24": 70779,
-  "2022-06-25": 70856,
-  "2022-06-26": 70915,
-  "2022-06-27": 70986,
-  "2022-06-28": 71041,
-  "2022-06-29": 71109,
-  "2022-06-30": 71170,
-  "2022-07-01": 71272,
-  "2022-07-02": 71360,
-  "2022-07-03": 71442,
-  "2022-07-04": 71518,
-  "2022-07-05": 71603,
-  "2022-07-06": 71675,
-  "2022-07-07": 71750,
-  "2022-07-08": 71820,
-  "2022-07-09": 71887,
-  "2022-07-10": 71966,
-  "2022-07-11": 72048,
-  "2022-07-12": 72106,
-  "2022-07-13": 72173,
-  "2022-07-14": 72257,
-  "2022-07-15": 72342,
-  "2022-07-16": 72422,
-  "2022-07-17": 72508,
-  "2022-07-18": 72598,
-  "2022-07-19": 72686,
-  "2022-07-20": 72771,
-  "2022-07-21": 72841,
-  "2022-07-22": 72921,
-  "2022-07-23": 72994,
-  "2022-07-24": 73115,
-  "2022-07-25": 73204,
-  "2022-07-26": 73264,
-  "2022-07-27": 73330,
-  "2022-07-28": 73416,
-  "2022-07-29": 73500,
-  "2022-07-30": 73659,
-  "2022-07-31": 73659,
-  "2022-08-01": 73752,
-  "2022-08-02": 73928,
-  "2022-08-03": 73928,
-  "2022-08-04": 74003,
-  "2022-08-05": 74076,
-  "2022-08-06": 74142,
-  "2022-08-07": 74250,
-  "2022-08-08": 74343,
-  "2022-08-09": 74415,
-  "2022-08-10": 74506,
-  "2022-08-11": 74583,
-  "2022-08-12": 74661,
-  "2022-08-13": 74732,
-  "2022-08-14": 74827,
-  "2022-08-15": 74921,
-  "2022-08-16": 75011,
-  "2022-08-17": 75084,
-  "2022-08-18": 75152,
-  "2022-08-19": 75227,
-  "2022-08-20": 75305,
-  "2022-08-21": 75395,
-  "2022-08-22": 75482,
-  "2022-08-23": 75540,
-  "2022-08-24": 75615,
-  "2022-08-25": 75688,
-  "2022-08-26": 75745,
-  "2022-08-27": 75835,
-  "2022-08-28": 75923,
-  "2022-08-29": 76001,
-  "2022-08-30": 76053,
-  "2022-08-31": 76107,
-  "2022-09-01": 76151,
-  "2022-09-02": 76207,
-  "2022-09-03": 76231,
-  "2022-09-04": 76291,
-  "2022-09-05": 76374,
-  "2022-09-06": 76434,
-  "2022-09-07": 76497,
-  "2022-09-09": 76626,
-  "2022-09-10": 76674,
-  "2022-09-11": 76753,
-  "2022-09-12": 76821,
-  "2022-09-13": 76882,
-  "2022-09-15": 76991,
-  "2022-09-16": 77044,
-  "2022-09-17": 77107,
-  "2022-09-18": 77196,
-  "2022-09-19": 77276,
-  "2022-09-20": 77311,
-  "2022-09-21": 77369,
-  "2022-09-22": 77434,
-  "2022-09-23": 77489,
-  "2022-09-24": 77537,
-  "2022-09-25": 77619,
-  "2022-09-26": 77684,
-  "2022-09-27": 77761,
-  "2022-09-28": 77824,
-  "2022-09-29": 77891,
-  "2022-09-30": 77957,
-  "2022-10-01": 78040,
-  "2022-10-02": 78140,
-  "2022-10-03": 78221,
-  "2022-10-04": 78296,
-  "2022-10-05": 78414,
-  "2022-10-06": 78534,
-  "2022-10-07": 78623,
-  "2022-10-08": 78710,
-  "2022-10-09": 78863,
-  "2022-10-10": 78877,
-  "2022-10-11": 78963,
-  "2022-10-12": 79037,
-  "2022-10-13": 79108,
-  "2022-10-14": 79187,
-  "2022-10-15": 79262,
-  "2022-10-16": 79327,
-  "2022-10-17": 79408,
-  "2022-10-18": 79489,
-  "2022-10-19": 79557,
-  "2022-10-20": 79637,
-  "2022-10-21": 79718,
-  "2022-10-22": 79790,
-  "2022-10-23": 79852,
-  "2022-10-24": 79910,
-  "2022-10-25": 79989,
-  "2022-10-26": 80065,
-  "2022-10-27": 80149,
-  "2022-10-28": 80220,
-  "2022-10-29": 80311,
-  "2022-10-30": 80398,
-  "2022-10-31": 80480,
-  "2022-11-01": 80570,
-  "2022-11-02": 80635,
-  "2022-11-03": 80691,
-  "2022-11-04": 80777,
-  "2022-11-05": 80871,
-  "2022-11-06": 80975,
-  "2022-11-07": 81080,
-  "2022-11-08": 81161,
-  "2022-11-09": 81252,
-  "2022-11-10": 81347,
-  "2022-11-11": 81418,
-  "2022-11-12": 81513,
-  "2022-11-13": 81613,
-  "2022-11-14": 81712,
-  "2022-11-15": 81777,
-  "2022-11-16": 81840,
-  "2022-11-17": 81909,
-  "2022-11-18": 81921,
-  "2022-11-19": 81949,
-  "2022-11-20": 82022,
-  "2022-11-21": 82101,
-  "2022-11-22": 82189,
-  "2022-11-23": 82256,
-  "2022-11-24": 82401,
-  "2022-11-25": 82530,
-  "2022-11-26": 82610,
-  "2022-11-27": 82709,
-  "2022-11-28": 82816,
-  "2022-11-29": 82890,
-  "2022-11-30": 82973,
-  "2022-12-01": 83071,
-  "2022-12-02": 83137,
-  "2022-12-03": 83244,
-  "2022-12-04": 83316,
-  "2022-12-05": 83389,
-  "2022-12-06": 83460,
-  "2022-12-07": 83546,
-  "2022-12-08": 83609,
-  "2022-12-09": 83681,
-  "2022-12-10": 83748,
-  "2022-12-11": 83835,
-  "2022-12-12": 83919,
-  "2022-12-13": 83971,
-  "2022-12-14": 84021,
-  "2022-12-15": 84094,
-  "2022-12-16": 84165,
-  "2022-12-17": 84229,
-  "2022-12-18": 84312,
-  "2022-12-19": 84389,
-  "2022-12-20": 84513,
-  "2022-12-21": 84513,
-  "2022-12-22": 84601,
-  "2022-12-24": 84753,
-  "2022-12-25": 84813,
-  "2022-12-26": 84885,
-  "2022-12-27": 84954,
-  "2022-12-28": 85036,
-  "2022-12-29": 85132,
-  "2022-12-30": 85218,
-  "2022-12-31": 85331,
-  "2023-01-01": 85437,
-  "2023-01-02": 85522,
-  "2023-01-03": 85601,
-  "2023-01-04": 85681,
-  "2023-01-05": 85748,
-  "2023-01-06": 85857,
-  "2023-01-07": 85990,
-  "2023-01-08": 86021,
-  "2023-01-09": 86134,
-  "2023-01-10": 86224,
-  "2023-01-11": 86315,
-  "2023-01-12": 86398,
-  "2023-01-13": 86494,
-  "2023-01-14": 86698,
-  "2023-01-15": 86733,
-  "2023-01-16": 86860,
-  "2023-01-17": 86994,
-  "2023-01-18": 87120,
-  "2023-01-19": 87255,
-  "2023-01-20": 87378,
-  "2023-01-21": 87503,
-  "2023-01-22": 87609,
-  "2023-01-23": 87739,
-  "2023-01-24": 87828,
-  "2023-01-25": 87935,
-  "2023-01-26": 88025,
-  "2023-01-27": 88148,
-  "2023-01-28": 88301,
-  "2023-01-29": 88433,
-  "2023-01-30": 88560,
-  "2023-01-31": 88560,
-  "2023-02-01": 88820,
-  "2023-02-02": 88965,
-  "2023-02-03": 89093,
-  "2023-02-04": 89228,
-  "2023-02-05": 89366,
-  "2023-02-06": 89485,
-  "2023-02-07": 89605,
-  "2023-02-08": 89843,
-  "2023-02-09": 89843,
-  "2023-02-10": 89963,
-  "2023-02-11": 90076,
-  "2023-02-12": 90323,
-  "2023-02-13": 90443,
-  "2023-02-14": 90443,
-  "2023-02-15": 90538,
-  "2023-02-16": 90647,
-  "2023-02-17": 90761,
-  "2023-02-18": 90959,
-  "2023-02-19": 90987,
-  "2023-02-20": 91074,
-  "2023-02-21": 91166,
-  "2023-02-22": 91264,
-  "2023-02-23": 91348,
-  "2023-02-24": 91461,
-  "2023-02-25": 91619,
-  "2023-02-26": 91719,
-  "2023-02-27": 91929,
-  "2023-02-28": 91929,
-  "2023-03-01": 92020,
-  "2023-03-02": 92104,
-  "2023-03-03": 92217,
-  "2023-03-04": 92293,
-  "2023-03-05": 92511,
-  "2023-03-06": 92511,
-  "2023-03-07": 92582,
-  "2023-03-08": 92672,
-  "2023-03-09": 92768,
-  "2023-03-10": 92889,
-  "2023-03-11": 92994,
-  "2023-03-12": 93106,
-  "2023-03-13": 93228,
-  "2023-03-14": 93334,
-  "2023-03-15": 93426,
-  "2023-03-16": 93519,
-  "2023-03-17": 93519,
-  "2023-03-18": 93690,
-  "2023-03-19": 93791,
-  "2023-03-20": 93883,
-  "2023-03-21": 93959,
-  "2023-03-22": 94044,
-  "2023-03-23": 94144,
-  "2023-03-24": 94144,
-  "2023-03-25": 94334,
-  "2023-03-26": 94462,
-  "2023-03-27": 94589,
-  "2023-03-28": 94675,
-  "2023-03-29": 94796,
-  "2023-03-30": 94917,
-  "2023-03-31": 94917,
-  "2023-04-01": 94990,
-  "2023-04-02": 95078,
-  "2023-04-03": 95159,
-  "2023-04-04": 95225,
-  "2023-04-05": 95303,
-  "2023-04-06": 95385,
-  "2023-04-07": 95474,
-  "2023-04-09": 95673,
-  "2023-04-10": 95779,
-  "2023-04-11": 96012,
-  "2023-04-12": 96012,
-  "2023-04-13": 96110,
-  "2023-04-14": 96210,
-  "2023-04-15": 96289,
-  "2023-04-16": 96389,
-  "2023-04-17": 96512,
-  "2023-04-18": 96607,
-  "2023-04-19": 96774,
-  "2023-04-20": 96880,
-  "2023-04-21": 96990,
-  "2023-04-22": 97107,
-  "2023-04-23": 97206,
-  "2023-04-24": 97303,
-  "2023-04-25": 97389,
-  "2023-04-26": 97521,
-  "2023-04-27": 97641,
-  "2023-04-28": 97731,
-  "2023-04-29": 97843,
-  "2023-04-30": 97952,
-  "2023-05-01": 98063,
-  "2023-05-02": 98151,
-  "2023-05-03": 98260,
-  "2023-05-04": 98386,
-  "2023-05-05": 98455,
-  "2023-05-06": 98558,
-  "2023-05-07": 98644,
-  "2023-05-08": 98732,
-  "2023-05-09": 98803,
-  "2023-05-10": 98885,
-  "2023-05-11": 98982,
-  "2023-05-12": 99092,
-  "2023-05-13": 99175,
-  "2023-05-14": 99288,
-  "2023-05-15": 99380,
-  "2023-05-16": 99470,
-  "2023-05-17": 99552,
-  "2023-05-18": 99667,
-  "2023-05-19": 99777,
-  "2023-05-20": 100030,
-  "2023-05-21": 100030,
-  "2023-05-22": 100030,
-  "2023-05-23": 100270,
-  "2023-05-24": 100469,
-  "2023-05-25": 100490,
-  "2023-05-26": 100612,
-  "2023-05-27": 100719,
-  "2023-05-28": 100822,
-  "2023-05-29": 100822,
-  "2023-05-30": 101015,
-  "2023-05-31": 101102,
-  "2023-06-01": 101186,
-  "2023-06-02": 101263,
-  "2023-06-03": 101336,
-  "2023-06-04": 101433,
-  "2023-06-05": 101522,
-  "2023-06-06": 101617,
-  "2023-06-07": 101700,
-  "2023-06-08": 101792,
-  "2023-06-09": 101883,
-  "2023-06-10": 101982,
-  "2023-06-11": 102086,
-  "2023-06-12": 102188,
-  "2023-06-13": 102293,
-  "2023-06-14": 102376,
-  "2023-06-15": 102481,
-  "2023-06-16": 102583,
-  "2023-06-17": 102677,
-  "2023-06-18": 102788,
-  "2023-06-19": 102907,
-  "2023-06-20": 103020,
-  "2023-06-21": 103099,
-  "2023-06-22": 103197,
-  "2023-06-23": 103283,
-  "2023-06-24": 103377,
-  "2023-06-25": 103468,
-  "2023-06-26": 103553,
-  "2023-06-27": 103639,
-  "2023-06-28": 103722,
-  "2023-06-29": 103816,
-  "2023-06-30": 103908,
-  "2023-07-01": 104090,
-  "2023-07-02": 104090,
-  "2023-07-03": 104183,
-  "2023-07-04": 104266,
-  "2023-07-05": 104373,
-  "2023-07-06": 104550,
-  "2023-07-07": 104550,
-  "2023-07-08": 104649,
-  "2023-07-09": 104750,
-  "2023-07-10": 104862,
-  "2023-07-11": 104969,
-  "2023-07-12": 105060,
-  "2023-07-13": 105162,
-  "2023-07-14": 105263,
-  "2023-07-15": 105351,
-  "2023-07-16": 105467,
-  "2023-07-17": 105569,
-  "2023-07-18": 105648,
-  "2023-07-19": 105747,
-  "2023-07-20": 105839,
-  "2023-07-21": 105927,
-  "2023-07-22": 106029,
-  "2023-07-23": 106126,
-  "2023-07-24": 106222,
-  "2023-07-25": 106323,
-  "2023-07-26": 106434,
-  "2023-07-27": 106535,
-  "2023-07-28": 106618,
-  "2023-07-29": 106741,
-  "2023-07-30": 106834,
-  "2023-07-31": 106928,
-  "2023-08-01": 106998,
-  "2023-08-02": 107102,
-  "2023-08-03": 107191,
-  "2023-08-04": 107291,
-  "2023-08-05": 107372,
-  "2023-08-06": 107609,
-  "2023-08-07": 107609,
-  "2023-08-08": 107696,
-  "2023-08-09": 107785,
-  "2023-08-10": 107877,
-  "2023-08-11": 107962,
-  "2023-08-12": 108042,
-  "2023-08-13": 108138,
-  "2023-08-14": 108260,
-  "2023-08-15": 108467,
-  "2023-08-16": 108467,
-  "2023-08-17": 108545,
-  "2023-08-18": 108661,
-  "2023-08-19": 108746,
-  "2023-08-20": 108858,
-  "2023-08-21": 108943,
-  "2023-08-22": 109029,
-  "2023-08-23": 109101,
-  "2023-08-24": 109184,
-  "2023-08-25": 109280,
-  "2023-08-26": 109378,
-  "2023-08-27": 109475,
-  "2023-08-28": 109572,
-  "2023-08-29": 109666,
-  "2023-08-30": 109732,
-  "2023-08-31": 109786,
-  "2023-09-01": 109937,
-  "2023-09-02": 109937,
-  "2023-09-03": 110000,
-  "2023-09-04": 110107,
-  "2023-09-05": 110189,
-  "2023-09-06": 110280,
-  "2023-09-07": 110348,
-  "2023-09-08": 110412,
-  "2023-09-09": 110516,
-  "2023-09-10": 110601,
-  "2023-09-11": 110665,
-  "2023-09-12": 110759,
-  "2023-09-13": 110885,
-  "2023-09-14": 110885,
-  "2023-09-15": 111048,
-  "2023-09-16": 111132,
-  "2023-09-17": 111132,
-  "2023-09-18": 111283,
-  "2023-09-19": 111379,
-  "2023-09-20": 111430,
-  "2023-09-21": 111513,
-  "2023-09-22": 111594,
-  "2023-09-23": 111666,
-  "2023-09-24": 111666,
-  "2023-09-25": 111666,
-  "2023-09-26": 111903,
-  "2023-09-27": 111968,
-  "2023-09-28": 112050,
-  "2023-09-29": 112116,
-  "2023-09-30": 112116,
-  "2023-10-01": 112269,
-  "2023-10-02": 112344,
-  "2023-10-03": 112384,
-  "2023-10-04": 112461,
-  "2023-10-05": 112526,
-  "2023-10-06": 112602,
-  "2023-10-07": 112679,
-  "2023-10-08": 112762,
-  "2023-10-09": 112762,
-  "2023-10-10": 112917,
-  "2023-10-11": 113002,
-  "2023-10-12": 113002,
-  "2023-10-13": 113163,
-  "2023-10-14": 113163,
-  "2023-10-15": 113163,
-  "2023-10-16": 113163,
-  "2023-10-17": 113163,
-  "2023-10-18": 113163,
-  "2023-10-19": 113163,
-  "2023-10-20": 113163,
-  "2023-10-21": 113163,
-  "2023-10-22": 113163,
-  "2023-10-23": 113163,
-  "2023-10-24": 114094,
-  "2023-10-25": 114094,
-  "2023-10-26": 114094,
-  "2023-10-27": 114094,
-  "2023-10-28": 114094,
-  "2023-10-29": 114094,
-  "2023-10-30": 114094,
-  "2023-10-31": 114094,
-  "2023-11-01": 114094,
-  "2023-11-02": 114094,
-  "2023-11-03": 114094,
-  "2023-11-04": 114094,
-  "2023-11-05": 114094,
-  "2023-11-06": 114094,
-  "2023-11-07": 114094,
-  "2023-11-08": 114094,
-  "2023-11-09": 114094,
-  "2023-11-10": 114094,
-  "2023-11-11": 115525,
-  "2023-11-12": 115525,
-  "2023-11-13": 115525,
-  "2023-11-14": 115525,
-  "2023-11-15": 115525,
-  "2023-11-16": 115525,
-  "2023-11-17": 115990,
-  "2023-11-18": 115990,
-  "2023-11-19": 115990,
-  "2023-11-20": 115990,
-  "2023-11-21": 115990,
-  "2023-11-22": 115990,
-  "2023-11-23": 116314,
-  "2023-11-24": 116314,
-  "2023-11-25": 116314,
-  "2023-11-26": 116314,
-  "2023-11-27": 116314,
-  "2023-11-28": 116314,
-  "2023-11-29": 116314,
-  "2023-11-30": 116314,
-  "2023-12-01": 116314,
-  "2023-12-02": 116314,
-  "2023-12-03": 116314,
-  "2023-12-04": 116314,
-  "2023-12-05": 116314,
-  "2023-12-06": 116314,
-  "2023-12-07": 116314,
-  "2023-12-08": 116314,
-  "2023-12-09": 117535,
-  "2023-12-10": 117535,
-  "2023-12-11": 117744,
-  "2023-12-12": 117744,
-  "2023-12-13": 117744,
-  "2023-12-14": 118056,
-  "2023-12-15": 118117,
-  "2023-12-16": 118213,
-  "2023-12-17": 118305,
-  "2023-12-18": 118411,
-  "2023-12-19": 118492,
-  "2023-12-20": 118585,
-  "2023-12-21": 118662,
-  "2023-12-22": 118737,
-  "2023-12-23": 118832,
-  "2023-12-24": 118941,
-  "2023-12-25": 119043,
-  "2023-12-26": 119119,
-  "2023-12-27": 119204,
-  "2023-12-30": 119502,
-  "2023-12-31": 119617,
-  "2024-01-01": 119716,
-  "2024-01-02": 119823,
-  "2024-01-03": 119946
+  "2024-01-17": 121391,
+  "date_first_scraped": "2022-01-02",
+  "description": "A deep and concise look at the music that made Country Music what is is today. Covers eras \n1930's - 1990.",
+  "name": "History of Country Music",
+  "tracks": [
+    {
+      "album": {
+        "name": "500 Miles Away From Home",
+        "url": "https://open.spotify.com/album/06zl9w7hWWtjxFt76bMZEE"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162560,
+      "name": "500 Miles Away from Home",
+      "url": "https://open.spotify.com/track/44AauRai27QWKEx4dKn0oU"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143306,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/762yvPz59OMgb7gGLws6Vi"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/6c31q0EiGPqzNVDKfQzyzt"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 143693,
+      "name": "Act Naturally",
+      "url": "https://open.spotify.com/track/3JWEMzwpcWCvu4Qw1BIbYi"
+    },
+    {
+      "album": {
+        "name": "Strait From The Heart",
+        "url": "https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t"
+      },
+      "artists": [
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173466,
+      "name": "Amarillo By Morning",
+      "url": "https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi"
+    },
+    {
+      "album": {
+        "name": "Dreaming My Dreams",
+        "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "Are You Sure Hank Done It This Way",
+      "url": "https://open.spotify.com/track/5Z0Khiz8xgC8AYMr4ctS8Y"
+    },
+    {
+      "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155560,
+      "name": "Back In The Saddle Again",
+      "url": "https://open.spotify.com/track/4eePcTiLO6o5W4ejSQ7uSn"
+    },
+    {
+      "album": {
+        "name": "Mountain Ballads and Old-Time Songs",
+        "url": "https://open.spotify.com/album/7iMSYXcwED1lOMEoNnLzi1"
+      },
+      "artists": [
+        {
+          "name": "Bradley Kincaid",
+          "url": "https://open.spotify.com/artist/1vwJ8b0MaJHt3g6RIsZUkZ"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205880,
+      "name": "Barbara Allen",
+      "url": "https://open.spotify.com/track/4Ip5zk0Ggg9c7t9K9MjVQC"
+    },
+    {
+      "album": {
+        "name": "Mountain Ballads and Old-Time Songs",
+        "url": "https://open.spotify.com/album/2B5KwIYnFejB10SYYikVFI"
+      },
+      "artists": [
+        {
+          "name": "Bradley Kincaid",
+          "url": "https://open.spotify.com/artist/1vwJ8b0MaJHt3g6RIsZUkZ"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205880,
+      "name": "Barbara Allen",
+      "url": "https://open.spotify.com/track/7IKviaNxgzeaTe5L4xABaS"
+    },
+    {
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/6TXhBKNTITmOTWCbHaQKIG"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Blue Yodel (T for Texas)",
+      "url": "https://open.spotify.com/track/2pzpApfqE2LaXW5StD1FUA"
+    },
+    {
+      "album": {
+        "name": "Essential Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/2b63DXyYt94LH9iKBvlMCO"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204186,
+      "name": "Blue Yodel (T for Texas)",
+      "url": "https://open.spotify.com/track/7xTEHj4Qn4Z4qeOKTphV4R"
+    },
+    {
+      "album": {
+        "name": "Blue Yodel",
+        "url": "https://open.spotify.com/album/7eTvW6NveYIh0YLJoHX56k"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206733,
+      "name": "Blue Yodel (T For Texas)",
+      "url": "https://open.spotify.com/track/5lfSe4rCb3p6d4Yl2v8Wy1"
+    },
+    {
+      "album": {
+        "name": "The Blues Vol 2",
+        "url": "https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Blue Yodel Number 8",
+      "url": "https://open.spotify.com/track/2JD8UrewYKCTG9ZZo8Eu16"
+    },
+    {
+      "album": {
+        "name": "The Blues Vol 2",
+        "url": "https://open.spotify.com/album/3jhJslfOxzjjWK2AgrEdUV"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Blue Yodel Number 9",
+      "url": "https://open.spotify.com/track/0whofgM5TzipCssf2Uw0Ci"
+    },
+    {
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Bluebird Wine - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6GjOc3ZlVOzkHJJUzar2rl"
+    },
+    {
+      "album": {
+        "name": "Pieces of the Sky (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY"
+    },
+    {
+      "album": {
+        "name": "Complete Original #1 Hits",
+        "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152733,
+      "name": "Bouquet of Roses",
+      "url": "https://open.spotify.com/track/2iM66C4ttfO2kMc2eLYzHq"
+    },
+    {
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/6oRHRkQigTzJ3KwpO3XOV6"
+    },
+    {
+      "album": {
+        "name": "Cattle Call",
+        "url": "https://open.spotify.com/album/09UrE9hx9O7E0rvFE0KF9r"
+      },
+      "artists": [
+        {
+          "name": "Eddy Arnold",
+          "url": "https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "Cattle Call",
+      "url": "https://open.spotify.com/track/0rBoz4CbJGRIRgMyCXbPur"
+    },
+    {
+      "album": {
+        "name": "Honky Tonk Girl: The Loretta Lynn Collection",
+        "url": "https://open.spotify.com/album/6KSIeegoDEnb4PxvKUwYDb"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182640,
+      "name": "Coal Miner's Daughter",
+      "url": "https://open.spotify.com/track/30m1G9YyiwQzFG7QvAZzHE"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Uncle Dave Macon",
+          "url": "https://open.spotify.com/artist/5Aa1aFuL2vUePqwhMFnxO0"
+        },
+        {
+          "name": "Sam McGee",
+          "url": "https://open.spotify.com/artist/6wVVmu3MgTVHlrTe69ChzB"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187226,
+      "name": "Comin' Round the Mountain",
+      "url": "https://open.spotify.com/track/3nMmHC2qYTqWwi5JWo9UvN"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164573,
+      "name": "Crazy - Single Version",
+      "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152906,
+      "name": "Crazy Arms",
+      "url": "https://open.spotify.com/track/2cwGK6ZYfiZ1EZva2VEKSN"
+    },
+    {
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/0B4wezbhEPFRVb4feiNBeM"
+      },
+      "artists": [
+        {
+          "name": "Roger Miller",
+          "url": "https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109066,
+      "name": "Dang Me",
+      "url": "https://open.spotify.com/track/5cqRxB6DnYFDWENV6dE09g"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/27mfw2zyN5OY8RzlKD5C6v"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169933,
+      "name": "Detroit City",
+      "url": "https://open.spotify.com/track/7eNM9suHz80f4fbC8aobod"
+    },
+    {
+      "album": {
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+      },
+      "artists": [
+        {
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178973,
+      "name": "Diggin' Up Bones",
+      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+    },
+    {
+      "album": {
+        "name": "Don't Come Home A Drinkin' (With Lovin' On Your Mind)",
+        "url": "https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126920,
+      "name": "Don't Come Home A-Drinkin' (With Lovin' On Your Mind)",
+      "url": "https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o"
+    },
+    {
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Don't Get Above Your Raising",
+      "url": "https://open.spotify.com/track/0JJvBs9RAGruW92RzzAsDX"
+    },
+    {
+      "album": {
+        "name": "The Seely Style",
+        "url": "https://open.spotify.com/album/5dx7Vs0d283fuSeaYpvSsw"
+      },
+      "artists": [
+        {
+          "name": "Jeannie Seely",
+          "url": "https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Don't Touch Me",
+      "url": "https://open.spotify.com/track/1Y2G8nl3CGR3qMPDDBuDhb"
+    },
+    {
+      "album": {
+        "name": "Untasted Honey",
+        "url": "https://open.spotify.com/album/1K1PfB1GQe1lQcgxjEz8T5"
+      },
+      "artists": [
+        {
+          "name": "Kathy Mattea",
+          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203400,
+      "name": "Eighteen Wheels And A Dozen Roses",
+      "url": "https://open.spotify.com/track/6EGRx5TVuHAsmy3JKb8SRC"
+    },
+    {
+      "album": {
+        "name": "Gunfighter Ballads And Trail Songs",
+        "url": "https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl"
+      },
+      "artists": [
+        {
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259306,
+      "name": "El Paso",
+      "url": "https://open.spotify.com/track/4f8hBeMXMvssn6HtFAtblo"
+    },
+    {
+      "album": {
+        "name": "Family Tradition",
+        "url": "https://open.spotify.com/album/3nJf4jGn7mru28s5ZUVIx4"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams, Jr.",
+          "url": "https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242960,
+      "name": "Family Tradition",
+      "url": "https://open.spotify.com/track/73ZTWCuwudUVvvWipRnQnQ"
+    },
+    {
+      "album": {
+        "name": "Best Of/20th Century",
+        "url": "https://open.spotify.com/album/0Rb3coYXuUlgRLoi3UhADa"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296320,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/1ecIqo8pOc8S6y3l80iGxd"
+    },
+    {
+      "album": {
+        "name": "Town and Country",
+        "url": "https://open.spotify.com/album/5HVcZRoUGq2WdjAKiIARU5"
+      },
+      "artists": [
+        {
+          "name": "Flatt & Scruggs",
+          "url": "https://open.spotify.com/artist/1iNNWK8bYjc5EK0waLk1J1"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Foggy Mountain Breakdown",
+      "url": "https://open.spotify.com/track/29qFlNOssruDfoEN8vN2Uu"
+    },
+    {
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
+    },
+    {
+      "album": {
+        "name": "Harp Blowers (1925-1936)",
+        "url": "https://open.spotify.com/album/372jNv3qcYBIVVy3jO2PGn"
+      },
+      "artists": [
+        {
+          "name": "Deford Bailey",
+          "url": "https://open.spotify.com/artist/3bE11yTlWRtZxf6koQcfx4"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Fox Chase",
+      "url": "https://open.spotify.com/track/0YxDiM6hlJ03lssgbqTBGJ"
+    },
+    {
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220400,
+      "name": "Girl from the North Country",
+      "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "album": {
+        "name": "When Love Finds You",
+        "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
+      },
+      "artists": [
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315973,
+      "name": "Go Rest High On That Mountain",
+      "url": "https://open.spotify.com/track/7C04W8ooqQD3vWKUSzeYnz"
+    },
+    {
+      "album": {
+        "name": "George Jones and Tammy Wynette - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/5h63tAdWuGRqDkCrdvm4Gs"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182466,
+      "name": "Golden Ring",
+      "url": "https://open.spotify.com/track/5HywRUoXNfWpiR1dAwoZip"
+    },
+    {
+      "album": {
+        "name": "Ultimate Waylon Jennings",
+        "url": "https://open.spotify.com/album/6LfMo33TDWL0KlwXu6JVJa"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/3CqLvQ9fPOLtLIKb7r5ti6"
+    },
+    {
+      "album": {
+        "name": "Mountain Memories From Pigeon Forge",
+        "url": "https://open.spotify.com/album/2gYkp6IGDcTuWSvSvh9bL1"
+      },
+      "artists": [
+        {
+          "name": "Grandpa Jones",
+          "url": "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 161533,
+      "name": "Good Old Mountain Dew",
+      "url": "https://open.spotify.com/track/4pnnHhts4jx1TJO8S1JC90"
+    },
+    {
+      "album": {
+        "name": "The King of Country",
+        "url": "https://open.spotify.com/album/5IL280VXMuFzpMiIIdSESH"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 160173,
+      "name": "Great Speckled Bird",
+      "url": "https://open.spotify.com/track/73GgHC9lkVsEyVW9gp1X0E"
+    },
+    {
+      "album": {
+        "name": "Guitar Town",
+        "url": "https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155266,
+      "name": "Guitar Town",
+      "url": "https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS"
+    },
+    {
+      "album": {
+        "name": "Harper Valley P.T.A. (The Plantation Recordings 1968-70)",
+        "url": "https://open.spotify.com/album/43obe0SQxjP4aFRyyj3QRg"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 194400,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/2sZIclzhHlH8tzf7wry9hK"
+    },
+    {
+      "album": {
+        "name": "Country Classics",
+        "url": "https://open.spotify.com/album/3HdxiOn9XC1J06WDjCWB1A"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 194515,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/6HuCFnYlEGmxV4Vojfnnff"
+    },
+    {
+      "album": {
+        "name": "Harper Valley P.T.A.",
+        "url": "https://open.spotify.com/album/6bG7IjqrUcg8S1QIAjxJs3"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194515,
+      "name": "Harper Valley P.T.A.",
+      "url": "https://open.spotify.com/track/6dKkejSuZPJcVQvQ26nott"
+    },
+    {
+      "album": {
+        "name": "Harper Valley P.T.A. (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/1Us8ogvoRbdISewY69UE43"
+      },
+      "artists": [
+        {
+          "name": "Jeannie C. Riley",
+          "url": "https://open.spotify.com/artist/3MIwMeYV8vmgQFbbRiJTp2"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Harper Valley P.T.A. - Remastered 2022",
+      "url": "https://open.spotify.com/track/63EQVLdtGL6rZf8mPKW7QY"
+    },
+    {
+      "album": {
+        "name": "I Am What I Am (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2KBTp83WoEO5VZWf1KJMnF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195760,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/1q0wCfrE9eGFMzS2g8aVnx"
+    },
+    {
+      "album": {
+        "name": "The Complete Capitol Hits Of Faron Young",
+        "url": "https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa"
+      },
+      "artists": [
+        {
+          "name": "Faron Young",
+          "url": "https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146840,
+      "name": "Hello Walls",
+      "url": "https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd"
+    },
+    {
+      "album": {
+        "name": "The Best Of Sammi Smith",
+        "url": "https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg"
+      },
+      "artists": [
+        {
+          "name": "Sammi Smith",
+          "url": "https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc"
+    },
+    {
+      "album": {
+        "name": "40 Greatest Hits",
+        "url": "https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/7tNJo8NJ7fhprfjyDgdH2A"
+    },
+    {
+      "album": {
+        "name": "The Essential Gene Autry",
+        "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
+      },
+      "artists": [
+        {
+          "name": "Gene Autry",
+          "url": "https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158533,
+      "name": "Home On the Range",
+      "url": "https://open.spotify.com/track/1Hr94ZADw5cfltOCueNNPK"
+    },
+    {
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5QrjSOgrFBfDyGXOcF9ZMO"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/3Hbm5luuxJheCKJheYAVbZ"
+    },
+    {
+      "album": {
+        "name": "Guitars, Cadillacs, Etc., Etc.",
+        "url": "https://open.spotify.com/album/5AlW0VTEaK7DuekbCSOhdm"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167426,
+      "name": "Honky Tonk Man",
+      "url": "https://open.spotify.com/track/60Vbhlv3GUL8fNt3LLZ1nH"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Dwight Yoakam",
+        "url": "https://open.spotify.com/album/6R9VSmUIjTy9CMro0ZIoeY"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 168360,
+      "name": "Honky Tonk Man - 2002 Remaster",
+      "url": "https://open.spotify.com/track/3My3aGaNqWugMNLmuo5AE2"
+    },
+    {
+      "album": {
+        "name": "Lovesick Blues (August 1947-December 1948)",
+        "url": "https://open.spotify.com/album/6vskY4scqdIcqqJCBV6fUp"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165680,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/060t6chRq0DIRuZfcporgB"
+    },
+    {
+      "album": {
+        "name": "The Original Singles Collection . . . Plus",
+        "url": "https://open.spotify.com/album/2ofo3NZKdLxM3SBspKmXfV"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 167240,
+      "name": "Honky Tonkin'",
+      "url": "https://open.spotify.com/track/5rTZqQdydAEK4Gv5OfPy4n"
+    },
+    {
+      "album": {
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        },
+        {
+          "name": "Drifting Cowboys",
+          "url": "https://open.spotify.com/artist/6LF21o9Yfj4a16Rw38Vxml"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166200,
+      "name": "Honky Tonkin' - 1948 Single Version",
+      "url": "https://open.spotify.com/track/20aorkzugOSwPcXGZf9eCv"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Johnny Rodriguez",
+          "url": "https://open.spotify.com/artist/5hYruMimtF8axJGLsFpfoU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/4xKmvpMTknbvMj1cE04Dtg"
+    },
+    {
+      "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "I Can't Stop Loving You",
+      "url": "https://open.spotify.com/track/79nJj5dMyTsUzKvN5jUXsJ"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "I Fall To Pieces - Single Version",
+      "url": "https://open.spotify.com/track/6zFsz86nAj5gcvzyVqNL3k"
+    },
+    {
+      "album": {
+        "name": "I Walk the Line",
+        "url": "https://open.spotify.com/album/2xG5VLMFnDKhjJhsiJDcGm"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-07",
+      "duration_ms": 154546,
+      "name": "I Walk the Line",
+      "url": "https://open.spotify.com/track/0SHqu1Nlm2Cu6eNbmxHvRA"
+    },
+    {
+      "album": {
+        "name": "Get Rhythm / I Walk the Line",
+        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
+    },
+    {
+      "album": {
+        "name": "Patsy Montana (Doxy Collection)",
+        "url": "https://open.spotify.com/album/6X7NzTn7L81LSlxSsHIGFD"
+      },
+      "artists": [
+        {
+          "name": "Patsy Montana",
+          "url": "https://open.spotify.com/artist/0I9aDRzQdpLnNbMEZM7RHG"
+        },
+        {
+          "name": "Prairie Ramblers",
+          "url": "https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "I Want to Be a Cowboy's Sweetheart",
+      "url": "https://open.spotify.com/track/1RIQw2QuIglFKwBgzRidIe"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "I Will Always Love You",
+      "url": "https://open.spotify.com/track/6nRvgo4ySezQKD1D7NIqAu"
+    },
+    {
+      "album": {
+        "name": "I'll Fly Away",
+        "url": "https://open.spotify.com/album/4QpbC6Qv8WkdH6F8LFudPr"
+      },
+      "artists": [
+        {
+          "name": "James Carson",
+          "url": "https://open.spotify.com/artist/4KlHTYtH6LJzjEm5mkLjRj"
+        },
+        {
+          "name": "Martha Carson",
+          "url": "https://open.spotify.com/artist/1mv0j6pnqOnEc0HK6EWeeo"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146453,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/1AbAgU9d0zjmjjpBxlo0bN"
+    },
+    {
+      "album": {
+        "name": "Don't Close Your Eyes",
+        "url": "https://open.spotify.com/album/3hDqwanFIlVP5dRMWj8dhZ"
+      },
+      "artists": [
+        {
+          "name": "Keith Whitley",
+          "url": "https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "I'm No Stranger to the Rain",
+      "url": "https://open.spotify.com/track/5wDuIDsCWKSROQY3JlDEuV"
+    },
+    {
+      "album": {
+        "name": "40 Greatest Hits",
+        "url": "https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169066,
+      "name": "I'm So Lonesome I Could Cry - Single Version",
+      "url": "https://open.spotify.com/track/0QzlD9ie99w8XiaZ3SMXMI"
+    },
+    {
+      "album": {
+        "name": "Dreaming My Dreams",
+        "url": "https://open.spotify.com/album/2iZvfv5wU8DxGm2o2O1dis"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162906,
+      "name": "I've Been a Long Time Leaving (But I'll Be a Long Time Gone)",
+      "url": "https://open.spotify.com/track/0r8dEfqyiVgAPSv2Q6grMy"
+    },
+    {
+      "album": {
+        "name": "All-Time Greatest Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/38YMI8jMA7RotlUBZJNtcs"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "I've Got A Tiger By The Tail",
+      "url": "https://open.spotify.com/track/464fUpkgSEPH1onUGoW8Kt"
+    },
+    {
+      "album": {
+        "name": "The Late Great Townes Van Zandt",
+        "url": "https://open.spotify.com/album/2GkG26CJD8opQ9PDfkaEB6"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "If I Needed You",
+      "url": "https://open.spotify.com/track/3FMQnxcc6FcPscLeLqtW5S"
+    },
+    {
+      "album": {
+        "name": "Look What Thoughts Will Do",
+        "url": "https://open.spotify.com/album/082Lg7YaKtzsScelrtfwdx"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173933,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5"
+    },
+    {
+      "album": {
+        "name": "The Essential Jimmie Rodgers",
+        "url": "https://open.spotify.com/album/0lJQLQcYDv5QUWll4w9TC3"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Rodgers",
+          "url": "https://open.spotify.com/artist/0Y0ZlznP6vzTS1qAm5dvTN"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "In the Jailhouse Now",
+      "url": "https://open.spotify.com/track/5qhjl6GzrmwPYpJJFh2SRz"
+    },
+    {
+      "album": {
+        "name": "The Devil's Rejects",
+        "url": "https://open.spotify.com/album/2OBfzQx18EWIAkzZ3fJNXT"
+      },
+      "artists": [
+        {
+          "name": "Kitty Wells",
+          "url": "https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148933,
+      "name": "It Wasn't God Who Made Honky Tonk Angels - 1952 Single Version",
+      "url": "https://open.spotify.com/track/5WVIefy07taIktufdiA90m"
+    },
+    {
+      "album": {
+        "name": "Anthology 1956-1980",
+        "url": "https://open.spotify.com/album/0QJTZSxwTiZOb88arsEq5p"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "Jambalaya (On The Bayou) - Single Version",
+      "url": "https://open.spotify.com/track/2PFlvEIq23Q2iPN5zOGoPX"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
+    },
+    {
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/3qzRlWw1ENnOIvexD6HtqS"
+      },
+      "artists": [
+        {
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Keep On the Sunny Side",
+      "url": "https://open.spotify.com/track/7ibI58MUAAiaqYkVDV6fef"
+    },
+    {
+      "album": {
+        "name": "The Essential Charley Pride",
+        "url": "https://open.spotify.com/album/4ALGvSzcQF4SD9WXLyDI75"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123133,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/0alXPC11fIucBFD6qcCE94"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Gram Parsons",
+          "url": "https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd"
+        },
+        {
+          "name": "The Fallen Angels",
+          "url": "https://open.spotify.com/artist/6Sm7fCHCdnZgqcBGl3u9Cu"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284866,
+      "name": "Love Hurts (with The Fallen Angels) - Live",
+      "url": "https://open.spotify.com/track/33Qw3Gl3PZqs4kqR4VIEqC"
+    },
+    {
+      "album": {
+        "name": "40 Greatest Hits",
+        "url": "https://open.spotify.com/album/6zIYEv6soMoaZiypsHB5dd"
+      },
+      "artists": [
+        {
+          "name": "Hank Williams",
+          "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165240,
+      "name": "Lovesick Blues - Single Version",
+      "url": "https://open.spotify.com/track/4RZFpgo4VzBjH5g7XCHo2l"
+    },
+    {
+      "album": {
+        "name": "Mama Tried",
+        "url": "https://open.spotify.com/album/0f6Gx3lFLqdcY8XSXMKgCm"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard & The Strangers",
+          "url": "https://open.spotify.com/artist/3mSAqBoXQgdlpwzWsIgBzL"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132626,
+      "name": "Mama Tried - Remastered 2001",
+      "url": "https://open.spotify.com/track/1FTlLpP6V05yJWmcIg0rlK"
+    },
+    {
+      "album": {
+        "name": "Man In Black",
+        "url": "https://open.spotify.com/album/3fH6txVtapyIaCdoJkUNTd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172986,
+      "name": "Man in Black",
+      "url": "https://open.spotify.com/track/7wL9EVloIobMw22rT7Ve8x"
+    },
+    {
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260266,
+      "name": "Me and Bobby McGee",
+      "url": "https://open.spotify.com/track/0VNZYdfyOM8FGmYSwEGUa1"
+    },
+    {
+      "album": {
+        "name": "20 Greatest Hits (Remastered)",
+        "url": "https://open.spotify.com/album/67mCnY7ERrNjkjodzuk6m8"
+      },
+      "artists": [
+        {
+          "name": "Asleep At The Wheel",
+          "url": "https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187266,
+      "name": "Miles And Miles Of Texas - Remastered",
+      "url": "https://open.spotify.com/track/39LLs4SpRhYBiNnjZUBVmv"
+    },
+    {
+      "album": {
+        "name": "Earliest Recordings - The Complete Rich-r-tone 78's",
+        "url": "https://open.spotify.com/album/24EaakQd1ynRaa9bxGwi0h"
+      },
+      "artists": [
+        {
+          "name": "Stanley Brothers",
+          "url": "https://open.spotify.com/artist/7sYX11zkibP85rPz5ms1MI"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143333,
+      "name": "Molly And Tenbrook",
+      "url": "https://open.spotify.com/track/6lwzzzzHB3hPIm2ucv7BcU"
+    },
+    {
+      "album": {
+        "name": "Earliest Recordings - The Complete Rich-r-tone 78's",
+        "url": "https://open.spotify.com/album/0j0yXKdHLfOzI6qpyn4ByN"
+      },
+      "artists": [
+        {
+          "name": "The Stanley Brothers",
+          "url": "https://open.spotify.com/artist/0qqGnmHBX2yVvCITRAvuRD"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 143333,
+      "name": "Molly And Tenbrook",
+      "url": "https://open.spotify.com/track/26AAYh1PwC4sPF7COMgRmr"
+    },
+    {
+      "album": {
+        "name": "Mountain Dew",
+        "url": "https://open.spotify.com/album/4jFlvRqA5hb6KnQxH3Wap3"
+      },
+      "artists": [
+        {
+          "name": "Grandpa Jones",
+          "url": "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 165186,
+      "name": "Mountain Dew",
+      "url": "https://open.spotify.com/track/5d6ghHY3rguKu4NR68rvtH"
+    },
+    {
+      "album": {
+        "name": "Complete King Recordings 1943-1956 - Volume 2 Of Four (Original King Recordings)",
+        "url": "https://open.spotify.com/album/1TXPDEHNJspu6tL4xL0osA"
+      },
+      "artists": [
+        {
+          "name": "Grandpa Jones",
+          "url": "https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165106,
+      "name": "Mountain Dew - Original King Recordings",
+      "url": "https://open.spotify.com/track/4Ygk7VMmn6izMPf0TSBayF"
+    },
+    {
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "Mule Skinner Blues (Blue Yodel No. 8)",
+      "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
+    },
+    {
+      "album": {
+        "name": "Hums Of The Lovin' Spoonful",
+        "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Nashville Cats - 2003 Remaster",
+      "url": "https://open.spotify.com/track/4WVDaesMXyHKO8jyr9w6tE"
+    },
+    {
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/3jOrYZPtUL54bBR71yGixE"
+      },
+      "artists": [
+        {
+          "name": "Bill Monroe & His Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149200,
+      "name": "New Mule Skinner Blues",
+      "url": "https://open.spotify.com/track/3CIoKguwyGbZlcvc4KtlC6"
+    },
+    {
+      "album": {
+        "name": "Hangover Blues",
+        "url": "https://open.spotify.com/album/20bkrXrOy7rWjNgLHrdwMH"
+      },
+      "artists": [
+        {
+          "name": "The Maddox Brothers and Sister Rose",
+          "url": "https://open.spotify.com/artist/358eAExgqJlkhCzT26LtVX"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144600,
+      "name": "New Step It Up And Go",
+      "url": "https://open.spotify.com/track/2DiY96EhEnB1hW7A3dkzwW"
+    },
+    {
+      "album": {
+        "name": "The Essential Ray Price",
+        "url": "https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ"
+      },
+      "artists": [
+        {
+          "name": "Ray Price",
+          "url": "https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284933,
+      "name": "Night Life",
+      "url": "https://open.spotify.com/track/5aoD8488HdJaqKvAntFCpd"
+    },
+    {
+      "album": {
+        "name": "Ode To Billie Joe",
+        "url": "https://open.spotify.com/album/05I1EsreLq47JU8pypj7TR"
+      },
+      "artists": [
+        {
+          "name": "Bobbie Gentry",
+          "url": "https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255001,
+      "name": "Ode To Billie Joe",
+      "url": "https://open.spotify.com/track/4FdDorlbJTVHcH3djLbIfn"
+    },
+    {
+      "album": {
+        "name": "Down Every Road 1962-1994",
+        "url": "https://open.spotify.com/album/40Wi0Ej08sw9B4URIOabOI"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164106,
+      "name": "Okie From Muskogee",
+      "url": "https://open.spotify.com/track/7e4jSwxQw6w4qHc9WmAh7c"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (& Some That Will Be)",
+        "url": "https://open.spotify.com/album/7oRkZF4ysrOnGThgSiUtUC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153106,
+      "name": "On the Road Again - Live",
+      "url": "https://open.spotify.com/track/1OmKo4t4Bh95xQI6WGiUR3"
+    },
+    {
+      "album": {
+        "name": "Pancho & Lefty",
+        "url": "https://open.spotify.com/album/60INFhMYFibk9JgfF3GatL"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288293,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/44rPwblKiOsoanD13RhfoO"
+    },
+    {
+      "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "album": {
+        "name": "San Antonio Rose",
+        "url": "https://open.spotify.com/album/07mLD26DBfZKSHxr3deO2g"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "San Antonio Rose",
+      "url": "https://open.spotify.com/track/0cZGEJpAvUkPaCRTd4g4Ew"
+    },
+    {
+      "album": {
+        "name": "Seven Year Ache",
+        "url": "https://open.spotify.com/album/4FgXzkDie2opVddw91pH8K"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 195706,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/3pnRd3epmXjorMfOaG4qGd"
+    },
+    {
+      "album": {
+        "name": "Seven Year Ache",
+        "url": "https://open.spotify.com/album/1nLAeFogJgO9s6Mb6ShASn"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195706,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/4CLijHDH7Bd287Pv52BRb1"
+    },
+    {
+      "album": {
+        "name": "Hits 1979 - 1989",
+        "url": "https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-15",
+      "duration_ms": 197266,
+      "name": "Seven Year Ache",
+      "url": "https://open.spotify.com/track/1vNDmbf8AqmIys2RHBZmOo"
+    },
+    {
+      "album": {
+        "name": "The New Favorites Of George Jones",
+        "url": "https://open.spotify.com/album/73xcCIpGvz7aqMjuFfPqsR"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "She Thinks I Still Care",
+      "url": "https://open.spotify.com/track/42mWEvGlwKGhVQs8XkvQKP"
+    },
+    {
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/3F3ssJx3jlQBOkD6EVM7Z1"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "She's In Love With The Boy",
+      "url": "https://open.spotify.com/track/4EJvW4NHAk7TrIeX44jjXF"
+    },
+    {
+      "album": {
+        "name": "Stand By Your Man",
+        "url": "https://open.spotify.com/album/1m4lP2IzV8Z1oEUYMHMClr"
+      },
+      "artists": [
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157893,
+      "name": "Stand By Your Man",
+      "url": "https://open.spotify.com/track/2Cb2l4UoXynCHCeCYHRZN8"
+    },
+    {
+      "album": {
+        "name": "Country Rebels",
+        "url": "https://open.spotify.com/album/593THJIJwnUr3E6cuLgoO3"
+      },
+      "artists": [
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        },
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169333,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/4mjGfjlNPfdV6qbg8FXDSS"
+    },
+    {
+      "album": {
+        "name": "Buenas Noches From a Lonely Room",
+        "url": "https://open.spotify.com/album/1NZ8YBYnruBPeKLuvTBARx"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168213,
+      "name": "Streets of Bakersfield",
+      "url": "https://open.spotify.com/track/5B7f2auRhwkl5OjC2bQ58f"
+    },
+    {
+      "album": {
+        "name": "Rhino Hi-Five: Dwight Yoakam",
+        "url": "https://open.spotify.com/album/1riOmyzZwqxByj20hBMD3J"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        },
+        {
+          "name": "Buck Owens",
+          "url": "https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 169560,
+      "name": "Streets of Bakersfield (with Buck Owens) - 2006 Remaster",
+      "url": "https://open.spotify.com/track/3pYZlqrcvbWnw2FWnZtUrI"
+    },
+    {
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319973,
+      "name": "Sunday Morning Coming Down",
+      "url": "https://open.spotify.com/track/0gSc5Vo4tczXkHb2V208jz"
+    },
+    {
+      "album": {
+        "name": "Together Again",
+        "url": "https://open.spotify.com/album/6t9dBg7mEjCJdCFJY0hQfX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & Tommy Duncan with The Texas Playboys",
+          "url": "https://open.spotify.com/artist/3yBtUA2dRBtjPmZcwYfPGE"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Take Me Back To Tulsa",
+      "url": "https://open.spotify.com/track/74zBjPCZ1juar6yeglInYv"
+    },
+    {
+      "album": {
+        "name": "Hits 1979 - 1989",
+        "url": "https://open.spotify.com/album/3Bn77PH5xZ2QedRQM6DJPP"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189400,
+      "name": "Tennessee Flat Top Box",
+      "url": "https://open.spotify.com/track/00viUMvYR4Smwuw6l1W4el"
+    },
+    {
+      "album": {
+        "name": "Texas Cookin",
+        "url": "https://open.spotify.com/album/2NPT5jU2CNKwU1f8IdaAMF"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228893,
+      "name": "Texas Cookin'",
+      "url": "https://open.spotify.com/track/6uhBxmlfzIbxpIBRteQUQL"
+    },
+    {
+      "album": {
+        "name": "Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe]",
+        "url": "https://open.spotify.com/album/3ZAFnRYQRAiBplISQFj7nC"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160226,
+      "name": "The Great Speckled Bird",
+      "url": "https://open.spotify.com/track/1fPynWV3ANbzISOdT8gi1h"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0wRceJqjya1BV4iV1dmHwF"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2022-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163400,
+      "name": "The Great Speckled Bird",
+      "url": "https://open.spotify.com/track/0SyItgjx7nI4uOb3a3Esh7"
+    },
+    {
+      "album": {
+        "name": "The Essential Lefty Frizzell",
+        "url": "https://open.spotify.com/album/6gKlP0EfZ9pbY9cqvybyFj"
+      },
+      "artists": [
+        {
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "The Long Black Veil",
+      "url": "https://open.spotify.com/track/2r0tFJQyd8qFXT8NKs66m4"
+    },
+    {
+      "album": {
+        "name": "Songs Of The Brazos Valley",
+        "url": "https://open.spotify.com/album/09wvYh0TfR4ijMeHeRZrEc"
+      },
+      "artists": [
+        {
+          "name": "Hank Thompson",
+          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
+        },
+        {
+          "name": "Hank Thompson And His Brazos Valley Boys",
+          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164520,
+      "name": "The Wild Side Of Life",
+      "url": "https://open.spotify.com/track/39AxeDwNIyjPKgI7g9H2Jg"
+    },
+    {
+      "album": {
+        "name": "Tumbling Tumbleweeds",
+        "url": "https://open.spotify.com/album/2agohVudwSuZZFarAjZmkh"
+      },
+      "artists": [
+        {
+          "name": "Sons of the Pioneers",
+          "url": "https://open.spotify.com/artist/05FDFpC7GMP5iLbBwpkJYs"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196333,
+      "name": "Tumbling Tumbleweeds - Single Version",
+      "url": "https://open.spotify.com/track/57D6AiyvWKSZppMyp8HNFl"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa"
+      },
+      "artists": [
+        {
+          "name": "Ricky Skaggs",
+          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143226,
+      "name": "Uncle Pen",
+      "url": "https://open.spotify.com/track/70OFRF0sbCGQRQR0iAIZSX"
+    },
+    {
+      "album": {
+        "name": "The Essential Roy Acuff",
+        "url": "https://open.spotify.com/album/37wOjBhzeA4FAHWk6z7FsM"
+      },
+      "artists": [
+        {
+          "name": "Roy Acuff",
+          "url": "https://open.spotify.com/artist/7heUyuJw3gZftFZRa1rV6M"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156333,
+      "name": "Wabash Cannonball",
+      "url": "https://open.spotify.com/track/5RKPe1oN9lGayUCKn00fYi"
+    },
+    {
+      "album": {
+        "name": "Showcase",
+        "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
+      },
+      "artists": [
+        {
+          "name": "Patsy Cline",
+          "url": "https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK"
+        },
+        {
+          "name": "The Jordanaires",
+          "url": "https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121360,
+      "name": "Walkin' After Midnight",
+      "url": "https://open.spotify.com/track/1EQZfbm4WNEaiw2vtZB8lR"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Ernest Tubb",
+        "url": "https://open.spotify.com/album/7b9IFkBNLNGxw71XgURyQx"
+      },
+      "artists": [
+        {
+          "name": "Ernest Tubb",
+          "url": "https://open.spotify.com/artist/7gS1Yv0RynyzKX5ICtKIhS"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157733,
+      "name": "Walking The Floor Over You - 1941 Single Version",
+      "url": "https://open.spotify.com/track/4df0l3RQgfn4NVxbuKIiZL"
+    },
+    {
+      "album": {
+        "name": "Willow In The Wind",
+        "url": "https://open.spotify.com/album/7ht2xdsrKqWux9Pfqhyh2f"
+      },
+      "artists": [
+        {
+          "name": "Kathy Mattea",
+          "url": "https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224560,
+      "name": "Where've You Been",
+      "url": "https://open.spotify.com/track/6FKaKKygpsFsWPzxkBSPB2"
+    },
+    {
+      "album": {
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Whiskey River - Live at Harrah's Casino, Lake Tahoe, NV - April 1978",
+      "url": "https://open.spotify.com/track/2DC2kFrRHR9IVAuRdjAUQa"
+    },
+    {
+      "album": {
+        "name": "Why Not Me",
+        "url": "https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex"
+    },
+    {
+      "album": {
+        "name": "RCA Country Legends",
+        "url": "https://open.spotify.com/album/3qzRlWw1ENnOIvexD6HtqS"
+      },
+      "artists": [
+        {
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189626,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/0ZrKOKa7eAhOjwhZuWfEbD"
+    },
+    {
+      "album": {
+        "name": "Keep On The Sunny Side",
+        "url": "https://open.spotify.com/album/30NfKkepysJaQZwPlEgnCK"
+      },
+      "artists": [
+        {
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162320,
+      "name": "Will the Circle Be Unbroken",
+      "url": "https://open.spotify.com/track/0QpactOWKs6d2vbTdDyVsS"
+    },
+    {
+      "album": {
+        "name": "Sweetheart Of The Rodeo",
+        "url": "https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153466,
+      "name": "You Ain't Goin' Nowhere",
+      "url": "https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs"
+    },
+    {
+      "album": {
+        "name": "Live at Quad Studios",
+        "url": "https://open.spotify.com/album/05Hv7w4M4rt71TFzESEkEl"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Davis",
+          "url": "https://open.spotify.com/artist/6iju57wVv8TZo8AwR1Xwfo"
+        }
+      ],
+      "date_added": "2020-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297680,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/6JTXYn6PFzw96JzDUHhUPJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcYKwAtV4NDh"
 }

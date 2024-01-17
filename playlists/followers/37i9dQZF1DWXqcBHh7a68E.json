@@ -1,735 +1,659 @@
 {
-  "2021-12-25": 234133,
-  "2021-12-26": 234210,
-  "2021-12-27": 234304,
-  "2021-12-28": 234305,
-  "2021-12-29": 234351,
-  "2021-12-30": 234427,
-  "2021-12-31": 234501,
-  "2022-01-01": 234839,
-  "2022-01-02": 234788,
-  "2022-01-03": 234843,
-  "2022-01-04": 234958,
-  "2022-01-05": 235026,
-  "2022-01-06": 235097,
-  "2022-01-07": 235150,
-  "2022-01-08": 235287,
-  "2022-01-09": 235288,
-  "2022-01-10": 235346,
-  "2022-01-11": 235346,
-  "2022-01-12": 235394,
-  "2022-01-13": 235394,
-  "2022-01-14": 235394,
-  "2022-01-15": 235394,
-  "2022-01-16": 235394,
-  "2022-01-17": 235394,
-  "2022-01-18": 235394,
-  "2022-01-19": 235394,
-  "2022-01-20": 235394,
-  "2022-01-21": 235394,
-  "2022-01-22": 235394,
-  "2022-01-23": 235394,
-  "2022-01-24": 235394,
-  "2022-01-25": 235394,
-  "2022-01-26": 235394,
-  "2022-01-27": 235394,
-  "2022-01-28": 235394,
-  "2022-01-29": 235394,
-  "2022-01-30": 235394,
-  "2022-01-31": 235394,
-  "2022-02-01": 235394,
-  "2022-02-02": 235394,
-  "2022-02-03": 235394,
-  "2022-02-04": 235394,
-  "2022-02-05": 235394,
-  "2022-02-06": 235394,
-  "2022-02-07": 235394,
-  "2022-02-08": 235394,
-  "2022-02-09": 235394,
-  "2022-02-10": 235394,
-  "2022-02-11": 235394,
-  "2022-02-12": 235394,
-  "2022-02-13": 235394,
-  "2022-02-14": 235394,
-  "2022-02-15": 235394,
-  "2022-02-16": 235394,
-  "2022-02-17": 235394,
-  "2022-02-18": 235394,
-  "2022-02-19": 235394,
-  "2022-02-20": 235394,
-  "2022-02-21": 235394,
-  "2022-02-22": 235394,
-  "2022-02-23": 235394,
-  "2022-02-24": 235394,
-  "2022-02-25": 235394,
-  "2022-02-26": 235394,
-  "2022-02-27": 235394,
-  "2022-02-28": 235394,
-  "2022-03-01": 235394,
-  "2022-03-02": 235394,
-  "2022-03-03": 235394,
-  "2022-03-04": 235394,
-  "2022-03-05": 235394,
-  "2022-03-06": 235394,
-  "2022-03-07": 235394,
-  "2022-03-08": 235394,
-  "2022-03-09": 235394,
-  "2022-03-10": 235394,
-  "2022-03-11": 235394,
-  "2022-03-12": 235394,
-  "2022-03-13": 235394,
-  "2022-03-14": 235394,
-  "2022-03-15": 235394,
-  "2022-03-16": 235394,
-  "2022-03-17": 235394,
-  "2022-03-18": 235394,
-  "2022-03-19": 235394,
-  "2022-03-20": 235394,
-  "2022-03-21": 235394,
-  "2022-03-22": 235394,
-  "2022-03-23": 235394,
-  "2022-03-24": 235394,
-  "2022-03-25": 235394,
-  "2022-03-26": 235394,
-  "2022-03-27": 235394,
-  "2022-03-28": 235394,
-  "2022-03-30": 235394,
-  "2022-03-31": 235394,
-  "2022-04-01": 235394,
-  "2022-04-02": 235394,
-  "2022-04-03": 235394,
-  "2022-04-04": 235394,
-  "2022-04-05": 235394,
-  "2022-04-06": 235394,
-  "2022-04-07": 235394,
-  "2022-04-08": 235394,
-  "2022-04-09": 235394,
-  "2022-04-10": 235394,
-  "2022-04-11": 235394,
-  "2022-04-12": 235394,
-  "2022-04-13": 235394,
-  "2022-04-14": 235394,
-  "2022-04-15": 235394,
-  "2022-04-16": 235394,
-  "2022-04-17": 235394,
-  "2022-04-18": 235394,
-  "2022-04-19": 235394,
-  "2022-04-20": 235394,
-  "2022-04-21": 235394,
-  "2022-04-22": 235394,
-  "2022-04-23": 235394,
-  "2022-04-24": 235394,
-  "2022-04-25": 235394,
-  "2022-04-26": 235394,
-  "2022-04-27": 235394,
-  "2022-04-28": 235394,
-  "2022-04-29": 235394,
-  "2022-04-30": 235394,
-  "2022-05-01": 235394,
-  "2022-05-02": 235394,
-  "2022-05-03": 235394,
-  "2022-05-04": 235394,
-  "2022-05-05": 235394,
-  "2022-05-06": 235394,
-  "2022-05-07": 235394,
-  "2022-05-08": 235394,
-  "2022-05-09": 235394,
-  "2022-05-10": 235394,
-  "2022-05-11": 235394,
-  "2022-05-12": 235394,
-  "2022-05-13": 235394,
-  "2022-05-14": 235394,
-  "2022-05-15": 235394,
-  "2022-05-16": 235394,
-  "2022-05-17": 235394,
-  "2022-05-18": 235394,
-  "2022-05-19": 235394,
-  "2022-05-20": 235394,
-  "2022-05-21": 235394,
-  "2022-05-22": 235394,
-  "2022-05-23": 235394,
-  "2022-05-24": 235394,
-  "2022-05-25": 235394,
-  "2022-05-26": 235394,
-  "2022-05-27": 235394,
-  "2022-05-28": 235394,
-  "2022-05-29": 235394,
-  "2022-05-30": 235394,
-  "2022-05-31": 235394,
-  "2022-06-01": 235394,
-  "2022-06-02": 235394,
-  "2022-06-03": 235394,
-  "2022-06-04": 235394,
-  "2022-06-05": 235394,
-  "2022-06-06": 235394,
-  "2022-06-07": 235394,
-  "2022-06-08": 235394,
-  "2022-06-09": 235394,
-  "2022-06-10": 235394,
-  "2022-06-11": 235394,
-  "2022-06-12": 235394,
-  "2022-06-13": 235394,
-  "2022-06-14": 235394,
-  "2022-06-15": 235394,
-  "2022-06-16": 235394,
-  "2022-06-17": 235394,
-  "2022-06-18": 235394,
-  "2022-06-19": 235394,
-  "2022-06-20": 235394,
-  "2022-06-21": 235394,
-  "2022-06-22": 235394,
-  "2022-06-23": 235394,
-  "2022-06-24": 235394,
-  "2022-06-25": 235394,
-  "2022-06-26": 235394,
-  "2022-06-27": 235394,
-  "2022-06-28": 235394,
-  "2022-06-29": 235394,
-  "2022-06-30": 235394,
-  "2022-07-01": 235394,
-  "2022-07-02": 235394,
-  "2022-07-03": 235394,
-  "2022-07-04": 235394,
-  "2022-07-05": 235394,
-  "2022-07-06": 235394,
-  "2022-07-07": 235394,
-  "2022-07-08": 235394,
-  "2022-07-09": 235394,
-  "2022-07-10": 235394,
-  "2022-07-11": 235394,
-  "2022-07-12": 235394,
-  "2022-07-13": 235394,
-  "2022-07-14": 235394,
-  "2022-07-15": 235394,
-  "2022-07-16": 235394,
-  "2022-07-17": 235394,
-  "2022-07-18": 235394,
-  "2022-07-19": 235394,
-  "2022-07-20": 235394,
-  "2022-07-21": 235394,
-  "2022-07-22": 235394,
-  "2022-07-23": 235394,
-  "2022-07-24": 235394,
-  "2022-07-25": 235394,
-  "2022-07-26": 235394,
-  "2022-07-27": 235394,
-  "2022-07-28": 235394,
-  "2022-07-29": 235394,
-  "2022-07-30": 235394,
-  "2022-07-31": 235394,
-  "2022-08-01": 235394,
-  "2022-08-02": 235394,
-  "2022-08-03": 235394,
-  "2022-08-04": 235394,
-  "2022-08-05": 235394,
-  "2022-08-06": 235394,
-  "2022-08-07": 235394,
-  "2022-08-08": 235394,
-  "2022-08-09": 235394,
-  "2022-08-10": 235394,
-  "2022-08-11": 235394,
-  "2022-08-12": 235394,
-  "2022-08-13": 235394,
-  "2022-08-14": 235394,
-  "2022-08-15": 235394,
-  "2022-08-16": 235394,
-  "2022-08-17": 235394,
-  "2022-08-18": 235394,
-  "2022-08-19": 235394,
-  "2022-08-20": 235394,
-  "2022-08-21": 235394,
-  "2022-08-22": 235394,
-  "2022-08-23": 235394,
-  "2022-08-24": 235394,
-  "2022-08-25": 235394,
-  "2022-08-26": 235394,
-  "2022-08-27": 235394,
-  "2022-08-28": 235394,
-  "2022-08-29": 235394,
-  "2022-08-30": 235394,
-  "2022-08-31": 235394,
-  "2022-09-01": 235394,
-  "2022-09-02": 235394,
-  "2022-09-03": 235394,
-  "2022-09-04": 235394,
-  "2022-09-05": 235394,
-  "2022-09-06": 235394,
-  "2022-09-07": 235394,
-  "2022-09-09": 235394,
-  "2022-09-10": 235394,
-  "2022-09-11": 235394,
-  "2022-09-12": 235394,
-  "2022-09-13": 235394,
-  "2022-09-15": 235394,
-  "2022-09-16": 235394,
-  "2022-09-17": 235394,
-  "2022-09-18": 235394,
-  "2022-09-19": 235394,
-  "2022-09-20": 235394,
-  "2022-09-21": 235394,
-  "2022-09-22": 235394,
-  "2022-09-23": 235394,
-  "2022-09-24": 235394,
-  "2022-09-25": 235394,
-  "2022-09-26": 235394,
-  "2022-09-27": 235394,
-  "2022-09-28": 235394,
-  "2022-09-29": 235394,
-  "2022-09-30": 235394,
-  "2022-10-01": 235394,
-  "2022-10-02": 235394,
-  "2022-10-03": 235394,
-  "2022-10-04": 235394,
-  "2022-10-05": 235394,
-  "2022-10-06": 235394,
-  "2022-10-07": 235394,
-  "2022-10-08": 235394,
-  "2022-10-09": 235394,
-  "2022-10-10": 235394,
-  "2022-10-11": 235394,
-  "2022-10-12": 235394,
-  "2022-10-13": 235394,
-  "2022-10-14": 235394,
-  "2022-10-15": 235394,
-  "2022-10-16": 235394,
-  "2022-10-17": 235394,
-  "2022-10-18": 235394,
-  "2022-10-19": 235394,
-  "2022-10-20": 235394,
-  "2022-10-21": 235394,
-  "2022-10-22": 235394,
-  "2022-10-23": 235394,
-  "2022-10-24": 235394,
-  "2022-10-25": 235394,
-  "2022-10-26": 235394,
-  "2022-10-27": 235394,
-  "2022-10-28": 235394,
-  "2022-10-29": 235394,
-  "2022-10-30": 235394,
-  "2022-10-31": 235394,
-  "2022-11-01": 235394,
-  "2022-11-02": 235394,
-  "2022-11-03": 235394,
-  "2022-11-04": 235394,
-  "2022-11-05": 235394,
-  "2022-11-06": 235394,
-  "2022-11-07": 235394,
-  "2022-11-08": 235394,
-  "2022-11-09": 235394,
-  "2022-11-10": 235394,
-  "2022-11-11": 235394,
-  "2022-11-12": 235394,
-  "2022-11-13": 235394,
-  "2022-11-14": 235394,
-  "2022-11-15": 235394,
-  "2022-11-16": 235394,
-  "2022-11-17": 235394,
-  "2022-11-18": 235394,
-  "2022-11-19": 235394,
-  "2022-11-20": 235394,
-  "2022-11-21": 235394,
-  "2022-11-22": 235394,
-  "2022-11-23": 235394,
-  "2022-11-24": 235394,
-  "2022-11-25": 235394,
-  "2022-11-26": 235394,
-  "2022-11-27": 235394,
-  "2022-11-28": 235394,
-  "2022-11-29": 235394,
-  "2022-11-30": 235394,
-  "2022-12-01": 235394,
-  "2022-12-02": 235394,
-  "2022-12-03": 235394,
-  "2022-12-04": 235394,
-  "2022-12-05": 235394,
-  "2022-12-06": 235394,
-  "2022-12-07": 235394,
-  "2022-12-08": 235394,
-  "2022-12-09": 235394,
-  "2022-12-10": 235394,
-  "2022-12-11": 235394,
-  "2022-12-12": 235394,
-  "2022-12-13": 235394,
-  "2022-12-14": 235394,
-  "2022-12-15": 235394,
-  "2022-12-16": 235394,
-  "2022-12-17": 235394,
-  "2022-12-18": 235394,
-  "2022-12-19": 235394,
-  "2022-12-20": 235394,
-  "2022-12-21": 235394,
-  "2022-12-22": 235394,
-  "2022-12-24": 235394,
-  "2022-12-25": 235394,
-  "2022-12-26": 235394,
-  "2022-12-27": 235394,
-  "2022-12-28": 235394,
-  "2022-12-29": 235394,
-  "2022-12-30": 235394,
-  "2022-12-31": 235394,
-  "2023-01-01": 235394,
-  "2023-01-02": 235394,
-  "2023-01-03": 235394,
-  "2023-01-04": 235394,
-  "2023-01-05": 235394,
-  "2023-01-06": 235394,
-  "2023-01-07": 235394,
-  "2023-01-08": 235394,
-  "2023-01-09": 235394,
-  "2023-01-10": 235394,
-  "2023-01-11": 235394,
-  "2023-01-12": 235394,
-  "2023-01-13": 235394,
-  "2023-01-14": 235394,
-  "2023-01-15": 235394,
-  "2023-01-16": 235394,
-  "2023-01-17": 235394,
-  "2023-01-18": 235394,
-  "2023-01-19": 235394,
-  "2023-01-20": 235394,
-  "2023-01-21": 235394,
-  "2023-01-22": 235394,
-  "2023-01-23": 235394,
-  "2023-01-24": 235394,
-  "2023-01-25": 235394,
-  "2023-01-26": 235394,
-  "2023-01-27": 235394,
-  "2023-01-28": 235394,
-  "2023-01-29": 235394,
-  "2023-01-30": 235394,
-  "2023-01-31": 235394,
-  "2023-02-01": 235394,
-  "2023-02-02": 235394,
-  "2023-02-03": 235394,
-  "2023-02-04": 235394,
-  "2023-02-05": 235394,
-  "2023-02-06": 235394,
-  "2023-02-07": 235394,
-  "2023-02-08": 235394,
-  "2023-02-09": 235394,
-  "2023-02-10": 235394,
-  "2023-02-11": 235394,
-  "2023-02-12": 235394,
-  "2023-02-13": 235394,
-  "2023-02-14": 235394,
-  "2023-02-15": 235394,
-  "2023-02-16": 235394,
-  "2023-02-17": 235394,
-  "2023-02-18": 235394,
-  "2023-02-19": 235394,
-  "2023-02-20": 235394,
-  "2023-02-21": 235394,
-  "2023-02-22": 235394,
-  "2023-02-23": 235394,
-  "2023-02-24": 235394,
-  "2023-02-25": 235394,
-  "2023-02-26": 235394,
-  "2023-02-27": 235394,
-  "2023-02-28": 235394,
-  "2023-03-01": 235394,
-  "2023-03-02": 235394,
-  "2023-03-03": 235394,
-  "2023-03-04": 235394,
-  "2023-03-05": 235394,
-  "2023-03-06": 235394,
-  "2023-03-07": 235394,
-  "2023-03-08": 235394,
-  "2023-03-09": 235394,
-  "2023-03-10": 235394,
-  "2023-03-11": 235394,
-  "2023-03-12": 235394,
-  "2023-03-13": 235394,
-  "2023-03-14": 235394,
-  "2023-03-15": 235394,
-  "2023-03-16": 235394,
-  "2023-03-17": 235394,
-  "2023-03-18": 235394,
-  "2023-03-19": 235394,
-  "2023-03-20": 235394,
-  "2023-03-21": 235394,
-  "2023-03-22": 235394,
-  "2023-03-23": 235394,
-  "2023-03-24": 235394,
-  "2023-03-25": 235394,
-  "2023-03-26": 235394,
-  "2023-03-27": 235394,
-  "2023-03-28": 235394,
-  "2023-03-29": 235394,
-  "2023-03-30": 235394,
-  "2023-03-31": 235394,
-  "2023-04-01": 235394,
-  "2023-04-02": 235394,
-  "2023-04-03": 235394,
-  "2023-04-04": 235394,
-  "2023-04-05": 235394,
-  "2023-04-06": 235394,
-  "2023-04-07": 235394,
-  "2023-04-09": 235394,
-  "2023-04-10": 235394,
-  "2023-04-11": 235394,
-  "2023-04-12": 235394,
-  "2023-04-13": 235394,
-  "2023-04-14": 235394,
-  "2023-04-15": 235394,
-  "2023-04-16": 235394,
-  "2023-04-17": 235394,
-  "2023-04-18": 235394,
-  "2023-04-19": 235394,
-  "2023-04-20": 235394,
-  "2023-04-21": 235394,
-  "2023-04-22": 235394,
-  "2023-04-23": 235394,
-  "2023-04-24": 235394,
-  "2023-04-25": 235394,
-  "2023-04-26": 235394,
-  "2023-04-27": 235394,
-  "2023-04-28": 235394,
-  "2023-04-29": 235394,
-  "2023-04-30": 235394,
-  "2023-05-01": 235394,
-  "2023-05-02": 235394,
-  "2023-05-03": 235394,
-  "2023-05-04": 235394,
-  "2023-05-05": 235394,
-  "2023-05-06": 235394,
-  "2023-05-07": 235394,
-  "2023-05-08": 235394,
-  "2023-05-09": 235394,
-  "2023-05-10": 235394,
-  "2023-05-11": 235394,
-  "2023-05-12": 235394,
-  "2023-05-13": 235394,
-  "2023-05-14": 235394,
-  "2023-05-15": 235394,
-  "2023-05-16": 235394,
-  "2023-05-17": 235394,
-  "2023-05-18": 235394,
-  "2023-05-19": 235394,
-  "2023-05-20": 235394,
-  "2023-05-21": 235394,
-  "2023-05-22": 235394,
-  "2023-05-23": 235394,
-  "2023-05-24": 235394,
-  "2023-05-25": 235394,
-  "2023-05-26": 235394,
-  "2023-05-27": 235394,
-  "2023-05-28": 235394,
-  "2023-05-29": 235394,
-  "2023-05-30": 235394,
-  "2023-05-31": 235394,
-  "2023-06-01": 235394,
-  "2023-06-02": 235394,
-  "2023-06-03": 235394,
-  "2023-06-04": 235394,
-  "2023-06-05": 235394,
-  "2023-06-06": 235394,
-  "2023-06-07": 235394,
-  "2023-06-08": 235394,
-  "2023-06-09": 235394,
-  "2023-06-10": 235394,
-  "2023-06-11": 235394,
-  "2023-06-12": 235394,
-  "2023-06-13": 235394,
-  "2023-06-14": 235394,
-  "2023-06-15": 235394,
-  "2023-06-16": 235394,
-  "2023-06-17": 235394,
-  "2023-06-18": 235394,
-  "2023-06-19": 235394,
-  "2023-06-20": 235394,
-  "2023-06-21": 235394,
-  "2023-06-22": 235394,
-  "2023-06-23": 235394,
-  "2023-06-24": 235394,
-  "2023-06-25": 235394,
-  "2023-06-26": 235394,
-  "2023-06-27": 235394,
-  "2023-06-28": 235394,
-  "2023-06-29": 235394,
-  "2023-06-30": 235394,
-  "2023-07-01": 235394,
-  "2023-07-02": 235394,
-  "2023-07-03": 235394,
-  "2023-07-04": 235394,
-  "2023-07-05": 235394,
-  "2023-07-06": 235394,
-  "2023-07-07": 235394,
-  "2023-07-08": 235394,
-  "2023-07-09": 235394,
-  "2023-07-10": 235394,
-  "2023-07-11": 235394,
-  "2023-07-12": 235394,
-  "2023-07-13": 235394,
-  "2023-07-14": 235394,
-  "2023-07-15": 235394,
-  "2023-07-16": 235394,
-  "2023-07-17": 235394,
-  "2023-07-18": 235394,
-  "2023-07-19": 235394,
-  "2023-07-20": 235394,
-  "2023-07-21": 235394,
-  "2023-07-22": 235394,
-  "2023-07-23": 235394,
-  "2023-07-24": 235394,
-  "2023-07-25": 235394,
-  "2023-07-26": 235394,
-  "2023-07-27": 235394,
-  "2023-07-28": 235394,
-  "2023-07-29": 235394,
-  "2023-07-30": 235394,
-  "2023-07-31": 235394,
-  "2023-08-01": 235394,
-  "2023-08-02": 235394,
-  "2023-08-03": 235394,
-  "2023-08-04": 235394,
-  "2023-08-05": 235394,
-  "2023-08-06": 235394,
-  "2023-08-07": 235394,
-  "2023-08-08": 235394,
-  "2023-08-09": 235394,
-  "2023-08-10": 235394,
-  "2023-08-11": 235394,
-  "2023-08-12": 235394,
-  "2023-08-13": 235394,
-  "2023-08-14": 235394,
-  "2023-08-15": 235394,
-  "2023-08-16": 235394,
-  "2023-08-17": 235394,
-  "2023-08-18": 235394,
-  "2023-08-19": 235394,
-  "2023-08-20": 235394,
-  "2023-08-21": 235394,
-  "2023-08-22": 235394,
-  "2023-08-23": 235394,
-  "2023-08-24": 235394,
-  "2023-08-25": 235394,
-  "2023-08-26": 235394,
-  "2023-08-27": 235394,
-  "2023-08-28": 235394,
-  "2023-08-29": 235394,
-  "2023-08-30": 235394,
-  "2023-08-31": 235394,
-  "2023-09-01": 235394,
-  "2023-09-02": 235394,
-  "2023-09-03": 235394,
-  "2023-09-04": 235394,
-  "2023-09-05": 235394,
-  "2023-09-06": 235394,
-  "2023-09-07": 235394,
-  "2023-09-08": 235394,
-  "2023-09-09": 235394,
-  "2023-09-10": 235394,
-  "2023-09-11": 235394,
-  "2023-09-12": 235394,
-  "2023-09-13": 235394,
-  "2023-09-14": 235394,
-  "2023-09-15": 235394,
-  "2023-09-16": 235394,
-  "2023-09-17": 235394,
-  "2023-09-18": 235394,
-  "2023-09-19": 235394,
-  "2023-09-20": 235394,
-  "2023-09-21": 235394,
-  "2023-09-22": 235394,
-  "2023-09-23": 235394,
-  "2023-09-24": 235394,
-  "2023-09-25": 235394,
-  "2023-09-26": 235394,
-  "2023-09-27": 235394,
-  "2023-09-28": 235394,
-  "2023-09-29": 235394,
-  "2023-09-30": 235394,
-  "2023-10-01": 235394,
-  "2023-10-02": 235394,
-  "2023-10-03": 235394,
-  "2023-10-04": 235394,
-  "2023-10-05": 235394,
-  "2023-10-06": 235394,
-  "2023-10-07": 235394,
-  "2023-10-08": 235394,
-  "2023-10-09": 235394,
-  "2023-10-10": 235394,
-  "2023-10-11": 235394,
-  "2023-10-12": 235394,
-  "2023-10-13": 235394,
-  "2023-10-14": 235394,
-  "2023-10-15": 235394,
-  "2023-10-16": 235394,
-  "2023-10-17": 235394,
-  "2023-10-18": 235394,
-  "2023-10-19": 235394,
-  "2023-10-20": 235394,
-  "2023-10-21": 235394,
-  "2023-10-22": 235394,
-  "2023-10-23": 235394,
-  "2023-10-24": 235394,
-  "2023-10-25": 235394,
-  "2023-10-26": 235394,
-  "2023-10-27": 235394,
-  "2023-10-28": 235394,
-  "2023-10-29": 235394,
-  "2023-10-30": 235394,
-  "2023-10-31": 235394,
-  "2023-11-01": 235394,
-  "2023-11-02": 235394,
-  "2023-11-03": 235394,
-  "2023-11-04": 235394,
-  "2023-11-05": 235394,
-  "2023-11-06": 235394,
-  "2023-11-07": 235394,
-  "2023-11-08": 235394,
-  "2023-11-09": 235394,
-  "2023-11-10": 235394,
-  "2023-11-11": 235394,
-  "2023-11-12": 235394,
-  "2023-11-13": 235394,
-  "2023-11-14": 235394,
-  "2023-11-15": 235394,
-  "2023-11-16": 235394,
-  "2023-11-17": 235394,
-  "2023-11-18": 235394,
-  "2023-11-19": 235394,
-  "2023-11-20": 235394,
-  "2023-11-21": 235394,
-  "2023-11-22": 235394,
-  "2023-11-23": 235394,
-  "2023-11-24": 235394,
-  "2023-11-25": 235394,
-  "2023-11-26": 235394,
-  "2023-11-27": 235394,
-  "2023-11-28": 235394,
-  "2023-11-29": 235394,
-  "2023-11-30": 235394,
-  "2023-12-01": 235394,
-  "2023-12-02": 235394,
-  "2023-12-03": 235394,
-  "2023-12-04": 235394,
-  "2023-12-05": 235394,
-  "2023-12-06": 235394,
-  "2023-12-07": 235394,
-  "2023-12-08": 235394,
-  "2023-12-09": 235394,
-  "2023-12-10": 235394,
-  "2023-12-11": 235394,
-  "2023-12-12": 235394,
-  "2023-12-13": 235394,
-  "2023-12-14": 235394,
-  "2023-12-15": 235394,
-  "2023-12-16": 235394,
-  "2023-12-17": 235394,
-  "2023-12-18": 235394,
-  "2023-12-19": 235394,
-  "2023-12-20": 235394,
-  "2023-12-21": 235394,
-  "2023-12-22": 235394,
-  "2023-12-23": 235394,
-  "2023-12-24": 235394,
-  "2023-12-25": 235394,
-  "2023-12-26": 235394,
-  "2023-12-27": 235394,
-  "2023-12-30": 235394,
-  "2023-12-31": 235394,
-  "2024-01-01": 235394,
-  "2024-01-02": 235394,
-  "2024-01-03": 235394
+  "2024-01-17": 235394,
+  "date_first_scraped": "2021-12-21",
+  "description": "The essential tracks, all in one playlist.",
+  "name": "This Is: Rag'n'Bone Man",
+  "tracks": [
+    {
+      "album": {
+        "name": "All You Ever Wanted",
+        "url": "https://open.spotify.com/album/3b8Z3Rdgam0S8ynVeYlp1B"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186754,
+      "name": "All You Ever Wanted",
+      "url": "https://open.spotify.com/track/2kBKorwFFeinUr5KwGeBmk"
+    },
+    {
+      "album": {
+        "name": "Alone (Alternative Mix)",
+        "url": "https://open.spotify.com/album/7mxXHwogbzZOyNvuK06HmB"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219858,
+      "name": "Alone - Alternative Mix",
+      "url": "https://open.spotify.com/track/1hIiWgqEAKLXyYAwWtGzZA"
+    },
+    {
+      "album": {
+        "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
+        "url": "https://open.spotify.com/album/1I8e5aPdqwrP3UJUMyaOMD"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238639,
+      "name": "Anywhere Away From Here (Rag\u2019n\u2019Bone Man & P!nk)",
+      "url": "https://open.spotify.com/track/3sZWxtVuRc1Iet6ELwRz43"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201333,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/5TWK4SiCMI3bOxVvyG0zyY"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228520,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/5oWSIIJyMb0xAtAUcGJmy1"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194546,
+      "name": "Be the Man",
+      "url": "https://open.spotify.com/track/5R4XdfbRHahAwS5YSZwFTx"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219520,
+      "name": "Bitter End",
+      "url": "https://open.spotify.com/track/1vA5dEJTnUXHQEkm5hRgnW"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152346,
+      "name": "Die Easy",
+      "url": "https://open.spotify.com/track/7s85izscOJfT2QkWTzMARa"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197906,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/7negGXQVV3htbu8ylS59Ur"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "Fade to Nothing",
+      "url": "https://open.spotify.com/track/5LUg3woLYpiaNwXHDVWcY5"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211066,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/08w1hnWW4GhVm61DoVojsY"
+    },
+    {
+      "album": {
+        "name": "Grace (We All Try)",
+        "url": "https://open.spotify.com/album/08VIcW3Dcydb16XoFeCER4"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205557,
+      "name": "Grace (We All Try)",
+      "url": "https://open.spotify.com/track/1Ej6Nf12ZFrFMiGVP4qM6b"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213933,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/4KSljblpjITY4IsjkKSqK4"
+    },
+    {
+      "album": {
+        "name": "Disfigured - EP",
+        "url": "https://open.spotify.com/album/0EUnvH7KwjicfIQD1rCB8A"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226306,
+      "name": "Hard Came the Rain",
+      "url": "https://open.spotify.com/track/5YDUDi2SsfYIUBZjjYIL6f"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176200,
+      "name": "Healed",
+      "url": "https://open.spotify.com/track/3qSYMMN1E7y70HJlS7twv4"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Hell Yeah (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/2SWWWu4jTeuL8oHIOhSc5W"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200186,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
+    },
+    {
+      "album": {
+        "name": "Human (Remixes)",
+        "url": "https://open.spotify.com/album/4RtiPIrZPPG8iPZC9xQnP3"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Human - Acoustic",
+      "url": "https://open.spotify.com/track/70fdF045x3n1ahv7MG6Z4H"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219221,
+      "name": "Human - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186653,
+      "name": "Innocent Man",
+      "url": "https://open.spotify.com/track/73fmLB2FHjg6BGWna9qpA0"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216813,
+      "name": "Lay My Body Down",
+      "url": "https://open.spotify.com/track/6xWrFmTaczQo9DsdA9IG7c"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Life In Her Yet",
+      "url": "https://open.spotify.com/track/0p8NXSUkgtylXNBIUdnZT3"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261146,
+      "name": "Love You Any Less",
+      "url": "https://open.spotify.com/track/4VkjUjmnyidaY4Fkxju6LP"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "No Mother",
+      "url": "https://open.spotify.com/track/4ISa3eP5xA0WVyvF5LXUN3"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Odetta",
+      "url": "https://open.spotify.com/track/4YLWvrg2Nob2AT9rrjJS4u"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233827,
+      "name": "Rain (feat. Kate Tempest)",
+      "url": "https://open.spotify.com/track/6VgIizrnJnt7AZSQ5ISuSP"
+    },
+    {
+      "album": {
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279247,
+      "name": "Remains (Bastille Vs. Rag\u2019N\u2019Bone Man Vs. Skunk Anansie)",
+      "url": "https://open.spotify.com/track/6G43t8BCjmJyPGwNrAAPPV"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "Reuben's Train",
+      "url": "https://open.spotify.com/track/48sVSYd3qF6M75WEVU04Hs"
+    },
+    {
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/5fOk8YTHdcZrHOhcw4Do5i"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/37dBWnX4JR7DzjNorZN4FN"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239626,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/6y2Kaz9QI01XBKJ8mTb7Pf"
+    },
+    {
+      "album": {
+        "name": "Skin (BBC Live Version)",
+        "url": "https://open.spotify.com/album/0YwfUHBdu2Hn2yWHppiGP7"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "Skin - BBC Live Version",
+      "url": "https://open.spotify.com/track/69vUBSuKzUz5oDqqdzRkYX"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "The Fire",
+      "url": "https://open.spotify.com/track/5Opv3rAPRL93wJ9yXGJPiM"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213162,
+      "name": "Try Again - Jim Eno Sessions",
+      "url": "https://open.spotify.com/track/7uHEDuhRWJQGSOWz9hlx9K"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175653,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/2oLo4vGUIP3eJ9T001keTu"
+    },
+    {
+      "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "date_added": "2021-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204706,
+      "name": "Your Way or the Rope",
+      "url": "https://open.spotify.com/track/4v4JL46Vg1kB78xArvfJ99"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXqcBHh7a68E"
 }

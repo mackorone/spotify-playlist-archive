@@ -4,7 +4,7 @@
 
 > Updated Weekly! DC and Hooks selected jams from Deadbeats record label and beyond\. DEADBEATS ON TOUR NOW\-\-&gt; <a href="http://www.deadbeatsofficial.com">www.deadbeatsofficial.com</a>
 
-95 songs - 5 hr 34 min
+99 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [BOOM](https://open.spotify.com/track/1ZFmKdlDgBDBwYqE6koscQ) | [EAZYBAKED](https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv) | [Rotations](https://open.spotify.com/album/6udixN6d36EjJXurtNkqyK) | 3:18 | 2023-06-07 | 2023-11-09 |
 | [Built Different](https://open.spotify.com/track/65qHbzlwOeO2Y7InJrYQm9) | [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Built Different](https://open.spotify.com/album/1diWIgwpffLA53CyHndxPV) | 3:18 | 2023-07-25 |  |
 | [Catacombs](https://open.spotify.com/track/6re3NgvyIkD7RYNBdgYn28) | [VAMPA](https://open.spotify.com/artist/40j5HqwepBedJ5LN4oHkKK) | [Transylvania](https://open.spotify.com/album/5XXcH4yI8nljtY2Q8SGWfv) | 3:02 | 2023-06-09 | 2023-11-09 |
+| [Claw](https://open.spotify.com/track/6JLTatKOVYScUNqqK2iERr) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 |  |
 | [Cockroaches](https://open.spotify.com/track/52B80CEV3N6zZ1ERgtMvxF) | [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv), [YAANO](https://open.spotify.com/artist/2T0O5j4GMBDmAd8OaEA2UX) | [Asura EP](https://open.spotify.com/album/3TDp7ADxIVCOZbI1VjtztC) | 5:29 | 2023-10-06 |  |
 | [Counting](https://open.spotify.com/track/0jozSNmRCcQvIzuae6xQ78) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM) | [Counting](https://open.spotify.com/album/7l7BXWrlLLKfOBo8YQZoQi) | 3:52 | 2023-05-26 | 2023-11-09 |
 | [Criminal](https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Warrior Queen](https://open.spotify.com/artist/6MGlEnPgJhFkC8P8DdKtsT) | [Criminal](https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr) | 4:11 | 2023-06-30 | 2023-11-09 |
@@ -40,6 +41,7 @@
 | [Forest Catcher](https://open.spotify.com/track/7yRMwQAGpzLnAUEY6BAATi) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [Forest Catcher](https://open.spotify.com/album/4eYDVMTk2bvJljV85IyODK) | 4:13 | 2023-10-06 |  |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-26 | 2023-11-09 |
 | [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 | 2023-11-08 |  |
+| [Gunshot](https://open.spotify.com/track/35umPDaraumKhonFf5uWSF) | [AstroLizard](https://open.spotify.com/artist/3esoQnfDY6M4rgOtkq24Wm) | [Out Of This World](https://open.spotify.com/album/4FnfqAXSPyomOOk6sn5Y4f) | 3:21 | 2024-01-12 |  |
 | [Haunt My Mind \- Machinedrum Remix](https://open.spotify.com/track/3TXrfDuEZxTaXLG8236DyQ) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [Haunt My Mind \(Machinedrum Remix\)](https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU) | 3:25 | 2023-03-31 | 2023-11-09 |
 | [High Rollers](https://open.spotify.com/track/3lbsQYO8jfPrjTRi0c6tDt) | [Kumarion](https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [High Rollers](https://open.spotify.com/album/3xgWSfB4jmId0XfUxPmZ3V) | 2:37 | 2023-05-12 | 2023-11-09 |
 | [Hit & Run](https://open.spotify.com/track/44xdaJQkol3BllYFXG1PJ7) | [Keenan Mathias](https://open.spotify.com/artist/7qUIXnd1g5z5OXwL2n1tFL), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Hit & Run](https://open.spotify.com/album/7M7lEHEyBHXco4yksLeQpF) | 3:44 | 2023-05-18 |  |
@@ -62,6 +64,7 @@
 | [Lifted](https://open.spotify.com/track/6yqQCT6Y08rUr2rkXvAd7K) | [Joluca](https://open.spotify.com/artist/3giycuiv9FsMjaSEsJ8i1E) | [Lifted](https://open.spotify.com/album/3IVDw1dncG4Y7Kkv3vP0H9) | 3:14 | 2023-06-22 | 2023-11-09 |
 | [LONG WALK](https://open.spotify.com/track/5Lk292NbN2KEJv97g2cwAX) | [GRAIL SOUNDS](https://open.spotify.com/artist/3FwFFAF9CxERhMrf9R68l4), [CLB](https://open.spotify.com/artist/0qSxGo3EgCGfHWfFDo2zzo) | [LONG WALK](https://open.spotify.com/album/74Zd13jnHn0ee71K0OOUjc) | 3:53 | 2023-07-14 |  |
 | [LSDP](https://open.spotify.com/track/4hqF46oRXqePhKiNlmPuoT) | [BLXK MNTN](https://open.spotify.com/artist/2Hop8XZ4bSF0HeVjxXfYMW) | [LSDP](https://open.spotify.com/album/5hyAsGuY5huSDHjA5rLqqJ) | 3:02 | 2023-08-02 |  |
+| [Mellow Man](https://open.spotify.com/track/2GYMEBJeoZxHqIXc6ymsg1) | [Distinct Motive](https://open.spotify.com/artist/5KfqHG8bhfI18ZuTzZSdSM) | [Mellow Man](https://open.spotify.com/album/7GuzEc0bwqnJVQGSavefCD) | 3:39 | 2024-01-12 |  |
 | [MIC CHECK](https://open.spotify.com/track/3FZY2bYqCoTUZEyueDzqRC) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [MIC CHECK](https://open.spotify.com/album/1NUs0wLUWhQDVhTkpd20Ue) | 2:51 | 2023-05-17 |  |
 | [Nokia Dub](https://open.spotify.com/track/4Gfo4tm09wqUCERinIl4dn) | [Chef Boyarbeatz](https://open.spotify.com/artist/7nSk3iFPogRCOokrMliejt) | [Nokia Dub EP](https://open.spotify.com/album/456FguaL7QJEVGc3VOwHWW) | 2:52 | 2023-10-06 |  |
 | [Oblivion](https://open.spotify.com/track/0jsel4Sd5rrRfDaPK0Djnl) | [VCTRE](https://open.spotify.com/artist/45B2tXcwmZXjfCbK6c3oqu) | [East Kings Point](https://open.spotify.com/album/0DTZ9LNawUeS7Ymr9rSkgH) | 2:41 | 2023-12-04 |  |
@@ -69,6 +72,7 @@
 | [Oh No](https://open.spotify.com/track/0aQZINxg2Guxiyxjy4pdtt) | [Age Of Espion](https://open.spotify.com/artist/2bSOGtIzF9st33E9X0o6oK) | [Facades](https://open.spotify.com/album/3N4gykmYIucBybo3T67aQk) | 3:57 | 2023-12-06 |  |
 | [One Strobe](https://open.spotify.com/track/2hqJXTvK0uU4VeUhxVg6Sp) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Counting EP](https://open.spotify.com/album/5dcBbK62PiNQNKoY9Tl3Jd) | 4:12 | 2023-10-06 |  |
 | [One Three Nine](https://open.spotify.com/track/3fDASogRbq1vEZGLFcN9QA) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [One Three Nine](https://open.spotify.com/album/1NZ4fJ0HxdQ4L4X418SpLi) | 2:48 | 2023-02-17 |  |
+| [Out For Blood](https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Out For Blood](https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp) | 5:16 | 2024-01-12 |  |
 | [Overfreezing](https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Overfreezing](https://open.spotify.com/album/5RBhpmkBc68kBS284I5PW4) | 3:48 | 2023-03-24 | 2023-11-09 |
 | [Own Style](https://open.spotify.com/track/2cMlNEt4sHPPhci9ddp9zD) | [NOISES](https://open.spotify.com/artist/1bIZO50ixecynnRb9ewjNp) | [WYA](https://open.spotify.com/album/3e0YYtHBlZ2Tw28SrWoFA3) | 2:50 | 2023-06-28 | 2023-11-09 |
 | [Pechanga](https://open.spotify.com/track/4O4Hre1uaXnS5lp9Lz1t63) | [Onhell](https://open.spotify.com/artist/66SJhirDGiBwr3tfvu3a0t) | [Pechanga](https://open.spotify.com/album/0Ig6ULjCG2q9q2OXOq6tMf) | 2:44 | 2023-06-21 | 2023-11-09 |

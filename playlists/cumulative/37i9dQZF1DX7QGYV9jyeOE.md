@@ -4,7 +4,7 @@
 
 > Classic and contemporary pioneers of New Age music\. Cover: Constance Demby
 
-91 songs - 8 hr 15 min
+93 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,8 @@
 | [Away](https://open.spotify.com/track/5QVv2gY7ttC8C3yeIIh7lu) | [Kristen Miller](https://open.spotify.com/artist/0dgW8jhegxDkxrgWt6KLLX) | [Cello Journeys](https://open.spotify.com/album/0afaiSaLf9HhF1tCMRPD8n) | 6:51 | 2021-10-15 |  |
 | [Breathe](https://open.spotify.com/track/06633e40krkr5SWIenSngC) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas \(Remastered\)](https://open.spotify.com/album/7npz49UfRVwL5GemG3mjU8) | 1:49 | 2022-05-06 |  |
 | [Breathe](https://open.spotify.com/track/5wH31Dh6HJDL3GsAGKXem6) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas Remastered](https://open.spotify.com/album/4PzlKcpdPZRfF3hjunAYnS) | 1:56 | 2021-10-15 | 2022-07-29 |
-| [Chambers of the Heart](https://open.spotify.com/track/3OrwR5F1kWsUgoYhBZSogm) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 4:37 | 2021-10-15 |  |
+| [Chambers of the Heart](https://open.spotify.com/track/3OrwR5F1kWsUgoYhBZSogm) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 4:37 | 2021-10-15 | 2024-01-14 |
+| [Chambers of the Heart](https://open.spotify.com/track/6cC9oGq9NQdW2HYp5Qzc14) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/1FngnWbWnA0absWOPE3Njd) | 4:37 | 2023-08-24 |  |
 | [Dancing Shadows](https://open.spotify.com/track/2uQS47oeHcJanbtZQtmYOS) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU), [Gary Miraz](https://open.spotify.com/artist/32puo5NH9sjHN4OMphc8bh) | [Resonance](https://open.spotify.com/album/4iNADa6Esr3HGXxwIBmsCJ) | 3:59 | 2021-10-15 |  |
 | [Dark Green](https://open.spotify.com/track/4leNLyb6fZZPzMZd40lkcv) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:46 | 2021-10-15 |  |
 | [Dawn's Spirit](https://open.spotify.com/track/1CodjlFitI1S49ioxKShjM) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [River of Soul](https://open.spotify.com/album/5oWq6DEjHyb3YcX4Sn8ttI) | 2:11 | 2022-05-06 |  |
@@ -52,7 +53,8 @@
 | [Memoria](https://open.spotify.com/track/0Jl3XsfcIIkz4CPZTIrhoE) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas \(Remastered\)](https://open.spotify.com/album/7npz49UfRVwL5GemG3mjU8) | 5:00 | 2022-05-06 |  |
 | [Memoria](https://open.spotify.com/track/0fXx7RASYKtKqC8OVCC3FS) | [Marcomé](https://open.spotify.com/artist/2OHDbsHt9Q2xzyK77hf9k8) | [Seven Seas Remastered](https://open.spotify.com/album/4PzlKcpdPZRfF3hjunAYnS) | 5:00 | 2021-10-15 | 2022-07-29 |
 | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/track/0AuC6j66fjBzcNjWViIlfr) | [Suzanne Doucet](https://open.spotify.com/artist/1ZtE5MBw2gvmhdVXB909WU) | [Moon Valley \(Ambient Introspection\)](https://open.spotify.com/album/2eAOEEB8t84it83QgeZBOO) | 4:18 | 2021-10-15 |  |
-| [Mother of the World](https://open.spotify.com/track/5cmstplnrK8JGDeVbSZM5I) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 5:29 | 2021-10-15 |  |
+| [Mother of the World](https://open.spotify.com/track/5SVTe1r6VqMcAYLbWrSMpP) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/1FngnWbWnA0absWOPE3Njd) | 5:29 | 2023-08-24 |  |
+| [Mother of the World](https://open.spotify.com/track/5cmstplnrK8JGDeVbSZM5I) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Set Free](https://open.spotify.com/album/6BJkMm8AYHb1sA8ufP527w) | 5:29 | 2021-10-15 | 2024-01-14 |
 | [Objects in Form](https://open.spotify.com/track/7iBsuVqlcpysLBWzEFcsTG) | [Nadia Khan](https://open.spotify.com/artist/0loiPes37ZaRogGkUvPRNQ) | [Port Ana](https://open.spotify.com/album/0c6yAyZOGJEerke86Fxb9G) | 5:39 | 2021-10-15 |  |
 | [Ocean of Stars](https://open.spotify.com/track/1ecAL4ungJOaDFgzOt31CV) | [Diane Arkenstone](https://open.spotify.com/artist/7tACdDgcOW9HHM1Z4T3L29) | [The Healing Spirit](https://open.spotify.com/album/1F10bJp6oauVcAYNrFzyzY) | 8:01 | 2021-10-15 |  |
 | [Om Mani Padme Hum](https://open.spotify.com/track/6S7QB6lkpJz25glAK3gTC0) | [Constance Demby](https://open.spotify.com/artist/5s35MWEbQRtTObpESta73a) | [Skies Above Skies](https://open.spotify.com/album/0mOvzxPIp6XULoaq2Kq3h9) | 9:57 | 2021-10-15 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5EY8JFBuaLS.md) - [plain]
 
 > Trap y electrónica instrumental para enfoque.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,083 likes - 159 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,063 likes - 159 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

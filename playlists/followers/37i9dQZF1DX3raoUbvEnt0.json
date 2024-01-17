@@ -1,455 +1,827 @@
 {
-  "2022-10-04": 64,
-  "2022-10-05": 148,
-  "2022-10-06": 215,
-  "2022-10-07": 408,
-  "2022-10-08": 453,
-  "2022-10-09": 520,
-  "2022-10-10": 527,
-  "2022-10-11": 582,
-  "2022-10-12": 616,
-  "2022-10-13": 661,
-  "2022-10-14": 711,
-  "2022-10-15": 748,
-  "2022-10-16": 788,
-  "2022-10-17": 813,
-  "2022-10-18": 841,
-  "2022-10-19": 877,
-  "2022-10-20": 906,
-  "2022-10-21": 933,
-  "2022-10-22": 965,
-  "2022-10-23": 988,
-  "2022-10-24": 1009,
-  "2022-10-25": 1031,
-  "2022-10-26": 1064,
-  "2022-10-27": 1103,
-  "2022-10-28": 1137,
-  "2022-10-29": 1158,
-  "2022-10-30": 1193,
-  "2022-10-31": 1224,
-  "2022-11-01": 1255,
-  "2022-11-02": 1300,
-  "2022-11-03": 1338,
-  "2022-11-04": 1380,
-  "2022-11-05": 1404,
-  "2022-11-06": 1432,
-  "2022-11-07": 1458,
-  "2022-11-08": 1490,
-  "2022-11-09": 1525,
-  "2022-11-10": 1545,
-  "2022-11-11": 1566,
-  "2022-11-12": 1586,
-  "2022-11-13": 1600,
-  "2022-11-14": 1628,
-  "2022-11-15": 1644,
-  "2022-11-16": 1663,
-  "2022-11-17": 1692,
-  "2022-11-18": 1701,
-  "2022-11-19": 1701,
-  "2022-11-20": 1728,
-  "2022-11-21": 1719,
-  "2022-11-22": 1776,
-  "2022-11-23": 1774,
-  "2022-11-24": 1836,
-  "2022-11-25": 1877,
-  "2022-11-26": 1893,
-  "2022-11-27": 1915,
-  "2022-11-28": 1942,
-  "2022-11-29": 1964,
-  "2022-11-30": 1986,
-  "2022-12-01": 2019,
-  "2022-12-02": 2025,
-  "2022-12-03": 2055,
-  "2022-12-04": 2076,
-  "2022-12-05": 2098,
-  "2022-12-06": 2106,
-  "2022-12-07": 2128,
-  "2022-12-08": 2148,
-  "2022-12-09": 2160,
-  "2022-12-10": 2169,
-  "2022-12-11": 2185,
-  "2022-12-12": 2200,
-  "2022-12-13": 2216,
-  "2022-12-14": 2237,
-  "2022-12-15": 2256,
-  "2022-12-16": 2272,
-  "2022-12-17": 2288,
-  "2022-12-18": 2312,
-  "2022-12-19": 2323,
-  "2022-12-20": 2352,
-  "2022-12-21": 2352,
-  "2022-12-22": 2364,
-  "2022-12-24": 2388,
-  "2022-12-25": 2400,
-  "2022-12-26": 2414,
-  "2022-12-27": 2424,
-  "2022-12-28": 2435,
-  "2022-12-29": 2460,
-  "2022-12-30": 2472,
-  "2022-12-31": 2493,
-  "2023-01-01": 2519,
-  "2023-01-02": 2546,
-  "2023-01-03": 2564,
-  "2023-01-04": 2581,
-  "2023-01-05": 2596,
-  "2023-01-06": 2612,
-  "2023-01-07": 2627,
-  "2023-01-08": 2629,
-  "2023-01-09": 2634,
-  "2023-01-10": 2645,
-  "2023-01-11": 2662,
-  "2023-01-12": 2668,
-  "2023-01-13": 2680,
-  "2023-01-14": 2703,
-  "2023-01-15": 2704,
-  "2023-01-16": 2718,
-  "2023-01-17": 2732,
-  "2023-01-18": 2741,
-  "2023-01-19": 2753,
-  "2023-01-20": 2758,
-  "2023-01-21": 2773,
-  "2023-01-22": 2786,
-  "2023-01-23": 2798,
-  "2023-01-24": 2812,
-  "2023-01-25": 2815,
-  "2023-01-26": 2825,
-  "2023-01-27": 2838,
-  "2023-01-28": 2853,
-  "2023-01-29": 2874,
-  "2023-01-30": 2889,
-  "2023-01-31": 2889,
-  "2023-02-01": 2923,
-  "2023-02-02": 2937,
-  "2023-02-03": 2952,
-  "2023-02-04": 2965,
-  "2023-02-05": 2982,
-  "2023-02-06": 2989,
-  "2023-02-07": 2992,
-  "2023-02-08": 3005,
-  "2023-02-09": 3005,
-  "2023-02-10": 3020,
-  "2023-02-11": 3035,
-  "2023-02-12": 3070,
-  "2023-02-13": 3089,
-  "2023-02-14": 3089,
-  "2023-02-15": 3097,
-  "2023-02-16": 3112,
-  "2023-02-17": 3122,
-  "2023-02-18": 3145,
-  "2023-02-19": 3154,
-  "2023-02-20": 3168,
-  "2023-02-21": 3181,
-  "2023-02-22": 3193,
-  "2023-02-23": 3209,
-  "2023-02-24": 3221,
-  "2023-02-25": 3232,
-  "2023-02-26": 3240,
-  "2023-02-27": 3259,
-  "2023-02-28": 3259,
-  "2023-03-01": 3279,
-  "2023-03-02": 3290,
-  "2023-03-03": 3307,
-  "2023-03-04": 3317,
-  "2023-03-05": 3343,
-  "2023-03-06": 3343,
-  "2023-03-07": 3354,
-  "2023-03-08": 3362,
-  "2023-03-09": 3375,
-  "2023-03-10": 3389,
-  "2023-03-11": 3400,
-  "2023-03-12": 3418,
-  "2023-03-13": 3442,
-  "2023-03-14": 3463,
-  "2023-03-15": 3485,
-  "2023-03-16": 3504,
-  "2023-03-17": 3504,
-  "2023-03-18": 3540,
-  "2023-03-19": 3560,
-  "2023-03-20": 3576,
-  "2023-03-21": 3606,
-  "2023-03-22": 3617,
-  "2023-03-23": 3638,
-  "2023-03-24": 3638,
-  "2023-03-25": 3676,
-  "2023-03-26": 3692,
-  "2023-03-27": 3721,
-  "2023-03-28": 3746,
-  "2023-03-29": 3763,
-  "2023-03-30": 3797,
-  "2023-03-31": 3797,
-  "2023-04-01": 3817,
-  "2023-04-02": 3830,
-  "2023-04-03": 3835,
-  "2023-04-04": 3855,
-  "2023-04-05": 3870,
-  "2023-04-06": 4059,
-  "2023-04-07": 4092,
-  "2023-04-09": 4143,
-  "2023-04-10": 4160,
-  "2023-04-11": 4185,
-  "2023-04-12": 4185,
-  "2023-04-13": 4191,
-  "2023-04-14": 4205,
-  "2023-04-15": 4219,
-  "2023-04-16": 4236,
-  "2023-04-17": 4254,
-  "2023-04-18": 4273,
-  "2023-04-19": 4293,
-  "2023-04-20": 4308,
-  "2023-04-21": 4317,
-  "2023-04-22": 4338,
-  "2023-04-23": 4357,
-  "2023-04-24": 4369,
-  "2023-04-25": 4385,
-  "2023-04-26": 4398,
-  "2023-04-27": 4413,
-  "2023-04-28": 4429,
-  "2023-04-29": 4452,
-  "2023-04-30": 4471,
-  "2023-05-01": 4493,
-  "2023-05-02": 4508,
-  "2023-05-03": 4516,
-  "2023-05-04": 4527,
-  "2023-05-05": 4545,
-  "2023-05-06": 4561,
-  "2023-05-07": 4573,
-  "2023-05-08": 4592,
-  "2023-05-09": 4597,
-  "2023-05-10": 4611,
-  "2023-05-11": 4628,
-  "2023-05-12": 4645,
-  "2023-05-13": 4654,
-  "2023-05-14": 4668,
-  "2023-05-15": 4681,
-  "2023-05-16": 4700,
-  "2023-05-17": 4730,
-  "2023-05-18": 4743,
-  "2023-05-19": 4758,
-  "2023-05-20": 4794,
-  "2023-05-21": 4794,
-  "2023-05-22": 4794,
-  "2023-05-23": 4821,
-  "2023-05-24": 4847,
-  "2023-05-25": 4846,
-  "2023-05-26": 4850,
-  "2023-05-27": 4865,
-  "2023-05-28": 4882,
-  "2023-05-29": 4882,
-  "2023-05-30": 4915,
-  "2023-05-31": 4922,
-  "2023-06-01": 4928,
-  "2023-06-02": 4939,
-  "2023-06-03": 4951,
-  "2023-06-04": 4967,
-  "2023-06-05": 4978,
-  "2023-06-06": 4991,
-  "2023-06-07": 5008,
-  "2023-06-08": 5020,
-  "2023-06-09": 5030,
-  "2023-06-10": 5041,
-  "2023-06-11": 5065,
-  "2023-06-12": 5085,
-  "2023-06-13": 5103,
-  "2023-06-14": 5113,
-  "2023-06-15": 5130,
-  "2023-06-16": 5140,
-  "2023-06-17": 5159,
-  "2023-06-18": 5172,
-  "2023-06-19": 5186,
-  "2023-06-20": 5201,
-  "2023-06-21": 5212,
-  "2023-06-22": 5229,
-  "2023-06-23": 5239,
-  "2023-06-24": 5252,
-  "2023-06-25": 5267,
-  "2023-06-26": 5283,
-  "2023-06-27": 5309,
-  "2023-06-28": 5323,
-  "2023-06-29": 5337,
-  "2023-06-30": 5349,
-  "2023-07-01": 5369,
-  "2023-07-02": 5369,
-  "2023-07-03": 5384,
-  "2023-07-04": 5395,
-  "2023-07-05": 5402,
-  "2023-07-06": 5435,
-  "2023-07-07": 5435,
-  "2023-07-08": 5448,
-  "2023-07-09": 5466,
-  "2023-07-10": 5481,
-  "2023-07-11": 5495,
-  "2023-07-12": 5510,
-  "2023-07-13": 5518,
-  "2023-07-14": 5535,
-  "2023-07-15": 5550,
-  "2023-07-16": 5576,
-  "2023-07-17": 5585,
-  "2023-07-18": 5599,
-  "2023-07-19": 5618,
-  "2023-07-20": 5626,
-  "2023-07-21": 5638,
-  "2023-07-22": 5648,
-  "2023-07-23": 5656,
-  "2023-07-24": 5663,
-  "2023-07-25": 5673,
-  "2023-07-26": 5685,
-  "2023-07-27": 5692,
-  "2023-07-28": 5703,
-  "2023-07-29": 5710,
-  "2023-07-30": 5716,
-  "2023-07-31": 5724,
-  "2023-08-01": 5732,
-  "2023-08-02": 5736,
-  "2023-08-03": 5748,
-  "2023-08-04": 5757,
-  "2023-08-05": 5763,
-  "2023-08-06": 5780,
-  "2023-08-07": 5780,
-  "2023-08-08": 5793,
-  "2023-08-09": 5806,
-  "2023-08-10": 5812,
-  "2023-08-11": 5820,
-  "2023-08-12": 5830,
-  "2023-08-13": 5834,
-  "2023-08-14": 5847,
-  "2023-08-15": 5867,
-  "2023-08-16": 5867,
-  "2023-08-17": 5880,
-  "2023-08-18": 5889,
-  "2023-08-19": 5901,
-  "2023-08-20": 5910,
-  "2023-08-21": 5916,
-  "2023-08-22": 5924,
-  "2023-08-23": 5937,
-  "2023-08-24": 5943,
-  "2023-08-25": 5955,
-  "2023-08-26": 5970,
-  "2023-08-27": 5976,
-  "2023-08-28": 5987,
-  "2023-08-29": 5998,
-  "2023-08-30": 6005,
-  "2023-08-31": 6016,
-  "2023-09-01": 6040,
-  "2023-09-02": 6040,
-  "2023-09-03": 6046,
-  "2023-09-04": 6053,
-  "2023-09-05": 6062,
-  "2023-09-06": 6068,
-  "2023-09-07": 6078,
-  "2023-09-08": 6089,
-  "2023-09-09": 6100,
-  "2023-09-10": 6107,
-  "2023-09-11": 6119,
-  "2023-09-12": 6124,
-  "2023-09-13": 6141,
-  "2023-09-14": 6148,
-  "2023-09-15": 6154,
-  "2023-09-16": 6164,
-  "2023-09-17": 6172,
-  "2023-09-18": 6176,
-  "2023-09-19": 6178,
-  "2023-09-20": 6187,
-  "2023-09-21": 6190,
-  "2023-09-22": 6199,
-  "2023-09-23": 6206,
-  "2023-09-24": 6214,
-  "2023-09-25": 6220,
-  "2023-09-26": 6227,
-  "2023-09-27": 6232,
-  "2023-09-28": 6239,
-  "2023-09-29": 6239,
-  "2023-09-30": 6244,
-  "2023-10-01": 6248,
-  "2023-10-02": 6259,
-  "2023-10-03": 6264,
-  "2023-10-04": 6274,
-  "2023-10-05": 6282,
-  "2023-10-06": 6287,
-  "2023-10-07": 6295,
-  "2023-10-08": 6303,
-  "2023-10-09": 6308,
-  "2023-10-10": 6312,
-  "2023-10-11": 6323,
-  "2023-10-12": 6323,
-  "2023-10-13": 6324,
-  "2023-10-14": 6328,
-  "2023-10-15": 6340,
-  "2023-10-16": 6346,
-  "2023-10-17": 6353,
-  "2023-10-18": 6362,
-  "2023-10-19": 6369,
-  "2023-10-20": 6375,
-  "2023-10-21": 6377,
-  "2023-10-22": 6383,
-  "2023-10-23": 6392,
-  "2023-10-24": 6401,
-  "2023-10-25": 6406,
-  "2023-10-26": 6416,
-  "2023-10-27": 6426,
-  "2023-10-28": 6431,
-  "2023-10-29": 6441,
-  "2023-10-30": 6456,
-  "2023-10-31": 6456,
-  "2023-11-01": 6459,
-  "2023-11-02": 6466,
-  "2023-11-03": 6474,
-  "2023-11-04": 6479,
-  "2023-11-05": 6486,
-  "2023-11-06": 6493,
-  "2023-11-07": 6500,
-  "2023-11-08": 6509,
-  "2023-11-09": 6514,
-  "2023-11-10": 6524,
-  "2023-11-11": 6525,
-  "2023-11-12": 6529,
-  "2023-11-13": 6537,
-  "2023-11-14": 6543,
-  "2023-11-15": 6543,
-  "2023-11-16": 6564,
-  "2023-11-17": 6577,
-  "2023-11-18": 6577,
-  "2023-11-19": 6588,
-  "2023-11-20": 6601,
-  "2023-11-21": 6609,
-  "2023-11-22": 6617,
-  "2023-11-23": 6622,
-  "2023-11-24": 6630,
-  "2023-11-25": 6635,
-  "2023-11-26": 6642,
-  "2023-11-27": 6651,
-  "2023-11-28": 6660,
-  "2023-11-29": 6674,
-  "2023-11-30": 6674,
-  "2023-12-01": 6683,
-  "2023-12-02": 6690,
-  "2023-12-03": 6697,
-  "2023-12-04": 6703,
-  "2023-12-05": 6711,
-  "2023-12-06": 6718,
-  "2023-12-07": 6721,
-  "2023-12-08": 6724,
-  "2023-12-09": 6735,
-  "2023-12-10": 6744,
-  "2023-12-11": 6748,
-  "2023-12-12": 6756,
-  "2023-12-13": 6768,
-  "2023-12-14": 6780,
-  "2023-12-15": 6786,
-  "2023-12-16": 6800,
-  "2023-12-17": 6804,
-  "2023-12-18": 6814,
-  "2023-12-19": 6825,
-  "2023-12-20": 6834,
-  "2023-12-21": 6842,
-  "2023-12-22": 6853,
-  "2023-12-23": 6869,
-  "2023-12-24": 6872,
-  "2023-12-25": 6882,
-  "2023-12-26": 6897,
-  "2023-12-27": 6906,
-  "2023-12-30": 6934,
-  "2023-12-31": 6943,
-  "2024-01-01": 6953,
-  "2024-01-02": 6961,
-  "2024-01-03": 6972
+  "2024-01-17": 7122,
+  "date_first_scraped": "2022-10-04",
+  "description": "Music from \"GOLDEN KAMUY\"! /\u30a2\u30cb\u30e1\u300c\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
+  "name": "GOLDEN KAMUY \u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4",
+  "tracks": [
+    {
+      "album": {
+        "name": "Grey",
+        "url": "https://open.spotify.com/album/5heJSMSLkBUvAj8s3xGOmF"
+      },
+      "artists": [
+        {
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Grey",
+      "url": "https://open.spotify.com/track/5NKLg5YJdaSfUGfSKbgdCI"
+    },
+    {
+      "album": {
+        "name": "Hibana",
+        "url": "https://open.spotify.com/album/0JAbQTGiUCL1eEhX3wT1aL"
+      },
+      "artists": [
+        {
+          "name": "THE SIXTH LIE",
+          "url": "https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255493,
+      "name": "Hibana",
+      "url": "https://open.spotify.com/track/3NMMC88XvGM3UaIblE8zSW"
+    },
+    {
+      "album": {
+        "name": "Hibana (English ver.)",
+        "url": "https://open.spotify.com/album/0Pq1Nyhki3Kfh85ULgh8f7"
+      },
+      "artists": [
+        {
+          "name": "THE SIXTH LIE",
+          "url": "https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253846,
+      "name": "Hibana (English ver.)",
+      "url": "https://open.spotify.com/track/4c8OnNLxJMzMGXYZOFV4MU"
+    },
+    {
+      "album": {
+        "name": "NEVER SAY GOODBYE",
+        "url": "https://open.spotify.com/album/0f9ojxk4DzroHLGAU5iUA3"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "Mummy-D",
+          "url": "https://open.spotify.com/artist/1tDPDvqdllfPLjLhFFkocX"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290400,
+      "name": "NEVER SAY GOODBYE",
+      "url": "https://open.spotify.com/track/1NVQvAvYhYUluRrRQpdCjg"
+    },
+    {
+      "album": {
+        "name": "Take Me Under / Winding Road",
+        "url": "https://open.spotify.com/album/0ucSy38HOq1jRTtbHVgtZV"
+      },
+      "artists": [
+        {
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Winding Road",
+      "url": "https://open.spotify.com/track/1X1zGR5z4HQbdJjwJmUwo0"
+    },
+    {
+      "album": {
+        "name": "\u3059\u3079\u3066\u304c\u305d\u3053\u306b\u3042\u308a\u307e\u3059\u3088\u3046\u306b\u3002",
+        "url": "https://open.spotify.com/album/0jXyshoedPS2dP4xTBtsiK"
+      },
+      "artists": [
+        {
+          "name": "THE SPELLBOUND",
+          "url": "https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224700,
+      "name": "\u3059\u3079\u3066\u304c\u305d\u3053\u306b\u3042\u308a\u307e\u3059\u3088\u3046\u306b\u3002",
+      "url": "https://open.spotify.com/track/6oxjUUnKOV1KR6R4oPhOkS"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u2162",
+        "url": "https://open.spotify.com/album/4GCCo3tM8G1VkhoHMJzmfv"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "\u3075\u305f\u308a\u306e\u8ddd\u96e2",
+      "url": "https://open.spotify.com/track/323lf8m7iDbTRtMrQEzdcb"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169966,
+      "name": "\u30a2\u30a4\u30cc\u30b3\u30bf\u30f3",
+      "url": "https://open.spotify.com/track/3yVjBjZBQ56FY2IZ84oUly"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "\u30a2\u30c1\u30e3",
+      "url": "https://open.spotify.com/track/4JeoWL5tHdTCqJrz3LD7mH"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "\u30a4\u30c8\u30a6\u306e\u82b1",
+      "url": "https://open.spotify.com/track/6kiUqErOJ93ta9xcw0spUo"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209332,
+      "name": "\u30a6\u30a7\u30f3\u30ab\u30e0\u30a4",
+      "url": "https://open.spotify.com/track/4IcDxLM4H3q2z8HzufbsqV"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114500,
+      "name": "\u30aa\u30bd\u30de",
+      "url": "https://open.spotify.com/track/3CXwDVSIWcpJc7wn77j8qE"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144066,
+      "name": "\u30ab\u30e0\u30a4\u30e2\u30b7(\u30ea)",
+      "url": "https://open.spotify.com/track/1nKo7kidkBkdRQGVUAMw7r"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205100,
+      "name": "\u30b7\u30e3\u30c1",
+      "url": "https://open.spotify.com/track/4eeFgaRKNA0ySyGzm8bpkC"
+    },
+    {
+      "album": {
+        "name": "\u30ec\u30a4\u30e1\u30a4",
+        "url": "https://open.spotify.com/album/2IvwlWOCgabwi9iELRtMZ6"
+      },
+      "artists": [
+        {
+          "name": "Sayuri",
+          "url": "https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz"
+        },
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315906,
+      "name": "\u30ec\u30a4\u30e1\u30a4",
+      "url": "https://open.spotify.com/track/3D8dMWN3O6hbIlts9FXi9Z"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136400,
+      "name": "\u4e0d\u6557\u306e\u725b\u5c71",
+      "url": "https://open.spotify.com/track/3pz1Lgs9AgN4noOIbPinnf"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132200,
+      "name": "\u5317\u93ae\u90e8\u968a",
+      "url": "https://open.spotify.com/track/48RbJfqC0qavhbq3rSwpSJ"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185433,
+      "name": "\u53cd\u9006\u306e\u60c5\u5831\u5c06\u6821",
+      "url": "https://open.spotify.com/track/5b7GWs3IXp0lUf8K6bFnzG"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288265,
+      "name": "\u547c\u5fdc",
+      "url": "https://open.spotify.com/track/4cYBGyT7xgtPa7PzvY9y80"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230300,
+      "name": "\u596a\u308f\u308c\u305f\u91d1\u584a",
+      "url": "https://open.spotify.com/track/0958HJ9NWgZL3qLf40aNOf"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "\u5973\u306e\u5b63\u7bc0",
+      "url": "https://open.spotify.com/track/06Jnpv5dz4m34ngvXlIEV9"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "\u5e55\u672b\u306e\u4ea1\u970a",
+      "url": "https://open.spotify.com/track/44PSvZ6X3IS4reRgqhHJ37"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212400,
+      "name": "\u65b0\u6708\u306e\u591c\u306b",
+      "url": "https://open.spotify.com/track/6uyKHr77uBJnOeNJZELpzy"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223100,
+      "name": "\u65c5\u306e\u5e55\u958b\u3051",
+      "url": "https://open.spotify.com/track/2TJEk9uBkJQHN81OuRPaiK"
+    },
+    {
+      "album": {
+        "name": "\u6642\u8a08\u53f0\u306e\u9418",
+        "url": "https://open.spotify.com/album/3NjtYF9lvn0lR5JTP9CcfU"
+      },
+      "artists": [
+        {
+          "name": "Eastern Youth",
+          "url": "https://open.spotify.com/artist/5Y2k6C2UgQVRd3zzsx1CcH"
+        }
+      ],
+      "date_added": "2023-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "\u6642\u8a08\u53f0\u306e\u9418",
+      "url": "https://open.spotify.com/track/4fJC5DUwH9xy8ofjFPXuUJ"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af\u2161",
+        "url": "https://open.spotify.com/album/47l4joWRRiUK9z9R8t3aLK"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2023-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170466,
+      "name": "\u6a3a\u592a\u306e\u65c5",
+      "url": "https://open.spotify.com/track/7HvxmQvMoI6wtnTuWNcLJX"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161466,
+      "name": "\u6a3a\u592a\u3078",
+      "url": "https://open.spotify.com/track/6RnOeDXEDBypAJLU9X1Agk"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141865,
+      "name": "\u6bba\u3057\u306e\u5302\u3044",
+      "url": "https://open.spotify.com/track/43sqLLmiiulez3cMoNZrY2"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217266,
+      "name": "\u7121\u3044\u7269\u306d\u3060\u308a",
+      "url": "https://open.spotify.com/track/06HDuFiRR1FerMuhqKR56U"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159266,
+      "name": "\u72d9\u6483",
+      "url": "https://open.spotify.com/track/24jpZeiUN7GWzpZrZNpZ8k"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "\u731f\u5e2b\u306e\u9b42",
+      "url": "https://open.spotify.com/track/6LnG7oyQ5NE9C6mh08kwsq"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143100,
+      "name": "\u7363\u3068\u7363",
+      "url": "https://open.spotify.com/track/7ExJyOobQnMmTdFIfysNV8"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127400,
+      "name": "\u751f\u304d\u629c\u3044\u305f\u4fa1\u5024",
+      "url": "https://open.spotify.com/track/74Cl6xRacjsx3PMR6TKW0O"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159733,
+      "name": "\u7834\u58ca\u6b32",
+      "url": "https://open.spotify.com/track/5A05RfYF8YNJjpPJl64l2M"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269566,
+      "name": "\u795d\u798f\u3055\u308c\u305f\u9053",
+      "url": "https://open.spotify.com/track/0gn0PuJp28jvVVSLJG04rZ"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154066,
+      "name": "\u8179\u306e\u4e2d",
+      "url": "https://open.spotify.com/track/2WbRfATuFbs7OmMxjLpsnK"
+    },
+    {
+      "album": {
+        "name": "\u878d\u96ea (English ver.)",
+        "url": "https://open.spotify.com/album/47nPupnAoxyZlwJQdUeu06"
+      },
+      "artists": [
+        {
+          "name": "THE SIXTH LIE",
+          "url": "https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252180,
+      "name": "\u878d\u96ea (English ver.)",
+      "url": "https://open.spotify.com/track/5O8g82XMtEqxWQkHd79pSv"
+    },
+    {
+      "album": {
+        "name": "\u878d\u96ea(Subscription ver.)",
+        "url": "https://open.spotify.com/album/69GIat13zuofOILGWUZEYC"
+      },
+      "artists": [
+        {
+          "name": "THE SIXTH LIE",
+          "url": "https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242694,
+      "name": "\u878d\u96ea(Subscription ver.)",
+      "url": "https://open.spotify.com/track/3olP7pn1VoQTL53oiRhnjj"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "\u898b\u308b\u5973",
+      "url": "https://open.spotify.com/track/5v0HKHXdjZZr4noXARz7va"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 178398,
+      "name": "\u8c37\u57a3\u72e9\u308a",
+      "url": "https://open.spotify.com/track/3y49i4mqGdichcRU3PK8KW"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 145033,
+      "name": "\u8e42\u8e99",
+      "url": "https://open.spotify.com/track/66RGMZl6cYa64hRtW3jSjJ"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250566,
+      "name": "\u963f\u4ec1\u6839\u3063\u5b50",
+      "url": "https://open.spotify.com/track/5O9Y6DhpaTKMiHOykRzPsl"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105900,
+      "name": "\u9762\u5012\u304f\u3055\u3044",
+      "url": "https://open.spotify.com/track/4GcmVw8LpigCOQWN5XKyL5"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161533,
+      "name": "\u99c6\u3051\u308b",
+      "url": "https://open.spotify.com/track/1BZ5sCgFJ14tLt0hu87U1J"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30ab\u30e0\u30a4 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/1MyF5qnVZu6NYShj3dh0Qf"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155866,
+      "name": "\u9b3c\u306e\u526f\u9577",
+      "url": "https://open.spotify.com/track/2ersVeoZvHEUPAOiJuHTm8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3raoUbvEnt0"
 }

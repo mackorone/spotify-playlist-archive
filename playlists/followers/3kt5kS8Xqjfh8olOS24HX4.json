@@ -1,735 +1,647 @@
 {
-  "2021-12-25": 57,
-  "2021-12-26": 57,
-  "2021-12-27": 57,
-  "2021-12-28": 57,
-  "2021-12-29": 57,
-  "2021-12-30": 57,
-  "2021-12-31": 57,
-  "2022-01-01": 57,
-  "2022-01-02": 57,
-  "2022-01-03": 57,
-  "2022-01-04": 57,
-  "2022-01-05": 57,
-  "2022-01-06": 57,
-  "2022-01-07": 57,
-  "2022-01-08": 57,
-  "2022-01-09": 57,
-  "2022-01-10": 57,
-  "2022-01-11": 57,
-  "2022-01-12": 57,
-  "2022-01-13": 57,
-  "2022-01-14": 57,
-  "2022-01-15": 57,
-  "2022-01-16": 57,
-  "2022-01-17": 57,
-  "2022-01-18": 57,
-  "2022-01-19": 57,
-  "2022-01-20": 57,
-  "2022-01-21": 57,
-  "2022-01-22": 57,
-  "2022-01-23": 57,
-  "2022-01-24": 57,
-  "2022-01-25": 57,
-  "2022-01-26": 57,
-  "2022-01-27": 57,
-  "2022-01-28": 57,
-  "2022-01-29": 57,
-  "2022-01-30": 57,
-  "2022-01-31": 57,
-  "2022-02-01": 57,
-  "2022-02-02": 57,
-  "2022-02-03": 57,
-  "2022-02-04": 57,
-  "2022-02-05": 57,
-  "2022-02-06": 57,
-  "2022-02-07": 57,
-  "2022-02-08": 57,
-  "2022-02-09": 57,
-  "2022-02-10": 57,
-  "2022-02-11": 57,
-  "2022-02-12": 57,
-  "2022-02-13": 57,
-  "2022-02-14": 57,
-  "2022-02-15": 57,
-  "2022-02-16": 57,
-  "2022-02-17": 57,
-  "2022-02-18": 57,
-  "2022-02-19": 57,
-  "2022-02-20": 57,
-  "2022-02-21": 57,
-  "2022-02-22": 57,
-  "2022-02-23": 57,
-  "2022-02-24": 57,
-  "2022-02-25": 57,
-  "2022-02-26": 57,
-  "2022-02-27": 57,
-  "2022-02-28": 57,
-  "2022-03-01": 57,
-  "2022-03-02": 57,
-  "2022-03-03": 57,
-  "2022-03-04": 57,
-  "2022-03-05": 57,
-  "2022-03-06": 57,
-  "2022-03-07": 57,
-  "2022-03-08": 57,
-  "2022-03-09": 57,
-  "2022-03-10": 57,
-  "2022-03-11": 57,
-  "2022-03-12": 57,
-  "2022-03-13": 57,
-  "2022-03-14": 57,
-  "2022-03-15": 57,
-  "2022-03-16": 57,
-  "2022-03-17": 57,
-  "2022-03-18": 57,
-  "2022-03-19": 57,
-  "2022-03-20": 57,
-  "2022-03-21": 57,
-  "2022-03-22": 57,
-  "2022-03-23": 57,
-  "2022-03-24": 57,
-  "2022-03-25": 57,
-  "2022-03-26": 57,
-  "2022-03-27": 57,
-  "2022-03-28": 57,
-  "2022-03-30": 57,
-  "2022-03-31": 57,
-  "2022-04-01": 57,
-  "2022-04-02": 57,
-  "2022-04-03": 57,
-  "2022-04-04": 57,
-  "2022-04-05": 57,
-  "2022-04-06": 57,
-  "2022-04-07": 57,
-  "2022-04-08": 57,
-  "2022-04-09": 57,
-  "2022-04-10": 57,
-  "2022-04-11": 57,
-  "2022-04-12": 57,
-  "2022-04-13": 57,
-  "2022-04-14": 57,
-  "2022-04-15": 57,
-  "2022-04-16": 57,
-  "2022-04-17": 57,
-  "2022-04-18": 57,
-  "2022-04-19": 57,
-  "2022-04-20": 57,
-  "2022-04-21": 57,
-  "2022-04-22": 57,
-  "2022-04-23": 57,
-  "2022-04-24": 57,
-  "2022-04-25": 57,
-  "2022-04-26": 57,
-  "2022-04-27": 57,
-  "2022-04-28": 57,
-  "2022-04-29": 57,
-  "2022-04-30": 57,
-  "2022-05-01": 57,
-  "2022-05-02": 57,
-  "2022-05-03": 57,
-  "2022-05-04": 57,
-  "2022-05-05": 57,
-  "2022-05-06": 57,
-  "2022-05-07": 57,
-  "2022-05-08": 57,
-  "2022-05-09": 57,
-  "2022-05-10": 57,
-  "2022-05-11": 57,
-  "2022-05-12": 57,
-  "2022-05-13": 57,
-  "2022-05-14": 57,
-  "2022-05-15": 57,
-  "2022-05-16": 57,
-  "2022-05-17": 57,
-  "2022-05-18": 57,
-  "2022-05-19": 57,
-  "2022-05-20": 57,
-  "2022-05-21": 57,
-  "2022-05-22": 57,
-  "2022-05-23": 57,
-  "2022-05-24": 57,
-  "2022-05-25": 57,
-  "2022-05-26": 57,
-  "2022-05-27": 57,
-  "2022-05-28": 57,
-  "2022-05-29": 57,
-  "2022-05-30": 57,
-  "2022-05-31": 57,
-  "2022-06-01": 57,
-  "2022-06-02": 57,
-  "2022-06-03": 57,
-  "2022-06-04": 57,
-  "2022-06-05": 57,
-  "2022-06-06": 57,
-  "2022-06-07": 57,
-  "2022-06-08": 57,
-  "2022-06-09": 57,
-  "2022-06-10": 57,
-  "2022-06-11": 57,
-  "2022-06-12": 57,
-  "2022-06-13": 57,
-  "2022-06-14": 57,
-  "2022-06-15": 57,
-  "2022-06-16": 57,
-  "2022-06-17": 57,
-  "2022-06-18": 57,
-  "2022-06-19": 57,
-  "2022-06-20": 57,
-  "2022-06-21": 57,
-  "2022-06-22": 57,
-  "2022-06-23": 57,
-  "2022-06-24": 57,
-  "2022-06-25": 57,
-  "2022-06-26": 57,
-  "2022-06-27": 57,
-  "2022-06-28": 57,
-  "2022-06-29": 57,
-  "2022-06-30": 57,
-  "2022-07-01": 57,
-  "2022-07-02": 57,
-  "2022-07-03": 57,
-  "2022-07-04": 57,
-  "2022-07-05": 57,
-  "2022-07-06": 57,
-  "2022-07-07": 57,
-  "2022-07-08": 57,
-  "2022-07-09": 57,
-  "2022-07-10": 57,
-  "2022-07-11": 57,
-  "2022-07-12": 57,
-  "2022-07-13": 57,
-  "2022-07-14": 57,
-  "2022-07-15": 57,
-  "2022-07-16": 57,
-  "2022-07-17": 57,
-  "2022-07-18": 57,
-  "2022-07-19": 57,
-  "2022-07-20": 57,
-  "2022-07-21": 57,
-  "2022-07-22": 57,
-  "2022-07-23": 57,
-  "2022-07-24": 57,
-  "2022-07-25": 57,
-  "2022-07-26": 57,
-  "2022-07-27": 57,
-  "2022-07-28": 57,
-  "2022-07-29": 57,
-  "2022-07-30": 57,
-  "2022-07-31": 57,
-  "2022-08-01": 57,
-  "2022-08-02": 57,
-  "2022-08-03": 57,
-  "2022-08-04": 57,
-  "2022-08-05": 57,
-  "2022-08-06": 57,
-  "2022-08-07": 57,
-  "2022-08-08": 57,
-  "2022-08-09": 57,
-  "2022-08-10": 57,
-  "2022-08-11": 57,
-  "2022-08-12": 57,
-  "2022-08-13": 57,
-  "2022-08-14": 57,
-  "2022-08-15": 57,
-  "2022-08-16": 57,
-  "2022-08-17": 57,
-  "2022-08-18": 57,
-  "2022-08-19": 57,
-  "2022-08-20": 57,
-  "2022-08-21": 57,
-  "2022-08-22": 57,
-  "2022-08-23": 57,
-  "2022-08-24": 57,
-  "2022-08-25": 57,
-  "2022-08-26": 57,
-  "2022-08-27": 57,
-  "2022-08-28": 57,
-  "2022-08-29": 57,
-  "2022-08-30": 57,
-  "2022-08-31": 57,
-  "2022-09-01": 57,
-  "2022-09-02": 57,
-  "2022-09-03": 57,
-  "2022-09-04": 57,
-  "2022-09-05": 57,
-  "2022-09-06": 57,
-  "2022-09-07": 57,
-  "2022-09-09": 57,
-  "2022-09-10": 57,
-  "2022-09-11": 57,
-  "2022-09-12": 57,
-  "2022-09-13": 57,
-  "2022-09-15": 57,
-  "2022-09-16": 57,
-  "2022-09-17": 57,
-  "2022-09-18": 57,
-  "2022-09-19": 57,
-  "2022-09-20": 57,
-  "2022-09-21": 57,
-  "2022-09-22": 57,
-  "2022-09-23": 58,
-  "2022-09-24": 58,
-  "2022-09-25": 58,
-  "2022-09-26": 58,
-  "2022-09-27": 58,
-  "2022-09-28": 58,
-  "2022-09-29": 58,
-  "2022-09-30": 58,
-  "2022-10-01": 58,
-  "2022-10-02": 58,
-  "2022-10-03": 58,
-  "2022-10-04": 58,
-  "2022-10-05": 58,
-  "2022-10-06": 58,
-  "2022-10-07": 58,
-  "2022-10-08": 58,
-  "2022-10-09": 58,
-  "2022-10-10": 58,
-  "2022-10-11": 58,
-  "2022-10-12": 58,
-  "2022-10-13": 58,
-  "2022-10-14": 58,
-  "2022-10-15": 58,
-  "2022-10-16": 58,
-  "2022-10-17": 58,
-  "2022-10-18": 58,
-  "2022-10-19": 58,
-  "2022-10-20": 58,
-  "2022-10-21": 58,
-  "2022-10-22": 58,
-  "2022-10-23": 58,
-  "2022-10-24": 58,
-  "2022-10-25": 58,
-  "2022-10-26": 58,
-  "2022-10-27": 58,
-  "2022-10-28": 58,
-  "2022-10-29": 58,
-  "2022-10-30": 58,
-  "2022-10-31": 58,
-  "2022-11-01": 58,
-  "2022-11-02": 60,
-  "2022-11-03": 61,
-  "2022-11-04": 62,
-  "2022-11-05": 62,
-  "2022-11-06": 62,
-  "2022-11-07": 62,
-  "2022-11-08": 63,
-  "2022-11-09": 63,
-  "2022-11-10": 66,
-  "2022-11-11": 67,
-  "2022-11-12": 67,
-  "2022-11-13": 67,
-  "2022-11-14": 67,
-  "2022-11-15": 67,
-  "2022-11-16": 67,
-  "2022-11-17": 67,
-  "2022-11-18": 66,
-  "2022-11-19": 66,
-  "2022-11-20": 63,
-  "2022-11-21": 62,
-  "2022-11-22": 62,
-  "2022-11-23": 62,
-  "2022-11-24": 62,
-  "2022-11-25": 62,
-  "2022-11-26": 62,
-  "2022-11-27": 61,
-  "2022-11-28": 61,
-  "2022-11-29": 61,
-  "2022-11-30": 61,
-  "2022-12-01": 61,
-  "2022-12-02": 61,
-  "2022-12-03": 61,
-  "2022-12-04": 61,
-  "2022-12-05": 61,
-  "2022-12-06": 61,
-  "2022-12-07": 61,
-  "2022-12-08": 61,
-  "2022-12-09": 61,
-  "2022-12-10": 61,
-  "2022-12-11": 61,
-  "2022-12-12": 61,
-  "2022-12-13": 61,
-  "2022-12-14": 60,
-  "2022-12-15": 59,
-  "2022-12-16": 59,
-  "2022-12-17": 59,
-  "2022-12-18": 59,
-  "2022-12-19": 59,
-  "2022-12-20": 59,
-  "2022-12-21": 59,
-  "2022-12-22": 59,
-  "2022-12-24": 59,
-  "2022-12-25": 59,
-  "2022-12-26": 59,
-  "2022-12-27": 59,
-  "2022-12-28": 59,
-  "2022-12-29": 59,
-  "2022-12-30": 59,
-  "2022-12-31": 59,
-  "2023-01-01": 59,
-  "2023-01-02": 59,
-  "2023-01-03": 59,
-  "2023-01-04": 59,
-  "2023-01-05": 59,
-  "2023-01-06": 59,
-  "2023-01-07": 59,
-  "2023-01-08": 59,
-  "2023-01-09": 59,
-  "2023-01-10": 59,
-  "2023-01-11": 59,
-  "2023-01-12": 59,
-  "2023-01-13": 59,
-  "2023-01-14": 59,
-  "2023-01-15": 59,
-  "2023-01-16": 59,
-  "2023-01-17": 59,
-  "2023-01-18": 59,
-  "2023-01-19": 59,
-  "2023-01-20": 59,
-  "2023-01-21": 59,
-  "2023-01-22": 59,
-  "2023-01-23": 59,
-  "2023-01-24": 59,
-  "2023-01-25": 59,
-  "2023-01-26": 59,
-  "2023-01-27": 59,
-  "2023-01-28": 59,
-  "2023-01-29": 59,
-  "2023-01-30": 59,
-  "2023-01-31": 59,
-  "2023-02-01": 59,
-  "2023-02-02": 59,
-  "2023-02-03": 59,
-  "2023-02-04": 59,
-  "2023-02-05": 59,
-  "2023-02-06": 59,
-  "2023-02-07": 59,
-  "2023-02-08": 59,
-  "2023-02-09": 59,
-  "2023-02-10": 59,
-  "2023-02-11": 59,
-  "2023-02-12": 59,
-  "2023-02-13": 59,
-  "2023-02-14": 59,
-  "2023-02-15": 59,
-  "2023-02-16": 59,
-  "2023-02-17": 59,
-  "2023-02-18": 59,
-  "2023-02-19": 59,
-  "2023-02-20": 59,
-  "2023-02-21": 59,
-  "2023-02-22": 59,
-  "2023-02-23": 59,
-  "2023-02-24": 59,
-  "2023-02-25": 59,
-  "2023-02-26": 59,
-  "2023-02-27": 58,
-  "2023-02-28": 58,
-  "2023-03-01": 58,
-  "2023-03-02": 58,
-  "2023-03-03": 58,
-  "2023-03-04": 58,
-  "2023-03-05": 58,
-  "2023-03-06": 58,
-  "2023-03-07": 58,
-  "2023-03-08": 58,
-  "2023-03-09": 58,
-  "2023-03-10": 58,
-  "2023-03-11": 58,
-  "2023-03-12": 58,
-  "2023-03-13": 58,
-  "2023-03-14": 58,
-  "2023-03-15": 58,
-  "2023-03-16": 58,
-  "2023-03-17": 58,
-  "2023-03-18": 58,
-  "2023-03-19": 58,
-  "2023-03-20": 58,
-  "2023-03-21": 58,
-  "2023-03-22": 58,
-  "2023-03-23": 58,
-  "2023-03-24": 58,
-  "2023-03-25": 58,
-  "2023-03-26": 58,
-  "2023-03-27": 58,
-  "2023-03-28": 58,
-  "2023-03-29": 58,
-  "2023-03-30": 58,
-  "2023-03-31": 58,
-  "2023-04-01": 58,
-  "2023-04-02": 58,
-  "2023-04-03": 58,
-  "2023-04-04": 58,
-  "2023-04-05": 58,
-  "2023-04-06": 58,
-  "2023-04-07": 58,
-  "2023-04-09": 58,
-  "2023-04-10": 58,
-  "2023-04-11": 58,
-  "2023-04-12": 58,
-  "2023-04-13": 58,
-  "2023-04-14": 58,
-  "2023-04-15": 58,
-  "2023-04-16": 58,
-  "2023-04-17": 58,
-  "2023-04-18": 58,
-  "2023-04-19": 58,
-  "2023-04-20": 58,
-  "2023-04-21": 58,
-  "2023-04-22": 58,
-  "2023-04-23": 58,
-  "2023-04-24": 58,
-  "2023-04-25": 58,
-  "2023-04-26": 58,
-  "2023-04-27": 58,
-  "2023-04-28": 58,
-  "2023-04-29": 58,
-  "2023-04-30": 58,
-  "2023-05-01": 58,
-  "2023-05-02": 58,
-  "2023-05-03": 58,
-  "2023-05-04": 58,
-  "2023-05-05": 58,
-  "2023-05-06": 58,
-  "2023-05-07": 58,
-  "2023-05-08": 58,
-  "2023-05-09": 58,
-  "2023-05-10": 58,
-  "2023-05-11": 58,
-  "2023-05-12": 58,
-  "2023-05-13": 58,
-  "2023-05-14": 58,
-  "2023-05-15": 58,
-  "2023-05-16": 58,
-  "2023-05-17": 58,
-  "2023-05-18": 58,
-  "2023-05-19": 58,
-  "2023-05-20": 58,
-  "2023-05-21": 58,
-  "2023-05-22": 58,
-  "2023-05-23": 58,
-  "2023-05-24": 58,
-  "2023-05-25": 58,
-  "2023-05-26": 58,
-  "2023-05-27": 58,
-  "2023-05-28": 58,
-  "2023-05-29": 58,
-  "2023-05-30": 58,
-  "2023-05-31": 58,
-  "2023-06-01": 58,
-  "2023-06-02": 58,
-  "2023-06-03": 58,
-  "2023-06-04": 58,
-  "2023-06-05": 58,
-  "2023-06-06": 58,
-  "2023-06-07": 58,
-  "2023-06-08": 58,
-  "2023-06-09": 58,
-  "2023-06-10": 58,
-  "2023-06-11": 58,
-  "2023-06-12": 58,
-  "2023-06-13": 58,
-  "2023-06-14": 58,
-  "2023-06-15": 58,
-  "2023-06-16": 58,
-  "2023-06-17": 58,
-  "2023-06-18": 58,
-  "2023-06-19": 58,
-  "2023-06-20": 58,
-  "2023-06-21": 58,
-  "2023-06-22": 58,
-  "2023-06-23": 58,
-  "2023-06-24": 58,
-  "2023-06-25": 58,
-  "2023-06-26": 58,
-  "2023-06-27": 59,
-  "2023-06-28": 59,
-  "2023-06-29": 59,
-  "2023-06-30": 59,
-  "2023-07-01": 59,
-  "2023-07-02": 59,
-  "2023-07-03": 59,
-  "2023-07-04": 59,
-  "2023-07-05": 59,
-  "2023-07-06": 59,
-  "2023-07-07": 59,
-  "2023-07-08": 59,
-  "2023-07-09": 58,
-  "2023-07-10": 58,
-  "2023-07-11": 58,
-  "2023-07-12": 58,
-  "2023-07-13": 58,
-  "2023-07-14": 58,
-  "2023-07-15": 58,
-  "2023-07-16": 58,
-  "2023-07-17": 58,
-  "2023-07-18": 58,
-  "2023-07-19": 58,
-  "2023-07-20": 58,
-  "2023-07-21": 58,
-  "2023-07-22": 58,
-  "2023-07-23": 58,
-  "2023-07-24": 58,
-  "2023-07-25": 58,
-  "2023-07-26": 58,
-  "2023-07-27": 58,
-  "2023-07-28": 58,
-  "2023-07-29": 58,
-  "2023-07-30": 58,
-  "2023-07-31": 58,
-  "2023-08-01": 58,
-  "2023-08-02": 58,
-  "2023-08-03": 58,
-  "2023-08-04": 58,
-  "2023-08-05": 58,
-  "2023-08-06": 58,
-  "2023-08-07": 58,
-  "2023-08-08": 58,
-  "2023-08-09": 58,
-  "2023-08-10": 58,
-  "2023-08-11": 58,
-  "2023-08-12": 58,
-  "2023-08-13": 58,
-  "2023-08-14": 58,
-  "2023-08-15": 58,
-  "2023-08-16": 58,
-  "2023-08-17": 58,
-  "2023-08-18": 58,
-  "2023-08-19": 58,
-  "2023-08-20": 58,
-  "2023-08-21": 58,
-  "2023-08-22": 58,
-  "2023-08-23": 58,
-  "2023-08-24": 58,
-  "2023-08-25": 58,
-  "2023-08-26": 58,
-  "2023-08-27": 58,
-  "2023-08-28": 58,
-  "2023-08-29": 58,
-  "2023-08-30": 58,
-  "2023-08-31": 58,
-  "2023-09-01": 58,
-  "2023-09-02": 58,
-  "2023-09-03": 58,
-  "2023-09-04": 58,
-  "2023-09-05": 58,
-  "2023-09-06": 58,
-  "2023-09-07": 58,
-  "2023-09-08": 58,
-  "2023-09-09": 58,
-  "2023-09-10": 58,
-  "2023-09-11": 58,
-  "2023-09-12": 58,
-  "2023-09-13": 58,
-  "2023-09-14": 58,
-  "2023-09-15": 58,
-  "2023-09-16": 58,
-  "2023-09-17": 58,
-  "2023-09-18": 58,
-  "2023-09-19": 58,
-  "2023-09-20": 58,
-  "2023-09-21": 58,
-  "2023-09-22": 58,
-  "2023-09-23": 58,
-  "2023-09-24": 58,
-  "2023-09-25": 58,
-  "2023-09-26": 58,
-  "2023-09-27": 58,
-  "2023-09-28": 58,
-  "2023-09-29": 58,
-  "2023-09-30": 58,
-  "2023-10-01": 58,
-  "2023-10-02": 58,
-  "2023-10-03": 58,
-  "2023-10-04": 58,
-  "2023-10-05": 58,
-  "2023-10-06": 58,
-  "2023-10-07": 58,
-  "2023-10-08": 58,
-  "2023-10-09": 58,
-  "2023-10-10": 58,
-  "2023-10-11": 58,
-  "2023-10-12": 58,
-  "2023-10-13": 58,
-  "2023-10-14": 58,
-  "2023-10-15": 58,
-  "2023-10-16": 58,
-  "2023-10-17": 58,
-  "2023-10-18": 58,
-  "2023-10-19": 58,
-  "2023-10-20": 58,
-  "2023-10-21": 58,
-  "2023-10-22": 58,
-  "2023-10-23": 58,
-  "2023-10-24": 58,
-  "2023-10-25": 58,
-  "2023-10-26": 58,
-  "2023-10-27": 58,
-  "2023-10-28": 58,
-  "2023-10-29": 58,
-  "2023-10-30": 58,
-  "2023-10-31": 58,
-  "2023-11-01": 58,
-  "2023-11-02": 58,
-  "2023-11-03": 58,
-  "2023-11-04": 58,
-  "2023-11-05": 58,
-  "2023-11-06": 58,
-  "2023-11-07": 58,
-  "2023-11-08": 58,
-  "2023-11-09": 58,
-  "2023-11-10": 58,
-  "2023-11-11": 58,
-  "2023-11-12": 58,
-  "2023-11-13": 58,
-  "2023-11-14": 58,
-  "2023-11-15": 58,
-  "2023-11-16": 58,
-  "2023-11-17": 58,
-  "2023-11-18": 58,
-  "2023-11-19": 58,
-  "2023-11-20": 58,
-  "2023-11-21": 58,
-  "2023-11-22": 58,
-  "2023-11-23": 58,
-  "2023-11-24": 58,
-  "2023-11-25": 58,
-  "2023-11-26": 58,
-  "2023-11-27": 58,
-  "2023-11-28": 58,
-  "2023-11-29": 58,
-  "2023-11-30": 58,
-  "2023-12-01": 58,
-  "2023-12-02": 58,
-  "2023-12-03": 58,
-  "2023-12-04": 58,
-  "2023-12-05": 58,
-  "2023-12-06": 58,
-  "2023-12-07": 58,
-  "2023-12-08": 58,
-  "2023-12-09": 58,
-  "2023-12-10": 58,
-  "2023-12-11": 58,
-  "2023-12-12": 58,
-  "2023-12-13": 58,
-  "2023-12-14": 58,
-  "2023-12-15": 58,
-  "2023-12-16": 58,
-  "2023-12-17": 58,
-  "2023-12-18": 58,
-  "2023-12-19": 58,
-  "2023-12-20": 58,
-  "2023-12-21": 58,
-  "2023-12-22": 58,
-  "2023-12-23": 58,
-  "2023-12-24": 58,
-  "2023-12-25": 58,
-  "2023-12-26": 58,
-  "2023-12-27": 58,
-  "2023-12-30": 58,
-  "2023-12-31": 58,
-  "2024-01-01": 58,
-  "2024-01-02": 58,
-  "2024-01-03": 58
+  "2024-01-17": 58,
+  "date_first_scraped": "2021-12-21",
+  "description": "Get your sparklers out for this patriotic blend of folk, pop, and Americana.",
+  "name": "Red, White, & Blue",
+  "tracks": [
+    {
+      "album": {
+        "name": "Life In A Beautiful Light",
+        "url": "https://open.spotify.com/album/4BiyiLfkSO75Rk5mFP9Cmj"
+      },
+      "artists": [
+        {
+          "name": "Amy Macdonald",
+          "url": "https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "4th Of July",
+      "url": "https://open.spotify.com/track/2Q7RfKKC6kqTZIWqauOiAO"
+    },
+    {
+      "album": {
+        "name": "Azure Ray",
+        "url": "https://open.spotify.com/album/6e0ra7uS8RYB8yGXfgHCLV"
+      },
+      "artists": [
+        {
+          "name": "Azure Ray",
+          "url": "https://open.spotify.com/artist/70UZ254VvtSUmrfqPOkUQZ"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253880,
+      "name": "4th Of July",
+      "url": "https://open.spotify.com/track/75bBN2iQbyuxQMlnC0LgDA"
+    },
+    {
+      "album": {
+        "name": "Glassjaw Boxer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2iqDeyU2LvCWJafbp5kXuq"
+      },
+      "artists": [
+        {
+          "name": "Stephen Kellogg and The Sixers",
+          "url": "https://open.spotify.com/artist/2kfXeO854BtcQr4Rjdxopq"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303533,
+      "name": "4th of July",
+      "url": "https://open.spotify.com/track/3iOlPT9wmyI15jxI6ODtT7"
+    },
+    {
+      "album": {
+        "name": "The Essential Bruce Springsteen",
+        "url": "https://open.spotify.com/album/56JtQFrVKdKT70rkKligWx"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334960,
+      "name": "4th of July, Asbury Park (Sandy)",
+      "url": "https://open.spotify.com/track/1gBGk4yWvTFbMykg8tYFPu"
+    },
+    {
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+    },
+    {
+      "album": {
+        "name": "Ray Charles Forever (International Version)",
+        "url": "https://open.spotify.com/album/1J56P63eoGNMCRkqAKOOfI"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215266,
+      "name": "America The Beautiful",
+      "url": "https://open.spotify.com/track/6kT2T4pofQmT4dOlg3Ki3B"
+    },
+    {
+      "album": {
+        "name": "America the Beautiful",
+        "url": "https://open.spotify.com/album/3C7kWa7ysRTN2LCN3AUPlJ"
+      },
+      "artists": [
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "America the Beautiful - Single Version",
+      "url": "https://open.spotify.com/track/5hYtQrZ1FNsfAWKA52x7Pv"
+    },
+    {
+      "album": {
+        "name": "The Henningsens EP",
+        "url": "https://open.spotify.com/album/3fjG7RLYNlXu3xzeoWhbZ0"
+      },
+      "artists": [
+        {
+          "name": "The Henningsens",
+          "url": "https://open.spotify.com/artist/5I94i3AXDxFsSCyRuSn7fN"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187400,
+      "name": "American Beautiful",
+      "url": "https://open.spotify.com/track/6C1BUMo3Eq3Xudv2Oo2CLr"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "album": {
+        "name": "The Best Of Don McLean",
+        "url": "https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl"
+      },
+      "artists": [
+        {
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515866,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177253,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/1yWIsH3TC51gmzvQxZNCQC"
+    },
+    {
+      "album": {
+        "name": "Born and Raised",
+        "url": "https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287640,
+      "name": "Born and Raised",
+      "url": "https://open.spotify.com/track/5RYTpsSI7op7UZznXWqhIP"
+    },
+    {
+      "album": {
+        "name": "The Stray Birds",
+        "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
+      },
+      "artists": [
+        {
+          "name": "The Stray Birds",
+          "url": "https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212026,
+      "name": "Dream in Blue",
+      "url": "https://open.spotify.com/track/1Bx9I2NyzUpTfmpAQ4BSsR"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/09KwsYdqoZUsa01p0XeBVc"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/16fqu9m0E5Q4zj7nGX3Zw3"
+      },
+      "artists": [
+        {
+          "name": "little hurricane",
+          "url": "https://open.spotify.com/artist/5VLQQzAkJrzG7QggE4DVg2"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173912,
+      "name": "Fourth of July",
+      "url": "https://open.spotify.com/track/5itGqFh4FDMR3DWy7NVnoy"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/467Cag6qid9mjW2hpnIcFi"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206093,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/2jOkuPweyFcDBBBF8ZW8Zr"
+    },
+    {
+      "album": {
+        "name": "Castaways and Cutouts",
+        "url": "https://open.spotify.com/album/1RFOcMeZN0jGQaiQMDq03d"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "July, July!",
+      "url": "https://open.spotify.com/track/3d0ddFenVBA6BM2FVgXui2"
+    },
+    {
+      "album": {
+        "name": "Joe Cocker Live",
+        "url": "https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235333,
+      "name": "Living in the Promiseland - Studio Version",
+      "url": "https://open.spotify.com/track/3Gr7HzuSFixGO9yu3JPV95"
+    },
+    {
+      "album": {
+        "name": "Amager",
+        "url": "https://open.spotify.com/album/3aII2t6pfNhJ22sEjv3BH2"
+      },
+      "artists": [
+        {
+          "name": "Owen Beverly",
+          "url": "https://open.spotify.com/artist/7IZjS3UFzJXELrFHmm1KY7"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214549,
+      "name": "Memphis",
+      "url": "https://open.spotify.com/track/4xudlsuRtMniLiIo8Niz21"
+    },
+    {
+      "album": {
+        "name": "Dailey & Vincent",
+        "url": "https://open.spotify.com/album/129cAysAJmLng6ea36MnZt"
+      },
+      "artists": [
+        {
+          "name": "Dailey & Vincent",
+          "url": "https://open.spotify.com/artist/7xmd7RPLO292xIiLMAryFQ"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "More Than A Name On A Wall",
+      "url": "https://open.spotify.com/track/0CBHDqW28m2bgLZgn5rdaz"
+    },
+    {
+      "album": {
+        "name": "The Traveler",
+        "url": "https://open.spotify.com/album/2Xeip0bVZmM1Sl3Kpzmqmn"
+      },
+      "artists": [
+        {
+          "name": "Rhett Miller",
+          "url": "https://open.spotify.com/artist/0wNZd1CMOsFZ0TiBhlqjD5"
+        },
+        {
+          "name": "Black Prairie",
+          "url": "https://open.spotify.com/artist/4PretOrtWokXIsit7OIdE6"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283853,
+      "name": "Most In The Summertime",
+      "url": "https://open.spotify.com/track/17e6eQZnVQBwxb1Si76Qia"
+    },
+    {
+      "album": {
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/6x2NCb7pmiy7ilUkljFa0a"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "O' Be Joyful",
+      "url": "https://open.spotify.com/track/52DJC2MveddW31Cmod6mZI"
+    },
+    {
+      "album": {
+        "name": "October Road",
+        "url": "https://open.spotify.com/album/1RagGTGv9pNO0Br5tnYGw4"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "On the 4th of July",
+      "url": "https://open.spotify.com/track/3eqztzo6sbW2FfvvoaBXLC"
+    },
+    {
+      "album": {
+        "name": "Proud To Be An American",
+        "url": "https://open.spotify.com/album/6LvTkhsKHuUDVEAAAzonjc"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Proud To Be An American",
+      "url": "https://open.spotify.com/track/3et3j6KftpSIuUzFc519Lc"
+    },
+    {
+      "album": {
+        "name": "The Essential Johnny Cash",
+        "url": "https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Ragged Old Flag",
+      "url": "https://open.spotify.com/track/42JBWGJDZT7RAH7sLPKkcs"
+    },
+    {
+      "album": {
+        "name": "Red & White & Blue & Gold - Single",
+        "url": "https://open.spotify.com/album/1B21TAjmOdcbmzSW1dLi1H"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200893,
+      "name": "Red & White & Blue & Gold",
+      "url": "https://open.spotify.com/track/2pig2RkSChszmB8bo9FK3h"
+    },
+    {
+      "album": {
+        "name": "Live From Freedom Hall",
+        "url": "https://open.spotify.com/album/5KRzGXt8abnjU7cIBNJTgs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339013,
+      "name": "Red White And Blue - Live At Freedom Hall",
+      "url": "https://open.spotify.com/track/5NmTELHdQXnkacCBBc7Bwm"
+    },
+    {
+      "album": {
+        "name": "Born Ready",
+        "url": "https://open.spotify.com/album/1v9U7r1NLpqNmJSMEfDhUq"
+      },
+      "artists": [
+        {
+          "name": "Moccasin Creek",
+          "url": "https://open.spotify.com/artist/0NbK6zi0udNSXMzL7Ekq5T"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260363,
+      "name": "Red White And Blue Collared Man",
+      "url": "https://open.spotify.com/track/2YPXTEIiiBFXsLhRuIqwnV"
+    },
+    {
+      "album": {
+        "name": "Some Gave All",
+        "url": "https://open.spotify.com/album/2zogcp4VrnS3aTKPZZAyKf"
+      },
+      "artists": [
+        {
+          "name": "Billy Ray Cyrus",
+          "url": "https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Some Gave All",
+      "url": "https://open.spotify.com/track/048V6nc4D0ep96g2aZKdqT"
+    },
+    {
+      "album": {
+        "name": "Freedom: Songs From The Heart Of America",
+        "url": "https://open.spotify.com/album/5xutwZfWQvM7cMUkr89ZQP"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191266,
+      "name": "The Times They Are A-Changin'",
+      "url": "https://open.spotify.com/track/3y3jZ5cjDCshuqUFugYzDb"
+    },
+    {
+      "album": {
+        "name": "Somewhere Else",
+        "url": "https://open.spotify.com/album/15UfMA8VC7IxY6z6CbRsMN"
+      },
+      "artists": [
+        {
+          "name": "Lydia Loveless",
+          "url": "https://open.spotify.com/artist/4aZmKktp90vPbhbdgf2fpn"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278826,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/0hUVB9hUuH6qVSzyyT9hQ2"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343496,
+      "name": "Travelin' Soldier",
+      "url": "https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY"
+    },
+    {
+      "album": {
+        "name": "Try For The Sun: The Journey Of Donovan",
+        "url": "https://open.spotify.com/album/6gGWG9h5dS882B1VhMwgxK"
+      },
+      "artists": [
+        {
+          "name": "Donovan",
+          "url": "https://open.spotify.com/artist/6vLlQYujOujIrm7zAKzEdG"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132480,
+      "name": "Universal Soldier",
+      "url": "https://open.spotify.com/track/3xAvt0bm3ZMfidBtBgZ8Ey"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "When The Stars Go Blue",
+      "url": "https://open.spotify.com/track/0nOe9N3bENgpIGpRecUVnZ"
+    },
+    {
+      "album": {
+        "name": "Platinum Country",
+        "url": "https://open.spotify.com/album/31KdAuOmWgeXiOdm8VDYtW"
+      },
+      "artists": [
+        {
+          "name": "Trisha Yearwood",
+          "url": "https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j"
+        }
+      ],
+      "date_added": "2015-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169693,
+      "name": "XXX's And OOO's (An American Girl)",
+      "url": "https://open.spotify.com/track/6UuBildTUZ6GNt4vwxkCZb"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/3kt5kS8Xqjfh8olOS24HX4"
 }

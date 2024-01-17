@@ -612,6 +612,24 @@
     {
       "album": {
         "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/1QOorpfl2WDbirKrMsXG5D"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
         "url": "https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK"
       },
       "artists": [
@@ -684,7 +702,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 229500,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/6hEmaiW6JJFfpbl9xivcmn"
@@ -1820,6 +1838,14 @@
         {
           "name": "Afro Bros",
           "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
         },
         {
           "name": "Akon",

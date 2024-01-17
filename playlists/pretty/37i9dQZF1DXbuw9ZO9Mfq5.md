@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbuw9ZO9Mfq5.md) - [plain]
 
 > Nominated songs & artists for the 54th Annual GMA <a href="https://doveawards.com/">Dove Awards.</a> Tune in to the awards on Friday, 10/20/23 at 8 pm and 10 pm ET exclusively on TBN & the TBN app! Cover: Host <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,765 likes - 70 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,778 likes - 70 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

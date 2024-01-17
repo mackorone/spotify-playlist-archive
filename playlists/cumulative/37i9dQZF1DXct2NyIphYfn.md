@@ -4,7 +4,7 @@
 
 > Some of the most beautiful love songs in French.
 
-180 songs - 11 hr 9 min
+182 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Ecoute mon coeur](https://open.spotify.com/track/3S2SYHTaWB06riIlXKaOjm) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [La Belle Epoque \- EMI's French Girls 1965\-68](https://open.spotify.com/album/5etrwdUj5I4qj9rlGNPJR1) | 3:08 | 2021-01-30 | 2023-01-27 |
 | [Ecoute mon coeur](https://open.spotify.com/track/2bpUzToJJlq6TJ1NH1VD32) | [Ria Bartok](https://open.spotify.com/artist/72a2NwGKFzbqBp88CGkWKO) | [Tu la revois](https://open.spotify.com/album/498DWnPdxp2NhcZcfBLdIM) | 3:10 | 2021-01-30 | 2022-07-29 |
 | [Effeuille\-moi le coeur](https://open.spotify.com/track/1k68669ntnKMiCCNXL7vas) | [Félix Dyotte](https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8), [Kandle](https://open.spotify.com/artist/5ZX240kHNQyr3jC7JphHIH) | [Effeuille\-moi le cœur](https://open.spotify.com/album/6wlgztSzCfeoD3RZsKiSqE) | 2:19 | 2021-01-30 | 2022-07-29 |
+| [Ensemble](https://open.spotify.com/track/55JGh2i5BWxm1vLwcyOEaC) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Aliocha Schneider](https://open.spotify.com/album/5wSrUAHl9x25A4w0wXpJLO) | 3:02 | 2024-01-16 |  |
 | [Escale à Madrid](https://open.spotify.com/track/2SpKEnFdyDWnHs1ZD33Lan) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Objets perdus](https://open.spotify.com/album/23ZdRpke5PxHJYscobdOk9) | 3:40 | 2022-01-18 |  |
 | [Et je t'aime encore](https://open.spotify.com/track/0enVQlLvLZ4zKBk9ugnayG) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [1 fille & 4 types](https://open.spotify.com/album/5j2HOG1RPwjjgioUOWLcS7) | 3:26 | 2021-01-30 | 2022-07-23 |
 | [Et je t'aime encore \- English version](https://open.spotify.com/track/2Fp37ixPar6VZYhFhGaKg5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [One Heart](https://open.spotify.com/album/1H4QtgObVxPXea86RvJgv9) | 3:24 | 2021-01-30 | 2022-11-28 |
@@ -62,7 +63,7 @@
 | [Incendie](https://open.spotify.com/track/0KMs5eKxr4OFrBhryMXerG) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [L'étoile thoracique](https://open.spotify.com/album/7k6AhyoX4FauOohaNc96L9) | 3:38 | 2023-01-26 |  |
 | [Incendie](https://open.spotify.com/track/52i8FlTjU8GCmUf5irJwfu) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [L'étoile thoracique](https://open.spotify.com/album/1ylVhlh4AidAt5T7K653oH) | 3:38 | 2021-01-30 | 2022-07-29 |
 | [INDÉLÉBILE](https://open.spotify.com/track/5Mwwrp4vtCAhExnFFHbwBt) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [INDÉLÉBILE](https://open.spotify.com/album/6SYrm2Ynl39i7bkanjPNVK) | 2:50 | 2022-01-18 | 2023-01-27 |
-| [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 | 2023-01-26 |  |
+| [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 | 2023-01-26 | 2024-01-17 |
 | [J'Attendais](https://open.spotify.com/track/1kMtRnBdN4Cx1QqR7f9Hon) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Original Album Classics](https://open.spotify.com/album/27hmFmkq0MWmPRkZbUSVO1) | 4:23 | 2021-01-30 | 2022-07-29 |
 | [J'attendais](https://open.spotify.com/track/3WjGs9JgOrN3uCX06glf4c) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:23 | 2021-01-30 | 2023-01-27 |
 | [J'aurai cent ans](https://open.spotify.com/track/1lbTcEocbV3CBy4WL6En3B) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Landing](https://open.spotify.com/album/3wsoaba9VUcxW8rMFyIZqt) | 4:52 | 2022-01-18 | 2022-07-29 |
@@ -142,7 +143,7 @@
 | [Oublie Pas](https://open.spotify.com/track/518uaTT6eo2V8n8iuUxmWg) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Le Volume Du Vent](https://open.spotify.com/album/5VZPXsKSKwSCspFMR55ePF) | 3:06 | 2021-01-30 | 2023-01-27 |
 | [Oublie pas](https://open.spotify.com/track/1mDbWDkzeT50OIsGPK5FY8) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Saratoga](https://open.spotify.com/album/5HiUleHNA5jKXSzfoN65OB) | 4:57 | 2021-01-30 | 2022-07-29 |
 | [Parce que c'est toi](https://open.spotify.com/track/2GSdDPQZPIoy0nPSzY7iXr) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [The Songs \(Acoustic\)](https://open.spotify.com/album/7p6VMQCrAaiFiRvg5vnUIJ) | 3:16 | 2021-01-30 | 2023-01-27 |
-| [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 | 2023-01-26 |  |
+| [Parce que c'est toi](https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Toujours moi](https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg) | 4:05 | 2023-01-26 | 2024-01-17 |
 | [Parce que je t’aime](https://open.spotify.com/track/0xVpFwIqVjlcx9QQfl9WvJ) | [Élodie Frégé](https://open.spotify.com/artist/6xexoIU7343bCTpIhrl8Ii) | [Elles & Barbara](https://open.spotify.com/album/1CQ1QD6Cy7By7adVChyHHd) | 5:34 | 2021-01-30 | 2022-07-29 |
 | [Perséides](https://open.spotify.com/track/4Aojnexk0G5xmXZwTpeLWo) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [Tous Les Sens](https://open.spotify.com/album/5OdWPOVpIWOTbgjUx1DkmE) | 5:21 | 2022-01-18 | 2022-07-29 |
 | [Place royale](https://open.spotify.com/track/5nhswhAbtxZoIXcGQqWk8K) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Tokyo](https://open.spotify.com/album/0bMiShtGJ5QjAehkO34ULW) | 4:01 | 2021-01-30 | 2022-07-26 |
@@ -162,6 +163,7 @@
 | [Quelqu'un M'a Dit](https://open.spotify.com/track/2v9AGeylYJq2EjC9vtSr99) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Learn French Thru Music](https://open.spotify.com/album/4cK3pngh0i9tFpolN7U3cA) | 2:43 | 2021-01-30 | 2023-01-27 |
 | [Rejoins\-moi](https://open.spotify.com/track/2VrgAhXn2KCUQNpqrPZFkP) | [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Windigo](https://open.spotify.com/album/0YwzrRs4FOfN4guieBQ4lh) | 4:07 | 2021-01-30 | 2022-07-29 |
 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 | 2023-01-26 |  |
+| [S'aimer plus fort](https://open.spotify.com/track/6NYjqmd0a3CZJZyJfty7Pv) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [On ira](https://open.spotify.com/album/1g67KJ5aDutnK0IeWniWKQ) | 2:36 | 2024-01-16 |  |
 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 | 2021-01-30 | 2023-01-27 |
 | [S'il suffisait d'aimer](https://open.spotify.com/track/5EfmjmEwrhmgbJl9uhGQ5J) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [S'il suffisait d'aimer](https://open.spotify.com/album/1X2v1Dop5LI9cGbLlD0arE) | 4:23 | 2021-01-30 | 2022-07-18 |
 | [Savoir aimer](https://open.spotify.com/track/0x8GIrcAO8msuslNoTKIXM) | [Florent Pagny](https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9) | [Savoir Aimer](https://open.spotify.com/album/6f6O9rhUAlFv9y18O2AZ0p) | 4:41 | 2021-01-30 | 2023-01-27 |

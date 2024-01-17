@@ -1,356 +1,921 @@
 {
-  "2023-01-12": 8,
-  "2023-01-13": 20,
-  "2023-01-14": 44,
-  "2023-01-15": 48,
-  "2023-01-16": 53,
-  "2023-01-17": 60,
-  "2023-01-18": 68,
-  "2023-01-19": 77,
-  "2023-01-20": 82,
-  "2023-01-21": 690,
-  "2023-01-22": 1513,
-  "2023-01-23": 2012,
-  "2023-01-24": 2239,
-  "2023-01-25": 2261,
-  "2023-01-26": 2272,
-  "2023-01-27": 2285,
-  "2023-01-28": 2294,
-  "2023-01-29": 2309,
-  "2023-01-30": 2323,
-  "2023-01-31": 2323,
-  "2023-02-01": 2341,
-  "2023-02-02": 2352,
-  "2023-02-03": 2355,
-  "2023-02-04": 2365,
-  "2023-02-05": 2377,
-  "2023-02-06": 2387,
-  "2023-02-07": 2394,
-  "2023-02-08": 2407,
-  "2023-02-09": 2407,
-  "2023-02-10": 2418,
-  "2023-02-11": 2427,
-  "2023-02-12": 2447,
-  "2023-02-13": 2459,
-  "2023-02-14": 2459,
-  "2023-02-15": 2460,
-  "2023-02-16": 2469,
-  "2023-02-17": 2475,
-  "2023-02-18": 2485,
-  "2023-02-19": 2490,
-  "2023-02-20": 2502,
-  "2023-02-21": 2511,
-  "2023-02-22": 2519,
-  "2023-02-23": 2524,
-  "2023-02-24": 2530,
-  "2023-02-25": 2541,
-  "2023-02-26": 2549,
-  "2023-02-27": 2579,
-  "2023-02-28": 2579,
-  "2023-03-01": 2586,
-  "2023-03-02": 2595,
-  "2023-03-03": 2609,
-  "2023-03-04": 2612,
-  "2023-03-05": 2638,
-  "2023-03-06": 2638,
-  "2023-03-07": 2643,
-  "2023-03-08": 2648,
-  "2023-03-09": 2664,
-  "2023-03-10": 2671,
-  "2023-03-11": 2676,
-  "2023-03-12": 2686,
-  "2023-03-13": 2695,
-  "2023-03-14": 2701,
-  "2023-03-15": 2710,
-  "2023-03-16": 2722,
-  "2023-03-17": 2722,
-  "2023-03-18": 2740,
-  "2023-03-19": 2749,
-  "2023-03-20": 2758,
-  "2023-03-21": 2763,
-  "2023-03-22": 2766,
-  "2023-03-23": 2771,
-  "2023-03-24": 2771,
-  "2023-03-25": 2776,
-  "2023-03-26": 2778,
-  "2023-03-27": 2784,
-  "2023-03-28": 2785,
-  "2023-03-29": 2791,
-  "2023-03-30": 2792,
-  "2023-03-31": 2792,
-  "2023-04-01": 2796,
-  "2023-04-02": 2799,
-  "2023-04-03": 2799,
-  "2023-04-04": 2804,
-  "2023-04-05": 2807,
-  "2023-04-06": 2810,
-  "2023-04-07": 2811,
-  "2023-04-09": 2824,
-  "2023-04-10": 2824,
-  "2023-04-11": 2838,
-  "2023-04-12": 2838,
-  "2023-04-13": 2842,
-  "2023-04-14": 2844,
-  "2023-04-15": 2846,
-  "2023-04-16": 2849,
-  "2023-04-17": 2853,
-  "2023-04-18": 2857,
-  "2023-04-19": 2858,
-  "2023-04-20": 2858,
-  "2023-04-21": 2862,
-  "2023-04-22": 2868,
-  "2023-04-23": 2874,
-  "2023-04-24": 2877,
-  "2023-04-25": 2884,
-  "2023-04-26": 2887,
-  "2023-04-27": 2884,
-  "2023-04-28": 2884,
-  "2023-04-29": 2885,
-  "2023-04-30": 2888,
-  "2023-05-01": 2889,
-  "2023-05-02": 2891,
-  "2023-05-03": 2893,
-  "2023-05-04": 2895,
-  "2023-05-05": 2899,
-  "2023-05-06": 2904,
-  "2023-05-07": 2905,
-  "2023-05-08": 2909,
-  "2023-05-09": 2910,
-  "2023-05-10": 2912,
-  "2023-05-11": 2911,
-  "2023-05-12": 2915,
-  "2023-05-13": 2917,
-  "2023-05-14": 2920,
-  "2023-05-15": 2921,
-  "2023-05-16": 2923,
-  "2023-05-17": 2925,
-  "2023-05-18": 2927,
-  "2023-05-19": 2931,
-  "2023-05-20": 2938,
-  "2023-05-21": 2938,
-  "2023-05-22": 2938,
-  "2023-05-23": 2944,
-  "2023-05-24": 2948,
-  "2023-05-25": 2948,
-  "2023-05-26": 2950,
-  "2023-05-27": 2951,
-  "2023-05-28": 2952,
-  "2023-05-29": 2952,
-  "2023-05-30": 2957,
-  "2023-05-31": 2958,
-  "2023-06-01": 2957,
-  "2023-06-02": 2955,
-  "2023-06-03": 2960,
-  "2023-06-04": 2971,
-  "2023-06-05": 2977,
-  "2023-06-06": 2987,
-  "2023-06-07": 2990,
-  "2023-06-08": 2996,
-  "2023-06-09": 3003,
-  "2023-06-10": 3007,
-  "2023-06-11": 3014,
-  "2023-06-12": 3023,
-  "2023-06-13": 3025,
-  "2023-06-14": 3027,
-  "2023-06-15": 3035,
-  "2023-06-16": 3033,
-  "2023-06-17": 3038,
-  "2023-06-18": 3042,
-  "2023-06-19": 3043,
-  "2023-06-20": 3049,
-  "2023-06-21": 3050,
-  "2023-06-22": 3052,
-  "2023-06-23": 3054,
-  "2023-06-24": 3057,
-  "2023-06-25": 3062,
-  "2023-06-26": 3065,
-  "2023-06-27": 3070,
-  "2023-06-28": 3077,
-  "2023-06-29": 3079,
-  "2023-06-30": 3081,
-  "2023-07-01": 3092,
-  "2023-07-02": 3092,
-  "2023-07-03": 3095,
-  "2023-07-04": 3102,
-  "2023-07-05": 3107,
-  "2023-07-06": 3106,
-  "2023-07-07": 3106,
-  "2023-07-08": 3108,
-  "2023-07-09": 3105,
-  "2023-07-10": 3107,
-  "2023-07-11": 3107,
-  "2023-07-12": 3108,
-  "2023-07-13": 3109,
-  "2023-07-14": 3109,
-  "2023-07-15": 3110,
-  "2023-07-16": 3117,
-  "2023-07-17": 3118,
-  "2023-07-18": 3124,
-  "2023-07-19": 3124,
-  "2023-07-20": 3129,
-  "2023-07-21": 3133,
-  "2023-07-22": 3135,
-  "2023-07-23": 3139,
-  "2023-07-24": 3142,
-  "2023-07-25": 3145,
-  "2023-07-26": 3145,
-  "2023-07-27": 3142,
-  "2023-07-28": 3140,
-  "2023-07-29": 3143,
-  "2023-07-30": 3148,
-  "2023-07-31": 3149,
-  "2023-08-01": 3153,
-  "2023-08-02": 3152,
-  "2023-08-03": 3154,
-  "2023-08-04": 3156,
-  "2023-08-05": 3157,
-  "2023-08-06": 3158,
-  "2023-08-07": 3158,
-  "2023-08-08": 3160,
-  "2023-08-09": 3162,
-  "2023-08-10": 3158,
-  "2023-08-11": 3160,
-  "2023-08-12": 3164,
-  "2023-08-13": 3169,
-  "2023-08-14": 3169,
-  "2023-08-15": 3173,
-  "2023-08-16": 3173,
-  "2023-08-17": 3174,
-  "2023-08-18": 3173,
-  "2023-08-19": 3174,
-  "2023-08-20": 3173,
-  "2023-08-21": 3171,
-  "2023-08-22": 3175,
-  "2023-08-23": 3177,
-  "2023-08-24": 3177,
-  "2023-08-25": 3181,
-  "2023-08-26": 3186,
-  "2023-08-27": 3186,
-  "2023-08-28": 3186,
-  "2023-08-29": 3188,
-  "2023-08-30": 3188,
-  "2023-08-31": 3191,
-  "2023-09-01": 3196,
-  "2023-09-02": 3196,
-  "2023-09-03": 3197,
-  "2023-09-04": 3199,
-  "2023-09-05": 3201,
-  "2023-09-06": 3200,
-  "2023-09-07": 3200,
-  "2023-09-08": 3203,
-  "2023-09-09": 3205,
-  "2023-09-10": 3205,
-  "2023-09-11": 3204,
-  "2023-09-12": 3203,
-  "2023-09-13": 3206,
-  "2023-09-14": 3208,
-  "2023-09-15": 3209,
-  "2023-09-16": 3208,
-  "2023-09-17": 3210,
-  "2023-09-18": 3211,
-  "2023-09-19": 3210,
-  "2023-09-20": 3208,
-  "2023-09-21": 3211,
-  "2023-09-22": 3213,
-  "2023-09-23": 3216,
-  "2023-09-24": 3217,
-  "2023-09-25": 3218,
-  "2023-09-26": 3219,
-  "2023-09-27": 3223,
-  "2023-09-28": 3224,
-  "2023-09-29": 3225,
-  "2023-09-30": 3226,
-  "2023-10-01": 3226,
-  "2023-10-02": 3228,
-  "2023-10-03": 3230,
-  "2023-10-04": 3233,
-  "2023-10-05": 3236,
-  "2023-10-06": 3238,
-  "2023-10-07": 3236,
-  "2023-10-08": 3236,
-  "2023-10-09": 3238,
-  "2023-10-10": 3240,
-  "2023-10-11": 3242,
-  "2023-10-12": 3242,
-  "2023-10-13": 3244,
-  "2023-10-14": 3245,
-  "2023-10-15": 3246,
-  "2023-10-16": 3249,
-  "2023-10-17": 3248,
-  "2023-10-18": 3249,
-  "2023-10-19": 3250,
-  "2023-10-20": 3251,
-  "2023-10-21": 3250,
-  "2023-10-22": 3250,
-  "2023-10-23": 3250,
-  "2023-10-24": 3251,
-  "2023-10-25": 3253,
-  "2023-10-26": 3254,
-  "2023-10-27": 3254,
-  "2023-10-28": 3253,
-  "2023-10-29": 3253,
-  "2023-10-30": 3250,
-  "2023-10-31": 3250,
-  "2023-11-01": 3251,
-  "2023-11-02": 3249,
-  "2023-11-03": 3251,
-  "2023-11-04": 3252,
-  "2023-11-05": 3254,
-  "2023-11-06": 3256,
-  "2023-11-07": 3258,
-  "2023-11-08": 3258,
-  "2023-11-09": 3260,
-  "2023-11-10": 3263,
-  "2023-11-11": 3262,
-  "2023-11-12": 3261,
-  "2023-11-13": 3261,
-  "2023-11-14": 3259,
-  "2023-11-15": 3259,
-  "2023-11-16": 3258,
-  "2023-11-17": 3260,
-  "2023-11-18": 3260,
-  "2023-11-19": 3259,
-  "2023-11-20": 3260,
-  "2023-11-21": 3263,
-  "2023-11-22": 3264,
-  "2023-11-23": 3265,
-  "2023-11-24": 3267,
-  "2023-11-25": 3266,
-  "2023-11-26": 3267,
-  "2023-11-27": 3267,
-  "2023-11-28": 3266,
-  "2023-11-29": 3268,
-  "2023-11-30": 3268,
-  "2023-12-01": 3267,
-  "2023-12-02": 3268,
-  "2023-12-03": 3268,
-  "2023-12-04": 3269,
-  "2023-12-05": 3271,
-  "2023-12-06": 3273,
-  "2023-12-07": 3274,
-  "2023-12-08": 3273,
-  "2023-12-09": 3273,
-  "2023-12-10": 3275,
-  "2023-12-11": 3275,
-  "2023-12-12": 3277,
-  "2023-12-13": 3278,
-  "2023-12-14": 3278,
-  "2023-12-15": 3277,
-  "2023-12-16": 3277,
-  "2023-12-17": 3280,
-  "2023-12-18": 3284,
-  "2023-12-19": 3282,
-  "2023-12-20": 3284,
-  "2023-12-21": 3286,
-  "2023-12-22": 3288,
-  "2023-12-23": 3287,
-  "2023-12-24": 3286,
-  "2023-12-25": 3286,
-  "2023-12-26": 3287,
-  "2023-12-27": 3288,
-  "2023-12-30": 3294,
-  "2023-12-31": 3290,
-  "2024-01-01": 3290,
-  "2024-01-02": 3293,
-  "2024-01-03": 3296
+  "2024-01-17": 3294,
+  "date_first_scraped": "2023-01-12",
+  "description": "Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency. (JTBC \ub4dc\ub77c\ub9c8 \ub300\ud589\uc0ac\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! \ubc30\uc6b0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uace1\ud55c \ub178\ub798\ub4e4\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc640 \ud074\ub9bd\uc2a4\ub97c \ud1b5\ud574 \ud655\uc778\ud574\ubcf4\uc138\uc694!)",
+  "name": "\ub300\ud589\uc0ac(Agency)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/75dMjDJSRQH0AP4rJuOqfC"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/7DpuEOoeJE6xfMpwVXERHV"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "date_added": "2023-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Alarm - Instrumental",
+      "url": "https://open.spotify.com/track/3iesiARYwUmdBJuRfI5RQu"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/7FGPGfAE8nIov4LhDgKwQa"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 203413,
+      "name": "Batshit",
+      "url": "https://open.spotify.com/track/07wiTRlnyYjxGkYvORTdiV"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/6JMqFQYi82ybVJalF7tb3W"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203413,
+      "name": "Batshit",
+      "url": "https://open.spotify.com/track/398W8M7yOg2MuZJnlzrRS5"
+    },
+    {
+      "album": {
+        "name": "Bikini Bottom",
+        "url": "https://open.spotify.com/album/2n38ZBBmPSssEGGPgu6NPl"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106666,
+      "name": "Bikini Bottom",
+      "url": "https://open.spotify.com/track/27Qz0cFmMGADsniMeUwyUe"
+    },
+    {
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v"
+      },
+      "artists": [
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        },
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196507,
+      "name": "Closer (with Paul Blanco, Mahalia)",
+      "url": "https://open.spotify.com/track/0Cuwd86fyu0lPVokzTp8Hu"
+    },
+    {
+      "album": {
+        "name": "come out and play",
+        "url": "https://open.spotify.com/album/0ifM8RTX9HjtCJtY9452bW"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210375,
+      "name": "come out and play",
+      "url": "https://open.spotify.com/track/7wC5eZcFS1Q1BsQ35DU6H4"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "Don't Say",
+      "url": "https://open.spotify.com/track/7EiIUTTNl88ZJ4G1042Xzy"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 1)",
+        "url": "https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174759,
+      "name": "Don't Say - Instrumental",
+      "url": "https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9"
+    },
+    {
+      "album": {
+        "name": "1000 Forms Of Fear (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400253,
+      "name": "Dressed In Black",
+      "url": "https://open.spotify.com/track/6ae0TVkpnFvn0dz4zIVlyd"
+    },
+    {
+      "album": {
+        "name": "Escapism.",
+        "url": "https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz"
+    },
+    {
+      "album": {
+        "name": "Escapism. (Sped Up)",
+        "url": "https://open.spotify.com/album/1bdKI997loh6G68NED2cwX"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 239888,
+      "name": "Escapism. - Sped Up",
+      "url": "https://open.spotify.com/track/4rPJSqrov3zqGwXlemLBMw"
+    },
+    {
+      "album": {
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127780,
+      "name": "i'm yours sped up",
+      "url": "https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE"
+    },
+    {
+      "album": {
+        "name": "Jasmine",
+        "url": "https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201510,
+      "name": "Jasmine",
+      "url": "https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181093,
+      "name": "Java Jive",
+      "url": "https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK"
+    },
+    {
+      "album": {
+        "name": "BUT FOR NOW LEAVE ME ALONE",
+        "url": "https://open.spotify.com/album/5HUdhu9p2kVPQ8g56woOQn"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186733,
+      "name": "JULIETTE! (Feat. UMI)",
+      "url": "https://open.spotify.com/track/1VREVb61J8aSWrT2sMrnfu"
+    },
+    {
+      "album": {
+        "name": "Look Back",
+        "url": "https://open.spotify.com/album/7MchsZ5wWMkDTbNEe7x8aN"
+      },
+      "artists": [
+        {
+          "name": "Betty Who",
+          "url": "https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184430,
+      "name": "Look Back",
+      "url": "https://open.spotify.com/track/0NVO6Kn5CqzAuyXcMdqUMb"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Never Let Go",
+      "url": "https://open.spotify.com/track/6o5dZWs2C3pZcknbixWMLM"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 5)",
+        "url": "https://open.spotify.com/album/34ep6aAP7ywitDe7FfZV0E"
+      },
+      "artists": [
+        {
+          "name": "KIM PUREUM",
+          "url": "https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Never Let Go - Instrumental",
+      "url": "https://open.spotify.com/track/3fPZ0jPf6Ts9XQ8w2VNhlN"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3"
+      },
+      "artists": [
+        {
+          "name": "SE O",
+          "url": "https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/0dHgNgOUSrBVczZVhWwc0R"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/2reUJ6F89zFPzF9ZVCVUq3"
+      },
+      "artists": [
+        {
+          "name": "SE O",
+          "url": "https://open.spotify.com/artist/4dmLLMVwXZhYS75M20eAtb"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240208,
+      "name": "Neverland - Instrumental",
+      "url": "https://open.spotify.com/track/59x7IwuUmaoboOgKZuMKob"
+    },
+    {
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202266,
+      "name": "Paint It, Black",
+      "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
+    },
+    {
+      "album": {
+        "name": "The Holly & The Ivy",
+        "url": "https://open.spotify.com/album/3oKDzCEZV4ddLnzD8QIq6x"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/38vmyrk9rInZJHNXvdViYu"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f"
+    },
+    {
+      "album": {
+        "name": "The Thrill Of It All (Special Edition)",
+        "url": "https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 187156,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/5UFvcTCbp9P057YbRNsJ3U"
+    },
+    {
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Olav Edvardsen",
+          "url": "https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/1zQ9VgCQ3iiPETAWIzSqVW"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 7)",
+        "url": "https://open.spotify.com/album/0DHtIOYFWjZ7voayZrQhKM"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Olav Edvardsen",
+          "url": "https://open.spotify.com/artist/0RtyQYQcDo0lPs8dLBAcDP"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Scream - Instrumental",
+      "url": "https://open.spotify.com/track/1S2WSetELXUlKg03GfiEvf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits Vol. 3",
+        "url": "https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Ships",
+      "url": "https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW"
+    },
+    {
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340706,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
+    },
+    {
+      "album": {
+        "name": "Pink Heartz",
+        "url": "https://open.spotify.com/album/1POWgdYTzfFt9rhKlXFwsU"
+      },
+      "artists": [
+        {
+          "name": "SoFaygo",
+          "url": "https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213704,
+      "name": "Stay Awake",
+      "url": "https://open.spotify.com/track/5k9kxCcae70vUElndjveXT"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/532r4BnsqKpIEgjp0UzBNu"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 2)",
+        "url": "https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224080,
+      "name": "Talk To Me - Instrumental",
+      "url": "https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj"
+    },
+    {
+      "album": {
+        "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
+        "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "LSD",
+          "url": "https://open.spotify.com/artist/6IZ4ctovY9dl7bgHClAvKJ"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187026,
+      "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
+      "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
+    },
+    {
+      "album": {
+        "name": "To Life",
+        "url": "https://open.spotify.com/album/27QgCa49mAOEPoTcRYFZT6"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191491,
+      "name": "To Life",
+      "url": "https://open.spotify.com/track/1hqukerMJf9N1qHo2sijii"
+    },
+    {
+      "album": {
+        "name": "NO ONE EVER REALLY DIES",
+        "url": "https://open.spotify.com/album/54OXaFd0PtGtAgauTmARkD"
+      },
+      "artists": [
+        {
+          "name": "N.E.R.D",
+          "url": "https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2023-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260880,
+      "name": "Voil\u00e0",
+      "url": "https://open.spotify.com/track/3e7KcqiZN4wSrpoHUeYXjY"
+    },
+    {
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/55huyEjfSVsk9nnmmKp5df"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "We'll Be The Stars",
+      "url": "https://open.spotify.com/track/7lqkNvVxJdYDCSAwSJNzHs"
+    },
+    {
+      "album": {
+        "name": "STARRY NIGHT",
+        "url": "https://open.spotify.com/album/2Mqs4qQ3wPmAgTX6yYfdeZ"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257933,
+      "name": "When I Need You",
+      "url": "https://open.spotify.com/track/6Ee6pMOa4ukBJHCHWrPtw4"
+    },
+    {
+      "album": {
+        "name": "Captain Fantastic And The Brown Dirt Cowboy",
+        "url": "https://open.spotify.com/album/4UcpKa4yD9AA3iEHI8MFSF"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220466,
+      "name": "Writing",
+      "url": "https://open.spotify.com/track/4W2cHubtlOdF2BGCeWjw1r"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231680,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4P31D4cdzUl3Afg64Jznri"
+    },
+    {
+      "album": {
+        "name": "Agency (Original Television Soundtrack, Pt. 4)",
+        "url": "https://open.spotify.com/album/2SBWXosNjKbNpsg3naiIqu"
+      },
+      "artists": [
+        {
+          "name": "Kwon Jin Ah",
+          "url": "https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231666,
+      "name": "You - Instrumental",
+      "url": "https://open.spotify.com/track/4eCXxRfrFUrBEVCWlTA1MH"
+    },
+    {
+      "album": {
+        "name": "You Can Rest",
+        "url": "https://open.spotify.com/album/5rNOTnBRPjeNN73jbuFoRV"
+      },
+      "artists": [
+        {
+          "name": "CRUCiAL STAR",
+          "url": "https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ"
+        },
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180124,
+      "name": "You Can Rest (feat.Babylon)",
+      "url": "https://open.spotify.com/track/17abOqBP0HKExIIVzp69Pp"
+    },
+    {
+      "album": {
+        "name": "Agency Audio liner",
+        "url": "https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf"
+      },
+      "artists": [
+        {
+          "name": "Son Na Eun",
+          "url": "https://open.spotify.com/artist/3k5Lsr3T7BcYtyk1adkEzU"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15374,
+      "name": "\uc190\ub098\uc740 \ucd94\ucc9c\uace1 \uc18c\uac1c(Curated by Son Na Eun)",
+      "url": "https://open.spotify.com/track/0hiuqwrfW4gGeuMs2weVwX"
+    },
+    {
+      "album": {
+        "name": "Agency Audio liner",
+        "url": "https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf"
+      },
+      "artists": [
+        {
+          "name": "Lee Bo Young",
+          "url": "https://open.spotify.com/artist/5g1aoRPa3g0pUz0OTp8317"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 19500,
+      "name": "\uc774\ubcf4\uc601 \ucd94\ucc9c\uace1 \uc18c\uac1c(Curated by Lee Bo Young)",
+      "url": "https://open.spotify.com/track/1fliEjw8nQxJtbls9laSW1"
+    },
+    {
+      "album": {
+        "name": "Agency Audio liner",
+        "url": "https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf"
+      },
+      "artists": [
+        {
+          "name": "Jeon Hye Jin",
+          "url": "https://open.spotify.com/artist/2yIdxKEou2J4frRNBSKtjp"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15500,
+      "name": "\uc804\ud61c\uc9c4 \ucd94\ucc9c\uace1 \uc18c\uac1c(Curated by Jeon Hye Jin)",
+      "url": "https://open.spotify.com/track/0qaiJCoVec08iAWdzpxa1R"
+    },
+    {
+      "album": {
+        "name": "Agency Audio liner",
+        "url": "https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf"
+      },
+      "artists": [
+        {
+          "name": "Cho Sung Ha",
+          "url": "https://open.spotify.com/artist/49sCy6UjXQJAkdUlMGhU6u"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 15000,
+      "name": "\uc870\uc131\ud558 \ucd94\ucc9c\uace1 \uc18c\uac1c(Curated by Cho Sung Ha)",
+      "url": "https://open.spotify.com/track/4MqVGBfQFVD6wE79ilWwuG"
+    },
+    {
+      "album": {
+        "name": "Agency Audio liner",
+        "url": "https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf"
+      },
+      "artists": [
+        {
+          "name": "Han Junwoo",
+          "url": "https://open.spotify.com/artist/2gzqQtZswSjE2ohjYve4HA"
+        }
+      ],
+      "date_added": "2023-02-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 18000,
+      "name": "\ud55c\uc900\uc6b0 \ucd94\ucc9c\uace1 \uc18c\uac1c(Curated by Han Junwoo)",
+      "url": "https://open.spotify.com/track/5en09P3gHbr4nkzbDlPPgw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWwmBCLmyITz"
 }

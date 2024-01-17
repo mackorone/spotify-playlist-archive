@@ -2332,10 +2332,28 @@
       ],
       "date_added": "2021-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210493,
       "name": "Tower",
       "url": "https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn"
+    },
+    {
+      "album": {
+        "name": "The Runner (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "date_added": "2023-10-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210493,
+      "name": "Tower",
+      "url": "https://open.spotify.com/track/6wLAT2NTrpH9z5gnFo7LPJ"
     },
     {
       "album": {

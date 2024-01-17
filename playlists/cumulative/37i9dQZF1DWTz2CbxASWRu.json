@@ -100,6 +100,24 @@
     {
       "album": {
         "name": "Aboogi",
+        "url": "https://open.spotify.com/album/3h6QffNxkTZPEPFzBqyTUk"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256320,
+      "name": "Achinkad",
+      "url": "https://open.spotify.com/track/6KiS9YtjvBEr96wazaVfO4"
+    },
+    {
+      "album": {
+        "name": "Aboogi",
         "url": "https://open.spotify.com/album/4HtjxGyTwAPzU8nrg4BGtw"
       },
       "artists": [
@@ -110,7 +128,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 256320,
       "name": "Achinkad",
       "url": "https://open.spotify.com/track/7eArOOr6p5TiYNGH6jHALx"
@@ -588,7 +606,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 239293,
       "name": "Azzaman",
       "url": "https://open.spotify.com/track/0ilFgeEIykSNK00krMGbaS"
@@ -736,7 +754,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 298253,
       "name": "Batazo Batero",
       "url": "https://open.spotify.com/track/2sLMPlRSLlDBUiu6bECQjr"
@@ -1288,7 +1306,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-08",
+      "date_removed": null,
       "duration_ms": 250521,
       "name": "Cantar",
       "url": "https://open.spotify.com/track/7uXXNRl3cMUjffjxjbKT7Y"
@@ -2163,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Grown Backwards (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ZU2JtWIAnRUgBDoom4GG4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 303133,
+      "name": "Dreamworld",
+      "url": "https://open.spotify.com/track/2MlqQ8PDprEVB3VRrKP48v"
+    },
+    {
+      "album": {
         "name": "Mambo Sinuendo",
         "url": "https://open.spotify.com/album/7Bbr1kphzvv9LEUoAFMmkj"
       },
@@ -2718,7 +2754,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": null,
       "duration_ms": 217954,
       "name": "Feel Good (feat. Khruangbin) - Edit",
       "url": "https://open.spotify.com/track/5EhyJGUafXNnPniaIQnSER"
@@ -3852,10 +3888,36 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-29",
+      "date_removed": null,
       "duration_ms": 229754,
       "name": "Kisasa Kisas",
       "url": "https://open.spotify.com/track/6ArwNGBU2aBHf1hLIQWmm8"
+    },
+    {
+      "album": {
+        "name": "Bibirosi",
+        "url": "https://open.spotify.com/album/2uBITvXXAuR9mXDLaqdZnC"
+      },
+      "artists": [
+        {
+          "name": "William Takaku",
+          "url": "https://open.spotify.com/artist/2GDr1oliMRmvo2lmsQK5wG"
+        },
+        {
+          "name": "Pidia Kaur Group",
+          "url": "https://open.spotify.com/artist/5RmShz1JR97ThBgsppiS45"
+        },
+        {
+          "name": "Kamalita Tibola",
+          "url": "https://open.spotify.com/artist/4cqzpGDoc4KxWWQ4ON9A40"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129306,
+      "name": "Kokonibaka",
+      "url": "https://open.spotify.com/track/0a5iBtLboMmPfMqnk2ObID"
     },
     {
       "album": {
@@ -4738,7 +4800,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": "2024-01-16",
       "duration_ms": 211560,
       "name": "Mujer Luna",
       "url": "https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH"
@@ -5166,7 +5228,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 479053,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/0aRBk8abP2vA3wl7GV74SA"
@@ -6470,10 +6532,28 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 210880,
       "name": "Tahabort",
       "url": "https://open.spotify.com/track/1fd4zR1mI316y8y8Yq5txJ"
+    },
+    {
+      "album": {
+        "name": "Imarhan",
+        "url": "https://open.spotify.com/album/6UlrxiJau4j0RkCMSwvaIz"
+      },
+      "artists": [
+        {
+          "name": "Imarhan",
+          "url": "https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210880,
+      "name": "Tahabort",
+      "url": "https://open.spotify.com/track/3JSYL97i6hlyvtwPrDqUEl"
     },
     {
       "album": {
@@ -6528,6 +6608,24 @@
       "duration_ms": 271727,
       "name": "Tehigren (The Trees )",
       "url": "https://open.spotify.com/track/1KgYMF5HpRGTD9oDt6h4di"
+    },
+    {
+      "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420893,
+      "name": "Tek Time",
+      "url": "https://open.spotify.com/track/42yVShsOhzl2gfIyJGVdGE"
     },
     {
       "album": {
@@ -6798,7 +6896,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 242727,
       "name": "Tiku La Hina",
       "url": "https://open.spotify.com/track/4zfSgk8S1mq8klntilxm1k"
@@ -6900,7 +6998,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 234026,
       "name": "Toi et moi",
       "url": "https://open.spotify.com/track/6sqHch1ddfynzm0SCzJ2ZX"

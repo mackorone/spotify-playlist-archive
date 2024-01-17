@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 153013,
       "name": "En toda la chapa",
       "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
@@ -708,10 +708,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 197626,
       "name": "La suegra",
       "url": "https://open.spotify.com/track/5JPZJyZ7fIvlgaKDO0pPm3"
+    },
+    {
+      "album": {
+        "name": "Las 20 Poderosas (USA)",
+        "url": "https://open.spotify.com/album/6ZvT8iE0JiuguDiohKhcEF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198800,
+      "name": "La suegra",
+      "url": "https://open.spotify.com/track/0YIyyTbaIM0MYrfOLhvlrI"
     },
     {
       "album": {
@@ -780,7 +798,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/24hke0P7QZEb62QC4XzG9y"
@@ -798,7 +816,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 167120,
       "name": "Le\u00f1a de pirul",
       "url": "https://open.spotify.com/track/3G6c5nsqBaN1MyvxBCcEoJ"
@@ -1270,7 +1288,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 194000,
       "name": "Un Indio Quiere Llorar",
       "url": "https://open.spotify.com/track/3v1h62mV72dBV16Jb5pcrc"

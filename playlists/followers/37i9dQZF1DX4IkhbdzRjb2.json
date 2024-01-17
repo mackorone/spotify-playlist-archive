@@ -1,731 +1,1157 @@
 {
-  "2021-12-28": 568,
-  "2021-12-29": 568,
-  "2021-12-30": 567,
-  "2021-12-31": 567,
-  "2022-01-01": 573,
-  "2022-01-02": 574,
-  "2022-01-03": 576,
-  "2022-01-04": 576,
-  "2022-01-05": 576,
-  "2022-01-06": 578,
-  "2022-01-07": 578,
-  "2022-01-08": 577,
-  "2022-01-09": 578,
-  "2022-01-10": 581,
-  "2022-01-11": 583,
-  "2022-01-12": 583,
-  "2022-01-13": 584,
-  "2022-01-14": 585,
-  "2022-01-15": 592,
-  "2022-01-16": 592,
-  "2022-01-17": 594,
-  "2022-01-18": 594,
-  "2022-01-19": 595,
-  "2022-01-20": 595,
-  "2022-01-21": 596,
-  "2022-01-22": 594,
-  "2022-01-23": 594,
-  "2022-01-24": 597,
-  "2022-01-25": 599,
-  "2022-01-26": 603,
-  "2022-01-27": 603,
-  "2022-01-28": 603,
-  "2022-01-29": 602,
-  "2022-01-30": 602,
-  "2022-01-31": 604,
-  "2022-02-01": 605,
-  "2022-02-02": 605,
-  "2022-02-03": 606,
-  "2022-02-04": 606,
-  "2022-02-05": 607,
-  "2022-02-06": 607,
-  "2022-02-07": 607,
-  "2022-02-08": 608,
-  "2022-02-09": 608,
-  "2022-02-10": 609,
-  "2022-02-11": 609,
-  "2022-02-12": 608,
-  "2022-02-13": 610,
-  "2022-02-14": 612,
-  "2022-02-15": 612,
-  "2022-02-16": 614,
-  "2022-02-17": 614,
-  "2022-02-18": 615,
-  "2022-02-19": 616,
-  "2022-02-20": 616,
-  "2022-02-21": 617,
-  "2022-02-22": 618,
-  "2022-02-23": 619,
-  "2022-02-24": 621,
-  "2022-02-25": 621,
-  "2022-02-26": 621,
-  "2022-02-27": 623,
-  "2022-02-28": 623,
-  "2022-03-01": 624,
-  "2022-03-02": 625,
-  "2022-03-03": 625,
-  "2022-03-04": 626,
-  "2022-03-05": 626,
-  "2022-03-06": 625,
-  "2022-03-07": 627,
-  "2022-03-08": 627,
-  "2022-03-09": 628,
-  "2022-03-10": 629,
-  "2022-03-11": 630,
-  "2022-03-12": 630,
-  "2022-03-13": 630,
-  "2022-03-14": 631,
-  "2022-03-15": 634,
-  "2022-03-16": 634,
-  "2022-03-17": 634,
-  "2022-03-18": 635,
-  "2022-03-19": 637,
-  "2022-03-20": 637,
-  "2022-03-21": 639,
-  "2022-03-22": 641,
-  "2022-03-23": 642,
-  "2022-03-24": 642,
-  "2022-03-25": 643,
-  "2022-03-26": 643,
-  "2022-03-27": 643,
-  "2022-03-28": 643,
-  "2022-03-30": 644,
-  "2022-03-31": 643,
-  "2022-04-01": 643,
-  "2022-04-02": 643,
-  "2022-04-03": 645,
-  "2022-04-04": 645,
-  "2022-04-05": 647,
-  "2022-04-06": 650,
-  "2022-04-07": 651,
-  "2022-04-08": 654,
-  "2022-04-09": 656,
-  "2022-04-10": 660,
-  "2022-04-11": 661,
-  "2022-04-12": 661,
-  "2022-04-13": 662,
-  "2022-04-14": 664,
-  "2022-04-15": 668,
-  "2022-04-16": 668,
-  "2022-04-17": 670,
-  "2022-04-18": 672,
-  "2022-04-19": 672,
-  "2022-04-20": 672,
-  "2022-04-21": 673,
-  "2022-04-22": 674,
-  "2022-04-23": 676,
-  "2022-04-24": 677,
-  "2022-04-25": 680,
-  "2022-04-26": 680,
-  "2022-04-27": 684,
-  "2022-04-28": 685,
-  "2022-04-29": 686,
-  "2022-04-30": 690,
-  "2022-05-01": 691,
-  "2022-05-02": 691,
-  "2022-05-03": 692,
-  "2022-05-04": 693,
-  "2022-05-05": 695,
-  "2022-05-06": 696,
-  "2022-05-07": 696,
-  "2022-05-08": 698,
-  "2022-05-09": 698,
-  "2022-05-10": 702,
-  "2022-05-11": 702,
-  "2022-05-12": 702,
-  "2022-05-13": 704,
-  "2022-05-14": 707,
-  "2022-05-15": 708,
-  "2022-05-16": 707,
-  "2022-05-17": 713,
-  "2022-05-18": 715,
-  "2022-05-19": 718,
-  "2022-05-20": 723,
-  "2022-05-21": 724,
-  "2022-05-22": 724,
-  "2022-05-23": 724,
-  "2022-05-24": 725,
-  "2022-05-25": 724,
-  "2022-05-26": 724,
-  "2022-05-27": 724,
-  "2022-05-28": 724,
-  "2022-05-29": 724,
-  "2022-05-30": 724,
-  "2022-05-31": 725,
-  "2022-06-01": 724,
-  "2022-06-02": 724,
-  "2022-06-03": 724,
-  "2022-06-04": 724,
-  "2022-06-05": 725,
-  "2022-06-06": 725,
-  "2022-06-07": 725,
-  "2022-06-08": 725,
-  "2022-06-09": 725,
-  "2022-06-10": 725,
-  "2022-06-11": 725,
-  "2022-06-12": 725,
-  "2022-06-13": 725,
-  "2022-06-14": 725,
-  "2022-06-15": 725,
-  "2022-06-16": 726,
-  "2022-06-17": 724,
-  "2022-06-18": 724,
-  "2022-06-19": 724,
-  "2022-06-20": 724,
-  "2022-06-21": 722,
-  "2022-06-22": 722,
-  "2022-06-23": 722,
-  "2022-06-24": 722,
-  "2022-06-25": 721,
-  "2022-06-26": 721,
-  "2022-06-27": 721,
-  "2022-06-28": 721,
-  "2022-06-29": 722,
-  "2022-06-30": 723,
-  "2022-07-01": 723,
-  "2022-07-02": 723,
-  "2022-07-03": 723,
-  "2022-07-04": 723,
-  "2022-07-05": 721,
-  "2022-07-06": 719,
-  "2022-07-07": 719,
-  "2022-07-08": 719,
-  "2022-07-09": 719,
-  "2022-07-10": 718,
-  "2022-07-11": 718,
-  "2022-07-12": 718,
-  "2022-07-13": 717,
-  "2022-07-14": 718,
-  "2022-07-15": 718,
-  "2022-07-16": 719,
-  "2022-07-17": 719,
-  "2022-07-18": 718,
-  "2022-07-19": 718,
-  "2022-07-20": 718,
-  "2022-07-21": 718,
-  "2022-07-22": 719,
-  "2022-07-23": 718,
-  "2022-07-24": 717,
-  "2022-07-25": 716,
-  "2022-07-26": 716,
-  "2022-07-27": 716,
-  "2022-07-28": 716,
-  "2022-07-29": 716,
-  "2022-07-30": 716,
-  "2022-07-31": 716,
-  "2022-08-01": 716,
-  "2022-08-02": 716,
-  "2022-08-03": 716,
-  "2022-08-04": 716,
-  "2022-08-05": 717,
-  "2022-08-06": 716,
-  "2022-08-07": 716,
-  "2022-08-08": 716,
-  "2022-08-09": 716,
-  "2022-08-10": 716,
-  "2022-08-11": 718,
-  "2022-08-12": 717,
-  "2022-08-13": 717,
-  "2022-08-14": 718,
-  "2022-08-15": 718,
-  "2022-08-16": 718,
-  "2022-08-17": 718,
-  "2022-08-18": 717,
-  "2022-08-19": 716,
-  "2022-08-20": 716,
-  "2022-08-21": 716,
-  "2022-08-22": 716,
-  "2022-08-23": 715,
-  "2022-08-24": 715,
-  "2022-08-25": 715,
-  "2022-08-26": 715,
-  "2022-08-27": 715,
-  "2022-08-28": 715,
-  "2022-08-29": 715,
-  "2022-08-30": 714,
-  "2022-08-31": 713,
-  "2022-09-01": 713,
-  "2022-09-02": 713,
-  "2022-09-03": 712,
-  "2022-09-04": 711,
-  "2022-09-05": 711,
-  "2022-09-07": 711,
-  "2022-09-09": 711,
-  "2022-09-10": 711,
-  "2022-09-11": 711,
-  "2022-09-12": 711,
-  "2022-09-13": 712,
-  "2022-09-15": 712,
-  "2022-09-16": 712,
-  "2022-09-17": 712,
-  "2022-09-18": 712,
-  "2022-09-19": 712,
-  "2022-09-20": 713,
-  "2022-09-21": 713,
-  "2022-09-22": 713,
-  "2022-09-23": 713,
-  "2022-09-24": 712,
-  "2022-09-25": 712,
-  "2022-09-26": 712,
-  "2022-09-27": 712,
-  "2022-09-28": 712,
-  "2022-09-29": 712,
-  "2022-09-30": 711,
-  "2022-10-01": 711,
-  "2022-10-02": 711,
-  "2022-10-03": 712,
-  "2022-10-04": 712,
-  "2022-10-05": 712,
-  "2022-10-06": 711,
-  "2022-10-07": 711,
-  "2022-10-08": 711,
-  "2022-10-09": 711,
-  "2022-10-10": 712,
-  "2022-10-11": 713,
-  "2022-10-12": 713,
-  "2022-10-13": 714,
-  "2022-10-14": 714,
-  "2022-10-15": 713,
-  "2022-10-16": 713,
-  "2022-10-17": 713,
-  "2022-10-18": 713,
-  "2022-10-19": 713,
-  "2022-10-20": 713,
-  "2022-10-21": 713,
-  "2022-10-22": 713,
-  "2022-10-23": 713,
-  "2022-10-24": 713,
-  "2022-10-25": 712,
-  "2022-10-26": 711,
-  "2022-10-27": 711,
-  "2022-10-28": 711,
-  "2022-10-29": 712,
-  "2022-10-30": 712,
-  "2022-10-31": 712,
-  "2022-11-01": 712,
-  "2022-11-02": 712,
-  "2022-11-03": 712,
-  "2022-11-04": 712,
-  "2022-11-05": 712,
-  "2022-11-06": 712,
-  "2022-11-07": 712,
-  "2022-11-08": 711,
-  "2022-11-09": 711,
-  "2022-11-10": 711,
-  "2022-11-11": 711,
-  "2022-11-12": 712,
-  "2022-11-13": 712,
-  "2022-11-14": 712,
-  "2022-11-15": 712,
-  "2022-11-16": 712,
-  "2022-11-17": 712,
-  "2022-11-18": 712,
-  "2022-11-19": 712,
-  "2022-11-20": 712,
-  "2022-11-21": 712,
-  "2022-11-22": 712,
-  "2022-11-23": 711,
-  "2022-11-24": 711,
-  "2022-11-25": 711,
-  "2022-11-26": 711,
-  "2022-11-27": 711,
-  "2022-11-28": 711,
-  "2022-11-29": 711,
-  "2022-11-30": 711,
-  "2022-12-01": 711,
-  "2022-12-02": 710,
-  "2022-12-03": 710,
-  "2022-12-04": 709,
-  "2022-12-05": 709,
-  "2022-12-06": 709,
-  "2022-12-07": 708,
-  "2022-12-08": 708,
-  "2022-12-09": 709,
-  "2022-12-10": 709,
-  "2022-12-11": 709,
-  "2022-12-12": 709,
-  "2022-12-13": 709,
-  "2022-12-14": 710,
-  "2022-12-15": 713,
-  "2022-12-16": 713,
-  "2022-12-17": 713,
-  "2022-12-18": 714,
-  "2022-12-19": 713,
-  "2022-12-20": 713,
-  "2022-12-21": 713,
-  "2022-12-22": 713,
-  "2022-12-24": 713,
-  "2022-12-25": 713,
-  "2022-12-26": 713,
-  "2022-12-27": 713,
-  "2022-12-28": 714,
-  "2022-12-29": 714,
-  "2022-12-30": 718,
-  "2022-12-31": 723,
-  "2023-01-01": 723,
-  "2023-01-02": 723,
-  "2023-01-03": 724,
-  "2023-01-04": 724,
-  "2023-01-05": 724,
-  "2023-01-06": 724,
-  "2023-01-07": 726,
-  "2023-01-08": 726,
-  "2023-01-09": 728,
-  "2023-01-10": 728,
-  "2023-01-11": 728,
-  "2023-01-12": 729,
-  "2023-01-13": 729,
-  "2023-01-14": 728,
-  "2023-01-15": 728,
-  "2023-01-16": 729,
-  "2023-01-17": 729,
-  "2023-01-18": 729,
-  "2023-01-19": 729,
-  "2023-01-20": 729,
-  "2023-01-21": 729,
-  "2023-01-22": 730,
-  "2023-01-23": 729,
-  "2023-01-24": 729,
-  "2023-01-25": 729,
-  "2023-01-26": 729,
-  "2023-01-27": 730,
-  "2023-01-28": 729,
-  "2023-01-29": 729,
-  "2023-01-30": 729,
-  "2023-01-31": 729,
-  "2023-02-01": 729,
-  "2023-02-02": 730,
-  "2023-02-03": 730,
-  "2023-02-04": 730,
-  "2023-02-05": 730,
-  "2023-02-06": 730,
-  "2023-02-07": 730,
-  "2023-02-08": 729,
-  "2023-02-09": 729,
-  "2023-02-10": 729,
-  "2023-02-11": 729,
-  "2023-02-12": 729,
-  "2023-02-13": 729,
-  "2023-02-14": 729,
-  "2023-02-15": 729,
-  "2023-02-16": 729,
-  "2023-02-17": 729,
-  "2023-02-18": 729,
-  "2023-02-19": 729,
-  "2023-02-20": 729,
-  "2023-02-21": 729,
-  "2023-02-22": 729,
-  "2023-02-23": 729,
-  "2023-02-24": 731,
-  "2023-02-25": 732,
-  "2023-02-26": 732,
-  "2023-02-27": 732,
-  "2023-02-28": 732,
-  "2023-03-01": 732,
-  "2023-03-02": 732,
-  "2023-03-03": 731,
-  "2023-03-04": 731,
-  "2023-03-05": 732,
-  "2023-03-06": 732,
-  "2023-03-07": 732,
-  "2023-03-08": 732,
-  "2023-03-09": 732,
-  "2023-03-10": 732,
-  "2023-03-11": 732,
-  "2023-03-12": 732,
-  "2023-03-13": 732,
-  "2023-03-14": 732,
-  "2023-03-15": 732,
-  "2023-03-16": 732,
-  "2023-03-17": 732,
-  "2023-03-18": 732,
-  "2023-03-19": 732,
-  "2023-03-20": 733,
-  "2023-03-21": 733,
-  "2023-03-22": 733,
-  "2023-03-23": 733,
-  "2023-03-24": 733,
-  "2023-03-25": 732,
-  "2023-03-26": 732,
-  "2023-03-27": 732,
-  "2023-03-28": 732,
-  "2023-03-29": 732,
-  "2023-03-30": 732,
-  "2023-03-31": 732,
-  "2023-04-01": 731,
-  "2023-04-02": 731,
-  "2023-04-03": 731,
-  "2023-04-04": 730,
-  "2023-04-05": 730,
-  "2023-04-06": 730,
-  "2023-04-07": 730,
-  "2023-04-09": 730,
-  "2023-04-10": 730,
-  "2023-04-11": 729,
-  "2023-04-12": 729,
-  "2023-04-13": 730,
-  "2023-04-14": 730,
-  "2023-04-15": 731,
-  "2023-04-16": 731,
-  "2023-04-17": 731,
-  "2023-04-18": 730,
-  "2023-04-19": 730,
-  "2023-04-20": 729,
-  "2023-04-21": 729,
-  "2023-04-22": 729,
-  "2023-04-23": 729,
-  "2023-04-24": 729,
-  "2023-04-25": 729,
-  "2023-04-26": 729,
-  "2023-04-27": 729,
-  "2023-04-28": 729,
-  "2023-04-29": 729,
-  "2023-04-30": 729,
-  "2023-05-01": 729,
-  "2023-05-02": 730,
-  "2023-05-03": 730,
-  "2023-05-04": 731,
-  "2023-05-05": 731,
-  "2023-05-06": 731,
-  "2023-05-07": 731,
-  "2023-05-08": 731,
-  "2023-05-09": 731,
-  "2023-05-10": 731,
-  "2023-05-11": 731,
-  "2023-05-12": 730,
-  "2023-05-13": 730,
-  "2023-05-14": 730,
-  "2023-05-15": 730,
-  "2023-05-16": 730,
-  "2023-05-17": 730,
-  "2023-05-18": 730,
-  "2023-05-19": 730,
-  "2023-05-20": 730,
-  "2023-05-21": 730,
-  "2023-05-22": 730,
-  "2023-05-23": 730,
-  "2023-05-24": 730,
-  "2023-05-25": 729,
-  "2023-05-26": 729,
-  "2023-05-27": 729,
-  "2023-05-28": 729,
-  "2023-05-29": 729,
-  "2023-05-30": 730,
-  "2023-05-31": 729,
-  "2023-06-01": 729,
-  "2023-06-02": 729,
-  "2023-06-03": 729,
-  "2023-06-04": 730,
-  "2023-06-05": 730,
-  "2023-06-06": 729,
-  "2023-06-07": 729,
-  "2023-06-08": 730,
-  "2023-06-09": 730,
-  "2023-06-10": 730,
-  "2023-06-11": 730,
-  "2023-06-12": 730,
-  "2023-06-13": 730,
-  "2023-06-14": 730,
-  "2023-06-15": 731,
-  "2023-06-16": 731,
-  "2023-06-17": 731,
-  "2023-06-18": 731,
-  "2023-06-19": 731,
-  "2023-06-20": 732,
-  "2023-06-21": 732,
-  "2023-06-22": 732,
-  "2023-06-23": 731,
-  "2023-06-24": 731,
-  "2023-06-25": 731,
-  "2023-06-26": 733,
-  "2023-06-27": 733,
-  "2023-06-28": 734,
-  "2023-06-29": 734,
-  "2023-06-30": 734,
-  "2023-07-01": 734,
-  "2023-07-02": 734,
-  "2023-07-03": 734,
-  "2023-07-04": 734,
-  "2023-07-05": 734,
-  "2023-07-06": 734,
-  "2023-07-07": 734,
-  "2023-07-08": 734,
-  "2023-07-09": 734,
-  "2023-07-10": 734,
-  "2023-07-11": 733,
-  "2023-07-12": 734,
-  "2023-07-13": 733,
-  "2023-07-14": 734,
-  "2023-07-15": 734,
-  "2023-07-16": 734,
-  "2023-07-17": 734,
-  "2023-07-18": 734,
-  "2023-07-19": 734,
-  "2023-07-20": 734,
-  "2023-07-21": 734,
-  "2023-07-22": 734,
-  "2023-07-23": 734,
-  "2023-07-24": 734,
-  "2023-07-25": 734,
-  "2023-07-26": 734,
-  "2023-07-27": 734,
-  "2023-07-28": 734,
-  "2023-07-29": 734,
-  "2023-07-30": 734,
-  "2023-07-31": 734,
-  "2023-08-01": 734,
-  "2023-08-02": 734,
-  "2023-08-03": 734,
-  "2023-08-04": 733,
-  "2023-08-05": 733,
-  "2023-08-06": 733,
-  "2023-08-07": 733,
-  "2023-08-08": 733,
-  "2023-08-09": 733,
-  "2023-08-10": 733,
-  "2023-08-11": 733,
-  "2023-08-12": 733,
-  "2023-08-13": 733,
-  "2023-08-14": 733,
-  "2023-08-15": 733,
-  "2023-08-16": 733,
-  "2023-08-17": 733,
-  "2023-08-18": 734,
-  "2023-08-19": 734,
-  "2023-08-20": 734,
-  "2023-08-21": 734,
-  "2023-08-22": 734,
-  "2023-08-23": 734,
-  "2023-08-24": 734,
-  "2023-08-25": 734,
-  "2023-08-26": 734,
-  "2023-08-27": 734,
-  "2023-08-28": 734,
-  "2023-08-29": 734,
-  "2023-08-30": 734,
-  "2023-08-31": 734,
-  "2023-09-01": 734,
-  "2023-09-02": 734,
-  "2023-09-03": 735,
-  "2023-09-04": 734,
-  "2023-09-05": 733,
-  "2023-09-06": 733,
-  "2023-09-07": 733,
-  "2023-09-08": 733,
-  "2023-09-09": 733,
-  "2023-09-10": 733,
-  "2023-09-11": 733,
-  "2023-09-12": 733,
-  "2023-09-13": 733,
-  "2023-09-14": 733,
-  "2023-09-15": 733,
-  "2023-09-16": 733,
-  "2023-09-17": 733,
-  "2023-09-18": 733,
-  "2023-09-19": 733,
-  "2023-09-20": 733,
-  "2023-09-21": 733,
-  "2023-09-22": 733,
-  "2023-09-23": 733,
-  "2023-09-24": 733,
-  "2023-09-25": 732,
-  "2023-09-26": 732,
-  "2023-09-27": 732,
-  "2023-09-28": 732,
-  "2023-09-29": 732,
-  "2023-09-30": 732,
-  "2023-10-01": 732,
-  "2023-10-02": 733,
-  "2023-10-03": 734,
-  "2023-10-04": 735,
-  "2023-10-05": 735,
-  "2023-10-06": 735,
-  "2023-10-07": 735,
-  "2023-10-08": 735,
-  "2023-10-09": 735,
-  "2023-10-10": 735,
-  "2023-10-11": 735,
-  "2023-10-12": 735,
-  "2023-10-13": 735,
-  "2023-10-14": 735,
-  "2023-10-15": 735,
-  "2023-10-16": 735,
-  "2023-10-17": 735,
-  "2023-10-18": 736,
-  "2023-10-19": 736,
-  "2023-10-20": 736,
-  "2023-10-21": 736,
-  "2023-10-22": 736,
-  "2023-10-23": 736,
-  "2023-10-24": 737,
-  "2023-10-25": 737,
-  "2023-10-26": 737,
-  "2023-10-27": 736,
-  "2023-10-28": 736,
-  "2023-10-29": 736,
-  "2023-10-30": 736,
-  "2023-10-31": 736,
-  "2023-11-01": 736,
-  "2023-11-02": 736,
-  "2023-11-03": 736,
-  "2023-11-04": 736,
-  "2023-11-05": 736,
-  "2023-11-06": 736,
-  "2023-11-07": 736,
-  "2023-11-08": 736,
-  "2023-11-09": 734,
-  "2023-11-10": 734,
-  "2023-11-11": 734,
-  "2023-11-12": 734,
-  "2023-11-13": 734,
-  "2023-11-14": 734,
-  "2023-11-15": 734,
-  "2023-11-16": 734,
-  "2023-11-17": 734,
-  "2023-11-18": 734,
-  "2023-11-19": 734,
-  "2023-11-20": 734,
-  "2023-11-21": 736,
-  "2023-11-22": 736,
-  "2023-11-23": 736,
-  "2023-11-24": 736,
-  "2023-11-25": 735,
-  "2023-11-26": 735,
-  "2023-11-27": 734,
-  "2023-11-28": 734,
-  "2023-11-29": 734,
-  "2023-11-30": 734,
-  "2023-12-01": 735,
-  "2023-12-02": 735,
-  "2023-12-03": 734,
-  "2023-12-04": 734,
-  "2023-12-05": 734,
-  "2023-12-06": 734,
-  "2023-12-07": 734,
-  "2023-12-08": 734,
-  "2023-12-09": 735,
-  "2023-12-10": 734,
-  "2023-12-11": 734,
-  "2023-12-12": 734,
-  "2023-12-13": 734,
-  "2023-12-14": 733,
-  "2023-12-15": 734,
-  "2023-12-16": 734,
-  "2023-12-17": 734,
-  "2023-12-18": 734,
-  "2023-12-19": 735,
-  "2023-12-20": 735,
-  "2023-12-21": 735,
-  "2023-12-22": 734,
-  "2023-12-23": 734,
-  "2023-12-24": 734,
-  "2023-12-25": 734,
-  "2023-12-26": 734,
-  "2023-12-27": 734,
-  "2023-12-30": 733,
-  "2023-12-31": 733,
-  "2024-01-01": 733,
-  "2024-01-02": 733,
-  "2024-01-03": 733
+  "2024-01-17": 737,
+  "date_first_scraped": "2021-12-28",
+  "description": "Since 1962, <a href=\"https://www.casitadelcampo.net/\">Casita Del Campo</a> has been a refuge to Los Angeles' LGTBQQIA+ community. Like their environment, the songs picked are original, energetic, and diverse just like their patrons!",
+  "name": "PRIDE: Casita Del Campo",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/1W1b52vaEcE3wfWk4WQH6q"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260426,
+      "name": "All Night Long (All Night) - Single Version",
+      "url": "https://open.spotify.com/track/2Wb9ejnmy27DUTUe9YF5Ew"
+    },
+    {
+      "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        },
+        {
+          "name": "Trugoy The Dove",
+          "url": "https://open.spotify.com/artist/2DGyhsOLrggY3ORo3GZNf0"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "Award Tour (feat. Trugoy The Dove)",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "album": {
+        "name": "Classics Volume 27",
+        "url": "https://open.spotify.com/album/0igyY1wB0qp0o0zvVkor5r"
+      },
+      "artists": [
+        {
+          "name": "L.T.D.",
+          "url": "https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ"
+        },
+        {
+          "name": "Jeffrey Osborne",
+          "url": "https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284733,
+      "name": "Back In Love Again",
+      "url": "https://open.spotify.com/track/6dQSzIIt4gNE9BpF02Tus4"
+    },
+    {
+      "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/3Il1CWXA64e8gukuJZoj0e"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7ixiCZEHWHc8FxaQXQh2P4"
+    },
+    {
+      "album": {
+        "name": "Bark\u00e9",
+        "url": "https://open.spotify.com/album/5gQj1pNijPoZlrqR7hJ2at"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Ghost Culture",
+          "url": "https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Bark\u00e9",
+      "url": "https://open.spotify.com/track/2quOK4iKHMgrLTU6DXoBV4"
+    },
+    {
+      "album": {
+        "name": "Bark\u00e9",
+        "url": "https://open.spotify.com/album/6YEzV4Axar91INmSZmaAJq"
+      },
+      "artists": [
+        {
+          "name": "Falle Nioke",
+          "url": "https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J"
+        },
+        {
+          "name": "Ghost Culture",
+          "url": "https://open.spotify.com/artist/4M6Kt4GVjpLYpygyNOHwdt"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 272000,
+      "name": "Bark\u00e9",
+      "url": "https://open.spotify.com/track/7oEm0xVisvkbIbQEzWBuD0"
+    },
+    {
+      "album": {
+        "name": "Forever, For Always, For Love",
+        "url": "https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384746,
+      "name": "Better Love",
+      "url": "https://open.spotify.com/track/1QzCnfF0AxZ3veY9tOw0h7"
+    },
+    {
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347280,
+      "name": "Buscando Guayaba",
+      "url": "https://open.spotify.com/track/51pnSx6vfBzV8lkLLNFFpy"
+    },
+    {
+      "album": {
+        "name": "Chang\u00fc\u00ed en Yateras (from the Chang\u00fc\u00ed: The Sound of Guant\u00e1namo Collection)",
+        "url": "https://open.spotify.com/album/73F9fJGC7fuH88m890TGnf"
+      },
+      "artists": [
+        {
+          "name": "Grupo Estrellas Campesinas",
+          "url": "https://open.spotify.com/artist/57Uk8lmpqDsu1ULyRPslG2"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292313,
+      "name": "Chang\u00fc\u00ed en Yateras",
+      "url": "https://open.spotify.com/track/37qJXSjXSdMqgeNLFia0xM"
+    },
+    {
+      "album": {
+        "name": "Chang\u00fc\u00ed en Yateras (from the Chang\u00fc\u00ed: The Sound of Guant\u00e1namo Collection)",
+        "url": "https://open.spotify.com/album/3DnEPxorzbZtTczaNV93oT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Estrellas Campesinas",
+          "url": "https://open.spotify.com/artist/57Uk8lmpqDsu1ULyRPslG2"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 292313,
+      "name": "Chang\u00fc\u00ed en Yateras",
+      "url": "https://open.spotify.com/track/6alddKK0YnvOLmp1o2fpJi"
+    },
+    {
+      "album": {
+        "name": "Titulos coste\u00f1os de hist\u00f3rico recuerdo",
+        "url": "https://open.spotify.com/album/3wMz4Gkyf4kUkUDR9U84Ly"
+      },
+      "artists": [
+        {
+          "name": "Alberto Pacheco",
+          "url": "https://open.spotify.com/artist/0kxg6fCG2zNP3mcq8QG4Sw"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203311,
+      "name": "Cumbia cieneguera",
+      "url": "https://open.spotify.com/track/4beJkTMCJBf6oGZo0Ws3Qd"
+    },
+    {
+      "album": {
+        "name": "Dancin' & Prancin'",
+        "url": "https://open.spotify.com/album/3qeYusej1dvLVytUpn5wip"
+      },
+      "artists": [
+        {
+          "name": "Candido",
+          "url": "https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412720,
+      "name": "Dancin' & Prancin'",
+      "url": "https://open.spotify.com/track/2j4z4edrBAa4PHZ3rrzeSb"
+    },
+    {
+      "album": {
+        "name": "Dancin' & Prancin'",
+        "url": "https://open.spotify.com/album/4Sc4zx50DRyl0Wb1YmMNej"
+      },
+      "artists": [
+        {
+          "name": "Candido",
+          "url": "https://open.spotify.com/artist/6PyAzOON3Toc5MPZrZMA5i"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 412720,
+      "name": "Dancin' & Prancin'",
+      "url": "https://open.spotify.com/track/5mLH2SnrW7cpJmxeBYc53T"
+    },
+    {
+      "album": {
+        "name": "Something to Say",
+        "url": "https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169576,
+      "name": "Don't Forget",
+      "url": "https://open.spotify.com/track/04jkk9HM7mTlCNTYhWUZBx"
+    },
+    {
+      "album": {
+        "name": "Isidro Infante Presenta Cuba y Puerto Rico \"Un Abrazo Musical Salsero\"",
+        "url": "https://open.spotify.com/album/3JgWMmWDZeR6AOHJdydvhJ"
+      },
+      "artists": [
+        {
+          "name": "Isidro Infante",
+          "url": "https://open.spotify.com/artist/6JP0KRVKNawvRfkFA4mxtD"
+        },
+        {
+          "name": "Yumur\u00ed",
+          "url": "https://open.spotify.com/artist/3qmRy8D4hwGKywvQx3xnxo"
+        },
+        {
+          "name": "Mayito Rivera",
+          "url": "https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD"
+        },
+        {
+          "name": "Elindiomusik",
+          "url": "https://open.spotify.com/artist/3gSXsqE30hXrQMSGxYOTSH"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304438,
+      "name": "D\u00e9jame So\u00f1ar",
+      "url": "https://open.spotify.com/track/5cBEkcTbmPI6b24O7nJipw"
+    },
+    {
+      "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281026,
+      "name": "Earth, Wind & Fire",
+      "url": "https://open.spotify.com/track/3FcxoBWVmgt2By6gluHgjt"
+    },
+    {
+      "album": {
+        "name": "Amistad para el Mundo Entero",
+        "url": "https://open.spotify.com/album/4xfWkF5JxfUcF0GzXYiaO6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Polanco Y Su Conjunto Amistad",
+          "url": "https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333626,
+      "name": "El Tumbao de Cachao",
+      "url": "https://open.spotify.com/track/5U06EaEbV5uBKtvB99sNLJ"
+    },
+    {
+      "album": {
+        "name": "Everybody Loves The Sunshine (Reissue)",
+        "url": "https://open.spotify.com/album/5JehGpTedBPXzhUcwXoIlf"
+      },
+      "artists": [
+        {
+          "name": "Roy Ayers Ubiquity",
+          "url": "https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Everybody Loves The Sunshine",
+      "url": "https://open.spotify.com/track/5le4sn0iMcnKU56bdmNzso"
+    },
+    {
+      "album": {
+        "name": "RE//CHOIRED",
+        "url": "https://open.spotify.com/album/5JMcyXM7mWafx7jpT7XQka"
+      },
+      "artists": [
+        {
+          "name": "House Gospel Choir",
+          "url": "https://open.spotify.com/artist/1ilcpQQeF5mmvfO682aDgJ"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285749,
+      "name": "Everything Is Love",
+      "url": "https://open.spotify.com/track/18Fdww70EnleEBID12zleX"
+    },
+    {
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388400,
+      "name": "Freedom! '90",
+      "url": "https://open.spotify.com/track/1SKApv6ZfJ9bkUxeRObJEF"
+    },
+    {
+      "album": {
+        "name": "Funkin' For Jamaica",
+        "url": "https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq"
+      },
+      "artists": [
+        {
+          "name": "Tom Browne",
+          "url": "https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "Funkin' for Jamaica",
+      "url": "https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I"
+    },
+    {
+      "album": {
+        "name": "Hard Candy",
+        "url": "https://open.spotify.com/album/6FqKEvbSjVJQXX8rFFdPnA"
+      },
+      "artists": [
+        {
+          "name": "Ned Doheny",
+          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281733,
+      "name": "Get It Up For Love",
+      "url": "https://open.spotify.com/track/1pcG5AKS1PTa5sz9cBOCLZ"
+    },
+    {
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/0rgGwEybYIQvqHf5qEkFOB"
+    },
+    {
+      "album": {
+        "name": "Pizzazz",
+        "url": "https://open.spotify.com/album/38I3cIZowVjtksvYrpQIJf"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 405293,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/1AAanCnoJF7USJKG9dEjey"
+    },
+    {
+      "album": {
+        "name": "Pizzazz (Remastered)",
+        "url": "https://open.spotify.com/album/1eU5TsYbq7rD0JgvkKCYjo"
+      },
+      "artists": [
+        {
+          "name": "Patrice Rushen",
+          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 405413,
+      "name": "Haven't You Heard",
+      "url": "https://open.spotify.com/track/1XH0N21MSNSB9nF3lIti0P"
+    },
+    {
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd"
+    },
+    {
+      "album": {
+        "name": "All This Love",
+        "url": "https://open.spotify.com/album/0idikg3MAbtPVfX7wwfBBW"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "I Like It",
+      "url": "https://open.spotify.com/track/1c5KZhtOAOH7eFOlBekNhS"
+    },
+    {
+      "album": {
+        "name": "Sones Jarochos - Los Nacionales De Jacinto Gatica - Feria Mexicana",
+        "url": "https://open.spotify.com/album/5I2AhtiDpEUVWjeYn2DpyS"
+      },
+      "artists": [
+        {
+          "name": "Sones Jarochos",
+          "url": "https://open.spotify.com/artist/19wDbhvttV6xZQWf8pmxux"
+        },
+        {
+          "name": "Los Nacionales De Jacinto Gatica",
+          "url": "https://open.spotify.com/artist/03evbzgK4Uoo1IpSm551pr"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146066,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/6alwDGEm2A6iVXCitnwFzf"
+    },
+    {
+      "album": {
+        "name": "Mariachi Cobre: Este Es Mi Mariachi",
+        "url": "https://open.spotify.com/album/3nvfqq53rJB9lzBKVQQC2z"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Cobre",
+          "url": "https://open.spotify.com/artist/0BlBCNf7s8Ua8CeX1VKXZQ"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160200,
+      "name": "La Madrugada",
+      "url": "https://open.spotify.com/track/5Tv2c46ko42HV4kU22z5Wf"
+    },
+    {
+      "album": {
+        "name": "L.A. Amistad",
+        "url": "https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3"
+      },
+      "artists": [
+        {
+          "name": "Johnny Polanco Y Su Conjunto Amistad",
+          "url": "https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303106,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW"
+    },
+    {
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+    },
+    {
+      "album": {
+        "name": "Totally Romantic Ballads",
+        "url": "https://open.spotify.com/album/3zeuHqBj3w0Hd4MPgUGCqi"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 242096,
+      "name": "Leave the Door Open",
+      "url": "https://open.spotify.com/track/1WQkIkrkEc0mydf6SVULgH"
+    },
+    {
+      "album": {
+        "name": "Leave The Door Open",
+        "url": "https://open.spotify.com/album/7dfPqXck6BB9wpThrVYBss"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/7MAibcTli4IisCtbHKrGMh"
+    },
+    {
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312333,
+      "name": "Let Your Feelings Show",
+      "url": "https://open.spotify.com/track/2u3apT4hVtL9NaIIhp1eKe"
+    },
+    {
+      "album": {
+        "name": "Echo & The Bunnymen",
+        "url": "https://open.spotify.com/album/6HvylYOCXVdHFtpODOiQCo"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "Lips Like Sugar",
+      "url": "https://open.spotify.com/track/3Oa8vnNXStoOHLbJwwMEDP"
+    },
+    {
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287440,
+      "name": "Lost in Music - 1995 Remaster",
+      "url": "https://open.spotify.com/track/47eSFHsPDVJwssTTG62Af3"
+    },
+    {
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
+    },
+    {
+      "album": {
+        "name": "Madelyn",
+        "url": "https://open.spotify.com/album/2GxqnG8rJVHG18Bm27vpo0"
+      },
+      "artists": [
+        {
+          "name": "Anderson East",
+          "url": "https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195413,
+      "name": "Madelyn",
+      "url": "https://open.spotify.com/track/39ZpHwLpCFBDeLpOphQYLQ"
+    },
+    {
+      "album": {
+        "name": "Little Fictions",
+        "url": "https://open.spotify.com/album/1WDcOG8RXdNbPdFFuN1mec"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265826,
+      "name": "Magnificent (She Says)",
+      "url": "https://open.spotify.com/track/7nZOHks3CYi2hAfRoVrolM"
+    },
+    {
+      "album": {
+        "name": "3 AM (In Beats We Trust)",
+        "url": "https://open.spotify.com/album/5SG03amThdGbDpvOufQLev"
+      },
+      "artists": [
+        {
+          "name": "Sidestepper",
+          "url": "https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214733,
+      "name": "Mas Papaya",
+      "url": "https://open.spotify.com/track/4U5S0fp1d0fzHbO2hMasTY"
+    },
+    {
+      "album": {
+        "name": "The Seldom Seen Kid (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/44w1MmIi5i05Y0UVBHaWRt"
+      },
+      "artists": [
+        {
+          "name": "Elbow",
+          "url": "https://open.spotify.com/artist/0TJB3EE2efClsYIDQ8V2Jk"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350160,
+      "name": "Mirrorball",
+      "url": "https://open.spotify.com/track/04xBdpu35JfdRI4S1t5mX2"
+    },
+    {
+      "album": {
+        "name": "The Black Album",
+        "url": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "My 1st Song",
+      "url": "https://open.spotify.com/track/69W44ENAu1t2JmZU6OJ2B7"
+    },
+    {
+      "album": {
+        "name": "Nothing I Wanna Know About",
+        "url": "https://open.spotify.com/album/3r5BxCunystsYCUstSbjYF"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 247092,
+      "name": "Nothing I Wanna Know About",
+      "url": "https://open.spotify.com/track/1QPkENda17YtGTbtYOrAL1"
+    },
+    {
+      "album": {
+        "name": "Hard Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2sQ1tG5dvAZFQVa5HaI3Hy"
+      },
+      "artists": [
+        {
+          "name": "The Bamboos",
+          "url": "https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247092,
+      "name": "Nothing I Wanna Know About",
+      "url": "https://open.spotify.com/track/25nVJKeHsqMDnxwXXy4kgt"
+    },
+    {
+      "album": {
+        "name": "Camila Rondon",
+        "url": "https://open.spotify.com/album/2XoEBhPuM8B6Xg3f0WuXuk"
+      },
+      "artists": [
+        {
+          "name": "Camila Rondon",
+          "url": "https://open.spotify.com/artist/03U4DScpVVqpEHjw7MJ3CI"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233267,
+      "name": "Palavra de Bamba",
+      "url": "https://open.spotify.com/track/0CwLTJ6w8EMZ8f9c6GkxcV"
+    },
+    {
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395400,
+      "name": "Para Och\u00fan",
+      "url": "https://open.spotify.com/track/0p29ftP2K8EdaryUMKfyyj"
+    },
+    {
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "album": {
+        "name": "Phoebe Snow",
+        "url": "https://open.spotify.com/album/2WmtJRhLcDH9u6RPg65eHl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Snow",
+          "url": "https://open.spotify.com/artist/3iuobQyYhofKRr5W6HZoKt"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Poetry Man",
+      "url": "https://open.spotify.com/track/5uhULfoDgTvz7BeWlqrV4a"
+    },
+    {
+      "album": {
+        "name": "The Lexicon Of Love",
+        "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
+      },
+      "artists": [
+        {
+          "name": "ABC",
+          "url": "https://open.spotify.com/artist/2s79xe5F6eUQkjwjww27Fh"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204266,
+      "name": "Poison Arrow",
+      "url": "https://open.spotify.com/track/7abGerACQx9G1OBqHYFKAb"
+    },
+    {
+      "album": {
+        "name": "Tourist (Remastered)",
+        "url": "https://open.spotify.com/album/0YqCvOMhp8enM01an9Nntj"
+      },
+      "artists": [
+        {
+          "name": "St Germain",
+          "url": "https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416565,
+      "name": "Rose rouge",
+      "url": "https://open.spotify.com/track/1divptdjcWXvF1aflfTQnw"
+    },
+    {
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Seven Days in Sunny June",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p"
+    },
+    {
+      "album": {
+        "name": "The Doors",
+        "url": "https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Soul Kitchen",
+      "url": "https://open.spotify.com/track/2Xdc6qyaFBJZ8QW1KhpVci"
+    },
+    {
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256880,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4JaUTzskkF6DnHmUvZmPnH"
+    },
+    {
+      "album": {
+        "name": "Rufus Featuring Chaka Khan",
+        "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
+    },
+    {
+      "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337109,
+      "name": "That's the Way - Remaster",
+      "url": "https://open.spotify.com/track/1ZUv3ISx2nFaz0JimVdcoT"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica (Deluxe Version)",
+        "url": "https://open.spotify.com/album/00ncSDWdPuc4EkTblc0mEH"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 273466,
+      "name": "Tiene Sabor, Tiene Saz\u00f3n",
+      "url": "https://open.spotify.com/track/0Tixgd5JE2mFLm2LGpeEhY"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/5OfBaqQtoYQc3i0LgKVAEC"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273466,
+      "name": "Tiene Sabor, Tiene Saz\u00f3n",
+      "url": "https://open.spotify.com/track/6OghUc8FwEZOvEszyVud28"
+    },
+    {
+      "album": {
+        "name": "Ondatr\u00f3pica",
+        "url": "https://open.spotify.com/album/7yjJJnG1eUZRJkwHcjqg8Y"
+      },
+      "artists": [
+        {
+          "name": "Ondatr\u00f3pica",
+          "url": "https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-30",
+      "duration_ms": 273466,
+      "name": "Tiene Sabor, Tiene Saz\u00f3n",
+      "url": "https://open.spotify.com/track/7CPu17eltuCnWj3QZtlI8Z"
+    },
+    {
+      "album": {
+        "name": "Prone",
+        "url": "https://open.spotify.com/album/0AIDXpbImFcertAo6sI1ou"
+      },
+      "artists": [
+        {
+          "name": "Ned Doheny",
+          "url": "https://open.spotify.com/artist/59QKG3eYCCmqC6SqUwXvSw"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286533,
+      "name": "To Prove My Love",
+      "url": "https://open.spotify.com/track/3UTGUg0joTS5EB8YAD7W28"
+    },
+    {
+      "album": {
+        "name": "Arriba Huentitan",
+        "url": "https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "date_added": "2021-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "Volver, Volver",
+      "url": "https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4IkhbdzRjb2"
 }

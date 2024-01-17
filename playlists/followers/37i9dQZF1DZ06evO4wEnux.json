@@ -1,472 +1,679 @@
 {
-  "2022-09-17": 505,
-  "2022-09-18": 505,
-  "2022-09-19": 506,
-  "2022-09-20": 510,
-  "2022-09-21": 516,
-  "2022-09-22": 518,
-  "2022-09-23": 519,
-  "2022-09-24": 519,
-  "2022-09-25": 521,
-  "2022-09-26": 521,
-  "2022-09-27": 523,
-  "2022-09-28": 522,
-  "2022-09-29": 522,
-  "2022-09-30": 522,
-  "2022-10-01": 523,
-  "2022-10-02": 522,
-  "2022-10-03": 525,
-  "2022-10-04": 525,
-  "2022-10-05": 525,
-  "2022-10-06": 525,
-  "2022-10-07": 525,
-  "2022-10-08": 525,
-  "2022-10-09": 526,
-  "2022-10-10": 526,
-  "2022-10-11": 527,
-  "2022-10-12": 528,
-  "2022-10-13": 528,
-  "2022-10-14": 528,
-  "2022-10-15": 528,
-  "2022-10-16": 528,
-  "2022-10-17": 529,
-  "2022-10-18": 529,
-  "2022-10-19": 528,
-  "2022-10-20": 529,
-  "2022-10-21": 530,
-  "2022-10-22": 530,
-  "2022-10-23": 530,
-  "2022-10-24": 531,
-  "2022-10-25": 531,
-  "2022-10-26": 531,
-  "2022-10-27": 531,
-  "2022-10-28": 532,
-  "2022-10-29": 532,
-  "2022-10-30": 532,
-  "2022-10-31": 533,
-  "2022-11-01": 534,
-  "2022-11-02": 534,
-  "2022-11-03": 534,
-  "2022-11-04": 533,
-  "2022-11-05": 533,
-  "2022-11-06": 533,
-  "2022-11-07": 533,
-  "2022-11-08": 534,
-  "2022-11-09": 533,
-  "2022-11-10": 535,
-  "2022-11-11": 536,
-  "2022-11-12": 537,
-  "2022-11-13": 537,
-  "2022-11-14": 538,
-  "2022-11-15": 538,
-  "2022-11-16": 537,
-  "2022-11-17": 539,
-  "2022-11-18": 538,
-  "2022-11-19": 539,
-  "2022-11-20": 539,
-  "2022-11-21": 539,
-  "2022-11-22": 539,
-  "2022-11-23": 538,
-  "2022-11-24": 540,
-  "2022-11-25": 540,
-  "2022-11-26": 541,
-  "2022-11-27": 541,
-  "2022-11-28": 541,
-  "2022-11-29": 540,
-  "2022-11-30": 539,
-  "2022-12-01": 540,
-  "2022-12-02": 541,
-  "2022-12-03": 541,
-  "2022-12-04": 541,
-  "2022-12-05": 541,
-  "2022-12-06": 543,
-  "2022-12-07": 544,
-  "2022-12-08": 544,
-  "2022-12-09": 544,
-  "2022-12-10": 545,
-  "2022-12-11": 545,
-  "2022-12-12": 545,
-  "2022-12-13": 547,
-  "2022-12-14": 547,
-  "2022-12-15": 547,
-  "2022-12-16": 547,
-  "2022-12-17": 547,
-  "2022-12-18": 548,
-  "2022-12-19": 549,
-  "2022-12-20": 550,
-  "2022-12-21": 550,
-  "2022-12-22": 551,
-  "2022-12-24": 551,
-  "2022-12-25": 551,
-  "2022-12-26": 553,
-  "2022-12-27": 553,
-  "2022-12-28": 553,
-  "2022-12-29": 554,
-  "2022-12-30": 556,
-  "2022-12-31": 556,
-  "2023-01-01": 556,
-  "2023-01-02": 555,
-  "2023-01-03": 555,
-  "2023-01-04": 556,
-  "2023-01-05": 556,
-  "2023-01-06": 556,
-  "2023-01-07": 558,
-  "2023-01-08": 558,
-  "2023-01-09": 560,
-  "2023-01-10": 560,
-  "2023-01-11": 561,
-  "2023-01-12": 561,
-  "2023-01-13": 562,
-  "2023-01-14": 562,
-  "2023-01-15": 562,
-  "2023-01-16": 563,
-  "2023-01-17": 563,
-  "2023-01-18": 562,
-  "2023-01-19": 563,
-  "2023-01-20": 564,
-  "2023-01-21": 566,
-  "2023-01-22": 567,
-  "2023-01-23": 567,
-  "2023-01-24": 567,
-  "2023-01-25": 568,
-  "2023-01-26": 568,
-  "2023-01-27": 569,
-  "2023-01-28": 570,
-  "2023-01-29": 570,
-  "2023-01-30": 571,
-  "2023-01-31": 571,
-  "2023-02-01": 572,
-  "2023-02-02": 572,
-  "2023-02-03": 574,
-  "2023-02-04": 575,
-  "2023-02-05": 576,
-  "2023-02-06": 576,
-  "2023-02-07": 576,
-  "2023-02-08": 577,
-  "2023-02-09": 577,
-  "2023-02-10": 576,
-  "2023-02-11": 576,
-  "2023-02-12": 576,
-  "2023-02-13": 577,
-  "2023-02-14": 577,
-  "2023-02-15": 577,
-  "2023-02-16": 578,
-  "2023-02-17": 578,
-  "2023-02-18": 577,
-  "2023-02-19": 577,
-  "2023-02-20": 578,
-  "2023-02-21": 579,
-  "2023-02-22": 579,
-  "2023-02-23": 580,
-  "2023-02-24": 582,
-  "2023-02-25": 582,
-  "2023-02-26": 582,
-  "2023-02-27": 582,
-  "2023-02-28": 582,
-  "2023-03-01": 582,
-  "2023-03-02": 582,
-  "2023-03-03": 583,
-  "2023-03-04": 583,
-  "2023-03-05": 584,
-  "2023-03-06": 584,
-  "2023-03-07": 583,
-  "2023-03-08": 583,
-  "2023-03-09": 583,
-  "2023-03-10": 583,
-  "2023-03-11": 583,
-  "2023-03-12": 583,
-  "2023-03-13": 583,
-  "2023-03-14": 583,
-  "2023-03-15": 583,
-  "2023-03-16": 583,
-  "2023-03-17": 583,
-  "2023-03-18": 584,
-  "2023-03-19": 584,
-  "2023-03-20": 584,
-  "2023-03-21": 584,
-  "2023-03-22": 584,
-  "2023-03-23": 585,
-  "2023-03-24": 585,
-  "2023-03-25": 590,
-  "2023-03-26": 590,
-  "2023-03-27": 590,
-  "2023-03-28": 590,
-  "2023-03-29": 590,
-  "2023-03-30": 591,
-  "2023-03-31": 591,
-  "2023-04-01": 590,
-  "2023-04-02": 590,
-  "2023-04-03": 590,
-  "2023-04-04": 590,
-  "2023-04-05": 590,
-  "2023-04-06": 590,
-  "2023-04-07": 590,
-  "2023-04-09": 592,
-  "2023-04-10": 592,
-  "2023-04-11": 595,
-  "2023-04-12": 595,
-  "2023-04-13": 594,
-  "2023-04-14": 592,
-  "2023-04-15": 592,
-  "2023-04-16": 592,
-  "2023-04-17": 592,
-  "2023-04-18": 593,
-  "2023-04-19": 596,
-  "2023-04-20": 596,
-  "2023-04-21": 599,
-  "2023-04-22": 603,
-  "2023-04-23": 602,
-  "2023-04-24": 602,
-  "2023-04-25": 603,
-  "2023-04-26": 603,
-  "2023-04-27": 603,
-  "2023-04-28": 604,
-  "2023-04-29": 605,
-  "2023-04-30": 606,
-  "2023-05-01": 607,
-  "2023-05-02": 607,
-  "2023-05-03": 607,
-  "2023-05-04": 609,
-  "2023-05-05": 609,
-  "2023-05-06": 609,
-  "2023-05-07": 610,
-  "2023-05-08": 610,
-  "2023-05-09": 611,
-  "2023-05-10": 612,
-  "2023-05-11": 612,
-  "2023-05-12": 612,
-  "2023-05-13": 613,
-  "2023-05-14": 614,
-  "2023-05-15": 614,
-  "2023-05-16": 617,
-  "2023-05-17": 618,
-  "2023-05-18": 618,
-  "2023-05-19": 618,
-  "2023-05-20": 618,
-  "2023-05-21": 618,
-  "2023-05-22": 618,
-  "2023-05-23": 620,
-  "2023-05-24": 619,
-  "2023-05-25": 620,
-  "2023-05-26": 622,
-  "2023-05-27": 623,
-  "2023-05-28": 624,
-  "2023-05-29": 624,
-  "2023-05-30": 625,
-  "2023-05-31": 625,
-  "2023-06-01": 625,
-  "2023-06-02": 625,
-  "2023-06-03": 624,
-  "2023-06-04": 625,
-  "2023-06-05": 625,
-  "2023-06-06": 625,
-  "2023-06-07": 625,
-  "2023-06-08": 627,
-  "2023-06-09": 627,
-  "2023-06-10": 628,
-  "2023-06-11": 628,
-  "2023-06-12": 628,
-  "2023-06-13": 629,
-  "2023-06-14": 630,
-  "2023-06-15": 631,
-  "2023-06-16": 633,
-  "2023-06-17": 633,
-  "2023-06-18": 633,
-  "2023-06-19": 632,
-  "2023-06-20": 633,
-  "2023-06-21": 634,
-  "2023-06-22": 632,
-  "2023-06-23": 632,
-  "2023-06-24": 634,
-  "2023-06-25": 634,
-  "2023-06-26": 634,
-  "2023-06-27": 634,
-  "2023-06-28": 634,
-  "2023-06-29": 634,
-  "2023-06-30": 634,
-  "2023-07-01": 635,
-  "2023-07-02": 635,
-  "2023-07-03": 636,
-  "2023-07-04": 639,
-  "2023-07-05": 639,
-  "2023-07-06": 639,
-  "2023-07-07": 639,
-  "2023-07-08": 639,
-  "2023-07-09": 639,
-  "2023-07-10": 639,
-  "2023-07-11": 640,
-  "2023-07-12": 640,
-  "2023-07-13": 640,
-  "2023-07-14": 640,
-  "2023-07-15": 640,
-  "2023-07-16": 640,
-  "2023-07-17": 640,
-  "2023-07-18": 641,
-  "2023-07-19": 641,
-  "2023-07-20": 641,
-  "2023-07-21": 642,
-  "2023-07-22": 642,
-  "2023-07-23": 642,
-  "2023-07-24": 643,
-  "2023-07-25": 642,
-  "2023-07-26": 643,
-  "2023-07-27": 646,
-  "2023-07-28": 646,
-  "2023-07-29": 647,
-  "2023-07-30": 647,
-  "2023-07-31": 653,
-  "2023-08-01": 655,
-  "2023-08-02": 658,
-  "2023-08-03": 660,
-  "2023-08-04": 661,
-  "2023-08-05": 662,
-  "2023-08-06": 666,
-  "2023-08-07": 666,
-  "2023-08-08": 667,
-  "2023-08-09": 668,
-  "2023-08-10": 669,
-  "2023-08-11": 669,
-  "2023-08-12": 669,
-  "2023-08-13": 669,
-  "2023-08-14": 669,
-  "2023-08-15": 669,
-  "2023-08-16": 669,
-  "2023-08-17": 669,
-  "2023-08-18": 669,
-  "2023-08-19": 669,
-  "2023-08-20": 671,
-  "2023-08-21": 671,
-  "2023-08-22": 672,
-  "2023-08-23": 672,
-  "2023-08-24": 672,
-  "2023-08-25": 672,
-  "2023-08-26": 673,
-  "2023-08-27": 673,
-  "2023-08-28": 675,
-  "2023-08-29": 675,
-  "2023-08-30": 675,
-  "2023-08-31": 677,
-  "2023-09-01": 678,
-  "2023-09-02": 678,
-  "2023-09-03": 678,
-  "2023-09-04": 678,
-  "2023-09-05": 678,
-  "2023-09-06": 678,
-  "2023-09-07": 678,
-  "2023-09-08": 678,
-  "2023-09-09": 678,
-  "2023-09-10": 678,
-  "2023-09-11": 678,
-  "2023-09-12": 678,
-  "2023-09-13": 678,
-  "2023-09-14": 678,
-  "2023-09-15": 678,
-  "2023-09-16": 678,
-  "2023-09-17": 678,
-  "2023-09-18": 678,
-  "2023-09-19": 678,
-  "2023-09-20": 678,
-  "2023-09-21": 678,
-  "2023-09-22": 718,
-  "2023-09-23": 718,
-  "2023-09-24": 718,
-  "2023-09-25": 718,
-  "2023-09-26": 723,
-  "2023-09-27": 723,
-  "2023-09-28": 723,
-  "2023-09-29": 723,
-  "2023-09-30": 723,
-  "2023-10-01": 723,
-  "2023-10-02": 723,
-  "2023-10-03": 723,
-  "2023-10-04": 723,
-  "2023-10-05": 723,
-  "2023-10-06": 723,
-  "2023-10-07": 723,
-  "2023-10-08": 723,
-  "2023-10-09": 723,
-  "2023-10-10": 723,
-  "2023-10-11": 723,
-  "2023-10-12": 723,
-  "2023-10-13": 723,
-  "2023-10-14": 723,
-  "2023-10-15": 723,
-  "2023-10-16": 723,
-  "2023-10-17": 723,
-  "2023-10-18": 723,
-  "2023-10-19": 723,
-  "2023-10-20": 723,
-  "2023-10-21": 723,
-  "2023-10-22": 723,
-  "2023-10-23": 723,
-  "2023-10-24": 723,
-  "2023-10-25": 723,
-  "2023-10-26": 723,
-  "2023-10-27": 723,
-  "2023-10-28": 723,
-  "2023-10-29": 723,
-  "2023-10-30": 723,
-  "2023-10-31": 723,
-  "2023-11-01": 723,
-  "2023-11-02": 723,
-  "2023-11-03": 723,
-  "2023-11-04": 723,
-  "2023-11-05": 723,
-  "2023-11-06": 723,
-  "2023-11-07": 723,
-  "2023-11-08": 723,
-  "2023-11-09": 723,
-  "2023-11-10": 723,
-  "2023-11-11": 736,
-  "2023-11-12": 736,
-  "2023-11-13": 736,
-  "2023-11-14": 736,
-  "2023-11-15": 736,
-  "2023-11-16": 736,
-  "2023-11-17": 736,
-  "2023-11-18": 736,
-  "2023-11-19": 736,
-  "2023-11-20": 736,
-  "2023-11-21": 736,
-  "2023-11-22": 736,
-  "2023-11-23": 736,
-  "2023-11-24": 736,
-  "2023-11-25": 736,
-  "2023-11-26": 736,
-  "2023-11-27": 736,
-  "2023-11-28": 736,
-  "2023-11-29": 736,
-  "2023-11-30": 736,
-  "2023-12-01": 736,
-  "2023-12-02": 736,
-  "2023-12-03": 736,
-  "2023-12-04": 736,
-  "2023-12-05": 736,
-  "2023-12-06": 736,
-  "2023-12-07": 736,
-  "2023-12-08": 736,
-  "2023-12-09": 736,
-  "2023-12-10": 736,
-  "2023-12-11": 736,
-  "2023-12-12": 736,
-  "2023-12-13": 736,
-  "2023-12-14": 748,
-  "2023-12-15": 750,
-  "2023-12-16": 749,
-  "2023-12-17": 749,
-  "2023-12-18": 751,
-  "2023-12-19": 751,
-  "2023-12-20": 752,
-  "2023-12-21": 752,
-  "2023-12-22": 752,
-  "2023-12-23": 752,
-  "2023-12-24": 752,
-  "2023-12-25": 752,
-  "2023-12-26": 753,
-  "2023-12-27": 753,
-  "2023-12-30": 755,
-  "2023-12-31": 757,
-  "2024-01-01": 757,
-  "2024-01-02": 757,
-  "2024-01-03": 757
+  "2024-01-17": 759,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Fatherson. The essential tracks, all in one playlist.",
+  "name": "This Is Fatherson",
+  "tracks": [
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 192960,
+      "name": "365",
+      "url": "https://open.spotify.com/track/0n3ZzesrKA1H5ZTxfFQiDg"
+    },
+    {
+      "album": {
+        "name": "Afterwords",
+        "url": "https://open.spotify.com/album/5qxhSY3SgCnFLaMQYtOF4R"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268777,
+      "name": "Afterwords",
+      "url": "https://open.spotify.com/track/7Jp5JCzWgFBHrpJGQI0gzu"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191657,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7ARF5nMaEIwAvGNoY5V5DT"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194919,
+      "name": "An Island",
+      "url": "https://open.spotify.com/track/677aexYSCY66OqFPoVhA57"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Better Friend",
+      "url": "https://open.spotify.com/track/0NVQtZQNg1m8uNE5NIKDaG"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210547,
+      "name": "Cat Stevens",
+      "url": "https://open.spotify.com/track/42oEICWlSD1QMx2LMyHS9o"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Charm School",
+      "url": "https://open.spotify.com/track/5J1RjqttTtHcMimE4C1RZn"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215933,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/0AiEk76GizsvBs4Qqribjl"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Do It for Yourself",
+      "url": "https://open.spotify.com/track/4nqvfPLOhsKuKOWLlpWpHO"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 158914,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/1GJOD1hL174nX6mdaLXeSs"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 198013,
+      "name": "End Of The World",
+      "url": "https://open.spotify.com/track/2MZyaYM9njg7EYYBVvy59N"
+    },
+    {
+      "album": {
+        "name": "First Born",
+        "url": "https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194360,
+      "name": "First Born",
+      "url": "https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 242733,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/7jgWtz8BD3dZBLBnKtsu63"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 217133,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/3U0VBpy0YU3dAE7KCh9s0W"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 210827,
+      "name": "Half the Things",
+      "url": "https://open.spotify.com/track/7iHkJ0K8sWYs9R8xERHd5s"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203668,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5efUl9eBORs9HtkA3M8FRZ"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 198413,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/5ZTCrAYPecQ2zjt7lmwNYw"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201450,
+      "name": "I Like Not Knowing",
+      "url": "https://open.spotify.com/track/4fX5Tn7EGAuyYIk2VUaQER"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 297828,
+      "name": "James",
+      "url": "https://open.spotify.com/track/2gyUKRywqkiAVP0X3rUj2b"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 220375,
+      "name": "Joanna",
+      "url": "https://open.spotify.com/track/3ba6RDNSJ1bJHTgme6QtIs"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242868,
+      "name": "Just Past the Point of Breaking",
+      "url": "https://open.spotify.com/track/43AD5Zw1Nc4ksgbR9vLGUl"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188447,
+      "name": "Lights",
+      "url": "https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200881,
+      "name": "Lost Little Boys",
+      "url": "https://open.spotify.com/track/69QIoEBfch6iEtiU2w6ztR"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185266,
+      "name": "Love For Air",
+      "url": "https://open.spotify.com/track/0g2yvHffU81zq8kENgILCZ"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "Making Waves",
+      "url": "https://open.spotify.com/track/3m56AGXgBIaVGbGO1MJx5T"
+    },
+    {
+      "album": {
+        "name": "I Am an Island",
+        "url": "https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180680,
+      "name": "Mine for Me",
+      "url": "https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "Normal People",
+      "url": "https://open.spotify.com/track/1AdWwPqoPgaC7Ax2rdR1ij"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        },
+        {
+          "name": "Bryde",
+          "url": "https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 284973,
+      "name": "Nothing to No One",
+      "url": "https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319506,
+      "name": "Oh Yes",
+      "url": "https://open.spotify.com/track/6zK1NS9Mgik6BKycYDFRFs"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189792,
+      "name": "Open Book",
+      "url": "https://open.spotify.com/track/2sfZAt7R4teT1vyWtikkTR"
+    },
+    {
+      "album": {
+        "name": "Piece Of Mind",
+        "url": "https://open.spotify.com/album/1B5wJGS5bsRvEdNg7Nyp08"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Piece Of Mind",
+      "url": "https://open.spotify.com/track/5XlTOWQoMZttmK9pZvgzLv"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314066,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/7Jf9Lpz4MWXDMRVj2CUv0l"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253783,
+      "name": "Sleeping Over",
+      "url": "https://open.spotify.com/track/52tMVWCZGC9hiQ4CZgdm3y"
+    },
+    {
+      "album": {
+        "name": "Normal Fears",
+        "url": "https://open.spotify.com/album/5sHW13VMI7aWGPgKM5KaJB"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2023-06-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "The Feeling And The Sound",
+      "url": "https://open.spotify.com/track/7L23QYPDsq0xtDQ1493KNV"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205600,
+      "name": "The Landscape",
+      "url": "https://open.spotify.com/track/1LxFtsrTWzrv7VWHxuHElR"
+    },
+    {
+      "album": {
+        "name": "Sum of All Your Parts",
+        "url": "https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238546,
+      "name": "The Rain",
+      "url": "https://open.spotify.com/track/5TJXQHPvQpcYssuFnL8hy8"
+    },
+    {
+      "album": {
+        "name": "Open Book",
+        "url": "https://open.spotify.com/album/3QtRa1ioVt6XegDsxMK8MH"
+      },
+      "artists": [
+        {
+          "name": "Fatherson",
+          "url": "https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251068,
+      "name": "Wondrous Heart",
+      "url": "https://open.spotify.com/track/62LS6ZD9cMZszkioaeLTOo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux"
 }

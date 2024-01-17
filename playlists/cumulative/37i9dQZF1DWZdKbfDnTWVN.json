@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "basic (bass boosted)",
+        "url": "https://open.spotify.com/album/1WwGCU051HFxDbdnXTbzsU"
+      },
+      "artists": [
+        {
+          "name": "Trill Hunnid Ke",
+          "url": "https://open.spotify.com/artist/060e8JfWsQ4SemQo5iB8h4"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108009,
+      "name": "basic - bass boosted",
+      "url": "https://open.spotify.com/track/49Y9vFlnZvL9kC8tHprxMp"
+    },
+    {
+      "album": {
         "name": "Big Makamasi & Co.",
         "url": "https://open.spotify.com/album/4HljX1IzyMREWoPJSCAALZ"
       },
@@ -406,7 +424,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 100571,
       "name": "Can't Stop, Won't Stop",
       "url": "https://open.spotify.com/track/4XHwTlzlBacs3hHVMvlPGH"
@@ -1907,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Mtungi",
+        "url": "https://open.spotify.com/album/3yh1hLgnx7f682n9E3kdZ4"
+      },
+      "artists": [
+        {
+          "name": "FEMI ONE",
+          "url": "https://open.spotify.com/artist/1Kg4nxeTD9wP3082jp1nkH"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185709,
+      "name": "Mtungi",
+      "url": "https://open.spotify.com/track/1D8EvJwAQaBrS5mY2xDZht"
+    },
+    {
+      "album": {
         "name": "Mukta",
         "url": "https://open.spotify.com/album/71d0dEnWw8vBQ2Ka3MQtKG"
       },
@@ -3183,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/7i2SN6a0kFL5efKESYcdZv"
+      },
+      "artists": [
+        {
+          "name": "Stella Mwangi",
+          "url": "https://open.spotify.com/artist/0ypwPd6ZLWkYuNVRnRFor2"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140766,
+      "name": "Talk That Talk",
+      "url": "https://open.spotify.com/track/3X2umSRAiUSxKPDck8eaN1"
+    },
+    {
+      "album": {
         "name": "tha feelin",
         "url": "https://open.spotify.com/album/2pQ8DLVKqm5YYIseTwjnhZ"
       },
@@ -3322,7 +3376,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 192133,
       "name": "TIMELESS (Prod. Gesaffelstein)",
       "url": "https://open.spotify.com/track/1giiFkAh7SxwASfj3JCdrZ"

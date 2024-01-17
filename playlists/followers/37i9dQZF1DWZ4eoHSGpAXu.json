@@ -1,599 +1,1849 @@
 {
-  "2022-05-11": 108861,
-  "2022-05-12": 108868,
-  "2022-05-13": 108870,
-  "2022-05-14": 108863,
-  "2022-05-15": 108868,
-  "2022-05-16": 108874,
-  "2022-05-17": 108881,
-  "2022-05-18": 108883,
-  "2022-05-19": 108885,
-  "2022-05-20": 108887,
-  "2022-05-21": 108895,
-  "2022-05-22": 108895,
-  "2022-05-23": 108891,
-  "2022-05-24": 108889,
-  "2022-05-25": 108889,
-  "2022-05-26": 108887,
-  "2022-05-27": 108884,
-  "2022-05-28": 108885,
-  "2022-05-29": 108886,
-  "2022-05-30": 108889,
-  "2022-05-31": 108898,
-  "2022-06-01": 108897,
-  "2022-06-02": 108894,
-  "2022-06-03": 108891,
-  "2022-06-04": 108888,
-  "2022-06-05": 108893,
-  "2022-06-06": 108897,
-  "2022-06-07": 108894,
-  "2022-06-08": 108898,
-  "2022-06-09": 108908,
-  "2022-06-10": 108901,
-  "2022-06-11": 108910,
-  "2022-06-12": 108916,
-  "2022-06-13": 108914,
-  "2022-06-14": 108909,
-  "2022-06-15": 108906,
-  "2022-06-16": 108898,
-  "2022-06-17": 108894,
-  "2022-06-18": 108898,
-  "2022-06-19": 108896,
-  "2022-06-20": 108896,
-  "2022-06-21": 108891,
-  "2022-06-22": 108900,
-  "2022-06-23": 108900,
-  "2022-06-24": 108899,
-  "2022-06-25": 108909,
-  "2022-06-26": 108916,
-  "2022-06-27": 108921,
-  "2022-06-28": 108915,
-  "2022-06-29": 108914,
-  "2022-06-30": 108919,
-  "2022-07-01": 108917,
-  "2022-07-02": 108918,
-  "2022-07-03": 108919,
-  "2022-07-04": 108923,
-  "2022-07-05": 108918,
-  "2022-07-06": 108916,
-  "2022-07-07": 108921,
-  "2022-07-08": 108920,
-  "2022-07-09": 108915,
-  "2022-07-10": 108913,
-  "2022-07-11": 108910,
-  "2022-07-12": 108903,
-  "2022-07-13": 108902,
-  "2022-07-14": 108906,
-  "2022-07-15": 108897,
-  "2022-07-16": 108892,
-  "2022-07-17": 108894,
-  "2022-07-18": 108891,
-  "2022-07-19": 108889,
-  "2022-07-20": 108894,
-  "2022-07-21": 108887,
-  "2022-07-22": 108881,
-  "2022-07-23": 108879,
-  "2022-07-24": 108876,
-  "2022-07-25": 108875,
-  "2022-07-26": 108880,
-  "2022-07-27": 108877,
-  "2022-07-28": 108879,
-  "2022-07-29": 108880,
-  "2022-07-30": 108869,
-  "2022-07-31": 108869,
-  "2022-08-01": 108869,
-  "2022-08-02": 108876,
-  "2022-08-03": 108876,
-  "2022-08-04": 108881,
-  "2022-08-05": 108885,
-  "2022-08-06": 108886,
-  "2022-08-07": 108888,
-  "2022-08-08": 108887,
-  "2022-08-09": 108880,
-  "2022-08-10": 108875,
-  "2022-08-11": 108879,
-  "2022-08-12": 108869,
-  "2022-08-13": 108873,
-  "2022-08-14": 108870,
-  "2022-08-15": 108876,
-  "2022-08-16": 108884,
-  "2022-08-17": 108890,
-  "2022-08-18": 108894,
-  "2022-08-19": 108898,
-  "2022-08-20": 108893,
-  "2022-08-21": 108883,
-  "2022-08-22": 108884,
-  "2022-08-23": 108880,
-  "2022-08-24": 108887,
-  "2022-08-25": 108895,
-  "2022-08-26": 108903,
-  "2022-08-27": 108910,
-  "2022-08-28": 108918,
-  "2022-08-29": 108921,
-  "2022-08-30": 108931,
-  "2022-08-31": 108927,
-  "2022-09-01": 108935,
-  "2022-09-02": 108945,
-  "2022-09-03": 108953,
-  "2022-09-04": 108951,
-  "2022-09-05": 108967,
-  "2022-09-06": 108978,
-  "2022-09-07": 108983,
-  "2022-09-09": 109012,
-  "2022-09-10": 109017,
-  "2022-09-11": 109020,
-  "2022-09-12": 109029,
-  "2022-09-13": 109030,
-  "2022-09-15": 109057,
-  "2022-09-16": 109093,
-  "2022-09-17": 109118,
-  "2022-09-18": 109154,
-  "2022-09-19": 109193,
-  "2022-09-20": 109249,
-  "2022-09-21": 109317,
-  "2022-09-22": 109395,
-  "2022-09-23": 109465,
-  "2022-09-24": 109503,
-  "2022-09-25": 109530,
-  "2022-09-26": 109585,
-  "2022-09-27": 109625,
-  "2022-09-28": 109687,
-  "2022-09-29": 109754,
-  "2022-09-30": 109801,
-  "2022-10-01": 109837,
-  "2022-10-02": 109866,
-  "2022-10-03": 109915,
-  "2022-10-04": 109955,
-  "2022-10-05": 110002,
-  "2022-10-06": 110062,
-  "2022-10-07": 110096,
-  "2022-10-08": 110136,
-  "2022-10-09": 110219,
-  "2022-10-10": 110231,
-  "2022-10-11": 110279,
-  "2022-10-12": 110340,
-  "2022-10-13": 110446,
-  "2022-10-14": 110488,
-  "2022-10-15": 110512,
-  "2022-10-16": 110545,
-  "2022-10-17": 110566,
-  "2022-10-18": 110609,
-  "2022-10-19": 110635,
-  "2022-10-20": 110674,
-  "2022-10-21": 110714,
-  "2022-10-22": 110725,
-  "2022-10-23": 110737,
-  "2022-10-24": 110764,
-  "2022-10-25": 110798,
-  "2022-10-26": 110826,
-  "2022-10-27": 110857,
-  "2022-10-28": 110887,
-  "2022-10-29": 110900,
-  "2022-10-30": 110932,
-  "2022-10-31": 110966,
-  "2022-11-01": 110987,
-  "2022-11-02": 111000,
-  "2022-11-03": 111036,
-  "2022-11-04": 111070,
-  "2022-11-05": 111101,
-  "2022-11-06": 111124,
-  "2022-11-07": 111146,
-  "2022-11-08": 111173,
-  "2022-11-09": 111197,
-  "2022-11-10": 111230,
-  "2022-11-11": 111256,
-  "2022-11-12": 111292,
-  "2022-11-13": 111307,
-  "2022-11-14": 111331,
-  "2022-11-15": 111343,
-  "2022-11-16": 111354,
-  "2022-11-17": 111385,
-  "2022-11-18": 111394,
-  "2022-11-19": 111382,
-  "2022-11-20": 111386,
-  "2022-11-21": 111413,
-  "2022-11-22": 111489,
-  "2022-11-23": 111472,
-  "2022-11-24": 111522,
-  "2022-11-25": 111641,
-  "2022-11-26": 111662,
-  "2022-11-27": 111686,
-  "2022-11-28": 111710,
-  "2022-11-29": 111729,
-  "2022-11-30": 111753,
-  "2022-12-01": 111778,
-  "2022-12-02": 111798,
-  "2022-12-03": 111818,
-  "2022-12-04": 111821,
-  "2022-12-05": 111834,
-  "2022-12-06": 111854,
-  "2022-12-07": 111865,
-  "2022-12-08": 111881,
-  "2022-12-09": 111890,
-  "2022-12-10": 111908,
-  "2022-12-11": 111920,
-  "2022-12-12": 111930,
-  "2022-12-13": 111944,
-  "2022-12-14": 111977,
-  "2022-12-15": 111998,
-  "2022-12-16": 112017,
-  "2022-12-17": 112028,
-  "2022-12-18": 112037,
-  "2022-12-19": 112053,
-  "2022-12-20": 112083,
-  "2022-12-21": 112083,
-  "2022-12-22": 112100,
-  "2022-12-24": 112100,
-  "2022-12-25": 112111,
-  "2022-12-26": 112115,
-  "2022-12-27": 112123,
-  "2022-12-28": 112134,
-  "2022-12-29": 112150,
-  "2022-12-30": 112156,
-  "2022-12-31": 112163,
-  "2023-01-01": 112166,
-  "2023-01-02": 112179,
-  "2023-01-03": 112194,
-  "2023-01-04": 112211,
-  "2023-01-05": 112253,
-  "2023-01-06": 112279,
-  "2023-01-07": 112307,
-  "2023-01-08": 112305,
-  "2023-01-09": 112330,
-  "2023-01-10": 112347,
-  "2023-01-11": 112370,
-  "2023-01-12": 112384,
-  "2023-01-13": 112394,
-  "2023-01-14": 112434,
-  "2023-01-15": 112442,
-  "2023-01-16": 112477,
-  "2023-01-17": 112498,
-  "2023-01-18": 112535,
-  "2023-01-19": 112565,
-  "2023-01-20": 112606,
-  "2023-01-21": 112628,
-  "2023-01-22": 112641,
-  "2023-01-23": 112649,
-  "2023-01-24": 112673,
-  "2023-01-25": 112713,
-  "2023-01-26": 112748,
-  "2023-01-27": 112769,
-  "2023-01-28": 112793,
-  "2023-01-29": 112812,
-  "2023-01-30": 112832,
-  "2023-01-31": 112832,
-  "2023-02-01": 112886,
-  "2023-02-02": 112919,
-  "2023-02-03": 112925,
-  "2023-02-04": 112947,
-  "2023-02-05": 112980,
-  "2023-02-06": 112989,
-  "2023-02-07": 113019,
-  "2023-02-08": 113113,
-  "2023-02-09": 113113,
-  "2023-02-10": 113145,
-  "2023-02-11": 113154,
-  "2023-02-12": 113207,
-  "2023-02-13": 113230,
-  "2023-02-14": 113230,
-  "2023-02-15": 113260,
-  "2023-02-16": 113281,
-  "2023-02-17": 113306,
-  "2023-02-18": 113349,
-  "2023-02-19": 113355,
-  "2023-02-20": 113422,
-  "2023-02-21": 113536,
-  "2023-02-22": 113677,
-  "2023-02-23": 113830,
-  "2023-02-24": 113973,
-  "2023-02-25": 114126,
-  "2023-02-26": 114196,
-  "2023-02-27": 114452,
-  "2023-02-28": 114452,
-  "2023-03-01": 114561,
-  "2023-03-02": 114714,
-  "2023-03-03": 114857,
-  "2023-03-04": 114991,
-  "2023-03-05": 115216,
-  "2023-03-06": 115216,
-  "2023-03-07": 115378,
-  "2023-03-08": 115506,
-  "2023-03-09": 115660,
-  "2023-03-10": 115756,
-  "2023-03-11": 115847,
-  "2023-03-12": 115940,
-  "2023-03-13": 116051,
-  "2023-03-14": 116162,
-  "2023-03-15": 116258,
-  "2023-03-16": 116406,
-  "2023-03-17": 116406,
-  "2023-03-18": 116590,
-  "2023-03-19": 116670,
-  "2023-03-20": 116764,
-  "2023-03-21": 116886,
-  "2023-03-22": 117024,
-  "2023-03-23": 117137,
-  "2023-03-24": 117137,
-  "2023-03-25": 117367,
-  "2023-03-26": 117460,
-  "2023-03-27": 117571,
-  "2023-03-28": 117685,
-  "2023-03-29": 117811,
-  "2023-03-30": 118043,
-  "2023-03-31": 118043,
-  "2023-04-01": 118136,
-  "2023-04-02": 118247,
-  "2023-04-03": 118395,
-  "2023-04-04": 118490,
-  "2023-04-05": 118619,
-  "2023-04-06": 118745,
-  "2023-04-07": 118842,
-  "2023-04-09": 119070,
-  "2023-04-10": 119159,
-  "2023-04-11": 119413,
-  "2023-04-12": 119413,
-  "2023-04-13": 119552,
-  "2023-04-14": 119671,
-  "2023-04-15": 119769,
-  "2023-04-16": 119851,
-  "2023-04-17": 119971,
-  "2023-04-18": 120092,
-  "2023-04-19": 120299,
-  "2023-04-20": 120453,
-  "2023-04-21": 120568,
-  "2023-04-22": 120684,
-  "2023-04-23": 120795,
-  "2023-04-24": 120934,
-  "2023-04-25": 121032,
-  "2023-04-26": 121195,
-  "2023-04-27": 121346,
-  "2023-04-28": 121444,
-  "2023-04-29": 121531,
-  "2023-04-30": 121612,
-  "2023-05-01": 121697,
-  "2023-05-02": 121813,
-  "2023-05-03": 121940,
-  "2023-05-04": 122067,
-  "2023-05-05": 122168,
-  "2023-05-06": 122285,
-  "2023-05-07": 122367,
-  "2023-05-08": 122451,
-  "2023-05-09": 122565,
-  "2023-05-10": 122686,
-  "2023-05-11": 122784,
-  "2023-05-12": 122880,
-  "2023-05-13": 122965,
-  "2023-05-14": 123043,
-  "2023-05-15": 123125,
-  "2023-05-16": 123221,
-  "2023-05-17": 123326,
-  "2023-05-18": 123438,
-  "2023-05-19": 123570,
-  "2023-05-20": 123767,
-  "2023-05-21": 123767,
-  "2023-05-22": 123767,
-  "2023-05-23": 123935,
-  "2023-05-24": 124101,
-  "2023-05-25": 124125,
-  "2023-05-26": 124223,
-  "2023-05-27": 124300,
-  "2023-05-28": 124365,
-  "2023-05-29": 124365,
-  "2023-05-30": 124513,
-  "2023-05-31": 124593,
-  "2023-06-01": 124715,
-  "2023-06-02": 124796,
-  "2023-06-03": 124871,
-  "2023-06-04": 124932,
-  "2023-06-05": 125019,
-  "2023-06-06": 125098,
-  "2023-06-07": 125190,
-  "2023-06-08": 125312,
-  "2023-06-09": 125398,
-  "2023-06-10": 125474,
-  "2023-06-11": 125552,
-  "2023-06-12": 125645,
-  "2023-06-13": 125741,
-  "2023-06-14": 125871,
-  "2023-06-15": 125983,
-  "2023-06-16": 126077,
-  "2023-06-17": 126154,
-  "2023-06-18": 126238,
-  "2023-06-19": 126333,
-  "2023-06-20": 126440,
-  "2023-06-21": 126545,
-  "2023-06-22": 126648,
-  "2023-06-23": 126752,
-  "2023-06-24": 126846,
-  "2023-06-25": 126943,
-  "2023-06-26": 127042,
-  "2023-06-27": 127134,
-  "2023-06-28": 127251,
-  "2023-06-29": 127350,
-  "2023-06-30": 127478,
-  "2023-07-01": 127648,
-  "2023-07-02": 127648,
-  "2023-07-03": 127737,
-  "2023-07-04": 127839,
-  "2023-07-05": 127934,
-  "2023-07-06": 128110,
-  "2023-07-07": 128110,
-  "2023-07-08": 128206,
-  "2023-07-09": 128285,
-  "2023-07-10": 128380,
-  "2023-07-11": 128446,
-  "2023-07-12": 128522,
-  "2023-07-13": 128625,
-  "2023-07-14": 128719,
-  "2023-07-15": 128773,
-  "2023-07-16": 128879,
-  "2023-07-17": 128968,
-  "2023-07-18": 129064,
-  "2023-07-19": 129176,
-  "2023-07-20": 129268,
-  "2023-07-21": 129354,
-  "2023-07-22": 129444,
-  "2023-07-23": 129514,
-  "2023-07-24": 129618,
-  "2023-07-25": 129717,
-  "2023-07-26": 129808,
-  "2023-07-27": 129894,
-  "2023-07-28": 129967,
-  "2023-07-29": 130062,
-  "2023-07-30": 130144,
-  "2023-07-31": 130244,
-  "2023-08-01": 130337,
-  "2023-08-02": 130423,
-  "2023-08-03": 130534,
-  "2023-08-04": 130622,
-  "2023-08-05": 130709,
-  "2023-08-06": 130901,
-  "2023-08-07": 130901,
-  "2023-08-08": 130974,
-  "2023-08-09": 131072,
-  "2023-08-10": 131181,
-  "2023-08-11": 131277,
-  "2023-08-12": 131370,
-  "2023-08-13": 131445,
-  "2023-08-14": 131537,
-  "2023-08-15": 131726,
-  "2023-08-16": 131726,
-  "2023-08-17": 131830,
-  "2023-08-18": 131937,
-  "2023-08-19": 132004,
-  "2023-08-20": 132090,
-  "2023-08-21": 132177,
-  "2023-08-22": 132252,
-  "2023-08-23": 132343,
-  "2023-08-24": 132456,
-  "2023-08-25": 132550,
-  "2023-08-26": 132632,
-  "2023-08-27": 132718,
-  "2023-08-28": 132794,
-  "2023-08-29": 132898,
-  "2023-08-30": 132983,
-  "2023-08-31": 133093,
-  "2023-09-01": 133281,
-  "2023-09-02": 133281,
-  "2023-09-03": 133363,
-  "2023-09-04": 133491,
-  "2023-09-05": 133595,
-  "2023-09-06": 133728,
-  "2023-09-07": 133871,
-  "2023-09-08": 134004,
-  "2023-09-09": 134110,
-  "2023-09-10": 134219,
-  "2023-09-11": 134326,
-  "2023-09-12": 134430,
-  "2023-09-13": 134599,
-  "2023-09-14": 134741,
-  "2023-09-15": 134872,
-  "2023-09-16": 134973,
-  "2023-09-17": 135077,
-  "2023-09-18": 135182,
-  "2023-09-19": 135300,
-  "2023-09-20": 135403,
-  "2023-09-21": 135509,
-  "2023-09-22": 135630,
-  "2023-09-23": 135719,
-  "2023-09-24": 135823,
-  "2023-09-25": 135926,
-  "2023-09-26": 136073,
-  "2023-09-27": 136175,
-  "2023-09-28": 136311,
-  "2023-09-29": 136418,
-  "2023-09-30": 136532,
-  "2023-10-01": 136623,
-  "2023-10-02": 136733,
-  "2023-10-03": 136847,
-  "2023-10-04": 136972,
-  "2023-10-05": 137084,
-  "2023-10-06": 137188,
-  "2023-10-07": 137300,
-  "2023-10-08": 137441,
-  "2023-10-09": 137586,
-  "2023-10-10": 137673,
-  "2023-10-11": 137954,
-  "2023-10-12": 137954,
-  "2023-10-13": 138044,
-  "2023-10-14": 138141,
-  "2023-10-15": 138280,
-  "2023-10-16": 138477,
-  "2023-10-17": 138659,
-  "2023-10-18": 138817,
-  "2023-10-19": 138995,
-  "2023-10-20": 139179,
-  "2023-10-21": 139309,
-  "2023-10-22": 139429,
-  "2023-10-23": 139591,
-  "2023-10-24": 139744,
-  "2023-10-25": 139895,
-  "2023-10-26": 140062,
-  "2023-10-27": 140227,
-  "2023-10-28": 140377,
-  "2023-10-29": 140489,
-  "2023-10-30": 140785,
-  "2023-10-31": 140785,
-  "2023-11-01": 140956,
-  "2023-11-02": 141111,
-  "2023-11-03": 141249,
-  "2023-11-04": 141393,
-  "2023-11-05": 141507,
-  "2023-11-06": 141652,
-  "2023-11-07": 141823,
-  "2023-11-08": 141967,
-  "2023-11-09": 142178,
-  "2023-11-10": 142325,
-  "2023-11-11": 142475,
-  "2023-11-12": 142565,
-  "2023-11-13": 142709,
-  "2023-11-14": 142863,
-  "2023-11-15": 142863,
-  "2023-11-16": 143138,
-  "2023-11-17": 143391,
-  "2023-11-18": 143391,
-  "2023-11-19": 143520,
-  "2023-11-20": 143639,
-  "2023-11-21": 143800,
-  "2023-11-22": 143962,
-  "2023-11-23": 144125,
-  "2023-11-24": 144271,
-  "2023-11-25": 144384,
-  "2023-11-26": 144536,
-  "2023-11-27": 144680,
-  "2023-11-28": 144820,
-  "2023-11-29": 145212,
-  "2023-11-30": 145212,
-  "2023-12-01": 145372,
-  "2023-12-02": 145497,
-  "2023-12-03": 145636,
-  "2023-12-04": 145761,
-  "2023-12-05": 145895,
-  "2023-12-06": 146021,
-  "2023-12-07": 146162,
-  "2023-12-08": 146323,
-  "2023-12-09": 146470,
-  "2023-12-10": 146643,
-  "2023-12-11": 146829,
-  "2023-12-12": 146999,
-  "2023-12-13": 147178,
-  "2023-12-14": 147378,
-  "2023-12-15": 147483,
-  "2023-12-16": 147611,
-  "2023-12-17": 147730,
-  "2023-12-18": 147862,
-  "2023-12-19": 147985,
-  "2023-12-20": 148152,
-  "2023-12-21": 148318,
-  "2023-12-22": 148447,
-  "2023-12-23": 148594,
-  "2023-12-24": 148737,
-  "2023-12-25": 148836,
-  "2023-12-26": 148938,
-  "2023-12-27": 149055,
-  "2023-12-30": 149503,
-  "2023-12-31": 149665,
-  "2024-01-01": 149803,
-  "2024-01-02": 149965,
-  "2024-01-03": 150159
+  "2024-01-17": 152715,
+  "date_first_scraped": "2022-05-11",
+  "description": "Get your midweek right with these uplifting songs of praise and worship.",
+  "name": "Worship Wednesdays",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/0j4Zv6gNJnUhS6mOFFyYzV"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267964,
+      "name": "A Thousand More",
+      "url": "https://open.spotify.com/track/0109Dds1lGUoQomjBDiq6k"
+    },
+    {
+      "album": {
+        "name": "A Thousand More",
+        "url": "https://open.spotify.com/album/71Wbn8i6LWE44Fgpb2D8aB"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267964,
+      "name": "A Thousand More",
+      "url": "https://open.spotify.com/track/7tIrrmVZNRypgrP7FQZmLR"
+    },
+    {
+      "album": {
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/5bpYxnGoxznzUdncURUmnZ"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241684,
+      "name": "Abundantly More",
+      "url": "https://open.spotify.com/track/5bTpeUcpOLCbljyaAi1Grt"
+    },
+    {
+      "album": {
+        "name": "Abundantly More",
+        "url": "https://open.spotify.com/album/6N1WHRaubJg2kCsNJ2hAke"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241684,
+      "name": "Abundantly More (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/4mM0t1EtoONZvwvsiLxd18"
+    },
+    {
+      "album": {
+        "name": "Alive & Breathing Vol. 2",
+        "url": "https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241764,
+      "name": "Alive & Breathing (feat. Elle Limebear)",
+      "url": "https://open.spotify.com/track/1nmspIOQLdmBhGfT747dEJ"
+    },
+    {
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/4bxmYsDGCMqKMsd468QTyR"
+      },
+      "artists": [
+        {
+          "name": "Mountain Top Worship",
+          "url": "https://open.spotify.com/artist/2fhxlZD5exHPj27vgaLxrj"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272884,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/7zRdwKs0va8DDj11CB6DwG"
+    },
+    {
+      "album": {
+        "name": "All Of Us (All Praise) [Live]",
+        "url": "https://open.spotify.com/album/0Lmhc6w1FGv7FeaGMaMk1Q"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "All Praise - Live",
+      "url": "https://open.spotify.com/track/3ZqnZ8u58kuZU4xtFHx8S2"
+    },
+    {
+      "album": {
+        "name": "People (Live)",
+        "url": "https://open.spotify.com/album/2YRlXTl0heTfVc5oWmGLsg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Joel Houston",
+          "url": "https://open.spotify.com/artist/4VJSN1kOmlYi5A6FEmGu64"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 522120,
+      "name": "As You Find Me - Live",
+      "url": "https://open.spotify.com/track/11lQoddQLgFzWByvUjKaE9"
+    },
+    {
+      "album": {
+        "name": "Behold Him (feat. Kim Walker-Smith)",
+        "url": "https://open.spotify.com/album/2hXOYMsF8fyrzR68hy6b2W"
+      },
+      "artists": [
+        {
+          "name": "Paul Baloche",
+          "url": "https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "Behold Him (feat. Kim Walker-Smith)",
+      "url": "https://open.spotify.com/track/6Gj4kfHYdXw7Cl2xYja85Z"
+    },
+    {
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380626,
+      "name": "Better Word - Live",
+      "url": "https://open.spotify.com/track/3LVsXYVnnQE9Qmp47qAson"
+    },
+    {
+      "album": {
+        "name": "Breakthrough (Live)",
+        "url": "https://open.spotify.com/album/4ublsL5mDVfHGEsjbB1jpl"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303346,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/03XqXqedPViuV0tLLndrjT"
+    },
+    {
+      "album": {
+        "name": "spark. (No Other Love) - EP [Live]",
+        "url": "https://open.spotify.com/album/67w7YgMOnpLloLR9ZBejer"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/11XxomhGUvpC6AjzTz7Bws"
+    },
+    {
+      "album": {
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 567093,
+      "name": "Breakthrough - Live",
+      "url": "https://open.spotify.com/track/2jU1OyF5MLOZzJp2FJVw83"
+    },
+    {
+      "album": {
+        "name": "Elle Limebear - EP",
+        "url": "https://open.spotify.com/album/2L12bLEqvFpB4inbYHTUBH"
+      },
+      "artists": [
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309173,
+      "name": "Call on Your Name",
+      "url": "https://open.spotify.com/track/7HLEkspmztqBqEfqJtchei"
+    },
+    {
+      "album": {
+        "name": "Calm the Storm (Live)",
+        "url": "https://open.spotify.com/album/3jVReSnHC0ZO6JZZRIic1p"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311406,
+      "name": "Calm the Storm (Live)",
+      "url": "https://open.spotify.com/track/0YoGf0jNg8nTUuWNKb8Ta9"
+    },
+    {
+      "album": {
+        "name": "Canvas And Clay (Live)",
+        "url": "https://open.spotify.com/album/3sD7R3Rj753B3w3DZsSeIV"
+      },
+      "artists": [
+        {
+          "name": "Pat Barrett",
+          "url": "https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3"
+        },
+        {
+          "name": "Ben Smith",
+          "url": "https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400200,
+      "name": "Canvas And Clay - Live",
+      "url": "https://open.spotify.com/track/6StDOwqq1OmVlSKptJ6Fn0"
+    },
+    {
+      "album": {
+        "name": "Counting Every Blessing",
+        "url": "https://open.spotify.com/album/77bSJkD7soqec8JBlCV4Xq"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302780,
+      "name": "Counting Every Blessing",
+      "url": "https://open.spotify.com/track/7ewrtrIaGOiKh3G0zD5egG"
+    },
+    {
+      "album": {
+        "name": "Cover The Earth",
+        "url": "https://open.spotify.com/album/5Kn6HZiYFQm0xSzAAqTuPV"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Cover The Earth",
+      "url": "https://open.spotify.com/track/3QbArKinPnaZhqt6ZWtGiN"
+    },
+    {
+      "album": {
+        "name": "Covered (Live)",
+        "url": "https://open.spotify.com/album/3wgV3Cs5k7UQKEshAJN8BT"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433279,
+      "name": "Covered - Live",
+      "url": "https://open.spotify.com/track/4MeW3rzdC1uAUTfb7E5Z51"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+    },
+    {
+      "album": {
+        "name": "Death Was Arrested",
+        "url": "https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 293331,
+      "name": "Death Was Arrested",
+      "url": "https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE"
+    },
+    {
+      "album": {
+        "name": "Nothing Ordinary",
+        "url": "https://open.spotify.com/album/6WRkJUXDC0TpsnMhVrJ6DM"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/0HQlTKXHDyr4qj6J2t7llc"
+    },
+    {
+      "album": {
+        "name": "Death Was Arrested (feat. Seth Condrey)",
+        "url": "https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Seth Condrey",
+          "url": "https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295306,
+      "name": "Death Was Arrested (feat. Seth Condrey)",
+      "url": "https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi"
+    },
+    {
+      "album": {
+        "name": "Love Unending",
+        "url": "https://open.spotify.com/album/2ZIucC5ZWuMUM4Y8cVZFpb"
+      },
+      "artists": [
+        {
+          "name": "Ry Cox",
+          "url": "https://open.spotify.com/artist/16gW6AKnwvZj4t09Jfv4ap"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270467,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/1sPYj7Rd00yeMRGefniYuT"
+    },
+    {
+      "album": {
+        "name": "Defender (Single Version)",
+        "url": "https://open.spotify.com/album/1p6Eq4ist8ZcEhQdhwYkoi"
+      },
+      "artists": [
+        {
+          "name": "Francesca Battistelli",
+          "url": "https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279053,
+      "name": "Defender (Single Version)",
+      "url": "https://open.spotify.com/track/1tXwCl86WZDkyTMPVrRwCP"
+    },
+    {
+      "album": {
+        "name": "All Things New (Live)",
+        "url": "https://open.spotify.com/album/5Cs8VSRTYu8s6dPKBSZhGv"
+      },
+      "artists": [
+        {
+          "name": "Union Creative",
+          "url": "https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335940,
+      "name": "Enough (Live)",
+      "url": "https://open.spotify.com/track/1BILFyQSq3qQnvrjeO6Pmh"
+    },
+    {
+      "album": {
+        "name": "EVERYTHING EVERYTHING",
+        "url": "https://open.spotify.com/album/3zcltttb8GQ6MUn81xOlrs"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200079,
+      "name": "EVERYTHING EVERYTHING",
+      "url": "https://open.spotify.com/track/2pMc6SJXAZe1HNwY8lQLby"
+    },
+    {
+      "album": {
+        "name": "Fighting For Me",
+        "url": "https://open.spotify.com/album/47d2vWvqayOsNeFeRI43ba"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229066,
+      "name": "Fighting For Me",
+      "url": "https://open.spotify.com/track/5StojELSdCvj23qhF9OxDW"
+    },
+    {
+      "album": {
+        "name": "Summer Sessions",
+        "url": "https://open.spotify.com/album/5xhaBQdcwi9S5BIQQLGezu"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 331070,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/0taOwIVaV9uWUzoEWyW3a0"
+    },
+    {
+      "album": {
+        "name": "Summer Sessions",
+        "url": "https://open.spotify.com/album/3xs22abUTBvc05n0BXmo9p"
+      },
+      "artists": [
+        {
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331078,
+      "name": "Foundation",
+      "url": "https://open.spotify.com/track/2xySupax5LBUgGCJUdJnzL"
+    },
+    {
+      "album": {
+        "name": "Goodness of God (feat. Vertical Worship)",
+        "url": "https://open.spotify.com/album/5pOGRC3CWSAPGQz5qnvC6t"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        },
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287611,
+      "name": "Goodness of God (feat. Vertical Worship)",
+      "url": "https://open.spotify.com/track/1UOzgUuakMRQcKVTUTU6Pu"
+    },
+    {
+      "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Henry Seeley",
+          "url": "https://open.spotify.com/artist/2MZEISBa4OBbC0erQQcyzS"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429464,
+      "name": "Heaven Fall - Live",
+      "url": "https://open.spotify.com/track/1sACPsVbAlLp3JKtLFvxyC"
+    },
+    {
+      "album": {
+        "name": "Heaven Is Where You Are",
+        "url": "https://open.spotify.com/album/2HwC7uEfppbjefeQByqkhl"
+      },
+      "artists": [
+        {
+          "name": "Erik Nieder",
+          "url": "https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198835,
+      "name": "Heaven Is Where You Are",
+      "url": "https://open.spotify.com/track/4OtfBQ2sHDdcag87TN1bb7"
+    },
+    {
+      "album": {
+        "name": "Heaven's Well (Live)",
+        "url": "https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv"
+      },
+      "artists": [
+        {
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
+        },
+        {
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253756,
+      "name": "Heaven's Well - Live",
+      "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
+    },
+    {
+      "album": {
+        "name": "Heavenly Father",
+        "url": "https://open.spotify.com/album/3pm0gWNx9jOhrcjYmQgw6h"
+      },
+      "artists": [
+        {
+          "name": "York Worship",
+          "url": "https://open.spotify.com/artist/5cSXNbLLtpYdE4ndlwyjyC"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374117,
+      "name": "Heavenly Father",
+      "url": "https://open.spotify.com/track/2uQrdSqWdppHOhcOyQHBTr"
+    },
+    {
+      "album": {
+        "name": "Higher Than Mine",
+        "url": "https://open.spotify.com/album/6CR7FS8KhwY5HnEGlUeGTN"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185062,
+      "name": "Higher Than Mine",
+      "url": "https://open.spotify.com/track/1cloJnP4gDul2IiDqCwGNh"
+    },
+    {
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/5xAesqK2Ke6g4Y0W9CSijV"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242226,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/1xI9KSGNJB2eka8FMvovvi"
+    },
+    {
+      "album": {
+        "name": "Hope Song",
+        "url": "https://open.spotify.com/album/24lEc4AdB2BJp3KiQ16eKo"
+      },
+      "artists": [
+        {
+          "name": "Impact",
+          "url": "https://open.spotify.com/artist/23MSkX2SgqmEvlqpuJtYgH"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288453,
+      "name": "Hope Song",
+      "url": "https://open.spotify.com/track/4ItMAyXfbUbW2KVPBnezRL"
+    },
+    {
+      "album": {
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389897,
+      "name": "Hosanna - Live",
+      "url": "https://open.spotify.com/track/3iCyKTgnCYAhYJKaGsBmg8"
+    },
+    {
+      "album": {
+        "name": "I Am Loved",
+        "url": "https://open.spotify.com/album/4pHDnWMt0uMGANMTr2yHem"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432640,
+      "name": "I Am Loved",
+      "url": "https://open.spotify.com/track/3eWfz0o9bJZ3t9GCPjLtQD"
+    },
+    {
+      "album": {
+        "name": "I Don't Have Much",
+        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314800,
+      "name": "I Don't Have Much",
+      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
+    },
+    {
+      "album": {
+        "name": "Poets & Saints",
+        "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253706,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
+    },
+    {
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0aUzWjo4EL7n4kjlX0yTCu"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/4A7X1OObKEp7KAZOYrcPnr"
+    },
+    {
+      "album": {
+        "name": "At Midnight - EP",
+        "url": "https://open.spotify.com/album/0TBqCB0ewjzi2eYmCJuFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350358,
+      "name": "It Is So",
+      "url": "https://open.spotify.com/track/7rVrwI6qusX75vKxGK2dyv"
+    },
+    {
+      "album": {
+        "name": "King Of Kings",
+        "url": "https://open.spotify.com/album/30RfU2mnzbrCsnZA4TSCcY"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265080,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/6kmhapLx51lmwhIIDFsUQU"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/7oHfVPErazDps9nHifkDIB"
+      },
+      "artists": [
+        {
+          "name": "Southview Worship",
+          "url": "https://open.spotify.com/artist/2tvS8eHZou9wcXN2ZdE4SK"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216046,
+      "name": "Kingdom Come",
+      "url": "https://open.spotify.com/track/5WLq3CFNEAbm8ug9ZptuCi"
+    },
+    {
+      "album": {
+        "name": "Know Your Heart (Live)",
+        "url": "https://open.spotify.com/album/2E6QSq8TDOCZ5od0VT7OHS"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228146,
+      "name": "Know Your Heart - Live",
+      "url": "https://open.spotify.com/track/1Qg789HbL8o71thGTjMS7X"
+    },
+    {
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/3kB9ZBtjwF5PIVNm1Rw8lh"
+      },
+      "artists": [
+        {
+          "name": "Sean Curran",
+          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308560,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/4n7r6KlsczotQfCCRc1Wuu"
+    },
+    {
+      "album": {
+        "name": "Lost in Your Love",
+        "url": "https://open.spotify.com/album/1m6Lu9nY5rlCogxC5Tk1Yd"
+      },
+      "artists": [
+        {
+          "name": "Reach City Worship",
+          "url": "https://open.spotify.com/artist/7uDyMJ0rQsDhzYV4qohIX5"
+        },
+        {
+          "name": "Billy Honaker",
+          "url": "https://open.spotify.com/artist/5q0uNmItWUg41nvx9CHHjs"
+        },
+        {
+          "name": "John Wesley",
+          "url": "https://open.spotify.com/artist/5PQRezjw7uSnCQzNEgDBnq"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333604,
+      "name": "Lost in Your Love",
+      "url": "https://open.spotify.com/track/4pCSJ4WJTl6kr9OQ5HCx7v"
+    },
+    {
+      "album": {
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+    },
+    {
+      "album": {
+        "name": "Live at Red Rocks, Vol. 1",
+        "url": "https://open.spotify.com/album/6T3FCijtj9RVv6dfizIFuG"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        },
+        {
+          "name": "Brock Human",
+          "url": "https://open.spotify.com/artist/3fKQOMOuRBYdymdO5yTKkp"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 516659,
+      "name": "Never Going Back (Live)",
+      "url": "https://open.spotify.com/track/4jnz88QJiNVgjL3ZomMWiB"
+    },
+    {
+      "album": {
+        "name": "Never Lost",
+        "url": "https://open.spotify.com/album/0c1ZM1kGleLVz9y6ZeoTUt"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315538,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/2siGLwunHkTMJjmy4oHfLB"
+    },
+    {
+      "album": {
+        "name": "No One But You",
+        "url": "https://open.spotify.com/album/7rBwQJyYtuZ0I6HPziAISU"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535720,
+      "name": "No One But You",
+      "url": "https://open.spotify.com/track/7LDWiCQNiCh5iL2lO6SIDR"
+    },
+    {
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/5ZWmzqJe0RH6HdT4ntNaX2"
+      },
+      "artists": [
+        {
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "TAYA",
+          "url": "https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/33Nyq9QfKCXEQtzeg22vg7"
+    },
+    {
+      "album": {
+        "name": "The Worship Project, Vol. 2",
+        "url": "https://open.spotify.com/album/0y4vEdjKpRM5oQmLQvmURP"
+      },
+      "artists": [
+        {
+          "name": "The Worship Project",
+          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
+        },
+        {
+          "name": "Darrick Tam",
+          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365294,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/38cEd6plDcyQrNci5QjIsc"
+    },
+    {
+      "album": {
+        "name": "The Worship Project, Vol. 2",
+        "url": "https://open.spotify.com/album/5OCJ0TFd1qGPOkfY7g2p9u"
+      },
+      "artists": [
+        {
+          "name": "The Worship Project",
+          "url": "https://open.spotify.com/artist/1HfLz4ZQ8xPPzPeoS2iKi3"
+        },
+        {
+          "name": "Darrick Tam",
+          "url": "https://open.spotify.com/artist/7yRmKt0F9roUOE8nLsVvbH"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 365294,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/7JBiUE9on9f4sZ91QcqA0y"
+    },
+    {
+      "album": {
+        "name": "Nothing To Fear (feat. Audrey Assad)",
+        "url": "https://open.spotify.com/album/36nsoq8d1sb8CKCRzISrnU"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184746,
+      "name": "Nothing To Fear (feat. Audrey Assad)",
+      "url": "https://open.spotify.com/track/5YTNd57a8P2qMA6QbGtUYv"
+    },
+    {
+      "album": {
+        "name": "spark. (Live)",
+        "url": "https://open.spotify.com/album/6ZncuYONBIPR4ZJjtXBehy"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319200,
+      "name": "On Earth As in Heaven - Live",
+      "url": "https://open.spotify.com/track/0f3ftv6HOaetUY1HXlsk5i"
+    },
+    {
+      "album": {
+        "name": "spark. (You Will Be My Song) [Live]",
+        "url": "https://open.spotify.com/album/11kmsb7QTTk61N3nsTNRCu"
+      },
+      "artists": [
+        {
+          "name": "Red Rocks Worship",
+          "url": "https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 319200,
+      "name": "On Earth As in Heaven - Live",
+      "url": "https://open.spotify.com/track/6nedXtNkfXBer0qcuyJeCH"
+    },
+    {
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/7ymcmsRG7L9EqpDXnBYYBD"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211072,
+      "name": "Overcome (Acoustic)",
+      "url": "https://open.spotify.com/track/1b2JLmsUGCtjomD2LMK5Rj"
+    },
+    {
+      "album": {
+        "name": "Hymns, Vol. 2",
+        "url": "https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363235,
+      "name": "Power of the Cross",
+      "url": "https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv"
+    },
+    {
+      "album": {
+        "name": "Rain Your Glory Down (Live)",
+        "url": "https://open.spotify.com/album/2aBWau0ze3klujHyC59aw3"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/0UxjnHagAo6IaLcdOaqOSX"
+    },
+    {
+      "album": {
+        "name": "Rain Your Glory Down (Live)",
+        "url": "https://open.spotify.com/album/6yCUxYBIYB8tkAPvE85Ja3"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/1Y8Pf62jFt9DxdhfKQOgnD"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547251,
+      "name": "Rain Your Glory Down - Live",
+      "url": "https://open.spotify.com/track/6ftibLL1IO1tlGVgYrul0k"
+    },
+    {
+      "album": {
+        "name": "Recreate",
+        "url": "https://open.spotify.com/album/1p1sgOSauMAq1VQIevGIWU"
+      },
+      "artists": [
+        {
+          "name": "Fresh Life Worship",
+          "url": "https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Recreate",
+      "url": "https://open.spotify.com/track/0EaKDmqkw9TUOzIKTFpD2m"
+    },
+    {
+      "album": {
+        "name": "Life Again",
+        "url": "https://open.spotify.com/album/5BI5Wl8TCjrIczfZMQpU0u"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242647,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/2lJnLe5B0RSr8H5DpSktER"
+    },
+    {
+      "album": {
+        "name": "Rejoice",
+        "url": "https://open.spotify.com/album/0k5NWjpgHJb4AW22CcE6PP"
+      },
+      "artists": [
+        {
+          "name": "Brad & Rebekah",
+          "url": "https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 243720,
+      "name": "Rejoice",
+      "url": "https://open.spotify.com/track/6UEX4PS9R0HjfN3iG0mm7G"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/4nvMojhvDqVwfb0htY8Byf"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312266,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/32r0t2fUFcrZ63Eg5IVRdz"
+    },
+    {
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+    },
+    {
+      "album": {
+        "name": "Sigh No More",
+        "url": "https://open.spotify.com/album/3um3l6Ctq1A1DyVsm4wZK4"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Sigh No More",
+      "url": "https://open.spotify.com/track/4dYeMQIK8fvFscQwqpEXAb"
+    },
+    {
+      "album": {
+        "name": "To The One (Live)",
+        "url": "https://open.spotify.com/album/2VzCv3uGlbmxPj3WYvXYHX"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359536,
+      "name": "Surrounded (Fight My Battles) - Live",
+      "url": "https://open.spotify.com/track/3CkqT4NOMyvPGODtJTHlns"
+    },
+    {
+      "album": {
+        "name": "Easter Essentials",
+        "url": "https://open.spotify.com/album/7xcx6rsxIfVBk1QsMdkkFe"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 359536,
+      "name": "Surrounded (Fight My Battles) - Live",
+      "url": "https://open.spotify.com/track/5jIsFNAxfeShjBEJ6vXwj7"
+    },
+    {
+      "album": {
+        "name": "To the One",
+        "url": "https://open.spotify.com/album/4OhRAM6ypyVkxEqO7wy4xt"
+      },
+      "artists": [
+        {
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 359536,
+      "name": "Surrounded (Fight My Battles) [Live]",
+      "url": "https://open.spotify.com/track/14afN25jVBf6gWuhmrpsej"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330149,
+      "name": "The Garden - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/237AYJ77HK6Lf6DwQ6r7BJ"
+    },
+    {
+      "album": {
+        "name": "Glory & Wonder",
+        "url": "https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU"
+      },
+      "artists": [
+        {
+          "name": "Mosaic MSC",
+          "url": "https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309093,
+      "name": "Tremble - Live",
+      "url": "https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo"
+    },
+    {
+      "album": {
+        "name": "Singalong 4 (Live)",
+        "url": "https://open.spotify.com/album/4sxVvk5DoCM7pgvOUwuRW8"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 493100,
+      "name": "Tremble / What a Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/0KprzOGNN4E0OP7er3mq6Z"
+    },
+    {
+      "album": {
+        "name": "Singalong 4 (Live)",
+        "url": "https://open.spotify.com/album/3ZTv4hvhlj5bf1B6qpzcVL"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493100,
+      "name": "Tremble // What A Beautiful Name - Live",
+      "url": "https://open.spotify.com/track/4tbpeUyxVuC2PhOOEf6XZM"
+    },
+    {
+      "album": {
+        "name": "Valley (Live)",
+        "url": "https://open.spotify.com/album/2RfOUTIdbZpA8YH2qlPi6n"
+      },
+      "artists": [
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291473,
+      "name": "Valley - Live",
+      "url": "https://open.spotify.com/track/04IRbKCLC8ktH1nhYdmEXe"
+    },
+    {
+      "album": {
+        "name": "Waters",
+        "url": "https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi"
+      },
+      "artists": [
+        {
+          "name": "Junior Garr",
+          "url": "https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240630,
+      "name": "Waters",
+      "url": "https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8"
+    },
+    {
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/4bVH31Z9J7wPG2q8skaeII"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/3BcPAGy6P7gWiL7DAPH85t"
+    },
+    {
+      "album": {
+        "name": "Better Word",
+        "url": "https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
+    },
+    {
+      "album": {
+        "name": "Way Maker",
+        "url": "https://open.spotify.com/album/5QiQRAJgvxkaaJFI0fzO6G"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 503240,
+      "name": "Way Maker - Live",
+      "url": "https://open.spotify.com/track/4zEj0A56iRFSSvyDyqNOQw"
+    },
+    {
+      "album": {
+        "name": "Unveil (Live)",
+        "url": "https://open.spotify.com/album/15YnOtSDhaYHqVfr27bjhM"
+      },
+      "artists": [
+        {
+          "name": "Jon Egan",
+          "url": "https://open.spotify.com/artist/1S0iYQGlUIb8gJFOXEnaey"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408278,
+      "name": "What You Said - Live",
+      "url": "https://open.spotify.com/track/5ZtnHKAsaog7mGTsaKDAEt"
+    },
+    {
+      "album": {
+        "name": "When It Comes to You (Deluxe)",
+        "url": "https://open.spotify.com/album/3NsAhgtYRgjWmfQFOAG10r"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/2j70cErAhBQ8Kmqlc3ePIl"
+    },
+    {
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/7juggaI6hvrlRJq7K0mAUH"
+    },
+    {
+      "album": {
+        "name": "When It Comes to You",
+        "url": "https://open.spotify.com/album/3opJIAc7NUj19aoE5Qqfoe"
+      },
+      "artists": [
+        {
+          "name": "RNW Music",
+          "url": "https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi"
+        },
+        {
+          "name": "Taylor Anderson",
+          "url": "https://open.spotify.com/artist/4iaNDZkiTuUk79ZePAlUbb"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 407190,
+      "name": "When It Comes to You",
+      "url": "https://open.spotify.com/track/3zDHLmakrSF2O7ztljntZZ"
+    },
+    {
+      "album": {
+        "name": "While I Wait",
+        "url": "https://open.spotify.com/album/0UDYVuIKNGT6hfvrsjrNBV"
+      },
+      "artists": [
+        {
+          "name": "Lincoln Brewster",
+          "url": "https://open.spotify.com/artist/1aoy0R8uP3x33eqKZOLpN1"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298546,
+      "name": "While I Wait",
+      "url": "https://open.spotify.com/track/1R9UC41siojWolyYYEohqN"
+    },
+    {
+      "album": {
+        "name": "Who We Are",
+        "url": "https://open.spotify.com/album/3B41USIdyMLjgxepjxhi3r"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199078,
+      "name": "Who We Are",
+      "url": "https://open.spotify.com/track/3iPrzSUiI1PojLdulvGudz"
+    },
+    {
+      "album": {
+        "name": "Won My War",
+        "url": "https://open.spotify.com/album/548aSbKl7CHcx1Uc4APaSS"
+      },
+      "artists": [
+        {
+          "name": "10,000 Fathers",
+          "url": "https://open.spotify.com/artist/48jeM9IfFZT9LpKKkN076l"
+        },
+        {
+          "name": "Taylor Breen",
+          "url": "https://open.spotify.com/artist/2YEAPsOK4LQAQgg5mWOEpA"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259301,
+      "name": "Won My War",
+      "url": "https://open.spotify.com/track/3lLQlI609fxY3wHkhpg1oo"
+    },
+    {
+      "album": {
+        "name": "You Cannot Be Stopped",
+        "url": "https://open.spotify.com/album/0py63SYLz4rdw2e7wj41fZ"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        },
+        {
+          "name": "Chris Quilala",
+          "url": "https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261360,
+      "name": "You Cannot Be Stopped",
+      "url": "https://open.spotify.com/track/3QMwYjjg2r9jdzj6w6vR6e"
+    },
+    {
+      "album": {
+        "name": "Center of Your Love",
+        "url": "https://open.spotify.com/album/01j8mx7lu1xopdogMNvelL"
+      },
+      "artists": [
+        {
+          "name": "Upper Room Music",
+          "url": "https://open.spotify.com/artist/43fQOvRHigfApnc4GmYYPf"
+        },
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/2enLZAXaXEpQXjaGguhA8f"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296400,
+      "name": "You Satisfy (feat. Elyssa Smith)",
+      "url": "https://open.spotify.com/track/7suC4UpFBmXv0KRfYdW09F"
+    },
+    {
+      "album": {
+        "name": "YOUR NAME IS POWER",
+        "url": "https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A"
+      },
+      "artists": [
+        {
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
+        }
+      ],
+      "date_added": "2019-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236093,
+      "name": "YOUR NAME IS POWER",
+      "url": "https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWZ4eoHSGpAXu"
 }

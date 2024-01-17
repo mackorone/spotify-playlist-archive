@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 97500,
       "name": "A Lullaby For You",
       "url": "https://open.spotify.com/track/6ikTfvUW93A4cGcc29mGGh"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 109750,
       "name": "All The Joy You Bring",
       "url": "https://open.spotify.com/track/7bkTcd4fUsUdPkmYacuknd"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 89500,
       "name": "Avec tout mon coeur",
       "url": "https://open.spotify.com/track/0T0OkGcyDm0RwrdUV3w6QE"
@@ -632,6 +632,24 @@
       "duration_ms": 115958,
       "name": "Bedtime Serenade",
       "url": "https://open.spotify.com/track/6dUV7BamznIH4XkQvhpqZh"
+    },
+    {
+      "album": {
+        "name": "Bee & Boo's Lullaby",
+        "url": "https://open.spotify.com/album/6CoKj62iTUoFAWWvY4fF16"
+      },
+      "artists": [
+        {
+          "name": "Leanne Haughey",
+          "url": "https://open.spotify.com/artist/1ohrmBFOBxEUhhC7URdjap"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103478,
+      "name": "Bee & Boo's Lullaby",
+      "url": "https://open.spotify.com/track/50BHMMVvZaVCQVnZ3n6JxQ"
     },
     {
       "album": {
@@ -880,7 +898,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 83000,
       "name": "Born With Wings",
       "url": "https://open.spotify.com/track/640aV7v3Fww3eiRhQic2iW"
@@ -952,7 +970,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/65fSxKtJRjmt0XGDFnACUp"
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 91242,
       "name": "By The Cradle",
       "url": "https://open.spotify.com/track/6FxRsfSfCoqHXAON2nulL1"
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 101020,
       "name": "C'est l'heure de dormir",
       "url": "https://open.spotify.com/track/3aqS4avTIzxAlpYsNCzbet"
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 106353,
       "name": "Cradle of Comfort",
       "url": "https://open.spotify.com/track/60BrRLaI447qMQoqbZYGLj"
@@ -1240,7 +1258,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 93391,
       "name": "Dawn of Erithrian",
       "url": "https://open.spotify.com/track/1x1NDDOhAz0s7AcHBADNG0"
@@ -1312,7 +1330,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": "2024-01-07",
       "duration_ms": 133786,
       "name": "Den Visslande Valen",
       "url": "https://open.spotify.com/track/5NPZY6q7EffxPGX8VMjJC4"
@@ -1409,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Dream Time",
+        "url": "https://open.spotify.com/album/5L1AFKWXBh2dZ8NHoNL2Jg"
+      },
+      "artists": [
+        {
+          "name": "Ishaq Love",
+          "url": "https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140384,
+      "name": "Dream Time",
+      "url": "https://open.spotify.com/track/4ZRCedGgRihP3QkJuqDMOW"
+    },
+    {
+      "album": {
         "name": "Starlit Dreams",
         "url": "https://open.spotify.com/album/0ABckNHR2AX30O3Ul9xkl7"
       },
@@ -1463,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "Dreamswing",
+        "url": "https://open.spotify.com/album/7BDShI8oQkJ6J8Sdq266qp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Lundborg",
+          "url": "https://open.spotify.com/artist/30nuHxknx89pxWn3jaKp5A"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118854,
+      "name": "Dreamswing",
+      "url": "https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM"
+    },
+    {
+      "album": {
         "name": "Dr\u00f8mmer",
         "url": "https://open.spotify.com/album/5Rx4eiIdreClTqOBczjJhI"
       },
@@ -1474,7 +1528,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 76216,
       "name": "Dr\u00f8mmer",
       "url": "https://open.spotify.com/track/0cbW73Xcxx91aTx3G7XPy3"
@@ -2108,7 +2162,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 113000,
       "name": "Grandma's Lullaby",
       "url": "https://open.spotify.com/track/1xJuVKQ3DURGaNKDUCm3WS"
@@ -2126,7 +2180,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 76500,
       "name": "Group Hug",
       "url": "https://open.spotify.com/track/26EokHosQnMaElrnE2MJf0"
@@ -2324,7 +2378,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 96236,
       "name": "Ho Hey",
       "url": "https://open.spotify.com/track/6qUJsMw1iHpmoAbaDF0QFh"
@@ -2414,7 +2468,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 84521,
       "name": "Hubert, the magic dog",
       "url": "https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6"
@@ -2475,6 +2529,24 @@
     },
     {
       "album": {
+        "name": "Hush Little Baby",
+        "url": "https://open.spotify.com/album/7zitQ3fdy1ixpuX7c4W5Ze"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104500,
+      "name": "Hush Little Baby",
+      "url": "https://open.spotify.com/track/3dZsGdzWYHCOXiikBixgmI"
+    },
+    {
+      "album": {
         "name": "Hush My Darling",
         "url": "https://open.spotify.com/album/76JzQNot8OtPJoQzacDL8F"
       },
@@ -2486,7 +2558,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": "2024-01-07",
       "duration_ms": 187196,
       "name": "Hush My Darling",
       "url": "https://open.spotify.com/track/7D9LtIHBOcAbaLSz7T6jFY"
@@ -2882,7 +2954,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 67072,
       "name": "Kaninvisan",
       "url": "https://open.spotify.com/track/3Fauu3cPoiqBOXu8ThM0kx"
@@ -2972,7 +3044,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 72665,
       "name": "Krakel Spektakel",
       "url": "https://open.spotify.com/track/1Cy2K9hiohAGDI8Ghb3qHL"
@@ -3080,7 +3152,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 140004,
       "name": "Le Petit Prince",
       "url": "https://open.spotify.com/track/4cURU7zDTEfQEvoth8abKj"
@@ -3224,7 +3296,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "Little Bed",
       "url": "https://open.spotify.com/track/1ZQkHcoOcgOzq0Xe7px8cP"
@@ -3440,7 +3512,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 108750,
       "name": "Lucky As Can Be",
       "url": "https://open.spotify.com/track/0Cw53v0dDmtWV0V72G9ec6"
@@ -3512,7 +3584,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-31",
+      "date_removed": null,
       "duration_ms": 126610,
       "name": "Lullaby of Summerland",
       "url": "https://open.spotify.com/track/6dyJoGyNtgFDuyTO1yvwxV"
@@ -3548,7 +3620,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 89239,
       "name": "Main Theme (From \"Bj\u00f6rnes Magasin\") Piano Version",
       "url": "https://open.spotify.com/track/2AnYok5pkpKepDIkwVwfn7"
@@ -4034,7 +4106,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 85043,
       "name": "My Island",
       "url": "https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q"
@@ -4124,7 +4196,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 117500,
       "name": "My Secret Hope",
       "url": "https://open.spotify.com/track/0OKJn9RZqmsjkAGnDo5YJL"
@@ -4214,7 +4286,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 134002,
       "name": "Nighty Night Little Child",
       "url": "https://open.spotify.com/track/3nfno3D4VoW68wvEf9eaal"
@@ -4304,7 +4376,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 80250,
       "name": "On My Chest",
       "url": "https://open.spotify.com/track/5ivcwAjEGrSiCIna2JISRC"
@@ -4394,7 +4466,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 114391,
       "name": "Open, Shut Them",
       "url": "https://open.spotify.com/track/65c8jRrH1mxOMbm47H2bT5"
@@ -4430,7 +4502,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-11",
+      "date_removed": null,
       "duration_ms": 105888,
       "name": "Our Baby (Piano Version)",
       "url": "https://open.spotify.com/track/6Wc69YTIhZTREGW75w2VDc"
@@ -4592,7 +4664,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 96500,
       "name": "Peach Brown Betty",
       "url": "https://open.spotify.com/track/1oNpaSUD3n12FFoVjyedcq"
@@ -4668,6 +4740,24 @@
       "duration_ms": 90142,
       "name": "Pop Goes the Weasel",
       "url": "https://open.spotify.com/track/1pzGYBHQi2CKbQCVk17AJx"
+    },
+    {
+      "album": {
+        "name": "Poppy Puppy",
+        "url": "https://open.spotify.com/album/69FfsvVstJkFev5cAgRhFs"
+      },
+      "artists": [
+        {
+          "name": "Kim Akvileja",
+          "url": "https://open.spotify.com/artist/7hSks32NbjUq855ksjMlMg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89612,
+      "name": "Poppy Puppy",
+      "url": "https://open.spotify.com/track/5rpkYHBqreIuzSVrYWcNa1"
     },
     {
       "album": {
@@ -5010,7 +5100,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 69019,
       "name": "Sandman's Dream",
       "url": "https://open.spotify.com/track/78j4im6NmSVlV2Sg9SLxfF"
@@ -5053,6 +5143,24 @@
     },
     {
       "album": {
+        "name": "Sharky's Toothbrush",
+        "url": "https://open.spotify.com/album/5T42GEONHpXZO02VkBfSS9"
+      },
+      "artists": [
+        {
+          "name": "Danielle Rogard",
+          "url": "https://open.spotify.com/artist/7oH6mUa9mfdEz5EbouH8uu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129565,
+      "name": "Sharky's Toothbrush",
+      "url": "https://open.spotify.com/track/69kYnUzPX39WrqgKejQIaD"
+    },
+    {
+      "album": {
         "name": "Shoo Fly, Don't Bother Me",
         "url": "https://open.spotify.com/album/01G4wHweu6BTyuPAdwCEr2"
       },
@@ -5064,7 +5172,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 85677,
       "name": "Shoo Fly, Don't Bother Me",
       "url": "https://open.spotify.com/track/3aUC3hwhufBQOUJTH5i0U6"
@@ -5244,7 +5352,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-18",
+      "date_removed": null,
       "duration_ms": 109790,
       "name": "Sleep Till Morning Comes",
       "url": "https://open.spotify.com/track/4IMICTKWbU1K6IWHoXibyP"
@@ -5395,6 +5503,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Sails and Dreamy Trails",
+        "url": "https://open.spotify.com/album/6a8fpBjySVbEsz01LaCq46"
+      },
+      "artists": [
+        {
+          "name": "Nerseh Soul",
+          "url": "https://open.spotify.com/artist/3F1T3ei9hUjYpSTdNjfQYI"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Sleepy Sails and Dreamy Trails",
+      "url": "https://open.spotify.com/track/4q2BSCV9zbfqvjcg2mUu90"
+    },
+    {
+      "album": {
         "name": "Sleepy Sweetheart",
         "url": "https://open.spotify.com/album/3521CDtJT2c4ErbvEbB52D"
       },
@@ -5424,7 +5550,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 141637,
       "name": "Sleepy Teddy",
       "url": "https://open.spotify.com/track/7dQDKfg27CDRIZTdW3mLf3"
@@ -5514,7 +5640,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-23",
+      "date_removed": null,
       "duration_ms": 112750,
       "name": "Slumber Sky",
       "url": "https://open.spotify.com/track/5c22QzDuwB2Bq5m0wtD4CZ"
@@ -5730,7 +5856,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 101000,
       "name": "Starshine",
       "url": "https://open.spotify.com/track/0ydmt6SKCUjmP70qq35UJO"
@@ -5770,6 +5896,24 @@
       "duration_ms": 98000,
       "name": "Sunshine jewel",
       "url": "https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3"
+    },
+    {
+      "album": {
+        "name": "Sunshine Song",
+        "url": "https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd"
+      },
+      "artists": [
+        {
+          "name": "Lena Terne",
+          "url": "https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80500,
+      "name": "Sunshine Song",
+      "url": "https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr"
     },
     {
       "album": {
@@ -6306,7 +6450,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 116124,
       "name": "Through The Clouds",
       "url": "https://open.spotify.com/track/3NKhKWyVIxig7zSLSbxXOF"
@@ -6360,7 +6504,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 108326,
       "name": "Time To Hit The Hay",
       "url": "https://open.spotify.com/track/0Tuc8fUicW3D0x6Tfyf0rg"
@@ -6414,7 +6558,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 110250,
       "name": "Tood-a-loo kangaroo",
       "url": "https://open.spotify.com/track/5yPFgbCMbJ7H0REikfTqAa"
@@ -6472,6 +6616,24 @@
       "duration_ms": 101400,
       "name": "Tucked In Tight",
       "url": "https://open.spotify.com/track/5PzRql1K67CzFfWuYsRlNe"
+    },
+    {
+      "album": {
+        "name": "Turkey in the Straw",
+        "url": "https://open.spotify.com/album/5OtrZEtg3EpskPP5owAeiT"
+      },
+      "artists": [
+        {
+          "name": "Robin Colt",
+          "url": "https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Turkey in the Straw",
+      "url": "https://open.spotify.com/track/5bQUoJ84i2i6SntJXlylnw"
     },
     {
       "album": {
@@ -6601,6 +6763,24 @@
     },
     {
       "album": {
+        "name": "Up, Up in the Sky",
+        "url": "https://open.spotify.com/album/64tZQZOwB4wu518sXkTMfG"
+      },
+      "artists": [
+        {
+          "name": "Sloan Sandford",
+          "url": "https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118509,
+      "name": "Up, Up in the Sky",
+      "url": "https://open.spotify.com/track/6t8aYdVINglxNI7paOtemX"
+    },
+    {
+      "album": {
         "name": "Var Bor Du Lilla R\u00e5tta?",
         "url": "https://open.spotify.com/album/7rbBgeI6yjKUsyGXanmt38"
       },
@@ -6612,7 +6792,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-19",
+      "date_removed": null,
       "duration_ms": 63172,
       "name": "Var Bor Du Lilla R\u00e5tta? - Piano Version",
       "url": "https://open.spotify.com/track/06ym7iY70TnJiIeU3CUfDi"
@@ -6918,7 +7098,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 123692,
       "name": "You are my light",
       "url": "https://open.spotify.com/track/0zDx0GsDAi9ZqI9Y80hOqk"
@@ -6972,7 +7152,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-21",
+      "date_removed": null,
       "duration_ms": 107626,
       "name": "You Put A Smile On My Face",
       "url": "https://open.spotify.com/track/4Mg43uJAvlcL1uiHVxqEYT"

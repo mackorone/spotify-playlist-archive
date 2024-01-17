@@ -1,535 +1,2351 @@
 {
-  "2022-07-14": 2007,
-  "2022-07-15": 2067,
-  "2022-07-16": 2128,
-  "2022-07-17": 2179,
-  "2022-07-18": 2241,
-  "2022-07-19": 2297,
-  "2022-07-20": 2341,
-  "2022-07-21": 2406,
-  "2022-07-22": 2473,
-  "2022-07-23": 2515,
-  "2022-07-24": 2567,
-  "2022-07-25": 2604,
-  "2022-07-26": 2629,
-  "2022-07-27": 2690,
-  "2022-07-28": 2749,
-  "2022-07-29": 2802,
-  "2022-07-30": 2876,
-  "2022-07-31": 2876,
-  "2022-08-01": 2913,
-  "2022-08-02": 2980,
-  "2022-08-03": 2980,
-  "2022-08-04": 3014,
-  "2022-08-05": 3059,
-  "2022-08-06": 3097,
-  "2022-08-07": 3131,
-  "2022-08-08": 3154,
-  "2022-08-09": 3186,
-  "2022-08-10": 3215,
-  "2022-08-11": 3244,
-  "2022-08-12": 3272,
-  "2022-08-13": 3297,
-  "2022-08-14": 3326,
-  "2022-08-15": 3372,
-  "2022-08-16": 3409,
-  "2022-08-17": 3433,
-  "2022-08-18": 3466,
-  "2022-08-19": 3495,
-  "2022-08-20": 3526,
-  "2022-08-21": 3557,
-  "2022-08-22": 3593,
-  "2022-08-23": 3619,
-  "2022-08-24": 3650,
-  "2022-08-25": 3681,
-  "2022-08-26": 3708,
-  "2022-08-27": 3721,
-  "2022-08-28": 3745,
-  "2022-08-29": 3764,
-  "2022-08-30": 3788,
-  "2022-08-31": 3826,
-  "2022-09-01": 3854,
-  "2022-09-02": 3879,
-  "2022-09-03": 3892,
-  "2022-09-04": 3911,
-  "2022-09-05": 3943,
-  "2022-09-06": 3975,
-  "2022-09-07": 3988,
-  "2022-09-09": 4059,
-  "2022-09-10": 4090,
-  "2022-09-11": 4125,
-  "2022-09-12": 4154,
-  "2022-09-13": 4178,
-  "2022-09-15": 4230,
-  "2022-09-16": 4262,
-  "2022-09-17": 4289,
-  "2022-09-18": 4322,
-  "2022-09-19": 4354,
-  "2022-09-20": 4385,
-  "2022-09-21": 4402,
-  "2022-09-22": 4432,
-  "2022-09-23": 4449,
-  "2022-09-24": 4479,
-  "2022-09-25": 4514,
-  "2022-09-26": 4557,
-  "2022-09-27": 4576,
-  "2022-09-28": 4622,
-  "2022-09-29": 4655,
-  "2022-09-30": 4694,
-  "2022-10-01": 4732,
-  "2022-10-02": 4771,
-  "2022-10-03": 4800,
-  "2022-10-04": 4828,
-  "2022-10-05": 4852,
-  "2022-10-06": 4888,
-  "2022-10-07": 4923,
-  "2022-10-08": 4954,
-  "2022-10-09": 5023,
-  "2022-10-10": 5025,
-  "2022-10-11": 5067,
-  "2022-10-12": 5104,
-  "2022-10-13": 5136,
-  "2022-10-14": 5167,
-  "2022-10-15": 5197,
-  "2022-10-16": 5228,
-  "2022-10-17": 5255,
-  "2022-10-18": 5277,
-  "2022-10-19": 5293,
-  "2022-10-20": 5344,
-  "2022-10-21": 5386,
-  "2022-10-22": 5411,
-  "2022-10-23": 5430,
-  "2022-10-24": 5452,
-  "2022-10-25": 5475,
-  "2022-10-26": 5502,
-  "2022-10-27": 5517,
-  "2022-10-28": 5534,
-  "2022-10-29": 5552,
-  "2022-10-30": 5579,
-  "2022-10-31": 5600,
-  "2022-11-01": 5626,
-  "2022-11-02": 5656,
-  "2022-11-03": 5676,
-  "2022-11-04": 5707,
-  "2022-11-05": 5723,
-  "2022-11-06": 5741,
-  "2022-11-07": 5759,
-  "2022-11-08": 5786,
-  "2022-11-09": 5809,
-  "2022-11-10": 5829,
-  "2022-11-11": 5843,
-  "2022-11-12": 5864,
-  "2022-11-13": 5888,
-  "2022-11-14": 5914,
-  "2022-11-15": 5936,
-  "2022-11-16": 5963,
-  "2022-11-17": 5984,
-  "2022-11-18": 5997,
-  "2022-11-19": 5992,
-  "2022-11-20": 6012,
-  "2022-11-21": 6005,
-  "2022-11-22": 6051,
-  "2022-11-23": 6045,
-  "2022-11-24": 6108,
-  "2022-11-25": 6148,
-  "2022-11-26": 6164,
-  "2022-11-27": 6188,
-  "2022-11-28": 6206,
-  "2022-11-29": 6224,
-  "2022-11-30": 6245,
-  "2022-12-01": 6290,
-  "2022-12-02": 6321,
-  "2022-12-03": 6368,
-  "2022-12-04": 6396,
-  "2022-12-05": 6434,
-  "2022-12-06": 6458,
-  "2022-12-07": 6486,
-  "2022-12-08": 6528,
-  "2022-12-09": 6570,
-  "2022-12-10": 6595,
-  "2022-12-11": 6624,
-  "2022-12-12": 6659,
-  "2022-12-13": 6681,
-  "2022-12-14": 6712,
-  "2022-12-15": 6740,
-  "2022-12-16": 6762,
-  "2022-12-17": 6788,
-  "2022-12-18": 6829,
-  "2022-12-19": 6858,
-  "2022-12-20": 6913,
-  "2022-12-21": 6913,
-  "2022-12-22": 6935,
-  "2022-12-24": 6977,
-  "2022-12-25": 7007,
-  "2022-12-26": 7031,
-  "2022-12-27": 7054,
-  "2022-12-28": 7082,
-  "2022-12-29": 7108,
-  "2022-12-30": 7123,
-  "2022-12-31": 7138,
-  "2023-01-01": 7152,
-  "2023-01-02": 7171,
-  "2023-01-03": 7194,
-  "2023-01-04": 7220,
-  "2023-01-05": 7244,
-  "2023-01-06": 7267,
-  "2023-01-07": 7292,
-  "2023-01-08": 7299,
-  "2023-01-09": 7328,
-  "2023-01-10": 7350,
-  "2023-01-11": 7376,
-  "2023-01-12": 7400,
-  "2023-01-13": 7431,
-  "2023-01-14": 7467,
-  "2023-01-15": 7470,
-  "2023-01-16": 7488,
-  "2023-01-17": 7504,
-  "2023-01-18": 7531,
-  "2023-01-19": 7545,
-  "2023-01-20": 7567,
-  "2023-01-21": 7594,
-  "2023-01-22": 7623,
-  "2023-01-23": 7634,
-  "2023-01-24": 7658,
-  "2023-01-25": 7669,
-  "2023-01-26": 7678,
-  "2023-01-27": 7707,
-  "2023-01-28": 7731,
-  "2023-01-29": 7749,
-  "2023-01-30": 7769,
-  "2023-01-31": 7769,
-  "2023-02-01": 7796,
-  "2023-02-02": 7813,
-  "2023-02-03": 7830,
-  "2023-02-04": 7856,
-  "2023-02-05": 7876,
-  "2023-02-06": 7905,
-  "2023-02-07": 7929,
-  "2023-02-08": 7963,
-  "2023-02-09": 7963,
-  "2023-02-10": 7987,
-  "2023-02-11": 7999,
-  "2023-02-12": 8048,
-  "2023-02-13": 8069,
-  "2023-02-14": 8069,
-  "2023-02-15": 8078,
-  "2023-02-16": 8103,
-  "2023-02-17": 8139,
-  "2023-02-18": 8181,
-  "2023-02-19": 8187,
-  "2023-02-20": 8201,
-  "2023-02-21": 8227,
-  "2023-02-22": 8238,
-  "2023-02-23": 8258,
-  "2023-02-24": 8277,
-  "2023-02-25": 8306,
-  "2023-02-26": 8314,
-  "2023-02-27": 8349,
-  "2023-02-28": 8349,
-  "2023-03-01": 8367,
-  "2023-03-02": 8380,
-  "2023-03-03": 8391,
-  "2023-03-04": 8404,
-  "2023-03-05": 8438,
-  "2023-03-06": 8438,
-  "2023-03-07": 8461,
-  "2023-03-08": 8475,
-  "2023-03-09": 8498,
-  "2023-03-10": 8513,
-  "2023-03-11": 8534,
-  "2023-03-12": 8556,
-  "2023-03-13": 8578,
-  "2023-03-14": 8598,
-  "2023-03-15": 8631,
-  "2023-03-16": 8655,
-  "2023-03-17": 8655,
-  "2023-03-18": 8693,
-  "2023-03-19": 8710,
-  "2023-03-20": 8725,
-  "2023-03-21": 8743,
-  "2023-03-22": 8766,
-  "2023-03-23": 8795,
-  "2023-03-24": 8795,
-  "2023-03-25": 8838,
-  "2023-03-26": 8866,
-  "2023-03-27": 8886,
-  "2023-03-28": 8913,
-  "2023-03-29": 8942,
-  "2023-03-30": 8989,
-  "2023-03-31": 8989,
-  "2023-04-01": 9013,
-  "2023-04-02": 9039,
-  "2023-04-03": 9069,
-  "2023-04-04": 9096,
-  "2023-04-05": 9123,
-  "2023-04-06": 9154,
-  "2023-04-07": 9176,
-  "2023-04-09": 9222,
-  "2023-04-10": 9247,
-  "2023-04-11": 9290,
-  "2023-04-12": 9290,
-  "2023-04-13": 9304,
-  "2023-04-14": 9325,
-  "2023-04-15": 9343,
-  "2023-04-16": 9353,
-  "2023-04-17": 9390,
-  "2023-04-18": 9420,
-  "2023-04-19": 9451,
-  "2023-04-20": 9472,
-  "2023-04-21": 9488,
-  "2023-04-22": 9515,
-  "2023-04-23": 9534,
-  "2023-04-24": 9559,
-  "2023-04-25": 9587,
-  "2023-04-26": 9608,
-  "2023-04-27": 9631,
-  "2023-04-28": 9666,
-  "2023-04-29": 9686,
-  "2023-04-30": 9717,
-  "2023-05-01": 9736,
-  "2023-05-02": 9758,
-  "2023-05-03": 9772,
-  "2023-05-04": 9789,
-  "2023-05-05": 9808,
-  "2023-05-06": 9829,
-  "2023-05-07": 9843,
-  "2023-05-08": 9863,
-  "2023-05-09": 9886,
-  "2023-05-10": 9903,
-  "2023-05-11": 9920,
-  "2023-05-12": 9955,
-  "2023-05-13": 9972,
-  "2023-05-14": 9991,
-  "2023-05-15": 10008,
-  "2023-05-16": 10023,
-  "2023-05-17": 10044,
-  "2023-05-18": 10070,
-  "2023-05-19": 10088,
-  "2023-05-20": 10143,
-  "2023-05-21": 10143,
-  "2023-05-22": 10143,
-  "2023-05-23": 10191,
-  "2023-05-24": 10222,
-  "2023-05-25": 10226,
-  "2023-05-26": 10254,
-  "2023-05-27": 10263,
-  "2023-05-28": 10284,
-  "2023-05-29": 10284,
-  "2023-05-30": 10313,
-  "2023-05-31": 10331,
-  "2023-06-01": 10344,
-  "2023-06-02": 10355,
-  "2023-06-03": 10374,
-  "2023-06-04": 10400,
-  "2023-06-05": 10429,
-  "2023-06-06": 10451,
-  "2023-06-07": 10472,
-  "2023-06-08": 10488,
-  "2023-06-09": 10505,
-  "2023-06-10": 10519,
-  "2023-06-11": 10536,
-  "2023-06-12": 10551,
-  "2023-06-13": 10566,
-  "2023-06-14": 10591,
-  "2023-06-15": 10607,
-  "2023-06-16": 10624,
-  "2023-06-17": 10650,
-  "2023-06-18": 10667,
-  "2023-06-19": 10685,
-  "2023-06-20": 10695,
-  "2023-06-21": 10708,
-  "2023-06-22": 10723,
-  "2023-06-23": 10748,
-  "2023-06-24": 10765,
-  "2023-06-25": 10783,
-  "2023-06-26": 10801,
-  "2023-06-27": 10820,
-  "2023-06-28": 10843,
-  "2023-06-29": 10861,
-  "2023-06-30": 10886,
-  "2023-07-01": 10932,
-  "2023-07-02": 10932,
-  "2023-07-03": 10945,
-  "2023-07-04": 10968,
-  "2023-07-05": 10989,
-  "2023-07-06": 11026,
-  "2023-07-07": 11026,
-  "2023-07-08": 11037,
-  "2023-07-09": 11053,
-  "2023-07-10": 11060,
-  "2023-07-11": 11065,
-  "2023-07-12": 11080,
-  "2023-07-13": 11098,
-  "2023-07-14": 11126,
-  "2023-07-15": 11133,
-  "2023-07-16": 11169,
-  "2023-07-17": 11190,
-  "2023-07-18": 11216,
-  "2023-07-19": 11238,
-  "2023-07-20": 11252,
-  "2023-07-21": 11270,
-  "2023-07-22": 11291,
-  "2023-07-23": 11306,
-  "2023-07-24": 11318,
-  "2023-07-25": 11337,
-  "2023-07-26": 11356,
-  "2023-07-27": 11381,
-  "2023-07-28": 11386,
-  "2023-07-29": 11409,
-  "2023-07-30": 11437,
-  "2023-07-31": 11459,
-  "2023-08-01": 11485,
-  "2023-08-02": 11497,
-  "2023-08-03": 11515,
-  "2023-08-04": 11532,
-  "2023-08-05": 11549,
-  "2023-08-06": 11581,
-  "2023-08-07": 11581,
-  "2023-08-08": 11593,
-  "2023-08-09": 11606,
-  "2023-08-10": 11624,
-  "2023-08-11": 11645,
-  "2023-08-12": 11671,
-  "2023-08-13": 11683,
-  "2023-08-14": 11701,
-  "2023-08-15": 11726,
-  "2023-08-16": 11726,
-  "2023-08-17": 11748,
-  "2023-08-18": 11766,
-  "2023-08-19": 11772,
-  "2023-08-20": 11793,
-  "2023-08-21": 11809,
-  "2023-08-22": 11830,
-  "2023-08-23": 11844,
-  "2023-08-24": 11867,
-  "2023-08-25": 11876,
-  "2023-08-26": 11894,
-  "2023-08-27": 11911,
-  "2023-08-28": 11925,
-  "2023-08-29": 11936,
-  "2023-08-30": 11956,
-  "2023-08-31": 11971,
-  "2023-09-01": 11991,
-  "2023-09-02": 11991,
-  "2023-09-03": 11992,
-  "2023-09-04": 12011,
-  "2023-09-05": 12028,
-  "2023-09-06": 12043,
-  "2023-09-07": 12074,
-  "2023-09-08": 12085,
-  "2023-09-09": 12098,
-  "2023-09-10": 12121,
-  "2023-09-11": 12139,
-  "2023-09-12": 12157,
-  "2023-09-13": 12165,
-  "2023-09-14": 12176,
-  "2023-09-15": 12190,
-  "2023-09-16": 12199,
-  "2023-09-17": 12218,
-  "2023-09-18": 12231,
-  "2023-09-19": 12247,
-  "2023-09-20": 12258,
-  "2023-09-21": 12270,
-  "2023-09-22": 12275,
-  "2023-09-23": 12282,
-  "2023-09-24": 12299,
-  "2023-09-25": 12307,
-  "2023-09-26": 12334,
-  "2023-09-27": 12344,
-  "2023-09-28": 12353,
-  "2023-09-29": 12363,
-  "2023-09-30": 12374,
-  "2023-10-01": 12389,
-  "2023-10-02": 12400,
-  "2023-10-03": 12406,
-  "2023-10-04": 12411,
-  "2023-10-05": 12429,
-  "2023-10-06": 12442,
-  "2023-10-07": 12447,
-  "2023-10-08": 12466,
-  "2023-10-09": 12473,
-  "2023-10-10": 12486,
-  "2023-10-11": 12514,
-  "2023-10-12": 12514,
-  "2023-10-13": 12532,
-  "2023-10-14": 12546,
-  "2023-10-15": 12562,
-  "2023-10-16": 12581,
-  "2023-10-17": 12601,
-  "2023-10-18": 12615,
-  "2023-10-19": 12634,
-  "2023-10-20": 12653,
-  "2023-10-21": 12663,
-  "2023-10-22": 12675,
-  "2023-10-23": 12691,
-  "2023-10-24": 12709,
-  "2023-10-25": 12715,
-  "2023-10-26": 12733,
-  "2023-10-27": 12745,
-  "2023-10-28": 12761,
-  "2023-10-29": 12779,
-  "2023-10-30": 12802,
-  "2023-10-31": 12802,
-  "2023-11-01": 12825,
-  "2023-11-02": 12836,
-  "2023-11-03": 12851,
-  "2023-11-04": 12862,
-  "2023-11-05": 12881,
-  "2023-11-06": 12898,
-  "2023-11-07": 12909,
-  "2023-11-08": 12929,
-  "2023-11-09": 12948,
-  "2023-11-10": 12959,
-  "2023-11-11": 12972,
-  "2023-11-12": 12991,
-  "2023-11-13": 13002,
-  "2023-11-14": 13018,
-  "2023-11-15": 13018,
-  "2023-11-16": 13038,
-  "2023-11-17": 13058,
-  "2023-11-18": 13058,
-  "2023-11-19": 13063,
-  "2023-11-20": 13072,
-  "2023-11-21": 13081,
-  "2023-11-22": 13101,
-  "2023-11-23": 13117,
-  "2023-11-24": 13131,
-  "2023-11-25": 13139,
-  "2023-11-26": 13148,
-  "2023-11-27": 13161,
-  "2023-11-28": 13184,
-  "2023-11-29": 13213,
-  "2023-11-30": 13213,
-  "2023-12-01": 13233,
-  "2023-12-02": 13254,
-  "2023-12-03": 13270,
-  "2023-12-04": 13294,
-  "2023-12-05": 13307,
-  "2023-12-06": 13335,
-  "2023-12-07": 13359,
-  "2023-12-08": 13375,
-  "2023-12-09": 13398,
-  "2023-12-10": 13429,
-  "2023-12-11": 13477,
-  "2023-12-12": 13503,
-  "2023-12-13": 13520,
-  "2023-12-14": 13551,
-  "2023-12-15": 13564,
-  "2023-12-16": 13597,
-  "2023-12-17": 13616,
-  "2023-12-18": 13635,
-  "2023-12-19": 13656,
-  "2023-12-20": 13672,
-  "2023-12-21": 13689,
-  "2023-12-22": 13704,
-  "2023-12-23": 13716,
-  "2023-12-24": 13738,
-  "2023-12-25": 13750,
-  "2023-12-26": 13767,
-  "2023-12-27": 13782,
-  "2023-12-30": 13830,
-  "2023-12-31": 13847,
-  "2024-01-01": 13859,
-  "2024-01-02": 13876,
-  "2024-01-03": 13895
+  "2024-01-17": 14150,
+  "date_first_scraped": "2022-07-14",
+  "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+  "name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+  "tracks": [
+    {
+      "album": {
+        "name": "ENJOY IT!",
+        "url": "https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 228786,
+      "name": "4 SEASONS",
+      "url": "https://open.spotify.com/track/4Z88klEwx4G1tvA079l6cL"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Lanzhu Zhong (CV: Akina Homoto)",
+          "url": "https://open.spotify.com/artist/71EQKxwB0ZJrPEhW0Sz6sf"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237813,
+      "name": "5201314",
+      "url": "https://open.spotify.com/track/58N59QptRCYvEee9KKTURD"
+    },
+    {
+      "album": {
+        "name": "Awakening Promise / \u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
+        "url": "https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 253746,
+      "name": "Awakening Promise",
+      "url": "https://open.spotify.com/track/5tURJEIapyFgJB6OoykQJI"
+    },
+    {
+      "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224600,
+      "name": "Break The System",
+      "url": "https://open.spotify.com/track/6U36bHRmKJaRHNpGQazdmF"
+    },
+    {
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u8fd1\u6c5f\u5f7c\u65b9\u76e4)",
+        "url": "https://open.spotify.com/album/5FT50eiC2wHEFWfTU1DxYR"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216306,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258493,
+      "name": "CHASE!",
+      "url": "https://open.spotify.com/track/0pxXNuhsLLq6lfj1ZegUCK"
+    },
+    {
+      "album": {
+        "name": "Dream Land!Dream World!",
+        "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 219226,
+      "name": "Cheer for you!!",
+      "url": "https://open.spotify.com/track/3IBLu2lUtOtuXEbh20H7Y0"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Setsuna Yuki (CV: Coco Hayashi)",
+          "url": "https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219840,
+      "name": "Cherry Bomb",
+      "url": "https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3"
+    },
+    {
+      "album": {
+        "name": "Colorful Dreams! Colorful Smiles!",
+        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-28",
+      "duration_ms": 264733,
+      "name": "Colorful Dreams! Colorful Smiles!",
+      "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Kanata Konoe (CV: Akari Kito)",
+          "url": "https://open.spotify.com/artist/7bjCUJfthLYihRCjhrx4Ev"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 231666,
+      "name": "Cooking with Love",
+      "url": "https://open.spotify.com/track/3fezscuqnw3AFYPDOoMXan"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 245333,
+      "name": "Diabolic mulier",
+      "url": "https://open.spotify.com/track/0OnCmz8Pdgj2CBcLew7D5Z"
+    },
+    {
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
+        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "DIVE!",
+      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
+    },
+    {
+      "album": {
+        "name": "Dream Land!Dream World!",
+        "url": "https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231840,
+      "name": "Dream Land!Dream World!",
+      "url": "https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b"
+    },
+    {
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e0a\u539f\u6b69\u5922\u76e4)",
+        "url": "https://open.spotify.com/album/5azLupKAc7jhnLpGV6n2O1"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258105,
+      "name": "Dream with You",
+      "url": "https://open.spotify.com/track/2pOgQuNCRUmDvAKjqwmGR9"
+    },
+    {
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u4e09\u8239\u681e\u5b50\u76e4)",
+        "url": "https://open.spotify.com/album/0LiQMHhv95LfzN5RkdkP5T"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230693,
+      "name": "EMOTION",
+      "url": "https://open.spotify.com/track/5hi5zEqlG3kXMDVH84i7N7"
+    },
+    {
+      "album": {
+        "name": "ENJOY IT!",
+        "url": "https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253773,
+      "name": "ENJOY IT\uff01",
+      "url": "https://open.spotify.com/track/0tgisyzU6IT2FRLtoTJuM7"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246893,
+      "name": "Eternal Light",
+      "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+    },
+    {
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u9418 \u5d50\u73e0\u76e4)",
+        "url": "https://open.spotify.com/album/1tsmsUTGcov0XtiNksxxIi"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249720,
+      "name": "Eutopia",
+      "url": "https://open.spotify.com/track/2Y7ojSbAWEH1mls9OBP8RQ"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-20",
+      "duration_ms": 295800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-10",
+      "duration_ms": 237000,
+      "name": "Fire Bird",
+      "url": "https://open.spotify.com/track/54SdBdxoc2lbBh1bmPgf9o"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265280,
+      "name": "First Love Again",
+      "url": "https://open.spotify.com/track/6dctHGnTOybspx1pFQL3E7"
+    },
+    {
+      "album": {
+        "name": "THE SECRET NiGHT",
+        "url": "https://open.spotify.com/album/0y0DKS9Ns0JS89ZbENujXd"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249000,
+      "name": "Fly into the sky",
+      "url": "https://open.spotify.com/track/13js1LWsNrTSUomm4bYblW"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-05",
+      "duration_ms": 274893,
+      "name": "Fly with You!!",
+      "url": "https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274893,
+      "name": "Fly with You!!",
+      "url": "https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp"
+    },
+    {
+      "album": {
+        "name": "Future Parade",
+        "url": "https://open.spotify.com/album/0fsS12IJNLCSxKhrE5920k"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276320,
+      "name": "Future Parade",
+      "url": "https://open.spotify.com/track/5AlLFpe5yog2BzEhMQhRwF"
+    },
+    {
+      "album": {
+        "name": "Feel Alive / Go Our Way!",
+        "url": "https://open.spotify.com/album/3URTuaSBGB0HUlXCo9mmEp"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165013,
+      "name": "Go Our Way!",
+      "url": "https://open.spotify.com/track/45vz21WtajNItybbjzNoxn"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246626,
+      "name": "I'm Still...",
+      "url": "https://open.spotify.com/track/4HQa0dUK1ViBURwCB8U1r3"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-08",
+      "duration_ms": 246626,
+      "name": "I'm Still...",
+      "url": "https://open.spotify.com/track/6hoWEK3oAZGV66U5z1UVbP"
+    },
+    {
+      "album": {
+        "name": "Ijigen BIGBANG",
+        "url": "https://open.spotify.com/album/5viWiiX3YocnLLAz9kICRH"
+      },
+      "artists": [
+        {
+          "name": "Uzuki Shimamura (CV: Ayaka Ohashi)",
+          "url": "https://open.spotify.com/artist/3xoyWve1jtl6V6v5vJ0jzj"
+        },
+        {
+          "name": "Shizuka Mogami (CV: Azusa Tadokoro)",
+          "url": "https://open.spotify.com/artist/4O0cUPcEXzU6U510RtnM8l"
+        },
+        {
+          "name": "KOGANE TSUKIOKA (CV: Karin Isobe)",
+          "url": "https://open.spotify.com/artist/4r40eoNekBoDSFuPtMaZf1"
+        },
+        {
+          "name": "Chika Takami (CV: Anju Inami)",
+          "url": "https://open.spotify.com/artist/1j1qyF4vDxo871CSuHzgY5"
+        },
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        },
+        {
+          "name": "Kanon Shibuya (CV: Sayuri Date)",
+          "url": "https://open.spotify.com/artist/0d6TVcK3Wq84iMZ3T1kHHR"
+        },
+        {
+          "name": "Kaho Hinoshita (CV: Nozomi Nirei)",
+          "url": "https://open.spotify.com/artist/5VnkGk25NC41GkZEEZzQXy"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316213,
+      "name": "Ijigen BIGBANG",
+      "url": "https://open.spotify.com/track/3QRii5A35ZfsGGiPrv9k0j"
+    },
+    {
+      "album": {
+        "name": "Infinity! Our wings!!",
+        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271106,
+      "name": "Infinity\uff01Our wings!!",
+      "url": "https://open.spotify.com/track/0Ozd2HHjz6HZEbmttB6bMO"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 245706,
+      "name": "Just Believe!!!",
+      "url": "https://open.spotify.com/track/0EIfyw7CQpOmIsV5CqnXLp"
+    },
+    {
+      "album": {
+        "name": "KAGAYAKI Don't forget!",
+        "url": "https://open.spotify.com/album/2WVIL84aMGYGuin5KWD2yE"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256306,
+      "name": "KAGAYAKI Don't forget!",
+      "url": "https://open.spotify.com/track/7xIM7lWmXPgRhPAGLAKxLv"
+    },
+    {
+      "album": {
+        "name": "Shadow Effect",
+        "url": "https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 261866,
+      "name": "Kiss the Sun",
+      "url": "https://open.spotify.com/track/5tCIFJpunFfqaO0ePThVAB"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Shizuku Osaka (CV: Kaori Maeda)",
+          "url": "https://open.spotify.com/artist/0wr7BgwyUkizi1cVYkzxk7"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242933,
+      "name": "Koakuma LOVE",
+      "url": "https://open.spotify.com/track/1dkFzcQjaw7YkPT83raO3j"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Shioriko Mifune (CV: Moeka Koizumi)",
+          "url": "https://open.spotify.com/artist/3hVNHMjYAkdcgYgqxXy1G3"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260252,
+      "name": "Kofukuron",
+      "url": "https://open.spotify.com/track/05DZPBOfAqqdywyCX33yh1"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Emma Verde (CV: Maria Sashide)",
+          "url": "https://open.spotify.com/artist/2cRVn1Af4mx2CetuF8MPRR"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-24",
+      "duration_ms": 267226,
+      "name": "Koi suru Sunflower",
+      "url": "https://open.spotify.com/track/6EZh8cPpNHziHLXLYDkTop"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 249960,
+      "name": "L!L!L! (Love the Life We Live)",
+      "url": "https://open.spotify.com/track/7H91X8TmZl9weVsHu15ya1"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 286400,
+      "name": "La Bella Patria",
+      "url": "https://open.spotify.com/track/69atMEFeZrTfe8WNSyLFFG"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5929\u738b\u5bfa\u7483\u5948\u76e4)",
+        "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 286400,
+      "name": "La Bella Patria",
+      "url": "https://open.spotify.com/track/7v9ASjKZTsEnwZ6408scOv"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Mia Taylor (CV: Shu Uchida)",
+          "url": "https://open.spotify.com/artist/1NhKUvJaDW9KlwxUomMal5"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238986,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/7sppMR5Ag87PFaGFdzgq1m"
+    },
+    {
+      "album": {
+        "name": "Future Parade",
+        "url": "https://open.spotify.com/album/0fsS12IJNLCSxKhrE5920k"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211680,
+      "name": "Level Oops! Adventures",
+      "url": "https://open.spotify.com/track/45pWZHYd1Po8HxKr26btxR"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
+    },
+    {
+      "album": {
+        "name": "LIVE with a smile!",
+        "url": "https://open.spotify.com/album/440iaSHnfUVbHAu9m6Qtz8"
+      },
+      "artists": [
+        {
+          "name": "Aqours",
+          "url": "https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV"
+        },
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        },
+        {
+          "name": "Liella!",
+          "url": "https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313413,
+      "name": "LIVE with a smile!",
+      "url": "https://open.spotify.com/track/2ADhseHRNiaV6NOjP6qZ2X"
+    },
+    {
+      "album": {
+        "name": "SUPER NOVA",
+        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253373,
+      "name": "Love Triangle",
+      "url": "https://open.spotify.com/track/5xzlhflKSdWND9ebn7rBDw"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239946,
+      "name": "Love U my friends",
+      "url": "https://open.spotify.com/track/3obgNWJjhn2P4X1jf69HoK"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 258160,
+      "name": "Margaret",
+      "url": "https://open.spotify.com/track/2dIwAYBeMTnszZIQzDQrXM"
+    },
+    {
+      "album": {
+        "name": "Maze Town",
+        "url": "https://open.spotify.com/album/3i9uf3RVCqzIvj0Msc7zIv"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 263626,
+      "name": "Maze Town",
+      "url": "https://open.spotify.com/track/1O0qkxcLuuYAaJSVt6PGub"
+    },
+    {
+      "album": {
+        "name": "Maze Town",
+        "url": "https://open.spotify.com/album/1xhku0K709SOBcrqqz3LmB"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-16",
+      "duration_ms": 263626,
+      "name": "Maze Town",
+      "url": "https://open.spotify.com/track/1aLfZSKp44prkEYIGpWM63"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269453,
+      "name": "MELODY",
+      "url": "https://open.spotify.com/track/6DmIItjA98dekA0MvIeiHC"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/1l3c3YMXOpvXes5Vc3YsUs"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236746,
+      "name": "MONSTER GIRLS",
+      "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 280480,
+      "name": "My Own Fairy-Tale",
+      "url": "https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Karin Asaka (CV: Miyu Kubota)",
+          "url": "https://open.spotify.com/artist/08EPtrK2UDeXNGdSD2emIE"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 225266,
+      "name": "My Shadow",
+      "url": "https://open.spotify.com/track/4rDIaHxvKcIO4PwNBmKArT"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 287893,
+      "name": "M\u00e4rchen Star",
+      "url": "https://open.spotify.com/track/7chCaPHPbAtQJ1ldS9gE6R"
+    },
+    {
+      "album": {
+        "name": "NEO SKY, NEO MAP!",
+        "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-10",
+      "duration_ms": 277773,
+      "name": "NEO SKY, NEO MAP!",
+      "url": "https://open.spotify.com/track/4AMtutbqOdlw9ybtWSE1et"
+    },
+    {
+      "album": {
+        "name": "Swinging!",
+        "url": "https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 257278,
+      "name": "Not Sad",
+      "url": "https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx"
+    },
+    {
+      "album": {
+        "name": "PASTEL",
+        "url": "https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231440,
+      "name": "PASTEL",
+      "url": "https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q"
+    },
+    {
+      "album": {
+        "name": "Infinity! Our wings!!",
+        "url": "https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 287413,
+      "name": "Poker face&\u304a\u9858\u3044!Fairy",
+      "url": "https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb"
+    },
+    {
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u4e2d\u9808\u304b\u3059\u307f\u76e4)",
+        "url": "https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258146,
+      "name": "Poppin' Up!",
+      "url": "https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239013,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239013,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/24YAlEszD3FMlpqUUgKhSy"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241426,
+      "name": "Say Good-Bye \u6d99",
+      "url": "https://open.spotify.com/track/3SI3r4xZo4wawWw0iv9p5K"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Kasumi Nakasu (CV: Mayu Sagara)",
+          "url": "https://open.spotify.com/artist/3iu88M69eEW3iir7oStMqB"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 251320,
+      "name": "Senobi shitatte",
+      "url": "https://open.spotify.com/track/3VMVavIjzv2gIMmMpaDxYv"
+    },
+    {
+      "album": {
+        "name": "Shadow Effect",
+        "url": "https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236626,
+      "name": "Shadow Effect",
+      "url": "https://open.spotify.com/track/2p8XDR373QnaS1iNrqASfe"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242973,
+      "name": "Silent Blaze",
+      "url": "https://open.spotify.com/track/4O0Lc6uip1ApCNNVF9yLVs"
+    },
+    {
+      "album": {
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+    },
+    {
+      "album": {
+        "name": "SINGING, DREAMING, NOW!",
+        "url": "https://open.spotify.com/album/5TC7PfR7DzArfyHw4HJU7j"
+      },
+      "artists": [
+        {
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2023-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286346,
+      "name": "SINGING, DREAMING, NOW!",
+      "url": "https://open.spotify.com/track/3FfFZpPCAffNYPkc1PG6NU"
+    },
+    {
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
+        "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246733,
+      "name": "Solitude Rain",
+      "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224720,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+    },
+    {
+      "album": {
+        "name": "Eutopia / EMOTION / stars we chase (\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc\u76e4)",
+        "url": "https://open.spotify.com/album/3sNQAhFiFAUFCFGwGf7mtg"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "stars we chase",
+      "url": "https://open.spotify.com/track/4VLmRpAuJGyTYSf1kN6xBT"
+    },
+    {
+      "album": {
+        "name": "SUPER NOVA",
+        "url": "https://open.spotify.com/album/58rcP5kDJA3ygA3K1B6gMH"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254013,
+      "name": "SUPER NOVA",
+      "url": "https://open.spotify.com/track/4AN5xcopsmXq2JSF1SNHEz"
+    },
+    {
+      "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 292346,
+      "name": "Sweet Eyes",
+      "url": "https://open.spotify.com/track/2qRh35Wd3WgUi5p1g2oatH"
+    },
+    {
+      "album": {
+        "name": "Swinging!",
+        "url": "https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 243906,
+      "name": "Swinging!",
+      "url": "https://open.spotify.com/track/2bNWGbLapdOVSrxozvwrl1"
+    },
+    {
+      "album": {
+        "name": "THE SECRET NiGHT",
+        "url": "https://open.spotify.com/album/0y0DKS9Ns0JS89ZbENujXd"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233293,
+      "name": "THE SECRET NiGHT",
+      "url": "https://open.spotify.com/track/5suU2eE1OiXqZbrQzj9SN7"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 236520,
+      "name": "TO BE YOURSELF",
+      "url": "https://open.spotify.com/track/1t7lQCAZ7LjW6wrBtucToW"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 276346,
+      "name": "TOKIMEKI Runners",
+      "url": "https://open.spotify.com/track/2wI8kQ2psvPoMqqlKLusJ1"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251386,
+      "name": "Toy Doll",
+      "url": "https://open.spotify.com/track/0z4OlK9xSsXwQVReScO5V2"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+      },
+      "artists": [
+        {
+          "name": "\u30df\u30a2\u30fb\u30c6\u30a4\u30e9\u30fc (CV.\u5185\u7530 \u79c0)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 251386,
+      "name": "Toy Doll",
+      "url": "https://open.spotify.com/track/7BOoQpM5Ud8zRkDwMDWqOz"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190200,
+      "name": "Turn it Up!",
+      "url": "https://open.spotify.com/track/1YHNATVWupprBQBAnJ2HjV"
+    },
+    {
+      "album": {
+        "name": "Butterfly / Solitude Rain / VIVID WORLD (\u671d\u9999\u679c\u6797\u76e4)",
+        "url": "https://open.spotify.com/album/1BnZQYgRgHc7FbMArnUCAm"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275706,
+      "name": "VIVID WORLD",
+      "url": "https://open.spotify.com/track/2nsE6Ebr959B30OaevvMJI"
+    },
+    {
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216733,
+      "name": "Vroom Vroom",
+      "url": "https://open.spotify.com/track/3UXdd27VYUWIBW6cUvTjl9"
+    },
+    {
+      "album": {
+        "name": "Fly with You!!",
+        "url": "https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Uehara (CV: Aguri Onishi)",
+          "url": "https://open.spotify.com/artist/0qBW9nTHObmROrT0n1rYFF"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 276706,
+      "name": "Walking Dream",
+      "url": "https://open.spotify.com/track/42zJg09ge19Pv5l0epKj7B"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u671d\u9999\u679c\u6797 (CV.\u4e45\u4fdd\u7530\u672a\u5922)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 310373,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/6zl2VIj9NgGv0vcXhstEPV"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 184840,
+      "name": "\u2606\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u2606",
+      "url": "https://open.spotify.com/track/4Pxuo9SNT3CuNNd1WdOjIB"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 326040,
+      "name": "\u3042\u306a\u305f\u306e\u7406\u60f3\u306e\u30d2\u30ed\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240306,
+      "name": "\u3044\u3064\u3060\u3063\u3066for you!",
+      "url": "https://open.spotify.com/track/2RGnf6gCBZtUXDSG8Saes5"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288973,
+      "name": "\u3081\u3063\u3061\u3083Going!!",
+      "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 260266,
+      "name": "\u3084\u304c\u3066\u3072\u3068\u3064\u306e\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/0EoTGDUKh0Se9mChgBghmp"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 280106,
+      "name": "\u30a2\u30ca\u30ed\u30b0\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 263080,
+      "name": "\u30a8\u30a4\u30a8\u6226\u30b5\u30fc",
+      "url": "https://open.spotify.com/track/2HJeb0v2zfXtnvsL7wxWFq"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u685c\u5742\u3057\u305a\u304f (CV.\u524d\u7530\u4f73\u7e54\u91cc)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234880,
+      "name": "\u30aa\u30fc\u30c9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/68yOpLc4Y0FxzZoxkTqioh"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 207813,
+      "name": "\u30b3\u30f3\u30bb\u30f3\u30c8\u30ec\u30a4\u30c8!",
+      "url": "https://open.spotify.com/track/32MqC850CnTjKdZzSzgtMU"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5bae\u4e0b \u611b\u76e4)",
+        "url": "https://open.spotify.com/album/1qvo8Ajhwj2DRa3slc7rkn"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 252280,
+      "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/7fR786eNI8rp2sKxQM5jK0"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+    },
+    {
+      "album": {
+        "name": "\u30b5\u30a4\u30b3\u30fc\u30cf\u30fc\u30c8 / La Bella Patria / \u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8 (\u5929\u738b\u5bfa\u7483\u5948\u76e4)",
+        "url": "https://open.spotify.com/album/7KjQ0RvxpgVELdpiIOkCSv"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237640,
+      "name": "\u30c4\u30ca\u30ac\u30eb\u30b3\u30cd\u30af\u30c8",
+      "url": "https://open.spotify.com/track/5STRLlJ8d8O8cImBgyxvNv"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 253320,
+      "name": "\u30c6\u30ec\u30c6\u30ec\u30d1\u30b7\u30fc",
+      "url": "https://open.spotify.com/track/1mMPqcCOJjvWOjBcgNZNdL"
+    },
+    {
+      "album": {
+        "name": "Colorful Dreams! Colorful Smiles!",
+        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254373,
+      "name": "\u30c8\u30ef\u30a4\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5UGgNLCawH8osXEAiZAo5G"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u5929\u738b\u5bfa\u7483\u5948 (CV.\u7530\u4e2d\u3061\u3048\u7f8e)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270040,
+      "name": "\u30c9\u30ad\u30d4\u30dd\u2606\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/2ZJEnx3d1exXxVpxbD0DaJ"
+    },
+    {
+      "album": {
+        "name": "Vroom Vroom",
+        "url": "https://open.spotify.com/album/4luDm6B6w59F3oJzTbAzfX"
+      },
+      "artists": [
+        {
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "\u30d0\u30d6\u30eb\u30aa\u30fc\u30d0\u30fc\uff01",
+      "url": "https://open.spotify.com/track/6OUbiO6I3jYhfFzoBr27hd"
+    },
+    {
+      "album": {
+        "name": "Maze Town",
+        "url": "https://open.spotify.com/album/3i9uf3RVCqzIvj0Msc7zIv"
+      },
+      "artists": [
+        {
+          "name": "A\u30fbZU\u30fbNA",
+          "url": "https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204693,
+      "name": "\u30d5\u30a9\u30eb\u30af\u30ed\u30a2 ~\u6b53\u559c\u306e\u6b4c~",
+      "url": "https://open.spotify.com/track/1hPNJX0bmNviVIkWzWdZYc"
+    },
+    {
+      "album": {
+        "name": "PASTEL",
+        "url": "https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd"
+      },
+      "artists": [
+        {
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-18",
+      "duration_ms": 241706,
+      "name": "\u30df\u30c1\u30ce\u30b5\u30ad",
+      "url": "https://open.spotify.com/track/1SxNthWig8SgyPENTtVQJB"
+    },
+    {
+      "album": {
+        "name": "not ALONE not HITORI / \u30df\u30e9\u30af\u30eb STAY TUNE! / Shooting Voice!! (Liella!\u76e4)",
+        "url": "https://open.spotify.com/album/69O4f3996TWbFvSGqFL81P"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 291080,
+      "name": "\u30df\u30e9\u30af\u30eb STAY TUNE!",
+      "url": "https://open.spotify.com/track/3Yy238rD3nb1xmFevP7pRu"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-06",
+      "duration_ms": 255280,
+      "name": "\u30e4\u30bf\u3099!",
+      "url": "https://open.spotify.com/track/060A5hiiPAWNvDaclbzcOV"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255280,
+      "name": "\u30e4\u30bf\u3099!",
+      "url": "https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb"
+    },
+    {
+      "album": {
+        "name": "NEO SKY, NEO MAP!",
+        "url": "https://open.spotify.com/album/54ABJqkUjleMloogUpIQ0M"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 258959,
+      "name": "\u5168\u901f\u30c9\u30ea\u30fc\u30de\u30fc",
+      "url": "https://open.spotify.com/track/6FIDVtIZikNpWLiGp4QtHB"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 252653,
+      "name": "\u53cb & \u611b",
+      "url": "https://open.spotify.com/track/2hIkcuWgKOqeUtUcu8DKay"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257519,
+      "name": "\u54c0\u6e29\u30ce\u8a69",
+      "url": "https://open.spotify.com/track/3Qms7SJJWR6vjxsrAJb6n6"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-25",
+      "duration_ms": 260560,
+      "name": "\u58f0\u7e4b\u3054\u3046\u3088",
+      "url": "https://open.spotify.com/track/2wu07j9FHCuZ99fRfbjnK7"
+    },
+    {
+      "album": {
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221613,
+      "name": "\u591c\u660e\u73e0",
+      "url": "https://open.spotify.com/track/028AUKQ4fCTnm5oaoelN85"
+    },
+    {
+      "album": {
+        "name": "L\uff01L\uff01L\uff01 (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+      },
+      "artists": [
+        {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221613,
+      "name": "\u591c\u660e\u73e0",
+      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
+    },
+    {
+      "album": {
+        "name": "Awakening Promise / \u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
+        "url": "https://open.spotify.com/album/2AVHHCRSevbqVGmSNAos6o"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 283680,
+      "name": "\u5922\u304c\u3053\u3053\u304b\u3089\u306f\u3058\u307e\u308b\u3088",
+      "url": "https://open.spotify.com/track/1VXAsYc8reWdpt1l5mXzid"
+    },
+    {
+      "album": {
+        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
+        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 266626,
+      "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
+      "url": "https://open.spotify.com/track/56T729MtBKjclAQx3rOeBK"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287626,
+      "name": "\u5922\u3078\u306e\u4e00\u6b69",
+      "url": "https://open.spotify.com/track/3dg76XVsizSIGdyUG6XXvt"
+    },
+    {
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228213,
+      "name": "\u604b\u3059\u308bMagic!!",
+      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
+    },
+    {
+      "album": {
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 249413,
+      "name": "\u672a\u6765\u30cf\u30fc\u30e2\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/1T0I1kD2JNfgqB1oFQWlQD"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u5bae\u4e0b \u611b (CV.\u6751\u4e0a\u5948\u6d25\u5b9f)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 241306,
+      "name": "\u697d\u3057\u3044\u306e\u5929\u624d",
+      "url": "https://open.spotify.com/track/6BR9SPM7tKuD7wGOkx4CYd"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u9060\u306e\u4e00\u77ac",
+        "url": "https://open.spotify.com/album/66HtPLuP9HU7LYFSdaWaNJ"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-10-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-04",
+      "duration_ms": 297266,
+      "name": "\u6c38\u9060\u306e\u4e00\u77ac",
+      "url": "https://open.spotify.com/track/2ldj8dXCO36HAZlPnzVYqc"
+    },
+    {
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "\u6c7a\u610f\u306e\u5149",
+      "url": "https://open.spotify.com/track/5bKOT6xcTF9SLJw4sKgb2s"
+    },
+    {
+      "album": {
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+    },
+    {
+      "album": {
+        "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+        "url": "https://open.spotify.com/album/5hS6PiorOQmALMSbjh0nHx"
+      },
+      "artists": [
+        {
+          "name": "\u5cf6\u6751\u536f\u6708 (CV: \u5927\u6a4b\u5f69\u9999)",
+          "url": "https://open.spotify.com/artist/6RQ5VjHW97K397QfPd0aXt"
+        },
+        {
+          "name": "\u6700\u4e0a\u9759\u9999 (CV.\u7530\u6240\u3042\u305a\u3055)",
+          "url": "https://open.spotify.com/artist/66UKyfIWbPvoH82zGZlkdH"
+        },
+        {
+          "name": "\u6708\u5ca1\u604b\u9418 (CV.\u7912\u90e8\u82b1\u51dc)",
+          "url": "https://open.spotify.com/artist/2Nascsj90mN48cZBUS4CPA"
+        },
+        {
+          "name": "\u9ad8\u6d77\u5343\u6b4c (CV.\u4f0a\u6ce2\u674f\u6a39)",
+          "url": "https://open.spotify.com/artist/6plej5RLgqzBFny1o6uODr"
+        },
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        },
+        {
+          "name": "\u6f81\u8c37\u304b\u306e\u3093 (CV.\u4f0a\u9054\u3055\u3086\u308a)",
+          "url": "https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF"
+        },
+        {
+          "name": "\u65e5\u91ce\u4e0b\u82b1\u5e06 (CV.\u6961\u4e95\u5e0c\u5b9f)",
+          "url": "https://open.spotify.com/artist/3K0kUxY4moTB2FF7nYLgzs"
+        }
+      ],
+      "date_added": "2023-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 316213,
+      "name": "\u7570\u6b21\u5143\u2605\u2665BIGBANG",
+      "url": "https://open.spotify.com/track/6bZiww7kdL6IXfYiPrr3Fr"
+    },
+    {
+      "album": {
+        "name": "TOKIMEKI Runners",
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
+      },
+      "artists": [
+        {
+          "name": "\u8fd1\u6c5f\u5f7c\u65b9 (CV.\u9b3c\u982d\u660e\u91cc)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 204346,
+      "name": "\u7720\u308c\u308b\u68ee\u306b\u884c\u304d\u305f\u3044\u306a",
+      "url": "https://open.spotify.com/track/24CUT6eQMpK66kZexYJdhh"
+    },
+    {
+      "album": {
+        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
+        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-09",
+      "duration_ms": 241920,
+      "name": "\u7e5a\u4e71!\u30d2\u3099\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c8\u3099",
+      "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229333,
+      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0pcnND4RErXrefEfytdlr8"
+    },
+    {
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
+          "name": "\u4e09\u8239\u681e\u5b50 (CV.\u5c0f\u6cc9\u840c\u9999)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "\u7fe0\u3044\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3LDPZE2mrrsvHGJOTwm2i3"
+    },
+    {
+      "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 255053,
+      "name": "\u8679\u8272Passions!",
+      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
+    },
+    {
+      "album": {
+        "name": "Love U my friends",
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV"
+      },
+      "artists": [
+        {
+          "name": "\u4e0a\u539f\u6b69\u5922 (CV.\u5927\u897f\u4e9c\u7396\u7483)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "date_added": "2022-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-02",
+      "duration_ms": 258812,
+      "name": "\u958b\u82b1\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/2I2gxRtOhtaghM4kmQbFYH"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Ele4FwgUgz"
 }

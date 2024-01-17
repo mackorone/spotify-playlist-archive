@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "Aurora's Dream",
+        "url": "https://open.spotify.com/album/09nhKTVX3WLxztIdxtgrrl"
+      },
+      "artists": [
+        {
+          "name": "Poppy's Box",
+          "url": "https://open.spotify.com/artist/2y3fdY1Oj1x6YNbJB82THh"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81207,
+      "name": "Aurora's Dream",
+      "url": "https://open.spotify.com/track/2uAKy47nXZKys23TydVmqU"
+    },
+    {
+      "album": {
         "name": "Baby Bear",
         "url": "https://open.spotify.com/album/3FSBkPEBTJ9XKV8MBSBJok"
       },
@@ -1082,6 +1100,24 @@
       "duration_ms": 101538,
       "name": "Dear buddy",
       "url": "https://open.spotify.com/track/4QL90SubKWbeN6GQLu7p0c"
+    },
+    {
+      "album": {
+        "name": "Dear Little Snickerboa",
+        "url": "https://open.spotify.com/album/2g8j8DM0MZitCshC9k8m3q"
+      },
+      "artists": [
+        {
+          "name": "Bells of happiness",
+          "url": "https://open.spotify.com/artist/5W8Hrjj45Fo0EGmk8Gkh67"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104480,
+      "name": "Dear Little Snickerboa",
+      "url": "https://open.spotify.com/track/2pWW3wDPsvlWARHqc5g1Bg"
     },
     {
       "album": {

@@ -1,400 +1,1733 @@
 {
-  "2022-11-28": 7202,
-  "2022-11-29": 7208,
-  "2022-11-30": 7217,
-  "2022-12-01": 7234,
-  "2022-12-02": 7239,
-  "2022-12-03": 7254,
-  "2022-12-04": 7262,
-  "2022-12-05": 7271,
-  "2022-12-06": 7277,
-  "2022-12-07": 7281,
-  "2022-12-08": 7295,
-  "2022-12-09": 7309,
-  "2022-12-10": 7323,
-  "2022-12-11": 7332,
-  "2022-12-12": 7338,
-  "2022-12-13": 7351,
-  "2022-12-14": 7362,
-  "2022-12-15": 7374,
-  "2022-12-16": 7383,
-  "2022-12-17": 7387,
-  "2022-12-18": 7401,
-  "2022-12-19": 7403,
-  "2022-12-20": 7425,
-  "2022-12-21": 7425,
-  "2022-12-22": 7430,
-  "2022-12-24": 7449,
-  "2022-12-25": 7456,
-  "2022-12-26": 7461,
-  "2022-12-27": 7465,
-  "2022-12-28": 7472,
-  "2022-12-29": 7480,
-  "2022-12-30": 7490,
-  "2022-12-31": 7497,
-  "2023-01-01": 7504,
-  "2023-01-02": 7513,
-  "2023-01-03": 7522,
-  "2023-01-04": 7526,
-  "2023-01-05": 7529,
-  "2023-01-06": 7540,
-  "2023-01-07": 7553,
-  "2023-01-08": 7554,
-  "2023-01-09": 7558,
-  "2023-01-10": 7564,
-  "2023-01-11": 7566,
-  "2023-01-12": 7575,
-  "2023-01-13": 7584,
-  "2023-01-14": 7600,
-  "2023-01-15": 7599,
-  "2023-01-16": 7602,
-  "2023-01-17": 7609,
-  "2023-01-18": 7612,
-  "2023-01-19": 7620,
-  "2023-01-20": 7626,
-  "2023-01-21": 7631,
-  "2023-01-22": 7639,
-  "2023-01-23": 7645,
-  "2023-01-24": 7655,
-  "2023-01-25": 7659,
-  "2023-01-26": 7665,
-  "2023-01-27": 7662,
-  "2023-01-28": 7672,
-  "2023-01-29": 7675,
-  "2023-01-30": 7678,
-  "2023-01-31": 7678,
-  "2023-02-01": 7685,
-  "2023-02-02": 7687,
-  "2023-02-03": 7687,
-  "2023-02-04": 7697,
-  "2023-02-05": 7703,
-  "2023-02-06": 7712,
-  "2023-02-07": 7719,
-  "2023-02-08": 7731,
-  "2023-02-09": 7731,
-  "2023-02-10": 7736,
-  "2023-02-11": 7742,
-  "2023-02-12": 7753,
-  "2023-02-13": 7761,
-  "2023-02-14": 7761,
-  "2023-02-15": 7766,
-  "2023-02-16": 7770,
-  "2023-02-17": 7774,
-  "2023-02-18": 7786,
-  "2023-02-19": 7786,
-  "2023-02-20": 7791,
-  "2023-02-21": 7798,
-  "2023-02-22": 7804,
-  "2023-02-23": 7809,
-  "2023-02-24": 7817,
-  "2023-02-25": 7827,
-  "2023-02-26": 7829,
-  "2023-02-27": 7839,
-  "2023-02-28": 7839,
-  "2023-03-01": 7839,
-  "2023-03-02": 7842,
-  "2023-03-03": 7851,
-  "2023-03-04": 7854,
-  "2023-03-05": 7864,
-  "2023-03-06": 7864,
-  "2023-03-07": 7862,
-  "2023-03-08": 7867,
-  "2023-03-09": 7873,
-  "2023-03-10": 7880,
-  "2023-03-11": 7887,
-  "2023-03-12": 7891,
-  "2023-03-13": 7898,
-  "2023-03-14": 7901,
-  "2023-03-15": 7905,
-  "2023-03-16": 7905,
-  "2023-03-17": 7905,
-  "2023-03-18": 7914,
-  "2023-03-19": 7918,
-  "2023-03-20": 7922,
-  "2023-03-21": 7920,
-  "2023-03-22": 7931,
-  "2023-03-23": 7940,
-  "2023-03-24": 7940,
-  "2023-03-25": 7948,
-  "2023-03-26": 7950,
-  "2023-03-27": 7959,
-  "2023-03-28": 7965,
-  "2023-03-29": 7965,
-  "2023-03-30": 7982,
-  "2023-03-31": 7982,
-  "2023-04-01": 7988,
-  "2023-04-02": 7994,
-  "2023-04-03": 8005,
-  "2023-04-04": 8013,
-  "2023-04-05": 8024,
-  "2023-04-06": 8036,
-  "2023-04-07": 8042,
-  "2023-04-09": 8054,
-  "2023-04-10": 8060,
-  "2023-04-11": 8069,
-  "2023-04-12": 8069,
-  "2023-04-13": 8072,
-  "2023-04-14": 8077,
-  "2023-04-15": 8082,
-  "2023-04-16": 8092,
-  "2023-04-17": 8100,
-  "2023-04-18": 8105,
-  "2023-04-19": 8118,
-  "2023-04-20": 8122,
-  "2023-04-21": 8128,
-  "2023-04-22": 8137,
-  "2023-04-23": 8145,
-  "2023-04-24": 8153,
-  "2023-04-25": 8160,
-  "2023-04-26": 8169,
-  "2023-04-27": 8174,
-  "2023-04-28": 8178,
-  "2023-04-29": 8182,
-  "2023-04-30": 8189,
-  "2023-05-01": 8197,
-  "2023-05-02": 8199,
-  "2023-05-03": 8204,
-  "2023-05-04": 8207,
-  "2023-05-05": 8212,
-  "2023-05-06": 8236,
-  "2023-05-07": 8243,
-  "2023-05-08": 8250,
-  "2023-05-09": 8255,
-  "2023-05-10": 8263,
-  "2023-05-11": 8276,
-  "2023-05-12": 8279,
-  "2023-05-13": 8279,
-  "2023-05-14": 8280,
-  "2023-05-15": 8286,
-  "2023-05-16": 8289,
-  "2023-05-17": 8295,
-  "2023-05-18": 8299,
-  "2023-05-19": 8311,
-  "2023-05-20": 8325,
-  "2023-05-21": 8325,
-  "2023-05-22": 8325,
-  "2023-05-23": 8331,
-  "2023-05-24": 8342,
-  "2023-05-25": 8344,
-  "2023-05-26": 8350,
-  "2023-05-27": 8349,
-  "2023-05-28": 8351,
-  "2023-05-29": 8351,
-  "2023-05-30": 8362,
-  "2023-05-31": 8367,
-  "2023-06-01": 8372,
-  "2023-06-02": 8369,
-  "2023-06-03": 8370,
-  "2023-06-04": 8377,
-  "2023-06-05": 8376,
-  "2023-06-06": 8384,
-  "2023-06-07": 8394,
-  "2023-06-08": 8398,
-  "2023-06-09": 8405,
-  "2023-06-10": 8407,
-  "2023-06-11": 8408,
-  "2023-06-12": 8414,
-  "2023-06-13": 8420,
-  "2023-06-14": 8422,
-  "2023-06-15": 8426,
-  "2023-06-16": 8433,
-  "2023-06-17": 8436,
-  "2023-06-18": 8440,
-  "2023-06-19": 8444,
-  "2023-06-20": 8453,
-  "2023-06-21": 8457,
-  "2023-06-22": 8457,
-  "2023-06-23": 8464,
-  "2023-06-24": 8470,
-  "2023-06-25": 8476,
-  "2023-06-26": 8479,
-  "2023-06-27": 8485,
-  "2023-06-28": 8489,
-  "2023-06-29": 8497,
-  "2023-06-30": 8503,
-  "2023-07-01": 8508,
-  "2023-07-02": 8508,
-  "2023-07-03": 8511,
-  "2023-07-04": 8517,
-  "2023-07-05": 8526,
-  "2023-07-06": 8537,
-  "2023-07-07": 8537,
-  "2023-07-08": 8546,
-  "2023-07-09": 8548,
-  "2023-07-10": 8548,
-  "2023-07-11": 8553,
-  "2023-07-12": 8560,
-  "2023-07-13": 8570,
-  "2023-07-14": 8573,
-  "2023-07-15": 8575,
-  "2023-07-16": 8579,
-  "2023-07-17": 8587,
-  "2023-07-18": 8595,
-  "2023-07-19": 8597,
-  "2023-07-20": 8601,
-  "2023-07-21": 8606,
-  "2023-07-22": 8609,
-  "2023-07-23": 8612,
-  "2023-07-24": 8618,
-  "2023-07-25": 8623,
-  "2023-07-26": 8625,
-  "2023-07-27": 8625,
-  "2023-07-28": 8625,
-  "2023-07-29": 8627,
-  "2023-07-30": 8627,
-  "2023-07-31": 8635,
-  "2023-08-01": 8638,
-  "2023-08-02": 8639,
-  "2023-08-03": 8646,
-  "2023-08-04": 8645,
-  "2023-08-05": 8651,
-  "2023-08-06": 8658,
-  "2023-08-07": 8658,
-  "2023-08-08": 8664,
-  "2023-08-09": 8675,
-  "2023-08-10": 8675,
-  "2023-08-11": 8674,
-  "2023-08-12": 8678,
-  "2023-08-13": 8682,
-  "2023-08-14": 8686,
-  "2023-08-15": 8695,
-  "2023-08-16": 8695,
-  "2023-08-17": 8704,
-  "2023-08-18": 8701,
-  "2023-08-19": 8703,
-  "2023-08-20": 8708,
-  "2023-08-21": 8713,
-  "2023-08-22": 8717,
-  "2023-08-23": 8719,
-  "2023-08-24": 8724,
-  "2023-08-25": 8728,
-  "2023-08-26": 8731,
-  "2023-08-27": 8734,
-  "2023-08-28": 8738,
-  "2023-08-29": 8743,
-  "2023-08-30": 8747,
-  "2023-08-31": 8751,
-  "2023-09-01": 8753,
-  "2023-09-02": 8753,
-  "2023-09-03": 8752,
-  "2023-09-04": 8753,
-  "2023-09-05": 8754,
-  "2023-09-06": 8754,
-  "2023-09-07": 8759,
-  "2023-09-08": 8762,
-  "2023-09-09": 8765,
-  "2023-09-10": 8770,
-  "2023-09-11": 8771,
-  "2023-09-12": 8772,
-  "2023-09-13": 8779,
-  "2023-09-14": 8778,
-  "2023-09-15": 8777,
-  "2023-09-16": 8780,
-  "2023-09-17": 8782,
-  "2023-09-18": 8785,
-  "2023-09-19": 8786,
-  "2023-09-20": 8787,
-  "2023-09-21": 8791,
-  "2023-09-22": 8793,
-  "2023-09-23": 8798,
-  "2023-09-24": 8799,
-  "2023-09-25": 8802,
-  "2023-09-26": 8806,
-  "2023-09-27": 8809,
-  "2023-09-28": 8812,
-  "2023-09-29": 8811,
-  "2023-09-30": 8815,
-  "2023-10-01": 8819,
-  "2023-10-02": 8822,
-  "2023-10-03": 8823,
-  "2023-10-04": 8826,
-  "2023-10-05": 8825,
-  "2023-10-06": 8825,
-  "2023-10-07": 8824,
-  "2023-10-08": 8827,
-  "2023-10-09": 8828,
-  "2023-10-10": 8828,
-  "2023-10-11": 8830,
-  "2023-10-12": 8830,
-  "2023-10-13": 8830,
-  "2023-10-14": 8830,
-  "2023-10-15": 8834,
-  "2023-10-16": 8834,
-  "2023-10-17": 8836,
-  "2023-10-18": 8843,
-  "2023-10-19": 8845,
-  "2023-10-20": 8843,
-  "2023-10-21": 8846,
-  "2023-10-22": 8850,
-  "2023-10-23": 8854,
-  "2023-10-24": 8858,
-  "2023-10-25": 8855,
-  "2023-10-26": 8857,
-  "2023-10-27": 8861,
-  "2023-10-28": 8864,
-  "2023-10-29": 8865,
-  "2023-10-30": 8867,
-  "2023-10-31": 8867,
-  "2023-11-01": 8866,
-  "2023-11-02": 8864,
-  "2023-11-03": 8869,
-  "2023-11-04": 8869,
-  "2023-11-05": 8867,
-  "2023-11-06": 8874,
-  "2023-11-07": 8876,
-  "2023-11-08": 8880,
-  "2023-11-09": 8881,
-  "2023-11-10": 8884,
-  "2023-11-11": 8886,
-  "2023-11-12": 8888,
-  "2023-11-13": 8892,
-  "2023-11-14": 8891,
-  "2023-11-15": 8891,
-  "2023-11-16": 8891,
-  "2023-11-17": 8894,
-  "2023-11-18": 8894,
-  "2023-11-19": 8895,
-  "2023-11-20": 8896,
-  "2023-11-21": 8894,
-  "2023-11-22": 8895,
-  "2023-11-23": 8897,
-  "2023-11-24": 8905,
-  "2023-11-25": 8906,
-  "2023-11-26": 8910,
-  "2023-11-27": 8909,
-  "2023-11-28": 8911,
-  "2023-11-29": 8919,
-  "2023-11-30": 8919,
-  "2023-12-01": 8922,
-  "2023-12-02": 8918,
-  "2023-12-03": 8919,
-  "2023-12-04": 8924,
-  "2023-12-05": 8924,
-  "2023-12-06": 8925,
-  "2023-12-07": 8923,
-  "2023-12-08": 8927,
-  "2023-12-09": 8928,
-  "2023-12-10": 8934,
-  "2023-12-11": 8928,
-  "2023-12-12": 8935,
-  "2023-12-13": 8939,
-  "2023-12-14": 8945,
-  "2023-12-15": 8949,
-  "2023-12-16": 8954,
-  "2023-12-17": 8954,
-  "2023-12-18": 8954,
-  "2023-12-19": 8959,
-  "2023-12-20": 8959,
-  "2023-12-21": 8959,
-  "2023-12-22": 8964,
-  "2023-12-23": 8971,
-  "2023-12-24": 8972,
-  "2023-12-25": 8980,
-  "2023-12-26": 8982,
-  "2023-12-27": 8985,
-  "2023-12-30": 8995,
-  "2023-12-31": 9001,
-  "2024-01-01": 9004,
-  "2024-01-02": 9004,
-  "2024-01-03": 9008
+  "2024-01-17": 9050,
+  "date_first_scraped": "2022-11-28",
+  "description": "Music From \"TIGER & BUNNY\"! \u30bf\u30a4\u30d0\u30cb\u306e\u4e16\u754c\u3092\u5f69\u308b\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\uff01\u00a9BNP/T&B2 PARTNERS",
+  "name": "TIGER & BUNNY -\u30bf\u30a4\u30ac\u30fc&\u30d0\u30cb\u30fc-",
+  "tracks": [
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170336,
+      "name": "A Homey Place",
+      "url": "https://open.spotify.com/track/0v9aI6ZJkJf4p7hkJwZZwf"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165265,
+      "name": "A Homey Place - Piano Version",
+      "url": "https://open.spotify.com/track/5bIA1F9Xp76n7QjfCYEayI"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Stern Bild Station!",
+        "url": "https://open.spotify.com/album/6EQUHR0bV48JYT5t15G4rJ"
+      },
+      "artists": [
+        {
+          "name": "Fire Emblem (CV: Kenjiro Tsuda)",
+          "url": "https://open.spotify.com/artist/0eSQrCTtExh3A1h2AMrHKu"
+        },
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        },
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Ai Scream!!!",
+      "url": "https://open.spotify.com/track/54Df7dIMOOM3WAZL6e8efl"
+    },
+    {
+      "album": {
+        "name": "AIDA",
+        "url": "https://open.spotify.com/album/0urzy9q0PsNI7L0JDEyhuh"
+      },
+      "artists": [
+        {
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221372,
+      "name": "AIDA",
+      "url": "https://open.spotify.com/track/01Yi8a6gHOmEa7IV4ZDr77"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132465,
+      "name": "Buddy System",
+      "url": "https://open.spotify.com/track/6tWlFMYGKA8zQBd7fi3dLB"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.4",
+        "url": "https://open.spotify.com/album/1ZDBSoY9eF9BMMCI0zTCoA"
+      },
+      "artists": [
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        },
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294573,
+      "name": "Cha Cha Cha de Wassyoi",
+      "url": "https://open.spotify.com/track/4ZHUz6lmsjWpiR51q3xWnf"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131297,
+      "name": "Crisis \u00d7 Crisis",
+      "url": "https://open.spotify.com/track/3E4ItBBtrLr5k9emA8RNQW"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134968,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/1FE9y1coVwGrPddoswrlDN"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.5",
+        "url": "https://open.spotify.com/album/4nDKfSMdXkeCBZw1TNn9Hs"
+      },
+      "artists": [
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244560,
+      "name": "Dragon Smile",
+      "url": "https://open.spotify.com/track/75D3VaFErisHGEsBL3jaot"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147120,
+      "name": "Family Union",
+      "url": "https://open.spotify.com/track/21qbk8glqT4mb25IOTl6QQ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150293,
+      "name": "Fellowship",
+      "url": "https://open.spotify.com/track/0ghdn4MtYXU6bR9FOUDKvz"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153520,
+      "name": "Fiat Lux - from the Bible \"Let there be light.\"",
+      "url": "https://open.spotify.com/track/2hD9FIncgoJ8e6vgnsxRJX"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129963,
+      "name": "Fugan & Mugan",
+      "url": "https://open.spotify.com/track/1CikQmrtLlBkwA6QnfYO55"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115348,
+      "name": "Fugan & Mugan Childhood Memories",
+      "url": "https://open.spotify.com/track/2EijT0oOhnrEOeFDzkhI4B"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Go Next!!",
+        "url": "https://open.spotify.com/album/6iF0QpVTYWwkQm5Ym3y6H6"
+      },
+      "artists": [
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Go Next!!",
+      "url": "https://open.spotify.com/track/2qkoQodHrwmyhmvm6ueXUE"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120019,
+      "name": "Gregory Sunshine",
+      "url": "https://open.spotify.com/track/1OuwHACaKtTDjCxxgnJeIY"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY- Seigi No Koe Ga Kikoeru Kai",
+        "url": "https://open.spotify.com/album/0aKtX1hQ5rdjVCBb27JSkQ"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244893,
+      "name": "Hamidashimono Sanka",
+      "url": "https://open.spotify.com/track/4opDh17tQ9w8ZdXcy4kgzK"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - the Beginning: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/16Pb5YrdAusuDHRF4YTbJ8"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260105,
+      "name": "Happy Birthday to me & us",
+      "url": "https://open.spotify.com/track/4nO8q9OcagwqWLTwr3DnOt"
+    },
+    {
+      "album": {
+        "name": "Catcher In The Spy",
+        "url": "https://open.spotify.com/album/1Xn4IjRqIzsbguEDMQZkIP"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316186,
+      "name": "harmonized finale",
+      "url": "https://open.spotify.com/track/2L7CbheAwtkzVdmlS3PIfQ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159092,
+      "name": "Heart to Heart - Guitar Version",
+      "url": "https://open.spotify.com/track/5aRy1hSrW564l6fz8NClCe"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266766,
+      "name": "Heart to Heart - Warm Version",
+      "url": "https://open.spotify.com/track/3OAbPSugXTCqpvu42KfzTf"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.5",
+        "url": "https://open.spotify.com/album/4nDKfSMdXkeCBZw1TNn9Hs"
+      },
+      "artists": [
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        },
+        {
+          "name": "Rock Bison (CV: Taiten Kusunoki)",
+          "url": "https://open.spotify.com/artist/2FwSJqkG2BBBiw7CGaodbw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273840,
+      "name": "Hero March",
+      "url": "https://open.spotify.com/track/1saDzcDp7FUQ2PIOH3FBpS"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139493,
+      "name": "Heroes Mission",
+      "url": "https://open.spotify.com/track/44p1rvYPiUkQQhczLTa8Fp"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489093,
+      "name": "HEROES N.C.1978",
+      "url": "https://open.spotify.com/track/58pvnIqrPO5CuCwx1vX8T3"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404737,
+      "name": "HEROES N.C.1980",
+      "url": "https://open.spotify.com/track/4UhnyK72XHgFR6SecMs1fv"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.2",
+        "url": "https://open.spotify.com/album/5GPfB1IHFTkvm7UCCG3O3F"
+      },
+      "artists": [
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244560,
+      "name": "Hold Your Heart",
+      "url": "https://open.spotify.com/track/1w1MFqewCto202gbKlrvUg"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.2",
+        "url": "https://open.spotify.com/album/5GPfB1IHFTkvm7UCCG3O3F"
+      },
+      "artists": [
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        },
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268813,
+      "name": "Hurry up Queen!",
+      "url": "https://open.spotify.com/track/0d3xE6KOZAFAabfzzdvqRh"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.3",
+        "url": "https://open.spotify.com/album/6mSwDhWudhFTYjKXMzD5by"
+      },
+      "artists": [
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260733,
+      "name": "I'm \"King Of Hero\"",
+      "url": "https://open.spotify.com/track/0i09PUwY9FTcT1NaYYqc5r"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254226,
+      "name": "Ice Doll",
+      "url": "https://open.spotify.com/track/0RvzEABZjJLN3FmxN4mIHL"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177577,
+      "name": "In Peace",
+      "url": "https://open.spotify.com/track/4vQy08Zyu2FDFgE3Rkl8ux"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142141,
+      "name": "In Peace - Version 2",
+      "url": "https://open.spotify.com/track/50X8VRhQPpAnXPkoV5T5y0"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57557,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/3u2OQ6sP9d6rS8cU6OxKxl"
+    },
+    {
+      "album": {
+        "name": "kaleido proud fiesta",
+        "url": "https://open.spotify.com/album/5Hk8uiIjY8CZ0pQ7vRIV1p"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "kaleido proud fiesta",
+      "url": "https://open.spotify.com/track/3Gl8jfnr5qHzVoWCWc9tV3"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.1",
+        "url": "https://open.spotify.com/album/78RmCNo6GU3VZk7PHYgChC"
+      },
+      "artists": [
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260053,
+      "name": "Kanashimi Masquerade",
+      "url": "https://open.spotify.com/track/0dKM5VmtBLB1NuQcqNCstq"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.6",
+        "url": "https://open.spotify.com/album/5fLBlpOpfvNOUEfFaCQjDF"
+      },
+      "artists": [
+        {
+          "name": "Rock Bison (CV: Taiten Kusunoki)",
+          "url": "https://open.spotify.com/artist/2FwSJqkG2BBBiw7CGaodbw"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295106,
+      "name": "Kataku Kedakaki Hokori to Tomo ni -Rock Bison no Theme-",
+      "url": "https://open.spotify.com/track/6GaYDh63SXRwk8g9FdoKtM"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - the Rising: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6CHC5VkrC90Yh18RtV1S3x"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120280,
+      "name": "Knot of Family",
+      "url": "https://open.spotify.com/track/1zdoPbyhjC4uufwmHyTosI"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Fire Emblem (CV: Kenjiro Tsuda)",
+          "url": "https://open.spotify.com/artist/0eSQrCTtExh3A1h2AMrHKu"
+        },
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        },
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256906,
+      "name": "Koisuru Heroine",
+      "url": "https://open.spotify.com/track/5KaqfyvzIDIqEIVFznyvJ5"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74226,
+      "name": "Kotetsu",
+      "url": "https://open.spotify.com/track/4Tj8OoYsroy85jkZzMwA99"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96162,
+      "name": "Lara Tchaikoskaya",
+      "url": "https://open.spotify.com/track/5Gs8Lwiso10VhTktZ8MX9f"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.7",
+        "url": "https://open.spotify.com/album/1cjku0WOuUmUAavty8P18t"
+      },
+      "artists": [
+        {
+          "name": "Fire Emblem (CV: Kenjiro Tsuda)",
+          "url": "https://open.spotify.com/artist/0eSQrCTtExh3A1h2AMrHKu"
+        },
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        },
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "Let's Go Otomedo",
+      "url": "https://open.spotify.com/track/0SnDLVrkTMLuBhCqpy9abj"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147447,
+      "name": "Life of a Hero",
+      "url": "https://open.spotify.com/track/7u76OO423HHvCLtccPvmJH"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163162,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/4jsRKvuliRMuzfcR5pRgqA"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120720,
+      "name": "Lunatic",
+      "url": "https://open.spotify.com/track/419Jz6F1kAG7UIZDpnSeg0"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133967,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/7334WhXTbDTOPlvBF1bERu"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119886,
+      "name": "Make a Move - Version 2",
+      "url": "https://open.spotify.com/track/2zGtvDhOkuuFs1w8ayhIcl"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227853,
+      "name": "March of Uroboros",
+      "url": "https://open.spotify.com/track/1Mi7KiGo7mlazjlvcJIJiF"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.4",
+        "url": "https://open.spotify.com/album/1ZDBSoY9eF9BMMCI0zTCoA"
+      },
+      "artists": [
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245200,
+      "name": "Mikire Heroism",
+      "url": "https://open.spotify.com/track/3D4pt98x2LuPG8Aq4GgILf"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261600,
+      "name": "Mikire Sakura",
+      "url": "https://open.spotify.com/track/5HTYMq34z5fq4DguDwNqyM"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126226,
+      "name": "Missing the Moon",
+      "url": "https://open.spotify.com/track/2emYZLTThRhPuO6WC5tImw"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119219,
+      "name": "MY HERO",
+      "url": "https://open.spotify.com/track/5lSPzOVa4XnUQdhs54WdCs"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Go Next!!",
+        "url": "https://open.spotify.com/album/6iF0QpVTYWwkQm5Ym3y6H6"
+      },
+      "artists": [
+        {
+          "name": "Karina Lyle (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4QMKv6ka5oMc4joDQX951k"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258026,
+      "name": "My Song",
+      "url": "https://open.spotify.com/track/2ioBRoxIJuOWRnXOLBqwXl"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        },
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232040,
+      "name": "Natsu no Koi wa Otsukare Summer",
+      "url": "https://open.spotify.com/track/4S8wxNO4XJs68mzdMjPEPa"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - the Beginning: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/16Pb5YrdAusuDHRF4YTbJ8"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177213,
+      "name": "Never Fight! Kotetsu",
+      "url": "https://open.spotify.com/track/1kKfQgVWfgHPc64O82rizJ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99199,
+      "name": "News",
+      "url": "https://open.spotify.com/track/2dwRJlKphAvfisF3NOPw3j"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286773,
+      "name": "No Farewell",
+      "url": "https://open.spotify.com/track/2wYBgoG0f4cIZBBoUwC5wg"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141693,
+      "name": "Office Hours",
+      "url": "https://open.spotify.com/track/5XNC1FlHk0SBXaEOYwtfd3"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Stern Bild Station!",
+        "url": "https://open.spotify.com/album/6EQUHR0bV48JYT5t15G4rJ"
+      },
+      "artists": [
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        },
+        {
+          "name": "Rock Bison (CV: Taiten Kusunoki)",
+          "url": "https://open.spotify.com/artist/2FwSJqkG2BBBiw7CGaodbw"
+        },
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "OK, YOU JO\u00d7IN US!!",
+      "url": "https://open.spotify.com/track/0aOGSBJmYkds3RfIx9JPKj"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.8",
+        "url": "https://open.spotify.com/album/03bZ7czfBgdjTfC3dpKfHF"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        },
+        {
+          "name": "Blue Rose (CV: Minako Kotobuki)",
+          "url": "https://open.spotify.com/artist/4dw5eOInfG7nSnajqmCmz0"
+        },
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        },
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        },
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        },
+        {
+          "name": "Rock Bison (CV: Taiten Kusunoki)",
+          "url": "https://open.spotify.com/artist/2FwSJqkG2BBBiw7CGaodbw"
+        },
+        {
+          "name": "Fire Emblem (CV: Kenjiro Tsuda)",
+          "url": "https://open.spotify.com/artist/0eSQrCTtExh3A1h2AMrHKu"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267453,
+      "name": "Orion wo Nazoru - Hero Version",
+      "url": "https://open.spotify.com/track/1DErRAgcm17qx3CPdn09Ca"
+    },
+    {
+      "album": {
+        "name": "Pilot",
+        "url": "https://open.spotify.com/album/6DEKObN7rzlTZV0xI92Z99"
+      },
+      "artists": [
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229252,
+      "name": "Pilot",
+      "url": "https://open.spotify.com/track/3rvwuonib2Gebm7cTEdBCx"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY- Seigi No Koe Ga Kikoeru Kai",
+        "url": "https://open.spotify.com/album/0aKtX1hQ5rdjVCBb27JSkQ"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256372,
+      "name": "Power of Justice",
+      "url": "https://open.spotify.com/track/4zMvXcHl2tunp3f4raTNp1"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158958,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/1WtUbtEOcVn1xelHTTbWZh"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114681,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/6EZiEIKCD2wvF0E5aE6db1"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123823,
+      "name": "Reconciliation",
+      "url": "https://open.spotify.com/track/6I60rKAQXQYGEmfeiTZePg"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152285,
+      "name": "Ryan Goldsmith",
+      "url": "https://open.spotify.com/track/4QUxeervx5QtbQRtevtFPo"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145445,
+      "name": "Sadness and Anger",
+      "url": "https://open.spotify.com/track/3M1L3tfmIgMxLlVFLjZPEt"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Rock Bison (CV: Taiten Kusunoki)",
+          "url": "https://open.spotify.com/artist/2FwSJqkG2BBBiw7CGaodbw"
+        },
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257946,
+      "name": "Sake to Nakama to Otoko no Ballad",
+      "url": "https://open.spotify.com/track/0y0Abl7UTN2QjIGb73cwrO"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.1",
+        "url": "https://open.spotify.com/album/78RmCNo6GU3VZk7PHYgChC"
+      },
+      "artists": [
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255640,
+      "name": "See ya!!",
+      "url": "https://open.spotify.com/track/1QpqYLOyiVPXdKcqd8NiNP"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY- Seigi No Koe Ga Kikoeru Kai",
+        "url": "https://open.spotify.com/album/0aKtX1hQ5rdjVCBb27JSkQ"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257278,
+      "name": "Seigi no Koe ga Kikoeru kai",
+      "url": "https://open.spotify.com/track/1APNDqrLcfgl3qy22KXPSD"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Circuit of Hero Vol.3",
+        "url": "https://open.spotify.com/album/6mSwDhWudhFTYjKXMzD5by"
+      },
+      "artists": [
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        },
+        {
+          "name": "Origami Cyclone (CV: Nobuhiko Okamoto)",
+          "url": "https://open.spotify.com/artist/7ATZwsU7CfCAvFjCsV7BrN"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302200,
+      "name": "Seisyun Honesty",
+      "url": "https://open.spotify.com/track/17vu1vPeALVS6yUzFk86jQ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125525,
+      "name": "Sigourney Rosicky",
+      "url": "https://open.spotify.com/track/2Q2YGLbjCPTARuVKzXPlcg"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122155,
+      "name": "Subaru",
+      "url": "https://open.spotify.com/track/3nsV2SWIZEGVC5yqb2VXzJ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294426,
+      "name": "Syougai Wild Sengen",
+      "url": "https://open.spotify.com/track/5IMbQBj5xnRuHqRKEZEx0X"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - the Rising: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6CHC5VkrC90Yh18RtV1S3x"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63186,
+      "name": "Terzetto",
+      "url": "https://open.spotify.com/track/0pUH0uuBUHLr3uThim7lG9"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Lunatic (CV: Koji Yusa)",
+          "url": "https://open.spotify.com/artist/0XqQxqmenM70rf6pyvCkoB"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Thanatos no Koe wo Kike",
+      "url": "https://open.spotify.com/track/0uCzlEEbmhW3reBXCno7U5"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Sky High (CV: Gou Inoue)",
+          "url": "https://open.spotify.com/artist/5uk20NbiwZqS1A6hW8roqt"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Thanks, and Thanks Again!",
+      "url": "https://open.spotify.com/track/6kau9B4GF6oE1KgNfdVCml"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "The Red Moon",
+      "url": "https://open.spotify.com/track/1utiLmecri5c1rw6pdhEMj"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - the Rising: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6CHC5VkrC90Yh18RtV1S3x"
+      },
+      "artists": [
+        {
+          "name": "Golden Ryan(CV: Yuichi Nakamura)",
+          "url": "https://open.spotify.com/artist/48qe20GRCMxSsOTS7cFyln"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "The Rising -Theme for APOLLON-",
+      "url": "https://open.spotify.com/track/0l9oYnvukH8Vj7pzfGogaz"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/0GI5KfrUuIx3Dt1jOLQZWI"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133213,
+      "name": "TIGER & BUNNY",
+      "url": "https://open.spotify.com/track/6hFd4D8bxPIXxchiTWJhnb"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Dragon Kid (CV: Mariya Ise)",
+          "url": "https://open.spotify.com/artist/5EBFnaeAQR1n6NEk49BKyR"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Todoroke Kung-fu Master",
+      "url": "https://open.spotify.com/track/4uR3heThMaCVexImdbVq4G"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 1",
+        "url": "https://open.spotify.com/album/6kLUdxxanssVJV9qtRHqNW"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123122,
+      "name": "vs",
+      "url": "https://open.spotify.com/track/6aRpDQfGIqKmNXcCPbgRy6"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY - BEST OF HERO",
+        "url": "https://open.spotify.com/album/3FLzyhvIpqijzstZZrR6lw"
+      },
+      "artists": [
+        {
+          "name": "Wild Tiger (CV: Hiroaki Hirata)",
+          "url": "https://open.spotify.com/artist/541aaLrFBm2jXjhmglN6H0"
+        },
+        {
+          "name": "Barnaby Brooks Jr. (CV: Masakazu Morita)",
+          "url": "https://open.spotify.com/artist/5EODGKJJJCjVi6KqbFEhT5"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318533,
+      "name": "You are the HERO!!",
+      "url": "https://open.spotify.com/track/5ezVL6Yyo7mev3MCHZj9EZ"
+    },
+    {
+      "album": {
+        "name": "TIGER & BUNNY 2 - Original Motion Picture Soundtrack 2",
+        "url": "https://open.spotify.com/album/6dQU5LWYydcnMVA2JqJhEK"
+      },
+      "artists": [
+        {
+          "name": "Yoshihiro Ike",
+          "url": "https://open.spotify.com/artist/66kQgBsLJNwT4KazRoIS6U"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127797,
+      "name": "Yuri",
+      "url": "https://open.spotify.com/track/2CEeqOxgYgAfoOjpy85NrJ"
+    },
+    {
+      "album": {
+        "name": "PROTOCOL",
+        "url": "https://open.spotify.com/album/24dobZNn4dIY0DE7VPFMrZ"
+      },
+      "artists": [
+        {
+          "name": "NOVELS",
+          "url": "https://open.spotify.com/artist/7GN5tCGsJWfEgFNfp9Ju6R"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262546,
+      "name": "\u30a2\u30fc\u30b9\u30c0\u30a4\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4uJhpMJakbNwI8oOjZZYGF"
+    },
+    {
+      "album": {
+        "name": "Populus Populus",
+        "url": "https://open.spotify.com/album/6RkX1MTXdYpOHlQRAwmUkd"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263733,
+      "name": "\u30aa\u30ea\u30aa\u30f3\u3092\u306a\u305e\u308b",
+      "url": "https://open.spotify.com/track/0opkjjC7nn6YO8NXzkDAPP"
+    },
+    {
+      "album": {
+        "name": "PROTOCOL",
+        "url": "https://open.spotify.com/album/24dobZNn4dIY0DE7VPFMrZ"
+      },
+      "artists": [
+        {
+          "name": "NOVELS",
+          "url": "https://open.spotify.com/artist/7GN5tCGsJWfEgFNfp9Ju6R"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267106,
+      "name": "\u30cd\u30e1\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/4uUqLRWJw5oJG5dyaY0V0q"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30a4\u30f3\u30c9\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/5dPr5zSUnv1Yv8x9HjMo03"
+      },
+      "artists": [
+        {
+          "name": "\u73e0\u5983",
+          "url": "https://open.spotify.com/artist/6GwGjtecbeyeYrfdMOG5L0"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240773,
+      "name": "\u30de\u30a4\u30f3\u30c9\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/5yQRSs8QBncQ5D40BBSCb3"
+    },
+    {
+      "album": {
+        "name": "PROTOCOL",
+        "url": "https://open.spotify.com/album/24dobZNn4dIY0DE7VPFMrZ"
+      },
+      "artists": [
+        {
+          "name": "NOVELS",
+          "url": "https://open.spotify.com/artist/7GN5tCGsJWfEgFNfp9Ju6R"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245026,
+      "name": "\u30df\u30c3\u30b7\u30f3\u30b0\u30ea\u30f3\u30af",
+      "url": "https://open.spotify.com/track/1OiJNnHX1dC4aUOmjZjg6l"
+    },
+    {
+      "album": {
+        "name": "CIDER ROAD",
+        "url": "https://open.spotify.com/album/79coL3a7OzeSArc4AGC0mo"
+      },
+      "artists": [
+        {
+          "name": "UNISON SQUARE GARDEN",
+          "url": "https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295386,
+      "name": "\u30ea\u30cb\u30a2\u30d6\u30eb\u30fc\u3092\u8074\u304d\u306a\u304c\u3089",
+      "url": "https://open.spotify.com/track/3pK2AiyPVlUMhEsMef1z3G"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u3059\u307f\u304b",
+        "url": "https://open.spotify.com/album/3f5BpbYm15cpe6hNyY0Aee"
+      },
+      "artists": [
+        {
+          "name": "Aobozu",
+          "url": "https://open.spotify.com/artist/3LVkOYKVMTJGOY1vuYh6He"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282813,
+      "name": "\u661f\u306e\u3059\u307f\u304b",
+      "url": "https://open.spotify.com/track/2JVDXExGxd5IVyKFwsQ4hc"
+    },
+    {
+      "album": {
+        "name": "\u7d04\u675f",
+        "url": "https://open.spotify.com/album/2cesk6EILptIrxtKalf4Dm"
+      },
+      "artists": [
+        {
+          "name": "Rihwa",
+          "url": "https://open.spotify.com/artist/7dMeBrs51OCqQJ0wKURVto"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345226,
+      "name": "\u7d04\u675f",
+      "url": "https://open.spotify.com/track/5ym9VK8EYF0EWljabMVva8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2vXDFFlGYX5"
 }

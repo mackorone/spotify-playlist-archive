@@ -4,7 +4,7 @@
 
 > Music from TV Anime "ONE PIECE" /TVアニメ「ONE PIECE」の楽曲を1つのプレイリストで。©️尾田栄一郎／集英社・フジテレビ・東映アニメーション
 
-51 songs - 2 hr 55 min
+53 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Believe](https://open.spotify.com/track/5Wg6U4mLyjJj8ApPkWHBKB) | [Folder 5](https://open.spotify.com/artist/2B7camiqgR0ErfveavlNIG) | [HYPER GROOVE 1](https://open.spotify.com/album/74FWMBzqWcuqRh18aGyphf) | 3:46 | 2023-08-23 |  |
 | [Brand New World](https://open.spotify.com/track/1mV4Ti0I8kZF3Dd72qPEW5) | [D\-51](https://open.spotify.com/artist/5uisl58N23dXm8fGfbLF8m) | [Mitsuyoko Ichimura \(Standard Edition\)](https://open.spotify.com/album/6jD6G7QKuMHKJ5QRR5w0HO) | 4:18 | 2023-08-23 |  |
 | [Dear friends](https://open.spotify.com/track/5YRUnOfaenrnqNQOWiB5OB) | [TRIPLANE](https://open.spotify.com/artist/1NbiRwxHImuLW8Ym0fBzAH) | [home](https://open.spotify.com/album/4Gk4dFaOPaX7wtX34e6MaV) | 4:30 | 2023-08-23 |  |
+| [Dear sunrise](https://open.spotify.com/track/25EjH8afEtEVAo545MsfOi) | [Maki Otsuki](https://open.spotify.com/artist/2cZngrpi14BX8viqaPl5m5) | [Dear sunrise](https://open.spotify.com/album/5oi9Tau6QtV499bgMOEDZo) | 3:39 | 2024-01-07 |  |
 | [DREAMIN' ON](https://open.spotify.com/track/1rxh0iojvTB24C6BpOdfC1) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 3:55 | 2023-08-23 |  |
 | [FAITH](https://open.spotify.com/track/3MW8LSQ4LACmutnFCRISyJ) | [Ruppina](https://open.spotify.com/artist/3fISRzJmOrPlXYL6CIPeHM) | [Ruppina II](https://open.spotify.com/album/3SilZYp3w4HtzlxTT9FkWD) | 4:17 | 2023-08-23 |  |
 | [Family \- \~10人の麦わらの一味Ver.\~](https://open.spotify.com/track/4RSjrYgNL6d3OjcKnu8ykK) | [田中真弓](https://open.spotify.com/artist/1jWUZgqoIreHzpc2LEt8b5), [中井和哉](https://open.spotify.com/artist/4w0vqXFKVZGWj4xINWw0Np), [岡村明美](https://open.spotify.com/artist/31hFvA5ABRep2TMLGHOnCx), [山口勝平](https://open.spotify.com/artist/6awMhnsZvEj5hUmvZRJLLp), [平田広明](https://open.spotify.com/artist/6a02hAJe9ZN0M4noh7SZfU), [大谷育江](https://open.spotify.com/artist/3wpfyg0Bgnx5TCAmn0KnEi), [山口由里子](https://open.spotify.com/artist/2ywXtWRYigjRaY0ynwztIe), [矢尾一樹](https://open.spotify.com/artist/0bMV7x6GjBVBNEPydq81sy), [チョー](https://open.spotify.com/artist/4tosvVYFIt7PMe2OyRbNQ0), [宝亀克寿](https://open.spotify.com/artist/4DHqY0G3L8lqyV3JBqaeHc) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 4:17 | 2023-08-23 |  |
@@ -30,6 +31,7 @@
 | [RUN! RUN! RUN!](https://open.spotify.com/track/0T4JQ3TIptM9GEotNGlMxg) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [情熱の2000'sベストヒッツ35曲！〜Epic35〜](https://open.spotify.com/album/4UfSDQKcZuql45DhlBFgNY) | 3:59 | 2023-08-23 |  |
 | [Shining ray](https://open.spotify.com/track/2jxiuMVIyPeDeHP9qne6BJ) | [Janne Da Arc](https://open.spotify.com/artist/17OoiwOfChkOVxbqaLzB1W) | [ANOTHER STORY](https://open.spotify.com/album/7HCy1UvD6nkIMorKPYC1Nc) | 3:58 | 2023-08-23 |  |
 | [Wake up!](https://open.spotify.com/track/2ZCkl705ROXLgLtXXKhBp2) | [AAA](https://open.spotify.com/artist/1AyWsgtaIgXbzjJlTx2ZDp) | [GOLD SYMPHONY](https://open.spotify.com/album/2K4rdeEWAiU0CgqI8XXdjR) | 3:43 | 2023-08-23 |  |
+| [あーーっす！](https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [あーーっす！](https://open.spotify.com/album/1Sv4GsJ3FXqyCXKgPXaVM1) | 3:17 | 2024-01-07 |  |
 | [おれの最高地点](https://open.spotify.com/track/6cufjZzevc6spKggsuDEJv) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [おれの最高地点](https://open.spotify.com/album/3LIV7v8sthlx3K5P13Y8R3) | 3:05 | 2023-08-23 |  |
 | [しょうちのすけ](https://open.spotify.com/track/6G8uYcvbeQUcZFRotTUJEx) | [Suiteisho\-jo](https://open.spotify.com/artist/3hwWcZNHs2MXyC1e8JjAnY) | [16 \-sixteen\-](https://open.spotify.com/album/2IIdJPW3oosPTi6FoA1GXp) | 3:54 | 2023-08-23 |  |
 | [ウィーアー! for the new world](https://open.spotify.com/track/1QpkD0qIOHfvFH5vUzkek7) | [Hiroshi Kitadani](https://open.spotify.com/artist/4AJU1RjcIcPXJ29eoV5Jop) | [ウィーゴー!](https://open.spotify.com/album/22vN8p8TlwrKbSrU4Z1pM5) | 3:59 | 2023-08-23 |  |
@@ -56,7 +58,7 @@
 | [約束の時](https://open.spotify.com/track/7GabjT5pIkKilMvh4uCcCW) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 2:18 | 2023-08-23 |  |
 | [行け行け!麦わらの一味!!](https://open.spotify.com/track/3sJfHZoWQkP7uFPH0VLY70) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.1\)](https://open.spotify.com/album/3e3bVLPrES1o1X0rN4Oiyu) | 1:45 | 2023-08-23 |  |
 | [覚醒したルフィの活躍](https://open.spotify.com/track/1XIw0Vp05DHkOcp0Rzkpii) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE オリジナルサウンドトラック"WANOKUNI"](https://open.spotify.com/album/0DyIQWyWWthQ3f9xRP1hXa) | 1:44 | 2023-08-23 |  |
-| [頂上戦争](https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:28 | 2023-08-23 |  |
+| [頂上戦争](https://open.spotify.com/track/36m8jgxuYk5A6QWUJaUez0) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 1:28 | 2023-08-23 | 2024-01-08 |
 | [風をさがして](https://open.spotify.com/track/6IePUG4Jy9dKA0zp3VAMeo) | [Mari Yaguchi](https://open.spotify.com/artist/1MCUIn9Um8kgMIdfgsFl1d), [ストローハット](https://open.spotify.com/artist/122cdkCJMnlTpK8RVdA7Ht) | [風をさがして](https://open.spotify.com/album/3Y9UDMo90lvIwaEp2aAQlZ) | 4:05 | 2023-08-23 |  |
 | [麦わらの一味VSマッドトレジャー一味](https://open.spotify.com/track/78Xn7fcliybiDG8zwK9Uqz) | [Kohei Tanaka](https://open.spotify.com/artist/74ov6NjGYL0LHHyDD2Dy2b) | [ONE PIECE MUSIC MATERIAL \(Vol.2\)](https://open.spotify.com/album/4ws5nZWlUQ50f3wt2zho95) | 2:58 | 2023-08-23 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NxFcG0RivQ.md) - [plain]
 
 > El soundtrack ideal para tu sesión matutina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,958 likes - 258 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,916 likes - 258 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

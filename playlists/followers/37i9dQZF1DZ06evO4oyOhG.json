@@ -1,569 +1,2201 @@
 {
-  "2022-06-10": 11310,
-  "2022-06-11": 11326,
-  "2022-06-12": 11344,
-  "2022-06-13": 11357,
-  "2022-06-14": 11368,
-  "2022-06-15": 11376,
-  "2022-06-16": 11389,
-  "2022-06-17": 11400,
-  "2022-06-18": 11402,
-  "2022-06-19": 11423,
-  "2022-06-20": 11423,
-  "2022-06-21": 11432,
-  "2022-06-22": 11439,
-  "2022-06-23": 11439,
-  "2022-06-24": 11453,
-  "2022-06-25": 11461,
-  "2022-06-26": 11465,
-  "2022-06-27": 11477,
-  "2022-06-28": 11488,
-  "2022-06-29": 11500,
-  "2022-06-30": 11517,
-  "2022-07-01": 11531,
-  "2022-07-02": 11539,
-  "2022-07-03": 11550,
-  "2022-07-04": 11559,
-  "2022-07-05": 11559,
-  "2022-07-06": 11559,
-  "2022-07-07": 11587,
-  "2022-07-08": 11597,
-  "2022-07-09": 11609,
-  "2022-07-10": 11620,
-  "2022-07-11": 11638,
-  "2022-07-12": 11642,
-  "2022-07-13": 11659,
-  "2022-07-14": 11666,
-  "2022-07-15": 11688,
-  "2022-07-16": 11701,
-  "2022-07-17": 11712,
-  "2022-07-18": 11719,
-  "2022-07-19": 11734,
-  "2022-07-20": 11743,
-  "2022-07-21": 11746,
-  "2022-07-22": 11757,
-  "2022-07-23": 11772,
-  "2022-07-24": 11785,
-  "2022-07-25": 11796,
-  "2022-07-26": 11813,
-  "2022-07-27": 11830,
-  "2022-07-28": 11836,
-  "2022-07-29": 11845,
-  "2022-07-30": 11868,
-  "2022-07-31": 11868,
-  "2022-08-01": 11884,
-  "2022-08-02": 11909,
-  "2022-08-03": 11909,
-  "2022-08-04": 11920,
-  "2022-08-05": 11933,
-  "2022-08-06": 11943,
-  "2022-08-07": 11968,
-  "2022-08-08": 11988,
-  "2022-08-09": 12012,
-  "2022-08-10": 12031,
-  "2022-08-11": 12045,
-  "2022-08-12": 12061,
-  "2022-08-13": 12069,
-  "2022-08-14": 12081,
-  "2022-08-15": 12102,
-  "2022-08-16": 12114,
-  "2022-08-17": 12125,
-  "2022-08-18": 12137,
-  "2022-08-19": 12148,
-  "2022-08-20": 12157,
-  "2022-08-21": 12166,
-  "2022-08-22": 12174,
-  "2022-08-23": 12191,
-  "2022-08-24": 12198,
-  "2022-08-25": 12204,
-  "2022-08-26": 12214,
-  "2022-08-27": 12223,
-  "2022-08-28": 12227,
-  "2022-08-29": 12240,
-  "2022-08-30": 12251,
-  "2022-08-31": 12250,
-  "2022-09-01": 12254,
-  "2022-09-02": 12248,
-  "2022-09-03": 12246,
-  "2022-09-04": 12252,
-  "2022-09-05": 12255,
-  "2022-09-06": 12269,
-  "2022-09-07": 12280,
-  "2022-09-09": 12299,
-  "2022-09-10": 12314,
-  "2022-09-11": 12325,
-  "2022-09-12": 12336,
-  "2022-09-13": 12356,
-  "2022-09-15": 12382,
-  "2022-09-16": 12393,
-  "2022-09-17": 12412,
-  "2022-09-18": 12421,
-  "2022-09-19": 12438,
-  "2022-09-20": 12445,
-  "2022-09-21": 12458,
-  "2022-09-22": 12472,
-  "2022-09-23": 12483,
-  "2022-09-24": 12483,
-  "2022-09-25": 12511,
-  "2022-09-26": 12528,
-  "2022-09-27": 12539,
-  "2022-09-28": 12551,
-  "2022-09-29": 12557,
-  "2022-09-30": 12570,
-  "2022-10-01": 12583,
-  "2022-10-02": 12594,
-  "2022-10-03": 12601,
-  "2022-10-04": 12613,
-  "2022-10-05": 12627,
-  "2022-10-06": 12644,
-  "2022-10-07": 12650,
-  "2022-10-08": 12660,
-  "2022-10-09": 12680,
-  "2022-10-10": 12679,
-  "2022-10-11": 12695,
-  "2022-10-12": 12707,
-  "2022-10-13": 12721,
-  "2022-10-14": 12724,
-  "2022-10-15": 12739,
-  "2022-10-16": 12742,
-  "2022-10-17": 12754,
-  "2022-10-18": 12766,
-  "2022-10-19": 12784,
-  "2022-10-20": 12799,
-  "2022-10-21": 12812,
-  "2022-10-22": 12824,
-  "2022-10-23": 12835,
-  "2022-10-24": 12845,
-  "2022-10-25": 12856,
-  "2022-10-26": 12872,
-  "2022-10-27": 12877,
-  "2022-10-28": 12890,
-  "2022-10-29": 12900,
-  "2022-10-30": 12913,
-  "2022-10-31": 12936,
-  "2022-11-01": 12947,
-  "2022-11-02": 12963,
-  "2022-11-03": 12974,
-  "2022-11-04": 12988,
-  "2022-11-05": 12997,
-  "2022-11-06": 13007,
-  "2022-11-07": 13018,
-  "2022-11-08": 13034,
-  "2022-11-09": 13047,
-  "2022-11-10": 13051,
-  "2022-11-11": 13059,
-  "2022-11-12": 13074,
-  "2022-11-13": 13088,
-  "2022-11-14": 13096,
-  "2022-11-15": 13106,
-  "2022-11-16": 13119,
-  "2022-11-17": 13120,
-  "2022-11-18": 13125,
-  "2022-11-19": 13127,
-  "2022-11-20": 13135,
-  "2022-11-21": 13150,
-  "2022-11-22": 13162,
-  "2022-11-23": 13162,
-  "2022-11-24": 13190,
-  "2022-11-25": 13205,
-  "2022-11-26": 13217,
-  "2022-11-27": 13229,
-  "2022-11-28": 13239,
-  "2022-11-29": 13247,
-  "2022-11-30": 13254,
-  "2022-12-01": 13268,
-  "2022-12-02": 13270,
-  "2022-12-03": 13279,
-  "2022-12-04": 13288,
-  "2022-12-05": 13312,
-  "2022-12-06": 13327,
-  "2022-12-07": 13332,
-  "2022-12-08": 13335,
-  "2022-12-09": 13344,
-  "2022-12-10": 13349,
-  "2022-12-11": 13366,
-  "2022-12-12": 13383,
-  "2022-12-13": 13395,
-  "2022-12-14": 13401,
-  "2022-12-15": 13408,
-  "2022-12-16": 13418,
-  "2022-12-17": 13429,
-  "2022-12-18": 13440,
-  "2022-12-19": 13450,
-  "2022-12-20": 13478,
-  "2022-12-21": 13478,
-  "2022-12-22": 13490,
-  "2022-12-24": 13514,
-  "2022-12-25": 13523,
-  "2022-12-26": 13539,
-  "2022-12-27": 13553,
-  "2022-12-28": 13569,
-  "2022-12-29": 13571,
-  "2022-12-30": 13578,
-  "2022-12-31": 13583,
-  "2023-01-01": 13595,
-  "2023-01-02": 13602,
-  "2023-01-03": 13613,
-  "2023-01-04": 13619,
-  "2023-01-05": 13629,
-  "2023-01-06": 13641,
-  "2023-01-07": 13656,
-  "2023-01-08": 13657,
-  "2023-01-09": 13669,
-  "2023-01-10": 13677,
-  "2023-01-11": 13689,
-  "2023-01-12": 13704,
-  "2023-01-13": 13710,
-  "2023-01-14": 13731,
-  "2023-01-15": 13731,
-  "2023-01-16": 13742,
-  "2023-01-17": 13755,
-  "2023-01-18": 13766,
-  "2023-01-19": 13781,
-  "2023-01-20": 13794,
-  "2023-01-21": 13813,
-  "2023-01-22": 13828,
-  "2023-01-23": 13842,
-  "2023-01-24": 13857,
-  "2023-01-25": 13869,
-  "2023-01-26": 13885,
-  "2023-01-27": 13893,
-  "2023-01-28": 13907,
-  "2023-01-29": 13916,
-  "2023-01-30": 13928,
-  "2023-01-31": 13928,
-  "2023-02-01": 13941,
-  "2023-02-02": 13957,
-  "2023-02-03": 13966,
-  "2023-02-04": 13974,
-  "2023-02-05": 13986,
-  "2023-02-06": 13991,
-  "2023-02-07": 14002,
-  "2023-02-08": 14028,
-  "2023-02-09": 14028,
-  "2023-02-10": 14043,
-  "2023-02-11": 14050,
-  "2023-02-12": 14063,
-  "2023-02-13": 14076,
-  "2023-02-14": 14076,
-  "2023-02-15": 14093,
-  "2023-02-16": 14103,
-  "2023-02-17": 14117,
-  "2023-02-18": 14151,
-  "2023-02-19": 14156,
-  "2023-02-20": 14165,
-  "2023-02-21": 14182,
-  "2023-02-22": 14195,
-  "2023-02-23": 14209,
-  "2023-02-24": 14230,
-  "2023-02-25": 14248,
-  "2023-02-26": 14255,
-  "2023-02-27": 14277,
-  "2023-02-28": 14277,
-  "2023-03-01": 14287,
-  "2023-03-02": 14298,
-  "2023-03-03": 14309,
-  "2023-03-04": 14323,
-  "2023-03-05": 14341,
-  "2023-03-06": 14341,
-  "2023-03-07": 14355,
-  "2023-03-08": 14367,
-  "2023-03-09": 14376,
-  "2023-03-10": 14383,
-  "2023-03-11": 14400,
-  "2023-03-12": 14408,
-  "2023-03-13": 14419,
-  "2023-03-14": 14437,
-  "2023-03-15": 14449,
-  "2023-03-16": 14449,
-  "2023-03-17": 14449,
-  "2023-03-18": 14476,
-  "2023-03-19": 14476,
-  "2023-03-20": 14502,
-  "2023-03-21": 14517,
-  "2023-03-22": 14521,
-  "2023-03-23": 14529,
-  "2023-03-24": 14529,
-  "2023-03-25": 14561,
-  "2023-03-26": 14583,
-  "2023-03-27": 14599,
-  "2023-03-28": 14617,
-  "2023-03-29": 14631,
-  "2023-03-30": 14650,
-  "2023-03-31": 14650,
-  "2023-04-01": 14659,
-  "2023-04-02": 14668,
-  "2023-04-03": 14679,
-  "2023-04-04": 14683,
-  "2023-04-05": 14698,
-  "2023-04-06": 14703,
-  "2023-04-07": 14712,
-  "2023-04-09": 14738,
-  "2023-04-10": 14746,
-  "2023-04-11": 14767,
-  "2023-04-12": 14767,
-  "2023-04-13": 14787,
-  "2023-04-14": 14803,
-  "2023-04-15": 14813,
-  "2023-04-16": 14833,
-  "2023-04-17": 14836,
-  "2023-04-18": 14852,
-  "2023-04-19": 14858,
-  "2023-04-20": 14858,
-  "2023-04-21": 14876,
-  "2023-04-22": 14889,
-  "2023-04-23": 14902,
-  "2023-04-24": 14915,
-  "2023-04-25": 14930,
-  "2023-04-26": 14951,
-  "2023-04-27": 14958,
-  "2023-04-28": 14972,
-  "2023-04-29": 14984,
-  "2023-04-30": 14990,
-  "2023-05-01": 14997,
-  "2023-05-02": 15010,
-  "2023-05-03": 15025,
-  "2023-05-04": 15036,
-  "2023-05-05": 15044,
-  "2023-05-06": 15048,
-  "2023-05-07": 15053,
-  "2023-05-08": 15058,
-  "2023-05-09": 15068,
-  "2023-05-10": 15082,
-  "2023-05-11": 15094,
-  "2023-05-12": 15109,
-  "2023-05-13": 15122,
-  "2023-05-14": 15121,
-  "2023-05-15": 15133,
-  "2023-05-16": 15147,
-  "2023-05-17": 15165,
-  "2023-05-18": 15171,
-  "2023-05-19": 15178,
-  "2023-05-20": 15198,
-  "2023-05-21": 15198,
-  "2023-05-22": 15198,
-  "2023-05-23": 15221,
-  "2023-05-24": 15231,
-  "2023-05-25": 15232,
-  "2023-05-26": 15245,
-  "2023-05-27": 15252,
-  "2023-05-28": 15263,
-  "2023-05-29": 15263,
-  "2023-05-30": 15273,
-  "2023-05-31": 15282,
-  "2023-06-01": 15291,
-  "2023-06-02": 15304,
-  "2023-06-03": 15314,
-  "2023-06-04": 15323,
-  "2023-06-05": 15329,
-  "2023-06-06": 15344,
-  "2023-06-07": 15351,
-  "2023-06-08": 15361,
-  "2023-06-09": 15371,
-  "2023-06-10": 15388,
-  "2023-06-11": 15403,
-  "2023-06-12": 15407,
-  "2023-06-13": 15417,
-  "2023-06-14": 15428,
-  "2023-06-15": 15439,
-  "2023-06-16": 15449,
-  "2023-06-17": 15459,
-  "2023-06-18": 15470,
-  "2023-06-19": 15481,
-  "2023-06-20": 15490,
-  "2023-06-21": 15503,
-  "2023-06-22": 15510,
-  "2023-06-23": 15515,
-  "2023-06-24": 15523,
-  "2023-06-25": 15538,
-  "2023-06-26": 15542,
-  "2023-06-27": 15538,
-  "2023-06-28": 15553,
-  "2023-06-29": 15562,
-  "2023-06-30": 15573,
-  "2023-07-01": 15578,
-  "2023-07-02": 15578,
-  "2023-07-03": 15580,
-  "2023-07-04": 15587,
-  "2023-07-05": 15596,
-  "2023-07-06": 15606,
-  "2023-07-07": 15606,
-  "2023-07-08": 15606,
-  "2023-07-09": 15612,
-  "2023-07-10": 15620,
-  "2023-07-11": 15639,
-  "2023-07-12": 15646,
-  "2023-07-13": 15658,
-  "2023-07-14": 15663,
-  "2023-07-15": 15669,
-  "2023-07-16": 15680,
-  "2023-07-17": 15684,
-  "2023-07-18": 15690,
-  "2023-07-19": 15701,
-  "2023-07-20": 15701,
-  "2023-07-21": 15711,
-  "2023-07-22": 15718,
-  "2023-07-23": 15727,
-  "2023-07-24": 15740,
-  "2023-07-25": 15747,
-  "2023-07-26": 15761,
-  "2023-07-27": 15773,
-  "2023-07-28": 15773,
-  "2023-07-29": 15783,
-  "2023-07-30": 15783,
-  "2023-07-31": 15795,
-  "2023-08-01": 15806,
-  "2023-08-02": 15817,
-  "2023-08-03": 15823,
-  "2023-08-04": 15833,
-  "2023-08-05": 15848,
-  "2023-08-06": 15859,
-  "2023-08-07": 15859,
-  "2023-08-08": 15868,
-  "2023-08-09": 15881,
-  "2023-08-10": 15890,
-  "2023-08-11": 15902,
-  "2023-08-12": 15902,
-  "2023-08-13": 15902,
-  "2023-08-14": 15902,
-  "2023-08-15": 15902,
-  "2023-08-16": 15902,
-  "2023-08-17": 15902,
-  "2023-08-18": 15902,
-  "2023-08-19": 15902,
-  "2023-08-20": 15969,
-  "2023-08-21": 15969,
-  "2023-08-22": 15985,
-  "2023-08-23": 15985,
-  "2023-08-24": 15985,
-  "2023-08-25": 15985,
-  "2023-08-26": 16013,
-  "2023-08-27": 16013,
-  "2023-08-28": 16029,
-  "2023-08-29": 16029,
-  "2023-08-30": 16029,
-  "2023-08-31": 16050,
-  "2023-09-01": 16059,
-  "2023-09-02": 16059,
-  "2023-09-03": 16059,
-  "2023-09-04": 16059,
-  "2023-09-05": 16059,
-  "2023-09-06": 16059,
-  "2023-09-07": 16059,
-  "2023-09-08": 16059,
-  "2023-09-09": 16059,
-  "2023-09-10": 16059,
-  "2023-09-11": 16059,
-  "2023-09-12": 16059,
-  "2023-09-13": 16059,
-  "2023-09-14": 16059,
-  "2023-09-15": 16059,
-  "2023-09-16": 16059,
-  "2023-09-17": 16059,
-  "2023-09-18": 16059,
-  "2023-09-19": 16059,
-  "2023-09-20": 16059,
-  "2023-09-21": 16059,
-  "2023-09-22": 16209,
-  "2023-09-23": 16209,
-  "2023-09-24": 16209,
-  "2023-09-25": 16209,
-  "2023-09-26": 16221,
-  "2023-09-27": 16221,
-  "2023-09-28": 16221,
-  "2023-09-29": 16221,
-  "2023-09-30": 16221,
-  "2023-10-01": 16221,
-  "2023-10-02": 16221,
-  "2023-10-03": 16221,
-  "2023-10-04": 16221,
-  "2023-10-05": 16221,
-  "2023-10-06": 16221,
-  "2023-10-07": 16221,
-  "2023-10-08": 16221,
-  "2023-10-09": 16221,
-  "2023-10-10": 16221,
-  "2023-10-11": 16221,
-  "2023-10-12": 16221,
-  "2023-10-13": 16221,
-  "2023-10-14": 16221,
-  "2023-10-15": 16221,
-  "2023-10-16": 16221,
-  "2023-10-17": 16221,
-  "2023-10-18": 16221,
-  "2023-10-19": 16221,
-  "2023-10-20": 16221,
-  "2023-10-21": 16221,
-  "2023-10-22": 16221,
-  "2023-10-23": 16221,
-  "2023-10-24": 16221,
-  "2023-10-25": 16221,
-  "2023-10-26": 16221,
-  "2023-10-27": 16221,
-  "2023-10-28": 16221,
-  "2023-10-29": 16221,
-  "2023-10-30": 16221,
-  "2023-10-31": 16221,
-  "2023-11-01": 16221,
-  "2023-11-02": 16221,
-  "2023-11-03": 16221,
-  "2023-11-04": 16221,
-  "2023-11-05": 16221,
-  "2023-11-06": 16221,
-  "2023-11-07": 16221,
-  "2023-11-08": 16221,
-  "2023-11-09": 16221,
-  "2023-11-10": 16221,
-  "2023-11-11": 16417,
-  "2023-11-12": 16417,
-  "2023-11-13": 16417,
-  "2023-11-14": 16417,
-  "2023-11-15": 16417,
-  "2023-11-16": 16417,
-  "2023-11-17": 16417,
-  "2023-11-18": 16417,
-  "2023-11-19": 16417,
-  "2023-11-20": 16417,
-  "2023-11-21": 16417,
-  "2023-11-22": 16417,
-  "2023-11-23": 16417,
-  "2023-11-24": 16417,
-  "2023-11-25": 16417,
-  "2023-11-26": 16417,
-  "2023-11-27": 16417,
-  "2023-11-28": 16417,
-  "2023-11-29": 16417,
-  "2023-11-30": 16417,
-  "2023-12-01": 16417,
-  "2023-12-02": 16417,
-  "2023-12-03": 16417,
-  "2023-12-04": 16417,
-  "2023-12-05": 16417,
-  "2023-12-06": 16417,
-  "2023-12-07": 16417,
-  "2023-12-08": 16417,
-  "2023-12-09": 16417,
-  "2023-12-10": 16417,
-  "2023-12-11": 16417,
-  "2023-12-12": 16417,
-  "2023-12-13": 16417,
-  "2023-12-14": 16515,
-  "2023-12-15": 16513,
-  "2023-12-16": 16509,
-  "2023-12-17": 16510,
-  "2023-12-18": 16510,
-  "2023-12-19": 16511,
-  "2023-12-20": 16513,
-  "2023-12-21": 16514,
-  "2023-12-22": 16521,
-  "2023-12-23": 16522,
-  "2023-12-24": 16528,
-  "2023-12-25": 16526,
-  "2023-12-26": 16533,
-  "2023-12-27": 16542,
-  "2023-12-30": 16556,
-  "2023-12-31": 16552,
-  "2024-01-01": 16550,
-  "2024-01-02": 16550,
-  "2024-01-03": 16553
+  "2024-01-17": 16614,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is CHiCO with HoneyWorks. The essential tracks, all in one playlist.",
+  "name": "This Is CHiCO with HoneyWorks",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 321733,
+      "name": "11\u6708\u306e\u96e8",
+      "url": "https://open.spotify.com/track/1yWV04HUCesq5NbuhYkRwA"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 321733,
+      "name": "11\u6708\u306e\u96e8",
+      "url": "https://open.spotify.com/track/3yhP6kOdhZL3ZY7vr8nsGu"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302706,
+      "name": "BGM",
+      "url": "https://open.spotify.com/track/2X3dXxQ0Bj4bAIE9oDVAJr"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 302706,
+      "name": "BGM",
+      "url": "https://open.spotify.com/track/6sGx2nUtdDfQcUJBHc53x5"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 302040,
+      "name": "BGM -Instrumental-",
+      "url": "https://open.spotify.com/track/0czSVq9GkW0rcghTgLaeDs"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 302040,
+      "name": "BGM -Instrumental-",
+      "url": "https://open.spotify.com/track/5jMEIZnC22U6R60MZxYrjO"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 238386,
+      "name": "color",
+      "url": "https://open.spotify.com/track/3eX9HeooG4QazbheKKDAwv"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "color",
+      "url": "https://open.spotify.com/track/7LTRBxH7yCV7fmkb7oDFRM"
+    },
+    {
+      "album": {
+        "name": "Sekaiwa Koi Ni Ochiteiru",
+        "url": "https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 238680,
+      "name": "color Instrumental",
+      "url": "https://open.spotify.com/track/380WYm2ZgtDbO8FIGlWu9E"
+    },
+    {
+      "album": {
+        "name": "LOVE FIGHT",
+        "url": "https://open.spotify.com/album/0uZAUiU2010CN2rBWL4Y6X"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236293,
+      "name": "LOVE FIGHT",
+      "url": "https://open.spotify.com/track/0IP24AsXkRicQbRt5HGA8Z"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 307746,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/4IgoBpQVEp9bwS1pxkZEpO"
+    },
+    {
+      "album": {
+        "name": "Sekaiha koini ochiteiru from the first take",
+        "url": "https://open.spotify.com/album/3J5lcooEzYJFeC9e31F0NG"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 350106,
+      "name": "Sekaiha koini ochiteiru from the first take",
+      "url": "https://open.spotify.com/track/3KgtqaRk7Jov0MR5punNlZ"
+    },
+    {
+      "album": {
+        "name": "Shiawase from the first take",
+        "url": "https://open.spotify.com/album/4sJyfN9kp10vGDanL6myaN"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 249826,
+      "name": "Shiawase from the first take",
+      "url": "https://open.spotify.com/track/3aXBwWaLJdVLrNrHlKQd1s"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234520,
+      "name": "\u3042\u306a\u305f\u306f\u604b\u3092\u3057\u3066\u306a\u3044",
+      "url": "https://open.spotify.com/track/4rp3HCeKTq2FI2IOjTsH1V"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224453,
+      "name": "\u304d\u3063\u3068\u5225\u308c\u308b\u3088",
+      "url": "https://open.spotify.com/track/5x9XCM92S3G3U8CD1dKiA7"
+    },
+    {
+      "album": {
+        "name": "\u604b\u8272\u306b\u54b2\u3051",
+        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "sana",
+          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252160,
+      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5KVyLT4jZZ2JQXwyEfzIKq"
+    },
+    {
+      "album": {
+        "name": "\u604b\u8272\u306b\u54b2\u3051",
+        "url": "https://open.spotify.com/album/1qWaa3f4gixmVJS1JTU38z"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "sana",
+          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 250786,
+      "name": "\u3053\u308c\u9752\u6625\u30a2\u30f3\u30c0\u30fc\u30b9\u30bf\u30f3\u30c9 instrumental",
+      "url": "https://open.spotify.com/track/1KppStlH5OLkYrL8zlVNZS"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 (Special Edition)",
+        "url": "https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 200200,
+      "name": "\u305d\u308c\u3044\u3051!\u30b5\u30e9\u30ea\u30fc\u30de\u30f3",
+      "url": "https://open.spotify.com/track/2AnxFMRppg8KopG7MUkeje"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 258200,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa",
+      "url": "https://open.spotify.com/track/3EfNDAXf9D16g7fv2aRkrs"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259733,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa",
+      "url": "https://open.spotify.com/track/6eltM9Os3VEdgcG5lrsoSH"
+    },
+    {
+      "album": {
+        "name": "Aino Scenario",
+        "url": "https://open.spotify.com/album/0O1W5C0R3TMbYOnrNRY01E"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 258906,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa Instrumental",
+      "url": "https://open.spotify.com/track/4fAeZBUhzzUdxVmGAH6f0y"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa",
+        "url": "https://open.spotify.com/album/4c76Zl9YD1wGCPReSdhucr"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 258906,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa Instrumental",
+      "url": "https://open.spotify.com/track/5wDi6tlwi1sNCJgnd9i50r"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
+        "url": "https://open.spotify.com/album/7FLJSAtkxRX1jMy85Z2v9U"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90333,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size",
+      "url": "https://open.spotify.com/track/0YrVb49QPa6sGimAxP2ZDg"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size -1\u520630\u79d2-",
+        "url": "https://open.spotify.com/album/7FLAOIxxjeXZ9WtLqO7O44"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 90333,
+      "name": "\u30a2\u30a4\u306e\u30b7\u30ca\u30ea\u30aa TV size -1\u520630\u79d2-",
+      "url": "https://open.spotify.com/track/6ELxmJqF8Wfuo6SVYiMwYl"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 301893,
+      "name": "\u30a4\u30ce\u30b3\u30ea\u5148\u751f",
+      "url": "https://open.spotify.com/track/3OD8RZwpAi0MIsqvWYC9lf"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231440,
+      "name": "\u30a6\u30eb\u30d5",
+      "url": "https://open.spotify.com/track/1bLD37KCQnlk0IlAr4gEnz"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 231440,
+      "name": "\u30a6\u30eb\u30d5",
+      "url": "https://open.spotify.com/track/6uqotCPKOdATeDLtprU30U"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30cc\u30ec\u3068\u30a6\u30eb\u30d5",
+        "url": "https://open.spotify.com/album/2o1EjieggZ9VGamcRueZWT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 229786,
+      "name": "\u30a6\u30eb\u30d5 -instrumental-",
+      "url": "https://open.spotify.com/track/0Nlj7jMEmqFdgPpf5t4FHz"
+    },
+    {
+      "album": {
+        "name": "Canele & Wolf",
+        "url": "https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 229786,
+      "name": "\u30a6\u30eb\u30d5 -instrumental-",
+      "url": "https://open.spotify.com/track/4FeujcOuckire7sQ5vgnvb"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "\u30ab\u30cc\u30ec",
+      "url": "https://open.spotify.com/track/0xdYMLOVH0DPNNg1zPofzO"
+    },
+    {
+      "album": {
+        "name": "\u30ab\u30cc\u30ec\u3068\u30a6\u30eb\u30d5",
+        "url": "https://open.spotify.com/album/1MKifVPdcTTatXTfEiXlj9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 249133,
+      "name": "\u30ab\u30cc\u30ec",
+      "url": "https://open.spotify.com/track/595anRMEdepv0I3YG8FNVK"
+    },
+    {
+      "album": {
+        "name": "Canele & Wolf",
+        "url": "https://open.spotify.com/album/4ww27FAZJciiuIBlTou7R2"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 249146,
+      "name": "\u30ab\u30cc\u30ec -instrumental-",
+      "url": "https://open.spotify.com/track/3mGodRpESvLTpOMgnG6Pv7"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 231466,
+      "name": "\u30ad\u30e9\u30e9",
+      "url": "https://open.spotify.com/track/3KQX9qvO7tkQ0ItWj1BifL"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "Skypeace",
+          "url": "https://open.spotify.com/artist/67B3zxnhGAjiz0OVdPidXk"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 245773,
+      "name": "\u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/02z7UCeHtpV17KwmgbytuE"
+    },
+    {
+      "album": {
+        "name": "Mr. Darling / Gimme Gimme Call",
+        "url": "https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 244146,
+      "name": "\u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb -instrumental-",
+      "url": "https://open.spotify.com/track/5P3KSs41DJmlXUxBeqE1ql"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 / \u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb (Complete Edition)",
+        "url": "https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 244146,
+      "name": "\u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb -instrumental-",
+      "url": "https://open.spotify.com/track/5PQG6VsDpAjUk0BvkZDt0O"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+        "url": "https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289000,
+      "name": "\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/3hgxa6MGGjpQ8VQ7kbPHk2"
+    },
+    {
+      "album": {
+        "name": "Hikari Shoumeiron",
+        "url": "https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 289000,
+      "name": "\u30b5\u30a4\u30c0\u30fc",
+      "url": "https://open.spotify.com/track/45SqoW2LLQ1mMy8aSlFtsK"
+    },
+    {
+      "album": {
+        "name": "Hikari Shoumeiron",
+        "url": "https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 287146,
+      "name": "\u30b5\u30a4\u30c0\u30fc -instrumental-",
+      "url": "https://open.spotify.com/track/1tW7dvuATQY7PiZ5qnydih"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+        "url": "https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 287146,
+      "name": "\u30b5\u30a4\u30c0\u30fc -instrumental-",
+      "url": "https://open.spotify.com/track/5rq97nPdq1Dc2AAVqXM459"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "\u304b\u308c\u3093",
+          "url": "https://open.spotify.com/artist/3SHFrjra4uF23M9HHNo5p6"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 206786,
+      "name": "\u30b7\u30e5\u30a6\u30de\u30c4Worker",
+      "url": "https://open.spotify.com/track/7AxHu3GnrOOVBhG9L0NcNR"
+    },
+    {
+      "album": {
+        "name": "\u5192\u967a\u306eVLOG",
+        "url": "https://open.spotify.com/album/1mCByfIZcBllKkPmG11r3h"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-06",
+      "duration_ms": 257186,
+      "name": "\u30b9\u30fc\u30cf\u309a\u30fc\u30a2\u30a4\u30c8\u3099\u30eb(\u7b11)",
+      "url": "https://open.spotify.com/track/4qbHYNkIDsOeYvJL9oBH8P"
+    },
+    {
+      "album": {
+        "name": "i\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 254680,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a2\u30a4\u30c9\u30eb(\u7b11)",
+      "url": "https://open.spotify.com/track/6pU09WpP6VxX8mPYd3hxo1"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 237706,
+      "name": "\u30c4\u30a4\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/03NKMpabqVFe6hy5UUcs5j"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 237706,
+      "name": "\u30c4\u30a4\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/6fYZ2UNLothZLHd8B1zfrS"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/5mwLIUyGIg6QioPbyHgt2s"
+    },
+    {
+      "album": {
+        "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb \u3010TVsize\u3011",
+        "url": "https://open.spotify.com/album/5yBSeYrYn3NPpMebZ4GanO"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 90000,
+      "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb \u3010TVsize\u3011",
+      "url": "https://open.spotify.com/track/53HiUwUvy5qmTFngDhCZre"
+    },
+    {
+      "album": {
+        "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb \u3010TVsize\u3011",
+        "url": "https://open.spotify.com/album/15DJ4J10gLGb4eELHikgB1"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb \u3010TVsize\u3011",
+      "url": "https://open.spotify.com/track/5hlg8974tilNuXIrwWiVKH"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243480,
+      "name": "\u30cf\u30f3\u30b3\u30a6\u4e88\u544a",
+      "url": "https://open.spotify.com/track/68xypX5iyrFelZyqqS5piG"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 231133,
+      "name": "\u30cf\u30fc\u30c8\u306e\u4e3b\u5f35",
+      "url": "https://open.spotify.com/track/04aVPNpvEbQpXY9lefOPue"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "\u30cf\u30fc\u30c8\u306e\u4e3b\u5f35",
+      "url": "https://open.spotify.com/track/5McUO0NAKaKWO22oeZgTZQ"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+        "url": "https://open.spotify.com/album/0puyuSS9cNoaeDUCOk4VzT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/11DHLEGv0kjv4KmqhrXK5w"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "\u30cf\u30fc\u30c8\u306e\u8a93\u3044",
+      "url": "https://open.spotify.com/track/2BzZV7zxQKHrfVebawH2NX"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273773,
+      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+      "url": "https://open.spotify.com/track/2NSUuwplYLm50NDAb5qJQS"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+        "url": "https://open.spotify.com/album/4azNHlJaZPkLnE0rU7kzBb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 274440,
+      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+      "url": "https://open.spotify.com/track/1Y0pOmk3SgJuw3SeC7MoO7"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6",
+        "url": "https://open.spotify.com/album/75ffnBvgLbwr4WKiHWMPul"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 274440,
+      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6 -instrumental-",
+      "url": "https://open.spotify.com/track/2Co9ArGiEfgN1p5gihaHFK"
+    },
+    {
+      "album": {
+        "name": "Hikari Shoumeiron",
+        "url": "https://open.spotify.com/album/52aBTjeaLXHx4yjsKbeRV8"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 274440,
+      "name": "\u30d2\u30ab\u30ea\u8a3c\u660e\u8ad6 -instrumental-",
+      "url": "https://open.spotify.com/track/64W7D99GOSoZIvbBKgHO5B"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+        "url": "https://open.spotify.com/album/6I2PYDBXF1GpzXZeagvFo8"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209133,
+      "name": "\u30d2\u30b9\u30c8\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/0nzaNIkYGdZ8zI97ZT1Q1u"
+    },
+    {
+      "album": {
+        "name": "Pride Kakumei",
+        "url": "https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 209133,
+      "name": "\u30d2\u30b9\u30c8\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/5dfnkSHzf1IHPD3AdJXJOE"
+    },
+    {
+      "album": {
+        "name": "Pride Kakumei",
+        "url": "https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 205653,
+      "name": "\u30d2\u30b9\u30c8\u30ea\u30a2 Instrumental",
+      "url": "https://open.spotify.com/track/5dv666S8oaPeeeJQrKk7EZ"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30df\u30c4\u604b\u30b4\u30b3\u30ed",
+        "url": "https://open.spotify.com/album/0UdGs7830iYt9ExWdeThiI"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "\u30d2\u30df\u30c4\u604b\u30b4\u30b3\u30ed",
+      "url": "https://open.spotify.com/track/532a4qwtCf56E6qjiAn2EE"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220200,
+      "name": "\u30d2\u30ed\u30a4\u30f3\u80b2\u6210\u8a08\u753b",
+      "url": "https://open.spotify.com/track/4ull1xmD0JWXKdlgYSfpOj"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6",
+        "url": "https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "Mafumafu",
+          "url": "https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6",
+      "url": "https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb"
+    },
+    {
+      "album": {
+        "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 (Special Edition)",
+        "url": "https://open.spotify.com/album/48gJDdBvItXEF7HtZcIjvU"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234360,
+      "name": "\u30d3\u30d3\u3063\u3068\u30e9\u30d6 -CHiCO \u307c\u3063\u3061 ver.-",
+      "url": "https://open.spotify.com/track/2m81ZTXEOshoGwJakzaq4Y"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 233266,
+      "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+      "url": "https://open.spotify.com/track/7uD3cE6aiSFKdJO30k2vbZ"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 235586,
+      "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+      "url": "https://open.spotify.com/track/02me5PrRaF8baUbyiJ0bv7"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235586,
+      "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d",
+      "url": "https://open.spotify.com/track/3CrLoLfSwNqZGbSDupVUdu"
+    },
+    {
+      "album": {
+        "name": "Pride Kakumei",
+        "url": "https://open.spotify.com/album/7yEjBXz8ELSQWvLDMkYkpi"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 235346,
+      "name": "\u30d7\u30e9\u30a4\u30c9\u9769\u547d Instrumental",
+      "url": "https://open.spotify.com/track/6YzN95dgCbvaprFcvVT6ht"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 255200,
+      "name": "\u30db\u30fc\u30ea\u30fc\u30d5\u30e9\u30c3\u30b0",
+      "url": "https://open.spotify.com/track/549mKW3S35WULzwlv3Cojx"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "Shoko Nakagawa",
+          "url": "https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/4fTpi0cXVxpXRAv1i38Lug"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 / \u30ae\u30df\u30ae\u30df\u30b3\u30fc\u30eb (Complete Edition)",
+        "url": "https://open.spotify.com/album/5AIDbavUjnXZPQk4VZ6AeL"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 245266,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 -instrumental-",
+      "url": "https://open.spotify.com/track/27httj6e8VdyVimcMSTLZn"
+    },
+    {
+      "album": {
+        "name": "Mr. Darling / Gimme Gimme Call",
+        "url": "https://open.spotify.com/album/1aJREXm4uAyH7tXE0BYkCe"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 245266,
+      "name": "\u30df\u30b9\u30bf\u30fc\u30fb\u30c0\u30fc\u30ea\u30f3 -instrumental-",
+      "url": "https://open.spotify.com/track/4g91mKBes0fvwogkEuPOx0"
+    },
+    {
+      "album": {
+        "name": "Nostalgic Rainfall",
+        "url": "https://open.spotify.com/album/0QpbVRBPVn89jFRMSoXAJx"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 175186,
+      "name": "\u30e9\u30b9\u3099\u30d8\u3099\u30ea\u30fc*\u30e2\u30f3\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6SWKum6nA51oLqGuyphmVX"
+    },
+    {
+      "album": {
+        "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/4PV8u7OxMEUJqFA1lFvNh7"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175186,
+      "name": "\u30e9\u30ba\u30d9\u30ea\u30fc\uff0a\u30e2\u30f3\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/19oCEhJcUnJjFWnJ8tAnvL"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 221773,
+      "name": "\u30e9\u30d6\u30db\u30a4\u30c3\u30b9\u30eb",
+      "url": "https://open.spotify.com/track/1d0Drv3qKZWEZiUhh563HC"
+    },
+    {
+      "album": {
+        "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/1DuJRT4zz1X8YmywZJPFqX"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 197440,
+      "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/2zx260L01kpMk01XFjnfwd"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197440,
+      "name": "\u30ea\u30d9\u30f3\u30b8\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/3Ja6w6E7PvMzvJajdu3tM5"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u65e5\u3082\u30b5\u30af\u30e9\u821e\u3046\u6681\u306b",
+        "url": "https://open.spotify.com/album/12JuBA89662EPQLXiNF6KV"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "sana",
+          "url": "https://open.spotify.com/artist/3Wg732iXXGxhxxjwmhCAkT"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226320,
+      "name": "\u30ed\u30c7\u30aa",
+      "url": "https://open.spotify.com/track/55KyPEBJs1Pz20r3U8DHyX"
+    },
+    {
+      "album": {
+        "name": "\uff49\u306f\u81ea\u7531\u3067\u3001\u7e1b\u308c\u306a\u3044\u3002",
+        "url": "https://open.spotify.com/album/4yF59YniNUs8m4iGk3yXms"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "\u30ed\u30dc\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/0GBu9RCqUCL8k21OwRkSE1"
+    },
+    {
+      "album": {
+        "name": "\u30d2\u30df\u30c4\u604b\u30b4\u30b3\u30ed",
+        "url": "https://open.spotify.com/album/4nnCBcpxTtsc9GQKxQSBxL"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 227786,
+      "name": "\u30ed\u30dc\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/7mAwHR99hdvTChq7V9Uxdd"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306bi\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 262013,
+      "name": "\u30ef\u30bf\u30b7\u30ce\u30c6\u30f3\u30b7",
+      "url": "https://open.spotify.com/track/0oJkuurPe6RqlCYnsawcIm"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 311720,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/2gjS4IldZTcJOntzMW6oh8"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312826,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b",
+      "url": "https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5"
+    },
+    {
+      "album": {
+        "name": "Sekaiwa Koi Ni Ochiteiru",
+        "url": "https://open.spotify.com/album/1PF9h1FZKKZpFZaKxD3HBh"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 311306,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b Instrumental",
+      "url": "https://open.spotify.com/track/4CuU0Uh2snNXQSmrnC1IPv"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV\u30b5\u30a4\u30baver.",
+        "url": "https://open.spotify.com/album/5LoYqCcX0EJGYlKXzqIVAe"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 92575,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV size",
+      "url": "https://open.spotify.com/track/1aHBms5oIswVJKHI29Wl8J"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV\u30b5\u30a4\u30baver.",
+        "url": "https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 92575,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV size Instrumental",
+      "url": "https://open.spotify.com/track/6GXvMEsyk4JFJV84v2MzHp"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV\u30b5\u30a4\u30baver.",
+        "url": "https://open.spotify.com/album/5LoYqCcX0EJGYlKXzqIVAe"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 92575,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV size Instrumental",
+      "url": "https://open.spotify.com/track/7HumtM8md3Npksr8FY1Qe3"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b TV\u30b5\u30a4\u30baver.",
+        "url": "https://open.spotify.com/album/0k8j4qQzHC8wjSwVt1T1xC"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92575,
+      "name": "\u4e16\u754c\u306f\u604b\u306b\u843d\u3061\u3066\u3044\u308b\u3000TV size",
+      "url": "https://open.spotify.com/track/7e1N6MUiZhwlqmaRUfmEmk"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
+      "url": "https://open.spotify.com/track/2ZZx0Pss7zgl9XRIMax5IL"
+    },
+    {
+      "album": {
+        "name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
+        "url": "https://open.spotify.com/album/4XGW9c5LIcnUAN0m1XcUio"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 253946,
+      "name": "\u4e59\u5973\u3069\u3082\u3088\u3002",
+      "url": "https://open.spotify.com/track/3VNkBDBVZVx9h1e9eev7yH"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 255840,
+      "name": "\u4eca\u65e5\u3082\u30b5\u30af\u30e9\u821e\u3046\u6681\u306b",
+      "url": "https://open.spotify.com/track/4jGWtj6EaWt7n0zBwaPzcB"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255840,
+      "name": "\u4eca\u65e5\u3082\u30b5\u30af\u30e9\u821e\u3046\u6681\u306b",
+      "url": "https://open.spotify.com/track/50m9OQ3M9AEdJAoTHGWdVt"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 255840,
+      "name": "\u4eca\u65e5\u3082\u30b5\u30af\u30e9\u821e\u3046\u6681\u306b",
+      "url": "https://open.spotify.com/track/7BB9jAA7JkX6oLaSioKvX4"
+    },
+    {
+      "album": {
+        "name": "\u5192\u967a\u306eVLOG",
+        "url": "https://open.spotify.com/album/6GptwTcu5mCv9YkfXpJZVs"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262693,
+      "name": "\u5192\u967a\u306eVLOG",
+      "url": "https://open.spotify.com/track/6KtkYlgZoBno6Ai894zfSD"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 255480,
+      "name": "\u53ef\u611b\u304f\u306a\u308a\u305f\u3044",
+      "url": "https://open.spotify.com/track/1XA0rFBVY3VouEigL2a5b1"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85",
+        "url": "https://open.spotify.com/album/2lu8FueFpDKE5LtQ00aE8c"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 195600,
+      "name": "\u5927\u4eba\u306b\u306a\u3063\u305f\u306d",
+      "url": "https://open.spotify.com/track/0u2Y4PQ5hTZuQ3m5Qd2FIm"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 266653,
+      "name": "\u5e73\u6210\u30d0\u30d6\u30eb",
+      "url": "https://open.spotify.com/track/3LheFUWRTy87Maqck4vWNW"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250360,
+      "name": "\u5e78\u305b\u3002",
+      "url": "https://open.spotify.com/track/381po4CEVjsj92eHwQK8oI"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306fi\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/6eyndpBwWu0k0W3NBhSPfZ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 282533,
+      "name": "\u604b\u306e\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/2L3z8aBjWz4Diuf1grb9YL"
+    },
+    {
+      "album": {
+        "name": "\u4e16\u754c\u306f\uff49\u306b\u6e80\u3061\u3066\u3044\u308b",
+        "url": "https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282533,
+      "name": "\u604b\u306e\u30b3\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/41DwwsezbdbyXoqq9KK5k5"
+    },
+    {
+      "album": {
+        "name": "Otomedomoyo",
+        "url": "https://open.spotify.com/album/2kRnKyQ0Mm0jYSqyqFyvmU"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 278813,
+      "name": "\u604b\u4eba\u30c4\u30ca\u30ae",
+      "url": "https://open.spotify.com/track/6C1hGluh7veOo0kRQ4rr9K"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 246040,
+      "name": "\u604b\u8272\u306b\u54b2\u3051",
+      "url": "https://open.spotify.com/track/2oXh1HaGwNCZaT6usnTif0"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246040,
+      "name": "\u604b\u8272\u306b\u54b2\u3051",
+      "url": "https://open.spotify.com/track/43s0nzuQXAyddIMRnsoFY3"
+    },
+    {
+      "album": {
+        "name": "Koiironi Sake",
+        "url": "https://open.spotify.com/album/7AwTHl1TQxJOssGwRiTmqI"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 245693,
+      "name": "\u604b\u8272\u306b\u54b2\u3051 instrumental",
+      "url": "https://open.spotify.com/track/4oz0grcNFiZt3Ish4LtrWy"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85",
+        "url": "https://open.spotify.com/album/78IFr46G72yZkCKzU4HIKn"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 236626,
+      "name": "\u6211\u6b66\u8005\u7f85",
+      "url": "https://open.spotify.com/track/0L9JNPLUBrdshUMYzYQifY"
+    },
+    {
+      "album": {
+        "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
+        "url": "https://open.spotify.com/album/0oPcNJfKvuBkb9fpg5UMxc"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "\u6211\u6b66\u8005\u7f85 (TV size)",
+      "url": "https://open.spotify.com/track/2o6d0rAC9BAyPmgXnbXx1h"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d2\u309a\u30ea\u30c3\u30c8 (\u30a2\u30cb\u30e1size)",
+        "url": "https://open.spotify.com/album/41Yc8uHn1nWNMGw3gdCwMl"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 90000,
+      "name": "\u6c7a\u6226\u30b9\u30d2\u309a\u30ea\u30c3\u30c8 (\u30a2\u30cb\u30e1size)",
+      "url": "https://open.spotify.com/track/3WYRfyATNJnF1Gi9zzViiy"
+    },
+    {
+      "album": {
+        "name": "\u77ac\u304f\u4e16\u754c\u306b\uff49\u3092\u63fa\u3089\u305b",
+        "url": "https://open.spotify.com/album/2GBDADasYHm9Rho9U0fET9"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270306,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/1HHOkD7fuNCBnImFrlDRVi"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 272653,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/4DSSRuiWONPIvHJ3GxCECH"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 272653,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8-Instrumental-",
+      "url": "https://open.spotify.com/track/6EvDB9bKxddCjaTQ7kRtDP"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30fb\u30aa\u30fc\u30eb\u30b9\u30bf\u30fcMIX \"\u30d0\u30a4\u30d6\u30eb\" mixed by DJ\u548c",
+        "url": "https://open.spotify.com/album/0OKzncJhhkoB8lDgBXochL"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        },
+        {
+          "name": "DJ Kazu",
+          "url": "https://open.spotify.com/artist/1IOPs2IN12TMhz9TzBy1uI"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84240,
+      "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8\uff08BIBLE version\uff09 - Mixed",
+      "url": "https://open.spotify.com/track/3ku5B2Mo9cq66azFT2Mnua"
+    },
+    {
+      "album": {
+        "name": "Watashiwo Someru Aino Uta",
+        "url": "https://open.spotify.com/album/1yY3wlXZTzgqRVsxo06yuv"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 267173,
+      "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/4NQMAgIVoHsYURmYPzsRM9"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308b\uff49\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/6XOpMOa1OV7QsCeLN8dBnT"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267173,
+      "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/7HVJK5NcZTQGvWB1yWHyAB"
+    },
+    {
+      "album": {
+        "name": "\u79c1\u3092\u67d3\u3081\u308bi\u306e\u6b4c",
+        "url": "https://open.spotify.com/album/56h6iaj51zfHqPMF9tVmwg"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 267173,
+      "name": "\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/7bxdPnZ1FOjnhEdDkbHMhH"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3TBibsoN7MWyatpPM6ATjt"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295653,
+      "name": "\u80f8\u30ad\u30e5\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/1n2F8qXgUNMLgyWEghiSkD"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 295653,
+      "name": "\u80f8\u30ad\u30e5\u30f3\u30e9\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/3GFlv5161WZ6F2h8yf9tNU"
+    },
+    {
+      "album": {
+        "name": "\u6c7a\u6226\u30b9\u30d4\u30ea\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/4qriecwv26eu0kkzSAaObD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 294986,
+      "name": "\u80f8\u30ad\u30e5\u30f3\u30e9\u30a4\u30c8 -Instrumental-",
+      "url": "https://open.spotify.com/track/7Cb4IGEjTC85pxqSezdnO1"
+    },
+    {
+      "album": {
+        "name": "\u919c\u3044\u751f\u304d\u7269",
+        "url": "https://open.spotify.com/album/5aJfPshOdUKk5wRVFQyVSD"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220626,
+      "name": "\u919c\u3044\u751f\u304d\u7269",
+      "url": "https://open.spotify.com/track/4kv8V2Buw8oBOB2oP0gas1"
+    },
+    {
+      "album": {
+        "name": "Sekai Ha i Ni Michiteiru",
+        "url": "https://open.spotify.com/album/4NVH83ZZPdQpneveSpEIfb"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 335026,
+      "name": "\u96ea\u306e\u30ef\u30eb\u30c4",
+      "url": "https://open.spotify.com/track/3AmrLrSDrLFJ6wwZcpCPUJ"
+    },
+    {
+      "album": {
+        "name": "\u9b3c\u30ce\u68ee",
+        "url": "https://open.spotify.com/album/11KLezHDkMMTZejfjErhiQ"
+      },
+      "artists": [
+        {
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275640,
+      "name": "\u9b3c\u30ce\u68ee",
+      "url": "https://open.spotify.com/track/5bn8QRLruU48VU3an3MMNr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4oyOhG"
 }

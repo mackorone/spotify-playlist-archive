@@ -123,6 +123,28 @@
     },
     {
       "album": {
+        "name": "WLGS",
+        "url": "https://open.spotify.com/album/5JWyYQTyvhEeUj0xvHrPxh"
+      },
+      "artists": [
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Baby (with Lunay)",
+      "url": "https://open.spotify.com/track/2UXAWKnI5DLc2f9bPfAqTm"
+    },
+    {
+      "album": {
         "name": "Baby (with Lunay)",
         "url": "https://open.spotify.com/album/1PXkLwDz944cu3Orl7aQsE"
       },
@@ -138,7 +160,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 176250,
       "name": "Baby (with Lunay)",
       "url": "https://open.spotify.com/track/6M7gWN4WyOVJxvGDHaMV7E"
@@ -472,7 +494,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 151562,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"

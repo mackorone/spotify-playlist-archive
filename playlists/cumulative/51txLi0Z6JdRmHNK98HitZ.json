@@ -779,6 +779,24 @@
     },
     {
       "album": {
+        "name": "Terrible News",
+        "url": "https://open.spotify.com/album/70zACGm4dI32ax2vGKB37m"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Terrible News",
+      "url": "https://open.spotify.com/track/2uyO1FusmMcWZjb7vW1MUb"
+    },
+    {
+      "album": {
         "name": "Today We're The Greatest",
         "url": "https://open.spotify.com/album/3yxsWKZW1R1emQFfwvN2lL"
       },

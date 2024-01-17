@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 225978,
       "name": "ENVIDIA",
       "url": "https://open.spotify.com/track/05vtKZQr8tdZamjmC753dG"
@@ -1994,7 +1994,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 375360,
       "name": "Estrobos",
       "url": "https://open.spotify.com/track/0UujRqoJsE3kjokK9SHhiY"
@@ -2424,6 +2424,24 @@
       "duration_ms": 285500,
       "name": "Ilegal",
       "url": "https://open.spotify.com/track/0cTwOl6O8Vp9bcCqiXryum"
+    },
+    {
+      "album": {
+        "name": "Intraterreno",
+        "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
+      },
+      "artists": [
+        {
+          "name": "Mecal",
+          "url": "https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234428,
+      "name": "Intraterreno",
+      "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
     },
     {
       "album": {
@@ -3931,6 +3949,24 @@
     },
     {
       "album": {
+        "name": "No Cap - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130069,
+      "name": "No Cap - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+    },
+    {
+      "album": {
         "name": "No Eres Rapero",
         "url": "https://open.spotify.com/album/6OBEOXqY6rJLtarTzYoBIP"
       },
@@ -4650,12 +4686,12 @@
           "url": "https://open.spotify.com/artist/2pT1e0myb5i98HTpnLXX6A"
         },
         {
-          "name": "Radio Maco\u00f1a",
-          "url": "https://open.spotify.com/artist/6CCH23nnQAl2HgJQpsvJ3e"
-        },
-        {
           "name": "Jointer",
           "url": "https://open.spotify.com/artist/52A5MGEDcaaGX8sryGloEc"
+        },
+        {
+          "name": "Radio Maco\u00f1a",
+          "url": "https://open.spotify.com/artist/6CCH23nnQAl2HgJQpsvJ3e"
         },
         {
           "name": "IceOD",

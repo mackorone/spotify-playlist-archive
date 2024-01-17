@@ -1,731 +1,2349 @@
 {
-  "2021-12-29": 198890,
-  "2021-12-30": 198975,
-  "2021-12-31": 199045,
-  "2022-01-01": 199220,
-  "2022-01-02": 199240,
-  "2022-01-03": 199304,
-  "2022-01-04": 199386,
-  "2022-01-05": 199446,
-  "2022-01-06": 199534,
-  "2022-01-07": 199614,
-  "2022-01-08": 199793,
-  "2022-01-09": 199798,
-  "2022-01-10": 199891,
-  "2022-01-11": 199968,
-  "2022-01-12": 200056,
-  "2022-01-13": 200138,
-  "2022-01-14": 200242,
-  "2022-01-15": 200415,
-  "2022-01-16": 200424,
-  "2022-01-17": 200613,
-  "2022-01-18": 200632,
-  "2022-01-19": 200683,
-  "2022-01-20": 200766,
-  "2022-01-21": 200850,
-  "2022-01-22": 200930,
-  "2022-01-23": 201003,
-  "2022-01-24": 201077,
-  "2022-01-25": 201163,
-  "2022-01-26": 201241,
-  "2022-01-27": 201324,
-  "2022-01-28": 201432,
-  "2022-01-29": 201530,
-  "2022-01-30": 201642,
-  "2022-01-31": 201718,
-  "2022-02-01": 201799,
-  "2022-02-02": 201885,
-  "2022-02-03": 201976,
-  "2022-02-04": 202050,
-  "2022-02-05": 202155,
-  "2022-02-06": 202255,
-  "2022-02-07": 202341,
-  "2022-02-08": 202436,
-  "2022-02-09": 202512,
-  "2022-02-10": 202576,
-  "2022-02-11": 202670,
-  "2022-02-12": 202756,
-  "2022-02-13": 202856,
-  "2022-02-14": 202928,
-  "2022-02-15": 203018,
-  "2022-02-16": 203128,
-  "2022-02-17": 203235,
-  "2022-02-18": 203320,
-  "2022-02-19": 203426,
-  "2022-02-20": 203531,
-  "2022-02-21": 203617,
-  "2022-02-22": 203688,
-  "2022-02-23": 203756,
-  "2022-02-24": 203854,
-  "2022-02-25": 203937,
-  "2022-02-26": 204051,
-  "2022-02-27": 204233,
-  "2022-02-28": 204233,
-  "2022-03-01": 204323,
-  "2022-03-02": 204419,
-  "2022-03-03": 204549,
-  "2022-03-04": 204650,
-  "2022-03-05": 204751,
-  "2022-03-06": 204882,
-  "2022-03-07": 205001,
-  "2022-03-08": 205103,
-  "2022-03-09": 205184,
-  "2022-03-10": 205276,
-  "2022-03-11": 205405,
-  "2022-03-12": 205528,
-  "2022-03-13": 205644,
-  "2022-03-14": 205771,
-  "2022-03-15": 205867,
-  "2022-03-16": 205965,
-  "2022-03-17": 206052,
-  "2022-03-18": 206238,
-  "2022-03-19": 206323,
-  "2022-03-20": 206323,
-  "2022-03-21": 206502,
-  "2022-03-22": 206577,
-  "2022-03-23": 206666,
-  "2022-03-24": 206814,
-  "2022-03-25": 206914,
-  "2022-03-26": 207040,
-  "2022-03-27": 207148,
-  "2022-03-28": 207261,
-  "2022-03-30": 207466,
-  "2022-03-31": 207604,
-  "2022-04-01": 207703,
-  "2022-04-02": 207847,
-  "2022-04-03": 207974,
-  "2022-04-04": 208083,
-  "2022-04-05": 208181,
-  "2022-04-06": 208286,
-  "2022-04-07": 208385,
-  "2022-04-08": 208524,
-  "2022-04-09": 208681,
-  "2022-04-10": 208915,
-  "2022-04-11": 209023,
-  "2022-04-12": 209045,
-  "2022-04-13": 209150,
-  "2022-04-14": 209286,
-  "2022-04-15": 209397,
-  "2022-04-16": 209507,
-  "2022-04-17": 209615,
-  "2022-04-18": 209741,
-  "2022-04-19": 209820,
-  "2022-04-20": 209964,
-  "2022-04-21": 210056,
-  "2022-04-22": 210190,
-  "2022-04-23": 210303,
-  "2022-04-24": 210415,
-  "2022-04-25": 210519,
-  "2022-04-26": 210661,
-  "2022-04-27": 210801,
-  "2022-04-28": 210931,
-  "2022-04-29": 211160,
-  "2022-04-30": 211314,
-  "2022-05-01": 211449,
-  "2022-05-02": 211449,
-  "2022-05-03": 211569,
-  "2022-05-04": 211698,
-  "2022-05-05": 211812,
-  "2022-05-06": 211931,
-  "2022-05-07": 212063,
-  "2022-05-08": 212229,
-  "2022-05-09": 212249,
-  "2022-05-10": 212353,
-  "2022-05-11": 212448,
-  "2022-05-12": 212553,
-  "2022-05-13": 212651,
-  "2022-05-14": 212769,
-  "2022-05-15": 212870,
-  "2022-05-16": 212976,
-  "2022-05-17": 213059,
-  "2022-05-18": 213156,
-  "2022-05-19": 213271,
-  "2022-05-20": 213427,
-  "2022-05-21": 213639,
-  "2022-05-22": 213639,
-  "2022-05-23": 213719,
-  "2022-05-24": 213806,
-  "2022-05-25": 213925,
-  "2022-05-26": 214045,
-  "2022-05-27": 214155,
-  "2022-05-28": 214254,
-  "2022-05-29": 214349,
-  "2022-05-30": 214443,
-  "2022-05-31": 214539,
-  "2022-06-01": 214723,
-  "2022-06-02": 214739,
-  "2022-06-03": 214847,
-  "2022-06-04": 214959,
-  "2022-06-05": 215058,
-  "2022-06-06": 215158,
-  "2022-06-07": 215234,
-  "2022-06-08": 215336,
-  "2022-06-09": 215413,
-  "2022-06-10": 215520,
-  "2022-06-11": 215624,
-  "2022-06-12": 215713,
-  "2022-06-13": 215803,
-  "2022-06-14": 215908,
-  "2022-06-15": 216003,
-  "2022-06-16": 216091,
-  "2022-06-17": 216171,
-  "2022-06-18": 216253,
-  "2022-06-19": 216440,
-  "2022-06-20": 216440,
-  "2022-06-21": 216513,
-  "2022-06-22": 216673,
-  "2022-06-23": 216673,
-  "2022-06-24": 216771,
-  "2022-06-25": 216879,
-  "2022-06-26": 216972,
-  "2022-06-27": 217052,
-  "2022-06-28": 217159,
-  "2022-06-29": 217245,
-  "2022-06-30": 217343,
-  "2022-07-01": 217439,
-  "2022-07-02": 217530,
-  "2022-07-03": 217612,
-  "2022-07-04": 217710,
-  "2022-07-05": 217787,
-  "2022-07-06": 217787,
-  "2022-07-07": 217949,
-  "2022-07-08": 218036,
-  "2022-07-09": 218133,
-  "2022-07-10": 218227,
-  "2022-07-11": 218321,
-  "2022-07-12": 218410,
-  "2022-07-13": 218511,
-  "2022-07-14": 218621,
-  "2022-07-15": 218712,
-  "2022-07-16": 218807,
-  "2022-07-17": 218894,
-  "2022-07-18": 218979,
-  "2022-07-19": 219064,
-  "2022-07-20": 219157,
-  "2022-07-21": 219250,
-  "2022-07-22": 219371,
-  "2022-07-23": 219471,
-  "2022-07-24": 219583,
-  "2022-07-25": 219676,
-  "2022-07-26": 219763,
-  "2022-07-27": 219851,
-  "2022-07-28": 219958,
-  "2022-07-29": 220051,
-  "2022-07-30": 220252,
-  "2022-07-31": 220252,
-  "2022-08-01": 220345,
-  "2022-08-02": 220553,
-  "2022-08-03": 220553,
-  "2022-08-04": 220640,
-  "2022-08-05": 220734,
-  "2022-08-06": 220857,
-  "2022-08-07": 220979,
-  "2022-08-08": 221072,
-  "2022-08-09": 221140,
-  "2022-08-10": 221256,
-  "2022-08-11": 221372,
-  "2022-08-12": 221457,
-  "2022-08-13": 221554,
-  "2022-08-14": 221675,
-  "2022-08-15": 221781,
-  "2022-08-16": 221883,
-  "2022-08-17": 221973,
-  "2022-08-18": 222103,
-  "2022-08-19": 222202,
-  "2022-08-20": 222344,
-  "2022-08-21": 222470,
-  "2022-08-22": 222601,
-  "2022-08-23": 222741,
-  "2022-08-24": 222896,
-  "2022-08-25": 223072,
-  "2022-08-26": 223232,
-  "2022-08-27": 223398,
-  "2022-08-28": 223559,
-  "2022-08-29": 223713,
-  "2022-08-30": 223833,
-  "2022-08-31": 223916,
-  "2022-09-01": 224005,
-  "2022-09-02": 224086,
-  "2022-09-03": 224141,
-  "2022-09-04": 224252,
-  "2022-09-05": 224425,
-  "2022-09-06": 224586,
-  "2022-09-07": 224722,
-  "2022-09-09": 225007,
-  "2022-09-10": 225185,
-  "2022-09-11": 225351,
-  "2022-09-12": 225494,
-  "2022-09-13": 225643,
-  "2022-09-15": 225965,
-  "2022-09-16": 226126,
-  "2022-09-17": 226339,
-  "2022-09-18": 226532,
-  "2022-09-19": 226685,
-  "2022-09-20": 226809,
-  "2022-09-21": 226947,
-  "2022-09-22": 227158,
-  "2022-09-23": 227346,
-  "2022-09-24": 227550,
-  "2022-09-25": 227689,
-  "2022-09-26": 227837,
-  "2022-09-27": 227986,
-  "2022-09-28": 228141,
-  "2022-09-29": 228319,
-  "2022-09-30": 228509,
-  "2022-10-01": 228691,
-  "2022-10-02": 228862,
-  "2022-10-03": 229038,
-  "2022-10-04": 229197,
-  "2022-10-05": 229317,
-  "2022-10-06": 229478,
-  "2022-10-07": 229645,
-  "2022-10-08": 229791,
-  "2022-10-09": 230004,
-  "2022-10-10": 230033,
-  "2022-10-11": 230179,
-  "2022-10-12": 230327,
-  "2022-10-13": 230441,
-  "2022-10-14": 230566,
-  "2022-10-15": 230710,
-  "2022-10-16": 230855,
-  "2022-10-17": 231003,
-  "2022-10-18": 231136,
-  "2022-10-19": 231270,
-  "2022-10-20": 231423,
-  "2022-10-21": 231576,
-  "2022-10-22": 231733,
-  "2022-10-23": 231871,
-  "2022-10-24": 232001,
-  "2022-10-25": 232128,
-  "2022-10-26": 232270,
-  "2022-10-27": 232401,
-  "2022-10-28": 232519,
-  "2022-10-29": 232669,
-  "2022-10-30": 232798,
-  "2022-10-31": 232908,
-  "2022-11-01": 233048,
-  "2022-11-02": 233149,
-  "2022-11-03": 233272,
-  "2022-11-04": 233388,
-  "2022-11-05": 233524,
-  "2022-11-06": 233639,
-  "2022-11-07": 233775,
-  "2022-11-08": 233888,
-  "2022-11-09": 233999,
-  "2022-11-10": 234142,
-  "2022-11-11": 234259,
-  "2022-11-12": 234433,
-  "2022-11-13": 234541,
-  "2022-11-14": 234671,
-  "2022-11-15": 234814,
-  "2022-11-16": 234922,
-  "2022-11-17": 235040,
-  "2022-11-18": 235090,
-  "2022-11-19": 235129,
-  "2022-11-20": 235255,
-  "2022-11-21": 235356,
-  "2022-11-22": 235462,
-  "2022-11-23": 235560,
-  "2022-11-24": 235809,
-  "2022-11-25": 236005,
-  "2022-11-26": 236155,
-  "2022-11-27": 236286,
-  "2022-11-28": 236404,
-  "2022-11-29": 236530,
-  "2022-11-30": 236633,
-  "2022-12-01": 236759,
-  "2022-12-02": 236818,
-  "2022-12-03": 236989,
-  "2022-12-04": 237125,
-  "2022-12-05": 237254,
-  "2022-12-06": 237363,
-  "2022-12-07": 237503,
-  "2022-12-08": 237632,
-  "2022-12-09": 237753,
-  "2022-12-10": 237869,
-  "2022-12-11": 238011,
-  "2022-12-12": 238151,
-  "2022-12-13": 238261,
-  "2022-12-14": 238385,
-  "2022-12-15": 238510,
-  "2022-12-16": 238622,
-  "2022-12-17": 238763,
-  "2022-12-18": 238901,
-  "2022-12-19": 239026,
-  "2022-12-20": 239266,
-  "2022-12-21": 239266,
-  "2022-12-22": 239399,
-  "2022-12-24": 239679,
-  "2022-12-25": 239818,
-  "2022-12-26": 239923,
-  "2022-12-27": 240040,
-  "2022-12-28": 240174,
-  "2022-12-29": 240299,
-  "2022-12-30": 240455,
-  "2022-12-31": 240582,
-  "2023-01-01": 240681,
-  "2023-01-02": 240788,
-  "2023-01-03": 240931,
-  "2023-01-04": 241023,
-  "2023-01-05": 241133,
-  "2023-01-06": 241218,
-  "2023-01-07": 241407,
-  "2023-01-08": 241441,
-  "2023-01-09": 241558,
-  "2023-01-10": 241701,
-  "2023-01-11": 241791,
-  "2023-01-12": 241920,
-  "2023-01-13": 242090,
-  "2023-01-14": 242358,
-  "2023-01-15": 242393,
-  "2023-01-16": 242523,
-  "2023-01-17": 242634,
-  "2023-01-18": 242740,
-  "2023-01-19": 242873,
-  "2023-01-20": 243020,
-  "2023-01-21": 243132,
-  "2023-01-22": 243252,
-  "2023-01-23": 243404,
-  "2023-01-24": 243542,
-  "2023-01-25": 243693,
-  "2023-01-26": 243820,
-  "2023-01-27": 243954,
-  "2023-01-28": 244069,
-  "2023-01-29": 244189,
-  "2023-01-30": 244296,
-  "2023-01-31": 244296,
-  "2023-02-01": 244497,
-  "2023-02-02": 244611,
-  "2023-02-03": 244728,
-  "2023-02-04": 244860,
-  "2023-02-05": 244990,
-  "2023-02-06": 245104,
-  "2023-02-07": 245181,
-  "2023-02-08": 245410,
-  "2023-02-09": 245410,
-  "2023-02-10": 245523,
-  "2023-02-11": 245669,
-  "2023-02-12": 245916,
-  "2023-02-13": 246010,
-  "2023-02-14": 246010,
-  "2023-02-15": 246106,
-  "2023-02-16": 246203,
-  "2023-02-17": 246312,
-  "2023-02-18": 246537,
-  "2023-02-19": 246552,
-  "2023-02-20": 246637,
-  "2023-02-21": 246739,
-  "2023-02-22": 246834,
-  "2023-02-23": 246941,
-  "2023-02-24": 247074,
-  "2023-02-25": 247232,
-  "2023-02-26": 247302,
-  "2023-02-27": 247525,
-  "2023-02-28": 247525,
-  "2023-03-01": 247625,
-  "2023-03-02": 247755,
-  "2023-03-03": 247876,
-  "2023-03-04": 247992,
-  "2023-03-05": 248225,
-  "2023-03-06": 248225,
-  "2023-03-07": 248334,
-  "2023-03-08": 248441,
-  "2023-03-09": 248527,
-  "2023-03-10": 248608,
-  "2023-03-11": 248729,
-  "2023-03-12": 248847,
-  "2023-03-13": 248928,
-  "2023-03-14": 249033,
-  "2023-03-15": 249130,
-  "2023-03-16": 249130,
-  "2023-03-17": 249130,
-  "2023-03-18": 249436,
-  "2023-03-19": 249436,
-  "2023-03-20": 249686,
-  "2023-03-21": 249763,
-  "2023-03-22": 249874,
-  "2023-03-23": 249979,
-  "2023-03-24": 249979,
-  "2023-03-25": 250188,
-  "2023-03-26": 250307,
-  "2023-03-27": 250407,
-  "2023-03-28": 250505,
-  "2023-03-29": 250605,
-  "2023-03-30": 250838,
-  "2023-03-31": 250838,
-  "2023-04-01": 250920,
-  "2023-04-02": 251019,
-  "2023-04-03": 251127,
-  "2023-04-04": 251236,
-  "2023-04-05": 251316,
-  "2023-04-06": 251429,
-  "2023-04-07": 251544,
-  "2023-04-09": 251768,
-  "2023-04-10": 251868,
-  "2023-04-11": 252073,
-  "2023-04-12": 252073,
-  "2023-04-13": 252181,
-  "2023-04-14": 252296,
-  "2023-04-15": 252381,
-  "2023-04-16": 252455,
-  "2023-04-17": 252568,
-  "2023-04-18": 252666,
-  "2023-04-19": 252752,
-  "2023-04-20": 252844,
-  "2023-04-21": 252982,
-  "2023-04-22": 253112,
-  "2023-04-23": 253234,
-  "2023-04-24": 253343,
-  "2023-04-25": 253467,
-  "2023-04-26": 253585,
-  "2023-04-27": 253697,
-  "2023-04-28": 253782,
-  "2023-04-29": 253892,
-  "2023-04-30": 254036,
-  "2023-05-01": 254144,
-  "2023-05-02": 254270,
-  "2023-05-03": 254380,
-  "2023-05-04": 254481,
-  "2023-05-05": 254592,
-  "2023-05-06": 254736,
-  "2023-05-07": 254865,
-  "2023-05-08": 254983,
-  "2023-05-09": 255115,
-  "2023-05-10": 255233,
-  "2023-05-11": 255370,
-  "2023-05-12": 255499,
-  "2023-05-13": 255636,
-  "2023-05-14": 255771,
-  "2023-05-15": 255901,
-  "2023-05-16": 256027,
-  "2023-05-17": 256152,
-  "2023-05-18": 256289,
-  "2023-05-19": 256412,
-  "2023-05-20": 256652,
-  "2023-05-21": 256652,
-  "2023-05-22": 256652,
-  "2023-05-23": 256842,
-  "2023-05-24": 257036,
-  "2023-05-25": 257070,
-  "2023-05-26": 257167,
-  "2023-05-27": 257282,
-  "2023-05-28": 257382,
-  "2023-05-29": 257382,
-  "2023-05-30": 257576,
-  "2023-05-31": 257689,
-  "2023-06-01": 257789,
-  "2023-06-02": 257902,
-  "2023-06-03": 258040,
-  "2023-06-04": 258150,
-  "2023-06-05": 258246,
-  "2023-06-06": 258350,
-  "2023-06-07": 258463,
-  "2023-06-08": 258570,
-  "2023-06-09": 258679,
-  "2023-06-10": 258786,
-  "2023-06-11": 258910,
-  "2023-06-12": 259033,
-  "2023-06-13": 259126,
-  "2023-06-14": 259229,
-  "2023-06-15": 259345,
-  "2023-06-16": 259467,
-  "2023-06-17": 259568,
-  "2023-06-18": 259675,
-  "2023-06-19": 259791,
-  "2023-06-20": 259889,
-  "2023-06-21": 260008,
-  "2023-06-22": 260113,
-  "2023-06-23": 260264,
-  "2023-06-24": 260373,
-  "2023-06-25": 260477,
-  "2023-06-26": 260580,
-  "2023-06-27": 260690,
-  "2023-06-28": 260787,
-  "2023-06-29": 260878,
-  "2023-06-30": 260982,
-  "2023-07-01": 261204,
-  "2023-07-02": 261204,
-  "2023-07-03": 261332,
-  "2023-07-04": 261436,
-  "2023-07-05": 261550,
-  "2023-07-06": 261833,
-  "2023-07-07": 261833,
-  "2023-07-08": 261948,
-  "2023-07-09": 262057,
-  "2023-07-10": 262147,
-  "2023-07-11": 262253,
-  "2023-07-12": 262361,
-  "2023-07-13": 262494,
-  "2023-07-14": 262614,
-  "2023-07-15": 262716,
-  "2023-07-16": 262876,
-  "2023-07-17": 262983,
-  "2023-07-18": 263093,
-  "2023-07-19": 263226,
-  "2023-07-20": 263352,
-  "2023-07-21": 263467,
-  "2023-07-22": 263606,
-  "2023-07-23": 263741,
-  "2023-07-24": 263864,
-  "2023-07-25": 264004,
-  "2023-07-26": 264103,
-  "2023-07-27": 264252,
-  "2023-07-28": 264386,
-  "2023-07-29": 264532,
-  "2023-07-30": 264661,
-  "2023-07-31": 264762,
-  "2023-08-01": 264874,
-  "2023-08-02": 265001,
-  "2023-08-03": 265113,
-  "2023-08-04": 265238,
-  "2023-08-05": 265380,
-  "2023-08-06": 265629,
-  "2023-08-07": 265629,
-  "2023-08-08": 265745,
-  "2023-08-09": 265858,
-  "2023-08-10": 265981,
-  "2023-08-11": 266088,
-  "2023-08-12": 266088,
-  "2023-08-13": 266088,
-  "2023-08-14": 266422,
-  "2023-08-15": 266542,
-  "2023-08-16": 266542,
-  "2023-08-17": 266790,
-  "2023-08-18": 266790,
-  "2023-08-19": 267006,
-  "2023-08-20": 267138,
-  "2023-08-21": 267235,
-  "2023-08-22": 267347,
-  "2023-08-23": 267456,
-  "2023-08-24": 267539,
-  "2023-08-25": 267539,
-  "2023-08-26": 267759,
-  "2023-08-27": 267887,
-  "2023-08-28": 267973,
-  "2023-08-29": 267973,
-  "2023-08-30": 267973,
-  "2023-08-31": 268263,
-  "2023-09-01": 268454,
-  "2023-09-02": 268454,
-  "2023-09-03": 268541,
-  "2023-09-04": 268541,
-  "2023-09-05": 268541,
-  "2023-09-06": 268841,
-  "2023-09-07": 268841,
-  "2023-09-08": 268841,
-  "2023-09-09": 268841,
-  "2023-09-10": 269293,
-  "2023-09-11": 269402,
-  "2023-09-12": 269402,
-  "2023-09-13": 269603,
-  "2023-09-14": 269603,
-  "2023-09-15": 269603,
-  "2023-09-16": 269922,
-  "2023-09-17": 269922,
-  "2023-09-18": 269922,
-  "2023-09-19": 270224,
-  "2023-09-20": 270224,
-  "2023-09-21": 270224,
-  "2023-09-22": 270571,
-  "2023-09-23": 270571,
-  "2023-09-24": 270571,
-  "2023-09-25": 270571,
-  "2023-09-26": 271054,
-  "2023-09-27": 271054,
-  "2023-09-28": 271054,
-  "2023-09-29": 271054,
-  "2023-09-30": 271054,
-  "2023-10-01": 271054,
-  "2023-10-02": 271662,
-  "2023-10-03": 271662,
-  "2023-10-04": 271662,
-  "2023-10-05": 271995,
-  "2023-10-06": 272130,
-  "2023-10-07": 272130,
-  "2023-10-08": 272130,
-  "2023-10-09": 272130,
-  "2023-10-10": 272130,
-  "2023-10-11": 272560,
-  "2023-10-12": 272560,
-  "2023-10-13": 272560,
-  "2023-10-14": 272560,
-  "2023-10-15": 272560,
-  "2023-10-16": 272560,
-  "2023-10-17": 272560,
-  "2023-10-18": 272560,
-  "2023-10-19": 272560,
-  "2023-10-20": 272560,
-  "2023-10-21": 272560,
-  "2023-10-22": 272560,
-  "2023-10-23": 272560,
-  "2023-10-24": 272560,
-  "2023-10-25": 272560,
-  "2023-10-26": 272560,
-  "2023-10-27": 272560,
-  "2023-10-28": 272560,
-  "2023-10-29": 272560,
-  "2023-10-30": 272560,
-  "2023-10-31": 272560,
-  "2023-11-01": 272560,
-  "2023-11-02": 272560,
-  "2023-11-03": 272560,
-  "2023-11-04": 272560,
-  "2023-11-05": 272560,
-  "2023-11-06": 272560,
-  "2023-11-07": 272560,
-  "2023-11-08": 272560,
-  "2023-11-09": 272560,
-  "2023-11-10": 272560,
-  "2023-11-11": 275994,
-  "2023-11-12": 275994,
-  "2023-11-13": 275994,
-  "2023-11-14": 275994,
-  "2023-11-15": 275994,
-  "2023-11-16": 275994,
-  "2023-11-17": 275994,
-  "2023-11-18": 275994,
-  "2023-11-19": 275994,
-  "2023-11-20": 275994,
-  "2023-11-21": 275994,
-  "2023-11-22": 275994,
-  "2023-11-23": 275994,
-  "2023-11-24": 275994,
-  "2023-11-25": 275994,
-  "2023-11-26": 275994,
-  "2023-11-27": 275994,
-  "2023-11-28": 275994,
-  "2023-11-29": 275994,
-  "2023-11-30": 275994,
-  "2023-12-01": 275994,
-  "2023-12-02": 275994,
-  "2023-12-03": 275994,
-  "2023-12-04": 275994,
-  "2023-12-05": 275994,
-  "2023-12-06": 275994,
-  "2023-12-07": 275994,
-  "2023-12-08": 275994,
-  "2023-12-09": 275994,
-  "2023-12-10": 275994,
-  "2023-12-11": 275994,
-  "2023-12-12": 275994,
-  "2023-12-13": 275994,
-  "2023-12-14": 279784,
-  "2023-12-15": 279866,
-  "2023-12-16": 279983,
-  "2023-12-17": 280094,
-  "2023-12-18": 280179,
-  "2023-12-19": 280275,
-  "2023-12-20": 280364,
-  "2023-12-21": 280452,
-  "2023-12-22": 280546,
-  "2023-12-23": 280674,
-  "2023-12-24": 280781,
-  "2023-12-25": 280865,
-  "2023-12-26": 280924,
-  "2023-12-27": 281009,
-  "2023-12-30": 281245,
-  "2023-12-31": 281333,
-  "2024-01-01": 281400,
-  "2024-01-02": 281479,
-  "2024-01-03": 281547
+  "2024-01-17": 282213,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Akon. The essential tracks, all in one playlist.",
+  "name": "This Is Akon",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Greatest Story Ever Told",
+        "url": "https://open.spotify.com/album/4dlnbBnFH9CE6sbyrPP2aR"
+      },
+      "artists": [
+        {
+          "name": "David Banner",
+          "url": "https://open.spotify.com/artist/7jFaoqWPhYLrKzjzlpXmUO"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-29",
+      "duration_ms": 247453,
+      "name": "9MM",
+      "url": "https://open.spotify.com/track/2K6FYgz38Kzih6BGJzfD0H"
+    },
+    {
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218080,
+      "name": "All Up 2 You (feat. Akon, Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5"
+    },
+    {
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/3m1Nxg2YS7QIs0v428yNLP"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215226,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/6LBcHFbzmKSgGjZapRE2B5"
+    },
+    {
+      "album": {
+        "name": "Super Saucy",
+        "url": "https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219186,
+      "name": "Baby, I'm Back",
+      "url": "https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be"
+    },
+    {
+      "album": {
+        "name": "Super Saucy",
+        "url": "https://open.spotify.com/album/36vdts7dE6Cy6A7VC5qZ4I"
+      },
+      "artists": [
+        {
+          "name": "Baby Bash",
+          "url": "https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-04-24",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-12",
+      "duration_ms": 219186,
+      "name": "Baby, I'm Back",
+      "url": "https://open.spotify.com/track/6EfyEbyk4XjCisJz90V8Ki"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238493,
+      "name": "Bananza (Belly Dancer)",
+      "url": "https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv"
+    },
+    {
+      "album": {
+        "name": "Epiphany (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6CrSEKCF4TYrbSIitegb3h"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Bartender (feat. Akon)",
+      "url": "https://open.spotify.com/track/1RGIjMFMgJxkZHMDXVYzOJ"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-17",
+      "duration_ms": 231013,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/5fFVy5lNikE6Gls8qKLS5L"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231013,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/6uq9QQLcdeUbhe5T7ZUFl4"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 312986,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/0lqYRbRiGc5oiCUW51JH5s"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312986,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1GLx5tpDdwEFiA7KaikvX2"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-22",
+      "duration_ms": 207840,
+      "name": "Belly Dancer (Bananza) - Remix",
+      "url": "https://open.spotify.com/track/46PqPlhhW6MAk21IDFNLnx"
+    },
+    {
+      "album": {
+        "name": "Big Flexa (Remix)",
+        "url": "https://open.spotify.com/album/4VmypkfJhvqIHVUJrNlOm5"
+      },
+      "artists": [
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ma Gang Official",
+          "url": "https://open.spotify.com/artist/6oorjOsgeEP2V4gSOFoZHB"
+        },
+        {
+          "name": "Alfa Kat",
+          "url": "https://open.spotify.com/artist/30Ep7ARHnQpc0z9otD7jup"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 293146,
+      "name": "Big Flexa - Remix",
+      "url": "https://open.spotify.com/track/2jChM16kMAUFRXYzknPP26"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 209013,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/3nFQ4HligCOvCmaowewlLM"
+    },
+    {
+      "album": {
+        "name": "The Declaration",
+        "url": "https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200720,
+      "name": "Body On Me",
+      "url": "https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK"
+    },
+    {
+      "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202680,
+      "name": "Boss' Life",
+      "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
+    },
+    {
+      "album": {
+        "name": "X (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Came To Do (feat. Akon)",
+      "url": "https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve"
+    },
+    {
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Hamsika Iyer",
+          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227091,
+      "name": "Chammak Challo",
+      "url": "https://open.spotify.com/track/0EH7sgeiFqDa3eS7ieW2zs"
+    },
+    {
+      "album": {
+        "name": "Chop My Money",
+        "url": "https://open.spotify.com/album/50wBF1pk26slksIqYODsHk"
+      },
+      "artists": [
+        {
+          "name": "P-Square",
+          "url": "https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "May D",
+          "url": "https://open.spotify.com/artist/7ahfCquNK3ReYc2UHhugs5"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 272297,
+      "name": "Chop My Money - Remix",
+      "url": "https://open.spotify.com/track/0rWlFiu0sMqLdtrViUwLT5"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214693,
+      "name": "Com\u00e9ntale",
+      "url": "https://open.spotify.com/track/7oCGD6Ccuw8JmYWw6IrI8z"
+    },
+    {
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 192666,
+      "name": "Crank It Up (feat. Akon)",
+      "url": "https://open.spotify.com/track/4PQA5I8Qf99He3SBKtl4Tf"
+    },
+    {
+      "album": {
+        "name": "Ra-One",
+        "url": "https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "date_added": "2022-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306503,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2"
+    },
+    {
+      "album": {
+        "name": "Not 4 Sale",
+        "url": "https://open.spotify.com/album/4mvT7q9PuuBWZcVyUnZP8e"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Offishall",
+          "url": "https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246053,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/4NOZ35Dhucr6UlVyLOtktd"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293053,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/7I6DceMT3utDOHjcYCbrr4"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 293066,
+      "name": "Don't Matter",
+      "url": "https://open.spotify.com/track/12yGwtB2h9NlzeOKYfVYTF"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/3pk4icDs1qwl90Q2ZYPMqT"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-18",
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/0siwM0v8NJkkKKtCT2r3Em"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/1QOorpfl2WDbirKrMsXG5D"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/0vzRLVEArgzEl2FUHj9xYA"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/3y1EcdsfzSNGRDEKHQcagK"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 183206,
+      "name": "Enjoy That",
+      "url": "https://open.spotify.com/track/1r3YLVQ9Tdc8edwu5NtbX2"
+    },
+    {
+      "album": {
+        "name": "Enjoy That",
+        "url": "https://open.spotify.com/album/77gBpDJwRBd1edfN7xxsNw"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Mr Brown",
+          "url": "https://open.spotify.com/artist/6zfdfAQ735KFzpBLkEJxhr"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 276106,
+      "name": "Enjoy That - Remix",
+      "url": "https://open.spotify.com/track/1daeMUyT9Tt7KTTjA50wQ5"
+    },
+    {
+      "album": {
+        "name": "Konvicted (Complete Edition)",
+        "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-29",
+      "duration_ms": 199680,
+      "name": "Fair To You",
+      "url": "https://open.spotify.com/track/4asiXFMoANXo6RWb8elStT"
+    },
+    {
+      "album": {
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/38H4x7UIrFplrNLMbauOTX"
+      },
+      "artists": [
+        {
+          "name": "AMIRROR",
+          "url": "https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 229500,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6hEmaiW6JJFfpbl9xivcmn"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246226,
+      "name": "Gangsta Bop",
+      "url": "https://open.spotify.com/track/3nfVBXYJtRWeNxHMSMvIsE"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
+      "duration_ms": 246226,
+      "name": "Gangsta Bop",
+      "url": "https://open.spotify.com/track/4iGgy19GEnx8ztNomBTbHt"
+    },
+    {
+      "album": {
+        "name": "GET MONEY",
+        "url": "https://open.spotify.com/album/0Zd0IXMziasEGSDrWXRk33"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2021-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-09",
+      "duration_ms": 221327,
+      "name": "GET MONEY",
+      "url": "https://open.spotify.com/track/7LUYiyveoCa10mdkdFW7gZ"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235306,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa"
+    },
+    {
+      "album": {
+        "name": "KONVICT KULTURE PRESENTS TEEMANAY",
+        "url": "https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3"
+      },
+      "artists": [
+        {
+          "name": "Teemanay",
+          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-02-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 161079,
+      "name": "Go Girl",
+      "url": "https://open.spotify.com/track/1rxaEMHbyGrNyvlob9YLcc"
+    },
+    {
+      "album": {
+        "name": "Good Girl",
+        "url": "https://open.spotify.com/album/5S93JhNP9BcdtAgcCxAOLt"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 208604,
+      "name": "Good Girl",
+      "url": "https://open.spotify.com/track/2Z7ulQhQLbZJYyk6U2unUK"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187126,
+      "name": "Heatwave (feat. Akon)",
+      "url": "https://open.spotify.com/track/2KMJ5CoxY4ECG9TZyNWmpv"
+    },
+    {
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/0yYWeLqonFk11pmb0RiMbP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/0pCyoA5o2uxUwIovECCziF"
+    },
+    {
+      "album": {
+        "name": "Michael",
+        "url": "https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212226,
+      "name": "Hold My Hand (with Akon)",
+      "url": "https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb"
+    },
+    {
+      "album": {
+        "name": "The Real Testament",
+        "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
+      },
+      "artists": [
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "Hypnotized (feat. Akon)",
+      "url": "https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm"
+    },
+    {
+      "album": {
+        "name": "Turtleneck & Chain (Explicit Version)",
+        "url": "https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP"
+      },
+      "artists": [
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166560,
+      "name": "I Just Had Sex",
+      "url": "https://open.spotify.com/track/5PEleSkK4p4E1sx3x7cOLt"
+    },
+    {
+      "album": {
+        "name": "Strength & Loyalty",
+        "url": "https://open.spotify.com/album/6fgFFyMpkmOZK038Ta3gQB"
+      },
+      "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287480,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/2elA6JLRaQ6iB7hxiuTKN4"
+    },
+    {
+      "album": {
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178840,
+      "name": "I Wanna Fuck You",
+      "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "I Wanna Love You",
+      "url": "https://open.spotify.com/track/0CXVjQI9wsqaGeIARkkpYc"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-21",
+      "duration_ms": 247066,
+      "name": "I Wanna Love You",
+      "url": "https://open.spotify.com/track/6NncjnSD7JLEetWb9KqMRY"
+    },
+    {
+      "album": {
+        "name": "Curtis",
+        "url": "https://open.spotify.com/album/6aAGx3HGsNoWvn6rMRHXBm"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "I'll Still Kill",
+      "url": "https://open.spotify.com/track/6joiQ57IEXiC0yWtpZ71e5"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/7EZP6OSbWvMZTrEmlBt1HX"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 263640,
+      "name": "I'm So Paid",
+      "url": "https://open.spotify.com/track/5264rU21ndum3CYYaSGUUm"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264666,
+      "name": "I'm So Paid",
+      "url": "https://open.spotify.com/track/6M07mzRP5ByQiWexLtR8PU"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-15",
+      "duration_ms": 260866,
+      "name": "Keep You Much Longer",
+      "url": "https://open.spotify.com/track/2vmGdxSGSkWTZJmtDLPvGC"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260866,
+      "name": "Keep You Much Longer",
+      "url": "https://open.spotify.com/track/6yDvLWVeAdIFTmEZYyqEQl"
+    },
+    {
+      "album": {
+        "name": "KONVICT KULTURE PRESENTS TEEMANAY",
+        "url": "https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3"
+      },
+      "artists": [
+        {
+          "name": "Teemanay",
+          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-02-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-19",
+      "duration_ms": 175773,
+      "name": "Killin Me",
+      "url": "https://open.spotify.com/track/4LZevz9sHCijVabWalxOX6"
+    },
+    {
+      "album": {
+        "name": "Kush",
+        "url": "https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235120,
+      "name": "Kush - Main",
+      "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "album": {
+        "name": "I Look To You",
+        "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-03-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 229733,
+      "name": "Like I Never Left (feat. Akon)",
+      "url": "https://open.spotify.com/track/5qIB8RslPO78tG7S9SN3FX"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/6X7HEjHrNHimc0buMQpNya"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/0YUrjFy4qFKOO5NhM9tYdV"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
+    },
+    {
+      "album": {
+        "name": "Locked Up (ft. Akon)",
+        "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147170,
+      "name": "Locked Up (ft. Akon)",
+      "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
+    },
+    {
+      "album": {
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-04-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 203333,
+      "name": "LOCKED UP PT. 2",
+      "url": "https://open.spotify.com/track/52EVeEEPT1H7EIEtN9lC13"
+    },
+    {
+      "album": {
+        "name": "TattleTales",
+        "url": "https://open.spotify.com/album/6dQ5jKDz664ctPbDDSF7Ua"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-18",
+      "duration_ms": 203333,
+      "name": "LOCKED UP PT. 2",
+      "url": "https://open.spotify.com/track/7Mu3sCvXdMSlBLrUPOhWAG"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 157168,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/1hlsiFaPUGNDXcKfTYf0Ol"
+    },
+    {
+      "album": {
+        "name": "Trouble Deluxe Edition",
+        "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235800,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
+    },
+    {
+      "album": {
+        "name": "Moonshine",
+        "url": "https://open.spotify.com/album/4RGNV1d5LVskVxfjhIapsb"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 303746,
+      "name": "Moonshine",
+      "url": "https://open.spotify.com/track/71Flk3ZlAs3lLCLbxMKpcu"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "AMIRROR",
+          "url": "https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 192314,
+      "name": "More Than That - Afro Remix",
+      "url": "https://open.spotify.com/track/0jkgud5L47jRzVpGljRfES"
+    },
+    {
+      "album": {
+        "name": "Nadie Como T\u00fa",
+        "url": "https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-10",
+      "duration_ms": 186290,
+      "name": "Nadie Como T\u00fa",
+      "url": "https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA"
+    },
+    {
+      "album": {
+        "name": "No Es S\u00f3lo Un Juego (The Official Concacaf Gold Cup 2023[TM] Theme)",
+        "url": "https://open.spotify.com/album/7EtV6Wqr1xceSUfxYANlTM"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Oriana",
+          "url": "https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 167066,
+      "name": "No Es S\u00f3lo Un Juego - The Official Concacaf Gold Cup 2023[TM] Theme",
+      "url": "https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N"
+    },
+    {
+      "album": {
+        "name": "No Wahala (feat. AKON & RUNTOWN)",
+        "url": "https://open.spotify.com/album/5k7JaH84J9RFAhzrCugrUQ"
+      },
+      "artists": [
+        {
+          "name": "Demarco",
+          "url": "https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 212383,
+      "name": "No Wahala (feat. Akon & Runtown)",
+      "url": "https://open.spotify.com/track/03MxQe4F8TGGZSs4Zyha4b"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "AMIRROR",
+          "url": "https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 165999,
+      "name": "One and Only - Remix",
+      "url": "https://open.spotify.com/track/60fSqA8WGZFmHVv1d5wVkF"
+    },
+    {
+      "album": {
+        "name": "Out Here Grindin' (Feat. Akon, Lil Boosie, Plies, Ace Hood, Trick Daddy & Rick Ross)",
+        "url": "https://open.spotify.com/album/4sXllsNROme5OT1J0CFLGS"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Ace Hood",
+          "url": "https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        },
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        }
+      ],
+      "date_added": "2022-04-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-08",
+      "duration_ms": 261133,
+      "name": "Out Here Grindin'",
+      "url": "https://open.spotify.com/track/4F0sMzz8L5EE8ly9o3evIq"
+    },
+    {
+      "album": {
+        "name": "Picky Back To The Roots",
+        "url": "https://open.spotify.com/album/5Y0jPLZZEf179dwwq4iEmN"
+      },
+      "artists": [
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "date_added": "2022-05-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 226400,
+      "name": "Picky - Remix",
+      "url": "https://open.spotify.com/track/1T4yFuWR3UFXQ9Og8IKMmi"
+    },
+    {
+      "album": {
+        "name": "Nothing but the Beat (Ultimate Edition)",
+        "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Play Hard (feat. Ne-Yo & Akon)",
+      "url": "https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3"
+    },
+    {
+      "album": {
+        "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
+        "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-26",
+      "duration_ms": 208845,
+      "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
+      "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "AMIRROR",
+          "url": "https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 165927,
+      "name": "Prolly Cut - Amapiano",
+      "url": "https://open.spotify.com/track/1pkRMZMqQODbXDJmyZNbeT"
+    },
+    {
+      "album": {
+        "name": "Summer In The Winter",
+        "url": "https://open.spotify.com/album/6uG9BscYmPnAbtl6Cy9u91"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-27",
+      "duration_ms": 240013,
+      "name": "Rewind (feat. Akon) (feat. Akon)",
+      "url": "https://open.spotify.com/track/3NIGNOy2IYovypzQl6QxJZ"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 240746,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/2VqAEP1yY5T523K7bZtL8a"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240746,
+      "name": "Right Now (Na Na Na)",
+      "url": "https://open.spotify.com/track/5Ravsw8TmHN5wBiYPPYUFw"
+    },
+    {
+      "album": {
+        "name": "KONVICT KULTURE PRESENTS TEEMANAY",
+        "url": "https://open.spotify.com/album/12QkZc4BjyJWPVeftlb4T3"
+      },
+      "artists": [
+        {
+          "name": "Teemanay",
+          "url": "https://open.spotify.com/artist/73mZwsrUqiDDoyD1FMVc7l"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 172916,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/3fgQAX0vwaxGkIrKvHKT0S"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 195853,
+      "name": "Sexy Bitch (feat. Akon)",
+      "url": "https://open.spotify.com/track/127uq83uGFapbddqiMUKky"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195853,
+      "name": "Sexy Bitch (feat. Akon)",
+      "url": "https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE"
+    },
+    {
+      "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194346,
+      "name": "Sexy Chick (feat. Akon)",
+      "url": "https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq"
+    },
+    {
+      "album": {
+        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
+        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 182598,
+      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
+      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
+    },
+    {
+      "album": {
+        "name": "She Knows (with Akon)",
+        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Like Mike",
+          "url": "https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135706,
+      "name": "She Knows - with Akon",
+      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
+    },
+    {
+      "album": {
+        "name": "Shine Your Light (feat. Akon)",
+        "url": "https://open.spotify.com/album/2g64ICU2z18zpnuS5rQbM9"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189390,
+      "name": "Shine Your Light (feat. Akon)",
+      "url": "https://open.spotify.com/track/2ttfqpA40dpzzz9QhxnFCv"
+    },
+    {
+      "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-05",
+      "duration_ms": 226093,
+      "name": "Shut It Down (feat. Akon)",
+      "url": "https://open.spotify.com/track/6r9uMZ7NBaMO1ovylcJZI4"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Nektunez",
+          "url": "https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 186902,
+      "name": "Sleep - Remix",
+      "url": "https://open.spotify.com/track/2bCIOiMDapvZc4zIdOIcX1"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169911,
+      "name": "Slow Motion - Remix",
+      "url": "https://open.spotify.com/track/4zqwDTsmKL0joINbJDVym2"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/6kzoWb4UzvKYgbDfAwgaFq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2022-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/13C2pc5O7ofZKd4p2VYO3S"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 212360,
+      "name": "Smack That",
+      "url": "https://open.spotify.com/track/3qKGvSu1inEZKwYQnMavNA"
+    },
+    {
+      "album": {
+        "name": "Second Rounds On Me",
+        "url": "https://open.spotify.com/album/7liAJFeMLT5QihsB9MhAh5"
+      },
+      "artists": [
+        {
+          "name": "Obie Trice",
+          "url": "https://open.spotify.com/artist/2XnnxQzxFZG8qEPjakokPM"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241253,
+      "name": "Snitch",
+      "url": "https://open.spotify.com/track/02rlDATSROFtjqmvs1dBKr"
+    },
+    {
+      "album": {
+        "name": "Afro Freak",
+        "url": "https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Jahvor",
+          "url": "https://open.spotify.com/artist/6Iqo4GihxRL5ULiITVuMv0"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 202406,
+      "name": "So Rough",
+      "url": "https://open.spotify.com/track/3SjxnBy7kUL8HT6Rle4bwq"
+    },
+    {
+      "album": {
+        "name": "Konvicted",
+        "url": "https://open.spotify.com/album/0qAQvB9Ffg2IEMo9W6nTZO"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-19",
+      "duration_ms": 295720,
+      "name": "Sorry, Blame It On Me",
+      "url": "https://open.spotify.com/track/6m5jURnwGHY1pVw0sJqBBq"
+    },
+    {
+      "album": {
+        "name": "Konvicted (Complete Edition)",
+        "url": "https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295746,
+      "name": "Sorry, Blame It On Me",
+      "url": "https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B"
+    },
+    {
+      "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+    },
+    {
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/19NGecACGLBEsTA8Pyi4PG"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 210285,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/1SZ5EEmCQ03fRAHnFNYW8N"
+    },
+    {
+      "album": {
+        "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+        "url": "https://open.spotify.com/album/347NJqwpdmSrkTE7F2IlaZ"
+      },
+      "artists": [
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241133,
+      "name": "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+      "url": "https://open.spotify.com/track/4liGjmhCupa7RP9JaQELYx"
+    },
+    {
+      "album": {
+        "name": "Tell Me We're Ok - Single",
+        "url": "https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT"
+      },
+      "artists": [
+        {
+          "name": "DJ Hardwerk",
+          "url": "https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-08",
+      "duration_ms": 278740,
+      "name": "Tell Me We're Ok",
+      "url": "https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH"
+    },
+    {
+      "album": {
+        "name": "Last 2 Walk",
+        "url": "https://open.spotify.com/album/0msDLgGPTbHmgPwY4yYRkn"
+      },
+      "artists": [
+        {
+          "name": "Three 6 Mafia",
+          "url": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176506,
+      "name": "That's Right (feat. Akon) - Explicit Album Version",
+      "url": "https://open.spotify.com/track/0cOSb7wzbpb9vjRkbYufWj"
+    },
+    {
+      "album": {
+        "name": "The Sweet Escape",
+        "url": "https://open.spotify.com/album/7xnZ539lh8x6de9jzlpCJp"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "The Sweet Escape",
+      "url": "https://open.spotify.com/track/66ZcOcouenzZEnzTJvoFmH"
+    },
+    {
+      "album": {
+        "name": "The Sweet Escape (Konvict Remix)",
+        "url": "https://open.spotify.com/album/1WyerplVKXPHfNxrfp6qGR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2022-03-07",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-08",
+      "duration_ms": 241906,
+      "name": "The Sweet Escape - Konvict Remix",
+      "url": "https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Sweet Rush",
+          "url": "https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 237173,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg"
+      },
+      "artists": [
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Sweet Rush",
+          "url": "https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1"
+        }
+      ],
+      "date_added": "2023-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237173,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8"
+    },
+    {
+      "album": {
+        "name": "Colby O",
+        "url": "https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3"
+      },
+      "artists": [
+        {
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "What You Got",
+      "url": "https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ"
+    },
+    {
+      "album": {
+        "name": "Intoxication",
+        "url": "https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2023-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "What's Love (feat. Akon)",
+      "url": "https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW"
+    },
+    {
+      "album": {
+        "name": "Only One Flo (Part 1)",
+        "url": "https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Who Dat Girl (feat. Akon)",
+      "url": "https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gCG2c"
 }

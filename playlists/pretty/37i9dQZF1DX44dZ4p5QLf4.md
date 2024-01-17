@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 
 > A blend of new songs and artists in the soul space\. Cover: Full Crate
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,517 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,641 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44dZ4p5QLf4.md) - [plain]
 | 43 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 |
 | 44 | [Sololove](https://open.spotify.com/track/4JlAMzLOeIjar8Nmk8c0xk) | [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Sololove](https://open.spotify.com/album/4VfLmtBSMDyrBIs1AVRCl2) | 3:17 |
 | 45 | [Aged Eyes](https://open.spotify.com/track/0gQbyxRhcMI8SM4eMZpSZF) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Kaya Thomas\-Dyke](https://open.spotify.com/artist/12WK0pR6DK71O5uqTHWzyE) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 4:06 |
-| 46 | [PINK MARMALADE](https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Eimaral Sol](https://open.spotify.com/artist/1WSDSHfrAxY3kkUjmd9zeH) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:21 |
+| 46 | [PINK MARMALADE](https://open.spotify.com/track/4OP62iYt8lQJTn09BpKJnv) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [LARA'](https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:21 |
 | 47 | [Means The World](https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg) | [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ), [Gareth Lockrane](https://open.spotify.com/artist/2Km3mLLDx9YqUgnzzE2Ahv) | [Means The World](https://open.spotify.com/album/5O0iPLncgsSWVTr5FyF2o5) | 3:01 |
 | 48 | [Feelings](https://open.spotify.com/track/35lgENmxCZM0H2StqdksBk) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Feelings](https://open.spotify.com/album/1mXNE9oOFEyeQJI71JrLnb) | 2:33 |
 | 49 | [In Need \- Reworked](https://open.spotify.com/track/6gyz4TE6oDNsyGPIA2V6PG) | [Ntjam Rosie](https://open.spotify.com/artist/44XhJ4fcKrMzrVr6WpF69R), [SMANDEM.](https://open.spotify.com/artist/3pBZ54BloAsAYIkZS15jol) | [In Need \(Reworked\)](https://open.spotify.com/album/2zE0Kw0j61mVY9aDR7kaqm) | 3:27 |

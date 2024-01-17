@@ -469,6 +469,24 @@
     },
     {
       "album": {
+        "name": "Camadas",
+        "url": "https://open.spotify.com/album/2sdk6kCoIXXJUf0v67Ig2x"
+      },
+      "artists": [
+        {
+          "name": "James dos Reis",
+          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184057,
+      "name": "Agora Naw",
+      "url": "https://open.spotify.com/track/1PgAHn4rhXbsGNkFK8A8HN"
+    },
+    {
+      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5vbXuxtOKdySOWQ3kYWy7g"
       },
@@ -806,6 +824,24 @@
       "duration_ms": 166000,
       "name": "Andei",
       "url": "https://open.spotify.com/track/6il1MOwp9CEG7mGyhgQhkZ"
+    },
+    {
+      "album": {
+        "name": "Ano da Vit\u00f3ria",
+        "url": "https://open.spotify.com/album/37xDVVqinXMYjGpSf1tK2B"
+      },
+      "artists": [
+        {
+          "name": "Tennaz",
+          "url": "https://open.spotify.com/artist/4rRsJzI4T5Q7LhNDUVAXmN"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209136,
+      "name": "Ano da Vit\u00f3ria",
+      "url": "https://open.spotify.com/track/2d3GVV5AIjwrzrpcuxhi2W"
     },
     {
       "album": {
@@ -1800,7 +1836,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 142281,
       "name": "Cabe\u00e7a Na Gelo",
       "url": "https://open.spotify.com/track/4pdBYf5j0N76yLsoUbkNjT"
@@ -2259,6 +2295,28 @@
     },
     {
       "album": {
+        "name": "CH\u00c1 DE HIBISCO",
+        "url": "https://open.spotify.com/album/40ImePwEFhPMEfkYGX9Rc5"
+      },
+      "artists": [
+        {
+          "name": "ELIOT",
+          "url": "https://open.spotify.com/artist/7xiBCYVFWzcQSKN7q0tWmH"
+        },
+        {
+          "name": "Jeezas",
+          "url": "https://open.spotify.com/artist/4BinoRsZvYYIhzCyiG154k"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "CH\u00c1 DE HIBISCO",
+      "url": "https://open.spotify.com/track/1Y5W2tQQdUCkWUTbe47BfV"
+    },
+    {
+      "album": {
         "name": "Ciente Tamb\u00e9m Ama",
         "url": "https://open.spotify.com/album/4Vnwf8KlNEQ0Qc5bQvHoMD"
       },
@@ -2685,6 +2743,28 @@
     },
     {
       "album": {
+        "name": "Corre",
+        "url": "https://open.spotify.com/album/7ea5899z7Ij1HuoNO5r5Sq"
+      },
+      "artists": [
+        {
+          "name": "Os\u00e9mio Bo\u00e9mio",
+          "url": "https://open.spotify.com/artist/1ESj85JsWWKJuWrYo1eJfx"
+        },
+        {
+          "name": "R7ALNESS",
+          "url": "https://open.spotify.com/artist/5e2E68RwtTs37jHS3mZ885"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185567,
+      "name": "Corre",
+      "url": "https://open.spotify.com/track/3B0kyiBOoB8DEwnuYnlk3y"
+    },
+    {
+      "album": {
         "name": "Corte Alinhado",
         "url": "https://open.spotify.com/album/0uBvFw719iSqFIYxtLS1bE"
       },
@@ -2996,7 +3076,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 206400,
       "name": "Deixa Arder",
       "url": "https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP"
@@ -3413,6 +3493,24 @@
     },
     {
       "album": {
+        "name": "Alter Ego",
+        "url": "https://open.spotify.com/album/2d0UNFa9xKMgcyt8jTnzJO"
+      },
+      "artists": [
+        {
+          "name": "Kota Wilson",
+          "url": "https://open.spotify.com/artist/5KiT7aGsWVgjSJZuh6XutW"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127302,
+      "name": "Droga Alucinante",
+      "url": "https://open.spotify.com/track/4sAot4CB0HZQhpIdUwd5Vd"
+    },
+    {
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/2UkHXE23igIopPp23iuGcf"
       },
@@ -3504,7 +3602,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 193000,
       "name": "Dubai (Freestyle)",
       "url": "https://open.spotify.com/track/7Jve8NADMYABeNIF0ZztSd"
@@ -3897,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Eu Bem Vi",
+        "url": "https://open.spotify.com/album/0ZzE1Vpt2QZg4zRAneNhjG"
+      },
+      "artists": [
+        {
+          "name": "Coelho",
+          "url": "https://open.spotify.com/artist/5rUxY4lwgBuN2qXZjBGYWH"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Eu Bem Vi",
+      "url": "https://open.spotify.com/track/1Cnz4vtJEEyXai2lKVNsxk"
+    },
+    {
+      "album": {
         "name": "Eu N\u00e3o Dan\u00e7o",
         "url": "https://open.spotify.com/album/2eXlOOfpwgNCCIUbhQ4IvW"
       },
@@ -4032,7 +4148,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 212431,
       "name": "F*** YOU ALL",
       "url": "https://open.spotify.com/track/2tE7vVVSmTDG6sPj5Tbsgy"
@@ -4094,7 +4210,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 150288,
       "name": "Fala a s\u00e9rio",
       "url": "https://open.spotify.com/track/2EJnIQjPcrolY3ICA8Tefo"
@@ -5350,6 +5466,24 @@
       "duration_ms": 228363,
       "name": "H.N.V.",
       "url": "https://open.spotify.com/track/4zsBU5xirplLsJ8YTPEf2J"
+    },
+    {
+      "album": {
+        "name": "HATE RAYNE",
+        "url": "https://open.spotify.com/album/2YfNmCqQiPOsAXr0Mj9yn4"
+      },
+      "artists": [
+        {
+          "name": "Bleach Mane",
+          "url": "https://open.spotify.com/artist/6KTPwUlJhR1hLJVriY60Jr"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205979,
+      "name": "HATE RAYNE",
+      "url": "https://open.spotify.com/track/1Vdsu21BkNX6ZxapbMPSLW"
     },
     {
       "album": {
@@ -6894,6 +7028,24 @@
       "duration_ms": 187116,
       "name": "Many Men - Special Version",
       "url": "https://open.spotify.com/track/5WTNKKVTvqWwgCVLdH7AhC"
+    },
+    {
+      "album": {
+        "name": "Mar de Rosas",
+        "url": "https://open.spotify.com/album/492Q0hPgKBp529dQpdHvPZ"
+      },
+      "artists": [
+        {
+          "name": "fontayne",
+          "url": "https://open.spotify.com/artist/5LqAHoa04Mi9HtTtskh2GF"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Mar de Rosas",
+      "url": "https://open.spotify.com/track/7xPkzDlimUKWdr3Gf7JdPN"
     },
     {
       "album": {
@@ -8799,6 +8951,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o \u00e9 suficiente",
+        "url": "https://open.spotify.com/album/25Nx3Eod8kFd1AVfN0yJOD"
+      },
+      "artists": [
+        {
+          "name": "DIGGA",
+          "url": "https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177709,
+      "name": "N\u00e3o \u00e9 suficiente",
+      "url": "https://open.spotify.com/track/4cKs79v0C2MyRadzkmQLIR"
+    },
+    {
+      "album": {
         "name": "N\u00f3s",
         "url": "https://open.spotify.com/album/4qa7YPzO9nVedEesEcWZYL"
       },
@@ -10170,7 +10340,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 225787,
       "name": "PT x FR",
       "url": "https://open.spotify.com/track/5IMX0esF2bpTNMIUE2P3ED"
@@ -10330,7 +10500,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 179081,
       "name": "Queen Size",
       "url": "https://open.spotify.com/track/6j5QPkoQOgD1RDzLENv78B"
@@ -13456,7 +13626,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 175224,
       "name": "Viemos do Nada",
       "url": "https://open.spotify.com/track/5Dj9kXY9gMFC2yOWyEDmzj"
@@ -13669,6 +13839,24 @@
     },
     {
       "album": {
+        "name": "Wakanda",
+        "url": "https://open.spotify.com/album/1YRtPs2Xo0pKu6j0E84vl5"
+      },
+      "artists": [
+        {
+          "name": "RDM Gang",
+          "url": "https://open.spotify.com/artist/6xdn3soKvnnNO3mFVIysXy"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217687,
+      "name": "Wakanda",
+      "url": "https://open.spotify.com/track/1AO8aWO9wj5kxzsYM0kKex"
+    },
+    {
+      "album": {
         "name": "walk out the bank!",
         "url": "https://open.spotify.com/album/1g528RYm2GDDec43yMNSHQ"
       },
@@ -13760,7 +13948,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 236000,
       "name": "What i Want, How i Like",
       "url": "https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A"
@@ -13952,7 +14140,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 174231,
       "name": "ZETA",
       "url": "https://open.spotify.com/track/1Qx0cnH7noHnpCi0WJkfTi"

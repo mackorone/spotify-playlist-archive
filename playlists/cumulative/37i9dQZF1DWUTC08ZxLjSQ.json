@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Fariis. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover:Ghida. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 163760,
       "name": "101",
       "url": "https://open.spotify.com/track/2aaa4A0g1XurnQfFC0dpoE"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 156937,
       "name": "Ataitek",
       "url": "https://open.spotify.com/track/5ryqKdwizfpw0v8HWnu6Cd"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 214000,
       "name": "Bashbah Emmbareh",
       "url": "https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq"
@@ -438,6 +438,24 @@
       "duration_ms": 238292,
       "name": "Bin Nass",
       "url": "https://open.spotify.com/track/60WuyNSGd6SxDYoPviKHj0"
+    },
+    {
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/07Rk9Vm4dTBvbqti8YNV4C"
+      },
+      "artists": [
+        {
+          "name": "Ghida",
+          "url": "https://open.spotify.com/artist/70R0r2Qd9G2lzXfqAXJXtT"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205557,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/5SReQqpPuEhowJod8RdpG1"
     },
     {
       "album": {
@@ -604,7 +622,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 180604,
       "name": "Catch Your Drift",
       "url": "https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi"
@@ -676,7 +694,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 167294,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/4Y8do3pAd3udNB7I4UzCtG"
@@ -756,6 +774,24 @@
       "duration_ms": 201664,
       "name": "Crutches",
       "url": "https://open.spotify.com/track/0OkQtz2Os6iXgEAhOD7ea7"
+    },
+    {
+      "album": {
+        "name": "DAMEER!",
+        "url": "https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6"
+      },
+      "artists": [
+        {
+          "name": "BrownMusic",
+          "url": "https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "DAMEER!",
+      "url": "https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU"
     },
     {
       "album": {
@@ -1424,7 +1460,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 186066,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
@@ -1673,6 +1709,24 @@
     },
     {
       "album": {
+        "name": "I think I saw you",
+        "url": "https://open.spotify.com/album/7ceqZErdpAs5KNq4EEDkqe"
+      },
+      "artists": [
+        {
+          "name": "kiiko",
+          "url": "https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "I think I saw you",
+      "url": "https://open.spotify.com/track/3mZphc6vrtIgRtwaTFOO4E"
+    },
+    {
+      "album": {
         "name": "If You Were Mine",
         "url": "https://open.spotify.com/album/0O8mBcnG7nKSN6LEgfLrYw"
       },
@@ -1702,7 +1756,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 212368,
       "name": "Illbealright",
       "url": "https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha"
@@ -1916,6 +1970,24 @@
       "duration_ms": 195000,
       "name": "Kitchen",
       "url": "https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD"
+    },
+    {
+      "album": {
+        "name": "LA (\u0644\u0627)",
+        "url": "https://open.spotify.com/album/1Alkct9C7loHYfTxYonwrk"
+      },
+      "artists": [
+        {
+          "name": "GODRUN",
+          "url": "https://open.spotify.com/artist/7Gn6GAt5IPYsEmGYVhc0yc"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147343,
+      "name": "LA (\u0644\u0627)",
+      "url": "https://open.spotify.com/track/3Kj7uJJ1R4lf7axD772aK3"
     },
     {
       "album": {
@@ -2175,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Made For Me",
+        "url": "https://open.spotify.com/album/3Y1iiU711siPApv6AgW41S"
+      },
+      "artists": [
+        {
+          "name": "PINS3Y",
+          "url": "https://open.spotify.com/artist/3OwkZqr5cHnzGkSvuxWR8u"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279148,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/1bOtt0UybwLqlAx8ZIENRp"
+    },
+    {
+      "album": {
         "name": "Magnesium",
         "url": "https://open.spotify.com/album/4EmTcy8IQD4PDLyj5KoUAk"
       },
@@ -2186,7 +2276,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 153688,
       "name": "Magnesium",
       "url": "https://open.spotify.com/track/4eapcfPXRl0kRoFOrJl0On"
@@ -2208,6 +2298,24 @@
       "duration_ms": 137813,
       "name": "Make You Happier",
       "url": "https://open.spotify.com/track/6xVx5EPRRQ75DuNq24ghkt"
+    },
+    {
+      "album": {
+        "name": "Malet",
+        "url": "https://open.spotify.com/album/3BgQk5FH2NVhZPuwENJkrC"
+      },
+      "artists": [
+        {
+          "name": "Magnum Ghandour",
+          "url": "https://open.spotify.com/artist/5T3giGmVehmKzgYFg2W9LJ"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201535,
+      "name": "Malet",
+      "url": "https://open.spotify.com/track/1byU3My7AALXDnwSHM2ZRQ"
     },
     {
       "album": {
@@ -2699,6 +2807,28 @@
     },
     {
       "album": {
+        "name": "Nuba",
+        "url": "https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        },
+        {
+          "name": "Rotation",
+          "url": "https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248633,
+      "name": "Nuba",
+      "url": "https://open.spotify.com/track/5Rww2ayeOPenb1neGq4fV3"
+    },
+    {
+      "album": {
         "name": "nVr Mind",
         "url": "https://open.spotify.com/album/7Awre3qsiQ0JrUS5XVwW1x"
       },
@@ -2836,10 +2966,28 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 322500,
       "name": "One Memory",
       "url": "https://open.spotify.com/track/13tITmvKakoCoppUnggKX8"
+    },
+    {
+      "album": {
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/2turDZhxP6QKKc7muFDYyI"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162272,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/0BspGNZnyQrXEahQO7HYt6"
     },
     {
       "album": {
@@ -3154,7 +3302,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 217731,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko"
@@ -3245,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/4OY6ClZ57h5wcMsMW5AP0x"
+      },
+      "artists": [
+        {
+          "name": "Walgz",
+          "url": "https://open.spotify.com/artist/50gLwM6cfifBxgrML3Q0IT"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169541,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/3tGvGTzLKSj4gritfFAYYh"
+    },
+    {
+      "album": {
         "name": "Sawt El Aleb",
         "url": "https://open.spotify.com/album/65uxLg1sz6E9ZIomWT5auS"
       },
@@ -3256,7 +3422,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 228704,
       "name": "Sawt El Aleb",
       "url": "https://open.spotify.com/track/5RMIlXSlKaQn4v4KLLO68Z"
@@ -3336,6 +3502,24 @@
       "duration_ms": 179846,
       "name": "Serdab",
       "url": "https://open.spotify.com/track/63gRTsaJBdsmGeC6Lijs0Z"
+    },
+    {
+      "album": {
+        "name": "SESSION 739 (25%)",
+        "url": "https://open.spotify.com/album/7FHQIbYrgTgbrs8sGWa7Te"
+      },
+      "artists": [
+        {
+          "name": "Tac",
+          "url": "https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130075,
+      "name": "SESSION 739 (25%)",
+      "url": "https://open.spotify.com/track/7I5N0Zqq2or3Am9tPn5tt8"
     },
     {
       "album": {
@@ -3880,7 +4064,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 171783,
       "name": "Toss & Turn",
       "url": "https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE"
@@ -3952,7 +4136,7 @@
       ],
       "date_added": "2023-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 155200,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/2MrJjA7IsGMImbA6qwhCiW"
@@ -4227,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/4RVqVo22yiOjjyb07dZvmh"
+      },
+      "artists": [
+        {
+          "name": "Ghita Askari",
+          "url": "https://open.spotify.com/artist/6CdVgCCzJoLF4ijz2o7iE1"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256185,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/7xYfaaut5INqsSL0gWdvq2"
+    },
+    {
+      "album": {
         "name": "ZIK",
         "url": "https://open.spotify.com/album/1XnTTW2lDUzhq1WmSkOu9o"
       },
@@ -4242,6 +4444,24 @@
       "duration_ms": 259721,
       "name": "ZIK",
       "url": "https://open.spotify.com/track/2KtjMjvG5ZMRlKTpFQB4eJ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+        "url": "https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE"
+      },
+      "artists": [
+        {
+          "name": "Connan",
+          "url": "https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126101,
+      "name": "\u0627\u0644\u062d\u0642\u064a\u0642\u0629",
+      "url": "https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb"
     },
     {
       "album": {

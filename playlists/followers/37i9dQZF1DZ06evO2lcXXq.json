@@ -1,298 +1,1077 @@
 {
-  "2023-03-11": 19,
-  "2023-03-12": 37,
-  "2023-03-13": 42,
-  "2023-03-14": 59,
-  "2023-03-15": 333687,
-  "2023-03-16": 333687,
-  "2023-03-17": 333687,
-  "2023-03-18": 335493,
-  "2023-03-19": 335493,
-  "2023-03-20": 335661,
-  "2023-03-21": 335737,
-  "2023-03-22": 335828,
-  "2023-03-23": 335903,
-  "2023-03-24": 335903,
-  "2023-03-25": 336084,
-  "2023-03-26": 336189,
-  "2023-03-27": 336274,
-  "2023-03-28": 336358,
-  "2023-03-29": 336481,
-  "2023-03-30": 336819,
-  "2023-03-31": 336819,
-  "2023-04-01": 336946,
-  "2023-04-02": 337052,
-  "2023-04-03": 337142,
-  "2023-04-04": 337242,
-  "2023-04-05": 337346,
-  "2023-04-06": 337436,
-  "2023-04-07": 337527,
-  "2023-04-09": 337762,
-  "2023-04-10": 337886,
-  "2023-04-11": 338064,
-  "2023-04-12": 338064,
-  "2023-04-13": 338147,
-  "2023-04-14": 338217,
-  "2023-04-15": 338317,
-  "2023-04-16": 338399,
-  "2023-04-17": 338496,
-  "2023-04-18": 338566,
-  "2023-04-19": 338656,
-  "2023-04-20": 338756,
-  "2023-04-21": 338843,
-  "2023-04-22": 338974,
-  "2023-04-23": 339050,
-  "2023-04-24": 339141,
-  "2023-04-25": 339213,
-  "2023-04-26": 339306,
-  "2023-04-27": 339380,
-  "2023-04-28": 339443,
-  "2023-04-29": 339505,
-  "2023-04-30": 339580,
-  "2023-05-01": 339644,
-  "2023-05-02": 339723,
-  "2023-05-03": 339784,
-  "2023-05-04": 339873,
-  "2023-05-05": 339934,
-  "2023-05-06": 340005,
-  "2023-05-07": 340080,
-  "2023-05-08": 340149,
-  "2023-05-09": 340224,
-  "2023-05-10": 340287,
-  "2023-05-11": 340359,
-  "2023-05-12": 340434,
-  "2023-05-13": 340516,
-  "2023-05-14": 340597,
-  "2023-05-15": 340669,
-  "2023-05-16": 340750,
-  "2023-05-17": 340827,
-  "2023-05-18": 340896,
-  "2023-05-19": 340951,
-  "2023-05-20": 341106,
-  "2023-05-21": 341106,
-  "2023-05-22": 341106,
-  "2023-05-23": 341442,
-  "2023-05-24": 341590,
-  "2023-05-25": 341608,
-  "2023-05-26": 341671,
-  "2023-05-27": 341770,
-  "2023-05-28": 341842,
-  "2023-05-29": 341842,
-  "2023-05-30": 342005,
-  "2023-05-31": 342069,
-  "2023-06-01": 342124,
-  "2023-06-02": 342208,
-  "2023-06-03": 342276,
-  "2023-06-04": 342352,
-  "2023-06-05": 342453,
-  "2023-06-06": 342534,
-  "2023-06-07": 342612,
-  "2023-06-08": 342735,
-  "2023-06-09": 342835,
-  "2023-06-10": 342936,
-  "2023-06-11": 343007,
-  "2023-06-12": 343096,
-  "2023-06-13": 343165,
-  "2023-06-14": 343253,
-  "2023-06-15": 343345,
-  "2023-06-16": 343440,
-  "2023-06-17": 343533,
-  "2023-06-18": 343592,
-  "2023-06-19": 343686,
-  "2023-06-20": 343775,
-  "2023-06-21": 343857,
-  "2023-06-22": 343946,
-  "2023-06-23": 344036,
-  "2023-06-24": 344123,
-  "2023-06-25": 344219,
-  "2023-06-26": 344316,
-  "2023-06-27": 344371,
-  "2023-06-28": 344461,
-  "2023-06-29": 344521,
-  "2023-06-30": 344598,
-  "2023-07-01": 344735,
-  "2023-07-02": 344735,
-  "2023-07-03": 344801,
-  "2023-07-04": 344871,
-  "2023-07-05": 344922,
-  "2023-07-06": 345058,
-  "2023-07-07": 345058,
-  "2023-07-08": 345058,
-  "2023-07-09": 345201,
-  "2023-07-10": 345290,
-  "2023-07-11": 345372,
-  "2023-07-12": 345455,
-  "2023-07-13": 345538,
-  "2023-07-14": 345612,
-  "2023-07-15": 345669,
-  "2023-07-16": 345770,
-  "2023-07-17": 345853,
-  "2023-07-18": 345933,
-  "2023-07-19": 345986,
-  "2023-07-20": 346045,
-  "2023-07-21": 346099,
-  "2023-07-22": 346188,
-  "2023-07-23": 346260,
-  "2023-07-24": 346334,
-  "2023-07-25": 346394,
-  "2023-07-26": 346447,
-  "2023-07-27": 346526,
-  "2023-07-28": 346600,
-  "2023-07-29": 346676,
-  "2023-07-30": 346753,
-  "2023-07-31": 346832,
-  "2023-08-01": 346902,
-  "2023-08-02": 346945,
-  "2023-08-03": 347002,
-  "2023-08-04": 347064,
-  "2023-08-05": 347142,
-  "2023-08-06": 347281,
-  "2023-08-07": 347281,
-  "2023-08-08": 347337,
-  "2023-08-09": 347403,
-  "2023-08-10": 347476,
-  "2023-08-11": 347547,
-  "2023-08-12": 347547,
-  "2023-08-13": 347547,
-  "2023-08-14": 347749,
-  "2023-08-15": 347749,
-  "2023-08-16": 347749,
-  "2023-08-17": 347749,
-  "2023-08-18": 347749,
-  "2023-08-19": 347749,
-  "2023-08-20": 348173,
-  "2023-08-21": 348173,
-  "2023-08-22": 348305,
-  "2023-08-23": 348305,
-  "2023-08-24": 348305,
-  "2023-08-25": 348305,
-  "2023-08-26": 348548,
-  "2023-08-27": 348548,
-  "2023-08-28": 348672,
-  "2023-08-29": 348672,
-  "2023-08-30": 348672,
-  "2023-08-31": 348842,
-  "2023-09-01": 348909,
-  "2023-09-02": 348909,
-  "2023-09-03": 348909,
-  "2023-09-04": 348909,
-  "2023-09-05": 348909,
-  "2023-09-06": 348909,
-  "2023-09-07": 348909,
-  "2023-09-08": 348909,
-  "2023-09-09": 348909,
-  "2023-09-10": 349521,
-  "2023-09-11": 349521,
-  "2023-09-12": 349521,
-  "2023-09-13": 349521,
-  "2023-09-14": 349521,
-  "2023-09-15": 349521,
-  "2023-09-16": 349925,
-  "2023-09-17": 349925,
-  "2023-09-18": 349925,
-  "2023-09-19": 350128,
-  "2023-09-20": 350128,
-  "2023-09-21": 350128,
-  "2023-09-22": 350273,
-  "2023-09-23": 350273,
-  "2023-09-24": 350273,
-  "2023-09-25": 350273,
-  "2023-09-26": 350512,
-  "2023-09-27": 350512,
-  "2023-09-28": 350512,
-  "2023-09-29": 350512,
-  "2023-09-30": 350512,
-  "2023-10-01": 350512,
-  "2023-10-02": 350512,
-  "2023-10-03": 350512,
-  "2023-10-04": 350512,
-  "2023-10-05": 350512,
-  "2023-10-06": 350512,
-  "2023-10-07": 350512,
-  "2023-10-08": 350512,
-  "2023-10-09": 350512,
-  "2023-10-10": 350512,
-  "2023-10-11": 351120,
-  "2023-10-12": 351120,
-  "2023-10-13": 351120,
-  "2023-10-14": 351120,
-  "2023-10-15": 351120,
-  "2023-10-16": 351120,
-  "2023-10-17": 351120,
-  "2023-10-18": 351120,
-  "2023-10-19": 351120,
-  "2023-10-20": 351120,
-  "2023-10-21": 351120,
-  "2023-10-22": 351120,
-  "2023-10-23": 351120,
-  "2023-10-24": 351120,
-  "2023-10-25": 351120,
-  "2023-10-26": 351120,
-  "2023-10-27": 351120,
-  "2023-10-28": 351120,
-  "2023-10-29": 351120,
-  "2023-10-30": 351120,
-  "2023-10-31": 351120,
-  "2023-11-01": 351120,
-  "2023-11-02": 351120,
-  "2023-11-03": 351120,
-  "2023-11-04": 351120,
-  "2023-11-05": 351120,
-  "2023-11-06": 351120,
-  "2023-11-07": 351120,
-  "2023-11-08": 351120,
-  "2023-11-09": 351120,
-  "2023-11-10": 351120,
-  "2023-11-11": 352618,
-  "2023-11-12": 352618,
-  "2023-11-13": 352618,
-  "2023-11-14": 352618,
-  "2023-11-15": 352618,
-  "2023-11-16": 352618,
-  "2023-11-17": 352618,
-  "2023-11-18": 352618,
-  "2023-11-19": 352618,
-  "2023-11-20": 352618,
-  "2023-11-21": 352618,
-  "2023-11-22": 352618,
-  "2023-11-23": 352618,
-  "2023-11-24": 352618,
-  "2023-11-25": 352618,
-  "2023-11-26": 352618,
-  "2023-11-27": 352618,
-  "2023-11-28": 352618,
-  "2023-11-29": 352618,
-  "2023-11-30": 352618,
-  "2023-12-01": 352618,
-  "2023-12-02": 352618,
-  "2023-12-03": 352618,
-  "2023-12-04": 352618,
-  "2023-12-05": 352618,
-  "2023-12-06": 352618,
-  "2023-12-07": 352618,
-  "2023-12-08": 352618,
-  "2023-12-09": 352618,
-  "2023-12-10": 352618,
-  "2023-12-11": 352618,
-  "2023-12-12": 352618,
-  "2023-12-13": 352618,
-  "2023-12-14": 353973,
-  "2023-12-15": 353981,
-  "2023-12-16": 354010,
-  "2023-12-17": 354042,
-  "2023-12-18": 354068,
-  "2023-12-19": 354087,
-  "2023-12-20": 354107,
-  "2023-12-21": 354136,
-  "2023-12-22": 354157,
-  "2023-12-23": 354208,
-  "2023-12-24": 354248,
-  "2023-12-25": 354251,
-  "2023-12-26": 354276,
-  "2023-12-27": 354284,
-  "2023-12-30": 354413,
-  "2023-12-31": 354447,
-  "2024-01-01": 354486,
-  "2024-01-02": 354514,
-  "2024-01-03": 354540
+  "2024-01-17": 354410,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
+  "name": "This Is Lauren Daigle",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200305,
+      "name": "21 Days",
+      "url": "https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN"
+    },
+    {
+      "album": {
+        "name": "Departures",
+        "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
+      },
+      "artists": [
+        {
+          "name": "Jon Foreman",
+          "url": "https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243533,
+      "name": "A Place Called Earth",
+      "url": "https://open.spotify.com/track/4NUtKsTfiLOdgZDlwE07dN"
+    },
+    {
+      "album": {
+        "name": "Almost Human (from the Original Motion Picture Soundtrack Blade Runner 2049)",
+        "url": "https://open.spotify.com/album/1X5V3BzjJZ2tge9pWwNe5z"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 202347,
+      "name": "Almost Human - from the Original Motion Picture Soundtrack Blade Runner 2049",
+      "url": "https://open.spotify.com/track/1dVWjFxNtwdWf3IftD4fCH"
+    },
+    {
+      "album": {
+        "name": "Back To God",
+        "url": "https://open.spotify.com/album/3bv8C2TkfaU1hhqu7E1OUl"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "Back To God",
+      "url": "https://open.spotify.com/track/17na7DhhBLsajSS7Vb38Fe"
+    },
+    {
+      "album": {
+        "name": "Be Okay",
+        "url": "https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 208965,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208965,
+      "name": "Be Okay",
+      "url": "https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi"
+    },
+    {
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
+    },
+    {
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308920,
+      "name": "Close - Live",
+      "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235226,
+      "name": "Come Alive (Dry Bones)",
+      "url": "https://open.spotify.com/track/0cc2WXV2i8Jl3LhPKlZho1"
+    },
+    {
+      "album": {
+        "name": "Come Back Home",
+        "url": "https://open.spotify.com/album/3BbHn9RSO1fDcwDC6syUxP"
+      },
+      "artists": [
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179853,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5qpEtUsEI1VkG63MNlRrAC"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 226961,
+      "name": "Don't Believe Them",
+      "url": "https://open.spotify.com/track/0ovV7C3OTmumkPkeo6O5qm"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273506,
+      "name": "Don't Dream It's Over - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 208709,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/3W2SRx2t7UXRWqkV0qW30U"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228373,
+      "name": "First",
+      "url": "https://open.spotify.com/track/78lhRaXPbHIlpJBHjw8MJa"
+    },
+    {
+      "album": {
+        "name": "The Shack: Music From and Inspired By the Original Motion Picture",
+        "url": "https://open.spotify.com/album/40JDNqFUzKmBSMEfDHPztO"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217693,
+      "name": "HARD LOVE (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/4ahfLYf0VLVVvN3sdOyQN2"
+    },
+    {
+      "album": {
+        "name": "Hold On To Me",
+        "url": "https://open.spotify.com/album/3nG6F5yVPJubWNP5dp24b2"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185346,
+      "name": "Hold On To Me",
+      "url": "https://open.spotify.com/track/5tnRnYnQIm9iJCraZGpOJp"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238026,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
+    },
+    {
+      "album": {
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+      },
+      "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+    },
+    {
+      "album": {
+        "name": "North Point Music: Beginnings",
+        "url": "https://open.spotify.com/album/2nUPCwoRsqH34xEPzg0OtA"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250186,
+      "name": "It Is Well",
+      "url": "https://open.spotify.com/track/2tEzz6a8TkScfoKYz5OY8Y"
+    },
+    {
+      "album": {
+        "name": "Light of the World",
+        "url": "https://open.spotify.com/album/3ZGUn2HIrvuerquXBLLKBB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 259720,
+      "name": "Light of the World",
+      "url": "https://open.spotify.com/track/1u3uHNw5klnbBFFhZQKg18"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "Look Up Child",
+      "url": "https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254986,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
+    },
+    {
+      "album": {
+        "name": "New",
+        "url": "https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK"
+    },
+    {
+      "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192933,
+      "name": "Now is Forever - Bonus Track",
+      "url": "https://open.spotify.com/track/6k1RI3mXEvCZtSWNvywLXp"
+    },
+    {
+      "album": {
+        "name": "O' Lord (Radio Version)",
+        "url": "https://open.spotify.com/album/5NT627KAFeQP8g6zXPl3Iy"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210386,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/357bDEZq4rcIFHPiaS8HwP"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 255520,
+      "name": "Once and for All",
+      "url": "https://open.spotify.com/track/4EaGCr9Q4ztV8yAkpK5zNc"
+    },
+    {
+      "album": {
+        "name": "All The Earth (Live)",
+        "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 486944,
+      "name": "Peace Be Still - Live",
+      "url": "https://open.spotify.com/track/3QgqMVZdqHdY8e7r7IUBww"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225240,
+      "name": "Power to Redeem (feat. All Sons & Daughters)",
+      "url": "https://open.spotify.com/track/5TpThpilfTOSkbCTXkhGsP"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238600,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/5qA5acnPNB7v1vdZdbA0lA"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Dices / Rescata",
+        "url": "https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215386,
+      "name": "Rescata",
+      "url": "https://open.spotify.com/track/1pnxPNMoofeCPhXvukMtHo"
+    },
+    {
+      "album": {
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316666,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0rbCIePwNYXpvD451ihkVO"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215613,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 257713,
+      "name": "Saint Ferdinand (feat. Jon Batiste & Natalie Hemby)",
+      "url": "https://open.spotify.com/track/4QBCy9CsTEsPtCBxPYedVV"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248386,
+      "name": "Still Rolling Stones",
+      "url": "https://open.spotify.com/track/2tXZxXmknsaVTNTaCvnlx8"
+    },
+    {
+      "album": {
+        "name": "Thank God I Do",
+        "url": "https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258812,
+      "name": "Thank God I Do",
+      "url": "https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 211160,
+      "name": "To Know Me",
+      "url": "https://open.spotify.com/track/6Vxz9qvJdej63DrR8othbd"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "To Know Me",
+      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
+    },
+    {
+      "album": {
+        "name": "Tremble",
+        "url": "https://open.spotify.com/album/6XFGEg3EfV8PFqOUjs8Yvx"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299453,
+      "name": "Tremble",
+      "url": "https://open.spotify.com/track/0RGIthuwU7fubTalnVc5fl"
+    },
+    {
+      "album": {
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211600,
+      "name": "Trust in You",
+      "url": "https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213912,
+      "name": "Turbulent Skies",
+      "url": "https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY"
+    },
+    {
+      "album": {
+        "name": "Turbulent Skies",
+        "url": "https://open.spotify.com/album/27zbqfUetrh5e2epWvEFyV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 193357,
+      "name": "Turbulent Skies - Single Edit",
+      "url": "https://open.spotify.com/track/7h9Lso97nXeDvbkhmqOYkp"
+    },
+    {
+      "album": {
+        "name": "T\u00fa Dices / Rescata",
+        "url": "https://open.spotify.com/album/51Zco9WTUFDhcIM2elZbLm"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273031,
+      "name": "T\u00fa Dices",
+      "url": "https://open.spotify.com/track/54QrUOoUEddh6h0ITdSqGu"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 269561,
+      "name": "Valuable",
+      "url": "https://open.spotify.com/track/1QhuCjLdpFL5E9it7GxDcW"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-06-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 191895,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/0QmkHD9xmSFNb0y5C9cqxN"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 191895,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/1vzInuUvpmqKFwe289blUH"
+    },
+    {
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191895,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/26WwwFoWQCkNWT0SI1IFHL"
+    },
+    {
+      "album": {
+        "name": "What It Takes",
+        "url": "https://open.spotify.com/album/4GemvvqS3Pl9za8Y3ohghJ"
+      },
+      "artists": [
+        {
+          "name": "Trombone Shorty",
+          "url": "https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 226584,
+      "name": "What It Takes (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/6fjzXoKC1ULC660aNq1zOO"
+    },
+    {
+      "album": {
+        "name": "How Can It Be (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6dFgl9xvP6Rd0vWL1mm1Zo"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225760,
+      "name": "Wordless - Bonus Track",
+      "url": "https://open.spotify.com/track/414Q498RCMr1w3QZOldpEt"
+    },
+    {
+      "album": {
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+      },
+      "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364586,
+      "name": "You Alone - Live",
+      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
+    },
+    {
+      "album": {
+        "name": "Come Alive: Live from the CentricWorship Retreat",
+        "url": "https://open.spotify.com/album/0xykGjnTLmnd9DfMTTkJ12"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225680,
+      "name": "You Have My Surrender (Live)",
+      "url": "https://open.spotify.com/track/3PJQp0I22d2k12pnrLMRQ9"
+    },
+    {
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lcXXq"
 }

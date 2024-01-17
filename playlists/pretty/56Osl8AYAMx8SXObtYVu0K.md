@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56Osl8AYAMx8SXObtYVu0K.md) - [plain]
 
 > KARENTレーベルで配信中の楽曲の中から、バレンタインに聴きたい楽曲を選曲！
 
-[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 39 likes - 24 songs - 1 hr 34 min
+[KARENT official](https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd) - 38 likes - 24 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,430 +1,1521 @@
 {
-  "2022-10-29": 30155,
-  "2022-10-30": 30165,
-  "2022-10-31": 30172,
-  "2022-11-01": 30185,
-  "2022-11-02": 30196,
-  "2022-11-03": 30197,
-  "2022-11-04": 30200,
-  "2022-11-05": 30214,
-  "2022-11-06": 30228,
-  "2022-11-07": 30234,
-  "2022-11-08": 30247,
-  "2022-11-09": 30255,
-  "2022-11-10": 30273,
-  "2022-11-11": 30290,
-  "2022-11-12": 30315,
-  "2022-11-13": 30346,
-  "2022-11-14": 30368,
-  "2022-11-15": 30390,
-  "2022-11-16": 30417,
-  "2022-11-17": 30442,
-  "2022-11-18": 30457,
-  "2022-11-19": 30471,
-  "2022-11-20": 30513,
-  "2022-11-21": 30548,
-  "2022-11-22": 30584,
-  "2022-11-23": 30627,
-  "2022-11-24": 30678,
-  "2022-11-25": 30721,
-  "2022-11-26": 30755,
-  "2022-11-27": 30798,
-  "2022-11-28": 30832,
-  "2022-11-29": 30860,
-  "2022-11-30": 30882,
-  "2022-12-01": 30902,
-  "2022-12-02": 30916,
-  "2022-12-03": 30950,
-  "2022-12-04": 30980,
-  "2022-12-05": 31020,
-  "2022-12-06": 31043,
-  "2022-12-07": 31071,
-  "2022-12-08": 31092,
-  "2022-12-09": 31114,
-  "2022-12-10": 31124,
-  "2022-12-11": 31143,
-  "2022-12-12": 31149,
-  "2022-12-13": 31164,
-  "2022-12-14": 31182,
-  "2022-12-15": 31200,
-  "2022-12-16": 31214,
-  "2022-12-17": 31224,
-  "2022-12-18": 31250,
-  "2022-12-19": 31264,
-  "2022-12-20": 31299,
-  "2022-12-21": 31299,
-  "2022-12-22": 31312,
-  "2022-12-24": 31344,
-  "2022-12-25": 31374,
-  "2022-12-26": 31388,
-  "2022-12-27": 31414,
-  "2022-12-28": 31429,
-  "2022-12-29": 31447,
-  "2022-12-30": 31461,
-  "2022-12-31": 31498,
-  "2023-01-01": 31517,
-  "2023-01-02": 31537,
-  "2023-01-03": 31553,
-  "2023-01-04": 31564,
-  "2023-01-05": 31587,
-  "2023-01-06": 31605,
-  "2023-01-07": 31639,
-  "2023-01-08": 31645,
-  "2023-01-09": 31667,
-  "2023-01-10": 31686,
-  "2023-01-11": 31705,
-  "2023-01-12": 31729,
-  "2023-01-13": 31747,
-  "2023-01-14": 31778,
-  "2023-01-15": 31789,
-  "2023-01-16": 31809,
-  "2023-01-17": 31825,
-  "2023-01-18": 31853,
-  "2023-01-19": 31867,
-  "2023-01-20": 31889,
-  "2023-01-21": 31915,
-  "2023-01-22": 31945,
-  "2023-01-23": 31960,
-  "2023-01-24": 31985,
-  "2023-01-25": 32008,
-  "2023-01-26": 32019,
-  "2023-01-27": 32033,
-  "2023-01-28": 32051,
-  "2023-01-29": 32070,
-  "2023-01-30": 32089,
-  "2023-01-31": 32089,
-  "2023-02-01": 32133,
-  "2023-02-02": 32154,
-  "2023-02-03": 32173,
-  "2023-02-04": 32188,
-  "2023-02-05": 32211,
-  "2023-02-06": 32227,
-  "2023-02-07": 32255,
-  "2023-02-08": 32296,
-  "2023-02-09": 32296,
-  "2023-02-10": 32315,
-  "2023-02-11": 32333,
-  "2023-02-12": 32379,
-  "2023-02-13": 32392,
-  "2023-02-14": 32392,
-  "2023-02-15": 32401,
-  "2023-02-16": 32409,
-  "2023-02-17": 32440,
-  "2023-02-18": 32476,
-  "2023-02-19": 32480,
-  "2023-02-20": 32482,
-  "2023-02-21": 32499,
-  "2023-02-22": 32509,
-  "2023-02-23": 32521,
-  "2023-02-24": 32544,
-  "2023-02-25": 32579,
-  "2023-02-26": 32595,
-  "2023-02-27": 32627,
-  "2023-02-28": 32627,
-  "2023-03-01": 32644,
-  "2023-03-02": 32660,
-  "2023-03-03": 32686,
-  "2023-03-04": 32702,
-  "2023-03-05": 32740,
-  "2023-03-06": 32740,
-  "2023-03-07": 32762,
-  "2023-03-08": 32790,
-  "2023-03-09": 32813,
-  "2023-03-10": 32824,
-  "2023-03-11": 32846,
-  "2023-03-12": 32860,
-  "2023-03-13": 32877,
-  "2023-03-14": 32893,
-  "2023-03-15": 32913,
-  "2023-03-16": 32913,
-  "2023-03-17": 32913,
-  "2023-03-18": 32952,
-  "2023-03-19": 32952,
-  "2023-03-20": 32989,
-  "2023-03-21": 33004,
-  "2023-03-22": 33014,
-  "2023-03-23": 33032,
-  "2023-03-24": 33032,
-  "2023-03-25": 33067,
-  "2023-03-26": 33095,
-  "2023-03-27": 33106,
-  "2023-03-28": 33121,
-  "2023-03-29": 33141,
-  "2023-03-30": 33167,
-  "2023-03-31": 33167,
-  "2023-04-01": 33182,
-  "2023-04-02": 33197,
-  "2023-04-03": 33221,
-  "2023-04-04": 33233,
-  "2023-04-05": 33257,
-  "2023-04-06": 33285,
-  "2023-04-07": 33300,
-  "2023-04-09": 33347,
-  "2023-04-10": 33357,
-  "2023-04-11": 33398,
-  "2023-04-12": 33398,
-  "2023-04-13": 33417,
-  "2023-04-14": 33436,
-  "2023-04-15": 33455,
-  "2023-04-16": 33482,
-  "2023-04-17": 33508,
-  "2023-04-18": 33530,
-  "2023-04-19": 33555,
-  "2023-04-20": 33573,
-  "2023-04-21": 33594,
-  "2023-04-22": 33607,
-  "2023-04-23": 33620,
-  "2023-04-24": 33638,
-  "2023-04-25": 33653,
-  "2023-04-26": 33662,
-  "2023-04-27": 33674,
-  "2023-04-28": 33693,
-  "2023-04-29": 33724,
-  "2023-04-30": 33747,
-  "2023-05-01": 33768,
-  "2023-05-02": 33781,
-  "2023-05-03": 33790,
-  "2023-05-04": 33806,
-  "2023-05-05": 33827,
-  "2023-05-06": 33830,
-  "2023-05-07": 33842,
-  "2023-05-08": 33859,
-  "2023-05-09": 33876,
-  "2023-05-10": 33886,
-  "2023-05-11": 33900,
-  "2023-05-12": 33910,
-  "2023-05-13": 33940,
-  "2023-05-14": 33959,
-  "2023-05-15": 33975,
-  "2023-05-16": 33989,
-  "2023-05-17": 34004,
-  "2023-05-18": 34018,
-  "2023-05-19": 34030,
-  "2023-05-20": 34069,
-  "2023-05-21": 34069,
-  "2023-05-22": 34069,
-  "2023-05-23": 34116,
-  "2023-05-24": 34159,
-  "2023-05-25": 34166,
-  "2023-05-26": 34186,
-  "2023-05-27": 34202,
-  "2023-05-28": 34229,
-  "2023-05-29": 34229,
-  "2023-05-30": 34272,
-  "2023-05-31": 34289,
-  "2023-06-01": 34314,
-  "2023-06-02": 34330,
-  "2023-06-03": 34355,
-  "2023-06-04": 34382,
-  "2023-06-05": 34388,
-  "2023-06-06": 34412,
-  "2023-06-07": 34434,
-  "2023-06-08": 34448,
-  "2023-06-09": 34468,
-  "2023-06-10": 34494,
-  "2023-06-11": 34516,
-  "2023-06-12": 34538,
-  "2023-06-13": 34557,
-  "2023-06-14": 34577,
-  "2023-06-15": 34594,
-  "2023-06-16": 34616,
-  "2023-06-17": 34637,
-  "2023-06-18": 34674,
-  "2023-06-19": 34696,
-  "2023-06-20": 34719,
-  "2023-06-21": 34744,
-  "2023-06-22": 34772,
-  "2023-06-23": 34796,
-  "2023-06-24": 34815,
-  "2023-06-25": 34840,
-  "2023-06-26": 34863,
-  "2023-06-27": 34886,
-  "2023-06-28": 34900,
-  "2023-06-29": 34927,
-  "2023-06-30": 34946,
-  "2023-07-01": 34981,
-  "2023-07-02": 34981,
-  "2023-07-03": 34996,
-  "2023-07-04": 35020,
-  "2023-07-05": 35037,
-  "2023-07-06": 35073,
-  "2023-07-07": 35073,
-  "2023-07-08": 35073,
-  "2023-07-09": 35113,
-  "2023-07-10": 35119,
-  "2023-07-11": 35133,
-  "2023-07-12": 35148,
-  "2023-07-13": 35161,
-  "2023-07-14": 35186,
-  "2023-07-15": 35197,
-  "2023-07-16": 35225,
-  "2023-07-17": 35250,
-  "2023-07-18": 35270,
-  "2023-07-19": 35290,
-  "2023-07-20": 35290,
-  "2023-07-21": 35314,
-  "2023-07-22": 35332,
-  "2023-07-23": 35344,
-  "2023-07-24": 35353,
-  "2023-07-25": 35367,
-  "2023-07-26": 35379,
-  "2023-07-27": 35397,
-  "2023-07-28": 35406,
-  "2023-07-29": 35426,
-  "2023-07-30": 35449,
-  "2023-07-31": 35464,
-  "2023-08-01": 35477,
-  "2023-08-02": 35500,
-  "2023-08-03": 35525,
-  "2023-08-04": 35545,
-  "2023-08-05": 35569,
-  "2023-08-06": 35603,
-  "2023-08-07": 35603,
-  "2023-08-08": 35626,
-  "2023-08-09": 35640,
-  "2023-08-10": 35659,
-  "2023-08-11": 35664,
-  "2023-08-12": 35664,
-  "2023-08-13": 35664,
-  "2023-08-14": 35713,
-  "2023-08-15": 35713,
-  "2023-08-16": 35713,
-  "2023-08-17": 35713,
-  "2023-08-18": 35713,
-  "2023-08-19": 35713,
-  "2023-08-20": 35827,
-  "2023-08-21": 35827,
-  "2023-08-22": 35864,
-  "2023-08-23": 35864,
-  "2023-08-24": 35864,
-  "2023-08-25": 35864,
-  "2023-08-26": 35958,
-  "2023-08-27": 35958,
-  "2023-08-28": 35998,
-  "2023-08-29": 35998,
-  "2023-08-30": 35998,
-  "2023-08-31": 36045,
-  "2023-09-01": 36064,
-  "2023-09-02": 36064,
-  "2023-09-03": 36064,
-  "2023-09-04": 36064,
-  "2023-09-05": 36064,
-  "2023-09-06": 36064,
-  "2023-09-07": 36064,
-  "2023-09-08": 36064,
-  "2023-09-09": 36064,
-  "2023-09-10": 36064,
-  "2023-09-11": 36064,
-  "2023-09-12": 36064,
-  "2023-09-13": 36064,
-  "2023-09-14": 36064,
-  "2023-09-15": 36064,
-  "2023-09-16": 36300,
-  "2023-09-17": 36300,
-  "2023-09-18": 36300,
-  "2023-09-19": 36345,
-  "2023-09-20": 36345,
-  "2023-09-21": 36345,
-  "2023-09-22": 36402,
-  "2023-09-23": 36402,
-  "2023-09-24": 36402,
-  "2023-09-25": 36402,
-  "2023-09-26": 36465,
-  "2023-09-27": 36465,
-  "2023-09-28": 36465,
-  "2023-09-29": 36465,
-  "2023-09-30": 36465,
-  "2023-10-01": 36465,
-  "2023-10-02": 36465,
-  "2023-10-03": 36465,
-  "2023-10-04": 36465,
-  "2023-10-05": 36465,
-  "2023-10-06": 36465,
-  "2023-10-07": 36465,
-  "2023-10-08": 36465,
-  "2023-10-09": 36465,
-  "2023-10-10": 36465,
-  "2023-10-11": 36676,
-  "2023-10-12": 36676,
-  "2023-10-13": 36676,
-  "2023-10-14": 36676,
-  "2023-10-15": 36676,
-  "2023-10-16": 36676,
-  "2023-10-17": 36676,
-  "2023-10-18": 36676,
-  "2023-10-19": 36676,
-  "2023-10-20": 36676,
-  "2023-10-21": 36676,
-  "2023-10-22": 36676,
-  "2023-10-23": 36676,
-  "2023-10-24": 36676,
-  "2023-10-25": 36676,
-  "2023-10-26": 36676,
-  "2023-10-27": 36676,
-  "2023-10-28": 36676,
-  "2023-10-29": 36676,
-  "2023-10-30": 36676,
-  "2023-10-31": 36676,
-  "2023-11-01": 36676,
-  "2023-11-02": 36676,
-  "2023-11-03": 36676,
-  "2023-11-04": 36676,
-  "2023-11-05": 36676,
-  "2023-11-06": 36676,
-  "2023-11-07": 36676,
-  "2023-11-08": 36676,
-  "2023-11-09": 36676,
-  "2023-11-10": 36676,
-  "2023-11-11": 37028,
-  "2023-11-12": 37028,
-  "2023-11-13": 37028,
-  "2023-11-14": 37028,
-  "2023-11-15": 37028,
-  "2023-11-16": 37028,
-  "2023-11-17": 37028,
-  "2023-11-18": 37028,
-  "2023-11-19": 37028,
-  "2023-11-20": 37028,
-  "2023-11-21": 37028,
-  "2023-11-22": 37028,
-  "2023-11-23": 37028,
-  "2023-11-24": 37028,
-  "2023-11-25": 37028,
-  "2023-11-26": 37028,
-  "2023-11-27": 37028,
-  "2023-11-28": 37028,
-  "2023-11-29": 37028,
-  "2023-11-30": 37028,
-  "2023-12-01": 37028,
-  "2023-12-02": 37028,
-  "2023-12-03": 37028,
-  "2023-12-04": 37028,
-  "2023-12-05": 37028,
-  "2023-12-06": 37028,
-  "2023-12-07": 37028,
-  "2023-12-08": 37028,
-  "2023-12-09": 37028,
-  "2023-12-10": 37028,
-  "2023-12-11": 37028,
-  "2023-12-12": 37028,
-  "2023-12-13": 37028,
-  "2023-12-14": 37305,
-  "2023-12-15": 37309,
-  "2023-12-16": 37310,
-  "2023-12-17": 37324,
-  "2023-12-18": 37327,
-  "2023-12-19": 37337,
-  "2023-12-20": 37342,
-  "2023-12-21": 37356,
-  "2023-12-22": 37359,
-  "2023-12-23": 37378,
-  "2023-12-24": 37387,
-  "2023-12-25": 37392,
-  "2023-12-26": 37401,
-  "2023-12-27": 37409,
-  "2023-12-30": 37446,
-  "2023-12-31": 37469,
-  "2024-01-01": 37475,
-  "2024-01-02": 37486,
-  "2024-01-03": 37481
+  "2024-01-17": 37616,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Saweetie. The essential tracks, all in one playlist.",
+  "name": "This Is Saweetie",
+  "tracks": [
+    {
+      "album": {
+        "name": "K.R.I.T. IZ HERE",
+        "url": "https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169944,
+      "name": "Addiction (feat. Lil Wayne & Saweetie)",
+      "url": "https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv"
+    },
+    {
+      "album": {
+        "name": "K.R.I.T. IZ HERE",
+        "url": "https://open.spotify.com/album/1KvZT4NZm69EkOym8rLqW1"
+      },
+      "artists": [
+        {
+          "name": "Big K.R.I.T.",
+          "url": "https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 169944,
+      "name": "Addiction (feat. Lil Wayne & Saweetie)",
+      "url": "https://open.spotify.com/track/6iIQFnknhqitV3qJXICseF"
+    },
+    {
+      "album": {
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "album": {
+        "name": "B*tch From Da Souf (Remix)",
+        "url": "https://open.spotify.com/album/3o03DZkcxR0OzpsPArhDxy"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "Trina",
+          "url": "https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224119,
+      "name": "B*tch From Da Souf (Remix)",
+      "url": "https://open.spotify.com/track/2zUbimuKNWDMCwbqNauLWV"
+    },
+    {
+      "album": {
+        "name": "Public Displays Of Affection: The Album",
+        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152241,
+      "name": "Baby Boo",
+      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+    },
+    {
+      "album": {
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 152241,
+      "name": "Baby Boo (with Saweetie)",
+      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
+    },
+    {
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Lourdiz",
+          "url": "https://open.spotify.com/artist/54nb7VPvMgQEW6pC9Mz0an"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "Back Seat",
+      "url": "https://open.spotify.com/track/21aTMDYavtB0mi9Bkc8UrQ"
+    },
+    {
+      "album": {
+        "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+        "url": "https://open.spotify.com/album/5Qg2XXhV3sxOgfbXtAhU3N"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189496,
+      "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
+      "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "album": {
+        "name": "Baila Conmigo",
+        "url": "https://open.spotify.com/album/3pcIJIuMpyw7L2fxGETbzk"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 155866,
+      "name": "Baila Conmigo",
+      "url": "https://open.spotify.com/track/2sJHeAvFZ58o3Z6CB56EdU"
+    },
+    {
+      "album": {
+        "name": "Best Friend (feat. Doja Cat)",
+        "url": "https://open.spotify.com/album/28Yv9BE6ZI6dccK0sxbEq4"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155883,
+      "name": "Best Friend (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/2etHQJxIbV0soyPhelVs9Y"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/74DRp3ZapBKDdPmZ0zMc74"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/1upSmzMw8d6DfAYkgXSCQ5"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/5pYIALUa0XecJLrch7EJpl"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 175112,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/2D5ypcnrsnwxH2cWwfiNi6"
+    },
+    {
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134760,
+      "name": "BO$$ CHICK",
+      "url": "https://open.spotify.com/track/0FAKS4dY2MADctcsPbmUvm"
+    },
+    {
+      "album": {
+        "name": "Blockedt",
+        "url": "https://open.spotify.com/album/0yOjdUvQxbkIHZGwvCDXMe"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136508,
+      "name": "Bussin 2.0",
+      "url": "https://open.spotify.com/track/7f6IbVQGsCVocy1n1Amp9t"
+    },
+    {
+      "album": {
+        "name": "Bussin 2.0 (with Saweetie)",
+        "url": "https://open.spotify.com/album/5IugVRf3MX2fKszvy4Eyt5"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 136508,
+      "name": "Bussin 2.0 (with Saweetie)",
+      "url": "https://open.spotify.com/track/6xkbKc532RwCOQzcYlu7y4"
+    },
+    {
+      "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "album": {
+        "name": "Closer (Remix)",
+        "url": "https://open.spotify.com/album/1FmGhe79Csw8lfBMa0QBag"
+      },
+      "artists": [
+        {
+          "name": "Museekal",
+          "url": "https://open.spotify.com/artist/4gt6bXbC0BlAvjc46zBpMS"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-27",
+      "duration_ms": 178909,
+      "name": "Closer - Remix",
+      "url": "https://open.spotify.com/track/68BKZi6RpZ8DDq8nBZCFCJ"
+    },
+    {
+      "album": {
+        "name": "Between Us (The Mixers Edition)",
+        "url": "https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185374,
+      "name": "Confetti (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/4oXV7uPMrMNSZfLMYtiqIX"
+    },
+    {
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 169409,
+      "name": "Dipped In Ice",
+      "url": "https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR"
+    },
+    {
+      "album": {
+        "name": "DON'T SAY NOTHIN'",
+        "url": "https://open.spotify.com/album/1lcQCI355q0dW7gCrIs5x3"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187172,
+      "name": "DON'T SAY NOTHIN'",
+      "url": "https://open.spotify.com/track/71OhlyZmlUaJ1yL20SR372"
+    },
+    {
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190428,
+      "name": "Emotional (feat. Quavo)",
+      "url": "https://open.spotify.com/track/4rrFGOdnreypzg6ux5mdPh"
+    },
+    {
+      "album": {
+        "name": "Faking Love (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148577,
+      "name": "Faking Love (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc"
+    },
+    {
+      "album": {
+        "name": "Fast (Motion)",
+        "url": "https://open.spotify.com/album/5vIJnjshQfOPk710tNy9HB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Fast (Motion)",
+      "url": "https://open.spotify.com/track/7zEz7q43xjzbRSUar4yH3m"
+    },
+    {
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/7KkdRBQs12lylKXSrWHbx8"
+      },
+      "artists": [
+        {
+          "name": "Nissy",
+          "url": "https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208235,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
+    },
+    {
+      "album": {
+        "name": "Get It Girl",
+        "url": "https://open.spotify.com/album/7HWkljuX0QCslEAI6SaZDS"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 165302,
+      "name": "Get It Girl",
+      "url": "https://open.spotify.com/track/1LRtmOcUC21HYATvNUqRwv"
+    },
+    {
+      "album": {
+        "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+        "url": "https://open.spotify.com/album/7HTABc351qZLd8vX6y2Res"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165302,
+      "name": "Get It Girl (from Insecure: Music From The HBO Original Series, Season 5)",
+      "url": "https://open.spotify.com/track/2QcWBgN96CO3eex8VSKJOh"
+    },
+    {
+      "album": {
+        "name": "QUAVO HUNCHO",
+        "url": "https://open.spotify.com/album/2DjfazR5N3TgXBQ7oVALA1"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182440,
+      "name": "GIVE IT TO EM (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1kvt3N2KmoSAunaEJNrgNM"
+    },
+    {
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 201583,
+      "name": "Good Good",
+      "url": "https://open.spotify.com/track/3KmUrUs6pqJaPqpswIKN6C"
+    },
+    {
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 188278,
+      "name": "HANDLE MY TRUTH",
+      "url": "https://open.spotify.com/track/3zgBnJtjDRgGmkHjgUslEu"
+    },
+    {
+      "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "Handstand (with Doja Cat feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0JcgIOrlZ0CNUOPxyudnrK"
+    },
+    {
+      "album": {
+        "name": "Hey, Mickey!",
+        "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173532,
+      "name": "Hey, Mickey!",
+      "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
+    },
+    {
+      "album": {
+        "name": "Hey, Mickey! (Sped Up and Slowed Down)",
+        "url": "https://open.spotify.com/album/7JqvSHDftF0CzrhD3Dt4V7"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 221060,
+      "name": "Hey, Mickey! - Slowed Down",
+      "url": "https://open.spotify.com/track/12Mx0oTNPyvG23wlLQzQYk"
+    },
+    {
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49242,
+      "name": "High Maintenance",
+      "url": "https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv"
+    },
+    {
+      "album": {
+        "name": "HIT IT (feat. Saweetie & Lele Pons)",
+        "url": "https://open.spotify.com/album/1xSMnmIJ4Eeqo7zTm84OO3"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Lele Pons",
+          "url": "https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235428,
+      "name": "HIT IT (feat. Saweetie & Lele Pons)",
+      "url": "https://open.spotify.com/track/3F450ZpnsuW5G7YMmjMLmi"
+    },
+    {
+      "album": {
+        "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Salt-N-Pepa",
+          "url": "https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ"
+        },
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-21",
+      "duration_ms": 162487,
+      "name": "Hoops (feat. Salt-N-Pepa & Kash Doll)",
+      "url": "https://open.spotify.com/track/1FlQZmMkJC04uLv7KsZKSJ"
+    },
+    {
+      "album": {
+        "name": "Singular Act II",
+        "url": "https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222101,
+      "name": "I Can't Stop Me",
+      "url": "https://open.spotify.com/track/1AVVv4FgNLxQlV64j7dfP1"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194626,
+      "name": "I'm That Bitch (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/7jJVq2u7EP9XoAxMIc5Dro"
+    },
+    {
+      "album": {
+        "name": "Icy Chain",
+        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110790,
+      "name": "Icy Chain",
+      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
+    },
+    {
+      "album": {
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
+    },
+    {
+      "album": {
+        "name": "IDGAF (Remixes II)",
+        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238940,
+      "name": "IDGAF (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2ry53n0NXbB4ZUJM1SP8Vc"
+    },
+    {
+      "album": {
+        "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
+        "url": "https://open.spotify.com/album/2uMMOoH30YHKnbg5nVXtMM"
+      },
+      "artists": [
+        {
+          "name": "Mozzy",
+          "url": "https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201248,
+      "name": "In My Face (with 2 Chainz, Saweetie feat. YG)",
+      "url": "https://open.spotify.com/track/7IfxYyZaO3S3PJf5agEEWS"
+    },
+    {
+      "album": {
+        "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
+        "url": "https://open.spotify.com/album/2kzL3gkr5jufUyowwonTlf"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175992,
+      "name": "Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",
+      "url": "https://open.spotify.com/track/5rB5mfeFCkUI3nkHQMMZ3K"
+    },
+    {
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 126315,
+      "name": "MEMORABLE",
+      "url": "https://open.spotify.com/track/2QX6OIugx0kV8YRcVUoycZ"
+    },
+    {
+      "album": {
+        "name": "Money Mouf",
+        "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211703,
+      "name": "Money Mouf",
+      "url": "https://open.spotify.com/track/2ab4xGVMBb14NpPrj4xDq5"
+    },
+    {
+      "album": {
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214536,
+      "name": "Move (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
+    },
+    {
+      "album": {
+        "name": "Dancing With The Devil\u2026The Art of Starting Over (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3XsdVkuj3zMVHPRvodOgeE"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187761,
+      "name": "My Girlfriends Are My Boyfriend (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/2Z2u68PwXoDvaLLrv7EkFQ"
+    },
+    {
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126446,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/5KBARWIxeMGkvUax9VtVC9"
+    },
+    {
+      "album": {
+        "name": "No L's",
+        "url": "https://open.spotify.com/album/5saVdkQ7NwV7LmfrwYb3Pq"
+      },
+      "artists": [
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 195013,
+      "name": "No L's",
+      "url": "https://open.spotify.com/track/0RjCea6cbLgCD0h3ELxXSl"
+    },
+    {
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 158666,
+      "name": "NO RECEPTION",
+      "url": "https://open.spotify.com/track/1sfAZTmq1Uj21YJNv64SEb"
+    },
+    {
+      "album": {
+        "name": "One Night Ting (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/5dzapwbVC7KYnvUB5zZlTB"
+      },
+      "artists": [
+        {
+          "name": "Tai'Aysha",
+          "url": "https://open.spotify.com/artist/2RY3ihP6cPwsuGv97SGWg2"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 144665,
+      "name": "One Night Ting (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0v3WvQ010FCs5IT1VvvHCr"
+    },
+    {
+      "album": {
+        "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+        "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162603,
+      "name": "OUT OUT (feat. Charli XCX & Saweetie)",
+      "url": "https://open.spotify.com/track/6Dy1jexKYriXAVG6evyUTJ"
+    },
+    {
+      "album": {
+        "name": "THE SINGLE LIFE",
+        "url": "https://open.spotify.com/album/0kyPJmOde43w1nWzd79OU8"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-30",
+      "duration_ms": 184602,
+      "name": "P.U.S.S.Y. (Powerful, Utopia, Supreme, Sacred, Yummy)",
+      "url": "https://open.spotify.com/track/5gG8sYCZ22yJI8jBt0623H"
+    },
+    {
+      "album": {
+        "name": "Pissed",
+        "url": "https://open.spotify.com/album/0oiYI6kp2vKJgtCTjKIWV9"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135621,
+      "name": "Pissed",
+      "url": "https://open.spotify.com/track/61big1BzOklF2jK5t4FzZ6"
+    },
+    {
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 106687,
+      "name": "Pretty & Rich",
+      "url": "https://open.spotify.com/track/41z1jdRoERVUz1MPtfSl14"
+    },
+    {
+      "album": {
+        "name": "Pretty Bitch Freestyle",
+        "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129379,
+      "name": "Pretty Bitch Freestyle",
+      "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+    },
+    {
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159152,
+      "name": "Risky (feat. Drakeo the Ruler)",
+      "url": "https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5"
+    },
+    {
+      "album": {
+        "name": "Seesaw",
+        "url": "https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B"
+      },
+      "artists": [
+        {
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224574,
+      "name": "Seesaw (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I"
+    },
+    {
+      "album": {
+        "name": "SHOT O' CLOCK",
+        "url": "https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150457,
+      "name": "SHOT O' CLOCK",
+      "url": "https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc"
+    },
+    {
+      "album": {
+        "name": "Slow Clap (with Saweetie)",
+        "url": "https://open.spotify.com/album/32I12RuItIkrLV7a3qGIPh"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191599,
+      "name": "Slow Clap (with Saweetie)",
+      "url": "https://open.spotify.com/track/0xLf1SbCnuFfBRbDNauT5b"
+    },
+    {
+      "album": {
+        "name": "Shang-Chi and The Legend of The Ten Rings: The Album",
+        "url": "https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "Swan Song",
+      "url": "https://open.spotify.com/track/790TzR1UxBXVMFSGq8p7bv"
+    },
+    {
+      "album": {
+        "name": "Sway With Me (with GALXARA)",
+        "url": "https://open.spotify.com/album/5uC0YWUVDKRZD9x1cRgjyu"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "GALXARA",
+          "url": "https://open.spotify.com/artist/0tu3jGW89NZZ8qrpd8c7xC"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168018,
+      "name": "Sway With Me (with GALXARA)",
+      "url": "https://open.spotify.com/track/5gqLY5H1ZyT3BScVr0nDMs"
+    },
+    {
+      "album": {
+        "name": "Pretty Summer Playlist: Season 1",
+        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/66vs64VphiHrtFcLR6Qeav"
+    },
+    {
+      "album": {
+        "name": "Tap In",
+        "url": "https://open.spotify.com/album/3XpOIE22NDEl5VSguQGv2h"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139413,
+      "name": "Tap In",
+      "url": "https://open.spotify.com/track/4Hpib09wXgD84w4uwTPnYD"
+    },
+    {
+      "album": {
+        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253568,
+      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
+    },
+    {
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
+    },
+    {
+      "album": {
+        "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+        "url": "https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198087,
+      "name": "Up Now (feat. G-Eazy and Rich The Kid)",
+      "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"
+    },
+    {
+      "album": {
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
+    },
+    {
+      "album": {
+        "name": "Missed Calls",
+        "url": "https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9"
+      },
+      "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "YUSO (feat. Lil Wayne & Saweetie)",
+      "url": "https://open.spotify.com/track/38Vjqr7xTeIzDpclKOkzli"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3F1zmg"
 }

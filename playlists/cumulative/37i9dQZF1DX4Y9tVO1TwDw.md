@@ -4,7 +4,7 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Ivan Cornejo
 
-330 songs - 16 hr 53 min
+331 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Woke Up Dis Morning](https://open.spotify.com/track/312ixrbrcnAF8Mn0XeDOlX) | [Eddie Zuko](https://open.spotify.com/artist/4AxSQnOMPd42KI149MWsub) | [Woke Up Dis Morning](https://open.spotify.com/album/3Er14Y7GQXzN9vINCBgVXD) | 2:57 | 2023-11-17 | 2023-12-07 |
 | [Would You Still Love Me](https://open.spotify.com/track/4pqMud4FFwGJ9wNEY74qqq) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Would You Still Love Me](https://open.spotify.com/album/7kmWOC9R8scUJvlhnLtIG2) | 4:16 | 2023-05-26 | 2023-08-19 |
 | [X'CLUSIVO](https://open.spotify.com/track/0T0Oo2aVRt5a39D3ObeWwm) | [Gonzy](https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L) | [X'CLUSIVO](https://open.spotify.com/album/5RmwLVvsb2oS4K97abdqcy) | 2:55 | 2023-12-06 |  |
-| [XO clubeteado](https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado / NOS SOLTAMOS chiliado](https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho) | 2:34 | 2023-12-06 |  |
+| [XO clubeteado](https://open.spotify.com/track/2COPgOa1buFP656rkQ3Dgr) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado](https://open.spotify.com/album/20PMJCFApDLBdML8TWDBdq) | 2:34 | 2023-12-06 |  |
+| [XO clubeteado](https://open.spotify.com/track/6e1gDK4Cgp3mzFgeaBZygB) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi), [Heartgaze](https://open.spotify.com/artist/6r5C5m57jRSpf2xE16ofxH) | [XO clubeteado / NOS SOLTAMOS chiliado](https://open.spotify.com/album/4L9dCnZASsPEIhhBwItsho) | 2:34 | 2023-12-06 | 2024-01-06 |
 | [Ya No Eres Igual](https://open.spotify.com/track/56XRdqcXlIquG1BZuirDel) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [FASES](https://open.spotify.com/album/4cCKSr1kDU2hYecgmMmHBn) | 3:10 | 2023-03-17 | 2023-05-27 |
 | [Your Love Is Gold](https://open.spotify.com/track/0weEYABcqaO5feEQRlD9HW) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Louie Thesinger](https://open.spotify.com/artist/0Ht6v1kud5bXl4mp8eaDjj) | [Your Love Is Gold](https://open.spotify.com/album/1hdrd60db3gn54TC9KiJi1) | 2:46 | 2023-12-06 |  |
 | [Zarna](https://open.spotify.com/track/2m3x9amJXUtxD12K3ZuaAg) | [Sasha Wrist](https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD) | [Zarna](https://open.spotify.com/album/6v9ziOQ7A3R8FzGXmHr5Mv) | 3:06 | 2023-03-07 | 2023-04-22 |

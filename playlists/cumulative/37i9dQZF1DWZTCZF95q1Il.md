@@ -4,7 +4,7 @@
 
 > Gospel songs you grew up listening to
 
-60 songs - 5 hr 5 min
+61 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,8 @@
 | [Mwema](https://open.spotify.com/track/0LkKFTwenA513XXLeF9sVy) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:52 | 2023-03-31 |  |
 | [My Call](https://open.spotify.com/track/6N8vrHGAl1FXgA5EYclP4z) | [M O G](https://open.spotify.com/artist/7jmlYHg2tjQ7SweaSFwvl5), [Juliani](https://open.spotify.com/artist/6DeHceVetXHpLmvmqDpTD7) | [Go Let Him Go](https://open.spotify.com/album/5P1iuvCDjoU5444LHpL8p0) | 4:08 | 2023-03-31 |  |
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-03-31 |  |
-| [Nginyukagia](https://open.spotify.com/track/72OaHdvpG5XVH4G0zhIJIQ) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/27eSrqz3T0Z6U4tg2tNM5K) | 4:28 | 2023-03-31 |  |
+| [Nginyukagia](https://open.spotify.com/track/5Dvqpwdf3h0w6dHJpRQyyR) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/5WTxbTRnjjKG5g1kDEtXD2) | 4:28 | 2023-03-31 |  |
+| [Nginyukagia](https://open.spotify.com/track/72OaHdvpG5XVH4G0zhIJIQ) | [Kayamba Africa](https://open.spotify.com/artist/50Y7HU8mao7u5T9kMkOULT) | [Simba](https://open.spotify.com/album/27eSrqz3T0Z6U4tg2tNM5K) | 4:28 | 2023-03-31 | 2024-01-06 |
 | [Nibebe](https://open.spotify.com/track/7bEAHWRZkyMGP5b93zcKMR) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Jipange Sawa Sawa](https://open.spotify.com/album/4YrSpcBLTl3cQMEYDQia9d) | 8:02 | 2023-03-31 |  |
 | [Nifundishe Kunyamaza](https://open.spotify.com/track/5ZbqY3dSaJu5WepPqGkxbS) | [Martha Mwaipaja](https://open.spotify.com/artist/6sucU5GTxpXKQs1hNTrLDF) | [Naiona Kesho](https://open.spotify.com/album/4On0HtZu8oqfzXWki3Vz6f) | 9:14 | 2023-03-31 |  |
 | [Nikupendeze](https://open.spotify.com/track/0QSkwOiYxSreXuP9ywGUH8) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/0oEtNECeom6LMfeE23QEBZ) | 3:54 | 2023-03-31 |  |

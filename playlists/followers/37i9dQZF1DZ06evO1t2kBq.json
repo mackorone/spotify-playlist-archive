@@ -1,472 +1,1197 @@
 {
-  "2022-09-17": 58310,
-  "2022-09-18": 58346,
-  "2022-09-19": 58395,
-  "2022-09-20": 58426,
-  "2022-09-21": 58468,
-  "2022-09-22": 58503,
-  "2022-09-23": 58542,
-  "2022-09-24": 58542,
-  "2022-09-25": 58604,
-  "2022-09-26": 58631,
-  "2022-09-27": 58663,
-  "2022-09-28": 58698,
-  "2022-09-29": 58728,
-  "2022-09-30": 58756,
-  "2022-10-01": 58776,
-  "2022-10-02": 58811,
-  "2022-10-03": 58839,
-  "2022-10-04": 58866,
-  "2022-10-05": 58892,
-  "2022-10-06": 58926,
-  "2022-10-07": 58957,
-  "2022-10-08": 58993,
-  "2022-10-09": 59047,
-  "2022-10-10": 59052,
-  "2022-10-11": 59063,
-  "2022-10-12": 59106,
-  "2022-10-13": 59142,
-  "2022-10-14": 59175,
-  "2022-10-15": 59214,
-  "2022-10-16": 59245,
-  "2022-10-17": 59285,
-  "2022-10-18": 59310,
-  "2022-10-19": 59341,
-  "2022-10-20": 59375,
-  "2022-10-21": 59410,
-  "2022-10-22": 59450,
-  "2022-10-23": 59493,
-  "2022-10-24": 59517,
-  "2022-10-25": 59545,
-  "2022-10-26": 59573,
-  "2022-10-27": 59603,
-  "2022-10-28": 59651,
-  "2022-10-29": 59696,
-  "2022-10-30": 59741,
-  "2022-10-31": 59772,
-  "2022-11-01": 59800,
-  "2022-11-02": 59827,
-  "2022-11-03": 59870,
-  "2022-11-04": 59893,
-  "2022-11-05": 59937,
-  "2022-11-06": 59980,
-  "2022-11-07": 60004,
-  "2022-11-08": 60043,
-  "2022-11-09": 60083,
-  "2022-11-10": 60112,
-  "2022-11-11": 60150,
-  "2022-11-12": 60189,
-  "2022-11-13": 60216,
-  "2022-11-14": 60262,
-  "2022-11-15": 60292,
-  "2022-11-16": 60331,
-  "2022-11-17": 60358,
-  "2022-11-18": 60366,
-  "2022-11-19": 60376,
-  "2022-11-20": 60411,
-  "2022-11-21": 60451,
-  "2022-11-22": 60476,
-  "2022-11-23": 60502,
-  "2022-11-24": 60568,
-  "2022-11-25": 60624,
-  "2022-11-26": 60652,
-  "2022-11-27": 60692,
-  "2022-11-28": 60720,
-  "2022-11-29": 60743,
-  "2022-11-30": 60803,
-  "2022-12-01": 60848,
-  "2022-12-02": 60890,
-  "2022-12-03": 60949,
-  "2022-12-04": 60990,
-  "2022-12-05": 61044,
-  "2022-12-06": 61084,
-  "2022-12-07": 61122,
-  "2022-12-08": 61162,
-  "2022-12-09": 61229,
-  "2022-12-10": 61270,
-  "2022-12-11": 61309,
-  "2022-12-12": 61344,
-  "2022-12-13": 61385,
-  "2022-12-14": 61414,
-  "2022-12-15": 61459,
-  "2022-12-16": 61491,
-  "2022-12-17": 61527,
-  "2022-12-18": 61576,
-  "2022-12-19": 61612,
-  "2022-12-20": 61699,
-  "2022-12-21": 61699,
-  "2022-12-22": 61747,
-  "2022-12-24": 61826,
-  "2022-12-25": 61867,
-  "2022-12-26": 61901,
-  "2022-12-27": 61940,
-  "2022-12-28": 61975,
-  "2022-12-29": 62003,
-  "2022-12-30": 62033,
-  "2022-12-31": 62072,
-  "2023-01-01": 62110,
-  "2023-01-02": 62138,
-  "2023-01-03": 62177,
-  "2023-01-04": 62194,
-  "2023-01-05": 62227,
-  "2023-01-06": 62265,
-  "2023-01-07": 62338,
-  "2023-01-08": 62348,
-  "2023-01-09": 62378,
-  "2023-01-10": 62403,
-  "2023-01-11": 62434,
-  "2023-01-12": 62483,
-  "2023-01-13": 62506,
-  "2023-01-14": 62556,
-  "2023-01-15": 62563,
-  "2023-01-16": 62601,
-  "2023-01-17": 62643,
-  "2023-01-18": 62667,
-  "2023-01-19": 62712,
-  "2023-01-20": 62745,
-  "2023-01-21": 62793,
-  "2023-01-22": 62827,
-  "2023-01-23": 62872,
-  "2023-01-24": 62907,
-  "2023-01-25": 62948,
-  "2023-01-26": 62984,
-  "2023-01-27": 63030,
-  "2023-01-28": 63068,
-  "2023-01-29": 63118,
-  "2023-01-30": 63134,
-  "2023-01-31": 63134,
-  "2023-02-01": 63199,
-  "2023-02-02": 63224,
-  "2023-02-03": 63262,
-  "2023-02-04": 63304,
-  "2023-02-05": 63352,
-  "2023-02-06": 63402,
-  "2023-02-07": 63439,
-  "2023-02-08": 63521,
-  "2023-02-09": 63521,
-  "2023-02-10": 63561,
-  "2023-02-11": 63598,
-  "2023-02-12": 63675,
-  "2023-02-13": 63706,
-  "2023-02-14": 63706,
-  "2023-02-15": 63752,
-  "2023-02-16": 63783,
-  "2023-02-17": 63821,
-  "2023-02-18": 63931,
-  "2023-02-19": 63935,
-  "2023-02-20": 63982,
-  "2023-02-21": 64014,
-  "2023-02-22": 64048,
-  "2023-02-23": 64085,
-  "2023-02-24": 64116,
-  "2023-02-25": 64166,
-  "2023-02-26": 64196,
-  "2023-02-27": 64264,
-  "2023-02-28": 64264,
-  "2023-03-01": 64292,
-  "2023-03-02": 64322,
-  "2023-03-03": 64346,
-  "2023-03-04": 64379,
-  "2023-03-05": 64444,
-  "2023-03-06": 64444,
-  "2023-03-07": 64473,
-  "2023-03-08": 64512,
-  "2023-03-09": 64545,
-  "2023-03-10": 64576,
-  "2023-03-11": 64604,
-  "2023-03-12": 64649,
-  "2023-03-13": 64686,
-  "2023-03-14": 64722,
-  "2023-03-15": 64759,
-  "2023-03-16": 64759,
-  "2023-03-17": 64759,
-  "2023-03-18": 64856,
-  "2023-03-19": 64856,
-  "2023-03-20": 64934,
-  "2023-03-21": 64963,
-  "2023-03-22": 65001,
-  "2023-03-23": 65042,
-  "2023-03-24": 65042,
-  "2023-03-25": 65147,
-  "2023-03-26": 65202,
-  "2023-03-27": 65252,
-  "2023-03-28": 65272,
-  "2023-03-29": 65305,
-  "2023-03-30": 65391,
-  "2023-03-31": 65391,
-  "2023-04-01": 65432,
-  "2023-04-02": 65482,
-  "2023-04-03": 65532,
-  "2023-04-04": 65572,
-  "2023-04-05": 65611,
-  "2023-04-06": 65651,
-  "2023-04-07": 65691,
-  "2023-04-09": 65753,
-  "2023-04-10": 65785,
-  "2023-04-11": 65845,
-  "2023-04-12": 65845,
-  "2023-04-13": 65877,
-  "2023-04-14": 65911,
-  "2023-04-15": 65960,
-  "2023-04-16": 66017,
-  "2023-04-17": 66056,
-  "2023-04-18": 66093,
-  "2023-04-19": 66128,
-  "2023-04-20": 66164,
-  "2023-04-21": 66201,
-  "2023-04-22": 66243,
-  "2023-04-23": 66283,
-  "2023-04-24": 66325,
-  "2023-04-25": 66363,
-  "2023-04-26": 66399,
-  "2023-04-27": 66434,
-  "2023-04-28": 66489,
-  "2023-04-29": 66527,
-  "2023-04-30": 66567,
-  "2023-05-01": 66606,
-  "2023-05-02": 66635,
-  "2023-05-03": 66657,
-  "2023-05-04": 66687,
-  "2023-05-05": 66742,
-  "2023-05-06": 66784,
-  "2023-05-07": 66835,
-  "2023-05-08": 66877,
-  "2023-05-09": 66912,
-  "2023-05-10": 66944,
-  "2023-05-11": 66974,
-  "2023-05-12": 66999,
-  "2023-05-13": 67038,
-  "2023-05-14": 67065,
-  "2023-05-15": 67090,
-  "2023-05-16": 67119,
-  "2023-05-17": 67147,
-  "2023-05-18": 67161,
-  "2023-05-19": 67187,
-  "2023-05-20": 67247,
-  "2023-05-21": 67247,
-  "2023-05-22": 67247,
-  "2023-05-23": 67288,
-  "2023-05-24": 67328,
-  "2023-05-25": 67340,
-  "2023-05-26": 67373,
-  "2023-05-27": 67407,
-  "2023-05-28": 67434,
-  "2023-05-29": 67434,
-  "2023-05-30": 67476,
-  "2023-05-31": 67518,
-  "2023-06-01": 67532,
-  "2023-06-02": 67571,
-  "2023-06-03": 67598,
-  "2023-06-04": 67623,
-  "2023-06-05": 67663,
-  "2023-06-06": 67698,
-  "2023-06-07": 67734,
-  "2023-06-08": 67780,
-  "2023-06-09": 67807,
-  "2023-06-10": 67830,
-  "2023-06-11": 67870,
-  "2023-06-12": 67886,
-  "2023-06-13": 67919,
-  "2023-06-14": 67949,
-  "2023-06-15": 67973,
-  "2023-06-16": 68000,
-  "2023-06-17": 68035,
-  "2023-06-18": 68070,
-  "2023-06-19": 68098,
-  "2023-06-20": 68125,
-  "2023-06-21": 68146,
-  "2023-06-22": 68189,
-  "2023-06-23": 68208,
-  "2023-06-24": 68233,
-  "2023-06-25": 68265,
-  "2023-06-26": 68309,
-  "2023-06-27": 68342,
-  "2023-06-28": 68371,
-  "2023-06-29": 68397,
-  "2023-06-30": 68426,
-  "2023-07-01": 68477,
-  "2023-07-02": 68477,
-  "2023-07-03": 68495,
-  "2023-07-04": 68527,
-  "2023-07-05": 68554,
-  "2023-07-06": 68621,
-  "2023-07-07": 68621,
-  "2023-07-08": 68669,
-  "2023-07-09": 68691,
-  "2023-07-10": 68707,
-  "2023-07-11": 68732,
-  "2023-07-12": 68759,
-  "2023-07-13": 68793,
-  "2023-07-14": 68815,
-  "2023-07-15": 68831,
-  "2023-07-16": 68879,
-  "2023-07-17": 68917,
-  "2023-07-18": 68956,
-  "2023-07-19": 68979,
-  "2023-07-20": 69011,
-  "2023-07-21": 69051,
-  "2023-07-22": 69088,
-  "2023-07-23": 69128,
-  "2023-07-24": 69147,
-  "2023-07-25": 69173,
-  "2023-07-26": 69201,
-  "2023-07-27": 69230,
-  "2023-07-28": 69255,
-  "2023-07-29": 69291,
-  "2023-07-30": 69310,
-  "2023-07-31": 69331,
-  "2023-08-01": 69363,
-  "2023-08-02": 69398,
-  "2023-08-03": 69429,
-  "2023-08-04": 69457,
-  "2023-08-05": 69495,
-  "2023-08-06": 69558,
-  "2023-08-07": 69558,
-  "2023-08-08": 69593,
-  "2023-08-09": 69614,
-  "2023-08-10": 69640,
-  "2023-08-11": 69681,
-  "2023-08-12": 69681,
-  "2023-08-13": 69681,
-  "2023-08-14": 69763,
-  "2023-08-15": 69763,
-  "2023-08-16": 69763,
-  "2023-08-17": 69763,
-  "2023-08-18": 69763,
-  "2023-08-19": 69763,
-  "2023-08-20": 69950,
-  "2023-08-21": 69950,
-  "2023-08-22": 70002,
-  "2023-08-23": 70002,
-  "2023-08-24": 70002,
-  "2023-08-25": 70002,
-  "2023-08-26": 70115,
-  "2023-08-27": 70115,
-  "2023-08-28": 70162,
-  "2023-08-29": 70162,
-  "2023-08-30": 70162,
-  "2023-08-31": 70256,
-  "2023-09-01": 70292,
-  "2023-09-02": 70292,
-  "2023-09-03": 70377,
-  "2023-09-04": 70377,
-  "2023-09-05": 70377,
-  "2023-09-06": 70457,
-  "2023-09-07": 70457,
-  "2023-09-08": 70457,
-  "2023-09-09": 70457,
-  "2023-09-10": 70599,
-  "2023-09-11": 70599,
-  "2023-09-12": 70599,
-  "2023-09-13": 70671,
-  "2023-09-14": 70671,
-  "2023-09-15": 70671,
-  "2023-09-16": 70752,
-  "2023-09-17": 70752,
-  "2023-09-18": 70752,
-  "2023-09-19": 70831,
-  "2023-09-20": 70831,
-  "2023-09-21": 70831,
-  "2023-09-22": 70911,
-  "2023-09-23": 70911,
-  "2023-09-24": 70911,
-  "2023-09-25": 70911,
-  "2023-09-26": 70997,
-  "2023-09-27": 70997,
-  "2023-09-28": 70997,
-  "2023-09-29": 70997,
-  "2023-09-30": 70997,
-  "2023-10-01": 70997,
-  "2023-10-02": 71158,
-  "2023-10-03": 71158,
-  "2023-10-04": 71158,
-  "2023-10-05": 71231,
-  "2023-10-06": 71231,
-  "2023-10-07": 71231,
-  "2023-10-08": 71231,
-  "2023-10-09": 71231,
-  "2023-10-10": 71231,
-  "2023-10-11": 71376,
-  "2023-10-12": 71376,
-  "2023-10-13": 71376,
-  "2023-10-14": 71376,
-  "2023-10-15": 71376,
-  "2023-10-16": 71376,
-  "2023-10-17": 71376,
-  "2023-10-18": 71376,
-  "2023-10-19": 71376,
-  "2023-10-20": 71376,
-  "2023-10-21": 71376,
-  "2023-10-22": 71376,
-  "2023-10-23": 71376,
-  "2023-10-24": 71376,
-  "2023-10-25": 71376,
-  "2023-10-26": 71376,
-  "2023-10-27": 71376,
-  "2023-10-28": 71376,
-  "2023-10-29": 71376,
-  "2023-10-30": 71376,
-  "2023-10-31": 71376,
-  "2023-11-01": 71376,
-  "2023-11-02": 71376,
-  "2023-11-03": 71376,
-  "2023-11-04": 71376,
-  "2023-11-05": 71376,
-  "2023-11-06": 71376,
-  "2023-11-07": 71376,
-  "2023-11-08": 71376,
-  "2023-11-09": 71376,
-  "2023-11-10": 71376,
-  "2023-11-11": 72105,
-  "2023-11-12": 72105,
-  "2023-11-13": 72105,
-  "2023-11-14": 72105,
-  "2023-11-15": 72105,
-  "2023-11-16": 72105,
-  "2023-11-17": 72105,
-  "2023-11-18": 72105,
-  "2023-11-19": 72105,
-  "2023-11-20": 72105,
-  "2023-11-21": 72105,
-  "2023-11-22": 72105,
-  "2023-11-23": 72105,
-  "2023-11-24": 72105,
-  "2023-11-25": 72105,
-  "2023-11-26": 72105,
-  "2023-11-27": 72105,
-  "2023-11-28": 72105,
-  "2023-11-29": 72105,
-  "2023-11-30": 72105,
-  "2023-12-01": 72105,
-  "2023-12-02": 72105,
-  "2023-12-03": 72105,
-  "2023-12-04": 72105,
-  "2023-12-05": 72105,
-  "2023-12-06": 72105,
-  "2023-12-07": 72105,
-  "2023-12-08": 72105,
-  "2023-12-09": 72105,
-  "2023-12-10": 72105,
-  "2023-12-11": 72105,
-  "2023-12-12": 72105,
-  "2023-12-13": 72105,
-  "2023-12-14": 73132,
-  "2023-12-15": 73151,
-  "2023-12-16": 73199,
-  "2023-12-17": 73229,
-  "2023-12-18": 73240,
-  "2023-12-19": 73275,
-  "2023-12-20": 73310,
-  "2023-12-21": 73331,
-  "2023-12-22": 73364,
-  "2023-12-23": 73387,
-  "2023-12-24": 73412,
-  "2023-12-25": 73427,
-  "2023-12-26": 73449,
-  "2023-12-27": 73473,
-  "2023-12-30": 73533,
-  "2023-12-31": 73542,
-  "2024-01-01": 73561,
-  "2024-01-02": 73578,
-  "2024-01-03": 73601
+  "2024-01-17": 73825,
+  "date_first_scraped": "2022-09-17",
+  "description": "This is Bad Religion. The essential tracks, all in one playlist.",
+  "name": "This Is Bad Religion",
+  "tracks": [
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95697,
+      "name": "1000 More Fools",
+      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169013,
+      "name": "21st Century (Digital Boy)",
+      "url": "https://open.spotify.com/track/7C794YeXiiSdlvGLxgabkd"
+    },
+    {
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129026,
+      "name": "A Walk",
+      "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127800,
+      "name": "Against the Grain",
+      "url": "https://open.spotify.com/track/2lxtb9Qgr7WvyhAdyYEXRF"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177680,
+      "name": "All There Is",
+      "url": "https://open.spotify.com/track/5mC5BYYc2yoAm3vGvA5hml"
+    },
+    {
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95875,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr"
+    },
+    {
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197666,
+      "name": "American Jesus",
+      "url": "https://open.spotify.com/track/5TZn3LQSWwVPnBlPgFKb54"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "Anesthesia",
+      "url": "https://open.spotify.com/track/59ojk4py5trvRvdZeIolNa"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117652,
+      "name": "Atheist Peace",
+      "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+    },
+    {
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 190853,
+      "name": "Atomic Garden",
+      "url": "https://open.spotify.com/track/0iKBQiTlNxTUPeBDCzlFRP"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100693,
+      "name": "Automatic Man",
+      "url": "https://open.spotify.com/track/2W852Ax2YYdzFMJVXaG45G"
+    },
+    {
+      "album": {
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 154586,
+      "name": "Before You Die",
+      "url": "https://open.spotify.com/track/79MB7jmCne3vRqqVhgElvM"
+    },
+    {
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158906,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102293,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 114720,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/2hEEQLmqYOdNTGaiu4wHbq"
+    },
+    {
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165075,
+      "name": "Candidate",
+      "url": "https://open.spotify.com/track/3NpXeqnYkOGLSZNsG9SfTj"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55306,
+      "name": "Change Of Ideas",
+      "url": "https://open.spotify.com/track/5xesgknt9epKNcaMq6irot"
+    },
+    {
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110320,
+      "name": "Chaos From Within",
+      "url": "https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq"
+    },
+    {
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123666,
+      "name": "Come Join Us",
+      "url": "https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 99409,
+      "name": "Delirium of Disorder",
+      "url": "https://open.spotify.com/track/5Nryk8IHUPoTOpHTFlvZxH"
+    },
+    {
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105826,
+      "name": "Do The Paranoid Style",
+      "url": "https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67005,
+      "name": "Do What You Want",
+      "url": "https://open.spotify.com/track/6kE91QjOimRTG5BW1BBj4D"
+    },
+    {
+      "album": {
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239813,
+      "name": "Epiphany",
+      "url": "https://open.spotify.com/track/7AXcgpdL2oJWnI1BCLLeWI"
+    },
+    {
+      "album": {
+        "name": "Faith Alone 2020",
+        "url": "https://open.spotify.com/album/1RmTON4kigdiNdZV2qwO7A"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 216907,
+      "name": "Faith Alone 2020",
+      "url": "https://open.spotify.com/track/5HVtc5nr6mjMy52J6WeFol"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 141720,
+      "name": "Flat Earth Society",
+      "url": "https://open.spotify.com/track/1Oi1eyyLNTEj7nkWNlW898"
+    },
+    {
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "Fuck Armageddon...This Is Hell",
+      "url": "https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133986,
+      "name": "Fuck You",
+      "url": "https://open.spotify.com/track/0Yk3FzkNpuZUYY59j9p6eN"
+    },
+    {
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202066,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/1a42up3NBd91HTCbmYKMq4"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122367,
+      "name": "Give You Nothing",
+      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
+    },
+    {
+      "album": {
+        "name": "Generator",
+        "url": "https://open.spotify.com/album/31CyVs73lB9MrLOTHBeEgr"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 124586,
+      "name": "Heaven Is Falling",
+      "url": "https://open.spotify.com/track/7qXQ8yHfnTGMYSF1gAwpum"
+    },
+    {
+      "album": {
+        "name": "The New America",
+        "url": "https://open.spotify.com/album/36X9VPMvlEyweMzxeMmWr8"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 187666,
+      "name": "I Love My Computer",
+      "url": "https://open.spotify.com/track/7rShtR7mI2kS0JpzdeGs7k"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137840,
+      "name": "I Want to Conquer the World",
+      "url": "https://open.spotify.com/track/0BlNkCzdgYi9eJXwnYUho9"
+    },
+    {
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3cZxrIwGDz6lKi2S1XMgmA"
+    },
+    {
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Infected",
+      "url": "https://open.spotify.com/track/16E7LWSzLLMPWYGNCwu7Sc"
+    },
+    {
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161546,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/29UzZipBctdph1OIIGVzrS"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177693,
+      "name": "Let Them Eat War",
+      "url": "https://open.spotify.com/track/0734v426krcGYoB7d3763w"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Los Angeles Is Burning",
+      "url": "https://open.spotify.com/track/0biGKHOtNVGM14sRSztyKq"
+    },
+    {
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 191520,
+      "name": "Man With A Mission",
+      "url": "https://open.spotify.com/track/7tnwvZYg7YCwyYFl0xYddO"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117333,
+      "name": "Modern Man",
+      "url": "https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL"
+    },
+    {
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+    },
+    {
+      "album": {
+        "name": "The New America",
+        "url": "https://open.spotify.com/album/36X9VPMvlEyweMzxeMmWr8"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-23",
+      "duration_ms": 206733,
+      "name": "New America",
+      "url": "https://open.spotify.com/track/3WWv76IuG5k4En1ug3vKR5"
+    },
+    {
+      "album": {
+        "name": "New Maps of Hell (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "New Dark Ages",
+      "url": "https://open.spotify.com/track/5eNHe2dlIgKGe9SIwu90Va"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106693,
+      "name": "No Control",
+      "url": "https://open.spotify.com/track/0gbrepTKKXEYFQJ6tNCbid"
+    },
+    {
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 164960,
+      "name": "Portrait Of Authority",
+      "url": "https://open.spotify.com/track/5NKAkTyW43U3817bxMxY2S"
+    },
+    {
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147173,
+      "name": "Punk Rock Song",
+      "url": "https://open.spotify.com/track/5ACDC1gxAUXYDWherVKOiX"
+    },
+    {
+      "album": {
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122813,
+      "name": "Recipe For Hate",
+      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 173213,
+      "name": "Robin Hood in Reverse",
+      "url": "https://open.spotify.com/track/7hanVVvRisN9r8a2wL9Kx9"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113598,
+      "name": "Sinister Rouge",
+      "url": "https://open.spotify.com/track/36aS89QHtfR02T1oHRBOe3"
+    },
+    {
+      "album": {
+        "name": "The Empire Strikes First",
+        "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95466,
+      "name": "Social Suicide",
+      "url": "https://open.spotify.com/track/5zZgoYzUjsLINdPEt7VoWO"
+    },
+    {
+      "album": {
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "Sorrow",
+      "url": "https://open.spotify.com/track/5KiS8SFnu21xI74mHgfZ3D"
+    },
+    {
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140306,
+      "name": "Stranger Than Fiction",
+      "url": "https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107323,
+      "name": "Suffer",
+      "url": "https://open.spotify.com/track/7AoWDXgfVQO8pK4hb0Kswt"
+    },
+    {
+      "album": {
+        "name": "The Process Of Belief",
+        "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106586,
+      "name": "Supersonic",
+      "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
+    },
+    {
+      "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145866,
+      "name": "The Approach",
+      "url": "https://open.spotify.com/track/5Oyt7rwRrplyyNyRSRjVc8"
+    },
+    {
+      "album": {
+        "name": "The Dissent Of Man (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 153533,
+      "name": "The Resist Stance",
+      "url": "https://open.spotify.com/track/7t6MmzZIQUH5oa0Fxgqyst"
+    },
+    {
+      "album": {
+        "name": "The Gray Race",
+        "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 170573,
+      "name": "Them And Us",
+      "url": "https://open.spotify.com/track/6fzuwv6tgxNex16IPbdsKq"
+    },
+    {
+      "album": {
+        "name": "Stranger Than Fiction",
+        "url": "https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-09",
+      "duration_ms": 157000,
+      "name": "Tiny Voices",
+      "url": "https://open.spotify.com/track/1XrTWPYZbc0yLpBLY3rKD9"
+    },
+    {
+      "album": {
+        "name": "True North",
+        "url": "https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115826,
+      "name": "True North",
+      "url": "https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7"
+    },
+    {
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84026,
+      "name": "Turn On the Light",
+      "url": "https://open.spotify.com/track/2aCuA3PDvmDrPCo1MIyJ1Q"
+    },
+    {
+      "album": {
+        "name": "How Could Hell Be Any Worse? (2005 Remaster)",
+        "url": "https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132866,
+      "name": "We're Only Gonna Die",
+      "url": "https://open.spotify.com/track/4c066sJzrKuIceqJ0k9ulg"
+    },
+    {
+      "album": {
+        "name": "What Are We Standing For",
+        "url": "https://open.spotify.com/album/4tuKq2JV7r88OLVORQMWKK"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 173600,
+      "name": "What Are We Standing For",
+      "url": "https://open.spotify.com/track/0TilqqFE4PTarkBCsx3udk"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164489,
+      "name": "What Can You Do?",
+      "url": "https://open.spotify.com/track/0q1riGCpISLw7zTGQLiuPG"
+    },
+    {
+      "album": {
+        "name": "The Dissent Of Man (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Wrong Way Kids",
+      "url": "https://open.spotify.com/track/1L78NTjysRuvjRwLZIGdua"
+    },
+    {
+      "album": {
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126520,
+      "name": "You",
+      "url": "https://open.spotify.com/track/71dRBSmaKMdaFZPeZlVzf5"
+    },
+    {
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81793,
+      "name": "You Are (The Government)",
+      "url": "https://open.spotify.com/track/4uKMHiWSI5omiZrSAUjrH8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t2kBq"
 }

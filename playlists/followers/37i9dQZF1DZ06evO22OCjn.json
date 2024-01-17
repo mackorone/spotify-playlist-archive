@@ -1,731 +1,2343 @@
 {
-  "2021-12-29": 1762,
-  "2021-12-30": 1762,
-  "2021-12-31": 1762,
-  "2022-01-01": 1763,
-  "2022-01-02": 1762,
-  "2022-01-03": 1762,
-  "2022-01-04": 1762,
-  "2022-01-05": 1762,
-  "2022-01-06": 1761,
-  "2022-01-07": 1761,
-  "2022-01-08": 1761,
-  "2022-01-09": 1761,
-  "2022-01-10": 1761,
-  "2022-01-11": 1772,
-  "2022-01-12": 1805,
-  "2022-01-13": 1863,
-  "2022-01-14": 1963,
-  "2022-01-15": 2206,
-  "2022-01-16": 2213,
-  "2022-01-17": 20573,
-  "2022-01-18": 20581,
-  "2022-01-19": 20665,
-  "2022-01-20": 112636,
-  "2022-01-21": 132710,
-  "2022-01-22": 132762,
-  "2022-01-23": 132824,
-  "2022-01-24": 132874,
-  "2022-01-25": 132938,
-  "2022-01-26": 132970,
-  "2022-01-27": 133032,
-  "2022-01-28": 133076,
-  "2022-01-29": 133116,
-  "2022-01-30": 133160,
-  "2022-01-31": 133192,
-  "2022-02-01": 133222,
-  "2022-02-02": 133278,
-  "2022-02-03": 133327,
-  "2022-02-04": 133374,
-  "2022-02-05": 133431,
-  "2022-02-06": 133491,
-  "2022-02-07": 133537,
-  "2022-02-08": 133584,
-  "2022-02-09": 133632,
-  "2022-02-10": 133684,
-  "2022-02-11": 133745,
-  "2022-02-12": 133796,
-  "2022-02-13": 133854,
-  "2022-02-14": 133884,
-  "2022-02-15": 133917,
-  "2022-02-16": 133956,
-  "2022-02-17": 134006,
-  "2022-02-18": 134048,
-  "2022-02-19": 134092,
-  "2022-02-20": 134135,
-  "2022-02-21": 134180,
-  "2022-02-22": 134230,
-  "2022-02-23": 134286,
-  "2022-02-24": 134321,
-  "2022-02-25": 134357,
-  "2022-02-26": 134408,
-  "2022-02-27": 134509,
-  "2022-02-28": 134509,
-  "2022-03-01": 134565,
-  "2022-03-02": 134624,
-  "2022-03-03": 134678,
-  "2022-03-04": 134746,
-  "2022-03-05": 134805,
-  "2022-03-06": 134856,
-  "2022-03-07": 134914,
-  "2022-03-08": 134962,
-  "2022-03-09": 135006,
-  "2022-03-10": 135068,
-  "2022-03-11": 135128,
-  "2022-03-12": 135211,
-  "2022-03-13": 135268,
-  "2022-03-14": 135338,
-  "2022-03-15": 135386,
-  "2022-03-16": 135435,
-  "2022-03-17": 135494,
-  "2022-03-18": 135571,
-  "2022-03-19": 135628,
-  "2022-03-20": 135628,
-  "2022-03-21": 135815,
-  "2022-03-22": 135910,
-  "2022-03-23": 136071,
-  "2022-03-24": 136183,
-  "2022-03-25": 136292,
-  "2022-03-26": 136402,
-  "2022-03-27": 136510,
-  "2022-03-28": 136605,
-  "2022-03-30": 136765,
-  "2022-03-31": 136870,
-  "2022-04-01": 136955,
-  "2022-04-02": 137021,
-  "2022-04-03": 137081,
-  "2022-04-04": 137171,
-  "2022-04-05": 137221,
-  "2022-04-06": 137287,
-  "2022-04-07": 137360,
-  "2022-04-08": 137447,
-  "2022-04-09": 137541,
-  "2022-04-10": 137759,
-  "2022-04-11": 137859,
-  "2022-04-12": 137866,
-  "2022-04-13": 137968,
-  "2022-04-14": 138121,
-  "2022-04-15": 138272,
-  "2022-04-16": 138479,
-  "2022-04-17": 138615,
-  "2022-04-18": 138731,
-  "2022-04-19": 138841,
-  "2022-04-20": 138973,
-  "2022-04-21": 139088,
-  "2022-04-22": 139212,
-  "2022-04-23": 139334,
-  "2022-04-24": 139442,
-  "2022-04-25": 139524,
-  "2022-04-26": 139605,
-  "2022-04-27": 139700,
-  "2022-04-28": 139799,
-  "2022-04-29": 140128,
-  "2022-04-30": 140378,
-  "2022-05-01": 140599,
-  "2022-05-02": 140599,
-  "2022-05-03": 140755,
-  "2022-05-04": 140884,
-  "2022-05-05": 141018,
-  "2022-05-06": 141155,
-  "2022-05-07": 141339,
-  "2022-05-08": 141568,
-  "2022-05-09": 141579,
-  "2022-05-10": 141676,
-  "2022-05-11": 141825,
-  "2022-05-12": 141966,
-  "2022-05-13": 142092,
-  "2022-05-14": 142242,
-  "2022-05-15": 142386,
-  "2022-05-16": 142520,
-  "2022-05-17": 142699,
-  "2022-05-18": 142824,
-  "2022-05-19": 142956,
-  "2022-05-20": 143094,
-  "2022-05-21": 143324,
-  "2022-05-22": 143324,
-  "2022-05-23": 143437,
-  "2022-05-24": 143545,
-  "2022-05-25": 143670,
-  "2022-05-26": 143797,
-  "2022-05-27": 143930,
-  "2022-05-28": 144037,
-  "2022-05-29": 144151,
-  "2022-05-30": 144248,
-  "2022-05-31": 144359,
-  "2022-06-01": 144546,
-  "2022-06-02": 144556,
-  "2022-06-03": 144695,
-  "2022-06-04": 144820,
-  "2022-06-05": 144973,
-  "2022-06-06": 145099,
-  "2022-06-07": 145240,
-  "2022-06-08": 145373,
-  "2022-06-09": 145491,
-  "2022-06-10": 145602,
-  "2022-06-11": 145751,
-  "2022-06-12": 145919,
-  "2022-06-13": 146062,
-  "2022-06-14": 146203,
-  "2022-06-15": 146342,
-  "2022-06-16": 146507,
-  "2022-06-17": 146642,
-  "2022-06-18": 146759,
-  "2022-06-19": 147049,
-  "2022-06-20": 147049,
-  "2022-06-21": 147171,
-  "2022-06-22": 147434,
-  "2022-06-23": 147434,
-  "2022-06-24": 147580,
-  "2022-06-25": 147699,
-  "2022-06-26": 147967,
-  "2022-06-27": 148167,
-  "2022-06-28": 148320,
-  "2022-06-29": 148471,
-  "2022-06-30": 148667,
-  "2022-07-01": 148879,
-  "2022-07-02": 149091,
-  "2022-07-03": 149299,
-  "2022-07-04": 149488,
-  "2022-07-05": 149488,
-  "2022-07-06": 149488,
-  "2022-07-07": 150164,
-  "2022-07-08": 150413,
-  "2022-07-09": 150736,
-  "2022-07-10": 150984,
-  "2022-07-11": 151217,
-  "2022-07-12": 151469,
-  "2022-07-13": 151716,
-  "2022-07-14": 151936,
-  "2022-07-15": 152164,
-  "2022-07-16": 152426,
-  "2022-07-17": 152685,
-  "2022-07-18": 152932,
-  "2022-07-19": 153186,
-  "2022-07-20": 153382,
-  "2022-07-21": 153604,
-  "2022-07-22": 153855,
-  "2022-07-23": 154101,
-  "2022-07-24": 154350,
-  "2022-07-25": 154565,
-  "2022-07-26": 154774,
-  "2022-07-27": 155027,
-  "2022-07-28": 155232,
-  "2022-07-29": 155496,
-  "2022-07-30": 156021,
-  "2022-07-31": 156021,
-  "2022-08-01": 156238,
-  "2022-08-02": 156710,
-  "2022-08-03": 156710,
-  "2022-08-04": 156957,
-  "2022-08-05": 157209,
-  "2022-08-06": 157459,
-  "2022-08-07": 157727,
-  "2022-08-08": 157983,
-  "2022-08-09": 158199,
-  "2022-08-10": 158423,
-  "2022-08-11": 158654,
-  "2022-08-12": 158910,
-  "2022-08-13": 159176,
-  "2022-08-14": 159455,
-  "2022-08-15": 159692,
-  "2022-08-16": 159899,
-  "2022-08-17": 160120,
-  "2022-08-18": 160352,
-  "2022-08-19": 160570,
-  "2022-08-20": 160794,
-  "2022-08-21": 161018,
-  "2022-08-22": 161262,
-  "2022-08-23": 161511,
-  "2022-08-24": 161711,
-  "2022-08-25": 161937,
-  "2022-08-26": 162137,
-  "2022-08-27": 162393,
-  "2022-08-28": 162628,
-  "2022-08-29": 162858,
-  "2022-08-30": 163046,
-  "2022-08-31": 163255,
-  "2022-09-01": 163446,
-  "2022-09-02": 163665,
-  "2022-09-03": 163874,
-  "2022-09-04": 164091,
-  "2022-09-05": 164289,
-  "2022-09-06": 164501,
-  "2022-09-07": 164702,
-  "2022-09-09": 165152,
-  "2022-09-10": 165366,
-  "2022-09-11": 165601,
-  "2022-09-12": 165794,
-  "2022-09-13": 165988,
-  "2022-09-15": 166348,
-  "2022-09-16": 166525,
-  "2022-09-17": 166710,
-  "2022-09-18": 166938,
-  "2022-09-19": 167149,
-  "2022-09-20": 167329,
-  "2022-09-21": 167490,
-  "2022-09-22": 167656,
-  "2022-09-23": 167862,
-  "2022-09-24": 167862,
-  "2022-09-25": 168231,
-  "2022-09-26": 168435,
-  "2022-09-27": 168635,
-  "2022-09-28": 168859,
-  "2022-09-29": 169092,
-  "2022-09-30": 169324,
-  "2022-10-01": 169526,
-  "2022-10-02": 169752,
-  "2022-10-03": 169912,
-  "2022-10-04": 170085,
-  "2022-10-05": 170269,
-  "2022-10-06": 170460,
-  "2022-10-07": 170645,
-  "2022-10-08": 170829,
-  "2022-10-09": 171256,
-  "2022-10-10": 171285,
-  "2022-10-11": 171436,
-  "2022-10-12": 171572,
-  "2022-10-13": 171750,
-  "2022-10-14": 171927,
-  "2022-10-15": 172114,
-  "2022-10-16": 172325,
-  "2022-10-17": 172504,
-  "2022-10-18": 172656,
-  "2022-10-19": 172812,
-  "2022-10-20": 172966,
-  "2022-10-21": 173140,
-  "2022-10-22": 173300,
-  "2022-10-23": 173456,
-  "2022-10-24": 173606,
-  "2022-10-25": 173741,
-  "2022-10-26": 173889,
-  "2022-10-27": 174036,
-  "2022-10-28": 174209,
-  "2022-10-29": 174345,
-  "2022-10-30": 174526,
-  "2022-10-31": 174650,
-  "2022-11-01": 174793,
-  "2022-11-02": 174952,
-  "2022-11-03": 175077,
-  "2022-11-04": 175199,
-  "2022-11-05": 175384,
-  "2022-11-06": 175543,
-  "2022-11-07": 175683,
-  "2022-11-08": 175825,
-  "2022-11-09": 175961,
-  "2022-11-10": 176125,
-  "2022-11-11": 176306,
-  "2022-11-12": 176528,
-  "2022-11-13": 176728,
-  "2022-11-14": 176942,
-  "2022-11-15": 177171,
-  "2022-11-16": 177405,
-  "2022-11-17": 177634,
-  "2022-11-18": 177703,
-  "2022-11-19": 177765,
-  "2022-11-20": 178008,
-  "2022-11-21": 178227,
-  "2022-11-22": 178439,
-  "2022-11-23": 178690,
-  "2022-11-24": 179116,
-  "2022-11-25": 179422,
-  "2022-11-26": 179664,
-  "2022-11-27": 179908,
-  "2022-11-28": 180121,
-  "2022-11-29": 180378,
-  "2022-11-30": 180618,
-  "2022-12-01": 180991,
-  "2022-12-02": 181170,
-  "2022-12-03": 181593,
-  "2022-12-04": 181918,
-  "2022-12-05": 182194,
-  "2022-12-06": 182445,
-  "2022-12-07": 182677,
-  "2022-12-08": 182936,
-  "2022-12-09": 183191,
-  "2022-12-10": 183433,
-  "2022-12-11": 183654,
-  "2022-12-12": 183869,
-  "2022-12-13": 184067,
-  "2022-12-14": 184303,
-  "2022-12-15": 184519,
-  "2022-12-16": 184724,
-  "2022-12-17": 184969,
-  "2022-12-18": 185221,
-  "2022-12-19": 185417,
-  "2022-12-20": 185873,
-  "2022-12-21": 185873,
-  "2022-12-22": 186085,
-  "2022-12-24": 186623,
-  "2022-12-25": 186893,
-  "2022-12-26": 187104,
-  "2022-12-27": 187299,
-  "2022-12-28": 187514,
-  "2022-12-29": 187718,
-  "2022-12-30": 187940,
-  "2022-12-31": 188198,
-  "2023-01-01": 188457,
-  "2023-01-02": 188630,
-  "2023-01-03": 188850,
-  "2023-01-04": 189047,
-  "2023-01-05": 189242,
-  "2023-01-06": 189466,
-  "2023-01-07": 189781,
-  "2023-01-08": 189821,
-  "2023-01-09": 190011,
-  "2023-01-10": 190170,
-  "2023-01-11": 190336,
-  "2023-01-12": 190539,
-  "2023-01-13": 190720,
-  "2023-01-14": 191048,
-  "2023-01-15": 191088,
-  "2023-01-16": 191266,
-  "2023-01-17": 191449,
-  "2023-01-18": 191637,
-  "2023-01-19": 191851,
-  "2023-01-20": 192047,
-  "2023-01-21": 192263,
-  "2023-01-22": 192490,
-  "2023-01-23": 192677,
-  "2023-01-24": 192845,
-  "2023-01-25": 193052,
-  "2023-01-26": 193218,
-  "2023-01-27": 193385,
-  "2023-01-28": 193572,
-  "2023-01-29": 193735,
-  "2023-01-30": 193908,
-  "2023-01-31": 193908,
-  "2023-02-01": 194274,
-  "2023-02-02": 194447,
-  "2023-02-03": 194654,
-  "2023-02-04": 194859,
-  "2023-02-05": 195045,
-  "2023-02-06": 195261,
-  "2023-02-07": 195419,
-  "2023-02-08": 195762,
-  "2023-02-09": 195762,
-  "2023-02-10": 195946,
-  "2023-02-11": 196126,
-  "2023-02-12": 196492,
-  "2023-02-13": 196656,
-  "2023-02-14": 196656,
-  "2023-02-15": 196776,
-  "2023-02-16": 196935,
-  "2023-02-17": 197113,
-  "2023-02-18": 197454,
-  "2023-02-19": 197473,
-  "2023-02-20": 197577,
-  "2023-02-21": 197892,
-  "2023-02-22": 198069,
-  "2023-02-23": 198210,
-  "2023-02-24": 198383,
-  "2023-02-25": 198660,
-  "2023-02-26": 198773,
-  "2023-02-27": 199022,
-  "2023-02-28": 199022,
-  "2023-03-01": 199158,
-  "2023-03-02": 199313,
-  "2023-03-03": 199468,
-  "2023-03-04": 199627,
-  "2023-03-05": 199903,
-  "2023-03-06": 199903,
-  "2023-03-07": 200077,
-  "2023-03-08": 200211,
-  "2023-03-09": 200336,
-  "2023-03-10": 200499,
-  "2023-03-11": 200622,
-  "2023-03-12": 200781,
-  "2023-03-13": 200892,
-  "2023-03-14": 201032,
-  "2023-03-15": 201139,
-  "2023-03-16": 201139,
-  "2023-03-17": 201139,
-  "2023-03-18": 201569,
-  "2023-03-19": 201569,
-  "2023-03-20": 201849,
-  "2023-03-21": 201990,
-  "2023-03-22": 202131,
-  "2023-03-23": 202310,
-  "2023-03-24": 202310,
-  "2023-03-25": 202602,
-  "2023-03-26": 202784,
-  "2023-03-27": 202973,
-  "2023-03-28": 203109,
-  "2023-03-29": 203297,
-  "2023-03-30": 203561,
-  "2023-03-31": 203561,
-  "2023-04-01": 203716,
-  "2023-04-02": 203883,
-  "2023-04-03": 204053,
-  "2023-04-04": 204240,
-  "2023-04-05": 204415,
-  "2023-04-06": 204613,
-  "2023-04-07": 204757,
-  "2023-04-09": 205133,
-  "2023-04-10": 205301,
-  "2023-04-11": 205606,
-  "2023-04-12": 205606,
-  "2023-04-13": 205751,
-  "2023-04-14": 205936,
-  "2023-04-15": 206105,
-  "2023-04-16": 206362,
-  "2023-04-17": 206553,
-  "2023-04-18": 206743,
-  "2023-04-19": 206895,
-  "2023-04-20": 207052,
-  "2023-04-21": 207211,
-  "2023-04-22": 207416,
-  "2023-04-23": 207613,
-  "2023-04-24": 207785,
-  "2023-04-25": 207945,
-  "2023-04-26": 208116,
-  "2023-04-27": 208270,
-  "2023-04-28": 208445,
-  "2023-04-29": 208635,
-  "2023-04-30": 208813,
-  "2023-05-01": 208960,
-  "2023-05-02": 209116,
-  "2023-05-03": 209251,
-  "2023-05-04": 209398,
-  "2023-05-05": 209552,
-  "2023-05-06": 209711,
-  "2023-05-07": 209871,
-  "2023-05-08": 210038,
-  "2023-05-09": 210192,
-  "2023-05-10": 210343,
-  "2023-05-11": 210507,
-  "2023-05-12": 210679,
-  "2023-05-13": 210848,
-  "2023-05-14": 211018,
-  "2023-05-15": 211164,
-  "2023-05-16": 211314,
-  "2023-05-17": 211455,
-  "2023-05-18": 211614,
-  "2023-05-19": 211751,
-  "2023-05-20": 212119,
-  "2023-05-21": 212119,
-  "2023-05-22": 212119,
-  "2023-05-23": 212513,
-  "2023-05-24": 212871,
-  "2023-05-25": 212935,
-  "2023-05-26": 213119,
-  "2023-05-27": 213304,
-  "2023-05-28": 213487,
-  "2023-05-29": 213487,
-  "2023-05-30": 213807,
-  "2023-05-31": 214005,
-  "2023-06-01": 214199,
-  "2023-06-02": 214425,
-  "2023-06-03": 214617,
-  "2023-06-04": 214913,
-  "2023-06-05": 215215,
-  "2023-06-06": 215532,
-  "2023-06-07": 215761,
-  "2023-06-08": 215976,
-  "2023-06-09": 216191,
-  "2023-06-10": 216486,
-  "2023-06-11": 216850,
-  "2023-06-12": 217176,
-  "2023-06-13": 217508,
-  "2023-06-14": 217825,
-  "2023-06-15": 218163,
-  "2023-06-16": 218420,
-  "2023-06-17": 218685,
-  "2023-06-18": 218989,
-  "2023-06-19": 219337,
-  "2023-06-20": 219572,
-  "2023-06-21": 219829,
-  "2023-06-22": 220088,
-  "2023-06-23": 220322,
-  "2023-06-24": 220515,
-  "2023-06-25": 220685,
-  "2023-06-26": 220883,
-  "2023-06-27": 221026,
-  "2023-06-28": 221209,
-  "2023-06-29": 221384,
-  "2023-06-30": 221577,
-  "2023-07-01": 221985,
-  "2023-07-02": 221985,
-  "2023-07-03": 222203,
-  "2023-07-04": 222425,
-  "2023-07-05": 222630,
-  "2023-07-06": 223016,
-  "2023-07-07": 223016,
-  "2023-07-08": 223016,
-  "2023-07-09": 223390,
-  "2023-07-10": 223597,
-  "2023-07-11": 223768,
-  "2023-07-12": 223943,
-  "2023-07-13": 224114,
-  "2023-07-14": 224316,
-  "2023-07-15": 224471,
-  "2023-07-16": 224699,
-  "2023-07-17": 224871,
-  "2023-07-18": 225069,
-  "2023-07-19": 225268,
-  "2023-07-20": 225532,
-  "2023-07-21": 225775,
-  "2023-07-22": 226032,
-  "2023-07-23": 226284,
-  "2023-07-24": 226519,
-  "2023-07-25": 226782,
-  "2023-07-26": 226986,
-  "2023-07-27": 227218,
-  "2023-07-28": 227425,
-  "2023-07-29": 227667,
-  "2023-07-30": 227854,
-  "2023-07-31": 228047,
-  "2023-08-01": 228271,
-  "2023-08-02": 228458,
-  "2023-08-03": 228603,
-  "2023-08-04": 228784,
-  "2023-08-05": 228987,
-  "2023-08-06": 229333,
-  "2023-08-07": 229333,
-  "2023-08-08": 229490,
-  "2023-08-09": 229627,
-  "2023-08-10": 229792,
-  "2023-08-11": 229964,
-  "2023-08-12": 229964,
-  "2023-08-13": 229964,
-  "2023-08-14": 230470,
-  "2023-08-15": 230470,
-  "2023-08-16": 230470,
-  "2023-08-17": 230470,
-  "2023-08-18": 230470,
-  "2023-08-19": 230470,
-  "2023-08-20": 231580,
-  "2023-08-21": 231580,
-  "2023-08-22": 231981,
-  "2023-08-23": 231981,
-  "2023-08-24": 231981,
-  "2023-08-25": 231981,
-  "2023-08-26": 232910,
-  "2023-08-27": 232910,
-  "2023-08-28": 233316,
-  "2023-08-29": 233316,
-  "2023-08-30": 233316,
-  "2023-08-31": 233887,
-  "2023-09-01": 234084,
-  "2023-09-02": 234084,
-  "2023-09-03": 234485,
-  "2023-09-04": 234485,
-  "2023-09-05": 234485,
-  "2023-09-06": 235043,
-  "2023-09-07": 235043,
-  "2023-09-08": 235043,
-  "2023-09-09": 235043,
-  "2023-09-10": 235843,
-  "2023-09-11": 235843,
-  "2023-09-12": 235843,
-  "2023-09-13": 236418,
-  "2023-09-14": 236418,
-  "2023-09-15": 236418,
-  "2023-09-16": 236974,
-  "2023-09-17": 236974,
-  "2023-09-18": 236974,
-  "2023-09-19": 237481,
-  "2023-09-20": 237481,
-  "2023-09-21": 237481,
-  "2023-09-22": 237985,
-  "2023-09-23": 237985,
-  "2023-09-24": 237985,
-  "2023-09-25": 237985,
-  "2023-09-26": 238879,
-  "2023-09-27": 238879,
-  "2023-09-28": 238879,
-  "2023-09-29": 238879,
-  "2023-09-30": 238879,
-  "2023-10-01": 238879,
-  "2023-10-02": 238879,
-  "2023-10-03": 238879,
-  "2023-10-04": 238879,
-  "2023-10-05": 240921,
-  "2023-10-06": 240921,
-  "2023-10-07": 240921,
-  "2023-10-08": 240921,
-  "2023-10-09": 240921,
-  "2023-10-10": 240921,
-  "2023-10-11": 242284,
-  "2023-10-12": 242284,
-  "2023-10-13": 242284,
-  "2023-10-14": 242284,
-  "2023-10-15": 242284,
-  "2023-10-16": 242284,
-  "2023-10-17": 242284,
-  "2023-10-18": 242284,
-  "2023-10-19": 242284,
-  "2023-10-20": 242284,
-  "2023-10-21": 242284,
-  "2023-10-22": 242284,
-  "2023-10-23": 242284,
-  "2023-10-24": 242284,
-  "2023-10-25": 242284,
-  "2023-10-26": 242284,
-  "2023-10-27": 242284,
-  "2023-10-28": 242284,
-  "2023-10-29": 242284,
-  "2023-10-30": 242284,
-  "2023-10-31": 242284,
-  "2023-11-01": 242284,
-  "2023-11-02": 242284,
-  "2023-11-03": 242284,
-  "2023-11-04": 242284,
-  "2023-11-05": 242284,
-  "2023-11-06": 242284,
-  "2023-11-07": 242284,
-  "2023-11-08": 242284,
-  "2023-11-09": 242284,
-  "2023-11-10": 242284,
-  "2023-11-11": 248248,
-  "2023-11-12": 248248,
-  "2023-11-13": 248248,
-  "2023-11-14": 248248,
-  "2023-11-15": 248248,
-  "2023-11-16": 248248,
-  "2023-11-17": 248248,
-  "2023-11-18": 248248,
-  "2023-11-19": 248248,
-  "2023-11-20": 248248,
-  "2023-11-21": 248248,
-  "2023-11-22": 248248,
-  "2023-11-23": 248248,
-  "2023-11-24": 248248,
-  "2023-11-25": 248248,
-  "2023-11-26": 248248,
-  "2023-11-27": 248248,
-  "2023-11-28": 248248,
-  "2023-11-29": 248248,
-  "2023-11-30": 248248,
-  "2023-12-01": 248248,
-  "2023-12-02": 248248,
-  "2023-12-03": 248248,
-  "2023-12-04": 248248,
-  "2023-12-05": 248248,
-  "2023-12-06": 248248,
-  "2023-12-07": 248248,
-  "2023-12-08": 248248,
-  "2023-12-09": 248248,
-  "2023-12-10": 248248,
-  "2023-12-11": 248248,
-  "2023-12-12": 248248,
-  "2023-12-13": 248248,
-  "2023-12-14": 254941,
-  "2023-12-15": 255102,
-  "2023-12-16": 255335,
-  "2023-12-17": 255534,
-  "2023-12-18": 255681,
-  "2023-12-19": 255834,
-  "2023-12-20": 256043,
-  "2023-12-21": 256224,
-  "2023-12-22": 256401,
-  "2023-12-23": 256626,
-  "2023-12-24": 256796,
-  "2023-12-25": 256960,
-  "2023-12-26": 257071,
-  "2023-12-27": 257240,
-  "2023-12-30": 257714,
-  "2023-12-31": 257878,
-  "2024-01-01": 258037,
-  "2024-01-02": 258150,
-  "2024-01-03": 258288
+  "2024-01-17": 260305,
+  "date_first_scraped": "2021-12-29",
+  "description": "This is Burna Boy. The essential tracks, all in one playlist.",
+  "name": "This Is Burna Boy",
+  "tracks": [
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245920,
+      "name": "23",
+      "url": "https://open.spotify.com/track/7EqoATlXAKNwzv45LAlqRt"
+    },
+    {
+      "album": {
+        "name": "Great Is He",
+        "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166801,
+      "name": "Aboboyaa (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KEMHoK7Tz7rlTUalQXMUk"
+    },
+    {
+      "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/6kn9tgw5ktETOGSdwEJI9F"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 194526,
+      "name": "Afrikan Star",
+      "url": "https://open.spotify.com/track/1bd9EG9MpRYYR6cmbkMRhF"
+    },
+    {
+      "album": {
+        "name": "Levels (Explicit)",
+        "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Da Les",
+          "url": "https://open.spotify.com/artist/4on53ORBym2GEnRhIptZwy"
+        },
+        {
+          "name": "JR",
+          "url": "https://open.spotify.com/artist/1a0Wc4pzPAFe5ZFiL1glrr"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-07",
+      "duration_ms": 258106,
+      "name": "All Eyes on Me (feat. Burna Boy, Da L.E.S. & JR)",
+      "url": "https://open.spotify.com/track/6oAWlzrEbXFis7Z0kyeX0h"
+    },
+    {
+      "album": {
+        "name": "All My Life (Remixes) (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/11OlFW8YpwZTlhAdc0NCV7"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264179,
+      "name": "All My Life (Burna Boy Remix)",
+      "url": "https://open.spotify.com/track/6vyM1yoPhhdezAcW8CmCJq"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0AoBY2Y3qs6dtGgOD6c91N"
+    },
+    {
+      "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/0Wyn0fD9sZIu00xTyXF4eK"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-11-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 221746,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0vLj7fwt3HM36zo7HEghCL"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188741,
+      "name": "Anybody",
+      "url": "https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE"
+    },
+    {
+      "album": {
+        "name": "On a Spaceship",
+        "url": "https://open.spotify.com/album/4tjD2jPZdPe3nqop8En6zb"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-01",
+      "duration_ms": 43026,
+      "name": "As e Be (Skit)",
+      "url": "https://open.spotify.com/track/1bhEMY3ih5t89pwH2OYg9e"
+    },
+    {
+      "album": {
+        "name": "B. D\u2019OR (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/2Nwv16YY4xo8Jm4TVm54i9"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "B. D\u2019OR (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/3ketN3dth18vSJ1T3HIztN"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 276536,
+      "name": "Bank On It",
+      "url": "https://open.spotify.com/track/5jqh2kAjz4GxjOS3HHSz17"
+    },
+    {
+      "album": {
+        "name": "Be Honest (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/4d2oTHRFwGifGFgve7zSGC"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207030,
+      "name": "Be Honest (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5pAbCxt9e3f81lOmjIXwzd"
+    },
+    {
+      "album": {
+        "name": "Big 7",
+        "url": "https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143042,
+      "name": "Big 7",
+      "url": "https://open.spotify.com/track/3A17uQFJab0NDpyIeZAavF"
+    },
+    {
+      "album": {
+        "name": "The Love Album: Off The Grid",
+        "url": "https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 63409,
+      "name": "Burna Boy Interlude",
+      "url": "https://open.spotify.com/track/79xGhVZNUzUY4MbhgAPkRd"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 265641,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/56XIgOY2j7nL5xUtuKXACL"
+    },
+    {
+      "album": {
+        "name": "Cheat On Me (feat. Dave)",
+        "url": "https://open.spotify.com/album/30EK2qWGcPNfUAkQc2Ppyi"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 222640,
+      "name": "Cheat On Me (feat. Dave)",
+      "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222640,
+      "name": "Cheat On Me (feat. Dave)",
+      "url": "https://open.spotify.com/track/3FyxwVvc9JqmVl5IVDPaNU"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-27",
+      "duration_ms": 211050,
+      "name": "Cloak & Dagger (feat. J Hus)",
+      "url": "https://open.spotify.com/track/0cE68B5sCz9f3snJ5ueTGZ"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197558,
+      "name": "Collateral Damage",
+      "url": "https://open.spotify.com/track/5srIkb35ees5dhgjK3zdfz"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Common Person",
+      "url": "https://open.spotify.com/track/6hyTI3In7vu6fqFRoypcuz"
+    },
+    {
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3u6Y16d0KHXyIdj378tX1w"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-31",
+      "duration_ms": 208875,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3QjuJWCHmzJi8w3o6AT1Fq"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 153696,
+      "name": "Dey Play",
+      "url": "https://open.spotify.com/track/5cJLTFZRVkrkFWiD3GXgo0"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 151856,
+      "name": "Dirty Secrets",
+      "url": "https://open.spotify.com/track/2sh23PpmUcfrxKaBRvqxig"
+    },
+    {
+      "album": {
+        "name": "Do I (Remix)",
+        "url": "https://open.spotify.com/album/5aVA4avxVgyg1S6iVQpx0m"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138069,
+      "name": "Do I - Remix",
+      "url": "https://open.spotify.com/track/7yKjDDd9w01nFEOD5adoHq"
+    },
+    {
+      "album": {
+        "name": "Poison Ou Antidote",
+        "url": "https://open.spotify.com/album/6FsbmqiFXF87zjPSl4VX2k"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186600,
+      "name": "Donne-moi l\u2019accord",
+      "url": "https://open.spotify.com/track/0F3K1nFNG6ZecPHUCh6YlV"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
+        "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 197938,
+      "name": "Enjoy Yourself (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/6QzkbRRLWTEcFE0NyOX1Dt"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187609,
+      "name": "Gbona",
+      "url": "https://open.spotify.com/track/7rpWDu9GPlLxbLorYKVys7"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-27",
+      "duration_ms": 211832,
+      "name": "Giddem",
+      "url": "https://open.spotify.com/track/55ylfI9v88iPOCgjAAdwMe"
+    },
+    {
+      "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196146,
+      "name": "Ginger (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/51mLQ3w7yR7vjdSTFLWaY5"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/5PKl5yyetQ6mFeWK6ONbSH"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179485,
+      "name": "Giza (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/0UdBaetogSoEIO7fSD1334"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195073,
+      "name": "Gum Body (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh"
+    },
+    {
+      "album": {
+        "name": "Gwarn",
+        "url": "https://open.spotify.com/album/4u6gpYry8aAkgGqYnoXFwf"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-08",
+      "duration_ms": 241162,
+      "name": "Gwarn",
+      "url": "https://open.spotify.com/track/0tyxItDX02rgv4wXimjIoE"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-12",
+      "duration_ms": 202446,
+      "name": "Heaven's Gate (feat. Lily Allen)",
+      "url": "https://open.spotify.com/track/6FccLTPgQd0vnrFqmtbD64"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-11",
+      "duration_ms": 297651,
+      "name": "How Bad Could It Be",
+      "url": "https://open.spotify.com/track/1M65Sv8RxdOpTiKKqjphxf"
+    },
+    {
+      "album": {
+        "name": "I FEEL IT (with Burna Boy)",
+        "url": "https://open.spotify.com/album/2Rmmtayyms1LsKbc0PoxlH"
+      },
+      "artists": [
+        {
+          "name": "Jon Bellion",
+          "url": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 224551,
+      "name": "I FEEL IT (with Burna Boy)",
+      "url": "https://open.spotify.com/track/6NoTgpadvWX0qKEK6aJYsg"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 197248,
+      "name": "If I\u2019m Lying",
+      "url": "https://open.spotify.com/track/5xaQAWQ6Q65HTJGEZxrzpt"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216991,
+      "name": "It's Plenty",
+      "url": "https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP"
+    },
+    {
+      "album": {
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190108,
+      "name": "JA ARA E",
+      "url": "https://open.spotify.com/track/6pdip6qgVJOI5JxqgbAlu6"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 182037,
+      "name": "Jagele",
+      "url": "https://open.spotify.com/track/2dGE7HMvZEjuNxzz4IDLyL"
+    },
+    {
+      "album": {
+        "name": "L.I.F.E - Leaving an Impact for Eternity (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4RsttwlINL1UxDTZL2rQ6I"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2022-01-31",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-02",
+      "duration_ms": 249600,
+      "name": "Jahs Love Is True (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4zrQ3BUbp5xWOESYLqiIht"
+    },
+    {
+      "album": {
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-12",
+      "duration_ms": 214026,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/114wpeBKwODd7Nu0HAUtMT"
+    },
+    {
+      "album": {
+        "name": "Jerusalema (Deluxe)",
+        "url": "https://open.spotify.com/album/4Kf2NqytdWUKXgnvsRVlLR"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328000,
+      "name": "Jerusalema (feat. Burna Boy & Nomcebo Zikode) - Remix",
+      "url": "https://open.spotify.com/track/1dmES1X8l1AnFBy2gR3wYA"
+    },
+    {
+      "album": {
+        "name": "american dream",
+        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "just like me",
+      "url": "https://open.spotify.com/track/5KI7I4mEtulXcv5VQJaV35"
+    },
+    {
+      "album": {
+        "name": "Killin Dem",
+        "url": "https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-10",
+      "duration_ms": 220884,
+      "name": "Killin Dem",
+      "url": "https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 152692,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB"
+    },
+    {
+      "album": {
+        "name": "Kilometre",
+        "url": "https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-16",
+      "duration_ms": 152824,
+      "name": "Kilometre",
+      "url": "https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g"
+    },
+    {
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-14",
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
+    },
+    {
+      "album": {
+        "name": "Last Last (Burna Boy Sped Up Version)",
+        "url": "https://open.spotify.com/album/0AcNAH4aRIf6jtz2w1lbHI"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 131778,
+      "name": "Last Last - Burna Boy Sped Up Version",
+      "url": "https://open.spotify.com/track/2lLTD38nzUR8Lku7dq7Jm2"
+    },
+    {
+      "album": {
+        "name": "Lenu (Remix)",
+        "url": "https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213266,
+      "name": "Lenu - Remix",
+      "url": "https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1"
+    },
+    {
+      "album": {
+        "name": "PSYCHODRAMA",
+        "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241293,
+      "name": "Location (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Loved By You (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp"
+    },
+    {
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+    },
+    {
+      "album": {
+        "name": "Mera Na",
+        "url": "https://open.spotify.com/album/6sUoLxSldFKFctJW8ocYh1"
+      },
+      "artists": [
+        {
+          "name": "Sidhu Moose Wala",
+          "url": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Steel Banglez",
+          "url": "https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201200,
+      "name": "Mera Na",
+      "url": "https://open.spotify.com/track/0TlGvDUBcIUGZOroftyVF4"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos To London",
+        "url": "https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-10",
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/3o8cpHgLK9x0G5eB1UusOQ"
+    },
+    {
+      "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "album": {
+        "name": "Money Play",
+        "url": "https://open.spotify.com/album/4UNo1eqCHs5xapq3JPAQgO"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-06",
+      "duration_ms": 183152,
+      "name": "Money Play",
+      "url": "https://open.spotify.com/track/3pT8fDZOicDErgzLG1UVPX"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Chris Martin",
+          "url": "https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 217541,
+      "name": "Monsters You Made (feat. Chris Martin)",
+      "url": "https://open.spotify.com/track/2cerDm5EbuTNJ68EIMtrF2"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92342,
+      "name": "More Life",
+      "url": "https://open.spotify.com/track/73e0LixjWj3e8prfptVeGD"
+    },
+    {
+      "album": {
+        "name": "Queen & Slim: The Soundtrack",
+        "url": "https://open.spotify.com/album/3KkAi988nPkzw0FOrXTBfM"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-15",
+      "duration_ms": 184724,
+      "name": "My Money, My Baby - From \"Queen & Slim: The Soundtrack\"",
+      "url": "https://open.spotify.com/track/7gOb1BmKmG4EYw7lAePO1c"
+    },
+    {
+      "album": {
+        "name": "My Oasis (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/2eBIVchjZqWwwe7P8OmY0Q"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179916,
+      "name": "My Oasis (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 124818,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/4EDMfKmlvrDemvJBcoZvHk"
+    },
+    {
+      "album": {
+        "name": "Odogwu",
+        "url": "https://open.spotify.com/album/19JGoIUmAKqUPCegVYepEA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 185993,
+      "name": "Odogwu",
+      "url": "https://open.spotify.com/track/5jeFguGsmlRXUj66Z94JOJ"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147143,
+      "name": "Omo",
+      "url": "https://open.spotify.com/track/4FtuDjqmTPP9mjxygLKzEm"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 223390,
+      "name": "On Form",
+      "url": "https://open.spotify.com/track/7flENlP5id1U8LdO0v3FL1"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "On the Low",
+      "url": "https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 202146,
+      "name": "Onyeka (Baby)",
+      "url": "https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf"
+    },
+    {
+      "album": {
+        "name": "Heavy Is The Head",
+        "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
+      },
+      "artists": [
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216706,
+      "name": "Own It (feat. Ed Sheeran & Burna Boy)",
+      "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+    },
+    {
+      "album": {
+        "name": "Big Conspiracy",
+        "url": "https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205640,
+      "name": "Play Play (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/0iFm8vnIeZcrxqAHIBsj6H"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/1h1oC8n5nh3IKxCmpUtw85"
+    },
+    {
+      "album": {
+        "name": "Pree Me",
+        "url": "https://open.spotify.com/album/43FqJMK4CBZv6YutODuaE3"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 200501,
+      "name": "Pree Me",
+      "url": "https://open.spotify.com/track/6g8A0XVikKuWbcJv7p2I5Q"
+    },
+    {
+      "album": {
+        "name": "Chulo Vibes",
+        "url": "https://open.spotify.com/album/1JlzIGbFMWsyL5WBEADj6Q"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 196800,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/3qF8DcoQpQ1IXlMbTKHylP"
+    },
+    {
+      "album": {
+        "name": "Question (feat. Don Jazzy)",
+        "url": "https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 168461,
+      "name": "Question (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197933,
+      "name": "Real Life (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/3qvZW1bLvAsJIUhYcuvf4F"
+    },
+    {
+      "album": {
+        "name": "BLOCKBUSTA",
+        "url": "https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125468,
+      "name": "ROBOSHOTTA (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/7DiylLh1Kdcd1q1dWRcJNq"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 221228,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/4LbEUmACVAFj8e0WrMUdlN"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/1LBqAaRlyxRmMK3jsHU5If"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-01-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-14",
+      "duration_ms": 236000,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/3F932JvnxZiSXwwIXq6fFC"
+    },
+    {
+      "album": {
+        "name": "Rollin' (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/2bgY8geITSqxDXCANBdrg9"
+      },
+      "artists": [
+        {
+          "name": "MIST",
+          "url": "https://open.spotify.com/artist/63X1WKthLQidtqxxO2sgeq"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 159667,
+      "name": "Rollin' (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5UZRiz52aaoW64Sp88qVQc"
+    },
+    {
+      "album": {
+        "name": "Rotate",
+        "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 201940,
+      "name": "Rotate",
+      "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 201793,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/5SoDaPgXA4C2BuTPPInaV2"
+    },
+    {
+      "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-02-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/4DdaGKeVkjQbPHzpoHGafk"
+    },
+    {
+      "album": {
+        "name": "Second Sermon (Remix)",
+        "url": "https://open.spotify.com/album/2YaqeghqhsIi2u9fQjGBsq"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-21",
+      "duration_ms": 194863,
+      "name": "Second Sermon - Remix",
+      "url": "https://open.spotify.com/track/574QNMkQGedluLOgr275s9"
+    },
+    {
+      "album": {
+        "name": "African Giant",
+        "url": "https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Serani",
+          "url": "https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-15",
+      "duration_ms": 203537,
+      "name": "Secret (feat. Jeremih & Serani)",
+      "url": "https://open.spotify.com/track/3KSnA0j67IFkiwmEotMGin"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 188362,
+      "name": "Sekkle Down (feat. J Hus)",
+      "url": "https://open.spotify.com/track/1ffHMFXSsQ2E9he6SL3uLT"
+    },
+    {
+      "album": {
+        "name": "Lap 5",
+        "url": "https://open.spotify.com/album/60qboewMs8i1L2a0fEGcVl"
+      },
+      "artists": [
+        {
+          "name": "D-Block Europe",
+          "url": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-09-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 202000,
+      "name": "She's Not Anyone",
+      "url": "https://open.spotify.com/track/58VQMrt5md1pozhyeM3MeG"
+    },
+    {
+      "album": {
+        "name": "EDNA (Deluxe)",
+        "url": "https://open.spotify.com/album/4KxJRAHWvrJSIeftGB9PHP"
+      },
+      "artists": [
+        {
+          "name": "Headie One",
+          "url": "https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-05",
+      "duration_ms": 173493,
+      "name": "Siberia (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/0lgUn1bN5txujF60W7YAbv"
+    },
+    {
+      "album": {
+        "name": "LOVE AND COMPROMISE",
+        "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167186,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b"
+    },
+    {
+      "album": {
+        "name": "Simmer (feat. Burna Boy)",
+        "url": "https://open.spotify.com/album/1l08IrLHEL9QQfsYBEs9MM"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 167680,
+      "name": "Simmer (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4JSEMSiKPVcIEBQIlmGuI3"
+    },
+    {
+      "album": {
+        "name": "Sittin' On Top Of The World",
+        "url": "https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159372,
+      "name": "Sittin' On Top Of The World",
+      "url": "https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf"
+    },
+    {
+      "album": {
+        "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/7h29hmZt35DSt9r3fVrTjF"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 188290,
+      "name": "Sittin' On Top Of The World (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/6RN73O4iZHd9JQ4JHuul95"
+    },
+    {
+      "album": {
+        "name": "On A Spaceship",
+        "url": "https://open.spotify.com/album/6NW4thIIMVcb6Wedxqu6ev"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 218866,
+      "name": "Soke",
+      "url": "https://open.spotify.com/track/4bzS0aUqNJIKiXk86k4tol"
+    },
+    {
+      "album": {
+        "name": "I Am The King Of Amapiano: Sweet & Dust",
+        "url": "https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+        },
+        {
+          "name": "Madumane",
+          "url": "https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-26",
+      "duration_ms": 395044,
+      "name": "Sponono",
+      "url": "https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0"
+    },
+    {
+      "album": {
+        "name": "Mr. Money With The Vibe",
+        "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/4k4pdUWX8632g7yByxC3rS"
+    },
+    {
+      "album": {
+        "name": "Sungba (Remix) [feat. Burna Boy]",
+        "url": "https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-30",
+      "duration_ms": 210000,
+      "name": "Sungba (feat. Burna Boy) - Remix",
+      "url": "https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6"
+    },
+    {
+      "album": {
+        "name": "MANIA",
+        "url": "https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 204813,
+      "name": "Sunshine Riptide",
+      "url": "https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O"
+    },
+    {
+      "album": {
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Talibans II - Bonus Track",
+      "url": "https://open.spotify.com/track/1WsIk6g7dD8LZouywnzGUb"
+    },
+    {
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220394,
+      "name": "Tested, Approved & Trusted",
+      "url": "https://open.spotify.com/track/4Lk9PYDhAucTZMyccvt66Z"
+    },
+    {
+      "album": {
+        "name": "The Gamble",
+        "url": "https://open.spotify.com/album/2qhCjeSlCUR3EeSceXNWbo"
+      },
+      "artists": [
+        {
+          "name": "M.anifest",
+          "url": "https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/2eG4u4LHx1LpNjokkvsNmn"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-03",
+      "duration_ms": 175677,
+      "name": "Toni-Ann Singh (feat. Popcaan)",
+      "url": "https://open.spotify.com/track/4bUe0OUcwdu85AMBkZzYFg"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/0jjH8vwVEENKNpDPWWOwuK"
+    },
+    {
+      "album": {
+        "name": "Want It All (feat. Polo G)",
+        "url": "https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 232500,
+      "name": "Want It All (feat. Polo G)",
+      "url": "https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP"
+    },
+    {
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-04",
+      "duration_ms": 217653,
+      "name": "Wetin Dey Sup",
+      "url": "https://open.spotify.com/track/4I93MxrTPIJkjKNVYW6yn7"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2022-07-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 203576,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4DPvMjCqZPTBDpahYjMSy2"
+    },
+    {
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186189,
+      "name": "Wild Dreams (feat. Khalid)",
+      "url": "https://open.spotify.com/track/2cgamRofJ1iWxAHD801DNu"
+    },
+    {
+      "album": {
+        "name": "Wonderful",
+        "url": "https://open.spotify.com/album/71uD3BHqDgHMayzi5eN2Dm"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 213373,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/1bKhbFn3isNTQR9dU0sWqL"
+    },
+    {
+      "album": {
+        "name": "Yaba Buluku (feat. Preck & Nelson Tivane) [Remix]",
+        "url": "https://open.spotify.com/album/1vc9def4aoS2RJZJzyw5Vi"
+      },
+      "artists": [
+        {
+          "name": "DJ Tarico",
+          "url": "https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Preck",
+          "url": "https://open.spotify.com/artist/1ViWe4OarzndzcN2wptVEY"
+        },
+        {
+          "name": "Nelson Tivane",
+          "url": "https://open.spotify.com/artist/5DuNvp03Q7ROGfaGoJDP9S"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
+      "duration_ms": 214408,
+      "name": "Yaba Buluku (feat. Preck & Nelson Tivane) - Remix",
+      "url": "https://open.spotify.com/track/3KD8PhFfq5zQBAwwRvzG1i"
+    },
+    {
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/26du6obYLeY1vf6xIJ1l0D"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2021-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231618,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/3FskQrDXcY24ur2fCvz35O"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO22OCjn"
 }

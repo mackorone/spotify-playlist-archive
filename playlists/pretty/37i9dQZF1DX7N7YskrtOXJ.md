@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 
 > La fiesta se enciende con cumbia, de la buena!<br/>Foto: La Combo Tortuga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,777 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,295 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 75 | [Mortal Kumbiat](https://open.spotify.com/track/7fqi0rsSIQFJNSbcjpz85y) | [Leo Rey](https://open.spotify.com/artist/2nhjfjsQ7lMfDT4wy99310) | [Mortal Kumbiat](https://open.spotify.com/album/070WH8P7IFTyIT13sPNDSz) | 3:51 |
 | 76 | [De la Cuna al Cajón](https://open.spotify.com/track/05xWMCEACbp9K5UlK6kBOx) | [La Transa](https://open.spotify.com/artist/6EF1264lzOeAYoRT6kFNL2) | [Carnaval Callejero](https://open.spotify.com/album/2xu2q19usb0mZrqCHKH9s8) | 2:46 |
 | 77 | [La Cuarentena](https://open.spotify.com/track/4v0e1iR0t2e3lVHPuQZlea) | [Los Super Korsarios Del Amor](https://open.spotify.com/artist/0ZnJaxfplCgAKgbb8C6ecX) | [La Cuarentena](https://open.spotify.com/album/17OmyTx1GDRmsTb4zNYPCQ) | 3:52 |
-| 78 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:03 |
+| 78 | [El Divorcio](https://open.spotify.com/track/1N4xlDzCtpY15zt3kHTh9K) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [El Divorcio](https://open.spotify.com/album/7MQ4ntSTX8ndQU5wBGFaUz) | 4:01 |
 | 79 | [Cuando Decidas Partir](https://open.spotify.com/track/21GYwBFpT12ZX7JnvehlKH) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Cuando Decidas Partir](https://open.spotify.com/album/2SQmLguOKzwg4Svi8KcVbM) | 3:09 |
 | 80 | [Me Apuñalé](https://open.spotify.com/track/78DakQmH1J5YR1xfOdJsD4) | [Sonora Barón](https://open.spotify.com/artist/3IrgBju6MoDqMqxSUB3zCk) | [Santiago Caliente](https://open.spotify.com/album/5OR9wpC5rXNgRRii8UVIqZ) | 4:15 |
 | 81 | [Una Villera Más](https://open.spotify.com/track/3PuoX1VLgKfstN9ACNCyQh) | [Sonora 5 Estrellas](https://open.spotify.com/artist/0oGbFTtR8UqMpgDFLpFKc1) | [Seguimos Vacilando](https://open.spotify.com/album/5haOD8BT0MxCdZQhs2JVoV) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N7YskrtOXJ.md) - [plain]
 | 99 | [Rompi](https://open.spotify.com/track/7mukVrTuo5b3SOBWaA8F5P) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Santi y lo que faltaba](https://open.spotify.com/artist/521DJ1K79j3pQ47dfAAtmN) | [Rompi](https://open.spotify.com/album/3rogzlBO7odVe65Vr8fv78) | 3:13 |
 | 100 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 |
 
-Snapshot ID: `MCwyY2E1YTRhOGFhYTA4MmE4ZDAwMWE2NDhlNWFmMDE2YjRkNTc4MzQy`
+Snapshot ID: `MCw4OTdkMzE0YTJkM2RmZDg3MWVjN2IxODc2ZjEwMDljY2E0OWVmMmZj`

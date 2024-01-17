@@ -1,357 +1,425 @@
 {
-  "2023-01-11": 2,
-  "2023-01-12": 4,
-  "2023-01-13": 4,
-  "2023-01-14": 7,
-  "2023-01-15": 8,
-  "2023-01-16": 10,
-  "2023-01-17": 13,
-  "2023-01-18": 14,
-  "2023-01-19": 20,
-  "2023-01-20": 28,
-  "2023-01-21": 39,
-  "2023-01-22": 55,
-  "2023-01-23": 73,
-  "2023-01-24": 81,
-  "2023-01-25": 88,
-  "2023-01-26": 90,
-  "2023-01-27": 96,
-  "2023-01-28": 104,
-  "2023-01-29": 108,
-  "2023-01-30": 115,
-  "2023-01-31": 115,
-  "2023-02-01": 135,
-  "2023-02-02": 142,
-  "2023-02-03": 145,
-  "2023-02-04": 153,
-  "2023-02-05": 162,
-  "2023-02-06": 165,
-  "2023-02-07": 170,
-  "2023-02-08": 183,
-  "2023-02-09": 183,
-  "2023-02-10": 190,
-  "2023-02-11": 197,
-  "2023-02-12": 282,
-  "2023-02-13": 342,
-  "2023-02-14": 342,
-  "2023-02-15": 403,
-  "2023-02-16": 448,
-  "2023-02-17": 516,
-  "2023-02-18": 633,
-  "2023-02-19": 640,
-  "2023-02-20": 690,
-  "2023-02-21": 734,
-  "2023-02-22": 776,
-  "2023-02-23": 828,
-  "2023-02-24": 882,
-  "2023-02-25": 941,
-  "2023-02-26": 980,
-  "2023-02-27": 1085,
-  "2023-02-28": 1085,
-  "2023-03-01": 1133,
-  "2023-03-02": 1176,
-  "2023-03-03": 1233,
-  "2023-03-04": 1265,
-  "2023-03-05": 1360,
-  "2023-03-06": 1360,
-  "2023-03-07": 1396,
-  "2023-03-08": 1444,
-  "2023-03-09": 1483,
-  "2023-03-10": 1528,
-  "2023-03-11": 1585,
-  "2023-03-12": 1617,
-  "2023-03-13": 1663,
-  "2023-03-14": 1701,
-  "2023-03-15": 1756,
-  "2023-03-16": 1808,
-  "2023-03-17": 1808,
-  "2023-03-18": 1904,
-  "2023-03-19": 1949,
-  "2023-03-20": 2003,
-  "2023-03-21": 2066,
-  "2023-03-22": 2093,
-  "2023-03-23": 2129,
-  "2023-03-24": 2129,
-  "2023-03-25": 2208,
-  "2023-03-26": 2247,
-  "2023-03-27": 2291,
-  "2023-03-28": 2323,
-  "2023-03-29": 2368,
-  "2023-03-30": 2449,
-  "2023-03-31": 2449,
-  "2023-04-01": 2492,
-  "2023-04-02": 2526,
-  "2023-04-03": 2560,
-  "2023-04-04": 2614,
-  "2023-04-05": 2669,
-  "2023-04-06": 2708,
-  "2023-04-07": 2743,
-  "2023-04-09": 2819,
-  "2023-04-10": 2855,
-  "2023-04-11": 2924,
-  "2023-04-12": 2924,
-  "2023-04-13": 2976,
-  "2023-04-14": 3009,
-  "2023-04-15": 3047,
-  "2023-04-16": 3093,
-  "2023-04-17": 3129,
-  "2023-04-18": 3172,
-  "2023-04-19": 3222,
-  "2023-04-20": 3255,
-  "2023-04-21": 3287,
-  "2023-04-22": 3324,
-  "2023-04-23": 3351,
-  "2023-04-24": 3385,
-  "2023-04-25": 3412,
-  "2023-04-26": 3468,
-  "2023-04-27": 3513,
-  "2023-04-28": 3555,
-  "2023-04-29": 3608,
-  "2023-04-30": 3639,
-  "2023-05-01": 3660,
-  "2023-05-02": 3693,
-  "2023-05-03": 3727,
-  "2023-05-04": 3769,
-  "2023-05-05": 3807,
-  "2023-05-06": 3841,
-  "2023-05-07": 3873,
-  "2023-05-08": 3915,
-  "2023-05-09": 3950,
-  "2023-05-10": 3993,
-  "2023-05-11": 4021,
-  "2023-05-12": 4053,
-  "2023-05-13": 4081,
-  "2023-05-14": 4114,
-  "2023-05-15": 4147,
-  "2023-05-16": 4191,
-  "2023-05-17": 4214,
-  "2023-05-18": 4248,
-  "2023-05-19": 4287,
-  "2023-05-20": 4361,
-  "2023-05-21": 4361,
-  "2023-05-22": 4361,
-  "2023-05-23": 4429,
-  "2023-05-24": 4478,
-  "2023-05-25": 4486,
-  "2023-05-26": 4514,
-  "2023-05-27": 4547,
-  "2023-05-28": 4572,
-  "2023-05-29": 4572,
-  "2023-05-30": 4651,
-  "2023-05-31": 4670,
-  "2023-06-01": 4700,
-  "2023-06-02": 4728,
-  "2023-06-03": 4760,
-  "2023-06-04": 4789,
-  "2023-06-05": 4826,
-  "2023-06-06": 4860,
-  "2023-06-07": 4880,
-  "2023-06-08": 4902,
-  "2023-06-09": 4926,
-  "2023-06-10": 4951,
-  "2023-06-11": 4968,
-  "2023-06-12": 4998,
-  "2023-06-13": 5016,
-  "2023-06-14": 5054,
-  "2023-06-15": 5083,
-  "2023-06-16": 5116,
-  "2023-06-17": 5132,
-  "2023-06-18": 5167,
-  "2023-06-19": 5205,
-  "2023-06-20": 5229,
-  "2023-06-21": 5262,
-  "2023-06-22": 5294,
-  "2023-06-23": 5329,
-  "2023-06-24": 5350,
-  "2023-06-25": 5377,
-  "2023-06-26": 5409,
-  "2023-06-27": 5438,
-  "2023-06-28": 5451,
-  "2023-06-29": 5484,
-  "2023-06-30": 5509,
-  "2023-07-01": 5572,
-  "2023-07-02": 5572,
-  "2023-07-03": 5595,
-  "2023-07-04": 5635,
-  "2023-07-05": 5659,
-  "2023-07-06": 5725,
-  "2023-07-07": 5725,
-  "2023-07-08": 5760,
-  "2023-07-09": 5788,
-  "2023-07-10": 5816,
-  "2023-07-11": 5842,
-  "2023-07-12": 5877,
-  "2023-07-13": 5898,
-  "2023-07-14": 5927,
-  "2023-07-15": 5941,
-  "2023-07-16": 5975,
-  "2023-07-17": 6006,
-  "2023-07-18": 6049,
-  "2023-07-19": 6084,
-  "2023-07-20": 6108,
-  "2023-07-21": 6137,
-  "2023-07-22": 6164,
-  "2023-07-23": 6187,
-  "2023-07-24": 6228,
-  "2023-07-25": 6254,
-  "2023-07-26": 6278,
-  "2023-07-27": 6311,
-  "2023-07-28": 6333,
-  "2023-07-29": 6368,
-  "2023-07-30": 6394,
-  "2023-07-31": 6423,
-  "2023-08-01": 6454,
-  "2023-08-02": 6478,
-  "2023-08-03": 6506,
-  "2023-08-04": 6538,
-  "2023-08-05": 6561,
-  "2023-08-06": 6623,
-  "2023-08-07": 6623,
-  "2023-08-08": 6654,
-  "2023-08-09": 6687,
-  "2023-08-10": 6715,
-  "2023-08-11": 6735,
-  "2023-08-12": 6767,
-  "2023-08-13": 6793,
-  "2023-08-14": 6824,
-  "2023-08-15": 6884,
-  "2023-08-16": 6884,
-  "2023-08-17": 6919,
-  "2023-08-18": 6947,
-  "2023-08-19": 6969,
-  "2023-08-20": 6995,
-  "2023-08-21": 7027,
-  "2023-08-22": 7046,
-  "2023-08-23": 7077,
-  "2023-08-24": 7107,
-  "2023-08-25": 7141,
-  "2023-08-26": 7160,
-  "2023-08-27": 7195,
-  "2023-08-28": 7217,
-  "2023-08-29": 7258,
-  "2023-08-30": 7294,
-  "2023-08-31": 7326,
-  "2023-09-01": 7376,
-  "2023-09-02": 7376,
-  "2023-09-03": 7389,
-  "2023-09-04": 7420,
-  "2023-09-05": 7439,
-  "2023-09-06": 7464,
-  "2023-09-07": 7491,
-  "2023-09-08": 7513,
-  "2023-09-09": 7540,
-  "2023-09-10": 7560,
-  "2023-09-11": 7579,
-  "2023-09-12": 7607,
-  "2023-09-13": 7654,
-  "2023-09-14": 7685,
-  "2023-09-15": 7696,
-  "2023-09-16": 7710,
-  "2023-09-17": 7728,
-  "2023-09-18": 7748,
-  "2023-09-19": 7774,
-  "2023-09-20": 7790,
-  "2023-09-21": 7812,
-  "2023-09-22": 7831,
-  "2023-09-23": 7849,
-  "2023-09-24": 7869,
-  "2023-09-25": 7894,
-  "2023-09-26": 7918,
-  "2023-09-27": 7928,
-  "2023-09-28": 7944,
-  "2023-09-29": 7964,
-  "2023-09-30": 7979,
-  "2023-10-01": 7999,
-  "2023-10-02": 8015,
-  "2023-10-03": 8037,
-  "2023-10-04": 8062,
-  "2023-10-05": 8085,
-  "2023-10-06": 8106,
-  "2023-10-07": 8132,
-  "2023-10-08": 8151,
-  "2023-10-09": 8177,
-  "2023-10-10": 8198,
-  "2023-10-11": 8227,
-  "2023-10-12": 8227,
-  "2023-10-13": 8244,
-  "2023-10-14": 8254,
-  "2023-10-15": 8272,
-  "2023-10-16": 8283,
-  "2023-10-17": 8312,
-  "2023-10-18": 8333,
-  "2023-10-19": 8352,
-  "2023-10-20": 8368,
-  "2023-10-21": 8386,
-  "2023-10-22": 8396,
-  "2023-10-23": 8415,
-  "2023-10-24": 8435,
-  "2023-10-25": 8452,
-  "2023-10-26": 8473,
-  "2023-10-27": 8499,
-  "2023-10-28": 8522,
-  "2023-10-29": 8536,
-  "2023-10-30": 8587,
-  "2023-10-31": 8587,
-  "2023-11-01": 8607,
-  "2023-11-02": 8629,
-  "2023-11-03": 8645,
-  "2023-11-04": 8666,
-  "2023-11-05": 8687,
-  "2023-11-06": 8705,
-  "2023-11-07": 8729,
-  "2023-11-08": 8750,
-  "2023-11-09": 8770,
-  "2023-11-10": 8784,
-  "2023-11-11": 8804,
-  "2023-11-12": 8826,
-  "2023-11-13": 8838,
-  "2023-11-14": 8865,
-  "2023-11-15": 8865,
-  "2023-11-16": 8897,
-  "2023-11-17": 8942,
-  "2023-11-18": 8942,
-  "2023-11-19": 8971,
-  "2023-11-20": 8989,
-  "2023-11-21": 9021,
-  "2023-11-22": 9053,
-  "2023-11-23": 9084,
-  "2023-11-24": 9098,
-  "2023-11-25": 9117,
-  "2023-11-26": 9140,
-  "2023-11-27": 9161,
-  "2023-11-28": 9190,
-  "2023-11-29": 9232,
-  "2023-11-30": 9232,
-  "2023-12-01": 9254,
-  "2023-12-02": 9265,
-  "2023-12-03": 9281,
-  "2023-12-04": 9301,
-  "2023-12-05": 9322,
-  "2023-12-06": 9341,
-  "2023-12-07": 9358,
-  "2023-12-08": 9382,
-  "2023-12-09": 9404,
-  "2023-12-10": 9432,
-  "2023-12-11": 9456,
-  "2023-12-12": 9476,
-  "2023-12-13": 9504,
-  "2023-12-14": 9535,
-  "2023-12-15": 9553,
-  "2023-12-16": 9571,
-  "2023-12-17": 9591,
-  "2023-12-18": 9620,
-  "2023-12-19": 9644,
-  "2023-12-20": 9667,
-  "2023-12-21": 9695,
-  "2023-12-22": 9717,
-  "2023-12-23": 9738,
-  "2023-12-24": 9760,
-  "2023-12-25": 9777,
-  "2023-12-26": 9801,
-  "2023-12-27": 9825,
-  "2023-12-30": 9896,
-  "2023-12-31": 9921,
-  "2024-01-01": 9949,
-  "2024-01-02": 9964,
-  "2024-01-03": 9993
+  "2024-01-17": 10338,
+  "date_first_scraped": "2023-01-11",
+  "description": "Jon Hopkins' Takeover selection, as previously featured on <a href=\"spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL\">Ambient X</a>.",
+  "name": "Ambient X Takeover: Jon Hopkins",
+  "tracks": [
+    {
+      "album": {
+        "name": "Seven Gulps Of Air",
+        "url": "https://open.spotify.com/album/0zA641FjHR0mBKgsnbojCn"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418786,
+      "name": "A Drifting Down",
+      "url": "https://open.spotify.com/track/726XOF1P11qhuI2ssmvNqN"
+    },
+    {
+      "album": {
+        "name": "Eyes of the Moon",
+        "url": "https://open.spotify.com/album/6K0O3JLhYlVuoWYhTPmSRs"
+      },
+      "artists": [
+        {
+          "name": "Seahawks",
+          "url": "https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504312,
+      "name": "Emergence",
+      "url": "https://open.spotify.com/track/6cuv6wZ1LzmRqDw4VEbl5O"
+    },
+    {
+      "album": {
+        "name": "Amaryllis Dream",
+        "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
+      },
+      "artists": [
+        {
+          "name": "Ishq",
+          "url": "https://open.spotify.com/artist/4SOjulesys5BeXKPGUCY9F"
+        },
+        {
+          "name": "Yunomi",
+          "url": "https://open.spotify.com/artist/47NibWh0URYzp6bWgWlsDu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238701,
+      "name": "Fire Flys",
+      "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+    },
+    {
+      "album": {
+        "name": "Patterns Of Consciousness",
+        "url": "https://open.spotify.com/album/0NzTh2r6EOk9JDWkRHkeYS"
+      },
+      "artists": [
+        {
+          "name": "Caterina Barbieri",
+          "url": "https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 947500,
+      "name": "Gravity that Binds",
+      "url": "https://open.spotify.com/track/7dS9nthl03XLZySLWLuSRh"
+    },
+    {
+      "album": {
+        "name": "Kindred Phenomena",
+        "url": "https://open.spotify.com/album/2iV8qDh26lywn93NEbCuG5"
+      },
+      "artists": [
+        {
+          "name": "Mattheis",
+          "url": "https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536499,
+      "name": "Herds",
+      "url": "https://open.spotify.com/track/6FizwvsbA4PUrGCFZtx9w8"
+    },
+    {
+      "album": {
+        "name": "Paradise Valley",
+        "url": "https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174370,
+      "name": "I'm Clean Now",
+      "url": "https://open.spotify.com/track/4qm8sWdYoXkdhMN8EL9mAL"
+    },
+    {
+      "album": {
+        "name": "Healing Is A Miracle",
+        "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
+      },
+      "artists": [
+        {
+          "name": "Julianna Barwick",
+          "url": "https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252735,
+      "name": "Inspirit",
+      "url": "https://open.spotify.com/track/2ZrCLJz5UGbJCW2JK2OgkK"
+    },
+    {
+      "album": {
+        "name": "Pop Ambient 2007",
+        "url": "https://open.spotify.com/album/5FN0w1tQeIeVBNtPMoTTCT"
+      },
+      "artists": [
+        {
+          "name": "The Field",
+          "url": "https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 471080,
+      "name": "Kappsta",
+      "url": "https://open.spotify.com/track/5knjtag0WcgaWHDThk0zCz"
+    },
+    {
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/21LZ1OSKbxSU5I7QBUalW8"
+      },
+      "artists": [
+        {
+          "name": "Animal Collective",
+          "url": "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299146,
+      "name": "Loch Raven",
+      "url": "https://open.spotify.com/track/2c72qfxXOJUlPoJimDcI20"
+    },
+    {
+      "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/5u2Ff7OgkD1yp2oOyMxiHp"
+    },
+    {
+      "album": {
+        "name": "Mary, You Were Wrong",
+        "url": "https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-18",
+      "duration_ms": 298061,
+      "name": "Mary, You Were Wrong",
+      "url": "https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH"
+    },
+    {
+      "album": {
+        "name": "instrumentals",
+        "url": "https://open.spotify.com/album/71q46YDkSq6uXS5WJy4WMk"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 972007,
+      "name": "mostly chimes",
+      "url": "https://open.spotify.com/track/26YdNW3yMLfA5NpTB8wzQy"
+    },
+    {
+      "album": {
+        "name": "Music For Psychedelic Therapy (Excerpt)",
+        "url": "https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427299,
+      "name": "Music For Psychedelic Therapy - Excerpt",
+      "url": "https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba"
+    },
+    {
+      "album": {
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
+      },
+      "artists": [
+        {
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Perennial Bloom",
+      "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
+    },
+    {
+      "album": {
+        "name": "Emerald",
+        "url": "https://open.spotify.com/album/2TYwSVN9BAVvQvIUFRL5QY"
+      },
+      "artists": [
+        {
+          "name": "Elve",
+          "url": "https://open.spotify.com/artist/4WFhSikirtxVOgdDNf4hig"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531813,
+      "name": "Plateua",
+      "url": "https://open.spotify.com/track/26NHseYIJUFPnFmRva0TzO"
+    },
+    {
+      "album": {
+        "name": "Sit Around The Fire",
+        "url": "https://open.spotify.com/album/6yr4d6TDbPpsUklbsLUz6x"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Ram Dass",
+          "url": "https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS"
+        },
+        {
+          "name": "East Forest",
+          "url": "https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502705,
+      "name": "Sit Around The Fire",
+      "url": "https://open.spotify.com/track/5kdXiiF8MxyLVhRjkVv9jQ"
+    },
+    {
+      "album": {
+        "name": "Big Dreaming Ants Remixes",
+        "url": "https://open.spotify.com/album/3HdvOKlrPsV6x4exayF53j"
+      },
+      "artists": [
+        {
+          "name": "Nana Adjoa",
+          "url": "https://open.spotify.com/artist/2W61gnKGmJykgFSJSvqVCe"
+        },
+        {
+          "name": "Mattheis",
+          "url": "https://open.spotify.com/artist/0LtO8dObPBIddqtb2rKgPj"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319893,
+      "name": "Throw Stones - Mattheis Remix",
+      "url": "https://open.spotify.com/track/2Hb4Hutwy23nIiiFRel7Q9"
+    },
+    {
+      "album": {
+        "name": "Plays Bee Mask",
+        "url": "https://open.spotify.com/album/7EaPzUAQ1NFESSHaKO0Dlc"
+      },
+      "artists": [
+        {
+          "name": "Donato Dozzy",
+          "url": "https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349951,
+      "name": "Vaporware 01",
+      "url": "https://open.spotify.com/track/4yQQuyjdUzVQozJrlJRnBM"
+    },
+    {
+      "album": {
+        "name": "Irrbloss",
+        "url": "https://open.spotify.com/album/7AVm58ZATXFC4wBfuDRQxD"
+      },
+      "artists": [
+        {
+          "name": "Dorisburg",
+          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358386,
+      "name": "Votiv",
+      "url": "https://open.spotify.com/track/6L56pepR6uJYg4cQoG1W1n"
+    },
+    {
+      "album": {
+        "name": "Irrbloss",
+        "url": "https://open.spotify.com/album/76P5vqh6WaoLuBPSO3mJPO"
+      },
+      "artists": [
+        {
+          "name": "Dorisburg",
+          "url": "https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-28",
+      "duration_ms": 358386,
+      "name": "Votiv",
+      "url": "https://open.spotify.com/track/7dhotWWze1Ml2ZFD6B0dn6"
+    },
+    {
+      "album": {
+        "name": "Mystic Familiar",
+        "url": "https://open.spotify.com/album/10e9Nf6QFZMTEy5TQm8G85"
+      },
+      "artists": [
+        {
+          "name": "Dan Deacon",
+          "url": "https://open.spotify.com/artist/5Z3IWpvwOvoaWodujHw7xh"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262708,
+      "name": "Weeping Birch",
+      "url": "https://open.spotify.com/track/2cs3IeMLceErTJmKsILIk5"
+    },
+    {
+      "album": {
+        "name": "Music For Psychedelic Therapy",
+        "url": "https://open.spotify.com/album/2zY5p176SfmupXceLKT6bH"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "7RAYS",
+          "url": "https://open.spotify.com/artist/0AkP07i2cYjfWmxqCpdwwx"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382773,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX3q5r5YC7NjT"
 }

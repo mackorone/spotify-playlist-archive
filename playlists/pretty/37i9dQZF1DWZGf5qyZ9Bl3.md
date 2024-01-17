@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 
 > chill piano melodies and cozy lofi beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,431 likes - 102 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,667 likes - 101 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,31 +84,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGf5qyZ9Bl3.md) - [plain]
 | 74 | [First Light](https://open.spotify.com/track/2BRki9AJwsZp0iaN4qqMpF) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [First Light](https://open.spotify.com/album/4FN8hl1pynMrgb2GqIApEw) | 1:59 |
 | 75 | [Dreamland](https://open.spotify.com/track/4yvVPtvQ0yF1Nckkb3EGrd) | [Goloise](https://open.spotify.com/artist/4kMBqDrPnAOZnUVZLYNDbX) | [Dreamland](https://open.spotify.com/album/3MrnLV813ZQmMh0mUQNjXW) | 2:30 |
 | 76 | [next to me](https://open.spotify.com/track/3IZcTC5ntPwhjsNIyQygh8) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [next to me](https://open.spotify.com/album/3RAIFftTjeHKcdq8WOr6HT) | 1:48 |
-| 77 | [Remember Us](https://open.spotify.com/track/7azNHjz8p1am7uQGVf0Qwh) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Remember Us](https://open.spotify.com/album/4aPbMJpheu9Zigz93qVD5H) | 2:17 |
-| 78 | [Granular Road](https://open.spotify.com/track/2TpPzyADjLMge83lyG7H0o) | [Morris Hardin](https://open.spotify.com/artist/5WzMpvVEVIAwBzvtHCHSMt) | [The Last Trip](https://open.spotify.com/album/4RSk852mbcyiY12mHp5bGX) | 2:42 |
-| 79 | [Aurora](https://open.spotify.com/track/3HU9ZNApVMhq8RmLFum4Mp) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Aurora](https://open.spotify.com/album/0umZ4KkR8xH3GxnP6J6HUk) | 3:05 |
-| 80 | [back to the way it was](https://open.spotify.com/track/7A96feaxjLPBkVksD221Vb) | [slone](https://open.spotify.com/artist/7srYknHlhn9AnHNmBhAFOb) | [back to the way it was](https://open.spotify.com/album/1IOafL6GAmdaqvCzPHunUd) | 1:49 |
-| 81 | [Paris](https://open.spotify.com/track/7dfiqQg1mpguXK7gNwgQle) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Paris](https://open.spotify.com/album/7mT3it3tSO1fk0aA2ooxS2) | 2:35 |
-| 82 | [misty roads](https://open.spotify.com/track/6tNiamSafwCipjcN49WmoA) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [misty roads](https://open.spotify.com/album/5z3QTdB9bgpJH1s8NC05jI) | 2:20 |
-| 83 | [Tulips](https://open.spotify.com/track/7HdTphbSIaxvCS3rSPnUqA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Tulips](https://open.spotify.com/album/2E1OnMBa7jtAztSiWHoDnB) | 1:38 |
-| 84 | [In Berlin](https://open.spotify.com/track/13N9uTMko9M6WXXKBnjR8o) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [In Berlin](https://open.spotify.com/album/41PtsnHFeYna6uD46iKSM7) | 1:25 |
-| 85 | [rebundance](https://open.spotify.com/track/7KLD4ITn31VoczaKOfSmGE) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [rebundance](https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL) | 1:46 |
-| 86 | [Come By Sometime](https://open.spotify.com/track/6Sw6pt7ksxQjwt1oOT4sU9) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [About Last Night](https://open.spotify.com/album/6HTLyZXIIM4ZtdkRweWlUK) | 2:18 |
-| 87 | [if not now, when](https://open.spotify.com/track/7JcLHusPNkA7MEevw3S4Ax) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [somber september](https://open.spotify.com/album/6Uf1eHQEcwjHsHwGt1jF9U) | 2:33 |
-| 88 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 |
-| 89 | [cherry blossom](https://open.spotify.com/track/4mnbKdnZmDBLd4yAQn6Eok) | [Kaiyo](https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs) | [cherry blossom](https://open.spotify.com/album/1sED6mw1hzxjLDlpOwy3bL) | 1:54 |
-| 90 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 |
-| 91 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 |
-| 92 | [Cherry On Top](https://open.spotify.com/track/1LmlQEL9D1f7r924j06Nys) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Cherry On Top](https://open.spotify.com/album/6rjLnUsRsulPBiW7XpwnRB) | 2:13 |
-| 93 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 |
-| 94 | [Hacienda](https://open.spotify.com/track/7IUTIwIpHaquAp6mHMJEZ4) | [Pandaw](https://open.spotify.com/artist/5Dis5h8442u0u3IA8846ho) | [Hacienda](https://open.spotify.com/album/3bz3AZng3nz1ewUS5Wwpuk) | 2:25 |
-| 95 | [Hayati](https://open.spotify.com/track/5Z5vicNoRjhq7Tft22xSUb) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Hayati](https://open.spotify.com/album/2Omx85msMQQdtlsn7vQsW7) | 2:20 |
-| 96 | [\(fall\) ing for you](https://open.spotify.com/track/5tqT5Do726RaaxNjD1LmwZ) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [\(fall\) ing for you](https://open.spotify.com/album/3nkuuv6tjUTabyHrEDcsK9) | 2:03 |
-| 97 | [Castle](https://open.spotify.com/track/5TDeS5YLiDUhfzzsrbhWOR) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [Castle](https://open.spotify.com/album/4CCcDaoU6Gnm9Yo0HVdOKY) | 1:56 |
-| 98 | [waltz up](https://open.spotify.com/track/2GmmbiHk0cTtEPI2cuhVx5) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [waltz up](https://open.spotify.com/album/1VYd7kvw4MMt9VxOYAeEBl) | 2:24 |
-| 99 | [A Sunny Balcony](https://open.spotify.com/track/5rSmyGg1Dwpg8qehpIy89k) | [OKSYO](https://open.spotify.com/artist/302vZHawaH0lS8ZExheGih) | [A Sunny Balcony](https://open.spotify.com/album/1MzbsRw0zNRYbpERWbL9R9) | 3:11 |
-| 100 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 |
-| 101 | [Breath Of Eternal](https://open.spotify.com/track/0f43LSmKqevW1BOpF9TPvl) | [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Breath Of Eternal](https://open.spotify.com/album/0Amml1IYryuyFdzVzuDol0) | 2:12 |
-| 102 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
+| 77 | [Granular Road](https://open.spotify.com/track/2TpPzyADjLMge83lyG7H0o) | [Morris Hardin](https://open.spotify.com/artist/5WzMpvVEVIAwBzvtHCHSMt) | [The Last Trip](https://open.spotify.com/album/4RSk852mbcyiY12mHp5bGX) | 2:42 |
+| 78 | [Aurora](https://open.spotify.com/track/3HU9ZNApVMhq8RmLFum4Mp) | [Oscar Hollis](https://open.spotify.com/artist/15ZZypdx99YQ2lPB7o5wka) | [Aurora](https://open.spotify.com/album/0umZ4KkR8xH3GxnP6J6HUk) | 3:05 |
+| 79 | [back to the way it was](https://open.spotify.com/track/7A96feaxjLPBkVksD221Vb) | [slone](https://open.spotify.com/artist/7srYknHlhn9AnHNmBhAFOb) | [back to the way it was](https://open.spotify.com/album/1IOafL6GAmdaqvCzPHunUd) | 1:49 |
+| 80 | [Paris](https://open.spotify.com/track/7dfiqQg1mpguXK7gNwgQle) | [lofi stu](https://open.spotify.com/artist/42sa3ImS1Gv0LDCNS8jr2E) | [Paris](https://open.spotify.com/album/7mT3it3tSO1fk0aA2ooxS2) | 2:35 |
+| 81 | [misty roads](https://open.spotify.com/track/6tNiamSafwCipjcN49WmoA) | [nadezhiko](https://open.spotify.com/artist/6JbECRtgmjNHNUeDaKQgtp) | [misty roads](https://open.spotify.com/album/5z3QTdB9bgpJH1s8NC05jI) | 2:20 |
+| 82 | [Tulips](https://open.spotify.com/track/7HdTphbSIaxvCS3rSPnUqA) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Tulips](https://open.spotify.com/album/2E1OnMBa7jtAztSiWHoDnB) | 1:38 |
+| 83 | [In Berlin](https://open.spotify.com/track/13N9uTMko9M6WXXKBnjR8o) | [Wax A Dizk](https://open.spotify.com/artist/0oFTGAftcAfchCbIObOGjh) | [In Berlin](https://open.spotify.com/album/41PtsnHFeYna6uD46iKSM7) | 1:25 |
+| 84 | [rebundance](https://open.spotify.com/track/7KLD4ITn31VoczaKOfSmGE) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [rebundance](https://open.spotify.com/album/5YRofK4ZSwPEaXhzGBcrpL) | 1:46 |
+| 85 | [Come By Sometime](https://open.spotify.com/track/6Sw6pt7ksxQjwt1oOT4sU9) | [Yedai](https://open.spotify.com/artist/4GYycScCEPQprmeYJIiBRU) | [About Last Night](https://open.spotify.com/album/6HTLyZXIIM4ZtdkRweWlUK) | 2:18 |
+| 86 | [if not now, when](https://open.spotify.com/track/7JcLHusPNkA7MEevw3S4Ax) | [96 Zeus](https://open.spotify.com/artist/4QJlbrf6YpfIkRB5GrK34n) | [somber september](https://open.spotify.com/album/6Uf1eHQEcwjHsHwGt1jF9U) | 2:33 |
+| 87 | [bloom](https://open.spotify.com/track/0dOnielazzJAafGsSBYmWl) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bloom](https://open.spotify.com/album/5BJau1GLTkarkCZ6fHkpDK) | 2:13 |
+| 88 | [cherry blossom](https://open.spotify.com/track/4mnbKdnZmDBLd4yAQn6Eok) | [Kaiyo](https://open.spotify.com/artist/03J6WM7FvOQZfszAVknxVs) | [cherry blossom](https://open.spotify.com/album/1sED6mw1hzxjLDlpOwy3bL) | 1:54 |
+| 89 | [After Dawn](https://open.spotify.com/track/6nsqP8L7fscN3mUHM6dATz) | [Sitza](https://open.spotify.com/artist/3KeghQlQsaQ4ANmN9v80CC) | [After Dawn](https://open.spotify.com/album/4QZ6EWECTo82WXegipi6T3) | 2:26 |
+| 90 | [Workit](https://open.spotify.com/track/7GmA2dTy4r4MPxenVVDzMy) | [Netta Inn](https://open.spotify.com/artist/7lF2gpQHWssOuxR1kipNsn) | [Workit](https://open.spotify.com/album/1WSr66Wahw1IvFjmystaxW) | 2:45 |
+| 91 | [Cherry On Top](https://open.spotify.com/track/1LmlQEL9D1f7r924j06Nys) | [Neon Panda](https://open.spotify.com/artist/2NtkuswhQoj1dDBC5xFLtY) | [Cherry On Top](https://open.spotify.com/album/6rjLnUsRsulPBiW7XpwnRB) | 2:13 |
+| 92 | [BLANKETS & TEA](https://open.spotify.com/track/61dILGHsXFOJf4hM9RIZ2M) | [ddrreeaamm](https://open.spotify.com/artist/36nRPSyGHHo4hT0wpvxTBr) | [BLANKETS & TEA](https://open.spotify.com/album/1sq2sCx4tTuXaoSNo5Xu0u) | 2:30 |
+| 93 | [Hacienda](https://open.spotify.com/track/7IUTIwIpHaquAp6mHMJEZ4) | [Pandaw](https://open.spotify.com/artist/5Dis5h8442u0u3IA8846ho) | [Hacienda](https://open.spotify.com/album/3bz3AZng3nz1ewUS5Wwpuk) | 2:25 |
+| 94 | [Hayati](https://open.spotify.com/track/5Z5vicNoRjhq7Tft22xSUb) | [Naritomi](https://open.spotify.com/artist/5jRkUp9d5LrpYOlKFGvVUx) | [Hayati](https://open.spotify.com/album/2Omx85msMQQdtlsn7vQsW7) | 2:20 |
+| 95 | [\(fall\) ing for you](https://open.spotify.com/track/5tqT5Do726RaaxNjD1LmwZ) | [dave.](https://open.spotify.com/artist/17R10v2unr1DGfF0cDg7OE) | [\(fall\) ing for you](https://open.spotify.com/album/3nkuuv6tjUTabyHrEDcsK9) | 2:03 |
+| 96 | [Castle](https://open.spotify.com/track/5TDeS5YLiDUhfzzsrbhWOR) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [Castle](https://open.spotify.com/album/4CCcDaoU6Gnm9Yo0HVdOKY) | 1:56 |
+| 97 | [waltz up](https://open.spotify.com/track/2GmmbiHk0cTtEPI2cuhVx5) | [Au\-Gustí](https://open.spotify.com/artist/3ji2V5xxzUdLIdss19kBp7) | [waltz up](https://open.spotify.com/album/1VYd7kvw4MMt9VxOYAeEBl) | 2:24 |
+| 98 | [A Sunny Balcony](https://open.spotify.com/track/5rSmyGg1Dwpg8qehpIy89k) | [OKSYO](https://open.spotify.com/artist/302vZHawaH0lS8ZExheGih) | [A Sunny Balcony](https://open.spotify.com/album/1MzbsRw0zNRYbpERWbL9R9) | 3:11 |
+| 99 | [clavia](https://open.spotify.com/track/1btRTBBwpv0ISGB0LScgz2) | [modecontrol](https://open.spotify.com/artist/5ONC1q1sMKkNGf8k0OoF7h) | [clavia](https://open.spotify.com/album/3RkuJvoRdaCnk3IB89mgri) | 1:36 |
+| 100 | [Breath Of Eternal](https://open.spotify.com/track/0f43LSmKqevW1BOpF9TPvl) | [b e r t h](https://open.spotify.com/artist/7rS6EV9KaFOxLB72NUHNwQ), [LUQĘT](https://open.spotify.com/artist/2ZSBQcpkzOiygKAT0uRmaH) | [Breath Of Eternal](https://open.spotify.com/album/0Amml1IYryuyFdzVzuDol0) | 2:12 |
+| 101 | [Where Are We Now](https://open.spotify.com/track/6WwHolqdxR10p5dYb1iIm5) | [pepperonibeats](https://open.spotify.com/artist/6umzt0RZKFvgGpph8tRqDT) | [Where Are We Now](https://open.spotify.com/album/0oBZoGWLYe5pFrJ3CixRaS) | 2:29 |
 
-Snapshot ID: `MCwzMTBmZTMwMWM0MzAwNTVjYTg0YjgyMzQyZWYwMGI1N2U5ZTg3NGU3`
+Snapshot ID: `MCxjZGNiYjg2Nzg4MDgzZWQwYmNmY2Y3ZWYzMmU1MzcwMTJmODk1Mjg0`

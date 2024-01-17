@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 
 > Les meilleures musiques de l'année 2023 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-[GRRIF](https://open.spotify.com/user/grrifradio) - 717 likes - 100 songs - 6 hr 3 min
+[GRRIF](https://open.spotify.com/user/grrifradio) - 724 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 | 99 | [EST](https://open.spotify.com/track/1ojCQ0v59O77rKZbwN8aQh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [EST](https://open.spotify.com/album/0uTa7zuhN42yVclpAkJL9i) | 5:36 |
 | 100 | [Howlin' At The New Moon \(feat\. Mayer Hawthorne\)](https://open.spotify.com/track/6FXqJmgSKka0NRlrxfhSrv) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Howlin' At The New Moon \(feat\. Mayer Hawthorne\)](https://open.spotify.com/album/6KaaEX144VYrAUJNU5RrtJ) | 3:24 |
 
-Snapshot ID: `MTE3LDE5ZGE2YTI1NGM2YWU4NGFjZTNlNTcwNTNjNTAwZjExODk1ZjFmZGI=`
+Snapshot ID: `MTE5LDdhMjM5ZmIyOTFjNWIyYzRiNjU5ODlkNjI4ODY0ZmEwY2Y1MmFjY2U=`

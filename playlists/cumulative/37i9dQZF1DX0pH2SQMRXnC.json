@@ -5599,6 +5599,24 @@
     },
     {
       "album": {
+        "name": "HOOYAH",
+        "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104400,
+      "name": "HOOYAH",
+      "url": "https://open.spotify.com/track/5AokLgh7SwrhLwXS9QZNZS"
+    },
+    {
+      "album": {
         "name": "Horrorshow",
         "url": "https://open.spotify.com/album/1Dv5tHT8KndXXPwubxunDS"
       },
@@ -8488,7 +8506,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 241548,
       "name": "No Paradise",
       "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"

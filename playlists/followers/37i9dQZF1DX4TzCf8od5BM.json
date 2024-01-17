@@ -1,621 +1,4117 @@
 {
-  "2022-04-19": 41897,
-  "2022-04-20": 41910,
-  "2022-04-21": 41926,
-  "2022-04-22": 41934,
-  "2022-04-23": 41943,
-  "2022-04-24": 41954,
-  "2022-04-25": 41964,
-  "2022-04-26": 41983,
-  "2022-04-27": 41992,
-  "2022-04-28": 42000,
-  "2022-04-29": 42021,
-  "2022-04-30": 42046,
-  "2022-05-01": 42063,
-  "2022-05-02": 42063,
-  "2022-05-03": 42075,
-  "2022-05-04": 42086,
-  "2022-05-05": 42092,
-  "2022-05-06": 42107,
-  "2022-05-07": 42130,
-  "2022-05-08": 42149,
-  "2022-05-09": 42152,
-  "2022-05-10": 42172,
-  "2022-05-11": 42185,
-  "2022-05-12": 42209,
-  "2022-05-13": 42226,
-  "2022-05-14": 42239,
-  "2022-05-15": 42255,
-  "2022-05-16": 42261,
-  "2022-05-17": 42298,
-  "2022-05-18": 42337,
-  "2022-05-19": 42364,
-  "2022-05-20": 42383,
-  "2022-05-21": 42426,
-  "2022-05-22": 42426,
-  "2022-05-23": 42442,
-  "2022-05-24": 42459,
-  "2022-05-25": 42476,
-  "2022-05-26": 42494,
-  "2022-05-27": 42518,
-  "2022-05-28": 42531,
-  "2022-05-29": 42544,
-  "2022-05-30": 42568,
-  "2022-05-31": 42577,
-  "2022-06-01": 42603,
-  "2022-06-02": 42608,
-  "2022-06-03": 42623,
-  "2022-06-04": 42638,
-  "2022-06-05": 42664,
-  "2022-06-06": 42673,
-  "2022-06-07": 42689,
-  "2022-06-08": 42693,
-  "2022-06-09": 42698,
-  "2022-06-10": 42705,
-  "2022-06-11": 42733,
-  "2022-06-12": 42761,
-  "2022-06-13": 42784,
-  "2022-06-14": 42804,
-  "2022-06-15": 42811,
-  "2022-06-16": 42827,
-  "2022-06-17": 42839,
-  "2022-06-18": 42849,
-  "2022-06-19": 42872,
-  "2022-06-20": 42872,
-  "2022-06-21": 42884,
-  "2022-06-22": 42916,
-  "2022-06-23": 42916,
-  "2022-06-24": 42933,
-  "2022-06-25": 42933,
-  "2022-06-26": 42953,
-  "2022-06-27": 42970,
-  "2022-06-28": 42970,
-  "2022-06-29": 42990,
-  "2022-06-30": 42996,
-  "2022-07-01": 43009,
-  "2022-07-02": 43029,
-  "2022-07-03": 43052,
-  "2022-07-04": 43062,
-  "2022-07-05": 43075,
-  "2022-07-06": 43094,
-  "2022-07-07": 43111,
-  "2022-07-08": 43124,
-  "2022-07-09": 43137,
-  "2022-07-10": 43155,
-  "2022-07-11": 43171,
-  "2022-07-12": 43176,
-  "2022-07-13": 43186,
-  "2022-07-14": 43194,
-  "2022-07-15": 43213,
-  "2022-07-16": 43228,
-  "2022-07-17": 43241,
-  "2022-07-18": 43252,
-  "2022-07-19": 43270,
-  "2022-07-20": 43281,
-  "2022-07-21": 43302,
-  "2022-07-22": 43327,
-  "2022-07-23": 43334,
-  "2022-07-24": 43350,
-  "2022-07-25": 43365,
-  "2022-07-26": 43377,
-  "2022-07-27": 43393,
-  "2022-07-28": 43405,
-  "2022-07-29": 43419,
-  "2022-07-30": 43443,
-  "2022-07-31": 43443,
-  "2022-08-01": 43449,
-  "2022-08-02": 43479,
-  "2022-08-03": 43479,
-  "2022-08-04": 43489,
-  "2022-08-05": 43505,
-  "2022-08-06": 43526,
-  "2022-08-07": 43547,
-  "2022-08-08": 43569,
-  "2022-08-09": 43583,
-  "2022-08-10": 43599,
-  "2022-08-11": 43618,
-  "2022-08-12": 43623,
-  "2022-08-13": 43647,
-  "2022-08-14": 43660,
-  "2022-08-15": 43685,
-  "2022-08-16": 43702,
-  "2022-08-17": 43712,
-  "2022-08-18": 43723,
-  "2022-08-19": 43737,
-  "2022-08-20": 43769,
-  "2022-08-21": 43799,
-  "2022-08-22": 43828,
-  "2022-08-23": 43853,
-  "2022-08-24": 43867,
-  "2022-08-25": 43875,
-  "2022-08-26": 43891,
-  "2022-08-27": 43918,
-  "2022-08-28": 43946,
-  "2022-08-29": 43974,
-  "2022-08-30": 43983,
-  "2022-08-31": 43973,
-  "2022-09-01": 43971,
-  "2022-09-02": 43960,
-  "2022-09-03": 43993,
-  "2022-09-04": 43939,
-  "2022-09-05": 43991,
-  "2022-09-06": 44030,
-  "2022-09-07": 44068,
-  "2022-09-09": 44130,
-  "2022-09-10": 44177,
-  "2022-09-11": 44234,
-  "2022-09-12": 44290,
-  "2022-09-13": 44309,
-  "2022-09-15": 44383,
-  "2022-09-16": 44417,
-  "2022-09-17": 44460,
-  "2022-09-18": 44518,
-  "2022-09-19": 44575,
-  "2022-09-20": 44604,
-  "2022-09-21": 44621,
-  "2022-09-22": 44657,
-  "2022-09-23": 44692,
-  "2022-09-24": 44732,
-  "2022-09-25": 44792,
-  "2022-09-26": 44855,
-  "2022-09-27": 44892,
-  "2022-09-28": 44925,
-  "2022-09-29": 44954,
-  "2022-09-30": 44991,
-  "2022-10-01": 45040,
-  "2022-10-02": 45085,
-  "2022-10-03": 45120,
-  "2022-10-04": 45147,
-  "2022-10-05": 45166,
-  "2022-10-06": 45195,
-  "2022-10-07": 45233,
-  "2022-10-08": 45272,
-  "2022-10-09": 45359,
-  "2022-10-10": 45367,
-  "2022-10-11": 45393,
-  "2022-10-12": 45419,
-  "2022-10-13": 45455,
-  "2022-10-14": 45489,
-  "2022-10-15": 45527,
-  "2022-10-16": 45576,
-  "2022-10-17": 45623,
-  "2022-10-18": 45649,
-  "2022-10-19": 45674,
-  "2022-10-20": 45717,
-  "2022-10-21": 45757,
-  "2022-10-22": 45789,
-  "2022-10-23": 45838,
-  "2022-10-24": 45881,
-  "2022-10-25": 45908,
-  "2022-10-26": 45946,
-  "2022-10-27": 45981,
-  "2022-10-28": 46012,
-  "2022-10-29": 46058,
-  "2022-10-30": 46088,
-  "2022-10-31": 46122,
-  "2022-11-01": 46139,
-  "2022-11-02": 46173,
-  "2022-11-03": 46206,
-  "2022-11-04": 46248,
-  "2022-11-05": 46271,
-  "2022-11-06": 46311,
-  "2022-11-07": 46363,
-  "2022-11-08": 46388,
-  "2022-11-09": 46430,
-  "2022-11-10": 46465,
-  "2022-11-11": 46505,
-  "2022-11-12": 46543,
-  "2022-11-13": 46592,
-  "2022-11-14": 46637,
-  "2022-11-15": 46678,
-  "2022-11-16": 46709,
-  "2022-11-17": 46748,
-  "2022-11-18": 46726,
-  "2022-11-19": 46709,
-  "2022-11-20": 46797,
-  "2022-11-21": 46776,
-  "2022-11-22": 46889,
-  "2022-11-23": 46874,
-  "2022-11-24": 46996,
-  "2022-11-25": 47042,
-  "2022-11-26": 47076,
-  "2022-11-27": 47105,
-  "2022-11-28": 47135,
-  "2022-11-29": 47148,
-  "2022-11-30": 47172,
-  "2022-12-01": 47196,
-  "2022-12-02": 47217,
-  "2022-12-03": 47249,
-  "2022-12-04": 47268,
-  "2022-12-05": 47307,
-  "2022-12-06": 47326,
-  "2022-12-07": 47340,
-  "2022-12-08": 47377,
-  "2022-12-09": 47400,
-  "2022-12-10": 47424,
-  "2022-12-11": 47457,
-  "2022-12-12": 47485,
-  "2022-12-13": 47502,
-  "2022-12-14": 47516,
-  "2022-12-15": 47539,
-  "2022-12-16": 47559,
-  "2022-12-17": 47590,
-  "2022-12-18": 47617,
-  "2022-12-19": 47640,
-  "2022-12-20": 47688,
-  "2022-12-21": 47688,
-  "2022-12-22": 47719,
-  "2022-12-24": 47782,
-  "2022-12-25": 47801,
-  "2022-12-26": 47815,
-  "2022-12-27": 47822,
-  "2022-12-28": 47846,
-  "2022-12-29": 47879,
-  "2022-12-30": 47895,
-  "2022-12-31": 47918,
-  "2023-01-01": 47957,
-  "2023-01-02": 47981,
-  "2023-01-03": 48004,
-  "2023-01-04": 48028,
-  "2023-01-05": 48046,
-  "2023-01-06": 48080,
-  "2023-01-07": 48131,
-  "2023-01-08": 48134,
-  "2023-01-09": 48174,
-  "2023-01-10": 48199,
-  "2023-01-11": 48226,
-  "2023-01-12": 48237,
-  "2023-01-13": 48265,
-  "2023-01-14": 48318,
-  "2023-01-15": 48325,
-  "2023-01-16": 48354,
-  "2023-01-17": 48386,
-  "2023-01-18": 48427,
-  "2023-01-19": 48468,
-  "2023-01-20": 48509,
-  "2023-01-21": 48560,
-  "2023-01-22": 48617,
-  "2023-01-23": 48670,
-  "2023-01-24": 48698,
-  "2023-01-25": 48750,
-  "2023-01-26": 48803,
-  "2023-01-27": 48836,
-  "2023-01-28": 48881,
-  "2023-01-29": 48936,
-  "2023-01-30": 48983,
-  "2023-01-31": 48983,
-  "2023-02-01": 49062,
-  "2023-02-02": 49095,
-  "2023-02-03": 49130,
-  "2023-02-04": 49162,
-  "2023-02-05": 49208,
-  "2023-02-06": 49250,
-  "2023-02-07": 49278,
-  "2023-02-08": 49369,
-  "2023-02-09": 49369,
-  "2023-02-10": 49408,
-  "2023-02-11": 49444,
-  "2023-02-12": 49496,
-  "2023-02-13": 49525,
-  "2023-02-14": 49525,
-  "2023-02-15": 49559,
-  "2023-02-16": 49587,
-  "2023-02-17": 49620,
-  "2023-02-18": 49692,
-  "2023-02-19": 49702,
-  "2023-02-20": 49723,
-  "2023-02-21": 49747,
-  "2023-02-22": 49775,
-  "2023-02-23": 49809,
-  "2023-02-24": 49836,
-  "2023-02-25": 49882,
-  "2023-02-26": 49908,
-  "2023-02-27": 49980,
-  "2023-02-28": 49980,
-  "2023-03-01": 50005,
-  "2023-03-02": 50036,
-  "2023-03-03": 50085,
-  "2023-03-04": 50122,
-  "2023-03-05": 50190,
-  "2023-03-06": 50190,
-  "2023-03-07": 50227,
-  "2023-03-08": 50259,
-  "2023-03-09": 50295,
-  "2023-03-10": 50336,
-  "2023-03-11": 50370,
-  "2023-03-12": 50409,
-  "2023-03-13": 50446,
-  "2023-03-14": 50468,
-  "2023-03-15": 50488,
-  "2023-03-16": 50518,
-  "2023-03-17": 50518,
-  "2023-03-18": 50582,
-  "2023-03-19": 50625,
-  "2023-03-20": 50669,
-  "2023-03-21": 50691,
-  "2023-03-22": 50718,
-  "2023-03-23": 50748,
-  "2023-03-24": 50748,
-  "2023-03-25": 50820,
-  "2023-03-26": 50867,
-  "2023-03-27": 50921,
-  "2023-03-28": 50948,
-  "2023-03-29": 50981,
-  "2023-03-30": 51036,
-  "2023-03-31": 51036,
-  "2023-04-01": 51069,
-  "2023-04-02": 51108,
-  "2023-04-03": 51146,
-  "2023-04-04": 51182,
-  "2023-04-05": 51203,
-  "2023-04-06": 51226,
-  "2023-04-07": 51258,
-  "2023-04-09": 51331,
-  "2023-04-10": 51358,
-  "2023-04-11": 51407,
-  "2023-04-12": 51407,
-  "2023-04-13": 51418,
-  "2023-04-14": 51448,
-  "2023-04-15": 51481,
-  "2023-04-16": 51513,
-  "2023-04-17": 51548,
-  "2023-04-18": 51575,
-  "2023-04-19": 51600,
-  "2023-04-20": 51625,
-  "2023-04-21": 51656,
-  "2023-04-22": 51694,
-  "2023-04-23": 51726,
-  "2023-04-24": 51765,
-  "2023-04-25": 51792,
-  "2023-04-26": 51828,
-  "2023-04-27": 51849,
-  "2023-04-28": 51878,
-  "2023-04-29": 51899,
-  "2023-04-30": 51931,
-  "2023-05-01": 51969,
-  "2023-05-02": 51989,
-  "2023-05-03": 52013,
-  "2023-05-04": 52038,
-  "2023-05-05": 52069,
-  "2023-05-06": 52099,
-  "2023-05-07": 52119,
-  "2023-05-08": 52149,
-  "2023-05-09": 52174,
-  "2023-05-10": 52200,
-  "2023-05-11": 52221,
-  "2023-05-12": 52242,
-  "2023-05-13": 52273,
-  "2023-05-14": 52309,
-  "2023-05-15": 52322,
-  "2023-05-16": 52343,
-  "2023-05-17": 52362,
-  "2023-05-18": 52394,
-  "2023-05-19": 52423,
-  "2023-05-20": 52463,
-  "2023-05-21": 52463,
-  "2023-05-22": 52463,
-  "2023-05-23": 52495,
-  "2023-05-24": 52522,
-  "2023-05-25": 52528,
-  "2023-05-26": 52552,
-  "2023-05-27": 52570,
-  "2023-05-28": 52579,
-  "2023-05-29": 52579,
-  "2023-05-30": 52613,
-  "2023-05-31": 52627,
-  "2023-06-01": 52639,
-  "2023-06-02": 52652,
-  "2023-06-03": 52679,
-  "2023-06-04": 52702,
-  "2023-06-05": 52724,
-  "2023-06-06": 52734,
-  "2023-06-07": 52746,
-  "2023-06-08": 52759,
-  "2023-06-09": 52773,
-  "2023-06-10": 52780,
-  "2023-06-11": 52801,
-  "2023-06-12": 52814,
-  "2023-06-13": 52823,
-  "2023-06-14": 52826,
-  "2023-06-15": 52851,
-  "2023-06-16": 52882,
-  "2023-06-17": 52903,
-  "2023-06-18": 52915,
-  "2023-06-19": 52926,
-  "2023-06-20": 52946,
-  "2023-06-21": 52958,
-  "2023-06-22": 52972,
-  "2023-06-23": 52980,
-  "2023-06-24": 52987,
-  "2023-06-25": 53024,
-  "2023-06-26": 53037,
-  "2023-06-27": 53054,
-  "2023-06-28": 53074,
-  "2023-06-29": 53089,
-  "2023-06-30": 53103,
-  "2023-07-01": 53140,
-  "2023-07-02": 53140,
-  "2023-07-03": 53148,
-  "2023-07-04": 53163,
-  "2023-07-05": 53176,
-  "2023-07-06": 53204,
-  "2023-07-07": 53204,
-  "2023-07-08": 53219,
-  "2023-07-09": 53230,
-  "2023-07-10": 53263,
-  "2023-07-11": 53273,
-  "2023-07-12": 53285,
-  "2023-07-13": 53303,
-  "2023-07-14": 53315,
-  "2023-07-15": 53327,
-  "2023-07-16": 53350,
-  "2023-07-17": 53365,
-  "2023-07-18": 53375,
-  "2023-07-19": 53392,
-  "2023-07-20": 53412,
-  "2023-07-21": 53433,
-  "2023-07-22": 53442,
-  "2023-07-23": 53456,
-  "2023-07-24": 53480,
-  "2023-07-25": 53494,
-  "2023-07-26": 53506,
-  "2023-07-27": 53528,
-  "2023-07-28": 53544,
-  "2023-07-29": 53569,
-  "2023-07-30": 53574,
-  "2023-07-31": 53585,
-  "2023-08-01": 53605,
-  "2023-08-02": 53625,
-  "2023-08-03": 53650,
-  "2023-08-04": 53661,
-  "2023-08-05": 53683,
-  "2023-08-06": 53705,
-  "2023-08-07": 53705,
-  "2023-08-08": 53713,
-  "2023-08-09": 53735,
-  "2023-08-10": 53752,
-  "2023-08-11": 53772,
-  "2023-08-12": 53789,
-  "2023-08-13": 53817,
-  "2023-08-14": 53831,
-  "2023-08-15": 53869,
-  "2023-08-16": 53869,
-  "2023-08-17": 53885,
-  "2023-08-18": 53906,
-  "2023-08-19": 53934,
-  "2023-08-20": 53958,
-  "2023-08-21": 53997,
-  "2023-08-22": 54029,
-  "2023-08-23": 54045,
-  "2023-08-24": 54058,
-  "2023-08-25": 54078,
-  "2023-08-26": 54098,
-  "2023-08-27": 54129,
-  "2023-08-28": 54160,
-  "2023-08-29": 54178,
-  "2023-08-30": 54202,
-  "2023-08-31": 54219,
-  "2023-09-01": 54245,
-  "2023-09-02": 54245,
-  "2023-09-03": 54267,
-  "2023-09-04": 54283,
-  "2023-09-05": 54285,
-  "2023-09-06": 54292,
-  "2023-09-07": 54301,
-  "2023-09-08": 54314,
-  "2023-09-09": 54330,
-  "2023-09-10": 54355,
-  "2023-09-11": 54379,
-  "2023-09-12": 54391,
-  "2023-09-13": 54408,
-  "2023-09-14": 54418,
-  "2023-09-15": 54427,
-  "2023-09-16": 54444,
-  "2023-09-17": 54472,
-  "2023-09-18": 54514,
-  "2023-09-19": 54536,
-  "2023-09-20": 54549,
-  "2023-09-21": 54563,
-  "2023-09-22": 54588,
-  "2023-09-23": 54621,
-  "2023-09-24": 54654,
-  "2023-09-25": 54678,
-  "2023-09-26": 54698,
-  "2023-09-27": 54711,
-  "2023-09-28": 54724,
-  "2023-09-29": 54736,
-  "2023-09-30": 54765,
-  "2023-10-01": 54790,
-  "2023-10-02": 54809,
-  "2023-10-03": 54824,
-  "2023-10-04": 54825,
-  "2023-10-05": 54824,
-  "2023-10-06": 54839,
-  "2023-10-07": 54869,
-  "2023-10-08": 54893,
-  "2023-10-09": 54900,
-  "2023-10-10": 54866,
-  "2023-10-11": 54837,
-  "2023-10-12": 54837,
-  "2023-10-13": 54793,
-  "2023-10-14": 54768,
-  "2023-10-15": 54768,
-  "2023-10-16": 54781,
-  "2023-10-17": 54798,
-  "2023-10-18": 54805,
-  "2023-10-19": 54811,
-  "2023-10-20": 54822,
-  "2023-10-21": 54828,
-  "2023-10-22": 54846,
-  "2023-10-23": 54854,
-  "2023-10-24": 54867,
-  "2023-10-25": 54873,
-  "2023-10-26": 54881,
-  "2023-10-27": 54892,
-  "2023-10-28": 54906,
-  "2023-10-29": 54923,
-  "2023-10-30": 54953,
-  "2023-10-31": 54953,
-  "2023-11-01": 54957,
-  "2023-11-02": 54969,
-  "2023-11-03": 54984,
-  "2023-11-04": 54992,
-  "2023-11-05": 55009,
-  "2023-11-06": 55015,
-  "2023-11-07": 55027,
-  "2023-11-08": 55040,
-  "2023-11-09": 55048,
-  "2023-11-10": 55058,
-  "2023-11-11": 55077,
-  "2023-11-12": 55089,
-  "2023-11-13": 55106,
-  "2023-11-14": 55121,
-  "2023-11-15": 55121,
-  "2023-11-16": 55150,
-  "2023-11-17": 55172,
-  "2023-11-18": 55172,
-  "2023-11-19": 55186,
-  "2023-11-20": 55198,
-  "2023-11-21": 55216,
-  "2023-11-22": 55223,
-  "2023-11-23": 55235,
-  "2023-11-24": 55244,
-  "2023-11-25": 55244,
-  "2023-11-26": 55253,
-  "2023-11-27": 55265,
-  "2023-11-28": 55286,
-  "2023-11-29": 55301,
-  "2023-11-30": 55301,
-  "2023-12-01": 55312,
-  "2023-12-02": 55316,
-  "2023-12-03": 55326,
-  "2023-12-04": 55330,
-  "2023-12-05": 55341,
-  "2023-12-06": 55345,
-  "2023-12-07": 55348,
-  "2023-12-08": 55354,
-  "2023-12-09": 55358,
-  "2023-12-10": 55366,
-  "2023-12-11": 55376,
-  "2023-12-12": 55385,
-  "2023-12-13": 55395,
-  "2023-12-14": 55397,
-  "2023-12-15": 55414,
-  "2023-12-16": 55419,
-  "2023-12-17": 55429,
-  "2023-12-18": 55429,
-  "2023-12-19": 55439,
-  "2023-12-20": 55452,
-  "2023-12-21": 55460,
-  "2023-12-22": 55462,
-  "2023-12-23": 55467,
-  "2023-12-24": 55475,
-  "2023-12-25": 55487,
-  "2023-12-26": 55494,
-  "2023-12-27": 55502,
-  "2023-12-30": 55527,
-  "2023-12-31": 55541,
-  "2024-01-01": 55543,
-  "2024-01-02": 55546,
-  "2024-01-03": 55549
+  "2024-01-17": 55414,
+  "date_first_scraped": "2022-04-19",
+  "description": "Sing-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.",
+  "name": "Disney Junior Hits",
+  "tracks": [
+    {
+      "album": {
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
+      },
+      "artists": [
+        {
+          "name": "Cast - Muppet Babies",
+          "url": "https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70653,
+      "name": "(Muppet Baby) You Can Be a Star",
+      "url": "https://open.spotify.com/track/3IZDkjTFymwe24SA0Br1Pw"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse",
+        "url": "https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee"
+      },
+      "artists": [
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100400,
+      "name": "A Bicycle Built For Two",
+      "url": "https://open.spotify.com/track/3Gl8UbHiKTMp3bnZx3dooc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Beau Black",
+          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
+        },
+        {
+          "name": "Alex Cartana",
+          "url": "https://open.spotify.com/artist/3GFUpR9zW45n5aO4TIbBAA"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152430,
+      "name": "A Disney Junior Party",
+      "url": "https://open.spotify.com/track/3pri510ZBhTChyyeMSGjJ7"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 53568,
+      "name": "Add a Little Fancy (Fancy Nancy Main Title)",
+      "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
+    },
+    {
+      "album": {
+        "name": "Alice's Wonderland Bakery Main Title Theme (From \"Disney Junior Music: Alice's Wonderland Bakery\")",
+        "url": "https://open.spotify.com/album/5OCpzC2rahXbuf3ecEZ8J6"
+      },
+      "artists": [
+        {
+          "name": "Alice's Wonderland Bakery - Cast",
+          "url": "https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59796,
+      "name": "Alice's Wonderland Bakery Main Title Theme - From \"Disney Junior Music: Alice's Wonderland Bakery\"",
+      "url": "https://open.spotify.com/track/0Na1yYpng3jNaEDHb0i6ui"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66291,
+      "name": "Always in My Heart",
+      "url": "https://open.spotify.com/track/0KjDKgHXmhLMlQN4ZBwE1G"
+    },
+    {
+      "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Anything",
+      "url": "https://open.spotify.com/track/4gc9W0J7k7QUX5mJ2m2Sfc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 84553,
+      "name": "Baa, Baa, Black Sheep",
+      "url": "https://open.spotify.com/track/0FQWQYmTACpK6y7LdFDzzJ"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard: Disney Junior Music",
+        "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Lion Guard",
+          "url": "https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "Baboons!",
+      "url": "https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH"
+    },
+    {
+      "album": {
+        "name": "Doc McStuffins: Disney Junior Music",
+        "url": "https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52230,
+      "name": "Baby Bath Time",
+      "url": "https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ"
+    },
+    {
+      "album": {
+        "name": "Be A Firebud (From \"Disney Junior Music: Firebuds\")",
+        "url": "https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 150994,
+      "name": "Be A Firebud - From \"Disney Junior Music: Firebuds\"",
+      "url": "https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP"
+    },
+    {
+      "album": {
+        "name": "Best Friends (From \"Disney Junior Music: Star Wars - Young Jedi Adventures\")",
+        "url": "https://open.spotify.com/album/40pEr2MJkwHTYYFRC0xfE8"
+      },
+      "artists": [
+        {
+          "name": "Star Wars: Young Jedi Adventures - Cast",
+          "url": "https://open.spotify.com/artist/5z8sEMBST1zW6RL9staYA7"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 117402,
+      "name": "Best Friends - From \"Disney Junior Music: Star Wars - Young Jedi Adventures\"",
+      "url": "https://open.spotify.com/track/6yrtCt8np914Vk1kUmACr7"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Doc McStuffins - The Doc Is In Vol. 2",
+        "url": "https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55470,
+      "name": "Best Medicine",
+      "url": "https://open.spotify.com/track/46YX7WnuTsE8Q1JTyNw29I"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Vol. 1",
+        "url": "https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78880,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 81091,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/32A7XEl78TS87LaA2RAF6B"
+    },
+    {
+      "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Clover",
+          "url": "https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120586,
+      "name": "Blue Ribbon Bunny",
+      "url": "https://open.spotify.com/track/4yMmgJkRp0B5XDaU7BGQhH"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65649,
+      "name": "Blueberry Bonanza",
+      "url": "https://open.spotify.com/track/7C1OEcrw1JeKMrYikUv1MF"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105575,
+      "name": "Boogieman Boogie",
+      "url": "https://open.spotify.com/track/6EjVi0xapUs3DekiAOfJpT"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49902,
+      "name": "Bringing This Baby Home",
+      "url": "https://open.spotify.com/track/4cPjIkxqw7KKVkPe6i8lBf"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mornings",
+        "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121654,
+      "name": "Brush to the Beat",
+      "url": "https://open.spotify.com/track/2TDrxx01O6iKxi5SGGKwo6"
+    },
+    {
+      "album": {
+        "name": "Mickey and The Roadster Racers: Disney Junior Music",
+        "url": "https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH"
+      },
+      "artists": [
+        {
+          "name": "Cast - Mickey and the Roadster Racers",
+          "url": "https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46813,
+      "name": "Building a Dream",
+      "url": "https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN"
+    },
+    {
+      "album": {
+        "name": "Busy Puppy (From \"Disney Junior Music: Mickey Mouse Funhouse\")",
+        "url": "https://open.spotify.com/album/6BjwLQJ85ZQHcAGykqN8lU"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139656,
+      "name": "Busy Puppy - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/5UHgW9TPd9dg7Zlv2t9kEG"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
+      },
+      "artists": [
+        {
+          "name": "The Lion Guard Chorus",
+          "url": "https://open.spotify.com/artist/4P2zfQlM3ILD7rlSE7Eq1P"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63053,
+      "name": "Call of the Guard (The Lion Guard Theme)",
+      "url": "https://open.spotify.com/track/4RBLAaz2HPM1ZlpUt7PjP2"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
+        "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63345,
+      "name": "Captain Dog",
+      "url": "https://open.spotify.com/track/4UMC2NPwi3iarOtkmdMmQm"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68410,
+      "name": "Cheeeeeeese",
+      "url": "https://open.spotify.com/track/3Iga2u1fdZY7tL5UpaQA1B"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: The Chicken Squad",
+        "url": "https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8"
+      },
+      "artists": [
+        {
+          "name": "The Chicken Squad - Cast",
+          "url": "https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47357,
+      "name": "Chicken Charge",
+      "url": "https://open.spotify.com/track/5oXJHQqx59szko8Gl8dElk"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle",
+        "url": "https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg"
+      },
+      "artists": [
+        {
+          "name": "Mickey",
+          "url": "https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Pete",
+          "url": "https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls"
+        },
+        {
+          "name": "Clarabelle",
+          "url": "https://open.spotify.com/artist/6zhTI5Vojyp8BxG6LaUNwp"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120386,
+      "name": "Choo Choo Boogie",
+      "url": "https://open.spotify.com/track/3dYApvQaaV8P9lBs7WLikO"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/3RfXYhZGjcBVWAGxkP5i5L"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants",
+          "url": "https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 118733,
+      "name": "Choo Choo Express",
+      "url": "https://open.spotify.com/track/7nr1mMXozxQtPtM1PDCFky"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118733,
+      "name": "Choo Choo Express",
+      "url": "https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 3",
+        "url": "https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86588,
+      "name": "Clean Up",
+      "url": "https://open.spotify.com/track/1ScYQioZ1DwWcgKc4XWCLY"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 70167,
+      "name": "Come on and Roll",
+      "url": "https://open.spotify.com/track/3J65h7KKWj2eiWEnuPnWFa"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 70167,
+      "name": "Come on and Roll",
+      "url": "https://open.spotify.com/track/3pE9DRIWTRe0kMn5Bximnn"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101624,
+      "name": "Create Your World",
+      "url": "https://open.spotify.com/track/5LxAmqmVkKAvtJruLIbCJX"
+    },
+    {
+      "album": {
+        "name": "Dino Sitting (From \"Disney Junior Music: Mickey Mouse Funhouse Dino Safari\")",
+        "url": "https://open.spotify.com/album/1aOuOUWimKCyUDUwRFKsV2"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74610,
+      "name": "Dino Sitting - From \"Disney Junior Music: Mickey Mouse Funhouse Dino Safari\"",
+      "url": "https://open.spotify.com/track/2OK67thLrzf6I4Gfv2e8jH"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mornings",
+        "url": "https://open.spotify.com/album/5cUlQxfGjSP19VFtF6fqGh"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102613,
+      "name": "Disney Junior Music: Make It a Mickey Morning",
+      "url": "https://open.spotify.com/track/02Fn1rxmlveZZfx4iltIMz"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Make It a Mickey Morning (From \"Mickey Mornings\")",
+        "url": "https://open.spotify.com/album/29sfhfZcyWIOEi6RIyw1LW"
+      },
+      "artists": [
+        {
+          "name": "Felicia Barton",
+          "url": "https://open.spotify.com/artist/7BtsooSogDGtA54zLBjk3N"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 101695,
+      "name": "Disney Junior Music: Make It a Mickey Morning - From \"Mickey Mornings\"",
+      "url": "https://open.spotify.com/track/7FlQiOdu7Y3K2M3qVD3uW8"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: The Chicken Squad Main Title Theme (From \"The Chicken Squad\")",
+        "url": "https://open.spotify.com/album/1EpGbbGoFKEUFE8OUmQUR6"
+      },
+      "artists": [
+        {
+          "name": "The Chicken Squad - Cast",
+          "url": "https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40238,
+      "name": "Disney Junior Music: The Chicken Squad Main Title Theme - From \"The Chicken Squad\"",
+      "url": "https://open.spotify.com/track/06XgB6mkJzkzv3ITeXLses"
+    },
+    {
+      "album": {
+        "name": "Doc McStuffins: The Doc Is In",
+        "url": "https://open.spotify.com/album/69MUbfppLbJ1dTxKwqmjgE"
+      },
+      "artists": [
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56146,
+      "name": "Doc McStuffins Theme Song",
+      "url": "https://open.spotify.com/track/4Fo9Kh6aTfiX1KX2G3G3rO"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
+        "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62354,
+      "name": "Dog Washin'",
+      "url": "https://open.spotify.com/track/1H65UKRE3oRqxpCnVVWRi3"
+    },
+    {
+      "album": {
+        "name": "Elena of Avalor (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw"
+      },
+      "artists": [
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62438,
+      "name": "Elena of Avalor (Main Title)",
+      "url": "https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Elena of Avalor",
+          "url": "https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y"
+        },
+        {
+          "name": "Gaby Moreno",
+          "url": "https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157649,
+      "name": "Elena of Avalor (Main Title) / My Time Mashup - From \"Elena of Avalor\"",
+      "url": "https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i"
+    },
+    {
+      "album": {
+        "name": "Eureka! Main Title Theme (From \"Disney Junior Music: Eureka!\")",
+        "url": "https://open.spotify.com/album/0of6FoW2YxSwZoy9YQdmRr"
+      },
+      "artists": [
+        {
+          "name": "Eureka! - Cast",
+          "url": "https://open.spotify.com/artist/2At0wMt22hR14ksbCvSSmA"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61002,
+      "name": "Eureka! Main Title Theme - From \"Disney Junior Music: Eureka!\"",
+      "url": "https://open.spotify.com/track/4z6WszIenx3HoBR4uxjxIQ"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: The Chicken Squad",
+        "url": "https://open.spotify.com/album/0cfgvbtH4oz7PKJI0HZmb8"
+      },
+      "artists": [
+        {
+          "name": "The Chicken Squad - Cast",
+          "url": "https://open.spotify.com/artist/0IYe9D09F9fIMG0xGbZ2SD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91072,
+      "name": "Every Dog Deserves a Home",
+      "url": "https://open.spotify.com/track/2Ikw69fobr4cbjV6cCFT6t"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 1",
+        "url": "https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85984,
+      "name": "Everybody Wash Your Hands",
+      "url": "https://open.spotify.com/track/6Aa2f5khjAv0xj3FMRHHGt"
+    },
+    {
+      "album": {
+        "name": "Everyone C'mon and Play (From \"Disney Junior Music: Disney Junior & Friends Playdate\")",
+        "url": "https://open.spotify.com/album/12hojZag5kFWjxBV66NDiE"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132929,
+      "name": "Everyone C'mon and Play - From \"Disney Junior Music: Disney Junior & Friends Playdate\"",
+      "url": "https://open.spotify.com/track/1NZeeb69oNAIdekg1PTSTT"
+    },
+    {
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/33ucCfGMl6jd9tp0jvTtlc"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "Feelin' Good",
+      "url": "https://open.spotify.com/track/1Tt5AcD1MSCByopcAcCGIt"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 6",
+        "url": "https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87346,
+      "name": "Find Your Courage!",
+      "url": "https://open.spotify.com/track/5t2JdKWoUwNIPU6GLrFc0w"
+    },
+    {
+      "album": {
+        "name": "Firebuds Let's Roll (Firebuds Theme) [From \"Disney Junior Music: Firebuds\"]",
+        "url": "https://open.spotify.com/album/4e3h1OM3KWI73x8MhBW1mE"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60755,
+      "name": "Firebuds Let's Roll (Firebuds Theme) - From \"Disney Junior Music: Firebuds\"",
+      "url": "https://open.spotify.com/track/7oM2qilEgQZWmLYmqFNUbx"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Elena of Avalor - A Royal Celebration",
+        "url": "https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132089,
+      "name": "Fit to Be Queen",
+      "url": "https://open.spotify.com/track/7x7m6iqsgznDDJSRbRuGPz"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 83833,
+      "name": "Five Little Monkeys",
+      "url": "https://open.spotify.com/track/31RQvb2z9GLs5XYCSXowZ4"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party Vol. 2",
+        "url": "https://open.spotify.com/album/5IECGUtko6AYAAYoCSG3HM"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116321,
+      "name": "Friends Like These",
+      "url": "https://open.spotify.com/track/3BSeV1FOTwGZb7MXcRMTfV"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115167,
+      "name": "Gather Round",
+      "url": "https://open.spotify.com/track/2aFIt5maVUkdDMkafHFW4b"
+    },
+    {
+      "album": {
+        "name": "Glow Webs Glow (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/2NZqBD53gQlVUuY2JnV9fN"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144229,
+      "name": "Glow Webs Glow - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/29dZo6xmKqGCZsUNoiUGAh"
+    },
+    {
+      "album": {
+        "name": "Green Gobby Party (From \"Disney Junior Live On Tour: Costume Palooza\")",
+        "url": "https://open.spotify.com/album/2lW3YwQEe3otAWjyTieumY"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126101,
+      "name": "Green Gobby Party - From \"Disney Junior Live On Tour: Costume Palooza\"",
+      "url": "https://open.spotify.com/track/2inYtWjbX1oSywjJwr6Fuk"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure (From \"Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure\")",
+        "url": "https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 43628,
+      "name": "Ha Cha Cha",
+      "url": "https://open.spotify.com/track/6bjKZJv8YdvkHDKAPkqcBb"
+    },
+    {
+      "album": {
+        "name": "Handy Manny",
+        "url": "https://open.spotify.com/album/3IrqwFcSz8XWwiMmF0QDpU"
+      },
+      "artists": [
+        {
+          "name": "Los Lobos",
+          "url": "https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51866,
+      "name": "Handy Manny Main Title Theme - Soundtrack",
+      "url": "https://open.spotify.com/track/2Z3M5vWVvf63VP6m0GEuUP"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Live On Tour: Costume Palooza (From \"Disney Junior Live On Tour: Costume Palooza\")",
+        "url": "https://open.spotify.com/album/5eaE5cfSNv7ax5k0YjQt5t"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169398,
+      "name": "Happy Booty Dance",
+      "url": "https://open.spotify.com/track/360AsV7UV75lbUb2nFCJSv"
+    },
+    {
+      "album": {
+        "name": "Happy Booty Dance (From \"Disney Junior Music: Puppy Dog Pals\")",
+        "url": "https://open.spotify.com/album/43Umq7UnZNSUS7meUVEkDi"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40880,
+      "name": "Happy Booty Dance - From \"Disney Junior Music: Puppy Dog Pals\"",
+      "url": "https://open.spotify.com/track/2xI2Wt8MlPNw9JJpUjDFq1"
+    },
+    {
+      "album": {
+        "name": "Happy Happy Birthday (From \"Disney Junior Music: Mickey Mornings\")",
+        "url": "https://open.spotify.com/album/0flmw15oo87UMkmi6zsbJS"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mornings - Cast",
+          "url": "https://open.spotify.com/artist/7bTQeYvGGS6gUfJT3AlAJZ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 134785,
+      "name": "Happy Happy Birthday - From \"Disney Junior Music: Mickey Mornings\"",
+      "url": "https://open.spotify.com/track/65uEqaaEeUZz884Xd2yGEq"
+    },
+    {
+      "album": {
+        "name": "Mickey and The Roadster Racers: Disney Junior Music",
+        "url": "https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH"
+      },
+      "artists": [
+        {
+          "name": "Cast - Mickey and the Roadster Racers",
+          "url": "https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80728,
+      "name": "Happy Helpers Theme Song",
+      "url": "https://open.spotify.com/track/3LnFB820kv7aoMiSY7X4z7"
+    },
+    {
+      "album": {
+        "name": "Minnie's Favorites (Songs from \"Mickey Mouse Clubhouse\")",
+        "url": "https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m"
+      },
+      "artists": [
+        {
+          "name": "Mickey",
+          "url": "https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/3M9CqiLGObWndTeSA2W73n"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/3VX2P89G8Xmmvht0pmCHEE"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Pete",
+          "url": "https://open.spotify.com/artist/1Tj66K9GwHmjKmkOAUMMAw"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 113760,
+      "name": "Happy Thanks a Bunch Day",
+      "url": "https://open.spotify.com/track/1N03LSnQ3ExNt5o2nydnWo"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr"
+      },
+      "artists": [
+        {
+          "name": "Mickey",
+          "url": "https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Pete",
+          "url": "https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114866,
+      "name": "Happy Thanks a Bunch Day",
+      "url": "https://open.spotify.com/track/0TvI13tx9sRbrJXzE8PhiH"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
+        "url": "https://open.spotify.com/album/3RfXYhZGjcBVWAGxkP5i5L"
+      },
+      "artists": [
+        {
+          "name": "Mickey",
+          "url": "https://open.spotify.com/artist/7sWkR5prBNPnBJ4iDmgfrh"
+        },
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Donald",
+          "url": "https://open.spotify.com/artist/2Xx0gxHzqRTmRhSOPVF8tN"
+        },
+        {
+          "name": "Daisy",
+          "url": "https://open.spotify.com/artist/0JWDwibeuQ4VutQqnyyAax"
+        },
+        {
+          "name": "Pluto",
+          "url": "https://open.spotify.com/artist/4h1QfVKE46WTDiQgrmeuv8"
+        },
+        {
+          "name": "Pete",
+          "url": "https://open.spotify.com/artist/2KwrOBhFnyoNTuPG8Wb2ls"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 114866,
+      "name": "Happy Thanks a Bunch Day",
+      "url": "https://open.spotify.com/track/1Wv4xyM6kb46YJsA7BZ2WD"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Me & Mickey",
+        "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100471,
+      "name": "Head, Shoulders, Knees and Toes",
+      "url": "https://open.spotify.com/track/58uXn37TC1iZuRuEV9FWiT"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
+        "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67993,
+      "name": "Her Name Is Keia",
+      "url": "https://open.spotify.com/track/55ffAqdRtmKsm8msJhNTmn"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
+      },
+      "artists": [
+        {
+          "name": "Beau Black",
+          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148626,
+      "name": "Here Comes the Lion Guard",
+      "url": "https://open.spotify.com/track/00JwpdGOIcUwFsDKfQCciK"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148093,
+      "name": "Hot Dog! - From \"Mickey Mouse Clubhouse\"",
+      "url": "https://open.spotify.com/track/7HbVnCiUwE9Web7ZL9xHbv"
+    },
+    {
+      "album": {
+        "name": "Hot Dog! Dance Break 2019 (From \u201cMickey Mouse Mixed-Up Adventures\u201d)",
+        "url": "https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83750,
+      "name": "Hot Dog! Dance Break 2019 - From \"Mickey Mouse Mixed-Up Adventures\"",
+      "url": "https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 2",
+        "url": "https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85433,
+      "name": "I Brush My Teeth",
+      "url": "https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 67148,
+      "name": "I Love Kittydale",
+      "url": "https://open.spotify.com/track/1sXbwRecL52c9OcJcWnZjN"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 67148,
+      "name": "I Love Kittydale",
+      "url": "https://open.spotify.com/track/6tDqvLEFz3YnQeFlX8mxPd"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Firebuds",
+        "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69862,
+      "name": "I'm a Firefighter",
+      "url": "https://open.spotify.com/track/6OWfse0RdCkZQn9zaxiolV"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
+        "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82083,
+      "name": "I've Got a Friend Named Bob",
+      "url": "https://open.spotify.com/track/4dQ3mGRpf96cs44j9w2yDJ"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle 2",
+        "url": "https://open.spotify.com/album/7mkN6sP8t2aa9ReN8Ir1oR"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Clover",
+          "url": "https://open.spotify.com/artist/25wd2jHq2IQ1lE3OXwpV1Y"
+        },
+        {
+          "name": "Crackle",
+          "url": "https://open.spotify.com/artist/0RH65hnjf5URwYDjoxQ6Gr"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116693,
+      "name": "In Your Paws - From \"Sofia the First\"",
+      "url": "https://open.spotify.com/track/7EgZBRXDVS5LEDAkUaN4Au"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Nursery Rhymes Vol. 4",
+        "url": "https://open.spotify.com/album/0CEROqJxzE7OTEqw1Fj30v"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 83029,
+      "name": "It's Raining, It's Pouring",
+      "url": "https://open.spotify.com/track/3POKZKjJdiJ8YhzASXHHKI"
+    },
+    {
+      "album": {
+        "name": "Jake And The Never Land Pirates",
+        "url": "https://open.spotify.com/album/6AiPOzsx3NiOfeFvBivBYM"
+      },
+      "artists": [
+        {
+          "name": "The Never Land Pirate Band",
+          "url": "https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59200,
+      "name": "Jake and the Never Land Pirates (Main Title) - From \"Jake and the Never Land Pirates\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/6j6fuhuCNiULtPmlfYKOz2"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle",
+        "url": "https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg"
+      },
+      "artists": [
+        {
+          "name": "The Never Land Pirate Band",
+          "url": "https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM"
+        },
+        {
+          "name": "Jake",
+          "url": "https://open.spotify.com/artist/6vx3m9xE9aMFTuClCXbt1F"
+        },
+        {
+          "name": "Izzy",
+          "url": "https://open.spotify.com/artist/1WXRRxavKa9BnqKvi7jQG1"
+        },
+        {
+          "name": "Cubby",
+          "url": "https://open.spotify.com/artist/6nuGaE4wm7r7jWbFtC2DD7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57853,
+      "name": "Jake and the Never Land Pirates - Swashbucklin' Version",
+      "url": "https://open.spotify.com/track/3tzSIK2uQQyYOHPLN1mL0a"
+    },
+    {
+      "album": {
+        "name": "Jump Into Wow! (From \"Disney Junior Music: Jump Into Wow!\")",
+        "url": "https://open.spotify.com/album/2dCGc0xKSvvFApGaQh9XGo"
+      },
+      "artists": [
+        {
+          "name": "Lamont Coleman",
+          "url": "https://open.spotify.com/artist/0zaocTqm5PPBW7O2Hi1JEh"
+        },
+        {
+          "name": "Paula Winger",
+          "url": "https://open.spotify.com/artist/39wNMOu1AnEupjEejl99AH"
+        },
+        {
+          "name": "Maria Christensen",
+          "url": "https://open.spotify.com/artist/3dqeuUrOrCUjPspVv1FKlG"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 104000,
+      "name": "Jump Into Wow! - From \"Disney Junior Music: Jump Into Wow!\"",
+      "url": "https://open.spotify.com/track/5uvpm4qJc8oTsCvRvtUOUp"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Halloween Hits Vol. 1",
+        "url": "https://open.spotify.com/album/5PBdl12olU7f3qfL45YwEN"
+      },
+      "artists": [
+        {
+          "name": "Lamont Coleman",
+          "url": "https://open.spotify.com/artist/0zaocTqm5PPBW7O2Hi1JEh"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 104405,
+      "name": "Jump into Wow: Happy, Happy Halloween",
+      "url": "https://open.spotify.com/track/17lmuEp3darhOfKUnLEOXc"
+    },
+    {
+      "album": {
+        "name": "Imagination Movers: For Those About to Hop",
+        "url": "https://open.spotify.com/album/0Ycbxh5rx0Da1yEAMxp9UQ"
+      },
+      "artists": [
+        {
+          "name": "Imagination Movers",
+          "url": "https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65293,
+      "name": "Jump Up!",
+      "url": "https://open.spotify.com/track/7LTaySawqIyeb0NJa0Bj7C"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105333,
+      "name": "Just Be You",
+      "url": "https://open.spotify.com/track/6ZaZSVjFmBnQxVU9vj8F4j"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69257,
+      "name": "Keep on Tryin'",
+      "url": "https://open.spotify.com/track/6qgU0nZTShwzPcyg2zR6Lw"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard: Disney Junior Music",
+        "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Lion Guard",
+          "url": "https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89705,
+      "name": "Kuishi Ni Kucheka",
+      "url": "https://open.spotify.com/track/6CgIsiif3uEJFCEaZNnJSR"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72462,
+      "name": "L-O-V-E",
+      "url": "https://open.spotify.com/track/4dQqlmAhCdmRmUmcsvHPqC"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 8",
+        "url": "https://open.spotify.com/album/1kfmTVqOcHscZTl35tYmIe"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87093,
+      "name": "Learn About Matching",
+      "url": "https://open.spotify.com/track/549k2Kz8EYY15ldj4hXi2F"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 6",
+        "url": "https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87222,
+      "name": "Learn About Safety",
+      "url": "https://open.spotify.com/track/2EsavqTPpKLt26EA1U3CXx"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 7",
+        "url": "https://open.spotify.com/album/79VpYGoIAuFGH4UlxcE9fw"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89896,
+      "name": "Learn to Sound Out Words",
+      "url": "https://open.spotify.com/track/2GdNTf6hDnVWWGHLPud87M"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 101898,
+      "name": "Let Love Overrule",
+      "url": "https://open.spotify.com/track/2OWOuNfkVa0q39cK01WcM4"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 6",
+        "url": "https://open.spotify.com/album/4q63Npjvs1fkfxDz0AwpzZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        },
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88743,
+      "name": "Let's Explore Space!",
+      "url": "https://open.spotify.com/track/5kSNgcL9H7rlZE6PXApxIm"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard: Disney Junior Music",
+        "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Lion Guard",
+          "url": "https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98779,
+      "name": "Life in the Pride Lands",
+      "url": "https://open.spotify.com/track/0naLDQTAkKocazxCHTjNf3"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 4",
+        "url": "https://open.spotify.com/album/2TkZI64E1Lzw2fqZeOdrWB"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86176,
+      "name": "Listening Ears",
+      "url": "https://open.spotify.com/track/58j2ntc4hoiNcm9HhsEzMX"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100753,
+      "name": "Livin' the Scream - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/3pSi8RqsTOao8a1iL4CirM"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 81608,
+      "name": "London Bridge Is Falling Down",
+      "url": "https://open.spotify.com/track/0BE8Gor4mFXRyU8nPcr8L5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 2)",
+        "url": "https://open.spotify.com/album/0HmGQsRl57a8wykK9ZxW1m"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88480,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4ffkQhUj5FFLjEZqCyUFQE"
+    },
+    {
+      "album": {
+        "name": "Elena of Avalor: Disney Junior Music",
+        "url": "https://open.spotify.com/album/2EVjCUeErLZqSWBrSAI4wb"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163840,
+      "name": "Make Them Proud",
+      "url": "https://open.spotify.com/track/11gTqbjA70dOFUwUEmv03n"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68339,
+      "name": "Make Your Own Sunshine",
+      "url": "https://open.spotify.com/track/5lq53aSenKTQKlHkZVraxL"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
+        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101100,
+      "name": "Marvel's Spidey and His Amazing Friends Theme (Extended)",
+      "url": "https://open.spotify.com/track/3uwzQsa3yobWdB3SlsLPnJ"
+    },
+    {
+      "album": {
+        "name": "Marvel's Spidey and His Amazing Friends Theme (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/2eb5c8P6hrdSZMaQNCgjo1"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63392,
+      "name": "Marvel's Spidey and His Amazing Friends Theme - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/6Z9oWsUnoGXYy6ErIuhnO5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Me & Mickey",
+        "url": "https://open.spotify.com/album/0nQdS5tHGoSQzv0qdWdgMd"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120159,
+      "name": "Me & Mickey Theme Song",
+      "url": "https://open.spotify.com/track/2cZ0fR98bufCNz5bBxl45s"
+    },
+    {
+      "album": {
+        "name": "Merry Spidey Christmas (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        }
+      ],
+      "date_added": "2022-11-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 126144,
+      "name": "Merry Spidey Christmas - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Beau Black",
+          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61522,
+      "name": "Mickey and the Roadster Racers Main Title Theme - From \"Mickey and the Roadster Racers\"",
+      "url": "https://open.spotify.com/track/6JPdKQAFW9Dm8kpWkcqVUO"
+    },
+    {
+      "album": {
+        "name": "The Wonderful World of Mickey Mouse: Season 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/17CjYqO32qWp02kmqUnxNg"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "The Wonderful World of Mickey Mouse - Cast",
+          "url": "https://open.spotify.com/artist/5TRtEwAMGdgh29N4x8usMm"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 62069,
+      "name": "Mickey Mouse Club March",
+      "url": "https://open.spotify.com/track/6apPzU3anNr5qkDfcw55ep"
+    },
+    {
+      "album": {
+        "name": "Minnie's Favorites (Songs from \"Mickey Mouse Clubhouse\")",
+        "url": "https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59920,
+      "name": "Mickey Mouse Clubhouse Theme",
+      "url": "https://open.spotify.com/track/6YFDFf66trRU2X6863GjHD"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse/Funhouse Theme Song Mashup (From \"Disney Junior Music: Mickey Mouse Clubhouse/Mickey Mouse Funhouse\")",
+        "url": "https://open.spotify.com/album/3dr99qQsp6yHaNqge2w5Vl"
+      },
+      "artists": [
+        {
+          "name": "They Might Be Giants (For Kids)",
+          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
+        },
+        {
+          "name": "Beau Black",
+          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
+        },
+        {
+          "name": "Alex Cartana",
+          "url": "https://open.spotify.com/artist/3GFUpR9zW45n5aO4TIbBAA"
+        },
+        {
+          "name": "Loren Hoskins",
+          "url": "https://open.spotify.com/artist/0jXIcXUz76mPaBo3dbJUvY"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63449,
+      "name": "Mickey Mouse Clubhouse/Funhouse Theme Song Mashup - From \"Disney Junior Music: Mickey Mouse Clubhouse/Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/34e5ncofbAWlFh9W0OdbYd"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Funhouse Main Title Theme (From \"Disney Junior Music: Mickey Mouse Funhouse\")",
+        "url": "https://open.spotify.com/album/4zPUoWeVmVyblwbSLFDTyf"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115133,
+      "name": "Mickey Mouse Funhouse Main Title Theme - From \"Disney Junior Music: Mickey Mouse Funhouse\"",
+      "url": "https://open.spotify.com/track/0J9ubPEdPL2ojQyL0px6Qc"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse",
+        "url": "https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157573,
+      "name": "Mickey's Countdown",
+      "url": "https://open.spotify.com/track/4Bh2C4lcLbilZDq1lDFWri"
+    },
+    {
+      "album": {
+        "name": "Minnie's Favorites (Songs from \"Mickey Mouse Clubhouse\")",
+        "url": "https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61800,
+      "name": "Mickey's Mousekedoer",
+      "url": "https://open.spotify.com/track/3YNumg2K7gcDDpwO7IkAuF"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116020,
+      "name": "Minnie's Bow-Toons: Camp Minnie Theme Song",
+      "url": "https://open.spotify.com/track/1UjC5QOkVcVnTP7J4RHxZp"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons",
+        "url": "https://open.spotify.com/album/4QkMBuO7TGwCtjhwCr06vX"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63782,
+      "name": "Minnie's Bow-Toons: Party Palace Pals (Extended Theme)",
+      "url": "https://open.spotify.com/track/4xJVikgnMnsNk16VN5vxxI"
+    },
+    {
+      "album": {
+        "name": "Minnie's Favorites (Songs from \"Mickey Mouse Clubhouse\")",
+        "url": "https://open.spotify.com/album/67ivsWL0DsH3Jh0cCGKx3m"
+      },
+      "artists": [
+        {
+          "name": "Minnie",
+          "url": "https://open.spotify.com/artist/4kc6FNAU1bVjmj4kws7xiZ"
+        },
+        {
+          "name": "The Picture Puzzle Girls",
+          "url": "https://open.spotify.com/artist/1l1RrAQ3K1jMwJWAhRSzcx"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121560,
+      "name": "Minnie's Bowtique",
+      "url": "https://open.spotify.com/track/7iRAz1gmkc1OgZkyhful6r"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Live On Tour: Costume Palooza (From \"Disney Junior Live On Tour: Costume Palooza\")",
+        "url": "https://open.spotify.com/album/5eaE5cfSNv7ax5k0YjQt5t"
+      },
+      "artists": [
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129455,
+      "name": "Minnie's Party Palooza - From \"Disney Junior Live On Tour: Costume Palooza\"",
+      "url": "https://open.spotify.com/track/27ToJ6IxYxUwQvhrKrgA58"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective",
+        "url": "https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148153,
+      "name": "Mira, Royal Detective (Mashup)",
+      "url": "https://open.spotify.com/track/7vvTdBMWArWN26SzdIEZCC"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective",
+        "url": "https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52711,
+      "name": "Mira, Royal Detective (Theme Song)",
+      "url": "https://open.spotify.com/track/2NtCTYGd5vLrmkY15hEw5U"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 2",
+        "url": "https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86315,
+      "name": "Morning, Afternoon, or Night",
+      "url": "https://open.spotify.com/track/0RXIqthN3V72asFS2qmISY"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
+      },
+      "artists": [
+        {
+          "name": "Renee Elise Goldsberry",
+          "url": "https://open.spotify.com/artist/28VFQYsMlusDx4yaVxwu0D"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61600,
+      "name": "Muppet Babies Theme 2018",
+      "url": "https://open.spotify.com/track/4LZXzrdzNjNNhXj6rW3XTO"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 66062,
+      "name": "My Bath, My Bubbles and Me",
+      "url": "https://open.spotify.com/track/0b01VtXleyxg2nxTomTmqg"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 66062,
+      "name": "My Bath, My Bubbles and Me",
+      "url": "https://open.spotify.com/track/3iSsbdnJwnCKlpSSKFZ29l"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66062,
+      "name": "My Bath, My Bubbles and Me",
+      "url": "https://open.spotify.com/track/5ymLrgUBktYcb79BXlMfoj"
+    },
+    {
+      "album": {
+        "name": "Elena of Avalor (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151208,
+      "name": "My Time",
+      "url": "https://open.spotify.com/track/4zglWHeCshgQRaBmmMsoOj"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective Vol. 2",
+        "url": "https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68258,
+      "name": "Mystery in the Sky",
+      "url": "https://open.spotify.com/track/5iKZAwDvrBQMCwJ7jnZjqG"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Elena of Avalor - A Royal Celebration",
+        "url": "https://open.spotify.com/album/1KIyVsSMujyeSL8CROmi9I"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215153,
+      "name": "Never Too Late",
+      "url": "https://open.spotify.com/track/2C068jzbxCUJIfDSYVq2RT"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 63900,
+      "name": "No Stoppin' Us Meow",
+      "url": "https://open.spotify.com/track/2MmikiC9yFmVTIO7fijnRG"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63900,
+      "name": "No Stoppin' Us Meow",
+      "url": "https://open.spotify.com/track/5a6f2Jl1FcyVilXvqf4ta4"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Nursery Rhymes Vol. 1",
+        "url": "https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 83440,
+      "name": "Old MacDonald Had a Farm",
+      "url": "https://open.spotify.com/track/2BOsNAgMkMV2IbVRh6DZmG"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Firebuds",
+        "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47633,
+      "name": "On the Move",
+      "url": "https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 84771,
+      "name": "One Potato, Two Potato",
+      "url": "https://open.spotify.com/track/3bdY37qu59mFKskAeZx9qP"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse (Music from the Disney Mickey Mouse Shorts)",
+        "url": "https://open.spotify.com/album/3CfYEWvlL7F4HYOM73YD8E"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 167814,
+      "name": "Our Homespun Melody",
+      "url": "https://open.spotify.com/track/1qpnk2QGQynSnCt8eARtiQ"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 3",
+        "url": "https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87255,
+      "name": "Pajama Jam",
+      "url": "https://open.spotify.com/track/7o15Cd75YcT2PAOYpURnx0"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59840,
+      "name": "Plain and Fancy",
+      "url": "https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective",
+        "url": "https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84220,
+      "name": "Play Us Your Song",
+      "url": "https://open.spotify.com/track/7unH9vyJYLbjCTEtqNGAk8"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Playdate with Winnie the Pooh",
+        "url": "https://open.spotify.com/album/3k2GcBUHvasbNlBr0qeBQW"
+      },
+      "artists": [
+        {
+          "name": "Playdate with Winnie the Pooh - Cast",
+          "url": "https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122560,
+      "name": "Playdate with Winnie the Pooh Theme Song - Extended Version",
+      "url": "https://open.spotify.com/track/1GwsHc97qkn9BSW1LqymzU"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66150,
+      "name": "Playtime",
+      "url": "https://open.spotify.com/track/0qJPlNOJ25dsI8MeClWjfv"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57789,
+      "name": "Puppy Dog Pals Main Title Theme",
+      "url": "https://open.spotify.com/track/5qtlopq4SnnvVeiQVt3M0n"
+    },
+    {
+      "album": {
+        "name": "Puppy for Hanukkah",
+        "url": "https://open.spotify.com/album/0Oq1q8ai0vY3uwVOpfYnGl"
+      },
+      "artists": [
+        {
+          "name": "Daveed Diggs",
+          "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228120,
+      "name": "Puppy for Hanukkah",
+      "url": "https://open.spotify.com/track/4BPIETJjROnN2NrOSnAmgR"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party Vol. 2",
+        "url": "https://open.spotify.com/album/5IECGUtko6AYAAYoCSG3HM"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75893,
+      "name": "Puppy Play Care Picnic Party",
+      "url": "https://open.spotify.com/track/0F2aCp4ArXvbgLzfrm4KSs"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Pupstruction",
+        "url": "https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI"
+      },
+      "artists": [
+        {
+          "name": "Pupstruction - Cast",
+          "url": "https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49789,
+      "name": "Pupstruction Main Title",
+      "url": "https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 4",
+        "url": "https://open.spotify.com/album/2TkZI64E1Lzw2fqZeOdrWB"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86408,
+      "name": "Red, Yellow, and Blue",
+      "url": "https://open.spotify.com/track/2BLkRYSXAVYHjKuO4H10ON"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 1",
+        "url": "https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85957,
+      "name": "Rhyme Time",
+      "url": "https://open.spotify.com/track/0AKVAACGh7TtvmUnBy5JuZ"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard: Disney Junior Music",
+        "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Lion Guard",
+          "url": "https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114812,
+      "name": "Running with the King",
+      "url": "https://open.spotify.com/track/25Y2A6JrotUwzqx9zef86c"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 1",
+        "url": "https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87530,
+      "name": "Sh-Sh-Sh-Shapes",
+      "url": "https://open.spotify.com/track/3x6WKRRJY5ccuXZcu4O8Rd"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 2",
+        "url": "https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        },
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86533,
+      "name": "Sharing",
+      "url": "https://open.spotify.com/track/0j7rD6DG1jMAKPCR0OC16M"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle",
+        "url": "https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg"
+      },
+      "artists": [
+        {
+          "name": "Sheriff Callie",
+          "url": "https://open.spotify.com/artist/2TptzTi2NMLAnevzN9Ell2"
+        },
+        {
+          "name": "Peck",
+          "url": "https://open.spotify.com/artist/5HCya1eGq21BgniKfgILCX"
+        },
+        {
+          "name": "Toby",
+          "url": "https://open.spotify.com/artist/3N2jh8OlsZCHQSlshTc8qi"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47706,
+      "name": "Sheriff Callie's Wild West Theme Song",
+      "url": "https://open.spotify.com/track/5FNrrSyQ5fMybjok5cqymi"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56000,
+      "name": "Sleepover Survival Kit",
+      "url": "https://open.spotify.com/track/3tj6EmcDiII8FMPtcuAQ5x"
+    },
+    {
+      "album": {
+        "name": "Sofia the First",
+        "url": "https://open.spotify.com/album/1B74prl74S3dhOsS7hsT4y"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52866,
+      "name": "Sofia the First Main Title Theme - From \"Sofia the First\"",
+      "url": "https://open.spotify.com/track/3dfpZwSuosIuFqksY0F6gT"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Rise Up, Sing Out",
+        "url": "https://open.spotify.com/album/0wqVMWhboaCzHYYm2sJG5U"
+      },
+      "artists": [
+        {
+          "name": "Rise Up, Sing Out - Cast",
+          "url": "https://open.spotify.com/artist/5kOWaYDn4KXG6HntLwTGEx"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 125113,
+      "name": "Speak Up!",
+      "url": "https://open.spotify.com/track/72iPJOXzGTmQEz97qyg6xc"
+    },
+    {
+      "album": {
+        "name": "Spideys Don't Give Up (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/0fECAlGLOXPC5iCeh4YtDJ"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59989,
+      "name": "Spideys Don't Give Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/0yGSt0CnmXHvmboYFn5KHA"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
+        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143997,
+      "name": "Spin, Spin, Spin",
+      "url": "https://open.spotify.com/track/0Rg8DsZMeG8Fq6JjEoeQeM"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
+      },
+      "artists": [
+        {
+          "name": "Cast - Muppet Babies",
+          "url": "https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113466,
+      "name": "Start Up Your Imagination",
+      "url": "https://open.spotify.com/track/6fSFUHhbjQbll71Yj98x68"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Firebuds",
+        "url": "https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77417,
+      "name": "Stop, Look, and Listen",
+      "url": "https://open.spotify.com/track/4jXzMMIhNu7ZlJ8KGGZjmB"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Vol. 1",
+        "url": "https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119357,
+      "name": "Stretch Break",
+      "url": "https://open.spotify.com/track/0DUt2qj0BUB6PglUKwSfk0"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
+        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140476,
+      "name": "Super Hero",
+      "url": "https://open.spotify.com/track/0jCZwqrvlA0j4wC5bQ1312"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
+        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151086,
+      "name": "Super Hero on the Beat",
+      "url": "https://open.spotify.com/track/2pcR3WzgeApNXILR8IlI9f"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127021,
+      "name": "SuperKitties Theme Song",
+      "url": "https://open.spotify.com/track/10wEHhCfKOvywm46uMm2Jr"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-05",
+      "duration_ms": 127021,
+      "name": "SuperKitties Theme Song",
+      "url": "https://open.spotify.com/track/6XrEZK701bHo6XG5w4LTWY"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties",
+        "url": "https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-19",
+      "duration_ms": 127021,
+      "name": "SuperKitties Theme Song",
+      "url": "https://open.spotify.com/track/6jpIv3QGnbZdFJkBbmMTkf"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
+        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
+      },
+      "artists": [
+        {
+          "name": "T.O.T.S. - Cast",
+          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40969,
+      "name": "T.O.T.S. Main Title",
+      "url": "https://open.spotify.com/track/7rllsBhVxaGhkr6gTrVstU"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Nursery Rhymes Vol. 2",
+        "url": "https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-23",
+      "duration_ms": 82552,
+      "name": "The Ants Go Marching",
+      "url": "https://open.spotify.com/track/3tVoCL0q1iazXuAIP2OShD"
+    },
+    {
+      "album": {
+        "name": "Doc McStuffins: Disney Junior Music",
+        "url": "https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49934,
+      "name": "The Baby's Coming",
+      "url": "https://open.spotify.com/track/3LvHJlbWkT9HlAeFqMU0de"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Alice's Wonderland Bakery",
+        "url": "https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI"
+      },
+      "artists": [
+        {
+          "name": "Alice's Wonderland Bakery - Cast",
+          "url": "https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 50477,
+      "name": "The Baking Song",
+      "url": "https://open.spotify.com/track/7DTcRS9BeM3YERBVARX8xk"
+    },
+    {
+      "album": {
+        "name": "The Doc Is 10 (From \"Disney Junior Music: Doc McStuffins\")",
+        "url": "https://open.spotify.com/album/3fvHg1d4KnYjg6723pPada"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129045,
+      "name": "The Doc Is 10 - From \"Disney Junior Music: Doc McStuffins\"",
+      "url": "https://open.spotify.com/track/3Zkd1E3PjnmanBzwygRG5w"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard: Disney Junior Music",
+        "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
+      },
+      "artists": [
+        {
+          "name": "Cast - The Lion Guard",
+          "url": "https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154803,
+      "name": "The Hero Inside",
+      "url": "https://open.spotify.com/track/2E8CnvqCshMmOMNL8EH4QD"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
+      },
+      "artists": [
+        {
+          "name": "Cast - Muppet Babies",
+          "url": "https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69893,
+      "name": "The Lily Pad Blues",
+      "url": "https://open.spotify.com/track/4SZV2hSDowhBrswUlhP51I"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective Vol. 2",
+        "url": "https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63089,
+      "name": "The Missing Tooth Song",
+      "url": "https://open.spotify.com/track/23O37OqyR8Wpns03HEIKRW"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy Vol. 2",
+        "url": "https://open.spotify.com/album/4NENHWZC5qqmEDerzPF0pW"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102643,
+      "name": "The Nancy Way",
+      "url": "https://open.spotify.com/track/2NCcDPOWpga6sCZXI4kJGR"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 3",
+        "url": "https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO"
+      },
+      "artists": [
+        {
+          "name": "Rob Cantor",
+          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86474,
+      "name": "The Vowels",
+      "url": "https://open.spotify.com/track/5c1WJiNkJq88MXFMm3RYNf"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Puppy Dog Pals - Pup-tastic Party",
+        "url": "https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58315,
+      "name": "This Is How You Jump",
+      "url": "https://open.spotify.com/track/2xm4g5CXQLhzTSSIgAm8c0"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Alice's Wonderland Bakery",
+        "url": "https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI"
+      },
+      "artists": [
+        {
+          "name": "Alice's Wonderland Bakery - Cast",
+          "url": "https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90159,
+      "name": "This'll Take the Cake",
+      "url": "https://open.spotify.com/track/43Z4VVzOroSXXfaPE4QL1I"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle",
+        "url": "https://open.spotify.com/album/5OycyaWPgJT6KRRNeQbbkg"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins",
+          "url": "https://open.spotify.com/artist/3HFeTnI9sZCujHjuwlp4hZ"
+        },
+        {
+          "name": "Stuffy",
+          "url": "https://open.spotify.com/artist/4aWrGbJkY86oD3sN4qmPHE"
+        },
+        {
+          "name": "Lambie",
+          "url": "https://open.spotify.com/artist/4I1m894AfV2zh0k7g057fg"
+        },
+        {
+          "name": "Hallie",
+          "url": "https://open.spotify.com/artist/731VW6Sv2kxT1qInoUyBOO"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34066,
+      "name": "Time for Your Check Up",
+      "url": "https://open.spotify.com/track/6ekOhDrPyjs31ukDmlRCQT"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Doc McStuffins - The Doc and Bella Are In!",
+        "url": "https://open.spotify.com/album/1MCUqpnsjpG4d0KwQszJcr"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101034,
+      "name": "Time for Your Check Up (Bella Version)",
+      "url": "https://open.spotify.com/track/69kHflbAghcdkZbSeK7yeH"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Pupstruction",
+        "url": "https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI"
+      },
+      "artists": [
+        {
+          "name": "Pupstruction - Cast",
+          "url": "https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57892,
+      "name": "Time to Build",
+      "url": "https://open.spotify.com/track/04ypuaKD73O8Q3i40yWvZ3"
+    },
+    {
+      "album": {
+        "name": "Time to Spidey Save the Day (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/2IHNXES7SoyxWN1Nr2fpt7"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122717,
+      "name": "Time to Spidey Save the Day - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/6xQ0m1Y44VjkmFDCpgRq4a"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Alice's Wonderland Bakery",
+        "url": "https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI"
+      },
+      "artists": [
+        {
+          "name": "Alice's Wonderland Bakery - Cast",
+          "url": "https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89100,
+      "name": "Too Much of a Good Thing",
+      "url": "https://open.spotify.com/track/4TUZu9EHLZ4oBdD2OFdydu"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends",
+        "url": "https://open.spotify.com/album/4vZkw3exmmsT03yZV3wnvT"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129626,
+      "name": "Trace-E Shake",
+      "url": "https://open.spotify.com/track/6JWVBscbdaU6R0EV3XICdP"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105282,
+      "name": "Transylvania Girls",
+      "url": "https://open.spotify.com/track/3T6y9S2JIx2RqVNjI4LNBA"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure (From \"Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure\")",
+        "url": "https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134270,
+      "name": "True Pirates We Be (Extended)",
+      "url": "https://open.spotify.com/track/1Ngvtzmvnxchs8vM6aLpnQ"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61933,
+      "name": "Trust in Me",
+      "url": "https://open.spotify.com/track/38wNMduPdinI2fjg7Y729M"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure (From \"Disney Junior Music: Mickey Mouse Funhouse Pirate Adventure\")",
+        "url": "https://open.spotify.com/album/29L5MnlFSoKVglrbcIvnLt"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 40919,
+      "name": "Turnabout and Talk It Out",
+      "url": "https://open.spotify.com/track/1l6FyxTXCCPhwQgKME4fZR"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse Clubhouse",
+        "url": "https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142600,
+      "name": "Twinkle, Twinkle Little Star",
+      "url": "https://open.spotify.com/track/4C5lrIVsItUxZNQmTC2PlO"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective Vol. 2",
+        "url": "https://open.spotify.com/album/114Dr2e40MUQcClW6nEEK4"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67577,
+      "name": "Use Your Senses",
+      "url": "https://open.spotify.com/track/5ITmyJuNSVkIZKVN5jbNyN"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 54827,
+      "name": "Vampirina Theme - From \"Vampirina\"",
+      "url": "https://open.spotify.com/track/6viVSBDabjDw2kAbiIiEa5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Doc McStuffins - The Doc Is In Vol. 2",
+        "url": "https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44710,
+      "name": "Wash Your Hands",
+      "url": "https://open.spotify.com/track/1jKRZymZPuWQBDLti5afFA"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends - Glow Webs Glow",
+        "url": "https://open.spotify.com/album/1N0KSrK5QZBvg2rwu9Asn1"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93610,
+      "name": "Watch Out",
+      "url": "https://open.spotify.com/track/5GRdz09Ypyvpzpvwh4Ts3g"
+    },
+    {
+      "album": {
+        "name": "Disney Junior DJ Shuffle 2",
+        "url": "https://open.spotify.com/album/7mkN6sP8t2aa9ReN8Ir1oR"
+      },
+      "artists": [
+        {
+          "name": "Beau Black",
+          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150840,
+      "name": "Way Out - \"Miles From Tomorrowland\" Theme",
+      "url": "https://open.spotify.com/track/1lMU6VynSYhXb6tfVWHDWm"
+    },
+    {
+      "album": {
+        "name": "Mickey and The Roadster Racers: Disney Junior Music",
+        "url": "https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH"
+      },
+      "artists": [
+        {
+          "name": "Cast - Mickey and the Roadster Racers",
+          "url": "https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116561,
+      "name": "We'll Just Dance",
+      "url": "https://open.spotify.com/track/5S6jTxWSVDL8HnZx1rDlCi"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mira, Royal Detective",
+        "url": "https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k"
+      },
+      "artists": [
+        {
+          "name": "Mira, Royal Detective - Cast",
+          "url": "https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 34592,
+      "name": "We're on the Case",
+      "url": "https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 2",
+        "url": "https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86165,
+      "name": "Weather",
+      "url": "https://open.spotify.com/track/2K6MTdLSbkG3Ocr6srm0KA"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Marvel's Spidey and His Amazing Friends - Web-Spinners",
+        "url": "https://open.spotify.com/album/429rqYMxX34skuuCXDz9wn"
+      },
+      "artists": [
+        {
+          "name": "Marvel\u2019s Spidey and His Amazing Friends - Cast",
+          "url": "https://open.spotify.com/artist/2BdLNqjv0srjdAEJBI0Jgm"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 91311,
+      "name": "Web-Spinners",
+      "url": "https://open.spotify.com/track/3u63jOlIxYN2P2GoWjMyq0"
+    },
+    {
+      "album": {
+        "name": "Webs Up (From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\")",
+        "url": "https://open.spotify.com/album/0zwpuxxddazT9xD2gPQmX4"
+      },
+      "artists": [
+        {
+          "name": "Patrick Stump",
+          "url": "https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 63978,
+      "name": "Webs Up - From \"Disney Junior Music: Marvel's Spidey and His Amazing Friends\"",
+      "url": "https://open.spotify.com/track/73oKdtqfhexTnNvp2QFBns"
+    },
+    {
+      "album": {
+        "name": "Doc McStuffins: Disney Junior Music",
+        "url": "https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd"
+      },
+      "artists": [
+        {
+          "name": "Doc McStuffins - Cast",
+          "url": "https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73583,
+      "name": "Welcome to the Hospital",
+      "url": "https://open.spotify.com/track/0cKehdz3x4KI97HYS3sqNY"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Ready for Preschool Vol. 8",
+        "url": "https://open.spotify.com/album/1kfmTVqOcHscZTl35tYmIe"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86719,
+      "name": "What Animal Do You Hear?",
+      "url": "https://open.spotify.com/track/6wy6Iem6hgu2MGup3V2G0d"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Muppet Babies",
+        "url": "https://open.spotify.com/album/5W62FpplwP6M2g0vwRrUBI"
+      },
+      "artists": [
+        {
+          "name": "Cast - Muppet Babies",
+          "url": "https://open.spotify.com/artist/0veQuV0UE46gR3hDsjlrBP"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58746,
+      "name": "What This Frog Likes",
+      "url": "https://open.spotify.com/track/1ZZLBoiZ8MD1oBVFBJzat0"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Minnie's Bow-Toons: Camp Minnie",
+        "url": "https://open.spotify.com/album/3AB9eHf1zOPJMNY2exugAe"
+      },
+      "artists": [
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Minnie's Bow-Toons - Cast",
+          "url": "https://open.spotify.com/artist/0idt25tEI5bIRirIrzYlqY"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45177,
+      "name": "When I Was Hiking",
+      "url": "https://open.spotify.com/track/0Qv4rnSFD0Y6oKrmg3oLWc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Mickey Mouse Funhouse Vol. 1",
+        "url": "https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse Funhouse - Cast",
+          "url": "https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103844,
+      "name": "Wiggle Giggle",
+      "url": "https://open.spotify.com/track/5uIPNktgd0nNqAnYIcaqWE"
+    },
+    {
+      "album": {
+        "name": "Wind in My Hair (From \"Tangled: Before Ever After\")",
+        "url": "https://open.spotify.com/album/7oHt9z1qdgmw5oNHidfTRI"
+      },
+      "artists": [
+        {
+          "name": "Rapunzel",
+          "url": "https://open.spotify.com/artist/03VzZ67Mxp1ePKvCAMl6VS"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154775,
+      "name": "Wind in My Hair - From \"Tangled: Before Ever After\"",
+      "url": "https://open.spotify.com/track/7xRIPGewMZdh63k3p6YTQi"
+    },
+    {
+      "album": {
+        "name": "Jake And The Never Land Pirates",
+        "url": "https://open.spotify.com/album/6AiPOzsx3NiOfeFvBivBYM"
+      },
+      "artists": [
+        {
+          "name": "The Never Land Pirate Band",
+          "url": "https://open.spotify.com/artist/2JxertY1LUXK6awYCSf7SM"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 42626,
+      "name": "Yo Ho Mateys Away",
+      "url": "https://open.spotify.com/track/2wiO723A7G2gTx3txcWR7p"
+    },
+    {
+      "album": {
+        "name": "Elena of Avalor: Disney Junior Music",
+        "url": "https://open.spotify.com/album/2EVjCUeErLZqSWBrSAI4wb"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106634,
+      "name": "You Can't Catch Me",
+      "url": "https://open.spotify.com/track/3Wq8JjxFtujN9zyzK0cGQL"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67307,
+      "name": "You're Dancin'",
+      "url": "https://open.spotify.com/track/0havDyAqcvk8Yvj9JRWD5G"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60217,
+      "name": "You're My Best Friend",
+      "url": "https://open.spotify.com/track/1kcItYPpQBkvFVgTGNy2Gc"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: SuperKitties Su-purr Edition",
+        "url": "https://open.spotify.com/album/5RghnhLU5w8Ludol7Bys33"
+      },
+      "artists": [
+        {
+          "name": "SuperKitties - Cast",
+          "url": "https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62972,
+      "name": "Zsa-Zsa Ya Ya",
+      "url": "https://open.spotify.com/track/2oqB9en8cOf6Sl9NMEeu7H"
+    },
+    {
+      "album": {
+        "name": "The Lion Guard (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
+      },
+      "artists": [
+        {
+          "name": "Bunga",
+          "url": "https://open.spotify.com/artist/1pELtwHOyeDM1ecKfux8Tw"
+        }
+      ],
+      "date_added": "2022-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117813,
+      "name": "Zuka Zama",
+      "url": "https://open.spotify.com/track/6bnoqhh0lEfF90fuD5JZEO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4TzCf8od5BM"
 }

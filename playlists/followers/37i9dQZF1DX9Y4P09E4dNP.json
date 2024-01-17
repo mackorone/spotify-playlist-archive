@@ -1,731 +1,2301 @@
 {
-  "2021-12-29": 21009,
-  "2021-12-30": 21023,
-  "2021-12-31": 21038,
-  "2022-01-01": 21059,
-  "2022-01-02": 21062,
-  "2022-01-03": 21068,
-  "2022-01-04": 21080,
-  "2022-01-05": 21085,
-  "2022-01-06": 21098,
-  "2022-01-07": 21106,
-  "2022-01-08": 21127,
-  "2022-01-09": 21127,
-  "2022-01-10": 21137,
-  "2022-01-11": 21149,
-  "2022-01-12": 21152,
-  "2022-01-13": 21166,
-  "2022-01-14": 21180,
-  "2022-01-15": 21207,
-  "2022-01-16": 21207,
-  "2022-01-17": 21221,
-  "2022-01-18": 21222,
-  "2022-01-19": 21224,
-  "2022-01-20": 21228,
-  "2022-01-21": 21232,
-  "2022-01-22": 21242,
-  "2022-01-23": 21251,
-  "2022-01-24": 21259,
-  "2022-01-25": 21263,
-  "2022-01-26": 21275,
-  "2022-01-27": 21288,
-  "2022-01-28": 21297,
-  "2022-01-29": 21301,
-  "2022-01-30": 21316,
-  "2022-01-31": 21329,
-  "2022-02-01": 21337,
-  "2022-02-02": 21343,
-  "2022-02-03": 21358,
-  "2022-02-04": 21366,
-  "2022-02-05": 21374,
-  "2022-02-06": 21384,
-  "2022-02-07": 21391,
-  "2022-02-08": 21402,
-  "2022-02-09": 21407,
-  "2022-02-10": 21415,
-  "2022-02-11": 21422,
-  "2022-02-12": 21429,
-  "2022-02-13": 21439,
-  "2022-02-14": 21448,
-  "2022-02-15": 21451,
-  "2022-02-16": 21456,
-  "2022-02-17": 21456,
-  "2022-02-18": 21469,
-  "2022-02-19": 21479,
-  "2022-02-20": 21489,
-  "2022-02-21": 21497,
-  "2022-02-22": 21506,
-  "2022-02-23": 21511,
-  "2022-02-24": 21516,
-  "2022-02-25": 21519,
-  "2022-02-26": 21531,
-  "2022-02-27": 21543,
-  "2022-02-28": 21543,
-  "2022-03-01": 21550,
-  "2022-03-02": 21558,
-  "2022-03-03": 21563,
-  "2022-03-04": 21573,
-  "2022-03-05": 21585,
-  "2022-03-06": 21597,
-  "2022-03-07": 21607,
-  "2022-03-08": 21616,
-  "2022-03-09": 21621,
-  "2022-03-10": 21633,
-  "2022-03-11": 21648,
-  "2022-03-12": 21662,
-  "2022-03-13": 21675,
-  "2022-03-14": 21687,
-  "2022-03-15": 21697,
-  "2022-03-16": 21704,
-  "2022-03-17": 21712,
-  "2022-03-18": 21732,
-  "2022-03-19": 21736,
-  "2022-03-20": 21736,
-  "2022-03-21": 21766,
-  "2022-03-22": 21773,
-  "2022-03-23": 21778,
-  "2022-03-24": 21789,
-  "2022-03-25": 21797,
-  "2022-03-26": 21805,
-  "2022-03-27": 21819,
-  "2022-03-28": 21829,
-  "2022-03-30": 21838,
-  "2022-03-31": 21845,
-  "2022-04-01": 21860,
-  "2022-04-02": 21868,
-  "2022-04-03": 21871,
-  "2022-04-04": 21884,
-  "2022-04-05": 21890,
-  "2022-04-06": 21900,
-  "2022-04-07": 21907,
-  "2022-04-08": 21918,
-  "2022-04-09": 21928,
-  "2022-04-10": 21953,
-  "2022-04-11": 21967,
-  "2022-04-12": 21969,
-  "2022-04-13": 21978,
-  "2022-04-14": 21981,
-  "2022-04-15": 21988,
-  "2022-04-16": 21999,
-  "2022-04-17": 22006,
-  "2022-04-18": 22019,
-  "2022-04-19": 22030,
-  "2022-04-20": 22029,
-  "2022-04-21": 22041,
-  "2022-04-22": 22051,
-  "2022-04-23": 22061,
-  "2022-04-24": 22079,
-  "2022-04-25": 22082,
-  "2022-04-26": 22086,
-  "2022-04-27": 22092,
-  "2022-04-28": 22108,
-  "2022-04-29": 22123,
-  "2022-04-30": 22140,
-  "2022-05-01": 22148,
-  "2022-05-02": 22148,
-  "2022-05-03": 22157,
-  "2022-05-04": 22160,
-  "2022-05-05": 22166,
-  "2022-05-06": 22180,
-  "2022-05-07": 22181,
-  "2022-05-08": 22200,
-  "2022-05-09": 22201,
-  "2022-05-10": 22207,
-  "2022-05-11": 22212,
-  "2022-05-12": 22221,
-  "2022-05-13": 22224,
-  "2022-05-14": 22231,
-  "2022-05-15": 22245,
-  "2022-05-16": 22247,
-  "2022-05-17": 22257,
-  "2022-05-18": 22267,
-  "2022-05-19": 22274,
-  "2022-05-20": 22283,
-  "2022-05-21": 22295,
-  "2022-05-22": 22295,
-  "2022-05-23": 22299,
-  "2022-05-24": 22308,
-  "2022-05-25": 22310,
-  "2022-05-26": 22316,
-  "2022-05-27": 22331,
-  "2022-05-28": 22340,
-  "2022-05-29": 22350,
-  "2022-05-30": 22349,
-  "2022-05-31": 22354,
-  "2022-06-01": 22365,
-  "2022-06-02": 22368,
-  "2022-06-03": 22372,
-  "2022-06-04": 22383,
-  "2022-06-05": 22391,
-  "2022-06-06": 22396,
-  "2022-06-07": 22400,
-  "2022-06-08": 22408,
-  "2022-06-09": 22414,
-  "2022-06-10": 22421,
-  "2022-06-11": 22425,
-  "2022-06-12": 22433,
-  "2022-06-13": 22436,
-  "2022-06-14": 22444,
-  "2022-06-15": 22451,
-  "2022-06-16": 22456,
-  "2022-06-17": 22469,
-  "2022-06-18": 22469,
-  "2022-06-19": 22492,
-  "2022-06-20": 22492,
-  "2022-06-21": 22505,
-  "2022-06-22": 22518,
-  "2022-06-23": 22518,
-  "2022-06-24": 22523,
-  "2022-06-25": 22523,
-  "2022-06-26": 22540,
-  "2022-06-27": 22548,
-  "2022-06-28": 22554,
-  "2022-06-29": 22559,
-  "2022-06-30": 22559,
-  "2022-07-01": 22566,
-  "2022-07-02": 22574,
-  "2022-07-03": 22584,
-  "2022-07-04": 22592,
-  "2022-07-05": 22600,
-  "2022-07-06": 22610,
-  "2022-07-07": 22617,
-  "2022-07-08": 22628,
-  "2022-07-09": 22637,
-  "2022-07-10": 22648,
-  "2022-07-11": 22659,
-  "2022-07-12": 22670,
-  "2022-07-13": 22674,
-  "2022-07-14": 22681,
-  "2022-07-15": 22691,
-  "2022-07-16": 22699,
-  "2022-07-17": 22705,
-  "2022-07-18": 22712,
-  "2022-07-19": 22720,
-  "2022-07-20": 22729,
-  "2022-07-21": 22735,
-  "2022-07-22": 22748,
-  "2022-07-23": 22753,
-  "2022-07-24": 22766,
-  "2022-07-25": 22776,
-  "2022-07-26": 22785,
-  "2022-07-27": 22801,
-  "2022-07-28": 22811,
-  "2022-07-29": 22811,
-  "2022-07-30": 22825,
-  "2022-07-31": 22825,
-  "2022-08-01": 22836,
-  "2022-08-02": 22859,
-  "2022-08-03": 22859,
-  "2022-08-04": 22865,
-  "2022-08-05": 22878,
-  "2022-08-06": 22885,
-  "2022-08-07": 22895,
-  "2022-08-08": 22904,
-  "2022-08-09": 22916,
-  "2022-08-10": 22925,
-  "2022-08-11": 22935,
-  "2022-08-12": 22951,
-  "2022-08-13": 22966,
-  "2022-08-14": 22979,
-  "2022-08-15": 22985,
-  "2022-08-16": 22995,
-  "2022-08-17": 23002,
-  "2022-08-18": 23012,
-  "2022-08-19": 23021,
-  "2022-08-20": 23024,
-  "2022-08-21": 23032,
-  "2022-08-22": 23046,
-  "2022-08-23": 23052,
-  "2022-08-24": 23059,
-  "2022-08-25": 23071,
-  "2022-08-26": 23079,
-  "2022-08-27": 23086,
-  "2022-08-28": 23101,
-  "2022-08-29": 23109,
-  "2022-08-30": 23113,
-  "2022-08-31": 23112,
-  "2022-09-01": 23116,
-  "2022-09-02": 23120,
-  "2022-09-03": 23121,
-  "2022-09-04": 23137,
-  "2022-09-05": 23147,
-  "2022-09-06": 23150,
-  "2022-09-07": 23166,
-  "2022-09-09": 23178,
-  "2022-09-10": 23190,
-  "2022-09-11": 23203,
-  "2022-09-12": 23210,
-  "2022-09-13": 23217,
-  "2022-09-15": 23239,
-  "2022-09-16": 23250,
-  "2022-09-17": 23256,
-  "2022-09-18": 23268,
-  "2022-09-19": 23279,
-  "2022-09-20": 23287,
-  "2022-09-21": 23293,
-  "2022-09-22": 23302,
-  "2022-09-23": 23307,
-  "2022-09-24": 23322,
-  "2022-09-25": 23330,
-  "2022-09-26": 23337,
-  "2022-09-27": 23344,
-  "2022-09-28": 23354,
-  "2022-09-29": 23366,
-  "2022-09-30": 23372,
-  "2022-10-01": 23381,
-  "2022-10-02": 23396,
-  "2022-10-03": 23405,
-  "2022-10-04": 23413,
-  "2022-10-05": 23424,
-  "2022-10-06": 23436,
-  "2022-10-07": 23441,
-  "2022-10-08": 23452,
-  "2022-10-09": 23474,
-  "2022-10-10": 23477,
-  "2022-10-11": 23487,
-  "2022-10-12": 23496,
-  "2022-10-13": 23505,
-  "2022-10-14": 23508,
-  "2022-10-15": 23521,
-  "2022-10-16": 23533,
-  "2022-10-17": 23544,
-  "2022-10-18": 23553,
-  "2022-10-19": 23564,
-  "2022-10-20": 23573,
-  "2022-10-21": 23584,
-  "2022-10-22": 23597,
-  "2022-10-23": 23605,
-  "2022-10-24": 23618,
-  "2022-10-25": 23625,
-  "2022-10-26": 23638,
-  "2022-10-27": 23649,
-  "2022-10-28": 23659,
-  "2022-10-29": 23667,
-  "2022-10-30": 23675,
-  "2022-10-31": 23690,
-  "2022-11-01": 23705,
-  "2022-11-02": 23720,
-  "2022-11-03": 23725,
-  "2022-11-04": 23733,
-  "2022-11-05": 23738,
-  "2022-11-06": 23749,
-  "2022-11-07": 23758,
-  "2022-11-08": 23771,
-  "2022-11-09": 23784,
-  "2022-11-10": 23790,
-  "2022-11-11": 23796,
-  "2022-11-12": 23802,
-  "2022-11-13": 23803,
-  "2022-11-14": 23817,
-  "2022-11-15": 23826,
-  "2022-11-16": 23834,
-  "2022-11-17": 23844,
-  "2022-11-18": 23843,
-  "2022-11-19": 23849,
-  "2022-11-20": 23861,
-  "2022-11-21": 23869,
-  "2022-11-22": 23881,
-  "2022-11-23": 23892,
-  "2022-11-24": 23907,
-  "2022-11-25": 23920,
-  "2022-11-26": 23932,
-  "2022-11-27": 23943,
-  "2022-11-28": 23957,
-  "2022-11-29": 23976,
-  "2022-11-30": 23985,
-  "2022-12-01": 24000,
-  "2022-12-02": 24004,
-  "2022-12-03": 24023,
-  "2022-12-04": 24034,
-  "2022-12-05": 24051,
-  "2022-12-06": 24057,
-  "2022-12-07": 24062,
-  "2022-12-08": 24070,
-  "2022-12-09": 24079,
-  "2022-12-10": 24094,
-  "2022-12-11": 24102,
-  "2022-12-12": 24116,
-  "2022-12-13": 24132,
-  "2022-12-14": 24139,
-  "2022-12-15": 24151,
-  "2022-12-16": 24164,
-  "2022-12-17": 24167,
-  "2022-12-18": 24178,
-  "2022-12-19": 24190,
-  "2022-12-20": 24204,
-  "2022-12-21": 24204,
-  "2022-12-22": 24216,
-  "2022-12-24": 24243,
-  "2022-12-25": 24247,
-  "2022-12-26": 24260,
-  "2022-12-27": 24266,
-  "2022-12-28": 24277,
-  "2022-12-29": 24287,
-  "2022-12-30": 24298,
-  "2022-12-31": 24312,
-  "2023-01-01": 24328,
-  "2023-01-02": 24338,
-  "2023-01-03": 24351,
-  "2023-01-04": 24358,
-  "2023-01-05": 24371,
-  "2023-01-06": 24379,
-  "2023-01-07": 24403,
-  "2023-01-08": 24402,
-  "2023-01-09": 24413,
-  "2023-01-10": 24426,
-  "2023-01-11": 24439,
-  "2023-01-12": 24449,
-  "2023-01-13": 24468,
-  "2023-01-14": 24484,
-  "2023-01-15": 24486,
-  "2023-01-16": 24504,
-  "2023-01-17": 24511,
-  "2023-01-18": 24524,
-  "2023-01-19": 24530,
-  "2023-01-20": 24545,
-  "2023-01-21": 24554,
-  "2023-01-22": 24566,
-  "2023-01-23": 24580,
-  "2023-01-24": 24585,
-  "2023-01-25": 24596,
-  "2023-01-26": 24607,
-  "2023-01-27": 24616,
-  "2023-01-28": 24625,
-  "2023-01-29": 24635,
-  "2023-01-30": 24647,
-  "2023-01-31": 24647,
-  "2023-02-01": 24661,
-  "2023-02-02": 24669,
-  "2023-02-03": 24680,
-  "2023-02-04": 24691,
-  "2023-02-05": 24701,
-  "2023-02-06": 24708,
-  "2023-02-07": 24721,
-  "2023-02-08": 24746,
-  "2023-02-09": 24746,
-  "2023-02-10": 24760,
-  "2023-02-11": 24772,
-  "2023-02-12": 24793,
-  "2023-02-13": 24805,
-  "2023-02-14": 24805,
-  "2023-02-15": 24811,
-  "2023-02-16": 24822,
-  "2023-02-17": 24830,
-  "2023-02-18": 24850,
-  "2023-02-19": 24850,
-  "2023-02-20": 24853,
-  "2023-02-21": 24861,
-  "2023-02-22": 24868,
-  "2023-02-23": 24871,
-  "2023-02-24": 24880,
-  "2023-02-25": 24896,
-  "2023-02-26": 24901,
-  "2023-02-27": 24923,
-  "2023-02-28": 24923,
-  "2023-03-01": 24938,
-  "2023-03-02": 24943,
-  "2023-03-03": 24955,
-  "2023-03-04": 24963,
-  "2023-03-05": 24987,
-  "2023-03-06": 24987,
-  "2023-03-07": 25001,
-  "2023-03-08": 25011,
-  "2023-03-09": 25023,
-  "2023-03-10": 25032,
-  "2023-03-11": 25041,
-  "2023-03-12": 25057,
-  "2023-03-13": 25064,
-  "2023-03-14": 25076,
-  "2023-03-15": 25089,
-  "2023-03-16": 25092,
-  "2023-03-17": 25092,
-  "2023-03-18": 25116,
-  "2023-03-19": 25126,
-  "2023-03-20": 25136,
-  "2023-03-21": 25144,
-  "2023-03-22": 25153,
-  "2023-03-23": 25167,
-  "2023-03-24": 25167,
-  "2023-03-25": 25192,
-  "2023-03-26": 25209,
-  "2023-03-27": 25215,
-  "2023-03-28": 25220,
-  "2023-03-29": 25232,
-  "2023-03-30": 25255,
-  "2023-03-31": 25255,
-  "2023-04-01": 25262,
-  "2023-04-02": 25274,
-  "2023-04-03": 25281,
-  "2023-04-04": 25293,
-  "2023-04-05": 25302,
-  "2023-04-06": 25312,
-  "2023-04-07": 25328,
-  "2023-04-09": 25356,
-  "2023-04-10": 25372,
-  "2023-04-11": 25398,
-  "2023-04-12": 25398,
-  "2023-04-13": 25415,
-  "2023-04-14": 25427,
-  "2023-04-15": 25434,
-  "2023-04-16": 25442,
-  "2023-04-17": 25454,
-  "2023-04-18": 25467,
-  "2023-04-19": 25479,
-  "2023-04-20": 25499,
-  "2023-04-21": 25507,
-  "2023-04-22": 25525,
-  "2023-04-23": 25536,
-  "2023-04-24": 25550,
-  "2023-04-25": 25563,
-  "2023-04-26": 25578,
-  "2023-04-27": 25592,
-  "2023-04-28": 25607,
-  "2023-04-29": 25623,
-  "2023-04-30": 25639,
-  "2023-05-01": 25656,
-  "2023-05-02": 25669,
-  "2023-05-03": 25679,
-  "2023-05-04": 25693,
-  "2023-05-05": 25701,
-  "2023-05-06": 25719,
-  "2023-05-07": 25730,
-  "2023-05-08": 25739,
-  "2023-05-09": 25751,
-  "2023-05-10": 25763,
-  "2023-05-11": 25775,
-  "2023-05-12": 25785,
-  "2023-05-13": 25799,
-  "2023-05-14": 25809,
-  "2023-05-15": 25820,
-  "2023-05-16": 25826,
-  "2023-05-17": 25835,
-  "2023-05-18": 25855,
-  "2023-05-19": 25867,
-  "2023-05-20": 25900,
-  "2023-05-21": 25900,
-  "2023-05-22": 25900,
-  "2023-05-23": 25925,
-  "2023-05-24": 25943,
-  "2023-05-25": 25947,
-  "2023-05-26": 25960,
-  "2023-05-27": 25964,
-  "2023-05-28": 25974,
-  "2023-05-29": 25974,
-  "2023-05-30": 25993,
-  "2023-05-31": 26001,
-  "2023-06-01": 26011,
-  "2023-06-02": 26026,
-  "2023-06-03": 26038,
-  "2023-06-04": 26051,
-  "2023-06-05": 26072,
-  "2023-06-06": 26078,
-  "2023-06-07": 26086,
-  "2023-06-08": 26105,
-  "2023-06-09": 26117,
-  "2023-06-10": 26128,
-  "2023-06-11": 26139,
-  "2023-06-12": 26154,
-  "2023-06-13": 26166,
-  "2023-06-14": 26170,
-  "2023-06-15": 26182,
-  "2023-06-16": 26190,
-  "2023-06-17": 26205,
-  "2023-06-18": 26220,
-  "2023-06-19": 26240,
-  "2023-06-20": 26246,
-  "2023-06-21": 26256,
-  "2023-06-22": 26264,
-  "2023-06-23": 26271,
-  "2023-06-24": 26280,
-  "2023-06-25": 26292,
-  "2023-06-26": 26304,
-  "2023-06-27": 26318,
-  "2023-06-28": 26326,
-  "2023-06-29": 26328,
-  "2023-06-30": 26344,
-  "2023-07-01": 26370,
-  "2023-07-02": 26370,
-  "2023-07-03": 26386,
-  "2023-07-04": 26398,
-  "2023-07-05": 26404,
-  "2023-07-06": 26422,
-  "2023-07-07": 26422,
-  "2023-07-08": 26431,
-  "2023-07-09": 26440,
-  "2023-07-10": 26453,
-  "2023-07-11": 26462,
-  "2023-07-12": 26473,
-  "2023-07-13": 26483,
-  "2023-07-14": 26498,
-  "2023-07-15": 26497,
-  "2023-07-16": 26502,
-  "2023-07-17": 26518,
-  "2023-07-18": 26536,
-  "2023-07-19": 26545,
-  "2023-07-20": 26554,
-  "2023-07-21": 26566,
-  "2023-07-22": 26577,
-  "2023-07-23": 26588,
-  "2023-07-24": 26601,
-  "2023-07-25": 26610,
-  "2023-07-26": 26624,
-  "2023-07-27": 26635,
-  "2023-07-28": 26655,
-  "2023-07-29": 26662,
-  "2023-07-30": 26671,
-  "2023-07-31": 26683,
-  "2023-08-01": 26691,
-  "2023-08-02": 26705,
-  "2023-08-03": 26715,
-  "2023-08-04": 26721,
-  "2023-08-05": 26727,
-  "2023-08-06": 26743,
-  "2023-08-07": 26743,
-  "2023-08-08": 26750,
-  "2023-08-09": 26763,
-  "2023-08-10": 26773,
-  "2023-08-11": 26787,
-  "2023-08-12": 26796,
-  "2023-08-13": 26812,
-  "2023-08-14": 26825,
-  "2023-08-15": 26838,
-  "2023-08-16": 26838,
-  "2023-08-17": 26845,
-  "2023-08-18": 26859,
-  "2023-08-19": 26865,
-  "2023-08-20": 26878,
-  "2023-08-21": 26889,
-  "2023-08-22": 26899,
-  "2023-08-23": 26911,
-  "2023-08-24": 26916,
-  "2023-08-25": 26924,
-  "2023-08-26": 26932,
-  "2023-08-27": 26949,
-  "2023-08-28": 26963,
-  "2023-08-29": 26977,
-  "2023-08-30": 26987,
-  "2023-08-31": 26996,
-  "2023-09-01": 27025,
-  "2023-09-02": 27025,
-  "2023-09-03": 27035,
-  "2023-09-04": 27045,
-  "2023-09-05": 27055,
-  "2023-09-06": 27074,
-  "2023-09-07": 27086,
-  "2023-09-08": 27097,
-  "2023-09-09": 27116,
-  "2023-09-10": 27133,
-  "2023-09-11": 27160,
-  "2023-09-12": 27177,
-  "2023-09-13": 27189,
-  "2023-09-14": 27208,
-  "2023-09-15": 27230,
-  "2023-09-16": 27250,
-  "2023-09-17": 27260,
-  "2023-09-18": 27276,
-  "2023-09-19": 27283,
-  "2023-09-20": 27302,
-  "2023-09-21": 27319,
-  "2023-09-22": 27337,
-  "2023-09-23": 27352,
-  "2023-09-24": 27374,
-  "2023-09-25": 27399,
-  "2023-09-26": 27417,
-  "2023-09-27": 27426,
-  "2023-09-28": 27452,
-  "2023-09-29": 27476,
-  "2023-09-30": 27497,
-  "2023-10-01": 27519,
-  "2023-10-02": 27531,
-  "2023-10-03": 27548,
-  "2023-10-04": 27568,
-  "2023-10-05": 27580,
-  "2023-10-06": 27597,
-  "2023-10-07": 27618,
-  "2023-10-08": 27635,
-  "2023-10-09": 27653,
-  "2023-10-10": 27669,
-  "2023-10-11": 27699,
-  "2023-10-12": 27699,
-  "2023-10-13": 27721,
-  "2023-10-14": 27738,
-  "2023-10-15": 27763,
-  "2023-10-16": 27796,
-  "2023-10-17": 27826,
-  "2023-10-18": 27838,
-  "2023-10-19": 27866,
-  "2023-10-20": 27886,
-  "2023-10-21": 27906,
-  "2023-10-22": 27922,
-  "2023-10-23": 27944,
-  "2023-10-24": 27960,
-  "2023-10-25": 27974,
-  "2023-10-26": 27999,
-  "2023-10-27": 28023,
-  "2023-10-28": 28023,
-  "2023-10-29": 28023,
-  "2023-10-30": 28088,
-  "2023-10-31": 28088,
-  "2023-11-01": 28140,
-  "2023-11-02": 28160,
-  "2023-11-03": 28181,
-  "2023-11-04": 28198,
-  "2023-11-05": 28212,
-  "2023-11-06": 28230,
-  "2023-11-07": 28249,
-  "2023-11-08": 28282,
-  "2023-11-09": 28300,
-  "2023-11-10": 28319,
-  "2023-11-11": 28347,
-  "2023-11-12": 28363,
-  "2023-11-13": 28383,
-  "2023-11-14": 28398,
-  "2023-11-15": 28398,
-  "2023-11-16": 28435,
-  "2023-11-17": 28482,
-  "2023-11-18": 28482,
-  "2023-11-19": 28497,
-  "2023-11-20": 28520,
-  "2023-11-21": 28542,
-  "2023-11-22": 28570,
-  "2023-11-23": 28602,
-  "2023-11-24": 28602,
-  "2023-11-25": 28652,
-  "2023-11-26": 28682,
-  "2023-11-27": 28696,
-  "2023-11-28": 28720,
-  "2023-11-29": 28780,
-  "2023-11-30": 28780,
-  "2023-12-01": 28809,
-  "2023-12-02": 28831,
-  "2023-12-03": 28860,
-  "2023-12-04": 28883,
-  "2023-12-05": 28905,
-  "2023-12-06": 28935,
-  "2023-12-07": 28962,
-  "2023-12-08": 29002,
-  "2023-12-09": 29042,
-  "2023-12-10": 29083,
-  "2023-12-11": 29117,
-  "2023-12-12": 29117,
-  "2023-12-13": 29170,
-  "2023-12-14": 29192,
-  "2023-12-15": 29216,
-  "2023-12-16": 29240,
-  "2023-12-17": 29275,
-  "2023-12-18": 29317,
-  "2023-12-19": 29360,
-  "2023-12-20": 29380,
-  "2023-12-21": 29416,
-  "2023-12-22": 29445,
-  "2023-12-23": 29475,
-  "2023-12-24": 29502,
-  "2023-12-25": 29539,
-  "2023-12-26": 29560,
-  "2023-12-27": 29582,
-  "2023-12-30": 29663,
-  "2023-12-31": 29693,
-  "2024-01-01": 29727,
-  "2024-01-02": 29764,
-  "2024-01-03": 29800
+  "2024-01-17": 30107,
+  "date_first_scraped": "2021-12-29",
+  "description": "A fusion of highlife and hip-hop, these hip-life jams are undeniable.",
+  "name": "Hip-Life Hits",
+  "tracks": [
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Mzbel",
+          "url": "https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 307147,
+      "name": "16 Years",
+      "url": "https://open.spotify.com/track/2GR8KxTtzONZWPWnXmkBTg"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Mzbel",
+          "url": "https://open.spotify.com/artist/5YUTALnG3R7Hocweh7eovn"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 307147,
+      "name": "16 Years",
+      "url": "https://open.spotify.com/track/5VbYXY9TupDh4oX33zBMwR"
+    },
+    {
+      "album": {
+        "name": "Aben Wo Aha",
+        "url": "https://open.spotify.com/album/4FcLoTiIPJwwnW5xa20mm2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310666,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/1sw1Ahq16MtmeFIwEgXxKm"
+    },
+    {
+      "album": {
+        "name": "Aben Wa Ha",
+        "url": "https://open.spotify.com/album/5cIHc0EZTZVMIJwcTNF277"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 312706,
+      "name": "Aben Wo Aha",
+      "url": "https://open.spotify.com/track/7cbqOCwbnko77vHSiz0Oot"
+    },
+    {
+      "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2023-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "album": {
+        "name": "Abofra",
+        "url": "https://open.spotify.com/album/0t7PPoLJESwhAoG48GfrXc"
+      },
+      "artists": [
+        {
+          "name": "Rjz",
+          "url": "https://open.spotify.com/artist/3P9aXTc8KBRzJafmSe156G"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-26",
+      "duration_ms": 166250,
+      "name": "Abofra",
+      "url": "https://open.spotify.com/track/77gnkds6DeIlK8wZ96tyUY"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301609,
+      "name": "Abrantee",
+      "url": "https://open.spotify.com/track/4cZvoz7mHBLAc42FBVya0i"
+    },
+    {
+      "album": {
+        "name": "Abro Ne Bayie",
+        "url": "https://open.spotify.com/album/5sxiyctzYIonIhjbXsOzh0"
+      },
+      "artists": [
+        {
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301688,
+      "name": "Abrantee",
+      "url": "https://open.spotify.com/track/2DnXj8yPJYcLhjPM4kHD4q"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Sidney",
+          "url": "https://open.spotify.com/artist/50HoBlg3tXmqwF0w4cZVmD"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-18",
+      "duration_ms": 324806,
+      "name": "Abuskeleke",
+      "url": "https://open.spotify.com/track/2iywIMWIJIEH5kCKpP9Zdf"
+    },
+    {
+      "album": {
+        "name": "Ahomka Womu",
+        "url": "https://open.spotify.com/album/0ZLnF0wKad2yVZl2EjOnpG"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        },
+        {
+          "name": "Tic Tac,Frank Mensah,2-Tee,Lil Kryz,Abortion",
+          "url": "https://open.spotify.com/artist/373YE3CDdFni3txqURZTch"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327720,
+      "name": "Ahomka Wo Mu",
+      "url": "https://open.spotify.com/track/4s5OFaXyadqE9uTaNYTKQw"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 330573,
+      "name": "Ahomka Womu",
+      "url": "https://open.spotify.com/track/64QtNm7SM1TwKZ3iINW6Be"
+    },
+    {
+      "album": {
+        "name": "Nyankonton",
+        "url": "https://open.spotify.com/album/3Nu5sSuQWQX7QcZ80GD7vc"
+      },
+      "artists": [
+        {
+          "name": "Kontihene",
+          "url": "https://open.spotify.com/artist/0uKjsrSxXWqfWF2mFyehs7"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311520,
+      "name": "Aketesia",
+      "url": "https://open.spotify.com/track/6D4DkmGGCliXAlqsZVgRkA"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Jay Dee",
+          "url": "https://open.spotify.com/artist/43e1fq8gcisBmza9sAaG6c"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-16",
+      "duration_ms": 286511,
+      "name": "Alampaine",
+      "url": "https://open.spotify.com/track/0ZOc6TTrgG4nEquANacw7B"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "KK Fosu",
+          "url": "https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 278308,
+      "name": "Anadwo Yede",
+      "url": "https://open.spotify.com/track/7BcXZP856gok2P9nVp0hD6"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "C-Zar",
+          "url": "https://open.spotify.com/artist/0Fj9MPOAPKlcNZqVFrNWYx"
+        },
+        {
+          "name": "All4Real",
+          "url": "https://open.spotify.com/artist/4iG1ZHRDz0xTngBW1hHtRe"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 331258,
+      "name": "Araba Lawson (feat. All4real)",
+      "url": "https://open.spotify.com/track/0GFjf8ABto37t2pbGm5JfL"
+    },
+    {
+      "album": {
+        "name": "Highlife Konnect",
+        "url": "https://open.spotify.com/album/72NulXFtskbFG6htwcte2C"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "Mic Flammez",
+          "url": "https://open.spotify.com/artist/1EUY08IMbLAtjiyBxsgueI"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205374,
+      "name": "Asew",
+      "url": "https://open.spotify.com/track/7xujnLnBsxgby94GzXdPVi"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Papa Shee",
+          "url": "https://open.spotify.com/artist/7uBklHGcjfKcyKHGzXS0NC"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 363023,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/7xMqJPXwR4daIGNNz8BIjc"
+    },
+    {
+      "album": {
+        "name": "Atadwe",
+        "url": "https://open.spotify.com/album/1RmAEbz2aviWvoa4YwUQNk"
+      },
+      "artists": [
+        {
+          "name": "Papa Sheee",
+          "url": "https://open.spotify.com/artist/0ktHlUz0hzcpJnnAJ7KDPw"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360573,
+      "name": "Atadwe",
+      "url": "https://open.spotify.com/track/77szM9v9r3cQLb753RcRjW"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 369136,
+      "name": "Atia Donko",
+      "url": "https://open.spotify.com/track/0q0vMCj9PqiHSfoY43R3xj"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 369136,
+      "name": "Atia Donko",
+      "url": "https://open.spotify.com/track/3T7MjI732gFvMvxMtTgEGS"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 306964,
+      "name": "Atweetan",
+      "url": "https://open.spotify.com/track/0vq22t9yY4QOhqMhH3A8tJ"
+    },
+    {
+      "album": {
+        "name": "Rakia",
+        "url": "https://open.spotify.com/album/7dXy5OVxXCdsTHvFeSEG7T"
+      },
+      "artists": [
+        {
+          "name": "Kofi Nti",
+          "url": "https://open.spotify.com/artist/2ms1z7qBF4uLM8hzdjGhL9"
+        },
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306906,
+      "name": "Atweetan",
+      "url": "https://open.spotify.com/track/5RUySragatyT0s0BZZbh7b"
+    },
+    {
+      "album": {
+        "name": "Been A Fool For You",
+        "url": "https://open.spotify.com/album/22abtC7wk76NHDS3fdhopN"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-21",
+      "duration_ms": 268277,
+      "name": "Been A Fool For You",
+      "url": "https://open.spotify.com/track/0KL0cCn54gGCggbKFtT3Sb"
+    },
+    {
+      "album": {
+        "name": "Been A Fool For You",
+        "url": "https://open.spotify.com/album/3Xz3fQysuw2jI6OBGgZz0a"
+      },
+      "artists": [
+        {
+          "name": "Amakye Dede",
+          "url": "https://open.spotify.com/artist/64kcBAG5ToQkhbefHzdlsj"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268277,
+      "name": "Been A Fool For You",
+      "url": "https://open.spotify.com/track/0zNAOKNUzpposhZ5fa2n4d"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "ScrewFace",
+          "url": "https://open.spotify.com/artist/5mLq4zuVf6yd6uS3wrlyrc"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 342125,
+      "name": "BUE BUE",
+      "url": "https://open.spotify.com/track/3sEw6Qs12OG1WXVN0r4Lqd"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Screwface",
+          "url": "https://open.spotify.com/artist/2V2EY85GY6oQYZZ6LGJc4O"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 342125,
+      "name": "Bue Bue (feat. Castro)",
+      "url": "https://open.spotify.com/track/1vSMFShTdr7geA5nfh4zpg"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Asem",
+          "url": "https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-17",
+      "duration_ms": 304151,
+      "name": "Bye Bye (feat. Kwabena Kwabena)",
+      "url": "https://open.spotify.com/track/4FzF1MluVJKRMcwOoSgSYH"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148374,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
+    },
+    {
+      "album": {
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "date_added": "2021-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
+    },
+    {
+      "album": {
+        "name": "DADA BA",
+        "url": "https://open.spotify.com/album/5EFW38XyXglIjFsqOcFeby"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-26",
+      "duration_ms": 184000,
+      "name": "DADA BA",
+      "url": "https://open.spotify.com/track/5lgGv9Y0i3PKtQFeHpXYXb"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Deeba",
+          "url": "https://open.spotify.com/artist/2dki1aEKiMVIOZ8pOMv3M1"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 305972,
+      "name": "Deeba",
+      "url": "https://open.spotify.com/track/04RrKNyYkImWhZkoEDBhTO"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Deeba",
+          "url": "https://open.spotify.com/artist/5gZhjWdd6NuAZ8Yrg1a3Ss"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305972,
+      "name": "Deeba",
+      "url": "https://open.spotify.com/track/6NLy8oSDKKXfHfxpKeAjOt"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Bradez",
+          "url": "https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 351033,
+      "name": "Dondo",
+      "url": "https://open.spotify.com/track/0YrIz7PlFQPjRVzP8hQsH2"
+    },
+    {
+      "album": {
+        "name": "Dondo",
+        "url": "https://open.spotify.com/album/3N2CZfeQGWnlbuMIPodm2A"
+      },
+      "artists": [
+        {
+          "name": "Bradez",
+          "url": "https://open.spotify.com/artist/4NkWh677uYqY9rWwqThNEL"
+        },
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351100,
+      "name": "Dondo",
+      "url": "https://open.spotify.com/track/6qXsfvpsehSXQqPSS22DKg"
+    },
+    {
+      "album": {
+        "name": "Eboso",
+        "url": "https://open.spotify.com/album/7m5MA1XE7UUn2eoRBIWHzP"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Eboso",
+      "url": "https://open.spotify.com/track/0l0aDiPRoexmDiJum6ZycI"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0FVNUQpXBN55azvwBh4hhr"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-18",
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/7CGwYCUFYdGKuW3KNYtw6K"
+    },
+    {
+      "album": {
+        "name": "Connecting the Dots",
+        "url": "https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ"
+      },
+      "artists": [
+        {
+          "name": "Smallgod",
+          "url": "https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        }
+      ],
+      "date_added": "2022-03-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165142,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3HfwFXzBr7AwLKHyLPGWHL"
+    },
+    {
+      "album": {
+        "name": "FINGERS",
+        "url": "https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 205090,
+      "name": "FINGERS",
+      "url": "https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ"
+    },
+    {
+      "album": {
+        "name": "Game Changer (Dike)",
+        "url": "https://open.spotify.com/album/3CauGu6er8mkDoWdotpfJm"
+      },
+      "artists": [
+        {
+          "name": "Flavour",
+          "url": "https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162687,
+      "name": "Game Changer (Dike)",
+      "url": "https://open.spotify.com/track/5GxeZ0u1qDX95nZwV055JS"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Buk Bak",
+          "url": "https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-18",
+      "duration_ms": 403121,
+      "name": "Gonja Barracks",
+      "url": "https://open.spotify.com/track/28L43Uu8pfBiraGT6VXPcW"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2LWg8PF3z76jzhcPgFb8x1"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-16",
+      "duration_ms": 264000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/7pU9YogbXoHZirg26M132Z"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Buk Bak",
+          "url": "https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-22",
+      "duration_ms": 399124,
+      "name": "I'm Going to Come",
+      "url": "https://open.spotify.com/track/5DcOSvBnce6X6GlsAa0eZ4"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Buk Bak",
+          "url": "https://open.spotify.com/artist/5ARObhhC49Pa1KRykJaBzX"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 399124,
+      "name": "Im Going 2 Come",
+      "url": "https://open.spotify.com/track/6CfOf471V97PCem1hcUiLB"
+    },
+    {
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/7dAEr14zqfHWsGun1kkVup"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 233712,
+      "name": "Inspector",
+      "url": "https://open.spotify.com/track/0MLiCEi33t5Q4rWBOYX7Xp"
+    },
+    {
+      "album": {
+        "name": "Je M'appelle (feat. DaVido)",
+        "url": "https://open.spotify.com/album/56qzuXPxeJKnmmOlZFQeUo"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        }
+      ],
+      "date_added": "2021-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Je M'appelle (feat. DaVido)",
+      "url": "https://open.spotify.com/track/45JfxtSUnkb9e4r0MBYqfK"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Obour",
+          "url": "https://open.spotify.com/artist/3gPfj7Ur5rEUNRNd8kPjRv"
+        },
+        {
+          "name": "Batman",
+          "url": "https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-16",
+      "duration_ms": 341968,
+      "name": "Konkontiba (feat. Batman)",
+      "url": "https://open.spotify.com/track/53Y4oaiD8nykrG6pT6pUaQ"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Wutah",
+          "url": "https://open.spotify.com/artist/15YvgMGSsybKVkZIIqOheJ"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 364669,
+      "name": "Kotosa",
+      "url": "https://open.spotify.com/track/3mBRt8Ca7OhCew1X1tac0G"
+    },
+    {
+      "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Batman",
+          "url": "https://open.spotify.com/artist/4js6LOM6yehyZOQ7LhjFlq"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 200176,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1lbQ0Ry2cW1eIFQZexkiPM"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Batman",
+          "url": "https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 200176,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6q0sQ95anBPUrhvvjKnHLX"
+    },
+    {
+      "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/4wyKFCKsJZCXzcr00nl9EE"
+      },
+      "artists": [
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2022-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186438,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/23RRPvbF7A5o0Rosnw95nj"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Ex Doe",
+          "url": "https://open.spotify.com/artist/5UTvTjvwBMdcgqBBVHN57S"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-10",
+      "duration_ms": 212767,
+      "name": "Maba",
+      "url": "https://open.spotify.com/track/4Ygc9wczMo4gt2kjslEsoJ"
+    },
+    {
+      "album": {
+        "name": "Made in Ghana",
+        "url": "https://open.spotify.com/album/2U7uD59hrGd7V5i1HiASD1"
+      },
+      "artists": [
+        {
+          "name": "RCEE",
+          "url": "https://open.spotify.com/artist/5aMc9Z99UvAnSOGYAlZsHb"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 189474,
+      "name": "Made in Ghana",
+      "url": "https://open.spotify.com/track/7dMMkof2wbprZYG6ggp8eP"
+    },
+    {
+      "album": {
+        "name": "MAMA",
+        "url": "https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw"
+      },
+      "artists": [
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "date_added": "2022-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-16",
+      "duration_ms": 154343,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp"
+    },
+    {
+      "album": {
+        "name": "Martha Matter",
+        "url": "https://open.spotify.com/album/1ZCgErXZWyokFUHryxATW5"
+      },
+      "artists": [
+        {
+          "name": "KOFI BRUCE",
+          "url": "https://open.spotify.com/artist/3C96ARfG9uaoD9AiE86jzt"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 194400,
+      "name": "Martha Matter",
+      "url": "https://open.spotify.com/track/7IZDdDiQqR8sPiVKWCGFuy"
+    },
+    {
+      "album": {
+        "name": "Yeesom Sika",
+        "url": "https://open.spotify.com/album/4EmJCbMg0wowFsOHMQKY6e"
+      },
+      "artists": [
+        {
+          "name": "Lord Kenya",
+          "url": "https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7"
+        },
+        {
+          "name": "Swanzy B",
+          "url": "https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 292106,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/2oyghYx5263u7C6O1vq2FA"
+    },
+    {
+      "album": {
+        "name": "Yeesom Sika",
+        "url": "https://open.spotify.com/album/7I3mCsTVTJlkDqqGpHHGht"
+      },
+      "artists": [
+        {
+          "name": "Lord Kenya",
+          "url": "https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7"
+        },
+        {
+          "name": "Swanzy B",
+          "url": "https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 292106,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/2qx8A8AdgkvRaaEbQpQouA"
+    },
+    {
+      "album": {
+        "name": "Yeesom Sika",
+        "url": "https://open.spotify.com/album/1ZdQbM6DD603nNABFvAYJe"
+      },
+      "artists": [
+        {
+          "name": "Lord Kenya",
+          "url": "https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7"
+        },
+        {
+          "name": "Swanzy B",
+          "url": "https://open.spotify.com/artist/2Bg6vk2wOHQj5HJtTulISZ"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-30",
+      "duration_ms": 292120,
+      "name": "Medo",
+      "url": "https://open.spotify.com/track/6dO8RYtvSOTr2VLXVEQRVu"
+    },
+    {
+      "album": {
+        "name": "Yeesom Sika",
+        "url": "https://open.spotify.com/album/0qqHxYMFjCe0ZpPc3chJsb"
+      },
+      "artists": [
+        {
+          "name": "Lord Kenya",
+          "url": "https://open.spotify.com/artist/4xLgdpyCd591T97qW0EQF7"
+        },
+        {
+          "name": "Swanzy B",
+          "url": "https://open.spotify.com/artist/1gpzzTqs3Dk0TdIWvXrqgP"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292106,
+      "name": "Medo (feat. Swanzy B)",
+      "url": "https://open.spotify.com/track/4LQoZgv1Gpt4tXGiVpCena"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/4eoXF9sYckKQAajJCzUngn"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194002,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/7y5LAzG8epnHrXjh3jN7ol"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Akyeame",
+          "url": "https://open.spotify.com/artist/43p9Y2qeB6Uod7IXyt7UVk"
+        },
+        {
+          "name": "Nana Quame",
+          "url": "https://open.spotify.com/artist/4T0iQdayHVXudZvIot1Ig3"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346775,
+      "name": "Mesan Aba (feat. Nana Quame)",
+      "url": "https://open.spotify.com/track/6ubA77bSivUeRqk10GpRTX"
+    },
+    {
+      "album": {
+        "name": "Metua",
+        "url": "https://open.spotify.com/album/7q7TpogtxZn3EZ0hBJWmt3"
+      },
+      "artists": [
+        {
+          "name": "Amerado",
+          "url": "https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew"
+        },
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2022-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229930,
+      "name": "Metua",
+      "url": "https://open.spotify.com/track/5bExIlmqGqjAEqem7Bhg4C"
+    },
+    {
+      "album": {
+        "name": "Money No Dey",
+        "url": "https://open.spotify.com/album/3dKx3WOSmj3uJpiTbxULPh"
+      },
+      "artists": [
+        {
+          "name": "O'baya",
+          "url": "https://open.spotify.com/artist/4LJc5Bj4D2MtepUtCTALCO"
+        },
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-13",
+      "duration_ms": 195604,
+      "name": "Money No Dey",
+      "url": "https://open.spotify.com/track/6PQJxml8tgrJ5Il51hEze7"
+    },
+    {
+      "album": {
+        "name": "Sounds of My World",
+        "url": "https://open.spotify.com/album/2Mju5QRHhBPkUQajYKTUSH"
+      },
+      "artists": [
+        {
+          "name": "Juls",
+          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225767,
+      "name": "My Size",
+      "url": "https://open.spotify.com/track/2fMtRigMAdE6hXHm2WrzlQ"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Michael Dwamena",
+          "url": "https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 331389,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/1Vbx0DjX403mZOBIgoIYWz"
+    },
+    {
+      "album": {
+        "name": "Ngozi",
+        "url": "https://open.spotify.com/album/0hE1qM4q2Hcbp3wuacPnXV"
+      },
+      "artists": [
+        {
+          "name": "Michael Dwamena",
+          "url": "https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 331389,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5xUsuJdA0m0mViZJ8yxPAT"
+    },
+    {
+      "album": {
+        "name": "Owo Moti",
+        "url": "https://open.spotify.com/album/5PcYQfVWxpa7WjjqGSWmYO"
+      },
+      "artists": [
+        {
+          "name": "Micheal Dwamena",
+          "url": "https://open.spotify.com/artist/6sJP5qdmdznP6PrOkdPwAB"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334893,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/687b1ZxrRmzvodBCxrpBG4"
+    },
+    {
+      "album": {
+        "name": "Not God",
+        "url": "https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150055,
+      "name": "Not God",
+      "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-14",
+      "duration_ms": 311170,
+      "name": "Obaa No",
+      "url": "https://open.spotify.com/track/1AfW3qEZUUn3GbiBEtJfz9"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 305005,
+      "name": "Obaa Sweety",
+      "url": "https://open.spotify.com/track/5veXakVB9V2uZmKM1cwK95"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "VIP",
+          "url": "https://open.spotify.com/artist/1QD3WjCkoISjspUWbHR8Y5"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 305005,
+      "name": "Obaa Sweety",
+      "url": "https://open.spotify.com/track/6pgdGE0yxbrRYUOJN3fHR1"
+    },
+    {
+      "album": {
+        "name": "Odo Asisi Me",
+        "url": "https://open.spotify.com/album/5Fjq8GcJbOebH4jU9CeJid"
+      },
+      "artists": [
+        {
+          "name": "Akatakyie",
+          "url": "https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-21",
+      "duration_ms": 309733,
+      "name": "Odo Asisi Me - Remix",
+      "url": "https://open.spotify.com/track/5KRIF5cZR3XAayf98QTdZJ"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Akatakyie",
+          "url": "https://open.spotify.com/artist/42HbQTIMGoswCl4CgPh45l"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 309786,
+      "name": "Odo Esisi Me",
+      "url": "https://open.spotify.com/track/1eah5Chb6KwGLP8n3xadrf"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Akatakyie",
+          "url": "https://open.spotify.com/artist/3gXPqBVxn4sUt2DHEv8kfU"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 309786,
+      "name": "Odo Esisi Me",
+      "url": "https://open.spotify.com/track/2zhlGF3UdumrDkgLx3iaVv"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "4x4",
+          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 345286,
+      "name": "Odo Fitaa",
+      "url": "https://open.spotify.com/track/2f41EXoInEGcnHUg78ka6u"
+    },
+    {
+      "album": {
+        "name": "Jama & Hiplife King",
+        "url": "https://open.spotify.com/album/424YWer18KllyHifFrNYSq"
+      },
+      "artists": [
+        {
+          "name": "4x4",
+          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
+        },
+        {
+          "name": "Jay Q",
+          "url": "https://open.spotify.com/artist/0K69W66TFOOelRh31Xsqvi"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340585,
+      "name": "Odo Fitaa",
+      "url": "https://open.spotify.com/track/77qXIS8MoYj6AYraubuqlI"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-18",
+      "duration_ms": 338076,
+      "name": "Ofie Nipa",
+      "url": "https://open.spotify.com/track/5NahRnfX0SvMD1axzzVQsk"
+    },
+    {
+      "album": {
+        "name": "Ohemaa",
+        "url": "https://open.spotify.com/album/6GSPOyYbPYTkR74gQMPus0"
+      },
+      "artists": [
+        {
+          "name": "Bosom P-Yung",
+          "url": "https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ"
+        },
+        {
+          "name": "Lord Paper",
+          "url": "https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 213343,
+      "name": "Ohemaa",
+      "url": "https://open.spotify.com/track/1u2K82uk2yeeWhYUieIa5b"
+    },
+    {
+      "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
+    },
+    {
+      "album": {
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/1UeiYDV3zLbRnDLdnpK8NS"
+      },
+      "artists": [
+        {
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/2h5oKtnbSNv039d7HigxU9"
+    },
+    {
+      "album": {
+        "name": "Outside (Abonten)",
+        "url": "https://open.spotify.com/album/2GFPzaH4f3glj2zeZGTcvD"
+      },
+      "artists": [
+        {
+          "name": "DJ Breezy",
+          "url": "https://open.spotify.com/artist/2wgriTkRercaFwcdptYO2Y"
+        },
+        {
+          "name": "Mugeez",
+          "url": "https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-20",
+      "duration_ms": 241552,
+      "name": "Outside (Abonten) [Extended]",
+      "url": "https://open.spotify.com/track/15xPCOhHu3sSpj7xdqvErV"
+    },
+    {
+      "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236460,
+      "name": "Over",
+      "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "album": {
+        "name": "Nte Tee Pa",
+        "url": "https://open.spotify.com/album/1UJkGB9Kbbd7Z5kMYR1YRv"
+      },
+      "artists": [
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300359,
+      "name": "Oye Ohene featuring Tinny",
+      "url": "https://open.spotify.com/track/4SOb4NVBitP5gvKClrIbvq"
+    },
+    {
+      "album": {
+        "name": "Nte Tee Pa",
+        "url": "https://open.spotify.com/album/6jZq37U2ooA1jTlqv6vnyZ"
+      },
+      "artists": [
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300359,
+      "name": "Oye Ohene featuring Tinny",
+      "url": "https://open.spotify.com/track/4vR0tJ5daJdqZ0sjEidju2"
+    },
+    {
+      "album": {
+        "name": "Nte Tee Pa",
+        "url": "https://open.spotify.com/album/0XC9r8JfFHVz7K9FYdEu80"
+      },
+      "artists": [
+        {
+          "name": "Obrafour",
+          "url": "https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-27",
+      "duration_ms": 300359,
+      "name": "Oye Ohene featuring Tinny",
+      "url": "https://open.spotify.com/track/5jt5Tx1dIC9BdNqaZTO0Xd"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Nsiah Piesie",
+          "url": "https://open.spotify.com/artist/3Jz73C0AKTFh62DKP9pTOd"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308688,
+      "name": "Police Abaa",
+      "url": "https://open.spotify.com/track/4fRcpwG2T87zP0Mryo5RiL"
+    },
+    {
+      "album": {
+        "name": "Questions",
+        "url": "https://open.spotify.com/album/09qtruWBuFM1j91UfI7xHz"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205531,
+      "name": "Questions",
+      "url": "https://open.spotify.com/track/2UyyeyrMMa6xeLTahzJ3WY"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Praye",
+          "url": "https://open.spotify.com/artist/3QCB2l3PswjIcNRWgTCq2L"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 346017,
+      "name": "Shordy",
+      "url": "https://open.spotify.com/track/5OA0sGzIl33nCEf2unAn5o"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "4x4",
+          "url": "https://open.spotify.com/artist/15YwTNQbCiTuFOK62K7Wgu"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 304222,
+      "name": "Sikilitele",
+      "url": "https://open.spotify.com/track/3PeIqo6ofIXXey8FmE8QjR"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 380525,
+      "name": "Sradenam",
+      "url": "https://open.spotify.com/track/4FjJYmgk0KGQNrOfSR1cqM"
+    },
+    {
+      "album": {
+        "name": "Sradenam",
+        "url": "https://open.spotify.com/album/4OrVucfAwfKvIdCL6U8Qlj"
+      },
+      "artists": [
+        {
+          "name": "Castro D\u2019destroyer",
+          "url": "https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380513,
+      "name": "Sradenam",
+      "url": "https://open.spotify.com/track/4u2XhLgP9zISNfkhhKNOKC"
+    },
+    {
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322481,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/0uzIDaIXThW4Jg5hRbsufj"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326765,
+      "name": "Still I Love You",
+      "url": "https://open.spotify.com/track/2nb8GikJzwWHTJZkLJCiXF"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "KK Fosu",
+          "url": "https://open.spotify.com/artist/3LJawO6XULI4SZT5dVHEYO"
+        },
+        {
+          "name": "Batman",
+          "url": "https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc"
+        },
+        {
+          "name": "Tinny",
+          "url": "https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272901,
+      "name": "Sudwe (feat. Batman & Tinny)",
+      "url": "https://open.spotify.com/track/4aSkWak39yEulN0pwtYfir"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "KK Fosu",
+          "url": "https://open.spotify.com/artist/7pPwgEQEB4AJoAHxtZdhUc"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 272901,
+      "name": "Sudwe Remix",
+      "url": "https://open.spotify.com/track/5WruQLyuTbbGbu5VXZVT5W"
+    },
+    {
+      "album": {
+        "name": "Suffer Suffer",
+        "url": "https://open.spotify.com/album/3ZmxhUBvoUgzHbDh4xfmDq"
+      },
+      "artists": [
+        {
+          "name": "Mike Akox",
+          "url": "https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-17",
+      "duration_ms": 170504,
+      "name": "Suffer Suffer",
+      "url": "https://open.spotify.com/track/1FEwkFQFOxdJLngkH7Jgao"
+    },
+    {
+      "album": {
+        "name": "Back 2 Basics",
+        "url": "https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2021-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196398,
+      "name": "Sure Banker",
+      "url": "https://open.spotify.com/track/5tqUOSmsaEOGeTYrycpbuV"
+    },
+    {
+      "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2022-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Kool Joe",
+          "url": "https://open.spotify.com/artist/5M9sGpyOMhWysL6CKLbUKw"
+        },
+        {
+          "name": "Michael Dwamena",
+          "url": "https://open.spotify.com/artist/2kgJbByQSqdAsyAJMh8o7c"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296333,
+      "name": "Tebidi (feat. Michael Dwamena)",
+      "url": "https://open.spotify.com/track/3aDUSS1u60v9OIwtQQw3p9"
+    },
+    {
+      "album": {
+        "name": "Daddy Lumba Essentials",
+        "url": "https://open.spotify.com/album/5DnSlaXpIKEvWgMEDhPyUE"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 337606,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/6YJQB5lQWD4GrYZA1SFmB6"
+    },
+    {
+      "album": {
+        "name": "Obi Ate Meso Buo",
+        "url": "https://open.spotify.com/album/0R50BVSdGAr8Tj9R8JFuF7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339253,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/4dqtM8dvFvK7GWE1bjDYI4"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Daddy Lumba, Vol. 1",
+        "url": "https://open.spotify.com/album/2QG8g2t5FiTT6VnpmTO81q"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 339278,
+      "name": "Theresa",
+      "url": "https://open.spotify.com/track/5JbM70NquXzGUzMM02M3hQ"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/5hACxwOyI5SiMCONu6KS4L"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 365191,
+      "name": "Toffee",
+      "url": "https://open.spotify.com/track/6vmZvszEVumYcks9XOkjiN"
+    },
+    {
+      "album": {
+        "name": "Toffee",
+        "url": "https://open.spotify.com/album/5N7oJwI4as7lZpVlh6hRQ0"
+      },
+      "artists": [
+        {
+          "name": "Castro D\u2019destroyer",
+          "url": "https://open.spotify.com/artist/3kF3qKO6Fi9h8weEzynE5e"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360605,
+      "name": "Toffee",
+      "url": "https://open.spotify.com/track/4qnolDQkujcltJIKNoSbnr"
+    },
+    {
+      "album": {
+        "name": "Old School Hiplife Vol.1",
+        "url": "https://open.spotify.com/album/0wfz1F4pEmtnUG06sr8OEW"
+      },
+      "artists": [
+        {
+          "name": "Nkasei",
+          "url": "https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-16",
+      "duration_ms": 316003,
+      "name": "Tuabodom",
+      "url": "https://open.spotify.com/track/1lj4eBXuGedWMfsh2PHReg"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Nkasei",
+          "url": "https://open.spotify.com/artist/2pOlf7KpOxnGoqcplYoC3I"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 316003,
+      "name": "Tuabodom",
+      "url": "https://open.spotify.com/track/1ta0PJWhEEwSEoP87N4qqf"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Buk Bak",
+          "url": "https://open.spotify.com/artist/6e6W1oSxPGjoF2iAp2AZtF"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-07",
+      "duration_ms": 364878,
+      "name": "U 4 Know",
+      "url": "https://open.spotify.com/track/4bc8bWLkD1qAkzEBVnHD9n"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Antwi Ne Antwi",
+          "url": "https://open.spotify.com/artist/2sAjglj6lmoAwZxoHSB6IU"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 296907,
+      "name": "Uncle Ebo",
+      "url": "https://open.spotify.com/track/6nPaMcmh1UHgNwId2TLznB"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 344790,
+      "name": "Wafom",
+      "url": "https://open.spotify.com/track/2pY5TiBztBDclvZoGNm90E"
+    },
+    {
+      "album": {
+        "name": "Ultimate Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
+      },
+      "artists": [
+        {
+          "name": "Daasebre Gyamenah",
+          "url": "https://open.spotify.com/artist/6esNAzhyTV6I5TaWXhqO12"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344790,
+      "name": "Wafom",
+      "url": "https://open.spotify.com/track/5BZqJbegEpkD2SjCYBxkfC"
+    },
+    {
+      "album": {
+        "name": "Burning - EP",
+        "url": "https://open.spotify.com/album/7oQTsdePfvrMkeottXJ4Go"
+      },
+      "artists": [
+        {
+          "name": "Samini",
+          "url": "https://open.spotify.com/artist/10Cql6DpInZY5O6TBw2m4l"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2021-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-17",
+      "duration_ms": 233333,
+      "name": "Ware Me",
+      "url": "https://open.spotify.com/track/3vyBe2SDEPLhm6peMZnk3n"
+    },
+    {
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/36YUG83DWnCl46Xwsad6lb"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204220,
+      "name": "Wish Me Well",
+      "url": "https://open.spotify.com/track/76OgQukE55wL78J77Vl5rp"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "T Blaze",
+          "url": "https://open.spotify.com/artist/5WUHEAVt0NS7Zm0foNjiPX"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 244950,
+      "name": "Wo Sisi Ye Woya",
+      "url": "https://open.spotify.com/track/4gaDKm5JQYlo6DFOv3eHAF"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Okomfour Kwadee",
+          "url": "https://open.spotify.com/artist/4ELqSlk9d15aZFqVzXfSjm"
+        },
+        {
+          "name": "Lazy Dogg",
+          "url": "https://open.spotify.com/artist/4YvXEljlIeW6g6irD5x2HV"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-20",
+      "duration_ms": 320261,
+      "name": "Wokye (feat. Lazy Dogg)",
+      "url": "https://open.spotify.com/track/5k33aBKKLT6Xc9eQ6CMXng"
+    },
+    {
+      "album": {
+        "name": "Okay Baby, Lets Do This",
+        "url": "https://open.spotify.com/album/6mF7YvP41L2d40LkDVLsfp"
+      },
+      "artists": [
+        {
+          "name": "Baaba J",
+          "url": "https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212341,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR"
+    },
+    {
+      "album": {
+        "name": "Ghana Old School HipLife Essentials",
+        "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
+      },
+      "artists": [
+        {
+          "name": "Madfish",
+          "url": "https://open.spotify.com/artist/1gqY62fiIU5MYeIy12oazi"
+        },
+        {
+          "name": "Batman",
+          "url": "https://open.spotify.com/artist/2bIsPQ3pIRDs0nx8JZGCpc"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 293355,
+      "name": "Yahooya (feat. Batman)",
+      "url": "https://open.spotify.com/track/2f31vW2Rp3390tlIZ0IHzl"
+    },
+    {
+      "album": {
+        "name": "Site 15",
+        "url": "https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "date_added": "2020-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203773,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH"
+    },
+    {
+      "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/1onYHTZJIWJzD53WBWD1W8"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192040,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/3XneWWuWUAVFX1eORrKGsX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9Y4P09E4dNP"
 }

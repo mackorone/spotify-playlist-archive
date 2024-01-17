@@ -1,305 +1,915 @@
 {
-  "2023-03-04": 287,
-  "2023-03-05": 312,
-  "2023-03-06": 312,
-  "2023-03-07": 317,
-  "2023-03-08": 321,
-  "2023-03-09": 327,
-  "2023-03-10": 337,
-  "2023-03-11": 346,
-  "2023-03-12": 352,
-  "2023-03-13": 363,
-  "2023-03-14": 368,
-  "2023-03-15": 377,
-  "2023-03-16": 386,
-  "2023-03-17": 386,
-  "2023-03-18": 398,
-  "2023-03-19": 403,
-  "2023-03-20": 406,
-  "2023-03-21": 409,
-  "2023-03-22": 410,
-  "2023-03-23": 416,
-  "2023-03-24": 416,
-  "2023-03-25": 429,
-  "2023-03-26": 436,
-  "2023-03-27": 439,
-  "2023-03-28": 443,
-  "2023-03-29": 450,
-  "2023-03-30": 454,
-  "2023-03-31": 454,
-  "2023-04-01": 461,
-  "2023-04-02": 464,
-  "2023-04-03": 466,
-  "2023-04-04": 476,
-  "2023-04-05": 479,
-  "2023-04-06": 484,
-  "2023-04-07": 488,
-  "2023-04-09": 500,
-  "2023-04-10": 502,
-  "2023-04-11": 511,
-  "2023-04-12": 511,
-  "2023-04-13": 516,
-  "2023-04-14": 519,
-  "2023-04-15": 523,
-  "2023-04-16": 527,
-  "2023-04-17": 536,
-  "2023-04-18": 538,
-  "2023-04-19": 542,
-  "2023-04-20": 547,
-  "2023-04-21": 551,
-  "2023-04-22": 559,
-  "2023-04-23": 561,
-  "2023-04-24": 564,
-  "2023-04-25": 568,
-  "2023-04-26": 576,
-  "2023-04-27": 580,
-  "2023-04-28": 586,
-  "2023-04-29": 592,
-  "2023-04-30": 597,
-  "2023-05-01": 599,
-  "2023-05-02": 603,
-  "2023-05-03": 603,
-  "2023-05-04": 606,
-  "2023-05-05": 610,
-  "2023-05-06": 610,
-  "2023-05-07": 616,
-  "2023-05-08": 621,
-  "2023-05-09": 622,
-  "2023-05-10": 624,
-  "2023-05-11": 627,
-  "2023-05-12": 630,
-  "2023-05-13": 637,
-  "2023-05-14": 643,
-  "2023-05-15": 647,
-  "2023-05-16": 648,
-  "2023-05-17": 651,
-  "2023-05-18": 654,
-  "2023-05-19": 654,
-  "2023-05-20": 657,
-  "2023-05-21": 657,
-  "2023-05-22": 657,
-  "2023-05-23": 668,
-  "2023-05-24": 670,
-  "2023-05-25": 671,
-  "2023-05-26": 674,
-  "2023-05-27": 678,
-  "2023-05-28": 683,
-  "2023-05-29": 683,
-  "2023-05-30": 688,
-  "2023-05-31": 691,
-  "2023-06-01": 698,
-  "2023-06-02": 700,
-  "2023-06-03": 701,
-  "2023-06-04": 705,
-  "2023-06-05": 710,
-  "2023-06-06": 714,
-  "2023-06-07": 716,
-  "2023-06-08": 717,
-  "2023-06-09": 716,
-  "2023-06-10": 719,
-  "2023-06-11": 722,
-  "2023-06-12": 724,
-  "2023-06-13": 727,
-  "2023-06-14": 727,
-  "2023-06-15": 730,
-  "2023-06-16": 731,
-  "2023-06-17": 732,
-  "2023-06-18": 733,
-  "2023-06-19": 736,
-  "2023-06-20": 738,
-  "2023-06-21": 741,
-  "2023-06-22": 743,
-  "2023-06-23": 749,
-  "2023-06-24": 753,
-  "2023-06-25": 758,
-  "2023-06-26": 758,
-  "2023-06-27": 759,
-  "2023-06-28": 759,
-  "2023-06-29": 763,
-  "2023-06-30": 769,
-  "2023-07-01": 771,
-  "2023-07-02": 771,
-  "2023-07-03": 770,
-  "2023-07-04": 771,
-  "2023-07-05": 776,
-  "2023-07-06": 783,
-  "2023-07-07": 783,
-  "2023-07-08": 788,
-  "2023-07-09": 789,
-  "2023-07-10": 792,
-  "2023-07-11": 794,
-  "2023-07-12": 795,
-  "2023-07-13": 798,
-  "2023-07-14": 801,
-  "2023-07-15": 802,
-  "2023-07-16": 805,
-  "2023-07-17": 807,
-  "2023-07-18": 807,
-  "2023-07-19": 809,
-  "2023-07-20": 813,
-  "2023-07-21": 815,
-  "2023-07-22": 816,
-  "2023-07-23": 817,
-  "2023-07-24": 820,
-  "2023-07-25": 819,
-  "2023-07-26": 820,
-  "2023-07-27": 824,
-  "2023-07-28": 833,
-  "2023-07-29": 839,
-  "2023-07-30": 842,
-  "2023-07-31": 844,
-  "2023-08-01": 845,
-  "2023-08-02": 849,
-  "2023-08-03": 853,
-  "2023-08-04": 858,
-  "2023-08-05": 860,
-  "2023-08-06": 865,
-  "2023-08-07": 865,
-  "2023-08-08": 867,
-  "2023-08-09": 871,
-  "2023-08-10": 874,
-  "2023-08-11": 876,
-  "2023-08-12": 879,
-  "2023-08-13": 881,
-  "2023-08-14": 883,
-  "2023-08-15": 889,
-  "2023-08-16": 889,
-  "2023-08-17": 891,
-  "2023-08-18": 894,
-  "2023-08-19": 894,
-  "2023-08-20": 896,
-  "2023-08-21": 898,
-  "2023-08-22": 899,
-  "2023-08-23": 902,
-  "2023-08-24": 904,
-  "2023-08-25": 909,
-  "2023-08-26": 912,
-  "2023-08-27": 913,
-  "2023-08-28": 914,
-  "2023-08-29": 918,
-  "2023-08-30": 920,
-  "2023-08-31": 922,
-  "2023-09-01": 967,
-  "2023-09-02": 967,
-  "2023-09-03": 979,
-  "2023-09-04": 997,
-  "2023-09-05": 1015,
-  "2023-09-06": 1036,
-  "2023-09-07": 1061,
-  "2023-09-08": 1080,
-  "2023-09-09": 1100,
-  "2023-09-10": 1120,
-  "2023-09-11": 1140,
-  "2023-09-12": 1169,
-  "2023-09-13": 1191,
-  "2023-09-14": 1210,
-  "2023-09-15": 1227,
-  "2023-09-16": 1253,
-  "2023-09-17": 1280,
-  "2023-09-18": 1303,
-  "2023-09-19": 1333,
-  "2023-09-20": 1364,
-  "2023-09-21": 1397,
-  "2023-09-22": 1431,
-  "2023-09-23": 1456,
-  "2023-09-24": 1479,
-  "2023-09-25": 1491,
-  "2023-09-26": 1517,
-  "2023-09-27": 1528,
-  "2023-09-28": 1536,
-  "2023-09-29": 1548,
-  "2023-09-30": 1566,
-  "2023-10-01": 1589,
-  "2023-10-02": 1619,
-  "2023-10-03": 1637,
-  "2023-10-04": 1651,
-  "2023-10-05": 1667,
-  "2023-10-06": 1673,
-  "2023-10-07": 1680,
-  "2023-10-08": 1709,
-  "2023-10-09": 1728,
-  "2023-10-10": 1743,
-  "2023-10-11": 1766,
-  "2023-10-12": 1766,
-  "2023-10-13": 1777,
-  "2023-10-14": 1789,
-  "2023-10-15": 1800,
-  "2023-10-16": 1814,
-  "2023-10-17": 1820,
-  "2023-10-18": 1837,
-  "2023-10-19": 1859,
-  "2023-10-20": 1869,
-  "2023-10-21": 1883,
-  "2023-10-22": 1895,
-  "2023-10-23": 1911,
-  "2023-10-24": 1927,
-  "2023-10-25": 1952,
-  "2023-10-26": 1967,
-  "2023-10-27": 1990,
-  "2023-10-28": 2006,
-  "2023-10-29": 2013,
-  "2023-10-30": 2049,
-  "2023-10-31": 2049,
-  "2023-11-01": 2062,
-  "2023-11-02": 2074,
-  "2023-11-03": 2093,
-  "2023-11-04": 2108,
-  "2023-11-05": 2119,
-  "2023-11-06": 2135,
-  "2023-11-07": 2135,
-  "2023-11-08": 2135,
-  "2023-11-09": 2135,
-  "2023-11-10": 2135,
-  "2023-11-11": 2135,
-  "2023-11-12": 2135,
-  "2023-11-13": 2135,
-  "2023-11-14": 2135,
-  "2023-11-15": 2135,
-  "2023-11-16": 2135,
-  "2023-11-17": 2135,
-  "2023-11-18": 2135,
-  "2023-11-19": 2135,
-  "2023-11-20": 2135,
-  "2023-11-21": 2135,
-  "2023-11-22": 2135,
-  "2023-11-23": 2135,
-  "2023-11-24": 2135,
-  "2023-11-25": 2135,
-  "2023-11-26": 2135,
-  "2023-11-27": 2135,
-  "2023-11-28": 2135,
-  "2023-11-29": 2135,
-  "2023-11-30": 2135,
-  "2023-12-01": 2135,
-  "2023-12-02": 2135,
-  "2023-12-03": 2135,
-  "2023-12-04": 2135,
-  "2023-12-05": 2135,
-  "2023-12-06": 2135,
-  "2023-12-07": 2135,
-  "2023-12-08": 2135,
-  "2023-12-09": 2135,
-  "2023-12-10": 2135,
-  "2023-12-11": 2135,
-  "2023-12-12": 2135,
-  "2023-12-13": 2135,
-  "2023-12-14": 2135,
-  "2023-12-15": 2135,
-  "2023-12-16": 2135,
-  "2023-12-17": 2135,
-  "2023-12-18": 2135,
-  "2023-12-19": 2135,
-  "2023-12-20": 2135,
-  "2023-12-21": 2135,
-  "2023-12-22": 2135,
-  "2023-12-23": 2135,
-  "2023-12-24": 2135,
-  "2023-12-25": 2135,
-  "2023-12-26": 2135,
-  "2023-12-27": 2135,
-  "2023-12-30": 2135,
-  "2023-12-31": 2135,
-  "2024-01-01": 2135,
-  "2024-01-02": 2135,
-  "2024-01-03": 2135
+  "2024-01-17": 2135,
+  "date_first_scraped": "2023-03-04",
+  "description": "Staying vibrant is <a href=\"spotify:artist:0jNDKefhfSbLR9sFvcPLHo\">San Holo</a>'s\n currency, which can definitively be felt in his latest mix.\n",
+  "name": "bitbird: San Holo DJ Mix",
+  "tracks": [
+    {
+      "album": {
+        "name": "about the kid that never left the house (Mixed)",
+        "url": "https://open.spotify.com/album/1Z0Nd4qIRm5cUFl929jl7J"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 64000,
+      "name": "about the kid that never left the house - Mixed",
+      "url": "https://open.spotify.com/track/4FtTKKc6h8TAtJmpxH8wra"
+    },
+    {
+      "album": {
+        "name": "about the kid that never left the house (Mixed)",
+        "url": "https://open.spotify.com/album/2rAzhoUW0aLEAtJQBTlDwp"
+      },
+      "artists": [
+        {
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64000,
+      "name": "about the kid that never left the house - Mixed",
+      "url": "https://open.spotify.com/track/7Ag1bcfhm9hJdjSxzTqfMU"
+    },
+    {
+      "album": {
+        "name": "b song (Mixed)",
+        "url": "https://open.spotify.com/album/5zA9IFk3GhKR5rBrlZ72Yt"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "b song - Mixed",
+      "url": "https://open.spotify.com/track/1TELTkWdVb2hx5PrFgIqnp"
+    },
+    {
+      "album": {
+        "name": "b song (Mixed)",
+        "url": "https://open.spotify.com/album/0jjAejaDKMOKcp4yZk0241"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 186000,
+      "name": "b song - Mixed",
+      "url": "https://open.spotify.com/track/3sNiWcMGe5QTWRua0x2oHk"
+    },
+    {
+      "album": {
+        "name": "Dive (Mixed)",
+        "url": "https://open.spotify.com/album/6j84JLivJngv2PitKuFIKz"
+      },
+      "artists": [
+        {
+          "name": "Zes",
+          "url": "https://open.spotify.com/artist/71xwQBpvIGWm4oo7Cx5jli"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 196000,
+      "name": "Dive - Mixed",
+      "url": "https://open.spotify.com/track/041x8IJRsEylXi6ITHw0up"
+    },
+    {
+      "album": {
+        "name": "Dive (Mixed)",
+        "url": "https://open.spotify.com/album/4aWIpC98cZ1d0VFUJ0jEKw"
+      },
+      "artists": [
+        {
+          "name": "Zes",
+          "url": "https://open.spotify.com/artist/71xwQBpvIGWm4oo7Cx5jli"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Dive - Mixed",
+      "url": "https://open.spotify.com/track/2FFn8m1aZpyrf8xIntaejy"
+    },
+    {
+      "album": {
+        "name": "DON'T LOOK DOWN (feat. Lizzy Land) [Mixed]",
+        "url": "https://open.spotify.com/album/23ggfwBstJ8scAgLPMMpmm"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "DON'T LOOK DOWN (feat. Lizzy Land) - Mixed",
+      "url": "https://open.spotify.com/track/30YD7MPgvLZmMlcfJuoCzx"
+    },
+    {
+      "album": {
+        "name": "Ethereal - RamonPang Remix (Mixed)",
+        "url": "https://open.spotify.com/album/1882ZislVFQcCedJMVpwmt"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 87000,
+      "name": "Ethereal - RamonPang Remix - Mixed",
+      "url": "https://open.spotify.com/track/3k7Rhkj4UeQyOlJKoIUcHs"
+    },
+    {
+      "album": {
+        "name": "Ethereal - RamonPang Remix (Mixed)",
+        "url": "https://open.spotify.com/album/7qbYahcFkz4xdcc0PaadYy"
+      },
+      "artists": [
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        },
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Ethereal - RamonPang Remix - Mixed",
+      "url": "https://open.spotify.com/track/4IJe6yZGWcdcjl5tgOe1mp"
+    },
+    {
+      "album": {
+        "name": "footpaths",
+        "url": "https://open.spotify.com/album/6kTBakIxDSCSoreweShcEQ"
+      },
+      "artists": [
+        {
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 220444,
+      "name": "Foxgloves",
+      "url": "https://open.spotify.com/track/3t12j4zQ7LlLUlz8hvmWeX"
+    },
+    {
+      "album": {
+        "name": "Foxgloves (Mixed)",
+        "url": "https://open.spotify.com/album/18GuyNktMfsdwBpUdhvxhv"
+      },
+      "artists": [
+        {
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Foxgloves - Mixed",
+      "url": "https://open.spotify.com/track/1y4Dx8zvMQGkKZRSYnN48d"
+    },
+    {
+      "album": {
+        "name": "Foxgloves (Mixed)",
+        "url": "https://open.spotify.com/album/4dOZwIqDgn5UWRdt56yHQA"
+      },
+      "artists": [
+        {
+          "name": "Former Hero",
+          "url": "https://open.spotify.com/artist/77WqTzN8g3Wr9PeVFoG3Mm"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 213000,
+      "name": "Foxgloves - Mixed",
+      "url": "https://open.spotify.com/track/6mVOb8BgYl4VLlGKBpsO0n"
+    },
+    {
+      "album": {
+        "name": "golden youth (Mixed)",
+        "url": "https://open.spotify.com/album/30ZVBcFftJdiVlSbJvFBm6"
+      },
+      "artists": [
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 204000,
+      "name": "golden youth - Mixed",
+      "url": "https://open.spotify.com/track/2oYU9EekZ6vz4SKMpTCNHY"
+    },
+    {
+      "album": {
+        "name": "golden youth (Mixed)",
+        "url": "https://open.spotify.com/album/7HZx5yKcgN8iQnkC00529d"
+      },
+      "artists": [
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "golden youth - Mixed",
+      "url": "https://open.spotify.com/track/54dVS7iILkJy1nxcPciIiR"
+    },
+    {
+      "album": {
+        "name": "Good for Nothing (Mixed)",
+        "url": "https://open.spotify.com/album/1ztzTWSyemNekElGk8nII8"
+      },
+      "artists": [
+        {
+          "name": "PLEEG",
+          "url": "https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R"
+        },
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 199000,
+      "name": "Good for Nothing - Mixed",
+      "url": "https://open.spotify.com/track/3F90d2i8IlNc069ItvXqOZ"
+    },
+    {
+      "album": {
+        "name": "Good for Nothing (Mixed)",
+        "url": "https://open.spotify.com/album/2g8rVj8JZQMahfXVhFSQQr"
+      },
+      "artists": [
+        {
+          "name": "PLEEG",
+          "url": "https://open.spotify.com/artist/3MkeTsrl25IDTkRHOLLU5R"
+        },
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Good for Nothing - Mixed",
+      "url": "https://open.spotify.com/track/3lpgbD6I8ZCV3ECiXOJuG7"
+    },
+    {
+      "album": {
+        "name": "Inconvenient (Mixed)",
+        "url": "https://open.spotify.com/album/4nx4cK25GzeoAiS1jiziNw"
+      },
+      "artists": [
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        },
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Inconvenient - Mixed",
+      "url": "https://open.spotify.com/track/4ySOkTEtmIEUTrxMTuBQ6C"
+    },
+    {
+      "album": {
+        "name": "Inconvenient (Mixed)",
+        "url": "https://open.spotify.com/album/5TrBvnSLftjSKDnxJXsdF5"
+      },
+      "artists": [
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        },
+        {
+          "name": "Sam Day",
+          "url": "https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 96000,
+      "name": "Inconvenient - Mixed",
+      "url": "https://open.spotify.com/track/6yXoVjXBOaKZrE2FQwM94n"
+    },
+    {
+      "album": {
+        "name": "is that ok? (Mixed)",
+        "url": "https://open.spotify.com/album/7EJHVPUo2G8kLDFof17x8C"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        },
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 210000,
+      "name": "is that ok? - Mixed",
+      "url": "https://open.spotify.com/track/2EvuYdjpi8OmuuLIA843i8"
+    },
+    {
+      "album": {
+        "name": "is that ok? (Mixed)",
+        "url": "https://open.spotify.com/album/2pTWJLRs78pQLUoI5CkLLN"
+      },
+      "artists": [
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        },
+        {
+          "name": "Tails",
+          "url": "https://open.spotify.com/artist/007nYTXRhZJUZGH7ct5Y3v"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "is that ok? - Mixed",
+      "url": "https://open.spotify.com/track/4JwAHUC4Cnqr3mlXbVkaSy"
+    },
+    {
+      "album": {
+        "name": "nintendo 64 (Mixed)",
+        "url": "https://open.spotify.com/album/7FdyIp5vCaZHeqtsTAhijF"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "nintendo 64 - Mixed",
+      "url": "https://open.spotify.com/track/2NBrdqPSma5Qo7kG04OJeY"
+    },
+    {
+      "album": {
+        "name": "nintendo 64 (Mixed)",
+        "url": "https://open.spotify.com/album/6cUG0WbUmc0JUqAAHJlIbV"
+      },
+      "artists": [
+        {
+          "name": "wes mills",
+          "url": "https://open.spotify.com/artist/0EuHfcxMPDNkOjGVF4e1KT"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 141000,
+      "name": "nintendo 64 - Mixed",
+      "url": "https://open.spotify.com/track/4gwWl6921QcafoTwTRCKLp"
+    },
+    {
+      "album": {
+        "name": "Push Through (Mixed)",
+        "url": "https://open.spotify.com/album/4nhYqN3JDqXLEpOh9z9kfF"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 215000,
+      "name": "Push Through - Mixed",
+      "url": "https://open.spotify.com/track/5UX2uOGqPp4x0IA13tpFSh"
+    },
+    {
+      "album": {
+        "name": "Push Through (Mixed)",
+        "url": "https://open.spotify.com/album/1l1OAnt0MwDpk6uaseVYea"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Push Through - Mixed",
+      "url": "https://open.spotify.com/track/5qYYuqJudpku8Yw5AF9MWE"
+    },
+    {
+      "album": {
+        "name": "Remote Viewing (Mixed)",
+        "url": "https://open.spotify.com/album/3oeVP4emxGHcmj0EhoUC02"
+      },
+      "artists": [
+        {
+          "name": "Eastghost",
+          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Remote Viewing - Mixed",
+      "url": "https://open.spotify.com/track/3nb25pDeGEVzTYftXDpM1u"
+    },
+    {
+      "album": {
+        "name": "Remote Viewing (Mixed)",
+        "url": "https://open.spotify.com/album/69zOY1UhJmRPWUljHMRLs2"
+      },
+      "artists": [
+        {
+          "name": "Eastghost",
+          "url": "https://open.spotify.com/artist/4B7EVtenNIwOUxmQ5o5GNv"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 243000,
+      "name": "Remote Viewing - Mixed",
+      "url": "https://open.spotify.com/track/6pDToWHRwQdjm0mfInILVB"
+    },
+    {
+      "album": {
+        "name": "Sensory Overload (Mixed)",
+        "url": "https://open.spotify.com/album/6gstT00rVKifmTFDvPjfuM"
+      },
+      "artists": [
+        {
+          "name": "haak",
+          "url": "https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Sensory Overload - Mixed",
+      "url": "https://open.spotify.com/track/46K6cpgLZ0yNzBATTzfjza"
+    },
+    {
+      "album": {
+        "name": "Sensory Overload (Mixed)",
+        "url": "https://open.spotify.com/album/4EmoLF4oZNVOigr4Cdb4uu"
+      },
+      "artists": [
+        {
+          "name": "haak",
+          "url": "https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 80000,
+      "name": "Sensory Overload - Mixed",
+      "url": "https://open.spotify.com/track/5Y8jVDP7j60M3DlxCY5odP"
+    },
+    {
+      "album": {
+        "name": "SLEEP",
+        "url": "https://open.spotify.com/album/0XsNinFykaFOKlHiUHXdrT"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 138955,
+      "name": "SLEEP",
+      "url": "https://open.spotify.com/track/0HibkV2W1CAAMH5obrXj96"
+    },
+    {
+      "album": {
+        "name": "SLEEP (Mixed)",
+        "url": "https://open.spotify.com/album/6h0zT84T8HGJLkEQsRbnIy"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139000,
+      "name": "SLEEP - Mixed",
+      "url": "https://open.spotify.com/track/0UlDFMdFXDS0PnvTG69flN"
+    },
+    {
+      "album": {
+        "name": "SLEEP (Mixed)",
+        "url": "https://open.spotify.com/album/6XtpfObqODpVDF3fgNqqPj"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "Isab\u00e8l Usher",
+          "url": "https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-21",
+      "duration_ms": 139000,
+      "name": "SLEEP - Mixed",
+      "url": "https://open.spotify.com/track/7hYtfei9t1CFxeJkb39H4O"
+    },
+    {
+      "album": {
+        "name": "thinkin (Mixed)",
+        "url": "https://open.spotify.com/album/3ZpebZHzCv96r4qDxuAqJo"
+      },
+      "artists": [
+        {
+          "name": "haak",
+          "url": "https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 183000,
+      "name": "thinkin - Mixed",
+      "url": "https://open.spotify.com/track/4n5jZOZQTZevpksPQduoxf"
+    },
+    {
+      "album": {
+        "name": "thinkin (Mixed)",
+        "url": "https://open.spotify.com/album/4TlI8DXQhH6k2v7pFj6uok"
+      },
+      "artists": [
+        {
+          "name": "haak",
+          "url": "https://open.spotify.com/artist/1OUrdQZBdpVBqO2khkV6BU"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "thinkin - Mixed",
+      "url": "https://open.spotify.com/track/5kEVTJAnuLpHtWUHAkWrJC"
+    },
+    {
+      "album": {
+        "name": "Time Goes By (Mixed)",
+        "url": "https://open.spotify.com/album/74KJqoMv6QWqsrHW88yins"
+      },
+      "artists": [
+        {
+          "name": "Faith",
+          "url": "https://open.spotify.com/artist/0q8z4y0Kp5CxKeYhC6SeEX"
+        },
+        {
+          "name": "Janee",
+          "url": "https://open.spotify.com/artist/4pFNPXd2phUG2uqeSlc8oC"
+        },
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 152000,
+      "name": "Time Goes By - Mixed",
+      "url": "https://open.spotify.com/track/1XK6IC8yyl4IkAwKv623zX"
+    },
+    {
+      "album": {
+        "name": "Time Goes By (Mixed)",
+        "url": "https://open.spotify.com/album/33OXyACjOD6ybP83pMGtz6"
+      },
+      "artists": [
+        {
+          "name": "Faith",
+          "url": "https://open.spotify.com/artist/0q8z4y0Kp5CxKeYhC6SeEX"
+        },
+        {
+          "name": "Janee",
+          "url": "https://open.spotify.com/artist/4pFNPXd2phUG2uqeSlc8oC"
+        },
+        {
+          "name": "Aiobahn",
+          "url": "https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Time Goes By - Mixed",
+      "url": "https://open.spotify.com/track/6mDA0eV8lrz7iUghLliQVn"
+    },
+    {
+      "album": {
+        "name": "Untitled21 (Mixed)",
+        "url": "https://open.spotify.com/album/3zYFOinvtzoNVO0mBIh5XP"
+      },
+      "artists": [
+        {
+          "name": "Couros",
+          "url": "https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 243000,
+      "name": "Untitled21 - Mixed",
+      "url": "https://open.spotify.com/track/6ME53zWZR5odun8PaBscnH"
+    },
+    {
+      "album": {
+        "name": "Untitled21 (Mixed)",
+        "url": "https://open.spotify.com/album/1Eg42MJs0qz2LIY6ikFtBF"
+      },
+      "artists": [
+        {
+          "name": "Couros",
+          "url": "https://open.spotify.com/artist/7g0azP1aJBtmhhOk00SpIM"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Untitled21 - Mixed",
+      "url": "https://open.spotify.com/track/6Ow1Ru8fmSzrLL5zFu0uJx"
+    },
+    {
+      "album": {
+        "name": "vestal avenue (Mixed)",
+        "url": "https://open.spotify.com/album/1jnoIrGDQaFFMyDe14KGiC"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213905,
+      "name": "vestal avenue - Mixed",
+      "url": "https://open.spotify.com/track/1zEsI234eysELrn4SQNJ5U"
+    },
+    {
+      "album": {
+        "name": "vestal avenue (Mixed)",
+        "url": "https://open.spotify.com/album/7b3pMXKfIHNl9rSheQWmBj"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 213905,
+      "name": "vestal avenue - Mixed",
+      "url": "https://open.spotify.com/track/2iwTGKCvkn2ZFpml0GgNLe"
+    },
+    {
+      "album": {
+        "name": "when ur around (feat. San Holo, Taska Black, Flaws and Mystk) [Mixed]",
+        "url": "https://open.spotify.com/album/0mkA4uXT0vD3quI55GzyAg"
+      },
+      "artists": [
+        {
+          "name": "bitbird",
+          "url": "https://open.spotify.com/artist/5kjwoDHpBOfrhshzG0YGXM"
+        },
+        {
+          "name": "Mystk",
+          "url": "https://open.spotify.com/artist/0moaZluSPSmItGqUCUotxT"
+        },
+        {
+          "name": "Flaws",
+          "url": "https://open.spotify.com/artist/0DX1pMk1b22S536hNGtFDY"
+        },
+        {
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 76000,
+      "name": "when ur around (feat. San Holo, Taska Black, Flaws and Mystk) - Mixed",
+      "url": "https://open.spotify.com/track/2V0SQIZ0yTfUO3Yqa7zWPD"
+    },
+    {
+      "album": {
+        "name": "when ur around (feat. San Holo, Taska Black, Flaws and Mystk) [Mixed]",
+        "url": "https://open.spotify.com/album/6hiIbIAEFrVBqmwJ6AgFdy"
+      },
+      "artists": [
+        {
+          "name": "bitbird",
+          "url": "https://open.spotify.com/artist/5kjwoDHpBOfrhshzG0YGXM"
+        },
+        {
+          "name": "Mystk",
+          "url": "https://open.spotify.com/artist/0moaZluSPSmItGqUCUotxT"
+        },
+        {
+          "name": "Flaws",
+          "url": "https://open.spotify.com/artist/0DX1pMk1b22S536hNGtFDY"
+        },
+        {
+          "name": "Taska Black",
+          "url": "https://open.spotify.com/artist/3XFcu2NnGWceLNdxRCfYH3"
+        },
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76000,
+      "name": "when ur around (feat. San Holo, Taska Black, Flaws and Mystk) - Mixed",
+      "url": "https://open.spotify.com/track/3Rys8su8r72UxqrRpGqf9C"
+    },
+    {
+      "album": {
+        "name": "You Changed Your Hair (Mixed)",
+        "url": "https://open.spotify.com/album/3eBgk6gjcI0JV1k0ACszbb"
+      },
+      "artists": [
+        {
+          "name": "Synova",
+          "url": "https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 131000,
+      "name": "You Changed Your Hair - Mixed",
+      "url": "https://open.spotify.com/track/2940779vloCFpVzIs2W4RW"
+    },
+    {
+      "album": {
+        "name": "You Changed Your Hair (Mixed)",
+        "url": "https://open.spotify.com/album/5x4WRIqsc30gJsjTzLACLo"
+      },
+      "artists": [
+        {
+          "name": "Synova",
+          "url": "https://open.spotify.com/artist/0nZkBPxczfHoKnG6SKOHFd"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "You Changed Your Hair - Mixed",
+      "url": "https://open.spotify.com/track/6PCMEzk07V1Vzcn8GISVQX"
+    },
+    {
+      "album": {
+        "name": "zZz (Mixed)",
+        "url": "https://open.spotify.com/album/08At1fd1su3GthHkZQhVqP"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-22",
+      "duration_ms": 154000,
+      "name": "zZz - Mixed",
+      "url": "https://open.spotify.com/track/3uGaP46FikX5hTqHNolCjR"
+    },
+    {
+      "album": {
+        "name": "zZz (Mixed)",
+        "url": "https://open.spotify.com/album/7xBJaoic3zDYj1aiLuQXvE"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "zZz - Mixed",
+      "url": "https://open.spotify.com/track/4LV8r7ZRtxLp77AZqYNXIS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSuY39HFW8J1"
 }

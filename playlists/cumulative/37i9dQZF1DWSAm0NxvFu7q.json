@@ -687,6 +687,24 @@
     },
     {
       "album": {
+        "name": "How To Lose A Girl in 7 Songs",
+        "url": "https://open.spotify.com/album/3fxeIzMwjsQYIT91v6uHoR"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Sneakers",
+      "url": "https://open.spotify.com/track/2tkoSHC3oBy5MqXA20GCQK"
+    },
+    {
+      "album": {
         "name": "Sneakers",
         "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
       },
@@ -698,7 +716,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 184285,
       "name": "Sneakers",
       "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"

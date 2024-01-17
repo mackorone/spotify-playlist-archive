@@ -2,9 +2,9 @@
 
 ### [Dangdut Top](https://open.spotify.com/playlist/37i9dQZF1DWUWbdikWtt34)
 
-> Dendang Dangdut teratas\. Cover: Lesti, Mom Uung, Rizky Billar
+> Dendang Dangdut teratas\. Cover: Lesti
 
-140 songs - 10 hr 52 min
+141 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aku Cah Kerjo](https://open.spotify.com/track/5lFBEfhO3S846OWXoF8kgH) | [Pendhoza](https://open.spotify.com/artist/7pv4pK2Q3iHVi0cfT1xlSQ) | [Bojoku Galak](https://open.spotify.com/album/2PF24cRBneDg0TBN2WKTh3) | 6:16 | 2021-08-23 | 2023-02-03 |
 | [Aku Tenang](https://open.spotify.com/track/75lsA8cwe9Pa7AhkFlgMMF) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Aku Tenang](https://open.spotify.com/album/1m7WB75FF5bN5IsijB996S) | 5:16 | 2021-08-23 |  |
 | [Angel](https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Angel](https://open.spotify.com/album/27YY9UwgvQI4sQ6PR1FFUq) | 4:47 | 2021-08-23 |  |
+| [Angin](https://open.spotify.com/track/3k0oCzfjIxqOBZIfwzSWhb) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Angin](https://open.spotify.com/album/461V9891s3vWJrkfouthY0) | 4:47 | 2024-01-11 |  |
 | [Bagaikan Pohon Tumbang](https://open.spotify.com/track/4tCohy6Vn1HjkETV2Ycis4) | [Wika Salim](https://open.spotify.com/artist/0SW06VHzaPwpTNiBS7GH4q) | [Bagaikan Pohon Tumbang](https://open.spotify.com/album/2LEt2hpwsalwWYyKpnpsU8) | 4:03 | 2023-08-24 |  |
 | [Bahagia Pada Waktunya](https://open.spotify.com/track/4VdPv2wNafmltiIUQ2Ozju) | [Aldo Jm](https://open.spotify.com/artist/5xSJF52xAPQzfWiueorurd), [Rara Salsabila](https://open.spotify.com/artist/1GBLYFM6sriYtTwtd4s4Ls) | [Bahagia Pada Waktunya](https://open.spotify.com/album/5CAgKCqYH22qUh3q1G7ITV) | 5:49 | 2023-08-03 |  |
 | [Balungan Kere](https://open.spotify.com/track/7kmkGZEE6KSciuxQYDcKTV) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [PUSAKARYA](https://open.spotify.com/album/3bFsqB0xYs8nAkcw2R1vwq) | 5:07 | 2021-08-23 | 2022-10-14 |

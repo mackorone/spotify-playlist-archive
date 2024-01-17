@@ -4,7 +4,7 @@
 
 > Bien alucin con el electro, perreo y el dembow belico\. La nueva ola de la fiesta.
 
-371 songs - 19 hr 30 min
+372 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 | 2022-03-21 | 2022-04-20 |
 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 | 2022-03-21 | 2022-07-09 |
 | [No Es Culpa Mía](https://open.spotify.com/track/45UIS3lqRdp5c03bkkw0Un) | [Betzabeth](https://open.spotify.com/artist/0YjAHyNe7ooAMJTgA7oPgm) | [Mi Error](https://open.spotify.com/album/2kV3nA7gQ7zKgZ0IlrHrXj) | 3:00 | 2023-06-02 | 2023-12-03 |
+| [No Hay Falla Puro Fire](https://open.spotify.com/track/6w4IGeKLBWTMeTsODLWkfh) | [Misael Gutiérrez](https://open.spotify.com/artist/4TAlMkVgr4FK7INJXQLzfS), [Charly Barraza](https://open.spotify.com/artist/0lt4tPr7zkjrESUVY4zEBY) | [No Hay Falla Puro Fire](https://open.spotify.com/album/6IoOtCSEgOIINK8TWumspy) | 3:05 | 2024-01-12 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-12-07 | 2023-05-26 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 | 2022-04-19 | 2022-12-09 |
 | [No Me Saluda](https://open.spotify.com/track/0U7DXjOGWUWJJXVc8YjF4i) | [Eix](https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [No Me Saluda](https://open.spotify.com/album/0JTiGuynQIcU5xIOp1Rie0) | 3:32 | 2022-12-07 | 2023-02-25 |

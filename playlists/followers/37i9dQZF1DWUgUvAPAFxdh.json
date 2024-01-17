@@ -1,250 +1,1303 @@
 {
-  "2023-04-29": 3022,
-  "2023-04-30": 5488,
-  "2023-05-01": 7206,
-  "2023-05-02": 8801,
-  "2023-05-03": 9861,
-  "2023-05-04": 10372,
-  "2023-05-05": 10661,
-  "2023-05-06": 10961,
-  "2023-05-07": 11193,
-  "2023-05-08": 11440,
-  "2023-05-09": 11679,
-  "2023-05-10": 11876,
-  "2023-05-11": 12091,
-  "2023-05-12": 12252,
-  "2023-05-13": 12425,
-  "2023-05-14": 12630,
-  "2023-05-15": 12821,
-  "2023-05-16": 12979,
-  "2023-05-17": 13163,
-  "2023-05-18": 13420,
-  "2023-05-19": 13595,
-  "2023-05-20": 13852,
-  "2023-05-21": 13852,
-  "2023-05-22": 13852,
-  "2023-05-23": 14033,
-  "2023-05-24": 14176,
-  "2023-05-25": 14196,
-  "2023-05-26": 14259,
-  "2023-05-27": 14340,
-  "2023-05-28": 14403,
-  "2023-05-29": 14403,
-  "2023-05-30": 14541,
-  "2023-05-31": 14610,
-  "2023-06-01": 14666,
-  "2023-06-02": 14740,
-  "2023-06-03": 14810,
-  "2023-06-04": 14868,
-  "2023-06-05": 14920,
-  "2023-06-06": 14975,
-  "2023-06-07": 15041,
-  "2023-06-08": 15166,
-  "2023-06-09": 15256,
-  "2023-06-10": 15301,
-  "2023-06-11": 15359,
-  "2023-06-12": 15413,
-  "2023-06-13": 15470,
-  "2023-06-14": 15512,
-  "2023-06-15": 15553,
-  "2023-06-16": 15705,
-  "2023-06-17": 15827,
-  "2023-06-18": 15927,
-  "2023-06-19": 16040,
-  "2023-06-20": 16158,
-  "2023-06-21": 16241,
-  "2023-06-22": 16403,
-  "2023-06-23": 16494,
-  "2023-06-24": 16556,
-  "2023-06-25": 16634,
-  "2023-06-26": 16705,
-  "2023-06-27": 16760,
-  "2023-06-28": 16811,
-  "2023-06-29": 16858,
-  "2023-06-30": 16913,
-  "2023-07-01": 17054,
-  "2023-07-02": 17054,
-  "2023-07-03": 17112,
-  "2023-07-04": 17170,
-  "2023-07-05": 17227,
-  "2023-07-06": 17322,
-  "2023-07-07": 17322,
-  "2023-07-08": 17362,
-  "2023-07-09": 17421,
-  "2023-07-10": 17470,
-  "2023-07-11": 17526,
-  "2023-07-12": 17556,
-  "2023-07-13": 17591,
-  "2023-07-14": 17645,
-  "2023-07-15": 17677,
-  "2023-07-16": 17738,
-  "2023-07-17": 17804,
-  "2023-07-18": 17851,
-  "2023-07-19": 17895,
-  "2023-07-20": 17937,
-  "2023-07-21": 17976,
-  "2023-07-22": 18036,
-  "2023-07-23": 18077,
-  "2023-07-24": 18132,
-  "2023-07-25": 18179,
-  "2023-07-26": 18223,
-  "2023-07-27": 18268,
-  "2023-07-28": 18301,
-  "2023-07-29": 18338,
-  "2023-07-30": 18373,
-  "2023-07-31": 18416,
-  "2023-08-01": 18450,
-  "2023-08-02": 18469,
-  "2023-08-03": 18504,
-  "2023-08-04": 18546,
-  "2023-08-05": 18577,
-  "2023-08-06": 18658,
-  "2023-08-07": 18658,
-  "2023-08-08": 18697,
-  "2023-08-09": 18738,
-  "2023-08-10": 18783,
-  "2023-08-11": 18826,
-  "2023-08-12": 18859,
-  "2023-08-13": 18902,
-  "2023-08-14": 18937,
-  "2023-08-15": 19029,
-  "2023-08-16": 19029,
-  "2023-08-17": 19064,
-  "2023-08-18": 19091,
-  "2023-08-19": 19120,
-  "2023-08-20": 19153,
-  "2023-08-21": 19189,
-  "2023-08-22": 19218,
-  "2023-08-23": 19235,
-  "2023-08-24": 19267,
-  "2023-08-25": 19308,
-  "2023-08-26": 19338,
-  "2023-08-27": 19378,
-  "2023-08-28": 19410,
-  "2023-08-29": 19452,
-  "2023-08-30": 19470,
-  "2023-08-31": 19499,
-  "2023-09-01": 19568,
-  "2023-09-02": 19568,
-  "2023-09-03": 19598,
-  "2023-09-04": 19624,
-  "2023-09-05": 19662,
-  "2023-09-06": 19690,
-  "2023-09-07": 19718,
-  "2023-09-08": 19747,
-  "2023-09-09": 19777,
-  "2023-09-10": 19816,
-  "2023-09-11": 19855,
-  "2023-09-12": 19875,
-  "2023-09-13": 19902,
-  "2023-09-14": 19927,
-  "2023-09-15": 19955,
-  "2023-09-16": 19980,
-  "2023-09-17": 20003,
-  "2023-09-18": 20034,
-  "2023-09-19": 20063,
-  "2023-09-20": 20085,
-  "2023-09-21": 20098,
-  "2023-09-22": 20121,
-  "2023-09-23": 20150,
-  "2023-09-24": 20170,
-  "2023-09-25": 20183,
-  "2023-09-26": 20203,
-  "2023-09-27": 20216,
-  "2023-09-28": 20235,
-  "2023-09-29": 20262,
-  "2023-09-30": 20273,
-  "2023-10-01": 20293,
-  "2023-10-02": 20300,
-  "2023-10-03": 20322,
-  "2023-10-04": 20338,
-  "2023-10-05": 20348,
-  "2023-10-06": 20362,
-  "2023-10-07": 20372,
-  "2023-10-08": 20380,
-  "2023-10-09": 20386,
-  "2023-10-10": 20388,
-  "2023-10-11": 20413,
-  "2023-10-12": 20413,
-  "2023-10-13": 20417,
-  "2023-10-14": 20430,
-  "2023-10-15": 20453,
-  "2023-10-16": 20463,
-  "2023-10-17": 20476,
-  "2023-10-18": 20486,
-  "2023-10-19": 20507,
-  "2023-10-20": 20513,
-  "2023-10-21": 20539,
-  "2023-10-22": 20551,
-  "2023-10-23": 20566,
-  "2023-10-24": 20585,
-  "2023-10-25": 20598,
-  "2023-10-26": 20610,
-  "2023-10-27": 20629,
-  "2023-10-28": 20640,
-  "2023-10-29": 20655,
-  "2023-10-30": 20702,
-  "2023-10-31": 20702,
-  "2023-11-01": 20718,
-  "2023-11-02": 20737,
-  "2023-11-03": 20760,
-  "2023-11-04": 20774,
-  "2023-11-05": 20790,
-  "2023-11-06": 20806,
-  "2023-11-07": 20818,
-  "2023-11-08": 20837,
-  "2023-11-09": 20850,
-  "2023-11-10": 20866,
-  "2023-11-11": 20889,
-  "2023-11-12": 20906,
-  "2023-11-13": 20919,
-  "2023-11-14": 20931,
-  "2023-11-15": 20931,
-  "2023-11-16": 20953,
-  "2023-11-17": 20984,
-  "2023-11-18": 20984,
-  "2023-11-19": 21011,
-  "2023-11-20": 21026,
-  "2023-11-21": 21054,
-  "2023-11-22": 21068,
-  "2023-11-23": 21087,
-  "2023-11-24": 21103,
-  "2023-11-25": 21116,
-  "2023-11-26": 21139,
-  "2023-11-27": 21150,
-  "2023-11-28": 21172,
-  "2023-11-29": 21220,
-  "2023-11-30": 21220,
-  "2023-12-01": 21249,
-  "2023-12-02": 21279,
-  "2023-12-03": 21292,
-  "2023-12-04": 21310,
-  "2023-12-05": 21328,
-  "2023-12-06": 21340,
-  "2023-12-07": 21350,
-  "2023-12-08": 21362,
-  "2023-12-09": 21383,
-  "2023-12-10": 21406,
-  "2023-12-11": 21425,
-  "2023-12-12": 21441,
-  "2023-12-13": 21477,
-  "2023-12-14": 21518,
-  "2023-12-15": 21535,
-  "2023-12-16": 21573,
-  "2023-12-17": 21604,
-  "2023-12-18": 21625,
-  "2023-12-19": 21647,
-  "2023-12-20": 21672,
-  "2023-12-21": 21700,
-  "2023-12-22": 21716,
-  "2023-12-23": 21741,
-  "2023-12-24": 21763,
-  "2023-12-25": 21783,
-  "2023-12-26": 21809,
-  "2023-12-27": 21843,
-  "2023-12-30": 21923,
-  "2023-12-31": 21952,
-  "2024-01-01": 21971,
-  "2024-01-02": 22003,
-  "2024-01-03": 22023
+  "2024-01-17": 22353,
+  "date_first_scraped": "2023-04-29",
+  "description": "The story of Cal Kestis continues in Star Wars Jedi: Survivor, a third person galaxy-spanning action-adventure game from Respawn Entertainment, developed in collaboration with Lucasfilm Games.",
+  "name": "Jedi Survivor Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195986,
+      "name": "A Frontier Welcome",
+      "url": "https://open.spotify.com/track/5l57WzQLGXvrIUyu0Xlto3"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605573,
+      "name": "A Step Too Far",
+      "url": "https://open.spotify.com/track/4vYHSVGNxEotsmi6ph3t8n"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396120,
+      "name": "Above the Clouds",
+      "url": "https://open.spotify.com/track/0YSX8YtjhLyaNwzBrglqom"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "Basalt Scars",
+      "url": "https://open.spotify.com/track/7A2XWt5HuXJOSrIXEhmOqW"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146013,
+      "name": "Beast's Maw",
+      "url": "https://open.spotify.com/track/1cAAdmJfgMHng1juslGogV"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469826,
+      "name": "Beneath the Cantina",
+      "url": "https://open.spotify.com/track/5G9P7XSyX7bVZSodqIFc43"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318013,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/4R9HLSaPCfLeYsWoPlmIOG"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193253,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/01mFSzxDrPTIuEpxumXljp"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Cold Dawn",
+      "url": "https://open.spotify.com/track/1qbr7BPoNtScCHrAbdkvKg"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354880,
+      "name": "Course Collider",
+      "url": "https://open.spotify.com/track/15OVCx43vhbMFPZ5Fend5m"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322120,
+      "name": "Crash Landing",
+      "url": "https://open.spotify.com/track/7BKykYUHAABt62CQeDj7rM"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354893,
+      "name": "Dark Times",
+      "url": "https://open.spotify.com/track/2dEytUaWmd7o5BZZnbKZd6"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299146,
+      "name": "Desert Ruins",
+      "url": "https://open.spotify.com/track/6RttMjcOBklrgWxIguM59X"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Yubnib Zekk and the Main Characters",
+          "url": "https://open.spotify.com/artist/0hYZ8QJAJnzdhkv95QO7ZD"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216971,
+      "name": "Ebon Flow",
+      "url": "https://open.spotify.com/track/3es4ay7F9quPJU7ZzRDbGU"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "The Agasar",
+          "url": "https://open.spotify.com/artist/5tNfpO91SnstN0ptOVwDDn"
+        },
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285791,
+      "name": "Eerin Siinaa",
+      "url": "https://open.spotify.com/track/4aOaxFbZeTgc5NUULETEkX"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "The Agasar",
+          "url": "https://open.spotify.com/artist/5tNfpO91SnstN0ptOVwDDn"
+        },
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214764,
+      "name": "Eseerin Vasahina",
+      "url": "https://open.spotify.com/track/4S3UeyNlXRPTjribzr0fVK"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "NAAARTAAAT",
+          "url": "https://open.spotify.com/artist/1TcYmL6NuuEzZngQAHTAZN"
+        },
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321982,
+      "name": "Fields of Dusk",
+      "url": "https://open.spotify.com/track/1vxfIYowcZyGiKwvRdWWH8"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281333,
+      "name": "Fields of Dusk - Orchestral Version",
+      "url": "https://open.spotify.com/track/4zDOsDzhepxaCHzDiMVBEJ"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Flight",
+      "url": "https://open.spotify.com/track/4IVIdV6Gyb92coDIPrR2nu"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211480,
+      "name": "Garrison",
+      "url": "https://open.spotify.com/track/3GMxP2lRkCQk8ku5f49KdZ"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73506,
+      "name": "Gen'Dai",
+      "url": "https://open.spotify.com/track/6MHrMtEiTP4DYI7d3J9QhY"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432293,
+      "name": "Grand Oculus",
+      "url": "https://open.spotify.com/track/6g4RgzpHqNZyVnRh9HlsD5"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "NAAARTAAAT",
+          "url": "https://open.spotify.com/artist/1TcYmL6NuuEzZngQAHTAZN"
+        },
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213771,
+      "name": "Ground Pulse",
+      "url": "https://open.spotify.com/track/5CLSZFqG1yjBSov3iJh96e"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354840,
+      "name": "Haven",
+      "url": "https://open.spotify.com/track/6O7QwB1JxAjIYh2vSNqb0U"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Altin Lazer Blaster",
+          "url": "https://open.spotify.com/artist/6NMxX7OGWlXy932qXxRS7F"
+        },
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187958,
+      "name": "High Waves",
+      "url": "https://open.spotify.com/track/3Pz3SHT3JTojOECzJSQwhw"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "The Agasar",
+          "url": "https://open.spotify.com/artist/5tNfpO91SnstN0ptOVwDDn"
+        },
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248628,
+      "name": "Hohochu",
+      "url": "https://open.spotify.com/track/7odV2pgAJm0nxXjqQ2Xl0n"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322506,
+      "name": "Into the Storm",
+      "url": "https://open.spotify.com/track/27IUc1SIMY1vIFpHGfSJO4"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Yubnib Zekk and the Main Characters",
+          "url": "https://open.spotify.com/artist/0hYZ8QJAJnzdhkv95QO7ZD"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190262,
+      "name": "Meet Me at the Sabaac Table",
+      "url": "https://open.spotify.com/track/7mwMngF12yCLJeMUzwipqr"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374026,
+      "name": "Mogu in the Mist",
+      "url": "https://open.spotify.com/track/0uCUsmRxD9aIwq0QW6smZw"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241853,
+      "name": "Nova Garon",
+      "url": "https://open.spotify.com/track/6ahqVTD2yECubAmtvvZ7vn"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126453,
+      "name": "Phon'Qi Caverns",
+      "url": "https://open.spotify.com/track/6BWffYBayDEkEnY3XAv1UI"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280506,
+      "name": "Pilgrim's Path",
+      "url": "https://open.spotify.com/track/1pTpGSn2617ft44ubisp7e"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327640,
+      "name": "Rage",
+      "url": "https://open.spotify.com/track/0RNPYURfkkgUOffmgFlHo9"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236866,
+      "name": "Rambler's Reach",
+      "url": "https://open.spotify.com/track/5ZCIneZnKQltFzZwYVQXKD"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/6KmrpQfewf4n2mlM9Gry1K"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518426,
+      "name": "Relics of War",
+      "url": "https://open.spotify.com/track/5FMsySSo1fXkVgBoEQ9tCq"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Mister Mockwell",
+          "url": "https://open.spotify.com/artist/0oh2nZ6aOtpWzKCXg3Myd8"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Revisit Waters",
+      "url": "https://open.spotify.com/track/54WTZ3OmBJow8yi3SH8Vwc"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Altin Lazer Blaster",
+          "url": "https://open.spotify.com/artist/6NMxX7OGWlXy932qXxRS7F"
+        },
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160115,
+      "name": "Rumble Droid",
+      "url": "https://open.spotify.com/track/07NvSiWjCfBlYkx060ymzc"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 590986,
+      "name": "Shattered Moon",
+      "url": "https://open.spotify.com/track/76SvwfnQgpVlhGelzmzu6W"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Altin Lazer Blaster",
+          "url": "https://open.spotify.com/artist/6NMxX7OGWlXy932qXxRS7F"
+        },
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183615,
+      "name": "Shortpaw's Dance",
+      "url": "https://open.spotify.com/track/2heHpZsJPMVrGMfzVaIJj5"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187840,
+      "name": "Siege",
+      "url": "https://open.spotify.com/track/5yHaNVuudFcdMNwFCSL6ix"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "NAAARTAAAT",
+          "url": "https://open.spotify.com/artist/1TcYmL6NuuEzZngQAHTAZN"
+        },
+        {
+          "name": "TATRAN",
+          "url": "https://open.spotify.com/artist/3gzgB8WFPLlgpn03piQ5pB"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434707,
+      "name": "Spiceman",
+      "url": "https://open.spotify.com/track/1AxTrFSPgvShBYOS5f4JEV"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Mister Mockwell",
+          "url": "https://open.spotify.com/artist/0oh2nZ6aOtpWzKCXg3Myd8"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Sublime Raid II",
+      "url": "https://open.spotify.com/track/1bhbrDgsjIb9wyPqLP4Eaa"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276293,
+      "name": "The Abyss",
+      "url": "https://open.spotify.com/track/7eAsurEDlkCW5AF5ZaVqtE"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232946,
+      "name": "The Ancients",
+      "url": "https://open.spotify.com/track/4b9Nev8sOS9XjrsXmYM6Wc"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310586,
+      "name": "The Bedlam Raiders",
+      "url": "https://open.spotify.com/track/2LN2WD9crhLNDCF6rYwclJ"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426866,
+      "name": "The Forest's Secret",
+      "url": "https://open.spotify.com/track/5ba4e5LLcfESj0900Nynpe"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244786,
+      "name": "The Narkis Anchorites",
+      "url": "https://open.spotify.com/track/120y5HBCa6RNMkZuo2m90o"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 537880,
+      "name": "The Sacred Mesa",
+      "url": "https://open.spotify.com/track/71y0A23hgvtjTnQ531E26Z"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 525320,
+      "name": "The Undercity",
+      "url": "https://open.spotify.com/track/5HwZt7fJqeQKs0eAdVrMIo"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 608800,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/7pZ42gd7jFYJw6e83HGpFs"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335240,
+      "name": "Through Darkness",
+      "url": "https://open.spotify.com/track/6Q2SOb3ZVThGFOFKEsOFhb"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151680,
+      "name": "To the Rescue",
+      "url": "https://open.spotify.com/track/7fp0228qYOWCqoFLpUV0pu"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365360,
+      "name": "Trident",
+      "url": "https://open.spotify.com/track/3XVLbI3lrduoAlANKSc4Ce"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482760,
+      "name": "Unforgiving Sands",
+      "url": "https://open.spotify.com/track/4gcqLodO5yal5YLaSWNRfP"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428413,
+      "name": "Warrior's Code",
+      "url": "https://open.spotify.com/track/2BgcRivT391bXOXEiDCyDw"
+    },
+    {
+      "album": {
+        "name": "Star Wars Jedi: Survivor (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/2gZHXHax0gfK8rEYb4B741"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barton",
+          "url": "https://open.spotify.com/artist/4Do9oNUGTHFkYbrTvOBfCk"
+        },
+        {
+          "name": "Gordy Haab",
+          "url": "https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301906,
+      "name": "Where the Nekkos Roam",
+      "url": "https://open.spotify.com/track/79cEOFHnJ2or6ECEe8OOAM"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Yubnib Zekk and the Main Characters",
+          "url": "https://open.spotify.com/artist/0hYZ8QJAJnzdhkv95QO7ZD"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204420,
+      "name": "Who Mourns for Taris?",
+      "url": "https://open.spotify.com/track/6sPq7M44hrtK8buth5VC8b"
+    },
+    {
+      "album": {
+        "name": "Sounds from the Galactic Skylanes (Original Music from Star Wars Jedi: Survivor)",
+        "url": "https://open.spotify.com/album/1ldPSreHFSpICI8VVNK5rL"
+      },
+      "artists": [
+        {
+          "name": "Mister Mockwell",
+          "url": "https://open.spotify.com/artist/0oh2nZ6aOtpWzKCXg3Myd8"
+        },
+        {
+          "name": "Kaelin Ellis",
+          "url": "https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Zanara",
+      "url": "https://open.spotify.com/track/335WJvUUXZjYX7x4UwEA4l"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUgUvAPAFxdh"
 }

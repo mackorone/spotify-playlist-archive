@@ -4,7 +4,7 @@
 
 > This is Jordan Davis\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 0 min
+40 songs - 2 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,10 +42,11 @@
 | [Tough To Tie Down](https://open.spotify.com/track/4rCj2HhRPVjV9Z4qUk7TuM) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Home State](https://open.spotify.com/album/3CXa4AY5Rt4kymz1vW90WR) | 3:10 | 2023-02-08 | 2023-05-04 |
 | [Trouble Town](https://open.spotify.com/track/7wmCQ3tYnjfk03VuVrsgzr) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Trouble Town](https://open.spotify.com/album/09cYxat6XWP2nb3o1EFNYF) | 3:04 | 2023-02-08 |  |
 | [Trying](https://open.spotify.com/track/2mWp5olnLmpzAReIGK18dA) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:56 | 2023-02-08 |  |
-| [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 | 2023-02-20 |  |
+| [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 | 2023-02-20 | 2024-01-14 |
+| [Tucson Too Late \- Live Acoustic](https://open.spotify.com/track/27iEURX7ffTh0O6ULtqhRW) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Tucson Too Late \(Live Acoustic\)](https://open.spotify.com/album/4fa2cd0EzHd4g92IY2fn5G) | 3:06 | 2024-01-13 |  |
 | [What I Wouldn't Do](https://open.spotify.com/track/1PiHmLh6YmyDT6vwpFI2jg) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 3:28 | 2023-03-03 | 2023-03-26 |
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2023-02-08 |  |
 | [Whiskey Weak](https://open.spotify.com/track/40MIJQeZ9nR0qDXq0GlfLE) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:45 | 2023-02-20 |  |
-| [You've Got My Number](https://open.spotify.com/track/4vFhJzZUikY09Jl2YVCa2n) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:54 | 2023-02-20 | 2023-09-22 |
+| [You've Got My Number](https://open.spotify.com/track/4vFhJzZUikY09Jl2YVCa2n) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:54 | 2023-02-20 |  |
 
 \*This playlist was first scraped on 2023-02-09. Prior content cannot be recovered.

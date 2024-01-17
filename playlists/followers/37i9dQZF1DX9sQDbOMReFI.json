@@ -1,719 +1,2683 @@
 {
-  "2022-01-10": 450572,
-  "2022-01-11": 451037,
-  "2022-01-12": 451517,
-  "2022-01-13": 452394,
-  "2022-01-14": 453281,
-  "2022-01-15": 454285,
-  "2022-01-16": 454326,
-  "2022-01-17": 455487,
-  "2022-01-18": 455553,
-  "2022-01-19": 455951,
-  "2022-01-20": 456498,
-  "2022-01-21": 457081,
-  "2022-01-22": 457715,
-  "2022-01-23": 458326,
-  "2022-01-24": 458870,
-  "2022-01-25": 459383,
-  "2022-01-26": 459909,
-  "2022-01-27": 460405,
-  "2022-01-28": 460890,
-  "2022-01-29": 461418,
-  "2022-01-30": 462054,
-  "2022-01-31": 462579,
-  "2022-02-01": 463045,
-  "2022-02-02": 463607,
-  "2022-02-03": 464101,
-  "2022-02-04": 464661,
-  "2022-02-05": 465137,
-  "2022-02-06": 465585,
-  "2022-02-07": 466028,
-  "2022-02-08": 466511,
-  "2022-02-09": 466984,
-  "2022-02-10": 467457,
-  "2022-02-11": 467932,
-  "2022-02-12": 468756,
-  "2022-02-13": 469744,
-  "2022-02-14": 470737,
-  "2022-02-15": 474865,
-  "2022-02-16": 480828,
-  "2022-02-17": 485594,
-  "2022-02-18": 489272,
-  "2022-02-19": 492305,
-  "2022-02-20": 494848,
-  "2022-02-21": 496986,
-  "2022-02-22": 498302,
-  "2022-02-23": 499347,
-  "2022-02-24": 500493,
-  "2022-02-25": 501366,
-  "2022-02-26": 502300,
-  "2022-02-27": 504107,
-  "2022-02-28": 504107,
-  "2022-03-01": 504777,
-  "2022-03-02": 505538,
-  "2022-03-03": 506283,
-  "2022-03-04": 507066,
-  "2022-03-05": 507796,
-  "2022-03-06": 508523,
-  "2022-03-07": 509216,
-  "2022-03-08": 509843,
-  "2022-03-09": 510566,
-  "2022-03-10": 511300,
-  "2022-03-11": 512004,
-  "2022-03-12": 512797,
-  "2022-03-13": 513412,
-  "2022-03-14": 513949,
-  "2022-03-15": 514512,
-  "2022-03-16": 515128,
-  "2022-03-17": 515782,
-  "2022-03-18": 516646,
-  "2022-03-19": 517020,
-  "2022-03-20": 517020,
-  "2022-03-21": 518243,
-  "2022-03-22": 518654,
-  "2022-03-23": 519163,
-  "2022-03-24": 519729,
-  "2022-03-25": 520264,
-  "2022-03-26": 520816,
-  "2022-03-27": 521349,
-  "2022-03-28": 521827,
-  "2022-03-30": 522637,
-  "2022-03-31": 523059,
-  "2022-04-01": 523527,
-  "2022-04-02": 524008,
-  "2022-04-03": 524573,
-  "2022-04-04": 525033,
-  "2022-04-05": 525422,
-  "2022-04-06": 525914,
-  "2022-04-07": 526365,
-  "2022-04-08": 526800,
-  "2022-04-09": 527238,
-  "2022-04-10": 528099,
-  "2022-04-11": 528486,
-  "2022-04-12": 528570,
-  "2022-04-13": 528968,
-  "2022-04-14": 529414,
-  "2022-04-15": 529883,
-  "2022-04-16": 530396,
-  "2022-04-17": 530859,
-  "2022-04-18": 531354,
-  "2022-04-19": 531654,
-  "2022-04-20": 532097,
-  "2022-04-21": 532585,
-  "2022-04-22": 533075,
-  "2022-04-23": 533589,
-  "2022-04-24": 534119,
-  "2022-04-25": 534546,
-  "2022-04-26": 534976,
-  "2022-04-27": 535484,
-  "2022-04-28": 535929,
-  "2022-04-29": 536773,
-  "2022-04-30": 537352,
-  "2022-05-01": 538023,
-  "2022-05-02": 538023,
-  "2022-05-03": 538478,
-  "2022-05-04": 538950,
-  "2022-05-05": 539438,
-  "2022-05-06": 539908,
-  "2022-05-07": 540501,
-  "2022-05-08": 541204,
-  "2022-05-09": 541298,
-  "2022-05-10": 541692,
-  "2022-05-11": 542169,
-  "2022-05-12": 542589,
-  "2022-05-13": 543077,
-  "2022-05-14": 543584,
-  "2022-05-15": 543999,
-  "2022-05-16": 544398,
-  "2022-05-17": 544824,
-  "2022-05-18": 545276,
-  "2022-05-19": 545711,
-  "2022-05-20": 546214,
-  "2022-05-21": 546950,
-  "2022-05-22": 546950,
-  "2022-05-23": 547384,
-  "2022-05-24": 547745,
-  "2022-05-25": 548099,
-  "2022-05-26": 548455,
-  "2022-05-27": 548841,
-  "2022-05-28": 549266,
-  "2022-05-29": 549704,
-  "2022-05-30": 550113,
-  "2022-05-31": 550532,
-  "2022-06-01": 551165,
-  "2022-06-02": 551243,
-  "2022-06-03": 551592,
-  "2022-06-04": 552024,
-  "2022-06-05": 552442,
-  "2022-06-06": 552777,
-  "2022-06-07": 553103,
-  "2022-06-08": 553524,
-  "2022-06-09": 553838,
-  "2022-06-10": 554276,
-  "2022-06-11": 554662,
-  "2022-06-12": 555020,
-  "2022-06-13": 555354,
-  "2022-06-14": 555712,
-  "2022-06-15": 556035,
-  "2022-06-16": 556430,
-  "2022-06-17": 556809,
-  "2022-06-18": 556809,
-  "2022-06-19": 557915,
-  "2022-06-20": 557915,
-  "2022-06-21": 558232,
-  "2022-06-22": 558866,
-  "2022-06-23": 558866,
-  "2022-06-24": 559236,
-  "2022-06-25": 559572,
-  "2022-06-26": 559963,
-  "2022-06-27": 560290,
-  "2022-06-28": 560583,
-  "2022-06-29": 560893,
-  "2022-06-30": 561209,
-  "2022-07-01": 561589,
-  "2022-07-02": 561990,
-  "2022-07-03": 562355,
-  "2022-07-04": 562701,
-  "2022-07-05": 563055,
-  "2022-07-06": 563365,
-  "2022-07-07": 563705,
-  "2022-07-08": 564011,
-  "2022-07-09": 564372,
-  "2022-07-10": 564718,
-  "2022-07-11": 565028,
-  "2022-07-12": 565288,
-  "2022-07-13": 565588,
-  "2022-07-14": 565908,
-  "2022-07-15": 566229,
-  "2022-07-16": 566589,
-  "2022-07-17": 566953,
-  "2022-07-18": 567304,
-  "2022-07-19": 567659,
-  "2022-07-20": 567985,
-  "2022-07-21": 568346,
-  "2022-07-22": 568693,
-  "2022-07-23": 569079,
-  "2022-07-24": 569443,
-  "2022-07-25": 569785,
-  "2022-07-26": 570139,
-  "2022-07-27": 570472,
-  "2022-07-28": 570821,
-  "2022-07-29": 571186,
-  "2022-07-30": 571930,
-  "2022-07-31": 571930,
-  "2022-08-01": 572264,
-  "2022-08-02": 572899,
-  "2022-08-03": 572899,
-  "2022-08-04": 573255,
-  "2022-08-05": 573623,
-  "2022-08-06": 573962,
-  "2022-08-07": 574378,
-  "2022-08-08": 574710,
-  "2022-08-09": 575054,
-  "2022-08-10": 575413,
-  "2022-08-11": 575790,
-  "2022-08-12": 576172,
-  "2022-08-13": 576582,
-  "2022-08-14": 577043,
-  "2022-08-15": 577453,
-  "2022-08-16": 577844,
-  "2022-08-17": 578263,
-  "2022-08-18": 578668,
-  "2022-08-19": 579121,
-  "2022-08-20": 579544,
-  "2022-08-21": 580026,
-  "2022-08-22": 580427,
-  "2022-08-23": 580798,
-  "2022-08-24": 581237,
-  "2022-08-25": 581651,
-  "2022-08-26": 582061,
-  "2022-08-27": 582532,
-  "2022-08-28": 582916,
-  "2022-08-29": 583273,
-  "2022-08-30": 583632,
-  "2022-08-31": 583956,
-  "2022-09-01": 584327,
-  "2022-09-02": 584749,
-  "2022-09-03": 585139,
-  "2022-09-04": 585531,
-  "2022-09-05": 585938,
-  "2022-09-06": 586296,
-  "2022-09-07": 586673,
-  "2022-09-09": 587333,
-  "2022-09-10": 587698,
-  "2022-09-11": 588074,
-  "2022-09-12": 588435,
-  "2022-09-13": 588776,
-  "2022-09-15": 589476,
-  "2022-09-16": 589857,
-  "2022-09-17": 590232,
-  "2022-09-18": 590633,
-  "2022-09-19": 591001,
-  "2022-09-20": 591347,
-  "2022-09-21": 591671,
-  "2022-09-22": 592050,
-  "2022-09-23": 592462,
-  "2022-09-24": 592843,
-  "2022-09-25": 593185,
-  "2022-09-26": 593533,
-  "2022-09-27": 593851,
-  "2022-09-28": 594185,
-  "2022-09-29": 594616,
-  "2022-09-30": 595463,
-  "2022-10-01": 596013,
-  "2022-10-02": 596496,
-  "2022-10-03": 596868,
-  "2022-10-04": 597217,
-  "2022-10-05": 597606,
-  "2022-10-06": 598043,
-  "2022-10-07": 598476,
-  "2022-10-08": 598932,
-  "2022-10-09": 599660,
-  "2022-10-10": 599764,
-  "2022-10-11": 600101,
-  "2022-10-12": 600466,
-  "2022-10-13": 600783,
-  "2022-10-14": 601191,
-  "2022-10-15": 601628,
-  "2022-10-16": 602016,
-  "2022-10-17": 602390,
-  "2022-10-18": 602774,
-  "2022-10-19": 603147,
-  "2022-10-20": 603530,
-  "2022-10-21": 603946,
-  "2022-10-22": 604324,
-  "2022-10-23": 604685,
-  "2022-10-24": 605005,
-  "2022-10-25": 605330,
-  "2022-10-26": 605696,
-  "2022-10-27": 606080,
-  "2022-10-28": 606484,
-  "2022-10-29": 606866,
-  "2022-10-30": 607231,
-  "2022-10-31": 607572,
-  "2022-11-01": 607868,
-  "2022-11-02": 608171,
-  "2022-11-03": 608505,
-  "2022-11-04": 608925,
-  "2022-11-05": 609374,
-  "2022-11-06": 609855,
-  "2022-11-07": 610273,
-  "2022-11-08": 610678,
-  "2022-11-09": 611084,
-  "2022-11-10": 611536,
-  "2022-11-11": 612096,
-  "2022-11-12": 612772,
-  "2022-11-13": 613234,
-  "2022-11-14": 613683,
-  "2022-11-15": 614129,
-  "2022-11-16": 614638,
-  "2022-11-17": 615166,
-  "2022-11-18": 615296,
-  "2022-11-19": 615468,
-  "2022-11-20": 615966,
-  "2022-11-21": 616496,
-  "2022-11-22": 616996,
-  "2022-11-23": 617534,
-  "2022-11-24": 618440,
-  "2022-11-25": 619195,
-  "2022-11-26": 619759,
-  "2022-11-27": 620239,
-  "2022-11-28": 620689,
-  "2022-11-29": 621124,
-  "2022-11-30": 621620,
-  "2022-12-01": 622252,
-  "2022-12-02": 622613,
-  "2022-12-03": 623315,
-  "2022-12-04": 623833,
-  "2022-12-05": 624280,
-  "2022-12-06": 624831,
-  "2022-12-07": 625423,
-  "2022-12-08": 626013,
-  "2022-12-09": 626534,
-  "2022-12-10": 627017,
-  "2022-12-11": 627515,
-  "2022-12-12": 627928,
-  "2022-12-13": 628348,
-  "2022-12-14": 628715,
-  "2022-12-15": 629123,
-  "2022-12-16": 629541,
-  "2022-12-17": 629992,
-  "2022-12-18": 630424,
-  "2022-12-19": 630814,
-  "2022-12-20": 631709,
-  "2022-12-21": 631709,
-  "2022-12-22": 632101,
-  "2022-12-24": 632943,
-  "2022-12-25": 633334,
-  "2022-12-26": 633658,
-  "2022-12-27": 634075,
-  "2022-12-28": 634501,
-  "2022-12-29": 634929,
-  "2022-12-30": 635360,
-  "2022-12-31": 635837,
-  "2023-01-01": 636271,
-  "2023-01-02": 636589,
-  "2023-01-03": 637030,
-  "2023-01-04": 637458,
-  "2023-01-05": 637973,
-  "2023-01-06": 638691,
-  "2023-01-07": 639489,
-  "2023-01-08": 639616,
-  "2023-01-09": 640055,
-  "2023-01-10": 640513,
-  "2023-01-11": 641023,
-  "2023-01-12": 641602,
-  "2023-01-13": 642117,
-  "2023-01-14": 643031,
-  "2023-01-15": 643168,
-  "2023-01-16": 643723,
-  "2023-01-17": 644243,
-  "2023-01-18": 644748,
-  "2023-01-19": 645281,
-  "2023-01-20": 645753,
-  "2023-01-21": 646268,
-  "2023-01-22": 646832,
-  "2023-01-23": 647323,
-  "2023-01-24": 647736,
-  "2023-01-25": 648264,
-  "2023-01-26": 648657,
-  "2023-01-27": 649157,
-  "2023-01-28": 649652,
-  "2023-01-29": 650104,
-  "2023-01-30": 650541,
-  "2023-01-31": 650541,
-  "2023-02-01": 651406,
-  "2023-02-02": 651865,
-  "2023-02-03": 652372,
-  "2023-02-04": 652946,
-  "2023-02-05": 653475,
-  "2023-02-06": 653919,
-  "2023-02-07": 654417,
-  "2023-02-08": 655527,
-  "2023-02-09": 655527,
-  "2023-02-10": 656058,
-  "2023-02-11": 656569,
-  "2023-02-12": 657476,
-  "2023-02-13": 657884,
-  "2023-02-14": 657884,
-  "2023-02-15": 658347,
-  "2023-02-16": 658808,
-  "2023-02-17": 659348,
-  "2023-02-18": 660464,
-  "2023-02-19": 660563,
-  "2023-02-20": 660921,
-  "2023-02-21": 661399,
-  "2023-02-22": 661843,
-  "2023-02-23": 662333,
-  "2023-02-24": 662782,
-  "2023-02-25": 663427,
-  "2023-02-26": 663801,
-  "2023-02-27": 664640,
-  "2023-02-28": 664640,
-  "2023-03-01": 665060,
-  "2023-03-02": 665542,
-  "2023-03-03": 666070,
-  "2023-03-04": 666355,
-  "2023-03-05": 666919,
-  "2023-03-06": 666919,
-  "2023-03-07": 667165,
-  "2023-03-08": 667407,
-  "2023-03-09": 667668,
-  "2023-03-10": 667878,
-  "2023-03-11": 668133,
-  "2023-03-12": 668408,
-  "2023-03-13": 668665,
-  "2023-03-14": 668879,
-  "2023-03-15": 669159,
-  "2023-03-16": 669442,
-  "2023-03-17": 669442,
-  "2023-03-18": 670042,
-  "2023-03-19": 670321,
-  "2023-03-20": 670554,
-  "2023-03-21": 670811,
-  "2023-03-22": 671098,
-  "2023-03-23": 671343,
-  "2023-03-24": 671343,
-  "2023-03-25": 671862,
-  "2023-03-26": 672104,
-  "2023-03-27": 672360,
-  "2023-03-28": 672587,
-  "2023-03-29": 672882,
-  "2023-03-30": 673391,
-  "2023-03-31": 673391,
-  "2023-04-01": 673654,
-  "2023-04-02": 673966,
-  "2023-04-03": 674163,
-  "2023-04-04": 674393,
-  "2023-04-05": 674644,
-  "2023-04-06": 674909,
-  "2023-04-07": 675168,
-  "2023-04-09": 675817,
-  "2023-04-10": 676096,
-  "2023-04-11": 676711,
-  "2023-04-12": 676711,
-  "2023-04-13": 677060,
-  "2023-04-14": 677426,
-  "2023-04-15": 677768,
-  "2023-04-16": 678089,
-  "2023-04-17": 678377,
-  "2023-04-18": 678695,
-  "2023-04-19": 679050,
-  "2023-04-20": 679386,
-  "2023-04-21": 679747,
-  "2023-04-22": 680142,
-  "2023-04-23": 680497,
-  "2023-04-24": 680793,
-  "2023-04-25": 681099,
-  "2023-04-26": 681439,
-  "2023-04-27": 681765,
-  "2023-04-28": 682112,
-  "2023-04-29": 682450,
-  "2023-04-30": 682788,
-  "2023-05-01": 683085,
-  "2023-05-02": 683375,
-  "2023-05-03": 683701,
-  "2023-05-04": 684027,
-  "2023-05-05": 684327,
-  "2023-05-06": 684660,
-  "2023-05-07": 684953,
-  "2023-05-08": 685185,
-  "2023-05-09": 685443,
-  "2023-05-10": 685726,
-  "2023-05-11": 685991,
-  "2023-05-12": 686366,
-  "2023-05-13": 686911,
-  "2023-05-14": 687473,
-  "2023-05-15": 688019,
-  "2023-05-16": 688595,
-  "2023-05-17": 689153,
-  "2023-05-18": 689685,
-  "2023-05-19": 690359,
-  "2023-05-20": 691559,
-  "2023-05-21": 691559,
-  "2023-05-22": 691559,
-  "2023-05-23": 692660,
-  "2023-05-24": 693563,
-  "2023-05-25": 693730,
-  "2023-05-26": 694367,
-  "2023-05-27": 695086,
-  "2023-05-28": 695705,
-  "2023-05-29": 695705,
-  "2023-05-30": 696752,
-  "2023-05-31": 697275,
-  "2023-06-01": 697827,
-  "2023-06-02": 698325,
-  "2023-06-03": 698919,
-  "2023-06-04": 699792,
-  "2023-06-05": 700568,
-  "2023-06-06": 701390,
-  "2023-06-07": 702177,
-  "2023-06-08": 702865,
-  "2023-06-09": 703605,
-  "2023-06-10": 704313,
-  "2023-06-11": 705010,
-  "2023-06-12": 705582,
-  "2023-06-13": 706215,
-  "2023-06-14": 706890,
-  "2023-06-15": 707564,
-  "2023-06-16": 708212,
-  "2023-06-17": 708969,
-  "2023-06-18": 709712,
-  "2023-06-19": 710391,
-  "2023-06-20": 711009,
-  "2023-06-21": 711573,
-  "2023-06-22": 712201,
-  "2023-06-23": 712883,
-  "2023-06-24": 713610,
-  "2023-06-25": 714265,
-  "2023-06-26": 714959,
-  "2023-06-27": 715607,
-  "2023-06-28": 716235,
-  "2023-06-29": 716962,
-  "2023-06-30": 717748,
-  "2023-07-01": 718809,
-  "2023-07-02": 718809,
-  "2023-07-03": 719168,
-  "2023-07-04": 719654,
-  "2023-07-05": 720086,
-  "2023-07-06": 720974,
-  "2023-07-07": 720974,
-  "2023-07-08": 721437,
-  "2023-07-09": 721907,
-  "2023-07-10": 722319,
-  "2023-07-11": 722725,
-  "2023-07-12": 723214,
-  "2023-07-13": 723699,
-  "2023-07-14": 724144,
-  "2023-07-15": 724558,
-  "2023-07-16": 725163,
-  "2023-07-17": 725639,
-  "2023-07-18": 726126,
-  "2023-07-19": 726597,
-  "2023-07-20": 727049,
-  "2023-07-21": 727594,
-  "2023-07-22": 728119,
-  "2023-07-23": 728682,
-  "2023-07-24": 729116,
-  "2023-07-25": 729625,
-  "2023-07-26": 730122,
-  "2023-07-27": 730670,
-  "2023-07-28": 731183,
-  "2023-07-29": 731715,
-  "2023-07-30": 732219,
-  "2023-07-31": 732655,
-  "2023-08-01": 733256,
-  "2023-08-02": 733770,
-  "2023-08-03": 734249,
-  "2023-08-04": 734734,
-  "2023-08-05": 735392,
-  "2023-08-06": 736473,
-  "2023-08-07": 736473,
-  "2023-08-08": 737000,
-  "2023-08-09": 737468,
-  "2023-08-10": 737976,
-  "2023-08-11": 738442,
-  "2023-08-12": 739042,
-  "2023-08-13": 739629,
-  "2023-08-14": 740102,
-  "2023-08-15": 741098,
-  "2023-08-16": 741098,
-  "2023-08-17": 741644,
-  "2023-08-18": 742249,
-  "2023-08-19": 742786,
-  "2023-08-20": 743355,
-  "2023-08-21": 743832,
-  "2023-08-22": 744298,
-  "2023-08-23": 744815,
-  "2023-08-24": 745351,
-  "2023-08-25": 745889,
-  "2023-08-26": 746404,
-  "2023-08-27": 746916,
-  "2023-08-28": 747352,
-  "2023-08-29": 747838,
-  "2023-08-30": 748322,
-  "2023-08-31": 748817,
-  "2023-09-01": 749802,
-  "2023-09-02": 749802,
-  "2023-09-03": 750233,
-  "2023-09-04": 750717,
-  "2023-09-05": 751216,
-  "2023-09-06": 751728,
-  "2023-09-07": 752234,
-  "2023-09-08": 752715,
-  "2023-09-09": 753318,
-  "2023-09-10": 753784,
-  "2023-09-11": 754213,
-  "2023-09-12": 754625,
-  "2023-09-13": 755144,
-  "2023-09-14": 755593,
-  "2023-09-15": 756047,
-  "2023-09-16": 756480,
-  "2023-09-17": 756934,
-  "2023-09-18": 757301,
-  "2023-09-19": 757698,
-  "2023-09-20": 758053,
-  "2023-09-21": 758496,
-  "2023-09-22": 758847,
-  "2023-09-23": 759235,
-  "2023-09-24": 759671,
-  "2023-09-25": 760096,
-  "2023-09-26": 760594,
-  "2023-09-27": 760928,
-  "2023-09-28": 761396,
-  "2023-09-29": 761901,
-  "2023-09-30": 762367,
-  "2023-10-01": 762830,
-  "2023-10-02": 763272,
-  "2023-10-03": 763667,
-  "2023-10-04": 764166,
-  "2023-10-05": 764647,
-  "2023-10-06": 765093,
-  "2023-10-07": 765623,
-  "2023-10-08": 766052,
-  "2023-10-09": 766406,
-  "2023-10-10": 766776,
-  "2023-10-11": 767553,
-  "2023-10-12": 767553,
-  "2023-10-13": 767946,
-  "2023-10-14": 768330,
-  "2023-10-15": 768759,
-  "2023-10-16": 769083,
-  "2023-10-17": 769433,
-  "2023-10-18": 769817,
-  "2023-10-19": 770264,
-  "2023-10-20": 770737,
-  "2023-10-21": 771149,
-  "2023-10-22": 771506,
-  "2023-10-23": 771816,
-  "2023-10-24": 772106,
-  "2023-10-25": 772444,
-  "2023-10-26": 772826,
-  "2023-10-27": 773245,
-  "2023-10-28": 773245,
-  "2023-10-29": 773245,
-  "2023-10-30": 774331,
-  "2023-10-31": 774331,
-  "2023-11-01": 774964,
-  "2023-11-02": 775304,
-  "2023-11-03": 775705,
-  "2023-11-04": 775705,
-  "2023-11-05": 776386,
-  "2023-11-06": 776657,
-  "2023-11-07": 776988,
-  "2023-11-08": 777320,
-  "2023-11-09": 777704,
-  "2023-11-10": 778106,
-  "2023-11-11": 778477,
-  "2023-11-12": 778831,
-  "2023-11-13": 779171,
-  "2023-11-14": 779521,
-  "2023-11-15": 779521,
-  "2023-11-16": 780228,
-  "2023-11-17": 780970,
-  "2023-11-18": 780970,
-  "2023-11-19": 781326,
-  "2023-11-20": 781599,
-  "2023-11-21": 781913,
-  "2023-11-22": 782269,
-  "2023-11-23": 782591,
-  "2023-11-24": 782591,
-  "2023-11-25": 783259,
-  "2023-11-26": 783597,
-  "2023-11-27": 783862,
-  "2023-11-28": 784213,
-  "2023-11-29": 784836,
-  "2023-11-30": 784836,
-  "2023-12-01": 785182,
-  "2023-12-02": 785438,
-  "2023-12-03": 785789,
-  "2023-12-04": 785789,
-  "2023-12-05": 786311,
-  "2023-12-06": 786649,
-  "2023-12-07": 787016,
-  "2023-12-08": 787729,
-  "2023-12-09": 788432,
-  "2023-12-10": 788432,
-  "2023-12-11": 789636,
-  "2023-12-12": 789636,
-  "2023-12-13": 790855,
-  "2023-12-14": 791615,
-  "2023-12-15": 792127,
-  "2023-12-16": 792764,
-  "2023-12-17": 793331,
-  "2023-12-18": 793765,
-  "2023-12-19": 794233,
-  "2023-12-20": 794768,
-  "2023-12-21": 795319,
-  "2023-12-22": 795817,
-  "2023-12-23": 796386,
-  "2023-12-24": 796981,
-  "2023-12-25": 797443,
-  "2023-12-26": 797880,
-  "2023-12-27": 798320,
-  "2023-12-30": 799944,
-  "2023-12-31": 800508,
-  "2024-01-01": 801014,
-  "2024-01-02": 801421,
-  "2024-01-03": 801864
+  "2024-01-17": 809498,
+  "date_first_scraped": "2022-01-10",
+  "description": "The best side! Cover: Ice Cube",
+  "name": "I Love My West Coast Classics",
+  "tracks": [
+    {
+      "album": {
+        "name": "93 'til Infinity",
+        "url": "https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Mischief",
+          "url": "https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286440,
+      "name": "93 'Til Infinity",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-30",
+      "duration_ms": 215509,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246346,
+      "name": "Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)",
+      "url": "https://open.spotify.com/track/4rLpAOk5KVNcqEMK3m6Lje"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "Ain\u2019t No Fun (If The Homies Can\u2019t Have None)",
+      "url": "https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/1Mdy7hhoQRYdVrHzYnlUee"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Yani Hadati",
+          "url": "https://open.spotify.com/artist/5LeeuJrsH0LDgVTQikx0eF"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Fatal",
+          "url": "https://open.spotify.com/artist/7Kk52c4QPzzgXzsrce4rSF"
+        }
+      ],
+      "date_added": "2021-02-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 276813,
+      "name": "All About U (ft. Nate Dogg, Snoop Dogg, Fatal, Yani Hadati)",
+      "url": "https://open.spotify.com/track/6tYL1tBaqTcaqXIykzfF7M"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/4CzT5ueFBRpbILw34HQYxi"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 278386,
+      "name": "Ambitionz Az A Ridah",
+      "url": "https://open.spotify.com/track/3ssX20QT5c3nA9wk78V1LQ"
+    },
+    {
+      "album": {
+        "name": "All Eyez On Me",
+        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2023-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278386,
+      "name": "Ambitionz Az A Ridah",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
+    },
+    {
+      "album": {
+        "name": "Ahmad",
+        "url": "https://open.spotify.com/album/1oRFXTDboyfWXB0c1z6QiT"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Lewis",
+          "url": "https://open.spotify.com/artist/4X3nIh5dynzfAQmy1Z5hXI"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-04",
+      "duration_ms": 303373,
+      "name": "Back in the Day - Remix",
+      "url": "https://open.spotify.com/track/5gUVdjfPWoaKoRiEMHBX6P"
+    },
+    {
+      "album": {
+        "name": "Based On A True Story",
+        "url": "https://open.spotify.com/album/0i7KKsfzuGq5Awx5CBfxRH"
+      },
+      "artists": [
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 259181,
+      "name": "Backyard Boogie",
+      "url": "https://open.spotify.com/track/0Bbd5inN2znpGQkxZbqmmU"
+    },
+    {
+      "album": {
+        "name": "No Limit Top Dogg",
+        "url": "https://open.spotify.com/album/2evskaXutnTkQAaZeT4PQb"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Xzibit",
+          "url": "https://open.spotify.com/artist/4tujQJicOnuZRLiBFdp3Ou"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Bitch Please",
+      "url": "https://open.spotify.com/track/5Sm1X46tna50RstHZvw072"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/712uvW1Vezq8WpQi38v2L9"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 288560,
+      "name": "Bitches Ain't Shit",
+      "url": "https://open.spotify.com/track/0JSCZdPOPR7d8Mfi09tIxU"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 288800,
+      "name": "Bitches Ain't Shit",
+      "url": "https://open.spotify.com/track/22763wCAdRd1wwwCN3CU8u"
+    },
+    {
+      "album": {
+        "name": "Uncle Sam's Curse",
+        "url": "https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb"
+      },
+      "artists": [
+        {
+          "name": "Above The Law",
+          "url": "https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-17",
+      "duration_ms": 267093,
+      "name": "Black Superman",
+      "url": "https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT"
+    },
+    {
+      "album": {
+        "name": "Blow The Whistle",
+        "url": "https://open.spotify.com/album/5GiqXho2S6vfntgRwSdhYp"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Blow the Whistle",
+      "url": "https://open.spotify.com/track/2lMg3lCMOGistaWBNGjuT3"
+    },
+    {
+      "album": {
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 205560,
+      "name": "Born and Raised In Compton",
+      "url": "https://open.spotify.com/track/23trPalTVGb4H4CzyHrQ9W"
+    },
+    {
+      "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/5VCY0uIkkoaaji9ciCLS0D"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 206826,
+      "name": "Bow Down",
+      "url": "https://open.spotify.com/track/2Vpj5colB0MPy3Zg5SITEC"
+    },
+    {
+      "album": {
+        "name": "N.W.A. And The Posse",
+        "url": "https://open.spotify.com/album/5fPat8IjkbKuwk27MTQIWy"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 339893,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/5RGXoZt1qxmAErdhbyKJKq"
+    },
+    {
+      "album": {
+        "name": "Cali Iz Active",
+        "url": "https://open.spotify.com/album/4BxPE4VcF5W6JVfL8Kvq2n"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 284200,
+      "name": "Cali Iz Active",
+      "url": "https://open.spotify.com/track/1n7CcZ5x0IbCW0FDzbJW0j"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Roger",
+          "url": "https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284906,
+      "name": "California Love - Original Version",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35"
+    },
+    {
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Cobby Supreme",
+          "url": "https://open.spotify.com/artist/1INyasBYh5SudQTfTXVkl7"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-12",
+      "duration_ms": 253826,
+      "name": "Checc Me out (feat. Cobby Supreme & Dom Kennedy)",
+      "url": "https://open.spotify.com/track/4ohNJqDAicClVSgUXyeBP3"
+    },
+    {
+      "album": {
+        "name": "Bootlegs And B-Sides",
+        "url": "https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273106,
+      "name": "Check Yo Self - Remix",
+      "url": "https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma"
+    },
+    {
+      "album": {
+        "name": "Below the Heavens",
+        "url": "https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-29",
+      "duration_ms": 265826,
+      "name": "Dancing In The Rain",
+      "url": "https://open.spotify.com/track/5BegRQCcJu4trXT6PPdih9"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Dear Mama",
+      "url": "https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9"
+    },
+    {
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 239066,
+      "name": "Do You See",
+      "url": "https://open.spotify.com/track/2e3YoddL43UkaSqhYGqfKz"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 338760,
+      "name": "Doggy Dogg World",
+      "url": "https://open.spotify.com/track/5HCxyNfUA6DMJtIHavfJnw"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "The Dramatics",
+          "url": "https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 338813,
+      "name": "Doggy Dogg World (feat. Tha Dogg Pound & The Dramatics)",
+      "url": "https://open.spotify.com/track/4JGed8NOXDTHmcwvGuqDiw"
+    },
+    {
+      "album": {
+        "name": "Safe + Sound",
+        "url": "https://open.spotify.com/album/2b0TUn2yyN7BH7LzoqYIRe"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352906,
+      "name": "Dollaz + Sense",
+      "url": "https://open.spotify.com/track/5xEm63lXBhJKZgjRDMWH3H"
+    },
+    {
+      "album": {
+        "name": "Labcabincalifornia",
+        "url": "https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 336293,
+      "name": "Drop",
+      "url": "https://open.spotify.com/track/1OtuQOXXwUlVtANl1FeYZg"
+    },
+    {
+      "album": {
+        "name": "In A Major Way",
+        "url": "https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mac Mall",
+          "url": "https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7"
+        },
+        {
+          "name": "Spice 1",
+          "url": "https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 269733,
+      "name": "Dusted 'N' Disgusted (feat. 2Pac, Mac Mall & Spice 1)",
+      "url": "https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265101,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/52IuMfbQa9aqRPz2oYPAI8"
+    },
+    {
+      "album": {
+        "name": "Crenshaw",
+        "url": "https://open.spotify.com/album/1C5gVWv1k7r0LxsrIL8OL8"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237013,
+      "name": "Face the World",
+      "url": "https://open.spotify.com/track/0A1owXuxPwqTQPqOJcmUGz"
+    },
+    {
+      "album": {
+        "name": "It Takes a Thief",
+        "url": "https://open.spotify.com/album/3AZYNdRI9wD3xaRYuqMmZB"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334440,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/3QlTzofanSqDWywxEzGGE2"
+    },
+    {
+      "album": {
+        "name": "It Takes a Thief",
+        "url": "https://open.spotify.com/album/72hHodJKJV6cbyA5etLyNb"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334440,
+      "name": "Fantastic Voyage",
+      "url": "https://open.spotify.com/track/5vpDsiVqiZLRwKAzQO708k"
+    },
+    {
+      "album": {
+        "name": "Ronald Dregan For President 2004: Dreganomics",
+        "url": "https://open.spotify.com/album/2xvk51ccjE7SThC1PM5E0b"
+      },
+      "artists": [
+        {
+          "name": "Mac Dre",
+          "url": "https://open.spotify.com/artist/4sv6VJ2QZlaSosz3kFlxQH"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-11",
+      "duration_ms": 224813,
+      "name": "Fellin' Myself",
+      "url": "https://open.spotify.com/track/4sqGlfDc7QCPvAvUBk4OKn"
+    },
+    {
+      "album": {
+        "name": "Mack 10",
+        "url": "https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO"
+      },
+      "artists": [
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 253800,
+      "name": "Foe Life",
+      "url": "https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 222293,
+      "name": "Forgot About Dre",
+      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "album": {
+        "name": "Born To Mack",
+        "url": "https://open.spotify.com/album/0kBwZw1LPQGcycJwuz9tei"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2023-04-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 573066,
+      "name": "Freaky Tales",
+      "url": "https://open.spotify.com/track/6s2N5hnHBJc9Satf7l2LrY"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 345717,
+      "name": "Fuck Tha Police",
+      "url": "https://open.spotify.com/track/5n8Aro6j1bEGIy7Tpo7FV7"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291053,
+      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+      "url": "https://open.spotify.com/track/21NA5Zggba7pyACm25h6k4"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 292186,
+      "name": "Fuck Wit Dre Day (And Everybody's Celebratin')",
+      "url": "https://open.spotify.com/track/04fX3oTJm5Zucg3Uf9aix0"
+    },
+    {
+      "album": {
+        "name": "Snoop Dogg Presents Tha Eastsidaz",
+        "url": "https://open.spotify.com/album/3xazCuE8vBmfptpeX0OkXs"
+      },
+      "artists": [
+        {
+          "name": "Tha Eastsidaz",
+          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
+        },
+        {
+          "name": "Butch Cassidy",
+          "url": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 273466,
+      "name": "G'd Up",
+      "url": "https://open.spotify.com/track/1zIXpzuCC7FM4kECt2eEzu"
+    },
+    {
+      "album": {
+        "name": "Terrorist Threats",
+        "url": "https://open.spotify.com/album/2fsMp83A31t6nqp1TvV7OB"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 293053,
+      "name": "Gangsta Nation",
+      "url": "https://open.spotify.com/track/65iyI1iybyv5ecsfBHSdUf"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7BeDynSPyJdyQ5JCYHpXal"
+      },
+      "artists": [
+        {
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 243706,
+      "name": "Gangsta's Paradise - Rerecorded",
+      "url": "https://open.spotify.com/track/18kwQvQ49ORXsoVFvOUGT3"
+    },
+    {
+      "album": {
+        "name": "Gettin' It (Album Number Ten)",
+        "url": "https://open.spotify.com/album/27q3JlNTwpv5Zvf7yDReHH"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        },
+        {
+          "name": "Parliament Funkadelic",
+          "url": "https://open.spotify.com/artist/6XswoC68grx55in1WQnJ7E"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341426,
+      "name": "Gettin' It (feat. Parliament Funkadelic)",
+      "url": "https://open.spotify.com/track/5K5dQsYdSdo2LKdepxbYAd"
+    },
+    {
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/0RePnBPZPGezxSLMAKXBzR"
+      },
+      "artists": [
+        {
+          "name": "Domino",
+          "url": "https://open.spotify.com/artist/31jkjldc2rO3Ko4O6gGAl1"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 259279,
+      "name": "Getto Jam",
+      "url": "https://open.spotify.com/track/2mGxDOaHdBWnJY7V0In8Vx"
+    },
+    {
+      "album": {
+        "name": "Lethal Injection",
+        "url": "https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-12-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231000,
+      "name": "Ghetto Bird - Remastered",
+      "url": "https://open.spotify.com/track/6M3lqzrkzSKrBehkeAxTXc"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Gin and Juice",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 211493,
+      "name": "Gin N Juice (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/7sPt2cfrg7DrVP52zfvS1i"
+    },
+    {
+      "album": {
+        "name": "Doggystyle (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2QioUoh1jheynkUHP4XsCN"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
+      "duration_ms": 141734,
+      "name": "Gz Up, Hoes Down",
+      "url": "https://open.spotify.com/track/0cCLG47Bxcj7GpCXmkKP5r"
+    },
+    {
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-30",
+      "duration_ms": 279854,
+      "name": "HiiiPower",
+      "url": "https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        }
+      ],
+      "date_added": "2022-01-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312626,
+      "name": "Hit 'Em Up - Single Version",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf"
+    },
+    {
+      "album": {
+        "name": "Bow Down",
+        "url": "https://open.spotify.com/album/5VCY0uIkkoaaji9ciCLS0D"
+      },
+      "artists": [
+        {
+          "name": "Westside Connection",
+          "url": "https://open.spotify.com/artist/3zNM2tRfTX6LI1lN2PlrTt"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "Hoo-Bangin' (WSCG Style)",
+      "url": "https://open.spotify.com/track/1cikrStdIjqYJrpM0gfFuo"
+    },
+    {
+      "album": {
+        "name": "Music To Driveby",
+        "url": "https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS"
+      },
+      "artists": [
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219266,
+      "name": "Hood Took Me Under",
+      "url": "https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F"
+    },
+    {
+      "album": {
+        "name": "Innercity Griots",
+        "url": "https://open.spotify.com/album/2LUv0RreD5HGpQZv7A5pRf"
+      },
+      "artists": [
+        {
+          "name": "Freestyle Fellowship",
+          "url": "https://open.spotify.com/artist/0IXabnQgJf7eO1hIF71YS9"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 217840,
+      "name": "Hot Potato",
+      "url": "https://open.spotify.com/track/2lHhAEAhCLCfigjpTvSBD1"
+    },
+    {
+      "album": {
+        "name": "Cypress Hill",
+        "url": "https://open.spotify.com/album/4tQSV1ZGpwlo3dBiTRuKvM"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252240,
+      "name": "How I Could Just Kill a Man",
+      "url": "https://open.spotify.com/track/6l4wMAXzI8RxIysQMYZY0w"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Shock G",
+          "url": "https://open.spotify.com/artist/7mFqeqDcctDWHGKY2AIAMl"
+        },
+        {
+          "name": "Money B",
+          "url": "https://open.spotify.com/artist/6VH75hkpvvNBk8qKVPUUwl"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-04",
+      "duration_ms": 258640,
+      "name": "I Get Around",
+      "url": "https://open.spotify.com/track/74kHlIr01X459gqsSdNilW"
+    },
+    {
+      "album": {
+        "name": "Operation Stackola",
+        "url": "https://open.spotify.com/album/5pMShIZc6oWiEtcQvXsKfb"
+      },
+      "artists": [
+        {
+          "name": "Luniz",
+          "url": "https://open.spotify.com/artist/3z3g65U7mmyyBmmDfsQK9x"
+        },
+        {
+          "name": "Michael Marshall",
+          "url": "https://open.spotify.com/artist/2FT75iYuWmycqYrXbVD9cn"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "I Got 5 On It",
+      "url": "https://open.spotify.com/track/4IYKjN1DrYzxKXt0umJqsG"
+    },
+    {
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174600,
+      "name": "I Wanna Get High",
+      "url": "https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd"
+    },
+    {
+      "album": {
+        "name": "Get In Where You Fit In",
+        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 361266,
+      "name": "I'm a Player - Street Version",
+      "url": "https://open.spotify.com/track/4XiZFtOlgXYtrp88tGNnk8"
+    },
+    {
+      "album": {
+        "name": "Poetic Justice: Music from the Motion Picture",
+        "url": "https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3"
+      },
+      "artists": [
+        {
+          "name": "Mista Grimm",
+          "url": "https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 322226,
+      "name": "Indo Smoke",
+      "url": "https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK"
+    },
+    {
+      "album": {
+        "name": "Black Sunday",
+        "url": "https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Insane in the Brain",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv"
+    },
+    {
+      "album": {
+        "name": "The Predator",
+        "url": "https://open.spotify.com/album/71HM1CMYWeZzws8pyiEn46"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "It Was A Good Day",
+      "url": "https://open.spotify.com/track/2qOm7ukLyHUXWyR4ZWLwxA"
+    },
+    {
+      "album": {
+        "name": "No One Can Do It Better",
+        "url": "https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD"
+      },
+      "artists": [
+        {
+          "name": "The D.O.C.",
+          "url": "https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269973,
+      "name": "It's Funky Enough - Remastered Single",
+      "url": "https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b"
+    },
+    {
+      "album": {
+        "name": "Killa Kali",
+        "url": "https://open.spotify.com/album/47eDm7TkEc7Z2t37rnUBDK"
+      },
+      "artists": [
+        {
+          "name": "Celly Cel",
+          "url": "https://open.spotify.com/artist/6k7TX5dxiKZiwMWTn8ZKbl"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 324706,
+      "name": "It's Goin' Down",
+      "url": "https://open.spotify.com/track/6QdZhhQc4wYEi7amJKuWqu"
+    },
+    {
+      "album": {
+        "name": "Doctor's Advocate",
+        "url": "https://open.spotify.com/album/0GKZO3H9pNVgTuhwCJ7TJp"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Junior Reid",
+          "url": "https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-28",
+      "duration_ms": 257600,
+      "name": "It's Okay (One Blood)",
+      "url": "https://open.spotify.com/track/5hg3xm9mxcz9Xb6r59y9Ow"
+    },
+    {
+      "album": {
+        "name": "Kill At Will",
+        "url": "https://open.spotify.com/album/7oeFV70h2fDapspboicRP5"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 177533,
+      "name": "Jackin' For Beats",
+      "url": "https://open.spotify.com/track/2I7lgP1f5p5cKH7aNHtEEx"
+    },
+    {
+      "album": {
+        "name": "Get In Where You Fit In",
+        "url": "https://open.spotify.com/album/21dTXIKc4O3tNNHMiOsOQ1"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441826,
+      "name": "Just Another Day",
+      "url": "https://open.spotify.com/track/21GzqgubvWR6Iks9IbDmJE"
+    },
+    {
+      "album": {
+        "name": "Friday (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28jbQJCBOGrZHnrkTb6uw5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305573,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/7jIujRjK5JKNrMCcAvYUTN"
+    },
+    {
+      "album": {
+        "name": "Keep Their Heads Ringin'",
+        "url": "https://open.spotify.com/album/74iv82AYPjxyWpGbt9LNuP"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310226,
+      "name": "Keep Their Heads Ringin'",
+      "url": "https://open.spotify.com/track/1rylJ0VXvhOzLGNm401iaI"
+    },
+    {
+      "album": {
+        "name": "Strictly 4 My N.I.G.G.A.Z...",
+        "url": "https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262506,
+      "name": "Keep Ya Head Up",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B"
+    },
+    {
+      "album": {
+        "name": "Hispanic Causing Panic",
+        "url": "https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX"
+      },
+      "artists": [
+        {
+          "name": "Kid Frost",
+          "url": "https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209066,
+      "name": "La Raza",
+      "url": "https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar"
+    },
+    {
+      "album": {
+        "name": "It's A Compton Thang!",
+        "url": "https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY"
+      },
+      "artists": [
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-19",
+      "duration_ms": 294266,
+      "name": "Late Night Hype",
+      "url": "https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx"
+    },
+    {
+      "album": {
+        "name": "Tha Last Meal",
+        "url": "https://open.spotify.com/album/71VPCdeQQs1dmyVbflhPjX"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Master P",
+          "url": "https://open.spotify.com/artist/7zICaxnDB9ZprDSiFpvbbW"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Butch Cassidy",
+          "url": "https://open.spotify.com/artist/3uISNNuONokIh21KiNharS"
+        },
+        {
+          "name": "Tha Eastsidaz",
+          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0YHI5hydPPth6J5UOzdLDX"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jewell",
+          "url": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260333,
+      "name": "Let Me Ride",
+      "url": "https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Jewell",
+          "url": "https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 261293,
+      "name": "Let Me Ride",
+      "url": "https://open.spotify.com/track/1pjDKRg5WddCDSlG5PXcKy"
+    },
+    {
+      "album": {
+        "name": "Dogg Food",
+        "url": "https://open.spotify.com/album/37VmP0VgIeJWHMurcTMeJL"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 204440,
+      "name": "Let's Play House",
+      "url": "https://open.spotify.com/track/3IrIfSxQaRgLCTKp6ru4ez"
+    },
+    {
+      "album": {
+        "name": "Dogg Food",
+        "url": "https://open.spotify.com/album/7ckn7E8vMphRkOhbAsMY1W"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        },
+        {
+          "name": "Michel'le",
+          "url": "https://open.spotify.com/artist/4D0WfOUqTzqKysXt33VL3j"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 204521,
+      "name": "Let's Play House",
+      "url": "https://open.spotify.com/track/0CMgg7xeATgHXd9MmpO6rU"
+    },
+    {
+      "album": {
+        "name": "Brothas Doobie",
+        "url": "https://open.spotify.com/album/33SkKSM72vyJvx5oc13351"
+      },
+      "artists": [
+        {
+          "name": "Funkdoobiest",
+          "url": "https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-08",
+      "duration_ms": 219466,
+      "name": "Lost in Thought",
+      "url": "https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350120,
+      "name": "m.A.A.d city",
+      "url": "https://open.spotify.com/track/2cDCojn6uIBM6A5xTAbl3H"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Dramacydal",
+          "url": "https://open.spotify.com/artist/4jVkIBarZULIhNDEnxDKjp"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 279133,
+      "name": "Me Against The World",
+      "url": "https://open.spotify.com/track/76wJIkA63AgwA92hUhpE2V"
+    },
+    {
+      "album": {
+        "name": "I Wish My Brother George Was Here",
+        "url": "https://open.spotify.com/album/0AK7woKmcPwiCyv3SDiKor"
+      },
+      "artists": [
+        {
+          "name": "Del The Funky Homosapien",
+          "url": "https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-29",
+      "duration_ms": 253626,
+      "name": "Mistadobalina",
+      "url": "https://open.spotify.com/track/2ECYtCiyC3zLvFTybWv75p"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/0AOvNRgl0SMfOibWA5bP8o"
+    },
+    {
+      "album": {
+        "name": "2nd II None",
+        "url": "https://open.spotify.com/album/0xwxoALWTPNBxB6Xq9Fy66"
+      },
+      "artists": [
+        {
+          "name": "2nd II None",
+          "url": "https://open.spotify.com/artist/1rlHVdoyfG6pQkzcMWI4dr"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-01",
+      "duration_ms": 196466,
+      "name": "More Than A Player",
+      "url": "https://open.spotify.com/track/3dEOHQ7KHzgBSStXvj6Df1"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 218186,
+      "name": "Murder Was The Case",
+      "url": "https://open.spotify.com/track/1z9EbieFSoVLz7A3Q2DCiu"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/57elsC8jWIydd3qGLf5w8C"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Daz Dillinger",
+          "url": "https://open.spotify.com/artist/5Jz9kKRnCRLTodCH58MyB4"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218186,
+      "name": "Murder Was The Case (feat. Dat Nigga Daz)",
+      "url": "https://open.spotify.com/track/1wb83NCHLygI2dofCeVP2c"
+    },
+    {
+      "album": {
+        "name": "Illegal Business?",
+        "url": "https://open.spotify.com/album/1byFE0b9hm2AhQa2mtHRIp"
+      },
+      "artists": [
+        {
+          "name": "Mac Mall",
+          "url": "https://open.spotify.com/artist/18jS3V7OkXYfDu3CEK6a0T"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-07",
+      "duration_ms": 244733,
+      "name": "My Opinion",
+      "url": "https://open.spotify.com/track/5mQZ5pln1nychtPCtG88em"
+    },
+    {
+      "album": {
+        "name": "Hip-Hop Legacy, Vol. 8",
+        "url": "https://open.spotify.com/album/6lC6kysYRpVbkJsWQDsybb"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 290272,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/5obHDgSMnUgVmtemERcL08"
+    },
+    {
+      "album": {
+        "name": "Dogg Food",
+        "url": "https://open.spotify.com/album/7l1KUvadF1rcUXRhviJXXD"
+      },
+      "artists": [
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 290440,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/3ooAjhyOZ1xttGD0iq1GVO"
+    },
+    {
+      "album": {
+        "name": "Death Certificate",
+        "url": "https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313546,
+      "name": "No Vaseline",
+      "url": "https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si"
+    },
+    {
+      "album": {
+        "name": "G Funk Classics, Vols. 1 & 2",
+        "url": "https://open.spotify.com/album/65VsPlhdWF5PH1CViFskY5"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 274440,
+      "name": "Nobody Does It Better",
+      "url": "https://open.spotify.com/track/7miy73aP7NFhj8PL7V4VqM"
+    },
+    {
+      "album": {
+        "name": "Best Of Mack 10",
+        "url": "https://open.spotify.com/album/2esSqztHIhZfXup4PihEoD"
+      },
+      "artists": [
+        {
+          "name": "Mack 10",
+          "url": "https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob"
+        },
+        {
+          "name": "Tha Dogg Pound",
+          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 241360,
+      "name": "Nothin' But The Cavi Hit",
+      "url": "https://open.spotify.com/track/2rwmKpWW6o6anOhvcyiJOw"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237573,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
+    },
+    {
+      "album": {
+        "name": "The Chronic",
+        "url": "https://open.spotify.com/album/6vdFSyhPjL4dZFkgRtToXH"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 238466,
+      "name": "Nuthin' But A \"G\" Thang",
+      "url": "https://open.spotify.com/track/4YtoipFgf4k0AfD17ZfD5X"
+    },
+    {
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 321506,
+      "name": "Otha Fish",
+      "url": "https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx"
+    },
+    {
+      "album": {
+        "name": "Bizarre Ride II The Pharcyde",
+        "url": "https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303493,
+      "name": "Passin' Me By",
+      "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts"
+    },
+    {
+      "album": {
+        "name": "Explicit Game",
+        "url": "https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P"
+      },
+      "artists": [
+        {
+          "name": "Dru Down",
+          "url": "https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-04",
+      "duration_ms": 254093,
+      "name": "Pimp Of The Year",
+      "url": "https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC"
+    },
+    {
+      "album": {
+        "name": "Don't Fight The Feelin'",
+        "url": "https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793"
+      },
+      "artists": [
+        {
+          "name": "Rappin' 4-Tay",
+          "url": "https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266333,
+      "name": "Playaz Club",
+      "url": "https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla"
+    },
+    {
+      "album": {
+        "name": "At Your Own Risk",
+        "url": "https://open.spotify.com/album/7C8WEIuuruwfPcmWqEnvmt"
+      },
+      "artists": [
+        {
+          "name": "King Tee",
+          "url": "https://open.spotify.com/artist/0zCyco6JHJv7zKHbyMmsut"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        },
+        {
+          "name": "Breeze",
+          "url": "https://open.spotify.com/artist/4NQZbpX2Kc5iQqna5szbEp"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 299026,
+      "name": "Played Like A Piano",
+      "url": "https://open.spotify.com/track/623SXRZfjnTnvCAM0CT1CP"
+    },
+    {
+      "album": {
+        "name": "Gangsta Memorial",
+        "url": "https://open.spotify.com/album/63e4jpPrJzjGsTxM4QOOFb"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332733,
+      "name": "Real Muthaphuckkin' G's",
+      "url": "https://open.spotify.com/track/53BZ6XygAoubR5DU5w38Vq"
+    },
+    {
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248866,
+      "name": "Regulate",
+      "url": "https://open.spotify.com/track/7nYvUtkQMx1v80S2FH2s9J"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-27",
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
+    },
+    {
+      "album": {
+        "name": "Labcabincalifornia",
+        "url": "https://open.spotify.com/album/25TUVygHpPTMBO4qq22MI0"
+      },
+      "artists": [
+        {
+          "name": "The Pharcyde",
+          "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-05",
+      "duration_ms": 296266,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/1i7tKveM6Wo3dG31c5OwAL"
+    },
+    {
+      "album": {
+        "name": "Hi-Five: Digital Underground",
+        "url": "https://open.spotify.com/album/0D0YA85OKpSDvmgmoPJPn8"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 237533,
+      "name": "Same Song - Edit Version",
+      "url": "https://open.spotify.com/track/2UGDIXZk00zzAhncymBXo1"
+    },
+    {
+      "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 239226,
+      "name": "So Many Tears",
+      "url": "https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2"
+    },
+    {
+      "album": {
+        "name": "In A Major Way",
+        "url": "https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Suga T",
+          "url": "https://open.spotify.com/artist/4cX9ggFy3pBFNyJOoVQCHF"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 250000,
+      "name": "Sprinkle Me (feat. Suga-T)",
+      "url": "https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-29",
+      "duration_ms": 270586,
+      "name": "Still D.R.E.",
+      "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "album": {
+        "name": "Straight Outta Compton",
+        "url": "https://open.spotify.com/album/0Y7qkJVZ06tS2GUCDptzyW"
+      },
+      "artists": [
+        {
+          "name": "N.W.A.",
+          "url": "https://open.spotify.com/artist/4EnEZVjo3w1cwcQYePccay"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258687,
+      "name": "Straight Outta Compton",
+      "url": "https://open.spotify.com/track/6KIKRz9eSTXdNsGUnomdtW"
+    },
+    {
+      "album": {
+        "name": "The Best of MC Eiht",
+        "url": "https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB"
+      },
+      "artists": [
+        {
+          "name": "MC Eiht",
+          "url": "https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-22",
+      "duration_ms": 274306,
+      "name": "Straight Up Menace",
+      "url": "https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO"
+    },
+    {
+      "album": {
+        "name": "Amerikkka's Nightmare",
+        "url": "https://open.spotify.com/album/7zOLP3fNyHcY3kKlhGhl9o"
+      },
+      "artists": [
+        {
+          "name": "Spice 1",
+          "url": "https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-19",
+      "duration_ms": 287066,
+      "name": "Strap On The Side",
+      "url": "https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6"
+    },
+    {
+      "album": {
+        "name": "When We Wuz Bangin",
+        "url": "https://open.spotify.com/album/3pmtX0h9cMvyBcwWx5oz3w"
+      },
+      "artists": [
+        {
+          "name": "Compton's Most Wanted",
+          "url": "https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274840,
+      "name": "Streiht Up Menace",
+      "url": "https://open.spotify.com/track/2sXMYMpvGVJJBIwrzNf0Lr"
+    },
+    {
+      "album": {
+        "name": "This Is The Shack",
+        "url": "https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU"
+      },
+      "artists": [
+        {
+          "name": "Dove Shack",
+          "url": "https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238800,
+      "name": "Summertime In The LBC",
+      "url": "https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN"
+    },
+    {
+      "album": {
+        "name": "Short Dog's In The House",
+        "url": "https://open.spotify.com/album/3zelBkWHW8aaKkSSX1fdSt"
+      },
+      "artists": [
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302133,
+      "name": "The Ghetto",
+      "url": "https://open.spotify.com/track/3B6WDceNe6lUQnczntRIuf"
+    },
+    {
+      "album": {
+        "name": "Sex Packets",
+        "url": "https://open.spotify.com/album/6HWrL7hDFxfc8Z17JI9JIL"
+      },
+      "artists": [
+        {
+          "name": "Digital Underground",
+          "url": "https://open.spotify.com/artist/7jocoSCuCtpCxCI6IbP8ye"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391693,
+      "name": "The Humpty Dance",
+      "url": "https://open.spotify.com/track/0YEC3pNS0uIKvZb5u4lgsu"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161506,
+      "name": "The Next Episode",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+    },
+    {
+      "album": {
+        "name": "AmeriKKKa's Most Wanted",
+        "url": "https://open.spotify.com/album/3AI5kAUjgNtZBwFRi6opDc"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-07",
+      "duration_ms": 193200,
+      "name": "The Nigga Ya Love To Hate",
+      "url": "https://open.spotify.com/track/3Mzqw2mz9YMKjjCEmypYfZ"
+    },
+    {
+      "album": {
+        "name": "Curb Servin'",
+        "url": "https://open.spotify.com/album/5ZG9lsrp6Dw9nYH7V2Jsuh"
+      },
+      "artists": [
+        {
+          "name": "Wc And The Maad Circle",
+          "url": "https://open.spotify.com/artist/2BNJSSIoivoAWGlyRb6nhq"
+        }
+      ],
+      "date_added": "2022-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 231840,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4tx7dIsrwf5fICyePU8NFk"
+    },
+    {
+      "album": {
+        "name": "Ghetto Heisman",
+        "url": "https://open.spotify.com/album/6oFqjPc6qSFepKCWgO8BGw"
+      },
+      "artists": [
+        {
+          "name": "WC",
+          "url": "https://open.spotify.com/artist/3NgwMzys77S7sgfh2W5k0V"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 227866,
+      "name": "The Streets - Re-Twist",
+      "url": "https://open.spotify.com/track/5a251qN4R86hro8UZGuO4E"
+    },
+    {
+      "album": {
+        "name": "Regulate\u2026 G Funk Era",
+        "url": "https://open.spotify.com/album/2VMGv3inRLPM4GOMXf37qu"
+      },
+      "artists": [
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        },
+        {
+          "name": "O.G.L.B.",
+          "url": "https://open.spotify.com/artist/23Ul4QNOkm2gasKycag0UK"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "This D.J.",
+      "url": "https://open.spotify.com/track/2ImuQo1g14CTR9hZAZD3aQ"
+    },
+    {
+      "album": {
+        "name": "Neighborhood Watch",
+        "url": "https://open.spotify.com/album/267Oyc2f4oyawPYto13f2S"
+      },
+      "artists": [
+        {
+          "name": "Dilated Peoples",
+          "url": "https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-17",
+      "duration_ms": 245826,
+      "name": "This Way",
+      "url": "https://open.spotify.com/track/1unbLw4cvR8za4YpHFWcN7"
+    },
+    {
+      "album": {
+        "name": "Quik Is The Name",
+        "url": "https://open.spotify.com/album/6qzvk2A6wQpy1f69hrWj3B"
+      },
+      "artists": [
+        {
+          "name": "DJ Quik",
+          "url": "https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323266,
+      "name": "Tonite",
+      "url": "https://open.spotify.com/track/2hluGQtmPypU3tsQudCQ3U"
+    },
+    {
+      "album": {
+        "name": "Toot It And Boot It",
+        "url": "https://open.spotify.com/album/4X2eBBfbscyp3TPyLHqNGV"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-01-19",
+      "duration_ms": 243746,
+      "name": "Toot It And Boot It",
+      "url": "https://open.spotify.com/track/3AqcBOSlJF7xMgvLpQoa3c"
+    },
+    {
+      "album": {
+        "name": "My Ghetto Report Card",
+        "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Kandi Girl",
+          "url": "https://open.spotify.com/artist/41TccBHnkaVhhgCgl83JU8"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-10",
+      "duration_ms": 202720,
+      "name": "U and Dat (feat. T. Pain & Kandi Girl)",
+      "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
+    },
+    {
+      "album": {
+        "name": "Kuruption!",
+        "url": "https://open.spotify.com/album/4dSH1oNZoziNjKAanUimWd"
+      },
+      "artists": [
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 250040,
+      "name": "We Can Freak It",
+      "url": "https://open.spotify.com/track/2OCTC6cPRdI3Dvdb25jRDC"
+    },
+    {
+      "album": {
+        "name": "Power In Numbers",
+        "url": "https://open.spotify.com/album/2w9KjhjN2oMGhEvE15HK5T"
+      },
+      "artists": [
+        {
+          "name": "Jurassic 5",
+          "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B"
+        }
+      ],
+      "date_added": "2022-01-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-08",
+      "duration_ms": 188600,
+      "name": "What's Golden",
+      "url": "https://open.spotify.com/track/0SADXPubFbFXu7ZR3M86io"
+    },
+    {
+      "album": {
+        "name": "Informal Introduction",
+        "url": "https://open.spotify.com/album/6QpwsJgsrPeiL65GlKbY4o"
+      },
+      "artists": [
+        {
+          "name": "Shade Sheist",
+          "url": "https://open.spotify.com/artist/6E8pGolyeInc820eQQak70"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 260026,
+      "name": "Where I Wanna Be",
+      "url": "https://open.spotify.com/track/3wQ8RcbLwNRH53FelAVCkX"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2020-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246320,
+      "name": "Who Am I (What's My Name)?",
+      "url": "https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC"
+    },
+    {
+      "album": {
+        "name": "Doggystyle",
+        "url": "https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP"
+      },
+      "artists": [
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246200,
+      "name": "Who Am I (What\u2019s My Name)?",
+      "url": "https://open.spotify.com/track/0eO8MW9YSTK3CjdaTYKlhF"
+    },
+    {
+      "album": {
+        "name": "Street Gospel",
+        "url": "https://open.spotify.com/album/1ZAEMU1aaMpCQXKLJiuI7Q"
+      },
+      "artists": [
+        {
+          "name": "Suga Free",
+          "url": "https://open.spotify.com/artist/7AjokpCIqf0gHMZJlodw2k"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 265000,
+      "name": "Why U Bullshittin'?",
+      "url": "https://open.spotify.com/track/3zb1zBmkrPF6VW8RhlSYA1"
+    },
+    {
+      "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
+      },
+      "artists": [
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        },
+        {
+          "name": "Hittman",
+          "url": "https://open.spotify.com/artist/3np2OYRZAgI4e6lxeGmGr8"
+        },
+        {
+          "name": "Six-Two",
+          "url": "https://open.spotify.com/artist/4xko5t5site4jVwopoCF21"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "date_added": "2021-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-02-12",
+      "duration_ms": 215200,
+      "name": "Xxplosive",
+      "url": "https://open.spotify.com/track/0Ed7MeXx64f6OcIuoTRCg1"
+    },
+    {
+      "album": {
+        "name": "Make Way For The Motherlode",
+        "url": "https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl"
+      },
+      "artists": [
+        {
+          "name": "Yo-Yo",
+          "url": "https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS"
+        },
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-09",
+      "duration_ms": 304666,
+      "name": "You Can't Play with My Yo-Yo (feat. Ice Cube)",
+      "url": "https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t"
+    },
+    {
+      "album": {
+        "name": "Lethal Injection",
+        "url": "https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p"
+      },
+      "artists": [
+        {
+          "name": "Ice Cube",
+          "url": "https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA"
+        }
+      ],
+      "date_added": "2020-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "You Know How We Do It",
+      "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9sQDbOMReFI"
 }

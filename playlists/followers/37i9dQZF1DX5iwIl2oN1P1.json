@@ -1,599 +1,1967 @@
 {
-  "2022-05-11": 69683,
-  "2022-05-12": 69696,
-  "2022-05-13": 69700,
-  "2022-05-14": 69708,
-  "2022-05-15": 69714,
-  "2022-05-16": 69731,
-  "2022-05-17": 69752,
-  "2022-05-18": 69770,
-  "2022-05-19": 69777,
-  "2022-05-20": 69797,
-  "2022-05-21": 69815,
-  "2022-05-22": 69815,
-  "2022-05-23": 69838,
-  "2022-05-24": 69851,
-  "2022-05-25": 69857,
-  "2022-05-26": 69858,
-  "2022-05-27": 69865,
-  "2022-05-28": 69876,
-  "2022-05-29": 69879,
-  "2022-05-30": 69902,
-  "2022-05-31": 69902,
-  "2022-06-01": 69914,
-  "2022-06-02": 69915,
-  "2022-06-03": 69919,
-  "2022-06-04": 69925,
-  "2022-06-05": 69934,
-  "2022-06-06": 69958,
-  "2022-06-07": 69960,
-  "2022-06-08": 69965,
-  "2022-06-09": 69976,
-  "2022-06-10": 69982,
-  "2022-06-11": 69988,
-  "2022-06-12": 69996,
-  "2022-06-13": 70011,
-  "2022-06-14": 70022,
-  "2022-06-15": 70034,
-  "2022-06-16": 70037,
-  "2022-06-17": 70042,
-  "2022-06-18": 70052,
-  "2022-06-19": 70069,
-  "2022-06-20": 70069,
-  "2022-06-21": 70071,
-  "2022-06-22": 70086,
-  "2022-06-23": 70086,
-  "2022-06-24": 70086,
-  "2022-06-25": 70100,
-  "2022-06-26": 70108,
-  "2022-06-27": 70108,
-  "2022-06-28": 70134,
-  "2022-06-29": 70146,
-  "2022-06-30": 70150,
-  "2022-07-01": 70155,
-  "2022-07-02": 70155,
-  "2022-07-03": 70161,
-  "2022-07-04": 70173,
-  "2022-07-05": 70183,
-  "2022-07-06": 70188,
-  "2022-07-07": 70191,
-  "2022-07-08": 70197,
-  "2022-07-09": 70205,
-  "2022-07-10": 70201,
-  "2022-07-11": 70217,
-  "2022-07-12": 70219,
-  "2022-07-13": 70222,
-  "2022-07-14": 70230,
-  "2022-07-15": 70235,
-  "2022-07-16": 70244,
-  "2022-07-17": 70254,
-  "2022-07-18": 70273,
-  "2022-07-19": 70277,
-  "2022-07-20": 70288,
-  "2022-07-21": 70292,
-  "2022-07-22": 70303,
-  "2022-07-23": 70309,
-  "2022-07-24": 70316,
-  "2022-07-25": 70320,
-  "2022-07-26": 70329,
-  "2022-07-27": 70338,
-  "2022-07-28": 70344,
-  "2022-07-29": 70352,
-  "2022-07-30": 70361,
-  "2022-07-31": 70361,
-  "2022-08-01": 70374,
-  "2022-08-02": 70391,
-  "2022-08-03": 70391,
-  "2022-08-04": 70396,
-  "2022-08-05": 70402,
-  "2022-08-06": 70412,
-  "2022-08-07": 70425,
-  "2022-08-08": 70438,
-  "2022-08-09": 70457,
-  "2022-08-10": 70464,
-  "2022-08-11": 70469,
-  "2022-08-12": 70472,
-  "2022-08-13": 70481,
-  "2022-08-14": 70493,
-  "2022-08-15": 70514,
-  "2022-08-16": 70520,
-  "2022-08-17": 70527,
-  "2022-08-18": 70537,
-  "2022-08-19": 70544,
-  "2022-08-20": 70552,
-  "2022-08-21": 70564,
-  "2022-08-22": 70588,
-  "2022-08-23": 70593,
-  "2022-08-24": 70605,
-  "2022-08-25": 70613,
-  "2022-08-26": 70618,
-  "2022-08-27": 70627,
-  "2022-08-28": 70636,
-  "2022-08-29": 70663,
-  "2022-08-30": 70684,
-  "2022-08-31": 70691,
-  "2022-09-01": 70704,
-  "2022-09-02": 70719,
-  "2022-09-03": 70733,
-  "2022-09-04": 70740,
-  "2022-09-05": 70777,
-  "2022-09-06": 70790,
-  "2022-09-07": 70808,
-  "2022-09-09": 70830,
-  "2022-09-10": 70845,
-  "2022-09-11": 70857,
-  "2022-09-12": 70892,
-  "2022-09-13": 70905,
-  "2022-09-15": 70925,
-  "2022-09-16": 70945,
-  "2022-09-17": 70958,
-  "2022-09-18": 70985,
-  "2022-09-19": 71034,
-  "2022-09-20": 71051,
-  "2022-09-21": 71064,
-  "2022-09-22": 71077,
-  "2022-09-23": 71088,
-  "2022-09-24": 71102,
-  "2022-09-25": 71115,
-  "2022-09-26": 71147,
-  "2022-09-27": 71158,
-  "2022-09-28": 71164,
-  "2022-09-29": 71172,
-  "2022-09-30": 71179,
-  "2022-10-01": 71196,
-  "2022-10-02": 71210,
-  "2022-10-03": 71238,
-  "2022-10-04": 71243,
-  "2022-10-05": 71260,
-  "2022-10-06": 71265,
-  "2022-10-07": 71273,
-  "2022-10-08": 71290,
-  "2022-10-09": 71319,
-  "2022-10-10": 71323,
-  "2022-10-11": 71333,
-  "2022-10-12": 71348,
-  "2022-10-13": 71354,
-  "2022-10-14": 71367,
-  "2022-10-15": 71384,
-  "2022-10-16": 71406,
-  "2022-10-17": 71433,
-  "2022-10-18": 71442,
-  "2022-10-19": 71450,
-  "2022-10-20": 71469,
-  "2022-10-21": 71482,
-  "2022-10-22": 71492,
-  "2022-10-23": 71500,
-  "2022-10-24": 71528,
-  "2022-10-25": 71542,
-  "2022-10-26": 71545,
-  "2022-10-27": 71560,
-  "2022-10-28": 71577,
-  "2022-10-29": 71588,
-  "2022-10-30": 71601,
-  "2022-10-31": 71633,
-  "2022-11-01": 71638,
-  "2022-11-02": 71650,
-  "2022-11-03": 71662,
-  "2022-11-04": 71676,
-  "2022-11-05": 71707,
-  "2022-11-06": 71720,
-  "2022-11-07": 71758,
-  "2022-11-08": 71776,
-  "2022-11-09": 71791,
-  "2022-11-10": 71800,
-  "2022-11-11": 71812,
-  "2022-11-12": 71828,
-  "2022-11-13": 71838,
-  "2022-11-14": 71865,
-  "2022-11-15": 71879,
-  "2022-11-16": 71897,
-  "2022-11-17": 71907,
-  "2022-11-18": 71915,
-  "2022-11-19": 71917,
-  "2022-11-20": 71937,
-  "2022-11-21": 71947,
-  "2022-11-22": 71979,
-  "2022-11-23": 71977,
-  "2022-11-24": 72021,
-  "2022-11-25": 72040,
-  "2022-11-26": 72055,
-  "2022-11-27": 72070,
-  "2022-11-28": 72087,
-  "2022-11-29": 72100,
-  "2022-11-30": 72113,
-  "2022-12-01": 72118,
-  "2022-12-02": 72124,
-  "2022-12-03": 72142,
-  "2022-12-04": 72148,
-  "2022-12-05": 72169,
-  "2022-12-06": 72177,
-  "2022-12-07": 72183,
-  "2022-12-08": 72196,
-  "2022-12-09": 72202,
-  "2022-12-10": 72202,
-  "2022-12-11": 72211,
-  "2022-12-12": 72226,
-  "2022-12-13": 72237,
-  "2022-12-14": 72243,
-  "2022-12-15": 72249,
-  "2022-12-16": 72260,
-  "2022-12-17": 72269,
-  "2022-12-18": 72279,
-  "2022-12-19": 72305,
-  "2022-12-20": 72322,
-  "2022-12-21": 72322,
-  "2022-12-22": 72331,
-  "2022-12-24": 72347,
-  "2022-12-25": 72359,
-  "2022-12-26": 72365,
-  "2022-12-27": 72372,
-  "2022-12-28": 72376,
-  "2022-12-29": 72386,
-  "2022-12-30": 72385,
-  "2022-12-31": 72395,
-  "2023-01-01": 72411,
-  "2023-01-02": 72433,
-  "2023-01-03": 72443,
-  "2023-01-04": 72457,
-  "2023-01-05": 72477,
-  "2023-01-06": 72492,
-  "2023-01-07": 72513,
-  "2023-01-08": 72517,
-  "2023-01-09": 72556,
-  "2023-01-10": 72568,
-  "2023-01-11": 72592,
-  "2023-01-12": 72608,
-  "2023-01-13": 72618,
-  "2023-01-14": 72646,
-  "2023-01-15": 72650,
-  "2023-01-16": 72689,
-  "2023-01-17": 72703,
-  "2023-01-18": 72711,
-  "2023-01-19": 72721,
-  "2023-01-20": 72740,
-  "2023-01-21": 72747,
-  "2023-01-22": 72754,
-  "2023-01-23": 72794,
-  "2023-01-24": 72814,
-  "2023-01-25": 72828,
-  "2023-01-26": 72846,
-  "2023-01-27": 72855,
-  "2023-01-28": 72867,
-  "2023-01-29": 72881,
-  "2023-01-30": 72908,
-  "2023-01-31": 72908,
-  "2023-02-01": 72923,
-  "2023-02-02": 72944,
-  "2023-02-03": 72957,
-  "2023-02-04": 72976,
-  "2023-02-05": 72992,
-  "2023-02-06": 73023,
-  "2023-02-07": 73034,
-  "2023-02-08": 73061,
-  "2023-02-09": 73061,
-  "2023-02-10": 73066,
-  "2023-02-11": 73078,
-  "2023-02-12": 73116,
-  "2023-02-13": 73124,
-  "2023-02-14": 73124,
-  "2023-02-15": 73134,
-  "2023-02-16": 73144,
-  "2023-02-17": 73150,
-  "2023-02-18": 73181,
-  "2023-02-19": 73182,
-  "2023-02-20": 73261,
-  "2023-02-21": 73359,
-  "2023-02-22": 73435,
-  "2023-02-23": 73532,
-  "2023-02-24": 73627,
-  "2023-02-25": 73739,
-  "2023-02-26": 73800,
-  "2023-02-27": 74029,
-  "2023-02-28": 74029,
-  "2023-03-01": 74120,
-  "2023-03-02": 74202,
-  "2023-03-03": 74297,
-  "2023-03-04": 74374,
-  "2023-03-05": 74598,
-  "2023-03-06": 74598,
-  "2023-03-07": 74699,
-  "2023-03-08": 74752,
-  "2023-03-09": 74836,
-  "2023-03-10": 74940,
-  "2023-03-11": 75042,
-  "2023-03-12": 75133,
-  "2023-03-13": 75291,
-  "2023-03-14": 75371,
-  "2023-03-15": 75472,
-  "2023-03-16": 75567,
-  "2023-03-17": 75567,
-  "2023-03-18": 75726,
-  "2023-03-19": 75816,
-  "2023-03-20": 75971,
-  "2023-03-21": 76056,
-  "2023-03-22": 76158,
-  "2023-03-23": 76247,
-  "2023-03-24": 76247,
-  "2023-03-25": 76406,
-  "2023-03-26": 76491,
-  "2023-03-27": 76653,
-  "2023-03-28": 76734,
-  "2023-03-29": 76854,
-  "2023-03-30": 77011,
-  "2023-03-31": 77011,
-  "2023-04-01": 77087,
-  "2023-04-02": 77171,
-  "2023-04-03": 77306,
-  "2023-04-04": 77393,
-  "2023-04-05": 77494,
-  "2023-04-06": 77584,
-  "2023-04-07": 77670,
-  "2023-04-09": 77880,
-  "2023-04-10": 78046,
-  "2023-04-11": 78229,
-  "2023-04-12": 78229,
-  "2023-04-13": 78324,
-  "2023-04-14": 78390,
-  "2023-04-15": 78486,
-  "2023-04-16": 78561,
-  "2023-04-17": 78708,
-  "2023-04-18": 78801,
-  "2023-04-19": 78912,
-  "2023-04-20": 79007,
-  "2023-04-21": 79091,
-  "2023-04-22": 79181,
-  "2023-04-23": 79274,
-  "2023-04-24": 79420,
-  "2023-04-25": 79500,
-  "2023-04-26": 79607,
-  "2023-04-27": 79697,
-  "2023-04-28": 79776,
-  "2023-04-29": 79864,
-  "2023-04-30": 79933,
-  "2023-05-01": 80082,
-  "2023-05-02": 80175,
-  "2023-05-03": 80269,
-  "2023-05-04": 80362,
-  "2023-05-05": 80450,
-  "2023-05-06": 80509,
-  "2023-05-07": 80592,
-  "2023-05-08": 80710,
-  "2023-05-09": 80784,
-  "2023-05-10": 80867,
-  "2023-05-11": 80933,
-  "2023-05-12": 81019,
-  "2023-05-13": 81103,
-  "2023-05-14": 81174,
-  "2023-05-15": 81281,
-  "2023-05-16": 81355,
-  "2023-05-17": 81415,
-  "2023-05-18": 81513,
-  "2023-05-19": 81592,
-  "2023-05-20": 81747,
-  "2023-05-21": 81747,
-  "2023-05-22": 81747,
-  "2023-05-23": 81967,
-  "2023-05-24": 82112,
-  "2023-05-25": 82138,
-  "2023-05-26": 82210,
-  "2023-05-27": 82293,
-  "2023-05-28": 82367,
-  "2023-05-29": 82367,
-  "2023-05-30": 82552,
-  "2023-05-31": 82610,
-  "2023-06-01": 82688,
-  "2023-06-02": 82759,
-  "2023-06-03": 82807,
-  "2023-06-04": 82885,
-  "2023-06-05": 83005,
-  "2023-06-06": 83083,
-  "2023-06-07": 83165,
-  "2023-06-08": 83235,
-  "2023-06-09": 83304,
-  "2023-06-10": 83359,
-  "2023-06-11": 83433,
-  "2023-06-12": 83543,
-  "2023-06-13": 83616,
-  "2023-06-14": 83616,
-  "2023-06-15": 83773,
-  "2023-06-16": 83831,
-  "2023-06-17": 83900,
-  "2023-06-18": 83963,
-  "2023-06-19": 84070,
-  "2023-06-20": 84141,
-  "2023-06-21": 84201,
-  "2023-06-22": 84275,
-  "2023-06-23": 84343,
-  "2023-06-24": 84410,
-  "2023-06-25": 84508,
-  "2023-06-26": 84638,
-  "2023-06-27": 84700,
-  "2023-06-28": 84792,
-  "2023-06-29": 84859,
-  "2023-06-30": 84945,
-  "2023-07-01": 85067,
-  "2023-07-02": 85067,
-  "2023-07-03": 85173,
-  "2023-07-04": 85237,
-  "2023-07-05": 85308,
-  "2023-07-06": 85429,
-  "2023-07-07": 85429,
-  "2023-07-08": 85497,
-  "2023-07-09": 85554,
-  "2023-07-10": 85683,
-  "2023-07-11": 85744,
-  "2023-07-12": 85816,
-  "2023-07-13": 85893,
-  "2023-07-14": 85967,
-  "2023-07-15": 86017,
-  "2023-07-16": 86111,
-  "2023-07-17": 86239,
-  "2023-07-18": 86306,
-  "2023-07-19": 86387,
-  "2023-07-20": 86449,
-  "2023-07-21": 86519,
-  "2023-07-22": 86593,
-  "2023-07-23": 86681,
-  "2023-07-24": 86806,
-  "2023-07-25": 86879,
-  "2023-07-26": 86957,
-  "2023-07-27": 87023,
-  "2023-07-28": 87091,
-  "2023-07-29": 87147,
-  "2023-07-30": 87206,
-  "2023-07-31": 87332,
-  "2023-08-01": 87412,
-  "2023-08-02": 87479,
-  "2023-08-03": 87563,
-  "2023-08-04": 87639,
-  "2023-08-05": 87706,
-  "2023-08-06": 87901,
-  "2023-08-07": 87901,
-  "2023-08-08": 87975,
-  "2023-08-09": 88039,
-  "2023-08-10": 88115,
-  "2023-08-11": 88171,
-  "2023-08-12": 88251,
-  "2023-08-13": 88331,
-  "2023-08-14": 88452,
-  "2023-08-15": 88602,
-  "2023-08-16": 88602,
-  "2023-08-17": 88690,
-  "2023-08-18": 88765,
-  "2023-08-19": 88836,
-  "2023-08-20": 88899,
-  "2023-08-21": 89017,
-  "2023-08-22": 89077,
-  "2023-08-23": 89148,
-  "2023-08-24": 89222,
-  "2023-08-25": 89291,
-  "2023-08-26": 89367,
-  "2023-08-27": 89461,
-  "2023-08-28": 89568,
-  "2023-08-29": 89636,
-  "2023-08-30": 89713,
-  "2023-08-31": 89785,
-  "2023-09-01": 89908,
-  "2023-09-02": 89908,
-  "2023-09-03": 89965,
-  "2023-09-04": 90081,
-  "2023-09-05": 90162,
-  "2023-09-06": 90225,
-  "2023-09-07": 90292,
-  "2023-09-08": 90348,
-  "2023-09-09": 90426,
-  "2023-09-10": 90508,
-  "2023-09-11": 90647,
-  "2023-09-12": 90720,
-  "2023-09-13": 90785,
-  "2023-09-14": 90860,
-  "2023-09-15": 90926,
-  "2023-09-16": 91006,
-  "2023-09-17": 91082,
-  "2023-09-18": 91193,
-  "2023-09-19": 91269,
-  "2023-09-20": 91328,
-  "2023-09-21": 91412,
-  "2023-09-22": 91474,
-  "2023-09-23": 91531,
-  "2023-09-24": 91598,
-  "2023-09-25": 91723,
-  "2023-09-26": 91828,
-  "2023-09-27": 91886,
-  "2023-09-28": 91932,
-  "2023-09-29": 92005,
-  "2023-09-30": 92075,
-  "2023-10-01": 92140,
-  "2023-10-02": 92236,
-  "2023-10-03": 92292,
-  "2023-10-04": 92374,
-  "2023-10-05": 92424,
-  "2023-10-06": 92511,
-  "2023-10-07": 92566,
-  "2023-10-08": 92622,
-  "2023-10-09": 92719,
-  "2023-10-10": 92698,
-  "2023-10-11": 92756,
-  "2023-10-12": 92756,
-  "2023-10-13": 92761,
-  "2023-10-14": 92764,
-  "2023-10-15": 92830,
-  "2023-10-16": 92946,
-  "2023-10-17": 93027,
-  "2023-10-18": 93086,
-  "2023-10-19": 93146,
-  "2023-10-20": 93211,
-  "2023-10-21": 93271,
-  "2023-10-22": 93342,
-  "2023-10-23": 93442,
-  "2023-10-24": 93529,
-  "2023-10-25": 93608,
-  "2023-10-26": 93659,
-  "2023-10-27": 93725,
-  "2023-10-28": 93793,
-  "2023-10-29": 93841,
-  "2023-10-30": 94015,
-  "2023-10-31": 94015,
-  "2023-11-01": 94066,
-  "2023-11-02": 94125,
-  "2023-11-03": 94181,
-  "2023-11-04": 94235,
-  "2023-11-05": 94291,
-  "2023-11-06": 94392,
-  "2023-11-07": 94449,
-  "2023-11-08": 94534,
-  "2023-11-09": 94602,
-  "2023-11-10": 94660,
-  "2023-11-11": 94724,
-  "2023-11-12": 94787,
-  "2023-11-13": 94883,
-  "2023-11-14": 94942,
-  "2023-11-15": 94942,
-  "2023-11-16": 95047,
-  "2023-11-17": 95158,
-  "2023-11-18": 95158,
-  "2023-11-19": 95229,
-  "2023-11-20": 95325,
-  "2023-11-21": 95374,
-  "2023-11-22": 95432,
-  "2023-11-23": 95478,
-  "2023-11-24": 95538,
-  "2023-11-25": 95592,
-  "2023-11-26": 95653,
-  "2023-11-27": 95753,
-  "2023-11-28": 95811,
-  "2023-11-29": 95965,
-  "2023-11-30": 95965,
-  "2023-12-01": 96021,
-  "2023-12-02": 96070,
-  "2023-12-03": 96145,
-  "2023-12-04": 96212,
-  "2023-12-05": 96251,
-  "2023-12-06": 96304,
-  "2023-12-07": 96351,
-  "2023-12-08": 96410,
-  "2023-12-09": 96472,
-  "2023-12-10": 96563,
-  "2023-12-11": 96635,
-  "2023-12-12": 96716,
-  "2023-12-13": 96784,
-  "2023-12-14": 96864,
-  "2023-12-15": 96905,
-  "2023-12-16": 96952,
-  "2023-12-17": 97004,
-  "2023-12-18": 97085,
-  "2023-12-19": 97143,
-  "2023-12-20": 97188,
-  "2023-12-21": 97243,
-  "2023-12-22": 97288,
-  "2023-12-23": 97354,
-  "2023-12-24": 97410,
-  "2023-12-25": 97459,
-  "2023-12-26": 97498,
-  "2023-12-27": 97530,
-  "2023-12-30": 97675,
-  "2023-12-31": 97732,
-  "2024-01-01": 97807,
-  "2024-01-02": 97870,
-  "2024-01-03": 97932
+  "2024-01-17": 98558,
+  "date_first_scraped": "2022-05-11",
+  "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
+  "name": "Sundays Best",
+  "tracks": [
+    {
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
+    {
+      "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/54fmFSJ25qYXO4mUD9wt3O"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/0eidZQA8WPrWcBRfj7YHCa"
+    },
+    {
+      "album": {
+        "name": "Deitrick Haddon & Hill City Worship Camp",
+        "url": "https://open.spotify.com/album/4muX9GCt1QgF3CtMzgTtdu"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon",
+          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 458498,
+      "name": "A Billion People",
+      "url": "https://open.spotify.com/track/2Ox4qEf3jSJaaWsAfeBb0K"
+    },
+    {
+      "album": {
+        "name": "Kingdom...LIVE!",
+        "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Golden",
+          "url": "https://open.spotify.com/artist/6f6vvDOOCgPmArVZcmVS2p"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306426,
+      "name": "All of My Help",
+      "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
+    },
+    {
+      "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "William Murphy",
+          "url": "https://open.spotify.com/artist/1FQJqgKQDNLWfeLBQoQLmD"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242893,
+      "name": "Already Getting Better",
+      "url": "https://open.spotify.com/track/6qCzqsSB1FLP3pr5fIrrAL"
+    },
+    {
+      "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4DyCzDnXR94Am3bWFD7gtk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 485026,
+      "name": "Anything Can Happen",
+      "url": "https://open.spotify.com/track/5rMwRnD9ydFhK9TFODe2pi"
+    },
+    {
+      "album": {
+        "name": "Fearless (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VZ2wxXREyzvLSGDdQtDsD"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 485026,
+      "name": "Anything Can Happen",
+      "url": "https://open.spotify.com/track/7MKlnlo5PZalGfC0HSwUIU"
+    },
+    {
+      "album": {
+        "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
+        "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
+      },
+      "artists": [
+        {
+          "name": "Daryl Coley",
+          "url": "https://open.spotify.com/artist/2k7eX9JBghoFsvRljRzi01"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507893,
+      "name": "Beyond The Veil - Live",
+      "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 259853,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
+    },
+    {
+      "album": {
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/0D3EkBlKPYFbWv8iavOyfe"
+      },
+      "artists": [
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 260173,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/0CxlOGUGHVa1iVna8NJgIp"
+    },
+    {
+      "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
+    },
+    {
+      "album": {
+        "name": "Blessings on Blessings",
+        "url": "https://open.spotify.com/album/5v2XFpXgYPT7lC9mZf1x9R"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295063,
+      "name": "Blessings on Blessings",
+      "url": "https://open.spotify.com/track/3VBq4uuOxikF23PWXPCuGu"
+    },
+    {
+      "album": {
+        "name": "The Rebirth of Kirk Franklin (Live at Lakewood Church, Houston, TX - June 16, 2000)",
+        "url": "https://open.spotify.com/album/6ktPwwY2ua7HG3ZkEvci4d"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5TlSqF8DhwDLaUMFmV3APE"
+    },
+    {
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340133,
+      "name": "Brighter Day - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/5qFDlKHNb0v68YSghSY4GK"
+    },
+    {
+      "album": {
+        "name": "Place Called Victory - EP",
+        "url": "https://open.spotify.com/album/7AQ1FBd7nl7ZwwZ4toYN9l"
+      },
+      "artists": [
+        {
+          "name": "Deon Kipping",
+          "url": "https://open.spotify.com/artist/5GoBkSWqd1pb7gzf6f71DS"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383552,
+      "name": "By Myself",
+      "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "album": {
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366319,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380493,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/4X5kYRhSENRkyUkY17STEG"
+    },
+    {
+      "album": {
+        "name": "Close (Radio Edit)",
+        "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265173,
+      "name": "Close (Radio Edit)",
+      "url": "https://open.spotify.com/track/6iPPdmzeNwINawWBp1Lukp"
+    },
+    {
+      "album": {
+        "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
+        "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
+      },
+      "artists": [
+        {
+          "name": "Donald Lawrence",
+          "url": "https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l"
+        },
+        {
+          "name": "The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/0kU5fC7WVwJlfd1eNj9cMn"
+        },
+        {
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344325,
+      "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
+      "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
+    },
+    {
+      "album": {
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
+    },
+    {
+      "album": {
+        "name": "Worship Journal (Live)",
+        "url": "https://open.spotify.com/album/2lC14ntR7i7DrUWKVcJd8I"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384013,
+      "name": "Father Jesus Spirit (Live)",
+      "url": "https://open.spotify.com/track/3HFDqVk2aoM1o7MKARrW5U"
+    },
+    {
+      "album": {
+        "name": "God Is My Refuge (Live)",
+        "url": "https://open.spotify.com/album/4eY1uNXXv3QsNr12FYZ0hX"
+      },
+      "artists": [
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585080,
+      "name": "God Is My Refuge (Live)",
+      "url": "https://open.spotify.com/track/0DTCdLczLgxt8EXrQFgnQV"
+    },
+    {
+      "album": {
+        "name": "Unstoppable (Live)",
+        "url": "https://open.spotify.com/album/4GOOHwMRhnC1y0xdzuyA9M"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 283013,
+      "name": "God My God - Radio Edit/Live",
+      "url": "https://open.spotify.com/track/2WRM5RFZxXJelJ7U8Pahrg"
+    },
+    {
+      "album": {
+        "name": "God My God (Live)",
+        "url": "https://open.spotify.com/album/45Svl1RYl6mR7CwObb77H7"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 283586,
+      "name": "God My God - Radio Edit/Live",
+      "url": "https://open.spotify.com/track/67UQCLTcle3v4kpJ82xT0b"
+    },
+    {
+      "album": {
+        "name": "Life Music: Stage Two",
+        "url": "https://open.spotify.com/album/2akE85yBX94ruIAOjR7ru4"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 176969,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/1JhJUr6uQ2bf8CNcVsARr4"
+    },
+    {
+      "album": {
+        "name": "Gotta Have You - Single",
+        "url": "https://open.spotify.com/album/2fTjnLLiT0TA9MCBM5hoK5"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 176969,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/6sIO0e3xxVRhCZn6YcU4CG"
+    },
+    {
+      "album": {
+        "name": "Life Music: Stage Two",
+        "url": "https://open.spotify.com/album/0R0dZiUhIDRkgDbzJpSFcr"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "Gotta Have You",
+      "url": "https://open.spotify.com/track/712eY6tMxOfDOguo6PlXl3"
+    },
+    {
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/09wHdrvpQ7dZmSQOVaaPHT"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Gene Hoskins",
+          "url": "https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 476252,
+      "name": "I Agree (feat. Gene Hoskins)",
+      "url": "https://open.spotify.com/track/59Di2wFNVIZZLXQjMxVjgr"
+    },
+    {
+      "album": {
+        "name": "Declarations",
+        "url": "https://open.spotify.com/album/1kBO34QmChEjSRFxUmHJL9"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Nelson",
+          "url": "https://open.spotify.com/artist/4oI0W9neUi7nvxcQKDY5Xa"
+        },
+        {
+          "name": "Gene Hoskins",
+          "url": "https://open.spotify.com/artist/3InuhUOZdqcWYa96xDDaG0"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 476800,
+      "name": "I Agree (feat. Gene Hoskins)",
+      "url": "https://open.spotify.com/track/6hP8jMfmNdksnXSQjVZO7Y"
+    },
+    {
+      "album": {
+        "name": "I Am (Radio Edit)",
+        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287674,
+      "name": "I Am - Radio Edit",
+      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
+    },
+    {
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/24gwZpFPcNhXmz4p9h4HcH"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275581,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/17MqdngAFPDWcaSt9wkPQi"
+    },
+    {
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/3di3Ns3BssEWFGZ8QeLZSt"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/3nY9M5V1T62fOwRJieUkJd"
+    },
+    {
+      "album": {
+        "name": "Dear Future Me",
+        "url": "https://open.spotify.com/album/2ymgRafXd8WfciDiKIeacv"
+      },
+      "artists": [
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276423,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/53xAx35okUZ3BaCX6SWh6m"
+    },
+    {
+      "album": {
+        "name": "I Got Out",
+        "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297653,
+      "name": "I Got Out",
+      "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+    },
+    {
+      "album": {
+        "name": "I Made It Out",
+        "url": "https://open.spotify.com/album/2vW8HKWfqwM0Vin3CuGJor"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298813,
+      "name": "I Made It Out (Radio Edit)",
+      "url": "https://open.spotify.com/track/2mccRVO7fG5HpOlfCrIjYr"
+    },
+    {
+      "album": {
+        "name": "I Made It Out (Radio Edit)",
+        "url": "https://open.spotify.com/album/1HkCPWPtg5Z99saVb5AL6a"
+      },
+      "artists": [
+        {
+          "name": "John P. Kee",
+          "url": "https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 298813,
+      "name": "I Made It Out (Radio Edit)",
+      "url": "https://open.spotify.com/track/4N3GwQXSWPqScVSsAobz4W"
+    },
+    {
+      "album": {
+        "name": "WOW Gospel 2016",
+        "url": "https://open.spotify.com/album/6MA7ireN4cN0GxrfL2IHVV"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243613,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/08fVVLmIVyjN23nSuUVQc1"
+    },
+    {
+      "album": {
+        "name": "Forever Yours",
+        "url": "https://open.spotify.com/album/3Cgcc6Op5ciiCTubUMjI88"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244133,
+      "name": "I Need A Word",
+      "url": "https://open.spotify.com/track/4RLL0qL4Tvoq4l5e8hV2FS"
+    },
+    {
+      "album": {
+        "name": "I Need You (Live)",
+        "url": "https://open.spotify.com/album/4SlkxSSyXxnx9y0qpVlaH8"
+      },
+      "artists": [
+        {
+          "name": "Donnie McClurkin",
+          "url": "https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323877,
+      "name": "I Need You (Live)",
+      "url": "https://open.spotify.com/track/5nNZ8eGlitET1yeFHvizpI"
+    },
+    {
+      "album": {
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
+    },
+    {
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+    },
+    {
+      "album": {
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
+      },
+      "artists": [
+        {
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203911,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
+    },
+    {
+      "album": {
+        "name": "Heart. Passion. Pursuit.",
+        "url": "https://open.spotify.com/album/39UpQWkYwByspw53CTZDis"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 506200,
+      "name": "I'm Getting Ready",
+      "url": "https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP"
+    },
+    {
+      "album": {
+        "name": "I'm Good",
+        "url": "https://open.spotify.com/album/4L1qVMFTElNgKI8TdRyn77"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/06PTBb12MxQdtgyFIawUOK"
+    },
+    {
+      "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
+    },
+    {
+      "album": {
+        "name": "If God / Nothing But the Blood (Studio Version)",
+        "url": "https://open.spotify.com/album/7jQPc5YniQzkR0ucMuJHMY"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267597,
+      "name": "If God / Nothing But the Blood - Studio Version",
+      "url": "https://open.spotify.com/track/2kbffpFwcxNZT0HfHKf5Dv"
+    },
+    {
+      "album": {
+        "name": "Covered: Alive In Asia (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2XHkWEJaHIrMfpKTMGr4wb"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384093,
+      "name": "In Jesus Name",
+      "url": "https://open.spotify.com/track/08MelkdJqbh68USUjAfr2T"
+    },
+    {
+      "album": {
+        "name": "It's Gonna Happen",
+        "url": "https://open.spotify.com/album/40iezMjEBFgpdQkHWjbCFy"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 254120,
+      "name": "It's Gonna Happen",
+      "url": "https://open.spotify.com/track/0EaPrUg8xS77fedbknCF1t"
+    },
+    {
+      "album": {
+        "name": "One Nation Under God",
+        "url": "https://open.spotify.com/album/3fdcELLJcdrGFL2VJQu6VP"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418261,
+      "name": "It's Yours",
+      "url": "https://open.spotify.com/track/0xYwbNvw4TburjOJYs0GpQ"
+    },
+    {
+      "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249173,
+      "name": "Kind God",
+      "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
+    },
+    {
+      "album": {
+        "name": "You Shall Live",
+        "url": "https://open.spotify.com/album/3TKtaibpr6H09j4z7QHaU8"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318186,
+      "name": "Live",
+      "url": "https://open.spotify.com/track/6Oc3UJgFdqv7WDKgl3x5CI"
+    },
+    {
+      "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "album": {
+        "name": "The Hill",
+        "url": "https://open.spotify.com/album/2RJxSCEQJGBeJHej3IM2cV"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 591333,
+      "name": "Made A Way",
+      "url": "https://open.spotify.com/track/7gricPHxqsVEq1Lml7BFVu"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 340344,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/3psx3u5uPAG6BH3k6l8gre"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 340344,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/5IhsQZLczOpo7YBZUnJUud"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340344,
+      "name": "Make Room",
+      "url": "https://open.spotify.com/track/7Lon0NmVkcUHAxmiPnVwda"
+    },
+    {
+      "album": {
+        "name": "More Than Anything (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fdSuqqPJUPRgJqiQpvUtc"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260120,
+      "name": "More Than Anything (Radio Edit)",
+      "url": "https://open.spotify.com/track/0mVB0IVgOK7P1G77ZHTMc5"
+    },
+    {
+      "album": {
+        "name": "More Than Anything (Radio Edit)",
+        "url": "https://open.spotify.com/album/2Mk07z67gI2kAyGCg4HHNk"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260120,
+      "name": "More Than Anything (Radio Edit)",
+      "url": "https://open.spotify.com/track/6DcJwlUVG4U9mF0IfQJzMK"
+    },
+    {
+      "album": {
+        "name": "My God",
+        "url": "https://open.spotify.com/album/3h3Tq82HkGf996KzFPnr5g"
+      },
+      "artists": [
+        {
+          "name": "Nashville Life Music",
+          "url": "https://open.spotify.com/artist/2VeZkVPpOuBcRZXvI774ul"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 290156,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/74xDe5RO6OwdcdSuRpbaGR"
+    },
+    {
+      "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Sarah Reeves",
+          "url": "https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423106,
+      "name": "My World Needs You (feat. Sarah Reeves, Tasha Cobbs & Tamela Mann)",
+      "url": "https://open.spotify.com/track/6PWZf2hUR9TCA4DsmClUo6"
+    },
+    {
+      "album": {
+        "name": "Never Have to Be Alone",
+        "url": "https://open.spotify.com/album/34VkbeKpr1wXJZe1xW0Aif"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227335,
+      "name": "Never Have to Be Alone",
+      "url": "https://open.spotify.com/track/43w5n3xRMBOQll8xQBuO41"
+    },
+    {
+      "album": {
+        "name": "The Higher Experience",
+        "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313146,
+      "name": "No Ordinary Worship - Live",
+      "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
+    },
+    {
+      "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/48e9qQcXnEsaiib4LUSk1P"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-23",
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/0q22YqinZnV4mehuz0QiU3"
+    },
+    {
+      "album": {
+        "name": "No Reason To Fear - Single",
+        "url": "https://open.spotify.com/album/4fQ7qwZJQ3hYKsvhpIEh6F"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 273356,
+      "name": "No Reason To Fear (Radio Edit)",
+      "url": "https://open.spotify.com/track/2IMipb7dosMwZbeGbom49K"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/6D8do4E6Ye8NaYVCEUQ1uI"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/4KuFyYtKIizLOjfofjxZT8"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/2Gn6iOiQIWzAgeE1TYCJGS"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/4jc7FTXFUhTaMRpmU42yfI"
+    },
+    {
+      "album": {
+        "name": "Make Room",
+        "url": "https://open.spotify.com/album/4BcOKZqejPxCGuQb2ArtXa"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408814,
+      "name": "Not Lucky, I'm Loved",
+      "url": "https://open.spotify.com/track/5k51cgCgZcGtenxq4wHFyj"
+    },
+    {
+      "album": {
+        "name": "Zacardi Cortez",
+        "url": "https://open.spotify.com/album/6lqXXtJpXKLAJO9M287IGo"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-15",
+      "duration_ms": 259906,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5nMWOR0iuCl0OJnHAtnj2T"
+    },
+    {
+      "album": {
+        "name": "Open Door (See You Later)",
+        "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
+      },
+      "artists": [
+        {
+          "name": "Christon Gray",
+          "url": "https://open.spotify.com/artist/0gOMnWbGP52F3paKcp5Ts2"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 255786,
+      "name": "Open Door (See You Later)",
+      "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
+    },
+    {
+      "album": {
+        "name": "V2...",
+        "url": "https://open.spotify.com/album/17sHeVMLvbVPeKaTk3WQlY"
+      },
+      "artists": [
+        {
+          "name": "J Moss",
+          "url": "https://open.spotify.com/artist/6sj6FGLblnVfktDZPaydWP"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223666,
+      "name": "Praise on the Inside",
+      "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
+    },
+    {
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/5pnV5VmY1HYPnRBa3yagGq"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/1no67NVun0BIparrhLtPM6"
+    },
+    {
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/4XITBa16CcVUe8klCUpjNV"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/2QVjnEpvbSeVhs1QZfwDOf"
+    },
+    {
+      "album": {
+        "name": "From The Heart",
+        "url": "https://open.spotify.com/album/1ZeukTlWIMTrFqENesOwP6"
+      },
+      "artists": [
+        {
+          "name": "Jessica Reedy",
+          "url": "https://open.spotify.com/artist/53AfsMeg6Tr5kAejn7pON6"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 246106,
+      "name": "Put It On The Altar",
+      "url": "https://open.spotify.com/track/5id5AfCgYwoDU31iI1DhnY"
+    },
+    {
+      "album": {
+        "name": "See the Light (feat. Jekalyn Carr)",
+        "url": "https://open.spotify.com/album/4B56i2uwAyplbzR4UBi4gA"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 199254,
+      "name": "See the Light (feat. Jekalyn Carr)",
+      "url": "https://open.spotify.com/track/3hBX1H7oOtqEQxXQrZlwlC"
+    },
+    {
+      "album": {
+        "name": "Back to Life",
+        "url": "https://open.spotify.com/album/5EdIm9Nll2F2GIvv9pojFV"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 324573,
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/4BDV1qGzUFYyrVoSlI50cC"
+    },
+    {
+      "album": {
+        "name": "Worship Soul",
+        "url": "https://open.spotify.com/album/7czy5VoDEF3LejpGK8Ia0o"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 376360,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/50CnlEH8KWLVNPxi29dnwb"
+    },
+    {
+      "album": {
+        "name": "Worship Soul",
+        "url": "https://open.spotify.com/album/5jCHlVKrD2YVFmwUNMcV4E"
+      },
+      "artists": [
+        {
+          "name": "Anita Wilson",
+          "url": "https://open.spotify.com/artist/4rEGEwaOU6Mtdj4ylW0fjS"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376372,
+      "name": "Speechless",
+      "url": "https://open.spotify.com/track/7kTI1q9gPBPY4YNbTGKgLj"
+    },
+    {
+      "album": {
+        "name": "Step in the Name (Radio Edit)",
+        "url": "https://open.spotify.com/album/4CZWedw98rtQPonHp3LnjU"
+      },
+      "artists": [
+        {
+          "name": "Bryan Popin",
+          "url": "https://open.spotify.com/artist/6jfghB5jl6RMXoiXqldVhz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 273453,
+      "name": "Step in the Name (Radio Edit)",
+      "url": "https://open.spotify.com/track/3XmMK2QKPLxsbS5PuPa956"
+    },
+    {
+      "album": {
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
+    },
+    {
+      "album": {
+        "name": "Anthony Brown & group therAPy",
+        "url": "https://open.spotify.com/album/1oavdXITKhu6Mgb1YlIOoN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Group Therapy",
+          "url": "https://open.spotify.com/artist/0f7eDR1n3XZwch1xXwEsYW"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257093,
+      "name": "Testimony",
+      "url": "https://open.spotify.com/track/37PMWc1U9QTGRSh9cKzvDj"
+    },
+    {
+      "album": {
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
+    },
+    {
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv"
+    },
+    {
+      "album": {
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm"
+    },
+    {
+      "album": {
+        "name": "A Worshipper's Heart (Live)",
+        "url": "https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344733,
+      "name": "Victory Belongs To Jesus (Live)",
+      "url": "https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP"
+    },
+    {
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/2T6MoExj6ZfHxd5az22f35"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292789,
+      "name": "Well Done",
+      "url": "https://open.spotify.com/track/64hIlYHCreOzGCuzWsivXW"
+    },
+    {
+      "album": {
+        "name": "Think About These Things",
+        "url": "https://open.spotify.com/album/4OpuwGafVnFSGMAbT7geFG"
+      },
+      "artists": [
+        {
+          "name": "Charles Jenkins",
+          "url": "https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153853,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/2uqJYeTxahjp300qzVHBSP"
+    },
+    {
+      "album": {
+        "name": "Greenleaf Soundtrack - Season 2",
+        "url": "https://open.spotify.com/album/68IvsYG3g7nrZUkErvzjWt"
+      },
+      "artists": [
+        {
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209061,
+      "name": "Won't He Do It",
+      "url": "https://open.spotify.com/track/5Vr9WTLcbpKRkQGvVen13W"
+    },
+    {
+      "album": {
+        "name": "Work It Out (Live)",
+        "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320955,
+      "name": "Work It Out - Live",
+      "url": "https://open.spotify.com/track/1SDaYLQD1C9twbdZYsNcbX"
+    },
+    {
+      "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/3W32276wtqwXOjcWYVfNr1"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/07l6dBNEcArYKT1huIzCmV"
+    },
+    {
+      "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/63yEC0w1r3uMTfWPmX7iAF"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/23w95m3xuLxEyqaIMFYDrY"
+    },
+    {
+      "album": {
+        "name": "The Dolly Express",
+        "url": "https://open.spotify.com/album/5Lr0d19Xug6mIxaUCB7cG1"
+      },
+      "artists": [
+        {
+          "name": "Jermaine Dolly",
+          "url": "https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 345625,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2xqV3tpyqZykQEHahqky6C"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/76Wc47fN7iPYNzqVMDzxzf"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434546,
+      "name": "You Are God Alone",
+      "url": "https://open.spotify.com/track/0Uuao6IKpjHildJW1ozIcE"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/6m9aq6tIHDiyYwSeYWHfbr"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 434546,
+      "name": "You Are God Alone",
+      "url": "https://open.spotify.com/track/1f0ULNih5OLKZk6wcLnoVx"
+    },
+    {
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/1cwl8uoycWw4fFMKMV0VEc"
+      },
+      "artists": [
+        {
+          "name": "William McDowell",
+          "url": "https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 434546,
+      "name": "You Are God Alone",
+      "url": "https://open.spotify.com/track/2cWRop4KNmto1AiIdYPEBj"
+    },
+    {
+      "album": {
+        "name": "Decade",
+        "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
+      },
+      "artists": [
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322952,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/3Rn2n87UEQV0YxDCxvqSI8"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4UyE4UHYnNJ6zGoJmTcJ0u"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/0njqt2jPYkAK7zIwSdkFU8"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/3SITltmDXRR4lQWR3IpClB"
+    },
+    {
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Bishop Cortez Vaughn",
+          "url": "https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 365190,
+      "name": "You Deserve It (feat. Bishop Cortez Vaughn)",
+      "url": "https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2"
+    },
+    {
+      "album": {
+        "name": "You Waited (Radio Edit) [Live]",
+        "url": "https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF"
+      },
+      "artists": [
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220849,
+      "name": "You Waited (Radio Edit) [Live]",
+      "url": "https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0"
+    },
+    {
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/2VFvahahHbaC4rgqnVvnlw"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/00CAvPIbaOTN0dJAEC0fsT"
+    },
+    {
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5jxhzwN4bRRbGRzOjA1qP1"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 379562,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/1K0QlBIhd5jZIRz83MbVYU"
+    },
+    {
+      "album": {
+        "name": "Your Great Name",
+        "url": "https://open.spotify.com/album/5ARCX2OA6H343Wvn21Peob"
+      },
+      "artists": [
+        {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384466,
+      "name": "Your Great Name",
+      "url": "https://open.spotify.com/track/6orZOHApXMdR2RHhSq2VGy"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
+      },
+      "artists": [
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "date_added": "2020-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5iwIl2oN1P1"
 }

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 
 > 今年の冬にぴったりな、"ハッピー"なクリスマスソングをひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,036 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,485 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 2 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
 | 3 | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/track/7Ao5aouOwI94DuwcXa5X1i) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Jingle Bell Rock \-Spotify Singles Holiday](https://open.spotify.com/album/4U8CZl7b1nxhmEAaM5AbWk) | 2:22 |
-| 4 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
+| 4 | [Holly Jolly Christmas](https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 2:01 |
 | 5 | [Merry Christmas](https://open.spotify.com/track/3bH2Eu9A9ymI4UnGHRmoXg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Merry Christmas](https://open.spotify.com/album/3pqY0b5nEKoWwSrrwMwqMK) | 3:28 |
 | 6 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 | 7 | [Dynamite \- Holiday Remix](https://open.spotify.com/track/71g5YNZv9ysuAZVPuxOmiC) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(Holiday Remix\)](https://open.spotify.com/album/2JBcpvNYviZ9VYva3jRPsd) | 3:33 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXs5bD9fOOY.md) - [plain]
 | 69 | [Jingle Bell Rock](https://open.spotify.com/track/5WcBc2jpgWemNJFz5K5s2B) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Meet The Vamps \(Christmas Edition\)](https://open.spotify.com/album/2uFYxUG2I67ddvtgP8W7Gt) | 2:15 |
 | 70 | [Christmas \(Baby Please Come Home\) \(feat\. Scarlett Johansson, Taron Egerton, Reese Witherspoon & Tori Kelly\)](https://open.spotify.com/track/6wUYUvIqn9swoQSaeW9ZVp) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Taron Egerton](https://open.spotify.com/artist/5nwjcZ87CGNRiO98nFKdOD), [Reese Witherspoon](https://open.spotify.com/artist/5V8q61RswIFvxhIfzYVew9), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Christmas \(Baby Please Come Home\) \[From Sing 2\]](https://open.spotify.com/album/0gnVoCrQKFmqRY5DdqLRxL) | 2:36 |
 
-Snapshot ID: `MCwxYmJjZjkwMzIyYjY0ODQwZGM0NDUzYjM1ZmIwMTNjOGUzN2I5MzFm`
+Snapshot ID: `MCxhN2JkYzE3YTEzNDNlMDY0MDAzYTQyNDlhOTU5YzU2NjUxMDhlY2Jm`

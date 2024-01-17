@@ -1,574 +1,1345 @@
 {
-  "2022-06-05": 6707,
-  "2022-06-06": 6708,
-  "2022-06-07": 6711,
-  "2022-06-08": 6711,
-  "2022-06-09": 6712,
-  "2022-06-10": 6711,
-  "2022-06-11": 6713,
-  "2022-06-12": 6714,
-  "2022-06-13": 6716,
-  "2022-06-14": 6717,
-  "2022-06-15": 6717,
-  "2022-06-16": 6719,
-  "2022-06-17": 6720,
-  "2022-06-18": 6724,
-  "2022-06-19": 6729,
-  "2022-06-20": 6729,
-  "2022-06-21": 6731,
-  "2022-06-22": 6733,
-  "2022-06-23": 6733,
-  "2022-06-24": 6733,
-  "2022-06-25": 6739,
-  "2022-06-26": 6742,
-  "2022-06-27": 6743,
-  "2022-06-28": 6747,
-  "2022-06-29": 6751,
-  "2022-06-30": 6756,
-  "2022-07-01": 6756,
-  "2022-07-02": 6756,
-  "2022-07-03": 6754,
-  "2022-07-04": 6758,
-  "2022-07-05": 6762,
-  "2022-07-06": 6763,
-  "2022-07-07": 6765,
-  "2022-07-08": 6765,
-  "2022-07-09": 6767,
-  "2022-07-10": 6770,
-  "2022-07-11": 6771,
-  "2022-07-12": 6772,
-  "2022-07-13": 6775,
-  "2022-07-14": 6776,
-  "2022-07-15": 6782,
-  "2022-07-16": 6784,
-  "2022-07-17": 6785,
-  "2022-07-18": 6788,
-  "2022-07-19": 6792,
-  "2022-07-20": 6795,
-  "2022-07-21": 6798,
-  "2022-07-22": 6801,
-  "2022-07-23": 6801,
-  "2022-07-24": 6803,
-  "2022-07-25": 6805,
-  "2022-07-26": 6805,
-  "2022-07-27": 6806,
-  "2022-07-28": 6808,
-  "2022-07-29": 6807,
-  "2022-07-30": 6817,
-  "2022-07-31": 6817,
-  "2022-08-01": 6819,
-  "2022-08-02": 6821,
-  "2022-08-03": 6821,
-  "2022-08-04": 6822,
-  "2022-08-05": 6823,
-  "2022-08-06": 6825,
-  "2022-08-07": 6825,
-  "2022-08-08": 6831,
-  "2022-08-09": 6830,
-  "2022-08-10": 6829,
-  "2022-08-11": 6832,
-  "2022-08-12": 6833,
-  "2022-08-13": 6837,
-  "2022-08-14": 6837,
-  "2022-08-15": 6841,
-  "2022-08-16": 6842,
-  "2022-08-17": 6843,
-  "2022-08-18": 6845,
-  "2022-08-19": 6846,
-  "2022-08-20": 6849,
-  "2022-08-21": 6852,
-  "2022-08-22": 6854,
-  "2022-08-23": 6854,
-  "2022-08-24": 6857,
-  "2022-08-25": 6861,
-  "2022-08-26": 6862,
-  "2022-08-27": 6862,
-  "2022-08-28": 6863,
-  "2022-08-29": 6861,
-  "2022-08-30": 6862,
-  "2022-08-31": 6859,
-  "2022-09-01": 6862,
-  "2022-09-02": 6866,
-  "2022-09-03": 6867,
-  "2022-09-04": 6866,
-  "2022-09-05": 6865,
-  "2022-09-06": 6866,
-  "2022-09-07": 6867,
-  "2022-09-09": 6867,
-  "2022-09-10": 6867,
-  "2022-09-11": 6867,
-  "2022-09-12": 6869,
-  "2022-09-13": 6869,
-  "2022-09-15": 6871,
-  "2022-09-16": 6872,
-  "2022-09-17": 6874,
-  "2022-09-18": 6880,
-  "2022-09-19": 6884,
-  "2022-09-20": 6880,
-  "2022-09-21": 6881,
-  "2022-09-22": 6884,
-  "2022-09-23": 6883,
-  "2022-09-24": 6887,
-  "2022-09-25": 6889,
-  "2022-09-26": 6889,
-  "2022-09-27": 6890,
-  "2022-09-28": 6891,
-  "2022-09-29": 6891,
-  "2022-09-30": 6893,
-  "2022-10-01": 6892,
-  "2022-10-02": 6892,
-  "2022-10-03": 6893,
-  "2022-10-04": 6891,
-  "2022-10-05": 6891,
-  "2022-10-06": 6891,
-  "2022-10-07": 6895,
-  "2022-10-08": 6895,
-  "2022-10-09": 6896,
-  "2022-10-10": 6896,
-  "2022-10-11": 6898,
-  "2022-10-12": 6898,
-  "2022-10-13": 6899,
-  "2022-10-14": 6900,
-  "2022-10-15": 6901,
-  "2022-10-16": 6904,
-  "2022-10-17": 6905,
-  "2022-10-18": 6906,
-  "2022-10-19": 6909,
-  "2022-10-20": 6910,
-  "2022-10-21": 6910,
-  "2022-10-22": 6911,
-  "2022-10-23": 6909,
-  "2022-10-24": 6909,
-  "2022-10-25": 6910,
-  "2022-10-26": 6911,
-  "2022-10-27": 6911,
-  "2022-10-28": 6913,
-  "2022-10-29": 6914,
-  "2022-10-30": 6914,
-  "2022-10-31": 6913,
-  "2022-11-01": 6912,
-  "2022-11-02": 6912,
-  "2022-11-03": 6912,
-  "2022-11-04": 6916,
-  "2022-11-05": 6916,
-  "2022-11-06": 6918,
-  "2022-11-07": 6917,
-  "2022-11-08": 6918,
-  "2022-11-09": 6919,
-  "2022-11-10": 6919,
-  "2022-11-11": 6918,
-  "2022-11-12": 6918,
-  "2022-11-13": 6919,
-  "2022-11-14": 6918,
-  "2022-11-15": 6920,
-  "2022-11-16": 6921,
-  "2022-11-17": 6921,
-  "2022-11-18": 6921,
-  "2022-11-19": 6920,
-  "2022-11-20": 6921,
-  "2022-11-21": 6922,
-  "2022-11-22": 6927,
-  "2022-11-23": 6927,
-  "2022-11-24": 6930,
-  "2022-11-25": 6932,
-  "2022-11-26": 6931,
-  "2022-11-27": 6930,
-  "2022-11-28": 6930,
-  "2022-11-29": 6930,
-  "2022-11-30": 6931,
-  "2022-12-01": 6932,
-  "2022-12-02": 6937,
-  "2022-12-03": 6938,
-  "2022-12-04": 6944,
-  "2022-12-05": 6943,
-  "2022-12-06": 6944,
-  "2022-12-07": 6947,
-  "2022-12-08": 6949,
-  "2022-12-09": 6952,
-  "2022-12-10": 6954,
-  "2022-12-11": 6955,
-  "2022-12-12": 6956,
-  "2022-12-13": 6957,
-  "2022-12-14": 6957,
-  "2022-12-15": 6958,
-  "2022-12-16": 6958,
-  "2022-12-17": 6959,
-  "2022-12-18": 6960,
-  "2022-12-19": 6961,
-  "2022-12-20": 6966,
-  "2022-12-21": 6966,
-  "2022-12-22": 6967,
-  "2022-12-24": 6969,
-  "2022-12-25": 6971,
-  "2022-12-26": 6971,
-  "2022-12-27": 6971,
-  "2022-12-28": 6973,
-  "2022-12-29": 6974,
-  "2022-12-30": 6978,
-  "2022-12-31": 6978,
-  "2023-01-01": 6979,
-  "2023-01-02": 6983,
-  "2023-01-03": 6984,
-  "2023-01-04": 6985,
-  "2023-01-05": 6986,
-  "2023-01-06": 6985,
-  "2023-01-07": 6986,
-  "2023-01-08": 6987,
-  "2023-01-09": 6988,
-  "2023-01-10": 6988,
-  "2023-01-11": 6987,
-  "2023-01-12": 6987,
-  "2023-01-13": 6989,
-  "2023-01-14": 6992,
-  "2023-01-15": 6993,
-  "2023-01-16": 6991,
-  "2023-01-17": 6993,
-  "2023-01-18": 6995,
-  "2023-01-19": 6998,
-  "2023-01-20": 6999,
-  "2023-01-21": 6999,
-  "2023-01-22": 7001,
-  "2023-01-23": 7002,
-  "2023-01-24": 7003,
-  "2023-01-25": 7002,
-  "2023-01-26": 7000,
-  "2023-01-27": 6999,
-  "2023-01-28": 7001,
-  "2023-01-29": 7001,
-  "2023-01-30": 6999,
-  "2023-01-31": 6999,
-  "2023-02-01": 6999,
-  "2023-02-02": 6999,
-  "2023-02-03": 6999,
-  "2023-02-04": 6999,
-  "2023-02-05": 6997,
-  "2023-02-06": 6998,
-  "2023-02-07": 6996,
-  "2023-02-08": 6996,
-  "2023-02-09": 6996,
-  "2023-02-10": 6996,
-  "2023-02-11": 6996,
-  "2023-02-12": 6994,
-  "2023-02-13": 6995,
-  "2023-02-14": 6995,
-  "2023-02-15": 6995,
-  "2023-02-16": 6995,
-  "2023-02-17": 6995,
-  "2023-02-18": 6997,
-  "2023-02-19": 6998,
-  "2023-02-20": 6998,
-  "2023-02-21": 6999,
-  "2023-02-22": 7000,
-  "2023-02-23": 7001,
-  "2023-02-24": 7000,
-  "2023-02-25": 7001,
-  "2023-02-26": 7001,
-  "2023-02-27": 7002,
-  "2023-02-28": 7002,
-  "2023-03-01": 7003,
-  "2023-03-02": 7005,
-  "2023-03-03": 7006,
-  "2023-03-04": 7005,
-  "2023-03-05": 7007,
-  "2023-03-06": 7007,
-  "2023-03-07": 7007,
-  "2023-03-08": 7008,
-  "2023-03-09": 7007,
-  "2023-03-10": 7007,
-  "2023-03-11": 7006,
-  "2023-03-12": 7008,
-  "2023-03-13": 7010,
-  "2023-03-14": 7011,
-  "2023-03-15": 7011,
-  "2023-03-16": 7011,
-  "2023-03-17": 7011,
-  "2023-03-18": 7012,
-  "2023-03-19": 7012,
-  "2023-03-20": 7011,
-  "2023-03-21": 7011,
-  "2023-03-22": 7010,
-  "2023-03-23": 7009,
-  "2023-03-24": 7009,
-  "2023-03-25": 7009,
-  "2023-03-26": 7009,
-  "2023-03-27": 7009,
-  "2023-03-28": 7009,
-  "2023-03-29": 7009,
-  "2023-03-30": 7009,
-  "2023-03-31": 7009,
-  "2023-04-01": 7009,
-  "2023-04-02": 7009,
-  "2023-04-03": 7010,
-  "2023-04-04": 7011,
-  "2023-04-05": 7011,
-  "2023-04-06": 7011,
-  "2023-04-07": 7010,
-  "2023-04-09": 7010,
-  "2023-04-10": 7012,
-  "2023-04-11": 7012,
-  "2023-04-12": 7012,
-  "2023-04-13": 7012,
-  "2023-04-14": 7011,
-  "2023-04-15": 7011,
-  "2023-04-16": 7010,
-  "2023-04-17": 7011,
-  "2023-04-18": 7011,
-  "2023-04-19": 7010,
-  "2023-04-20": 7009,
-  "2023-04-21": 7009,
-  "2023-04-22": 7009,
-  "2023-04-23": 7008,
-  "2023-04-24": 7007,
-  "2023-04-25": 7007,
-  "2023-04-26": 7008,
-  "2023-04-27": 7009,
-  "2023-04-28": 7010,
-  "2023-04-29": 7010,
-  "2023-04-30": 7011,
-  "2023-05-01": 7011,
-  "2023-05-02": 7011,
-  "2023-05-03": 7011,
-  "2023-05-04": 7011,
-  "2023-05-05": 7011,
-  "2023-05-06": 7011,
-  "2023-05-07": 7011,
-  "2023-05-08": 7010,
-  "2023-05-09": 7010,
-  "2023-05-10": 7010,
-  "2023-05-11": 7010,
-  "2023-05-12": 7010,
-  "2023-05-13": 7011,
-  "2023-05-14": 7011,
-  "2023-05-15": 7010,
-  "2023-05-16": 7010,
-  "2023-05-17": 7010,
-  "2023-05-18": 7010,
-  "2023-05-19": 7010,
-  "2023-05-20": 7006,
-  "2023-05-21": 7006,
-  "2023-05-22": 7006,
-  "2023-05-23": 7007,
-  "2023-05-24": 7007,
-  "2023-05-25": 7007,
-  "2023-05-26": 7006,
-  "2023-05-27": 7005,
-  "2023-05-28": 7004,
-  "2023-05-29": 7004,
-  "2023-05-30": 7003,
-  "2023-05-31": 7003,
-  "2023-06-01": 7002,
-  "2023-06-02": 7002,
-  "2023-06-03": 7002,
-  "2023-06-04": 7002,
-  "2023-06-05": 7002,
-  "2023-06-06": 7002,
-  "2023-06-07": 7003,
-  "2023-06-08": 7001,
-  "2023-06-09": 7004,
-  "2023-06-10": 7004,
-  "2023-06-11": 7004,
-  "2023-06-12": 7004,
-  "2023-06-13": 7003,
-  "2023-06-14": 7003,
-  "2023-06-15": 7004,
-  "2023-06-16": 7004,
-  "2023-06-17": 7004,
-  "2023-06-18": 7003,
-  "2023-06-19": 7003,
-  "2023-06-20": 7001,
-  "2023-06-21": 7000,
-  "2023-06-22": 7000,
-  "2023-06-23": 7000,
-  "2023-06-24": 7000,
-  "2023-06-25": 7000,
-  "2023-06-26": 7001,
-  "2023-06-27": 7000,
-  "2023-06-28": 7000,
-  "2023-06-29": 7000,
-  "2023-06-30": 7001,
-  "2023-07-01": 7002,
-  "2023-07-02": 7002,
-  "2023-07-03": 7005,
-  "2023-07-04": 7005,
-  "2023-07-05": 7005,
-  "2023-07-06": 7006,
-  "2023-07-07": 7006,
-  "2023-07-08": 7006,
-  "2023-07-09": 7005,
-  "2023-07-10": 7005,
-  "2023-07-11": 7005,
-  "2023-07-12": 7005,
-  "2023-07-13": 7005,
-  "2023-07-14": 7005,
-  "2023-07-15": 7005,
-  "2023-07-16": 7005,
-  "2023-07-17": 7005,
-  "2023-07-18": 7005,
-  "2023-07-19": 7004,
-  "2023-07-20": 7005,
-  "2023-07-21": 7005,
-  "2023-07-22": 7005,
-  "2023-07-23": 7006,
-  "2023-07-24": 7005,
-  "2023-07-25": 7005,
-  "2023-07-26": 7005,
-  "2023-07-27": 7004,
-  "2023-07-28": 7002,
-  "2023-07-29": 7002,
-  "2023-07-30": 7002,
-  "2023-07-31": 7002,
-  "2023-08-01": 7003,
-  "2023-08-02": 7004,
-  "2023-08-03": 7003,
-  "2023-08-04": 7004,
-  "2023-08-05": 7005,
-  "2023-08-06": 7004,
-  "2023-08-07": 7004,
-  "2023-08-08": 7004,
-  "2023-08-09": 7003,
-  "2023-08-10": 7004,
-  "2023-08-11": 7005,
-  "2023-08-12": 7005,
-  "2023-08-13": 7004,
-  "2023-08-14": 7005,
-  "2023-08-15": 7005,
-  "2023-08-16": 7005,
-  "2023-08-17": 7006,
-  "2023-08-18": 7006,
-  "2023-08-19": 7007,
-  "2023-08-20": 7008,
-  "2023-08-21": 7008,
-  "2023-08-22": 7008,
-  "2023-08-23": 7008,
-  "2023-08-24": 7009,
-  "2023-08-25": 7010,
-  "2023-08-26": 7010,
-  "2023-08-27": 7010,
-  "2023-08-28": 7011,
-  "2023-08-29": 7011,
-  "2023-08-30": 7012,
-  "2023-08-31": 7013,
-  "2023-09-01": 7012,
-  "2023-09-02": 7012,
-  "2023-09-03": 7012,
-  "2023-09-04": 7011,
-  "2023-09-05": 7012,
-  "2023-09-06": 7012,
-  "2023-09-07": 7012,
-  "2023-09-08": 7011,
-  "2023-09-09": 7011,
-  "2023-09-10": 7012,
-  "2023-09-11": 7011,
-  "2023-09-12": 7008,
-  "2023-09-13": 7008,
-  "2023-09-14": 7008,
-  "2023-09-15": 7008,
-  "2023-09-16": 7009,
-  "2023-09-17": 7008,
-  "2023-09-18": 7008,
-  "2023-09-19": 7008,
-  "2023-09-20": 7008,
-  "2023-09-21": 7008,
-  "2023-09-22": 7009,
-  "2023-09-23": 7009,
-  "2023-09-24": 7009,
-  "2023-09-25": 7009,
-  "2023-09-26": 7010,
-  "2023-09-27": 7010,
-  "2023-09-28": 7009,
-  "2023-09-29": 7009,
-  "2023-09-30": 7009,
-  "2023-10-01": 7009,
-  "2023-10-02": 7010,
-  "2023-10-03": 7010,
-  "2023-10-04": 7010,
-  "2023-10-05": 7010,
-  "2023-10-06": 7008,
-  "2023-10-07": 7006,
-  "2023-10-08": 7006,
-  "2023-10-09": 7006,
-  "2023-10-10": 7005,
-  "2023-10-11": 7005,
-  "2023-10-12": 7005,
-  "2023-10-13": 7006,
-  "2023-10-14": 7004,
-  "2023-10-15": 7004,
-  "2023-10-16": 7004,
-  "2023-10-17": 7004,
-  "2023-10-18": 7004,
-  "2023-10-19": 7003,
-  "2023-10-20": 7003,
-  "2023-10-21": 7002,
-  "2023-10-22": 7002,
-  "2023-10-23": 7002,
-  "2023-10-24": 7002,
-  "2023-10-25": 7002,
-  "2023-10-26": 7003,
-  "2023-10-27": 7004,
-  "2023-10-28": 7004,
-  "2023-10-29": 7004,
-  "2023-10-30": 7005,
-  "2023-10-31": 7005,
-  "2023-11-01": 7003,
-  "2023-11-02": 7003,
-  "2023-11-03": 7004,
-  "2023-11-04": 7004,
-  "2023-11-05": 7004,
-  "2023-11-06": 7004,
-  "2023-11-07": 7004,
-  "2023-11-08": 7004,
-  "2023-11-09": 7004,
-  "2023-11-10": 7004,
-  "2023-11-11": 7004,
-  "2023-11-12": 7004,
-  "2023-11-13": 7004,
-  "2023-11-14": 7004,
-  "2023-11-15": 7004,
-  "2023-11-16": 7004,
-  "2023-11-17": 7004,
-  "2023-11-18": 7004,
-  "2023-11-19": 7004,
-  "2023-11-20": 7003,
-  "2023-11-21": 7004,
-  "2023-11-22": 7004,
-  "2023-11-23": 7005,
-  "2023-11-24": 7005,
-  "2023-11-25": 7005,
-  "2023-11-26": 7005,
-  "2023-11-27": 7004,
-  "2023-11-28": 7002,
-  "2023-11-29": 7001,
-  "2023-11-30": 7001,
-  "2023-12-01": 7002,
-  "2023-12-02": 7002,
-  "2023-12-03": 7003,
-  "2023-12-04": 7004,
-  "2023-12-05": 7004,
-  "2023-12-06": 7005,
-  "2023-12-07": 7005,
-  "2023-12-08": 7005,
-  "2023-12-09": 7004,
-  "2023-12-10": 7004,
-  "2023-12-11": 7004,
-  "2023-12-12": 7005,
-  "2023-12-13": 7004,
-  "2023-12-14": 7006,
-  "2023-12-15": 7005,
-  "2023-12-16": 7007,
-  "2023-12-17": 7007,
-  "2023-12-18": 7007,
-  "2023-12-19": 7007,
-  "2023-12-20": 7005,
-  "2023-12-21": 7005,
-  "2023-12-22": 7005,
-  "2023-12-23": 7005,
-  "2023-12-24": 7005,
-  "2023-12-25": 7004,
-  "2023-12-26": 7003,
-  "2023-12-27": 7002,
-  "2023-12-30": 7000,
-  "2023-12-31": 7000,
-  "2024-01-01": 7000,
-  "2024-01-02": 7000,
-  "2024-01-03": 7000
+  "2024-01-17": 6996,
+  "date_first_scraped": "2022-06-05",
+  "description": "Brought to you by <a href=\"spotify:artist:2cADQgiLMjNhbsfeN52Bf3\">Swizz Beatz</a> and <a href=\"spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ\">Timbaland</a>.",
+  "name": "Verzuz: The-Dream vs. Sean Garrett",
+  "tracks": [
+    {
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Chimamanda Ngozi Adichie",
+          "url": "https://open.spotify.com/artist/2jmAsMZ9hdMfeyCLiBeCzI"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250960,
+      "name": "***Flawless (feat. Chimamanda Ngozi Adichie)",
+      "url": "https://open.spotify.com/track/7tefUew2RUuSAqHyegMoY1"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273880,
+      "name": "1+1",
+      "url": "https://open.spotify.com/track/1pzJboOZaDNwshBnOlNh3a"
+    },
+    {
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203800,
+      "name": "Ain't No Way (You Won't Love Me)",
+      "url": "https://open.spotify.com/track/74rIUpem6Mzx2iNi8Fr1vM"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
+    },
+    {
+      "album": {
+        "name": "My World 2.0",
+        "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214240,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+    },
+    {
+      "album": {
+        "name": "Back Of My Lac'",
+        "url": "https://open.spotify.com/album/1Ypwht853ZVmsplg2DnZLI"
+      },
+      "artists": [
+        {
+          "name": "J. Holiday",
+          "url": "https://open.spotify.com/artist/7G6hXrjGpi6I7waNl4wxAk"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275106,
+      "name": "Bed",
+      "url": "https://open.spotify.com/track/6TlRNJaezOdzdECnQeRuMM"
+    },
+    {
+      "album": {
+        "name": "The Best of Donell Jones",
+        "url": "https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf"
+      },
+      "artists": [
+        {
+          "name": "Donell Jones",
+          "url": "https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B"
+        },
+        {
+          "name": "Jermaine Dupri",
+          "url": "https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251773,
+      "name": "Better Start Talking (feat. Jermaine Dupri) - Main",
+      "url": "https://open.spotify.com/track/253hJk3SfCODCN85ZDRsJV"
+    },
+    {
+      "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78200,
+      "name": "Birthday Cake",
+      "url": "https://open.spotify.com/track/4EfN6bixdOOgoLYR5C4cWo"
+    },
+    {
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/4Tk1gvdwy7TL3Ma2s9iZ9f"
+      },
+      "artists": [
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289746,
+      "name": "Blame It",
+      "url": "https://open.spotify.com/track/08uGhvS5MfBk7crUCpnjva"
+    },
+    {
+      "album": {
+        "name": "The Hits",
+        "url": "https://open.spotify.com/album/5t7npNnvzI7Mo1N3mfHpP6"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        },
+        {
+          "name": "Too $hort",
+          "url": "https://open.spotify.com/artist/4sb7rZNN93BSS6Gqgepo4v"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272546,
+      "name": "Bossy (feat. Too $hort)",
+      "url": "https://open.spotify.com/track/37t0Qym2FUMXwoEfeFDEYa"
+    },
+    {
+      "album": {
+        "name": "D.N.A.",
+        "url": "https://open.spotify.com/album/41Tj1cy7HlmdSmaOO6f6Tl"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249026,
+      "name": "Break Up",
+      "url": "https://open.spotify.com/track/4UP5HP7IAnNdxD01g1lzQp"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
+    },
+    {
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225560,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/3BxWKCI06eQ5Od8TY2JBeA"
+    },
+    {
+      "album": {
+        "name": "B'Day",
+        "url": "https://open.spotify.com/album/77eZ5eMEh3U0KWricrbevO"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Slim Thug",
+          "url": "https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210453,
+      "name": "Check On It (feat. Bun B & Slim Thug)",
+      "url": "https://open.spotify.com/track/2RWxrpsFshOBFwRBRstUlQ"
+    },
+    {
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285066,
+      "name": "Code Blue",
+      "url": "https://open.spotify.com/track/17YVl4TzNHQlHIyokvt1TD"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Countdown",
+      "url": "https://open.spotify.com/track/3axkNosdVQLZiq1HakuGhc"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377466,
+      "name": "Dance for You",
+      "url": "https://open.spotify.com/track/7cvkXf3AwPGT041PyOi5VX"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Sterling Simms",
+          "url": "https://open.spotify.com/artist/3KLnSYaRRa4Kur781SHxUL"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251440,
+      "name": "Dig A Hole",
+      "url": "https://open.spotify.com/track/4UjLz0FtEK6mkofHjZHSwQ"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/5Ssv6DaKrW0HczVqx6zXdl"
+    },
+    {
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve"
+      },
+      "artists": [
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        },
+        {
+          "name": "Twista",
+          "url": "https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258800,
+      "name": "DJ Play A Love Song (feat. Twista)",
+      "url": "https://open.spotify.com/track/2F1H1Tm2qJmeiFcUi7vZiL"
+    },
+    {
+      "album": {
+        "name": "The Breakthrough",
+        "url": "https://open.spotify.com/album/13HYuDhB1soZvHzwoymXoV"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Brooklynn",
+          "url": "https://open.spotify.com/artist/4GrVVlog2emXt8qBhJYclT"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260893,
+      "name": "Enough Cryin",
+      "url": "https://open.spotify.com/track/7mwLsFXNBWbtFzA032tUbx"
+    },
+    {
+      "album": {
+        "name": "NASIR",
+        "url": "https://open.spotify.com/album/66EwBbt2kPgugo8Wz0SKAw"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 452504,
+      "name": "everything",
+      "url": "https://open.spotify.com/track/3XaNHbNa9Chz9plhRpcaof"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271173,
+      "name": "Falsetto",
+      "url": "https://open.spotify.com/track/2P1e3xpjDhYFqOFeu8IWzS"
+    },
+    {
+      "album": {
+        "name": "Love Vs Money",
+        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389773,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/6FYBcMhwABrPvxGkQiXEON"
+    },
+    {
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379120,
+      "name": "Get Me Bodied - Extended Mix",
+      "url": "https://open.spotify.com/track/3W1mdCYUHWewrVXnRsPntM"
+    },
+    {
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186826,
+      "name": "Gimme That",
+      "url": "https://open.spotify.com/track/53ETzLQQKFCzykRbqWb1ph"
+    },
+    {
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224146,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3s2MyU2YCwNNwcSokt0jXD"
+    },
+    {
+      "album": {
+        "name": "Goodies",
+        "url": "https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        },
+        {
+          "name": "Petey Pablo",
+          "url": "https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Goodies (feat. Petey Pablo)",
+      "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
+    },
+    {
+      "album": {
+        "name": "Sweatsuit",
+        "url": "https://open.spotify.com/album/3W18dxZsE9GnP8DQrnGeBW"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Ali & Gipp",
+          "url": "https://open.spotify.com/artist/01ZpL2TZ4QxYNDLc70RIiT"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271160,
+      "name": "Grillz",
+      "url": "https://open.spotify.com/track/0Aqlt4N5h6rUtKnd09VXpr"
+    },
+    {
+      "album": {
+        "name": "Rated R",
+        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250600,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/3YJkAQNEhmCZGLdmPsu6Ye"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267866,
+      "name": "I Luv Your Girl",
+      "url": "https://open.spotify.com/track/3wkNK8tJZ2stygNJm8RCRD"
+    },
+    {
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
+    },
+    {
+      "album": {
+        "name": "Ms. Kelly",
+        "url": "https://open.spotify.com/album/2aBdyOINaz4J1aap1eoLPW"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Like This (feat. Eve)",
+      "url": "https://open.spotify.com/track/3sfydNh0QQAdnIAtDVG16H"
+    },
+    {
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241306,
+      "name": "London Bridge",
+      "url": "https://open.spotify.com/track/7jRoWfRlLnGYEIEn4t4kbq"
+    },
+    {
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/4dvQg9sD8k9y4qiEURuj8v"
+    },
+    {
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
+    },
+    {
+      "album": {
+        "name": "Last Train To Paris",
+        "url": "https://open.spotify.com/album/2psjRixnoePs8ZqE8cuU5Z"
+      },
+      "artists": [
+        {
+          "name": "Diddy - Dirty Money",
+          "url": "https://open.spotify.com/artist/2QYEvpsWUOjqaYuxDPTCmV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Loving You No More",
+      "url": "https://open.spotify.com/track/1A0qqpBZTPWO2H7tyOBqlE"
+    },
+    {
+      "album": {
+        "name": "Roc-A-Fella Records Presents Teairra Mar\u00ed",
+        "url": "https://open.spotify.com/album/3RXQWVnlyRDhag6njdbCrZ"
+      },
+      "artists": [
+        {
+          "name": "Teairra Mar\u00ed",
+          "url": "https://open.spotify.com/artist/6Mox9P9U7HpuAd9ULwvP7N"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226013,
+      "name": "Make Her Feel Good",
+      "url": "https://open.spotify.com/track/03B0yrE4zrioHjmY05l9xz"
+    },
+    {
+      "album": {
+        "name": "Mi Gente (feat. Beyonc\u00e9)",
+        "url": "https://open.spotify.com/album/55228F4QRlYDzJ4H02tDHA"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "Mi Gente (feat. Beyonc\u00e9)",
+      "url": "https://open.spotify.com/track/0GzmMQizDeA2NVMUaZksv0"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 272506,
+      "name": "No Church In The Wild",
+      "url": "https://open.spotify.com/track/3Osd3Yf8K73aj4ySn6LrvK"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272506,
+      "name": "No Church In The Wild",
+      "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
+    },
+    {
+      "album": {
+        "name": "Memoirs of an imperfect Angel",
+        "url": "https://open.spotify.com/album/3RPImDZ7Ihh5YR5iJh1gH1"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242200,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/3IcIIZMMS7UArJJPtEHXG8"
+    },
+    {
+      "album": {
+        "name": "Raymond v Raymond (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6A1F3Fkq5dYeYYNkXflcTX"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261413,
+      "name": "Papers",
+      "url": "https://open.spotify.com/track/77fP7UixHMYEIFT8NS92Ul"
+    },
+    {
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319466,
+      "name": "Partition",
+      "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "Playin' In Her Hair",
+      "url": "https://open.spotify.com/track/4nADMbhDxHvT99gRqj5O21"
+    },
+    {
+      "album": {
+        "name": "Love/Hate",
+        "url": "https://open.spotify.com/album/5yZReyaWQzR6jvaw4OBxzV"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313480,
+      "name": "Purple Kisses",
+      "url": "https://open.spotify.com/track/2V5Z2ufbahT6PQSJiRBWyJ"
+    },
+    {
+      "album": {
+        "name": "Two Eleven (Deluxe Version)",
+        "url": "https://open.spotify.com/album/41PwFUEt9XE3Cz0H8RA7vU"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246213,
+      "name": "Put It Down (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/6XDSSxwOntlKPkE6wVzucb"
+    },
+    {
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Ring The Alarm",
+      "url": "https://open.spotify.com/track/5BkHkyO9PFXs1m7vSMnXp4"
+    },
+    {
+      "album": {
+        "name": "Love Vs Money",
+        "url": "https://open.spotify.com/album/3mNAV7P7KJzBxmrWfjtocw"
+      },
+      "artists": [
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221920,
+      "name": "Rockin' That Shit",
+      "url": "https://open.spotify.com/track/3RBGG1be9aBaSvjnw6ABkh"
+    },
+    {
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Juelz Santana",
+          "url": "https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229866,
+      "name": "Run It! (feat. Juelz Santana)",
+      "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "album": {
+        "name": "A Written Testimony",
+        "url": "https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu"
+      },
+      "artists": [
+        {
+          "name": "Jay Electronica",
+          "url": "https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243565,
+      "name": "Shiny Suit Theory feat. The-Dream",
+      "url": "https://open.spotify.com/track/51u3nlTacgtiWxRQGPd4go"
+    },
+    {
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419306,
+      "name": "Shut It Down",
+      "url": "https://open.spotify.com/track/3d8PDk3B4am5c6TsUCznUW"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
+    },
+    {
+      "album": {
+        "name": "Two Eleven (Deluxe Version)",
+        "url": "https://open.spotify.com/album/41PwFUEt9XE3Cz0H8RA7vU"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271280,
+      "name": "So Sick",
+      "url": "https://open.spotify.com/track/1sQVBOZKJuSyCL0IIU2jj6"
+    },
+    {
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/0b6ivSFfDs38MG7aLn9rvO"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325573,
+      "name": "Soldier (feat. T.I. & Lil' Wayne)",
+      "url": "https://open.spotify.com/track/4FTOpNYcGxnQdGNWSxIcio"
+    },
+    {
+      "album": {
+        "name": "Loso's Way",
+        "url": "https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Throw It In The Bag",
+      "url": "https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3"
+    },
+    {
+      "album": {
+        "name": "E=MC\u00b2",
+        "url": "https://open.spotify.com/album/7JXUd8N7OXYQz981E5Jaq2"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 204733,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/2H1l4JczUDbiWfQtQElB05"
+    },
+    {
+      "album": {
+        "name": "E=MC2",
+        "url": "https://open.spotify.com/album/31MluXLYC0ZnCSfUZ5T4GX"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204733,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/2aEuXA1KswHlCGPOuPmCOW"
+    },
+    {
+      "album": {
+        "name": "Pop of the 2000s: Celebrating Pride 2021",
+        "url": "https://open.spotify.com/album/13VOOTD4mkPZdwg0qJ2YCs"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 204733,
+      "name": "Touch My Body",
+      "url": "https://open.spotify.com/track/5uZGBic80dDBTlTQOuphVo"
+    },
+    {
+      "album": {
+        "name": "Pleasure & Pain",
+        "url": "https://open.spotify.com/album/3gY1qUrGzKNQnorPC9Lu72"
+      },
+      "artists": [
+        {
+          "name": "112",
+          "url": "https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198880,
+      "name": "U Already Know",
+      "url": "https://open.spotify.com/track/0ahRDzkKq0KEi7FRoHb0qk"
+    },
+    {
+      "album": {
+        "name": "Good Girl Gone Bad: Reloaded",
+        "url": "https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275986,
+      "name": "Umbrella",
+      "url": "https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux"
+    },
+    {
+      "album": {
+        "name": "B'Day Deluxe Edition",
+        "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273053,
+      "name": "Upgrade U (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/0GLUBbX4daHJkT3RQHEOia"
+    },
+    {
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/23Y5wdyP5byMFktZf8AcWU"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215440,
+      "name": "Video Phone",
+      "url": "https://open.spotify.com/track/53hNzjDClsnsdYpLIwqXvn"
+    },
+    {
+      "album": {
+        "name": "Exclusive (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223186,
+      "name": "Wall To Wall",
+      "url": "https://open.spotify.com/track/5Zu4UO0QlderRYNPFkbJeO"
+    },
+    {
+      "album": {
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215946,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/40xhyfAPDoMtv494MfPevP"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2020-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWVCnP7z928RW"
 }

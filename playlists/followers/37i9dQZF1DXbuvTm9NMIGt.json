@@ -1,735 +1,909 @@
 {
-  "2021-12-25": 1576679,
-  "2021-12-26": 1577097,
-  "2021-12-27": 1577993,
-  "2021-12-28": 1577999,
-  "2021-12-29": 1578478,
-  "2021-12-30": 1579026,
-  "2021-12-31": 1579550,
-  "2022-01-01": 1580430,
-  "2022-01-02": 1580595,
-  "2022-01-03": 1580944,
-  "2022-01-04": 1581295,
-  "2022-01-05": 1581682,
-  "2022-01-06": 1582115,
-  "2022-01-07": 1582622,
-  "2022-01-08": 1583615,
-  "2022-01-09": 1583623,
-  "2022-01-10": 1584047,
-  "2022-01-11": 1584104,
-  "2022-01-12": 1584322,
-  "2022-01-13": 1584322,
-  "2022-01-14": 1584322,
-  "2022-01-15": 1584322,
-  "2022-01-16": 1584322,
-  "2022-01-17": 1584322,
-  "2022-01-18": 1584322,
-  "2022-01-19": 1584322,
-  "2022-01-20": 1584322,
-  "2022-01-21": 1584322,
-  "2022-01-22": 1584322,
-  "2022-01-23": 1584322,
-  "2022-01-24": 1584322,
-  "2022-01-25": 1584322,
-  "2022-01-26": 1584322,
-  "2022-01-27": 1584322,
-  "2022-01-28": 1584322,
-  "2022-01-29": 1584322,
-  "2022-01-30": 1584322,
-  "2022-01-31": 1584322,
-  "2022-02-01": 1584322,
-  "2022-02-02": 1584322,
-  "2022-02-03": 1584322,
-  "2022-02-04": 1584322,
-  "2022-02-05": 1584322,
-  "2022-02-06": 1584322,
-  "2022-02-07": 1584322,
-  "2022-02-08": 1584322,
-  "2022-02-09": 1584322,
-  "2022-02-10": 1584322,
-  "2022-02-11": 1584322,
-  "2022-02-12": 1584322,
-  "2022-02-13": 1584322,
-  "2022-02-14": 1584322,
-  "2022-02-15": 1584322,
-  "2022-02-16": 1584322,
-  "2022-02-17": 1584322,
-  "2022-02-18": 1584322,
-  "2022-02-19": 1584322,
-  "2022-02-20": 1584322,
-  "2022-02-21": 1584322,
-  "2022-02-22": 1584322,
-  "2022-02-23": 1584322,
-  "2022-02-24": 1584322,
-  "2022-02-25": 1584322,
-  "2022-02-26": 1584322,
-  "2022-02-27": 1584322,
-  "2022-02-28": 1584322,
-  "2022-03-01": 1584322,
-  "2022-03-02": 1584322,
-  "2022-03-03": 1584322,
-  "2022-03-04": 1584322,
-  "2022-03-05": 1584322,
-  "2022-03-06": 1584322,
-  "2022-03-07": 1584322,
-  "2022-03-08": 1584322,
-  "2022-03-09": 1584322,
-  "2022-03-10": 1584322,
-  "2022-03-11": 1584322,
-  "2022-03-12": 1584322,
-  "2022-03-13": 1584322,
-  "2022-03-14": 1584322,
-  "2022-03-15": 1584322,
-  "2022-03-16": 1584322,
-  "2022-03-17": 1584322,
-  "2022-03-18": 1584322,
-  "2022-03-19": 1584322,
-  "2022-03-20": 1584322,
-  "2022-03-21": 1584322,
-  "2022-03-22": 1584322,
-  "2022-03-23": 1584322,
-  "2022-03-24": 1584322,
-  "2022-03-25": 1584322,
-  "2022-03-26": 1584322,
-  "2022-03-27": 1584322,
-  "2022-03-28": 1584322,
-  "2022-03-30": 1584322,
-  "2022-03-31": 1584322,
-  "2022-04-01": 1584322,
-  "2022-04-02": 1584322,
-  "2022-04-03": 1584322,
-  "2022-04-04": 1584322,
-  "2022-04-05": 1584322,
-  "2022-04-06": 1584322,
-  "2022-04-07": 1584322,
-  "2022-04-08": 1584322,
-  "2022-04-09": 1584322,
-  "2022-04-10": 1584322,
-  "2022-04-11": 1584322,
-  "2022-04-12": 1584322,
-  "2022-04-13": 1584322,
-  "2022-04-14": 1584322,
-  "2022-04-15": 1584322,
-  "2022-04-16": 1584322,
-  "2022-04-17": 1584322,
-  "2022-04-18": 1584322,
-  "2022-04-19": 1584322,
-  "2022-04-20": 1584322,
-  "2022-04-21": 1584322,
-  "2022-04-22": 1584322,
-  "2022-04-23": 1584322,
-  "2022-04-24": 1584322,
-  "2022-04-25": 1584322,
-  "2022-04-26": 1584322,
-  "2022-04-27": 1584322,
-  "2022-04-28": 1584322,
-  "2022-04-29": 1584322,
-  "2022-04-30": 1584322,
-  "2022-05-01": 1584322,
-  "2022-05-02": 1584322,
-  "2022-05-03": 1584322,
-  "2022-05-04": 1584322,
-  "2022-05-05": 1584322,
-  "2022-05-06": 1584322,
-  "2022-05-07": 1584322,
-  "2022-05-08": 1584322,
-  "2022-05-09": 1584322,
-  "2022-05-10": 1584322,
-  "2022-05-11": 1584322,
-  "2022-05-12": 1584322,
-  "2022-05-13": 1584322,
-  "2022-05-14": 1584322,
-  "2022-05-15": 1584322,
-  "2022-05-16": 1584322,
-  "2022-05-17": 1584322,
-  "2022-05-18": 1584322,
-  "2022-05-19": 1584322,
-  "2022-05-20": 1584322,
-  "2022-05-21": 1584322,
-  "2022-05-22": 1584322,
-  "2022-05-23": 1584322,
-  "2022-05-24": 1584322,
-  "2022-05-25": 1584322,
-  "2022-05-26": 1584322,
-  "2022-05-27": 1584322,
-  "2022-05-28": 1584322,
-  "2022-05-29": 1584322,
-  "2022-05-30": 1584322,
-  "2022-05-31": 1584322,
-  "2022-06-01": 1584322,
-  "2022-06-02": 1584322,
-  "2022-06-03": 1584322,
-  "2022-06-04": 1584322,
-  "2022-06-05": 1584322,
-  "2022-06-06": 1584322,
-  "2022-06-07": 1584322,
-  "2022-06-08": 1584322,
-  "2022-06-09": 1584322,
-  "2022-06-10": 1584322,
-  "2022-06-11": 1584322,
-  "2022-06-12": 1584322,
-  "2022-06-13": 1584322,
-  "2022-06-14": 1584322,
-  "2022-06-15": 1584322,
-  "2022-06-16": 1584322,
-  "2022-06-17": 1584322,
-  "2022-06-18": 1584322,
-  "2022-06-19": 1584322,
-  "2022-06-20": 1584322,
-  "2022-06-21": 1584322,
-  "2022-06-22": 1584322,
-  "2022-06-23": 1584322,
-  "2022-06-24": 1584322,
-  "2022-06-25": 1584322,
-  "2022-06-26": 1584322,
-  "2022-06-27": 1584322,
-  "2022-06-28": 1584322,
-  "2022-06-29": 1584322,
-  "2022-06-30": 1584322,
-  "2022-07-01": 1584322,
-  "2022-07-02": 1584322,
-  "2022-07-03": 1584322,
-  "2022-07-04": 1584322,
-  "2022-07-05": 1584322,
-  "2022-07-06": 1584322,
-  "2022-07-07": 1584322,
-  "2022-07-08": 1584322,
-  "2022-07-09": 1584322,
-  "2022-07-10": 1584322,
-  "2022-07-11": 1584322,
-  "2022-07-12": 1584322,
-  "2022-07-13": 1584322,
-  "2022-07-14": 1584322,
-  "2022-07-15": 1584322,
-  "2022-07-16": 1584322,
-  "2022-07-17": 1584322,
-  "2022-07-18": 1584322,
-  "2022-07-19": 1584322,
-  "2022-07-20": 1584322,
-  "2022-07-21": 1584322,
-  "2022-07-22": 1584322,
-  "2022-07-23": 1584322,
-  "2022-07-24": 1584322,
-  "2022-07-25": 1584322,
-  "2022-07-26": 1584322,
-  "2022-07-27": 1584322,
-  "2022-07-28": 1584322,
-  "2022-07-29": 1584322,
-  "2022-07-30": 1584322,
-  "2022-07-31": 1584322,
-  "2022-08-01": 1584322,
-  "2022-08-02": 1584322,
-  "2022-08-03": 1584322,
-  "2022-08-04": 1584322,
-  "2022-08-05": 1584322,
-  "2022-08-06": 1584322,
-  "2022-08-07": 1584322,
-  "2022-08-08": 1584322,
-  "2022-08-09": 1584322,
-  "2022-08-10": 1584322,
-  "2022-08-11": 1584322,
-  "2022-08-12": 1584322,
-  "2022-08-13": 1584322,
-  "2022-08-14": 1584322,
-  "2022-08-15": 1584322,
-  "2022-08-16": 1584322,
-  "2022-08-17": 1584322,
-  "2022-08-18": 1584322,
-  "2022-08-19": 1584322,
-  "2022-08-20": 1584322,
-  "2022-08-21": 1584322,
-  "2022-08-22": 1584322,
-  "2022-08-23": 1584322,
-  "2022-08-24": 1584322,
-  "2022-08-25": 1584322,
-  "2022-08-26": 1584322,
-  "2022-08-27": 1584322,
-  "2022-08-28": 1584322,
-  "2022-08-29": 1584322,
-  "2022-08-30": 1584322,
-  "2022-08-31": 1584322,
-  "2022-09-01": 1584322,
-  "2022-09-02": 1584322,
-  "2022-09-03": 1584322,
-  "2022-09-04": 1584322,
-  "2022-09-05": 1584322,
-  "2022-09-06": 1584322,
-  "2022-09-07": 1584322,
-  "2022-09-09": 1584322,
-  "2022-09-10": 1584322,
-  "2022-09-11": 1584322,
-  "2022-09-12": 1584322,
-  "2022-09-13": 1584322,
-  "2022-09-15": 1584322,
-  "2022-09-16": 1584322,
-  "2022-09-17": 1584322,
-  "2022-09-18": 1584322,
-  "2022-09-19": 1584322,
-  "2022-09-20": 1584322,
-  "2022-09-21": 1584322,
-  "2022-09-22": 1584322,
-  "2022-09-23": 1584322,
-  "2022-09-24": 1584322,
-  "2022-09-25": 1584322,
-  "2022-09-26": 1584322,
-  "2022-09-27": 1584322,
-  "2022-09-28": 1584322,
-  "2022-09-29": 1584322,
-  "2022-09-30": 1584322,
-  "2022-10-01": 1584322,
-  "2022-10-02": 1584322,
-  "2022-10-03": 1584322,
-  "2022-10-04": 1584322,
-  "2022-10-05": 1584322,
-  "2022-10-06": 1584322,
-  "2022-10-07": 1584322,
-  "2022-10-08": 1584322,
-  "2022-10-09": 1584322,
-  "2022-10-10": 1584322,
-  "2022-10-11": 1584322,
-  "2022-10-12": 1584322,
-  "2022-10-13": 1584322,
-  "2022-10-14": 1584322,
-  "2022-10-15": 1584322,
-  "2022-10-16": 1584322,
-  "2022-10-17": 1584322,
-  "2022-10-18": 1584322,
-  "2022-10-19": 1584322,
-  "2022-10-20": 1584322,
-  "2022-10-21": 1584322,
-  "2022-10-22": 1584322,
-  "2022-10-23": 1584322,
-  "2022-10-24": 1584322,
-  "2022-10-25": 1584322,
-  "2022-10-26": 1584322,
-  "2022-10-27": 1584322,
-  "2022-10-28": 1584322,
-  "2022-10-29": 1584322,
-  "2022-10-30": 1584322,
-  "2022-10-31": 1584322,
-  "2022-11-01": 1584322,
-  "2022-11-02": 1584322,
-  "2022-11-03": 1584322,
-  "2022-11-04": 1584322,
-  "2022-11-05": 1584322,
-  "2022-11-06": 1584322,
-  "2022-11-07": 1584322,
-  "2022-11-08": 1584322,
-  "2022-11-09": 1584322,
-  "2022-11-10": 1584322,
-  "2022-11-11": 1584322,
-  "2022-11-12": 1584322,
-  "2022-11-13": 1584322,
-  "2022-11-14": 1584322,
-  "2022-11-15": 1584322,
-  "2022-11-16": 1584322,
-  "2022-11-17": 1584322,
-  "2022-11-18": 1584322,
-  "2022-11-19": 1584322,
-  "2022-11-20": 1584322,
-  "2022-11-21": 1584322,
-  "2022-11-22": 1584322,
-  "2022-11-23": 1584322,
-  "2022-11-24": 1584322,
-  "2022-11-25": 1584322,
-  "2022-11-26": 1584322,
-  "2022-11-27": 1584322,
-  "2022-11-28": 1584322,
-  "2022-11-29": 1584322,
-  "2022-11-30": 1584322,
-  "2022-12-01": 1584322,
-  "2022-12-02": 1584322,
-  "2022-12-03": 1584322,
-  "2022-12-04": 1584322,
-  "2022-12-05": 1584322,
-  "2022-12-06": 1584322,
-  "2022-12-07": 1584322,
-  "2022-12-08": 1584322,
-  "2022-12-09": 1584322,
-  "2022-12-10": 1584322,
-  "2022-12-11": 1584322,
-  "2022-12-12": 1584322,
-  "2022-12-13": 1584322,
-  "2022-12-14": 1584322,
-  "2022-12-15": 1584322,
-  "2022-12-16": 1584322,
-  "2022-12-17": 1584322,
-  "2022-12-18": 1584322,
-  "2022-12-19": 1584322,
-  "2022-12-20": 1584322,
-  "2022-12-21": 1584322,
-  "2022-12-22": 1584322,
-  "2022-12-24": 1584322,
-  "2022-12-25": 1584322,
-  "2022-12-26": 1584322,
-  "2022-12-27": 1584322,
-  "2022-12-28": 1584322,
-  "2022-12-29": 1584322,
-  "2022-12-30": 1584322,
-  "2022-12-31": 1584322,
-  "2023-01-01": 1584322,
-  "2023-01-02": 1584322,
-  "2023-01-03": 1584322,
-  "2023-01-04": 1584322,
-  "2023-01-05": 1584322,
-  "2023-01-06": 1584322,
-  "2023-01-07": 1584322,
-  "2023-01-08": 1584322,
-  "2023-01-09": 1584322,
-  "2023-01-10": 1584322,
-  "2023-01-11": 1584322,
-  "2023-01-12": 1584322,
-  "2023-01-13": 1584322,
-  "2023-01-14": 1584322,
-  "2023-01-15": 1584322,
-  "2023-01-16": 1584322,
-  "2023-01-17": 1584322,
-  "2023-01-18": 1584322,
-  "2023-01-19": 1584322,
-  "2023-01-20": 1584322,
-  "2023-01-21": 1584322,
-  "2023-01-22": 1584322,
-  "2023-01-23": 1584322,
-  "2023-01-24": 1584322,
-  "2023-01-25": 1584322,
-  "2023-01-26": 1584322,
-  "2023-01-27": 1584322,
-  "2023-01-28": 1584322,
-  "2023-01-29": 1584322,
-  "2023-01-30": 1584322,
-  "2023-01-31": 1584322,
-  "2023-02-01": 1584322,
-  "2023-02-02": 1584322,
-  "2023-02-03": 1584322,
-  "2023-02-04": 1584322,
-  "2023-02-05": 1584322,
-  "2023-02-06": 1584322,
-  "2023-02-07": 1584322,
-  "2023-02-08": 1584322,
-  "2023-02-09": 1584322,
-  "2023-02-10": 1584322,
-  "2023-02-11": 1584322,
-  "2023-02-12": 1584322,
-  "2023-02-13": 1584322,
-  "2023-02-14": 1584322,
-  "2023-02-15": 1584322,
-  "2023-02-16": 1584322,
-  "2023-02-17": 1584322,
-  "2023-02-18": 1584322,
-  "2023-02-19": 1584322,
-  "2023-02-20": 1584322,
-  "2023-02-21": 1584322,
-  "2023-02-22": 1584322,
-  "2023-02-23": 1584322,
-  "2023-02-24": 1584322,
-  "2023-02-25": 1584322,
-  "2023-02-26": 1584322,
-  "2023-02-27": 1584322,
-  "2023-02-28": 1584322,
-  "2023-03-01": 1584322,
-  "2023-03-02": 1584322,
-  "2023-03-03": 1584322,
-  "2023-03-04": 1584322,
-  "2023-03-05": 1584322,
-  "2023-03-06": 1584322,
-  "2023-03-07": 1584322,
-  "2023-03-08": 1584322,
-  "2023-03-09": 1584322,
-  "2023-03-10": 1584322,
-  "2023-03-11": 1584322,
-  "2023-03-12": 1584322,
-  "2023-03-13": 1584322,
-  "2023-03-14": 1584322,
-  "2023-03-15": 1584322,
-  "2023-03-16": 1584322,
-  "2023-03-17": 1584322,
-  "2023-03-18": 1584322,
-  "2023-03-19": 1584322,
-  "2023-03-20": 1584322,
-  "2023-03-21": 1584322,
-  "2023-03-22": 1584322,
-  "2023-03-23": 1584322,
-  "2023-03-24": 1584322,
-  "2023-03-25": 1584322,
-  "2023-03-26": 1584322,
-  "2023-03-27": 1584322,
-  "2023-03-28": 1584322,
-  "2023-03-29": 1584322,
-  "2023-03-30": 1584322,
-  "2023-03-31": 1584322,
-  "2023-04-01": 1584322,
-  "2023-04-02": 1584322,
-  "2023-04-03": 1584322,
-  "2023-04-04": 1584322,
-  "2023-04-05": 1584322,
-  "2023-04-06": 1584322,
-  "2023-04-07": 1584322,
-  "2023-04-09": 1584322,
-  "2023-04-10": 1584322,
-  "2023-04-11": 1584322,
-  "2023-04-12": 1584322,
-  "2023-04-13": 1584322,
-  "2023-04-14": 1584322,
-  "2023-04-15": 1584322,
-  "2023-04-16": 1584322,
-  "2023-04-17": 1584322,
-  "2023-04-18": 1584322,
-  "2023-04-19": 1584322,
-  "2023-04-20": 1584322,
-  "2023-04-21": 1584322,
-  "2023-04-22": 1584322,
-  "2023-04-23": 1584322,
-  "2023-04-24": 1584322,
-  "2023-04-25": 1584322,
-  "2023-04-26": 1584322,
-  "2023-04-27": 1584322,
-  "2023-04-28": 1584322,
-  "2023-04-29": 1584322,
-  "2023-04-30": 1584322,
-  "2023-05-01": 1584322,
-  "2023-05-02": 1584322,
-  "2023-05-03": 1584322,
-  "2023-05-04": 1584322,
-  "2023-05-05": 1584322,
-  "2023-05-06": 1584322,
-  "2023-05-07": 1584322,
-  "2023-05-08": 1584322,
-  "2023-05-09": 1584322,
-  "2023-05-10": 1584322,
-  "2023-05-11": 1584322,
-  "2023-05-12": 1584322,
-  "2023-05-13": 1584322,
-  "2023-05-14": 1584322,
-  "2023-05-15": 1584322,
-  "2023-05-16": 1584322,
-  "2023-05-17": 1584322,
-  "2023-05-18": 1584322,
-  "2023-05-19": 1584322,
-  "2023-05-20": 1584322,
-  "2023-05-21": 1584322,
-  "2023-05-22": 1584322,
-  "2023-05-23": 1584322,
-  "2023-05-24": 1584322,
-  "2023-05-25": 1584322,
-  "2023-05-26": 1584322,
-  "2023-05-27": 1584322,
-  "2023-05-28": 1584322,
-  "2023-05-29": 1584322,
-  "2023-05-30": 1584322,
-  "2023-05-31": 1584322,
-  "2023-06-01": 1584322,
-  "2023-06-02": 1584322,
-  "2023-06-03": 1584322,
-  "2023-06-04": 1584322,
-  "2023-06-05": 1584322,
-  "2023-06-06": 1584322,
-  "2023-06-07": 1584322,
-  "2023-06-08": 1584322,
-  "2023-06-09": 1584322,
-  "2023-06-10": 1584322,
-  "2023-06-11": 1584322,
-  "2023-06-12": 1584322,
-  "2023-06-13": 1584322,
-  "2023-06-14": 1584322,
-  "2023-06-15": 1584322,
-  "2023-06-16": 1584322,
-  "2023-06-17": 1584322,
-  "2023-06-18": 1584322,
-  "2023-06-19": 1584322,
-  "2023-06-20": 1584322,
-  "2023-06-21": 1584322,
-  "2023-06-22": 1584322,
-  "2023-06-23": 1584322,
-  "2023-06-24": 1584322,
-  "2023-06-25": 1584322,
-  "2023-06-26": 1584322,
-  "2023-06-27": 1584322,
-  "2023-06-28": 1584322,
-  "2023-06-29": 1584322,
-  "2023-06-30": 1584322,
-  "2023-07-01": 1584322,
-  "2023-07-02": 1584322,
-  "2023-07-03": 1584322,
-  "2023-07-04": 1584322,
-  "2023-07-05": 1584322,
-  "2023-07-06": 1584322,
-  "2023-07-07": 1584322,
-  "2023-07-08": 1584322,
-  "2023-07-09": 1584322,
-  "2023-07-10": 1584322,
-  "2023-07-11": 1584322,
-  "2023-07-12": 1584322,
-  "2023-07-13": 1584322,
-  "2023-07-14": 1584322,
-  "2023-07-15": 1584322,
-  "2023-07-16": 1584322,
-  "2023-07-17": 1584322,
-  "2023-07-18": 1584322,
-  "2023-07-19": 1584322,
-  "2023-07-20": 1584322,
-  "2023-07-21": 1584322,
-  "2023-07-22": 1584322,
-  "2023-07-23": 1584322,
-  "2023-07-24": 1584322,
-  "2023-07-25": 1584322,
-  "2023-07-26": 1584322,
-  "2023-07-27": 1584322,
-  "2023-07-28": 1584322,
-  "2023-07-29": 1584322,
-  "2023-07-30": 1584322,
-  "2023-07-31": 1584322,
-  "2023-08-01": 1584322,
-  "2023-08-02": 1584322,
-  "2023-08-03": 1584322,
-  "2023-08-04": 1584322,
-  "2023-08-05": 1584322,
-  "2023-08-06": 1584322,
-  "2023-08-07": 1584322,
-  "2023-08-08": 1584322,
-  "2023-08-09": 1584322,
-  "2023-08-10": 1584322,
-  "2023-08-11": 1584322,
-  "2023-08-12": 1584322,
-  "2023-08-13": 1584322,
-  "2023-08-14": 1584322,
-  "2023-08-15": 1584322,
-  "2023-08-16": 1584322,
-  "2023-08-17": 1584322,
-  "2023-08-18": 1584322,
-  "2023-08-19": 1584322,
-  "2023-08-20": 1584322,
-  "2023-08-21": 1584322,
-  "2023-08-22": 1584322,
-  "2023-08-23": 1584322,
-  "2023-08-24": 1584322,
-  "2023-08-25": 1584322,
-  "2023-08-26": 1584322,
-  "2023-08-27": 1584322,
-  "2023-08-28": 1584322,
-  "2023-08-29": 1584322,
-  "2023-08-30": 1584322,
-  "2023-08-31": 1584322,
-  "2023-09-01": 1584322,
-  "2023-09-02": 1584322,
-  "2023-09-03": 1584322,
-  "2023-09-04": 1584322,
-  "2023-09-05": 1584322,
-  "2023-09-06": 1584322,
-  "2023-09-07": 1584322,
-  "2023-09-08": 1584322,
-  "2023-09-09": 1584322,
-  "2023-09-10": 1584322,
-  "2023-09-11": 1584322,
-  "2023-09-12": 1584322,
-  "2023-09-13": 1584322,
-  "2023-09-14": 1584322,
-  "2023-09-15": 1584322,
-  "2023-09-16": 1584322,
-  "2023-09-17": 1584322,
-  "2023-09-18": 1584322,
-  "2023-09-19": 1584322,
-  "2023-09-20": 1584322,
-  "2023-09-21": 1584322,
-  "2023-09-22": 1584322,
-  "2023-09-23": 1584322,
-  "2023-09-24": 1584322,
-  "2023-09-25": 1584322,
-  "2023-09-26": 1584322,
-  "2023-09-27": 1584322,
-  "2023-09-28": 1584322,
-  "2023-09-29": 1584322,
-  "2023-09-30": 1584322,
-  "2023-10-01": 1584322,
-  "2023-10-02": 1584322,
-  "2023-10-03": 1584322,
-  "2023-10-04": 1584322,
-  "2023-10-05": 1584322,
-  "2023-10-06": 1584322,
-  "2023-10-07": 1584322,
-  "2023-10-08": 1584322,
-  "2023-10-09": 1584322,
-  "2023-10-10": 1584322,
-  "2023-10-11": 1584322,
-  "2023-10-12": 1584322,
-  "2023-10-13": 1584322,
-  "2023-10-14": 1584322,
-  "2023-10-15": 1584322,
-  "2023-10-16": 1584322,
-  "2023-10-17": 1584322,
-  "2023-10-18": 1584322,
-  "2023-10-19": 1584322,
-  "2023-10-20": 1584322,
-  "2023-10-21": 1584322,
-  "2023-10-22": 1584322,
-  "2023-10-23": 1584322,
-  "2023-10-24": 1584322,
-  "2023-10-25": 1584322,
-  "2023-10-26": 1584322,
-  "2023-10-27": 1584322,
-  "2023-10-28": 1584322,
-  "2023-10-29": 1584322,
-  "2023-10-30": 1584322,
-  "2023-10-31": 1584322,
-  "2023-11-01": 1584322,
-  "2023-11-02": 1584322,
-  "2023-11-03": 1584322,
-  "2023-11-04": 1584322,
-  "2023-11-05": 1584322,
-  "2023-11-06": 1584322,
-  "2023-11-07": 1584322,
-  "2023-11-08": 1584322,
-  "2023-11-09": 1584322,
-  "2023-11-10": 1584322,
-  "2023-11-11": 1584322,
-  "2023-11-12": 1584322,
-  "2023-11-13": 1584322,
-  "2023-11-14": 1584322,
-  "2023-11-15": 1584322,
-  "2023-11-16": 1584322,
-  "2023-11-17": 1584322,
-  "2023-11-18": 1584322,
-  "2023-11-19": 1584322,
-  "2023-11-20": 1584322,
-  "2023-11-21": 1584322,
-  "2023-11-22": 1584322,
-  "2023-11-23": 1584322,
-  "2023-11-24": 1584322,
-  "2023-11-25": 1584322,
-  "2023-11-26": 1584322,
-  "2023-11-27": 1584322,
-  "2023-11-28": 1584322,
-  "2023-11-29": 1584322,
-  "2023-11-30": 1584322,
-  "2023-12-01": 1584322,
-  "2023-12-02": 1584322,
-  "2023-12-03": 1584322,
-  "2023-12-04": 1584322,
-  "2023-12-05": 1584322,
-  "2023-12-06": 1584322,
-  "2023-12-07": 1584322,
-  "2023-12-08": 1584322,
-  "2023-12-09": 1584322,
-  "2023-12-10": 1584322,
-  "2023-12-11": 1584322,
-  "2023-12-12": 1584322,
-  "2023-12-13": 1584322,
-  "2023-12-14": 1584322,
-  "2023-12-15": 1584322,
-  "2023-12-16": 1584322,
-  "2023-12-17": 1584322,
-  "2023-12-18": 1584322,
-  "2023-12-19": 1584322,
-  "2023-12-20": 1584322,
-  "2023-12-21": 1584322,
-  "2023-12-22": 1584322,
-  "2023-12-23": 1584322,
-  "2023-12-24": 1584322,
-  "2023-12-25": 1584322,
-  "2023-12-26": 1584322,
-  "2023-12-27": 1584322,
-  "2023-12-30": 1584322,
-  "2023-12-31": 1584322,
-  "2024-01-01": 1584322,
-  "2024-01-02": 1584322,
-  "2024-01-03": 1584322
+  "2024-01-17": 1584322,
+  "date_first_scraped": "2021-12-21",
+  "description": "The best of RHCP, all in one playlist.",
+  "name": "This Is Red Hot Chili Peppers",
+  "tracks": [
+    {
+      "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285066,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/0aGQHMr7bc23Y9Ts84ffop"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295373,
+      "name": "Breaking the Girl",
+      "url": "https://open.spotify.com/track/0cG9ocYqYOIVtgiWTmTe3g"
+    },
+    {
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338333,
+      "name": "Brendan's Death Song",
+      "url": "https://open.spotify.com/track/2pAho4WqtK5hQtgImHzT74"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "By the Way",
+      "url": "https://open.spotify.com/track/1f2V8U1BiWaC9aJWmpOARe"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329733,
+      "name": "Californication",
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/3ZOEytgrvLwQaqXreDs2Jx"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277533,
+      "name": "Charlie",
+      "url": "https://open.spotify.com/track/3SoDB59Y7dSZLSDBiNJ6o2"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282160,
+      "name": "Dani California",
+      "url": "https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Dark Necessities",
+      "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301626,
+      "name": "Desecration Smile",
+      "url": "https://open.spotify.com/track/0GRvnYqlnh7ttq9NS6s3Ta"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226640,
+      "name": "Detroit",
+      "url": "https://open.spotify.com/track/5y7IfSDhBHFVnlGj1UrlA1"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277160,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/308kjPoIVBzDNExO54sqAi"
+    },
+    {
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231333,
+      "name": "Easily",
+      "url": "https://open.spotify.com/track/3DmOWG8OD9eR12180fmJqf"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Especially in Michigan",
+      "url": "https://open.spotify.com/track/1ylzYcU6FGnuBqqdqqH7QL"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Fortune Faded",
+      "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
+    },
+    {
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198066,
+      "name": "Get on Top",
+      "url": "https://open.spotify.com/track/3s3oiCHAHLWmKZUYk1ozJG"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282906,
+      "name": "Give It Away",
+      "url": "https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263800,
+      "name": "Go Robot",
+      "url": "https://open.spotify.com/track/5m578MgxuEC956dulprCe8"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268733,
+      "name": "Goodbye Angels",
+      "url": "https://open.spotify.com/track/2XTkpF9T2PKvcLgamGJGx1"
+    },
+    {
+      "album": {
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202053,
+      "name": "Higher Ground - Remastered",
+      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244400,
+      "name": "I Could Have Lied",
+      "url": "https://open.spotify.com/track/0NSbiBKXoODbsPwjSivfBr"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216693,
+      "name": "If You Have to Ask",
+      "url": "https://open.spotify.com/track/2R6go62CuxqqX0w1TgXxes"
+    },
+    {
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Look Around",
+      "url": "https://open.spotify.com/track/4RU7rnJBOXCzWmsLDqUaFC"
+    },
+    {
+      "album": {
+        "name": "The Uplift Mofo Party Plan",
+        "url": "https://open.spotify.com/album/6hBlJsSIz4bgjEHjwcLlZ3"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189133,
+      "name": "Me And My Friends",
+      "url": "https://open.spotify.com/track/4xqNzk4pINoCZ2gUGbEQW7"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295573,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4jIPERh3FWrLH6w53dm0JV"
+    },
+    {
+      "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "album": {
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229960,
+      "name": "Nobody Weird Like Me - Remastered",
+      "url": "https://open.spotify.com/track/0tp9eoX9x9RZ2STDVarBBs"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255373,
+      "name": "Otherside",
+      "url": "https://open.spotify.com/track/64BbK9SFKH2jk86U3dGj2P"
+    },
+    {
+      "album": {
+        "name": "Red Hot Chili Peppers",
+        "url": "https://open.spotify.com/album/5QxFTj8ar3blXVyVEo2rxD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120666,
+      "name": "Out In L.A. - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/0ytvC9tG03obop9RXqG3af"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Parallel Universe",
+      "url": "https://open.spotify.com/track/1Se0r96r0gnqg67kJPmESc"
+    },
+    {
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335893,
+      "name": "Police Station",
+      "url": "https://open.spotify.com/track/6DfWymHzCYOH2ABUuHFaMe"
+    },
+    {
+      "album": {
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187813,
+      "name": "Pretty Little Ditty - Remastered",
+      "url": "https://open.spotify.com/track/0VNgwKioO0om8n9R3oBoIj"
+    },
+    {
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204960,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
+    },
+    {
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221440,
+      "name": "Sick Love",
+      "url": "https://open.spotify.com/track/6GsP3uMCd0Dn5T37C93waZ"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334666,
+      "name": "Snow (Hey Oh)",
+      "url": "https://open.spotify.com/track/2aibwv5hGXSgw7Yru8IYTO"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289533,
+      "name": "Soul to Squeeze",
+      "url": "https://open.spotify.com/track/3arKRnq9OUd7yq6LRwVW8I"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217133,
+      "name": "Suck My Kiss",
+      "url": "https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247666,
+      "name": "Tell Me Baby",
+      "url": "https://open.spotify.com/track/0itNMuBHye9fu392b4e9oa"
+    },
+    {
+      "album": {
+        "name": "I'm with You",
+        "url": "https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282400,
+      "name": "The Adventures of Rain Dance Maggie",
+      "url": "https://open.spotify.com/track/0PgNhIg5n0UAOBVn43b8b6"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250386,
+      "name": "The Getaway",
+      "url": "https://open.spotify.com/track/3bIQIx7hveYPQDdhjZ1kcq"
+    },
+    {
+      "album": {
+        "name": "The Getaway",
+        "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211520,
+      "name": "The Longest Wave",
+      "url": "https://open.spotify.com/track/0pjCkLjbgSLn5c0Ilwuv8z"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "The Zephyr Song",
+      "url": "https://open.spotify.com/track/1ndGB6rvxKYN9seCYO1dTF"
+    },
+    {
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225200,
+      "name": "This Velvet Glove",
+      "url": "https://open.spotify.com/track/0GIDR7iLJgV5fJwdcv8TXo"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224760,
+      "name": "Throw Away Your Television",
+      "url": "https://open.spotify.com/track/3XLJoMMM0oRHD4gHq6jV9Z"
+    },
+    {
+      "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "album": {
+        "name": "By the Way (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6deiaArbeoqp1xPEGdEKp1"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256959,
+      "name": "Universally Speaking",
+      "url": "https://open.spotify.com/track/39badcyKTjOtBvv4aywpfs"
+    },
+    {
+      "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304680,
+      "name": "Warped",
+      "url": "https://open.spotify.com/track/1eLAEzLXUu6SFHS5rSCrx1"
+    },
+    {
+      "album": {
+        "name": "Stadium Arcadium",
+        "url": "https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "date_added": "2021-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309800,
+      "name": "Wet Sand",
+      "url": "https://open.spotify.com/track/3L2Nyi3T7XabH8EEZFLDdX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbuvTm9NMIGt"
 }

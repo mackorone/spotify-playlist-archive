@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-107 songs - 7 hr 30 min
+110 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Invisible](https://open.spotify.com/track/3n2s5edP4v0WJC7tyt6mKe) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 1:21 | 2023-05-05 | 2023-10-06 |
 | [Itasca](https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 2:46 | 2023-05-05 |  |
 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 | 2023-05-05 | 2023-07-22 |
-| [London Bridges](https://open.spotify.com/track/1QxJy1uqmjbcWUvg0OxIxH) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:15 | 2023-05-05 |  |
+| [London Bridges](https://open.spotify.com/track/1QxJy1uqmjbcWUvg0OxIxH) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:15 | 2023-05-05 | 2024-01-11 |
+| [London Bridges](https://open.spotify.com/track/6h3NclauCIt8Gh6LOtAhWV) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/585xvDnZd0xCi0ZZ8vqUTJ) | 5:17 | 2023-12-04 |  |
 | [Luminosity](https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 4:08 | 2023-05-05 |  |
 | [Midsummer Field](https://open.spotify.com/track/3BQI7i7SnU1UNHETx7l6KD) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:48 | 2023-05-05 |  |
 | [Miss You](https://open.spotify.com/track/4WTmtPRtIpjzgwBbQsMYyo) | [trentemøller](https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS) | [The Last Resort](https://open.spotify.com/album/64iEo3whZTY6g9vwap2H2Q) | 4:07 | 2023-05-05 | 2023-12-05 |
@@ -90,7 +91,8 @@
 | [Second Sun](https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:43 | 2023-05-05 |  |
 | [self reflection](https://open.spotify.com/track/3JGHSpVCI3tOmGwQE31KfW) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [self reflection](https://open.spotify.com/album/2jG4EkkFX8GzB4rsmavfxT) | 3:05 | 2023-05-26 |  |
 | [Shadows Fall](https://open.spotify.com/track/6lhhVRjJJk2He59jAtOSsm) | [Random Forest](https://open.spotify.com/artist/2FIKDET7MkO9hQgSyIW9ia) | [Random Forest](https://open.spotify.com/album/39oRoqDYxtboq77pFK9G0T) | 5:27 | 2023-05-05 |  |
-| [Shorelines](https://open.spotify.com/track/3jp7xKenvg8D6KsMNDglGI) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q) | 4:58 | 2023-05-05 |  |
+| [Shorelines](https://open.spotify.com/track/4kFQlkYrZRr172migt59Ww) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/1KH7ZMxIWPvw5tCDO43ZUX) | 4:58 | 2023-12-04 |  |
+| [Shorelines](https://open.spotify.com/track/3jp7xKenvg8D6KsMNDglGI) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [All the Unknown](https://open.spotify.com/album/31U9MBpTspcwmENreYTt1Q) | 4:58 | 2023-05-05 | 2024-01-13 |
 | [Sigur 3 \(Untitled\)](https://open.spotify.com/track/2zkZGzzWOzGwi1rtWv7mhZ) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [\(Untitled\)](https://open.spotify.com/album/35aAMMFurDWUvb6DAxFttv) | 6:33 | 2023-05-05 | 2023-09-30 |
 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 | 2023-05-05 | 2023-12-05 |
 | [Starlights](https://open.spotify.com/track/2tSlohCLetwQRpA71jbnrB) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Nightsky](https://open.spotify.com/album/5OUJezYQ1Am5V3DKIiWlos) | 5:13 | 2023-05-05 |  |
@@ -105,7 +107,8 @@
 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 | 2023-05-05 |  |
 | [Tára](https://open.spotify.com/track/6xRuzRT7orKQMB280h5UIi) | [Infralyd](https://open.spotify.com/artist/4WS6uSHup6OHumoGYXKcAt) | [… and it was all for you](https://open.spotify.com/album/4CcWNi0Eb5EiijYJ1KAyTs) | 4:46 | 2023-05-05 |  |
 | [Until Our Next Adventure](https://open.spotify.com/track/12Fayh0AFqFyJmxc4H1i7t) | [David Wingo](https://open.spotify.com/artist/7mRf8eSpaoh4FD8D4mtvRk) | [Brigsby Bear \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7cySEIjLUYaMv6y34i0N4H) | 1:20 | 2023-05-05 | 2023-10-06 |
-| [Valentin's Blood Flows](https://open.spotify.com/track/0BS0GX5BGXKP2keUYwEe0D) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Bloodflow](https://open.spotify.com/album/46c9thrErhRLQdZ2znEVve) | 2:13 | 2023-05-05 |  |
+| [Valentin's Blood Flows](https://open.spotify.com/track/0BS0GX5BGXKP2keUYwEe0D) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Bloodflow](https://open.spotify.com/album/46c9thrErhRLQdZ2znEVve) | 2:13 | 2023-05-05 | 2024-01-11 |
+| [Valentin's Blood Flows](https://open.spotify.com/track/4k4VnadumDheYScQVoY94f) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Bloodflow](https://open.spotify.com/album/7JqNcyb6iNM60DwWg6TubE) | 2:13 | 2023-12-04 |  |
 | [Vraisemblance](https://open.spotify.com/track/6DmLwXs7zgJBIE8brSL34I) | [Angèle David\-Guillou](https://open.spotify.com/artist/3osVl2uN6i7tzBxNcskTzg) | [En Mouvement](https://open.spotify.com/album/2OVkLWHIM6MU7xRW68ZHmE) | 4:16 | 2023-05-05 |  |
 | [Waiting For Sundown](https://open.spotify.com/track/4r8zhmeR3CJMCNka7dOf5H) | [Monocle Twins](https://open.spotify.com/artist/3Ju2hEmz5onAzHRpy4tXe6) | [Waiting For Sundown](https://open.spotify.com/album/4LgGTDt6UeyTMw0E2ATuOl) | 3:54 | 2023-05-05 |  |
 | [Waking Up](https://open.spotify.com/track/3CSO9mXOUtOzIM6Eqq9QlF) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Lone Survivor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/30KqtKSWR8OQe0mB4EdepA) | 4:50 | 2023-05-05 |  |

@@ -1,512 +1,803 @@
 {
-  "2022-08-06": 181829,
-  "2022-08-07": 181926,
-  "2022-08-08": 182007,
-  "2022-08-09": 182078,
-  "2022-08-10": 182169,
-  "2022-08-11": 182249,
-  "2022-08-12": 182337,
-  "2022-08-13": 182409,
-  "2022-08-14": 182485,
-  "2022-08-15": 182571,
-  "2022-08-16": 182666,
-  "2022-08-17": 182748,
-  "2022-08-18": 182829,
-  "2022-08-19": 182904,
-  "2022-08-20": 182985,
-  "2022-08-21": 183103,
-  "2022-08-22": 183206,
-  "2022-08-23": 183281,
-  "2022-08-24": 183334,
-  "2022-08-25": 183404,
-  "2022-08-26": 183475,
-  "2022-08-27": 183574,
-  "2022-08-28": 183663,
-  "2022-08-29": 183747,
-  "2022-08-30": 183789,
-  "2022-08-31": 183782,
-  "2022-09-01": 183766,
-  "2022-09-02": 183740,
-  "2022-09-03": 183672,
-  "2022-09-04": 183744,
-  "2022-09-05": 183884,
-  "2022-09-06": 183973,
-  "2022-09-07": 184052,
-  "2022-09-09": 184222,
-  "2022-09-10": 184315,
-  "2022-09-11": 184408,
-  "2022-09-12": 184509,
-  "2022-09-13": 184601,
-  "2022-09-15": 184763,
-  "2022-09-16": 184847,
-  "2022-09-17": 184944,
-  "2022-09-18": 185055,
-  "2022-09-19": 185159,
-  "2022-09-20": 185222,
-  "2022-09-21": 185315,
-  "2022-09-22": 185387,
-  "2022-09-23": 185443,
-  "2022-09-24": 185540,
-  "2022-09-25": 185641,
-  "2022-09-26": 185726,
-  "2022-09-27": 185819,
-  "2022-09-28": 185891,
-  "2022-09-29": 185961,
-  "2022-09-30": 186059,
-  "2022-10-01": 186106,
-  "2022-10-02": 186173,
-  "2022-10-03": 186251,
-  "2022-10-04": 186305,
-  "2022-10-05": 186363,
-  "2022-10-06": 186419,
-  "2022-10-07": 186495,
-  "2022-10-08": 186549,
-  "2022-10-09": 186690,
-  "2022-10-10": 186710,
-  "2022-10-11": 186780,
-  "2022-10-12": 186839,
-  "2022-10-13": 186919,
-  "2022-10-14": 186998,
-  "2022-10-15": 187074,
-  "2022-10-16": 187150,
-  "2022-10-17": 187242,
-  "2022-10-18": 187286,
-  "2022-10-19": 187338,
-  "2022-10-20": 187413,
-  "2022-10-21": 187478,
-  "2022-10-22": 187551,
-  "2022-10-23": 187628,
-  "2022-10-24": 187678,
-  "2022-10-25": 187743,
-  "2022-10-26": 187816,
-  "2022-10-27": 187875,
-  "2022-10-28": 187930,
-  "2022-10-29": 187998,
-  "2022-10-30": 188081,
-  "2022-10-31": 188160,
-  "2022-11-01": 188199,
-  "2022-11-02": 188250,
-  "2022-11-03": 188287,
-  "2022-11-04": 188330,
-  "2022-11-05": 188400,
-  "2022-11-06": 188460,
-  "2022-11-07": 188525,
-  "2022-11-08": 188579,
-  "2022-11-09": 188655,
-  "2022-11-10": 188703,
-  "2022-11-11": 188779,
-  "2022-11-12": 188851,
-  "2022-11-13": 188912,
-  "2022-11-14": 188985,
-  "2022-11-15": 189034,
-  "2022-11-16": 189105,
-  "2022-11-17": 189151,
-  "2022-11-18": 189169,
-  "2022-11-19": 189176,
-  "2022-11-20": 189208,
-  "2022-11-21": 189292,
-  "2022-11-22": 189358,
-  "2022-11-23": 189408,
-  "2022-11-24": 189501,
-  "2022-11-25": 189596,
-  "2022-11-26": 189663,
-  "2022-11-27": 189724,
-  "2022-11-28": 189789,
-  "2022-11-29": 189832,
-  "2022-11-30": 189891,
-  "2022-12-01": 189943,
-  "2022-12-02": 189985,
-  "2022-12-03": 190052,
-  "2022-12-04": 190117,
-  "2022-12-05": 190182,
-  "2022-12-06": 190227,
-  "2022-12-07": 190268,
-  "2022-12-08": 190326,
-  "2022-12-09": 190394,
-  "2022-12-10": 190449,
-  "2022-12-11": 190517,
-  "2022-12-12": 190584,
-  "2022-12-13": 190651,
-  "2022-12-14": 190710,
-  "2022-12-15": 190759,
-  "2022-12-16": 190828,
-  "2022-12-17": 190909,
-  "2022-12-18": 190987,
-  "2022-12-19": 191041,
-  "2022-12-20": 191171,
-  "2022-12-21": 191171,
-  "2022-12-22": 191229,
-  "2022-12-24": 191357,
-  "2022-12-25": 191425,
-  "2022-12-26": 191479,
-  "2022-12-27": 191553,
-  "2022-12-28": 191621,
-  "2022-12-29": 191721,
-  "2022-12-30": 191804,
-  "2022-12-31": 191898,
-  "2023-01-01": 191991,
-  "2023-01-02": 192071,
-  "2023-01-03": 192143,
-  "2023-01-04": 192223,
-  "2023-01-05": 192270,
-  "2023-01-06": 192362,
-  "2023-01-07": 192515,
-  "2023-01-08": 192538,
-  "2023-01-09": 192613,
-  "2023-01-10": 192679,
-  "2023-01-11": 192737,
-  "2023-01-12": 192811,
-  "2023-01-13": 192890,
-  "2023-01-14": 193051,
-  "2023-01-15": 193078,
-  "2023-01-16": 193191,
-  "2023-01-17": 193268,
-  "2023-01-18": 193346,
-  "2023-01-19": 193394,
-  "2023-01-20": 193490,
-  "2023-01-21": 193574,
-  "2023-01-22": 193675,
-  "2023-01-23": 193777,
-  "2023-01-24": 193857,
-  "2023-01-25": 193930,
-  "2023-01-26": 194002,
-  "2023-01-27": 194067,
-  "2023-01-28": 194152,
-  "2023-01-29": 194234,
-  "2023-01-30": 194312,
-  "2023-01-31": 194312,
-  "2023-02-01": 194437,
-  "2023-02-02": 194520,
-  "2023-02-03": 194587,
-  "2023-02-04": 194662,
-  "2023-02-05": 194746,
-  "2023-02-06": 194844,
-  "2023-02-07": 194911,
-  "2023-02-08": 195044,
-  "2023-02-09": 195044,
-  "2023-02-10": 195115,
-  "2023-02-11": 195198,
-  "2023-02-12": 195343,
-  "2023-02-13": 195408,
-  "2023-02-14": 195408,
-  "2023-02-15": 195460,
-  "2023-02-16": 195525,
-  "2023-02-17": 195599,
-  "2023-02-18": 195759,
-  "2023-02-19": 195766,
-  "2023-02-20": 195839,
-  "2023-02-21": 195914,
-  "2023-02-22": 195997,
-  "2023-02-23": 196067,
-  "2023-02-24": 196123,
-  "2023-02-25": 196207,
-  "2023-02-26": 196278,
-  "2023-02-27": 196418,
-  "2023-02-28": 196418,
-  "2023-03-01": 196480,
-  "2023-03-02": 196544,
-  "2023-03-03": 196624,
-  "2023-03-04": 196691,
-  "2023-03-05": 196858,
-  "2023-03-06": 196858,
-  "2023-03-07": 196943,
-  "2023-03-08": 197003,
-  "2023-03-09": 197078,
-  "2023-03-10": 197142,
-  "2023-03-11": 197202,
-  "2023-03-12": 197306,
-  "2023-03-13": 197401,
-  "2023-03-14": 197470,
-  "2023-03-15": 197532,
-  "2023-03-16": 197606,
-  "2023-03-17": 197606,
-  "2023-03-18": 197733,
-  "2023-03-19": 197802,
-  "2023-03-20": 197873,
-  "2023-03-21": 197922,
-  "2023-03-22": 197998,
-  "2023-03-23": 198081,
-  "2023-03-24": 198081,
-  "2023-03-25": 198209,
-  "2023-03-26": 198290,
-  "2023-03-27": 198373,
-  "2023-03-28": 198418,
-  "2023-03-29": 198479,
-  "2023-03-30": 198593,
-  "2023-03-31": 198593,
-  "2023-04-01": 198638,
-  "2023-04-02": 198694,
-  "2023-04-03": 198765,
-  "2023-04-04": 198810,
-  "2023-04-05": 198875,
-  "2023-04-06": 198931,
-  "2023-04-07": 199015,
-  "2023-04-09": 199152,
-  "2023-04-10": 199221,
-  "2023-04-11": 199326,
-  "2023-04-12": 199326,
-  "2023-04-13": 199367,
-  "2023-04-14": 199419,
-  "2023-04-15": 199488,
-  "2023-04-16": 199560,
-  "2023-04-17": 199641,
-  "2023-04-18": 199702,
-  "2023-04-19": 199768,
-  "2023-04-20": 199827,
-  "2023-04-21": 199898,
-  "2023-04-22": 199962,
-  "2023-04-23": 200028,
-  "2023-04-24": 200090,
-  "2023-04-25": 200155,
-  "2023-04-26": 200221,
-  "2023-04-27": 200270,
-  "2023-04-28": 200328,
-  "2023-04-29": 200391,
-  "2023-04-30": 200456,
-  "2023-05-01": 200515,
-  "2023-05-02": 200587,
-  "2023-05-03": 200646,
-  "2023-05-04": 200720,
-  "2023-05-05": 200777,
-  "2023-05-06": 200838,
-  "2023-05-07": 200921,
-  "2023-05-08": 200994,
-  "2023-05-09": 201053,
-  "2023-05-10": 201098,
-  "2023-05-11": 201163,
-  "2023-05-12": 201227,
-  "2023-05-13": 201298,
-  "2023-05-14": 201362,
-  "2023-05-15": 201438,
-  "2023-05-16": 201508,
-  "2023-05-17": 201577,
-  "2023-05-18": 201627,
-  "2023-05-19": 201698,
-  "2023-05-20": 201829,
-  "2023-05-21": 201829,
-  "2023-05-22": 201829,
-  "2023-05-23": 201932,
-  "2023-05-24": 202008,
-  "2023-05-25": 202030,
-  "2023-05-26": 202092,
-  "2023-05-27": 202155,
-  "2023-05-28": 202239,
-  "2023-05-29": 202239,
-  "2023-05-30": 202365,
-  "2023-05-31": 202417,
-  "2023-06-01": 202471,
-  "2023-06-02": 202512,
-  "2023-06-03": 202575,
-  "2023-06-04": 202626,
-  "2023-06-05": 202692,
-  "2023-06-06": 202720,
-  "2023-06-07": 202774,
-  "2023-06-08": 202833,
-  "2023-06-09": 202891,
-  "2023-06-10": 202953,
-  "2023-06-11": 203007,
-  "2023-06-12": 203052,
-  "2023-06-13": 203091,
-  "2023-06-14": 203107,
-  "2023-06-15": 203111,
-  "2023-06-16": 203144,
-  "2023-06-17": 203144,
-  "2023-06-18": 203144,
-  "2023-06-19": 203144,
-  "2023-06-20": 203144,
-  "2023-06-21": 203144,
-  "2023-06-22": 203144,
-  "2023-06-23": 203144,
-  "2023-06-24": 203144,
-  "2023-06-25": 203144,
-  "2023-06-26": 203144,
-  "2023-06-27": 203144,
-  "2023-06-28": 203144,
-  "2023-06-29": 203144,
-  "2023-06-30": 203144,
-  "2023-07-01": 203144,
-  "2023-07-02": 203144,
-  "2023-07-03": 203144,
-  "2023-07-04": 203144,
-  "2023-07-05": 203144,
-  "2023-07-06": 203144,
-  "2023-07-07": 203144,
-  "2023-07-08": 203144,
-  "2023-07-09": 203144,
-  "2023-07-10": 203144,
-  "2023-07-11": 203144,
-  "2023-07-12": 203144,
-  "2023-07-13": 203144,
-  "2023-07-14": 203144,
-  "2023-07-15": 203144,
-  "2023-07-16": 203144,
-  "2023-07-17": 203144,
-  "2023-07-18": 203144,
-  "2023-07-19": 203144,
-  "2023-07-20": 203144,
-  "2023-07-21": 203144,
-  "2023-07-22": 203144,
-  "2023-07-23": 203144,
-  "2023-07-24": 203144,
-  "2023-07-25": 203144,
-  "2023-07-26": 203144,
-  "2023-07-27": 203144,
-  "2023-07-28": 203144,
-  "2023-07-29": 203144,
-  "2023-07-30": 203144,
-  "2023-07-31": 203144,
-  "2023-08-01": 203144,
-  "2023-08-02": 203144,
-  "2023-08-03": 203144,
-  "2023-08-04": 203144,
-  "2023-08-05": 203144,
-  "2023-08-06": 203144,
-  "2023-08-07": 203144,
-  "2023-08-08": 203144,
-  "2023-08-09": 203144,
-  "2023-08-10": 203144,
-  "2023-08-11": 203144,
-  "2023-08-12": 203144,
-  "2023-08-13": 203144,
-  "2023-08-14": 203144,
-  "2023-08-15": 203144,
-  "2023-08-16": 203144,
-  "2023-08-17": 203144,
-  "2023-08-18": 203144,
-  "2023-08-19": 203144,
-  "2023-08-20": 203144,
-  "2023-08-21": 203144,
-  "2023-08-22": 203144,
-  "2023-08-23": 203144,
-  "2023-08-24": 203144,
-  "2023-08-25": 203144,
-  "2023-08-26": 203144,
-  "2023-08-27": 203144,
-  "2023-08-28": 203144,
-  "2023-08-29": 203144,
-  "2023-08-30": 203144,
-  "2023-08-31": 203144,
-  "2023-09-01": 203144,
-  "2023-09-02": 203144,
-  "2023-09-03": 203144,
-  "2023-09-04": 203144,
-  "2023-09-05": 203144,
-  "2023-09-06": 203144,
-  "2023-09-07": 203144,
-  "2023-09-08": 203144,
-  "2023-09-09": 203144,
-  "2023-09-10": 203144,
-  "2023-09-11": 203144,
-  "2023-09-12": 203144,
-  "2023-09-13": 203144,
-  "2023-09-14": 203144,
-  "2023-09-15": 203144,
-  "2023-09-16": 203144,
-  "2023-09-17": 203144,
-  "2023-09-18": 203144,
-  "2023-09-19": 203144,
-  "2023-09-20": 203144,
-  "2023-09-21": 203144,
-  "2023-09-22": 203144,
-  "2023-09-23": 203144,
-  "2023-09-24": 203144,
-  "2023-09-25": 203144,
-  "2023-09-26": 203144,
-  "2023-09-27": 203144,
-  "2023-09-28": 203144,
-  "2023-09-29": 203144,
-  "2023-09-30": 203144,
-  "2023-10-01": 203144,
-  "2023-10-02": 203144,
-  "2023-10-03": 203144,
-  "2023-10-04": 203144,
-  "2023-10-05": 203144,
-  "2023-10-06": 203144,
-  "2023-10-07": 203144,
-  "2023-10-08": 203144,
-  "2023-10-09": 203144,
-  "2023-10-10": 203144,
-  "2023-10-11": 203144,
-  "2023-10-12": 203144,
-  "2023-10-13": 203144,
-  "2023-10-14": 203144,
-  "2023-10-15": 203144,
-  "2023-10-16": 203144,
-  "2023-10-17": 203144,
-  "2023-10-18": 203144,
-  "2023-10-19": 203144,
-  "2023-10-20": 203144,
-  "2023-10-21": 203144,
-  "2023-10-22": 203144,
-  "2023-10-23": 203144,
-  "2023-10-24": 203144,
-  "2023-10-25": 203144,
-  "2023-10-26": 203144,
-  "2023-10-27": 203144,
-  "2023-10-28": 203144,
-  "2023-10-29": 203144,
-  "2023-10-30": 203144,
-  "2023-10-31": 203144,
-  "2023-11-01": 203144,
-  "2023-11-02": 203144,
-  "2023-11-03": 203144,
-  "2023-11-04": 203144,
-  "2023-11-05": 203144,
-  "2023-11-06": 203144,
-  "2023-11-07": 203144,
-  "2023-11-08": 203144,
-  "2023-11-09": 203144,
-  "2023-11-10": 203144,
-  "2023-11-11": 203144,
-  "2023-11-12": 203144,
-  "2023-11-13": 203144,
-  "2023-11-14": 203144,
-  "2023-11-15": 203144,
-  "2023-11-16": 203144,
-  "2023-11-17": 203144,
-  "2023-11-18": 203144,
-  "2023-11-19": 203144,
-  "2023-11-20": 203144,
-  "2023-11-21": 203144,
-  "2023-11-22": 203144,
-  "2023-11-23": 203144,
-  "2023-11-24": 203144,
-  "2023-11-25": 203144,
-  "2023-11-26": 203144,
-  "2023-11-27": 203144,
-  "2023-11-28": 203144,
-  "2023-11-29": 203144,
-  "2023-11-30": 203144,
-  "2023-12-01": 203144,
-  "2023-12-02": 203144,
-  "2023-12-03": 203144,
-  "2023-12-04": 203144,
-  "2023-12-05": 203144,
-  "2023-12-06": 203144,
-  "2023-12-07": 203144,
-  "2023-12-08": 203144,
-  "2023-12-09": 203144,
-  "2023-12-10": 203144,
-  "2023-12-11": 203144,
-  "2023-12-12": 203144,
-  "2023-12-13": 203144,
-  "2023-12-14": 203144,
-  "2023-12-15": 203144,
-  "2023-12-16": 203144,
-  "2023-12-17": 203144,
-  "2023-12-18": 203144,
-  "2023-12-19": 203144,
-  "2023-12-20": 203144,
-  "2023-12-21": 203144,
-  "2023-12-22": 203144,
-  "2023-12-23": 203144,
-  "2023-12-24": 203144,
-  "2023-12-25": 203144,
-  "2023-12-26": 203144,
-  "2023-12-27": 203144,
-  "2023-12-30": 203144,
-  "2023-12-31": 203144,
-  "2024-01-01": 203144,
-  "2024-01-02": 203144,
-  "2024-01-03": 203144
+  "2024-01-17": 203144,
+  "date_first_scraped": "2022-08-06",
+  "description": "Honoring the life and music of the <a href=\"spotify:artist:5xLSa7l4IV1gsQfhAMvl0U\">blues giant</a>, 1925\u20132015.",
+  "name": "This Is B.B. King",
+  "tracks": [
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299533,
+      "name": "Ain't Nobody Home",
+      "url": "https://open.spotify.com/track/3hCIZ8sgJm5MUh7ulehPGX"
+    },
+    {
+      "album": {
+        "name": "The 1950-1951 Modern Recordings",
+        "url": "https://open.spotify.com/album/0kGAzQy52goC3pUxKJtmc1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "B. B. Boogie - Take 1",
+      "url": "https://open.spotify.com/track/1A3dOZb859JmEKvPCe4boT"
+    },
+    {
+      "album": {
+        "name": "Take It Home",
+        "url": "https://open.spotify.com/album/0Mzk6JoxPV6hE9sge7VMGS"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202426,
+      "name": "Better Not Look Down",
+      "url": "https://open.spotify.com/track/20VyHR0s9CdmSLM06I4Y48"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/69sbsm2ecADMQFCC3ZrJMP"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 202560,
+      "name": "Better Not Look Down",
+      "url": "https://open.spotify.com/track/24wQ4FIS2uSVo2CtZliEif"
+    },
+    {
+      "album": {
+        "name": "In London",
+        "url": "https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238533,
+      "name": "Caldonia",
+      "url": "https://open.spotify.com/track/24HcuZHAH017C5wp9Z4ziQ"
+    },
+    {
+      "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4dEjwPbRw2Z8ZHH9LMVyOD"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 293933,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/1sHyh8FH6gPU2B7ZRliJs9"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/69sbsm2ecADMQFCC3ZrJMP"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 160093,
+      "name": "Every Day I Have The Blues - Live At The Regal Theater, Chicago, 1964",
+      "url": "https://open.spotify.com/track/2FkvHmkTn73JP7tdsFaAWk"
+    },
+    {
+      "album": {
+        "name": "The Life Of Riley (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158786,
+      "name": "Everyday I Have The Blues - Live At The Regal Theater, Chicago/1964",
+      "url": "https://open.spotify.com/track/03tX4adEVmLXjPaKaaWjG0"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 246133,
+      "name": "Guess Who",
+      "url": "https://open.spotify.com/track/1Lhybvo0a8gbXap32SHlRc"
+    },
+    {
+      "album": {
+        "name": "Guess Who",
+        "url": "https://open.spotify.com/album/1zQYkJ7q8kUZB2j1efPqN0"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Guess Who",
+      "url": "https://open.spotify.com/track/3FHvrCsqBjvwut2rXT1QPZ"
+    },
+    {
+      "album": {
+        "name": "Live In Cook County Jail",
+        "url": "https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312026,
+      "name": "How Blue Can You Get?",
+      "url": "https://open.spotify.com/track/6ZfSXhqojBGB8BdRFb96Im"
+    },
+    {
+      "album": {
+        "name": "Rhythm & Soul",
+        "url": "https://open.spotify.com/album/5P0VaL3K3DCVixnndoWMYx"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 280546,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/0j7Z3eMte1THTd7JGeZOPJ"
+    },
+    {
+      "album": {
+        "name": "Rockin' Blues",
+        "url": "https://open.spotify.com/album/2UewN8ejNxZTOLHrPfh25T"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280546,
+      "name": "Hummingbird",
+      "url": "https://open.spotify.com/track/1hdrdqP1bcqgaeydimOOkx"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4dEjwPbRw2Z8ZHH9LMVyOD"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 196640,
+      "name": "I Like To Live The Love",
+      "url": "https://open.spotify.com/track/5ofN9nG7ar7Mh5tGYna3pE"
+    },
+    {
+      "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/7tQFiUboN0vnK7Wavscmdb"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196640,
+      "name": "I Like To Live The Love",
+      "url": "https://open.spotify.com/track/65k1tfjXmOYbc3aLB3wliS"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213560,
+      "name": "Paying The Cost To Be The Boss",
+      "url": "https://open.spotify.com/track/1HK0gVdcEwTUaJzCTNhjA3"
+    },
+    {
+      "album": {
+        "name": "Blues Summit",
+        "url": "https://open.spotify.com/album/1qhzqiTmAjIc38TLqwgsWI"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318040,
+      "name": "Playin' With My Friends",
+      "url": "https://open.spotify.com/track/071l1tdfckojdC5V37NKN6"
+    },
+    {
+      "album": {
+        "name": "Blues For Kids",
+        "url": "https://open.spotify.com/album/3zaeGeJSjwEFgYbAup955H"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Robert Cray",
+          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 321373,
+      "name": "Playin' With My Friends",
+      "url": "https://open.spotify.com/track/3vOg2vKzEfBM35pQlsJ2lS"
+    },
+    {
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171733,
+      "name": "Please Love Me",
+      "url": "https://open.spotify.com/track/1IJGqYDXJhIPQYa3z6LilA"
+    },
+    {
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "Riding With the King",
+      "url": "https://open.spotify.com/track/0U6wNkZaQUTBrCLbhbbRgS"
+    },
+    {
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 264240,
+      "name": "Riding with the King",
+      "url": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
+    },
+    {
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180986,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/4xDugsnzDMX1z44ZTtxpO2"
+    },
+    {
+      "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182186,
+      "name": "Sweet Little Angel",
+      "url": "https://open.spotify.com/track/7IbBgyqH30XC0z01QVMYnh"
+    },
+    {
+      "album": {
+        "name": "Live In Cook County Jail",
+        "url": "https://open.spotify.com/album/3mCS3cMduOlki845XA4gDZ"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260959,
+      "name": "Sweet Sixteen",
+      "url": "https://open.spotify.com/track/1H4un1VlmHkMJGMB79rZN7"
+    },
+    {
+      "album": {
+        "name": "Grandes Temazos: Blues",
+        "url": "https://open.spotify.com/album/4gXvc3NifLO9FboTiRyf0b"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 301133,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/0cfwfMpxXwA36einrkgRcD"
+    },
+    {
+      "album": {
+        "name": "Deuces Wild",
+        "url": "https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301133,
+      "name": "The Thrill Is Gone",
+      "url": "https://open.spotify.com/track/3cg0dJfrQB66Qf2YthPb6G"
+    },
+    {
+      "album": {
+        "name": "Royal Jam",
+        "url": "https://open.spotify.com/album/1JTY1bsUPVM2eZlzPlft9A"
+      },
+      "artists": [
+        {
+          "name": "The Crusaders",
+          "url": "https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326573,
+      "name": "The Thrill Is Gone - Live (1981/Royal Festival Hall, London)",
+      "url": "https://open.spotify.com/track/2VC2UaueIwgkQQ6BuVJpOk"
+    },
+    {
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183293,
+      "name": "Three O'clock Blues",
+      "url": "https://open.spotify.com/track/1WeX8wcU8FDEZxWurJLU0r"
+    },
+    {
+      "album": {
+        "name": "To Know You Is To Love You",
+        "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515000,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
+    },
+    {
+      "album": {
+        "name": "The Life Of Riley (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xTMuGIOwzmtZwLKa8XwOw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 518039,
+      "name": "To Know You Is To Love You",
+      "url": "https://open.spotify.com/track/6UHl925EKFaFWKzmYz0CMx"
+    },
+    {
+      "album": {
+        "name": "Live At The Apollo",
+        "url": "https://open.spotify.com/album/4IZaBHGc8iD7BYflgD0FOp"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293240,
+      "name": "When Love Comes To Town",
+      "url": "https://open.spotify.com/track/6FuZyu29n5GukcBYjbbIHd"
+    },
+    {
+      "album": {
+        "name": "Rock n Roll Blues Bangers",
+        "url": "https://open.spotify.com/album/2FzZewTkX8aX4UrifwMSac"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 293240,
+      "name": "When Love Comes To Town - Live At Apollo Theater, New York/1990",
+      "url": "https://open.spotify.com/track/0tTNAm3ovef9VcEPlBPIah"
+    },
+    {
+      "album": {
+        "name": "Riding with the King",
+        "url": "https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-27",
+      "duration_ms": 429520,
+      "name": "When My Heart Beats Like a Hammer",
+      "url": "https://open.spotify.com/track/44FnSZip0XhEBR3l7rPeJ1"
+    },
+    {
+      "album": {
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429520,
+      "name": "When My Heart Beats Like a Hammer",
+      "url": "https://open.spotify.com/track/7cBSTKsHmyjqp5euTS5yCM"
+    },
+    {
+      "album": {
+        "name": "Live And Well",
+        "url": "https://open.spotify.com/album/7jvyHnOBFvdGtskk6QmlEi"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517400,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "album": {
+        "name": "Why I Sing The Blues",
+        "url": "https://open.spotify.com/album/1OTQOkeFJquVHw56swMNwv"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 518159,
+      "name": "Why I Sing The Blues",
+      "url": "https://open.spotify.com/track/7Bkq72xL2W4zlPMtGt6RKg"
+    },
+    {
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "Woke Up This Morning (My Baby She Was Gone)",
+      "url": "https://open.spotify.com/track/1T41EUJAH5lzFQbrFehdyD"
+    },
+    {
+      "album": {
+        "name": "Do The Boogie! B.B. King's Early 50s Classics",
+        "url": "https://open.spotify.com/album/7ufYRP55tnM2qou8iCyZO7"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182426,
+      "name": "Woke Up This Morning (My Baby She Was Gone)",
+      "url": "https://open.spotify.com/track/3uHBr4hw8J6LAfl2BpvJxt"
+    },
+    {
+      "album": {
+        "name": "Classic Masters",
+        "url": "https://open.spotify.com/album/3JscWpuM0XXbVvDMkUjlXw"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182040,
+      "name": "You Upset Me, Baby",
+      "url": "https://open.spotify.com/track/76TFfQ9o7HFeChpkwUcoQn"
+    },
+    {
+      "album": {
+        "name": "Singin' The Blues",
+        "url": "https://open.spotify.com/album/0w6Gt4SUI5AduJvcXetxun"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2017-06-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "You Upset Me, Baby",
+      "url": "https://open.spotify.com/track/589yTSHriuSIwARJqnmuMp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbahoSMxtpoF"
 }

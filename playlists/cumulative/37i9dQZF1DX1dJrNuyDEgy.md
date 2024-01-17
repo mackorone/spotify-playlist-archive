@@ -4,7 +4,7 @@
 
 > Ay ay ay ay..\. Canta y no llores, porque cantando se alegran, cielito lindo, los corazones.
 
-133 songs - 7 hr 38 min
+134 songs - 7 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,8 +42,9 @@
 | [El Barrilito](https://open.spotify.com/track/5iraK9LBoyh99QrC0zAbK4) | [Los Montanes Del Alamo](https://open.spotify.com/artist/40KlHX5lSdrxJNQUfpRGVS) | [Antologia Musical 30 Exitos](https://open.spotify.com/album/3go0mP3PiKN06OCMAcryJ7) | 2:28 | 2022-01-25 |  |
 | [El Barrilito](https://open.spotify.com/track/7fHRTqhAnc4N8oO3v8erz7) | [Los Montaneses Del Alamo](https://open.spotify.com/artist/1VrQBP9P5ZlFTc3DagbuNP) | [Paquetazo De Coleccion, Polkas Y Valses](https://open.spotify.com/album/6qZSLRaSkWFTT5ggGgcW3w) | 2:29 | 2022-01-25 | 2022-07-29 |
 | [El Barrilito](https://open.spotify.com/track/3C6Go1tSiExZOg4FrasLHF) | [Los Rancheritos Del Alamo](https://open.spotify.com/artist/5TvI30B9r66sQgfjgeUU2J) | [A Ritmo De Polkas](https://open.spotify.com/album/4k4h3BfchlWOZwkGGNvveo) | 2:28 | 2022-10-28 | 2022-11-13 |
+| [El Barzon](https://open.spotify.com/track/7i1XfrUlcECvLngS2TOrXt) | [Luis Perez Meza](https://open.spotify.com/artist/7ma3GVmh9WTTRbTIy5JwVu) | [19 Éxitos Con Banda](https://open.spotify.com/album/5LMMjN3k96FiaApsKfDWie) | 2:46 | 2022-11-19 |  |
 | [El Barzon](https://open.spotify.com/track/2Tg88eed3kEbUEGjrJIMZG) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/4GPhb23QPYV0PCY5264b7S) | 2:44 | 2022-01-25 | 2022-07-29 |
-| [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-01-25 |  |
+| [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2022-01-25 | 2024-01-13 |
 | [El Carretero Se Va](https://open.spotify.com/track/14hwgXezbZDPcyhq7Zw91D) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Serie 20 Exitos](https://open.spotify.com/album/7n6xNmDEgfcTkO1Jz9G3Py) | 2:08 | 2022-01-25 |  |
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2022-11-19 | 2022-12-31 |
 | [El Lucero](https://open.spotify.com/track/2JRWLYIGFHAHGA15RrJ4QO) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [BAILAMOS TIA \- POLKAS, REDOVAS, HUAPANGOS \(Grabación Original Remasterizada\)](https://open.spotify.com/album/2db3vgPhGgfD4dTjDysVvx) | 1:56 | 2022-01-25 | 2022-09-13 |

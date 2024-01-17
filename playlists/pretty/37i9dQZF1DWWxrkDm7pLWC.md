@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrkDm7pLWC.md) - [plain]
 
 > De la musique classique pour aider vos enfants à se concentrer
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055 likes - 234 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,065 likes - 234 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

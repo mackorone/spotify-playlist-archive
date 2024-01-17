@@ -1,580 +1,2123 @@
 {
-  "2022-05-30": 488753,
-  "2022-05-31": 489420,
-  "2022-06-01": 490369,
-  "2022-06-02": 490427,
-  "2022-06-03": 490924,
-  "2022-06-04": 491829,
-  "2022-06-05": 492562,
-  "2022-06-06": 493117,
-  "2022-06-07": 493606,
-  "2022-06-08": 494255,
-  "2022-06-09": 494825,
-  "2022-06-10": 495536,
-  "2022-06-11": 496324,
-  "2022-06-12": 497018,
-  "2022-06-13": 497600,
-  "2022-06-14": 498124,
-  "2022-06-15": 498619,
-  "2022-06-16": 499027,
-  "2022-06-17": 499416,
-  "2022-06-18": 499818,
-  "2022-06-19": 500973,
-  "2022-06-20": 500973,
-  "2022-06-21": 501356,
-  "2022-06-22": 502371,
-  "2022-06-23": 502371,
-  "2022-06-24": 502794,
-  "2022-06-25": 503252,
-  "2022-06-26": 503591,
-  "2022-06-27": 504014,
-  "2022-06-28": 504368,
-  "2022-06-29": 504753,
-  "2022-06-30": 505119,
-  "2022-07-01": 505578,
-  "2022-07-02": 506044,
-  "2022-07-03": 506566,
-  "2022-07-04": 507117,
-  "2022-07-05": 507657,
-  "2022-07-06": 508095,
-  "2022-07-07": 508618,
-  "2022-07-08": 509147,
-  "2022-07-09": 509730,
-  "2022-07-10": 510295,
-  "2022-07-11": 510778,
-  "2022-07-12": 511261,
-  "2022-07-13": 511777,
-  "2022-07-14": 512275,
-  "2022-07-15": 512782,
-  "2022-07-16": 513422,
-  "2022-07-17": 513948,
-  "2022-07-18": 514490,
-  "2022-07-19": 515052,
-  "2022-07-20": 515540,
-  "2022-07-21": 516024,
-  "2022-07-22": 516543,
-  "2022-07-23": 517011,
-  "2022-07-24": 517521,
-  "2022-07-25": 517974,
-  "2022-07-26": 518402,
-  "2022-07-27": 518889,
-  "2022-07-28": 519322,
-  "2022-07-29": 519758,
-  "2022-07-30": 520595,
-  "2022-07-31": 520595,
-  "2022-08-01": 521243,
-  "2022-08-02": 522341,
-  "2022-08-03": 522341,
-  "2022-08-04": 522847,
-  "2022-08-05": 523335,
-  "2022-08-06": 523831,
-  "2022-08-07": 524368,
-  "2022-08-08": 524883,
-  "2022-08-09": 525355,
-  "2022-08-10": 525796,
-  "2022-08-11": 526243,
-  "2022-08-12": 526677,
-  "2022-08-13": 527186,
-  "2022-08-14": 527794,
-  "2022-08-15": 528374,
-  "2022-08-16": 528925,
-  "2022-08-17": 529460,
-  "2022-08-18": 529964,
-  "2022-08-19": 530463,
-  "2022-08-20": 530958,
-  "2022-08-21": 531420,
-  "2022-08-22": 531923,
-  "2022-08-23": 532366,
-  "2022-08-24": 532885,
-  "2022-08-25": 533313,
-  "2022-08-26": 533761,
-  "2022-08-27": 534192,
-  "2022-08-28": 534671,
-  "2022-08-29": 535129,
-  "2022-08-30": 535175,
-  "2022-08-31": 534647,
-  "2022-09-01": 533977,
-  "2022-09-02": 533331,
-  "2022-09-03": 533779,
-  "2022-09-04": 531536,
-  "2022-09-05": 531826,
-  "2022-09-06": 532115,
-  "2022-09-07": 532465,
-  "2022-09-09": 533266,
-  "2022-09-10": 533713,
-  "2022-09-11": 534162,
-  "2022-09-12": 534607,
-  "2022-09-13": 534961,
-  "2022-09-15": 535568,
-  "2022-09-16": 535924,
-  "2022-09-17": 536315,
-  "2022-09-18": 536620,
-  "2022-09-19": 537019,
-  "2022-09-20": 537348,
-  "2022-09-21": 537625,
-  "2022-09-22": 537960,
-  "2022-09-23": 538267,
-  "2022-09-24": 538569,
-  "2022-09-25": 538931,
-  "2022-09-26": 539250,
-  "2022-09-27": 539599,
-  "2022-09-28": 539975,
-  "2022-09-29": 540254,
-  "2022-09-30": 540549,
-  "2022-10-01": 540915,
-  "2022-10-02": 541281,
-  "2022-10-03": 541587,
-  "2022-10-04": 541918,
-  "2022-10-05": 542277,
-  "2022-10-06": 542651,
-  "2022-10-07": 543035,
-  "2022-10-08": 543445,
-  "2022-10-09": 544153,
-  "2022-10-10": 544235,
-  "2022-10-11": 544536,
-  "2022-10-12": 544885,
-  "2022-10-13": 545219,
-  "2022-10-14": 545599,
-  "2022-10-15": 545942,
-  "2022-10-16": 546290,
-  "2022-10-17": 546616,
-  "2022-10-18": 546905,
-  "2022-10-19": 547252,
-  "2022-10-20": 547614,
-  "2022-10-21": 547914,
-  "2022-10-22": 548224,
-  "2022-10-23": 548520,
-  "2022-10-24": 548835,
-  "2022-10-25": 549205,
-  "2022-10-26": 549534,
-  "2022-10-27": 549864,
-  "2022-10-28": 550182,
-  "2022-10-29": 550555,
-  "2022-10-30": 550883,
-  "2022-10-31": 551202,
-  "2022-11-01": 551484,
-  "2022-11-02": 551786,
-  "2022-11-03": 552049,
-  "2022-11-04": 552371,
-  "2022-11-05": 552698,
-  "2022-11-06": 552988,
-  "2022-11-07": 553275,
-  "2022-11-08": 553538,
-  "2022-11-09": 553842,
-  "2022-11-10": 554157,
-  "2022-11-11": 554565,
-  "2022-11-12": 554988,
-  "2022-11-13": 555357,
-  "2022-11-14": 555797,
-  "2022-11-15": 556202,
-  "2022-11-16": 556532,
-  "2022-11-17": 556861,
-  "2022-11-18": 556936,
-  "2022-11-19": 556737,
-  "2022-11-20": 557211,
-  "2022-11-21": 556959,
-  "2022-11-22": 558028,
-  "2022-11-23": 557825,
-  "2022-11-24": 559134,
-  "2022-11-25": 559731,
-  "2022-11-26": 560102,
-  "2022-11-27": 560462,
-  "2022-11-28": 560851,
-  "2022-11-29": 561217,
-  "2022-11-30": 561576,
-  "2022-12-01": 562080,
-  "2022-12-02": 562471,
-  "2022-12-03": 563484,
-  "2022-12-04": 564094,
-  "2022-12-05": 564593,
-  "2022-12-06": 564995,
-  "2022-12-07": 565420,
-  "2022-12-08": 565835,
-  "2022-12-09": 566253,
-  "2022-12-10": 566602,
-  "2022-12-11": 566925,
-  "2022-12-12": 567211,
-  "2022-12-13": 567562,
-  "2022-12-14": 567820,
-  "2022-12-15": 568114,
-  "2022-12-16": 568462,
-  "2022-12-17": 568808,
-  "2022-12-18": 569154,
-  "2022-12-19": 569491,
-  "2022-12-20": 570173,
-  "2022-12-21": 570173,
-  "2022-12-22": 570451,
-  "2022-12-24": 571006,
-  "2022-12-25": 571359,
-  "2022-12-26": 571699,
-  "2022-12-27": 571997,
-  "2022-12-28": 572373,
-  "2022-12-29": 572746,
-  "2022-12-30": 573036,
-  "2022-12-31": 573363,
-  "2023-01-01": 573622,
-  "2023-01-02": 573930,
-  "2023-01-03": 574325,
-  "2023-01-04": 574614,
-  "2023-01-05": 574912,
-  "2023-01-06": 575344,
-  "2023-01-07": 575959,
-  "2023-01-08": 576021,
-  "2023-01-09": 576441,
-  "2023-01-10": 576781,
-  "2023-01-11": 577142,
-  "2023-01-12": 577467,
-  "2023-01-13": 577731,
-  "2023-01-14": 578331,
-  "2023-01-15": 578392,
-  "2023-01-16": 578666,
-  "2023-01-17": 579053,
-  "2023-01-18": 579376,
-  "2023-01-19": 579734,
-  "2023-01-20": 580078,
-  "2023-01-21": 580360,
-  "2023-01-22": 580668,
-  "2023-01-23": 581007,
-  "2023-01-24": 581379,
-  "2023-01-25": 581761,
-  "2023-01-26": 582135,
-  "2023-01-27": 582524,
-  "2023-01-28": 584343,
-  "2023-01-29": 585585,
-  "2023-01-30": 586415,
-  "2023-01-31": 586415,
-  "2023-02-01": 587901,
-  "2023-02-02": 588524,
-  "2023-02-03": 589525,
-  "2023-02-04": 590470,
-  "2023-02-05": 591138,
-  "2023-02-06": 591817,
-  "2023-02-07": 592360,
-  "2023-02-08": 593522,
-  "2023-02-09": 593522,
-  "2023-02-10": 594007,
-  "2023-02-11": 594486,
-  "2023-02-12": 595553,
-  "2023-02-13": 596069,
-  "2023-02-14": 596069,
-  "2023-02-15": 596514,
-  "2023-02-16": 597002,
-  "2023-02-17": 597498,
-  "2023-02-18": 598484,
-  "2023-02-19": 598604,
-  "2023-02-20": 598975,
-  "2023-02-21": 599436,
-  "2023-02-22": 599894,
-  "2023-02-23": 600443,
-  "2023-02-24": 600931,
-  "2023-02-25": 601561,
-  "2023-02-26": 601896,
-  "2023-02-27": 602829,
-  "2023-02-28": 602829,
-  "2023-03-01": 603283,
-  "2023-03-02": 603706,
-  "2023-03-03": 604162,
-  "2023-03-04": 604554,
-  "2023-03-05": 605401,
-  "2023-03-06": 605401,
-  "2023-03-07": 605808,
-  "2023-03-08": 606150,
-  "2023-03-09": 606505,
-  "2023-03-10": 606824,
-  "2023-03-11": 607167,
-  "2023-03-12": 607547,
-  "2023-03-13": 607936,
-  "2023-03-14": 608277,
-  "2023-03-15": 608580,
-  "2023-03-16": 608889,
-  "2023-03-17": 608889,
-  "2023-03-18": 609599,
-  "2023-03-19": 609916,
-  "2023-03-20": 610284,
-  "2023-03-21": 610592,
-  "2023-03-22": 610902,
-  "2023-03-23": 611236,
-  "2023-03-24": 611236,
-  "2023-03-25": 611946,
-  "2023-03-26": 612429,
-  "2023-03-27": 612901,
-  "2023-03-28": 613268,
-  "2023-03-29": 613672,
-  "2023-03-30": 614366,
-  "2023-03-31": 614366,
-  "2023-04-01": 614709,
-  "2023-04-02": 615031,
-  "2023-04-03": 615438,
-  "2023-04-04": 615830,
-  "2023-04-05": 616207,
-  "2023-04-06": 616641,
-  "2023-04-07": 617051,
-  "2023-04-09": 617865,
-  "2023-04-10": 618244,
-  "2023-04-11": 619077,
-  "2023-04-12": 619077,
-  "2023-04-13": 619472,
-  "2023-04-14": 619899,
-  "2023-04-15": 620311,
-  "2023-04-16": 620722,
-  "2023-04-17": 621125,
-  "2023-04-18": 621492,
-  "2023-04-19": 621906,
-  "2023-04-20": 622304,
-  "2023-04-21": 622775,
-  "2023-04-22": 623287,
-  "2023-04-23": 623695,
-  "2023-04-24": 624100,
-  "2023-04-25": 624481,
-  "2023-04-26": 624883,
-  "2023-04-27": 625243,
-  "2023-04-28": 625645,
-  "2023-04-29": 626029,
-  "2023-04-30": 626421,
-  "2023-05-01": 626872,
-  "2023-05-02": 627295,
-  "2023-05-03": 627652,
-  "2023-05-04": 628007,
-  "2023-05-05": 628333,
-  "2023-05-06": 628715,
-  "2023-05-07": 629103,
-  "2023-05-08": 629456,
-  "2023-05-09": 629806,
-  "2023-05-10": 630188,
-  "2023-05-11": 630525,
-  "2023-05-12": 630873,
-  "2023-05-13": 631226,
-  "2023-05-14": 631563,
-  "2023-05-15": 631957,
-  "2023-05-16": 632265,
-  "2023-05-17": 632541,
-  "2023-05-18": 632928,
-  "2023-05-19": 633303,
-  "2023-05-20": 634009,
-  "2023-05-21": 634009,
-  "2023-05-22": 634009,
-  "2023-05-23": 634693,
-  "2023-05-24": 635203,
-  "2023-05-25": 635284,
-  "2023-05-26": 635627,
-  "2023-05-27": 635966,
-  "2023-05-28": 636319,
-  "2023-05-29": 636319,
-  "2023-05-30": 637318,
-  "2023-05-31": 637726,
-  "2023-06-01": 638061,
-  "2023-06-02": 638378,
-  "2023-06-03": 638737,
-  "2023-06-04": 639120,
-  "2023-06-05": 639472,
-  "2023-06-06": 639769,
-  "2023-06-07": 640122,
-  "2023-06-08": 640401,
-  "2023-06-09": 640697,
-  "2023-06-10": 640957,
-  "2023-06-11": 641280,
-  "2023-06-12": 641564,
-  "2023-06-13": 641824,
-  "2023-06-14": 642051,
-  "2023-06-15": 642257,
-  "2023-06-16": 642539,
-  "2023-06-17": 642747,
-  "2023-06-18": 643006,
-  "2023-06-19": 643227,
-  "2023-06-20": 643490,
-  "2023-06-21": 643795,
-  "2023-06-22": 644068,
-  "2023-06-23": 644383,
-  "2023-06-24": 644621,
-  "2023-06-25": 644891,
-  "2023-06-26": 645179,
-  "2023-06-27": 645360,
-  "2023-06-28": 645619,
-  "2023-06-29": 645913,
-  "2023-06-30": 646211,
-  "2023-07-01": 646901,
-  "2023-07-02": 646901,
-  "2023-07-03": 647149,
-  "2023-07-04": 647385,
-  "2023-07-05": 647694,
-  "2023-07-06": 648234,
-  "2023-07-07": 648234,
-  "2023-07-08": 648606,
-  "2023-07-09": 648872,
-  "2023-07-10": 649146,
-  "2023-07-11": 649359,
-  "2023-07-12": 649552,
-  "2023-07-13": 649764,
-  "2023-07-14": 649978,
-  "2023-07-15": 650169,
-  "2023-07-16": 650443,
-  "2023-07-17": 650652,
-  "2023-07-18": 650822,
-  "2023-07-19": 651056,
-  "2023-07-20": 651231,
-  "2023-07-21": 651411,
-  "2023-07-22": 651582,
-  "2023-07-23": 651781,
-  "2023-07-24": 651934,
-  "2023-07-25": 652093,
-  "2023-07-26": 652273,
-  "2023-07-27": 652467,
-  "2023-07-28": 652666,
-  "2023-07-29": 652862,
-  "2023-07-30": 653081,
-  "2023-07-31": 653289,
-  "2023-08-01": 653538,
-  "2023-08-02": 653739,
-  "2023-08-03": 653920,
-  "2023-08-04": 654138,
-  "2023-08-05": 654317,
-  "2023-08-06": 654808,
-  "2023-08-07": 654808,
-  "2023-08-08": 655027,
-  "2023-08-09": 655221,
-  "2023-08-10": 655424,
-  "2023-08-11": 655645,
-  "2023-08-12": 655887,
-  "2023-08-13": 656106,
-  "2023-08-14": 656306,
-  "2023-08-15": 656694,
-  "2023-08-16": 656694,
-  "2023-08-17": 656885,
-  "2023-08-18": 657056,
-  "2023-08-19": 657272,
-  "2023-08-20": 657503,
-  "2023-08-21": 657687,
-  "2023-08-22": 657860,
-  "2023-08-23": 658004,
-  "2023-08-24": 658169,
-  "2023-08-25": 658282,
-  "2023-08-26": 658526,
-  "2023-08-27": 658704,
-  "2023-08-28": 658884,
-  "2023-08-29": 659064,
-  "2023-08-30": 659166,
-  "2023-08-31": 659335,
-  "2023-09-01": 659749,
-  "2023-09-02": 659749,
-  "2023-09-03": 659926,
-  "2023-09-04": 660298,
-  "2023-09-05": 660501,
-  "2023-09-06": 660729,
-  "2023-09-07": 660939,
-  "2023-09-08": 661135,
-  "2023-09-09": 661418,
-  "2023-09-10": 661588,
-  "2023-09-11": 661796,
-  "2023-09-12": 661983,
-  "2023-09-13": 662158,
-  "2023-09-14": 662520,
-  "2023-09-15": 662752,
-  "2023-09-16": 663237,
-  "2023-09-17": 663600,
-  "2023-09-18": 663952,
-  "2023-09-19": 664242,
-  "2023-09-20": 664496,
-  "2023-09-21": 664746,
-  "2023-09-22": 664941,
-  "2023-09-23": 665144,
-  "2023-09-24": 665418,
-  "2023-09-25": 665685,
-  "2023-09-26": 665923,
-  "2023-09-27": 666054,
-  "2023-09-28": 666326,
-  "2023-09-29": 666586,
-  "2023-09-30": 666791,
-  "2023-10-01": 667017,
-  "2023-10-02": 667277,
-  "2023-10-03": 667412,
-  "2023-10-04": 667627,
-  "2023-10-05": 667824,
-  "2023-10-06": 668058,
-  "2023-10-07": 668303,
-  "2023-10-08": 668511,
-  "2023-10-09": 668742,
-  "2023-10-10": 668869,
-  "2023-10-11": 669092,
-  "2023-10-12": 669092,
-  "2023-10-13": 669169,
-  "2023-10-14": 669397,
-  "2023-10-15": 669675,
-  "2023-10-16": 669972,
-  "2023-10-17": 670263,
-  "2023-10-18": 670499,
-  "2023-10-19": 670707,
-  "2023-10-20": 670938,
-  "2023-10-21": 671136,
-  "2023-10-22": 671385,
-  "2023-10-23": 671604,
-  "2023-10-24": 671784,
-  "2023-10-25": 671996,
-  "2023-10-26": 672189,
-  "2023-10-27": 672381,
-  "2023-10-28": 672697,
-  "2023-10-29": 673065,
-  "2023-10-30": 673625,
-  "2023-10-31": 673625,
-  "2023-11-01": 673852,
-  "2023-11-02": 674022,
-  "2023-11-03": 674207,
-  "2023-11-04": 674398,
-  "2023-11-05": 674573,
-  "2023-11-06": 674715,
-  "2023-11-07": 674881,
-  "2023-11-08": 675087,
-  "2023-11-09": 675350,
-  "2023-11-10": 675531,
-  "2023-11-11": 675762,
-  "2023-11-12": 675966,
-  "2023-11-13": 676232,
-  "2023-11-14": 676377,
-  "2023-11-15": 676377,
-  "2023-11-16": 676663,
-  "2023-11-17": 676947,
-  "2023-11-18": 676947,
-  "2023-11-19": 677090,
-  "2023-11-20": 677261,
-  "2023-11-21": 677356,
-  "2023-11-22": 677471,
-  "2023-11-23": 677597,
-  "2023-11-24": 677754,
-  "2023-11-25": 677908,
-  "2023-11-26": 678037,
-  "2023-11-27": 678133,
-  "2023-11-28": 678215,
-  "2023-11-29": 678487,
-  "2023-11-30": 678487,
-  "2023-12-01": 678687,
-  "2023-12-02": 678893,
-  "2023-12-03": 679148,
-  "2023-12-04": 679322,
-  "2023-12-05": 679513,
-  "2023-12-06": 679684,
-  "2023-12-07": 679799,
-  "2023-12-08": 679941,
-  "2023-12-09": 680105,
-  "2023-12-10": 680266,
-  "2023-12-11": 680418,
-  "2023-12-12": 680606,
-  "2023-12-13": 680777,
-  "2023-12-14": 680989,
-  "2023-12-15": 681104,
-  "2023-12-16": 681283,
-  "2023-12-17": 681475,
-  "2023-12-18": 681714,
-  "2023-12-19": 681924,
-  "2023-12-20": 682077,
-  "2023-12-21": 682317,
-  "2023-12-22": 682529,
-  "2023-12-23": 682736,
-  "2023-12-24": 682962,
-  "2023-12-25": 683106,
-  "2023-12-26": 683277,
-  "2023-12-27": 683476,
-  "2023-12-30": 684043,
-  "2023-12-31": 684290,
-  "2024-01-01": 684466,
-  "2024-01-02": 684640,
-  "2024-01-03": 684834
+  "2024-01-17": 686485,
+  "date_first_scraped": "2022-05-30",
+  "description": "ONE DREAM with TXT!",
+  "name": "This Is TOMORROW X TOGETHER",
+  "tracks": [
+    {
+      "album": {
+        "name": "Chaotic Wonderland",
+        "url": "https://open.spotify.com/album/3aOc7Dx7XaZusfqxjDzrVL"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "0X1=LOVESONG (I Know I Love You) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/4yRVrTMD8zLyaCVcirIAdu"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205302,
+      "name": "0X1=LOVESONG (I Know I Love You) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/7Lzda5f4pfjczre2GZiwht"
+    },
+    {
+      "album": {
+        "name": "0X1=LOVESONG (I Know I Love You) feat. MOD SUN",
+        "url": "https://open.spotify.com/album/4mz8WmQHMhE51kERBJt7oK"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218755,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. MOD SUN",
+      "url": "https://open.spotify.com/track/2BS6hEI43E8Rx1vDwG7B2N"
+    },
+    {
+      "album": {
+        "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+        "url": "https://open.spotify.com/album/2g6eRzETrUKRIBC8QnjAE1"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205147,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. pH-1, Woodie Gochild, Seori",
+      "url": "https://open.spotify.com/track/6jUqjExnh8QBGd7RtnAIJF"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/1Z8TPHiKeCUyClxV6WTTIf"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202203,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori",
+      "url": "https://open.spotify.com/track/3lyibc1saJfWe5z7rTyWYO"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218569,
+      "name": "0X1=LOVESONG (I Know I Love You) feat. Seori (Emocore Mix)",
+      "url": "https://open.spotify.com/track/6XtPOQQmTO5hLdaD8ICyEU"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217026,
+      "name": "20cm",
+      "url": "https://open.spotify.com/track/2U28aK9o2gI7sBL4XRzFfL"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217026,
+      "name": "20cm",
+      "url": "https://open.spotify.com/track/5vz7614Y45d7U5Coi0FjnA"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "9 and Three Quarters (Run Away)",
+      "url": "https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211866,
+      "name": "9 and Three Quarters (Run Away)",
+      "url": "https://open.spotify.com/track/2MsNSKQNQNRklkKFxxvIav"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "Angel Or Devil",
+      "url": "https://open.spotify.com/track/3sVCSgIArXIhiWHvbUmauZ"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232480,
+      "name": "Angel Or Devil",
+      "url": "https://open.spotify.com/track/7pxea3fReuhapHvxXJn95P"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215188,
+      "name": "Anti-Romantic",
+      "url": "https://open.spotify.com/track/0v1cUEN3oF5URBDpc0wVtF"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215188,
+      "name": "Anti-Romantic",
+      "url": "https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162834,
+      "name": "Back for More (TXT Ver.)",
+      "url": "https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx"
+    },
+    {
+      "album": {
+        "name": "Back for More (More Edition)",
+        "url": "https://open.spotify.com/album/3InBiuGXecuwXqG81YrB1E"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131037,
+      "name": "Back for More (with Anitta)",
+      "url": "https://open.spotify.com/track/1p0kTGMwMtSTcV7fAnkkQc"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209105,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/3ObPkJQAgjAhTwYvDhPrAW"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185520,
+      "name": "Blue Orangeade",
+      "url": "https://open.spotify.com/track/3HHFOztnhfIWxjOr2s06sw"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185520,
+      "name": "Blue Orangeade",
+      "url": "https://open.spotify.com/track/7C31PdvTuSvEFqn2sKISsX"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185948,
+      "name": "Blue Spring",
+      "url": "https://open.spotify.com/track/7o3sxXABQ4VacMPDa6hUFO"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230040,
+      "name": "Can't We Just Leave The Monster Alive?",
+      "url": "https://open.spotify.com/track/1cTghWvaY20Vm2jkBZecZN"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Can't We Just Leave the Monster Alive?",
+      "url": "https://open.spotify.com/track/4O7sUONPtqPBUKXuAMsoak"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201445,
+      "name": "Can't You See Me?",
+      "url": "https://open.spotify.com/track/2ecGP5xUE5126x6yHa7J6E"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201445,
+      "name": "Can't You See Me?",
+      "url": "https://open.spotify.com/track/2qI0Uchpdc2RkzuhbRnnZ8"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187573,
+      "name": "Cat & Dog",
+      "url": "https://open.spotify.com/track/3RsEvBUaNT9MXqUvQVuK1G"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187573,
+      "name": "Cat & Dog",
+      "url": "https://open.spotify.com/track/5cadLqAgl7Y9zX3lRWdsPK"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling",
+      "url": "https://open.spotify.com/track/0ZPjVmof45INEERgYfadtv"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182670,
+      "name": "Chasing That Feeling (English Ver. \u2013 Digital Only)",
+      "url": "https://open.spotify.com/track/3lJyZMz60jW3TTGeOFUrCd"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/0EmYZZ8OqeALedVhijSjsg"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230706,
+      "name": "CROWN",
+      "url": "https://open.spotify.com/track/32h6yQGn4oAhZ0HRsTMX26"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194912,
+      "name": "Dear Sputnik",
+      "url": "https://open.spotify.com/track/7ypFllJwlotXBJfLjsXhvo"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195349,
+      "name": "Dear Sputnik",
+      "url": "https://open.spotify.com/track/37kWYmbo68VxWl9nNBvr8T"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163619,
+      "name": "Deep Down",
+      "url": "https://open.spotify.com/track/4iK0QSCW3nmt6bsZtAjzX6"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186471,
+      "name": "Devil by the Window",
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/0XM1XnOYv8BkFPFVCU8ZjX"
+    },
+    {
+      "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145065,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Alan Walker Remix)",
+        "url": "https://open.spotify.com/album/5KSss6H6yvZIpYG2MNpVR7"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139441,
+      "name": "Do It Like That (Alan Walker Remix)",
+      "url": "https://open.spotify.com/track/3a5wHq45xKCNbSwHDnlnjZ"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Jax Jones Remix)",
+        "url": "https://open.spotify.com/album/3xUNr11OLl38k9aPZ5AzrA"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295955,
+      "name": "Do It Like That (Jax Jones Remix)",
+      "url": "https://open.spotify.com/track/2FwNVwldrtc8454bYU5a9g"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Jersey Club Remix)",
+        "url": "https://open.spotify.com/album/3vS6dRY94LpO01JxEN95dM"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145823,
+      "name": "Do It Like That (Jersey Club Remix)",
+      "url": "https://open.spotify.com/track/1yoGvx9wWnrk7zFeKQ7yxH"
+    },
+    {
+      "album": {
+        "name": "Do It Like That (Pop R&B Remix)",
+        "url": "https://open.spotify.com/album/69mUDfqiMNvS4IHwdtEfn0"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154947,
+      "name": "Do It Like That (Pop R&B Remix)",
+      "url": "https://open.spotify.com/track/5W1MGvhp0nDigx1vfYTaO8"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209563,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/0YKzTMzgAXgQLpChiBRTlf"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209563,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/1vH3GM0b9BqBCZ0ACVa7XA"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186584,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/59ScHwQ4PP0TRTJgG07PAW"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217374,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/0RRd7AcCl0HR5gzzRuCMXs"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217374,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/7HjcrlnxZ7mSZ8zfJC5fPc"
+    },
+    {
+      "album": {
+        "name": "EYES (from \u201cArmored Saurus\u201d)",
+        "url": "https://open.spotify.com/album/2yyyLbIoQWvZXudDHeUkOd"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214197,
+      "name": "EYES (from \u201cArmored Saurus\u201d)",
+      "url": "https://open.spotify.com/track/2jENXjiYuPriGaFNLSmgO5"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 267099,
+      "name": "Fairy of Shampoo",
+      "url": "https://open.spotify.com/track/5IFCL8jUbhv1nP3cPuda7n"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267099,
+      "name": "Fairy of Shampoo",
+      "url": "https://open.spotify.com/track/5JXpZcc3CeQaC6vAF1iaV5"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180676,
+      "name": "Farewell, Neverland",
+      "url": "https://open.spotify.com/track/43mnNatwMMydJ4CxMdQVnJ"
+    },
+    {
+      "album": {
+        "name": "Free Falling",
+        "url": "https://open.spotify.com/album/0V2vQVVSUJXXqSnikWNcZq"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217207,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/1t2fPE8rClkb0ZACu26ebN"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194771,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/3Yp61j6axuQe4nxYWvbOXy"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195628,
+      "name": "Frost",
+      "url": "https://open.spotify.com/track/4wZeTwH0B4zk77j2vPfFAU"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223491,
+      "name": "Ghosting",
+      "url": "https://open.spotify.com/track/6mS8cd33jFrighnLc0obxQ"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad - Japanese Ver.",
+      "url": "https://open.spotify.com/track/2Hg6dMAD2KJwo2wlA9Xk1B"
+    },
+    {
+      "album": {
+        "name": "Goodbye Now (Love Revolution X TOMORROW X TOGETHER) [Original Webtoon Soundtrack]",
+        "url": "https://open.spotify.com/album/6dT50XMh2FjyJOINykOAd3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276520,
+      "name": "Goodbye Now",
+      "url": "https://open.spotify.com/track/1bIhEN6lxZTokWS7Qk5DJP"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200543,
+      "name": "Growing Pain",
+      "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151918,
+      "name": "Happily Ever After",
+      "url": "https://open.spotify.com/track/29r5gr7b0f710smqMrm7pP"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155753,
+      "name": "Happy Fools (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202761,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/1DA36fEIoN6IKuDAI6oBbK"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204358,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/5OvpZeRmZEBPp7Vgp0n6oj"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111935,
+      "name": "Intro : FLOATING",
+      "url": "https://open.spotify.com/track/1EiCjCgfeiJR6IMsBhqtU8"
+    },
+    {
+      "album": {
+        "name": "Ito",
+        "url": "https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243247,
+      "name": "Ito",
+      "url": "https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243414,
+      "name": "Ito",
+      "url": "https://open.spotify.com/track/6RY6S8ZUTCSbvXr9s1R0Fo"
+    },
+    {
+      "album": {
+        "name": "LEveL",
+        "url": "https://open.spotify.com/album/5ZEZ8rAsHVUoPqA5a5ZZcL"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180330,
+      "name": "LEveL",
+      "url": "https://open.spotify.com/track/0Zp9WOkXX8xZS8QOhtdQ5k"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168751,
+      "name": "Lonely Boy (The tattoo on my ring finger)",
+      "url": "https://open.spotify.com/track/6AOrC7t2WS5ykYcnoHpiS2"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159749,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/15Ocew2xtUZAtviIClOaPt"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159749,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4Wh5WGtov1VJ6EJ8OQgNeS"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159749,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/6KFhu3gk0whUnGCeOjkL8A"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192920,
+      "name": "Magic Island",
+      "url": "https://open.spotify.com/track/5DcLYkS1rnSgRMfhXNvh0d"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192920,
+      "name": "Magic Island",
+      "url": "https://open.spotify.com/track/6puhb4jtdrrYLz5uwRm5pg"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226083,
+      "name": "Maze in the Mirror",
+      "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226083,
+      "name": "Maze in the Mirror",
+      "url": "https://open.spotify.com/track/2tYA2hPbaJqshY73q15wJz"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188276,
+      "name": "MOA Diary (Dubaddu Wari Wari)",
+      "url": "https://open.spotify.com/track/3XoYQvTJK5KT0ynrq7mcCN"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188394,
+      "name": "MOA Diary (Dubaddu Wari Wari) - Japanese Ver.",
+      "url": "https://open.spotify.com/track/5iN6tDlsK95bWBlMfVoVmL"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243013,
+      "name": "Nap of a star",
+      "url": "https://open.spotify.com/track/3Rn10yxcNeVzm5OXug2Kwf"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243013,
+      "name": "Nap of a star",
+      "url": "https://open.spotify.com/track/6JxNli46YwzPdPiHnEQUeC"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174106,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/6DAPX3IK33jiOHUzIWbYn6"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174106,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/72rUKYfdSaMVhgUhajRvrX"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186076,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/1lb61ya67YS87CtjYN0bil"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "No Rules",
+      "url": "https://open.spotify.com/track/45VJD6xlBaIpRc4wBoTWvD"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177976,
+      "name": "Opening Sequence",
+      "url": "https://open.spotify.com/track/1exxGxUMlJWD1h9YcE9YZH"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/5GiLAzb049s1SsDiUPhHVz"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210280,
+      "name": "Our Summer",
+      "url": "https://open.spotify.com/track/22PEycypPsZpzlMxTgukiQ"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: STAR",
+        "url": "https://open.spotify.com/album/2EUGHPf9UCnInxJ8p7gDVg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210280,
+      "name": "Our Summer",
+      "url": "https://open.spotify.com/track/3qbHA5vvQj249vmnhcTxQV"
+    },
+    {
+      "album": {
+        "name": "Our Summer (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/0fA75IiylPro5rHnIiD2mf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Our Summer (Acoustic Mix)",
+      "url": "https://open.spotify.com/track/5FFtpF6rg5xdz3EwGFbUMg"
+    },
+    {
+      "album": {
+        "name": "Our Summer (Acoustic Mix)",
+        "url": "https://open.spotify.com/album/6c79TLjIhBBVSeJ6QtpVJK"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221946,
+      "name": "Our Summer - Acoustic Mix",
+      "url": "https://open.spotify.com/track/1NsXtssC26w1hFeab76vg9"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129362,
+      "name": "Outro : FALLING",
+      "url": "https://open.spotify.com/track/4e6VsQ4MBI6hAFXMrEFSUV"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Poppin' Star",
+      "url": "https://open.spotify.com/track/0Uzy6FHTYob2CbWisMz4Ap"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193426,
+      "name": "Poppin' Star",
+      "url": "https://open.spotify.com/track/3lsZoIoCmuFfU07hkRMlnP"
+    },
+    {
+      "album": {
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152214,
+      "name": "PS5",
+      "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "album": {
+        "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+        "url": "https://open.spotify.com/album/3d5T4SpuAOMi7GSFojXktx"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-25",
+      "duration_ms": 152214,
+      "name": "PS5 (with TOMORROW X TOGETHER & Alan Walker)",
+      "url": "https://open.spotify.com/track/7xNCacksfUkYXsXuSW4vNF"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/2fL64wNyyZ4BwwRImYeora"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205519,
+      "name": "PUMA",
+      "url": "https://open.spotify.com/track/4XdzvdvfaAozcWM2svBri5"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: ETERNITY",
+        "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205519,
+      "name": "PUMA",
+      "url": "https://open.spotify.com/track/4dJThL3k5tMRdduAiARM4R"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/5KoR6s906nbO21C9ZPdwTv"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214346,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/50eeuSVdOIf7PK3JdXoDbd"
+    },
+    {
+      "album": {
+        "name": "The Dream Chapter: MAGIC",
+        "url": "https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/569Xgt70tGY3GyqHfDDc7y"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200847,
+      "name": "Skipping Stones",
+      "url": "https://open.spotify.com/track/0bPy1iMfSOO2pevpXLhnoG"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Sugar Rush Ride",
+      "url": "https://open.spotify.com/track/0rhI6gvOeCKA502RdJAbfs"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186619,
+      "name": "Sugar Rush Ride - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1T45Y4WQqjiR7UXiHVzP3N"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211399,
+      "name": "Thursday's Child Has Far To Go",
+      "url": "https://open.spotify.com/track/04CHEoMbrLOiX8co3EG5dO"
+    },
+    {
+      "album": {
+        "name": "The Name Chapter: TEMPTATION",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157261,
+      "name": "Tinnitus (Wanna be a rock)",
+      "url": "https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X"
+    },
+    {
+      "album": {
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156364,
+      "name": "Trust Fund Baby",
+      "url": "https://open.spotify.com/track/20pl0RVGT7P6L1Jr9p51nw"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182945,
+      "name": "Way Home",
+      "url": "https://open.spotify.com/track/195eCIcjTLsOJZ1nfNHUUJ"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210549,
+      "name": "We Lost The Summer",
+      "url": "https://open.spotify.com/track/1WrScpykT891CZhFThXJtj"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FREEZE",
+        "url": "https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212703,
+      "name": "What if I had been that PUMA",
+      "url": "https://open.spotify.com/track/6pU4nUCle2kZR2k3XV86YF"
+    },
+    {
+      "album": {
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213651,
+      "name": "What if I had been that PUMA",
+      "url": "https://open.spotify.com/track/2L1l2GV8K16gAqIPKjPhSz"
+    },
+    {
+      "album": {
+        "name": "minisode1 : Blue Hour",
+        "url": "https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191788,
+      "name": "Wishlist",
+      "url": "https://open.spotify.com/track/4A6f3zMLDDAUgkGTLtpMc3"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218859,
+      "name": "\u3072\u3068\u308a\u306e\u591c (Hitori no Yoru)",
+      "url": "https://open.spotify.com/track/4diV6EkJLVW2TAxFNgQeIF"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204111,
+      "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring)",
+      "url": "https://open.spotify.com/track/2Xeyoy0TGrSHR0MBI8e4zS"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205261,
+      "name": "\u541b\u3058\u3083\u306a\u3044\u8ab0\u304b\u306e\u611b\u3057\u65b9 (Ring) - Unplugged Ver.",
+      "url": "https://open.spotify.com/track/0K1jAnEXaT5BPK6Q6z7WQT"
+    },
+    {
+      "album": {
+        "name": "DRAMA",
+        "url": "https://open.spotify.com/album/74nwjBBoKHQOP6DDs71Zwf"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2022-05-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191146,
+      "name": "\u6c38\u9060\u306b\u5149\u308c (Everlasting Shine)",
+      "url": "https://open.spotify.com/track/3zLCX1TGMpsA67cW2pq6ut"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232736,
+      "name": "\u7d2b\u967d\u82b1\u306e\u3088\u3046\u306a\u604b (Hydrangea Love)",
+      "url": "https://open.spotify.com/track/5afpl2cZ88bvEfeBmpwX6m"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2pmk7QemwOu"
 }

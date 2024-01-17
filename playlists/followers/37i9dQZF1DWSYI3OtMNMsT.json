@@ -1,735 +1,639 @@
 {
-  "2021-12-25": 23390,
-  "2021-12-26": 23410,
-  "2021-12-27": 23413,
-  "2021-12-28": 23413,
-  "2021-12-29": 23412,
-  "2021-12-30": 23412,
-  "2021-12-31": 23411,
-  "2022-01-01": 23406,
-  "2022-01-02": 23404,
-  "2022-01-03": 23402,
-  "2022-01-04": 23397,
-  "2022-01-05": 23393,
-  "2022-01-06": 23392,
-  "2022-01-07": 23390,
-  "2022-01-08": 23385,
-  "2022-01-09": 23385,
-  "2022-01-10": 23385,
-  "2022-01-11": 23384,
-  "2022-01-12": 23382,
-  "2022-01-13": 23377,
-  "2022-01-14": 23376,
-  "2022-01-15": 23371,
-  "2022-01-16": 23371,
-  "2022-01-17": 23370,
-  "2022-01-18": 23370,
-  "2022-01-19": 23367,
-  "2022-01-20": 23366,
-  "2022-01-21": 23364,
-  "2022-01-22": 23363,
-  "2022-01-23": 23363,
-  "2022-01-24": 23363,
-  "2022-01-25": 23362,
-  "2022-01-26": 23360,
-  "2022-01-27": 23358,
-  "2022-01-28": 23357,
-  "2022-01-29": 23357,
-  "2022-01-30": 23356,
-  "2022-01-31": 23356,
-  "2022-02-01": 23351,
-  "2022-02-02": 23350,
-  "2022-02-03": 23349,
-  "2022-02-04": 23347,
-  "2022-02-05": 23347,
-  "2022-02-06": 23346,
-  "2022-02-07": 23344,
-  "2022-02-08": 23340,
-  "2022-02-09": 23339,
-  "2022-02-10": 23337,
-  "2022-02-11": 23335,
-  "2022-02-12": 23334,
-  "2022-02-13": 23330,
-  "2022-02-14": 23328,
-  "2022-02-15": 23324,
-  "2022-02-16": 23323,
-  "2022-02-17": 23323,
-  "2022-02-18": 23318,
-  "2022-02-19": 23316,
-  "2022-02-20": 23316,
-  "2022-02-21": 23316,
-  "2022-02-22": 23313,
-  "2022-02-23": 23309,
-  "2022-02-24": 23306,
-  "2022-02-25": 23306,
-  "2022-02-26": 23305,
-  "2022-02-27": 23304,
-  "2022-02-28": 23304,
-  "2022-03-01": 23303,
-  "2022-03-02": 23302,
-  "2022-03-03": 23301,
-  "2022-03-04": 23295,
-  "2022-03-05": 23291,
-  "2022-03-06": 23291,
-  "2022-03-07": 23289,
-  "2022-03-08": 23289,
-  "2022-03-09": 23288,
-  "2022-03-10": 23286,
-  "2022-03-11": 23285,
-  "2022-03-12": 23285,
-  "2022-03-13": 23284,
-  "2022-03-14": 23284,
-  "2022-03-15": 23283,
-  "2022-03-16": 23282,
-  "2022-03-17": 23282,
-  "2022-03-18": 23279,
-  "2022-03-19": 23278,
-  "2022-03-20": 23278,
-  "2022-03-21": 23275,
-  "2022-03-22": 23275,
-  "2022-03-23": 23273,
-  "2022-03-24": 23271,
-  "2022-03-25": 23271,
-  "2022-03-26": 23270,
-  "2022-03-27": 23270,
-  "2022-03-28": 23269,
-  "2022-03-30": 23268,
-  "2022-03-31": 23267,
-  "2022-04-01": 23267,
-  "2022-04-02": 23266,
-  "2022-04-03": 23266,
-  "2022-04-04": 23264,
-  "2022-04-05": 23264,
-  "2022-04-06": 23264,
-  "2022-04-07": 23263,
-  "2022-04-08": 23263,
-  "2022-04-09": 23261,
-  "2022-04-10": 23260,
-  "2022-04-11": 23259,
-  "2022-04-12": 23259,
-  "2022-04-13": 23259,
-  "2022-04-14": 23259,
-  "2022-04-15": 23259,
-  "2022-04-16": 23259,
-  "2022-04-17": 23259,
-  "2022-04-18": 23259,
-  "2022-04-19": 23259,
-  "2022-04-20": 23259,
-  "2022-04-21": 23259,
-  "2022-04-22": 23259,
-  "2022-04-23": 23259,
-  "2022-04-24": 23259,
-  "2022-04-25": 23259,
-  "2022-04-26": 23259,
-  "2022-04-27": 23259,
-  "2022-04-28": 23259,
-  "2022-04-29": 23259,
-  "2022-04-30": 23259,
-  "2022-05-01": 23259,
-  "2022-05-02": 23259,
-  "2022-05-03": 23259,
-  "2022-05-04": 23259,
-  "2022-05-05": 23259,
-  "2022-05-06": 23259,
-  "2022-05-07": 23259,
-  "2022-05-08": 23259,
-  "2022-05-09": 23259,
-  "2022-05-10": 23259,
-  "2022-05-11": 23259,
-  "2022-05-12": 23259,
-  "2022-05-13": 23259,
-  "2022-05-14": 23259,
-  "2022-05-15": 23259,
-  "2022-05-16": 23259,
-  "2022-05-17": 23259,
-  "2022-05-18": 23259,
-  "2022-05-19": 23259,
-  "2022-05-20": 23259,
-  "2022-05-21": 23259,
-  "2022-05-22": 23259,
-  "2022-05-23": 23259,
-  "2022-05-24": 23259,
-  "2022-05-25": 23259,
-  "2022-05-26": 23259,
-  "2022-05-27": 23259,
-  "2022-05-28": 23259,
-  "2022-05-29": 23259,
-  "2022-05-30": 23259,
-  "2022-05-31": 23259,
-  "2022-06-01": 23259,
-  "2022-06-02": 23259,
-  "2022-06-03": 23259,
-  "2022-06-04": 23259,
-  "2022-06-05": 23259,
-  "2022-06-06": 23259,
-  "2022-06-07": 23259,
-  "2022-06-08": 23259,
-  "2022-06-09": 23259,
-  "2022-06-10": 23259,
-  "2022-06-11": 23259,
-  "2022-06-12": 23259,
-  "2022-06-13": 23259,
-  "2022-06-14": 23259,
-  "2022-06-15": 23259,
-  "2022-06-16": 23259,
-  "2022-06-17": 23259,
-  "2022-06-18": 23259,
-  "2022-06-19": 23259,
-  "2022-06-20": 23259,
-  "2022-06-21": 23259,
-  "2022-06-22": 23259,
-  "2022-06-23": 23259,
-  "2022-06-24": 23259,
-  "2022-06-25": 23259,
-  "2022-06-26": 23259,
-  "2022-06-27": 23259,
-  "2022-06-28": 23259,
-  "2022-06-29": 23259,
-  "2022-06-30": 23259,
-  "2022-07-01": 23259,
-  "2022-07-02": 23259,
-  "2022-07-03": 23259,
-  "2022-07-04": 23259,
-  "2022-07-05": 23259,
-  "2022-07-06": 23259,
-  "2022-07-07": 23259,
-  "2022-07-08": 23259,
-  "2022-07-09": 23259,
-  "2022-07-10": 23259,
-  "2022-07-11": 23259,
-  "2022-07-12": 23259,
-  "2022-07-13": 23259,
-  "2022-07-14": 23259,
-  "2022-07-15": 23259,
-  "2022-07-16": 23259,
-  "2022-07-17": 23259,
-  "2022-07-18": 23259,
-  "2022-07-19": 23259,
-  "2022-07-20": 23259,
-  "2022-07-21": 23259,
-  "2022-07-22": 23259,
-  "2022-07-23": 23259,
-  "2022-07-24": 23259,
-  "2022-07-25": 23259,
-  "2022-07-26": 23259,
-  "2022-07-27": 23259,
-  "2022-07-28": 23259,
-  "2022-07-29": 23259,
-  "2022-07-30": 23259,
-  "2022-07-31": 23259,
-  "2022-08-01": 23259,
-  "2022-08-02": 23259,
-  "2022-08-03": 23259,
-  "2022-08-04": 23259,
-  "2022-08-05": 23259,
-  "2022-08-06": 23259,
-  "2022-08-07": 23259,
-  "2022-08-08": 23259,
-  "2022-08-09": 23259,
-  "2022-08-10": 23259,
-  "2022-08-11": 23259,
-  "2022-08-12": 23259,
-  "2022-08-13": 23259,
-  "2022-08-14": 23259,
-  "2022-08-15": 23259,
-  "2022-08-16": 23259,
-  "2022-08-17": 23259,
-  "2022-08-18": 23259,
-  "2022-08-19": 23259,
-  "2022-08-20": 23259,
-  "2022-08-21": 23259,
-  "2022-08-22": 23259,
-  "2022-08-23": 23259,
-  "2022-08-24": 23259,
-  "2022-08-25": 23259,
-  "2022-08-26": 23259,
-  "2022-08-27": 23259,
-  "2022-08-28": 23259,
-  "2022-08-29": 23259,
-  "2022-08-30": 23259,
-  "2022-08-31": 23259,
-  "2022-09-01": 23259,
-  "2022-09-02": 23259,
-  "2022-09-03": 23259,
-  "2022-09-04": 23259,
-  "2022-09-05": 23259,
-  "2022-09-06": 23259,
-  "2022-09-07": 23259,
-  "2022-09-09": 23259,
-  "2022-09-10": 23259,
-  "2022-09-11": 23259,
-  "2022-09-12": 23259,
-  "2022-09-13": 23259,
-  "2022-09-15": 23259,
-  "2022-09-16": 23259,
-  "2022-09-17": 23259,
-  "2022-09-18": 23259,
-  "2022-09-19": 23259,
-  "2022-09-20": 23259,
-  "2022-09-21": 23259,
-  "2022-09-22": 23259,
-  "2022-09-23": 23259,
-  "2022-09-24": 23259,
-  "2022-09-25": 23259,
-  "2022-09-26": 23259,
-  "2022-09-27": 23259,
-  "2022-09-28": 23259,
-  "2022-09-29": 23259,
-  "2022-09-30": 23259,
-  "2022-10-01": 23259,
-  "2022-10-02": 23259,
-  "2022-10-03": 23259,
-  "2022-10-04": 23259,
-  "2022-10-05": 23259,
-  "2022-10-06": 23259,
-  "2022-10-07": 23259,
-  "2022-10-08": 23259,
-  "2022-10-09": 23259,
-  "2022-10-10": 23259,
-  "2022-10-11": 23259,
-  "2022-10-12": 23259,
-  "2022-10-13": 23259,
-  "2022-10-14": 23259,
-  "2022-10-15": 23259,
-  "2022-10-16": 23259,
-  "2022-10-17": 23259,
-  "2022-10-18": 23259,
-  "2022-10-19": 23259,
-  "2022-10-20": 23259,
-  "2022-10-21": 23259,
-  "2022-10-22": 23259,
-  "2022-10-23": 23259,
-  "2022-10-24": 23259,
-  "2022-10-25": 23259,
-  "2022-10-26": 23259,
-  "2022-10-27": 23259,
-  "2022-10-28": 23259,
-  "2022-10-29": 23259,
-  "2022-10-30": 23259,
-  "2022-10-31": 23259,
-  "2022-11-01": 23259,
-  "2022-11-02": 23259,
-  "2022-11-03": 23259,
-  "2022-11-04": 23259,
-  "2022-11-05": 23259,
-  "2022-11-06": 23259,
-  "2022-11-07": 23259,
-  "2022-11-08": 23259,
-  "2022-11-09": 23259,
-  "2022-11-10": 23259,
-  "2022-11-11": 23259,
-  "2022-11-12": 23259,
-  "2022-11-13": 23259,
-  "2022-11-14": 23259,
-  "2022-11-15": 23259,
-  "2022-11-16": 23259,
-  "2022-11-17": 23259,
-  "2022-11-18": 23259,
-  "2022-11-19": 23259,
-  "2022-11-20": 23259,
-  "2022-11-21": 23259,
-  "2022-11-22": 23259,
-  "2022-11-23": 23259,
-  "2022-11-24": 23259,
-  "2022-11-25": 23259,
-  "2022-11-26": 23259,
-  "2022-11-27": 23259,
-  "2022-11-28": 23259,
-  "2022-11-29": 23259,
-  "2022-11-30": 23259,
-  "2022-12-01": 23259,
-  "2022-12-02": 23259,
-  "2022-12-03": 23259,
-  "2022-12-04": 23259,
-  "2022-12-05": 23259,
-  "2022-12-06": 23259,
-  "2022-12-07": 23259,
-  "2022-12-08": 23259,
-  "2022-12-09": 23259,
-  "2022-12-10": 23259,
-  "2022-12-11": 23259,
-  "2022-12-12": 23259,
-  "2022-12-13": 23259,
-  "2022-12-14": 23259,
-  "2022-12-15": 23259,
-  "2022-12-16": 23259,
-  "2022-12-17": 23259,
-  "2022-12-18": 23259,
-  "2022-12-19": 23259,
-  "2022-12-20": 23259,
-  "2022-12-21": 23259,
-  "2022-12-22": 23259,
-  "2022-12-24": 23259,
-  "2022-12-25": 23259,
-  "2022-12-26": 23259,
-  "2022-12-27": 23259,
-  "2022-12-28": 23259,
-  "2022-12-29": 23259,
-  "2022-12-30": 23259,
-  "2022-12-31": 23259,
-  "2023-01-01": 23259,
-  "2023-01-02": 23259,
-  "2023-01-03": 23259,
-  "2023-01-04": 23259,
-  "2023-01-05": 23259,
-  "2023-01-06": 23259,
-  "2023-01-07": 23259,
-  "2023-01-08": 23259,
-  "2023-01-09": 23259,
-  "2023-01-10": 23259,
-  "2023-01-11": 23259,
-  "2023-01-12": 23259,
-  "2023-01-13": 23259,
-  "2023-01-14": 23259,
-  "2023-01-15": 23259,
-  "2023-01-16": 23259,
-  "2023-01-17": 23259,
-  "2023-01-18": 23259,
-  "2023-01-19": 23259,
-  "2023-01-20": 23259,
-  "2023-01-21": 23259,
-  "2023-01-22": 23259,
-  "2023-01-23": 23259,
-  "2023-01-24": 23259,
-  "2023-01-25": 23259,
-  "2023-01-26": 23259,
-  "2023-01-27": 23259,
-  "2023-01-28": 23259,
-  "2023-01-29": 23259,
-  "2023-01-30": 23259,
-  "2023-01-31": 23259,
-  "2023-02-01": 23259,
-  "2023-02-02": 23259,
-  "2023-02-03": 23259,
-  "2023-02-04": 23259,
-  "2023-02-05": 23259,
-  "2023-02-06": 23259,
-  "2023-02-07": 23259,
-  "2023-02-08": 23259,
-  "2023-02-09": 23259,
-  "2023-02-10": 23259,
-  "2023-02-11": 23259,
-  "2023-02-12": 23259,
-  "2023-02-13": 23259,
-  "2023-02-14": 23259,
-  "2023-02-15": 23259,
-  "2023-02-16": 23259,
-  "2023-02-17": 23259,
-  "2023-02-18": 23259,
-  "2023-02-19": 23259,
-  "2023-02-20": 23259,
-  "2023-02-21": 23259,
-  "2023-02-22": 23259,
-  "2023-02-23": 23259,
-  "2023-02-24": 23259,
-  "2023-02-25": 23259,
-  "2023-02-26": 23259,
-  "2023-02-27": 23259,
-  "2023-02-28": 23259,
-  "2023-03-01": 23259,
-  "2023-03-02": 23259,
-  "2023-03-03": 23259,
-  "2023-03-04": 23259,
-  "2023-03-05": 23259,
-  "2023-03-06": 23259,
-  "2023-03-07": 23259,
-  "2023-03-08": 23259,
-  "2023-03-09": 23259,
-  "2023-03-10": 23259,
-  "2023-03-11": 23259,
-  "2023-03-12": 23259,
-  "2023-03-13": 23259,
-  "2023-03-14": 23259,
-  "2023-03-15": 23259,
-  "2023-03-16": 23259,
-  "2023-03-17": 23259,
-  "2023-03-18": 23259,
-  "2023-03-19": 23259,
-  "2023-03-20": 23259,
-  "2023-03-21": 23259,
-  "2023-03-22": 23259,
-  "2023-03-23": 23259,
-  "2023-03-24": 23259,
-  "2023-03-25": 23259,
-  "2023-03-26": 23259,
-  "2023-03-27": 23259,
-  "2023-03-28": 23259,
-  "2023-03-29": 23259,
-  "2023-03-30": 23259,
-  "2023-03-31": 23259,
-  "2023-04-01": 23259,
-  "2023-04-02": 23259,
-  "2023-04-03": 23259,
-  "2023-04-04": 23259,
-  "2023-04-05": 23259,
-  "2023-04-06": 23259,
-  "2023-04-07": 23259,
-  "2023-04-09": 23259,
-  "2023-04-10": 23259,
-  "2023-04-11": 23259,
-  "2023-04-12": 23259,
-  "2023-04-13": 23259,
-  "2023-04-14": 23259,
-  "2023-04-15": 23259,
-  "2023-04-16": 23259,
-  "2023-04-17": 23259,
-  "2023-04-18": 23259,
-  "2023-04-19": 23259,
-  "2023-04-20": 23259,
-  "2023-04-21": 23259,
-  "2023-04-22": 23259,
-  "2023-04-23": 23259,
-  "2023-04-24": 23259,
-  "2023-04-25": 23259,
-  "2023-04-26": 23259,
-  "2023-04-27": 23259,
-  "2023-04-28": 23259,
-  "2023-04-29": 23259,
-  "2023-04-30": 23259,
-  "2023-05-01": 23259,
-  "2023-05-02": 23259,
-  "2023-05-03": 23259,
-  "2023-05-04": 23259,
-  "2023-05-05": 23259,
-  "2023-05-06": 23259,
-  "2023-05-07": 23259,
-  "2023-05-08": 23259,
-  "2023-05-09": 23259,
-  "2023-05-10": 23259,
-  "2023-05-11": 23259,
-  "2023-05-12": 23259,
-  "2023-05-13": 23259,
-  "2023-05-14": 23259,
-  "2023-05-15": 23259,
-  "2023-05-16": 23259,
-  "2023-05-17": 23259,
-  "2023-05-18": 23259,
-  "2023-05-19": 23259,
-  "2023-05-20": 23259,
-  "2023-05-21": 23259,
-  "2023-05-22": 23259,
-  "2023-05-23": 23259,
-  "2023-05-24": 23259,
-  "2023-05-25": 23259,
-  "2023-05-26": 23259,
-  "2023-05-27": 23259,
-  "2023-05-28": 23259,
-  "2023-05-29": 23259,
-  "2023-05-30": 23259,
-  "2023-05-31": 23259,
-  "2023-06-01": 23259,
-  "2023-06-02": 23259,
-  "2023-06-03": 23259,
-  "2023-06-04": 23259,
-  "2023-06-05": 23259,
-  "2023-06-06": 23259,
-  "2023-06-07": 23259,
-  "2023-06-08": 23259,
-  "2023-06-09": 23259,
-  "2023-06-10": 23259,
-  "2023-06-11": 23259,
-  "2023-06-12": 23259,
-  "2023-06-13": 23259,
-  "2023-06-14": 23259,
-  "2023-06-15": 23259,
-  "2023-06-16": 23259,
-  "2023-06-17": 23259,
-  "2023-06-18": 23259,
-  "2023-06-19": 23259,
-  "2023-06-20": 23259,
-  "2023-06-21": 23259,
-  "2023-06-22": 23259,
-  "2023-06-23": 23259,
-  "2023-06-24": 23259,
-  "2023-06-25": 23259,
-  "2023-06-26": 23259,
-  "2023-06-27": 23259,
-  "2023-06-28": 23259,
-  "2023-06-29": 23259,
-  "2023-06-30": 23259,
-  "2023-07-01": 23259,
-  "2023-07-02": 23259,
-  "2023-07-03": 23259,
-  "2023-07-04": 23259,
-  "2023-07-05": 23259,
-  "2023-07-06": 23259,
-  "2023-07-07": 23259,
-  "2023-07-08": 23259,
-  "2023-07-09": 23259,
-  "2023-07-10": 23259,
-  "2023-07-11": 23259,
-  "2023-07-12": 23259,
-  "2023-07-13": 23259,
-  "2023-07-14": 23259,
-  "2023-07-15": 23259,
-  "2023-07-16": 23259,
-  "2023-07-17": 23259,
-  "2023-07-18": 23259,
-  "2023-07-19": 23259,
-  "2023-07-20": 23259,
-  "2023-07-21": 23259,
-  "2023-07-22": 23259,
-  "2023-07-23": 23259,
-  "2023-07-24": 23259,
-  "2023-07-25": 23259,
-  "2023-07-26": 23259,
-  "2023-07-27": 23259,
-  "2023-07-28": 23259,
-  "2023-07-29": 23259,
-  "2023-07-30": 23259,
-  "2023-07-31": 23259,
-  "2023-08-01": 23259,
-  "2023-08-02": 23259,
-  "2023-08-03": 23259,
-  "2023-08-04": 23259,
-  "2023-08-05": 23259,
-  "2023-08-06": 23259,
-  "2023-08-07": 23259,
-  "2023-08-08": 23259,
-  "2023-08-09": 23259,
-  "2023-08-10": 23259,
-  "2023-08-11": 23259,
-  "2023-08-12": 23259,
-  "2023-08-13": 23259,
-  "2023-08-14": 23259,
-  "2023-08-15": 23259,
-  "2023-08-16": 23259,
-  "2023-08-17": 23259,
-  "2023-08-18": 23259,
-  "2023-08-19": 23259,
-  "2023-08-20": 23259,
-  "2023-08-21": 23259,
-  "2023-08-22": 23259,
-  "2023-08-23": 23259,
-  "2023-08-24": 23259,
-  "2023-08-25": 23259,
-  "2023-08-26": 23259,
-  "2023-08-27": 23259,
-  "2023-08-28": 23259,
-  "2023-08-29": 23259,
-  "2023-08-30": 23259,
-  "2023-08-31": 23259,
-  "2023-09-01": 23259,
-  "2023-09-02": 23259,
-  "2023-09-03": 23259,
-  "2023-09-04": 23259,
-  "2023-09-05": 23259,
-  "2023-09-06": 23259,
-  "2023-09-07": 23259,
-  "2023-09-08": 23259,
-  "2023-09-09": 23259,
-  "2023-09-10": 23259,
-  "2023-09-11": 23259,
-  "2023-09-12": 23259,
-  "2023-09-13": 23259,
-  "2023-09-14": 23259,
-  "2023-09-15": 23259,
-  "2023-09-16": 23259,
-  "2023-09-17": 23259,
-  "2023-09-18": 23259,
-  "2023-09-19": 23259,
-  "2023-09-20": 23259,
-  "2023-09-21": 23259,
-  "2023-09-22": 23259,
-  "2023-09-23": 23259,
-  "2023-09-24": 23259,
-  "2023-09-25": 23259,
-  "2023-09-26": 23259,
-  "2023-09-27": 23259,
-  "2023-09-28": 23259,
-  "2023-09-29": 23259,
-  "2023-09-30": 23259,
-  "2023-10-01": 23259,
-  "2023-10-02": 23259,
-  "2023-10-03": 23259,
-  "2023-10-04": 23259,
-  "2023-10-05": 23259,
-  "2023-10-06": 23259,
-  "2023-10-07": 23259,
-  "2023-10-08": 23259,
-  "2023-10-09": 23259,
-  "2023-10-10": 23259,
-  "2023-10-11": 23259,
-  "2023-10-12": 23259,
-  "2023-10-13": 23259,
-  "2023-10-14": 23259,
-  "2023-10-15": 23259,
-  "2023-10-16": 23259,
-  "2023-10-17": 23259,
-  "2023-10-18": 23259,
-  "2023-10-19": 23259,
-  "2023-10-20": 23259,
-  "2023-10-21": 23259,
-  "2023-10-22": 23259,
-  "2023-10-23": 23259,
-  "2023-10-24": 23259,
-  "2023-10-25": 23259,
-  "2023-10-26": 23259,
-  "2023-10-27": 23259,
-  "2023-10-28": 23259,
-  "2023-10-29": 23259,
-  "2023-10-30": 23259,
-  "2023-10-31": 23259,
-  "2023-11-01": 23259,
-  "2023-11-02": 23259,
-  "2023-11-03": 23259,
-  "2023-11-04": 23259,
-  "2023-11-05": 23259,
-  "2023-11-06": 23259,
-  "2023-11-07": 23259,
-  "2023-11-08": 23259,
-  "2023-11-09": 23259,
-  "2023-11-10": 23259,
-  "2023-11-11": 23259,
-  "2023-11-12": 23259,
-  "2023-11-13": 23259,
-  "2023-11-14": 23259,
-  "2023-11-15": 23259,
-  "2023-11-16": 23259,
-  "2023-11-17": 23259,
-  "2023-11-18": 23259,
-  "2023-11-19": 23259,
-  "2023-11-20": 23259,
-  "2023-11-21": 23259,
-  "2023-11-22": 23259,
-  "2023-11-23": 23259,
-  "2023-11-24": 23259,
-  "2023-11-25": 23259,
-  "2023-11-26": 23259,
-  "2023-11-27": 23259,
-  "2023-11-28": 23259,
-  "2023-11-29": 23259,
-  "2023-11-30": 23259,
-  "2023-12-01": 23259,
-  "2023-12-02": 23259,
-  "2023-12-03": 23259,
-  "2023-12-04": 23259,
-  "2023-12-05": 23259,
-  "2023-12-06": 23259,
-  "2023-12-07": 23259,
-  "2023-12-08": 23259,
-  "2023-12-09": 23259,
-  "2023-12-10": 23259,
-  "2023-12-11": 23259,
-  "2023-12-12": 23259,
-  "2023-12-13": 23259,
-  "2023-12-14": 23259,
-  "2023-12-15": 23259,
-  "2023-12-16": 23259,
-  "2023-12-17": 23259,
-  "2023-12-18": 23259,
-  "2023-12-19": 23259,
-  "2023-12-20": 23259,
-  "2023-12-21": 23259,
-  "2023-12-22": 23259,
-  "2023-12-23": 23259,
-  "2023-12-24": 23259,
-  "2023-12-25": 23259,
-  "2023-12-26": 23259,
-  "2023-12-27": 23259,
-  "2023-12-30": 23259,
-  "2023-12-31": 23259,
-  "2024-01-01": 23259,
-  "2024-01-02": 23259,
-  "2024-01-03": 23259
+  "2024-01-17": 23259,
+  "date_first_scraped": "2021-12-21",
+  "description": "Mellow, instrumental versions of all your favorites.",
+  "name": "A Quiet Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238147,
+      "name": "(There's No Place Like) Home for the Holidays",
+      "url": "https://open.spotify.com/track/735Ius6OqQPLiczqy8HmmF"
+    },
+    {
+      "album": {
+        "name": "Respect in Yule",
+        "url": "https://open.spotify.com/album/3bz7oEWFx9VY8dZX75v3pB"
+      },
+      "artists": [
+        {
+          "name": "The Respect Sextet",
+          "url": "https://open.spotify.com/artist/2Kuaq6iDUTOXI2dKMsxm8F"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136160,
+      "name": "A Merrier Christmas",
+      "url": "https://open.spotify.com/track/5kYMY1QHeupYu6izEzIWQN"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Away in a Manger",
+      "url": "https://open.spotify.com/track/47h2krQdSDwY5xl91hbdhV"
+    },
+    {
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259933,
+      "name": "Charlie Brown Theme",
+      "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
+    },
+    {
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167506,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366213,
+      "name": "Christmas Time Is Here - Instrumental",
+      "url": "https://open.spotify.com/track/4DphT1rljbJjbK9WdrR1zI"
+    },
+    {
+      "album": {
+        "name": "A New Orleans Christmas Carol (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ts9XnU0lMg6SpiCelP0ba"
+      },
+      "artists": [
+        {
+          "name": "Ellis Marsalis",
+          "url": "https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279320,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4Zhiivo7r7hfIMFuBt3WGp"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/2Nw4hEWjLG1YYYwGQLPQ5u"
+    },
+    {
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158933,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/3D2uwNConeiGJmzopkVkCU"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5Gu9fOL58Zg9VaOoiO3jHx"
+    },
+    {
+      "album": {
+        "name": "Christmas Jazz",
+        "url": "https://open.spotify.com/album/4lpYJ1dP2HsH1dWPDEHPUT"
+      },
+      "artists": [
+        {
+          "name": "Beegie Adair",
+          "url": "https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154226,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/7sli4nxk0y6nZbZ7U8c6Dy"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/6pctt0uFOGc7NxJvzwIv1x"
+    },
+    {
+      "album": {
+        "name": "A Merry Jazzmas",
+        "url": "https://open.spotify.com/album/0NgTdmL7LSRxHIkLSEGHml"
+      },
+      "artists": [
+        {
+          "name": "Marcus Roberts",
+          "url": "https://open.spotify.com/artist/6dz608P8sHylVvVVo5OLx2"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221226,
+      "name": "Let It Snow, Let It Snow, Let It Snow",
+      "url": "https://open.spotify.com/track/1bA0jjWfntpdCUiaUUabe2"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185453,
+      "name": "Linus And Lucy",
+      "url": "https://open.spotify.com/track/0MmNrhvLcoWjo7AOr0vgka"
+    },
+    {
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290826,
+      "name": "Little Drummer Boy",
+      "url": "https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY"
+    },
+    {
+      "album": {
+        "name": "Verve Presents: The Very Best of Christmas Jazz",
+        "url": "https://open.spotify.com/album/2FdktVmrGXc6riKnrGoCpO"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/2rG90VrJmCp9wgS8krdJp2"
+    },
+    {
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241573,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/4igbLcqt8r5YqPSv8J1QUv"
+    },
+    {
+      "album": {
+        "name": "Martinis & Mistletoe: Christmas Jazz Piano",
+        "url": "https://open.spotify.com/album/0GlnZ6vrTnXbQKc13Ia8Qz"
+      },
+      "artists": [
+        {
+          "name": "Mason Embry Trio",
+          "url": "https://open.spotify.com/artist/3CAwTtzAtzwR6grP0UR2H5"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/2bWBQAm1FVJiUu5Qdjs6J2"
+    },
+    {
+      "album": {
+        "name": "An Oscar Peterson Christmas",
+        "url": "https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson",
+          "url": "https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "O Christmas Tree",
+      "url": "https://open.spotify.com/track/3WFi9jBgz9PbSxa75PSBWD"
+    },
+    {
+      "album": {
+        "name": "Christmas - Jazz Piano",
+        "url": "https://open.spotify.com/album/1qHhW9mRftRi6WwMPqKVp5"
+      },
+      "artists": [
+        {
+          "name": "The London Fox Players",
+          "url": "https://open.spotify.com/artist/1iEr9JmktmIMlaDLcSZFAL"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268426,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/5oMM3rnumGNuaLhq8z2BSN"
+    },
+    {
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95760,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/51ShYA26inK43v7d2hV5L4"
+    },
+    {
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/4NsBiFRTE50Egj4eesK4mG"
+      },
+      "artists": [
+        {
+          "name": "Chris Botti",
+          "url": "https://open.spotify.com/artist/3eFo5fMv53RYZBYlvT5Z6a"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190120,
+      "name": "O Little Town of Bethlehem",
+      "url": "https://open.spotify.com/track/7IQoSi7j7OEYJj0RsRyyJ2"
+    },
+    {
+      "album": {
+        "name": "Jazzy Christmas Party",
+        "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
+      },
+      "artists": [
+        {
+          "name": "The Lori Mechem Quartet",
+          "url": "https://open.spotify.com/artist/19SnTJqaGVSBbkh4JoWoXJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247613,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/5FXqSe5IqwKKQBqzOHt5VF"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309386,
+      "name": "O Tannenbaum",
+      "url": "https://open.spotify.com/track/34rzJNfTd5e9s3TICFMPD0"
+    },
+    {
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/02dv3uYisw3FmFscXylbKs"
+    },
+    {
+      "album": {
+        "name": "A Very Swingin\u2019 Basie Christmas!",
+        "url": "https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S"
+      },
+      "artists": [
+        {
+          "name": "Count Basie Orchestra",
+          "url": "https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204600,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2NvbRCk08L3clDF9BqVtEo"
+    },
+    {
+      "album": {
+        "name": "A Merry Jazzmas",
+        "url": "https://open.spotify.com/album/0NgTdmL7LSRxHIkLSEGHml"
+      },
+      "artists": [
+        {
+          "name": "Marcus Roberts",
+          "url": "https://open.spotify.com/artist/6dz608P8sHylVvVVo5OLx2"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260839,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2vZd0khHbQ04dXodDtB1U2"
+    },
+    {
+      "album": {
+        "name": "Jazzy Christmas Party",
+        "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
+      },
+      "artists": [
+        {
+          "name": "The Lori Mechem Quartet",
+          "url": "https://open.spotify.com/artist/19SnTJqaGVSBbkh4JoWoXJ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220543,
+      "name": "Skating",
+      "url": "https://open.spotify.com/track/5e7NXZwnUql7bnLLgWxtG1"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/5vXmLSNatZNsg9uDlDKSjH"
+    },
+    {
+      "album": {
+        "name": "Jazzy Christmas Party",
+        "url": "https://open.spotify.com/album/1l8jXocYesXouqZ7IYVmj3"
+      },
+      "artists": [
+        {
+          "name": "Jack Jezzro",
+          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Up On The Housetop",
+      "url": "https://open.spotify.com/track/5HnS1UKSvsd6lfwuNuIDNj"
+    },
+    {
+      "album": {
+        "name": "A Charlie Brown Christmas [2012 Remastered & Expanded Edition]",
+        "url": "https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144933,
+      "name": "What Child Is This",
+      "url": "https://open.spotify.com/track/0LP2DlqqEH5Lo0ujWdHkUD"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186973,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/0e3dPP0jWtntN57HPV9xQ6"
+    },
+    {
+      "album": {
+        "name": "A Dave Brubeck Christmas",
+        "url": "https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259399,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/6SAmQa9Iq4EFHiTrDjOLbX"
+    },
+    {
+      "album": {
+        "name": "Joe Pass - Six String Santa",
+        "url": "https://open.spotify.com/album/1SXRnss2fnudVkXZrVxIJX"
+      },
+      "artists": [
+        {
+          "name": "Joe Pass",
+          "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252776,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4AOk1d2lRuU6nHZDI3Uzjg"
+    },
+    {
+      "album": {
+        "name": "Crescent City Christmas Card",
+        "url": "https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "date_added": "2017-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172960,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSYI3OtMNMsT"
 }

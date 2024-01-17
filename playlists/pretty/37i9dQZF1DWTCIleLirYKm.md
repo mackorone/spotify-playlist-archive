@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 
 > a state of mind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,269 likes - 101 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,873 likes - 101 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 82 | [I'm on Fire](https://open.spotify.com/track/7MB9xkZ79XHYx8c6JYjFz6) | [Whitey Morgan and the 78's](https://open.spotify.com/artist/2bGK38Qvf603fcckzUYYui) | [Honky Tonks and Cheap Motels](https://open.spotify.com/album/2yYhCb5PJJkEM8eaCu4bFS) | 3:16 |
 | 83 | [Rode Hard and Put up Wet](https://open.spotify.com/track/2YwuLjgUJYlS9AQFLW1MxX) | [Marshall Chapman](https://open.spotify.com/artist/10NyEvFwxog3iXO1IBYla9) | [Me, I'm Feelin' Free](https://open.spotify.com/album/6bdiWNrvbYmojW1IYQ2bXc) | 3:26 |
 | 84 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
-| 85 | [Must Be The Whiskey](https://open.spotify.com/track/6VChAU4QENeLwf3OaHBJxC) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/7ATjaMdT66SKP2AjrDvQ1J) | 3:25 |
+| 85 | [Must Be the Whiskey](https://open.spotify.com/track/324iakwekGIBGV93syJsVe) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Lifers](https://open.spotify.com/album/0Y28vln6HsP0J2lS2MDTdP) | 3:25 |
 | 86 | [Ride the Lightning \- 717 Tapes](https://open.spotify.com/track/1JTQG8J8jN8tjDTyUWnaRe) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Ride the Lightning \(717 Tapes\)](https://open.spotify.com/album/3467Wn1M2kESux2YS9Rczi) | 3:06 |
 | 87 | [The Hardest Part](https://open.spotify.com/track/24DAplYwp68qu2DQKlsReR) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [The Hardest Part](https://open.spotify.com/album/4ZMC2nN21FGFGeZvvSPD40) | 3:13 |
 | 88 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTCIleLirYKm.md) - [plain]
 | 100 | [John Beyers \(Camaro Song\)](https://open.spotify.com/track/66Ca5hnT9mxshajDCzLcfQ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Songs of the Plains](https://open.spotify.com/album/6DzYh2Z00xNWG8wtfB6kIY) | 2:01 |
 | 101 | [God's Gonna Cut You Down](https://open.spotify.com/track/6RFkVsPmrM4pzlDkFswwJl) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American V: A Hundred Highways](https://open.spotify.com/album/40ObOkEaQKVmcJ6k1W2xMg) | 2:38 |
 
-Snapshot ID: `MCw5NTQzYjZmN2YxMDdjYWI4ZTQ3OGExYjExOGI3YjA5NTkwMzI5MWZj`
+Snapshot ID: `MCxmZjM0MDgxZDRiZmQ3YTc3MzdhMDQ0M2U5NzhiMjZkOTcwNzQ0YmIz`

@@ -1,140 +1,603 @@
 {
-  "2023-08-17": 28579,
-  "2023-08-18": 28676,
-  "2023-08-19": 28785,
-  "2023-08-20": 28868,
-  "2023-08-21": 28988,
-  "2023-08-22": 29098,
-  "2023-08-23": 29192,
-  "2023-08-24": 29312,
-  "2023-08-25": 29424,
-  "2023-08-26": 29536,
-  "2023-08-27": 29626,
-  "2023-08-28": 29715,
-  "2023-08-29": 29787,
-  "2023-08-30": 29894,
-  "2023-08-31": 29997,
-  "2023-09-01": 30165,
-  "2023-09-02": 30165,
-  "2023-09-03": 30226,
-  "2023-09-04": 30328,
-  "2023-09-05": 30395,
-  "2023-09-06": 30475,
-  "2023-09-07": 30561,
-  "2023-09-08": 30622,
-  "2023-09-09": 30707,
-  "2023-09-10": 30799,
-  "2023-09-11": 30889,
-  "2023-09-12": 30962,
-  "2023-09-13": 31049,
-  "2023-09-14": 31105,
-  "2023-09-15": 31166,
-  "2023-09-16": 31226,
-  "2023-09-17": 31299,
-  "2023-09-18": 31368,
-  "2023-09-19": 31432,
-  "2023-09-20": 31468,
-  "2023-09-21": 31545,
-  "2023-09-22": 31599,
-  "2023-09-23": 31663,
-  "2023-09-24": 31752,
-  "2023-09-25": 31838,
-  "2023-09-26": 31925,
-  "2023-09-27": 31987,
-  "2023-09-28": 32057,
-  "2023-09-29": 32133,
-  "2023-09-30": 32191,
-  "2023-10-01": 32250,
-  "2023-10-02": 32331,
-  "2023-10-03": 32397,
-  "2023-10-04": 32475,
-  "2023-10-05": 32542,
-  "2023-10-06": 32592,
-  "2023-10-07": 32659,
-  "2023-10-08": 32724,
-  "2023-10-09": 32786,
-  "2023-10-10": 32840,
-  "2023-10-11": 32944,
-  "2023-10-12": 32944,
-  "2023-10-13": 32985,
-  "2023-10-14": 33058,
-  "2023-10-15": 33138,
-  "2023-10-16": 33195,
-  "2023-10-17": 33236,
-  "2023-10-18": 33295,
-  "2023-10-19": 33345,
-  "2023-10-20": 33401,
-  "2023-10-21": 33451,
-  "2023-10-22": 33509,
-  "2023-10-23": 33555,
-  "2023-10-24": 33612,
-  "2023-10-25": 33663,
-  "2023-10-26": 33706,
-  "2023-10-27": 33759,
-  "2023-10-28": 33799,
-  "2023-10-29": 33857,
-  "2023-10-30": 33960,
-  "2023-10-31": 33960,
-  "2023-11-01": 34019,
-  "2023-11-02": 34058,
-  "2023-11-03": 34122,
-  "2023-11-04": 34167,
-  "2023-11-05": 34217,
-  "2023-11-06": 34244,
-  "2023-11-07": 34298,
-  "2023-11-08": 34344,
-  "2023-11-09": 34394,
-  "2023-11-10": 34422,
-  "2023-11-11": 34478,
-  "2023-11-12": 34518,
-  "2023-11-13": 34564,
-  "2023-11-14": 34626,
-  "2023-11-15": 34626,
-  "2023-11-16": 34724,
-  "2023-11-17": 34804,
-  "2023-11-18": 34804,
-  "2023-11-19": 34846,
-  "2023-11-20": 34884,
-  "2023-11-21": 34916,
-  "2023-11-22": 34955,
-  "2023-11-23": 34995,
-  "2023-11-24": 35050,
-  "2023-11-25": 35084,
-  "2023-11-26": 35120,
-  "2023-11-27": 35164,
-  "2023-11-28": 35202,
-  "2023-11-29": 35292,
-  "2023-11-30": 35292,
-  "2023-12-01": 35342,
-  "2023-12-02": 35416,
-  "2023-12-03": 35477,
-  "2023-12-04": 35532,
-  "2023-12-05": 35586,
-  "2023-12-06": 35635,
-  "2023-12-07": 35687,
-  "2023-12-08": 35761,
-  "2023-12-09": 35800,
-  "2023-12-10": 35846,
-  "2023-12-11": 35912,
-  "2023-12-12": 35965,
-  "2023-12-13": 36009,
-  "2023-12-14": 36059,
-  "2023-12-15": 36102,
-  "2023-12-16": 36147,
-  "2023-12-17": 36195,
-  "2023-12-18": 36250,
-  "2023-12-19": 36314,
-  "2023-12-20": 36357,
-  "2023-12-21": 36402,
-  "2023-12-22": 36442,
-  "2023-12-23": 36488,
-  "2023-12-24": 36535,
-  "2023-12-25": 36578,
-  "2023-12-26": 36622,
-  "2023-12-27": 36687,
-  "2023-12-30": 36831,
-  "2023-12-31": 36876,
-  "2024-01-01": 36921,
-  "2024-01-02": 36953,
-  "2024-01-03": 37003
+  "2024-01-17": 37633,
+  "date_first_scraped": "2023-08-17",
+  "description": "This Is STAYC. The essential tracks, all in one playlist.",
+  "name": "This Is STAYC",
+  "tracks": [
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190613,
+      "name": "247",
+      "url": "https://open.spotify.com/track/51XWwKV6VHCuFftFQLp4iA"
+    },
+    {
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194080,
+      "name": "ASAP",
+      "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
+    },
+    {
+      "album": {
+        "name": "POPPY (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194613,
+      "name": "ASAP - Japanese Ver.",
+      "url": "https://open.spotify.com/track/3Wt0F41P9eevGDvBSIIqhE"
+    },
+    {
+      "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "BEAUTIFUL MONSTER",
+      "url": "https://open.spotify.com/track/56s2s5e8WuBsWVKnmz6J9L"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179275,
+      "name": "Bubble",
+      "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
+    },
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "BUTTERFLY",
+      "url": "https://open.spotify.com/track/1q97NRLZfQlXYvZJAQ7tln"
+    },
+    {
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186122,
+      "name": "COMPLEX",
+      "url": "https://open.spotify.com/track/1JWtIj2hmFjGucIlC7zfAe"
+    },
+    {
+      "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158273,
+      "name": "I LIKE IT",
+      "url": "https://open.spotify.com/track/4o84FbQ0YB6F3AWfxTGRHG"
+    },
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "I WANT U BABY",
+      "url": "https://open.spotify.com/track/4wqvBkHI3a75Fmlirlq3uD"
+    },
+    {
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189480,
+      "name": "I\u2019ll BE THERE",
+      "url": "https://open.spotify.com/track/1aWnOcf3GE7xuu4rubVPYL"
+    },
+    {
+      "album": {
+        "name": "Star To A Young Culture",
+        "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186034,
+      "name": "LIKE THIS",
+      "url": "https://open.spotify.com/track/1RdDIsdbpioXZzadE5MLOG"
+    },
+    {
+      "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186208,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/30VA0uReR9jKiFU7ddriN6"
+    },
+    {
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218240,
+      "name": "LOVE FOOL",
+      "url": "https://open.spotify.com/track/2OhOkew9BkkLTGBG9cFOz5"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178293,
+      "name": "Poppy (Korean Ver.)",
+      "url": "https://open.spotify.com/track/7KqISJoXbapng18bmmG0oa"
+    },
+    {
+      "album": {
+        "name": "POPPY (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/7GAgQKzoFrEo0ijpW88se8"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179866,
+      "name": "POPPY - Japanese Ver.",
+      "url": "https://open.spotify.com/track/7aQOA3ggmKpjleEtabVYbI"
+    },
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213426,
+      "name": "RUN2U",
+      "url": "https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8"
+    },
+    {
+      "album": {
+        "name": "WE NEED LOVE",
+        "url": "https://open.spotify.com/album/04EniWu488MF6louRYafKJ"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211171,
+      "name": "RUN2U (TAK Remix)",
+      "url": "https://open.spotify.com/track/3dXW39AstDn04bXF7UBuEn"
+    },
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181466,
+      "name": "SAME SAME",
+      "url": "https://open.spotify.com/track/5mr1d04qe0s5ux5fQQcH2p"
+    },
+    {
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190605,
+      "name": "SLOW DOWN",
+      "url": "https://open.spotify.com/track/4SiwxGPQzlG2r4zatpEzLc"
+    },
+    {
+      "album": {
+        "name": "Star To A Young Culture",
+        "url": "https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212264,
+      "name": "SO BAD",
+      "url": "https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4"
+    },
+    {
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "SO BAD (TAK Remix)",
+      "url": "https://open.spotify.com/track/0buvspLcSje0ahquNjkzn9"
+    },
+    {
+      "album": {
+        "name": "STAYDOM",
+        "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178853,
+      "name": "SO WHAT",
+      "url": "https://open.spotify.com/track/6hC2Qn11Fzw4Ufi4XH6z2m"
+    },
+    {
+      "album": {
+        "name": "Our Blues, Pt. 8 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257471,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
+    },
+    {
+      "album": {
+        "name": "STEREOTYPE",
+        "url": "https://open.spotify.com/album/7HGjNJBj1NQGNwCzFD2LHj"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191695,
+      "name": "STEREOTYPE",
+      "url": "https://open.spotify.com/track/2bZIDMpzVooosmPHn0tHnd"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "Stereotype - Japanese Ver.",
+      "url": "https://open.spotify.com/track/48DTW44emTEbPJPvrIav94"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear",
+        "url": "https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Teddy Bear",
+      "url": "https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9"
+    },
+    {
+      "album": {
+        "name": "Teddy Bear (Japanese Ver.)",
+        "url": "https://open.spotify.com/album/5bAsWS1V3sJyZvDPXMSTUC"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189773,
+      "name": "Teddy Bear - Japanese Ver.",
+      "url": "https://open.spotify.com/track/1YLb3ORC4AEegaFJvD944o"
+    },
+    {
+      "album": {
+        "name": "YOUNG-LUV.COM",
+        "url": "https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206080,
+      "name": "YOUNG LUV",
+      "url": "https://open.spotify.com/track/7HGKvoju3ucB7UqVt1GoJu"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165789,
+      "name": "\ufeffBe Mine",
+      "url": "https://open.spotify.com/track/3g4jq4wctEo0fVaTDKjk3Q"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179253,
+      "name": "\ufeffBubble (English Ver.)",
+      "url": "https://open.spotify.com/track/3bcqk74mnFzQF2bfOMG7iK"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157193,
+      "name": "\ufeffBubble (Sped Up) (English Ver.)",
+      "url": "https://open.spotify.com/track/1e9uzZKeHabJ1kSDT7m3Np"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174203,
+      "name": "\ufeffI Wanna Do",
+      "url": "https://open.spotify.com/track/4o5kutixgRy60bljwP4zyr"
+    },
+    {
+      "album": {
+        "name": "TEENFRESH",
+        "url": "https://open.spotify.com/album/4P5wnRQTBnnjNbjt7A6S6x"
+      },
+      "artists": [
+        {
+          "name": "STAYC",
+          "url": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
+        }
+      ],
+      "date_added": "2023-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169417,
+      "name": "\ufeffNot Like You",
+      "url": "https://open.spotify.com/track/1HnJhU3MhAnRQzdkFm6xQr"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX0AAiNzeZDgc"
 }

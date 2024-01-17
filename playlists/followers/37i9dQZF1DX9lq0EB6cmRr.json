@@ -1,85 +1,2181 @@
 {
-  "2023-10-11": 1787,
-  "2023-10-12": 1787,
-  "2023-10-13": 1792,
-  "2023-10-14": 1799,
-  "2023-10-15": 1802,
-  "2023-10-16": 1802,
-  "2023-10-17": 1806,
-  "2023-10-18": 1810,
-  "2023-10-19": 1814,
-  "2023-10-20": 1821,
-  "2023-10-21": 1833,
-  "2023-10-22": 1863,
-  "2023-10-23": 1868,
-  "2023-10-24": 1870,
-  "2023-10-25": 1874,
-  "2023-10-26": 1876,
-  "2023-10-27": 1876,
-  "2023-10-28": 1876,
-  "2023-10-29": 1876,
-  "2023-10-30": 1881,
-  "2023-10-31": 1881,
-  "2023-11-01": 1887,
-  "2023-11-02": 1889,
-  "2023-11-03": 1894,
-  "2023-11-04": 1900,
-  "2023-11-05": 1904,
-  "2023-11-06": 1907,
-  "2023-11-07": 1909,
-  "2023-11-08": 1913,
-  "2023-11-09": 1912,
-  "2023-11-10": 1916,
-  "2023-11-11": 1917,
-  "2023-11-12": 1918,
-  "2023-11-13": 1920,
-  "2023-11-14": 1923,
-  "2023-11-15": 1923,
-  "2023-11-16": 1926,
-  "2023-11-17": 1934,
-  "2023-11-18": 1934,
-  "2023-11-19": 1940,
-  "2023-11-20": 1944,
-  "2023-11-21": 1949,
-  "2023-11-22": 1951,
-  "2023-11-23": 1953,
-  "2023-11-24": 1953,
-  "2023-11-25": 1958,
-  "2023-11-26": 1957,
-  "2023-11-27": 1963,
-  "2023-11-28": 1967,
-  "2023-11-29": 1977,
-  "2023-11-30": 1977,
-  "2023-12-01": 1981,
-  "2023-12-02": 1981,
-  "2023-12-03": 1988,
-  "2023-12-04": 1988,
-  "2023-12-05": 1995,
-  "2023-12-06": 1995,
-  "2023-12-07": 1999,
-  "2023-12-08": 2004,
-  "2023-12-09": 2008,
-  "2023-12-10": 2008,
-  "2023-12-11": 2016,
-  "2023-12-12": 2016,
-  "2023-12-13": 2016,
-  "2023-12-14": 2020,
-  "2023-12-15": 2024,
-  "2023-12-16": 2031,
-  "2023-12-17": 2035,
-  "2023-12-18": 2035,
-  "2023-12-19": 2036,
-  "2023-12-20": 2039,
-  "2023-12-21": 2043,
-  "2023-12-22": 2046,
-  "2023-12-23": 2050,
-  "2023-12-24": 2051,
-  "2023-12-25": 2055,
-  "2023-12-26": 2058,
-  "2023-12-27": 2062,
-  "2023-12-30": 2072,
-  "2023-12-31": 2074,
-  "2024-01-01": 2079,
-  "2024-01-02": 2083,
-  "2024-01-03": 2089
+  "2024-01-17": 2115,
+  "date_first_scraped": "2023-10-12",
+  "description": "Listen hot and new Korean classical & new age  music in here! (Cover: Forestella(\ud3ec\ub808\uc2a4\ud154\ub77c)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
+  "name": "Classic.K",
+  "tracks": [
+    {
+      "album": {
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191440,
+      "name": "10.1 (strings)",
+      "url": "https://open.spotify.com/track/5pOtS3sP7IT1RRVM5hr3uS"
+    },
+    {
+      "album": {
+        "name": "Summer Vacation",
+        "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Joyful Island",
+          "url": "https://open.spotify.com/artist/0x4sEns7ouHfoJ3pRi2AqH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235906,
+      "name": "100% Summer",
+      "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
+    },
+    {
+      "album": {
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217480,
+      "name": "26.9",
+      "url": "https://open.spotify.com/track/74Bg9EeK0eKTWi32RCQPPV"
+    },
+    {
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314573,
+      "name": "8 Humoresques, Op.101: No.7, Poco lento e grazioso (Arr. for Violin, Vibraphone and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/78BAlsZXq7OxquB7hsz4TM"
+    },
+    {
+      "album": {
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        },
+        {
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229098,
+      "name": "Aguas de Mar\u00e7o",
+      "url": "https://open.spotify.com/track/0LRM3HMOV539rX9dYfckeM"
+    },
+    {
+      "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235160,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
+    },
+    {
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "Astor Piazzolla",
+          "url": "https://open.spotify.com/artist/7dsugSamBB7enWE2IrlbFg"
+        },
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289613,
+      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
+    },
+    {
+      "album": {
+        "name": "Bach: Arioso (Arr. Cortot After Harpsichord Concerto No. 5 in F Minor, BWV 1056)",
+        "url": "https://open.spotify.com/album/4HgNY10OgAjf7mKvcLPRDA"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Dong Hyek Lim",
+          "url": "https://open.spotify.com/artist/3Iu4Pq63V1WcBWrNNthgPP"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174383,
+      "name": "Bach: Arioso (Arr. Cortot After Harpsichord Concerto No. 5 in F Minor, BWV 1056)",
+      "url": "https://open.spotify.com/track/5xfujtIVvNc4ieq441J8NJ"
+    },
+    {
+      "album": {
+        "name": "Chopin - Winter Vibes",
+        "url": "https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469613,
+      "name": "Ballade No. 3 in A Flat Major, Op. 47",
+      "url": "https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ"
+    },
+    {
+      "album": {
+        "name": "Chopin's Last Piano Works",
+        "url": "https://open.spotify.com/album/5HhegDEp8Pp7nlaptGL5Hn"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Julius-Jeongwon Kim",
+          "url": "https://open.spotify.com/artist/3O1hTgR3rPbh2wf8Qq0N01"
+        }
+      ],
+      "date_added": "2023-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502240,
+      "name": "Barcarolle in F-Sharp Major, Op. 60",
+      "url": "https://open.spotify.com/track/4D5c2O7jJiKMk0e2csRWrH"
+    },
+    {
+      "album": {
+        "name": "Black Mamba (Orchestra Version)",
+        "url": "https://open.spotify.com/album/7raxRqTuTKeGvd4faGxkFO"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290120,
+      "name": "Black Mamba - Orchestra Version",
+      "url": "https://open.spotify.com/track/7y4hxkpH5y72ajZW6aei1x"
+    },
+    {
+      "album": {
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Blooming",
+      "url": "https://open.spotify.com/track/3CHPzAuqAM2UBSSN42RSW3"
+    },
+    {
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249240,
+      "name": "Blossom of Flower",
+      "url": "https://open.spotify.com/track/5Li6TVmxOA4k7LEpxKU3Um"
+    },
+    {
+      "album": {
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361826,
+      "name": "Bohemian Rhapsody",
+      "url": "https://open.spotify.com/track/4a14qc1DukwBKpFoQzRCah"
+    },
+    {
+      "album": {
+        "name": "But Beautiful",
+        "url": "https://open.spotify.com/album/0U7erX91kgmQDL6BlDvcIn"
+      },
+      "artists": [
+        {
+          "name": "Ecobridge",
+          "url": "https://open.spotify.com/artist/4ozyMZxydr2BsVslZEjkOB"
+        },
+        {
+          "name": "Danny Koo",
+          "url": "https://open.spotify.com/artist/6wV3VcxKYg6ynYZOdjbwL9"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319626,
+      "name": "But Beautiful (feat. Danny Koo)",
+      "url": "https://open.spotify.com/track/1qUDUIgsXmCSxGuRPwOwNX"
+    },
+    {
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Camellia",
+      "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "album": {
+        "name": "White Night",
+        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yoosin Park",
+          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 741986,
+      "name": "Cello Sonata for Cello and Piano in g minor, op.19 : I. Lento - Allegro moderato",
+      "url": "https://open.spotify.com/track/5GhyoZUW9XdWQOrbOODnD2"
+    },
+    {
+      "album": {
+        "name": "White Night",
+        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Myaskovsky",
+          "url": "https://open.spotify.com/artist/07yD267mZTiHoptqdYd5mc"
+        },
+        {
+          "name": "Yoosin Park",
+          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451346,
+      "name": "Cello Sonata No.1 in D Major, Op.12 : I. Adagio - Andante",
+      "url": "https://open.spotify.com/track/2WfGNKZ2gpO2nq2FhLSqnb"
+    },
+    {
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 862200,
+      "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
+      "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
+    },
+    {
+      "album": {
+        "name": "Cantar",
+        "url": "https://open.spotify.com/album/12OfHAPonuauia8yGSyl3s"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        },
+        {
+          "name": "Ko Yeong Yeol",
+          "url": "https://open.spotify.com/artist/5peL5wOAMpnRJvc6zgzbwm"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293409,
+      "name": "Crying for Love",
+      "url": "https://open.spotify.com/track/017DPfnKqKlln2ppPS6cQz"
+    },
+    {
+      "album": {
+        "name": "Pure Opera Vol. 2",
+        "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Budapest Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/4yrzlxPNm4ulLRpn5wmEAX"
+        },
+        {
+          "name": "Gunter Kurth",
+          "url": "https://open.spotify.com/artist/6ChiFcQq3qsG0OEKApnfas"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Staatskapelle Berlin",
+          "url": "https://open.spotify.com/artist/7vEPPI71V8dEHtEhPMAxWT"
+        },
+        {
+          "name": "Reiner Goldberg",
+          "url": "https://open.spotify.com/artist/5ufRuY9gUttBM06bkck9P3"
+        },
+        {
+          "name": "Sona Ghazarian",
+          "url": "https://open.spotify.com/artist/5uKhygUDna7TGUpgSkjg9e"
+        },
+        {
+          "name": "Sofia Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3JcGjMDCezXgK9fS9wV7Nv"
+        },
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Michele Pertusi",
+          "url": "https://open.spotify.com/artist/5rw1xoECGR6GjOanoR5S9G"
+        },
+        {
+          "name": "Bratislava Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5ZNB8x4n5Ei13BZNm6zFAh"
+        },
+        {
+          "name": "Prague Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5yo4s8noikMDKYRyrrIbKR"
+        },
+        {
+          "name": "Berlin Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0a9SIKSCIhxjx4QJlSZfYa"
+        },
+        {
+          "name": "Renato Bruson",
+          "url": "https://open.spotify.com/artist/73uO0irhYkEsOdWjBmAl3f"
+        },
+        {
+          "name": "Hermann Prey",
+          "url": "https://open.spotify.com/artist/3gdchu3GRExh4tF8ypQc9Y"
+        },
+        {
+          "name": "Bulgarian National Chorus",
+          "url": "https://open.spotify.com/artist/503ETzC1fpkEmyGIObJCAe"
+        },
+        {
+          "name": "NHK Chamber Soloists",
+          "url": "https://open.spotify.com/artist/0hLWHFZgOCPAWTfaK0AEZh"
+        },
+        {
+          "name": "Bratislava Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/1KWKVKJJur6h5UsVqBO8Ne"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319866,
+      "name": "Die Walk\u00fcre - Ride of the Valkyries",
+      "url": "https://open.spotify.com/track/0R9F6cHIutznEPD5AD5EFH"
+    },
+    {
+      "album": {
+        "name": "Mozart: Die Zauberfl\u00f6te",
+        "url": "https://open.spotify.com/album/0e8ebBTgGPU7a1KSUPm1fA"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Ruth Ziesak",
+          "url": "https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5"
+        },
+        {
+          "name": "Heinz Zednik",
+          "url": "https://open.spotify.com/artist/1TQDnKtPZIhDeabDa7aqqh"
+        },
+        {
+          "name": "Kurt Moll",
+          "url": "https://open.spotify.com/artist/63jASK5GkDHb5f9zCsOyem"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249240,
+      "name": "Die Zauberfl\u00f6te / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herze\"",
+      "url": "https://open.spotify.com/track/74R148YlWFrVqVTM1gjq6A"
+    },
+    {
+      "album": {
+        "name": "Mozart Collection",
+        "url": "https://open.spotify.com/album/1j4ex40BEDd4jWIKPkg69n"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Sir Georg Solti",
+          "url": "https://open.spotify.com/artist/0dicUFoK5LIbqu6OoHu8VH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Die Zauberfl\u00f6te, K.620 / Act 2: \"Der H\u00f6lle Rache kocht in meinem Herzen\"",
+      "url": "https://open.spotify.com/track/1LS8z44ljIsRXJCDcIKVsg"
+    },
+    {
+      "album": {
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/7b33CBpLX0MdeTERTqWLtY"
+      },
+      "artists": [
+        {
+          "name": "Wilhelm Friedemann Bach",
+          "url": "https://open.spotify.com/artist/5fz5lcOIakwBiRF7vzfm0u"
+        },
+        {
+          "name": "Sung-hyun Cho",
+          "url": "https://open.spotify.com/artist/3nkgtAm4BJW72KgeKjDokb"
+        },
+        {
+          "name": "Kyeong Ham",
+          "url": "https://open.spotify.com/artist/108Taje6uEORRRZqqaVYdl"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361853,
+      "name": "Duet for Flute and Oboe No. 1 in E Minor, F. 54: I. Allegro",
+      "url": "https://open.spotify.com/track/4xglnE2yA87Ym31aVxBQnW"
+    },
+    {
+      "album": {
+        "name": "Espero 1st, Romance on Classic",
+        "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
+      },
+      "artists": [
+        {
+          "name": "Espero",
+          "url": "https://open.spotify.com/artist/4721MtdS4rhVXrjxjchwLF"
+        },
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236400,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/7nGfKdVLjNJ11H8aHfz0h1"
+    },
+    {
+      "album": {
+        "name": "Esthesia",
+        "url": "https://open.spotify.com/album/09PNC6kLYjYD6spmPc3dbH"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243640,
+      "name": "Esthesia",
+      "url": "https://open.spotify.com/track/1mvEfhUAcAp696WII9S24W"
+    },
+    {
+      "album": {
+        "name": "Sound for Pets",
+        "url": "https://open.spotify.com/album/2AWEg21GlDU04LCnQVljtv"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "Family",
+      "url": "https://open.spotify.com/track/7zYXGTdAyM2jJYCiKdWFld"
+    },
+    {
+      "album": {
+        "name": "Feel My Rhythm (Orchestra Version)",
+        "url": "https://open.spotify.com/album/1HOaPVpRI3AHhrQt9Kdr30"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257906,
+      "name": "Feel My Rhythm - Orchestra Version",
+      "url": "https://open.spotify.com/track/7af1aCD9kJBI8YOCSh87lr"
+    },
+    {
+      "album": {
+        "name": "breathe",
+        "url": "https://open.spotify.com/album/3k4ZMhg6a5jusVTEYGvOpi"
+      },
+      "artists": [
+        {
+          "name": "Chad Lawson",
+          "url": "https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "James Southall",
+          "url": "https://open.spotify.com/artist/58uaT9Z6K7C6A0Jx39jfFc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267085,
+      "name": "for such a gaze of wonder",
+      "url": "https://open.spotify.com/track/2zB8eY7fsdK1Xon0fDtC0J"
+    },
+    {
+      "album": {
+        "name": "Golden Age (Orchestra Version)",
+        "url": "https://open.spotify.com/album/133OMTXDhV2XTREwQ23MrX"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232687,
+      "name": "Golden Age - Orchestra Version",
+      "url": "https://open.spotify.com/track/6DJJOcYKuk8hTunPSSaJPX"
+    },
+    {
+      "album": {
+        "name": "Enrique Granados \u2013 Goyescas",
+        "url": "https://open.spotify.com/album/75PVaNZ1N9kSQ085p5ABAs"
+      },
+      "artists": [
+        {
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412120,
+      "name": "Goyescas (Suite): No. 4, Quejas o la maja y el ruise\u00f1or",
+      "url": "https://open.spotify.com/track/6OHAz2t0UYmbMVvLQBQK9O"
+    },
+    {
+      "album": {
+        "name": "Growl (Orchestra Version)",
+        "url": "https://open.spotify.com/album/65qB92gNunjYGnLsfJ6cXR"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244918,
+      "name": "Growl - Orchestra Version",
+      "url": "https://open.spotify.com/track/11xLAKc6AdEsSbosVOpRUk"
+    },
+    {
+      "album": {
+        "name": "Mystique",
+        "url": "https://open.spotify.com/album/77QkGABj1W4jm5fQ5zCrfq"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310600,
+      "name": "Hijo De La Luna",
+      "url": "https://open.spotify.com/track/1BQQAGPRlpEYJLy9pAofVV"
+    },
+    {
+      "album": {
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254226,
+      "name": "his days are like a passing shadow I",
+      "url": "https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ"
+    },
+    {
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/6jh3HKkQqHVBnxJ59AqE0i"
+      },
+      "artists": [
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283880,
+      "name": "Il Mare Calmo Della Sera",
+      "url": "https://open.spotify.com/track/6dp5kRPh8uLwaPG8WcFLrD"
+    },
+    {
+      "album": {
+        "name": "Il Mondo",
+        "url": "https://open.spotify.com/album/5KZRNp9ayuswLvXGyUPmYq"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Fontana",
+          "url": "https://open.spotify.com/artist/6YvCTF77M8f4Nq3IqoWvtz"
+        },
+        {
+          "name": "Carlo Pes",
+          "url": "https://open.spotify.com/artist/1byiu4IGwhsKwT4ggd4or2"
+        },
+        {
+          "name": "You Chae Hoon",
+          "url": "https://open.spotify.com/artist/5wkkqpuCF4BTuTJ3TKQl1n"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234266,
+      "name": "Il Mondo",
+      "url": "https://open.spotify.com/track/1Ep6pGxu3lZcqPJOLiYRbY"
+    },
+    {
+      "album": {
+        "name": "Deep Sleep Deep",
+        "url": "https://open.spotify.com/album/7xThw8RSsjAKgCvB1UXNcH"
+      },
+      "artists": [
+        {
+          "name": "Uaieo",
+          "url": "https://open.spotify.com/artist/1l7VfnSmASgvPvDKbDPXFf"
+        },
+        {
+          "name": "Yeongene",
+          "url": "https://open.spotify.com/artist/6EIodgHkqbx8zdgFCE06CL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198375,
+      "name": "iMessage (feat. Yeongene)",
+      "url": "https://open.spotify.com/track/3vV0xQyt7FMYxDQxYBJfHJ"
+    },
+    {
+      "album": {
+        "name": "Lieber Franz",
+        "url": "https://open.spotify.com/album/1BPSbLMI7UmjgPfG3VOGQo"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Hanbin Chyung",
+          "url": "https://open.spotify.com/artist/00NlYVLrAW8rUegeNDJTgT"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 671773,
+      "name": "Impromptu Op.142, D.935, No.3 'Rosamunde'",
+      "url": "https://open.spotify.com/track/0I438LZWCVHD8Z1wMG8hPK"
+    },
+    {
+      "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157946,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
+    },
+    {
+      "album": {
+        "name": "Into The New World (Orchestra Version)",
+        "url": "https://open.spotify.com/album/1n1oy0Nqr1IQUCg0el57SU"
+      },
+      "artists": [
+        {
+          "name": "Seoul Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/4jeL1MqtTmuyNb04ZuzGR7"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309026,
+      "name": "Into The New World - Orchestra Version",
+      "url": "https://open.spotify.com/track/2WyMmDRr4kAweo0HczcLiB"
+    },
+    {
+      "album": {
+        "name": "ISLAND",
+        "url": "https://open.spotify.com/album/1P23X6A8ovWM89GeBOjxzT"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        },
+        {
+          "name": "COAST82",
+          "url": "https://open.spotify.com/artist/6gv9fIqO7Q8YrI7hUxH0pL"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279528,
+      "name": "Island baby",
+      "url": "https://open.spotify.com/track/4KK9FI8mWKkbn6ryGdUY6k"
+    },
+    {
+      "album": {
+        "name": "Debussy",
+        "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375186,
+      "name": "L'isle joyeuse, L. 106",
+      "url": "https://open.spotify.com/track/4VTnc3rElZ3Ihcz5VM8mXa"
+    },
+    {
+      "album": {
+        "name": "non \u00e8 la fine",
+        "url": "https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180760,
+      "name": "la bianca primavera",
+      "url": "https://open.spotify.com/track/0JjnebVxHxJ0A9wtTpfLhc"
+    },
+    {
+      "album": {
+        "name": "Aria D\u2019amore",
+        "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "MIN SEOK KIM",
+          "url": "https://open.spotify.com/artist/27BEj1cGrS6dhkNRcX0aWM"
+        },
+        {
+          "name": "Korea Coop Orchestra",
+          "url": "https://open.spotify.com/artist/1hz7jSaUzBkoK6jYLjoUcM"
+        },
+        {
+          "name": "Leonard Kwon",
+          "url": "https://open.spotify.com/artist/5BzVHE5992wU1q8YVgTTfc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300693,
+      "name": "La boh\u00e8me, SC 67, Act I: Che gelida manina",
+      "url": "https://open.spotify.com/track/6WMBG6aGd4oAJpyWadripc"
+    },
+    {
+      "album": {
+        "name": "VINCENZO (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/2R6FBQcbf0w6Ns5gYMyZOy"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227288,
+      "name": "Lacrimosa",
+      "url": "https://open.spotify.com/track/33KwxY9n6ejsjrIkH2uO9A"
+    },
+    {
+      "album": {
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/7KbMcDktADsrjGx6nFDccI"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401026,
+      "name": "Listen",
+      "url": "https://open.spotify.com/track/4RFNTlSZ5P3H6gFhFkr994"
+    },
+    {
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
+    },
+    {
+      "album": {
+        "name": "Love Confession",
+        "url": "https://open.spotify.com/album/6ucfdG0kBvVkHqoOT6A1SE"
+      },
+      "artists": [
+        {
+          "name": "John Noh",
+          "url": "https://open.spotify.com/artist/1tPIuR4bDZafphfZrLXg13"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237146,
+      "name": "Love Confession",
+      "url": "https://open.spotify.com/track/24X5IqRxbwbz1ucMUWrkTE"
+    },
+    {
+      "album": {
+        "name": "Lovely Night",
+        "url": "https://open.spotify.com/album/4lrTjfIh8foTGkaitpI39J"
+      },
+      "artists": [
+        {
+          "name": "Hyunsoo Park",
+          "url": "https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202584,
+      "name": "Lovely Night",
+      "url": "https://open.spotify.com/track/5mMzR4exCSdokzXVQh2VOq"
+    },
+    {
+      "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "album": {
+        "name": "Spanish Journey",
+        "url": "https://open.spotify.com/album/65am8tZj4TsHS9sncNDWwi"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Kyuhee Park",
+          "url": "https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94933,
+      "name": "Manuel De Falla : Cancion del fuefo fatuo (\"El amor brujo\")",
+      "url": "https://open.spotify.com/track/0tKfChdkcD6XRLzESdPd62"
+    },
+    {
+      "album": {
+        "name": "Spanish Journey",
+        "url": "https://open.spotify.com/album/65am8tZj4TsHS9sncNDWwi"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Kyuhee Park",
+          "url": "https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168013,
+      "name": "Manuel De Falla : Danza del Molinero (\"El sombrero de tres picos\")",
+      "url": "https://open.spotify.com/track/7aoqJgrvGikUKQE7NYK19G"
+    },
+    {
+      "album": {
+        "name": "psalms",
+        "url": "https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        },
+        {
+          "name": "Budapest Scoring Orchestra and Choir",
+          "url": "https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ"
+        },
+        {
+          "name": "Jung Eun Hye",
+          "url": "https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371146,
+      "name": "memorare",
+      "url": "https://open.spotify.com/track/6K0CsO1HJbf7k2eOYg9khP"
+    },
+    {
+      "album": {
+        "name": "Lieber Franz",
+        "url": "https://open.spotify.com/album/1BPSbLMI7UmjgPfG3VOGQo"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Hanbin Chyung",
+          "url": "https://open.spotify.com/artist/00NlYVLrAW8rUegeNDJTgT"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696706,
+      "name": "Mephisto Waltz No.1 in A Major, S.514",
+      "url": "https://open.spotify.com/track/4uKWSTZnshdoSw0mwASnnJ"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/4mkOMlak3QAKhv78p7t676"
+      },
+      "artists": [
+        {
+          "name": "Fort\u00e9na",
+          "url": "https://open.spotify.com/artist/3k1X3vt1Oa9c0zqMzYXpF5"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246546,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5FFk7FVrVS0hNs2vCooaiz"
+    },
+    {
+      "album": {
+        "name": "The Forestella",
+        "url": "https://open.spotify.com/album/6hs2qZO4ybDSIudDKpgxxU"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284920,
+      "name": "My Heart Will Go On",
+      "url": "https://open.spotify.com/track/12Lo4EX0wt5uhUtKPwIaXe"
+    },
+    {
+      "album": {
+        "name": "Chopin: Piano Concerto No. 2; Scherzi",
+        "url": "https://open.spotify.com/album/0NICuwUdAdabpvnHpbTgzy"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 864320,
+      "name": "Piano Concerto No. 2 in F Minor, Op. 21: I. Maestoso",
+      "url": "https://open.spotify.com/track/3xdfrsXKfVmotMOzCQg6v8"
+    },
+    {
+      "album": {
+        "name": "Beethoven, Isang Yun, Barber (Live)",
+        "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "\uc784\uc724\ucc2c",
+          "url": "https://open.spotify.com/artist/3OzZCEXY68IhJKMHoErl62"
+        },
+        {
+          "name": "Gwangju Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/03xnkrKpi8IWMW96v7vUCl"
+        },
+        {
+          "name": "Seokwon Hong",
+          "url": "https://open.spotify.com/artist/5pGKl8m6H3Xhybqp9419Lc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 613480,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro - Live",
+      "url": "https://open.spotify.com/track/64YlvQ5riWGzZVVe71AFtQ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas III",
+        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 628546,
+      "name": "Piano Sonata No. 16 in A Minor, D. 845: I. Moderato",
+      "url": "https://open.spotify.com/track/1bFKVMn8dqPF5J4C8KaPQw"
+    },
+    {
+      "album": {
+        "name": "Schubert: Piano Sonatas III",
+        "url": "https://open.spotify.com/album/2eWZeuZu031ycRDsPdGEgX"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "William Youn",
+          "url": "https://open.spotify.com/artist/7uWSy5aRJy75BSKdpYbp2R"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347080,
+      "name": "Piano Sonata No. 8 in E-Flat Major, D. 568: II. Andante molto",
+      "url": "https://open.spotify.com/track/5OsaAWJPbbVeEz8jN9TFT9"
+    },
+    {
+      "album": {
+        "name": "Remembering That Time",
+        "url": "https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy"
+      },
+      "artists": [
+        {
+          "name": "Jung Hwan Ho",
+          "url": "https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione"
+        },
+        {
+          "name": "Jisoo Sohn",
+          "url": "https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267986,
+      "name": "Remembering That Time",
+      "url": "https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb"
+    },
+    {
+      "album": {
+        "name": "REMINISCENCE: Schubert works for violin and piano",
+        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jinsu Park, Jeong Heum Yeon",
+          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188733,
+      "name": "Rondo in B Minor, D. 895, op. 71 - I. Andante",
+      "url": "https://open.spotify.com/track/2iN2EXB7WVl8ZEPi9sVDB0"
+    },
+    {
+      "album": {
+        "name": "The Beginning: World Tree",
+        "url": "https://open.spotify.com/album/1gomORnQsreWvJxDGy85pB"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264946,
+      "name": "Save our lives",
+      "url": "https://open.spotify.com/track/6jV7bp6RxyWGvUt4RptTiF"
+    },
+    {
+      "album": {
+        "name": "Beethoven, Isang Yun, Barber (Live)",
+        "url": "https://open.spotify.com/album/3jwobJu2gfscIyepVtguSX"
+      },
+      "artists": [
+        {
+          "name": "Federico Mompou",
+          "url": "https://open.spotify.com/artist/25OpIkirunuJjVw6TgTV9M"
+        },
+        {
+          "name": "\uc784\uc724\ucc2c",
+          "url": "https://open.spotify.com/artist/3OzZCEXY68IhJKMHoErl62"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Sc\u00e8nes d\u2019enfants: No. 5, Jeunes filles au Jardin - Live",
+      "url": "https://open.spotify.com/track/1nnnITAhUa10DROk1FhrCu"
+    },
+    {
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/59sL6DHiLDlsHmNvvPEYnP"
+      },
+      "artists": [
+        {
+          "name": "Libelante",
+          "url": "https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250413,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/532RMXCREm0gZoMc9lzhlV"
+    },
+    {
+      "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/58rrDckn6OfNw3dDyeUHvz"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321133,
+      "name": "Snow Globe",
+      "url": "https://open.spotify.com/track/1l0MptcWp4W8iqwtzX4ZmF"
+    },
+    {
+      "album": {
+        "name": "On Chesil Beach (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3LF217LOo5xzgLszre4jfl"
+      },
+      "artists": [
+        {
+          "name": "Dan Jones",
+          "url": "https://open.spotify.com/artist/3iADiUHE1zNtXMd8ZGLQho"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96986,
+      "name": "Solemn Love",
+      "url": "https://open.spotify.com/track/1C4QeGKTj6uA8tcVW0IvKQ"
+    },
+    {
+      "album": {
+        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
+        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e8ne Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
+        },
+        {
+          "name": "Ju-young Baek",
+          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160946,
+      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: I. Obsession: Prelude (Poco Vivace)",
+      "url": "https://open.spotify.com/track/0ofrNa6LBKn1G9G03vJJVt"
+    },
+    {
+      "album": {
+        "name": "YSAYE: SIX SONATAS FOR SOLO VIOLIN",
+        "url": "https://open.spotify.com/album/22ldNmsolMOCk38QQXe3xP"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00e8ne Ysa\u00ffe",
+          "url": "https://open.spotify.com/artist/662RkpOvE7MIPWnfYbY5xs"
+        },
+        {
+          "name": "Ju-young Baek",
+          "url": "https://open.spotify.com/artist/0laUgAtCDFPXzRvEBrAYJw"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188546,
+      "name": "Sonata for Solo Violin in A Minor, Op.27, No.2: IV. Les Furies (Allegro Furioso)",
+      "url": "https://open.spotify.com/track/5MJ7PlUVP1cqpd7Bt6UVkU"
+    },
+    {
+      "album": {
+        "name": "REMINISCENCE: Schubert works for violin and piano",
+        "url": "https://open.spotify.com/album/6STIwez4fhKqtBnc2RDj0M"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jinsu Park, Jeong Heum Yeon",
+          "url": "https://open.spotify.com/artist/0zCq1VU8PdCyzk2B5xlbck"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507120,
+      "name": "Sonata for Violin and Piano in A, D. 574 - I. Allegro moderato",
+      "url": "https://open.spotify.com/track/2ThAvQYyd3ZqXhXLQfZ0Qa"
+    },
+    {
+      "album": {
+        "name": "Timepass",
+        "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kim Dami",
+          "url": "https://open.spotify.com/artist/2qd87b0u1binbbeQPFh7eT"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600280,
+      "name": "Souvenir d'un lieu cher, Op. 42: I. Meditation",
+      "url": "https://open.spotify.com/track/496Pgn2s9SNqsZGY6s2Z4J"
+    },
+    {
+      "album": {
+        "name": "Letters",
+        "url": "https://open.spotify.com/album/65u4wYlCAV0WsfJ5k8lhHn"
+      },
+      "artists": [
+        {
+          "name": "Stanley Myers",
+          "url": "https://open.spotify.com/artist/6l6NgkV6IWYKlRN7jHCQmt"
+        },
+        {
+          "name": "Kyuhee Park",
+          "url": "https://open.spotify.com/artist/1cPB46hHAuY8A2U1XzkREc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299167,
+      "name": "Stanley Myers : Cavatina",
+      "url": "https://open.spotify.com/track/01GZqoFssNsVDz9CRzLNJ3"
+    },
+    {
+      "album": {
+        "name": "Debussy",
+        "url": "https://open.spotify.com/album/4tYYPSmCZM2bmfrJvXAOfr"
+      },
+      "artists": [
+        {
+          "name": "Claude Debussy",
+          "url": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330840,
+      "name": "Suite bergamasque, L. 75: III. Clair de lune",
+      "url": "https://open.spotify.com/track/3aflqY3isjShFUHoiS1QbR"
+    },
+    {
+      "album": {
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257040,
+      "name": "Suite in B-Flat Major, HWV 434: IV. Minuet (Arr. Kempff for Piano)",
+      "url": "https://open.spotify.com/track/54o2CXo5WVAMIYHW0k9pqs"
+    },
+    {
+      "album": {
+        "name": "Handel: Suite No. 2 in F Major, HWV 427: I. Adagio",
+        "url": "https://open.spotify.com/album/4mlFghKBM97vHU1O1ij0XI"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156466,
+      "name": "Suite No. 2 in F Major, HWV 427: I. Adagio",
+      "url": "https://open.spotify.com/track/76PT3Wp1xEYDkMFeLj5H8d"
+    },
+    {
+      "album": {
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156160,
+      "name": "Suite No. 7 in B-Flat Major, HWV 440: III. Sarabande",
+      "url": "https://open.spotify.com/track/3wEz4LwtG1Wdi8qppCukdL"
+    },
+    {
+      "album": {
+        "name": "Lost In Memory",
+        "url": "https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj"
+      },
+      "artists": [
+        {
+          "name": "Hyungjoo Lim",
+          "url": "https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279613,
+      "name": "The Red String",
+      "url": "https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/6LEG1YD9VAOl6UQIxlHw35"
+      },
+      "artists": [
+        {
+          "name": "jung jaeil",
+          "url": "https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209186,
+      "name": "The River",
+      "url": "https://open.spotify.com/track/4cn253p3x8Rm42HbzXpHlz"
+    },
+    {
+      "album": {
+        "name": "KAI ON MUSICAL",
+        "url": "https://open.spotify.com/album/04B5WAQquyirwfdtBWrs6N"
+      },
+      "artists": [
+        {
+          "name": "Kai",
+          "url": "https://open.spotify.com/artist/5zCtihKT8IsDqVS5WBbqHD"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212515,
+      "name": "The Steps Of Tomorrow",
+      "url": "https://open.spotify.com/track/4SGvRalrhEY1s389vbLK0x"
+    },
+    {
+      "album": {
+        "name": "THE WAR",
+        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212986,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
+    },
+    {
+      "album": {
+        "name": "Aria D\u2019amore",
+        "url": "https://open.spotify.com/album/7E92fSvjhYJHEHu4H7fpha"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "MIN SEOK KIM",
+          "url": "https://open.spotify.com/artist/27BEj1cGrS6dhkNRcX0aWM"
+        },
+        {
+          "name": "Korea Coop Orchestra",
+          "url": "https://open.spotify.com/artist/1hz7jSaUzBkoK6jYLjoUcM"
+        },
+        {
+          "name": "Leonard Kwon",
+          "url": "https://open.spotify.com/artist/5BzVHE5992wU1q8YVgTTfc"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169853,
+      "name": "Tosca, SC 69, Act I: Recondita armonia",
+      "url": "https://open.spotify.com/track/1fPMSIOJRNZLqhEitUupuk"
+    },
+    {
+      "album": {
+        "name": "White Night",
+        "url": "https://open.spotify.com/album/7FB6YKYscqNfDvvJrDJtom"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yoosin Park",
+          "url": "https://open.spotify.com/artist/0d06TjR29UBzbk5QaHRsBI"
+        },
+        {
+          "name": "Ilya Rashkovskiy",
+          "url": "https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231360,
+      "name": "Two Pieces for Cello and Piano, Op.2 : I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/6zI5QVxrwU3rOl03Ao5vzb"
+    },
+    {
+      "album": {
+        "name": "Une Vie Full album",
+        "url": "https://open.spotify.com/album/2fGe5nCYxVlSFIkk3VAw5p"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/2tE7v0aS6S78AjerGVTqRH"
+    },
+    {
+      "album": {
+        "name": "Une Vie",
+        "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
+      },
+      "artists": [
+        {
+          "name": "Denis Sungho",
+          "url": "https://open.spotify.com/artist/14AiQlh46InimcwmW3zXdp"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253360,
+      "name": "Une Vie Part 1",
+      "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
+    },
+    {
+      "album": {
+        "name": "Modern Cello",
+        "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        },
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305000,
+      "name": "Us, then",
+      "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
+    },
+    {
+      "album": {
+        "name": "[The Bloom : UTOPIA] Borders of Utopia",
+        "url": "https://open.spotify.com/album/6BY36mcoLnYWhxRWFMIZ2H"
+      },
+      "artists": [
+        {
+          "name": "Forestella",
+          "url": "https://open.spotify.com/artist/4Phfy4o60wGqoPQFl5oCP8"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311880,
+      "name": "UTOPIA",
+      "url": "https://open.spotify.com/track/3m4bN9t3W1CUU9TcnQHGYa"
+    },
+    {
+      "album": {
+        "name": "The Handel Project: Handel-Suites & Brahms-Variations",
+        "url": "https://open.spotify.com/album/2CXQ8RsgMPr1QeuNQP0ArE"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Seong-Jin Cho",
+          "url": "https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56613,
+      "name": "Variations and Fugue on a Theme by Handel, Op. 24: Var. 5 (Espressivo)",
+      "url": "https://open.spotify.com/track/7ru3gpbiiHILS48ABqBLDe"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff, A Reflection",
+        "url": "https://open.spotify.com/album/1ETZFwejOUfhRVxkhG8WmC"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Yekwon Sunwoo",
+          "url": "https://open.spotify.com/artist/2pR8C1gs05nq2Wc9OL6irv"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 41733,
+      "name": "Variations on a Theme of Corelli, Op. 42: Var. 1. Poco pi\u00f9 mosso",
+      "url": "https://open.spotify.com/track/0N6gEgu138TistgGvFFaeW"
+    },
+    {
+      "album": {
+        "name": "Barber, Bruch",
+        "url": "https://open.spotify.com/album/2BgZFALmsQgLCpIskqkIUk"
+      },
+      "artists": [
+        {
+          "name": "Max Bruch",
+          "url": "https://open.spotify.com/artist/0521x50ZcNqqT1fKMJg5c5"
+        },
+        {
+          "name": "Esther Yoo",
+          "url": "https://open.spotify.com/artist/5nxfecQzSK5KWsygb0IXiC"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448413,
+      "name": "Violin Concerto No. 1 in G Minor, Op. 26: III. Finale. Allegro energico",
+      "url": "https://open.spotify.com/track/0grBNFBmjb8abbgcVuqygz"
+    },
+    {
+      "album": {
+        "name": "Bartok Violin Concerto",
+        "url": "https://open.spotify.com/album/3Enk3LYRadSz1HjBKk11f4"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Lee Jong Eun",
+          "url": "https://open.spotify.com/artist/3Z99KEDvrRSX1hRfYpcy4u"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1015440,
+      "name": "Violin Concerto No. 2, BB 117: I. Allegro non troppo",
+      "url": "https://open.spotify.com/track/7GZP28qyjxjNMI1d0jgEMf"
+    },
+    {
+      "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 198524,
+      "name": "We Contain Multitudes",
+      "url": "https://open.spotify.com/track/2WzVKUgz02wA3OyPvxPhL0"
+    },
+    {
+      "album": {
+        "name": "some kind of peace",
+        "url": "https://open.spotify.com/album/6NW97EFYSQ9X1CulKyL7wf"
+      },
+      "artists": [
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198524,
+      "name": "We Contain Multitudes",
+      "url": "https://open.spotify.com/track/4SrMWTrs3io7FJXAHSo43c"
+    },
+    {
+      "album": {
+        "name": "some kind of peace \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/79a34uOB7jdMrSECClgqOv"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1eDy2A3euqy3axIdoKgQd5"
+    },
+    {
+      "album": {
+        "name": "We Contain Multitudes \u2014 piano reworks",
+        "url": "https://open.spotify.com/album/4vtunVFmIlrxIrkOobdfDH"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        },
+        {
+          "name": "\u00d3lafur Arnalds",
+          "url": "https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-01",
+      "duration_ms": 264052,
+      "name": "We Contain Multitudes \u2014 piano reworks",
+      "url": "https://open.spotify.com/track/1rpF77jsLBMG2QjCuhe0Sr"
+    },
+    {
+      "album": {
+        "name": "We Will Be One",
+        "url": "https://open.spotify.com/album/2u0bEo4WR4tvQHNlcvYQZV"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183542,
+      "name": "We Will Be One",
+      "url": "https://open.spotify.com/track/6d8FfbeQRPThAt4Xl5PQWT"
+    },
+    {
+      "album": {
+        "name": "2022 Winter SMTOWN : SMCU PALACE",
+        "url": "https://open.spotify.com/album/1HwnXJfZx8N8qDfzwUbxcw"
+      },
+      "artists": [
+        {
+          "name": "SM Classics TOWN Orchestra",
+          "url": "https://open.spotify.com/artist/5uv1gQAOE14WiuRMvqfesF"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129440,
+      "name": "Welcome To SMCU PALACE",
+      "url": "https://open.spotify.com/track/3EyZKeSteCNatEQuVlkm9a"
+    },
+    {
+      "album": {
+        "name": "non \u00e8 la fine",
+        "url": "https://open.spotify.com/album/1McKSuePf6bCk42GhMWHOR"
+      },
+      "artists": [
+        {
+          "name": "Yiruma",
+          "url": "https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145973,
+      "name": "when it snows in May",
+      "url": "https://open.spotify.com/track/26EiFb8JMXdwKWCkT4cc6Q"
+    },
+    {
+      "album": {
+        "name": "\ub108\uc758 \uc790\uc720\uc57c",
+        "url": "https://open.spotify.com/album/3bg2zeyy3LfMkfwnfNgyBz"
+      },
+      "artists": [
+        {
+          "name": "\uc815\ud604\ubb35",
+          "url": "https://open.spotify.com/artist/19AapPEBgno4ABfOB0Nw3d"
+        },
+        {
+          "name": "\ucd5c\uc6a9\ud638",
+          "url": "https://open.spotify.com/artist/06eCHq3n96anYE1GJo7IzU"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282026,
+      "name": "\ub108\uc758 \uc790\uc720\uc57c",
+      "url": "https://open.spotify.com/track/4h11kTlpCGg60Y18qA9vjV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX9lq0EB6cmRr"
 }

@@ -632,10 +632,28 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 150562,
       "name": "Elma I",
       "url": "https://open.spotify.com/track/3KCsumTTBnPJKkbDWWzFm2"
+    },
+    {
+      "album": {
+        "name": "Elma I",
+        "url": "https://open.spotify.com/album/2iYC2bnGrCoEQYlULrlNw6"
+      },
+      "artists": [
+        {
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150562,
+      "name": "Elma I",
+      "url": "https://open.spotify.com/track/76dT8JgciDxGWG2ZWvJsoP"
     },
     {
       "album": {

@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 4 (From The \"JTBC\" TV Show) (Live)",
+        "url": "https://open.spotify.com/album/3kJ7n1au9vUp37MzvYgdJT"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 234400,
+      "name": "Amor fati (Live)",
+      "url": "https://open.spotify.com/track/5vS74IVr5rSIeSKjVm5wkr"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.4 [Live]",
         "url": "https://open.spotify.com/album/6rhJvqdArgebSATUzhGMou"
       },
@@ -427,21 +445,37 @@
     },
     {
       "album": {
-        "name": "Famous Singers, Pt. 4 (From The \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/3kJ7n1au9vUp37MzvYgdJT"
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
       },
       "artists": [
         {
+          "name": "Yang Hee Eun",
+          "url": "https://open.spotify.com/artist/0BD74hBusWzcPz44wFskYb"
+        },
+        {
           "name": "LEE SEUNG YOON",
           "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        },
+        {
+          "name": "\uc774\uc18c\uc815",
+          "url": "https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68"
         }
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 234400,
-      "name": "Amor fati - Live",
-      "url": "https://open.spotify.com/track/5vS74IVr5rSIeSKjVm5wkr"
+      "duration_ms": 258308,
+      "name": "An Unfinished Song",
+      "url": "https://open.spotify.com/track/58yWhSlvdBSB0rZbUO9KyS"
     },
     {
       "album": {
@@ -506,10 +540,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 258308,
       "name": "An Unfinished Song - Live",
       "url": "https://open.spotify.com/track/0RJykcANx5NGdJsqeRkQ7z"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/54GmwOtOIvtJO0RLJDryD3"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262253,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/0f47YC8ZFbzn98x5OkF4rL"
     },
     {
       "album": {
@@ -542,10 +594,46 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 262253,
       "name": "Annie - Live",
       "url": "https://open.spotify.com/track/5h2azh5dgdsmID4LIxhg4d"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221951,
+      "name": "April",
+      "url": "https://open.spotify.com/track/2rMtXz9iRE6QgtIpj1zOvY"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 1 (From The \"JTBC\" TV Show) (Live)",
+        "url": "https://open.spotify.com/album/76d7noqqEeccQ30idnX0WW"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 221952,
+      "name": "April (Live)",
+      "url": "https://open.spotify.com/track/5ueG6fK9OGDZbKq9PXlgkZ"
     },
     {
       "album": {
@@ -564,24 +652,6 @@
       "duration_ms": 221951,
       "name": "April - Live",
       "url": "https://open.spotify.com/track/2rIfCa64TIHDv3rKxiMnmr"
-    },
-    {
-      "album": {
-        "name": "Famous Singers, Pt. 1 (From The \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/76d7noqqEeccQ30idnX0WW"
-      },
-      "artists": [
-        {
-          "name": "LEE SEUNG YOON",
-          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
-        }
-      ],
-      "date_added": "2022-07-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221952,
-      "name": "April - Live",
-      "url": "https://open.spotify.com/track/5ueG6fK9OGDZbKq9PXlgkZ"
     },
     {
       "album": {
@@ -657,6 +727,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 10 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242826,
+      "name": "Beautiful Landscape",
+      "url": "https://open.spotify.com/track/1mzZC3dSgn3gVNRH8dojj0"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.10 [Live]",
         "url": "https://open.spotify.com/album/2R0Srd0yJCXZEtsrnIBDTA"
       },
@@ -694,7 +786,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 242826,
       "name": "Beautiful Landscape - Live",
       "url": "https://open.spotify.com/track/6sr4R0hOhpTEiyEaNbtwcX"
@@ -933,6 +1025,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 2 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr"
+      },
+      "artists": [
+        {
+          "name": "Kim Bum Soo",
+          "url": "https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt"
+        },
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279776,
+      "name": "Consolation",
+      "url": "https://open.spotify.com/track/6XMSkEHc2YlnllgBh87AUR"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.2 [Live]",
         "url": "https://open.spotify.com/album/21OrNFaqJPeKq2j5FElTva"
       },
@@ -970,7 +1084,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 279776,
       "name": "Consolation - Live",
       "url": "https://open.spotify.com/track/2J1Z0YAkwaAZ3BDwNsjgWX"
@@ -1013,6 +1127,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 5 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/4CEkcUqewxRbHJyVKHPyJ9"
+      },
+      "artists": [
+        {
+          "name": "Taeho",
+          "url": "https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249946,
+      "name": "Dash",
+      "url": "https://open.spotify.com/track/2e9UTqBrqaJXy67Jmjfbeb"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 5 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/1uTgbDx9DsZZjROdtWkZ2w"
       },
@@ -1024,7 +1156,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 249946,
       "name": "Dash - Live",
       "url": "https://open.spotify.com/track/0O5zUEyjg3DlUgNA9a6Ux9"
@@ -1071,6 +1203,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 10 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        },
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261379,
+      "name": "Dear J",
+      "url": "https://open.spotify.com/track/4tA1gAT9JNhCvH0bDZ7kZJ"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 10 (From The \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5"
       },
@@ -1086,7 +1240,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 261379,
       "name": "Dear J - Live",
       "url": "https://open.spotify.com/track/1No0fMLhwWa1R4qfPz9GLK"
@@ -1115,6 +1269,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 10 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/5kdVUtV2QAsG3SxOOrikc2"
+      },
+      "artists": [
+        {
+          "name": "Lee Sun Hee",
+          "url": "https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257720,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/4SqdhxTHrKS9TjKBBKUsoS"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 10 (From The \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/5b94ISqkUEaps41HR4Bha5"
       },
@@ -1130,7 +1306,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 257720,
       "name": "Destiny - Live",
       "url": "https://open.spotify.com/track/27ZPNAJBhbSv1GejWpyG0Q"
@@ -1423,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249949,
+      "name": "Flower Vase",
+      "url": "https://open.spotify.com/track/1HvbbmdKEbQUouFczmgwHh"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.1 [Live]",
         "url": "https://open.spotify.com/album/2sGOSVoYUYPQPsLE9zhHdC"
       },
@@ -1452,7 +1646,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 249949,
       "name": "Flower Vase - Live",
       "url": "https://open.spotify.com/track/7vAZbMtXlgwJYKnbeqRUGt"
@@ -1531,8 +1725,8 @@
     },
     {
       "album": {
-        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/37MQI4JtWhPS0z9PHnRHOS"
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3uI6iVfZArZydsUp7EdSQr"
       },
       "artists": [
         {
@@ -1548,7 +1742,29 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 283253,
-      "name": "Forbidden love - Live",
+      "name": "Forbidden love",
+      "url": "https://open.spotify.com/track/1NMTlG2NuSYSYMWx2Aoaft"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV Show) (Live)",
+        "url": "https://open.spotify.com/album/37MQI4JtWhPS0z9PHnRHOS"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 283253,
+      "name": "Forbidden love (Live)",
       "url": "https://open.spotify.com/track/3h0N9u92Nc3QPq9F2O3GI8"
     },
     {
@@ -1665,6 +1881,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/54GmwOtOIvtJO0RLJDryD3"
+      },
+      "artists": [
+        {
+          "name": "Taeho",
+          "url": "https://open.spotify.com/artist/4p0Tt1h24m9LNOmqGMAhcC"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "Freeway Romance",
+      "url": "https://open.spotify.com/track/2ej9JKYoENpiMN9Hz17ico"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/1MQCUGd0kZXX6dNW7752Oq"
       },
@@ -1676,7 +1910,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 226146,
       "name": "Freeway Romance - Live",
       "url": "https://open.spotify.com/track/28qv2DNDSLZx1y3gjNUcmi"
@@ -1839,7 +2073,29 @@
     },
     {
       "album": {
-        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV Show)",
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3uI6iVfZArZydsUp7EdSQr"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0OiHTIvvb2txU7dYoge4we"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV Show) (Live)",
         "url": "https://open.spotify.com/album/37MQI4JtWhPS0z9PHnRHOS"
       },
       "artists": [
@@ -1854,9 +2110,9 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 227840,
-      "name": "Heaven - Live",
+      "name": "Heaven (Live)",
       "url": "https://open.spotify.com/track/1gs7UB2P4pPsLrPo2jliwU"
     },
     {
@@ -1991,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 2 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217418,
+      "name": "Home meal",
+      "url": "https://open.spotify.com/track/2MIVHVuOq8oQcQOa0xYWgJ"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.2 [Live]",
         "url": "https://open.spotify.com/album/21OrNFaqJPeKq2j5FElTva"
       },
@@ -2020,7 +2294,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 217418,
       "name": "Home meal - Live",
       "url": "https://open.spotify.com/track/3U7c0cVuYP27qDRqdp0501"
@@ -2175,6 +2449,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 2 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251296,
+      "name": "I Miss You",
+      "url": "https://open.spotify.com/track/35xNwtAmU5TDTrbhNz13RP"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.2 [Live]",
         "url": "https://open.spotify.com/album/21OrNFaqJPeKq2j5FElTva"
       },
@@ -2204,7 +2496,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 251296,
       "name": "I Miss You - Live",
       "url": "https://open.spotify.com/track/3afQoo33mLJxIxFXgAs4pt"
@@ -2273,7 +2565,29 @@
     },
     {
       "album": {
-        "name": "Famous Singers, Pt. 5 (From the \"JTBC\" TV Show)",
+        "name": "Famous Singers, Pt. 5 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/4CEkcUqewxRbHJyVKHPyJ9"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o"
+        },
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269053,
+      "name": "I Won't Love Again",
+      "url": "https://open.spotify.com/track/3VvTSGSBduFy7DqA53iVqh"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 5 (From the \"JTBC\" TV Show) (Live)",
         "url": "https://open.spotify.com/album/1uTgbDx9DsZZjROdtWkZ2w"
       },
       "artists": [
@@ -2288,9 +2602,9 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 269053,
-      "name": "I Won't Love Again - Live",
+      "name": "I Won't Love Again (Live)",
       "url": "https://open.spotify.com/track/1ORMPXiTQMH4rL0p5sStxp"
     },
     {
@@ -2314,6 +2628,28 @@
       "duration_ms": 269053,
       "name": "I Won't Love Again - Live",
       "url": "https://open.spotify.com/track/1wXUQLRoqXIjrabn11uaNE"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/4232Gkg3QQGmhUEASd6jHP"
+      },
+      "artists": [
+        {
+          "name": "\ud55c\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/5xZbgPqFzjNdrPemLbj7r8"
+        },
+        {
+          "name": "SEO Young Joo",
+          "url": "https://open.spotify.com/artist/2Fw753BgxYwcQTOkAfYJwH"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229840,
+      "name": "I'll Forget You",
+      "url": "https://open.spotify.com/track/1wHPadLV1rQ3pqRamfZiNF"
     },
     {
       "album": {
@@ -2354,7 +2690,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 229840,
       "name": "I'll Forget You - Live",
       "url": "https://open.spotify.com/track/5qhLlThLS5JU6NxqzNqQR4"
@@ -2397,6 +2733,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/54GmwOtOIvtJO0RLJDryD3"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc815\uad8c",
+          "url": "https://open.spotify.com/artist/7m0p6WMslpnIldZmHIKzju"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263189,
+      "name": "I'm coming to you",
+      "url": "https://open.spotify.com/track/2SEERrDuMnRyS7d8mE6GMX"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.7 [Live]",
         "url": "https://open.spotify.com/album/3hSJDHiytxjmUraDwWkigY"
       },
@@ -2426,7 +2780,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 263189,
       "name": "I'm coming to you - Live",
       "url": "https://open.spotify.com/track/4LtvNffTeHeiEe3qxo7cUU"
@@ -2639,6 +2993,42 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/4232Gkg3QQGmhUEASd6jHP"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182573,
+      "name": "Knife",
+      "url": "https://open.spotify.com/track/0V6iuUnw0Oy0GGUusOjmMj"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV Show) (Live)",
+        "url": "https://open.spotify.com/album/3BsVYQHwvUdr4GBcRelkuQ"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 182573,
+      "name": "Knife (Live)",
+      "url": "https://open.spotify.com/track/5khRej0k5asXXnVHuNJEhp"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.9 [Live]",
         "url": "https://open.spotify.com/album/0nKxDYPNYbF1VfB0gaXIVI"
       },
@@ -2654,24 +3044,6 @@
       "duration_ms": 182573,
       "name": "Knife - Live",
       "url": "https://open.spotify.com/track/5RK3m0uordynPmoN1Mx0gN"
-    },
-    {
-      "album": {
-        "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/3BsVYQHwvUdr4GBcRelkuQ"
-      },
-      "artists": [
-        {
-          "name": "Jeong Hongil",
-          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
-        }
-      ],
-      "date_added": "2022-07-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182573,
-      "name": "Knife - Live",
-      "url": "https://open.spotify.com/track/5khRej0k5asXXnVHuNJEhp"
     },
     {
       "album": {
@@ -2711,6 +3083,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/1VlSlfX6bWGiHAelV7BdgF"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238827,
+      "name": "Laundry",
+      "url": "https://open.spotify.com/track/4JUi3EVLSbqSVFIQg42KDs"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.6 [Live]",
         "url": "https://open.spotify.com/album/6I7E0bs8De5BTPFyNnIzXI"
       },
@@ -2740,10 +3130,28 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 238827,
       "name": "Laundry - Live",
       "url": "https://open.spotify.com/track/5kRxDcmOESvUVJSNTMWUYa"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/1VlSlfX6bWGiHAelV7BdgF"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Lie Lie Lie",
+      "url": "https://open.spotify.com/track/76rm0oce7Jzkr5xNAoNC1g"
     },
     {
       "album": {
@@ -2776,7 +3184,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 269066,
       "name": "Lie Lie Lie - Live",
       "url": "https://open.spotify.com/track/4Yh9LfxTfBvUNdFc98RB1k"
@@ -2949,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247640,
+      "name": "Love, On its Solitude",
+      "url": "https://open.spotify.com/track/6T0PxCIpUe3redb4wjsqhF"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 1 (From The \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/76d7noqqEeccQ30idnX0WW"
       },
@@ -2960,7 +3386,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 247640,
       "name": "Love, on its Solitude - Live",
       "url": "https://open.spotify.com/track/0tMv9xD8Z1Uk3JGZ4Jf0zo"
@@ -2985,6 +3411,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/4232Gkg3QQGmhUEASd6jHP"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Love, two",
+      "url": "https://open.spotify.com/track/73ZVlyEeJ1TUJ02nauDXZB"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 9 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/3BsVYQHwvUdr4GBcRelkuQ"
       },
@@ -2996,7 +3440,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 301333,
       "name": "Love, two - Live",
       "url": "https://open.spotify.com/track/1CtTOXm5bBWPnMz2tgKJKV"
@@ -3133,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 3 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/2bO8T4lcPz1Zzx6YFv0Qm7"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301308,
+      "name": "Malri flower",
+      "url": "https://open.spotify.com/track/2QCt4VNtOdP6c7b9Rxsrxv"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.3 [Live]",
         "url": "https://open.spotify.com/album/3MfMXBnTshqDB6haaZg7Xl"
       },
@@ -3162,7 +3624,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 301308,
       "name": "Malri flower - Live",
       "url": "https://open.spotify.com/track/4W987WRXL5Xmnuk72d9ACT"
@@ -3184,6 +3646,24 @@
       "duration_ms": 268655,
       "name": "Man (Origianl : Woman) - Live",
       "url": "https://open.spotify.com/track/4X8MIWp3G29zqNLlzF6nQ3"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/54GmwOtOIvtJO0RLJDryD3"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238640,
+      "name": "Mango Shake",
+      "url": "https://open.spotify.com/track/507E4wcCIoGPyLbDYq79b8"
     },
     {
       "album": {
@@ -3216,7 +3696,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 238640,
       "name": "Mango Shake - Live",
       "url": "https://open.spotify.com/track/5fjkdW34PA8ycsnCTbr9hE"
@@ -3277,6 +3757,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 4 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/60m9xcWTb3taE6s982q4R8"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "Mercury lamp",
+      "url": "https://open.spotify.com/track/14nFTlzAgeCPunQrYOZjf5"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 4 (From The \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/3kJ7n1au9vUp37MzvYgdJT"
       },
@@ -3288,7 +3786,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 235946,
       "name": "Mercury lamp - Live",
       "url": "https://open.spotify.com/track/281lioW9n2B2FOmQCRDEVR"
@@ -4047,6 +4545,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/1VlSlfX6bWGiHAelV7BdgF"
+      },
+      "artists": [
+        {
+          "name": "YEGNY",
+          "url": "https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "Running in the Sky",
+      "url": "https://open.spotify.com/track/1oBnO9zG0o11LuDkyd9wqn"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/6af1BRXMXeUySRV7TAj4Sv"
       },
@@ -4058,7 +4574,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 229173,
       "name": "Running in the Sky - Live",
       "url": "https://open.spotify.com/track/6xAPLvxJfELZj4VxL9OZ44"
@@ -4877,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 1 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3TOcNZMI0RP2Q9fsVYVbvd"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc18c\uc815",
+          "url": "https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232013,
+      "name": "The White Magnolia",
+      "url": "https://open.spotify.com/track/4fQ0RNZ7VyQIoLk69ri58L"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.1 [Live]",
         "url": "https://open.spotify.com/album/2sGOSVoYUYPQPsLE9zhHdC"
       },
@@ -4906,7 +5440,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 232013,
       "name": "The White Magnolia - Live",
       "url": "https://open.spotify.com/track/7cW2LMXPpHtpGnjmQwdbKi"
@@ -5075,6 +5609,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 2 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/6dNduIuU7nKqkyE6FytuDr"
+      },
+      "artists": [
+        {
+          "name": "\uc774\uc18c\uc815",
+          "url": "https://open.spotify.com/artist/3q2uDma9mBdJlTSh5lpj68"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268241,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/4dLb4wxlrZfrfyz65mQMdD"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From The \"JTBC\" TV Show) Pt.2 [Live]",
         "url": "https://open.spotify.com/album/21OrNFaqJPeKq2j5FElTva"
       },
@@ -5104,7 +5656,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 268241,
       "name": "To Me - Live",
       "url": "https://open.spotify.com/track/38m3xIx4aTuV8Qgu3AUAvw"
@@ -5130,6 +5682,24 @@
       "duration_ms": 184533,
       "name": "Today (Live)",
       "url": "https://open.spotify.com/track/5YEY4TaPqFbOiS4T4A2wGe"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 3 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/2bO8T4lcPz1Zzx6YFv0Qm7"
+      },
+      "artists": [
+        {
+          "name": "\ud55c\uc2b9\uc724",
+          "url": "https://open.spotify.com/artist/5xZbgPqFzjNdrPemLbj7r8"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237053,
+      "name": "Today, I",
+      "url": "https://open.spotify.com/track/4T4MKihrMci6CZ9xEjVDUZ"
     },
     {
       "album": {
@@ -5162,7 +5732,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 237053,
       "name": "Today, I - Live",
       "url": "https://open.spotify.com/track/6IJJFfBZUDHZPZMLLWh8R5"
@@ -5285,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3uI6iVfZArZydsUp7EdSQr"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4sWXAa6FpXkuVeSajcD6i7"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195213,
+      "name": "U & I",
+      "url": "https://open.spotify.com/track/6WJr4l430l5GxsgfSSjuij"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.8 [Live]",
         "url": "https://open.spotify.com/album/6J0I0NvRbsBeJNXzXX7wON"
       },
@@ -5314,7 +5902,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 195213,
       "name": "U & I - Live",
       "url": "https://open.spotify.com/track/7zyfphPnDBks6j6uIjttMR"
@@ -5465,6 +6053,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/1VlSlfX6bWGiHAelV7BdgF"
+      },
+      "artists": [
+        {
+          "name": "Lee Juck",
+          "url": "https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa"
+        },
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240226,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/2QQWnec9h5ohW2ZNJVujdI"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.6 [Live]",
         "url": "https://open.spotify.com/album/6I7E0bs8De5BTPFyNnIzXI"
       },
@@ -5502,7 +6112,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 240226,
       "name": "Water - Live",
       "url": "https://open.spotify.com/track/5HuB9qBfXDMEnUzPhkeiOL"
@@ -5715,6 +6325,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3uI6iVfZArZydsUp7EdSQr"
+      },
+      "artists": [
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/5X8nfwjllN8cJth9UFjZYM"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.8 [Live]",
         "url": "https://open.spotify.com/album/6J0I0NvRbsBeJNXzXX7wON"
       },
@@ -5744,10 +6372,46 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 255813,
       "name": "Wine - Live",
       "url": "https://open.spotify.com/track/61su5YMgphWA0r4hpKIHWV"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/1VlSlfX6bWGiHAelV7BdgF"
+      },
+      "artists": [
+        {
+          "name": "SEO Young Joo",
+          "url": "https://open.spotify.com/artist/2Fw753BgxYwcQTOkAfYJwH"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203310,
+      "name": "With you",
+      "url": "https://open.spotify.com/track/6E27Zrp2LLuvTIogVd9BI3"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV Show) (Live)",
+        "url": "https://open.spotify.com/album/6af1BRXMXeUySRV7TAj4Sv"
+      },
+      "artists": [
+        {
+          "name": "Seo YoungJu of Nerd Connection",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 203310,
+      "name": "With you (Live)",
+      "url": "https://open.spotify.com/track/3IYw8aTdhYp55e9WybqzAY"
     },
     {
       "album": {
@@ -5766,24 +6430,6 @@
       "duration_ms": 203310,
       "name": "With you - Live",
       "url": "https://open.spotify.com/track/3iPH5A2rCIvhUpVC5u43ro"
-    },
-    {
-      "album": {
-        "name": "Famous Singers, Pt. 6 (From the \"JTBC\" TV Show)",
-        "url": "https://open.spotify.com/album/6af1BRXMXeUySRV7TAj4Sv"
-      },
-      "artists": [
-        {
-          "name": "Seo YoungJu of Nerd Connection",
-          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
-        }
-      ],
-      "date_added": "2022-07-20",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 203310,
-      "name": "With you - Live",
-      "url": "https://open.spotify.com/track/3IYw8aTdhYp55e9WybqzAY"
     },
     {
       "album": {
@@ -5845,6 +6491,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/54GmwOtOIvtJO0RLJDryD3"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Shin",
+          "url": "https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw"
+        },
+        {
+          "name": "Jeong Hongil",
+          "url": "https://open.spotify.com/artist/1y3GBh1hqlykQBMUKY7n3b"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289578,
+      "name": "Workaholic",
+      "url": "https://open.spotify.com/track/12ZwkiFvAZZT3Y8VDv3Eke"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 7 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/1MQCUGd0kZXX6dNW7752Oq"
       },
@@ -5860,7 +6528,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 289578,
       "name": "Workaholic - Live",
       "url": "https://open.spotify.com/track/4qEoq8JWFmfEMRbtDfD4nH"
@@ -5925,6 +6593,28 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/3uI6iVfZArZydsUp7EdSQr"
+      },
+      "artists": [
+        {
+          "name": "No Brain",
+          "url": "https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7"
+        },
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286509,
+      "name": "You Crush on Me",
+      "url": "https://open.spotify.com/track/7rn4igYy9Uy2Qvnn6a6IUC"
+    },
+    {
+      "album": {
         "name": "Famous Singers, Pt. 8 (From the \"JTBC\" TV Show)",
         "url": "https://open.spotify.com/album/37MQI4JtWhPS0z9PHnRHOS"
       },
@@ -5940,7 +6630,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 286509,
       "name": "You Crush on Me - Live",
       "url": "https://open.spotify.com/track/07Ex3FEP6goHqmh8ziY4DZ"
@@ -6071,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "Famous Singers, Pt. 4 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/60m9xcWTb3taE6s982q4R8"
+      },
+      "artists": [
+        {
+          "name": "KIM JUN HWI",
+          "url": "https://open.spotify.com/artist/5LILBG8IlaLOFocsHEXWhk"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230373,
+      "name": "Youngdong Blues",
+      "url": "https://open.spotify.com/track/4URUX9xn3FNgyN5ZULrE7z"
+    },
+    {
+      "album": {
         "name": "Famous Singers (From the \"JTBC\" TV Show) Pt.4 [Live]",
         "url": "https://open.spotify.com/album/6rhJvqdArgebSATUzhGMou"
       },
@@ -6100,7 +6808,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 230373,
       "name": "Youngdong Blues - Live",
       "url": "https://open.spotify.com/track/0kZumsF8nepXi6A5CGlKgc"
@@ -7140,6 +7848,24 @@
       "duration_ms": 210133,
       "name": "\uc0b4\uc544\uc57c\uc9c0",
       "url": "https://open.spotify.com/track/3WUmVwJgf2MLENnf7Yv3FR"
+    },
+    {
+      "album": {
+        "name": "Famous Singers, Pt. 4 (From the \"JTBC\" TV SHOW)",
+        "url": "https://open.spotify.com/album/60m9xcWTb3taE6s982q4R8"
+      },
+      "artists": [
+        {
+          "name": "LEE SEUNG YOON",
+          "url": "https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "\uc544\ubaa8\ub974\ud30c\ud2f0",
+      "url": "https://open.spotify.com/track/7qD3d1CljZ41k3NaPnDEHA"
     },
     {
       "album": {

@@ -1,536 +1,1177 @@
 {
-  "2022-07-11": 617026,
-  "2022-07-12": 617061,
-  "2022-07-13": 617103,
-  "2022-07-14": 617119,
-  "2022-07-15": 617163,
-  "2022-07-16": 617213,
-  "2022-07-17": 617259,
-  "2022-07-18": 617290,
-  "2022-07-19": 617331,
-  "2022-07-20": 617359,
-  "2022-07-21": 617386,
-  "2022-07-22": 617400,
-  "2022-07-23": 617409,
-  "2022-07-24": 617439,
-  "2022-07-25": 617446,
-  "2022-07-26": 617465,
-  "2022-07-27": 617503,
-  "2022-07-28": 617533,
-  "2022-07-29": 617571,
-  "2022-07-30": 617639,
-  "2022-07-31": 617639,
-  "2022-08-01": 617652,
-  "2022-08-02": 617686,
-  "2022-08-03": 617686,
-  "2022-08-04": 617703,
-  "2022-08-05": 617720,
-  "2022-08-06": 617741,
-  "2022-08-07": 617769,
-  "2022-08-08": 617811,
-  "2022-08-09": 617811,
-  "2022-08-10": 617837,
-  "2022-08-11": 617855,
-  "2022-08-12": 617878,
-  "2022-08-13": 617912,
-  "2022-08-14": 617933,
-  "2022-08-15": 617981,
-  "2022-08-16": 618025,
-  "2022-08-17": 618060,
-  "2022-08-18": 618084,
-  "2022-08-19": 618118,
-  "2022-08-20": 618169,
-  "2022-08-21": 618211,
-  "2022-08-22": 618225,
-  "2022-08-23": 618259,
-  "2022-08-24": 618277,
-  "2022-08-25": 618317,
-  "2022-08-26": 618340,
-  "2022-08-27": 618357,
-  "2022-08-28": 618408,
-  "2022-08-29": 618430,
-  "2022-08-30": 618300,
-  "2022-08-31": 618024,
-  "2022-09-01": 617739,
-  "2022-09-02": 617411,
-  "2022-09-03": 616789,
-  "2022-09-04": 616545,
-  "2022-09-05": 616543,
-  "2022-09-06": 616552,
-  "2022-09-07": 616587,
-  "2022-09-09": 616644,
-  "2022-09-10": 616685,
-  "2022-09-11": 616711,
-  "2022-09-12": 616736,
-  "2022-09-13": 616754,
-  "2022-09-15": 616780,
-  "2022-09-16": 616807,
-  "2022-09-17": 616845,
-  "2022-09-18": 616840,
-  "2022-09-19": 616843,
-  "2022-09-20": 616873,
-  "2022-09-21": 616883,
-  "2022-09-22": 616924,
-  "2022-09-25": 617010,
-  "2022-09-26": 617039,
-  "2022-09-27": 617060,
-  "2022-09-28": 617099,
-  "2022-09-29": 617130,
-  "2022-09-30": 617167,
-  "2022-10-01": 617201,
-  "2022-10-02": 617253,
-  "2022-10-03": 617299,
-  "2022-10-04": 617322,
-  "2022-10-05": 617353,
-  "2022-10-06": 617359,
-  "2022-10-07": 617403,
-  "2022-10-08": 617436,
-  "2022-10-09": 617474,
-  "2022-10-10": 617486,
-  "2022-10-11": 617519,
-  "2022-10-12": 617537,
-  "2022-10-13": 617580,
-  "2022-10-14": 617622,
-  "2022-10-15": 617659,
-  "2022-10-16": 617692,
-  "2022-10-17": 617716,
-  "2022-10-18": 617749,
-  "2022-10-19": 617786,
-  "2022-10-20": 617818,
-  "2022-10-21": 617862,
-  "2022-10-22": 617897,
-  "2022-10-23": 617902,
-  "2022-10-24": 617904,
-  "2022-10-25": 617947,
-  "2022-10-26": 617984,
-  "2022-10-27": 618011,
-  "2022-10-28": 618062,
-  "2022-10-29": 618070,
-  "2022-10-30": 618098,
-  "2022-10-31": 618125,
-  "2022-11-01": 618148,
-  "2022-11-02": 618184,
-  "2022-11-03": 618210,
-  "2022-11-04": 618260,
-  "2022-11-05": 618305,
-  "2022-11-06": 618334,
-  "2022-11-07": 618364,
-  "2022-11-08": 618386,
-  "2022-11-09": 618423,
-  "2022-11-10": 618475,
-  "2022-11-11": 618504,
-  "2022-11-12": 618557,
-  "2022-11-13": 618571,
-  "2022-11-14": 618625,
-  "2022-11-15": 618681,
-  "2022-11-16": 618739,
-  "2022-11-17": 618778,
-  "2022-11-18": 618770,
-  "2022-11-19": 618748,
-  "2022-11-20": 618782,
-  "2022-11-21": 618825,
-  "2022-11-22": 618853,
-  "2022-11-23": 618905,
-  "2022-11-24": 619014,
-  "2022-11-25": 619120,
-  "2022-11-26": 619189,
-  "2022-11-27": 619234,
-  "2022-11-28": 619274,
-  "2022-11-29": 619307,
-  "2022-11-30": 619350,
-  "2022-12-01": 619383,
-  "2022-12-02": 619397,
-  "2022-12-03": 619466,
-  "2022-12-04": 619509,
-  "2022-12-05": 619537,
-  "2022-12-06": 619593,
-  "2022-12-07": 619621,
-  "2022-12-08": 619664,
-  "2022-12-09": 619689,
-  "2022-12-10": 619755,
-  "2022-12-11": 619810,
-  "2022-12-12": 619893,
-  "2022-12-13": 619914,
-  "2022-12-14": 619956,
-  "2022-12-15": 619996,
-  "2022-12-16": 620046,
-  "2022-12-17": 620097,
-  "2022-12-18": 620128,
-  "2022-12-19": 620160,
-  "2022-12-20": 620233,
-  "2022-12-21": 620233,
-  "2022-12-22": 620231,
-  "2022-12-24": 620289,
-  "2022-12-25": 620345,
-  "2022-12-26": 620372,
-  "2022-12-27": 620383,
-  "2022-12-28": 620425,
-  "2022-12-29": 620447,
-  "2022-12-30": 620499,
-  "2022-12-31": 620530,
-  "2023-01-01": 620582,
-  "2023-01-02": 620619,
-  "2023-01-03": 620640,
-  "2023-01-04": 620667,
-  "2023-01-05": 620713,
-  "2023-01-06": 620794,
-  "2023-01-07": 620863,
-  "2023-01-08": 620863,
-  "2023-01-09": 620903,
-  "2023-01-10": 620942,
-  "2023-01-11": 621009,
-  "2023-01-12": 621072,
-  "2023-01-13": 621112,
-  "2023-01-14": 621276,
-  "2023-01-15": 621274,
-  "2023-01-16": 621343,
-  "2023-01-17": 621388,
-  "2023-01-18": 621475,
-  "2023-01-19": 621572,
-  "2023-01-20": 621702,
-  "2023-01-21": 621794,
-  "2023-01-22": 621872,
-  "2023-01-23": 621948,
-  "2023-01-24": 622016,
-  "2023-01-25": 622084,
-  "2023-01-26": 622133,
-  "2023-01-27": 622188,
-  "2023-01-28": 622240,
-  "2023-01-29": 622290,
-  "2023-01-30": 622310,
-  "2023-01-31": 622310,
-  "2023-02-01": 622393,
-  "2023-02-02": 622440,
-  "2023-02-03": 622502,
-  "2023-02-04": 622554,
-  "2023-02-05": 622605,
-  "2023-02-06": 622658,
-  "2023-02-07": 622682,
-  "2023-02-08": 622736,
-  "2023-02-09": 622736,
-  "2023-02-10": 622781,
-  "2023-02-11": 622843,
-  "2023-02-12": 622949,
-  "2023-02-13": 623008,
-  "2023-02-14": 623008,
-  "2023-02-15": 623063,
-  "2023-02-16": 623099,
-  "2023-02-17": 623153,
-  "2023-02-18": 623237,
-  "2023-02-19": 623253,
-  "2023-02-20": 623266,
-  "2023-02-21": 623315,
-  "2023-02-22": 623352,
-  "2023-02-23": 623412,
-  "2023-02-24": 623456,
-  "2023-02-25": 623553,
-  "2023-02-26": 623555,
-  "2023-02-27": 623641,
-  "2023-02-28": 623641,
-  "2023-03-01": 623671,
-  "2023-03-02": 623728,
-  "2023-03-03": 623764,
-  "2023-03-04": 623794,
-  "2023-03-05": 623875,
-  "2023-03-06": 623875,
-  "2023-03-07": 623917,
-  "2023-03-08": 623935,
-  "2023-03-09": 623961,
-  "2023-03-10": 623985,
-  "2023-03-11": 624016,
-  "2023-03-12": 624058,
-  "2023-03-13": 624109,
-  "2023-03-14": 624164,
-  "2023-03-15": 624191,
-  "2023-03-16": 624191,
-  "2023-03-17": 624191,
-  "2023-03-18": 624265,
-  "2023-03-19": 624265,
-  "2023-03-20": 624351,
-  "2023-03-21": 624377,
-  "2023-03-22": 624411,
-  "2023-03-23": 624431,
-  "2023-03-24": 624431,
-  "2023-03-25": 624493,
-  "2023-03-26": 624547,
-  "2023-03-27": 624577,
-  "2023-03-28": 624591,
-  "2023-03-29": 624649,
-  "2023-03-30": 624732,
-  "2023-03-31": 624732,
-  "2023-04-01": 624785,
-  "2023-04-02": 624817,
-  "2023-04-03": 624858,
-  "2023-04-04": 624872,
-  "2023-04-05": 624917,
-  "2023-04-06": 624968,
-  "2023-04-07": 625014,
-  "2023-04-09": 625087,
-  "2023-04-10": 625123,
-  "2023-04-11": 625166,
-  "2023-04-12": 625166,
-  "2023-04-13": 625195,
-  "2023-04-14": 625231,
-  "2023-04-15": 625287,
-  "2023-04-16": 625321,
-  "2023-04-17": 625333,
-  "2023-04-18": 625360,
-  "2023-04-19": 625369,
-  "2023-04-20": 625417,
-  "2023-04-21": 625466,
-  "2023-04-22": 625527,
-  "2023-04-23": 625576,
-  "2023-04-24": 625627,
-  "2023-04-25": 625694,
-  "2023-04-26": 625735,
-  "2023-04-27": 625776,
-  "2023-04-28": 625838,
-  "2023-04-29": 625904,
-  "2023-04-30": 625966,
-  "2023-05-01": 626025,
-  "2023-05-02": 626055,
-  "2023-05-03": 626094,
-  "2023-05-04": 626146,
-  "2023-05-05": 626178,
-  "2023-05-06": 626242,
-  "2023-05-07": 626279,
-  "2023-05-08": 626322,
-  "2023-05-09": 626356,
-  "2023-05-10": 626400,
-  "2023-05-11": 626447,
-  "2023-05-12": 626478,
-  "2023-05-13": 626538,
-  "2023-05-14": 626589,
-  "2023-05-15": 626640,
-  "2023-05-16": 626699,
-  "2023-05-17": 626759,
-  "2023-05-18": 626831,
-  "2023-05-19": 626890,
-  "2023-05-20": 627015,
-  "2023-05-21": 627015,
-  "2023-05-22": 627015,
-  "2023-05-23": 627114,
-  "2023-05-24": 627201,
-  "2023-05-25": 627216,
-  "2023-05-26": 627241,
-  "2023-05-27": 627303,
-  "2023-05-28": 627339,
-  "2023-05-29": 627339,
-  "2023-05-30": 627434,
-  "2023-05-31": 627487,
-  "2023-06-01": 627547,
-  "2023-06-02": 627614,
-  "2023-06-03": 627671,
-  "2023-06-04": 627724,
-  "2023-06-05": 627763,
-  "2023-06-06": 627787,
-  "2023-06-07": 627843,
-  "2023-06-08": 627900,
-  "2023-06-09": 627969,
-  "2023-06-10": 627994,
-  "2023-06-11": 628052,
-  "2023-06-12": 628112,
-  "2023-06-13": 628122,
-  "2023-06-14": 628151,
-  "2023-06-15": 628202,
-  "2023-06-16": 628253,
-  "2023-06-17": 628294,
-  "2023-06-18": 628334,
-  "2023-06-19": 628359,
-  "2023-06-20": 628400,
-  "2023-06-21": 628458,
-  "2023-06-22": 628505,
-  "2023-06-23": 628545,
-  "2023-06-24": 628559,
-  "2023-06-25": 628601,
-  "2023-06-26": 628616,
-  "2023-06-27": 628616,
-  "2023-06-28": 628651,
-  "2023-06-29": 628714,
-  "2023-06-30": 628731,
-  "2023-07-01": 628817,
-  "2023-07-02": 628817,
-  "2023-07-03": 628834,
-  "2023-07-04": 628869,
-  "2023-07-05": 628901,
-  "2023-07-06": 628963,
-  "2023-07-07": 628963,
-  "2023-07-08": 628963,
-  "2023-07-09": 629064,
-  "2023-07-10": 629090,
-  "2023-07-11": 629102,
-  "2023-07-12": 629143,
-  "2023-07-13": 629183,
-  "2023-07-14": 629248,
-  "2023-07-15": 629254,
-  "2023-07-16": 629304,
-  "2023-07-17": 629346,
-  "2023-07-18": 629367,
-  "2023-07-19": 629407,
-  "2023-07-20": 629450,
-  "2023-07-21": 629496,
-  "2023-07-22": 629540,
-  "2023-07-23": 629588,
-  "2023-07-24": 629621,
-  "2023-07-25": 629652,
-  "2023-07-26": 629697,
-  "2023-07-27": 629734,
-  "2023-07-28": 629778,
-  "2023-07-29": 629825,
-  "2023-07-30": 629856,
-  "2023-07-31": 629886,
-  "2023-08-01": 629929,
-  "2023-08-02": 629969,
-  "2023-08-03": 630014,
-  "2023-08-04": 630072,
-  "2023-08-05": 630122,
-  "2023-08-06": 630208,
-  "2023-08-07": 630208,
-  "2023-08-08": 630233,
-  "2023-08-09": 630296,
-  "2023-08-10": 630341,
-  "2023-08-11": 630379,
-  "2023-08-12": 630379,
-  "2023-08-13": 630379,
-  "2023-08-14": 630550,
-  "2023-08-15": 630550,
-  "2023-08-16": 630550,
-  "2023-08-17": 630550,
-  "2023-08-18": 630550,
-  "2023-08-19": 630550,
-  "2023-08-20": 630795,
-  "2023-08-21": 630795,
-  "2023-08-22": 630866,
-  "2023-08-23": 630866,
-  "2023-08-24": 630866,
-  "2023-08-25": 630866,
-  "2023-08-26": 631083,
-  "2023-08-27": 631083,
-  "2023-08-28": 631121,
-  "2023-08-29": 631121,
-  "2023-08-30": 631121,
-  "2023-08-31": 631221,
-  "2023-09-01": 631250,
-  "2023-09-02": 631250,
-  "2023-09-03": 631356,
-  "2023-09-04": 631356,
-  "2023-09-05": 631356,
-  "2023-09-06": 631418,
-  "2023-09-07": 631418,
-  "2023-09-08": 631418,
-  "2023-09-09": 631418,
-  "2023-09-10": 631598,
-  "2023-09-11": 631598,
-  "2023-09-12": 631598,
-  "2023-09-13": 631598,
-  "2023-09-14": 631598,
-  "2023-09-15": 631598,
-  "2023-09-16": 631772,
-  "2023-09-17": 631772,
-  "2023-09-18": 631772,
-  "2023-09-19": 631900,
-  "2023-09-20": 631900,
-  "2023-09-21": 631900,
-  "2023-09-22": 631978,
-  "2023-09-23": 631978,
-  "2023-09-24": 631978,
-  "2023-09-25": 631978,
-  "2023-09-26": 632132,
-  "2023-09-27": 632132,
-  "2023-09-28": 632132,
-  "2023-09-29": 632132,
-  "2023-09-30": 632132,
-  "2023-10-01": 632132,
-  "2023-10-02": 632132,
-  "2023-10-03": 632132,
-  "2023-10-04": 632132,
-  "2023-10-05": 632132,
-  "2023-10-06": 632132,
-  "2023-10-07": 632132,
-  "2023-10-08": 632132,
-  "2023-10-09": 632132,
-  "2023-10-10": 632132,
-  "2023-10-11": 630913,
-  "2023-10-12": 630913,
-  "2023-10-13": 630913,
-  "2023-10-14": 630913,
-  "2023-10-15": 630913,
-  "2023-10-16": 630913,
-  "2023-10-17": 630913,
-  "2023-10-18": 630913,
-  "2023-10-19": 630913,
-  "2023-10-20": 630913,
-  "2023-10-21": 630913,
-  "2023-10-22": 630913,
-  "2023-10-23": 630913,
-  "2023-10-24": 630913,
-  "2023-10-25": 630913,
-  "2023-10-26": 630913,
-  "2023-10-27": 630913,
-  "2023-10-28": 630913,
-  "2023-10-29": 630913,
-  "2023-10-30": 630913,
-  "2023-10-31": 630913,
-  "2023-11-01": 630913,
-  "2023-11-02": 630913,
-  "2023-11-03": 630913,
-  "2023-11-04": 630913,
-  "2023-11-05": 630913,
-  "2023-11-06": 630913,
-  "2023-11-07": 630913,
-  "2023-11-08": 630913,
-  "2023-11-09": 630913,
-  "2023-11-10": 630913,
-  "2023-11-11": 628712,
-  "2023-11-12": 628712,
-  "2023-11-13": 628712,
-  "2023-11-14": 628712,
-  "2023-11-15": 628712,
-  "2023-11-16": 628712,
-  "2023-11-17": 628712,
-  "2023-11-18": 628712,
-  "2023-11-19": 628712,
-  "2023-11-20": 628712,
-  "2023-11-21": 628712,
-  "2023-11-22": 628712,
-  "2023-11-23": 628712,
-  "2023-11-24": 628712,
-  "2023-11-25": 628712,
-  "2023-11-26": 628712,
-  "2023-11-27": 628712,
-  "2023-11-28": 628712,
-  "2023-11-29": 628712,
-  "2023-11-30": 628712,
-  "2023-12-01": 628712,
-  "2023-12-02": 628712,
-  "2023-12-03": 628712,
-  "2023-12-04": 628712,
-  "2023-12-05": 628712,
-  "2023-12-06": 628712,
-  "2023-12-07": 628712,
-  "2023-12-08": 628712,
-  "2023-12-09": 628712,
-  "2023-12-10": 628712,
-  "2023-12-11": 628712,
-  "2023-12-12": 628712,
-  "2023-12-13": 628712,
-  "2023-12-14": 630205,
-  "2023-12-15": 630226,
-  "2023-12-16": 630282,
-  "2023-12-17": 630329,
-  "2023-12-18": 630366,
-  "2023-12-19": 630410,
-  "2023-12-20": 630428,
-  "2023-12-21": 630479,
-  "2023-12-22": 630520,
-  "2023-12-23": 630560,
-  "2023-12-24": 630592,
-  "2023-12-25": 630633,
-  "2023-12-26": 630667,
-  "2023-12-27": 630723,
-  "2023-12-30": 630795,
-  "2023-12-31": 630812,
-  "2024-01-01": 630837,
-  "2024-01-02": 630860,
-  "2024-01-03": 630894
+  "2024-01-17": 623736,
+  "date_first_scraped": "2022-07-11",
+  "description": "This is BIGBANG. The essential tracks, all in one playlist.",
+  "name": "This Is BIGBANG",
+  "tracks": [
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242746,
+      "name": "A Fool Of Tears",
+      "url": "https://open.spotify.com/track/4CHpoZ8tK0Xagah6Lcey0C"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 206346,
+      "name": "A Good Man",
+      "url": "https://open.spotify.com/track/72NpoBNUwJFDHMbyV2iMYv"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222186,
+      "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
+      "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233320,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Always - Japanese Version",
+      "url": "https://open.spotify.com/track/06NMu4JoNGm61R4y2k53hR"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233400,
+      "name": "Baby Baby - Japanese Version",
+      "url": "https://open.spotify.com/track/0DQ8eRAcGG1iUIdqk6RFhq"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236817,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 169429,
+      "name": "BAE BAE",
+      "url": "https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "album": {
+        "name": "BEAUTIFUL HANGOVER",
+        "url": "https://open.spotify.com/album/0T3kfOUAUkhzvrPUm6sxxA"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223946,
+      "name": "BEAUTIFUL HANGOVER",
+      "url": "https://open.spotify.com/track/1Z9metSk7L35CWSbVzoP2w"
+    },
+    {
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180533,
+      "name": "Bingle Bingle (\ube59\uae00\ube59\uae00)",
+      "url": "https://open.spotify.com/track/5nEqDf0voYu56KiHf7cfDe"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233098,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/4LOLvDtzykDC7y9WehFoOi"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219946,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-23",
+      "duration_ms": 194280,
+      "name": "Dirty Cash",
+      "url": "https://open.spotify.com/track/0yZKieKXhoehUMVpYiGwWj"
+    },
+    {
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/6whEx8LRxGMFj0oqXP0vX3"
+    },
+    {
+      "album": {
+        "name": "BIGBANG10 THE CONCERT 0.TO.10 FINAL IN SEOUL",
+        "url": "https://open.spotify.com/album/6ep57xzNzxOuSCIw4iEfIv"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-06",
+      "duration_ms": 285685,
+      "name": "EYES, NOSE, LIPS - Live",
+      "url": "https://open.spotify.com/track/6nrgWCby7MpEpbcRJxRRZ9"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230573,
+      "name": "Fantastic Baby",
+      "url": "https://open.spotify.com/track/26eV0R7nbqtlzh316ncU99"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/7p5rDiIXiv1IcEMThKwsaM"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 231626,
+      "name": "FANTASTIC BABY - Japanese ver.",
+      "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
+    },
+    {
+      "album": {
+        "name": "FLOWER ROAD",
+        "url": "https://open.spotify.com/album/75LBd3Qv8p2DqqGk3oykdx"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228631,
+      "name": "FLOWER ROAD",
+      "url": "https://open.spotify.com/track/5tmKSkKHNVrxh4Fctj2TdS"
+    },
+    {
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241186,
+      "name": "Foolish Love",
+      "url": "https://open.spotify.com/track/3zXL187ljM6hMO5PdhmjFk"
+    },
+    {
+      "album": {
+        "name": "Bigbang 03",
+        "url": "https://open.spotify.com/album/0UewBgAMHugPdwS4Utk8SH"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "Park Bom",
+          "url": "https://open.spotify.com/artist/3uHb6dRazmcaT15bMexUtt"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218618,
+      "name": "Forever With U (Feat. Park Bom)",
+      "url": "https://open.spotify.com/track/7czVcA9IUsAy61QdQaX2Tw"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231748,
+      "name": "FXXK IT",
+      "url": "https://open.spotify.com/track/3lYvepDz6yYj29z7e4r5z0"
+    },
+    {
+      "album": {
+        "name": "KPOP - JPOP Made In Korea Vol. 2",
+        "url": "https://open.spotify.com/album/4PRvd9TvkVDwMnaYu6qHUl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198912,
+      "name": "Gara Gara Go!!",
+      "url": "https://open.spotify.com/track/5hFugfSDVfW2ClT3tXlBfe"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1R1wuzQxZhghrjJZvqReyW"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256359,
+      "name": "Haru Haru",
+      "url": "https://open.spotify.com/track/1L4d2lafz1odpIMe8va21X"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264215,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47643,
+      "name": "Intro (Alive)",
+      "url": "https://open.spotify.com/track/4G1DVtcCpyzcA3tBjOvF38"
+    },
+    {
+      "album": {
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "KOE WO KIKASETE - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/3IBZcTeLOvt18WzVOjLj5G"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179586,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/62laTbC1RWyE3IhsNEbvE9"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279655,
+      "name": "LAST DANCE",
+      "url": "https://open.spotify.com/track/7ijWcf4FsoxoyPK4B9WGp6"
+    },
+    {
+      "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "Last Farewell",
+      "url": "https://open.spotify.com/track/7KDHGgYt5fF2Lh9FxMbVML"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229120,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh"
+    },
+    {
+      "album": {
+        "name": "2NE1 1st Mini Album",
+        "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        },
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
+    },
+    {
+      "album": {
+        "name": "Lollipop Pt.2",
+        "url": "https://open.spotify.com/album/4VPoZSOEnpfUu36fILrqA1"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 200248,
+      "name": "Lollipop Part.2",
+      "url": "https://open.spotify.com/track/7jJnHoPel2hxKFlcLgTmoJ"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219370,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231816,
+      "name": "Love Dust (\uc0ac\ub791 \uba3c\uc9c0)",
+      "url": "https://open.spotify.com/track/6mTFH5acKqe2fpxuFmiDjr"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225813,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/784qSLhmIjbc37plSfaPzF"
+    },
+    {
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231293,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0c7QMo952Ga2qAJMdfEcrb"
+    },
+    {
+      "album": {
+        "name": "THE BEST OF BIGBANG 2006-2014",
+        "url": "https://open.spotify.com/album/1JwbdXLKJVffgSW95WcTUp"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234320,
+      "name": "Ms.LIAR",
+      "url": "https://open.spotify.com/track/5crgHI4qrCm8ayPms3EGhS"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 231600,
+      "name": "My Girl (Taeyang Solo)",
+      "url": "https://open.spotify.com/track/5MlW47ybnUooaDlfZk5RP0"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232933,
+      "name": "My Heaven",
+      "url": "https://open.spotify.com/track/6M78En84cFYQxdYABC2fZO"
+    },
+    {
+      "album": {
+        "name": "2009 BIGBANG LIVE CONCERT : BIG SHOW",
+        "url": "https://open.spotify.com/album/1jEFohZ79xLBF0UxwBdi2V"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 198880,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5gE2yPrsKkVIQ2WXzEKJTF"
+    },
+    {
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 231480,
+      "name": "Oh Ma Baby",
+      "url": "https://open.spotify.com/track/27vEqY0DyEDGXVFIb66kuL"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/0NB6IIwQeRDzNFCU22LQto"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "No Brain",
+          "url": "https://open.spotify.com/artist/6keuCA49b9am8lisSodCh7"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 209920,
+      "name": "Oh My Friend",
+      "url": "https://open.spotify.com/track/3qtZyPlAqtNYVoN1ECWNJy"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-05",
+      "duration_ms": 224920,
+      "name": "Oh, Ah, Oh",
+      "url": "https://open.spotify.com/track/64qFuih3SyIO4AYGxlsUPa"
+    },
+    {
+      "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-07",
+      "duration_ms": 237512,
+      "name": "SOBER",
+      "url": "https://open.spotify.com/track/3gUSmSBeeYsSMWECJcQW8w"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213640,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/4UIKBrkH4ZKI2glKwQFDSV"
+    },
+    {
+      "album": {
+        "name": "Special Edition 'Still Alive'",
+        "url": "https://open.spotify.com/album/4tsRYh3Fat8iwTL0RkLX6X"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198533,
+      "name": "Still Alive",
+      "url": "https://open.spotify.com/track/7DUl32UdrwpCXgs7vVXJF2"
+    },
+    {
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188369,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234786,
+      "name": "Stupid Liar",
+      "url": "https://open.spotify.com/track/0ZHfjGYU26P7B0j1MmHeG8"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "Sunset Glow",
+      "url": "https://open.spotify.com/track/3qHBjPdFZeS0tfXywAxOKq"
+    },
+    {
+      "album": {
+        "name": "Tell Me Goodbye",
+        "url": "https://open.spotify.com/album/5Nmqr0lMATwA9XzOoLYHJX"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/3GXiHK4P3hdSuxEdWVo2rg"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Vol. 1",
+        "url": "https://open.spotify.com/album/3iTETURuyuUJByvQOLoydV"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "This Love (G-Dragon Solo)",
+      "url": "https://open.spotify.com/track/2BLYXxyrBvCCrzvtVFtPWc"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 222413,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/5BGFEihEqSVBPWICqVnPIU"
+    },
+    {
+      "album": {
+        "name": "BIGBANG Special Edition",
+        "url": "https://open.spotify.com/album/2fpQB21ER6ETvnfADPdaHl"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223786,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/2G8HyURZh9SBNuCzllz8Fu"
+    },
+    {
+      "album": {
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224053,
+      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
+    },
+    {
+      "album": {
+        "name": "BigBang First Single",
+        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238293,
+      "name": "We belong together",
+      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
+    },
+    {
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
+    },
+    {
+      "album": {
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
+    },
+    {
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/2W66jOC3qqVZvLn9foXXbg"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210240,
+      "name": "Wonderful",
+      "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
+    },
+    {
+      "album": {
+        "name": "BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN + BIGBANG10 THE MOVIE BIGBANG MADE",
+        "url": "https://open.spotify.com/album/4vmVVnvt5RoW21rAADx77C"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220186,
+      "name": "\u30ac\u30e9\u30ac\u30e9 GO!! - BIGBANG10 THE CONCERT : 0.TO.10 IN JAPAN",
+      "url": "https://open.spotify.com/track/4SWHjD4dAeAXH195K88WE3"
+    },
+    {
+      "album": {
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2MKBFK"
 }

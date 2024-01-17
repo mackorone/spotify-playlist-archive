@@ -1,73 +1,243 @@
 {
-  "2023-10-23": 1022,
-  "2023-10-24": 1027,
-  "2023-10-25": 1033,
-  "2023-10-26": 1038,
-  "2023-10-27": 1040,
-  "2023-10-28": 1040,
-  "2023-10-29": 1043,
-  "2023-10-30": 1048,
-  "2023-10-31": 1048,
-  "2023-11-01": 1049,
-  "2023-11-02": 1051,
-  "2023-11-03": 1052,
-  "2023-11-04": 1054,
-  "2023-11-05": 1056,
-  "2023-11-06": 1059,
-  "2023-11-07": 1059,
-  "2023-11-08": 1058,
-  "2023-11-09": 1058,
-  "2023-11-10": 1059,
-  "2023-11-11": 1058,
-  "2023-11-12": 1060,
-  "2023-11-13": 1062,
-  "2023-11-14": 1063,
-  "2023-11-15": 1063,
-  "2023-11-16": 1067,
-  "2023-11-17": 1071,
-  "2023-11-18": 1071,
-  "2023-11-19": 1075,
-  "2023-11-20": 1074,
-  "2023-11-21": 1077,
-  "2023-11-22": 1079,
-  "2023-11-23": 1079,
-  "2023-11-24": 1082,
-  "2023-11-25": 1086,
-  "2023-11-26": 1086,
-  "2023-11-27": 1087,
-  "2023-11-28": 1090,
-  "2023-11-29": 1092,
-  "2023-11-30": 1092,
-  "2023-12-01": 1099,
-  "2023-12-02": 1101,
-  "2023-12-03": 1100,
-  "2023-12-04": 1105,
-  "2023-12-05": 1105,
-  "2023-12-06": 1107,
-  "2023-12-07": 1108,
-  "2023-12-08": 1109,
-  "2023-12-09": 1112,
-  "2023-12-10": 1114,
-  "2023-12-11": 1116,
-  "2023-12-12": 1116,
-  "2023-12-13": 1116,
-  "2023-12-14": 1115,
-  "2023-12-15": 1114,
-  "2023-12-16": 1117,
-  "2023-12-17": 1117,
-  "2023-12-18": 1116,
-  "2023-12-19": 1117,
-  "2023-12-20": 1117,
-  "2023-12-21": 1117,
-  "2023-12-22": 1116,
-  "2023-12-23": 1116,
-  "2023-12-24": 1116,
-  "2023-12-25": 1117,
-  "2023-12-26": 1117,
-  "2023-12-27": 1117,
-  "2023-12-30": 1119,
-  "2023-12-31": 1120,
-  "2024-01-01": 1121,
-  "2024-01-02": 1122,
-  "2024-01-03": 1121
+  "2024-01-17": 1124,
+  "date_first_scraped": "2023-10-23",
+  "description": "Enjoy SiM's newest album \"PLAYDEAD\" along with MAH's Video interview!! Interview by TAKUTO ONUKI ",
+  "name": "Liner Voice+ SiM\u300ePLAYDEAD\u300f",
+  "tracks": [
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210919,
+      "name": "BBT",
+      "url": "https://open.spotify.com/track/4rLjFp0NP9HZMT2p6onyEV"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137065,
+      "name": "Die Alone",
+      "url": "https://open.spotify.com/track/1rQ8Gwylv888X4jTodgvIi"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196199,
+      "name": "DO THE DANCE",
+      "url": "https://open.spotify.com/track/1dyxnU4Me5DETPSXkNpaDl"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217972,
+      "name": "HiDE and SEEK",
+      "url": "https://open.spotify.com/track/2tyBPxSlHbkZLi1P3b2WLA"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232359,
+      "name": "KiSS OF DEATH",
+      "url": "https://open.spotify.com/track/4ZSB6whqtb9tEJfU0DXnWN"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161252,
+      "name": "Not So Weak",
+      "url": "https://open.spotify.com/track/5WMsNtXpdoPRIJYKnmAG1H"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120985,
+      "name": "PLAYDEAD",
+      "url": "https://open.spotify.com/track/1c4hhwfHiqpjYXDO9tLXOf"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234159,
+      "name": "RED",
+      "url": "https://open.spotify.com/track/0YBIcDTmYZP3jxcO3L2AYv"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "Sad Song",
+      "url": "https://open.spotify.com/track/5exqWbhEoSxjx8S6YgVGF1"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210945,
+      "name": "SWEET DREAMS",
+      "url": "https://open.spotify.com/track/2nWm1F041PLDHAFcKTiuf1"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254719,
+      "name": "The Rumbling - Orchestra Ver.",
+      "url": "https://open.spotify.com/track/46rDT68xwKoLBb28j7NilI"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161519,
+      "name": "TOO LATE",
+      "url": "https://open.spotify.com/track/2mq9wYgx1HSQCNM1CNj3p9"
+    },
+    {
+      "album": {
+        "name": "PLAYDEAD",
+        "url": "https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271265,
+      "name": "UNDER THE TREE - Full Length Ver.",
+      "url": "https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWUAK58Yov6Re"
 }

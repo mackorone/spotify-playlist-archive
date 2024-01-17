@@ -1,735 +1,2731 @@
 {
-  "2021-12-25": 718768,
-  "2021-12-26": 718853,
-  "2021-12-27": 719018,
-  "2021-12-28": 719020,
-  "2021-12-29": 719145,
-  "2021-12-30": 719204,
-  "2021-12-31": 719313,
-  "2022-01-01": 719581,
-  "2022-01-02": 719629,
-  "2022-01-03": 719687,
-  "2022-01-04": 719791,
-  "2022-01-05": 719854,
-  "2022-01-06": 719925,
-  "2022-01-07": 719995,
-  "2022-01-08": 720134,
-  "2022-01-09": 720137,
-  "2022-01-10": 720249,
-  "2022-01-11": 720310,
-  "2022-01-12": 720391,
-  "2022-01-13": 720468,
-  "2022-01-14": 720554,
-  "2022-01-15": 720791,
-  "2022-01-16": 720799,
-  "2022-01-17": 721019,
-  "2022-01-18": 721027,
-  "2022-01-19": 721082,
-  "2022-01-20": 721179,
-  "2022-01-21": 721262,
-  "2022-01-22": 721372,
-  "2022-01-23": 721517,
-  "2022-01-24": 721617,
-  "2022-01-25": 721677,
-  "2022-01-26": 721770,
-  "2022-01-27": 721870,
-  "2022-01-28": 721962,
-  "2022-01-29": 722072,
-  "2022-01-30": 722205,
-  "2022-01-31": 722315,
-  "2022-02-01": 722392,
-  "2022-02-02": 722478,
-  "2022-02-03": 722545,
-  "2022-02-04": 722621,
-  "2022-02-05": 722717,
-  "2022-02-06": 722815,
-  "2022-02-07": 722910,
-  "2022-02-08": 722991,
-  "2022-02-09": 723098,
-  "2022-02-10": 723191,
-  "2022-02-11": 723295,
-  "2022-02-12": 723404,
-  "2022-02-13": 723512,
-  "2022-02-14": 723644,
-  "2022-02-15": 723742,
-  "2022-02-16": 723799,
-  "2022-02-17": 723786,
-  "2022-02-18": 723841,
-  "2022-02-19": 723918,
-  "2022-02-20": 724024,
-  "2022-02-21": 724141,
-  "2022-02-22": 724207,
-  "2022-02-23": 724259,
-  "2022-02-24": 724320,
-  "2022-02-25": 724396,
-  "2022-02-26": 724480,
-  "2022-02-27": 724659,
-  "2022-02-28": 724659,
-  "2022-03-01": 724702,
-  "2022-03-02": 724765,
-  "2022-03-03": 724855,
-  "2022-03-04": 724937,
-  "2022-03-05": 725037,
-  "2022-03-06": 725157,
-  "2022-03-07": 725247,
-  "2022-03-08": 725303,
-  "2022-03-09": 725365,
-  "2022-03-10": 725448,
-  "2022-03-11": 725514,
-  "2022-03-12": 725620,
-  "2022-03-13": 725765,
-  "2022-03-14": 725864,
-  "2022-03-15": 725922,
-  "2022-03-16": 725999,
-  "2022-03-17": 726087,
-  "2022-03-18": 726189,
-  "2022-03-19": 726255,
-  "2022-03-20": 726255,
-  "2022-03-21": 726448,
-  "2022-03-22": 726514,
-  "2022-03-23": 726596,
-  "2022-03-24": 726678,
-  "2022-03-25": 726754,
-  "2022-03-26": 726837,
-  "2022-03-27": 726944,
-  "2022-03-28": 727025,
-  "2022-03-30": 727130,
-  "2022-03-31": 727218,
-  "2022-04-01": 727290,
-  "2022-04-02": 727397,
-  "2022-04-03": 727528,
-  "2022-04-04": 727623,
-  "2022-04-05": 727718,
-  "2022-04-06": 727829,
-  "2022-04-07": 727924,
-  "2022-04-08": 728036,
-  "2022-04-09": 728163,
-  "2022-04-10": 728424,
-  "2022-04-11": 728497,
-  "2022-04-12": 728507,
-  "2022-04-13": 728574,
-  "2022-04-14": 728670,
-  "2022-04-15": 728755,
-  "2022-04-16": 728876,
-  "2022-04-17": 728994,
-  "2022-04-18": 729124,
-  "2022-04-19": 729214,
-  "2022-04-20": 729303,
-  "2022-04-21": 729401,
-  "2022-04-22": 729638,
-  "2022-04-23": 729800,
-  "2022-04-24": 729962,
-  "2022-04-25": 730072,
-  "2022-04-26": 730167,
-  "2022-04-27": 730297,
-  "2022-04-28": 730379,
-  "2022-04-29": 730565,
-  "2022-04-30": 730703,
-  "2022-05-01": 730847,
-  "2022-05-02": 730847,
-  "2022-05-03": 730946,
-  "2022-05-04": 731029,
-  "2022-05-05": 731111,
-  "2022-05-06": 731223,
-  "2022-05-07": 731358,
-  "2022-05-08": 731525,
-  "2022-05-09": 731544,
-  "2022-05-10": 731634,
-  "2022-05-11": 731704,
-  "2022-05-12": 731790,
-  "2022-05-13": 731891,
-  "2022-05-14": 732008,
-  "2022-05-15": 732139,
-  "2022-05-16": 732219,
-  "2022-05-17": 732285,
-  "2022-05-18": 732353,
-  "2022-05-19": 732449,
-  "2022-05-20": 732549,
-  "2022-05-21": 732759,
-  "2022-05-22": 732759,
-  "2022-05-23": 732873,
-  "2022-05-24": 732943,
-  "2022-05-25": 733022,
-  "2022-05-26": 733096,
-  "2022-05-27": 733165,
-  "2022-05-28": 733273,
-  "2022-05-29": 733388,
-  "2022-05-30": 733511,
-  "2022-05-31": 733623,
-  "2022-06-01": 733748,
-  "2022-06-02": 733754,
-  "2022-06-03": 733872,
-  "2022-06-04": 734018,
-  "2022-06-05": 734152,
-  "2022-06-06": 734244,
-  "2022-06-07": 734359,
-  "2022-06-08": 734646,
-  "2022-06-09": 734745,
-  "2022-06-10": 734878,
-  "2022-06-11": 734989,
-  "2022-06-12": 735117,
-  "2022-06-13": 735213,
-  "2022-06-14": 735310,
-  "2022-06-15": 735404,
-  "2022-06-16": 735495,
-  "2022-06-17": 735593,
-  "2022-06-18": 735713,
-  "2022-06-19": 735951,
-  "2022-06-20": 735951,
-  "2022-06-21": 736091,
-  "2022-06-22": 736290,
-  "2022-06-23": 736290,
-  "2022-06-24": 736401,
-  "2022-06-25": 736529,
-  "2022-06-26": 736683,
-  "2022-06-27": 736799,
-  "2022-06-28": 736799,
-  "2022-06-29": 737002,
-  "2022-06-30": 737104,
-  "2022-07-01": 737188,
-  "2022-07-02": 737317,
-  "2022-07-03": 737477,
-  "2022-07-04": 737593,
-  "2022-07-05": 737710,
-  "2022-07-06": 737811,
-  "2022-07-07": 737915,
-  "2022-07-08": 738029,
-  "2022-07-09": 738164,
-  "2022-07-10": 738339,
-  "2022-07-11": 738474,
-  "2022-07-12": 738563,
-  "2022-07-13": 738683,
-  "2022-07-14": 738772,
-  "2022-07-15": 738913,
-  "2022-07-16": 739050,
-  "2022-07-17": 739218,
-  "2022-07-18": 739342,
-  "2022-07-19": 739439,
-  "2022-07-20": 739534,
-  "2022-07-21": 739617,
-  "2022-07-22": 739758,
-  "2022-07-23": 739891,
-  "2022-07-24": 740014,
-  "2022-07-25": 740154,
-  "2022-07-26": 740257,
-  "2022-07-27": 740363,
-  "2022-07-28": 740447,
-  "2022-07-29": 740558,
-  "2022-07-30": 740839,
-  "2022-07-31": 740839,
-  "2022-08-01": 740967,
-  "2022-08-02": 741164,
-  "2022-08-03": 741164,
-  "2022-08-04": 741261,
-  "2022-08-05": 741367,
-  "2022-08-06": 741486,
-  "2022-08-07": 741613,
-  "2022-08-08": 741714,
-  "2022-08-09": 741825,
-  "2022-08-10": 741925,
-  "2022-08-11": 742019,
-  "2022-08-12": 742139,
-  "2022-08-13": 742238,
-  "2022-08-14": 742401,
-  "2022-08-15": 742496,
-  "2022-08-16": 742566,
-  "2022-08-17": 742666,
-  "2022-08-18": 742767,
-  "2022-08-19": 742864,
-  "2022-08-20": 742963,
-  "2022-08-21": 743099,
-  "2022-08-22": 743198,
-  "2022-08-23": 743271,
-  "2022-08-24": 743351,
-  "2022-08-25": 743473,
-  "2022-08-26": 743598,
-  "2022-08-27": 743725,
-  "2022-08-28": 743850,
-  "2022-08-29": 743963,
-  "2022-08-30": 744045,
-  "2022-08-31": 744111,
-  "2022-09-01": 744143,
-  "2022-09-02": 744242,
-  "2022-09-03": 744279,
-  "2022-09-04": 744374,
-  "2022-09-05": 744491,
-  "2022-09-06": 744585,
-  "2022-09-07": 744701,
-  "2022-09-09": 744911,
-  "2022-09-10": 745021,
-  "2022-09-11": 745200,
-  "2022-09-12": 745315,
-  "2022-09-13": 745399,
-  "2022-09-15": 745598,
-  "2022-09-16": 745703,
-  "2022-09-17": 745800,
-  "2022-09-18": 745920,
-  "2022-09-19": 746039,
-  "2022-09-20": 746108,
-  "2022-09-21": 746214,
-  "2022-09-22": 746337,
-  "2022-09-23": 746417,
-  "2022-09-24": 746521,
-  "2022-09-25": 746674,
-  "2022-09-26": 746769,
-  "2022-09-27": 746852,
-  "2022-09-28": 746924,
-  "2022-09-29": 747050,
-  "2022-09-30": 747180,
-  "2022-10-01": 747312,
-  "2022-10-02": 747421,
-  "2022-10-03": 747538,
-  "2022-10-04": 747626,
-  "2022-10-05": 747713,
-  "2022-10-06": 747827,
-  "2022-10-07": 747939,
-  "2022-10-08": 748039,
-  "2022-10-09": 748231,
-  "2022-10-10": 748273,
-  "2022-10-11": 748347,
-  "2022-10-12": 748448,
-  "2022-10-13": 748538,
-  "2022-10-14": 748635,
-  "2022-10-15": 748769,
-  "2022-10-16": 748921,
-  "2022-10-17": 749018,
-  "2022-10-18": 749103,
-  "2022-10-19": 749196,
-  "2022-10-20": 749288,
-  "2022-10-21": 749401,
-  "2022-10-22": 749542,
-  "2022-10-23": 749656,
-  "2022-10-24": 749737,
-  "2022-10-25": 749811,
-  "2022-10-26": 749897,
-  "2022-10-27": 750012,
-  "2022-10-28": 750105,
-  "2022-10-29": 750194,
-  "2022-10-30": 750317,
-  "2022-10-31": 750426,
-  "2022-11-01": 750504,
-  "2022-11-02": 750577,
-  "2022-11-03": 750663,
-  "2022-11-04": 750768,
-  "2022-11-05": 750895,
-  "2022-11-06": 751012,
-  "2022-11-07": 751143,
-  "2022-11-08": 751206,
-  "2022-11-09": 751313,
-  "2022-11-10": 751435,
-  "2022-11-11": 751509,
-  "2022-11-12": 751647,
-  "2022-11-13": 751742,
-  "2022-11-14": 751833,
-  "2022-11-15": 751933,
-  "2022-11-16": 752028,
-  "2022-11-17": 752108,
-  "2022-11-18": 752138,
-  "2022-11-19": 752151,
-  "2022-11-20": 752247,
-  "2022-11-21": 752379,
-  "2022-11-22": 752503,
-  "2022-11-23": 752451,
-  "2022-11-24": 752821,
-  "2022-11-25": 752999,
-  "2022-11-26": 753110,
-  "2022-11-27": 753239,
-  "2022-11-28": 753350,
-  "2022-11-29": 753414,
-  "2022-11-30": 753502,
-  "2022-12-01": 753596,
-  "2022-12-02": 753652,
-  "2022-12-03": 753800,
-  "2022-12-04": 753919,
-  "2022-12-05": 754055,
-  "2022-12-06": 754127,
-  "2022-12-07": 754235,
-  "2022-12-08": 754335,
-  "2022-12-09": 754463,
-  "2022-12-10": 754566,
-  "2022-12-11": 754703,
-  "2022-12-12": 754817,
-  "2022-12-13": 754922,
-  "2022-12-14": 754999,
-  "2022-12-15": 755096,
-  "2022-12-16": 755174,
-  "2022-12-17": 755300,
-  "2022-12-18": 755410,
-  "2022-12-19": 755498,
-  "2022-12-20": 755690,
-  "2022-12-21": 755690,
-  "2022-12-22": 755753,
-  "2022-12-24": 755986,
-  "2022-12-25": 756085,
-  "2022-12-26": 756175,
-  "2022-12-27": 756278,
-  "2022-12-28": 756399,
-  "2022-12-29": 756558,
-  "2022-12-30": 756718,
-  "2022-12-31": 756889,
-  "2023-01-01": 757068,
-  "2023-01-02": 757221,
-  "2023-01-03": 757331,
-  "2023-01-04": 757443,
-  "2023-01-05": 757543,
-  "2023-01-06": 757686,
-  "2023-01-07": 757913,
-  "2023-01-08": 757971,
-  "2023-01-09": 758104,
-  "2023-01-10": 758216,
-  "2023-01-11": 758322,
-  "2023-01-12": 758428,
-  "2023-01-13": 758576,
-  "2023-01-14": 758835,
-  "2023-01-15": 758877,
-  "2023-01-16": 758989,
-  "2023-01-17": 759096,
-  "2023-01-18": 759165,
-  "2023-01-19": 759277,
-  "2023-01-20": 759408,
-  "2023-01-21": 759547,
-  "2023-01-22": 759701,
-  "2023-01-23": 759799,
-  "2023-01-24": 759905,
-  "2023-01-25": 759998,
-  "2023-01-26": 760100,
-  "2023-01-27": 760218,
-  "2023-01-28": 760335,
-  "2023-01-29": 760486,
-  "2023-01-30": 760606,
-  "2023-01-31": 760606,
-  "2023-02-01": 760820,
-  "2023-02-02": 760907,
-  "2023-02-03": 761020,
-  "2023-02-04": 761150,
-  "2023-02-05": 761304,
-  "2023-02-06": 761428,
-  "2023-02-07": 761560,
-  "2023-02-08": 761811,
-  "2023-02-09": 761811,
-  "2023-02-10": 761930,
-  "2023-02-11": 762114,
-  "2023-02-12": 762395,
-  "2023-02-13": 762583,
-  "2023-02-14": 762583,
-  "2023-02-15": 762726,
-  "2023-02-16": 762856,
-  "2023-02-17": 762985,
-  "2023-02-18": 763316,
-  "2023-02-19": 763346,
-  "2023-02-20": 763466,
-  "2023-02-21": 763571,
-  "2023-02-22": 763654,
-  "2023-02-23": 763766,
-  "2023-02-24": 763882,
-  "2023-02-25": 764045,
-  "2023-02-26": 764166,
-  "2023-02-27": 764407,
-  "2023-02-28": 764407,
-  "2023-03-01": 764522,
-  "2023-03-02": 764654,
-  "2023-03-03": 764793,
-  "2023-03-04": 764929,
-  "2023-03-05": 765171,
-  "2023-03-06": 765171,
-  "2023-03-07": 765251,
-  "2023-03-08": 765340,
-  "2023-03-09": 765448,
-  "2023-03-10": 765576,
-  "2023-03-11": 765735,
-  "2023-03-12": 765888,
-  "2023-03-13": 766000,
-  "2023-03-14": 766093,
-  "2023-03-15": 766194,
-  "2023-03-16": 766294,
-  "2023-03-17": 766294,
-  "2023-03-18": 766525,
-  "2023-03-19": 766621,
-  "2023-03-20": 766747,
-  "2023-03-21": 766870,
-  "2023-03-22": 766955,
-  "2023-03-23": 767051,
-  "2023-03-24": 767051,
-  "2023-03-25": 767279,
-  "2023-03-26": 767434,
-  "2023-03-27": 767563,
-  "2023-03-28": 767661,
-  "2023-03-29": 767773,
-  "2023-03-30": 767978,
-  "2023-03-31": 767978,
-  "2023-04-01": 768087,
-  "2023-04-02": 768217,
-  "2023-04-03": 768356,
-  "2023-04-04": 768455,
-  "2023-04-05": 768558,
-  "2023-04-06": 768690,
-  "2023-04-07": 768816,
-  "2023-04-09": 769117,
-  "2023-04-10": 769244,
-  "2023-04-11": 769467,
-  "2023-04-12": 769467,
-  "2023-04-13": 769572,
-  "2023-04-14": 769683,
-  "2023-04-15": 769816,
-  "2023-04-16": 769960,
-  "2023-04-17": 770068,
-  "2023-04-18": 770161,
-  "2023-04-19": 770259,
-  "2023-04-20": 770365,
-  "2023-04-21": 770482,
-  "2023-04-22": 770869,
-  "2023-04-23": 771076,
-  "2023-04-24": 771246,
-  "2023-04-25": 771402,
-  "2023-04-26": 771531,
-  "2023-04-27": 771657,
-  "2023-04-28": 771766,
-  "2023-04-29": 771942,
-  "2023-04-30": 772101,
-  "2023-05-01": 772222,
-  "2023-05-02": 772402,
-  "2023-05-03": 772516,
-  "2023-05-04": 772630,
-  "2023-05-05": 772774,
-  "2023-05-06": 772911,
-  "2023-05-07": 773072,
-  "2023-05-08": 773204,
-  "2023-05-09": 773327,
-  "2023-05-10": 773426,
-  "2023-05-11": 773556,
-  "2023-05-12": 773667,
-  "2023-05-13": 773815,
-  "2023-05-14": 773959,
-  "2023-05-15": 774079,
-  "2023-05-16": 774169,
-  "2023-05-17": 774280,
-  "2023-05-18": 774413,
-  "2023-05-19": 774540,
-  "2023-05-20": 774846,
-  "2023-05-21": 774846,
-  "2023-05-22": 774846,
-  "2023-05-23": 775060,
-  "2023-05-24": 775231,
-  "2023-05-25": 775276,
-  "2023-05-26": 775366,
-  "2023-05-27": 775488,
-  "2023-05-28": 775641,
-  "2023-05-29": 775641,
-  "2023-05-30": 775868,
-  "2023-05-31": 775991,
-  "2023-06-01": 776112,
-  "2023-06-02": 776153,
-  "2023-06-03": 776197,
-  "2023-06-04": 776281,
-  "2023-06-05": 776282,
-  "2023-06-06": 776291,
-  "2023-06-07": 155515,
-  "2023-06-08": 31330,
-  "2023-06-09": 31330,
-  "2023-06-10": 31330,
-  "2023-06-11": 31330,
-  "2023-06-12": 31330,
-  "2023-06-13": 31330,
-  "2023-06-14": 31330,
-  "2023-06-15": 31330,
-  "2023-06-16": 31330,
-  "2023-06-17": 31330,
-  "2023-06-18": 31330,
-  "2023-06-19": 31330,
-  "2023-06-20": 31330,
-  "2023-06-21": 31330,
-  "2023-06-22": 31330,
-  "2023-06-23": 31330,
-  "2023-06-24": 31330,
-  "2023-06-25": 31330,
-  "2023-06-26": 31330,
-  "2023-06-27": 31330,
-  "2023-06-28": 31330,
-  "2023-06-29": 31330,
-  "2023-06-30": 31330,
-  "2023-07-01": 31330,
-  "2023-07-02": 31330,
-  "2023-07-03": 31330,
-  "2023-07-04": 31330,
-  "2023-07-05": 31330,
-  "2023-07-06": 31330,
-  "2023-07-07": 31330,
-  "2023-07-08": 31330,
-  "2023-07-09": 31330,
-  "2023-07-10": 31330,
-  "2023-07-11": 31330,
-  "2023-07-12": 31330,
-  "2023-07-13": 31330,
-  "2023-07-14": 31330,
-  "2023-07-15": 31330,
-  "2023-07-16": 31330,
-  "2023-07-17": 31330,
-  "2023-07-18": 31330,
-  "2023-07-19": 31330,
-  "2023-07-20": 31330,
-  "2023-07-21": 31330,
-  "2023-07-22": 31330,
-  "2023-07-23": 31330,
-  "2023-07-24": 31330,
-  "2023-07-25": 31330,
-  "2023-07-26": 31330,
-  "2023-07-27": 31330,
-  "2023-07-28": 31330,
-  "2023-07-29": 31330,
-  "2023-07-30": 31330,
-  "2023-07-31": 31330,
-  "2023-08-01": 31330,
-  "2023-08-02": 31330,
-  "2023-08-03": 31330,
-  "2023-08-04": 31330,
-  "2023-08-05": 31330,
-  "2023-08-06": 31330,
-  "2023-08-07": 31330,
-  "2023-08-08": 31330,
-  "2023-08-09": 31330,
-  "2023-08-10": 31330,
-  "2023-08-11": 31330,
-  "2023-08-12": 31330,
-  "2023-08-13": 31330,
-  "2023-08-14": 31330,
-  "2023-08-15": 31330,
-  "2023-08-16": 31330,
-  "2023-08-17": 31330,
-  "2023-08-18": 31330,
-  "2023-08-19": 31330,
-  "2023-08-20": 31330,
-  "2023-08-21": 31330,
-  "2023-08-22": 31330,
-  "2023-08-23": 31330,
-  "2023-08-24": 31330,
-  "2023-08-25": 31330,
-  "2023-08-26": 31330,
-  "2023-08-27": 31330,
-  "2023-08-28": 31330,
-  "2023-08-29": 31330,
-  "2023-08-30": 31330,
-  "2023-08-31": 31330,
-  "2023-09-01": 31330,
-  "2023-09-02": 31330,
-  "2023-09-03": 31330,
-  "2023-09-04": 31330,
-  "2023-09-05": 31330,
-  "2023-09-06": 31330,
-  "2023-09-07": 31330,
-  "2023-09-08": 31330,
-  "2023-09-09": 31330,
-  "2023-09-10": 31330,
-  "2023-09-11": 31330,
-  "2023-09-12": 31330,
-  "2023-09-13": 31330,
-  "2023-09-14": 31330,
-  "2023-09-15": 31330,
-  "2023-09-16": 31330,
-  "2023-09-17": 31330,
-  "2023-09-18": 31330,
-  "2023-09-19": 31330,
-  "2023-09-20": 31330,
-  "2023-09-21": 31330,
-  "2023-09-22": 31330,
-  "2023-09-23": 31330,
-  "2023-09-24": 31330,
-  "2023-09-25": 31330,
-  "2023-09-26": 31330,
-  "2023-09-27": 31330,
-  "2023-09-28": 31330,
-  "2023-09-29": 31330,
-  "2023-09-30": 31330,
-  "2023-10-01": 31330,
-  "2023-10-02": 31330,
-  "2023-10-03": 31330,
-  "2023-10-04": 31330,
-  "2023-10-05": 31330,
-  "2023-10-06": 31330,
-  "2023-10-07": 31330,
-  "2023-10-08": 31330,
-  "2023-10-09": 31330,
-  "2023-10-10": 31330,
-  "2023-10-11": 31330,
-  "2023-10-12": 31330,
-  "2023-10-13": 31330,
-  "2023-10-14": 31330,
-  "2023-10-15": 31330,
-  "2023-10-16": 31330,
-  "2023-10-17": 31330,
-  "2023-10-18": 31330,
-  "2023-10-19": 31330,
-  "2023-10-20": 31330,
-  "2023-10-21": 31330,
-  "2023-10-22": 31330,
-  "2023-10-23": 31330,
-  "2023-10-24": 31330,
-  "2023-10-25": 31330,
-  "2023-10-26": 31330,
-  "2023-10-27": 31330,
-  "2023-10-28": 31330,
-  "2023-10-29": 31330,
-  "2023-10-30": 31330,
-  "2023-10-31": 31330,
-  "2023-11-01": 31330,
-  "2023-11-02": 31330,
-  "2023-11-03": 31330,
-  "2023-11-04": 31330,
-  "2023-11-05": 31330,
-  "2023-11-06": 31330,
-  "2023-11-07": 31330,
-  "2023-11-08": 31330,
-  "2023-11-09": 31330,
-  "2023-11-10": 31330,
-  "2023-11-11": 31330,
-  "2023-11-12": 31330,
-  "2023-11-13": 31330,
-  "2023-11-14": 31330,
-  "2023-11-15": 31330,
-  "2023-11-16": 31330,
-  "2023-11-17": 31330,
-  "2023-11-18": 31330,
-  "2023-11-19": 31330,
-  "2023-11-20": 31330,
-  "2023-11-21": 31330,
-  "2023-11-22": 31330,
-  "2023-11-23": 31330,
-  "2023-11-24": 31330,
-  "2023-11-25": 31330,
-  "2023-11-26": 31330,
-  "2023-11-27": 31330,
-  "2023-11-28": 31330,
-  "2023-11-29": 31330,
-  "2023-11-30": 31330,
-  "2023-12-01": 31330,
-  "2023-12-02": 31330,
-  "2023-12-03": 31330,
-  "2023-12-04": 31330,
-  "2023-12-05": 31330,
-  "2023-12-06": 31330,
-  "2023-12-07": 31330,
-  "2023-12-08": 31330,
-  "2023-12-09": 31330,
-  "2023-12-10": 31330,
-  "2023-12-11": 31330,
-  "2023-12-12": 31330,
-  "2023-12-13": 31330,
-  "2023-12-14": 31330,
-  "2023-12-15": 31330,
-  "2023-12-16": 31330,
-  "2023-12-17": 31330,
-  "2023-12-18": 31330,
-  "2023-12-19": 31330,
-  "2023-12-20": 31330,
-  "2023-12-21": 31330,
-  "2023-12-22": 31330,
-  "2023-12-23": 31330,
-  "2023-12-24": 31330,
-  "2023-12-25": 31330,
-  "2023-12-26": 31330,
-  "2023-12-27": 31330,
-  "2023-12-30": 31330,
-  "2023-12-31": 31330,
-  "2024-01-01": 31330,
-  "2024-01-02": 31330,
-  "2024-01-03": 31330
+  "2024-01-17": 31330,
+  "date_first_scraped": "2021-12-21",
+  "description": "Prince was a true original and earth-shattering performer. Hear Prince Rogers Nelson best right now.",
+  "name": "This Is Prince",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240066,
+      "name": "17 Days",
+      "url": "https://open.spotify.com/track/7rwPVahewLXhDGKUjfbzU3"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "17 Days - 7\" B-Side Edit; 2017 Remaster",
+      "url": "https://open.spotify.com/track/3TNzMvWUuNoeyBcNeUQZH4"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 379266,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2H7PHVdQ3mXqEHXcvclTB0"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373747,
+      "name": "1999 - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2QSUyofqpGDCo026OPiTBQ"
+    },
+    {
+      "album": {
+        "name": "1999 (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 373747,
+      "name": "1999 - 2019 Remaster",
+      "url": "https://open.spotify.com/track/3Dd93e5FJZr3YGPF2yxYBS"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 310466,
+      "name": "7",
+      "url": "https://open.spotify.com/track/04MjaNej8XUHI8jbz2THez"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310466,
+      "name": "7",
+      "url": "https://open.spotify.com/track/1ESmMKaASDxFICpa5eyqzo"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 310466,
+      "name": "7",
+      "url": "https://open.spotify.com/track/3O4ynIrZqO29puDVrb9DjT"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 391400,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/1nXIZY6vOyQgXNtBnou1Ph"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394864,
+      "name": "Adore - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7tyckyaQOzlsTjnujLinRt"
+    },
+    {
+      "album": {
+        "name": "Lovesexy",
+        "url": "https://open.spotify.com/album/5y5qXt3zBajSYAPWyF1Q8a"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338985,
+      "name": "Alphabet St.",
+      "url": "https://open.spotify.com/track/781jv9lCKdgP3qjxocB7r8"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 339933,
+      "name": "Alphabet St.",
+      "url": "https://open.spotify.com/track/25qIHdF9njPTW737AeEQPl"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 339933,
+      "name": "Alphabet St.",
+      "url": "https://open.spotify.com/track/6PgzY16qIQSPsrbckuDoAF"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222373,
+      "name": "America",
+      "url": "https://open.spotify.com/track/4me1ItKif2Ymxtey9T8iiO"
+    },
+    {
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "America",
+      "url": "https://open.spotify.com/track/7Fcig3cwilbkZwgZozN3bB"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240693,
+      "name": "Anotherloverholenyohead",
+      "url": "https://open.spotify.com/track/1M9LnSZjeyLKn0GwT1Xg27"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264400,
+      "name": "Baby I'm a Star",
+      "url": "https://open.spotify.com/track/2soBvUQBf5rbMj9HIyhzzK"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373733,
+      "name": "Batdance",
+      "url": "https://open.spotify.com/track/4DbUk1qwcz9KKcUY4t8f8u"
+    },
+    {
+      "album": {
+        "name": "Anthology: 1995-2010",
+        "url": "https://open.spotify.com/album/0CEHFvHUQ0ZSv3mugziS76"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191120,
+      "name": "Black Sweat",
+      "url": "https://open.spotify.com/track/4uHWKxOguUCwu05P0cfveU"
+    },
+    {
+      "album": {
+        "name": "ART OFFICIAL AGE",
+        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234988,
+      "name": "BREAKFAST CAN WAIT",
+      "url": "https://open.spotify.com/track/0JMuL1ruqVGPkeZULI6toQ"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131066,
+      "name": "Christopher Tracy's Parade",
+      "url": "https://open.spotify.com/track/0k2VivnC5j4vokUZL57eWf"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/5qwEgS60NsL4Pd7ZRuIpSF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 673160,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/1gjT5MQqkG7wgV807icgoq"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/33BRH4AOQ69mih469MGz3Y"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 673160,
+      "name": "Come",
+      "url": "https://open.spotify.com/track/37boVGhMqQF129fn3jHQU4"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/417BgvwuyihreDKPXbp2kS"
+    },
+    {
+      "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/4m5imjg1oYahdKMdghefLX"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 435333,
+      "name": "Controversy",
+      "url": "https://open.spotify.com/track/5shPZ6RnC6sCm0iSZiv7wU"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 253066,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/5vz2J2kP3vV7mZE9UxnFcG"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/4QnjK45IBBZRVRWTEeZ3T8"
+    },
+    {
+      "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7LTkO0y63Hovi9MDa3JOMn"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 253373,
+      "name": "Cream - Without Rap Monologue",
+      "url": "https://open.spotify.com/track/6468hHgqYmcGr21JRBD5Y3"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265200,
+      "name": "Damn U",
+      "url": "https://open.spotify.com/track/3OVBqiiSSB3N4oU8fysNob"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "Damn U",
+      "url": "https://open.spotify.com/track/6YUr7h7qphm14hv0gtD8f6"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254493,
+      "name": "Darling Nikki",
+      "url": "https://open.spotify.com/track/0khi86hc79RfsRC0rrkkA2"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 240800,
+      "name": "Delirious",
+      "url": "https://open.spotify.com/track/6hazdpTPlt5W2BTCGYKBoj"
+    },
+    {
+      "album": {
+        "name": "1999 (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 240004,
+      "name": "Delirious - 2019 Remaster",
+      "url": "https://open.spotify.com/track/2XFG7bHKrksvAcuseFANAH"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240004,
+      "name": "Delirious - 2019 Remaster",
+      "url": "https://open.spotify.com/track/5zWhtlFS3w52HjN4ayOUgR"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 285266,
+      "name": "Diamonds and Pearls",
+      "url": "https://open.spotify.com/track/7IoLw1bECmOSWcm2u9SmRH"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285266,
+      "name": "Diamonds and Pearls",
+      "url": "https://open.spotify.com/track/40rVLjYfsdHCANX7oUGCsF"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 254866,
+      "name": "Dirty Mind",
+      "url": "https://open.spotify.com/track/0xLusQmpL2MWGajcw0YyXQ"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254866,
+      "name": "Dirty Mind",
+      "url": "https://open.spotify.com/track/5S08g4NY03BxvyuwV2U3r9"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/27fOQ2nbqOv460RSUFW7E4"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463840,
+      "name": "Do Me, Baby",
+      "url": "https://open.spotify.com/track/3QdiscaOrBW0myBIcjn4Bj"
+    },
+    {
+      "album": {
+        "name": "Controversy",
+        "url": "https://open.spotify.com/album/68qpubhEKJPAKgWarrqfoA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 463840,
+      "name": "Do Me, Baby",
+      "url": "https://open.spotify.com/track/621BmKwXCNiTBfmeJtxoD8"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297226,
+      "name": "Electric Intercourse - Studio Version",
+      "url": "https://open.spotify.com/track/1JXP1QK92F7NWgwissQmRA"
+    },
+    {
+      "album": {
+        "name": "Electric Intercourse (Studio Version)",
+        "url": "https://open.spotify.com/album/5R5muZM0qi8tyfEV6zcEE9"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 297226,
+      "name": "Electric Intercourse - Studio Version",
+      "url": "https://open.spotify.com/track/5Bv97kzwGxJyzWy57PDTbN"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235493,
+      "name": "Erotic City",
+      "url": "https://open.spotify.com/track/0OfWbtiZ3fHd64VmpCSj7g"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236160,
+      "name": "Erotic City - Let's Go Crazy 7\" B-Side Edit; 2017 Remaster",
+      "url": "https://open.spotify.com/track/4pkEET0wXNNY5o61lVK5FF"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Eric Leeds",
+          "url": "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271666,
+      "name": "Gett Off",
+      "url": "https://open.spotify.com/track/0wFkjAM4VVoepQdYB6kl4U"
+    },
+    {
+      "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 272640,
+      "name": "Gett Off",
+      "url": "https://open.spotify.com/track/34cT9d3y26fAymXnMGnY1A"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        },
+        {
+          "name": "Eric Leeds",
+          "url": "https://open.spotify.com/artist/7bNJ8B2kMi9urGEfKPsBGP"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "Gett Off (with Eric Leeds)",
+      "url": "https://open.spotify.com/track/7h1ORpjTON2WXzu4BVOJBL"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329586,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/1MkfvXtx2S7cSs9aqLnMGs"
+    },
+    {
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 231893,
+      "name": "Graffiti Bridge",
+      "url": "https://open.spotify.com/track/1i4WFRB8MziPmNZYdpZwhL"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340706,
+      "name": "Hot Thing",
+      "url": "https://open.spotify.com/track/6HpPsCidc2enTdicqEmu7t"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282106,
+      "name": "Housequake",
+      "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 233173,
+      "name": "How Come U Don't Call Me Anymore",
+      "url": "https://open.spotify.com/track/1hsLNUUza8uDcmTdnDXHXh"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233173,
+      "name": "How Come U Don't Call Me Anymore",
+      "url": "https://open.spotify.com/track/7oZKxGPHuMVSVmFzuiKkWG"
+    },
+    {
+      "album": {
+        "name": "1999 (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234840,
+      "name": "How Come U Don't Call Me Anymore - \"1999\" B-Side - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1WZVtI5aX68qwitrKkGH9L"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 389226,
+      "name": "I Could Never Take the Place of Your Man",
+      "url": "https://open.spotify.com/track/5INCM5mKhPHFyGSxc37out"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 389226,
+      "name": "I Could Never Take the Place of Your Man",
+      "url": "https://open.spotify.com/track/7Bsfh7tZyAf6L5iQti86Rq"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388895,
+      "name": "I Could Never Take The Place Of Your Man - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1tYLo4i7MAW4OW2J3OpOJD"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205200,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/0bNPzbyaT9npwhIP8d2Rsi"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/30DQNLvFkUv9SS15o8jXHZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205200,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/2H6jId1ZWVXR1POYrlpI9Y"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205200,
+      "name": "I Feel for You",
+      "url": "https://open.spotify.com/track/3Iz6vBwWlxXm5HUKh4hPlT"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/0j711DtV8bOSMZRCbphtPC"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/2XLAzm8bMDSI7MhbRW8nVj"
+    },
+    {
+      "album": {
+        "name": "Prince",
+        "url": "https://open.spotify.com/album/6k7RVZ7bSL9ryReb8RLYRI"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 347666,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/4yrM5BVyJzy5Ed4GPO6e8j"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178986,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/6fBwVe6udYdnRqwqo06if8"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 301733,
+      "name": "If I Was Your Girlfriend",
+      "url": "https://open.spotify.com/track/6yK7QgE4H7dIzHa9EV4FKL"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303504,
+      "name": "If I Was Your Girlfriend - 2020 Remaster",
+      "url": "https://open.spotify.com/track/2laui4O0tY1GDZcsB7iJtK"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 399666,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/2cXdUg5c57C4b2qLCqHAOX"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399666,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/3q4SUOc4upvsrFItSrELsX"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 397880,
+      "name": "International Lover",
+      "url": "https://open.spotify.com/track/7AFxCS5OHNvZgD2qceIc5Q"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397826,
+      "name": "International Lover - 2019 Remaster",
+      "url": "https://open.spotify.com/track/566rszxMM5fnTXFPORI29n"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 499360,
+      "name": "Lady Cab Driver",
+      "url": "https://open.spotify.com/track/3olcbtUJV3xdHIfFjy8owe"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497327,
+      "name": "Lady Cab Driver - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1ufd5YMV7d4GkkvWjkl5Lr"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+    },
+    {
+      "album": {
+        "name": "Let's Go Crazy (Live In Syracuse, March 30, 1985 - 2022 Remaster)",
+        "url": "https://open.spotify.com/album/5YfFeRzMeykwYn0WhWK9Ep"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350778,
+      "name": "Let's Go Crazy - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/0x2RD4R0yWGXaBZPo7lDqY"
+    },
+    {
+      "album": {
+        "name": "Prince and The Revolution: Live (2022 Remaster)",
+        "url": "https://open.spotify.com/album/4Y8oukfqpJupRcCsHucO7J"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350778,
+      "name": "Let's Go Crazy - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "url": "https://open.spotify.com/track/15BL8ku45JiAS9dSuAD2ap"
+    },
+    {
+      "album": {
+        "name": "1999 (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Little Red Corvette - 7\" Edit - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4N1dFbXmRng8qJ3KdJrbLr"
+    },
+    {
+      "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7LTkO0y63Hovi9MDa3JOMn"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188613,
+      "name": "Little Red Corvette - Single Version",
+      "url": "https://open.spotify.com/track/3315t15Sw3QTL6TDWhSM4F"
+    },
+    {
+      "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7mhrGQKxLFJPY2J4TXtA0A"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188613,
+      "name": "Little Red Corvette - Single Version",
+      "url": "https://open.spotify.com/track/6X4JeTWCuKEzKOEHXDtyBo"
+    },
+    {
+      "album": {
+        "name": "Mary Don't You Weep",
+        "url": "https://open.spotify.com/album/5W6s5f9S1Fv3asQZH6lNGM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-20",
+      "duration_ms": 282384,
+      "name": "Mary Don't You Weep - Piano & A Microphone 1983 Version",
+      "url": "https://open.spotify.com/track/2oyxDkR5iLTwuP9h6lDkM5"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/0qcgEPOg67XnxGizdAAcGa"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286626,
+      "name": "Money Don't Matter 2 Night",
+      "url": "https://open.spotify.com/track/4TD2ZZETSh7OFOw1RTNPGb"
+    },
+    {
+      "album": {
+        "name": "Diamonds and Pearls",
+        "url": "https://open.spotify.com/album/3oHGfGzLTOqgocxq8sH4NJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286626,
+      "name": "Money Don't Matter 2 Night",
+      "url": "https://open.spotify.com/track/1E4ekAsxHLzZlNGYHipj9N"
+    },
+    {
+      "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 287800,
+      "name": "Money Don't Matter 2 Nite",
+      "url": "https://open.spotify.com/track/16jq3B140IiNdSGYBwGZI2"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237626,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/48conYZAap5JNzGJBaOTm2"
+    },
+    {
+      "album": {
+        "name": "Musicology",
+        "url": "https://open.spotify.com/album/1jy9Nciz47PNHiUB7FxAjK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264253,
+      "name": "Musicology",
+      "url": "https://open.spotify.com/track/3kiKvrMonNxyh8nzkhCrbU"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 398333,
+      "name": "My Name Is Prince",
+      "url": "https://open.spotify.com/track/20qyckJrLZQGQmNb5OmpkJ"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398333,
+      "name": "My Name Is Prince",
+      "url": "https://open.spotify.com/track/4mCjX5mra7OanoBbCR2B2y"
+    },
+    {
+      "album": {
+        "name": "Nothing Compares 2 U",
+        "url": "https://open.spotify.com/album/3aUBbb6wNmvd4HOHhasOaf"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280743,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/70Ukvwcp6LkgfRiuUhGV7l"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304800,
+      "name": "Nothing Compares 2 U (feat. Rosie Gaines) - Live",
+      "url": "https://open.spotify.com/track/2ZKSdBsPDyzSuTP87vebS6"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/7GXUkcVQzX3uDviEa6mVui"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/0EcHeVcE0H9nFZnsHjlkIl"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 304800,
+      "name": "Nothing Compares 2 U (feat. Rosie Gaines) - Live",
+      "url": "https://open.spotify.com/track/3JtMU9MZMDOD7t019inKkK"
+    },
+    {
+      "album": {
+        "name": "Ultimate",
+        "url": "https://open.spotify.com/album/2gt5Y9pOGL18lQ2EzExuVW"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "Rosie Gaines",
+          "url": "https://open.spotify.com/artist/1HRiWIhV7rgiL74L2AqZ5W"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 304800,
+      "name": "Nothing Compares 2 U (feat. Rosie Gaines) - Live",
+      "url": "https://open.spotify.com/track/6jDfMkkXGOsLih9wi2dVg0"
+    },
+    {
+      "album": {
+        "name": "Purple Rain (Deluxe Expanded Edition)",
+        "url": "https://open.spotify.com/album/12DmuRtZNTx84ELHKD3VGL"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385409,
+      "name": "Our Destiny / Roadhouse Garden",
+      "url": "https://open.spotify.com/track/0skqC0rGnezyhGmBCrSgg9"
+    },
+    {
+      "album": {
+        "name": "Our Destiny / Roadhouse Garden",
+        "url": "https://open.spotify.com/album/0jQEqYfjq2t5TYJ7sN1L3M"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 385409,
+      "name": "Our Destiny / Roadhouse Garden",
+      "url": "https://open.spotify.com/track/6qHqJaSMvKI1X01SoVduJA"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191560,
+      "name": "Partyman",
+      "url": "https://open.spotify.com/track/1Wn5LO7y9CLW0lHf2hNt8k"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225226,
+      "name": "Pop Life",
+      "url": "https://open.spotify.com/track/5frTNUfeDGOHRo8Cc7ny9R"
+    },
+    {
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225226,
+      "name": "Pop Life",
+      "url": "https://open.spotify.com/track/6Zs3F2lrr3L3kugrniFG5R"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 520786,
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "album": {
+        "name": "Piano & A Microphone 1983",
+        "url": "https://open.spotify.com/album/6gbmDvcU1JDPy1niL6YFJY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86600,
+      "name": "Purple Rain - Piano & A Microphone 1983 Version",
+      "url": "https://open.spotify.com/track/2RapublkNolV5Ewmr7XtUH"
+    },
+    {
+      "album": {
+        "name": "The Hits 2",
+        "url": "https://open.spotify.com/album/2wrmTZCJAzEFBflDvhejz7"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/1uhU28kvfzjIUpsLx7bats"
+    },
+    {
+      "album": {
+        "name": "Around The World In A Day",
+        "url": "https://open.spotify.com/album/27SA4Pkelh2pbwbVEORPOM"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW"
+    },
+    {
+      "album": {
+        "name": "Around the World in a Day",
+        "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215173,
+      "name": "Raspberry Beret",
+      "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375706,
+      "name": "Scandalous",
+      "url": "https://open.spotify.com/track/2dnPoLlcwJFtFm1pps3Bm0"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 326093,
+      "name": "Sexy M.F.",
+      "url": "https://open.spotify.com/track/4Syn1a4Irz0UbbR44s7CqB"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Sexy M.F.",
+      "url": "https://open.spotify.com/track/4JUgmt3hxaO5gLXq4puZKK"
+    },
+    {
+      "album": {
+        "name": "Raspberry Beret / She's Always In My Hair",
+        "url": "https://open.spotify.com/album/4lF7YCUwDCfqoAPoAfzkml"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207426,
+      "name": "She's Always in My Hair",
+      "url": "https://open.spotify.com/track/3C5H2ZeTRNYwRsEMlr0gMg"
+    },
+    {
+      "album": {
+        "name": "The Hits / The B-Sides",
+        "url": "https://open.spotify.com/album/3o0o5WPnqfGOeyx3UMJgvO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207426,
+      "name": "She's Always in My Hair",
+      "url": "https://open.spotify.com/track/5xcb3TD6lZ4X7RId59DNxo"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302760,
+      "name": "Sign 'O' the Times",
+      "url": "https://open.spotify.com/track/4Yenz5JZZOUiZSeyKY8bDz"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0TQG9HCLZGushGzSwvtxC1"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 296497,
+      "name": "Sign O' The Times - 2020 Remaster",
+      "url": "https://open.spotify.com/track/3dhxR1qd5IMLHhAzwYGO0y"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296497,
+      "name": "Sign O' The Times - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7CqFMR3yj95Yuwagq5XsLR"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270200,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/0qc7kijs5jzvQH43YrTOPf"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270200,
+      "name": "So Blue",
+      "url": "https://open.spotify.com/track/3NX3jLUU2sFQjvDRdoOvEN"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Soft and Wet",
+      "url": "https://open.spotify.com/track/0GDM5mJEisxmmyYGuC6Cla"
+    },
+    {
+      "album": {
+        "name": "4Ever",
+        "url": "https://open.spotify.com/album/7LTkO0y63Hovi9MDa3JOMn"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 185173,
+      "name": "Soft and Wet",
+      "url": "https://open.spotify.com/track/13F16ksuheUeSIbkASqtXg"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5kbRcoeBHpJHe37a9agmfv"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185173,
+      "name": "Soft and Wet",
+      "url": "https://open.spotify.com/track/6Q8s3YuAWkx0Qui0Jgkr5m"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 242813,
+      "name": "Something in the Water (Does Not Compute)",
+      "url": "https://open.spotify.com/track/2hABMU63xtaIYChN6eYlEb"
+    },
+    {
+      "album": {
+        "name": "1999 (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2EHUlDJaTyvn0gAvVfUlcY"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 242034,
+      "name": "Something In The Water (Does Not Compute) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/0VvQIdqyPQhe4jE4Whp72p"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/34MHuXONazzgSxI0cThpAg"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242034,
+      "name": "Something In The Water (Does Not Compute) - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4apRvrVOalstpS1XAzgJNu"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409000,
+      "name": "Sometimes It Snows in April",
+      "url": "https://open.spotify.com/track/1Az0fhiWi0EVS4cZ3FF20X"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/33BRH4AOQ69mih469MGz3Y"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268040,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/5YiYHmGUUcxSmNNz2nXxcU"
+    },
+    {
+      "album": {
+        "name": "Come",
+        "url": "https://open.spotify.com/album/5qwEgS60NsL4Pd7ZRuIpSF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268040,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/77KS1S5SJ2KdFo20dUKMJl"
+    },
+    {
+      "album": {
+        "name": "Stare",
+        "url": "https://open.spotify.com/album/2qzNTR3brGnweQTOidQiUZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223511,
+      "name": "Stare",
+      "url": "https://open.spotify.com/track/2eZJ9lrNeSqDt9iOgtft0M"
+    },
+    {
+      "album": {
+        "name": "HITNRUN Phase Two",
+        "url": "https://open.spotify.com/album/1Z7W9oZNZD3ySSnZkRzJgd"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225613,
+      "name": "Stare",
+      "url": "https://open.spotify.com/track/1CUbnAid0Xkx68x9bptSvU"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234133,
+      "name": "Take Me with U",
+      "url": "https://open.spotify.com/track/765k9tDIFOnoOfkO2cgitB"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235453,
+      "name": "The Ballad of Dorothy Parker",
+      "url": "https://open.spotify.com/track/13UqaNF8STsJSGKxd12rmy"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313960,
+      "name": "The Beautiful Ones",
+      "url": "https://open.spotify.com/track/1BNtFSws7fjbn9aVBPA79j"
+    },
+    {
+      "album": {
+        "name": "Batman",
+        "url": "https://open.spotify.com/album/2FwzHgJ4XaPhC19Y0uL6SK"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247400,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/0svV7nIgkTsBQRN57dtbAy"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/03JxJZCOK54jmkrhlDczlA"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 237373,
+      "name": "The Morning Papers",
+      "url": "https://open.spotify.com/track/1Q52V3Lq3yxsYaeZrPdPJZ"
+    },
+    {
+      "album": {
+        "name": "[Love Symbol]",
+        "url": "https://open.spotify.com/album/5q8jywtY8AvpUVgzDJXyRp"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        },
+        {
+          "name": "The New Power Generation",
+          "url": "https://open.spotify.com/artist/1xtGjxE9c1YmEmFPCH6Izp"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "The Morning Papers",
+      "url": "https://open.spotify.com/track/2YQPrv269ek4PDKC5JrPt4"
+    },
+    {
+      "album": {
+        "name": "The Gold Experience",
+        "url": "https://open.spotify.com/album/7JdnQ7zCfqETcLgS94d3ks"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265320,
+      "name": "The Most Beautiful Girl In the World",
+      "url": "https://open.spotify.com/track/0aPaGIX2QIMAH5SMp0VEMe"
+    },
+    {
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "The Question of U",
+      "url": "https://open.spotify.com/track/1HgYj7JbAdc1cO2TUbQL2s"
+    },
+    {
+      "album": {
+        "name": "Music from Graffiti Bridge",
+        "url": "https://open.spotify.com/album/2tHDc9g2bu1rz62xIjX1GE"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "Thieves in the Temple",
+      "url": "https://open.spotify.com/track/403oiKw757eJnbDKPSjhHV"
+    },
+    {
+      "album": {
+        "name": "ART OFFICIAL AGE",
+        "url": "https://open.spotify.com/album/1xRg9g9QCGjFp9poxLnU5M"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312229,
+      "name": "THIS COULD BE US",
+      "url": "https://open.spotify.com/track/5FahqUmF2xPV5e0mUEAlxK"
+    },
+    {
+      "album": {
+        "name": "Sign \"O\" the Times",
+        "url": "https://open.spotify.com/album/1XsXHctYSQNyAd9BANCk2B"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227706,
+      "name": "U Got the Look",
+      "url": "https://open.spotify.com/track/2X6okzhnNPSzh9yxDMHHe3"
+    },
+    {
+      "album": {
+        "name": "The Hits 2",
+        "url": "https://open.spotify.com/album/2wrmTZCJAzEFBflDvhejz7"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 227866,
+      "name": "U Got the Look",
+      "url": "https://open.spotify.com/track/10KEkVCSX2CYsIWcs5t1Ad"
+    },
+    {
+      "album": {
+        "name": "Sign O' The Times",
+        "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226079,
+      "name": "U Got The Look - 2020 Remaster",
+      "url": "https://open.spotify.com/track/1NAf61L4b3jFgLJhThTQ8B"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Under the Cherry Moon",
+      "url": "https://open.spotify.com/track/4lsHSebqNhVMIUSD31Zr6W"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 332240,
+      "name": "Uptown",
+      "url": "https://open.spotify.com/track/3IiS3fVdtsMPSHsWBgDcFn"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332240,
+      "name": "Uptown",
+      "url": "https://open.spotify.com/track/3VSakTiD4bR5tbQgG7pENb"
+    },
+    {
+      "album": {
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115426,
+      "name": "Venus De Milo",
+      "url": "https://open.spotify.com/track/42wNLGw0VBuwniTFB5ljda"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 America",
+        "url": "https://open.spotify.com/album/6Idpgkp0xxbQA3Ej1QdsZh"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323813,
+      "name": "Welcome 2 America",
+      "url": "https://open.spotify.com/track/2St53T2Yitx2E3gA674RP0"
+    },
+    {
+      "album": {
+        "name": "Welcome 2 America",
+        "url": "https://open.spotify.com/album/6PBBG2xtLRBEXq4oBUGHjF"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 323813,
+      "name": "Welcome 2 America",
+      "url": "https://open.spotify.com/track/5jIxSgeyKZbz9qDh2KZF79"
+    },
+    {
+      "album": {
+        "name": "Lovesexy",
+        "url": "https://open.spotify.com/album/5y5qXt3zBajSYAPWyF1Q8a"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239072,
+      "name": "When 2 R In Love",
+      "url": "https://open.spotify.com/track/4a37CykZCQ3RDno5iF1JpK"
+    },
+    {
+      "album": {
+        "name": "Lovesexy",
+        "url": "https://open.spotify.com/album/6asxKdvUleeZYNrjmK81nJ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239150,
+      "name": "When 2 R in Love",
+      "url": "https://open.spotify.com/track/14YFuTZYstAv3xHR9TGEKu"
+    },
+    {
+      "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352906,
+      "name": "When Doves Cry",
+      "url": "https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/4JsSbaggaprB1AfDylXnxO"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225546,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/2oG4drPUGpzlVtyLabHJPl"
+    },
+    {
+      "album": {
+        "name": "The Hits 1",
+        "url": "https://open.spotify.com/album/67jpFZvQv39VnX8y9dPENZ"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 225546,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/4wY6oy1Zw6RDm79qgeVg1e"
+    },
+    {
+      "album": {
+        "name": "Dirty Mind",
+        "url": "https://open.spotify.com/album/3Cijd5OjHeWBm97DsPHpgs"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225546,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/6Kbkge4WbvwWv1jVzSQsr8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX6JzJ8vAK836"
 }

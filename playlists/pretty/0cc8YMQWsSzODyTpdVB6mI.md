@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0cc8YMQWsSzODyTpdVB6mI.md) - [plain]
 
 > Have a listen to our Kitsuné's essential tracks and meet all generations of artists from 20 years ago to these past few  months\. 🎧
 
-[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 46,734 likes - 50 songs - 2 hr 51 min
+[Kitsuné Musique](https://open.spotify.com/user/maisonkitsune) - 46,767 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Rock unplugged.
 
-101 songs - 6 hr 42 min
+103 songs - 6 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [Change \- 2002 Digital Remaster](https://open.spotify.com/track/2xmJNIkGmYBVoiu1WqA9il) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Best Of Blind Melon](https://open.spotify.com/album/4Kr7DLs5Ds3e4VAqlo2vqZ) | 3:42 | 2022-05-06 | 2022-07-29 |
 | [City of Angels \(Acoustic\)](https://open.spotify.com/track/7Jw6Rs78eNe7PfnYz8lRII) | [Jared Leto](https://open.spotify.com/artist/3CtGQ3zIoltHY9CYiuY7op), [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Dallas Buyers Club \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5Eq7NDVWgHCPnkLloTg36m) | 4:26 | 2022-05-06 | 2022-07-28 |
 | [Come As You Are](https://open.spotify.com/track/5CBTQ8PLW3A5puBplpqHyX) | [Civil Twilight](https://open.spotify.com/artist/6i4aN0I3l7uldsLTjbZOF8) | [Come As You Are: A 20th Anniversary Tribute To Nirvana's 'Nevermind'](https://open.spotify.com/album/6wH7HefOOBklVc52eseJXo) | 4:18 | 2022-05-06 | 2022-07-29 |
-| [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 | 2023-01-13 |  |
+| [Coming Home \(Ballad of the Shire\)](https://open.spotify.com/track/5InVe6JzeFjGaKOW9ggU7J) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Can't Find The Brakes](https://open.spotify.com/album/3FyROXteyMjOunh3L3gEly) | 3:14 | 2024-01-16 |  |
+| [Complete Collapse \- Acoustic](https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Complete Collapse \(Acoustic\)](https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64) | 3:04 | 2023-01-13 | 2024-01-12 |
 | [Cut Deep – Stripped](https://open.spotify.com/track/0guTDvUGycVOXPQU3woRLH) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Cut Deep – Stripped](https://open.spotify.com/album/342ARypReHD498VmAtcIx9) | 3:09 | 2023-01-13 | 2023-08-18 |
 | [Elderly Woman Behind the Counter in a Small Town \- Acoustic Version](https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [go](https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5) | 3:18 | 2022-05-06 | 2023-10-25 |
 | [Feels Like Falling in Love \- Alternate Version](https://open.spotify.com/track/0pzeklIkrqOfc1eeleQ3px) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Feels Like Falling in Love \(Alternate Version\)](https://open.spotify.com/album/5mFDzpbFYmeiHKEEumKXyt) | 3:58 | 2022-05-06 | 2022-07-29 |
@@ -53,6 +54,7 @@
 | [If I Die Tomorrow](https://open.spotify.com/track/0VKpmchcyKYQ1ZalAKnfhT) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [If I Die Tomorrow](https://open.spotify.com/album/1c5GxvnVBWZQsTEODrZqpQ) | 2:59 | 2022-06-10 | 2023-04-09 |
 | [Impossible \(Orchestral Version\) \[Live at Abbey Road\]](https://open.spotify.com/track/2KVMuEgVOyOkxxx0xEFNMS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible \(Orchestral Version\) \[Live at Abbey Road\]](https://open.spotify.com/album/6fZ0N6R2LBIIeUYlz5uQjJ) | 4:10 | 2022-05-06 |  |
 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 | 2022-05-06 | 2023-01-14 |
+| [Just Say When \- Version 2.0](https://open.spotify.com/track/1D1yuEDp0EqvX1yFxWqeuS) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/7LkSukso0Smyx9sMGl8R2d) | 3:44 | 2023-05-19 | 2024-01-17 |
 | [Kill The Noise \- Acoustic](https://open.spotify.com/track/7oLfJtNvOFHYo02uProOfr) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise \(Acoustic\)](https://open.spotify.com/album/4NuxF7PTPbjtboHpQ6b3NI) | 2:41 | 2022-05-06 |  |
 | [Knuckles \(Acoustic\)](https://open.spotify.com/track/4rhbREgJQLpWVZIZDMKeSW) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [Stay Beautiful](https://open.spotify.com/album/6FtJVjZo2m1nsw3d8QyDAC) | 3:47 | 2022-05-06 | 2022-07-29 |
 | [Landslide](https://open.spotify.com/track/46jNNisjr8iE3jkNtrtWFl) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 3:10 | 2022-05-06 |  |

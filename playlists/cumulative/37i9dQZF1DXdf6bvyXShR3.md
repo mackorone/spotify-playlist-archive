@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-149 songs - 14 hr 19 min
+150 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,8 @@
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-09 |  |
 | [The Untold Glory of Mister Nobody](https://open.spotify.com/track/19KyJKUtDcOrWP3o9U0hYj) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Pyramid Of The Moon](https://open.spotify.com/album/4jJKrJoaSaVlqN8txXPrJ7) | 6:51 | 2022-09-16 | 2023-11-11 |
 | [The Untold Glory of Mister Nobody](https://open.spotify.com/track/7oijQs0x6iGJuvRlgF9qCU) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Pyramid of the Moon](https://open.spotify.com/album/4XwQ6PqQFrSvRWzdoUS6ZV) | 6:51 | 2023-11-07 |  |
-| [Thinking About You Calms Me Down](https://open.spotify.com/track/25lichGYPTOAwpm9PNaWVf) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/1KX6j0VmAYu3dOJUicdQoE) | 2:53 | 2023-02-03 |  |
+| [Thinking About You Calms Me Down](https://open.spotify.com/track/25lichGYPTOAwpm9PNaWVf) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/1KX6j0VmAYu3dOJUicdQoE) | 2:53 | 2023-02-03 | 2024-01-13 |
+| [Thinking About You Calms Me Down](https://open.spotify.com/track/3Cue2IPNCQH4zk8TXuMu5N) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/16atisjMuDrTnTawSIV9lW) | 2:53 | 2023-12-22 |  |
 | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/track/1Av5Jjo7q31Iojme6EvBKC) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Claudia Kane](https://open.spotify.com/artist/4UazGkNTyhQw8UDtJVhd82) | [True Love to the Grave \(feat\. Claudia Kane\)](https://open.spotify.com/album/4pTvGotVgYC5M4FJc6pfpG) | 3:11 | 2022-09-16 | 2022-12-24 |
 | [Two Dots](https://open.spotify.com/track/3NcOlyaj8fEPbVfvNOKeaD) | [Lusine](https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub) | [A Certain Distance](https://open.spotify.com/album/46mWSylF7wmYKSACYkkjNf) | 4:38 | 2022-09-16 | 2023-02-04 |
 | [Under Fire \- Perel Remix](https://open.spotify.com/track/4zLobHtvzQZJ4Z46mCEKCu) | [Django Django](https://open.spotify.com/artist/2ARO60gI5do88ho6azmzab), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Under Fire \(Perel Remix\)](https://open.spotify.com/album/1C9M3LyMQ1OjJNFFyJ3T4A) | 6:35 | 2022-09-16 | 2022-12-24 |

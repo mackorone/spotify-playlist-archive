@@ -4,7 +4,7 @@
 
 > Scary monsters and filthy drops.
 
-128 songs - 7 hr 35 min
+129 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,8 @@
 | [Till the Day I Die](https://open.spotify.com/track/0XqKT7AwL333oEjBCMwHxp) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/3aMecYq0Q67u6uwMjm4bPN) | 2:30 | 2022-10-28 |  |
 | [Till The Day I Die](https://open.spotify.com/track/5SpA4lQsheBoigqIEgE2bX) | [Luci](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Till The Day I Die](https://open.spotify.com/album/3jnwP47WGWGwop55Uvj0S7) | 2:30 | 2021-10-28 | 2023-06-02 |
 | [Till the Day I Die](https://open.spotify.com/track/5TDQ3wiyuBgvSa6HQ1RFcy) | [Lucii](https://open.spotify.com/artist/2eqKyzfDwncG8apOXQYCbt) | [Wicked EP](https://open.spotify.com/album/4PM29w4J6uoDhYSuup97vD) | 2:30 | 2021-10-28 | 2022-07-29 |
-| [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 | 2021-10-28 |  |
+| [Tower](https://open.spotify.com/track/5Ek9fda1mgxvVS92lCE7Qn) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Tower](https://open.spotify.com/album/3ow68IUvYEltOQb9Jqco1H) | 3:30 | 2021-10-28 | 2024-01-13 |
+| [Tower](https://open.spotify.com/track/6wLAT2NTrpH9z5gnFo7LPJ) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [The Runner \(Original Soundtrack\)](https://open.spotify.com/album/5I2O21KYRUk31NBV2k6Xe5) | 3:30 | 2023-10-31 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/0HIruANJzlQkYwlpvh8cn6) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/0trChN5eN92UYTUqOIMQRe) | 3:23 | 2023-10-31 |  |
 | [Warp 1.9 \(feat\. Steve Aoki\)](https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm) | [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [ROMBORAMA](https://open.spotify.com/album/1qL6slXgqnO9YxMYuXbtrQ) | 3:23 | 2021-10-28 | 2023-12-14 |
 | [Weeping Ghost](https://open.spotify.com/track/1OoU6dyZX6XWCpQTymP6He) | [John Carpenter](https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq) | [Weeping Ghost](https://open.spotify.com/album/65jZ8l9cpAjwv4H5Fw5UIS) | 3:33 | 2021-10-28 | 2022-07-29 |

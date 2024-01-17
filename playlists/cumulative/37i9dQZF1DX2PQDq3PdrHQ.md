@@ -4,7 +4,7 @@
 
 > Instrumental beats for a restful night's sleep.
 
-649 songs - 1 day 1 hr 7 min
+650 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,7 +333,8 @@
 | [Lost In The Woods](https://open.spotify.com/track/0JaOvwTpEqTo5c28HiEAmg) | [Remizid](https://open.spotify.com/artist/7m4jP3wjMZToVAWAaLUDmA) | [Lost In The Woods](https://open.spotify.com/album/5Gn1a4kRwO4QjcahzNp9gv) | 2:12 | 2022-07-15 | 2022-08-13 |
 | [Lost Lots](https://open.spotify.com/track/6aBgRUf60WTnjOVOMevjkf) | [3scope](https://open.spotify.com/artist/4GoytqouEDWR5VebZhvPVU) | [Lost Lots](https://open.spotify.com/album/5yOedjAsOSa4SkHR3CqNXr) | 2:33 | 2022-11-18 | 2023-09-08 |
 | [lost my color](https://open.spotify.com/track/0z7i8XntrHsfZvkRdJ6EMY) | [Sleepy Numbat](https://open.spotify.com/artist/56NwFpEtEcw83To4Cdzp3v) | [lost my color](https://open.spotify.com/album/1l3LL90YUxY40jZfmHKtNh) | 1:25 | 2022-09-02 | 2023-09-29 |
-| [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 | 2022-10-14 |  |
+| [low spirits](https://open.spotify.com/track/4DQGBbczwjoW0gqEhVC7WT) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/5DeqIVKsD4SzPNPYssdYIg) | 2:06 | 2022-10-14 | 2024-01-13 |
+| [low spirits](https://open.spotify.com/track/4JEmKIfm4kATo3W58dpmHq) | [Ybyrayy](https://open.spotify.com/artist/47tK41FkaXhZOMGszQrYBs) | [low spirits](https://open.spotify.com/album/2NXoPsYF6q8oNROXkhW8SO) | 2:06 | 2024-01-09 |  |
 | [Low Tension](https://open.spotify.com/track/55MKPPyzRXKgLYPkWXWhZc) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Low Tension](https://open.spotify.com/album/4qIPpwbfTuy8jNPEzI9Jmp) | 2:57 | 2023-01-06 |  |
 | [Low Tide](https://open.spotify.com/track/2AYtdz8to1h6ZAOUaG0BaU) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [tonbo](https://open.spotify.com/artist/5yMbLExmd8BnFP1LaWPfQ4) | [Low Tide](https://open.spotify.com/album/3TQI5JVPLXrw7cdrSNdqPz) | 2:37 | 2022-07-15 | 2023-01-20 |
 | [Lucid Dream](https://open.spotify.com/track/0ESvr3vqkGTKqyTI35LIEA) | [Elton Baptiste](https://open.spotify.com/artist/7qZ2onZeQHlYsD6ZoGzCcS) | [Lucid Dream](https://open.spotify.com/album/0o4EfuIuCZFgiEv26JUzky) | 2:37 | 2022-10-07 |  |
@@ -579,7 +580,7 @@
 | [Swept Away](https://open.spotify.com/track/2rdrOLBcNyBaNbLh5WSShT) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Late Night Tapes](https://open.spotify.com/album/02KiqbwymPu8bTlDfCn1IJ) | 2:17 | 2022-05-20 | 2022-12-24 |
 | [Sympathetic](https://open.spotify.com/track/6dXBYGXM5V5CCVx37NZLAU) | [Ayzic](https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC) | [Sympathetic](https://open.spotify.com/album/5MpILnixP7lgI3UodnVg20) | 2:25 | 2022-09-16 | 2023-10-04 |
 | [take a chance](https://open.spotify.com/track/3YuiBgiPi5T5bmGzWwqF7b) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx) | [take a chance](https://open.spotify.com/album/5uZlJeOmjVuC8VGLU56cjW) | 2:15 | 2022-08-19 | 2022-09-30 |
-| [tea break](https://open.spotify.com/track/3MNwdY69Zi8DC1lAP71bhp) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [tea break](https://open.spotify.com/album/60HSzGsk9UgpShEVCeP0lk) | 2:03 | 2023-05-03 |  |
+| [tea break](https://open.spotify.com/track/3MNwdY69Zi8DC1lAP71bhp) | [harvest boy](https://open.spotify.com/artist/2V8pkWIxUczc3E02l6ZQ8J) | [tea break](https://open.spotify.com/album/60HSzGsk9UgpShEVCeP0lk) | 2:03 | 2023-05-03 | 2024-01-10 |
 | [tempo](https://open.spotify.com/track/2me2cURKVNKJM2WVhIyoQK) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk) | [tempo](https://open.spotify.com/album/4RHsBs9MScN7ORZbKk1f5R) | 2:15 | 2022-06-17 |  |
 | [Textiles](https://open.spotify.com/track/35xxjmTZntxVJ4Roaz8qdC) | [mėlyna](https://open.spotify.com/artist/4YhoGzc2IV6MAn13dwaNOZ), [Drunk Urameshi](https://open.spotify.com/artist/4dbYp5hselpGxIwYtKrLpa) | [Textiles](https://open.spotify.com/album/5787GRQnfsLxaCJ2QkhZu5) | 2:34 | 2022-08-05 | 2022-09-23 |
 | [the alchemist](https://open.spotify.com/track/2dnifhGswoIEtv0lRgWkk2) | [Billy Wuot](https://open.spotify.com/artist/7N3iUlklKpjkGB0X11eMx4) | [the alchemist](https://open.spotify.com/album/29tZL1XQurCkP6usinbIyh) | 2:30 | 2022-10-07 | 2023-09-22 |

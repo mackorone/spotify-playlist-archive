@@ -1,580 +1,1301 @@
 {
-  "2022-05-30": 11134,
-  "2022-05-31": 11156,
-  "2022-06-01": 11184,
-  "2022-06-02": 11184,
-  "2022-06-03": 11194,
-  "2022-06-04": 11206,
-  "2022-06-05": 11225,
-  "2022-06-06": 11235,
-  "2022-06-07": 11249,
-  "2022-06-08": 11269,
-  "2022-06-09": 11283,
-  "2022-06-10": 11301,
-  "2022-06-11": 11313,
-  "2022-06-12": 11335,
-  "2022-06-13": 11354,
-  "2022-06-14": 11370,
-  "2022-06-15": 11391,
-  "2022-06-16": 11407,
-  "2022-06-17": 11416,
-  "2022-06-18": 11430,
-  "2022-06-19": 11453,
-  "2022-06-20": 11453,
-  "2022-06-21": 11471,
-  "2022-06-22": 11511,
-  "2022-06-23": 11511,
-  "2022-06-24": 11529,
-  "2022-06-25": 11540,
-  "2022-06-26": 11547,
-  "2022-06-27": 11562,
-  "2022-06-28": 11572,
-  "2022-06-29": 11580,
-  "2022-06-30": 11591,
-  "2022-07-01": 11597,
-  "2022-07-02": 11612,
-  "2022-07-03": 11634,
-  "2022-07-04": 11650,
-  "2022-07-05": 11663,
-  "2022-07-06": 11674,
-  "2022-07-07": 11683,
-  "2022-07-08": 11694,
-  "2022-07-09": 11706,
-  "2022-07-10": 11717,
-  "2022-07-11": 11739,
-  "2022-07-12": 11750,
-  "2022-07-13": 11763,
-  "2022-07-14": 11776,
-  "2022-07-15": 11786,
-  "2022-07-16": 11792,
-  "2022-07-17": 11813,
-  "2022-07-18": 11837,
-  "2022-07-19": 11850,
-  "2022-07-20": 11860,
-  "2022-07-21": 11873,
-  "2022-07-22": 11886,
-  "2022-07-23": 11900,
-  "2022-07-24": 11910,
-  "2022-07-25": 11925,
-  "2022-07-26": 11941,
-  "2022-07-27": 11964,
-  "2022-07-28": 11978,
-  "2022-07-29": 11994,
-  "2022-07-30": 12025,
-  "2022-07-31": 12025,
-  "2022-08-01": 12039,
-  "2022-08-02": 12066,
-  "2022-08-03": 12066,
-  "2022-08-04": 12081,
-  "2022-08-05": 12095,
-  "2022-08-06": 12115,
-  "2022-08-07": 12121,
-  "2022-08-08": 12131,
-  "2022-08-09": 12145,
-  "2022-08-10": 12154,
-  "2022-08-11": 12164,
-  "2022-08-12": 12178,
-  "2022-08-13": 12197,
-  "2022-08-14": 12214,
-  "2022-08-15": 12240,
-  "2022-08-16": 12251,
-  "2022-08-17": 12263,
-  "2022-08-18": 12275,
-  "2022-08-19": 12287,
-  "2022-08-20": 12302,
-  "2022-08-21": 12325,
-  "2022-08-22": 12344,
-  "2022-08-23": 12355,
-  "2022-08-24": 12375,
-  "2022-08-25": 12387,
-  "2022-08-26": 12406,
-  "2022-08-27": 12425,
-  "2022-08-28": 12441,
-  "2022-08-29": 12463,
-  "2022-08-30": 12481,
-  "2022-08-31": 12491,
-  "2022-09-01": 12501,
-  "2022-09-02": 12512,
-  "2022-09-03": 12526,
-  "2022-09-04": 12543,
-  "2022-09-05": 12557,
-  "2022-09-06": 12570,
-  "2022-09-07": 12586,
-  "2022-09-09": 12613,
-  "2022-09-10": 12627,
-  "2022-09-11": 12644,
-  "2022-09-12": 12665,
-  "2022-09-13": 12677,
-  "2022-09-15": 12713,
-  "2022-09-16": 12726,
-  "2022-09-17": 12745,
-  "2022-09-18": 12767,
-  "2022-09-19": 12788,
-  "2022-09-20": 12800,
-  "2022-09-21": 12814,
-  "2022-09-22": 12831,
-  "2022-09-23": 12845,
-  "2022-09-24": 12857,
-  "2022-09-25": 12875,
-  "2022-09-26": 12890,
-  "2022-09-27": 12906,
-  "2022-09-28": 12920,
-  "2022-09-29": 12936,
-  "2022-09-30": 12956,
-  "2022-10-01": 12971,
-  "2022-10-02": 12988,
-  "2022-10-03": 12997,
-  "2022-10-04": 13009,
-  "2022-10-05": 13017,
-  "2022-10-06": 13030,
-  "2022-10-07": 13039,
-  "2022-10-08": 13047,
-  "2022-10-09": 13083,
-  "2022-10-10": 13088,
-  "2022-10-11": 13107,
-  "2022-10-12": 13122,
-  "2022-10-13": 13143,
-  "2022-10-14": 13156,
-  "2022-10-15": 13169,
-  "2022-10-16": 13183,
-  "2022-10-17": 13206,
-  "2022-10-18": 13217,
-  "2022-10-19": 13233,
-  "2022-10-20": 13248,
-  "2022-10-21": 13267,
-  "2022-10-22": 13291,
-  "2022-10-23": 13308,
-  "2022-10-24": 13329,
-  "2022-10-25": 13340,
-  "2022-10-26": 13347,
-  "2022-10-27": 13361,
-  "2022-10-28": 13375,
-  "2022-10-29": 13392,
-  "2022-10-30": 13403,
-  "2022-10-31": 13427,
-  "2022-11-01": 13440,
-  "2022-11-02": 13455,
-  "2022-11-03": 13470,
-  "2022-11-04": 13488,
-  "2022-11-05": 13503,
-  "2022-11-06": 13517,
-  "2022-11-07": 13529,
-  "2022-11-08": 13540,
-  "2022-11-09": 13556,
-  "2022-11-10": 13572,
-  "2022-11-11": 13585,
-  "2022-11-12": 13604,
-  "2022-11-13": 13622,
-  "2022-11-14": 13638,
-  "2022-11-15": 13654,
-  "2022-11-16": 13663,
-  "2022-11-17": 13680,
-  "2022-11-18": 13690,
-  "2022-11-19": 13699,
-  "2022-11-20": 13713,
-  "2022-11-21": 13729,
-  "2022-11-22": 13743,
-  "2022-11-23": 13758,
-  "2022-11-24": 13781,
-  "2022-11-25": 13796,
-  "2022-11-26": 13813,
-  "2022-11-27": 13831,
-  "2022-11-28": 13849,
-  "2022-11-29": 13868,
-  "2022-11-30": 13885,
-  "2022-12-01": 13902,
-  "2022-12-02": 13904,
-  "2022-12-03": 13927,
-  "2022-12-04": 13945,
-  "2022-12-05": 13959,
-  "2022-12-06": 13971,
-  "2022-12-07": 13981,
-  "2022-12-08": 13996,
-  "2022-12-09": 14012,
-  "2022-12-10": 14024,
-  "2022-12-11": 14040,
-  "2022-12-12": 14058,
-  "2022-12-13": 14069,
-  "2022-12-14": 14087,
-  "2022-12-15": 14097,
-  "2022-12-16": 14102,
-  "2022-12-17": 14115,
-  "2022-12-18": 14127,
-  "2022-12-19": 14141,
-  "2022-12-20": 14168,
-  "2022-12-21": 14168,
-  "2022-12-22": 14192,
-  "2022-12-24": 14220,
-  "2022-12-25": 14231,
-  "2022-12-26": 14255,
-  "2022-12-27": 14276,
-  "2022-12-28": 14285,
-  "2022-12-29": 14306,
-  "2022-12-30": 14322,
-  "2022-12-31": 14343,
-  "2023-01-01": 14362,
-  "2023-01-02": 14382,
-  "2023-01-03": 14399,
-  "2023-01-04": 14410,
-  "2023-01-05": 14427,
-  "2023-01-06": 14451,
-  "2023-01-07": 14476,
-  "2023-01-08": 14482,
-  "2023-01-09": 14494,
-  "2023-01-10": 14511,
-  "2023-01-11": 14531,
-  "2023-01-12": 14549,
-  "2023-01-13": 14558,
-  "2023-01-14": 14586,
-  "2023-01-15": 14587,
-  "2023-01-16": 14604,
-  "2023-01-17": 14619,
-  "2023-01-18": 14627,
-  "2023-01-19": 14639,
-  "2023-01-20": 14655,
-  "2023-01-21": 14678,
-  "2023-01-22": 14699,
-  "2023-01-23": 14721,
-  "2023-01-24": 14741,
-  "2023-01-25": 14755,
-  "2023-01-26": 14770,
-  "2023-01-27": 14786,
-  "2023-01-28": 14802,
-  "2023-01-29": 14823,
-  "2023-01-30": 14841,
-  "2023-01-31": 14841,
-  "2023-02-01": 14863,
-  "2023-02-02": 14875,
-  "2023-02-03": 14889,
-  "2023-02-04": 14908,
-  "2023-02-05": 14924,
-  "2023-02-06": 14936,
-  "2023-02-07": 14955,
-  "2023-02-08": 14985,
-  "2023-02-09": 14985,
-  "2023-02-10": 15000,
-  "2023-02-11": 15026,
-  "2023-02-12": 15069,
-  "2023-02-13": 15085,
-  "2023-02-14": 15085,
-  "2023-02-15": 15104,
-  "2023-02-16": 15119,
-  "2023-02-17": 15137,
-  "2023-02-18": 15182,
-  "2023-02-19": 15184,
-  "2023-02-20": 15197,
-  "2023-02-21": 15219,
-  "2023-02-22": 15234,
-  "2023-02-23": 15250,
-  "2023-02-24": 15277,
-  "2023-02-25": 15309,
-  "2023-02-26": 15330,
-  "2023-02-27": 15371,
-  "2023-02-28": 15371,
-  "2023-03-01": 15389,
-  "2023-03-02": 15406,
-  "2023-03-03": 15429,
-  "2023-03-04": 15440,
-  "2023-03-05": 15480,
-  "2023-03-06": 15480,
-  "2023-03-07": 15506,
-  "2023-03-08": 15521,
-  "2023-03-09": 15539,
-  "2023-03-10": 15556,
-  "2023-03-11": 15584,
-  "2023-03-12": 15601,
-  "2023-03-13": 15622,
-  "2023-03-14": 15642,
-  "2023-03-15": 15665,
-  "2023-03-16": 15679,
-  "2023-03-17": 15679,
-  "2023-03-18": 15721,
-  "2023-03-19": 15747,
-  "2023-03-20": 15768,
-  "2023-03-21": 15783,
-  "2023-03-22": 15804,
-  "2023-03-23": 15821,
-  "2023-03-24": 15821,
-  "2023-03-25": 15861,
-  "2023-03-26": 15886,
-  "2023-03-27": 15910,
-  "2023-03-28": 15927,
-  "2023-03-29": 15950,
-  "2023-03-30": 15982,
-  "2023-03-31": 15982,
-  "2023-04-01": 15991,
-  "2023-04-02": 16019,
-  "2023-04-03": 16040,
-  "2023-04-04": 16051,
-  "2023-04-05": 16069,
-  "2023-04-06": 16099,
-  "2023-04-07": 16109,
-  "2023-04-09": 16150,
-  "2023-04-10": 16179,
-  "2023-04-11": 16216,
-  "2023-04-12": 16216,
-  "2023-04-13": 16237,
-  "2023-04-14": 16260,
-  "2023-04-15": 16273,
-  "2023-04-16": 16296,
-  "2023-04-17": 16320,
-  "2023-04-18": 16331,
-  "2023-04-19": 16343,
-  "2023-04-20": 16366,
-  "2023-04-21": 16386,
-  "2023-04-22": 16404,
-  "2023-04-23": 16419,
-  "2023-04-24": 16441,
-  "2023-04-25": 16473,
-  "2023-04-26": 16500,
-  "2023-04-27": 16514,
-  "2023-04-28": 16537,
-  "2023-04-29": 16563,
-  "2023-04-30": 16585,
-  "2023-05-01": 16608,
-  "2023-05-02": 16624,
-  "2023-05-03": 16642,
-  "2023-05-04": 16663,
-  "2023-05-05": 16678,
-  "2023-05-06": 16695,
-  "2023-05-07": 16712,
-  "2023-05-08": 16729,
-  "2023-05-09": 16739,
-  "2023-05-10": 16753,
-  "2023-05-11": 16774,
-  "2023-05-12": 16785,
-  "2023-05-13": 16803,
-  "2023-05-14": 16841,
-  "2023-05-15": 16864,
-  "2023-05-16": 16873,
-  "2023-05-17": 16897,
-  "2023-05-18": 16915,
-  "2023-05-19": 16940,
-  "2023-05-20": 16979,
-  "2023-05-21": 16979,
-  "2023-05-22": 16979,
-  "2023-05-23": 17026,
-  "2023-05-24": 17060,
-  "2023-05-25": 17065,
-  "2023-05-26": 17085,
-  "2023-05-27": 17111,
-  "2023-05-28": 17140,
-  "2023-05-29": 17140,
-  "2023-05-30": 17178,
-  "2023-05-31": 17190,
-  "2023-06-01": 17208,
-  "2023-06-02": 17233,
-  "2023-06-03": 17260,
-  "2023-06-04": 17278,
-  "2023-06-05": 17299,
-  "2023-06-06": 17318,
-  "2023-06-07": 17333,
-  "2023-06-08": 17346,
-  "2023-06-09": 17361,
-  "2023-06-10": 17381,
-  "2023-06-11": 17398,
-  "2023-06-12": 17416,
-  "2023-06-13": 17432,
-  "2023-06-14": 17450,
-  "2023-06-15": 17468,
-  "2023-06-16": 17491,
-  "2023-06-17": 17515,
-  "2023-06-18": 17541,
-  "2023-06-19": 17559,
-  "2023-06-20": 17580,
-  "2023-06-21": 17605,
-  "2023-06-22": 17624,
-  "2023-06-23": 17646,
-  "2023-06-24": 17667,
-  "2023-06-25": 17688,
-  "2023-06-26": 17708,
-  "2023-06-27": 17725,
-  "2023-06-28": 17748,
-  "2023-06-29": 17766,
-  "2023-06-30": 17779,
-  "2023-07-01": 17817,
-  "2023-07-02": 17817,
-  "2023-07-03": 17840,
-  "2023-07-04": 17860,
-  "2023-07-05": 17875,
-  "2023-07-06": 17901,
-  "2023-07-07": 17901,
-  "2023-07-08": 17924,
-  "2023-07-09": 17943,
-  "2023-07-10": 17960,
-  "2023-07-11": 17973,
-  "2023-07-12": 17987,
-  "2023-07-13": 18004,
-  "2023-07-14": 18019,
-  "2023-07-15": 18034,
-  "2023-07-16": 18057,
-  "2023-07-17": 18088,
-  "2023-07-18": 18109,
-  "2023-07-19": 18134,
-  "2023-07-20": 18153,
-  "2023-07-21": 18174,
-  "2023-07-22": 18180,
-  "2023-07-23": 18211,
-  "2023-07-24": 18231,
-  "2023-07-25": 18255,
-  "2023-07-26": 18264,
-  "2023-07-27": 18282,
-  "2023-07-28": 18308,
-  "2023-07-29": 18337,
-  "2023-07-30": 18363,
-  "2023-07-31": 18383,
-  "2023-08-01": 18399,
-  "2023-08-02": 18413,
-  "2023-08-03": 18433,
-  "2023-08-04": 18453,
-  "2023-08-05": 18462,
-  "2023-08-06": 18501,
-  "2023-08-07": 18501,
-  "2023-08-08": 18520,
-  "2023-08-09": 18540,
-  "2023-08-10": 18565,
-  "2023-08-11": 18590,
-  "2023-08-12": 18602,
-  "2023-08-13": 18617,
-  "2023-08-14": 18638,
-  "2023-08-15": 18688,
-  "2023-08-16": 18688,
-  "2023-08-17": 18711,
-  "2023-08-18": 18730,
-  "2023-08-19": 18746,
-  "2023-08-20": 18772,
-  "2023-08-21": 18796,
-  "2023-08-22": 18814,
-  "2023-08-23": 18835,
-  "2023-08-24": 18853,
-  "2023-08-25": 18873,
-  "2023-08-26": 18884,
-  "2023-08-27": 18915,
-  "2023-08-28": 18945,
-  "2023-08-29": 18968,
-  "2023-08-30": 18982,
-  "2023-08-31": 19000,
-  "2023-09-01": 19043,
-  "2023-09-02": 19043,
-  "2023-09-03": 19056,
-  "2023-09-04": 19087,
-  "2023-09-05": 19112,
-  "2023-09-06": 19132,
-  "2023-09-07": 19143,
-  "2023-09-08": 19158,
-  "2023-09-09": 19186,
-  "2023-09-10": 19198,
-  "2023-09-11": 19216,
-  "2023-09-12": 19226,
-  "2023-09-13": 19244,
-  "2023-09-14": 19248,
-  "2023-09-15": 19265,
-  "2023-09-16": 19283,
-  "2023-09-17": 19283,
-  "2023-09-18": 19312,
-  "2023-09-19": 19328,
-  "2023-09-20": 19348,
-  "2023-09-21": 19366,
-  "2023-09-22": 19382,
-  "2023-09-23": 19402,
-  "2023-09-24": 19402,
-  "2023-09-25": 19420,
-  "2023-09-26": 19440,
-  "2023-09-27": 19452,
-  "2023-09-28": 19470,
-  "2023-09-29": 19498,
-  "2023-09-30": 19520,
-  "2023-10-01": 19539,
-  "2023-10-02": 19554,
-  "2023-10-03": 19565,
-  "2023-10-04": 19574,
-  "2023-10-05": 19589,
-  "2023-10-06": 19598,
-  "2023-10-07": 19610,
-  "2023-10-08": 19623,
-  "2023-10-09": 19639,
-  "2023-10-10": 19656,
-  "2023-10-11": 19688,
-  "2023-10-12": 19688,
-  "2023-10-13": 19701,
-  "2023-10-14": 19701,
-  "2023-10-15": 19701,
-  "2023-10-16": 19701,
-  "2023-10-17": 19701,
-  "2023-10-18": 19767,
-  "2023-10-19": 19780,
-  "2023-10-20": 19780,
-  "2023-10-21": 19780,
-  "2023-10-22": 19780,
-  "2023-10-23": 19841,
-  "2023-10-24": 19860,
-  "2023-10-25": 19860,
-  "2023-10-26": 19860,
-  "2023-10-27": 19860,
-  "2023-10-28": 19860,
-  "2023-10-29": 19860,
-  "2023-10-30": 19860,
-  "2023-10-31": 19860,
-  "2023-11-01": 19860,
-  "2023-11-02": 19957,
-  "2023-11-03": 19957,
-  "2023-11-04": 19957,
-  "2023-11-05": 19957,
-  "2023-11-06": 19957,
-  "2023-11-07": 19957,
-  "2023-11-08": 19957,
-  "2023-11-09": 19957,
-  "2023-11-10": 19957,
-  "2023-11-11": 20043,
-  "2023-11-12": 20056,
-  "2023-11-13": 20056,
-  "2023-11-14": 20056,
-  "2023-11-15": 20056,
-  "2023-11-16": 20056,
-  "2023-11-17": 20109,
-  "2023-11-18": 20109,
-  "2023-11-19": 20109,
-  "2023-11-20": 20109,
-  "2023-11-21": 20127,
-  "2023-11-22": 20127,
-  "2023-11-23": 20145,
-  "2023-11-24": 20145,
-  "2023-11-25": 20145,
-  "2023-11-26": 20145,
-  "2023-11-27": 20145,
-  "2023-11-28": 20145,
-  "2023-11-29": 20145,
-  "2023-11-30": 20145,
-  "2023-12-01": 20145,
-  "2023-12-02": 20145,
-  "2023-12-03": 20145,
-  "2023-12-04": 20145,
-  "2023-12-05": 20145,
-  "2023-12-06": 20145,
-  "2023-12-07": 20145,
-  "2023-12-08": 20145,
-  "2023-12-09": 20297,
-  "2023-12-10": 20297,
-  "2023-12-11": 20336,
-  "2023-12-12": 20336,
-  "2023-12-13": 20336,
-  "2023-12-14": 20374,
-  "2023-12-15": 20387,
-  "2023-12-16": 20408,
-  "2023-12-17": 20431,
-  "2023-12-18": 20453,
-  "2023-12-19": 20466,
-  "2023-12-20": 20477,
-  "2023-12-21": 20506,
-  "2023-12-22": 20518,
-  "2023-12-23": 20541,
-  "2023-12-24": 20557,
-  "2023-12-25": 20569,
-  "2023-12-26": 20585,
-  "2023-12-27": 20604,
-  "2023-12-30": 20663,
-  "2023-12-31": 20679,
-  "2024-01-01": 20687,
-  "2024-01-02": 20702,
-  "2024-01-03": 20714
+  "2024-01-17": 20917,
+  "date_first_scraped": "2022-05-30",
+  "description": "Two legendary voices, one playlist.",
+  "name": "Two Good: Lata & Mukesh",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jis Desh Men Ganga Behti Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1UZm1OmRDrEymqw3XSrbAz"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262906,
+      "name": "Aa Ab Laut Chalen",
+      "url": "https://open.spotify.com/track/21JWSU1TRf2il6ZB1nkIst"
+    },
+    {
+      "album": {
+        "name": "Aah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0qtiYqBB9gB7zK1z6g6pwT"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196920,
+      "name": "Aa Ja Re Ab Mera Dil Pukare",
+      "url": "https://open.spotify.com/track/3HtQhMPQbG0yKznlWa4Q7e"
+    },
+    {
+      "album": {
+        "name": "Hariyali Aur Rasta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73hW8bjgpRGGs7NwGhSsyw"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275746,
+      "name": "Allah Jane Kya Hoga Aage",
+      "url": "https://open.spotify.com/track/5dUVlaivCRTwDgn8IV3YVu"
+    },
+    {
+      "album": {
+        "name": "Ek Phool Char Kante (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4C028ARILrU8X3e8vsXbQb"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254693,
+      "name": "Ankhon Mein Rang Kyon Aaya",
+      "url": "https://open.spotify.com/track/46l9xvEbEzF6Dn2rNgUPHk"
+    },
+    {
+      "album": {
+        "name": "Malhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/77uT2x6Lpwe6T2XhysQZiq"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213466,
+      "name": "Bade Armanon Se",
+      "url": "https://open.spotify.com/track/4m2TSmceh9GyhhLp9eQDlm"
+    },
+    {
+      "album": {
+        "name": "Chupke Chupke (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0YbNCAiWnYtCoTX1uLv5t4"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270893,
+      "name": "Bagon Mein Kaise Ye Phool",
+      "url": "https://open.spotify.com/track/0R4mv2wznKXwznwoxU8slf"
+    },
+    {
+      "album": {
+        "name": "Jis Desh Men Ganga Behti Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1UZm1OmRDrEymqw3XSrbAz"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Begani Shadi Men Abdulla Diwana",
+      "url": "https://open.spotify.com/track/46OP5WxCnL8pqLE0hmP1eu"
+    },
+    {
+      "album": {
+        "name": "Meri Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        },
+        {
+          "name": "Javed Jaffrey",
+          "url": "https://open.spotify.com/artist/4G52SGqVJlR6u5DuBgEzYR"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 365293,
+      "name": "Bol Baby Bol Rock-N-Roll",
+      "url": "https://open.spotify.com/track/6RBIv5rKPHDYjC2dWeGd2c"
+    },
+    {
+      "album": {
+        "name": "Milan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Bol Gori Bol Tera Kaun Piya",
+      "url": "https://open.spotify.com/track/1xa91NvuOFZqHWo3feblM8"
+    },
+    {
+      "album": {
+        "name": "Hariyali Aur Rasta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73hW8bjgpRGGs7NwGhSsyw"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 249887,
+      "name": "Bol Meri Taqdeer Men Kya Hai",
+      "url": "https://open.spotify.com/track/2P268iRS2XkF1Ho5McW71s"
+    },
+    {
+      "album": {
+        "name": "Sanyasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rjwXbUJ4gQaR1RIxK68Cr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370912,
+      "name": "Chal Sanyasi Mandir Mein",
+      "url": "https://open.spotify.com/track/1dWDmWSC515eD05iNODgIk"
+    },
+    {
+      "album": {
+        "name": "Satyam Shivam Sundaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58s332mhv3WrkdXgmvYCXS"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Zeenat Aman",
+          "url": "https://open.spotify.com/artist/1sHUscd4sd03BO3QaGauYE"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349893,
+      "name": "Chanchal Sheetal Nirmal Komal",
+      "url": "https://open.spotify.com/track/4Nkv6noOndBLoyxkMtD6mJ"
+    },
+    {
+      "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202333,
+      "name": "Chhod Gaye Balam Mujhe",
+      "url": "https://open.spotify.com/track/5gMoa54zw0c0mQjX9Qjq7x"
+    },
+    {
+      "album": {
+        "name": "Awara (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1X5M3U0FYU3sqmw8otYVWA"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276600,
+      "name": "Dam Bhar Jo Udhar Munh Phere",
+      "url": "https://open.spotify.com/track/4saThgeq3MOUI8cUmZBYqs"
+    },
+    {
+      "album": {
+        "name": "Gora Aur Kala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6gh2MukM7Xt09aMDh9Xc2r"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298186,
+      "name": "Dheere Dheere Bol Koi Sun Na Le",
+      "url": "https://open.spotify.com/track/6pLKkikQIumYXROIlLGcMc"
+    },
+    {
+      "album": {
+        "name": "Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280266,
+      "name": "Dil Ki Nazar Se",
+      "url": "https://open.spotify.com/track/6piailrPPrz3xGKrQpP52W"
+    },
+    {
+      "album": {
+        "name": "Madari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7EPt8j2WFbrZCCEfZctf0R"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215582,
+      "name": "Dil Lootnewale Jadugar",
+      "url": "https://open.spotify.com/track/0lQvn1LFnH8DgYzjp1ybOs"
+    },
+    {
+      "album": {
+        "name": "Madhumati (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6DUq0IMq75xMZuQpJKJSmm"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207293,
+      "name": "Dil Tadap Tadap Ke Kah Raha",
+      "url": "https://open.spotify.com/track/3BhrEWJmIt4lgE5CHKc5cN"
+    },
+    {
+      "album": {
+        "name": "Prem Patra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/52CUNJwjEJKtRasRBLQo8n"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 225666,
+      "name": "Do Ankhiyan Jhuki Jhuki Si",
+      "url": "https://open.spotify.com/track/1jyDLyfXWb3vv5NLj22iCW"
+    },
+    {
+      "album": {
+        "name": "Ujala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3IFuV900tY4aVIL9gmAcqO"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178626,
+      "name": "Duniya Walon Se Door",
+      "url": "https://open.spotify.com/track/3ZbppoA3SweB8JJdjHKDl4"
+    },
+    {
+      "album": {
+        "name": "Sanjog (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2uiy6pl0OnWtMy8M5aB2Ys"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Ek Manzil Rahi Do",
+      "url": "https://open.spotify.com/track/5PE2vBYJUm47Ca8oSqAywD"
+    },
+    {
+      "album": {
+        "name": "Shor (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NBofF5gdHIHGf1yFTf70K"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355453,
+      "name": "Ek Pyar Ka Naghma Hai",
+      "url": "https://open.spotify.com/track/4jcGmCcMyiGpgUHgSIKcc1"
+    },
+    {
+      "album": {
+        "name": "Sangam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Mahendra Kapoor",
+          "url": "https://open.spotify.com/artist/6MoG33ssSzwwE3YJS4e6hu"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285499,
+      "name": "Har Dil Jo Pyar Karega",
+      "url": "https://open.spotify.com/track/2UuY9Kgs4Yub38xZSfu0CR"
+    },
+    {
+      "album": {
+        "name": "Farz (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0U2T4mFa61Nxr7f8Z6Bp3I"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363160,
+      "name": "Hum To Tere Aashiq Hain",
+      "url": "https://open.spotify.com/track/6Za7U4ZbvHHVjyVWHGnKTF"
+    },
+    {
+      "album": {
+        "name": "Milan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337040,
+      "name": "Hum Tum Yug Yug Se",
+      "url": "https://open.spotify.com/track/3aQDARM7Hxex8qVe1VAzWX"
+    },
+    {
+      "album": {
+        "name": "Purnima (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/29PvqeWYDyvgm90WWJDXXs"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246773,
+      "name": "Humsafar Mere Humsafar",
+      "url": "https://open.spotify.com/track/5q595Iv1dXciwXDdXZ7Hs6"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (The Bollywood Soundtrack)",
+        "url": "https://open.spotify.com/album/2qYNTXmExmsvkL7m2jvRl5"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271000,
+      "name": "Ichak Dana Beechak Dana",
+      "url": "https://open.spotify.com/track/2h7i7SuotuXeAePz4vtDib"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273213,
+      "name": "Ichak Dana Beechak Dana",
+      "url": "https://open.spotify.com/track/4giSzPnADn5XopvD49sUal"
+    },
+    {
+      "album": {
+        "name": "Aah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0qtiYqBB9gB7zK1z6g6pwT"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212820,
+      "name": "Jane Na Nazar Pehchane Jigar",
+      "url": "https://open.spotify.com/track/525xIL8Mvl6kzyCkwQyoed"
+    },
+    {
+      "album": {
+        "name": "Dharti Kahe Pukar Ke (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5Jy7XpVY64Z1gEqiiXgGit"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326912,
+      "name": "Je Hum Tum Chori Se",
+      "url": "https://open.spotify.com/track/41B6pAgCuJ5422JFyJ0DpA"
+    },
+    {
+      "album": {
+        "name": "Meri Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6"
+      },
+      "artists": [
+        {
+          "name": "Laxmikant",
+          "url": "https://open.spotify.com/artist/0eDAzZGzFQnWpt8HVwA3dV"
+        },
+        {
+          "name": "Subhash Ghai",
+          "url": "https://open.spotify.com/artist/6Y1XXFYsCelh1i5PArcLeV"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 337920,
+      "name": "Jhoom Le Jhoom Le",
+      "url": "https://open.spotify.com/track/1DhRU5mdcMiRoojtH0OkZW"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4PAxacBYgofqgtorH5y3BA"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298579,
+      "name": "Kabhi Kabhi Mere Dil Mein - Duet",
+      "url": "https://open.spotify.com/track/418v2RdbaHUOdWJt5AzOMP"
+    },
+    {
+      "album": {
+        "name": "Malhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/77uT2x6Lpwe6T2XhysQZiq"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 255533,
+      "name": "Kahan Ho Tum Zara Awaz Do",
+      "url": "https://open.spotify.com/track/3ITh1VWGy6vQ3Dc8TAjbv4"
+    },
+    {
+      "album": {
+        "name": "Phir Kab Milogi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5HgdtYmGsOcIzOnyf3pp6D"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383066,
+      "name": "Kahin Karti Hogi Woh Mera Intezar",
+      "url": "https://open.spotify.com/track/5VyA9QXaAJUBLOKuaNMCds"
+    },
+    {
+      "album": {
+        "name": "Mere Humsafar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2J5eHuAWnicocDqHGsJ9nY"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344760,
+      "name": "Kisi Raah Men Kisi Mod Par",
+      "url": "https://open.spotify.com/track/5sUAUqMtpl1XzHObGRWhgw"
+    },
+    {
+      "album": {
+        "name": "Hariyali Aur Rasta (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/73hW8bjgpRGGs7NwGhSsyw"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287600,
+      "name": "Lakhon Tare Aasman Per",
+      "url": "https://open.spotify.com/track/07UmbTUVteqSGrFZkMdBvG"
+    },
+    {
+      "album": {
+        "name": "Kranti (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/15h0Vgw7G6cRVBJ81ST8aB"
+      },
+      "artists": [
+        {
+          "name": "Nitin Mukesh",
+          "url": "https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462586,
+      "name": "Looie Shama Sha",
+      "url": "https://open.spotify.com/track/4LPrBVTy7otXFC27EiDN1A"
+    },
+    {
+      "album": {
+        "name": "Roti Kapada Aur Makaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gdNXY7qqOjCON6NlHcibo"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438880,
+      "name": "Main Na Bhoolunga, Pt. 2",
+      "url": "https://open.spotify.com/track/6RIhQiAZA8a3Q9QRmROaFQ"
+    },
+    {
+      "album": {
+        "name": "Patthar Ke Sanam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/210AyFuO4BtbdAlpLkyztB"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288101,
+      "name": "Mehboob Mere Mehboob Mere",
+      "url": "https://open.spotify.com/track/1PtBRluZrfpwkzy9OY4p2G"
+    },
+    {
+      "album": {
+        "name": "Roti Kapada Aur Makaan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2gdNXY7qqOjCON6NlHcibo"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Jani Babu",
+          "url": "https://open.spotify.com/artist/0cOE9LgJvqlm6qlFrJOcMv"
+        },
+        {
+          "name": "Narendra Chanchal",
+          "url": "https://open.spotify.com/artist/6cxJR2PoA84Mlsr9yGrSsZ"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 533066,
+      "name": "Mehngai Mar Gayee",
+      "url": "https://open.spotify.com/track/7cBnFPxIkhgeO339FX3E6C"
+    },
+    {
+      "album": {
+        "name": "Aashiq (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ehRCTZbkkHpo7acUDtTct"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204320,
+      "name": "Mehtab Tera Chehra",
+      "url": "https://open.spotify.com/track/2idM4eZWknoga9RHyMhGR8"
+    },
+    {
+      "album": {
+        "name": "Chhalia (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6hXwMYiWfWp8366OaY3k01"
+      },
+      "artists": [
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197720,
+      "name": "Meri Jaan Kuchh Bhi Kijiye",
+      "url": "https://open.spotify.com/track/6KNWdlTMeIioFGveVpFg1F"
+    },
+    {
+      "album": {
+        "name": "Dus Numbri (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2n6jI30quvrojEakC0m2v2"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508986,
+      "name": "Mujhe Dard Rahta Hai",
+      "url": "https://open.spotify.com/track/0NDMyrUglZDZPKUDG88Qqe"
+    },
+    {
+      "album": {
+        "name": "Sangam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/05FkcIZOaGV3YBpiANIehV"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268533,
+      "name": "O Mere Sanam",
+      "url": "https://open.spotify.com/track/49AuPmipQ4GlXLDYxCqINv"
+    },
+    {
+      "album": {
+        "name": "Shor (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NBofF5gdHIHGf1yFTf70K"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365973,
+      "name": "Paani Re Paani",
+      "url": "https://open.spotify.com/track/2cdlwQxkcA7lZQjkukZy1v"
+    },
+    {
+      "album": {
+        "name": "Barsaat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6kQNA934VKsG2PM3zJZdSG"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204613,
+      "name": "Patli Kamar Hai",
+      "url": "https://open.spotify.com/track/3giUMxiS0uM8YRWnokJNLU"
+    },
+    {
+      "album": {
+        "name": "Prem Kahani (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AWyAklgXhlRM8ztQM2m2s"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317840,
+      "name": "Phool Ahista Phenko",
+      "url": "https://open.spotify.com/track/4I1mcHrRo8ShmBVda8wgcc"
+    },
+    {
+      "album": {
+        "name": "Saraswatichandra (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3JGQAuctvLMJ0siYpusira"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286066,
+      "name": "Phool Tumhe Bheja Hai Khat Mein",
+      "url": "https://open.spotify.com/track/66lGRYDq5J6Wgv7q7ymlua"
+    },
+    {
+      "album": {
+        "name": "Shree 420 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/06IaiBtDfA82datti9r8da"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2023-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360893,
+      "name": "Ramaiya Vastavaiya",
+      "url": "https://open.spotify.com/track/37YVXy2OMYyT91185rBOsc"
+    },
+    {
+      "album": {
+        "name": "Milan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1AXStvax5tZhvxpbsYqcsZ"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328800,
+      "name": "Sawan Ka Mahina",
+      "url": "https://open.spotify.com/track/1CD8kjfHhJQQgzNqmIMFmU"
+    },
+    {
+      "album": {
+        "name": "Sanyasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0rjwXbUJ4gQaR1RIxK68Cr"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 327533,
+      "name": "Sun Baal Bramhachari",
+      "url": "https://open.spotify.com/track/2Uiz5T9TOx1oaDpIHvbs0j"
+    },
+    {
+      "album": {
+        "name": "Paras (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5yEjQKFKoUO1119L5mo1aL"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322960,
+      "name": "Tere Honthon Ke Do Phool Pyare",
+      "url": "https://open.spotify.com/track/6wkBQCcIYLc5PSEL5O8PSH"
+    },
+    {
+      "album": {
+        "name": "Aas Ka Panchhi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6NW3rq2M56VEMmK2z5twWx"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Tum Roothi Raho",
+      "url": "https://open.spotify.com/track/4FlqKmCS1Wps6OgihpF4Iw"
+    },
+    {
+      "album": {
+        "name": "Dil Hi to Hai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5u1lePikFjvgr4Olc3br4P"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203573,
+      "name": "Tumhari Mast Nazar Gar",
+      "url": "https://open.spotify.com/track/6TRApMkHheST7ZpyxoUxdG"
+    },
+    {
+      "album": {
+        "name": "Anari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5IQ9K4BWEVmRJoyqD2ScMN"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264730,
+      "name": "Woh Chand Khila Woh Tare Hanse, Pt. 2",
+      "url": "https://open.spotify.com/track/5y85TFf3uqXZ29saeXLhec"
+    },
+    {
+      "album": {
+        "name": "Umar Qaid (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5K08FstdfCQ9oYJGbxHZQP"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Mukesh",
+          "url": "https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324826,
+      "name": "Yaad Rahega Pyar Ka",
+      "url": "https://open.spotify.com/track/4MwSRPwqAMdoedMWlxFVua"
+    },
+    {
+      "album": {
+        "name": "Meri Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Nitin Mukesh",
+          "url": "https://open.spotify.com/artist/4ec676jWgAuvEZZg0y7dBy"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414400,
+      "name": "Zindagi Har Kadam Ek Nai Jung Hai, Pt. 1",
+      "url": "https://open.spotify.com/track/136NoWEp2MN7LrNYIgMkpM"
+    },
+    {
+      "album": {
+        "name": "Meri Jung (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0j71NhJ8RsaMAAj6b6XEG6"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Shabbir Kumar",
+          "url": "https://open.spotify.com/artist/3M8OKPsQvP1U8WkG5lY4Vy"
+        }
+      ],
+      "date_added": "2021-10-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-26",
+      "duration_ms": 319373,
+      "name": "Zindagi Har Kadam Ek Nai Jung Hai, Pt. 2",
+      "url": "https://open.spotify.com/track/59B6pXhPH81vbpCBMHLCiR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbis4ynuZ7ck"
 }

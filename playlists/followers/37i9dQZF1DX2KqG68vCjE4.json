@@ -1,250 +1,915 @@
 {
-  "2023-04-29": 36,
-  "2023-04-30": 408,
-  "2023-05-01": 1888,
-  "2023-05-02": 2123,
-  "2023-05-03": 2186,
-  "2023-05-04": 2218,
-  "2023-05-05": 2257,
-  "2023-05-06": 2302,
-  "2023-05-07": 2329,
-  "2023-05-08": 2356,
-  "2023-05-09": 2376,
-  "2023-05-10": 2388,
-  "2023-05-11": 2407,
-  "2023-05-12": 2430,
-  "2023-05-13": 2447,
-  "2023-05-14": 2465,
-  "2023-05-15": 2486,
-  "2023-05-16": 2502,
-  "2023-05-17": 2504,
-  "2023-05-18": 2507,
-  "2023-05-19": 2512,
-  "2023-05-20": 2521,
-  "2023-05-21": 2521,
-  "2023-05-22": 2521,
-  "2023-05-23": 2531,
-  "2023-05-24": 2540,
-  "2023-05-25": 2540,
-  "2023-05-26": 2544,
-  "2023-05-27": 2549,
-  "2023-05-28": 2555,
-  "2023-05-29": 2555,
-  "2023-05-30": 2561,
-  "2023-05-31": 2564,
-  "2023-06-01": 2567,
-  "2023-06-02": 2576,
-  "2023-06-03": 2581,
-  "2023-06-04": 2582,
-  "2023-06-05": 2588,
-  "2023-06-06": 2590,
-  "2023-06-07": 2590,
-  "2023-06-08": 2595,
-  "2023-06-09": 2596,
-  "2023-06-10": 2600,
-  "2023-06-11": 2603,
-  "2023-06-12": 2605,
-  "2023-06-13": 2611,
-  "2023-06-14": 2616,
-  "2023-06-15": 2624,
-  "2023-06-16": 2628,
-  "2023-06-17": 2636,
-  "2023-06-18": 2640,
-  "2023-06-19": 2648,
-  "2023-06-20": 2655,
-  "2023-06-21": 2658,
-  "2023-06-22": 2662,
-  "2023-06-23": 2665,
-  "2023-06-24": 2675,
-  "2023-06-25": 2676,
-  "2023-06-26": 2683,
-  "2023-06-27": 2688,
-  "2023-06-28": 2688,
-  "2023-06-29": 2692,
-  "2023-06-30": 2693,
-  "2023-07-01": 2705,
-  "2023-07-02": 2705,
-  "2023-07-03": 2706,
-  "2023-07-04": 2706,
-  "2023-07-05": 2711,
-  "2023-07-06": 2715,
-  "2023-07-07": 2715,
-  "2023-07-08": 2723,
-  "2023-07-09": 2724,
-  "2023-07-10": 2732,
-  "2023-07-11": 2737,
-  "2023-07-12": 2739,
-  "2023-07-13": 2741,
-  "2023-07-14": 2742,
-  "2023-07-15": 2746,
-  "2023-07-16": 2752,
-  "2023-07-17": 2757,
-  "2023-07-18": 2758,
-  "2023-07-19": 2761,
-  "2023-07-20": 2763,
-  "2023-07-21": 2768,
-  "2023-07-22": 2772,
-  "2023-07-23": 2776,
-  "2023-07-24": 2781,
-  "2023-07-25": 2784,
-  "2023-07-26": 2784,
-  "2023-07-27": 2788,
-  "2023-07-28": 2788,
-  "2023-07-29": 2795,
-  "2023-07-30": 2799,
-  "2023-07-31": 2802,
-  "2023-08-01": 2805,
-  "2023-08-02": 2806,
-  "2023-08-03": 2809,
-  "2023-08-04": 2809,
-  "2023-08-05": 2813,
-  "2023-08-06": 2815,
-  "2023-08-07": 2815,
-  "2023-08-08": 2816,
-  "2023-08-09": 2819,
-  "2023-08-10": 2822,
-  "2023-08-11": 2827,
-  "2023-08-12": 2834,
-  "2023-08-13": 2836,
-  "2023-08-14": 2840,
-  "2023-08-15": 2844,
-  "2023-08-16": 2844,
-  "2023-08-17": 2867,
-  "2023-08-18": 2877,
-  "2023-08-19": 2881,
-  "2023-08-20": 2889,
-  "2023-08-21": 2895,
-  "2023-08-22": 2896,
-  "2023-08-23": 2898,
-  "2023-08-24": 2900,
-  "2023-08-25": 2906,
-  "2023-08-26": 2907,
-  "2023-08-27": 2910,
-  "2023-08-28": 2912,
-  "2023-08-29": 2913,
-  "2023-08-30": 2914,
-  "2023-08-31": 2919,
-  "2023-09-01": 2931,
-  "2023-09-02": 2931,
-  "2023-09-03": 2933,
-  "2023-09-04": 2934,
-  "2023-09-05": 2937,
-  "2023-09-06": 2939,
-  "2023-09-07": 2941,
-  "2023-09-08": 2946,
-  "2023-09-09": 2948,
-  "2023-09-10": 2950,
-  "2023-09-11": 2950,
-  "2023-09-12": 2958,
-  "2023-09-13": 2961,
-  "2023-09-14": 2961,
-  "2023-09-15": 2964,
-  "2023-09-16": 2967,
-  "2023-09-17": 2970,
-  "2023-09-18": 2973,
-  "2023-09-19": 2976,
-  "2023-09-20": 2983,
-  "2023-09-21": 2988,
-  "2023-09-22": 2998,
-  "2023-09-23": 3003,
-  "2023-09-24": 3006,
-  "2023-09-25": 3009,
-  "2023-09-26": 3011,
-  "2023-09-27": 3012,
-  "2023-09-28": 3019,
-  "2023-09-29": 3020,
-  "2023-09-30": 3022,
-  "2023-10-01": 3024,
-  "2023-10-02": 3024,
-  "2023-10-03": 3027,
-  "2023-10-04": 3028,
-  "2023-10-05": 3030,
-  "2023-10-06": 3030,
-  "2023-10-07": 3034,
-  "2023-10-08": 3036,
-  "2023-10-09": 3039,
-  "2023-10-10": 3040,
-  "2023-10-11": 3039,
-  "2023-10-12": 3039,
-  "2023-10-13": 3041,
-  "2023-10-14": 3041,
-  "2023-10-15": 3042,
-  "2023-10-16": 3043,
-  "2023-10-17": 3043,
-  "2023-10-18": 3047,
-  "2023-10-19": 3047,
-  "2023-10-20": 3048,
-  "2023-10-21": 3050,
-  "2023-10-22": 3054,
-  "2023-10-23": 3059,
-  "2023-10-24": 3061,
-  "2023-10-25": 3064,
-  "2023-10-26": 3062,
-  "2023-10-27": 3065,
-  "2023-10-28": 3068,
-  "2023-10-29": 3072,
-  "2023-10-30": 3074,
-  "2023-10-31": 3074,
-  "2023-11-01": 3075,
-  "2023-11-02": 3075,
-  "2023-11-03": 3080,
-  "2023-11-04": 3083,
-  "2023-11-05": 3085,
-  "2023-11-06": 3088,
-  "2023-11-07": 3089,
-  "2023-11-08": 3095,
-  "2023-11-09": 3093,
-  "2023-11-10": 3091,
-  "2023-11-11": 3093,
-  "2023-11-12": 3094,
-  "2023-11-13": 3095,
-  "2023-11-14": 3095,
-  "2023-11-15": 3095,
-  "2023-11-16": 3096,
-  "2023-11-17": 3096,
-  "2023-11-18": 3096,
-  "2023-11-19": 3098,
-  "2023-11-20": 3103,
-  "2023-11-21": 3142,
-  "2023-11-22": 3211,
-  "2023-11-23": 3228,
-  "2023-11-24": 3241,
-  "2023-11-25": 3249,
-  "2023-11-26": 3253,
-  "2023-11-27": 3254,
-  "2023-11-28": 3257,
-  "2023-11-29": 3284,
-  "2023-11-30": 3284,
-  "2023-12-01": 3296,
-  "2023-12-02": 3302,
-  "2023-12-03": 3306,
-  "2023-12-04": 3307,
-  "2023-12-05": 3309,
-  "2023-12-06": 3314,
-  "2023-12-07": 3318,
-  "2023-12-08": 3326,
-  "2023-12-09": 3330,
-  "2023-12-10": 3334,
-  "2023-12-11": 3340,
-  "2023-12-12": 3345,
-  "2023-12-13": 3345,
-  "2023-12-14": 3347,
-  "2023-12-15": 3350,
-  "2023-12-16": 3355,
-  "2023-12-17": 3361,
-  "2023-12-18": 3366,
-  "2023-12-19": 3385,
-  "2023-12-20": 3391,
-  "2023-12-21": 3395,
-  "2023-12-22": 3397,
-  "2023-12-23": 3403,
-  "2023-12-24": 3409,
-  "2023-12-25": 3420,
-  "2023-12-26": 3433,
-  "2023-12-27": 3456,
-  "2023-12-30": 3490,
-  "2023-12-31": 3493,
-  "2024-01-01": 3500,
-  "2024-01-02": 3505,
-  "2024-01-03": 3520
+  "2024-01-17": 3634,
+  "date_first_scraped": "2023-04-29",
+  "description": "Wishing Willie Nelson a happy 90th birthday with Spotify Singles tributes from Margo Price feat. Particle Kid, The War and Treaty, & Sierra Ferrell",
+  "name": "Happy 90th Willie Nelson! ",
+  "tracks": [
+    {
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4"
+    },
+    {
+      "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "American Remains",
+      "url": "https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy"
+    },
+    {
+      "album": {
+        "name": "Live At Budokan",
+        "url": "https://open.spotify.com/album/1rXXez3sVB1qPY8sOoR9yk"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/4jyPhUEzdA1P9oIUOsWJ1z"
+    },
+    {
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "Big River",
+      "url": "https://open.spotify.com/track/1ip07xbQWgehduEDY6j8r8"
+    },
+    {
+      "album": {
+        "name": "Both Sides Now",
+        "url": "https://open.spotify.com/album/4Envyf2oNSZxkdPMhJDgnE"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197333,
+      "name": "Bloody Mary Morning",
+      "url": "https://open.spotify.com/track/2utzkvWTRwmoovquzHaQQf"
+    },
+    {
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Blue Eyes Crying In the Rain",
+      "url": "https://open.spotify.com/track/2uRVPeQbsEpRQD0DKr1WTo"
+    },
+    {
+      "album": {
+        "name": "I Don't Know A Thing About Love: The Songs of Harlan Howard",
+        "url": "https://open.spotify.com/album/4lO42iHAoge8T139BkRc8S"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208120,
+      "name": "Busted",
+      "url": "https://open.spotify.com/track/2kuOsKK8W1fd6jWJh0u7O7"
+    },
+    {
+      "album": {
+        "name": "California Sober (feat. Willie Nelson)",
+        "url": "https://open.spotify.com/album/0mTOUvkezKot3JI1Cd9iDP"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230033,
+      "name": "California Sober (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0zfEBDdtB0TPV64JcvF7E5"
+    },
+    {
+      "album": {
+        "name": "Willie And Family Live",
+        "url": "https://open.spotify.com/album/4QDHDu7CU9GwCZHCnZ44JB"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163493,
+      "name": "Funny How Time Slips Away - Live at Harrah's, Lake Tahoe, Nevada - April 1978",
+      "url": "https://open.spotify.com/track/04Za3mSOirROIHPV718nJk"
+    },
+    {
+      "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259360,
+      "name": "Georgia On My Mind",
+      "url": "https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e"
+    },
+    {
+      "album": {
+        "name": "Words Don't Fit The Picture",
+        "url": "https://open.spotify.com/album/55JAZnzIXPs5YQtm0YnDpE"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Good Hearted Woman",
+      "url": "https://open.spotify.com/track/38jwN2vvBU7CjrySrZ9t35"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Particle Kid",
+          "url": "https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257117,
+      "name": "Hands On The Wheel (Feat. Particle Kid) (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx"
+    },
+    {
+      "album": {
+        "name": "Highwayman",
+        "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182653,
+      "name": "Highwayman",
+      "url": "https://open.spotify.com/track/7jWbXvrgdbkajU8L28ahn5"
+    },
+    {
+      "album": {
+        "name": "A Beautiful Time",
+        "url": "https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251373,
+      "name": "I'll Love You Till The Day I Die",
+      "url": "https://open.spotify.com/track/7MdWQ5TLm9snNKXpmcwk9l"
+    },
+    {
+      "album": {
+        "name": "First Rose of Spring",
+        "url": "https://open.spotify.com/album/5WVhM9o7WmTU8n4JgGYHdC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251853,
+      "name": "I'm the Only Hell My Mama Ever Raised",
+      "url": "https://open.spotify.com/track/2BdBVq6So5sBCbALS2p1rR"
+    },
+    {
+      "album": {
+        "name": "The Sound In Your Mind",
+        "url": "https://open.spotify.com/album/3d5AwnJrZpuP4iX59NUBwC"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122760,
+      "name": "If You've Got the Money I've Got the Time",
+      "url": "https://open.spotify.com/track/1s2Wyk3QM2qZ9J863GFd3n"
+    },
+    {
+      "album": {
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176933,
+      "name": "It's All Going to Pot",
+      "url": "https://open.spotify.com/track/1efJ9Kx8Gx5DEAcx2btuRA"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+    },
+    {
+      "album": {
+        "name": "Ol' Waylon",
+        "url": "https://open.spotify.com/album/54cYJhrv7x97hbI047BxMO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202026,
+      "name": "Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/4WScDSwAa9m48pgHugVkCo"
+    },
+    {
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
+      },
+      "artists": [
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152866,
+      "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
+      "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Wine",
+        "url": "https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228560,
+      "name": "Me and Paul",
+      "url": "https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO"
+    },
+    {
+      "album": {
+        "name": "One Hell Of A Ride",
+        "url": "https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152706,
+      "name": "On the Road Again - Live at Austin, Texas - Fall 1979",
+      "url": "https://open.spotify.com/track/74ft1k0SgskENu7H61ZXdB"
+    },
+    {
+      "album": {
+        "name": "The Essential Merle Haggard: The Epic Years",
+        "url": "https://open.spotify.com/album/1JWqodXuHDoGHqxyATcPJb"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287626,
+      "name": "Pancho and Lefty",
+      "url": "https://open.spotify.com/track/2hckAvL66faAcR0Fk64hj6"
+    },
+    {
+      "album": {
+        "name": "Red Headed Stranger",
+        "url": "https://open.spotify.com/album/5aEtg4dxdBk4pj6SJ3hNsM"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239800,
+      "name": "Red Headed Stranger",
+      "url": "https://open.spotify.com/track/5buJ3E5gcaJvM3wRgwenFi"
+    },
+    {
+      "album": {
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205320,
+      "name": "Roll Me Up",
+      "url": "https://open.spotify.com/track/4FphdrrHaX3vXpT1eOrTHR"
+    },
+    {
+      "album": {
+        "name": "Willie Nelson American Outlaw (Live)",
+        "url": "https://open.spotify.com/album/5heTM7q5ly9IPwJIFSbKLp"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        },
+        {
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        },
+        {
+          "name": "Derek Trucks",
+          "url": "https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        },
+        {
+          "name": "Bobby Bare",
+          "url": "https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        },
+        {
+          "name": "Lee Ann Womack",
+          "url": "https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+        },
+        {
+          "name": "Lyle Lovett",
+          "url": "https://open.spotify.com/artist/0zlJDQgqnr9AocrH9gs1Es"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Micah Nelson",
+          "url": "https://open.spotify.com/artist/0J1uiTdcz2yFtYwfQVXYHg"
+        },
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "The Little Willies",
+          "url": "https://open.spotify.com/artist/4MWopTgyvixq0tNiFrVg0l"
+        },
+        {
+          "name": "Ray Benson",
+          "url": "https://open.spotify.com/artist/2G6E8Q9UTzDIhoawhJm33M"
+        },
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        },
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134266,
+      "name": "Roll Me Up and Smoke Me When I Die - Live",
+      "url": "https://open.spotify.com/track/5iis9J2sptrUy0VIpFVIg1"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D"
+      },
+      "artists": [
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250801,
+      "name": "Seven Spanish Angels (Recorded at Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR"
+    },
+    {
+      "album": {
+        "name": "Friendship",
+        "url": "https://open.spotify.com/album/4tgLQ8VwHXVBkRi3beX95g"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231026,
+      "name": "Seven Spanish Angels (with Ray Charles)",
+      "url": "https://open.spotify.com/track/51EKPuV1uAWryjNMqZLtgJ"
+    },
+    {
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+    },
+    {
+      "album": {
+        "name": "Highwayman 2",
+        "url": "https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn"
+      },
+      "artists": [
+        {
+          "name": "The Highwaymen",
+          "url": "https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192426,
+      "name": "Silver Stallion",
+      "url": "https://open.spotify.com/track/6ivUoajqXRNVIyEGhRkucw"
+    },
+    {
+      "album": {
+        "name": "Across The Borderline",
+        "url": "https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210333,
+      "name": "Still Is Still Moving to Me",
+      "url": "https://open.spotify.com/track/25KGhrFfFD9VdxHEe4Hona"
+    },
+    {
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/52chGdpRUEAu29jmJsaMSR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Bobbie Nelson",
+          "url": "https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245068,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/2wKeVJRRxc9O3Wu7ur0Y2i"
+    },
+    {
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/6FL4FWzNcXbYCEKCZmBcmW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Bobbie Nelson",
+          "url": "https://open.spotify.com/artist/0Is1LbHQZfGwaQkpW6LfwU"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-26",
+      "duration_ms": 245068,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5Pk3W4zR90oKigFXvDpVaa"
+    },
+    {
+      "album": {
+        "name": "1100 Bel Air Place",
+        "url": "https://open.spotify.com/album/6DfzQpFxFMI7JXS23ctnWE"
+      },
+      "artists": [
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212666,
+      "name": "To All the Girls I've Loved Before",
+      "url": "https://open.spotify.com/track/0uBwcaTkY1BPpIZhxuhS67"
+    },
+    {
+      "album": {
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258393,
+      "name": "Wake Me When It's Over",
+      "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "album": {
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247239,
+      "name": "Whiskey River",
+      "url": "https://open.spotify.com/track/6gS6XQ4OqMddkgzHNz40E5"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234799,
+      "name": "Whiskey River (Recorded At Luck Reunion) - Spotify Singles",
+      "url": "https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2KqG68vCjE4"
 }

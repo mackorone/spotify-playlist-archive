@@ -1,271 +1,1899 @@
 {
-  "2023-04-07": 166191,
-  "2023-04-09": 166232,
-  "2023-04-10": 166257,
-  "2023-04-11": 166327,
-  "2023-04-12": 166327,
-  "2023-04-13": 166373,
-  "2023-04-14": 166419,
-  "2023-04-15": 166465,
-  "2023-04-16": 166501,
-  "2023-04-17": 166536,
-  "2023-04-18": 166566,
-  "2023-04-19": 166601,
-  "2023-04-20": 166625,
-  "2023-04-21": 166652,
-  "2023-04-22": 166688,
-  "2023-04-23": 166726,
-  "2023-04-24": 166749,
-  "2023-04-25": 166785,
-  "2023-04-26": 166805,
-  "2023-04-27": 166839,
-  "2023-04-28": 166866,
-  "2023-04-29": 166898,
-  "2023-04-30": 166930,
-  "2023-05-01": 166961,
-  "2023-05-02": 166974,
-  "2023-05-03": 166995,
-  "2023-05-04": 167016,
-  "2023-05-05": 167046,
-  "2023-05-06": 167068,
-  "2023-05-07": 167084,
-  "2023-05-08": 167103,
-  "2023-05-09": 167126,
-  "2023-05-10": 167153,
-  "2023-05-11": 167179,
-  "2023-05-12": 167202,
-  "2023-05-13": 167239,
-  "2023-05-14": 167266,
-  "2023-05-15": 167291,
-  "2023-05-16": 167325,
-  "2023-05-17": 167350,
-  "2023-05-18": 167377,
-  "2023-05-19": 167406,
-  "2023-05-20": 167459,
-  "2023-05-21": 167459,
-  "2023-05-22": 167459,
-  "2023-05-23": 167498,
-  "2023-05-24": 167539,
-  "2023-05-25": 167546,
-  "2023-05-26": 167584,
-  "2023-05-27": 167611,
-  "2023-05-28": 167628,
-  "2023-05-29": 167628,
-  "2023-05-30": 167671,
-  "2023-05-31": 167691,
-  "2023-06-01": 167722,
-  "2023-06-02": 167751,
-  "2023-06-03": 167768,
-  "2023-06-04": 167797,
-  "2023-06-05": 167811,
-  "2023-06-06": 167826,
-  "2023-06-07": 167854,
-  "2023-06-08": 167879,
-  "2023-06-09": 167907,
-  "2023-06-10": 167926,
-  "2023-06-11": 167950,
-  "2023-06-12": 167973,
-  "2023-06-13": 167993,
-  "2023-06-14": 168016,
-  "2023-06-15": 168035,
-  "2023-06-16": 168074,
-  "2023-06-17": 168124,
-  "2023-06-18": 168164,
-  "2023-06-19": 168198,
-  "2023-06-20": 168228,
-  "2023-06-21": 168250,
-  "2023-06-22": 168275,
-  "2023-06-23": 168296,
-  "2023-06-24": 168323,
-  "2023-06-25": 168346,
-  "2023-06-26": 168381,
-  "2023-06-27": 168398,
-  "2023-06-28": 168426,
-  "2023-06-29": 168451,
-  "2023-06-30": 168469,
-  "2023-07-01": 168529,
-  "2023-07-02": 168529,
-  "2023-07-03": 168539,
-  "2023-07-04": 168566,
-  "2023-07-05": 168589,
-  "2023-07-06": 168626,
-  "2023-07-07": 168626,
-  "2023-07-08": 168650,
-  "2023-07-09": 168682,
-  "2023-07-10": 168701,
-  "2023-07-11": 168713,
-  "2023-07-12": 168733,
-  "2023-07-13": 168766,
-  "2023-07-14": 168788,
-  "2023-07-15": 168797,
-  "2023-07-16": 168810,
-  "2023-07-17": 168832,
-  "2023-07-18": 168852,
-  "2023-07-19": 168873,
-  "2023-07-20": 168909,
-  "2023-07-21": 168939,
-  "2023-07-22": 168972,
-  "2023-07-23": 168985,
-  "2023-07-24": 169006,
-  "2023-07-25": 169028,
-  "2023-07-26": 169055,
-  "2023-07-27": 169083,
-  "2023-07-28": 169109,
-  "2023-07-29": 169132,
-  "2023-07-30": 169141,
-  "2023-07-31": 169159,
-  "2023-08-01": 169178,
-  "2023-08-02": 169199,
-  "2023-08-03": 169218,
-  "2023-08-04": 169233,
-  "2023-08-05": 169260,
-  "2023-08-06": 169290,
-  "2023-08-07": 169290,
-  "2023-08-08": 169326,
-  "2023-08-09": 169341,
-  "2023-08-10": 169366,
-  "2023-08-11": 169390,
-  "2023-08-12": 169417,
-  "2023-08-13": 169417,
-  "2023-08-14": 169459,
-  "2023-08-15": 169497,
-  "2023-08-16": 169497,
-  "2023-08-17": 169514,
-  "2023-08-18": 169534,
-  "2023-08-19": 169554,
-  "2023-08-20": 169577,
-  "2023-08-21": 169589,
-  "2023-08-22": 169606,
-  "2023-08-23": 169640,
-  "2023-08-24": 169669,
-  "2023-08-25": 169698,
-  "2023-08-26": 169713,
-  "2023-08-27": 169730,
-  "2023-08-28": 169756,
-  "2023-08-29": 169786,
-  "2023-08-30": 169786,
-  "2023-08-31": 169845,
-  "2023-09-01": 169881,
-  "2023-09-02": 169881,
-  "2023-09-03": 169901,
-  "2023-09-04": 169901,
-  "2023-09-05": 169952,
-  "2023-09-06": 169974,
-  "2023-09-07": 169974,
-  "2023-09-08": 169974,
-  "2023-09-09": 169974,
-  "2023-09-10": 170072,
-  "2023-09-11": 170080,
-  "2023-09-12": 170080,
-  "2023-09-13": 170127,
-  "2023-09-14": 170127,
-  "2023-09-15": 170127,
-  "2023-09-16": 170186,
-  "2023-09-17": 170186,
-  "2023-09-18": 170186,
-  "2023-09-19": 170239,
-  "2023-09-20": 170259,
-  "2023-09-21": 170259,
-  "2023-09-22": 170313,
-  "2023-09-23": 170313,
-  "2023-09-24": 170313,
-  "2023-09-25": 170313,
-  "2023-09-26": 170426,
-  "2023-09-27": 170426,
-  "2023-09-28": 170426,
-  "2023-09-29": 170426,
-  "2023-09-30": 170426,
-  "2023-10-01": 170426,
-  "2023-10-02": 170595,
-  "2023-10-03": 170595,
-  "2023-10-04": 170595,
-  "2023-10-05": 170669,
-  "2023-10-06": 170692,
-  "2023-10-07": 170692,
-  "2023-10-08": 170692,
-  "2023-10-09": 170692,
-  "2023-10-10": 170692,
-  "2023-10-11": 170137,
-  "2023-10-12": 170137,
-  "2023-10-13": 169274,
-  "2023-10-14": 169274,
-  "2023-10-15": 169274,
-  "2023-10-16": 169274,
-  "2023-10-17": 169274,
-  "2023-10-18": 169274,
-  "2023-10-19": 169274,
-  "2023-10-20": 169274,
-  "2023-10-21": 169274,
-  "2023-10-22": 169274,
-  "2023-10-23": 169274,
-  "2023-10-24": 169274,
-  "2023-10-25": 169274,
-  "2023-10-26": 169274,
-  "2023-10-27": 169274,
-  "2023-10-28": 169274,
-  "2023-10-29": 169274,
-  "2023-10-30": 169274,
-  "2023-10-31": 169274,
-  "2023-11-01": 169274,
-  "2023-11-02": 169274,
-  "2023-11-03": 169274,
-  "2023-11-04": 169274,
-  "2023-11-05": 169274,
-  "2023-11-06": 169274,
-  "2023-11-07": 169274,
-  "2023-11-08": 169274,
-  "2023-11-09": 169274,
-  "2023-11-10": 169274,
-  "2023-11-11": 169381,
-  "2023-11-12": 169381,
-  "2023-11-13": 169381,
-  "2023-11-14": 169381,
-  "2023-11-15": 169381,
-  "2023-11-16": 169381,
-  "2023-11-17": 169381,
-  "2023-11-18": 169381,
-  "2023-11-19": 169381,
-  "2023-11-20": 169381,
-  "2023-11-21": 169381,
-  "2023-11-22": 169381,
-  "2023-11-23": 169381,
-  "2023-11-24": 169381,
-  "2023-11-25": 169381,
-  "2023-11-26": 169381,
-  "2023-11-27": 169381,
-  "2023-11-28": 169381,
-  "2023-11-29": 169381,
-  "2023-11-30": 169381,
-  "2023-12-01": 169381,
-  "2023-12-02": 169381,
-  "2023-12-03": 169381,
-  "2023-12-04": 169381,
-  "2023-12-05": 169381,
-  "2023-12-06": 169381,
-  "2023-12-07": 169381,
-  "2023-12-08": 169381,
-  "2023-12-09": 169381,
-  "2023-12-10": 169381,
-  "2023-12-11": 169381,
-  "2023-12-12": 169381,
-  "2023-12-13": 169381,
-  "2023-12-14": 170047,
-  "2023-12-15": 170058,
-  "2023-12-16": 170082,
-  "2023-12-17": 170100,
-  "2023-12-18": 170127,
-  "2023-12-19": 170153,
-  "2023-12-20": 170169,
-  "2023-12-21": 170184,
-  "2023-12-22": 170214,
-  "2023-12-23": 170231,
-  "2023-12-24": 170257,
-  "2023-12-25": 170269,
-  "2023-12-26": 170281,
-  "2023-12-27": 170291,
-  "2023-12-30": 170344,
-  "2023-12-31": 170363,
-  "2024-01-01": 170377,
-  "2024-01-02": 170380,
-  "2024-01-03": 170398
+  "2024-01-17": 167981,
+  "date_first_scraped": "2023-04-07",
+  "description": "This is Yandel. The essential tracks, all in one playlist.",
+  "name": "This Is Yandel",
+  "tracks": [
+    {
+      "album": {
+        "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) [Banx & Ranx Remix]",
+        "url": "https://open.spotify.com/album/2ds7l2UKWHAj3nKX2Pfmdz"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Banx & Ranx",
+          "url": "https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-18",
+      "duration_ms": 204707,
+      "name": "1+1 (feat. Yandel & Sof\u00eda Reyes) - Banx & Ranx Remix",
+      "url": "https://open.spotify.com/track/2en8KkmwWVRnAFlUueeDs0"
+    },
+    {
+      "album": {
+        "name": "3G (Remix)",
+        "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366613,
+      "name": "3G - Remix",
+      "url": "https://open.spotify.com/track/6dyUkkcyYuDiHOwIRXYOJm"
+    },
+    {
+      "album": {
+        "name": "El Enemy de Los Guas\u00edbiri",
+        "url": "https://open.spotify.com/album/69rKlAM3KXEHw6vPtM6e9L"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204382,
+      "name": "Al Natural (feat. Yandel)",
+      "url": "https://open.spotify.com/track/49vwUeeauJgEQxDViXA01C"
+    },
+    {
+      "album": {
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 414819,
+      "name": "Antes y Despu\u00e9s",
+      "url": "https://open.spotify.com/track/0YbXuCsQwrsh5x0hgnED6z"
+    },
+    {
+      "album": {
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/1JCOUDiJmrVr6YmzLXMHkO"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/4L4MttVsY1WaxSDzFiQefU"
+    },
+    {
+      "album": {
+        "name": "Ay Mi Dios",
+        "url": "https://open.spotify.com/album/5mL2ReCP9gU2mPnC3SKERE"
+      },
+      "artists": [
+        {
+          "name": "IAmChino",
+          "url": "https://open.spotify.com/artist/0b2GL7Y02vu50qieoQmw1w"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 252003,
+      "name": "Ay Mi Dios",
+      "url": "https://open.spotify.com/track/5Uel5PmPBZICA0TQTI912U"
+    },
+    {
+      "album": {
+        "name": "Bonita (Remix)",
+        "url": "https://open.spotify.com/album/69GKfbYqlc7kXvD0nCUMKA"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322906,
+      "name": "Bonita - Remix",
+      "url": "https://open.spotify.com/track/4jKX16TcfQIrqY1ZzDIZb2"
+    },
+    {
+      "album": {
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
+    },
+    {
+      "album": {
+        "name": "La Criatura",
+        "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
+      },
+      "artists": [
+        {
+          "name": "Nacho",
+          "url": "https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217093,
+      "name": "B\u00e1ilame - Remix",
+      "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
+    },
+    {
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209180,
+      "name": "CANCI\u00d3N CON YANDEL",
+      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/2b7NyXYaxu3V1ktJWmfcFd"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/4GqhfgzrdJgJiUPnx9S1z6"
+    },
+    {
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210773,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
+    },
+    {
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
+    },
+    {
+      "album": {
+        "name": "The Underdog - El Subestimado",
+        "url": "https://open.spotify.com/album/1walNH2TBWePmw3KT3BDJ5"
+      },
+      "artists": [
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184480,
+      "name": "Cuando Baila Reggaeton",
+      "url": "https://open.spotify.com/track/4UxD6L5uah5Dvzs5kQwThG"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176293,
+      "name": "Cuando Te Toca",
+      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
+    },
+    {
+      "album": {
+        "name": "Cuanto Vale",
+        "url": "https://open.spotify.com/album/0xh0WBa0N4bQsbowMvDCIH"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165365,
+      "name": "Cuanto Vale",
+      "url": "https://open.spotify.com/track/3WHnnU4jaCPfzywrqSF5kl"
+    },
+    {
+      "album": {
+        "name": "Cuanto Vale",
+        "url": "https://open.spotify.com/album/4oIb3bXHxHqACv2Mo6xUVX"
+      },
+      "artists": [
+        {
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-27",
+      "duration_ms": 165365,
+      "name": "Cuanto Vale",
+      "url": "https://open.spotify.com/track/7gFHQpK25UEsUkOe8XnOQF"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178375,
+      "name": "DEJA VU",
+      "url": "https://open.spotify.com/track/0GovomHOO7m93RvjaDPaLH"
+    },
+    {
+      "album": {
+        "name": "Delincuente",
+        "url": "https://open.spotify.com/album/10Abca73iOgyBWR0EsZoDU"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-04",
+      "duration_ms": 172481,
+      "name": "Delincuente",
+      "url": "https://open.spotify.com/track/16xxTZHVPcKi9R3hwY6k0y"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168051,
+      "name": "Dembow 2020",
+      "url": "https://open.spotify.com/track/0j1VxrPkMyFGvz0jZzxUoZ"
+    },
+    {
+      "album": {
+        "name": "DEMBO$$",
+        "url": "https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248589,
+      "name": "Dembow y Reggaeton",
+      "url": "https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j"
+    },
+    {
+      "album": {
+        "name": "Dembow y Reggaeton",
+        "url": "https://open.spotify.com/album/1t8Ejb6IGicAvFSaMFUMBg"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 249733,
+      "name": "Dembow y Reggaeton",
+      "url": "https://open.spotify.com/track/1U3CZqgtekCchvUXV6o9l1"
+    },
+    {
+      "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/5ddbBmQN5yZ1wVsL9VCVFh"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-13",
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti (Remix)",
+      "url": "https://open.spotify.com/track/4QYQgJhBryglC2hEpVGrZU"
+    },
+    {
+      "album": {
+        "name": "Desperte Sin Ti (Remix)",
+        "url": "https://open.spotify.com/album/4Txl9NHs8rXqtG0sAosf6v"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319586,
+      "name": "Desperte Sin Ti - Remix",
+      "url": "https://open.spotify.com/track/1CWi7KBl7TUIYgIH52KO6f"
+    },
+    {
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Discoteca",
+      "url": "https://open.spotify.com/track/2ZWBNTg6Mn6NQkkq4gVec1"
+    },
+    {
+      "album": {
+        "name": "Doxxis",
+        "url": "https://open.spotify.com/album/7uUOFP6hKKAcfjl7KizJ7p"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 186601,
+      "name": "Doxxis",
+      "url": "https://open.spotify.com/track/6WoPbjrSG9307Nan3cLLDX"
+    },
+    {
+      "album": {
+        "name": "En Cero",
+        "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223586,
+      "name": "En Cero",
+      "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240093,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/7LABrQFfRYcZUqUwng0Heb"
+    },
+    {
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 223146,
+      "name": "Expl\u00edcale (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
+    },
+    {
+      "album": {
+        "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) [Remix]",
+        "url": "https://open.spotify.com/album/4BQBdbRNXOJAV580HH1mr2"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395666,
+      "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
+      "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
+    },
+    {
+      "album": {
+        "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+        "url": "https://open.spotify.com/album/2rJgEmLWnlXEYnIPIgAMbc"
+      },
+      "artists": [
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315440,
+      "name": "Fronteamos Porque Podemos (feat. Daddy Yankee, Yandel & Nengo Flow)",
+      "url": "https://open.spotify.com/track/0LQsM0KYkSyCdN6TCo63vp"
+    },
+    {
+      "album": {
+        "name": "GANGSTER (PQFNEDG)",
+        "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
+      },
+      "artists": [
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215470,
+      "name": "GANGSTER (PQFNEDG)",
+      "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
+    },
+    {
+      "album": {
+        "name": "Ginza (Remix)",
+        "url": "https://open.spotify.com/album/3O2EaZnLoktLEnBqiMcOEJ"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Zion",
+          "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Alejandro \"Mosty\" Pati\u00f1o",
+          "url": "https://open.spotify.com/artist/4iDI9qh9SzcTm6vZeTT258"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373960,
+      "name": "Ginza - Remix",
+      "url": "https://open.spotify.com/track/1tJw60G9KHl7fYVdQ2JDgo"
+    },
+    {
+      "album": {
+        "name": "De L\u00edder a Leyenda",
+        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 205546,
+      "name": "Hasta Abajo",
+      "url": "https://open.spotify.com/track/0rRMe1LBFoq5TjmT1Jye2D"
+    },
+    {
+      "album": {
+        "name": "CNCO",
+        "url": "https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206920,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143257,
+      "name": "H\u00c1BLAME CLARO",
+      "url": "https://open.spotify.com/track/6ftgxRFnXKiyuKtpdYDQSz"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-23",
+      "duration_ms": 134333,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/70iFZwMfjDJBlObBLWFywd"
+    },
+    {
+      "album": {
+        "name": "Juego",
+        "url": "https://open.spotify.com/album/2TxxbqZf24r9kO1jEGPd9m"
+      },
+      "artists": [
+        {
+          "name": "Nesty La Mente Maestra",
+          "url": "https://open.spotify.com/artist/1QbKnLuatJMdjY8dFx7Nru"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 151360,
+      "name": "Juego",
+      "url": "https://open.spotify.com/track/6TCE0hVdVYeJkzL2Sw7eYk"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/711qEIa036lsAw3BRqk0jO"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Tego Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185973,
+      "name": "La Calle Me Lo Pidio",
+      "url": "https://open.spotify.com/track/2h2BxMOTXrYAApqWQ6ZqTy"
+    },
+    {
+      "album": {
+        "name": "La Gringa",
+        "url": "https://open.spotify.com/album/3F8kWUZ7qYqFCrr37PRkB1"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "El Cherry Scom",
+          "url": "https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 376500,
+      "name": "La Gringa",
+      "url": "https://open.spotify.com/track/0ZY0sbpm4AZxdz80XMi4aP"
+    },
+    {
+      "album": {
+        "name": "OCEAN",
+        "url": "https://open.spotify.com/album/4i5b4YWuMtneUSvQPONwzK"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-12",
+      "duration_ms": 222693,
+      "name": "La Ocasi\u00f3n Perfecta",
+      "url": "https://open.spotify.com/track/0Y0QTT6W7zRVKv9hWdYkCg"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-21",
+      "duration_ms": 135906,
+      "name": "Me Presento",
+      "url": "https://open.spotify.com/track/35bHwwPYklY6rRe4Hhc4ZJ"
+    },
+    {
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237613,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/3dnOHn0A5q3ny1LLLnSAty"
+    },
+    {
+      "album": {
+        "name": "De L\u00edder a Leyenda",
+        "url": "https://open.spotify.com/album/6t3uUCp5kGlcXKmSfDl3Ul"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Moviendo Caderas (feat. Daddy Yankee)",
+      "url": "https://open.spotify.com/track/0bdL8X3MrX51dRz231BFtv"
+    },
+    {
+      "album": {
+        "name": "MySpace (feat. Wisin & Yandel)",
+        "url": "https://open.spotify.com/album/4vvNbAjriwU8VLfLx2rqos"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221179,
+      "name": "MySpace (feat. Wisin & Yandel)",
+      "url": "https://open.spotify.com/track/6uoOKr3dxk9GVIhmJyQPMh"
+    },
+    {
+      "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270760,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204920,
+      "name": "No Sales de Mi Mente (feat. Nicky Jam)",
+      "url": "https://open.spotify.com/track/2suE76uvhA05ks3YbvwRGT"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/2zD0vIQjiaFbumnbjWC6WY"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241560,
+      "name": "Nunca Me Olvides",
+      "url": "https://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8"
+    },
+    {
+      "album": {
+        "name": "Nunca y Pico",
+        "url": "https://open.spotify.com/album/3uNbOY2ihiX05YVsOuYDwZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Nunca y Pico",
+      "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
+    },
+    {
+      "album": {
+        "name": "Permitame",
+        "url": "https://open.spotify.com/album/4qWhtKtlyrUVKU3Fvjf3bB"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 185013,
+      "name": "Permitame",
+      "url": "https://open.spotify.com/track/0X5jHsNHshuHNfAWs1sxQ5"
+    },
+    {
+      "album": {
+        "name": "La Melodia de la Calle (Remastered)",
+        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
+      },
+      "artists": [
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184506,
+      "name": "Permitame (feat. Yandel)",
+      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
+    },
+    {
+      "album": {
+        "name": "Pierdo la Cabeza (Remix)",
+        "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287080,
+      "name": "Pierdo la Cabeza - Remix",
+      "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
+    },
+    {
+      "album": {
+        "name": "Legacy - De L\u00edder a Leyenda Tour (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0kEZti5UKQ2Dgc5o5ts5TQ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El General Gadiel",
+          "url": "https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206066,
+      "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
+      "url": "https://open.spotify.com/track/1WmiclR92NBBRbgqS4hXsQ"
+    },
+    {
+      "album": {
+        "name": "Plakito (feat. El General Gadiel & Farruko) [Remix]",
+        "url": "https://open.spotify.com/album/6W79MdW3GiwICTPe8gSWeI"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "El General Gadiel",
+          "url": "https://open.spotify.com/artist/7tETQjUDr6hqeJVd0WyuhH"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "date_added": "2023-10-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 207093,
+      "name": "Plakito (feat. El General Gadiel & Farruko) - Remix",
+      "url": "https://open.spotify.com/track/54GBh4TNwKdj77GjMLjLH9"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 254254,
+      "name": "Ponme al Dia",
+      "url": "https://open.spotify.com/track/2pPUUM4NPWT4KV7Jf0Mnmb"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi 2",
+        "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2023-04-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 214919,
+      "name": "Por Mi Reggae Muero 2020",
+      "url": "https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-08",
+      "duration_ms": 215946,
+      "name": "Poropopompon",
+      "url": "https://open.spotify.com/track/6taOZoNSjPLewGblEv0p0u"
+    },
+    {
+      "album": {
+        "name": "ESTRELLA",
+        "url": "https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185326,
+      "name": "P\u00d3LVORA",
+      "url": "https://open.spotify.com/track/3pQr8EhSzvKN3ZZlaL4Pae"
+    },
+    {
+      "album": {
+        "name": "R\u00f3mpela",
+        "url": "https://open.spotify.com/album/6Z5sESQanxhvXqNbEMhQGd"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "One Six",
+          "url": "https://open.spotify.com/artist/2mObH2CyMvLbmG5RQCeO0d"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 184000,
+      "name": "R\u00f3mpela",
+      "url": "https://open.spotify.com/track/6mwROK8Er0EZdXwbwuiHIJ"
+    },
+    {
+      "album": {
+        "name": "SANDUNGA",
+        "url": "https://open.spotify.com/album/0SeTjJL8a6kfFlBQQTyNID"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241921,
+      "name": "SANDUNGA",
+      "url": "https://open.spotify.com/track/4QJF76nruk2vvuCzGDCqsL"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218506,
+      "name": "Sexo Seguro",
+      "url": "https://open.spotify.com/track/5pOu3vSiKrEmj65N1CWqOI"
+    },
+    {
+      "album": {
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 203666,
+      "name": "S\u00f3lo M\u00eda (feat. Maluma)",
+      "url": "https://open.spotify.com/track/1ei3g2hMYh1VKvik9FoUQR"
+    },
+    {
+      "album": {
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104066,
+      "name": "Te Acuerdas De M\u00ed",
+      "url": "https://open.spotify.com/track/3EgHkFBGUu7NHZspAdiy0D"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200506,
+      "name": "Te Gusta",
+      "url": "https://open.spotify.com/track/4l4AiTqEyjCAJui6xVREH7"
+    },
+    {
+      "album": {
+        "name": "Quien Contra Mi",
+        "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136026,
+      "name": "Te Suelto el Pelo",
+      "url": "https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-09",
+      "duration_ms": 144820,
+      "name": "Te Suelto el Pelo 2023",
+      "url": "https://open.spotify.com/track/5puuQNUEzQaXGvaf4fi17C"
+    },
+    {
+      "album": {
+        "name": "Trajecito XS",
+        "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
+      },
+      "artists": [
+        {
+          "name": "Alejo",
+          "url": "https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220880,
+      "name": "Trajecito XS",
+      "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
+    },
+    {
+      "album": {
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6"
+    },
+    {
+      "album": {
+        "name": "Trofeo",
+        "url": "https://open.spotify.com/album/4BrK3QOclSE0bAumHy1Lz7"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 222333,
+      "name": "Trofeo",
+      "url": "https://open.spotify.com/track/4ajAhp58D3zWqtpGJFG2NB"
+    },
+    {
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166929,
+      "name": "UNA M\u00c1S",
+      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216293,
+      "name": "Unica - Remix",
+      "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Jungle",
+        "url": "https://open.spotify.com/album/6ZDd9FZ6CDmNjTkPx8t9rz"
+      },
+      "artists": [
+        {
+          "name": "Franco \"El Gorilla\"",
+          "url": "https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 168720,
+      "name": "Vamos Hacerlo",
+      "url": "https://open.spotify.com/track/4qZEe7OrbYFWUCFrnCOP0O"
+    },
+    {
+      "album": {
+        "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
+        "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "XQ Te Pones As\u00ed",
+      "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "album": {
+        "name": "Yandel 150",
+        "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-01",
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
+    },
+    {
+      "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216148,
+      "name": "Yandel 150",
+      "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
+    },
+    {
+      "album": {
+        "name": "Yankee 150",
+        "url": "https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "date_added": "2023-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242667,
+      "name": "Yankee 150",
+      "url": "https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO04naX6"
 }

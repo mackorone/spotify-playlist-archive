@@ -1,735 +1,2625 @@
 {
-  "2021-12-25": 1019072,
-  "2021-12-26": 1019270,
-  "2021-12-27": 1019776,
-  "2021-12-28": 1019780,
-  "2021-12-29": 1020014,
-  "2021-12-30": 1020269,
-  "2021-12-31": 1020527,
-  "2022-01-01": 1020914,
-  "2022-01-02": 1020995,
-  "2022-01-03": 1021143,
-  "2022-01-04": 1021360,
-  "2022-01-05": 1021489,
-  "2022-01-06": 1021714,
-  "2022-01-07": 1021903,
-  "2022-01-08": 1022265,
-  "2022-01-09": 1022267,
-  "2022-01-10": 1022454,
-  "2022-01-11": 1022649,
-  "2022-01-12": 1022842,
-  "2022-01-13": 1022996,
-  "2022-01-14": 1023170,
-  "2022-01-15": 1023484,
-  "2022-01-16": 1023488,
-  "2022-01-17": 1023872,
-  "2022-01-18": 1023917,
-  "2022-01-19": 1024006,
-  "2022-01-20": 1024134,
-  "2022-01-21": 1024335,
-  "2022-01-22": 1024479,
-  "2022-01-23": 1024626,
-  "2022-01-24": 1024818,
-  "2022-01-25": 1024998,
-  "2022-01-26": 1025192,
-  "2022-01-27": 1025412,
-  "2022-01-28": 1025578,
-  "2022-01-29": 1025770,
-  "2022-01-30": 1025963,
-  "2022-01-31": 1026092,
-  "2022-02-01": 1026237,
-  "2022-02-02": 1026409,
-  "2022-02-03": 1026566,
-  "2022-02-04": 1026755,
-  "2022-02-05": 1026946,
-  "2022-02-06": 1027119,
-  "2022-02-07": 1027329,
-  "2022-02-08": 1027475,
-  "2022-02-09": 1027701,
-  "2022-02-10": 1027852,
-  "2022-02-11": 1028007,
-  "2022-02-12": 1028212,
-  "2022-02-13": 1028464,
-  "2022-02-14": 1028734,
-  "2022-02-15": 1028913,
-  "2022-02-16": 1029113,
-  "2022-02-17": 1029334,
-  "2022-02-18": 1029491,
-  "2022-02-19": 1029682,
-  "2022-02-20": 1029850,
-  "2022-02-21": 1030034,
-  "2022-02-22": 1030178,
-  "2022-02-23": 1030359,
-  "2022-02-24": 1030602,
-  "2022-02-25": 1030744,
-  "2022-02-26": 1030905,
-  "2022-02-27": 1031270,
-  "2022-02-28": 1031270,
-  "2022-03-01": 1031454,
-  "2022-03-02": 1031640,
-  "2022-03-03": 1031812,
-  "2022-03-04": 1032032,
-  "2022-03-05": 1032222,
-  "2022-03-06": 1032407,
-  "2022-03-07": 1032607,
-  "2022-03-08": 1032735,
-  "2022-03-09": 1032906,
-  "2022-03-10": 1033087,
-  "2022-03-11": 1033279,
-  "2022-03-12": 1033464,
-  "2022-03-13": 1033642,
-  "2022-03-14": 1033792,
-  "2022-03-15": 1034005,
-  "2022-03-16": 1034107,
-  "2022-03-17": 1034260,
-  "2022-03-18": 1034464,
-  "2022-03-19": 1034532,
-  "2022-03-20": 1034532,
-  "2022-03-21": 1034821,
-  "2022-03-22": 1034914,
-  "2022-03-23": 1035022,
-  "2022-03-24": 1035162,
-  "2022-03-25": 1035279,
-  "2022-03-26": 1035473,
-  "2022-03-27": 1035604,
-  "2022-03-28": 1035752,
-  "2022-03-30": 1036121,
-  "2022-03-31": 1036241,
-  "2022-04-01": 1036377,
-  "2022-04-02": 1036534,
-  "2022-04-03": 1036710,
-  "2022-04-04": 1036956,
-  "2022-04-05": 1037212,
-  "2022-04-06": 1037401,
-  "2022-04-07": 1037560,
-  "2022-04-08": 1037751,
-  "2022-04-09": 1038173,
-  "2022-04-10": 1038626,
-  "2022-04-11": 1038806,
-  "2022-04-12": 1038830,
-  "2022-04-13": 1038989,
-  "2022-04-14": 1039123,
-  "2022-04-15": 1039284,
-  "2022-04-16": 1039478,
-  "2022-04-17": 1039665,
-  "2022-04-18": 1039794,
-  "2022-04-19": 1039917,
-  "2022-04-20": 1040055,
-  "2022-04-21": 1040168,
-  "2022-04-22": 1040298,
-  "2022-04-23": 1040403,
-  "2022-04-24": 1040506,
-  "2022-04-25": 1040644,
-  "2022-04-26": 1040753,
-  "2022-04-27": 1040887,
-  "2022-04-28": 1040981,
-  "2022-04-29": 1041215,
-  "2022-04-30": 1041341,
-  "2022-05-01": 1041470,
-  "2022-05-02": 1041470,
-  "2022-05-03": 1041573,
-  "2022-05-04": 1041700,
-  "2022-05-05": 1041837,
-  "2022-05-06": 1042022,
-  "2022-05-07": 1042252,
-  "2022-05-08": 1042544,
-  "2022-05-09": 1042568,
-  "2022-05-10": 1042708,
-  "2022-05-11": 1042884,
-  "2022-05-12": 1043031,
-  "2022-05-13": 1043237,
-  "2022-05-14": 1043460,
-  "2022-05-15": 1043638,
-  "2022-05-16": 1043810,
-  "2022-05-17": 1043981,
-  "2022-05-18": 1044154,
-  "2022-05-19": 1044320,
-  "2022-05-20": 1044463,
-  "2022-05-21": 1044703,
-  "2022-05-22": 1044703,
-  "2022-05-23": 1044874,
-  "2022-05-24": 1045094,
-  "2022-05-25": 1045266,
-  "2022-05-26": 1045450,
-  "2022-05-27": 1045598,
-  "2022-05-28": 1045751,
-  "2022-05-29": 1045900,
-  "2022-05-30": 1046051,
-  "2022-05-31": 1046221,
-  "2022-06-01": 1046543,
-  "2022-06-02": 1046539,
-  "2022-06-03": 1046682,
-  "2022-06-04": 1046822,
-  "2022-06-05": 1047008,
-  "2022-06-06": 1047143,
-  "2022-06-07": 1047286,
-  "2022-06-08": 1047486,
-  "2022-06-09": 1047611,
-  "2022-06-10": 1047802,
-  "2022-06-11": 1048005,
-  "2022-06-12": 1048164,
-  "2022-06-13": 1048258,
-  "2022-06-14": 1048384,
-  "2022-06-15": 1048579,
-  "2022-06-16": 1048737,
-  "2022-06-17": 1048918,
-  "2022-06-18": 1049083,
-  "2022-06-19": 1049464,
-  "2022-06-20": 1049464,
-  "2022-06-21": 1049625,
-  "2022-06-22": 1049929,
-  "2022-06-23": 1049929,
-  "2022-06-24": 1050088,
-  "2022-06-25": 1050239,
-  "2022-06-26": 1050408,
-  "2022-06-27": 1050408,
-  "2022-06-28": 1050408,
-  "2022-06-29": 1050943,
-  "2022-06-30": 1051099,
-  "2022-07-01": 1051253,
-  "2022-07-02": 1051390,
-  "2022-07-03": 1051502,
-  "2022-07-04": 1051680,
-  "2022-07-05": 1051868,
-  "2022-07-06": 1052014,
-  "2022-07-07": 1052165,
-  "2022-07-08": 1052317,
-  "2022-07-09": 1052474,
-  "2022-07-10": 1052577,
-  "2022-07-11": 1052732,
-  "2022-07-12": 1052833,
-  "2022-07-13": 1053023,
-  "2022-07-14": 1053160,
-  "2022-07-15": 1053337,
-  "2022-07-16": 1053515,
-  "2022-07-17": 1053655,
-  "2022-07-18": 1053836,
-  "2022-07-19": 1053975,
-  "2022-07-20": 1054054,
-  "2022-07-21": 1054139,
-  "2022-07-22": 1054256,
-  "2022-07-23": 1054356,
-  "2022-07-24": 1054458,
-  "2022-07-25": 1054610,
-  "2022-07-26": 1054661,
-  "2022-07-27": 1054751,
-  "2022-07-28": 1054831,
-  "2022-07-29": 1054919,
-  "2022-07-30": 1055105,
-  "2022-07-31": 1055105,
-  "2022-08-01": 1055211,
-  "2022-08-02": 1055232,
-  "2022-08-03": 1055232,
-  "2022-08-04": 1055259,
-  "2022-08-05": 1055358,
-  "2022-08-06": 1055494,
-  "2022-08-07": 1055599,
-  "2022-08-08": 1055714,
-  "2022-08-09": 1055814,
-  "2022-08-10": 1055936,
-  "2022-08-11": 1056069,
-  "2022-08-12": 1056151,
-  "2022-08-13": 1056277,
-  "2022-08-14": 1056424,
-  "2022-08-15": 1056587,
-  "2022-08-16": 1056721,
-  "2022-08-17": 1056853,
-  "2022-08-18": 1056998,
-  "2022-08-19": 1057120,
-  "2022-08-20": 1057256,
-  "2022-08-21": 1057410,
-  "2022-08-22": 1057539,
-  "2022-08-23": 1057699,
-  "2022-08-24": 1057833,
-  "2022-08-25": 1057984,
-  "2022-08-26": 1058109,
-  "2022-08-27": 1058252,
-  "2022-08-28": 1058388,
-  "2022-08-29": 1058526,
-  "2022-08-30": 1058318,
-  "2022-08-31": 1057693,
-  "2022-09-01": 1057013,
-  "2022-09-02": 1056371,
-  "2022-09-03": 1056529,
-  "2022-09-04": 1054664,
-  "2022-09-05": 1054685,
-  "2022-09-06": 1054762,
-  "2022-09-07": 1054887,
-  "2022-09-09": 1055178,
-  "2022-09-10": 1055304,
-  "2022-09-11": 1055422,
-  "2022-09-12": 1055552,
-  "2022-09-13": 1055633,
-  "2022-09-15": 1055794,
-  "2022-09-16": 1055930,
-  "2022-09-17": 1056058,
-  "2022-09-18": 1056187,
-  "2022-09-19": 1056278,
-  "2022-09-20": 1056381,
-  "2022-09-21": 1056489,
-  "2022-09-22": 1056633,
-  "2022-09-23": 1056802,
-  "2022-09-24": 1056968,
-  "2022-09-25": 1057127,
-  "2022-09-26": 1057232,
-  "2022-09-27": 1057403,
-  "2022-09-28": 1057537,
-  "2022-09-29": 1057667,
-  "2022-09-30": 1057816,
-  "2022-10-01": 1057972,
-  "2022-10-02": 1058093,
-  "2022-10-03": 1058233,
-  "2022-10-04": 1058350,
-  "2022-10-05": 1058490,
-  "2022-10-06": 1058619,
-  "2022-10-07": 1058718,
-  "2022-10-08": 1058863,
-  "2022-10-09": 1059101,
-  "2022-10-10": 1059110,
-  "2022-10-11": 1059222,
-  "2022-10-12": 1059322,
-  "2022-10-13": 1059467,
-  "2022-10-14": 1059626,
-  "2022-10-15": 1059778,
-  "2022-10-16": 1059942,
-  "2022-10-17": 1060073,
-  "2022-10-18": 1060230,
-  "2022-10-19": 1060395,
-  "2022-10-20": 1060558,
-  "2022-10-21": 1060724,
-  "2022-10-22": 1060835,
-  "2022-10-23": 1060965,
-  "2022-10-24": 1061077,
-  "2022-10-25": 1061182,
-  "2022-10-26": 1061285,
-  "2022-10-27": 1061442,
-  "2022-10-28": 1061567,
-  "2022-10-29": 1061669,
-  "2022-10-30": 1061771,
-  "2022-10-31": 1061867,
-  "2022-11-01": 1061976,
-  "2022-11-02": 1062082,
-  "2022-11-03": 1062151,
-  "2022-11-04": 1062264,
-  "2022-11-05": 1062394,
-  "2022-11-06": 1062512,
-  "2022-11-07": 1062649,
-  "2022-11-08": 1062769,
-  "2022-11-09": 1062942,
-  "2022-11-10": 1063113,
-  "2022-11-11": 1063289,
-  "2022-11-12": 1063455,
-  "2022-11-13": 1063569,
-  "2022-11-14": 1063735,
-  "2022-11-15": 1063895,
-  "2022-11-16": 1064007,
-  "2022-11-17": 1064148,
-  "2022-11-18": 1064151,
-  "2022-11-19": 1064116,
-  "2022-11-20": 1064232,
-  "2022-11-21": 1064057,
-  "2022-11-22": 1064546,
-  "2022-11-23": 1064427,
-  "2022-11-24": 1064959,
-  "2022-11-25": 1065200,
-  "2022-11-26": 1065392,
-  "2022-11-27": 1065550,
-  "2022-11-28": 1065697,
-  "2022-11-29": 1065863,
-  "2022-11-30": 1066014,
-  "2022-12-01": 1066181,
-  "2022-12-02": 1066288,
-  "2022-12-03": 1066640,
-  "2022-12-04": 1066849,
-  "2022-12-05": 1067025,
-  "2022-12-06": 1067194,
-  "2022-12-07": 1067373,
-  "2022-12-08": 1067543,
-  "2022-12-09": 1067686,
-  "2022-12-10": 1067851,
-  "2022-12-11": 1068029,
-  "2022-12-12": 1068170,
-  "2022-12-13": 1068307,
-  "2022-12-14": 1068435,
-  "2022-12-15": 1068622,
-  "2022-12-16": 1068775,
-  "2022-12-17": 1068965,
-  "2022-12-18": 1069144,
-  "2022-12-19": 1069562,
-  "2022-12-20": 1069926,
-  "2022-12-21": 1069926,
-  "2022-12-22": 1070107,
-  "2022-12-24": 1070348,
-  "2022-12-25": 1070482,
-  "2022-12-26": 1070596,
-  "2022-12-27": 1070698,
-  "2022-12-28": 1070863,
-  "2022-12-29": 1071076,
-  "2022-12-30": 1071216,
-  "2022-12-31": 1071391,
-  "2023-01-01": 1071479,
-  "2023-01-02": 1071617,
-  "2023-01-03": 1071836,
-  "2023-01-04": 1072014,
-  "2023-01-05": 1072174,
-  "2023-01-06": 1072421,
-  "2023-01-07": 1072718,
-  "2023-01-08": 1072729,
-  "2023-01-09": 1072903,
-  "2023-01-10": 1073046,
-  "2023-01-11": 1073192,
-  "2023-01-12": 1073328,
-  "2023-01-13": 1073433,
-  "2023-01-14": 1073737,
-  "2023-01-15": 1073748,
-  "2023-01-16": 1073890,
-  "2023-01-17": 1073990,
-  "2023-01-18": 1074134,
-  "2023-01-19": 1074257,
-  "2023-01-20": 1074344,
-  "2023-01-21": 1074454,
-  "2023-01-22": 1074575,
-  "2023-01-23": 1074710,
-  "2023-01-24": 1074848,
-  "2023-01-25": 1074949,
-  "2023-01-26": 1075072,
-  "2023-01-27": 1075190,
-  "2023-01-28": 1075296,
-  "2023-01-29": 1075406,
-  "2023-01-30": 1075541,
-  "2023-01-31": 1075541,
-  "2023-02-01": 1075772,
-  "2023-02-02": 1075864,
-  "2023-02-03": 1075961,
-  "2023-02-04": 1076078,
-  "2023-02-05": 1076217,
-  "2023-02-06": 1076423,
-  "2023-02-07": 1076533,
-  "2023-02-08": 1076841,
-  "2023-02-09": 1076841,
-  "2023-02-10": 1076965,
-  "2023-02-11": 1077077,
-  "2023-02-12": 1077363,
-  "2023-02-13": 1077481,
-  "2023-02-14": 1077481,
-  "2023-02-15": 1077588,
-  "2023-02-16": 1077723,
-  "2023-02-17": 1077846,
-  "2023-02-18": 1078161,
-  "2023-02-19": 1078199,
-  "2023-02-20": 1078297,
-  "2023-02-21": 1078464,
-  "2023-02-22": 1078623,
-  "2023-02-23": 1078813,
-  "2023-02-24": 1078958,
-  "2023-02-25": 1079188,
-  "2023-02-26": 1079313,
-  "2023-02-27": 1079631,
-  "2023-02-28": 1079631,
-  "2023-03-01": 1079816,
-  "2023-03-02": 1080020,
-  "2023-03-03": 1080185,
-  "2023-03-04": 1080317,
-  "2023-03-05": 1080566,
-  "2023-03-06": 1080566,
-  "2023-03-07": 1080706,
-  "2023-03-08": 1080841,
-  "2023-03-09": 1080954,
-  "2023-03-10": 1081110,
-  "2023-03-11": 1081266,
-  "2023-03-12": 1081402,
-  "2023-03-13": 1081585,
-  "2023-03-14": 1081842,
-  "2023-03-15": 1082029,
-  "2023-03-16": 1082281,
-  "2023-03-17": 1082281,
-  "2023-03-18": 1082713,
-  "2023-03-19": 1082933,
-  "2023-03-20": 1083130,
-  "2023-03-21": 1083335,
-  "2023-03-22": 1083455,
-  "2023-03-23": 1083636,
-  "2023-03-24": 1083636,
-  "2023-03-25": 1083982,
-  "2023-03-26": 1084187,
-  "2023-03-27": 1084336,
-  "2023-03-28": 1084504,
-  "2023-03-29": 1084724,
-  "2023-03-30": 1085046,
-  "2023-03-31": 1085046,
-  "2023-04-01": 1085243,
-  "2023-04-02": 1085393,
-  "2023-04-03": 1085533,
-  "2023-04-04": 1085728,
-  "2023-04-05": 1085887,
-  "2023-04-06": 1086119,
-  "2023-04-07": 1086295,
-  "2023-04-09": 1086886,
-  "2023-04-10": 1087303,
-  "2023-04-11": 1087947,
-  "2023-04-12": 1087947,
-  "2023-04-13": 1088168,
-  "2023-04-14": 1088417,
-  "2023-04-15": 1088687,
-  "2023-04-16": 1088980,
-  "2023-04-17": 1089236,
-  "2023-04-18": 1089471,
-  "2023-04-19": 1089740,
-  "2023-04-20": 1089969,
-  "2023-04-21": 1090204,
-  "2023-04-22": 1090400,
-  "2023-04-23": 1090591,
-  "2023-04-24": 1090784,
-  "2023-04-25": 1091041,
-  "2023-04-26": 1091255,
-  "2023-04-27": 1091487,
-  "2023-04-28": 1091726,
-  "2023-04-29": 1091938,
-  "2023-04-30": 1092128,
-  "2023-05-01": 1092336,
-  "2023-05-02": 1092472,
-  "2023-05-03": 1092689,
-  "2023-05-04": 1092859,
-  "2023-05-05": 1093041,
-  "2023-05-06": 1093243,
-  "2023-05-07": 1093436,
-  "2023-05-08": 1093607,
-  "2023-05-09": 1093765,
-  "2023-05-10": 1093904,
-  "2023-05-11": 1094088,
-  "2023-05-12": 1094279,
-  "2023-05-13": 1094509,
-  "2023-05-14": 1094661,
-  "2023-05-15": 1094842,
-  "2023-05-16": 1095033,
-  "2023-05-17": 1095197,
-  "2023-05-18": 1095351,
-  "2023-05-19": 1095507,
-  "2023-05-20": 1095881,
-  "2023-05-21": 1095881,
-  "2023-05-22": 1095881,
-  "2023-05-23": 1096236,
-  "2023-05-24": 1096522,
-  "2023-05-25": 1096536,
-  "2023-05-26": 1096678,
-  "2023-05-27": 1096848,
-  "2023-05-28": 1097014,
-  "2023-05-29": 1097014,
-  "2023-05-30": 1097347,
-  "2023-05-31": 1097517,
-  "2023-06-01": 1097686,
-  "2023-06-02": 1097941,
-  "2023-06-03": 1098137,
-  "2023-06-04": 1098388,
-  "2023-06-05": 1098582,
-  "2023-06-06": 1098727,
-  "2023-06-07": 1098897,
-  "2023-06-08": 1099085,
-  "2023-06-09": 1099254,
-  "2023-06-10": 1099422,
-  "2023-06-11": 1099600,
-  "2023-06-12": 1099798,
-  "2023-06-13": 1100283,
-  "2023-06-14": 1100651,
-  "2023-06-15": 1100965,
-  "2023-06-16": 1101316,
-  "2023-06-17": 1101573,
-  "2023-06-18": 1101777,
-  "2023-06-19": 1101974,
-  "2023-06-20": 1102126,
-  "2023-06-21": 1102320,
-  "2023-06-22": 1102481,
-  "2023-06-23": 1102662,
-  "2023-06-24": 1102827,
-  "2023-06-25": 1103008,
-  "2023-06-26": 1103187,
-  "2023-06-27": 1103310,
-  "2023-06-28": 1103480,
-  "2023-06-29": 1103661,
-  "2023-06-30": 1103866,
-  "2023-07-01": 1105417,
-  "2023-07-02": 1105417,
-  "2023-07-03": 1105759,
-  "2023-07-04": 1106095,
-  "2023-07-05": 1106392,
-  "2023-07-06": 1106897,
-  "2023-07-07": 1106897,
-  "2023-07-08": 1107262,
-  "2023-07-09": 1107541,
-  "2023-07-10": 1107841,
-  "2023-07-11": 1111830,
-  "2023-07-12": 1113493,
-  "2023-07-13": 1115005,
-  "2023-07-14": 1116082,
-  "2023-07-15": 1116707,
-  "2023-07-16": 1117768,
-  "2023-07-17": 1118402,
-  "2023-07-18": 1118962,
-  "2023-07-19": 1119495,
-  "2023-07-20": 1119954,
-  "2023-07-21": 1120364,
-  "2023-07-22": 1120742,
-  "2023-07-23": 1121065,
-  "2023-07-24": 1121343,
-  "2023-07-25": 1121613,
-  "2023-07-26": 1121850,
-  "2023-07-27": 1122142,
-  "2023-07-28": 1122427,
-  "2023-07-29": 1122675,
-  "2023-07-30": 1122905,
-  "2023-07-31": 1123163,
-  "2023-08-01": 1123386,
-  "2023-08-02": 1123649,
-  "2023-08-03": 1123911,
-  "2023-08-04": 1124175,
-  "2023-08-05": 1124403,
-  "2023-08-06": 1124842,
-  "2023-08-07": 1124842,
-  "2023-08-08": 1125022,
-  "2023-08-09": 1125189,
-  "2023-08-10": 1125393,
-  "2023-08-11": 1125566,
-  "2023-08-12": 1125791,
-  "2023-08-13": 1125969,
-  "2023-08-14": 1126176,
-  "2023-08-15": 1126566,
-  "2023-08-16": 1126566,
-  "2023-08-17": 1126696,
-  "2023-08-18": 1126844,
-  "2023-08-19": 1127006,
-  "2023-08-20": 1127169,
-  "2023-08-21": 1127302,
-  "2023-08-22": 1127472,
-  "2023-08-23": 1127625,
-  "2023-08-24": 1127758,
-  "2023-08-25": 1127877,
-  "2023-08-26": 1128055,
-  "2023-08-27": 1128178,
-  "2023-08-28": 1128359,
-  "2023-08-29": 1128561,
-  "2023-08-30": 1128751,
-  "2023-08-31": 1128928,
-  "2023-09-01": 1129204,
-  "2023-09-02": 1129204,
-  "2023-09-03": 1129347,
-  "2023-09-04": 1129773,
-  "2023-09-05": 1130007,
-  "2023-09-06": 1130283,
-  "2023-09-07": 1130489,
-  "2023-09-08": 1130679,
-  "2023-09-09": 1130910,
-  "2023-09-10": 1131070,
-  "2023-09-11": 1131252,
-  "2023-09-12": 1131387,
-  "2023-09-13": 1131581,
-  "2023-09-14": 1131733,
-  "2023-09-15": 1131875,
-  "2023-09-16": 1131994,
-  "2023-09-17": 1132137,
-  "2023-09-18": 1132249,
-  "2023-09-19": 1132458,
-  "2023-09-20": 1132597,
-  "2023-09-21": 1132786,
-  "2023-09-22": 1132970,
-  "2023-09-23": 1133127,
-  "2023-09-24": 1133369,
-  "2023-09-25": 1133603,
-  "2023-09-26": 1133842,
-  "2023-09-27": 1133930,
-  "2023-09-28": 1134075,
-  "2023-09-29": 1134240,
-  "2023-09-30": 1134405,
-  "2023-10-01": 1134554,
-  "2023-10-02": 1134717,
-  "2023-10-03": 1134842,
-  "2023-10-04": 1134961,
-  "2023-10-05": 1135081,
-  "2023-10-06": 1135225,
-  "2023-10-07": 1135358,
-  "2023-10-08": 1135468,
-  "2023-10-09": 1135598,
-  "2023-10-10": 1133523,
-  "2023-10-11": 1131405,
-  "2023-10-12": 1131405,
-  "2023-10-13": 1129532,
-  "2023-10-14": 1128192,
-  "2023-10-15": 1128022,
-  "2023-10-16": 1128095,
-  "2023-10-17": 1128210,
-  "2023-10-18": 1128313,
-  "2023-10-19": 1128461,
-  "2023-10-20": 1128616,
-  "2023-10-21": 1128789,
-  "2023-10-22": 1128958,
-  "2023-10-23": 1129073,
-  "2023-10-24": 1129223,
-  "2023-10-25": 1129358,
-  "2023-10-26": 1129493,
-  "2023-10-27": 1129628,
-  "2023-10-28": 1129753,
-  "2023-10-29": 1129879,
-  "2023-10-30": 1130097,
-  "2023-10-31": 1130097,
-  "2023-11-01": 1130188,
-  "2023-11-02": 1130309,
-  "2023-11-03": 1130433,
-  "2023-11-04": 1130517,
-  "2023-11-05": 1130600,
-  "2023-11-06": 1130717,
-  "2023-11-07": 1130840,
-  "2023-11-08": 1130931,
-  "2023-11-09": 1131039,
-  "2023-11-10": 1131171,
-  "2023-11-11": 1131306,
-  "2023-11-12": 1131374,
-  "2023-11-13": 1131467,
-  "2023-11-14": 1131565,
-  "2023-11-15": 1131565,
-  "2023-11-16": 1131763,
-  "2023-11-17": 1131950,
-  "2023-11-18": 1131950,
-  "2023-11-19": 1132076,
-  "2023-11-20": 1132223,
-  "2023-11-21": 1132358,
-  "2023-11-22": 1132482,
-  "2023-11-23": 1132600,
-  "2023-11-24": 1132691,
-  "2023-11-25": 1132776,
-  "2023-11-26": 1132860,
-  "2023-11-27": 1132940,
-  "2023-11-28": 1133014,
-  "2023-11-29": 1133216,
-  "2023-11-30": 1133216,
-  "2023-12-01": 1133357,
-  "2023-12-02": 1133515,
-  "2023-12-03": 1133705,
-  "2023-12-04": 1133819,
-  "2023-12-05": 1133944,
-  "2023-12-06": 1134127,
-  "2023-12-07": 1134279,
-  "2023-12-08": 1134418,
-  "2023-12-09": 1134549,
-  "2023-12-10": 1134691,
-  "2023-12-11": 1134804,
-  "2023-12-12": 1134948,
-  "2023-12-13": 1135087,
-  "2023-12-14": 1135268,
-  "2023-12-15": 1135366,
-  "2023-12-16": 1135453,
-  "2023-12-17": 1135575,
-  "2023-12-18": 1135705,
-  "2023-12-19": 1135848,
-  "2023-12-20": 1136002,
-  "2023-12-21": 1136210,
-  "2023-12-22": 1136416,
-  "2023-12-23": 1136607,
-  "2023-12-24": 1136802,
-  "2023-12-25": 1136962,
-  "2023-12-26": 1137130,
-  "2023-12-27": 1137247,
-  "2023-12-30": 1137559,
-  "2023-12-31": 1137701,
-  "2024-01-01": 1137804,
-  "2024-01-02": 1137913,
-  "2024-01-03": 1137962
+  "2024-01-17": 1127249,
+  "date_first_scraped": "2021-12-21",
+  "description": "All the megahits by the South Korean boy band are right here! We are one! ",
+  "name": "This Is EXO",
+  "tracks": [
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209253,
+      "name": "1 Billion Views",
+      "url": "https://open.spotify.com/track/4gGZc6MMYavM5KFS2zwOVL"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243324,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6EjU5hbaHHtzuZUGkH0cJQ"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/11dQTEghmS3uFipXhk1Tbl"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191066,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/7BE2rwnP5B2bCeLLpY40Tm"
+    },
+    {
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 245772,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/23FeHzPmXrVSoJJpU8H1Iz"
+    },
+    {
+      "album": {
+        "name": "EX'ACT - The 3rd Album",
+        "url": "https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245772,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/2aeDN3PkBPJB8cCi59aQS5"
+    },
+    {
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245772,
+      "name": "Artificial Love",
+      "url": "https://open.spotify.com/track/7JsdxIrUXhCJUCaX2ZhSNl"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178920,
+      "name": "Baby You Are",
+      "url": "https://open.spotify.com/track/1j37dCqGQuvWNYg80RIiOu"
+    },
+    {
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
+    },
+    {
+      "album": {
+        "name": "Universe \u2013 Winter Special Album, 2017",
+        "url": "https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218090,
+      "name": "Been Through",
+      "url": "https://open.spotify.com/track/5pesNiBKAx8JNwK2mQ2HEc"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206693,
+      "name": "Bungee",
+      "url": "https://open.spotify.com/track/6wwmbBoBaFxptJwuvF2QdM"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/3ki9UrYL2TZxYAyyGIPMPz"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/3nFQs7s6hDUG9hjaJZvBwr"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018EXODUS\u2019",
+        "url": "https://open.spotify.com/album/783a1YbiWvZkD6UVFn9mtH"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/4jdiqVbH1eUwc4MzDV7GMu"
+    },
+    {
+      "album": {
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211013,
+      "name": "CALL ME BABY",
+      "url": "https://open.spotify.com/track/6Rx0ORYPP3GH9rTvGS5Vy8"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227173,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/6kKC35sKUh2FUx4M0qAL44"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154573,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/7I5GXijbz8XNZjbn45t8bu"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185320,
+      "name": "Cream Soda",
+      "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "Dad",
+      "url": "https://open.spotify.com/track/0p4AJ91CdS1k8ibpguPJg5"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176546,
+      "name": "Don't fight the feeling",
+      "url": "https://open.spotify.com/track/42fR3oINF3KfXCDtheoNiY"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214380,
+      "name": "Don't Go",
+      "url": "https://open.spotify.com/track/1Acgi7wxVD9OF3iQnFe8Q4"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 239597,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/0qWhCGgRoEKAUuwJKVLJgY"
+    },
+    {
+      "album": {
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239597,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/5il5nd4tIALwu7G1DBjdOq"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018EXODUS\u2019",
+        "url": "https://open.spotify.com/album/783a1YbiWvZkD6UVFn9mtH"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239597,
+      "name": "EL DORADO",
+      "url": "https://open.spotify.com/track/5vaor8pp494Z8AZtIpmpda"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1l3oUdtu9GYbNzSFgPW8p1"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212213,
+      "name": "Every second",
+      "url": "https://open.spotify.com/track/1k555u88NiaBJH6AWlf5rA"
+    },
+    {
+      "album": {
+        "name": "Descendants Of The Sun Pt.2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5TVsuCwCLLBk9qpElbX7nE"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189355,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/1D6lK8qADoErTTLkY4YBfM"
+    },
+    {
+      "album": {
+        "name": "Moonlovers - Scarlet Heart Ryeo (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Ws1NetwWwXXK50IrNvs7R"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196549,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/7rLvsAO1yb7ElxPhkz60qh"
+    },
+    {
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230725,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3HbODbLPYqeHcRXApoWJDy"
+    },
+    {
+      "album": {
+        "name": "Our Beloved BoA #1 - SM STATION",
+        "url": "https://open.spotify.com/album/3RuJjHP8JUBcktoao5J2Wc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197520,
+      "name": "Garden In The Air",
+      "url": "https://open.spotify.com/track/1x6L3DD4MHziI0CVywZgnw"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204253,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4pulHxja8nTUiojRtfwgTv"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/1NjDOIVKh62Cv9U1XgZIeT"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229651,
+      "name": "Go away go away",
+      "url": "https://open.spotify.com/track/0qQ0R0SwHzLODkswy3fedU"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.3",
+        "url": "https://open.spotify.com/album/3Hogb2UeRoLqF8B7KLTZN0"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229651,
+      "name": "Go away go away",
+      "url": "https://open.spotify.com/track/6m6PTfVXdPZT6scb1TaONP"
+    },
+    {
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226061,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/64EJgeHPkqJThnr7RDppo3"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234634,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/24r3v5xQdmC4qXH6twiWla"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208613,
+      "name": "Groove",
+      "url": "https://open.spotify.com/track/4Xi0jBySALbHLMh9MnSvAb"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Growl",
+      "url": "https://open.spotify.com/track/4pi0Elz7B7cLfw37J3bYm9"
+    },
+    {
+      "album": {
+        "name": "Do You Like Brahms? OST Part.11",
+        "url": "https://open.spotify.com/album/6Qz4OdgSKxM7Rq0ds2g9EJ"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-03",
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/0D9AvynVM5S1cbNgOl06l8"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 11",
+        "url": "https://open.spotify.com/album/1Fq3Vz0CDiKw2tMBPetQxR"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232332,
+      "name": "happy",
+      "url": "https://open.spotify.com/track/42vjv9XG4joOCBajzAFRaN"
+    },
+    {
+      "album": {
+        "name": "Hear Me Out",
+        "url": "https://open.spotify.com/album/6CYyZb52ZwPm9wkwpCbMFJ"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Hear Me Out",
+      "url": "https://open.spotify.com/track/44EXniDpWap2veS1gH1svO"
+    },
+    {
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225823,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/64wBH2x7lTYxhwUzoS5gvt"
+    },
+    {
+      "album": {
+        "name": "EX'ACT - The 3rd Album",
+        "url": "https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 225823,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7wlPyCWaTMfkYyalMq5jU2"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/2FmUOkj3thjkzbuR10fLBb"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215893,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/2B4Hz23pUeucJZEmgUIOtV"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "Hello Stranger",
+      "url": "https://open.spotify.com/track/3LjS1vGAprMNthdyue5XZD"
+    },
+    {
+      "album": {
+        "name": "Hey Mama!\u2013 The 1st Mini Album",
+        "url": "https://open.spotify.com/album/7qXTHawuBsARg5NdkZM5cU"
+      },
+      "artists": [
+        {
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199796,
+      "name": "Hey Mama!",
+      "url": "https://open.spotify.com/track/20bWnhRylVPnTpfsuIzorG"
+    },
+    {
+      "album": {
+        "name": "Hey Mama! \u2013 The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1efALwhMyHci80AIeiOp0m"
+      },
+      "artists": [
+        {
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199796,
+      "name": "Hey Mama!",
+      "url": "https://open.spotify.com/track/7JHiyIBneG5971rM9QFoOD"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "I'm Fine",
+      "url": "https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151733,
+      "name": "I'm Gonna Love You",
+      "url": "https://open.spotify.com/track/1jxGBe4s8FwL2ZeNWszVuu"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237120,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/5orHjvcyt71Sv1O4M1GSHf"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221266,
+      "name": "Jekyll",
+      "url": "https://open.spotify.com/track/028XrbNPgtmnSSScHuWuG1"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197306,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/2pGiCkby7jZHeSTGM9aDKE"
+    },
+    {
+      "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/6Q7hzeX6jomOltQjbygShm"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-05",
+      "duration_ms": 138600,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/3mkBVRxL8Zb6Cp9PuBHMq4"
+    },
+    {
+      "album": {
+        "name": "PRODUCER",
+        "url": "https://open.spotify.com/album/3GRxN9dE11BbXgpZIRJCUM"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 138600,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/3r1Ct1TfhTo1ERSO5yn2bQ"
+    },
+    {
+      "album": {
+        "name": "PRODUCER",
+        "url": "https://open.spotify.com/album/7KVVfotZYLbM4rYaSGLrMX"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138600,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/7yVsn705mElzqZfuxoZSjv"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Just as usual",
+      "url": "https://open.spotify.com/track/64xTu0cKbXu3ZSRkfXiBnx"
+    },
+    {
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190422,
+      "name": "Ko Ko Bop",
+      "url": "https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa"
+    },
+    {
+      "album": {
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197533,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP"
+    },
+    {
+      "album": {
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Let\u2019s Love",
+      "url": "https://open.spotify.com/track/0wk4GYAryLcXEMvfhzU1bv"
+    },
+    {
+      "album": {
+        "name": "LIGHTSABER",
+        "url": "https://open.spotify.com/album/7bNW8A8tZ2ogSQmKxSnZsV"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184935,
+      "name": "LIGHTSABER",
+      "url": "https://open.spotify.com/track/0WgIKcomgCpfSvTHRT43aW"
+    },
+    {
+      "album": {
+        "name": "SING FOR YOU - Winter Special Album, 2015",
+        "url": "https://open.spotify.com/album/5gdBIiSdnlQ4VFrJQ2eAym"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 184935,
+      "name": "LIGHTSABER - Bonus Track",
+      "url": "https://open.spotify.com/track/06SGUlo2pYQLmg8h2CsTzO"
+    },
+    {
+      "album": {
+        "name": "SING FOR YOU - Winter Special Album, 2015",
+        "url": "https://open.spotify.com/album/1eGKfrv3zUriBWbPOFKKxq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 184935,
+      "name": "LIGHTSABER - Chinese Version, Bonus Track",
+      "url": "https://open.spotify.com/track/5yrp7mqLFgMaOTOkVL9sCf"
+    },
+    {
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/73vdukUbH317FjvsE6kflf"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189774,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/63obpKLYuY1q2QP7Cbf29a"
+    },
+    {
+      "album": {
+        "name": "LOTTO - The 3rd Album Repackage",
+        "url": "https://open.spotify.com/album/4e75ohAqqgV3zgLn8qMxki"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189774,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/6ukWoX4AHV76JdYVdKRPk8"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205293,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202733,
+      "name": "Love Fool",
+      "url": "https://open.spotify.com/track/6xiWbjsJD3pBKdM8tH46qH"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205128,
+      "name": "LOVE ME RIGHT",
+      "url": "https://open.spotify.com/track/1kFevEv3s7Gf6o5xSDR5DL"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/1LAtXrg1eSZ0sHbdzWoKAj"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205128,
+      "name": "LOVE ME RIGHT",
+      "url": "https://open.spotify.com/track/3F76FuWseLvGkcgatzTD9q"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage (Chinese Version)",
+        "url": "https://open.spotify.com/album/2f3klmjKxbM70Y1saespyj"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 205128,
+      "name": "LOVE ME RIGHT - Chinese Version",
+      "url": "https://open.spotify.com/track/6Awz4ecCKYjc4H7ZwLDsog"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Love Shot",
+      "url": "https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj"
+    },
+    {
+      "album": {
+        "name": "EX'ACT - The 3rd Album",
+        "url": "https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227485,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/4vnzhkrgM7PH6RwTW3afZw"
+    },
+    {
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227485,
+      "name": "Lucky One",
+      "url": "https://open.spotify.com/track/6F07dfBaUEcylJdL3gky7y"
+    },
+    {
+      "album": {
+        "name": "Self-Portrait - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0f4L2zNLtQtFk08M1YGoE1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "Made In You",
+      "url": "https://open.spotify.com/track/30NvzcboJe3GQRIDkJM0k3"
+    },
+    {
+      "album": {
+        "name": "Mama (The 1st Mini Album)",
+        "url": "https://open.spotify.com/album/5gjyCvsEEqcsYD7LqAK6kP"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270452,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/0h6wNxwKqle9va4isnnBXn"
+    },
+    {
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192346,
+      "name": "Mmmh",
+      "url": "https://open.spotify.com/track/5dntGTbUtmUO239wQ0k3yM"
+    },
+    {
+      "album": {
+        "name": "EX'ACT - The 3rd Album",
+        "url": "https://open.spotify.com/album/5dB931yywXZg4VdZYeFRaD"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/6lM6yIDZ7kxFsgQCCfaLE2"
+    },
+    {
+      "album": {
+        "name": "EX'ACT",
+        "url": "https://open.spotify.com/album/5Cckx6G2aRR4aZBV6eIYdc"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221341,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/7GbUWl6qLW1gdngbEV2WDJ"
+    },
+    {
+      "album": {
+        "name": "Dear my dear - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7vIUunVE4NWLS0uq9X9o5f"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238188,
+      "name": "My dear",
+      "url": "https://open.spotify.com/track/3qbsRctNTLFSgCvz6ZKYjW"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.1",
+        "url": "https://open.spotify.com/album/6hjVPB4sG0Gwme1e9hy62b"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193930,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/1RMUSljuiZKUNaf6xskK9n"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204853,
+      "name": "No Makeup",
+      "url": "https://open.spotify.com/track/3pT5BuUxD9wwpyR3F6u92U"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222933,
+      "name": "No matter",
+      "url": "https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204240,
+      "name": "Non Stop",
+      "url": "https://open.spotify.com/track/7bTYdDUxiFegwLJm6u743n"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160786,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/031mgKcbAk6cL9ZpfIEq4K"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206293,
+      "name": "Nothin\u2019",
+      "url": "https://open.spotify.com/track/308Hr1dbj1mlLkggoWlxxB"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194325,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/2Ewt35352UKONyzomJlqXu"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203520,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "On Me",
+      "url": "https://open.spotify.com/track/7zgAysZmfnHKhayf30Dx2U"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187446,
+      "name": "Ooh La La La",
+      "url": "https://open.spotify.com/track/6n6G0ORHLwMiQYzgT0QxWV"
+    },
+    {
+      "album": {
+        "name": "Overdose - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/3Nyhs0ZYxVmXDVfv4PLsqv"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205611,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/5NSPsOGVNWYOMeeyZPF7HY"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217320,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/0KDCkxCsEBoSWj5fsyuvWq"
+    },
+    {
+      "album": {
+        "name": "EXODUS - The 2nd Album",
+        "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212132,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/06KYwRJKN3IKOKzaWuP3ea"
+    },
+    {
+      "album": {
+        "name": "The 2nd Album \u2018EXODUS\u2019",
+        "url": "https://open.spotify.com/album/783a1YbiWvZkD6UVFn9mtH"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212132,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/14xRAc1zbSZZzKaYgkwqdY"
+    },
+    {
+      "album": {
+        "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+        "url": "https://open.spotify.com/album/2tSO8aEYf5YvpwmvvrOWH7"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 212132,
+      "name": "PLAYBOY",
+      "url": "https://open.spotify.com/track/6MYEeyznxIzZIOsFpVryrM"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Poppin\u2019",
+      "url": "https://open.spotify.com/track/1JTUPJr0rSf93hNlRR6S0g"
+    },
+    {
+      "album": {
+        "name": "THE POWER OF MUSIC \u2013 The 4th Album \u2018THE WAR\u2019 Repackage",
+        "url": "https://open.spotify.com/album/5yUlewRtRySsb77hEoTTIu"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222405,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/53YZi9zgTnF0Py0K6ejyWz"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189813,
+      "name": "Private Party",
+      "url": "https://open.spotify.com/track/6UbC3x9AIQEnJn5CLrtXge"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174506,
+      "name": "R U Ridin\u2019?",
+      "url": "https://open.spotify.com/track/4Jxc98fY5SQ6zyGg8Dnybw"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173906,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/5x2p715xYEKn2AdV9pNv52"
+    },
+    {
+      "album": {
+        "name": "EXIST \u2013 The 7th Album",
+        "url": "https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175840,
+      "name": "Regret It",
+      "url": "https://open.spotify.com/track/21bzlRvgyr4nHdav7ayosn"
+    },
+    {
+      "album": {
+        "name": "KAI - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6xpxMAUhk8hiDTa5zT7F86"
+      },
+      "artists": [
+        {
+          "name": "KAI",
+          "url": "https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/5Ej0A9BOsVSrxYwC6GSfCv"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220506,
+      "name": "Rodeo Station",
+      "url": "https://open.spotify.com/track/7yfRLqROyibGRSW0t2vUSs"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/2bk43y1inDfHx8fFdXar3l"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153706,
+      "name": "Rose - English Version",
+      "url": "https://open.spotify.com/track/2shyarF21wZvWew00TdaP3"
+    },
+    {
+      "album": {
+        "name": "DON'T FIGHT THE FEELING - Special Album",
+        "url": "https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/238Ra1ggmx3wUkHyZ8EjST"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200920,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1v63HdaLjF520P32frB392"
+    },
+    {
+      "album": {
+        "name": "\uacf5\uac10 (Empathy) - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237106,
+      "name": "Si Fueras M\u00eda",
+      "url": "https://open.spotify.com/track/2EDpsT55NCISpccODTIUiV"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193852,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/2WoZh6Z32L6lEEDu7wxmfT"
+    },
+    {
+      "album": {
+        "name": "Expectation - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "album": {
+        "name": "SSFW",
+        "url": "https://open.spotify.com/album/5eq9uD3Lm8SKdYfTBxRdX7"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219336,
+      "name": "SSFW",
+      "url": "https://open.spotify.com/track/4CrjiZPKCIMeDTW1wYZxRG"
+    },
+    {
+      "album": {
+        "name": "Guardian (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "Punch",
+          "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192441,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+    },
+    {
+      "album": {
+        "name": "1 Billion Views - The 1st Album",
+        "url": "https://open.spotify.com/album/4t1SPfj4ogtEQUMu3OHI3Q"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195613,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/6ksOaijLwaSWTVRtPgakt0"
+    },
+    {
+      "album": {
+        "name": "Tell Me (What Is Love) - SM STATION",
+        "url": "https://open.spotify.com/album/4EWHLsHdiW6h5vSEiV2xvd"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        },
+        {
+          "name": "YOO YOUNG JIN",
+          "url": "https://open.spotify.com/artist/10hnt5byoob9FKHUN8Awfa"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282240,
+      "name": "Tell Me (What Is Love)",
+      "url": "https://open.spotify.com/track/0XFNh4Buo97mSzJK3C7gSJ"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224482,
+      "name": "Tempo",
+      "url": "https://open.spotify.com/track/1iifBZFQbZlO1BbeaO3KGi"
+    },
+    {
+      "album": {
+        "name": "That's okay",
+        "url": "https://open.spotify.com/album/6EzpktNa8oT04yXVfQieJf"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221373,
+      "name": "That's okay",
+      "url": "https://open.spotify.com/track/2Ghu1DdMwxS3VAyB7i38Wo"
+    },
+    {
+      "album": {
+        "name": "THE WAR - The 4th Album",
+        "url": "https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "The Eve",
+      "url": "https://open.spotify.com/track/2ujA6F1cpk3m8lsPE5aKua"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222010,
+      "name": "Trauma",
+      "url": "https://open.spotify.com/track/4vh7bEuYAU9TtBRXwcLtn9"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5vZU1sYp7e1osTKWIMtof5"
+    },
+    {
+      "album": {
+        "name": "Doom at Your Service (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "U",
+      "url": "https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi"
+    },
+    {
+      "album": {
+        "name": "City Lights - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6AeMj5CMeTXRGhmUuv0LH3"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235509,
+      "name": "UN Village",
+      "url": "https://open.spotify.com/track/0WSTInLqMrT9po0LAHpZCJ"
+    },
+    {
+      "album": {
+        "name": "Delight - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199186,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/7tIFeLQFS7A6DLcZ12Mv3U"
+    },
+    {
+      "album": {
+        "name": "SING FOR YOU - Winter Special Album, 2015",
+        "url": "https://open.spotify.com/album/1eGKfrv3zUriBWbPOFKKxq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182321,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/78bSWIqoNPdJB8QpCVkv0K"
+    },
+    {
+      "album": {
+        "name": "Universe \u2013 Winter Special Album, 2017",
+        "url": "https://open.spotify.com/album/45RVbFvHsy7bsO7CQ2oQ6e"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264365,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/5ptViFrfoKdGPTdd9oQCwr"
+    },
+    {
+      "album": {
+        "name": "LOVE SHOT\u2013 The 5th Album Repackage",
+        "url": "https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248768,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq"
+    },
+    {
+      "album": {
+        "name": "We Young",
+        "url": "https://open.spotify.com/album/5YJFl4cNetPk0Tn4tqPRHk"
+      },
+      "artists": [
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "SEHUN",
+          "url": "https://open.spotify.com/artist/79R17q4kiPsimHDtdOlN2L"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181161,
+      "name": "We Young",
+      "url": "https://open.spotify.com/track/0eilxZjVwGfcgzzDEbcFJP"
+    },
+    {
+      "album": {
+        "name": "What a life - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/60dCcEJcX0TamOud2jS87a"
+      },
+      "artists": [
+        {
+          "name": "EXO-SC",
+          "url": "https://open.spotify.com/artist/6741jcSlgsv0M3B4ruIPS5"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "What a life",
+      "url": "https://open.spotify.com/track/3TfLZodlQ1TzNpdrc4KXR5"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Wolf",
+      "url": "https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186017,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186017,
+      "name": "XOXO (Kisses & Hugs)",
+      "url": "https://open.spotify.com/track/6S4S55KPkSB2OEzVrBe3ez"
+    },
+    {
+      "album": {
+        "name": "OBSESSION \u2013 The 6th Album",
+        "url": "https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222040,
+      "name": "Ya Ya Ya",
+      "url": "https://open.spotify.com/track/2Dn0UlDRJ4iSMlSdZ103pg"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0WxVZ3hfD1LKSIkbOriLGi"
+      },
+      "artists": [
+        {
+          "name": "XIUMIN",
+          "url": "https://open.spotify.com/artist/5t0Js3X9t4wpgXGlaiTFe6"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306520,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4r3k2iBOPJZHqnmkOFMJEv"
+    },
+    {
+      "album": {
+        "name": "Do You Like Brahms? OST Part.3",
+        "url": "https://open.spotify.com/album/6aWsKj6LX7pXpVdmhjFPHC"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-02",
+      "duration_ms": 223041,
+      "name": "Your moonlight",
+      "url": "https://open.spotify.com/track/6iuqiQSsoSyYzwUdYTdAzo"
+    },
+    {
+      "album": {
+        "name": "Yours",
+        "url": "https://open.spotify.com/album/01RsFGO7W7xaRM4T2p1Xdn"
+      },
+      "artists": [
+        {
+          "name": "Raiden",
+          "url": "https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ"
+        },
+        {
+          "name": "CHANYEOL",
+          "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
+        },
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235413,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/4KL3FJYexPrPuMdPagHPXp"
+    },
+    {
+      "album": {
+        "name": "Blooming Days - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/14zRuZjpOkB4IrUkFsrN31"
+      },
+      "artists": [
+        {
+          "name": "EXO-CBX",
+          "url": "https://open.spotify.com/artist/3Lz3vEN23Fw0hIelrYEzUD"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199845,
+      "name": "\u82b1\uc694\uc77c Blooming Day",
+      "url": "https://open.spotify.com/track/4kmp56RAtXEzHOANS0BaLX"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214380,
+      "name": "\ub098\ube44\uc18c\ub140 (Don't Go)",
+      "url": "https://open.spotify.com/track/1vXsCZjGd1LW6EVwcPhMc7"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/1nuRFmSFwmnh9AVxvfgLJT"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193930,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
+      "url": "https://open.spotify.com/track/2KhNgn4w8LHxn3ybLoofh4"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 193930,
+      "name": "\ub108\ub97c \uc0ac\ub791\ud558\uace0 \uc788\uc5b4",
+      "url": "https://open.spotify.com/track/2w6rMzo6ECQi8ubNeO9UQS"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4SxYzcAziHlRd06QMAbva7"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 223041,
+      "name": "\ub108\uc758 \ub2ec\ube5b",
+      "url": "https://open.spotify.com/track/7BZHN1WSs46gmptfYYs5yY"
+    },
+    {
+      "album": {
+        "name": "\ube0c\ub78c\uc2a4\ub97c \uc88b\uc544\ud558\uc138\uc694? (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/0AyYSWdDhu1yiFCrsX0fD9"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223041,
+      "name": "\ub108\uc758 \ub2ec\ube5b",
+      "url": "https://open.spotify.com/track/7rk0jW98zIHYlfL5FYtEx3"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230600,
+      "name": "\ub291\ub300\uc640 \ubbf8\ub140 (Wolf)",
+      "url": "https://open.spotify.com/track/7kOHvrxpc31hHZMDXvqEqQ"
+    },
+    {
+      "album": {
+        "name": "SING FOR YOU - Winter Special Album, 2015",
+        "url": "https://open.spotify.com/album/5gdBIiSdnlQ4VFrJQ2eAym"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182321,
+      "name": "\ubd88\uacf5\ud3c9\ud574 Unfair",
+      "url": "https://open.spotify.com/track/6AsyiVAciYZmXBj3l6jp4l"
+    },
+    {
+      "album": {
+        "name": "The 1st Album 'XOXO' (Repackage)",
+        "url": "https://open.spotify.com/album/7xjycWH5Bq3N5rb9SEoDZG"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 207053,
+      "name": "\uc73c\ub974\ub801 Growl",
+      "url": "https://open.spotify.com/track/6xy9JYFKcpb9L62PRNnYW5"
+    },
+    {
+      "album": {
+        "name": "The 2nd Mini Album '\uc911\ub3c5 Overdose'",
+        "url": "https://open.spotify.com/album/5P76th5WUjiqXxTYIgTXsG"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "date_added": "2021-07-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205611,
+      "name": "\uc911\ub3c5 Overdose",
+      "url": "https://open.spotify.com/track/7MirWQBco3ZiuwvcdYaNSe"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5JcPJgYjGcf"
 }

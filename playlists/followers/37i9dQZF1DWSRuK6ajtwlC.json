@@ -1,298 +1,2379 @@
 {
-  "2023-03-11": 211804,
-  "2023-03-12": 212193,
-  "2023-03-13": 212556,
-  "2023-03-14": 212917,
-  "2023-03-15": 213289,
-  "2023-03-16": 213639,
-  "2023-03-17": 213639,
-  "2023-03-18": 214379,
-  "2023-03-19": 214746,
-  "2023-03-20": 215107,
-  "2023-03-21": 215442,
-  "2023-03-22": 215759,
-  "2023-03-23": 216133,
-  "2023-03-24": 216133,
-  "2023-03-25": 216801,
-  "2023-03-26": 217169,
-  "2023-03-27": 217505,
-  "2023-03-28": 217840,
-  "2023-03-29": 218270,
-  "2023-03-30": 218918,
-  "2023-03-31": 218918,
-  "2023-04-01": 219325,
-  "2023-04-02": 219715,
-  "2023-04-03": 220088,
-  "2023-04-04": 220383,
-  "2023-04-05": 220719,
-  "2023-04-06": 221022,
-  "2023-04-07": 221332,
-  "2023-04-09": 221990,
-  "2023-04-10": 222267,
-  "2023-04-11": 222839,
-  "2023-04-12": 222839,
-  "2023-04-13": 223127,
-  "2023-04-14": 223438,
-  "2023-04-15": 223753,
-  "2023-04-16": 224055,
-  "2023-04-17": 224291,
-  "2023-04-18": 224535,
-  "2023-04-19": 224804,
-  "2023-04-20": 225076,
-  "2023-04-21": 225423,
-  "2023-04-22": 225704,
-  "2023-04-23": 226013,
-  "2023-04-24": 226282,
-  "2023-04-25": 226524,
-  "2023-04-26": 226811,
-  "2023-04-27": 227073,
-  "2023-04-28": 227320,
-  "2023-04-29": 227622,
-  "2023-04-30": 227900,
-  "2023-05-01": 228147,
-  "2023-05-02": 228418,
-  "2023-05-03": 228650,
-  "2023-05-04": 228856,
-  "2023-05-05": 229113,
-  "2023-05-06": 229390,
-  "2023-05-07": 229656,
-  "2023-05-08": 229882,
-  "2023-05-09": 230098,
-  "2023-05-10": 230321,
-  "2023-05-11": 230546,
-  "2023-05-12": 230802,
-  "2023-05-13": 231059,
-  "2023-05-14": 231346,
-  "2023-05-15": 231589,
-  "2023-05-16": 231819,
-  "2023-05-17": 232048,
-  "2023-05-18": 232295,
-  "2023-05-19": 232530,
-  "2023-05-20": 233134,
-  "2023-05-21": 233134,
-  "2023-05-22": 233134,
-  "2023-05-23": 233647,
-  "2023-05-24": 234088,
-  "2023-05-25": 234160,
-  "2023-05-26": 234449,
-  "2023-05-27": 234788,
-  "2023-05-28": 235121,
-  "2023-05-29": 235121,
-  "2023-05-30": 235568,
-  "2023-05-31": 235810,
-  "2023-06-01": 236081,
-  "2023-06-02": 236334,
-  "2023-06-03": 236600,
-  "2023-06-04": 236886,
-  "2023-06-05": 237126,
-  "2023-06-06": 237373,
-  "2023-06-07": 237589,
-  "2023-06-08": 237814,
-  "2023-06-09": 238028,
-  "2023-06-10": 238210,
-  "2023-06-11": 238455,
-  "2023-06-12": 238663,
-  "2023-06-13": 238867,
-  "2023-06-14": 239052,
-  "2023-06-15": 239241,
-  "2023-06-16": 239436,
-  "2023-06-17": 239619,
-  "2023-06-18": 239869,
-  "2023-06-19": 240075,
-  "2023-06-20": 240256,
-  "2023-06-21": 240441,
-  "2023-06-22": 240645,
-  "2023-06-23": 240863,
-  "2023-06-24": 241092,
-  "2023-06-25": 241334,
-  "2023-06-26": 241538,
-  "2023-06-27": 241735,
-  "2023-06-28": 241932,
-  "2023-06-29": 242155,
-  "2023-06-30": 242365,
-  "2023-07-01": 242791,
-  "2023-07-02": 242791,
-  "2023-07-03": 242997,
-  "2023-07-04": 243168,
-  "2023-07-05": 243371,
-  "2023-07-06": 243797,
-  "2023-07-07": 243797,
-  "2023-07-08": 243963,
-  "2023-07-09": 244185,
-  "2023-07-10": 244370,
-  "2023-07-11": 244524,
-  "2023-07-12": 244718,
-  "2023-07-13": 244915,
-  "2023-07-14": 245118,
-  "2023-07-15": 245270,
-  "2023-07-16": 245573,
-  "2023-07-17": 245804,
-  "2023-07-18": 246015,
-  "2023-07-19": 246294,
-  "2023-07-20": 246568,
-  "2023-07-21": 246862,
-  "2023-07-22": 247202,
-  "2023-07-23": 247541,
-  "2023-07-24": 247831,
-  "2023-07-25": 248136,
-  "2023-07-26": 248439,
-  "2023-07-27": 248709,
-  "2023-07-28": 249039,
-  "2023-07-29": 249352,
-  "2023-07-30": 249628,
-  "2023-07-31": 249906,
-  "2023-08-01": 250201,
-  "2023-08-02": 250495,
-  "2023-08-03": 250803,
-  "2023-08-04": 251103,
-  "2023-08-05": 251381,
-  "2023-08-06": 251945,
-  "2023-08-07": 251945,
-  "2023-08-08": 252193,
-  "2023-08-09": 252476,
-  "2023-08-10": 252733,
-  "2023-08-11": 253021,
-  "2023-08-12": 253355,
-  "2023-08-13": 253671,
-  "2023-08-14": 253911,
-  "2023-08-15": 254422,
-  "2023-08-16": 254422,
-  "2023-08-17": 254678,
-  "2023-08-18": 255002,
-  "2023-08-19": 255348,
-  "2023-08-20": 255706,
-  "2023-08-21": 256016,
-  "2023-08-22": 256342,
-  "2023-08-23": 256687,
-  "2023-08-24": 256985,
-  "2023-08-25": 257308,
-  "2023-08-26": 257622,
-  "2023-08-27": 258034,
-  "2023-08-28": 258365,
-  "2023-08-29": 258621,
-  "2023-08-30": 258881,
-  "2023-08-31": 259138,
-  "2023-09-01": 259752,
-  "2023-09-02": 259752,
-  "2023-09-03": 260107,
-  "2023-09-04": 260418,
-  "2023-09-05": 260692,
-  "2023-09-06": 260981,
-  "2023-09-07": 261261,
-  "2023-09-08": 261537,
-  "2023-09-09": 261768,
-  "2023-09-10": 261978,
-  "2023-09-11": 262159,
-  "2023-09-12": 262330,
-  "2023-09-13": 262517,
-  "2023-09-14": 262680,
-  "2023-09-15": 262880,
-  "2023-09-16": 263073,
-  "2023-09-17": 263256,
-  "2023-09-18": 263454,
-  "2023-09-19": 263606,
-  "2023-09-20": 263763,
-  "2023-09-21": 263872,
-  "2023-09-22": 264030,
-  "2023-09-23": 264240,
-  "2023-09-24": 264432,
-  "2023-09-25": 264617,
-  "2023-09-26": 264848,
-  "2023-09-27": 264962,
-  "2023-09-28": 265109,
-  "2023-09-29": 265276,
-  "2023-09-30": 265467,
-  "2023-10-01": 265640,
-  "2023-10-02": 265803,
-  "2023-10-03": 265956,
-  "2023-10-04": 266091,
-  "2023-10-05": 266257,
-  "2023-10-06": 266430,
-  "2023-10-07": 266584,
-  "2023-10-08": 266766,
-  "2023-10-09": 266948,
-  "2023-10-10": 267094,
-  "2023-10-11": 267404,
-  "2023-10-12": 267404,
-  "2023-10-13": 267578,
-  "2023-10-14": 267742,
-  "2023-10-15": 267937,
-  "2023-10-16": 268111,
-  "2023-10-17": 268253,
-  "2023-10-18": 268405,
-  "2023-10-19": 268564,
-  "2023-10-20": 268738,
-  "2023-10-21": 268900,
-  "2023-10-22": 269136,
-  "2023-10-23": 269313,
-  "2023-10-24": 269449,
-  "2023-10-25": 269610,
-  "2023-10-26": 269788,
-  "2023-10-27": 269960,
-  "2023-10-28": 270186,
-  "2023-10-29": 270365,
-  "2023-10-30": 270710,
-  "2023-10-31": 270710,
-  "2023-11-01": 270831,
-  "2023-11-02": 270981,
-  "2023-11-03": 271143,
-  "2023-11-04": 271324,
-  "2023-11-05": 271525,
-  "2023-11-06": 271716,
-  "2023-11-07": 271892,
-  "2023-11-08": 272084,
-  "2023-11-09": 272276,
-  "2023-11-10": 272478,
-  "2023-11-11": 272740,
-  "2023-11-12": 272911,
-  "2023-11-13": 273108,
-  "2023-11-14": 273300,
-  "2023-11-15": 273300,
-  "2023-11-16": 273740,
-  "2023-11-17": 274216,
-  "2023-11-18": 274216,
-  "2023-11-19": 274504,
-  "2023-11-20": 274703,
-  "2023-11-21": 274888,
-  "2023-11-22": 275074,
-  "2023-11-23": 275263,
-  "2023-11-24": 275449,
-  "2023-11-25": 275657,
-  "2023-11-26": 275865,
-  "2023-11-27": 276027,
-  "2023-11-28": 276191,
-  "2023-11-29": 276551,
-  "2023-11-30": 276551,
-  "2023-12-01": 276745,
-  "2023-12-02": 276944,
-  "2023-12-03": 277173,
-  "2023-12-04": 277353,
-  "2023-12-05": 277508,
-  "2023-12-06": 277704,
-  "2023-12-07": 277911,
-  "2023-12-08": 278104,
-  "2023-12-09": 278325,
-  "2023-12-10": 278563,
-  "2023-12-11": 278775,
-  "2023-12-12": 278962,
-  "2023-12-13": 279175,
-  "2023-12-14": 279468,
-  "2023-12-15": 279651,
-  "2023-12-16": 279891,
-  "2023-12-17": 280134,
-  "2023-12-18": 280363,
-  "2023-12-19": 280537,
-  "2023-12-20": 280744,
-  "2023-12-21": 281559,
-  "2023-12-22": 282272,
-  "2023-12-23": 282726,
-  "2023-12-24": 283155,
-  "2023-12-25": 283502,
-  "2023-12-26": 283776,
-  "2023-12-27": 284072,
-  "2023-12-30": 285038,
-  "2023-12-31": 285332,
-  "2024-01-01": 285676,
-  "2024-01-02": 285965,
-  "2024-01-03": 286202
+  "2024-01-17": 289899,
+  "date_first_scraped": "2023-03-11",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Alianza Norte\u00f1a en portada.",
+  "name": "Norte\u00f1o Sax",
+  "tracks": [
+    {
+      "album": {
+        "name": "35 Sur",
+        "url": "https://open.spotify.com/album/1VKpvW0Ec9tVsyOMweuYad"
+      },
+      "artists": [
+        {
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 207906,
+      "name": "35 Sur",
+      "url": "https://open.spotify.com/track/6qYTzTgdsQdUgJFLB9IVns"
+    },
+    {
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/3ruePfbs4zwmx4SEaMqwjf"
+      },
+      "artists": [
+        {
+          "name": "Los Reales Del Rio",
+          "url": "https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188778,
+      "name": "365",
+      "url": "https://open.spotify.com/track/2o5bpyqOE1iPtGbnhxPqdK"
+    },
+    {
+      "album": {
+        "name": "900 Cigarros",
+        "url": "https://open.spotify.com/album/4hXZx9NOzBkfTQGmcr9FpS"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123906,
+      "name": "900 Cigarros",
+      "url": "https://open.spotify.com/track/2oL3HbsCYCetjWIc4mWRsM"
+    },
+    {
+      "album": {
+        "name": "Acurrucar",
+        "url": "https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178700,
+      "name": "Acurrucar",
+      "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "album": {
+        "name": "Al\u00e9jate",
+        "url": "https://open.spotify.com/album/5yRebJ89PYerMxGPbpZ3ao"
+      },
+      "artists": [
+        {
+          "name": "Cumbre Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148024,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/7rq4ykJJFmEudBTdwzTudF"
+    },
+    {
+      "album": {
+        "name": "Amor Maldito",
+        "url": "https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 189653,
+      "name": "Amor Maldito",
+      "url": "https://open.spotify.com/track/4lzlekHCZoJyd2415Q0eIU"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed No Es",
+        "url": "https://open.spotify.com/album/0uP879tp1CtlugozBxNWLn"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        },
+        {
+          "name": "La Tendencia Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7sjEFroNrv9QRcdreWE7LF"
+        },
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168232,
+      "name": "Aqu\u00ed No Es",
+      "url": "https://open.spotify.com/track/6kWNCuiXhNq5lx2p5uNZ9I"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Fue",
+        "url": "https://open.spotify.com/album/2naYrNU7L2PqTrXkE0lT9o"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240978,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/2eKeAS4U48xRefq3qdje8d"
+    },
+    {
+      "album": {
+        "name": "El Fen\u00f3meno",
+        "url": "https://open.spotify.com/album/2ha9AYHQfi9sA6sMyC5kgs"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "As\u00ed Ya No",
+      "url": "https://open.spotify.com/track/0rc9jL9G6RQHtgvIDYUmLD"
+    },
+    {
+      "album": {
+        "name": "Bajo El Agua",
+        "url": "https://open.spotify.com/album/2yPSI4CvrLZuwTa4JcmQdg"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192888,
+      "name": "Bajo El Agua",
+      "url": "https://open.spotify.com/track/6uic8zU4T1rftDwJKjGYdG"
+    },
+    {
+      "album": {
+        "name": "Besos Contados",
+        "url": "https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200626,
+      "name": "Besos Contados",
+      "url": "https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN"
+    },
+    {
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5OCwrv3QDZ49BpNnhVDu49"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/6Rx86i8mwD37V7LB2RJrIl"
+    },
+    {
+      "album": {
+        "name": "Brillas",
+        "url": "https://open.spotify.com/album/3NdwxHHFpkU5P870jKCFZC"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 147531,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/4dZ8JV7yg6zm60uXBzNwqM"
+    },
+    {
+      "album": {
+        "name": "Renovando El Estilo 2.0 (En Vivo)",
+        "url": "https://open.spotify.com/album/1cT5agyzL39kX5MZ6FSVKg"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 184362,
+      "name": "Chiquilla Preciosa - En Vivo",
+      "url": "https://open.spotify.com/track/1KM55Ay5rJDtKNtwfZVZEc"
+    },
+    {
+      "album": {
+        "name": "Chiquita Bonita",
+        "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156757,
+      "name": "Chiquita Bonita",
+      "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/2SrJ8mA3HWb48esf6e2msY"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 159805,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/4kLq2M9YvtLeTLynmWD28J"
+    },
+    {
+      "album": {
+        "name": "De Frente",
+        "url": "https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR"
+      },
+      "artists": [
+        {
+          "name": "Cumbre Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 136280,
+      "name": "Como Estas T\u00fa",
+      "url": "https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg"
+    },
+    {
+      "album": {
+        "name": "Como Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/5YZKmb0BjulcKw2MqyqQNO"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 147382,
+      "name": "Como Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/6fCnagYY6sBohrvLVDBHVA"
+    },
+    {
+      "album": {
+        "name": "En Las Buenas Y En Las Malas",
+        "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192560,
+      "name": "Con Ese Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2DqFH5sgUbhEql0ymWhuMD"
+    },
+    {
+      "album": {
+        "name": "Con la Botella en la Cabeza",
+        "url": "https://open.spotify.com/album/6v9IPxqwcIQcdxhaxhcQA3"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 258978,
+      "name": "Con la Botella en la Cabeza",
+      "url": "https://open.spotify.com/track/4CCLKyWShnb8LkJ8D76zK3"
+    },
+    {
+      "album": {
+        "name": "Saxy",
+        "url": "https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160106,
+      "name": "Contigo S\u00ed",
+      "url": "https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m"
+    },
+    {
+      "album": {
+        "name": "Cortinas Guindas",
+        "url": "https://open.spotify.com/album/3xEmGMycmtgDG6wKfmYI6N"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 234666,
+      "name": "Cortinas Guindas",
+      "url": "https://open.spotify.com/track/6mEkvLnD8knuzA9KCKVvEB"
+    },
+    {
+      "album": {
+        "name": "Cre\u00ed en el Amor",
+        "url": "https://open.spotify.com/album/6yi7TSv6mG7Msgpwqw8EMI"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 163549,
+      "name": "Cre\u00ed en el Amor",
+      "url": "https://open.spotify.com/track/0rAk2MIFzTktvOr2rHryxq"
+    },
+    {
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/7Fp3NMBgDoluPqLup2FWiu"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 220479,
+      "name": "Cuando Te Acuerdes De Mi",
+      "url": "https://open.spotify.com/track/7kP3Wdr3c9vVDItVaEB2Gf"
+    },
+    {
+      "album": {
+        "name": "Zool\u00f3gico Tropical",
+        "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198613,
+      "name": "Cumbia De La Cobra",
+      "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "album": {
+        "name": "De Cuando Ac\u00e1",
+        "url": "https://open.spotify.com/album/05RvA9U5fT5ojjzH91W5Ki"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178474,
+      "name": "De Cuando Ac\u00e1",
+      "url": "https://open.spotify.com/track/2sZ9VjimnCq5JrLPR0GUui"
+    },
+    {
+      "album": {
+        "name": "Volando Hacia Ti",
+        "url": "https://open.spotify.com/album/3jZIqx45s0A2gpGp2LOQoh"
+      },
+      "artists": [
+        {
+          "name": "Capitanes De Ojinaga",
+          "url": "https://open.spotify.com/artist/2cNbtpKKQpwlpltBlTPctQ"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186586,
+      "name": "De Ma\u00f1ana en Ocho Dias",
+      "url": "https://open.spotify.com/track/28GDYBPOsxPp0Si7cYd2wZ"
+    },
+    {
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3vjhuYyGTIM49F3Y32BmaB"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/2kdJ8EuGurdILglby4z7SI"
+    },
+    {
+      "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Dvxpn3w5xcK6bFm711qmZ"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153093,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7xuXfmeDj4LSPP2trJQzx2"
+    },
+    {
+      "album": {
+        "name": "Conquistando Tu Corazon",
+        "url": "https://open.spotify.com/album/3nsgZwGfyP2XsDHf0y7BeR"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 165107,
+      "name": "Disfruto",
+      "url": "https://open.spotify.com/track/0htrqb7HRnPxXB7fWXDR5c"
+    },
+    {
+      "album": {
+        "name": "Duele De A Madre",
+        "url": "https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 175148,
+      "name": "Duele De A Madre",
+      "url": "https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47"
+    },
+    {
+      "album": {
+        "name": "Y Es el Contacto \u00a1Raza!",
+        "url": "https://open.spotify.com/album/1GSv17RyzcqpZBHjHtgO1X"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168045,
+      "name": "El Agua Clara",
+      "url": "https://open.spotify.com/track/35Fjjqjlq3YRJbK8QM7OGK"
+    },
+    {
+      "album": {
+        "name": "El Ahualulco",
+        "url": "https://open.spotify.com/album/3atkwzkHYo7FsneEKzgamW"
+      },
+      "artists": [
+        {
+          "name": "Conjunto La Duracion",
+          "url": "https://open.spotify.com/artist/047wqZpbKCmKxAcWHdykd5"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 169909,
+      "name": "El Ahualulco",
+      "url": "https://open.spotify.com/track/6xGEXisIqVlsFRBntx7Rve"
+    },
+    {
+      "album": {
+        "name": "\u00a1Pescadores! Live, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/2jbf9MAVAauMttX0dw53cl"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 218965,
+      "name": "El Amor Se Fue - En Vivo",
+      "url": "https://open.spotify.com/track/1QKhEVwrAFLAJKfI86n2QC"
+    },
+    {
+      "album": {
+        "name": "Las Ag\u00fcitas",
+        "url": "https://open.spotify.com/album/0AzqeBnrMhpNakIGdnRwKD"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "El Colesterol",
+      "url": "https://open.spotify.com/track/2j8FWFwF1kvyGcdQwzMl3F"
+    },
+    {
+      "album": {
+        "name": "El Condor Pasa",
+        "url": "https://open.spotify.com/album/12y6dBQ2QCgP47vLw2sJjx"
+      },
+      "artists": [
+        {
+          "name": "Contrabandistas de San Luis",
+          "url": "https://open.spotify.com/artist/36irJXhStqR2sPCOHed3Tb"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208927,
+      "name": "El Condor Pasa",
+      "url": "https://open.spotify.com/track/00mUyQ38B8S51x3cQhU5ia"
+    },
+    {
+      "album": {
+        "name": "El Son Del Tlacololero",
+        "url": "https://open.spotify.com/album/2VodgjuB7AIhCUjftCaG2o"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315106,
+      "name": "El Son Del Tlacololero",
+      "url": "https://open.spotify.com/track/1Z50xYPjSgJNjpyCWqroG8"
+    },
+    {
+      "album": {
+        "name": "El Telescopio",
+        "url": "https://open.spotify.com/album/0rdyVMLgdhm5Jbjr11j1kp"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 206506,
+      "name": "El Telescopio",
+      "url": "https://open.spotify.com/track/69PqKuwBzdPN1MaSwp5FrT"
+    },
+    {
+      "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190258,
+      "name": "En Silencio",
+      "url": "https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE"
+    },
+    {
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
+    },
+    {
+      "album": {
+        "name": "C\u00f3mo Olvidarte",
+        "url": "https://open.spotify.com/album/3AxFzPRp6AhUL4ApT73urk"
+      },
+      "artists": [
+        {
+          "name": "Los Salvajes De Chihuahua",
+          "url": "https://open.spotify.com/artist/0ojHNY2fTOePP1kpdr1TMC"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 200386,
+      "name": "Eres Lo Que M\u00e1s Quiero",
+      "url": "https://open.spotify.com/track/4k7TCyjEL6EptSwliHZuVl"
+    },
+    {
+      "album": {
+        "name": "Los de la DC",
+        "url": "https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE"
+      },
+      "artists": [
+        {
+          "name": "La Descendencia De Rio Grande",
+          "url": "https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 209293,
+      "name": "Escondidos",
+      "url": "https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Especial",
+        "url": "https://open.spotify.com/album/0kU4Vxyjla23phoLSvyoug"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186866,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/71vXdFRVs79sf3RpU9SowK"
+    },
+    {
+      "album": {
+        "name": "Fuentes de Ortiz",
+        "url": "https://open.spotify.com/album/6fcrLDiVt4ukz1j7UBoHss"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231932,
+      "name": "Fuentes de Ortiz",
+      "url": "https://open.spotify.com/track/4vvxsS3eN7EGJf1Ejdbmz6"
+    },
+    {
+      "album": {
+        "name": "Hasta La Raiz",
+        "url": "https://open.spotify.com/album/047E1BHaOCYfUKXrxpZJ9o"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189138,
+      "name": "Hasta La Raiz",
+      "url": "https://open.spotify.com/track/2UxrJ7WmHl2OHRD4oO0sVw"
+    },
+    {
+      "album": {
+        "name": "Huapango Amor Ranchero",
+        "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199314,
+      "name": "Huapango Amor Ranchero",
+      "url": "https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5"
+    },
+    {
+      "album": {
+        "name": "Puras Pa' Trapear",
+        "url": "https://open.spotify.com/album/6QEmoG8M2vcht04iyp0fVH"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309253,
+      "name": "Huapangos Perros",
+      "url": "https://open.spotify.com/track/0gur2lhu5GZlSWzgm6JPjy"
+    },
+    {
+      "album": {
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/7cY7BkHL3u4QmvfWSNF1as"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178050,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/6jL2uRZSFjMPwNakVHcES1"
+    },
+    {
+      "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+    },
+    {
+      "album": {
+        "name": "La Due\u00f1a De Todo Mi Amor",
+        "url": "https://open.spotify.com/album/6PUMSN3CBKPfeH20KmibKo"
+      },
+      "artists": [
+        {
+          "name": "Los Elegantes de Jerez",
+          "url": "https://open.spotify.com/artist/0ZcwFNId7ySqDJyhXfKIav"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 183750,
+      "name": "La Due\u00f1a De Todo Mi Amor",
+      "url": "https://open.spotify.com/track/2Q96ya1H8ufq1jxr5y0B3R"
+    },
+    {
+      "album": {
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/5kWCiK0v5UEbo4pcKkGVJN"
+      },
+      "artists": [
+        {
+          "name": "Cumbre Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 200601,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/5fNrNPSVTmKzLde7HOIkwV"
+    },
+    {
+      "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198791,
+      "name": "La Guitarra de Lolo (Huapango)",
+      "url": "https://open.spotify.com/track/13dUAJU2seBDHy3VVBSO4i"
+    },
+    {
+      "album": {
+        "name": "Puro Note Primo / En Vivo Vol.1",
+        "url": "https://open.spotify.com/album/0JAJ03Egipg9eLIRWP26yu"
+      },
+      "artists": [
+        {
+          "name": "Adixion Aktivada",
+          "url": "https://open.spotify.com/artist/38Ji7LhFjPvtohWYEssKOk"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 176770,
+      "name": "La Macarena (Mere-huapango) (En Vivo)",
+      "url": "https://open.spotify.com/track/2Ut5W1zxSI9bH29ce8Flic"
+    },
+    {
+      "album": {
+        "name": "La Mejor Mujer del Mundo",
+        "url": "https://open.spotify.com/album/4pj6GDd2cXrd2Cx7znot40"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241829,
+      "name": "La Mejor Mujer del Mundo",
+      "url": "https://open.spotify.com/track/0YISn1POZXbOZWVcwqGM0A"
+    },
+    {
+      "album": {
+        "name": "Reto\u00f1os del Rio en el Estudio (Live)",
+        "url": "https://open.spotify.com/album/2Loe9QaOmbTb9f4GGDtkDQ"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232970,
+      "name": "La Muchacha de los Ojos Tristes - Live",
+      "url": "https://open.spotify.com/track/26aLTCvTeexLZ4nT8HizNF"
+    },
+    {
+      "album": {
+        "name": "Le Hace Falta un Beso",
+        "url": "https://open.spotify.com/album/7b0ktdUFncZpTtdobX4sOu"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 208645,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/69wrJLYULpuJydmDN4J7IZ"
+    },
+    {
+      "album": {
+        "name": "Literal",
+        "url": "https://open.spotify.com/album/4BuvIgbToCsnukvmk2SnBx"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 174706,
+      "name": "Literal",
+      "url": "https://open.spotify.com/track/6prwA99WtmjL1InowSZ4Yg"
+    },
+    {
+      "album": {
+        "name": "Ll\u00e9vame A Las Estrellas",
+        "url": "https://open.spotify.com/album/5bCw0LfFO5fhw0djqgFGCd"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 148640,
+      "name": "Ll\u00e9vame A Las Estrellas",
+      "url": "https://open.spotify.com/track/34B65VVmjWw3vdIpdZXxL8"
+    },
+    {
+      "album": {
+        "name": "Lo Dice El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0tELO6VB2M4J9Egbk3ENZl"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Estrategia",
+          "url": "https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0"
+        },
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "Lo Dice El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/45WKHzA7KeJtQFLkDHxcCS"
+    },
+    {
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 173826,
+      "name": "Lo Mejor De Lo Mejor",
+      "url": "https://open.spotify.com/track/5gpgYBVx8DAXwW4T6kFqc5"
+    },
+    {
+      "album": {
+        "name": "PRESENTE",
+        "url": "https://open.spotify.com/album/0JoUcdNtc8iAKHGFj7Ppf9"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164386,
+      "name": "Lo Tienes Todo",
+      "url": "https://open.spotify.com/track/29vIEdxgMT9H1fnBMecWjA"
+    },
+    {
+      "album": {
+        "name": "Los Toritos",
+        "url": "https://open.spotify.com/album/2bw9mrWd35tnbAHwhtdJHh"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 172413,
+      "name": "Los Toritos",
+      "url": "https://open.spotify.com/track/6N8HTPH78LJwL1WYvpF63c"
+    },
+    {
+      "album": {
+        "name": "Diez",
+        "url": "https://open.spotify.com/album/7o5Z3DrisXdFmrfel292Hi"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198085,
+      "name": "Los \u00c1ngeles Existen",
+      "url": "https://open.spotify.com/track/7rPDko8WpB988ygHq0avaz"
+    },
+    {
+      "album": {
+        "name": "Los \u00danicos del Huapango Michoacano",
+        "url": "https://open.spotify.com/album/5y4vlR58lLHIxvJEafFogr"
+      },
+      "artists": [
+        {
+          "name": "Guizador Norte\u00f1o de Zirahu\u00e9n Mich.",
+          "url": "https://open.spotify.com/artist/4fGn6oclcpfVniidRAvXLP"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 148375,
+      "name": "Lucesita",
+      "url": "https://open.spotify.com/track/5EdZ3ta2DrvCjPtHNr8A7Y"
+    },
+    {
+      "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6YziqJ1YnDoPCEXK3lQ6M8"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150386,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/1kYWC1juEaMS4TUoznTioR"
+    },
+    {
+      "album": {
+        "name": "Malabares",
+        "url": "https://open.spotify.com/album/19377Sz1SOJDHXpOQNbvtt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Pe\u00f1a Blanca",
+          "url": "https://open.spotify.com/artist/464OBfUFmgwNlOBM3iMXXT"
+        },
+        {
+          "name": "Alfonzin Garc\u00eda \"Dj Alfonzin\"",
+          "url": "https://open.spotify.com/artist/2rP6Wti41KNNkh6iVyL6Wf"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 208747,
+      "name": "Malabares",
+      "url": "https://open.spotify.com/track/5rP8LrJDIJX5z1FTq9Z8Dv"
+    },
+    {
+      "album": {
+        "name": "Me Rehuso",
+        "url": "https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167131,
+      "name": "Me Rehuso",
+      "url": "https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya"
+    },
+    {
+      "album": {
+        "name": "Mi Amigo el Alcohol",
+        "url": "https://open.spotify.com/album/4qwkIuvjmIrVs2BLvCnMnG"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 180192,
+      "name": "Mi Amigo el Alcohol",
+      "url": "https://open.spotify.com/track/3jQHDX3h1NGkNOtOUGHgo6"
+    },
+    {
+      "album": {
+        "name": "Mi Caballito",
+        "url": "https://open.spotify.com/album/0MaBEYKQsMkSLlMI7aXNJ2"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227514,
+      "name": "Mi Caballito",
+      "url": "https://open.spotify.com/track/45rayF6mhylWyFdvDk6VJc"
+    },
+    {
+      "album": {
+        "name": "Mi Ex Tenia Razon",
+        "url": "https://open.spotify.com/album/5gBuMZCaPo5SOz4j9H9kNZ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Pe\u00f1a Blanca",
+          "url": "https://open.spotify.com/artist/464OBfUFmgwNlOBM3iMXXT"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 189196,
+      "name": "Mi Ex Tenia Razon",
+      "url": "https://open.spotify.com/track/5OBkId4xzZ88fu4OZP4pTd"
+    },
+    {
+      "album": {
+        "name": "Mi Persona Favorita",
+        "url": "https://open.spotify.com/album/4pF5NjEqkWXMPSbhNZWuPZ"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 169993,
+      "name": "Mi Persona Favorita",
+      "url": "https://open.spotify.com/track/0SxuYEU9W9gmiQfSacWg7X"
+    },
+    {
+      "album": {
+        "name": "Modo Inc\u00f3gnito",
+        "url": "https://open.spotify.com/album/6alvJhuwlYz1j12wdWIOi3"
+      },
+      "artists": [
+        {
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250872,
+      "name": "Modo Inc\u00f3gnito",
+      "url": "https://open.spotify.com/track/7C3ajbwFKs2tThsJfTC9Hf"
+    },
+    {
+      "album": {
+        "name": "Que Se Arme la Fiesta",
+        "url": "https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 240000,
+      "name": "Molinos de Viento",
+      "url": "https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3"
+    },
+    {
+      "album": {
+        "name": "Se Abre el Tel\u00f3n",
+        "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 225560,
+      "name": "Muchacha de los Ojos Tristes",
+      "url": "https://open.spotify.com/track/04YgriwmHLTTFvTbv3deyA"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1eca De Ojos De Miel",
+        "url": "https://open.spotify.com/album/5CEZXFpY36cBoaWd37LYhn"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223968,
+      "name": "Mu\u00f1eca De Ojos De Miel",
+      "url": "https://open.spotify.com/track/5PbP28y4J2HUkvNkoiGA8z"
+    },
+    {
+      "album": {
+        "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172018,
+      "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
+      "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "album": {
+        "name": "Neta Que No",
+        "url": "https://open.spotify.com/album/376fuA7QIoerG2gtjViYaC"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164680,
+      "name": "Neta Que No",
+      "url": "https://open.spotify.com/track/19cazderNza33zgCCpxLxH"
+    },
+    {
+      "album": {
+        "name": "No Es Mentira (Version Norte\u00f1a)",
+        "url": "https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200061,
+      "name": "No Es Mentira (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB"
+    },
+    {
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "album": {
+        "name": "No Te Quiero Volver A Ver",
+        "url": "https://open.spotify.com/album/0dwuIQxl2Mqw8WrXxk5Nbf"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 147426,
+      "name": "No Te Quiero Volver A Ver",
+      "url": "https://open.spotify.com/track/0E8tq1SwJhU3lBnDis2StT"
+    },
+    {
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/3Jq1Yjivop6j5TLUMtjjGb"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163866,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/0xxJFCgRXDbRJeUlwb4m00"
+    },
+    {
+      "album": {
+        "name": "Saxy",
+        "url": "https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182386,
+      "name": "Olvid\u00e9moslo Los Dos",
+      "url": "https://open.spotify.com/track/0YzLFrSbUvTqDSuMViVe75"
+    },
+    {
+      "album": {
+        "name": "Para Que No Te Acuerdes",
+        "url": "https://open.spotify.com/album/3shHERdaWkHmrHloMSHbCg"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 174027,
+      "name": "Para Que No Te Acuerdes",
+      "url": "https://open.spotify.com/track/0TWn1HjLio4jhaka6rUe2v"
+    },
+    {
+      "album": {
+        "name": "Un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/3Qx23oTyQnS2tYthd6ihEs"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 188823,
+      "name": "Piquetitos",
+      "url": "https://open.spotify.com/track/6G2VETYnLl1Psobu809yQY"
+    },
+    {
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Relincho",
+          "url": "https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240128,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8"
+    },
+    {
+      "album": {
+        "name": "Poema",
+        "url": "https://open.spotify.com/album/0osplrvbNNJVytqdKm61dH"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173426,
+      "name": "Poema",
+      "url": "https://open.spotify.com/track/7zVTdnX7aoY8GVaIuE9nba"
+    },
+    {
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/1ix9kL2uDaBIf1HDhiSLhG"
+      },
+      "artists": [
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        },
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172374,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/0p8lGoIPQESNxb79UOt80R"
+    },
+    {
+      "album": {
+        "name": "Por Las Noches",
+        "url": "https://open.spotify.com/album/1qrllTt5txCvAzOUx25gMS"
+      },
+      "artists": [
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        },
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-01",
+      "duration_ms": 172374,
+      "name": "Por Las Noches",
+      "url": "https://open.spotify.com/track/2GD55mkAhSzw6dKFJR6A7H"
+    },
+    {
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/1FZvdjfWsyqKBDFlRWPTfP"
+      },
+      "artists": [
+        {
+          "name": "La Zona X",
+          "url": "https://open.spotify.com/artist/6CREnDoHW0llPJeNfOJYUI"
+        },
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 172374,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/468QGXzfE7d46DeJ7ncjGz"
+    },
+    {
+      "album": {
+        "name": "Por Lo Menos",
+        "url": "https://open.spotify.com/album/55huzugR3VccT4oLpCF2Ce"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182703,
+      "name": "Por Lo Menos",
+      "url": "https://open.spotify.com/track/5ExKMqUqg6e73798H98i3K"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207679,
+      "name": "P\u00eddeme",
+      "url": "https://open.spotify.com/track/1diebTiolD8N22iuOfmvSy"
+    },
+    {
+      "album": {
+        "name": "Que Voy A Hacer Con Mi Amor",
+        "url": "https://open.spotify.com/album/0CfMME8cZVpXWZ0nUhnFPs"
+      },
+      "artists": [
+        {
+          "name": "La Humildad De La Musica Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-30",
+      "duration_ms": 149892,
+      "name": "Que Voy A Hacer Con Mi Amor",
+      "url": "https://open.spotify.com/track/5rgcyEhTnv8Lc92NQ9bgkL"
+    },
+    {
+      "album": {
+        "name": "Nunca Imagin\u00e9",
+        "url": "https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL"
+      },
+      "artists": [
+        {
+          "name": "Los Vendavales de Adan Melendez",
+          "url": "https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232680,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agon\u00eda",
+        "url": "https://open.spotify.com/album/138YIGzaZfyGVySA21vgaK"
+      },
+      "artists": [
+        {
+          "name": "Estilo Al Norte",
+          "url": "https://open.spotify.com/artist/4a8CXjoDXfsk6okDkq2uUW"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154911,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/3mQHv0VeDIJUJ4YgPh12XT"
+    },
+    {
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/0rIK68jJ4GKAYjLaHHzczH"
+      },
+      "artists": [
+        {
+          "name": "La Furia del Bravo",
+          "url": "https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 179400,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/0C4H8wdTbI0yMMJCWX7O8h"
+    },
+    {
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/78LHb0YpQCcDNxsZ6DdN9I"
+      },
+      "artists": [
+        {
+          "name": "Exceso Norte",
+          "url": "https://open.spotify.com/artist/49yiRwnTJyXf41PTI1Rouw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 168923,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/5aZubhYBTy6tWIbRZMxVbF"
+    },
+    {
+      "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
+    },
+    {
+      "album": {
+        "name": "10.1 D-K-DA",
+        "url": "https://open.spotify.com/album/2rc55hEZEZ1Ph62XdraTk0"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140999,
+      "name": "Si Existe Suerte",
+      "url": "https://open.spotify.com/track/77vtWAnVWrbhESGinnsBzc"
+    },
+    {
+      "album": {
+        "name": "Se Abre el Tel\u00f3n",
+        "url": "https://open.spotify.com/album/7gDU8W7H50vfNL4Dlw9MRt"
+      },
+      "artists": [
+        {
+          "name": "Reto\u00f1os Del Rio",
+          "url": "https://open.spotify.com/artist/0b4F6xrKsPCHTXEl4j03LF"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 189026,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/1nThd666DrTYTk1Fs9h3Lr"
+    },
+    {
+      "album": {
+        "name": "Si Tu Amor No Vuelve",
+        "url": "https://open.spotify.com/album/1GGzzw6iGWfiGuB9RJpG0K"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189792,
+      "name": "Si Tu Amor No Vuelve",
+      "url": "https://open.spotify.com/track/0sMcEkGA1IzgGXhm9BjfI7"
+    },
+    {
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/1s3r2lkbalw3SIolEp0IMV"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 185074,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/0HGxHzii8mi1z2tB7z2FvW"
+    },
+    {
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/7FEVQ3o1EKEqa0RFRPjSEH"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-12",
+      "duration_ms": 180846,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/5yFHXr3m32xB4fGGMBOcjJ"
+    },
+    {
+      "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/4ZEvCEAotJdxnFr61RfBkJ"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        },
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180924,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/2BuzAPLd2DEzmHVDD9kDI3"
+    },
+    {
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/3UX8li2vzG8IcjtPQ11dGt"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        },
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185338,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/1uTHr7ij3eiDdUXvQfA5au"
+    },
+    {
+      "album": {
+        "name": "Sobran Motivos",
+        "url": "https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Conjunto Rienda Real",
+          "url": "https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186125,
+      "name": "Sobran Motivos",
+      "url": "https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp"
+    },
+    {
+      "album": {
+        "name": "Stand By Me",
+        "url": "https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P"
+      },
+      "artists": [
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        },
+        {
+          "name": "Las Fenix",
+          "url": "https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-09",
+      "duration_ms": 167102,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb"
+    },
+    {
+      "album": {
+        "name": "De Coraz\u00f3n Norte\u00f1o",
+        "url": "https://open.spotify.com/album/2LrllvMkfrhnWqJHXrPsOb"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203853,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/5G5TAfojJWd6sMmHchXdQu"
+    },
+    {
+      "album": {
+        "name": "Te Quiero Ver",
+        "url": "https://open.spotify.com/album/7x6X9chpDQnoqpt8pX9yA8"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169986,
+      "name": "Te Quiero Ver",
+      "url": "https://open.spotify.com/track/0V4weTyspxyq2AI5OuWGx8"
+    },
+    {
+      "album": {
+        "name": "La Boca Les Callamos, Vol. 2",
+        "url": "https://open.spotify.com/album/7EesU3azH6jPG5osiPex59"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204805,
+      "name": "Te Vas a Acordar de Mi",
+      "url": "https://open.spotify.com/track/5pdfnefsLnfBFo7gxHvqBK"
+    },
+    {
+      "album": {
+        "name": "Tonto Mi Corazon",
+        "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
+      },
+      "artists": [
+        {
+          "name": "Los Avila",
+          "url": "https://open.spotify.com/artist/0A0oFtNpb7CV86uWlxjnQo"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251630,
+      "name": "Tonto Mi Corazon",
+      "url": "https://open.spotify.com/track/7m9XI9m7NVmo6ifF8U3bxS"
+    },
+    {
+      "album": {
+        "name": "P\u00eddeme",
+        "url": "https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230667,
+      "name": "Total que m\u00e1s da",
+      "url": "https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz"
+    },
+    {
+      "album": {
+        "name": "Tu C\u00e1rcel",
+        "url": "https://open.spotify.com/album/6TI145XlTYny1EKWi07Qvg"
+      },
+      "artists": [
+        {
+          "name": "La Alianza Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157354,
+      "name": "Tu C\u00e1rcel",
+      "url": "https://open.spotify.com/track/7iIkdDkrVcyPulI2gXLTYP"
+    },
+    {
+      "album": {
+        "name": "As\u00ed Somos",
+        "url": "https://open.spotify.com/album/3ER5KlEQW19hQxUNmRdtFJ"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194952,
+      "name": "Tu Forma de Ser",
+      "url": "https://open.spotify.com/track/47vkT95Gal2Ch36qP8jd6H"
+    },
+    {
+      "album": {
+        "name": "Estado Melanc\u00f3lico",
+        "url": "https://open.spotify.com/album/3yuOCmv69DsI71xCg9ZADq"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 141060,
+      "name": "Tuve Que Marcar",
+      "url": "https://open.spotify.com/track/2Xo9PICBQWOS5DnemG2IN9"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda, Vol. 2",
+        "url": "https://open.spotify.com/album/2BqFIhmV8oZKVQGi8cidDc"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157645,
+      "name": "Un Amor Bonito",
+      "url": "https://open.spotify.com/track/3iHx3nXUC1cf3WRUr743P1"
+    },
+    {
+      "album": {
+        "name": "Vicio",
+        "url": "https://open.spotify.com/album/5i2uC3kpJdvOoo5VhpKlEv"
+      },
+      "artists": [
+        {
+          "name": "Adverzo",
+          "url": "https://open.spotify.com/artist/0NMJh5gFRAkN5uUsCujlCV"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186965,
+      "name": "Vicio",
+      "url": "https://open.spotify.com/track/52SbtvOGsw4RI8FkMH7udu"
+    },
+    {
+      "album": {
+        "name": "Voy a Conquistarte",
+        "url": "https://open.spotify.com/album/5tb09wCXY5tZr1Xz6Obul4"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198520,
+      "name": "Voy a Conquistarte",
+      "url": "https://open.spotify.com/track/4wR1PmSCcxNMjP9koGWWd8"
+    },
+    {
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "album": {
+        "name": "V\u00e1monos a Marte",
+        "url": "https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9"
+      },
+      "artists": [
+        {
+          "name": "Los Pescadores Del Rio Conchos",
+          "url": "https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U"
+        },
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191851,
+      "name": "V\u00e1monos a Marte",
+      "url": "https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C"
+    },
+    {
+      "album": {
+        "name": "Olv\u00eddala",
+        "url": "https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nube",
+          "url": "https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236382,
+      "name": "Y Lo Busqu\u00e9",
+      "url": "https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o"
+    },
+    {
+      "album": {
+        "name": "Esper\u00e1ndote",
+        "url": "https://open.spotify.com/album/1hRk2jBvzatrEbqFtZmUVo"
+      },
+      "artists": [
+        {
+          "name": "Grupo Legitimo",
+          "url": "https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169041,
+      "name": "Y Me Da Verg\u00fcenza",
+      "url": "https://open.spotify.com/track/6n7MYzA52JLIgkgx5RgN7b"
+    },
+    {
+      "album": {
+        "name": "Trilog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/7jTWwmpVFs08W8wftoIC2B"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 194981,
+      "name": "Y T\u00fa a Toda Madre",
+      "url": "https://open.spotify.com/track/7bEfzjPeeY6sYFr2P4oOzz"
+    },
+    {
+      "album": {
+        "name": "Al Derecho Y Al Reverso (Deluxe)",
+        "url": "https://open.spotify.com/album/53WBc1wQGoVpcMAUvdMzvS"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-20",
+      "duration_ms": 160426,
+      "name": "Ya Fue Suficiente",
+      "url": "https://open.spotify.com/track/6DxehmTpQ7gPuQzIl4oJ67"
+    },
+    {
+      "album": {
+        "name": "Ya No Me Dueles",
+        "url": "https://open.spotify.com/album/1tjCoF8LJF1K5bABaPFsR6"
+      },
+      "artists": [
+        {
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
+        },
+        {
+          "name": "La Energia Nortena",
+          "url": "https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143871,
+      "name": "Ya No Me Dueles",
+      "url": "https://open.spotify.com/track/0MDYYptUiQEqB7srakmdXh"
+    },
+    {
+      "album": {
+        "name": "Yo te quiero",
+        "url": "https://open.spotify.com/album/5BJrBgjDmG9ARd4ECAmYiW"
+      },
+      "artists": [
+        {
+          "name": "Contacto Norte",
+          "url": "https://open.spotify.com/artist/5yMyvfg5YKQGx4EpUrcZbU"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 167666,
+      "name": "Yo te quiero",
+      "url": "https://open.spotify.com/track/5eCr4lBfPoWX7dFYRvac4R"
+    },
+    {
+      "album": {
+        "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+        "url": "https://open.spotify.com/album/2MJH3I5JcPmcFR9NyTfGiG"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-18",
+      "duration_ms": 209276,
+      "name": "\u00bfDe Qu\u00e9 Me Perd\u00ed?",
+      "url": "https://open.spotify.com/track/1kbH8U4omcQFkgqRGfGiGs"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 Est\u00e1s Esperando?",
+        "url": "https://open.spotify.com/album/7MYz39F21zsCRqRl1DKxMB"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-06",
+      "duration_ms": 223082,
+      "name": "\u00bfQu\u00e9 Est\u00e1s Esperando?",
+      "url": "https://open.spotify.com/track/3bVsodddPYMjrnhxgj7EA7"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC"
 }

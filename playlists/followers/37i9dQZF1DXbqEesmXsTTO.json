@@ -1,85 +1,1169 @@
 {
-  "2023-10-11": 1818,
-  "2023-10-12": 1818,
-  "2023-10-13": 1827,
-  "2023-10-14": 1827,
-  "2023-10-15": 1827,
-  "2023-10-16": 1827,
-  "2023-10-17": 1827,
-  "2023-10-18": 1827,
-  "2023-10-19": 1859,
-  "2023-10-20": 1859,
-  "2023-10-21": 1859,
-  "2023-10-22": 1859,
-  "2023-10-23": 1873,
-  "2023-10-24": 1878,
-  "2023-10-25": 1878,
-  "2023-10-26": 1878,
-  "2023-10-27": 1878,
-  "2023-10-28": 1878,
-  "2023-10-29": 1878,
-  "2023-10-30": 1878,
-  "2023-10-31": 1878,
-  "2023-11-01": 1878,
-  "2023-11-02": 1926,
-  "2023-11-03": 1926,
-  "2023-11-04": 1926,
-  "2023-11-05": 1926,
-  "2023-11-06": 1926,
-  "2023-11-07": 1926,
-  "2023-11-08": 1926,
-  "2023-11-09": 1926,
-  "2023-11-10": 1926,
-  "2023-11-11": 1976,
-  "2023-11-12": 1981,
-  "2023-11-13": 1981,
-  "2023-11-14": 1981,
-  "2023-11-15": 1981,
-  "2023-11-16": 1981,
-  "2023-11-17": 2021,
-  "2023-11-18": 2021,
-  "2023-11-19": 2021,
-  "2023-11-20": 2021,
-  "2023-11-21": 2021,
-  "2023-11-22": 2021,
-  "2023-11-23": 2044,
-  "2023-11-24": 2044,
-  "2023-11-25": 2044,
-  "2023-11-26": 2044,
-  "2023-11-27": 2044,
-  "2023-11-28": 2044,
-  "2023-11-29": 2044,
-  "2023-11-30": 2044,
-  "2023-12-01": 2044,
-  "2023-12-02": 2044,
-  "2023-12-03": 2044,
-  "2023-12-04": 2044,
-  "2023-12-05": 2044,
-  "2023-12-06": 2044,
-  "2023-12-07": 2044,
-  "2023-12-08": 2044,
-  "2023-12-09": 2129,
-  "2023-12-10": 2129,
-  "2023-12-11": 2155,
-  "2023-12-12": 2155,
-  "2023-12-13": 2155,
-  "2023-12-14": 2190,
-  "2023-12-15": 2195,
-  "2023-12-16": 2201,
-  "2023-12-17": 2221,
-  "2023-12-18": 2228,
-  "2023-12-19": 2244,
-  "2023-12-20": 2256,
-  "2023-12-21": 2262,
-  "2023-12-22": 2288,
-  "2023-12-23": 2313,
-  "2023-12-24": 2326,
-  "2023-12-25": 2339,
-  "2023-12-26": 2348,
-  "2023-12-27": 2358,
-  "2023-12-30": 2397,
-  "2023-12-31": 2403,
-  "2024-01-01": 2410,
-  "2024-01-02": 2422,
-  "2024-01-03": 2429
+  "2024-01-17": 2569,
+  "date_first_scraped": "2023-10-12",
+  "description": "\ub2e4\uc591\ud55c \uc7a5\ub974\uc640 \uc545\uae30\uac00 \ub354\ud574\uc9c4 \ud4e8\uc804 \uad6d\uc545 \uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (\ucee4\ubc84: \uc774\ud76c\ubb38&\ud5c8\uc1a1\uc138\uc6d4&\ub188\ub188(OBSG)) (Enjoy fusion Korean national music with various genres and instruments added!)",
+  "name": "\ud4e8\uc804 \uad6d\uc545 (Fusion Korean National)",
+  "tracks": [
+    {
+      "album": {
+        "name": "A dream that misses you",
+        "url": "https://open.spotify.com/album/5Vjqa7KWRyWuIEu4niXo2n"
+      },
+      "artists": [
+        {
+          "name": "JIN JU",
+          "url": "https://open.spotify.com/artist/6vmnjbKZsgDFzGJEYZ9YFI"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234562,
+      "name": "A dream that misses you",
+      "url": "https://open.spotify.com/track/2TuCwj0qqQX5qBottrDLml"
+    },
+    {
+      "album": {
+        "name": "Acting Crazy",
+        "url": "https://open.spotify.com/album/18yKiwtJRYdodXlX99RpmU"
+      },
+      "artists": [
+        {
+          "name": "\uc808\ub300\u6b4c\uc778",
+          "url": "https://open.spotify.com/artist/3YaJoDao3oqcusy3N7MHYo"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289130,
+      "name": "Acting Crazy",
+      "url": "https://open.spotify.com/track/2X89NmA9AIp0m2EtwUiE6S"
+    },
+    {
+      "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/5JcFyzYqkggCcE5T9ktt46"
+      },
+      "artists": [
+        {
+          "name": "JUL Hz",
+          "url": "https://open.spotify.com/artist/3q9MrWj0QcoFFN9oUk6X5p"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339990,
+      "name": "Anger",
+      "url": "https://open.spotify.com/track/2xYTslSxL22pkihE4SDOOV"
+    },
+    {
+      "album": {
+        "name": "GANGNAM OASIS",
+        "url": "https://open.spotify.com/album/6yqq2JbXTTpb4J3zeIyel7"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "CADEJO",
+          "url": "https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214944,
+      "name": "Another House",
+      "url": "https://open.spotify.com/track/6NbXlwLTcU0KWkxVapRvkL"
+    },
+    {
+      "album": {
+        "name": "Chosun Electronic Music Big Party",
+        "url": "https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub"
+      },
+      "artists": [
+        {
+          "name": "Gukjeondan",
+          "url": "https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO"
+        },
+        {
+          "name": "Lee Na Yeon",
+          "url": "https://open.spotify.com/artist/07qYcfFjfplSt67qQ0QLzm"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156960,
+      "name": "Arirang Fantasy (feat. Lee Na Yeon)",
+      "url": "https://open.spotify.com/track/3ymhaBpH9bLLqJhpHRsaTz"
+    },
+    {
+      "album": {
+        "name": "Piece Of Love",
+        "url": "https://open.spotify.com/album/69A1ez7jfXMcLGOWRCk7lf"
+      },
+      "artists": [
+        {
+          "name": "NEUL",
+          "url": "https://open.spotify.com/artist/5SaYHywNAcLUqIFcel7xwn"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207200,
+      "name": "Arirang for you",
+      "url": "https://open.spotify.com/track/02Li3zuBHmYvTU3snTt48H"
+    },
+    {
+      "album": {
+        "name": "Asurajang",
+        "url": "https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190398,
+      "name": "Asurajang",
+      "url": "https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY"
+    },
+    {
+      "album": {
+        "name": "GANGNAM OASIS",
+        "url": "https://open.spotify.com/album/6yqq2JbXTTpb4J3zeIyel7"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "CADEJO",
+          "url": "https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Beyond the memory - Fast Version",
+      "url": "https://open.spotify.com/track/5vdoqH4P2bgRWk8kUdY0gD"
+    },
+    {
+      "album": {
+        "name": "CHILJUNPALGI (Progressive Mix)",
+        "url": "https://open.spotify.com/album/2R0TcqfM89IOscvXwz4Ikt"
+      },
+      "artists": [
+        {
+          "name": "Gony Slowly",
+          "url": "https://open.spotify.com/artist/3zFEbSBtwo1TcyHL4KekhE"
+        },
+        {
+          "name": "50mang",
+          "url": "https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200449,
+      "name": "CHILJUNPALGI - Progressive Mix",
+      "url": "https://open.spotify.com/track/2gTcecQU8w6SwQjSkS08Yj"
+    },
+    {
+      "album": {
+        "name": "chohui's poem",
+        "url": "https://open.spotify.com/album/5bm3Mf5ouJ5fPBybeIWkPs"
+      },
+      "artists": [
+        {
+          "name": "HANUM",
+          "url": "https://open.spotify.com/artist/7B0fJxqyFHfXBAF94kxK4d"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "chohui's poem",
+      "url": "https://open.spotify.com/track/4uGonmVqKlGVq7uVLGGRjR"
+    },
+    {
+      "album": {
+        "name": "MAHI (The Odds' Mischief)",
+        "url": "https://open.spotify.com/album/7h7MdtB0EEpjGGPh28BJW6"
+      },
+      "artists": [
+        {
+          "name": "50mang",
+          "url": "https://open.spotify.com/artist/1vV7xlmiyiLLKxpQljKwSx"
+        },
+        {
+          "name": "\uc2dc\uc720",
+          "url": "https://open.spotify.com/artist/50Unye9SH5F7kLJH7fmEyE"
+        },
+        {
+          "name": "Uni",
+          "url": "https://open.spotify.com/artist/5mPXJAuH31NiMPJvqTeSv4"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264017,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/28yPbjZcDrmiO2yir4HkIC"
+    },
+    {
+      "album": {
+        "name": "Korean Men",
+        "url": "https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Prelude",
+          "url": "https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "Difficult Love",
+      "url": "https://open.spotify.com/track/3COuVim71pbexDPN6hkuf5"
+    },
+    {
+      "album": {
+        "name": "Don't melt down",
+        "url": "https://open.spotify.com/album/6O0jUT3Lb6Qlsknj3ZUIHX"
+      },
+      "artists": [
+        {
+          "name": "BADAKSORI",
+          "url": "https://open.spotify.com/artist/0nWb3fKXMD6GOyCDUiawDS"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390555,
+      "name": "Don't melt down",
+      "url": "https://open.spotify.com/track/3L2GF5jxl1ZB67qX7gOnTr"
+    },
+    {
+      "album": {
+        "name": "farewell song",
+        "url": "https://open.spotify.com/album/24O48umyQCklMttrpWzHst"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244999,
+      "name": "farewell song",
+      "url": "https://open.spotify.com/track/7F4j0ajE6AKZouEh33R52r"
+    },
+    {
+      "album": {
+        "name": "Feminication",
+        "url": "https://open.spotify.com/album/42zRChEq7NwqjDoF21p4FT"
+      },
+      "artists": [
+        {
+          "name": "Soohyun Moon",
+          "url": "https://open.spotify.com/artist/0Ds31z3SLBmoYAh6xE9NVA"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509506,
+      "name": "Feminication",
+      "url": "https://open.spotify.com/track/204RjWbsftUZGoZ0Igl0kK"
+    },
+    {
+      "album": {
+        "name": "First step",
+        "url": "https://open.spotify.com/album/0EABGUBK8xHyx3dY0nd66v"
+      },
+      "artists": [
+        {
+          "name": "Chosunblues",
+          "url": "https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212069,
+      "name": "First step",
+      "url": "https://open.spotify.com/track/666c6rbKhJ7fyzWj2IGUhj"
+    },
+    {
+      "album": {
+        "name": "Flower",
+        "url": "https://open.spotify.com/album/6sXxE3YMaaYrvmz7fnIsz9"
+      },
+      "artists": [
+        {
+          "name": "\uad6d\uc545\uc778\uac00\uc694",
+          "url": "https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240298,
+      "name": "Flower",
+      "url": "https://open.spotify.com/track/1hPdyC84opzHXhECd2O6qS"
+    },
+    {
+      "album": {
+        "name": "\ud765",
+        "url": "https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp"
+      },
+      "artists": [
+        {
+          "name": "Shin Yujin",
+          "url": "https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194195,
+      "name": "Food",
+      "url": "https://open.spotify.com/track/0EWLgmRBMewUqhiLFRJxME"
+    },
+    {
+      "album": {
+        "name": "Frame",
+        "url": "https://open.spotify.com/album/02HMGsHNWWkqS7z2TdEOFi"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299000,
+      "name": "Frame",
+      "url": "https://open.spotify.com/track/3ex2LupXmbd11zECCgT4zg"
+    },
+    {
+      "album": {
+        "name": "Here comes Byeoljubu",
+        "url": "https://open.spotify.com/album/0Hz72QFtM5VQQB6fP8tasS"
+      },
+      "artists": [
+        {
+          "name": "Band KyongJi",
+          "url": "https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173988,
+      "name": "Here comes Byeoljubu",
+      "url": "https://open.spotify.com/track/3n2xF9MQ8emHwLHtfr4QmV"
+    },
+    {
+      "album": {
+        "name": "Hip Taryeong",
+        "url": "https://open.spotify.com/album/0fN8umbAQ5xtsrkjbacE7l"
+      },
+      "artists": [
+        {
+          "name": "Pansori Traveler KA2729",
+          "url": "https://open.spotify.com/artist/5n7kZwr0kCwngBzal0kPQq"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251661,
+      "name": "Hip Taryeong",
+      "url": "https://open.spotify.com/track/2y4YGL2GdSaU6DsNZ7vTWI"
+    },
+    {
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/676rlhuwqogP7irl3BpHtE"
+      },
+      "artists": [
+        {
+          "name": "Band SAENA",
+          "url": "https://open.spotify.com/artist/6Hv33o342AHLVbM14Oh5DK"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229375,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/6iL5nFlHD67jA4A7EGuJ2c"
+    },
+    {
+      "album": {
+        "name": "In My View",
+        "url": "https://open.spotify.com/album/4BQs0ok8uj0FIKgd9K2IxN"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX"
+        },
+        {
+          "name": "ColdoK",
+          "url": "https://open.spotify.com/artist/78tQQcdlRdUWKILrwpdolL"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215655,
+      "name": "In My View",
+      "url": "https://open.spotify.com/track/1QJIIMzo6sSf7SLfkLHII3"
+    },
+    {
+      "album": {
+        "name": "Infodemics (with Ilwoo Lee from JAMBINAI)",
+        "url": "https://open.spotify.com/album/58g5NpaZbR7strllgzVJ1d"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367500,
+      "name": "Infodemics (with Ilwoo Lee from JAMBINAI)",
+      "url": "https://open.spotify.com/track/38X1wZZV5ibTj0R0TPGPSO"
+    },
+    {
+      "album": {
+        "name": "Journey to Utopia",
+        "url": "https://open.spotify.com/album/3WCc3Mk44tZ66eWQt3I3lR"
+      },
+      "artists": [
+        {
+          "name": "Song Sohee",
+          "url": "https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Journey to Utopia",
+      "url": "https://open.spotify.com/track/4UrukZWEXWUKJK3O1ByCKx"
+    },
+    {
+      "album": {
+        "name": "SPANGLE",
+        "url": "https://open.spotify.com/album/1XeRKQ55UjrD6DKidXLepC"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Heosongsewol",
+          "url": "https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS"
+        },
+        {
+          "name": "NomNom",
+          "url": "https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230720,
+      "name": "Killed Damn Song",
+      "url": "https://open.spotify.com/track/2lzVlWAhr3DHkeTacYbMKJ"
+    },
+    {
+      "album": {
+        "name": "KWAEJINA",
+        "url": "https://open.spotify.com/album/5CN6JcoCHimMMWVtksliWu"
+      },
+      "artists": [
+        {
+          "name": "SHIN JU YEON",
+          "url": "https://open.spotify.com/artist/6ETGNJhgFE1bmarxwErPJ8"
+        },
+        {
+          "name": "Park Su Young",
+          "url": "https://open.spotify.com/artist/5tC81v1ZybjEE47DdqrhC4"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197963,
+      "name": "KWAEJINA (feat. Park Su Young)",
+      "url": "https://open.spotify.com/track/2Y0iWZghKpUMRZvoPLKNiQ"
+    },
+    {
+      "album": {
+        "name": "Composition 1 (Original Musical Soundtrack)",
+        "url": "https://open.spotify.com/album/1tSHNJfQVUSjOPdJillmmY"
+      },
+      "artists": [
+        {
+          "name": "Lee Jaram",
+          "url": "https://open.spotify.com/artist/3HizR2NsotxydIonja5teg"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123002,
+      "name": "Lazara\u2019s Theme",
+      "url": "https://open.spotify.com/track/6Y8A7sSkY4YtmR83Vhhd7a"
+    },
+    {
+      "album": {
+        "name": "Chosun Electronic Music Big Party",
+        "url": "https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub"
+      },
+      "artists": [
+        {
+          "name": "Gukjeondan",
+          "url": "https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO"
+        },
+        {
+          "name": "Lee Na Yeon",
+          "url": "https://open.spotify.com/artist/07qYcfFjfplSt67qQ0QLzm"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Lion Dance (feat. Lee Na Yeon)",
+      "url": "https://open.spotify.com/track/2y3MucKBmwS9GC4qQxk4jL"
+    },
+    {
+      "album": {
+        "name": "lost the love",
+        "url": "https://open.spotify.com/album/7tARiULOzmBxyYehOg0b6U"
+      },
+      "artists": [
+        {
+          "name": "Chosunblues",
+          "url": "https://open.spotify.com/artist/6mKicVKyt6CPmrvbGkge4G"
+        },
+        {
+          "name": "KIM SU IN",
+          "url": "https://open.spotify.com/artist/1eD6xraivpnXUOr4eX9Rhj"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348160,
+      "name": "lost the love (with. KIM SU IN)",
+      "url": "https://open.spotify.com/track/73Y8wOmucnTu0lUgfR57xU"
+    },
+    {
+      "album": {
+        "name": "The temptation of folk songs",
+        "url": "https://open.spotify.com/album/50et9JT2KW1Fi9fFZJ6kbT"
+      },
+      "artists": [
+        {
+          "name": "Band_LineOut",
+          "url": "https://open.spotify.com/artist/6y4ZfA9AbX3P0Ywjh2pPK7"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258596,
+      "name": "Lovely night song",
+      "url": "https://open.spotify.com/track/7CSIjEetlSzXiP7gJC4yeI"
+    },
+    {
+      "album": {
+        "name": "Minyo Medley",
+        "url": "https://open.spotify.com/album/33aMCJlaFBr9Rcc7voJfzi"
+      },
+      "artists": [
+        {
+          "name": "Michael Choi",
+          "url": "https://open.spotify.com/artist/3ONq8GCZXvjufYMoNVjYvE"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133205,
+      "name": "Minyo Medley",
+      "url": "https://open.spotify.com/track/2N97Ap8MsOV8Dv8Wtq9aYR"
+    },
+    {
+      "album": {
+        "name": "Naval Commander of the Three Provinces",
+        "url": "https://open.spotify.com/album/0aFKByWB3ZqHcqrVcNQ1oC"
+      },
+      "artists": [
+        {
+          "name": "Band KyongJi",
+          "url": "https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Naval Commander of the Three Provinces",
+      "url": "https://open.spotify.com/track/0qzjdgdYvY9JXxlFbFQLUP"
+    },
+    {
+      "album": {
+        "name": "In Summer",
+        "url": "https://open.spotify.com/album/5sDkMwuCbhOOw8oFMyh6yx"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/7uB71Iy85Sxm7OclRykqTh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183270,
+      "name": "Night Sea",
+      "url": "https://open.spotify.com/track/2efR2mfIfPAx9Sf96pOtNL"
+    },
+    {
+      "album": {
+        "name": "The temptation of folk songs",
+        "url": "https://open.spotify.com/album/50et9JT2KW1Fi9fFZJ6kbT"
+      },
+      "artists": [
+        {
+          "name": "Band_LineOut",
+          "url": "https://open.spotify.com/artist/6y4ZfA9AbX3P0Ywjh2pPK7"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262738,
+      "name": "Ninano",
+      "url": "https://open.spotify.com/track/6E5vKRvu9tGT3WVoGtm7kn"
+    },
+    {
+      "album": {
+        "name": "Chosun Electronic Music Big Party",
+        "url": "https://open.spotify.com/album/5p1MJJemKllvFRIKTdA9ub"
+      },
+      "artists": [
+        {
+          "name": "Gukjeondan",
+          "url": "https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116648,
+      "name": "Nolja Taryeong",
+      "url": "https://open.spotify.com/track/1OETWDN0GQwfv0pdskSgIy"
+    },
+    {
+      "album": {
+        "name": "Ongheya",
+        "url": "https://open.spotify.com/album/51ERJzQK3NtQvA85qThAAS"
+      },
+      "artists": [
+        {
+          "name": "Gukjeondan",
+          "url": "https://open.spotify.com/artist/7I4YtHja8lGC90BpH6H0lO"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216050,
+      "name": "Ongheya",
+      "url": "https://open.spotify.com/track/0A46uytgiwGuIqBWbUa3Wv"
+    },
+    {
+      "album": {
+        "name": "Peaceful Arirang",
+        "url": "https://open.spotify.com/album/44avudDdh2nZfOVhkE9Jsz"
+      },
+      "artists": [
+        {
+          "name": "sEODo BAND",
+          "url": "https://open.spotify.com/artist/3oMLo2XGQd7pzCssRNmDz6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194593,
+      "name": "Peaceful Arirang",
+      "url": "https://open.spotify.com/track/0Kj2VkWFRr6vqkWxJhvOJp"
+    },
+    {
+      "album": {
+        "name": "ride the wind",
+        "url": "https://open.spotify.com/album/2sHuTeFDcA5KegsWOc9hmz"
+      },
+      "artists": [
+        {
+          "name": "Band KyongJi",
+          "url": "https://open.spotify.com/artist/1Y87ZFsWo8jHO3mu5yPqer"
+        },
+        {
+          "name": "Blank!d",
+          "url": "https://open.spotify.com/artist/18LCQDhzfktqMyKT8pqFQ3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307126,
+      "name": "ride the wind (feat. Blank!d)",
+      "url": "https://open.spotify.com/track/0FrarKu8G7izoH2NuqPxDx"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uac00",
+        "url": "https://open.spotify.com/album/0FAaDS3Pjvgmbmpff1afEC"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238145,
+      "name": "Sarang-Ga",
+      "url": "https://open.spotify.com/track/72XPDX00pwj9OEagtNlBeT"
+    },
+    {
+      "album": {
+        "name": "sEcREt",
+        "url": "https://open.spotify.com/album/4Zg5JPkF1JTVe8h2vewyZO"
+      },
+      "artists": [
+        {
+          "name": "sEODo",
+          "url": "https://open.spotify.com/artist/2NgaFTtIGRRkcXHjXBwGpX"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215963,
+      "name": "sEcREt",
+      "url": "https://open.spotify.com/track/5j01kyREle1q5e9xq3n2ah"
+    },
+    {
+      "album": {
+        "name": "\ud765",
+        "url": "https://open.spotify.com/album/6Lhs9JUf9s36ln1m4pq9gp"
+      },
+      "artists": [
+        {
+          "name": "Shin Yujin",
+          "url": "https://open.spotify.com/artist/47zMycCO60ysrkORth8xw6"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "Silk",
+      "url": "https://open.spotify.com/track/0bBz0h34GjbI3qHepq3V8b"
+    },
+    {
+      "album": {
+        "name": "Korean Men",
+        "url": "https://open.spotify.com/album/1RxHiOGUmdVAI3VUjtPqsi"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Prelude",
+          "url": "https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369600,
+      "name": "Song Of Youth",
+      "url": "https://open.spotify.com/track/7rJPSgQnrGWhBdipYahwCQ"
+    },
+    {
+      "album": {
+        "name": "The Graceful Gang-Jin",
+        "url": "https://open.spotify.com/album/00BxwoM5lemuHmOajoRdrW"
+      },
+      "artists": [
+        {
+          "name": "A-Eun Project",
+          "url": "https://open.spotify.com/artist/6reW342UitQpxSgH2yePGj"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Graceful Gang-Jin",
+      "url": "https://open.spotify.com/track/2ct24PjkvGAEDSwjaXztx7"
+    },
+    {
+      "album": {
+        "name": "The Hill of Wind",
+        "url": "https://open.spotify.com/album/0NwYKvq8effYLOfOYdXHFG"
+      },
+      "artists": [
+        {
+          "name": "ZanHyang",
+          "url": "https://open.spotify.com/artist/6IDwXMIAeJtzVwmoncNLOM"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279386,
+      "name": "The Hill of Wind",
+      "url": "https://open.spotify.com/track/6mGokSMBOqI9j2GUIt1mc2"
+    },
+    {
+      "album": {
+        "name": "THE RED MOOn",
+        "url": "https://open.spotify.com/album/4RkR2sm03JD0Voz6nxhmQS"
+      },
+      "artists": [
+        {
+          "name": "EruhWa",
+          "url": "https://open.spotify.com/artist/06WR19f8UHQhz53AYD2e1Q"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186545,
+      "name": "THE RED MOOn",
+      "url": "https://open.spotify.com/track/6NvUCMJhXPaHgKAMg304Np"
+    },
+    {
+      "album": {
+        "name": "Daily Rutuals",
+        "url": "https://open.spotify.com/album/2ZIgcSbVjZJD509EbtqPm2"
+      },
+      "artists": [
+        {
+          "name": "Suwa",
+          "url": "https://open.spotify.com/artist/0RNLhrzL8kMllpnqMx9BAw"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260790,
+      "name": "Things that stop me",
+      "url": "https://open.spotify.com/track/16SruDdMS9yjBVZa5G6PJy"
+    },
+    {
+      "album": {
+        "name": "dunggi doobop project",
+        "url": "https://open.spotify.com/album/5ZanfdcvUYTrOFYZS5fpYl"
+      },
+      "artists": [
+        {
+          "name": "dunggi doobop project",
+          "url": "https://open.spotify.com/artist/7ePNAdFlZK4TwRZhRfDVOh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197289,
+      "name": "Wal Wal",
+      "url": "https://open.spotify.com/track/2HB0ITiQEhBlxFBHURNzER"
+    },
+    {
+      "album": {
+        "name": "Wind Blowing From The East",
+        "url": "https://open.spotify.com/album/4yb06uEYQVKG8HpZdroRuz"
+      },
+      "artists": [
+        {
+          "name": "Mago",
+          "url": "https://open.spotify.com/artist/3JoAChLOYQem9dlwqaTW1t"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278490,
+      "name": "Wind Blowing From The East",
+      "url": "https://open.spotify.com/track/4nQxpwAHhLMZGG9g6HyFPB"
+    },
+    {
+      "album": {
+        "name": "\uad6c\ubbfc\uc9c0 \uac15\ud638\uc0ac\uc2dc\uac00 (2022 \uad6d\uc545\ubc29\uc1a1 \uc0c8\uc74c\uc6d0 \uc2dc\ub9ac\uc988)",
+        "url": "https://open.spotify.com/album/294OMRH8BcwlTOUJO8JVDe"
+      },
+      "artists": [
+        {
+          "name": "\uad6c\ubbfc\uc9c0",
+          "url": "https://open.spotify.com/artist/19caLarL08QqtoAXlKVoV3"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216698,
+      "name": "\uacc4\uc808\uc774 \uc8fc\ub294 \ub9c8\uc74c",
+      "url": "https://open.spotify.com/track/67CvKNXT23SqRRFltadbHw"
+    },
+    {
+      "album": {
+        "name": "\uad6d\uc545IN\uac00\uc694",
+        "url": "https://open.spotify.com/album/1PsixE91NtJBahibMDufbr"
+      },
+      "artists": [
+        {
+          "name": "\uad6d\uc545\uc778\uac00\uc694",
+          "url": "https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153150,
+      "name": "\uad70\ubc24\ud0c0\ub839",
+      "url": "https://open.spotify.com/track/6ASEjwlY8xU8glTrFjQPZe"
+    },
+    {
+      "album": {
+        "name": "\uc778\uc0dd \uaf43 \uac19\ub124 Such is Life",
+        "url": "https://open.spotify.com/album/1S8kWOnGmmkqSZkvsWO9yD"
+      },
+      "artists": [
+        {
+          "name": "Ak Dan Gwang Chil",
+          "url": "https://open.spotify.com/artist/1ztb4Su5DKTyzFUHOIAKz5"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301391,
+      "name": "\ub178\uc790\ub178\uc790 NOZANOZA",
+      "url": "https://open.spotify.com/track/1zxhPtTTQjY53bJAVXUiXM"
+    },
+    {
+      "album": {
+        "name": "\uc81c\ube44\ub2e4\ubc29 \ucef4\ud544\ub808\uc774\uc158 2017+2018",
+        "url": "https://open.spotify.com/album/02QfXHdfexGozTcvlT94Pl"
+      },
+      "artists": [
+        {
+          "name": "SingSing",
+          "url": "https://open.spotify.com/artist/1YtWXv7FkpK6eCANfgOkmh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112042,
+      "name": "\ub5a1\ud0c0\ub839",
+      "url": "https://open.spotify.com/track/3u5BZkeJ6MyZgHKtPiD6bS"
+    },
+    {
+      "album": {
+        "name": "\uad6d\uc545IN\uac00\uc694",
+        "url": "https://open.spotify.com/album/1PsixE91NtJBahibMDufbr"
+      },
+      "artists": [
+        {
+          "name": "\uad6d\uc545\uc778\uac00\uc694",
+          "url": "https://open.spotify.com/artist/3B6TfyPlGzJ21gqz2N8bbe"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226350,
+      "name": "\uc0ac\ub791\uac00",
+      "url": "https://open.spotify.com/track/5TPFp4x1XZfeyh5uNdVGb0"
+    },
+    {
+      "album": {
+        "name": "\uc0b0\uc138\uac00",
+        "url": "https://open.spotify.com/album/2Kcj1lqZj8qh2cmtvHa6qk"
+      },
+      "artists": [
+        {
+          "name": "fullmoon project",
+          "url": "https://open.spotify.com/artist/3eTwOC2mxAQJcfYFXGHzmh"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "\uc0b0\uc138\uac00",
+      "url": "https://open.spotify.com/track/6UFOH0T8vDqjsdagF2bWU8"
+    },
+    {
+      "album": {
+        "name": "\uc2ec\uccad\ub0a0\ub2e4",
+        "url": "https://open.spotify.com/album/15AV3oJn5yB02rW22Io2OG"
+      },
+      "artists": [
+        {
+          "name": "nalda",
+          "url": "https://open.spotify.com/artist/3LmhODh3xJbv6B5ZufqQ5x"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249881,
+      "name": "\uc2ec\uccad\ub0a0\ub2e4",
+      "url": "https://open.spotify.com/track/4lH5VY45CWptXStnNFrFDK"
+    },
+    {
+      "album": {
+        "name": "SPANGLE",
+        "url": "https://open.spotify.com/album/4tFh4AulVEB4FCpgCWAi49"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Heosongsewol",
+          "url": "https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS"
+        },
+        {
+          "name": "NomNom",
+          "url": "https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278431,
+      "name": "\uc5b4\ud5c8\uad6c\uc790",
+      "url": "https://open.spotify.com/track/3faAGLkzNpp5ID9MWbuyXY"
+    },
+    {
+      "album": {
+        "name": "Korean Men 2nd",
+        "url": "https://open.spotify.com/album/1zwG2m1lhSHwByNNVK2wpa"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Prelude",
+          "url": "https://open.spotify.com/artist/5iDrzHiqbcQR9b0Po8EA9M"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236853,
+      "name": "\uc81c\ube44\uac00",
+      "url": "https://open.spotify.com/track/5i64k1sSeBMBylC8MxACrv"
+    },
+    {
+      "album": {
+        "name": "OBSG",
+        "url": "https://open.spotify.com/album/7GzuVsGWXIlFcbY7JaIWg5"
+      },
+      "artists": [
+        {
+          "name": "Lee Heemoon",
+          "url": "https://open.spotify.com/artist/22FjCZvVP9B258hnCALx4G"
+        },
+        {
+          "name": "Heosongsewol",
+          "url": "https://open.spotify.com/artist/6THaQMhKlpKKIZbisvmnvS"
+        },
+        {
+          "name": "NomNom",
+          "url": "https://open.spotify.com/artist/4dCsxtrM5JyN1LxNNIXIAc"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194480,
+      "name": "\ud5c8\uc1a1\uc138\uc6d4\ub9d0\uc5b4\ub77c",
+      "url": "https://open.spotify.com/track/05HnmQWeDrBrvC0q5i297T"
+    },
+    {
+      "album": {
+        "name": "\uc6b0\ub9ac\u5bb6",
+        "url": "https://open.spotify.com/album/3mUM8eFah712mh4MUdDx7w"
+      },
+      "artists": [
+        {
+          "name": "KIM HOJOONG",
+          "url": "https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH"
+        }
+      ],
+      "date_added": "2023-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286094,
+      "name": "\ud640\ub85c\uc544\ub9ac\ub791 (prod. \ubc15\uacbd\ud6c8)",
+      "url": "https://open.spotify.com/track/2NYhv60zNkD4nciDt0GJUO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXbqEesmXsTTO"
 }

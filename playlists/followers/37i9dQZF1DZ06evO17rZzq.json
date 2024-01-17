@@ -1,210 +1,1317 @@
 {
-  "2023-06-08": 1045,
-  "2023-06-09": 1059,
-  "2023-06-10": 1076,
-  "2023-06-11": 1098,
-  "2023-06-12": 1108,
-  "2023-06-13": 1123,
-  "2023-06-14": 1147,
-  "2023-06-15": 1165,
-  "2023-06-16": 1185,
-  "2023-06-17": 1210,
-  "2023-06-18": 1235,
-  "2023-06-19": 1255,
-  "2023-06-20": 1265,
-  "2023-06-21": 1278,
-  "2023-06-22": 1297,
-  "2023-06-23": 1311,
-  "2023-06-24": 1323,
-  "2023-06-25": 1333,
-  "2023-06-26": 1353,
-  "2023-06-27": 1376,
-  "2023-06-28": 1388,
-  "2023-06-29": 1401,
-  "2023-06-30": 1410,
-  "2023-07-01": 1427,
-  "2023-07-02": 1427,
-  "2023-07-03": 1436,
-  "2023-07-04": 1447,
-  "2023-07-05": 1457,
-  "2023-07-06": 1473,
-  "2023-07-07": 1473,
-  "2023-07-08": 1486,
-  "2023-07-09": 1493,
-  "2023-07-10": 1501,
-  "2023-07-11": 1512,
-  "2023-07-12": 1521,
-  "2023-07-13": 1531,
-  "2023-07-14": 1545,
-  "2023-07-15": 1556,
-  "2023-07-16": 1572,
-  "2023-07-17": 1582,
-  "2023-07-18": 1593,
-  "2023-07-19": 1598,
-  "2023-07-20": 1609,
-  "2023-07-21": 1616,
-  "2023-07-22": 1627,
-  "2023-07-23": 1636,
-  "2023-07-24": 1650,
-  "2023-07-25": 1658,
-  "2023-07-26": 1664,
-  "2023-07-27": 1673,
-  "2023-07-28": 1685,
-  "2023-07-29": 1693,
-  "2023-07-30": 1701,
-  "2023-07-31": 1713,
-  "2023-08-01": 1724,
-  "2023-08-02": 1730,
-  "2023-08-03": 1739,
-  "2023-08-04": 1749,
-  "2023-08-05": 1754,
-  "2023-08-06": 1764,
-  "2023-08-07": 1764,
-  "2023-08-08": 1773,
-  "2023-08-09": 1781,
-  "2023-08-10": 1791,
-  "2023-08-11": 1796,
-  "2023-08-12": 1796,
-  "2023-08-13": 1796,
-  "2023-08-14": 1826,
-  "2023-08-15": 1826,
-  "2023-08-16": 1826,
-  "2023-08-17": 1847,
-  "2023-08-18": 1847,
-  "2023-08-19": 1847,
-  "2023-08-20": 1859,
-  "2023-08-21": 1859,
-  "2023-08-22": 1879,
-  "2023-08-23": 1879,
-  "2023-08-24": 1892,
-  "2023-08-25": 1892,
-  "2023-08-26": 1907,
-  "2023-08-27": 1907,
-  "2023-08-28": 1922,
-  "2023-08-29": 1922,
-  "2023-08-30": 1922,
-  "2023-08-31": 1936,
-  "2023-09-01": 1954,
-  "2023-09-02": 1954,
-  "2023-09-03": 1964,
-  "2023-09-04": 1964,
-  "2023-09-05": 1964,
-  "2023-09-06": 1969,
-  "2023-09-07": 1969,
-  "2023-09-08": 1969,
-  "2023-09-09": 1969,
-  "2023-09-10": 2009,
-  "2023-09-11": 2009,
-  "2023-09-12": 2009,
-  "2023-09-13": 2030,
-  "2023-09-14": 2030,
-  "2023-09-15": 2030,
-  "2023-09-16": 2049,
-  "2023-09-17": 2049,
-  "2023-09-18": 2049,
-  "2023-09-19": 2073,
-  "2023-09-20": 2073,
-  "2023-09-21": 2073,
-  "2023-09-22": 2091,
-  "2023-09-23": 2091,
-  "2023-09-24": 2091,
-  "2023-09-25": 2091,
-  "2023-09-26": 2109,
-  "2023-09-27": 2109,
-  "2023-09-28": 2109,
-  "2023-09-29": 2109,
-  "2023-09-30": 2109,
-  "2023-10-01": 2109,
-  "2023-10-02": 2137,
-  "2023-10-03": 2137,
-  "2023-10-04": 2137,
-  "2023-10-05": 2147,
-  "2023-10-06": 2150,
-  "2023-10-07": 2150,
-  "2023-10-08": 2150,
-  "2023-10-09": 2150,
-  "2023-10-10": 2150,
-  "2023-10-11": 2170,
-  "2023-10-12": 2170,
-  "2023-10-13": 2170,
-  "2023-10-14": 2170,
-  "2023-10-15": 2170,
-  "2023-10-16": 2170,
-  "2023-10-17": 2170,
-  "2023-10-18": 2170,
-  "2023-10-19": 2170,
-  "2023-10-20": 2170,
-  "2023-10-21": 2170,
-  "2023-10-22": 2170,
-  "2023-10-23": 2170,
-  "2023-10-24": 2170,
-  "2023-10-25": 2170,
-  "2023-10-26": 2170,
-  "2023-10-27": 2170,
-  "2023-10-28": 2170,
-  "2023-10-29": 2170,
-  "2023-10-30": 2170,
-  "2023-10-31": 2170,
-  "2023-11-01": 2170,
-  "2023-11-02": 2170,
-  "2023-11-03": 2170,
-  "2023-11-04": 2170,
-  "2023-11-05": 2170,
-  "2023-11-06": 2170,
-  "2023-11-07": 2170,
-  "2023-11-08": 2170,
-  "2023-11-09": 2170,
-  "2023-11-10": 2170,
-  "2023-11-11": 2370,
-  "2023-11-12": 2370,
-  "2023-11-13": 2370,
-  "2023-11-14": 2370,
-  "2023-11-15": 2370,
-  "2023-11-16": 2370,
-  "2023-11-17": 2370,
-  "2023-11-18": 2370,
-  "2023-11-19": 2370,
-  "2023-11-20": 2370,
-  "2023-11-21": 2370,
-  "2023-11-22": 2370,
-  "2023-11-23": 2370,
-  "2023-11-24": 2370,
-  "2023-11-25": 2370,
-  "2023-11-26": 2370,
-  "2023-11-27": 2370,
-  "2023-11-28": 2370,
-  "2023-11-29": 2370,
-  "2023-11-30": 2370,
-  "2023-12-01": 2370,
-  "2023-12-02": 2370,
-  "2023-12-03": 2370,
-  "2023-12-04": 2370,
-  "2023-12-05": 2370,
-  "2023-12-06": 2370,
-  "2023-12-07": 2370,
-  "2023-12-08": 2370,
-  "2023-12-09": 2370,
-  "2023-12-10": 2370,
-  "2023-12-11": 2370,
-  "2023-12-12": 2370,
-  "2023-12-13": 2370,
-  "2023-12-14": 2571,
-  "2023-12-15": 2575,
-  "2023-12-16": 2579,
-  "2023-12-17": 2579,
-  "2023-12-18": 2588,
-  "2023-12-19": 2595,
-  "2023-12-20": 2600,
-  "2023-12-21": 2604,
-  "2023-12-22": 2610,
-  "2023-12-23": 2619,
-  "2023-12-24": 2621,
-  "2023-12-25": 2625,
-  "2023-12-26": 2626,
-  "2023-12-27": 2637,
-  "2023-12-30": 2657,
-  "2023-12-31": 2661,
-  "2024-01-01": 2668,
-  "2024-01-02": 2672,
-  "2024-01-03": 2676
+  "2024-01-17": 2765,
+  "date_first_scraped": "2023-06-08",
+  "description": "This is Kaliii. The essential tracks, all in one playlist.",
+  "name": "This Is Kaliii",
+  "tracks": [
+    {
+      "album": {
+        "name": "Jedna Ljubav A Kurva",
+        "url": "https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t"
+      },
+      "artists": [
+        {
+          "name": "Jantar",
+          "url": "https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206680,
+      "name": "05. Let 175",
+      "url": "https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2"
+    },
+    {
+      "album": {
+        "name": "12",
+        "url": "https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1"
+      },
+      "artists": [
+        {
+          "name": "Foe",
+          "url": "https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191976,
+      "name": "12",
+      "url": "https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Ken The Man",
+          "url": "https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "Ain't FWM (feat. Ken the Man)",
+      "url": "https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4"
+    },
+    {
+      "album": {
+        "name": "And\u011bl\u00e9 A D\u00e9moni",
+        "url": "https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1"
+      },
+      "artists": [
+        {
+          "name": "DeFuckTo",
+          "url": "https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219613,
+      "name": "And\u011bl\u00e9 A D\u00e9moni",
+      "url": "https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4"
+    },
+    {
+      "album": {
+        "name": "Rap Hits US 2023",
+        "url": "https://open.spotify.com/album/2FAeKKSaOQLMKtFbSALK6U"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-05",
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/6K8DewlrmagEeJ6sYdCnQO"
+    },
+    {
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/2woiwhAylaCMs9TaOLCRka"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/6BgdroP3f57LfPZvWcNWdq"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-02",
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7dGXSUVah5IfIeymPFZ5vM"
+    },
+    {
+      "album": {
+        "name": "Area Codes",
+        "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139325,
+      "name": "Area Codes",
+      "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "album": {
+        "name": "Area Codes (415 Remix) [feat. Lil Kayla]",
+        "url": "https://open.spotify.com/album/1C5lG5EynggKASzT5CEtz0"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Lil Kayla",
+          "url": "https://open.spotify.com/artist/0L5BtJ0tpOgMcQO94P26Tp"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 137033,
+      "name": "Area Codes (415 Remix) [feat. Lil Kayla]",
+      "url": "https://open.spotify.com/track/1euNS5zhdt7TnsVMMZWTBw"
+    },
+    {
+      "album": {
+        "name": "Area Codes (773 Remix) [feat. Mello Buckzz]",
+        "url": "https://open.spotify.com/album/5UXscuxjTNROjxeBD0yhrm"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-24",
+      "duration_ms": 137033,
+      "name": "Area Codes (773 Remix) [feat. Mello Buckzz]",
+      "url": "https://open.spotify.com/track/2FxjU8KBwkhd8cUq8As0aB"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153652,
+      "name": "Bad Bad Bad",
+      "url": "https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO"
+    },
+    {
+      "album": {
+        "name": "Bad Little Thing (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143020,
+      "name": "Bad Little Thing (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it"
+    },
+    {
+      "album": {
+        "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5x9fQvlmhZqWoifJs9dVVL"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149438,
+      "name": "Barbie Dreams (feat. Kaliii) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/7njDhlprmHJ1I9pM0rxMON"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106285,
+      "name": "Big Body",
+      "url": "https://open.spotify.com/track/44KCsHCsd0yQnyOm71XHQJ"
+    },
+    {
+      "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Binary Tertials",
+      "url": "https://open.spotify.com/track/4gdjjcgEYjDLs7R4omwjZ3"
+    },
+    {
+      "album": {
+        "name": "Blow It (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/5EmxmoOuOzwi2sMH6kLiP9"
+      },
+      "artists": [
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163011,
+      "name": "Blow It (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/6dGrg1FaSIuplGe01CkL2I"
+    },
+    {
+      "album": {
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159755,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137880,
+      "name": "Can\u2019t Get \u2018Em",
+      "url": "https://open.spotify.com/track/2aG3cPs5o9QTvVDSs6h1Gw"
+    },
+    {
+      "album": {
+        "name": "Chainzzz (feat. Muni Long)",
+        "url": "https://open.spotify.com/album/5qQgXzZjX0hfAQxdjgRsBw"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153847,
+      "name": "Chainzzz (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/52BxodVhthsoiy2zrhh7SR"
+    },
+    {
+      "album": {
+        "name": "Sveti\u0161te Svinja",
+        "url": "https://open.spotify.com/album/5pxHJboXT8rSibEGH05R0m"
+      },
+      "artists": [
+        {
+          "name": "Jantar",
+          "url": "https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt"
+        },
+        {
+          "name": "Djubre",
+          "url": "https://open.spotify.com/artist/1gjTCYso5nszQJ7xk6HaJk"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275565,
+      "name": "Dan \u017divih Mrtvaca",
+      "url": "https://open.spotify.com/track/3y7dFcGXcbvArKIrLdNsnO"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164702,
+      "name": "Do A Bitch",
+      "url": "https://open.spotify.com/track/3t7NM4j6pmzJqck5sQdyAF"
+    },
+    {
+      "album": {
+        "name": "Do A Bitch (Club Mix)",
+        "url": "https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156096,
+      "name": "Do A Bitch - Club Mix",
+      "url": "https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5"
+    },
+    {
+      "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 453857,
+      "name": "Driveby",
+      "url": "https://open.spotify.com/track/3IZwShcacPqxbkHkT9M3zT"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181812,
+      "name": "Eat It Up (feat. BIA)",
+      "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
+    },
+    {
+      "album": {
+        "name": "Casa Ibiza Renovacion",
+        "url": "https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444800,
+      "name": "Espalmador - Original Mix",
+      "url": "https://open.spotify.com/track/7nJCvPKWpTNIun09HK0Ojp"
+    },
+    {
+      "album": {
+        "name": "Casa Ibiza Renovacion",
+        "url": "https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 580066,
+      "name": "Espardell - Original Mix",
+      "url": "https://open.spotify.com/track/7k52apZFJbnF1RFjBMp8Rs"
+    },
+    {
+      "album": {
+        "name": "Casa Ibiza Renovacion",
+        "url": "https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 544293,
+      "name": "Formentera - Original Mix",
+      "url": "https://open.spotify.com/track/1afeg0sP5XBOXAWKWbFXkQ"
+    },
+    {
+      "album": {
+        "name": "Keep It Playa",
+        "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
+      },
+      "artists": [
+        {
+          "name": "Saucy Santana",
+          "url": "https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192592,
+      "name": "ill nana (feat. Kali)",
+      "url": "https://open.spotify.com/track/0Ve9hRPGD8xtQZfVpUNLSR"
+    },
+    {
+      "album": {
+        "name": "Smekkleysa \u00ed h\u00e1lfa \u00f6ld",
+        "url": "https://open.spotify.com/album/5DnUUQ8gdNflTyqwDCG0ts"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266332,
+      "name": "Jeminn eini",
+      "url": "https://open.spotify.com/track/4fXq4gLPLhMdtBoqRnD0wx"
+    },
+    {
+      "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259861,
+      "name": "Junior Bunny",
+      "url": "https://open.spotify.com/track/3AWSj0PitVg617wGbqpW70"
+    },
+    {
+      "album": {
+        "name": "K Toven",
+        "url": "https://open.spotify.com/album/5vj3vuWumdZW2kOsBc9oXA"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126581,
+      "name": "K Toven",
+      "url": "https://open.spotify.com/track/0iCsRcu5mugWVlCMpD7wb1"
+    },
+    {
+      "album": {
+        "name": "K Toven (DJ 809 Mix)",
+        "url": "https://open.spotify.com/album/5R5enf84wSod7ay2689u6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "DJ Smallz 732",
+          "url": "https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK"
+        },
+        {
+          "name": "DJ 809",
+          "url": "https://open.spotify.com/artist/5v1Hvm0FdJWq8gRvuA2uke"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 131893,
+      "name": "K Toven - DJ 809 Mix",
+      "url": "https://open.spotify.com/track/2Wn16B1SLrmY4JLMBshnVg"
+    },
+    {
+      "album": {
+        "name": "Back To 304'n",
+        "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
+      },
+      "artists": [
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176686,
+      "name": "Kickin In (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/28319tGwwnaIVtjFk7JPfH"
+    },
+    {
+      "album": {
+        "name": "Fiesta Del Sol Y Luna",
+        "url": "https://open.spotify.com/album/3pO9Vo4kW2UbCxA8Gok9AR"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 402580,
+      "name": "La Casa Ibiza - Original Mix",
+      "url": "https://open.spotify.com/track/4QahKCliW3nJ06Psyayv3o"
+    },
+    {
+      "album": {
+        "name": "Black Spirits: Festival Of New Black Poets In America",
+        "url": "https://open.spotify.com/album/7a1YK3qImW8STyefDCy8Yb"
+      },
+      "artists": [
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 24526,
+      "name": "Ladybird - Live At The Apollo Theater/1972",
+      "url": "https://open.spotify.com/track/7yTJtsQJ4UE0IvF7Zp9290"
+    },
+    {
+      "album": {
+        "name": "MMM MMM (feat. ATL Jacob)",
+        "url": "https://open.spotify.com/album/5IPRVG3Ph5zixjdC49LKdu"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137341,
+      "name": "MMM MMM (feat. ATL Jacob)",
+      "url": "https://open.spotify.com/track/7GLqR9ToJLb0PV3XyNAWNm"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188014,
+      "name": "Ms. Lick Back",
+      "url": "https://open.spotify.com/track/1A2e34Eb1mpgWTeV8sTVRy"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144983,
+      "name": "Nasty Bitch",
+      "url": "https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154453,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa"
+    },
+    {
+      "album": {
+        "name": "OOP",
+        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130813,
+      "name": "OOP",
+      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+    },
+    {
+      "album": {
+        "name": "Ouuhh!!",
+        "url": "https://open.spotify.com/album/5R7RaffbuuCgJ8rB9qC0P8"
+      },
+      "artists": [
+        {
+          "name": "Kayla Nicole",
+          "url": "https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT"
+        },
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Famous Uno",
+          "url": "https://open.spotify.com/artist/4Y9LZIhP41oVQFjoyJ3Gga"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197066,
+      "name": "Ouuhh!!",
+      "url": "https://open.spotify.com/track/6R5pp1Yant3DhEuHtJJGZl"
+    },
+    {
+      "album": {
+        "name": "That Rabbit All Star Compilation, Vol. 1",
+        "url": "https://open.spotify.com/album/36qRi5qPrdRBeGQlg1oDIQ"
+      },
+      "artists": [
+        {
+          "name": "SbMigo",
+          "url": "https://open.spotify.com/artist/5zUCkBQ1toNwvXlPSQpL2A"
+        },
+        {
+          "name": "Durt J",
+          "url": "https://open.spotify.com/artist/3y4KE35PrBDq2isu5GHCxO"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236956,
+      "name": "Pakkman",
+      "url": "https://open.spotify.com/track/2bW876RUtpQOOwz3aocCRT"
+    },
+    {
+      "album": {
+        "name": "Earth Vs Aliens",
+        "url": "https://open.spotify.com/album/77wY2XzNiKp6qV11p6vh8i"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ink",
+          "url": "https://open.spotify.com/artist/6pwXKrHAmcTYG3t9utQko4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226151,
+      "name": "Peakin'",
+      "url": "https://open.spotify.com/track/6d9SCBxeBhVaZSBs3AVsb2"
+    },
+    {
+      "album": {
+        "name": "StreetTape",
+        "url": "https://open.spotify.com/album/3AeDIwMGQSxOZq0yxanTRJ"
+      },
+      "artists": [
+        {
+          "name": "Bacil",
+          "url": "https://open.spotify.com/artist/4uviJhX649yLp6C4fPL4Ry"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301374,
+      "name": "Po\u00e9zia Ulice",
+      "url": "https://open.spotify.com/track/3WDmH57riK5YqsR4YUlxeb"
+    },
+    {
+      "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178714,
+      "name": "Rockers Step Like Kelly",
+      "url": "https://open.spotify.com/track/2d18QIOZ9d90BzbndmW01N"
+    },
+    {
+      "album": {
+        "name": "Casa Ibiza",
+        "url": "https://open.spotify.com/album/0AdMeTJZoXvH1geO6Uq7Bi"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-18",
+      "duration_ms": 381068,
+      "name": "Sa Conillera - Original Mix",
+      "url": "https://open.spotify.com/track/0hRsf1Ym2HC05cBMnouEyv"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Young Nudy",
+          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193426,
+      "name": "Say Too Much",
+      "url": "https://open.spotify.com/track/3ivlOgTCKS7zk1lXlZsebF"
+    },
+    {
+      "album": {
+        "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+        "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-06-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216541,
+      "name": "Shiesty (feat. Kaliii & Sexyy Red)",
+      "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
+    },
+    {
+      "album": {
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233150,
+      "name": "Sl*t Him Out Again (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1rFSc82CUMlFewowdZPRT8"
+    },
+    {
+      "album": {
+        "name": "This Why They Mad Now",
+        "url": "https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138288,
+      "name": "Spend Dat",
+      "url": "https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5"
+    },
+    {
+      "album": {
+        "name": "FCK GIRL SZN",
+        "url": "https://open.spotify.com/album/6FtK5vQ8zUzVjQqAnJiuOV"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116506,
+      "name": "Stand On It",
+      "url": "https://open.spotify.com/track/28tPLMyYodI8LIUpbQE6bG"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175819,
+      "name": "Standards",
+      "url": "https://open.spotify.com/track/3aYpUar301x64WbolSxdwS"
+    },
+    {
+      "album": {
+        "name": "Bridging the Gap, Vol. 2 Compiled by Dynamic Range",
+        "url": "https://open.spotify.com/album/1O9q3Fui5u2yLSiW6PaLPd"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439436,
+      "name": "Story Teller - Original Mix",
+      "url": "https://open.spotify.com/track/7grj3JBO3DGa4znViKeIki"
+    },
+    {
+      "album": {
+        "name": "Results Take Time",
+        "url": "https://open.spotify.com/album/4pbph4ZWAanvsHlqztlFU9"
+      },
+      "artists": [
+        {
+          "name": "Symba",
+          "url": "https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155476,
+      "name": "Street Nigga (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+    },
+    {
+      "album": {
+        "name": "Casa Ibiza Renovacion",
+        "url": "https://open.spotify.com/album/7d1LCUkXphM1paoG1t5T2M"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 441240,
+      "name": "Tagomago - Original Mix",
+      "url": "https://open.spotify.com/track/2TbhT9AASIdj8QKrQaDTzQ"
+    },
+    {
+      "album": {
+        "name": "Black Spirits: Festival Of New Black Poets In America",
+        "url": "https://open.spotify.com/album/7a1YK3qImW8STyefDCy8Yb"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 22427,
+      "name": "This Little Light Of Mine - Live At The Apollo Theater/1972",
+      "url": "https://open.spotify.com/track/2jJ0GMs2IBZUc3DRUZGoan"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate",
+        "url": "https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148471,
+      "name": "Toxic Chocolate",
+      "url": "https://open.spotify.com/track/0ubYxtmHWHRo4xsjXEztWv"
+    },
+    {
+      "album": {
+        "name": "Track & Field (feat. Kaliii)",
+        "url": "https://open.spotify.com/album/2c2pjLYQ3hd9UNoCPiNuwf"
+      },
+      "artists": [
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138001,
+      "name": "Track & Field (feat. Kaliii)",
+      "url": "https://open.spotify.com/track/1IgIR2FmHpfuR3MkGnGQUI"
+    },
+    {
+      "album": {
+        "name": "UonU (feat. Yung Bleu)",
+        "url": "https://open.spotify.com/album/1OGeBW31RYFKWz9jtey1B7"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218205,
+      "name": "UonU (feat. Yung Bleu)",
+      "url": "https://open.spotify.com/track/3udY2LgfOU8GOWBnoYmFsP"
+    },
+    {
+      "album": {
+        "name": "Wet",
+        "url": "https://open.spotify.com/album/31TtTfGTyqjNQvTXa6Ig9u"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136980,
+      "name": "Wet",
+      "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+    },
+    {
+      "album": {
+        "name": "MULTI",
+        "url": "https://open.spotify.com/album/01Gyi3UvIcbXejlgpjAYyD"
+      },
+      "artists": [
+        {
+          "name": "DJ Chose",
+          "url": "https://open.spotify.com/artist/28Jt29jw6Smc3ZkzALTouq"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208770,
+      "name": "Where She At (feat. Kali, KenTheMan)",
+      "url": "https://open.spotify.com/track/0ou1POV1L5meXTc8HeELNP"
+    },
+    {
+      "album": {
+        "name": "Toxic Chocolate: Area Codes Edition",
+        "url": "https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-07-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 25574,
+      "name": "Where They At (Intro)",
+      "url": "https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY"
+    },
+    {
+      "album": {
+        "name": "Y'all Want Me (Remix)",
+        "url": "https://open.spotify.com/album/6cFfBIJZ4E71VVBOUkIUAr"
+      },
+      "artists": [
+        {
+          "name": "John'nay Lasha",
+          "url": "https://open.spotify.com/artist/0vcMP4qw5S5V7D3YUgOuFG"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-06-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195583,
+      "name": "Y'all Want Me (Remix)",
+      "url": "https://open.spotify.com/track/5Twf9Om6Y90LR24Ickm0SP"
+    },
+    {
+      "album": {
+        "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+        "url": "https://open.spotify.com/album/5VUeDa4FENhqT8o2fuFdjK"
+      },
+      "artists": [
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157508,
+      "name": "You Wish (with Missy Elliott & Kaliii) \u2013 Remix",
+      "url": "https://open.spotify.com/track/1bUhj0j6akbGxinxsVe6PR"
+    },
+    {
+      "album": {
+        "name": "Rockers Dubstep Like Kelly",
+        "url": "https://open.spotify.com/album/1zCLe4oFbmkKBNCKVevp6E"
+      },
+      "artists": [
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 579428,
+      "name": "Zion Is Mighty",
+      "url": "https://open.spotify.com/track/07QbNGdQrQt3jiZy6huUvc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq"
 }

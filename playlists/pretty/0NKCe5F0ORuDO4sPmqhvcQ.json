@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20868,
+  "num_followers": 20844,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "MTA1NzIsMTgyYTJjYWIxOWVkYjM1NTEwNzU2MWNmNTUyZWVkOTA5OTY0NDJhMQ==",
+  "snapshot_id": "MTA1NzMsYmI0YTNmMzgzMzcxOWU1MDA4N2M4MjI3ZjFlNGY2MjYzNTlmZThkNA==",
   "tracks": [
     {
       "added_at": "2023-11-24 18:25:16",
@@ -2743,6 +2743,26 @@
       "duration_ms": 180629,
       "name": "Level Up (feat. Scrufizzer)",
       "url": "https://open.spotify.com/track/3VFtHmvmClUSOp9kWrx4RA"
+    },
+    {
+      "added_at": "2024-01-08 23:01:34",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2ALJwbBEAUpuqg7JFuhtlv"
+      },
+      "artists": [
+        {
+          "name": "Crystal Skies",
+          "url": "https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK"
+        },
+        {
+          "name": "SOUNDR",
+          "url": "https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/094tCgchiXY2srShd51TvA"
     }
   ],
   "unique_name": "Moving Castle Monthly",

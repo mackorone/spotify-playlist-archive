@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 
 > Hello you...Listen to music from and inspired by You, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,189 likes - 153 songs - 9 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,064 likes - 153 songs - 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWVA31rZqC4w.md) - [plain]
 | 17 | [Bodysnatchers](https://open.spotify.com/track/4pWIwnnqx8k01fuF95UMIg) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK) | 4:02 |
 | 18 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 |
 | 19 | [Oxford Comma](https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 3:15 |
-| 20 | [Strangers](https://open.spotify.com/track/6VS4OTcpylKl984tzFYC11) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 3:40 |
+| 20 | [Strangers](https://open.spotify.com/track/5ieLgTo5CXbIgoO0X2KJHf) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/1dhkdAipvJfbPh0B6pg2b0) | 3:40 |
 | 21 | [The Kids Are All Dying](https://open.spotify.com/track/0BNmGdxb8St6XZF4kYAQsX) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 2:47 |
 | 22 | [Night Drive](https://open.spotify.com/track/0FTjbGC4JKQDfHHtY9Orcp) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Nerve \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6EtztoTaAsTNpIdvdNd9vi) | 3:44 |
 | 23 | [Paris Tropical](https://open.spotify.com/track/2J3bOjsCkPbriZaKz0H3xp) | [Minuit](https://open.spotify.com/artist/3T5VmqTVAlLU7X0HKfCqY5) | [Vertigo](https://open.spotify.com/album/2ZZiUqmOAdG2odHhT3rmlo) | 3:56 |

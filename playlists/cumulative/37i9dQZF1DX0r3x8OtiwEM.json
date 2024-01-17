@@ -2162,6 +2162,24 @@
     {
       "album": {
         "name": "Dance With Me EP",
+        "url": "https://open.spotify.com/album/5g5vQzGIuYwk5iXJpXWioS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 391590,
+      "name": "Dance With Me",
+      "url": "https://open.spotify.com/track/0VbexUMmRVxsshn5PPqrfW"
+    },
+    {
+      "album": {
+        "name": "Dance With Me EP",
         "url": "https://open.spotify.com/album/4s6yX6gWHCSuI9M67i3qUC"
       },
       "artists": [
@@ -2172,7 +2190,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 391590,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/7i08AhQcrdD4GLlr2Pmamg"
@@ -2908,7 +2926,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 325744,
       "name": "Dreamcast",
       "url": "https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk"
@@ -9268,7 +9286,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-16",
+      "date_removed": "2024-01-11",
       "duration_ms": 429055,
       "name": "Shapes in the Spray",
       "url": "https://open.spotify.com/track/6h3ZomURqLW7JkM2S66FFL"
@@ -10648,10 +10666,28 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
+    },
+    {
+      "album": {
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2023-11-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
     },
     {
       "album": {
@@ -11292,7 +11328,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": "2024-01-14",
       "duration_ms": 295680,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy"
@@ -12278,7 +12314,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-12",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Wild Heart",
       "url": "https://open.spotify.com/track/0jN80BUFLFsTY9W7OeWqu8"

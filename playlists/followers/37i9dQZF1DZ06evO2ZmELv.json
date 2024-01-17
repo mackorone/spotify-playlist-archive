@@ -1,298 +1,1017 @@
 {
-  "2023-03-11": 51,
-  "2023-03-12": 51,
-  "2023-03-13": 51,
-  "2023-03-14": 51,
-  "2023-03-15": 51,
-  "2023-03-16": 51,
-  "2023-03-17": 51,
-  "2023-03-18": 52,
-  "2023-03-19": 52,
-  "2023-03-20": 53,
-  "2023-03-21": 54,
-  "2023-03-22": 54,
-  "2023-03-23": 54,
-  "2023-03-24": 54,
-  "2023-03-25": 59,
-  "2023-03-26": 59,
-  "2023-03-27": 59,
-  "2023-03-28": 60,
-  "2023-03-29": 61,
-  "2023-03-30": 61,
-  "2023-03-31": 61,
-  "2023-04-01": 62,
-  "2023-04-02": 63,
-  "2023-04-03": 63,
-  "2023-04-04": 65,
-  "2023-04-05": 66,
-  "2023-04-06": 66,
-  "2023-04-07": 66,
-  "2023-04-09": 69,
-  "2023-04-10": 69,
-  "2023-04-11": 70,
-  "2023-04-12": 70,
-  "2023-04-13": 70,
-  "2023-04-14": 70,
-  "2023-04-15": 69,
-  "2023-04-16": 69,
-  "2023-04-17": 69,
-  "2023-04-18": 69,
-  "2023-04-19": 70,
-  "2023-04-20": 70,
-  "2023-04-21": 73,
-  "2023-04-22": 75,
-  "2023-04-23": 76,
-  "2023-04-24": 76,
-  "2023-04-25": 78,
-  "2023-04-26": 78,
-  "2023-04-27": 78,
-  "2023-04-28": 79,
-  "2023-04-29": 79,
-  "2023-04-30": 80,
-  "2023-05-01": 79,
-  "2023-05-02": 80,
-  "2023-05-03": 80,
-  "2023-05-04": 82,
-  "2023-05-05": 82,
-  "2023-05-06": 83,
-  "2023-05-07": 83,
-  "2023-05-08": 84,
-  "2023-05-09": 84,
-  "2023-05-10": 85,
-  "2023-05-11": 84,
-  "2023-05-12": 84,
-  "2023-05-13": 85,
-  "2023-05-14": 85,
-  "2023-05-15": 85,
-  "2023-05-16": 87,
-  "2023-05-17": 89,
-  "2023-05-18": 90,
-  "2023-05-19": 93,
-  "2023-05-20": 94,
-  "2023-05-21": 94,
-  "2023-05-22": 94,
-  "2023-05-23": 96,
-  "2023-05-24": 98,
-  "2023-05-25": 98,
-  "2023-05-26": 98,
-  "2023-05-27": 98,
-  "2023-05-28": 99,
-  "2023-05-29": 99,
-  "2023-05-30": 100,
-  "2023-05-31": 101,
-  "2023-06-01": 101,
-  "2023-06-02": 101,
-  "2023-06-03": 100,
-  "2023-06-04": 100,
-  "2023-06-05": 100,
-  "2023-06-06": 100,
-  "2023-06-07": 101,
-  "2023-06-08": 101,
-  "2023-06-09": 102,
-  "2023-06-10": 103,
-  "2023-06-11": 103,
-  "2023-06-12": 103,
-  "2023-06-13": 103,
-  "2023-06-14": 103,
-  "2023-06-15": 107,
-  "2023-06-16": 108,
-  "2023-06-17": 108,
-  "2023-06-18": 108,
-  "2023-06-19": 107,
-  "2023-06-20": 109,
-  "2023-06-21": 109,
-  "2023-06-22": 110,
-  "2023-06-23": 110,
-  "2023-06-24": 110,
-  "2023-06-25": 111,
-  "2023-06-26": 111,
-  "2023-06-27": 112,
-  "2023-06-28": 113,
-  "2023-06-29": 115,
-  "2023-06-30": 116,
-  "2023-07-01": 117,
-  "2023-07-02": 117,
-  "2023-07-03": 117,
-  "2023-07-04": 117,
-  "2023-07-05": 119,
-  "2023-07-06": 120,
-  "2023-07-07": 120,
-  "2023-07-08": 120,
-  "2023-07-09": 122,
-  "2023-07-10": 122,
-  "2023-07-11": 122,
-  "2023-07-12": 122,
-  "2023-07-13": 123,
-  "2023-07-14": 123,
-  "2023-07-15": 123,
-  "2023-07-16": 123,
-  "2023-07-17": 124,
-  "2023-07-18": 125,
-  "2023-07-19": 125,
-  "2023-07-20": 125,
-  "2023-07-21": 125,
-  "2023-07-22": 126,
-  "2023-07-23": 126,
-  "2023-07-24": 126,
-  "2023-07-25": 126,
-  "2023-07-26": 126,
-  "2023-07-27": 126,
-  "2023-07-28": 127,
-  "2023-07-29": 128,
-  "2023-07-30": 128,
-  "2023-07-31": 129,
-  "2023-08-01": 129,
-  "2023-08-02": 129,
-  "2023-08-03": 129,
-  "2023-08-04": 131,
-  "2023-08-05": 133,
-  "2023-08-06": 133,
-  "2023-08-07": 133,
-  "2023-08-08": 134,
-  "2023-08-09": 137,
-  "2023-08-10": 137,
-  "2023-08-11": 137,
-  "2023-08-12": 137,
-  "2023-08-13": 137,
-  "2023-08-14": 139,
-  "2023-08-15": 139,
-  "2023-08-16": 139,
-  "2023-08-17": 139,
-  "2023-08-18": 139,
-  "2023-08-19": 139,
-  "2023-08-20": 141,
-  "2023-08-21": 141,
-  "2023-08-22": 141,
-  "2023-08-23": 141,
-  "2023-08-24": 141,
-  "2023-08-25": 141,
-  "2023-08-26": 143,
-  "2023-08-27": 143,
-  "2023-08-28": 143,
-  "2023-08-29": 143,
-  "2023-08-30": 143,
-  "2023-08-31": 143,
-  "2023-09-01": 143,
-  "2023-09-02": 143,
-  "2023-09-03": 143,
-  "2023-09-04": 143,
-  "2023-09-05": 143,
-  "2023-09-06": 143,
-  "2023-09-07": 143,
-  "2023-09-08": 143,
-  "2023-09-09": 143,
-  "2023-09-10": 144,
-  "2023-09-11": 144,
-  "2023-09-12": 144,
-  "2023-09-13": 144,
-  "2023-09-14": 144,
-  "2023-09-15": 144,
-  "2023-09-16": 150,
-  "2023-09-17": 150,
-  "2023-09-18": 150,
-  "2023-09-19": 152,
-  "2023-09-20": 152,
-  "2023-09-21": 152,
-  "2023-09-22": 154,
-  "2023-09-23": 154,
-  "2023-09-24": 154,
-  "2023-09-25": 154,
-  "2023-09-26": 155,
-  "2023-09-27": 155,
-  "2023-09-28": 155,
-  "2023-09-29": 155,
-  "2023-09-30": 155,
-  "2023-10-01": 155,
-  "2023-10-02": 155,
-  "2023-10-03": 155,
-  "2023-10-04": 155,
-  "2023-10-05": 155,
-  "2023-10-06": 155,
-  "2023-10-07": 155,
-  "2023-10-08": 155,
-  "2023-10-09": 155,
-  "2023-10-10": 155,
-  "2023-10-11": 158,
-  "2023-10-12": 158,
-  "2023-10-13": 158,
-  "2023-10-14": 158,
-  "2023-10-15": 158,
-  "2023-10-16": 158,
-  "2023-10-17": 158,
-  "2023-10-18": 158,
-  "2023-10-19": 158,
-  "2023-10-20": 158,
-  "2023-10-21": 158,
-  "2023-10-22": 158,
-  "2023-10-23": 158,
-  "2023-10-24": 158,
-  "2023-10-25": 158,
-  "2023-10-26": 158,
-  "2023-10-27": 158,
-  "2023-10-28": 158,
-  "2023-10-29": 158,
-  "2023-10-30": 158,
-  "2023-10-31": 158,
-  "2023-11-01": 158,
-  "2023-11-02": 158,
-  "2023-11-03": 158,
-  "2023-11-04": 158,
-  "2023-11-05": 158,
-  "2023-11-06": 158,
-  "2023-11-07": 158,
-  "2023-11-08": 158,
-  "2023-11-09": 158,
-  "2023-11-10": 158,
-  "2023-11-11": 162,
-  "2023-11-12": 162,
-  "2023-11-13": 162,
-  "2023-11-14": 162,
-  "2023-11-15": 162,
-  "2023-11-16": 162,
-  "2023-11-17": 162,
-  "2023-11-18": 162,
-  "2023-11-19": 162,
-  "2023-11-20": 162,
-  "2023-11-21": 162,
-  "2023-11-22": 162,
-  "2023-11-23": 162,
-  "2023-11-24": 162,
-  "2023-11-25": 162,
-  "2023-11-26": 162,
-  "2023-11-27": 162,
-  "2023-11-28": 162,
-  "2023-11-29": 162,
-  "2023-11-30": 162,
-  "2023-12-01": 162,
-  "2023-12-02": 162,
-  "2023-12-03": 162,
-  "2023-12-04": 162,
-  "2023-12-05": 162,
-  "2023-12-06": 162,
-  "2023-12-07": 162,
-  "2023-12-08": 162,
-  "2023-12-09": 162,
-  "2023-12-10": 162,
-  "2023-12-11": 162,
-  "2023-12-12": 162,
-  "2023-12-13": 162,
-  "2023-12-14": 167,
-  "2023-12-15": 167,
-  "2023-12-16": 167,
-  "2023-12-17": 167,
-  "2023-12-18": 167,
-  "2023-12-19": 167,
-  "2023-12-20": 168,
-  "2023-12-21": 168,
-  "2023-12-22": 168,
-  "2023-12-23": 168,
-  "2023-12-24": 168,
-  "2023-12-25": 168,
-  "2023-12-26": 168,
-  "2023-12-27": 168,
-  "2023-12-30": 168,
-  "2023-12-31": 170,
-  "2024-01-01": 170,
-  "2024-01-02": 170,
-  "2024-01-03": 170
+  "2024-01-17": 174,
+  "date_first_scraped": "2023-03-11",
+  "description": "This is Cheli Madrid. The essential tracks, all in one playlist.",
+  "name": "This Is Cheli Madrid",
+  "tracks": [
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 193066,
+      "name": "Acuerdate de Mi",
+      "url": "https://open.spotify.com/track/37L1nLzyyha7aBEasI5hOD"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209869,
+      "name": "Ac\u00e1 Entre Nos - En Vivo",
+      "url": "https://open.spotify.com/track/4oX6dB6XekjdF63marhlLo"
+    },
+    {
+      "album": {
+        "name": "Herencia de Reyes",
+        "url": "https://open.spotify.com/album/41jebnJTjXLJUPccmutiXa"
+      },
+      "artists": [
+        {
+          "name": "Jesus Payan e Imparables",
+          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198571,
+      "name": "Amor Ranchero",
+      "url": "https://open.spotify.com/track/1trn4GJEVc1fUJ6QPt47Q8"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 169557,
+      "name": "Anillo Grabado - En Vivo",
+      "url": "https://open.spotify.com/track/1rdWXDbnI7jK584fjIuJe1"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 197733,
+      "name": "Animas Que No Amanezca - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/3XMBTKx7OIGhGIrcyvcwCs"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 218814,
+      "name": "Caray - En Vivo",
+      "url": "https://open.spotify.com/track/2i1LoKxbEaRb4PDBmWBqoh"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198469,
+      "name": "Cari\u00f1ito de Mi Vida - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/4GQ9zLVygYtXqaI0H6sKPK"
+    },
+    {
+      "album": {
+        "name": "Causa Perdida",
+        "url": "https://open.spotify.com/album/0Mruimc9MX6Wvf5fLSpZA2"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194047,
+      "name": "Causa Perdida",
+      "url": "https://open.spotify.com/track/1VFb1rxA0Z1YD5bB0wkdtS"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-01",
+      "duration_ms": 186624,
+      "name": "Chuchuluqueando - En Vivo",
+      "url": "https://open.spotify.com/track/2gAupLmtufI2V605ottAuV"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175125,
+      "name": "Con Rumbo Al Sur - En Vivo",
+      "url": "https://open.spotify.com/track/5FyPPML88pOwIzVRhpV0QH"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 186407,
+      "name": "Confidente",
+      "url": "https://open.spotify.com/track/32StLAvbilS0zxhgqfWLww"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161621,
+      "name": "Coraz\u00f3n De Oropel - En Vivo",
+      "url": "https://open.spotify.com/track/0hHpTNFOXCksQqWLrmzo8s"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155120,
+      "name": "Debajo De Los Laureles - En Vivo",
+      "url": "https://open.spotify.com/track/1UiOn0z0Jfv5d863x6DIa8"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173365,
+      "name": "Destino Cruel - En Vivo",
+      "url": "https://open.spotify.com/track/6BJ2kSTuPGWNb9bXkCwpMt"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189827,
+      "name": "El Desquite - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/1MJNZUII5gFa69fJhmAcyC"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168096,
+      "name": "El Hubiera No Existe",
+      "url": "https://open.spotify.com/track/5mAEsGkI4nuo2fSdpwIVkK"
+    },
+    {
+      "album": {
+        "name": "En Mi Destino Estabas Tu",
+        "url": "https://open.spotify.com/album/4DAa9X3K3EywDoKc7Z3LS2"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199257,
+      "name": "En Mi Destino Estabas Tu",
+      "url": "https://open.spotify.com/track/6tyczwNk5TqYt9WdSZcZ1x"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271461,
+      "name": "Es Demasiado Tarde - En Vivo",
+      "url": "https://open.spotify.com/track/0e2RjIK50zfagXtG00riZB"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200704,
+      "name": "Extra\u00f1a Manera - En Vivo",
+      "url": "https://open.spotify.com/track/2TwbZlvEyVpYDtMY6dsHMP"
+    },
+    {
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235144,
+      "name": "Golpes En El Corazon - En Vivo",
+      "url": "https://open.spotify.com/track/0gSdIIHdkqIZKBiiScOuCX"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209392,
+      "name": "Har\u00e9 de Cuenta",
+      "url": "https://open.spotify.com/track/28JoiRZEHQRpYC1ofiOYpO"
+    },
+    {
+      "album": {
+        "name": "Hoy Que Te Vas",
+        "url": "https://open.spotify.com/album/4JfKXEJo0tqcyDTcWRT0Sj"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186840,
+      "name": "Hoy Que Te Vas",
+      "url": "https://open.spotify.com/track/0O6zTZ5GqM9MPNgwXYt6Vb"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193546,
+      "name": "La Diferencia - En Vivo",
+      "url": "https://open.spotify.com/track/1V1vXXWGYfbDW56TSbMAmb"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-12-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 186389,
+      "name": "La L\u00e1mpara - En Vivo",
+      "url": "https://open.spotify.com/track/2PM1Kgq4zH5xu0or4GCUB0"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 271293,
+      "name": "Las Cuentas Claras - Versi\u00f3n Norte\u00f1o En Vivo",
+      "url": "https://open.spotify.com/track/3nlTZwaA4blF3UQyCUpxX2"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197002,
+      "name": "Laurita Garza - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/4eGrp5JWRFZc2j5Zsho9Ge"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196816,
+      "name": "Le\u00f1a De Pirul - En Vivo",
+      "url": "https://open.spotify.com/track/1AYy8gtLDsPJURA6xfoma9"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202594,
+      "name": "Llegas",
+      "url": "https://open.spotify.com/track/3OqtrIbY11sHaXWlZVOOd8"
+    },
+    {
+      "album": {
+        "name": "Lo de Anoche",
+        "url": "https://open.spotify.com/album/4ik5ysg5eOb1CfL7FMdbFL"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187750,
+      "name": "Lo de Anoche",
+      "url": "https://open.spotify.com/track/2dZAF8kwSjlkYASXpHN2OU"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192413,
+      "name": "Me Cae",
+      "url": "https://open.spotify.com/track/0P14iNFjf1g8qVOrmjC5Jq"
+    },
+    {
+      "album": {
+        "name": "Me Convences",
+        "url": "https://open.spotify.com/album/0QXkJIQbStcMQKlS8aprwb"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205155,
+      "name": "Me Convences",
+      "url": "https://open.spotify.com/track/7rfswBSqRi1VzfF2ikDPgu"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159717,
+      "name": "Me Lo Contaron Ayer - En Vivo",
+      "url": "https://open.spotify.com/track/67sQnKgLjqE8EJyYzZt8Ie"
+    },
+    {
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190760,
+      "name": "Me Traes Loquito - En Vivo",
+      "url": "https://open.spotify.com/track/33CrmjCt84VBCwbwYDHpdp"
+    },
+    {
+      "album": {
+        "name": "Merec\u00eda M\u00e1s",
+        "url": "https://open.spotify.com/album/4x4GrgG8ikogFhMWmW5aMa"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181970,
+      "name": "Merec\u00eda M\u00e1s",
+      "url": "https://open.spotify.com/track/2bFh7FBsBMT0aFlSvvDPNi"
+    },
+    {
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191736,
+      "name": "No Lo Hice Bien - En Vivo",
+      "url": "https://open.spotify.com/track/0hQGltiywFTqXxi8SPyodj"
+    },
+    {
+      "album": {
+        "name": "No Me Lamentare",
+        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135806,
+      "name": "No Me Lamentare",
+      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "No Volver\u00e9 - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/0eH7x7An9XOPCeDsIYnY5R"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Ojitos Verdes - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/25l4KWFW4cgtwjdptNp27P"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229774,
+      "name": "Pa' Todo el A\u00f1o - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/45wiGckG0njKBSJsEKZLKm"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro (En Vivo)",
+        "url": "https://open.spotify.com/album/4tNcPSxJTuAtb6kHPZ7awr"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 246917,
+      "name": "Para Morir Iguales - Versi\u00f3n Banda En Vivo",
+      "url": "https://open.spotify.com/track/5JPZL1qwDXOnYt6w4Rg7gy"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Pero Que Mal Me Fue",
+      "url": "https://open.spotify.com/track/3tfljEJGw0v9YsNddth1Ms"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150654,
+      "name": "Que Poquito Me Conoces",
+      "url": "https://open.spotify.com/track/3rxafxANDFSkB2onHUBUe6"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "Se Me Olvid\u00f3 Otra Vez - En Vivo",
+      "url": "https://open.spotify.com/track/4Sa4JAiKTorCrmduJ2M1uH"
+    },
+    {
+      "album": {
+        "name": "Confidente",
+        "url": "https://open.spotify.com/album/3sjxwy2kUx9tuWXztPExlP"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-15",
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/3cXE7s1awKcJiNHp2UokBu"
+    },
+    {
+      "album": {
+        "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+        "url": "https://open.spotify.com/album/1yFgCBjroSGNKS1wRiEndz"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "date_added": "2023-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216503,
+      "name": "Si Alg\u00fan D\u00eda Te Encuentro",
+      "url": "https://open.spotify.com/track/4l3WAw041PcsxlW9MqeQvR"
+    },
+    {
+      "album": {
+        "name": "Te Metiste (En Vivo)",
+        "url": "https://open.spotify.com/album/2amIneXgm8tKn9gWlB6fbm"
+      },
+      "artists": [
+        {
+          "name": "DEL Records",
+          "url": "https://open.spotify.com/artist/6rW5Y4FndhF6xC3FuWT3rZ"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Te Metiste - En Vivo",
+      "url": "https://open.spotify.com/track/7vynqQ4OOv5dWCfGNOKsAu"
+    },
+    {
+      "album": {
+        "name": "DEL Records Presenta - En Vivo Desde La Finca El Cielo",
+        "url": "https://open.spotify.com/album/2qBC1y6a7ekCIxDN9Lf7tq"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        },
+        {
+          "name": "Jose Manuel",
+          "url": "https://open.spotify.com/artist/1rXOb9uSnt1qvPF44FTplr"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-13",
+      "duration_ms": 198048,
+      "name": "Te Metiste - En Vivo",
+      "url": "https://open.spotify.com/track/2kv7VeksDUQ7s3TmXtlSHf"
+    },
+    {
+      "album": {
+        "name": "Lo Raro de Mi Libreta",
+        "url": "https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        },
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209142,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/32ung15IIZshuPRQBs2yXX"
+    },
+    {
+      "album": {
+        "name": "Rancheritas Con Guitarras (En Vivo)",
+        "url": "https://open.spotify.com/album/1k5ZkRpfQdmmi8dje17FCw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 193110,
+      "name": "Tu Gab\u00e1n - En Vivo",
+      "url": "https://open.spotify.com/track/1IfNokpqpg4Nn2TUG4olD9"
+    },
+    {
+      "album": {
+        "name": "Canciones de Oro, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3aABuHHm5yN2SsSTIdupOw"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181796,
+      "name": "Tu Nuevo Cari\u00f1ito - En Vivo",
+      "url": "https://open.spotify.com/track/0maJBdkdjTjLEGjXqbncEo"
+    },
+    {
+      "album": {
+        "name": "Un D\u00eda 27",
+        "url": "https://open.spotify.com/album/3zqkIKpyXUSx3RVwZVS4GU"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191542,
+      "name": "Un D\u00eda 27",
+      "url": "https://open.spotify.com/track/4eIrTbHWJFt6t5biQOolnh"
+    },
+    {
+      "album": {
+        "name": "Ya No Recuerdo",
+        "url": "https://open.spotify.com/album/3heIkc37kxEfruon2P7eiQ"
+      },
+      "artists": [
+        {
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181510,
+      "name": "Ya No Recuerdo",
+      "url": "https://open.spotify.com/track/2UEXaEG7eV345Pi91OcWOu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZmELv"
 }

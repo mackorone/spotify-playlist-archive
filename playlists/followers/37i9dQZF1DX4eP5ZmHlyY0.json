@@ -1,41 +1,1711 @@
 {
-  "2023-11-24": 42786,
-  "2023-11-25": 42869,
-  "2023-11-26": 42902,
-  "2023-11-27": 42926,
-  "2023-11-28": 42939,
-  "2023-11-29": 42963,
-  "2023-11-30": 42963,
-  "2023-12-01": 42956,
-  "2023-12-02": 42961,
-  "2023-12-03": 42961,
-  "2023-12-04": 42981,
-  "2023-12-05": 42986,
-  "2023-12-06": 42998,
-  "2023-12-07": 43052,
-  "2023-12-08": 43071,
-  "2023-12-09": 43081,
-  "2023-12-10": 43078,
-  "2023-12-11": 43090,
-  "2023-12-12": 43092,
-  "2023-12-13": 43108,
-  "2023-12-14": 43126,
-  "2023-12-15": 43129,
-  "2023-12-16": 43131,
-  "2023-12-17": 43136,
-  "2023-12-18": 43144,
-  "2023-12-19": 43145,
-  "2023-12-20": 43150,
-  "2023-12-21": 43156,
-  "2023-12-22": 43158,
-  "2023-12-23": 43158,
-  "2023-12-24": 43162,
-  "2023-12-25": 43162,
-  "2023-12-26": 43163,
-  "2023-12-27": 43210,
-  "2023-12-30": 43232,
-  "2023-12-31": 43228,
-  "2024-01-01": 43223,
-  "2024-01-02": 43222,
-  "2024-01-03": 43243
+  "2024-01-17": 46725,
+  "date_first_scraped": "2023-11-24",
+  "description": "\u65e5\u672c\u3067\u6d3b\u8e8d\u3059\u308b\u30dc\u30fc\u30a4\u30ba\u30b0\u30eb\u30fc\u30d7\u3092\u7279\u96c6\u3002cover: JO1",
+  "name": "Boys Group Japan",
+  "tracks": [
+    {
+      "album": {
+        "name": "15\u5206",
+        "url": "https://open.spotify.com/album/75YVfifI9CEnG92jKPEr3j"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 264533,
+      "name": "15\u5206",
+      "url": "https://open.spotify.com/track/0vlxTcz1kjz6GjudTYl8Ye"
+    },
+    {
+      "album": {
+        "name": "Awakening Light",
+        "url": "https://open.spotify.com/album/3Kps4YJFy6c9njCQ9IMoU5"
+      },
+      "artists": [
+        {
+          "name": "J SOUL BROTHERS III",
+          "url": "https://open.spotify.com/artist/1g51NlHKUXlgfvGP22m0uD"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 211078,
+      "name": "Awakening Light",
+      "url": "https://open.spotify.com/track/3jOrPlMZacOQY4KFaJJlSl"
+    },
+    {
+      "album": {
+        "name": "Black Out (JO1 ver.)",
+        "url": "https://open.spotify.com/album/1ZckrYjluJwpYvRnX2jRSk"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203695,
+      "name": "Black Out (JO1 ver.)",
+      "url": "https://open.spotify.com/track/1o4Vt7q9MI7UueHETvJKrE"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/5ftyQK0K0vdQQVNmBwclCN"
+      },
+      "artists": [
+        {
+          "name": "BLVCKBERRY",
+          "url": "https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294272,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/3uG3PENb4Nc6VQH9LiFF6A"
+    },
+    {
+      "album": {
+        "name": "Bon Voyage",
+        "url": "https://open.spotify.com/album/7eZmGoLIs9KAN0BVDZ10TL"
+      },
+      "artists": [
+        {
+          "name": "BLVCKBERRY",
+          "url": "https://open.spotify.com/artist/2oOlkw512A8JGZJi2y5zqy"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 294272,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/6E2DnY89XkXIs3rFYyZF8k"
+    },
+    {
+      "album": {
+        "name": "Boom Boom Back",
+        "url": "https://open.spotify.com/album/6LVDreY2ztRLwqdkjcBjnd"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Boom Boom Back",
+      "url": "https://open.spotify.com/track/37xJCjdzJ17S1jCDz3GwsB"
+    },
+    {
+      "album": {
+        "name": "Social Path / Super Bowl -Japanese ver.-",
+        "url": "https://open.spotify.com/album/7xBMOCdTrdP3Y7rDBHp2AW"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 190706,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3Oi8I8awZsuJtSEOGHuOXf"
+    },
+    {
+      "album": {
+        "name": "Calendar",
+        "url": "https://open.spotify.com/album/4B6DzQsVrjXtZmxYUlJ9SE"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218800,
+      "name": "Calendar",
+      "url": "https://open.spotify.com/track/4A0QbCROQJ6AdGc9SGyzxu"
+    },
+    {
+      "album": {
+        "name": "Candy Kiss",
+        "url": "https://open.spotify.com/album/16NHuaRilxZNcZ8OdJD3pK"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199880,
+      "name": "Candy Kiss",
+      "url": "https://open.spotify.com/track/6xRRLIrxljDrTkPKrI97B1"
+    },
+    {
+      "album": {
+        "name": "Carnival",
+        "url": "https://open.spotify.com/album/1FHz66ulHiOaFPzAaV8S8q"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/7yryiCDpzRsYvzWAAIlbgQ"
+    },
+    {
+      "album": {
+        "name": "SiX",
+        "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248653,
+      "name": "CITRUS",
+      "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/4ZRuszFQ1iBgRrgsOoMKmz"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u308c\u3044\u3059",
+          "url": "https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 201899,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/1LQy1Fyid5ewuTgDb0MFJx"
+    },
+    {
+      "album": {
+        "name": "Clutch",
+        "url": "https://open.spotify.com/album/7a3bJzOr4Mq2B74YIXsoHO"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u308c\u3044\u3059",
+          "url": "https://open.spotify.com/artist/0mAjhSSPDLbVaBpSXGJDbu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 201899,
+      "name": "Clutch",
+      "url": "https://open.spotify.com/track/5JGhgaH8Cf0OsGJhmtgrNC"
+    },
+    {
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/50yJa8hh5iKiLnqpDkK4Dh"
+      },
+      "artists": [
+        {
+          "name": "OCTPATH",
+          "url": "https://open.spotify.com/artist/3RNZ3qV2S5PWCZLt69MDR7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213714,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4yl2H7Dh1ppXvZHFVDHkgA"
+    },
+    {
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/7fegzwJexmObtgCpqhI0vt"
+      },
+      "artists": [
+        {
+          "name": "XY",
+          "url": "https://open.spotify.com/artist/2MOWJsCM7TRwG7K7eIZzxC"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 302268,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/4PXjBiPCSYd5YwsvKutokh"
+    },
+    {
+      "album": {
+        "name": "CRUISIN'",
+        "url": "https://open.spotify.com/album/0BNzYtcvaEw8oD8SKp5OF8"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205555,
+      "name": "CRUISIN'",
+      "url": "https://open.spotify.com/track/4eYkFk3D1GCvk6sFTCpEq7"
+    },
+    {
+      "album": {
+        "name": "FANTASTIC ROCKET",
+        "url": "https://open.spotify.com/album/1lgDUdGBXBYYWS6MtyTFT6"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "date_added": "2023-12-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 191533,
+      "name": "DARK MATTER",
+      "url": "https://open.spotify.com/track/0JTMpgGCb3AYhFj5CT8C6V"
+    },
+    {
+      "album": {
+        "name": "Darlin\u2019",
+        "url": "https://open.spotify.com/album/7s0tExsJ0h3OWFEqfrsZIT"
+      },
+      "artists": [
+        {
+          "name": "DEEP",
+          "url": "https://open.spotify.com/artist/3uh7AvkWcUbrc7ZXR0MW4b"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Darlin\u2019",
+      "url": "https://open.spotify.com/track/7BHFfKeKQuY7XfYi2DjO9E"
+    },
+    {
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299606,
+      "name": "DEAR MY LOVER",
+      "url": "https://open.spotify.com/track/6zCa0mAKrk7w4p6lfUnOsS"
+    },
+    {
+      "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2"
+      },
+      "artists": [
+        {
+          "name": "GENERATIONS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206727,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw"
+    },
+    {
+      "album": {
+        "name": "DOMINO (JO1 ver.)",
+        "url": "https://open.spotify.com/album/6An9Xdk3z7317nbg66wVAs"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207985,
+      "name": "DOMINO (JO1 ver.)",
+      "url": "https://open.spotify.com/track/2rz0rsOMAqjJUUnRNwZET3"
+    },
+    {
+      "album": {
+        "name": "First Howling : NOW",
+        "url": "https://open.spotify.com/album/3Y4LfcFHqqewsQE2clXvlL"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178866,
+      "name": "Dropkick",
+      "url": "https://open.spotify.com/track/3epNFRifLGAHdsuLCsaVfE"
+    },
+    {
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/2raPbaN1bh2UWTGqgz8Gvl"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/79O9h4Q9w1X6w3tHTJSu8y"
+    },
+    {
+      "album": {
+        "name": "FIRE feat. SPRITE",
+        "url": "https://open.spotify.com/album/0zysbDsgljdkU8cW7RYoen"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "SPRITE",
+          "url": "https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231087,
+      "name": "FIRE feat. SPRITE",
+      "url": "https://open.spotify.com/track/2JS7GVyUaxLFFetF3YWfc8"
+    },
+    {
+      "album": {
+        "name": "First Howling : WE",
+        "url": "https://open.spotify.com/album/0ouqxqCo93ccmKOXhMz3RC"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "FIREWORK",
+      "url": "https://open.spotify.com/track/5FWZ9epRluqJTzOnsayeo2"
+    },
+    {
+      "album": {
+        "name": "FLY",
+        "url": "https://open.spotify.com/album/5NmGBpMFTTM63A5O5g1IM2"
+      },
+      "artists": [
+        {
+          "name": "MADKID",
+          "url": "https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/6lOhNJIzPKHfR0wmmxO8Vr"
+    },
+    {
+      "album": {
+        "name": "Freaking Happy",
+        "url": "https://open.spotify.com/album/19mziDAG9iXSpHdJrKgKYb"
+      },
+      "artists": [
+        {
+          "name": "ONE N' ONLY",
+          "url": "https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191079,
+      "name": "Freaking Happy",
+      "url": "https://open.spotify.com/track/1HDW9vo3mnVbkQ02FIGgbC"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/06IMFQkTogfHf8PUl9UPZa"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281426,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/2P7T4KMNrQ7mLXERZHhWYE"
+    },
+    {
+      "album": {
+        "name": "GOAT",
+        "url": "https://open.spotify.com/album/7FMZzj19H20lmScSIZvUFO"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "GOAT",
+      "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
+    },
+    {
+      "album": {
+        "name": "TAG ME",
+        "url": "https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203026,
+      "name": "HANA_\u82b1",
+      "url": "https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl"
+    },
+    {
+      "album": {
+        "name": "Hapidan",
+        "url": "https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 188666,
+      "name": "Hapidan",
+      "url": "https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc"
+    },
+    {
+      "album": {
+        "name": "HIDEOUT",
+        "url": "https://open.spotify.com/album/1nVuARtkfIuX55ZiVrlkJY"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179973,
+      "name": "HIDEOUT",
+      "url": "https://open.spotify.com/track/4baByqPPKuXqZqi4bim7Po"
+    },
+    {
+      "album": {
+        "name": "I don't care",
+        "url": "https://open.spotify.com/album/3N8AiWK07df0p8gwIuCy9Z"
+      },
+      "artists": [
+        {
+          "name": "WATWING",
+          "url": "https://open.spotify.com/artist/7hkQYkktyo9LEAE5aIwi6e"
+        }
+      ],
+      "date_added": "2023-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 173159,
+      "name": "I don't care",
+      "url": "https://open.spotify.com/track/6X0i1lqSjA3GYqaBGhZHNx"
+    },
+    {
+      "album": {
+        "name": "I Got It",
+        "url": "https://open.spotify.com/album/1OwQ3QCxyB8QwkSPzfo4sI"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200824,
+      "name": "I Got It",
+      "url": "https://open.spotify.com/track/5yHvX9AFnONMXwBhDGwJ5R"
+    },
+    {
+      "album": {
+        "name": "It\u2019s all good",
+        "url": "https://open.spotify.com/album/2oD3JIzBpBCdWmEGVfg2F0"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 250033,
+      "name": "It\u2019s all good",
+      "url": "https://open.spotify.com/track/5V6ZKHUuyo9TgpmzMgxV9R"
+    },
+    {
+      "album": {
+        "name": "JUST DANCE!",
+        "url": "https://open.spotify.com/album/5pNQWKfMgZXtN6rCXoFgLT"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 177407,
+      "name": "JUST DANCE!",
+      "url": "https://open.spotify.com/track/337dZo6Fo3hIq0iMANoZmS"
+    },
+    {
+      "album": {
+        "name": "Lesson \u2161",
+        "url": "https://open.spotify.com/album/05vnwKKGA1YDgzUijgJmGs"
+      },
+      "artists": [
+        {
+          "name": "Bullet Train",
+          "url": "https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204133,
+      "name": "Lesson \u2161",
+      "url": "https://open.spotify.com/track/5VAZjE3mpt7Y2Hi5L7YVmH"
+    },
+    {
+      "album": {
+        "name": "LEVEL UP",
+        "url": "https://open.spotify.com/album/2f9fjhTy7BTq9GsMgooacc"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154986,
+      "name": "LEVEL UP",
+      "url": "https://open.spotify.com/track/1Hmfd8Uql1SPOXupKJOR68"
+    },
+    {
+      "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207053,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/6twDMJoG8tzwL21LQ3EEtA"
+    },
+    {
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/2pYKmfCQONAyN8CV0EXyuI"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200053,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/5XduJ06XvyvI6iwiAvHaqu"
+    },
+    {
+      "album": {
+        "name": "MORNING SUN",
+        "url": "https://open.spotify.com/album/7fii6VfmYoLZAPLvvArvgh"
+      },
+      "artists": [
+        {
+          "name": "EXILE B HAPPY",
+          "url": "https://open.spotify.com/artist/5Vjo1ziwxQtYiup9JGlN9A"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220293,
+      "name": "MORNING SUN",
+      "url": "https://open.spotify.com/track/4BTc4b3BoVPoHKys65v8kQ"
+    },
+    {
+      "album": {
+        "name": "Moving Pieces",
+        "url": "https://open.spotify.com/album/4IeJCO4rFxksf0Wcxc0bmR"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 171000,
+      "name": "Moving Pieces",
+      "url": "https://open.spotify.com/track/7z5ntslVYEBFtunuEYA9e5"
+    },
+    {
+      "album": {
+        "name": "Museum:0",
+        "url": "https://open.spotify.com/album/5ZW0izZ8SaXSlUTSqrBS41"
+      },
+      "artists": [
+        {
+          "name": "\u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+          "url": "https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 201433,
+      "name": "Museum:0",
+      "url": "https://open.spotify.com/track/7iXhqF9wwmi2wi5F6fvx5G"
+    },
+    {
+      "album": {
+        "name": "N.E.X.T.",
+        "url": "https://open.spotify.com/album/3oF9aJrGYphxIZ2JYa6cHa"
+      },
+      "artists": [
+        {
+          "name": "BALLISTIK BOYZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o"
+        }
+      ],
+      "date_added": "2023-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287033,
+      "name": "N.E.X.T.",
+      "url": "https://open.spotify.com/track/345qiMdQHKT6V4S0AKK1TW"
+    },
+    {
+      "album": {
+        "name": "NANAKORO! (B.M.K Special Edition)",
+        "url": "https://open.spotify.com/album/37JfmhJs4VEsMyKICUkTBQ"
+      },
+      "artists": [
+        {
+          "name": "BMK",
+          "url": "https://open.spotify.com/artist/6iCVcgkf5Jv4rlcSAswaz6"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 212400,
+      "name": "NANAKORO!",
+      "url": "https://open.spotify.com/track/2gdcsqjx4y0ioJmu4o9B15"
+    },
+    {
+      "album": {
+        "name": "VOL ONE",
+        "url": "https://open.spotify.com/album/3c4NWHoiWcJLNBYJCnZKPB"
+      },
+      "artists": [
+        {
+          "name": "Ennui Boys Club",
+          "url": "https://open.spotify.com/artist/0OPl3KW0woHv7jrxHIGkbG"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217213,
+      "name": "NEW KIDZ",
+      "url": "https://open.spotify.com/track/2aMr20hmw6g8dbvNtzpbot"
+    },
+    {
+      "album": {
+        "name": "NEW STAR",
+        "url": "https://open.spotify.com/album/4VjojyAZQbfONf7bI1yBaw"
+      },
+      "artists": [
+        {
+          "name": "n.SSign",
+          "url": "https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 209826,
+      "name": "NEW STAR",
+      "url": "https://open.spotify.com/track/3DLmZAoUDu4SOo6YrUHrCj"
+    },
+    {
+      "album": {
+        "name": "NEW STAR",
+        "url": "https://open.spotify.com/album/4ohVAtGzJTQCIKJTMzGLAb"
+      },
+      "artists": [
+        {
+          "name": "n.SSign",
+          "url": "https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 209826,
+      "name": "NEW STAR",
+      "url": "https://open.spotify.com/track/4fGkb1BWnzrppNuGUeUSaZ"
+    },
+    {
+      "album": {
+        "name": "NEWSmile",
+        "url": "https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 201755,
+      "name": "NEWSmile",
+      "url": "https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ"
+    },
+    {
+      "album": {
+        "name": "First Flight (Special Edition)",
+        "url": "https://open.spotify.com/album/6bFZd12JlAzzSXGKJSmVcd"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213866,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/69u9PoISpJxSfL2bMkmyWA"
+    },
+    {
+      "album": {
+        "name": "Road to A",
+        "url": "https://open.spotify.com/album/4j5ZiAKLouJYnyLOAzyBRo"
+      },
+      "artists": [
+        {
+          "name": "Travis Japan",
+          "url": "https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213613,
+      "name": "Okie Dokie!",
+      "url": "https://open.spotify.com/track/58LIpK5Tj6lX9L6e3dOev1"
+    },
+    {
+      "album": {
+        "name": "Peppermint Yum",
+        "url": "https://open.spotify.com/album/16R9nHpSohQdu9oSbCUMxn"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        },
+        {
+          "name": "EPEX",
+          "url": "https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180906,
+      "name": "Peppermint Yum",
+      "url": "https://open.spotify.com/track/0KQ72rfmW02tMsipMs7xrU"
+    },
+    {
+      "album": {
+        "name": "PHOTOGENIC",
+        "url": "https://open.spotify.com/album/2K0VX8by8hTI9YEJZvsJpZ"
+      },
+      "artists": [
+        {
+          "name": "THE JET BOY BANGERZ from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/3fjFsQiDcaCYsbcnFz3Rhi"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222224,
+      "name": "PHOTOGENIC",
+      "url": "https://open.spotify.com/track/1KZZGKxtges95QLiiCQ1pU"
+    },
+    {
+      "album": {
+        "name": "\u5b58\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5qNH1s1LqjukHAapYmvlMF"
+      },
+      "artists": [
+        {
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "Purple Dawn",
+      "url": "https://open.spotify.com/track/0okC5ms3JHc4Gywlc1LGop"
+    },
+    {
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 201960,
+      "name": "Ready to Jump",
+      "url": "https://open.spotify.com/track/1pATsjibjLcbIZEYQjB11j"
+    },
+    {
+      "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/3O9KOYys6M3UjMJzyV30ll"
+      },
+      "artists": [
+        {
+          "name": "EXILE",
+          "url": "https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203105,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/7qqxXmYJxkWzDFyVisW5Cm"
+    },
+    {
+      "album": {
+        "name": "mirror",
+        "url": "https://open.spotify.com/album/4c7Xu0FHmZPfXgLAapJvPy"
+      },
+      "artists": [
+        {
+          "name": "SUPER\u2605DRAGON",
+          "url": "https://open.spotify.com/artist/2O86rYMEuvyrkOhyooK87W"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 208868,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/1iv9W7OAqcJcMpzy0s8vaT"
+    },
+    {
+      "album": {
+        "name": "Honey\uff08Selected Edition\uff09",
+        "url": "https://open.spotify.com/album/7igGKMIcjTirpS0JSkxN5L"
+      },
+      "artists": [
+        {
+          "name": "KAT-TUN",
+          "url": "https://open.spotify.com/artist/5HQAzIHOdemXR2DoevwhjT"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235621,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/7AaR3KHGWP4JKe5EgOyPkk"
+    },
+    {
+      "album": {
+        "name": "A (Special Edition)",
+        "url": "https://open.spotify.com/album/51NB4PIC5vgboVu6RaLoa2"
+      },
+      "artists": [
+        {
+          "name": "INI",
+          "url": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187600,
+      "name": "Rocketeer",
+      "url": "https://open.spotify.com/track/5ONAE8kbnpU9roroXScbcm"
+    },
+    {
+      "album": {
+        "name": "Sarracenia / Salvia",
+        "url": "https://open.spotify.com/album/4KO4Ul7zk5Rz2itJ5KKtyl"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 206480,
+      "name": "Salvia",
+      "url": "https://open.spotify.com/track/0bcTxNXi8c0IUY0PhNYItd"
+    },
+    {
+      "album": {
+        "name": "SHIBUYA PM6:00",
+        "url": "https://open.spotify.com/album/2ZhjbOHo3DbHnj7AdrWAov"
+      },
+      "artists": [
+        {
+          "name": "ICEx",
+          "url": "https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 230280,
+      "name": "SHIBUYA PM6:00",
+      "url": "https://open.spotify.com/track/5jGyoM0bymA1gXkuZSWCBN"
+    },
+    {
+      "album": {
+        "name": "SHORYU (\u2192\u2193\u2198\uff0bP)",
+        "url": "https://open.spotify.com/album/36of8h5UNm53gMLFAKWx8W"
+      },
+      "artists": [
+        {
+          "name": "\u9f8d\u5bae\u57ce",
+          "url": "https://open.spotify.com/artist/0xOawbTJb7VLKsaJGjpeCK"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186544,
+      "name": "SHORYU (\u2192\u2193\u2198\uff0bP)",
+      "url": "https://open.spotify.com/track/7HPxx65QOWaKi2O5tXMImn"
+    },
+    {
+      "album": {
+        "name": "SIN",
+        "url": "https://open.spotify.com/album/3W6jQO7l9BPGV2uhgr6l28"
+      },
+      "artists": [
+        {
+          "name": "MADKID",
+          "url": "https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224320,
+      "name": "SIN",
+      "url": "https://open.spotify.com/track/4uRh2YgZgcg7x2QsyllrbI"
+    },
+    {
+      "album": {
+        "name": "Smile Again",
+        "url": "https://open.spotify.com/album/7aIMR4kB87X92XrEzK6L6M"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202049,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/6EJDyT2T7pEeLLhNRR416r"
+    },
+    {
+      "album": {
+        "name": "Snowin\u2019",
+        "url": "https://open.spotify.com/album/7AHmQEtHOwdKGFvcHC9PPM"
+      },
+      "artists": [
+        {
+          "name": "DXTEEN",
+          "url": "https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR"
+        }
+      ],
+      "date_added": "2023-12-07",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-22",
+      "duration_ms": 205373,
+      "name": "Snowin'",
+      "url": "https://open.spotify.com/track/6gsWfx1d3KtV4Y8ecsLVfx"
+    },
+    {
+      "album": {
+        "name": "SOLDIER LOVE",
+        "url": "https://open.spotify.com/album/4Lobcm9cyOgxultYK6KlrE"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 230266,
+      "name": "SOLDIER LOVE",
+      "url": "https://open.spotify.com/track/2n69TX3YljuDvVo570pDXh"
+    },
+    {
+      "album": {
+        "name": "Mainstream",
+        "url": "https://open.spotify.com/album/7ixevog8Pu3jbd3VeZSK7j"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176120,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/3gahDIUGQT0Hlmf5zNN4ta"
+    },
+    {
+      "album": {
+        "name": "SPICE feat. F.HERO & BEAR KNUCKLE",
+        "url": "https://open.spotify.com/album/4OVmL13BgYxXgsH2ruGGNz"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        },
+        {
+          "name": "F.HERO",
+          "url": "https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ"
+        },
+        {
+          "name": "Bear Knuckle",
+          "url": "https://open.spotify.com/artist/2NebavOcCJEGrt0wFUjDnO"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241673,
+      "name": "SPICE feat. F.HERO & BEAR KNUCKLE",
+      "url": "https://open.spotify.com/track/3DBD5ycENXcDM3D86h7G5K"
+    },
+    {
+      "album": {
+        "name": "Stage of the Universe",
+        "url": "https://open.spotify.com/album/75LIHQCfDT4otXAhczkn9z"
+      },
+      "artists": [
+        {
+          "name": "EBiDAN (\u6075\u6bd4\u5bff\u5b66\u5712\u7537\u5b50\u90e8)",
+          "url": "https://open.spotify.com/artist/4jtwvvkDVrBZosFsvbSLXm"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 213429,
+      "name": "Stage of the Universe",
+      "url": "https://open.spotify.com/track/1fICTXN9i47EpvMKvVDILq"
+    },
+    {
+      "album": {
+        "name": "STARBOYS",
+        "url": "https://open.spotify.com/album/5Q33AkiYXkiY7wqRq2MmeY"
+      },
+      "artists": [
+        {
+          "name": "FANTASTICS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-06",
+      "duration_ms": 208500,
+      "name": "STARBOYS",
+      "url": "https://open.spotify.com/track/1t4pem876QGWXXaBKLktMR"
+    },
+    {
+      "album": {
+        "name": "Sugar Honey",
+        "url": "https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV"
+      },
+      "artists": [
+        {
+          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-26",
+      "duration_ms": 205733,
+      "name": "Sugar Honey",
+      "url": "https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U"
+    },
+    {
+      "album": {
+        "name": "SWITCHing",
+        "url": "https://open.spotify.com/album/6zYRDSWPlRRb1B0FQantp8"
+      },
+      "artists": [
+        {
+          "name": "IMP.",
+          "url": "https://open.spotify.com/artist/2ahbTOVqWJKyj6TUXqFcf1"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 185100,
+      "name": "SWITCHing",
+      "url": "https://open.spotify.com/track/0t6EeePFHmdIXdS4TBRqyk"
+    },
+    {
+      "album": {
+        "name": "Temperature (Prod. JP THE WAVY)",
+        "url": "https://open.spotify.com/album/7vGsOpaySuHwzja3LPHjfT"
+      },
+      "artists": [
+        {
+          "name": "PSYCHIC FEVER from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 186438,
+      "name": "Temperature (Prod. JP THE WAVY)",
+      "url": "https://open.spotify.com/track/6lLDeGs3dN0fsTYP24sJpp"
+    },
+    {
+      "album": {
+        "name": "THE SOUND",
+        "url": "https://open.spotify.com/album/6MZOLMj926Ee5L8SzFFeEE"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180733,
+      "name": "THE SOUND",
+      "url": "https://open.spotify.com/track/0q8bRAh9BktYFcsFfXOOWI"
+    },
+    {
+      "album": {
+        "name": "Under the skin",
+        "url": "https://open.spotify.com/album/0UVj9I0OG2Ti1QjHVRpO2K"
+      },
+      "artists": [
+        {
+          "name": "&TEAM",
+          "url": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-12",
+      "duration_ms": 191973,
+      "name": "Under the skin",
+      "url": "https://open.spotify.com/track/14OcSHjrsHoZBJHwaYefH7"
+    },
+    {
+      "album": {
+        "name": "EQUINOX (Special Edition)",
+        "url": "https://open.spotify.com/album/5a3C5LKYVvfZGNxfNuT5Qa"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 198320,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/5A6AfI5wfTAY7xnxu1PSUq"
+    },
+    {
+      "album": {
+        "name": "Vivid",
+        "url": "https://open.spotify.com/album/326p2F8FWYrvdoVgSjLDdB"
+      },
+      "artists": [
+        {
+          "name": "MAZZEL",
+          "url": "https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 204400,
+      "name": "Vivid",
+      "url": "https://open.spotify.com/track/3nXzWBaH6lhOksp1wu8hnL"
+    },
+    {
+      "album": {
+        "name": "What is done (feat. BOOM BOOM CASH)",
+        "url": "https://open.spotify.com/album/7DZpUkMThxkXuZBzb2rxTO"
+      },
+      "artists": [
+        {
+          "name": "THE RAMPAGE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW"
+        },
+        {
+          "name": "Boom Boom Cash",
+          "url": "https://open.spotify.com/artist/2Q6XC0dzJl7VbE678w82Vf"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 258750,
+      "name": "What is done - feat. BOOM BOOM CASH",
+      "url": "https://open.spotify.com/track/7CgAIw3V4wocPaH5Kt4a4K"
+    },
+    {
+      "album": {
+        "name": "Whatcha Gonna Do",
+        "url": "https://open.spotify.com/album/4CHSQQXvYFdtNgiN5gsLsL"
+      },
+      "artists": [
+        {
+          "name": "IVVY",
+          "url": "https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 218746,
+      "name": "Whatcha Gonna Do",
+      "url": "https://open.spotify.com/track/7xW477Puc2lltQKKYbihrw"
+    },
+    {
+      "album": {
+        "name": "WHITE SNOW",
+        "url": "https://open.spotify.com/album/3gApldsoKO741jMMS5B0WY"
+      },
+      "artists": [
+        {
+          "name": "IVVY",
+          "url": "https://open.spotify.com/artist/2vt1pSDdswpATBUN6lPMre"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-29",
+      "duration_ms": 245333,
+      "name": "WHITE SNOW",
+      "url": "https://open.spotify.com/track/7fUSOeRqyDSapxbZHxYBCG"
+    },
+    {
+      "album": {
+        "name": "beyond the GENERATIONS",
+        "url": "https://open.spotify.com/album/7rgGNHvz8NleF8pal7IL0X"
+      },
+      "artists": [
+        {
+          "name": "GENERATIONS from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 268000,
+      "name": "Winter Wish",
+      "url": "https://open.spotify.com/track/6CQOjnyaea8drGsMQs0tKy"
+    },
+    {
+      "album": {
+        "name": "Your Key",
+        "url": "https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208617,
+      "name": "Your Key",
+      "url": "https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH"
+    },
+    {
+      "album": {
+        "name": "P.U!",
+        "url": "https://open.spotify.com/album/63j2GyF1WGdRIxPuHbOmoU"
+      },
+      "artists": [
+        {
+          "name": "Hey! Say! JUMP",
+          "url": "https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0"
+        }
+      ],
+      "date_added": "2023-11-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 237440,
+      "name": "\u305d\u308c\u305e\u308c\u3002",
+      "url": "https://open.spotify.com/track/4IDv79DIXD5H0pimT4fL0m"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30aa\u30ab\u30df\u3068\u5f57\u661f",
+        "url": "https://open.spotify.com/album/5yKELJirAKvjSwJR3uwysm"
+      },
+      "artists": [
+        {
+          "name": "\u95a2\u30b8\u30e3\u30cb\u221e",
+          "url": "https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270564,
+      "name": "\u30aa\u30aa\u30ab\u30df\u3068\u5f57\u661f",
+      "url": "https://open.spotify.com/track/1A2J7Pccy4Ur0lwP0HYJaJ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30d6\u30e4 \u5348\u5f8c6\u6642",
+        "url": "https://open.spotify.com/album/67FCElXIveudgnyB5o908R"
+      },
+      "artists": [
+        {
+          "name": "ICEx",
+          "url": "https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 230280,
+      "name": "\u30b7\u30d6\u30e4 \u5348\u5f8c6\u6642",
+      "url": "https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc"
+    },
+    {
+      "album": {
+        "name": "\u30a4\u30de",
+        "url": "https://open.spotify.com/album/4jvQHJZWEBoYhFSsXTmPEP"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227662,
+      "name": "\u30b9\u30bf\u30fc\u30de\u30a4\u30f3",
+      "url": "https://open.spotify.com/track/0akvgdebTkERlRqNKJZuFy"
+    },
+    {
+      "album": {
+        "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30ea\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b"
+      },
+      "artists": [
+        {
+          "name": "\u539f\u56e0\u306f\u81ea\u5206\u306b\u3042\u308b\u3002",
+          "url": "https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183966,
+      "name": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30ea\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi"
+    },
+    {
+      "album": {
+        "name": "\u30ca\u30a4\u30e2\u30ce\u30cd\u30c0\u30ea",
+        "url": "https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 215690,
+      "name": "\u30ca\u30a4\u30e2\u30ce\u30cd\u30c0\u30ea",
+      "url": "https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30d4\u30c0\u30f3",
+        "url": "https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL"
+      },
+      "artists": [
+        {
+          "name": "M!LK",
+          "url": "https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 188666,
+      "name": "\u30cf\u30d4\u30c0\u30f3",
+      "url": "https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL"
+    },
+    {
+      "album": {
+        "name": "\u5b58\u5728\u8a3c\u660e",
+        "url": "https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK"
+      },
+      "artists": [
+        {
+          "name": "KID PHENOMENON from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "\u5b58\u5728\u8a3c\u660e",
+      "url": "https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O"
+    },
+    {
+      "album": {
+        "name": "\u6c88\u4e01\u82b1",
+        "url": "https://open.spotify.com/album/6oIaKTyZjmZS995rPf08jS"
+      },
+      "artists": [
+        {
+          "name": "DISH//",
+          "url": "https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 231609,
+      "name": "\u6c88\u4e01\u82b1",
+      "url": "https://open.spotify.com/track/79TdseXlAiANFOTstIwejv"
+    },
+    {
+      "album": {
+        "name": "DOZEN ROSES",
+        "url": "https://open.spotify.com/album/0ySLEnWBafEqbFuXaAwYTs"
+      },
+      "artists": [
+        {
+          "name": "SHO HENDRIX",
+          "url": "https://open.spotify.com/artist/2lHnlMAxMtNovGYneMhyQh"
+        },
+        {
+          "name": "B.I.G. JOE",
+          "url": "https://open.spotify.com/artist/6MmLC4AtBTepgbIEv9n0GH"
+        }
+      ],
+      "date_added": "2023-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-08",
+      "duration_ms": 227500,
+      "name": "\u7a7a\u3001\u51ac\u306e\u66d9 - feat. B.I.G.JOE",
+      "url": "https://open.spotify.com/track/5u24JFPjw0JruDhYOj0NwG"
+    },
+    {
+      "album": {
+        "name": "\u98db\u9f8d-FeiLong-",
+        "url": "https://open.spotify.com/album/4iuekehbseN4nIpu7eRZb3"
+      },
+      "artists": [
+        {
+          "name": "LIL LEAGUE from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 183000,
+      "name": "\u98db\u9f8d-FeiLong-",
+      "url": "https://open.spotify.com/track/3sE7WksvGo4r2gycSVQouZ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4eP5ZmHlyY0"
 }

@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: Shanice Green
 
-254 songs - 14 hr 48 min
+255 songs - 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Good Times](https://open.spotify.com/track/3jMYz9pMU8z6TE5xTtvlKY) | [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI) | [Good Times](https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx) | 3:14 | 2022-04-08 | 2023-11-06 |
 | [Grown Folks Love](https://open.spotify.com/track/60Bnlpj51IUFDK7Tcyinii) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E) | [Grown Folks Love](https://open.spotify.com/album/4IPV2zybll9xnQg8r1vx6J) | 2:48 | 2023-05-12 | 2023-11-11 |
 | [Hey Gringo](https://open.spotify.com/track/4aPeeN8IYOCMNBGI0p7169) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Surface Sounds](https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3) | 4:44 | 2021-04-23 | 2022-05-07 |
+| [Hill Country Love](https://open.spotify.com/track/0UPU7pocbCGSLol1h2T87L) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Hill Country Love](https://open.spotify.com/album/7MEKlnWzs60JzsxIvhxjon) | 3:04 | 2024-01-12 |  |
 | [Hits Like Lightning](https://open.spotify.com/track/2LqmcwGSsTg7D97UMr0u0s) | [Foreign Affairs](https://open.spotify.com/artist/3lKfbaqRTWrGrrjwNG4dqR) | [Hits Like Lightning](https://open.spotify.com/album/3OU9uPVaZH8WIXW2lCFd45) | 2:42 | 2022-04-08 |  |
 | [Hole in my Pocket](https://open.spotify.com/track/4oh43xqoxC717eB5JNZwt1) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Hole in my Pocket](https://open.spotify.com/album/27QYUwNoXfRVlLw7x8FOQ4) | 4:18 | 2023-02-13 |  |
 | [Horizons](https://open.spotify.com/track/11QOYYPPQoYKAlOYDs6Foy) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/48xIyVPW1JMDszgWRvA7YP) | 2:37 | 2021-03-26 | 2022-03-26 |

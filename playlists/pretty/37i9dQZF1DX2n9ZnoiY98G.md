@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n9ZnoiY98G.md) - [plain]
 
 > Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,590 likes - 43 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,998 likes - 43 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

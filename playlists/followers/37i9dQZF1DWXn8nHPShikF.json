@@ -1,15 +1,409 @@
 {
-  "2023-12-20": 54,
-  "2023-12-21": 142,
-  "2023-12-22": 230,
-  "2023-12-23": 300,
-  "2023-12-24": 374,
-  "2023-12-25": 452,
-  "2023-12-26": 516,
-  "2023-12-27": 601,
-  "2023-12-30": 6148,
-  "2023-12-31": 7861,
-  "2024-01-01": 9013,
-  "2024-01-02": 9119,
-  "2024-01-03": 9221
+  "2024-01-17": 10191,
+  "date_first_scraped": "2023-12-20",
+  "description": "Listen to the soundtracks of the Tell Me That You Love Me. (\uc0ac\ub791\ud55c\ub2e4\uace0 \ub9d0\ud574\uc918 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to songs selected by the cast. (\ucd9c\uc5f0\uc9c4\ub4e4\uc774 \uc9c1\uc811 \uc120\uc815\ud55c \ucd94\ucc9c\uace1\ub4e4\ub3c4 \ub4e4\uc5b4\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "\uc0ac\ub791\ud55c\ub2e4\uace0 \ub9d0\ud574\uc918 (Tell Me That You Love Me)",
+  "tracks": [
+    {
+      "album": {
+        "name": "The short memory you left",
+        "url": "https://open.spotify.com/album/4IW1PXgq9HyYsiuZ1TL9vr"
+      },
+      "artists": [
+        {
+          "name": "Kang Asol",
+          "url": "https://open.spotify.com/artist/16QTzUy1Yj7XeJv2jGMo79"
+        },
+        {
+          "name": "\uac15\uc544\uc194",
+          "url": "https://open.spotify.com/artist/4qd6aMgaD6f8W8r2yokcNS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246129,
+      "name": "Dear my love",
+      "url": "https://open.spotify.com/track/7edVJNzk7RyLdiD9fk7zUE"
+    },
+    {
+      "album": {
+        "name": "sleepless in __________",
+        "url": "https://open.spotify.com/album/7o6XSnYarIzPrpzvVivrcl"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205389,
+      "name": "Eternal Sunshine",
+      "url": "https://open.spotify.com/track/7JZJDEaq7KKPAhwrX5r9Ag"
+    },
+    {
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "for lovers who hesitate",
+      "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
+    },
+    {
+      "album": {
+        "name": "Unpredictable",
+        "url": "https://open.spotify.com/album/045D1HbNHv4R31D9vkL8Ve"
+      },
+      "artists": [
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7KW9gzcasU9csIItKSrcNj"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5LZhVXGgRCaygG8QXqoRLd"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226120,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3qoN7UqwxpfDLiFjmFQTDx"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 6 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5LZhVXGgRCaygG8QXqoRLd"
+      },
+      "artists": [
+        {
+          "name": "Dvwn",
+          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226106,
+      "name": "Island - Instrumental",
+      "url": "https://open.spotify.com/track/7FAXFYqgeBa1rYEtjFI6jK"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "Just because it\u2019s yours",
+      "url": "https://open.spotify.com/track/5AxP3BVFxHzmSS1gvEqWym"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/39SaxGK0sIerRDqhjaNIhK"
+      },
+      "artists": [
+        {
+          "name": "Mingginyu",
+          "url": "https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225573,
+      "name": "Just because it\u2019s yours - Instrumental",
+      "url": "https://open.spotify.com/track/7h2h0w9HIPPN08HykalsJT"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2MD7FKf7rliCqIvByheoBl"
+      },
+      "artists": [
+        {
+          "name": "Seo YoungJu of Nerd Connection",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255666,
+      "name": "Silent Ode to You",
+      "url": "https://open.spotify.com/track/69XM1o5AFSw1HKM3QnmxfD"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 5 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2MD7FKf7rliCqIvByheoBl"
+      },
+      "artists": [
+        {
+          "name": "Seo YoungJu of Nerd Connection",
+          "url": "https://open.spotify.com/artist/2wAZJqYREs9zwWv1X09DPr"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Silent Ode to You - Instrumental",
+      "url": "https://open.spotify.com/track/0qbMykLd8HA85tZqzfQNdx"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251466,
+      "name": "Sound of your heart",
+      "url": "https://open.spotify.com/track/3aC5bdpXLshTQQb7IiCuIR"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5fZKFbeHsppMiXKKJ5PmrX"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251453,
+      "name": "Sound of your heart - Instrumental",
+      "url": "https://open.spotify.com/track/6JjcVTdWhrQlTkDocb0hYR"
+    },
+    {
+      "album": {
+        "name": "Soulful",
+        "url": "https://open.spotify.com/album/47bXgGhWuf860hvtAHX1Vr"
+      },
+      "artists": [
+        {
+          "name": "Ruben Studdard",
+          "url": "https://open.spotify.com/artist/0H0yrKDty3I7pPrNUSH3wW"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253600,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/5cepRiM6K1yfrZ7zbfWisU"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "The Moment You Arrive",
+      "url": "https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 4 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250440,
+      "name": "The Moment You Arrive - Instrumental",
+      "url": "https://open.spotify.com/track/2D4HVYoP9wTcl6PDp3rKOv"
+    },
+    {
+      "album": {
+        "name": "In other words it\u2019s all made by Kyeongsuk",
+        "url": "https://open.spotify.com/album/18AkBzNpDCPsb0ryBJSbQS"
+      },
+      "artists": [
+        {
+          "name": "Lee Kang Seung \uc774\uac15\uc2b9",
+          "url": "https://open.spotify.com/artist/6l3XS49h2cvD2rcU4TaBTz"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "They're Gonna Say We're Right",
+      "url": "https://open.spotify.com/track/38uLSU8bZ4g1vrBl1KHHpg"
+    },
+    {
+      "album": {
+        "name": "A diary for me",
+        "url": "https://open.spotify.com/album/4mCg1CLKYrvDN5pHBZcMi1"
+      },
+      "artists": [
+        {
+          "name": "Jo SoJeong",
+          "url": "https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194452,
+      "name": "Think of you",
+      "url": "https://open.spotify.com/track/0Kqo9anVqMcBzteQuckTSG"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "try not to cry",
+      "url": "https://open.spotify.com/track/2OBjhcoVFNLwt3lcW8IJPb"
+    },
+    {
+      "album": {
+        "name": "Tell Me That You Love Me, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2tsokRNZin7HIUBQ8xyRmL"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267040,
+      "name": "try not to cry - Instrumental",
+      "url": "https://open.spotify.com/track/7M2UiVJvehmWQvV0zTxrz5"
+    },
+    {
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/5reaBV8ZAMTF68sD5M05Mc"
+      },
+      "artists": [
+        {
+          "name": "NELL",
+          "url": "https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224343,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/1i24CcFgh1yrBLdovext8h"
+    },
+    {
+      "album": {
+        "name": "\uac15\uc218\uc9c02\uc9d1",
+        "url": "https://open.spotify.com/album/3feEoOTRXGt3fm28rJrgfI"
+      },
+      "artists": [
+        {
+          "name": "\uac15\uc218\uc9c0",
+          "url": "https://open.spotify.com/artist/6yvfQfQ8CS9aXvGlyHEdoi"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223973,
+      "name": "\uc2dc\uac04\uc18d\uc758\ud5a5\uae30",
+      "url": "https://open.spotify.com/track/3aBkJjXgWGdvSEXNpVb11A"
+    },
+    {
+      "album": {
+        "name": "\uc232 Forest",
+        "url": "https://open.spotify.com/album/1VNPp3P1FRtolMoVUSEJQR"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2023-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260745,
+      "name": "\uc800 \ubcc4\uc740 \uc678\ub85c\uc6c0\uc758 \uc5bc\uad74 Letter From Home - Full Version",
+      "url": "https://open.spotify.com/track/6kWMLnTJYMI2MKHP1aX5yg"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWXn8nHPShikF"
 }

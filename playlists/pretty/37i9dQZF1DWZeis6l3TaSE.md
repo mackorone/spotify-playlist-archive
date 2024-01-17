@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeis6l3TaSE.md) - [plain]
 
 > Seize the day...Maybe? Listen to the music from and inspired by Everything Now, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,312 likes - 83 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,461 likes - 83 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 21798,
+  "num_followers": 21942,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 300466,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Crawfish Fiesta (Remastered with Bonus Track)",
         "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 194666,
       "name": "Big Chief - Remastered",
       "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 300466,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1KQEzCaNkk8ioBMbBeSYLw"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -107,38 +107,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cold Snap (Remastered)",
-        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 247400,
-      "name": "I Ain't Drunk - Remastered",
-      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "The Earthshaker",
-        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "I'm A Woman",
-      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "3rd Degree (Remastered)",
         "url": "https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ"
       },
@@ -175,24 +143,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Blowin' Like Hell",
-        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
-      },
-      "artists": [
-        {
-          "name": "William Clarke",
-          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
-        }
-      ],
-      "duration_ms": 345666,
-      "name": "Lonesome Bedroom Blues",
-      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Cold Snap (Remastered)",
+        "url": "https://open.spotify.com/album/4yybDfoKxyAey83ruCtTb9"
       },
       "artists": [
         {
@@ -200,9 +152,25 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 268160,
-      "name": "Honey, Hush aka Talking Woman Blues",
-      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
+      "duration_ms": 247400,
+      "name": "I Ain't Drunk - Remastered",
+      "url": "https://open.spotify.com/track/1pPrO5Lcx9UXNebcloGeHE"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "The Earthshaker",
+        "url": "https://open.spotify.com/album/5bKSBUNWbszdKyzNwXt0nq"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "I'm A Woman",
+      "url": "https://open.spotify.com/track/0HDVrhFUpCvPpTntHeqnxT"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -219,6 +187,22 @@
       "duration_ms": 219066,
       "name": "Wild About You, Baby",
       "url": "https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Blowin' Like Hell",
+        "url": "https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp"
+      },
+      "artists": [
+        {
+          "name": "William Clarke",
+          "url": "https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke"
+        }
+      ],
+      "duration_ms": 345666,
+      "name": "Lonesome Bedroom Blues",
+      "url": "https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -275,24 +259,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Genuine Houserocking Music",
-        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 157506,
-      "name": "Phillips Goes Bananas",
-      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Frostbite",
-        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
@@ -300,9 +268,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 248400,
-      "name": "If You Love Me Like You Say",
-      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
+      "duration_ms": 268160,
+      "name": "Honey, Hush aka Talking Woman Blues",
+      "url": "https://open.spotify.com/track/5qPJSWhuZpD79C3CloJvDA"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -323,6 +291,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Genuine Houserocking Music",
+        "url": "https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Phillips Goes Bananas",
+      "url": "https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Winning Hand",
         "url": "https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA"
       },
@@ -339,22 +323,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "West Side Strut",
-        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
-      },
-      "artists": [
-        {
-          "name": "Eddy Clearwater",
-          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
-        }
-      ],
-      "duration_ms": 280440,
-      "name": "Gotta Move On",
-      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "The Son Seals Blues Band",
         "url": "https://open.spotify.com/album/3ACD9YTEsWKEk34nwioHke"
       },
@@ -367,6 +335,22 @@
       "duration_ms": 276000,
       "name": "Your Love Is Like A Cancer",
       "url": "https://open.spotify.com/track/6zl81YN27QExitw4AZUDy1"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "West Side Strut",
+        "url": "https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k"
+      },
+      "artists": [
+        {
+          "name": "Eddy Clearwater",
+          "url": "https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS"
+        }
+      ],
+      "duration_ms": 280440,
+      "name": "Gotta Move On",
+      "url": "https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -415,8 +399,28 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Ice Pickin'",
-        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
+        "name": "Roots And Branches - The Songs Of Little Walter",
+        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
+      },
+      "artists": [
+        {
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+        },
+        {
+          "name": "Billy Branch & The Sons of Blues",
+          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Frostbite",
+        "url": "https://open.spotify.com/album/7C64occ2ChtDhSH5Wsj8mV"
       },
       "artists": [
         {
@@ -424,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 188840,
-      "name": "Ice Pick",
-      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
+      "duration_ms": 248400,
+      "name": "If You Love Me Like You Say",
+      "url": "https://open.spotify.com/track/0t3BTxJpdQnnS52cz0ciw9"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -463,46 +467,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Roots And Branches - The Songs Of Little Walter",
-        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
-      },
-      "artists": [
-        {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
-        },
-        {
-          "name": "Billy Branch & The Sons of Blues",
-          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Meet Me In Bluesland",
         "url": "https://open.spotify.com/album/6AOvEQvCDRMkymHKKOn0ZS"
       },
@@ -523,8 +487,8 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Force Of Nature",
-        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
+        "name": "From The Heart Of A Woman",
+        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
       },
       "artists": [
         {
@@ -532,9 +496,9 @@
           "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 369733,
-      "name": "Let The Juke Joint Jump",
-      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
+      "duration_ms": 201626,
+      "name": "Never Trust A Man",
+      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -571,6 +535,26 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Natural Boogie (Remastered)",
         "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
       },
@@ -603,54 +587,34 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Ice Pickin'",
+        "url": "https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
+      "duration_ms": 188840,
+      "name": "Ice Pick",
+      "url": "https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr"
     },
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Wicked",
-        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+        "name": "Force Of Nature",
+        "url": "https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN"
       },
       "artists": [
         {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 308093,
-      "name": "The Fool You're Looking For",
-      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Serious Business",
-        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
-      },
-      "artists": [
-        {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        }
-      ],
-      "duration_ms": 221293,
-      "name": "Master Mechanic",
-      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
+      "duration_ms": 369733,
+      "name": "Let The Juke Joint Jump",
+      "url": "https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -671,22 +635,6 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "From The Heart Of A Woman",
-        "url": "https://open.spotify.com/album/5o48YTSOnQu5UrC8HEuj9h"
-      },
-      "artists": [
-        {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Never Trust A Man",
-      "url": "https://open.spotify.com/track/1v8XplbAAZVasV2B56B6Po"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
         "name": "Alligator Records 45th Anniversary Collection",
         "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
       },
@@ -699,6 +647,58 @@
       "duration_ms": 254080,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Wicked",
+        "url": "https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 308093,
+      "name": "The Fool You're Looking For",
+      "url": "https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Serious Business",
+        "url": "https://open.spotify.com/album/30XtgsTePORy5sbslFewYU"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "duration_ms": 221293,
+      "name": "Master Mechanic",
+      "url": "https://open.spotify.com/track/4165vsiricmCuE4eKeuZ4v"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -719,18 +719,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Live From Chicago - Mr. Superharp Himself!",
-        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
+        "name": "Queen Of The Blues",
+        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
         }
       ],
-      "duration_ms": 186826,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
+      "duration_ms": 232533,
+      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
+      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Queen Of The Blues",
-        "url": "https://open.spotify.com/album/0GXwSbl0Q1cZDHL1EIE2oa"
+        "name": "Live From Chicago - Mr. Superharp Himself!",
+        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
       },
       "artists": [
         {
-          "name": "Koko Taylor",
-          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 232533,
-      "name": "I Can Love You Like A Woman (Or I Can Fight You Like A Man)",
-      "url": "https://open.spotify.com/track/2OAFshgrBDMtr2IsOVEpdu"
+      "duration_ms": 186826,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
     },
     {
       "added_at": "2023-05-17 15:52:13",

@@ -4,7 +4,7 @@
 
 > For your lounge room DF!
 
-102 songs - 5 hr 27 min
+103 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Dreams \- Alex Ross Remix](https://open.spotify.com/track/5Upnghd53yVhWfZutscuff) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Reigan](https://open.spotify.com/artist/1LLc1LysYwIKPmcDVfrdMn), [Alex Ross](https://open.spotify.com/artist/5pK858DFAWCmE2tM4jZxYC) | [Dreams \(Remixes\)](https://open.spotify.com/album/3UaCiFi6DvebreEbWuOQkk) | 3:10 | 2023-11-30 |  |
 | [Drinkin'](https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Drinkin'](https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI) | 2:29 | 2023-11-30 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-11-30 |  |
-| [edamame](https://open.spotify.com/track/5Ly9QJ7BaFLoXyr9ChY6Dv) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame](https://open.spotify.com/album/1SLuIUtFpVOVkHSa6hCaJh) | 2:13 | 2023-11-30 |  |
+| [edamame](https://open.spotify.com/track/5L2R2zASCgsxfYaeszNXbL) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame](https://open.spotify.com/album/41ZqskoXGUNcDXR0oScJLB) | 2:13 | 2023-11-30 |  |
+| [edamame](https://open.spotify.com/track/5Ly9QJ7BaFLoXyr9ChY6Dv) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [edamame](https://open.spotify.com/album/1SLuIUtFpVOVkHSa6hCaJh) | 2:13 | 2023-11-30 | 2024-01-10 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2023-11-30 |  |
 | [Faded](https://open.spotify.com/track/2GQEM9JuHu30sGFvRYeCxz) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 3:43 | 2023-11-30 |  |
 | [Family Affair \(Dance For Me\)](https://open.spotify.com/track/1dP519dbEob8H6wiouRdaY) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Family Affair \(Dance For Me\)](https://open.spotify.com/album/4Od76Fafa1rc89D7yLBfVH) | 2:38 | 2023-11-30 |  |

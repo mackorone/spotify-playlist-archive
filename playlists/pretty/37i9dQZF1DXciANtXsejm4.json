@@ -1,12 +1,12 @@
 {
   "description": "El ritmo cumbiero que te mueve el coraz\u00f3n. \nFoto: Leo Mattioli.",
-  "num_followers": 222293,
+  "num_followers": 225429,
   "original_name": "Cumbia Santafesina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMTdiNGM0Y2EyZGMyMzY0NDUzYzhkMTgyMTBmY2MxMjFhNWVkYzUw",
+  "snapshot_id": "MCw4ZTk4ZmE4N2NlNjVhNDZiZjJmMGM3YzI5OTk4ZDVlNTAxZTAzY2Y4",
   "tracks": [
     {
       "added_at": "2023-12-15 03:00:00",
@@ -107,38 +107,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
-      },
-      "artists": [
-        {
-          "name": "Los Cadiz",
-          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
-        }
-      ],
-      "duration_ms": 235546,
-      "name": "Tu Sombra en Mi",
-      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/1ImMS3S0iBaIUaywigSdP0"
-      },
-      "artists": [
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
-        }
-      ],
-      "duration_ms": 373524,
-      "name": "Tu Historia Entre Mis Dedos",
-      "url": "https://open.spotify.com/track/7brrxU81kUxofswjjUjO1B"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Vol\u00f3 la Paloma",
         "url": "https://open.spotify.com/album/3CVPHYjfA1obSJsehR7C03"
       },
@@ -159,8 +127,8 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Solo (Amistad... o Nada!!!)",
-        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/1ImMS3S0iBaIUaywigSdP0"
       },
       "artists": [
         {
@@ -168,9 +136,9 @@
           "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 196414,
-      "name": "Voy a Olvidarme de M\u00ed",
-      "url": "https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0"
+      "duration_ms": 373524,
+      "name": "Tu Historia Entre Mis Dedos",
+      "url": "https://open.spotify.com/track/7brrxU81kUxofswjjUjO1B"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -195,18 +163,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Un Cuerpo Sin Alma",
-        "url": "https://open.spotify.com/album/5b06RhnRMDf3AS47EQHQqE"
+        "name": "Solo (Amistad... o Nada!!!)",
+        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
       },
       "artists": [
         {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
         }
       ],
-      "duration_ms": 143813,
-      "name": "Te Perdon\u00e9 Tantas Veces",
-      "url": "https://open.spotify.com/track/4Bf8V2MnpMxeAolcT54b7H"
+      "duration_ms": 196414,
+      "name": "Voy a Olvidarme de M\u00ed",
+      "url": "https://open.spotify.com/track/5culmYJR6bdgdY1w4HRYt0"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -227,6 +195,38 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Un Cuerpo Sin Alma",
+        "url": "https://open.spotify.com/album/5b06RhnRMDf3AS47EQHQqE"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 143813,
+      "name": "Te Perdon\u00e9 Tantas Veces",
+      "url": "https://open.spotify.com/track/4Bf8V2MnpMxeAolcT54b7H"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag"
+      },
+      "artists": [
+        {
+          "name": "Los Cadiz",
+          "url": "https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig"
+        }
+      ],
+      "duration_ms": 235546,
+      "name": "Tu Sombra en Mi",
+      "url": "https://open.spotify.com/track/2BhEyKkEq5zWb8hWBbBPjW"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
         "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
@@ -243,18 +243,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Solo (Amistad... o Nada!!!)",
-        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+        "name": "Tiempo De Bailar",
+        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
       },
       "artists": [
         {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 205740,
-      "name": "C\u00f3mo Pude Amarla",
-      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
+      "duration_ms": 169250,
+      "name": "La Cola",
+      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
     },
     {
       "added_at": "2023-12-22 12:23:05",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Tiempo De Bailar",
-        "url": "https://open.spotify.com/album/07DvHBaC1nFRiVtwW9vaCM"
+        "name": "Un Homenaje al Cielo",
+        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 169250,
-      "name": "La Cola",
-      "url": "https://open.spotify.com/track/45W2wFalCHxcTtrWuH60Ii"
+      "duration_ms": 201666,
+      "name": "Despu\u00e9s de Ti",
+      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -339,22 +339,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Un Homenaje al Cielo",
-        "url": "https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 201666,
-      "name": "Despu\u00e9s de Ti",
-      "url": "https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Solo un Momento",
         "url": "https://open.spotify.com/album/3bVeCAJzTzkQIDRnjosSUG"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 204669,
       "name": "Dej\u00e9moslo As\u00ed",
       "url": "https://open.spotify.com/track/5tjst7DmSA9UXWncROr3oc"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Solo (Amistad... o Nada!!!)",
+        "url": "https://open.spotify.com/album/5tkOEPqwtHCsxfm6VnD7gv"
+      },
+      "artists": [
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 205740,
+      "name": "C\u00f3mo Pude Amarla",
+      "url": "https://open.spotify.com/track/0Le0iRaJHumW9uSHpbDJrW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Otra Como Tu",
-        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+        "name": "Para Toda La Vida",
+        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "La contr\u00e0",
+          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+      "duration_ms": 227857,
+      "name": "Entre t\u00fa y mil mares",
+      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -427,38 +427,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Baila Santa Fe",
-        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
-      },
-      "artists": [
-        {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
-        }
-      ],
-      "duration_ms": 189911,
-      "name": "Mal Amor",
-      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Para Toda La Vida",
-        "url": "https://open.spotify.com/album/25bzZeH69TvnFcgV4JPKGr"
-      },
-      "artists": [
-        {
-          "name": "La contr\u00e0",
-          "url": "https://open.spotify.com/artist/4mG70wQ5qWBs9GogyP7WuM"
-        }
-      ],
-      "duration_ms": 227857,
-      "name": "Entre t\u00fa y mil mares",
-      "url": "https://open.spotify.com/track/5l4vFZvA9YpHNPWfQJEoo0"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Soy Sabalero",
         "url": "https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W"
       },
@@ -471,6 +439,54 @@
       "duration_ms": 179583,
       "name": "Soy Sabalero",
       "url": "https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Otra Como Tu",
+        "url": "https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 220618,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Lo Mejor del Le\u00f3n",
+        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 80880,
+      "name": "Qu\u00e9date Tranquila",
+      "url": "https://open.spotify.com/track/0fbhMix3hzu5L4XoOHU8rM"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Baila Santa Fe",
+        "url": "https://open.spotify.com/album/0RUvlrD7zsXmEr69VRg1CU"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 189911,
+      "name": "Mal Amor",
+      "url": "https://open.spotify.com/track/0S7HkobUN0HrvaHZaQsmE5"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -511,8 +527,40 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Lo Mejor del Le\u00f3n",
-        "url": "https://open.spotify.com/album/2whwckDILym1HJqJAH971i"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
+      },
+      "artists": [
+        {
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
+        }
+      ],
+      "duration_ms": 207957,
+      "name": "Que Ser\u00e1 de Ti",
+      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
+      },
+      "artists": [
+        {
+          "name": "Mario Pereyra y Su Banda",
+          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
+        }
+      ],
+      "duration_ms": 137786,
+      "name": "Hasta el Sol de Hoy (En Vivo)",
+      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/6JrMR7QudBMGYJ0zIrSFB6"
       },
       "artists": [
         {
@@ -520,9 +568,9 @@
           "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 80880,
-      "name": "Qu\u00e9date Tranquila",
-      "url": "https://open.spotify.com/track/0fbhMix3hzu5L4XoOHU8rM"
+      "duration_ms": 236066,
+      "name": "Tan S\u00f3lo Amantes",
+      "url": "https://open.spotify.com/track/2pMwrVusXakXwm0yE6O4zP"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -559,22 +607,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "El Aguante Contin\u00faa...En Concierto (En Vivo)",
-        "url": "https://open.spotify.com/album/7f4w3g6dY0MSm557kPNW0a"
-      },
-      "artists": [
-        {
-          "name": "Mario Pereyra y Su Banda",
-          "url": "https://open.spotify.com/artist/6xihzJv7xtLyRc420HlM0y"
-        }
-      ],
-      "duration_ms": 137786,
-      "name": "Hasta el Sol de Hoy (En Vivo)",
-      "url": "https://open.spotify.com/track/6BbXZba7DJhKqgk6F1Dswy"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "A partir de hoy",
         "url": "https://open.spotify.com/album/3COzpskhC6ZoWYzNiW5oBI"
       },
@@ -587,38 +619,6 @@
       "duration_ms": 220773,
       "name": "Si fuera facil",
       "url": "https://open.spotify.com/track/7sQ8I72tbcO6fkEnM1Mu3D"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/0WRzqpPDkBFFBbYiqBTCmf"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 207957,
-      "name": "Que Ser\u00e1 de Ti",
-      "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Marca Registrada",
-        "url": "https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz"
-      },
-      "artists": [
-        {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
-        }
-      ],
-      "duration_ms": 188839,
-      "name": "Piropo",
-      "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "En Directo - Piel Con Piel",
-        "url": "https://open.spotify.com/album/6zS1zCxRWNCfveygLzBxEx"
+        "name": "Por Amor A La M\u00fasica",
+        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
       },
       "artists": [
         {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+          "name": "Dalila",
+          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
         }
       ],
-      "duration_ms": 97466,
-      "name": "Conmigo te gust\u00f3",
-      "url": "https://open.spotify.com/track/0CFwkkkptN9vucCGjtMsaZ"
+      "duration_ms": 201066,
+      "name": "Y Que De M\u00ed",
+      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -671,6 +671,54 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Marca Registrada",
+        "url": "https://open.spotify.com/album/2fUaaq8T22CMfqzH2Jz4Tz"
+      },
+      "artists": [
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        }
+      ],
+      "duration_ms": 188839,
+      "name": "Piropo",
+      "url": "https://open.spotify.com/track/5PYoEMtC7VN0HyKcS7heT4"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+      },
+      "artists": [
+        {
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+        }
+      ],
+      "duration_ms": 245968,
+      "name": "Dios Me Libre",
+      "url": "https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "S\u00f3lo Dios Puede Juzgarme",
+        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "El Chancho Come Caviar",
+      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -683,6 +731,22 @@
       "duration_ms": 181946,
       "name": "El Hospicio",
       "url": "https://open.spotify.com/track/4I17shszGarI3lEcneeEEK"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
+        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
+      },
+      "artists": [
+        {
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "Tu Mujer En Mi Cama",
+      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -707,102 +771,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
-      },
-      "artists": [
-        {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
-        }
-      ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Por Amor A La M\u00fasica",
-        "url": "https://open.spotify.com/album/50Kj1z2Vapl5iSaBQyV7HW"
-      },
-      "artists": [
-        {
-          "name": "Dalila",
-          "url": "https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Y Que De M\u00ed",
-      "url": "https://open.spotify.com/track/5XCbEXvT1fZlycw8SlU2ci"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "S\u00f3lo Dios Puede Juzgarme",
-        "url": "https://open.spotify.com/album/59H5u5QOocFXVka9bSif3h"
-      },
-      "artists": [
-        {
-          "name": "Uriel Lozano",
-          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
-        }
-      ],
-      "duration_ms": 155360,
-      "name": "El Chancho Come Caviar",
-      "url": "https://open.spotify.com/track/7A0WZELK73UK7CMvDUbdQ1"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 245968,
-      "name": "Dios Me Libre",
-      "url": "https://open.spotify.com/track/03d6otdre4G9uC2IOTV5MV"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "M\u00e1s Rom\u00e1nticos Que Nunca",
-        "url": "https://open.spotify.com/album/2HU7nRIB9MrVxWY6c9t01M"
-      },
-      "artists": [
-        {
-          "name": "Grupo Trinidad",
-          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "Tu Mujer En Mi Cama",
-      "url": "https://open.spotify.com/track/44uuHaGX9LpQ8PjpdvXLVM"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "No se va",
-        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 258937,
-      "name": "No se va",
-      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Te Llevas Mi Vida",
         "url": "https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR"
       },
@@ -819,6 +787,22 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "En Una de Esas",
         "url": "https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5"
       },
@@ -831,6 +815,38 @@
       "duration_ms": 197474,
       "name": "En Una de Esas",
       "url": "https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Placer y Olvido",
+        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 233429,
+      "name": "Placer y Olvido",
+      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Hay Contra para Rato",
+        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
+      },
+      "artists": [
+        {
+          "name": "La Contra",
+          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
+        }
+      ],
+      "duration_ms": 245877,
+      "name": "Otro D\u00eda M\u00e1s Sin Verte",
+      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -855,22 +871,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Hay Contra para Rato",
-        "url": "https://open.spotify.com/album/23XhXhLqM7fyEbPZWUaEzf"
-      },
-      "artists": [
-        {
-          "name": "La Contra",
-          "url": "https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK"
-        }
-      ],
-      "duration_ms": 245877,
-      "name": "Otro D\u00eda M\u00e1s Sin Verte",
-      "url": "https://open.spotify.com/track/74RN9vr5Wx3R6d3vkSZ3vH"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Identidad",
         "url": "https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05"
       },
@@ -887,38 +887,6 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mi \u00danica Alegr\u00eda",
-        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
-      },
-      "artists": [
-        {
-          "name": "Kaniche",
-          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "Hum\u00edllate",
-      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Placer y Olvido",
-        "url": "https://open.spotify.com/album/3KI5DtLen1YhOUfi2MdJRm"
-      },
-      "artists": [
-        {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
-        }
-      ],
-      "duration_ms": 233429,
-      "name": "Placer y Olvido",
-      "url": "https://open.spotify.com/track/5R4Lbt2Y8MIR1SZ0z8nZvw"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
         "name": "Simplemente Nag\u00fcel",
         "url": "https://open.spotify.com/album/2MES3DwHFmsblVObLyLlRh"
       },
@@ -931,6 +899,38 @@
       "duration_ms": 181680,
       "name": "Te So\u00f1\u00e9 una Vez",
       "url": "https://open.spotify.com/track/1blhnIXhg3Bpt2qzVVxPRD"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "No se va",
+        "url": "https://open.spotify.com/album/63V74xuPVLpdnvo2PYWvb0"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 258937,
+      "name": "No se va",
+      "url": "https://open.spotify.com/track/26PMjLpk76BS1bCKAfz4iG"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Mi \u00danica Alegr\u00eda",
+        "url": "https://open.spotify.com/album/5HrwyfJMLulEGxgV5rIMkT"
+      },
+      "artists": [
+        {
+          "name": "Kaniche",
+          "url": "https://open.spotify.com/artist/7vnM4YuUSEpsH03GI0FCRk"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "Hum\u00edllate",
+      "url": "https://open.spotify.com/track/3waF7QuxEZFzflQR7ax0Xc"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1055,54 +1055,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
-        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
+        "name": "Exitos de oro",
+        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
       },
       "artists": [
         {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
+          "name": "Los Leales",
+          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
         }
       ],
-      "duration_ms": 237949,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Todo a Su Tiempo (En Vivo)",
-        "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
-      },
-      "artists": [
-        {
-          "name": "Sergio Torres",
-          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
-        },
-        {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
-        }
-      ],
-      "duration_ms": 255465,
-      "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
-      "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "C\u00f3mo Le Gusta A Mi Gente",
-        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
-      },
-      "artists": [
-        {
-          "name": "Coty",
-          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Que Precio Tiene El Cielo",
-      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+      "duration_ms": 176786,
+      "name": "Un Velero Llamado Libertad",
+      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1127,34 +1091,54 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Mensajes del Corazon",
-        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
+        "name": "Ritmo, Pasi\u00f3n y Sentimiento",
+        "url": "https://open.spotify.com/album/5KdtrnxsZAuCG5G1SgOKZd"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Miguel Angel",
+          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
         }
       ],
-      "duration_ms": 262803,
-      "name": "Flor P\u00e1lida",
-      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
+      "duration_ms": 237949,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/3JJ4EbtksjusXazGkbMUE9"
     },
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Exitos de oro",
-        "url": "https://open.spotify.com/album/4SY5abPA0owDzgSlhDxCkf"
+        "name": "C\u00f3mo Le Gusta A Mi Gente",
+        "url": "https://open.spotify.com/album/3DTqYBYOIkV3lq14dJDckg"
       },
       "artists": [
         {
-          "name": "Los Leales",
-          "url": "https://open.spotify.com/artist/4MZwXbwveoO6NyBAZPbYZv"
+          "name": "Coty",
+          "url": "https://open.spotify.com/artist/7v8veUQH2fro2QjkOKS7vB"
         }
       ],
-      "duration_ms": 176786,
-      "name": "Un Velero Llamado Libertad",
-      "url": "https://open.spotify.com/track/6KHBf0ZrN0y5T6mlxuTbRW"
+      "duration_ms": 253800,
+      "name": "Que Precio Tiene El Cielo",
+      "url": "https://open.spotify.com/track/4p7WDW0Mh0GmDSmqF8e4wi"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Todo a Su Tiempo (En Vivo)",
+        "url": "https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl"
+      },
+      "artists": [
+        {
+          "name": "Sergio Torres",
+          "url": "https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg"
+        },
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 255465,
+      "name": "Me Dediqu\u00e9 a Perderte - En Vivo",
+      "url": "https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Rico y Suave",
-        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+        "name": "Inconfundibles",
+        "url": "https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS"
       },
       "artists": [
         {
-          "name": "La Groupera",
-          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+          "name": "El Combo 10",
+          "url": "https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf"
         }
       ],
-      "duration_ms": 218830,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+      "duration_ms": 211408,
+      "name": "H\u00e1blame de Ti",
+      "url": "https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1207,34 +1191,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Juntando Las Almas",
-        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
+        "name": "Mensajes del Corazon",
+        "url": "https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW"
       },
       "artists": [
         {
-          "name": "Leo Mattioli y Trinidad",
-          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
         }
       ],
-      "duration_ms": 200386,
-      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
-      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Inconfundibles",
-        "url": "https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS"
-      },
-      "artists": [
-        {
-          "name": "El Combo 10",
-          "url": "https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "H\u00e1blame de Ti",
-      "url": "https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2"
+      "duration_ms": 262803,
+      "name": "Flor P\u00e1lida",
+      "url": "https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1275,6 +1243,54 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
+        "name": "Juntando Las Almas",
+        "url": "https://open.spotify.com/album/5sbfEnlkljlsbgW04Dr9To"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli y Trinidad",
+          "url": "https://open.spotify.com/artist/1Kdqfub5UFyQM8DP9ie1gH"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Enganchados 2 (Contigo me gusta / No me acostumbro)",
+      "url": "https://open.spotify.com/track/5YOF7OshUzsTYSayUZoHG4"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Rico y Suave",
+        "url": "https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP"
+      },
+      "artists": [
+        {
+          "name": "La Groupera",
+          "url": "https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Un Nuevo Desaf\u00edo",
+        "url": "https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18"
+      },
+      "artists": [
+        {
+          "name": "Coty Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+        }
+      ],
+      "duration_ms": 220995,
+      "name": "Porqu\u00e9 Les Mientes",
+      "url": "https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
         "name": "Te Sorprender\u00e1s",
         "url": "https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8"
       },
@@ -1291,6 +1307,22 @@
       "duration_ms": 188140,
       "name": "Te Sorprender\u00e1s",
       "url": "https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS"
+    },
+    {
+      "added_at": "2023-12-15 03:00:00",
+      "album": {
+        "name": "Alguien Mejor Que Yo",
+        "url": "https://open.spotify.com/album/1lte9W0V3YNDTAUF5Pmo94"
+      },
+      "artists": [
+        {
+          "name": "Uriel Lozano",
+          "url": "https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw"
+        }
+      ],
+      "duration_ms": 196250,
+      "name": "Alguien Mejor Que Yo",
+      "url": "https://open.spotify.com/track/6U0jBHXGJ8W1sPt7uFkK7p"
     },
     {
       "added_at": "2023-12-15 03:00:00",
@@ -1315,50 +1347,18 @@
     {
       "added_at": "2023-12-15 03:00:00",
       "album": {
-        "name": "Un Nuevo Desaf\u00edo",
-        "url": "https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18"
+        "name": "Grupo Trinidad y Sus Cantantes",
+        "url": "https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3"
       },
       "artists": [
         {
-          "name": "Coty Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE"
+          "name": "Grupo Trinidad",
+          "url": "https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ"
         }
       ],
-      "duration_ms": 220995,
-      "name": "Porqu\u00e9 Les Mientes",
-      "url": "https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Como T\u00fa",
-        "url": "https://open.spotify.com/album/6GU7qLROD5m1VWF12BD0m2"
-      },
-      "artists": [
-        {
-          "name": "Sergio Moran y su Banda",
-          "url": "https://open.spotify.com/artist/7hSXBaGwB70P4kBDzqoTT2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Imposible Olvidarte",
-      "url": "https://open.spotify.com/track/5XwKOns3tv46E2CmhZFvED"
-    },
-    {
-      "added_at": "2023-12-15 03:00:00",
-      "album": {
-        "name": "Se Enamor\u00f3 de Mi la Soledad",
-        "url": "https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI"
-      },
-      "artists": [
-        {
-          "name": "Miguel Angel",
-          "url": "https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL"
-        }
-      ],
-      "duration_ms": 245864,
-      "name": "Se Enamor\u00f3 de Mi la Soledad",
-      "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
+      "duration_ms": 457826,
+      "name": "Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo",
+      "url": "https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3"
     }
   ],
   "unique_name": "Cumbia Santafesina",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Fresh Punjabi Rap. Cover:  Channi Nattan, Inderpal Moga ",
+  "description": "Fresh Punjabi Rap. Cover:  Sikander Kahlon",
   "name": "Burrh Rap",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 231577,
       "name": "2022 FLOW",
       "url": "https://open.spotify.com/track/1qcpSQiAl6kajIIOCqoFsp"
+    },
+    {
+      "album": {
+        "name": "2024 FLOW",
+        "url": "https://open.spotify.com/album/0iLCdv2DbH7yCWDCpd9YHZ"
+      },
+      "artists": [
+        {
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332630,
+      "name": "2024 FLOW",
+      "url": "https://open.spotify.com/track/3LXSXyvucHKJehG54nq0hx"
     },
     {
       "album": {
@@ -236,7 +254,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 142214,
       "name": "At The Afterparty",
       "url": "https://open.spotify.com/track/2IZOYSnYAaYgbfAQZwbmxK"
@@ -1028,7 +1046,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 137191,
       "name": "Messiah",
       "url": "https://open.spotify.com/track/1flBeSEMyqnJvY3olfBS6i"
@@ -1710,6 +1728,32 @@
       "duration_ms": 191901,
       "name": "TRAP PRAA",
       "url": "https://open.spotify.com/track/2IodN2cQX9LASXaRu6Ovqd"
+    },
+    {
+      "album": {
+        "name": "Trapstar",
+        "url": "https://open.spotify.com/album/6w0MKX4W3Q8m80ZRWWg2ya"
+      },
+      "artists": [
+        {
+          "name": "Homeboy",
+          "url": "https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7"
+        },
+        {
+          "name": "BRAZY",
+          "url": "https://open.spotify.com/artist/7HytOPAbrG6oy21znAXXzM"
+        },
+        {
+          "name": "Yeah Proof",
+          "url": "https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2"
+        }
+      ],
+      "date_added": "2024-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174327,
+      "name": "Trapstar",
+      "url": "https://open.spotify.com/track/5lRhFabauMO4fKoNk7wkoW"
     },
     {
       "album": {

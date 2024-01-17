@@ -1,182 +1,709 @@
 {
-  "2023-07-06": 2009,
-  "2023-07-07": 2009,
-  "2023-07-08": 2568,
-  "2023-07-09": 2740,
-  "2023-07-10": 2792,
-  "2023-07-11": 2839,
-  "2023-07-12": 2884,
-  "2023-07-13": 2944,
-  "2023-07-14": 2992,
-  "2023-07-15": 3026,
-  "2023-07-16": 3077,
-  "2023-07-17": 3128,
-  "2023-07-18": 3178,
-  "2023-07-19": 3233,
-  "2023-07-20": 3283,
-  "2023-07-21": 3330,
-  "2023-07-22": 3378,
-  "2023-07-23": 3442,
-  "2023-07-24": 3495,
-  "2023-07-25": 3559,
-  "2023-07-26": 3613,
-  "2023-07-27": 3670,
-  "2023-07-28": 3720,
-  "2023-07-29": 3795,
-  "2023-07-30": 3887,
-  "2023-07-31": 4015,
-  "2023-08-01": 4091,
-  "2023-08-02": 4158,
-  "2023-08-03": 4215,
-  "2023-08-04": 4278,
-  "2023-08-05": 4322,
-  "2023-08-06": 4407,
-  "2023-08-07": 4407,
-  "2023-08-08": 4466,
-  "2023-08-09": 4505,
-  "2023-08-10": 4564,
-  "2023-08-11": 4608,
-  "2023-08-12": 4664,
-  "2023-08-13": 4694,
-  "2023-08-14": 4745,
-  "2023-08-15": 4847,
-  "2023-08-16": 4847,
-  "2023-08-17": 4875,
-  "2023-08-18": 4906,
-  "2023-08-19": 4939,
-  "2023-08-20": 4973,
-  "2023-08-21": 5008,
-  "2023-08-22": 5043,
-  "2023-08-23": 5074,
-  "2023-08-24": 5105,
-  "2023-08-25": 5154,
-  "2023-08-26": 5201,
-  "2023-08-27": 5252,
-  "2023-08-28": 5295,
-  "2023-08-29": 5318,
-  "2023-08-30": 5344,
-  "2023-08-31": 5376,
-  "2023-09-01": 5410,
-  "2023-09-02": 5410,
-  "2023-09-03": 5425,
-  "2023-09-04": 5455,
-  "2023-09-05": 5475,
-  "2023-09-06": 5490,
-  "2023-09-07": 5513,
-  "2023-09-08": 5528,
-  "2023-09-09": 5548,
-  "2023-09-10": 5561,
-  "2023-09-11": 5583,
-  "2023-09-12": 5606,
-  "2023-09-13": 5632,
-  "2023-09-14": 5647,
-  "2023-09-15": 5664,
-  "2023-09-16": 5674,
-  "2023-09-17": 5698,
-  "2023-09-18": 5711,
-  "2023-09-19": 5729,
-  "2023-09-20": 5735,
-  "2023-09-21": 5763,
-  "2023-09-22": 5783,
-  "2023-09-23": 5801,
-  "2023-09-24": 5831,
-  "2023-09-25": 5846,
-  "2023-09-26": 5865,
-  "2023-09-27": 5883,
-  "2023-09-28": 5901,
-  "2023-09-29": 5915,
-  "2023-09-30": 5943,
-  "2023-10-01": 5968,
-  "2023-10-02": 5989,
-  "2023-10-03": 5999,
-  "2023-10-04": 6022,
-  "2023-10-05": 6051,
-  "2023-10-06": 6069,
-  "2023-10-07": 6088,
-  "2023-10-08": 6101,
-  "2023-10-09": 6113,
-  "2023-10-10": 6134,
-  "2023-10-11": 6166,
-  "2023-10-12": 6166,
-  "2023-10-13": 6185,
-  "2023-10-14": 6199,
-  "2023-10-15": 6226,
-  "2023-10-16": 6248,
-  "2023-10-17": 6268,
-  "2023-10-18": 6277,
-  "2023-10-19": 6295,
-  "2023-10-20": 6306,
-  "2023-10-21": 6310,
-  "2023-10-22": 6327,
-  "2023-10-23": 6343,
-  "2023-10-24": 6361,
-  "2023-10-25": 6371,
-  "2023-10-26": 6388,
-  "2023-10-27": 6397,
-  "2023-10-28": 6397,
-  "2023-10-29": 6418,
-  "2023-10-30": 6427,
-  "2023-10-31": 6427,
-  "2023-11-01": 6466,
-  "2023-11-02": 6464,
-  "2023-11-03": 6476,
-  "2023-11-04": 6487,
-  "2023-11-05": 6502,
-  "2023-11-06": 6523,
-  "2023-11-07": 6539,
-  "2023-11-08": 6552,
-  "2023-11-09": 6561,
-  "2023-11-10": 6575,
-  "2023-11-11": 6578,
-  "2023-11-12": 6583,
-  "2023-11-13": 6603,
-  "2023-11-14": 6611,
-  "2023-11-15": 6611,
-  "2023-11-16": 6636,
-  "2023-11-17": 6657,
-  "2023-11-18": 6657,
-  "2023-11-19": 6666,
-  "2023-11-20": 6664,
-  "2023-11-21": 6677,
-  "2023-11-22": 6681,
-  "2023-11-23": 6684,
-  "2023-11-24": 6684,
-  "2023-11-25": 6710,
-  "2023-11-26": 6718,
-  "2023-11-27": 6732,
-  "2023-11-28": 6734,
-  "2023-11-29": 6749,
-  "2023-11-30": 6749,
-  "2023-12-01": 6763,
-  "2023-12-02": 6780,
-  "2023-12-03": 6796,
-  "2023-12-04": 6805,
-  "2023-12-05": 6823,
-  "2023-12-06": 6830,
-  "2023-12-07": 6845,
-  "2023-12-08": 6850,
-  "2023-12-09": 6861,
-  "2023-12-10": 6879,
-  "2023-12-11": 6892,
-  "2023-12-12": 6898,
-  "2023-12-13": 6907,
-  "2023-12-14": 6925,
-  "2023-12-15": 6937,
-  "2023-12-16": 6948,
-  "2023-12-17": 6960,
-  "2023-12-18": 6977,
-  "2023-12-19": 6996,
-  "2023-12-20": 7009,
-  "2023-12-21": 7022,
-  "2023-12-22": 7030,
-  "2023-12-23": 7047,
-  "2023-12-24": 7066,
-  "2023-12-25": 7073,
-  "2023-12-26": 7091,
-  "2023-12-27": 7105,
-  "2023-12-30": 7166,
-  "2023-12-31": 7181,
-  "2024-01-01": 7201,
-  "2024-01-02": 7216,
-  "2024-01-03": 7243
+  "2024-01-17": 7455,
+  "date_first_scraped": "2023-07-06",
+  "description": "Listen to the soundtracks of the drama Revenant. (\ub4dc\ub77c\ub9c8 \uc545\uadc0\uc758 \uc0ac\uc6b4\ub4dc \ud2b8\ub799\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!) You can also listen to thriller music that makes you cool on a summer night. (\uc5ec\ub984\ubc24\uc744 \uc2dc\uc6d0\ud558\uac8c \ub9cc\ub4dc\ub294 \uc2a4\ub9b4\ub7ec \uc74c\uc545\ub3c4 \uc990\uaca8\ubcf4\uc2e4 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)",
+  "name": "\uc545\uadc0 (Revenant)",
+  "tracks": [
+    {
+      "album": {
+        "name": "Penthouse 2&3 Score Album (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3"
+      },
+      "artists": [
+        {
+          "name": "Kim Jun Seok",
+          "url": "https://open.spotify.com/artist/4JX9jAIfnzPX7GqqaOwHxn"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "A Bright Moment That Seems Eternal",
+      "url": "https://open.spotify.com/track/0X51g4yKl0L2qgABfVQIAQ"
+    },
+    {
+      "album": {
+        "name": "\ub9ac\ud134 OST Part.2",
+        "url": "https://open.spotify.com/album/0OdG0KMii4jVF1PdgioV61"
+      },
+      "artists": [
+        {
+          "name": "Jang Jae In",
+          "url": "https://open.spotify.com/artist/5gPt59GY3WylaJDmUiZLcZ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 200151,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/2avDRKPOym2nXz7UUeKJxR"
+    },
+    {
+      "album": {
+        "name": "\ub9ac\ud134, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7pgky5mMJtFvOmZdXVevCf"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 200144,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5E7bBIgyus8yHpcRRP6DcZ"
+    },
+    {
+      "album": {
+        "name": "Return OST Part.2",
+        "url": "https://open.spotify.com/album/7oKGyDJ9nqazWjJLQ3i6pV"
+      },
+      "artists": [
+        {
+          "name": "Jang Jane",
+          "url": "https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200151,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/1CQs20mWtWLiPpBK62f7dE"
+    },
+    {
+      "album": {
+        "name": "Penthouse 2&3 Score Album (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3"
+      },
+      "artists": [
+        {
+          "name": "Lee Yoon Ji",
+          "url": "https://open.spotify.com/artist/70EhidkYcundxC6z273E9Y"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213546,
+      "name": "An Endless Desire",
+      "url": "https://open.spotify.com/track/6vM9g9Lla2BXRhtmuRPP9p"
+    },
+    {
+      "album": {
+        "name": "Return OST Part.3",
+        "url": "https://open.spotify.com/album/51o0vJqOi3ykBysMcaunQK"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207465,
+      "name": "Black Sun",
+      "url": "https://open.spotify.com/track/6kYJO3yup0Qcqjla2Jc8j3"
+    },
+    {
+      "album": {
+        "name": "Trolley (Original Soundtrack Part.1)",
+        "url": "https://open.spotify.com/album/7xcKq4QOt8Nf0WlPK1BSMa"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219066,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/4sZh7yPeOBNlfEI4qlfJe6"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6VvA9thMlfNhlAo6Yfe7CA"
+      },
+      "artists": [
+        {
+          "name": "YEIN",
+          "url": "https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY"
+        },
+        {
+          "name": "Masterclass",
+          "url": "https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 226285,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/05jVN01JWfs3kYqPTnkwlr"
+    },
+    {
+      "album": {
+        "name": "Mis ma, the goddess of revenge OST Part.6",
+        "url": "https://open.spotify.com/album/0OMphKtUQPjFa7kFPkoB3w"
+      },
+      "artists": [
+        {
+          "name": "YEIN",
+          "url": "https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY"
+        },
+        {
+          "name": "Masterclass",
+          "url": "https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226299,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/3Fn65LaOyYdYuoV0LExohi"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 6 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1uE1fwR0tohMo5j3vYFkbD"
+      },
+      "artists": [
+        {
+          "name": "YEIN",
+          "url": "https://open.spotify.com/artist/5uIx7p8cOycuJYZSpmTfVY"
+        },
+        {
+          "name": "Masterclass",
+          "url": "https://open.spotify.com/artist/6HQH7Sl870jIhC9CPBjbS4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 226285,
+      "name": "Hourglass (Inst.)",
+      "url": "https://open.spotify.com/track/2E2MrjljNbAbekopBgQx3D"
+    },
+    {
+      "album": {
+        "name": "Trolley (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W"
+      },
+      "artists": [
+        {
+          "name": "Se Rin Jung",
+          "url": "https://open.spotify.com/artist/4vKfrDcWqtPpqqWmzH26wO"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162733,
+      "name": "irony of choice",
+      "url": "https://open.spotify.com/track/0n818xv8jNlkAwf9NBv8v9"
+    },
+    {
+      "album": {
+        "name": "Penthouse3 (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/5j9ToR3tEoiBKBhqHSPTp0"
+      },
+      "artists": [
+        {
+          "name": "Baek Z Young",
+          "url": "https://open.spotify.com/artist/5yA7Gpa9biZUs3IgTgwH8o"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267640,
+      "name": "Let me be",
+      "url": "https://open.spotify.com/track/5HMicsistMNaVU269x6ZzY"
+    },
+    {
+      "album": {
+        "name": "Revenant (Original Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS"
+      },
+      "artists": [
+        {
+          "name": "Dasutt",
+          "url": "https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234533,
+      "name": "Lonely night",
+      "url": "https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk"
+    },
+    {
+      "album": {
+        "name": "Secret Boutique Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Amnmsg8nIVFSmLpfYXi1C"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 239066,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/3qzIiJxXlWD8rkeuFtG5YO"
+    },
+    {
+      "album": {
+        "name": "Secret Boutique OST",
+        "url": "https://open.spotify.com/album/4dUX8oSxxSeZdll1GLOM48"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239066,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/4RsijwPdawWKrK1OqZiRjV"
+    },
+    {
+      "album": {
+        "name": "Secret Boutique Pt.1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5keaPpWXYATKuyUJMDiAES"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 239066,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/6hFPa6GpnhfWQ41eYzMmUl"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1VNrFFuQolqocGmkywk4ER"
+      },
+      "artists": [
+        {
+          "name": "leeSA",
+          "url": "https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 193164,
+      "name": "My Memory",
+      "url": "https://open.spotify.com/track/12b7eFXKrN0YpCZUrowr2L"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN"
+      },
+      "artists": [
+        {
+          "name": "leeSA",
+          "url": "https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-02",
+      "duration_ms": 193164,
+      "name": "My memory",
+      "url": "https://open.spotify.com/track/1N5d2ytjQK25flrdxfCAQt"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5XmTqXUCFzb9ttkHvg2lrC"
+      },
+      "artists": [
+        {
+          "name": "leeSA",
+          "url": "https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 193164,
+      "name": "My Memory",
+      "url": "https://open.spotify.com/track/1ScvO2wzYVWFU5JcK6KRIQ"
+    },
+    {
+      "album": {
+        "name": "Mis ma, the goddess of revenge OST Part.2",
+        "url": "https://open.spotify.com/album/752w5Inpj7VEfrFlEy6f1F"
+      },
+      "artists": [
+        {
+          "name": "leeSA",
+          "url": "https://open.spotify.com/artist/3GBMe03XlFR2vgpeepaaGY"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193176,
+      "name": "My Memory (Inst.)",
+      "url": "https://open.spotify.com/track/4ZOfYW2n7vAeh7Zqngjzvv"
+    },
+    {
+      "album": {
+        "name": "Secret Mother OST Part.1",
+        "url": "https://open.spotify.com/album/7tTBAN8l4EX2eit2QR8R5g"
+      },
+      "artists": [
+        {
+          "name": "CAR",
+          "url": "https://open.spotify.com/artist/4E6gDpK1tuDrU59sIUzqW8"
+        },
+        {
+          "name": "THE GARDEN",
+          "url": "https://open.spotify.com/artist/3E97A3nnlnYvm47G9uN6t4"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264595,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2j2nHZ1zTKBlMUzd185e58"
+    },
+    {
+      "album": {
+        "name": "Secret Mother, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH"
+      },
+      "artists": [
+        {
+          "name": "CAR, THE GARDEN",
+          "url": "https://open.spotify.com/artist/0gqEtTORPrOqWJWElLvDQ3"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 264568,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy"
+    },
+    {
+      "album": {
+        "name": "Secret Mother, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3153yH5NEVXryZjr8tfSdf"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 264568,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/70l6ayPCoOKfICNM2F3HJz"
+    },
+    {
+      "album": {
+        "name": "Secret Mother OST Part.2",
+        "url": "https://open.spotify.com/album/3i2HyvCvZKOykSqVKCQp8n"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145032,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/1dWIh1RbI0UJaUjjvyqMpc"
+    },
+    {
+      "album": {
+        "name": "Secret Mother, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Gybhk6IErhOvhRHghcHsK"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 145290,
+      "name": "Perfect Love",
+      "url": "https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs"
+    },
+    {
+      "album": {
+        "name": "Penthouse 2&3 Score Album (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3"
+      },
+      "artists": [
+        {
+          "name": "Jung Se Rin",
+          "url": "https://open.spotify.com/artist/4nZVGTg50D9VAXllvDofSI"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186520,
+      "name": "Prelude Of Counterattack",
+      "url": "https://open.spotify.com/track/2XnfteCJlVDZqoTq9LpPaC"
+    },
+    {
+      "album": {
+        "name": "Revenant (Original Soundtrack) Pt.4",
+        "url": "https://open.spotify.com/album/1YBoX5Ch2K3W0qbBNqSs5R"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213133,
+      "name": "The breath",
+      "url": "https://open.spotify.com/track/0ueGZc0MRyHtYtIDIHUXKT"
+    },
+    {
+      "album": {
+        "name": "Revenant (Original Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6zs7BgVQ1EuROfYDrAzWRl"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184834,
+      "name": "The door",
+      "url": "https://open.spotify.com/track/3jOmQxYDgwhygI9QKXGqMO"
+    },
+    {
+      "album": {
+        "name": "Penthouse2 (Original Television Soundtrack) Pt. 3",
+        "url": "https://open.spotify.com/album/1zWN2Vz1TcgEBRRJzZD5Uw"
+      },
+      "artists": [
+        {
+          "name": "Lee Yejoon",
+          "url": "https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196633,
+      "name": "The morass",
+      "url": "https://open.spotify.com/track/0ufmJfKZnd8agzcIi0Wrs3"
+    },
+    {
+      "album": {
+        "name": "Trolley (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W"
+      },
+      "artists": [
+        {
+          "name": "Jun Seok Kim",
+          "url": "https://open.spotify.com/artist/3NNk3sbGKHqIhfs6Sm5dsB"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189920,
+      "name": "trolley",
+      "url": "https://open.spotify.com/track/1Dg4uXR9ZzV0Z12kUFC13j"
+    },
+    {
+      "album": {
+        "name": "Trolley (Original Soundtrack Part.3)",
+        "url": "https://open.spotify.com/album/1YSAjSAvHuoTaXF11Esxnu"
+      },
+      "artists": [
+        {
+          "name": "KLANG",
+          "url": "https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188946,
+      "name": "Villain",
+      "url": "https://open.spotify.com/track/188Fa4orcugsnlfeLUHRym"
+    },
+    {
+      "album": {
+        "name": "Return, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5OEzHcShsWtyzCzDFKxjkH"
+      },
+      "artists": [
+        {
+          "name": "Saesonyeon",
+          "url": "https://open.spotify.com/artist/0MfzRpYSXwj4UNH013Ahef"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-31",
+      "duration_ms": 207465,
+      "name": "\uac80\uc740 \ud574",
+      "url": "https://open.spotify.com/track/2UXTVLs3cv6F6ML0BoeSMS"
+    },
+    {
+      "album": {
+        "name": "\ub9ac\ud134 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4hPxrrZwxYPAyUJb4rEq0N"
+      },
+      "artists": [
+        {
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-01",
+      "duration_ms": 207442,
+      "name": "\uac80\uc740 \ud574",
+      "url": "https://open.spotify.com/track/6BiPVxqLLFuN09oHs6q9Gi"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/38cIbg17pC5Nnmu9KaSSdN"
+      },
+      "artists": [
+        {
+          "name": "SALTNPAPER",
+          "url": "https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 228078,
+      "name": "\uadf8\ub304 \uc544\ub098\uc694",
+      "url": "https://open.spotify.com/track/0L0RQOToaWhfj5GY1amVBd"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1bjgccK0s4WG87cE2Juk7W"
+      },
+      "artists": [
+        {
+          "name": "SALTNPAPER",
+          "url": "https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 228078,
+      "name": "\uadf8\ub304 \uc544\ub098\uc694",
+      "url": "https://open.spotify.com/track/2IL86nMsQywLzPt4RIiETy"
+    },
+    {
+      "album": {
+        "name": "Ms. Ma, Nemesis Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/4l2G0tnTuUjLjEMw95bjJd"
+      },
+      "artists": [
+        {
+          "name": "SALTNPAPER",
+          "url": "https://open.spotify.com/artist/1PUaWe4blFXeqtc3RCNdjv"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228078,
+      "name": "\uadf8\ub304 \uc544\ub098\uc694",
+      "url": "https://open.spotify.com/track/2QyWg4ksyBMWA6MvOi6Qc2"
+    },
+    {
+      "album": {
+        "name": "Revenant (Original Television Soundtrack) Pt.1",
+        "url": "https://open.spotify.com/album/6LZvcf7kGtjnbI7RckHFlR"
+      },
+      "artists": [
+        {
+          "name": "ALi",
+          "url": "https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186967,
+      "name": "\uc545\uadc0",
+      "url": "https://open.spotify.com/track/3o9rRhf41DTyxSnUtsOw3I"
+    },
+    {
+      "album": {
+        "name": "Secret Mother, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/3MYoSbfIJwv2CsBjffKDn4"
+      },
+      "artists": [
+        {
+          "name": "Kim Sawol",
+          "url": "https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 145008,
+      "name": "\uc644\ubcbd\ud55c \uc0ac\ub791",
+      "url": "https://open.spotify.com/track/2WOoi1u2uCwKbnI8mEC7MR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8O7LMRollp1"
 }

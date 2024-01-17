@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > ¡Ponte las que más sonaron en 2023! ¡Ponte lo mejor de La Reina! Eslabon Armado y Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,411 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,459 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

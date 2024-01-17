@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 
 > Introducing the Fresh Finds Class of 2020\. Editors' picks of the top Fresh Finds this year.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,849 likes - 102 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,840 likes - 102 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AIfEOAvuXp.md) - [plain]
 | 81 | [STILL WITH U](https://open.spotify.com/track/2rH5V5b9LaYu3NhGKqigd8) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [STILL WITH U](https://open.spotify.com/album/3oXSU7U0mL1ynT8ne1yBZh) | 3:08 |
 | 82 | [Moonboy](https://open.spotify.com/track/3j4P8ytkoDpBFePPrXHEbe) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Moonboy](https://open.spotify.com/album/2LhpR3TL7xqk8N4wJBTGIN) | 2:12 |
 | 83 | [ripped jeans](https://open.spotify.com/track/229Nu0G3uLnijxO8d69NVA) | [adan diaz](https://open.spotify.com/artist/6ktN7KRUuaLMHyKOog3tGP) | [ripped jeans](https://open.spotify.com/album/4WQt08qyCGByVqqQXbPetC) | 2:02 |
-| 84 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
+| 84 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 |
 | 85 | [Sansevieria](https://open.spotify.com/track/3APZAHZbjudqp4755vGl2K) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 4:24 |
 | 86 | [Don't Trust Me](https://open.spotify.com/track/5xz9GcQI6wDVjSFneT8J6n) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:00 |
 | 87 | [DOLORES](https://open.spotify.com/track/1qvjv6ynVQlWc940b3n6Ne) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [DOLORES](https://open.spotify.com/album/5Tgtg0Dw1hWDJ4n62SUnR2) | 4:10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Rod Stewart & Jools Holland",
+  "description": "The best jazz new releases. Cover: Susie Arioli",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -36,6 +36,42 @@
       "duration_ms": 388000,
       "name": "'A \u00e7imma",
       "url": "https://open.spotify.com/track/5ZfBTK4AOtIlTHlLlebnwE"
+    },
+    {
+      "album": {
+        "name": "1979",
+        "url": "https://open.spotify.com/album/4qDX05teYObQQntCs13mkz"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288026,
+      "name": "1979",
+      "url": "https://open.spotify.com/track/03LJjsuJViyRV0HQhDf9Ar"
+    },
+    {
+      "album": {
+        "name": "35 Years of Mistakes",
+        "url": "https://open.spotify.com/album/361AgfmA9fJZABk6A3C9PI"
+      },
+      "artists": [
+        {
+          "name": "Simon Denizart",
+          "url": "https://open.spotify.com/artist/1dFQ2v1uSzlTVLwfHQWgJk"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199055,
+      "name": "35 Years of Mistakes",
+      "url": "https://open.spotify.com/track/5Y8hBEFnBfEBXIZqcDVDcT"
     },
     {
       "album": {
@@ -402,6 +438,28 @@
       "duration_ms": 312200,
       "name": "Ain't Gotta Do It",
       "url": "https://open.spotify.com/track/3Ny0cVL6rKO1twEvcrcc06"
+    },
+    {
+      "album": {
+        "name": "Ain't Misbehavin'",
+        "url": "https://open.spotify.com/album/5mWDJe2FHrLyGSNVux1nw0"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        },
+        {
+          "name": "Jools Holland",
+          "url": "https://open.spotify.com/artist/6eLbRJP12OhyvUv4ntto4e"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146186,
+      "name": "Ain't Misbehavin'",
+      "url": "https://open.spotify.com/track/1d0P00e6Esi37XOWiDlvG9"
     },
     {
       "album": {
@@ -1018,7 +1076,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 214909,
       "name": "Black Crow",
       "url": "https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW"
@@ -2568,7 +2626,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 248689,
       "name": "Everything\u2019s Not Lost",
       "url": "https://open.spotify.com/track/2pqHAFERxzagkJu9qzzWI3"
@@ -2586,7 +2644,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 229613,
       "name": "Excess",
       "url": "https://open.spotify.com/track/0jKIn0FfNhlqno58x4HBY2"
@@ -2866,7 +2924,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 201430,
       "name": "Forest Habits",
       "url": "https://open.spotify.com/track/5HCYWa3Jg38TXYhlsvwAaX"
@@ -3192,7 +3250,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 215306,
       "name": "God Rest Ye Merry Gentlemen (Spotify Singles Holiday)",
       "url": "https://open.spotify.com/track/5U1edKpf8zZ04KtkvBOvbu"
@@ -3330,6 +3388,28 @@
       "duration_ms": 169500,
       "name": "Great Wind - Radio Edit",
       "url": "https://open.spotify.com/track/7k620TJe42bIg16RE51EZ4"
+    },
+    {
+      "album": {
+        "name": "Credo",
+        "url": "https://open.spotify.com/album/5N36dHKZgM0tnObEC3rkV4"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Bethmann Quartet",
+          "url": "https://open.spotify.com/artist/6qskP7g7HZmx7yBc8kGHGt"
+        },
+        {
+          "name": "David El Malek",
+          "url": "https://open.spotify.com/artist/358KFOPsRi9LHTzmeg84ZF"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443693,
+      "name": "Greens",
+      "url": "https://open.spotify.com/track/44uJEp8zyuz4TeRXt9epuV"
     },
     {
       "album": {
@@ -3616,7 +3696,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 250480,
       "name": "Hizuki",
       "url": "https://open.spotify.com/track/6zfqWviNnpoLbB7lO3Yzwj"
@@ -3768,7 +3848,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 458458,
       "name": "I Could Write a Book - Live",
       "url": "https://open.spotify.com/track/0vJ58MsgTfLfn2eT0eEGQR"
@@ -3826,6 +3906,32 @@
       "duration_ms": 161120,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/6uRUfwEJuXbmIqwPiOKaVy"
+    },
+    {
+      "album": {
+        "name": "Gershwin: I Got Rhythm (Arr. Firth for 2 Pianos) [From \"Girl Crazy\"]",
+        "url": "https://open.spotify.com/album/6VGKfvZKJmHJNqWRzQDDnS"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Michael Feinstein",
+          "url": "https://open.spotify.com/artist/2IcIec7ZxgwaWNJbZ0Sth7"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112586,
+      "name": "I Got Rhythm (Arr. Firth for 2 Pianos) - From \"Girl Crazy\"",
+      "url": "https://open.spotify.com/track/4Hc8SPt8CFJnbNjprrIzHH"
     },
     {
       "album": {
@@ -4026,6 +4132,24 @@
       "duration_ms": 184177,
       "name": "I'm On My Way",
       "url": "https://open.spotify.com/track/40MiZBtqaj19eRza6L67g1"
+    },
+    {
+      "album": {
+        "name": "I've Seen That Face Before (Libertango)",
+        "url": "https://open.spotify.com/album/3oGgc8Wx9GDWbfikSmSndi"
+      },
+      "artists": [
+        {
+          "name": "Youn Sun Nah",
+          "url": "https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298680,
+      "name": "I've Seen That Face Before (Libertango)",
+      "url": "https://open.spotify.com/track/2ZRop5JAfbOZKihY7ufETq"
     },
     {
       "album": {
@@ -5350,7 +5474,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 142169,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2T5yV3TK952ePPnWpIXE3h"
@@ -5630,7 +5754,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 294777,
       "name": "Newsroom Customers",
       "url": "https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP"
@@ -5747,6 +5871,24 @@
     },
     {
       "album": {
+        "name": "Not Enough Reason",
+        "url": "https://open.spotify.com/album/0orFxu3KTEjSH88fEG0n29"
+      },
+      "artists": [
+        {
+          "name": "Erik Moreau",
+          "url": "https://open.spotify.com/artist/1S08oiBCDKPErHKaJ42YAG"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223891,
+      "name": "Not Enough Reason",
+      "url": "https://open.spotify.com/track/0fg9IEvt4CpDAF2GRWDLB5"
+    },
+    {
+      "album": {
         "name": "Not Here / Not Now",
         "url": "https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N"
       },
@@ -5792,6 +5934,24 @@
       "duration_ms": 246760,
       "name": "Not Time Yet",
       "url": "https://open.spotify.com/track/3uLk6WdVQnniPupmUkEBsW"
+    },
+    {
+      "album": {
+        "name": "Nowhere to Hide",
+        "url": "https://open.spotify.com/album/0iwbgBKp5FKjItE7bMeocQ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199468,
+      "name": "Nowhere to Hide",
+      "url": "https://open.spotify.com/track/2kgTT46SOeDyViOIWtmU1N"
     },
     {
       "album": {
@@ -6352,7 +6512,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 302753,
       "name": "Postcard Lovers",
       "url": "https://open.spotify.com/track/23tdrZCsUcMvhWBTGvar34"
@@ -6418,6 +6578,24 @@
       "duration_ms": 156760,
       "name": "RAINING",
       "url": "https://open.spotify.com/track/4zvt5pYtfUZbeClDMqHYPB"
+    },
+    {
+      "album": {
+        "name": "Reach Out I'll Be There",
+        "url": "https://open.spotify.com/album/2iAQxZSo3JEQ4Zqm3VeLrK"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9rez Montcalm",
+          "url": "https://open.spotify.com/artist/6jtz3WsEdKxxYqO9LVWgcB"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220418,
+      "name": "Reach Out I'll Be There",
+      "url": "https://open.spotify.com/track/3Aob4GmG6EFusxwI2dbGh4"
     },
     {
       "album": {
@@ -7028,7 +7206,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 192440,
       "name": "Something Inside",
       "url": "https://open.spotify.com/track/1f3KNJkqDaebhZNZBh5nKi"
@@ -7320,7 +7498,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 189373,
       "name": "Sunset Ballad",
       "url": "https://open.spotify.com/track/7krneDaWsDdXN2Qt5AHxMA"
@@ -7600,6 +7778,24 @@
       "duration_ms": 352692,
       "name": "The Antidote Is in the Poison",
       "url": "https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz"
+    },
+    {
+      "album": {
+        "name": "The Colour Purple",
+        "url": "https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "The Colour Purple",
+      "url": "https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI"
     },
     {
       "album": {
@@ -8288,6 +8484,24 @@
       "duration_ms": 246373,
       "name": "Turning Around",
       "url": "https://open.spotify.com/track/5avRKp2Z3kagrmSQwIll9p"
+    },
+    {
+      "album": {
+        "name": "Twenties",
+        "url": "https://open.spotify.com/album/6hqgL9Ev3uGwXsdfXEhYc9"
+      },
+      "artists": [
+        {
+          "name": "Rosie Frater-Taylor",
+          "url": "https://open.spotify.com/artist/4vkiuGgB6fHAJaTqS87WlL"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176355,
+      "name": "Twenties",
+      "url": "https://open.spotify.com/track/5Ntgp1ZwLyVXDf7FwWra2K"
     },
     {
       "album": {
@@ -9198,6 +9412,28 @@
       "duration_ms": 245793,
       "name": "You Never Ask - from 'Madame Sean Connery'",
       "url": "https://open.spotify.com/track/6UZATdF1FiuNheMPu5K14z"
+    },
+    {
+      "album": {
+        "name": "You're the Top",
+        "url": "https://open.spotify.com/album/57XMvt6aiMjWpJHWTyBo29"
+      },
+      "artists": [
+        {
+          "name": "Martina DaSilva",
+          "url": "https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F"
+        },
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248087,
+      "name": "You're the Top",
+      "url": "https://open.spotify.com/track/5eroCoaqooWE4FBMZHHxAH"
     },
     {
       "album": {

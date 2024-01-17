@@ -4,12 +4,12 @@
 
 > The hits you know like you’ve never heard before\. Cover: Madison Rose
 
-209 songs - 12 hr 35 min
+210 songs - 12 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2002 \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/5fTB64VM8euas4F0xOHY5S) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Spotify Singles](https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND) | 3:12 | 2021-09-08 |  |
-| [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 | 2023-01-11 |  |
+| [22 \- Recorded At Metropolis Studios, London](https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Spotify Singles \(Recorded At Metropolis Studios, London\)](https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv) | 3:38 | 2023-01-11 | 2024-01-17 |
 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 | 2021-09-08 |  |
 | [Adult Swim \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/22Q710MZe6lV8NGyA0DsLS) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Spotify Singles](https://open.spotify.com/album/2L6HI5Dg2CLRH3nFLpw1J7) | 7:11 | 2021-09-08 | 2023-01-12 |
 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1I7arMzqZe0nxd9TfkG0Dt) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/6owNFHw2pcB6iBLeAOA0LH) | 3:08 | 2022-05-27 | 2022-07-30 |
@@ -103,6 +103,7 @@
 | [I Like Me Better \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2uQNcZYa0SEbfW4cj0d9OS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:22 | 2021-09-08 | 2022-10-13 |
 | [I Like That](https://open.spotify.com/track/2GATPLRMzHNwUmkxGgCoEP) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Spotify Singles](https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA) | 3:00 | 2021-09-08 | 2023-01-12 |
 | [I Wanna Dance With Somebody \(Who Loves Me\) \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Spotify Singles](https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH) | 4:22 | 2021-09-08 |  |
+| [I Wanna Dance With Somebody \- Spotify Singles](https://open.spotify.com/track/3RfbYuIRk9fk4ZjpYv7dej) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [Spotify Singles](https://open.spotify.com/album/7zjgCJFnTh4wYx0BHhV7uh) | 2:44 | 2023-11-07 |  |
 | [I Want It That Way \- Spotify Singles](https://open.spotify.com/track/5k1c0BXxEEdi12SLVdysY1) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Spotify Singles](https://open.spotify.com/album/7rTB3uvhAwdwSTxDp1l3nf) | 3:26 | 2023-11-07 |  |
 | [I'm Like A Bird \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:39 | 2021-09-08 |  |
 | [Irony \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/1ywnaTYLV3HRmF5PHhfgig) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Spotify Singles](https://open.spotify.com/album/1qDcShgiXVQuYfaauFlTCf) | 3:49 | 2021-09-08 | 2023-01-12 |

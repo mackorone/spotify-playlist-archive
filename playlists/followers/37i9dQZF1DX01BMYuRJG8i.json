@@ -1,505 +1,549 @@
 {
-  "2022-08-13": 15,
-  "2022-08-14": 36,
-  "2022-08-15": 67,
-  "2022-08-16": 85,
-  "2022-08-17": 113,
-  "2022-08-18": 158,
-  "2022-08-19": 224,
-  "2022-08-20": 258,
-  "2022-08-21": 311,
-  "2022-08-22": 354,
-  "2022-08-23": 368,
-  "2022-08-24": 400,
-  "2022-08-25": 437,
-  "2022-08-26": 470,
-  "2022-08-27": 493,
-  "2022-08-28": 508,
-  "2022-08-29": 528,
-  "2022-08-30": 550,
-  "2022-08-31": 565,
-  "2022-09-01": 581,
-  "2022-09-02": 602,
-  "2022-09-03": 622,
-  "2022-09-04": 630,
-  "2022-09-05": 660,
-  "2022-09-06": 678,
-  "2022-09-07": 692,
-  "2022-09-09": 739,
-  "2022-09-10": 753,
-  "2022-09-11": 768,
-  "2022-09-12": 781,
-  "2022-09-13": 802,
-  "2022-09-15": 833,
-  "2022-09-16": 855,
-  "2022-09-17": 869,
-  "2022-09-18": 880,
-  "2022-09-19": 914,
-  "2022-09-20": 928,
-  "2022-09-21": 946,
-  "2022-09-22": 963,
-  "2022-09-23": 989,
-  "2022-09-24": 1013,
-  "2022-09-25": 1047,
-  "2022-09-26": 1076,
-  "2022-09-27": 1110,
-  "2022-09-28": 1139,
-  "2022-09-29": 1160,
-  "2022-09-30": 1183,
-  "2022-10-01": 1199,
-  "2022-10-02": 1220,
-  "2022-10-03": 1250,
-  "2022-10-04": 1273,
-  "2022-10-05": 1301,
-  "2022-10-06": 1320,
-  "2022-10-07": 1329,
-  "2022-10-08": 1341,
-  "2022-10-09": 1366,
-  "2022-10-10": 1372,
-  "2022-10-11": 1390,
-  "2022-10-12": 1404,
-  "2022-10-13": 1420,
-  "2022-10-14": 1432,
-  "2022-10-15": 1449,
-  "2022-10-16": 1472,
-  "2022-10-17": 1496,
-  "2022-10-18": 1512,
-  "2022-10-19": 1525,
-  "2022-10-20": 1537,
-  "2022-10-21": 1556,
-  "2022-10-22": 1569,
-  "2022-10-23": 1589,
-  "2022-10-24": 1607,
-  "2022-10-25": 1621,
-  "2022-10-26": 1640,
-  "2022-10-27": 1651,
-  "2022-10-28": 1666,
-  "2022-10-29": 1676,
-  "2022-10-30": 1694,
-  "2022-10-31": 1704,
-  "2022-11-01": 1713,
-  "2022-11-02": 1725,
-  "2022-11-03": 1738,
-  "2022-11-04": 1753,
-  "2022-11-05": 1765,
-  "2022-11-06": 1782,
-  "2022-11-07": 1797,
-  "2022-11-08": 1816,
-  "2022-11-09": 1832,
-  "2022-11-10": 1844,
-  "2022-11-11": 1861,
-  "2022-11-12": 1883,
-  "2022-11-13": 1893,
-  "2022-11-14": 1909,
-  "2022-11-15": 1924,
-  "2022-11-16": 1937,
-  "2022-11-17": 1960,
-  "2022-11-18": 1962,
-  "2022-11-19": 1959,
-  "2022-11-20": 1967,
-  "2022-11-21": 1976,
-  "2022-11-22": 2017,
-  "2022-11-23": 2016,
-  "2022-11-24": 2049,
-  "2022-11-25": 2067,
-  "2022-11-26": 2084,
-  "2022-11-27": 2102,
-  "2022-11-28": 2111,
-  "2022-11-29": 2130,
-  "2022-11-30": 2142,
-  "2022-12-01": 2162,
-  "2022-12-02": 2172,
-  "2022-12-03": 2191,
-  "2022-12-04": 2212,
-  "2022-12-05": 2233,
-  "2022-12-06": 2251,
-  "2022-12-07": 2268,
-  "2022-12-08": 2290,
-  "2022-12-09": 2301,
-  "2022-12-10": 2308,
-  "2022-12-11": 2319,
-  "2022-12-12": 2331,
-  "2022-12-13": 2337,
-  "2022-12-14": 2350,
-  "2022-12-15": 2355,
-  "2022-12-16": 2370,
-  "2022-12-17": 2383,
-  "2022-12-18": 2392,
-  "2022-12-19": 2410,
-  "2022-12-20": 2428,
-  "2022-12-21": 2428,
-  "2022-12-22": 2436,
-  "2022-12-24": 2450,
-  "2022-12-25": 2457,
-  "2022-12-26": 2462,
-  "2022-12-27": 2472,
-  "2022-12-28": 2479,
-  "2022-12-29": 2493,
-  "2022-12-30": 2518,
-  "2022-12-31": 2532,
-  "2023-01-01": 2541,
-  "2023-01-02": 2557,
-  "2023-01-03": 2570,
-  "2023-01-04": 2589,
-  "2023-01-05": 2609,
-  "2023-01-06": 2619,
-  "2023-01-07": 2647,
-  "2023-01-08": 2648,
-  "2023-01-09": 2658,
-  "2023-01-10": 2671,
-  "2023-01-11": 2682,
-  "2023-01-12": 2691,
-  "2023-01-13": 2701,
-  "2023-01-14": 2710,
-  "2023-01-15": 2710,
-  "2023-01-16": 2726,
-  "2023-01-17": 2733,
-  "2023-01-18": 2745,
-  "2023-01-19": 2759,
-  "2023-01-20": 2771,
-  "2023-01-21": 2787,
-  "2023-01-22": 2799,
-  "2023-01-23": 2808,
-  "2023-01-24": 2817,
-  "2023-01-25": 2827,
-  "2023-01-26": 2838,
-  "2023-01-27": 2844,
-  "2023-01-28": 2858,
-  "2023-01-29": 2865,
-  "2023-01-30": 2875,
-  "2023-01-31": 2875,
-  "2023-02-01": 2898,
-  "2023-02-02": 2905,
-  "2023-02-03": 2917,
-  "2023-02-04": 2928,
-  "2023-02-05": 2938,
-  "2023-02-06": 2944,
-  "2023-02-07": 2951,
-  "2023-02-08": 2961,
-  "2023-02-09": 2961,
-  "2023-02-10": 2972,
-  "2023-02-11": 2987,
-  "2023-02-12": 3021,
-  "2023-02-13": 3035,
-  "2023-02-14": 3035,
-  "2023-02-15": 3046,
-  "2023-02-16": 3058,
-  "2023-02-17": 3070,
-  "2023-02-18": 3091,
-  "2023-02-19": 3093,
-  "2023-02-20": 3110,
-  "2023-02-21": 3123,
-  "2023-02-22": 3140,
-  "2023-02-23": 3156,
-  "2023-02-24": 3163,
-  "2023-02-25": 3180,
-  "2023-02-26": 3184,
-  "2023-02-27": 3199,
-  "2023-02-28": 3199,
-  "2023-03-01": 3209,
-  "2023-03-02": 3225,
-  "2023-03-03": 3231,
-  "2023-03-04": 3241,
-  "2023-03-05": 3271,
-  "2023-03-06": 3271,
-  "2023-03-07": 3284,
-  "2023-03-08": 3297,
-  "2023-03-09": 3312,
-  "2023-03-10": 3320,
-  "2023-03-11": 3330,
-  "2023-03-12": 3354,
-  "2023-03-13": 3365,
-  "2023-03-14": 3381,
-  "2023-03-15": 3397,
-  "2023-03-16": 3412,
-  "2023-03-17": 3412,
-  "2023-03-18": 3445,
-  "2023-03-19": 3469,
-  "2023-03-20": 3498,
-  "2023-03-21": 3515,
-  "2023-03-22": 3523,
-  "2023-03-23": 3539,
-  "2023-03-24": 3539,
-  "2023-03-25": 3578,
-  "2023-03-26": 3591,
-  "2023-03-27": 3609,
-  "2023-03-28": 3621,
-  "2023-03-29": 3635,
-  "2023-03-30": 3659,
-  "2023-03-31": 3659,
-  "2023-04-01": 3679,
-  "2023-04-02": 3693,
-  "2023-04-03": 3703,
-  "2023-04-04": 3715,
-  "2023-04-05": 3727,
-  "2023-04-06": 3744,
-  "2023-04-07": 3765,
-  "2023-04-09": 3804,
-  "2023-04-10": 3818,
-  "2023-04-11": 3844,
-  "2023-04-12": 3844,
-  "2023-04-13": 3851,
-  "2023-04-14": 3868,
-  "2023-04-15": 3888,
-  "2023-04-16": 3903,
-  "2023-04-17": 3926,
-  "2023-04-18": 3945,
-  "2023-04-19": 3963,
-  "2023-04-20": 3978,
-  "2023-04-21": 3995,
-  "2023-04-22": 4009,
-  "2023-04-23": 4019,
-  "2023-04-24": 4039,
-  "2023-04-25": 4046,
-  "2023-04-26": 4067,
-  "2023-04-27": 4079,
-  "2023-04-28": 4096,
-  "2023-04-29": 4114,
-  "2023-04-30": 4128,
-  "2023-05-01": 4154,
-  "2023-05-02": 4173,
-  "2023-05-03": 4204,
-  "2023-05-04": 4218,
-  "2023-05-05": 4232,
-  "2023-05-06": 4256,
-  "2023-05-07": 4278,
-  "2023-05-08": 4302,
-  "2023-05-09": 4316,
-  "2023-05-10": 4334,
-  "2023-05-11": 4345,
-  "2023-05-12": 4360,
-  "2023-05-13": 4372,
-  "2023-05-14": 4382,
-  "2023-05-15": 4392,
-  "2023-05-16": 4406,
-  "2023-05-17": 4426,
-  "2023-05-18": 4437,
-  "2023-05-19": 4454,
-  "2023-05-20": 4492,
-  "2023-05-21": 4492,
-  "2023-05-22": 4492,
-  "2023-05-23": 4510,
-  "2023-05-24": 4541,
-  "2023-05-25": 4541,
-  "2023-05-26": 4549,
-  "2023-05-27": 4564,
-  "2023-05-28": 4582,
-  "2023-05-29": 4582,
-  "2023-05-30": 4609,
-  "2023-05-31": 4624,
-  "2023-06-01": 4637,
-  "2023-06-02": 4651,
-  "2023-06-03": 4669,
-  "2023-06-04": 4674,
-  "2023-06-05": 4688,
-  "2023-06-06": 4696,
-  "2023-06-07": 4700,
-  "2023-06-08": 4710,
-  "2023-06-09": 4733,
-  "2023-06-10": 4741,
-  "2023-06-11": 4757,
-  "2023-06-12": 4770,
-  "2023-06-13": 4790,
-  "2023-06-14": 4803,
-  "2023-06-15": 4817,
-  "2023-06-16": 4822,
-  "2023-06-17": 4836,
-  "2023-06-18": 4842,
-  "2023-06-19": 4865,
-  "2023-06-20": 4867,
-  "2023-06-21": 4887,
-  "2023-06-22": 4891,
-  "2023-06-23": 4901,
-  "2023-06-24": 4917,
-  "2023-06-25": 4935,
-  "2023-06-26": 4952,
-  "2023-06-27": 4963,
-  "2023-06-28": 4973,
-  "2023-06-29": 4981,
-  "2023-06-30": 4996,
-  "2023-07-01": 5015,
-  "2023-07-02": 5015,
-  "2023-07-03": 5032,
-  "2023-07-04": 5044,
-  "2023-07-05": 5062,
-  "2023-07-06": 5094,
-  "2023-07-07": 5094,
-  "2023-07-08": 5109,
-  "2023-07-09": 5115,
-  "2023-07-10": 5130,
-  "2023-07-11": 5141,
-  "2023-07-12": 5154,
-  "2023-07-13": 5156,
-  "2023-07-14": 5172,
-  "2023-07-15": 5177,
-  "2023-07-16": 5196,
-  "2023-07-17": 5211,
-  "2023-07-18": 5231,
-  "2023-07-19": 5249,
-  "2023-07-20": 5262,
-  "2023-07-21": 5268,
-  "2023-07-22": 5281,
-  "2023-07-23": 5297,
-  "2023-07-24": 5323,
-  "2023-07-25": 5327,
-  "2023-07-26": 5338,
-  "2023-07-27": 5342,
-  "2023-07-28": 5356,
-  "2023-07-29": 5367,
-  "2023-07-30": 5381,
-  "2023-07-31": 5402,
-  "2023-08-01": 5415,
-  "2023-08-02": 5429,
-  "2023-08-03": 5446,
-  "2023-08-04": 5454,
-  "2023-08-05": 5469,
-  "2023-08-06": 5487,
-  "2023-08-07": 5487,
-  "2023-08-08": 5499,
-  "2023-08-09": 5514,
-  "2023-08-10": 5525,
-  "2023-08-11": 5539,
-  "2023-08-12": 5555,
-  "2023-08-13": 5571,
-  "2023-08-14": 5583,
-  "2023-08-15": 5600,
-  "2023-08-16": 5600,
-  "2023-08-17": 5615,
-  "2023-08-18": 5624,
-  "2023-08-19": 5639,
-  "2023-08-20": 5649,
-  "2023-08-21": 5656,
-  "2023-08-22": 5665,
-  "2023-08-23": 5678,
-  "2023-08-24": 5689,
-  "2023-08-25": 5707,
-  "2023-08-26": 5720,
-  "2023-08-27": 5741,
-  "2023-08-28": 5758,
-  "2023-08-29": 5769,
-  "2023-08-30": 5777,
-  "2023-08-31": 5794,
-  "2023-09-01": 5817,
-  "2023-09-02": 5817,
-  "2023-09-03": 5822,
-  "2023-09-04": 5838,
-  "2023-09-05": 5845,
-  "2023-09-06": 5849,
-  "2023-09-07": 5862,
-  "2023-09-08": 5872,
-  "2023-09-09": 5882,
-  "2023-09-10": 5893,
-  "2023-09-11": 5901,
-  "2023-09-12": 5908,
-  "2023-09-13": 5918,
-  "2023-09-14": 5936,
-  "2023-09-15": 5947,
-  "2023-09-16": 5961,
-  "2023-09-17": 5970,
-  "2023-09-18": 5984,
-  "2023-09-19": 5993,
-  "2023-09-20": 5999,
-  "2023-09-21": 6010,
-  "2023-09-22": 6020,
-  "2023-09-23": 6035,
-  "2023-09-24": 6053,
-  "2023-09-25": 6059,
-  "2023-09-26": 6070,
-  "2023-09-27": 6081,
-  "2023-09-28": 6088,
-  "2023-09-29": 6101,
-  "2023-09-30": 6114,
-  "2023-10-01": 6138,
-  "2023-10-02": 6155,
-  "2023-10-03": 6163,
-  "2023-10-04": 6168,
-  "2023-10-05": 6180,
-  "2023-10-06": 6185,
-  "2023-10-07": 6196,
-  "2023-10-08": 6212,
-  "2023-10-09": 6219,
-  "2023-10-10": 6226,
-  "2023-10-11": 6245,
-  "2023-10-12": 6245,
-  "2023-10-13": 6251,
-  "2023-10-14": 6261,
-  "2023-10-15": 6273,
-  "2023-10-16": 6285,
-  "2023-10-17": 6293,
-  "2023-10-18": 6297,
-  "2023-10-19": 6305,
-  "2023-10-20": 6315,
-  "2023-10-21": 6323,
-  "2023-10-22": 6333,
-  "2023-10-23": 6343,
-  "2023-10-24": 6342,
-  "2023-10-25": 6352,
-  "2023-10-26": 6357,
-  "2023-10-27": 6373,
-  "2023-10-28": 6378,
-  "2023-10-29": 6380,
-  "2023-10-30": 6396,
-  "2023-10-31": 6396,
-  "2023-11-01": 6401,
-  "2023-11-02": 6402,
-  "2023-11-03": 6410,
-  "2023-11-04": 6413,
-  "2023-11-05": 6420,
-  "2023-11-06": 6424,
-  "2023-11-07": 6431,
-  "2023-11-08": 6436,
-  "2023-11-09": 6445,
-  "2023-11-10": 6450,
-  "2023-11-11": 6454,
-  "2023-11-12": 6457,
-  "2023-11-13": 6470,
-  "2023-11-14": 6481,
-  "2023-11-15": 6481,
-  "2023-11-16": 6503,
-  "2023-11-17": 6523,
-  "2023-11-18": 6523,
-  "2023-11-19": 6527,
-  "2023-11-20": 6542,
-  "2023-11-21": 6552,
-  "2023-11-22": 6566,
-  "2023-11-23": 6575,
-  "2023-11-24": 6582,
-  "2023-11-25": 6597,
-  "2023-11-26": 6608,
-  "2023-11-27": 6622,
-  "2023-11-28": 6628,
-  "2023-11-29": 6640,
-  "2023-11-30": 6640,
-  "2023-12-01": 6644,
-  "2023-12-02": 6646,
-  "2023-12-03": 6658,
-  "2023-12-04": 6674,
-  "2023-12-05": 6683,
-  "2023-12-06": 6688,
-  "2023-12-07": 6689,
-  "2023-12-08": 6695,
-  "2023-12-09": 6700,
-  "2023-12-10": 6714,
-  "2023-12-11": 6719,
-  "2023-12-12": 6731,
-  "2023-12-13": 6734,
-  "2023-12-14": 6748,
-  "2023-12-15": 6753,
-  "2023-12-16": 6764,
-  "2023-12-17": 6775,
-  "2023-12-18": 6787,
-  "2023-12-19": 6793,
-  "2023-12-20": 6800,
-  "2023-12-21": 6812,
-  "2023-12-22": 6823,
-  "2023-12-23": 6839,
-  "2023-12-24": 6847,
-  "2023-12-25": 6860,
-  "2023-12-26": 6874,
-  "2023-12-27": 6887,
-  "2023-12-30": 6924,
-  "2023-12-31": 6931,
-  "2024-01-01": 6940,
-  "2024-01-02": 6953,
-  "2024-01-03": 6967
+  "2024-01-17": 7128,
+  "date_first_scraped": "2022-08-13",
+  "description": "Music from \"SHADOWS HOUSE\"! /\u30a2\u30cb\u30e1\u300c\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002",
+  "name": "SHADOWS HOUSE \u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104573,
+      "name": "1\u65e5\u306e\u306f\u3058\u307e\u308a",
+      "url": "https://open.spotify.com/track/21bkJ3JE2uh8xavA5RwFf8"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135853,
+      "name": "a hollow shadow",
+      "url": "https://open.spotify.com/track/6qg86i2yfgPhmMdhz8K32c"
+    },
+    {
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/0pd3XK1IV3sHiJeQYselxG"
+      },
+      "artists": [
+        {
+          "name": "ClariS",
+          "url": "https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237730,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/2NZ0LH20J4E7XiHdTMPsm5"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223986,
+      "name": "\u201d\u9854\u201d\u306e\u306a\u3044\u4e00\u65cf",
+      "url": "https://open.spotify.com/track/6KWLCpYzVksCw46QCGMnqI"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101893,
+      "name": "\u3042\u306a\u305f\u3089\u3057\u304f",
+      "url": "https://open.spotify.com/track/6lplVHnbe2M0EvBGspLKqM"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111200,
+      "name": "\u304a\u5f71\u69d8\u3068\u751f\u304d\u4eba\u5f62",
+      "url": "https://open.spotify.com/track/2I5eCafdTDygKIPqCF9x0C"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156546,
+      "name": "\u304a\u62ab\u9732\u76ee",
+      "url": "https://open.spotify.com/track/5eoZ1f0hIRagC9F8mndbMv"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "\u3059\u3059",
+      "url": "https://open.spotify.com/track/6RcWaQ3sDzyeAthvKFKpfy"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254093,
+      "name": "\u306a\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117893,
+      "name": "\u307f\u3093\u306a\u3067\u304a\u6383\u9664",
+      "url": "https://open.spotify.com/track/4ZDSGCZVuxbeY7HtjWi9U1"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164893,
+      "name": "\u30b7\u30e3\u30c9\u30fc\u306e\u9928",
+      "url": "https://open.spotify.com/track/0IR8lf2WmapKwxpfZL2YBc"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/7C2UiCqR5OC0gcXvV3xIuc"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f(Special Edition)",
+        "url": "https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271493,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
+      "url": "https://open.spotify.com/track/0rBTz8QXqqKSoNGvv1kVf4"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104960,
+      "name": "\u51fa\u6765\u640d\u306a\u3044",
+      "url": "https://open.spotify.com/track/7AjE5Zu1TTvpHyyDQJymez"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102866,
+      "name": "\u521d\u3081\u3066",
+      "url": "https://open.spotify.com/track/40NlZUMs7UgpLEaBa7NVS8"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94746,
+      "name": "\u52d5\u304f\u4eba\u5f62",
+      "url": "https://open.spotify.com/track/5EiI35mVB0myTcZOr3gWUz"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110200,
+      "name": "\u58ca\u308c\u305f\u4eba\u5f62",
+      "url": "https://open.spotify.com/track/1HHiyjXTxorDGIvklmqQfJ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119520,
+      "name": "\u5927\u5e83\u9593",
+      "url": "https://open.spotify.com/track/3adFmDnsgEnDgpOXKGNMou"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112186,
+      "name": "\u5931\u6557\u4f5c",
+      "url": "https://open.spotify.com/track/7jlaHTNynlWpYVdbrvitha"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95746,
+      "name": "\u5bdd\u574a\u3057\u305f!",
+      "url": "https://open.spotify.com/track/4jPitGtfxHy5pVpSpO0wk4"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180320,
+      "name": "\u5f79\u306b\u7acb\u305f\u306a\u3051\u308c\u3070",
+      "url": "https://open.spotify.com/track/21ZXBywbD7uPKHaVPlYmYD"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103226,
+      "name": "\u6559\u3048\u307e\u3057\u3087\u3046",
+      "url": "https://open.spotify.com/track/68Ma0UfNWc7Rt5RTDfCKXW"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "\u6f70\u305b!",
+      "url": "https://open.spotify.com/track/2kfREcC05PBb2NzSYcsMGJ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216493,
+      "name": "\u7279\u5225\u306a\u751f\u304d\u4eba\u5f62",
+      "url": "https://open.spotify.com/track/74dz2zIV0UgLr976EDGXSi"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131413,
+      "name": "\u79c1\u306e\u3054\u4e3b\u4eba\u69d8",
+      "url": "https://open.spotify.com/track/7JaUJZ3wxnAXD9iyvrHpAr"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186573,
+      "name": "\u79c1\u306e\u5b8c\u74a7\u306a\u4e16\u754c",
+      "url": "https://open.spotify.com/track/4FmFUmo0Iy7e2Y5FqLggWv"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225893,
+      "name": "\u7d46",
+      "url": "https://open.spotify.com/track/1IgwadWZVzEuxIeEKltLW0"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100520,
+      "name": "\u826f\u3044\u3053\u3068",
+      "url": "https://open.spotify.com/track/5niSiTKiHDBEDotG5Kb7K2"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92026,
+      "name": "\u8cb4\u65cf",
+      "url": "https://open.spotify.com/track/2UrtA7zJhEJjdvqzrUBdSJ"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30c9\u30fc\u30cf\u30a6\u30b9 Original Soundtrack",
+        "url": "https://open.spotify.com/album/38qGUCDSRpHe7MSpccrkgC"
+      },
+      "artists": [
+        {
+          "name": "Kenichiro Suehiro",
+          "url": "https://open.spotify.com/artist/2OyKkjeWOmxlp8LwpQqRP1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91426,
+      "name": "\u9854",
+      "url": "https://open.spotify.com/track/59NiYwTyvLQS7KTx8DHNBC"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX01BMYuRJG8i"
 }

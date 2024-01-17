@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 257939,
       "name": "Battersea Skillet Liquor",
       "url": "https://open.spotify.com/track/5qHFrx1gHuDt7Mrdzq5f8F"
@@ -650,7 +650,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-11",
       "duration_ms": 159600,
       "name": "Black Mountain Rag",
       "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
@@ -686,7 +686,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 305160,
       "name": "Blue Men Of The Sahara",
       "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 212533,
       "name": "Bluegrass Boogie",
       "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
@@ -910,6 +910,24 @@
     {
       "album": {
         "name": "The Muscle Shoals Recordings",
+        "url": "https://open.spotify.com/album/2DuNtjQfVV7VqRFH6r0Bta"
+      },
+      "artists": [
+        {
+          "name": "The Steeldrivers",
+          "url": "https://open.spotify.com/artist/3bLSAQPeix7Xm2e5Gtn48R"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167498,
+      "name": "California Chainsaw",
+      "url": "https://open.spotify.com/track/3B20mh33uwC6kq1TF3sxwH"
+    },
+    {
+      "album": {
+        "name": "The Muscle Shoals Recordings",
         "url": "https://open.spotify.com/album/2QOn9dnvjzhGZoH90eCFYI"
       },
       "artists": [
@@ -920,7 +938,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 167320,
       "name": "California Chainshaw",
       "url": "https://open.spotify.com/track/2V0iY3RWF0AngxKR5ZJA8c"
@@ -1598,6 +1616,28 @@
       "duration_ms": 222646,
       "name": "East Virginia Blues",
       "url": "https://open.spotify.com/track/37LaaqKaMg5ivz0qMeRzKw"
+    },
+    {
+      "album": {
+        "name": "Impromptu Sessions No. 2: Dominick Leslie & Ric Robertson (Trust In Most)",
+        "url": "https://open.spotify.com/album/3mgMv7LuXPwpflL8qUUYIG"
+      },
+      "artists": [
+        {
+          "name": "Dominick Leslie",
+          "url": "https://open.spotify.com/artist/5dTs3hLoBfuhLiGRiQcmgu"
+        },
+        {
+          "name": "Ric Robertson",
+          "url": "https://open.spotify.com/artist/7euJV43X9MeQnoQFSELd25"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222646,
+      "name": "East Virginia Blues",
+      "url": "https://open.spotify.com/track/4du2Q7sk9Kp8qw6jPHcENA"
     },
     {
       "album": {
@@ -2333,6 +2373,44 @@
     },
     {
       "album": {
+        "name": "Bluegrass 96",
+        "url": "https://open.spotify.com/album/48Cca2zPFlp4SRRYrHOHNZ"
+      },
+      "artists": [
+        {
+          "name": "Scott Vestal",
+          "url": "https://open.spotify.com/artist/6dnbsL19QVqDqacfrak5IC"
+        },
+        {
+          "name": "Aubrey Haynie",
+          "url": "https://open.spotify.com/artist/0z4IT2s3fD9BWMUE52fU9S"
+        },
+        {
+          "name": "Jeff Autry",
+          "url": "https://open.spotify.com/artist/5APpALqCaBOaYcYYnIu72X"
+        },
+        {
+          "name": "Mark Schatz",
+          "url": "https://open.spotify.com/artist/6PyV5uHz86osOJqwSYOpx6"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Wayne Benson",
+          "url": "https://open.spotify.com/artist/64RUphSmKMjOuGBDbTs3Ac"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200360,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/5otblW4llxlwTInmYeBFn3"
+    },
+    {
+      "album": {
         "name": "Decembering",
         "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
@@ -2428,7 +2506,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-05",
       "duration_ms": 233000,
       "name": "It's A String Thing",
       "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
@@ -2558,6 +2636,24 @@
       "duration_ms": 241000,
       "name": "Kimper County",
       "url": "https://open.spotify.com/track/4qkU1rmucgwF0p7QBZOuYF"
+    },
+    {
+      "album": {
+        "name": "Formations",
+        "url": "https://open.spotify.com/album/0lRJJhFQnT5eEm8gk9ahLk"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299973,
+      "name": "Last One on the Line",
+      "url": "https://open.spotify.com/track/2wbYGo4S3DYL1ddDRn6fHd"
     },
     {
       "album": {
@@ -4425,6 +4521,24 @@
     },
     {
       "album": {
+        "name": "Place of Growth",
+        "url": "https://open.spotify.com/album/2DZl2dzLBAGWu6H9wNyQyR"
+      },
+      "artists": [
+        {
+          "name": "Hawktail",
+          "url": "https://open.spotify.com/artist/3FsmZCUI3BAt3lqc6UIPqm"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356561,
+      "name": "Updraft",
+      "url": "https://open.spotify.com/track/1HKT1t2qsl8Z76suZOGBRD"
+    },
+    {
+      "album": {
         "name": "Updraft",
         "url": "https://open.spotify.com/album/3rK9kArUsB3JSYZTo62gCJ"
       },
@@ -4634,6 +4748,28 @@
       "duration_ms": 174143,
       "name": "Waynesboro - Live",
       "url": "https://open.spotify.com/track/3wacduUnfHODRq6QXVcBQe"
+    },
+    {
+      "album": {
+        "name": "Live from Bristol",
+        "url": "https://open.spotify.com/album/731zEInCmBczQ35Tn2kjZN"
+      },
+      "artists": [
+        {
+          "name": "Nora Brown",
+          "url": "https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT"
+        },
+        {
+          "name": "Sarah Kate Morgan",
+          "url": "https://open.spotify.com/artist/4UCdRwhNwF470fGAfVfNQa"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174143,
+      "name": "Waynesboro - Live",
+      "url": "https://open.spotify.com/track/5ake2OCj488YQf3Frq4yWc"
     },
     {
       "album": {

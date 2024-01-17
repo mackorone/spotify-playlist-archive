@@ -1,732 +1,1083 @@
 {
-  "2021-12-28": 52,
-  "2021-12-29": 61,
-  "2021-12-30": 69,
-  "2021-12-31": 75,
-  "2022-01-01": 88,
-  "2022-01-02": 90,
-  "2022-01-03": 93,
-  "2022-01-04": 111,
-  "2022-01-05": 126,
-  "2022-01-06": 133,
-  "2022-01-07": 142,
-  "2022-01-08": 157,
-  "2022-01-09": 158,
-  "2022-01-10": 162,
-  "2022-01-11": 170,
-  "2022-01-12": 173,
-  "2022-01-13": 178,
-  "2022-01-14": 182,
-  "2022-01-15": 208,
-  "2022-01-16": 208,
-  "2022-01-17": 222,
-  "2022-01-18": 222,
-  "2022-01-19": 225,
-  "2022-01-20": 232,
-  "2022-01-21": 239,
-  "2022-01-22": 242,
-  "2022-01-23": 242,
-  "2022-01-24": 250,
-  "2022-01-25": 253,
-  "2022-01-26": 259,
-  "2022-01-27": 260,
-  "2022-01-28": 266,
-  "2022-01-29": 266,
-  "2022-01-30": 273,
-  "2022-01-31": 278,
-  "2022-02-01": 277,
-  "2022-02-02": 281,
-  "2022-02-03": 286,
-  "2022-02-04": 290,
-  "2022-02-05": 292,
-  "2022-02-06": 292,
-  "2022-02-07": 293,
-  "2022-02-08": 293,
-  "2022-02-09": 295,
-  "2022-02-10": 296,
-  "2022-02-11": 294,
-  "2022-02-12": 294,
-  "2022-02-13": 294,
-  "2022-02-14": 292,
-  "2022-02-15": 293,
-  "2022-02-16": 293,
-  "2022-02-17": 293,
-  "2022-02-18": 292,
-  "2022-02-19": 293,
-  "2022-02-20": 294,
-  "2022-02-21": 295,
-  "2022-02-22": 294,
-  "2022-02-23": 297,
-  "2022-02-24": 295,
-  "2022-02-25": 296,
-  "2022-02-26": 298,
-  "2022-02-27": 298,
-  "2022-02-28": 298,
-  "2022-03-01": 298,
-  "2022-03-02": 298,
-  "2022-03-03": 297,
-  "2022-03-04": 297,
-  "2022-03-05": 296,
-  "2022-03-06": 296,
-  "2022-03-07": 295,
-  "2022-03-08": 296,
-  "2022-03-09": 298,
-  "2022-03-10": 298,
-  "2022-03-11": 300,
-  "2022-03-12": 300,
-  "2022-03-13": 302,
-  "2022-03-14": 303,
-  "2022-03-15": 303,
-  "2022-03-16": 304,
-  "2022-03-17": 305,
-  "2022-03-18": 306,
-  "2022-03-19": 306,
-  "2022-03-20": 306,
-  "2022-03-21": 306,
-  "2022-03-22": 309,
-  "2022-03-23": 310,
-  "2022-03-24": 311,
-  "2022-03-25": 312,
-  "2022-03-26": 311,
-  "2022-03-27": 312,
-  "2022-03-28": 310,
-  "2022-03-30": 312,
-  "2022-03-31": 311,
-  "2022-04-01": 312,
-  "2022-04-02": 314,
-  "2022-04-03": 314,
-  "2022-04-04": 313,
-  "2022-04-05": 313,
-  "2022-04-06": 314,
-  "2022-04-07": 314,
-  "2022-04-08": 314,
-  "2022-04-09": 316,
-  "2022-04-10": 319,
-  "2022-04-11": 319,
-  "2022-04-12": 319,
-  "2022-04-13": 319,
-  "2022-04-14": 319,
-  "2022-04-15": 319,
-  "2022-04-16": 319,
-  "2022-04-17": 319,
-  "2022-04-18": 319,
-  "2022-04-19": 319,
-  "2022-04-20": 319,
-  "2022-04-21": 319,
-  "2022-04-22": 319,
-  "2022-04-23": 319,
-  "2022-04-24": 319,
-  "2022-04-25": 319,
-  "2022-04-26": 319,
-  "2022-04-27": 319,
-  "2022-04-28": 319,
-  "2022-04-29": 319,
-  "2022-04-30": 319,
-  "2022-05-01": 319,
-  "2022-05-02": 319,
-  "2022-05-03": 319,
-  "2022-05-04": 319,
-  "2022-05-05": 319,
-  "2022-05-06": 319,
-  "2022-05-07": 319,
-  "2022-05-08": 319,
-  "2022-05-09": 319,
-  "2022-05-10": 319,
-  "2022-05-11": 319,
-  "2022-05-12": 319,
-  "2022-05-13": 319,
-  "2022-05-14": 319,
-  "2022-05-15": 319,
-  "2022-05-16": 319,
-  "2022-05-17": 319,
-  "2022-05-18": 319,
-  "2022-05-19": 319,
-  "2022-05-20": 319,
-  "2022-05-21": 319,
-  "2022-05-22": 319,
-  "2022-05-23": 319,
-  "2022-05-24": 319,
-  "2022-05-25": 319,
-  "2022-05-26": 319,
-  "2022-05-27": 319,
-  "2022-05-28": 319,
-  "2022-05-29": 319,
-  "2022-05-30": 319,
-  "2022-05-31": 319,
-  "2022-06-01": 319,
-  "2022-06-02": 319,
-  "2022-06-03": 319,
-  "2022-06-04": 319,
-  "2022-06-05": 319,
-  "2022-06-06": 319,
-  "2022-06-07": 319,
-  "2022-06-08": 319,
-  "2022-06-09": 319,
-  "2022-06-10": 319,
-  "2022-06-11": 319,
-  "2022-06-12": 319,
-  "2022-06-13": 319,
-  "2022-06-14": 319,
-  "2022-06-15": 319,
-  "2022-06-16": 319,
-  "2022-06-17": 319,
-  "2022-06-18": 319,
-  "2022-06-19": 319,
-  "2022-06-20": 319,
-  "2022-06-21": 319,
-  "2022-06-22": 319,
-  "2022-06-23": 319,
-  "2022-06-24": 319,
-  "2022-06-25": 319,
-  "2022-06-26": 319,
-  "2022-06-27": 319,
-  "2022-06-28": 319,
-  "2022-06-29": 319,
-  "2022-06-30": 319,
-  "2022-07-01": 319,
-  "2022-07-02": 319,
-  "2022-07-03": 319,
-  "2022-07-04": 319,
-  "2022-07-05": 319,
-  "2022-07-06": 319,
-  "2022-07-07": 319,
-  "2022-07-08": 319,
-  "2022-07-09": 319,
-  "2022-07-10": 319,
-  "2022-07-11": 319,
-  "2022-07-12": 319,
-  "2022-07-13": 319,
-  "2022-07-14": 319,
-  "2022-07-15": 319,
-  "2022-07-16": 319,
-  "2022-07-17": 319,
-  "2022-07-18": 319,
-  "2022-07-19": 319,
-  "2022-07-20": 319,
-  "2022-07-21": 319,
-  "2022-07-22": 319,
-  "2022-07-23": 319,
-  "2022-07-24": 319,
-  "2022-07-25": 319,
-  "2022-07-26": 319,
-  "2022-07-27": 319,
-  "2022-07-28": 319,
-  "2022-07-29": 319,
-  "2022-07-30": 319,
-  "2022-07-31": 319,
-  "2022-08-01": 319,
-  "2022-08-02": 319,
-  "2022-08-03": 319,
-  "2022-08-04": 319,
-  "2022-08-05": 319,
-  "2022-08-06": 319,
-  "2022-08-07": 319,
-  "2022-08-08": 319,
-  "2022-08-09": 319,
-  "2022-08-10": 319,
-  "2022-08-11": 319,
-  "2022-08-12": 319,
-  "2022-08-13": 319,
-  "2022-08-14": 319,
-  "2022-08-15": 319,
-  "2022-08-16": 319,
-  "2022-08-17": 319,
-  "2022-08-18": 319,
-  "2022-08-19": 319,
-  "2022-08-20": 319,
-  "2022-08-21": 319,
-  "2022-08-22": 319,
-  "2022-08-23": 319,
-  "2022-08-24": 319,
-  "2022-08-25": 319,
-  "2022-08-26": 319,
-  "2022-08-27": 319,
-  "2022-08-28": 319,
-  "2022-08-29": 319,
-  "2022-08-30": 319,
-  "2022-08-31": 319,
-  "2022-09-01": 319,
-  "2022-09-02": 319,
-  "2022-09-03": 319,
-  "2022-09-04": 319,
-  "2022-09-05": 319,
-  "2022-09-06": 319,
-  "2022-09-07": 319,
-  "2022-09-09": 319,
-  "2022-09-10": 319,
-  "2022-09-11": 319,
-  "2022-09-12": 319,
-  "2022-09-13": 319,
-  "2022-09-15": 319,
-  "2022-09-16": 319,
-  "2022-09-17": 319,
-  "2022-09-18": 319,
-  "2022-09-19": 319,
-  "2022-09-20": 319,
-  "2022-09-21": 319,
-  "2022-09-22": 319,
-  "2022-09-23": 319,
-  "2022-09-24": 319,
-  "2022-09-25": 319,
-  "2022-09-26": 319,
-  "2022-09-27": 319,
-  "2022-09-28": 319,
-  "2022-09-29": 319,
-  "2022-09-30": 319,
-  "2022-10-01": 319,
-  "2022-10-02": 319,
-  "2022-10-03": 319,
-  "2022-10-04": 319,
-  "2022-10-05": 319,
-  "2022-10-06": 319,
-  "2022-10-07": 319,
-  "2022-10-08": 319,
-  "2022-10-09": 319,
-  "2022-10-10": 319,
-  "2022-10-11": 319,
-  "2022-10-12": 319,
-  "2022-10-13": 319,
-  "2022-10-14": 319,
-  "2022-10-15": 319,
-  "2022-10-16": 319,
-  "2022-10-17": 319,
-  "2022-10-18": 319,
-  "2022-10-19": 319,
-  "2022-10-20": 319,
-  "2022-10-21": 319,
-  "2022-10-22": 319,
-  "2022-10-23": 319,
-  "2022-10-24": 319,
-  "2022-10-25": 319,
-  "2022-10-26": 319,
-  "2022-10-27": 319,
-  "2022-10-28": 319,
-  "2022-10-29": 319,
-  "2022-10-30": 319,
-  "2022-10-31": 319,
-  "2022-11-01": 319,
-  "2022-11-02": 319,
-  "2022-11-03": 319,
-  "2022-11-04": 319,
-  "2022-11-05": 319,
-  "2022-11-06": 319,
-  "2022-11-07": 319,
-  "2022-11-08": 319,
-  "2022-11-09": 319,
-  "2022-11-10": 319,
-  "2022-11-11": 319,
-  "2022-11-12": 319,
-  "2022-11-13": 319,
-  "2022-11-14": 319,
-  "2022-11-15": 319,
-  "2022-11-16": 319,
-  "2022-11-17": 319,
-  "2022-11-18": 319,
-  "2022-11-19": 319,
-  "2022-11-20": 319,
-  "2022-11-21": 319,
-  "2022-11-22": 319,
-  "2022-11-23": 319,
-  "2022-11-24": 319,
-  "2022-11-25": 319,
-  "2022-11-26": 319,
-  "2022-11-27": 319,
-  "2022-11-28": 319,
-  "2022-11-29": 319,
-  "2022-11-30": 319,
-  "2022-12-01": 319,
-  "2022-12-02": 319,
-  "2022-12-03": 319,
-  "2022-12-04": 319,
-  "2022-12-05": 319,
-  "2022-12-06": 319,
-  "2022-12-07": 319,
-  "2022-12-08": 319,
-  "2022-12-09": 319,
-  "2022-12-10": 319,
-  "2022-12-11": 319,
-  "2022-12-12": 319,
-  "2022-12-13": 319,
-  "2022-12-14": 319,
-  "2022-12-15": 319,
-  "2022-12-16": 319,
-  "2022-12-17": 319,
-  "2022-12-18": 319,
-  "2022-12-19": 319,
-  "2022-12-20": 319,
-  "2022-12-21": 319,
-  "2022-12-22": 319,
-  "2022-12-24": 319,
-  "2022-12-25": 319,
-  "2022-12-26": 319,
-  "2022-12-27": 319,
-  "2022-12-28": 319,
-  "2022-12-29": 319,
-  "2022-12-30": 319,
-  "2022-12-31": 319,
-  "2023-01-01": 319,
-  "2023-01-02": 319,
-  "2023-01-03": 319,
-  "2023-01-04": 319,
-  "2023-01-05": 319,
-  "2023-01-06": 319,
-  "2023-01-07": 319,
-  "2023-01-08": 319,
-  "2023-01-09": 319,
-  "2023-01-10": 319,
-  "2023-01-11": 319,
-  "2023-01-12": 319,
-  "2023-01-13": 319,
-  "2023-01-14": 319,
-  "2023-01-15": 319,
-  "2023-01-16": 319,
-  "2023-01-17": 319,
-  "2023-01-18": 319,
-  "2023-01-19": 319,
-  "2023-01-20": 319,
-  "2023-01-21": 319,
-  "2023-01-22": 319,
-  "2023-01-23": 319,
-  "2023-01-24": 319,
-  "2023-01-25": 319,
-  "2023-01-26": 319,
-  "2023-01-27": 319,
-  "2023-01-28": 319,
-  "2023-01-29": 319,
-  "2023-01-30": 319,
-  "2023-01-31": 319,
-  "2023-02-01": 319,
-  "2023-02-02": 319,
-  "2023-02-03": 319,
-  "2023-02-04": 319,
-  "2023-02-05": 319,
-  "2023-02-06": 319,
-  "2023-02-07": 319,
-  "2023-02-08": 319,
-  "2023-02-09": 319,
-  "2023-02-10": 319,
-  "2023-02-11": 319,
-  "2023-02-12": 319,
-  "2023-02-13": 319,
-  "2023-02-14": 319,
-  "2023-02-15": 319,
-  "2023-02-16": 319,
-  "2023-02-17": 319,
-  "2023-02-18": 319,
-  "2023-02-19": 319,
-  "2023-02-20": 319,
-  "2023-02-21": 319,
-  "2023-02-22": 319,
-  "2023-02-23": 319,
-  "2023-02-24": 319,
-  "2023-02-25": 319,
-  "2023-02-26": 319,
-  "2023-02-27": 319,
-  "2023-02-28": 319,
-  "2023-03-01": 319,
-  "2023-03-02": 319,
-  "2023-03-03": 319,
-  "2023-03-04": 319,
-  "2023-03-05": 319,
-  "2023-03-06": 319,
-  "2023-03-07": 319,
-  "2023-03-08": 319,
-  "2023-03-09": 319,
-  "2023-03-10": 319,
-  "2023-03-11": 319,
-  "2023-03-12": 319,
-  "2023-03-13": 319,
-  "2023-03-14": 319,
-  "2023-03-15": 319,
-  "2023-03-16": 319,
-  "2023-03-17": 319,
-  "2023-03-18": 319,
-  "2023-03-19": 319,
-  "2023-03-20": 319,
-  "2023-03-21": 319,
-  "2023-03-22": 319,
-  "2023-03-23": 319,
-  "2023-03-24": 319,
-  "2023-03-25": 319,
-  "2023-03-26": 319,
-  "2023-03-27": 319,
-  "2023-03-28": 319,
-  "2023-03-29": 319,
-  "2023-03-30": 319,
-  "2023-03-31": 319,
-  "2023-04-01": 319,
-  "2023-04-02": 319,
-  "2023-04-03": 319,
-  "2023-04-04": 319,
-  "2023-04-05": 319,
-  "2023-04-06": 319,
-  "2023-04-07": 319,
-  "2023-04-09": 319,
-  "2023-04-10": 319,
-  "2023-04-11": 319,
-  "2023-04-12": 319,
-  "2023-04-13": 319,
-  "2023-04-14": 319,
-  "2023-04-15": 319,
-  "2023-04-16": 319,
-  "2023-04-17": 319,
-  "2023-04-18": 319,
-  "2023-04-19": 319,
-  "2023-04-20": 319,
-  "2023-04-21": 319,
-  "2023-04-22": 319,
-  "2023-04-23": 319,
-  "2023-04-24": 319,
-  "2023-04-25": 319,
-  "2023-04-26": 319,
-  "2023-04-27": 319,
-  "2023-04-28": 319,
-  "2023-04-29": 319,
-  "2023-04-30": 319,
-  "2023-05-01": 319,
-  "2023-05-02": 319,
-  "2023-05-03": 319,
-  "2023-05-04": 319,
-  "2023-05-05": 319,
-  "2023-05-06": 319,
-  "2023-05-07": 319,
-  "2023-05-08": 319,
-  "2023-05-09": 319,
-  "2023-05-10": 319,
-  "2023-05-11": 319,
-  "2023-05-12": 319,
-  "2023-05-13": 319,
-  "2023-05-14": 319,
-  "2023-05-15": 319,
-  "2023-05-16": 319,
-  "2023-05-17": 319,
-  "2023-05-18": 319,
-  "2023-05-19": 319,
-  "2023-05-20": 319,
-  "2023-05-21": 319,
-  "2023-05-22": 319,
-  "2023-05-23": 319,
-  "2023-05-24": 319,
-  "2023-05-25": 319,
-  "2023-05-26": 319,
-  "2023-05-27": 319,
-  "2023-05-28": 319,
-  "2023-05-29": 319,
-  "2023-05-30": 319,
-  "2023-05-31": 319,
-  "2023-06-01": 319,
-  "2023-06-02": 319,
-  "2023-06-03": 319,
-  "2023-06-04": 319,
-  "2023-06-05": 319,
-  "2023-06-06": 319,
-  "2023-06-07": 319,
-  "2023-06-08": 319,
-  "2023-06-09": 319,
-  "2023-06-10": 319,
-  "2023-06-11": 319,
-  "2023-06-12": 319,
-  "2023-06-13": 319,
-  "2023-06-14": 319,
-  "2023-06-15": 319,
-  "2023-06-16": 319,
-  "2023-06-17": 319,
-  "2023-06-18": 319,
-  "2023-06-19": 319,
-  "2023-06-20": 319,
-  "2023-06-21": 319,
-  "2023-06-22": 319,
-  "2023-06-23": 319,
-  "2023-06-24": 319,
-  "2023-06-25": 319,
-  "2023-06-26": 319,
-  "2023-06-27": 319,
-  "2023-06-28": 319,
-  "2023-06-29": 319,
-  "2023-06-30": 319,
-  "2023-07-01": 319,
-  "2023-07-02": 319,
-  "2023-07-03": 319,
-  "2023-07-04": 319,
-  "2023-07-05": 319,
-  "2023-07-06": 319,
-  "2023-07-07": 319,
-  "2023-07-08": 319,
-  "2023-07-09": 319,
-  "2023-07-10": 319,
-  "2023-07-11": 319,
-  "2023-07-12": 319,
-  "2023-07-13": 319,
-  "2023-07-14": 319,
-  "2023-07-15": 319,
-  "2023-07-16": 319,
-  "2023-07-17": 319,
-  "2023-07-18": 319,
-  "2023-07-19": 319,
-  "2023-07-20": 319,
-  "2023-07-21": 319,
-  "2023-07-22": 319,
-  "2023-07-23": 319,
-  "2023-07-24": 319,
-  "2023-07-25": 319,
-  "2023-07-26": 319,
-  "2023-07-27": 319,
-  "2023-07-28": 319,
-  "2023-07-29": 319,
-  "2023-07-30": 319,
-  "2023-07-31": 319,
-  "2023-08-01": 319,
-  "2023-08-02": 319,
-  "2023-08-03": 319,
-  "2023-08-04": 319,
-  "2023-08-05": 319,
-  "2023-08-06": 319,
-  "2023-08-07": 319,
-  "2023-08-08": 319,
-  "2023-08-09": 319,
-  "2023-08-10": 319,
-  "2023-08-11": 319,
-  "2023-08-12": 319,
-  "2023-08-13": 319,
-  "2023-08-14": 319,
-  "2023-08-15": 319,
-  "2023-08-16": 319,
-  "2023-08-17": 319,
-  "2023-08-18": 319,
-  "2023-08-19": 319,
-  "2023-08-20": 319,
-  "2023-08-21": 319,
-  "2023-08-22": 319,
-  "2023-08-23": 319,
-  "2023-08-24": 319,
-  "2023-08-25": 319,
-  "2023-08-26": 319,
-  "2023-08-27": 319,
-  "2023-08-28": 319,
-  "2023-08-29": 319,
-  "2023-08-30": 319,
-  "2023-08-31": 319,
-  "2023-09-01": 319,
-  "2023-09-02": 319,
-  "2023-09-03": 319,
-  "2023-09-04": 319,
-  "2023-09-05": 319,
-  "2023-09-06": 319,
-  "2023-09-07": 319,
-  "2023-09-08": 319,
-  "2023-09-09": 319,
-  "2023-09-10": 319,
-  "2023-09-11": 319,
-  "2023-09-12": 319,
-  "2023-09-13": 319,
-  "2023-09-14": 319,
-  "2023-09-15": 319,
-  "2023-09-16": 319,
-  "2023-09-17": 319,
-  "2023-09-18": 319,
-  "2023-09-19": 319,
-  "2023-09-20": 319,
-  "2023-09-21": 319,
-  "2023-09-22": 319,
-  "2023-09-23": 319,
-  "2023-09-24": 319,
-  "2023-09-25": 319,
-  "2023-09-26": 319,
-  "2023-09-27": 319,
-  "2023-09-28": 319,
-  "2023-09-29": 319,
-  "2023-09-30": 319,
-  "2023-10-01": 319,
-  "2023-10-02": 319,
-  "2023-10-03": 319,
-  "2023-10-04": 319,
-  "2023-10-05": 319,
-  "2023-10-06": 319,
-  "2023-10-07": 319,
-  "2023-10-08": 319,
-  "2023-10-09": 319,
-  "2023-10-10": 319,
-  "2023-10-11": 319,
-  "2023-10-12": 319,
-  "2023-10-13": 319,
-  "2023-10-14": 319,
-  "2023-10-15": 319,
-  "2023-10-16": 319,
-  "2023-10-17": 319,
-  "2023-10-18": 319,
-  "2023-10-19": 319,
-  "2023-10-20": 319,
-  "2023-10-21": 319,
-  "2023-10-22": 319,
-  "2023-10-23": 319,
-  "2023-10-24": 319,
-  "2023-10-25": 319,
-  "2023-10-26": 319,
-  "2023-10-27": 319,
-  "2023-10-28": 319,
-  "2023-10-29": 319,
-  "2023-10-30": 319,
-  "2023-10-31": 319,
-  "2023-11-01": 319,
-  "2023-11-02": 319,
-  "2023-11-03": 319,
-  "2023-11-04": 319,
-  "2023-11-05": 319,
-  "2023-11-06": 319,
-  "2023-11-07": 319,
-  "2023-11-08": 319,
-  "2023-11-09": 319,
-  "2023-11-10": 319,
-  "2023-11-11": 319,
-  "2023-11-12": 319,
-  "2023-11-13": 319,
-  "2023-11-14": 319,
-  "2023-11-15": 319,
-  "2023-11-16": 319,
-  "2023-11-17": 319,
-  "2023-11-18": 319,
-  "2023-11-19": 319,
-  "2023-11-20": 319,
-  "2023-11-21": 319,
-  "2023-11-22": 319,
-  "2023-11-23": 319,
-  "2023-11-24": 319,
-  "2023-11-25": 319,
-  "2023-11-26": 319,
-  "2023-11-27": 319,
-  "2023-11-28": 319,
-  "2023-11-29": 319,
-  "2023-11-30": 319,
-  "2023-12-01": 319,
-  "2023-12-02": 319,
-  "2023-12-03": 319,
-  "2023-12-04": 319,
-  "2023-12-05": 319,
-  "2023-12-06": 319,
-  "2023-12-07": 319,
-  "2023-12-08": 319,
-  "2023-12-09": 319,
-  "2023-12-10": 319,
-  "2023-12-11": 319,
-  "2023-12-12": 319,
-  "2023-12-13": 319,
-  "2023-12-14": 319,
-  "2023-12-15": 319,
-  "2023-12-16": 319,
-  "2023-12-17": 319,
-  "2023-12-18": 319,
-  "2023-12-19": 319,
-  "2023-12-20": 319,
-  "2023-12-21": 319,
-  "2023-12-22": 319,
-  "2023-12-23": 319,
-  "2023-12-24": 319,
-  "2023-12-25": 319,
-  "2023-12-26": 319,
-  "2023-12-27": 319,
-  "2023-12-30": 319,
-  "2023-12-31": 319,
-  "2024-01-01": 319,
-  "2024-01-02": 319,
-  "2024-01-03": 319
+  "2024-01-17": 319,
+  "date_first_scraped": "2021-12-28",
+  "description": "Beautiful and evocative lieder, performed by legendary vocalists. ",
+  "name": "Classical Lieder",
+  "tracks": [
+    {
+      "album": {
+        "name": "Schumann, C.: Songs (Complete)",
+        "url": "https://open.spotify.com/album/64nsFcv1zJRDlzqGmvi4xx"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Dorothea Craxton",
+          "url": "https://open.spotify.com/artist/0BBLshFE1m0axnWqCc06VI"
+        },
+        {
+          "name": "Hedayet Djeddikar",
+          "url": "https://open.spotify.com/artist/4RpUySrIisyJx1kchkFeQP"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130053,
+      "name": "3 Lieder, Op. 12: No. 2. Liebst du um Schonheit",
+      "url": "https://open.spotify.com/track/59FgI4X81JIKlwd4TZSKMA"
+    },
+    {
+      "album": {
+        "name": "Paysages",
+        "url": "https://open.spotify.com/album/15NYlZx9TTeX9DYoHxK5cQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Susanna Phillips",
+          "url": "https://open.spotify.com/artist/4HkDwGNGoCkhY6b7l176OU"
+        },
+        {
+          "name": "Myra Huang",
+          "url": "https://open.spotify.com/artist/7n9rNYli7rjroQINsQgVJV"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224200,
+      "name": "4 Songs, Op. 39: No. 4, Les roses d'Ispahan",
+      "url": "https://open.spotify.com/track/15SfHyxjowneFiq4Yx6SxB"
+    },
+    {
+      "album": {
+        "name": "Mozart: Complete Lieder",
+        "url": "https://open.spotify.com/album/5d1yGXNndUdrrXGnl4krTT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Elly Ameling",
+          "url": "https://open.spotify.com/artist/6EF4HWfjexcF6EmdoRnSVC"
+        },
+        {
+          "name": "Dalton Baldwin",
+          "url": "https://open.spotify.com/artist/2pbSEyAiiPwFivKqxXLhiB"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300733,
+      "name": "Abendempfindung, K.523",
+      "url": "https://open.spotify.com/track/4vuG30cSJW3TtDQLkeIbDm"
+    },
+    {
+      "album": {
+        "name": "Beethoven: An die ferne Geliebte, Op. 98: 6. Nimm sie hin denn, diese Lieder",
+        "url": "https://open.spotify.com/album/1uv3006Z95SIxI2hCHY4UC"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Matthias Goerne",
+          "url": "https://open.spotify.com/artist/1F3yfrc1DyiWsM0YG7kpsN"
+        },
+        {
+          "name": "Jan Lisiecki",
+          "url": "https://open.spotify.com/artist/0iZW6hAah0wPk6gOZCGcmy"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225666,
+      "name": "An die ferne Geliebte, Op. 98: VI. Nimm sie hin denn, diese Lieder",
+      "url": "https://open.spotify.com/track/7MUKOup12ZJHqPQigu9sBA"
+    },
+    {
+      "album": {
+        "name": "An die Musik: Schubert Lieder",
+        "url": "https://open.spotify.com/album/6XnMytI4e4JFzibW9ag3tK"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Elly Ameling",
+          "url": "https://open.spotify.com/artist/6EF4HWfjexcF6EmdoRnSVC"
+        },
+        {
+          "name": "Dalton Baldwin",
+          "url": "https://open.spotify.com/artist/2pbSEyAiiPwFivKqxXLhiB"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "An die Musik, D.547",
+      "url": "https://open.spotify.com/track/7L6RpEC15niB0WRfpPaOvc"
+    },
+    {
+      "album": {
+        "name": "Wolf: Italienisches Liederbuch",
+        "url": "https://open.spotify.com/album/2vJSgyHCTn6uGGQZveuR5L"
+      },
+      "artists": [
+        {
+          "name": "Hugo Wolf",
+          "url": "https://open.spotify.com/artist/3JvFTHGx6J55BUnjL8l04T"
+        },
+        {
+          "name": "Mojca Erdmann",
+          "url": "https://open.spotify.com/artist/1hdyVLHoTsglQxf8dS0gSk"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Auch kleine Dinge k\u00f6nnen uns entz\u00fccken",
+      "url": "https://open.spotify.com/track/0ze3aMSK3wTuY3D3q7xM9c"
+    },
+    {
+      "album": {
+        "name": "Berlioz: Les Nuits d'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/3PjlCkLBYmahZ1xfo07oCm"
+      },
+      "artists": [
+        {
+          "name": "Hector Berlioz",
+          "url": "https://open.spotify.com/artist/11T8SOX82xraocZzUXzkvM"
+        },
+        {
+          "name": "Th\u00e9ophile Gautier",
+          "url": "https://open.spotify.com/artist/2WTkRnHohIMPdAaoljLkyR"
+        },
+        {
+          "name": "V\u00e9ronique Gens/Louis Langree/Orchestre de l'Op\u00e9ra National de Lyon",
+          "url": "https://open.spotify.com/artist/6G2nDVR27XA9tHtQZ8ZUsf"
+        },
+        {
+          "name": "Louis Langr\u00e9e",
+          "url": "https://open.spotify.com/artist/7e2ILiOIViOE4UwWsomh8d"
+        },
+        {
+          "name": "Orchestre De L'Op\u00e9ra National De Lyon",
+          "url": "https://open.spotify.com/artist/431WfHkgqtITULoPY33bLx"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127866,
+      "name": "Berlioz: Les Nuits d'\u00e9t\u00e9, Op. 7, H 81b: I. Villanelle, H 82b",
+      "url": "https://open.spotify.com/track/0a7eJGW7gWY7F5f7RjB3sw"
+    },
+    {
+      "album": {
+        "name": "N\u00e9\u00e8re",
+        "url": "https://open.spotify.com/album/57H7QEaB0uMAD1WfIjZOu6"
+      },
+      "artists": [
+        {
+          "name": "Henri Duparc",
+          "url": "https://open.spotify.com/artist/3ceP0vCQkBmSKTvF6CsuOw"
+        },
+        {
+          "name": "V\u00e9ronique Gens",
+          "url": "https://open.spotify.com/artist/1RyVStjzi2FZFBnXr0WUQ6"
+        },
+        {
+          "name": "Susan Manoff",
+          "url": "https://open.spotify.com/artist/3rZLeBHWIFgtzCsWobkapY"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172720,
+      "name": "Chanson triste",
+      "url": "https://open.spotify.com/track/3JOaFv7vaErWcrdqpmBDOa"
+    },
+    {
+      "album": {
+        "name": "Weber: Der Freisch\u00fctz",
+        "url": "https://open.spotify.com/album/79rmrUQd8i7LsgGoZB3uHc"
+      },
+      "artists": [
+        {
+          "name": "Carl Maria von Weber",
+          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "name": "Gundula Janowitz",
+          "url": "https://open.spotify.com/artist/2VMPE6OWfNkGhnPe4KFLgX"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357466,
+      "name": "Der Freisch\u00fctz, J. 277 / Act III: \"Und ob die Wolke sie verh\u00fclle\"",
+      "url": "https://open.spotify.com/track/19dSGEa2qpyGM60nxoLv3q"
+    },
+    {
+      "album": {
+        "name": "Completely Clara: Lieder By Clara Wieck Schumann",
+        "url": "https://open.spotify.com/album/5bKsJD4spfUgCDFu7tESc1"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Joanne Polk",
+          "url": "https://open.spotify.com/artist/0Hgrwj6TQd1u3pQ1vNwGP3"
+        },
+        {
+          "name": "Korliss Uecker",
+          "url": "https://open.spotify.com/artist/07WmYSBwPW02k4EHq042UL"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Der Mond Kommt Still Gegangen Op. 13, No. 4",
+      "url": "https://open.spotify.com/track/5pH5NbJXwQUnQvfY3cJ4rM"
+    },
+    {
+      "album": {
+        "name": "The Best of Elisabeth Schwarzkopf",
+        "url": "https://open.spotify.com/album/2w6zMlpLTjgr5NP6Vdqu37"
+      },
+      "artists": [
+        {
+          "name": "Elisabeth Schwarzkopf",
+          "url": "https://open.spotify.com/artist/0B94ekfBARqVS2gwrTnvJ6"
+        },
+        {
+          "name": "Gerald Moore",
+          "url": "https://open.spotify.com/artist/0QjqcG7aDPrqJrEogqZu3w"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181400,
+      "name": "Der Nussbaum",
+      "url": "https://open.spotify.com/track/4lr9rLAZtg7EHSd448JfAZ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lieder",
+        "url": "https://open.spotify.com/album/0uzVPUv4qqaRA7SAaTUIQ5"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Jessye Norman",
+          "url": "https://open.spotify.com/artist/0zdBW3w3XzBuPMUEiarUUw"
+        },
+        {
+          "name": "Phillip Moll",
+          "url": "https://open.spotify.com/artist/0IPYikN1DXDK1XK7eMkIIE"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Der Tod und das M\u00e4dchen, D. 531 (Op.7/3)",
+      "url": "https://open.spotify.com/track/4Ro3eHa5VBQTTulzDAJOYK"
+    },
+    {
+      "album": {
+        "name": "Schumann: Dichterliebe; Liederkreis op.39; Selection from \"Myrten\"",
+        "url": "https://open.spotify.com/album/5PCxFU9Csrc58JNIpaSyC6"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Dietrich Fischer-Dieskau",
+          "url": "https://open.spotify.com/artist/10CN8N2O3FlGlPVJWBiu5D"
+        },
+        {
+          "name": "Christoph Eschenbach",
+          "url": "https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94026,
+      "name": "Dichterliebe, Op. 48: I. Im wundersch\u00f6nen Monat Mai",
+      "url": "https://open.spotify.com/track/3JhGPwJOuxR6jW3f9DhS1D"
+    },
+    {
+      "album": {
+        "name": "Schumann: Dichterliebe / Beethoven & Schubert: Lieder",
+        "url": "https://open.spotify.com/album/36OhNMPqhk5lVf2HNY6ErU"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Hubert Giesen",
+          "url": "https://open.spotify.com/artist/4JiFvHUZrCO4IyeEs19fjn"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115333,
+      "name": "Dichterliebe, Op.48: 10. H\u00f6r' ich das Liedchen klingen",
+      "url": "https://open.spotify.com/track/3VItFGYyv2uvEzrzKQcbAM"
+    },
+    {
+      "album": {
+        "name": "Strauss: Lieder",
+        "url": "https://open.spotify.com/album/5MMvXmEF2wHli9jAXKf4hF"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Aline Kutan",
+          "url": "https://open.spotify.com/artist/3f88S2bZnDkJwLfBYn0WMo"
+        },
+        {
+          "name": "Louise-Andr\u00e9e Baril",
+          "url": "https://open.spotify.com/artist/3sXbDctWhd3wLAeCuJpQEq"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159465,
+      "name": "Die Nacht, Op. 10 No. 3",
+      "url": "https://open.spotify.com/track/0qyUO9C3tqv8jCaNkSWxM6"
+    },
+    {
+      "album": {
+        "name": "Le Rossignol et la Rose",
+        "url": "https://open.spotify.com/album/5orrCLohCIDt4KINNco5xb"
+      },
+      "artists": [
+        {
+          "name": "Alban Berg",
+          "url": "https://open.spotify.com/artist/60ju8DuNEmkdLw3ymddLje"
+        },
+        {
+          "name": "Chen Reiss",
+          "url": "https://open.spotify.com/artist/1pZTGD8GoymacpJ5DLtQbo"
+        },
+        {
+          "name": "Charles Spencer",
+          "url": "https://open.spotify.com/artist/1rJfq4FTiCrG734zcybxQN"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133066,
+      "name": "Die Nachtigall: Die Nachtigall - Berg",
+      "url": "https://open.spotify.com/track/5alBntVK9BKWQYtpAReevl"
+    },
+    {
+      "album": {
+        "name": "Schubert: Die sch\u00f6ne M\u00fcllerin, D. 795",
+        "url": "https://open.spotify.com/album/2YbvjwusxuqSyVP3e6Nlq9"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151493,
+      "name": "Die sch\u00f6ne M\u00fcllerin, Op. 25, D. 795: 2. Wohin?",
+      "url": "https://open.spotify.com/track/5zPvfevth4qOlzyJvrcNSm"
+    },
+    {
+      "album": {
+        "name": "Brahms, Clara & Robert Schumann: Sch\u00f6ne Wiege meiner Leiden",
+        "url": "https://open.spotify.com/album/6dpLgtv9kPlPZc50eZyReB"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Werner G\u00fcra",
+          "url": "https://open.spotify.com/artist/5l99uDJZTV5zK5crn1Nt6V"
+        },
+        {
+          "name": "Christoph Berner",
+          "url": "https://open.spotify.com/artist/0qjUgu9gIYjeONfMjklJ89"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Er ist gekommen",
+      "url": "https://open.spotify.com/track/03K7dsAupZ3JhAp85vNvNb"
+    },
+    {
+      "album": {
+        "name": "Schubert: An die Musik",
+        "url": "https://open.spotify.com/album/6K7RrW6kZRi2rPENw76pDG"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Bryn Terfel",
+          "url": "https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl"
+        },
+        {
+          "name": "Malcolm Martineau",
+          "url": "https://open.spotify.com/artist/1i6erSbtyzD87TZVxLSiC2"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Erlk\u00f6nig, D. 328 (Op.1)",
+      "url": "https://open.spotify.com/track/1GVhRtMmS41aYQL45lhmeC"
+    },
+    {
+      "album": {
+        "name": "Nuit d'\u00e9toiles - M\u00e9lodies fran\u00e7aises",
+        "url": "https://open.spotify.com/album/44iRgngOfWvNFD8M7YAqEj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "V\u00e9ronique Gens",
+          "url": "https://open.spotify.com/artist/1RyVStjzi2FZFBnXr0WUQ6"
+        },
+        {
+          "name": "Roger Vignoles",
+          "url": "https://open.spotify.com/artist/5XVtByLJ0QFGXg7MwG0YKZ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156400,
+      "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave",
+      "url": "https://open.spotify.com/track/2Fv0PjcHyB7LfxmwOjn5rM"
+    },
+    {
+      "album": {
+        "name": "Brahms: Lieder",
+        "url": "https://open.spotify.com/album/6aqnrAHvLWCkNeXrcz0zhg"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Roger Vignoles",
+          "url": "https://open.spotify.com/artist/5XVtByLJ0QFGXg7MwG0YKZ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Feldeinsamkeit, Op. 86/2",
+      "url": "https://open.spotify.com/track/2X7Ga9vke5AhjMJlFBYpgQ"
+    },
+    {
+      "album": {
+        "name": "Wie Melodien zieht es mir leise durch den Sinn...",
+        "url": "https://open.spotify.com/album/1zXrR2LopbiMEcsoJKamNK"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "John Buttrick",
+          "url": "https://open.spotify.com/artist/0YdGUa6tAfpHd1zWf2mcqv"
+        },
+        {
+          "name": "Elisabeth Speiser",
+          "url": "https://open.spotify.com/artist/5fuI3rz7CWwl44I2LUJXGz"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153213,
+      "name": "F\u00fcnf Lieder, Op. 105: No. 1, Wie Melodien zieht es...",
+      "url": "https://open.spotify.com/track/1dzJGjNkeXjuUKjogHduXp"
+    },
+    {
+      "album": {
+        "name": "Mendelssohn-Hensel: Gartenlieder",
+        "url": "https://open.spotify.com/album/4lH0qLAhNVq29oBwTGviaX"
+      },
+      "artists": [
+        {
+          "name": "Fanny Mendelssohn",
+          "url": "https://open.spotify.com/artist/2Wj0NreQeOfrGxnPIaLcCi"
+        },
+        {
+          "name": "Edina Leue",
+          "url": "https://open.spotify.com/artist/79gE75Nj0V8I6bQLX7IGjD"
+        },
+        {
+          "name": "Gabriele Peters",
+          "url": "https://open.spotify.com/artist/3qp8RHaM8bVMChe1sJep4G"
+        },
+        {
+          "name": "Herlind Wartenberg",
+          "url": "https://open.spotify.com/artist/3NDkycD4gGePBU48HcDHGz"
+        },
+        {
+          "name": "Jorg Hannes Kuhn",
+          "url": "https://open.spotify.com/artist/42Fjb5lzvcsUzHACIeavGk"
+        },
+        {
+          "name": "Florian Giertzuch",
+          "url": "https://open.spotify.com/artist/4M6m8xmgo1c2aNQzPrLX90"
+        },
+        {
+          "name": "Cologne Leonarda Ensemble Choir",
+          "url": "https://open.spotify.com/artist/23o3UZIhtAfgmxbBMSVuDt"
+        },
+        {
+          "name": "Elke Mascha Blankenburg",
+          "url": "https://open.spotify.com/artist/6erNpytXJDgN3b4dj2Q9FR"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Gartenlieder, Op. 3: No. 1. Im Wald",
+      "url": "https://open.spotify.com/track/1ItYX16LL5kaBr2sqM4U2B"
+    },
+    {
+      "album": {
+        "name": "Schubert: Lieder - Ave Maria; Die Forelle; Heidenr\u00f6slein; Gretchen am Spinnrade; Der Tod und das M\u00e4dchen",
+        "url": "https://open.spotify.com/album/41mMoStBqFcktVUn3WIDta"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Christoph Eschenbach",
+          "url": "https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Gretchen am Spinnrade, D. 118",
+      "url": "https://open.spotify.com/track/03u8vygMYS4suMCPEaIPpV"
+    },
+    {
+      "album": {
+        "name": "Cecilia Bartoli - Chant d'Amour",
+        "url": "https://open.spotify.com/album/40moqrwgW3aoPs9g0XUXUj"
+      },
+      "artists": [
+        {
+          "name": "Pauline Viardot",
+          "url": "https://open.spotify.com/artist/2CbDZ4o7nQPSW6agG93tqr"
+        },
+        {
+          "name": "Cecilia Bartoli",
+          "url": "https://open.spotify.com/artist/3uw6GzeL10NfFrcikMo9Na"
+        },
+        {
+          "name": "Myung-Whun Chung",
+          "url": "https://open.spotify.com/artist/4hdiwtmc6OEFFxpSlwwmby"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217666,
+      "name": "Hai luli",
+      "url": "https://open.spotify.com/track/3xlxxMUgMbW8e6HEAB3tfc"
+    },
+    {
+      "album": {
+        "name": "The Recitals",
+        "url": "https://open.spotify.com/album/7xj2hZDVBWOPaWZpHaNOST"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Evelyn Lear",
+          "url": "https://open.spotify.com/artist/7cqPRCrwbsqYEw0RurLb6x"
+        },
+        {
+          "name": "Thomas Stewart",
+          "url": "https://open.spotify.com/artist/3sHuMdPp3RW26RMOYChyKA"
+        },
+        {
+          "name": "Erik Werba",
+          "url": "https://open.spotify.com/artist/6sw6q5FyJ7A7d6mUy8rk5W"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150013,
+      "name": "Herbstlied, Op.63, No.4",
+      "url": "https://open.spotify.com/track/5VfOA0RdXkEK2qveqVMWzl"
+    },
+    {
+      "album": {
+        "name": "Schumann: Dichterliebe; Brahms: Lieder",
+        "url": "https://open.spotify.com/album/0CxtT7SNBk6p2aHxmgtq4G"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Simon Keenlyside",
+          "url": "https://open.spotify.com/artist/5wNBW2yqGhv7lR3AvzD3JG"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92373,
+      "name": "Ich grolle nicht",
+      "url": "https://open.spotify.com/track/4XdOmzVbVIRiWrB70txmld"
+    },
+    {
+      "album": {
+        "name": "Erste Begegnung / First Encounter",
+        "url": "https://open.spotify.com/album/0vS85oETDYiLxMvboywp4b"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Angelika Kirchschlager",
+          "url": "https://open.spotify.com/artist/3yxeKJjrlR5ZFzLFx5cql4"
+        },
+        {
+          "name": "Barbara Bonney",
+          "url": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124253,
+      "name": "Lieder (Duette), Op. 63: IV. Herbstlied",
+      "url": "https://open.spotify.com/track/2snr3EXBvgnC2YXDsHmF9I"
+    },
+    {
+      "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/6evOyEoXRFtzSMkEyGi7Jm"
+      },
+      "artists": [
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264653,
+      "name": "Lieder eines fahrenden Gesellen: II. Ging heut morgen \u00fcber's Feld",
+      "url": "https://open.spotify.com/track/2B4VMMtYMbbUyelIi1lwI2"
+    },
+    {
+      "album": {
+        "name": "Liszt Songs",
+        "url": "https://open.spotify.com/album/7r8wFNNAhSYNp9rMY3by68"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Diana Damrau",
+          "url": "https://open.spotify.com/artist/4gbrnZzPDYl2SBjzAL4KIE"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386560,
+      "name": "Liszt: Die Loreley, S. 273",
+      "url": "https://open.spotify.com/track/5SYK38TdhfXD5pbYs34ZvR"
+    },
+    {
+      "album": {
+        "name": "mozart lieder",
+        "url": "https://open.spotify.com/album/2X8OpfbPJx1EtR0ch9KBYN"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Barbara Hendricks",
+          "url": "https://open.spotify.com/artist/3NkCIDMU5HgFAyVLVdCWgE"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152293,
+      "name": "Mozart: An die Hoffnung, K. 390/340c: \"Ich w\u00fcrd' auf meinem Pfad\" (M\u00e4ssig, gehend)",
+      "url": "https://open.spotify.com/track/4cDoaF4B1DKOYXHOz017hf"
+    },
+    {
+      "album": {
+        "name": "Schubert: Nacht und Tr\u00e4ume",
+        "url": "https://open.spotify.com/album/2RDR4pwZnea0klwTjMXPJH"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Matthias Goerne",
+          "url": "https://open.spotify.com/artist/1F3yfrc1DyiWsM0YG7kpsN"
+        },
+        {
+          "name": "Alexander Schmalcz",
+          "url": "https://open.spotify.com/artist/0UJ5YhZ53tjefL1nyrtcR3"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248013,
+      "name": "Nacht und Tr\u00e4ume, D. 827",
+      "url": "https://open.spotify.com/track/5QZfSMiK0ltDWxK0jr2XZd"
+    },
+    {
+      "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/5Kk4MvU3Dxd8pahAGczfkj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Henk Neven",
+          "url": "https://open.spotify.com/artist/48gTZ93yzUqMjrhVRecUv5"
+        },
+        {
+          "name": "Hans Eijsackers",
+          "url": "https://open.spotify.com/artist/7etzMmKzxiH0iq9X6KAiEM"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Po\u00e8me d\u2019un jour op.21, Faure: III. Adieu",
+      "url": "https://open.spotify.com/track/45nMkhsJ6SHuQsHcFeu1g1"
+    },
+    {
+      "album": {
+        "name": "Schubert: Ave Maria, Die Forelle, Heidenr\u00f6slein & Other Lieder",
+        "url": "https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Barbara Bonney",
+          "url": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Geoffrey Parsons",
+          "url": "https://open.spotify.com/artist/3x9SScXuqC40Sq6j4hpXCC"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379053,
+      "name": "Schubert: Ave Maria, Op. 52 No. 6, D. 839",
+      "url": "https://open.spotify.com/track/3eLlW0GegkXy3o92t51xaJ"
+    },
+    {
+      "album": {
+        "name": "Schubert: Ave Maria, Die Forelle, Heidenr\u00f6slein & Other Lieder",
+        "url": "https://open.spotify.com/album/7xCjhI1Pjslxmec4FiZwhC"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Barbara Bonney",
+          "url": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Geoffrey Parsons",
+          "url": "https://open.spotify.com/artist/3x9SScXuqC40Sq6j4hpXCC"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139866,
+      "name": "Schubert: Die Forelle, Op. 32, D. 550",
+      "url": "https://open.spotify.com/track/29DP37rzUOuTWEngui5e1L"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Lieder",
+        "url": "https://open.spotify.com/album/2l6ec3zhT5EkmADsSXWves"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Iris Vermillion",
+          "url": "https://open.spotify.com/artist/3rY0dedDfgVWcArbhr1Nrh"
+        },
+        {
+          "name": "Peter Stamm",
+          "url": "https://open.spotify.com/artist/4A5Audg5XtIPG5f9Rrn84o"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89800,
+      "name": "Sehnsucht, WoO 134 (1st setting)",
+      "url": "https://open.spotify.com/track/7ptenXBPPuWT8SpuZNcS70"
+    },
+    {
+      "album": {
+        "name": "American Songs",
+        "url": "https://open.spotify.com/album/1wT4UNebPrTKAZPoNAmCRH"
+      },
+      "artists": [
+        {
+          "name": "Dominick Argento",
+          "url": "https://open.spotify.com/artist/0dFtVIepmvSVnZ1G3NxY6g"
+        },
+        {
+          "name": "Barbara Bonney",
+          "url": "https://open.spotify.com/artist/24fwyM31DLDqYOPvQ0jFFr"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185240,
+      "name": "Six Elizabethan Songs: 2. Sleep (Samuel Daniel)",
+      "url": "https://open.spotify.com/track/36TmXTNOQewl8JO5Hqw90i"
+    },
+    {
+      "album": {
+        "name": "Leontyne Price sings Schumann",
+        "url": "https://open.spotify.com/album/09AopwyvoMVD9mHr4PLvwc"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Leontyne Price",
+          "url": "https://open.spotify.com/artist/3Qh7r2c4JWTmRLH3swU9dC"
+        },
+        {
+          "name": "David Garvey",
+          "url": "https://open.spotify.com/artist/2kd0Ep69iasv4mZ6wMBXSr"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59773,
+      "name": "Volksliedchen, Op. 51, No. 2",
+      "url": "https://open.spotify.com/track/0dSC755adqrMF5owzzwVUe"
+    },
+    {
+      "album": {
+        "name": "Felicity Lott s'amuse... Auf Deutsch",
+        "url": "https://open.spotify.com/album/6SwIeOQM3hcAaVTAG8ag3e"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Felicity Lott",
+          "url": "https://open.spotify.com/artist/4KdvkjFvLnChrlb1ZYN6Yi"
+        },
+        {
+          "name": "Graham Johnson",
+          "url": "https://open.spotify.com/artist/31RaT1FwiadCsY9LLpdLGw"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125373,
+      "name": "Wer hat dies Liedlein erdacht",
+      "url": "https://open.spotify.com/track/78apvHxCQuQjZy4DrAqJdy"
+    },
+    {
+      "album": {
+        "name": "Selige Stunde",
+        "url": "https://open.spotify.com/album/2u0k9NBcEmXovlRWNU4PRs"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126586,
+      "name": "Widmung, Op. 25, No. 1",
+      "url": "https://open.spotify.com/track/0hx0ZAZmLQlJ80RLSczqjf"
+    },
+    {
+      "album": {
+        "name": "Selige Stunde",
+        "url": "https://open.spotify.com/album/2u0k9NBcEmXovlRWNU4PRs"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Jonas Kaufmann",
+          "url": "https://open.spotify.com/artist/2OHnFY58Dg8c2SC2PtootB"
+        },
+        {
+          "name": "Helmut Deutsch",
+          "url": "https://open.spotify.com/artist/3v6738Dv4OlBRXQgSmrIeQ"
+        }
+      ],
+      "date_added": "2021-12-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104653,
+      "name": "Zueignung, Op. 10, No. 1",
+      "url": "https://open.spotify.com/track/13RIJwZGSkBAIMGMc6LEtL"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7uGAnVasG1a"
 }

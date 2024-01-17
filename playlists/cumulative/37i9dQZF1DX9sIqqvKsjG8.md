@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-813 songs - 1 day 10 hr 46 min
+820 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2023-09-23 |
 | [Ascent](https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Ascent](https://open.spotify.com/album/2Azjzabd4xGsmjpCqWSejA) | 1:55 | 2022-11-11 | 2023-07-26 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 | 2022-11-12 |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Auf dem Felde](https://open.spotify.com/track/41DUMAp3y9qP384vrS0f2r) | [Wolfgang Schulmann](https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz) | [Auf dem Felde](https://open.spotify.com/album/0EROhvEiWfGx9i9btcWQQm) | 1:48 | 2021-12-07 | 2022-03-18 |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 |  |
 | [Autres temps, autres mœurs](https://open.spotify.com/track/6aGvF7goNzrTx03ZK6EJOX) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Autres temps, autres mœurs](https://open.spotify.com/album/2UTphZZpH1w90kHCB0hfz7) | 2:00 | 2021-12-07 | 2022-10-14 |
@@ -159,6 +160,7 @@
 | [crystal creek](https://open.spotify.com/track/5elkvtzKLz3UEJP4M8ZmhI) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [chateau & crystal creek](https://open.spotify.com/album/27ZmGbSDeBUUb7G6f9Wllj) | 2:27 | 2022-07-19 |  |
 | [Cupola Quadrata](https://open.spotify.com/track/1vpC44p5sO6vvJ6yPxVkt6) | [Ton Doux](https://open.spotify.com/artist/7k2yj18LpdzvFnBoamoQMB) | [Cupola Quadrata](https://open.spotify.com/album/7Hidl4kOIR67qsnZVwzLq5) | 2:18 | 2022-03-30 |  |
 | [Cyclist Waltz Solo](https://open.spotify.com/track/1mURpkUAqx3EIqHpNV9l8c) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mosi](https://open.spotify.com/album/6s50HIZV1AmlBDOPZTpjjB) | 2:27 | 2021-12-07 | 2022-05-06 |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-07 | 2022-07-20 |
 | [Dancing Michelangelo](https://open.spotify.com/track/1fKfNwz9b2zkY9SoC5NC7I) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Dancing Michelangelo](https://open.spotify.com/album/3wr7KCwoPjLCAUtPPMwmtA) | 2:18 | 2021-12-07 | 2022-06-08 |
 | [Danderlion](https://open.spotify.com/track/4p3aBt5WfldkaRaDfBcfGG) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Danderlion](https://open.spotify.com/album/06mlIPE6BeK3DQlIxLkgjR) | 2:16 | 2021-12-07 |  |
@@ -312,6 +314,7 @@
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 | 2022-03-17 |
 | [I Was Thinking](https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [I Was Thinking](https://open.spotify.com/album/5CAT5ZnVtK4zp2XpBVVo5i) | 2:27 | 2021-12-07 | 2023-04-26 |
 | [If The Wind Stops \- Calm Version](https://open.spotify.com/track/1IftqSqlnSXAHG6Vahrsuj) | [Florian Christl](https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV) | [Pianissimo](https://open.spotify.com/album/7vBWI0VTZ4NPylawx1Eng2) | 4:04 | 2023-08-21 |  |
+| [Ignis](https://open.spotify.com/track/0kDuotZ7G61nk9rQNcHBbK) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Ignis](https://open.spotify.com/album/6Z0Zu6OiJYKJ4FXGl9rpXO) | 3:32 | 2024-01-03 |  |
 | [Il Gondoliere](https://open.spotify.com/track/4Js006shgozGVBa03rr3Wg) | [Luisa Leonetti](https://open.spotify.com/artist/5qpXgVpKpeKe5j4ENTQOwq) | [Il Gondoliere](https://open.spotify.com/album/1W6dRLL6nw8Gf1DlXI8yY3) | 2:20 | 2023-09-29 |  |
 | [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 | 2023-05-10 |
 | [Imagery Noir](https://open.spotify.com/track/0WlrMzNOlzqiMXvkTNaefs) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Imagery Noir](https://open.spotify.com/album/1AuorWIwxQ0oM0S3G4skZG) | 2:39 | 2021-12-07 |  |
@@ -582,7 +585,8 @@
 | [Sanctum](https://open.spotify.com/track/35liU7bs2YbA1udhkERMok) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Sanctum](https://open.spotify.com/album/2Hgwn7veVh8OIFsq7IzVKI) | 2:59 | 2022-01-17 | 2023-05-04 |
 | [Sand Drawings](https://open.spotify.com/track/1oX6tIvd6rWyt7BnrhSEcu) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [One More Story](https://open.spotify.com/album/19B1Y0X1FXBTAcaDfrfYwk) | 2:00 | 2023-11-20 | 2023-12-07 |
 | [Sand Drawings](https://open.spotify.com/track/2Dp9TIMXgkkJKIMDlMRVga) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Before Bed](https://open.spotify.com/album/2VU935bqWQB3q0xqkAojfc) | 2:00 | 2023-11-20 | 2023-12-22 |
-| [Sand Drawings](https://open.spotify.com/track/2hxLnZjndZZSc2dRUWeIz8) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Around This Hour](https://open.spotify.com/album/7GUnb9CzE2mHdapoo4ZoWR) | 2:00 | 2023-12-18 |  |
+| [Sand Drawings](https://open.spotify.com/track/2hxLnZjndZZSc2dRUWeIz8) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Around This Hour](https://open.spotify.com/album/7GUnb9CzE2mHdapoo4ZoWR) | 2:00 | 2023-12-18 | 2024-01-05 |
+| [Sand Drawings](https://open.spotify.com/track/4t4pUb2ZpeFJnGCkBL0f0c) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Songs Of Sundown](https://open.spotify.com/album/4HbZNk7ptUjYxOUy0yFCGI) | 2:00 | 2024-01-03 |  |
 | [Sand Drawings](https://open.spotify.com/track/4tGCUIAYR0D1mgr26lf6ri) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Sand Drawings](https://open.spotify.com/album/4sc1y23oEqoAwoXFqVltvr) | 2:00 | 2023-10-23 | 2023-11-06 |
 | [Sand Drawings](https://open.spotify.com/track/6BRP3nHa4RmdbgfohRpMgn) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Minutes To Midnight](https://open.spotify.com/album/57yynEiExWrdlhWQgYrZi7) | 2:00 | 2023-10-23 | 2023-11-29 |
 | [Santos \- Lisbon](https://open.spotify.com/track/0G8O0bm8jxkIoz3WPzTElm) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Santos \- Lisbon](https://open.spotify.com/album/3mG8uvXqD0UMJz5wxeLX9P) | 2:41 | 2022-05-20 |  |
@@ -621,6 +625,7 @@
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-02-14 | 2023-01-27 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2021-12-07 |  |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 |  |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-01-27 |
@@ -681,7 +686,8 @@
 | [the color of the sky \- solo piano](https://open.spotify.com/track/06UlQEupfklesVD0OB2N87) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(solo piano\)](https://open.spotify.com/album/5CwNs4a2hBPimKHRvb6rM0) | 3:43 | 2022-09-12 | 2022-11-25 |
 | [The Conversation](https://open.spotify.com/track/7w8BJ0wsGFDSJuovWwwtF6) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [The Conversation](https://open.spotify.com/album/6ydnZGAPtxZ2h4bk1OAhIy) | 2:04 | 2023-11-13 |  |
 | [The Core Of You And Me](https://open.spotify.com/track/3stjD85Qqc7O3ZEiHHpa7p) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [The Core Of You And Me](https://open.spotify.com/album/5nnxprlasGXcPeLta5dZkq) | 2:00 | 2023-11-20 | 2023-12-07 |
-| [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-20 |  |
+| [The Core Of You And Me](https://open.spotify.com/track/5IsRo9BBiKznH7DtTQiOTv) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Stoa](https://open.spotify.com/album/0CQUjvhGk0QX52BNYL5zlP) | 2:00 | 2024-01-03 |  |
+| [The Core Of You And Me](https://open.spotify.com/track/5eOQ1qFCkULQE7wW6yQRmN) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Shadows Of Us](https://open.spotify.com/album/1TFEStNtrTBCmdXn714380) | 2:00 | 2023-11-20 | 2024-01-05 |
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-06-27 |  |
 | [The Deep End](https://open.spotify.com/track/5SqntbiG519DFOWmTd9B2K) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/18h0wyRhOJtwPd2lcGZpfU) | 2:09 | 2021-12-07 | 2022-07-29 |
 | [The Deep End](https://open.spotify.com/track/670UNEC9XyjOvq1HOic4jE) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [The Deep End](https://open.spotify.com/album/6AzacQuQXwJE3dC1ts5NII) | 2:09 | 2022-07-19 | 2022-10-05 |
@@ -694,6 +700,7 @@
 | [The hills](https://open.spotify.com/track/2wbG3Ma6mHGHI1cJv7r67u) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [The hills](https://open.spotify.com/album/1Hcu386OoNkU3xHgoTwmid) | 2:52 | 2022-11-24 | 2023-09-30 |
 | [The Hours](https://open.spotify.com/track/3oZOceAylTaZT8EKdz6M50) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [The Hours](https://open.spotify.com/album/12a4l0Phhf9Ae9TQOWtbf1) | 2:13 | 2021-12-07 | 2022-08-26 |
 | [The lighthouse](https://open.spotify.com/track/4EuLUeWUGHK3BVJGBcpQah) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Back home](https://open.spotify.com/album/7rISUDvNmbSZ8oyY0v7Tfp) | 2:52 | 2022-06-07 | 2022-10-25 |
+| [The Lights Around the Shore](https://open.spotify.com/track/1jrfP4XxY3NWBqRJy6sFt7) | [Rory Lewis](https://open.spotify.com/artist/5xMvSh83e0z7eBZSZ8dxKA) | [The Lights Around the Shore](https://open.spotify.com/album/3pWNJJc1R4M1OGArzIxqc6) | 2:51 | 2024-01-03 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-03-06 |  |
 | [The Moon Tells Me a Secret](https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64) | [Franco Robert](https://open.spotify.com/artist/3SmMFjYXeSKnh6JOJ1fpIx) | [The Moon Tells Me a Secret](https://open.spotify.com/album/52reaxxZt2xnGqSiy73D8M) | 1:50 | 2021-12-07 | 2023-07-19 |
 | [The Morning After](https://open.spotify.com/track/5ua7qZZVNiysfAbcN5IS6e) | [Tim Missel](https://open.spotify.com/artist/1DYhuAXlTQBvFFfLuYKM4l) | [The Morning After](https://open.spotify.com/album/7vVRy5xt2nrG6qGJcv6Cah) | 2:16 | 2021-12-07 | 2022-10-05 |

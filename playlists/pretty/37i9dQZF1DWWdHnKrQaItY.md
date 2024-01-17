@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 
 > Run, dance, jump, and play with this kid\-approved workout playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,823 likes - 69 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 69 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdHnKrQaItY.md) - [plain]
 | 68 | [Dorothy's Dance Party](https://open.spotify.com/track/0YTFQsygHGEcBz7dkkuHRJ) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Taking Off!](https://open.spotify.com/album/6LxjwpJzotr71JIF2RefDm) | 2:12 |
 | 69 | [Happy Tappin' with Elmo](https://open.spotify.com/track/15MSguIhOLq9qEphs2bIE1) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Sesame Street: Elmo's Dance Party](https://open.spotify.com/album/0U8c4uToAUcfvPVvnQQUH1) | 1:30 |
 
-Snapshot ID: `MCw4ZTJjMTFjNjE1ZTZiNTQzNDI3YTBlNjA0YTQ0MTMwMDI4ZGM1ZjU5`
+Snapshot ID: `MCxkMmI5M2IyMTdiZjc0NzExMmZjOWFhZjFjZjUzNTMxZDMwNWY1NWNi`

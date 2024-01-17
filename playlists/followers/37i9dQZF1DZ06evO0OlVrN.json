@@ -1,577 +1,1467 @@
 {
-  "2022-06-02": 4940,
-  "2022-06-03": 4942,
-  "2022-06-04": 4944,
-  "2022-06-05": 4949,
-  "2022-06-06": 4952,
-  "2022-06-07": 4955,
-  "2022-06-08": 4959,
-  "2022-06-09": 4959,
-  "2022-06-10": 4961,
-  "2022-06-11": 4963,
-  "2022-06-12": 4966,
-  "2022-06-13": 4968,
-  "2022-06-14": 4970,
-  "2022-06-15": 4976,
-  "2022-06-16": 4976,
-  "2022-06-17": 4981,
-  "2022-06-18": 4988,
-  "2022-06-19": 5000,
-  "2022-06-20": 5000,
-  "2022-06-21": 5003,
-  "2022-06-22": 5012,
-  "2022-06-23": 5012,
-  "2022-06-24": 5014,
-  "2022-06-25": 5016,
-  "2022-06-26": 5018,
-  "2022-06-27": 5022,
-  "2022-06-28": 5028,
-  "2022-06-29": 5031,
-  "2022-06-30": 5036,
-  "2022-07-01": 5038,
-  "2022-07-02": 5042,
-  "2022-07-03": 5051,
-  "2022-07-04": 5056,
-  "2022-07-05": 5057,
-  "2022-07-06": 5057,
-  "2022-07-07": 5060,
-  "2022-07-08": 5061,
-  "2022-07-09": 5061,
-  "2022-07-10": 5069,
-  "2022-07-11": 5075,
-  "2022-07-12": 5077,
-  "2022-07-13": 5079,
-  "2022-07-14": 5079,
-  "2022-07-15": 5080,
-  "2022-07-16": 5086,
-  "2022-07-17": 5088,
-  "2022-07-18": 5093,
-  "2022-07-19": 5093,
-  "2022-07-20": 5095,
-  "2022-07-21": 5100,
-  "2022-07-22": 5099,
-  "2022-07-23": 5100,
-  "2022-07-24": 5109,
-  "2022-07-25": 5112,
-  "2022-07-26": 5111,
-  "2022-07-27": 5119,
-  "2022-07-28": 5119,
-  "2022-07-29": 5122,
-  "2022-07-30": 5128,
-  "2022-07-31": 5128,
-  "2022-08-01": 5141,
-  "2022-08-02": 5145,
-  "2022-08-03": 5145,
-  "2022-08-04": 5145,
-  "2022-08-05": 5149,
-  "2022-08-06": 5154,
-  "2022-08-07": 5158,
-  "2022-08-08": 5164,
-  "2022-08-09": 5169,
-  "2022-08-10": 5179,
-  "2022-08-11": 5184,
-  "2022-08-12": 5185,
-  "2022-08-13": 5189,
-  "2022-08-14": 5193,
-  "2022-08-15": 5199,
-  "2022-08-16": 5200,
-  "2022-08-17": 5206,
-  "2022-08-18": 5205,
-  "2022-08-19": 5212,
-  "2022-08-20": 5216,
-  "2022-08-21": 5221,
-  "2022-08-22": 5229,
-  "2022-08-23": 5230,
-  "2022-08-24": 5238,
-  "2022-08-25": 5244,
-  "2022-08-26": 5247,
-  "2022-08-27": 5246,
-  "2022-08-28": 5249,
-  "2022-08-29": 5253,
-  "2022-08-30": 5260,
-  "2022-08-31": 5265,
-  "2022-09-01": 5265,
-  "2022-09-02": 5269,
-  "2022-09-03": 5271,
-  "2022-09-04": 5275,
-  "2022-09-05": 5279,
-  "2022-09-06": 5282,
-  "2022-09-07": 5286,
-  "2022-09-09": 5294,
-  "2022-09-10": 5299,
-  "2022-09-11": 5304,
-  "2022-09-12": 5305,
-  "2022-09-13": 5308,
-  "2022-09-15": 5310,
-  "2022-09-16": 5313,
-  "2022-09-17": 5315,
-  "2022-09-18": 5318,
-  "2022-09-19": 5323,
-  "2022-09-20": 5324,
-  "2022-09-21": 5327,
-  "2022-09-22": 5333,
-  "2022-09-23": 5341,
-  "2022-09-24": 5344,
-  "2022-09-25": 5349,
-  "2022-09-26": 5348,
-  "2022-09-27": 5347,
-  "2022-09-28": 5352,
-  "2022-09-29": 5356,
-  "2022-09-30": 5359,
-  "2022-10-01": 5367,
-  "2022-10-02": 5370,
-  "2022-10-03": 5374,
-  "2022-10-04": 5378,
-  "2022-10-05": 5377,
-  "2022-10-06": 5381,
-  "2022-10-07": 5382,
-  "2022-10-08": 5386,
-  "2022-10-09": 5393,
-  "2022-10-10": 5394,
-  "2022-10-11": 5393,
-  "2022-10-12": 5393,
-  "2022-10-13": 5396,
-  "2022-10-14": 5402,
-  "2022-10-15": 5403,
-  "2022-10-16": 5404,
-  "2022-10-17": 5408,
-  "2022-10-18": 5412,
-  "2022-10-19": 5416,
-  "2022-10-20": 5415,
-  "2022-10-21": 5415,
-  "2022-10-22": 5420,
-  "2022-10-23": 5421,
-  "2022-10-24": 5425,
-  "2022-10-25": 5429,
-  "2022-10-26": 5432,
-  "2022-10-27": 5435,
-  "2022-10-28": 5441,
-  "2022-10-29": 5447,
-  "2022-10-30": 5450,
-  "2022-10-31": 5451,
-  "2022-11-01": 5452,
-  "2022-11-02": 5455,
-  "2022-11-03": 5463,
-  "2022-11-04": 5471,
-  "2022-11-05": 5472,
-  "2022-11-06": 5474,
-  "2022-11-07": 5476,
-  "2022-11-08": 5477,
-  "2022-11-09": 5478,
-  "2022-11-10": 5480,
-  "2022-11-11": 5482,
-  "2022-11-12": 5485,
-  "2022-11-13": 5490,
-  "2022-11-14": 5495,
-  "2022-11-15": 5495,
-  "2022-11-16": 5498,
-  "2022-11-17": 5501,
-  "2022-11-18": 5501,
-  "2022-11-19": 5504,
-  "2022-11-20": 5509,
-  "2022-11-21": 5511,
-  "2022-11-22": 5515,
-  "2022-11-23": 5520,
-  "2022-11-24": 5526,
-  "2022-11-25": 5529,
-  "2022-11-26": 5533,
-  "2022-11-27": 5535,
-  "2022-11-28": 5541,
-  "2022-11-29": 5541,
-  "2022-11-30": 5543,
-  "2022-12-01": 5545,
-  "2022-12-02": 5547,
-  "2022-12-03": 5553,
-  "2022-12-04": 5556,
-  "2022-12-05": 5558,
-  "2022-12-06": 5559,
-  "2022-12-07": 5562,
-  "2022-12-08": 5562,
-  "2022-12-09": 5563,
-  "2022-12-10": 5573,
-  "2022-12-11": 5579,
-  "2022-12-12": 5583,
-  "2022-12-13": 5590,
-  "2022-12-14": 5594,
-  "2022-12-15": 5597,
-  "2022-12-16": 5599,
-  "2022-12-17": 5603,
-  "2022-12-18": 5610,
-  "2022-12-19": 5614,
-  "2022-12-20": 5619,
-  "2022-12-21": 5619,
-  "2022-12-22": 5627,
-  "2022-12-24": 5640,
-  "2022-12-25": 5649,
-  "2022-12-26": 5663,
-  "2022-12-27": 5664,
-  "2022-12-28": 5672,
-  "2022-12-29": 5676,
-  "2022-12-30": 5679,
-  "2022-12-31": 5686,
-  "2023-01-01": 5686,
-  "2023-01-02": 5690,
-  "2023-01-03": 5696,
-  "2023-01-04": 5698,
-  "2023-01-05": 5704,
-  "2023-01-06": 5708,
-  "2023-01-07": 5714,
-  "2023-01-08": 5713,
-  "2023-01-09": 5719,
-  "2023-01-10": 5719,
-  "2023-01-11": 5722,
-  "2023-01-12": 5724,
-  "2023-01-13": 5728,
-  "2023-01-14": 5730,
-  "2023-01-15": 5732,
-  "2023-01-16": 5736,
-  "2023-01-17": 5741,
-  "2023-01-18": 5743,
-  "2023-01-19": 5749,
-  "2023-01-20": 5752,
-  "2023-01-21": 5756,
-  "2023-01-22": 5760,
-  "2023-01-23": 5767,
-  "2023-01-24": 5771,
-  "2023-01-25": 5774,
-  "2023-01-26": 5776,
-  "2023-01-27": 5778,
-  "2023-01-28": 5780,
-  "2023-01-29": 5789,
-  "2023-01-30": 5792,
-  "2023-01-31": 5792,
-  "2023-02-01": 5800,
-  "2023-02-02": 5800,
-  "2023-02-03": 5803,
-  "2023-02-04": 5808,
-  "2023-02-05": 5812,
-  "2023-02-06": 5818,
-  "2023-02-07": 5825,
-  "2023-02-08": 5830,
-  "2023-02-09": 5830,
-  "2023-02-10": 5835,
-  "2023-02-11": 5836,
-  "2023-02-12": 5843,
-  "2023-02-13": 5845,
-  "2023-02-14": 5845,
-  "2023-02-15": 5846,
-  "2023-02-16": 5849,
-  "2023-02-17": 5852,
-  "2023-02-18": 5857,
-  "2023-02-19": 5858,
-  "2023-02-20": 5861,
-  "2023-02-21": 5864,
-  "2023-02-22": 5866,
-  "2023-02-23": 5866,
-  "2023-02-24": 5870,
-  "2023-02-25": 5876,
-  "2023-02-26": 5880,
-  "2023-02-27": 5886,
-  "2023-02-28": 5886,
-  "2023-03-01": 5890,
-  "2023-03-02": 5891,
-  "2023-03-03": 5897,
-  "2023-03-04": 5900,
-  "2023-03-05": 5914,
-  "2023-03-06": 5914,
-  "2023-03-07": 5919,
-  "2023-03-08": 5921,
-  "2023-03-09": 5925,
-  "2023-03-10": 5924,
-  "2023-03-11": 5926,
-  "2023-03-12": 5928,
-  "2023-03-13": 5930,
-  "2023-03-14": 5930,
-  "2023-03-15": 5932,
-  "2023-03-16": 5934,
-  "2023-03-17": 5934,
-  "2023-03-18": 5941,
-  "2023-03-19": 5941,
-  "2023-03-20": 5942,
-  "2023-03-21": 5942,
-  "2023-03-22": 5944,
-  "2023-03-23": 5948,
-  "2023-03-24": 5948,
-  "2023-03-25": 5949,
-  "2023-03-26": 5954,
-  "2023-03-27": 5959,
-  "2023-03-28": 5963,
-  "2023-03-29": 5967,
-  "2023-03-30": 5979,
-  "2023-03-31": 5979,
-  "2023-04-01": 5983,
-  "2023-04-02": 5983,
-  "2023-04-03": 5986,
-  "2023-04-04": 5991,
-  "2023-04-05": 5993,
-  "2023-04-06": 6001,
-  "2023-04-07": 6005,
-  "2023-04-09": 6013,
-  "2023-04-10": 6015,
-  "2023-04-11": 6016,
-  "2023-04-12": 6016,
-  "2023-04-13": 6018,
-  "2023-04-14": 6021,
-  "2023-04-15": 6019,
-  "2023-04-16": 6023,
-  "2023-04-17": 6027,
-  "2023-04-18": 6026,
-  "2023-04-19": 6030,
-  "2023-04-20": 6032,
-  "2023-04-21": 6035,
-  "2023-04-22": 6041,
-  "2023-04-23": 6045,
-  "2023-04-24": 6051,
-  "2023-04-25": 6056,
-  "2023-04-26": 6059,
-  "2023-04-27": 6064,
-  "2023-04-28": 6065,
-  "2023-04-29": 6070,
-  "2023-04-30": 6076,
-  "2023-05-01": 6082,
-  "2023-05-02": 6082,
-  "2023-05-03": 6083,
-  "2023-05-04": 6087,
-  "2023-05-05": 6091,
-  "2023-05-06": 6094,
-  "2023-05-07": 6098,
-  "2023-05-08": 6100,
-  "2023-05-09": 6102,
-  "2023-05-10": 6106,
-  "2023-05-11": 6107,
-  "2023-05-12": 6109,
-  "2023-05-13": 6107,
-  "2023-05-14": 6110,
-  "2023-05-15": 6114,
-  "2023-05-16": 6118,
-  "2023-05-17": 6119,
-  "2023-05-18": 6122,
-  "2023-05-19": 6125,
-  "2023-05-20": 6132,
-  "2023-05-21": 6132,
-  "2023-05-22": 6132,
-  "2023-05-23": 6138,
-  "2023-05-24": 6147,
-  "2023-05-25": 6146,
-  "2023-05-26": 6150,
-  "2023-05-27": 6150,
-  "2023-05-28": 6152,
-  "2023-05-29": 6152,
-  "2023-05-30": 6159,
-  "2023-05-31": 6159,
-  "2023-06-01": 6160,
-  "2023-06-02": 6167,
-  "2023-06-03": 6170,
-  "2023-06-04": 6171,
-  "2023-06-05": 6171,
-  "2023-06-06": 6173,
-  "2023-06-07": 6176,
-  "2023-06-08": 6178,
-  "2023-06-09": 6187,
-  "2023-06-10": 6185,
-  "2023-06-11": 6189,
-  "2023-06-12": 6195,
-  "2023-06-13": 6197,
-  "2023-06-14": 6203,
-  "2023-06-15": 6203,
-  "2023-06-16": 6205,
-  "2023-06-17": 6204,
-  "2023-06-18": 6209,
-  "2023-06-19": 6212,
-  "2023-06-20": 6213,
-  "2023-06-21": 6216,
-  "2023-06-22": 6218,
-  "2023-06-23": 6221,
-  "2023-06-24": 6226,
-  "2023-06-25": 6227,
-  "2023-06-26": 6231,
-  "2023-06-27": 6234,
-  "2023-06-28": 6234,
-  "2023-06-29": 6238,
-  "2023-06-30": 6244,
-  "2023-07-01": 6250,
-  "2023-07-02": 6250,
-  "2023-07-03": 6254,
-  "2023-07-04": 6258,
-  "2023-07-05": 6262,
-  "2023-07-06": 6266,
-  "2023-07-07": 6266,
-  "2023-07-08": 6273,
-  "2023-07-09": 6272,
-  "2023-07-10": 6274,
-  "2023-07-11": 6276,
-  "2023-07-12": 6281,
-  "2023-07-13": 6282,
-  "2023-07-14": 6282,
-  "2023-07-15": 6283,
-  "2023-07-16": 6288,
-  "2023-07-17": 6293,
-  "2023-07-18": 6298,
-  "2023-07-19": 6301,
-  "2023-07-20": 6304,
-  "2023-07-21": 6307,
-  "2023-07-22": 6309,
-  "2023-07-23": 6309,
-  "2023-07-24": 6313,
-  "2023-07-25": 6316,
-  "2023-07-26": 6317,
-  "2023-07-27": 6323,
-  "2023-07-28": 6325,
-  "2023-07-29": 6328,
-  "2023-07-30": 6330,
-  "2023-07-31": 6334,
-  "2023-08-01": 6336,
-  "2023-08-02": 6336,
-  "2023-08-03": 6335,
-  "2023-08-04": 6340,
-  "2023-08-05": 6345,
-  "2023-08-06": 6355,
-  "2023-08-07": 6355,
-  "2023-08-08": 6360,
-  "2023-08-09": 6362,
-  "2023-08-10": 6366,
-  "2023-08-11": 6369,
-  "2023-08-12": 6373,
-  "2023-08-13": 6373,
-  "2023-08-14": 6379,
-  "2023-08-15": 6384,
-  "2023-08-16": 6384,
-  "2023-08-17": 6389,
-  "2023-08-18": 6389,
-  "2023-08-19": 6395,
-  "2023-08-20": 6403,
-  "2023-08-21": 6407,
-  "2023-08-22": 6412,
-  "2023-08-23": 6415,
-  "2023-08-24": 6421,
-  "2023-08-25": 6424,
-  "2023-08-26": 6428,
-  "2023-08-27": 6434,
-  "2023-08-28": 6438,
-  "2023-08-29": 6439,
-  "2023-08-30": 6439,
-  "2023-08-31": 6448,
-  "2023-09-01": 6462,
-  "2023-09-02": 6462,
-  "2023-09-03": 6466,
-  "2023-09-04": 6466,
-  "2023-09-05": 6477,
-  "2023-09-06": 6477,
-  "2023-09-07": 6477,
-  "2023-09-08": 6477,
-  "2023-09-09": 6477,
-  "2023-09-10": 6495,
-  "2023-09-11": 6498,
-  "2023-09-12": 6498,
-  "2023-09-13": 6503,
-  "2023-09-14": 6503,
-  "2023-09-15": 6503,
-  "2023-09-16": 6516,
-  "2023-09-17": 6516,
-  "2023-09-18": 6516,
-  "2023-09-19": 6524,
-  "2023-09-20": 6524,
-  "2023-09-21": 6524,
-  "2023-09-22": 6539,
-  "2023-09-23": 6539,
-  "2023-09-24": 6539,
-  "2023-09-25": 6539,
-  "2023-09-26": 6548,
-  "2023-09-27": 6548,
-  "2023-09-28": 6548,
-  "2023-09-29": 6548,
-  "2023-09-30": 6548,
-  "2023-10-01": 6548,
-  "2023-10-02": 6558,
-  "2023-10-03": 6558,
-  "2023-10-04": 6558,
-  "2023-10-05": 6565,
-  "2023-10-06": 6568,
-  "2023-10-07": 6568,
-  "2023-10-08": 6568,
-  "2023-10-09": 6568,
-  "2023-10-10": 6568,
-  "2023-10-11": 6576,
-  "2023-10-12": 6576,
-  "2023-10-13": 6576,
-  "2023-10-14": 6576,
-  "2023-10-15": 6576,
-  "2023-10-16": 6576,
-  "2023-10-17": 6576,
-  "2023-10-18": 6576,
-  "2023-10-19": 6576,
-  "2023-10-20": 6576,
-  "2023-10-21": 6576,
-  "2023-10-22": 6576,
-  "2023-10-23": 6576,
-  "2023-10-24": 6576,
-  "2023-10-25": 6576,
-  "2023-10-26": 6576,
-  "2023-10-27": 6576,
-  "2023-10-28": 6576,
-  "2023-10-29": 6576,
-  "2023-10-30": 6576,
-  "2023-10-31": 6576,
-  "2023-11-01": 6576,
-  "2023-11-02": 6576,
-  "2023-11-03": 6576,
-  "2023-11-04": 6576,
-  "2023-11-05": 6576,
-  "2023-11-06": 6576,
-  "2023-11-07": 6576,
-  "2023-11-08": 6576,
-  "2023-11-09": 6576,
-  "2023-11-10": 6576,
-  "2023-11-11": 6673,
-  "2023-11-12": 6673,
-  "2023-11-13": 6673,
-  "2023-11-14": 6673,
-  "2023-11-15": 6673,
-  "2023-11-16": 6673,
-  "2023-11-17": 6673,
-  "2023-11-18": 6673,
-  "2023-11-19": 6673,
-  "2023-11-20": 6673,
-  "2023-11-21": 6673,
-  "2023-11-22": 6673,
-  "2023-11-23": 6673,
-  "2023-11-24": 6673,
-  "2023-11-25": 6673,
-  "2023-11-26": 6673,
-  "2023-11-27": 6673,
-  "2023-11-28": 6673,
-  "2023-11-29": 6673,
-  "2023-11-30": 6673,
-  "2023-12-01": 6673,
-  "2023-12-02": 6673,
-  "2023-12-03": 6673,
-  "2023-12-04": 6673,
-  "2023-12-05": 6673,
-  "2023-12-06": 6673,
-  "2023-12-07": 6673,
-  "2023-12-08": 6673,
-  "2023-12-09": 6673,
-  "2023-12-10": 6673,
-  "2023-12-11": 6673,
-  "2023-12-12": 6673,
-  "2023-12-13": 6673,
-  "2023-12-14": 6772,
-  "2023-12-15": 6773,
-  "2023-12-16": 6780,
-  "2023-12-17": 6783,
-  "2023-12-18": 6785,
-  "2023-12-19": 6790,
-  "2023-12-20": 6788,
-  "2023-12-21": 6790,
-  "2023-12-22": 6794,
-  "2023-12-23": 6798,
-  "2023-12-24": 6802,
-  "2023-12-25": 6808,
-  "2023-12-26": 6814,
-  "2023-12-27": 6817,
-  "2023-12-30": 6827,
-  "2023-12-31": 6829,
-  "2024-01-01": 6831,
-  "2024-01-02": 6838,
-  "2024-01-03": 6841
+  "2024-01-17": 6876,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
+  "name": "This Is Los Relampagos Del Norte",
+  "tracks": [
+    {
+      "album": {
+        "name": "20 Relampagazos",
+        "url": "https://open.spotify.com/album/0g5XjdiC2ufPGdRIS5E6Jf"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173904,
+      "name": "Ahnelo",
+      "url": "https://open.spotify.com/track/0Kr6Pnnds4RamnPoWuGpdy"
+    },
+    {
+      "album": {
+        "name": "20 Relampagazos",
+        "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Ahnelo",
+      "url": "https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 134699,
+      "name": "All\u00e1 en el Baile Grande",
+      "url": "https://open.spotify.com/track/6j8vimqDs0pfRpy3gf95JO"
+    },
+    {
+      "album": {
+        "name": "En Vivo Desde Estados Unidos",
+        "url": "https://open.spotify.com/album/5PuwwLvu62W2cafULMAyqU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228013,
+      "name": "Alma Rendida",
+      "url": "https://open.spotify.com/track/0hdcK8LFwtbSHgrmOddhFA"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180213,
+      "name": "Amarga Navidad",
+      "url": "https://open.spotify.com/track/4kdv0wNhzDoFGPNopWLHB1"
+    },
+    {
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Amargando la vida",
+      "url": "https://open.spotify.com/track/2kzPpR2KtWBlSsvMkYEeyE"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171816,
+      "name": "Anhelo",
+      "url": "https://open.spotify.com/track/16Ghnlp54Vfk8T3EVlYOGp"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-25",
+      "duration_ms": 149373,
+      "name": "Aunque Tenga Otros Amores",
+      "url": "https://open.spotify.com/track/22CbCQZij6Q9HBOD8mllsa"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210200,
+      "name": "Aunque Tengas Otros Amores - Live",
+      "url": "https://open.spotify.com/track/0KEsDqkKqV2Ix7rHNmyhtq"
+    },
+    {
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167146,
+      "name": "Ay Chatita",
+      "url": "https://open.spotify.com/track/2lVmMy1vCsXYarAEmwJQRD"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Baraja de Oro",
+      "url": "https://open.spotify.com/track/0JMCQaeVC8vV5OLSZJ4Rk9"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137880,
+      "name": "Callej\u00f3n Sin Salida",
+      "url": "https://open.spotify.com/track/7rJJbSYIiOs0zqGcfrJrXm"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156320,
+      "name": "Caminar Caminar",
+      "url": "https://open.spotify.com/track/4JL1se9SpQ9rkRmJGQj2oN"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 184424,
+      "name": "Capullito de Rosa",
+      "url": "https://open.spotify.com/track/5RbE7pbbcTFPrGNcnAW1KC"
+    },
+    {
+      "album": {
+        "name": "Los Rel\u00e1mpagos del Norte 20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4cWR61Swpa2KcCuVXtaY3R"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240653,
+      "name": "Carta jugada",
+      "url": "https://open.spotify.com/track/0vjLrfZAbxQRpoumwzwygZ"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "Cobardemente",
+      "url": "https://open.spotify.com/track/4RZIcM350ojxE1p2FgFVmt"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-11",
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-17",
+      "duration_ms": 167933,
+      "name": "Cruel Dolor",
+      "url": "https://open.spotify.com/track/0hp1snRX19rfz4fAfqvcDa"
+    },
+    {
+      "album": {
+        "name": "A Grito Abierto",
+        "url": "https://open.spotify.com/album/3gwT7FSwfQ0tB6hEHEIFin"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-04-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 169600,
+      "name": "Desvelos Mios",
+      "url": "https://open.spotify.com/track/0EvTvBa5lwIjRFjUd09iWi"
+    },
+    {
+      "album": {
+        "name": "20 de Coleccion",
+        "url": "https://open.spotify.com/album/2ptme72Ts7zUbWInvEiXAH"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132306,
+      "name": "Devolucion",
+      "url": "https://open.spotify.com/track/7KINw8GLCQfV2SrD6hVKFr"
+    },
+    {
+      "album": {
+        "name": "22 \u00c9xitos de Oro, vol. 4",
+        "url": "https://open.spotify.com/album/4eh50zoGTP5IJ84YR0byqc"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 132306,
+      "name": "Devoluci\u00f3n",
+      "url": "https://open.spotify.com/track/02ygYqJG1w7guDHVATBd0F"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 142000,
+      "name": "D\u00f3nde Est\u00e1 el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1UKo5oFQi92VPqesz2KKwA"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225840,
+      "name": "El Coyote - Live",
+      "url": "https://open.spotify.com/track/086prN6onXRaD0TDMZnVjz"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243435,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/75ZmlqXfBESGQf6MhADFPM"
+    },
+    {
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 205706,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/0fUjuxOomFIcRi7T0OKqlD"
+    },
+    {
+      "album": {
+        "name": "Boleros Inolvidables Con Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/1MWxBHo476Lww7C0GAiEdz"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211266,
+      "name": "El Espejo",
+      "url": "https://open.spotify.com/track/50VYNGTSdo5zgqXUcS3CWZ"
+    },
+    {
+      "album": {
+        "name": "Carta Jugada",
+        "url": "https://open.spotify.com/album/6hIdbrZ6oE86qovJBhQs1L"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-12-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-30",
+      "duration_ms": 145586,
+      "name": "El Mudo",
+      "url": "https://open.spotify.com/track/0nPCdv3NceFCfG9hYUYR2y"
+    },
+    {
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162160,
+      "name": "Hay Ojitos",
+      "url": "https://open.spotify.com/track/3f0ca0sbJefE05GrT69i1X"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 189707,
+      "name": "Idos De La Mente",
+      "url": "https://open.spotify.com/track/7aJ5OaN90p7aJ7zNkdCZlr"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-04",
+      "duration_ms": 266600,
+      "name": "Idos De Mente - Live",
+      "url": "https://open.spotify.com/track/70xdcONtmkabXHZxToqmsT"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 163561,
+      "name": "La Calandria",
+      "url": "https://open.spotify.com/track/7dMuUJav5z8sWek9KmiTz0"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-01",
+      "duration_ms": 143438,
+      "name": "La Criminal",
+      "url": "https://open.spotify.com/track/06sDSQea3CjpaAcmNn2ITE"
+    },
+    {
+      "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/4L5987PRJ0lgS1J2BmwMB7"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-04",
+      "duration_ms": 175358,
+      "name": "Llorar por Amor",
+      "url": "https://open.spotify.com/track/1m8DK7AJnDmY96v35EzfC3"
+    },
+    {
+      "album": {
+        "name": "20 Boleros de Oro: Grandes \u00c9xitos de la M\u00fasica Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-08",
+      "duration_ms": 175358,
+      "name": "Llorar por Amor",
+      "url": "https://open.spotify.com/track/6DoYsoFeICbUoq9nNddaH1"
+    },
+    {
+      "album": {
+        "name": "Explosion Norte\u00f1a",
+        "url": "https://open.spotify.com/album/2R6VICqmXcj45VuwQ6G5Hr"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        },
+        {
+          "name": "Luis y Julian",
+          "url": "https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 181042,
+      "name": "Mandato Divino",
+      "url": "https://open.spotify.com/track/6aAz6vKrqgnakvmzhwjQ6C"
+    },
+    {
+      "album": {
+        "name": "15 Clasicas De Leyenda",
+        "url": "https://open.spotify.com/album/1dDR0N4IbnIejNEzhm9e69"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188040,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/1CTAefqqsURDEHX8CCBMcf"
+    },
+    {
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184560,
+      "name": "Me Cai De La Nube",
+      "url": "https://open.spotify.com/track/5duBpK9vaRenDIdXZP5EMq"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Me Ca\u00edste Del Cielo",
+      "url": "https://open.spotify.com/track/27aARxsOUfSvF8bVRLAFNR"
+    },
+    {
+      "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200173,
+      "name": "Me Moriria",
+      "url": "https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 186360,
+      "name": "Mi Charchina",
+      "url": "https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb"
+    },
+    {
+      "album": {
+        "name": "30 Exitos Inmortales",
+        "url": "https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 115066,
+      "name": "Mi Talisman",
+      "url": "https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-20",
+      "duration_ms": 177818,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU"
+    },
+    {
+      "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Mi Tesoro",
+      "url": "https://open.spotify.com/track/5Afeci0I2L79n5NGFJ4YkQ"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161733,
+      "name": "Mira y Comprende",
+      "url": "https://open.spotify.com/track/2iHN9gmEZ5wpY1sDGIBh3Q"
+    },
+    {
+      "album": {
+        "name": "20 Boleros de Oro: Grandes \u00c9xitos de la M\u00fasica Norte\u00f1a",
+        "url": "https://open.spotify.com/album/3jVJfLNB5xchADrjUir1fr"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 169226,
+      "name": "Mujer de Cabaret",
+      "url": "https://open.spotify.com/track/6ImZIERaxITFJ7yy4RdVW9"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-01-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 188630,
+      "name": "Ni Los Pleitos",
+      "url": "https://open.spotify.com/track/1bTWYFOaOO5RCeZPjUmIK5"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte",
+        "url": "https://open.spotify.com/album/3MrkwTmOD0zCV35nuCwPws"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-09",
+      "duration_ms": 120680,
+      "name": "No Quiero Sobras",
+      "url": "https://open.spotify.com/track/7tjpXxiYqQKeY0wV52T8Fc"
+    },
+    {
+      "album": {
+        "name": "Country Roland Vs. Los Relampagos",
+        "url": "https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1"
+      },
+      "artists": [
+        {
+          "name": "Country Roland Band",
+          "url": "https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197734,
+      "name": "Pancha La Contrabandista",
+      "url": "https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243760,
+      "name": "Podiosero De Amor - Live",
+      "url": "https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM"
+    },
+    {
+      "album": {
+        "name": "Grandes Popurr\u00eds Con...",
+        "url": "https://open.spotify.com/album/2d2JHyDLUovey7KamW8ta9"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        },
+        {
+          "name": "Los Cachorros de Juan Villarreal",
+          "url": "https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp"
+        }
+      ],
+      "date_added": "2022-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-13",
+      "duration_ms": 829988,
+      "name": "Popurri de Rancheras",
+      "url": "https://open.spotify.com/track/0xWYWhcCCMSvHnjFDsIEDJ"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
+    },
+    {
+      "album": {
+        "name": "Mi Talism\u00e1n",
+        "url": "https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Por una Mujer Casada",
+      "url": "https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158666,
+      "name": "Prieta Mojina - Live",
+      "url": "https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX"
+    },
+    {
+      "album": {
+        "name": "21 Hits, Vol. 2",
+        "url": "https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164906,
+      "name": "Que Bonita Chaparrita",
+      "url": "https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s"
+    },
+    {
+      "album": {
+        "name": "De Qu\u00e9 Es Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 146088,
+      "name": "Qu\u00e9 Mala Suerte",
+      "url": "https://open.spotify.com/track/37sNG4P8zEvnfm07CtKn55"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123657,
+      "name": "Qu\u00e9 Tal Si Te Compr\u00f3",
+      "url": "https://open.spotify.com/track/5Rqsy1hosHmSltknPCyweu"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243020,
+      "name": "Rey Pobre - Live",
+      "url": "https://open.spotify.com/track/1KzR9MZSIjKqCKfGpP5QRA"
+    },
+    {
+      "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Rogante",
+      "url": "https://open.spotify.com/track/11RbKPEMEKr1BwOI3qwqcE"
+    },
+    {
+      "album": {
+        "name": "Doble 2 En 1",
+        "url": "https://open.spotify.com/album/7JLBYptiTNW8gg91QuJDzy"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-04",
+      "duration_ms": 150333,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/2ttAibrVYNXdMoQBK0VEs5"
+    },
+    {
+      "album": {
+        "name": "Regreso Triunfal Ramon Ayala Cornelio Reyna 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K8wCP8rueAQHz5hBCdD0H"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150920,
+      "name": "Si Tu Supieras",
+      "url": "https://open.spotify.com/track/6fSLmrZTluiHUv4XxPcDx4"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos del Norte, Ramon Ayala y Cornelio Reyna",
+        "url": "https://open.spotify.com/album/1MaRN2mekXavT4ZiLL1TQZ"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-03",
+      "duration_ms": 170370,
+      "name": "Sin Decirte Lo Que Siento",
+      "url": "https://open.spotify.com/track/17Vo4K9R1sV2Ty8zsLRccG"
+    },
+    {
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-08-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142226,
+      "name": "Solo quiero",
+      "url": "https://open.spotify.com/track/2TG4wMLLyoGwxBDgE8feJu"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Llorar por Amor",
+        "url": "https://open.spotify.com/album/14LGdezPXdhHYL7a2CTvlO"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169240,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/48LVuD73hB6XGGS04tn3a8"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177573,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/7ngG8qYkRzXuddBMbDLB3p"
+    },
+    {
+      "album": {
+        "name": "15 Exitos de los Relampagos del Norte",
+        "url": "https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 177826,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/3s41kVuB62ABfW10Mxyp7K"
+    },
+    {
+      "album": {
+        "name": "Los Relampagos Del Norte En Vivo (Live)",
+        "url": "https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242533,
+      "name": "Un Dia Con Otro - Live",
+      "url": "https://open.spotify.com/track/2HaPZ5gNiW5OLUDIkLNKjr"
+    },
+    {
+      "album": {
+        "name": "15 Boleros de Colecci\u00f3n, vol. 2",
+        "url": "https://open.spotify.com/album/6GqILMDFoeerlBqSL8QnhS"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162600,
+      "name": "Una L\u00e1grima y un Recuerdo",
+      "url": "https://open.spotify.com/track/6qUKLYivd4KbFGuAk3tHXX"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125880,
+      "name": "Veinte Novias",
+      "url": "https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi"
+    },
+    {
+      "album": {
+        "name": "Puras Cantineras, Vol. 1",
+        "url": "https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132853,
+      "name": "Ven a Decirme",
+      "url": "https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188773,
+      "name": "Vengo a Llevarte",
+      "url": "https://open.spotify.com/track/3ZkbdZPuWewYNzwhTumX2E"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161773,
+      "name": "Vengo A Verte",
+      "url": "https://open.spotify.com/track/3lL6NdQ4XNTc0CTEca4U1i"
+    },
+    {
+      "album": {
+        "name": "20 S\u00faper \u00c9xitos",
+        "url": "https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204081,
+      "name": "Vida Truncada",
+      "url": "https://open.spotify.com/track/2CU8NCuaegfybJQZco8YBU"
+    },
+    {
+      "album": {
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-09",
+      "duration_ms": 206333,
+      "name": "Vida truncada",
+      "url": "https://open.spotify.com/track/4qEJrAeN9gsU5PCNDQWUmS"
+    },
+    {
+      "album": {
+        "name": "22 Superexitos (Idolos Norte\u00f1os y Texanos)",
+        "url": "https://open.spotify.com/album/4F9UMuKXMXOd6Ypw0yCiRi"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125176,
+      "name": "Ya No Llores",
+      "url": "https://open.spotify.com/track/1liDNsueC6v18Ixk2dPrE8"
+    },
+    {
+      "album": {
+        "name": "Ya no llores",
+        "url": "https://open.spotify.com/album/6jk9SNbUx7yiS6PjTNzeGX"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 125176,
+      "name": "Ya no llores",
+      "url": "https://open.spotify.com/track/3KNxku9f4YfcWHbTHnH5rG"
+    },
+    {
+      "album": {
+        "name": "Cornelio Reyna Con Ram\u00f3n Ayala y los Rel\u00e1mpagos del Norte",
+        "url": "https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        },
+        {
+          "name": "Ram\u00f3n Ayala",
+          "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
+        },
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "\u00bfde Qu\u00e9 Es Tu Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/1Ch3Xd1HOaz2A6ndWvJUxO"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OlVrN"
 }

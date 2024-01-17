@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBmDFaZzh30.md) - [plain]
 
 > Exclusive playlist by the author of "Tokyo Ghoul" \-<a href="https://smar.lnk.to/qbyK6">『東京喰種』コンピ</a>発売記念Spotify限定プレイリスト！TVアニメ歴代OP/EDに加え、原作者石田スイが作品と共に聴いて欲しい楽曲を新規セレクト！© I/S © I/S,TGPC © I/S,TGRPC
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,288 likes - 36 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,319 likes - 36 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1123,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2020-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-16",
+      "duration_ms": 206106,
+      "name": "Trick Me - Club Mix",
+      "url": "https://open.spotify.com/track/2qib0282oGZPZWyJHqJaVi"
+    },
+    {
+      "album": {
         "name": "Kevin Lyttle (US Domestic Release)",
         "url": "https://open.spotify.com/album/0OWwtYwEZFMquSeHGNv3cw"
       },

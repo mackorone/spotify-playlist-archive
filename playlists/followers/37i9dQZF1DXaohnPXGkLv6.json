@@ -1,246 +1,601 @@
 {
-  "2023-05-03": 540261,
-  "2023-05-04": 540556,
-  "2023-05-05": 540871,
-  "2023-05-06": 541196,
-  "2023-05-07": 541556,
-  "2023-05-08": 541910,
-  "2023-05-09": 542246,
-  "2023-05-10": 542562,
-  "2023-05-11": 542921,
-  "2023-05-12": 543283,
-  "2023-05-13": 543606,
-  "2023-05-14": 543936,
-  "2023-05-15": 544277,
-  "2023-05-16": 544629,
-  "2023-05-17": 544995,
-  "2023-05-18": 545366,
-  "2023-05-19": 545718,
-  "2023-05-20": 546359,
-  "2023-05-21": 546359,
-  "2023-05-22": 546359,
-  "2023-05-23": 547104,
-  "2023-05-24": 547706,
-  "2023-05-25": 547781,
-  "2023-05-26": 548075,
-  "2023-05-27": 548430,
-  "2023-05-28": 548777,
-  "2023-05-29": 548777,
-  "2023-05-30": 549423,
-  "2023-05-31": 549778,
-  "2023-06-01": 550082,
-  "2023-06-02": 550463,
-  "2023-06-03": 550809,
-  "2023-06-04": 551189,
-  "2023-06-05": 551578,
-  "2023-06-06": 551917,
-  "2023-06-07": 552249,
-  "2023-06-08": 552606,
-  "2023-06-09": 553013,
-  "2023-06-10": 553410,
-  "2023-06-11": 553787,
-  "2023-06-12": 554148,
-  "2023-06-13": 554474,
-  "2023-06-14": 554922,
-  "2023-06-15": 555383,
-  "2023-06-16": 555861,
-  "2023-06-17": 556242,
-  "2023-06-18": 556586,
-  "2023-06-19": 556964,
-  "2023-06-20": 557329,
-  "2023-06-21": 557642,
-  "2023-06-22": 558001,
-  "2023-06-23": 558397,
-  "2023-06-24": 558751,
-  "2023-06-25": 559078,
-  "2023-06-26": 559413,
-  "2023-06-27": 559830,
-  "2023-06-28": 560237,
-  "2023-06-29": 560666,
-  "2023-06-30": 561197,
-  "2023-07-01": 566271,
-  "2023-07-02": 566271,
-  "2023-07-03": 567775,
-  "2023-07-04": 569355,
-  "2023-07-05": 570743,
-  "2023-07-06": 573515,
-  "2023-07-07": 573515,
-  "2023-07-08": 574836,
-  "2023-07-09": 576051,
-  "2023-07-10": 577125,
-  "2023-07-11": 578231,
-  "2023-07-12": 579317,
-  "2023-07-13": 580450,
-  "2023-07-14": 581557,
-  "2023-07-15": 583016,
-  "2023-07-16": 585535,
-  "2023-07-17": 587155,
-  "2023-07-18": 588473,
-  "2023-07-19": 589949,
-  "2023-07-20": 591263,
-  "2023-07-21": 592392,
-  "2023-07-22": 593591,
-  "2023-07-23": 594900,
-  "2023-07-24": 596039,
-  "2023-07-25": 597215,
-  "2023-07-26": 598358,
-  "2023-07-27": 599560,
-  "2023-07-28": 600695,
-  "2023-07-29": 601786,
-  "2023-07-30": 602820,
-  "2023-07-31": 603815,
-  "2023-08-01": 604759,
-  "2023-08-02": 605606,
-  "2023-08-03": 606540,
-  "2023-08-04": 607522,
-  "2023-08-05": 608628,
-  "2023-08-06": 610283,
-  "2023-08-07": 610283,
-  "2023-08-08": 611046,
-  "2023-08-09": 611997,
-  "2023-08-10": 612951,
-  "2023-08-11": 613951,
-  "2023-08-12": 615865,
-  "2023-08-13": 617380,
-  "2023-08-14": 618765,
-  "2023-08-15": 621643,
-  "2023-08-16": 621643,
-  "2023-08-17": 622957,
-  "2023-08-18": 624198,
-  "2023-08-19": 625480,
-  "2023-08-20": 626641,
-  "2023-08-21": 627832,
-  "2023-08-22": 628939,
-  "2023-08-23": 629947,
-  "2023-08-24": 630961,
-  "2023-08-25": 632157,
-  "2023-08-26": 633250,
-  "2023-08-27": 634307,
-  "2023-08-28": 635317,
-  "2023-08-29": 636258,
-  "2023-08-30": 637233,
-  "2023-08-31": 638331,
-  "2023-09-01": 640274,
-  "2023-09-02": 640274,
-  "2023-09-03": 641287,
-  "2023-09-04": 642842,
-  "2023-09-05": 643759,
-  "2023-09-06": 644782,
-  "2023-09-07": 645741,
-  "2023-09-08": 647007,
-  "2023-09-09": 649212,
-  "2023-09-10": 651215,
-  "2023-09-11": 652982,
-  "2023-09-12": 654667,
-  "2023-09-13": 656128,
-  "2023-09-14": 658155,
-  "2023-09-15": 660102,
-  "2023-09-16": 661941,
-  "2023-09-17": 663644,
-  "2023-09-18": 665209,
-  "2023-09-19": 666548,
-  "2023-09-20": 667832,
-  "2023-09-21": 669245,
-  "2023-09-22": 670791,
-  "2023-09-23": 672338,
-  "2023-09-24": 673839,
-  "2023-09-25": 675122,
-  "2023-09-26": 676643,
-  "2023-09-27": 677538,
-  "2023-09-28": 678690,
-  "2023-09-29": 679914,
-  "2023-09-30": 680904,
-  "2023-10-01": 681930,
-  "2023-10-02": 682951,
-  "2023-10-03": 683948,
-  "2023-10-04": 685014,
-  "2023-10-05": 685941,
-  "2023-10-06": 687046,
-  "2023-10-07": 688149,
-  "2023-10-08": 689105,
-  "2023-10-09": 690055,
-  "2023-10-10": 690916,
-  "2023-10-11": 692499,
-  "2023-10-12": 692499,
-  "2023-10-13": 693309,
-  "2023-10-14": 693309,
-  "2023-10-15": 693309,
-  "2023-10-16": 695866,
-  "2023-10-17": 695866,
-  "2023-10-18": 697417,
-  "2023-10-19": 698160,
-  "2023-10-20": 698922,
-  "2023-10-21": 699625,
-  "2023-10-22": 699625,
-  "2023-10-23": 701071,
-  "2023-10-24": 701704,
-  "2023-10-25": 701704,
-  "2023-10-26": 703007,
-  "2023-10-27": 703753,
-  "2023-10-28": 703753,
-  "2023-10-29": 703753,
-  "2023-10-30": 706333,
-  "2023-10-31": 706333,
-  "2023-11-01": 707678,
-  "2023-11-02": 708309,
-  "2023-11-03": 708902,
-  "2023-11-04": 708902,
-  "2023-11-05": 708902,
-  "2023-11-06": 710840,
-  "2023-11-07": 710840,
-  "2023-11-08": 711972,
-  "2023-11-09": 711972,
-  "2023-11-10": 713203,
-  "2023-11-11": 714109,
-  "2023-11-12": 714741,
-  "2023-11-13": 714741,
-  "2023-11-14": 714741,
-  "2023-11-15": 714741,
-  "2023-11-16": 717160,
-  "2023-11-17": 718338,
-  "2023-11-18": 718338,
-  "2023-11-19": 718944,
-  "2023-11-20": 718944,
-  "2023-11-21": 720150,
-  "2023-11-22": 720762,
-  "2023-11-23": 721352,
-  "2023-11-24": 721352,
-  "2023-11-25": 722485,
-  "2023-11-26": 722485,
-  "2023-11-27": 723564,
-  "2023-11-28": 723564,
-  "2023-11-29": 725412,
-  "2023-11-30": 725412,
-  "2023-12-01": 725412,
-  "2023-12-02": 727197,
-  "2023-12-03": 727197,
-  "2023-12-04": 727197,
-  "2023-12-05": 729142,
-  "2023-12-06": 729808,
-  "2023-12-07": 729808,
-  "2023-12-08": 729808,
-  "2023-12-09": 731930,
-  "2023-12-10": 731930,
-  "2023-12-11": 733515,
-  "2023-12-12": 733515,
-  "2023-12-13": 735405,
-  "2023-12-14": 736651,
-  "2023-12-15": 737701,
-  "2023-12-16": 738583,
-  "2023-12-17": 739399,
-  "2023-12-18": 740192,
-  "2023-12-19": 740839,
-  "2023-12-20": 741519,
-  "2023-12-21": 742211,
-  "2023-12-22": 742999,
-  "2023-12-23": 744335,
-  "2023-12-24": 745248,
-  "2023-12-25": 745917,
-  "2023-12-26": 746509,
-  "2023-12-27": 747314,
-  "2023-12-30": 749681,
-  "2023-12-31": 750394,
-  "2024-01-01": 750982,
-  "2024-01-02": 751492,
-  "2024-01-03": 752085
+  "2024-01-17": 761842,
+  "date_first_scraped": "2023-05-03",
+  "description": "The essential Olivia Rodrigo tracks, all in one playlist.",
+  "name": "This Is Olivia Rodrigo",
+  "tracks": [
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163586,
+      "name": "1 step forward, 3 steps back",
+      "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "album": {
+        "name": "All I Want (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/5p3gSxNiXeYlPlztVAUjB2"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177322,
+      "name": "All I Want - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+    },
+    {
+      "album": {
+        "name": "bad idea right?",
+        "url": "https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184783,
+      "name": "bad idea right?",
+      "url": "https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-11-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242013,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202826,
+      "name": "enough for you",
+      "url": "https://open.spotify.com/track/2TOzTqQXNmR2zDJXihjZ2e"
+    },
+    {
+      "album": {
+        "name": "Even When/The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2YLKW3LB4P1cEersm5YpAL"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106880,
+      "name": "Even When/The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/30UszgTxEuJVG5SUFyBffT"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152666,
+      "name": "favorite crime",
+      "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178146,
+      "name": "good 4 u",
+      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175933,
+      "name": "happier",
+      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209560,
+      "name": "hope ur ok",
+      "url": "https://open.spotify.com/track/1zejeOnykpCoyVSit6Bwp3"
+    },
+    {
+      "album": {
+        "name": "I Think I Kinda, You Know (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/1fgrILRm1bhM6oi3eK0eAs"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172253,
+      "name": "I Think I Kinda, You Know - Duet",
+      "url": "https://open.spotify.com/track/2UVrIJBJVRPN9UgzShCJ5c"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173160,
+      "name": "jealousy, jealousy",
+      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
+    },
+    {
+      "album": {
+        "name": "Just for a Moment (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/7x6n2jztq7Zlff5xVCfzqB"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197320,
+      "name": "Just for a Moment - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/5Yc2A0YtK6PaXT8J1MQ0Rd"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231907,
+      "name": "logical",
+      "url": "https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168688,
+      "name": "Out of the Old",
+      "url": "https://open.spotify.com/track/6YYF7BRXYbGIHd3FLeU9R4"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Series (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/4GgojLZOPRu8MdUVmjNRSI"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101176,
+      "name": "Start of Something New - Nini Version",
+      "url": "https://open.spotify.com/track/2JAE25n5JDyb3rp2ti0ql8"
+    },
+    {
+      "album": {
+        "name": "The Best Part [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/2QvIqoT72oNaNuIrWR3FjC"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107276,
+      "name": "The Best Part - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/0nZkXIhuH183AKwF1LAZUy"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189386,
+      "name": "the grudge",
+      "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt"
+    },
+    {
+      "album": {
+        "name": "The Rose Song [From \"High School Musical: The Musical: The Series (Season 2)\"]",
+        "url": "https://open.spotify.com/album/6TeOuy8VtjfYy52ntsnu1m"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174380,
+      "name": "The Rose Song - From \"High School Musical: The Musical: The Series (Season 2)\"",
+      "url": "https://open.spotify.com/track/3qxzozdGFaBxQ0X4HkrMr0"
+    },
+    {
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229226,
+      "name": "traitor",
+      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
+    },
+    {
+      "album": {
+        "name": "Wondering (From \"High School Musical: The Musical: The Series\")",
+        "url": "https://open.spotify.com/album/14fMbn20pipBmmHWtKWInz"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Julia Lester",
+          "url": "https://open.spotify.com/artist/5aTwY2xyrJy4cS1jlFg1oG"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225381,
+      "name": "Wondering - From \"High School Musical: The Musical: The Series\"",
+      "url": "https://open.spotify.com/track/6GfTYfb5eBLN1p1ByOsPmi"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXaohnPXGkLv6"
 }

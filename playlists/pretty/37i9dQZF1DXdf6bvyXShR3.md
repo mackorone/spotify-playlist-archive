@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,223 likes - 70 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,694 likes - 70 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 65 | [Mit Dir \- Extended](https://open.spotify.com/track/4sboge3wKtCLTGPnbZAR9r) | [Robert Görl](https://open.spotify.com/artist/2eixF9V5bbfSJNkZ1hUOb8) | [Night Full Of Tension](https://open.spotify.com/album/1a48xcA7BpKm5RtfRX9xZo) | 5:56 |
 | 66 | [Y Dah](https://open.spotify.com/track/5MKYwFNGNHrMwboLSvl6lO) | [Gordon Koang](https://open.spotify.com/artist/4LsJGFIGPI5c0sOeKFtjQ1) | [Unity](https://open.spotify.com/album/66kjRjllHcoW1aXmC5yMgQ) | 8:55 |
 | 67 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
-| 68 | [Thinking About You Calms Me Down](https://open.spotify.com/track/25lichGYPTOAwpm9PNaWVf) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/1KX6j0VmAYu3dOJUicdQoE) | 2:53 |
+| 68 | [Thinking About You Calms Me Down](https://open.spotify.com/track/3Cue2IPNCQH4zk8TXuMu5N) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Waiting Game](https://open.spotify.com/album/16atisjMuDrTnTawSIV9lW) | 2:53 |
 | 69 | [Wake And Return \- Acoustic Version](https://open.spotify.com/track/76uZO2ZHQcWvjsQOd5T8Hd) | [OLAN](https://open.spotify.com/artist/1gMMbPTZtOb9W3IBYl6twO) | [Contra: Acoustic](https://open.spotify.com/album/6WP5Ho3PWAMUkiJLdb6OGb) | 2:57 |
 | 70 | [Fade Into Black \(Acoustic Version\)](https://open.spotify.com/track/6LIkCbYCsPO1mfrmn4DXDQ) | [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Fade Into Black](https://open.spotify.com/album/4kadAWFA2FHerIIjVhybE0) | 4:01 |
 
-Snapshot ID: `MCw0YTRmYjUxMmM0OWY2ODNlMGU2YjdiMGEwNTM3ZGYxYTQ1MGU2NTlm`
+Snapshot ID: `MCw4ZDQzMTM3ODIwNDE4YjMzYmRhYTk1M2FhYmE5Y2Q3MmFmZmJiMzc3`

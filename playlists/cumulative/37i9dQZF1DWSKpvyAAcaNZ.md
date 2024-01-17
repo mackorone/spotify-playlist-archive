@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-296 songs - 18 hr 40 min
+297 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Jack of Diamonds](https://open.spotify.com/track/2q7WMhP5z4P5vF4Z7aztNQ) | [Scott H\. Biram](https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf) | [Nothin' But Blood](https://open.spotify.com/album/1uPGBP7oekFZSUgik5AKv7) | 4:12 | 2021-12-17 | 2022-04-29 |
 | [Jungle](https://open.spotify.com/track/2cuSqUUALtdW2R5Lq6jlcv) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Swagger, Steel & Spurs](https://open.spotify.com/album/01zaNaojDp8OJJ1J60gm6R) | 3:09 | 2022-09-30 | 2022-11-13 |
 | [Jungle](https://open.spotify.com/track/406ZdY9JkmSy7kOGuVflrL) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [The Reason EP](https://open.spotify.com/album/45rrGouDjyjtHKgLvoVw7v) | 3:09 | 2021-12-17 | 2022-07-29 |
-| [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 | 2022-07-22 |  |
+| [Jungle](https://open.spotify.com/track/3xgK660fsZH7ZDcOMfIdfB) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB), [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [VHS](https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN) | 3:09 | 2022-07-22 | 2024-01-13 |
 | [Just to Be with You](https://open.spotify.com/track/3aAFZx6mlVu3WrwgNEK9yM) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Just to Be with You](https://open.spotify.com/album/5fmwhm7jnQTBAewN4UjKnk) | 3:23 | 2021-12-17 |  |
 | [Keep It Close](https://open.spotify.com/track/2E4awT2B9kuIPkiVezOqsh) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:40 | 2022-07-22 |  |
 | [Keep It Close](https://open.spotify.com/track/6Mxb9ZguHzhND7GiTkWJiu) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Keep It Close](https://open.spotify.com/album/2BVhMXXpSpDWFEnpC6Y07w) | 3:40 | 2021-12-17 | 2022-07-29 |
@@ -278,6 +278,7 @@
 | [Voodoo Woman \- Album Outtake](https://open.spotify.com/track/6py94KJo9s8JN9aj4cbkMu) | [Susan Tedeschi](https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta) | [Voodoo Woman](https://open.spotify.com/album/6fakYyAJYgpmeKBsZ6sqZU) | 3:57 | 2023-07-28 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2022-07-22 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/7ICQ4gzQ74YlrDDtU8Ttsz) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Waiting for the Thunder](https://open.spotify.com/album/4ZnjSpNC9TNymP4W9jcLrC) | 4:07 | 2021-12-17 | 2022-07-29 |
+| [Wanting and Waiting](https://open.spotify.com/track/2tshfSpT1vLHlMZ88btPOj) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Wanting and Waiting](https://open.spotify.com/album/7nNsP5Tgq1bsQDXBOXVzhw) | 4:15 | 2024-01-12 |  |
 | [Waslaha](https://open.spotify.com/track/3jaLakSC3EkBqOcXNYgy8K) | [The Wanton Bishops](https://open.spotify.com/artist/7gN2pFFXjxG72z9rb0PCqe) | [Waslaha](https://open.spotify.com/album/3QHUKfPL9dfrfOrJcKRwfF) | 2:38 | 2021-12-17 | 2022-01-29 |
 | [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-07-22 |  |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |

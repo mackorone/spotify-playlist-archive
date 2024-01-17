@@ -4,14 +4,15 @@
 
 > <a href="spotify:artist:3MkIU5jhXTMK9pYQTRVI6p">DJ BORING</a>'s favorite tracks\. Updated regularly\. Curated by DJ BORING\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-135 songs - 10 hr 50 min
+136 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$iTTIN](https://open.spotify.com/track/3wZLmGJV2hpACYcOsdU5M4) | [Tlim Shug](https://open.spotify.com/artist/6ZBY7xp0TKiZx6TlQk19yh) | [$iTTIN](https://open.spotify.com/album/46N9zgTpTMOJzhett7MWKv) | 5:28 | 2022-07-29 | 2023-04-14 |
 | [02:29](https://open.spotify.com/track/0sMjTFJ70bDUrCWuxsWSTG) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx) | [02:29](https://open.spotify.com/album/2GdC1jKUJfuJweSrwcRrc5) | 2:29 | 2023-04-13 | 2023-12-23 |
-| [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 | 2023-04-13 | 2023-12-13 |
-| [02:29](https://open.spotify.com/track/7BJTM0XefPQqNnn5673oqu) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [In Time](https://open.spotify.com/album/6QJ7Cga7NSvbgIQuobc2BD) | 2:29 | 2023-04-13 |  |
+| [02:29](https://open.spotify.com/track/0nq1m4IivlKihMvkGitVah) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [In Time](https://open.spotify.com/album/2Ps8o55SBGwjGQ2OMi3HeX) | 2:29 | 2023-04-13 |  |
+| [02:29](https://open.spotify.com/track/4l4HVlm0t0hXWvMeEAGv5W) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [02:29](https://open.spotify.com/album/1r6Gn84PkOgTTqggu5ib6u) | 2:29 | 2023-04-13 | 2024-01-14 |
+| [02:29](https://open.spotify.com/track/7BJTM0XefPQqNnn5673oqu) | [Harve](https://open.spotify.com/artist/0QwmEYJLsigRBfQFLNYGBx), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [In Time](https://open.spotify.com/album/6QJ7Cga7NSvbgIQuobc2BD) | 2:29 | 2023-04-13 | 2024-01-06 |
 | [3210 \- Ross from Friends Remix](https://open.spotify.com/track/1PfbIpFjsS1BayUoqB3X7O) | [Jeshi](https://open.spotify.com/artist/0q8eApZJs5WDBxayY9769C), [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [3210 \(Ross from Friends Remix\)](https://open.spotify.com/album/4julBAGYv4WmRXwhjJ2LPD) | 5:52 | 2022-07-29 | 2023-04-14 |
 | [92](https://open.spotify.com/track/0LkwpRHK8DYMvMAWo5zDje) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [92](https://open.spotify.com/album/1QsB3EL5GlJ3MKP4LOZ2p8) | 4:10 | 2022-07-29 | 2023-04-14 |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-04-13 |  |

@@ -1,479 +1,2145 @@
 {
-  "2022-09-09": 413,
-  "2022-09-10": 413,
-  "2022-09-11": 415,
-  "2022-09-12": 416,
-  "2022-09-13": 417,
-  "2022-09-15": 417,
-  "2022-09-16": 418,
-  "2022-09-17": 419,
-  "2022-09-18": 421,
-  "2022-09-19": 422,
-  "2022-09-20": 422,
-  "2022-09-21": 421,
-  "2022-09-22": 421,
-  "2022-09-23": 424,
-  "2022-09-24": 424,
-  "2022-09-25": 425,
-  "2022-09-26": 425,
-  "2022-09-27": 424,
-  "2022-09-28": 425,
-  "2022-09-29": 425,
-  "2022-09-30": 427,
-  "2022-10-01": 427,
-  "2022-10-02": 428,
-  "2022-10-03": 428,
-  "2022-10-04": 428,
-  "2022-10-05": 430,
-  "2022-10-06": 430,
-  "2022-10-07": 431,
-  "2022-10-08": 431,
-  "2022-10-09": 432,
-  "2022-10-10": 432,
-  "2022-10-11": 432,
-  "2022-10-12": 432,
-  "2022-10-13": 432,
-  "2022-10-14": 434,
-  "2022-10-15": 436,
-  "2022-10-16": 437,
-  "2022-10-17": 438,
-  "2022-10-18": 439,
-  "2022-10-19": 443,
-  "2022-10-20": 444,
-  "2022-10-21": 444,
-  "2022-10-22": 444,
-  "2022-10-23": 444,
-  "2022-10-24": 444,
-  "2022-10-25": 444,
-  "2022-10-26": 444,
-  "2022-10-27": 444,
-  "2022-10-28": 446,
-  "2022-10-29": 447,
-  "2022-10-30": 448,
-  "2022-10-31": 451,
-  "2022-11-01": 453,
-  "2022-11-02": 453,
-  "2022-11-03": 454,
-  "2022-11-04": 454,
-  "2022-11-05": 453,
-  "2022-11-06": 453,
-  "2022-11-07": 453,
-  "2022-11-08": 453,
-  "2022-11-09": 453,
-  "2022-11-10": 455,
-  "2022-11-11": 457,
-  "2022-11-12": 458,
-  "2022-11-13": 458,
-  "2022-11-14": 458,
-  "2022-11-15": 458,
-  "2022-11-16": 458,
-  "2022-11-17": 457,
-  "2022-11-18": 457,
-  "2022-11-19": 458,
-  "2022-11-20": 459,
-  "2022-11-21": 460,
-  "2022-11-22": 460,
-  "2022-11-23": 460,
-  "2022-11-24": 461,
-  "2022-11-25": 462,
-  "2022-11-26": 462,
-  "2022-11-27": 461,
-  "2022-11-28": 461,
-  "2022-11-29": 461,
-  "2022-11-30": 461,
-  "2022-12-01": 462,
-  "2022-12-02": 462,
-  "2022-12-03": 463,
-  "2022-12-04": 463,
-  "2022-12-05": 463,
-  "2022-12-06": 464,
-  "2022-12-07": 465,
-  "2022-12-08": 465,
-  "2022-12-09": 467,
-  "2022-12-10": 467,
-  "2022-12-11": 469,
-  "2022-12-12": 470,
-  "2022-12-13": 469,
-  "2022-12-14": 469,
-  "2022-12-15": 471,
-  "2022-12-16": 472,
-  "2022-12-17": 472,
-  "2022-12-18": 472,
-  "2022-12-19": 472,
-  "2022-12-20": 478,
-  "2022-12-21": 478,
-  "2022-12-22": 479,
-  "2022-12-24": 480,
-  "2022-12-25": 479,
-  "2022-12-26": 479,
-  "2022-12-27": 478,
-  "2022-12-28": 480,
-  "2022-12-29": 480,
-  "2022-12-30": 480,
-  "2022-12-31": 480,
-  "2023-01-01": 480,
-  "2023-01-02": 480,
-  "2023-01-03": 480,
-  "2023-01-04": 480,
-  "2023-01-05": 481,
-  "2023-01-06": 483,
-  "2023-01-07": 484,
-  "2023-01-08": 484,
-  "2023-01-09": 486,
-  "2023-01-10": 487,
-  "2023-01-11": 488,
-  "2023-01-12": 489,
-  "2023-01-13": 490,
-  "2023-01-14": 491,
-  "2023-01-15": 491,
-  "2023-01-16": 491,
-  "2023-01-17": 495,
-  "2023-01-18": 497,
-  "2023-01-19": 498,
-  "2023-01-20": 501,
-  "2023-01-21": 500,
-  "2023-01-22": 500,
-  "2023-01-23": 501,
-  "2023-01-24": 501,
-  "2023-01-25": 502,
-  "2023-01-26": 502,
-  "2023-01-27": 502,
-  "2023-01-28": 502,
-  "2023-01-29": 502,
-  "2023-01-30": 502,
-  "2023-01-31": 502,
-  "2023-02-01": 505,
-  "2023-02-02": 508,
-  "2023-02-03": 509,
-  "2023-02-04": 512,
-  "2023-02-05": 515,
-  "2023-02-06": 515,
-  "2023-02-07": 515,
-  "2023-02-08": 518,
-  "2023-02-09": 518,
-  "2023-02-10": 519,
-  "2023-02-11": 518,
-  "2023-02-12": 519,
-  "2023-02-13": 518,
-  "2023-02-14": 518,
-  "2023-02-15": 518,
-  "2023-02-16": 519,
-  "2023-02-17": 520,
-  "2023-02-18": 523,
-  "2023-02-19": 523,
-  "2023-02-20": 524,
-  "2023-02-21": 523,
-  "2023-02-22": 522,
-  "2023-02-23": 523,
-  "2023-02-24": 524,
-  "2023-02-25": 525,
-  "2023-02-26": 525,
-  "2023-02-27": 525,
-  "2023-02-28": 525,
-  "2023-03-01": 526,
-  "2023-03-02": 528,
-  "2023-03-03": 528,
-  "2023-03-04": 528,
-  "2023-03-05": 532,
-  "2023-03-06": 532,
-  "2023-03-07": 533,
-  "2023-03-08": 534,
-  "2023-03-09": 535,
-  "2023-03-10": 536,
-  "2023-03-11": 537,
-  "2023-03-12": 537,
-  "2023-03-13": 538,
-  "2023-03-14": 538,
-  "2023-03-15": 538,
-  "2023-03-16": 538,
-  "2023-03-17": 538,
-  "2023-03-18": 540,
-  "2023-03-19": 540,
-  "2023-03-20": 541,
-  "2023-03-21": 544,
-  "2023-03-22": 542,
-  "2023-03-23": 543,
-  "2023-03-24": 543,
-  "2023-03-25": 544,
-  "2023-03-26": 544,
-  "2023-03-27": 546,
-  "2023-03-28": 546,
-  "2023-03-29": 546,
-  "2023-03-30": 549,
-  "2023-03-31": 549,
-  "2023-04-01": 548,
-  "2023-04-02": 550,
-  "2023-04-03": 552,
-  "2023-04-04": 552,
-  "2023-04-05": 551,
-  "2023-04-06": 551,
-  "2023-04-07": 552,
-  "2023-04-09": 554,
-  "2023-04-10": 554,
-  "2023-04-11": 555,
-  "2023-04-12": 555,
-  "2023-04-13": 555,
-  "2023-04-14": 556,
-  "2023-04-15": 556,
-  "2023-04-16": 556,
-  "2023-04-17": 558,
-  "2023-04-18": 558,
-  "2023-04-19": 559,
-  "2023-04-20": 560,
-  "2023-04-21": 560,
-  "2023-04-22": 563,
-  "2023-04-23": 563,
-  "2023-04-24": 562,
-  "2023-04-25": 564,
-  "2023-04-26": 564,
-  "2023-04-27": 565,
-  "2023-04-28": 566,
-  "2023-04-29": 565,
-  "2023-04-30": 566,
-  "2023-05-01": 567,
-  "2023-05-02": 567,
-  "2023-05-03": 567,
-  "2023-05-04": 568,
-  "2023-05-05": 568,
-  "2023-05-06": 568,
-  "2023-05-07": 568,
-  "2023-05-08": 568,
-  "2023-05-09": 569,
-  "2023-05-10": 569,
-  "2023-05-11": 569,
-  "2023-05-12": 569,
-  "2023-05-13": 569,
-  "2023-05-14": 571,
-  "2023-05-15": 571,
-  "2023-05-16": 572,
-  "2023-05-17": 572,
-  "2023-05-18": 572,
-  "2023-05-19": 572,
-  "2023-05-20": 573,
-  "2023-05-21": 573,
-  "2023-05-22": 573,
-  "2023-05-23": 574,
-  "2023-05-24": 575,
-  "2023-05-25": 576,
-  "2023-05-26": 577,
-  "2023-05-27": 578,
-  "2023-05-28": 579,
-  "2023-05-29": 579,
-  "2023-05-30": 582,
-  "2023-05-31": 582,
-  "2023-06-01": 584,
-  "2023-06-02": 585,
-  "2023-06-03": 586,
-  "2023-06-04": 588,
-  "2023-06-05": 591,
-  "2023-06-06": 593,
-  "2023-06-07": 594,
-  "2023-06-08": 596,
-  "2023-06-09": 596,
-  "2023-06-10": 599,
-  "2023-06-11": 598,
-  "2023-06-12": 599,
-  "2023-06-13": 600,
-  "2023-06-14": 600,
-  "2023-06-15": 601,
-  "2023-06-16": 602,
-  "2023-06-17": 603,
-  "2023-06-18": 603,
-  "2023-06-19": 606,
-  "2023-06-20": 608,
-  "2023-06-21": 608,
-  "2023-06-22": 607,
-  "2023-06-23": 609,
-  "2023-06-24": 608,
-  "2023-06-25": 608,
-  "2023-06-26": 608,
-  "2023-06-27": 608,
-  "2023-06-28": 610,
-  "2023-06-29": 611,
-  "2023-06-30": 611,
-  "2023-07-01": 611,
-  "2023-07-02": 611,
-  "2023-07-03": 612,
-  "2023-07-04": 614,
-  "2023-07-05": 615,
-  "2023-07-06": 616,
-  "2023-07-07": 616,
-  "2023-07-08": 616,
-  "2023-07-09": 618,
-  "2023-07-10": 618,
-  "2023-07-11": 618,
-  "2023-07-12": 618,
-  "2023-07-13": 618,
-  "2023-07-14": 619,
-  "2023-07-15": 620,
-  "2023-07-16": 620,
-  "2023-07-17": 621,
-  "2023-07-18": 622,
-  "2023-07-19": 621,
-  "2023-07-20": 621,
-  "2023-07-21": 622,
-  "2023-07-22": 622,
-  "2023-07-23": 622,
-  "2023-07-24": 624,
-  "2023-07-25": 626,
-  "2023-07-26": 626,
-  "2023-07-27": 626,
-  "2023-07-28": 626,
-  "2023-07-29": 627,
-  "2023-07-30": 627,
-  "2023-07-31": 629,
-  "2023-08-01": 631,
-  "2023-08-02": 630,
-  "2023-08-03": 632,
-  "2023-08-04": 632,
-  "2023-08-05": 632,
-  "2023-08-06": 633,
-  "2023-08-07": 633,
-  "2023-08-08": 635,
-  "2023-08-09": 637,
-  "2023-08-10": 637,
-  "2023-08-11": 636,
-  "2023-08-12": 636,
-  "2023-08-13": 636,
-  "2023-08-14": 636,
-  "2023-08-15": 636,
-  "2023-08-16": 636,
-  "2023-08-17": 636,
-  "2023-08-18": 636,
-  "2023-08-19": 636,
-  "2023-08-20": 641,
-  "2023-08-21": 641,
-  "2023-08-22": 643,
-  "2023-08-23": 643,
-  "2023-08-24": 643,
-  "2023-08-25": 643,
-  "2023-08-26": 643,
-  "2023-08-27": 643,
-  "2023-08-28": 649,
-  "2023-08-29": 649,
-  "2023-08-30": 649,
-  "2023-08-31": 651,
-  "2023-09-01": 652,
-  "2023-09-02": 652,
-  "2023-09-03": 652,
-  "2023-09-04": 652,
-  "2023-09-05": 652,
-  "2023-09-06": 652,
-  "2023-09-07": 652,
-  "2023-09-08": 652,
-  "2023-09-09": 652,
-  "2023-09-10": 652,
-  "2023-09-11": 652,
-  "2023-09-12": 652,
-  "2023-09-13": 652,
-  "2023-09-14": 652,
-  "2023-09-15": 652,
-  "2023-09-16": 652,
-  "2023-09-17": 652,
-  "2023-09-18": 652,
-  "2023-09-19": 652,
-  "2023-09-20": 652,
-  "2023-09-21": 652,
-  "2023-09-22": 652,
-  "2023-09-23": 652,
-  "2023-09-24": 652,
-  "2023-09-25": 652,
-  "2023-09-26": 652,
-  "2023-09-27": 652,
-  "2023-09-28": 652,
-  "2023-09-29": 652,
-  "2023-09-30": 652,
-  "2023-10-01": 652,
-  "2023-10-02": 652,
-  "2023-10-03": 652,
-  "2023-10-04": 652,
-  "2023-10-05": 652,
-  "2023-10-06": 652,
-  "2023-10-07": 652,
-  "2023-10-08": 652,
-  "2023-10-09": 652,
-  "2023-10-10": 652,
-  "2023-10-11": 652,
-  "2023-10-12": 652,
-  "2023-10-13": 652,
-  "2023-10-14": 652,
-  "2023-10-15": 652,
-  "2023-10-16": 652,
-  "2023-10-17": 652,
-  "2023-10-18": 652,
-  "2023-10-19": 652,
-  "2023-10-20": 652,
-  "2023-10-21": 652,
-  "2023-10-22": 652,
-  "2023-10-23": 652,
-  "2023-10-24": 652,
-  "2023-10-25": 652,
-  "2023-10-26": 652,
-  "2023-10-27": 652,
-  "2023-10-28": 652,
-  "2023-10-29": 652,
-  "2023-10-30": 652,
-  "2023-10-31": 652,
-  "2023-11-01": 652,
-  "2023-11-02": 652,
-  "2023-11-03": 652,
-  "2023-11-04": 652,
-  "2023-11-05": 652,
-  "2023-11-06": 652,
-  "2023-11-07": 652,
-  "2023-11-08": 652,
-  "2023-11-09": 652,
-  "2023-11-10": 652,
-  "2023-11-11": 652,
-  "2023-11-12": 652,
-  "2023-11-13": 652,
-  "2023-11-14": 652,
-  "2023-11-15": 652,
-  "2023-11-16": 652,
-  "2023-11-17": 652,
-  "2023-11-18": 652,
-  "2023-11-19": 652,
-  "2023-11-20": 652,
-  "2023-11-21": 652,
-  "2023-11-22": 652,
-  "2023-11-23": 652,
-  "2023-11-24": 652,
-  "2023-11-25": 652,
-  "2023-11-26": 652,
-  "2023-11-27": 652,
-  "2023-11-28": 652,
-  "2023-11-29": 652,
-  "2023-11-30": 652,
-  "2023-12-01": 652,
-  "2023-12-02": 652,
-  "2023-12-03": 652,
-  "2023-12-04": 652,
-  "2023-12-05": 652,
-  "2023-12-06": 652,
-  "2023-12-07": 652,
-  "2023-12-08": 652,
-  "2023-12-09": 652,
-  "2023-12-10": 652,
-  "2023-12-11": 652,
-  "2023-12-12": 652,
-  "2023-12-13": 652,
-  "2023-12-14": 664,
-  "2023-12-15": 664,
-  "2023-12-16": 664,
-  "2023-12-17": 665,
-  "2023-12-18": 665,
-  "2023-12-19": 665,
-  "2023-12-20": 665,
-  "2023-12-21": 665,
-  "2023-12-22": 665,
-  "2023-12-23": 665,
-  "2023-12-24": 665,
-  "2023-12-25": 665,
-  "2023-12-26": 666,
-  "2023-12-27": 666,
-  "2023-12-30": 668,
-  "2023-12-31": 668,
-  "2024-01-01": 668,
-  "2024-01-02": 669,
-  "2024-01-03": 669
+  "2024-01-17": 665,
+  "date_first_scraped": "2022-09-09",
+  "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et\">LP</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
+  "name": "Written By LP",
+  "tracks": [
+    {
+      "album": {
+        "name": "Afraid To Sleep (The Voice Performance)",
+        "url": "https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX"
+      },
+      "artists": [
+        {
+          "name": "Vicci Martinez",
+          "url": "https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200773,
+      "name": "Afraid To Sleep - The Voice Performance",
+      "url": "https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq"
+    },
+    {
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk"
+      },
+      "artists": [
+        {
+          "name": "Hypercolor",
+          "url": "https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238308,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M"
+    },
+    {
+      "album": {
+        "name": "Back Where I Belong (feat. Avicii)",
+        "url": "https://open.spotify.com/album/6c4fND91gsKojyp3Mox97y"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        },
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174202,
+      "name": "Back Where I Belong (feat. Avicii)",
+      "url": "https://open.spotify.com/track/78W8wiUIlQ2SnWY9TVowKZ"
+    },
+    {
+      "album": {
+        "name": "Careless People",
+        "url": "https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210477,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/3o7FxQBVhnjCfi8TY0Hbo7"
+    },
+    {
+      "album": {
+        "name": "The Best Of... So Far (Deluxe)",
+        "url": "https://open.spotify.com/album/44hfSt45S1YSvgCca4qifK"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266360,
+      "name": "Broken Vow",
+      "url": "https://open.spotify.com/track/6oif5BcrVJ2YP589p6SZ9K"
+    },
+    {
+      "album": {
+        "name": "Courage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0mqNgHFh1NYaxmlMS5IeGc"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181906,
+      "name": "Change My Mind",
+      "url": "https://open.spotify.com/track/6kU61vxWjXCb8hxJQm16j7"
+    },
+    {
+      "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261746,
+      "name": "Cheers (Drink To That)",
+      "url": "https://open.spotify.com/track/3DDBW9yeXc0RQUAOBeKYti"
+    },
+    {
+      "album": {
+        "name": "Cling to Me",
+        "url": "https://open.spotify.com/album/0fJsVicsUavBWSiiLBDwNJ"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243617,
+      "name": "Cling to Me",
+      "url": "https://open.spotify.com/track/2e4dV55FccXOQPg5Fbx8cc"
+    },
+    {
+      "album": {
+        "name": "DJ Dan Presents Future Retro",
+        "url": "https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05"
+      },
+      "artists": [
+        {
+          "name": "DJ Dan",
+          "url": "https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        },
+        {
+          "name": "L.P.",
+          "url": "https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Come On & Get It",
+      "url": "https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA"
+    },
+    {
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO"
+      },
+      "artists": [
+        {
+          "name": "Swanky Tunes",
+          "url": "https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220160,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 172341,
+      "name": "Death Valley",
+      "url": "https://open.spotify.com/track/7lKCiqJLakjQuPZ7ZvpmPc"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Death Valley",
+      "url": "https://open.spotify.com/track/5zEIsGLEDLpdzWU89dvTpl"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 219733,
+      "name": "Die For Your Love",
+      "url": "https://open.spotify.com/track/37z1U7PORW95mDVHiKedWx"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "Die For Your Love",
+      "url": "https://open.spotify.com/track/5qUBLOVnyluBNP7kdVo9Jo"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 195346,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/45ES0Xxr4N4YnNvS0yUe4v"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195346,
+      "name": "Dreamcatcher",
+      "url": "https://open.spotify.com/track/5NQx7QdCOMx7GS77eOlzzI"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 205453,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/53N2lUWiXmZHNlR8ydET2p"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205453,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/749mhPMNaGU8xcxStCOEFI"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276533,
+      "name": "Fighting with Myself - Live",
+      "url": "https://open.spotify.com/track/6mbS6Fks9pPJNNIYqUyzew"
+    },
+    {
+      "album": {
+        "name": "Glassheart (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q"
+      },
+      "artists": [
+        {
+          "name": "Leona Lewis",
+          "url": "https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247066,
+      "name": "Fingerprint",
+      "url": "https://open.spotify.com/track/2Sk4yHsNXMvPL3Id92JSNA"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250120,
+      "name": "Forever for Now",
+      "url": "https://open.spotify.com/track/1wMpTjS9cNpdmxgJloFG30"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267626,
+      "name": "Free to Love",
+      "url": "https://open.spotify.com/track/7va3JyczUDb1173FZwU5Ol"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 223426,
+      "name": "Girls Go Wild",
+      "url": "https://open.spotify.com/track/5AOqxn4l8BHO0or40XxCuh"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223546,
+      "name": "Girls Go Wild",
+      "url": "https://open.spotify.com/track/4UPbzHm6NYxvTkvnrLagXp"
+    },
+    {
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/1YnYYbRawnQcFqRooF0159"
+      },
+      "artists": [
+        {
+          "name": "Chiddy Bang",
+          "url": "https://open.spotify.com/artist/40giwFcTQtv9ezxW8yqxJU"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196306,
+      "name": "Happening",
+      "url": "https://open.spotify.com/track/4lWGDBaPtSsZTup9v4f6J1"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "Heavenly Light",
+      "url": "https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Hey Boy",
+      "url": "https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 204226,
+      "name": "Hey Nice To Know Ya",
+      "url": "https://open.spotify.com/track/46oEi1KC1eNDyNdCbGdZ1d"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Hey Nice To Know Ya",
+      "url": "https://open.spotify.com/track/7h7KXJexeVFAwrf7aZB9CE"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 181426,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/01mKJ0Xz90naXw0iOf0YhH"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/3pK3TlcPa0fzpvlj8dmW6d"
+    },
+    {
+      "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/7tG9wuLLbhOx38KY9JBTU7"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209226,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/3zr5liODTQ9fdtrDOPatiS"
+    },
+    {
+      "album": {
+        "name": "Trust - EP",
+        "url": "https://open.spotify.com/album/6jYfRAJmHkycharyGlu9yC"
+      },
+      "artists": [
+        {
+          "name": "Will Heard",
+          "url": "https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "I Better Love You",
+      "url": "https://open.spotify.com/track/2jFd3RbfyLbGAZz822QcKN"
+    },
+    {
+      "album": {
+        "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/5qmrI4QzGtnHZ82fIFD3MZ"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-29",
+      "duration_ms": 213251,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/54TtC7panYEEymLPoHZI1X"
+    },
+    {
+      "album": {
+        "name": "whore1234",
+        "url": "https://open.spotify.com/album/3zMQGfWBTanmtjLcsf4vPX"
+      },
+      "artists": [
+        {
+          "name": "Ayesha Erotica",
+          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
+        }
+      ],
+      "date_added": "2023-08-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 213263,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/3BhTustDGXOU8l9JcFhAoa"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB"
+    },
+    {
+      "album": {
+        "name": "I'll Do It",
+        "url": "https://open.spotify.com/album/2a9V9u6KHzaT4ruuKG9d0q"
+      },
+      "artists": [
+        {
+          "name": "Lucky Charms",
+          "url": "https://open.spotify.com/artist/13wxS1gIPUgWg8m5Ejl2i3"
+        },
+        {
+          "name": "6SIXSIX",
+          "url": "https://open.spotify.com/artist/1mMnunVIw4ejNRFNBEqRC2"
+        }
+      ],
+      "date_added": "2023-05-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 127334,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/5jGqQuX070TkywzWpnzlsm"
+    },
+    {
+      "album": {
+        "name": "I'll Do It (feat. iGodzilla)",
+        "url": "https://open.spotify.com/album/7JhP1WxaFHyKAO1HBaykN9"
+      },
+      "artists": [
+        {
+          "name": "2kMay",
+          "url": "https://open.spotify.com/artist/5vC3PGGBIp1fPF0GOyanlt"
+        },
+        {
+          "name": "iGodzilla",
+          "url": "https://open.spotify.com/artist/2AB1nrkYl5qrgFmbk45Lez"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213185,
+      "name": "I'll Do It (feat. iGodzilla)",
+      "url": "https://open.spotify.com/track/7l5VYsDwOo3oWvUgVZOb9T"
+    },
+    {
+      "album": {
+        "name": "Audacious Vol. 5",
+        "url": "https://open.spotify.com/album/3f7P6z4G8Xtg9c1EycOEI5"
+      },
+      "artists": [
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        },
+        {
+          "name": "Jessica Sutta",
+          "url": "https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 238052,
+      "name": "I'm Gonna Get You - Radio Edit",
+      "url": "https://open.spotify.com/track/6tQHMzPvzsebxCWD3vxJpN"
+    },
+    {
+      "album": {
+        "name": "Audacious, Vol. 5",
+        "url": "https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg"
+      },
+      "artists": [
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        },
+        {
+          "name": "Jessica Sutta",
+          "url": "https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238052,
+      "name": "I'm Gonna Get You - Radio Edit",
+      "url": "https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235213,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/2gY0Ff8dmJNlCyQxDDqBEf"
+    },
+    {
+      "album": {
+        "name": "I'm Still Hot",
+        "url": "https://open.spotify.com/album/7cibzBkdJPPFpwsaOdNpy3"
+      },
+      "artists": [
+        {
+          "name": "Luciana",
+          "url": "https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186182,
+      "name": "I\u2019m Still Hot - Original",
+      "url": "https://open.spotify.com/track/3SYfAEAIkw66szw7cFKyty"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "Levitator",
+      "url": "https://open.spotify.com/track/3zla0UocDoFH1AQdTd4hfC"
+    },
+    {
+      "album": {
+        "name": "Untouched",
+        "url": "https://open.spotify.com/album/2mBzwVNK25pwRgriCYyfiW"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205413,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/1CksYfCiy5yqIWQspL9kBQ"
+    },
+    {
+      "album": {
+        "name": "Lolita",
+        "url": "https://open.spotify.com/album/0dz08Fh4ZEZzZFBApPHLTf"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 205413,
+      "name": "Lolita",
+      "url": "https://open.spotify.com/track/5xnogcyfSvaSLu9Ad9CaBH"
+    },
+    {
+      "album": {
+        "name": "Lost On You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245718,
+      "name": "Long Way To Go To Die",
+      "url": "https://open.spotify.com/track/7ECRCvKNHUEUH7vEPD9P4I"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 250232,
+      "name": "Long Way To Go To Die",
+      "url": "https://open.spotify.com/track/4tLY4kxlciE804P2NqY9jy"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208173,
+      "name": "Look How I'm Doin",
+      "url": "https://open.spotify.com/track/1X2gjBUZDhQLZWyIsdlGVd"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243973,
+      "name": "Lost in the World",
+      "url": "https://open.spotify.com/track/3QZ9HHT5HAdz4Ly45pFPxC"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/00s8bSC8QKAOFOXfBJdECo"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266187,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/5QIzah26n6vMdj9t0l23m4"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 268105,
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/3SqvR3HYLlCTYzbDXJ52OC"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245280,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/3LJaFfGJSxqanKkgEUXuPy"
+    },
+    {
+      "album": {
+        "name": "Careless People",
+        "url": "https://open.spotify.com/album/6jg5Yt9EmSL9tpauXRPAiV"
+      },
+      "artists": [
+        {
+          "name": "Charlotte OC",
+          "url": "https://open.spotify.com/artist/7ySHyUSqpKzGnDqOxLiCFH"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214880,
+      "name": "Medicine Man",
+      "url": "https://open.spotify.com/track/3HI8a7Fw9eALgHzloLX7uQ"
+    },
+    {
+      "album": {
+        "name": "Chapter One",
+        "url": "https://open.spotify.com/album/0KP9GNOxpsKRSA0t0B4ZsL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222480,
+      "name": "Mirror Man",
+      "url": "https://open.spotify.com/track/5ItmPIcrJGy1e9sMnihDqB"
+    },
+    {
+      "album": {
+        "name": "Mirror Man",
+        "url": "https://open.spotify.com/album/1kxZbdW8wN7ucZKlazugsI"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "date_added": "2023-12-17",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 222528,
+      "name": "Mirror Man",
+      "url": "https://open.spotify.com/track/3CAi5U3GUWmCpC0TwNmtnd"
+    },
+    {
+      "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "More Is More",
+      "url": "https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227484,
+      "name": "Muddy Waters",
+      "url": "https://open.spotify.com/track/2mwI7Xplc8SouuSpBNALIh"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 228547,
+      "name": "Muddy Waters",
+      "url": "https://open.spotify.com/track/6k0FFbdikaefJGV2443iNv"
+    },
+    {
+      "album": {
+        "name": "D\u00e9sob\u00e9issance",
+        "url": "https://open.spotify.com/album/5YDET5CVSy7YvV7I3s5wAI"
+      },
+      "artists": [
+        {
+          "name": "Myl\u00e8ne Farmer",
+          "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219906,
+      "name": "N'oublie pas",
+      "url": "https://open.spotify.com/track/7FIpYtyMksImC785MQ6rk0"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240280,
+      "name": "Night Like This",
+      "url": "https://open.spotify.com/track/5uZbXwM8gGGHSD1Dqv8kCu"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 208257,
+      "name": "No Witness",
+      "url": "https://open.spotify.com/track/13qy3gxJFjx5IKXrW7t6dj"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208257,
+      "name": "No Witness",
+      "url": "https://open.spotify.com/track/6dLAGp6YfJ7TIEU5UZLokn"
+    },
+    {
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k"
+      },
+      "artists": [
+        {
+          "name": "Nick Fradiani",
+          "url": "https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202800,
+      "name": "Nothing To Lose",
+      "url": "https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215906,
+      "name": "One Last Mistake",
+      "url": "https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB"
+    },
+    {
+      "album": {
+        "name": "Churches",
+        "url": "https://open.spotify.com/album/73yPks0QhGEUpg7jcWHVso"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/3b5rN0v3y5T70UUX9zayTy"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 264306,
+      "name": "One Night in the Sun",
+      "url": "https://open.spotify.com/track/29xUFQ0Zvh5U7vYtlgrTGw"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "One Night In the Sun",
+      "url": "https://open.spotify.com/track/2c5qi47dEK3F44KGKdNpuS"
+    },
+    {
+      "album": {
+        "name": "Love, Audra Mae",
+        "url": "https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR"
+      },
+      "artists": [
+        {
+          "name": "Audra Mae",
+          "url": "https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267141,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244892,
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/32f4hFMwHkw3Ooeqf0hbnK"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 244945,
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/4LnCmKS6wJTckR1zvvH8PM"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt"
+      },
+      "artists": [
+        {
+          "name": "EMIN",
+          "url": "https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205253,
+      "name": "Pedestal",
+      "url": "https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag"
+    },
+    {
+      "album": {
+        "name": "The Time Is Now!",
+        "url": "https://open.spotify.com/album/36bkD1IoDWM5DIbgFR5okR"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234306,
+      "name": "Pride (In The Name Of Love)",
+      "url": "https://open.spotify.com/track/6qkRb2XZbkvm0Bk55F4J8F"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232093,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/5eYrUhlS7NAbzFJjNT2jEu"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 234904,
+      "name": "Recovery",
+      "url": "https://open.spotify.com/track/1a5P7IvLUhRhLnnbkev3PI"
+    },
+    {
+      "album": {
+        "name": "Closer to the Truth (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2nlX67uuNKD2avQ17vItT9"
+      },
+      "artists": [
+        {
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186213,
+      "name": "Red",
+      "url": "https://open.spotify.com/track/7mIiDiPYWsUXH6h8dSkVHb"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283613,
+      "name": "Road to Ruin",
+      "url": "https://open.spotify.com/track/2UmhCjVXLGpvsPspmJu5Jo"
+    },
+    {
+      "album": {
+        "name": "Utopia (Deluxe)",
+        "url": "https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5"
+      },
+      "artists": [
+        {
+          "name": "Serena Ryder",
+          "url": "https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210440,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/5KMNtw6HVCvXeY3b60JtGR"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194240,
+      "name": "Savannah",
+      "url": "https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y"
+    },
+    {
+      "album": {
+        "name": "Sex Ed",
+        "url": "https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Sex Ed",
+      "url": "https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 225373,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225373,
+      "name": "Shaken",
+      "url": "https://open.spotify.com/track/4OLDV6nk6JrzYoaiHDRR0v"
+    },
+    {
+      "album": {
+        "name": "ORA",
+        "url": "https://open.spotify.com/album/1aDnLoXL8rl3WFJWLTxZmx"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "Shine Ya Light",
+      "url": "https://open.spotify.com/track/53Jn6XWHu86vTZEK4elSH7"
+    },
+    {
+      "album": {
+        "name": "Desserts",
+        "url": "https://open.spotify.com/album/2osER63dyxzb5y37YqMUJd"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Solo Para Ti",
+      "url": "https://open.spotify.com/track/0mJ7MnaW6UJ7DGeiw770WG"
+    },
+    {
+      "album": {
+        "name": "Desserts",
+        "url": "https://open.spotify.com/album/7eEV72avvHcckpIclgZAV0"
+      },
+      "artists": [
+        {
+          "name": "CAZZETTE",
+          "url": "https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-02",
+      "duration_ms": 224625,
+      "name": "Solo Para Ti",
+      "url": "https://open.spotify.com/track/1SEnY3zCzz2ZDcmNeHaiXJ"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aqQwBaJ2W7z5PIqWMheGx"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 261266,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/5BmFkMlzo74gvl4h1dObB9"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261266,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/6wPX3UFKGUsUJptbFleXAp"
+    },
+    {
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/2LQCkZkjgKKTaPb8SYqufS"
+      },
+      "artists": [
+        {
+          "name": "Erik Hassle",
+          "url": "https://open.spotify.com/artist/6MKNzi38fPQCFRdWOtHqTJ"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200306,
+      "name": "Standing Where You Left Me",
+      "url": "https://open.spotify.com/track/47ByDQbcfBfhkrzgJ1Ojs0"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 234665,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/0ym7NHJQXBiw6vQvqqcuhr"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235616,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/4n6pH632KlUcuYxq3imOY4"
+    },
+    {
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206866,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS"
+    },
+    {
+      "album": {
+        "name": "Lost On You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200486,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/26sWRzDoP2gNqsIoty8afK"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 200486,
+      "name": "Suspicion",
+      "url": "https://open.spotify.com/track/3m2xJrdQwtkv6NCs2SG7O4"
+    },
+    {
+      "album": {
+        "name": "Lost On You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261365,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/1plHfju0zRVjlSTT7iwew9"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 264117,
+      "name": "Switchblade",
+      "url": "https://open.spotify.com/track/6WZplTldmHviPQ6FE4t9mM"
+    },
+    {
+      "album": {
+        "name": "Hot Thoughts",
+        "url": "https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260293,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/3mBpbLyT9wDg50I0lgmAul"
+    },
+    {
+      "album": {
+        "name": "Street Queen",
+        "url": "https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC"
+      },
+      "artists": [
+        {
+          "name": "The Years",
+          "url": "https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230513,
+      "name": "The Fear",
+      "url": "https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278306,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/62uBN2MTdEPpPFnT3xVs1U"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 278306,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/7sxj9JzppS5rYayRsvZixD"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 218644,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/3zb35b7u4hqUx72vBRwgi6"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218644,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/6Bpv9AamnrPSdmN8M6dE1C"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264226,
+      "name": "Tokyo Sunrise",
+      "url": "https://open.spotify.com/track/1oOPzxeYO9Z8Y6QAwxnYDL"
+    },
+    {
+      "album": {
+        "name": "Rock The Kasbah (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7"
+      },
+      "artists": [
+        {
+          "name": "Isa Machine",
+          "url": "https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182293,
+      "name": "Up Against Me",
+      "url": "https://open.spotify.com/track/2EyNDcf37MM2eez5Csf3YX"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Up Against Me",
+      "url": "https://open.spotify.com/track/4Ka3CvrwzHnCFf6Z4yXwdg"
+    },
+    {
+      "album": {
+        "name": "Hold On \u2018Til The Night",
+        "url": "https://open.spotify.com/album/5Vbc1cKq8E0TxSAL5rTD57"
+      },
+      "artists": [
+        {
+          "name": "Greyson Chance",
+          "url": "https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Waiting Outside The Lines",
+      "url": "https://open.spotify.com/track/5AdFiDqYP1E0OwXyUt9UGI"
+    },
+    {
+      "album": {
+        "name": "Daggers",
+        "url": "https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL"
+      },
+      "artists": [
+        {
+          "name": "Ex Cops",
+          "url": "https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236786,
+      "name": "Wanna Be (feat. LP)",
+      "url": "https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251840,
+      "name": "Wasted Love - Live",
+      "url": "https://open.spotify.com/track/2MUI78ENObwkB08yQQbO5a"
+    },
+    {
+      "album": {
+        "name": "Heart to Mouth",
+        "url": "https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 266586,
+      "name": "When I'm Over You",
+      "url": "https://open.spotify.com/track/1JueotTuCnkcTA7tBA5hLR"
+    },
+    {
+      "album": {
+        "name": "Heart To Mouth",
+        "url": "https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266586,
+      "name": "When I'm Over You",
+      "url": "https://open.spotify.com/track/3wNccqQIkhLDWQNGsGIybF"
+    },
+    {
+      "album": {
+        "name": "Lost On You (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jEdDyZOU75VaY764hKZ9O"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235224,
+      "name": "When We're High",
+      "url": "https://open.spotify.com/track/0cr9HCqppIsaq6mluZOFHc"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 237500,
+      "name": "When We're High",
+      "url": "https://open.spotify.com/track/7ohDUXs6SsU3XjTI9pcKTS"
+    },
+    {
+      "album": {
+        "name": "Lost on You",
+        "url": "https://open.spotify.com/album/3R2TVCA5PMMnEcVlIOCMEG"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 251307,
+      "name": "You Want It All",
+      "url": "https://open.spotify.com/track/2JlCN8HWtmvbSaLPSZ9f0L"
+    },
+    {
+      "album": {
+        "name": "Lost On You",
+        "url": "https://open.spotify.com/album/1MhlJ1wjx4XHrtPxwm5Bb1"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251307,
+      "name": "You Want It All",
+      "url": "https://open.spotify.com/track/7sHsryAVFw3QUEeM1EuZG4"
+    },
+    {
+      "album": {
+        "name": "Forever for Now (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
+      },
+      "artists": [
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265146,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/3HzpX6bOdxUq9X4cDObkNJ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1EFLoUfni1QYZU"
 }

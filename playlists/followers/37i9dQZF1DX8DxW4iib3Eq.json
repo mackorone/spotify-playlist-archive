@@ -1,735 +1,797 @@
 {
-  "2021-12-25": 317352,
-  "2021-12-26": 317432,
-  "2021-12-27": 317637,
-  "2021-12-28": 317640,
-  "2021-12-29": 317726,
-  "2021-12-30": 317840,
-  "2021-12-31": 317940,
-  "2022-01-01": 318148,
-  "2022-01-02": 318186,
-  "2022-01-03": 318268,
-  "2022-01-04": 318361,
-  "2022-01-05": 318459,
-  "2022-01-06": 318531,
-  "2022-01-07": 318623,
-  "2022-01-08": 318775,
-  "2022-01-09": 318772,
-  "2022-01-10": 318875,
-  "2022-01-11": 318941,
-  "2022-01-12": 318977,
-  "2022-01-13": 318977,
-  "2022-01-14": 318977,
-  "2022-01-15": 318977,
-  "2022-01-16": 318977,
-  "2022-01-17": 318977,
-  "2022-01-18": 318977,
-  "2022-01-19": 318977,
-  "2022-01-20": 318977,
-  "2022-01-21": 318977,
-  "2022-01-22": 318977,
-  "2022-01-23": 318977,
-  "2022-01-24": 318977,
-  "2022-01-25": 318977,
-  "2022-01-26": 318977,
-  "2022-01-27": 318977,
-  "2022-01-28": 318977,
-  "2022-01-29": 318977,
-  "2022-01-30": 318977,
-  "2022-01-31": 318977,
-  "2022-02-01": 318977,
-  "2022-02-02": 318977,
-  "2022-02-03": 318977,
-  "2022-02-04": 318977,
-  "2022-02-05": 318977,
-  "2022-02-06": 318977,
-  "2022-02-07": 318977,
-  "2022-02-08": 318977,
-  "2022-02-09": 318977,
-  "2022-02-10": 318977,
-  "2022-02-11": 318977,
-  "2022-02-12": 318977,
-  "2022-02-13": 318977,
-  "2022-02-14": 318977,
-  "2022-02-15": 318977,
-  "2022-02-16": 318977,
-  "2022-02-17": 318977,
-  "2022-02-18": 318977,
-  "2022-02-19": 318977,
-  "2022-02-20": 318977,
-  "2022-02-21": 318977,
-  "2022-02-22": 318977,
-  "2022-02-23": 318977,
-  "2022-02-24": 318977,
-  "2022-02-25": 318977,
-  "2022-02-26": 318977,
-  "2022-02-27": 318977,
-  "2022-02-28": 318977,
-  "2022-03-01": 318977,
-  "2022-03-02": 318977,
-  "2022-03-03": 318977,
-  "2022-03-04": 318977,
-  "2022-03-05": 318977,
-  "2022-03-06": 318977,
-  "2022-03-07": 318977,
-  "2022-03-08": 318977,
-  "2022-03-09": 318977,
-  "2022-03-10": 318977,
-  "2022-03-11": 318977,
-  "2022-03-12": 318977,
-  "2022-03-13": 318977,
-  "2022-03-14": 318977,
-  "2022-03-15": 318977,
-  "2022-03-16": 318977,
-  "2022-03-17": 318977,
-  "2022-03-18": 318977,
-  "2022-03-19": 318977,
-  "2022-03-20": 318977,
-  "2022-03-21": 318977,
-  "2022-03-22": 318977,
-  "2022-03-23": 318977,
-  "2022-03-24": 318977,
-  "2022-03-25": 318977,
-  "2022-03-26": 318977,
-  "2022-03-27": 318977,
-  "2022-03-28": 318977,
-  "2022-03-30": 318977,
-  "2022-03-31": 318977,
-  "2022-04-01": 318977,
-  "2022-04-02": 318977,
-  "2022-04-03": 318977,
-  "2022-04-04": 318977,
-  "2022-04-05": 318977,
-  "2022-04-06": 318977,
-  "2022-04-07": 318977,
-  "2022-04-08": 318977,
-  "2022-04-09": 318977,
-  "2022-04-10": 318977,
-  "2022-04-11": 318977,
-  "2022-04-12": 318977,
-  "2022-04-13": 318977,
-  "2022-04-14": 318977,
-  "2022-04-15": 318977,
-  "2022-04-16": 318977,
-  "2022-04-17": 318977,
-  "2022-04-18": 318977,
-  "2022-04-19": 318977,
-  "2022-04-20": 318977,
-  "2022-04-21": 318977,
-  "2022-04-22": 318977,
-  "2022-04-23": 318977,
-  "2022-04-24": 318977,
-  "2022-04-25": 318977,
-  "2022-04-26": 318977,
-  "2022-04-27": 318977,
-  "2022-04-28": 318977,
-  "2022-04-29": 318977,
-  "2022-04-30": 318977,
-  "2022-05-01": 318977,
-  "2022-05-02": 318977,
-  "2022-05-03": 318977,
-  "2022-05-04": 318977,
-  "2022-05-05": 318977,
-  "2022-05-06": 318977,
-  "2022-05-07": 318977,
-  "2022-05-08": 318977,
-  "2022-05-09": 318977,
-  "2022-05-10": 318977,
-  "2022-05-11": 318977,
-  "2022-05-12": 318977,
-  "2022-05-13": 318977,
-  "2022-05-14": 318977,
-  "2022-05-15": 318977,
-  "2022-05-16": 318977,
-  "2022-05-17": 318977,
-  "2022-05-18": 318977,
-  "2022-05-19": 318977,
-  "2022-05-20": 318977,
-  "2022-05-21": 318977,
-  "2022-05-22": 318977,
-  "2022-05-23": 318977,
-  "2022-05-24": 318977,
-  "2022-05-25": 318977,
-  "2022-05-26": 318977,
-  "2022-05-27": 318977,
-  "2022-05-28": 318977,
-  "2022-05-29": 318977,
-  "2022-05-30": 318977,
-  "2022-05-31": 318977,
-  "2022-06-01": 318977,
-  "2022-06-02": 318977,
-  "2022-06-03": 318977,
-  "2022-06-04": 318977,
-  "2022-06-05": 318977,
-  "2022-06-06": 318977,
-  "2022-06-07": 318977,
-  "2022-06-08": 318977,
-  "2022-06-09": 318977,
-  "2022-06-10": 318977,
-  "2022-06-11": 318977,
-  "2022-06-12": 318977,
-  "2022-06-13": 318977,
-  "2022-06-14": 318977,
-  "2022-06-15": 318977,
-  "2022-06-16": 318977,
-  "2022-06-17": 318977,
-  "2022-06-18": 318977,
-  "2022-06-19": 318977,
-  "2022-06-20": 318977,
-  "2022-06-21": 318977,
-  "2022-06-22": 318977,
-  "2022-06-23": 318977,
-  "2022-06-24": 318977,
-  "2022-06-25": 318977,
-  "2022-06-26": 318977,
-  "2022-06-27": 318977,
-  "2022-06-28": 318977,
-  "2022-06-29": 318977,
-  "2022-06-30": 318977,
-  "2022-07-01": 318977,
-  "2022-07-02": 318977,
-  "2022-07-03": 318977,
-  "2022-07-04": 318977,
-  "2022-07-05": 318977,
-  "2022-07-06": 318977,
-  "2022-07-07": 318977,
-  "2022-07-08": 318977,
-  "2022-07-09": 318977,
-  "2022-07-10": 318977,
-  "2022-07-11": 318977,
-  "2022-07-12": 318977,
-  "2022-07-13": 318977,
-  "2022-07-14": 318977,
-  "2022-07-15": 318977,
-  "2022-07-16": 318977,
-  "2022-07-17": 318977,
-  "2022-07-18": 318977,
-  "2022-07-19": 318977,
-  "2022-07-20": 318977,
-  "2022-07-21": 318977,
-  "2022-07-22": 318977,
-  "2022-07-23": 318977,
-  "2022-07-24": 318977,
-  "2022-07-25": 318977,
-  "2022-07-26": 318977,
-  "2022-07-27": 318977,
-  "2022-07-28": 318977,
-  "2022-07-29": 318977,
-  "2022-07-30": 318977,
-  "2022-07-31": 318977,
-  "2022-08-01": 318977,
-  "2022-08-02": 318977,
-  "2022-08-03": 318977,
-  "2022-08-04": 318977,
-  "2022-08-05": 318977,
-  "2022-08-06": 318977,
-  "2022-08-07": 318977,
-  "2022-08-08": 318977,
-  "2022-08-09": 318977,
-  "2022-08-10": 318977,
-  "2022-08-11": 318977,
-  "2022-08-12": 318977,
-  "2022-08-13": 318977,
-  "2022-08-14": 318977,
-  "2022-08-15": 318977,
-  "2022-08-16": 318977,
-  "2022-08-17": 318977,
-  "2022-08-18": 318977,
-  "2022-08-19": 318977,
-  "2022-08-20": 318977,
-  "2022-08-21": 318977,
-  "2022-08-22": 318977,
-  "2022-08-23": 318977,
-  "2022-08-24": 318977,
-  "2022-08-25": 318977,
-  "2022-08-26": 318977,
-  "2022-08-27": 318977,
-  "2022-08-28": 318977,
-  "2022-08-29": 318977,
-  "2022-08-30": 318977,
-  "2022-08-31": 318977,
-  "2022-09-01": 318977,
-  "2022-09-02": 318977,
-  "2022-09-03": 318977,
-  "2022-09-04": 318977,
-  "2022-09-05": 318977,
-  "2022-09-06": 318977,
-  "2022-09-07": 318977,
-  "2022-09-09": 318977,
-  "2022-09-10": 318977,
-  "2022-09-11": 318977,
-  "2022-09-12": 318977,
-  "2022-09-13": 318977,
-  "2022-09-15": 318977,
-  "2022-09-16": 318977,
-  "2022-09-17": 318977,
-  "2022-09-18": 318977,
-  "2022-09-19": 318977,
-  "2022-09-20": 318977,
-  "2022-09-21": 318977,
-  "2022-09-22": 318977,
-  "2022-09-23": 318977,
-  "2022-09-24": 318977,
-  "2022-09-25": 318977,
-  "2022-09-26": 318977,
-  "2022-09-27": 318977,
-  "2022-09-28": 318977,
-  "2022-09-29": 318977,
-  "2022-09-30": 318977,
-  "2022-10-01": 318977,
-  "2022-10-02": 318977,
-  "2022-10-03": 318977,
-  "2022-10-04": 318977,
-  "2022-10-05": 318977,
-  "2022-10-06": 318977,
-  "2022-10-07": 318977,
-  "2022-10-08": 318977,
-  "2022-10-09": 318977,
-  "2022-10-10": 318977,
-  "2022-10-11": 318977,
-  "2022-10-12": 318977,
-  "2022-10-13": 318977,
-  "2022-10-14": 318977,
-  "2022-10-15": 318977,
-  "2022-10-16": 318977,
-  "2022-10-17": 318977,
-  "2022-10-18": 318977,
-  "2022-10-19": 318977,
-  "2022-10-20": 318977,
-  "2022-10-21": 318977,
-  "2022-10-22": 318977,
-  "2022-10-23": 318977,
-  "2022-10-24": 318977,
-  "2022-10-25": 318977,
-  "2022-10-26": 318977,
-  "2022-10-27": 318977,
-  "2022-10-28": 318977,
-  "2022-10-29": 318977,
-  "2022-10-30": 318977,
-  "2022-10-31": 318977,
-  "2022-11-01": 318977,
-  "2022-11-02": 318977,
-  "2022-11-03": 318977,
-  "2022-11-04": 318977,
-  "2022-11-05": 318977,
-  "2022-11-06": 318977,
-  "2022-11-07": 318977,
-  "2022-11-08": 318977,
-  "2022-11-09": 318977,
-  "2022-11-10": 318977,
-  "2022-11-11": 318977,
-  "2022-11-12": 318977,
-  "2022-11-13": 318977,
-  "2022-11-14": 318977,
-  "2022-11-15": 318977,
-  "2022-11-16": 318977,
-  "2022-11-17": 318977,
-  "2022-11-18": 318977,
-  "2022-11-19": 318977,
-  "2022-11-20": 318977,
-  "2022-11-21": 318977,
-  "2022-11-22": 318977,
-  "2022-11-23": 318977,
-  "2022-11-24": 318977,
-  "2022-11-25": 318977,
-  "2022-11-26": 318977,
-  "2022-11-27": 318977,
-  "2022-11-28": 318977,
-  "2022-11-29": 318977,
-  "2022-11-30": 318977,
-  "2022-12-01": 318977,
-  "2022-12-02": 318977,
-  "2022-12-03": 318977,
-  "2022-12-04": 318977,
-  "2022-12-05": 318977,
-  "2022-12-06": 318977,
-  "2022-12-07": 318977,
-  "2022-12-08": 318977,
-  "2022-12-09": 318977,
-  "2022-12-10": 318977,
-  "2022-12-11": 318977,
-  "2022-12-12": 318977,
-  "2022-12-13": 318977,
-  "2022-12-14": 318977,
-  "2022-12-15": 318977,
-  "2022-12-16": 318977,
-  "2022-12-17": 318977,
-  "2022-12-18": 318977,
-  "2022-12-19": 318977,
-  "2022-12-20": 318977,
-  "2022-12-21": 318977,
-  "2022-12-22": 318977,
-  "2022-12-24": 318977,
-  "2022-12-25": 318977,
-  "2022-12-26": 318977,
-  "2022-12-27": 318977,
-  "2022-12-28": 318977,
-  "2022-12-29": 318977,
-  "2022-12-30": 318977,
-  "2022-12-31": 318977,
-  "2023-01-01": 318977,
-  "2023-01-02": 318977,
-  "2023-01-03": 318977,
-  "2023-01-04": 318977,
-  "2023-01-05": 318977,
-  "2023-01-06": 318977,
-  "2023-01-07": 318977,
-  "2023-01-08": 318977,
-  "2023-01-09": 318977,
-  "2023-01-10": 318977,
-  "2023-01-11": 318977,
-  "2023-01-12": 318977,
-  "2023-01-13": 318977,
-  "2023-01-14": 318977,
-  "2023-01-15": 318977,
-  "2023-01-16": 318977,
-  "2023-01-17": 318977,
-  "2023-01-18": 318977,
-  "2023-01-19": 318977,
-  "2023-01-20": 318977,
-  "2023-01-21": 318977,
-  "2023-01-22": 318977,
-  "2023-01-23": 318977,
-  "2023-01-24": 318977,
-  "2023-01-25": 318977,
-  "2023-01-26": 318977,
-  "2023-01-27": 318977,
-  "2023-01-28": 318977,
-  "2023-01-29": 318977,
-  "2023-01-30": 318977,
-  "2023-01-31": 318977,
-  "2023-02-01": 318977,
-  "2023-02-02": 318977,
-  "2023-02-03": 318977,
-  "2023-02-04": 318977,
-  "2023-02-05": 318977,
-  "2023-02-06": 318977,
-  "2023-02-07": 318977,
-  "2023-02-08": 318977,
-  "2023-02-09": 318977,
-  "2023-02-10": 318977,
-  "2023-02-11": 318977,
-  "2023-02-12": 318977,
-  "2023-02-13": 318977,
-  "2023-02-14": 318977,
-  "2023-02-15": 318977,
-  "2023-02-16": 318977,
-  "2023-02-17": 318977,
-  "2023-02-18": 318977,
-  "2023-02-19": 318977,
-  "2023-02-20": 318977,
-  "2023-02-21": 318977,
-  "2023-02-22": 318977,
-  "2023-02-23": 318977,
-  "2023-02-24": 318977,
-  "2023-02-25": 318977,
-  "2023-02-26": 318977,
-  "2023-02-27": 318977,
-  "2023-02-28": 318977,
-  "2023-03-01": 318977,
-  "2023-03-02": 318977,
-  "2023-03-03": 318977,
-  "2023-03-04": 318977,
-  "2023-03-05": 318977,
-  "2023-03-06": 318977,
-  "2023-03-07": 318977,
-  "2023-03-08": 318977,
-  "2023-03-09": 318977,
-  "2023-03-10": 318977,
-  "2023-03-11": 318977,
-  "2023-03-12": 318977,
-  "2023-03-13": 318977,
-  "2023-03-14": 318977,
-  "2023-03-15": 318977,
-  "2023-03-16": 318977,
-  "2023-03-17": 318977,
-  "2023-03-18": 318977,
-  "2023-03-19": 318977,
-  "2023-03-20": 318977,
-  "2023-03-21": 318977,
-  "2023-03-22": 318977,
-  "2023-03-23": 318977,
-  "2023-03-24": 318977,
-  "2023-03-25": 318977,
-  "2023-03-26": 318977,
-  "2023-03-27": 318977,
-  "2023-03-28": 318977,
-  "2023-03-29": 318977,
-  "2023-03-30": 318977,
-  "2023-03-31": 318977,
-  "2023-04-01": 318977,
-  "2023-04-02": 318977,
-  "2023-04-03": 318977,
-  "2023-04-04": 318977,
-  "2023-04-05": 318977,
-  "2023-04-06": 318977,
-  "2023-04-07": 318977,
-  "2023-04-09": 318977,
-  "2023-04-10": 318977,
-  "2023-04-11": 318977,
-  "2023-04-12": 318977,
-  "2023-04-13": 318977,
-  "2023-04-14": 318977,
-  "2023-04-15": 318977,
-  "2023-04-16": 318977,
-  "2023-04-17": 318977,
-  "2023-04-18": 318977,
-  "2023-04-19": 318977,
-  "2023-04-20": 318977,
-  "2023-04-21": 318977,
-  "2023-04-22": 318977,
-  "2023-04-23": 318977,
-  "2023-04-24": 318977,
-  "2023-04-25": 318977,
-  "2023-04-26": 318977,
-  "2023-04-27": 318977,
-  "2023-04-28": 318977,
-  "2023-04-29": 318977,
-  "2023-04-30": 318977,
-  "2023-05-01": 318977,
-  "2023-05-02": 318977,
-  "2023-05-03": 318977,
-  "2023-05-04": 318977,
-  "2023-05-05": 318977,
-  "2023-05-06": 318977,
-  "2023-05-07": 318977,
-  "2023-05-08": 318977,
-  "2023-05-09": 318977,
-  "2023-05-10": 318977,
-  "2023-05-11": 318977,
-  "2023-05-12": 318977,
-  "2023-05-13": 318977,
-  "2023-05-14": 318977,
-  "2023-05-15": 318977,
-  "2023-05-16": 318977,
-  "2023-05-17": 318977,
-  "2023-05-18": 318977,
-  "2023-05-19": 318977,
-  "2023-05-20": 318977,
-  "2023-05-21": 318977,
-  "2023-05-22": 318977,
-  "2023-05-23": 318977,
-  "2023-05-24": 318977,
-  "2023-05-25": 318977,
-  "2023-05-26": 318977,
-  "2023-05-27": 318977,
-  "2023-05-28": 318977,
-  "2023-05-29": 318977,
-  "2023-05-30": 318977,
-  "2023-05-31": 318977,
-  "2023-06-01": 318977,
-  "2023-06-02": 318977,
-  "2023-06-03": 318977,
-  "2023-06-04": 318977,
-  "2023-06-05": 318977,
-  "2023-06-06": 318977,
-  "2023-06-07": 318977,
-  "2023-06-08": 318977,
-  "2023-06-09": 318977,
-  "2023-06-10": 318977,
-  "2023-06-11": 318977,
-  "2023-06-12": 318977,
-  "2023-06-13": 318977,
-  "2023-06-14": 318977,
-  "2023-06-15": 318977,
-  "2023-06-16": 318977,
-  "2023-06-17": 318977,
-  "2023-06-18": 318977,
-  "2023-06-19": 318977,
-  "2023-06-20": 318977,
-  "2023-06-21": 318977,
-  "2023-06-22": 318977,
-  "2023-06-23": 318977,
-  "2023-06-24": 318977,
-  "2023-06-25": 318977,
-  "2023-06-26": 318977,
-  "2023-06-27": 318977,
-  "2023-06-28": 318977,
-  "2023-06-29": 318977,
-  "2023-06-30": 318977,
-  "2023-07-01": 318977,
-  "2023-07-02": 318977,
-  "2023-07-03": 318977,
-  "2023-07-04": 318977,
-  "2023-07-05": 318977,
-  "2023-07-06": 318977,
-  "2023-07-07": 318977,
-  "2023-07-08": 318977,
-  "2023-07-09": 318977,
-  "2023-07-10": 318977,
-  "2023-07-11": 318977,
-  "2023-07-12": 318977,
-  "2023-07-13": 318977,
-  "2023-07-14": 318977,
-  "2023-07-15": 318977,
-  "2023-07-16": 318977,
-  "2023-07-17": 318977,
-  "2023-07-18": 318977,
-  "2023-07-19": 318977,
-  "2023-07-20": 318977,
-  "2023-07-21": 318977,
-  "2023-07-22": 318977,
-  "2023-07-23": 318977,
-  "2023-07-24": 318977,
-  "2023-07-25": 318977,
-  "2023-07-26": 318977,
-  "2023-07-27": 318977,
-  "2023-07-28": 318977,
-  "2023-07-29": 318977,
-  "2023-07-30": 318977,
-  "2023-07-31": 318977,
-  "2023-08-01": 318977,
-  "2023-08-02": 318977,
-  "2023-08-03": 318977,
-  "2023-08-04": 318977,
-  "2023-08-05": 318977,
-  "2023-08-06": 318977,
-  "2023-08-07": 318977,
-  "2023-08-08": 318977,
-  "2023-08-09": 318977,
-  "2023-08-10": 318977,
-  "2023-08-11": 318977,
-  "2023-08-12": 318977,
-  "2023-08-13": 318977,
-  "2023-08-14": 318977,
-  "2023-08-15": 318977,
-  "2023-08-16": 318977,
-  "2023-08-17": 318977,
-  "2023-08-18": 318977,
-  "2023-08-19": 318977,
-  "2023-08-20": 318977,
-  "2023-08-21": 318977,
-  "2023-08-22": 318977,
-  "2023-08-23": 318977,
-  "2023-08-24": 318977,
-  "2023-08-25": 318977,
-  "2023-08-26": 318977,
-  "2023-08-27": 318977,
-  "2023-08-28": 318977,
-  "2023-08-29": 318977,
-  "2023-08-30": 318977,
-  "2023-08-31": 318977,
-  "2023-09-01": 318977,
-  "2023-09-02": 318977,
-  "2023-09-03": 318977,
-  "2023-09-04": 318977,
-  "2023-09-05": 318977,
-  "2023-09-06": 318977,
-  "2023-09-07": 318977,
-  "2023-09-08": 318977,
-  "2023-09-09": 318977,
-  "2023-09-10": 318977,
-  "2023-09-11": 318977,
-  "2023-09-12": 318977,
-  "2023-09-13": 318977,
-  "2023-09-14": 318977,
-  "2023-09-15": 318977,
-  "2023-09-16": 318977,
-  "2023-09-17": 318977,
-  "2023-09-18": 318977,
-  "2023-09-19": 318977,
-  "2023-09-20": 318977,
-  "2023-09-21": 318977,
-  "2023-09-22": 318977,
-  "2023-09-23": 318977,
-  "2023-09-24": 318977,
-  "2023-09-25": 318977,
-  "2023-09-26": 318977,
-  "2023-09-27": 318977,
-  "2023-09-28": 318977,
-  "2023-09-29": 318977,
-  "2023-09-30": 318977,
-  "2023-10-01": 318977,
-  "2023-10-02": 318977,
-  "2023-10-03": 318977,
-  "2023-10-04": 318977,
-  "2023-10-05": 318977,
-  "2023-10-06": 318977,
-  "2023-10-07": 318977,
-  "2023-10-08": 318977,
-  "2023-10-09": 318977,
-  "2023-10-10": 318977,
-  "2023-10-11": 318977,
-  "2023-10-12": 318977,
-  "2023-10-13": 318977,
-  "2023-10-14": 318977,
-  "2023-10-15": 318977,
-  "2023-10-16": 318977,
-  "2023-10-17": 318977,
-  "2023-10-18": 318977,
-  "2023-10-19": 318977,
-  "2023-10-20": 318977,
-  "2023-10-21": 318977,
-  "2023-10-22": 318977,
-  "2023-10-23": 318977,
-  "2023-10-24": 318977,
-  "2023-10-25": 318977,
-  "2023-10-26": 318977,
-  "2023-10-27": 318977,
-  "2023-10-28": 318977,
-  "2023-10-29": 318977,
-  "2023-10-30": 318977,
-  "2023-10-31": 318977,
-  "2023-11-01": 318977,
-  "2023-11-02": 318977,
-  "2023-11-03": 318977,
-  "2023-11-04": 318977,
-  "2023-11-05": 318977,
-  "2023-11-06": 318977,
-  "2023-11-07": 318977,
-  "2023-11-08": 318977,
-  "2023-11-09": 318977,
-  "2023-11-10": 318977,
-  "2023-11-11": 318977,
-  "2023-11-12": 318977,
-  "2023-11-13": 318977,
-  "2023-11-14": 318977,
-  "2023-11-15": 318977,
-  "2023-11-16": 318977,
-  "2023-11-17": 318977,
-  "2023-11-18": 318977,
-  "2023-11-19": 318977,
-  "2023-11-20": 318977,
-  "2023-11-21": 318977,
-  "2023-11-22": 318977,
-  "2023-11-23": 318977,
-  "2023-11-24": 318977,
-  "2023-11-25": 318977,
-  "2023-11-26": 318977,
-  "2023-11-27": 318977,
-  "2023-11-28": 318977,
-  "2023-11-29": 318977,
-  "2023-11-30": 318977,
-  "2023-12-01": 318977,
-  "2023-12-02": 318977,
-  "2023-12-03": 318977,
-  "2023-12-04": 318977,
-  "2023-12-05": 318977,
-  "2023-12-06": 318977,
-  "2023-12-07": 318977,
-  "2023-12-08": 318977,
-  "2023-12-09": 318977,
-  "2023-12-10": 318977,
-  "2023-12-11": 318977,
-  "2023-12-12": 318977,
-  "2023-12-13": 318977,
-  "2023-12-14": 318977,
-  "2023-12-15": 318977,
-  "2023-12-16": 318977,
-  "2023-12-17": 318977,
-  "2023-12-18": 318977,
-  "2023-12-19": 318977,
-  "2023-12-20": 318977,
-  "2023-12-21": 318977,
-  "2023-12-22": 318977,
-  "2023-12-23": 318977,
-  "2023-12-24": 318977,
-  "2023-12-25": 318977,
-  "2023-12-26": 318977,
-  "2023-12-27": 318977,
-  "2023-12-30": 318977,
-  "2023-12-31": 318977,
-  "2024-01-01": 318977,
-  "2024-01-02": 318977,
-  "2024-01-03": 318977
+  "2024-01-17": 318977,
+  "date_first_scraped": "2021-12-21",
+  "description": "Check out this collection of amazing John Legend tracks.",
+  "name": "This Is John Legend",
+  "tracks": [
+    {
+      "album": {
+        "name": "A Good Night",
+        "url": "https://open.spotify.com/album/2hHh6SaRQhRbeXdQkk4cV9"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203453,
+      "name": "A Good Night",
+      "url": "https://open.spotify.com/track/7gevvAspxft2qQmcvJjNBH"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4t9j6j34evvYo5DothS2c2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301800,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5hJsV8ZJc1oHfVxqP7l1fd"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269560,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/3U4isOIWM3VvDubwSI3y7a"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4t9j6j34evvYo5DothS2c2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241733,
+      "name": "Another Again",
+      "url": "https://open.spotify.com/track/3RosKiBPZx5vDEbkpIi5bH"
+    },
+    {
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170026,
+      "name": "Bigger Love",
+      "url": "https://open.spotify.com/track/4kcJsfPTr7RCrLQRvW7cyj"
+    },
+    {
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235653,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/0QjQC8sGqxUkaJFBsJjtGm"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230800,
+      "name": "Darkness and Light (feat. Brittany Howard)",
+      "url": "https://open.spotify.com/track/4jBPWUAtvIbj7trXEg9QPJ"
+    },
+    {
+      "album": {
+        "name": "Glory (From the Motion Picture Selma)",
+        "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272727,
+      "name": "Glory (From the Motion Picture Selma)",
+      "url": "https://open.spotify.com/track/2fmqPLRFdJNPhLU3b2NSFp"
+    },
+    {
+      "album": {
+        "name": "Evolver",
+        "url": "https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241453,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/78W3OjLt8Ugxaar3h9mY2j"
+    },
+    {
+      "album": {
+        "name": "Evolver",
+        "url": "https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284186,
+      "name": "Green Light (feat. Andr\u00e9 3000)",
+      "url": "https://open.spotify.com/track/72by3Re4C3eVEBXvsUo0zV"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4t9j6j34evvYo5DothS2c2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214626,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/7jTonPEtrcriQuoNOmZKin"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236026,
+      "name": "How Can I Blame You",
+      "url": "https://open.spotify.com/track/4d0THQsQyfyVX0CSCaFfH1"
+    },
+    {
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/412mL0hMStgwl1ukZjLxR8"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175555,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/7uoxJCPiqiEa3fvOQQQbyn"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Let's Get Lifted",
+      "url": "https://open.spotify.com/track/2S3osqN6ruuoAg1kUvf7u4"
+    },
+    {
+      "album": {
+        "name": "Wake Up!",
+        "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326200,
+      "name": "Little Ghetto Boy (feat. Black Thought)",
+      "url": "https://open.spotify.com/track/3ugvKbyrqGfq4eLRI2VXSN"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275066,
+      "name": "Live It Up",
+      "url": "https://open.spotify.com/track/2q0UBlr0ptqyZ2JH1LO7tH"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210293,
+      "name": "Love Me Now",
+      "url": "https://open.spotify.com/track/6nxQdXa1uAL0rY72wPZu89"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240346,
+      "name": "Made to Love",
+      "url": "https://open.spotify.com/track/1G2Ya2ubnlS7xFfs1CfY3j"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186800,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/03YrTPLMgGXQOlKTTBwgiO"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281466,
+      "name": "Ordinary People",
+      "url": "https://open.spotify.com/track/58CrldAc1Z5WIBozT1NMJH"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200293,
+      "name": "Overload (feat. Miguel)",
+      "url": "https://open.spotify.com/track/37exBefsiwr3rmQ7xcQnEJ"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4t9j6j34evvYo5DothS2c2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278760,
+      "name": "P.D.A. (We Just Don't Care)",
+      "url": "https://open.spotify.com/track/0ZmQwyyJNR4nLPwhotSopI"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283786,
+      "name": "Penthouse Floor (feat. Chance the Rapper)",
+      "url": "https://open.spotify.com/track/67Nf4Nsr2Nm5CFfJgqwDb0"
+    },
+    {
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/32r4o1R9a1lK5DoVXGEC7E"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236880,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/2AaF78iCWISMWYog5RnSi5"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212466,
+      "name": "Same Old Story",
+      "url": "https://open.spotify.com/track/6HtqFPcX3j5ggXGEy45mEn"
+    },
+    {
+      "album": {
+        "name": "Once Again",
+        "url": "https://open.spotify.com/album/4t9j6j34evvYo5DothS2c2"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235666,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/2TTINcGQL5UhbHbpsQjYRr"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307400,
+      "name": "So High - Single Version",
+      "url": "https://open.spotify.com/track/7BaoAkPnIGEEZdWK4eAmcH"
+    },
+    {
+      "album": {
+        "name": "Start (From \"Southside With You\")",
+        "url": "https://open.spotify.com/album/4U9vBJNzVo3xoaoaxApD94"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309640,
+      "name": "Start - (From \"Southside With You\")",
+      "url": "https://open.spotify.com/track/65lr2FyG9YyH0fVFTiFUn3"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228973,
+      "name": "Stay With You",
+      "url": "https://open.spotify.com/track/51l8jiqsGYCiKUJBLXJvA9"
+    },
+    {
+      "album": {
+        "name": "Evolver",
+        "url": "https://open.spotify.com/album/11sKu4dBGvmEZTuVw9EC9A"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183173,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/767PVupkn44LW4Mt9ZpKAV"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Temporarily Painless",
+      "url": "https://open.spotify.com/track/0ThGqY75GjelH3G1QETuHH"
+    },
+    {
+      "album": {
+        "name": "Think Like A Man - Music From & Inspired By The Film",
+        "url": "https://open.spotify.com/album/45EKCe8Ji8HI8mgqQMN4KJ"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239453,
+      "name": "Tonight (Best You Ever Had) (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/17zF2ISrDrQdaULA8cxReK"
+    },
+    {
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223933,
+      "name": "U Move, I Move (feat. Jhene Aiko)",
+      "url": "https://open.spotify.com/track/7wfDCDfhVe2tFxIkQEJp35"
+    },
+    {
+      "album": {
+        "name": "Get Lifted",
+        "url": "https://open.spotify.com/album/0QtPeJVJ7l0w7K6681fbaV"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210866,
+      "name": "Used to Love U",
+      "url": "https://open.spotify.com/track/3uBbvynFWlF041WzNVHd1d"
+    },
+    {
+      "album": {
+        "name": "Wake Up!",
+        "url": "https://open.spotify.com/album/06UOP7uyZN8AIYH6U20VkP"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "The Roots",
+          "url": "https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu"
+        },
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "Melanie Fiona",
+          "url": "https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264866,
+      "name": "Wake up Everybody (feat. Common & Melanie Fiona)",
+      "url": "https://open.spotify.com/track/7lVxWMH0C3Bj8b8JLkh9EN"
+    },
+    {
+      "album": {
+        "name": "We Need Love (from Songland)",
+        "url": "https://open.spotify.com/album/5ek765URdBnZNbVtzDmQ8c"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159346,
+      "name": "We Need Love - from Songland",
+      "url": "https://open.spotify.com/track/2GtSvnYFfj7vvpo9B0FqlI"
+    },
+    {
+      "album": {
+        "name": "DARKNESS AND LIGHT",
+        "url": "https://open.spotify.com/album/7xMjYDrgPLp1ReFGAOyS1O"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201386,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/2cY8x0jQ1wWEipUCouclsD"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292640,
+      "name": "Who Do We Think We Are (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/2scd9lw4ljzDwMfG3WW4gD"
+    },
+    {
+      "album": {
+        "name": "Bigger Love",
+        "url": "https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196906,
+      "name": "Wild (feat. Gary Clark Jr.)",
+      "url": "https://open.spotify.com/track/4rVW6XqAsSaf5vOwc8FREW"
+    },
+    {
+      "album": {
+        "name": "Love In The Future (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4OTAx9un4e6NfoHuVRiOrC"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-08-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252653,
+      "name": "You & I (Nobody in the World)",
+      "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX8DxW4iib3Eq"
 }

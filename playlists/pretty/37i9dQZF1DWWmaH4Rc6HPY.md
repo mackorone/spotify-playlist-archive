@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! Siddhartha y Leiva en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,734 likes - 89 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,098 likes - 89 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/daniebb3/">Danielle Brooks</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,812 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 565,464 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp) | 2:42 |
 | 2 | [Opening / Mysterious Ways](https://open.spotify.com/track/0awS7QVBs1k3FzFtnEr8Hy) | [Color Purple New Broadway Cast](https://open.spotify.com/artist/59nDI6cgkij2y6empWnaJE) | [The Color Purple \(New Broadway Cast Recording\)](https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W) | 5:41 |
 | 3 | [Blessings](https://open.spotify.com/track/29EzOwXcLM0TD2nrv6yO1G) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE), [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Four](https://open.spotify.com/album/3u22dfrDKIicxT3S165n26) | 4:02 |
-| 4 | [Wipe Me Down \(feat\. Foxx, Webbie & Lil Boosie\) \- Remix](https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q) | [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg) | 4:32 |
+| 4 | [Wipe Me Down \(feat\. Foxx, Webbie & Boosie Badazz\) \- Remix](https://open.spotify.com/track/1csF3mqDAQ33FuLJhV4ESS) | [Trill Family](https://open.spotify.com/artist/1YMvmHRTq8YdlABZk6C8av), [Boosie Badazz](https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg), [Webbie](https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8), [Foxx](https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl) | [Survival Of The Fittest](https://open.spotify.com/album/2G2MWbopwqEGfEMjGiMe3b) | 4:32 |
 | 5 | [Black Folk \(feat\. Alex Isley and Masego\)](https://open.spotify.com/track/6ZpVONK3aMrdrFNo9FcAA7) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Black Folk](https://open.spotify.com/album/4IoUqJa8gJmO8u7xrqWWP5) | 5:35 |
 | 6 | [Simply Beautiful](https://open.spotify.com/track/09kEUjIvixNShjfl3YoyWo) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [I'm Still in Love with You](https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT) | 4:11 |
 | 7 | [Thank You Lord](https://open.spotify.com/track/1v6xbvbZjqkpUzj5XtQ782) | [Amber Bullock](https://open.spotify.com/artist/2UM3duwCMBDd8EykmBNOjw) | [Thank You](https://open.spotify.com/album/7wueq9pnnfjd0SM0SYkfTL) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUur0QPPsOn.md) - [plain]
 | 49 | [Hell No! \(Timbaland Remix\) \- From the Original Motion Picture “The Color Purple”](https://open.spotify.com/track/0ZUC1pPc3qm4fqhp5XrFze) | [Danielle Brooks](https://open.spotify.com/artist/3o7rfKaMhmxynZyNb9uziE), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Julian Mason](https://open.spotify.com/artist/6WOBLePeDxajVDJnxSn3UD) | [Hell No! \(Timbaland Remix\) \(From the Original Motion Picture “The Color Purple”\)](https://open.spotify.com/album/2fNPr1EWqrKftl3ZMQOiAI) | 2:58 |
 | 50 | [Private Party](https://open.spotify.com/track/56kagDzXfthnEIwNGYHQVy) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Testimony: Vol\. 1 Life & Relationship](https://open.spotify.com/album/1F9Fd7d8U3wykniDos7pbg) | 3:52 |
 
-Snapshot ID: `MCxhN2RkOTJjMmNlODk3NTE4YmJlZjk5MDBkNjI0MjUxMzgzYWYwOTM0`
+Snapshot ID: `MCwzOWY1ZTNkMjFhYWQ1ZWY0ZGZlYjIzYjA3MDEwZWRjMDE5NjA2ZDJj`

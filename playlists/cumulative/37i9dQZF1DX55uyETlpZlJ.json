@@ -90,7 +90,7 @@
     {
       "album": {
         "name": "ALAG HAI",
-        "url": "https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz"
+        "url": "https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN"
       },
       "artists": [
         {
@@ -101,6 +101,24 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 83076,
+      "name": "ALAG HAI",
+      "url": "https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP"
+    },
+    {
+      "album": {
+        "name": "ALAG HAI",
+        "url": "https://open.spotify.com/album/5gqrIFh0OfRGTwNqrV52rz"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 83076,
       "name": "ALAG HAI",
       "url": "https://open.spotify.com/track/5E11KdVG38ylpaI736pJ9I"
@@ -240,7 +258,7 @@
     {
       "album": {
         "name": "Anthe",
-        "url": "https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn"
+        "url": "https://open.spotify.com/album/2awtb7BzShaE9da7sMqPjr"
       },
       "artists": [
         {
@@ -251,6 +269,24 @@
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 274002,
+      "name": "Anthe",
+      "url": "https://open.spotify.com/track/1JFrwtDTpvyDPxd16Aka5e"
+    },
+    {
+      "album": {
+        "name": "Anthe",
+        "url": "https://open.spotify.com/album/258oJcRDxs6H35qcbsopqn"
+      },
+      "artists": [
+        {
+          "name": "Sagar Shastri",
+          "url": "https://open.spotify.com/artist/0JijlODWfJZKanqPNEZMUZ"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
       "duration_ms": 274002,
       "name": "Anthe",
       "url": "https://open.spotify.com/track/7y5RWpualkObr5ANkA0Qx1"
@@ -286,10 +322,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 238416,
       "name": "Arere",
       "url": "https://open.spotify.com/track/4wO1kzkn6gmKAFOt48EaPh"
+    },
+    {
+      "album": {
+        "name": "Arere",
+        "url": "https://open.spotify.com/album/6s8OIlhZixQ2D9IsZUBrRm"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238416,
+      "name": "Arere",
+      "url": "https://open.spotify.com/track/5e7ESBZeOLQCbqtvWaS7Y2"
     },
     {
       "album": {
@@ -457,6 +511,24 @@
     },
     {
       "album": {
+        "name": "Bayaside Ninna",
+        "url": "https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122938,
+      "name": "Bayaside Ninna",
+      "url": "https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR"
+    },
+    {
+      "album": {
         "name": "Beesuva Gaali (SKODA Deccan Beats)",
         "url": "https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf"
       },
@@ -556,10 +628,28 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 184666,
       "name": "BREAK",
       "url": "https://open.spotify.com/track/1hWHspRRb3R4NY3gl5Fgyj"
+    },
+    {
+      "album": {
+        "name": "BREAK",
+        "url": "https://open.spotify.com/album/0kNsdsPVpauI9l24ThQRyP"
+      },
+      "artists": [
+        {
+          "name": "D shabdha",
+          "url": "https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh"
+        }
+      ],
+      "date_added": "2023-10-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "BREAK",
+      "url": "https://open.spotify.com/track/21bX2IavqQcwcJ0NreC79A"
     },
     {
       "album": {
@@ -600,10 +690,36 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 217068,
       "name": "By2Love",
       "url": "https://open.spotify.com/track/2FLf8XNpQKxBEUbwPZocHn"
+    },
+    {
+      "album": {
+        "name": "By2Love",
+        "url": "https://open.spotify.com/album/6DcqRwXzVwgT7MAcJH5vE5"
+      },
+      "artists": [
+        {
+          "name": "Dolwin Kolalagiri",
+          "url": "https://open.spotify.com/artist/7DDPhsid60HBOEoTP3bQOk"
+        },
+        {
+          "name": "Prashanth Kankanady",
+          "url": "https://open.spotify.com/artist/0TG2p7nnb1iIbddC4YFyx5"
+        },
+        {
+          "name": "Ranjitha Yellur",
+          "url": "https://open.spotify.com/artist/6tkM6pYWcSp6mai0rg8OLI"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217068,
+      "name": "By2Love",
+      "url": "https://open.spotify.com/track/5c67FvlkSg8LdX1asdzxR2"
     },
     {
       "album": {
@@ -924,7 +1040,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 168000,
       "name": "E Preeti",
       "url": "https://open.spotify.com/track/01ivpm8n90rIrUQUAKtvon"
@@ -1074,10 +1190,28 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 189438,
       "name": "Fastrack",
       "url": "https://open.spotify.com/track/53ZfZtx56KavQVXELlyMLy"
+    },
+    {
+      "album": {
+        "name": "Fastrack",
+        "url": "https://open.spotify.com/album/4Sz4vVlyg7Yy1ca5uVJzLT"
+      },
+      "artists": [
+        {
+          "name": "MC Thrift",
+          "url": "https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC"
+        }
+      ],
+      "date_added": "2023-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189438,
+      "name": "Fastrack",
+      "url": "https://open.spotify.com/track/5eRn8QDDu0r1tCNPwPlEJn"
     },
     {
       "album": {
@@ -1092,10 +1226,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 235114,
       "name": "FLYHIGH",
       "url": "https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j"
+    },
+    {
+      "album": {
+        "name": "FLYHIGH - Kannada",
+        "url": "https://open.spotify.com/album/5eK7K9jtp7sekjcQW41Xdl"
+      },
+      "artists": [
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235114,
+      "name": "FLYHIGH",
+      "url": "https://open.spotify.com/track/5M67dnFSyGFqSmFn5bQed9"
     },
     {
       "album": {
@@ -1210,7 +1362,7 @@
     {
       "album": {
         "name": "Haaralu",
-        "url": "https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z"
+        "url": "https://open.spotify.com/album/3YBOimXmFBCUNR53TlUDPX"
       },
       "artists": [
         {
@@ -1225,6 +1377,28 @@
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177406,
+      "name": "Haaralu",
+      "url": "https://open.spotify.com/track/1s29dZ1OkcqBe4kzD3T0zB"
+    },
+    {
+      "album": {
+        "name": "Haaralu",
+        "url": "https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        },
+        {
+          "name": "Dheemusix",
+          "url": "https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
       "duration_ms": 177406,
       "name": "Haaralu",
       "url": "https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv"
@@ -1456,7 +1630,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-17",
       "duration_ms": 146546,
       "name": "Idu Nammadu Gaali Neeru Usiru",
       "url": "https://open.spotify.com/track/3ggvwpKSmgktFC9uc3Rzs3"
@@ -1895,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Kanna Muche Kaade Goode",
+        "url": "https://open.spotify.com/album/3TF3D2bEEkwEl1Z5KQNUm6"
+      },
+      "artists": [
+        {
+          "name": "SIDWIN",
+          "url": "https://open.spotify.com/artist/6rWRYMJoiSYkmRHxg9YWin"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202746,
+      "name": "Kanna Muche Kaade Goode",
+      "url": "https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh"
+    },
+    {
+      "album": {
         "name": "Kannada Balso",
         "url": "https://open.spotify.com/album/1w3uXnjR5gDuVTNTdnqlsO"
       },
@@ -2242,7 +2434,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 188573,
       "name": "Manadaalada Maatu",
       "url": "https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY"
@@ -2718,7 +2910,7 @@
     {
       "album": {
         "name": "Na Ninne Preetisuve",
-        "url": "https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8"
+        "url": "https://open.spotify.com/album/552c1JPywGTBqa2l2xTysZ"
       },
       "artists": [
         {
@@ -2729,6 +2921,24 @@
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 220053,
+      "name": "Na Ninne Preetisuve",
+      "url": "https://open.spotify.com/track/2jZEAPVKRtj6w2dVFOktNL"
+    },
+    {
+      "album": {
+        "name": "Na Ninne Preetisuve",
+        "url": "https://open.spotify.com/album/6lV86HmyPdaunD5CCpEuB8"
+      },
+      "artists": [
+        {
+          "name": "Anita Iyer",
+          "url": "https://open.spotify.com/artist/5PeZkX7HUpSAYNso5kCoZM"
+        }
+      ],
+      "date_added": "2023-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 220053,
       "name": "Na Ninne Preetisuve",
       "url": "https://open.spotify.com/track/3QneWObcFZcEvpMNhAxxJZ"
@@ -2952,7 +3162,7 @@
     {
       "album": {
         "name": "Nanna Jeevana",
-        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+        "url": "https://open.spotify.com/album/2sWSghuM3hzWwRFYdK0naK"
       },
       "artists": [
         {
@@ -2967,6 +3177,28 @@
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 136605,
+      "name": "Nanna Jeevana",
+      "url": "https://open.spotify.com/track/4YZEX2H5wzXWjlCRiRMk5E"
+    },
+    {
+      "album": {
+        "name": "Nanna Jeevana",
+        "url": "https://open.spotify.com/album/56T8Ejzjwc4fD8stpVnofS"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        },
+        {
+          "name": "Prasanna Bhojashettar",
+          "url": "https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
       "duration_ms": 136605,
       "name": "Nanna Jeevana",
       "url": "https://open.spotify.com/track/6QkP19yo5LfvFCCzWsCuHK"
@@ -3307,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "Negative Vibes",
+        "url": "https://open.spotify.com/album/2Q3LYxs6srfQlp668KY84J"
+      },
+      "artists": [
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        }
+      ],
+      "date_added": "2024-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135516,
+      "name": "Negative Vibes",
+      "url": "https://open.spotify.com/track/2v8kMR6oI7nejIEAlRdLMh"
+    },
+    {
+      "album": {
         "name": "Nemmadi",
         "url": "https://open.spotify.com/album/3W71iYsNO61V3GQ9FZeehx"
       },
@@ -3608,7 +3858,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 221509,
       "name": "Ninna Nodade",
       "url": "https://open.spotify.com/track/31fsnh7dvxBu8UFxKsKeuB"
@@ -3834,7 +4084,7 @@
     {
       "album": {
         "name": "Pakshi",
-        "url": "https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc"
+        "url": "https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl"
       },
       "artists": [
         {
@@ -3845,6 +4095,24 @@
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 177534,
+      "name": "Pakshi",
+      "url": "https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm"
+    },
+    {
+      "album": {
+        "name": "Pakshi",
+        "url": "https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc"
+      },
+      "artists": [
+        {
+          "name": "Karlow",
+          "url": "https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
       "duration_ms": 177534,
       "name": "Pakshi",
       "url": "https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ"
@@ -4103,6 +4371,24 @@
     },
     {
       "album": {
+        "name": "Rocky Bhai 2.0",
+        "url": "https://open.spotify.com/album/7wxwmFKgiHQQTSm6Zb9DUc"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Rocky Bhai 2.0",
+      "url": "https://open.spotify.com/track/2HHM1OusTbVkYoN3Zu8x8T"
+    },
+    {
+      "album": {
         "name": "Rodane",
         "url": "https://open.spotify.com/album/3jU6zKe1cZbEUjMtScTZDo"
       },
@@ -4170,7 +4456,7 @@
     {
       "album": {
         "name": "Sahavaasa",
-        "url": "https://open.spotify.com/album/33AjV8NCgBekha704N5DC8"
+        "url": "https://open.spotify.com/album/6vv7b64iLvqEAe86sRuez3"
       },
       "artists": [
         {
@@ -4181,6 +4467,24 @@
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 91984,
+      "name": "Sahavaasa",
+      "url": "https://open.spotify.com/track/2gX6sGTkDcqcGi5VdE49br"
+    },
+    {
+      "album": {
+        "name": "Sahavaasa",
+        "url": "https://open.spotify.com/album/33AjV8NCgBekha704N5DC8"
+      },
+      "artists": [
+        {
+          "name": "Kishan D'Souza",
+          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
+        }
+      ],
+      "date_added": "2023-09-20",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
       "duration_ms": 91984,
       "name": "Sahavaasa",
       "url": "https://open.spotify.com/track/3rv2dzhrrimcWrEAqb6yMc"
@@ -4688,10 +4992,28 @@
       ],
       "date_added": "2023-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 87012,
       "name": "Usira Olage",
       "url": "https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY"
+    },
+    {
+      "album": {
+        "name": "Usira Olage",
+        "url": "https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N"
+      },
+      "artists": [
+        {
+          "name": "SK Parth",
+          "url": "https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl"
+        }
+      ],
+      "date_added": "2023-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87012,
+      "name": "Usira Olage",
+      "url": "https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h"
     },
     {
       "album": {

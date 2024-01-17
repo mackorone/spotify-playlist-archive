@@ -1,735 +1,1203 @@
 {
-  "2021-12-25": 68313,
-  "2021-12-26": 68333,
-  "2021-12-27": 68393,
-  "2021-12-28": 68393,
-  "2021-12-29": 68426,
-  "2021-12-30": 68448,
-  "2021-12-31": 68488,
-  "2022-01-01": 68562,
-  "2022-01-02": 68582,
-  "2022-01-03": 68609,
-  "2022-01-04": 68637,
-  "2022-01-05": 68665,
-  "2022-01-06": 68698,
-  "2022-01-07": 68737,
-  "2022-01-08": 68806,
-  "2022-01-09": 68807,
-  "2022-01-10": 68844,
-  "2022-01-11": 68892,
-  "2022-01-12": 68920,
-  "2022-01-13": 68947,
-  "2022-01-14": 68997,
-  "2022-01-15": 69098,
-  "2022-01-16": 69100,
-  "2022-01-17": 69192,
-  "2022-01-18": 69201,
-  "2022-01-19": 69234,
-  "2022-01-20": 69279,
-  "2022-01-21": 69337,
-  "2022-01-22": 69379,
-  "2022-01-23": 69430,
-  "2022-01-24": 69488,
-  "2022-01-25": 69522,
-  "2022-01-26": 69553,
-  "2022-01-27": 69609,
-  "2022-01-28": 69684,
-  "2022-01-29": 69755,
-  "2022-01-30": 69826,
-  "2022-01-31": 69922,
-  "2022-02-01": 69986,
-  "2022-02-02": 70042,
-  "2022-02-03": 70113,
-  "2022-02-04": 70188,
-  "2022-02-05": 70243,
-  "2022-02-06": 70320,
-  "2022-02-07": 70386,
-  "2022-02-08": 70443,
-  "2022-02-09": 70490,
-  "2022-02-10": 70437,
-  "2022-02-11": 70500,
-  "2022-02-12": 70544,
-  "2022-02-13": 70608,
-  "2022-02-14": 70662,
-  "2022-02-15": 70729,
-  "2022-02-16": 70767,
-  "2022-02-17": 70794,
-  "2022-02-18": 70841,
-  "2022-02-19": 70892,
-  "2022-02-20": 70940,
-  "2022-02-21": 71007,
-  "2022-02-22": 71080,
-  "2022-02-23": 71141,
-  "2022-02-24": 71113,
-  "2022-02-25": 71169,
-  "2022-02-26": 71211,
-  "2022-02-27": 71314,
-  "2022-02-28": 71314,
-  "2022-03-01": 71375,
-  "2022-03-02": 71438,
-  "2022-03-03": 71513,
-  "2022-03-04": 71598,
-  "2022-03-05": 71707,
-  "2022-03-06": 71752,
-  "2022-03-07": 71806,
-  "2022-03-08": 71843,
-  "2022-03-09": 71909,
-  "2022-03-10": 71856,
-  "2022-03-11": 71913,
-  "2022-03-12": 71957,
-  "2022-03-13": 72003,
-  "2022-03-14": 72047,
-  "2022-03-15": 72089,
-  "2022-03-16": 72145,
-  "2022-03-17": 72204,
-  "2022-03-18": 72177,
-  "2022-03-19": 72192,
-  "2022-03-20": 72192,
-  "2022-03-21": 72289,
-  "2022-03-22": 72338,
-  "2022-03-23": 72392,
-  "2022-03-24": 72439,
-  "2022-03-25": 72485,
-  "2022-03-26": 72538,
-  "2022-03-27": 72586,
-  "2022-03-28": 72531,
-  "2022-03-30": 72569,
-  "2022-03-31": 72613,
-  "2022-04-01": 72665,
-  "2022-04-02": 72707,
-  "2022-04-03": 72760,
-  "2022-04-04": 72820,
-  "2022-04-05": 72885,
-  "2022-04-06": 72960,
-  "2022-04-07": 73044,
-  "2022-04-08": 73104,
-  "2022-04-09": 73146,
-  "2022-04-10": 72974,
-  "2022-04-11": 72996,
-  "2022-04-12": 72992,
-  "2022-04-13": 73029,
-  "2022-04-14": 73071,
-  "2022-04-15": 73080,
-  "2022-04-16": 73118,
-  "2022-04-17": 73154,
-  "2022-04-18": 73198,
-  "2022-04-19": 73233,
-  "2022-04-20": 73275,
-  "2022-04-21": 73319,
-  "2022-04-22": 73375,
-  "2022-04-23": 73412,
-  "2022-04-24": 73466,
-  "2022-04-25": 73416,
-  "2022-04-26": 73422,
-  "2022-04-27": 73477,
-  "2022-04-28": 73522,
-  "2022-04-29": 73585,
-  "2022-04-30": 73629,
-  "2022-05-01": 73668,
-  "2022-05-02": 73668,
-  "2022-05-03": 73704,
-  "2022-05-04": 73732,
-  "2022-05-05": 73765,
-  "2022-05-06": 73807,
-  "2022-05-07": 73842,
-  "2022-05-08": 73897,
-  "2022-05-09": 73902,
-  "2022-05-10": 73938,
-  "2022-05-11": 73981,
-  "2022-05-12": 74018,
-  "2022-05-13": 74046,
-  "2022-05-14": 74088,
-  "2022-05-15": 74133,
-  "2022-05-16": 74172,
-  "2022-05-17": 74211,
-  "2022-05-18": 74237,
-  "2022-05-19": 74282,
-  "2022-05-20": 74351,
-  "2022-05-21": 74437,
-  "2022-05-22": 74437,
-  "2022-05-23": 74483,
-  "2022-05-24": 74531,
-  "2022-05-25": 74582,
-  "2022-05-26": 74622,
-  "2022-05-27": 74663,
-  "2022-05-28": 74718,
-  "2022-05-29": 74774,
-  "2022-05-30": 74812,
-  "2022-05-31": 74854,
-  "2022-06-01": 74926,
-  "2022-06-02": 74931,
-  "2022-06-03": 74971,
-  "2022-06-04": 74994,
-  "2022-06-05": 75049,
-  "2022-06-06": 75092,
-  "2022-06-07": 75136,
-  "2022-06-08": 75167,
-  "2022-06-09": 75208,
-  "2022-06-10": 75258,
-  "2022-06-11": 75320,
-  "2022-06-12": 75359,
-  "2022-06-13": 75420,
-  "2022-06-14": 75455,
-  "2022-06-15": 75485,
-  "2022-06-16": 75515,
-  "2022-06-17": 75578,
-  "2022-06-18": 75611,
-  "2022-06-19": 75681,
-  "2022-06-20": 75681,
-  "2022-06-21": 75714,
-  "2022-06-22": 75734,
-  "2022-06-23": 75734,
-  "2022-06-24": 75748,
-  "2022-06-25": 75766,
-  "2022-06-26": 75802,
-  "2022-06-27": 75831,
-  "2022-06-28": 75865,
-  "2022-06-29": 75891,
-  "2022-06-30": 75918,
-  "2022-07-01": 75947,
-  "2022-07-02": 76001,
-  "2022-07-03": 76039,
-  "2022-07-04": 76069,
-  "2022-07-05": 76119,
-  "2022-07-06": 76177,
-  "2022-07-07": 76214,
-  "2022-07-08": 76238,
-  "2022-07-09": 76253,
-  "2022-07-10": 76275,
-  "2022-07-11": 76313,
-  "2022-07-12": 76347,
-  "2022-07-13": 76385,
-  "2022-07-14": 76428,
-  "2022-07-15": 76450,
-  "2022-07-16": 76499,
-  "2022-07-17": 76545,
-  "2022-07-18": 76593,
-  "2022-07-19": 76645,
-  "2022-07-20": 76691,
-  "2022-07-21": 76737,
-  "2022-07-22": 76783,
-  "2022-07-23": 76815,
-  "2022-07-24": 76863,
-  "2022-07-25": 76926,
-  "2022-07-26": 76968,
-  "2022-07-27": 77009,
-  "2022-07-28": 77064,
-  "2022-07-29": 77104,
-  "2022-07-30": 77198,
-  "2022-07-31": 77198,
-  "2022-08-01": 77253,
-  "2022-08-02": 77346,
-  "2022-08-03": 77346,
-  "2022-08-04": 77374,
-  "2022-08-05": 77410,
-  "2022-08-06": 77438,
-  "2022-08-07": 77477,
-  "2022-08-08": 77517,
-  "2022-08-09": 77541,
-  "2022-08-10": 77573,
-  "2022-08-11": 77602,
-  "2022-08-12": 77633,
-  "2022-08-13": 77674,
-  "2022-08-14": 77712,
-  "2022-08-15": 77749,
-  "2022-08-16": 77785,
-  "2022-08-17": 77838,
-  "2022-08-18": 77873,
-  "2022-08-19": 77898,
-  "2022-08-20": 77927,
-  "2022-08-21": 77975,
-  "2022-08-22": 78002,
-  "2022-08-23": 78039,
-  "2022-08-24": 78064,
-  "2022-08-25": 78097,
-  "2022-08-26": 78135,
-  "2022-08-27": 78171,
-  "2022-08-28": 78210,
-  "2022-08-29": 78237,
-  "2022-08-30": 78246,
-  "2022-08-31": 78283,
-  "2022-09-01": 78261,
-  "2022-09-02": 78233,
-  "2022-09-03": 78215,
-  "2022-09-04": 78151,
-  "2022-09-05": 78143,
-  "2022-09-06": 78167,
-  "2022-09-07": 78189,
-  "2022-09-09": 78251,
-  "2022-09-10": 78265,
-  "2022-09-11": 78285,
-  "2022-09-12": 78320,
-  "2022-09-13": 78357,
-  "2022-09-15": 78406,
-  "2022-09-16": 78445,
-  "2022-09-17": 78493,
-  "2022-09-18": 78521,
-  "2022-09-19": 78545,
-  "2022-09-20": 78588,
-  "2022-09-21": 78611,
-  "2022-09-22": 78652,
-  "2022-09-23": 78670,
-  "2022-09-24": 78698,
-  "2022-09-25": 78724,
-  "2022-09-26": 78758,
-  "2022-09-27": 78786,
-  "2022-09-28": 78821,
-  "2022-09-29": 78853,
-  "2022-09-30": 78885,
-  "2022-10-01": 78924,
-  "2022-10-02": 78957,
-  "2022-10-03": 78981,
-  "2022-10-04": 79019,
-  "2022-10-05": 79057,
-  "2022-10-06": 79098,
-  "2022-10-07": 79133,
-  "2022-10-08": 79176,
-  "2022-10-09": 79234,
-  "2022-10-10": 79240,
-  "2022-10-11": 79269,
-  "2022-10-12": 79293,
-  "2022-10-13": 79318,
-  "2022-10-14": 79351,
-  "2022-10-15": 79391,
-  "2022-10-16": 79443,
-  "2022-10-17": 79486,
-  "2022-10-18": 79508,
-  "2022-10-19": 79536,
-  "2022-10-20": 79568,
-  "2022-10-21": 79584,
-  "2022-10-22": 79612,
-  "2022-10-23": 79645,
-  "2022-10-24": 79668,
-  "2022-10-25": 79684,
-  "2022-10-26": 79713,
-  "2022-10-27": 79736,
-  "2022-10-28": 79773,
-  "2022-10-29": 79794,
-  "2022-10-30": 79829,
-  "2022-10-31": 79856,
-  "2022-11-01": 79883,
-  "2022-11-02": 79928,
-  "2022-11-03": 79951,
-  "2022-11-04": 79989,
-  "2022-11-05": 80022,
-  "2022-11-06": 80056,
-  "2022-11-07": 80096,
-  "2022-11-08": 80121,
-  "2022-11-09": 80151,
-  "2022-11-10": 80177,
-  "2022-11-11": 80207,
-  "2022-11-12": 80236,
-  "2022-11-13": 80267,
-  "2022-11-14": 80294,
-  "2022-11-15": 80328,
-  "2022-11-16": 80367,
-  "2022-11-17": 80402,
-  "2022-11-18": 80416,
-  "2022-11-19": 80400,
-  "2022-11-20": 80413,
-  "2022-11-21": 80432,
-  "2022-11-22": 80464,
-  "2022-11-23": 80498,
-  "2022-11-24": 80557,
-  "2022-11-25": 80627,
-  "2022-11-26": 80677,
-  "2022-11-27": 80715,
-  "2022-11-28": 80742,
-  "2022-11-29": 80775,
-  "2022-11-30": 80793,
-  "2022-12-01": 80812,
-  "2022-12-02": 80827,
-  "2022-12-03": 80850,
-  "2022-12-04": 80877,
-  "2022-12-05": 80909,
-  "2022-12-06": 80940,
-  "2022-12-07": 80967,
-  "2022-12-08": 80984,
-  "2022-12-09": 81000,
-  "2022-12-10": 81025,
-  "2022-12-11": 81060,
-  "2022-12-12": 81081,
-  "2022-12-13": 81106,
-  "2022-12-14": 81136,
-  "2022-12-15": 81172,
-  "2022-12-16": 81192,
-  "2022-12-17": 81220,
-  "2022-12-18": 81244,
-  "2022-12-19": 81261,
-  "2022-12-20": 81313,
-  "2022-12-21": 81313,
-  "2022-12-22": 81327,
-  "2022-12-24": 81364,
-  "2022-12-25": 81396,
-  "2022-12-26": 81426,
-  "2022-12-27": 81464,
-  "2022-12-28": 81485,
-  "2022-12-29": 81516,
-  "2022-12-30": 81544,
-  "2022-12-31": 81565,
-  "2023-01-01": 81590,
-  "2023-01-02": 81618,
-  "2023-01-03": 81658,
-  "2023-01-04": 81680,
-  "2023-01-05": 81706,
-  "2023-01-06": 81761,
-  "2023-01-07": 81818,
-  "2023-01-08": 81829,
-  "2023-01-09": 81874,
-  "2023-01-10": 81909,
-  "2023-01-11": 81931,
-  "2023-01-12": 81967,
-  "2023-01-13": 81999,
-  "2023-01-14": 82076,
-  "2023-01-15": 82097,
-  "2023-01-16": 82140,
-  "2023-01-17": 82173,
-  "2023-01-18": 82208,
-  "2023-01-19": 82249,
-  "2023-01-20": 82287,
-  "2023-01-21": 82322,
-  "2023-01-22": 82347,
-  "2023-01-23": 82377,
-  "2023-01-24": 82407,
-  "2023-01-25": 82430,
-  "2023-01-26": 82464,
-  "2023-01-27": 82499,
-  "2023-01-28": 82533,
-  "2023-01-29": 82570,
-  "2023-01-30": 82603,
-  "2023-01-31": 82603,
-  "2023-02-01": 82665,
-  "2023-02-02": 82697,
-  "2023-02-03": 82740,
-  "2023-02-04": 82772,
-  "2023-02-05": 82806,
-  "2023-02-06": 82846,
-  "2023-02-07": 82887,
-  "2023-02-08": 82978,
-  "2023-02-09": 82978,
-  "2023-02-10": 83023,
-  "2023-02-11": 83052,
-  "2023-02-12": 83141,
-  "2023-02-13": 83173,
-  "2023-02-14": 83173,
-  "2023-02-15": 83210,
-  "2023-02-16": 83254,
-  "2023-02-17": 83287,
-  "2023-02-18": 83366,
-  "2023-02-19": 83375,
-  "2023-02-20": 83396,
-  "2023-02-21": 83438,
-  "2023-02-22": 83463,
-  "2023-02-23": 83499,
-  "2023-02-24": 83538,
-  "2023-02-25": 83588,
-  "2023-02-26": 83606,
-  "2023-02-27": 83672,
-  "2023-02-28": 83672,
-  "2023-03-01": 83704,
-  "2023-03-02": 83744,
-  "2023-03-03": 83777,
-  "2023-03-04": 83818,
-  "2023-03-05": 83894,
-  "2023-03-06": 83894,
-  "2023-03-07": 83924,
-  "2023-03-08": 83948,
-  "2023-03-09": 83989,
-  "2023-03-10": 84007,
-  "2023-03-11": 84033,
-  "2023-03-12": 84077,
-  "2023-03-13": 84114,
-  "2023-03-14": 84144,
-  "2023-03-15": 84171,
-  "2023-03-16": 84204,
-  "2023-03-17": 84204,
-  "2023-03-18": 84265,
-  "2023-03-19": 84301,
-  "2023-03-20": 84327,
-  "2023-03-21": 84358,
-  "2023-03-22": 84395,
-  "2023-03-23": 84420,
-  "2023-03-24": 84420,
-  "2023-03-25": 84488,
-  "2023-03-26": 84524,
-  "2023-03-27": 84551,
-  "2023-03-28": 84577,
-  "2023-03-29": 84610,
-  "2023-03-30": 84649,
-  "2023-03-31": 84649,
-  "2023-04-01": 84673,
-  "2023-04-02": 84707,
-  "2023-04-03": 84738,
-  "2023-04-04": 84776,
-  "2023-04-05": 84809,
-  "2023-04-06": 84836,
-  "2023-04-07": 84868,
-  "2023-04-09": 84934,
-  "2023-04-10": 84961,
-  "2023-04-11": 85002,
-  "2023-04-12": 85002,
-  "2023-04-13": 85029,
-  "2023-04-14": 85054,
-  "2023-04-15": 85088,
-  "2023-04-16": 85112,
-  "2023-04-17": 85149,
-  "2023-04-18": 85174,
-  "2023-04-19": 85213,
-  "2023-04-20": 85234,
-  "2023-04-21": 85254,
-  "2023-04-22": 85293,
-  "2023-04-23": 85312,
-  "2023-04-24": 85351,
-  "2023-04-25": 85383,
-  "2023-04-26": 85401,
-  "2023-04-27": 85431,
-  "2023-04-28": 85471,
-  "2023-04-29": 85508,
-  "2023-04-30": 85542,
-  "2023-05-01": 85565,
-  "2023-05-02": 85602,
-  "2023-05-03": 85634,
-  "2023-05-04": 85661,
-  "2023-05-05": 85689,
-  "2023-05-06": 85711,
-  "2023-05-07": 85727,
-  "2023-05-08": 85760,
-  "2023-05-09": 85780,
-  "2023-05-10": 85810,
-  "2023-05-11": 85842,
-  "2023-05-12": 85867,
-  "2023-05-13": 85909,
-  "2023-05-14": 85940,
-  "2023-05-15": 85968,
-  "2023-05-16": 85995,
-  "2023-05-17": 86018,
-  "2023-05-18": 86056,
-  "2023-05-19": 86081,
-  "2023-05-20": 86147,
-  "2023-05-21": 86147,
-  "2023-05-22": 86147,
-  "2023-05-23": 86195,
-  "2023-05-24": 86246,
-  "2023-05-25": 86261,
-  "2023-05-26": 86291,
-  "2023-05-27": 86317,
-  "2023-05-28": 86335,
-  "2023-05-29": 86335,
-  "2023-05-30": 86390,
-  "2023-05-31": 86408,
-  "2023-06-01": 86428,
-  "2023-06-02": 86455,
-  "2023-06-03": 86493,
-  "2023-06-04": 86524,
-  "2023-06-05": 86555,
-  "2023-06-06": 86587,
-  "2023-06-07": 86601,
-  "2023-06-08": 86621,
-  "2023-06-09": 86648,
-  "2023-06-10": 86682,
-  "2023-06-11": 86708,
-  "2023-06-12": 86748,
-  "2023-06-13": 86777,
-  "2023-06-14": 86816,
-  "2023-06-15": 86858,
-  "2023-06-16": 86889,
-  "2023-06-17": 86928,
-  "2023-06-18": 86974,
-  "2023-06-19": 87010,
-  "2023-06-20": 87036,
-  "2023-06-21": 87077,
-  "2023-06-22": 87116,
-  "2023-06-23": 87147,
-  "2023-06-24": 87180,
-  "2023-06-25": 87212,
-  "2023-06-26": 87237,
-  "2023-06-27": 87279,
-  "2023-06-28": 87313,
-  "2023-06-29": 87343,
-  "2023-06-30": 87378,
-  "2023-07-01": 87441,
-  "2023-07-02": 87441,
-  "2023-07-03": 87460,
-  "2023-07-04": 87496,
-  "2023-07-05": 87527,
-  "2023-07-06": 87592,
-  "2023-07-07": 87592,
-  "2023-07-08": 87614,
-  "2023-07-09": 87660,
-  "2023-07-10": 87690,
-  "2023-07-11": 87712,
-  "2023-07-12": 87740,
-  "2023-07-13": 87775,
-  "2023-07-14": 87803,
-  "2023-07-15": 87820,
-  "2023-07-16": 87859,
-  "2023-07-17": 87885,
-  "2023-07-18": 87911,
-  "2023-07-19": 87936,
-  "2023-07-20": 87955,
-  "2023-07-21": 87996,
-  "2023-07-22": 88033,
-  "2023-07-23": 88069,
-  "2023-07-24": 88094,
-  "2023-07-25": 88141,
-  "2023-07-26": 88165,
-  "2023-07-27": 88192,
-  "2023-07-28": 88231,
-  "2023-07-29": 88263,
-  "2023-07-30": 88302,
-  "2023-07-31": 88325,
-  "2023-08-01": 88348,
-  "2023-08-02": 88383,
-  "2023-08-03": 88420,
-  "2023-08-04": 88442,
-  "2023-08-05": 88488,
-  "2023-08-06": 88565,
-  "2023-08-07": 88565,
-  "2023-08-08": 88596,
-  "2023-08-09": 88636,
-  "2023-08-10": 88679,
-  "2023-08-11": 88734,
-  "2023-08-12": 88772,
-  "2023-08-13": 88815,
-  "2023-08-14": 88862,
-  "2023-08-15": 88930,
-  "2023-08-16": 88930,
-  "2023-08-17": 88973,
-  "2023-08-18": 89018,
-  "2023-08-19": 89053,
-  "2023-08-20": 89094,
-  "2023-08-21": 89123,
-  "2023-08-22": 89169,
-  "2023-08-23": 89200,
-  "2023-08-24": 89241,
-  "2023-08-25": 89264,
-  "2023-08-26": 89308,
-  "2023-08-27": 89365,
-  "2023-08-28": 89407,
-  "2023-08-29": 89432,
-  "2023-08-30": 89472,
-  "2023-08-31": 89505,
-  "2023-09-01": 89560,
-  "2023-09-02": 89560,
-  "2023-09-03": 89579,
-  "2023-09-04": 89614,
-  "2023-09-05": 89646,
-  "2023-09-06": 89676,
-  "2023-09-07": 89703,
-  "2023-09-08": 89757,
-  "2023-09-09": 89882,
-  "2023-09-10": 89969,
-  "2023-09-11": 90027,
-  "2023-09-12": 90087,
-  "2023-09-13": 90151,
-  "2023-09-14": 90210,
-  "2023-09-15": 90256,
-  "2023-09-16": 90288,
-  "2023-09-17": 90330,
-  "2023-09-18": 90369,
-  "2023-09-19": 90389,
-  "2023-09-20": 90433,
-  "2023-09-21": 90460,
-  "2023-09-22": 90492,
-  "2023-09-23": 90521,
-  "2023-09-24": 90571,
-  "2023-09-25": 90606,
-  "2023-09-26": 90648,
-  "2023-09-27": 90664,
-  "2023-09-28": 90689,
-  "2023-09-29": 90717,
-  "2023-09-30": 90746,
-  "2023-10-01": 90789,
-  "2023-10-02": 90819,
-  "2023-10-03": 90863,
-  "2023-10-04": 90892,
-  "2023-10-05": 90916,
-  "2023-10-06": 90935,
-  "2023-10-07": 90968,
-  "2023-10-08": 90990,
-  "2023-10-09": 91026,
-  "2023-10-10": 91037,
-  "2023-10-11": 91080,
-  "2023-10-12": 91080,
-  "2023-10-13": 91109,
-  "2023-10-14": 91120,
-  "2023-10-15": 91136,
-  "2023-10-16": 91170,
-  "2023-10-17": 91195,
-  "2023-10-18": 91218,
-  "2023-10-19": 91247,
-  "2023-10-20": 91271,
-  "2023-10-21": 91288,
-  "2023-10-22": 91318,
-  "2023-10-23": 91342,
-  "2023-10-24": 91375,
-  "2023-10-25": 91404,
-  "2023-10-26": 91438,
-  "2023-10-27": 91456,
-  "2023-10-28": 91485,
-  "2023-10-29": 91524,
-  "2023-10-30": 91629,
-  "2023-10-31": 91629,
-  "2023-11-01": 91650,
-  "2023-11-02": 91672,
-  "2023-11-03": 91695,
-  "2023-11-04": 91724,
-  "2023-11-05": 91752,
-  "2023-11-06": 91770,
-  "2023-11-07": 91800,
-  "2023-11-08": 91831,
-  "2023-11-09": 91864,
-  "2023-11-10": 91897,
-  "2023-11-11": 91928,
-  "2023-11-12": 91949,
-  "2023-11-13": 91986,
-  "2023-11-14": 92014,
-  "2023-11-15": 92014,
-  "2023-11-16": 92065,
-  "2023-11-17": 92128,
-  "2023-11-18": 92128,
-  "2023-11-19": 92154,
-  "2023-11-20": 92179,
-  "2023-11-21": 92199,
-  "2023-11-22": 92227,
-  "2023-11-23": 92248,
-  "2023-11-24": 92275,
-  "2023-11-25": 92305,
-  "2023-11-26": 92337,
-  "2023-11-27": 92366,
-  "2023-11-28": 92396,
-  "2023-11-29": 92446,
-  "2023-11-30": 92446,
-  "2023-12-01": 92465,
-  "2023-12-02": 92497,
-  "2023-12-03": 92525,
-  "2023-12-04": 92547,
-  "2023-12-05": 92575,
-  "2023-12-06": 92603,
-  "2023-12-07": 92616,
-  "2023-12-08": 92647,
-  "2023-12-09": 92660,
-  "2023-12-10": 92695,
-  "2023-12-11": 92747,
-  "2023-12-12": 92771,
-  "2023-12-13": 92784,
-  "2023-12-14": 92825,
-  "2023-12-15": 92851,
-  "2023-12-16": 92884,
-  "2023-12-17": 92920,
-  "2023-12-18": 92963,
-  "2023-12-19": 92994,
-  "2023-12-20": 93014,
-  "2023-12-21": 93050,
-  "2023-12-22": 93083,
-  "2023-12-23": 93115,
-  "2023-12-24": 93145,
-  "2023-12-25": 93175,
-  "2023-12-26": 93199,
-  "2023-12-27": 93233,
-  "2023-12-30": 93331,
-  "2023-12-31": 93376,
-  "2024-01-01": 93390,
-  "2024-01-02": 93423,
-  "2024-01-03": 93451
+  "2024-01-17": 93882,
+  "date_first_scraped": "2021-12-21",
+  "description": "Born in the Mississippi Delta - at the turn of the 20th century - the Delta Blues is one of the earliest and most influential styles of blues.",
+  "name": "Delta Blues",
+  "tracks": [
+    {
+      "album": {
+        "name": "Bo Carter's Advice",
+        "url": "https://open.spotify.com/album/0hkEjjEf3RCJ6xC2fkmNVc"
+      },
+      "artists": [
+        {
+          "name": "Bo Carter",
+          "url": "https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 179293,
+      "name": "All Around Man",
+      "url": "https://open.spotify.com/track/4ivYhGEWiouLHO6uHR2PPC"
+    },
+    {
+      "album": {
+        "name": "Banana In Your Fruit Basket",
+        "url": "https://open.spotify.com/album/3qYkVib546DphLJWz1mHY6"
+      },
+      "artists": [
+        {
+          "name": "Bo Carter",
+          "url": "https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 180093,
+      "name": "All Around Man",
+      "url": "https://open.spotify.com/track/04O45djDgdvw08HOkouSKW"
+    },
+    {
+      "album": {
+        "name": "Presenting Bo Carter",
+        "url": "https://open.spotify.com/album/0ofexA0pCbkL2ZVrUWimpU"
+      },
+      "artists": [
+        {
+          "name": "Bo Carter",
+          "url": "https://open.spotify.com/artist/2naDLHeKqXSHT3DMII2eqb"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180093,
+      "name": "All Around Man",
+      "url": "https://open.spotify.com/track/5qdSXoKf36HAtCgAsftaM4"
+    },
+    {
+      "album": {
+        "name": "Going Back to Crawford",
+        "url": "https://open.spotify.com/album/2C4LCaMK6gc8zzMuHrEPvg"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Williams",
+          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164506,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/1vjHFgIdNuLXojpkzysoV8"
+    },
+    {
+      "album": {
+        "name": "And Friends, Going Back To Crawford",
+        "url": "https://open.spotify.com/album/5Q4xMv1EGymfAz7gLMDJqN"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Williams",
+          "url": "https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164506,
+      "name": "Baby Please Don't Go",
+      "url": "https://open.spotify.com/track/3lpj1UVCPnohjqGEwY0Lfl"
+    },
+    {
+      "album": {
+        "name": "Tommy McClennan Vol. 2 \"Cross Cut Saw\"",
+        "url": "https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv"
+      },
+      "artists": [
+        {
+          "name": "Tommy McClennan",
+          "url": "https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163944,
+      "name": "Blues As I Can Be",
+      "url": "https://open.spotify.com/track/4cEzHktMaGrNAw36GbNhwr"
+    },
+    {
+      "album": {
+        "name": "Masters Of The Delta Blues: The Friends Of Charlie",
+        "url": "https://open.spotify.com/album/6Sz8sb77Kh6uEfMWRSCjBm"
+      },
+      "artists": [
+        {
+          "name": "Ishmon Bracey",
+          "url": "https://open.spotify.com/artist/44GDyjmx3ZNRKlLlhggCgp"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187626,
+      "name": "Brown Mama Blues",
+      "url": "https://open.spotify.com/track/3Q7SBXSSwhdjrL5bXFh5CQ"
+    },
+    {
+      "album": {
+        "name": "Masters Of The Delta Blues: The Friends Of Charlie Patton",
+        "url": "https://open.spotify.com/album/3KfQxOZl3OxXsxsOHQkTJh"
+      },
+      "artists": [
+        {
+          "name": "Ishmon Bracey",
+          "url": "https://open.spotify.com/artist/44GDyjmx3ZNRKlLlhggCgp"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187626,
+      "name": "Brown Mama Blues",
+      "url": "https://open.spotify.com/track/54BMOeVpaodk2pguHGUQC9"
+    },
+    {
+      "album": {
+        "name": "The Sonet Blues Story",
+        "url": "https://open.spotify.com/album/13JqwxkZBFM3B8kp86QsfZ"
+      },
+      "artists": [
+        {
+          "name": "J.D. Short",
+          "url": "https://open.spotify.com/artist/5aTQqSNBX17uG0FZxvorSz"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "By The Spoonful",
+      "url": "https://open.spotify.com/track/7oqDaJiG7dUvf7oIQrzGGF"
+    },
+    {
+      "album": {
+        "name": "Tommy Johnson 1928 - 1929",
+        "url": "https://open.spotify.com/album/1BrjO0ZJTNZliuhAi9Orf7"
+      },
+      "artists": [
+        {
+          "name": "Tommy Johnson",
+          "url": "https://open.spotify.com/artist/6n4r5eMU2ZUiHPPWhFDcHq"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219141,
+      "name": "Canned Heat Blues",
+      "url": "https://open.spotify.com/track/1Uk2MppskA0wnHUj8JwYfC"
+    },
+    {
+      "album": {
+        "name": "Mississippi Blues Vol. 3 \"Catfish Blues\"",
+        "url": "https://open.spotify.com/album/4LjUYP4RO0OcX7f6lUVerz"
+      },
+      "artists": [
+        {
+          "name": "Robert Petway",
+          "url": "https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174472,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/7A9yfYiBXLEvKn1oJy3nPL"
+    },
+    {
+      "album": {
+        "name": "Mississippi Blues (1935-1951)",
+        "url": "https://open.spotify.com/album/1tGPQ7JepAddVZ2506Wuu6"
+      },
+      "artists": [
+        {
+          "name": "Robert Petway",
+          "url": "https://open.spotify.com/artist/0zNSuwnNWdr8g5EmE0YWKx"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175386,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/7d89sBzsw47LbdprUMNyfJ"
+    },
+    {
+      "album": {
+        "name": "Rediscovered",
+        "url": "https://open.spotify.com/album/7563JyVKfAPqonIxfTuU1p"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226226,
+      "name": "Coffee Blues",
+      "url": "https://open.spotify.com/track/2azwzKd8xYex2PyJEyl8BX"
+    },
+    {
+      "album": {
+        "name": "Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5cwghugVHA8qva7hYvMPVJ"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227733,
+      "name": "Coffee Blues",
+      "url": "https://open.spotify.com/track/16GdiwewBf99MhUSVsxUBe"
+    },
+    {
+      "album": {
+        "name": "Come Back Baby / Chicago Breakdown",
+        "url": "https://open.spotify.com/album/14WqCYoHNfJBr2GCdsees3"
+      },
+      "artists": [
+        {
+          "name": "Doctor Ross",
+          "url": "https://open.spotify.com/artist/59gZhkxiZ8x4umU9ua2ZBn"
+        }
+      ],
+      "date_added": "2021-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167083,
+      "name": "Come Back Baby",
+      "url": "https://open.spotify.com/track/061qVrfyTW07DCB9B4BBmI"
+    },
+    {
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "Come On In My Kitchen",
+      "url": "https://open.spotify.com/track/10W125nMbncRGcXRBoACOx"
+    },
+    {
+      "album": {
+        "name": "The Devil's Music Vol. 1",
+        "url": "https://open.spotify.com/album/4iwZoEbealEbp0NJBOop57"
+      },
+      "artists": [
+        {
+          "name": "Houston Stackhouse",
+          "url": "https://open.spotify.com/artist/2JQ9OGncNXR1tFPLInvlPb"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196826,
+      "name": "Cool Drink Of Water",
+      "url": "https://open.spotify.com/track/5Ys4D2UDLSO1WrH6x3JYKd"
+    },
+    {
+      "album": {
+        "name": "King Of The Boogie",
+        "url": "https://open.spotify.com/album/397nqvmmvM4MhJwL3Opf9F"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "Crawlin' King Snake",
+      "url": "https://open.spotify.com/track/10f8sVNPeHvrtTeWm0lGGv"
+    },
+    {
+      "album": {
+        "name": "Original Folk Blues of John Lee Hooker",
+        "url": "https://open.spotify.com/album/61gpX9twWkjKAE316DUPLk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 181760,
+      "name": "Crawlin' King Snake",
+      "url": "https://open.spotify.com/track/44MnBtzl9HSjWql6Bu1fON"
+    },
+    {
+      "album": {
+        "name": "The Legendary Modern Recordings",
+        "url": "https://open.spotify.com/album/3VZo6Z4zqLnODmtIqmVemL"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182253,
+      "name": "Crawlin' King Snake",
+      "url": "https://open.spotify.com/track/3DQhvYiIPe7DrfTKuI2Uc6"
+    },
+    {
+      "album": {
+        "name": "King Of The Delta Blues Singers",
+        "url": "https://open.spotify.com/album/2IWaNq5o4tG1w6yxve5BMU"
+      },
+      "artists": [
+        {
+          "name": "Robert Johnson",
+          "url": "https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149560,
+      "name": "Cross Road Blues",
+      "url": "https://open.spotify.com/track/1TrGdXSgiBm8W68D2K1COG"
+    },
+    {
+      "album": {
+        "name": "50 YEARS Mississippi Blues in Bentonia",
+        "url": "https://open.spotify.com/album/4yYLSeTmtInZXtSuy1rGav"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        },
+        {
+          "name": "Jack Owens",
+          "url": "https://open.spotify.com/artist/57mD2xpKgNANtlCSwNDQn5"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189186,
+      "name": "Cypress Grove Blues",
+      "url": "https://open.spotify.com/track/3JPS9XaJtmBQXyJLKR2twp"
+    },
+    {
+      "album": {
+        "name": "Jackson Blues (1928-1938)",
+        "url": "https://open.spotify.com/album/31yxpUSQbO6Oa586lMo9a9"
+      },
+      "artists": [
+        {
+          "name": "Willie Lofton",
+          "url": "https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "Dark Road Blues",
+      "url": "https://open.spotify.com/track/4GfeF91zYNEDeCpHgpM190"
+    },
+    {
+      "album": {
+        "name": "Jackson Blues (1928-1938)",
+        "url": "https://open.spotify.com/album/7E4TscdR2I9bX7s9mtDbBe"
+      },
+      "artists": [
+        {
+          "name": "Willie Lofton",
+          "url": "https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183866,
+      "name": "Dark Road Blues",
+      "url": "https://open.spotify.com/track/53UVR0PgoiYJR685pQChYS"
+    },
+    {
+      "album": {
+        "name": "Jackson Blues 1928-1938 (Doxy Collection Remastered)",
+        "url": "https://open.spotify.com/album/3AUQomle4JcNQztvj35X4M"
+      },
+      "artists": [
+        {
+          "name": "Willie Lofton",
+          "url": "https://open.spotify.com/artist/5f0CgU806B0KdEd0QY7Bf9"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 186440,
+      "name": "Dark Road Blues - Remastered",
+      "url": "https://open.spotify.com/track/311aRUdBcXOrAmb7pbTUbr"
+    },
+    {
+      "album": {
+        "name": "Father Of The Delta Blues: The Complete 1965 Sessions",
+        "url": "https://open.spotify.com/album/5SsZBxF3sRSJnFd0rZ3vcF"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259160,
+      "name": "Death Letter Blues",
+      "url": "https://open.spotify.com/track/0W0euvQlhbcsTydzsD4EQk"
+    },
+    {
+      "album": {
+        "name": "Legends Of Country Blues: The Complete Pre-War Recordings Of Skip James (Disc A)",
+        "url": "https://open.spotify.com/album/2KNRkv1h7OYErPyhVIDQiV"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181787,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/1bWh9hOkQGahfQ0rEqvaGR"
+    },
+    {
+      "album": {
+        "name": "Complete Recordings, CD B",
+        "url": "https://open.spotify.com/album/5g5uCm26kMPe0oMk0NyIEk"
+      },
+      "artists": [
+        {
+          "name": "Charley Patton",
+          "url": "https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185360,
+      "name": "Devil Sent The Rain Blues",
+      "url": "https://open.spotify.com/track/6z7GYFQcNUkqjEOBWktpb5"
+    },
+    {
+      "album": {
+        "name": "Charley Patton Vol. 1 (1929)",
+        "url": "https://open.spotify.com/album/0fWV8D1byaFWLivZSRqf8v"
+      },
+      "artists": [
+        {
+          "name": "Charley Patton",
+          "url": "https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174576,
+      "name": "Down The Dirt Road Blues",
+      "url": "https://open.spotify.com/track/4sCCIP8eG3HVizWnm1SQ0G"
+    },
+    {
+      "album": {
+        "name": "The Complete Bukka White",
+        "url": "https://open.spotify.com/album/5dfO3AjDoZ2v3AptNahERl"
+      },
+      "artists": [
+        {
+          "name": "Bukka White",
+          "url": "https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166960,
+      "name": "Fixin' to Die Blues",
+      "url": "https://open.spotify.com/track/00pz9LNt4VcgjyS0KmDb8l"
+    },
+    {
+      "album": {
+        "name": "Honeyboy Edwards: Missisippi Delta Bluesman",
+        "url": "https://open.spotify.com/album/6GUzyOdb9vLQLIO9bswhQL"
+      },
+      "artists": [
+        {
+          "name": "David \"Honeyboy\" Edwards",
+          "url": "https://open.spotify.com/artist/1TJ9XdOFUqlSduhAVV7YfR"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260040,
+      "name": "Further Up on the Road",
+      "url": "https://open.spotify.com/track/7n4zQp0b3vnsmcjmEfLo2r"
+    },
+    {
+      "album": {
+        "name": "Everyday Seem Like Murder Here",
+        "url": "https://open.spotify.com/album/5ZyZXEQwst3IGoXpT78TjF"
+      },
+      "artists": [
+        {
+          "name": "Hayes McMullan",
+          "url": "https://open.spotify.com/artist/4ZuuzdsGaE5XzUajuwWk32"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145853,
+      "name": "Goin' Away Mama Blues",
+      "url": "https://open.spotify.com/track/2uMARFwLTasuuQ6cEChVBn"
+    },
+    {
+      "album": {
+        "name": "Mama Says I'm Crazy",
+        "url": "https://open.spotify.com/album/7z8WLgxbWna9YgHjv7IH4U"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        },
+        {
+          "name": "Johnny Woods",
+          "url": "https://open.spotify.com/artist/6GdRInP1426MCcMlxlwCE7"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 271106,
+      "name": "Going Down to the River",
+      "url": "https://open.spotify.com/track/25KHFUhAGPZwXru0cQAvhb"
+    },
+    {
+      "album": {
+        "name": "Mama Says I'm Crazy",
+        "url": "https://open.spotify.com/album/0ssyCs9TI6xAVobkz7wRCG"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        },
+        {
+          "name": "Johnny Woods",
+          "url": "https://open.spotify.com/artist/6GdRInP1426MCcMlxlwCE7"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271120,
+      "name": "Going Down to the River",
+      "url": "https://open.spotify.com/track/281GVQAmCh70dfZaQITA2J"
+    },
+    {
+      "album": {
+        "name": "Good Morning Little School Girl",
+        "url": "https://open.spotify.com/album/3yYBnIVUvJrM6a0z8HNHOl"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Good Morning Little Schoolgirl",
+      "url": "https://open.spotify.com/track/2LtpyfWWnr5V96l3Js7LLX"
+    },
+    {
+      "album": {
+        "name": "Good Morning Little School Girl",
+        "url": "https://open.spotify.com/album/0ZLpHSm1AdcbL88zn1n1ki"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Fred McDowell",
+          "url": "https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201600,
+      "name": "Good Morning Little Schoolgirl",
+      "url": "https://open.spotify.com/track/7iILVc0DSgB37UYqxrbfRO"
+    },
+    {
+      "album": {
+        "name": "Lord Have Mercy",
+        "url": "https://open.spotify.com/album/0zdntBA5tJss6YSMH8pey8"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson I",
+          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 153200,
+      "name": "Got the Bottle up and Gone",
+      "url": "https://open.spotify.com/track/77xMV52NqEYqotQRPVoN9O"
+    },
+    {
+      "album": {
+        "name": "Sonny Boy Williamson Vol. 1 (1937 - 1938)",
+        "url": "https://open.spotify.com/album/7FJtjm0Fhd7q8n4JkA290L"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson I",
+          "url": "https://open.spotify.com/artist/1qxTNsrSi4fNXVO0sbMsl4"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153260,
+      "name": "Got The Bottle Up And Gone",
+      "url": "https://open.spotify.com/track/1a8JNXclpuzv9Rx8KxBbIO"
+    },
+    {
+      "album": {
+        "name": "The Roots of Led Zeppelin",
+        "url": "https://open.spotify.com/album/2COvDjzoJTRf7Nliwcygz7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153855,
+      "name": "Got The Bottle Up And Gone",
+      "url": "https://open.spotify.com/track/54nkY5drz9k6z7M5EfbUqc"
+    },
+    {
+      "album": {
+        "name": "The Essential Son House",
+        "url": "https://open.spotify.com/album/5uBEplFkFzmnjrWIWzuMp9"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149866,
+      "name": "John the Revelator",
+      "url": "https://open.spotify.com/track/1bk9JeFpp42OBWjStkvm3F"
+    },
+    {
+      "album": {
+        "name": "Paramount Blues - Lock and Key Blues",
+        "url": "https://open.spotify.com/album/5IiApIz41TnFX0NNTmYNoC"
+      },
+      "artists": [
+        {
+          "name": "Geeshie Wiley",
+          "url": "https://open.spotify.com/artist/1cKNtCaFs3dRO88WDOVTeg"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182933,
+      "name": "Last Kind Words Blues",
+      "url": "https://open.spotify.com/track/1o9D6eNx48cZyu5hlDnjNj"
+    },
+    {
+      "album": {
+        "name": "Presenting Johnnie Temple",
+        "url": "https://open.spotify.com/album/3l8ereMNEdGKY4sBBmrdS6"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Temple",
+          "url": "https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187346,
+      "name": "Lead Pencil Blues",
+      "url": "https://open.spotify.com/track/2RMkj69Tlvc1k0LD2IW7eg"
+    },
+    {
+      "album": {
+        "name": "Back To The Crossroads: The Roots Of Robert Johnson",
+        "url": "https://open.spotify.com/album/6L3mNq3mwbboDq6iW4Y0mk"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Temple",
+          "url": "https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 186520,
+      "name": "Lead Pencil Blues (1935)",
+      "url": "https://open.spotify.com/track/2HtrbgSrkOm7HqrbD7DmGr"
+    },
+    {
+      "album": {
+        "name": "Son House Library of Congress Recordings 1941-1942",
+        "url": "https://open.spotify.com/album/2WC66jvXcoXHRqgfLTZ9Z5"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        },
+        {
+          "name": "Willie Brown",
+          "url": "https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS"
+        },
+        {
+          "name": "Fiddlin\u2019 Joe Martin",
+          "url": "https://open.spotify.com/artist/3raXFpk21XigZmb4xXG6qz"
+        },
+        {
+          "name": "Leroy Williams",
+          "url": "https://open.spotify.com/artist/6uQnHbypkRY4KmLvJrs4OY"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222889,
+      "name": "Levee Camp Blues",
+      "url": "https://open.spotify.com/track/0QLGHswYCY4j0IAfqleuNw"
+    },
+    {
+      "album": {
+        "name": "Trouble Hearted Blues",
+        "url": "https://open.spotify.com/album/3w2VGThFBaflAl70bu4Qww"
+      },
+      "artists": [
+        {
+          "name": "Robert Lockwood, Jr.",
+          "url": "https://open.spotify.com/artist/5hId7yMy0kbGP6IiKWVDql"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187638,
+      "name": "Little Boy Blues",
+      "url": "https://open.spotify.com/track/27O30M436mQhCIraUKmO9o"
+    },
+    {
+      "album": {
+        "name": "Son House & Great Delta Blues Singers 1928 - 1930",
+        "url": "https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Bailey",
+          "url": "https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169744,
+      "name": "Mississippi Bottom Blues",
+      "url": "https://open.spotify.com/track/0trDFIYb4jdj9HOICf9dJc"
+    },
+    {
+      "album": {
+        "name": "Alternative Boogie: Early Studio Recordings, 1948-1952",
+        "url": "https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Moon Is Rising",
+      "url": "https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF"
+    },
+    {
+      "album": {
+        "name": "Best of Blues Vol. 9: Sweet Home Chicago (Collection Gerard Herzhaft - Remastered)",
+        "url": "https://open.spotify.com/album/270BuNeZqDgIbHyVN6ydBY"
+      },
+      "artists": [
+        {
+          "name": "Freddie Spruell",
+          "url": "https://open.spotify.com/artist/3ZYlbvC3pDe556D396tDYX"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186640,
+      "name": "Mr Freddie's Kokomo Blues",
+      "url": "https://open.spotify.com/track/0NNsX9iY7shbtzCJg3DYRK"
+    },
+    {
+      "album": {
+        "name": "Arthur \"Big Boy\" Crudup Vol. 1 1941-1946",
+        "url": "https://open.spotify.com/album/0W8si0dl1CD4U3ebkypkyp"
+      },
+      "artists": [
+        {
+          "name": "Arthur \"Big Boy\" Crudup",
+          "url": "https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190040,
+      "name": "My Mama Don't Allow Me",
+      "url": "https://open.spotify.com/track/0SVoYMEKJcY56RbGrU5Of5"
+    },
+    {
+      "album": {
+        "name": "Preachin' Blues",
+        "url": "https://open.spotify.com/album/2jBR825FVmX6BelMes5U4G"
+      },
+      "artists": [
+        {
+          "name": "Son House",
+          "url": "https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316360,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/4YEoVkvvzx5eavtE2u5qG0"
+    },
+    {
+      "album": {
+        "name": "Son House & Great Delta Blues Singers 1928 - 1930",
+        "url": "https://open.spotify.com/album/2fLEYffzYZrGXm0NIfKBfO"
+      },
+      "artists": [
+        {
+          "name": "Kid Bailey",
+          "url": "https://open.spotify.com/artist/4yPQvmHuBCWokkEvXIvPUD"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180976,
+      "name": "Rowdy Blues",
+      "url": "https://open.spotify.com/track/75ToackOie9J7ZptaPbPxY"
+    },
+    {
+      "album": {
+        "name": "Suitcase Full of Blues 1928-1929",
+        "url": "https://open.spotify.com/album/2oBd93fHMsEh2eA3ovOIJ5"
+      },
+      "artists": [
+        {
+          "name": "Ishman Bracey",
+          "url": "https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209266,
+      "name": "Saturday Blues",
+      "url": "https://open.spotify.com/track/46BA5xsc2MFgFef2wgT8G2"
+    },
+    {
+      "album": {
+        "name": "Lonesome Road Blues - 15 Years In The Mississippi Delta (1926-1941)",
+        "url": "https://open.spotify.com/album/3srwfknuT4K10fVGHuwN18"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Nelson",
+          "url": "https://open.spotify.com/artist/38FqeK3CPB9k6ZmIdsGWkC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153160,
+      "name": "Street Walkin'",
+      "url": "https://open.spotify.com/track/0odCeFFuF4puDfinH6cYWo"
+    },
+    {
+      "album": {
+        "name": "Lonesome Road Blues - 15 Years In The Mississippi Delta (1926-1941)",
+        "url": "https://open.spotify.com/album/5oGf3xPGdr6CHIvau7FUiy"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Nelson",
+          "url": "https://open.spotify.com/artist/38FqeK3CPB9k6ZmIdsGWkC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153160,
+      "name": "Street Walkin'",
+      "url": "https://open.spotify.com/track/0w3lp6gfoUzjdhEFhvrxAP"
+    },
+    {
+      "album": {
+        "name": "Presenting Sonny Boy Nelson",
+        "url": "https://open.spotify.com/album/3vS2ffXcmWvJVvIQWIQlJN"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Nelson",
+          "url": "https://open.spotify.com/artist/38FqeK3CPB9k6ZmIdsGWkC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153189,
+      "name": "Street Walkin'",
+      "url": "https://open.spotify.com/track/6sMJJCExl91baKOis8A6h2"
+    },
+    {
+      "album": {
+        "name": "Blues Masters, Vol. 3",
+        "url": "https://open.spotify.com/album/5zadTf4irREd77rEq31PGY"
+      },
+      "artists": [
+        {
+          "name": "John Henry Barbee",
+          "url": "https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "That's All Right, Pt. 1",
+      "url": "https://open.spotify.com/track/24wSfBAKhkkug1ru5ojpw6"
+    },
+    {
+      "album": {
+        "name": "Tommy McClennan Vol. 2 \"Cross Cut Saw\"",
+        "url": "https://open.spotify.com/album/1g9xtSDXkL2iHhYlMSM9Qv"
+      },
+      "artists": [
+        {
+          "name": "Tommy McClennan",
+          "url": "https://open.spotify.com/artist/0m8dKC3T9anldCh2OgZ6pJ"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180140,
+      "name": "Travellin' Highway Man",
+      "url": "https://open.spotify.com/track/5zvRTgNEcNk6pTPJPLSOuw"
+    },
+    {
+      "album": {
+        "name": "Too Wet to Plow",
+        "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
+      },
+      "artists": [
+        {
+          "name": "Johnny Shines",
+          "url": "https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238440,
+      "name": "Travelling Back Home",
+      "url": "https://open.spotify.com/track/3cwtordfGGU2cpYEwQxJEd"
+    },
+    {
+      "album": {
+        "name": "Tradition Masters Series",
+        "url": "https://open.spotify.com/album/0G2QwqUV2Xt73bJAUi8PUv"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181892,
+      "name": "Where Did You Sleep Last Night",
+      "url": "https://open.spotify.com/track/13U0E6CXh2dnEi6eDzNyK0"
+    },
+    {
+      "album": {
+        "name": "Absolutely The Best",
+        "url": "https://open.spotify.com/album/6I0A1EwU5SP9HCwweaWJIq"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-04",
+      "duration_ms": 181892,
+      "name": "Where Did You Sleep Last Night",
+      "url": "https://open.spotify.com/track/3XdnNX0cPynrR7KdRoyjwa"
+    },
+    {
+      "album": {
+        "name": "The Ultimate Country Blues Collection",
+        "url": "https://open.spotify.com/album/736y5c0LSTTQ7FxkBq23p0"
+      },
+      "artists": [
+        {
+          "name": "Lead Belly",
+          "url": "https://open.spotify.com/artist/3Ovf2lytXSXWFM2cwsJACC"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 184493,
+      "name": "Where Did You Sleep Last Night",
+      "url": "https://open.spotify.com/track/7ucwcsXOmwwgrcMB3YeaKA"
+    },
+    {
+      "album": {
+        "name": "Presenting King Solomon Hill",
+        "url": "https://open.spotify.com/album/1qtKb7yeGIGerPcGfJMAQY"
+      },
+      "artists": [
+        {
+          "name": "King Solomon Hill",
+          "url": "https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191123,
+      "name": "Whoopee Blues",
+      "url": "https://open.spotify.com/track/6ylESybqWnIu8Qtm0XyGos"
+    },
+    {
+      "album": {
+        "name": "Mississippi Masters: Early American Blues Classics 1927 - 35",
+        "url": "https://open.spotify.com/album/27nWGgtAdORVcReR3ppmpZ"
+      },
+      "artists": [
+        {
+          "name": "King Solomon Hill",
+          "url": "https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191133,
+      "name": "Whoopee Blues",
+      "url": "https://open.spotify.com/track/4RUCMtsSMsPQlt08nwmix8"
+    },
+    {
+      "album": {
+        "name": "Mississippi Masters: Early American Blues Classics 1927 - 35",
+        "url": "https://open.spotify.com/album/25s1xT4XpECojpsQNUEgsn"
+      },
+      "artists": [
+        {
+          "name": "King Solomon Hill",
+          "url": "https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG"
+        }
+      ],
+      "date_added": "2016-03-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 191133,
+      "name": "Whoopee Blues",
+      "url": "https://open.spotify.com/track/5FuVaxyGGdalYsL3G9pZfp"
+    },
+    {
+      "album": {
+        "name": "The McCoy Brothers (Charlie & Joe McCoy) Vol. 2 (1936-1944)",
+        "url": "https://open.spotify.com/album/1Xrq4zowgBy55Lebz45rRc"
+      },
+      "artists": [
+        {
+          "name": "Papa Charlie's Boys",
+          "url": "https://open.spotify.com/artist/3rASx4W8o44uXVrbv2DTD0"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172042,
+      "name": "You Can't Play Me Cheap",
+      "url": "https://open.spotify.com/track/2BLNnKGGohCrCZJCYQkHhR"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWSTHVqvNCwNq"
 }

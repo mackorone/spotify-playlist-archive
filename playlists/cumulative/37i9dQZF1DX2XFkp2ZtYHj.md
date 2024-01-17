@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-203 songs - 8 hr 36 min
+209 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-10-18 |  |
 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 | 2023-10-18 |  |
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-18 |  |
+| [Au matin du magicien](https://open.spotify.com/track/0P6bBjhwWbNhAC20n03PzW) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Au matin du magicien](https://open.spotify.com/album/67HlY6TafwpL0BDXMpvjfQ) | 2:02 | 2024-01-09 |  |
 | [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 | 2023-10-18 |  |
 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-18 |  |
 | [Autumnal](https://open.spotify.com/track/6i653T49GCokF7aFcgG76h) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Autumnal](https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM) | 2:04 | 2023-12-13 |  |
@@ -48,6 +49,7 @@
 | [Consolation](https://open.spotify.com/track/10J0Gos6S2zgLbTdmWMAAz) | [Jamie Bendrodt](https://open.spotify.com/artist/3NBXKIjJCcTcDmhq7cbyei) | [Consolation](https://open.spotify.com/album/26Dlhu9Mz2Wr3Dmk31zhgh) | 2:15 | 2023-10-18 |  |
 | [Corrente](https://open.spotify.com/track/6L8CQvpOSN43vjNmYwTatw) | [Scott Laudier](https://open.spotify.com/artist/51hN2Ma4SwEZOoxr0SIqQK) | [Corrente](https://open.spotify.com/album/2AgWcmJDGJ08wdzbbs6f4E) | 2:02 | 2023-10-18 |  |
 | [Countless](https://open.spotify.com/track/2D81ZsdcSyofVfZULWD2rI) | [Lynn Kay](https://open.spotify.com/artist/1y2zzoYNLRN6jCwiUzcKgE) | [Countless](https://open.spotify.com/album/2YFHlVbfyfXwHtLJnAX0o3) | 2:26 | 2023-10-18 |  |
+| [Daffodils](https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Daffodils](https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs) | 3:12 | 2024-01-09 |  |
 | [Danse avec moi](https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Danse avec moi](https://open.spotify.com/album/1dGrCWi0hfpYTTSFKE6PQr) | 2:26 | 2023-10-18 |  |
 | [Danse tout la nuit](https://open.spotify.com/track/3ja48XMPsI7C2TxHxS0UZQ) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Danse tout la nuit](https://open.spotify.com/album/1rmNlzudVpC7TrS89E6m5a) | 2:56 | 2023-10-18 |  |
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-10-18 |  |
@@ -84,6 +86,7 @@
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-10-18 |  |
 | [Harsa](https://open.spotify.com/track/4ynhellTDGYbADxBswSGAS) | [Blake Hollow](https://open.spotify.com/artist/4UvYi8W3Tfi1FOeLN6rHZ7) | [Harsa](https://open.spotify.com/album/52TFBADvgZIXGoLIoTs4z6) | 2:04 | 2023-10-18 |  |
 | [Healing](https://open.spotify.com/track/2e68vzuzRv3GFUtYDO7NBE) | [Mima Renard](https://open.spotify.com/artist/5hVW03Fp1Lfjuz9VaMmrF4) | [Healing](https://open.spotify.com/album/2DrvBABoXgq25yR3hNIFBP) | 2:06 | 2023-10-18 |  |
+| [Heron](https://open.spotify.com/track/1KHv34fVmVie0NLPeWtEZe) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Heron](https://open.spotify.com/album/0mjx0dLDaUkC5i7Tr5ViUN) | 2:14 | 2024-01-09 |  |
 | [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-10-18 |  |
 | [Himlen](https://open.spotify.com/track/08athgGdqnRmET0kInHb8n) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Himlen](https://open.spotify.com/album/0k2082EFnzxqjaNeLQElgp) | 2:01 | 2023-10-18 |  |
 | [Husk](https://open.spotify.com/track/31wi1LOTXtipf1NXgJv50H) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Husk](https://open.spotify.com/album/0MgDHH3pv3BuTUNWH1NExE) | 3:10 | 2023-10-18 |  |
@@ -166,8 +169,10 @@
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-10-18 |  |
 | [Simple Plans](https://open.spotify.com/track/5CZDntcdKNfGLxbeCkGei5) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [Simple Plans](https://open.spotify.com/album/0PGgBVaKuVwpZVP5bI6aiN) | 3:13 | 2023-10-18 |  |
 | [Sketches](https://open.spotify.com/track/4g7wXitUwsMOjZMA9m1vy6) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Sketches](https://open.spotify.com/album/11g6l4agw2isqnalKB9bbS) | 2:37 | 2023-10-18 |  |
+| [Skies Seducing The Clouds](https://open.spotify.com/track/3i1rbYtU8ktIHUIKH1pLKY) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Skies Seducing The Clouds](https://open.spotify.com/album/23PlxuVtE2wxYC8NhFkZFU) | 2:14 | 2024-01-09 |  |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-10-18 |  |
 | [Smukke SmåTing](https://open.spotify.com/track/5QMDR6TSypBIy54FoA8dIR) | [Julle Sørensen](https://open.spotify.com/artist/0kugtyGHt54hfsLQmhlUay) | [Smukke Små Ting](https://open.spotify.com/album/5LRfR2qy1MHU0Zbl6tIjDv) | 2:00 | 2023-10-18 |  |
+| [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-09 |  |
 | [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-10-18 |  |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-10-18 |  |
 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 | 2023-10-18 |  |
@@ -184,6 +189,7 @@
 | [The Curtain Rises](https://open.spotify.com/track/3AQim00WRlCfqWgwhSEVXe) | [Casimir Roux](https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW) | [The Curtain Rises](https://open.spotify.com/album/2KvuhRj0uIOlmVZdaiO5lo) | 2:05 | 2023-10-18 |  |
 | [The little princess](https://open.spotify.com/track/2TD0iYRp8fH3okp5vOAOi2) | [Juno Erikson](https://open.spotify.com/artist/7I6yDSz0uj0fzj28dGELNC) | [The little princess](https://open.spotify.com/album/6MzCfFeBDf9Ci669LpjrCF) | 2:05 | 2023-10-18 |  |
 | [The Melody](https://open.spotify.com/track/39HNrbxhyNy6v4pp48qxEf) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [The Melody](https://open.spotify.com/album/6oWBJDoAekiOCsfPlkBqxo) | 2:22 | 2023-10-18 |  |
+| [The Old Chapel](https://open.spotify.com/track/47tqkzmEb9HmxGYXA0HERN) | [Max Goethe](https://open.spotify.com/artist/2nZU81jrG7xjPA8a3pZZmf) | [The Old Chapel](https://open.spotify.com/album/4WdLOyBKFk1KV6lANVXvOL) | 2:09 | 2024-01-09 |  |
 | [The Portrait](https://open.spotify.com/track/6gzx7vC8xDp7jawrF0OIIJ) | [Nora Gray](https://open.spotify.com/artist/6Q2lui7LkSzE2Ah2EG2gla) | [The Portrait](https://open.spotify.com/album/3Gf8cw74M2kiaAhc4Y9iVx) | 2:02 | 2023-10-18 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-10-18 |  |
 | [The Year of Unravelling](https://open.spotify.com/track/0e66Y7BTyvFt5iskJrTVpY) | [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [The Year of Unravelling](https://open.spotify.com/album/6cqFzCzHOttvioayRM2McD) | 2:08 | 2023-10-18 |  |

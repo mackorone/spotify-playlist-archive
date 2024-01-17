@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tkXsEpwo5J.md) - [plain]
 
 > ¡Canciones para sonreír durante el día!
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,523 likes - 77 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,836 likes - 77 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

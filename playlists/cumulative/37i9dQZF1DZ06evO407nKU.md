@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-101 songs - 5 hr 48 min
+102 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Necesito Una Compañera](https://open.spotify.com/track/66W0CGvguqyyKN7P3O6vLg) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Contacto](https://open.spotify.com/artist/1T746ELZF5gDelGXV5W5KE) | [Necesito Una Compañera](https://open.spotify.com/album/1OZ7ft4l7WygLuF8AUJ80A) | 4:02 | 2022-06-01 |  |
 | [No La Hagas Sufrir](https://open.spotify.com/track/30cVv2focHPXf37kpTJkfV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No La Hagas Sufrir](https://open.spotify.com/album/0Ti9OKOhKoZ56iWmUVK0As) | 3:33 | 2022-06-01 |  |
 | [No Llores Mis Recuerdos](https://open.spotify.com/track/69GwBecGipqhLGjlCRGLa5) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [No Llores Mas Mis Recuerdos](https://open.spotify.com/album/7K7K6b1Z7G7o5T7i5EdPD0) | 4:42 | 2022-06-01 |  |
+| [No Me Queda Más](https://open.spotify.com/track/3CBLjl6KAB3rA7EyUARBvX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda Siempre Alegre](https://open.spotify.com/artist/30WO6EtmHcZovavQytWnGq) | [No Me Queda Más](https://open.spotify.com/album/1oyLcQ96Rk7lagy81VfTyE) | 3:05 | 2024-01-10 | 2024-01-14 |
 | [No Podras \- En Vivo](https://open.spotify.com/track/5hZEZv9bGyNlXJfY680HAJ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [No Podras \(En Vivo\)](https://open.spotify.com/album/06a8l65NEhmbgXSr0AoBto) | 3:46 | 2022-06-03 | 2022-06-24 |
 | [No Te Vallas](https://open.spotify.com/track/4uiWulj8oXHzn8isGHwUfb) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:19 | 2022-06-01 |  |
 | [No Vuelvo A Extranarte](https://open.spotify.com/track/40TKsH6bIiGJ58vU2G8HhQ) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Estas Perdida](https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb) | 3:37 | 2022-06-01 | 2022-12-14 |
@@ -82,7 +83,7 @@
 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 | 2022-06-01 |  |
 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 | 2022-06-01 |  |
 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 | 2022-10-16 |  |
-| [Santa Llegara](https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Santa Llegara](https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu) | 2:50 | 2023-12-21 |  |
+| [Santa Llegara](https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Santa Llegara](https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu) | 2:50 | 2023-12-21 | 2024-01-11 |
 | [Se Me Acabó El Tequila](https://open.spotify.com/track/6rFV17L3bx4ER3Q4epyDgz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Acabó El Tequila](https://open.spotify.com/album/3ZRpDk7M14JJf6OaLW70Ig) | 3:02 | 2022-09-08 | 2023-03-10 |
 | [Se Supone](https://open.spotify.com/track/37q02Zyig7z2kjkzfO9O3P) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:57 | 2022-06-08 | 2022-10-13 |
 | [Si Dios Me Lleva Con Él](https://open.spotify.com/track/27RJfBNvmvodPkBEaX454r) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Si Dios Me Lleva Con Él](https://open.spotify.com/album/377nvU42pVOG4MJUH36GSY) | 4:10 | 2023-11-10 |  |

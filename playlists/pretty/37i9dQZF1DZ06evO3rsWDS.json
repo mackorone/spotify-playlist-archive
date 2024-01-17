@@ -1,15 +1,15 @@
 {
   "description": "This is Chiquis. The essential tracks, all in one playlist.",
-  "num_followers": 4337,
+  "num_followers": 4386,
   "original_name": "This Is Chiquis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Mjg0MDMyOTYsMDAwMDAwMDAzMDg1ZmRmMzdiZTNlZmIyNjRhOTVkZDFlNTQ1MjFmZA==",
+  "snapshot_id": "Mjg0MjM0NTAsMDAwMDAwMDA5MDdlNjM5M2RmNWM4NzJlNjdjYmI5ZWFkZmNlYzMwNg==",
   "tracks": [
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Porque Soy Abeja Reina",
         "url": "https://open.spotify.com/album/57ZrbWvZKwAhde2snJ9MtD"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/3jiV4NZbAcQQwcafRVRx5v"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Lo Que No Sirve, Estorba",
         "url": "https://open.spotify.com/album/0I9nIeCH2dJVy8gEthtJ2t"
@@ -45,27 +45,7 @@
       "url": "https://open.spotify.com/track/5kDmZruM2jWU1A8A0o1EmN"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "CUIDADITO",
-      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
@@ -89,7 +69,7 @@
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Baila As\u00ed (feat. Chiquis)",
         "url": "https://open.spotify.com/album/0SXbEP6U9u9JLzuPVYRIGQ"
@@ -117,7 +97,27 @@
       "url": "https://open.spotify.com/track/4uZA7hxe5WZiQpOAu9lerj"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "CUIDADITO",
+      "url": "https://open.spotify.com/track/3mvAYoRe4GhiTBcUUZRsFe"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/4tiEfGlJaonFDtSTCvesoj"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Si No Te Hubieras Ido",
         "url": "https://open.spotify.com/album/3v8QrX95YDMi3YBxa1ZKIc"
@@ -153,7 +153,27 @@
       "url": "https://open.spotify.com/track/4VtVTc9e0oTVZNBqzV7IZd"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "55",
+        "url": "https://open.spotify.com/album/4yYClOIkFf8IgNNkZUhmax"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 188986,
+      "name": "55",
+      "url": "https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "No Es S\u00f3lo Un Juego (The Official Concacaf Gold Cup 2023[TM] Theme)",
         "url": "https://open.spotify.com/album/7EtV6Wqr1xceSUfxYANlTM"
@@ -185,27 +205,7 @@
       "url": "https://open.spotify.com/track/7CKoaV13hpfEtlWQyvIe4N"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "55",
-        "url": "https://open.spotify.com/album/4yYClOIkFf8IgNNkZUhmax"
-      },
-      "artists": [
-        {
-          "name": "Raymix",
-          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "55",
-      "url": "https://open.spotify.com/track/2fkTJEDxZm7TrSqcBfPlKm"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/7aECAo13wkVlY6n2zrN9NF"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
@@ -241,7 +241,23 @@
       "url": "https://open.spotify.com/track/3yeCINGZ8cCCoIVV5XZfdV"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "CHIQUIS - BEE SIDE",
+        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "LA QUE MANDA",
+      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Ni Muerta",
         "url": "https://open.spotify.com/album/45ID2WdGfnY0a0d9kjMdzE"
@@ -261,23 +277,7 @@
       "url": "https://open.spotify.com/track/1i6t6hQBpdzrXElkROHNfp"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "CHIQUIS - BEE SIDE",
-        "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "LA QUE MANDA",
-      "url": "https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/0pLKMaxmAAGf7ZHT9kgwWf"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
@@ -309,7 +309,23 @@
       "url": "https://open.spotify.com/track/0PcWZ9IaLl1CARhX1KFmQB"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "Horas Extras",
+      "url": "https://open.spotify.com/track/1bGuvf2hlATjmaZyOnC5KI"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
         "url": "https://open.spotify.com/album/6XQpgJ9LkDhEOGumF82Ui7"
@@ -329,23 +345,7 @@
       "url": "https://open.spotify.com/track/0KOk1oIIdfKrRNPSPH29eH"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "Horas Extras",
-      "url": "https://open.spotify.com/track/1bGuvf2hlATjmaZyOnC5KI"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Paloma Blanca",
         "url": "https://open.spotify.com/album/7jGwTVjD5GOy8cUQqhJpsI"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/0qTmcxa3HhdKEH0wftscnQ"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
@@ -381,27 +381,7 @@
       "url": "https://open.spotify.com/track/5JVXllbz06BpTbXbCRpplt"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Este Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 187866,
-      "name": "Este Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
@@ -412,12 +392,12 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
+      "duration_ms": 183413,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -441,23 +421,27 @@
       "url": "https://open.spotify.com/track/4R791ewd5qMWccXIqjGhJk"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
-        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
-        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+        "name": "Este Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0oOLgzgfwsY1iO9gn2L7Pn"
       },
       "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 188786,
-      "name": "No Llega El Olvido - En Vivo",
-      "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
+      "duration_ms": 187866,
+      "name": "Este Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/55y4GEIQV1ucqp4AnQY4h0"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Abeja Reina",
         "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
@@ -473,7 +457,7 @@
       "url": "https://open.spotify.com/track/3DqgiYt83EiFtzxRgcq7Y5"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
@@ -484,44 +468,12 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Vas a Volver",
-      "url": "https://open.spotify.com/track/7bPmWk7RrBvfHiuuiWGxLF"
+      "duration_ms": 206426,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/08XuJbkDmwrgLdIvZVdPK7"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Quiero Amanecer Con Alguien",
-        "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Quiero Amanecer Con Alguien",
-      "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 229893,
-      "name": "Esa No Soy Yo",
-      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -541,7 +493,39 @@
       "url": "https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 229893,
+      "name": "Esa No Soy Yo",
+      "url": "https://open.spotify.com/track/0KP6ZRIx0ncKnzlm44S1s0"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 188786,
+      "name": "No Llega El Olvido - En Vivo",
+      "url": "https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
@@ -550,54 +534,14 @@
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 177240,
-      "name": "Quisieran Tener Mi Lugar",
-      "url": "https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB"
+      "duration_ms": 153653,
+      "name": "Cuanto Te Debo",
+      "url": "https://open.spotify.com/track/2bm3WtYeZKkr2bPp2i9goV"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "No Regresar\u00e1s",
-        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 170106,
-      "name": "No Regresar\u00e1s",
-      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "S\u00f3lo Qu\u00e9date En Silencio",
-        "url": "https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE"
-      },
-      "artists": [
-        {
-          "name": "Aaron Y Su Grupo Ilusion",
-          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
-        },
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Homenaje a la Gran Se\u00f1ora",
         "url": "https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr"
@@ -617,7 +561,39 @@
       "url": "https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Quiero Amanecer Con Alguien",
+        "url": "https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Quiero Amanecer Con Alguien",
+      "url": "https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "No Regresar\u00e1s",
+        "url": "https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 170106,
+      "name": "No Regresar\u00e1s",
+      "url": "https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
@@ -626,14 +602,18 @@
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 153653,
-      "name": "Cuanto Te Debo",
-      "url": "https://open.spotify.com/track/2bm3WtYeZKkr2bPp2i9goV"
+      "duration_ms": 177240,
+      "name": "Quisieran Tener Mi Lugar",
+      "url": "https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "An\u00edmate Y Ver\u00e1s",
         "url": "https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI"
@@ -649,7 +629,7 @@
       "url": "https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
@@ -665,27 +645,23 @@
       "url": "https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
-        "name": "Me Mocho Un Huevo",
-        "url": "https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH"
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
       },
       "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        },
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 136613,
-      "name": "Me Mocho Un Huevo",
-      "url": "https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG"
+      "duration_ms": 215306,
+      "name": "La Malquerida",
+      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Entre Botellas",
         "url": "https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2"
@@ -705,10 +681,10 @@
       "url": "https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
       },
       "artists": [
         {
@@ -716,12 +692,12 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 215306,
-      "name": "La Malquerida",
-      "url": "https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J"
+      "duration_ms": 218906,
+      "name": "Con La Misma Bala",
+      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
@@ -737,7 +713,7 @@
       "url": "https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Amandote (Mariachi)",
         "url": "https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6"
@@ -757,7 +733,27 @@
       "url": "https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "S\u00f3lo Qu\u00e9date En Silencio",
+        "url": "https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -766,21 +762,17 @@
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 203013,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
+      "duration_ms": 164440,
+      "name": "Gracias Por Tu Participaci\u00f3n",
+      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
-        "name": "Abeja Reina",
-        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
+        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
+        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
       },
       "artists": [
         {
@@ -788,12 +780,32 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 197293,
-      "name": "La Que Est\u00e1 De Moda Soy Yo",
-      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
+      "duration_ms": 99586,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Me Mocho Un Huevo",
+        "url": "https://open.spotify.com/album/5ft1SODMyfZ15pYmC2QwwH"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 136613,
+      "name": "Me Mocho Un Huevo",
+      "url": "https://open.spotify.com/track/0YIropGYKGLj4e864f9aPG"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8"
@@ -813,23 +825,7 @@
       "url": "https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
-        "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 99586,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/4J7eXQNjpi9610dOGuKmPd"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Playlist",
         "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
@@ -838,46 +834,18 @@
         {
           "name": "Chiquis",
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 218906,
-      "name": "Con La Misma Bala",
-      "url": "https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
-      },
-      "artists": [
+        },
         {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 156480,
-      "name": "Aprovechame",
-      "url": "https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo"
+      "duration_ms": 203013,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
-      "album": {
-        "name": "La Necia",
-        "url": "https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 142117,
-      "name": "La Necia",
-      "url": "https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA"
-    },
-    {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "Chiquis En Vivo Desde Lunario Ciudad De M\u00e9xico (Long Play)",
         "url": "https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf"
@@ -893,10 +861,10 @@
       "url": "https://open.spotify.com/track/3gZK6bikZYLziuC4nSzTt6"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x"
+        "name": "Abeja Reina",
+        "url": "https://open.spotify.com/album/1iwNDBPZyNFQ04gl7GcmXQ"
       },
       "artists": [
         {
@@ -904,12 +872,12 @@
           "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Gracias Por Tu Participaci\u00f3n",
-      "url": "https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl"
+      "duration_ms": 197293,
+      "name": "La Que Est\u00e1 De Moda Soy Yo",
+      "url": "https://open.spotify.com/track/19BMWaMujDtxIqKqjcbrCM"
     },
     {
-      "added_at": "2024-01-02 12:16:00",
+      "added_at": "2024-01-16 12:10:45",
       "album": {
         "name": "CHIQUIS - BEE SIDE",
         "url": "https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4"
@@ -923,6 +891,38 @@
       "duration_ms": 190373,
       "name": "PA' TI",
       "url": "https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Aprovechame",
+      "url": "https://open.spotify.com/track/5hcIERk40cDLq5Ifv4rsFo"
+    },
+    {
+      "added_at": "2024-01-16 12:10:45",
+      "album": {
+        "name": "La Necia",
+        "url": "https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 142117,
+      "name": "La Necia",
+      "url": "https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA"
     }
   ],
   "unique_name": "This Is Chiquis",

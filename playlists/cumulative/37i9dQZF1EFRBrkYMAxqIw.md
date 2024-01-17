@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 5 hr 48 min
+111 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 | 2022-05-25 |  |
 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 | 2022-05-25 |  |
 | [Like I Love You \(feat\. The NGHBRS\)](https://open.spotify.com/track/6sPi3kYHqqNDfbMtGDyfiZ) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The NGHBRS](https://open.spotify.com/artist/2YYAp30sXeDAKiTLMfKGTT) | [Alive and Feeling Fine](https://open.spotify.com/album/0NhWhLZutLeTq1cpqKfey7) | 3:10 | 2022-05-25 |  |
-| [Lose This Feeling](https://open.spotify.com/track/39D5kQQJUO4xPFXUSnFKBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/3VYph5PjoXJW1xVW2hkpbu) | 2:26 | 2023-12-13 |  |
+| [Lose This Feeling](https://open.spotify.com/track/39D5kQQJUO4xPFXUSnFKBm) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Lose This Feeling](https://open.spotify.com/album/3VYph5PjoXJW1xVW2hkpbu) | 2:26 | 2023-12-13 | 2024-01-15 |
+| [Lose This Feeling](https://open.spotify.com/track/4tV6C36fjDmz0kzlFIdx3o) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Breathe In](https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw) | 2:26 | 2024-01-14 |  |
 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 | 2022-05-25 |  |
 | [Magic Still Exists](https://open.spotify.com/track/0udYwuCYpStSlVouEDS7EW) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:22 | 2022-05-25 |  |
 | [Masochistic](https://open.spotify.com/track/43jcYOGtdpeEWjfiH1HP8w) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/0zvq9DXtDBvBO37aazJGGZ) | 2:40 | 2023-12-13 |  |

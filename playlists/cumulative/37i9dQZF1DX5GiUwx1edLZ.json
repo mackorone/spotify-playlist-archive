@@ -1106,7 +1106,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 239772,
-      "name": "Feel Good (feat. Daya) - Acoustic",
+      "name": "Feel Good (with Daya) - Acoustic",
       "url": "https://open.spotify.com/track/3VuLFnOmk8EjVyehCJfzhT"
     },
     {
@@ -2455,6 +2455,28 @@
     },
     {
       "album": {
+        "name": "Moon Faces",
+        "url": "https://open.spotify.com/album/3OWD8bRfIM1uY2AyijHaEV"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        },
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Lost - Acoustic",
+      "url": "https://open.spotify.com/track/64rwYWim5lPgFRzn2DBOEa"
+    },
+    {
+      "album": {
         "name": "Lost Again (feat. Norah B)",
         "url": "https://open.spotify.com/album/6irKYOx6u5ZSTHzASZBcBd"
       },
@@ -2996,7 +3018,7 @@
       ],
       "date_added": "2023-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-07",
       "duration_ms": 112173,
       "name": "Ones You Miss - Acoustic",
       "url": "https://open.spotify.com/track/62SkGDuBT9YGE11bLCuSJl"

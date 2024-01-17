@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7l1RPnIJYx4QWCQf2sNBJF">Stevie Bashir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151 likes - 58 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 158 likes - 58 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 21 | [Follow Me \(Into the Sun\)](https://open.spotify.com/track/1am9iMOzvV1VrhwCBsPmbc) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Follow Me \(Into the Sun\)](https://open.spotify.com/album/6L7ZEimKo9L67LdkYd8HpZ) | 1:35 |
 | 22 | [Between The Lies](https://open.spotify.com/track/6wt5mtCAxAgFJ084gobHGx) | [DHALI](https://open.spotify.com/artist/0sUz3y3TQ9UlD5qehZHfwT) | [Between The Lies](https://open.spotify.com/album/5OvACh4nCKjELix6o8yOxH) | 3:01 |
 | 23 | [If This Ain't Love](https://open.spotify.com/track/7oBIOtw4TmPPEHB9mxnfoS) | [LOFLY](https://open.spotify.com/artist/6Nq0fa6pYLroAcMDPenPsk), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [If This Ain't Love](https://open.spotify.com/album/54f7eAbmDVQTMCv7XMikTL) | 2:18 |
-| 24 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
-| 25 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 24 | [erste liebe](https://open.spotify.com/track/24p3rBwIunzXjt8WOwu3eL) | [Revelle](https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA) | [immer nur liebe](https://open.spotify.com/album/2D1YT6jEDEITABsSXuU0MY) | 2:48 |
+| 25 | [Patience](https://open.spotify.com/track/6KOUe5ChPxS3CCXhwfdcAc) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ) | [Change](https://open.spotify.com/album/3eVo6FsmJqf8yooeCUiJFC) | 2:49 |
 | 26 | [Moonlight](https://open.spotify.com/track/5KrBTqQJlYtKyn3JU3MXOA) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Moonlight](https://open.spotify.com/album/44RntYU90KXg2eCH9zj9Lq) | 2:20 |
 | 27 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 |
 | 28 | [Guilty](https://open.spotify.com/track/1acexIzypi1joCwS2hbkiY) | [Asher Angel](https://open.spotify.com/artist/48wfV4LAYtBe3r5SdjvjHX) | [Guilty](https://open.spotify.com/album/4a8rIXcOFlaNyvXKoO9GOQ) | 2:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 39 | [SAD](https://open.spotify.com/track/78miAo3Fob7E0bm3mHNuqQ) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [SAD](https://open.spotify.com/album/1MNE05lqlI864EcgstSQyf) | 2:41 |
 | 40 | [Diese eine Melodie](https://open.spotify.com/track/7DwX8Th7ZptXoiXXwFjCib) | [Alex Lys](https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec) | [Diese eine Melodie](https://open.spotify.com/album/1EmOdYjJP6yu5BjSfkyvaK) | 2:55 |
 | 41 | [Gone for Good](https://open.spotify.com/track/7ay7NUJBH3Sh5fyaJd8V0R) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Gone for Good](https://open.spotify.com/album/7GxwZXchbvbGixgHnrNiXr) | 2:33 |
-| 42 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
-| 43 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
+| 42 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 |
+| 43 | [Next to You](https://open.spotify.com/track/0JJTRwLHHtjMbR1cxjN61h) | [Myles Green](https://open.spotify.com/artist/056UtN0LwZFbayHkU45DEb) | [Next to You](https://open.spotify.com/album/7gdmXNNzOaA9GTT5Xb57lY) | 2:44 |
 | 44 | [Nightfall](https://open.spotify.com/track/13lJ85FoC72fNT6uksMa8v) | [Sandé](https://open.spotify.com/artist/1LPyiIK0Tgl0WtfiNmbE25) | [Nightfall](https://open.spotify.com/album/2vndOzLX4qVe2GTu7JF7Sk) | 2:37 |
 | 45 | [Nicht mal meine Freunde](https://open.spotify.com/track/3tV3YF1gTHfrb85CtJmbpA) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Nicht mal meine Freunde](https://open.spotify.com/album/1SwXrU8y94KJAgF4YClMFj) | 2:17 |
 | 46 | [Love Me Fair](https://open.spotify.com/track/6whgc901oHG6KU7zgi7Wrl) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Tetric](https://open.spotify.com/artist/0juduZf6RkEeIkMSJMpDaS), [boy with a scar](https://open.spotify.com/artist/7kunuxTlJDipiIZpC1aZqZ) | [Love Me Fair](https://open.spotify.com/album/7lRR58WWGvhoNezEqRDclz) | 2:40 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAAKtXkfKzuV.md) - [plain]
 | 57 | [Flimmerlicht](https://open.spotify.com/track/7J2aP9q1HDpq7edb4b7sK5) | [48 Stunden](https://open.spotify.com/artist/0lzjvvk1UkMwgbpDYlpE7M) | [Der Letzte Sommer](https://open.spotify.com/album/3i9sd6fOlY6b6EVrs6lzT6) | 4:04 |
 | 58 | [Superstars \(Tonight\) \- Original](https://open.spotify.com/track/67U3q4t5IS3hq4uzpn1avq) | [Rush Hour](https://open.spotify.com/artist/5NlrkQ9wUg4sDUZ0DcgNfq) | [Superstars \(Tonight\)](https://open.spotify.com/album/2sUMawAATz5SuhOfkjlYxw) | 4:45 |
 
-Snapshot ID: `Mjg0MDQxNDAsMDAwMDAwMDA4YzU0MmY0ZWM5M2Q1YWVkZWIxZTM0NDAwYmZmMmVmYw==`
+Snapshot ID: `Mjg0MjQzMDAsMDAwMDAwMDAwMTYwZjNhZDVlMzU5YmQ2NmI5MTJhZWIxZGQ5MzE5OA==`

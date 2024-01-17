@@ -6,298 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDAwMDAwMDJkYzMzYjU5M2Q2NGJiOGY0NzA5YzIwYWZiYjVmNTE0",
+  "snapshot_id": "MCwwMDAwMDAwMGI5OTEzOThkNjY5NGNjYmZlNDBiZjBmOTlhYTYzYTNj",
   "tracks": [
     {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 169186,
-      "name": "Bad Reputation",
-      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "The Dethalbum",
-        "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
-      },
-      "artists": [
-        {
-          "name": "Metalocalypse: Dethklok",
-          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Awaken",
-      "url": "https://open.spotify.com/track/1t7VssS676p12e1GKx2Rgr"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Delithium",
-        "url": "https://open.spotify.com/album/0pTO6zPznx53ijbagP6hwp"
-      },
-      "artists": [
-        {
-          "name": "Alcoholika La Christo",
-          "url": "https://open.spotify.com/artist/2wcQ9ygMF236f1YkkrlT2D"
-        }
-      ],
-      "duration_ms": 298400,
-      "name": "Warmikuna Yupay-Chasqapuni Kasunchik",
-      "url": "https://open.spotify.com/track/3BBuihi9T5iGaV0Tt0ht8V"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Calibraciones (sin censura)",
-        "url": "https://open.spotify.com/album/29AfacZ6kMOzc1r5sP0XfR"
-      },
-      "artists": [
-        {
-          "name": "Aparato Raro",
-          "url": "https://open.spotify.com/artist/4aOE1rge6wMSa04xlFxc3Q"
-        }
-      ],
-      "duration_ms": 205824,
-      "name": "Calibraciones (sin censura)",
-      "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK"
-      },
-      "artists": [
-        {
-          "name": "Sex Bob-Omb",
-          "url": "https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ"
-        }
-      ],
-      "duration_ms": 103880,
-      "name": "Garbage Truck",
-      "url": "https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 260371,
-      "name": "Nunca quise",
-      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Rendirse Jam\u00e1s",
-        "url": "https://open.spotify.com/album/613kBpxdeipQLxZ5KNN7dn"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 160995,
-      "name": "Los Dos Gallos",
-      "url": "https://open.spotify.com/track/4oP6TmXsfPrHzvsD3OwkgZ"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Terraja",
-        "url": "https://open.spotify.com/album/6lN38PkdmzvHad0xGdSXtN"
-      },
-      "artists": [
-        {
-          "name": "Peyote Asesino",
-          "url": "https://open.spotify.com/artist/2cYeADErfbwZ0xIP19KeWD"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "Mal De La Cabeza",
-      "url": "https://open.spotify.com/track/7MZWoY8ZFqopFFVqbnv8Mc"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "The Smiths",
-        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
-      },
-      "artists": [
-        {
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "duration_ms": 201746,
-      "name": "Still Ill - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0uLI1jac8ZJSSRG4QJDo3J"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "La Grasa de las Capitales: Edici\u00f3n 40\u00ba Aniversario",
-        "url": "https://open.spotify.com/album/5lp7CMQbROn0mpFWZLaPf3"
-      },
-      "artists": [
-        {
-          "name": "Ser\u00fa Gir\u00e1n",
-          "url": "https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1"
-        }
-      ],
-      "duration_ms": 268320,
-      "name": "La Grasa de las Capitales",
-      "url": "https://open.spotify.com/track/13dtguSlp2rssEcyxUyZVC"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Middle of the Rounds",
-        "url": "https://open.spotify.com/album/1HOXY8skvomfnr5J6fqYjX"
-      },
-      "artists": [
-        {
-          "name": "Fun People",
-          "url": "https://open.spotify.com/artist/11wlHSvQVZGIJ5D1sTsihZ"
-        }
-      ],
-      "duration_ms": 196013,
-      "name": "Its a Heartache",
-      "url": "https://open.spotify.com/track/3qJligJKHNE6Gvm5VHVlUe"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Burn in Hell",
-      "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Almendra (50 A\u00f1os)",
-        "url": "https://open.spotify.com/album/23jZzJ9u5M9p03nf84zuO1"
-      },
-      "artists": [
-        {
-          "name": "Almendra",
-          "url": "https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "Ana No Duerme",
-      "url": "https://open.spotify.com/track/2P2tl8JT698TJJ55ScKyku"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Almafuerte",
-        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
-      },
-      "artists": [
-        {
-          "name": "Almafuerte",
-          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "S\u00e9 Vos",
-      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 273066,
-      "name": "Sunday Morning",
-      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Naufragios",
-        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
-      },
-      "artists": [
-        {
-          "name": "Mikel Erentxun",
-          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Esta luz nunca se apagar\u00e1 - There Is a Light That Never Goes Out",
-      "url": "https://open.spotify.com/track/5kDvGOJLmYttWjHMcwxlT5"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
-      "album": {
-        "name": "Pa Juga",
-        "url": "https://open.spotify.com/album/7bmVHthQdssz24Ro5WHW27"
-      },
-      "artists": [
-        {
-          "name": "Los Olestar",
-          "url": "https://open.spotify.com/artist/5d8Cc6SCMo59MdgsnCiWti"
-        }
-      ],
-      "duration_ms": 222720,
-      "name": "Nunca Me Faltes",
-      "url": "https://open.spotify.com/track/1YQZJapVl2uxJmmRytoMGt"
-    },
-    {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
         "name": "Narcisista",
         "url": "https://open.spotify.com/album/0hToDKGzPWAXCrr7n2sKlM"
@@ -313,23 +25,71 @@
       "url": "https://open.spotify.com/track/7ECZGiOoEPSxnPBU25Tc3f"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "XX Aniversario En Vivo - Magos, Espadas Y Rosas",
-        "url": "https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1gB28ytYFQElaXngAfeYep"
       },
       "artists": [
         {
-          "name": "Rata Blanca",
-          "url": "https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd"
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 324808,
-      "name": "La Leyenda del Hada y el Mago - Vivo",
-      "url": "https://open.spotify.com/track/46nYeZImWSsOebaCUrfEW1"
+      "duration_ms": 169186,
+      "name": "Bad Reputation",
+      "url": "https://open.spotify.com/track/7pu8AhGUxHZSCWTkQ2eb5M"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Scott Pilgrim vs. the World (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3q1e0dxZARuaHxZkLzgErK"
+      },
+      "artists": [
+        {
+          "name": "Sex Bob-Omb",
+          "url": "https://open.spotify.com/artist/0epidpyARaIPmKpFUwcgnJ"
+        }
+      ],
+      "duration_ms": 103880,
+      "name": "Garbage Truck",
+      "url": "https://open.spotify.com/track/4YbslGpDoOgJgH8wqSdfaP"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "2en2",
+        "url": "https://open.spotify.com/album/0kGLgLzFeLxSdcsDogpAZm"
+      },
+      "artists": [
+        {
+          "name": "Narc\u00f3ticos",
+          "url": "https://open.spotify.com/artist/28odysEHFYNKSZSGdEUjAF"
+        }
+      ],
+      "duration_ms": 138399,
+      "name": "2en2",
+      "url": "https://open.spotify.com/track/7DT4BSlwhQV8RoSTvxrSev"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Break - Live",
+        "url": "https://open.spotify.com/album/6I4pFRIEZsVgRdpoanRuTG"
+      },
+      "artists": [
+        {
+          "name": "Speed of Light",
+          "url": "https://open.spotify.com/artist/3cNtvAs3DPIj46Z5BOU4fD"
+        }
+      ],
+      "duration_ms": 171988,
+      "name": "Break - Live",
+      "url": "https://open.spotify.com/track/1IkupPgkHxVxCAqGSBzSqS"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
       "album": {
         "name": "Montage Of Heck: The Home Recordings (Deluxe Soundtrack)",
         "url": "https://open.spotify.com/album/1nG8mArxQsJplIY6w50aQg"
@@ -345,39 +105,199 @@
       "url": "https://open.spotify.com/track/4jK6bBO2JbkvvgT7FPj8c5"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "Dial\u00e9ctica Negativa",
-        "url": "https://open.spotify.com/album/4kmcwwhOUWaZEih8UR7xla"
+        "name": "Vinito Tinto",
+        "url": "https://open.spotify.com/album/24wmzmmja5LNhHdLEl4gqc"
       },
       "artists": [
         {
-          "name": "Asamblea Internacional Del Fuego",
-          "url": "https://open.spotify.com/artist/0MAY5G6a8N7KVAh60z8dMa"
+          "name": "Sebastian Castro elpasto",
+          "url": "https://open.spotify.com/artist/5OPHmKulybNP3t4OZIQBDQ"
         }
       ],
-      "duration_ms": 308323,
-      "name": "El sonido de los helic\u00f3pteros",
-      "url": "https://open.spotify.com/track/0MkwaxQXpUMfjtJbcZHubr"
+      "duration_ms": 169799,
+      "name": "Vinito tinto",
+      "url": "https://open.spotify.com/track/0vW0DzIntmHv8CZoK1i5cx"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "El Jardin de los Presentes",
-        "url": "https://open.spotify.com/album/0lbpA4dCZfaNhy6LZrGDvJ"
+        "name": "Almafuerte",
+        "url": "https://open.spotify.com/album/2EC1fS6uKutEPexAfOgBEl"
       },
       "artists": [
         {
-          "name": "Invisible",
-          "url": "https://open.spotify.com/artist/3FjdJbt6Myq32uv7P4owM1"
+          "name": "Almafuerte",
+          "url": "https://open.spotify.com/artist/6qYd7xlmeeeDkPfx6mZ9PV"
         }
       ],
-      "duration_ms": 306626,
-      "name": "El Anillo del Capit\u00e1n Beto",
-      "url": "https://open.spotify.com/track/23jMDvKil4frbTA35BVzBY"
+      "duration_ms": 244426,
+      "name": "S\u00e9 Vos",
+      "url": "https://open.spotify.com/track/4MUhGA8YfsYDqD4NhTUtSf"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "The Dethalbum",
+        "url": "https://open.spotify.com/album/6YVSzU89AisNDfVK4HUt69"
+      },
+      "artists": [
+        {
+          "name": "Metalocalypse: Dethklok",
+          "url": "https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Awaken",
+      "url": "https://open.spotify.com/track/1t7VssS676p12e1GKx2Rgr"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 273066,
+      "name": "Sunday Morning",
+      "url": "https://open.spotify.com/track/6yCjhDzcVIfxvTjBKhhn7P"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Al Extremo",
+        "url": "https://open.spotify.com/album/5GCaEP8hpiP1CDQIwBCawT"
+      },
+      "artists": [
+        {
+          "name": "TERREVIENTO",
+          "url": "https://open.spotify.com/artist/36YEXWnuKM9q4GehP3JwQX"
+        }
+      ],
+      "duration_ms": 274453,
+      "name": "Bala perdida",
+      "url": "https://open.spotify.com/track/10pbPf8GUBP5lfRIktyXau"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Calibraciones (sin censura)",
+        "url": "https://open.spotify.com/album/29AfacZ6kMOzc1r5sP0XfR"
+      },
+      "artists": [
+        {
+          "name": "Aparato Raro",
+          "url": "https://open.spotify.com/artist/4aOE1rge6wMSa04xlFxc3Q"
+        }
+      ],
+      "duration_ms": 205824,
+      "name": "Calibraciones (sin censura)",
+      "url": "https://open.spotify.com/track/2mjMjovgyCRqEdLAe4NGv9"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Pa Juga",
+        "url": "https://open.spotify.com/album/7bmVHthQdssz24Ro5WHW27"
+      },
+      "artists": [
+        {
+          "name": "Los Olestar",
+          "url": "https://open.spotify.com/artist/5d8Cc6SCMo59MdgsnCiWti"
+        }
+      ],
+      "duration_ms": 222720,
+      "name": "Nunca Me Faltes",
+      "url": "https://open.spotify.com/track/1YQZJapVl2uxJmmRytoMGt"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Quien Mato A Gaete?",
+        "url": "https://open.spotify.com/album/2YVQNMOpkDlqKRx8dskEsb"
+      },
+      "artists": [
+        {
+          "name": "Mauricio Redoles",
+          "url": "https://open.spotify.com/artist/30iOgrPV86QMnMsPOJYHOJ"
+        }
+      ],
+      "duration_ms": 404626,
+      "name": "Quien Mato A Gaete?",
+      "url": "https://open.spotify.com/track/6w8prGxDTuaO2auLOTbMa5"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Habemus Sed",
+        "url": "https://open.spotify.com/album/0FtFUzNNMJVswDtXkccGHs"
+      },
+      "artists": [
+        {
+          "name": "Los Mox!",
+          "url": "https://open.spotify.com/artist/3vOhBYpEKYtJhZcQWh0Q4Q"
+        }
+      ],
+      "duration_ms": 57800,
+      "name": "Estoy Pal Copy Paste",
+      "url": "https://open.spotify.com/track/1gF7Zzvp70Rnl1MU3JH4Lo"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Los Greatest Hits",
+        "url": "https://open.spotify.com/album/5wj4GuysdU2LCHTsz0qUM8"
+      },
+      "artists": [
+        {
+          "name": "El Retorno de Exxon Valdez",
+          "url": "https://open.spotify.com/artist/5yvjCntEWMLAG4icUKLxje"
+        }
+      ],
+      "duration_ms": 103105,
+      "name": "Que Te Vas",
+      "url": "https://open.spotify.com/track/4yWlGF6zWvhRgDwnNzE3Ge"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
       "album": {
         "name": "Especial",
         "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
@@ -393,39 +313,103 @@
       "url": "https://open.spotify.com/track/2kB1rqoTaZ3j6ChtIWGurm"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "Sailing The Seas Of Cheese",
-        "url": "https://open.spotify.com/album/2sjF68plsvYE7M3FaMf6rD"
+        "name": "Primera Dosis",
+        "url": "https://open.spotify.com/album/0rP2h3mwqh0H8wD5EKy6lQ"
       },
       "artists": [
         {
-          "name": "Primus",
-          "url": "https://open.spotify.com/artist/64mPnRMMeudAet0E62ypkx"
+          "name": "Narcosis",
+          "url": "https://open.spotify.com/artist/1hi8l9DM1zXWOjV3Y2frzL"
         }
       ],
-      "duration_ms": 253960,
-      "name": "Tommy The Cat",
-      "url": "https://open.spotify.com/track/0kquzTsZG4m9qmLJaPSY9U"
+      "duration_ms": 229997,
+      "name": "Sucio Policia",
+      "url": "https://open.spotify.com/track/5ZMYggZmihQ4D7p7OUq3qX"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "Mal Momento",
-        "url": "https://open.spotify.com/album/6U5GRDRvit5ByPpKOx5vQ7"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "Mal Momento",
-          "url": "https://open.spotify.com/artist/3e10QpiUTMOykbAe9AAkbn"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
         }
       ],
-      "duration_ms": 153000,
-      "name": "El Amor No Es para M\u00ed",
-      "url": "https://open.spotify.com/track/5wrFXPk9ia4soXqDmZYFlJ"
+      "duration_ms": 260371,
+      "name": "Nunca quise",
+      "url": "https://open.spotify.com/track/0ZAJ660VP57lLK4U7NlGOy"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Raro",
+        "url": "https://open.spotify.com/album/44tyZ9zUs78EJPDlcqLmh1"
+      },
+      "artists": [
+        {
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "Ya No Se Que Hacer Conmigo",
+      "url": "https://open.spotify.com/track/3vUWWpeAUDowjEgTcpsbSE"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Greatest Love Songs Vol. 666",
+        "url": "https://open.spotify.com/album/2p7iWrYivSiCScrpNI4qiD"
+      },
+      "artists": [
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        }
+      ],
+      "duration_ms": 367960,
+      "name": "When Love and Death Embrace",
+      "url": "https://open.spotify.com/track/7p9fJOQJJFzE8pkQ99v6yb"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/7KYezTbex93UdPTFzoCzRh"
+      },
+      "artists": [
+        {
+          "name": "Difonia",
+          "url": "https://open.spotify.com/artist/1U7rSOnS5iKijRg7ui7tPj"
+        }
+      ],
+      "duration_ms": 320293,
+      "name": "El Himno",
+      "url": "https://open.spotify.com/track/6ySGtcU6rehPcsxwWX2K83"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Gira Tu Rabia",
+        "url": "https://open.spotify.com/album/3d0uDqL8CWNdCzNfI1sJKs"
+      },
+      "artists": [
+        {
+          "name": "Nepentes",
+          "url": "https://open.spotify.com/artist/6lr2jpx9Smypvs8mYTxhBn"
+        }
+      ],
+      "duration_ms": 272306,
+      "name": "Somos Violentos",
+      "url": "https://open.spotify.com/track/1QDHzn1IcUJSrS8ewBf3SA"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
       "album": {
         "name": "3980",
         "url": "https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W"
@@ -441,52 +425,68 @@
       "url": "https://open.spotify.com/track/5PSCWHpXi8I45NXURHyhBA"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "Weighting",
-        "url": "https://open.spotify.com/album/3Hzbsa12dN6IO6Rnv53j89"
+        "name": "Naufragios",
+        "url": "https://open.spotify.com/album/16RM2JFvsvSSSlylWmxhSV"
       },
       "artists": [
         {
-          "name": "Rollins Band",
-          "url": "https://open.spotify.com/artist/5tdgsNGbOvPQZjcco3yOMt"
+          "name": "Mikel Erentxun",
+          "url": "https://open.spotify.com/artist/7thnnayFyJnVOAJrpe5wMC"
         }
       ],
-      "duration_ms": 485893,
-      "name": "Liar - Live",
-      "url": "https://open.spotify.com/track/2z0T2ifNBfAP06IcYo7USy"
+      "duration_ms": 203293,
+      "name": "Esta luz nunca se apagar\u00e1 - There Is a Light That Never Goes Out",
+      "url": "https://open.spotify.com/track/5kDvGOJLmYttWjHMcwxlT5"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "First Impressions Of Earth",
-        "url": "https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n"
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         }
       ],
-      "duration_ms": 189226,
-      "name": "You Only Live Once",
-      "url": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV"
+      "duration_ms": 265933,
+      "name": "Charisma",
+      "url": "https://open.spotify.com/track/6afDASlKWMARNxYSrCAAf8"
     },
     {
-      "added_at": "2024-01-01 03:00:00",
+      "added_at": "2024-01-15 03:00:00",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "Tumbao Rebelde",
+        "url": "https://open.spotify.com/album/79KRqKoFBapCLc4bPnRAmq"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Santo Barrio",
+          "url": "https://open.spotify.com/artist/6beLuXzMKO2cWSMdy1gP7s"
         }
       ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+      "duration_ms": 82640,
+      "name": "Pega Fuerte",
+      "url": "https://open.spotify.com/track/4XiPXYjqS35cKbaoUhnwuJ"
+    },
+    {
+      "added_at": "2024-01-15 03:00:00",
+      "album": {
+        "name": "Qukman Muskiy",
+        "url": "https://open.spotify.com/album/7M4dmh7A55ze5F5Yv6nyHd"
+      },
+      "artists": [
+        {
+          "name": "UCHPA",
+          "url": "https://open.spotify.com/artist/1VSjp8YngdWVpuo7NI6s8Z"
+        }
+      ],
+      "duration_ms": 266760,
+      "name": "Coraz\u00f3n contento",
+      "url": "https://open.spotify.com/track/07oTWfPzkBAb8lfwU1nsnH"
     }
   ],
   "unique_name": "Discover Weekly (@pipemanuel10)",

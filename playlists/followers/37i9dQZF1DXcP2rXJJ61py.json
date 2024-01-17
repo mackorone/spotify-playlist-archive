@@ -1,486 +1,1575 @@
 {
-  "2022-09-01": 8032,
-  "2022-09-02": 8189,
-  "2022-09-03": 8337,
-  "2022-09-04": 8401,
-  "2022-09-05": 8748,
-  "2022-09-06": 9480,
-  "2022-09-07": 9663,
-  "2022-09-09": 9864,
-  "2022-09-10": 9919,
-  "2022-09-11": 10000,
-  "2022-09-12": 10297,
-  "2022-09-13": 11075,
-  "2022-09-15": 11377,
-  "2022-09-16": 11462,
-  "2022-09-17": 11545,
-  "2022-09-18": 11626,
-  "2022-09-19": 11927,
-  "2022-09-20": 12793,
-  "2022-09-21": 12997,
-  "2022-09-22": 13134,
-  "2022-09-23": 13281,
-  "2022-09-24": 13396,
-  "2022-09-25": 13495,
-  "2022-09-26": 13828,
-  "2022-09-27": 14481,
-  "2022-09-28": 14605,
-  "2022-09-29": 14691,
-  "2022-09-30": 14800,
-  "2022-10-01": 14871,
-  "2022-10-02": 14949,
-  "2022-10-03": 15221,
-  "2022-10-04": 16003,
-  "2022-10-05": 16164,
-  "2022-10-06": 16279,
-  "2022-10-07": 16404,
-  "2022-10-08": 16505,
-  "2022-10-09": 16686,
-  "2022-10-10": 16868,
-  "2022-10-11": 17713,
-  "2022-10-12": 18265,
-  "2022-10-13": 18796,
-  "2022-10-14": 19091,
-  "2022-10-15": 19346,
-  "2022-10-16": 19579,
-  "2022-10-17": 19944,
-  "2022-10-18": 21310,
-  "2022-10-19": 21878,
-  "2022-10-20": 22310,
-  "2022-10-21": 22665,
-  "2022-10-22": 22989,
-  "2022-10-23": 23380,
-  "2022-10-24": 24007,
-  "2022-10-25": 29231,
-  "2022-10-26": 32465,
-  "2022-10-27": 34266,
-  "2022-10-28": 35899,
-  "2022-10-29": 36844,
-  "2022-10-30": 37603,
-  "2022-10-31": 38304,
-  "2022-11-01": 38815,
-  "2022-11-02": 39224,
-  "2022-11-03": 39635,
-  "2022-11-04": 40045,
-  "2022-11-05": 40399,
-  "2022-11-06": 40667,
-  "2022-11-07": 40947,
-  "2022-11-08": 41232,
-  "2022-11-09": 41450,
-  "2022-11-10": 41671,
-  "2022-11-11": 41872,
-  "2022-11-12": 42060,
-  "2022-11-13": 42179,
-  "2022-11-14": 42362,
-  "2022-11-15": 42523,
-  "2022-11-16": 42651,
-  "2022-11-17": 42773,
-  "2022-11-18": 42809,
-  "2022-11-19": 42831,
-  "2022-11-20": 42923,
-  "2022-11-21": 43022,
-  "2022-11-22": 43116,
-  "2022-11-23": 43221,
-  "2022-11-24": 43415,
-  "2022-11-25": 43552,
-  "2022-11-26": 43648,
-  "2022-11-27": 43720,
-  "2022-11-28": 43785,
-  "2022-11-29": 43862,
-  "2022-11-30": 43941,
-  "2022-12-01": 44002,
-  "2022-12-02": 44055,
-  "2022-12-03": 44152,
-  "2022-12-04": 44185,
-  "2022-12-05": 44229,
-  "2022-12-06": 44280,
-  "2022-12-07": 44330,
-  "2022-12-08": 44382,
-  "2022-12-09": 44423,
-  "2022-12-10": 44481,
-  "2022-12-11": 44519,
-  "2022-12-12": 44559,
-  "2022-12-13": 44605,
-  "2022-12-14": 44635,
-  "2022-12-15": 44684,
-  "2022-12-16": 44724,
-  "2022-12-17": 44754,
-  "2022-12-18": 44786,
-  "2022-12-19": 44817,
-  "2022-12-20": 44884,
-  "2022-12-21": 44884,
-  "2022-12-22": 44917,
-  "2022-12-24": 44962,
-  "2022-12-25": 44989,
-  "2022-12-26": 45033,
-  "2022-12-27": 45074,
-  "2022-12-28": 45096,
-  "2022-12-29": 45126,
-  "2022-12-30": 45166,
-  "2022-12-31": 45207,
-  "2023-01-01": 45234,
-  "2023-01-02": 45262,
-  "2023-01-03": 45287,
-  "2023-01-04": 45309,
-  "2023-01-05": 45336,
-  "2023-01-06": 45349,
-  "2023-01-07": 45398,
-  "2023-01-08": 45412,
-  "2023-01-09": 45458,
-  "2023-01-10": 45483,
-  "2023-01-11": 45513,
-  "2023-01-12": 45548,
-  "2023-01-13": 45573,
-  "2023-01-14": 45610,
-  "2023-01-15": 45624,
-  "2023-01-16": 45653,
-  "2023-01-17": 45666,
-  "2023-01-18": 45683,
-  "2023-01-19": 45717,
-  "2023-01-20": 45740,
-  "2023-01-21": 45759,
-  "2023-01-22": 45794,
-  "2023-01-23": 45814,
-  "2023-01-24": 45836,
-  "2023-01-25": 45856,
-  "2023-01-26": 45895,
-  "2023-01-27": 45910,
-  "2023-01-28": 45934,
-  "2023-01-29": 45941,
-  "2023-01-30": 45954,
-  "2023-01-31": 45954,
-  "2023-02-01": 45981,
-  "2023-02-02": 45998,
-  "2023-02-03": 46009,
-  "2023-02-04": 46018,
-  "2023-02-05": 46020,
-  "2023-02-06": 46033,
-  "2023-02-07": 46042,
-  "2023-02-08": 46065,
-  "2023-02-09": 46065,
-  "2023-02-10": 46083,
-  "2023-02-11": 46101,
-  "2023-02-12": 46116,
-  "2023-02-13": 46132,
-  "2023-02-14": 46132,
-  "2023-02-15": 46146,
-  "2023-02-16": 46150,
-  "2023-02-17": 46154,
-  "2023-02-18": 46175,
-  "2023-02-19": 46185,
-  "2023-02-20": 46196,
-  "2023-02-21": 46200,
-  "2023-02-22": 46216,
-  "2023-02-23": 46230,
-  "2023-02-24": 46239,
-  "2023-02-25": 46253,
-  "2023-02-26": 46263,
-  "2023-02-27": 46285,
-  "2023-02-28": 46285,
-  "2023-03-01": 46292,
-  "2023-03-02": 46305,
-  "2023-03-03": 46318,
-  "2023-03-04": 46334,
-  "2023-03-05": 46344,
-  "2023-03-06": 46344,
-  "2023-03-07": 46342,
-  "2023-03-08": 46350,
-  "2023-03-09": 46358,
-  "2023-03-10": 46356,
-  "2023-03-11": 46365,
-  "2023-03-12": 46369,
-  "2023-03-13": 46370,
-  "2023-03-14": 46378,
-  "2023-03-15": 46378,
-  "2023-03-16": 46380,
-  "2023-03-17": 46380,
-  "2023-03-18": 46393,
-  "2023-03-19": 46390,
-  "2023-03-20": 46389,
-  "2023-03-21": 46398,
-  "2023-03-22": 46402,
-  "2023-03-23": 46407,
-  "2023-03-24": 46407,
-  "2023-03-25": 46424,
-  "2023-03-26": 46431,
-  "2023-03-27": 46446,
-  "2023-03-28": 46441,
-  "2023-03-29": 46444,
-  "2023-03-30": 46460,
-  "2023-03-31": 46460,
-  "2023-04-01": 46468,
-  "2023-04-02": 46470,
-  "2023-04-03": 46470,
-  "2023-04-04": 46472,
-  "2023-04-05": 46474,
-  "2023-04-06": 46484,
-  "2023-04-07": 46476,
-  "2023-04-09": 46483,
-  "2023-04-10": 46502,
-  "2023-04-11": 46508,
-  "2023-04-12": 46508,
-  "2023-04-13": 46531,
-  "2023-04-14": 46534,
-  "2023-04-15": 46541,
-  "2023-04-16": 46547,
-  "2023-04-17": 46545,
-  "2023-04-18": 46559,
-  "2023-04-19": 46563,
-  "2023-04-20": 46577,
-  "2023-04-21": 46581,
-  "2023-04-22": 46585,
-  "2023-04-23": 46586,
-  "2023-04-24": 46583,
-  "2023-04-25": 46585,
-  "2023-04-26": 46599,
-  "2023-04-27": 46606,
-  "2023-04-28": 46610,
-  "2023-04-29": 46615,
-  "2023-04-30": 46618,
-  "2023-05-01": 46613,
-  "2023-05-02": 46613,
-  "2023-05-03": 46609,
-  "2023-05-04": 46610,
-  "2023-05-05": 46617,
-  "2023-05-06": 46619,
-  "2023-05-07": 46621,
-  "2023-05-08": 46639,
-  "2023-05-09": 46642,
-  "2023-05-10": 46640,
-  "2023-05-11": 46646,
-  "2023-05-12": 46648,
-  "2023-05-13": 46654,
-  "2023-05-14": 46660,
-  "2023-05-15": 46663,
-  "2023-05-16": 46664,
-  "2023-05-17": 46660,
-  "2023-05-18": 46666,
-  "2023-05-19": 46671,
-  "2023-05-20": 46700,
-  "2023-05-21": 46700,
-  "2023-05-22": 46700,
-  "2023-05-23": 46706,
-  "2023-05-24": 46717,
-  "2023-05-25": 46717,
-  "2023-05-26": 46722,
-  "2023-05-27": 46731,
-  "2023-05-28": 46736,
-  "2023-05-29": 46736,
-  "2023-05-30": 46750,
-  "2023-05-31": 46761,
-  "2023-06-01": 46763,
-  "2023-06-02": 46766,
-  "2023-06-03": 46776,
-  "2023-06-04": 46777,
-  "2023-06-05": 46780,
-  "2023-06-06": 46779,
-  "2023-06-07": 46781,
-  "2023-06-08": 46798,
-  "2023-06-09": 46790,
-  "2023-06-10": 46794,
-  "2023-06-11": 46791,
-  "2023-06-12": 46798,
-  "2023-06-13": 46809,
-  "2023-06-14": 46807,
-  "2023-06-15": 46809,
-  "2023-06-16": 46815,
-  "2023-06-17": 46827,
-  "2023-06-18": 46837,
-  "2023-06-19": 46843,
-  "2023-06-20": 46838,
-  "2023-06-21": 46844,
-  "2023-06-22": 46850,
-  "2023-06-23": 46860,
-  "2023-06-24": 46864,
-  "2023-06-25": 46867,
-  "2023-06-26": 46871,
-  "2023-06-27": 46877,
-  "2023-06-28": 46885,
-  "2023-06-29": 46886,
-  "2023-06-30": 46893,
-  "2023-07-01": 46894,
-  "2023-07-02": 46894,
-  "2023-07-03": 46901,
-  "2023-07-04": 46908,
-  "2023-07-05": 46911,
-  "2023-07-06": 46926,
-  "2023-07-07": 46926,
-  "2023-07-08": 46928,
-  "2023-07-09": 46931,
-  "2023-07-10": 46936,
-  "2023-07-11": 46929,
-  "2023-07-12": 46935,
-  "2023-07-13": 46933,
-  "2023-07-14": 46930,
-  "2023-07-15": 46931,
-  "2023-07-16": 46937,
-  "2023-07-17": 46948,
-  "2023-07-18": 46954,
-  "2023-07-19": 46961,
-  "2023-07-20": 46963,
-  "2023-07-21": 46972,
-  "2023-07-22": 46978,
-  "2023-07-23": 46985,
-  "2023-07-24": 46995,
-  "2023-07-25": 46991,
-  "2023-07-26": 47002,
-  "2023-07-27": 47013,
-  "2023-07-28": 47016,
-  "2023-07-29": 47021,
-  "2023-07-30": 47026,
-  "2023-07-31": 47021,
-  "2023-08-01": 47018,
-  "2023-08-02": 47019,
-  "2023-08-03": 47029,
-  "2023-08-04": 47032,
-  "2023-08-05": 47038,
-  "2023-08-06": 47040,
-  "2023-08-07": 47040,
-  "2023-08-08": 47046,
-  "2023-08-09": 47062,
-  "2023-08-10": 47077,
-  "2023-08-11": 47085,
-  "2023-08-12": 47087,
-  "2023-08-13": 47094,
-  "2023-08-14": 47100,
-  "2023-08-15": 47110,
-  "2023-08-16": 47110,
-  "2023-08-17": 47113,
-  "2023-08-18": 47121,
-  "2023-08-19": 47121,
-  "2023-08-20": 47127,
-  "2023-08-21": 47125,
-  "2023-08-22": 47133,
-  "2023-08-23": 47148,
-  "2023-08-24": 47149,
-  "2023-08-25": 47148,
-  "2023-08-26": 47154,
-  "2023-08-27": 47159,
-  "2023-08-28": 47167,
-  "2023-08-29": 47171,
-  "2023-08-30": 47179,
-  "2023-08-31": 47182,
-  "2023-09-01": 47215,
-  "2023-09-02": 47215,
-  "2023-09-03": 47237,
-  "2023-09-04": 47279,
-  "2023-09-05": 47331,
-  "2023-09-06": 47370,
-  "2023-09-07": 47408,
-  "2023-09-08": 47450,
-  "2023-09-09": 47490,
-  "2023-09-10": 47535,
-  "2023-09-11": 47583,
-  "2023-09-12": 47615,
-  "2023-09-13": 47653,
-  "2023-09-14": 47653,
-  "2023-09-15": 47727,
-  "2023-09-16": 47768,
-  "2023-09-17": 47768,
-  "2023-09-18": 47842,
-  "2023-09-19": 47882,
-  "2023-09-20": 47913,
-  "2023-09-21": 47952,
-  "2023-09-22": 47984,
-  "2023-09-23": 48017,
-  "2023-09-24": 48017,
-  "2023-09-25": 48017,
-  "2023-09-26": 48139,
-  "2023-09-27": 48153,
-  "2023-09-28": 48183,
-  "2023-09-29": 48214,
-  "2023-09-30": 48214,
-  "2023-10-01": 48274,
-  "2023-10-02": 48313,
-  "2023-10-03": 48356,
-  "2023-10-04": 48379,
-  "2023-10-05": 48415,
-  "2023-10-06": 48462,
-  "2023-10-07": 48518,
-  "2023-10-08": 48581,
-  "2023-10-09": 48581,
-  "2023-10-10": 48680,
-  "2023-10-11": 48773,
-  "2023-10-12": 48773,
-  "2023-10-13": 48811,
-  "2023-10-14": 48811,
-  "2023-10-15": 48811,
-  "2023-10-16": 48811,
-  "2023-10-17": 48811,
-  "2023-10-18": 48811,
-  "2023-10-19": 48811,
-  "2023-10-20": 48811,
-  "2023-10-21": 48811,
-  "2023-10-22": 48811,
-  "2023-10-23": 48811,
-  "2023-10-24": 49179,
-  "2023-10-25": 49179,
-  "2023-10-26": 49179,
-  "2023-10-27": 49179,
-  "2023-10-28": 49179,
-  "2023-10-29": 49179,
-  "2023-10-30": 49179,
-  "2023-10-31": 49179,
-  "2023-11-01": 49179,
-  "2023-11-02": 49179,
-  "2023-11-03": 49179,
-  "2023-11-04": 49179,
-  "2023-11-05": 49179,
-  "2023-11-06": 49179,
-  "2023-11-07": 49179,
-  "2023-11-08": 49179,
-  "2023-11-09": 49179,
-  "2023-11-10": 49179,
-  "2023-11-11": 49704,
-  "2023-11-12": 49704,
-  "2023-11-13": 49704,
-  "2023-11-14": 49704,
-  "2023-11-15": 49704,
-  "2023-11-16": 49704,
-  "2023-11-17": 49878,
-  "2023-11-18": 49878,
-  "2023-11-19": 49878,
-  "2023-11-20": 49878,
-  "2023-11-21": 49878,
-  "2023-11-22": 49878,
-  "2023-11-23": 50033,
-  "2023-11-24": 50033,
-  "2023-11-25": 50033,
-  "2023-11-26": 50033,
-  "2023-11-27": 50033,
-  "2023-11-28": 50033,
-  "2023-11-29": 50033,
-  "2023-11-30": 50033,
-  "2023-12-01": 50033,
-  "2023-12-02": 50033,
-  "2023-12-03": 50033,
-  "2023-12-04": 50033,
-  "2023-12-05": 50033,
-  "2023-12-06": 50033,
-  "2023-12-07": 50033,
-  "2023-12-08": 50033,
-  "2023-12-09": 50501,
-  "2023-12-10": 50501,
-  "2023-12-11": 50524,
-  "2023-12-12": 50524,
-  "2023-12-13": 50524,
-  "2023-12-14": 50567,
-  "2023-12-15": 50562,
-  "2023-12-16": 50571,
-  "2023-12-17": 50576,
-  "2023-12-18": 50579,
-  "2023-12-19": 50586,
-  "2023-12-20": 50584,
-  "2023-12-21": 50582,
-  "2023-12-22": 50593,
-  "2023-12-23": 50609,
-  "2023-12-24": 50625,
-  "2023-12-25": 50634,
-  "2023-12-26": 50639,
-  "2023-12-27": 50651,
-  "2023-12-30": 50688,
-  "2023-12-31": 50698,
-  "2024-01-01": 50701,
-  "2024-01-02": 50701,
-  "2024-01-03": 50698
+  "2024-01-17": 50806,
+  "date_first_scraped": "2022-09-01",
+  "description": "The official playlist for House of the Dragon (and House Targaryen). Watch the entire first season on HBO Max.",
+  "name": "House of the Dragon: Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98426,
+      "name": "A Golden Crown",
+      "url": "https://open.spotify.com/track/5xrrSZVaQTtktyBux70TKn"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "A Pack of Hounds",
+      "url": "https://open.spotify.com/track/2D0qmYMSPoNYcWoWZK2MtJ"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149600,
+      "name": "A Warning",
+      "url": "https://open.spotify.com/track/6wLqmob6DvjKgsMRIuFo78"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190689,
+      "name": "Aemond Rides Vhagar",
+      "url": "https://open.spotify.com/track/53OdUJreaDUyR8bHMts1tu"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468560,
+      "name": "Against All Odds",
+      "url": "https://open.spotify.com/track/22k0tdfO5sGCo1Ck7JVNzU"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94183,
+      "name": "An Impossible Choice",
+      "url": "https://open.spotify.com/track/793D3U2TMPyTgwWlY2cDup"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253116,
+      "name": "Battle for the Skies",
+      "url": "https://open.spotify.com/track/3DNXVnQRr4HCCuTyTj0vJa"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215261,
+      "name": "Blood of My Blood",
+      "url": "https://open.spotify.com/track/31Euo4DTJpj6Y4u5lVHsHV"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93106,
+      "name": "Blood of the Dragon",
+      "url": "https://open.spotify.com/track/3As7Ugnc8VMp1Xf54VwwLW"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265578,
+      "name": "Bloodlines Will Burn",
+      "url": "https://open.spotify.com/track/6Ay5AQigyVGty5QwXvCYzd"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269723,
+      "name": "Break the Wheel",
+      "url": "https://open.spotify.com/track/5DAb4aqsRXqjelTTJ4dlem"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "Breaker of Chains",
+      "url": "https://open.spotify.com/track/4Lk1qSykuFO6mW926IVZJj"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134407,
+      "name": "Celebration Dance",
+      "url": "https://open.spotify.com/track/1dpgJl93xhrCoubBfy382Y"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173511,
+      "name": "Compromise and Consequences",
+      "url": "https://open.spotify.com/track/2dd7bXIaqnFVQjecDdASpB"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74326,
+      "name": "Coronation",
+      "url": "https://open.spotify.com/track/41LDQrhtuCWFtBaPugTGEY"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161320,
+      "name": "Daemon and Rhaenyra",
+      "url": "https://open.spotify.com/track/6FrnfJK65CRlt3owJygosL"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188506,
+      "name": "Dance of Dragons",
+      "url": "https://open.spotify.com/track/6YTc18izaUvCS2XD7rK9Am"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96903,
+      "name": "Death and Rebirth",
+      "url": "https://open.spotify.com/track/7A96nv5vyEwPCOqyJoYX2T"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176148,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5Pbep0YUg91ZlKPL3CQbNt"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173386,
+      "name": "Dracarys",
+      "url": "https://open.spotify.com/track/1eW5pYWfahrmseEKvCyoYR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259613,
+      "name": "Dragonglass",
+      "url": "https://open.spotify.com/track/1ilH7ekEx3QPmcBgTv7ULC"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81813,
+      "name": "Dragons Do Not Fear Blood",
+      "url": "https://open.spotify.com/track/5ksg4whbfsmqV0sbWuHUjJ"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96110,
+      "name": "Dragons Will Rule the Kingdom",
+      "url": "https://open.spotify.com/track/3yhasdR7PhqoXbV4HPwgIP"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306120,
+      "name": "Dragonstone",
+      "url": "https://open.spotify.com/track/65KG1BEtR85y2cvIaukuaO"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205091,
+      "name": "Fate of the Kingdoms",
+      "url": "https://open.spotify.com/track/0rmZ3aiHkoKGKBmoC78D6m"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1, Episode 9 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gtqVFfviv8gxqJtnJOFD9"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 205091,
+      "name": "Fate of the Kingdoms",
+      "url": "https://open.spotify.com/track/2KEC0lBoiYo8DAe9072AEs"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5wkNrYYE4iWJ8ipiGXouYo"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151146,
+      "name": "Finale",
+      "url": "https://open.spotify.com/track/2sQeSZry0jbKY5kRtufdL2"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270213,
+      "name": "Fire And Blood",
+      "url": "https://open.spotify.com/track/6TYzaO31pog2PwBm4O7OOM"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65497,
+      "name": "First Dance",
+      "url": "https://open.spotify.com/track/3n0KF3ZFOrioul7Y4ayDxH"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171561,
+      "name": "Flight of Dragons",
+      "url": "https://open.spotify.com/track/4OG2BR10XdGsOjWNiOdVjr"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151240,
+      "name": "Forgive Me",
+      "url": "https://open.spotify.com/track/1UfBurJk2hWNXuVAb4of0O"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180980,
+      "name": "Funeral by the Sea",
+      "url": "https://open.spotify.com/track/6r5Z9SHyAqYLs588egwsQn"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131413,
+      "name": "Gorgeous Beasts",
+      "url": "https://open.spotify.com/track/5PHmaOKveNjY2U8g3NTu2I"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303973,
+      "name": "House Of The Undying - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3O467lAxEl0t4UEGOEgQjX"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158397,
+      "name": "House Velaryon",
+      "url": "https://open.spotify.com/track/1n7tyGyyADkI7xMOQJvB94"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156831,
+      "name": "I Need You by My Side - Bonus Track",
+      "url": "https://open.spotify.com/track/2cVkxB8lD8rzpBjisavCQR"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "I'm Sorry for Today",
+      "url": "https://open.spotify.com/track/44pTmffdO8i0Dl1uvsSzbf"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232634,
+      "name": "Interests of the Realm",
+      "url": "https://open.spotify.com/track/3jgJ8PMkBOFPF7fnFSQStA"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185710,
+      "name": "Khaleesi",
+      "url": "https://open.spotify.com/track/7i3cRwxEeIcZsJBuSy93M2"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377330,
+      "name": "King of the Narrow Sea",
+      "url": "https://open.spotify.com/track/0DD3pa5HR7RHRsI2mEqwPE"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1, Episode 9 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gtqVFfviv8gxqJtnJOFD9"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 206397,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/20tYAl1DAEwmqT9HDZZpHM"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206397,
+      "name": "Lament",
+      "url": "https://open.spotify.com/track/3ytsgGAP00hw0vPPAhWsuo"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300447,
+      "name": "Lanterns at Nightfall",
+      "url": "https://open.spotify.com/track/3S8rPbConHBKf0TIGR9pRm"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240493,
+      "name": "Love In The Eyes",
+      "url": "https://open.spotify.com/track/19kA9MB5gD4xX27NFmBTVs"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104266,
+      "name": "Main Title (From Game of Thrones: Season 3)",
+      "url": "https://open.spotify.com/track/0M9QjRGZhvqJATvgQS4Hob"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105173,
+      "name": "Main Title (from \u201cGame of Thrones\u201d)",
+      "url": "https://open.spotify.com/track/3Y4egKQO2gOYob1oDITCzV"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 4 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/0vRGLLxfeIdppojZIj0KXL"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173893,
+      "name": "Mereen",
+      "url": "https://open.spotify.com/track/66fCNaWh2YZ1mNrOozbZMj"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 3 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/41zMFsCjcGenYKVJYUXU2n"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234933,
+      "name": "Mhysa",
+      "url": "https://open.spotify.com/track/4wxaEgPlUbEUwiAnThBUkw"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155720,
+      "name": "Mother Of Dragons - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/4E7bdPSJTPdAMg0H2CUoqf"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260508,
+      "name": "Pass Judgement",
+      "url": "https://open.spotify.com/track/1P56G3rmOY98jynmCsZfnE"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195015,
+      "name": "Protector of the Realm",
+      "url": "https://open.spotify.com/track/40CjybpHGwEy1De6BHu5Vy"
+    },
+    {
+      "album": {
+        "name": "Protector of the Realm (from \"House of the Dragon\")",
+        "url": "https://open.spotify.com/album/262nTtnsUTVEIrlb2jm9jj"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 195015,
+      "name": "Protector of the Realm (from \"House of the Dragon\")",
+      "url": "https://open.spotify.com/track/63BRmsStfDWwrP1vB49Sc0"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133266,
+      "name": "Pyat Pree - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/1GQAc1rnIjtLBKLv55yoOy"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 2 (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/303YQyVGyblp2CxcSUaeA2"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "Qarth - From The \"Game Of Thrones: Season 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/519U1CWS12Yvfh9NttvBW8"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196256,
+      "name": "Reign",
+      "url": "https://open.spotify.com/track/4G2QBUTKjSNn4JRuShT7lB"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91700,
+      "name": "Reign of the Targaryens",
+      "url": "https://open.spotify.com/track/3XcPY110hQ07HNWqDZIZgU"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99772,
+      "name": "Rhaenyra's Welcome",
+      "url": "https://open.spotify.com/track/7c26XfyVKLyrcU1KV7KS86"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250026,
+      "name": "Sealed in Fire and Blood",
+      "url": "https://open.spotify.com/track/487Xr0TKMwEtpuE196Q41e"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129320,
+      "name": "See You for What You Are",
+      "url": "https://open.spotify.com/track/3Yz362ZLSTnk3ndIm1ZvZY"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84080,
+      "name": "Shall We Begin?",
+      "url": "https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 5 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/7lIn0dMIUvlw3n3l0uWlsZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317840,
+      "name": "Son of the Harpy",
+      "url": "https://open.spotify.com/track/5gf6mW4nrYQCtvxzSQCVQJ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233960,
+      "name": "Spoils of War, Pt. 1",
+      "url": "https://open.spotify.com/track/07OCvp44fIyFjp7IJBVnQD"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243213,
+      "name": "Spoils of War, Pt. 2",
+      "url": "https://open.spotify.com/track/4F5JPGYxiVopS6D2UO7ICQ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149693,
+      "name": "Stay a Thousand Years",
+      "url": "https://open.spotify.com/track/70xnbzWoJPSuzl3arZwRQ2"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254609,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/3NptOKb2aM1eqY5bKDCYT6"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114487,
+      "name": "Targaryen Dance",
+      "url": "https://open.spotify.com/track/0ar9mDEyM8Qj6JUX6hwSrJ"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224066,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/09oEC9b2VasoCbeAruESjF"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199881,
+      "name": "The Crown of Jaehaerys",
+      "url": "https://open.spotify.com/track/0W8XFThbr9Kbg6sh7Pm12k"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170125,
+      "name": "The Green Dress",
+      "url": "https://open.spotify.com/track/2YD1j2swOJLysIZII179n2"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151232,
+      "name": "The Hard Truth",
+      "url": "https://open.spotify.com/track/0sLHcMy7Axfp4VeWUyNK22"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147366,
+      "name": "The Heirs of the Dragon",
+      "url": "https://open.spotify.com/track/75EiP8M4Egeqndtv08lD66"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102005,
+      "name": "The Language of Girls",
+      "url": "https://open.spotify.com/track/79uRj5exqiZcrBl8uiyq6b"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156365,
+      "name": "The Power of Prophecy",
+      "url": "https://open.spotify.com/track/3EkwCXyPeH6xGs23tVnJJy"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274271,
+      "name": "The Prince That Was Promised",
+      "url": "https://open.spotify.com/track/5HSQJnJ9Y2yjI9Y2oX6sgl"
+    },
+    {
+      "album": {
+        "name": "The Prince That Was Promised (from \"House of the Dragon\")",
+        "url": "https://open.spotify.com/album/43fIo5bKCsGrhWkSaTAPCj"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-28",
+      "duration_ms": 274271,
+      "name": "The Prince That Was Promised (from \"House of the Dragon\")",
+      "url": "https://open.spotify.com/track/4PJXXyHln0QBOir9G0GTtM"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131567,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/1bGGmv1HVHwWGPESqhS3G2"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103280,
+      "name": "The Rogue Prince",
+      "url": "https://open.spotify.com/track/3GMG8oKXXWwho68nr9HJEk"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203603,
+      "name": "The Silent Sisters",
+      "url": "https://open.spotify.com/track/2GnkzOkSxU3HfQlzyV8B4T"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111442,
+      "name": "The Tournament",
+      "url": "https://open.spotify.com/track/3muxGD02J5RMjQQhsGsPMB"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 6 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/2Ia3TzAjzWw0Tdspy9Fwgg"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209808,
+      "name": "The Winds of Winter",
+      "url": "https://open.spotify.com/track/4mToVZMYxUrYFQ0OlkG2Ck"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88866,
+      "name": "To Vaes Dothrak",
+      "url": "https://open.spotify.com/track/6hJA1KQ8AK2r1mazUOQWGM"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145716,
+      "name": "Trouble in the Stepstones",
+      "url": "https://open.spotify.com/track/7pOxetDfBjrsmcAXhJbWaZ"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196692,
+      "name": "True Meaning of Loyalty",
+      "url": "https://open.spotify.com/track/7tglHoxG1TnefFuFUe88Np"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones: Season 7 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211253,
+      "name": "Truth",
+      "url": "https://open.spotify.com/track/5QKK7785dSYrutocW7lGub"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167468,
+      "name": "We Light the Way",
+      "url": "https://open.spotify.com/track/3nYFgl74jQoeiIppOA9Jmy"
+    },
+    {
+      "album": {
+        "name": "House of the Dragon: Season 1 (Soundtrack from the HBO\u00ae Series)",
+        "url": "https://open.spotify.com/album/5gD5rf2UnvG1TYUHVv4vjv"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-10-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Whatever May Come",
+      "url": "https://open.spotify.com/track/6on6s75fgdiHA2VIt72FT8"
+    },
+    {
+      "album": {
+        "name": "Game Of Thrones (Music From The HBO Series)",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160253,
+      "name": "When The Sun Rises In The West",
+      "url": "https://open.spotify.com/track/791hJyQ1Z3U9BmmFryEKPQ"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXcP2rXJJ61py"
 }

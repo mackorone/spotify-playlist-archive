@@ -1,569 +1,1833 @@
 {
-  "2022-06-10": 59825,
-  "2022-06-11": 59846,
-  "2022-06-12": 59861,
-  "2022-06-13": 59876,
-  "2022-06-14": 59882,
-  "2022-06-15": 59891,
-  "2022-06-16": 59897,
-  "2022-06-17": 59913,
-  "2022-06-18": 59921,
-  "2022-06-19": 59941,
-  "2022-06-20": 59941,
-  "2022-06-21": 59950,
-  "2022-06-22": 59971,
-  "2022-06-23": 59971,
-  "2022-06-24": 59983,
-  "2022-06-25": 60002,
-  "2022-06-26": 60024,
-  "2022-06-27": 60048,
-  "2022-06-28": 60070,
-  "2022-06-29": 60092,
-  "2022-06-30": 60111,
-  "2022-07-01": 60128,
-  "2022-07-02": 60162,
-  "2022-07-03": 60191,
-  "2022-07-04": 60213,
-  "2022-07-05": 60213,
-  "2022-07-06": 60213,
-  "2022-07-07": 60290,
-  "2022-07-08": 60303,
-  "2022-07-09": 60316,
-  "2022-07-10": 60336,
-  "2022-07-11": 60348,
-  "2022-07-12": 60364,
-  "2022-07-13": 60369,
-  "2022-07-14": 60382,
-  "2022-07-15": 60394,
-  "2022-07-16": 60418,
-  "2022-07-17": 60429,
-  "2022-07-18": 60435,
-  "2022-07-19": 60456,
-  "2022-07-20": 60475,
-  "2022-07-21": 60492,
-  "2022-07-22": 60512,
-  "2022-07-23": 60534,
-  "2022-07-24": 60540,
-  "2022-07-25": 60563,
-  "2022-07-26": 60583,
-  "2022-07-27": 60597,
-  "2022-07-28": 60611,
-  "2022-07-29": 60622,
-  "2022-07-30": 60633,
-  "2022-07-31": 60633,
-  "2022-08-01": 60651,
-  "2022-08-02": 60665,
-  "2022-08-03": 60665,
-  "2022-08-04": 60672,
-  "2022-08-05": 60688,
-  "2022-08-06": 60698,
-  "2022-08-07": 60706,
-  "2022-08-08": 60721,
-  "2022-08-09": 60731,
-  "2022-08-10": 60745,
-  "2022-08-11": 60752,
-  "2022-08-12": 60757,
-  "2022-08-13": 60779,
-  "2022-08-14": 60798,
-  "2022-08-15": 60814,
-  "2022-08-16": 60825,
-  "2022-08-17": 60832,
-  "2022-08-18": 60849,
-  "2022-08-19": 60874,
-  "2022-08-20": 60892,
-  "2022-08-21": 60901,
-  "2022-08-22": 60917,
-  "2022-08-23": 60930,
-  "2022-08-24": 60943,
-  "2022-08-25": 60961,
-  "2022-08-26": 60973,
-  "2022-08-27": 60988,
-  "2022-08-28": 61013,
-  "2022-08-29": 61021,
-  "2022-08-30": 61009,
-  "2022-08-31": 60980,
-  "2022-09-01": 60946,
-  "2022-09-02": 60910,
-  "2022-09-03": 60855,
-  "2022-09-04": 60845,
-  "2022-09-05": 60846,
-  "2022-09-06": 60870,
-  "2022-09-07": 60894,
-  "2022-09-09": 60935,
-  "2022-09-10": 60956,
-  "2022-09-11": 60972,
-  "2022-09-12": 60996,
-  "2022-09-13": 61024,
-  "2022-09-15": 61061,
-  "2022-09-16": 61093,
-  "2022-09-17": 61120,
-  "2022-09-18": 61134,
-  "2022-09-19": 61165,
-  "2022-09-20": 61182,
-  "2022-09-21": 61197,
-  "2022-09-22": 61225,
-  "2022-09-23": 61236,
-  "2022-09-24": 61236,
-  "2022-09-25": 61258,
-  "2022-09-26": 61264,
-  "2022-09-27": 61273,
-  "2022-09-28": 61277,
-  "2022-09-29": 61286,
-  "2022-09-30": 61301,
-  "2022-10-01": 61316,
-  "2022-10-02": 61328,
-  "2022-10-03": 61336,
-  "2022-10-04": 61357,
-  "2022-10-05": 61363,
-  "2022-10-06": 61382,
-  "2022-10-07": 61409,
-  "2022-10-08": 61423,
-  "2022-10-09": 61441,
-  "2022-10-10": 61448,
-  "2022-10-11": 61468,
-  "2022-10-12": 61477,
-  "2022-10-13": 61488,
-  "2022-10-14": 61503,
-  "2022-10-15": 61519,
-  "2022-10-16": 61532,
-  "2022-10-17": 61546,
-  "2022-10-18": 61549,
-  "2022-10-19": 61560,
-  "2022-10-20": 61560,
-  "2022-10-21": 61574,
-  "2022-10-22": 61588,
-  "2022-10-23": 61604,
-  "2022-10-24": 61628,
-  "2022-10-25": 61649,
-  "2022-10-26": 61675,
-  "2022-10-27": 61688,
-  "2022-10-28": 61693,
-  "2022-10-29": 61701,
-  "2022-10-30": 61725,
-  "2022-10-31": 61748,
-  "2022-11-01": 61767,
-  "2022-11-02": 61788,
-  "2022-11-03": 61810,
-  "2022-11-04": 61827,
-  "2022-11-05": 61839,
-  "2022-11-06": 61847,
-  "2022-11-07": 61858,
-  "2022-11-08": 61873,
-  "2022-11-09": 61877,
-  "2022-11-10": 61885,
-  "2022-11-11": 61902,
-  "2022-11-12": 61925,
-  "2022-11-13": 61930,
-  "2022-11-14": 61948,
-  "2022-11-15": 61959,
-  "2022-11-16": 61981,
-  "2022-11-17": 61986,
-  "2022-11-18": 61986,
-  "2022-11-19": 61982,
-  "2022-11-20": 61988,
-  "2022-11-21": 62012,
-  "2022-11-22": 62023,
-  "2022-11-23": 62043,
-  "2022-11-24": 62071,
-  "2022-11-25": 62103,
-  "2022-11-26": 62120,
-  "2022-11-27": 62129,
-  "2022-11-28": 62136,
-  "2022-11-29": 62154,
-  "2022-11-30": 62167,
-  "2022-12-01": 62190,
-  "2022-12-02": 62199,
-  "2022-12-03": 62216,
-  "2022-12-04": 62234,
-  "2022-12-05": 62256,
-  "2022-12-06": 62270,
-  "2022-12-07": 62287,
-  "2022-12-08": 62303,
-  "2022-12-09": 62315,
-  "2022-12-10": 62332,
-  "2022-12-11": 62340,
-  "2022-12-12": 62352,
-  "2022-12-13": 62364,
-  "2022-12-14": 62371,
-  "2022-12-15": 62395,
-  "2022-12-16": 62406,
-  "2022-12-17": 62422,
-  "2022-12-18": 62439,
-  "2022-12-19": 62450,
-  "2022-12-20": 62492,
-  "2022-12-21": 62492,
-  "2022-12-22": 62503,
-  "2022-12-24": 62532,
-  "2022-12-25": 62541,
-  "2022-12-26": 62557,
-  "2022-12-27": 62571,
-  "2022-12-28": 62575,
-  "2022-12-29": 62584,
-  "2022-12-30": 62595,
-  "2022-12-31": 62605,
-  "2023-01-01": 62611,
-  "2023-01-02": 62613,
-  "2023-01-03": 62621,
-  "2023-01-04": 62631,
-  "2023-01-05": 62642,
-  "2023-01-06": 62660,
-  "2023-01-07": 62681,
-  "2023-01-08": 62685,
-  "2023-01-09": 62687,
-  "2023-01-10": 62699,
-  "2023-01-11": 62715,
-  "2023-01-12": 62725,
-  "2023-01-13": 62749,
-  "2023-01-14": 62769,
-  "2023-01-15": 62771,
-  "2023-01-16": 62787,
-  "2023-01-17": 62800,
-  "2023-01-18": 62801,
-  "2023-01-19": 62817,
-  "2023-01-20": 62831,
-  "2023-01-21": 62845,
-  "2023-01-22": 62855,
-  "2023-01-23": 62871,
-  "2023-01-24": 62881,
-  "2023-01-25": 62891,
-  "2023-01-26": 62895,
-  "2023-01-27": 62918,
-  "2023-01-28": 62937,
-  "2023-01-29": 62949,
-  "2023-01-30": 62958,
-  "2023-01-31": 62958,
-  "2023-02-01": 62981,
-  "2023-02-02": 62990,
-  "2023-02-03": 63000,
-  "2023-02-04": 63016,
-  "2023-02-05": 63025,
-  "2023-02-06": 63061,
-  "2023-02-07": 63081,
-  "2023-02-08": 63105,
-  "2023-02-09": 63105,
-  "2023-02-10": 63122,
-  "2023-02-11": 63131,
-  "2023-02-12": 63160,
-  "2023-02-13": 63177,
-  "2023-02-14": 63177,
-  "2023-02-15": 63193,
-  "2023-02-16": 63208,
-  "2023-02-17": 63214,
-  "2023-02-18": 63244,
-  "2023-02-19": 63252,
-  "2023-02-20": 63260,
-  "2023-02-21": 63274,
-  "2023-02-22": 63289,
-  "2023-02-23": 63291,
-  "2023-02-24": 63315,
-  "2023-02-25": 63341,
-  "2023-02-26": 63341,
-  "2023-02-27": 63363,
-  "2023-02-28": 63363,
-  "2023-03-01": 63371,
-  "2023-03-02": 63383,
-  "2023-03-03": 63407,
-  "2023-03-04": 63420,
-  "2023-03-05": 63438,
-  "2023-03-06": 63438,
-  "2023-03-07": 63449,
-  "2023-03-08": 63467,
-  "2023-03-09": 63475,
-  "2023-03-10": 63482,
-  "2023-03-11": 63496,
-  "2023-03-12": 63508,
-  "2023-03-13": 63520,
-  "2023-03-14": 63532,
-  "2023-03-15": 63538,
-  "2023-03-16": 63538,
-  "2023-03-17": 63538,
-  "2023-03-18": 63579,
-  "2023-03-19": 63579,
-  "2023-03-20": 63604,
-  "2023-03-21": 63606,
-  "2023-03-22": 63613,
-  "2023-03-23": 63629,
-  "2023-03-24": 63629,
-  "2023-03-25": 63657,
-  "2023-03-26": 63669,
-  "2023-03-27": 63683,
-  "2023-03-28": 63695,
-  "2023-03-29": 63705,
-  "2023-03-30": 63730,
-  "2023-03-31": 63730,
-  "2023-04-01": 63745,
-  "2023-04-02": 63766,
-  "2023-04-03": 63782,
-  "2023-04-04": 63789,
-  "2023-04-05": 63796,
-  "2023-04-06": 63810,
-  "2023-04-07": 63822,
-  "2023-04-09": 63850,
-  "2023-04-10": 63872,
-  "2023-04-11": 63895,
-  "2023-04-12": 63895,
-  "2023-04-13": 63904,
-  "2023-04-14": 63910,
-  "2023-04-15": 63926,
-  "2023-04-16": 63939,
-  "2023-04-17": 63953,
-  "2023-04-18": 63970,
-  "2023-04-19": 63968,
-  "2023-04-20": 63979,
-  "2023-04-21": 63994,
-  "2023-04-22": 64012,
-  "2023-04-23": 64014,
-  "2023-04-24": 64028,
-  "2023-04-25": 64042,
-  "2023-04-26": 64062,
-  "2023-04-27": 64077,
-  "2023-04-28": 64096,
-  "2023-04-29": 64115,
-  "2023-04-30": 64132,
-  "2023-05-01": 64151,
-  "2023-05-02": 64167,
-  "2023-05-03": 64179,
-  "2023-05-04": 64190,
-  "2023-05-05": 64209,
-  "2023-05-06": 64220,
-  "2023-05-07": 64237,
-  "2023-05-08": 64295,
-  "2023-05-09": 64339,
-  "2023-05-10": 64361,
-  "2023-05-11": 64382,
-  "2023-05-12": 64397,
-  "2023-05-13": 64421,
-  "2023-05-14": 64448,
-  "2023-05-15": 64452,
-  "2023-05-16": 64470,
-  "2023-05-17": 64489,
-  "2023-05-18": 64504,
-  "2023-05-19": 64518,
-  "2023-05-20": 64575,
-  "2023-05-21": 64575,
-  "2023-05-22": 64575,
-  "2023-05-23": 64600,
-  "2023-05-24": 64613,
-  "2023-05-25": 64617,
-  "2023-05-26": 64624,
-  "2023-05-27": 64637,
-  "2023-05-28": 64648,
-  "2023-05-29": 64648,
-  "2023-05-30": 64673,
-  "2023-05-31": 64677,
-  "2023-06-01": 64697,
-  "2023-06-02": 64712,
-  "2023-06-03": 64720,
-  "2023-06-04": 64727,
-  "2023-06-05": 64734,
-  "2023-06-06": 64741,
-  "2023-06-07": 64766,
-  "2023-06-08": 64777,
-  "2023-06-09": 64791,
-  "2023-06-10": 64811,
-  "2023-06-11": 64832,
-  "2023-06-12": 64846,
-  "2023-06-13": 64855,
-  "2023-06-14": 64864,
-  "2023-06-15": 64871,
-  "2023-06-16": 64872,
-  "2023-06-17": 64886,
-  "2023-06-18": 64904,
-  "2023-06-19": 64917,
-  "2023-06-20": 64941,
-  "2023-06-21": 64951,
-  "2023-06-22": 64965,
-  "2023-06-23": 64972,
-  "2023-06-24": 64978,
-  "2023-06-25": 65013,
-  "2023-06-26": 65042,
-  "2023-06-27": 65060,
-  "2023-06-28": 65070,
-  "2023-06-29": 65084,
-  "2023-06-30": 65103,
-  "2023-07-01": 65178,
-  "2023-07-02": 65178,
-  "2023-07-03": 65207,
-  "2023-07-04": 65230,
-  "2023-07-05": 65255,
-  "2023-07-06": 65304,
-  "2023-07-07": 65304,
-  "2023-07-08": 65304,
-  "2023-07-09": 65330,
-  "2023-07-10": 65339,
-  "2023-07-11": 65365,
-  "2023-07-12": 65382,
-  "2023-07-13": 65403,
-  "2023-07-14": 65419,
-  "2023-07-15": 65428,
-  "2023-07-16": 65451,
-  "2023-07-17": 65463,
-  "2023-07-18": 65490,
-  "2023-07-19": 65526,
-  "2023-07-20": 65526,
-  "2023-07-21": 65591,
-  "2023-07-22": 65625,
-  "2023-07-23": 65645,
-  "2023-07-24": 65667,
-  "2023-07-25": 65697,
-  "2023-07-26": 65718,
-  "2023-07-27": 65740,
-  "2023-07-28": 65771,
-  "2023-07-29": 65801,
-  "2023-07-30": 65841,
-  "2023-07-31": 65890,
-  "2023-08-01": 65930,
-  "2023-08-02": 65966,
-  "2023-08-03": 66004,
-  "2023-08-04": 66042,
-  "2023-08-05": 66066,
-  "2023-08-06": 66146,
-  "2023-08-07": 66146,
-  "2023-08-08": 66187,
-  "2023-08-09": 66226,
-  "2023-08-10": 66265,
-  "2023-08-11": 66288,
-  "2023-08-12": 66288,
-  "2023-08-13": 66288,
-  "2023-08-14": 66352,
-  "2023-08-15": 66352,
-  "2023-08-16": 66352,
-  "2023-08-17": 66352,
-  "2023-08-18": 66352,
-  "2023-08-19": 66352,
-  "2023-08-20": 66486,
-  "2023-08-21": 66486,
-  "2023-08-22": 66520,
-  "2023-08-23": 66520,
-  "2023-08-24": 66520,
-  "2023-08-25": 66520,
-  "2023-08-26": 66602,
-  "2023-08-27": 66602,
-  "2023-08-28": 66636,
-  "2023-08-29": 66636,
-  "2023-08-30": 66636,
-  "2023-08-31": 66681,
-  "2023-09-01": 66687,
-  "2023-09-02": 66687,
-  "2023-09-03": 66687,
-  "2023-09-04": 66687,
-  "2023-09-05": 66687,
-  "2023-09-06": 66687,
-  "2023-09-07": 66687,
-  "2023-09-08": 66687,
-  "2023-09-09": 66687,
-  "2023-09-10": 66687,
-  "2023-09-11": 66687,
-  "2023-09-12": 66687,
-  "2023-09-13": 66687,
-  "2023-09-14": 66687,
-  "2023-09-15": 66687,
-  "2023-09-16": 66975,
-  "2023-09-17": 66975,
-  "2023-09-18": 66975,
-  "2023-09-19": 67025,
-  "2023-09-20": 67025,
-  "2023-09-21": 67025,
-  "2023-09-22": 67080,
-  "2023-09-23": 67080,
-  "2023-09-24": 67080,
-  "2023-09-25": 67080,
-  "2023-09-26": 67129,
-  "2023-09-27": 67129,
-  "2023-09-28": 67129,
-  "2023-09-29": 67129,
-  "2023-09-30": 67129,
-  "2023-10-01": 67129,
-  "2023-10-02": 67129,
-  "2023-10-03": 67129,
-  "2023-10-04": 67129,
-  "2023-10-05": 67129,
-  "2023-10-06": 67129,
-  "2023-10-07": 67129,
-  "2023-10-08": 67129,
-  "2023-10-09": 67129,
-  "2023-10-10": 67129,
-  "2023-10-11": 67289,
-  "2023-10-12": 67289,
-  "2023-10-13": 67289,
-  "2023-10-14": 67289,
-  "2023-10-15": 67289,
-  "2023-10-16": 67289,
-  "2023-10-17": 67289,
-  "2023-10-18": 67289,
-  "2023-10-19": 67289,
-  "2023-10-20": 67289,
-  "2023-10-21": 67289,
-  "2023-10-22": 67289,
-  "2023-10-23": 67289,
-  "2023-10-24": 67289,
-  "2023-10-25": 67289,
-  "2023-10-26": 67289,
-  "2023-10-27": 67289,
-  "2023-10-28": 67289,
-  "2023-10-29": 67289,
-  "2023-10-30": 67289,
-  "2023-10-31": 67289,
-  "2023-11-01": 67289,
-  "2023-11-02": 67289,
-  "2023-11-03": 67289,
-  "2023-11-04": 67289,
-  "2023-11-05": 67289,
-  "2023-11-06": 67289,
-  "2023-11-07": 67289,
-  "2023-11-08": 67289,
-  "2023-11-09": 67289,
-  "2023-11-10": 67289,
-  "2023-11-11": 67704,
-  "2023-11-12": 67704,
-  "2023-11-13": 67704,
-  "2023-11-14": 67704,
-  "2023-11-15": 67704,
-  "2023-11-16": 67704,
-  "2023-11-17": 67704,
-  "2023-11-18": 67704,
-  "2023-11-19": 67704,
-  "2023-11-20": 67704,
-  "2023-11-21": 67704,
-  "2023-11-22": 67704,
-  "2023-11-23": 67704,
-  "2023-11-24": 67704,
-  "2023-11-25": 67704,
-  "2023-11-26": 67704,
-  "2023-11-27": 67704,
-  "2023-11-28": 67704,
-  "2023-11-29": 67704,
-  "2023-11-30": 67704,
-  "2023-12-01": 67704,
-  "2023-12-02": 67704,
-  "2023-12-03": 67704,
-  "2023-12-04": 67704,
-  "2023-12-05": 67704,
-  "2023-12-06": 67704,
-  "2023-12-07": 67704,
-  "2023-12-08": 67704,
-  "2023-12-09": 67704,
-  "2023-12-10": 67704,
-  "2023-12-11": 67704,
-  "2023-12-12": 67704,
-  "2023-12-13": 67704,
-  "2023-12-14": 68075,
-  "2023-12-15": 68085,
-  "2023-12-16": 68096,
-  "2023-12-17": 68108,
-  "2023-12-18": 68120,
-  "2023-12-19": 68134,
-  "2023-12-20": 68141,
-  "2023-12-21": 68155,
-  "2023-12-22": 68173,
-  "2023-12-23": 68182,
-  "2023-12-24": 68189,
-  "2023-12-25": 68199,
-  "2023-12-26": 68221,
-  "2023-12-27": 68235,
-  "2023-12-30": 68278,
-  "2023-12-31": 68289,
-  "2024-01-01": 68304,
-  "2024-01-02": 68307,
-  "2024-01-03": 68314
+  "2024-01-17": 68373,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is UVERworld. The essential tracks, all in one playlist.",
+  "name": "This Is UVERworld",
+  "tracks": [
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341093,
+      "name": "0 choir",
+      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 283506,
+      "name": "23\u30ef\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/7zJQuPrwUfbwFKJJwx4mRT"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258933,
+      "name": "7th Trigger",
+      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-18",
+      "duration_ms": 406653,
+      "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
+      "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 200133,
+      "name": "ace of ace",
+      "url": "https://open.spotify.com/track/5OWhRhguQVJ51KjlqDBxtS"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 343960,
+      "name": "ALL ALONE (album ver.)",
+      "url": "https://open.spotify.com/track/05DaPfS9Z1JBe8jDZ3qARS"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229253,
+      "name": "AS ONE",
+      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
+    },
+    {
+      "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253933,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x"
+    },
+    {
+      "album": {
+        "name": "7th Trigger",
+        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-21",
+      "duration_ms": 275306,
+      "name": "AWAYOKUBA-\u65ac\u308b",
+      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 268106,
+      "name": "BABY BORN & GO",
+      "url": "https://open.spotify.com/track/7fyaPmW3CrDlu50E1AlMHv"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 230493,
+      "name": "BVCK",
+      "url": "https://open.spotify.com/track/0gJshpPlLWS2ErIRZNEmMm"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270706,
+      "name": "CHANCE!",
+      "url": "https://open.spotify.com/track/6ASc0gMzq0KSiVB8WLPHCP"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 210173,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/6vEJ6oy3ardFaLYYJFRmEX"
+    },
+    {
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Colors of the Heart",
+      "url": "https://open.spotify.com/track/7vPKB0XXYhWsTjyZ8DAId8"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-24",
+      "duration_ms": 294253,
+      "name": "ConneQt",
+      "url": "https://open.spotify.com/track/2stthCDq7KTzs9UNlRqAGk"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258693,
+      "name": "CORE PRIDE",
+      "url": "https://open.spotify.com/track/55n4sFy8tjysBcCjQFwX3A"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233893,
+      "name": "D-tecnoLife",
+      "url": "https://open.spotify.com/track/3eyxh8xkW0X7k1FSHlAatt"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281706,
+      "name": "DECIDED (album ver.)",
+      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-08-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 189373,
+      "name": "Don't Think.Sing",
+      "url": "https://open.spotify.com/track/1VGlwULk8qm64twoc8LceC"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226173,
+      "name": "Don\u2019t Think.Feel",
+      "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
+    },
+    {
+      "album": {
+        "name": "Dream Express",
+        "url": "https://open.spotify.com/album/05BAm2LxxXocdpQJj9lpoZ"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 221100,
+      "name": "Dream Express",
+      "url": "https://open.spotify.com/track/6FEstrliqZ8f5LE6a5GKX5"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218573,
+      "name": "echoOZ",
+      "url": "https://open.spotify.com/track/1BUBBIuLNVeaoTqRCYxzPx"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "SHUNTO",
+          "url": "https://open.spotify.com/artist/6zjey2qJCNvlte3p34SWhH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219733,
+      "name": "ENCORE AGAIN",
+      "url": "https://open.spotify.com/track/4JwwYSJnbvuqRKrZLEnkA8"
+    },
+    {
+      "album": {
+        "name": "endscape",
+        "url": "https://open.spotify.com/album/2eZdgtqNCvaMOXr29UXUXu"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 278000,
+      "name": "endscape",
+      "url": "https://open.spotify.com/track/1uBKwpT6hjR4ot1UciAH7x"
+    },
+    {
+      "album": {
+        "name": "Eye's Sentry(Anime ver.)",
+        "url": "https://open.spotify.com/album/5wqx65H0ar3eZiI3jU93Op"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89960,
+      "name": "Eye's Sentry(Anime ver.)",
+      "url": "https://open.spotify.com/track/2mpkh5uQygtv1nY0q3Qlps"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255706,
+      "name": "Fight For Liberty(album ver.)",
+      "url": "https://open.spotify.com/track/1r2OVpl2e5mVDApfqDzY9I"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "ANARCHY",
+          "url": "https://open.spotify.com/artist/1zHcoqaTvlZdEd7CUjk2eI"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199786,
+      "name": "FINALIST",
+      "url": "https://open.spotify.com/track/49pKb9kKhbA5rYA8hEZZBd"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202013,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+    },
+    {
+      "album": {
+        "name": "DAWN",
+        "url": "https://open.spotify.com/album/5clOVOw7JaQdfBOP1aboZ3"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240146,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/1lq7KJ0TY8sTxazl6y68YW"
+    },
+    {
+      "album": {
+        "name": "GO-ON",
+        "url": "https://open.spotify.com/album/6EhK465XjJxe1C1fWEn7oi"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 259893,
+      "name": "GO-ON",
+      "url": "https://open.spotify.com/track/6SyR6c2BVO0Wa72dQEFBzv"
+    },
+    {
+      "album": {
+        "name": "LAST",
+        "url": "https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-20",
+      "duration_ms": 243480,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/5wFmOX7uCCi1KwdWuufm2a"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-31",
+      "duration_ms": 203693,
+      "name": "GOOD and EVIL",
+      "url": "https://open.spotify.com/track/4NojX9qo5t2aViWKPQjtE3"
+    },
+    {
+      "album": {
+        "name": "HOURGLASS",
+        "url": "https://open.spotify.com/album/5HcGmONmQBgwUDWcN128Hd"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-17",
+      "duration_ms": 242493,
+      "name": "HOURGLASS",
+      "url": "https://open.spotify.com/track/4v3uMW3YGHyGfBSHTezgwl"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-07",
+      "duration_ms": 276520,
+      "name": "I LOVE THE WORLD",
+      "url": "https://open.spotify.com/track/6J25oC8Xh8YuXOvmzZlQoO"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265040,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
+    },
+    {
+      "album": {
+        "name": "BABY BORN & GO/KINJITO",
+        "url": "https://open.spotify.com/album/4DpC9puXY5169fqg1Bctnd"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 303093,
+      "name": "KINJITO",
+      "url": "https://open.spotify.com/track/7CYZic0vA1FjLj85zcpJFE"
+    },
+    {
+      "album": {
+        "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-21",
+      "duration_ms": 288920,
+      "name": "LIFE",
+      "url": "https://open.spotify.com/track/3pi7PqzZcQVaDJKCMV8XK0"
+    },
+    {
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 253506,
+      "name": "LIFEsize",
+      "url": "https://open.spotify.com/track/0Oc0eUIh7fSvr37Iqs77oW"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-05",
+      "duration_ms": 258453,
+      "name": "LIMITLESS",
+      "url": "https://open.spotify.com/track/78UCAcX9SzDUDNqwlx87fA"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-05",
+      "duration_ms": 339653,
+      "name": "LONE WOLF",
+      "url": "https://open.spotify.com/track/3m5MKWNlUGKDeg9kRcuQjB"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-30",
+      "duration_ms": 262013,
+      "name": "Making it Drive",
+      "url": "https://open.spotify.com/track/1xpZ7rVE6onccU4zdpEgFV"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328506,
+      "name": "MONDO PIECE",
+      "url": "https://open.spotify.com/track/0drLNk73IaEvSjdhPnQjY0"
+    },
+    {
+      "album": {
+        "name": "NAMELY",
+        "url": "https://open.spotify.com/album/37U1o22d174FbOHy59LsbK"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247880,
+      "name": "NAMELY",
+      "url": "https://open.spotify.com/track/0ZfWNX0kP9ofAjmTkpVSzJ"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-03",
+      "duration_ms": 101760,
+      "name": "NEVER ENDING WORLD",
+      "url": "https://open.spotify.com/track/5xqqRVRVFXI0rL7CGoIcTd"
+    },
+    {
+      "album": {
+        "name": "NO.1",
+        "url": "https://open.spotify.com/album/3tNT6nyzW65FKqjmOjp0ID"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 332906,
+      "name": "NO.1",
+      "url": "https://open.spotify.com/track/0KUwWB5EWikcRN32ol1eZq"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226493,
+      "name": "ODD FUTURE",
+      "url": "https://open.spotify.com/track/5tHp131qFB3T7e01x1xsO2"
+    },
+    {
+      "album": {
+        "name": "ODD FUTURE short ver.",
+        "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89983,
+      "name": "ODD FUTURE short ver.",
+      "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 202546,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/4hfdwNAshu0chyIXkIgBD6"
+    },
+    {
+      "album": {
+        "name": "\u7121\u53ccCollaborations -The undefeated-",
+        "url": "https://open.spotify.com/album/43YpGTcUo1dDHgGyGftoBC"
+      },
+      "artists": [
+        {
+          "name": "AK-69",
+          "url": "https://open.spotify.com/artist/4Wet9Sqa5LrEjBeV4k6edh"
+        },
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 220040,
+      "name": "ONE LIFE",
+      "url": "https://open.spotify.com/track/0jZuZviZ9DjdgoOgGxDxKd"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
+      "duration_ms": 313013,
+      "name": "One stroke for freedom",
+      "url": "https://open.spotify.com/track/5Ucz24aUo02729n6aLz9mV"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-17",
+      "duration_ms": 263306,
+      "name": "OUR ALWAYS",
+      "url": "https://open.spotify.com/track/45fUsf4nyrfbEP9JL0unQ1"
+    },
+    {
+      "album": {
+        "name": "ODD FUTURE",
+        "url": "https://open.spotify.com/album/1sKDBoYMLDPx74Ktp5tnJ1"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-11",
+      "duration_ms": 207560,
+      "name": "PLOT",
+      "url": "https://open.spotify.com/track/6nw2b6JtDb2A7vUwMrSPDA"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "PRAYING RUN",
+      "url": "https://open.spotify.com/track/373Npzs6cZkvW2hyILpONV"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222786,
+      "name": "Q.E.D.",
+      "url": "https://open.spotify.com/track/0nZTXNZrXjecUMUqGbGCSc"
+    },
+    {
+      "album": {
+        "name": "All Time Best - Ballade Best(Re-Recording)",
+        "url": "https://open.spotify.com/album/0q30zISNdM55Vrilj1L76K"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-16",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 274080,
+      "name": "Qualia - All Time Best Version",
+      "url": "https://open.spotify.com/track/1wARY7GOrsMgcAJCuf5pAd"
+    },
+    {
+      "album": {
+        "name": "DECIDED",
+        "url": "https://open.spotify.com/album/01tDdRKQdnikXlEFegVDzA"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "RANGE",
+      "url": "https://open.spotify.com/track/78ane668r0Oq96kSjgyUiB"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289933,
+      "name": "REVERSI",
+      "url": "https://open.spotify.com/track/7HiAUL9h0px38LjWchaeR2"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "ROB THE FRONTIER",
+      "url": "https://open.spotify.com/track/0vgQEQxb49LCKEH5Gg7E4z"
+    },
+    {
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248493,
+      "name": "SHAMROCK",
+      "url": "https://open.spotify.com/track/5M6hrn7yus9MefXLBnCCVA"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-09-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-17",
+      "duration_ms": 284280,
+      "name": "SHOUT LOVE",
+      "url": "https://open.spotify.com/track/1QuQWWFE0iytP51AxuOTaV"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-26",
+      "duration_ms": 240013,
+      "name": "stay on",
+      "url": "https://open.spotify.com/track/4UMcrh6Vh4xV7KB4BV56vu"
+    },
+    {
+      "album": {
+        "name": "HOURGLASS",
+        "url": "https://open.spotify.com/album/5HcGmONmQBgwUDWcN128Hd"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 211493,
+      "name": "Teenage Love",
+      "url": "https://open.spotify.com/track/6IhYuDbFALJbqpB5K5M1Uo"
+    },
+    {
+      "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "THE OVER",
+      "url": "https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289853,
+      "name": "THEORY",
+      "url": "https://open.spotify.com/track/0GmGyXJKcxbbsXu1HtkDqA"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174080,
+      "name": "THUG LIFE",
+      "url": "https://open.spotify.com/track/60hNg1E9VLg4fIHeiSJSxJ"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258706,
+      "name": "Touch off",
+      "url": "https://open.spotify.com/track/7CSTVNXkW2AbmNktlP1hi2"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260079,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
+    },
+    {
+      "album": {
+        "name": "LAST",
+        "url": "https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-02",
+      "duration_ms": 211200,
+      "name": "WANNA be BRILLIANT",
+      "url": "https://open.spotify.com/track/6lfnRtdV3bJneiA3Y0aY5G"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 250613,
+      "name": "Wizard CLUB",
+      "url": "https://open.spotify.com/track/4kvQEOuOZWtSV1ObwHq1HJ"
+    },
+    {
+      "album": {
+        "name": "LAST",
+        "url": "https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-11",
+      "duration_ms": 299960,
+      "name": "world LOST world",
+      "url": "https://open.spotify.com/track/4DCjLkXskVac4WlzP2gpNd"
+    },
+    {
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-26",
+      "duration_ms": 296706,
+      "name": "YURA YURA",
+      "url": "https://open.spotify.com/track/7aHDHkq2UnoaKhFiRUrwYr"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-02",
+      "duration_ms": 235693,
+      "name": "\u03b1-Skill",
+      "url": "https://open.spotify.com/track/5BWIZCWJ46dTlSX4n597xu"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-12",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 228000,
+      "name": "\u3044\u3064\u304b\u5fc5\u305a\u6b7b\u306c\u3053\u3068\u3092\u5fd8\u308c\u308b\u306a",
+      "url": "https://open.spotify.com/track/6hMUL6cLiZTIRFMvZYesjP"
+    },
+    {
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183693,
+      "name": "\u3048\u304f\u307c",
+      "url": "https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270173,
+      "name": "\u30af\u30aa\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+    },
+    {
+      "album": {
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "\u30b7\u30e3\u30ab\u30d3\u30fc\u30c1\u301cLaka Laka La\u301c",
+      "url": "https://open.spotify.com/track/3cJOvrRzZqaXP7TSzP0SSp"
+    },
+    {
+      "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291600,
+      "name": "\u30b7\u30ea\u30a6\u30b9",
+      "url": "https://open.spotify.com/track/0nfT87RjejFpG4eQNTVpuN"
+    },
+    {
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-08",
+      "duration_ms": 247000,
+      "name": "\u30bc\u30ed\u306e\u7b54",
+      "url": "https://open.spotify.com/track/0EU8Wq3Unp2slQPzKcC1JH"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295213,
+      "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9(album ver.)",
+      "url": "https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV"
+    },
+    {
+      "album": {
+        "name": "LAST",
+        "url": "https://open.spotify.com/album/1KuBEYaHI7zcjKrdNYq61b"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 327146,
+      "name": "\u30cf\u30a4!\u554f\u984c\u4f5c",
+      "url": "https://open.spotify.com/track/3BqYOAoYr1fmtuezvRIaDK"
+    },
+    {
+      "album": {
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210413,
+      "name": "\u30d3\u30bf\u30fc\u30b9\u30a6\u30a3\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/04kM1N15bkZxI0KlQB4tXb"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 278840,
+      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
+    },
+    {
+      "album": {
+        "name": "GO-ON",
+        "url": "https://open.spotify.com/album/6EhK465XjJxe1C1fWEn7oi"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-07",
+      "duration_ms": 243826,
+      "name": "\u30de\u30c0\u30e9\u8776",
+      "url": "https://open.spotify.com/track/0BOSV6nO34XHlgpRpIX05b"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-09",
+      "duration_ms": 274026,
+      "name": "\u4e00\u5104\u5206\u306e\u4e00\u306e\u5c0f\u8aac",
+      "url": "https://open.spotify.com/track/2xLAbmNlHuOk3m6fAnUci9"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u6ef4\u306e\u5f71\u97ff (Extra Edition)",
+        "url": "https://open.spotify.com/album/0faHUWjxWLIjiTA8xfs7tq"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291800,
+      "name": "\u4e00\u6ef4\u306e\u5f71\u97ff",
+      "url": "https://open.spotify.com/track/6a8zOePRBenXtHq2AY49xB"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 260786,
+      "name": "\u4e00\u77f3\u3092\u6295\u3058\u308b Tokyo midnight sun",
+      "url": "https://open.spotify.com/track/4aC5XzTQraj0DrfVKyqAqH"
+    },
+    {
+      "album": {
+        "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449 (Extra Edition)",
+        "url": "https://open.spotify.com/album/0TA8moeph2A7CMtfWFtzFC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258786,
+      "name": "\u50d5\u306e\u8a00\u8449\u3067\u306f\u306a\u3044 \u3053\u308c\u306f\u50d5\u9054\u306e\u8a00\u8449",
+      "url": "https://open.spotify.com/track/0StkLk0MA1i4kcUozLLxKl"
+    },
+    {
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248986,
+      "name": "\u511a\u304f\u3082\u6c38\u4e45\u306e\u30ab\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/3nIxNymArWd7kIL4kGb6er"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5N2L30egSMusfrCvRHlYV0"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 304373,
+      "name": "\u512a\u3057\u3055\u306e\u96eb",
+      "url": "https://open.spotify.com/track/3Yg9If3kgvlaOPjAP9mgZB"
+    },
+    {
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257000,
+      "name": "\u541b\u306e\u597d\u304d\u306a\u3046\u305f",
+      "url": "https://open.spotify.com/track/79nCnMMdc114kKQCcHNq3j"
+    },
+    {
+      "album": {
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 318773,
+      "name": "\u54c0\u3057\u307f\u306f\u304d\u3063\u3068",
+      "url": "https://open.spotify.com/track/1HlZmEw99Zmca0hLzvPCru"
+    },
+    {
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252960,
+      "name": "\u5728\u308b\u3079\u304d\u5f62",
+      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
+    },
+    {
+      "album": {
+        "name": "\u6765\u9ce5\u6c5f",
+        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "\u5c71\u7530\u5b5d\u4e4b",
+          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
+        },
+        {
+          "name": "Aiemu",
+          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 219200,
+      "name": "\u6765\u9ce5\u6c5f",
+      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
+    },
+    {
+      "album": {
+        "name": "PROGLUTION",
+        "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "\u6d6e\u4e16CROSSING",
+      "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"
+    },
+    {
+      "album": {
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334026,
+      "name": "\u6fc0\u52d5",
+      "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 222373,
+      "name": "\u7121\u610f\u5473\u306b\u306a\u308b\u591c",
+      "url": "https://open.spotify.com/track/5GPGEYybqW0pdg3KBdw4n5"
+    },
+    {
+      "album": {
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200426,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
+    },
+    {
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1"
 }

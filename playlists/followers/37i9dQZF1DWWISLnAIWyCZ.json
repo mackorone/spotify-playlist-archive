@@ -1,621 +1,1649 @@
 {
-  "2022-04-19": 70531,
-  "2022-04-20": 70567,
-  "2022-04-21": 70624,
-  "2022-04-22": 70665,
-  "2022-04-23": 70715,
-  "2022-04-24": 70758,
-  "2022-04-25": 70809,
-  "2022-04-26": 70842,
-  "2022-04-27": 70895,
-  "2022-04-28": 70936,
-  "2022-04-29": 71011,
-  "2022-04-30": 71054,
-  "2022-05-01": 71100,
-  "2022-05-02": 71100,
-  "2022-05-03": 71155,
-  "2022-05-04": 71201,
-  "2022-05-05": 71248,
-  "2022-05-06": 71271,
-  "2022-05-07": 71332,
-  "2022-05-08": 71388,
-  "2022-05-09": 71401,
-  "2022-05-10": 71439,
-  "2022-05-11": 71483,
-  "2022-05-12": 71516,
-  "2022-05-13": 71552,
-  "2022-05-14": 71591,
-  "2022-05-15": 71621,
-  "2022-05-16": 71651,
-  "2022-05-17": 71696,
-  "2022-05-18": 71742,
-  "2022-05-19": 71791,
-  "2022-05-20": 71849,
-  "2022-05-21": 71930,
-  "2022-05-22": 71930,
-  "2022-05-23": 71989,
-  "2022-05-24": 72024,
-  "2022-05-25": 72059,
-  "2022-05-26": 72095,
-  "2022-05-27": 72124,
-  "2022-05-28": 72175,
-  "2022-05-29": 72213,
-  "2022-05-30": 72255,
-  "2022-05-31": 72306,
-  "2022-06-01": 72387,
-  "2022-06-02": 72400,
-  "2022-06-03": 72446,
-  "2022-06-04": 72492,
-  "2022-06-05": 72523,
-  "2022-06-06": 72570,
-  "2022-06-07": 72605,
-  "2022-06-08": 72677,
-  "2022-06-09": 72702,
-  "2022-06-10": 72767,
-  "2022-06-11": 72800,
-  "2022-06-12": 72834,
-  "2022-06-13": 72894,
-  "2022-06-14": 72938,
-  "2022-06-15": 72968,
-  "2022-06-16": 73011,
-  "2022-06-17": 73045,
-  "2022-06-18": 73085,
-  "2022-06-19": 73168,
-  "2022-06-20": 73168,
-  "2022-06-21": 73220,
-  "2022-06-22": 73302,
-  "2022-06-23": 73302,
-  "2022-06-24": 73338,
-  "2022-06-25": 73371,
-  "2022-06-26": 73411,
-  "2022-06-27": 73441,
-  "2022-06-28": 73478,
-  "2022-06-29": 73530,
-  "2022-06-30": 73561,
-  "2022-07-01": 73601,
-  "2022-07-02": 73634,
-  "2022-07-03": 73678,
-  "2022-07-04": 73704,
-  "2022-07-05": 73737,
-  "2022-07-06": 73782,
-  "2022-07-07": 73840,
-  "2022-07-08": 73879,
-  "2022-07-09": 73911,
-  "2022-07-10": 73947,
-  "2022-07-11": 73992,
-  "2022-07-12": 74044,
-  "2022-07-13": 74099,
-  "2022-07-14": 74135,
-  "2022-07-15": 74176,
-  "2022-07-16": 74218,
-  "2022-07-17": 74251,
-  "2022-07-18": 74290,
-  "2022-07-19": 74352,
-  "2022-07-20": 74388,
-  "2022-07-21": 74419,
-  "2022-07-22": 74472,
-  "2022-07-23": 74528,
-  "2022-07-24": 74569,
-  "2022-07-25": 74615,
-  "2022-07-26": 74673,
-  "2022-07-27": 71518,
-  "2022-07-28": 71518,
-  "2022-07-29": 71518,
-  "2022-07-30": 71518,
-  "2022-07-31": 71518,
-  "2022-08-01": 71518,
-  "2022-08-02": 71518,
-  "2022-08-03": 71518,
-  "2022-08-04": 71518,
-  "2022-08-05": 71518,
-  "2022-08-06": 71518,
-  "2022-08-07": 71518,
-  "2022-08-08": 71518,
-  "2022-08-09": 71518,
-  "2022-08-10": 71518,
-  "2022-08-11": 71518,
-  "2022-08-12": 71518,
-  "2022-08-13": 71518,
-  "2022-08-14": 71518,
-  "2022-08-15": 71518,
-  "2022-08-16": 71518,
-  "2022-08-17": 71518,
-  "2022-08-18": 71518,
-  "2022-08-19": 71518,
-  "2022-08-20": 71518,
-  "2022-08-21": 71518,
-  "2022-08-22": 71518,
-  "2022-08-23": 71518,
-  "2022-08-24": 71518,
-  "2022-08-25": 71518,
-  "2022-08-26": 71518,
-  "2022-08-27": 71518,
-  "2022-08-28": 71518,
-  "2022-08-29": 71518,
-  "2022-08-30": 71518,
-  "2022-08-31": 71518,
-  "2022-09-01": 71518,
-  "2022-09-02": 71518,
-  "2022-09-03": 71518,
-  "2022-09-04": 71518,
-  "2022-09-05": 71518,
-  "2022-09-06": 71518,
-  "2022-09-07": 71518,
-  "2022-09-09": 71518,
-  "2022-09-10": 71518,
-  "2022-09-11": 71518,
-  "2022-09-12": 71518,
-  "2022-09-13": 71518,
-  "2022-09-15": 71518,
-  "2022-09-16": 71518,
-  "2022-09-17": 71518,
-  "2022-09-18": 71518,
-  "2022-09-19": 71518,
-  "2022-09-20": 71518,
-  "2022-09-21": 71518,
-  "2022-09-22": 71518,
-  "2022-09-23": 71518,
-  "2022-09-24": 71518,
-  "2022-09-25": 71518,
-  "2022-09-26": 71518,
-  "2022-09-27": 71518,
-  "2022-09-28": 71518,
-  "2022-09-29": 71518,
-  "2022-09-30": 71518,
-  "2022-10-01": 71518,
-  "2022-10-02": 71518,
-  "2022-10-03": 71518,
-  "2022-10-04": 71518,
-  "2022-10-05": 71518,
-  "2022-10-06": 71518,
-  "2022-10-07": 71518,
-  "2022-10-08": 71518,
-  "2022-10-09": 71518,
-  "2022-10-10": 71518,
-  "2022-10-11": 71518,
-  "2022-10-12": 71518,
-  "2022-10-13": 71518,
-  "2022-10-14": 71518,
-  "2022-10-15": 71518,
-  "2022-10-16": 71518,
-  "2022-10-17": 71518,
-  "2022-10-18": 71518,
-  "2022-10-19": 71518,
-  "2022-10-20": 71518,
-  "2022-10-21": 71518,
-  "2022-10-22": 71518,
-  "2022-10-23": 71518,
-  "2022-10-24": 71518,
-  "2022-10-25": 71518,
-  "2022-10-26": 71518,
-  "2022-10-27": 71518,
-  "2022-10-28": 71518,
-  "2022-10-29": 71518,
-  "2022-10-30": 71518,
-  "2022-10-31": 71518,
-  "2022-11-01": 71518,
-  "2022-11-02": 71518,
-  "2022-11-03": 71518,
-  "2022-11-04": 71518,
-  "2022-11-05": 71518,
-  "2022-11-06": 71518,
-  "2022-11-07": 71518,
-  "2022-11-08": 71518,
-  "2022-11-09": 71518,
-  "2022-11-10": 71518,
-  "2022-11-11": 71518,
-  "2022-11-12": 71518,
-  "2022-11-13": 71518,
-  "2022-11-14": 71518,
-  "2022-11-15": 71518,
-  "2022-11-16": 71518,
-  "2022-11-17": 71518,
-  "2022-11-18": 71518,
-  "2022-11-19": 71518,
-  "2022-11-20": 71518,
-  "2022-11-21": 71518,
-  "2022-11-22": 71518,
-  "2022-11-23": 71518,
-  "2022-11-24": 71518,
-  "2022-11-25": 71518,
-  "2022-11-26": 71518,
-  "2022-11-27": 71518,
-  "2022-11-28": 71518,
-  "2022-11-29": 71518,
-  "2022-11-30": 71518,
-  "2022-12-01": 71518,
-  "2022-12-02": 71518,
-  "2022-12-03": 71518,
-  "2022-12-04": 71518,
-  "2022-12-05": 71518,
-  "2022-12-06": 71518,
-  "2022-12-07": 71518,
-  "2022-12-08": 71518,
-  "2022-12-09": 71518,
-  "2022-12-10": 71518,
-  "2022-12-11": 71518,
-  "2022-12-12": 71518,
-  "2022-12-13": 71518,
-  "2022-12-14": 71518,
-  "2022-12-15": 71518,
-  "2022-12-16": 71518,
-  "2022-12-17": 71518,
-  "2022-12-18": 71518,
-  "2022-12-19": 71518,
-  "2022-12-20": 71518,
-  "2022-12-21": 71518,
-  "2022-12-22": 71518,
-  "2022-12-24": 71518,
-  "2022-12-25": 71518,
-  "2022-12-26": 71518,
-  "2022-12-27": 71518,
-  "2022-12-28": 71518,
-  "2022-12-29": 71518,
-  "2022-12-30": 71518,
-  "2022-12-31": 71518,
-  "2023-01-01": 71518,
-  "2023-01-02": 71518,
-  "2023-01-03": 71518,
-  "2023-01-04": 71518,
-  "2023-01-05": 71518,
-  "2023-01-06": 71518,
-  "2023-01-07": 71518,
-  "2023-01-08": 71518,
-  "2023-01-09": 71518,
-  "2023-01-10": 71518,
-  "2023-01-11": 71518,
-  "2023-01-12": 71518,
-  "2023-01-13": 71518,
-  "2023-01-14": 71518,
-  "2023-01-15": 71518,
-  "2023-01-16": 71518,
-  "2023-01-17": 71518,
-  "2023-01-18": 71518,
-  "2023-01-19": 71518,
-  "2023-01-20": 71518,
-  "2023-01-21": 71518,
-  "2023-01-22": 71518,
-  "2023-01-23": 71518,
-  "2023-01-24": 71518,
-  "2023-01-25": 71518,
-  "2023-01-26": 71518,
-  "2023-01-27": 71518,
-  "2023-01-28": 71518,
-  "2023-01-29": 71518,
-  "2023-01-30": 71518,
-  "2023-01-31": 71518,
-  "2023-02-01": 71518,
-  "2023-02-02": 71518,
-  "2023-02-03": 71518,
-  "2023-02-04": 71518,
-  "2023-02-05": 71518,
-  "2023-02-06": 71518,
-  "2023-02-07": 71518,
-  "2023-02-08": 71518,
-  "2023-02-09": 71518,
-  "2023-02-10": 71518,
-  "2023-02-11": 71518,
-  "2023-02-12": 71518,
-  "2023-02-13": 71518,
-  "2023-02-14": 71518,
-  "2023-02-15": 71518,
-  "2023-02-16": 71518,
-  "2023-02-17": 71518,
-  "2023-02-18": 71518,
-  "2023-02-19": 71518,
-  "2023-02-20": 71518,
-  "2023-02-21": 71518,
-  "2023-02-22": 71518,
-  "2023-02-23": 71518,
-  "2023-02-24": 71518,
-  "2023-02-25": 71518,
-  "2023-02-26": 71518,
-  "2023-02-27": 71518,
-  "2023-02-28": 71518,
-  "2023-03-01": 71518,
-  "2023-03-02": 71518,
-  "2023-03-03": 71518,
-  "2023-03-04": 71518,
-  "2023-03-05": 71518,
-  "2023-03-06": 71518,
-  "2023-03-07": 71518,
-  "2023-03-08": 71518,
-  "2023-03-09": 71518,
-  "2023-03-10": 71518,
-  "2023-03-11": 71518,
-  "2023-03-12": 71518,
-  "2023-03-13": 71518,
-  "2023-03-14": 71518,
-  "2023-03-15": 71518,
-  "2023-03-16": 71518,
-  "2023-03-17": 71518,
-  "2023-03-18": 71518,
-  "2023-03-19": 71518,
-  "2023-03-20": 71518,
-  "2023-03-21": 71518,
-  "2023-03-22": 71518,
-  "2023-03-23": 71518,
-  "2023-03-24": 71518,
-  "2023-03-25": 71518,
-  "2023-03-26": 71518,
-  "2023-03-27": 71518,
-  "2023-03-28": 71518,
-  "2023-03-29": 71518,
-  "2023-03-30": 71518,
-  "2023-03-31": 71518,
-  "2023-04-01": 71518,
-  "2023-04-02": 71518,
-  "2023-04-03": 71518,
-  "2023-04-04": 71518,
-  "2023-04-05": 71518,
-  "2023-04-06": 71518,
-  "2023-04-07": 71518,
-  "2023-04-09": 71518,
-  "2023-04-10": 71518,
-  "2023-04-11": 71518,
-  "2023-04-12": 71518,
-  "2023-04-13": 71518,
-  "2023-04-14": 71518,
-  "2023-04-15": 71518,
-  "2023-04-16": 71518,
-  "2023-04-17": 71518,
-  "2023-04-18": 71518,
-  "2023-04-19": 71518,
-  "2023-04-20": 71518,
-  "2023-04-21": 71518,
-  "2023-04-22": 71518,
-  "2023-04-23": 71518,
-  "2023-04-24": 71518,
-  "2023-04-25": 71518,
-  "2023-04-26": 71518,
-  "2023-04-27": 71518,
-  "2023-04-28": 71518,
-  "2023-04-29": 71518,
-  "2023-04-30": 71518,
-  "2023-05-01": 71518,
-  "2023-05-02": 71518,
-  "2023-05-03": 71518,
-  "2023-05-04": 71518,
-  "2023-05-05": 71518,
-  "2023-05-06": 71518,
-  "2023-05-07": 71518,
-  "2023-05-08": 71518,
-  "2023-05-09": 71518,
-  "2023-05-10": 71518,
-  "2023-05-11": 71518,
-  "2023-05-12": 71518,
-  "2023-05-13": 71518,
-  "2023-05-14": 71518,
-  "2023-05-15": 71518,
-  "2023-05-16": 71518,
-  "2023-05-17": 71518,
-  "2023-05-18": 71518,
-  "2023-05-19": 71518,
-  "2023-05-20": 71518,
-  "2023-05-21": 71518,
-  "2023-05-22": 71518,
-  "2023-05-23": 71518,
-  "2023-05-24": 71518,
-  "2023-05-25": 71518,
-  "2023-05-26": 71518,
-  "2023-05-27": 71518,
-  "2023-05-28": 71518,
-  "2023-05-29": 71518,
-  "2023-05-30": 71518,
-  "2023-05-31": 71518,
-  "2023-06-01": 71518,
-  "2023-06-02": 71518,
-  "2023-06-03": 71518,
-  "2023-06-04": 71518,
-  "2023-06-05": 71518,
-  "2023-06-06": 71518,
-  "2023-06-07": 71518,
-  "2023-06-08": 71518,
-  "2023-06-09": 71518,
-  "2023-06-10": 71518,
-  "2023-06-11": 71518,
-  "2023-06-12": 71518,
-  "2023-06-13": 71518,
-  "2023-06-14": 71518,
-  "2023-06-15": 71518,
-  "2023-06-16": 71518,
-  "2023-06-17": 71518,
-  "2023-06-18": 71518,
-  "2023-06-19": 71518,
-  "2023-06-20": 71518,
-  "2023-06-21": 71518,
-  "2023-06-22": 71518,
-  "2023-06-23": 71518,
-  "2023-06-24": 71518,
-  "2023-06-25": 71518,
-  "2023-06-26": 71518,
-  "2023-06-27": 71518,
-  "2023-06-28": 71518,
-  "2023-06-29": 71518,
-  "2023-06-30": 71518,
-  "2023-07-01": 71518,
-  "2023-07-02": 71518,
-  "2023-07-03": 71518,
-  "2023-07-04": 71518,
-  "2023-07-05": 71518,
-  "2023-07-06": 71518,
-  "2023-07-07": 71518,
-  "2023-07-08": 71518,
-  "2023-07-09": 71518,
-  "2023-07-10": 71518,
-  "2023-07-11": 71518,
-  "2023-07-12": 71518,
-  "2023-07-13": 71518,
-  "2023-07-14": 71518,
-  "2023-07-15": 71518,
-  "2023-07-16": 71518,
-  "2023-07-17": 71518,
-  "2023-07-18": 71518,
-  "2023-07-19": 71518,
-  "2023-07-20": 71518,
-  "2023-07-21": 71518,
-  "2023-07-22": 71518,
-  "2023-07-23": 71518,
-  "2023-07-24": 71518,
-  "2023-07-25": 71518,
-  "2023-07-26": 71518,
-  "2023-07-27": 71518,
-  "2023-07-28": 71518,
-  "2023-07-29": 71518,
-  "2023-07-30": 71518,
-  "2023-07-31": 71518,
-  "2023-08-01": 71518,
-  "2023-08-02": 71518,
-  "2023-08-03": 71518,
-  "2023-08-04": 71518,
-  "2023-08-05": 71518,
-  "2023-08-06": 71518,
-  "2023-08-07": 71518,
-  "2023-08-08": 71518,
-  "2023-08-09": 71518,
-  "2023-08-10": 71518,
-  "2023-08-11": 71518,
-  "2023-08-12": 71518,
-  "2023-08-13": 71518,
-  "2023-08-14": 71518,
-  "2023-08-15": 71518,
-  "2023-08-16": 71518,
-  "2023-08-17": 71518,
-  "2023-08-18": 71518,
-  "2023-08-19": 71518,
-  "2023-08-20": 71518,
-  "2023-08-21": 71518,
-  "2023-08-22": 71518,
-  "2023-08-23": 71518,
-  "2023-08-24": 71518,
-  "2023-08-25": 71518,
-  "2023-08-26": 71518,
-  "2023-08-27": 71518,
-  "2023-08-28": 71518,
-  "2023-08-29": 71518,
-  "2023-08-30": 71518,
-  "2023-08-31": 71518,
-  "2023-09-01": 71518,
-  "2023-09-02": 71518,
-  "2023-09-03": 71518,
-  "2023-09-04": 71518,
-  "2023-09-05": 71518,
-  "2023-09-06": 71518,
-  "2023-09-07": 71518,
-  "2023-09-08": 71518,
-  "2023-09-09": 71518,
-  "2023-09-10": 71518,
-  "2023-09-11": 71518,
-  "2023-09-12": 71518,
-  "2023-09-13": 71518,
-  "2023-09-14": 71518,
-  "2023-09-15": 71518,
-  "2023-09-16": 71518,
-  "2023-09-17": 71518,
-  "2023-09-18": 71518,
-  "2023-09-19": 71518,
-  "2023-09-20": 71518,
-  "2023-09-21": 71518,
-  "2023-09-22": 71518,
-  "2023-09-23": 71518,
-  "2023-09-24": 71518,
-  "2023-09-25": 71518,
-  "2023-09-26": 71518,
-  "2023-09-27": 71518,
-  "2023-09-28": 71518,
-  "2023-09-29": 71518,
-  "2023-09-30": 71518,
-  "2023-10-01": 71518,
-  "2023-10-02": 71518,
-  "2023-10-03": 71518,
-  "2023-10-04": 71518,
-  "2023-10-05": 71518,
-  "2023-10-06": 71518,
-  "2023-10-07": 71518,
-  "2023-10-08": 71518,
-  "2023-10-09": 71518,
-  "2023-10-10": 71518,
-  "2023-10-11": 71518,
-  "2023-10-12": 71518,
-  "2023-10-13": 71518,
-  "2023-10-14": 71518,
-  "2023-10-15": 71518,
-  "2023-10-16": 71518,
-  "2023-10-17": 71518,
-  "2023-10-18": 71518,
-  "2023-10-19": 71518,
-  "2023-10-20": 71518,
-  "2023-10-21": 71518,
-  "2023-10-22": 71518,
-  "2023-10-23": 71518,
-  "2023-10-24": 71518,
-  "2023-10-25": 71518,
-  "2023-10-26": 71518,
-  "2023-10-27": 71518,
-  "2023-10-28": 71518,
-  "2023-10-29": 71518,
-  "2023-10-30": 71518,
-  "2023-10-31": 71518,
-  "2023-11-01": 71518,
-  "2023-11-02": 71518,
-  "2023-11-03": 71518,
-  "2023-11-04": 71518,
-  "2023-11-05": 71518,
-  "2023-11-06": 71518,
-  "2023-11-07": 71518,
-  "2023-11-08": 71518,
-  "2023-11-09": 71518,
-  "2023-11-10": 71518,
-  "2023-11-11": 71518,
-  "2023-11-12": 71518,
-  "2023-11-13": 71518,
-  "2023-11-14": 71518,
-  "2023-11-15": 71518,
-  "2023-11-16": 71518,
-  "2023-11-17": 71518,
-  "2023-11-18": 71518,
-  "2023-11-19": 71518,
-  "2023-11-20": 71518,
-  "2023-11-21": 71518,
-  "2023-11-22": 71518,
-  "2023-11-23": 71518,
-  "2023-11-24": 71518,
-  "2023-11-25": 71518,
-  "2023-11-26": 71518,
-  "2023-11-27": 71518,
-  "2023-11-28": 71518,
-  "2023-11-29": 71518,
-  "2023-11-30": 71518,
-  "2023-12-01": 71518,
-  "2023-12-02": 71518,
-  "2023-12-03": 71518,
-  "2023-12-04": 71518,
-  "2023-12-05": 71518,
-  "2023-12-06": 71518,
-  "2023-12-07": 71518,
-  "2023-12-08": 71518,
-  "2023-12-09": 71518,
-  "2023-12-10": 71518,
-  "2023-12-11": 71518,
-  "2023-12-12": 71518,
-  "2023-12-13": 71518,
-  "2023-12-14": 71518,
-  "2023-12-15": 71518,
-  "2023-12-16": 71518,
-  "2023-12-17": 71518,
-  "2023-12-18": 71518,
-  "2023-12-19": 71518,
-  "2023-12-20": 71518,
-  "2023-12-21": 71518,
-  "2023-12-22": 71518,
-  "2023-12-23": 71518,
-  "2023-12-24": 71518,
-  "2023-12-25": 71518,
-  "2023-12-26": 71518,
-  "2023-12-27": 71518,
-  "2023-12-30": 71518,
-  "2023-12-31": 71518,
-  "2024-01-01": 71518,
-  "2024-01-02": 71518,
-  "2024-01-03": 71518
+  "2024-01-17": 71518,
+  "date_first_scraped": "2022-04-19",
+  "description": "60 best recorded and engineered classical recordings to <a href=\"spotify:user:spotify:playlist:37i9dQZF1DWZtZ8vUCzche\">test your headphones</a> or speakers with.  Enjoy your best seat in legendary concert halls and recording studios around the world.",
+  "name": "Audiophile Classical",
+  "tracks": [
+    {
+      "album": {
+        "name": "Obrigado Brazil (Remastered)",
+        "url": "https://open.spotify.com/album/1jRhf7CNFyquOJtJYiUSEy"
+      },
+      "artists": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "url": "https://open.spotify.com/artist/01UzgUtDa2NqWuvUjrrl3p"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305200,
+      "name": "Alma Brasileira",
+      "url": "https://open.spotify.com/track/2T7qGZo9PILHEColQMdhJr"
+    },
+    {
+      "album": {
+        "name": "Messiaen: Organ Works",
+        "url": "https://open.spotify.com/album/7AweW0fqJadcNQ9ZjOmbOB"
+      },
+      "artists": [
+        {
+          "name": "Olivier Messiaen",
+          "url": "https://open.spotify.com/artist/6CS9O2pE67oq44GZuBEBuD"
+        },
+        {
+          "name": "Olivier Latry",
+          "url": "https://open.spotify.com/artist/26hVc4pAHA9g5tO1bqEZ0k"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585000,
+      "name": "Apparition de l'\u00c9glise \u00c9ternelle",
+      "url": "https://open.spotify.com/track/3zEyaNRqB3Ma8juQcJhTFB"
+    },
+    {
+      "album": {
+        "name": "MAGNIFICAT",
+        "url": "https://open.spotify.com/album/4xzFTIufSJK02FA5uYHVLV"
+      },
+      "artists": [
+        {
+          "name": "Kim Andr\u00e9 Arnesen",
+          "url": "https://open.spotify.com/artist/0r4gb9UyreyNbVy7y6JB2H"
+        },
+        {
+          "name": "Nidarosdomens jentekor",
+          "url": "https://open.spotify.com/artist/2Y1hxwDepqVFYUNus84iJT"
+        },
+        {
+          "name": "TrondheimSolistene",
+          "url": "https://open.spotify.com/artist/7rXCWLNIVc3gBq0DhhffbQ"
+        },
+        {
+          "name": "Anita Brevik",
+          "url": "https://open.spotify.com/artist/4d1VjmAtsI93E0khaBfrmF"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348640,
+      "name": "Arnesen: MAGNIFICAT 3. Quia fecit",
+      "url": "https://open.spotify.com/track/716dYwXOBxCfXNRm3h9Ale"
+    },
+    {
+      "album": {
+        "name": "Leonin / Perotin: Sacred Music From Notre-Dame Cathedral",
+        "url": "https://open.spotify.com/album/0Bb5GQ7nB7ig8EzjbXr4Kv"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rotin",
+          "url": "https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2"
+        },
+        {
+          "name": "Tonus Peregrinus",
+          "url": "https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8"
+        },
+        {
+          "name": "Antony Pitts",
+          "url": "https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374000,
+      "name": "Beata viscera (monophonic conductus)",
+      "url": "https://open.spotify.com/track/1gB7qtssuV9OCnlUnqhoYh"
+    },
+    {
+      "album": {
+        "name": "Cantate Domino",
+        "url": "https://open.spotify.com/album/5n9hV4soZTAHJX0imZ87X9"
+      },
+      "artists": [
+        {
+          "name": "Marco Enrico Bossi",
+          "url": "https://open.spotify.com/artist/3SFUpfsXY1YjTNf15T3kKM"
+        },
+        {
+          "name": "Oscars Motettk\u00f6r",
+          "url": "https://open.spotify.com/artist/6gTPRzws4u4gYphFc55gT8"
+        },
+        {
+          "name": "Alf Linder",
+          "url": "https://open.spotify.com/artist/4gD6itw0KBqOfSXuBml3OX"
+        },
+        {
+          "name": "Torsten Nilsson",
+          "url": "https://open.spotify.com/artist/7aHb4SUL5wih2AwhLkw62e"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337666,
+      "name": "Cantate Domino",
+      "url": "https://open.spotify.com/track/4FFKFIugUuTa5SWSroKbdo"
+    },
+    {
+      "album": {
+        "name": "Orff: Carmina Burana",
+        "url": "https://open.spotify.com/album/16hvSpeCKbR2f05ypNCwmM"
+      },
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "Arnold Schoenberg Chor",
+          "url": "https://open.spotify.com/artist/2WyMSi625FrLBuYebIJjMu"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Carmina Burana / Fortuna Imperatrix Mundi: \"O Fortuna\" - Live",
+      "url": "https://open.spotify.com/track/1oQ1Nu6pNBVEVdUOuN44sy"
+    },
+    {
+      "album": {
+        "name": "A New Venetian Coronation, 1595",
+        "url": "https://open.spotify.com/album/0FoiiTbgOKYHAkUWjDI6GQ"
+      },
+      "artists": [
+        {
+          "name": "Andrea Gabrieli",
+          "url": "https://open.spotify.com/artist/61tgIUsrOcw3AMTLxuZHr1"
+        },
+        {
+          "name": "Gabrieli",
+          "url": "https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS"
+        },
+        {
+          "name": "Paul McCreesh",
+          "url": "https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "Communion: O sacrum convivium \u00e0 5",
+      "url": "https://open.spotify.com/track/2gv46f13ddsazQR2oKAdp6"
+    },
+    {
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Cello Concerto",
+        "url": "https://open.spotify.com/album/4zZ1JjDKbPhcdc90opqtOj"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Zuill Bailey",
+          "url": "https://open.spotify.com/artist/1cUI4Behr7k566gOOx35H1"
+        },
+        {
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+        },
+        {
+          "name": "Indianapolis Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2RuCpLYd7gbFkjeqi5cDJf"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 774413,
+      "name": "Concerto for Cello, Op. 104: Finale: Allegro moderato",
+      "url": "https://open.spotify.com/track/1HTD0qRskBza148Soi7rqz"
+    },
+    {
+      "album": {
+        "name": "Bartok: Concerto for Orchestra / Dance Suite / Hungarian Peasant Songs",
+        "url": "https://open.spotify.com/album/0etrAmKmuqtlMs3tzJhd1D"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Hungarian National Philharmonic",
+          "url": "https://open.spotify.com/artist/7pL2x0A3tSlGef5hfxdshS"
+        },
+        {
+          "name": "Zolt\u00e1n Kocsis",
+          "url": "https://open.spotify.com/artist/5Gi9bw3svtZMwonzcQG2wm"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 586226,
+      "name": "Concerto for Orchestra, BB 123: V. Finale",
+      "url": "https://open.spotify.com/track/2LrFDRtCBYbiDhGRJMCDED"
+    },
+    {
+      "album": {
+        "name": "Shadow of Sirius",
+        "url": "https://open.spotify.com/album/6J9ogr5IhE24wbMmBcBXGC"
+      },
+      "artists": [
+        {
+          "name": "Steven Bryant",
+          "url": "https://open.spotify.com/artist/21eV2R4BVV7JykrxaPCtXd"
+        },
+        {
+          "name": "University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/2embk9ou2NrDnk2DxXfnlS"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554426,
+      "name": "Concerto for Wind Ensemble: IV. \u2014",
+      "url": "https://open.spotify.com/track/1stJrz1cg2cpYtifjkw4GN"
+    },
+    {
+      "album": {
+        "name": "Strauss: Also sprach Zarathustra; Ein Heldenleben",
+        "url": "https://open.spotify.com/album/1Cw14tWYMay8kcKELm4pud"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Fritz Reiner",
+          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258213,
+      "name": "Ein Heldenleben, Op. 40: The Hero",
+      "url": "https://open.spotify.com/track/2XQdnJAbiMvxz48ITHko87"
+    },
+    {
+      "album": {
+        "name": "Biber: Missa Salisburgensis",
+        "url": "https://open.spotify.com/album/7BQq6k0mPlDiRgjdZSrDXO"
+      },
+      "artists": [
+        {
+          "name": "Bartholom\u00e4us Riedl",
+          "url": "https://open.spotify.com/artist/45E55nCWyNG1mdr2jUyqRK"
+        },
+        {
+          "name": "Gabrieli",
+          "url": "https://open.spotify.com/artist/3DhMjqRNtH4A1Ap3dIosgS"
+        },
+        {
+          "name": "Paul McCreesh",
+          "url": "https://open.spotify.com/artist/27suxyOypRvjbQgoRw1oF7"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158653,
+      "name": "Ein langer und sch\u00f6ner Aufzug (Ein sch\u00f6ner Aufzug By Pater Ignatius Augustiner): Fanfare I (Riedl) + Fanfare II (Augustiner)",
+      "url": "https://open.spotify.com/track/30xDzQtrMgZlhrgtOwJrrY"
+    },
+    {
+      "album": {
+        "name": "Debussy / Granados / Rimsky-Korsakov etc.: Images / Spanish Dance No.5 / Capriccio Espagnol etc.",
+        "url": "https://open.spotify.com/album/2A7kr5i1JpoMS1JpmsdadY"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Chabrier",
+          "url": "https://open.spotify.com/artist/7y3p0lS9e0oGcJUOHlF1wk"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Ata\u00falfo Argenta",
+          "url": "https://open.spotify.com/artist/16Tv8Es1dOEzT0hHKA9ChT"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388013,
+      "name": "Espa\u00f1a - Rhapsody for Orchestra",
+      "url": "https://open.spotify.com/track/22ihs1XyHRpWCCQO7TVQuF"
+    },
+    {
+      "album": {
+        "name": "Scarlatti, D.: Keyboard Sonatas",
+        "url": "https://open.spotify.com/album/2BitTExjBHgbXdnccXrDOL"
+      },
+      "artists": [
+        {
+          "name": "Domenico Scarlatti",
+          "url": "https://open.spotify.com/artist/0mFblCBw0GcoY7zY1P8tzE"
+        },
+        {
+          "name": "Yevgeny Sudbin",
+          "url": "https://open.spotify.com/artist/37RO5RYH0ouT5eJzWhdfWn"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186760,
+      "name": "Keyboard Sonata in B-Flat Major, K.545/L.500/P.549: Prestissimo",
+      "url": "https://open.spotify.com/track/0KFfqRBZgm6oYRF1ZywF4u"
+    },
+    {
+      "album": {
+        "name": "Lonely Motel: Music from Slide",
+        "url": "https://open.spotify.com/album/7zJtth1BmhPgz0BYePhHUp"
+      },
+      "artists": [
+        {
+          "name": "Steven Mackey",
+          "url": "https://open.spotify.com/artist/7GR9uKdKLN9kzLkoq16gW8"
+        },
+        {
+          "name": "Rinde Eckert",
+          "url": "https://open.spotify.com/artist/6uuggWaG3UbZvBMNZAU1Bu"
+        },
+        {
+          "name": "eighth blackbird",
+          "url": "https://open.spotify.com/artist/08JsND1KfYyI41gWdAOOwz"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498560,
+      "name": "Lonely Motel",
+      "url": "https://open.spotify.com/track/69sa6GESnW2U72t3TPYRv6"
+    },
+    {
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/6L2aMLoVV2UxQSmVwVPDlX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Otto Klemperer",
+          "url": "https://open.spotify.com/artist/2ljDHW0zt90SrHDwjVIGXs"
+        },
+        {
+          "name": "Fritz Wunderlich",
+          "url": "https://open.spotify.com/artist/3jp4zawfeVYVpSzO2Yujbv"
+        },
+        {
+          "name": "Christa Ludwig",
+          "url": "https://open.spotify.com/artist/1Jgntox16Lhl0bFoRhV3Ar"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "New Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/11vpC3XmFb1LIP2ugl96lZ"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1772826,
+      "name": "Mahler: Das Lied von der Erde: VI. Der Abschied",
+      "url": "https://open.spotify.com/track/0Pyu7ePGJfkU1ch6YOQzbk"
+    },
+    {
+      "album": {
+        "name": "Pieces of Africa",
+        "url": "https://open.spotify.com/album/0T9WDIzvGkYW3kfWxKK5YV"
+      },
+      "artists": [
+        {
+          "name": "Dumisani Maraire",
+          "url": "https://open.spotify.com/artist/3MsIhuE6FMukz5f1I9DLVL"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 419373,
+      "name": "Mai Nozipo (\"Mother Nozipo\")",
+      "url": "https://open.spotify.com/track/18OhfSqbz9oDBlUORhLQDH"
+    },
+    {
+      "album": {
+        "name": "Bernstein: Chamber and Concert Music",
+        "url": "https://open.spotify.com/album/7f4f8mZqArtwN4rkN88NlD"
+      },
+      "artists": [
+        {
+          "name": "Leonard Bernstein",
+          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        },
+        {
+          "name": "Joshua Bell",
+          "url": "https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326253,
+      "name": "Make Our Garden Grow (From \"Candide\") [Arr. for Violin & Orchestra]",
+      "url": "https://open.spotify.com/track/02XTJbJOaGLwnSZ0Na3h8r"
+    },
+    {
+      "album": {
+        "name": "Bach: Mass in B minor",
+        "url": "https://open.spotify.com/album/5lvxDmqfk5Tj7MsWzIfnyb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Christina H\u00f6gman",
+          "url": "https://open.spotify.com/artist/4204EReYts5J3YCu7um2y9"
+        },
+        {
+          "name": "Monica Groop",
+          "url": "https://open.spotify.com/artist/0D5GLqp4LQMG8Io8LxTdME"
+        },
+        {
+          "name": "Howard Crook",
+          "url": "https://open.spotify.com/artist/1mAP7NHIicuF4oLccc1rCa"
+        },
+        {
+          "name": "Petteri Salomaa",
+          "url": "https://open.spotify.com/artist/72FE3mdT6TWg19fOxPEBnH"
+        },
+        {
+          "name": "Mikaeli Chamber Choir",
+          "url": "https://open.spotify.com/artist/0oJTkUT0Ne061hQE6vg7zQ"
+        },
+        {
+          "name": "Drottningholm Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/0WMwblrqz8DO6CbLEDVF7l"
+        },
+        {
+          "name": "Anders Eby",
+          "url": "https://open.spotify.com/artist/4PI4lG0lOxBwhWKtXDejFj"
+        }
+      ],
+      "date_added": "2017-08-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302933,
+      "name": "Mass in B Minor, BWV 232: Sanctus (Chorus)",
+      "url": "https://open.spotify.com/track/4YIKou6W5pSj7SyME1vKgT"
+    },
+    {
+      "album": {
+        "name": "Life and Breath - Choral Works by Ren\u00e9 Clausen",
+        "url": "https://open.spotify.com/album/35vHLlOWO8bDT7rMWIoqOS"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Clausen",
+          "url": "https://open.spotify.com/artist/4g4ORovYmcZ8RtH2PvtFMs"
+        },
+        {
+          "name": "Sarah Tannehill",
+          "url": "https://open.spotify.com/artist/31OvZuyjCsK4MD1p8VkOBG"
+        },
+        {
+          "name": "Pamela Williamson",
+          "url": "https://open.spotify.com/artist/1UNSiguj2tlMmG0zGqtfVv"
+        },
+        {
+          "name": "Kansas City Chorale",
+          "url": "https://open.spotify.com/artist/2QssUv03ph6oR7ltIfZUCZ"
+        },
+        {
+          "name": "Charles Bruffy",
+          "url": "https://open.spotify.com/artist/2ai9WL8wYLTiYqg1QFHQyT"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378866,
+      "name": "Mass: Agnus Dei",
+      "url": "https://open.spotify.com/track/73J5X03IRkeFN1qTLkyB3s"
+    },
+    {
+      "album": {
+        "name": "Michael Daugherty: Metropolis Symphony & Deus ex Machina",
+        "url": "https://open.spotify.com/album/1z5mMfs0ikofMLPwpE4Sqr"
+      },
+      "artists": [
+        {
+          "name": "Michael Daugherty",
+          "url": "https://open.spotify.com/artist/4LKCxq8mQn0cFlccW9cCBQ"
+        },
+        {
+          "name": "Mary Kathryn Van Osdale",
+          "url": "https://open.spotify.com/artist/4ImsbuhhtEMly9Lmi4gJiB"
+        },
+        {
+          "name": "Nashville Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CmNgBR5IxvpiU5tQxc448"
+        },
+        {
+          "name": "Giancarlo Guerrero",
+          "url": "https://open.spotify.com/artist/2p1ajptgFozpil91yrYncQ"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599306,
+      "name": "Metropolis Symphony: I. Lex",
+      "url": "https://open.spotify.com/track/6DSC6bQaQ0XsDUJstFHkV8"
+    },
+    {
+      "album": {
+        "name": "Riccardo Muti Conducts Mason Bates and Anna Clyne",
+        "url": "https://open.spotify.com/album/2R5yezpPVfnZ4JRo00eGhp"
+      },
+      "artists": [
+        {
+          "name": "Anna Clyne",
+          "url": "https://open.spotify.com/artist/4d2fe6u4HBGX4ZbBbEmM3j"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1345413,
+      "name": "Night Ferry",
+      "url": "https://open.spotify.com/track/4oqf2EnhIUjQercmFiRdXA"
+    },
+    {
+      "album": {
+        "name": "Britten: Noye's Fludde; The Golden Vanity",
+        "url": "https://open.spotify.com/album/7BnjdOZeNhTC8ypyKsZuhz"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Britten",
+          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+        },
+        {
+          "name": "Trevor Anthony",
+          "url": "https://open.spotify.com/artist/56sFnU23XvGCnbSS0qUkA1"
+        },
+        {
+          "name": "Owen Brannigan",
+          "url": "https://open.spotify.com/artist/5epNPX8lcU2simDUaCfgeB"
+        },
+        {
+          "name": "David Pinto",
+          "url": "https://open.spotify.com/artist/7ohKhzAdeqau5IrffiWNVg"
+        },
+        {
+          "name": "Darian Angadi",
+          "url": "https://open.spotify.com/artist/4I2twYqMOs8maBHkan4xOd"
+        },
+        {
+          "name": "Stephen Alexander",
+          "url": "https://open.spotify.com/artist/3i1zY0ugbnfyMmikPpVPiB"
+        },
+        {
+          "name": "Caroline Clack",
+          "url": "https://open.spotify.com/artist/2uF1oC1VsxrUpWM4mweSjW"
+        },
+        {
+          "name": "Marie-Therese Pinto",
+          "url": "https://open.spotify.com/artist/1Sb6YmF8H4e0TaIOU5pTe4"
+        },
+        {
+          "name": "Eileen O'Donovan",
+          "url": "https://open.spotify.com/artist/3zmlxtPknnkw79TtROFn4s"
+        },
+        {
+          "name": "Chorus Of Animals",
+          "url": "https://open.spotify.com/artist/6DObN7vzcVNytdY288xQit"
+        },
+        {
+          "name": "The English Opera Group Orchestra",
+          "url": "https://open.spotify.com/artist/2YT7fyJs7KlfTzVmQ79tPC"
+        },
+        {
+          "name": "Merlin Channon",
+          "url": "https://open.spotify.com/artist/09To8TNVBwq6k04DPmAzWm"
+        },
+        {
+          "name": "Norman Del Mar",
+          "url": "https://open.spotify.com/artist/4SvNOuqLK2BsG3GsD0rROS"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366666,
+      "name": "Noye's Fludde, Op.59: \"Noye, Noye, Take Thou Thy Company\"",
+      "url": "https://open.spotify.com/track/10ADDcOwl2DuOVKnHbeE0V"
+    },
+    {
+      "album": {
+        "name": "The Yellow Shark",
+        "url": "https://open.spotify.com/album/7sZEHobWVNVWwvBYycTP1z"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Outrage At Valdez",
+      "url": "https://open.spotify.com/track/1ispTp8RnRv9h4Weirdq6X"
+    },
+    {
+      "album": {
+        "name": "Schwantner: Percussion Concerto - Morning's Embrace - Chasing Light\u2026",
+        "url": "https://open.spotify.com/album/6eivwGEFvfQVmp9Eig2Nhx"
+      },
+      "artists": [
+        {
+          "name": "Joseph Schwantner",
+          "url": "https://open.spotify.com/artist/3Y46IlqnuYQKsla21taBPR"
+        },
+        {
+          "name": "Christopher Lamb",
+          "url": "https://open.spotify.com/artist/7BZzMNbZC8DQqjTKfKk6FO"
+        },
+        {
+          "name": "Nashville Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5CmNgBR5IxvpiU5tQxc448"
+        },
+        {
+          "name": "Giancarlo Guerrero",
+          "url": "https://open.spotify.com/artist/2p1ajptgFozpil91yrYncQ"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336720,
+      "name": "Percussion Concerto: I. Con forza",
+      "url": "https://open.spotify.com/track/5kg0z6xWf6NLOwzQYRnCfb"
+    },
+    {
+      "album": {
+        "name": "Gershwin, G.: Piano Concerto in F Major / Ravel, M.: Piano Concerto in G Major",
+        "url": "https://open.spotify.com/album/0SApUBZ1E5mRXM28NSsknO"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        },
+        {
+          "name": "Vienna Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2nJZffRcm3WDa74FSkYYOb"
+        },
+        {
+          "name": "Bertrand de Billy",
+          "url": "https://open.spotify.com/artist/6kbc1zpIRBv6xijMei9dra"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 417040,
+      "name": "Piano Concerto in F Major: III. Allegro agitato",
+      "url": "https://open.spotify.com/track/0W8JzTLN01jnqK9hko4Ck0"
+    },
+    {
+      "album": {
+        "name": "Scriabin: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/3TuUNuIOSnMyGDjTSi7NBW"
+      },
+      "artists": [
+        {
+          "name": "Alexander Scriabin",
+          "url": "https://open.spotify.com/artist/6nZiWg5ZB511S24WmB7TCV"
+        },
+        {
+          "name": "Anna Malikova",
+          "url": "https://open.spotify.com/artist/0ZxH5Q8ruEBzDq5DuF6X2K"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504880,
+      "name": "Piano Sonata No. 9 in F Major, Op. 68, \"Black Mass\"",
+      "url": "https://open.spotify.com/track/2XyWegQEhThUUhP2vfya0u"
+    },
+    {
+      "album": {
+        "name": "Piano Recital",
+        "url": "https://open.spotify.com/album/5NfelASUgDA9keDxcN9E7P"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Boris Giltburg",
+          "url": "https://open.spotify.com/artist/6DJ974Gf11OtDblQklBHPX"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Pictures at an Exhibition: The Great Gate of Kiev, Allegro alla breve",
+      "url": "https://open.spotify.com/track/5ur1kIqOuAq4cU6S4XLoky"
+    },
+    {
+      "album": {
+        "name": "Respighi: Belkis, Regina di Saba, Ballata delle gnomidi & Pini di Roma",
+        "url": "https://open.spotify.com/album/7JWoDzNGRDA8vDTq0i3OHj"
+      },
+      "artists": [
+        {
+          "name": "Ottorino Respighi",
+          "url": "https://open.spotify.com/artist/7KkUirCiJZhgRN3NbgG98L"
+        },
+        {
+          "name": "Minnesota Orchestra",
+          "url": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+        },
+        {
+          "name": "Eiji Oue",
+          "url": "https://open.spotify.com/artist/0HWPIGRL1eXG4wSwTNlvQN"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Pini di Roma, P. 141: I. I pini di Villa Borghese (The Pines of the Villa Borghese)",
+      "url": "https://open.spotify.com/track/38NyuCwTeBFHBpcFVQViGi"
+    },
+    {
+      "album": {
+        "name": "Rimsky-Korsakov: Scheherazade, Op. 35 & Russian Easter Overture, Op. 36",
+        "url": "https://open.spotify.com/album/1relI6vxaCWRVAR0gM77TR"
+      },
+      "artists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "url": "https://open.spotify.com/artist/2kXJ68O899XvWOBdpzlXgs"
+        },
+        {
+          "name": "Joakim Svenheden",
+          "url": "https://open.spotify.com/artist/2PhoqBsZH8FTD3cIKaA57G"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Jos\u00e9 Serebrier",
+          "url": "https://open.spotify.com/artist/1C3E8y3WbXJJYWs9Ex11et"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 736933,
+      "name": "Scheherazade, Op. 35: IV. Festival at Baghdad - The Sea",
+      "url": "https://open.spotify.com/track/0wukBbAnm7wfXRD1Zzds3w"
+    },
+    {
+      "album": {
+        "name": "Adams: Shaker Loops / Wound Dresser / Short Ride in A Fast Machine",
+        "url": "https://open.spotify.com/album/1Bc9x7mnZUSalh4Vml7nvc"
+      },
+      "artists": [
+        {
+          "name": "John Adams",
+          "url": "https://open.spotify.com/artist/35OhI7DSls022v9Bz9r0VZ"
+        },
+        {
+          "name": "Bournemouth Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2KuPDJp7FCpmaUy4jKcjfB"
+        },
+        {
+          "name": "Marin Alsop",
+          "url": "https://open.spotify.com/artist/0lluGWFB8hZ6HFktcH6kkr"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254400,
+      "name": "Short Ride in a Fast Machine",
+      "url": "https://open.spotify.com/track/39lN1yTJ5gz5AGypvQcq5D"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Complete Sonatas & Variations",
+        "url": "https://open.spotify.com/album/5ZSXN3MGXT7SHHkXKSjmco"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Pieter Wispelwey",
+          "url": "https://open.spotify.com/artist/1SWaFKyfyRsmbg3Kcr3muo"
+        },
+        {
+          "name": "Dejan Lazi\u0107",
+          "url": "https://open.spotify.com/artist/3DgrsG30yZHCaNsSyhiDJ8"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286280,
+      "name": "Sonata in A Major Op. 69: II. Scherzo: Allegro molto",
+      "url": "https://open.spotify.com/track/4La4mZpoieIukzyrYwjivx"
+    },
+    {
+      "album": {
+        "name": "Thomas Tallis: Spem in Alium",
+        "url": "https://open.spotify.com/album/1gJ7utofP07UukdcGTtHDe"
+      },
+      "artists": [
+        {
+          "name": "Thomas Tallis",
+          "url": "https://open.spotify.com/artist/1XmMnFJ9jhW4tI7bQuNYFG"
+        },
+        {
+          "name": "The King's Singers",
+          "url": "https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511059,
+      "name": "Spem in Alium",
+      "url": "https://open.spotify.com/track/26nEbd5S5IG0nvcAPXFoOn"
+    },
+    {
+      "album": {
+        "name": "Haydn: Six quatuors de l'opus 20",
+        "url": "https://open.spotify.com/album/4IgBp0veHIOsSps1e3AcTE"
+      },
+      "artists": [
+        {
+          "name": "Franz Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Quatuor Mosa\u00efques",
+          "url": "https://open.spotify.com/artist/36FfcyHQ19PvmvFnq8q7Ab"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 599306,
+      "name": "String Quartet No. 31 in E-Flat Major, Op. 20 No. 1, Hob. III:31 \"Sun Quartet No. 1\": I. Allegro moderato",
+      "url": "https://open.spotify.com/track/4iNMFnXrjGVfRObEaJt8IJ"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/1M4PVdcnTDuhCVNiqd6jdu"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Janaki String Trio",
+          "url": "https://open.spotify.com/artist/0xoGdUU4Aov4ICf6XtuNtY"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "String Trio in C Minor, Op. 9, No. 3: III. Scherzo: Allegro molto e vivace",
+      "url": "https://open.spotify.com/track/4bFsPjgJerS32DxTIXRrXK"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Suites for Solo Cello/2 Cello Sonatas (2 CDs)",
+        "url": "https://open.spotify.com/album/74xRWRYqXbPXqQIc6sRoLn"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "J\u00e1nos Starker",
+          "url": "https://open.spotify.com/artist/6D7itIGHznFfHx3ZDqCk3j"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151133,
+      "name": "Suite For Cello Solo No.1 In G Major, BWV 1007: 1. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/36J9nytuOGcpHpJ0e1z7rj"
+    },
+    {
+      "album": {
+        "name": "Rachmaninoff: Symphonic Dances & Vocalise - Respighi: 5 \u00c9tudes-tableaux After Rachmaninoff",
+        "url": "https://open.spotify.com/album/444bMyMElg6i7TlMPl37Qa"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Minnesota Orchestra",
+          "url": "https://open.spotify.com/artist/3Kc4x6BFeZVfx0mAgnDykn"
+        },
+        {
+          "name": "Eiji Oue",
+          "url": "https://open.spotify.com/artist/0HWPIGRL1eXG4wSwTNlvQN"
+        }
+      ],
+      "date_added": "2017-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 716226,
+      "name": "Symphonic Dances, Op. 45: I. Non allegro",
+      "url": "https://open.spotify.com/track/5LHTMprm5nxGjKgqmxAtpz"
+    },
+    {
+      "album": {
+        "name": "Vaughan Williams: London Symphony (A) / Butterworth: The Banks of Green Willow",
+        "url": "https://open.spotify.com/album/5pzRv8FRs5lHdWc1gNKULd"
+      },
+      "artists": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "url": "https://open.spotify.com/artist/7wNkISK49lKeXuRaZcQVFe"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Richard Hickox",
+          "url": "https://open.spotify.com/artist/27sxIn9cqlHftnewCLqEFd"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1130760,
+      "name": "Symphony No. 2 \"A London Symphony\": IV. Andante con moto - Maestoso alla marcia [quasi lento] - Allegro - Andantino ma sostenuto - Tempo primo - Allegro - Lento - Epilogue: Andante sostenuto - Lento",
+      "url": "https://open.spotify.com/track/5GK4F5uj8nteXxba5yEDTD"
+    },
+    {
+      "album": {
+        "name": "The Decca Sound - Highlights",
+        "url": "https://open.spotify.com/album/78Y3vXsNVr8luVXSPWx6ip"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Peter Maag",
+          "url": "https://open.spotify.com/artist/5bBulPVoQuw4lzargujOvI"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576653,
+      "name": "Symphony No. 3 in A Minor, Op. 56, MWV N 18 \"Scottish\": 4. Allegro vivacissimo - Allegro maestoso assai",
+      "url": "https://open.spotify.com/track/7sHkLSj6NhPnyVhXjQ0UfV"
+    },
+    {
+      "album": {
+        "name": "Saint-Sa\u00ebns: Symphony No. 3 in C Minor \"Organ Symphony\", Introduction et rondo capriccioso in A Minor & La muse et le po\u00e8te",
+        "url": "https://open.spotify.com/album/2ssbVHbaNixUfEsiLFB39R"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Jan Kraybill",
+          "url": "https://open.spotify.com/artist/3u0y8UMmCBcAU5OGuWN7U4"
+        },
+        {
+          "name": "Kansas City Symphony",
+          "url": "https://open.spotify.com/artist/2szjWor9jAqWiAZLr5gNhO"
+        },
+        {
+          "name": "Michael Stern",
+          "url": "https://open.spotify.com/artist/0wQyWXnSeeg5nQvktH1fSk"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 485506,
+      "name": "Symphony No. 3 in C Minor, Op. 78, R. 176 \"Organ Symphony\": IIb. Maestoso - Allegro",
+      "url": "https://open.spotify.com/track/3rj5CxAEFaxTjPsX6XU5dL"
+    },
+    {
+      "album": {
+        "name": "Corigliano, J.: Symphony No. 3, \"Circus Maximus\" / Gazebo Dances",
+        "url": "https://open.spotify.com/album/1DqyHIm4omf6dlZq6bhiHJ"
+      },
+      "artists": [
+        {
+          "name": "John Corigliano",
+          "url": "https://open.spotify.com/artist/0aHSAeZ39EVErXuOjm2XDR"
+        },
+        {
+          "name": "University of Texas Wind Ensemble",
+          "url": "https://open.spotify.com/artist/2embk9ou2NrDnk2DxXfnlS"
+        },
+        {
+          "name": "Jerry Junkin",
+          "url": "https://open.spotify.com/artist/6IEFj40kRnR24S1ZuTHmnK"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206746,
+      "name": "Symphony No. 3, \"Circus Maximus\": I. Introitus",
+      "url": "https://open.spotify.com/track/0chhqzSKeOgwyunR6gVL4O"
+    },
+    {
+      "album": {
+        "name": "G\u00f3recki: Symphony No. 3",
+        "url": "https://open.spotify.com/album/4vArLMJQy7aoUgP0D1d2X0"
+      },
+      "artists": [
+        {
+          "name": "Henryk G\u00f3recki",
+          "url": "https://open.spotify.com/artist/5PIshNx38qyLggwpqRhRRI"
+        },
+        {
+          "name": "Dawn Upshaw",
+          "url": "https://open.spotify.com/artist/1EgV7b93j6hvI1Suiegi74"
+        },
+        {
+          "name": "London Sinfonietta",
+          "url": "https://open.spotify.com/artist/68kuKZp7yrgzZpoh5m6dWA"
+        },
+        {
+          "name": "David Zinman",
+          "url": "https://open.spotify.com/artist/2J7jiJ5cdLieortTaN6yMT"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1607333,
+      "name": "Symphony No. 3, Op. 36: I. Lento - Sostenuto Tranquillo Ma Cantabile",
+      "url": "https://open.spotify.com/track/7Mx00Ye1ypcK1hToeKyrVl"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/0MUQg5t9HqvhCNM6bE084Q"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Iv\u00e1n Fischer",
+          "url": "https://open.spotify.com/artist/4fwcEh4tMsyFvKvO8w7DKO"
+        },
+        {
+          "name": "Budapest Festival Orchestra",
+          "url": "https://open.spotify.com/artist/5ElM3J1gql1jnVyenXe7v2"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1020013,
+      "name": "Symphony No. 4 in G Major: I. Bed\u00e4chtig, nicht eilen",
+      "url": "https://open.spotify.com/track/7kZNXxU7V3ga4Pcp1GKAFr"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphonies Nos.5 & 7",
+        "url": "https://open.spotify.com/album/6eOuqhCfrTPp1H0YbQ9PmL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Carlos Kleiber",
+          "url": "https://open.spotify.com/artist/6aL4ovuNuBg7rmrPjOTIUN"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442000,
+      "name": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
+      "url": "https://open.spotify.com/track/6cUCckpdlqHJ5Ascf2uH2A"
+    },
+    {
+      "album": {
+        "name": "Shostakovich, D.: Symphonies, Vol. 2 - Symphonies Nos. 5 and 9",
+        "url": "https://open.spotify.com/album/42zZJIFAKnTpqDah60SFlS"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308693,
+      "name": "Symphony No. 5 in D Minor, Op. 47: II. Allegretto",
+      "url": "https://open.spotify.com/track/5mJt2hHubIoqQj8Q0zSwWF"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No. 5",
+        "url": "https://open.spotify.com/album/34r7vYFqaFP10n6kAoDvga"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "San Francisco Symphony",
+          "url": "https://open.spotify.com/artist/1qHStDLIc8uV7hvTG6FGRJ"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 754786,
+      "name": "Symphony No. 5: I. Trauermarsch",
+      "url": "https://open.spotify.com/track/1aeyFudndZLmxID41HP8mW"
+    },
+    {
+      "album": {
+        "name": "Dvorak, A.: Requiem / Symphony No. 9, \"From the New World\"",
+        "url": "https://open.spotify.com/album/4tUUtl5KO4Olk6UH4PLlQ9"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "New Jersey Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5X1iZnI53CrchPJTHKhdWB"
+        },
+        {
+          "name": "Zden\u011bk M\u00e1cal",
+          "url": "https://open.spotify.com/artist/5liuf1nLjfe3npnEe98eNm"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 490666,
+      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178, \"From the New World\": III. Molto vivace",
+      "url": "https://open.spotify.com/track/7MtpebEOQfnZClVgzVDMnL"
+    },
+    {
+      "album": {
+        "name": "Mahler: Symphony No.9",
+        "url": "https://open.spotify.com/album/0ezsz5a1VT18WSwLyDk11G"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 842546,
+      "name": "Symphony No.9 in D: 3. Rondo-Burleske: Allegro assai. Sehr trotzig",
+      "url": "https://open.spotify.com/track/5G7kcSCvsy6UZMOaXU09UJ"
+    },
+    {
+      "album": {
+        "name": "Arvo P\u00e4rt: Tabula Rasa",
+        "url": "https://open.spotify.com/album/49D5gWPTroxbtRceTZgT39"
+      },
+      "artists": [
+        {
+          "name": "Arvo P\u00e4rt",
+          "url": "https://open.spotify.com/artist/2P6ygesd9xg5DPOBnda2jg"
+        },
+        {
+          "name": "Gidon Kremer",
+          "url": "https://open.spotify.com/artist/24ibCRKLtfIZcfrixiBAsm"
+        },
+        {
+          "name": "Tatiana Grindenko",
+          "url": "https://open.spotify.com/artist/0ObLZWHbVP90nhaGJ9FhSI"
+        },
+        {
+          "name": "Alfred Schnittke",
+          "url": "https://open.spotify.com/artist/7A29QKpDvdkEuTM6vcY17z"
+        },
+        {
+          "name": "Lithuanian Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/0vFb3LsJFAOgLo3s8XI4B2"
+        },
+        {
+          "name": "Saulus Sondeckis",
+          "url": "https://open.spotify.com/artist/0kY7yfsiB2kI3P5Wumn1CB"
+        }
+      ],
+      "date_added": "2017-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 576360,
+      "name": "Tabula Rasa: I. Ludus - Live",
+      "url": "https://open.spotify.com/track/3fWA2lt19IuV95PsHDPabY"
+    },
+    {
+      "album": {
+        "name": "Vivaldi: 4 Seasons (The)",
+        "url": "https://open.spotify.com/album/0qSIuFxX8isoOQ8inNt5HX"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Nils-Erik Sparf",
+          "url": "https://open.spotify.com/artist/34StgKtrMLkfNlz7tXBNR1"
+        },
+        {
+          "name": "Drottningholm Baroque Ensemble",
+          "url": "https://open.spotify.com/artist/0WMwblrqz8DO6CbLEDVF7l"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "The 4 Seasons: Violin Concerto in G Minor, Op. 8, No. 2, RV 315, \"L'estate\" (Summer): III. Tempo impetuoso d'Estate",
+      "url": "https://open.spotify.com/track/0fyDRwRkL8hykr4UznaKHc"
+    },
+    {
+      "album": {
+        "name": "Holst: The Planets - Elgar: 'Enigma' Variations",
+        "url": "https://open.spotify.com/album/2YRzubphSq5JCe2f9P8v0a"
+      },
+      "artists": [
+        {
+          "name": "Gustav Holst",
+          "url": "https://open.spotify.com/artist/5B7uXBeLc2TkR5Jk23qKIZ"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Sir Adrian Boult",
+          "url": "https://open.spotify.com/artist/3YjLvhwK5zw7N5S5oX0DVl"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 479160,
+      "name": "The Planets, Op.32/H.125: Jupiter, the Bringer of Jollity (Allegro giouoso)",
+      "url": "https://open.spotify.com/track/44tnk3aAHP80y3taeGtyAD"
+    },
+    {
+      "album": {
+        "name": "Esa-Pekka Salonen Conducts Stravinsky",
+        "url": "https://open.spotify.com/album/7DDsOqyuiO43v9CrvH0wpV"
+      },
+      "artists": [
+        {
+          "name": "Igor Stravinsky",
+          "url": "https://open.spotify.com/artist/7ie36YytMoKtPiL7tUvmoE"
+        },
+        {
+          "name": "Esa-Pekka Salonen",
+          "url": "https://open.spotify.com/artist/3ilNZUdmNZ2nUcuAOIpsQl"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260666,
+      "name": "The Rite of Spring: Part II, The Sacrifice - Sacrificial Dance - The Chosen Victim",
+      "url": "https://open.spotify.com/track/2D6AwvCweBs5CFfJ15KPlj"
+    },
+    {
+      "album": {
+        "name": "Bart\u00f3k: The Wooden Prince; Cantata Profana",
+        "url": "https://open.spotify.com/album/1SDfzVIXhOJjyQ7smaie6w"
+      },
+      "artists": [
+        {
+          "name": "B\u00e9la Bart\u00f3k",
+          "url": "https://open.spotify.com/artist/5zyNXVd952fWOjkdGHCvPd"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 523000,
+      "name": "The Wooden Prince, Sz. 60 (Op. 13): 7th Dance: Dismayed, the Princess Attempts to Hurry after the Prince, but the Forest Bars Her Way",
+      "url": "https://open.spotify.com/track/1R7tOW6IjHGqPgrya9iG8U"
+    },
+    {
+      "album": {
+        "name": "Schubert: Trio in Es-Dur, Op. 100 & Sonate in B-Dur & Trio in B-Dur, Op. 99 & Notturo in Es-Dur, Op. 148",
+        "url": "https://open.spotify.com/album/4URqrvGikkkehwGC8rgIaQ"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "La Gaia Scienza",
+          "url": "https://open.spotify.com/artist/01qPaD7ttgPkLm9tJJBQzy"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524133,
+      "name": "Trio in Es-Dur f\u00fcr Piano, Violine und Violoncello, Op. 100: 2. Andante con moto",
+      "url": "https://open.spotify.com/track/7mpEOEWo4a5yfLSA4KXzWM"
+    },
+    {
+      "album": {
+        "name": "Messiaen: Turangalila Symphony / L'Ascension",
+        "url": "https://open.spotify.com/album/3uUDOkJnmftuMQ61yyVTrZ"
+      },
+      "artists": [
+        {
+          "name": "Olivier Messiaen",
+          "url": "https://open.spotify.com/artist/6CS9O2pE67oq44GZuBEBuD"
+        },
+        {
+          "name": "Thomas Bloch",
+          "url": "https://open.spotify.com/artist/419FWED78J4ycRdRnUA1v8"
+        },
+        {
+          "name": "Francois Weigel",
+          "url": "https://open.spotify.com/artist/2URhG9v5nlpe1rqe8Yj4oQ"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749240,
+      "name": "Turangalila-symphonie: VI. Jardin du sommeil",
+      "url": "https://open.spotify.com/track/4XorGio5LN8yRmUxy3ZOUm"
+    },
+    {
+      "album": {
+        "name": "Verdi: Messa da Requiem",
+        "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363040,
+      "name": "Verdi: Messa da Requiem - Libera me: VIId. Libera me, Domine",
+      "url": "https://open.spotify.com/track/4CsopPUV9Ug43gOQJPMmmz"
+    },
+    {
+      "album": {
+        "name": "Brahms: Violin Concerto, Op. 77 & Double Concerto for Violin & Cello, Op. 102",
+        "url": "https://open.spotify.com/album/7cRbWuGO0yAxrs30sYuhgb"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Julia Fischer",
+          "url": "https://open.spotify.com/artist/7k2OVLYjYoFDAxfVOl6ZD2"
+        },
+        {
+          "name": "Nederlands Philharmonisch Orkest",
+          "url": "https://open.spotify.com/artist/4QgPqeSKYHNxkaWJAtHQX4"
+        },
+        {
+          "name": "Yakov Kreizberg",
+          "url": "https://open.spotify.com/artist/5GU5zGxzcGmUOsk2OkNYZj"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 487080,
+      "name": "Violin Concerto in D Major, Op. 77: III. Allegro giocoso, ma non troppo",
+      "url": "https://open.spotify.com/track/3rqVB4MbfhKHL5SxMjsOti"
+    },
+    {
+      "album": {
+        "name": "Bach: Sonatas and Partitas, Vol. 2",
+        "url": "https://open.spotify.com/album/5FOA44H9wPt9H8wyIUxJds"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Rachel Podger",
+          "url": "https://open.spotify.com/artist/15Z3Bkemf6mvB3IkOBvJOn"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219133,
+      "name": "Violin Partita No. 3 in E Major, BWV 1006: I. Preludio",
+      "url": "https://open.spotify.com/track/3iWTTNnXsfkV3ngXK1i549"
+    },
+    {
+      "album": {
+        "name": "Wagner: Orchestral Music",
+        "url": "https://open.spotify.com/album/3fS6ONuSEhcoaFASXQYD3v"
+      },
+      "artists": [
+        {
+          "name": "Richard Wagner",
+          "url": "https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1136533,
+      "name": "Wagner: Tristan und Isolde, WWV 90: Prelude und Isoldes Liebestod (Langsam und schmachtend - Belebend)",
+      "url": "https://open.spotify.com/track/4AsG9dl8iEbAE7Rf79GXD9"
+    },
+    {
+      "album": {
+        "name": "Weather",
+        "url": "https://open.spotify.com/album/1dBWNdGSJtM0XVP1b78oR4"
+      },
+      "artists": [
+        {
+          "name": "Michael Gordon",
+          "url": "https://open.spotify.com/artist/69Qu66Y6G07dk23Ld2ym1F"
+        }
+      ],
+      "date_added": "2017-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1233106,
+      "name": "Weather One",
+      "url": "https://open.spotify.com/track/3nOHdE2kXV78JXkkjKM8yS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWWISLnAIWyCZ"
 }

@@ -24,7 +24,7 @@
     {
       "album": {
         "name": "Unity Pt. 3",
-        "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
+        "url": "https://open.spotify.com/album/5jXLIlcuEhUQIjo9H5ruo9"
       },
       "artists": [
         {
@@ -39,6 +39,28 @@
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 295081,
+      "name": "1998 (Whitesquare Remix)",
+      "url": "https://open.spotify.com/track/09igOiyfEIc7cWKNWTgdZ4"
+    },
+    {
+      "album": {
+        "name": "Unity Pt. 3",
+        "url": "https://open.spotify.com/album/6oQPnEVls3b5rYADbS1TvE"
+      },
+      "artists": [
+        {
+          "name": "Binary Finary",
+          "url": "https://open.spotify.com/artist/5suoHSdDiYsjikHNVdYYKe"
+        },
+        {
+          "name": "Whitesquare",
+          "url": "https://open.spotify.com/artist/3bMbfexE8OmHIPigyIpROI"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
       "duration_ms": 295081,
       "name": "1998 - Whitesquare Remix",
       "url": "https://open.spotify.com/track/2j4LVBnKBM4umlgz4sWXpi"
@@ -880,7 +902,7 @@
     {
       "album": {
         "name": "In My System EP",
-        "url": "https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R"
+        "url": "https://open.spotify.com/album/2qIcJiNHC3TOROP79PFEYm"
       },
       "artists": [
         {
@@ -891,6 +913,24 @@
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 368840,
+      "name": "The Feeling (2022 Remaster)",
+      "url": "https://open.spotify.com/track/1unXvavR2QS22taOlliPeI"
+    },
+    {
+      "album": {
+        "name": "In My System EP",
+        "url": "https://open.spotify.com/album/1ameR5VQ6NncBeudL8K78R"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
       "duration_ms": 368840,
       "name": "The Feeling - 2022 Remaster",
       "url": "https://open.spotify.com/track/4ZhVRSxT1JP0SWp4VF0EL9"
@@ -908,10 +948,28 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 371903,
       "name": "The Mirage",
       "url": "https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB"
+    },
+    {
+      "album": {
+        "name": "The Mirage EP",
+        "url": "https://open.spotify.com/album/6hPX9nAuWK16Venmzr6dNV"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371903,
+      "name": "The Mirage",
+      "url": "https://open.spotify.com/track/4YwiPW0Blppb278a96Spt5"
     },
     {
       "album": {

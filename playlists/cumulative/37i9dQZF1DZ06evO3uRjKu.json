@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2024-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339333,
+      "name": "Sabor Par\u00eds - Bossa Mix",
+      "url": "https://open.spotify.com/track/0Xb0JauqscZOOnziPSQmJr"
+    },
+    {
+      "album": {
         "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
         "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
       },
@@ -1000,7 +1018,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 203080,
       "name": "Voy a Seguir Bailando",
       "url": "https://open.spotify.com/track/6fOAa742Fu17tI39hrtnDN"

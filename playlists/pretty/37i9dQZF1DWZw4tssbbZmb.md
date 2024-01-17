@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZw4tssbbZmb.md) - [plain]
 
 > Devendra Banhart and Noah Georgeson's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,671 likes - 23 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,975 likes - 23 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

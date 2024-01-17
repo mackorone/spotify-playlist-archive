@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain](/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2hEEH7Yc5Au)
 
-### [Best of EQUAL Taiwan 2023](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
+### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 2023 一起來回顧本年度女性音樂人的精采表現！Highlights of 2023, listen to women at full volume\. Cover: 洪佩瑜 \(Pei\-Yu Hung\)
+> 一起來欣賞女性音樂人的精采表現！Cover: 洪佩瑜 \(Pei\-Yu Hung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,313 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,380 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 50 | [Aim High](https://open.spotify.com/track/5to61SmuGq01AKvMmD5ffI) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/5N9n9M1DBQTCavQwbH316F) | 3:43 |
 
-Snapshot ID: `MCxhYjZkZWM2M2JjNzk5ODg3ZTMzMzZlZTc4OTI0NDAzOTRhOGM5NTAz`
+Snapshot ID: `MCw0NzQ2YjAzOWQ3YmNmZjYwNDVkMmMzZTM5YTZjYzhjMzIzMDY3MDJh`

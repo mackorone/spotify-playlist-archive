@@ -1,370 +1,1633 @@
 {
-  "2022-12-29": 879986,
-  "2022-12-30": 880645,
-  "2022-12-31": 881734,
-  "2023-01-01": 884515,
-  "2023-01-02": 885432,
-  "2023-01-03": 885943,
-  "2023-01-04": 886300,
-  "2023-01-05": 886728,
-  "2023-01-06": 887257,
-  "2023-01-07": 888316,
-  "2023-01-08": 888472,
-  "2023-01-09": 888961,
-  "2023-01-10": 889375,
-  "2023-01-11": 889806,
-  "2023-01-12": 890397,
-  "2023-01-13": 891037,
-  "2023-01-14": 892331,
-  "2023-01-15": 892527,
-  "2023-01-16": 893029,
-  "2023-01-17": 893472,
-  "2023-01-18": 893946,
-  "2023-01-19": 894482,
-  "2023-01-20": 894968,
-  "2023-01-21": 895704,
-  "2023-01-22": 896524,
-  "2023-01-23": 897086,
-  "2023-01-24": 897527,
-  "2023-01-25": 898017,
-  "2023-01-26": 898526,
-  "2023-01-27": 899056,
-  "2023-01-28": 899735,
-  "2023-01-29": 900446,
-  "2023-01-30": 900939,
-  "2023-01-31": 900939,
-  "2023-02-01": 901900,
-  "2023-02-02": 902381,
-  "2023-02-03": 902928,
-  "2023-02-04": 903611,
-  "2023-02-05": 904407,
-  "2023-02-06": 904906,
-  "2023-02-07": 905370,
-  "2023-02-08": 906364,
-  "2023-02-09": 906364,
-  "2023-02-10": 906975,
-  "2023-02-11": 907615,
-  "2023-02-12": 908793,
-  "2023-02-13": 909202,
-  "2023-02-14": 909202,
-  "2023-02-15": 909614,
-  "2023-02-16": 910117,
-  "2023-02-17": 910693,
-  "2023-02-18": 912248,
-  "2023-02-19": 912320,
-  "2023-02-20": 912811,
-  "2023-02-21": 913319,
-  "2023-02-22": 913860,
-  "2023-02-23": 914350,
-  "2023-02-24": 914923,
-  "2023-02-25": 915827,
-  "2023-02-26": 916441,
-  "2023-02-27": 917389,
-  "2023-02-28": 917389,
-  "2023-03-01": 917830,
-  "2023-03-02": 918287,
-  "2023-03-03": 918836,
-  "2023-03-04": 919496,
-  "2023-03-05": 921453,
-  "2023-03-06": 921453,
-  "2023-03-07": 921913,
-  "2023-03-08": 922410,
-  "2023-03-09": 922954,
-  "2023-03-10": 923494,
-  "2023-03-11": 924184,
-  "2023-03-12": 924987,
-  "2023-03-13": 925553,
-  "2023-03-14": 926032,
-  "2023-03-15": 926519,
-  "2023-03-16": 927122,
-  "2023-03-17": 927122,
-  "2023-03-18": 928522,
-  "2023-03-19": 929327,
-  "2023-03-20": 929898,
-  "2023-03-21": 930385,
-  "2023-03-22": 930898,
-  "2023-03-23": 931443,
-  "2023-03-24": 931443,
-  "2023-03-25": 932731,
-  "2023-03-26": 933522,
-  "2023-03-27": 934033,
-  "2023-03-28": 934451,
-  "2023-03-29": 934955,
-  "2023-03-30": 935958,
-  "2023-03-31": 935958,
-  "2023-04-01": 936715,
-  "2023-04-02": 937453,
-  "2023-04-03": 938024,
-  "2023-04-04": 938540,
-  "2023-04-05": 939060,
-  "2023-04-06": 939588,
-  "2023-04-07": 940125,
-  "2023-04-09": 941432,
-  "2023-04-10": 941947,
-  "2023-04-11": 942911,
-  "2023-04-12": 942911,
-  "2023-04-13": 943512,
-  "2023-04-14": 944242,
-  "2023-04-15": 944971,
-  "2023-04-16": 945786,
-  "2023-04-17": 946409,
-  "2023-04-18": 946884,
-  "2023-04-19": 947416,
-  "2023-04-20": 947950,
-  "2023-04-21": 948591,
-  "2023-04-22": 949420,
-  "2023-04-23": 950192,
-  "2023-04-24": 950760,
-  "2023-04-25": 951282,
-  "2023-04-26": 951869,
-  "2023-04-27": 952497,
-  "2023-04-28": 953211,
-  "2023-04-29": 954079,
-  "2023-04-30": 955044,
-  "2023-05-01": 955854,
-  "2023-05-02": 956496,
-  "2023-05-03": 957106,
-  "2023-05-04": 957761,
-  "2023-05-05": 958496,
-  "2023-05-06": 959294,
-  "2023-05-07": 960225,
-  "2023-05-08": 960821,
-  "2023-05-09": 961369,
-  "2023-05-10": 961918,
-  "2023-05-11": 962605,
-  "2023-05-12": 963296,
-  "2023-05-13": 964134,
-  "2023-05-14": 964991,
-  "2023-05-15": 965633,
-  "2023-05-16": 966165,
-  "2023-05-17": 966761,
-  "2023-05-18": 967492,
-  "2023-05-19": 968367,
-  "2023-05-20": 970128,
-  "2023-05-21": 970128,
-  "2023-05-22": 970128,
-  "2023-05-23": 971340,
-  "2023-05-24": 972390,
-  "2023-05-25": 972553,
-  "2023-05-26": 973255,
-  "2023-05-27": 974128,
-  "2023-05-28": 975085,
-  "2023-05-29": 975085,
-  "2023-05-30": 976298,
-  "2023-05-31": 976883,
-  "2023-06-01": 977511,
-  "2023-06-02": 978179,
-  "2023-06-03": 978966,
-  "2023-06-04": 979843,
-  "2023-06-05": 980444,
-  "2023-06-06": 981019,
-  "2023-06-07": 981582,
-  "2023-06-08": 982206,
-  "2023-06-09": 982944,
-  "2023-06-10": 983721,
-  "2023-06-11": 984625,
-  "2023-06-12": 985256,
-  "2023-06-13": 985740,
-  "2023-06-14": 986246,
-  "2023-06-15": 986798,
-  "2023-06-16": 987359,
-  "2023-06-17": 988159,
-  "2023-06-18": 989002,
-  "2023-06-19": 989602,
-  "2023-06-20": 990105,
-  "2023-06-21": 990635,
-  "2023-06-22": 991179,
-  "2023-06-23": 991782,
-  "2023-06-24": 992439,
-  "2023-06-25": 993256,
-  "2023-06-26": 993907,
-  "2023-06-27": 994416,
-  "2023-06-28": 994942,
-  "2023-06-29": 995502,
-  "2023-06-30": 996161,
-  "2023-07-01": 997674,
-  "2023-07-02": 997674,
-  "2023-07-03": 998188,
-  "2023-07-04": 998692,
-  "2023-07-05": 999237,
-  "2023-07-06": 1000376,
-  "2023-07-07": 1000376,
-  "2023-07-08": 1001125,
-  "2023-07-09": 1001928,
-  "2023-07-10": 1002493,
-  "2023-07-11": 1002970,
-  "2023-07-12": 1003463,
-  "2023-07-13": 1004032,
-  "2023-07-14": 1004675,
-  "2023-07-15": 1005280,
-  "2023-07-16": 1006118,
-  "2023-07-17": 1006685,
-  "2023-07-18": 1007233,
-  "2023-07-19": 1007798,
-  "2023-07-20": 1008274,
-  "2023-07-21": 1008861,
-  "2023-07-22": 1009670,
-  "2023-07-23": 1010549,
-  "2023-07-24": 1011136,
-  "2023-07-25": 1011663,
-  "2023-07-26": 1012202,
-  "2023-07-27": 1012774,
-  "2023-07-28": 1013395,
-  "2023-07-29": 1014134,
-  "2023-07-30": 1014944,
-  "2023-07-31": 1015572,
-  "2023-08-01": 1016218,
-  "2023-08-02": 1016919,
-  "2023-08-03": 1017547,
-  "2023-08-04": 1018275,
-  "2023-08-05": 1019110,
-  "2023-08-06": 1020712,
-  "2023-08-07": 1020712,
-  "2023-08-08": 1021278,
-  "2023-08-09": 1021853,
-  "2023-08-10": 1022472,
-  "2023-08-11": 1023055,
-  "2023-08-12": 1023874,
-  "2023-08-13": 1024709,
-  "2023-08-14": 1025293,
-  "2023-08-15": 1026564,
-  "2023-08-16": 1026564,
-  "2023-08-17": 1027221,
-  "2023-08-18": 1027899,
-  "2023-08-19": 1028758,
-  "2023-08-20": 1029667,
-  "2023-08-21": 1030277,
-  "2023-08-22": 1030765,
-  "2023-08-23": 1031266,
-  "2023-08-24": 1031872,
-  "2023-08-25": 1032577,
-  "2023-08-26": 1033458,
-  "2023-08-27": 1034404,
-  "2023-08-28": 1035058,
-  "2023-08-29": 1035584,
-  "2023-08-30": 1036177,
-  "2023-08-31": 1036688,
-  "2023-09-01": 1038211,
-  "2023-09-02": 1038211,
-  "2023-09-03": 1039158,
-  "2023-09-04": 1039983,
-  "2023-09-05": 1040618,
-  "2023-09-06": 1041375,
-  "2023-09-07": 1042165,
-  "2023-09-08": 1043036,
-  "2023-09-09": 1044070,
-  "2023-09-10": 1045106,
-  "2023-09-11": 1045939,
-  "2023-09-12": 1046644,
-  "2023-09-13": 1047478,
-  "2023-09-14": 1048159,
-  "2023-09-15": 1048947,
-  "2023-09-16": 1049963,
-  "2023-09-17": 1051181,
-  "2023-09-18": 1052039,
-  "2023-09-19": 1052797,
-  "2023-09-20": 1053488,
-  "2023-09-21": 1054537,
-  "2023-09-22": 1055688,
-  "2023-09-23": 1056918,
-  "2023-09-24": 1058242,
-  "2023-09-25": 1059160,
-  "2023-09-26": 1060109,
-  "2023-09-27": 1060849,
-  "2023-09-28": 1061732,
-  "2023-09-29": 1062669,
-  "2023-09-30": 1064208,
-  "2023-10-01": 1065506,
-  "2023-10-02": 1066387,
-  "2023-10-03": 1067197,
-  "2023-10-04": 1068117,
-  "2023-10-05": 1069069,
-  "2023-10-06": 1070009,
-  "2023-10-07": 1071109,
-  "2023-10-08": 1072498,
-  "2023-10-09": 1073524,
-  "2023-10-10": 1074179,
-  "2023-10-11": 1075688,
-  "2023-10-12": 1075688,
-  "2023-10-13": 1076506,
-  "2023-10-14": 1077444,
-  "2023-10-15": 1078646,
-  "2023-10-16": 1079613,
-  "2023-10-17": 1080414,
-  "2023-10-18": 1081204,
-  "2023-10-19": 1082041,
-  "2023-10-20": 1082964,
-  "2023-10-21": 1083937,
-  "2023-10-22": 1084992,
-  "2023-10-23": 1085727,
-  "2023-10-24": 1086409,
-  "2023-10-25": 1087110,
-  "2023-10-26": 1087808,
-  "2023-10-27": 1088607,
-  "2023-10-28": 1088607,
-  "2023-10-29": 1090644,
-  "2023-10-30": 1092050,
-  "2023-10-31": 1092050,
-  "2023-11-01": 1092693,
-  "2023-11-02": 1093514,
-  "2023-11-03": 1094244,
-  "2023-11-04": 1095101,
-  "2023-11-05": 1096041,
-  "2023-11-06": 1096821,
-  "2023-11-07": 1097398,
-  "2023-11-08": 1098054,
-  "2023-11-09": 1098768,
-  "2023-11-10": 1099580,
-  "2023-11-11": 1100667,
-  "2023-11-12": 1101566,
-  "2023-11-13": 1102326,
-  "2023-11-14": 1102932,
-  "2023-11-15": 1102932,
-  "2023-11-16": 1104145,
-  "2023-11-17": 1105725,
-  "2023-11-18": 1105725,
-  "2023-11-19": 1107190,
-  "2023-11-20": 1107857,
-  "2023-11-21": 1108446,
-  "2023-11-22": 1108983,
-  "2023-11-23": 1109585,
-  "2023-11-24": 1110242,
-  "2023-11-25": 1111030,
-  "2023-11-26": 1111993,
-  "2023-11-27": 1112734,
-  "2023-11-28": 1113222,
-  "2023-11-29": 1114275,
-  "2023-11-30": 1114275,
-  "2023-12-01": 1114845,
-  "2023-12-02": 1115440,
-  "2023-12-03": 1116196,
-  "2023-12-04": 1116833,
-  "2023-12-05": 1117300,
-  "2023-12-06": 1117808,
-  "2023-12-07": 1118249,
-  "2023-12-08": 1118777,
-  "2023-12-09": 1119315,
-  "2023-12-10": 1119927,
-  "2023-12-11": 1120411,
-  "2023-12-12": 1120838,
-  "2023-12-13": 1121317,
-  "2023-12-14": 1121899,
-  "2023-12-15": 1122299,
-  "2023-12-16": 1122925,
-  "2023-12-17": 1123651,
-  "2023-12-18": 1124169,
-  "2023-12-19": 1124594,
-  "2023-12-20": 1125065,
-  "2023-12-21": 1125602,
-  "2023-12-22": 1126190,
-  "2023-12-23": 1126859,
-  "2023-12-24": 1127570,
-  "2023-12-25": 1128241,
-  "2023-12-26": 1128693,
-  "2023-12-27": 1129176,
-  "2023-12-30": 1131262,
-  "2023-12-31": 1132794,
-  "2024-01-01": 1136323,
-  "2024-01-02": 1136977,
-  "2024-01-03": 1137349
+  "2024-01-17": 1144495,
+  "date_first_scraped": "2022-12-29",
+  "description": "Who doesn't love the 90s?",
+  "name": "90s Dance Party",
+  "tracks": [
+    {
+      "album": {
+        "name": "2 Times (Full Package)",
+        "url": "https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv"
+      },
+      "artists": [
+        {
+          "name": "Ann Lee",
+          "url": "https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230933,
+      "name": "2 Times - Original",
+      "url": "https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH"
+    },
+    {
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211213,
+      "name": "All That She Wants",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
+    },
+    {
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236933,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl"
+    },
+    {
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209803,
+      "name": "Back in My Life",
+      "url": "https://open.spotify.com/track/557q3cfw95ChPhoupTVUUZ"
+    },
+    {
+      "album": {
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229626,
+      "name": "Bailando - Video Edit",
+      "url": "https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197960,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240866,
+      "name": "Be My Lover",
+      "url": "https://open.spotify.com/track/3vSn1frPgFcRXrjWOfhMLl"
+    },
+    {
+      "album": {
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/5BOX6g9aOGf0yh7OEkzen3"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221186,
+      "name": "Beautiful Life",
+      "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
+    },
+    {
+      "album": {
+        "name": "Ten Top10 90s Hits",
+        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
+      },
+      "artists": [
+        {
+          "name": "DJ Quicksilver",
+          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 194560,
+      "name": "Bellissima - Radio Edit",
+      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
+    },
+    {
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214883,
+      "name": "Better Off Alone",
+      "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
+    },
+    {
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255546,
+      "name": "Bla Bla Bla",
+      "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
+    },
+    {
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
+    },
+    {
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202583,
+      "name": "Boom, Boom, Boom, Boom!!",
+      "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
+    },
+    {
+      "album": {
+        "name": "Can\u2018t Stop Raving",
+        "url": "https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB"
+      },
+      "artists": [
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216333,
+      "name": "Can\u2018t Stop Raving (Video Mix)",
+      "url": "https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L"
+    },
+    {
+      "album": {
+        "name": "Children (Dance Vault Mixes)",
+        "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+      },
+      "artists": [
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "Children",
+      "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
+    },
+    {
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Coco Jamboo",
+      "url": "https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d"
+    },
+    {
+      "album": {
+        "name": "Sex & Violins",
+        "url": "https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz"
+      },
+      "artists": [
+        {
+          "name": "Rednex",
+          "url": "https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Cotton Eye Joe",
+      "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203440,
+      "name": "Doctor Jones",
+      "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Dreams (Will Come Alive)",
+      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
+    },
+    {
+      "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221160,
+      "name": "Encore Une Fois - Future Breeze Edit",
+      "url": "https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD"
+    },
+    {
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
+    },
+    {
+      "album": {
+        "name": "Feel the heat of the night",
+        "url": "https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY"
+      },
+      "artists": [
+        {
+          "name": "Masterboy",
+          "url": "https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221840,
+      "name": "Feel the heat of the night - Radio Edit",
+      "url": "https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc"
+    },
+    {
+      "album": {
+        "name": "Flying High",
+        "url": "https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226933,
+      "name": "Flying High - Radio Mix",
+      "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
+    },
+    {
+      "album": {
+        "name": "Come Into My Life (The Album)",
+        "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        },
+        {
+          "name": "Molella",
+          "url": "https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf"
+        },
+        {
+          "name": "Phil Jay",
+          "url": "https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213394,
+      "name": "Freed From Desire - prod. Molella, Phil Jay",
+      "url": "https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/0Nt7LlU91CFX0yrtXL5DUM"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-05",
+      "duration_ms": 236693,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0pXhsuk0u7vzOtBYdFkaAs"
+    },
+    {
+      "album": {
+        "name": "To The Maxximum",
+        "url": "https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226773,
+      "name": "Get A Way",
+      "url": "https://open.spotify.com/track/71Cid4UeolaHRzdbmMDAVb"
+    },
+    {
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
+      },
+      "artists": [
+        {
+          "name": "C & C Music Factory",
+          "url": "https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF"
+        },
+        {
+          "name": "Freedom Williams",
+          "url": "https://open.spotify.com/artist/08MVPakTEdRJimQNV61NFR"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244093,
+      "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
+      "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
+    },
+    {
+      "album": {
+        "name": "World Clique",
+        "url": "https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh"
+      },
+      "artists": [
+        {
+          "name": "Deee-Lite",
+          "url": "https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231786,
+      "name": "Groove Is in the Heart",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
+    },
+    {
+      "album": {
+        "name": "Life In The Streets",
+        "url": "https://open.spotify.com/album/3Vvt7b5z4GVIaK14CfKF88"
+      },
+      "artists": [
+        {
+          "name": "Prince Ital Joe",
+          "url": "https://open.spotify.com/artist/564Zvn5Nh5FqjSYlmzplB9"
+        },
+        {
+          "name": "Marky Mark",
+          "url": "https://open.spotify.com/artist/30RQEZf8rhlcRNQJ89me3P"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-30",
+      "duration_ms": 238200,
+      "name": "Happy People (feat. Marky Mark)",
+      "url": "https://open.spotify.com/track/4RybvT8lyLLjkWXqmAuZnX"
+    },
+    {
+      "album": {
+        "name": "Dune",
+        "url": "https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR"
+      },
+      "artists": [
+        {
+          "name": "Dune",
+          "url": "https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r"
+        },
+        {
+          "name": "Froning",
+          "url": "https://open.spotify.com/artist/4ZyOzd4u9Kg3B6Ny0NDyGd"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213240,
+      "name": "Hardcore Vibes",
+      "url": "https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx"
+    },
+    {
+      "album": {
+        "name": "Encore - Live and Direct",
+        "url": "https://open.spotify.com/album/7CGUilfpm6TSrKtNRP43s2"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-23",
+      "duration_ms": 210200,
+      "name": "Hyper Hyper",
+      "url": "https://open.spotify.com/track/417MeJ40upxxf3aNlr5Xbi"
+    },
+    {
+      "album": {
+        "name": "Rough And Tough And Dangerous - The Singles 1994 - 1998",
+        "url": "https://open.spotify.com/album/0FXzH47HIVo1JoPHVT5i2N"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 215760,
+      "name": "Hyper Hyper",
+      "url": "https://open.spotify.com/track/2HTkjyB61A90e1sOziRJQc"
+    },
+    {
+      "album": {
+        "name": "We See The Same Sun",
+        "url": "https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY"
+      },
+      "artists": [
+        {
+          "name": "Mr. President",
+          "url": "https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 215066,
+      "name": "I Give You My Heart",
+      "url": "https://open.spotify.com/track/5PTWlk21hqWnFu841NOp7k"
+    },
+    {
+      "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4scvdAWWY9lXFoRL7Bfqff"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) ( Erick \"More\" Album Mix)",
+      "url": "https://open.spotify.com/track/4l2ljvyXOCVNbD5ff7NpM7"
+    },
+    {
+      "album": {
+        "name": "Move It!",
+        "url": "https://open.spotify.com/album/4lXuOVx1V9uhjr0v6MWDRI"
+      },
+      "artists": [
+        {
+          "name": "Reel 2 Real",
+          "url": "https://open.spotify.com/artist/4AXX8UN3xaPrxHSqrgE3Ta"
+        },
+        {
+          "name": "The Mad Stuntman",
+          "url": "https://open.spotify.com/artist/2rC7eyIFrDIYnFsxsbSxF5"
+        },
+        {
+          "name": "Erick Morillo",
+          "url": "https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 230760,
+      "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
+      "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
+    },
+    {
+      "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255400,
+      "name": "It's a Rainy Day",
+      "url": "https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4539Tbm6Rt5BaNKXJJj9RH"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239933,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/4TOGkYS141L15SkVosAp7Z"
+    },
+    {
+      "album": {
+        "name": "L'Amour Toujour",
+        "url": "https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242053,
+      "name": "L'amour Toujours (Small Mix)",
+      "url": "https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579"
+    },
+    {
+      "album": {
+        "name": "Look Who's Talking",
+        "url": "https://open.spotify.com/album/5DqnXBdlgQl0RqhuwHQSzd"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243266,
+      "name": "Let the Beat Go On (Short Version)",
+      "url": "https://open.spotify.com/track/0r2joAcaJghNmtRIBBIzu1"
+    },
+    {
+      "album": {
+        "name": "Look Who's Talking",
+        "url": "https://open.spotify.com/album/3CEkYyMCddHajkcVsutXag"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 243266,
+      "name": "Let The Beat Go On - Short Version",
+      "url": "https://open.spotify.com/track/0yaWNizxPgPE9E0bD31mcS"
+    },
+    {
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241066,
+      "name": "Let the Dream Come True",
+      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
+    },
+    {
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269706,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
+    },
+    {
+      "album": {
+        "name": "Amplified Heart",
+        "url": "https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249533,
+      "name": "Missing - Todd Terry Club Mix",
+      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ"
+    },
+    {
+      "album": {
+        "name": "Love Is Not Sex",
+        "url": "https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo"
+      },
+      "artists": [
+        {
+          "name": "Captain Hollywood Project",
+          "url": "https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253573,
+      "name": "More And More - Single Version",
+      "url": "https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3"
+    },
+    {
+      "album": {
+        "name": "Mr. Vain",
+        "url": "https://open.spotify.com/album/0eVj6uUqoagjDPSOmz2rRj"
+      },
+      "artists": [
+        {
+          "name": "Culture Beat",
+          "url": "https://open.spotify.com/artist/0BZ3BHzfYwpd3k5TDnvAz8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257466,
+      "name": "Mr. Vain - Original Radio Edit",
+      "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
+    },
+    {
+      "album": {
+        "name": "Music Sounds Better With You",
+        "url": "https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO"
+      },
+      "artists": [
+        {
+          "name": "Stardust",
+          "url": "https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR"
+        },
+        {
+          "name": "Benjamin Diamond",
+          "url": "https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim"
+        },
+        {
+          "name": "Alan Braxe",
+          "url": "https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260906,
+      "name": "Music Sounds Better With You - Radio Edit",
+      "url": "https://open.spotify.com/track/1mv4lh1rW1K6xhxhJmEezy"
+    },
+    {
+      "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351026,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4cqiLvFRDuV8ClE61eMmZx"
+    },
+    {
+      "album": {
+        "name": "No Limits",
+        "url": "https://open.spotify.com/album/22s9JNTNHLw9e5wwxKdcF0"
+      },
+      "artists": [
+        {
+          "name": "2 Unlimited",
+          "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224220,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
+    },
+    {
+      "album": {
+        "name": "Omen - The Story Continues",
+        "url": "https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb"
+      },
+      "artists": [
+        {
+          "name": "Magic Affair",
+          "url": "https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237973,
+      "name": "Omen III - Single Edit",
+      "url": "https://open.spotify.com/track/5FA90DipIi1TKifttlVKF1"
+    },
+    {
+      "album": {
+        "name": "Pump Up The Jam",
+        "url": "https://open.spotify.com/album/1fqUZTGqbB0o0hIFhCbAg4"
+      },
+      "artists": [
+        {
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320306,
+      "name": "Pump Up The Jam",
+      "url": "https://open.spotify.com/track/21qnJAMtzC6S5SESuqQLEK"
+    },
+    {
+      "album": {
+        "name": "Push The Feeling On",
+        "url": "https://open.spotify.com/album/5JVyNX3e2hGoOttoe7B8QL"
+      },
+      "artists": [
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243160,
+      "name": "Push The Feeling On - Mk Dub Revisited Edit",
+      "url": "https://open.spotify.com/track/1EWsVHU4FNAdtN4R8FETag"
+    },
+    {
+      "album": {
+        "name": "Rhythm Is a Dancer 2008",
+        "url": "https://open.spotify.com/album/3q1JrnU58iasGeb0etrpK7"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316138,
+      "name": "Rhythm Is a Dancer (12'' Version)",
+      "url": "https://open.spotify.com/track/55vAraLCIsYMnakMHUUgvB"
+    },
+    {
+      "album": {
+        "name": "Rhythm Is a Dancer 2008",
+        "url": "https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 316138,
+      "name": "Rhythm Is A Dancer - 12'' Version",
+      "url": "https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq"
+    },
+    {
+      "album": {
+        "name": "Rhythm Of Love",
+        "url": "https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC"
+      },
+      "artists": [
+        {
+          "name": "DJ Sequenza",
+          "url": "https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-15",
+      "duration_ms": 181707,
+      "name": "Rhythm Of Love - Original Radio Edit",
+      "url": "https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp"
+    },
+    {
+      "album": {
+        "name": "Tripomatic Fairytales 2001 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt"
+      },
+      "artists": [
+        {
+          "name": "Jam & Spoon",
+          "url": "https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7"
+        },
+        {
+          "name": "Plavka",
+          "url": "https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364400,
+      "name": "Right in the Night (Fall in Love with Music)",
+      "url": "https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z"
+    },
+    {
+      "album": {
+        "name": "Aquarium (Special Edition)",
+        "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-15",
+      "duration_ms": 225933,
+      "name": "Roses Are Red - Original Version",
+      "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
+    },
+    {
+      "album": {
+        "name": "Another Night",
+        "url": "https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x"
+      },
+      "artists": [
+        {
+          "name": "Real McCoy",
+          "url": "https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-06",
+      "duration_ms": 244133,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/0ibYVniVLMJWvc3eNfYk8T"
+    },
+    {
+      "album": {
+        "name": "Sandstorm",
+        "url": "https://open.spotify.com/album/0SHWgw0LPDs37Go6oPdaqp"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226533,
+      "name": "Sandstorm - Radio Edit",
+      "url": "https://open.spotify.com/track/2kWB9IV8EHDOU9EjgxWFrF"
+    },
+    {
+      "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
+      },
+      "artists": [
+        {
+          "name": "French Affair",
+          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231093,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
+    },
+    {
+      "album": {
+        "name": "Short Dick Man",
+        "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
+      },
+      "artists": [
+        {
+          "name": "20 Fingers",
+          "url": "https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd"
+        },
+        {
+          "name": "Gillette",
+          "url": "https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 290933,
+      "name": "Short Dick Man - Club Mix",
+      "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
+    },
+    {
+      "album": {
+        "name": "Show Me Love",
+        "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
+      },
+      "artists": [
+        {
+          "name": "Robin S",
+          "url": "https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Show Me Love",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/01kVVoJQuWVqaOvRgRztJD"
+    },
+    {
+      "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU"
+      },
+      "artists": [
+        {
+          "name": "Dr. Alban",
+          "url": "https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240933,
+      "name": "Sing Hallelujah!",
+      "url": "https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg"
+    },
+    {
+      "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209014,
+      "name": "Somebody Dance with Me",
+      "url": "https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU"
+      },
+      "artists": [
+        {
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+        },
+        {
+          "name": "La Trec",
+          "url": "https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212560,
+      "name": "Stay - Original Single Edit",
+      "url": "https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw"
+    },
+    {
+      "album": {
+        "name": "Best Of La Bouche feat. Melanie Thornton (feat. Melanie Thornton)",
+        "url": "https://open.spotify.com/album/18INLUvzq7lcQUrdaqtgIN"
+      },
+      "artists": [
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204586,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/1M3Im6Xjl0QUKbP9VAXxVf"
+    },
+    {
+      "album": {
+        "name": "All In The Mind",
+        "url": "https://open.spotify.com/album/3t0ikM09Ql8IhLSLmk7OwU"
+      },
+      "artists": [
+        {
+          "name": "The Bucketheads",
+          "url": "https://open.spotify.com/artist/1yjuFciXmV3NaPCzwwHclC"
+        }
+      ],
+      "date_added": "2022-12-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-15",
+      "duration_ms": 203826,
+      "name": "The Bomb! (These Sound Fall into My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/4OIMUs3KgUh77mjzJ8I5f9"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG"
+      },
+      "artists": [
+        {
+          "name": "Urban Cookie Collective",
+          "url": "https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222666,
+      "name": "The Key, The Secret",
+      "url": "https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS"
+    },
+    {
+      "album": {
+        "name": "The Rhythm of the Night",
+        "url": "https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS"
+      },
+      "artists": [
+        {
+          "name": "Corona",
+          "url": "https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264306,
+      "name": "The Rhythm of the Night",
+      "url": "https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN"
+    },
+    {
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
+    },
+    {
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
+    },
+    {
+      "album": {
+        "name": "The Summer Is Magic (Radio Mix)",
+        "url": "https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28"
+      },
+      "artists": [
+        {
+          "name": "Playahitty",
+          "url": "https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236666,
+      "name": "The Summer Is Magic (Radio Mix)",
+      "url": "https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA"
+    },
+    {
+      "album": {
+        "name": "Ice 'n' Green",
+        "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
+      },
+      "artists": [
+        {
+          "name": "Ice Mc",
+          "url": "https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260973,
+      "name": "Think About the Way",
+      "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
+    },
+    {
+      "album": {
+        "name": "This Is Your Night",
+        "url": "https://open.spotify.com/album/5Uu4tVZ7B5NdpKxXa9JrGA"
+      },
+      "artists": [
+        {
+          "name": "Amber",
+          "url": "https://open.spotify.com/artist/6uGKydhYXrVOEXM6QbVzyH"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238160,
+      "name": "This Is Your Night",
+      "url": "https://open.spotify.com/track/6YX75Ps2XsWn9dOzwbqmNV"
+    },
+    {
+      "album": {
+        "name": "United",
+        "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
+      },
+      "artists": [
+        {
+          "name": "Mark 'Oh",
+          "url": "https://open.spotify.com/artist/4PTTDM08OI9jnPTOZ7QRn1"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221280,
+      "name": "United - Short Mix",
+      "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
+    },
+    {
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222458,
+      "name": "We Like To Party! (The Vengabus)",
+      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+    },
+    {
+      "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
+    },
+    {
+      "album": {
+        "name": "What Is Love (Remixes)",
+        "url": "https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf"
+      },
+      "artists": [
+        {
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu"
+    },
+    {
+      "album": {
+        "name": "My Promise",
+        "url": "https://open.spotify.com/album/5CQHiljabLGvn72iQk0wsZ"
+      },
+      "artists": [
+        {
+          "name": "No Mercy",
+          "url": "https://open.spotify.com/artist/2tUGlReCZRMoRgl0IS79i3"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272093,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/37tzoWY1ubBQKGXiWdO5Qv"
+    },
+    {
+      "album": {
+        "name": "Who Needs Guitars Anyway?",
+        "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
+      },
+      "artists": [
+        {
+          "name": "Alice Deejay",
+          "url": "https://open.spotify.com/artist/2tbvDi9eXf9XXp06LupkED"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194072,
+      "name": "Will I Ever",
+      "url": "https://open.spotify.com/track/7FpkmUt2H3Mf9TVEGHkUpk"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX802IXCAaWtY"
 }

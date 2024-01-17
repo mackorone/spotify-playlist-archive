@@ -1,735 +1,3405 @@
 {
-  "2021-12-25": 206074,
-  "2021-12-26": 206187,
-  "2021-12-27": 206437,
-  "2021-12-28": 206436,
-  "2021-12-29": 206550,
-  "2021-12-30": 206653,
-  "2021-12-31": 206754,
-  "2022-01-01": 206933,
-  "2022-01-02": 206959,
-  "2022-01-03": 207045,
-  "2022-01-04": 207178,
-  "2022-01-05": 207297,
-  "2022-01-06": 207405,
-  "2022-01-07": 207520,
-  "2022-01-08": 208045,
-  "2022-01-09": 208044,
-  "2022-01-10": 208238,
-  "2022-01-11": 208384,
-  "2022-01-12": 208548,
-  "2022-01-13": 208674,
-  "2022-01-14": 208799,
-  "2022-01-15": 209049,
-  "2022-01-16": 209059,
-  "2022-01-17": 209325,
-  "2022-01-18": 209354,
-  "2022-01-19": 209607,
-  "2022-01-20": 210004,
-  "2022-01-21": 210289,
-  "2022-01-22": 210512,
-  "2022-01-23": 210767,
-  "2022-01-24": 211008,
-  "2022-01-25": 211181,
-  "2022-01-26": 211405,
-  "2022-01-27": 211620,
-  "2022-01-28": 211808,
-  "2022-01-29": 211966,
-  "2022-01-30": 212128,
-  "2022-01-31": 212291,
-  "2022-02-01": 212457,
-  "2022-02-02": 212595,
-  "2022-02-03": 212757,
-  "2022-02-04": 212930,
-  "2022-02-05": 213074,
-  "2022-02-06": 213192,
-  "2022-02-07": 213323,
-  "2022-02-08": 213450,
-  "2022-02-09": 213586,
-  "2022-02-10": 213754,
-  "2022-02-11": 213921,
-  "2022-02-12": 214066,
-  "2022-02-13": 214177,
-  "2022-02-14": 214309,
-  "2022-02-15": 214413,
-  "2022-02-16": 214506,
-  "2022-02-17": 214644,
-  "2022-02-18": 214781,
-  "2022-02-19": 214903,
-  "2022-02-20": 215021,
-  "2022-02-21": 215195,
-  "2022-02-22": 215361,
-  "2022-02-23": 215473,
-  "2022-02-24": 215642,
-  "2022-02-25": 215754,
-  "2022-02-26": 215869,
-  "2022-02-27": 216115,
-  "2022-02-28": 216115,
-  "2022-03-01": 216234,
-  "2022-03-02": 216369,
-  "2022-03-03": 216509,
-  "2022-03-04": 216648,
-  "2022-03-05": 216793,
-  "2022-03-06": 216942,
-  "2022-03-07": 217357,
-  "2022-03-08": 217648,
-  "2022-03-09": 217869,
-  "2022-03-10": 218084,
-  "2022-03-11": 218280,
-  "2022-03-12": 218465,
-  "2022-03-13": 218634,
-  "2022-03-14": 218789,
-  "2022-03-15": 218950,
-  "2022-03-16": 219079,
-  "2022-03-17": 219257,
-  "2022-03-18": 219453,
-  "2022-03-19": 219539,
-  "2022-03-20": 219539,
-  "2022-03-21": 219780,
-  "2022-03-22": 219898,
-  "2022-03-23": 220017,
-  "2022-03-24": 220137,
-  "2022-03-25": 220261,
-  "2022-03-26": 220386,
-  "2022-03-27": 220500,
-  "2022-03-28": 220635,
-  "2022-03-30": 220872,
-  "2022-03-31": 220980,
-  "2022-04-01": 221123,
-  "2022-04-02": 221254,
-  "2022-04-03": 221405,
-  "2022-04-04": 221505,
-  "2022-04-05": 221607,
-  "2022-04-06": 221738,
-  "2022-04-07": 221849,
-  "2022-04-08": 221959,
-  "2022-04-09": 222056,
-  "2022-04-10": 222271,
-  "2022-04-11": 222379,
-  "2022-04-12": 222397,
-  "2022-04-13": 222520,
-  "2022-04-14": 222622,
-  "2022-04-15": 222718,
-  "2022-04-16": 222797,
-  "2022-04-17": 222903,
-  "2022-04-18": 223020,
-  "2022-04-19": 223098,
-  "2022-04-20": 223207,
-  "2022-04-21": 223277,
-  "2022-04-22": 223353,
-  "2022-04-23": 223428,
-  "2022-04-24": 223509,
-  "2022-04-25": 223610,
-  "2022-04-26": 223718,
-  "2022-04-27": 223841,
-  "2022-04-28": 223932,
-  "2022-04-29": 224070,
-  "2022-04-30": 224161,
-  "2022-05-01": 224310,
-  "2022-05-02": 224310,
-  "2022-05-03": 224416,
-  "2022-05-04": 224552,
-  "2022-05-05": 224623,
-  "2022-05-06": 224729,
-  "2022-05-07": 224871,
-  "2022-05-08": 225028,
-  "2022-05-09": 225054,
-  "2022-05-10": 225157,
-  "2022-05-11": 225232,
-  "2022-05-12": 225314,
-  "2022-05-13": 225416,
-  "2022-05-14": 225511,
-  "2022-05-15": 225603,
-  "2022-05-16": 225706,
-  "2022-05-17": 225820,
-  "2022-05-18": 225968,
-  "2022-05-19": 226153,
-  "2022-05-20": 226310,
-  "2022-05-21": 226562,
-  "2022-05-22": 226562,
-  "2022-05-23": 226685,
-  "2022-05-24": 226814,
-  "2022-05-25": 226900,
-  "2022-05-26": 227020,
-  "2022-05-27": 227123,
-  "2022-05-28": 227245,
-  "2022-05-29": 227346,
-  "2022-05-30": 227456,
-  "2022-05-31": 227559,
-  "2022-06-01": 227733,
-  "2022-06-02": 227744,
-  "2022-06-03": 227860,
-  "2022-06-04": 227937,
-  "2022-06-05": 228051,
-  "2022-06-06": 228111,
-  "2022-06-07": 228199,
-  "2022-06-08": 228296,
-  "2022-06-09": 228364,
-  "2022-06-10": 228449,
-  "2022-06-11": 228556,
-  "2022-06-12": 228652,
-  "2022-06-13": 228751,
-  "2022-06-14": 228814,
-  "2022-06-15": 228905,
-  "2022-06-16": 228971,
-  "2022-06-17": 229052,
-  "2022-06-18": 229114,
-  "2022-06-19": 229272,
-  "2022-06-20": 229272,
-  "2022-06-21": 229351,
-  "2022-06-22": 229498,
-  "2022-06-23": 229498,
-  "2022-06-24": 229576,
-  "2022-06-25": 229647,
-  "2022-06-26": 229712,
-  "2022-06-27": 229780,
-  "2022-06-28": 229859,
-  "2022-06-29": 229955,
-  "2022-06-30": 230036,
-  "2022-07-01": 230118,
-  "2022-07-02": 230206,
-  "2022-07-03": 230293,
-  "2022-07-04": 230412,
-  "2022-07-05": 230504,
-  "2022-07-06": 230578,
-  "2022-07-07": 230650,
-  "2022-07-08": 230734,
-  "2022-07-09": 230837,
-  "2022-07-10": 230918,
-  "2022-07-11": 231002,
-  "2022-07-12": 231079,
-  "2022-07-13": 231169,
-  "2022-07-14": 231245,
-  "2022-07-15": 231357,
-  "2022-07-16": 231439,
-  "2022-07-17": 231525,
-  "2022-07-18": 231623,
-  "2022-07-19": 231711,
-  "2022-07-20": 231806,
-  "2022-07-21": 231893,
-  "2022-07-22": 231973,
-  "2022-07-23": 232067,
-  "2022-07-24": 232170,
-  "2022-07-25": 232283,
-  "2022-07-26": 232393,
-  "2022-07-27": 232466,
-  "2022-07-28": 232542,
-  "2022-07-29": 232657,
-  "2022-07-30": 232842,
-  "2022-07-31": 232842,
-  "2022-08-01": 232973,
-  "2022-08-02": 233169,
-  "2022-08-03": 233169,
-  "2022-08-04": 233272,
-  "2022-08-05": 233392,
-  "2022-08-06": 233512,
-  "2022-08-07": 233579,
-  "2022-08-08": 233691,
-  "2022-08-09": 233809,
-  "2022-08-10": 233910,
-  "2022-08-11": 233992,
-  "2022-08-12": 234080,
-  "2022-08-13": 234201,
-  "2022-08-14": 234330,
-  "2022-08-15": 234429,
-  "2022-08-16": 234546,
-  "2022-08-17": 234633,
-  "2022-08-18": 234718,
-  "2022-08-19": 234822,
-  "2022-08-20": 234910,
-  "2022-08-21": 234985,
-  "2022-08-22": 235123,
-  "2022-08-23": 235224,
-  "2022-08-24": 235338,
-  "2022-08-25": 235445,
-  "2022-08-26": 235560,
-  "2022-08-27": 235688,
-  "2022-08-28": 235827,
-  "2022-08-29": 235948,
-  "2022-08-30": 235612,
-  "2022-08-31": 234816,
-  "2022-09-01": 233854,
-  "2022-09-02": 232926,
-  "2022-09-03": 233054,
-  "2022-09-04": 231414,
-  "2022-09-05": 230623,
-  "2022-09-06": 230758,
-  "2022-09-07": 230929,
-  "2022-09-09": 231218,
-  "2022-09-10": 231350,
-  "2022-09-11": 231499,
-  "2022-09-12": 231634,
-  "2022-09-13": 231771,
-  "2022-09-15": 232045,
-  "2022-09-16": 232175,
-  "2022-09-17": 232306,
-  "2022-09-18": 232464,
-  "2022-09-19": 232631,
-  "2022-09-20": 232756,
-  "2022-09-21": 232908,
-  "2022-09-22": 233020,
-  "2022-09-23": 233187,
-  "2022-09-24": 233307,
-  "2022-09-25": 233448,
-  "2022-09-26": 233571,
-  "2022-09-27": 233747,
-  "2022-09-28": 233925,
-  "2022-09-29": 234048,
-  "2022-09-30": 234200,
-  "2022-10-01": 234364,
-  "2022-10-02": 234518,
-  "2022-10-03": 234642,
-  "2022-10-04": 234784,
-  "2022-10-05": 234918,
-  "2022-10-06": 235085,
-  "2022-10-07": 235228,
-  "2022-10-08": 235362,
-  "2022-10-09": 235629,
-  "2022-10-10": 235654,
-  "2022-10-11": 235800,
-  "2022-10-12": 235941,
-  "2022-10-13": 236087,
-  "2022-10-14": 236248,
-  "2022-10-15": 236367,
-  "2022-10-16": 236521,
-  "2022-10-17": 236677,
-  "2022-10-18": 236851,
-  "2022-10-19": 237001,
-  "2022-10-20": 237138,
-  "2022-10-21": 237288,
-  "2022-10-22": 237453,
-  "2022-10-23": 237603,
-  "2022-10-24": 237758,
-  "2022-10-25": 237902,
-  "2022-10-26": 238042,
-  "2022-10-27": 238210,
-  "2022-10-28": 238389,
-  "2022-10-29": 238527,
-  "2022-10-30": 238694,
-  "2022-10-31": 238864,
-  "2022-11-01": 239028,
-  "2022-11-02": 239177,
-  "2022-11-03": 239311,
-  "2022-11-04": 239446,
-  "2022-11-05": 239579,
-  "2022-11-06": 239744,
-  "2022-11-07": 239925,
-  "2022-11-08": 240112,
-  "2022-11-09": 240270,
-  "2022-11-10": 240427,
-  "2022-11-11": 240605,
-  "2022-11-12": 240776,
-  "2022-11-13": 240920,
-  "2022-11-14": 241111,
-  "2022-11-15": 241282,
-  "2022-11-16": 241465,
-  "2022-11-17": 241622,
-  "2022-11-18": 241678,
-  "2022-11-19": 241613,
-  "2022-11-20": 241830,
-  "2022-11-21": 241774,
-  "2022-11-22": 242168,
-  "2022-11-23": 242105,
-  "2022-11-24": 242668,
-  "2022-11-25": 242928,
-  "2022-11-26": 243077,
-  "2022-11-27": 243297,
-  "2022-11-28": 243512,
-  "2022-11-29": 243711,
-  "2022-11-30": 243894,
-  "2022-12-01": 244100,
-  "2022-12-02": 244263,
-  "2022-12-03": 244539,
-  "2022-12-04": 244762,
-  "2022-12-05": 245009,
-  "2022-12-06": 245199,
-  "2022-12-07": 245402,
-  "2022-12-08": 245592,
-  "2022-12-09": 245869,
-  "2022-12-10": 246103,
-  "2022-12-11": 246305,
-  "2022-12-12": 246569,
-  "2022-12-13": 246831,
-  "2022-12-14": 247065,
-  "2022-12-15": 247260,
-  "2022-12-16": 247460,
-  "2022-12-17": 247698,
-  "2022-12-18": 247884,
-  "2022-12-19": 248097,
-  "2022-12-20": 248465,
-  "2022-12-21": 248465,
-  "2022-12-22": 248658,
-  "2022-12-24": 249037,
-  "2022-12-25": 249210,
-  "2022-12-26": 249364,
-  "2022-12-27": 249565,
-  "2022-12-28": 249744,
-  "2022-12-29": 249919,
-  "2022-12-30": 250111,
-  "2022-12-31": 250330,
-  "2023-01-01": 250540,
-  "2023-01-02": 250664,
-  "2023-01-03": 250877,
-  "2023-01-04": 251090,
-  "2023-01-05": 251319,
-  "2023-01-06": 251563,
-  "2023-01-07": 251918,
-  "2023-01-08": 251971,
-  "2023-01-09": 252198,
-  "2023-01-10": 252383,
-  "2023-01-11": 252565,
-  "2023-01-12": 252751,
-  "2023-01-13": 252914,
-  "2023-01-14": 253261,
-  "2023-01-15": 253325,
-  "2023-01-16": 253506,
-  "2023-01-17": 253704,
-  "2023-01-18": 253877,
-  "2023-01-19": 254040,
-  "2023-01-20": 254228,
-  "2023-01-21": 254418,
-  "2023-01-22": 254652,
-  "2023-01-23": 254925,
-  "2023-01-24": 255162,
-  "2023-01-25": 255341,
-  "2023-01-26": 255562,
-  "2023-01-27": 255757,
-  "2023-01-28": 255946,
-  "2023-01-29": 256125,
-  "2023-01-30": 256335,
-  "2023-01-31": 256335,
-  "2023-02-01": 256678,
-  "2023-02-02": 256882,
-  "2023-02-03": 257072,
-  "2023-02-04": 257262,
-  "2023-02-05": 257466,
-  "2023-02-06": 257654,
-  "2023-02-07": 257832,
-  "2023-02-08": 258174,
-  "2023-02-09": 258174,
-  "2023-02-10": 258352,
-  "2023-02-11": 258525,
-  "2023-02-12": 258948,
-  "2023-02-13": 259131,
-  "2023-02-14": 259131,
-  "2023-02-15": 259311,
-  "2023-02-16": 259487,
-  "2023-02-17": 259666,
-  "2023-02-18": 260032,
-  "2023-02-19": 260071,
-  "2023-02-20": 260251,
-  "2023-02-21": 260412,
-  "2023-02-22": 260605,
-  "2023-02-23": 260796,
-  "2023-02-24": 260983,
-  "2023-02-25": 261278,
-  "2023-02-26": 261430,
-  "2023-02-27": 261852,
-  "2023-02-28": 261852,
-  "2023-03-01": 262044,
-  "2023-03-02": 262219,
-  "2023-03-03": 262422,
-  "2023-03-04": 262578,
-  "2023-03-05": 262939,
-  "2023-03-06": 262939,
-  "2023-03-07": 263111,
-  "2023-03-08": 263287,
-  "2023-03-09": 263440,
-  "2023-03-10": 263614,
-  "2023-03-11": 263766,
-  "2023-03-12": 263924,
-  "2023-03-13": 264112,
-  "2023-03-14": 264273,
-  "2023-03-15": 264454,
-  "2023-03-16": 264600,
-  "2023-03-17": 264600,
-  "2023-03-18": 264965,
-  "2023-03-19": 265104,
-  "2023-03-20": 265290,
-  "2023-03-21": 265472,
-  "2023-03-22": 265675,
-  "2023-03-23": 265908,
-  "2023-03-24": 265908,
-  "2023-03-25": 266193,
-  "2023-03-26": 266351,
-  "2023-03-27": 266556,
-  "2023-03-28": 266709,
-  "2023-03-29": 266900,
-  "2023-03-30": 267170,
-  "2023-03-31": 267170,
-  "2023-04-01": 267326,
-  "2023-04-02": 267486,
-  "2023-04-03": 267643,
-  "2023-04-04": 267810,
-  "2023-04-05": 267965,
-  "2023-04-06": 268121,
-  "2023-04-07": 268285,
-  "2023-04-09": 268628,
-  "2023-04-10": 268782,
-  "2023-04-11": 269125,
-  "2023-04-12": 269125,
-  "2023-04-13": 269276,
-  "2023-04-14": 269418,
-  "2023-04-15": 269601,
-  "2023-04-16": 269801,
-  "2023-04-17": 269992,
-  "2023-04-18": 270137,
-  "2023-04-19": 270293,
-  "2023-04-20": 270456,
-  "2023-04-21": 270633,
-  "2023-04-22": 270811,
-  "2023-04-23": 271006,
-  "2023-04-24": 271177,
-  "2023-04-25": 271344,
-  "2023-04-26": 271536,
-  "2023-04-27": 271700,
-  "2023-04-28": 271867,
-  "2023-04-29": 272023,
-  "2023-04-30": 272226,
-  "2023-05-01": 272396,
-  "2023-05-02": 272620,
-  "2023-05-03": 272790,
-  "2023-05-04": 272997,
-  "2023-05-05": 273204,
-  "2023-05-06": 273373,
-  "2023-05-07": 273538,
-  "2023-05-08": 273718,
-  "2023-05-09": 273873,
-  "2023-05-10": 274067,
-  "2023-05-11": 274248,
-  "2023-05-12": 274407,
-  "2023-05-13": 274585,
-  "2023-05-14": 274752,
-  "2023-05-15": 274907,
-  "2023-05-16": 275064,
-  "2023-05-17": 275235,
-  "2023-05-18": 275393,
-  "2023-05-19": 275612,
-  "2023-05-20": 275964,
-  "2023-05-21": 275964,
-  "2023-05-22": 275964,
-  "2023-05-23": 276328,
-  "2023-05-24": 276742,
-  "2023-05-25": 276802,
-  "2023-05-26": 277016,
-  "2023-05-27": 277219,
-  "2023-05-28": 277396,
-  "2023-05-29": 277396,
-  "2023-05-30": 277785,
-  "2023-05-31": 277981,
-  "2023-06-01": 278140,
-  "2023-06-02": 278325,
-  "2023-06-03": 278501,
-  "2023-06-04": 278669,
-  "2023-06-05": 278868,
-  "2023-06-06": 279051,
-  "2023-06-07": 279260,
-  "2023-06-08": 279429,
-  "2023-06-09": 279632,
-  "2023-06-10": 279811,
-  "2023-06-11": 279982,
-  "2023-06-12": 280159,
-  "2023-06-13": 280329,
-  "2023-06-14": 280509,
-  "2023-06-15": 280647,
-  "2023-06-16": 280788,
-  "2023-06-17": 280918,
-  "2023-06-18": 281051,
-  "2023-06-19": 281174,
-  "2023-06-20": 281273,
-  "2023-06-21": 281407,
-  "2023-06-22": 281546,
-  "2023-06-23": 281649,
-  "2023-06-24": 281739,
-  "2023-06-25": 281836,
-  "2023-06-26": 281959,
-  "2023-06-27": 282074,
-  "2023-06-28": 282203,
-  "2023-06-29": 282334,
-  "2023-06-30": 282446,
-  "2023-07-01": 282669,
-  "2023-07-02": 282669,
-  "2023-07-03": 282789,
-  "2023-07-04": 282922,
-  "2023-07-05": 283024,
-  "2023-07-06": 283255,
-  "2023-07-07": 283255,
-  "2023-07-08": 283343,
-  "2023-07-09": 283453,
-  "2023-07-10": 283571,
-  "2023-07-11": 283657,
-  "2023-07-12": 283762,
-  "2023-07-13": 283885,
-  "2023-07-14": 283988,
-  "2023-07-15": 284049,
-  "2023-07-16": 284156,
-  "2023-07-17": 284256,
-  "2023-07-18": 284349,
-  "2023-07-19": 284432,
-  "2023-07-20": 284499,
-  "2023-07-21": 284610,
-  "2023-07-22": 284725,
-  "2023-07-23": 284845,
-  "2023-07-24": 284992,
-  "2023-07-25": 285093,
-  "2023-07-26": 285207,
-  "2023-07-27": 285304,
-  "2023-07-28": 285423,
-  "2023-07-29": 285531,
-  "2023-07-30": 285642,
-  "2023-07-31": 285733,
-  "2023-08-01": 285861,
-  "2023-08-02": 285986,
-  "2023-08-03": 286103,
-  "2023-08-04": 286231,
-  "2023-08-05": 286339,
-  "2023-08-06": 286570,
-  "2023-08-07": 286570,
-  "2023-08-08": 286680,
-  "2023-08-09": 286798,
-  "2023-08-10": 286915,
-  "2023-08-11": 287034,
-  "2023-08-12": 287138,
-  "2023-08-13": 287259,
-  "2023-08-14": 287388,
-  "2023-08-15": 287620,
-  "2023-08-16": 287620,
-  "2023-08-17": 287756,
-  "2023-08-18": 287885,
-  "2023-08-19": 288022,
-  "2023-08-20": 288129,
-  "2023-08-21": 288274,
-  "2023-08-22": 288390,
-  "2023-08-23": 288509,
-  "2023-08-24": 288639,
-  "2023-08-25": 288771,
-  "2023-08-26": 288941,
-  "2023-08-27": 289057,
-  "2023-08-28": 289202,
-  "2023-08-29": 289334,
-  "2023-08-30": 289493,
-  "2023-08-31": 289705,
-  "2023-09-01": 290079,
-  "2023-09-02": 290079,
-  "2023-09-03": 290201,
-  "2023-09-04": 290340,
-  "2023-09-05": 290491,
-  "2023-09-06": 290616,
-  "2023-09-07": 290758,
-  "2023-09-08": 290865,
-  "2023-09-09": 290994,
-  "2023-09-10": 291105,
-  "2023-09-11": 291231,
-  "2023-09-12": 291366,
-  "2023-09-13": 291489,
-  "2023-09-14": 291619,
-  "2023-09-15": 291750,
-  "2023-09-16": 291853,
-  "2023-09-17": 291963,
-  "2023-09-18": 292088,
-  "2023-09-19": 292229,
-  "2023-09-20": 292349,
-  "2023-09-21": 292483,
-  "2023-09-22": 292616,
-  "2023-09-23": 292761,
-  "2023-09-24": 292919,
-  "2023-09-25": 293083,
-  "2023-09-26": 293234,
-  "2023-09-27": 293329,
-  "2023-09-28": 293438,
-  "2023-09-29": 293576,
-  "2023-09-30": 293668,
-  "2023-10-01": 293782,
-  "2023-10-02": 293886,
-  "2023-10-03": 293991,
-  "2023-10-04": 294126,
-  "2023-10-05": 294239,
-  "2023-10-06": 294364,
-  "2023-10-07": 294487,
-  "2023-10-08": 294618,
-  "2023-10-09": 294741,
-  "2023-10-10": 294794,
-  "2023-10-11": 294961,
-  "2023-10-12": 294961,
-  "2023-10-13": 295062,
-  "2023-10-14": 295153,
-  "2023-10-15": 295278,
-  "2023-10-16": 295458,
-  "2023-10-17": 295605,
-  "2023-10-18": 295727,
-  "2023-10-19": 295880,
-  "2023-10-20": 295995,
-  "2023-10-21": 296120,
-  "2023-10-22": 296232,
-  "2023-10-23": 296360,
-  "2023-10-24": 296485,
-  "2023-10-25": 296622,
-  "2023-10-26": 296754,
-  "2023-10-27": 296886,
-  "2023-10-28": 297002,
-  "2023-10-29": 297114,
-  "2023-10-30": 297379,
-  "2023-10-31": 297379,
-  "2023-11-01": 297467,
-  "2023-11-02": 297578,
-  "2023-11-03": 297726,
-  "2023-11-04": 297844,
-  "2023-11-05": 297973,
-  "2023-11-06": 298114,
-  "2023-11-07": 298258,
-  "2023-11-08": 298397,
-  "2023-11-09": 298543,
-  "2023-11-10": 298721,
-  "2023-11-11": 298866,
-  "2023-11-12": 298984,
-  "2023-11-13": 299110,
-  "2023-11-14": 299288,
-  "2023-11-15": 299288,
-  "2023-11-16": 299791,
-  "2023-11-17": 300172,
-  "2023-11-18": 300172,
-  "2023-11-19": 300313,
-  "2023-11-20": 300443,
-  "2023-11-21": 300576,
-  "2023-11-22": 300709,
-  "2023-11-23": 300825,
-  "2023-11-24": 300968,
-  "2023-11-25": 301089,
-  "2023-11-26": 301226,
-  "2023-11-27": 301374,
-  "2023-11-28": 301487,
-  "2023-11-29": 301753,
-  "2023-11-30": 301753,
-  "2023-12-01": 301881,
-  "2023-12-02": 302021,
-  "2023-12-03": 302172,
-  "2023-12-04": 302311,
-  "2023-12-05": 302435,
-  "2023-12-06": 302579,
-  "2023-12-07": 302709,
-  "2023-12-08": 302840,
-  "2023-12-09": 302966,
-  "2023-12-10": 303083,
-  "2023-12-11": 303247,
-  "2023-12-12": 303393,
-  "2023-12-13": 303508,
-  "2023-12-14": 303655,
-  "2023-12-15": 303728,
-  "2023-12-16": 303830,
-  "2023-12-17": 303950,
-  "2023-12-18": 304081,
-  "2023-12-19": 304212,
-  "2023-12-20": 304311,
-  "2023-12-21": 304395,
-  "2023-12-22": 304525,
-  "2023-12-23": 304644,
-  "2023-12-24": 304749,
-  "2023-12-25": 304832,
-  "2023-12-26": 304936,
-  "2023-12-27": 305073,
-  "2023-12-30": 305322,
-  "2023-12-31": 305430,
-  "2024-01-01": 305529,
-  "2024-01-02": 305610,
-  "2024-01-03": 305706
+  "2024-01-17": 306898,
+  "date_first_scraped": "2021-12-21",
+  "description": "A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.",
+  "name": "This Is Tchaikovsky",
+  "tracks": [
+    {
+      "album": {
+        "name": "18 Morceaux pour piano seul, Op. 72: II. Berceuse. Andante mosso",
+        "url": "https://open.spotify.com/album/6QAzHXucmcn4IchgqEjJw0"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Nuron Mukumi",
+          "url": "https://open.spotify.com/artist/3MmQ9i4bHeVJPklqoMLwhA"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408466,
+      "name": "18 Morceaux pour piano seul, Op. 72: II. Berceuse. Andante mosso",
+      "url": "https://open.spotify.com/track/0HKMiBxYee7wul5QcKcdlf"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker, Op. 71/TH14/Act I/Evergreen Forest in Winter",
+        "url": "https://open.spotify.com/album/7GQP9dMgiHx4FJ6xN7ebdr"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Baltic Sea Philharmonic",
+          "url": "https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "Act I: Evergreen Forest in Winter",
+      "url": "https://open.spotify.com/track/7cdKuRwUayG5qE4lWIsyuP"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker, Op. 71/TH14/Act II/Coffee: Arabian Dance",
+        "url": "https://open.spotify.com/album/0hJSFAC68f5ZYDjo3EaIsF"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Kristjan J\u00e4rvi",
+          "url": "https://open.spotify.com/artist/2WgYGKKKnmn7t11fcHZnt7"
+        },
+        {
+          "name": "Baltic Sea Philharmonic",
+          "url": "https://open.spotify.com/artist/1PlMcwoF2G03BqB1MDbXVt"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221573,
+      "name": "Act II: Coffee: Arabian Dance",
+      "url": "https://open.spotify.com/track/0cLnASPx5KUGdJh6QPSS6M"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky For Inspiration",
+        "url": "https://open.spotify.com/album/0xoFmfg4hCeofN5PiatepU"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 893600,
+      "name": "Capriccio Italien, Op. 45",
+      "url": "https://open.spotify.com/track/4LZw2J3lhYrcuu18DdLeFp"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Eugene Onegin",
+        "url": "https://open.spotify.com/album/2AJXUmeyc5FV6LeAlnAUD9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sofia Festival Orchestra",
+          "url": "https://open.spotify.com/artist/6ABbnVBXuFZ6Yn2LBZzC6O"
+        },
+        {
+          "name": "Emil Tchakarov",
+          "url": "https://open.spotify.com/artist/2RNqh4BiqEfr33OzVilDXC"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269426,
+      "name": "Eugene Onegin (continued) (Act 3): Polonaise",
+      "url": "https://open.spotify.com/track/0A7pQ1JF9ptuPWcQQfh8ql"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Eugene Onegin",
+        "url": "https://open.spotify.com/album/2AJXUmeyc5FV6LeAlnAUD9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Emil Tchakarov",
+          "url": "https://open.spotify.com/artist/2RNqh4BiqEfr33OzVilDXC"
+        },
+        {
+          "name": "Sofia Festival Orchestra",
+          "url": "https://open.spotify.com/artist/6ABbnVBXuFZ6Yn2LBZzC6O"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141533,
+      "name": "Eugene Onegin (Lyrical scenes in three acts) (Act 1): Introduction",
+      "url": "https://open.spotify.com/track/3vYhiBnAnCGL26yDB1QDQG"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Essentials",
+        "url": "https://open.spotify.com/album/5oePA2oil3repMrLgzdVEA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Anna Netrebko",
+          "url": "https://open.spotify.com/artist/5moBlpk9BYtujdRW6VLepL"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249818,
+      "name": "Eugene Onegin, Op. 24, TH 5 / Act 1: Letter Scene. \"Puskai pogibnu ya, no prezde\"",
+      "url": "https://open.spotify.com/track/59E2sIS6Je5iXQe03EKR8H"
+    },
+    {
+      "album": {
+        "name": "TCHAIKOVSKY FESTIVAL",
+        "url": "https://open.spotify.com/album/1CPlsf3xHAykMFHZY2hr82"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 893600,
+      "name": "Italian Capriccio, Op. 45, TH 47: Capriccio Italien, Op. 45",
+      "url": "https://open.spotify.com/track/39kREjdtoJA8D9tzQBJMhj"
+    },
+    {
+      "album": {
+        "name": "TCHAIKOVSKY FESTIVAL",
+        "url": "https://open.spotify.com/album/6KFAC7wDw01EcyERxZ3lOg"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 893600,
+      "name": "Italian Capriccio, Op. 45, TH 47: Capriccio Italien, Op. 45",
+      "url": "https://open.spotify.com/track/4HYDsAaLaq6SOSThhe6fNO"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Seasons (The) / Piano Sonata in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/5w0XRUOh59yCh18eADG07s"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Rashkovsky",
+          "url": "https://open.spotify.com/artist/76APdyE2oLl2XECAwSaISQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Les saisons (The Seasons), Op. 37b: II. February: Carnival",
+      "url": "https://open.spotify.com/track/7907V5EnTaXspYgFwbLHRA"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: The Seasons / Piano Sonata in C Sharp Minor",
+        "url": "https://open.spotify.com/album/1hnqdzqQPlOlputPS3vksV"
+      },
+      "artists": [
+        {
+          "name": "Ilya Rachkovsky",
+          "url": "https://open.spotify.com/artist/17LNglC5HCa8x4dQGuTLug"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "Les saisons (The Seasons), Op. 37b: XI. November: Troika",
+      "url": "https://open.spotify.com/track/6WkjVNGd6scOHDislVD2LJ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Seasons (The) / Piano Sonata in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/5w0XRUOh59yCh18eADG07s"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Rashkovsky",
+          "url": "https://open.spotify.com/artist/76APdyE2oLl2XECAwSaISQ"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182413,
+      "name": "Les saisons (The Seasons), Op. 37b: XI. November: Troika",
+      "url": "https://open.spotify.com/track/3vjatgCSs3Mkzrvy9Mib1s"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Manfred Symphony / Voyevoda",
+        "url": "https://open.spotify.com/album/79kjQ5wu1zEE2iaTPlqiCs"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 944746,
+      "name": "Manfred Symphony in B Minor, Op. 58, TH 28: I. Lento lugubre - Moderato con moto",
+      "url": "https://open.spotify.com/track/748p05t3OJeVQuDpvKZNEA"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Manfred Symphony / Voyevoda",
+        "url": "https://open.spotify.com/album/6Mrysf0SmofCn9eeMRQfjl"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 944746,
+      "name": "Manfred, Op. 58: I. Lento lugubre - Moderato con moto",
+      "url": "https://open.spotify.com/track/1fdUmt0sdFiEWp2utmsCEj"
+    },
+    {
+      "album": {
+        "name": "TCHAIKOVSKY FESTIVAL",
+        "url": "https://open.spotify.com/album/1CPlsf3xHAykMFHZY2hr82"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 555813,
+      "name": "Marche slav, Op. 31, TH 45: Marche slave (Slavonic March), Op. 31 [Live]",
+      "url": "https://open.spotify.com/track/4ZFlzJyIsJvAK0hkJDB0aq"
+    },
+    {
+      "album": {
+        "name": "Marches (Famous)",
+        "url": "https://open.spotify.com/album/7b7A09SnsmL08G4rIhs1zR"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 561333,
+      "name": "Marche slave (Slavonic March), Op. 31",
+      "url": "https://open.spotify.com/track/14pn1TP6MjmFR8b4zO5Mia"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: 1812 Overture, Op. 49, TH 49",
+        "url": "https://open.spotify.com/album/4thnf768yUQ2XHxdy6mDPd"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 564800,
+      "name": "Marche slave, Op. 31, TH 45",
+      "url": "https://open.spotify.com/track/2WqdefsY6H3FDtPOvLpaQX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1237106,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 1. Allegro non troppo e molto maestoso - Allegro con spirito",
+      "url": "https://open.spotify.com/track/1rrWt6UuUMVjUvDhZvjVSO"
+    },
+    {
+      "album": {
+        "name": "A Dose of Tchaikovsky",
+        "url": "https://open.spotify.com/album/0i9RDVhh8cblvrdD17B9GQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396946,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/2g7v2j4jqdPDYmfpfE2gug"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 396946,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/3F5eY0Jf0hd4LP8AOwCZLN"
+    },
+    {
+      "album": {
+        "name": "Music for Concentration: Tchaikovsky",
+        "url": "https://open.spotify.com/album/4VKBcUmlEyz2YGYDuM0q64"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 396946,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/5be8rWfacnaqCf6SHQZMM1"
+    },
+    {
+      "album": {
+        "name": "A Dose of Tchaikovsky",
+        "url": "https://open.spotify.com/album/5TA9knjsYc18X9axJevZdg"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-28",
+      "duration_ms": 396946,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/6U0YkAkqUQAzJd4wHztZf4"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/7yyF5wduZBFhlkCM5edNr9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 422546,
+      "name": "Piano Concerto No. 1 In B Flat Minor, Op. 23, TH.55: 3. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/6Lz75vI8bGcYE41DUggjcP"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/09c1MXFFs5YJa9XehdeAiy"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 1281133,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: I. Allegro brillante e molto vivace",
+      "url": "https://open.spotify.com/track/4FNO3hqavjX8Hr6TItn0Wy"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6D1S57nQ7kUmnkpzPn8S9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1281133,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: I. Allegro brillante e molto vivace",
+      "url": "https://open.spotify.com/track/7MC3dEqNZjWPIKUWVqhEgX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/09c1MXFFs5YJa9XehdeAiy"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 871826,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: II. Andante non troppo",
+      "url": "https://open.spotify.com/track/3D8tvfw6tgfXwhafOGl9c5"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6D1S57nQ7kUmnkpzPn8S9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 871826,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: II. Andante non troppo",
+      "url": "https://open.spotify.com/track/6sU62yUzyjLB5MtkhA7kg7"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/09c1MXFFs5YJa9XehdeAiy"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-07",
+      "duration_ms": 431751,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: III. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/0N11zZPvaLgtS697h15Ahy"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/6D1S57nQ7kUmnkpzPn8S9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Denis Matsuev",
+          "url": "https://open.spotify.com/artist/03hRK3ed4wdJJZ3NzkEE1M"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431751,
+      "name": "Piano Concerto No. 2 in G Major, Op. 44: III. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/5Bc4nIRqa5S2JgfKIjrFww"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1237106,
+      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 1. Allegro non troppo e molto maestoso - Allegro con spirito",
+      "url": "https://open.spotify.com/track/3gkMtVE6792VMzSW6P2niZ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 396946,
+      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 2. Andantino semplice - Prestissimo - Tempo I",
+      "url": "https://open.spotify.com/track/3zST4gdlffasfTLheiKRrF"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concerto No.1; Prokofiev: Piano Concerto No.3",
+        "url": "https://open.spotify.com/album/5hOFetItodSTqXX2uKz5Pa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Behzod Abduraimov",
+          "url": "https://open.spotify.com/artist/3riPrGLt8Xh4h53bATMw00"
+        },
+        {
+          "name": "Orchestra Sinfonica Nazionale Della RAI",
+          "url": "https://open.spotify.com/artist/2znuNoLW9zjOV0otN0qy2J"
+        },
+        {
+          "name": "Juraj Valcuha",
+          "url": "https://open.spotify.com/artist/2hH1ghVuIcjT1mddVoeY1j"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 422546,
+      "name": "Piano Concerto No.1 In B Flat Minor, Op.23, TH.55: 3. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/1ODgqZhKdTjDIg2wtk36Jv"
+    },
+    {
+      "album": {
+        "name": "TCHAIKOVSKY: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/4fumiG1nIhpaeg4wiHxCxD"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Oxana Yablonskaya",
+          "url": "https://open.spotify.com/artist/4HIq0b99ZW4fL2qI2dFOal"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 368720,
+      "name": "Romance in F Minor, Op. 5, TH 127: Andante cantabile",
+      "url": "https://open.spotify.com/track/08QGTXVi5hvEmKtZxrn4Ng"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/3UR5soqfnyTUpTbksKM1Ch"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Oxana Yablonskaya",
+          "url": "https://open.spotify.com/artist/4HIq0b99ZW4fL2qI2dFOal"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368720,
+      "name": "Romance in F Minor, Op. 5: Andante cantabile",
+      "url": "https://open.spotify.com/track/6sZQoeec5kioNaf6FWgcH7"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 6 op. 74 (Path\u00e9tique) / Romeo and Juliet Fantasy",
+        "url": "https://open.spotify.com/album/2GNopL4mowvbriuz6Vzwo4"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Russian National Orchestra",
+          "url": "https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1154520,
+      "name": "Romeo And Juliet, Fantasy Overture",
+      "url": "https://open.spotify.com/track/64aL0VyWo5oQlrpPqP64fa"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky / Dvorak: Serenades for Strings",
+        "url": "https://open.spotify.com/album/1rd0XzMRQKHZ4KjJjOIjY5"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 472133,
+      "name": "Serenade for String Orchestra in C Major, Op. 48, TH 48: IV. Finale (Tema Russo)",
+      "url": "https://open.spotify.com/track/0biMMIsuDRaMqQel5DbPKh"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings - Souvenir de Florence",
+        "url": "https://open.spotify.com/album/3o8SYJZUzCifNcyQybyljj"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 545760,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: III. Elegie",
+      "url": "https://open.spotify.com/track/2zp6Y3mx7xeOEs32wr8M4Q"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings - Souvenir de Florence",
+        "url": "https://open.spotify.com/album/3o8SYJZUzCifNcyQybyljj"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 466613,
+      "name": "Serenade for Strings in C Major, Op. 48, TH 48: IV. Finale (Tema Russo)",
+      "url": "https://open.spotify.com/track/0JvvAtAje6cRwgS27wUpDQ"
+    },
+    {
+      "album": {
+        "name": "Classical Chillout - The Essential Collection",
+        "url": "https://open.spotify.com/album/6aWolHUBOnb5vFzUKGRHbf"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 236213,
+      "name": "Serenade for Strings in C Major, Op. 48: II. Waltz",
+      "url": "https://open.spotify.com/track/2WO3Sgaiy63LQOt8JScrt3"
+    },
+    {
+      "album": {
+        "name": "Classic Swoon",
+        "url": "https://open.spotify.com/album/6PVq9Oef31ww9naXLw2aUS"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 551906,
+      "name": "Serenade for Strings in C Major, Op. 48: III. Elegie",
+      "url": "https://open.spotify.com/track/0MZT74F8lyYREzHnMSCEpu"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings - Souvenir de Florence",
+        "url": "https://open.spotify.com/album/3o8SYJZUzCifNcyQybyljj"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230733,
+      "name": "Serenade in C Major, Op. 48, TH 48: II. Walzer",
+      "url": "https://open.spotify.com/track/3VRdCKEdMSGjkqg0TQnOqs"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings / Souvenir De Florence",
+        "url": "https://open.spotify.com/album/39HQdD873aVeCL8D2WasMz"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230733,
+      "name": "Serenade in C Major, Op. 48: II. Walzer",
+      "url": "https://open.spotify.com/track/1NE082mtgqGOX0Ay98GOSv"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings / Souvenir De Florence",
+        "url": "https://open.spotify.com/album/39HQdD873aVeCL8D2WasMz"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 545760,
+      "name": "Serenade in C Major, Op. 48: III. Elegie",
+      "url": "https://open.spotify.com/track/1iKTPTFJJDMbq7Y6m8Qv1A"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Serenade for Strings / Souvenir De Florence",
+        "url": "https://open.spotify.com/album/39HQdD873aVeCL8D2WasMz"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Vienna Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/3LWi3bcHEo2dPoy0S79nIM"
+        },
+        {
+          "name": "Philippe Entremont",
+          "url": "https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466613,
+      "name": "Serenade in C Major, Op. 48: IV. Finale (Tema Russo)",
+      "url": "https://open.spotify.com/track/0neEO04EjQwLb0LYPe72ql"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto",
+        "url": "https://open.spotify.com/album/1E7V8YSMBzpyuGVHrXT7ZW"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Janine Jansen",
+          "url": "https://open.spotify.com/artist/00hfOKuZEhvKKNXmVdb1We"
+        },
+        {
+          "name": "Mahler Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/5g44FyRrB0AUEdQbqW4jAo"
+        },
+        {
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589480,
+      "name": "Souvenir d'un lieu cher, Op. 42: 1. Meditation",
+      "url": "https://open.spotify.com/track/2jCMomN1jo4Pgg9VvhMFHi"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Complete Solo Piano Works",
+        "url": "https://open.spotify.com/album/2yC98MmPpMx6qAgBPWT33B"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Valentina Lisitsa",
+          "url": "https://open.spotify.com/artist/0gOrXuu1vCBXe3pwTyb5Ca"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "Souvenir de Hapsal, Op. 2, TH 125: 3. Chant sans paroles",
+      "url": "https://open.spotify.com/track/0StuRJEx1qinjr2TWOU2DJ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: String Quartets, Vol. 1",
+        "url": "https://open.spotify.com/album/62c5DxQhbkFpbH37PYNKzL"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "New Haydn Quartet",
+          "url": "https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 395000,
+      "name": "String Quartet No. 1 in D Major, Op. 11, TH 111: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/0bsfVvHZyPpLNFKW1RmZSW"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: String Quartets, Vol. 1",
+        "url": "https://open.spotify.com/album/5mAsoTf141wzQInlKzYWFH"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "New Haydn Quartet",
+          "url": "https://open.spotify.com/artist/7wp6BctZqShWMtTzA5Bati"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395000,
+      "name": "String Quartet No. 1 in D Major, Op. 11: II. Andante cantabile",
+      "url": "https://open.spotify.com/track/4eNSU0YbZE8RKRNDVNbyLm"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky",
+        "url": "https://open.spotify.com/album/5MotZM9awlY6DEP4mFRR0z"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Jan Vogler",
+          "url": "https://open.spotify.com/artist/3LcP8zEKaPiCG1s5MlMWJA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626240,
+      "name": "String Sextet in D Minor, Op. 70, \"Souvenir de Florence\": I. Allegro con spirito",
+      "url": "https://open.spotify.com/track/72jIJDADnBLJKXV2yxv5N0"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Suites for Orchestra Nos. 1 & 2",
+        "url": "https://open.spotify.com/album/1UMsvSwXMtOJ3nCG1IrQP3"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Stefan Sanderling",
+          "url": "https://open.spotify.com/artist/48nohy74MDMK8j5ztDUbKD"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 713346,
+      "name": "Suite for Orchestra No. 2 in C Major, Op. 53, TH 32 \"Caract\u00e9ristique\": I. Jeu de sons. Andantino un poco rubato",
+      "url": "https://open.spotify.com/track/71Q4ktPLSkP4rjytSTSZjl"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Suites Nos. 1 and 2",
+        "url": "https://open.spotify.com/album/47owfYaNV9P5sH6Rv4ETsG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Stefan Sanderling",
+          "url": "https://open.spotify.com/artist/48nohy74MDMK8j5ztDUbKD"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 713346,
+      "name": "Suite No. 2 in C Major, Op. 53: I. Jeu de sons: Andantino un poco rubato",
+      "url": "https://open.spotify.com/track/5qlp1BEXZmPoabUGJq9xMD"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Suites No. 3 and No. 4, 'Mozartiana'",
+        "url": "https://open.spotify.com/album/0Cx9S1vrN054weW3vGHHih"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Audrey Park",
+          "url": "https://open.spotify.com/artist/5MDd6S0aLARUmBUprD1p2c"
+        },
+        {
+          "name": "National Symphony Orchestra Of Ireland",
+          "url": "https://open.spotify.com/artist/1uMw04WZuyYiQaPsBNOMH8"
+        },
+        {
+          "name": "Stefan Sanderling",
+          "url": "https://open.spotify.com/artist/48nohy74MDMK8j5ztDUbKD"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 899560,
+      "name": "Suite No. 4 in G Major, Op. 61, \"Mozartiana\": IV. Theme et variations",
+      "url": "https://open.spotify.com/track/0wTuGjdGdjMIQuIaHKs5KL"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Suites No. 3 and No. 4, 'Mozartiana'",
+        "url": "https://open.spotify.com/album/0EZbtiQ5p2W1rOkiGz9GCG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Audrey Park",
+          "url": "https://open.spotify.com/artist/5MDd6S0aLARUmBUprD1p2c"
+        },
+        {
+          "name": "RT\u00c9 National Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1UKYHr4TXjVaLFkQ0Y0Frq"
+        },
+        {
+          "name": "Stefan Sanderling",
+          "url": "https://open.spotify.com/artist/48nohy74MDMK8j5ztDUbKD"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 899560,
+      "name": "Suite No. 4 in G Major, Op. 61, \"Mozartiana\": IV. Theme et variations",
+      "url": "https://open.spotify.com/track/4t6qpm06AFPpqwH4EkvRW6"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Ballet Suites (Swan Lake; The Sleeping Beauty; The Nutcraker)",
+        "url": "https://open.spotify.com/album/2EMupCrqS9QaibuytOJWmb"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 86981,
+      "name": "Swan Lake (Suite), Op. 20a, TH. 219: III. Danse des petits cygnes",
+      "url": "https://open.spotify.com/track/7soiuxMmcrTDS51IVBMXlc"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Ballet Suites",
+        "url": "https://open.spotify.com/album/7E26OMJtUMyfTpBdZtScEF"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87000,
+      "name": "Swan Lake (Suite), Op. 20a, TH. 219: III. Danse des petits cygnes",
+      "url": "https://open.spotify.com/track/0ts62Z0GNJa1qrUqaaHx4X"
+    },
+    {
+      "album": {
+        "name": "Spring Awakening with Tchaikovsky",
+        "url": "https://open.spotify.com/album/15MXBQGtYyId8mgFLj6rdz"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 87000,
+      "name": "Swan Lake (Suite), Op. 20a, TH. 219: III. Danse des petits cygnes",
+      "url": "https://open.spotify.com/track/3j08nN51bqJikcpEhtD77O"
+    },
+    {
+      "album": {
+        "name": "Ballet Highlights - The Nutcracker, Romeo & Juliet, Swan Lake",
+        "url": "https://open.spotify.com/album/4OIaXexWOfirCq7u5nQKtR"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "Swan Lake (Suite), Op. 20a: I. Scene - Swan Theme",
+      "url": "https://open.spotify.com/track/37XdVwSMJQ4EVBrLFcZGyx"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake",
+        "url": "https://open.spotify.com/album/3xKvnV7lzywexewWyZfEOl"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Chantal Juillet",
+          "url": "https://open.spotify.com/artist/05QS9GX1jM0XQqGZtxDAzR"
+        },
+        {
+          "name": "Guy Fouquet",
+          "url": "https://open.spotify.com/artist/6O4Ty9M8fj56Mek1ODWNWl"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 879160,
+      "name": "Swan Lake, Op. 20, TH.12 / Act 2: No. 13 Danses des cygnes: a) Valse - b) Moderato assai - c) Valse - d) Allegro moderato - e) Pas d'action (Andante) - f) Valse - g) Coda (Allegro vivace)",
+      "url": "https://open.spotify.com/track/2UENiukjq27zuftPdZHUcj"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake",
+        "url": "https://open.spotify.com/album/3xKvnV7lzywexewWyZfEOl"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Orchestre Symphonique de Montr\u00e9al",
+          "url": "https://open.spotify.com/artist/4AcXapei4U7xnWecv9AEBd"
+        },
+        {
+          "name": "Charles Dutoit",
+          "url": "https://open.spotify.com/artist/0Ku5VBNL7cfGXRhp2BxXEQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327826,
+      "name": "Swan Lake, Op. 20, TH.12 / Act 4: No. 27 Danses des petits cygnes (Moderato)",
+      "url": "https://open.spotify.com/track/3eHwqaD8KrfGhaKx1rR9h3"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky #violin",
+        "url": "https://open.spotify.com/album/2IZ276bmTMJZaG9C9kKUwz"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743466,
+      "name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey (Allegro tranquillo)",
+      "url": "https://open.spotify.com/track/6pE5uWjUDTSiM338Gvi0Nx"
+    },
+    {
+      "album": {
+        "name": "Cold Winter Classical",
+        "url": "https://open.spotify.com/album/7vt7LYV2qAy25aCToEI2uh"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 813440,
+      "name": "Symphony No. 1 in G Minor, Op. 13 \"Winter Daydreams\": IV. Finale (Andante lugubre - Allegro moderato - Allegro maestoso)",
+      "url": "https://open.spotify.com/track/3q4vRAOzedI8VcUGwjDmDa"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 1, \"Winter Daydreams\" - The Snow Maiden",
+        "url": "https://open.spotify.com/album/2dabpr6u7HTVj8TKc7F5pm"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Dmitri Kitayenko",
+          "url": "https://open.spotify.com/artist/3Nfbf48vyOcRJmK5dXoPHg"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507333,
+      "name": "Symphony No. 1 in G Minor, Op. 13, \"Winter Daydreams\": III. Scherzo: Allegro scherzando giocoso",
+      "url": "https://open.spotify.com/track/3df7rplSNk548CH0YCcooM"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Complete Symphonies",
+        "url": "https://open.spotify.com/album/47HaABizaDWzA547oMEzJ7"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Dmitri Kitayenko",
+          "url": "https://open.spotify.com/artist/3Nfbf48vyOcRJmK5dXoPHg"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 507333,
+      "name": "Symphony No. 1 in G Minor, Op. 13, TH 24 \"Winter Daydreams\": III. Scherzo. Allegro scherzando giocoso",
+      "url": "https://open.spotify.com/track/6eVqjxE9uZkerO6AXMp5Wn"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos. 2 and 4",
+        "url": "https://open.spotify.com/album/4h6QCCpdTBidNEd5GU3ZiZ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 635733,
+      "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": I. Andante sostenuto - Allegro vivo",
+      "url": "https://open.spotify.com/track/3odI528ejQt1S38M5VFaNc"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos. 2 and 4",
+        "url": "https://open.spotify.com/album/1UqclzEY3CEwQGmfwm07Eu"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 635733,
+      "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": I. Andante sostenuto - Allegro vivo",
+      "url": "https://open.spotify.com/track/6EdsxHODGEYVNKkCX2aR8a"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos. 2 and 4",
+        "url": "https://open.spotify.com/album/4h6QCCpdTBidNEd5GU3ZiZ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 346133,
+      "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": III. Scherzo. Allegro molto vivace",
+      "url": "https://open.spotify.com/track/3eindpdacn2OPzx43mxiCd"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos. 2 and 4",
+        "url": "https://open.spotify.com/album/1UqclzEY3CEwQGmfwm07Eu"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346133,
+      "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": III. Scherzo: Allegro molto vivace",
+      "url": "https://open.spotify.com/track/3tNjCeoKCT12lFKAW79wAV"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos. 2 and 4",
+        "url": "https://open.spotify.com/album/3N5MORIrT2luIrB7X0Kq38"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Adrian Leaper",
+          "url": "https://open.spotify.com/artist/27kuIxOlYJi0Wt6dH7Xe5Y"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 346133,
+      "name": "Symphony No. 2 in C Minor, Op. 17, \"Little Russian\": III. Scherzo: Allegro molto vivace",
+      "url": "https://open.spotify.com/track/4fCikwQGyc9WxgNxYBuetM"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky Symphony No.6 'Pathetique', Symphony No.4, Symphony No.3 'Polish'",
+        "url": "https://open.spotify.com/album/0U3oBcrZYqgjarx9rgnFKV"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600240,
+      "name": "Symphony No. 3 in D Major \u2018Polish\u2019 Op. 29: III. Andante elegiaco",
+      "url": "https://open.spotify.com/track/7IwAD5JwfK3eQ8wLTwuebe"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky Symphony No.6 'Pathetique', Symphony No.4, Symphony No.3 'Polish'",
+        "url": "https://open.spotify.com/album/0U3oBcrZYqgjarx9rgnFKV"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Public Domain",
+          "url": "https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq"
+        },
+        {
+          "name": "Vasily Petrenko",
+          "url": "https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361866,
+      "name": "Symphony No. 3 in D Major \u2018Polish\u2019 Op. 29: IV. Allegro vivo",
+      "url": "https://open.spotify.com/track/6fBDV3zKGBZ3cSAIaIQx4C"
+    },
+    {
+      "album": {
+        "name": "Tschaikowsky: Symphonie Nr. 3 - Dornr\u00f6schen-Suite",
+        "url": "https://open.spotify.com/album/40Xx4BxyeiwRzi8njEHz0d"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Dmitri Kitayenko",
+          "url": "https://open.spotify.com/artist/3Nfbf48vyOcRJmK5dXoPHg"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 447773,
+      "name": "Symphony No. 3 in D Major, Op. 29, \"Polish\": II. Allegro moderato e semplice",
+      "url": "https://open.spotify.com/track/1sfFUO9pm6zyLYd5TVyUb3"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Complete Symphonies",
+        "url": "https://open.spotify.com/album/47HaABizaDWzA547oMEzJ7"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Dmitri Kitayenko",
+          "url": "https://open.spotify.com/artist/3Nfbf48vyOcRJmK5dXoPHg"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 447773,
+      "name": "Symphony No. 3 in D Major, Op. 29, TH 26 \"Polish\": II. Allegro moderato e semplice",
+      "url": "https://open.spotify.com/track/121hcZty1zWGtswddUN24X"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Complete Symphonies",
+        "url": "https://open.spotify.com/album/3sMtURq2h08w326oMVxhkh"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "G\u00fcrzenich Orchester K\u00f6ln",
+          "url": "https://open.spotify.com/artist/1wUrJwooIHjUC6OE6SZm9Q"
+        },
+        {
+          "name": "Dmitri Kitayenko",
+          "url": "https://open.spotify.com/artist/3Nfbf48vyOcRJmK5dXoPHg"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 447773,
+      "name": "Symphony No. 3 in D Major, Op. 29, TH 26 \"Polish\": II. Allegro moderato e semplice",
+      "url": "https://open.spotify.com/track/3MgdL3hS8noZgkULBhJYwD"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 4 - Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/2E9daDGGHAoeGdoMMSncPR"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1105080,
+      "name": "Symphony No. 4 in F Minor, Op. 36: I. Andante sostenuto - Moderato con anima - Moderato assai, quasi andante - Allegro vivo",
+      "url": "https://open.spotify.com/track/0QUsZNVh0dZXR3RJXwzMlA"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 4 - Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/2E9daDGGHAoeGdoMMSncPR"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Gianandrea Noseda",
+          "url": "https://open.spotify.com/artist/4ZfhELUmrY86zwcJHY2q19"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514146,
+      "name": "Symphony No. 4 in F Minor, Op. 36: IV. Finale. Allegro con fuoco",
+      "url": "https://open.spotify.com/track/2lkV5CKa1kk9wA8rMyE8dy"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/7GBifp3KDy3FtT0fA9XUKI"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 909333,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
+      "url": "https://open.spotify.com/track/4Ibblko4b55xwmDc3pAhrX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 909333,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: I. Andante - Allegro con anima",
+      "url": "https://open.spotify.com/track/6pOJuUpCjnjYfNOhIOrzpu"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 818000,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile, con alcuna licenza",
+      "url": "https://open.spotify.com/track/4LPQn9mBWArzQ2VL0HrKWS"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/7GBifp3KDy3FtT0fA9XUKI"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 818000,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: II. Andante cantabile, con alcuna licenza",
+      "url": "https://open.spotify.com/track/4QN7o1pAOr9BCMOgn839SQ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/7GBifp3KDy3FtT0fA9XUKI"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 339000,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Waltz. Allegro moderato",
+      "url": "https://open.spotify.com/track/2KGX0DKrm1T0vtmv9r4hxl"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & The Storm",
+        "url": "https://open.spotify.com/album/2rOgKJ7keCtqdSveecj3jG"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343600,
+      "name": "Symphony No. 5 in E Minor, Op. 64, TH 29: III. Waltz. Allegro moderato",
+      "url": "https://open.spotify.com/track/0dJGzUEpcDWI7khENvwvY8"
+    },
+    {
+      "album": {
+        "name": "A Guided Tour of Nationalism in the Romantic Era, Vol. 6",
+        "url": "https://open.spotify.com/album/022EQNIry7qEg9Huku8znv"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 909333,
+      "name": "Symphony No. 5 in E Minor, Op. 64: I. Andante - Allegro con anima",
+      "url": "https://open.spotify.com/track/5czR12eLf6cRj5RRKNqcqZ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Complete Symphonies and Piano Concertos",
+        "url": "https://open.spotify.com/album/2g2YHc0CUmIUYoZikxlu9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 909333,
+      "name": "Symphony No. 5 in E Minor, Op. 64: I. Andante - Allegro con anima",
+      "url": "https://open.spotify.com/track/7elrrUfu3iyXBsFe6Srupn"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Complete Symphonies and Piano Concertos",
+        "url": "https://open.spotify.com/album/2g2YHc0CUmIUYoZikxlu9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 818000,
+      "name": "Symphony No. 5 in E Minor, Op. 64: II. Andante cantabile, con alcuna licenza",
+      "url": "https://open.spotify.com/track/50IXlWwjIqpkQd4NhOwOP0"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Complete Symphonies and Piano Concertos",
+        "url": "https://open.spotify.com/album/2g2YHc0CUmIUYoZikxlu9L"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-26",
+      "duration_ms": 339000,
+      "name": "Symphony No. 5 in E Minor, Op. 64: III. Valse: Allegro moderato",
+      "url": "https://open.spotify.com/track/4EWrzO6uDGAO0oyRQMvxG9"
+    },
+    {
+      "album": {
+        "name": "Ses plus grandes \u0153uvres: Tchaikovsky",
+        "url": "https://open.spotify.com/album/7xhmQx8Xn1ypI1sVR339eV"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Narodowa Orkiestra Symfoniczna Polskiego Radia",
+          "url": "https://open.spotify.com/artist/5wJU2iErPVY3o6ssijvY3H"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 341373,
+      "name": "Symphony No. 5 in E Minor, Op. 64: Waltz: \"Allegro moderato\"",
+      "url": "https://open.spotify.com/track/1OfkF9G7nwQ3635JJ32zYN"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky (The Very Best Of)",
+        "url": "https://open.spotify.com/album/325bARGiPvI6nK6fFy2DLD"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-18",
+      "duration_ms": 341373,
+      "name": "Symphony No. 5 in E Minor, Op. 64: Waltz: \"Allegro moderato\"",
+      "url": "https://open.spotify.com/track/0mLrXhej9WgwghrIRLEqvX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No.6 in B Minor - \"Path\u00e9tique\"; Romeo & Juliet Fantasy Overture",
+        "url": "https://open.spotify.com/album/4TZf10w8x9XUZIW9Ue9sXp"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1078069,
+      "name": "Symphony No. 6 in B Minor, Op. 74, TH 30 \"Path\u00e9tique\": I. Adagio - Allegro non troppo",
+      "url": "https://open.spotify.com/track/4OPWeH4I5pDdknDVdzdnAZ"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No.6 in B Minor - \"Path\u00e9tique\"; Romeo & Juliet Fantasy Overture",
+        "url": "https://open.spotify.com/album/4TZf10w8x9XUZIW9Ue9sXp"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 568883,
+      "name": "Symphony No. 6 in B Minor, Op. 74, TH 30 \"Path\u00e9tique\": IV. Finale. Adagio lamentoso - Andante",
+      "url": "https://open.spotify.com/track/7LFs89i1kqjEzIvYR1WwJh"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/3YZy24ALh0xEpoC7WxAD72"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 566333,
+      "name": "S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26, TH 56: Serenade melancolique (Melancholy Serenade), Op. 26",
+      "url": "https://open.spotify.com/track/5YBH5bL6pxG4pJsAVw9zbL"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/5wkDcDWyYYRZNG3HPBI64f"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566333,
+      "name": "S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26, TH 56: Serenade melancolique (Melancholy Serenade), Op. 26",
+      "url": "https://open.spotify.com/track/79FQNqNkg6PLI37ANAfHBz"
+    },
+    {
+      "album": {
+        "name": "A Guided Tour of Nationalism in the Romantic Era, Vol. 6",
+        "url": "https://open.spotify.com/album/022EQNIry7qEg9Huku8znv"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 566333,
+      "name": "S\u00e9r\u00e9nade m\u00e9lancolique, Op. 26: Serenade melancolique, Op. 26",
+      "url": "https://open.spotify.com/track/7HsoijyPGMqFBFq0oHdmpw"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphony No. 5 & 1812 Overture",
+        "url": "https://open.spotify.com/album/7nwyvRjkUjKKuxuHZWT1Hx"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Daniel Barenboim",
+          "url": "https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905666,
+      "name": "Tchaikovsky: 1812 Overture in E-Flat Major, Op. 49",
+      "url": "https://open.spotify.com/track/6mhQ7eOHaV0ur2ooKTavW1"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Piano Concertos Nos. 1 - 3",
+        "url": "https://open.spotify.com/album/7eK8b9MFIEUfzRa5Tao91g"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        },
+        {
+          "name": "Vladimir Fedoseyev",
+          "url": "https://open.spotify.com/artist/6X77f89mGJaE1wIgXE6SXr"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 876760,
+      "name": "Tchaikovsky: Piano Concerto No. 3 in E-Flat Major, Op. Posth. 75",
+      "url": "https://open.spotify.com/track/390i77MoZVy9752zt5GSl9"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Swan Lake",
+        "url": "https://open.spotify.com/album/7dVA06E7AP7P7VzPyNxQVO"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344893,
+      "name": "Tchaikovsky: Swan Lake, Op. 20, Act 1: Introduction - No. 1, Scene. Allegro giusto",
+      "url": "https://open.spotify.com/track/5tNUaNoIMdJcdHGj25a7gD"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos 1-6, Manfred Symphony, Overtures & Rococo Variations",
+        "url": "https://open.spotify.com/album/5zzMVOKWsbktCBXIWbjbJA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 743466,
+      "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": I. Daydreams on a Winter Journey. Allegro tranquillo",
+      "url": "https://open.spotify.com/track/4K95zdIV558uUs9vOsuou5"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Symphonies Nos 1-6, Manfred Symphony, Overtures & Rococo Variations",
+        "url": "https://open.spotify.com/album/5zzMVOKWsbktCBXIWbjbJA"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 813440,
+      "name": "Tchaikovsky: Symphony No. 1, Op. 13 \"Winter Daydreams\": IV. Finale. Andante lugubre - Allegro moderato",
+      "url": "https://open.spotify.com/track/5ukIpzRl5m4PxxVGSV4K3R"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415813,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 13, Waltz of the Flowers",
+      "url": "https://open.spotify.com/track/0CJuLeZpCdqrqoCMXWZw8k"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145146,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71, Act II: No. 14c, Pas de deux. Variation II \"Dance of the Sugar Plum Fairy\"",
+      "url": "https://open.spotify.com/track/1oDAFTOXZGSQedBa6hXGhT"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker",
+        "url": "https://open.spotify.com/album/54Awn36ryf55PkZyOR4iwQ"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189085,
+      "name": "Tchaikovsky: The Nutcracker, Op. 71: Miniature Overture",
+      "url": "https://open.spotify.com/track/11WQasJcGWgh3mvR1UiBcm"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker (El Cascanueces)",
+        "url": "https://open.spotify.com/album/5toPxGLIsfkfeieQ7rfjeS"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 145013,
+      "name": "Tchaikovsky: The Nutcracker, Op.71, TH.14 / Act 1: No. 2 March",
+      "url": "https://open.spotify.com/track/4EdjvWyvxlcpbcx7KXySEN"
+    },
+    {
+      "album": {
+        "name": "Violin on Stage",
+        "url": "https://open.spotify.com/album/77cffOhDde3cxLtZuychf9"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Bomsori",
+          "url": "https://open.spotify.com/artist/6eg0Lhwxk31hrFEAXfpCd1"
+        },
+        {
+          "name": "NFM Wroc\u0142aw Philharmonic",
+          "url": "https://open.spotify.com/artist/4khYM3vJclruis0KI1Og9h"
+        },
+        {
+          "name": "Giancarlo Guerrero",
+          "url": "https://open.spotify.com/artist/2p1ajptgFozpil91yrYncQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310333,
+      "name": "The Nutcracker, Op. 71, TH 14: Pas de deux (Arr. Rot for Violin and Orchestra)",
+      "url": "https://open.spotify.com/track/0ytSdKFxPEAnLWD6I5sHBj"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Nutcracker / The Sleeping Beauty / Romeo and Juliet",
+        "url": "https://open.spotify.com/album/7Fkgwk2v8Osw6KJloujdOa"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "The Nutcracker, Op. 71, TH.14 / Act 1: No. 2 March",
+      "url": "https://open.spotify.com/track/7FJvIEwZ0euCr67yihS2aW"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker",
+        "url": "https://open.spotify.com/album/6kT4So8FT8x7hs9L6Sca8o"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Seiji Ozawa",
+          "url": "https://open.spotify.com/artist/0atCvjK2GL6ezQFGOQOYQo"
+        },
+        {
+          "name": "Boston Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 144746,
+      "name": "The Nutcracker, Op.71 : No. 2 March",
+      "url": "https://open.spotify.com/track/1MogrBoQUHfi2xHQnERTgp"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Seasons (The) / Piano Sonata in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/5ZnfDWHrL2ogcY1yKx3r92"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Rashkovsky",
+          "url": "https://open.spotify.com/artist/76APdyE2oLl2XECAwSaISQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 176026,
+      "name": "The Seasons, Op. 37a, TH 135: II. February: Carnival",
+      "url": "https://open.spotify.com/track/3olGFeeuYJoKjJNmujot6q"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky, P.I.: Seasons (The) / Piano Sonata in C-Sharp Minor",
+        "url": "https://open.spotify.com/album/5ZnfDWHrL2ogcY1yKx3r92"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Rashkovsky",
+          "url": "https://open.spotify.com/artist/76APdyE2oLl2XECAwSaISQ"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182413,
+      "name": "The Seasons, Op. 37a, TH 135: XI. November: Troika",
+      "url": "https://open.spotify.com/track/7dwBdrRhmnwhJ60QjDmXpL"
+    },
+    {
+      "album": {
+        "name": "Hello May with Tchaikovsky",
+        "url": "https://open.spotify.com/album/6K6TFIv1cBiClonVFAW9je"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 219000,
+      "name": "The Sleeping Beauty (Suite), Op. 66a, TH. 234: IV. Panorama. Andantino",
+      "url": "https://open.spotify.com/track/2FFGRxvggXIVqZyjEHFbKE"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Ballet Suites",
+        "url": "https://open.spotify.com/album/7E26OMJtUMyfTpBdZtScEF"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "The Sleeping Beauty (Suite), Op. 66a, TH. 234: IV. Panorama. Andantino",
+      "url": "https://open.spotify.com/track/2WPJWFIS37fEmNPfC2S8km"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Ballet Suites (Swan Lake; The Sleeping Beauty; The Nutcraker)",
+        "url": "https://open.spotify.com/album/2EMupCrqS9QaibuytOJWmb"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Mstislav Rostropovich",
+          "url": "https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219000,
+      "name": "The Sleeping Beauty (Suite), Op. 66a, TH. 234: IV. Panorama. Andantino",
+      "url": "https://open.spotify.com/track/4sHUs1hEro8GHI3tbyse4B"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Autumn Classical",
+        "url": "https://open.spotify.com/album/3Fb4JabvzG9asYnJ1ciITx"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 277897,
+      "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
+      "url": "https://open.spotify.com/track/6V8somnVwTFJydey2sEEMd"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Sleeping Beauty",
+        "url": "https://open.spotify.com/album/1hN0sYPWQw2eezG93UctX4"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279506,
+      "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
+      "url": "https://open.spotify.com/track/2tLEaS1u9MHIzZ5jqv0R2Y"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Sleeping Beauty",
+        "url": "https://open.spotify.com/album/58LUKUEDCoJGgbpQEJvGxh"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279506,
+      "name": "The Sleeping Beauty, Op. 66, TH 13 / Act 1: 6. Valse",
+      "url": "https://open.spotify.com/track/4ixh2ds0j86ydQvP0RjwIV"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky",
+        "url": "https://open.spotify.com/album/438o4UfLaxtqzrtZ0H0eKp"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 183426,
+      "name": "The Sleeping Beauty, Op. 66, TH 13: Introduction",
+      "url": "https://open.spotify.com/track/1RoUr56lxS7U5fYak8Qa0G"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Sleeping Beauty",
+        "url": "https://open.spotify.com/album/58LUKUEDCoJGgbpQEJvGxh"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 183426,
+      "name": "The Sleeping Beauty, Op. 66, TH 13: Introduction",
+      "url": "https://open.spotify.com/track/3lsK1wQrILr1sNN5Qv6Wcr"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Sleeping Beauty",
+        "url": "https://open.spotify.com/album/1hN0sYPWQw2eezG93UctX4"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Royal Concertgebouw Orchestra",
+          "url": "https://open.spotify.com/artist/2HqNckz4bPVT37fWkhugTZ"
+        },
+        {
+          "name": "Antal Dor\u00e1ti",
+          "url": "https://open.spotify.com/artist/3kBrUZAp2FVhkN5bcTu0QL"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183426,
+      "name": "The Sleeping Beauty, Op. 66, TH 13: Introduction",
+      "url": "https://open.spotify.com/track/4Llvh2nTY6xoY6m3c8jfOD"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Snow Maiden",
+        "url": "https://open.spotify.com/album/31kmoS7Ju3ONDFnEBmA0b0"
+      },
+      "artists": [
+        {
+          "name": "Moscow Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0udLXDzunp4xQRWhMNQPci"
+        },
+        {
+          "name": "Moscow Capella",
+          "url": "https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt"
+        },
+        {
+          "name": "Elena Okolysheva",
+          "url": "https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i"
+        },
+        {
+          "name": "Arkady Mishenkin",
+          "url": "https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 423800,
+      "name": "The Snow Maiden, Op. 12: II. Dance And Chorus Of Birds",
+      "url": "https://open.spotify.com/track/0uVsdyIZylmtsSojRtEQaM"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Snow Maiden (The)",
+        "url": "https://open.spotify.com/album/08gwutivQ9dIqpvZqjMB6n"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Arkady Mishenkin",
+          "url": "https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9"
+        },
+        {
+          "name": "Elena Okolysheva",
+          "url": "https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i"
+        },
+        {
+          "name": "Moscow Capella",
+          "url": "https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt"
+        },
+        {
+          "name": "Moscow Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5EzQdU1LSOQszQFjsYt1E0"
+        },
+        {
+          "name": "Igor Golovschin",
+          "url": "https://open.spotify.com/artist/3PlMh4gNdfaK0uUkSpn6a3"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 423800,
+      "name": "The Snow Maiden, Op. 12: II. Dance and Chorus of Birds",
+      "url": "https://open.spotify.com/track/1ESCWA3pNnG6ayITG7uOEs"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: The Snow Maiden",
+        "url": "https://open.spotify.com/album/31kmoS7Ju3ONDFnEBmA0b0"
+      },
+      "artists": [
+        {
+          "name": "Moscow Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0udLXDzunp4xQRWhMNQPci"
+        },
+        {
+          "name": "Elena Okolysheva",
+          "url": "https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i"
+        },
+        {
+          "name": "Arkady Mishenkin",
+          "url": "https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9"
+        },
+        {
+          "name": "Moscow Capella",
+          "url": "https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265933,
+      "name": "The Snow Maiden, Op. 12: XIII. Dance Of The Tumblers",
+      "url": "https://open.spotify.com/track/4TBAwchrUZk88pbj9rQhxU"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Snow Maiden (The)",
+        "url": "https://open.spotify.com/album/08gwutivQ9dIqpvZqjMB6n"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Arkady Mishenkin",
+          "url": "https://open.spotify.com/artist/2Y8n1REgBYq8UtrLxXVUR9"
+        },
+        {
+          "name": "Elena Okolysheva",
+          "url": "https://open.spotify.com/artist/4X3ShM5cZAp6Z9bZCnVz8i"
+        },
+        {
+          "name": "Moscow Capella",
+          "url": "https://open.spotify.com/artist/2VND1nZaMhBd4wmmVfu6Mt"
+        },
+        {
+          "name": "Moscow Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5EzQdU1LSOQszQFjsYt1E0"
+        },
+        {
+          "name": "Igor Golovschin",
+          "url": "https://open.spotify.com/artist/3PlMh4gNdfaK0uUkSpn6a3"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 265933,
+      "name": "The Snow Maiden, Op. 12: XIII. Dance of the Tumblers",
+      "url": "https://open.spotify.com/track/7IsexeyauG6MiPVxerqldr"
+    },
+    {
+      "album": {
+        "name": "Elgar: Cello Concerto / Tchaikovsky: Rococo Variations / Dvo\u0159\u00e1k: Silent Woods; Rondo",
+        "url": "https://open.spotify.com/album/1CTMjqapaLGF4Qi0fMtfuf"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        },
+        {
+          "name": "BBC Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/23BiSNXm5UaRFuusoWisYO"
+        },
+        {
+          "name": "Ji\u0159\u00ed B\u011blohl\u00e1vek",
+          "url": "https://open.spotify.com/artist/1b5qV5N8eWF48rJSGIOEBx"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156573,
+      "name": "Variations on a Rococo Theme, Op. 33, TH 57: Var: VI. Andante",
+      "url": "https://open.spotify.com/track/123zFAGx0F5ScgrLrCWGDX"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/3YZy24ALh0xEpoC7WxAD72"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 1102240,
+      "name": "Violin Concerto in D Major, Op. 35, TH 59: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1nlty288rWFqyCXebR6JHp"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/5wkDcDWyYYRZNG3HPBI64f"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1102240,
+      "name": "Violin Concerto in D Major, Op. 35, TH 59: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/4X0v1lc0k2rMvshaYky1mh"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/5wkDcDWyYYRZNG3HPBI64f"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383253,
+      "name": "Violin Concerto in D Major, Op. 35, TH 59: II. Canzonetta. Andante",
+      "url": "https://open.spotify.com/track/0LVuhwONShK5vky2u5EUGM"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Violin Concerto - Souvenir d'un lieu cher",
+        "url": "https://open.spotify.com/album/3YZy24ALh0xEpoC7WxAD72"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Russian Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/1ZqfApY0fqguhw8PVf4mWq"
+        },
+        {
+          "name": "Dmitry Yablonsky",
+          "url": "https://open.spotify.com/artist/6jKsnWXyWgE3jyC0Cs0Cdb"
+        }
+      ],
+      "date_added": "2021-06-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 383253,
+      "name": "Violin Concerto in D Major, Op. 35, TH 59: II. Canzonetta. Andante",
+      "url": "https://open.spotify.com/track/58yrFNXUkfYsemEqmi1O8m"
+    },
+    {
+      "album": {
+        "name": "La Folle Journ\u00e9e 2019: Carnets de voyage",
+        "url": "https://open.spotify.com/album/6u6qyFjdHldQDKw5ZjuJAm"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Orchestre Philharmonique de Russie",
+          "url": "https://open.spotify.com/artist/0ChpqMPGamhqN0iwh2mYVz"
+        },
+        {
+          "name": "Ilya Kaler",
+          "url": "https://open.spotify.com/artist/5b3ITDEG6aHMNbA75778I8"
+        },
+        {
+          "name": "Dimitry Yablonsky",
+          "url": "https://open.spotify.com/artist/2Sga4k01ON2ekSFMoNPavr"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 386480,
+      "name": "Violin Concerto, Op. 35: II. Canzonetta. Andante",
+      "url": "https://open.spotify.com/track/57i45A69lmoBTyViv4doAI"
+    },
+    {
+      "album": {
+        "name": "\u041f\u0451\u0442\u0440 \u0418\u043b\u044c\u0438\u0447 \u0427\u0430\u0439\u043a\u043e\u0432\u0441\u043a\u0438\u0439. \u0413\u0435\u043d\u0438\u0438 \u043a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u0443\u0437\u044b\u043a\u0438",
+        "url": "https://open.spotify.com/album/3Yey3AhBlyilJ2ckl4mjJV"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "\u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043d\u043e\u0432\u044b\u0439 \u0424\u0438\u043b\u0430\u0440\u043c\u043e\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u0440\u043a\u0435\u0441\u0442\u0440",
+          "url": "https://open.spotify.com/artist/0WwT87a85Rq65lnoToUwSB"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 397871,
+      "name": "\u0421\u0442\u0440\u0443\u043d\u043d\u044b\u0439 \u043a\u0432\u0430\u0440\u0442\u0435\u0442 No.1, Op.11: II. Andante cantabile \u0441\u0438-\u0431\u0435\u043c\u043e\u043b\u044c \u043c\u0430\u0436\u043e\u0440",
+      "url": "https://open.spotify.com/track/5LORxJODduER6PZN0kUaUs"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2kvBlhyEkb6"
 }

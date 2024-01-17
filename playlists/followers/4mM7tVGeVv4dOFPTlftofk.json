@@ -1,735 +1,1287 @@
 {
-  "2021-12-25": 32,
-  "2021-12-26": 32,
-  "2021-12-27": 32,
-  "2021-12-28": 32,
-  "2021-12-29": 32,
-  "2021-12-30": 32,
-  "2021-12-31": 32,
-  "2022-01-01": 32,
-  "2022-01-02": 32,
-  "2022-01-03": 32,
-  "2022-01-04": 32,
-  "2022-01-05": 32,
-  "2022-01-06": 32,
-  "2022-01-07": 32,
-  "2022-01-08": 32,
-  "2022-01-09": 32,
-  "2022-01-10": 32,
-  "2022-01-11": 32,
-  "2022-01-12": 32,
-  "2022-01-13": 32,
-  "2022-01-14": 32,
-  "2022-01-15": 32,
-  "2022-01-16": 32,
-  "2022-01-17": 32,
-  "2022-01-18": 32,
-  "2022-01-19": 32,
-  "2022-01-20": 32,
-  "2022-01-21": 32,
-  "2022-01-22": 32,
-  "2022-01-23": 32,
-  "2022-01-24": 32,
-  "2022-01-25": 32,
-  "2022-01-26": 32,
-  "2022-01-27": 32,
-  "2022-01-28": 32,
-  "2022-01-29": 32,
-  "2022-01-30": 32,
-  "2022-01-31": 32,
-  "2022-02-01": 32,
-  "2022-02-02": 32,
-  "2022-02-03": 32,
-  "2022-02-04": 32,
-  "2022-02-05": 32,
-  "2022-02-06": 32,
-  "2022-02-07": 32,
-  "2022-02-08": 32,
-  "2022-02-09": 32,
-  "2022-02-10": 32,
-  "2022-02-11": 32,
-  "2022-02-12": 32,
-  "2022-02-13": 32,
-  "2022-02-14": 32,
-  "2022-02-15": 32,
-  "2022-02-16": 32,
-  "2022-02-17": 32,
-  "2022-02-18": 32,
-  "2022-02-19": 32,
-  "2022-02-20": 32,
-  "2022-02-21": 32,
-  "2022-02-22": 32,
-  "2022-02-23": 32,
-  "2022-02-24": 32,
-  "2022-02-25": 32,
-  "2022-02-26": 32,
-  "2022-02-27": 32,
-  "2022-02-28": 32,
-  "2022-03-01": 32,
-  "2022-03-02": 32,
-  "2022-03-03": 32,
-  "2022-03-04": 32,
-  "2022-03-05": 32,
-  "2022-03-06": 32,
-  "2022-03-07": 32,
-  "2022-03-08": 32,
-  "2022-03-09": 32,
-  "2022-03-10": 32,
-  "2022-03-11": 32,
-  "2022-03-12": 32,
-  "2022-03-13": 32,
-  "2022-03-14": 32,
-  "2022-03-15": 32,
-  "2022-03-16": 32,
-  "2022-03-17": 32,
-  "2022-03-18": 32,
-  "2022-03-19": 32,
-  "2022-03-20": 32,
-  "2022-03-21": 32,
-  "2022-03-22": 32,
-  "2022-03-23": 32,
-  "2022-03-24": 32,
-  "2022-03-25": 31,
-  "2022-03-26": 31,
-  "2022-03-27": 31,
-  "2022-03-28": 31,
-  "2022-03-30": 31,
-  "2022-03-31": 31,
-  "2022-04-01": 31,
-  "2022-04-02": 31,
-  "2022-04-03": 31,
-  "2022-04-04": 31,
-  "2022-04-05": 31,
-  "2022-04-06": 31,
-  "2022-04-07": 31,
-  "2022-04-08": 31,
-  "2022-04-09": 31,
-  "2022-04-10": 31,
-  "2022-04-11": 31,
-  "2022-04-12": 31,
-  "2022-04-13": 31,
-  "2022-04-14": 31,
-  "2022-04-15": 31,
-  "2022-04-16": 31,
-  "2022-04-17": 31,
-  "2022-04-18": 31,
-  "2022-04-19": 31,
-  "2022-04-20": 31,
-  "2022-04-21": 31,
-  "2022-04-22": 31,
-  "2022-04-23": 31,
-  "2022-04-24": 31,
-  "2022-04-25": 31,
-  "2022-04-26": 31,
-  "2022-04-27": 31,
-  "2022-04-28": 31,
-  "2022-04-29": 31,
-  "2022-04-30": 31,
-  "2022-05-01": 31,
-  "2022-05-02": 31,
-  "2022-05-03": 31,
-  "2022-05-04": 31,
-  "2022-05-05": 31,
-  "2022-05-06": 31,
-  "2022-05-07": 31,
-  "2022-05-08": 31,
-  "2022-05-09": 31,
-  "2022-05-10": 31,
-  "2022-05-11": 31,
-  "2022-05-12": 31,
-  "2022-05-13": 31,
-  "2022-05-14": 31,
-  "2022-05-15": 31,
-  "2022-05-16": 31,
-  "2022-05-17": 31,
-  "2022-05-18": 31,
-  "2022-05-19": 31,
-  "2022-05-20": 31,
-  "2022-05-21": 31,
-  "2022-05-22": 31,
-  "2022-05-23": 31,
-  "2022-05-24": 31,
-  "2022-05-25": 31,
-  "2022-05-26": 31,
-  "2022-05-27": 31,
-  "2022-05-28": 31,
-  "2022-05-29": 31,
-  "2022-05-30": 31,
-  "2022-05-31": 31,
-  "2022-06-01": 31,
-  "2022-06-02": 31,
-  "2022-06-03": 31,
-  "2022-06-04": 31,
-  "2022-06-05": 31,
-  "2022-06-06": 31,
-  "2022-06-07": 31,
-  "2022-06-08": 31,
-  "2022-06-09": 31,
-  "2022-06-10": 31,
-  "2022-06-11": 31,
-  "2022-06-12": 31,
-  "2022-06-13": 31,
-  "2022-06-14": 31,
-  "2022-06-15": 31,
-  "2022-06-16": 31,
-  "2022-06-17": 31,
-  "2022-06-18": 31,
-  "2022-06-19": 31,
-  "2022-06-20": 31,
-  "2022-06-21": 31,
-  "2022-06-22": 31,
-  "2022-06-23": 31,
-  "2022-06-24": 31,
-  "2022-06-25": 31,
-  "2022-06-26": 31,
-  "2022-06-27": 31,
-  "2022-06-28": 31,
-  "2022-06-29": 31,
-  "2022-06-30": 31,
-  "2022-07-01": 31,
-  "2022-07-02": 31,
-  "2022-07-03": 31,
-  "2022-07-04": 31,
-  "2022-07-05": 31,
-  "2022-07-06": 31,
-  "2022-07-07": 31,
-  "2022-07-08": 31,
-  "2022-07-09": 31,
-  "2022-07-10": 31,
-  "2022-07-11": 31,
-  "2022-07-12": 31,
-  "2022-07-13": 31,
-  "2022-07-14": 31,
-  "2022-07-15": 31,
-  "2022-07-16": 31,
-  "2022-07-17": 31,
-  "2022-07-18": 31,
-  "2022-07-19": 31,
-  "2022-07-20": 31,
-  "2022-07-21": 31,
-  "2022-07-22": 31,
-  "2022-07-23": 31,
-  "2022-07-24": 31,
-  "2022-07-25": 31,
-  "2022-07-26": 31,
-  "2022-07-27": 31,
-  "2022-07-28": 31,
-  "2022-07-29": 31,
-  "2022-07-30": 31,
-  "2022-07-31": 31,
-  "2022-08-01": 31,
-  "2022-08-02": 31,
-  "2022-08-03": 31,
-  "2022-08-04": 31,
-  "2022-08-05": 31,
-  "2022-08-06": 31,
-  "2022-08-07": 31,
-  "2022-08-08": 31,
-  "2022-08-09": 31,
-  "2022-08-10": 31,
-  "2022-08-11": 31,
-  "2022-08-12": 31,
-  "2022-08-13": 31,
-  "2022-08-14": 31,
-  "2022-08-15": 31,
-  "2022-08-16": 31,
-  "2022-08-17": 31,
-  "2022-08-18": 31,
-  "2022-08-19": 31,
-  "2022-08-20": 31,
-  "2022-08-21": 31,
-  "2022-08-22": 31,
-  "2022-08-23": 31,
-  "2022-08-24": 31,
-  "2022-08-25": 31,
-  "2022-08-26": 31,
-  "2022-08-27": 31,
-  "2022-08-28": 31,
-  "2022-08-29": 31,
-  "2022-08-30": 31,
-  "2022-08-31": 31,
-  "2022-09-01": 31,
-  "2022-09-02": 31,
-  "2022-09-03": 31,
-  "2022-09-04": 31,
-  "2022-09-05": 31,
-  "2022-09-06": 31,
-  "2022-09-07": 31,
-  "2022-09-09": 31,
-  "2022-09-10": 31,
-  "2022-09-11": 31,
-  "2022-09-12": 31,
-  "2022-09-13": 31,
-  "2022-09-15": 31,
-  "2022-09-16": 31,
-  "2022-09-17": 31,
-  "2022-09-18": 31,
-  "2022-09-19": 31,
-  "2022-09-20": 31,
-  "2022-09-21": 31,
-  "2022-09-22": 31,
-  "2022-09-23": 31,
-  "2022-09-24": 31,
-  "2022-09-25": 31,
-  "2022-09-26": 31,
-  "2022-09-27": 31,
-  "2022-09-28": 31,
-  "2022-09-29": 31,
-  "2022-09-30": 31,
-  "2022-10-01": 31,
-  "2022-10-02": 31,
-  "2022-10-03": 31,
-  "2022-10-04": 31,
-  "2022-10-05": 31,
-  "2022-10-06": 31,
-  "2022-10-07": 31,
-  "2022-10-08": 31,
-  "2022-10-09": 31,
-  "2022-10-10": 31,
-  "2022-10-11": 31,
-  "2022-10-12": 31,
-  "2022-10-13": 31,
-  "2022-10-14": 31,
-  "2022-10-15": 31,
-  "2022-10-16": 31,
-  "2022-10-17": 31,
-  "2022-10-18": 31,
-  "2022-10-19": 31,
-  "2022-10-20": 31,
-  "2022-10-21": 31,
-  "2022-10-22": 31,
-  "2022-10-23": 31,
-  "2022-10-24": 31,
-  "2022-10-25": 31,
-  "2022-10-26": 31,
-  "2022-10-27": 31,
-  "2022-10-28": 31,
-  "2022-10-29": 31,
-  "2022-10-30": 31,
-  "2022-10-31": 31,
-  "2022-11-01": 31,
-  "2022-11-02": 31,
-  "2022-11-03": 32,
-  "2022-11-04": 32,
-  "2022-11-05": 32,
-  "2022-11-06": 32,
-  "2022-11-07": 32,
-  "2022-11-08": 34,
-  "2022-11-09": 34,
-  "2022-11-10": 38,
-  "2022-11-11": 38,
-  "2022-11-12": 38,
-  "2022-11-13": 38,
-  "2022-11-14": 38,
-  "2022-11-15": 38,
-  "2022-11-16": 38,
-  "2022-11-17": 38,
-  "2022-11-18": 38,
-  "2022-11-19": 37,
-  "2022-11-20": 34,
-  "2022-11-21": 34,
-  "2022-11-22": 34,
-  "2022-11-23": 34,
-  "2022-11-24": 34,
-  "2022-11-25": 34,
-  "2022-11-26": 34,
-  "2022-11-27": 33,
-  "2022-11-28": 33,
-  "2022-11-29": 33,
-  "2022-11-30": 33,
-  "2022-12-01": 33,
-  "2022-12-02": 33,
-  "2022-12-03": 33,
-  "2022-12-04": 33,
-  "2022-12-05": 33,
-  "2022-12-06": 33,
-  "2022-12-07": 33,
-  "2022-12-08": 33,
-  "2022-12-09": 33,
-  "2022-12-10": 33,
-  "2022-12-11": 33,
-  "2022-12-12": 33,
-  "2022-12-13": 33,
-  "2022-12-14": 33,
-  "2022-12-15": 33,
-  "2022-12-16": 33,
-  "2022-12-17": 33,
-  "2022-12-18": 33,
-  "2022-12-19": 33,
-  "2022-12-20": 33,
-  "2022-12-21": 33,
-  "2022-12-22": 33,
-  "2022-12-24": 33,
-  "2022-12-25": 33,
-  "2022-12-26": 33,
-  "2022-12-27": 33,
-  "2022-12-28": 33,
-  "2022-12-29": 33,
-  "2022-12-30": 33,
-  "2022-12-31": 33,
-  "2023-01-01": 33,
-  "2023-01-02": 33,
-  "2023-01-03": 33,
-  "2023-01-04": 33,
-  "2023-01-05": 33,
-  "2023-01-06": 33,
-  "2023-01-07": 33,
-  "2023-01-08": 34,
-  "2023-01-09": 34,
-  "2023-01-10": 34,
-  "2023-01-11": 34,
-  "2023-01-12": 34,
-  "2023-01-13": 33,
-  "2023-01-14": 33,
-  "2023-01-15": 33,
-  "2023-01-16": 33,
-  "2023-01-17": 33,
-  "2023-01-18": 33,
-  "2023-01-19": 33,
-  "2023-01-20": 33,
-  "2023-01-21": 33,
-  "2023-01-22": 33,
-  "2023-01-23": 33,
-  "2023-01-24": 33,
-  "2023-01-25": 33,
-  "2023-01-26": 33,
-  "2023-01-27": 33,
-  "2023-01-28": 33,
-  "2023-01-29": 33,
-  "2023-01-30": 33,
-  "2023-01-31": 33,
-  "2023-02-01": 33,
-  "2023-02-02": 33,
-  "2023-02-03": 33,
-  "2023-02-04": 33,
-  "2023-02-05": 33,
-  "2023-02-06": 33,
-  "2023-02-07": 33,
-  "2023-02-08": 33,
-  "2023-02-09": 33,
-  "2023-02-10": 33,
-  "2023-02-11": 33,
-  "2023-02-12": 33,
-  "2023-02-13": 33,
-  "2023-02-14": 33,
-  "2023-02-15": 33,
-  "2023-02-16": 33,
-  "2023-02-17": 33,
-  "2023-02-18": 33,
-  "2023-02-19": 33,
-  "2023-02-20": 33,
-  "2023-02-21": 33,
-  "2023-02-22": 33,
-  "2023-02-23": 33,
-  "2023-02-24": 33,
-  "2023-02-25": 33,
-  "2023-02-26": 33,
-  "2023-02-27": 33,
-  "2023-02-28": 33,
-  "2023-03-01": 33,
-  "2023-03-02": 33,
-  "2023-03-03": 33,
-  "2023-03-04": 33,
-  "2023-03-05": 33,
-  "2023-03-06": 33,
-  "2023-03-07": 33,
-  "2023-03-08": 33,
-  "2023-03-09": 33,
-  "2023-03-10": 33,
-  "2023-03-11": 33,
-  "2023-03-12": 33,
-  "2023-03-13": 33,
-  "2023-03-14": 33,
-  "2023-03-15": 33,
-  "2023-03-16": 33,
-  "2023-03-17": 33,
-  "2023-03-18": 33,
-  "2023-03-19": 33,
-  "2023-03-20": 33,
-  "2023-03-21": 33,
-  "2023-03-22": 33,
-  "2023-03-23": 33,
-  "2023-03-24": 33,
-  "2023-03-25": 33,
-  "2023-03-26": 33,
-  "2023-03-27": 33,
-  "2023-03-28": 33,
-  "2023-03-29": 33,
-  "2023-03-30": 33,
-  "2023-03-31": 33,
-  "2023-04-01": 33,
-  "2023-04-02": 33,
-  "2023-04-03": 33,
-  "2023-04-04": 33,
-  "2023-04-05": 33,
-  "2023-04-06": 33,
-  "2023-04-07": 33,
-  "2023-04-09": 33,
-  "2023-04-10": 33,
-  "2023-04-11": 33,
-  "2023-04-12": 33,
-  "2023-04-13": 33,
-  "2023-04-14": 33,
-  "2023-04-15": 33,
-  "2023-04-16": 33,
-  "2023-04-17": 33,
-  "2023-04-18": 33,
-  "2023-04-19": 33,
-  "2023-04-20": 33,
-  "2023-04-21": 33,
-  "2023-04-22": 33,
-  "2023-04-23": 33,
-  "2023-04-24": 33,
-  "2023-04-25": 33,
-  "2023-04-26": 33,
-  "2023-04-27": 33,
-  "2023-04-28": 33,
-  "2023-04-29": 33,
-  "2023-04-30": 33,
-  "2023-05-01": 33,
-  "2023-05-02": 33,
-  "2023-05-03": 33,
-  "2023-05-04": 33,
-  "2023-05-05": 33,
-  "2023-05-06": 33,
-  "2023-05-07": 33,
-  "2023-05-08": 33,
-  "2023-05-09": 33,
-  "2023-05-10": 33,
-  "2023-05-11": 33,
-  "2023-05-12": 33,
-  "2023-05-13": 33,
-  "2023-05-14": 33,
-  "2023-05-15": 33,
-  "2023-05-16": 33,
-  "2023-05-17": 33,
-  "2023-05-18": 33,
-  "2023-05-19": 33,
-  "2023-05-20": 33,
-  "2023-05-21": 33,
-  "2023-05-22": 33,
-  "2023-05-23": 33,
-  "2023-05-24": 33,
-  "2023-05-25": 33,
-  "2023-05-26": 33,
-  "2023-05-27": 33,
-  "2023-05-28": 33,
-  "2023-05-29": 33,
-  "2023-05-30": 33,
-  "2023-05-31": 33,
-  "2023-06-01": 33,
-  "2023-06-02": 33,
-  "2023-06-03": 33,
-  "2023-06-04": 33,
-  "2023-06-05": 33,
-  "2023-06-06": 33,
-  "2023-06-07": 33,
-  "2023-06-08": 33,
-  "2023-06-09": 33,
-  "2023-06-10": 33,
-  "2023-06-11": 33,
-  "2023-06-12": 33,
-  "2023-06-13": 33,
-  "2023-06-14": 33,
-  "2023-06-15": 33,
-  "2023-06-16": 33,
-  "2023-06-17": 33,
-  "2023-06-18": 33,
-  "2023-06-19": 33,
-  "2023-06-20": 33,
-  "2023-06-21": 33,
-  "2023-06-22": 33,
-  "2023-06-23": 33,
-  "2023-06-24": 33,
-  "2023-06-25": 33,
-  "2023-06-26": 33,
-  "2023-06-27": 34,
-  "2023-06-28": 34,
-  "2023-06-29": 34,
-  "2023-06-30": 34,
-  "2023-07-01": 34,
-  "2023-07-02": 34,
-  "2023-07-03": 34,
-  "2023-07-04": 34,
-  "2023-07-05": 34,
-  "2023-07-06": 34,
-  "2023-07-07": 34,
-  "2023-07-08": 34,
-  "2023-07-09": 33,
-  "2023-07-10": 33,
-  "2023-07-11": 33,
-  "2023-07-12": 33,
-  "2023-07-13": 33,
-  "2023-07-14": 33,
-  "2023-07-15": 33,
-  "2023-07-16": 33,
-  "2023-07-17": 33,
-  "2023-07-18": 33,
-  "2023-07-19": 33,
-  "2023-07-20": 33,
-  "2023-07-21": 33,
-  "2023-07-22": 33,
-  "2023-07-23": 33,
-  "2023-07-24": 33,
-  "2023-07-25": 33,
-  "2023-07-26": 33,
-  "2023-07-27": 33,
-  "2023-07-28": 33,
-  "2023-07-29": 33,
-  "2023-07-30": 33,
-  "2023-07-31": 33,
-  "2023-08-01": 33,
-  "2023-08-02": 33,
-  "2023-08-03": 33,
-  "2023-08-04": 33,
-  "2023-08-05": 33,
-  "2023-08-06": 33,
-  "2023-08-07": 33,
-  "2023-08-08": 33,
-  "2023-08-09": 33,
-  "2023-08-10": 33,
-  "2023-08-11": 33,
-  "2023-08-12": 33,
-  "2023-08-13": 33,
-  "2023-08-14": 33,
-  "2023-08-15": 33,
-  "2023-08-16": 33,
-  "2023-08-17": 33,
-  "2023-08-18": 33,
-  "2023-08-19": 33,
-  "2023-08-20": 33,
-  "2023-08-21": 33,
-  "2023-08-22": 33,
-  "2023-08-23": 33,
-  "2023-08-24": 33,
-  "2023-08-25": 33,
-  "2023-08-26": 33,
-  "2023-08-27": 33,
-  "2023-08-28": 33,
-  "2023-08-29": 33,
-  "2023-08-30": 33,
-  "2023-08-31": 33,
-  "2023-09-01": 33,
-  "2023-09-02": 33,
-  "2023-09-03": 33,
-  "2023-09-04": 33,
-  "2023-09-05": 33,
-  "2023-09-06": 33,
-  "2023-09-07": 33,
-  "2023-09-08": 33,
-  "2023-09-09": 33,
-  "2023-09-10": 33,
-  "2023-09-11": 33,
-  "2023-09-12": 33,
-  "2023-09-13": 33,
-  "2023-09-14": 33,
-  "2023-09-15": 33,
-  "2023-09-16": 33,
-  "2023-09-17": 33,
-  "2023-09-18": 33,
-  "2023-09-19": 33,
-  "2023-09-20": 33,
-  "2023-09-21": 33,
-  "2023-09-22": 33,
-  "2023-09-23": 33,
-  "2023-09-24": 33,
-  "2023-09-25": 33,
-  "2023-09-26": 33,
-  "2023-09-27": 33,
-  "2023-09-28": 33,
-  "2023-09-29": 33,
-  "2023-09-30": 33,
-  "2023-10-01": 33,
-  "2023-10-02": 33,
-  "2023-10-03": 33,
-  "2023-10-04": 33,
-  "2023-10-05": 33,
-  "2023-10-06": 33,
-  "2023-10-07": 33,
-  "2023-10-08": 33,
-  "2023-10-09": 33,
-  "2023-10-10": 33,
-  "2023-10-11": 33,
-  "2023-10-12": 33,
-  "2023-10-13": 33,
-  "2023-10-14": 33,
-  "2023-10-15": 33,
-  "2023-10-16": 33,
-  "2023-10-17": 33,
-  "2023-10-18": 33,
-  "2023-10-19": 33,
-  "2023-10-20": 33,
-  "2023-10-21": 33,
-  "2023-10-22": 33,
-  "2023-10-23": 33,
-  "2023-10-24": 33,
-  "2023-10-25": 33,
-  "2023-10-26": 33,
-  "2023-10-27": 33,
-  "2023-10-28": 33,
-  "2023-10-29": 33,
-  "2023-10-30": 33,
-  "2023-10-31": 33,
-  "2023-11-01": 33,
-  "2023-11-02": 33,
-  "2023-11-03": 33,
-  "2023-11-04": 33,
-  "2023-11-05": 33,
-  "2023-11-06": 33,
-  "2023-11-07": 33,
-  "2023-11-08": 33,
-  "2023-11-09": 33,
-  "2023-11-10": 33,
-  "2023-11-11": 33,
-  "2023-11-12": 33,
-  "2023-11-13": 33,
-  "2023-11-14": 33,
-  "2023-11-15": 33,
-  "2023-11-16": 33,
-  "2023-11-17": 33,
-  "2023-11-18": 33,
-  "2023-11-19": 33,
-  "2023-11-20": 33,
-  "2023-11-21": 33,
-  "2023-11-22": 33,
-  "2023-11-23": 33,
-  "2023-11-24": 33,
-  "2023-11-25": 33,
-  "2023-11-26": 33,
-  "2023-11-27": 33,
-  "2023-11-28": 33,
-  "2023-11-29": 33,
-  "2023-11-30": 33,
-  "2023-12-01": 33,
-  "2023-12-02": 33,
-  "2023-12-03": 33,
-  "2023-12-04": 33,
-  "2023-12-05": 33,
-  "2023-12-06": 33,
-  "2023-12-07": 33,
-  "2023-12-08": 33,
-  "2023-12-09": 33,
-  "2023-12-10": 33,
-  "2023-12-11": 33,
-  "2023-12-12": 33,
-  "2023-12-13": 33,
-  "2023-12-14": 33,
-  "2023-12-15": 33,
-  "2023-12-16": 33,
-  "2023-12-17": 33,
-  "2023-12-18": 33,
-  "2023-12-19": 33,
-  "2023-12-20": 33,
-  "2023-12-21": 33,
-  "2023-12-22": 33,
-  "2023-12-23": 33,
-  "2023-12-24": 33,
-  "2023-12-25": 33,
-  "2023-12-26": 33,
-  "2023-12-27": 33,
-  "2023-12-30": 33,
-  "2023-12-31": 33,
-  "2024-01-01": 33,
-  "2024-01-02": 33,
-  "2024-01-03": 33
+  "2024-01-17": 33,
+  "date_first_scraped": "2021-12-21",
+  "description": "Getaway Rock Festival \u00e4r efter tv\u00e5 \u00e5r etablerad som en av Sveriges b\u00e4sta och viktigaste rockfestivaler. Sommarens upplaga arrangeras 5 - 7 juli i G\u00e4vle. Hitta spellistor f\u00f6r alla tillf\u00e4llen p\u00e5 <a href=\"spottily:app:tunigo\">Tunigo</a>. ",
+  "name": "Getaway Rock 2012",
+  "tracks": [
+    {
+      "album": {
+        "name": "Age of Rage",
+        "url": "https://open.spotify.com/album/7keeF0LMwjqqvA0UPtLTsP"
+      },
+      "artists": [
+        {
+          "name": "Corroded",
+          "url": "https://open.spotify.com/artist/2vH7B6YvHO3AHVb9R8bYi8"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Age Of Rage",
+      "url": "https://open.spotify.com/track/0iwqaLyAkTKDS72u3Yb1qR"
+    },
+    {
+      "album": {
+        "name": "All This Dancin' Around",
+        "url": "https://open.spotify.com/album/33Wl8TSxJ4byQwWa45ZRy2"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230786,
+      "name": "All This Dancin\u00b4 Around",
+      "url": "https://open.spotify.com/track/4ICKOZfsgmgRDrsDGrzhgO"
+    },
+    {
+      "album": {
+        "name": "The Apostasy",
+        "url": "https://open.spotify.com/album/2vliNGDzbqLZ87S6yqDerF"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298333,
+      "name": "At The Left Hand Ov God",
+      "url": "https://open.spotify.com/track/1izxIdGm12T8HiyghwR9qU"
+    },
+    {
+      "album": {
+        "name": "Battle Hymn",
+        "url": "https://open.spotify.com/album/4Rc6yqyJz2Mgz5xXLhXMkG"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416640,
+      "name": "Battle Hymn",
+      "url": "https://open.spotify.com/track/4ByxgwK7FCVXoVE1ID4c9Q"
+    },
+    {
+      "album": {
+        "name": "The Age Of Nero",
+        "url": "https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Black Crow on a Tombstone",
+      "url": "https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS"
+    },
+    {
+      "album": {
+        "name": "ObZen",
+        "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442733,
+      "name": "Bleed",
+      "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
+    },
+    {
+      "album": {
+        "name": "Promise Little, Ruin Much",
+        "url": "https://open.spotify.com/album/143oCOoGscCoYyxk3QwWbk"
+      },
+      "artists": [
+        {
+          "name": "Itchy Daze",
+          "url": "https://open.spotify.com/artist/7zK6HEeGdiwmMzRevbIhPx"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240373,
+      "name": "Blessed With A Burden",
+      "url": "https://open.spotify.com/track/52PdzRs4Mi8y1UP5hhZjgE"
+    },
+    {
+      "album": {
+        "name": "Blodt\u00f8rst",
+        "url": "https://open.spotify.com/album/5p4utaBTIuDiczJIRnufdH"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217466,
+      "name": "Blodt\u00f8rst",
+      "url": "https://open.spotify.com/track/422eiufgtoGji4psgToXoA"
+    },
+    {
+      "album": {
+        "name": "Dark Passion Play (Special Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4VqPuC0LLhgb1Gp3SVEd1u"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254615,
+      "name": "Bye Bye Beautiful",
+      "url": "https://open.spotify.com/track/1nizV50Nh1WwrVp0QUMisj"
+    },
+    {
+      "album": {
+        "name": "Fighting the World",
+        "url": "https://open.spotify.com/album/2Bju49iO98LXuJsY2vKEqg"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252693,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/4S47FRAZ3VcyZS87FnQtmk"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213573,
+      "name": "Con Clavi Con Dio",
+      "url": "https://open.spotify.com/track/5XdFVvTBhr1JvtZfazo3fE"
+    },
+    {
+      "album": {
+        "name": "Demigod",
+        "url": "https://open.spotify.com/album/0ZIpzSzSiULNoZIPfDypef"
+      },
+      "artists": [
+        {
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211306,
+      "name": "Conquer All",
+      "url": "https://open.spotify.com/track/4XDaJPLGKGm43T640r8pwy"
+    },
+    {
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/3eeamI1KG4oa8e8GySlktB"
+      },
+      "artists": [
+        {
+          "name": "Anathema",
+          "url": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293826,
+      "name": "Deep",
+      "url": "https://open.spotify.com/track/5yuOjGskd7osXnfwJqWbbP"
+    },
+    {
+      "album": {
+        "name": "Double Nature",
+        "url": "https://open.spotify.com/album/5JlviIt8J6PjQh7ehNvxDF"
+      },
+      "artists": [
+        {
+          "name": "Mustasch",
+          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287746,
+      "name": "Double Nature",
+      "url": "https://open.spotify.com/track/0BGykzIblZq29QGNDH3ZUL"
+    },
+    {
+      "album": {
+        "name": "And The Rest Will Surely Perish",
+        "url": "https://open.spotify.com/album/4MjmlfYk5nbWQRvh9mAOHz"
+      },
+      "artists": [
+        {
+          "name": "Kings Destroy",
+          "url": "https://open.spotify.com/artist/2vDfJFvPss9uWNgVLCmC3x"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432333,
+      "name": "Dusty Mummy",
+      "url": "https://open.spotify.com/track/2n4BeV9HostkJSeZpY4xTk"
+    },
+    {
+      "album": {
+        "name": "Leveler",
+        "url": "https://open.spotify.com/album/0VIYwqjNogiqKL44uYLkKd"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "Empire",
+      "url": "https://open.spotify.com/track/776mMkx1vrLCveM1rpnZhv"
+    },
+    {
+      "album": {
+        "name": "Ur Jordens Djup",
+        "url": "https://open.spotify.com/album/71Kh2J5eHEhaalPcH5LlUa"
+      },
+      "artists": [
+        {
+          "name": "Finntroll",
+          "url": "https://open.spotify.com/artist/4ZgkHVHmGPXuRy8zd26ZJX"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258893,
+      "name": "En M\u00e4ktig H\u00e4r",
+      "url": "https://open.spotify.com/track/5Bf9ujiTBl54Ngkulds32B"
+    },
+    {
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/6kP4qxIirFasV4dqO1EaUk"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207693,
+      "name": "Evil Ways",
+      "url": "https://open.spotify.com/track/5DYZ2hDmnFg15L0KVX5kXB"
+    },
+    {
+      "album": {
+        "name": "The Unattractive Revolution",
+        "url": "https://open.spotify.com/album/0jJAQaaRnxrOxjZT9ybQzY"
+      },
+      "artists": [
+        {
+          "name": "Crashd\u00efet",
+          "url": "https://open.spotify.com/artist/1cB013ULmW96lglRcrWTut"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286520,
+      "name": "Falling Rain",
+      "url": "https://open.spotify.com/track/1bj6zKfayvbpypyRTWaGP4"
+    },
+    {
+      "album": {
+        "name": "Rising Force",
+        "url": "https://open.spotify.com/album/4tJtJ6kgkBdyp4NZS9efW9"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349760,
+      "name": "Far Beyond The Sun",
+      "url": "https://open.spotify.com/track/671vZdjEOtml0luFydgvKU"
+    },
+    {
+      "album": {
+        "name": "Folie \u00e1 Cinq",
+        "url": "https://open.spotify.com/album/3wNpHhfrPozbJoeZ9llnRw"
+      },
+      "artists": [
+        {
+          "name": "Sparzanza",
+          "url": "https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200226,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/05YjP43ozZi5VHvojyA4lN"
+    },
+    {
+      "album": {
+        "name": "Judgement",
+        "url": "https://open.spotify.com/album/3eeamI1KG4oa8e8GySlktB"
+      },
+      "artists": [
+        {
+          "name": "Anathema",
+          "url": "https://open.spotify.com/artist/0ZXKT0FCsLWkSLCjoBJgBX"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230440,
+      "name": "Forgotten Hopes",
+      "url": "https://open.spotify.com/track/1JP3RIf9iBcmb6KdvIV8d7"
+    },
+    {
+      "album": {
+        "name": "Veil Of Ignorance",
+        "url": "https://open.spotify.com/album/5uCaHcPizsBJbjjZuWTyGl"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190960,
+      "name": "Friends & Traitors",
+      "url": "https://open.spotify.com/track/5cxmDZMaeZ9wICgsufg4xu"
+    },
+    {
+      "album": {
+        "name": "Generation Wild",
+        "url": "https://open.spotify.com/album/6fJy4iRxzpkr7xCnaSZcgM"
+      },
+      "artists": [
+        {
+          "name": "Crashd\u00efet",
+          "url": "https://open.spotify.com/artist/1cB013ULmW96lglRcrWTut"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "Generation Wild",
+      "url": "https://open.spotify.com/track/6NC7Xg8F2reCPStYe8xSPr"
+    },
+    {
+      "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/3zHe3E7z2l5XgEpIei2HFa"
+      },
+      "artists": [
+        {
+          "name": "Itchy Daze",
+          "url": "https://open.spotify.com/artist/7zK6HEeGdiwmMzRevbIhPx"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292533,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/3WUiEV3BUH2B0euuljnVbl"
+    },
+    {
+      "album": {
+        "name": "Call to Arms",
+        "url": "https://open.spotify.com/album/2xnoUyxAIrYASKwtlBXsKw"
+      },
+      "artists": [
+        {
+          "name": "Saxon",
+          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261004,
+      "name": "Hammer of the Gods",
+      "url": "https://open.spotify.com/track/4AZdaGyF0OM7NfgEzH9fMO"
+    },
+    {
+      "album": {
+        "name": "Hisingen Blues",
+        "url": "https://open.spotify.com/album/7bS3MdGsupyp9ZM8W08sZ9"
+      },
+      "artists": [
+        {
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253066,
+      "name": "Hisingen Blues",
+      "url": "https://open.spotify.com/track/6HSDHHN1Y3DxOlMBcjJlOD"
+    },
+    {
+      "album": {
+        "name": "War of Attrition",
+        "url": "https://open.spotify.com/album/1DO7NTlm4efCqfWdvnLj2D"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329866,
+      "name": "Homicidal Retribution",
+      "url": "https://open.spotify.com/track/0y0HtHL9ND473xMOsgacr6"
+    },
+    {
+      "album": {
+        "name": "Livet \u00e4r en fest (Bonus Version)",
+        "url": "https://open.spotify.com/album/1qCzGPy4a3l7zi32MQ8URA"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287920,
+      "name": "Jack The Ripper",
+      "url": "https://open.spotify.com/track/7evydqoPisZSXpnMjUN7jW"
+    },
+    {
+      "album": {
+        "name": "Every Day Is Halloween - Greatest Tricks",
+        "url": "https://open.spotify.com/album/240Zg60O7o6wPJ5MHuo1Mh"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294311,
+      "name": "Jesus Built My Hotrod (Re-Record) [Remastered]",
+      "url": "https://open.spotify.com/track/5h2ueBAHNq4uhiktabicts"
+    },
+    {
+      "album": {
+        "name": "Now, Diabolical",
+        "url": "https://open.spotify.com/album/5ux0kZmUpHgNZ1Lsmwjngv"
+      },
+      "artists": [
+        {
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216346,
+      "name": "K.I.N.G",
+      "url": "https://open.spotify.com/track/0M82wZjP8IGboFGIOiw1ah"
+    },
+    {
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/1rdVGFcmOnQzjEsW4fI45P"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 435000,
+      "name": "Leave Me Here",
+      "url": "https://open.spotify.com/track/1Hu7uWexshjLpeera5VN8w"
+    },
+    {
+      "album": {
+        "name": "All This Dancin' Around",
+        "url": "https://open.spotify.com/album/33Wl8TSxJ4byQwWa45ZRy2"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203706,
+      "name": "Let It Ride",
+      "url": "https://open.spotify.com/track/6EDfUsKeu0WWmbhscotD2e"
+    },
+    {
+      "album": {
+        "name": "Alpha Noir (2-Track Promo Version)",
+        "url": "https://open.spotify.com/album/3Ks6Bo5d4VBVdAbWxZ0jUq"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229040,
+      "name": "Lickanthrope",
+      "url": "https://open.spotify.com/track/5fXYJfopaT3oUgygBAgYxC"
+    },
+    {
+      "album": {
+        "name": "Livet \u00e4r en fest (Bonus Version)",
+        "url": "https://open.spotify.com/album/1qCzGPy4a3l7zi32MQ8URA"
+      },
+      "artists": [
+        {
+          "name": "Nationalteatern",
+          "url": "https://open.spotify.com/artist/3GBq0lnwXpfnLmMndLDZ6U"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253773,
+      "name": "Livet \u00e4r en fest",
+      "url": "https://open.spotify.com/track/6FreaWmILQLBGSWjVjHMKc"
+    },
+    {
+      "album": {
+        "name": "Black Stone Cherry",
+        "url": "https://open.spotify.com/album/5XzjYognRznsIgYqmrHkGV"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230706,
+      "name": "Lonely Train",
+      "url": "https://open.spotify.com/track/5lIqY3Yb3bPj5z1tiUIiCJ"
+    },
+    {
+      "album": {
+        "name": "Laugh? I Nearly Bought One!",
+        "url": "https://open.spotify.com/album/0HkrY28rXvdAX5K15W2zdK"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265466,
+      "name": "Love Like Blood",
+      "url": "https://open.spotify.com/track/1zkQJfNo2KpqqCKOOvWPF4"
+    },
+    {
+      "album": {
+        "name": "L\u00e5t Napalmen Regna",
+        "url": "https://open.spotify.com/album/4AzXDNkmx08eaXHrcpdItc"
+      },
+      "artists": [
+        {
+          "name": "Raubtier",
+          "url": "https://open.spotify.com/artist/3nhhMoWycyLMmZydlwjk5z"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206402,
+      "name": "L\u00e5t Napalmen Regna",
+      "url": "https://open.spotify.com/track/3NY8gd5d0YNhMpd4YzHLdC"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/35ei7VV5LWBHnmFRZtsrP8"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259079,
+      "name": "Marianas Trench",
+      "url": "https://open.spotify.com/track/3lPowVtoNuC6YmX7xg49U1"
+    },
+    {
+      "album": {
+        "name": "Kvelertak",
+        "url": "https://open.spotify.com/album/08d7MnYYp9OEsQ8GcnMHOn"
+      },
+      "artists": [
+        {
+          "name": "Kvelertak",
+          "url": "https://open.spotify.com/artist/0VE0GTaTSeeGSzrQpLmeb9"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "Mj\u00f8d",
+      "url": "https://open.spotify.com/track/60xc9CfAn4aoY8MDDif9fV"
+    },
+    {
+      "album": {
+        "name": "Exit To Transfer",
+        "url": "https://open.spotify.com/album/7pkQmcclV2YhSN8Ibkgtz1"
+      },
+      "artists": [
+        {
+          "name": "Corroded",
+          "url": "https://open.spotify.com/artist/2vH7B6YvHO3AHVb9R8bYi8"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191706,
+      "name": "My Hollow Shell",
+      "url": "https://open.spotify.com/track/321djWhluGBvBGyIBe9aZw"
+    },
+    {
+      "album": {
+        "name": "Every Day Is Halloween - Greatest Tricks",
+        "url": "https://open.spotify.com/album/240Zg60O7o6wPJ5MHuo1Mh"
+      },
+      "artists": [
+        {
+          "name": "Ministry",
+          "url": "https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328718,
+      "name": "N.W.O. (Re-Record) [Remastered]",
+      "url": "https://open.spotify.com/track/4GgRGNihXtkFMjywXZDuTJ"
+    },
+    {
+      "album": {
+        "name": "Night Eternal (Bonustrack Version)",
+        "url": "https://open.spotify.com/album/3CS6pvOYfpG6j8CaU6uyNd"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249800,
+      "name": "Night Eternal",
+      "url": "https://open.spotify.com/track/34p3PtdWlKHL4jBfzZNzNR"
+    },
+    {
+      "album": {
+        "name": "Babylon (Revised Online Music)",
+        "url": "https://open.spotify.com/album/32QHWyKkZykhjHXzgRaZyg"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236013,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/581mukhDjta60CCwpvnjL9"
+    },
+    {
+      "album": {
+        "name": "Eternal Kingdom",
+        "url": "https://open.spotify.com/album/51fF4JNsyx99YAWixRgmVh"
+      },
+      "artists": [
+        {
+          "name": "Cult Of Luna",
+          "url": "https://open.spotify.com/artist/7E7fJJpdVgr1F3pfAfRtHe"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459640,
+      "name": "Owlwood",
+      "url": "https://open.spotify.com/track/1w2sztROEaeREHkwlnnKB7"
+    },
+    {
+      "album": {
+        "name": "MMXII",
+        "url": "https://open.spotify.com/album/2WCsVMZt1kcsgThq7K8MyH"
+      },
+      "artists": [
+        {
+          "name": "Killing Joke",
+          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 536720,
+      "name": "Pole Shift",
+      "url": "https://open.spotify.com/track/5DhZn3YHnSRazrSle7Am2C"
+    },
+    {
+      "album": {
+        "name": "No Mercy Fool!/The Suicidal Family",
+        "url": "https://open.spotify.com/album/5Q9XRmD1Z9IVF4Tlz0MsSK"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208546,
+      "name": "Possessed to Skate",
+      "url": "https://open.spotify.com/track/5kNmDNseSRaY8pnro2bbiW"
+    },
+    {
+      "album": {
+        "name": "Red Fang",
+        "url": "https://open.spotify.com/album/1orQuQDeSCf7yEPSEAb6Gb"
+      },
+      "artists": [
+        {
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268280,
+      "name": "Prehistoric Dog",
+      "url": "https://open.spotify.com/track/31joRJoijYOGBIW4444Fwk"
+    },
+    {
+      "album": {
+        "name": "Denim and Leather (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/0KtDv1SIDSdJWDpjHBLJad"
+      },
+      "artists": [
+        {
+          "name": "Saxon",
+          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242573,
+      "name": "Princess of the Night - 2009 Remaster",
+      "url": "https://open.spotify.com/track/2QpP8SyXrumYR5BlcdJgTV"
+    },
+    {
+      "album": {
+        "name": "Ratrace",
+        "url": "https://open.spotify.com/album/12Z7ASwmeJM2W9OaaHJfFk"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201266,
+      "name": "Ratrace",
+      "url": "https://open.spotify.com/track/0C7rougSokTIEmeDbmrpLl"
+    },
+    {
+      "album": {
+        "name": "Frozen In Time",
+        "url": "https://open.spotify.com/album/1fzDounFHdiVT5Zg9MKcFh"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212840,
+      "name": "Redneck Stomp",
+      "url": "https://open.spotify.com/track/2fSYadDsbWMtIVqX7flKIc"
+    },
+    {
+      "album": {
+        "name": "Relentless",
+        "url": "https://open.spotify.com/album/0bsks59upVOkvbqskTim0t"
+      },
+      "artists": [
+        {
+          "name": "Yngwie Malmsteen",
+          "url": "https://open.spotify.com/artist/5DpSoH5zCXNRqYai7pmcGG"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298920,
+      "name": "Relentless",
+      "url": "https://open.spotify.com/track/55jNKwDXNtsNfDqnLHKXXH"
+    },
+    {
+      "album": {
+        "name": "The Fatal Feast",
+        "url": "https://open.spotify.com/album/1b8zi1MND3PZJR6ms8mOJr"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145613,
+      "name": "Repossession",
+      "url": "https://open.spotify.com/track/0SRytJB6NYAw4PLbCestn6"
+    },
+    {
+      "album": {
+        "name": "Opus Eponymous",
+        "url": "https://open.spotify.com/album/5aEgt9uHrVL3QGzKaUSy2J"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268746,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/4hxd9xX8SNH0R2XSrXRATW"
+    },
+    {
+      "album": {
+        "name": "Slowly We Rot (Reissue)",
+        "url": "https://open.spotify.com/album/7H5MWoD8M6dEQoSj3SMHP7"
+      },
+      "artists": [
+        {
+          "name": "Obituary",
+          "url": "https://open.spotify.com/artist/0SbGI4sb8dAKFZnK7RFyhz"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218426,
+      "name": "Slowly We Rot",
+      "url": "https://open.spotify.com/track/5F6ZrWLngDICyjazxM1gNq"
+    },
+    {
+      "album": {
+        "name": "Sound Of The Republic",
+        "url": "https://open.spotify.com/album/5rO9aJfPoqza2zyibBjRbR"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172306,
+      "name": "Sound Of The Republic",
+      "url": "https://open.spotify.com/track/2LQwcfWn5HPZmjmNjEUmTg"
+    },
+    {
+      "album": {
+        "name": "Sveriges elit",
+        "url": "https://open.spotify.com/album/56wYWlLhNQBWGqQ9R94Yuf"
+      },
+      "artists": [
+        {
+          "name": "Raubtier",
+          "url": "https://open.spotify.com/artist/3nhhMoWycyLMmZydlwjk5z"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235032,
+      "name": "Sveriges elit",
+      "url": "https://open.spotify.com/track/0nXtZiwyfCOEo3LEKurdXP"
+    },
+    {
+      "album": {
+        "name": "S\u00e5 j\u00e4vla bra",
+        "url": "https://open.spotify.com/album/4CYmniSsyZlMjoQSM45EoF"
+      },
+      "artists": [
+        {
+          "name": "Lillasyster",
+          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232626,
+      "name": "S\u00e5 j\u00e4vla bra",
+      "url": "https://open.spotify.com/track/3UA4L041EaZziqBvrjYNE8"
+    },
+    {
+      "album": {
+        "name": "Temple of the Red-Eyed Pigs",
+        "url": "https://open.spotify.com/album/3jzfOl4z0oBImq8C0h9hAm"
+      },
+      "artists": [
+        {
+          "name": "Sparzanza",
+          "url": "https://open.spotify.com/artist/0TK5REi1e8RBhtp0h9xeCq"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Temple Of The Red-Eyed Pigs",
+      "url": "https://open.spotify.com/track/2dcE0D4mJ5cWWWsp502DpT"
+    },
+    {
+      "album": {
+        "name": "The Art of Partying",
+        "url": "https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123986,
+      "name": "The Art of Partying",
+      "url": "https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D"
+    },
+    {
+      "album": {
+        "name": "Sounds Like Hell, Looks Like Heaven",
+        "url": "https://open.spotify.com/album/1hyI2Ww6J0KcAA40DSlLOr"
+      },
+      "artists": [
+        {
+          "name": "Mustasch",
+          "url": "https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226400,
+      "name": "The Challenger",
+      "url": "https://open.spotify.com/track/0upFklPa6Ufe1f6aBldPd6"
+    },
+    {
+      "album": {
+        "name": "The Crow, The Owl And The Dove",
+        "url": "https://open.spotify.com/album/6AQUfFDeBnACgYaetHPVtx"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226146,
+      "name": "The Crow, The Owl And The Dove",
+      "url": "https://open.spotify.com/track/2Be1LsKhxQo1pMSzsWio94"
+    },
+    {
+      "album": {
+        "name": "Koloss",
+        "url": "https://open.spotify.com/album/1WzwZsb0LvVXhngbHjBfd9"
+      },
+      "artists": [
+        {
+          "name": "Meshuggah",
+          "url": "https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279333,
+      "name": "The Demon's Name Is Surveillance",
+      "url": "https://open.spotify.com/track/4oYj17LwBGWhifJwwfSEdG"
+    },
+    {
+      "album": {
+        "name": "And The Rest Will Surely Perish",
+        "url": "https://open.spotify.com/album/4MjmlfYk5nbWQRvh9mAOHz"
+      },
+      "artists": [
+        {
+          "name": "Kings Destroy",
+          "url": "https://open.spotify.com/artist/2vDfJFvPss9uWNgVLCmC3x"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393493,
+      "name": "The Mountie",
+      "url": "https://open.spotify.com/track/6oVfh3OxCAdxD86IIACCMJ"
+    },
+    {
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/2TjELkmo2W7yEmJGZbv7sR"
+      },
+      "artists": [
+        {
+          "name": "Lillasyster",
+          "url": "https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262786,
+      "name": "Total panik",
+      "url": "https://open.spotify.com/track/0r9ziXvLcN56HwWsHtKwL4"
+    },
+    {
+      "album": {
+        "name": "Thrashing Like A Maniac",
+        "url": "https://open.spotify.com/album/3Hew9i4xQriccSpvf4D6zd"
+      },
+      "artists": [
+        {
+          "name": "Warbringer",
+          "url": "https://open.spotify.com/artist/4UKKKGkjNWx8KTUvea66k1"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256893,
+      "name": "Total War",
+      "url": "https://open.spotify.com/track/1cYqqaP8Ep0IGyUs2CJz27"
+    },
+    {
+      "album": {
+        "name": "Nattf\u00f6dd",
+        "url": "https://open.spotify.com/album/4H0ylra35h9HzV8tSmpYUB"
+      },
+      "artists": [
+        {
+          "name": "Finntroll",
+          "url": "https://open.spotify.com/artist/4ZgkHVHmGPXuRy8zd26ZJX"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208680,
+      "name": "Trollhammaren",
+      "url": "https://open.spotify.com/track/4VCorAVM6wDkBp5MTZkV3A"
+    },
+    {
+      "album": {
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198680,
+      "name": "White Trash Millionaire",
+      "url": "https://open.spotify.com/track/3UWYmWg9j8KVV08ANBqcLB"
+    },
+    {
+      "album": {
+        "name": "Murder the Mountains",
+        "url": "https://open.spotify.com/album/4PtlgpXhLWprfxR9QJelBv"
+      },
+      "artists": [
+        {
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343306,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/1587qOsPG3kS4hM1ERqR0C"
+    },
+    {
+      "album": {
+        "name": "Lights...Camera...Revolution",
+        "url": "https://open.spotify.com/album/414jOqUfrq3k2QlAddNXfT"
+      },
+      "artists": [
+        {
+          "name": "Suicidal Tendencies",
+          "url": "https://open.spotify.com/artist/3WPKDlucMsXH6FC1XaclZC"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348093,
+      "name": "You Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/203xxdlledLFnkqrUleD72"
+    },
+    {
+      "album": {
+        "name": "Descend Into Depravity",
+        "url": "https://open.spotify.com/album/44tw1yEzgweovNgejHBhLI"
+      },
+      "artists": [
+        {
+          "name": "Dying Fetus",
+          "url": "https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie"
+        }
+      ],
+      "date_added": "2012-05-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214760,
+      "name": "Your Treachery Will Die WIth You",
+      "url": "https://open.spotify.com/track/4FZoFK86X6Wd1csU9afTIA"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/4mM7tVGeVv4dOFPTlftofk"
 }

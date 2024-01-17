@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Poloo &quot;Sicario&quot;, Carlos Vives &amp; Ryan Castro &quot;Los Sabanales 3.0&quot;,  Polimá Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La\_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Carlos Vives, Ryan Castro
+> The perfect mix of the latest pop hits! Follow this playlist and play Emilia &amp; Nathy Peluso &quot;JET\_Set.mp3&quot;,  Polimá Westcoast &quot;BARCELONA&quot;, Emilia &amp; TINI &quot;La\_Original.mp3&quot;, Shakira &amp; Fuerza Regida &quot;El Jefe&quot;, Maluma x Carin Leon &quot;Segun Quien&quot; Cover: Emilia &amp; Nathy Peluso
 
-697 songs - 1 day 13 hr 27 min
+699 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Facts.mp3](https://open.spotify.com/track/2QWV6LlwgXF0ZIcg4VxkUh) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:10 | 2023-11-06 |  |
 | [Fan de Tus Fotos](https://open.spotify.com/track/1mauYRwbpoGQX6itP2FAJC) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Fan de Tus Fotos](https://open.spotify.com/album/2AWg2kHOfuRPjJKYyttF9T) | 3:17 | 2023-06-02 | 2023-06-08 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-02-17 | 2023-05-26 |
+| [fantasmas](https://open.spotify.com/track/5rcnAHBclBs0OGV4rATEnR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [fantasmas](https://open.spotify.com/album/1Yw5SSS5WD1SPdhvPw3dt3) | 4:47 | 2024-01-11 |  |
 | [Favorito](https://open.spotify.com/track/0Snbzbd74RLfL0i4nn1vU5) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Favorito](https://open.spotify.com/album/5wb9Mx2yfXZzKYPzHp4fae) | 3:31 | 2023-06-02 | 2023-06-08 |
 | [Felices los 4](https://open.spotify.com/track/1RouRzlg8OKFeqc6LvdxmB) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:50 | 2023-06-07 |  |
 | [Feliz, Alegre e Forte](https://open.spotify.com/track/3V5ft5xWsM0zOPJ22Jsvq7) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Feliz, Alegre e Forte](https://open.spotify.com/album/1eovr9DAPHocApu61z1ASQ) | 2:56 | 2022-05-20 | 2023-05-26 |
@@ -289,6 +290,7 @@
 | [ITA :\)](https://open.spotify.com/track/47i903DULtuCdNST7sprvg) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [ITA :\)](https://open.spotify.com/album/7L3gr1BEYvcxKamux7Etkt) | 2:40 | 2022-08-26 | 2023-05-26 |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-03-31 | 2023-06-01 |
 | [Jaula de Oro](https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Jaula de Oro](https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv) | 3:58 | 2023-04-28 | 2023-05-31 |
+| [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 | 2024-01-12 |  |
 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 | 2022-07-01 | 2023-05-26 |
 | [Junio](https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Junio](https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB) | 2:48 | 2023-06-01 |  |
 | [Justito a Tiempo](https://open.spotify.com/track/21ZulCkLXWH0xqJnIw2gIZ) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Justito a Tiempo](https://open.spotify.com/album/2p9hS0dPcdf4JrTApsmFQg) | 2:41 | 2022-04-22 | 2023-05-26 |

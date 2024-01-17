@@ -1,479 +1,1403 @@
 {
-  "2022-09-09": 5949,
-  "2022-09-10": 6051,
-  "2022-09-11": 6144,
-  "2022-09-12": 6273,
-  "2022-09-13": 6421,
-  "2022-09-15": 6739,
-  "2022-09-16": 6916,
-  "2022-09-17": 7040,
-  "2022-09-18": 7150,
-  "2022-09-19": 7254,
-  "2022-09-20": 7409,
-  "2022-09-21": 7563,
-  "2022-09-22": 7725,
-  "2022-09-23": 7839,
-  "2022-09-24": 7987,
-  "2022-09-25": 8092,
-  "2022-09-26": 8229,
-  "2022-09-27": 8371,
-  "2022-09-28": 8536,
-  "2022-09-29": 8693,
-  "2022-09-30": 8829,
-  "2022-10-01": 8945,
-  "2022-10-02": 9031,
-  "2022-10-03": 9114,
-  "2022-10-04": 9261,
-  "2022-10-05": 9393,
-  "2022-10-06": 9549,
-  "2022-10-07": 9750,
-  "2022-10-08": 9898,
-  "2022-10-09": 10078,
-  "2022-10-10": 10120,
-  "2022-10-11": 10277,
-  "2022-10-12": 10459,
-  "2022-10-13": 10617,
-  "2022-10-14": 10754,
-  "2022-10-15": 10849,
-  "2022-10-16": 10934,
-  "2022-10-17": 11017,
-  "2022-10-18": 11134,
-  "2022-10-19": 11283,
-  "2022-10-20": 11419,
-  "2022-10-21": 11535,
-  "2022-10-22": 11627,
-  "2022-10-23": 11701,
-  "2022-10-24": 11806,
-  "2022-10-25": 11934,
-  "2022-10-26": 12072,
-  "2022-10-27": 12209,
-  "2022-10-28": 12324,
-  "2022-10-29": 12421,
-  "2022-10-30": 12507,
-  "2022-10-31": 12641,
-  "2022-11-01": 12795,
-  "2022-11-02": 12927,
-  "2022-11-03": 13045,
-  "2022-11-04": 13193,
-  "2022-11-05": 13309,
-  "2022-11-06": 13407,
-  "2022-11-07": 13568,
-  "2022-11-08": 13725,
-  "2022-11-09": 13879,
-  "2022-11-10": 14017,
-  "2022-11-11": 14126,
-  "2022-11-12": 14235,
-  "2022-11-13": 14308,
-  "2022-11-14": 14416,
-  "2022-11-15": 14541,
-  "2022-11-16": 14671,
-  "2022-11-17": 14799,
-  "2022-11-18": 14853,
-  "2022-11-19": 14832,
-  "2022-11-20": 14988,
-  "2022-11-21": 14971,
-  "2022-11-22": 15187,
-  "2022-11-23": 15171,
-  "2022-11-24": 15531,
-  "2022-11-25": 15708,
-  "2022-11-26": 15813,
-  "2022-11-27": 15933,
-  "2022-11-28": 16046,
-  "2022-11-29": 16215,
-  "2022-11-30": 16363,
-  "2022-12-01": 16491,
-  "2022-12-02": 16569,
-  "2022-12-03": 16710,
-  "2022-12-04": 16801,
-  "2022-12-05": 16908,
-  "2022-12-06": 17021,
-  "2022-12-07": 17134,
-  "2022-12-08": 17341,
-  "2022-12-09": 17520,
-  "2022-12-10": 17653,
-  "2022-12-11": 17756,
-  "2022-12-12": 17882,
-  "2022-12-13": 18006,
-  "2022-12-14": 18133,
-  "2022-12-15": 18252,
-  "2022-12-16": 18359,
-  "2022-12-17": 18435,
-  "2022-12-18": 18493,
-  "2022-12-19": 18572,
-  "2022-12-20": 18777,
-  "2022-12-21": 18777,
-  "2022-12-22": 18865,
-  "2022-12-24": 19044,
-  "2022-12-25": 19116,
-  "2022-12-26": 19175,
-  "2022-12-27": 19236,
-  "2022-12-28": 19313,
-  "2022-12-29": 19439,
-  "2022-12-30": 19543,
-  "2022-12-31": 19629,
-  "2023-01-01": 19699,
-  "2023-01-02": 19778,
-  "2023-01-03": 19892,
-  "2023-01-04": 20009,
-  "2023-01-05": 20155,
-  "2023-01-06": 20330,
-  "2023-01-07": 20483,
-  "2023-01-08": 20511,
-  "2023-01-09": 20634,
-  "2023-01-10": 20745,
-  "2023-01-11": 20874,
-  "2023-01-12": 21009,
-  "2023-01-13": 21131,
-  "2023-01-14": 21307,
-  "2023-01-15": 21340,
-  "2023-01-16": 21438,
-  "2023-01-17": 21573,
-  "2023-01-18": 21728,
-  "2023-01-19": 21866,
-  "2023-01-20": 21989,
-  "2023-01-21": 22106,
-  "2023-01-22": 22198,
-  "2023-01-23": 22283,
-  "2023-01-24": 22403,
-  "2023-01-25": 22506,
-  "2023-01-26": 22646,
-  "2023-01-27": 22762,
-  "2023-01-28": 22873,
-  "2023-01-29": 22976,
-  "2023-01-30": 23085,
-  "2023-01-31": 23085,
-  "2023-02-01": 23336,
-  "2023-02-02": 23458,
-  "2023-02-03": 23563,
-  "2023-02-04": 23675,
-  "2023-02-05": 23777,
-  "2023-02-06": 23879,
-  "2023-02-07": 23987,
-  "2023-02-08": 24288,
-  "2023-02-09": 24288,
-  "2023-02-10": 24426,
-  "2023-02-11": 24533,
-  "2023-02-12": 24706,
-  "2023-02-13": 24828,
-  "2023-02-14": 24828,
-  "2023-02-15": 24932,
-  "2023-02-16": 25112,
-  "2023-02-17": 25262,
-  "2023-02-18": 25528,
-  "2023-02-19": 25546,
-  "2023-02-20": 25685,
-  "2023-02-21": 25846,
-  "2023-02-22": 26040,
-  "2023-02-23": 26238,
-  "2023-02-24": 26403,
-  "2023-02-25": 26601,
-  "2023-02-26": 26686,
-  "2023-02-27": 27009,
-  "2023-02-28": 27009,
-  "2023-03-01": 27203,
-  "2023-03-02": 27438,
-  "2023-03-03": 27656,
-  "2023-03-04": 27838,
-  "2023-03-05": 28113,
-  "2023-03-06": 28113,
-  "2023-03-07": 28270,
-  "2023-03-08": 28448,
-  "2023-03-09": 28635,
-  "2023-03-10": 28811,
-  "2023-03-11": 28969,
-  "2023-03-12": 29104,
-  "2023-03-13": 29262,
-  "2023-03-14": 29441,
-  "2023-03-15": 29605,
-  "2023-03-16": 29800,
-  "2023-03-17": 29800,
-  "2023-03-18": 30051,
-  "2023-03-19": 30156,
-  "2023-03-20": 30279,
-  "2023-03-21": 30448,
-  "2023-03-22": 30608,
-  "2023-03-23": 30746,
-  "2023-03-24": 30746,
-  "2023-03-25": 30976,
-  "2023-03-26": 31088,
-  "2023-03-27": 31199,
-  "2023-03-28": 31351,
-  "2023-03-29": 31555,
-  "2023-03-30": 31888,
-  "2023-03-31": 31888,
-  "2023-04-01": 32003,
-  "2023-04-02": 32169,
-  "2023-04-03": 32320,
-  "2023-04-04": 32502,
-  "2023-04-05": 32634,
-  "2023-04-06": 32785,
-  "2023-04-07": 32917,
-  "2023-04-09": 33151,
-  "2023-04-10": 33260,
-  "2023-04-11": 33520,
-  "2023-04-12": 33520,
-  "2023-04-13": 33637,
-  "2023-04-14": 33773,
-  "2023-04-15": 33866,
-  "2023-04-16": 33933,
-  "2023-04-17": 34034,
-  "2023-04-18": 34139,
-  "2023-04-19": 34253,
-  "2023-04-20": 34375,
-  "2023-04-21": 34476,
-  "2023-04-22": 34546,
-  "2023-04-23": 34616,
-  "2023-04-24": 34689,
-  "2023-04-25": 34798,
-  "2023-04-26": 34911,
-  "2023-04-27": 35031,
-  "2023-04-28": 35119,
-  "2023-04-29": 35201,
-  "2023-04-30": 35261,
-  "2023-05-01": 35358,
-  "2023-05-02": 35447,
-  "2023-05-03": 35541,
-  "2023-05-04": 35631,
-  "2023-05-05": 35733,
-  "2023-05-06": 35857,
-  "2023-05-07": 35930,
-  "2023-05-08": 35994,
-  "2023-05-09": 36095,
-  "2023-05-10": 36177,
-  "2023-05-11": 36267,
-  "2023-05-12": 36362,
-  "2023-05-13": 36444,
-  "2023-05-14": 36519,
-  "2023-05-15": 36576,
-  "2023-05-16": 36654,
-  "2023-05-17": 36851,
-  "2023-05-18": 37019,
-  "2023-05-19": 37126,
-  "2023-05-20": 37282,
-  "2023-05-21": 37282,
-  "2023-05-22": 37282,
-  "2023-05-23": 37438,
-  "2023-05-24": 37584,
-  "2023-05-25": 37606,
-  "2023-05-26": 37681,
-  "2023-05-27": 37736,
-  "2023-05-28": 37803,
-  "2023-05-29": 37803,
-  "2023-05-30": 37938,
-  "2023-05-31": 38020,
-  "2023-06-01": 38102,
-  "2023-06-02": 38184,
-  "2023-06-03": 38246,
-  "2023-06-04": 38306,
-  "2023-06-05": 38359,
-  "2023-06-06": 38461,
-  "2023-06-07": 38571,
-  "2023-06-08": 38652,
-  "2023-06-09": 38744,
-  "2023-06-10": 38806,
-  "2023-06-11": 38901,
-  "2023-06-12": 38971,
-  "2023-06-13": 39070,
-  "2023-06-14": 39131,
-  "2023-06-15": 39243,
-  "2023-06-16": 39340,
-  "2023-06-17": 39422,
-  "2023-06-18": 39482,
-  "2023-06-19": 39559,
-  "2023-06-20": 39670,
-  "2023-06-21": 39771,
-  "2023-06-22": 39864,
-  "2023-06-23": 39932,
-  "2023-06-24": 40019,
-  "2023-06-25": 40092,
-  "2023-06-26": 40175,
-  "2023-06-27": 40276,
-  "2023-06-28": 40362,
-  "2023-06-29": 40464,
-  "2023-06-30": 40555,
-  "2023-07-01": 40722,
-  "2023-07-02": 40722,
-  "2023-07-03": 40858,
-  "2023-07-04": 41042,
-  "2023-07-05": 41204,
-  "2023-07-06": 41517,
-  "2023-07-07": 41517,
-  "2023-07-08": 41645,
-  "2023-07-09": 41739,
-  "2023-07-10": 41842,
-  "2023-07-11": 41970,
-  "2023-07-12": 42094,
-  "2023-07-13": 42241,
-  "2023-07-14": 42366,
-  "2023-07-15": 42454,
-  "2023-07-16": 42549,
-  "2023-07-17": 42661,
-  "2023-07-18": 42812,
-  "2023-07-19": 42941,
-  "2023-07-20": 43055,
-  "2023-07-21": 43154,
-  "2023-07-22": 43243,
-  "2023-07-23": 43310,
-  "2023-07-24": 43411,
-  "2023-07-25": 43540,
-  "2023-07-26": 43667,
-  "2023-07-27": 43810,
-  "2023-07-28": 43962,
-  "2023-07-29": 44092,
-  "2023-07-30": 44160,
-  "2023-07-31": 44254,
-  "2023-08-01": 44345,
-  "2023-08-02": 44468,
-  "2023-08-03": 44583,
-  "2023-08-04": 44703,
-  "2023-08-05": 44791,
-  "2023-08-06": 44925,
-  "2023-08-07": 44925,
-  "2023-08-08": 45041,
-  "2023-08-09": 45152,
-  "2023-08-10": 45255,
-  "2023-08-11": 45357,
-  "2023-08-12": 45437,
-  "2023-08-13": 45543,
-  "2023-08-14": 45636,
-  "2023-08-15": 45863,
-  "2023-08-16": 45863,
-  "2023-08-17": 45947,
-  "2023-08-18": 46017,
-  "2023-08-19": 46097,
-  "2023-08-20": 46149,
-  "2023-08-21": 46230,
-  "2023-08-22": 46330,
-  "2023-08-23": 46428,
-  "2023-08-24": 46516,
-  "2023-08-25": 46608,
-  "2023-08-26": 46682,
-  "2023-08-27": 46730,
-  "2023-08-28": 46800,
-  "2023-08-29": 46891,
-  "2023-08-30": 47020,
-  "2023-08-31": 47125,
-  "2023-09-01": 47292,
-  "2023-09-02": 47292,
-  "2023-09-03": 47336,
-  "2023-09-04": 47410,
-  "2023-09-05": 47476,
-  "2023-09-06": 47567,
-  "2023-09-07": 47641,
-  "2023-09-08": 47709,
-  "2023-09-09": 47773,
-  "2023-09-10": 47813,
-  "2023-09-11": 47893,
-  "2023-09-12": 47970,
-  "2023-09-13": 48033,
-  "2023-09-14": 48105,
-  "2023-09-15": 48178,
-  "2023-09-16": 48236,
-  "2023-09-17": 48282,
-  "2023-09-18": 48349,
-  "2023-09-19": 48414,
-  "2023-09-20": 48482,
-  "2023-09-21": 48552,
-  "2023-09-22": 48614,
-  "2023-09-23": 48674,
-  "2023-09-24": 48717,
-  "2023-09-25": 48773,
-  "2023-09-26": 48822,
-  "2023-09-27": 48878,
-  "2023-09-28": 48959,
-  "2023-09-29": 49040,
-  "2023-09-30": 49111,
-  "2023-10-01": 49199,
-  "2023-10-02": 49306,
-  "2023-10-03": 49419,
-  "2023-10-04": 49540,
-  "2023-10-05": 49647,
-  "2023-10-06": 49755,
-  "2023-10-07": 49822,
-  "2023-10-08": 49909,
-  "2023-10-09": 49997,
-  "2023-10-10": 50086,
-  "2023-10-11": 50268,
-  "2023-10-12": 50268,
-  "2023-10-13": 50360,
-  "2023-10-14": 50431,
-  "2023-10-15": 50504,
-  "2023-10-16": 50634,
-  "2023-10-17": 50806,
-  "2023-10-18": 50994,
-  "2023-10-19": 51140,
-  "2023-10-20": 51335,
-  "2023-10-21": 51491,
-  "2023-10-22": 51638,
-  "2023-10-23": 51819,
-  "2023-10-24": 52030,
-  "2023-10-25": 52214,
-  "2023-10-26": 52355,
-  "2023-10-27": 52502,
-  "2023-10-28": 52625,
-  "2023-10-29": 52734,
-  "2023-10-30": 53008,
-  "2023-10-31": 53008,
-  "2023-11-01": 53153,
-  "2023-11-02": 53315,
-  "2023-11-03": 53472,
-  "2023-11-04": 53561,
-  "2023-11-05": 53663,
-  "2023-11-06": 53794,
-  "2023-11-07": 53960,
-  "2023-11-08": 54152,
-  "2023-11-09": 54352,
-  "2023-11-10": 54507,
-  "2023-11-11": 54662,
-  "2023-11-12": 54766,
-  "2023-11-13": 54900,
-  "2023-11-14": 55079,
-  "2023-11-15": 55079,
-  "2023-11-16": 55436,
-  "2023-11-17": 55746,
-  "2023-11-18": 55746,
-  "2023-11-19": 55897,
-  "2023-11-20": 56054,
-  "2023-11-21": 56223,
-  "2023-11-22": 56429,
-  "2023-11-23": 56614,
-  "2023-11-24": 56748,
-  "2023-11-25": 56906,
-  "2023-11-26": 57094,
-  "2023-11-27": 57350,
-  "2023-11-28": 57583,
-  "2023-11-29": 57969,
-  "2023-11-30": 57969,
-  "2023-12-01": 58120,
-  "2023-12-02": 58247,
-  "2023-12-03": 58381,
-  "2023-12-04": 58567,
-  "2023-12-05": 58748,
-  "2023-12-06": 58906,
-  "2023-12-07": 59075,
-  "2023-12-08": 59239,
-  "2023-12-09": 59415,
-  "2023-12-10": 59584,
-  "2023-12-11": 59795,
-  "2023-12-12": 59985,
-  "2023-12-13": 60157,
-  "2023-12-14": 60340,
-  "2023-12-15": 60457,
-  "2023-12-16": 60570,
-  "2023-12-17": 60702,
-  "2023-12-18": 60829,
-  "2023-12-19": 61002,
-  "2023-12-20": 61124,
-  "2023-12-21": 61276,
-  "2023-12-22": 61383,
-  "2023-12-23": 61487,
-  "2023-12-24": 61583,
-  "2023-12-25": 61658,
-  "2023-12-26": 61740,
-  "2023-12-27": 61877,
-  "2023-12-30": 62263,
-  "2023-12-31": 62350,
-  "2024-01-01": 62428,
-  "2024-01-02": 62532,
-  "2024-01-03": 62682
+  "2024-01-17": 64902,
+  "date_first_scraped": "2022-09-09",
+  "description": "Find your flow state with Beta frequencies for increased concentration. ",
+  "name": "Binaural Beats: Study",
+  "tracks": [
+    {
+      "album": {
+        "name": "Healing Yoga Meditation 128 Hz-606 Hz: Solfeggio Bliss, Opening Chakras, Soothing Frequencies for Insomnia Cure, Chakra Relaxation",
+        "url": "https://open.spotify.com/album/5pRaImzAiq5lEIsJZAu1hO"
+      },
+      "artists": [
+        {
+          "name": "Healing Yoga Meditation Music Consort",
+          "url": "https://open.spotify.com/artist/38PxQFwKE257tcBkgrr9lb"
+        },
+        {
+          "name": "Gentle Instrumental Music Paradise",
+          "url": "https://open.spotify.com/artist/21XKjuPImIZ82r6lvJPvH5"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226087,
+      "name": "199 Hz - Beta Sinus",
+      "url": "https://open.spotify.com/track/2RRbBXjwzhpvTVakO2s7nk"
+    },
+    {
+      "album": {
+        "name": "30 Hz: Binaural Beats (Beta Waves)",
+        "url": "https://open.spotify.com/album/1byB0uRoP12fbeHiYLx9Uk"
+      },
+      "artists": [
+        {
+          "name": "Miracle Healing Tones TP",
+          "url": "https://open.spotify.com/artist/63kwdbdX8dCCyiJGJTlIM1"
+        },
+        {
+          "name": "Solfeggio Frequencies TP",
+          "url": "https://open.spotify.com/artist/2LJBMojG5pw23egZt0hOAw"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145875,
+      "name": "30 Hz: Binaural Beats (Beta Waves)",
+      "url": "https://open.spotify.com/track/1FEF3YNOw8lIX6dMf2exvO"
+    },
+    {
+      "album": {
+        "name": "Wonder Falls & Appreciation (Binaural Beta)",
+        "url": "https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223000,
+      "name": "Appreciation (Beta 105 Hz - 121 Hz)",
+      "url": "https://open.spotify.com/track/7vrlLqv2HhIWT4Yhpu9byI"
+    },
+    {
+      "album": {
+        "name": "Binaural Air",
+        "url": "https://open.spotify.com/album/7dp6tirAcf60q6p48NsQwj"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 174115,
+      "name": "Beta Air 16 Hz",
+      "url": "https://open.spotify.com/track/6nEcvyEGYkXNRhIjkVl1vT"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Waves",
+        "url": "https://open.spotify.com/album/2V2HmzfobUf8xqE7yPPcQ3"
+      },
+      "artists": [
+        {
+          "name": "Crystalsong",
+          "url": "https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA"
+        }
+      ],
+      "date_added": "2023-03-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196406,
+      "name": "Beta Ambience 92 + 96 hz",
+      "url": "https://open.spotify.com/track/6s1OXyadYotrzBDzTjfyjY"
+    },
+    {
+      "album": {
+        "name": "Textures",
+        "url": "https://open.spotify.com/album/3vIYI9geHSqDN9LkIvXXuk"
+      },
+      "artists": [
+        {
+          "name": "DreamDeeper",
+          "url": "https://open.spotify.com/artist/5OyM0rVbelDv6mU0FEjdNL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Beta Atmos",
+      "url": "https://open.spotify.com/track/6o5yj52orwKaBw66O4t311"
+    },
+    {
+      "album": {
+        "name": "BINAURAL BEATS AND BRAIN WAVES",
+        "url": "https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH"
+      },
+      "artists": [
+        {
+          "name": "Noise Shapers",
+          "url": "https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 220783,
+      "name": "Beta Brainwave State",
+      "url": "https://open.spotify.com/track/7zDu2bXHrl9ZMbTTBuvdyl"
+    },
+    {
+      "album": {
+        "name": "Binaural Drift",
+        "url": "https://open.spotify.com/album/7s28ywx1Jtag67oWdFS4Gw"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 174545,
+      "name": "Beta Drift 22 Hz",
+      "url": "https://open.spotify.com/track/2XbdiWmGMsofgPwC7fo5Lx"
+    },
+    {
+      "album": {
+        "name": "Binaural Equinox",
+        "url": "https://open.spotify.com/album/3ZdozRB0fnNtkWu2GI4f8o"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186801,
+      "name": "Beta Equinox 18 Hz",
+      "url": "https://open.spotify.com/track/2MRpSUhmDSTorFsNY9mXAr"
+    },
+    {
+      "album": {
+        "name": "Beta Binaural Flow",
+        "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
+      },
+      "artists": [
+        {
+          "name": "Floating",
+          "url": "https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201564,
+      "name": "Beta Escapes 103 hz - 101 hz",
+      "url": "https://open.spotify.com/track/2EEZjBet51P9GrEGJWIAME"
+    },
+    {
+      "album": {
+        "name": "BINAURAL BEATS AND BRAIN WAVES",
+        "url": "https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH"
+      },
+      "artists": [
+        {
+          "name": "Ambient Chronicity",
+          "url": "https://open.spotify.com/artist/4JTLdCWEDemwSJPOyNT0h8"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Beta Focus",
+      "url": "https://open.spotify.com/track/4ckDde7PeNPjU5kBAp2mYt"
+    },
+    {
+      "album": {
+        "name": "Beta Focus",
+        "url": "https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 237623,
+      "name": "Beta Focus (93.1Hz - 117.6Hz)",
+      "url": "https://open.spotify.com/track/6mv8zFO8Mx3l2HIz3mT29U"
+    },
+    {
+      "album": {
+        "name": "Sonic Being",
+        "url": "https://open.spotify.com/album/72aSiTZaYkKT3Pr96Vy9x4"
+      },
+      "artists": [
+        {
+          "name": "Sonic Being",
+          "url": "https://open.spotify.com/artist/6IEjVEVLQvv1NLUyxyfL36"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 166000,
+      "name": "Beta Frequencies 15 Hz",
+      "url": "https://open.spotify.com/track/6BYNC28bMxoLVeEL91RDXi"
+    },
+    {
+      "album": {
+        "name": "Binaural Sphere",
+        "url": "https://open.spotify.com/album/02tvTtzLWwJkElS8m4diA5"
+      },
+      "artists": [
+        {
+          "name": "The Inner Circle",
+          "url": "https://open.spotify.com/artist/0mRW2BlrPBuwMkmtgZbDIB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Beta Intelligence",
+      "url": "https://open.spotify.com/track/4k5NyKgdxBaE4BZaQH2Vb1"
+    },
+    {
+      "album": {
+        "name": "Binaural Resonance",
+        "url": "https://open.spotify.com/album/6smVmCCDgc6g1nIcUOpc3G"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188005,
+      "name": "Beta Resonance 25 Hz",
+      "url": "https://open.spotify.com/track/4bWPFawFKCDdSsQ5zwZHpj"
+    },
+    {
+      "album": {
+        "name": "Binaural Serenade",
+        "url": "https://open.spotify.com/album/75xJLqtlDky9rlnxzknINy"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-05-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158735,
+      "name": "Beta Serenade 17 Hz",
+      "url": "https://open.spotify.com/track/1tgXeD0P4KHpQ3XQ2hBbwu"
+    },
+    {
+      "album": {
+        "name": "Binaural Ships",
+        "url": "https://open.spotify.com/album/2gaDsloUSsn46sY19MEVBW"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153647,
+      "name": "Beta Ship 15 Hz",
+      "url": "https://open.spotify.com/track/6sGcJQPdvmft1vQbnIoQQX"
+    },
+    {
+      "album": {
+        "name": "Ampinomene",
+        "url": "https://open.spotify.com/album/7K1iVbSGN6L22Ci3NiBm75"
+      },
+      "artists": [
+        {
+          "name": "Ampinomene",
+          "url": "https://open.spotify.com/artist/2gJIRzMe4S1gOOpV5G6pc4"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Beta Sinus 100 Hz - 114 Hz",
+      "url": "https://open.spotify.com/track/5866agZQlTT4KApKmUR5NK"
+    },
+    {
+      "album": {
+        "name": "Synchrophonic",
+        "url": "https://open.spotify.com/album/7cvHCFG1pBFTERjISA6675"
+      },
+      "artists": [
+        {
+          "name": "Synchrophonic",
+          "url": "https://open.spotify.com/artist/3TUQC7breUMMUi7bQVZQkP"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Beta Sinus 150 Hz - 158 Hz",
+      "url": "https://open.spotify.com/track/61QjtzlyMeRCpB97Du46vo"
+    },
+    {
+      "album": {
+        "name": "Young Grove",
+        "url": "https://open.spotify.com/album/6337k53fE94N3Wh6XAgW60"
+      },
+      "artists": [
+        {
+          "name": "Young Grove",
+          "url": "https://open.spotify.com/artist/13evvWhJQpp7eMwNomoJ6e"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220682,
+      "name": "Beta Sinus 150 Hz - 158 Hz",
+      "url": "https://open.spotify.com/track/5MQelJ5ZJIKFf2AZDNXoMz"
+    },
+    {
+      "album": {
+        "name": "Brainstate",
+        "url": "https://open.spotify.com/album/5kuxZJvbGpL6lX2yOU8T6V"
+      },
+      "artists": [
+        {
+          "name": "Brainstate",
+          "url": "https://open.spotify.com/artist/2hUGnvPj0GQsP1N9kGIseW"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196162,
+      "name": "Beta Sinus 190 Hz - 220 Hz",
+      "url": "https://open.spotify.com/track/5IOc6vZvqbl0Nx9MxCbAxK"
+    },
+    {
+      "album": {
+        "name": "Kensa Mitchell",
+        "url": "https://open.spotify.com/album/3Tt8FozwTDNsgMhm1cRiJn"
+      },
+      "artists": [
+        {
+          "name": "Kensa Mitchell",
+          "url": "https://open.spotify.com/artist/1Bw5TivstABMbIaMDM4jyX"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 210279,
+      "name": "Beta Sinus 190 Hz - 220 Hz",
+      "url": "https://open.spotify.com/track/16UtrukwRwmg3SV2fk8Pwl"
+    },
+    {
+      "album": {
+        "name": "Beta Sinus 191 Hz - L 220 Hz",
+        "url": "https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi"
+      },
+      "artists": [
+        {
+          "name": "Mayor Deseo",
+          "url": "https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134489,
+      "name": "Beta Sinus 191 Hz - L 220 Hz",
+      "url": "https://open.spotify.com/track/6pB1rlj3t9CyyQ39LETvnc"
+    },
+    {
+      "album": {
+        "name": "Alm Bark",
+        "url": "https://open.spotify.com/album/7kjqxCNiLvwxwDHA8DcJvI"
+      },
+      "artists": [
+        {
+          "name": "Alm Bark",
+          "url": "https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219196,
+      "name": "Beta Sinus 200 Hz - 230 Hz",
+      "url": "https://open.spotify.com/track/2vDQXr8xYcfP6erStS63K5"
+    },
+    {
+      "album": {
+        "name": "Isotopic Dreams",
+        "url": "https://open.spotify.com/album/1pOEjhIpPgMEvYvbaf1o6J"
+      },
+      "artists": [
+        {
+          "name": "Isotopic Dreams",
+          "url": "https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205078,
+      "name": "Beta Sinus 200 Hz - 230 Hz",
+      "url": "https://open.spotify.com/track/0JFS1JaEgZ0FxHSFtVGp1M"
+    },
+    {
+      "album": {
+        "name": "Beta Sinus 191 Hz - L 220 Hz",
+        "url": "https://open.spotify.com/album/1IXb9BD9Syya3mVcUPndQi"
+      },
+      "artists": [
+        {
+          "name": "Mayor Deseo",
+          "url": "https://open.spotify.com/artist/5kuSOXj2E125pcnCnhh31g"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137462,
+      "name": "Beta Sinus 201 Hz - L 230 Hz",
+      "url": "https://open.spotify.com/track/0hLcX0NrcLCoNPINrc7mQR"
+    },
+    {
+      "album": {
+        "name": "BINAURAL BEATS AND BRAIN WAVES",
+        "url": "https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH"
+      },
+      "artists": [
+        {
+          "name": "Ambient Chronicity",
+          "url": "https://open.spotify.com/artist/4JTLdCWEDemwSJPOyNT0h8"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "Beta Sinus 30 Hz",
+      "url": "https://open.spotify.com/track/0oZ7LiuMGOMTgWDkVi6hxF"
+    },
+    {
+      "album": {
+        "name": "Sonic Lab",
+        "url": "https://open.spotify.com/album/3gkY3lXfjzHTnNifNDjQuL"
+      },
+      "artists": [
+        {
+          "name": "Sonic Lab",
+          "url": "https://open.spotify.com/artist/0UJY3iGsud9VYG9W3MmTYS"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Beta Sinus 300 Hz - 330 Hz",
+      "url": "https://open.spotify.com/track/7j3vvNlU8fl0VNrwHTzd73"
+    },
+    {
+      "album": {
+        "name": "Tonal Facts",
+        "url": "https://open.spotify.com/album/2KiES8NDkTdNtMGiQV7JvX"
+      },
+      "artists": [
+        {
+          "name": "Tonal Facts",
+          "url": "https://open.spotify.com/artist/70pyv2E4S8IT4C9glkrLTx"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208050,
+      "name": "Beta Sinus 300 Hz - 330 Hz",
+      "url": "https://open.spotify.com/track/72MPhPPWvBM81cfb9u66qx"
+    },
+    {
+      "album": {
+        "name": "Alm Bark",
+        "url": "https://open.spotify.com/album/7kjqxCNiLvwxwDHA8DcJvI"
+      },
+      "artists": [
+        {
+          "name": "Alm Bark",
+          "url": "https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217710,
+      "name": "Beta Sinus 432 Hz - 446 Hz",
+      "url": "https://open.spotify.com/track/4XdUOoovbSY6SyVWBx5btW"
+    },
+    {
+      "album": {
+        "name": "Higher Highs",
+        "url": "https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t"
+      },
+      "artists": [
+        {
+          "name": "Higher Highs",
+          "url": "https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "Beta Sinus 90 Hz - 120 Hz",
+      "url": "https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK"
+    },
+    {
+      "album": {
+        "name": "Binaural Bliss",
+        "url": "https://open.spotify.com/album/1Vdw99FLXQSRFbg9tYLxFH"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183137,
+      "name": "Beta State 157 Hz - 172 Hz",
+      "url": "https://open.spotify.com/track/5MMAWvATaROQwkb49sOupY"
+    },
+    {
+      "album": {
+        "name": "Beta Binaural Flow",
+        "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
+      },
+      "artists": [
+        {
+          "name": "Floating",
+          "url": "https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177537,
+      "name": "Beta Time 86,4 hz -84,1 hz",
+      "url": "https://open.spotify.com/track/2pGVCr1MRiSC5a4EeG7iOn"
+    },
+    {
+      "album": {
+        "name": "\u03b1&\u03b2",
+        "url": "https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5"
+      },
+      "artists": [
+        {
+          "name": "Calming Beats",
+          "url": "https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Beta Waves 110Hz - 130Hz",
+      "url": "https://open.spotify.com/track/1I4eSbuHixX9quSXmnPbxg"
+    },
+    {
+      "album": {
+        "name": "\u03b1&\u03b2",
+        "url": "https://open.spotify.com/album/6Ct2kqxlRdvp1uwuTVBBt5"
+      },
+      "artists": [
+        {
+          "name": "Calming Beats",
+          "url": "https://open.spotify.com/artist/0J8vrJR47xFULSWnTpv85L"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167894,
+      "name": "Beta Waves 136Hz - 150Hz",
+      "url": "https://open.spotify.com/track/7lrpJMBhSskfIGnysg7Svk"
+    },
+    {
+      "album": {
+        "name": "Alpha & Beta Wave States",
+        "url": "https://open.spotify.com/album/3veIsz6h0EcYZZ0qhpRqEa"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Beta Waves 149 Hz - 171 Hz",
+      "url": "https://open.spotify.com/track/5Y3SC4anrADQ4x6NbgqH6D"
+    },
+    {
+      "album": {
+        "name": "Beta Binaural Flow",
+        "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
+      },
+      "artists": [
+        {
+          "name": "Floating",
+          "url": "https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173828,
+      "name": "Beta Waves Therapy 92 hz - 90,2 hz",
+      "url": "https://open.spotify.com/track/1bmzp8SQ3b6N7JyaJhVA3J"
+    },
+    {
+      "album": {
+        "name": "Beta Binaural Flow",
+        "url": "https://open.spotify.com/album/0BbjO786iZzVcE3qeUaBYE"
+      },
+      "artists": [
+        {
+          "name": "Floating",
+          "url": "https://open.spotify.com/artist/3k5YPHQtmwwAFV47yGDf1C"
+        }
+      ],
+      "date_added": "2022-10-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 144347,
+      "name": "Beta Wind 131 hz - 127 hz",
+      "url": "https://open.spotify.com/track/5zu6rdWllmkKp5tpvQduX8"
+    },
+    {
+      "album": {
+        "name": "Binaural",
+        "url": "https://open.spotify.com/album/4nDz7dL6A1JJ2q5QWdpY5p"
+      },
+      "artists": [
+        {
+          "name": "Zone Out",
+          "url": "https://open.spotify.com/artist/5UCAXVoSSpKZMGnyrTU4hY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Beta Zone",
+      "url": "https://open.spotify.com/track/4tng20Ebg02qGs4z5r1dji"
+    },
+    {
+      "album": {
+        "name": "Binaural Zones",
+        "url": "https://open.spotify.com/album/25HMKjzXf5IpFE1Zfw9Kba"
+      },
+      "artists": [
+        {
+          "name": "Atoom",
+          "url": "https://open.spotify.com/artist/3rH1VXAVGu5RvvPrkWvTjL"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 171887,
+      "name": "Beta Zone 26 Hz",
+      "url": "https://open.spotify.com/track/6gRrGekJCZzZfv0en94Ghh"
+    },
+    {
+      "album": {
+        "name": "Binaural Algorithms",
+        "url": "https://open.spotify.com/album/4NrYgDTodsxChEuHeXCZR1"
+      },
+      "artists": [
+        {
+          "name": "Big Ordo",
+          "url": "https://open.spotify.com/artist/73c5wyovvb1Zs1WxYUd2ql"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139709,
+      "name": "Binaural Algorithms Beta 15Hz",
+      "url": "https://open.spotify.com/track/753yBTnJhDhE8zDOtNRQN8"
+    },
+    {
+      "album": {
+        "name": "12.5 Hz Focus - Binaural Beats",
+        "url": "https://open.spotify.com/album/56NlInK7Vjb0iCyYX1ZHUM"
+      },
+      "artists": [
+        {
+          "name": "BINURL",
+          "url": "https://open.spotify.com/artist/69I5xjzATrKcmS8e3NQ9af"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176535,
+      "name": "Binaural Beta Sinus",
+      "url": "https://open.spotify.com/track/4yXbhHBEhNEI86re9lKLHh"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Sinus",
+        "url": "https://open.spotify.com/album/38wyS1c8N1zLqapSflFWwB"
+      },
+      "artists": [
+        {
+          "name": "Schlafger\u00e4usch Hill",
+          "url": "https://open.spotify.com/artist/29dAkWuyrZL0jgW7ATFdBv"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126316,
+      "name": "Binaural Beta Sinus",
+      "url": "https://open.spotify.com/track/5W5QowDNS0jyWGV3SfYmgR"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Sinus 100 Hz - 114 Hz",
+        "url": "https://open.spotify.com/album/0bGcqwRtvhRkBEzAbipJqM"
+      },
+      "artists": [
+        {
+          "name": "Beta Gamma",
+          "url": "https://open.spotify.com/artist/6zycKAX0nUJe4naz7BthZk"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Binaural Beta Sinus 100 Hz - 114 Hz",
+      "url": "https://open.spotify.com/track/4BXh6etJ4wKucRbT5oU6kG"
+    },
+    {
+      "album": {
+        "name": "Binaural Delta Sinus 90 Hz - 91 Hz",
+        "url": "https://open.spotify.com/album/1KhUasLZZC8QJUSkihGBGu"
+      },
+      "artists": [
+        {
+          "name": "Phil O Sophie",
+          "url": "https://open.spotify.com/artist/4j7JJYsEkFjo8wcVJMdDcq"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142663,
+      "name": "Binaural Beta Sinus 100 Hz - 114 Hz",
+      "url": "https://open.spotify.com/track/727VTdgkCBN4zumcmpcfK2"
+    },
+    {
+      "album": {
+        "name": "Gamma - Beta Focus & Attention",
+        "url": "https://open.spotify.com/album/4ZIZZQixuRthfufbemnwrS"
+      },
+      "artists": [
+        {
+          "name": "Isochrone",
+          "url": "https://open.spotify.com/artist/2AeECKGelGkRXNte7JEHBG"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198811,
+      "name": "Binaural Beta Sinus 150 Hz - L 158 Hz - R",
+      "url": "https://open.spotify.com/track/6O41DAhpUb1SfLZli2DzXv"
+    },
+    {
+      "album": {
+        "name": "Sonic Mindset: Binaural Beta Tones for Concentration",
+        "url": "https://open.spotify.com/album/3wWaXmUQzOzzCOwPMgIg1u"
+      },
+      "artists": [
+        {
+          "name": "FX FORGERS",
+          "url": "https://open.spotify.com/artist/2n4DiQ6nowQupRgjoYPBwm"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Binaural Beta Sinus 190 Hz - L 220 Hz - R",
+      "url": "https://open.spotify.com/track/79hcQYMpG00C0I3sdwxEEu"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Sinus 200 Hz - 230 Hz",
+        "url": "https://open.spotify.com/album/1Z0eKMSRxkP9cWRtPZLAva"
+      },
+      "artists": [
+        {
+          "name": "Livia Binaural",
+          "url": "https://open.spotify.com/artist/2FTx7K05TT9GciCP1xN8DD"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167183,
+      "name": "Binaural Beta Sinus 200 Hz - 230 Hz",
+      "url": "https://open.spotify.com/track/3w2Vh41pyxunSNvqIKczJG"
+    },
+    {
+      "album": {
+        "name": "Binaural Delta Sinus 100 Hz - 104 Hz",
+        "url": "https://open.spotify.com/album/0QzqV0znChOX8CE8Lq8urS"
+      },
+      "artists": [
+        {
+          "name": "Melatonin Release",
+          "url": "https://open.spotify.com/artist/7x4DcBRL3gFsiHZBhMixGO"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168907,
+      "name": "Binaural Beta Sinus 200 Hz - 230 Hz",
+      "url": "https://open.spotify.com/track/5An2d48EKVtexM6lbOW20u"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Sinus 200 Hz - L 230 Hz - R",
+        "url": "https://open.spotify.com/album/65mXuLi5O8iLkLO9qkmTSX"
+      },
+      "artists": [
+        {
+          "name": "Electonic Arts",
+          "url": "https://open.spotify.com/artist/4eUGeFDwIOaHPNz6Sh2liB"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "Binaural Beta Sinus 200 Hz - L 230 Hz - R",
+      "url": "https://open.spotify.com/track/6P6stOHWAUcbwpLjaPBkNH"
+    },
+    {
+      "album": {
+        "name": "BINAURAL BEATS AND BRAIN WAVES",
+        "url": "https://open.spotify.com/album/3a7X3L16okHpF6c21jM3yH"
+      },
+      "artists": [
+        {
+          "name": "Noise Shapers",
+          "url": "https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214655,
+      "name": "Binaural Beta Sinus 200 Hz - L 230 Hz - R",
+      "url": "https://open.spotify.com/track/5mYp4GnV2IfI1sPP3vnp70"
+    },
+    {
+      "album": {
+        "name": "Beta Drones",
+        "url": "https://open.spotify.com/album/2UlaFNcdtg84Yfq3KmcSHx"
+      },
+      "artists": [
+        {
+          "name": "Noise Shapers",
+          "url": "https://open.spotify.com/artist/4Ck8TQHS7YHz4ql7WbAwFY"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214655,
+      "name": "Binaural Beta Sinus 200 Hz - L 230 Hz - R",
+      "url": "https://open.spotify.com/track/6wNrA5LtyjJ6fLQuw9u0oV"
+    },
+    {
+      "album": {
+        "name": "Binaural Beta Sinus 300 Hz - 330 Hz",
+        "url": "https://open.spotify.com/album/5ERjTB1ysvHRuZxFpVGuQO"
+      },
+      "artists": [
+        {
+          "name": "Sisu Syndrome",
+          "url": "https://open.spotify.com/artist/0oLpUOxIR7CnkgQggfksI9"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148607,
+      "name": "Binaural Beta Sinus 300 Hz - 330 Hz",
+      "url": "https://open.spotify.com/track/36IfppbuhVOH1pSRQucbts"
+    },
+    {
+      "album": {
+        "name": "Binaural Brain Waves",
+        "url": "https://open.spotify.com/album/4S6iWJHAR9R5lNsH9kJbVI"
+      },
+      "artists": [
+        {
+          "name": "Erwin Osc\u00e1r",
+          "url": "https://open.spotify.com/artist/1w1y7dpUPIsZovT5YAHG3v"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159010,
+      "name": "Binaural Beta Sinus Beats",
+      "url": "https://open.spotify.com/track/2lVAIA4kdj8ecjNwzrHj6q"
+    },
+    {
+      "album": {
+        "name": "Beta Brainwaves For Focus And Thinking",
+        "url": "https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3"
+      },
+      "artists": [
+        {
+          "name": "The Entrainment",
+          "url": "https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Binaural Beta Sinus Drone I",
+      "url": "https://open.spotify.com/track/2U8RYVwC4TxqwxWFanGvwx"
+    },
+    {
+      "album": {
+        "name": "Beta Brainwaves For Focus And Thinking",
+        "url": "https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3"
+      },
+      "artists": [
+        {
+          "name": "The Entrainment",
+          "url": "https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-25",
+      "duration_ms": 224000,
+      "name": "Binaural Beta Sinus Drone III",
+      "url": "https://open.spotify.com/track/2TqCK23e1IFAX3QEhU42z8"
+    },
+    {
+      "album": {
+        "name": "Beta Brainwaves For Focus And Thinking",
+        "url": "https://open.spotify.com/album/5rYq946bYO7Z7Gs7TITbG3"
+      },
+      "artists": [
+        {
+          "name": "The Entrainment",
+          "url": "https://open.spotify.com/artist/1in2vhhcCXymghyzFTXL2n"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214908,
+      "name": "Binaural Beta Sinus Drone IIII",
+      "url": "https://open.spotify.com/track/57QUuHrWZz08HialRptMC4"
+    },
+    {
+      "album": {
+        "name": "Binaural Warrior",
+        "url": "https://open.spotify.com/album/1bHFsNgWMyPJRNx8OsfcYL"
+      },
+      "artists": [
+        {
+          "name": "Binaural Warrior",
+          "url": "https://open.spotify.com/artist/74eeG2QIYgBimAxFL2vGL5"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Cognitive Thinking (Beta 15 Hz)",
+      "url": "https://open.spotify.com/track/0LG2f3X2SiFZxr1cK2POJC"
+    },
+    {
+      "album": {
+        "name": "Crystalimbic",
+        "url": "https://open.spotify.com/album/79S0cgTQtXbwY4IC2REGFI"
+      },
+      "artists": [
+        {
+          "name": "Syntropy",
+          "url": "https://open.spotify.com/artist/15uMPKXIhc1TJIxf0rdZoU"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197926,
+      "name": "Crystalimbic (Beta Waves)",
+      "url": "https://open.spotify.com/track/4YIUdBVmNnowkHiXLivf2c"
+    },
+    {
+      "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 180960,
+      "name": "Dayspring Beta Sinus 72 Hz - 92 Hz",
+      "url": "https://open.spotify.com/track/4HmxH7v8bsEr22gy6xL33n"
+    },
+    {
+      "album": {
+        "name": "Decompress & Realign (Binaural Beta)",
+        "url": "https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Decompress (Beta 118 Hz - 132 Hz)",
+      "url": "https://open.spotify.com/track/3fCxL73pqo8SRRB9a1JvlF"
+    },
+    {
+      "album": {
+        "name": "Trillion",
+        "url": "https://open.spotify.com/album/3BaMhE7o0DPZDcogIVoCB9"
+      },
+      "artists": [
+        {
+          "name": "Autonomic Sensations",
+          "url": "https://open.spotify.com/artist/3t4f7jfxke1oDZnLoOTwWJ"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190112,
+      "name": "Deepstate Beta",
+      "url": "https://open.spotify.com/track/5JQjeTD8twwbKEAuhtdZsM"
+    },
+    {
+      "album": {
+        "name": "Dream Focus Beta Waves",
+        "url": "https://open.spotify.com/album/6vf4eKCWwo8IgwbZ12bx0G"
+      },
+      "artists": [
+        {
+          "name": "Mandala Dreams",
+          "url": "https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185053,
+      "name": "Dream Focus Beta Waves (146-160 Hz)",
+      "url": "https://open.spotify.com/track/47EcLhPvEOhBMXPZfYrW5H"
+    },
+    {
+      "album": {
+        "name": "Focused Attension - Beta Sinus 150-158 Hz",
+        "url": "https://open.spotify.com/album/6PSy4drFaRYL0UyBA9i3t9"
+      },
+      "artists": [
+        {
+          "name": "Beatwaves",
+          "url": "https://open.spotify.com/artist/5fEs2L5wUZDsFQ01NzZPzP"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186085,
+      "name": "Focused Attension - Beta Sinus 150-158 Hz",
+      "url": "https://open.spotify.com/track/0C8s08h2AlIraAJMQKd6TL"
+    },
+    {
+      "album": {
+        "name": "Beta Focus",
+        "url": "https://open.spotify.com/album/0hYfcRanSfzxLG0o7dsVdd"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 232871,
+      "name": "Memory (98.7Hz - 117.6Hz)",
+      "url": "https://open.spotify.com/track/2C1ltQaRUjQC10ST5JkhGZ"
+    },
+    {
+      "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Presence Beta Sinus 130 Hz - 146 Hz",
+      "url": "https://open.spotify.com/track/39NMPaHisCJGGODQDArsiN"
+    },
+    {
+      "album": {
+        "name": "Binaural Beats - Brainwave Symphony",
+        "url": "https://open.spotify.com/album/5YdEDCuKxG6ZaGBMoNNB9y"
+      },
+      "artists": [
+        {
+          "name": "Miracle Tone",
+          "url": "https://open.spotify.com/artist/40Fj46UX9zICwQk10sRrIC"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Pure Beta Binaural beat - Increased Concentration",
+      "url": "https://open.spotify.com/track/31sVwkyXHzYVmvIWPeGMp3"
+    },
+    {
+      "album": {
+        "name": "Decompress & Realign (Binaural Beta)",
+        "url": "https://open.spotify.com/album/33GGErLxSTSu4kMxN5A1qD"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-06",
+      "duration_ms": 160000,
+      "name": "Realign (Beta 130.5 Hz - 149.1 Hz)",
+      "url": "https://open.spotify.com/track/2hhOdjkHZXyNnHw4nLTFM5"
+    },
+    {
+      "album": {
+        "name": "Silver Silk Beta",
+        "url": "https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Silver Silk C# Beta (73-103hz)",
+      "url": "https://open.spotify.com/track/5RAcJD3t8CgedWDUP0WGTM"
+    },
+    {
+      "album": {
+        "name": "Deep Focus Beta",
+        "url": "https://open.spotify.com/album/56bkivOwmgSzt5dHVrmcRm"
+      },
+      "artists": [
+        {
+          "name": "Aerial Lakes",
+          "url": "https://open.spotify.com/artist/52GC47uinFvXuWXBqx83nt"
+        }
+      ],
+      "date_added": "2022-11-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193563,
+      "name": "Soaring Eagle Beta Sinus 116 Hz - 131 Hz",
+      "url": "https://open.spotify.com/track/3qR90xoCsHQceqOGhdgPbs"
+    },
+    {
+      "album": {
+        "name": "Tartys - Beta Sinus Focus Flow",
+        "url": "https://open.spotify.com/album/4xjqSRTGYHmte6r1XMjGgz"
+      },
+      "artists": [
+        {
+          "name": "Lavendea",
+          "url": "https://open.spotify.com/artist/65C8AHZg2NmgDjfkQFs3bF"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159225,
+      "name": "Tartys - Beta Sinus Focus Flow",
+      "url": "https://open.spotify.com/track/5rDXovOMkiDjVobbFH2iYx"
+    },
+    {
+      "album": {
+        "name": "Silver Silk Beta",
+        "url": "https://open.spotify.com/album/17GFBvbCDzwuotH1jBs9Yb"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2023-09-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Thoughtless Patterns Ab Beta (77-102hz)",
+      "url": "https://open.spotify.com/track/7MyYhyila8ncZVTHEd030h"
+    },
+    {
+      "album": {
+        "name": "Reaching For The Stars",
+        "url": "https://open.spotify.com/album/0CJNJFCAwOG2ifjOYsJth6"
+      },
+      "artists": [
+        {
+          "name": "Higher Dreams",
+          "url": "https://open.spotify.com/artist/6arzvoBgUyg7fngmLvlkcc"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Time Travelling (Beta Waves)",
+      "url": "https://open.spotify.com/track/5smQD23QwbJST01uYJdMAM"
+    },
+    {
+      "album": {
+        "name": "Mind Medicine",
+        "url": "https://open.spotify.com/album/0nEnQBAZdghQsCNZbKNm2B"
+      },
+      "artists": [
+        {
+          "name": "Mind Medicine",
+          "url": "https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Total Focus (Beta Sinus)",
+      "url": "https://open.spotify.com/track/55jSrZSZf4ooJxPwgFR2Hs"
+    },
+    {
+      "album": {
+        "name": "Wonder Falls & Appreciation (Binaural Beta)",
+        "url": "https://open.spotify.com/album/5YyWWGxGrQDej6CanWhnsS"
+      },
+      "artists": [
+        {
+          "name": "Binaural Boy",
+          "url": "https://open.spotify.com/artist/0hUEiberyRotUdOWeIuQ4z"
+        }
+      ],
+      "date_added": "2023-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266666,
+      "name": "Wonder Falls (Beta 100 Hz - 117 Hz)",
+      "url": "https://open.spotify.com/track/6ggscQCVEcqKy92nXLlswe"
+    },
+    {
+      "album": {
+        "name": "Yoga: Beta Sinus 100 Hz",
+        "url": "https://open.spotify.com/album/4MJvd53JhkCRT9g8IS54Q2"
+      },
+      "artists": [
+        {
+          "name": "Merpell",
+          "url": "https://open.spotify.com/artist/4VY6NUpEqaG1ouNyNgR2VN"
+        }
+      ],
+      "date_added": "2022-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Yoga: Beta Sinus 100 Hz",
+      "url": "https://open.spotify.com/track/2fkZSejqcDkdc2rWi8vARt"
+    },
+    {
+      "album": {
+        "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+        "url": "https://open.spotify.com/album/0nR9BiFll648hqwDkT0WVt"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Zone in Beta 73.1 Hz - 89.6 Hz",
+      "url": "https://open.spotify.com/track/1q0glRZ97xYFh3Vu43hb9y"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2Ca9Q0E4D7d"
 }

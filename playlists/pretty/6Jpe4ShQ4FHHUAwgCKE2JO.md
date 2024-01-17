@@ -1,0 +1,35 @@
+pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain](/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/6Jpe4ShQ4FHHUAwgCKE2JO)
+
+### [The Body of America](https://open.spotify.com/playlist/6Jpe4ShQ4FHHUAwgCKE2JO)
+
+> This country is a corpse
+
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 23 songs - 1 hr 30 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Carolina Drama](https://open.spotify.com/track/2LN8mDsvMvG7JU69vtpLhk) | [The Raconteurs](https://open.spotify.com/artist/4wo1267SJuUfHgasdlfNfc) | [Consolers of the Lonely](https://open.spotify.com/album/3yx8gEFlojRtt2WBhmxwfg) | 5:55 |
+| 2 | [Big Iron](https://open.spotify.com/track/0AQquaENerGps8BQmbPw14) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:55 |
+| 3 | [Your Flag Decal Won't Get You into Heaven Anymore](https://open.spotify.com/track/5xIVA72uBH9dsTNC7L37LV) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [John Prine](https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp) | 2:52 |
+| 4 | [Dust Bowl Dance](https://open.spotify.com/track/2QIt8RWdk5ZJneKTt4sZnK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:43 |
+| 5 | [American Remains](https://open.spotify.com/track/4REjaHRPmVb7btssqChJSy) | [The Highwaymen](https://open.spotify.com/artist/6e7QpHYqEiyJGiM98IysLa), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Highwayman 2](https://open.spotify.com/album/7ftmg3XnQcA0bzbWolYzOn) | 4:07 |
+| 6 | [The Ballad of Crowfoot](https://open.spotify.com/track/0gFggOFUXynJtprBeJ1rTy) | [Willie Dunn](https://open.spotify.com/artist/3jeo0fVqyC3Yw1K5VyxpV6) | [Creation Never Sleeps, Creation Never Dies: The Willie Dunn Anthology](https://open.spotify.com/album/5qr30I1zoVNzWmApcC2e3m) | 9:54 |
+| 7 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
+| 8 | [Graves](https://open.spotify.com/track/33BhBFID7OBU3ie0KccF9B) | [Whiskey Shivers](https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH) | [Whiskey Shivers](https://open.spotify.com/album/5I40wOfpaEMbdzn1tMV7dg) | 3:10 |
+| 9 | [Black Dresses](https://open.spotify.com/track/0ErVG3P2bJvIMiThIItcwj) | [The Builders and The Butchers](https://open.spotify.com/artist/3fwCB7lIrdjKWiFN4vz99j) | [The Builders and the Butchers](https://open.spotify.com/album/6SS996f1ts4ue2txHeDGyq) | 3:29 |
+| 10 | [Born in the U.S.A.](https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born In The U.S.A.](https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O) | 4:38 |
+| 11 | [Which Side are You On?](https://open.spotify.com/track/0TZsy6XheL9cSxuX7yYqCO) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:09 |
+| 12 | [Only a Pawn in Their Game](https://open.spotify.com/track/6lib77q4koq52srysevRfT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:29 |
+| 13 | [American Healthcare \(Glitzy\)](https://open.spotify.com/track/3GNTTTs9CVmr8RTrilIBOS) | [Penelope Scott](https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB) | [Public Void](https://open.spotify.com/album/0G2RxSCixG5Nl6jpjwiw2g) | 4:29 |
+| 14 | [Jeff Found A Genie](https://open.spotify.com/track/3FZ6EglonCHH9vBDuRiVyQ) | [Philip Labes](https://open.spotify.com/artist/2gzXe1MitsMjpK7NudXNZf) | [Spring](https://open.spotify.com/album/0FKUaMZRABK2f7HjJuyAfT) | 2:26 |
+| 15 | [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 |
+| 16 | [Insanity \- Live](https://open.spotify.com/track/6oLNowpcdWveCBm5l52Wwj) | [Oingo Boingo](https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu) | [Farewell: Live From The Universal Amphitheatre\-Halloween 1995](https://open.spotify.com/album/1wqqDRJCbYsK9QSjNR55e5) | 7:42 |
+| 17 | [Feed the Machine](https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Feed the Machine](https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn) | 3:03 |
+| 18 | [Hell's Comin' with Me](https://open.spotify.com/track/5N0lmKQfQpXNQNjUGlPKIT) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/7sXEDXktkY9cFOcgvIR6CI) | 3:32 |
+| 19 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 |
+| 20 | [C'mon Down](https://open.spotify.com/track/2OqfU8bYXte0FVWEKL10KC) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 2:37 |
+| 21 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 |
+| 22 | [Fortunate Son](https://open.spotify.com/track/4BP3uh0hFLFRb5cjsgLqDh) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Willy And The Poor Boys \(Expanded Edition\)](https://open.spotify.com/album/31q47gQszFt0CddSyMksgO) | 2:20 |
+| 23 | [This Is America](https://open.spotify.com/track/0b9oOr2ZgvyQu88wzixux9) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [This Is America](https://open.spotify.com/album/7arx9qPJexCsDz67El4qvk) | 3:45 |
+
+Snapshot ID: `MzEsNTNjNTYwYzk4OTMzMDRjMTQyNzllMjA5M2RjZmJmYzkyODZkYTI4Zg==`

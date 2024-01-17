@@ -1390,7 +1390,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-25",
+      "date_removed": "2024-01-15",
       "duration_ms": 176277,
       "name": "Can't Hide It",
       "url": "https://open.spotify.com/track/4Ic5SoEYrVpN7gLQ6q1058"
@@ -1808,7 +1808,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 181485,
       "name": "Common Ground",
       "url": "https://open.spotify.com/track/0GWOhOxjumDONeZ6YIZJkW"
@@ -2246,6 +2246,24 @@
     {
       "album": {
         "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/3qWK8chhUiXLHAGSu585DG"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "date_added": "2023-04-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/0nomiSFgD9mDCcKBHD8qpv"
+    },
+    {
+      "album": {
+        "name": "Don't Doubt It",
         "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
       },
       "artists": [
@@ -2310,7 +2328,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 188520,
       "name": "Don't Stare Too Long",
       "url": "https://open.spotify.com/track/5MZ46M8kBTyY6BMYFKDVpo"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 180000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3"
@@ -2632,6 +2650,24 @@
       "duration_ms": 199899,
       "name": "Easy Baby",
       "url": "https://open.spotify.com/track/4ti63sQWlpSvKUaCqXjcjc"
+    },
+    {
+      "album": {
+        "name": "effort in",
+        "url": "https://open.spotify.com/album/7rC7eOZPlaNImntVvrhRRi"
+      },
+      "artists": [
+        {
+          "name": "Nina Cobham",
+          "url": "https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145910,
+      "name": "effort in",
+      "url": "https://open.spotify.com/track/45EMmryo2aQRD7HMDHlVzj"
     },
     {
       "album": {
@@ -4126,7 +4162,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 212848,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
@@ -6742,7 +6778,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": "2024-01-16",
       "duration_ms": 170880,
       "name": "Misty in Matakana",
       "url": "https://open.spotify.com/track/4FtQayeU7UN8tsUHGUfPqi"
@@ -6764,6 +6800,24 @@
       "duration_ms": 155840,
       "name": "Monolith",
       "url": "https://open.spotify.com/track/5lPr3yqIjtsQY316VjNXQO"
+    },
+    {
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/6MBbyh68wDw1FL72MP4vvt"
+      },
+      "artists": [
+        {
+          "name": "Relyae",
+          "url": "https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201025,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/3pp63SNvp4x3qSPv3TqYAM"
     },
     {
       "album": {
@@ -8412,10 +8466,50 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-22",
+      "date_removed": "2024-01-07",
       "duration_ms": 130021,
       "name": "Sadboy",
       "url": "https://open.spotify.com/track/7I3ruC2uRcHSd5IYMkabSJ"
+    },
+    {
+      "album": {
+        "name": "Safe Word",
+        "url": "https://open.spotify.com/album/5JRVoGHRmvZbcajnXfZTHp"
+      },
+      "artists": [
+        {
+          "name": "serpentwithfeet",
+          "url": "https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166124,
+      "name": "Safe Word",
+      "url": "https://open.spotify.com/track/4i3h8s1fqTDYfSfd86T5It"
+    },
+    {
+      "album": {
+        "name": "SAME MISTAKE",
+        "url": "https://open.spotify.com/album/41EmgJAJQInxILfagQ608k"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "SAME MISTAKE",
+      "url": "https://open.spotify.com/track/3VQ5lMMpas43wu1xIQuu0s"
     },
     {
       "album": {
@@ -9148,7 +9242,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 163040,
       "name": "Something True",
       "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
@@ -9376,6 +9470,28 @@
       "duration_ms": 270031,
       "name": "Stay",
       "url": "https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh"
+    },
+    {
+      "album": {
+        "name": "STAY HERE (feat. Amaria)",
+        "url": "https://open.spotify.com/album/58lZ1th8kkoMJ0O7jd1jJp"
+      },
+      "artists": [
+        {
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+        },
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 267272,
+      "name": "STAY HERE",
+      "url": "https://open.spotify.com/track/4szGWqPeGsVeZLpAytmh46"
     },
     {
       "album": {
@@ -9664,7 +9780,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 213696,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/4yBzXfwyFa1wbCBS3iYF2X"
@@ -9730,7 +9846,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 191707,
       "name": "Take It Easy (Miles' Song)",
       "url": "https://open.spotify.com/track/2wL4LR49SRUAaKvZMiUvob"
@@ -10164,7 +10280,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-20",
+      "date_removed": null,
       "duration_ms": 111063,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0COURFiJSO9R4Bz3gAP1VW"
@@ -10284,7 +10400,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210880,
       "name": "To This Day",
       "url": "https://open.spotify.com/track/7JM71c4NDJh0gllX45eWRi"
@@ -10404,7 +10520,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 232257,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn"
@@ -11041,6 +11157,24 @@
     },
     {
       "album": {
+        "name": "What's Luv?",
+        "url": "https://open.spotify.com/album/6C2yR407il1fwIhy3P5iPp"
+      },
+      "artists": [
+        {
+          "name": "Sha\u00e9 Universe",
+          "url": "https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166123,
+      "name": "What's Luv?",
+      "url": "https://open.spotify.com/track/6ZVaa16xlSrloQhYPV63BW"
+    },
+    {
+      "album": {
         "name": "Rose in the Dark",
         "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
@@ -11232,7 +11366,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-01",
+      "date_removed": null,
       "duration_ms": 293122,
       "name": "Witchcraft (feat. Robert Glasper)",
       "url": "https://open.spotify.com/track/4Itbv26vt7dWj8cdGcxvq4"
@@ -11450,7 +11584,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"

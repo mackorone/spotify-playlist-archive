@@ -1,133 +1,1029 @@
 {
-  "2023-08-24": 2031,
-  "2023-08-25": 2031,
-  "2023-08-26": 2034,
-  "2023-08-27": 2034,
-  "2023-08-28": 2041,
-  "2023-08-29": 2041,
-  "2023-08-30": 2041,
-  "2023-08-31": 2052,
-  "2023-09-01": 2063,
-  "2023-09-02": 2063,
-  "2023-09-03": 2071,
-  "2023-09-04": 2071,
-  "2023-09-05": 2071,
-  "2023-09-06": 2080,
-  "2023-09-07": 2080,
-  "2023-09-08": 2080,
-  "2023-09-09": 2080,
-  "2023-09-10": 2096,
-  "2023-09-11": 2096,
-  "2023-09-12": 2096,
-  "2023-09-13": 2098,
-  "2023-09-14": 2098,
-  "2023-09-15": 2098,
-  "2023-09-16": 2104,
-  "2023-09-17": 2104,
-  "2023-09-18": 2104,
-  "2023-09-19": 2110,
-  "2023-09-20": 2110,
-  "2023-09-21": 2110,
-  "2023-09-22": 2117,
-  "2023-09-23": 2117,
-  "2023-09-24": 2117,
-  "2023-09-25": 2117,
-  "2023-09-26": 2125,
-  "2023-09-27": 2125,
-  "2023-09-28": 2125,
-  "2023-09-29": 2125,
-  "2023-09-30": 2125,
-  "2023-10-01": 2125,
-  "2023-10-02": 2138,
-  "2023-10-03": 2138,
-  "2023-10-04": 2138,
-  "2023-10-05": 2140,
-  "2023-10-06": 2141,
-  "2023-10-07": 2141,
-  "2023-10-08": 2141,
-  "2023-10-09": 2141,
-  "2023-10-10": 2141,
-  "2023-10-11": 2152,
-  "2023-10-12": 2152,
-  "2023-10-13": 2152,
-  "2023-10-14": 2152,
-  "2023-10-15": 2152,
-  "2023-10-16": 2152,
-  "2023-10-17": 2152,
-  "2023-10-18": 2152,
-  "2023-10-19": 2152,
-  "2023-10-20": 2152,
-  "2023-10-21": 2152,
-  "2023-10-22": 2152,
-  "2023-10-23": 2152,
-  "2023-10-24": 2152,
-  "2023-10-25": 2152,
-  "2023-10-26": 2152,
-  "2023-10-27": 2152,
-  "2023-10-28": 2152,
-  "2023-10-29": 2152,
-  "2023-10-30": 2152,
-  "2023-10-31": 2152,
-  "2023-11-01": 2152,
-  "2023-11-02": 2152,
-  "2023-11-03": 2152,
-  "2023-11-04": 2152,
-  "2023-11-05": 2152,
-  "2023-11-06": 2152,
-  "2023-11-07": 2152,
-  "2023-11-08": 2152,
-  "2023-11-09": 2152,
-  "2023-11-10": 2152,
-  "2023-11-11": 2214,
-  "2023-11-12": 2214,
-  "2023-11-13": 2214,
-  "2023-11-14": 2214,
-  "2023-11-15": 2214,
-  "2023-11-16": 2214,
-  "2023-11-17": 2214,
-  "2023-11-18": 2214,
-  "2023-11-19": 2214,
-  "2023-11-20": 2214,
-  "2023-11-21": 2214,
-  "2023-11-22": 2214,
-  "2023-11-23": 2214,
-  "2023-11-24": 2214,
-  "2023-11-25": 2214,
-  "2023-11-26": 2214,
-  "2023-11-27": 2214,
-  "2023-11-28": 2214,
-  "2023-11-29": 2214,
-  "2023-11-30": 2214,
-  "2023-12-01": 2214,
-  "2023-12-02": 2214,
-  "2023-12-03": 2214,
-  "2023-12-04": 2214,
-  "2023-12-05": 2214,
-  "2023-12-06": 2214,
-  "2023-12-07": 2214,
-  "2023-12-08": 2214,
-  "2023-12-09": 2214,
-  "2023-12-10": 2214,
-  "2023-12-11": 2214,
-  "2023-12-12": 2214,
-  "2023-12-13": 2214,
-  "2023-12-14": 2261,
-  "2023-12-15": 2260,
-  "2023-12-16": 2261,
-  "2023-12-17": 2263,
-  "2023-12-18": 2263,
-  "2023-12-19": 2264,
-  "2023-12-20": 2264,
-  "2023-12-21": 2265,
-  "2023-12-22": 2266,
-  "2023-12-23": 2268,
-  "2023-12-24": 2269,
-  "2023-12-25": 2270,
-  "2023-12-26": 2271,
-  "2023-12-27": 2274,
-  "2023-12-30": 2278,
-  "2023-12-31": 2284,
-  "2024-01-01": 2285,
-  "2024-01-02": 2287,
-  "2024-01-03": 2287
+  "2024-01-17": 2319,
+  "date_first_scraped": "2023-08-24",
+  "description": "This is Rio. The essential tracks, all in one playlist.",
+  "name": "This Is Rio",
+  "tracks": [
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211894,
+      "name": "A la Droga Dile No",
+      "url": "https://open.spotify.com/track/4jwJ4q8YpryDeoGaOhkwXo"
+    },
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208105,
+      "name": "Abandonado",
+      "url": "https://open.spotify.com/track/5v8r5nnQuXUQL4qUTIAdrf"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169320,
+      "name": "Ag\u00fcita Pa'l Calor",
+      "url": "https://open.spotify.com/track/0rSNxNPMkzDx1gByZqS9c9"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278173,
+      "name": "Al Norte de Am\u00e9rica",
+      "url": "https://open.spotify.com/track/2KC0gekyXoj4Rn5S7WApIL"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268893,
+      "name": "Algo de Ti",
+      "url": "https://open.spotify.com/track/0m9qdx9xK1SankfVYz6eZe"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        },
+        {
+          "name": "Leslie Shaw",
+          "url": "https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223371,
+      "name": "Amores Que Acaban",
+      "url": "https://open.spotify.com/track/3VNj2mxv5UqUVx8eJRLFLh"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197392,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/6UM9JjFbJWlIwVbcF6IOL3"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "Apago la Luz",
+      "url": "https://open.spotify.com/track/6MeZ1xweBv7AoaURo1z70c"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-31",
+      "duration_ms": 220055,
+      "name": "Buenos D\u00edas",
+      "url": "https://open.spotify.com/track/7hR8jam0t4Kn63mzSLgJeZ"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205666,
+      "name": "Carol Quiere un Viaje a Londres",
+      "url": "https://open.spotify.com/track/5TVYykPNOs7gt1urSqsEih"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218960,
+      "name": "Cont\u00e9stame",
+      "url": "https://open.spotify.com/track/5ZC0vItywihOMCql4TRQRj"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219177,
+      "name": "C\u00f3mo Te Va",
+      "url": "https://open.spotify.com/track/23Tq3thBgcq10RjBCFJo3V"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "Dec\u00edas",
+      "url": "https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238080,
+      "name": "Dicen Que el Viento",
+      "url": "https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214493,
+      "name": "D\u00f3nde Vas",
+      "url": "https://open.spotify.com/track/2QvA8SrQxMEJHBtAJu48X4"
+    },
+    {
+      "album": {
+        "name": "De Vuelta al Barrio Vol.1",
+        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181105,
+      "name": "Estoy Cantando",
+      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/77Mmist7d3DDNtqVF70bKT"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218538,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/6CnD6Lf21ssKD6qyngqD2e"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 271766,
+      "name": "Hechizo de Amor",
+      "url": "https://open.spotify.com/track/18Pc3bfmEYe4y9krL6F4uG"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256722,
+      "name": "Historias",
+      "url": "https://open.spotify.com/track/76MxsYy8Zo5X3WXgEczg7m"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273813,
+      "name": "La Empiezo a Odiar",
+      "url": "https://open.spotify.com/track/1wQSySo4aInJ4f3UQkQme9"
+    },
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216947,
+      "name": "La Universidad (cosa de Locos)",
+      "url": "https://open.spotify.com/track/2uWpNusYG5sEpvGNmOr03P"
+    },
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209217,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5pb0dvKEXc27MUCx9LuofT"
+    },
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243157,
+      "name": "Lo Peor de Todo",
+      "url": "https://open.spotify.com/track/7cnUsQVdrZFNdtIBKZBMb5"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182253,
+      "name": "Me Estoy Quemando",
+      "url": "https://open.spotify.com/track/3WsfozLckE6PpvImGxcelw"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "Mi Partido Lo Har\u00e1 (Los Pol\u00edticos)",
+      "url": "https://open.spotify.com/track/1k1Yho4briB01hvK4F9MNP"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291173,
+      "name": "M\u00f3nica",
+      "url": "https://open.spotify.com/track/1eU86kHbVXWop774OQRKfi"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165666,
+      "name": "Nena Resc\u00e1tame",
+      "url": "https://open.spotify.com/track/2tbmgpfmLQCC9EP1ec9wel"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191306,
+      "name": "No Es Tan F\u00e1cil",
+      "url": "https://open.spotify.com/track/6P1Fsr66GfD5IAsKd2mDJt"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "No Hay Ley",
+      "url": "https://open.spotify.com/track/2y4u8ZEXHE0kn3KCcNPEsA"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214173,
+      "name": "No Me Cabe Duda",
+      "url": "https://open.spotify.com/track/6yMRSurr1MAlIhGhEPYFTv"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "No Puedes Olvidarme",
+      "url": "https://open.spotify.com/track/1CaSi8VaKW1Icp7TzIbueM"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260200,
+      "name": "No Quiero Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/7siVuRZAlqTw0qG1cyN2tG"
+    },
+    {
+      "album": {
+        "name": "Nos Van a Escuchar",
+        "url": "https://open.spotify.com/album/6Y0RNqz4faP11dGgasMaMJ"
+      },
+      "artists": [
+        {
+          "name": "Christian Yaipen",
+          "url": "https://open.spotify.com/artist/58ecNT3znxQ7I6B971ZYC1"
+        },
+        {
+          "name": "Afrodisiaco",
+          "url": "https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93"
+        },
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        },
+        {
+          "name": "Ana Kohler",
+          "url": "https://open.spotify.com/artist/1n64fyKoGQT4u1979QUerO"
+        },
+        {
+          "name": "Nicole Pillman",
+          "url": "https://open.spotify.com/artist/3zzlgX9XsSkchvcPAK92ff"
+        },
+        {
+          "name": "Jean Paul Strauss",
+          "url": "https://open.spotify.com/artist/1ww2z9bVWMR1jjVJWpNM9e"
+        },
+        {
+          "name": "La Novel de Mart\u00edn Guevara",
+          "url": "https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr"
+        },
+        {
+          "name": "Amanda Portales",
+          "url": "https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51"
+        },
+        {
+          "name": "Marco Romero",
+          "url": "https://open.spotify.com/artist/5ZCR8gHM2UuU0JxuuFGduI"
+        },
+        {
+          "name": "Rossy War y Su Banda Kaliente",
+          "url": "https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ"
+        },
+        {
+          "name": "Julio Andrade",
+          "url": "https://open.spotify.com/artist/1WW69I4nXYzMTxkA63WCOe"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157894,
+      "name": "Nos Van a Escuchar",
+      "url": "https://open.spotify.com/track/0ydZwMus6teAlHjJ9EExVT"
+    },
+    {
+      "album": {
+        "name": "Rock And Qu\u00e9",
+        "url": "https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255160,
+      "name": "Pierdo la Raz\u00f3n",
+      "url": "https://open.spotify.com/track/4M8gxBy9CHY07oSatlOTN6"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212880,
+      "name": "Profesora de Ingl\u00e9s",
+      "url": "https://open.spotify.com/track/1BwMhhbybfhAKeVanov4rp"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/4UjJEOoa8JzbbmighGn5du"
+    },
+    {
+      "album": {
+        "name": "Revoluci\u00f3n",
+        "url": "https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214204,
+      "name": "Revoluci\u00f3n",
+      "url": "https://open.spotify.com/track/2HllS5tk38hZpbk1Rf94M5"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 126906,
+      "name": "Shooby Duwa",
+      "url": "https://open.spotify.com/track/1sVGN6uME5V2vr1jMQHw3N"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278186,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 304586,
+      "name": "Si\u00e9nteme",
+      "url": "https://open.spotify.com/track/1sHlR9KVDk35KBOLAx2tCO"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166426,
+      "name": "Te Extra\u00f1o Igual",
+      "url": "https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t"
+    },
+    {
+      "album": {
+        "name": "Lo Peor de Todo (Remasterizado)",
+        "url": "https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244421,
+      "name": "Televidente",
+      "url": "https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM"
+    },
+    {
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290480,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/3vUkyvc3QTvsFrFfypwsBE"
+    },
+    {
+      "album": {
+        "name": "La Cr\u00eda",
+        "url": "https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243040,
+      "name": "Todo Lo Que Quiero",
+      "url": "https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr"
+    },
+    {
+      "album": {
+        "name": "Nuestra Cumbia",
+        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
+      },
+      "artists": [
+        {
+          "name": "Lucho Paz",
+          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
+        },
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Tu Amor Fue Una Mentira",
+      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
+    },
+    {
+      "album": {
+        "name": "Sres. Papis",
+        "url": "https://open.spotify.com/album/6kSmm9DKburGy0vHaA6ovB"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184392,
+      "name": "Tu Eres Mi Princesa",
+      "url": "https://open.spotify.com/track/1ZHcMZyJU6gb8HwXgZuSkT"
+    },
+    {
+      "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/2SMTjH1GEiQjCglxk1IXgt"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184732,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/3ZT7FaIZK71LhluS9LF39S"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234973,
+      "name": "Un Amor Sin Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4zzOetx3QIt95dC2nMYQPM"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190533,
+      "name": "Vac\u00edo",
+      "url": "https://open.spotify.com/track/2uoOUpIOBMnBxtaJGQIDZg"
+    },
+    {
+      "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218122,
+      "name": "Ventana",
+      "url": "https://open.spotify.com/track/3zcXkcT0sDOn67WpJV9QsR"
+    },
+    {
+      "album": {
+        "name": "Relax",
+        "url": "https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224666,
+      "name": "Y Lloro",
+      "url": "https://open.spotify.com/track/1SZ405ZIT4oblNyiKrA3VP"
+    },
+    {
+      "album": {
+        "name": "\u00a1Vamos a Volver!",
+        "url": "https://open.spotify.com/album/1HGzNIjYoZvUi3XjlkW3sV"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "date_added": "2023-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179463,
+      "name": "\u00a1Vamos a Volver!",
+      "url": "https://open.spotify.com/track/0BTZkWXBFc6UyW5DeDnvjj"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO16W1u2"
 }

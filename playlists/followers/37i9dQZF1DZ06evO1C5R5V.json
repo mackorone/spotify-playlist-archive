@@ -1,354 +1,1335 @@
 {
-  "2023-01-14": 21658,
-  "2023-01-15": 21664,
-  "2023-01-16": 21694,
-  "2023-01-17": 21715,
-  "2023-01-18": 21732,
-  "2023-01-19": 21760,
-  "2023-01-20": 21780,
-  "2023-01-21": 21801,
-  "2023-01-22": 21883,
-  "2023-01-23": 21921,
-  "2023-01-24": 21958,
-  "2023-01-25": 21981,
-  "2023-01-26": 22013,
-  "2023-01-27": 22037,
-  "2023-01-28": 22064,
-  "2023-01-29": 22090,
-  "2023-01-30": 22119,
-  "2023-01-31": 22119,
-  "2023-02-01": 22167,
-  "2023-02-02": 22190,
-  "2023-02-03": 22212,
-  "2023-02-04": 22238,
-  "2023-02-05": 22257,
-  "2023-02-06": 22276,
-  "2023-02-07": 22293,
-  "2023-02-08": 22338,
-  "2023-02-09": 22338,
-  "2023-02-10": 22350,
-  "2023-02-11": 22363,
-  "2023-02-12": 22409,
-  "2023-02-13": 22429,
-  "2023-02-14": 22429,
-  "2023-02-15": 22443,
-  "2023-02-16": 22465,
-  "2023-02-17": 22492,
-  "2023-02-18": 22554,
-  "2023-02-19": 22556,
-  "2023-02-20": 22578,
-  "2023-02-21": 22597,
-  "2023-02-22": 22610,
-  "2023-02-23": 22633,
-  "2023-02-24": 22655,
-  "2023-02-25": 22723,
-  "2023-02-26": 22745,
-  "2023-02-27": 22797,
-  "2023-02-28": 22797,
-  "2023-03-01": 22822,
-  "2023-03-02": 22849,
-  "2023-03-03": 22872,
-  "2023-03-04": 22885,
-  "2023-03-05": 22931,
-  "2023-03-06": 22931,
-  "2023-03-07": 22958,
-  "2023-03-08": 22977,
-  "2023-03-09": 23000,
-  "2023-03-10": 23028,
-  "2023-03-11": 23060,
-  "2023-03-12": 23080,
-  "2023-03-13": 23096,
-  "2023-03-14": 23115,
-  "2023-03-15": 23135,
-  "2023-03-16": 23135,
-  "2023-03-17": 23135,
-  "2023-03-18": 23192,
-  "2023-03-19": 23192,
-  "2023-03-20": 23226,
-  "2023-03-21": 23248,
-  "2023-03-22": 23270,
-  "2023-03-23": 23300,
-  "2023-03-24": 23300,
-  "2023-03-25": 23355,
-  "2023-03-26": 23376,
-  "2023-03-27": 23396,
-  "2023-03-28": 23412,
-  "2023-03-29": 23433,
-  "2023-03-30": 23463,
-  "2023-03-31": 23463,
-  "2023-04-01": 23478,
-  "2023-04-02": 23507,
-  "2023-04-03": 23533,
-  "2023-04-04": 23544,
-  "2023-04-05": 23568,
-  "2023-04-06": 23586,
-  "2023-04-07": 23608,
-  "2023-04-09": 23635,
-  "2023-04-10": 23645,
-  "2023-04-11": 23665,
-  "2023-04-12": 23665,
-  "2023-04-13": 23691,
-  "2023-04-14": 23711,
-  "2023-04-15": 23739,
-  "2023-04-16": 23779,
-  "2023-04-17": 23803,
-  "2023-04-18": 23825,
-  "2023-04-19": 23848,
-  "2023-04-20": 23868,
-  "2023-04-21": 23884,
-  "2023-04-22": 23909,
-  "2023-04-23": 23932,
-  "2023-04-24": 23955,
-  "2023-04-25": 23972,
-  "2023-04-26": 23984,
-  "2023-04-27": 24012,
-  "2023-04-28": 24028,
-  "2023-04-29": 24047,
-  "2023-04-30": 24068,
-  "2023-05-01": 24083,
-  "2023-05-02": 24110,
-  "2023-05-03": 24130,
-  "2023-05-04": 24147,
-  "2023-05-05": 24171,
-  "2023-05-06": 24198,
-  "2023-05-07": 24222,
-  "2023-05-08": 24241,
-  "2023-05-09": 24267,
-  "2023-05-10": 24298,
-  "2023-05-11": 24330,
-  "2023-05-12": 24358,
-  "2023-05-13": 24378,
-  "2023-05-14": 24398,
-  "2023-05-15": 24420,
-  "2023-05-16": 24438,
-  "2023-05-17": 24454,
-  "2023-05-18": 24484,
-  "2023-05-19": 24500,
-  "2023-05-20": 24548,
-  "2023-05-21": 24548,
-  "2023-05-22": 24548,
-  "2023-05-23": 24599,
-  "2023-05-24": 24639,
-  "2023-05-25": 24647,
-  "2023-05-26": 24678,
-  "2023-05-27": 24711,
-  "2023-05-28": 24744,
-  "2023-05-29": 24744,
-  "2023-05-30": 24792,
-  "2023-05-31": 24819,
-  "2023-06-01": 24849,
-  "2023-06-02": 24877,
-  "2023-06-03": 24910,
-  "2023-06-04": 24933,
-  "2023-06-05": 24955,
-  "2023-06-06": 24977,
-  "2023-06-07": 25011,
-  "2023-06-08": 25029,
-  "2023-06-09": 25054,
-  "2023-06-10": 25084,
-  "2023-06-11": 25117,
-  "2023-06-12": 25141,
-  "2023-06-13": 25166,
-  "2023-06-14": 25185,
-  "2023-06-15": 25212,
-  "2023-06-16": 25228,
-  "2023-06-17": 25261,
-  "2023-06-18": 25286,
-  "2023-06-19": 25306,
-  "2023-06-20": 25320,
-  "2023-06-21": 25345,
-  "2023-06-22": 25373,
-  "2023-06-23": 25400,
-  "2023-06-24": 25432,
-  "2023-06-25": 25461,
-  "2023-06-26": 25471,
-  "2023-06-27": 25495,
-  "2023-06-28": 25521,
-  "2023-06-29": 25545,
-  "2023-06-30": 25572,
-  "2023-07-01": 25634,
-  "2023-07-02": 25634,
-  "2023-07-03": 25651,
-  "2023-07-04": 25678,
-  "2023-07-05": 25706,
-  "2023-07-06": 25747,
-  "2023-07-07": 25747,
-  "2023-07-08": 25777,
-  "2023-07-09": 25796,
-  "2023-07-10": 25813,
-  "2023-07-11": 25830,
-  "2023-07-12": 25851,
-  "2023-07-13": 25869,
-  "2023-07-14": 25889,
-  "2023-07-15": 25907,
-  "2023-07-16": 25953,
-  "2023-07-17": 25962,
-  "2023-07-18": 25992,
-  "2023-07-19": 26008,
-  "2023-07-20": 26032,
-  "2023-07-21": 26056,
-  "2023-07-22": 26086,
-  "2023-07-23": 26104,
-  "2023-07-24": 26136,
-  "2023-07-25": 26151,
-  "2023-07-26": 26185,
-  "2023-07-27": 26213,
-  "2023-07-28": 26244,
-  "2023-07-29": 26284,
-  "2023-07-30": 26313,
-  "2023-07-31": 26333,
-  "2023-08-01": 26354,
-  "2023-08-02": 26373,
-  "2023-08-03": 26393,
-  "2023-08-04": 26419,
-  "2023-08-05": 26436,
-  "2023-08-06": 26475,
-  "2023-08-07": 26475,
-  "2023-08-08": 26491,
-  "2023-08-09": 26506,
-  "2023-08-10": 26528,
-  "2023-08-11": 26547,
-  "2023-08-12": 26547,
-  "2023-08-13": 26547,
-  "2023-08-14": 26622,
-  "2023-08-15": 26622,
-  "2023-08-16": 26622,
-  "2023-08-17": 26674,
-  "2023-08-18": 26674,
-  "2023-08-19": 26674,
-  "2023-08-20": 26745,
-  "2023-08-21": 26745,
-  "2023-08-22": 26798,
-  "2023-08-23": 26798,
-  "2023-08-24": 26849,
-  "2023-08-25": 26849,
-  "2023-08-26": 26907,
-  "2023-08-27": 26907,
-  "2023-08-28": 26939,
-  "2023-08-29": 26939,
-  "2023-08-30": 26939,
-  "2023-08-31": 27006,
-  "2023-09-01": 27046,
-  "2023-09-02": 27046,
-  "2023-09-03": 27063,
-  "2023-09-04": 27063,
-  "2023-09-05": 27063,
-  "2023-09-06": 27124,
-  "2023-09-07": 27124,
-  "2023-09-08": 27124,
-  "2023-09-09": 27124,
-  "2023-09-10": 27209,
-  "2023-09-11": 27209,
-  "2023-09-12": 27209,
-  "2023-09-13": 27277,
-  "2023-09-14": 27277,
-  "2023-09-15": 27277,
-  "2023-09-16": 27342,
-  "2023-09-17": 27342,
-  "2023-09-18": 27342,
-  "2023-09-19": 27388,
-  "2023-09-20": 27388,
-  "2023-09-21": 27388,
-  "2023-09-22": 27446,
-  "2023-09-23": 27446,
-  "2023-09-24": 27446,
-  "2023-09-25": 27446,
-  "2023-09-26": 27508,
-  "2023-09-27": 27508,
-  "2023-09-28": 27508,
-  "2023-09-29": 27508,
-  "2023-09-30": 27508,
-  "2023-10-01": 27508,
-  "2023-10-02": 27602,
-  "2023-10-03": 27602,
-  "2023-10-04": 27602,
-  "2023-10-05": 27650,
-  "2023-10-06": 27675,
-  "2023-10-07": 27675,
-  "2023-10-08": 27675,
-  "2023-10-09": 27675,
-  "2023-10-10": 27675,
-  "2023-10-11": 27800,
-  "2023-10-12": 27800,
-  "2023-10-13": 27800,
-  "2023-10-14": 27800,
-  "2023-10-15": 27800,
-  "2023-10-16": 27800,
-  "2023-10-17": 27800,
-  "2023-10-18": 27800,
-  "2023-10-19": 27800,
-  "2023-10-20": 27800,
-  "2023-10-21": 27800,
-  "2023-10-22": 27800,
-  "2023-10-23": 27800,
-  "2023-10-24": 27800,
-  "2023-10-25": 27800,
-  "2023-10-26": 27800,
-  "2023-10-27": 27800,
-  "2023-10-28": 27800,
-  "2023-10-29": 27800,
-  "2023-10-30": 27800,
-  "2023-10-31": 27800,
-  "2023-11-01": 27800,
-  "2023-11-02": 27800,
-  "2023-11-03": 27800,
-  "2023-11-04": 27800,
-  "2023-11-05": 27800,
-  "2023-11-06": 27800,
-  "2023-11-07": 27800,
-  "2023-11-08": 27800,
-  "2023-11-09": 27800,
-  "2023-11-10": 27800,
-  "2023-11-11": 28410,
-  "2023-11-12": 28410,
-  "2023-11-13": 28410,
-  "2023-11-14": 28410,
-  "2023-11-15": 28410,
-  "2023-11-16": 28410,
-  "2023-11-17": 28410,
-  "2023-11-18": 28410,
-  "2023-11-19": 28410,
-  "2023-11-20": 28410,
-  "2023-11-21": 28410,
-  "2023-11-22": 28410,
-  "2023-11-23": 28410,
-  "2023-11-24": 28410,
-  "2023-11-25": 28410,
-  "2023-11-26": 28410,
-  "2023-11-27": 28410,
-  "2023-11-28": 28410,
-  "2023-11-29": 28410,
-  "2023-11-30": 28410,
-  "2023-12-01": 28410,
-  "2023-12-02": 28410,
-  "2023-12-03": 28410,
-  "2023-12-04": 28410,
-  "2023-12-05": 28410,
-  "2023-12-06": 28410,
-  "2023-12-07": 28410,
-  "2023-12-08": 28410,
-  "2023-12-09": 28410,
-  "2023-12-10": 28410,
-  "2023-12-11": 28410,
-  "2023-12-12": 28410,
-  "2023-12-13": 28410,
-  "2023-12-14": 29045,
-  "2023-12-15": 29047,
-  "2023-12-16": 29064,
-  "2023-12-17": 29085,
-  "2023-12-18": 29097,
-  "2023-12-19": 29106,
-  "2023-12-20": 29122,
-  "2023-12-21": 29135,
-  "2023-12-22": 29158,
-  "2023-12-23": 29168,
-  "2023-12-24": 29196,
-  "2023-12-25": 29211,
-  "2023-12-26": 29221,
-  "2023-12-27": 29233,
-  "2023-12-30": 29295,
-  "2023-12-31": 29311,
-  "2024-01-01": 29330,
-  "2024-01-02": 29333,
-  "2024-01-03": 29341
+  "2024-01-17": 29499,
+  "date_first_scraped": "2023-01-14",
+  "description": "This is El Harag\u00e1n y Compa\u00f1\u00eda. The essential tracks, all in one playlist.",
+  "name": "This Is El Harag\u00e1n y Compa\u00f1\u00eda",
+  "tracks": [
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335621,
+      "name": "A Esa Gran Velocidad",
+      "url": "https://open.spotify.com/track/5dXKQ5MzrOPjFwtJEJZYuu"
+    },
+    {
+      "album": {
+        "name": "A Esa Gran Velocidad",
+        "url": "https://open.spotify.com/album/6aCHw9uQXaadhfe7TmTZL6"
+      },
+      "artists": [
+        {
+          "name": "Vista Point",
+          "url": "https://open.spotify.com/artist/6GcedqINdaO2unhQdd81lL"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-03-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 251646,
+      "name": "A Esa Gran Velocidad",
+      "url": "https://open.spotify.com/track/5uPFqmkyDLPqAUgzEWlfGm"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138298,
+      "name": "A la Basura Se Va",
+      "url": "https://open.spotify.com/track/3NyKFQuBj5DR57rBqw4tiM"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255651,
+      "name": "Aburrida la Vida",
+      "url": "https://open.spotify.com/track/1DGuT7RBkhf2umc7YArWkM"
+    },
+    {
+      "album": {
+        "name": "Aburrida la Vida",
+        "url": "https://open.spotify.com/album/6tRNUlurd30gT4GrCFGhBj"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 363161,
+      "name": "Aburrida la Vida",
+      "url": "https://open.spotify.com/track/4BDHirGB8v0tcVWlNpiVvg"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266890,
+      "name": "Aguja en la Ciudad",
+      "url": "https://open.spotify.com/track/3RtmmS2IxTLbmOalW5cIk3"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230016,
+      "name": "Alejandro",
+      "url": "https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC"
+    },
+    {
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Alma de Negro",
+      "url": "https://open.spotify.com/track/3VRZUJyO4Y9KxfkrHc2OBC"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "Amor por Nada",
+      "url": "https://open.spotify.com/track/5L2umLhtRL6iZGnZjZuto3"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145217,
+      "name": "Antes Me Gustabas",
+      "url": "https://open.spotify.com/track/0FqtI5YKYauiW4HfBqPPBs"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-10",
+      "duration_ms": 162493,
+      "name": "Bajando en la Esquina",
+      "url": "https://open.spotify.com/track/2TQxrmwp570FOy45G5Au53"
+    },
+    {
+      "album": {
+        "name": "Barata y Descont\u00f3n",
+        "url": "https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u"
+      },
+      "artists": [
+        {
+          "name": "Los Estramboticos",
+          "url": "https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250011,
+      "name": "Barata y Descont\u00f3n",
+      "url": "https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211905,
+      "name": "Buscando Amor en la Calle",
+      "url": "https://open.spotify.com/track/36qNWwZLVrAoKTlS1QDEel"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-16",
+      "duration_ms": 337760,
+      "name": "Camino del Coraz\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/1NfU4PeExNXqHh1vT2ytiT"
+    },
+    {
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263640,
+      "name": "Campe\u00f3n",
+      "url": "https://open.spotify.com/track/43g4eMXbhgpNY5tWXXVFmC"
+    },
+    {
+      "album": {
+        "name": "Pares y Duetos: Disco 1",
+        "url": "https://open.spotify.com/album/41FihoRRlBH8E1xHgfkhpV"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 245066,
+      "name": "Como las Hojas",
+      "url": "https://open.spotify.com/track/2WtlUoUJHSjrOFZg3VGgOv"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 221826,
+      "name": "Debe Haber un Lugar",
+      "url": "https://open.spotify.com/track/5c0ZzLnCkk4Hqp3kXy8lYS"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 221826,
+      "name": "Debe Haber un Lugar",
+      "url": "https://open.spotify.com/track/5nPsoszhdGDXXx4CkuFhVv"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179350,
+      "name": "El Chamuco",
+      "url": "https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156966,
+      "name": "El Haragan",
+      "url": "https://open.spotify.com/track/6q0uy2hmYd96K3xFOFp65e"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 157942,
+      "name": "El Harag\u00e1n",
+      "url": "https://open.spotify.com/track/79t9WUQOc5n6xAD0DRO9rW"
+    },
+    {
+      "album": {
+        "name": "Delincuentes Con Placa",
+        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253653,
+      "name": "El No Lo Mato",
+      "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233964,
+      "name": "El Primer Destino",
+      "url": "https://open.spotify.com/track/6tKjGBp1J42BG0TkhB8nY1"
+    },
+    {
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244746,
+      "name": "En Alg\u00fan Lugar en el Cielo",
+      "url": "https://open.spotify.com/track/6uRi7gpG1xlAO7BycXs1x3"
+    },
+    {
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 2",
+        "url": "https://open.spotify.com/album/7HZJJvCk1dP3YSAoLioVW4"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 260493,
+      "name": "En el Coraz\u00f3n No Hay Nada",
+      "url": "https://open.spotify.com/track/2GaQ2eVyQLg3Lul8HYwZKr"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261503,
+      "name": "En el Coraz\u00f3n No Hay Nada",
+      "url": "https://open.spotify.com/track/4b3DzbDuJ04bWTV79nSUFv"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326133,
+      "name": "En los A\u00f1os 30 - En Vivo",
+      "url": "https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231410,
+      "name": "En los A\u00f1os Treintas",
+      "url": "https://open.spotify.com/track/4ln59NsJPYXzc76BRUAwAw"
+    },
+    {
+      "album": {
+        "name": "Vive Una Noche M\u00e1gica (En Vivo)",
+        "url": "https://open.spotify.com/album/2fcpmQSdUp1667ydxqjFhi"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 346386,
+      "name": "Enamorada De Un Amigo M\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/4pzmHhjozylrw2GyEzf6w4"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243159,
+      "name": "J.C. Del Barrio",
+      "url": "https://open.spotify.com/track/3S6ijIIkgWjQFA80cH7Q02"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155852,
+      "name": "Juan el Descuartizador",
+      "url": "https://open.spotify.com/track/0p9Bwi2HvvPNhvEdo4972S"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197044,
+      "name": "La Ultima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2K2ezQeRp5uqmZxZdMrEAJ"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210094,
+      "name": "La Vida",
+      "url": "https://open.spotify.com/track/2VoimIOSwcWKXi4mGfcw59"
+    },
+    {
+      "album": {
+        "name": "Ra\u00edces (Blues)",
+        "url": "https://open.spotify.com/album/47rNdwCYK03r88tVbjrHJP"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Andrew \"Jr Boy\" Jones",
+          "url": "https://open.spotify.com/artist/7bAJqc9QEfRjLeSEVuWf6c"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 191160,
+      "name": "Llor\u00e9, Llor\u00e9, Llor\u00e9",
+      "url": "https://open.spotify.com/track/5Mw6WWOT9hlB6UbQKcgiqR"
+    },
+    {
+      "album": {
+        "name": "Rock Sin Visa, Vol. 5",
+        "url": "https://open.spotify.com/album/0AyiNIjnVL9xXOcQTIGEOp"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264493,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/1NB4NTBumjc0NHZzi0KmJh"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188917,
+      "name": "Mi Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233778,
+      "name": "Morir de Noche",
+      "url": "https://open.spotify.com/track/0mspoCwPtNxGPImRNALg3n"
+    },
+    {
+      "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275266,
+      "name": "Mujer de Hotel",
+      "url": "https://open.spotify.com/track/4e04rx2va5YIQE1s231gi1"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1equita Sint\u00e9tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-03",
+      "duration_ms": 283488,
+      "name": "Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1equita Sint\u00e9tica",
+        "url": "https://open.spotify.com/album/3pAbzsdOcyO4WBOsOVBjA0"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "date_added": "2024-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283488,
+      "name": "Mu\u00f1equita Sint\u00e9tica",
+      "url": "https://open.spotify.com/track/7G3S3F0Jrosbw3SD91KW0F"
+    },
+    {
+      "album": {
+        "name": "Mu\u00f1equita Sint\u00e9tica (En Vivo)",
+        "url": "https://open.spotify.com/album/4p9qyFiCvpE3BkgKQHdGf2"
+      },
+      "artists": [
+        {
+          "name": "Aaron Y Su Grupo Ilusion",
+          "url": "https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-29",
+      "duration_ms": 389946,
+      "name": "Mu\u00f1equita Sint\u00e9tica - En Vivo",
+      "url": "https://open.spotify.com/track/0gfKBEqDYugm5EHcz6phNs"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 347013,
+      "name": "Nena - En Vivo",
+      "url": "https://open.spotify.com/track/0g0dTi9c09eqbyezuzR1v6"
+    },
+    {
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181394,
+      "name": "No Estoy Muerto",
+      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306503,
+      "name": "Otro D\u00eda",
+      "url": "https://open.spotify.com/track/2g44zupqx5AajCy6XD5fMT"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Pi\u00e9nsalo Bien",
+      "url": "https://open.spotify.com/track/7fPPYqgfosDlvpKlmU6UHj"
+    },
+    {
+      "album": {
+        "name": "Delincuentes Con Placa",
+        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229426,
+      "name": "Polic\u00eda Chacal",
+      "url": "https://open.spotify.com/track/6QrFIhcq4EaclMmeC2cdgX"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177911,
+      "name": "Por los Gluteos de Mi Novia",
+      "url": "https://open.spotify.com/track/7hcMjVJ5x1qVPQu39Szpqn"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fastico en Vivo",
+        "url": "https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60920,
+      "name": "Presentaci\u00f3n, Pt. 2 - En Vivo",
+      "url": "https://open.spotify.com/track/6dEz0ipVf1uCeMHnO57yRC"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/716oCpYaFSnR7CUZWro5Tu"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/0KROw0m8ruvn7LaWA5uYhy"
+    },
+    {
+      "album": {
+        "name": "Volviendo a Casa",
+        "url": "https://open.spotify.com/album/7HMKw1qzzztQ0LrOhAzDVf"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-07",
+      "duration_ms": 189453,
+      "name": "Puedes Decir",
+      "url": "https://open.spotify.com/track/5vnDhoFEOXK3UKbyBn7PLK"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157524,
+      "name": "Purgante de Amor",
+      "url": "https://open.spotify.com/track/6GVpCnofpTAB8JaBtzaRUu"
+    },
+    {
+      "album": {
+        "name": "Rebel Cats Y Sus Amigos",
+        "url": "https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw"
+      },
+      "artists": [
+        {
+          "name": "Rebel Cats",
+          "url": "https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 196080,
+      "name": "Rebel Blues",
+      "url": "https://open.spotify.com/track/3fWnWeIoR1WDqh1ZjxTnbf"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194676,
+      "name": "Saber Amar",
+      "url": "https://open.spotify.com/track/0bcTjLBR0N4AHAlkIIlVNM"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197230,
+      "name": "Se Mujer",
+      "url": "https://open.spotify.com/track/3G3q1cJpEp9qu0Csrw0tda"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182694,
+      "name": "Sobrevivi",
+      "url": "https://open.spotify.com/track/2Sn5IUotjtSlx8G0I9Q1Gy"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 183576,
+      "name": "Sue\u00f1os de la Ciudad",
+      "url": "https://open.spotify.com/track/1vF4DBQzM7bEPjemMek3GK"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212601,
+      "name": "Tengo un Acoholico en Mi Casa",
+      "url": "https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL"
+    },
+    {
+      "album": {
+        "name": "A Capella, Vol. 2",
+        "url": "https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172106,
+      "name": "Tiempo de Lluvia",
+      "url": "https://open.spotify.com/track/62q7wFJlatHdc5f7X9EfAX"
+    },
+    {
+      "album": {
+        "name": "Trenes Y Gatos",
+        "url": "https://open.spotify.com/album/1B7ZGa6Xvr4QBUs2FS5jQF"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos Rockabilly",
+          "url": "https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-06-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185237,
+      "name": "Trenes Y Gatos",
+      "url": "https://open.spotify.com/track/3LiYUEfNWqlyWNGJpJoqqv"
+    },
+    {
+      "album": {
+        "name": "Rock Que Se Comparte",
+        "url": "https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223468,
+      "name": "Tu Te las Tomaste S\u00f3lo",
+      "url": "https://open.spotify.com/track/0E71YpNaDKT3dibeQ5jPwU"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192214,
+      "name": "Tuve un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT"
+    },
+    {
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-31",
+      "duration_ms": 193920,
+      "name": "Tuve un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/3ppByciySUKj5peYAhF9fu"
+    },
+    {
+      "album": {
+        "name": "El Mas Grande Homenaje A Los Tigres Del Norte (Reissue)",
+        "url": "https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306293,
+      "name": "Un D\u00eda A La Vez",
+      "url": "https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu"
+    },
+    {
+      "album": {
+        "name": "\u00c1nimas",
+        "url": "https://open.spotify.com/album/0PeZWdSpAE6OPz2awjer34"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205893,
+      "name": "Una Oportunidad",
+      "url": "https://open.spotify.com/track/7hFNHNj8LKHZq9QBoaAfhm"
+    },
+    {
+      "album": {
+        "name": "15 \u00c9xitos de Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225094,
+      "name": "Urbanidad",
+      "url": "https://open.spotify.com/track/2NeGTh2VbfJHEXOxhVa3Ku"
+    },
+    {
+      "album": {
+        "name": "En Alg\u00fan Lugar en el Cielo",
+        "url": "https://open.spotify.com/album/6Yf17T7xGRB0lMdGfNokEg"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 269106,
+      "name": "Vivir por Vivir",
+      "url": "https://open.spotify.com/track/6Hok72DzGIdQs7UITndTrp"
+    },
+    {
+      "album": {
+        "name": "A Capela, Vol. 1 (Canciones para Escuchar)",
+        "url": "https://open.spotify.com/album/6uxNb9jYOZllR0lv8tPmzE"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264150,
+      "name": "Y Es por Eso Que Me Voy",
+      "url": "https://open.spotify.com/track/4fZEwW4lSFMm6l6PL5bfT4"
+    },
+    {
+      "album": {
+        "name": "Y T\u00fa C\u00f3mo Lo Sabes?",
+        "url": "https://open.spotify.com/album/48KpFIYPAifu0M6O4z7Bd4"
+      },
+      "artists": [
+        {
+          "name": "Riesgo de Contagio",
+          "url": "https://open.spotify.com/artist/5xwNWlB2SB0yzaAQOgcysm"
+        },
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 258668,
+      "name": "Y T\u00fa C\u00f3mo Lo Sabes? - Like Heaven Club Mix",
+      "url": "https://open.spotify.com/track/50DdzGb5A01K43n5PNZMEi"
+    },
+    {
+      "album": {
+        "name": "Yayo",
+        "url": "https://open.spotify.com/album/7L3dnKcqyEBW1lNXf5p4wf"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237693,
+      "name": "Yayo",
+      "url": "https://open.spotify.com/track/554UiqN2TguT6PGTBAJGUo"
+    },
+    {
+      "album": {
+        "name": "Yayo",
+        "url": "https://open.spotify.com/album/2TSkUQe12aXNJakjM5HSNA"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 238548,
+      "name": "Yayo",
+      "url": "https://open.spotify.com/track/1SpQUbVwRRo4hbrgJxSKwI"
+    },
+    {
+      "album": {
+        "name": "En el Coraz\u00f3n No Hay Nada",
+        "url": "https://open.spotify.com/album/0MgT5ax9TFZL9ltKrLs5M3"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "date_added": "2023-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266054,
+      "name": "Yo Pensaba Que",
+      "url": "https://open.spotify.com/track/5ADp0XZZ9yyzVJ08qwprdp"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C5R5V"
 }

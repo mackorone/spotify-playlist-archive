@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: HANRORO(\ud55c\ub85c\ub85c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: \baespa) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -449,6 +449,24 @@
     },
     {
       "album": {
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/6Ux7J1ECzNHlKWw8GOxYNs"
+      },
+      "artists": [
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/0DvArwBhUjoOaRjluR7gCr"
+    },
+    {
+      "album": {
         "name": "An Ordinary Day",
         "url": "https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS"
       },
@@ -554,7 +572,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 330250,
       "name": "APEX",
       "url": "https://open.spotify.com/track/5Fo2XhCLFLa1u4yK08VWbi"
@@ -612,6 +630,24 @@
       "duration_ms": 251693,
       "name": "Aspirin Overdose",
       "url": "https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA"
+    },
+    {
+      "album": {
+        "name": "Astronaut Boy",
+        "url": "https://open.spotify.com/album/6HC3e0omLtCmfc74SvSoLO"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/39TCqSkrws4pxZBNtcxIwP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 146165,
+      "name": "Astronaut Boy",
+      "url": "https://open.spotify.com/track/63AIIigBWh2K3zjuFvvYF8"
     },
     {
       "album": {
@@ -1974,6 +2010,24 @@
       "duration_ms": 193129,
       "name": "Do You Need A Rockstar",
       "url": "https://open.spotify.com/track/0L9R16R8rPZbn0OiApMi69"
+    },
+    {
+      "album": {
+        "name": "Present",
+        "url": "https://open.spotify.com/album/0eia9DMR5uq7qYcmhxxFzq"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 187640,
+      "name": "Do-re-mi-fa",
+      "url": "https://open.spotify.com/track/0QfAVkbO0cxDe6ibSnQW4c"
     },
     {
       "album": {
@@ -4964,7 +5018,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 185733,
       "name": "MAISON",
       "url": "https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e"
@@ -6372,7 +6426,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 218823,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/5qA0Ks0QbF95BLz5QegTQR"
@@ -6596,6 +6650,42 @@
       "duration_ms": 221760,
       "name": "Reference",
       "url": "https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal"
+    },
+    {
+      "album": {
+        "name": "Regret of the Times (2024 aespa Remake Version) - SM STATION",
+        "url": "https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171946,
+      "name": "Regret of the Times - 2024 aespa Remake Version",
+      "url": "https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA"
+    },
+    {
+      "album": {
+        "name": "Regret of the Times (2024 Remastered Version)",
+        "url": "https://open.spotify.com/album/0DVYKxYfMt8kUGav5K3bqq"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208373,
+      "name": "Regret of the Times - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST"
     },
     {
       "album": {
@@ -8386,7 +8476,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 246933,
       "name": "The Last Flower",
       "url": "https://open.spotify.com/track/2R4szKHlna6ZcCcA3jXLfv"
@@ -8480,6 +8570,24 @@
       "duration_ms": 208253,
       "name": "The Queen",
       "url": "https://open.spotify.com/track/4YR8iin9SJtZluXD0s1LoZ"
+    },
+    {
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/3lZxrczzvuxPrbJYf8Sdyo"
+      },
+      "artists": [
+        {
+          "name": "KYUHYUN",
+          "url": "https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256120,
+      "name": "The Story Behind",
+      "url": "https://open.spotify.com/track/1FjIg32VDdvHabecHKpe03"
     },
     {
       "album": {
@@ -9298,7 +9406,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-13",
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"

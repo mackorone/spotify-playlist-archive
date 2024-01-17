@@ -4,10 +4,11 @@
 
 > Aesthetic vibes that just make sense.
 
-67 songs - 2 hr 39 min
+70 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [5:32pm](https://open.spotify.com/track/0Q2LHrREFF9rtX3PuMUoNL) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/1AKUaQMs0kRryyi18h31o0) | 2:16 | 2022-02-02 |  |
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2022-02-02 | 2024-01-02 |
 | [Aesthetic](https://open.spotify.com/track/5nQfC1vjISMUlstveJG7Ge) | [Xilo](https://open.spotify.com/artist/63kE1M6nlHBGwRttAc4Q6Z) | [Aesthetic](https://open.spotify.com/album/3OWiPXLWYWCvQ9nIKvTQkk) | 2:38 | 2022-02-02 |  |
 | [Aesthetic Girl](https://open.spotify.com/track/0bCgcTDkZ1RhguEeuUhZ9k) | [Yusei](https://open.spotify.com/artist/0K3Jtj8PRdPfgYLua8X1dv) | [Aesthetic Girl](https://open.spotify.com/album/3QgMgH7PvDaVyRCwjrSJOX) | 4:18 | 2022-02-02 |  |
@@ -25,7 +26,7 @@
 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 | 2022-02-02 |  |
 | [Flaming Hot Cheetos](https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Flaming Hot Cheetos](https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE) | 2:03 | 2022-02-02 |  |
 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 | 2022-02-02 |  |
-| [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 | 2022-02-02 |  |
+| [fountain](https://open.spotify.com/track/35D1qs5m12ATl5WhkiunHT) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [recreation](https://open.spotify.com/album/7is9hZHWtLUcsfKlOd7TJg) | 1:52 | 2022-02-02 | 2024-01-15 |
 | [Getsomerest/sleepwell](https://open.spotify.com/track/2RycgtfFQZOPgEGrzBGE0j) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Quickly Quickly, Vol\. 1](https://open.spotify.com/album/2JhVhsYSe65vunncE4AYV1) | 5:32 | 2022-02-02 |  |
 | [Gravity Falls](https://open.spotify.com/track/7HWaB2AEfyhAUEPkW9G4ni) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Gravity Falls](https://open.spotify.com/album/1iMSGts0m62uVAmvCxIxiG) | 1:54 | 2022-02-02 |  |
 | [Her](https://open.spotify.com/track/2koESjC2WBc6qmfg0dmTRt) | [eery](https://open.spotify.com/artist/2nu6ZVLgiNcRcWgDKUjplH) | [Her](https://open.spotify.com/album/3fr8eTKmfc0cjaijl4lduW) | 2:03 | 2022-02-02 |  |
@@ -33,6 +34,7 @@
 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/track/7wfSTHU2eVUFw2gErRxe65) | [Alan Kittza](https://open.spotify.com/artist/021SWwsqcZJY6PSg8m5s4Q) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/album/2aYVlvE7FHPL1nqChkUGH8) | 2:01 | 2022-02-02 | 2023-05-23 |
 | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/track/1p80DshsPD0zgGt2CPVBSm) | [DJ BYmoment](https://open.spotify.com/artist/3rhFSNJH1jYyJpV7oEJiuC) | [I J u s t W a n t t o B e t h e O n e Y o u L o v e e e](https://open.spotify.com/album/1X78wB7bRT0uj1Yf9sFFuR) | 2:01 | 2022-02-02 | 2023-12-11 |
 | [I Just Want to Be the One You Love](https://open.spotify.com/track/5H92IwQV1tExrJPDXLyt9B) | [Cryst](https://open.spotify.com/artist/4lcbS3LY6esSieMOVMqDZJ) | [I Just Want to Be the One You Love](https://open.spotify.com/album/5BznSldvTpx5T4MnFtvAin) | 2:01 | 2022-02-02 | 2023-05-01 |
+| [I Just Want to Be the One You Love](https://open.spotify.com/track/14Piy75hBHDlrEDe6DyFKo) | [ibrk12](https://open.spotify.com/artist/6tAS2a4TtQOaLYgsS74y3x), [Lwov](https://open.spotify.com/artist/2F8Zi5vFQzxCjdi3NGJG16) | [I Just Want to Be the One You Love](https://open.spotify.com/album/0KOmsSXEsoSOvhxBpTQ1w9) | 2:01 | 2022-02-02 |  |
 | [I Want You](https://open.spotify.com/track/4oRtFezcZWGXjzO7VQXNuU) | [ixxy](https://open.spotify.com/artist/6UkBTmDCB8Z472HbktpJS1) | [I Want You](https://open.spotify.com/album/0rBXcXoqmNB230XbjwbxG3) | 1:58 | 2022-02-02 | 2023-01-25 |
 | [I'll Bite Your Soul](https://open.spotify.com/track/71qKWIBggc7poNXclWN53M) | [SHRK](https://open.spotify.com/artist/3bDsGKWVVP8NdrqpiB0rEp), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Love](https://open.spotify.com/album/4zjCyRjagCO2YX65OBCQKK) | 2:03 | 2022-02-02 |  |
 | [i'm closing my eyes](https://open.spotify.com/track/3NsuucK8qXpIJf7KPZX7vq) | [potsu](https://open.spotify.com/artist/5XE0fiZWGbq9TcSuWwJ1fA) | [i'm closing my eyes](https://open.spotify.com/album/6FtXX2HPycaq0pHSF4HaVK) | 1:58 | 2022-02-02 | 2022-12-15 |
@@ -59,7 +61,7 @@
 | [sincerely, yours](https://open.spotify.com/track/3gV0E3N4uOcoNsbxLkGWkp) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [osho](https://open.spotify.com/album/3IeZJRDlyJdbgF64pkMlqc) | 2:19 | 2022-02-02 |  |
 | [Sorry, I Like You](https://open.spotify.com/track/34MqDD3411uJQvXsqpZv3D) | [Burbank](https://open.spotify.com/artist/4iHB5bp1wwN5qTbVPaBykO) | [Sorry, I Like You](https://open.spotify.com/album/7EZ0zxMKXkJZGZBESFJZGA) | 2:02 | 2022-02-02 |  |
 | [Steven Universe](https://open.spotify.com/track/7zkA4TSmYO1Bko2PnFn0YB) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [Steven Universe](https://open.spotify.com/album/5jM0CBYMJh1J5vcxR0DzM5) | 2:14 | 2022-02-02 |  |
-| [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 | 2022-02-02 |  |
+| [Summer Picnic](https://open.spotify.com/track/5qLIUUbJUlb3aXEiDThZef) | [Jordy Chandra](https://open.spotify.com/artist/28VbaiiRmV4vk9O5ykVvCh) | [Summer Picnic](https://open.spotify.com/album/6U05K7fOYSMkZ7qJuKCVND) | 1:55 | 2022-02-02 | 2024-01-13 |
 | [Sunday](https://open.spotify.com/track/6hljcHcXCHYsYJph2WmENk) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Sunday](https://open.spotify.com/album/4VTOytGXwnkNkggIND58d8) | 3:00 | 2022-02-02 |  |
 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-02-02 |  |
 | [The Loser](https://open.spotify.com/track/0yTGQpPOgcsS8Xqp5bQO58) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [The Loser](https://open.spotify.com/album/77bm4AHldCf4STieStlVJg) | 2:11 | 2022-02-02 |  |
@@ -68,12 +70,13 @@
 | [this girl](https://open.spotify.com/track/6AknQdo6L05nsY2aQsxCFi) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 2:02 | 2022-02-02 |  |
 | [Tired Boy](https://open.spotify.com/track/4BrhZASiyGjVr5mjh6Ciwq) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Tired Boy](https://open.spotify.com/album/22FRiZs4mG1fUZslYCcaWi) | 4:15 | 2022-02-02 |  |
 | [To the Girl With Red Converse](https://open.spotify.com/track/4rM66iPZNDZlq4V6g3GLz6) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/3R5ky3UbYYHGQJR1Ah7wfd) | 2:23 | 2022-02-02 | 2023-12-09 |
+| [To the Girl With Red Converse](https://open.spotify.com/track/2YTtjhY9zEAHESbozqrkkB) | [Jackie Xan](https://open.spotify.com/artist/2ykxC1VJhlsCrfLfuFEcL1) | [To the Girl With Red Converse](https://open.spotify.com/album/7h1W4dSDEbc1NUnK16MXhq) | 2:23 | 2022-02-02 |  |
 | [viola](https://open.spotify.com/track/2U42jVkNgEU6DoM64eFD7i) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1o6jIyr6byHhgU8Y1EpvZV) | 1:26 | 2022-02-02 | 2023-01-14 |
 | [viola](https://open.spotify.com/track/4HMWw4uQBzqXq0Y8uye9J8) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [unexpected](https://open.spotify.com/album/1FSH709UYOnXifCr9mihgJ) | 1:26 | 2022-02-02 |  |
 | [waking up in the park](https://open.spotify.com/track/278zobyI14d3iaE39jGfHM) | [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [waking up in the park](https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod) | 1:08 | 2022-02-02 |  |
 | [walk but in a garden](https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj) | [LLusion](https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb) | [walk but in a garden](https://open.spotify.com/album/03Glq418UekVfi6ud34yeg) | 1:54 | 2022-02-02 |  |
 | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/track/1F0a3Au8NIpoRP7PVdO1YR) | [TSUKI](https://open.spotify.com/artist/5JUQJ7KsNBUfvga48DbmAf), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Who? \(feat\. Shiloh Dynasty\)](https://open.spotify.com/album/6hS1GnERLOTXde2WYhUzCL) | 2:37 | 2022-02-02 |  |
 | [worldstar money \(interlude\)](https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315) | 2:06 | 2022-02-02 |  |
-| [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 | 2022-02-02 |  |
+| [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 | 2022-02-02 | 2024-01-05 |
 
 \*This playlist was first scraped on 2022-12-04. Prior content cannot be recovered.

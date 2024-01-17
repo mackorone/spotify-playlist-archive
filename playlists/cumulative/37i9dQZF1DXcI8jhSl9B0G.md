@@ -4,7 +4,7 @@
 
 > Tunes for sun drenched days and balmy nights.
 
-136 songs - 8 hr 7 min
+137 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Evermore](https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Evermore](https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy) | 3:43 | 2021-11-30 |  |
 | [Every Side Of You](https://open.spotify.com/track/1tLQcfwXi8Hbu4hamp7tQ5) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:24 | 2022-11-30 |  |
 | [Fairyland](https://open.spotify.com/track/6CVtLr3bbHUYaLrgBylLXZ) | [Little Green](https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy), [Holly](https://open.spotify.com/artist/0CYjis6hfG45tEhjGMNL33) | [The Night EP](https://open.spotify.com/album/3mZWoEDVRirGx81IpkwCrT) | 3:51 | 2021-11-30 | 2022-12-01 |
-| [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 | 2021-11-30 |  |
+| [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 | 2021-11-30 | 2024-01-09 |
 | [Feeling Fine](https://open.spotify.com/track/7nFzhJY6qquGuYp5SZkSMF) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Feeling Fine](https://open.spotify.com/album/1d4NX4I7UalL37vhDKNJKM) | 3:15 | 2021-11-30 | 2022-12-01 |
 | [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 | 2023-11-17 |  |
 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 | 2022-11-30 |  |
@@ -107,8 +107,9 @@
 | [Sea and Fire \- Acoustic](https://open.spotify.com/track/23lLbj85ofABLP5kBG9GPh) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sea and Fire \(Acoustic\)](https://open.spotify.com/album/1v989yGTagSqYfEK97vRrx) | 3:14 | 2023-03-08 | 2023-11-18 |
 | [seasons](https://open.spotify.com/track/3r0S9KmnTN5I9ohMd37d1f) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [seasons](https://open.spotify.com/album/2BWW9KdZt9Mbw8JVjrUJBE) | 3:40 | 2023-11-30 |  |
 | [She Came Back with Rainbows](https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [She Came Back with Rainbows](https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO) | 3:50 | 2022-11-30 |  |
-| [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 | 2022-11-30 | 2023-12-09 |
+| [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 | 2022-11-30 | 2024-01-15 |
 | [Sirens](https://open.spotify.com/track/1w03K9ePtRmWKVwwEgRKvB) | [Seph Cove](https://open.spotify.com/artist/1cwhYOFjPswXuRKLrwJrff) | [Sirens](https://open.spotify.com/album/7D2B8DNjDOauyMGPHmRLTK) | 3:18 | 2021-11-30 | 2022-12-01 |
+| [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 | 2023-11-30 |  |
 | [Slow Running](https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Slow Running](https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF) | 4:22 | 2023-11-17 |  |
 | [Smile At The Party](https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8) | [The Happiest Kind of Sad](https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q) | [Smile At The Party](https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7) | 4:26 | 2023-11-17 |  |
 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 | 2022-11-30 | 2023-11-18 |

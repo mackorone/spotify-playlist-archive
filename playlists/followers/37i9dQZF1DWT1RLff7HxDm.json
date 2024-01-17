@@ -1,735 +1,2871 @@
 {
-  "2021-12-25": 123720,
-  "2021-12-26": 123782,
-  "2021-12-27": 123886,
-  "2021-12-28": 123886,
-  "2021-12-29": 123948,
-  "2021-12-30": 123999,
-  "2021-12-31": 124075,
-  "2022-01-01": 124183,
-  "2022-01-02": 124202,
-  "2022-01-03": 124258,
-  "2022-01-04": 124308,
-  "2022-01-05": 124358,
-  "2022-01-06": 124423,
-  "2022-01-07": 124478,
-  "2022-01-08": 124613,
-  "2022-01-09": 124615,
-  "2022-01-10": 124663,
-  "2022-01-11": 124710,
-  "2022-01-12": 124763,
-  "2022-01-13": 124818,
-  "2022-01-14": 124892,
-  "2022-01-15": 125034,
-  "2022-01-16": 125038,
-  "2022-01-17": 125191,
-  "2022-01-18": 125193,
-  "2022-01-19": 125235,
-  "2022-01-20": 125302,
-  "2022-01-21": 125351,
-  "2022-01-22": 125420,
-  "2022-01-23": 125501,
-  "2022-01-24": 125560,
-  "2022-01-25": 125628,
-  "2022-01-26": 125696,
-  "2022-01-27": 125743,
-  "2022-01-28": 125812,
-  "2022-01-29": 125874,
-  "2022-01-30": 125958,
-  "2022-01-31": 126008,
-  "2022-02-01": 126059,
-  "2022-02-02": 126102,
-  "2022-02-03": 126174,
-  "2022-02-04": 126219,
-  "2022-02-05": 126273,
-  "2022-02-06": 126346,
-  "2022-02-07": 126402,
-  "2022-02-08": 126469,
-  "2022-02-09": 126522,
-  "2022-02-10": 126563,
-  "2022-02-11": 126628,
-  "2022-02-12": 126703,
-  "2022-02-13": 126784,
-  "2022-02-14": 126846,
-  "2022-02-15": 126886,
-  "2022-02-16": 126933,
-  "2022-02-17": 126988,
-  "2022-02-18": 127030,
-  "2022-02-19": 127073,
-  "2022-02-20": 127145,
-  "2022-02-21": 127200,
-  "2022-02-22": 127244,
-  "2022-02-23": 127292,
-  "2022-02-24": 127355,
-  "2022-02-25": 127402,
-  "2022-02-26": 127473,
-  "2022-02-27": 127597,
-  "2022-02-28": 127597,
-  "2022-03-01": 127649,
-  "2022-03-02": 127688,
-  "2022-03-03": 127744,
-  "2022-03-04": 127798,
-  "2022-03-05": 127860,
-  "2022-03-06": 127921,
-  "2022-03-07": 128007,
-  "2022-03-08": 128066,
-  "2022-03-09": 128130,
-  "2022-03-10": 128200,
-  "2022-03-11": 128270,
-  "2022-03-12": 128354,
-  "2022-03-13": 128429,
-  "2022-03-14": 128493,
-  "2022-03-15": 128546,
-  "2022-03-16": 128605,
-  "2022-03-17": 128665,
-  "2022-03-18": 128735,
-  "2022-03-19": 128791,
-  "2022-03-20": 128791,
-  "2022-03-21": 128925,
-  "2022-03-22": 128984,
-  "2022-03-23": 129049,
-  "2022-03-24": 129084,
-  "2022-03-25": 129132,
-  "2022-03-26": 129202,
-  "2022-03-27": 129273,
-  "2022-03-28": 129344,
-  "2022-03-30": 129425,
-  "2022-03-31": 129493,
-  "2022-04-01": 129552,
-  "2022-04-02": 129623,
-  "2022-04-03": 129704,
-  "2022-04-04": 129783,
-  "2022-04-05": 129841,
-  "2022-04-06": 129899,
-  "2022-04-07": 129966,
-  "2022-04-08": 130029,
-  "2022-04-09": 130102,
-  "2022-04-10": 130244,
-  "2022-04-11": 130297,
-  "2022-04-12": 130296,
-  "2022-04-13": 130356,
-  "2022-04-14": 130443,
-  "2022-04-15": 130504,
-  "2022-04-16": 130609,
-  "2022-04-17": 130703,
-  "2022-04-18": 130787,
-  "2022-04-19": 130835,
-  "2022-04-20": 130886,
-  "2022-04-21": 130936,
-  "2022-04-22": 131016,
-  "2022-04-23": 131095,
-  "2022-04-24": 131173,
-  "2022-04-25": 131244,
-  "2022-04-26": 131313,
-  "2022-04-27": 131389,
-  "2022-04-28": 131473,
-  "2022-04-29": 131590,
-  "2022-04-30": 131693,
-  "2022-05-01": 131789,
-  "2022-05-02": 131789,
-  "2022-05-03": 131847,
-  "2022-05-04": 131906,
-  "2022-05-05": 131974,
-  "2022-05-06": 132040,
-  "2022-05-07": 132114,
-  "2022-05-08": 132222,
-  "2022-05-09": 132235,
-  "2022-05-10": 132303,
-  "2022-05-11": 132373,
-  "2022-05-12": 132439,
-  "2022-05-13": 132498,
-  "2022-05-14": 132575,
-  "2022-05-15": 132641,
-  "2022-05-16": 132706,
-  "2022-05-17": 132768,
-  "2022-05-18": 132825,
-  "2022-05-19": 132895,
-  "2022-05-20": 132969,
-  "2022-05-21": 133098,
-  "2022-05-22": 133098,
-  "2022-05-23": 133155,
-  "2022-05-24": 133193,
-  "2022-05-25": 133263,
-  "2022-05-26": 133319,
-  "2022-05-27": 133382,
-  "2022-05-28": 133446,
-  "2022-05-29": 133501,
-  "2022-05-30": 133564,
-  "2022-05-31": 133638,
-  "2022-06-01": 133739,
-  "2022-06-02": 133746,
-  "2022-06-03": 133812,
-  "2022-06-04": 133878,
-  "2022-06-05": 133951,
-  "2022-06-06": 134013,
-  "2022-06-07": 134062,
-  "2022-06-08": 134125,
-  "2022-06-09": 134185,
-  "2022-06-10": 134228,
-  "2022-06-11": 134299,
-  "2022-06-12": 134354,
-  "2022-06-13": 134423,
-  "2022-06-14": 134489,
-  "2022-06-15": 134558,
-  "2022-06-16": 134629,
-  "2022-06-17": 134704,
-  "2022-06-18": 134754,
-  "2022-06-19": 134908,
-  "2022-06-20": 134908,
-  "2022-06-21": 134933,
-  "2022-06-22": 135075,
-  "2022-06-23": 135075,
-  "2022-06-24": 135134,
-  "2022-06-25": 135183,
-  "2022-06-26": 135239,
-  "2022-06-27": 135297,
-  "2022-06-28": 135347,
-  "2022-06-29": 135379,
-  "2022-06-30": 135437,
-  "2022-07-01": 135500,
-  "2022-07-02": 135551,
-  "2022-07-03": 135604,
-  "2022-07-04": 135678,
-  "2022-07-05": 135729,
-  "2022-07-06": 135780,
-  "2022-07-07": 135846,
-  "2022-07-08": 135890,
-  "2022-07-09": 135942,
-  "2022-07-10": 135974,
-  "2022-07-11": 136031,
-  "2022-07-12": 136092,
-  "2022-07-13": 136138,
-  "2022-07-14": 136189,
-  "2022-07-15": 136239,
-  "2022-07-16": 136285,
-  "2022-07-17": 136347,
-  "2022-07-18": 136421,
-  "2022-07-19": 136494,
-  "2022-07-20": 136541,
-  "2022-07-21": 136591,
-  "2022-07-22": 136648,
-  "2022-07-23": 136717,
-  "2022-07-24": 136786,
-  "2022-07-25": 136870,
-  "2022-07-26": 136926,
-  "2022-07-27": 136974,
-  "2022-07-28": 137013,
-  "2022-07-29": 137076,
-  "2022-07-30": 137210,
-  "2022-07-31": 137210,
-  "2022-08-01": 137283,
-  "2022-08-02": 137384,
-  "2022-08-03": 137384,
-  "2022-08-04": 137430,
-  "2022-08-05": 137493,
-  "2022-08-06": 137576,
-  "2022-08-07": 137641,
-  "2022-08-08": 137691,
-  "2022-08-09": 137750,
-  "2022-08-10": 137790,
-  "2022-08-11": 137848,
-  "2022-08-12": 137903,
-  "2022-08-13": 137967,
-  "2022-08-14": 138028,
-  "2022-08-15": 138102,
-  "2022-08-16": 138156,
-  "2022-08-17": 138218,
-  "2022-08-18": 138272,
-  "2022-08-19": 138333,
-  "2022-08-20": 138407,
-  "2022-08-21": 138489,
-  "2022-08-22": 138566,
-  "2022-08-23": 138626,
-  "2022-08-24": 138690,
-  "2022-08-25": 138749,
-  "2022-08-26": 138813,
-  "2022-08-27": 138888,
-  "2022-08-28": 138961,
-  "2022-08-29": 139025,
-  "2022-08-30": 139045,
-  "2022-08-31": 139092,
-  "2022-09-01": 139098,
-  "2022-09-02": 139093,
-  "2022-09-03": 139068,
-  "2022-09-04": 139019,
-  "2022-09-05": 139031,
-  "2022-09-06": 139086,
-  "2022-09-07": 139147,
-  "2022-09-09": 139235,
-  "2022-09-10": 139293,
-  "2022-09-11": 139334,
-  "2022-09-12": 139396,
-  "2022-09-13": 139437,
-  "2022-09-15": 139551,
-  "2022-09-16": 139601,
-  "2022-09-17": 139658,
-  "2022-09-18": 139731,
-  "2022-09-19": 139814,
-  "2022-09-20": 139863,
-  "2022-09-21": 139921,
-  "2022-09-22": 139969,
-  "2022-09-23": 140050,
-  "2022-09-24": 140103,
-  "2022-09-25": 140193,
-  "2022-09-26": 140265,
-  "2022-09-27": 140337,
-  "2022-09-28": 140400,
-  "2022-09-29": 140479,
-  "2022-09-30": 140534,
-  "2022-10-01": 140601,
-  "2022-10-02": 140679,
-  "2022-10-03": 140726,
-  "2022-10-04": 140780,
-  "2022-10-05": 140836,
-  "2022-10-06": 140883,
-  "2022-10-07": 140932,
-  "2022-10-08": 141009,
-  "2022-10-09": 141135,
-  "2022-10-10": 141147,
-  "2022-10-11": 141207,
-  "2022-10-12": 141260,
-  "2022-10-13": 141332,
-  "2022-10-14": 141398,
-  "2022-10-15": 141494,
-  "2022-10-16": 141578,
-  "2022-10-17": 141639,
-  "2022-10-18": 141695,
-  "2022-10-19": 141747,
-  "2022-10-20": 141799,
-  "2022-10-21": 141861,
-  "2022-10-22": 141934,
-  "2022-10-23": 142016,
-  "2022-10-24": 142072,
-  "2022-10-25": 142148,
-  "2022-10-26": 142214,
-  "2022-10-27": 142286,
-  "2022-10-28": 142344,
-  "2022-10-29": 142386,
-  "2022-10-30": 142445,
-  "2022-10-31": 142495,
-  "2022-11-01": 142549,
-  "2022-11-02": 142591,
-  "2022-11-03": 142638,
-  "2022-11-04": 142680,
-  "2022-11-05": 142755,
-  "2022-11-06": 142838,
-  "2022-11-07": 142918,
-  "2022-11-08": 142966,
-  "2022-11-09": 143027,
-  "2022-11-10": 143088,
-  "2022-11-11": 143161,
-  "2022-11-12": 143234,
-  "2022-11-13": 143294,
-  "2022-11-14": 143353,
-  "2022-11-15": 143401,
-  "2022-11-16": 143458,
-  "2022-11-17": 143534,
-  "2022-11-18": 143539,
-  "2022-11-19": 143522,
-  "2022-11-20": 143543,
-  "2022-11-21": 143604,
-  "2022-11-22": 143688,
-  "2022-11-23": 143771,
-  "2022-11-24": 143877,
-  "2022-11-25": 144032,
-  "2022-11-26": 144115,
-  "2022-11-27": 144187,
-  "2022-11-28": 144252,
-  "2022-11-29": 144299,
-  "2022-11-30": 144358,
-  "2022-12-01": 144440,
-  "2022-12-02": 144483,
-  "2022-12-03": 144528,
-  "2022-12-04": 144613,
-  "2022-12-05": 144670,
-  "2022-12-06": 144727,
-  "2022-12-07": 144774,
-  "2022-12-08": 144843,
-  "2022-12-09": 144920,
-  "2022-12-10": 144994,
-  "2022-12-11": 145069,
-  "2022-12-12": 145145,
-  "2022-12-13": 145221,
-  "2022-12-14": 145284,
-  "2022-12-15": 145363,
-  "2022-12-16": 145432,
-  "2022-12-17": 145513,
-  "2022-12-18": 145575,
-  "2022-12-19": 145633,
-  "2022-12-20": 145758,
-  "2022-12-21": 145758,
-  "2022-12-22": 145813,
-  "2022-12-24": 145939,
-  "2022-12-25": 145996,
-  "2022-12-26": 146057,
-  "2022-12-27": 146122,
-  "2022-12-28": 146181,
-  "2022-12-29": 146254,
-  "2022-12-30": 146315,
-  "2022-12-31": 146360,
-  "2023-01-01": 146411,
-  "2023-01-02": 146460,
-  "2023-01-03": 146520,
-  "2023-01-04": 146571,
-  "2023-01-05": 146632,
-  "2023-01-06": 146701,
-  "2023-01-07": 146827,
-  "2023-01-08": 146852,
-  "2023-01-09": 146921,
-  "2023-01-10": 146975,
-  "2023-01-11": 147057,
-  "2023-01-12": 147128,
-  "2023-01-13": 147215,
-  "2023-01-14": 147345,
-  "2023-01-15": 147380,
-  "2023-01-16": 147450,
-  "2023-01-17": 147503,
-  "2023-01-18": 147573,
-  "2023-01-19": 147647,
-  "2023-01-20": 147735,
-  "2023-01-21": 147814,
-  "2023-01-22": 147892,
-  "2023-01-23": 147969,
-  "2023-01-24": 148022,
-  "2023-01-25": 148081,
-  "2023-01-26": 148134,
-  "2023-01-27": 148214,
-  "2023-01-28": 148287,
-  "2023-01-29": 148353,
-  "2023-01-30": 148412,
-  "2023-01-31": 148412,
-  "2023-02-01": 148547,
-  "2023-02-02": 148613,
-  "2023-02-03": 148683,
-  "2023-02-04": 148768,
-  "2023-02-05": 148830,
-  "2023-02-06": 148909,
-  "2023-02-07": 148970,
-  "2023-02-08": 149101,
-  "2023-02-09": 149101,
-  "2023-02-10": 149159,
-  "2023-02-11": 149229,
-  "2023-02-12": 149355,
-  "2023-02-13": 149402,
-  "2023-02-14": 149402,
-  "2023-02-15": 149459,
-  "2023-02-16": 149518,
-  "2023-02-17": 149582,
-  "2023-02-18": 149757,
-  "2023-02-19": 149766,
-  "2023-02-20": 149828,
-  "2023-02-21": 149885,
-  "2023-02-22": 149956,
-  "2023-02-23": 150054,
-  "2023-02-24": 150128,
-  "2023-02-25": 150232,
-  "2023-02-26": 150290,
-  "2023-02-27": 150389,
-  "2023-02-28": 150389,
-  "2023-03-01": 150448,
-  "2023-03-02": 150501,
-  "2023-03-03": 150584,
-  "2023-03-04": 150660,
-  "2023-03-05": 150819,
-  "2023-03-06": 150819,
-  "2023-03-07": 150886,
-  "2023-03-08": 150942,
-  "2023-03-09": 151007,
-  "2023-03-10": 151054,
-  "2023-03-11": 151117,
-  "2023-03-12": 151182,
-  "2023-03-13": 151261,
-  "2023-03-14": 151303,
-  "2023-03-15": 151352,
-  "2023-03-16": 151405,
-  "2023-03-17": 151405,
-  "2023-03-18": 151533,
-  "2023-03-19": 151608,
-  "2023-03-20": 151664,
-  "2023-03-21": 151721,
-  "2023-03-22": 151792,
-  "2023-03-23": 151844,
-  "2023-03-24": 151844,
-  "2023-03-25": 151967,
-  "2023-03-26": 152033,
-  "2023-03-27": 152087,
-  "2023-03-28": 152137,
-  "2023-03-29": 152195,
-  "2023-03-30": 152315,
-  "2023-03-31": 152315,
-  "2023-04-01": 152393,
-  "2023-04-02": 152460,
-  "2023-04-03": 152532,
-  "2023-04-04": 152584,
-  "2023-04-05": 152642,
-  "2023-04-06": 152695,
-  "2023-04-07": 152733,
-  "2023-04-09": 152848,
-  "2023-04-10": 152887,
-  "2023-04-11": 152995,
-  "2023-04-12": 152995,
-  "2023-04-13": 153039,
-  "2023-04-14": 153095,
-  "2023-04-15": 153172,
-  "2023-04-16": 153239,
-  "2023-04-17": 153303,
-  "2023-04-18": 153362,
-  "2023-04-19": 153448,
-  "2023-04-20": 153509,
-  "2023-04-21": 153575,
-  "2023-04-22": 153677,
-  "2023-04-23": 153784,
-  "2023-04-24": 153854,
-  "2023-04-25": 153911,
-  "2023-04-26": 154006,
-  "2023-04-27": 154065,
-  "2023-04-28": 154128,
-  "2023-04-29": 154189,
-  "2023-04-30": 154241,
-  "2023-05-01": 154307,
-  "2023-05-02": 154371,
-  "2023-05-03": 154406,
-  "2023-05-04": 154458,
-  "2023-05-05": 154515,
-  "2023-05-06": 154574,
-  "2023-05-07": 154630,
-  "2023-05-08": 154682,
-  "2023-05-09": 154718,
-  "2023-05-10": 154777,
-  "2023-05-11": 154827,
-  "2023-05-12": 154870,
-  "2023-05-13": 154934,
-  "2023-05-14": 154982,
-  "2023-05-15": 155036,
-  "2023-05-16": 155092,
-  "2023-05-17": 155137,
-  "2023-05-18": 155189,
-  "2023-05-19": 155289,
-  "2023-05-20": 155422,
-  "2023-05-21": 155422,
-  "2023-05-22": 155422,
-  "2023-05-23": 155519,
-  "2023-05-24": 155613,
-  "2023-05-25": 155622,
-  "2023-05-26": 155676,
-  "2023-05-27": 155749,
-  "2023-05-28": 155820,
-  "2023-05-29": 155820,
-  "2023-05-30": 155924,
-  "2023-05-31": 155984,
-  "2023-06-01": 156040,
-  "2023-06-02": 156109,
-  "2023-06-03": 156166,
-  "2023-06-04": 156241,
-  "2023-06-05": 156297,
-  "2023-06-06": 156370,
-  "2023-06-07": 156408,
-  "2023-06-08": 156472,
-  "2023-06-09": 156547,
-  "2023-06-10": 156605,
-  "2023-06-11": 156667,
-  "2023-06-12": 156717,
-  "2023-06-13": 156778,
-  "2023-06-14": 156839,
-  "2023-06-15": 156880,
-  "2023-06-16": 156953,
-  "2023-06-17": 157018,
-  "2023-06-18": 157087,
-  "2023-06-19": 157142,
-  "2023-06-20": 157201,
-  "2023-06-21": 157265,
-  "2023-06-22": 157299,
-  "2023-06-23": 157356,
-  "2023-06-24": 157403,
-  "2023-06-25": 157471,
-  "2023-06-26": 157543,
-  "2023-06-27": 157608,
-  "2023-06-28": 157667,
-  "2023-06-29": 157710,
-  "2023-06-30": 157778,
-  "2023-07-01": 157959,
-  "2023-07-02": 157959,
-  "2023-07-03": 158026,
-  "2023-07-04": 158083,
-  "2023-07-05": 158154,
-  "2023-07-06": 158267,
-  "2023-07-07": 158267,
-  "2023-07-08": 158337,
-  "2023-07-09": 158394,
-  "2023-07-10": 158457,
-  "2023-07-11": 158503,
-  "2023-07-12": 158566,
-  "2023-07-13": 158618,
-  "2023-07-14": 158678,
-  "2023-07-15": 158718,
-  "2023-07-16": 158776,
-  "2023-07-17": 158837,
-  "2023-07-18": 158901,
-  "2023-07-19": 158965,
-  "2023-07-20": 159007,
-  "2023-07-21": 159066,
-  "2023-07-22": 159138,
-  "2023-07-23": 159226,
-  "2023-07-24": 159272,
-  "2023-07-25": 159321,
-  "2023-07-26": 159366,
-  "2023-07-27": 159421,
-  "2023-07-28": 159483,
-  "2023-07-29": 159547,
-  "2023-07-30": 159613,
-  "2023-07-31": 159668,
-  "2023-08-01": 159723,
-  "2023-08-02": 159772,
-  "2023-08-03": 159826,
-  "2023-08-04": 159895,
-  "2023-08-05": 159966,
-  "2023-08-06": 160079,
-  "2023-08-07": 160079,
-  "2023-08-08": 160141,
-  "2023-08-09": 160199,
-  "2023-08-10": 160247,
-  "2023-08-11": 160289,
-  "2023-08-12": 160344,
-  "2023-08-13": 160427,
-  "2023-08-14": 160498,
-  "2023-08-15": 160593,
-  "2023-08-16": 160593,
-  "2023-08-17": 160675,
-  "2023-08-18": 160762,
-  "2023-08-19": 160835,
-  "2023-08-20": 160907,
-  "2023-08-21": 160970,
-  "2023-08-22": 161015,
-  "2023-08-23": 161066,
-  "2023-08-24": 161116,
-  "2023-08-25": 161162,
-  "2023-08-26": 161204,
-  "2023-08-27": 161261,
-  "2023-08-28": 161311,
-  "2023-08-29": 161352,
-  "2023-08-30": 161396,
-  "2023-08-31": 161443,
-  "2023-09-01": 161539,
-  "2023-09-02": 161539,
-  "2023-09-03": 161572,
-  "2023-09-04": 161633,
-  "2023-09-05": 161683,
-  "2023-09-06": 161726,
-  "2023-09-07": 161769,
-  "2023-09-08": 161814,
-  "2023-09-09": 161880,
-  "2023-09-10": 161928,
-  "2023-09-11": 161977,
-  "2023-09-12": 162019,
-  "2023-09-13": 162075,
-  "2023-09-14": 162137,
-  "2023-09-15": 162180,
-  "2023-09-16": 162233,
-  "2023-09-17": 162282,
-  "2023-09-18": 162326,
-  "2023-09-19": 162364,
-  "2023-09-20": 162410,
-  "2023-09-21": 162462,
-  "2023-09-22": 162508,
-  "2023-09-23": 162548,
-  "2023-09-24": 162579,
-  "2023-09-25": 162621,
-  "2023-09-26": 162665,
-  "2023-09-27": 162697,
-  "2023-09-28": 162751,
-  "2023-09-29": 162779,
-  "2023-09-30": 162819,
-  "2023-10-01": 162856,
-  "2023-10-02": 162902,
-  "2023-10-03": 162941,
-  "2023-10-04": 162985,
-  "2023-10-05": 163025,
-  "2023-10-06": 163060,
-  "2023-10-07": 163095,
-  "2023-10-08": 163150,
-  "2023-10-09": 163200,
-  "2023-10-10": 163165,
-  "2023-10-11": 163173,
-  "2023-10-12": 163173,
-  "2023-10-13": 163219,
-  "2023-10-14": 163223,
-  "2023-10-15": 163235,
-  "2023-10-16": 163295,
-  "2023-10-17": 163333,
-  "2023-10-18": 163372,
-  "2023-10-19": 163416,
-  "2023-10-20": 163456,
-  "2023-10-21": 163501,
-  "2023-10-22": 163545,
-  "2023-10-23": 163587,
-  "2023-10-24": 163632,
-  "2023-10-25": 163671,
-  "2023-10-26": 163723,
-  "2023-10-27": 163772,
-  "2023-10-28": 163826,
-  "2023-10-29": 163876,
-  "2023-10-30": 163974,
-  "2023-10-31": 163974,
-  "2023-11-01": 164039,
-  "2023-11-02": 164085,
-  "2023-11-03": 164146,
-  "2023-11-04": 164191,
-  "2023-11-05": 164237,
-  "2023-11-06": 164301,
-  "2023-11-07": 164355,
-  "2023-11-08": 164402,
-  "2023-11-09": 164449,
-  "2023-11-10": 164512,
-  "2023-11-11": 164582,
-  "2023-11-12": 164644,
-  "2023-11-13": 164697,
-  "2023-11-14": 164719,
-  "2023-11-15": 164719,
-  "2023-11-16": 164791,
-  "2023-11-17": 164915,
-  "2023-11-18": 164915,
-  "2023-11-19": 164974,
-  "2023-11-20": 165017,
-  "2023-11-21": 165085,
-  "2023-11-22": 165170,
-  "2023-11-23": 165220,
-  "2023-11-24": 165289,
-  "2023-11-25": 165332,
-  "2023-11-26": 165389,
-  "2023-11-27": 165425,
-  "2023-11-28": 165459,
-  "2023-11-29": 165569,
-  "2023-11-30": 165569,
-  "2023-12-01": 165628,
-  "2023-12-02": 165677,
-  "2023-12-03": 165764,
-  "2023-12-04": 165811,
-  "2023-12-05": 165844,
-  "2023-12-06": 165882,
-  "2023-12-07": 165933,
-  "2023-12-08": 165983,
-  "2023-12-09": 166054,
-  "2023-12-10": 166114,
-  "2023-12-11": 166167,
-  "2023-12-12": 166216,
-  "2023-12-13": 166257,
-  "2023-12-14": 166321,
-  "2023-12-15": 166360,
-  "2023-12-16": 166393,
-  "2023-12-17": 166465,
-  "2023-12-18": 166520,
-  "2023-12-19": 166563,
-  "2023-12-20": 166621,
-  "2023-12-21": 166685,
-  "2023-12-22": 166739,
-  "2023-12-23": 166803,
-  "2023-12-24": 166861,
-  "2023-12-25": 166901,
-  "2023-12-26": 166956,
-  "2023-12-27": 167018,
-  "2023-12-30": 167159,
-  "2023-12-31": 167220,
-  "2024-01-01": 167284,
-  "2024-01-02": 167322,
-  "2024-01-03": 167377
+  "2024-01-17": 167650,
+  "date_first_scraped": "2021-12-21",
+  "description": "All live, all blues. Cover: Christone \"Kingfish\" Ingram",
+  "name": "Blues Live & Loud",
+  "tracks": [
+    {
+      "album": {
+        "name": "Live 2014 (Nighttrain To Budapest Farewell Tour)",
+        "url": "https://open.spotify.com/album/1pzrHf1F0rrkH5lXCLQdE3"
+      },
+      "artists": [
+        {
+          "name": "Henrik Freischlader",
+          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368213,
+      "name": "A Better Man",
+      "url": "https://open.spotify.com/track/0Z2VBFXHEzIVp1Y9fRA6ow"
+    },
+    {
+      "album": {
+        "name": "Alabama (Live)",
+        "url": "https://open.spotify.com/album/67OduyCf17mwBu26nxM8yM"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206671,
+      "name": "Alabama - Live",
+      "url": "https://open.spotify.com/track/6TeK891HnxIWidLOVWLXNQ"
+    },
+    {
+      "album": {
+        "name": "Love Transcends (Live in Austin)",
+        "url": "https://open.spotify.com/album/3FnXv4h5TBWXo7ccTftiUj"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456997,
+      "name": "Always Free (Live in Austin)",
+      "url": "https://open.spotify.com/track/7lcoqPnMvytTtYPBqS2LNO"
+    },
+    {
+      "album": {
+        "name": "Another Ten Years Gone (Live)",
+        "url": "https://open.spotify.com/album/6DmKvEZjN2xLFLsnWCGmXr"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-12",
+      "duration_ms": 410413,
+      "name": "Another Ten Years Gone - Live",
+      "url": "https://open.spotify.com/track/2ZaAfuxmgld8hwbRrESkhD"
+    },
+    {
+      "album": {
+        "name": "Live At G. Bluey's Juke Joint N.Y.C.",
+        "url": "https://open.spotify.com/album/5XYRHWLRL2ChlpqB9frhZd"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410413,
+      "name": "Another Ten Years Gone - Live",
+      "url": "https://open.spotify.com/track/4mtWq6vMaknARnGo1R52bd"
+    },
+    {
+      "album": {
+        "name": "Backwater Blues (Live)",
+        "url": "https://open.spotify.com/album/1acsrcWZZlLtWnzhHykdrU"
+      },
+      "artists": [
+        {
+          "name": "Cedric Burnside Project",
+          "url": "https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-07",
+      "duration_ms": 277666,
+      "name": "Backwater Blues - Live",
+      "url": "https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7"
+    },
+    {
+      "album": {
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338893,
+      "name": "Bird On The Wire - Live",
+      "url": "https://open.spotify.com/track/2D1b4pdLJWi9rU309xLcBK"
+    },
+    {
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299826,
+      "name": "Blue On Black - Live",
+      "url": "https://open.spotify.com/track/3rBYc8dlONJSWY6gJ3fUwQ"
+    },
+    {
+      "album": {
+        "name": "Blue On Black (Live)",
+        "url": "https://open.spotify.com/album/7hi34Iyim7nwlMgZNISz0X"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299826,
+      "name": "Blue On Black - Live",
+      "url": "https://open.spotify.com/track/4eUhCAOrhmKZavEf08lhgL"
+    },
+    {
+      "album": {
+        "name": "G. Love & Special Sauce (30th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/76IqHvS37OvwXviTLbOx4Q"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298040,
+      "name": "Blues Music - Live at the Knitting Factory, NYC, NY - 7/20/1994 (Set 1)",
+      "url": "https://open.spotify.com/track/2jEBAgMU9Mhb0tpaEUxE5o"
+    },
+    {
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 303168,
+      "name": "Born Under A Bad Sign (Live)",
+      "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
+    },
+    {
+      "album": {
+        "name": "Broke Down On The Brazos (Live)",
+        "url": "https://open.spotify.com/album/5R53kCyQtLd4oQIBO4SJGs"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 528120,
+      "name": "Broke Down On The Brazos (Live)",
+      "url": "https://open.spotify.com/track/5OITHr7K2kAAMG9CDO5GHJ"
+    },
+    {
+      "album": {
+        "name": "Bring On The Music: Live at The Capitol Theatre, Pt. 2",
+        "url": "https://open.spotify.com/album/6OgCMKwSLqy39MCP7juLhu"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 528120,
+      "name": "Broke Down On The Brazos - Live",
+      "url": "https://open.spotify.com/track/5xm5zvLGDeLML6nib2eIvr"
+    },
+    {
+      "album": {
+        "name": "By My Lonesome (Live)",
+        "url": "https://open.spotify.com/album/0CFKSo6uPyJ3xoQ2QZTeP7"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152553,
+      "name": "By My Lonesome - Live",
+      "url": "https://open.spotify.com/track/0RtMoXD1q8opjELLbBb45i"
+    },
+    {
+      "album": {
+        "name": "Live - Attack Of The Killer V",
+        "url": "https://open.spotify.com/album/0JG0CSfe5uuEhkLOaH7aAk"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 454000,
+      "name": "Camp Washington Chile/If You Have To Know",
+      "url": "https://open.spotify.com/track/0pCcV5CRp8mqlEXZIOnk2X"
+    },
+    {
+      "album": {
+        "name": "Live - Attack Of The Killer V",
+        "url": "https://open.spotify.com/album/6XeZLDhgXBlqPAEVTV86UQ"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Mack",
+          "url": "https://open.spotify.com/artist/52GxmJdAcByy1ZyPivpUns"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 454000,
+      "name": "Camp Washington Chile/If You Have To Know",
+      "url": "https://open.spotify.com/track/2Z9bN4v0RG8TRkcgw3htap"
+    },
+    {
+      "album": {
+        "name": "I\u2019m A Woman [Live (Remastered)]",
+        "url": "https://open.spotify.com/album/2lz9vEEJCu5ucaaxWtNSr0"
+      },
+      "artists": [
+        {
+          "name": "Koko Taylor",
+          "url": "https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R"
+        }
+      ],
+      "date_added": "2022-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352013,
+      "name": "Can't Let Go - Live (Remastered)",
+      "url": "https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO"
+    },
+    {
+      "album": {
+        "name": "Liquid Quartet Live",
+        "url": "https://open.spotify.com/album/2nFenn9ap5FXUoMZWd2P4X"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
+    },
+    {
+      "album": {
+        "name": "Can't Walk Away From It Now (Live)",
+        "url": "https://open.spotify.com/album/5o1wAMgW0MN63RlrhkjLnw"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 320618,
+      "name": "Can't Walk Away From It Now - Live",
+      "url": "https://open.spotify.com/track/4n1bjZ2y6dpbjYIhbhA71W"
+    },
+    {
+      "album": {
+        "name": "Can\u2019t You See What You\u2019re Doing To Me (Live)",
+        "url": "https://open.spotify.com/album/7opwCaMs2Kjfp3p5vCnI4X"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2022-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373809,
+      "name": "Can\u2019t You See What You\u2019re Doing To Me (Live)",
+      "url": "https://open.spotify.com/track/30TXv4AUCnTxZeSWADR9m1"
+    },
+    {
+      "album": {
+        "name": "Live at the Jazzhaus",
+        "url": "https://open.spotify.com/album/6bBIe89atzmYXFceEDUP1c"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 410520,
+      "name": "Chills & Thrills",
+      "url": "https://open.spotify.com/track/564tiv489cKy2DtodcZ5kq"
+    },
+    {
+      "album": {
+        "name": "Live at the Jazzhaus",
+        "url": "https://open.spotify.com/album/5ecLOcNNAIyy2ItMEIMwK4"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410520,
+      "name": "Chills & Thrills - Live",
+      "url": "https://open.spotify.com/track/1oP2JLLzJNqoIMH5nh1iKi"
+    },
+    {
+      "album": {
+        "name": "Back to the Blues (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0oy6FL21rdqKFlGEmJfuZp"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245400,
+      "name": "Cold Black Night (Live at VH1)",
+      "url": "https://open.spotify.com/track/4YTn5VVoRwySkVvlHOgTU1"
+    },
+    {
+      "album": {
+        "name": "Cold Black Night (Live at VH1)",
+        "url": "https://open.spotify.com/album/3rPGkz9zHgBj3Ctnk7JIhU"
+      },
+      "artists": [
+        {
+          "name": "Gary Moore",
+          "url": "https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j"
+        }
+      ],
+      "date_added": "2023-05-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 245400,
+      "name": "Cold Black Night - Live at VH1",
+      "url": "https://open.spotify.com/track/7CqYhpvCsj0kyByDwyrtrs"
+    },
+    {
+      "album": {
+        "name": "Night In The City (Live)",
+        "url": "https://open.spotify.com/album/4l5Vneh2HKO5EP6oSWquxb"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "Cotton Candy - Live",
+      "url": "https://open.spotify.com/track/0aYwusuQt3uMApBVdpgheX"
+    },
+    {
+      "album": {
+        "name": "Cotton Candy (Live)",
+        "url": "https://open.spotify.com/album/3XGLVWhL9N8e1lotVkrE0G"
+      },
+      "artists": [
+        {
+          "name": "Robben Ford",
+          "url": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+        }
+      ],
+      "date_added": "2023-10-20",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 260146,
+      "name": "Cotton Candy - Live",
+      "url": "https://open.spotify.com/track/2Reygj9CG2BmnNqZPULOuK"
+    },
+    {
+      "album": {
+        "name": "The Definitive 24 Nights (Live)",
+        "url": "https://open.spotify.com/album/7uLDovmFB97bee1kDTtCNl"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 535168,
+      "name": "Crossroads - Live at The Royal Albert Hall, Rock Version",
+      "url": "https://open.spotify.com/track/3nKzcSOvTSFTvB3tPe3mhH"
+    },
+    {
+      "album": {
+        "name": "Live at the King Eddy",
+        "url": "https://open.spotify.com/album/5R8DbXUDDdNOTQsQNBAQQP"
+      },
+      "artists": [
+        {
+          "name": "The Harpoonist & the Axe Murderer",
+          "url": "https://open.spotify.com/artist/5DkVuI87mfB0mNCCUxj3CF"
+        }
+      ],
+      "date_added": "2022-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256986,
+      "name": "Cry a Little - Live",
+      "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
+    },
+    {
+      "album": {
+        "name": "Live-Spontaneous Combustion",
+        "url": "https://open.spotify.com/album/319sQSVvGqeaNlCoJ2Zxc2"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 281666,
+      "name": "Crying For My Baby",
+      "url": "https://open.spotify.com/track/0nOUcZ1uWwVDxiZainF0O7"
+    },
+    {
+      "album": {
+        "name": "Live-Spontaneous Combustion",
+        "url": "https://open.spotify.com/album/5mZIk71ovwj9JW69EBGdqb"
+      },
+      "artists": [
+        {
+          "name": "Son Seals",
+          "url": "https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "Crying For My Baby",
+      "url": "https://open.spotify.com/track/1ZbuDt1StCJMB68xc4Ec9A"
+    },
+    {
+      "album": {
+        "name": "Live! The Real Deal",
+        "url": "https://open.spotify.com/album/1c2TbdKkPq7gMTGCPRen1O"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461533,
+      "name": "Damn Right I've Got The Blues - Live",
+      "url": "https://open.spotify.com/track/1s7EqwR1IPlaQO7iXaRUCi"
+    },
+    {
+      "album": {
+        "name": "Live at New Orleans Jazz & Heritage Festival, 2014",
+        "url": "https://open.spotify.com/album/6DkHonUCVueVdmATd2NmGv"
+      },
+      "artists": [
+        {
+          "name": "Chris Thomas King",
+          "url": "https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256398,
+      "name": "Damn Right, I've Got The Blues - Live at New Orleans Jazz & Heritage Festival, 2014",
+      "url": "https://open.spotify.com/track/0Jt849xbK5RTJt8UORof5A"
+    },
+    {
+      "album": {
+        "name": "Diamonds & Gold (Live)",
+        "url": "https://open.spotify.com/album/66TI5r8liZTsY3zglSew4Z"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 387346,
+      "name": "Diamonds & Gold - Live",
+      "url": "https://open.spotify.com/track/15vIOt0JMhkeFUsbOEhMis"
+    },
+    {
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387346,
+      "name": "Diamonds & Gold - Live",
+      "url": "https://open.spotify.com/track/1vU3fCNqHTO7fXGY4tEtDl"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Vanja Sky",
+          "url": "https://open.spotify.com/artist/11qCism35wezz8ve5s5hBq"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215540,
+      "name": "Do You Wanna - Live",
+      "url": "https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy"
+    },
+    {
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/2SQiZ96Kv4cTmd7jNjmmxU"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-11-27",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 269440,
+      "name": "Down For Love - Live",
+      "url": "https://open.spotify.com/track/6OQ3GvlaMOJTCPNi1mYKwQ"
+    },
+    {
+      "album": {
+        "name": "Live At The Sydney Opera House",
+        "url": "https://open.spotify.com/album/1YQXbOM6MlfrovYYcy1zUH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 447360,
+      "name": "Drive - Live",
+      "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
+    },
+    {
+      "album": {
+        "name": "Dyin' To Know (Live)",
+        "url": "https://open.spotify.com/album/1rv0LvjxRHqhory1tkpxAx"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2022-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192638,
+      "name": "Dyin' To Know (Live)",
+      "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
+    },
+    {
+      "album": {
+        "name": "Empty Promises (Live)",
+        "url": "https://open.spotify.com/album/3MuYZQPycwGmL0qu0rZNC9"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 469445,
+      "name": "Empty Promises - Live",
+      "url": "https://open.spotify.com/track/1SoK3zrvJT21uI06ed25e7"
+    },
+    {
+      "album": {
+        "name": "Live At San Quentin",
+        "url": "https://open.spotify.com/album/1Lm56IVJSuSNumkGqlHOL2"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281866,
+      "name": "Everyday I Have The Blues - Live (San Quentin)",
+      "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
+    },
+    {
+      "album": {
+        "name": "Live at the Roxy",
+        "url": "https://open.spotify.com/album/4H8vrtg99Qxjz7kwlC9yqw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232388,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/3315kMG6PdeNdwKMGxNTxn"
+    },
+    {
+      "album": {
+        "name": "Live At The Roxy",
+        "url": "https://open.spotify.com/album/6eNrhA2jblBr2MxXI7EhOd"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232400,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/2aeLJxzpJ1oK73BDp01898"
+    },
+    {
+      "album": {
+        "name": "Live In Europe",
+        "url": "https://open.spotify.com/album/2k7ALI83LeKL9ralSd7aqf"
+      },
+      "artists": [
+        {
+          "name": "Tony Spinner",
+          "url": "https://open.spotify.com/artist/6JhsZANOSVD2dnJt1ZHr3z"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230306,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/0MCX1OZzPjy91FYKQQJTKp"
+    },
+    {
+      "album": {
+        "name": "Frosty (Live)",
+        "url": "https://open.spotify.com/album/0Y3RF1vbBHc8bTm0hFZvwS"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 352213,
+      "name": "Frosty (Live)",
+      "url": "https://open.spotify.com/track/5mWpxiRT5itAt6u2RAD2Y4"
+    },
+    {
+      "album": {
+        "name": "Frosty (Live)",
+        "url": "https://open.spotify.com/album/4X8u9qDAj8Gk8E58ExF7KY"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354013,
+      "name": "Frosty - Live",
+      "url": "https://open.spotify.com/track/69Vo5KVrgmyq3pqqjBpF6c"
+    },
+    {
+      "album": {
+        "name": "TRY! - Live In Concert",
+        "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349253,
+      "name": "Gravity - Live at the House of Blues, Chicago, Illinois, September 22, 2005",
+      "url": "https://open.spotify.com/track/0FRoVng8IZZoS0ATxIgvuH"
+    },
+    {
+      "album": {
+        "name": "Bo Knows Diddley Live",
+        "url": "https://open.spotify.com/album/2z1TNVOGgtg69QcZskgSdj"
+      },
+      "artists": [
+        {
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "Gunslinger - Live",
+      "url": "https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d"
+    },
+    {
+      "album": {
+        "name": "Heaven's Gate (Live At The Town & Country Club, London, UK / 1990)",
+        "url": "https://open.spotify.com/album/4QP957QHwZEbgCaoNKFrhN"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280813,
+      "name": "Heaven's Gate - Live At The Town & Country Club, London, UK / 1990",
+      "url": "https://open.spotify.com/track/2Z0lJeL3NFaRM6U4ZRKbQB"
+    },
+    {
+      "album": {
+        "name": "70th Birthday Concert",
+        "url": "https://open.spotify.com/album/3e5hpW2IwWDYlTEAchPhTA"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 290693,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
+    },
+    {
+      "album": {
+        "name": "70th Birthday Concert (Live)",
+        "url": "https://open.spotify.com/album/1vRKL1uMdXWFzFdiGRtd25"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Hideaway - Live",
+      "url": "https://open.spotify.com/track/2ITCE00HMJT7FzThIwpJkg"
+    },
+    {
+      "album": {
+        "name": "High Class Girl (Live)",
+        "url": "https://open.spotify.com/album/3hC1eU6oCmdwuWP9haKloF"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341840,
+      "name": "High Class Girl - Live",
+      "url": "https://open.spotify.com/track/77PULbIYAM090fHatJgXe5"
+    },
+    {
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 922505,
+      "name": "How Many More Times - Live",
+      "url": "https://open.spotify.com/track/1l0gwvwWfPXgpNDqrrpJRI"
+    },
+    {
+      "album": {
+        "name": "I Didn't Know (Live)",
+        "url": "https://open.spotify.com/album/0PctMnTS6t6dNvnxwGsLPi"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198040,
+      "name": "I Didn't Know - Live",
+      "url": "https://open.spotify.com/track/6F3ISKBxgwCmV7jpORqLMb"
+    },
+    {
+      "album": {
+        "name": "Now Serving: Royal Tea Live From The Ryman",
+        "url": "https://open.spotify.com/album/1At9QeiTNZXMtD3WKJldg9"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 274853,
+      "name": "I Didn't Think She Would Do It - Live",
+      "url": "https://open.spotify.com/track/1jjFV8q9KjN0FioJ8EeMeh"
+    },
+    {
+      "album": {
+        "name": "Live In San Diego '74",
+        "url": "https://open.spotify.com/album/1uZboHwC6BiYuXGFZbcyYT"
+      },
+      "artists": [
+        {
+          "name": "Rory Gallagher",
+          "url": "https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571280,
+      "name": "I Wonder Who - Live At The San Diego Civic Center, CA, USA / 1974",
+      "url": "https://open.spotify.com/track/2WKH5jsAtRY3zDbx2OoO5y"
+    },
+    {
+      "album": {
+        "name": "I'm In The Mood (Live)",
+        "url": "https://open.spotify.com/album/7llgEpwPWoyyECn3OxfJgS"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248586,
+      "name": "I'm In The Mood - Live",
+      "url": "https://open.spotify.com/track/4m3z1QKpXIBIvJFVhCyhtl"
+    },
+    {
+      "album": {
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/7HriuGrlYdLiubO6XQGbkt"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 437358,
+      "name": "Judgment Day",
+      "url": "https://open.spotify.com/track/3xWp7bPsKMk17yManeHBgU"
+    },
+    {
+      "album": {
+        "name": "Just Won't Burn (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3tUrmnZBBUN9ZCtdJh16xn"
+      },
+      "artists": [
+        {
+          "name": "Susan Tedeschi",
+          "url": "https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta"
+        },
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449120,
+      "name": "Just Won\u2019t Burn - Live at the Beacon Theatre / 2022",
+      "url": "https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275033,
+      "name": "Keep Coming Back - Live",
+      "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
+    },
+    {
+      "album": {
+        "name": "Live From The Fox Oakland",
+        "url": "https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy"
+    },
+    {
+      "album": {
+        "name": "Keep On Growing (Live)",
+        "url": "https://open.spotify.com/album/4NS0gjSrKAalyUJyQNvE84"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 650746,
+      "name": "Keep On Growing - Live",
+      "url": "https://open.spotify.com/track/7pq4EbFglFdFZAiUn0ClFR"
+    },
+    {
+      "album": {
+        "name": "Roadsongs",
+        "url": "https://open.spotify.com/album/31hfJ2wHUoRjqwNdZXU6u3"
+      },
+      "artists": [
+        {
+          "name": "The Derek Trucks Band",
+          "url": "https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382200,
+      "name": "Key To The Highway - Live",
+      "url": "https://open.spotify.com/track/7zX9fAnniTOdTsSV8eipxM"
+    },
+    {
+      "album": {
+        "name": "Key to the Highway (Live at The Royal Albert Hall)",
+        "url": "https://open.spotify.com/album/0Pc7Ti2YgK7xARnrmpCPZv"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392351,
+      "name": "Key to the Highway - Live at The Royal Albert Hall",
+      "url": "https://open.spotify.com/track/7pVfE8w0cbxLrJQmyyNKSx"
+    },
+    {
+      "album": {
+        "name": "Known Unknowns (Live)",
+        "url": "https://open.spotify.com/album/2K8FJaCmf76DwzilwV0PtG"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 364560,
+      "name": "Known Unknowns (Live)",
+      "url": "https://open.spotify.com/track/54brKyFnudUfvLpD0gDkOg"
+    },
+    {
+      "album": {
+        "name": "Live Trout Vol. 1",
+        "url": "https://open.spotify.com/album/7H9bJ8kBT9hV5zBl6Dp3f1"
+      },
+      "artists": [
+        {
+          "name": "Walter Trout and The Free Radicals",
+          "url": "https://open.spotify.com/artist/6P8bt73AQV9FbkUMG2cjht"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304093,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/1HlAG7ceza8IDx7adue0Ch"
+    },
+    {
+      "album": {
+        "name": "Let Me Love You Baby (Live)",
+        "url": "https://open.spotify.com/album/77bZYLZQxXW4zaXb5kdiSR"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335955,
+      "name": "Let Me Love You Baby - Live",
+      "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
+    },
+    {
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345270,
+      "name": "Let The Good Times Roll (Live)",
+      "url": "https://open.spotify.com/track/1tigPIbzGhosv1yiXe8xcy"
+    },
+    {
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 413617,
+      "name": "Little Wing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
+    },
+    {
+      "album": {
+        "name": "Little Wing (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/03rUt9AiKYNGCOQ9zA0g4k"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 413617,
+      "name": "Little Wing - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/5vjFiCBjqqVV2CJj8fJYJt"
+    },
+    {
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261874,
+      "name": "Lonesome Whistle Blues (Live)",
+      "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
+    },
+    {
+      "album": {
+        "name": "Live In London (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416462,
+      "name": "Long Distance Woman - Live-Bonus Track",
+      "url": "https://open.spotify.com/track/26RmrLz1hYNT6JUY0fsQn5"
+    },
+    {
+      "album": {
+        "name": "Paint The Roses (Live In Concert)",
+        "url": "https://open.spotify.com/album/2rIe2vSV47OAhOBLNtCWmu"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-06",
+      "duration_ms": 312824,
+      "name": "Mad As A Hatter (Live In Concert)",
+      "url": "https://open.spotify.com/track/0on0Y3tC9iHoPGYPBoJgFY"
+    },
+    {
+      "album": {
+        "name": "Paint The Roses (Live in Concert)",
+        "url": "https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312824,
+      "name": "Mad As A Hatter - Live in Concert",
+      "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
+    },
+    {
+      "album": {
+        "name": "British Blues Explosion Live",
+        "url": "https://open.spotify.com/album/6wQ0Qd9cQZvOYE4Fn1OIZc"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421219,
+      "name": "Mainline Florida - Live",
+      "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
+    },
+    {
+      "album": {
+        "name": "Live In London (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wyoiuJDpJrBXJJC4ULTe7"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324016,
+      "name": "Midnight Heat - Live",
+      "url": "https://open.spotify.com/track/1YLMfZsiVuBVb3yPB9mK0N"
+    },
+    {
+      "album": {
+        "name": "Live In London",
+        "url": "https://open.spotify.com/album/3Lqzd6AFTfeVybMiBbBDse"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 324016,
+      "name": "Midnight Heat - Live",
+      "url": "https://open.spotify.com/track/2HlfyyZwGq6tQYwl2qU0vY"
+    },
+    {
+      "album": {
+        "name": "Mind\u2019s Eye (Live)",
+        "url": "https://open.spotify.com/album/6ccQ4vz1nVEDHdT0vco2nO"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-02-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-21",
+      "duration_ms": 389746,
+      "name": "Mind's Eye (Live)",
+      "url": "https://open.spotify.com/track/6YbmrjAs8vck6xcppmuxU2"
+    },
+    {
+      "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "date_added": "2022-02-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "album": {
+        "name": "Morning Glory (Live)",
+        "url": "https://open.spotify.com/album/4stO2L5IwcfHN6oyLVT1K1"
+      },
+      "artists": [
+        {
+          "name": "Talibah Safiya",
+          "url": "https://open.spotify.com/artist/1E0Fc2u5OrryrpF8JH8srS"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259584,
+      "name": "Morning Glory - Live",
+      "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
+    },
+    {
+      "album": {
+        "name": "Motorcycle Mama (Live)",
+        "url": "https://open.spotify.com/album/5QtOw2FNaafcYqPJZvZT34"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389893,
+      "name": "Motorcycle Mama - Live",
+      "url": "https://open.spotify.com/track/0GBC4jxEV07r9OxayQ0ETx"
+    },
+    {
+      "album": {
+        "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/0NgnBeCrUMtJWBIqlORulQ"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        },
+        {
+          "name": "The Ronnie Wood Band",
+          "url": "https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE"
+        },
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY"
+        }
+      ],
+      "date_added": "2021-11-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426835,
+      "name": "Mr Luck (feat. Mick Taylor) (Live)",
+      "url": "https://open.spotify.com/track/447HYxWqQYLaezoibi274B"
+    },
+    {
+      "album": {
+        "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
+        "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Wood",
+          "url": "https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK"
+        },
+        {
+          "name": "The Ronnie Wood Band",
+          "url": "https://open.spotify.com/artist/7MYOqtcBbGTJxLk7fQiVmE"
+        },
+        {
+          "name": "Mick Taylor",
+          "url": "https://open.spotify.com/artist/6ZPpBAJedSOL5r7e4t3WMY"
+        }
+      ],
+      "date_added": "2021-09-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 426835,
+      "name": "Mr Luck (feat. Mick Taylor) - Live",
+      "url": "https://open.spotify.com/track/7hw6k9MIBGAQVMPHh5UINK"
+    },
+    {
+      "album": {
+        "name": "New Used Car",
+        "url": "https://open.spotify.com/album/6UA7yjMQHFu7yw3RmEOkI8"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227359,
+      "name": "New Used Car",
+      "url": "https://open.spotify.com/track/7fVCVM1DIUHpnRiDm2fKvP"
+    },
+    {
+      "album": {
+        "name": "Songs from the Road",
+        "url": "https://open.spotify.com/album/59Z7Qnuk07Q0zWgV8RrvAo"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298777,
+      "name": "Night Train - Live",
+      "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
+    },
+    {
+      "album": {
+        "name": "Blood Brothers: Live in Canada",
+        "url": "https://open.spotify.com/album/7n3CH6Tm2VeHkXSaL6TY6A"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        },
+        {
+          "name": "Albert Castiglia",
+          "url": "https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318899,
+      "name": "No Good Woman - Live",
+      "url": "https://open.spotify.com/track/2aCnOIxkx3zcZzdCQUjyd8"
+    },
+    {
+      "album": {
+        "name": "No One Left To Blame (Dangerous Game)",
+        "url": "https://open.spotify.com/album/7draBVSdExn7m8osrjm1q9"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "date_added": "2023-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281755,
+      "name": "No One Left To Blame (Dangerous Game)",
+      "url": "https://open.spotify.com/track/2sthMcGvt0sLw7sImcEPVL"
+    },
+    {
+      "album": {
+        "name": "No Time For Cryin'",
+        "url": "https://open.spotify.com/album/4WbqBP0zeGsnfSm3FEDvNw"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322022,
+      "name": "No Time For Cryin' - Live",
+      "url": "https://open.spotify.com/track/656eVNjToos4nqR0ZzUyUB"
+    },
+    {
+      "album": {
+        "name": "Live in London",
+        "url": "https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322022,
+      "name": "No Time For Cryin' - Live",
+      "url": "https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows You When You're Down And Out (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 299863,
+      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi"
+    },
+    {
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299863,
+      "name": "Nobody Knows You When You're Down And Out - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ"
+    },
+    {
+      "album": {
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308093,
+      "name": "One of These Days - Live",
+      "url": "https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6"
+    },
+    {
+      "album": {
+        "name": "Naturally Live",
+        "url": "https://open.spotify.com/album/2hb6yr5wCkq1Zc5wznXzXQ"
+      },
+      "artists": [
+        {
+          "name": "Ten Years After",
+          "url": "https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308093,
+      "name": "One Of These Days - live",
+      "url": "https://open.spotify.com/track/73IqopuSeWo7YOUdVZHIVA"
+    },
+    {
+      "album": {
+        "name": "Live at DBA: New Orleans Bootleg",
+        "url": "https://open.spotify.com/album/0XQbbMvll706Gfsk4ymE2T"
+      },
+      "artists": [
+        {
+          "name": "Eric Johanson",
+          "url": "https://open.spotify.com/artist/0mPiFtQynz01cwuBYNA87Z"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 477786,
+      "name": "Open Hearted Woman - Live",
+      "url": "https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P"
+    },
+    {
+      "album": {
+        "name": "Live in Nashville (Deluxe)",
+        "url": "https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509607,
+      "name": "Pallet Soft and Low (Live)",
+      "url": "https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK"
+    },
+    {
+      "album": {
+        "name": "Live in Nashville",
+        "url": "https://open.spotify.com/album/3qmwNduPLk9xtrMRuUAGPf"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-05-18",
+      "duration_ms": 509607,
+      "name": "Pallet Soft and Low (Live)",
+      "url": "https://open.spotify.com/track/5cOtmFYCBQOLMi7jk0xTbk"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/6e2NUuv5gLX7aT5J9hPK28"
+      },
+      "artists": [
+        {
+          "name": "Dave Fields",
+          "url": "https://open.spotify.com/artist/2ZHM1FdVdVfpxzuqRNPVjf"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 497133,
+      "name": "Pocket Full of Dust (Live)",
+      "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
+    },
+    {
+      "album": {
+        "name": "Rain (Live At Red Rocks, 2023)",
+        "url": "https://open.spotify.com/album/1lXEfpDNac1E2XOvNDpbix"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288373,
+      "name": "Rain - Live At Red Rocks, 2023",
+      "url": "https://open.spotify.com/track/3wkrXuffdpo71E29uk8mtI"
+    },
+    {
+      "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac (Live from The London Palladium)",
+        "url": "https://open.spotify.com/album/0my24L5pit3nfpj6ccdlZA"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        },
+        {
+          "name": "Steven Tyler",
+          "url": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-03",
+      "duration_ms": 289800,
+      "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/2QyLRyrciztL0CQ7CeXK2p"
+    },
+    {
+      "album": {
+        "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) [Live from The London Palladium]",
+        "url": "https://open.spotify.com/album/1z9quT1fn0GLbg7401MS0z"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        },
+        {
+          "name": "Billy Gibbons",
+          "url": "https://open.spotify.com/artist/4DqeVw9M195lj22iU1elxD"
+        },
+        {
+          "name": "Steven Tyler",
+          "url": "https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o"
+        }
+      ],
+      "date_added": "2021-02-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 289800,
+      "name": "Rattlesnake Shake (with Steven Tyler & Billy Gibbons) - Live from The London Palladium",
+      "url": "https://open.spotify.com/track/58ZM2KIhmc9awWI0RDSV5l"
+    },
+    {
+      "album": {
+        "name": "Celebrate the Music of Peter Green and the Early Years of Fleetwood Mac",
+        "url": "https://open.spotify.com/album/4mRWbr6PnIIo3ealvjT60y"
+      },
+      "artists": [
+        {
+          "name": "Mick Fleetwood and Friends",
+          "url": "https://open.spotify.com/artist/2qNOz03Hh4Y43qqWxHUejk"
+        }
+      ],
+      "date_added": "2021-04-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289800,
+      "name": "Rattlesnake Shake (with Steven Tyler, Billy Gibbons) (Live from The London Palladium)",
+      "url": "https://open.spotify.com/track/2cw1cZG9T3goqZOOqjkrqI"
+    },
+    {
+      "album": {
+        "name": "Live at the Ryman",
+        "url": "https://open.spotify.com/album/5TX3W2zbb6Vgyl4RZaYGD1"
+      },
+      "artists": [
+        {
+          "name": "Jonny Lang",
+          "url": "https://open.spotify.com/artist/5rX1EodZfwxmW4fQX2Caot"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615573,
+      "name": "Red Light - Live",
+      "url": "https://open.spotify.com/track/7Idw3DTH9sFyPC6bXVhE3c"
+    },
+    {
+      "album": {
+        "name": "Ride On Josephine (Live In Boston / 1982)",
+        "url": "https://open.spotify.com/album/3vfLAhOmj5BvT69y8Y4CRP"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "date_added": "2020-11-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 501010,
+      "name": "Ride On Josephine - Live In Boston, Massachusetts / 1982",
+      "url": "https://open.spotify.com/track/68OmRD31fk5wALO2AGF85X"
+    },
+    {
+      "album": {
+        "name": "One More Car, One More Rider (Live)",
+        "url": "https://open.spotify.com/album/4YJ93uAqs42dsEdxuvhzp6"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539293,
+      "name": "River of Tears - Live",
+      "url": "https://open.spotify.com/track/2n6uDmFnyUBqXk652GUGNl"
+    },
+    {
+      "album": {
+        "name": "One More Car, One More Rider",
+        "url": "https://open.spotify.com/album/2NxnSpRW6vvDbCBoJkb5gC"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-17",
+      "duration_ms": 539293,
+      "name": "River of Tears - Live at Staples Center, Los Angeles, CA, 8/18 - 19/2001",
+      "url": "https://open.spotify.com/track/4BuUr1VLpSndHMPHhtQoYP"
+    },
+    {
+      "album": {
+        "name": "Blues Caravan Live 2018",
+        "url": "https://open.spotify.com/album/086k8bh2fAUcSoVuh3NNaW"
+      },
+      "artists": [
+        {
+          "name": "Bernard Allison",
+          "url": "https://open.spotify.com/artist/0oLmGtqMpKAAVNJyJ71AcI"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446206,
+      "name": "Rocket 88 - Live",
+      "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
+    },
+    {
+      "album": {
+        "name": "Setlist: The Very Best of Johnny Winter LIVE",
+        "url": "https://open.spotify.com/album/21mmu8nrIjyeyPMwP2Is6f"
+      },
+      "artists": [
+        {
+          "name": "Johnny Winter",
+          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "Roll With Me - Live in California - September 1975",
+      "url": "https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R"
+    },
+    {
+      "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241135,
+      "name": "Some Other Day, Some Other Time - Live",
+      "url": "https://open.spotify.com/track/6w7zKtNuKcSkYg3WFo1zGX"
+    },
+    {
+      "album": {
+        "name": "Soul Salvation (Live)",
+        "url": "https://open.spotify.com/album/3ptXSdbiTNTOnzfTepmCtI"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 272160,
+      "name": "Soul Salvation - Live",
+      "url": "https://open.spotify.com/track/5zh6I3FXW2MtDCq3QfT5bw"
+    },
+    {
+      "album": {
+        "name": "Recorded Live in Lafayette",
+        "url": "https://open.spotify.com/album/5MPnKRKqtWBELg7MAPW7W9"
+      },
+      "artists": [
+        {
+          "name": "Sonny Landreth",
+          "url": "https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272160,
+      "name": "Soul Salvation - Live",
+      "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
+    },
+    {
+      "album": {
+        "name": "Live in Boston",
+        "url": "https://open.spotify.com/album/5h3MWDw8xiiRCWxWMvoIaS"
+      },
+      "artists": [
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Donavon Frankenreiter",
+          "url": "https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda"
+        }
+      ],
+      "date_added": "2023-09-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-13",
+      "duration_ms": 457239,
+      "name": "SoulBQue - Live in Boston",
+      "url": "https://open.spotify.com/track/5Q1osWuey1198DjmVlaHrJ"
+    },
+    {
+      "album": {
+        "name": "Live...With A Little Help From Our Friends",
+        "url": "https://open.spotify.com/album/73j2N2158tWcLXv4wffzNE"
+      },
+      "artists": [
+        {
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 549933,
+      "name": "Soulshine",
+      "url": "https://open.spotify.com/track/3pazThgY7a2wq8jt20MYPn"
+    },
+    {
+      "album": {
+        "name": "Scorched Earth, Vol.1 (Live)",
+        "url": "https://open.spotify.com/album/4RVC2CS8xom9Q9497xfWk3"
+      },
+      "artists": [
+        {
+          "name": "Philip Sayce",
+          "url": "https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382741,
+      "name": "Steamroller / Powerful Thing - Live",
+      "url": "https://open.spotify.com/track/7dFm53Bm0DelmlBDPp5R0m"
+    },
+    {
+      "album": {
+        "name": "Live In Tallahassee",
+        "url": "https://open.spotify.com/album/2UH1aJggZdP0Vz0iTjouYG"
+      },
+      "artists": [
+        {
+          "name": "Eugene Hideaway Bridges",
+          "url": "https://open.spotify.com/artist/0vZJjQvIZKzNxKOP5eLzWY"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212732,
+      "name": "Step By Step - Live",
+      "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
+    },
+    {
+      "album": {
+        "name": "Big, Bad and Beautiful (Live)",
+        "url": "https://open.spotify.com/album/6FOcdJWwdmGOvpu5JqdqL2"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350573,
+      "name": "Stoop Down Baby - Live",
+      "url": "https://open.spotify.com/track/5OOieWxqvwaYoqSv4FKixt"
+    },
+    {
+      "album": {
+        "name": "Big, Bad & Beautiful - Live",
+        "url": "https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 350573,
+      "name": "Stoop Down Baby - Live",
+      "url": "https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF"
+    },
+    {
+      "album": {
+        "name": "Live At Montreux 1999",
+        "url": "https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 410133,
+      "name": "Stop Breakin' Down - Live",
+      "url": "https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4"
+    },
+    {
+      "album": {
+        "name": "Live At Montreux 1999",
+        "url": "https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln"
+      },
+      "artists": [
+        {
+          "name": "The Jeff Healey Band",
+          "url": "https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410960,
+      "name": "Stop Breakin' Down - Live",
+      "url": "https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui"
+    },
+    {
+      "album": {
+        "name": "Blues From The Heart Live (Live)",
+        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349573,
+      "name": "Summertime (Live)",
+      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
+    },
+    {
+      "album": {
+        "name": "Tell Her You Belong To Me (Live)",
+        "url": "https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 396682,
+      "name": "Tell Her You Belong To Me (Live)",
+      "url": "https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi"
+    },
+    {
+      "album": {
+        "name": "Front And Center: Live From New York",
+        "url": "https://open.spotify.com/album/485jKzcn4ZPRxB5Sc4PUx8"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396682,
+      "name": "Tell Her You Belong To Me - Live",
+      "url": "https://open.spotify.com/track/6DMUEb4IFTZoG1dhPUXzZT"
+    },
+    {
+      "album": {
+        "name": "Layla Revisited (Live at LOCKN')",
+        "url": "https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-04",
+      "duration_ms": 426669,
+      "name": "Tell The Truth - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/3GNHoRb3DCq5MZ3AYriAJc"
+    },
+    {
+      "album": {
+        "name": "Tell The Truth (Live at LOCKN' / 2019)",
+        "url": "https://open.spotify.com/album/5ebZkQQoBP15iERqlmg2Uy"
+      },
+      "artists": [
+        {
+          "name": "Tedeschi Trucks Band",
+          "url": "https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO"
+        },
+        {
+          "name": "Trey Anastasio",
+          "url": "https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ"
+        }
+      ],
+      "date_added": "2021-07-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 426669,
+      "name": "Tell The Truth - Live at LOCKN' / 2019",
+      "url": "https://open.spotify.com/track/6r28qSBAz5RqvhhuFvEzTy"
+    },
+    {
+      "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 600506,
+      "name": "Texas Flood - Live at Ripley's Music Hall, Philadelphia, PA, Oct. 20, 1983",
+      "url": "https://open.spotify.com/track/12Brd1KzWDPmzgC5FaUZA2"
+    },
+    {
+      "album": {
+        "name": "The Healing (Live)",
+        "url": "https://open.spotify.com/album/3mwKeJxKHxB0BRVK4AYgtb"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/6dw30khcpmcf4Uw4KZqETY"
+    },
+    {
+      "album": {
+        "name": "Live North America 2016",
+        "url": "https://open.spotify.com/album/7ylR7WyMyjtaq0eQBHmHyN"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338226,
+      "name": "The Healing - Live",
+      "url": "https://open.spotify.com/track/7ps563YUuN1flAFngUcvJg"
+    },
+    {
+      "album": {
+        "name": "Tales Of Time (Live)",
+        "url": "https://open.spotify.com/album/0G03hsZGLxlUG8Spg4lTi3"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-04-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511933,
+      "name": "The Heart That Never Waits (Live)",
+      "url": "https://open.spotify.com/track/4YuyBlfqxrlKNT8E5QxKmk"
+    },
+    {
+      "album": {
+        "name": "The Loyal Kind (Live)",
+        "url": "https://open.spotify.com/album/0ApJp0w406tV4tWNFwMWBk"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2023-02-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394106,
+      "name": "The Loyal Kind (Live)",
+      "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
+    },
+    {
+      "album": {
+        "name": "The Reformation",
+        "url": "https://open.spotify.com/album/7xx0IYtFkgzVuVI0ta98g9"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "date_added": "2022-11-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215478,
+      "name": "The Reformation - Live in Camden",
+      "url": "https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN"
+    },
+    {
+      "album": {
+        "name": "Live from the 805",
+        "url": "https://open.spotify.com/album/4sjbiuW57ql2bqd6t5ZD7f"
+      },
+      "artists": [
+        {
+          "name": "Alastair Greene",
+          "url": "https://open.spotify.com/artist/77WACnfI6qX7MLBZeW7ntn"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227253,
+      "name": "The Sweetest Honey (Live)",
+      "url": "https://open.spotify.com/track/7jxRH5vuXGSgbhvxDhE9up"
+    },
+    {
+      "album": {
+        "name": "Gary Clark Jr. Live",
+        "url": "https://open.spotify.com/album/4jLUg6wWnd0vB4CcPSPS6Q"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369800,
+      "name": "Things Are Changin' - Live",
+      "url": "https://open.spotify.com/track/1H4UULj004y48JgS3cIc8J"
+    },
+    {
+      "album": {
+        "name": "This Train (Live)",
+        "url": "https://open.spotify.com/album/4mjY6VfFAXgbvw95PaSu8b"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-12",
+      "duration_ms": 504893,
+      "name": "This Train - Live",
+      "url": "https://open.spotify.com/track/3TfM4iSLcv9f7mhp0GM1Yp"
+    },
+    {
+      "album": {
+        "name": "Live at New Orleans Jazz & Heritage Festival",
+        "url": "https://open.spotify.com/album/4FP1Vx6vQWWAAFNjLpL15J"
+      },
+      "artists": [
+        {
+          "name": "Chris Thomas King",
+          "url": "https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN"
+        }
+      ],
+      "date_added": "2022-04-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 498752,
+      "name": "Three O'Clock Blues / Sweet Sixteen (Medley) - Live at New Orleans Jazz & Heritage Festival, 2015",
+      "url": "https://open.spotify.com/track/6zKPUuCXaM4KDKlPcWBLCZ"
+    },
+    {
+      "album": {
+        "name": "Thunder in the Sky (Live at the Marshall Studio)",
+        "url": "https://open.spotify.com/album/1eSGbs2e2grK3xqQmPjjc4"
+      },
+      "artists": [
+        {
+          "name": "Laurence Jones",
+          "url": "https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj"
+        }
+      ],
+      "date_added": "2023-01-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552275,
+      "name": "Thunder in the Sky (Live at the Marshall Studio)",
+      "url": "https://open.spotify.com/track/3dGArQ1Z4jUSOc8fJ8n6kj"
+    },
+    {
+      "album": {
+        "name": "Backstage Pass (Live)",
+        "url": "https://open.spotify.com/album/0jacoX6zadwW0ESPf6Bmzn"
+      },
+      "artists": [
+        {
+          "name": "Ghost Town Blues Band",
+          "url": "https://open.spotify.com/artist/4VblfNPhfhWsX28dEgV4sK"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268650,
+      "name": "Tip of My Hat (Live)",
+      "url": "https://open.spotify.com/track/3utyGdz94oMBMSnEV6Cz8N"
+    },
+    {
+      "album": {
+        "name": "Touch My Blues Away",
+        "url": "https://open.spotify.com/album/2Jh6Ii9Em3lasO8XnubXkR"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 544640,
+      "name": "Touch My Blues Away - Live",
+      "url": "https://open.spotify.com/track/6UhzXmU7lviIUDmuUJY5sM"
+    },
+    {
+      "album": {
+        "name": "LIVE! In Chicago",
+        "url": "https://open.spotify.com/album/5hacXiG8xBevQ7ZWH3KCg2"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 354893,
+      "name": "True Lies",
+      "url": "https://open.spotify.com/track/2KLT80GTeO0klP5VS8aNHB"
+    },
+    {
+      "album": {
+        "name": "Live in Chicago",
+        "url": "https://open.spotify.com/album/3ljFmredCgsn5o8WsjJBBa"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354880,
+      "name": "True Lies - Live",
+      "url": "https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ"
+    },
+    {
+      "album": {
+        "name": "Underneath The River (Live 2023)",
+        "url": "https://open.spotify.com/album/19HeG1fcpAL9DoQ9utLxhq"
+      },
+      "artists": [
+        {
+          "name": "Jo Harman",
+          "url": "https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394880,
+      "name": "Underneath The River - Live 2023",
+      "url": "https://open.spotify.com/track/2pgRRXsHtZe5OpHD6FmKgC"
+    },
+    {
+      "album": {
+        "name": "Live at the '62 Center",
+        "url": "https://open.spotify.com/album/4j4Uu6TIBjVFcGvm57olqw"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324440,
+      "name": "Up Your Sleeve - Live",
+      "url": "https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG"
+    },
+    {
+      "album": {
+        "name": "King King Live",
+        "url": "https://open.spotify.com/album/05nIedmPU5AOXRPP6uztMv"
+      },
+      "artists": [
+        {
+          "name": "King King",
+          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 383306,
+      "name": "Wait On Time - Live",
+      "url": "https://open.spotify.com/track/6idWc3OukhbJmzdILw0KRb"
+    },
+    {
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1JWPmLxchThxITEJDKXK8B"
+      },
+      "artists": [
+        {
+          "name": "King King",
+          "url": "https://open.spotify.com/artist/4SXsNXgRundFdewI58vbZT"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386853,
+      "name": "Wait on Time - Live",
+      "url": "https://open.spotify.com/track/7Dpg9MtXvP4SmT5JCHJOMk"
+    },
+    {
+      "album": {
+        "name": "Walk In My Shadow (Live)",
+        "url": "https://open.spotify.com/album/3c92mQu8Q4IqtrW7qxatLT"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2021-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269360,
+      "name": "Walk In My Shadow - Live",
+      "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"
+    },
+    {
+      "album": {
+        "name": "Watchagonnado (Live)",
+        "url": "https://open.spotify.com/album/6X1thdV5sgh1sFkP81K4lg"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-21",
+      "duration_ms": 329840,
+      "name": "Watchagonnado (Live)",
+      "url": "https://open.spotify.com/track/3O3ZFiWatJ9nm8C9AhCh5z"
+    },
+    {
+      "album": {
+        "name": "Road Chronicles: Live!",
+        "url": "https://open.spotify.com/album/2A4kEXoGNdaZiAlWb4njWq"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329840,
+      "name": "Watchagonnado - Live",
+      "url": "https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81"
+    },
+    {
+      "album": {
+        "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
+        "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
+      },
+      "artists": [
+        {
+          "name": "Tasha Taylor",
+          "url": "https://open.spotify.com/artist/5FvwlIaI3vlml6cqXW4Lcq"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218026,
+      "name": "Weatherman",
+      "url": "https://open.spotify.com/track/6bBgUtF72eMRVkxIKA8NXY"
+    },
+    {
+      "album": {
+        "name": "West L.A. Fadeaway (Live)",
+        "url": "https://open.spotify.com/album/5PHRvGUOV1Y9IUApM4MKHy"
+      },
+      "artists": [
+        {
+          "name": "Bob Weir",
+          "url": "https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC"
+        }
+      ],
+      "date_added": "2022-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 771564,
+      "name": "West L.A. Fadeaway - Live",
+      "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
+    },
+    {
+      "album": {
+        "name": "What Kind Of Fool (Live from Haute Spot)",
+        "url": "https://open.spotify.com/album/4y4WAI9zFPkgDphk9kgvn7"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271826,
+      "name": "What Kind Of Fool - Live from Haute Spot",
+      "url": "https://open.spotify.com/track/6wXEjuK8cueaGdyiLat7M0"
+    },
+    {
+      "album": {
+        "name": "Live In Concert",
+        "url": "https://open.spotify.com/album/6TOF0HspY35bCInZMhcPjw"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaeshammer",
+          "url": "https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07"
+        },
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/3ELWEa23WwNkAHrosWjy8d"
+    },
+    {
+      "album": {
+        "name": "Live In Concert",
+        "url": "https://open.spotify.com/album/2O6PBRZYz7a9wEUbE7SZkS"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaeshammer",
+          "url": "https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07"
+        },
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-25",
+      "duration_ms": 252106,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/7AAT2kq93xihoOP0RsrQQm"
+    },
+    {
+      "album": {
+        "name": "Why Does It Take So Long To Say Goodbye (Live)",
+        "url": "https://open.spotify.com/album/3CDI2rvne7PElFMRn7rLL9"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2021-05-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 574040,
+      "name": "Why Does It Take So Long To Say Goodbye - Live",
+      "url": "https://open.spotify.com/track/21Ck3GOPmXqiUQaOo4pmVs"
+    },
+    {
+      "album": {
+        "name": "Feel So Good: Albert Cummings Live",
+        "url": "https://open.spotify.com/album/1eiDms6tFvFwd4tNdTRnPm"
+      },
+      "artists": [
+        {
+          "name": "Albert Cummings",
+          "url": "https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187426,
+      "name": "Why Me - Live",
+      "url": "https://open.spotify.com/track/1xap6bAZwxNGs1hIYwEzWw"
+    },
+    {
+      "album": {
+        "name": "Woman Like You (Live)",
+        "url": "https://open.spotify.com/album/1msthZSXHGScgsBHkPQV1p"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260133,
+      "name": "Woman Like You - Live",
+      "url": "https://open.spotify.com/track/0T6JNuBGbmRWizQ6Vdcchz"
+    },
+    {
+      "album": {
+        "name": "Straight To You: Live",
+        "url": "https://open.spotify.com/album/7p4qRYemsDOLfWreax8Orc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Wayne Shepherd",
+          "url": "https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260133,
+      "name": "Woman Like You - Live",
+      "url": "https://open.spotify.com/track/7fcve4UR0NqDr84DiNGwA8"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DWT1RLff7HxDm"
 }

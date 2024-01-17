@@ -4,7 +4,7 @@
 
 > Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
-84 songs - 5 hr 13 min
+85 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Buhe Bariyan](https://open.spotify.com/track/7pLAInWOrNnbR3RBsz5HZK) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8) | [Buhe Bariyan](https://open.spotify.com/album/50MHfytKPljf732R1f6dw0) | 4:41 | 2022-04-28 | 2022-07-29 |
 | [Buhe Bariyan](https://open.spotify.com/track/2S7jQnlsEVgMpNyZzPPwgK) | [Shibani Kashyap](https://open.spotify.com/artist/3C7kSV4XIr4XrrNctgAG1v) | [Buhe Bariyan](https://open.spotify.com/album/5vpSmKJ6pSPcGqLfHGfmpU) | 3:21 | 2021-11-03 |  |
 | [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 | 2023-10-10 |  |
-| [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 |  |
+| [Challa](https://open.spotify.com/track/1BC9X8XmSRlvpkVR3H3eEr) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Maan Punjab Da](https://open.spotify.com/album/5MsVXD3K0gvlvVrTlSnBZX) | 6:46 | 2023-12-21 |  |
+| [Challa](https://open.spotify.com/track/2rfnZnHrgIpciZb78nWwKX) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4qlU0pl3svPl0jArs2Upo7) | 6:46 | 2022-07-16 | 2024-01-08 |
 | [Challa](https://open.spotify.com/track/4Au2BuSo70ozHs8TFE2dwh) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Laung Da Lishkara](https://open.spotify.com/album/55LNP0Gwa2VONSPlxbycVW) | 6:46 | 2021-11-03 | 2022-07-29 |
 | [Challa \- Spotify Singles](https://open.spotify.com/track/3zvzQBIjjVRTdYmsdiBvNm) | [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT), [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Challa \- Spotify Singles](https://open.spotify.com/album/3u7kkfoyrcF13kxMn3o23J) | 4:43 | 2023-03-18 |  |
 | [Challa Mera Jee Dhola](https://open.spotify.com/track/5eFYClAF0m6zOjH9JeCByt) | [Annie Ahluwalia](https://open.spotify.com/artist/05K8h7cidaFrQ33vhu6IZ0) | [Challa Mera Jee Dhola](https://open.spotify.com/album/684ZR78vU7xTzpX8Rpad8j) | 3:38 | 2021-11-03 |  |

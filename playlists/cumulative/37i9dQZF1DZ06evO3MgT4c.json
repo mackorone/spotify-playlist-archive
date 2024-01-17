@@ -314,6 +314,24 @@
           "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
         }
       ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198077,
+      "name": "First 48",
+      "url": "https://open.spotify.com/track/2qSZwaENTR05AE259NUxlK"
+    },
+    {
+      "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -920,7 +938,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 239826,
       "name": "Seize The Block",
       "url": "https://open.spotify.com/track/0WQJIDidlJOv2C2PyvDUv5"
@@ -1192,7 +1210,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": "2024-01-15",
       "duration_ms": 248506,
       "name": "What the Price",
       "url": "https://open.spotify.com/track/74tYjkmVk06hYJzzzskWa0"

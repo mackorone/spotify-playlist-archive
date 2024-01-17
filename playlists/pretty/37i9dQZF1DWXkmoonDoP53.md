@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXkmoonDoP53.md) - [plain]
 
 > Featuring Kali Uchis, Zion & Lennox, Anitta & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,051 likes - 27 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,101 likes - 27 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

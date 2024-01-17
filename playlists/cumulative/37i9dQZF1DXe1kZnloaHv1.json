@@ -587,6 +587,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Loneliness",
+        "url": "https://open.spotify.com/album/5b2HkRfL1LVo0ygJRg9XaN"
+      },
+      "artists": [
+        {
+          "name": "MOVNING",
+          "url": "https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184946,
+      "name": "Ordinary Loneliness",
+      "url": "https://open.spotify.com/track/5O4VdhbB1PY0P0t9VyB98G"
+    },
+    {
+      "album": {
         "name": "Hi, I am Deulre Jang",
         "url": "https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9"
       },

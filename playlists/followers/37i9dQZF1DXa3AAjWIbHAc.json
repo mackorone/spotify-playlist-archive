@@ -1,621 +1,1567 @@
 {
-  "2022-04-19": 548,
-  "2022-04-20": 549,
-  "2022-04-21": 549,
-  "2022-04-22": 549,
-  "2022-04-23": 549,
-  "2022-04-24": 549,
-  "2022-04-25": 549,
-  "2022-04-26": 549,
-  "2022-04-27": 548,
-  "2022-04-28": 548,
-  "2022-04-29": 548,
-  "2022-04-30": 548,
-  "2022-05-01": 548,
-  "2022-05-02": 548,
-  "2022-05-03": 549,
-  "2022-05-04": 549,
-  "2022-05-05": 549,
-  "2022-05-06": 548,
-  "2022-05-07": 549,
-  "2022-05-08": 549,
-  "2022-05-09": 549,
-  "2022-05-10": 549,
-  "2022-05-11": 549,
-  "2022-05-12": 549,
-  "2022-05-13": 549,
-  "2022-05-14": 550,
-  "2022-05-15": 550,
-  "2022-05-16": 550,
-  "2022-05-17": 551,
-  "2022-05-18": 551,
-  "2022-05-19": 552,
-  "2022-05-20": 552,
-  "2022-05-21": 552,
-  "2022-05-22": 552,
-  "2022-05-23": 553,
-  "2022-05-24": 553,
-  "2022-05-25": 554,
-  "2022-05-26": 554,
-  "2022-05-27": 554,
-  "2022-05-28": 555,
-  "2022-05-29": 555,
-  "2022-05-30": 556,
-  "2022-05-31": 556,
-  "2022-06-01": 556,
-  "2022-06-02": 557,
-  "2022-06-03": 557,
-  "2022-06-04": 558,
-  "2022-06-05": 558,
-  "2022-06-06": 558,
-  "2022-06-07": 559,
-  "2022-06-08": 559,
-  "2022-06-09": 559,
-  "2022-06-10": 560,
-  "2022-06-11": 560,
-  "2022-06-12": 560,
-  "2022-06-13": 560,
-  "2022-06-14": 559,
-  "2022-06-15": 559,
-  "2022-06-16": 559,
-  "2022-06-17": 559,
-  "2022-06-18": 559,
-  "2022-06-19": 558,
-  "2022-06-20": 558,
-  "2022-06-21": 557,
-  "2022-06-22": 557,
-  "2022-06-23": 557,
-  "2022-06-24": 558,
-  "2022-06-25": 558,
-  "2022-06-26": 558,
-  "2022-06-27": 559,
-  "2022-06-28": 559,
-  "2022-06-29": 559,
-  "2022-06-30": 559,
-  "2022-07-01": 559,
-  "2022-07-02": 559,
-  "2022-07-03": 558,
-  "2022-07-04": 559,
-  "2022-07-05": 558,
-  "2022-07-06": 558,
-  "2022-07-07": 559,
-  "2022-07-08": 559,
-  "2022-07-09": 559,
-  "2022-07-10": 558,
-  "2022-07-11": 558,
-  "2022-07-12": 558,
-  "2022-07-13": 558,
-  "2022-07-14": 559,
-  "2022-07-15": 559,
-  "2022-07-16": 559,
-  "2022-07-17": 559,
-  "2022-07-18": 559,
-  "2022-07-19": 558,
-  "2022-07-20": 559,
-  "2022-07-21": 559,
-  "2022-07-22": 559,
-  "2022-07-23": 559,
-  "2022-07-24": 559,
-  "2022-07-25": 559,
-  "2022-07-26": 559,
-  "2022-07-27": 559,
-  "2022-07-28": 559,
-  "2022-07-29": 559,
-  "2022-07-30": 560,
-  "2022-07-31": 560,
-  "2022-08-01": 561,
-  "2022-08-02": 561,
-  "2022-08-03": 561,
-  "2022-08-04": 561,
-  "2022-08-05": 561,
-  "2022-08-06": 561,
-  "2022-08-07": 562,
-  "2022-08-08": 562,
-  "2022-08-09": 562,
-  "2022-08-10": 562,
-  "2022-08-11": 561,
-  "2022-08-12": 561,
-  "2022-08-13": 561,
-  "2022-08-14": 562,
-  "2022-08-15": 563,
-  "2022-08-16": 563,
-  "2022-08-17": 563,
-  "2022-08-18": 563,
-  "2022-08-19": 564,
-  "2022-08-20": 565,
-  "2022-08-21": 565,
-  "2022-08-22": 565,
-  "2022-08-23": 565,
-  "2022-08-24": 566,
-  "2022-08-25": 567,
-  "2022-08-26": 567,
-  "2022-08-27": 567,
-  "2022-08-28": 568,
-  "2022-08-29": 568,
-  "2022-08-30": 568,
-  "2022-08-31": 568,
-  "2022-09-01": 568,
-  "2022-09-02": 567,
-  "2022-09-03": 568,
-  "2022-09-04": 568,
-  "2022-09-05": 569,
-  "2022-09-06": 569,
-  "2022-09-07": 569,
-  "2022-09-09": 571,
-  "2022-09-10": 572,
-  "2022-09-11": 573,
-  "2022-09-12": 573,
-  "2022-09-13": 573,
-  "2022-09-15": 573,
-  "2022-09-16": 574,
-  "2022-09-17": 574,
-  "2022-09-18": 574,
-  "2022-09-19": 574,
-  "2022-09-20": 575,
-  "2022-09-21": 575,
-  "2022-09-22": 575,
-  "2022-09-23": 576,
-  "2022-09-24": 576,
-  "2022-09-25": 576,
-  "2022-09-26": 577,
-  "2022-09-27": 578,
-  "2022-09-28": 581,
-  "2022-09-29": 581,
-  "2022-09-30": 581,
-  "2022-10-01": 581,
-  "2022-10-02": 582,
-  "2022-10-03": 582,
-  "2022-10-04": 582,
-  "2022-10-05": 583,
-  "2022-10-06": 584,
-  "2022-10-07": 584,
-  "2022-10-08": 585,
-  "2022-10-09": 585,
-  "2022-10-10": 585,
-  "2022-10-11": 585,
-  "2022-10-12": 585,
-  "2022-10-13": 585,
-  "2022-10-14": 587,
-  "2022-10-15": 587,
-  "2022-10-16": 587,
-  "2022-10-17": 587,
-  "2022-10-18": 587,
-  "2022-10-19": 587,
-  "2022-10-20": 587,
-  "2022-10-21": 587,
-  "2022-10-22": 587,
-  "2022-10-23": 587,
-  "2022-10-24": 587,
-  "2022-10-25": 588,
-  "2022-10-26": 588,
-  "2022-10-27": 588,
-  "2022-10-28": 588,
-  "2022-10-29": 588,
-  "2022-10-30": 589,
-  "2022-10-31": 589,
-  "2022-11-01": 589,
-  "2022-11-02": 589,
-  "2022-11-03": 593,
-  "2022-11-04": 593,
-  "2022-11-05": 594,
-  "2022-11-06": 594,
-  "2022-11-07": 594,
-  "2022-11-08": 594,
-  "2022-11-09": 594,
-  "2022-11-10": 595,
-  "2022-11-11": 596,
-  "2022-11-12": 597,
-  "2022-11-13": 597,
-  "2022-11-14": 597,
-  "2022-11-15": 596,
-  "2022-11-16": 596,
-  "2022-11-17": 597,
-  "2022-11-18": 597,
-  "2022-11-19": 596,
-  "2022-11-20": 597,
-  "2022-11-21": 597,
-  "2022-11-22": 597,
-  "2022-11-23": 597,
-  "2022-11-24": 598,
-  "2022-11-25": 598,
-  "2022-11-26": 600,
-  "2022-11-27": 600,
-  "2022-11-28": 600,
-  "2022-11-29": 601,
-  "2022-11-30": 602,
-  "2022-12-01": 602,
-  "2022-12-02": 602,
-  "2022-12-03": 602,
-  "2022-12-04": 603,
-  "2022-12-05": 603,
-  "2022-12-06": 604,
-  "2022-12-07": 604,
-  "2022-12-08": 604,
-  "2022-12-09": 605,
-  "2022-12-10": 605,
-  "2022-12-11": 605,
-  "2022-12-12": 604,
-  "2022-12-13": 604,
-  "2022-12-14": 603,
-  "2022-12-15": 605,
-  "2022-12-16": 605,
-  "2022-12-17": 605,
-  "2022-12-18": 606,
-  "2022-12-19": 606,
-  "2022-12-20": 608,
-  "2022-12-21": 608,
-  "2022-12-22": 609,
-  "2022-12-24": 609,
-  "2022-12-25": 609,
-  "2022-12-26": 609,
-  "2022-12-27": 608,
-  "2022-12-28": 608,
-  "2022-12-29": 609,
-  "2022-12-30": 609,
-  "2022-12-31": 610,
-  "2023-01-01": 612,
-  "2023-01-02": 612,
-  "2023-01-03": 612,
-  "2023-01-04": 612,
-  "2023-01-05": 611,
-  "2023-01-06": 613,
-  "2023-01-07": 614,
-  "2023-01-08": 614,
-  "2023-01-09": 614,
-  "2023-01-10": 614,
-  "2023-01-11": 615,
-  "2023-01-12": 615,
-  "2023-01-13": 615,
-  "2023-01-14": 615,
-  "2023-01-15": 615,
-  "2023-01-16": 615,
-  "2023-01-17": 615,
-  "2023-01-18": 615,
-  "2023-01-19": 615,
-  "2023-01-20": 614,
-  "2023-01-21": 617,
-  "2023-01-22": 618,
-  "2023-01-23": 618,
-  "2023-01-24": 618,
-  "2023-01-25": 618,
-  "2023-01-26": 620,
-  "2023-01-27": 619,
-  "2023-01-28": 620,
-  "2023-01-29": 620,
-  "2023-01-30": 620,
-  "2023-01-31": 620,
-  "2023-02-01": 620,
-  "2023-02-02": 619,
-  "2023-02-03": 622,
-  "2023-02-04": 623,
-  "2023-02-05": 623,
-  "2023-02-06": 622,
-  "2023-02-07": 621,
-  "2023-02-08": 622,
-  "2023-02-09": 622,
-  "2023-02-10": 622,
-  "2023-02-11": 622,
-  "2023-02-12": 623,
-  "2023-02-13": 623,
-  "2023-02-14": 623,
-  "2023-02-15": 623,
-  "2023-02-16": 623,
-  "2023-02-17": 623,
-  "2023-02-18": 624,
-  "2023-02-19": 624,
-  "2023-02-20": 624,
-  "2023-02-21": 624,
-  "2023-02-22": 624,
-  "2023-02-23": 624,
-  "2023-02-24": 624,
-  "2023-02-25": 624,
-  "2023-02-26": 624,
-  "2023-02-27": 624,
-  "2023-02-28": 624,
-  "2023-03-01": 624,
-  "2023-03-02": 624,
-  "2023-03-03": 624,
-  "2023-03-04": 624,
-  "2023-03-05": 626,
-  "2023-03-06": 626,
-  "2023-03-07": 626,
-  "2023-03-08": 626,
-  "2023-03-09": 627,
-  "2023-03-10": 627,
-  "2023-03-11": 627,
-  "2023-03-12": 627,
-  "2023-03-13": 627,
-  "2023-03-14": 627,
-  "2023-03-15": 627,
-  "2023-03-16": 627,
-  "2023-03-17": 627,
-  "2023-03-18": 628,
-  "2023-03-19": 627,
-  "2023-03-20": 629,
-  "2023-03-21": 628,
-  "2023-03-22": 628,
-  "2023-03-23": 628,
-  "2023-03-24": 628,
-  "2023-03-25": 628,
-  "2023-03-26": 628,
-  "2023-03-27": 629,
-  "2023-03-28": 630,
-  "2023-03-29": 631,
-  "2023-03-30": 630,
-  "2023-03-31": 630,
-  "2023-04-01": 630,
-  "2023-04-02": 630,
-  "2023-04-03": 630,
-  "2023-04-04": 631,
-  "2023-04-05": 631,
-  "2023-04-06": 631,
-  "2023-04-07": 630,
-  "2023-04-09": 629,
-  "2023-04-10": 629,
-  "2023-04-11": 629,
-  "2023-04-12": 629,
-  "2023-04-13": 629,
-  "2023-04-14": 629,
-  "2023-04-15": 629,
-  "2023-04-16": 629,
-  "2023-04-17": 629,
-  "2023-04-18": 629,
-  "2023-04-19": 629,
-  "2023-04-20": 629,
-  "2023-04-21": 629,
-  "2023-04-22": 628,
-  "2023-04-23": 628,
-  "2023-04-24": 627,
-  "2023-04-25": 627,
-  "2023-04-26": 627,
-  "2023-04-27": 627,
-  "2023-04-28": 627,
-  "2023-04-29": 627,
-  "2023-04-30": 627,
-  "2023-05-01": 627,
-  "2023-05-02": 626,
-  "2023-05-03": 626,
-  "2023-05-04": 625,
-  "2023-05-05": 626,
-  "2023-05-06": 626,
-  "2023-05-07": 626,
-  "2023-05-08": 626,
-  "2023-05-09": 626,
-  "2023-05-10": 626,
-  "2023-05-11": 626,
-  "2023-05-12": 626,
-  "2023-05-13": 625,
-  "2023-05-14": 625,
-  "2023-05-15": 626,
-  "2023-05-16": 626,
-  "2023-05-17": 626,
-  "2023-05-18": 627,
-  "2023-05-19": 627,
-  "2023-05-20": 625,
-  "2023-05-21": 625,
-  "2023-05-22": 625,
-  "2023-05-23": 626,
-  "2023-05-24": 627,
-  "2023-05-25": 627,
-  "2023-05-26": 627,
-  "2023-05-27": 627,
-  "2023-05-28": 627,
-  "2023-05-29": 627,
-  "2023-05-30": 625,
-  "2023-05-31": 625,
-  "2023-06-01": 625,
-  "2023-06-02": 625,
-  "2023-06-03": 625,
-  "2023-06-04": 625,
-  "2023-06-05": 625,
-  "2023-06-06": 625,
-  "2023-06-07": 625,
-  "2023-06-08": 625,
-  "2023-06-09": 625,
-  "2023-06-10": 625,
-  "2023-06-11": 625,
-  "2023-06-12": 626,
-  "2023-06-13": 625,
-  "2023-06-14": 625,
-  "2023-06-15": 625,
-  "2023-06-16": 626,
-  "2023-06-17": 626,
-  "2023-06-18": 626,
-  "2023-06-19": 626,
-  "2023-06-20": 627,
-  "2023-06-21": 627,
-  "2023-06-22": 627,
-  "2023-06-23": 627,
-  "2023-06-24": 627,
-  "2023-06-25": 627,
-  "2023-06-26": 627,
-  "2023-06-27": 627,
-  "2023-06-28": 627,
-  "2023-06-29": 627,
-  "2023-06-30": 627,
-  "2023-07-01": 626,
-  "2023-07-02": 626,
-  "2023-07-03": 626,
-  "2023-07-04": 626,
-  "2023-07-05": 626,
-  "2023-07-06": 626,
-  "2023-07-07": 626,
-  "2023-07-08": 626,
-  "2023-07-09": 626,
-  "2023-07-10": 626,
-  "2023-07-11": 626,
-  "2023-07-12": 626,
-  "2023-07-13": 626,
-  "2023-07-14": 626,
-  "2023-07-15": 625,
-  "2023-07-16": 626,
-  "2023-07-17": 626,
-  "2023-07-18": 626,
-  "2023-07-19": 626,
-  "2023-07-20": 626,
-  "2023-07-21": 626,
-  "2023-07-22": 626,
-  "2023-07-23": 626,
-  "2023-07-24": 626,
-  "2023-07-25": 626,
-  "2023-07-26": 626,
-  "2023-07-27": 626,
-  "2023-07-28": 626,
-  "2023-07-29": 626,
-  "2023-07-30": 626,
-  "2023-07-31": 626,
-  "2023-08-01": 626,
-  "2023-08-02": 626,
-  "2023-08-03": 627,
-  "2023-08-04": 627,
-  "2023-08-05": 627,
-  "2023-08-06": 628,
-  "2023-08-07": 628,
-  "2023-08-08": 628,
-  "2023-08-09": 628,
-  "2023-08-10": 629,
-  "2023-08-11": 628,
-  "2023-08-12": 628,
-  "2023-08-13": 629,
-  "2023-08-14": 629,
-  "2023-08-15": 629,
-  "2023-08-16": 629,
-  "2023-08-17": 630,
-  "2023-08-18": 630,
-  "2023-08-19": 630,
-  "2023-08-20": 631,
-  "2023-08-21": 631,
-  "2023-08-22": 631,
-  "2023-08-23": 631,
-  "2023-08-24": 631,
-  "2023-08-25": 631,
-  "2023-08-26": 631,
-  "2023-08-27": 631,
-  "2023-08-28": 631,
-  "2023-08-29": 631,
-  "2023-08-30": 631,
-  "2023-08-31": 632,
-  "2023-09-01": 632,
-  "2023-09-02": 632,
-  "2023-09-03": 632,
-  "2023-09-04": 632,
-  "2023-09-05": 632,
-  "2023-09-06": 632,
-  "2023-09-07": 632,
-  "2023-09-08": 633,
-  "2023-09-09": 633,
-  "2023-09-10": 632,
-  "2023-09-11": 632,
-  "2023-09-12": 632,
-  "2023-09-13": 632,
-  "2023-09-14": 632,
-  "2023-09-15": 632,
-  "2023-09-16": 632,
-  "2023-09-17": 632,
-  "2023-09-18": 632,
-  "2023-09-19": 632,
-  "2023-09-20": 632,
-  "2023-09-21": 632,
-  "2023-09-22": 632,
-  "2023-09-23": 632,
-  "2023-09-24": 632,
-  "2023-09-25": 632,
-  "2023-09-26": 632,
-  "2023-09-27": 632,
-  "2023-09-28": 632,
-  "2023-09-29": 632,
-  "2023-09-30": 632,
-  "2023-10-01": 632,
-  "2023-10-02": 632,
-  "2023-10-03": 632,
-  "2023-10-04": 632,
-  "2023-10-05": 632,
-  "2023-10-06": 632,
-  "2023-10-07": 632,
-  "2023-10-08": 632,
-  "2023-10-09": 632,
-  "2023-10-10": 632,
-  "2023-10-11": 632,
-  "2023-10-12": 632,
-  "2023-10-13": 632,
-  "2023-10-14": 632,
-  "2023-10-15": 632,
-  "2023-10-16": 632,
-  "2023-10-17": 632,
-  "2023-10-18": 632,
-  "2023-10-19": 632,
-  "2023-10-20": 632,
-  "2023-10-21": 632,
-  "2023-10-22": 632,
-  "2023-10-23": 632,
-  "2023-10-24": 632,
-  "2023-10-25": 632,
-  "2023-10-26": 632,
-  "2023-10-27": 632,
-  "2023-10-28": 632,
-  "2023-10-29": 632,
-  "2023-10-30": 632,
-  "2023-10-31": 632,
-  "2023-11-01": 632,
-  "2023-11-02": 632,
-  "2023-11-03": 632,
-  "2023-11-04": 632,
-  "2023-11-05": 632,
-  "2023-11-06": 632,
-  "2023-11-07": 632,
-  "2023-11-08": 632,
-  "2023-11-09": 632,
-  "2023-11-10": 632,
-  "2023-11-11": 632,
-  "2023-11-12": 632,
-  "2023-11-13": 632,
-  "2023-11-14": 632,
-  "2023-11-15": 632,
-  "2023-11-16": 632,
-  "2023-11-17": 632,
-  "2023-11-18": 632,
-  "2023-11-19": 632,
-  "2023-11-20": 632,
-  "2023-11-21": 632,
-  "2023-11-22": 632,
-  "2023-11-23": 632,
-  "2023-11-24": 632,
-  "2023-11-25": 632,
-  "2023-11-26": 632,
-  "2023-11-27": 632,
-  "2023-11-28": 632,
-  "2023-11-29": 632,
-  "2023-11-30": 632,
-  "2023-12-01": 632,
-  "2023-12-02": 632,
-  "2023-12-03": 632,
-  "2023-12-04": 632,
-  "2023-12-05": 632,
-  "2023-12-06": 632,
-  "2023-12-07": 632,
-  "2023-12-08": 632,
-  "2023-12-09": 632,
-  "2023-12-10": 632,
-  "2023-12-11": 632,
-  "2023-12-12": 632,
-  "2023-12-13": 632,
-  "2023-12-14": 632,
-  "2023-12-15": 632,
-  "2023-12-16": 632,
-  "2023-12-17": 632,
-  "2023-12-18": 632,
-  "2023-12-19": 632,
-  "2023-12-20": 632,
-  "2023-12-21": 632,
-  "2023-12-22": 632,
-  "2023-12-23": 632,
-  "2023-12-24": 632,
-  "2023-12-25": 632,
-  "2023-12-26": 632,
-  "2023-12-27": 632,
-  "2023-12-30": 632,
-  "2023-12-31": 632,
-  "2024-01-01": 632,
-  "2024-01-02": 632,
-  "2024-01-03": 632
+  "2024-01-17": 632,
+  "date_first_scraped": "2022-04-19",
+  "description": "Get your kid's day started with these high-energy songs in English and Spanish!",
+  "name": "Morning Energ\u00eda",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u00a1Viva Mi Planeta 2!",
+        "url": "https://open.spotify.com/album/75DqI2Vyklgc4fDTzISbWb"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114080,
+      "name": "A Divertirse",
+      "url": "https://open.spotify.com/track/1URPFeH9U75h8hCjyZylEA"
+    },
+    {
+      "album": {
+        "name": "Equestria Girls (Original Motion Picture Soundtrack) [Espa\u00f1ol Version]",
+        "url": "https://open.spotify.com/album/21xLInS9Ywz3oKwWPL7VgQ"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-16",
+      "duration_ms": 146195,
+      "name": "A Friend For Life - Spanish",
+      "url": "https://open.spotify.com/track/6yL79T8FDd4YaxwtrudizR"
+    },
+    {
+      "album": {
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+      },
+      "artists": [
+        {
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "album": {
+        "name": "Morko y Mali - Aventuras en la selva (La m\u00fasica de la serie de Disney Junior)",
+        "url": "https://open.spotify.com/album/5a7iiIrDjs5GlgoPsR21Xb"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Morko y Mali",
+          "url": "https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148666,
+      "name": "Amigos peque\u00f1os, amigos grandes - De Morko y Mali",
+      "url": "https://open.spotify.com/track/3wdM8YyHCEy5NBviEK6qBQ"
+    },
+    {
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+    },
+    {
+      "album": {
+        "name": "Pinkfong Presents: The Best of Baby Shark",
+        "url": "https://open.spotify.com/album/3QzOkjbkCXewXdy8VuZQan"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84156,
+      "name": "Baby Shark",
+      "url": "https://open.spotify.com/track/571Jz87ytvwTv205mToeaG"
+    },
+    {
+      "album": {
+        "name": "Best Day (Angry Birds 2 Remix)",
+        "url": "https://open.spotify.com/album/5x9vJFGBCTnxu8gcG4xoTd"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179905,
+      "name": "Best Day (Angry Birds 2 Remix)",
+      "url": "https://open.spotify.com/track/2eh4qe6wmq7he6O76CS0o3"
+    },
+    {
+      "album": {
+        "name": "Equestria Girls: Rainbow Rocks (Original Motion Picture Soundtrack) [Espa\u00f1ol Version]",
+        "url": "https://open.spotify.com/album/5mjMVkEkyt4KkI6TJdgI1C"
+      },
+      "artists": [
+        {
+          "name": "The Rainbooms",
+          "url": "https://open.spotify.com/artist/3MnwdfA9wrbcQ2UKWoTC7n"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95138,
+      "name": "Better Than Ever - Spanish",
+      "url": "https://open.spotify.com/track/5nqJ3uKWXgoE7fJFwFG6la"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/4EB3X4HFVCptX7k6raTtkt"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0BGNXAcQi4cUN5Nbjf4Jn6"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/0c3hmNiRxvBihY6naTLgE9"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/0mDH8XQRpQUGkXXZzYAyu0"
+    },
+    {
+      "album": {
+        "name": "Bop!",
+        "url": "https://open.spotify.com/album/2mkXqWgvcHVNM2Vy6kHH2R"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-24",
+      "duration_ms": 156581,
+      "name": "Bop!",
+      "url": "https://open.spotify.com/track/3Q1gQYEuz3jXyUXgSkimGH"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/4a9tbd947vo9K8Vti9JwcI"
+    },
+    {
+      "album": {
+        "name": "MAP OF THE SOUL : PERSONA",
+        "url": "https://open.spotify.com/album/1AvXa8xFEXtR3hb4bgihIK"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 229773,
+      "name": "Boy With Luv (feat. Halsey)",
+      "url": "https://open.spotify.com/track/5KawlOMHjWeUjQtnuRs22c"
+    },
+    {
+      "album": {
+        "name": "Mickey and The Roadster Racers: Disney Junior Music",
+        "url": "https://open.spotify.com/album/3HyWs0pXZXUsLsLBDGhNzH"
+      },
+      "artists": [
+        {
+          "name": "Cast - Mickey and the Roadster Racers",
+          "url": "https://open.spotify.com/artist/5YMR2MRTB2gJtx6YXjpclk"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46813,
+      "name": "Building a Dream",
+      "url": "https://open.spotify.com/track/1sLgiPnlaqrss17wqCsOKN"
+    },
+    {
+      "album": {
+        "name": "KALLY's Mashup: La M\u00fasica (Banda Sonora Original de la Serie de TV)",
+        "url": "https://open.spotify.com/album/1yPfTYtGiewb69lMr1Iad0"
+      },
+      "artists": [
+        {
+          "name": "KALLY'S Mashup Cast",
+          "url": "https://open.spotify.com/artist/0nw83VlK2Q6UMIxKA9Qoef"
+        },
+        {
+          "name": "Maia Reficco",
+          "url": "https://open.spotify.com/artist/3bSOF3p2LElLzyfeazQSOM"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232800,
+      "name": "Cambia (feat. Maia Reficco) - I've Changed",
+      "url": "https://open.spotify.com/track/6bpOm5U16UZchANDF62hzn"
+    },
+    {
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131213,
+      "name": "Can't Buy Me Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/38Vb1J5W5LOs0i7SAF76pa"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Zooey Deschanel",
+          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Christopher Mintz-Plasse",
+          "url": "https://open.spotify.com/artist/32Y2h6dku6Q2wNpZjj0bHj"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237400,
+      "name": "CAN'T STOP THE FEELING! - Film Version",
+      "url": "https://open.spotify.com/track/4sQmCQUZcnBPaVm4dEUKv7"
+    },
+    {
+      "album": {
+        "name": "Shrek 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/009d83fu2guwouIwqr7i9E"
+      },
+      "artists": [
+        {
+          "name": "Butterfly Boucher",
+          "url": "https://open.spotify.com/artist/3ZAIKutVvLYqmcxfkBz5aP"
+        },
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202093,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5PGYWv9Xp4IraLSDs8h1bY"
+    },
+    {
+      "album": {
+        "name": "Songs Of Ponyville (Espa\u00f1ol / Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/1hbd7VEnyVvFubTbOdVmDK"
+      },
+      "artists": [
+        {
+          "name": "Applebloom",
+          "url": "https://open.spotify.com/artist/7ggsXdK95oJBkuZu1txVjC"
+        },
+        {
+          "name": "Scootaloo",
+          "url": "https://open.spotify.com/artist/5rwhgj3td9SvjL0EJUYOOs"
+        },
+        {
+          "name": "Sweetie Belle",
+          "url": "https://open.spotify.com/artist/5XkbGa8Y1VuGv4ybn6l8Kd"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 123569,
+      "name": "Corazones De Corceles",
+      "url": "https://open.spotify.com/track/040bTZczFPzz6vfsv1bY8B"
+    },
+    {
+      "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 15",
+        "url": "https://open.spotify.com/album/1ReDT78IR7ijQgZwtwGO09"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 232575,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0BxmVoipSZeTtFDgY0n0Z8"
+    },
+    {
+      "album": {
+        "name": "Mini Pop Kids 15",
+        "url": "https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw"
+      },
+      "artists": [
+        {
+          "name": "Mini Pop Kids",
+          "url": "https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232575,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA"
+    },
+    {
+      "album": {
+        "name": "The Lego Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0GFqFY8fZonWLoX6O6tPNX"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        },
+        {
+          "name": "The Lonely Island",
+          "url": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163423,
+      "name": "Everything Is AWESOME!!! (feat. The Lonely Island)",
+      "url": "https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2"
+    },
+    {
+      "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/7MAb0h0jW4yff08JYsIinA"
+      },
+      "artists": [
+        {
+          "name": "Los Polinesios",
+          "url": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206612,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/5u1Nj9PCsHHrEkx4bTTv9T"
+    },
+    {
+      "album": {
+        "name": "Festival",
+        "url": "https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx"
+      },
+      "artists": [
+        {
+          "name": "Los Polinesios",
+          "url": "https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW"
+        },
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-13",
+      "duration_ms": 207580,
+      "name": "Festival",
+      "url": "https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 65903,
+      "name": "Find Your Inner Ghoul",
+      "url": "https://open.spotify.com/track/0INyRGOVccrAV4gDN4q4YR"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "Friday I'm in Love",
+      "url": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38144,
+      "name": "Going on a Mission",
+      "url": "https://open.spotify.com/track/4aY2hh55axhL2qYYqXNoOM"
+    },
+    {
+      "album": {
+        "name": "Revolver (Remastered)",
+        "url": "https://open.spotify.com/album/3PRoXYsngSwjEQWR5PsHWR"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129293,
+      "name": "Good Day Sunshine - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HTH1ppjkkOe7RLoBDKXYJ"
+    },
+    {
+      "album": {
+        "name": "Thank You (Deluxe Version)",
+        "url": "https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221320,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/0Kd3Ih8VZgaetIqke9SIND"
+    },
+    {
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "album": {
+        "name": "Friendship is Magic: Songs of Ponyville (Music From the Original TV Series) [Danish Version]",
+        "url": "https://open.spotify.com/album/7H13jkFEPLfkgKbK7gdBTS"
+      },
+      "artists": [
+        {
+          "name": "Applebloom",
+          "url": "https://open.spotify.com/artist/7ggsXdK95oJBkuZu1txVjC"
+        },
+        {
+          "name": "Scootaloo",
+          "url": "https://open.spotify.com/artist/5rwhgj3td9SvjL0EJUYOOs"
+        },
+        {
+          "name": "Sweetie Belle",
+          "url": "https://open.spotify.com/artist/5XkbGa8Y1VuGv4ybn6l8Kd"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123569,
+      "name": "Hearts as Strong as Horses - Danish",
+      "url": "https://open.spotify.com/track/2Pb3a1ROGOkU1jOrs5pl7R"
+    },
+    {
+      "album": {
+        "name": "Helping Hand",
+        "url": "https://open.spotify.com/album/4nGcbkAywduq8C8e0sPOgA"
+      },
+      "artists": [
+        {
+          "name": "Cast - Sofia the First",
+          "url": "https://open.spotify.com/artist/2ItqDyOHeQBaOPeZmKVu2p"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/5ocA7gtizL3y8huRNXlali"
+        },
+        {
+          "name": "Slickwell",
+          "url": "https://open.spotify.com/artist/70WaNPiHQuLs0ng4rXsyoi"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126733,
+      "name": "Helping Hand",
+      "url": "https://open.spotify.com/track/5URpxqR8omMT0MDufu79ys"
+    },
+    {
+      "album": {
+        "name": "Un nuevo sonido (La m\u00fasica de la serie de Disney Junior)",
+        "url": "https://open.spotify.com/album/1q6mIaXhpze1uhlCuI2zVz"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Morko y Mali",
+          "url": "https://open.spotify.com/artist/4Imx9B5kk3yqdH2i9wMAxW"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156720,
+      "name": "Intenta una vez m\u00e1s",
+      "url": "https://open.spotify.com/track/0tRfgpI5221ofIhVuf9Fie"
+    },
+    {
+      "album": {
+        "name": "DM",
+        "url": "https://open.spotify.com/album/5z5Kk5PO3V8sBnjfnk4ZW7"
+      },
+      "artists": [
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178120,
+      "name": "Invencible",
+      "url": "https://open.spotify.com/track/20Z9Q0zOEOV4fzvkPffczo"
+    },
+    {
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/7Gjjar8TuBWWpjQE24wrQQ"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219706,
+      "name": "Iremos Juntos",
+      "url": "https://open.spotify.com/track/1y6ISux0k9Y2Rou2xEC2Zp"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1T0nc8HicExHdI8g8cF21a"
+      },
+      "artists": [
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 231733,
+      "name": "It\u2019s Gonna Be A Lovely Day (The Secret Life of Pets 2)",
+      "url": "https://open.spotify.com/track/4tZ44neYoPDYX16daNPTdb"
+    },
+    {
+      "album": {
+        "name": "The Secret Life Of Pets 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6v3cV4buefnvRAVq3WzAIE"
+      },
+      "artists": [
+        {
+          "name": "LunchMoney Lewis",
+          "url": "https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231733,
+      "name": "It\u2019s Gonna Be A Lovely Day (The Secret Life Of Pets 2)",
+      "url": "https://open.spotify.com/track/4xsA7WwjehjdZHc1tgG7z0"
+    },
+    {
+      "album": {
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
+      },
+      "artists": [
+        {
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Joy To The World",
+      "url": "https://open.spotify.com/track/0DJk6Vgiiz0tTsTifTnp3K"
+    },
+    {
+      "album": {
+        "name": "Vikki RPM (M\u00fasica Original de la Serie)",
+        "url": "https://open.spotify.com/album/02bck1ND40mmCJ6aY2PkDW"
+      },
+      "artists": [
+        {
+          "name": "Isabella Castillo",
+          "url": "https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125162,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/6mP3f9TRvhCFk3Oxzi2Ft4"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Vampirina - Ghoul Girls Rock!",
+        "url": "https://open.spotify.com/album/6P3dUwpSofsUa4Wuu0kmJf"
+      },
+      "artists": [
+        {
+          "name": "Cast - Vampirina",
+          "url": "https://open.spotify.com/artist/5AnuY9LWaNmuxAwOtJD24w"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105333,
+      "name": "Just Be You",
+      "url": "https://open.spotify.com/track/6ZaZSVjFmBnQxVU9vj8F4j"
+    },
+    {
+      "album": {
+        "name": "Equestria Girls - EP (Espa\u00f1ol / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5JJsZFJqyY1t0nJwI6BnQM"
+      },
+      "artists": [
+        {
+          "name": "My Little Pony",
+          "url": "https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146195,
+      "name": "La Amistad",
+      "url": "https://open.spotify.com/track/5qKp7KpIu23B5AEsw5n4ny"
+    },
+    {
+      "album": {
+        "name": "La Canci\u00f2n",
+        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "La Canci\u00f2n",
+      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
+    },
+    {
+      "album": {
+        "name": "Mas Flow - Los Benjamins",
+        "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw"
+    },
+    {
+      "album": {
+        "name": "Friendship is Magic: Songs of Harmony (Music From the Original TV Series) [Finnish Version]",
+        "url": "https://open.spotify.com/album/17jBvB2ccbpeksfP5LXtUi"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79853,
+      "name": "Let the Rainbow Remind You - Finnish",
+      "url": "https://open.spotify.com/track/4q4s69JiqIh1GmqzhY5Ysd"
+    },
+    {
+      "album": {
+        "name": "Me And My Gang",
+        "url": "https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0"
+      },
+      "artists": [
+        {
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276320,
+      "name": "Life is a Highway",
+      "url": "https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168253,
+      "name": "Me Muevo para Aqu\u00ed",
+      "url": "https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
+    },
+    {
+      "album": {
+        "name": "Rainbow Rocks (Espa\u00f1ol / Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2W74jMDVFSCjMOK5noYM5U"
+      },
+      "artists": [
+        {
+          "name": "The Rainbooms",
+          "url": "https://open.spotify.com/artist/3MnwdfA9wrbcQ2UKWoTC7n"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 95138,
+      "name": "Mejor Que Nunca",
+      "url": "https://open.spotify.com/track/3j8UCyZD0yChDRLfxXWbp6"
+    },
+    {
+      "album": {
+        "name": "TROLLS (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        },
+        {
+          "name": "Ron Funches",
+          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+        },
+        {
+          "name": "Walt Dohrn",
+          "url": "https://open.spotify.com/artist/4hWc4epxTdb1KC3jRd1wDd"
+        },
+        {
+          "name": "Caroline Hjelt",
+          "url": "https://open.spotify.com/artist/0XF3yeiKSQF2zl5H05jfME"
+        },
+        {
+          "name": "Aino Jawo",
+          "url": "https://open.spotify.com/artist/6aIcl5XVRwk32v6hc7lDyV"
+        },
+        {
+          "name": "Kunal Nayyar",
+          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Move Your Feet / D.A.N.C.E. / It's A Sunshine Day",
+      "url": "https://open.spotify.com/track/6d3edMXJpns1A0zGKkmlGw"
+    },
+    {
+      "album": {
+        "name": "Porque yo te quiero",
+        "url": "https://open.spotify.com/album/3jCec881nyRs6s5w0uHr9R"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133466,
+      "name": "No te rindas",
+      "url": "https://open.spotify.com/track/4vIzS1STrc4zIcQxYItAbT"
+    },
+    {
+      "album": {
+        "name": "Marley (The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 172813,
+      "name": "One Love - Medley",
+      "url": "https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ"
+    },
+    {
+      "album": {
+        "name": "Exodus (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI"
+    },
+    {
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172933,
+      "name": "One Love / People Get Ready - Medley",
+      "url": "https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV"
+    },
+    {
+      "album": {
+        "name": "Floricienta y Su Banda",
+        "url": "https://open.spotify.com/album/0DsgA4MT651jBBaXy1It3M"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Pobres los Ricos",
+      "url": "https://open.spotify.com/track/19RXzgw9er0MoJlDrauCYl"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-23",
+      "duration_ms": 198893,
+      "name": "Pobres los Ricos",
+      "url": "https://open.spotify.com/track/305kI6tQRUAOhhWrxS955J"
+    },
+    {
+      "album": {
+        "name": "Songs Of Harmony (Castellano Espa\u00f1ol / Music From The Original TV Series)",
+        "url": "https://open.spotify.com/album/67fWuIYsjOYRbRLni6cpiv"
+      },
+      "artists": [
+        {
+          "name": "Twilight Sparkle",
+          "url": "https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac"
+        },
+        {
+          "name": "Apple Jack",
+          "url": "https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT"
+        },
+        {
+          "name": "Rainbow Dash",
+          "url": "https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n"
+        },
+        {
+          "name": "Pinkie Pie",
+          "url": "https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5"
+        },
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era"
+        },
+        {
+          "name": "Fluttershy",
+          "url": "https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 79853,
+      "name": "Que El Arco\u00edris Os Recuerde",
+      "url": "https://open.spotify.com/track/1xPdezGU7frO4HqXrpgbTK"
+    },
+    {
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203619,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5KGLcZLBCAqdPP6sa5zLYs"
+    },
+    {
+      "album": {
+        "name": "Canciones Infantiles",
+        "url": "https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB"
+      },
+      "artists": [
+        {
+          "name": "Super Banda Infantil",
+          "url": "https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186146,
+      "name": "Ser\u00e1 un D\u00eda Fenomenal (De \"Phineas & Ferb\")",
+      "url": "https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj"
+    },
+    {
+      "album": {
+        "name": "Kidz Bop 27",
+        "url": "https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp"
+    },
+    {
+      "album": {
+        "name": "Junior Express - Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
+      },
+      "artists": [
+        {
+          "name": "Elenco Junior Express",
+          "url": "https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h"
+        },
+        {
+          "name": "Diego Topa",
+          "url": "https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Soy Harmony",
+      "url": "https://open.spotify.com/track/2EhHbIhRNF4EdpBuG4jM0L"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Fancy Nancy",
+        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
+      },
+      "artists": [
+        {
+          "name": "Fancy Nancy - Cast",
+          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101522,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/7eAZrLtEJidSbD44HVuloP"
+    },
+    {
+      "album": {
+        "name": "Stronger (From \"Under the Sea: A Descendants Short Story\")",
+        "url": "https://open.spotify.com/album/0CQNdsdRnm3U1yt1x3DuvO"
+      },
+      "artists": [
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "China Anne McClain",
+          "url": "https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255967,
+      "name": "Stronger - From \"Under the Sea: A Descendants Short Story\"",
+      "url": "https://open.spotify.com/track/6xjTZCCyLNEOw7AsGV8A5e"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Dance Party! The Album",
+        "url": "https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK"
+      },
+      "artists": [
+        {
+          "name": "Cast - Disney Junior",
+          "url": "https://open.spotify.com/artist/1Qj6fGKb74Ulhtnf0oUNo1"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119497,
+      "name": "The Power of All of Us",
+      "url": "https://open.spotify.com/track/2FvZqI15Z8lSCYc7jLHbDt"
+    },
+    {
+      "album": {
+        "name": "Tomorrow Starts Today (Andi Mack Theme Song)",
+        "url": "https://open.spotify.com/album/2bddlYqxgL7ZAqdEfwQXYN"
+      },
+      "artists": [
+        {
+          "name": "Andi Mack",
+          "url": "https://open.spotify.com/artist/1tFnKlJuDU1PvvvkEx9mi7"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160925,
+      "name": "Tomorrow Starts Today (Andi Mack Theme Song)",
+      "url": "https://open.spotify.com/track/6SMH9rz8sWZk0yoqvBVVCc"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2Kl34Wu4F27ptdgtUoErJs"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "True Friend",
+      "url": "https://open.spotify.com/track/3mgawAnZJZNZTFaZPofjNC"
+    },
+    {
+      "album": {
+        "name": "Hannah Montana 2 / Meet Miley Cyrus",
+        "url": "https://open.spotify.com/album/3BdqKi8c48NUvZ7ppk3wHV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189173,
+      "name": "True Friend - From \u201cHannah Montana 2\u201d",
+      "url": "https://open.spotify.com/track/322E3pHVE4THhniKjNLTY9"
+    },
+    {
+      "album": {
+        "name": "Try Everything (From \"Zootropolis\")",
+        "url": "https://open.spotify.com/album/661EtVkZYuH41VXXuOMBbo"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Try Everything - From \"Zootropolis\"",
+      "url": "https://open.spotify.com/track/3qrH2YFnbEiQeUe4wzgOuP"
+    },
+    {
+      "album": {
+        "name": "!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection",
+        "url": "https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok"
+      },
+      "artists": [
+        {
+          "name": "Dora The Explorer",
+          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64133,
+      "name": "Un Dia Especial",
+      "url": "https://open.spotify.com/track/3SGh8NSvDR1AGXHWHMTrkh"
+    },
+    {
+      "album": {
+        "name": "Soy Luna",
+        "url": "https://open.spotify.com/album/1LG389RayU0XbgirX9GV8u"
+      },
+      "artists": [
+        {
+          "name": "Elenco de Soy Luna",
+          "url": "https://open.spotify.com/artist/2mvVgc0UMgFwXGktcNmA6l"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Valiente",
+      "url": "https://open.spotify.com/track/25x31n1U2nQIS9xHmDUKEF"
+    },
+    {
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7kmitKoCAjnrdmFxmepZcH"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Desplat",
+          "url": "https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0"
+        },
+        {
+          "name": "The Sausage Factory Singers",
+          "url": "https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 84080,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/7ciTZoxqPMMvxJLNiFZDTH"
+    },
+    {
+      "album": {
+        "name": "The Secret Life of Pets (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ayJFbJkkZtMkPbden2vh4"
+      },
+      "artists": [
+        {
+          "name": "The Sausage Factory Singers",
+          "url": "https://open.spotify.com/artist/6V6io3ApRj18jjB2SORQsr"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84080,
+      "name": "We Go Together",
+      "url": "https://open.spotify.com/track/46wRVsmiyO8ephW0wbKtjZ"
+    },
+    {
+      "album": {
+        "name": "Liv and Maddie (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/4xrfYedbqvfMKnpXBw73od"
+      },
+      "artists": [
+        {
+          "name": "Cast - Liv and Maddie",
+          "url": "https://open.spotify.com/artist/57CDYxWdpuotIR3uY5QzPy"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173920,
+      "name": "What a Girl Is",
+      "url": "https://open.spotify.com/track/6CT8Glf6AdbPHkoy0LW3fS"
+    },
+    {
+      "album": {
+        "name": "Puppy Dog Pals: Disney Junior Music",
+        "url": "https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk"
+      },
+      "artists": [
+        {
+          "name": "\"Puppy Dog Pals\" Cast",
+          "url": "https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60217,
+      "name": "You're My Best Friend",
+      "url": "https://open.spotify.com/track/1kcItYPpQBkvFVgTGNy2Gc"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXa3AAjWIbHAc"
 }

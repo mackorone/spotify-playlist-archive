@@ -1,577 +1,1433 @@
 {
-  "2022-06-02": 167632,
-  "2022-06-03": 167682,
-  "2022-06-04": 167717,
-  "2022-06-05": 167765,
-  "2022-06-06": 167814,
-  "2022-06-07": 167851,
-  "2022-06-08": 167905,
-  "2022-06-09": 167920,
-  "2022-06-10": 167952,
-  "2022-06-11": 168002,
-  "2022-06-12": 168036,
-  "2022-06-13": 168082,
-  "2022-06-14": 168104,
-  "2022-06-15": 168130,
-  "2022-06-16": 168171,
-  "2022-06-17": 168206,
-  "2022-06-18": 168256,
-  "2022-06-19": 168347,
-  "2022-06-20": 168347,
-  "2022-06-21": 168371,
-  "2022-06-22": 168442,
-  "2022-06-23": 168442,
-  "2022-06-24": 168480,
-  "2022-06-25": 168510,
-  "2022-06-26": 168557,
-  "2022-06-27": 168589,
-  "2022-06-28": 168617,
-  "2022-06-29": 168637,
-  "2022-06-30": 168671,
-  "2022-07-01": 168707,
-  "2022-07-02": 168738,
-  "2022-07-03": 168779,
-  "2022-07-04": 168822,
-  "2022-07-05": 168822,
-  "2022-07-06": 168822,
-  "2022-07-07": 168917,
-  "2022-07-08": 168953,
-  "2022-07-09": 169006,
-  "2022-07-10": 169052,
-  "2022-07-11": 169100,
-  "2022-07-12": 169128,
-  "2022-07-13": 169159,
-  "2022-07-14": 169194,
-  "2022-07-15": 169238,
-  "2022-07-16": 169283,
-  "2022-07-17": 169325,
-  "2022-07-18": 169360,
-  "2022-07-19": 169397,
-  "2022-07-20": 169427,
-  "2022-07-21": 169461,
-  "2022-07-22": 169491,
-  "2022-07-23": 169542,
-  "2022-07-24": 169598,
-  "2022-07-25": 169648,
-  "2022-07-26": 169693,
-  "2022-07-27": 169735,
-  "2022-07-28": 169772,
-  "2022-07-29": 169813,
-  "2022-07-30": 169904,
-  "2022-07-31": 169904,
-  "2022-08-01": 169946,
-  "2022-08-02": 170012,
-  "2022-08-03": 170012,
-  "2022-08-04": 170057,
-  "2022-08-05": 170109,
-  "2022-08-06": 170144,
-  "2022-08-07": 170204,
-  "2022-08-08": 170249,
-  "2022-08-09": 170281,
-  "2022-08-10": 170330,
-  "2022-08-11": 170365,
-  "2022-08-12": 170425,
-  "2022-08-13": 170469,
-  "2022-08-14": 170522,
-  "2022-08-15": 170589,
-  "2022-08-16": 170618,
-  "2022-08-17": 170649,
-  "2022-08-18": 170681,
-  "2022-08-19": 170728,
-  "2022-08-20": 170786,
-  "2022-08-21": 170833,
-  "2022-08-22": 170871,
-  "2022-08-23": 170891,
-  "2022-08-24": 170929,
-  "2022-08-25": 170965,
-  "2022-08-26": 171023,
-  "2022-08-27": 171068,
-  "2022-08-28": 171135,
-  "2022-08-29": 171192,
-  "2022-08-30": 171231,
-  "2022-08-31": 171261,
-  "2022-09-01": 171294,
-  "2022-09-02": 171342,
-  "2022-09-03": 171379,
-  "2022-09-04": 171434,
-  "2022-09-05": 171461,
-  "2022-09-06": 171499,
-  "2022-09-07": 171539,
-  "2022-09-09": 171623,
-  "2022-09-10": 171672,
-  "2022-09-11": 171734,
-  "2022-09-12": 171762,
-  "2022-09-13": 171800,
-  "2022-09-15": 171880,
-  "2022-09-16": 171954,
-  "2022-09-17": 172025,
-  "2022-09-18": 172075,
-  "2022-09-19": 172119,
-  "2022-09-20": 172178,
-  "2022-09-21": 172227,
-  "2022-09-22": 172275,
-  "2022-09-23": 172314,
-  "2022-09-24": 172314,
-  "2022-09-25": 172407,
-  "2022-09-26": 172451,
-  "2022-09-27": 172505,
-  "2022-09-28": 172549,
-  "2022-09-29": 172586,
-  "2022-09-30": 172636,
-  "2022-10-01": 172696,
-  "2022-10-02": 172742,
-  "2022-10-03": 172797,
-  "2022-10-04": 172833,
-  "2022-10-05": 172893,
-  "2022-10-06": 172927,
-  "2022-10-07": 172962,
-  "2022-10-08": 173020,
-  "2022-10-09": 173072,
-  "2022-10-10": 173079,
-  "2022-10-11": 173102,
-  "2022-10-12": 173137,
-  "2022-10-13": 173178,
-  "2022-10-14": 173227,
-  "2022-10-15": 173289,
-  "2022-10-16": 173332,
-  "2022-10-17": 173379,
-  "2022-10-18": 173422,
-  "2022-10-19": 173478,
-  "2022-10-20": 173519,
-  "2022-10-21": 173569,
-  "2022-10-22": 173610,
-  "2022-10-23": 173663,
-  "2022-10-24": 173707,
-  "2022-10-25": 173745,
-  "2022-10-26": 173783,
-  "2022-10-27": 173823,
-  "2022-10-28": 173872,
-  "2022-10-29": 173924,
-  "2022-10-30": 173970,
-  "2022-10-31": 174022,
-  "2022-11-01": 174052,
-  "2022-11-02": 174095,
-  "2022-11-03": 174120,
-  "2022-11-04": 174177,
-  "2022-11-05": 174200,
-  "2022-11-06": 174255,
-  "2022-11-07": 174295,
-  "2022-11-08": 174325,
-  "2022-11-09": 174370,
-  "2022-11-10": 174408,
-  "2022-11-11": 174446,
-  "2022-11-12": 174494,
-  "2022-11-13": 174543,
-  "2022-11-14": 174589,
-  "2022-11-15": 174627,
-  "2022-11-16": 174654,
-  "2022-11-17": 174690,
-  "2022-11-18": 174707,
-  "2022-11-19": 174708,
-  "2022-11-20": 174752,
-  "2022-11-21": 174801,
-  "2022-11-22": 174833,
-  "2022-11-23": 174861,
-  "2022-11-24": 174923,
-  "2022-11-25": 174988,
-  "2022-11-26": 175030,
-  "2022-11-27": 175072,
-  "2022-11-28": 175115,
-  "2022-11-29": 175145,
-  "2022-11-30": 175184,
-  "2022-12-01": 175220,
-  "2022-12-02": 175230,
-  "2022-12-03": 175280,
-  "2022-12-04": 175335,
-  "2022-12-05": 175366,
-  "2022-12-06": 175385,
-  "2022-12-07": 175437,
-  "2022-12-08": 175478,
-  "2022-12-09": 175531,
-  "2022-12-10": 175579,
-  "2022-12-11": 175630,
-  "2022-12-12": 175674,
-  "2022-12-13": 175713,
-  "2022-12-14": 175760,
-  "2022-12-15": 175797,
-  "2022-12-16": 175834,
-  "2022-12-17": 175897,
-  "2022-12-18": 175953,
-  "2022-12-19": 176012,
-  "2022-12-20": 176077,
-  "2022-12-21": 176077,
-  "2022-12-22": 176110,
-  "2022-12-24": 176190,
-  "2022-12-25": 176240,
-  "2022-12-26": 176286,
-  "2022-12-27": 176311,
-  "2022-12-28": 176365,
-  "2022-12-29": 176395,
-  "2022-12-30": 176441,
-  "2022-12-31": 176478,
-  "2023-01-01": 176527,
-  "2023-01-02": 176571,
-  "2023-01-03": 176599,
-  "2023-01-04": 176632,
-  "2023-01-05": 176677,
-  "2023-01-06": 176733,
-  "2023-01-07": 176805,
-  "2023-01-08": 176814,
-  "2023-01-09": 176852,
-  "2023-01-10": 176887,
-  "2023-01-11": 176932,
-  "2023-01-12": 176977,
-  "2023-01-13": 177033,
-  "2023-01-14": 177109,
-  "2023-01-15": 177131,
-  "2023-01-16": 177184,
-  "2023-01-17": 177214,
-  "2023-01-18": 177249,
-  "2023-01-19": 177280,
-  "2023-01-20": 177307,
-  "2023-01-21": 177349,
-  "2023-01-22": 177386,
-  "2023-01-23": 177406,
-  "2023-01-24": 177448,
-  "2023-01-25": 177477,
-  "2023-01-26": 177513,
-  "2023-01-27": 177552,
-  "2023-01-28": 177605,
-  "2023-01-29": 177643,
-  "2023-01-30": 177676,
-  "2023-01-31": 177676,
-  "2023-02-01": 177743,
-  "2023-02-02": 177781,
-  "2023-02-03": 177816,
-  "2023-02-04": 177873,
-  "2023-02-05": 177916,
-  "2023-02-06": 177936,
-  "2023-02-07": 177974,
-  "2023-02-08": 178063,
-  "2023-02-09": 178063,
-  "2023-02-10": 178083,
-  "2023-02-11": 178122,
-  "2023-02-12": 178181,
-  "2023-02-13": 178220,
-  "2023-02-14": 178220,
-  "2023-02-15": 178235,
-  "2023-02-16": 178269,
-  "2023-02-17": 178333,
-  "2023-02-18": 178437,
-  "2023-02-19": 178452,
-  "2023-02-20": 178479,
-  "2023-02-21": 178528,
-  "2023-02-22": 178564,
-  "2023-02-23": 178600,
-  "2023-02-24": 178657,
-  "2023-02-25": 178730,
-  "2023-02-26": 178763,
-  "2023-02-27": 178834,
-  "2023-02-28": 178834,
-  "2023-03-01": 178863,
-  "2023-03-02": 178892,
-  "2023-03-03": 178947,
-  "2023-03-04": 178989,
-  "2023-03-05": 179078,
-  "2023-03-06": 179078,
-  "2023-03-07": 179110,
-  "2023-03-08": 179150,
-  "2023-03-09": 179192,
-  "2023-03-10": 179241,
-  "2023-03-11": 179284,
-  "2023-03-12": 179340,
-  "2023-03-13": 179377,
-  "2023-03-14": 179405,
-  "2023-03-15": 179449,
-  "2023-03-16": 179449,
-  "2023-03-17": 179449,
-  "2023-03-18": 179586,
-  "2023-03-19": 179586,
-  "2023-03-20": 179640,
-  "2023-03-21": 179685,
-  "2023-03-22": 179727,
-  "2023-03-23": 179766,
-  "2023-03-24": 179766,
-  "2023-03-25": 179867,
-  "2023-03-26": 179931,
-  "2023-03-27": 179965,
-  "2023-03-28": 179995,
-  "2023-03-29": 180058,
-  "2023-03-30": 180143,
-  "2023-03-31": 180143,
-  "2023-04-01": 180190,
-  "2023-04-02": 180250,
-  "2023-04-03": 180300,
-  "2023-04-04": 180355,
-  "2023-04-05": 180395,
-  "2023-04-06": 180459,
-  "2023-04-07": 180521,
-  "2023-04-09": 180616,
-  "2023-04-10": 180651,
-  "2023-04-11": 180722,
-  "2023-04-12": 180722,
-  "2023-04-13": 180760,
-  "2023-04-14": 180813,
-  "2023-04-15": 180876,
-  "2023-04-16": 180924,
-  "2023-04-17": 180964,
-  "2023-04-18": 181000,
-  "2023-04-19": 181050,
-  "2023-04-20": 181090,
-  "2023-04-21": 181127,
-  "2023-04-22": 181191,
-  "2023-04-23": 181263,
-  "2023-04-24": 181307,
-  "2023-04-25": 181352,
-  "2023-04-26": 181392,
-  "2023-04-27": 181440,
-  "2023-04-28": 181496,
-  "2023-04-29": 181558,
-  "2023-04-30": 181607,
-  "2023-05-01": 181648,
-  "2023-05-02": 181680,
-  "2023-05-03": 181722,
-  "2023-05-04": 181769,
-  "2023-05-05": 181818,
-  "2023-05-06": 181862,
-  "2023-05-07": 181904,
-  "2023-05-08": 181959,
-  "2023-05-09": 181980,
-  "2023-05-10": 182021,
-  "2023-05-11": 182068,
-  "2023-05-12": 182105,
-  "2023-05-13": 182149,
-  "2023-05-14": 182191,
-  "2023-05-15": 182239,
-  "2023-05-16": 182279,
-  "2023-05-17": 182306,
-  "2023-05-18": 182344,
-  "2023-05-19": 182388,
-  "2023-05-20": 182475,
-  "2023-05-21": 182475,
-  "2023-05-22": 182475,
-  "2023-05-23": 182564,
-  "2023-05-24": 182632,
-  "2023-05-25": 182651,
-  "2023-05-26": 182697,
-  "2023-05-27": 182750,
-  "2023-05-28": 182783,
-  "2023-05-29": 182783,
-  "2023-05-30": 182878,
-  "2023-05-31": 182916,
-  "2023-06-01": 182954,
-  "2023-06-02": 182993,
-  "2023-06-03": 183026,
-  "2023-06-04": 183087,
-  "2023-06-05": 183150,
-  "2023-06-06": 183187,
-  "2023-06-07": 183244,
-  "2023-06-08": 183292,
-  "2023-06-09": 183334,
-  "2023-06-10": 183374,
-  "2023-06-11": 183445,
-  "2023-06-12": 183496,
-  "2023-06-13": 183540,
-  "2023-06-14": 183576,
-  "2023-06-15": 183611,
-  "2023-06-16": 183641,
-  "2023-06-17": 183689,
-  "2023-06-18": 183724,
-  "2023-06-19": 183771,
-  "2023-06-20": 183796,
-  "2023-06-21": 183836,
-  "2023-06-22": 183875,
-  "2023-06-23": 183917,
-  "2023-06-24": 183952,
-  "2023-06-25": 183981,
-  "2023-06-26": 184039,
-  "2023-06-27": 184075,
-  "2023-06-28": 184113,
-  "2023-06-29": 184143,
-  "2023-06-30": 184186,
-  "2023-07-01": 184278,
-  "2023-07-02": 184278,
-  "2023-07-03": 184313,
-  "2023-07-04": 184356,
-  "2023-07-05": 184389,
-  "2023-07-06": 184457,
-  "2023-07-07": 184457,
-  "2023-07-08": 184457,
-  "2023-07-09": 184539,
-  "2023-07-10": 184588,
-  "2023-07-11": 184621,
-  "2023-07-12": 184656,
-  "2023-07-13": 184692,
-  "2023-07-14": 184725,
-  "2023-07-15": 184756,
-  "2023-07-16": 184810,
-  "2023-07-17": 184858,
-  "2023-07-18": 184882,
-  "2023-07-19": 184927,
-  "2023-07-20": 184956,
-  "2023-07-21": 184980,
-  "2023-07-22": 185028,
-  "2023-07-23": 185087,
-  "2023-07-24": 185136,
-  "2023-07-25": 185174,
-  "2023-07-26": 185215,
-  "2023-07-27": 185250,
-  "2023-07-28": 185310,
-  "2023-07-29": 185355,
-  "2023-07-30": 185405,
-  "2023-07-31": 185447,
-  "2023-08-01": 185490,
-  "2023-08-02": 185529,
-  "2023-08-03": 185574,
-  "2023-08-04": 185627,
-  "2023-08-05": 185680,
-  "2023-08-06": 185768,
-  "2023-08-07": 185768,
-  "2023-08-08": 185800,
-  "2023-08-09": 185842,
-  "2023-08-10": 185892,
-  "2023-08-11": 185945,
-  "2023-08-12": 185945,
-  "2023-08-13": 185945,
-  "2023-08-14": 186099,
-  "2023-08-15": 186099,
-  "2023-08-16": 186099,
-  "2023-08-17": 186099,
-  "2023-08-18": 186099,
-  "2023-08-19": 186099,
-  "2023-08-20": 186570,
-  "2023-08-21": 186570,
-  "2023-08-22": 186702,
-  "2023-08-23": 186702,
-  "2023-08-24": 186702,
-  "2023-08-25": 186702,
-  "2023-08-26": 186912,
-  "2023-08-27": 186912,
-  "2023-08-28": 187028,
-  "2023-08-29": 187028,
-  "2023-08-30": 187028,
-  "2023-08-31": 187180,
-  "2023-09-01": 187246,
-  "2023-09-02": 187246,
-  "2023-09-03": 187246,
-  "2023-09-04": 187246,
-  "2023-09-05": 187246,
-  "2023-09-06": 187246,
-  "2023-09-07": 187246,
-  "2023-09-08": 187246,
-  "2023-09-09": 187246,
-  "2023-09-10": 187246,
-  "2023-09-11": 187246,
-  "2023-09-12": 187246,
-  "2023-09-13": 187246,
-  "2023-09-14": 187246,
-  "2023-09-15": 187246,
-  "2023-09-16": 188098,
-  "2023-09-17": 188098,
-  "2023-09-18": 188098,
-  "2023-09-19": 188234,
-  "2023-09-20": 188234,
-  "2023-09-21": 188234,
-  "2023-09-22": 188325,
-  "2023-09-23": 188325,
-  "2023-09-24": 188325,
-  "2023-09-25": 188325,
-  "2023-09-26": 188461,
-  "2023-09-27": 188461,
-  "2023-09-28": 188461,
-  "2023-09-29": 188461,
-  "2023-09-30": 188461,
-  "2023-10-01": 188461,
-  "2023-10-02": 188461,
-  "2023-10-03": 188461,
-  "2023-10-04": 188461,
-  "2023-10-05": 188461,
-  "2023-10-06": 188461,
-  "2023-10-07": 188461,
-  "2023-10-08": 188461,
-  "2023-10-09": 188461,
-  "2023-10-10": 188461,
-  "2023-10-11": 188808,
-  "2023-10-12": 188808,
-  "2023-10-13": 188808,
-  "2023-10-14": 188808,
-  "2023-10-15": 188808,
-  "2023-10-16": 188808,
-  "2023-10-17": 188808,
-  "2023-10-18": 188808,
-  "2023-10-19": 188808,
-  "2023-10-20": 188808,
-  "2023-10-21": 188808,
-  "2023-10-22": 188808,
-  "2023-10-23": 188808,
-  "2023-10-24": 188808,
-  "2023-10-25": 188808,
-  "2023-10-26": 188808,
-  "2023-10-27": 188808,
-  "2023-10-28": 188808,
-  "2023-10-29": 188808,
-  "2023-10-30": 188808,
-  "2023-10-31": 188808,
-  "2023-11-01": 188808,
-  "2023-11-02": 188808,
-  "2023-11-03": 188808,
-  "2023-11-04": 188808,
-  "2023-11-05": 188808,
-  "2023-11-06": 188808,
-  "2023-11-07": 188808,
-  "2023-11-08": 188808,
-  "2023-11-09": 188808,
-  "2023-11-10": 188808,
-  "2023-11-11": 189683,
-  "2023-11-12": 189683,
-  "2023-11-13": 189683,
-  "2023-11-14": 189683,
-  "2023-11-15": 189683,
-  "2023-11-16": 189683,
-  "2023-11-17": 189683,
-  "2023-11-18": 189683,
-  "2023-11-19": 189683,
-  "2023-11-20": 189683,
-  "2023-11-21": 189683,
-  "2023-11-22": 189683,
-  "2023-11-23": 189683,
-  "2023-11-24": 189683,
-  "2023-11-25": 189683,
-  "2023-11-26": 189683,
-  "2023-11-27": 189683,
-  "2023-11-28": 189683,
-  "2023-11-29": 189683,
-  "2023-11-30": 189683,
-  "2023-12-01": 189683,
-  "2023-12-02": 189683,
-  "2023-12-03": 189683,
-  "2023-12-04": 189683,
-  "2023-12-05": 189683,
-  "2023-12-06": 189683,
-  "2023-12-07": 189683,
-  "2023-12-08": 189683,
-  "2023-12-09": 189683,
-  "2023-12-10": 189683,
-  "2023-12-11": 189683,
-  "2023-12-12": 189683,
-  "2023-12-13": 189683,
-  "2023-12-14": 190845,
-  "2023-12-15": 190859,
-  "2023-12-16": 190899,
-  "2023-12-17": 190923,
-  "2023-12-18": 190962,
-  "2023-12-19": 190990,
-  "2023-12-20": 191017,
-  "2023-12-21": 191045,
-  "2023-12-22": 191080,
-  "2023-12-23": 191113,
-  "2023-12-24": 191150,
-  "2023-12-25": 191187,
-  "2023-12-26": 191213,
-  "2023-12-27": 191235,
-  "2023-12-30": 191278,
-  "2023-12-31": 191314,
-  "2024-01-01": 191339,
-  "2024-01-02": 191364,
-  "2024-01-03": 191374
+  "2024-01-17": 190646,
+  "date_first_scraped": "2022-06-02",
+  "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
+  "name": "This Is Banda Los Recoditos",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+        "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-07-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 141640,
+      "name": "A Una Llamada",
+      "url": "https://open.spotify.com/track/0U72qF3ozvcOpEntzFdCMm"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153866,
+      "name": "Al Rescate",
+      "url": "https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9"
+    },
+    {
+      "album": {
+        "name": "Si No Existieras...Pero Existimos",
+        "url": "https://open.spotify.com/album/19TgMyTRUaYXQ4dSj84cgn"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-29",
+      "duration_ms": 155573,
+      "name": "Amores Fingidos",
+      "url": "https://open.spotify.com/track/4J3miVgH4SeSdYf1SN8lB1"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144146,
+      "name": "Ando Bien Pedo",
+      "url": "https://open.spotify.com/track/58rgceeiYu1wFneDP2j5LJ"
+    },
+    {
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+        "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Antes De Usted",
+      "url": "https://open.spotify.com/track/3ZFei3vxIdWxG6nrOnhCA4"
+    },
+    {
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Aqu\u00ed Me Quedar\u00e9",
+      "url": "https://open.spotify.com/track/485sSGINa482vFsad9LLpJ"
+    },
+    {
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-23",
+      "duration_ms": 139533,
+      "name": "Bendita Cerveza",
+      "url": "https://open.spotify.com/track/57ShDrVkFm2df6AnpPI8cJ"
+    },
+    {
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+        "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-06-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-16",
+      "duration_ms": 168613,
+      "name": "Borracho De Cantina",
+      "url": "https://open.spotify.com/track/3Nk0mBAQIVeCrCjfoJx3iP"
+    },
+    {
+      "album": {
+        "name": "Me Siento A Todo Dar",
+        "url": "https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-07",
+      "duration_ms": 171080,
+      "name": "Celoso Enamorado",
+      "url": "https://open.spotify.com/track/04oNsFiq4kF3VYsyeTwp2r"
+    },
+    {
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+        "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156413,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/1gejXzSYPS7XXDYuOjcvr8"
+    },
+    {
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-13",
+      "duration_ms": 155213,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/0iyy9zj0hPf1UkDWdZdOQI"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-22",
+      "duration_ms": 216013,
+      "name": "Cuando Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/2uMQxOPITUivAkAYrR02Br"
+    },
+    {
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202146,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/2SbrBJ7ueAZ4iGYHTf21HU"
+    },
+    {
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Cuando Te Entregues A \u00c9l",
+      "url": "https://open.spotify.com/track/6uh4lKGlcy14su96RvV6df"
+    },
+    {
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181706,
+      "name": "Desde Que Te V\u00ed",
+      "url": "https://open.spotify.com/track/0VcgAjwQsF92hVn4g5Awmi"
+    },
+    {
+      "album": {
+        "name": "Di",
+        "url": "https://open.spotify.com/album/6VuPsmLx3cksABLrjHrjY5"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2022-10-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-24",
+      "duration_ms": 178866,
+      "name": "Di",
+      "url": "https://open.spotify.com/track/3oS01WFEINphPVTxcala2x"
+    },
+    {
+      "album": {
+        "name": "El Cigarrito",
+        "url": "https://open.spotify.com/album/5i9NAhtjUAbesq02MWb7pu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-15",
+      "duration_ms": 177040,
+      "name": "El Cigarrito",
+      "url": "https://open.spotify.com/track/2hiS6UYbXL4rP8T88DYWG1"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178613,
+      "name": "El Cigarrito",
+      "url": "https://open.spotify.com/track/4jxhkcdt00M3Iy5dH9fQfw"
+    },
+    {
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-07-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-01",
+      "duration_ms": 153720,
+      "name": "El Siguiente",
+      "url": "https://open.spotify.com/track/6bUxiQ10OYp5atglHlru9g"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-05-04",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-08",
+      "duration_ms": 116613,
+      "name": "El \u00daltimo Billete",
+      "url": "https://open.spotify.com/track/4RgAQHzSLeOarYNyXzOMys"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Elegiste Un Error",
+      "url": "https://open.spotify.com/track/7kmrbuDn7yI4t0VoHIV9PR"
+    },
+    {
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155973,
+      "name": "En Resumen",
+      "url": "https://open.spotify.com/track/7DbS4AzvjmJPeJP3Uwovs6"
+    },
+    {
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150786,
+      "name": "Eres Dif\u00edcil",
+      "url": "https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D"
+    },
+    {
+      "album": {
+        "name": "Vengo A Decirte",
+        "url": "https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178173,
+      "name": "Es Bonito",
+      "url": "https://open.spotify.com/track/37yaX9Lb6lelIodevWgR9T"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200800,
+      "name": "Esta Va Por Ti",
+      "url": "https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170306,
+      "name": "Extr\u00e1\u00f1ame",
+      "url": "https://open.spotify.com/track/77prsE4cK4WBVSiptghi1x"
+    },
+    {
+      "album": {
+        "name": "Fuerte No Soy",
+        "url": "https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201213,
+      "name": "Fuerte No Soy",
+      "url": "https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc"
+    },
+    {
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-03",
+      "duration_ms": 139360,
+      "name": "Habitaci\u00f3n 69",
+      "url": "https://open.spotify.com/track/6BWCt6sjhntwJh10od5Gxu"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Hasta Que Salga El Sol",
+      "url": "https://open.spotify.com/track/5jezNmDvHt6ecvWeMfwW0v"
+    },
+    {
+      "album": {
+        "name": "La Baraja",
+        "url": "https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175560,
+      "name": "La Baraja",
+      "url": "https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3"
+    },
+    {
+      "album": {
+        "name": "Vengo A Decirte",
+        "url": "https://open.spotify.com/album/0CnvKmPlj5MYRyWySTAODw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-14",
+      "duration_ms": 177720,
+      "name": "La Entalladita",
+      "url": "https://open.spotify.com/track/4vwqcrGLaigedBl7q5O9ah"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125746,
+      "name": "La Escuelita",
+      "url": "https://open.spotify.com/track/1TiPjfuaAbA3KgxzzweqIn"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-16",
+      "duration_ms": 146786,
+      "name": "La Peda",
+      "url": "https://open.spotify.com/track/56zRgQeUeM1xRwEHtGStTy"
+    },
+    {
+      "album": {
+        "name": "Llorando En Un Carro Del A\u00f1o",
+        "url": "https://open.spotify.com/album/18XHmgKEQKh4EwxqHDAJNM"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148426,
+      "name": "Llorando En Un Carro Del A\u00f1o",
+      "url": "https://open.spotify.com/track/4OfIidHHKBPT32ZJpN8m6T"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "Los Gustos Que Me Doy",
+      "url": "https://open.spotify.com/track/7dtCtvl6mHA42cCPowTYTB"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180146,
+      "name": "Me Est\u00e1 Gustando",
+      "url": "https://open.spotify.com/track/1PPswVdqYYvfBIk5MdB4Lo"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157680,
+      "name": "Me Est\u00e1 Tirando El Rollo",
+      "url": "https://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin"
+    },
+    {
+      "album": {
+        "name": "Me Siento A Todo Dar",
+        "url": "https://open.spotify.com/album/54uGnanbGdJIINnc3U3Clx"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133200,
+      "name": "Me Siento A Todo Dar",
+      "url": "https://open.spotify.com/track/4UkEbKZ1YbtDnrLGWXp0LJ"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/33XISWpHJRbAvFSMW1y44A"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183640,
+      "name": "Me Toc\u00f3 Perder",
+      "url": "https://open.spotify.com/track/2bKxgwhHmjvqan4LQ4GXHZ"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+    },
+    {
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "album": {
+        "name": "Mi \u00daltimo Deseo",
+        "url": "https://open.spotify.com/album/6I8efdU2wPu46QxwGcsPqD"
+      },
+      "artists": [
+        {
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "Mi \u00datimo Deseo",
+      "url": "https://open.spotify.com/track/5DbHwG8J096GjmUPDXCIo1"
+    },
+    {
+      "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130906,
+      "name": "Mientras T\u00fa Jugabas",
+      "url": "https://open.spotify.com/track/66YYtAnqxkLkLvTozN6feN"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o XXX",
+        "url": "https://open.spotify.com/album/7G2oZ2GXjtfKdOWmbLcDjR"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-09-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 147906,
+      "name": "Morras De Acci\u00f3n",
+      "url": "https://open.spotify.com/track/6Kbf0AabdaT73J54MwKswQ"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166773,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/2bpmteM9wnfynV1MNkI898"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211906,
+      "name": "No Llega El Olvido",
+      "url": "https://open.spotify.com/track/4xKmCXrvnvrRa7XoBIwUoZ"
+    },
+    {
+      "album": {
+        "name": "Ando Bien Pedo",
+        "url": "https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208293,
+      "name": "No Te Quiero Perder",
+      "url": "https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou"
+    },
+    {
+      "album": {
+        "name": "Para Qu\u00e9 Me Las Diste",
+        "url": "https://open.spotify.com/album/5wgOVJ9KTVFbhau9ppTj80"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 214120,
+      "name": "Para Qu\u00e9 Me Las Diste",
+      "url": "https://open.spotify.com/track/7AyxD2OecOyvIlByUY0Kvz"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211560,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144613,
+      "name": "Pistear\u00e9",
+      "url": "https://open.spotify.com/track/0LCMFLgIISg4Mab1YL5shU"
+    },
+    {
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-20",
+      "duration_ms": 247920,
+      "name": "Ponle Que S\u00ed",
+      "url": "https://open.spotify.com/track/2MViucn04mANEpbKRh5p4D"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-26",
+      "duration_ms": 290213,
+      "name": "Popurr\u00ed: Cuando Nadie Te Quiera, Debajo De Los Laureles Aka Soy Huerfanito, No Volver\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/1Pik0CB9d3afxL3ICSYund"
+    },
+    {
+      "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-12",
+      "duration_ms": 330066,
+      "name": "Popurr\u00ed: El Toro Mambo, La Repetidora (Cumbia Repetidora), La Bamba - En Vivo",
+      "url": "https://open.spotify.com/track/3suumFs3UxzgfkW7juQ0ef"
+    },
+    {
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132106,
+      "name": "Que A Toda Madre (Que A Todo Dar)",
+      "url": "https://open.spotify.com/track/2Av3o4sAszUWUS6WAEsXij"
+    },
+    {
+      "album": {
+        "name": "Quisiera Saber",
+        "url": "https://open.spotify.com/album/1YLA1QkbnzgXWkD5TkCDs7"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-11-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 199173,
+      "name": "Quisiera Saber",
+      "url": "https://open.spotify.com/track/3K4HDf1v1l3g0QvMbBPyWW"
+    },
+    {
+      "album": {
+        "name": "Me Est\u00e1 Gustando",
+        "url": "https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179933,
+      "name": "Recu\u00e9rdenme As\u00ed",
+      "url": "https://open.spotify.com/track/6RKSDzGKc79UlnB7rpgZxl"
+    },
+    {
+      "album": {
+        "name": "Si Te Vas A Ir",
+        "url": "https://open.spotify.com/album/7aLmI4s5RkG708JchOa2qH"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-10-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-05",
+      "duration_ms": 197386,
+      "name": "Si Te Vas A Ir",
+      "url": "https://open.spotify.com/track/74eA4vGic1cBaGSAQSaQPn"
+    },
+    {
+      "album": {
+        "name": "Para Ti Solita",
+        "url": "https://open.spotify.com/album/5mrTSHwJlmGJbETmqY9xoe"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Sin Autorizaci\u00f3n",
+      "url": "https://open.spotify.com/track/5Seo17jmxBLqd0Hl1MidjC"
+    },
+    {
+      "album": {
+        "name": "Tacones Rojos (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/6oDVmxBdleet63McEWxnRh"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191040,
+      "name": "Tacones Rojos - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/2FQU2RwRs9dBzp27a8zaSL"
+    },
+    {
+      "album": {
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-02",
+      "duration_ms": 159653,
+      "name": "Te Acostumbr\u00e9 A Mis Besos",
+      "url": "https://open.spotify.com/track/3Zj6ZHiLwbKW1DvtcAf1sG"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175973,
+      "name": "Te Dar\u00e1n Ganas De Verme",
+      "url": "https://open.spotify.com/track/3gizL2fAU59XhtjbZpbme7"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174413,
+      "name": "Tiempo",
+      "url": "https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197546,
+      "name": "Tres Recuerdos",
+      "url": "https://open.spotify.com/track/2dgwZntNk1YJO9SiFyydHb"
+    },
+    {
+      "album": {
+        "name": "Una Peda Con El Viejo",
+        "url": "https://open.spotify.com/album/06veMmIctzxEgh8oubKTUX"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "Una Peda Con El Viejo",
+      "url": "https://open.spotify.com/track/21hGjxRr4AKTmHsh84ayOw"
+    },
+    {
+      "album": {
+        "name": "Vas A Querer Volver",
+        "url": "https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160666,
+      "name": "Vas A Querer Volver",
+      "url": "https://open.spotify.com/track/7dNvYibEFTGRvNi8hBzs4f"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-16",
+      "duration_ms": 162000,
+      "name": "Vino Tinto",
+      "url": "https://open.spotify.com/track/7HnBnROlepkg6M8oGGFSML"
+    },
+    {
+      "album": {
+        "name": "Vivir La Vida",
+        "url": "https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177133,
+      "name": "Vivir La Vida",
+      "url": "https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI"
+    },
+    {
+      "album": {
+        "name": "Volver A Volar",
+        "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        },
+        {
+          "name": "Banda La Ejecutiva",
+          "url": "https://open.spotify.com/artist/1ROmrzMDt3ZdBSwtNGBaSy"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        },
+        {
+          "name": "Cristian Jacobo",
+          "url": "https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
+        },
+        {
+          "name": "Emir Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/2WLxRZFk4tyKg9CCp5m7lB"
+        },
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        },
+        {
+          "name": "Grupo Sigma",
+          "url": "https://open.spotify.com/artist/0vUz4dhz7qB3FS6ShK0e4j"
+        },
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Jary Franco",
+          "url": "https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6"
+        },
+        {
+          "name": "Jos\u00e9 Manuel Figueroa",
+          "url": "https://open.spotify.com/artist/6eCPnXDJLqK9EKAjlxK5WF"
+        },
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        },
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191226,
+      "name": "Volver A Volar",
+      "url": "https://open.spotify.com/track/1UTax2cvw1ehp87jkxbCXF"
+    },
+    {
+      "album": {
+        "name": "A Toda Madre",
+        "url": "https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141280,
+      "name": "Voy A Pistear",
+      "url": "https://open.spotify.com/track/3htX61NfCT8CGg6m0VFoUJ"
+    },
+    {
+      "album": {
+        "name": "Y \u00bfQu\u00e9 Tiene?",
+        "url": "https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Y \u00bfQu\u00e9 Tiene?",
+      "url": "https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi"
+    },
+    {
+      "album": {
+        "name": "Los Gustos Que Me Doy",
+        "url": "https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Ya No Tiene Caso",
+      "url": "https://open.spotify.com/track/4NSisaKfhQhg14T4T088oW"
+    },
+    {
+      "album": {
+        "name": "Superlameando",
+        "url": "https://open.spotify.com/album/0TKECyVYZcM0RIYQGFzr1y"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        },
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2022-06-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220866,
+      "name": "Yo Quiero Chupar",
+      "url": "https://open.spotify.com/track/0NiQtVu6jYIqQjCKVlqjX5"
+    },
+    {
+      "album": {
+        "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+        "url": "https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "date_added": "2023-05-07",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-09",
+      "duration_ms": 144946,
+      "name": "\u00bfEn Qu\u00e9 Les Molesta?",
+      "url": "https://open.spotify.com/track/1uB0ZS7DQ5jKnOBTDDEGAD"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ"
 }

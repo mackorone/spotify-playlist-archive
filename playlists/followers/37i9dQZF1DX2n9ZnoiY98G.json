@@ -1,26 +1,795 @@
 {
-  "2023-12-09": 124,
-  "2023-12-10": 339,
-  "2023-12-11": 613,
-  "2023-12-12": 752,
-  "2023-12-13": 914,
-  "2023-12-14": 1068,
-  "2023-12-15": 1139,
-  "2023-12-16": 1256,
-  "2023-12-17": 1374,
-  "2023-12-18": 1493,
-  "2023-12-19": 1588,
-  "2023-12-20": 1667,
-  "2023-12-21": 1740,
-  "2023-12-22": 1820,
-  "2023-12-23": 1883,
-  "2023-12-24": 1964,
-  "2023-12-25": 2014,
-  "2023-12-26": 2083,
-  "2023-12-27": 2156,
-  "2023-12-30": 2359,
-  "2023-12-31": 2424,
-  "2024-01-01": 2481,
-  "2024-01-02": 2536,
-  "2024-01-03": 2590
+  "2024-01-17": 2998,
+  "date_first_scraped": "2023-12-09",
+  "description": "Listen to the music that inspired the creator of Leave The World Behind, now streaming on Netflix.",
+  "name": "Leave The World Behind Official Playlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "Sound of Silver",
+        "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462266,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+    },
+    {
+      "album": {
+        "name": "The Ascension",
+        "url": "https://open.spotify.com/album/2Bd6trS7kIZOXujYdVP8Xd"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 749996,
+      "name": "America",
+      "url": "https://open.spotify.com/track/34PGaSkDaicC3A4Kfcj6Yk"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175160,
+      "name": "Beach Day",
+      "url": "https://open.spotify.com/track/4OxkcGZSO9TDUqU9XlQbzd"
+    },
+    {
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
+      },
+      "artists": [
+        {
+          "name": "Nirvana",
+          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Breed",
+      "url": "https://open.spotify.com/track/5mJGLBNJM0GULqAoL5mb9C"
+    },
+    {
+      "album": {
+        "name": "Guerrilla",
+        "url": "https://open.spotify.com/album/0MJUZwUeC27VcdcKEPLMDS"
+      },
+      "artists": [
+        {
+          "name": "Nazar",
+          "url": "https://open.spotify.com/artist/6JBAyC8fskYhZHKXI5VRdq"
+        },
+        {
+          "name": "Shannen SP",
+          "url": "https://open.spotify.com/artist/7hcpmtt4sP0aEMCxypuGfK"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231011,
+      "name": "Bunker",
+      "url": "https://open.spotify.com/track/4IB94qtRs2wi0slZF93r1A"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Talent",
+          "url": "https://open.spotify.com/artist/33JfM2NgTRFT9wMoQvcv6T"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268826,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/1ofhfV90EnYhEr7Un2fWiv"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148360,
+      "name": "Cyberattack",
+      "url": "https://open.spotify.com/track/3di0xMMxneeO0N8d8ARFgs"
+    },
+    {
+      "album": {
+        "name": "Come Away with ESG",
+        "url": "https://open.spotify.com/album/4DX4hNQbCQnrDMlmKq3eid"
+      },
+      "artists": [
+        {
+          "name": "ESG",
+          "url": "https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274160,
+      "name": "Dance",
+      "url": "https://open.spotify.com/track/0iD94fatV4gLMmOQhNTQx6"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60240,
+      "name": "Good Omen",
+      "url": "https://open.spotify.com/track/2ixIEzraTwkyWIdSfHf9AR"
+    },
+    {
+      "album": {
+        "name": "TNGHT",
+        "url": "https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199343,
+      "name": "Higher Ground",
+      "url": "https://open.spotify.com/track/3PRPiS8XO5BDwtBePgAlVM"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314666,
+      "name": "Human vs. Nature",
+      "url": "https://open.spotify.com/track/4lSxrFwJcvlCROexPs6bJU"
+    },
+    {
+      "album": {
+        "name": "L.P.",
+        "url": "https://open.spotify.com/album/6koDBGMqurYl3EZnaxCF7N"
+      },
+      "artists": [
+        {
+          "name": "The Rembrandts",
+          "url": "https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188359,
+      "name": "I'll Be There for You - Theme From \"Friends\"",
+      "url": "https://open.spotify.com/track/15tHagkk8z306XkyOHqiip"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297506,
+      "name": "I'm Done Waiting",
+      "url": "https://open.spotify.com/track/1vReR72J4fccoUvQIHWfre"
+    },
+    {
+      "album": {
+        "name": "Saturdays = Youth",
+        "url": "https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322933,
+      "name": "Kim & Jessie",
+      "url": "https://open.spotify.com/track/1cTu1MiLR4rOyzIzZd6GYP"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130013,
+      "name": "Knock At The Door",
+      "url": "https://open.spotify.com/track/4HyBGSAnlIh4YupQAp4ZrU"
+    },
+    {
+      "album": {
+        "name": "Sea Change",
+        "url": "https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "Lost Cause",
+      "url": "https://open.spotify.com/track/29i8axWOLDmgbiutJb9prB"
+    },
+    {
+      "album": {
+        "name": "Maps",
+        "url": "https://open.spotify.com/album/45vdRRGOaRI3Jap9B7b5Gd"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214973,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/0DERIzaqv9rIs7DXETrp76"
+    },
+    {
+      "album": {
+        "name": "Emergency (Reissue)",
+        "url": "https://open.spotify.com/album/1lLHdYAPp0kZdBiMrLbsJV"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300733,
+      "name": "Misled",
+      "url": "https://open.spotify.com/track/6KthkBoyIkEPnVSVuHvdCB"
+    },
+    {
+      "album": {
+        "name": "Another Level",
+        "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
+      },
+      "artists": [
+        {
+          "name": "Blackstreet",
+          "url": "https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300533,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/6ZHncbi46BbImMdnNMMGiz"
+    },
+    {
+      "album": {
+        "name": "The Sugar Hill Records Story",
+        "url": "https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U"
+      },
+      "artists": [
+        {
+          "name": "Grandmaster Flash & The Furious Five",
+          "url": "https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446440,
+      "name": "New York New York",
+      "url": "https://open.spotify.com/track/6mSDUgdET1SWzDIWRB61Yv"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328520,
+      "name": "Red Rain",
+      "url": "https://open.spotify.com/track/3yjTOFjGtYPQZoz25ZlDQ2"
+    },
+    {
+      "album": {
+        "name": "Speakerboxxx/The Love Below",
+        "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 369573,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199386,
+      "name": "Self-proclaimed Survivalist",
+      "url": "https://open.spotify.com/track/4JPtEK5o5Zpu9xRNWtJoRi"
+    },
+    {
+      "album": {
+        "name": "Anthology: The Sounds Of Science",
+        "url": "https://open.spotify.com/album/0OqOIHkfdZ6tqkKd8QQcS2"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Shake Your Rump",
+      "url": "https://open.spotify.com/track/3ynLz9LpE1wpbwdpuDEiwC"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133386,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/6LNQMTSb9ZMr6Zf3IChzhv"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72106,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/51aIcOWXKbMm1W1AwEkZK1"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272813,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/5RdHaxsjFbUgUVwXwmRdg0"
+    },
+    {
+      "album": {
+        "name": "Nancy & Lee",
+        "url": "https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl"
+      },
+      "artists": [
+        {
+          "name": "Nancy Sinatra",
+          "url": "https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2"
+        },
+        {
+          "name": "Lee Hazlewood",
+          "url": "https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224278,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/2JKRZGp4LwT9GGbcXtx2sw"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68933,
+      "name": "The Deer",
+      "url": "https://open.spotify.com/track/7hiAPR7N5uVl5uRUBmfO9U"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91440,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/3yBUGTHjjlv65358hg0vf4"
+    },
+    {
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291866,
+      "name": "The Name Of The Game",
+      "url": "https://open.spotify.com/track/1lDo24S34NvI1pAg7Oxldc"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139764,
+      "name": "The Paradigm",
+      "url": "https://open.spotify.com/track/2lqaVvI8tqZpVwC5Cuxsbn"
+    },
+    {
+      "album": {
+        "name": "THE REV3NGE",
+        "url": "https://open.spotify.com/album/3TJyoj7nUv18q20XnTxtz1"
+      },
+      "artists": [
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147213,
+      "name": "THE REV3NGE",
+      "url": "https://open.spotify.com/track/2qvc0vB4AAW39DR9j6vXa1"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301200,
+      "name": "The Third Stage",
+      "url": "https://open.spotify.com/track/2L2f0uuAqQuALSjHHQCl03"
+    },
+    {
+      "album": {
+        "name": "Rated Next",
+        "url": "https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm"
+      },
+      "artists": [
+        {
+          "name": "Next",
+          "url": "https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259440,
+      "name": "Too Close",
+      "url": "https://open.spotify.com/track/5IFCyWplye09HytIP80RCF"
+    },
+    {
+      "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245600,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/3pbtBomO4Zt5gGiqsYeiBH"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125533,
+      "name": "We've All Been Deserted",
+      "url": "https://open.spotify.com/track/4yz8eo0J0MxO6j5OSHWtji"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Party (Instrumental)",
+        "url": "https://open.spotify.com/album/6KBiTqAsScgS2zeThxNxJY"
+      },
+      "artists": [
+        {
+          "name": "KPH",
+          "url": "https://open.spotify.com/artist/7qyRt0liryfC7zuZFICdKC"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "Welcome To The Party - Instrumental",
+      "url": "https://open.spotify.com/track/4iDx5KbmceEtTTXrYcCexK"
+    },
+    {
+      "album": {
+        "name": "The Beach Goths",
+        "url": "https://open.spotify.com/album/7keDvI2I3kmUhTTT6cpt4Y"
+      },
+      "artists": [
+        {
+          "name": "Red Axes",
+          "url": "https://open.spotify.com/artist/5Owm9QgL9BSCRQKTX6T08G"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181092,
+      "name": "What Is In Your Head",
+      "url": "https://open.spotify.com/track/1S1K7cID6ydwZMTwk7LWMl"
+    },
+    {
+      "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324546,
+      "name": "White America",
+      "url": "https://open.spotify.com/track/15qrWkkYCfmtu1uRpGf48L"
+    },
+    {
+      "album": {
+        "name": "Leave the World Behind (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/1BbVQrmnm6FgNfbXtvysLr"
+      },
+      "artists": [
+        {
+          "name": "Mac Quayle",
+          "url": "https://open.spotify.com/artist/3HLApxqtvULlffnRnW88O8"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109866,
+      "name": "White Lion",
+      "url": "https://open.spotify.com/track/28cO9t0g1SJ74Gih2je4Dc"
+    },
+    {
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX"
+      },
+      "artists": [
+        {
+          "name": "TV On The Radio",
+          "url": "https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221197,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/7HfyP1aJUmpXFPOffL4SbP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX2n9ZnoiY98G"
 }

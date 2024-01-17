@@ -1,735 +1,3101 @@
 {
-  "2021-12-25": 141506,
-  "2021-12-26": 142687,
-  "2021-12-27": 142871,
-  "2021-12-28": 142870,
-  "2021-12-29": 142825,
-  "2021-12-30": 142795,
-  "2021-12-31": 142764,
-  "2022-01-01": 142742,
-  "2022-01-02": 142748,
-  "2022-01-03": 142744,
-  "2022-01-04": 142689,
-  "2022-01-05": 142631,
-  "2022-01-06": 142581,
-  "2022-01-07": 142547,
-  "2022-01-08": 142457,
-  "2022-01-09": 142453,
-  "2022-01-10": 142426,
-  "2022-01-11": 142386,
-  "2022-01-12": 142364,
-  "2022-01-13": 142332,
-  "2022-01-14": 142311,
-  "2022-01-15": 142272,
-  "2022-01-16": 142268,
-  "2022-01-17": 142223,
-  "2022-01-18": 142221,
-  "2022-01-19": 142199,
-  "2022-01-20": 142171,
-  "2022-01-21": 142157,
-  "2022-01-22": 142134,
-  "2022-01-23": 142124,
-  "2022-01-24": 142101,
-  "2022-01-25": 142074,
-  "2022-01-26": 142057,
-  "2022-01-27": 142042,
-  "2022-01-28": 142017,
-  "2022-01-29": 142000,
-  "2022-01-30": 141984,
-  "2022-01-31": 141966,
-  "2022-02-01": 141946,
-  "2022-02-02": 141932,
-  "2022-02-03": 141922,
-  "2022-02-04": 141906,
-  "2022-02-05": 141888,
-  "2022-02-06": 141877,
-  "2022-02-07": 141867,
-  "2022-02-08": 141852,
-  "2022-02-09": 141838,
-  "2022-02-10": 141823,
-  "2022-02-11": 141811,
-  "2022-02-12": 141798,
-  "2022-02-13": 141790,
-  "2022-02-14": 141774,
-  "2022-02-15": 141762,
-  "2022-02-16": 141751,
-  "2022-02-17": 141732,
-  "2022-02-18": 141716,
-  "2022-02-19": 141695,
-  "2022-02-20": 141682,
-  "2022-02-21": 141668,
-  "2022-02-22": 141655,
-  "2022-02-23": 141637,
-  "2022-02-24": 141609,
-  "2022-02-25": 141603,
-  "2022-02-26": 141582,
-  "2022-02-27": 141551,
-  "2022-02-28": 141551,
-  "2022-03-01": 141542,
-  "2022-03-02": 141522,
-  "2022-03-03": 141510,
-  "2022-03-04": 141500,
-  "2022-03-05": 141488,
-  "2022-03-06": 141475,
-  "2022-03-07": 141470,
-  "2022-03-08": 141464,
-  "2022-03-09": 141455,
-  "2022-03-10": 141446,
-  "2022-03-11": 141441,
-  "2022-03-12": 141434,
-  "2022-03-13": 141425,
-  "2022-03-14": 141417,
-  "2022-03-15": 141415,
-  "2022-03-16": 141404,
-  "2022-03-17": 141398,
-  "2022-03-18": 141387,
-  "2022-03-19": 141378,
-  "2022-03-20": 141378,
-  "2022-03-21": 141370,
-  "2022-03-22": 141365,
-  "2022-03-23": 141358,
-  "2022-03-24": 141353,
-  "2022-03-25": 141346,
-  "2022-03-26": 141338,
-  "2022-03-27": 141334,
-  "2022-03-28": 141323,
-  "2022-03-30": 141313,
-  "2022-03-31": 141307,
-  "2022-04-01": 141299,
-  "2022-04-02": 141291,
-  "2022-04-03": 141281,
-  "2022-04-04": 141274,
-  "2022-04-05": 141261,
-  "2022-04-06": 141251,
-  "2022-04-07": 141243,
-  "2022-04-08": 141233,
-  "2022-04-09": 141227,
-  "2022-04-10": 141215,
-  "2022-04-11": 141209,
-  "2022-04-12": 141208,
-  "2022-04-13": 141205,
-  "2022-04-14": 141196,
-  "2022-04-15": 141189,
-  "2022-04-16": 141182,
-  "2022-04-17": 141170,
-  "2022-04-18": 141165,
-  "2022-04-19": 141161,
-  "2022-04-20": 141152,
-  "2022-04-21": 141148,
-  "2022-04-22": 141136,
-  "2022-04-23": 141136,
-  "2022-04-24": 141128,
-  "2022-04-25": 141125,
-  "2022-04-26": 141116,
-  "2022-04-27": 141104,
-  "2022-04-28": 141089,
-  "2022-04-29": 141081,
-  "2022-04-30": 141076,
-  "2022-05-01": 141071,
-  "2022-05-02": 141071,
-  "2022-05-03": 141064,
-  "2022-05-04": 141061,
-  "2022-05-05": 141056,
-  "2022-05-06": 141051,
-  "2022-05-07": 141043,
-  "2022-05-08": 141038,
-  "2022-05-09": 141036,
-  "2022-05-10": 141027,
-  "2022-05-11": 141023,
-  "2022-05-12": 141017,
-  "2022-05-13": 141009,
-  "2022-05-14": 141003,
-  "2022-05-15": 140998,
-  "2022-05-16": 140993,
-  "2022-05-17": 140988,
-  "2022-05-18": 140980,
-  "2022-05-19": 140971,
-  "2022-05-20": 140967,
-  "2022-05-21": 140964,
-  "2022-05-22": 140964,
-  "2022-05-23": 140958,
-  "2022-05-24": 140950,
-  "2022-05-25": 140942,
-  "2022-05-26": 140933,
-  "2022-05-27": 140928,
-  "2022-05-28": 140923,
-  "2022-05-29": 140921,
-  "2022-05-30": 140915,
-  "2022-05-31": 140912,
-  "2022-06-01": 140899,
-  "2022-06-02": 140897,
-  "2022-06-03": 140894,
-  "2022-06-04": 140888,
-  "2022-06-05": 140882,
-  "2022-06-06": 140876,
-  "2022-06-07": 140873,
-  "2022-06-08": 140863,
-  "2022-06-09": 140859,
-  "2022-06-10": 140855,
-  "2022-06-11": 140849,
-  "2022-06-12": 140840,
-  "2022-06-13": 140834,
-  "2022-06-14": 140832,
-  "2022-06-15": 140829,
-  "2022-06-16": 140824,
-  "2022-06-17": 140817,
-  "2022-06-18": 140815,
-  "2022-06-19": 140805,
-  "2022-06-20": 140805,
-  "2022-06-21": 140800,
-  "2022-06-22": 140787,
-  "2022-06-23": 140787,
-  "2022-06-24": 140780,
-  "2022-06-25": 140780,
-  "2022-06-26": 140776,
-  "2022-06-27": 140774,
-  "2022-06-28": 140769,
-  "2022-06-29": 140767,
-  "2022-06-30": 140761,
-  "2022-07-01": 140755,
-  "2022-07-02": 140751,
-  "2022-07-03": 140744,
-  "2022-07-04": 140738,
-  "2022-07-05": 140734,
-  "2022-07-06": 140730,
-  "2022-07-07": 140729,
-  "2022-07-08": 140727,
-  "2022-07-09": 140720,
-  "2022-07-10": 140718,
-  "2022-07-11": 140714,
-  "2022-07-12": 140710,
-  "2022-07-13": 140711,
-  "2022-07-14": 140710,
-  "2022-07-15": 140705,
-  "2022-07-16": 140699,
-  "2022-07-17": 140699,
-  "2022-07-18": 140696,
-  "2022-07-19": 140694,
-  "2022-07-20": 140692,
-  "2022-07-21": 140687,
-  "2022-07-22": 140677,
-  "2022-07-23": 140672,
-  "2022-07-24": 140668,
-  "2022-07-25": 140667,
-  "2022-07-26": 140666,
-  "2022-07-27": 140663,
-  "2022-07-28": 140660,
-  "2022-07-29": 140657,
-  "2022-07-30": 140654,
-  "2022-07-31": 140654,
-  "2022-08-01": 140645,
-  "2022-08-02": 140637,
-  "2022-08-03": 140637,
-  "2022-08-04": 140634,
-  "2022-08-05": 140628,
-  "2022-08-06": 140620,
-  "2022-08-07": 140616,
-  "2022-08-08": 140606,
-  "2022-08-09": 140602,
-  "2022-08-10": 140595,
-  "2022-08-11": 140593,
-  "2022-08-12": 140592,
-  "2022-08-13": 140590,
-  "2022-08-14": 140586,
-  "2022-08-15": 140583,
-  "2022-08-16": 140580,
-  "2022-08-17": 140578,
-  "2022-08-18": 140582,
-  "2022-08-19": 140577,
-  "2022-08-20": 140575,
-  "2022-08-21": 140568,
-  "2022-08-22": 140564,
-  "2022-08-23": 140562,
-  "2022-08-24": 140560,
-  "2022-08-25": 140558,
-  "2022-08-26": 140557,
-  "2022-08-27": 140554,
-  "2022-08-28": 140552,
-  "2022-08-29": 140546,
-  "2022-08-30": 140531,
-  "2022-08-31": 140504,
-  "2022-09-01": 140476,
-  "2022-09-02": 140451,
-  "2022-09-03": 140450,
-  "2022-09-04": 140381,
-  "2022-09-05": 140375,
-  "2022-09-06": 140371,
-  "2022-09-07": 140368,
-  "2022-09-09": 140363,
-  "2022-09-10": 140362,
-  "2022-09-11": 140362,
-  "2022-09-12": 140364,
-  "2022-09-13": 140363,
-  "2022-09-15": 140369,
-  "2022-09-16": 140364,
-  "2022-09-17": 140363,
-  "2022-09-18": 140365,
-  "2022-09-19": 140368,
-  "2022-09-20": 140364,
-  "2022-09-21": 140365,
-  "2022-09-22": 140369,
-  "2022-09-23": 140372,
-  "2022-09-24": 140374,
-  "2022-09-25": 140378,
-  "2022-09-26": 140382,
-  "2022-09-27": 140381,
-  "2022-09-28": 140379,
-  "2022-09-29": 140380,
-  "2022-09-30": 140380,
-  "2022-10-01": 140384,
-  "2022-10-02": 140388,
-  "2022-10-03": 140393,
-  "2022-10-04": 140400,
-  "2022-10-05": 140410,
-  "2022-10-06": 140417,
-  "2022-10-07": 140419,
-  "2022-10-08": 140427,
-  "2022-10-09": 140447,
-  "2022-10-10": 140451,
-  "2022-10-11": 140466,
-  "2022-10-12": 140469,
-  "2022-10-13": 140483,
-  "2022-10-14": 140492,
-  "2022-10-15": 140501,
-  "2022-10-16": 140512,
-  "2022-10-17": 140534,
-  "2022-10-18": 140548,
-  "2022-10-19": 140557,
-  "2022-10-20": 140575,
-  "2022-10-21": 140594,
-  "2022-10-22": 140607,
-  "2022-10-23": 140614,
-  "2022-10-24": 140633,
-  "2022-10-25": 140649,
-  "2022-10-26": 140676,
-  "2022-10-27": 140705,
-  "2022-10-28": 140730,
-  "2022-10-29": 140754,
-  "2022-10-30": 140802,
-  "2022-10-31": 140832,
-  "2022-11-01": 140878,
-  "2022-11-02": 141027,
-  "2022-11-03": 141155,
-  "2022-11-04": 141321,
-  "2022-11-05": 141461,
-  "2022-11-06": 141582,
-  "2022-11-07": 141704,
-  "2022-11-08": 141798,
-  "2022-11-09": 141901,
-  "2022-11-10": 142012,
-  "2022-11-11": 142145,
-  "2022-11-12": 142284,
-  "2022-11-13": 142419,
-  "2022-11-14": 142578,
-  "2022-11-15": 142741,
-  "2022-11-16": 142913,
-  "2022-11-17": 143087,
-  "2022-11-18": 143142,
-  "2022-11-19": 143105,
-  "2022-11-20": 143454,
-  "2022-11-21": 143434,
-  "2022-11-22": 143979,
-  "2022-11-23": 143947,
-  "2022-11-24": 144660,
-  "2022-11-25": 145165,
-  "2022-11-26": 145614,
-  "2022-11-27": 146037,
-  "2022-11-28": 146466,
-  "2022-11-29": 146871,
-  "2022-11-30": 147330,
-  "2022-12-01": 147835,
-  "2022-12-02": 148242,
-  "2022-12-03": 148923,
-  "2022-12-04": 149499,
-  "2022-12-05": 150156,
-  "2022-12-06": 150720,
-  "2022-12-07": 151317,
-  "2022-12-08": 151942,
-  "2022-12-09": 152562,
-  "2022-12-10": 153279,
-  "2022-12-11": 154060,
-  "2022-12-12": 154801,
-  "2022-12-13": 155611,
-  "2022-12-14": 156311,
-  "2022-12-15": 157162,
-  "2022-12-16": 157879,
-  "2022-12-17": 158768,
-  "2022-12-18": 159773,
-  "2022-12-19": 160607,
-  "2022-12-20": 162281,
-  "2022-12-21": 162281,
-  "2022-12-22": 163283,
-  "2022-12-24": 165904,
-  "2022-12-25": 168589,
-  "2022-12-26": 171015,
-  "2022-12-27": 171213,
-  "2022-12-28": 171232,
-  "2022-12-29": 171188,
-  "2022-12-30": 171139,
-  "2022-12-31": 171059,
-  "2023-01-01": 171027,
-  "2023-01-02": 170977,
-  "2023-01-03": 170878,
-  "2023-01-04": 170801,
-  "2023-01-05": 170706,
-  "2023-01-06": 170629,
-  "2023-01-07": 170556,
-  "2023-01-08": 170541,
-  "2023-01-09": 170503,
-  "2023-01-10": 170444,
-  "2023-01-11": 170396,
-  "2023-01-12": 170354,
-  "2023-01-13": 170310,
-  "2023-01-14": 170249,
-  "2023-01-15": 170242,
-  "2023-01-16": 170210,
-  "2023-01-17": 170179,
-  "2023-01-18": 170151,
-  "2023-01-19": 170121,
-  "2023-01-20": 170085,
-  "2023-01-21": 170051,
-  "2023-01-22": 170020,
-  "2023-01-23": 169989,
-  "2023-01-24": 169956,
-  "2023-01-25": 169921,
-  "2023-01-26": 169910,
-  "2023-01-27": 169881,
-  "2023-01-28": 169851,
-  "2023-01-29": 169837,
-  "2023-01-30": 169813,
-  "2023-01-31": 169813,
-  "2023-02-01": 169769,
-  "2023-02-02": 169741,
-  "2023-02-03": 169721,
-  "2023-02-04": 169702,
-  "2023-02-05": 169681,
-  "2023-02-06": 169660,
-  "2023-02-07": 169644,
-  "2023-02-08": 169605,
-  "2023-02-09": 169605,
-  "2023-02-10": 169578,
-  "2023-02-11": 169563,
-  "2023-02-12": 169541,
-  "2023-02-13": 169521,
-  "2023-02-14": 169521,
-  "2023-02-15": 169513,
-  "2023-02-16": 169489,
-  "2023-02-17": 169477,
-  "2023-02-18": 169444,
-  "2023-02-19": 169443,
-  "2023-02-20": 169433,
-  "2023-02-21": 169417,
-  "2023-02-22": 169406,
-  "2023-02-23": 169387,
-  "2023-02-24": 169376,
-  "2023-02-25": 169350,
-  "2023-02-26": 169338,
-  "2023-02-27": 169307,
-  "2023-02-28": 169307,
-  "2023-03-01": 169293,
-  "2023-03-02": 169281,
-  "2023-03-03": 169263,
-  "2023-03-04": 169251,
-  "2023-03-05": 169228,
-  "2023-03-06": 169228,
-  "2023-03-07": 169214,
-  "2023-03-08": 169209,
-  "2023-03-09": 169193,
-  "2023-03-10": 169184,
-  "2023-03-11": 169172,
-  "2023-03-12": 169166,
-  "2023-03-13": 169157,
-  "2023-03-14": 169150,
-  "2023-03-15": 169135,
-  "2023-03-16": 169117,
-  "2023-03-17": 169117,
-  "2023-03-18": 169095,
-  "2023-03-19": 169083,
-  "2023-03-20": 169073,
-  "2023-03-21": 169054,
-  "2023-03-22": 169040,
-  "2023-03-23": 169026,
-  "2023-03-24": 169026,
-  "2023-03-25": 169013,
-  "2023-03-26": 169008,
-  "2023-03-27": 168998,
-  "2023-03-28": 168992,
-  "2023-03-29": 168985,
-  "2023-03-30": 168967,
-  "2023-03-31": 168967,
-  "2023-04-01": 168953,
-  "2023-04-02": 168941,
-  "2023-04-03": 168936,
-  "2023-04-04": 168923,
-  "2023-04-05": 168907,
-  "2023-04-06": 168900,
-  "2023-04-07": 168887,
-  "2023-04-09": 168859,
-  "2023-04-10": 168844,
-  "2023-04-11": 168825,
-  "2023-04-12": 168825,
-  "2023-04-13": 168815,
-  "2023-04-14": 168806,
-  "2023-04-15": 168795,
-  "2023-04-16": 168776,
-  "2023-04-17": 168768,
-  "2023-04-18": 168765,
-  "2023-04-19": 168753,
-  "2023-04-20": 168747,
-  "2023-04-21": 168725,
-  "2023-04-22": 168715,
-  "2023-04-23": 168706,
-  "2023-04-24": 168694,
-  "2023-04-25": 168683,
-  "2023-04-26": 168674,
-  "2023-04-27": 168665,
-  "2023-04-28": 168657,
-  "2023-04-29": 168651,
-  "2023-04-30": 168642,
-  "2023-05-01": 168631,
-  "2023-05-02": 168627,
-  "2023-05-03": 168620,
-  "2023-05-04": 168616,
-  "2023-05-05": 168606,
-  "2023-05-06": 168596,
-  "2023-05-07": 168593,
-  "2023-05-08": 168580,
-  "2023-05-09": 168574,
-  "2023-05-10": 168569,
-  "2023-05-11": 168561,
-  "2023-05-12": 168558,
-  "2023-05-13": 168549,
-  "2023-05-14": 168545,
-  "2023-05-15": 168538,
-  "2023-05-16": 168529,
-  "2023-05-17": 168528,
-  "2023-05-18": 168523,
-  "2023-05-19": 168517,
-  "2023-05-20": 168503,
-  "2023-05-21": 168503,
-  "2023-05-22": 168503,
-  "2023-05-23": 168493,
-  "2023-05-24": 168479,
-  "2023-05-25": 168477,
-  "2023-05-26": 168472,
-  "2023-05-27": 168460,
-  "2023-05-28": 168456,
-  "2023-05-29": 168456,
-  "2023-05-30": 168435,
-  "2023-05-31": 168430,
-  "2023-06-01": 168425,
-  "2023-06-02": 168421,
-  "2023-06-03": 168411,
-  "2023-06-04": 168403,
-  "2023-06-05": 168406,
-  "2023-06-06": 168397,
-  "2023-06-07": 168392,
-  "2023-06-08": 168381,
-  "2023-06-09": 168378,
-  "2023-06-10": 168370,
-  "2023-06-11": 168363,
-  "2023-06-12": 168351,
-  "2023-06-13": 168348,
-  "2023-06-14": 168348,
-  "2023-06-15": 168342,
-  "2023-06-16": 168329,
-  "2023-06-17": 168322,
-  "2023-06-18": 168323,
-  "2023-06-19": 168312,
-  "2023-06-20": 168312,
-  "2023-06-21": 168308,
-  "2023-06-22": 168300,
-  "2023-06-23": 168292,
-  "2023-06-24": 168289,
-  "2023-06-25": 168285,
-  "2023-06-26": 168281,
-  "2023-06-27": 168275,
-  "2023-06-28": 168268,
-  "2023-06-29": 168261,
-  "2023-06-30": 168255,
-  "2023-07-01": 168255,
-  "2023-07-02": 168255,
-  "2023-07-03": 168249,
-  "2023-07-04": 168243,
-  "2023-07-05": 168236,
-  "2023-07-06": 168220,
-  "2023-07-07": 168220,
-  "2023-07-08": 168213,
-  "2023-07-09": 168211,
-  "2023-07-10": 168206,
-  "2023-07-11": 168198,
-  "2023-07-12": 168194,
-  "2023-07-13": 168186,
-  "2023-07-14": 168177,
-  "2023-07-15": 168168,
-  "2023-07-16": 168157,
-  "2023-07-17": 168149,
-  "2023-07-18": 168142,
-  "2023-07-19": 168138,
-  "2023-07-20": 168135,
-  "2023-07-21": 168128,
-  "2023-07-22": 168120,
-  "2023-07-23": 168118,
-  "2023-07-24": 168110,
-  "2023-07-25": 168101,
-  "2023-07-26": 168096,
-  "2023-07-27": 168088,
-  "2023-07-28": 168082,
-  "2023-07-29": 168075,
-  "2023-07-30": 168068,
-  "2023-07-31": 168065,
-  "2023-08-01": 168066,
-  "2023-08-02": 168061,
-  "2023-08-03": 168060,
-  "2023-08-04": 168053,
-  "2023-08-05": 168048,
-  "2023-08-06": 168044,
-  "2023-08-07": 168044,
-  "2023-08-08": 168042,
-  "2023-08-09": 168044,
-  "2023-08-10": 168048,
-  "2023-08-11": 168043,
-  "2023-08-12": 168043,
-  "2023-08-13": 168039,
-  "2023-08-14": 168029,
-  "2023-08-15": 168020,
-  "2023-08-16": 168020,
-  "2023-08-17": 168015,
-  "2023-08-18": 168009,
-  "2023-08-19": 168007,
-  "2023-08-20": 168005,
-  "2023-08-21": 167999,
-  "2023-08-22": 167992,
-  "2023-08-23": 167997,
-  "2023-08-24": 167990,
-  "2023-08-25": 167992,
-  "2023-08-26": 167993,
-  "2023-08-27": 167996,
-  "2023-08-28": 167994,
-  "2023-08-29": 167995,
-  "2023-08-30": 167993,
-  "2023-08-31": 167991,
-  "2023-09-01": 167994,
-  "2023-09-02": 167994,
-  "2023-09-03": 167994,
-  "2023-09-04": 167996,
-  "2023-09-05": 167994,
-  "2023-09-06": 167994,
-  "2023-09-07": 167997,
-  "2023-09-08": 167996,
-  "2023-09-09": 167994,
-  "2023-09-10": 167994,
-  "2023-09-11": 167993,
-  "2023-09-12": 167995,
-  "2023-09-13": 167991,
-  "2023-09-14": 167991,
-  "2023-09-15": 167989,
-  "2023-09-16": 167988,
-  "2023-09-17": 167997,
-  "2023-09-18": 168004,
-  "2023-09-19": 168003,
-  "2023-09-20": 168014,
-  "2023-09-21": 168019,
-  "2023-09-22": 168023,
-  "2023-09-23": 168027,
-  "2023-09-24": 168026,
-  "2023-09-25": 168032,
-  "2023-09-26": 168034,
-  "2023-09-27": 168036,
-  "2023-09-28": 168039,
-  "2023-09-29": 168042,
-  "2023-09-30": 168044,
-  "2023-10-01": 168042,
-  "2023-10-02": 168042,
-  "2023-10-03": 168051,
-  "2023-10-04": 168055,
-  "2023-10-05": 168060,
-  "2023-10-06": 168070,
-  "2023-10-07": 168077,
-  "2023-10-08": 168079,
-  "2023-10-09": 168079,
-  "2023-10-10": 167936,
-  "2023-10-11": 167790,
-  "2023-10-12": 167790,
-  "2023-10-13": 167674,
-  "2023-10-14": 167587,
-  "2023-10-15": 167586,
-  "2023-10-16": 167604,
-  "2023-10-17": 167621,
-  "2023-10-18": 167649,
-  "2023-10-19": 167663,
-  "2023-10-20": 167692,
-  "2023-10-21": 167714,
-  "2023-10-22": 167755,
-  "2023-10-23": 167784,
-  "2023-10-24": 167819,
-  "2023-10-25": 167851,
-  "2023-10-26": 167892,
-  "2023-10-27": 167929,
-  "2023-10-28": 167973,
-  "2023-10-29": 168015,
-  "2023-10-30": 168114,
-  "2023-10-31": 168114,
-  "2023-11-01": 168167,
-  "2023-11-02": 168332,
-  "2023-11-03": 168491,
-  "2023-11-04": 168610,
-  "2023-11-05": 168730,
-  "2023-11-06": 168873,
-  "2023-11-07": 168999,
-  "2023-11-08": 169160,
-  "2023-11-09": 169325,
-  "2023-11-10": 169492,
-  "2023-11-11": 169655,
-  "2023-11-12": 169815,
-  "2023-11-13": 169986,
-  "2023-11-14": 170138,
-  "2023-11-15": 170138,
-  "2023-11-16": 170478,
-  "2023-11-17": 170867,
-  "2023-11-18": 170867,
-  "2023-11-19": 171076,
-  "2023-11-20": 171315,
-  "2023-11-21": 171539,
-  "2023-11-22": 171827,
-  "2023-11-23": 172130,
-  "2023-11-24": 172484,
-  "2023-11-25": 172864,
-  "2023-11-26": 173373,
-  "2023-11-27": 173821,
-  "2023-11-28": 174241,
-  "2023-11-29": 175113,
-  "2023-11-30": 175113,
-  "2023-12-01": 175601,
-  "2023-12-02": 176179,
-  "2023-12-03": 176834,
-  "2023-12-04": 177558,
-  "2023-12-05": 178107,
-  "2023-12-06": 178689,
-  "2023-12-07": 179263,
-  "2023-12-08": 179825,
-  "2023-12-09": 180359,
-  "2023-12-10": 181049,
-  "2023-12-11": 181608,
-  "2023-12-12": 182027,
-  "2023-12-13": 182537,
-  "2023-12-14": 183241,
-  "2023-12-15": 183626,
-  "2023-12-16": 184104,
-  "2023-12-17": 184745,
-  "2023-12-18": 185276,
-  "2023-12-19": 185767,
-  "2023-12-20": 186348,
-  "2023-12-21": 186916,
-  "2023-12-22": 187531,
-  "2023-12-23": 188352,
-  "2023-12-24": 189207,
-  "2023-12-25": 190422,
-  "2023-12-26": 191524,
-  "2023-12-27": 191660,
-  "2023-12-30": 191500,
-  "2023-12-31": 191445,
-  "2024-01-01": 191381,
-  "2024-01-02": 191327,
-  "2024-01-03": 191244
+  "2024-01-17": 189903,
+  "date_first_scraped": "2021-12-21",
+  "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
+  "name": "R&B Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "Christmas With You",
+        "url": "https://open.spotify.com/album/55wRPgoziUFScNgNghfhDR"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 240000,
+      "name": "1st Noel",
+      "url": "https://open.spotify.com/track/0DeRa19ZWpZoz69pb8GMT2"
+    },
+    {
+      "album": {
+        "name": "8 Days Of Christmas",
+        "url": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209360,
+      "name": "8 Days of Christmas",
+      "url": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
+    },
+    {
+      "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/5IBq0A7yHPkYX9xf6tAEsi"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215342,
+      "name": "A Timeless Christmas",
+      "url": "https://open.spotify.com/track/39UYaCYN5NtZQjWsdsWsqF"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241106,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "Christmas With PJ Morton",
+        "url": "https://open.spotify.com/album/6CCI8iFCudEj8BrLUs3Mj6"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Stokley",
+          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262649,
+      "name": "All I Want For Christmas Is You (feat. Stokley)",
+      "url": "https://open.spotify.com/track/3xpTPCwZ2G90qS3J5v2Xc4"
+    },
+    {
+      "album": {
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+      },
+      "artists": [
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175347,
+      "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
+      "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+    },
+    {
+      "album": {
+        "name": "Motown Christmas",
+        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Chrisette Michele",
+          "url": "https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267666,
+      "name": "Angels We Have Heard On High",
+      "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
+    },
+    {
+      "album": {
+        "name": "Christmas Time on the Black Hand Side",
+        "url": "https://open.spotify.com/album/4NdBLXkRMlGdZMugmm6NeI"
+      },
+      "artists": [
+        {
+          "name": "Timothy Bloom",
+          "url": "https://open.spotify.com/artist/4LF6IqmnCvbErXH89NaMAI"
+        },
+        {
+          "name": "V. Bozeman",
+          "url": "https://open.spotify.com/artist/4Nc3svccPWQ7nSBSu39rBI"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 179464,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/1lWBgerKZ76ruJf1N8k7wh"
+    },
+    {
+      "album": {
+        "name": "What Christmas Means",
+        "url": "https://open.spotify.com/album/0Es1EWw1XWC51nCZdva50g"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257399,
+      "name": "Be Mine For Christmas",
+      "url": "https://open.spotify.com/track/62wRKfwOB7pyoFgX4ohQBB"
+    },
+    {
+      "album": {
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 275902,
+      "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
+      "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
+    },
+    {
+      "album": {
+        "name": "Christmas All Year",
+        "url": "https://open.spotify.com/album/4esMIO29tsDdDEyV2eZJkl"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173207,
+      "name": "Christmas All Year",
+      "url": "https://open.spotify.com/track/27d6hPrn21lrr9l91d4L4I"
+    },
+    {
+      "album": {
+        "name": "Christmas In Harlem",
+        "url": "https://open.spotify.com/album/31dBitfDGugqFHLKrUT3rt"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "CyHi",
+          "url": "https://open.spotify.com/artist/18HVMQsV3tINaTyzT5UIjH"
+        },
+        {
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+        }
+      ],
+      "date_added": "2022-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Christmas In Harlem",
+      "url": "https://open.spotify.com/track/00HMEiBMDkbNCHLJL6zqVk"
+    },
+    {
+      "album": {
+        "name": "Christmas Kisses",
+        "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211200,
+      "name": "Christmas Kisses",
+      "url": "https://open.spotify.com/track/6kkS5mv7VCMBFjMYRP6iJu"
+    },
+    {
+      "album": {
+        "name": "My Christmas Album",
+        "url": "https://open.spotify.com/album/3AXPIYkc039fwh2DIrWvgl"
+      },
+      "artists": [
+        {
+          "name": "Chant\u00e9 Moore",
+          "url": "https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 321666,
+      "name": "Christmas Morn",
+      "url": "https://open.spotify.com/track/6pDdJM1QjrJdnIBrDN00yX"
+    },
+    {
+      "album": {
+        "name": "Christmas Morning [from Still Home For The Holidays (An R&B Christmas Album)]",
+        "url": "https://open.spotify.com/album/07MckVJxmPcyuDecdRE4GV"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206213,
+      "name": "Christmas Morning [from Still Home For The Holidays (An R&B Christmas Album)]",
+      "url": "https://open.spotify.com/track/6TyCWrr4aFxYSlMJI4fpV2"
+    },
+    {
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234481,
+      "name": "Christmas Party for Two",
+      "url": "https://open.spotify.com/track/17k57GBQgEC9rfhsgepOoi"
+    },
+    {
+      "album": {
+        "name": "Christmas Party for Two",
+        "url": "https://open.spotify.com/album/1ALVALb5SfYHYt48JKGUQq"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 234481,
+      "name": "Christmas Party for Two",
+      "url": "https://open.spotify.com/track/79UvrTKNmJa68M0Cn9wYJx"
+    },
+    {
+      "album": {
+        "name": "Christmas Special",
+        "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188533,
+      "name": "Christmas Special",
+      "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/2t13RYrUWNVlXiUlPFBH2T"
+      },
+      "artists": [
+        {
+          "name": "Quincy",
+          "url": "https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 203303,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/2oGprSC13qf6z69Z0LHi5t"
+    },
+    {
+      "album": {
+        "name": "Ashanti's Christmas",
+        "url": "https://open.spotify.com/album/2cCgsczHC4dG2TSSPSxzL5"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244720,
+      "name": "Christmas Time Again",
+      "url": "https://open.spotify.com/track/0xBnJDbPobgPwj7SUKfNbS"
+    },
+    {
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/3ZaX7lHCPdIXpnOZBeTnKQ"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 251040,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2BhqB61ZY7vrsE6sQ2W1XE"
+    },
+    {
+      "album": {
+        "name": "Snowflakes",
+        "url": "https://open.spotify.com/album/5iUvnkcBLlxrrdPsx4zwmu"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251040,
+      "name": "Christmas Time Is Here",
+      "url": "https://open.spotify.com/track/2v3o68jkmZhT9KxEHTCXAJ"
+    },
+    {
+      "album": {
+        "name": "Christmas, Love And You",
+        "url": "https://open.spotify.com/album/55oTFa7qZbJW50tVnrJpN8"
+      },
+      "artists": [
+        {
+          "name": "Will Downing",
+          "url": "https://open.spotify.com/artist/69k2JfIQxMpBbc1wtmHWZY"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-30",
+      "duration_ms": 261213,
+      "name": "Christmas, Love, and You",
+      "url": "https://open.spotify.com/track/7Inmp1hBrwS1PnV0zCxYwX"
+    },
+    {
+      "album": {
+        "name": "Christmastime is here",
+        "url": "https://open.spotify.com/album/4Xve9HLlLyUGtfRV9zqfeO"
+      },
+      "artists": [
+        {
+          "name": "Phony Ppl",
+          "url": "https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-27",
+      "duration_ms": 317847,
+      "name": "Christmastime is here",
+      "url": "https://open.spotify.com/track/5GuPM4rqeQ8NXXcbD3Qcyw"
+    },
+    {
+      "album": {
+        "name": "Comin Home",
+        "url": "https://open.spotify.com/album/4H47oOA1uIrHQOaUKUTjoh"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-20",
+      "duration_ms": 251636,
+      "name": "Comin Home",
+      "url": "https://open.spotify.com/track/7pJ0IyIV77mCinF7M833YA"
+    },
+    {
+      "album": {
+        "name": "Your Favorite Christmas Songs",
+        "url": "https://open.spotify.com/album/2J4yoqNkSjA6zI4PYtdAy2"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-04",
+      "duration_ms": 160083,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/7C1BWH7olUUDG2IeSY2KUP"
+    },
+    {
+      "album": {
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269866,
+      "name": "Deck the Halls / Silent Night",
+      "url": "https://open.spotify.com/track/73NEyO0Hx5WumrR7TYQWxu"
+    },
+    {
+      "album": {
+        "name": "One Wish - The Holiday Album",
+        "url": "https://open.spotify.com/album/6QS6KtLRJjoGNAxtw2PVRJ"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 269866,
+      "name": "Deck the Halls / Silent Night",
+      "url": "https://open.spotify.com/track/7o2VkCW64Gs5gTvgYNwipm"
+    },
+    {
+      "album": {
+        "name": "Drummer Boy",
+        "url": "https://open.spotify.com/album/6xUPYvryDEeFstO2P2ECEH"
+      },
+      "artists": [
+        {
+          "name": "Chloe Flower",
+          "url": "https://open.spotify.com/artist/1COAEcXEhWarbbgcz44KmJ"
+        },
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230401,
+      "name": "Drummer Boy",
+      "url": "https://open.spotify.com/track/66LpcXzFfdygOxBGvCWXVt"
+    },
+    {
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305226,
+      "name": "Every Year, Every Christmas",
+      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
+    },
+    {
+      "album": {
+        "name": "Fall in Love at Christmas",
+        "url": "https://open.spotify.com/album/5NyqnHa0a9s3zdnmnECumI"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "Fall in Love at Christmas",
+      "url": "https://open.spotify.com/track/1MCvAAKHSdGhe4ZPq0YMrF"
+    },
+    {
+      "album": {
+        "name": "Christmas in Baltimore",
+        "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
+      },
+      "artists": [
+        {
+          "name": "Dru Hill",
+          "url": "https://open.spotify.com/artist/1255GTUKNCLCTvH9ctD4cT"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216933,
+      "name": "Favorite Time of Year",
+      "url": "https://open.spotify.com/track/5KBn2qv7N3OfS7I2X2YNZM"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "Ghetto Christmas (with 6LACK & Summer Walker)",
+      "url": "https://open.spotify.com/track/5ycUatWaShR7L5aXhW4uf2"
+    },
+    {
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234560,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/1ep7czKo3gvwkZ2cyuqwFc"
+    },
+    {
+      "album": {
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/3emp7PCTnvQmvhUkM5AjAy"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249760,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/485CbXZXurl2Saj3zqrbpE"
+    },
+    {
+      "album": {
+        "name": "A Special Christmas",
+        "url": "https://open.spotify.com/album/2TEbtyEoKR7pwouo6q2ppC"
+      },
+      "artists": [
+        {
+          "name": "SWV",
+          "url": "https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229400,
+      "name": "Give Love On Christmas Day",
+      "url": "https://open.spotify.com/track/43nFa4io3pDfeWEc1NBPel"
+    },
+    {
+      "album": {
+        "name": "The Best Time of Year",
+        "url": "https://open.spotify.com/album/18LUOo28gPoTcexH8ojZFQ"
+      },
+      "artists": [
+        {
+          "name": "Keedron Bryant",
+          "url": "https://open.spotify.com/artist/2l5DDUyyMSmNBLCSa0BIIX"
+        },
+        {
+          "name": "Undecided Future",
+          "url": "https://open.spotify.com/artist/1sBCqmBIRFzk6RdVeSIhbl"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190132,
+      "name": "Give Love on Christmas Day (feat. Undecided Future)",
+      "url": "https://open.spotify.com/track/5Npvm8MgQLhYYuaXCJcUbj"
+    },
+    {
+      "album": {
+        "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC (Spotify Singles - Christmas)",
+        "url": "https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 225576,
+      "name": "Give Love on Christmas Day - Recorded at Spotify Studios NYC - Spotify Singles - Christmas",
+      "url": "https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m"
+    },
+    {
+      "album": {
+        "name": "His Gift",
+        "url": "https://open.spotify.com/album/5Pb7QphQDuUK7racwIN8fd"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-04",
+      "duration_ms": 250266,
+      "name": "Glory To The King - His Gift Version",
+      "url": "https://open.spotify.com/track/6e4u9vjkE1qpd9sZiXSVWc"
+    },
+    {
+      "album": {
+        "name": "He Is Christmas",
+        "url": "https://open.spotify.com/album/7vW35sxN7K0ZxTscxFpCDR"
+      },
+      "artists": [
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        },
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 275026,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/5ou7qxprOCJkbNgxJLygwo"
+    },
+    {
+      "album": {
+        "name": "He Is Christmas",
+        "url": "https://open.spotify.com/album/28eYVgtYLaaaolAP5yThPX"
+      },
+      "artists": [
+        {
+          "name": "Take 6 (And The Yellowjackets)",
+          "url": "https://open.spotify.com/artist/7rtSBCKNNo8LuYRQltB4zv"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 275026,
+      "name": "God Rest Ye Merry Gentlemen",
+      "url": "https://open.spotify.com/track/1kcfpDoWRn5KuUm3yY6YqO"
+    },
+    {
+      "album": {
+        "name": "A Legacy Christmas",
+        "url": "https://open.spotify.com/album/1YxEqMNJy5J9kZiMzG5iLA"
+      },
+      "artists": [
+        {
+          "name": "Adam Blackstone",
+          "url": "https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs"
+        },
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-26",
+      "duration_ms": 265927,
+      "name": "Greatest Gift",
+      "url": "https://open.spotify.com/track/3NbSZ8YBpCpnDEdLMeEOtv"
+    },
+    {
+      "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "album": {
+        "name": "Handel's Messiah: A Soulful Celebration",
+        "url": "https://open.spotify.com/album/4Loq4n1JyJHnW5WKKnxPhr"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Bell Armstrong, Patti Austin, Bernie K., Daryl Coley, Commissioned, Andrae Crouch, Sandra Crouch, Clifton Davis,",
+          "url": "https://open.spotify.com/artist/69OLLm0ZAylIU7piver5Go"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 353733,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7nuW6IlOP5kxsv4C2vrOOf"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays to You",
+        "url": "https://open.spotify.com/album/4SXOy0zcKjGS3lBtwwj6Bl"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-06",
+      "duration_ms": 275266,
+      "name": "Happy Holidays to You",
+      "url": "https://open.spotify.com/track/1LWpPFDwdRkRdQo0nXYJ1Z"
+    },
+    {
+      "album": {
+        "name": "Happy Holidays to You",
+        "url": "https://open.spotify.com/album/5dGZhYrL2Ybitu4kmsApi4"
+      },
+      "artists": [
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 275266,
+      "name": "Happy Holidays to You",
+      "url": "https://open.spotify.com/track/49YrhPOd27JR0iH1knsxPw"
+    },
+    {
+      "album": {
+        "name": "A Mary Mary Christmas",
+        "url": "https://open.spotify.com/album/3OAd6N0ci79PHcxjBvgQ73"
+      },
+      "artists": [
+        {
+          "name": "Mary Mary",
+          "url": "https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215586,
+      "name": "Hark the Herald Angels Sing",
+      "url": "https://open.spotify.com/track/4nas0awE85EWzlwwgb7Tw7"
+    },
+    {
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212755,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3KJLdBI3jRmVrS71p23RJC"
+    },
+    {
+      "album": {
+        "name": "Bethlehem",
+        "url": "https://open.spotify.com/album/3T5pFreGo7XKhGJprOqtRU"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239760,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4F95vQhCC2bXJEo1Yb11TL"
+    },
+    {
+      "album": {
+        "name": "A Classic Christmas Night - EP",
+        "url": "https://open.spotify.com/album/0Bbyrq0VrznrBl9lGUVOvE"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-09",
+      "duration_ms": 198138,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/1amnjEGpBPQIokjg3Np1kb"
+    },
+    {
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318533,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/5e0ZoBIiEcB883wyjRDD8g"
+    },
+    {
+      "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/67vlDQxXPo2JKnZ5e6tHKY"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 223240,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/0FuXrVBkBEn7WmPm8rT4GV"
+    },
+    {
+      "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/1rJRpYs4BJ7GIDG0zZCJSM"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-24",
+      "duration_ms": 223240,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/3yQbBL8hsYtUhXSrmbKq8X"
+    },
+    {
+      "album": {
+        "name": "A Legendary Christmas",
+        "url": "https://open.spotify.com/album/4rvtCloap7CfNl2Ogl8B87"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        },
+        {
+          "name": "Esperanza Spalding",
+          "url": "https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 224079,
+      "name": "Have Yourself a Merry Little Christmas (feat. Esperanza Spalding)",
+      "url": "https://open.spotify.com/track/4qhQY0Bz27cHyRZqlDkpze"
+    },
+    {
+      "album": {
+        "name": "Christmas with PJ Morton (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/32VazC4iXirlSWkid3rJTo"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        },
+        {
+          "name": "Shel\u00e9a",
+          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203207,
+      "name": "Have Yourself A Merry Little Christmas (feat. Shel\u00e9a)",
+      "url": "https://open.spotify.com/track/1MV2OvYpxJgSZA9jAHp1Qy"
+    },
+    {
+      "album": {
+        "name": "Here (For Christmas)",
+        "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Jade Novah",
+          "url": "https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253046,
+      "name": "Here (For Christmas)",
+      "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+    },
+    {
+      "album": {
+        "name": "Home On Christmas",
+        "url": "https://open.spotify.com/album/4vuJvR0EOuGKC2PnUojAuv"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-28",
+      "duration_ms": 152001,
+      "name": "Home On Christmas",
+      "url": "https://open.spotify.com/track/0TmMJK8wPVDdP8HcQhbnSm"
+    },
+    {
+      "album": {
+        "name": "Home For Christmas",
+        "url": "https://open.spotify.com/album/0xFsRgSW5ufmhn2ytb4zCw"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287426,
+      "name": "I Can Hardly Wait 'Til Christmas",
+      "url": "https://open.spotify.com/track/3Adcm6OYZUASt6MRoWfJEf"
+    },
+    {
+      "album": {
+        "name": "I Saw Mommy Kissing Santa Claus (Live At Union Chapel / BBC Radio 2)",
+        "url": "https://open.spotify.com/album/6dqlzQqdAogeEjI8ORSXAj"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132053,
+      "name": "I Saw Mommy Kissing Santa Claus - Live At Union Chapel / BBC Radio 2",
+      "url": "https://open.spotify.com/track/4lcOoKiLjBddCcg9FkeIJL"
+    },
+    {
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220103,
+      "name": "I Want To Come Home For Christmas",
+      "url": "https://open.spotify.com/track/4QnmL9qudlFqNHJWGbFdXP"
+    },
+    {
+      "album": {
+        "name": "Save The World Remix Suite",
+        "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-08",
+      "duration_ms": 299829,
+      "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
+      "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
+    },
+    {
+      "album": {
+        "name": "This Christmas - Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 191226,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/5Dxh4Vuy9eBI8h99kqwGfn"
+    },
+    {
+      "album": {
+        "name": "Jermaine Dupri Presents Twelve Soulful Nights Of Christmas",
+        "url": "https://open.spotify.com/album/22oRE6gxAk1cTDbvffIDxm"
+      },
+      "artists": [
+        {
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "In Love at Christmas",
+      "url": "https://open.spotify.com/track/7be6xHWpfiVzsYcAoktSqZ"
+    },
+    {
+      "album": {
+        "name": "Christmas All Over The World",
+        "url": "https://open.spotify.com/album/3eQ9tz14sXjPXXNH0sGlFP"
+      },
+      "artists": [
+        {
+          "name": "New Edition",
+          "url": "https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-27",
+      "duration_ms": 257573,
+      "name": "It's Christmas (All Over The World)",
+      "url": "https://open.spotify.com/track/5mhTmyVJvZLUXGpbyCNTXD"
+    },
+    {
+      "album": {
+        "name": "This Christmas With Glenn Lewis",
+        "url": "https://open.spotify.com/album/6xMW1pbkF1sch0QbXersBD"
+      },
+      "artists": [
+        {
+          "name": "Glenn Lewis",
+          "url": "https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 234889,
+      "name": "I\u2019ll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/504nGhJlqAHhetXtDvAXI4"
+    },
+    {
+      "album": {
+        "name": "The Most Wonderful Time",
+        "url": "https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz"
+      },
+      "artists": [
+        {
+          "name": "Stevie Mackey",
+          "url": "https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia"
+        },
+        {
+          "name": "THE ELEVEN",
+          "url": "https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk"
+        },
+        {
+          "name": "Take 6",
+          "url": "https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 247251,
+      "name": "Jesus What A Wonderful Child",
+      "url": "https://open.spotify.com/track/6wxKZGJPphOUm6p4JpIEIr"
+    },
+    {
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/34TpQar6QnutagRwdtiNpl"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263866,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/3ELnSVxVNuwK2PSqjseSLu"
+    },
+    {
+      "album": {
+        "name": "Gospel's Best - Christmas",
+        "url": "https://open.spotify.com/album/6P8tezl5tQp3XaK31aAUNO"
+      },
+      "artists": [
+        {
+          "name": "Darlene McCoy",
+          "url": "https://open.spotify.com/artist/6IFoxYp4s7WuFlCAqfYaMn"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 280840,
+      "name": "Joy To the World",
+      "url": "https://open.spotify.com/track/3m4rKJVEYMJh6GpCRLJJYp"
+    },
+    {
+      "album": {
+        "name": "One Wish / The Holiday Album",
+        "url": "https://open.spotify.com/album/7bEbn6yaqOzXmb3eAXDRbU"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "Joy to the World (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2HwaTkbNED2nZfSijP9TLF"
+    },
+    {
+      "album": {
+        "name": "Joyful, Joyful",
+        "url": "https://open.spotify.com/album/208bCz548yflYMALLMh1kN"
+      },
+      "artists": [
+        {
+          "name": "Pentatonix",
+          "url": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+        },
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234466,
+      "name": "Joyful, Joyful",
+      "url": "https://open.spotify.com/track/671bbzZZlT7tjVUR8CQ5p8"
+    },
+    {
+      "album": {
+        "name": "Another Kind Of Christmas",
+        "url": "https://open.spotify.com/album/7Je8migIu4vEi6JT2XbbYe"
+      },
+      "artists": [
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202007,
+      "name": "Just Ain't Christmas",
+      "url": "https://open.spotify.com/track/44P22s5S0ss1ln73uLQBa2"
+    },
+    {
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
+    },
+    {
+      "album": {
+        "name": "The Best Of/20th Century Masters: The Christmas Collection",
+        "url": "https://open.spotify.com/album/1x6bJdWl3Imquoi2Mu0BsC"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        },
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251133,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5jFiyUs5R6kHuKbAs0ZU2s"
+    },
+    {
+      "album": {
+        "name": "Christmas Interpretations",
+        "url": "https://open.spotify.com/album/1eP4hMiv4j13z3FYdhpVRI"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        },
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 251466,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/2arXiVS8rf3XCTDgajE0pf"
+    },
+    {
+      "album": {
+        "name": "Christmas With Friends",
+        "url": "https://open.spotify.com/album/2pT4LSGQc8EAcD7WE4lydS"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154920,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/0FrDmnNXlOjRyTb0HtK75Q"
+    },
+    {
+      "album": {
+        "name": "Christmas Soul 2020",
+        "url": "https://open.spotify.com/album/2HV3jydrtlPP5QcltzokYd"
+      },
+      "artists": [
+        {
+          "name": "India.Arie",
+          "url": "https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC"
+        },
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154920,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/0xRAkJaeQ9K705z2M8gPdb"
+    },
+    {
+      "album": {
+        "name": "Let it Snow",
+        "url": "https://open.spotify.com/album/2cSUo8xgm6TmYfsLH4HVgm"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202135,
+      "name": "Let it Snow",
+      "url": "https://open.spotify.com/track/40YWflAnC2hb8Ohz19YfUY"
+    },
+    {
+      "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/7FAfYMyJS9X1wyDYf9UMDJ"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 262695,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/37huXuTs0ENtyP3yAbsMYq"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-25",
+      "duration_ms": 259500,
+      "name": "Let It Snow (with dvsn)",
+      "url": "https://open.spotify.com/track/04DnzsJNa4fAkCqAC7CMNo"
+    },
+    {
+      "album": {
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+      },
+      "artists": [
+        {
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+    },
+    {
+      "album": {
+        "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
+        "url": "https://open.spotify.com/album/5a7wDuklvlrH9LOZmt8zpy"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Poo Bear",
+          "url": "https://open.spotify.com/artist/3JXpwnHbLvXxY99EuXqFPX"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 230577,
+      "name": "lonely christmas (feat. Justin Bieber & Poo Bear)",
+      "url": "https://open.spotify.com/track/2TB7t45lVP3l5DyVVX0goz"
+    },
+    {
+      "album": {
+        "name": "Love on Christmas",
+        "url": "https://open.spotify.com/album/3yrBD8ZPMets2SbirqsV30"
+      },
+      "artists": [
+        {
+          "name": "LeToya Luckett",
+          "url": "https://open.spotify.com/artist/1EyK0glCKdNVaKjVxFOHCD"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 194396,
+      "name": "Love on Christmas",
+      "url": "https://open.spotify.com/track/2EsWf3JeCzZoKuuXIQyU46"
+    },
+    {
+      "album": {
+        "name": "Love You More At Christmas Time",
+        "url": "https://open.spotify.com/album/5W8s1TYePfVqbIQcWQHAye"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205008,
+      "name": "Love You More At Christmas Time",
+      "url": "https://open.spotify.com/track/76jef0QPcSa0tY1Vu8ekhv"
+    },
+    {
+      "album": {
+        "name": "The Most Wonderful Time",
+        "url": "https://open.spotify.com/album/0w8kuceNScFrj2fDOipHEz"
+      },
+      "artists": [
+        {
+          "name": "Stevie Mackey",
+          "url": "https://open.spotify.com/artist/6yb7iR9KSHvoITAvoxz3ia"
+        },
+        {
+          "name": "THE ELEVEN",
+          "url": "https://open.spotify.com/artist/59u9R3yNVw4PWC3Rg1JZhk"
+        },
+        {
+          "name": "Shel\u00e9a",
+          "url": "https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-28",
+      "duration_ms": 296255,
+      "name": "Mary Did You Know",
+      "url": "https://open.spotify.com/track/4YxMSxRKT1ILmi4c0IzvIJ"
+    },
+    {
+      "album": {
+        "name": "CeeLo's Magic Moment",
+        "url": "https://open.spotify.com/album/3ssspRe42CXkhPxdc12xcp"
+      },
+      "artists": [
+        {
+          "name": "CeeLo Green",
+          "url": "https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 234066,
+      "name": "Mary, Did You Know?",
+      "url": "https://open.spotify.com/track/47Jx4hb4cvCmJvJupInNyJ"
+    },
+    {
+      "album": {
+        "name": "Merry Like This",
+        "url": "https://open.spotify.com/album/3n9bv3VnbOhJQu6KG2XM4c"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-05",
+      "duration_ms": 180588,
+      "name": "Merry Like This",
+      "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
+      "album": {
+        "name": "One Family",
+        "url": "https://open.spotify.com/album/5Vt6f0rFqEPxym3Y06hGTd"
+      },
+      "artists": [
+        {
+          "name": "Kelly Price",
+          "url": "https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 273106,
+      "name": "Messiah Has Come",
+      "url": "https://open.spotify.com/track/5DJLdWMSCRWSwzpzBlO5T7"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/5EtnUbybYghEoq8tvMm382"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-28",
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/3HD11WPsqMPGsIIHVRC28u"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays Vol. 2",
+        "url": "https://open.spotify.com/album/2Izcmsu37OSeXzSQE9C0ev"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 237393,
+      "name": "Might As Well Have Coal (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7JbdnRGVDw8eJimk6jtdOh"
+    },
+    {
+      "album": {
+        "name": "Never Knew Christmas",
+        "url": "https://open.spotify.com/album/7fHXKZOrH1InFpQIfMl9x6"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-19",
+      "duration_ms": 334546,
+      "name": "Never Knew Christmas",
+      "url": "https://open.spotify.com/track/1hLjtQAN3z46sAlihVXemn"
+    },
+    {
+      "album": {
+        "name": "Never Knew Christmas",
+        "url": "https://open.spotify.com/album/4AL9Uq8VSBMtwopFHg8CDY"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 334546,
+      "name": "Never Knew Christmas",
+      "url": "https://open.spotify.com/track/4bEkJ9SO6WwPP42ac3mdD6"
+    },
+    {
+      "album": {
+        "name": "It's Giving Christmas",
+        "url": "https://open.spotify.com/album/6y796J8jF0OpHqSyj60o4I"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 196500,
+      "name": "No Time Like Christmas",
+      "url": "https://open.spotify.com/track/60bzyZm5MqPoHkktzXkCSn"
+    },
+    {
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "The Family",
+          "url": "https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 418706,
+      "name": "Now Behold the Lamb - Live",
+      "url": "https://open.spotify.com/track/77aKjAafF8qar9i3d6F84P"
+    },
+    {
+      "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/3F5Wb3mMFiioGLmZxyYxQ8"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 308640,
+      "name": "O Come",
+      "url": "https://open.spotify.com/track/18ZMF8U5OqRaLmmwCXsXVC"
+    },
+    {
+      "album": {
+        "name": "A Timeless Christmas",
+        "url": "https://open.spotify.com/album/1fTjNHtdfcWAKLVqQAL5rs"
+      },
+      "artists": [
+        {
+          "name": "Israel & New Breed",
+          "url": "https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E"
+        },
+        {
+          "name": "Leanne Palmore",
+          "url": "https://open.spotify.com/artist/0bdS6SH2MU4DeXusRn0dxc"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 308640,
+      "name": "O Come",
+      "url": "https://open.spotify.com/track/4H0wgKjZ4BF1UlwR9f9RkK"
+    },
+    {
+      "album": {
+        "name": "A Faithful Christmas",
+        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-19",
+      "duration_ms": 217626,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/1UvZ54idvsgA7PyubRFjRl"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266933,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/3B7FO3kJ5kv3mX7yiaB7sT"
+    },
+    {
+      "album": {
+        "name": "Peppermint Tea",
+        "url": "https://open.spotify.com/album/390kChxmDD7GIjAgvbHXfW"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189412,
+      "name": "Peppermint Tea",
+      "url": "https://open.spotify.com/track/3MR4LAkDi5tY9mYl6QqzUZ"
+    },
+    {
+      "album": {
+        "name": "A Different Christmas",
+        "url": "https://open.spotify.com/album/52QMK9SFNjiuz3ipkuVVZu"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160981,
+      "name": "presents (feat. Kiana Led\u00e9)",
+      "url": "https://open.spotify.com/track/4QyO5yNf3W534HK5gI1lMA"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/36FCfBWbs9gwznVCWC4gg4"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140140,
+      "name": "Santa Baby (with Summer Walker)",
+      "url": "https://open.spotify.com/track/20u1JM0k85WDXSYfmy92Km"
+    },
+    {
+      "album": {
+        "name": "Christmas Album",
+        "url": "https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/2QpN1ZVw8eJO5f7WcvUA1k"
+    },
+    {
+      "album": {
+        "name": "Silent Night",
+        "url": "https://open.spotify.com/album/6SP5GiU7Sl9ATWsNPr9Pwg"
+      },
+      "artists": [
+        {
+          "name": "Love Renaissance (LVRN)",
+          "url": "https://open.spotify.com/artist/5f3peNznKH0RaAYeJtDWnf"
+        },
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "date_added": "2022-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-03",
+      "duration_ms": 190218,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2Zd76A2BuP2CIufE63RkdA"
+    },
+    {
+      "album": {
+        "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/1EVbBd8S7bwmogZX3y6GVp"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 364160,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/36NhKGzYlB5kWuZ87WdOBV"
+    },
+    {
+      "album": {
+        "name": "First Christmas",
+        "url": "https://open.spotify.com/album/50UK1YSUTD2zvXKLa3rsBD"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/29pkrZLRrWK6TMw9egQC1y"
+    },
+    {
+      "album": {
+        "name": "Give Love At Christmas",
+        "url": "https://open.spotify.com/album/40nc0tA9KcJHexXijyqHSP"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365720,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2mtm0aF6c7Yd66sFaE3ipu"
+    },
+    {
+      "album": {
+        "name": "A Motown Holiday",
+        "url": "https://open.spotify.com/album/2UQr1aieOS6AkM82LCU9JB"
+      },
+      "artists": [
+        {
+          "name": "Tiana Major9",
+          "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 241654,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/5P2cn4Xn6XX9QXS9HGMJ38"
+    },
+    {
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-30",
+      "duration_ms": 176461,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
+    },
+    {
+      "album": {
+        "name": "Sleigh",
+        "url": "https://open.spotify.com/album/0uclO2Rx8I2zKd3AWRmpHs"
+      },
+      "artists": [
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-13",
+      "duration_ms": 205714,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/68Yalnq8hXLbLzO9rsm3X8"
+    },
+    {
+      "album": {
+        "name": "Winter Loversland",
+        "url": "https://open.spotify.com/album/0RC79iOln9WK1Rcd9z7IXm"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117520,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/0TTEm8HHxndsd6Jqtn1DDk"
+    },
+    {
+      "album": {
+        "name": "Sleigh Ride (Remixes)",
+        "url": "https://open.spotify.com/album/1PmqStRSXXG1rC7SotPbK1"
+      },
+      "artists": [
+        {
+          "name": "TLC",
+          "url": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/3KHCV3XwRnNQrcM1jXHl1g"
+    },
+    {
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Somebody's Waiting",
+      "url": "https://open.spotify.com/track/7MeJ8GQz5nUxjrai6tEf3J"
+    },
+    {
+      "album": {
+        "name": "Someday At Christmas",
+        "url": "https://open.spotify.com/album/7pj8nZ704eu9wQroJJadSq"
+      },
+      "artists": [
+        {
+          "name": "Jac Ross",
+          "url": "https://open.spotify.com/artist/172Nbc7kz4JhcCor54l9Sr"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-18",
+      "duration_ms": 203434,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182360,
+      "name": "Someday at Christmas",
+      "url": "https://open.spotify.com/track/5AyhhhhfsFPfcWCtTDVKvV"
+    },
+    {
+      "album": {
+        "name": "Mono Singles",
+        "url": "https://open.spotify.com/album/7oMcO4p7P1JtJR2G1v2NoK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-11",
+      "duration_ms": 168413,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/2X5noCM9Klrm4zXfyyPdRN"
+    },
+    {
+      "album": {
+        "name": "20th Century Masters - The Best of Stevie Wonder: The Christmas Collection",
+        "url": "https://open.spotify.com/album/734TT1LYLvM5gAAYvG0DSw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168826,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/777bpngWpsT8TTqrrO0Zde"
+    },
+    {
+      "album": {
+        "name": "Weihnachten 2020",
+        "url": "https://open.spotify.com/album/2jM3hSRUb1U55ok8ad85tb"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 169293,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/2GQnHafw2F53REsJctsPCC"
+    },
+    {
+      "album": {
+        "name": "A Motown Christmas",
+        "url": "https://open.spotify.com/album/109y0mnkGZAYVQNdT0SN3q"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 170133,
+      "name": "Someday At Christmas",
+      "url": "https://open.spotify.com/track/6VqLlCjW2IPuNWyVa6Ramd"
+    },
+    {
+      "album": {
+        "name": "The Very Best Of Sounds Of Blackness & Ann Nesby",
+        "url": "https://open.spotify.com/album/6Hf7mK9rJuoZ0VTMkdkWsM"
+      },
+      "artists": [
+        {
+          "name": "Sounds Of Blackness",
+          "url": "https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360133,
+      "name": "Soul Holidays",
+      "url": "https://open.spotify.com/track/30eM8EUY1RvHSAzWoIegml"
+    },
+    {
+      "album": {
+        "name": "A Faithful Christmas",
+        "url": "https://open.spotify.com/album/4OlCa1kTyE2DBcU4ZfBQhX"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186409,
+      "name": "Soulful Christmas",
+      "url": "https://open.spotify.com/track/4P1mX7gOR7T98OQj4Ff84n"
+    },
+    {
+      "album": {
+        "name": "Spend Christmas With You",
+        "url": "https://open.spotify.com/album/4NQ3aX9bk400eH3eqeGnJZ"
+      },
+      "artists": [
+        {
+          "name": "MAJOR.",
+          "url": "https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195816,
+      "name": "Spend Christmas With You",
+      "url": "https://open.spotify.com/track/02oi99FjCXtlww73jBTs8F"
+    },
+    {
+      "album": {
+        "name": "Sunshine for Christmas",
+        "url": "https://open.spotify.com/album/0JOoOiIcMDVzYxlmJ1HIyQ"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 310783,
+      "name": "Sunshine for Christmas",
+      "url": "https://open.spotify.com/track/1XkTm4mzmhLSv0lLCpZSy4"
+    },
+    {
+      "album": {
+        "name": "Christmas With Brandy",
+        "url": "https://open.spotify.com/album/2ayHngxy15Agz0O0qEB9Nk"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190799,
+      "name": "The Christmas Song",
+      "url": "https://open.spotify.com/track/4NZPiKXUHl6Iu5yslgAH2q"
+    },
+    {
+      "album": {
+        "name": "Home For The Holidays",
+        "url": "https://open.spotify.com/album/11LVR6WGcJ8zbXkni8o040"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214373,
+      "name": "The Christmas Song (feat. Chaka Khan)",
+      "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
+    },
+    {
+      "album": {
+        "name": "The Christmas Song (Merry Christmas To You)",
+        "url": "https://open.spotify.com/album/03uGzEi1cxuW4UcTmN9hgf"
+      },
+      "artists": [
+        {
+          "name": "Janice",
+          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-09",
+      "duration_ms": 174453,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/2bfGUiuZ00Ver5I4BR1iNi"
+    },
+    {
+      "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/3GFK7c17BBOJeUT9XZ91VX"
+      },
+      "artists": [
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2023-11-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152205,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/6IM1eCKlyY660wLgjDRIZC"
+    },
+    {
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/54qQgflPZiLpk3YZtQf4Ke"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2QDy3lp5WQDMNhlurSFhHM"
+    },
+    {
+      "album": {
+        "name": "A Mary Christmas",
+        "url": "https://open.spotify.com/album/2PzjS06Y5MfY34OlhHpCWd"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 264186,
+      "name": "The First Noel",
+      "url": "https://open.spotify.com/track/2W1H6AfncpHMUYXX5kWYKr"
+    },
+    {
+      "album": {
+        "name": "The First Noel (feat. Cory Henry)",
+        "url": "https://open.spotify.com/album/4UUlh9XDS5gIPoCVAUN8zd"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190286,
+      "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
+      "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
+    },
+    {
+      "album": {
+        "name": "The Greatest Gift",
+        "url": "https://open.spotify.com/album/4bWvqIdV6KOfrWVjr1AwY0"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145925,
+      "name": "The Greatest Gift",
+      "url": "https://open.spotify.com/track/6Z5pH8apjl8doBlYvLXv3u"
+    },
+    {
+      "album": {
+        "name": "The Christmas To Remember",
+        "url": "https://open.spotify.com/album/44s2r7FXmemDfZnl0l6hbK"
+      },
+      "artists": [
+        {
+          "name": "Darwin Hobbs",
+          "url": "https://open.spotify.com/artist/6zhrnjTFJFS6bWzFtRm7aH"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-26",
+      "duration_ms": 301706,
+      "name": "The Little Drummer Boy",
+      "url": "https://open.spotify.com/track/3Tt15MIYe2gbVk8ZFbQZWm"
+    },
+    {
+      "album": {
+        "name": "The Warmest Winter Ever",
+        "url": "https://open.spotify.com/album/5iN5Tb9XUier9cGO3ejzpR"
+      },
+      "artists": [
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219428,
+      "name": "The Neck",
+      "url": "https://open.spotify.com/track/5dFMxul4WL3TODf4TqlYDb"
+    },
+    {
+      "album": {
+        "name": "Motown Christmas",
+        "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
+      },
+      "artists": [
+        {
+          "name": "Brian Courtney Wilson",
+          "url": "https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx"
+        },
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/15DbEzDwLxF3TgGovwJDbO"
+    },
+    {
+      "album": {
+        "name": "A Donny Hathaway Collection",
+        "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231173,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/38xhBO2AKrJnjdjVnhJES6"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8"
+      },
+      "artists": [
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242563,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
+    },
+    {
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/3bBMugmgG1UUMP8ez5V5Xj"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181365,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/1s8KCi8neCwrRSyhREKmcA"
+    },
+    {
+      "album": {
+        "name": "It's Christmas",
+        "url": "https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283560,
+      "name": "This Christmas (Could Be The One)",
+      "url": "https://open.spotify.com/track/02fFV8eUDKAyLayxw77RCQ"
+    },
+    {
+      "album": {
+        "name": "This Christmas (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/3X3z40mBB0GyMVX3LFRfrg"
+      },
+      "artists": [
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 209604,
+      "name": "This Christmas - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0Kdhb8UqEMYPjUMOXRQWD0"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/5iWUd0pLqgRWZpMULl71TN"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 188885,
+      "name": "This Christmas - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/1CalzG9Lg4X5Y1njQPeQf8"
+    },
+    {
+      "album": {
+        "name": "This Day (feat. Kiana Led\u00e9) [from the Netflix Original Motion Picture Jingle Jangle]",
+        "url": "https://open.spotify.com/album/18Y2FVvp3r41QQ5asBYWzl"
+      },
+      "artists": [
+        {
+          "name": "Usher",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 228407,
+      "name": "This Day (feat. Kiana Led\u00e9) - from the Netflix Original Motion Picture Jingle Jangle",
+      "url": "https://open.spotify.com/track/1ub1mjaj5QG9fdaCIBSPsH"
+    },
+    {
+      "album": {
+        "name": "To: You (a holiday joint)",
+        "url": "https://open.spotify.com/album/5PdpBmiQ5z0u706zZeQ3Df"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-15",
+      "duration_ms": 192455,
+      "name": "To: You",
+      "url": "https://open.spotify.com/track/49cvMCuOr2xeSG3SWLl43x"
+    },
+    {
+      "album": {
+        "name": "This Christmas - Songs From The Motion Picture",
+        "url": "https://open.spotify.com/album/75p6D49hWX6bmG8PJFb02h"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373533,
+      "name": "Try A Little Tenderness",
+      "url": "https://open.spotify.com/track/34sxylPJvXX86OD4mtvGcl"
+    },
+    {
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "AUGUST 08",
+          "url": "https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi"
+        },
+        {
+          "name": "Kendra Jae",
+          "url": "https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 171056,
+      "name": "Under the Mistletoe (with Kendra Jae)",
+      "url": "https://open.spotify.com/track/6sMaVcsbSyWZWK0wFBzRRH"
+    },
+    {
+      "album": {
+        "name": "Love at Christmas",
+        "url": "https://open.spotify.com/album/2673S2JiNKmPHvbuct5oLs"
+      },
+      "artists": [
+        {
+          "name": "Phaedra",
+          "url": "https://open.spotify.com/artist/7INtiKMHZb5e9tOpMj5vUS"
+        },
+        {
+          "name": "Teddy Riley",
+          "url": "https://open.spotify.com/artist/5VDmBevaLkMLnK0rLOjijw"
+        },
+        {
+          "name": "J-Sol",
+          "url": "https://open.spotify.com/artist/0moTgm8lXIQpK1EXLSgJFR"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 271220,
+      "name": "Very Merry Christmas",
+      "url": "https://open.spotify.com/track/0Wigv8bZvAWXI9KnzMDbql"
+    },
+    {
+      "album": {
+        "name": "Best Of/20th Century - Christmas",
+        "url": "https://open.spotify.com/album/1nH7gyIHFcEAkDoGL0j49f"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-28",
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/3hIRSyKuEG7C22MDmyaK1v"
+    },
+    {
+      "album": {
+        "name": "Star Bright",
+        "url": "https://open.spotify.com/album/3UJ532uGsZY4ChVxjN72Df"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232840,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/4GbMsN2WTx28nGEXjPmLf2"
+    },
+    {
+      "album": {
+        "name": "What Christmas Means (DELUXE)",
+        "url": "https://open.spotify.com/album/4elxUd930bjXCKwM4B69jL"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-25",
+      "duration_ms": 347386,
+      "name": "What Christmas Means",
+      "url": "https://open.spotify.com/track/0TTlrhDuw5cqFXHdfB4p6b"
+    },
+    {
+      "album": {
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144453,
+      "name": "What Christmas Means to Me - from \"The Best Man Holiday Original Motion Picture Soundtrack\"",
+      "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
+    },
+    {
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276960,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/29OF0PZ5MBWkiN9Oc87eKJ"
+    },
+    {
+      "album": {
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/5jLkv2DOgQiWgMBhWcp4JJ"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194053,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4ylPPq3lD8MQKoCvV3UyjX"
+    },
+    {
+      "album": {
+        "name": "Merry Christmas from Andra Day",
+        "url": "https://open.spotify.com/album/3RqB9JuiNZwQmt9qXhvxnT"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/72yb1EUhIV5gBGx04UA5vV"
+    },
+    {
+      "album": {
+        "name": "Christmas With Babyface",
+        "url": "https://open.spotify.com/album/7pFCwYQFqLkxovAZvYpbKK"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4PtLsREXfoclvux4y7CFZC"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/1KXfyj4DeQVABeUTKxnBfG"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/28cTgrTZZChH8qO2fvm6my"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/4tljBHLATQbwuphb5wLO94"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218146,
+      "name": "Winter Wonderland - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/4wB2shyrhiiSjAArieIRYK"
+    },
+    {
+      "album": {
+        "name": "December Baby",
+        "url": "https://open.spotify.com/album/5gzHuhZpa8gB7ABxH60pNT"
+      },
+      "artists": [
+        {
+          "name": "JoJo",
+          "url": "https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6"
+        },
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-24",
+      "duration_ms": 237660,
+      "name": "Wishlist (feat. PJ Morton)",
+      "url": "https://open.spotify.com/track/7ypXUdwJthmzmTxJAWjr5G"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+    },
+    {
+      "album": {
+        "name": "Wrap Me Up",
+        "url": "https://open.spotify.com/album/4IbL419tdab98FW1C2z9ny"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2021-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-26",
+      "duration_ms": 213000,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/1RtVREAhqwLLN4QI6bzvQe"
+    },
+    {
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214183,
+      "name": "Wrap Me Up",
+      "url": "https://open.spotify.com/track/6BH5Ls5uYLQCBwXResfDbw"
+    },
+    {
+      "album": {
+        "name": "You Bring The Love",
+        "url": "https://open.spotify.com/album/58VcFrioXE1f8hhqwqA6y6"
+      },
+      "artists": [
+        {
+          "name": "Tamar Braxton",
+          "url": "https://open.spotify.com/artist/1MT1Wz4G9Z9EVOg4L5zZMS"
+        },
+        {
+          "name": "Louis York",
+          "url": "https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb"
+        },
+        {
+          "name": "We Sound Crazy",
+          "url": "https://open.spotify.com/artist/5PWUiJtn4mRYya62TSdZ04"
+        }
+      ],
+      "date_added": "2023-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-24",
+      "duration_ms": 178998,
+      "name": "You Bring The Love",
+      "url": "https://open.spotify.com/track/149fBDwVVHfw2MlOMSJgiF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX4ELVW61Sklr"
 }

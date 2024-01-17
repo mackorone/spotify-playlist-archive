@@ -1,735 +1,1853 @@
 {
-  "2021-12-25": 985283,
-  "2021-12-26": 985495,
-  "2021-12-27": 986090,
-  "2021-12-28": 986099,
-  "2021-12-29": 986403,
-  "2021-12-30": 986705,
-  "2021-12-31": 986981,
-  "2022-01-01": 987422,
-  "2022-01-02": 987533,
-  "2022-01-03": 987694,
-  "2022-01-04": 987924,
-  "2022-01-05": 988198,
-  "2022-01-06": 988426,
-  "2022-01-07": 988681,
-  "2022-01-08": 989247,
-  "2022-01-09": 989253,
-  "2022-01-10": 989508,
-  "2022-01-11": 989784,
-  "2022-01-12": 990096,
-  "2022-01-13": 990435,
-  "2022-01-14": 990761,
-  "2022-01-15": 991356,
-  "2022-01-16": 991377,
-  "2022-01-17": 991929,
-  "2022-01-18": 991972,
-  "2022-01-19": 992208,
-  "2022-01-20": 992532,
-  "2022-01-21": 992884,
-  "2022-01-22": 993581,
-  "2022-01-23": 994078,
-  "2022-01-24": 994467,
-  "2022-01-25": 994874,
-  "2022-01-26": 995335,
-  "2022-01-27": 995809,
-  "2022-01-28": 996246,
-  "2022-01-29": 996625,
-  "2022-01-30": 996997,
-  "2022-01-31": 997381,
-  "2022-02-01": 997757,
-  "2022-02-02": 998171,
-  "2022-02-03": 998612,
-  "2022-02-04": 999054,
-  "2022-02-05": 999471,
-  "2022-02-06": 999875,
-  "2022-02-07": 1000285,
-  "2022-02-08": 1000721,
-  "2022-02-09": 1001181,
-  "2022-02-10": 1001560,
-  "2022-02-11": 1001972,
-  "2022-02-12": 1002460,
-  "2022-02-13": 1002924,
-  "2022-02-14": 1003443,
-  "2022-02-15": 1007154,
-  "2022-02-16": 1009381,
-  "2022-02-17": 1011119,
-  "2022-02-18": 1012347,
-  "2022-02-19": 1013365,
-  "2022-02-20": 1014167,
-  "2022-02-21": 1014860,
-  "2022-02-22": 1015524,
-  "2022-02-23": 1016095,
-  "2022-02-24": 1016734,
-  "2022-02-25": 1017179,
-  "2022-02-26": 1017710,
-  "2022-02-27": 1018610,
-  "2022-02-28": 1018610,
-  "2022-03-01": 1019053,
-  "2022-03-02": 1019538,
-  "2022-03-03": 1020050,
-  "2022-03-04": 1020614,
-  "2022-03-05": 1021258,
-  "2022-03-06": 1021752,
-  "2022-03-07": 1022223,
-  "2022-03-08": 1022691,
-  "2022-03-09": 1023219,
-  "2022-03-10": 1023781,
-  "2022-03-11": 1024283,
-  "2022-03-12": 1024767,
-  "2022-03-13": 1025263,
-  "2022-03-14": 1025692,
-  "2022-03-15": 1026184,
-  "2022-03-16": 1026660,
-  "2022-03-17": 1027091,
-  "2022-03-18": 1027633,
-  "2022-03-19": 1027886,
-  "2022-03-20": 1027886,
-  "2022-03-21": 1028707,
-  "2022-03-22": 1029105,
-  "2022-03-23": 1029482,
-  "2022-03-24": 1029903,
-  "2022-03-25": 1030296,
-  "2022-03-26": 1030696,
-  "2022-03-27": 1031048,
-  "2022-03-28": 1031316,
-  "2022-03-30": 1032120,
-  "2022-03-31": 1032513,
-  "2022-04-01": 1032899,
-  "2022-04-02": 1033271,
-  "2022-04-03": 1033633,
-  "2022-04-04": 1033976,
-  "2022-04-05": 1034377,
-  "2022-04-06": 1034796,
-  "2022-04-07": 1035198,
-  "2022-04-08": 1035623,
-  "2022-04-09": 1036071,
-  "2022-04-10": 1036841,
-  "2022-04-11": 1037271,
-  "2022-04-12": 1037341,
-  "2022-04-13": 1037843,
-  "2022-04-14": 1038346,
-  "2022-04-15": 1038883,
-  "2022-04-16": 1039391,
-  "2022-04-17": 1039826,
-  "2022-04-18": 1040324,
-  "2022-04-19": 1040927,
-  "2022-04-20": 1041813,
-  "2022-04-21": 1042514,
-  "2022-04-22": 1043166,
-  "2022-04-23": 1043791,
-  "2022-04-24": 1044373,
-  "2022-04-25": 1044907,
-  "2022-04-26": 1045444,
-  "2022-04-27": 1046051,
-  "2022-04-28": 1046531,
-  "2022-04-29": 1047422,
-  "2022-04-30": 1047899,
-  "2022-05-01": 1048462,
-  "2022-05-02": 1048462,
-  "2022-05-03": 1048951,
-  "2022-05-04": 1049516,
-  "2022-05-05": 1050062,
-  "2022-05-06": 1050697,
-  "2022-05-07": 1051363,
-  "2022-05-08": 1052775,
-  "2022-05-09": 1053512,
-  "2022-05-10": 1060480,
-  "2022-05-11": 1063860,
-  "2022-05-12": 1066217,
-  "2022-05-13": 1067993,
-  "2022-05-14": 1072465,
-  "2022-05-15": 1075443,
-  "2022-05-16": 1077214,
-  "2022-05-17": 1078832,
-  "2022-05-18": 1080400,
-  "2022-05-19": 1081918,
-  "2022-05-20": 1083476,
-  "2022-05-21": 1085497,
-  "2022-05-22": 1085497,
-  "2022-05-23": 1086384,
-  "2022-05-24": 1087261,
-  "2022-05-25": 1088176,
-  "2022-05-26": 1089062,
-  "2022-05-27": 1089790,
-  "2022-05-28": 1090561,
-  "2022-05-29": 1091188,
-  "2022-05-30": 1091751,
-  "2022-05-31": 1092356,
-  "2022-06-01": 1093507,
-  "2022-06-02": 1093601,
-  "2022-06-03": 1094139,
-  "2022-06-04": 1094660,
-  "2022-06-05": 1095195,
-  "2022-06-06": 1095724,
-  "2022-06-07": 1096253,
-  "2022-06-08": 1096914,
-  "2022-06-09": 1097371,
-  "2022-06-10": 1097961,
-  "2022-06-11": 1098499,
-  "2022-06-12": 1098979,
-  "2022-06-13": 1099466,
-  "2022-06-14": 1099944,
-  "2022-06-15": 1100405,
-  "2022-06-16": 1100896,
-  "2022-06-17": 1101436,
-  "2022-06-18": 1101931,
-  "2022-06-19": 1102752,
-  "2022-06-20": 1102752,
-  "2022-06-21": 1103153,
-  "2022-06-22": 1103998,
-  "2022-06-23": 1103998,
-  "2022-06-24": 1104523,
-  "2022-06-25": 1105122,
-  "2022-06-26": 1105611,
-  "2022-06-27": 1106583,
-  "2022-06-28": 1107397,
-  "2022-06-29": 1107977,
-  "2022-06-30": 1108469,
-  "2022-07-01": 1109018,
-  "2022-07-02": 1109508,
-  "2022-07-03": 1109950,
-  "2022-07-04": 1110341,
-  "2022-07-05": 1110752,
-  "2022-07-06": 1111109,
-  "2022-07-07": 1111538,
-  "2022-07-08": 1111919,
-  "2022-07-09": 1112350,
-  "2022-07-10": 1112727,
-  "2022-07-11": 1113057,
-  "2022-07-12": 1113466,
-  "2022-07-13": 1113797,
-  "2022-07-14": 1114134,
-  "2022-07-15": 1114489,
-  "2022-07-16": 1114917,
-  "2022-07-17": 1115337,
-  "2022-07-18": 1115737,
-  "2022-07-19": 1116228,
-  "2022-07-20": 1116614,
-  "2022-07-21": 1117028,
-  "2022-07-22": 1117535,
-  "2022-07-23": 1117937,
-  "2022-07-24": 1118374,
-  "2022-07-25": 1118944,
-  "2022-07-26": 1119566,
-  "2022-07-27": 1120136,
-  "2022-07-28": 1120748,
-  "2022-07-29": 1121278,
-  "2022-07-30": 1122281,
-  "2022-07-31": 1122281,
-  "2022-08-01": 1122750,
-  "2022-08-02": 1123732,
-  "2022-08-03": 1123732,
-  "2022-08-04": 1124221,
-  "2022-08-05": 1124743,
-  "2022-08-06": 1125268,
-  "2022-08-07": 1125724,
-  "2022-08-08": 1126145,
-  "2022-08-09": 1126631,
-  "2022-08-10": 1127138,
-  "2022-08-11": 1127694,
-  "2022-08-12": 1128247,
-  "2022-08-13": 1128800,
-  "2022-08-14": 1129320,
-  "2022-08-15": 1129873,
-  "2022-08-16": 1130407,
-  "2022-08-17": 1130969,
-  "2022-08-18": 1131483,
-  "2022-08-19": 1131954,
-  "2022-08-20": 1132407,
-  "2022-08-21": 1132887,
-  "2022-08-22": 1133370,
-  "2022-08-23": 1133867,
-  "2022-08-24": 1134273,
-  "2022-08-25": 1134812,
-  "2022-08-26": 1135262,
-  "2022-08-27": 1135775,
-  "2022-08-28": 1136207,
-  "2022-08-29": 1136664,
-  "2022-08-30": 1137018,
-  "2022-08-31": 1137077,
-  "2022-09-01": 1137115,
-  "2022-09-02": 1137120,
-  "2022-09-03": 1137710,
-  "2022-09-04": 1136910,
-  "2022-09-05": 1137181,
-  "2022-09-06": 1137586,
-  "2022-09-07": 1138014,
-  "2022-09-09": 1138891,
-  "2022-09-10": 1139366,
-  "2022-09-11": 1139812,
-  "2022-09-12": 1140216,
-  "2022-09-13": 1140647,
-  "2022-09-15": 1141565,
-  "2022-09-16": 1141993,
-  "2022-09-17": 1142423,
-  "2022-09-18": 1142853,
-  "2022-09-19": 1143227,
-  "2022-09-20": 1143652,
-  "2022-09-21": 1144162,
-  "2022-09-22": 1144629,
-  "2022-09-23": 1145147,
-  "2022-09-24": 1145584,
-  "2022-09-25": 1146020,
-  "2022-09-26": 1146372,
-  "2022-09-27": 1146805,
-  "2022-09-28": 1147296,
-  "2022-09-29": 1147769,
-  "2022-09-30": 1148353,
-  "2022-10-01": 1148817,
-  "2022-10-02": 1149229,
-  "2022-10-03": 1149682,
-  "2022-10-04": 1150137,
-  "2022-10-05": 1150583,
-  "2022-10-06": 1151091,
-  "2022-10-07": 1151661,
-  "2022-10-08": 1152187,
-  "2022-10-09": 1153107,
-  "2022-10-10": 1153287,
-  "2022-10-11": 1153975,
-  "2022-10-12": 1154616,
-  "2022-10-13": 1155213,
-  "2022-10-14": 1155868,
-  "2022-10-15": 1156459,
-  "2022-10-16": 1156970,
-  "2022-10-17": 1157496,
-  "2022-10-18": 1158007,
-  "2022-10-19": 1158575,
-  "2022-10-20": 1159149,
-  "2022-10-21": 1159697,
-  "2022-10-22": 1160350,
-  "2022-10-23": 1160997,
-  "2022-10-24": 1161609,
-  "2022-10-25": 1162195,
-  "2022-10-26": 1162828,
-  "2022-10-27": 1163430,
-  "2022-10-28": 1163983,
-  "2022-10-29": 1164595,
-  "2022-10-30": 1165098,
-  "2022-10-31": 1165591,
-  "2022-11-01": 1166187,
-  "2022-11-02": 1166742,
-  "2022-11-03": 1167384,
-  "2022-11-04": 1168031,
-  "2022-11-05": 1168646,
-  "2022-11-06": 1169205,
-  "2022-11-07": 1169635,
-  "2022-11-08": 1170199,
-  "2022-11-09": 1170853,
-  "2022-11-10": 1171470,
-  "2022-11-11": 1172103,
-  "2022-11-12": 1172717,
-  "2022-11-13": 1173139,
-  "2022-11-14": 1173615,
-  "2022-11-15": 1174100,
-  "2022-11-16": 1174737,
-  "2022-11-17": 1175371,
-  "2022-11-18": 1175515,
-  "2022-11-19": 1175293,
-  "2022-11-20": 1176118,
-  "2022-11-21": 1175823,
-  "2022-11-22": 1177141,
-  "2022-11-23": 1176889,
-  "2022-11-24": 1178500,
-  "2022-11-25": 1179317,
-  "2022-11-26": 1179923,
-  "2022-11-27": 1180419,
-  "2022-11-28": 1180828,
-  "2022-11-29": 1181278,
-  "2022-11-30": 1181872,
-  "2022-12-01": 1182891,
-  "2022-12-02": 1183525,
-  "2022-12-03": 1184725,
-  "2022-12-04": 1185324,
-  "2022-12-05": 1186040,
-  "2022-12-06": 1186733,
-  "2022-12-07": 1187358,
-  "2022-12-08": 1188024,
-  "2022-12-09": 1188706,
-  "2022-12-10": 1189333,
-  "2022-12-11": 1189830,
-  "2022-12-12": 1190395,
-  "2022-12-13": 1190961,
-  "2022-12-14": 1191495,
-  "2022-12-15": 1192077,
-  "2022-12-16": 1192632,
-  "2022-12-17": 1193185,
-  "2022-12-18": 1193806,
-  "2022-12-19": 1194281,
-  "2022-12-20": 1195274,
-  "2022-12-21": 1195274,
-  "2022-12-22": 1195840,
-  "2022-12-24": 1196931,
-  "2022-12-25": 1197448,
-  "2022-12-26": 1197888,
-  "2022-12-27": 1198399,
-  "2022-12-28": 1198903,
-  "2022-12-29": 1199541,
-  "2022-12-30": 1200255,
-  "2022-12-31": 1200978,
-  "2023-01-01": 1201557,
-  "2023-01-02": 1201980,
-  "2023-01-03": 1202605,
-  "2023-01-04": 1203129,
-  "2023-01-05": 1203673,
-  "2023-01-06": 1204439,
-  "2023-01-07": 1205414,
-  "2023-01-08": 1205577,
-  "2023-01-09": 1206185,
-  "2023-01-10": 1206800,
-  "2023-01-11": 1207447,
-  "2023-01-12": 1208108,
-  "2023-01-13": 1208800,
-  "2023-01-14": 1209778,
-  "2023-01-15": 1209962,
-  "2023-01-16": 1210493,
-  "2023-01-17": 1211019,
-  "2023-01-18": 1211615,
-  "2023-01-19": 1212204,
-  "2023-01-20": 1212733,
-  "2023-01-21": 1213296,
-  "2023-01-22": 1213775,
-  "2023-01-23": 1214327,
-  "2023-01-24": 1214838,
-  "2023-01-25": 1215389,
-  "2023-01-26": 1215964,
-  "2023-01-27": 1216571,
-  "2023-01-28": 1217112,
-  "2023-01-29": 1217605,
-  "2023-01-30": 1218088,
-  "2023-01-31": 1218088,
-  "2023-02-01": 1219043,
-  "2023-02-02": 1219527,
-  "2023-02-03": 1220103,
-  "2023-02-04": 1220657,
-  "2023-02-05": 1221258,
-  "2023-02-06": 1221841,
-  "2023-02-07": 1222978,
-  "2023-02-08": 1224869,
-  "2023-02-09": 1224869,
-  "2023-02-10": 1225762,
-  "2023-02-11": 1226569,
-  "2023-02-12": 1227968,
-  "2023-02-13": 1228833,
-  "2023-02-14": 1228833,
-  "2023-02-15": 1229513,
-  "2023-02-16": 1230200,
-  "2023-02-17": 1230958,
-  "2023-02-18": 1232268,
-  "2023-02-19": 1232377,
-  "2023-02-20": 1232809,
-  "2023-02-21": 1233423,
-  "2023-02-22": 1234055,
-  "2023-02-23": 1234707,
-  "2023-02-24": 1235355,
-  "2023-02-25": 1236205,
-  "2023-02-26": 1236648,
-  "2023-02-27": 1237915,
-  "2023-02-28": 1237915,
-  "2023-03-01": 1238693,
-  "2023-03-02": 1239451,
-  "2023-03-03": 1240201,
-  "2023-03-04": 1240737,
-  "2023-03-05": 1241919,
-  "2023-03-06": 1241919,
-  "2023-03-07": 1242643,
-  "2023-03-08": 1243285,
-  "2023-03-09": 1243869,
-  "2023-03-10": 1244417,
-  "2023-03-11": 1244966,
-  "2023-03-12": 1245519,
-  "2023-03-13": 1245982,
-  "2023-03-14": 1246525,
-  "2023-03-15": 1247109,
-  "2023-03-16": 1247731,
-  "2023-03-17": 1247731,
-  "2023-03-18": 1248947,
-  "2023-03-19": 1249573,
-  "2023-03-20": 1250101,
-  "2023-03-21": 1250704,
-  "2023-03-22": 1251341,
-  "2023-03-23": 1252072,
-  "2023-03-24": 1252072,
-  "2023-03-25": 1253335,
-  "2023-03-26": 1254009,
-  "2023-03-27": 1254647,
-  "2023-03-28": 1255260,
-  "2023-03-29": 1256006,
-  "2023-03-30": 1257154,
-  "2023-03-31": 1257154,
-  "2023-04-01": 1257742,
-  "2023-04-02": 1258322,
-  "2023-04-03": 1258854,
-  "2023-04-04": 1259544,
-  "2023-04-05": 1262138,
-  "2023-04-06": 1263254,
-  "2023-04-07": 1266483,
-  "2023-04-09": 1275316,
-  "2023-04-10": 1276013,
-  "2023-04-11": 1277296,
-  "2023-04-12": 1277296,
-  "2023-04-13": 1277822,
-  "2023-04-14": 1278437,
-  "2023-04-15": 1279333,
-  "2023-04-16": 1279862,
-  "2023-04-17": 1280379,
-  "2023-04-18": 1281055,
-  "2023-04-19": 1282106,
-  "2023-04-20": 1283083,
-  "2023-04-21": 1283476,
-  "2023-04-22": 1284419,
-  "2023-04-23": 1285139,
-  "2023-04-24": 1285377,
-  "2023-04-25": 1285709,
-  "2023-04-26": 1286419,
-  "2023-04-27": 1287145,
-  "2023-04-28": 1287980,
-  "2023-04-29": 1289271,
-  "2023-04-30": 1290970,
-  "2023-05-01": 1293334,
-  "2023-05-02": 1294355,
-  "2023-05-03": 1295231,
-  "2023-05-04": 1296068,
-  "2023-05-05": 1296756,
-  "2023-05-06": 1297696,
-  "2023-05-07": 1289322,
-  "2023-05-08": 1287918,
-  "2023-05-09": 1288160,
-  "2023-05-10": 1288401,
-  "2023-05-11": 1289049,
-  "2023-05-12": 1292642,
-  "2023-05-13": 1293406,
-  "2023-05-14": 1294192,
-  "2023-05-15": 1294489,
-  "2023-05-16": 1292855,
-  "2023-05-17": 1292858,
-  "2023-05-18": 1296169,
-  "2023-05-19": 1296549,
-  "2023-05-20": 1297525,
-  "2023-05-21": 1297525,
-  "2023-05-22": 1297525,
-  "2023-05-23": 1298895,
-  "2023-05-24": 1300451,
-  "2023-05-25": 1300580,
-  "2023-05-26": 1301402,
-  "2023-05-27": 1302189,
-  "2023-05-28": 1301749,
-  "2023-05-29": 1301749,
-  "2023-05-30": 1302975,
-  "2023-05-31": 1303770,
-  "2023-06-01": 1304688,
-  "2023-06-02": 1305024,
-  "2023-06-03": 1304018,
-  "2023-06-04": 1304268,
-  "2023-06-05": 1304935,
-  "2023-06-06": 1305676,
-  "2023-06-07": 1306407,
-  "2023-06-08": 1307233,
-  "2023-06-09": 1306424,
-  "2023-06-10": 1306816,
-  "2023-06-11": 1307480,
-  "2023-06-12": 1308124,
-  "2023-06-13": 1308863,
-  "2023-06-14": 1309180,
-  "2023-06-15": 256606,
-  "2023-06-16": 52848,
-  "2023-06-17": 52848,
-  "2023-06-18": 52848,
-  "2023-06-19": 52848,
-  "2023-06-20": 52848,
-  "2023-06-21": 52848,
-  "2023-06-22": 52848,
-  "2023-06-23": 52848,
-  "2023-06-24": 52848,
-  "2023-06-25": 52848,
-  "2023-06-26": 52848,
-  "2023-06-27": 52848,
-  "2023-06-28": 52848,
-  "2023-06-29": 52848,
-  "2023-06-30": 52848,
-  "2023-07-01": 52848,
-  "2023-07-02": 52848,
-  "2023-07-03": 52848,
-  "2023-07-04": 52848,
-  "2023-07-05": 52848,
-  "2023-07-06": 52848,
-  "2023-07-07": 52848,
-  "2023-07-08": 52848,
-  "2023-07-09": 52848,
-  "2023-07-10": 52848,
-  "2023-07-11": 52848,
-  "2023-07-12": 52848,
-  "2023-07-13": 52848,
-  "2023-07-14": 52848,
-  "2023-07-15": 52848,
-  "2023-07-16": 52848,
-  "2023-07-17": 52848,
-  "2023-07-18": 52848,
-  "2023-07-19": 52848,
-  "2023-07-20": 52848,
-  "2023-07-21": 52848,
-  "2023-07-22": 52848,
-  "2023-07-23": 52848,
-  "2023-07-24": 52848,
-  "2023-07-25": 52848,
-  "2023-07-26": 52848,
-  "2023-07-27": 52848,
-  "2023-07-28": 52848,
-  "2023-07-29": 52848,
-  "2023-07-30": 52848,
-  "2023-07-31": 52848,
-  "2023-08-01": 52848,
-  "2023-08-02": 52848,
-  "2023-08-03": 52848,
-  "2023-08-04": 52848,
-  "2023-08-05": 52848,
-  "2023-08-06": 52848,
-  "2023-08-07": 52848,
-  "2023-08-08": 52848,
-  "2023-08-09": 52848,
-  "2023-08-10": 52848,
-  "2023-08-11": 52848,
-  "2023-08-12": 52848,
-  "2023-08-13": 52848,
-  "2023-08-14": 52848,
-  "2023-08-15": 52848,
-  "2023-08-16": 52848,
-  "2023-08-17": 52848,
-  "2023-08-18": 52848,
-  "2023-08-19": 52848,
-  "2023-08-20": 52848,
-  "2023-08-21": 52848,
-  "2023-08-22": 52848,
-  "2023-08-23": 52848,
-  "2023-08-24": 52848,
-  "2023-08-25": 52848,
-  "2023-08-26": 52848,
-  "2023-08-27": 52848,
-  "2023-08-28": 52848,
-  "2023-08-29": 52848,
-  "2023-08-30": 52848,
-  "2023-08-31": 52848,
-  "2023-09-01": 52848,
-  "2023-09-02": 52848,
-  "2023-09-03": 52848,
-  "2023-09-04": 52848,
-  "2023-09-05": 52848,
-  "2023-09-06": 52848,
-  "2023-09-07": 52848,
-  "2023-09-08": 52848,
-  "2023-09-09": 52848,
-  "2023-09-10": 52848,
-  "2023-09-11": 52848,
-  "2023-09-12": 52848,
-  "2023-09-13": 52848,
-  "2023-09-14": 52848,
-  "2023-09-15": 52848,
-  "2023-09-16": 52848,
-  "2023-09-17": 52848,
-  "2023-09-18": 52848,
-  "2023-09-19": 52848,
-  "2023-09-20": 52848,
-  "2023-09-21": 52848,
-  "2023-09-22": 52848,
-  "2023-09-23": 52848,
-  "2023-09-24": 52848,
-  "2023-09-25": 52848,
-  "2023-09-26": 52848,
-  "2023-09-27": 52848,
-  "2023-09-28": 52848,
-  "2023-09-29": 52848,
-  "2023-09-30": 52848,
-  "2023-10-01": 52848,
-  "2023-10-02": 52848,
-  "2023-10-03": 52848,
-  "2023-10-04": 52848,
-  "2023-10-05": 52848,
-  "2023-10-06": 52848,
-  "2023-10-07": 52848,
-  "2023-10-08": 52848,
-  "2023-10-09": 52848,
-  "2023-10-10": 52848,
-  "2023-10-11": 52848,
-  "2023-10-12": 52848,
-  "2023-10-13": 52848,
-  "2023-10-14": 52848,
-  "2023-10-15": 52848,
-  "2023-10-16": 52848,
-  "2023-10-17": 52848,
-  "2023-10-18": 52848,
-  "2023-10-19": 52848,
-  "2023-10-20": 52848,
-  "2023-10-21": 52848,
-  "2023-10-22": 52848,
-  "2023-10-23": 52848,
-  "2023-10-24": 52848,
-  "2023-10-25": 52848,
-  "2023-10-26": 52848,
-  "2023-10-27": 52848,
-  "2023-10-28": 52848,
-  "2023-10-29": 52848,
-  "2023-10-30": 52848,
-  "2023-10-31": 52848,
-  "2023-11-01": 52848,
-  "2023-11-02": 52848,
-  "2023-11-03": 52848,
-  "2023-11-04": 52848,
-  "2023-11-05": 52848,
-  "2023-11-06": 52848,
-  "2023-11-07": 52848,
-  "2023-11-08": 52848,
-  "2023-11-09": 52848,
-  "2023-11-10": 52848,
-  "2023-11-11": 52848,
-  "2023-11-12": 52848,
-  "2023-11-13": 52848,
-  "2023-11-14": 52848,
-  "2023-11-15": 52848,
-  "2023-11-16": 52848,
-  "2023-11-17": 52848,
-  "2023-11-18": 52848,
-  "2023-11-19": 52848,
-  "2023-11-20": 52848,
-  "2023-11-21": 52848,
-  "2023-11-22": 52848,
-  "2023-11-23": 52848,
-  "2023-11-24": 52848,
-  "2023-11-25": 52848,
-  "2023-11-26": 52848,
-  "2023-11-27": 52848,
-  "2023-11-28": 52848,
-  "2023-11-29": 52848,
-  "2023-11-30": 52848,
-  "2023-12-01": 52848,
-  "2023-12-02": 52848,
-  "2023-12-03": 52848,
-  "2023-12-04": 52848,
-  "2023-12-05": 52848,
-  "2023-12-06": 52848,
-  "2023-12-07": 52848,
-  "2023-12-08": 52848,
-  "2023-12-09": 52848,
-  "2023-12-10": 52848,
-  "2023-12-11": 52848,
-  "2023-12-12": 52848,
-  "2023-12-13": 52848,
-  "2023-12-14": 52848,
-  "2023-12-15": 52848,
-  "2023-12-16": 52848,
-  "2023-12-17": 52848,
-  "2023-12-18": 52848,
-  "2023-12-19": 52848,
-  "2023-12-20": 52848,
-  "2023-12-21": 52848,
-  "2023-12-22": 52848,
-  "2023-12-23": 52848,
-  "2023-12-24": 52848,
-  "2023-12-25": 52848,
-  "2023-12-26": 52848,
-  "2023-12-27": 52848,
-  "2023-12-30": 52848,
-  "2023-12-31": 52848,
-  "2024-01-01": 52848,
-  "2024-01-02": 52848,
-  "2024-01-03": 52848
+  "2024-01-17": 52848,
+  "date_first_scraped": "2021-12-21",
+  "description": "This is Kendrick Lamar. Essential tracks all in one playlist. ",
+  "name": "This Is Kendrick Lamar",
+  "tracks": [
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215509,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215509,
+      "name": "A.D.H.D",
+      "url": "https://open.spotify.com/track/2MYl0er3UZ1RlKwRb5LODh"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
+    },
+    {
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219333,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 281069,
+      "name": "Auntie Diaries",
+      "url": "https://open.spotify.com/track/19Fg3WrTfo35Ji3PtfZE6J"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281069,
+      "name": "Auntie Diaries",
+      "url": "https://open.spotify.com/track/1uY1X8YeBixs1FdQ3fQ7d4"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212653,
+      "name": "Backseat Freestyle",
+      "url": "https://open.spotify.com/track/3aGibUHhQyBsyumYHylw0K"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221826,
+      "name": "Big Shot (with Travis Scott)",
+      "url": "https://open.spotify.com/track/5cXg9IQS34FzLVdHhp7hu7"
+    },
+    {
+      "album": {
+        "name": "Setbacks",
+        "url": "https://open.spotify.com/album/5QGtxFOTTr0Z4TyUQNVOKO"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260026,
+      "name": "Birds & The Beez",
+      "url": "https://open.spotify.com/track/6TLSA1Tmw8RQxvAioq6je6"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278800,
+      "name": "Bitch, Don\u2019t Kill My Vibe - Remix",
+      "url": "https://open.spotify.com/track/7ALEBJ8LOQqXVJ2tqnXtoH"
+    },
+    {
+      "album": {
+        "name": "Buy The World",
+        "url": "https://open.spotify.com/album/0N8ZuxurFs5C4fsC1z7wRK"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226693,
+      "name": "Buy The World",
+      "url": "https://open.spotify.com/track/01A7PEPSnmtixFPfB2UTal"
+    },
+    {
+      "album": {
+        "name": "Oxymoron (Deluxe)",
+        "url": "https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS"
+      },
+      "artists": [
+        {
+          "name": "ScHoolboy Q",
+          "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299960,
+      "name": "Collard Greens",
+      "url": "https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 283642,
+      "name": "Count Me Out",
+      "url": "https://open.spotify.com/track/7pj6P5WnxkZsw3XRc8eMe1"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264299,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/2IwbW2jd0Ncv99Aroe77Ru"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264299,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/4zMxWSP2qZUy5CBCH5PdzZ"
+    },
+    {
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245813,
+      "name": "Dedication (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6fIjnWrv46njJHLDAY2JdC"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Amanda Reifer",
+          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 239026,
+      "name": "Die Hard",
+      "url": "https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248613,
+      "name": "DUCKWORTH.",
+      "url": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208733,
+      "name": "ELEMENT.",
+      "url": "https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2"
+    },
+    {
+      "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/28qA8y1sz0FTuSapsCxNOG"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222497,
+      "name": "Father Time (feat. Sampha)",
+      "url": "https://open.spotify.com/track/4xIhSUJantE6BMl3u8dtCJ"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460573,
+      "name": "FEAR.",
+      "url": "https://open.spotify.com/track/23luOrEVHMfoX0AhfbQuS6"
+    },
+    {
+      "album": {
+        "name": "Born Sinner (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268666,
+      "name": "Forbidden Fruit (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m"
+    },
+    {
+      "album": {
+        "name": "Born Sinner",
+        "url": "https://open.spotify.com/album/1NfrmcXk8xNennyxQ57JcW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 268666,
+      "name": "Forbidden Fruit (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/5kpnUpMNV9dPNCKY7JtW3Q"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279854,
+      "name": "HiiiPower",
+      "url": "https://open.spotify.com/track/4WEuEfFiczWxblHyuucSBL"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 279854,
+      "name": "HiiiPower",
+      "url": "https://open.spotify.com/track/4fVqQKbROkz8Z9FFJS7vls"
+    },
+    {
+      "album": {
+        "name": "Hood Gone Love It",
+        "url": "https://open.spotify.com/album/4w9lrUz2Vgz7mZPGxc9qzs"
+      },
+      "artists": [
+        {
+          "name": "muqzy",
+          "url": "https://open.spotify.com/artist/1mO8Q2bLXCFlFvyeGdnef9"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 245516,
+      "name": "Hood Gone Love It",
+      "url": "https://open.spotify.com/track/6usIgzctskoOR0JeM3fkSI"
+    },
+    {
+      "album": {
+        "name": "Follow Me Home",
+        "url": "https://open.spotify.com/album/6bPbKuFNW6Vausf1PExvd9"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245466,
+      "name": "Hood Gone Love It (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177000,
+      "name": "HUMBLE.",
+      "url": "https://open.spotify.com/track/7KXjTSCq5nL1LoYtL7XAwS"
+    },
+    {
+      "album": {
+        "name": "Effected",
+        "url": "https://open.spotify.com/album/6CNwXxGCLQtWhG2VHOuiib"
+      },
+      "artists": [
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268371,
+      "name": "Hustla\u2019s Story (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4J56uEZtgVjuTi27Rvclag"
+    },
+    {
+      "album": {
+        "name": "i",
+        "url": "https://open.spotify.com/album/51C65YqHrDODM1hD5FEL5x"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231933,
+      "name": "i",
+      "url": "https://open.spotify.com/track/7wdzLe2Gsx1RGqbvYZHASz"
+    },
+    {
+      "album": {
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234693,
+      "name": "King Kunta",
+      "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "album": {
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225266,
+      "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+      "url": "https://open.spotify.com/track/1eLSF6HfrRA0AsNmTkUlKx"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "LOYALTY. FEAT. RIHANNA.",
+      "url": "https://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n"
+    },
+    {
+      "album": {
+        "name": "Mask Off (feat. Kendrick Lamar) [Remix]",
+        "url": "https://open.spotify.com/album/0HO6tgtGKAZTGGC7nk8dYQ"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257986,
+      "name": "Mask Off (feat. Kendrick Lamar) - Remix",
+      "url": "https://open.spotify.com/track/6DB2KOEwHnjkgEnBt5SdeJ"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 256006,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5LOiuvbH62YGtnwe6Ltt4T"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256006,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/5xoYormSTltk6F9SlQV6mm"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406528,
+      "name": "Mother I Sober (feat. Beth Gibbons of Portishead)",
+      "url": "https://open.spotify.com/track/346SJSEbB6pNZMpwovxDiu"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Beth Gibbons",
+          "url": "https://open.spotify.com/artist/6Lt6KFXX3P0v6vfrynQAMo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 406528,
+      "name": "Mother I Sober (feat. Beth Gibbons of Portishead)",
+      "url": "https://open.spotify.com/track/6NZOc8kO0Fxo0fLPvIdLnW"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210841,
+      "name": "Mr. Morale",
+      "url": "https://open.spotify.com/track/6CmpZfKUQ2KerzBFZ3QKFr"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Tanna Leone",
+          "url": "https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210841,
+      "name": "Mr. Morale",
+      "url": "https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5"
+    },
+    {
+      "album": {
+        "name": "NOW That's What I Call Music! Vol. 83",
+        "url": "https://open.spotify.com/album/3qCvZmBYk84q2vj3jonmEu"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 192666,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/4GsMplCKuZQaYoLKlYXK8i"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195950,
+      "name": "N95",
+      "url": "https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t"
+    },
+    {
+      "album": {
+        "name": "You're Dead!",
+        "url": "https://open.spotify.com/album/7DFT5wc0jn6U7DqooS8y6l"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234486,
+      "name": "Never Catch Me",
+      "url": "https://open.spotify.com/track/1KOqY0QTSadQFRgbNw1sLh"
+    },
+    {
+      "album": {
+        "name": "You're Dead!",
+        "url": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj"
+      },
+      "artists": [
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-02",
+      "duration_ms": 234486,
+      "name": "Never Catch Me",
+      "url": "https://open.spotify.com/track/6CTG85NJI1Wm60pxTSRNwL"
+    },
+    {
+      "album": {
+        "name": "Ransom 2",
+        "url": "https://open.spotify.com/album/0jqcY0azNzkluuC8hxNGlw"
+      },
+      "artists": [
+        {
+          "name": "Mike WiLL Made-It",
+          "url": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Rae Sremmurd",
+          "url": "https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240926,
+      "name": "Perfect Pint (feat. Kendrick Lamar, Gucci Mane & Rae Sremmurd)",
+      "url": "https://open.spotify.com/track/3A2OHirUAlQp2x73BJlEDA"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/1REVvAphiSTJyKQ1fDpHa4"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 329295,
+      "name": "Purple Hearts",
+      "url": "https://open.spotify.com/track/401160izncPtca3CmX3dvM"
+    },
+    {
+      "album": {
+        "name": "The Melodic Blue",
+        "url": "https://open.spotify.com/album/3r46DPIQeBQbjvjjV5mXGg"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2021-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316733,
+      "name": "range brothers (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0UTyLmkQgPOEIz95OVAJTR"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103319,
+      "name": "Rich - Interlude",
+      "url": "https://open.spotify.com/track/15pyFQHCTVp6T7vaWctSgO"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 103319,
+      "name": "Rich - Interlude",
+      "url": "https://open.spotify.com/track/2Az5ykbQiZtFWtACCMvWlP"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/1QPreu0BNOrUfEb8HTd2qG"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202285,
+      "name": "Rich Spirit",
+      "url": "https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2b3KgzISdjZVNPJJ1945nw"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168591,
+      "name": "Rigamortus",
+      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Sam Dew",
+          "url": "https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224466,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3drdWsJKiVCSQ2gKhd9BDT"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152985,
+      "name": "Savior - Interlude",
+      "url": "https://open.spotify.com/track/5G4uLkFKdEZLcuNyeomQmE"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152985,
+      "name": "Savior - Interlude",
+      "url": "https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c"
+    },
+    {
+      "album": {
+        "name": "Overly Dedicated",
+        "url": "https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Dom Kennedy",
+          "url": "https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt"
+        },
+        {
+          "name": "Murs",
+          "url": "https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195790,
+      "name": "She Needs Me (Remix)",
+      "url": "https://open.spotify.com/track/6D5GoogBIBMUBlQ1CYTkOH"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313786,
+      "name": "Swimming Pools (Drank) - Extended Version",
+      "url": "https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161670,
+      "name": "Tammy's Song (Her Evils)",
+      "url": "https://open.spotify.com/track/22gXA7HlEd0z13zdc3hju7"
+    },
+    {
+      "album": {
+        "name": "Section.80",
+        "url": "https://open.spotify.com/album/13WjgUEEAQp0d9JqojlWp1"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 161670,
+      "name": "Tammy's Song (Her Evils)",
+      "url": "https://open.spotify.com/track/3RPK9VQuTsiTySY48ldeqx"
+    },
+    {
+      "album": {
+        "name": "The Heart Part 5",
+        "url": "https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332228,
+      "name": "The Heart Part 5",
+      "url": "https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC"
+    },
+    {
+      "album": {
+        "name": "Do What Thou Wilt.",
+        "url": "https://open.spotify.com/album/1CEeqK9sKrE7LzUHeT3bfP"
+      },
+      "artists": [
+        {
+          "name": "Ab-Soul",
+          "url": "https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329207,
+      "name": "The Law (feat. Mac Miller & Rapsody)",
+      "url": "https://open.spotify.com/track/17vQTNbvhpvi92qOnDOFHB"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255377,
+      "name": "United In Grief",
+      "url": "https://open.spotify.com/track/5Gt9bxniM1SxN61yRzRhXL"
+    },
+    {
+      "album": {
+        "name": "untitled unmastered.",
+        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496173,
+      "name": "untitled 07 | 2014 - 2016",
+      "url": "https://open.spotify.com/track/40IQooNkPRVtn4zlE3ZFpA"
+    },
+    {
+      "album": {
+        "name": "The Sun's Tirade",
+        "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Rashad",
+          "url": "https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330783,
+      "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Taylour Paige",
+          "url": "https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 341307,
+      "name": "We Cry Together",
+      "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Taylour Paige",
+          "url": "https://open.spotify.com/artist/7nkr1fevjIVmgx5biwAWVo"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341307,
+      "name": "We Cry Together",
+      "url": "https://open.spotify.com/track/67XC51nlZncNpHmZ8rOU9a"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 203367,
+      "name": "Worldwide Steppers",
+      "url": "https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2022-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203367,
+      "name": "Worldwide Steppers",
+      "url": "https://open.spotify.com/track/66mVPWmFvXPFf8pjK5ttOW"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-10-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175213,
+      "name": "Wow Freestyle (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/0gV5B7zmJkS1aaH9APokrH"
+    },
+    {
+      "album": {
+        "name": "Redemption",
+        "url": "https://open.spotify.com/album/6PpxiZQQonnX3aS52Ayr9A"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2018-10-26",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 175213,
+      "name": "Wow Freestyle (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/12rbR0qoFJQ7rRGzgXrzHy"
+    },
+    {
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2018-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254200,
+      "name": "XXX. FEAT. U2.",
+      "url": "https://open.spotify.com/track/4iYRa2btalAzPZoSYfROqF"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX5EkyRFIV92g"
 }

@@ -1,735 +1,3595 @@
 {
-  "2021-12-25": 3413656,
-  "2021-12-26": 3414123,
-  "2021-12-27": 3415152,
-  "2021-12-28": 3415156,
-  "2021-12-29": 3415762,
-  "2021-12-30": 3416293,
-  "2021-12-31": 3416943,
-  "2022-01-01": 3417914,
-  "2022-01-02": 3418072,
-  "2022-01-03": 3418446,
-  "2022-01-04": 3418881,
-  "2022-01-05": 3419417,
-  "2022-01-06": 3419921,
-  "2022-01-07": 3420434,
-  "2022-01-08": 3421522,
-  "2022-01-09": 3421541,
-  "2022-01-10": 3422040,
-  "2022-01-11": 3422540,
-  "2022-01-12": 3423062,
-  "2022-01-13": 3423679,
-  "2022-01-14": 3424257,
-  "2022-01-15": 3425431,
-  "2022-01-16": 3425484,
-  "2022-01-17": 3426629,
-  "2022-01-18": 3426694,
-  "2022-01-19": 3427124,
-  "2022-01-20": 3427733,
-  "2022-01-21": 3428249,
-  "2022-01-22": 3428835,
-  "2022-01-23": 3429421,
-  "2022-01-24": 3429951,
-  "2022-01-25": 3430414,
-  "2022-01-26": 3430882,
-  "2022-01-27": 3431408,
-  "2022-01-28": 3431964,
-  "2022-01-29": 3432492,
-  "2022-01-30": 3433027,
-  "2022-01-31": 3433547,
-  "2022-02-01": 3434098,
-  "2022-02-02": 3434700,
-  "2022-02-03": 3435296,
-  "2022-02-04": 3435917,
-  "2022-02-05": 3436603,
-  "2022-02-06": 3437210,
-  "2022-02-07": 3437681,
-  "2022-02-08": 3438233,
-  "2022-02-09": 3438856,
-  "2022-02-10": 3439409,
-  "2022-02-11": 3439937,
-  "2022-02-12": 3440530,
-  "2022-02-13": 3441124,
-  "2022-02-14": 3441642,
-  "2022-02-15": 3442215,
-  "2022-02-16": 3442763,
-  "2022-02-17": 3443316,
-  "2022-02-18": 3443894,
-  "2022-02-19": 3444524,
-  "2022-02-20": 3445129,
-  "2022-02-21": 3445676,
-  "2022-02-22": 3446233,
-  "2022-02-23": 3446745,
-  "2022-02-24": 3447365,
-  "2022-02-25": 3447902,
-  "2022-02-26": 3448437,
-  "2022-02-27": 3449533,
-  "2022-02-28": 3449533,
-  "2022-03-01": 3450159,
-  "2022-03-02": 3450689,
-  "2022-03-03": 3451381,
-  "2022-03-04": 3452133,
-  "2022-03-05": 3452916,
-  "2022-03-06": 3453560,
-  "2022-03-07": 3454229,
-  "2022-03-08": 3454945,
-  "2022-03-09": 3455648,
-  "2022-03-10": 3456458,
-  "2022-03-11": 3457279,
-  "2022-03-12": 3458101,
-  "2022-03-13": 3458829,
-  "2022-03-14": 3459512,
-  "2022-03-15": 3460195,
-  "2022-03-16": 3460800,
-  "2022-03-17": 3461376,
-  "2022-03-18": 3462239,
-  "2022-03-19": 3462660,
-  "2022-03-20": 3462660,
-  "2022-03-21": 3463817,
-  "2022-03-22": 3464262,
-  "2022-03-23": 3464820,
-  "2022-03-24": 3465453,
-  "2022-03-25": 3466057,
-  "2022-03-26": 3466748,
-  "2022-03-27": 3467333,
-  "2022-03-28": 3467905,
-  "2022-03-30": 3468931,
-  "2022-03-31": 3469586,
-  "2022-04-01": 3470175,
-  "2022-04-02": 3470774,
-  "2022-04-03": 3471362,
-  "2022-04-04": 3471816,
-  "2022-04-05": 3472396,
-  "2022-04-06": 3472964,
-  "2022-04-07": 3473514,
-  "2022-04-08": 3474103,
-  "2022-04-09": 3474695,
-  "2022-04-10": 3475819,
-  "2022-04-11": 3476379,
-  "2022-04-12": 3476471,
-  "2022-04-13": 3476943,
-  "2022-04-14": 3477552,
-  "2022-04-15": 3478192,
-  "2022-04-16": 3478870,
-  "2022-04-17": 3479517,
-  "2022-04-18": 3480275,
-  "2022-04-19": 3480798,
-  "2022-04-20": 3481476,
-  "2022-04-21": 3482086,
-  "2022-04-22": 3482798,
-  "2022-04-23": 3483500,
-  "2022-04-24": 3484121,
-  "2022-04-25": 3484810,
-  "2022-04-26": 3485493,
-  "2022-04-27": 3486238,
-  "2022-04-28": 3486909,
-  "2022-04-29": 3488065,
-  "2022-04-30": 3488733,
-  "2022-05-01": 3489431,
-  "2022-05-02": 3489431,
-  "2022-05-03": 3490069,
-  "2022-05-04": 3490677,
-  "2022-05-05": 3491280,
-  "2022-05-06": 3491977,
-  "2022-05-07": 3492778,
-  "2022-05-08": 3493788,
-  "2022-05-09": 3493923,
-  "2022-05-10": 3494571,
-  "2022-05-11": 3495220,
-  "2022-05-12": 3495827,
-  "2022-05-13": 3496606,
-  "2022-05-14": 3497287,
-  "2022-05-15": 3498027,
-  "2022-05-16": 3498569,
-  "2022-05-17": 3499202,
-  "2022-05-18": 3499769,
-  "2022-05-19": 3500419,
-  "2022-05-20": 3501260,
-  "2022-05-21": 3502392,
-  "2022-05-22": 3502392,
-  "2022-05-23": 3503028,
-  "2022-05-24": 3503639,
-  "2022-05-25": 3504246,
-  "2022-05-26": 3504861,
-  "2022-05-27": 3505500,
-  "2022-05-28": 3506188,
-  "2022-05-29": 3506739,
-  "2022-05-30": 3507316,
-  "2022-05-31": 3507928,
-  "2022-06-01": 3509104,
-  "2022-06-02": 3509195,
-  "2022-06-03": 3509914,
-  "2022-06-04": 3510497,
-  "2022-06-05": 3511144,
-  "2022-06-06": 3511712,
-  "2022-06-07": 3512269,
-  "2022-06-08": 3513027,
-  "2022-06-09": 3513593,
-  "2022-06-10": 3514258,
-  "2022-06-11": 3514967,
-  "2022-06-12": 3515586,
-  "2022-06-13": 3516171,
-  "2022-06-14": 3516813,
-  "2022-06-15": 3517490,
-  "2022-06-16": 3518181,
-  "2022-06-17": 3518969,
-  "2022-06-18": 3520330,
-  "2022-06-19": 3522689,
-  "2022-06-20": 3522689,
-  "2022-06-21": 3523832,
-  "2022-06-22": 3525977,
-  "2022-06-23": 3525977,
-  "2022-06-24": 3526849,
-  "2022-06-25": 3527890,
-  "2022-06-26": 3528760,
-  "2022-06-27": 3529538,
-  "2022-06-28": 3530348,
-  "2022-06-29": 3531128,
-  "2022-06-30": 3531925,
-  "2022-07-01": 3532815,
-  "2022-07-02": 3533681,
-  "2022-07-03": 3534490,
-  "2022-07-04": 3535287,
-  "2022-07-05": 3536058,
-  "2022-07-06": 3536814,
-  "2022-07-07": 3537621,
-  "2022-07-08": 3538508,
-  "2022-07-09": 3539431,
-  "2022-07-10": 3540184,
-  "2022-07-11": 3540957,
-  "2022-07-12": 3541689,
-  "2022-07-13": 3542357,
-  "2022-07-14": 3543106,
-  "2022-07-15": 3543900,
-  "2022-07-16": 3544669,
-  "2022-07-17": 3545506,
-  "2022-07-18": 3546331,
-  "2022-07-19": 3547172,
-  "2022-07-20": 3547969,
-  "2022-07-21": 3548698,
-  "2022-07-22": 3549630,
-  "2022-07-23": 3550433,
-  "2022-07-24": 3551261,
-  "2022-07-25": 3551931,
-  "2022-07-26": 3552719,
-  "2022-07-27": 3553422,
-  "2022-07-28": 3554215,
-  "2022-07-29": 3554987,
-  "2022-07-30": 3556582,
-  "2022-07-31": 3556582,
-  "2022-08-01": 3557235,
-  "2022-08-02": 3558737,
-  "2022-08-03": 3558737,
-  "2022-08-04": 3559504,
-  "2022-08-05": 3560318,
-  "2022-08-06": 3561228,
-  "2022-08-07": 3562031,
-  "2022-08-08": 3562894,
-  "2022-08-09": 3563794,
-  "2022-08-10": 3564642,
-  "2022-08-11": 3565527,
-  "2022-08-12": 3566357,
-  "2022-08-13": 3567158,
-  "2022-08-14": 3567988,
-  "2022-08-15": 3568767,
-  "2022-08-16": 3569647,
-  "2022-08-17": 3570503,
-  "2022-08-18": 3571368,
-  "2022-08-19": 3572248,
-  "2022-08-20": 3573096,
-  "2022-08-21": 3573968,
-  "2022-08-22": 3574750,
-  "2022-08-23": 3575566,
-  "2022-08-24": 3576366,
-  "2022-08-25": 3577202,
-  "2022-08-26": 3578021,
-  "2022-08-27": 3578873,
-  "2022-08-28": 3579614,
-  "2022-08-29": 3580435,
-  "2022-08-30": 3580856,
-  "2022-08-31": 3581004,
-  "2022-09-01": 3580995,
-  "2022-09-02": 3581021,
-  "2022-09-03": 3580456,
-  "2022-09-04": 3580639,
-  "2022-09-05": 3581290,
-  "2022-09-06": 3582100,
-  "2022-09-07": 3582842,
-  "2022-09-09": 3584456,
-  "2022-09-10": 3585337,
-  "2022-09-11": 3586147,
-  "2022-09-12": 3586780,
-  "2022-09-13": 3587525,
-  "2022-09-15": 3588974,
-  "2022-09-16": 3589708,
-  "2022-09-17": 3590458,
-  "2022-09-18": 3591171,
-  "2022-09-19": 3591819,
-  "2022-09-20": 3592559,
-  "2022-09-21": 3593396,
-  "2022-09-22": 3594239,
-  "2022-09-23": 3595053,
-  "2022-09-24": 3595821,
-  "2022-09-25": 3596573,
-  "2022-09-26": 3597329,
-  "2022-09-27": 3598088,
-  "2022-09-28": 3598866,
-  "2022-09-29": 3599703,
-  "2022-09-30": 3600684,
-  "2022-10-01": 3601493,
-  "2022-10-02": 3602237,
-  "2022-10-03": 3602878,
-  "2022-10-04": 3603674,
-  "2022-10-05": 3604436,
-  "2022-10-06": 3605235,
-  "2022-10-07": 3606061,
-  "2022-10-08": 3606858,
-  "2022-10-09": 3608225,
-  "2022-10-10": 3608407,
-  "2022-10-11": 3609180,
-  "2022-10-12": 3610230,
-  "2022-10-13": 3611250,
-  "2022-10-14": 3612118,
-  "2022-10-15": 3613270,
-  "2022-10-16": 3614241,
-  "2022-10-17": 3615133,
-  "2022-10-18": 3615958,
-  "2022-10-19": 3616941,
-  "2022-10-20": 3617863,
-  "2022-10-21": 3618800,
-  "2022-10-22": 3619768,
-  "2022-10-23": 3620633,
-  "2022-10-24": 3621463,
-  "2022-10-25": 3622401,
-  "2022-10-26": 3623277,
-  "2022-10-27": 3624193,
-  "2022-10-28": 3625066,
-  "2022-10-29": 3626037,
-  "2022-10-30": 3626893,
-  "2022-10-31": 3627619,
-  "2022-11-01": 3628423,
-  "2022-11-02": 3629225,
-  "2022-11-03": 3630128,
-  "2022-11-04": 3631175,
-  "2022-11-05": 3632388,
-  "2022-11-06": 3633475,
-  "2022-11-07": 3634370,
-  "2022-11-08": 3635423,
-  "2022-11-09": 3636417,
-  "2022-11-10": 3637432,
-  "2022-11-11": 3638552,
-  "2022-11-12": 3639792,
-  "2022-11-13": 3640795,
-  "2022-11-14": 3641717,
-  "2022-11-15": 3642828,
-  "2022-11-16": 3643889,
-  "2022-11-17": 3644952,
-  "2022-11-18": 3645198,
-  "2022-11-19": 3645356,
-  "2022-11-20": 3646271,
-  "2022-11-21": 3647190,
-  "2022-11-22": 3648080,
-  "2022-11-23": 3647588,
-  "2022-11-24": 3650735,
-  "2022-11-25": 3652154,
-  "2022-11-26": 3653179,
-  "2022-11-27": 3653958,
-  "2022-11-28": 3654738,
-  "2022-11-29": 3655610,
-  "2022-11-30": 3656451,
-  "2022-12-01": 3657829,
-  "2022-12-02": 3658822,
-  "2022-12-03": 3660606,
-  "2022-12-04": 3661809,
-  "2022-12-05": 3662889,
-  "2022-12-06": 3664089,
-  "2022-12-07": 3665128,
-  "2022-12-08": 3666181,
-  "2022-12-09": 3667281,
-  "2022-12-10": 3668207,
-  "2022-12-11": 3669103,
-  "2022-12-12": 3669985,
-  "2022-12-13": 3670871,
-  "2022-12-14": 3671731,
-  "2022-12-15": 3672557,
-  "2022-12-16": 3673416,
-  "2022-12-17": 3674347,
-  "2022-12-18": 3675302,
-  "2022-12-19": 3676000,
-  "2022-12-20": 3677626,
-  "2022-12-21": 3677626,
-  "2022-12-22": 3678422,
-  "2022-12-24": 3680282,
-  "2022-12-25": 3681148,
-  "2022-12-26": 3681846,
-  "2022-12-27": 3682685,
-  "2022-12-28": 3683568,
-  "2022-12-29": 3684506,
-  "2022-12-30": 3685402,
-  "2022-12-31": 3686426,
-  "2023-01-01": 3687336,
-  "2023-01-02": 3688049,
-  "2023-01-03": 3689051,
-  "2023-01-04": 3689855,
-  "2023-01-05": 3690715,
-  "2023-01-06": 3691917,
-  "2023-01-07": 3693357,
-  "2023-01-08": 3693563,
-  "2023-01-09": 3694420,
-  "2023-01-10": 3695356,
-  "2023-01-11": 3696257,
-  "2023-01-12": 3697220,
-  "2023-01-13": 3698166,
-  "2023-01-14": 3699712,
-  "2023-01-15": 3699905,
-  "2023-01-16": 3700712,
-  "2023-01-17": 3701513,
-  "2023-01-18": 3702406,
-  "2023-01-19": 3703315,
-  "2023-01-20": 3704222,
-  "2023-01-21": 3705126,
-  "2023-01-22": 3706094,
-  "2023-01-23": 3707060,
-  "2023-01-24": 3708021,
-  "2023-01-25": 3708976,
-  "2023-01-26": 3709936,
-  "2023-01-27": 3710939,
-  "2023-01-28": 3711846,
-  "2023-01-29": 3712731,
-  "2023-01-30": 3713481,
-  "2023-01-31": 3713481,
-  "2023-02-01": 3715322,
-  "2023-02-02": 3716320,
-  "2023-02-03": 3717384,
-  "2023-02-04": 3718434,
-  "2023-02-05": 3719520,
-  "2023-02-06": 3720546,
-  "2023-02-07": 3721496,
-  "2023-02-08": 3723393,
-  "2023-02-09": 3723393,
-  "2023-02-10": 3724410,
-  "2023-02-11": 3725339,
-  "2023-02-12": 3727073,
-  "2023-02-13": 3728052,
-  "2023-02-14": 3728052,
-  "2023-02-15": 3728859,
-  "2023-02-16": 3729751,
-  "2023-02-17": 3730745,
-  "2023-02-18": 3732651,
-  "2023-02-19": 3732850,
-  "2023-02-20": 3733519,
-  "2023-02-21": 3734331,
-  "2023-02-22": 3735152,
-  "2023-02-23": 3735981,
-  "2023-02-24": 3736850,
-  "2023-02-25": 3737997,
-  "2023-02-26": 3738559,
-  "2023-02-27": 3740203,
-  "2023-02-28": 3740203,
-  "2023-03-01": 3741005,
-  "2023-03-02": 3741818,
-  "2023-03-03": 3742767,
-  "2023-03-04": 3743509,
-  "2023-03-05": 3745052,
-  "2023-03-06": 3745052,
-  "2023-03-07": 3745943,
-  "2023-03-08": 3746799,
-  "2023-03-09": 3747584,
-  "2023-03-10": 3748319,
-  "2023-03-11": 3749099,
-  "2023-03-12": 3749763,
-  "2023-03-13": 3750464,
-  "2023-03-14": 3751249,
-  "2023-03-15": 3752172,
-  "2023-03-16": 3753107,
-  "2023-03-17": 3753107,
-  "2023-03-18": 3755346,
-  "2023-03-19": 3756472,
-  "2023-03-20": 3757461,
-  "2023-03-21": 3758427,
-  "2023-03-22": 3759350,
-  "2023-03-23": 3760401,
-  "2023-03-24": 3760401,
-  "2023-03-25": 3762119,
-  "2023-03-26": 3763166,
-  "2023-03-27": 3764210,
-  "2023-03-28": 3765205,
-  "2023-03-29": 3766152,
-  "2023-03-30": 3767451,
-  "2023-03-31": 3767451,
-  "2023-04-01": 3768205,
-  "2023-04-02": 3768850,
-  "2023-04-03": 3769548,
-  "2023-04-04": 3770482,
-  "2023-04-05": 3773379,
-  "2023-04-06": 3774732,
-  "2023-04-07": 3778121,
-  "2023-04-09": 3787388,
-  "2023-04-10": 3788362,
-  "2023-04-11": 3790111,
-  "2023-04-12": 3790111,
-  "2023-04-13": 3790987,
-  "2023-04-14": 3792003,
-  "2023-04-15": 3793158,
-  "2023-04-16": 3793980,
-  "2023-04-17": 3794703,
-  "2023-04-18": 3795496,
-  "2023-04-19": 3796777,
-  "2023-04-20": 3796605,
-  "2023-04-21": 3798112,
-  "2023-04-22": 3799647,
-  "2023-04-23": 3800654,
-  "2023-04-24": 3801020,
-  "2023-04-25": 3801485,
-  "2023-04-26": 3802339,
-  "2023-04-27": 3803196,
-  "2023-04-28": 3804070,
-  "2023-04-29": 3805587,
-  "2023-04-30": 3807456,
-  "2023-05-01": 3810022,
-  "2023-05-02": 3811169,
-  "2023-05-03": 3812289,
-  "2023-05-04": 3813264,
-  "2023-05-05": 3814084,
-  "2023-05-06": 3815197,
-  "2023-05-07": 3807245,
-  "2023-05-08": 3805977,
-  "2023-05-09": 3806259,
-  "2023-05-10": 3806580,
-  "2023-05-11": 3807350,
-  "2023-05-12": 3811120,
-  "2023-05-13": 3812070,
-  "2023-05-14": 3812935,
-  "2023-05-15": 3813278,
-  "2023-05-16": 3811676,
-  "2023-05-17": 3811768,
-  "2023-05-18": 3814971,
-  "2023-05-19": 3815765,
-  "2023-05-20": 3817037,
-  "2023-05-21": 3817037,
-  "2023-05-22": 3817037,
-  "2023-05-23": 3818389,
-  "2023-05-24": 3819833,
-  "2023-05-25": 3820031,
-  "2023-05-26": 3820890,
-  "2023-05-27": 3821736,
-  "2023-05-28": 3821271,
-  "2023-05-29": 3821271,
-  "2023-05-30": 3822437,
-  "2023-05-31": 3823119,
-  "2023-06-01": 3823925,
-  "2023-06-02": 3824229,
-  "2023-06-03": 3823110,
-  "2023-06-04": 3823994,
-  "2023-06-05": 3824194,
-  "2023-06-06": 3824867,
-  "2023-06-07": 3825567,
-  "2023-06-08": 3826528,
-  "2023-06-09": 3826125,
-  "2023-06-10": 3826906,
-  "2023-06-11": 3827930,
-  "2023-06-12": 3829029,
-  "2023-06-13": 3830244,
-  "2023-06-14": 3830244,
-  "2023-06-15": 3832580,
-  "2023-06-16": 3833835,
-  "2023-06-17": 3834984,
-  "2023-06-18": 3836136,
-  "2023-06-19": 3837169,
-  "2023-06-20": 3838220,
-  "2023-06-21": 3839265,
-  "2023-06-22": 3839990,
-  "2023-06-23": 3840679,
-  "2023-06-24": 3841519,
-  "2023-06-25": 3842359,
-  "2023-06-26": 3843163,
-  "2023-06-27": 3843968,
-  "2023-06-28": 3844834,
-  "2023-06-29": 3845675,
-  "2023-06-30": 3846506,
-  "2023-07-01": 3848174,
-  "2023-07-02": 3848174,
-  "2023-07-03": 3848951,
-  "2023-07-04": 3849798,
-  "2023-07-05": 3850670,
-  "2023-07-06": 3852438,
-  "2023-07-07": 3852438,
-  "2023-07-08": 3853380,
-  "2023-07-09": 3854294,
-  "2023-07-10": 3855324,
-  "2023-07-11": 3856200,
-  "2023-07-12": 3857201,
-  "2023-07-13": 3858163,
-  "2023-07-14": 3859107,
-  "2023-07-15": 3859785,
-  "2023-07-16": 3860741,
-  "2023-07-17": 3861582,
-  "2023-07-18": 3862536,
-  "2023-07-19": 3863497,
-  "2023-07-20": 3864494,
-  "2023-07-21": 3865513,
-  "2023-07-22": 3866568,
-  "2023-07-23": 3867720,
-  "2023-07-24": 3868654,
-  "2023-07-25": 3869799,
-  "2023-07-26": 3870858,
-  "2023-07-27": 3872071,
-  "2023-07-28": 3873274,
-  "2023-07-29": 3874309,
-  "2023-07-30": 3875206,
-  "2023-07-31": 3876152,
-  "2023-08-01": 3877185,
-  "2023-08-02": 3878191,
-  "2023-08-03": 3879229,
-  "2023-08-04": 3880445,
-  "2023-08-05": 3881463,
-  "2023-08-06": 3883356,
-  "2023-08-07": 3883356,
-  "2023-08-08": 3884258,
-  "2023-08-09": 3885192,
-  "2023-08-10": 3886135,
-  "2023-08-11": 3887058,
-  "2023-08-12": 3888097,
-  "2023-08-13": 3888945,
-  "2023-08-14": 3889725,
-  "2023-08-15": 3891561,
-  "2023-08-16": 3891561,
-  "2023-08-17": 3892529,
-  "2023-08-18": 3893511,
-  "2023-08-19": 3894563,
-  "2023-08-20": 3895555,
-  "2023-08-21": 3896437,
-  "2023-08-22": 3897358,
-  "2023-08-23": 3898303,
-  "2023-08-24": 3899358,
-  "2023-08-25": 3900523,
-  "2023-08-26": 3901790,
-  "2023-08-27": 3902845,
-  "2023-08-28": 3903757,
-  "2023-08-29": 3904722,
-  "2023-08-30": 3905732,
-  "2023-08-31": 3906790,
-  "2023-09-01": 3908711,
-  "2023-09-02": 3908711,
-  "2023-09-03": 3909487,
-  "2023-09-04": 3910258,
-  "2023-09-05": 3911046,
-  "2023-09-06": 3911797,
-  "2023-09-07": 3912672,
-  "2023-09-08": 3913617,
-  "2023-09-09": 3914594,
-  "2023-09-10": 3915407,
-  "2023-09-11": 3916204,
-  "2023-09-12": 3917057,
-  "2023-09-13": 3918043,
-  "2023-09-14": 3918891,
-  "2023-09-15": 3919790,
-  "2023-09-16": 3920686,
-  "2023-09-17": 3921485,
-  "2023-09-18": 3922278,
-  "2023-09-19": 3923161,
-  "2023-09-20": 3923944,
-  "2023-09-21": 3924913,
-  "2023-09-22": 3925811,
-  "2023-09-23": 3926626,
-  "2023-09-24": 3927398,
-  "2023-09-25": 3928084,
-  "2023-09-26": 3928991,
-  "2023-09-27": 3929639,
-  "2023-09-28": 3930449,
-  "2023-09-29": 3931309,
-  "2023-09-30": 3932104,
-  "2023-10-01": 3932846,
-  "2023-10-02": 3933527,
-  "2023-10-03": 3934314,
-  "2023-10-04": 3935233,
-  "2023-10-05": 3936084,
-  "2023-10-06": 3937028,
-  "2023-10-07": 3938325,
-  "2023-10-08": 3939222,
-  "2023-10-09": 3940030,
-  "2023-10-10": 3937813,
-  "2023-10-11": 3936516,
-  "2023-10-12": 3936516,
-  "2023-10-13": 3934642,
-  "2023-10-14": 3933238,
-  "2023-10-15": 3933570,
-  "2023-10-16": 3934207,
-  "2023-10-17": 3934981,
-  "2023-10-18": 3935632,
-  "2023-10-19": 3936355,
-  "2023-10-20": 3937010,
-  "2023-10-21": 3937711,
-  "2023-10-22": 3938362,
-  "2023-10-23": 3938960,
-  "2023-10-24": 3939518,
-  "2023-10-25": 3940221,
-  "2023-10-26": 3940870,
-  "2023-10-27": 3941618,
-  "2023-10-28": 3942738,
-  "2023-10-29": 3944086,
-  "2023-10-30": 3945898,
-  "2023-10-31": 3945898,
-  "2023-11-01": 3946661,
-  "2023-11-02": 3947459,
-  "2023-11-03": 3948137,
-  "2023-11-04": 3948678,
-  "2023-11-05": 3949191,
-  "2023-11-06": 3949690,
-  "2023-11-07": 3950292,
-  "2023-11-08": 3950939,
-  "2023-11-09": 3951548,
-  "2023-11-10": 3952112,
-  "2023-11-11": 3952791,
-  "2023-11-12": 3953307,
-  "2023-11-13": 3953842,
-  "2023-11-14": 3954405,
-  "2023-11-15": 3954405,
-  "2023-11-16": 3955628,
-  "2023-11-17": 3956930,
-  "2023-11-18": 3956930,
-  "2023-11-19": 3957561,
-  "2023-11-20": 3958161,
-  "2023-11-21": 3958779,
-  "2023-11-22": 3959510,
-  "2023-11-23": 3960247,
-  "2023-11-24": 3960909,
-  "2023-11-25": 3961567,
-  "2023-11-26": 3962120,
-  "2023-11-27": 3962673,
-  "2023-11-28": 3963235,
-  "2023-11-29": 3964850,
-  "2023-11-30": 3964850,
-  "2023-12-01": 3966240,
-  "2023-12-02": 3967247,
-  "2023-12-03": 3968080,
-  "2023-12-04": 3968848,
-  "2023-12-05": 3969584,
-  "2023-12-06": 3970343,
-  "2023-12-07": 3971060,
-  "2023-12-08": 3971844,
-  "2023-12-09": 3972898,
-  "2023-12-10": 3973941,
-  "2023-12-11": 3974935,
-  "2023-12-12": 3975877,
-  "2023-12-13": 3976780,
-  "2023-12-14": 3977959,
-  "2023-12-15": 3978720,
-  "2023-12-16": 3979658,
-  "2023-12-17": 3980522,
-  "2023-12-18": 3981345,
-  "2023-12-19": 3982103,
-  "2023-12-20": 3982984,
-  "2023-12-21": 3983932,
-  "2023-12-22": 3984914,
-  "2023-12-23": 3985833,
-  "2023-12-24": 3986760,
-  "2023-12-25": 3987542,
-  "2023-12-26": 3988313,
-  "2023-12-27": 3989155,
-  "2023-12-30": 3992226,
-  "2023-12-31": 3993130,
-  "2024-01-01": 3993860,
-  "2024-01-02": 3994581,
-  "2024-01-03": 3995460
+  "2024-01-17": 3991900,
+  "date_first_scraped": "2021-12-21",
+  "description": "Hear all of Drake's biggest and best hits in one playlist. Thank us later.",
+  "name": "This Is Drake",
+  "tracks": [
+    {
+      "album": {
+        "name": "0 To 100 / The Catch Up",
+        "url": "https://open.spotify.com/album/5OkxLN5XaE9rLbgK2FuKBE"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275226,
+      "name": "0 To 100 / The Catch Up",
+      "url": "https://open.spotify.com/track/4jtyUzZm9WLc2AdaJ1dso7"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239635,
+      "name": "7am On Bridle Path",
+      "url": "https://open.spotify.com/track/42m3eP1JJhtzffal9B136J"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 270866,
+      "name": "All Me",
+      "url": "https://open.spotify.com/track/4kNvYhyl8R6m1vykVkcuBu"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270866,
+      "name": "All Me",
+      "url": "https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152961,
+      "name": "BackOutsideBoyz",
+      "url": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257690,
+      "name": "Best I Ever Had",
+      "url": "https://open.spotify.com/track/3QLjDkgLh9AOEHlhQtDuhs"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 213492,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/4XTXamS1g4g93jPxyuFJJ6"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 163973,
+      "name": "Can\u2019t Take A Joke",
+      "url": "https://open.spotify.com/track/7cfvP13Bqb1EyCZQiYsLum"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163974,
+      "name": "Can\u2019t Take A Joke",
+      "url": "https://open.spotify.com/track/1dUHF4RyMmMTveJ0Rby6Xm"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336511,
+      "name": "Champagne Poetry",
+      "url": "https://open.spotify.com/track/2HSmyk2qMN8WQjuGhaQgCk"
+    },
+    {
+      "album": {
+        "name": "Dark Lane Demo Tapes",
+        "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220487,
+      "name": "Chicago Freestyle (feat. Giveon)",
+      "url": "https://open.spotify.com/track/4wVOKKEHUJxHCFFNUWDn0B"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236795,
+      "name": "Circo Loco",
+      "url": "https://open.spotify.com/track/7GeTsDIc5ykNB6lORO6Cee"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245226,
+      "name": "Controlla",
+      "url": "https://open.spotify.com/track/3O8NlPh2LByMU9lSRSHedm"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208813,
+      "name": "Crew Love",
+      "url": "https://open.spotify.com/track/0V4l4GQhgnWQGtCWpvA7va"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157390,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283550,
+      "name": "Do Not Disturb",
+      "url": "https://open.spotify.com/track/2KvHC9z14GSl4YpkNMX384"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 245786,
+      "name": "Don\u2019t Matter To Me",
+      "url": "https://open.spotify.com/track/36ONiya0OANYknz0GgJmwB"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245786,
+      "name": "Don\u2019t Matter To Me (with Michael Jackson)",
+      "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
+    },
+    {
+      "album": {
+        "name": "Ela \u00c9 do Tipo (feat. Drake) [Remix]",
+        "url": "https://open.spotify.com/album/76DKVptBQueRuRfpf3YM9m"
+      },
+      "artists": [
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 212432,
+      "name": "Ela \u00c9 do Tipo (feat. Drake) - Remix",
+      "url": "https://open.spotify.com/track/7qLnSuxwLNlcapat8OCWZp"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 302173,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/1v1IXPXl73Z7zy6f5tUa9n"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302173,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/5Psnhdkyanjpgc2P8A5TSM"
+    },
+    {
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6cmXX1EiigAAyvahpqfa4c"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245131,
+      "name": "F*****g Fans",
+      "url": "https://open.spotify.com/track/3RkNXZvOSMMElmmXztDc94"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1E1eyI5uGllppJZCxNoF9w"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4XoP1AkbOurU9CeZ2rMEz2"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210937,
+      "name": "Fake Love",
+      "url": "https://open.spotify.com/track/343YBumqHu19cGoGARUTsd"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240653,
+      "name": "Feel No Ways",
+      "url": "https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/42wvKYHFezpmDuAP43558f"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182080,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/11I2FQz8akj8jyRDnKuhMH"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182080,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/2WP8G2pdddDmnh1xbfKBOI"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182080,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/590bUp2TKTfTS9NfiD4Nmn"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Fire & Desire",
+      "url": "https://open.spotify.com/track/4BhGTc3Cgay2U1QcTS7vQe"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6ltWTSzsV2TaSsOhoA8eBC"
+    },
+    {
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357706,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/0GaBIpyHvytM1UBYmqXu08"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 322160,
+      "name": "From Time",
+      "url": "https://open.spotify.com/track/2WC4sK0ryyysQhtDok9Ytr"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229303,
+      "name": "Get Along Better",
+      "url": "https://open.spotify.com/track/5ScbulRnixQ2XAdvrPMFjz"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250337,
+      "name": "Get It Together",
+      "url": "https://open.spotify.com/track/7y6c07pgjZvtHI9kuMVqk1"
+    },
+    {
+      "album": {
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221979,
+      "name": "Girls Want Girls (with Lil Baby)",
+      "url": "https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/2VWbHHhWnMzKWPUs4IEEW9"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198973,
+      "name": "God's Plan",
+      "url": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+    },
+    {
+      "album": {
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
+      },
+      "artists": [
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
+    },
+    {
+      "album": {
+        "name": "Port of Miami 2",
+        "url": "https://open.spotify.com/album/1mgw5rbUS94uif2ce9QCf0"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349600,
+      "name": "Gold Roses (feat. Drake)",
+      "url": "https://open.spotify.com/track/1rX5L6pyl3rVWb55D8Cprr"
+    },
+    {
+      "album": {
+        "name": "GREECE (feat. Drake)",
+        "url": "https://open.spotify.com/album/3O6ywzP5LE5msmuBBTpaIN"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218901,
+      "name": "GREECE (feat. Drake)",
+      "url": "https://open.spotify.com/track/35RJhm1pEovTBwnNR0zWad"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189229,
+      "name": "Gyalchester",
+      "url": "https://open.spotify.com/track/6UjfByV1lDLW0SOVQA4NAi"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235986,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 235986,
+      "name": "Headlines",
+      "url": "https://open.spotify.com/track/7kfTqGMzIHFWeBeOJALzRf"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/14Rcq31SafFBHNEwXrtR2B"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/3s8Lsh6OjP2uWK6UYaTzEv"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/19Lq7xvNJA6vJUrSLHsPdD"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227880,
+      "name": "Hold On, We're Going Home",
+      "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399153,
+      "name": "Hours In Silence",
+      "url": "https://open.spotify.com/track/0sSRLXxknVTQDStgU1NqpY"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 290791,
+      "name": "Houstatlantavegas",
+      "url": "https://open.spotify.com/track/3XLSlQLJf3Ut0zvMUxnF1h"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206626,
+      "name": "HYFR (Hell Ya Fucking Right)",
+      "url": "https://open.spotify.com/track/0m1KYWlT6LhFRBDVq9UNx4"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214466,
+      "name": "I'm Upset",
+      "url": "https://open.spotify.com/track/1iSZPndzmY6NvL1jAtIvY1"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214466,
+      "name": "I'm Upset",
+      "url": "https://open.spotify.com/track/3qN5qMTKyEEmiTZD38BNTT"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302492,
+      "name": "Ignant Shit (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2hcohLIysMxofYziluXCoX"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252378,
+      "name": "IMY2 (with Kid Cudi)",
+      "url": "https://open.spotify.com/track/7F9cT6hIRhnFCYP6GKS0tf"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217925,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217933,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/0bAkKNCQfWkexHFn7fIKns"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296568,
+      "name": "In The Bible (with Lil Durk & Giveon)",
+      "url": "https://open.spotify.com/track/61S79KIVA4I9FXbnsylEHT"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218364,
+      "name": "Jimmy Cooks (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+    },
+    {
+      "album": {
+        "name": "What A Time To Be Alive",
+        "url": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205879,
+      "name": "Jumpman",
+      "url": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Project Pat",
+          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242965,
+      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
+      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+    },
+    {
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275840,
+      "name": "Know Yourself",
+      "url": "https://open.spotify.com/track/5InOp6q2vvx0fShv3bzFLZ"
+    },
+    {
+      "album": {
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261492,
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "album": {
+        "name": "If You're Reading This It's Too Late",
+        "url": "https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241853,
+      "name": "Legend",
+      "url": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"
+    },
+    {
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383036,
+      "name": "Lemon Pepper Freestyle (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI"
+    },
+    {
+      "album": {
+        "name": "Life Is Good (feat. Drake)",
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237735,
+      "name": "Life Is Good (feat. Drake)",
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "album": {
+        "name": "Look Alive (feat. Drake)",
+        "url": "https://open.spotify.com/album/7GGoJfKFOwDNuiLjjfzyCS"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 181263,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/4qKcDkK6siZ7Jp1Jb4m0aL"
+    },
+    {
+      "album": {
+        "name": "Simi",
+        "url": "https://open.spotify.com/album/6NrsgXTJ3x2RRR8b0v2M7S"
+      },
+      "artists": [
+        {
+          "name": "BlocBoy JB",
+          "url": "https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181414,
+      "name": "Look Alive (feat. Drake)",
+      "url": "https://open.spotify.com/track/6HJ34Zyw6bg8yGm28AxLXf"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228461,
+      "name": "Love All (with JAY-Z)",
+      "url": "https://open.spotify.com/track/4VCbgIdr8ptegWeJpqLVHH"
+    },
+    {
+      "album": {
+        "name": "Rap Champions",
+        "url": "https://open.spotify.com/album/46NIT12md7kqLANzbIla2G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 197973,
+      "name": "LOYAL",
+      "url": "https://open.spotify.com/track/3DyMFKj8ejtfG3uKk0lgdS"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/4QTfWxMZjLRhQ9zxomi4t4"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/3LnJM1B5Mjgx5LfT9plXUU"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-18",
+      "duration_ms": 176179,
+      "name": "Lust For Life",
+      "url": "https://open.spotify.com/track/1v24T2ug4TlssYZvI3aL4O"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170501,
+      "name": "Major Distribution",
+      "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/63WdJvk8G9hxJn8u5rswNh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 219893,
+      "name": "Make Me Proud",
+      "url": "https://open.spotify.com/track/0pN1Ld0Fr9DTUaCGbKRvlF"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219893,
+      "name": "Make Me Proud",
+      "url": "https://open.spotify.com/track/7yfg0Eer6UZZt5tZ1XdsWz"
+    },
+    {
+      "album": {
+        "name": "Make Me Proud",
+        "url": "https://open.spotify.com/album/4P9NQ88JRt2r39QlsevM1n"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220053,
+      "name": "Make Me Proud",
+      "url": "https://open.spotify.com/track/3psB8LAWdw813k9ZmLvjmZ"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336924,
+      "name": "Massive",
+      "url": "https://open.spotify.com/track/28JBD8p18xNuOfyV7Cotdn"
+    },
+    {
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246133,
+      "name": "MELTDOWN (feat. Drake)",
+      "url": "https://open.spotify.com/track/67nepsnrcZkowTxMWigSbb"
+    },
+    {
+      "album": {
+        "name": "X 100PRE",
+        "url": "https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210367,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/3gE4eQH3K83Sght0ZLvuBK"
+    },
+    {
+      "album": {
+        "name": "MIA (feat. Drake)",
+        "url": "https://open.spotify.com/album/0p0W4RXcnc59jgatcdZozO"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 210367,
+      "name": "MIA (feat. Drake)",
+      "url": "https://open.spotify.com/track/116H0KvKr2Zl4RPuVBruDO"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205146,
+      "name": "Mob Ties",
+      "url": "https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK"
+    },
+    {
+      "album": {
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205426,
+      "name": "Money In The Grave (Drake ft. Rick Ross)",
+      "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273577,
+      "name": "N 2 Deep",
+      "url": "https://open.spotify.com/track/34D6FJysnQioVingDKufuf"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/0HVv5bEOiI9a0QfgcASXpX"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210746,
+      "name": "Nice For What",
+      "url": "https://open.spotify.com/track/3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "No Friends In The Industry",
+      "url": "https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6"
+    },
+    {
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/5PDImM7DglB3cvlkHWWz2h"
+    },
+    {
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "album": {
+        "name": "No Guidance (feat. Drake)",
+        "url": "https://open.spotify.com/album/1ypdCwJwVaUHuFTnvvQbMX"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/7FEwp8BavoEVE3AnxJDchc"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 238613,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/2Vx8E3K5icPZR7OCklWBXX"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238614,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188189,
+      "name": "November 18th",
+      "url": "https://open.spotify.com/track/0JaVdpmiex2EP7bBzyKVTa"
+    },
+    {
+      "album": {
+        "name": "The Best In The World Pack",
+        "url": "https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219506,
+      "name": "Omert\u00e0",
+      "url": "https://open.spotify.com/track/3kCwyvhvVTyehIzYN2I0nF"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261543,
+      "name": "On BS",
+      "url": "https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX"
+    },
+    {
+      "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/0G1ffjfFuTUTVjDrVdLimH"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/12VWzyPDBCc8fqeWCAfNwR"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173986,
+      "name": "One Dance",
+      "url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+    },
+    {
+      "album": {
+        "name": "Oprah\u2019s Bank Account (Lil Yachty & DaBaby feat. Drake)",
+        "url": "https://open.spotify.com/album/56Abu6NLfNM5X7rJhrUdO4"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206702,
+      "name": "Oprah\u2019s Bank Account (Lil Yachty & DaBaby feat. Drake)",
+      "url": "https://open.spotify.com/track/7wsmIIm0xWmtP7TmACXkJn"
+    },
+    {
+      "album": {
+        "name": "808 Bangers",
+        "url": "https://open.spotify.com/album/7MASRGI1ZS1AiuwGAWslHs"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-03",
+      "duration_ms": 153406,
+      "name": "Over the Top",
+      "url": "https://open.spotify.com/track/6dnfxKKuZoPzV2SFjbMS5S"
+    },
+    {
+      "album": {
+        "name": "Buy or Bye 2",
+        "url": "https://open.spotify.com/album/2ioMOjxtndeNFrssEFnIjF"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/22ruOqBqBRiZDiXFud4OXa"
+    },
+    {
+      "album": {
+        "name": "Over The Top (feat. Drake)",
+        "url": "https://open.spotify.com/album/4ROMS3rcR9JepxAtDRpvc5"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-08-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 153406,
+      "name": "Over The Top (feat. Drake)",
+      "url": "https://open.spotify.com/track/3yaYgjEFkRw3PVjW9mV1TO"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178623,
+      "name": "Papi\u2019s Home",
+      "url": "https://open.spotify.com/track/6jy9yJfgCsMHdu2Oz4BGKX"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298940,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+    },
+    {
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/3MLOAIJNWWS8FQpvdaiKR7"
+    },
+    {
+      "album": {
+        "name": "POPSTAR (feat. Drake)",
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200221,
+      "name": "POPSTAR (feat. Drake)",
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236614,
+      "name": "Portland",
+      "url": "https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242026,
+      "name": "Pussy & Millions (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269883,
+      "name": "Race My Mind",
+      "url": "https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160049,
+      "name": "Red Button",
+      "url": "https://open.spotify.com/track/0giAhiU1PIrYKHRpKNp4XT"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239359,
+      "name": "Rich Flex",
+      "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/1JZxCJ86P4GUYkHj03CgDT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234373,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6Na5uKk5SsqZimk0hAWo8y"
+    },
+    {
+      "album": {
+        "name": "Slime You Out",
+        "url": "https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2023-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV"
+    },
+    {
+      "album": {
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-11-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Spin Bout U",
+      "url": "https://open.spotify.com/track/2ZL7WZcjuYKi1KUDtp4kCC"
+    },
+    {
+      "album": {
+        "name": "Attention - R&B Favourites",
+        "url": "https://open.spotify.com/album/4HendAoi1Gnkm8O4Q0rQ8P"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-04",
+      "duration_ms": 260519,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6isRn13M76FHcFFefJwSUj"
+    },
+    {
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/5kHmg5RnlHYbArvbVylojB"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 260519,
+      "name": "Stars Align (with Drake)",
+      "url": "https://open.spotify.com/track/2lBExcAjBgX7Jb480goU9B"
+    },
+    {
+      "album": {
+        "name": "Wildest Dreams",
+        "url": "https://open.spotify.com/album/2ZdYh11KscDPsVKtxQY0ev"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260519,
+      "name": "Stars Align (with Drake)",
+      "url": "https://open.spotify.com/track/5hTl2uxJGd1sbLtovguuuk"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same",
+        "url": "https://open.spotify.com/album/1XslIirSxfAhhxRdn4Li9t"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "Started From the Bottom",
+      "url": "https://open.spotify.com/track/5DI9jxTHrEiFAhStG7VA8E"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174133,
+      "name": "Started From the Bottom",
+      "url": "https://open.spotify.com/track/5bm0CcD5R9Nj04QbMvwugt"
+    },
+    {
+      "album": {
+        "name": "Nothing Was The Same (Deluxe)",
+        "url": "https://open.spotify.com/album/2gXTTQ713nCELgPOS0qWyt"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174133,
+      "name": "Started From the Bottom",
+      "url": "https://open.spotify.com/track/6V2D8Lls36APk0THDjBDfE"
+    },
+    {
+      "album": {
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2022-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+    },
+    {
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243227,
+      "name": "Sticky",
+      "url": "https://open.spotify.com/track/4rmVZajAF7PkrCagGPHbqa"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189853,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/433P7tDcIAi6NLnf4Sh6tI"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/0G1ffjfFuTUTVjDrVdLimH"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189853,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/4YJmZfvlheSziXem8HBWrj"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264130,
+      "name": "Stories About My Brother",
+      "url": "https://open.spotify.com/track/6pFV3CL0xT8C418wUKOgKJ"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375050,
+      "name": "Successful (feat. Trey Songz & Lil Wayne)",
+      "url": "https://open.spotify.com/track/6NwhtCYkfwWlcR62Ac4E7y"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277386,
+      "name": "Take Care",
+      "url": "https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ"
+    },
+    {
+      "album": {
+        "name": "The Truth Hurts",
+        "url": "https://open.spotify.com/album/2bY51cinHBlscXIoLUsDYa"
+      },
+      "artists": [
+        {
+          "name": "Drakeo the Ruler",
+          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227705,
+      "name": "Talk To Me",
+      "url": "https://open.spotify.com/track/3Kwdm0iLyEiRB8InsZoo6n"
+    },
+    {
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219692,
+      "name": "Teenage Fever",
+      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/2o9McLtDM7mbODV7yZF2mc"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157600,
+      "name": "That\u2019s How You Feel",
+      "url": "https://open.spotify.com/track/0SVsEdvot6vU4byv5yW0oj"
+    },
+    {
+      "album": {
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157605,
+      "name": "That\u2019s How You Feel",
+      "url": "https://open.spotify.com/track/41a7dZcq30Ss5kPMayWRV0"
+    },
+    {
+      "album": {
+        "name": "Care Package",
+        "url": "https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240956,
+      "name": "The Motion",
+      "url": "https://open.spotify.com/track/0Tacxc5lDJ8LwiO1pWNSl8"
+    },
+    {
+      "album": {
+        "name": "The Motto (Explicit Version)",
+        "url": "https://open.spotify.com/album/4yyKZOy1Nq9DPfzf5O4Hpg"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 181400,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/49ySwzAyvxcNXOkOP6ZB1L"
+    },
+    {
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351220,
+      "name": "The Remorse",
+      "url": "https://open.spotify.com/track/1cCXT1cErAY6tmIqHbodrt"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374025,
+      "name": "The Shoe Fits",
+      "url": "https://open.spotify.com/track/3z91ibrazNnusM2nSVY2NR"
+    },
+    {
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263373,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z"
+    },
+    {
+      "album": {
+        "name": "Toosie Slide",
+        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247058,
+      "name": "Toosie Slide",
+      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
+    },
+    {
+      "album": {
+        "name": "Rise Of An Empire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0UwpSCPnNPksM1meQJnBAF"
+      },
+      "artists": [
+        {
+          "name": "Young Money",
+          "url": "https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188320,
+      "name": "Trophies",
+      "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
+    },
+    {
+      "album": {
+        "name": "The Pinkprint (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220466,
+      "name": "Truffle Butter",
+      "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308755,
+      "name": "TSU",
+      "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/24SDeYAeTFda8OUzVI1VR6"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2020-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "album": {
+        "name": "Thank Me Later",
+        "url": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/75L0qdzRnhwV62UXoNq3pE"
+    },
+    {
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382262,
+      "name": "Uptown (feat. Bun B & Lil Wayne)",
+      "url": "https://open.spotify.com/track/0q7LGcVSpsIoSbjChtZ8lI"
+    },
+    {
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2022-05-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189893,
+      "name": "WAIT FOR U (feat. Drake & Tems)",
+      "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276147,
+      "name": "Walk It Talk It",
+      "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
+    },
+    {
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192956,
+      "name": "Wants and Needs (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/65OVbaJR5O1RmwOQx0875b"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257604,
+      "name": "Way 2 Sexy (with Future & Young Thug)",
+      "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
+    },
+    {
+      "album": {
+        "name": "We Caa Done (feat. Drake)",
+        "url": "https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245240,
+      "name": "We Caa Done (feat. Drake)",
+      "url": "https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1"
+    },
+    {
+      "album": {
+        "name": "Scary Hours 2",
+        "url": "https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2021-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178153,
+      "name": "What\u2019s Next",
+      "url": "https://open.spotify.com/track/3aQem4jVGdhtg116TmJnHz"
+    },
+    {
+      "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "Where Ya At (feat. Drake)",
+      "url": "https://open.spotify.com/track/5nN8BwAQDJDguq7Dpd3JQQ"
+    },
+    {
+      "album": {
+        "name": "Who Told You (feat. Drake)",
+        "url": "https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208917,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181428,
+      "name": "Wick Man",
+      "url": "https://open.spotify.com/track/3TDTfJarTsRXCd8lITkTRv"
+    },
+    {
+      "album": {
+        "name": "Won't Be Late (feat. Drake)",
+        "url": "https://open.spotify.com/album/4v0FSMsulZqfi28KIdwDfb"
+      },
+      "artists": [
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "Won't Be Late (feat. Drake)",
+      "url": "https://open.spotify.com/track/2sqsNXfN0HtgDEgaHXiUTa"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133762,
+      "name": "Yebba\u2019s Heartbreak",
+      "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
+    },
+    {
+      "album": {
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
+    },
+    {
+      "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/20llijrPaOy2qVivkSXuRB"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230709,
+      "name": "You Broke My Heart",
+      "url": "https://open.spotify.com/track/2FBo7mg3It3YOefMhBKk60"
+    },
+    {
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2021-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213103,
+      "name": "You Only Live Twice (with Lil Wayne & Rick Ross)",
+      "url": "https://open.spotify.com/track/50ceCGZ3oD3U5caQV5bP6f"
+    },
+    {
+      "album": {
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226220,
+      "name": "You're Mines Still (feat. Drake)",
+      "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
+    },
+    {
+      "album": {
+        "name": "You\u2019re Mines Still (feat. Drake)",
+        "url": "https://open.spotify.com/album/7MQJy9di8JoLJOkG5mZAry"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2020-12-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 226220,
+      "name": "You\u2019re Mines Still (feat. Drake)",
+      "url": "https://open.spotify.com/track/7E2C5rBLpCKwQlhJPVFBRS"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7QOv5kjbU68"
 }

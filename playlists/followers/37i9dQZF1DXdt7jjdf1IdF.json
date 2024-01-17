@@ -1,283 +1,587 @@
 {
-  "2023-03-26": 79077,
-  "2023-03-27": 79083,
-  "2023-03-28": 79098,
-  "2023-03-29": 79115,
-  "2023-03-30": 79134,
-  "2023-03-31": 79134,
-  "2023-04-01": 79145,
-  "2023-04-02": 79166,
-  "2023-04-03": 79184,
-  "2023-04-04": 79190,
-  "2023-04-05": 79204,
-  "2023-04-06": 79213,
-  "2023-04-07": 79226,
-  "2023-04-09": 79248,
-  "2023-04-10": 79277,
-  "2023-04-11": 79301,
-  "2023-04-12": 79301,
-  "2023-04-13": 79303,
-  "2023-04-14": 79316,
-  "2023-04-15": 79331,
-  "2023-04-16": 79345,
-  "2023-04-17": 79368,
-  "2023-04-18": 79380,
-  "2023-04-19": 79390,
-  "2023-04-20": 79405,
-  "2023-04-21": 79416,
-  "2023-04-22": 79430,
-  "2023-04-23": 79440,
-  "2023-04-24": 79449,
-  "2023-04-25": 79462,
-  "2023-04-26": 79473,
-  "2023-04-27": 79486,
-  "2023-04-28": 79499,
-  "2023-04-29": 79509,
-  "2023-04-30": 79530,
-  "2023-05-01": 79546,
-  "2023-05-02": 79553,
-  "2023-05-03": 79566,
-  "2023-05-04": 79574,
-  "2023-05-05": 79595,
-  "2023-05-06": 79604,
-  "2023-05-07": 79615,
-  "2023-05-08": 79632,
-  "2023-05-09": 79647,
-  "2023-05-10": 79653,
-  "2023-05-11": 79673,
-  "2023-05-12": 79678,
-  "2023-05-13": 79688,
-  "2023-05-14": 79695,
-  "2023-05-15": 79713,
-  "2023-05-16": 79723,
-  "2023-05-17": 79737,
-  "2023-05-18": 79749,
-  "2023-05-19": 79766,
-  "2023-05-20": 79798,
-  "2023-05-21": 79798,
-  "2023-05-22": 79798,
-  "2023-05-23": 79818,
-  "2023-05-24": 79856,
-  "2023-05-25": 79856,
-  "2023-05-26": 79874,
-  "2023-05-27": 79880,
-  "2023-05-28": 79896,
-  "2023-05-29": 79896,
-  "2023-05-30": 79931,
-  "2023-05-31": 79937,
-  "2023-06-01": 79947,
-  "2023-06-02": 79954,
-  "2023-06-03": 79959,
-  "2023-06-04": 79975,
-  "2023-06-05": 79995,
-  "2023-06-06": 80017,
-  "2023-06-07": 80030,
-  "2023-06-08": 80052,
-  "2023-06-09": 80060,
-  "2023-06-10": 80069,
-  "2023-06-11": 80087,
-  "2023-06-12": 80098,
-  "2023-06-13": 80121,
-  "2023-06-14": 80131,
-  "2023-06-15": 80142,
-  "2023-06-16": 80159,
-  "2023-06-17": 80162,
-  "2023-06-18": 80163,
-  "2023-06-19": 80175,
-  "2023-06-20": 80189,
-  "2023-06-21": 80198,
-  "2023-06-22": 80209,
-  "2023-06-23": 80217,
-  "2023-06-24": 80231,
-  "2023-06-25": 80245,
-  "2023-06-26": 80254,
-  "2023-06-27": 80264,
-  "2023-06-28": 80277,
-  "2023-06-29": 80289,
-  "2023-06-30": 80296,
-  "2023-07-01": 80314,
-  "2023-07-02": 80314,
-  "2023-07-03": 80331,
-  "2023-07-04": 80345,
-  "2023-07-05": 80354,
-  "2023-07-06": 80391,
-  "2023-07-07": 80391,
-  "2023-07-08": 80408,
-  "2023-07-09": 80428,
-  "2023-07-10": 80441,
-  "2023-07-11": 80447,
-  "2023-07-12": 80464,
-  "2023-07-13": 80477,
-  "2023-07-14": 80489,
-  "2023-07-15": 80496,
-  "2023-07-16": 80514,
-  "2023-07-17": 80521,
-  "2023-07-18": 80526,
-  "2023-07-19": 80541,
-  "2023-07-20": 80553,
-  "2023-07-21": 80575,
-  "2023-07-22": 80588,
-  "2023-07-23": 80606,
-  "2023-07-24": 80612,
-  "2023-07-25": 80625,
-  "2023-07-26": 80623,
-  "2023-07-27": 80638,
-  "2023-07-28": 80644,
-  "2023-07-29": 80648,
-  "2023-07-30": 80657,
-  "2023-07-31": 80668,
-  "2023-08-01": 80682,
-  "2023-08-02": 80698,
-  "2023-08-03": 80719,
-  "2023-08-04": 80731,
-  "2023-08-05": 80748,
-  "2023-08-06": 80781,
-  "2023-08-07": 80781,
-  "2023-08-08": 80797,
-  "2023-08-09": 80812,
-  "2023-08-10": 80828,
-  "2023-08-11": 80841,
-  "2023-08-12": 80874,
-  "2023-08-13": 80886,
-  "2023-08-14": 80907,
-  "2023-08-15": 80939,
-  "2023-08-16": 80939,
-  "2023-08-17": 80948,
-  "2023-08-18": 80971,
-  "2023-08-19": 80983,
-  "2023-08-20": 81004,
-  "2023-08-21": 81028,
-  "2023-08-22": 81051,
-  "2023-08-23": 81065,
-  "2023-08-24": 81080,
-  "2023-08-25": 81086,
-  "2023-08-26": 81100,
-  "2023-08-27": 81114,
-  "2023-08-28": 81123,
-  "2023-08-29": 81127,
-  "2023-08-30": 81138,
-  "2023-08-31": 81147,
-  "2023-09-01": 81162,
-  "2023-09-02": 81162,
-  "2023-09-03": 81175,
-  "2023-09-04": 81175,
-  "2023-09-05": 81203,
-  "2023-09-06": 81221,
-  "2023-09-07": 81221,
-  "2023-09-08": 81221,
-  "2023-09-09": 81263,
-  "2023-09-10": 81277,
-  "2023-09-11": 81291,
-  "2023-09-12": 81291,
-  "2023-09-13": 81317,
-  "2023-09-14": 81317,
-  "2023-09-15": 81347,
-  "2023-09-16": 81356,
-  "2023-09-17": 81356,
-  "2023-09-18": 81356,
-  "2023-09-19": 81395,
-  "2023-09-20": 81413,
-  "2023-09-21": 81425,
-  "2023-09-22": 81449,
-  "2023-09-23": 81449,
-  "2023-09-24": 81449,
-  "2023-09-25": 81449,
-  "2023-09-26": 81551,
-  "2023-09-27": 81551,
-  "2023-09-28": 81551,
-  "2023-09-29": 81551,
-  "2023-09-30": 81551,
-  "2023-10-01": 81551,
-  "2023-10-02": 81629,
-  "2023-10-03": 81648,
-  "2023-10-04": 81648,
-  "2023-10-05": 81677,
-  "2023-10-06": 81696,
-  "2023-10-07": 81696,
-  "2023-10-08": 81696,
-  "2023-10-09": 81696,
-  "2023-10-10": 81696,
-  "2023-10-11": 81498,
-  "2023-10-12": 81498,
-  "2023-10-13": 81139,
-  "2023-10-14": 81139,
-  "2023-10-15": 81139,
-  "2023-10-16": 81139,
-  "2023-10-17": 81139,
-  "2023-10-18": 81139,
-  "2023-10-19": 81139,
-  "2023-10-20": 81139,
-  "2023-10-21": 81139,
-  "2023-10-22": 81139,
-  "2023-10-23": 81139,
-  "2023-10-24": 81139,
-  "2023-10-25": 81139,
-  "2023-10-26": 81139,
-  "2023-10-27": 81139,
-  "2023-10-28": 81139,
-  "2023-10-29": 81139,
-  "2023-10-30": 81139,
-  "2023-10-31": 81139,
-  "2023-11-01": 81139,
-  "2023-11-02": 81139,
-  "2023-11-03": 81139,
-  "2023-11-04": 81139,
-  "2023-11-05": 81139,
-  "2023-11-06": 81139,
-  "2023-11-07": 81139,
-  "2023-11-08": 81139,
-  "2023-11-09": 81139,
-  "2023-11-10": 81139,
-  "2023-11-11": 81251,
-  "2023-11-12": 81251,
-  "2023-11-13": 81251,
-  "2023-11-14": 81251,
-  "2023-11-15": 81251,
-  "2023-11-16": 81251,
-  "2023-11-17": 81306,
-  "2023-11-18": 81306,
-  "2023-11-19": 81306,
-  "2023-11-20": 81306,
-  "2023-11-21": 81306,
-  "2023-11-22": 81306,
-  "2023-11-23": 81306,
-  "2023-11-24": 81306,
-  "2023-11-25": 81306,
-  "2023-11-26": 81306,
-  "2023-11-27": 81306,
-  "2023-11-28": 81306,
-  "2023-11-29": 81306,
-  "2023-11-30": 81306,
-  "2023-12-01": 81306,
-  "2023-12-02": 81306,
-  "2023-12-03": 81306,
-  "2023-12-04": 81306,
-  "2023-12-05": 81306,
-  "2023-12-06": 81306,
-  "2023-12-07": 81306,
-  "2023-12-08": 81306,
-  "2023-12-09": 81306,
-  "2023-12-10": 81306,
-  "2023-12-11": 81306,
-  "2023-12-12": 81306,
-  "2023-12-13": 81306,
-  "2023-12-14": 81696,
-  "2023-12-15": 81701,
-  "2023-12-16": 81733,
-  "2023-12-17": 81754,
-  "2023-12-18": 81785,
-  "2023-12-19": 81798,
-  "2023-12-20": 81822,
-  "2023-12-21": 81838,
-  "2023-12-22": 81851,
-  "2023-12-23": 81867,
-  "2023-12-24": 81892,
-  "2023-12-25": 81903,
-  "2023-12-26": 81908,
-  "2023-12-27": 81939,
-  "2023-12-30": 81990,
-  "2023-12-31": 81994,
-  "2024-01-01": 82013,
-  "2024-01-02": 82036,
-  "2024-01-03": 82046
+  "2024-01-17": 81061,
+  "date_first_scraped": "2023-03-26",
+  "description": "Dengar lagu-lagu teristimewa yang dapat membuat kita jatuh hati dan terjebak nostalgia",
+  "name": "This Is: Raisa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Anganku Anganmu",
+        "url": "https://open.spotify.com/album/2rcgujGp62RuIQljQTuiHK"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Isyana Sarasvati",
+          "url": "https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271467,
+      "name": "Anganku Anganmu",
+      "url": "https://open.spotify.com/track/3jK5ndIlxMK3rN0gjlfkzh"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214893,
+      "name": "Apalah (Arti Menunggu)",
+      "url": "https://open.spotify.com/track/6iBuCdHWsIJ3qCDs50w2lS"
+    },
+    {
+      "album": {
+        "name": "Bahasa Kalbu",
+        "url": "https://open.spotify.com/album/4rwf3B24qEi1QgQLz9R1nh"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351247,
+      "name": "Bahasa Kalbu",
+      "url": "https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV"
+    },
+    {
+      "album": {
+        "name": "Begitulah Cinta",
+        "url": "https://open.spotify.com/album/0n5HOiKpKFxfbGc883OEvy"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Begitulah Cinta",
+      "url": "https://open.spotify.com/track/0sBgb8w0ZomZux1ip03fMy"
+    },
+    {
+      "album": {
+        "name": "It's Personal",
+        "url": "https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276343,
+      "name": "Berdamai",
+      "url": "https://open.spotify.com/track/5MQPJBK0VdL99aLqSKuOTM"
+    },
+    {
+      "album": {
+        "name": "Biar Menjadi Kenangan",
+        "url": "https://open.spotify.com/album/7b9Lm3r0MDZM4MCreFJi9c"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        },
+        {
+          "name": "Ahmad Dhani",
+          "url": "https://open.spotify.com/artist/2TSeIynP2u22bqZOgKkbZm"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313382,
+      "name": "Biar Menjadi Kenangan",
+      "url": "https://open.spotify.com/track/7ojaR6Rp7lgu64RoOaSn6a"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227343,
+      "name": "Biarkanlah",
+      "url": "https://open.spotify.com/track/0FERqRAVmXwPasxY5Jt8k1"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233306,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/3swRHu2KvGpRUSBz5tjkKY"
+    },
+    {
+      "album": {
+        "name": "It's Personal",
+        "url": "https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203000,
+      "name": "Cinta Sederhana",
+      "url": "https://open.spotify.com/track/5srmbaORKvTMUYpYME1fuy"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/6Khn20yWc0YGJy1wbkz3Be"
+    },
+    {
+      "album": {
+        "name": "It's Personal",
+        "url": "https://open.spotify.com/album/2emFJftu1AhmTR9trpLIIW"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245411,
+      "name": "Jangan Cepat Berlalu",
+      "url": "https://open.spotify.com/track/0UdaSZnSoXauJgyfo6UVsa"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207403,
+      "name": "Jatuh Hati",
+      "url": "https://open.spotify.com/track/0rgEL2cD2T5MDzSDJTQNlw"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257252,
+      "name": "Kali Kedua",
+      "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
+    },
+    {
+      "album": {
+        "name": "Kembali",
+        "url": "https://open.spotify.com/album/6Zu5WBrepWpuJEX3BuzCg1"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263871,
+      "name": "Kembali",
+      "url": "https://open.spotify.com/track/12DwMhWoEn61zfmZ0uKpQX"
+    },
+    {
+      "album": {
+        "name": "Kutukan (Cinta Pertama)",
+        "url": "https://open.spotify.com/album/2ftGTGRiW13plKqX63iwpa"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229959,
+      "name": "Kutukan (Cinta Pertama)",
+      "url": "https://open.spotify.com/track/08V0RRqAqGVCl5Csl06qfc"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294666,
+      "name": "LDR",
+      "url": "https://open.spotify.com/track/6WIgm0evaMly8GH6VzdAo8"
+    },
+    {
+      "album": {
+        "name": "It's Personal",
+        "url": "https://open.spotify.com/album/7i3fjDLM0IUgQVewdDZitV"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Love & Let Go",
+      "url": "https://open.spotify.com/track/7mdMV0cnYgJNRZRFFSfPns"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195164,
+      "name": "Love You Longer",
+      "url": "https://open.spotify.com/track/6XMGIUnmqmGxfB6ggxMBoh"
+    },
+    {
+      "album": {
+        "name": "Yovie and His Friends : IRREPLACEABLE (#takkanterganti)",
+        "url": "https://open.spotify.com/album/6Fgc005bO1YPviuAkzyz6S"
+      },
+      "artists": [
+        {
+          "name": "Yovie Widianto",
+          "url": "https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp"
+        },
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208266,
+      "name": "Mantan Terindah",
+      "url": "https://open.spotify.com/track/1wE4Iqv0tXXuZBA67PoGvw"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Melangkah",
+      "url": "https://open.spotify.com/track/2ZVCXz3dNKAWbucXuKDpM0"
+    },
+    {
+      "album": {
+        "name": "Nyaman Tak Cukup",
+        "url": "https://open.spotify.com/album/7CxcxDQ9biYRFRTQ6rw53f"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230239,
+      "name": "Nyaman Tak Cukup",
+      "url": "https://open.spotify.com/track/2o3RmRoQ5ZrHrPYRHykS0e"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288593,
+      "name": "Nyawa dan Harapan",
+      "url": "https://open.spotify.com/track/6AqPjCYNosmuQ6QBLvbAjX"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224600,
+      "name": "Pemeran Utama",
+      "url": "https://open.spotify.com/track/0S8ihONhvsnAbcTMnNqPAE"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190080,
+      "name": "Pergilah",
+      "url": "https://open.spotify.com/track/2zalhpGuVqJFCegmdehALm"
+    },
+    {
+      "album": {
+        "name": "Ragu",
+        "url": "https://open.spotify.com/album/3FWd0eQDsSRsU2TK0ZYL8s"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Ragu",
+      "url": "https://open.spotify.com/track/6pSRXKAwftu2a7KOjRlbz3"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+    },
+    {
+      "album": {
+        "name": "Tak Berharap Lagi",
+        "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-12-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237769,
+      "name": "Tak Berharap Lagi",
+      "url": "https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ"
+    },
+    {
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/3ooYP9owXIGTAzOFLisMwB"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210733,
+      "name": "Teka Teki",
+      "url": "https://open.spotify.com/track/5FEcywzPnpul59cCsBmZ6p"
+    },
+    {
+      "album": {
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206333,
+      "name": "Terjebak Nostalgia",
+      "url": "https://open.spotify.com/track/5i29InIyuEG5121x1onevN"
+    },
+    {
+      "album": {
+        "name": "Handmade",
+        "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283022,
+      "name": "Usai Di Sini",
+      "url": "https://open.spotify.com/track/6i5sIqE4lglanzlXXl8gCj"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/3PvrFFoalcNBqVhzrYPidR"
+      },
+      "artists": [
+        {
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
+        }
+      ],
+      "date_added": "2023-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244448,
+      "name": "You",
+      "url": "https://open.spotify.com/track/79xK6U9ebkeiE5W3n0ejAI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdt7jjdf1IdF"
 }

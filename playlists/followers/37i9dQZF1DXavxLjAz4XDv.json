@@ -1,569 +1,2637 @@
 {
-  "2022-06-10": 8347,
-  "2022-06-11": 8360,
-  "2022-06-12": 8368,
-  "2022-06-13": 8379,
-  "2022-06-14": 8392,
-  "2022-06-15": 8401,
-  "2022-06-16": 8410,
-  "2022-06-17": 8414,
-  "2022-06-18": 8423,
-  "2022-06-19": 8454,
-  "2022-06-20": 8454,
-  "2022-06-21": 8469,
-  "2022-06-22": 8478,
-  "2022-06-23": 8478,
-  "2022-06-24": 8491,
-  "2022-06-25": 8497,
-  "2022-06-26": 8499,
-  "2022-06-27": 8505,
-  "2022-06-28": 8510,
-  "2022-06-29": 8509,
-  "2022-06-30": 8512,
-  "2022-07-01": 8519,
-  "2022-07-02": 8528,
-  "2022-07-03": 8541,
-  "2022-07-04": 8549,
-  "2022-07-05": 8559,
-  "2022-07-06": 8565,
-  "2022-07-07": 8575,
-  "2022-07-08": 8585,
-  "2022-07-09": 8594,
-  "2022-07-10": 8596,
-  "2022-07-11": 8607,
-  "2022-07-12": 8613,
-  "2022-07-13": 8616,
-  "2022-07-14": 8626,
-  "2022-07-15": 8638,
-  "2022-07-16": 8652,
-  "2022-07-17": 8660,
-  "2022-07-18": 8671,
-  "2022-07-19": 8678,
-  "2022-07-20": 8692,
-  "2022-07-21": 8706,
-  "2022-07-22": 8712,
-  "2022-07-23": 8722,
-  "2022-07-24": 8732,
-  "2022-07-25": 8746,
-  "2022-07-26": 8750,
-  "2022-07-27": 8756,
-  "2022-07-28": 8763,
-  "2022-07-29": 8773,
-  "2022-07-30": 8796,
-  "2022-07-31": 8796,
-  "2022-08-01": 8808,
-  "2022-08-02": 8834,
-  "2022-08-03": 8834,
-  "2022-08-04": 8843,
-  "2022-08-05": 8854,
-  "2022-08-06": 8865,
-  "2022-08-07": 8870,
-  "2022-08-08": 8881,
-  "2022-08-09": 8891,
-  "2022-08-10": 8895,
-  "2022-08-11": 8903,
-  "2022-08-12": 8916,
-  "2022-08-13": 8928,
-  "2022-08-14": 8938,
-  "2022-08-15": 8951,
-  "2022-08-16": 8966,
-  "2022-08-17": 8972,
-  "2022-08-18": 8986,
-  "2022-08-19": 9005,
-  "2022-08-20": 9013,
-  "2022-08-21": 9020,
-  "2022-08-22": 9035,
-  "2022-08-23": 9054,
-  "2022-08-24": 9064,
-  "2022-08-25": 9078,
-  "2022-08-26": 9089,
-  "2022-08-27": 9101,
-  "2022-08-28": 9111,
-  "2022-08-29": 9114,
-  "2022-08-30": 9118,
-  "2022-08-31": 9103,
-  "2022-09-01": 9088,
-  "2022-09-02": 9068,
-  "2022-09-03": 9029,
-  "2022-09-04": 9017,
-  "2022-09-05": 9027,
-  "2022-09-06": 9030,
-  "2022-09-07": 9039,
-  "2022-09-09": 9056,
-  "2022-09-10": 9060,
-  "2022-09-11": 9076,
-  "2022-09-12": 9097,
-  "2022-09-13": 9107,
-  "2022-09-15": 9125,
-  "2022-09-16": 9133,
-  "2022-09-17": 9148,
-  "2022-09-18": 9161,
-  "2022-09-19": 9172,
-  "2022-09-20": 9178,
-  "2022-09-21": 9189,
-  "2022-09-22": 9198,
-  "2022-09-23": 9219,
-  "2022-09-24": 9223,
-  "2022-09-25": 9237,
-  "2022-09-26": 9244,
-  "2022-09-27": 9257,
-  "2022-09-28": 9270,
-  "2022-09-29": 9281,
-  "2022-09-30": 9300,
-  "2022-10-01": 9313,
-  "2022-10-02": 9328,
-  "2022-10-03": 9338,
-  "2022-10-04": 9354,
-  "2022-10-05": 9368,
-  "2022-10-06": 9381,
-  "2022-10-07": 9383,
-  "2022-10-08": 9393,
-  "2022-10-09": 9412,
-  "2022-10-10": 9416,
-  "2022-10-11": 9421,
-  "2022-10-12": 9433,
-  "2022-10-13": 9442,
-  "2022-10-14": 9449,
-  "2022-10-15": 9457,
-  "2022-10-16": 9472,
-  "2022-10-17": 9488,
-  "2022-10-18": 9499,
-  "2022-10-19": 9503,
-  "2022-10-20": 9508,
-  "2022-10-21": 9515,
-  "2022-10-22": 9525,
-  "2022-10-23": 9540,
-  "2022-10-24": 9551,
-  "2022-10-25": 9564,
-  "2022-10-26": 9572,
-  "2022-10-27": 9578,
-  "2022-10-28": 9588,
-  "2022-10-29": 9594,
-  "2022-10-30": 9607,
-  "2022-10-31": 9618,
-  "2022-11-01": 9636,
-  "2022-11-02": 9641,
-  "2022-11-03": 9650,
-  "2022-11-04": 9659,
-  "2022-11-05": 9670,
-  "2022-11-06": 9685,
-  "2022-11-07": 9692,
-  "2022-11-08": 9704,
-  "2022-11-09": 9721,
-  "2022-11-10": 9733,
-  "2022-11-11": 9745,
-  "2022-11-12": 9754,
-  "2022-11-13": 9765,
-  "2022-11-14": 9781,
-  "2022-11-15": 9781,
-  "2022-11-16": 9790,
-  "2022-11-17": 9801,
-  "2022-11-18": 9808,
-  "2022-11-19": 9814,
-  "2022-11-20": 9825,
-  "2022-11-21": 9835,
-  "2022-11-22": 9851,
-  "2022-11-23": 9858,
-  "2022-11-24": 9875,
-  "2022-11-25": 9893,
-  "2022-11-26": 9906,
-  "2022-11-27": 9928,
-  "2022-11-28": 9946,
-  "2022-11-29": 9954,
-  "2022-11-30": 9959,
-  "2022-12-01": 9978,
-  "2022-12-02": 9986,
-  "2022-12-03": 9996,
-  "2022-12-04": 10008,
-  "2022-12-05": 10014,
-  "2022-12-06": 10023,
-  "2022-12-07": 10033,
-  "2022-12-08": 10047,
-  "2022-12-09": 10053,
-  "2022-12-10": 10066,
-  "2022-12-11": 10073,
-  "2022-12-12": 10085,
-  "2022-12-13": 10097,
-  "2022-12-14": 10117,
-  "2022-12-15": 10129,
-  "2022-12-16": 10146,
-  "2022-12-17": 10151,
-  "2022-12-18": 10166,
-  "2022-12-19": 10176,
-  "2022-12-20": 10192,
-  "2022-12-21": 10192,
-  "2022-12-22": 10198,
-  "2022-12-24": 10215,
-  "2022-12-25": 10223,
-  "2022-12-26": 10232,
-  "2022-12-27": 10239,
-  "2022-12-28": 10251,
-  "2022-12-29": 10260,
-  "2022-12-30": 10266,
-  "2022-12-31": 10269,
-  "2023-01-01": 10279,
-  "2023-01-02": 10290,
-  "2023-01-03": 10301,
-  "2023-01-04": 10312,
-  "2023-01-05": 10327,
-  "2023-01-06": 10349,
-  "2023-01-07": 10357,
-  "2023-01-08": 10361,
-  "2023-01-09": 10370,
-  "2023-01-10": 10383,
-  "2023-01-11": 10387,
-  "2023-01-12": 10399,
-  "2023-01-13": 10413,
-  "2023-01-14": 10433,
-  "2023-01-15": 10434,
-  "2023-01-16": 10450,
-  "2023-01-17": 10465,
-  "2023-01-18": 10482,
-  "2023-01-19": 10497,
-  "2023-01-20": 10510,
-  "2023-01-21": 10520,
-  "2023-01-22": 10527,
-  "2023-01-23": 10542,
-  "2023-01-24": 10557,
-  "2023-01-25": 10567,
-  "2023-01-26": 10575,
-  "2023-01-27": 10586,
-  "2023-01-28": 10601,
-  "2023-01-29": 10612,
-  "2023-01-30": 10623,
-  "2023-01-31": 10623,
-  "2023-02-01": 10643,
-  "2023-02-02": 10649,
-  "2023-02-03": 10658,
-  "2023-02-04": 10674,
-  "2023-02-05": 10686,
-  "2023-02-06": 10699,
-  "2023-02-07": 10712,
-  "2023-02-08": 10744,
-  "2023-02-09": 10744,
-  "2023-02-10": 10747,
-  "2023-02-11": 10753,
-  "2023-02-12": 10775,
-  "2023-02-13": 10789,
-  "2023-02-14": 10789,
-  "2023-02-15": 10799,
-  "2023-02-16": 10806,
-  "2023-02-17": 10821,
-  "2023-02-18": 10842,
-  "2023-02-19": 10844,
-  "2023-02-20": 10850,
-  "2023-02-21": 10856,
-  "2023-02-22": 10863,
-  "2023-02-23": 10877,
-  "2023-02-24": 10883,
-  "2023-02-25": 10898,
-  "2023-02-26": 10904,
-  "2023-02-27": 10922,
-  "2023-02-28": 10922,
-  "2023-03-01": 10936,
-  "2023-03-02": 10947,
-  "2023-03-03": 10951,
-  "2023-03-04": 10964,
-  "2023-03-05": 10980,
-  "2023-03-06": 10980,
-  "2023-03-07": 10982,
-  "2023-03-08": 10990,
-  "2023-03-09": 10991,
-  "2023-03-10": 10998,
-  "2023-03-11": 11007,
-  "2023-03-12": 11010,
-  "2023-03-13": 11018,
-  "2023-03-14": 11026,
-  "2023-03-15": 11040,
-  "2023-03-16": 11050,
-  "2023-03-17": 11050,
-  "2023-03-18": 11068,
-  "2023-03-19": 11074,
-  "2023-03-20": 11085,
-  "2023-03-21": 11100,
-  "2023-03-22": 11110,
-  "2023-03-23": 11124,
-  "2023-03-24": 11124,
-  "2023-03-25": 11150,
-  "2023-03-26": 11158,
-  "2023-03-27": 11174,
-  "2023-03-28": 11184,
-  "2023-03-29": 11197,
-  "2023-03-30": 11219,
-  "2023-03-31": 11219,
-  "2023-04-01": 11239,
-  "2023-04-02": 11243,
-  "2023-04-03": 11260,
-  "2023-04-04": 11283,
-  "2023-04-05": 11288,
-  "2023-04-06": 11297,
-  "2023-04-07": 11313,
-  "2023-04-09": 11328,
-  "2023-04-10": 11345,
-  "2023-04-11": 11362,
-  "2023-04-12": 11362,
-  "2023-04-13": 11375,
-  "2023-04-14": 11386,
-  "2023-04-15": 11393,
-  "2023-04-16": 11398,
-  "2023-04-17": 11412,
-  "2023-04-18": 11426,
-  "2023-04-19": 11447,
-  "2023-04-20": 11462,
-  "2023-04-21": 11469,
-  "2023-04-22": 11486,
-  "2023-04-23": 11493,
-  "2023-04-24": 11503,
-  "2023-04-25": 11517,
-  "2023-04-26": 11535,
-  "2023-04-27": 11546,
-  "2023-04-28": 11551,
-  "2023-04-29": 11558,
-  "2023-04-30": 11571,
-  "2023-05-01": 11578,
-  "2023-05-02": 11587,
-  "2023-05-03": 11603,
-  "2023-05-04": 11614,
-  "2023-05-05": 11618,
-  "2023-05-06": 11638,
-  "2023-05-07": 11654,
-  "2023-05-08": 11664,
-  "2023-05-09": 11676,
-  "2023-05-10": 11687,
-  "2023-05-11": 11701,
-  "2023-05-12": 11713,
-  "2023-05-13": 11724,
-  "2023-05-14": 11741,
-  "2023-05-15": 11750,
-  "2023-05-16": 11762,
-  "2023-05-17": 11774,
-  "2023-05-18": 11782,
-  "2023-05-19": 11799,
-  "2023-05-20": 11816,
-  "2023-05-21": 11816,
-  "2023-05-22": 11816,
-  "2023-05-23": 11839,
-  "2023-05-24": 11847,
-  "2023-05-25": 11846,
-  "2023-05-26": 11848,
-  "2023-05-27": 11857,
-  "2023-05-28": 11869,
-  "2023-05-29": 11869,
-  "2023-05-30": 11885,
-  "2023-05-31": 11901,
-  "2023-06-01": 11907,
-  "2023-06-02": 11919,
-  "2023-06-03": 11930,
-  "2023-06-04": 11930,
-  "2023-06-05": 11940,
-  "2023-06-06": 11947,
-  "2023-06-07": 11957,
-  "2023-06-08": 11967,
-  "2023-06-09": 11978,
-  "2023-06-10": 11991,
-  "2023-06-11": 11994,
-  "2023-06-12": 12003,
-  "2023-06-13": 12005,
-  "2023-06-14": 12010,
-  "2023-06-15": 12014,
-  "2023-06-16": 12024,
-  "2023-06-17": 12035,
-  "2023-06-18": 12046,
-  "2023-06-19": 12054,
-  "2023-06-20": 12066,
-  "2023-06-21": 12070,
-  "2023-06-22": 12079,
-  "2023-06-23": 12089,
-  "2023-06-24": 12096,
-  "2023-06-25": 12104,
-  "2023-06-26": 12114,
-  "2023-06-27": 12122,
-  "2023-06-28": 12128,
-  "2023-06-29": 12130,
-  "2023-06-30": 12136,
-  "2023-07-01": 12157,
-  "2023-07-02": 12157,
-  "2023-07-03": 12165,
-  "2023-07-04": 12172,
-  "2023-07-05": 12181,
-  "2023-07-06": 12201,
-  "2023-07-07": 12201,
-  "2023-07-08": 12209,
-  "2023-07-09": 12213,
-  "2023-07-10": 12223,
-  "2023-07-11": 12230,
-  "2023-07-12": 12234,
-  "2023-07-13": 12238,
-  "2023-07-14": 12241,
-  "2023-07-15": 12252,
-  "2023-07-16": 12262,
-  "2023-07-17": 12264,
-  "2023-07-18": 12271,
-  "2023-07-19": 12285,
-  "2023-07-20": 12291,
-  "2023-07-21": 12301,
-  "2023-07-22": 12312,
-  "2023-07-23": 12324,
-  "2023-07-24": 12330,
-  "2023-07-25": 12331,
-  "2023-07-26": 12339,
-  "2023-07-27": 12354,
-  "2023-07-28": 12359,
-  "2023-07-29": 12371,
-  "2023-07-30": 12377,
-  "2023-07-31": 12390,
-  "2023-08-01": 12398,
-  "2023-08-02": 12408,
-  "2023-08-03": 12414,
-  "2023-08-04": 12426,
-  "2023-08-05": 12430,
-  "2023-08-06": 12445,
-  "2023-08-07": 12445,
-  "2023-08-08": 12458,
-  "2023-08-09": 12469,
-  "2023-08-10": 12479,
-  "2023-08-11": 12483,
-  "2023-08-12": 12491,
-  "2023-08-13": 12500,
-  "2023-08-14": 12509,
-  "2023-08-15": 12522,
-  "2023-08-16": 12522,
-  "2023-08-17": 12524,
-  "2023-08-18": 12528,
-  "2023-08-19": 12538,
-  "2023-08-20": 12547,
-  "2023-08-21": 12554,
-  "2023-08-22": 12562,
-  "2023-08-23": 12576,
-  "2023-08-24": 12578,
-  "2023-08-25": 12592,
-  "2023-08-26": 12601,
-  "2023-08-27": 12612,
-  "2023-08-28": 12620,
-  "2023-08-29": 12627,
-  "2023-08-30": 12637,
-  "2023-08-31": 12643,
-  "2023-09-01": 12711,
-  "2023-09-02": 12711,
-  "2023-09-03": 12740,
-  "2023-09-04": 12791,
-  "2023-09-05": 12836,
-  "2023-09-06": 12881,
-  "2023-09-07": 12912,
-  "2023-09-08": 12948,
-  "2023-09-09": 12997,
-  "2023-09-10": 13041,
-  "2023-09-11": 13080,
-  "2023-09-12": 13124,
-  "2023-09-13": 13173,
-  "2023-09-14": 13210,
-  "2023-09-15": 13265,
-  "2023-09-16": 13310,
-  "2023-09-17": 13363,
-  "2023-09-18": 13413,
-  "2023-09-19": 13470,
-  "2023-09-20": 13497,
-  "2023-09-21": 13551,
-  "2023-09-22": 13601,
-  "2023-09-23": 13646,
-  "2023-09-24": 13680,
-  "2023-09-25": 13723,
-  "2023-09-26": 13781,
-  "2023-09-27": 13816,
-  "2023-09-28": 13863,
-  "2023-09-29": 13912,
-  "2023-09-30": 13957,
-  "2023-10-01": 13999,
-  "2023-10-02": 14057,
-  "2023-10-03": 14111,
-  "2023-10-04": 14171,
-  "2023-10-05": 14228,
-  "2023-10-06": 14288,
-  "2023-10-07": 14341,
-  "2023-10-08": 14384,
-  "2023-10-09": 14414,
-  "2023-10-10": 14453,
-  "2023-10-11": 14548,
-  "2023-10-12": 14548,
-  "2023-10-13": 14582,
-  "2023-10-14": 14582,
-  "2023-10-15": 14582,
-  "2023-10-16": 14690,
-  "2023-10-17": 14690,
-  "2023-10-18": 14770,
-  "2023-10-19": 14805,
-  "2023-10-20": 14839,
-  "2023-10-21": 14874,
-  "2023-10-22": 14874,
-  "2023-10-23": 14933,
-  "2023-10-24": 14957,
-  "2023-10-25": 14957,
-  "2023-10-26": 15028,
-  "2023-10-27": 15062,
-  "2023-10-28": 15062,
-  "2023-10-29": 15062,
-  "2023-10-30": 15171,
-  "2023-10-31": 15171,
-  "2023-11-01": 15253,
-  "2023-11-02": 15286,
-  "2023-11-03": 15331,
-  "2023-11-04": 15331,
-  "2023-11-05": 15331,
-  "2023-11-06": 15452,
-  "2023-11-07": 15452,
-  "2023-11-08": 15526,
-  "2023-11-09": 15526,
-  "2023-11-10": 15579,
-  "2023-11-11": 15619,
-  "2023-11-12": 15643,
-  "2023-11-13": 15643,
-  "2023-11-14": 15643,
-  "2023-11-15": 15643,
-  "2023-11-16": 15643,
-  "2023-11-17": 15798,
-  "2023-11-18": 15798,
-  "2023-11-19": 15827,
-  "2023-11-20": 15827,
-  "2023-11-21": 15871,
-  "2023-11-22": 15899,
-  "2023-11-23": 15930,
-  "2023-11-24": 15930,
-  "2023-11-25": 15976,
-  "2023-11-26": 15976,
-  "2023-11-27": 16036,
-  "2023-11-28": 16036,
-  "2023-11-29": 16129,
-  "2023-11-30": 16129,
-  "2023-12-01": 16129,
-  "2023-12-02": 16183,
-  "2023-12-03": 16183,
-  "2023-12-04": 16183,
-  "2023-12-05": 16183,
-  "2023-12-06": 16307,
-  "2023-12-07": 16307,
-  "2023-12-08": 16307,
-  "2023-12-09": 16359,
-  "2023-12-10": 16359,
-  "2023-12-11": 16370,
-  "2023-12-12": 16370,
-  "2023-12-13": 16383,
-  "2023-12-14": 16389,
-  "2023-12-15": 16395,
-  "2023-12-16": 16400,
-  "2023-12-17": 16411,
-  "2023-12-18": 16412,
-  "2023-12-19": 16418,
-  "2023-12-20": 16424,
-  "2023-12-21": 16435,
-  "2023-12-22": 16442,
-  "2023-12-23": 16447,
-  "2023-12-24": 16462,
-  "2023-12-25": 16460,
-  "2023-12-26": 16467,
-  "2023-12-27": 16475,
-  "2023-12-30": 16508,
-  "2023-12-31": 16514,
-  "2024-01-01": 16517,
-  "2024-01-02": 16526,
-  "2024-01-03": 16527
+  "2024-01-17": 16629,
+  "date_first_scraped": "2022-06-10",
+  "description": "Essential tracks from \"Resident Evil\" series. 25\u5468\u5e74\u3092\u8fce\u3048\u305f\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u306e\u91d1\u5b57\u5854\u3001\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b7\u30ea\u30fc\u30ba\u306e\u97f3\u697d\u3092\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+  "name": "BIOHAZARD 25th ANNIVERSARY",
+  "tracks": [
+    {
+      "album": {
+        "name": "Resident Evil: Revelations Original Soundtrack",
+        "url": "https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216226,
+      "name": "\"O vendetta di Dio\"",
+      "url": "https://open.spotify.com/track/7hH6LXm6mHr8g6Lyml8TRC"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Morimoto",
+          "url": "https://open.spotify.com/artist/2b4MlMK1qUkQXlkoVLgs4d"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78167,
+      "name": "A Loving Message",
+      "url": "https://open.spotify.com/track/0IpkxoSXOCaFGTYgeLv8si"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Morimoto",
+          "url": "https://open.spotify.com/artist/2b4MlMK1qUkQXlkoVLgs4d"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 78167,
+      "name": "A Loving Message - Remastered 2021",
+      "url": "https://open.spotify.com/track/5Z6ZtSGT5jYave8gprUyY7"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 56293,
+      "name": "A Moment Of Relief",
+      "url": "https://open.spotify.com/track/3u4nI2PtZquH661kTJHm0i"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56293,
+      "name": "A Moment Of Relief",
+      "url": "https://open.spotify.com/track/4Dl4Cxs1hkxphNuQcDZgE3"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        },
+        {
+          "name": "Azusa Kato",
+          "url": "https://open.spotify.com/artist/2OSqAuomSNFFFPRhA2x3Yc"
+        },
+        {
+          "name": "Ryo Koike",
+          "url": "https://open.spotify.com/artist/3m2uZ2rZi0u4cCoeWiwazF"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105840,
+      "name": "A New Threat is Born",
+      "url": "https://open.spotify.com/track/4jBRUF5dpOV24Kr9PfQsVB"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        },
+        {
+          "name": "Azusa Kato",
+          "url": "https://open.spotify.com/artist/2OSqAuomSNFFFPRhA2x3Yc"
+        },
+        {
+          "name": "\u5c0f\u6c60\u4ee4",
+          "url": "https://open.spotify.com/artist/17ssAGVfQmmyrqjlPPAFlj"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 105840,
+      "name": "A New Threat is Born - Remastered 2021",
+      "url": "https://open.spotify.com/track/0aDQDHUAbJZJ6VKwYYaKo9"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150693,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/2SFNnnQnJba3zP0vRPGLH5"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 150693,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/7qjLji4M7zTTuQ9N3kXE4k"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83200,
+      "name": "Ada's Theme",
+      "url": "https://open.spotify.com/track/7jIVQ7yHVYIFmLA8KAsR7y"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 83213,
+      "name": "Ada's Theme",
+      "url": "https://open.spotify.com/track/5eUkEn8u3d831Z2LHz5pR0"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Bioterrorism in Lanshiang",
+      "url": "https://open.spotify.com/track/11xBpN9fhk80t4Ee68Zz59"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Akiyuki Morimoto",
+          "url": "https://open.spotify.com/artist/2b4MlMK1qUkQXlkoVLgs4d"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 249000,
+      "name": "Bioterrorism in Lanshiang - Remastered 2021",
+      "url": "https://open.spotify.com/track/0SISbNQqNCX0O0SXJI0SKR"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Zhenlan Kang",
+          "url": "https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210913,
+      "name": "Black Impact",
+      "url": "https://open.spotify.com/track/4Dx2UVgO3jlXconNMH5IkX"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD RE:2 Best Track Collection",
+        "url": "https://open.spotify.com/album/2P9KYawcKVvzvhdOyF0Qfr"
+      },
+      "artists": [
+        {
+          "name": "Zhenlan Kang",
+          "url": "https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 211911,
+      "name": "Black Impact",
+      "url": "https://open.spotify.com/track/1OIdhmZ2jyYRbuoweNgiik"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Zhenlan Kang",
+          "url": "https://open.spotify.com/artist/6kl3efW7tl5W2La5T9NElp"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 211911,
+      "name": "Black Impact - Remastered 2021",
+      "url": "https://open.spotify.com/track/4tkhmOEwEwBRDXxCxaR0Ew"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Kentaro Nakajima",
+          "url": "https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171831,
+      "name": "Collapse",
+      "url": "https://open.spotify.com/track/6szZAiaCyyIy0MNbP1Cfvz"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 172858,
+      "name": "Collapse - Remastered 2021",
+      "url": "https://open.spotify.com/track/4nnraIkq5NuB6PcxWV2yF3"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 153880,
+      "name": "Credit Line of Whole Staff",
+      "url": "https://open.spotify.com/track/0UJFspQ4OoSLlK7vQ8oWR9"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 153880,
+      "name": "Credit Line of Whole Staff",
+      "url": "https://open.spotify.com/track/0zoRwrf6534EeokgaeuGot"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155533,
+      "name": "Credit Line of Whole Staff",
+      "url": "https://open.spotify.com/track/62zBsT42CpwRQxfcu7gHMC"
+    },
+    {
+      "album": {
+        "name": "Resident Evil: Revelations Original Soundtrack",
+        "url": "https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228386,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/1RQ6EHit0rm5sKoV86PEFI"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 228386,
+      "name": "Deep Sea - Remastered 2021",
+      "url": "https://open.spotify.com/track/42GWX5y2GCFaY1u6dqYSgN"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba2 \u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5W8ccSPOp8cX95Pp4L22al"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113904,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/7GklaU5oQ5e7svqUZBG2gx"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 116365,
+      "name": "Distant Memories",
+      "url": "https://open.spotify.com/track/5L5D4wwv8i3tr0NTKUxrLY"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 116365,
+      "name": "Distant Memories - Remastered 2021",
+      "url": "https://open.spotify.com/track/2kuYnjYjKs8v7Xpc7k3B6O"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Nemesis Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fNHwE7mFeT0E9zybuRBLp"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121866,
+      "name": "End Credits",
+      "url": "https://open.spotify.com/track/73afy02BY6scpYRGOFQ9d8"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 73120,
+      "name": "End of Umbrella",
+      "url": "https://open.spotify.com/track/0ipIbyahljV0fxDnd6WELv"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73120,
+      "name": "End of Umbrella",
+      "url": "https://open.spotify.com/track/3eKDqbkCBeO7lScZDofqYy"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119453,
+      "name": "Ending Credits",
+      "url": "https://open.spotify.com/track/0GmQmU984hhMv1PAaPEVHw"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 119453,
+      "name": "Ending Credits",
+      "url": "https://open.spotify.com/track/3jAalVA2Pu5h690Ek3P4Gj"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286706,
+      "name": "Eradicating Evil",
+      "url": "https://open.spotify.com/track/06voKug3KoCAYRqmnZCFru"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 286706,
+      "name": "Eradicating Evil",
+      "url": "https://open.spotify.com/track/7fufB93qNiqRFYvxWMzOVs"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187773,
+      "name": "Escape From Laboratory",
+      "url": "https://open.spotify.com/track/46SstySufgXQM0IA3co11I"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187813,
+      "name": "Escape From Laboratory",
+      "url": "https://open.spotify.com/track/3hxr8swJXGPeRr9HJ3XOcn"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126280,
+      "name": "Free From Fear",
+      "url": "https://open.spotify.com/track/2Y0NNG4Ty5LCgYNeICfqNq"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Saori Maeda",
+          "url": "https://open.spotify.com/artist/3Ud7woLRk2efj0q3D2lCzm"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 126280,
+      "name": "Free From Fear - Remastered 2021",
+      "url": "https://open.spotify.com/track/2VrpnEIUrrlZwbuqJVpROt"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 7 RESIDENT EVIL Special Tracks",
+        "url": "https://open.spotify.com/album/42ZIjUQqG1MHOkZg3KHK2L"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241607,
+      "name": "Go Tell Aunt Rhody -Dixiland Jazz- - Alternative Ver.",
+      "url": "https://open.spotify.com/track/4WZG3vulG5PQLURWwc1uAE"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241607,
+      "name": "Go Tell Aunt Rhody -Dixiland Jazz- - Alternative Ver. Remastered 2021",
+      "url": "https://open.spotify.com/track/3JZwsuajLgxNPXrU4rV9FG"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 7 RESIDENT EVIL Best Track Collection",
+        "url": "https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/0pYJBNET8c1tFUlXxKaIBj"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        },
+        {
+          "name": "Jordan Reyne",
+          "url": "https://open.spotify.com/artist/2yafXsdiWqzr4iDmqVZ2le"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version",
+      "url": "https://open.spotify.com/track/6eHVQKLIHMF7mei6j1gbBM"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Michael A. Levine",
+          "url": "https://open.spotify.com/artist/7dTj1YCEqf3RiUfSTdvmND"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174998,
+      "name": "Go Tell Aunt Rhody -Resident Evil- - Full Version Remastered 2021",
+      "url": "https://open.spotify.com/track/79aRcYPbtRYHeOg5D5mOrm"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries",
+      "url": "https://open.spotify.com/track/1IzXLyd1gOY7W9ElazmSBv"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 6 Best Track Collection",
+        "url": "https://open.spotify.com/album/3l3ZLr1h9lgLdqnoguFYsK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries",
+      "url": "https://open.spotify.com/track/3Qv0epoiafKh9cDZd8j6MU"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Daniel Lindholm",
+          "url": "https://open.spotify.com/artist/3K7OIFQeYz1TDkZqMOjP9O"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 230600,
+      "name": "Heat on Beat 2012/The Mercenaries - Remastered 2021",
+      "url": "https://open.spotify.com/track/2eMbAooPrXFxXQwKzSCGpS"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 7 RESIDENT EVIL Best Track Collection",
+        "url": "https://open.spotify.com/album/6snRTZSjEpxuVKBQnHDrpY"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8ad6\u53f2",
+          "url": "https://open.spotify.com/artist/4GK9wZWLLLgYSIgGJzHGPy"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 164718,
+      "name": "Keeper of the Greenhouse \u2160",
+      "url": "https://open.spotify.com/track/0xAR6Od5CQe3kjWaNn1N6e"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8aed\u53f2",
+          "url": "https://open.spotify.com/artist/56JQzzYTLuEO1MvPct6Tfg"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164718,
+      "name": "Keeper of the Greenhouse \u2160",
+      "url": "https://open.spotify.com/track/0gWXIzl1BEE7E6lObgKkKA"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u5800\u8ad6\u53f2",
+          "url": "https://open.spotify.com/artist/4GK9wZWLLLgYSIgGJzHGPy"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 164718,
+      "name": "Keeper of the Greenhouse \u2160 - Remastered 2021",
+      "url": "https://open.spotify.com/track/1q5f9J36O7xOTkYkljB7of"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Kentaro Nakajima",
+          "url": "https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205514,
+      "name": "Last Judgment",
+      "url": "https://open.spotify.com/track/7gznTHopYnSe2WUp8wVoNG"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 206297,
+      "name": "Last Judgment",
+      "url": "https://open.spotify.com/track/73nh3XXq3DwNAdPbgenrE1"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 206297,
+      "name": "Last Judgment - Remastered 2021",
+      "url": "https://open.spotify.com/track/5yLxGWfRFTLm1r3KoqkYM8"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Kentaro Nakajima",
+          "url": "https://open.spotify.com/artist/1GXcJgf4RGI66ggGMkoA7F"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126184,
+      "name": "Looming Dread",
+      "url": "https://open.spotify.com/track/6PkXh1TDoKD9as8q4bEXX5"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 127066,
+      "name": "Looming Dread",
+      "url": "https://open.spotify.com/track/4SkDyOrGKB2WKwDvkVvmao"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6\u5065\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/38qCJ6vCoxPJYoJQbAm8T5"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 127066,
+      "name": "Looming Dread - Remastered 2021",
+      "url": "https://open.spotify.com/track/1BOIZEx2m4jDIetexgF0cH"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 \u30ea\u30d9\u30ec\u30fc\u30b7\u30e7\u30f3\u30ba2 \u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/5W8ccSPOp8cX95Pp4L22al"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116383,
+      "name": "Lost - Enchained Ver.",
+      "url": "https://open.spotify.com/track/1NA8AvQAbuQmy4c8NZoDbf"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Nima Fakhrara",
+          "url": "https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi"
+        },
+        {
+          "name": "\u8b1b\u672c\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/0XsZub4fCLKcKN8d5ZAwKK"
+        },
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 117947,
+      "name": "Lost - Enchained Ver.",
+      "url": "https://open.spotify.com/track/3NUCn3DsCgGQucvuRsxumd"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Nima Fakhrara",
+          "url": "https://open.spotify.com/artist/0xgLzYXTSX00BF1UpyXQpi"
+        },
+        {
+          "name": "\u8b1b\u672c\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/0XsZub4fCLKcKN8d5ZAwKK"
+        },
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 117947,
+      "name": "Lost - Enchained Ver. Remastered 2021",
+      "url": "https://open.spotify.com/track/3eIhE6sLGilAhEbfJkZ0Bd"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Miwako Chinone",
+          "url": "https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/3thZaU3uHTicD7qZW3BIXc"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Miwako Chinone",
+          "url": "https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 182722,
+      "name": "Main Menu",
+      "url": "https://open.spotify.com/track/6aDXZpXycI6B2ezdISfyVv"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Miwako Chinone",
+          "url": "https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182722,
+      "name": "Main Menu - Remastered 2021",
+      "url": "https://open.spotify.com/track/5W8hBdhmG0m10t8mOhUKEK"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        },
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195826,
+      "name": "Main Theme",
+      "url": "https://open.spotify.com/track/42wyjoSQSxJyXor44CP2Hk"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        },
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 195826,
+      "name": "Main Theme",
+      "url": "https://open.spotify.com/track/6eY8nehrEN3tCOu5CgfPZM"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        },
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195826,
+      "name": "Main Theme - Remastered 2021",
+      "url": "https://open.spotify.com/track/6mYuCmd5ohUXjuts3rVU3y"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Monstrosity",
+      "url": "https://open.spotify.com/track/2wMV3A5qEyncJvLAIJ3YBh"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157173,
+      "name": "Monstrosity",
+      "url": "https://open.spotify.com/track/6KNQQ8YLXvqqZhRI8T7G4c"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 78520,
+      "name": "Nemesis' Theme",
+      "url": "https://open.spotify.com/track/065QXpXtVSkVF5y5RKKBAX"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 78520,
+      "name": "Nemesis' Theme",
+      "url": "https://open.spotify.com/track/49Ph8u1cxtJJf5a9NV5a13"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Nemesis Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fNHwE7mFeT0E9zybuRBLp"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78933,
+      "name": "Nemesis' Theme",
+      "url": "https://open.spotify.com/track/57M9jKWLhVrLX5pFxQMoRj"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220440,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/2NPArWbemB1SBEwRNLICzB"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220440,
+      "name": "Out of Control",
+      "url": "https://open.spotify.com/track/2x07TeynNXajdkeov8kYG7"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56880,
+      "name": "Piano Roll",
+      "url": "https://open.spotify.com/track/3Mm4NxqWHGmaT97qepqOYu"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 56880,
+      "name": "Piano Roll",
+      "url": "https://open.spotify.com/track/5WPaYwpfUnhuecIj25r8Uy"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        },
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75813,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/5b2zg0DLnf1BHtbyD5DtmH"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD 6 Best Track Collection",
+        "url": "https://open.spotify.com/album/3l3ZLr1h9lgLdqnoguFYsK"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        },
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 75813,
+      "name": "Prelude",
+      "url": "https://open.spotify.com/track/5iF7AILAQrbQgK6xnDRxDY"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parisch",
+          "url": "https://open.spotify.com/artist/04RBe0eXKZrdN7ouAsgPn4"
+        },
+        {
+          "name": "Laurent Ziliani",
+          "url": "https://open.spotify.com/artist/5haaWMXTOhlVyXmRNkeQxk"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 75813,
+      "name": "Prelude - Remastered 2021",
+      "url": "https://open.spotify.com/track/6PIt5FglOdL5ey4V9pAcku"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141373,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1lsZvldTwsK33yWBcgSgsD"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141373,
+      "name": "Prologue",
+      "url": "https://open.spotify.com/track/1qxpKgPsS1is1o4Ha15VfH"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 157706,
+      "name": "Promenons-nous dans les bois",
+      "url": "https://open.spotify.com/track/4XQmzDB1YiyEGiElXcoiyJ"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157706,
+      "name": "Promenons-nous dans les bois",
+      "url": "https://open.spotify.com/track/5bfG0VcNhDIYXtxBqGTKev"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208647,
+      "name": "R.P.D. Hall",
+      "url": "https://open.spotify.com/track/70sKiW5IIhwcGtB1yFHYVE"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 209531,
+      "name": "R.P.D. Hall",
+      "url": "https://open.spotify.com/track/16laXao2zlkpCNm2mI72fG"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209531,
+      "name": "R.P.D. Hall - Remastered 2021",
+      "url": "https://open.spotify.com/track/5aPvJlbRBX6M8gljYgKjfC"
+    },
+    {
+      "album": {
+        "name": "Resident Evil: Revelations Original Soundtrack",
+        "url": "https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95386,
+      "name": "Rest & Intensify",
+      "url": "https://open.spotify.com/track/5qztqNmizH7W2bUirLkb2m"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD REVELATIONS Best Track Collection",
+        "url": "https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 95386,
+      "name": "Rest & Intensify",
+      "url": "https://open.spotify.com/track/2Q89Y1Vd8kuiLASZjJtspz"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Kota Suzuki",
+          "url": "https://open.spotify.com/artist/6Bcj2CNhoJ3MHBPNKWlh0y"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 95386,
+      "name": "Rest & Intensify - Remastered 2021",
+      "url": "https://open.spotify.com/track/0P20SwjPzshXaNgJZEdocB"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD REVELATIONS Best Track Collection",
+        "url": "https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 189013,
+      "name": "Ride on Sea",
+      "url": "https://open.spotify.com/track/2nVpyO8MNqi4U7EfCOwmAi"
+    },
+    {
+      "album": {
+        "name": "Resident Evil: Revelations Original Soundtrack",
+        "url": "https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189013,
+      "name": "Ride on Sea",
+      "url": "https://open.spotify.com/track/3nZKe6lkP9gGWES5olW3rL"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 189013,
+      "name": "Ride on Sea - Remastered 2021",
+      "url": "https://open.spotify.com/track/2RA3zImK0RAHmWzE2gLwEx"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/1YkcXwQKOKJEILbvflSe2n"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Shusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/0pLnnIJmeRcWMSpOxujSH8"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 142853,
+      "name": "Ripples in the Calm",
+      "url": "https://open.spotify.com/track/3EN6ImHKQSUdJUC3KVLjuM"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL 7 biohazard Original Soundtrack",
+        "url": "https://open.spotify.com/album/1B2KgMQBys7mJcdKdf60ZL"
+      },
+      "artists": [
+        {
+          "name": "Miwako Chinone",
+          "url": "https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174727,
+      "name": "Saferoom",
+      "url": "https://open.spotify.com/track/1NO3x4XZW73pCXxLCPSNsI"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Miwako Chinone",
+          "url": "https://open.spotify.com/artist/5BrA9ihtQiD4QDpYGmult4"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 174727,
+      "name": "Saferoom - Remastered 2021",
+      "url": "https://open.spotify.com/track/5hSp26kj5WKRypG70wUEDu"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew Johnson",
+          "url": "https://open.spotify.com/artist/4P2moEkGVqw8nJ5caJLC41"
+        },
+        {
+          "name": "Shim",
+          "url": "https://open.spotify.com/artist/5y7EC8yURkWnpp3kI0T3jp"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258750,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/4hjJNJvz1hshnFNRvh72tV"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew JohnsonShim",
+          "url": "https://open.spotify.com/artist/2BlLyiVSZagwGmH7Po9mz9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 259726,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2Y5YohrT82M40vLuT6ZgAi"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Cody Matthew JohnsonShim",
+          "url": "https://open.spotify.com/artist/2BlLyiVSZagwGmH7Po9mz9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 259726,
+      "name": "Saudade - Remastered 2021",
+      "url": "https://open.spotify.com/track/54QsVR8aKejbg22v8C75qk"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209973,
+      "name": "Save Room",
+      "url": "https://open.spotify.com/track/6fFaDbmXtuScWnLi7BlMf6"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209973,
+      "name": "Save Room - Remastered 2021",
+      "url": "https://open.spotify.com/track/0qlUfHvMgvLCq0MjzExbNG"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67826,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/0xibMiSk2Ioys0V8Q8xlfx"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 67826,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/5kmPPl3nZ9nRFQX5XBqC5L"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/6sUas8j0HCdY3w3an18ijh"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+    },
+    {
+      "album": {
+        "name": "Resident Evil: Revelations Original Soundtrack",
+        "url": "https://open.spotify.com/album/2U6Zaj3bDEmxWKG3Nt3JDF"
+      },
+      "artists": [
+        {
+          "name": "Ichiro Kohmoto",
+          "url": "https://open.spotify.com/artist/0H1pu3K0L0OIpO0KpbNe74"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125093,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/4ikUzDhm1REqT9ZJFIwRqE"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u8b1b\u672c\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/0XsZub4fCLKcKN8d5ZAwKK"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 125093,
+      "name": "Scream - Remastered 2021",
+      "url": "https://open.spotify.com/track/2Fg6Ec610eAO9ep8jZAL31"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56733,
+      "name": "Secure Place",
+      "url": "https://open.spotify.com/track/6u4G0ODRV9gzAoyinK1KAD"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 56813,
+      "name": "Secure Place",
+      "url": "https://open.spotify.com/track/0OFk9R6SsxdwN2qwgNR2Sm"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 66920,
+      "name": "Sigh of Relief",
+      "url": "https://open.spotify.com/track/2gTCYhueJSzlnMyxqAU3hC"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66920,
+      "name": "Sigh of Relief",
+      "url": "https://open.spotify.com/track/4d5K6JtaiFIX3t6Q2hecRS"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214253,
+      "name": "Sorrow (Ending Credits)",
+      "url": "https://open.spotify.com/track/4XWrXq7H8WTID054RYJHV6"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 214253,
+      "name": "Sorrow (Ending Credits)",
+      "url": "https://open.spotify.com/track/72kt2WhQpTASBoCQBis3Sv"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Sorrow (Ending Credits)",
+      "url": "https://open.spotify.com/track/5ltB7Zo3Cc8aj70tvkLB6O"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 121693,
+      "name": "Staffs & Credits",
+      "url": "https://open.spotify.com/track/2uJ8gCYNnbkhsxGQhXGPol"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Syusaku Uchiyama",
+          "url": "https://open.spotify.com/artist/1eGt1jwjFZLEZhnNmDJJry"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165304,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/4VMPSsk9UnkDCjCU6aoSnQ"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD RE:2 Best Track Collection",
+        "url": "https://open.spotify.com/album/2P9KYawcKVvzvhdOyF0Qfr"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u5c71\u4fee\u4f5c",
+          "url": "https://open.spotify.com/artist/6LuD4P86YYn8lP3sEvWdBP"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-14",
+      "duration_ms": 166253,
+      "name": "The Beginning",
+      "url": "https://open.spotify.com/track/5VZ6JwpIkipHeE2w6gwur9"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u5185\u5c71\u4fee\u4f5c",
+          "url": "https://open.spotify.com/artist/6LuD4P86YYn8lP3sEvWdBP"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 166253,
+      "name": "The Beginning - Remastered 2021",
+      "url": "https://open.spotify.com/track/0qv85JVHgbntL3vUFRMfRF"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 226120,
+      "name": "The Beginning Of Story",
+      "url": "https://open.spotify.com/track/3qnLS810mu1qEGBDstDjSY"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226426,
+      "name": "The Beginning of Story",
+      "url": "https://open.spotify.com/track/2eHVCEz9ToZ1uqHT1cjsNQ"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 154120,
+      "name": "The City of Ruin",
+      "url": "https://open.spotify.com/track/1qFrzgw1pYRs0RDPWpWszg"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 3 Nemesis Original Soundtrack",
+        "url": "https://open.spotify.com/album/4fNHwE7mFeT0E9zybuRBLp"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154626,
+      "name": "The City of Ruin",
+      "url": "https://open.spotify.com/track/2jLeMTILXTF2J3tzLMnynB"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 4 Sound Collection",
+        "url": "https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131613,
+      "name": "The Drive ~ First Contact",
+      "url": "https://open.spotify.com/track/3j7walwuESgdV5mf5J8LMt"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 131426,
+      "name": "The Drive \u301c First Contact",
+      "url": "https://open.spotify.com/track/3YHOV1qBSFM6KID1LjNvcy"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 131426,
+      "name": "The Drive \u301c First Contact",
+      "url": "https://open.spotify.com/track/6s7EdkhYJWUbENr2j6JCIN"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313520,
+      "name": "The Final Movement",
+      "url": "https://open.spotify.com/track/2RTZwbcmSHuKQQY8tR36iU"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Nao Sato",
+          "url": "https://open.spotify.com/artist/0xxLuhAcv3LLsSR69R1hc9"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 313520,
+      "name": "The Final Movement",
+      "url": "https://open.spotify.com/track/4q1RkockLTrsWaCGJE1eOR"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96173,
+      "name": "The Front Hall",
+      "url": "https://open.spotify.com/track/1qTVmQhzZFvuq2RP9wBp7B"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 96360,
+      "name": "The Front Hall",
+      "url": "https://open.spotify.com/track/481gxW6l0gMup6hMYkrDpH"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 151186,
+      "name": "The Theme Of Alexia Type 2",
+      "url": "https://open.spotify.com/track/5vW2tCcYpK3iXDxkWXRFY3"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151186,
+      "name": "The Theme Of Alexia Type 2",
+      "url": "https://open.spotify.com/track/7k452rLKL99ShJKRyK3YdQ"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/0oT3SZgFGCdQe4aazLx2at"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152240,
+      "name": "The Underground Laboratory",
+      "url": "https://open.spotify.com/track/2SKSG8Adf9OU2jwLKHrEI3"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 152293,
+      "name": "The Underground Laboratory",
+      "url": "https://open.spotify.com/track/6tap6wdUrhkm5dbfgVkJd7"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 2 Original Soundtrack",
+        "url": "https://open.spotify.com/album/2zyghKqvMQ5guwNLsnkMp2"
+      },
+      "artists": [
+        {
+          "name": "Shotaro Nakayama",
+          "url": "https://open.spotify.com/artist/0qM6rCXSK4NRrB1Ucij1a1"
+        },
+        {
+          "name": "Taishuke Fujisawa",
+          "url": "https://open.spotify.com/artist/08eE91OwwwZT0HriYw1xky"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217423,
+      "name": "Tofu on Fire",
+      "url": "https://open.spotify.com/track/1JqGbX7D8Lh03W3WITm5VS"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5c71\u7fd4\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/50O6Y1sf1UMxmSpjH7Khan"
+        },
+        {
+          "name": "\u85e4\u6fa4\u9bdb\u4ecb",
+          "url": "https://open.spotify.com/artist/7wHWK8TXkOueqk2sxnfAXO"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 218196,
+      "name": "Tofu on Fire - Remastered 2021",
+      "url": "https://open.spotify.com/track/0Wq4TlALpYIXDsMeKyT8TD"
+    },
+    {
+      "album": {
+        "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362733,
+      "name": "Yearning for Dark Shadows",
+      "url": "https://open.spotify.com/track/0ksImScAVXWxao9LK7mMGq"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD VILLAGE ORIGINAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/50PXqGjTFAWNNTghrzcviI"
+      },
+      "artists": [
+        {
+          "name": "Brian D'Oliveira",
+          "url": "https://open.spotify.com/artist/6Ma7ZBVsdilEALEnNl5Tgz"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 362733,
+      "name": "Yearning for Dark Shadows",
+      "url": "https://open.spotify.com/track/6hlTkQb3dcL3ZXTnUGh1n3"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 62733,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/0y2AxvTXJbR4LDbItUWNRi"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62733,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/6PDRxU59psnqdTkBN8XUgF"
+    },
+    {
+      "album": {
+        "name": "BIOHAZARD REVELATIONS Best Track Collection",
+        "url": "https://open.spotify.com/album/6FirwiQDlNNtKaA2LLmf0x"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 216226,
+      "name": "\u201cO vendetta di Dio\u201d",
+      "url": "https://open.spotify.com/track/3kkMktFCeUiSCqqLJ1lnio"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Takeshi Miura",
+          "url": "https://open.spotify.com/artist/1Eii6MJjXMNyoRMvCiYDTN"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 216226,
+      "name": "\u201cO vendetta di Dio\u201d - Remastered 2021",
+      "url": "https://open.spotify.com/track/7yl5tzutKgS06q8SkoTtUh"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/3UgsBIpDg2Ap8I2je4xb8y"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 46933,
+      "name": "\u5b89\u606f",
+      "url": "https://open.spotify.com/track/2p9ajoG6FDNmVweyww5mJm"
+    },
+    {
+      "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46933,
+      "name": "\u5b89\u606f",
+      "url": "https://open.spotify.com/track/4SWsJihJQui0eTwtOTN1Wl"
+    },
+    {
+      "album": {
+        "name": "RESIDENTEVIL SOUND CHRONICLE III",
+        "url": "https://open.spotify.com/album/04wI5TSN4crQGKGHnV9DTh"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 264146,
+      "name": "\u9577\u3044\u9003\u8d70\u306e\u679c\u3066\u306b/At the End of a Long Escape",
+      "url": "https://open.spotify.com/track/4iIxB6Scz2yIJlxePlZdxD"
+    },
+    {
+      "album": {
+        "name": "Resident Evil 6 Original Soundtrack",
+        "url": "https://open.spotify.com/album/3IPeBis8A0IMFZFXuW0CGi"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264146,
+      "name": "\u9577\u3044\u9003\u8d70\u306e\u679c\u3066\u306b/At the End of a Long Escape",
+      "url": "https://open.spotify.com/track/3K2GqTnHlcWP1hM8cRHJI2"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\u30b5\u30a6\u30f3\u30c9\u30af\u30ed\u30cb\u30af\u30ebIII",
+        "url": "https://open.spotify.com/album/5fDIzjhsSaH5O5eQTSoG2v"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Narita",
+          "url": "https://open.spotify.com/artist/6iA27PNXCsDXNyhLGYk6Bl"
+        }
+      ],
+      "date_added": "2021-08-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 264146,
+      "name": "\u9577\u3044\u9003\u8d70\u306e\u679c\u3066\u306b/At the End of a Long Escape - Remastered 2021",
+      "url": "https://open.spotify.com/track/6YeWdp1yWWueWBoviryzXz"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXavxLjAz4XDv"
 }

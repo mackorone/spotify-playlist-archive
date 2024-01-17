@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 
 > Celebrate the holiday season in style with this timeless playlist of Xmas favorites old and new\. Merry Christmas, Feliz Navidad, Joyeux Noël, Maligayang Pasko, Fröhliche Weihnachten, God Jul!
 
-[Topsify](https://open.spotify.com/user/topsify) - 964,302 likes - 100 songs - 5 hr 16 min
+[Topsify](https://open.spotify.com/user/topsify) - 956,337 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/5OP7itTh52BMfZS1DJrdlv.md) - [plain]
 | 99 | [White Christmas \(with the Patrick Williams Orchestra\)](https://open.spotify.com/track/4UI0J1JqYBqVeSXgdIJo0x) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Patrick Williams Orchestra](https://open.spotify.com/artist/6Ls7jvEOGiaPP5smBdptcF) | [Laura Xmas \(Deluxe\)](https://open.spotify.com/album/1F9v00h2yWamoUDrGCrsJ3) | 2:22 |
 | 100 | [Silent Night](https://open.spotify.com/track/6hPaTWf6zuddDf2VNzYdAo) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [100 Greatest Christmas Songs Ever](https://open.spotify.com/album/6TDpQggB88X230Srv1fkSq) | 3:47 |
 
-Snapshot ID: `MTU2MixkODZkMDkzMzgwOWE0ZmU1NzA1ZmFjYTM5ZDhjYjJiNGJlMTIzZmFj`
+Snapshot ID: `MTU2NixiOWQ4NDVjYzU4Y2ViMTY2Y2QxN2M3NjVlNzdhZTU4ZGY4MTlhZDY0`

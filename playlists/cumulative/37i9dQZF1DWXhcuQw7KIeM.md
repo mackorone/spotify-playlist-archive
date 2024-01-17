@@ -4,7 +4,7 @@
 
 > From the very deep spirit of the almighty North\. Cover: The HU
 
-125 songs - 11 hr 26 min
+127 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Hausbrjótr \- Skullcrusher](https://open.spotify.com/track/2MGn6TkeZqvRMX3uomAHEz) | [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC) | [Assassin's Creed Valhalla: The Wave of Giants \(Original Soundtrack\)](https://open.spotify.com/album/29v92y2nqpfhWNe4thAsBw) | 5:18 | 2022-12-01 |  |
 | [Helvegen](https://open.spotify.com/track/1bqmaIBGwlo4MtrAxjRDHB) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/4Ir9Mw8uEYlIipN6hBeBsP) | 7:11 | 2022-07-08 |  |
 | [Helvegen](https://open.spotify.com/track/3TEHaGREmft4lec2TrcR8C) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Runaljod – Yggdrasil](https://open.spotify.com/album/0rA5rQVW5kPq0SmUGFtbO1) | 7:11 | 2022-05-13 | 2022-07-29 |
-| [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 | 2022-05-13 |  |
+| [Hemkomst](https://open.spotify.com/track/1VtAhBhiXduSG6b3ibvcKG) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 5:40 | 2023-09-08 |  |
+| [Hemkomst](https://open.spotify.com/track/6zZ4iLIL9u8ozZ9DllB7ln) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 5:40 | 2022-05-13 | 2024-01-06 |
 | [House Carpenter](https://open.spotify.com/track/2reP1SrOvXsViM6eeLqZmA) | [Myrkur](https://open.spotify.com/artist/3544ImlskUwZqWJTmqWUsa) | [Folkesange](https://open.spotify.com/album/1aRhu0xtlPbAb1X8us0uOD) | 3:38 | 2022-05-13 |  |
 | [How Fare the Gods?](https://open.spotify.com/track/1SZO4SCfBSFhTGMlUpZB1O) | [Syven](https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3) | [Whom the Moon a Nightsong Sings](https://open.spotify.com/album/2YiFk7TmwtTAMMcvmIDbsD) | 14:10 | 2022-07-08 |  |
 | [How Fare the Gods?](https://open.spotify.com/track/6vhJW2dA7fujOE4B4OvyJR) | [Syven](https://open.spotify.com/artist/4zFQKcJwnetVMj3FaLh7Y3) | [Whom the Moon a Nightsong Sings](https://open.spotify.com/album/1owCmNT9Sswuqyohl3GfXJ) | 14:10 | 2022-05-13 | 2022-07-29 |
@@ -122,8 +123,9 @@
 | [Warriors](https://open.spotify.com/track/3TsTOSDvHqg3rA4OWHmsea) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [Warriors](https://open.spotify.com/album/4fGVgwLbnzFV8q6EaxxsKn) | 3:55 | 2022-10-07 | 2023-03-18 |
 | [Wolf Totem](https://open.spotify.com/track/6uCzY8MKTcLDExUR6nGl99) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Wolf Totem](https://open.spotify.com/album/7llI8I1yBGYutWAbVob3ls) | 5:38 | 2022-05-13 | 2022-07-08 |
 | [Wulfwiga](https://open.spotify.com/track/37g06WD4w62ipxpBIbQN16) | [Sowulo](https://open.spotify.com/artist/4BkdqpIEhl0tKZ5xpAo5pR) | [Mann](https://open.spotify.com/album/7K6iSnHtArU3SaXBFseCob) | 4:16 | 2022-05-13 |  |
-| [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 | 2022-07-08 |  |
+| [Yggdrasil](https://open.spotify.com/track/27nlXliCG4tYCox6Ov9p40) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/7cOPDPI7NelUNNmbw8pHPC) | 4:15 | 2022-07-08 | 2024-01-05 |
 | [Yggdrasil](https://open.spotify.com/track/557wTI8uo48D59Caf2iM2I) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Yggdrasil](https://open.spotify.com/album/3TcQZvBmiStnfk8WXVfuu3) | 4:15 | 2022-05-13 | 2022-07-29 |
+| [Yggdrasil](https://open.spotify.com/track/6JJGu31qvtkU9sQcyouXXN) | [Forndom](https://open.spotify.com/artist/1DO3ytbfXlJUOoy77yH7IH) | [Faþir](https://open.spotify.com/album/4aDpCHnObQX885vEPJwCYP) | 4:15 | 2023-09-08 |  |
 | [Ylfa Spere](https://open.spotify.com/track/1qA1LY2FHhsCWDai6Byfsb) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [Ylfa Spere](https://open.spotify.com/album/74Waqk73z57ISc8IGhzsB3) | 3:35 | 2023-02-17 |  |
 | [Ymir](https://open.spotify.com/track/6OMd2Tyoo1t331SqqnTdKR) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM) | [Ymir](https://open.spotify.com/album/4nlE0mUHyiIe7Tdk6Jse5o) | 4:17 | 2022-05-13 | 2022-07-29 |
 | [Ymir](https://open.spotify.com/track/0bgGgqsmfGk2r177BsCrSI) | [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Eptir Ragnarök](https://open.spotify.com/album/7EvtTlwudXR5ca8x18iCUY) | 4:17 | 2022-07-08 |  |

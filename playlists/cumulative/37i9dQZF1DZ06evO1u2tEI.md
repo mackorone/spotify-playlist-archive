@@ -4,7 +4,7 @@
 
 > This is Elliott Smith\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 19 min
+118 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [St\. Ides Heaven](https://open.spotify.com/track/1aMFot4xU2SHSaojGARIYu) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 3:00 | 2022-09-22 | 2022-10-05 |
 | [St\. Ides Heaven \- 25th Anniversary Remaster](https://open.spotify.com/track/7zOdsysP1duel1IiG0UtWL) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith: Expanded 25th Anniversary Edition](https://open.spotify.com/album/4XFvmYc0AI61WsLCdAnMuT) | 3:00 | 2023-06-30 |  |
 | [Sweet Adeline](https://open.spotify.com/track/5KmMMmc1pXL5lL4HlR9Srz) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:15 | 2022-09-16 |  |
+| [Talking To Mary](https://open.spotify.com/track/2Z2k9x8eR2cgSTePICcn7P) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN) | 3:42 | 2024-01-13 | 2024-01-17 |
 | [Talking To Mary](https://open.spotify.com/track/3BkD7KRNgTXh0bLLL2TsWQ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [New Moon](https://open.spotify.com/album/22KjY8SLvYh2DVMmLPPatF) | 3:42 | 2022-09-16 | 2022-10-13 |
 | [The Biggest Lie](https://open.spotify.com/track/3hPVY0KEabsLxgeupjs7bV) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM) | 2:39 | 2023-05-26 |  |
 | [The Biggest Lie](https://open.spotify.com/track/4xFNWqI3kQ34kNKMplWsk2) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Elliott Smith](https://open.spotify.com/album/60C4r1YwIxsliktUL6eXfw) | 2:39 | 2022-09-16 | 2023-05-05 |

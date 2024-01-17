@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 
 > A pastoral, uplifting pan\-African café sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,046 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,711 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ioFWie6Zm8.md) - [plain]
 | 99 | [Sohlangana khona \(We Will Meet There\)](https://open.spotify.com/track/5R53of9PqwA6RyDwht0Sun) | [Vusa Mkhaya](https://open.spotify.com/artist/1Zcfa6xRf2ZShaD9lcVR8E), [Brian Bangura](https://open.spotify.com/artist/1DzpwojcAYW8Pu3e90sJls), [Ramadu](https://open.spotify.com/artist/1xChafGbiQpAoWuyxFLWkY), [Handsome Mabhiza](https://open.spotify.com/artist/6AZhQmpoUMvqdA8b4r3q9b), [Othnell Mangoma Moyo](https://open.spotify.com/artist/2BTkglCPvt9QTqWZUWFxTn) | [Vusa Mkhaya: Vocalism](https://open.spotify.com/album/6YkNFMEvza2qgoyLKKYvfY) | 5:09 |
 | 100 | [Folly Cagni](https://open.spotify.com/track/37sZL7KtUzNhQdAL11ofet) | [Cheikh Lô](https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h) | [Jamm](https://open.spotify.com/album/2ovTeDR1IQRjZNRwPNuTAZ) | 3:08 |
 
-Snapshot ID: `MCw0MDE1MWQ0Y2M5NDNmZmMwNmE2Mzk4NDQ1ODk1Nzg1MzQyMTFiODEw`
+Snapshot ID: `MCxiYWM0MDQyYTM2ZjIxMWUwZjgxNTYzY2I4MDJkZmYwNWI1YTExOTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXv0oqj7VoL4.md) - [plain]
 
 > Music from "Dr.STONE" /「Dr.STONE」の楽曲を1つのプレイリストで。©米スタジオ・Boichi／集英社・Dr.STONE製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,970 likes - 52 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,113 likes - 52 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

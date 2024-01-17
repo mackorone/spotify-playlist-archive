@@ -4,7 +4,7 @@
 
 > Fresh takes on that high lonesome sound\. Cover: Sierra Ferrell
 
-369 songs - 23 hr 3 min
+371 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 | 2022-07-22 | 2023-06-03 |
 | [Blue Heron](https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Blue Heron Suite](https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV) | 4:28 | 2023-07-21 |  |
 | [Blue Ridge Mountain](https://open.spotify.com/track/0LDutPcTM5oGqNAU4h6A8t) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [Small Town Heroes](https://open.spotify.com/album/2Jgs7uTMWm1SmG8hQXS4yx) | 2:33 | 2021-10-01 | 2022-01-22 |
+| [Blue Sky](https://open.spotify.com/track/030xRmQe8IOwWqf25TVHly) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE) | [Blue Sky](https://open.spotify.com/album/7eGiHsarofeJYs4V51ahQf) | 2:47 | 2024-01-05 |  |
 | [Blue Sky Moon](https://open.spotify.com/track/3111xRtNBbWexzWjCYZQp2) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Blue Sky Moon](https://open.spotify.com/album/1Un7VebKIR6iEcFnvS2Rky) | 4:20 | 2023-03-03 |  |
 | [Bobcat On the Banjo](https://open.spotify.com/track/1tuJyZqZy0P34uPcwVFoo7) | [Kyle Tuttle](https://open.spotify.com/artist/4TA1bJ58eUSl5Qn8DP1L86) | [Bobcat](https://open.spotify.com/album/4JGaZ0yry5gocDPGJjlZcy) | 2:48 | 2021-10-01 | 2023-04-09 |
 | [Born Strangers](https://open.spotify.com/track/6sJx2uKIN6Al2RrghMXT5M) | [The Montvales](https://open.spotify.com/artist/0FYazSWo7TGjPJz0Jz4O9t) | [Born Strangers](https://open.spotify.com/album/4u0cNvfrj3P2dgHwtQFO14) | 3:52 | 2023-12-15 |  |
@@ -317,7 +318,8 @@
 | [The New Ground](https://open.spotify.com/track/6yljyecBkeP42NOhPzuJpH) | [Kristin Andreassen](https://open.spotify.com/artist/4ZmoZRx6S8AvKtFuRGIVSX) | [Gondolier](https://open.spotify.com/album/7FqccxROWYb0YQ3rg97ggN) | 3:26 | 2021-10-01 |  |
 | [The Sea \- Alternative Version](https://open.spotify.com/track/6FftizetgbURg5ung5zcLP) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [The Sea \(Alternative Version\)](https://open.spotify.com/album/5m6kuUHx1i8V17bAz7cTTo) | 2:26 | 2023-04-14 |  |
 | [The Tide](https://open.spotify.com/track/0XZelTejXEzaztup9j4xnO) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [The Tide](https://open.spotify.com/album/6Tn1yJmveMLAmATKi3m5cc) | 4:18 | 2021-10-01 | 2022-07-29 |
-| [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 |  |
+| [The Tide](https://open.spotify.com/track/7H60aEC32oOX4Fy4Ug2l0r) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/3GzqeSQTMzPpo6Ernuzh2c) | 4:18 | 2022-07-22 | 2024-01-04 |
+| [The Tide](https://open.spotify.com/track/6rXDs0kr2sbSnGMjmHb4s4) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Deep Waters](https://open.spotify.com/album/70KRJLwEXK6ZDGecwM92xb) | 4:18 | 2023-12-15 |  |
 | [The Unfinished Path](https://open.spotify.com/track/2vWSZ03MsOyvZdHKn7PdNE) | [Jeff Picker](https://open.spotify.com/artist/3RrojqFzLBxlTfW6QQVtN1) | [The Unfinished Path](https://open.spotify.com/album/0b3dXmFRNJTZ3hdEk35GoG) | 4:10 | 2022-10-07 |  |
 | [There is a Time](https://open.spotify.com/track/0pFM9wvRLxLnu8N0qoAFSr) | [Tori Miller](https://open.spotify.com/artist/1Mol6995exChZF3xQMJL9Q) | [There is a Time](https://open.spotify.com/album/6OJ9Y4NFTVi8H2FIN2bivG) | 3:45 | 2023-06-16 |  |
 | [This Time, Last Week](https://open.spotify.com/track/7Hth94P5JfHnyKNRhhN7sH) | [Sprig of That](https://open.spotify.com/artist/53VgTWcTeCcxwCYDS7voMa) | [This Time, Last Week](https://open.spotify.com/album/5CH6yP1XBrLDhIyVvq73o9) | 4:41 | 2023-02-10 |  |

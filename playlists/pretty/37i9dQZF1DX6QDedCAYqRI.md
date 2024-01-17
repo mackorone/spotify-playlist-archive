@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6QDedCAYqRI.md) - [plain]
 
 > These beautifully\-hypnotising vocalists are bound to make your evenings more chilling than ever.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,681 likes - 71 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,599 likes - 71 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

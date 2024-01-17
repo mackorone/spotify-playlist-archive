@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 
 > Pacific Northwest music breaking waves\.  Cover: <a href="spotify:artist:7KWbU8vlvkICzAOXsiRLal">Lazā</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,525 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,826 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKZ0Z9y3Qew.md) - [plain]
 | 38 | [Pacquiao](https://open.spotify.com/track/3gCenARY0mDAY9cNDpns25) | [Tha Baby](https://open.spotify.com/artist/08SVkY2vG3EVrzCLBOr7FK), [Isaacjacuzzi](https://open.spotify.com/artist/1d2LiED2RoP2szpzjrU0Hd) | [Pacquiao](https://open.spotify.com/album/5HGPg7pc2FtI3HXGyneYLH) | 2:39 |
 | 39 | [143](https://open.spotify.com/track/53gKMhmefXLkeohy8ilYtF) | [Yel](https://open.spotify.com/artist/5sY92Urzywu9iCFdfJfxYf), [Lyrane](https://open.spotify.com/artist/061XXjLJhKVUMxVHqSCCZ2) | [Cruise Control](https://open.spotify.com/album/5lwi0qKu7zW1wGk9IlDaN2) | 3:01 |
 | 40 | [Isolation](https://open.spotify.com/track/34FiAqEA4tiSTQkRh6ye8G) | [Hunnidkbaby](https://open.spotify.com/artist/6gj2nfDNUqOjbVGzYdzSFQ), [Mehlo](https://open.spotify.com/artist/0b6Sz34KvvDRwm6SeCkQGz) | [Isolated](https://open.spotify.com/album/0KXSAtgpYqrxTRzIs3SROj) | 1:46 |
-| 41 | [Stick N A Gown](https://open.spotify.com/track/2D2eNKHCNp0WuOVW38STdV) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:42 |
+| 41 | [Stick N A Gown](https://open.spotify.com/track/2D2eNKHCNp0WuOVW38STdV) | [Yung Bans](https://open.spotify.com/artist/6WkUZyqghQei2G809wMKuZ), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Yung Bans Vol\. 6](https://open.spotify.com/album/3sulyKSdjgSmSEtp7o8hWV) | 3:42 |
 | 42 | [SHARKEESHA](https://open.spotify.com/track/2LO4qGBQQ0ZATpprujzpHY) | [KHRIS P](https://open.spotify.com/artist/5kWlBrfLyEaITpIECNy577) | [NEW FLAME](https://open.spotify.com/album/0NzAVC3YPT2GMGYdWqdmJy) | 1:58 |
 | 43 | [On Dis](https://open.spotify.com/track/7EwAjexRdcRAVjtZAJGEE9) | [Dyrect](https://open.spotify.com/artist/1dhCuRGoNbR8a8bhdY3UUs), [Drae Slapz](https://open.spotify.com/artist/1RKGcbu15VTqYNYMjyisNM), [Brookfield Duece](https://open.spotify.com/artist/3oGsVcbMmorIL4MFfz7qxv) | [On Dis](https://open.spotify.com/album/5CWvG24Rz994vNhhS57vT8) | 2:07 |
 | 44 | [Big Taxin Pt\. 2](https://open.spotify.com/track/1iuyXOdxRfFDfL0WdOEYnB) | [TK Been Poppin](https://open.spotify.com/artist/5Pc4HO3rctRb5i2DY7oF43) | [Havin My Way](https://open.spotify.com/album/1Rqv5cMGJtvG47AMX8Bqy3) | 2:18 |

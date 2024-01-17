@@ -1,430 +1,889 @@
 {
-  "2022-10-29": 213,
-  "2022-10-30": 217,
-  "2022-10-31": 220,
-  "2022-11-01": 228,
-  "2022-11-02": 232,
-  "2022-11-03": 237,
-  "2022-11-04": 246,
-  "2022-11-05": 250,
-  "2022-11-06": 260,
-  "2022-11-07": 264,
-  "2022-11-08": 269,
-  "2022-11-09": 274,
-  "2022-11-10": 280,
-  "2022-11-11": 285,
-  "2022-11-12": 294,
-  "2022-11-13": 306,
-  "2022-11-14": 311,
-  "2022-11-15": 319,
-  "2022-11-16": 323,
-  "2022-11-17": 327,
-  "2022-11-18": 331,
-  "2022-11-19": 337,
-  "2022-11-20": 345,
-  "2022-11-21": 358,
-  "2022-11-22": 365,
-  "2022-11-23": 374,
-  "2022-11-24": 386,
-  "2022-11-25": 394,
-  "2022-11-26": 405,
-  "2022-11-27": 415,
-  "2022-11-28": 420,
-  "2022-11-29": 429,
-  "2022-11-30": 441,
-  "2022-12-01": 448,
-  "2022-12-02": 453,
-  "2022-12-03": 465,
-  "2022-12-04": 473,
-  "2022-12-05": 481,
-  "2022-12-06": 487,
-  "2022-12-07": 493,
-  "2022-12-08": 500,
-  "2022-12-09": 503,
-  "2022-12-10": 506,
-  "2022-12-11": 511,
-  "2022-12-12": 518,
-  "2022-12-13": 523,
-  "2022-12-14": 529,
-  "2022-12-15": 536,
-  "2022-12-16": 539,
-  "2022-12-17": 547,
-  "2022-12-18": 552,
-  "2022-12-19": 561,
-  "2022-12-20": 578,
-  "2022-12-21": 578,
-  "2022-12-22": 580,
-  "2022-12-24": 588,
-  "2022-12-25": 596,
-  "2022-12-26": 604,
-  "2022-12-27": 614,
-  "2022-12-28": 621,
-  "2022-12-29": 621,
-  "2022-12-30": 628,
-  "2022-12-31": 638,
-  "2023-01-01": 646,
-  "2023-01-02": 651,
-  "2023-01-03": 660,
-  "2023-01-04": 670,
-  "2023-01-05": 680,
-  "2023-01-06": 684,
-  "2023-01-07": 700,
-  "2023-01-08": 701,
-  "2023-01-09": 711,
-  "2023-01-10": 722,
-  "2023-01-11": 735,
-  "2023-01-12": 740,
-  "2023-01-13": 746,
-  "2023-01-14": 753,
-  "2023-01-15": 755,
-  "2023-01-16": 762,
-  "2023-01-17": 770,
-  "2023-01-18": 779,
-  "2023-01-19": 783,
-  "2023-01-20": 792,
-  "2023-01-21": 799,
-  "2023-01-22": 803,
-  "2023-01-23": 810,
-  "2023-01-24": 817,
-  "2023-01-25": 830,
-  "2023-01-26": 833,
-  "2023-01-27": 839,
-  "2023-01-28": 843,
-  "2023-01-29": 849,
-  "2023-01-30": 858,
-  "2023-01-31": 858,
-  "2023-02-01": 869,
-  "2023-02-02": 877,
-  "2023-02-03": 886,
-  "2023-02-04": 890,
-  "2023-02-05": 895,
-  "2023-02-06": 905,
-  "2023-02-07": 914,
-  "2023-02-08": 940,
-  "2023-02-09": 940,
-  "2023-02-10": 954,
-  "2023-02-11": 965,
-  "2023-02-12": 982,
-  "2023-02-13": 989,
-  "2023-02-14": 989,
-  "2023-02-15": 991,
-  "2023-02-16": 996,
-  "2023-02-17": 1006,
-  "2023-02-18": 1021,
-  "2023-02-19": 1022,
-  "2023-02-20": 1029,
-  "2023-02-21": 1035,
-  "2023-02-22": 1043,
-  "2023-02-23": 1049,
-  "2023-02-24": 1056,
-  "2023-02-25": 1067,
-  "2023-02-26": 1073,
-  "2023-02-27": 1090,
-  "2023-02-28": 1090,
-  "2023-03-01": 1097,
-  "2023-03-02": 1105,
-  "2023-03-03": 1112,
-  "2023-03-04": 1114,
-  "2023-03-05": 1129,
-  "2023-03-06": 1129,
-  "2023-03-07": 1133,
-  "2023-03-08": 1133,
-  "2023-03-09": 1138,
-  "2023-03-10": 1140,
-  "2023-03-11": 1148,
-  "2023-03-12": 1156,
-  "2023-03-13": 1167,
-  "2023-03-14": 1169,
-  "2023-03-15": 1175,
-  "2023-03-16": 1175,
-  "2023-03-17": 1175,
-  "2023-03-18": 1192,
-  "2023-03-19": 1192,
-  "2023-03-20": 1196,
-  "2023-03-21": 1197,
-  "2023-03-22": 1198,
-  "2023-03-23": 1207,
-  "2023-03-24": 1207,
-  "2023-03-25": 1215,
-  "2023-03-26": 1223,
-  "2023-03-27": 1226,
-  "2023-03-28": 1235,
-  "2023-03-29": 1241,
-  "2023-03-30": 1258,
-  "2023-03-31": 1258,
-  "2023-04-01": 1269,
-  "2023-04-02": 1272,
-  "2023-04-03": 1283,
-  "2023-04-04": 1287,
-  "2023-04-05": 1292,
-  "2023-04-06": 1300,
-  "2023-04-07": 1303,
-  "2023-04-09": 1314,
-  "2023-04-10": 1315,
-  "2023-04-11": 1324,
-  "2023-04-12": 1324,
-  "2023-04-13": 1331,
-  "2023-04-14": 1338,
-  "2023-04-15": 1343,
-  "2023-04-16": 1346,
-  "2023-04-17": 1350,
-  "2023-04-18": 1354,
-  "2023-04-19": 1358,
-  "2023-04-20": 1366,
-  "2023-04-21": 1370,
-  "2023-04-22": 1378,
-  "2023-04-23": 1384,
-  "2023-04-24": 1388,
-  "2023-04-25": 1390,
-  "2023-04-26": 1392,
-  "2023-04-27": 1399,
-  "2023-04-28": 1402,
-  "2023-04-29": 1403,
-  "2023-04-30": 1408,
-  "2023-05-01": 1411,
-  "2023-05-02": 1421,
-  "2023-05-03": 1425,
-  "2023-05-04": 1428,
-  "2023-05-05": 1437,
-  "2023-05-06": 1442,
-  "2023-05-07": 1446,
-  "2023-05-08": 1452,
-  "2023-05-09": 1459,
-  "2023-05-10": 1464,
-  "2023-05-11": 1471,
-  "2023-05-12": 1476,
-  "2023-05-13": 1480,
-  "2023-05-14": 1488,
-  "2023-05-15": 1496,
-  "2023-05-16": 1502,
-  "2023-05-17": 1507,
-  "2023-05-18": 1512,
-  "2023-05-19": 1522,
-  "2023-05-20": 1531,
-  "2023-05-21": 1531,
-  "2023-05-22": 1531,
-  "2023-05-23": 1539,
-  "2023-05-24": 1547,
-  "2023-05-25": 1550,
-  "2023-05-26": 1551,
-  "2023-05-27": 1556,
-  "2023-05-28": 1558,
-  "2023-05-29": 1558,
-  "2023-05-30": 1566,
-  "2023-05-31": 1571,
-  "2023-06-01": 1577,
-  "2023-06-02": 1581,
-  "2023-06-03": 1590,
-  "2023-06-04": 1591,
-  "2023-06-05": 1594,
-  "2023-06-06": 1603,
-  "2023-06-07": 1605,
-  "2023-06-08": 1609,
-  "2023-06-09": 1614,
-  "2023-06-10": 1622,
-  "2023-06-11": 1628,
-  "2023-06-12": 1633,
-  "2023-06-13": 1639,
-  "2023-06-14": 1645,
-  "2023-06-15": 1651,
-  "2023-06-16": 1654,
-  "2023-06-17": 1655,
-  "2023-06-18": 1660,
-  "2023-06-19": 1663,
-  "2023-06-20": 1669,
-  "2023-06-21": 1672,
-  "2023-06-22": 1676,
-  "2023-06-23": 1683,
-  "2023-06-24": 1685,
-  "2023-06-25": 1691,
-  "2023-06-26": 1695,
-  "2023-06-27": 1699,
-  "2023-06-28": 1702,
-  "2023-06-29": 1704,
-  "2023-06-30": 1707,
-  "2023-07-01": 1715,
-  "2023-07-02": 1715,
-  "2023-07-03": 1716,
-  "2023-07-04": 1720,
-  "2023-07-05": 1723,
-  "2023-07-06": 1733,
-  "2023-07-07": 1733,
-  "2023-07-08": 1733,
-  "2023-07-09": 1741,
-  "2023-07-10": 1745,
-  "2023-07-11": 1752,
-  "2023-07-12": 1755,
-  "2023-07-13": 1757,
-  "2023-07-14": 1767,
-  "2023-07-15": 1765,
-  "2023-07-16": 1771,
-  "2023-07-17": 1775,
-  "2023-07-18": 1778,
-  "2023-07-19": 1779,
-  "2023-07-20": 1779,
-  "2023-07-21": 1789,
-  "2023-07-22": 1796,
-  "2023-07-23": 1800,
-  "2023-07-24": 1807,
-  "2023-07-25": 1814,
-  "2023-07-26": 1819,
-  "2023-07-27": 1825,
-  "2023-07-28": 1825,
-  "2023-07-29": 1835,
-  "2023-07-30": 1835,
-  "2023-07-31": 1844,
-  "2023-08-01": 1850,
-  "2023-08-02": 1850,
-  "2023-08-03": 1855,
-  "2023-08-04": 1859,
-  "2023-08-05": 1858,
-  "2023-08-06": 1865,
-  "2023-08-07": 1865,
-  "2023-08-08": 1869,
-  "2023-08-09": 1873,
-  "2023-08-10": 1878,
-  "2023-08-11": 1883,
-  "2023-08-12": 1883,
-  "2023-08-13": 1883,
-  "2023-08-14": 1883,
-  "2023-08-15": 1883,
-  "2023-08-16": 1883,
-  "2023-08-17": 1883,
-  "2023-08-18": 1883,
-  "2023-08-19": 1883,
-  "2023-08-20": 1920,
-  "2023-08-21": 1920,
-  "2023-08-22": 1922,
-  "2023-08-23": 1922,
-  "2023-08-24": 1922,
-  "2023-08-25": 1922,
-  "2023-08-26": 1937,
-  "2023-08-27": 1937,
-  "2023-08-28": 1948,
-  "2023-08-29": 1948,
-  "2023-08-30": 1948,
-  "2023-08-31": 1958,
-  "2023-09-01": 1960,
-  "2023-09-02": 1960,
-  "2023-09-03": 1960,
-  "2023-09-04": 1960,
-  "2023-09-05": 1960,
-  "2023-09-06": 1960,
-  "2023-09-07": 1960,
-  "2023-09-08": 1960,
-  "2023-09-09": 1960,
-  "2023-09-10": 1960,
-  "2023-09-11": 1960,
-  "2023-09-12": 1960,
-  "2023-09-13": 1960,
-  "2023-09-14": 1960,
-  "2023-09-15": 1960,
-  "2023-09-16": 1960,
-  "2023-09-17": 1960,
-  "2023-09-18": 1960,
-  "2023-09-19": 1960,
-  "2023-09-20": 1960,
-  "2023-09-21": 1960,
-  "2023-09-22": 2059,
-  "2023-09-23": 2059,
-  "2023-09-24": 2059,
-  "2023-09-25": 2059,
-  "2023-09-26": 2067,
-  "2023-09-27": 2067,
-  "2023-09-28": 2067,
-  "2023-09-29": 2067,
-  "2023-09-30": 2067,
-  "2023-10-01": 2067,
-  "2023-10-02": 2067,
-  "2023-10-03": 2067,
-  "2023-10-04": 2067,
-  "2023-10-05": 2067,
-  "2023-10-06": 2067,
-  "2023-10-07": 2067,
-  "2023-10-08": 2067,
-  "2023-10-09": 2067,
-  "2023-10-10": 2067,
-  "2023-10-11": 2067,
-  "2023-10-12": 2067,
-  "2023-10-13": 2067,
-  "2023-10-14": 2067,
-  "2023-10-15": 2067,
-  "2023-10-16": 2067,
-  "2023-10-17": 2067,
-  "2023-10-18": 2067,
-  "2023-10-19": 2067,
-  "2023-10-20": 2067,
-  "2023-10-21": 2067,
-  "2023-10-22": 2067,
-  "2023-10-23": 2067,
-  "2023-10-24": 2067,
-  "2023-10-25": 2067,
-  "2023-10-26": 2067,
-  "2023-10-27": 2067,
-  "2023-10-28": 2067,
-  "2023-10-29": 2067,
-  "2023-10-30": 2067,
-  "2023-10-31": 2067,
-  "2023-11-01": 2067,
-  "2023-11-02": 2067,
-  "2023-11-03": 2067,
-  "2023-11-04": 2067,
-  "2023-11-05": 2067,
-  "2023-11-06": 2067,
-  "2023-11-07": 2067,
-  "2023-11-08": 2067,
-  "2023-11-09": 2067,
-  "2023-11-10": 2067,
-  "2023-11-11": 2214,
-  "2023-11-12": 2214,
-  "2023-11-13": 2214,
-  "2023-11-14": 2214,
-  "2023-11-15": 2214,
-  "2023-11-16": 2214,
-  "2023-11-17": 2214,
-  "2023-11-18": 2214,
-  "2023-11-19": 2214,
-  "2023-11-20": 2214,
-  "2023-11-21": 2214,
-  "2023-11-22": 2214,
-  "2023-11-23": 2214,
-  "2023-11-24": 2214,
-  "2023-11-25": 2214,
-  "2023-11-26": 2214,
-  "2023-11-27": 2214,
-  "2023-11-28": 2214,
-  "2023-11-29": 2214,
-  "2023-11-30": 2214,
-  "2023-12-01": 2214,
-  "2023-12-02": 2214,
-  "2023-12-03": 2214,
-  "2023-12-04": 2214,
-  "2023-12-05": 2214,
-  "2023-12-06": 2214,
-  "2023-12-07": 2214,
-  "2023-12-08": 2214,
-  "2023-12-09": 2214,
-  "2023-12-10": 2214,
-  "2023-12-11": 2214,
-  "2023-12-12": 2214,
-  "2023-12-13": 2214,
-  "2023-12-14": 2328,
-  "2023-12-15": 2332,
-  "2023-12-16": 2338,
-  "2023-12-17": 2339,
-  "2023-12-18": 2340,
-  "2023-12-19": 2341,
-  "2023-12-20": 2343,
-  "2023-12-21": 2343,
-  "2023-12-22": 2348,
-  "2023-12-23": 2354,
-  "2023-12-24": 2360,
-  "2023-12-25": 2363,
-  "2023-12-26": 2367,
-  "2023-12-27": 2371,
-  "2023-12-30": 2379,
-  "2023-12-31": 2381,
-  "2024-01-01": 2389,
-  "2024-01-02": 2394,
-  "2024-01-03": 2395
+  "2024-01-17": 2444,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Lakeyah. The essential tracks, all in one playlist.",
+  "name": "This Is Lakeyah",
+  "tracks": [
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "2 Tone",
+      "url": "https://open.spotify.com/track/3Jnl2guSuAyunmKjC7OuO0"
+    },
+    {
+      "album": {
+        "name": "313-414 (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/6cmBaEBEeyzfI9dSCcGQc8"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149938,
+      "name": "313-414 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/7gW1UPdKgyEhUW6jDgP9sw"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163416,
+      "name": "A Letter To You",
+      "url": "https://open.spotify.com/track/0W512ZGCgkNqHW7ETE2YV7"
+    },
+    {
+      "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/1Jm12CDLPjD2FQHvUBQCNi"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-02-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/3yGkAxLoThYMYzoZcWMNwJ"
+    },
+    {
+      "album": {
+        "name": "Back on Dexter: A Gangsta Grillz Mixtape",
+        "url": "https://open.spotify.com/album/3gJu08yhtYhFrpYqp7sCir"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176923,
+      "name": "ADD IT UP",
+      "url": "https://open.spotify.com/track/7uiPi84YedJClCxAxEflia"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?",
+        "url": "https://open.spotify.com/album/338LPt19lJ2GiGmxDSOAtR"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Baby Wyd? (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/080BnzVFYXgNR6f4jtyzkP"
+    },
+    {
+      "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/25K3Kzv6hXfi3Mslv3El5i"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-29",
+      "duration_ms": 225530,
+      "name": "Baby Wyd? (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/7Kv4cX2Uz8QltmYNUjjU5K"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111158,
+      "name": "Basic",
+      "url": "https://open.spotify.com/track/6Gl7QRLReR3soZaOSQuKpc"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "Big FlexHer",
+      "url": "https://open.spotify.com/track/6Yw5G6x9tiuwzhgTiQtafh"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Layton Greene",
+          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166730,
+      "name": "Brand New (feat. Layton Green)",
+      "url": "https://open.spotify.com/track/6PBAfbHMqlHWOKon7Uyqdc"
+    },
+    {
+      "album": {
+        "name": "Distractions",
+        "url": "https://open.spotify.com/album/2joAdhMvatZfWwfOSzzxLe"
+      },
+      "artists": [
+        {
+          "name": "Trapboy Freddy",
+          "url": "https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105359,
+      "name": "Buss It Open (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/0Ps4MNq0PYDasTbmF3Uorq"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172714,
+      "name": "Check (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/3nOUWFEtWaBlhfh2no0zs7"
+    },
+    {
+      "album": {
+        "name": "Don't Go",
+        "url": "https://open.spotify.com/album/6bcHeawDcb8LE6VWSdWh8H"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178857,
+      "name": "Don\u2019t Go",
+      "url": "https://open.spotify.com/track/5de4ov0wqSliqRzzPIq1iw"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173752,
+      "name": "Female Goat",
+      "url": "https://open.spotify.com/track/3GvtfWTRoialUPNCbDjdtI"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6qQcyyo2dCSynZQCCTIWAK"
+        },
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197496,
+      "name": "Giannis (feat. Icewear Vezzo & Peezy)",
+      "url": "https://open.spotify.com/track/4wMsfCTbVOz1UuZTr7Vlcs"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123585,
+      "name": "GOAT Talk",
+      "url": "https://open.spotify.com/track/3pSPOHc63HxnuD2bzA4Qdd"
+    },
+    {
+      "album": {
+        "name": "Hear My Cry",
+        "url": "https://open.spotify.com/album/0JMoNRUAl0DJe7PP2d2eRz"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "Hear My Cry",
+      "url": "https://open.spotify.com/track/60ElfiVjf4AlzIq2BC5z1X"
+    },
+    {
+      "album": {
+        "name": "I Look Good",
+        "url": "https://open.spotify.com/album/1IoA8ma8z6shw1ZAre9rab"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-14",
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/09zTVXUcPZvWhIERXChXep"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113450,
+      "name": "I Look Good",
+      "url": "https://open.spotify.com/track/1qk4oqAEOI0cN8D1J9ato9"
+    },
+    {
+      "album": {
+        "name": "In Da Club",
+        "url": "https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/5N5d0rCeSPKPG8FLlGeR6Q"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130098,
+      "name": "In Person (With OG Parker feat. Tyga)",
+      "url": "https://open.spotify.com/track/0GYi1PEjtCPfXHPGnvs5ON"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
+    },
+    {
+      "album": {
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
+    },
+    {
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "album": {
+        "name": "No Hesitation",
+        "url": "https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133903,
+      "name": "No Hesitation",
+      "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117600,
+      "name": "No Hook",
+      "url": "https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141512,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126579,
+      "name": "Pop Dat",
+      "url": "https://open.spotify.com/track/69IaTU22g3APresMDbF4g9"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154230,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R"
+    },
+    {
+      "album": {
+        "name": "Real Bitch (feat. Gloss Up)",
+        "url": "https://open.spotify.com/album/6MUUM532DEcR697rck5n90"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Gloss Up",
+          "url": "https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124904,
+      "name": "Real Bitch (feat. Gloss Up)",
+      "url": "https://open.spotify.com/track/4zH4kR30s4Cx6HMvodrf32"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165331,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/52hWMRYetR1B4qm2GtLPCY"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 1)",
+        "url": "https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116288,
+      "name": "Record Straight",
+      "url": "https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV"
+    },
+    {
+      "album": {
+        "name": "It's Not Me It's You (Deluxe)",
+        "url": "https://open.spotify.com/album/4JUp6qReEgKfOP76grq6v0"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161684,
+      "name": "Rich Bitch (feat. Lakeyah & Coi Leray)",
+      "url": "https://open.spotify.com/track/0KIxQnTtdBtQmLA3oXzFEB"
+    },
+    {
+      "album": {
+        "name": "My Time (Gangsta Grillz: Special Edition)",
+        "url": "https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "DJ Drama",
+          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117235,
+      "name": "Shots Fired",
+      "url": "https://open.spotify.com/track/4dvJ4fo8Su6u3eW9oVekUK"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227755,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH"
+    },
+    {
+      "album": {
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2023-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199395,
+      "name": "Windows",
+      "url": "https://open.spotify.com/track/0XgpqzcmMFapQ0kebq1EuD"
+    },
+    {
+      "album": {
+        "name": "Time's Up",
+        "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147859,
+      "name": "Worst Thing",
+      "url": "https://open.spotify.com/track/5FfInegP9g9CPjmfzZ7TuV"
+    },
+    {
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238571,
+      "name": "Worth The Wait (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/4suJgyiPJsJHEglKn6f2G1"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168997,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/43yavpJdlpq8CcEs8nIdyg"
+    },
+    {
+      "album": {
+        "name": "In Due Time",
+        "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152094,
+      "name": "Young and Ratchet",
+      "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d2pdS"
 }

@@ -1,108 +1,60 @@
 {
   "description": "Un paseo por la ciudad pintada de violeta.",
-  "num_followers": 27844,
+  "num_followers": 27969,
   "original_name": "Jacarandas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmM3MDQ0MzU3NGY4Njg2NGY0NTBiNzNmNjA1MDIxZWNmODI1ZDhh",
+  "snapshot_id": "MCxkZjRmZjE5NTYxYjE4NzQzODEwMjUyZWE1NDg3ZjZkNzYyNmE0MTEz",
   "tracks": [
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
     {
       "added_at": "2023-02-27 19:16:12",
       "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 211021,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "T\u00fa",
-        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
         }
       ],
-      "duration_ms": 206611,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Canoas",
-        "url": "https://open.spotify.com/album/2aRUgi8wUIUxzgO5VEOCDv"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "Canoas",
-      "url": "https://open.spotify.com/track/7IUGR0FsJjrME1T9fmN2Ig"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "What Do You Want It To Be?",
-        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
-      },
-      "artists": [
-        {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
-        }
-      ],
-      "duration_ms": 258832,
-      "name": "Think of You",
-      "url": "https://open.spotify.com/track/1TMNQtfsu3Bwa808I3Hx5X"
-    },
-    {
-      "added_at": "2023-10-28 00:56:24",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 236129,
-      "name": "Madres",
-      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Supernatural (Remastered)",
-        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
-      },
-      "artists": [
-        {
-          "name": "Santana",
-          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
-        }
-      ],
-      "duration_ms": 376320,
-      "name": "Primavera",
-      "url": "https://open.spotify.com/track/478do7vDhmjKJCL22pe6dI"
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-03-31 17:51:22",
@@ -125,74 +77,6 @@
       "url": "https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO"
     },
     {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Private Space",
-        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
-      },
-      "artists": [
-        {
-          "name": "Durand Jones & The Indications",
-          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
-        },
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 254722,
-      "name": "Ride or Die",
-      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Corcovado",
-        "url": "https://open.spotify.com/album/3jgcqUrpue41VM7LRLvfDO"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Volkov",
-          "url": "https://open.spotify.com/artist/17JlqqdDMFkn0NLCYCZ3Xw"
-        }
-      ],
-      "duration_ms": 171600,
-      "name": "Corcovado",
-      "url": "https://open.spotify.com/track/0kSrEKOaCDnmrCb9Y5jJbI"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Petite Amie",
-        "url": "https://open.spotify.com/album/4dCj9ZcOfgd6mRw346lc0o"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 206093,
-      "name": "C'est Pas Moi",
-      "url": "https://open.spotify.com/track/0oLX98sKL7axVJKnmuCBvT"
-    },
-    {
-      "added_at": "2023-10-24 02:29:19",
-      "album": {
-        "name": "Una Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1viiLY7oeUX6GkIdJ9XxnZ"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 221831,
-      "name": "Una Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4svWyFxwaXJYfLlUNqw0uv"
-    },
-    {
       "added_at": "2023-02-27 19:16:12",
       "album": {
         "name": "Aztl\u00e1n",
@@ -209,52 +93,100 @@
       "url": "https://open.spotify.com/track/7ffkdwy4EvMSeUnPVSyqqw"
     },
     {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "If I Am Only My Thoughts",
-        "url": "https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO"
-      },
-      "artists": [
-        {
-          "name": "Loving",
-          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
-        }
-      ],
-      "duration_ms": 233558,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "\u30c9\u30ea\u30fc\u30e0\u30a4\u30f3\u30b6\u30b9\u30c8\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH"
-      },
-      "artists": [
-        {
-          "name": "\u6c60\u7530\u5178\u4ee3",
-          "url": "https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M"
-        }
-      ],
-      "duration_ms": 298786,
-      "name": "Dream In The Street",
-      "url": "https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s"
-    },
-    {
       "added_at": "2023-02-27 19:16:12",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "H\u00e1blate de M\u00ed",
+        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 211021,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Oh Honey",
+        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
+      },
+      "artists": [
+        {
+          "name": "Delegation",
+          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
+        }
+      ],
+      "duration_ms": 356200,
+      "name": "Oh Honey",
+      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "T\u00fa",
+        "url": "https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 206611,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "For Ever",
+        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 196138,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 237826,
+      "name": "Kong",
+      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Constru\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Cotidiano",
+      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
     },
     {
       "added_at": "2022-03-13 21:12:32",
@@ -279,326 +211,6 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Melodi",
-        "url": "https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9"
-      },
-      "artists": [
-        {
-          "name": "Kit Sebastian",
-          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
-        }
-      ],
-      "duration_ms": 217552,
-      "name": "Elegy for Love",
-      "url": "https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Jacaranda",
-        "url": "https://open.spotify.com/album/56WZTdmE87rkqZL783hDBu"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 264080,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/2MPmqlCf6Hwgo5d2F7mA6Z"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 174303,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Oh Honey",
-        "url": "https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi"
-      },
-      "artists": [
-        {
-          "name": "Delegation",
-          "url": "https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf"
-        }
-      ],
-      "duration_ms": 356200,
-      "name": "Oh Honey",
-      "url": "https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Passionfruit",
-        "url": "https://open.spotify.com/album/4o0ARuL2D7jQMXUiLxPUmQ"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 193635,
-      "name": "Passionfruit",
-      "url": "https://open.spotify.com/track/5wt77SLNpmmrwhjcITgcaz"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2023-04-11 00:46:30",
-      "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
-      },
-      "artists": [
-        {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
-        }
-      ],
-      "duration_ms": 190647,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
-    },
-    {
-      "added_at": "2023-02-28 04:07:48",
-      "album": {
-        "name": "Regional Chill",
-        "url": "https://open.spotify.com/album/2x3TRA370o6LWyGFe3c52R"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Raylen",
-          "url": "https://open.spotify.com/artist/0Xt8WVzuoVq7yf1z4RuX0l"
-        }
-      ],
-      "duration_ms": 220463,
-      "name": "Quemonito",
-      "url": "https://open.spotify.com/track/5ZnRgLArtNJj88K6HHl1e9"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Constru\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7yrRo2o4XzDfv3mNnkPRE5"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 168373,
-      "name": "Cotidiano",
-      "url": "https://open.spotify.com/track/127twwy3iCo1xBRQHyWetU"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Inspiration Information 3",
-        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
-      },
-      "artists": [
-        {
-          "name": "Mulatu Astatke",
-          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
-        },
-        {
-          "name": "The Heliocentrics",
-          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
-        }
-      ],
-      "duration_ms": 275373,
-      "name": "Cha Cha",
-      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "The Best of Cerrone",
-        "url": "https://open.spotify.com/album/3DHFYJp4MMHdF28QgB3pcm"
-      },
-      "artists": [
-        {
-          "name": "Cerrone",
-          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
-        }
-      ],
-      "duration_ms": 280868,
-      "name": "Give Me Love - Edit",
-      "url": "https://open.spotify.com/track/0LLMMW7pbJCJ5doaBuxZAE"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "For Ever",
-        "url": "https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 196138,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/5k44yc5bXO1XRedzjaugdQ"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "walk but in a garden",
-        "url": "https://open.spotify.com/album/03Glq418UekVfi6ud34yeg"
-      },
-      "artists": [
-        {
-          "name": "LLusion",
-          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
-        }
-      ],
-      "duration_ms": 114000,
-      "name": "walk but in a garden",
-      "url": "https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Local Valley (Deluxe)",
-        "url": "https://open.spotify.com/album/4diHCkCZbrCxqzy0rg4c2o"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        },
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 264186,
-      "name": "El Invento - Sofia Kourtesis Remix",
-      "url": "https://open.spotify.com/track/3DcpewxfB6UZoCnZj0ed8S"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 204746,
-      "name": "Carta",
-      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Gens de la nuit",
-        "url": "https://open.spotify.com/album/0tCbHlvksNRxJF4JzKD6gh"
-      },
-      "artists": [
-        {
-          "name": "Clea Vincent",
-          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Gens de la nuit",
-      "url": "https://open.spotify.com/track/5Qhf6Er2tQ71pluUxFwDqI"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Joven Navegante",
-        "url": "https://open.spotify.com/album/3BG9yYvOHbYblsASg6biYg"
-      },
-      "artists": [
-        {
-          "name": "Chicano Batman",
-          "url": "https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "Pomegranate Tree",
-      "url": "https://open.spotify.com/track/0j1r9LUCbmB4v9sy6Af7VD"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Special Night",
-        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
-      },
-      "artists": [
-        {
-          "name": "Lee Fields & The Expressions",
-          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
-        }
-      ],
-      "duration_ms": 278160,
-      "name": "Precious Love",
-      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
         "name": "Low Season",
         "url": "https://open.spotify.com/album/7LFYknpolISd3ObShh7nSe"
       },
@@ -615,74 +227,6 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Love Song (Helado Negro Remix)",
-        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 259226,
-      "name": "Love Song - Helado Negro Remix",
-      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Under Cherry Blossom Trees",
-        "url": "https://open.spotify.com/album/7KY5rT4oXqmTA3wflzfox0"
-      },
-      "artists": [
-        {
-          "name": "neeks",
-          "url": "https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N"
-        }
-      ],
-      "duration_ms": 85333,
-      "name": "Under Cherry Blossom Trees",
-      "url": "https://open.spotify.com/track/2FjqTNsMtqmat4oU2PpYwK"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 178483,
-      "name": "Swingin' Spathiphyllums",
-      "url": "https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
     },
     {
       "added_at": "2022-03-13 21:12:32",
@@ -707,102 +251,6 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Don't Know What's Normal",
-        "url": "https://open.spotify.com/album/7bJwcCp26OhNiDLkNQ8vRR"
-      },
-      "artists": [
-        {
-          "name": "Shintaro Sakamoto",
-          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
-        }
-      ],
-      "duration_ms": 269653,
-      "name": "Don't Know What's Normal",
-      "url": "https://open.spotify.com/track/6nF10SdhHFoplBPcynWYcI"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 259553,
-      "name": "Lemonade Lake",
-      "url": "https://open.spotify.com/track/37c5Zy0vJIGvtW03cDamUo"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Kpm 1000 Series: Voices in Harmony",
-        "url": "https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o"
-      },
-      "artists": [
-        {
-          "name": "John Cameron",
-          "url": "https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk"
-        }
-      ],
-      "duration_ms": 179605,
-      "name": "Liquid Sunshine",
-      "url": "https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Parcels",
-        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 312300,
-      "name": "Exotica",
-      "url": "https://open.spotify.com/track/2eC43PWHMbUnwqCRZcbGfo"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "everything's worth it",
-        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
-      },
-      "artists": [
-        {
-          "name": "iogi",
-          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
-        }
-      ],
-      "duration_ms": 219524,
-      "name": "you\\me\\everyone",
-      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 238465,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
         "name": "Melodies",
         "url": "https://open.spotify.com/album/5gtaS4I65T2W5bIyFD2SEU"
       },
@@ -823,82 +271,54 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+        "name": "walk but in a garden",
+        "url": "https://open.spotify.com/album/03Glq418UekVfi6ud34yeg"
       },
       "artists": [
         {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+          "name": "LLusion",
+          "url": "https://open.spotify.com/artist/5XBb04uBpKPWPWC2jXgGqb"
         }
       ],
-      "duration_ms": 237826,
-      "name": "Kong",
-      "url": "https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh"
+      "duration_ms": 114000,
+      "name": "walk but in a garden",
+      "url": "https://open.spotify.com/track/0p1oF94MG2dOCbMSDsGMDj"
     },
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Jacaranda",
-        "url": "https://open.spotify.com/album/574GqifDRYz5907qCC7TgU"
+        "name": "Private Space",
+        "url": "https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW"
       },
       "artists": [
         {
-          "name": "Luiz Bonf\u00e1",
-          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+          "name": "Durand Jones & The Indications",
+          "url": "https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP"
+        },
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
         }
       ],
-      "duration_ms": 249208,
-      "name": "Jacaranda",
-      "url": "https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S"
+      "duration_ms": 254722,
+      "name": "Ride or Die",
+      "url": "https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X"
     },
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+        "name": "If I Am Only My Thoughts",
+        "url": "https://open.spotify.com/album/2wnCHhRVZUFVEiAO79F4XO"
       },
       "artists": [
         {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+          "name": "Loving",
+          "url": "https://open.spotify.com/artist/4ftctxasGrW5Ud5Pbw6kWq"
         }
       ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2022-03-13 21:12:32",
-      "album": {
-        "name": "Journey Through The Secret Life Of Plants",
-        "url": "https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Power Flower",
-      "url": "https://open.spotify.com/track/7lUg8pGTS5p97bB5eB5nPc"
-    },
-    {
-      "added_at": "2023-02-27 19:16:12",
-      "album": {
-        "name": "LemonJelly.ky",
-        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
-      },
-      "artists": [
-        {
-          "name": "Lemon Jelly",
-          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
-        }
-      ],
-      "duration_ms": 405866,
-      "name": "A Tune For Jack",
-      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+      "duration_ms": 233558,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/08BgHsJg8f3Z8QJDAqabIA"
     },
     {
       "added_at": "2022-03-13 21:12:32",
@@ -919,6 +339,290 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 238465,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/0NJRPgK15C8qoLuQv1hChv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 178483,
+      "name": "Swingin' Spathiphyllums",
+      "url": "https://open.spotify.com/track/4BhNfgW04FWCSgY0YKdQCG"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 174303,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Love Song (Helado Negro Remix)",
+        "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 259226,
+      "name": "Love Song - Helado Negro Remix",
+      "url": "https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF"
+    },
+    {
+      "added_at": "2024-01-11 21:48:50",
+      "album": {
+        "name": "Claro de Luna",
+        "url": "https://open.spotify.com/album/1IWoyDhqcmIEFs6VmjIt1s"
+      },
+      "artists": [
+        {
+          "name": "Don Couto",
+          "url": "https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Claro de Luna",
+      "url": "https://open.spotify.com/track/7FIi8xh0J96N60yN1oE36r"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Parcels",
+        "url": "https://open.spotify.com/album/6tNAnVG8xrmMbINuWutrNy"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 312300,
+      "name": "Exotica",
+      "url": "https://open.spotify.com/track/2eC43PWHMbUnwqCRZcbGfo"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Passionfruit",
+        "url": "https://open.spotify.com/album/4o0ARuL2D7jQMXUiLxPUmQ"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 193635,
+      "name": "Passionfruit",
+      "url": "https://open.spotify.com/track/5wt77SLNpmmrwhjcITgcaz"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Kpm 1000 Series: Voices in Harmony",
+        "url": "https://open.spotify.com/album/3VmCC7JnGsOpPf2PncZX8o"
+      },
+      "artists": [
+        {
+          "name": "John Cameron",
+          "url": "https://open.spotify.com/artist/18ouJo7j7egCFOsRdCTcUk"
+        }
+      ],
+      "duration_ms": 179605,
+      "name": "Liquid Sunshine",
+      "url": "https://open.spotify.com/track/5rXMjn480P9q0aomXjmj0Q"
+    },
+    {
+      "added_at": "2023-10-28 00:56:24",
+      "album": {
+        "name": "Madres",
+        "url": "https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 236129,
+      "name": "Madres",
+      "url": "https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Solar Therapy",
+        "url": "https://open.spotify.com/album/1pSI1XjzAMxU8e6neW9NHY"
+      },
+      "artists": [
+        {
+          "name": "Moontricks",
+          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "Solar Therapy",
+      "url": "https://open.spotify.com/track/3snmLEQT797ilvLOnPa2M2"
+    },
+    {
+      "added_at": "2023-02-27 19:16:12",
+      "album": {
+        "name": "LemonJelly.ky",
+        "url": "https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk"
+      },
+      "artists": [
+        {
+          "name": "Lemon Jelly",
+          "url": "https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc"
+        }
+      ],
+      "duration_ms": 405866,
+      "name": "A Tune For Jack",
+      "url": "https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Don't Know What's Normal",
+        "url": "https://open.spotify.com/album/7bJwcCp26OhNiDLkNQ8vRR"
+      },
+      "artists": [
+        {
+          "name": "Shintaro Sakamoto",
+          "url": "https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq"
+        }
+      ],
+      "duration_ms": 269653,
+      "name": "Don't Know What's Normal",
+      "url": "https://open.spotify.com/track/6nF10SdhHFoplBPcynWYcI"
+    },
+    {
+      "added_at": "2023-03-31 17:51:22",
+      "album": {
+        "name": "Impurities",
+        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 229203,
+      "name": "Impurities",
+      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Jacaranda",
+        "url": "https://open.spotify.com/album/56WZTdmE87rkqZL783hDBu"
+      },
+      "artists": [
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "duration_ms": 264080,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/2MPmqlCf6Hwgo5d2F7mA6Z"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Under Cherry Blossom Trees",
+        "url": "https://open.spotify.com/album/7KY5rT4oXqmTA3wflzfox0"
+      },
+      "artists": [
+        {
+          "name": "neeks",
+          "url": "https://open.spotify.com/artist/01wJR8orhmzSLT8rO8rM5N"
+        }
+      ],
+      "duration_ms": 85333,
+      "name": "Under Cherry Blossom Trees",
+      "url": "https://open.spotify.com/track/2FjqTNsMtqmat4oU2PpYwK"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Inspiration Information 3",
+        "url": "https://open.spotify.com/album/2hb6aPSmJLdS99oFOp34EP"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        },
+        {
+          "name": "The Heliocentrics",
+          "url": "https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv"
+        }
+      ],
+      "duration_ms": 275373,
+      "name": "Cha Cha",
+      "url": "https://open.spotify.com/track/6T18Yu2xPqy6NAhylfjQYO"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
         "name": "Yeti Season (Deluxe Version)",
         "url": "https://open.spotify.com/album/4QnaG6xFICrieldsUBCuNK"
       },
@@ -935,58 +639,114 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Far In",
-        "url": "https://open.spotify.com/album/6VuufjwylS8CGaUcq3Vs4e"
+        "name": "Supernatural (Remastered)",
+        "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
       "artists": [
         {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "Santana",
+          "url": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
         }
       ],
-      "duration_ms": 206320,
-      "name": "Purple Tones",
-      "url": "https://open.spotify.com/track/7zwVwVs7N46n5AsrNvD74b"
+      "duration_ms": 376320,
+      "name": "Primavera",
+      "url": "https://open.spotify.com/track/478do7vDhmjKJCL22pe6dI"
     },
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "feather light",
-        "url": "https://open.spotify.com/album/1jVP27RHKaSkTJI0r26EZ8"
+        "name": "\u30c9\u30ea\u30fc\u30e0\u30a4\u30f3\u30b6\u30b9\u30c8\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/1PiaTy82mFLT9PTj2GsLuH"
       },
       "artists": [
         {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Little Green",
-          "url": "https://open.spotify.com/artist/0Kcz7AMOkHHye7xhLJUWTy"
+          "name": "\u6c60\u7530\u5178\u4ee3",
+          "url": "https://open.spotify.com/artist/5FlsplkyPTzOB2aWgz2X1M"
         }
       ],
-      "duration_ms": 188893,
-      "name": "feather light melodies",
-      "url": "https://open.spotify.com/track/60hYKNZ9JItNDYSgmJiddO"
+      "duration_ms": 298786,
+      "name": "Dream In The Street",
+      "url": "https://open.spotify.com/track/1SmMLu0AFRNt2V83d12C2s"
     },
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "I've Got Soul",
-        "url": "https://open.spotify.com/album/5kQf8G6z3pRu1Zd10oJ99Z"
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
       "artists": [
         {
-          "name": "Adrian Quesada",
-          "url": "https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv"
-        },
-        {
-          "name": "David Marez",
-          "url": "https://open.spotify.com/artist/1RXrFi7d58eFQxyWkdbQuq"
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
         }
       ],
-      "duration_ms": 209280,
-      "name": "I've Got Soul",
-      "url": "https://open.spotify.com/track/1X4uGqysoMUdiX1yfWdwMT"
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/0Y1tsEnH5gN8TEJRQ9xOLi"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 204746,
+      "name": "Carta",
+      "url": "https://open.spotify.com/track/3umhPXp0ZFxO8XAW0NcAoE"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "everything's worth it",
+        "url": "https://open.spotify.com/album/1JkKG9yyfzYJfzUNOCsZic"
+      },
+      "artists": [
+        {
+          "name": "iogi",
+          "url": "https://open.spotify.com/artist/2cqOQciwC7YwjFMUFMJfwZ"
+        }
+      ],
+      "duration_ms": 219524,
+      "name": "you\\me\\everyone",
+      "url": "https://open.spotify.com/track/47Da4bjJRnEFSEDhUoptC7"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Special Night",
+        "url": "https://open.spotify.com/album/02j4VRhJ7MKK0Jf3FtBBsD"
+      },
+      "artists": [
+        {
+          "name": "Lee Fields & The Expressions",
+          "url": "https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K"
+        }
+      ],
+      "duration_ms": 278160,
+      "name": "Precious Love",
+      "url": "https://open.spotify.com/track/4LpFfd70HLdNIoVXZplfxH"
+    },
+    {
+      "added_at": "2023-04-11 00:46:30",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+      },
+      "artists": [
+        {
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+        }
+      ],
+      "duration_ms": 190647,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
       "added_at": "2023-02-27 19:16:12",
@@ -1007,24 +767,72 @@
     {
       "added_at": "2022-03-13 21:12:32",
       "album": {
-        "name": "Solar Therapy",
-        "url": "https://open.spotify.com/album/1pSI1XjzAMxU8e6neW9NHY"
+        "name": "Gens de la nuit",
+        "url": "https://open.spotify.com/album/0tCbHlvksNRxJF4JzKD6gh"
       },
       "artists": [
         {
-          "name": "Moontricks",
-          "url": "https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg"
+          "name": "Clea Vincent",
+          "url": "https://open.spotify.com/artist/6eforqOxk5mRrgprF7XtYu"
         }
       ],
-      "duration_ms": 211764,
-      "name": "Solar Therapy",
-      "url": "https://open.spotify.com/track/3snmLEQT797ilvLOnPa2M2"
+      "duration_ms": 177360,
+      "name": "Gens de la nuit",
+      "url": "https://open.spotify.com/track/5Qhf6Er2tQ71pluUxFwDqI"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Journey Through The Secret Life Of Plants",
+        "url": "https://open.spotify.com/album/3LSgLZrSXELqWt5eqb6XMY"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Power Flower",
+      "url": "https://open.spotify.com/track/7lUg8pGTS5p97bB5eB5nPc"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Jacaranda",
+        "url": "https://open.spotify.com/album/574GqifDRYz5907qCC7TgU"
+      },
+      "artists": [
+        {
+          "name": "Luiz Bonf\u00e1",
+          "url": "https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb"
+        }
+      ],
+      "duration_ms": 249208,
+      "name": "Jacaranda",
+      "url": "https://open.spotify.com/track/1kZ1Zm6zFYxypwn4GVQz4S"
+    },
+    {
+      "added_at": "2022-03-13 21:12:32",
+      "album": {
+        "name": "Melodi",
+        "url": "https://open.spotify.com/album/2PJa85qCkhtXUn3tmkD7S9"
+      },
+      "artists": [
+        {
+          "name": "Kit Sebastian",
+          "url": "https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY"
+        }
+      ],
+      "duration_ms": 217552,
+      "name": "Elegy for Love",
+      "url": "https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA"
     },
     {
       "added_at": "2023-03-16 23:05:16",
       "album": {
-        "name": "Jardines Vol. I",
-        "url": "https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg"
+        "name": "sol",
+        "url": "https://open.spotify.com/album/6dOkPpcZ3elxSPmyZbvCIg"
       },
       "artists": [
         {
@@ -1036,41 +844,9 @@
           "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
         }
       ],
-      "duration_ms": 117204,
+      "duration_ms": 119649,
       "name": "sol",
-      "url": "https://open.spotify.com/track/4IXB9jPBOZtgYCQE24aLj8"
-    },
-    {
-      "added_at": "2023-03-31 17:51:22",
-      "album": {
-        "name": "Unfold",
-        "url": "https://open.spotify.com/album/5eMxezuwxG5iv40YIjXuop"
-      },
-      "artists": [
-        {
-          "name": "Melody's Echo Chamber",
-          "url": "https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X"
-        }
-      ],
-      "duration_ms": 90127,
-      "name": "Unfold",
-      "url": "https://open.spotify.com/track/7Ep8BuyZZGrbDP3alg2jPX"
-    },
-    {
-      "added_at": "2023-03-31 17:51:22",
-      "album": {
-        "name": "Impurities",
-        "url": "https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 229203,
-      "name": "Impurities",
-      "url": "https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M"
+      "url": "https://open.spotify.com/track/77hF3X4YebUOpYoqY7s9xj"
     }
   ],
   "unique_name": "Jacarandas",

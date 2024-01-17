@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-199 songs - 5 hr 4 min
+200 songs - 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,6 +138,7 @@
 | [Pajama Jam](https://open.spotify.com/track/7o15Cd75YcT2PAOYpURnx0) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 3](https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO) | 1:27 | 2022-03-18 |  |
 | [Plain and Fancy](https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:59 | 2022-03-18 |  |
 | [Play Us Your Song](https://open.spotify.com/track/7unH9vyJYLbjCTEtqNGAk8) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 1:24 | 2022-03-18 |  |
+| [Playdate with Winnie the Pooh Theme Song \- Extended Version](https://open.spotify.com/track/1GwsHc97qkn9BSW1LqymzU) | [Playdate with Winnie the Pooh \- Cast](https://open.spotify.com/artist/1gFCK7sC5dpd6QzrBGKT2t), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Playdate with Winnie the Pooh](https://open.spotify.com/album/3k2GcBUHvasbNlBr0qeBQW) | 2:02 | 2024-01-12 |  |
 | [Playtime](https://open.spotify.com/track/0qJPlNOJ25dsI8MeClWjfv) | [T.O.T.S\. \- Cast](https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4) | [Disney Junior Music: T.O.T.S\. \(Vol\. 1\)](https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG) | 1:06 | 2022-03-18 |  |
 | [Puppy Dog Pals Main Title Theme](https://open.spotify.com/track/5qtlopq4SnnvVeiQVt3M0n) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Puppy Dog Pals: Disney Junior Music](https://open.spotify.com/album/41pIrz2rpznwJzIgQMwngk) | 0:57 | 2022-03-18 |  |
 | [Puppy for Hanukkah](https://open.spotify.com/track/4BPIETJjROnN2NrOSnAmgR) | [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P) | [Puppy for Hanukkah](https://open.spotify.com/album/0Oq1q8ai0vY3uwVOpfYnGl) | 3:48 | 2022-03-18 |  |

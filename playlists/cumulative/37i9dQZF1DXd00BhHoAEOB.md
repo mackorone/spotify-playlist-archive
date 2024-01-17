@@ -4,7 +4,7 @@
 
 > Planta de la bugambilia que me cubres y me matas.
 
-173 songs - 10 hr 47 min
+175 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 | 2022-10-28 |  |
 | [Café](https://open.spotify.com/track/1bBmF5nqaoyKKFXPT60pUg) | [Sonex](https://open.spotify.com/artist/2xA9FhJKzvCKxxGvwnVyMK) | [SONEX](https://open.spotify.com/album/311bmLmUgWtPevJvVQ6HIi) | 3:46 | 2022-03-04 | 2023-01-11 |
 | [Caguamita Banquetera](https://open.spotify.com/track/20CVdUmIYyPy5Qcqr7uzrj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Caguamita Banquetera](https://open.spotify.com/album/4IoOjS1QllQtS7JV6ltzLG) | 2:35 | 2022-12-07 | 2023-06-16 |
-| [Calathea](https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/2lZm5nOEwqiy3na4CZb9kD) | 2:33 | 2022-03-04 |  |
+| [Calathea](https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/2lZm5nOEwqiy3na4CZb9kD) | 2:33 | 2022-03-04 | 2024-01-14 |
+| [Calathea](https://open.spotify.com/track/6xliZhP2fmbkKCa3KaYB3p) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/70bgkmeqNXZLB4xJ7u8Dp4) | 2:33 | 2023-06-15 |  |
 | [Calathea](https://open.spotify.com/track/7hZmmVkXoq61EWO6hvmPvW) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Calathea](https://open.spotify.com/album/5I87EVfB9yfl0EWRIjBtX6) | 2:33 | 2022-03-04 | 2022-07-29 |
 | [Calle Sin Salida](https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Calle Sin Salida](https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL) | 2:50 | 2023-06-15 |  |
 | [Caras Lindas](https://open.spotify.com/track/2sh3LZ6VPJSIUUuhbx3P9I) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Susana Baca](https://open.spotify.com/album/5rvmqZXWJaqmZC2FVzz4WS) | 4:58 | 2023-01-11 |  |
@@ -75,7 +76,8 @@
 | [Hasta la Raíz](https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG) | [Isaac et Nora](https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls), [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Latin & Love Studies](https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM) | 4:00 | 2022-03-04 |  |
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2022-03-04 |  |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-02-22 | 2023-06-16 |
-| [Helecho](https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC) | 2:17 | 2022-03-04 |  |
+| [Helecho](https://open.spotify.com/track/2Mbem8HiUJodif6c4a6tLL) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/30S6Nlvv8ovvgsDkwP9h2W) | 2:17 | 2023-06-15 |  |
+| [Helecho](https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Helecho](https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC) | 2:17 | 2022-03-04 | 2024-01-12 |
 | [Hijos Del Sol](https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8) | 2:56 | 2022-03-04 | 2022-10-29 |
 | [Honey, No Estás](https://open.spotify.com/track/4tiMBMyoWSRPmLHg16VpUs) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:27 | 2022-03-04 | 2023-03-31 |
 | [Háblame de Ti](https://open.spotify.com/track/0UAd5a3A1v2yEMFUF66apJ) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 4:18 | 2022-03-04 |  |

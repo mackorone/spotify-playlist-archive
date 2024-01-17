@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
 
-173 songs - 10 hr 52 min
+174 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 | 2022-06-10 |  |
 | [Here is a Heart](https://open.spotify.com/track/1AP9wJbH7FsauJJOCyHj9T) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1xsZ1diSgF3VxX5yKXD0n8) | 4:23 | 2021-06-01 | 2022-07-29 |
 | [Here is a Heart](https://open.spotify.com/track/2Q1nBjqwQQQqwQ0CpIkmdO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:23 | 2022-06-10 | 2022-08-18 |
-| [Holding On](https://open.spotify.com/track/0E4fhaczqrhhqKiSvzAt1C) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/1IBJ3RkCnITNbskSXr1FU3) | 3:38 | 2023-06-01 |  |
+| [Holding On](https://open.spotify.com/track/0E4fhaczqrhhqKiSvzAt1C) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/1IBJ3RkCnITNbskSXr1FU3) | 3:38 | 2023-06-01 | 2024-01-10 |
+| [Holding On](https://open.spotify.com/track/4L1mk9pkD00CPiDsDSVJZp) | [Ella Hunt](https://open.spotify.com/artist/2UfYkwgDo1abQS1U4pO2bT) | [Triptych](https://open.spotify.com/album/01N959BoJNKJyXS7ML7465) | 3:38 | 2023-09-29 |  |
 | [Holler](https://open.spotify.com/track/1aYqVeAM5XBlj67RHscBMo) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 3:40 | 2021-06-01 |  |
 | [Hope There's Someone](https://open.spotify.com/track/416EHtY9ysWtXLeasImLR4) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Turning](https://open.spotify.com/album/32PMUnVUGlL0V4vuzUKvUe) | 4:42 | 2021-06-01 | 2022-07-29 |
 | [Hope There's Someone \- Live](https://open.spotify.com/track/0B4hF7YOkUIud1AJUR3kPO) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW), [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo) | [Turning](https://open.spotify.com/album/6mpAk967R6Oo9dyxi149Eb) | 4:42 | 2022-06-10 |  |

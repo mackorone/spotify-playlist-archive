@@ -1,569 +1,2249 @@
 {
-  "2022-06-10": 17059,
-  "2022-06-11": 17099,
-  "2022-06-12": 17146,
-  "2022-06-13": 17192,
-  "2022-06-14": 17243,
-  "2022-06-15": 17293,
-  "2022-06-16": 17338,
-  "2022-06-17": 17374,
-  "2022-06-18": 17440,
-  "2022-06-19": 17544,
-  "2022-06-20": 17544,
-  "2022-06-21": 17607,
-  "2022-06-22": 17695,
-  "2022-06-23": 17695,
-  "2022-06-24": 17743,
-  "2022-06-25": 17778,
-  "2022-06-26": 17815,
-  "2022-06-27": 17860,
-  "2022-06-28": 17911,
-  "2022-06-29": 17949,
-  "2022-06-30": 17992,
-  "2022-07-01": 18039,
-  "2022-07-02": 18092,
-  "2022-07-03": 18128,
-  "2022-07-04": 18170,
-  "2022-07-05": 18217,
-  "2022-07-06": 18279,
-  "2022-07-07": 18334,
-  "2022-07-08": 18378,
-  "2022-07-09": 18431,
-  "2022-07-10": 18471,
-  "2022-07-11": 18524,
-  "2022-07-12": 18573,
-  "2022-07-13": 18628,
-  "2022-07-14": 18674,
-  "2022-07-15": 18706,
-  "2022-07-16": 18753,
-  "2022-07-17": 18797,
-  "2022-07-18": 18840,
-  "2022-07-19": 18876,
-  "2022-07-20": 18927,
-  "2022-07-21": 18987,
-  "2022-07-22": 19038,
-  "2022-07-23": 19083,
-  "2022-07-24": 19113,
-  "2022-07-25": 19153,
-  "2022-07-26": 19196,
-  "2022-07-27": 19237,
-  "2022-07-28": 19276,
-  "2022-07-29": 19321,
-  "2022-07-30": 19366,
-  "2022-07-31": 19366,
-  "2022-08-01": 19410,
-  "2022-08-02": 19490,
-  "2022-08-03": 19490,
-  "2022-08-04": 19555,
-  "2022-08-05": 19602,
-  "2022-08-06": 19650,
-  "2022-08-07": 19683,
-  "2022-08-08": 19722,
-  "2022-08-09": 19755,
-  "2022-08-10": 19803,
-  "2022-08-11": 19837,
-  "2022-08-12": 19877,
-  "2022-08-13": 19910,
-  "2022-08-14": 19942,
-  "2022-08-15": 19986,
-  "2022-08-16": 20032,
-  "2022-08-17": 20080,
-  "2022-08-18": 20119,
-  "2022-08-19": 20147,
-  "2022-08-20": 20176,
-  "2022-08-21": 20205,
-  "2022-08-22": 20233,
-  "2022-08-23": 20270,
-  "2022-08-24": 20314,
-  "2022-08-25": 20343,
-  "2022-08-26": 20383,
-  "2022-08-27": 20406,
-  "2022-08-28": 20452,
-  "2022-08-29": 20474,
-  "2022-08-30": 20467,
-  "2022-08-31": 20410,
-  "2022-09-01": 20370,
-  "2022-09-02": 20332,
-  "2022-09-03": 20373,
-  "2022-09-04": 20218,
-  "2022-09-05": 20244,
-  "2022-09-06": 20289,
-  "2022-09-07": 20331,
-  "2022-09-09": 20423,
-  "2022-09-10": 20459,
-  "2022-09-11": 20486,
-  "2022-09-12": 20518,
-  "2022-09-13": 20554,
-  "2022-09-15": 20620,
-  "2022-09-16": 20655,
-  "2022-09-17": 20692,
-  "2022-09-18": 20724,
-  "2022-09-19": 20751,
-  "2022-09-20": 20783,
-  "2022-09-21": 20824,
-  "2022-09-22": 20861,
-  "2022-09-23": 20893,
-  "2022-09-24": 20923,
-  "2022-09-25": 20949,
-  "2022-09-26": 20975,
-  "2022-09-27": 21001,
-  "2022-09-28": 21040,
-  "2022-09-29": 21084,
-  "2022-09-30": 21115,
-  "2022-10-01": 21146,
-  "2022-10-02": 21182,
-  "2022-10-03": 21204,
-  "2022-10-04": 21237,
-  "2022-10-05": 21276,
-  "2022-10-06": 21312,
-  "2022-10-07": 21344,
-  "2022-10-08": 21380,
-  "2022-10-09": 21439,
-  "2022-10-10": 21455,
-  "2022-10-11": 21483,
-  "2022-10-12": 21523,
-  "2022-10-13": 21552,
-  "2022-10-14": 21585,
-  "2022-10-15": 21622,
-  "2022-10-16": 21652,
-  "2022-10-17": 21682,
-  "2022-10-18": 21713,
-  "2022-10-19": 21748,
-  "2022-10-20": 21777,
-  "2022-10-21": 21812,
-  "2022-10-22": 21848,
-  "2022-10-23": 21877,
-  "2022-10-24": 21908,
-  "2022-10-25": 21942,
-  "2022-10-26": 21984,
-  "2022-10-27": 22023,
-  "2022-10-28": 22064,
-  "2022-10-29": 22095,
-  "2022-10-30": 22126,
-  "2022-10-31": 22157,
-  "2022-11-01": 22199,
-  "2022-11-02": 22219,
-  "2022-11-03": 22261,
-  "2022-11-04": 22294,
-  "2022-11-05": 22333,
-  "2022-11-06": 22363,
-  "2022-11-07": 22398,
-  "2022-11-08": 22426,
-  "2022-11-09": 22450,
-  "2022-11-10": 22487,
-  "2022-11-11": 22532,
-  "2022-11-12": 22583,
-  "2022-11-13": 22604,
-  "2022-11-14": 22644,
-  "2022-11-15": 22693,
-  "2022-11-16": 22738,
-  "2022-11-17": 22764,
-  "2022-11-18": 22780,
-  "2022-11-19": 22772,
-  "2022-11-20": 22817,
-  "2022-11-21": 22806,
-  "2022-11-22": 22883,
-  "2022-11-23": 22875,
-  "2022-11-24": 22982,
-  "2022-11-25": 23048,
-  "2022-11-26": 23075,
-  "2022-11-27": 23112,
-  "2022-11-28": 23148,
-  "2022-11-29": 23190,
-  "2022-11-30": 23233,
-  "2022-12-01": 23303,
-  "2022-12-02": 23338,
-  "2022-12-03": 23390,
-  "2022-12-04": 23442,
-  "2022-12-05": 23486,
-  "2022-12-06": 23536,
-  "2022-12-07": 23585,
-  "2022-12-08": 23619,
-  "2022-12-09": 23672,
-  "2022-12-10": 23716,
-  "2022-12-11": 23730,
-  "2022-12-12": 23755,
-  "2022-12-13": 23799,
-  "2022-12-14": 23834,
-  "2022-12-15": 23866,
-  "2022-12-16": 23900,
-  "2022-12-17": 23925,
-  "2022-12-18": 23955,
-  "2022-12-19": 23990,
-  "2022-12-20": 24055,
-  "2022-12-21": 24055,
-  "2022-12-22": 24102,
-  "2022-12-24": 24162,
-  "2022-12-25": 24194,
-  "2022-12-26": 24218,
-  "2022-12-27": 24263,
-  "2022-12-28": 24297,
-  "2022-12-29": 24326,
-  "2022-12-30": 24356,
-  "2022-12-31": 24386,
-  "2023-01-01": 24416,
-  "2023-01-02": 24432,
-  "2023-01-03": 24475,
-  "2023-01-04": 24510,
-  "2023-01-05": 24548,
-  "2023-01-06": 24601,
-  "2023-01-07": 24666,
-  "2023-01-08": 24692,
-  "2023-01-09": 24763,
-  "2023-01-10": 24824,
-  "2023-01-11": 24886,
-  "2023-01-12": 24956,
-  "2023-01-13": 25002,
-  "2023-01-14": 25128,
-  "2023-01-15": 25147,
-  "2023-01-16": 25224,
-  "2023-01-17": 25306,
-  "2023-01-18": 25379,
-  "2023-01-19": 25463,
-  "2023-01-20": 25542,
-  "2023-01-21": 25619,
-  "2023-01-22": 25693,
-  "2023-01-23": 25770,
-  "2023-01-24": 25837,
-  "2023-01-25": 25917,
-  "2023-01-26": 26001,
-  "2023-01-27": 26064,
-  "2023-01-28": 26118,
-  "2023-01-29": 26168,
-  "2023-01-30": 26222,
-  "2023-01-31": 26222,
-  "2023-02-01": 26359,
-  "2023-02-02": 26439,
-  "2023-02-03": 26519,
-  "2023-02-04": 26591,
-  "2023-02-05": 26657,
-  "2023-02-06": 26701,
-  "2023-02-07": 26773,
-  "2023-02-08": 26921,
-  "2023-02-09": 26921,
-  "2023-02-10": 26982,
-  "2023-02-11": 27040,
-  "2023-02-12": 27153,
-  "2023-02-13": 27203,
-  "2023-02-14": 27203,
-  "2023-02-15": 27268,
-  "2023-02-16": 27350,
-  "2023-02-17": 27427,
-  "2023-02-18": 27589,
-  "2023-02-19": 27616,
-  "2023-02-20": 27689,
-  "2023-02-21": 27776,
-  "2023-02-22": 27858,
-  "2023-02-23": 27947,
-  "2023-02-24": 28036,
-  "2023-02-25": 28152,
-  "2023-02-26": 28630,
-  "2023-02-27": 29844,
-  "2023-02-28": 29844,
-  "2023-03-01": 30080,
-  "2023-03-02": 30146,
-  "2023-03-03": 30236,
-  "2023-03-04": 30293,
-  "2023-03-05": 30421,
-  "2023-03-06": 30421,
-  "2023-03-07": 30462,
-  "2023-03-08": 30514,
-  "2023-03-09": 30575,
-  "2023-03-10": 30610,
-  "2023-03-11": 30643,
-  "2023-03-12": 30693,
-  "2023-03-13": 30779,
-  "2023-03-14": 30870,
-  "2023-03-15": 30949,
-  "2023-03-16": 31015,
-  "2023-03-17": 31015,
-  "2023-03-18": 31150,
-  "2023-03-19": 31205,
-  "2023-03-20": 31294,
-  "2023-03-21": 31387,
-  "2023-03-22": 31467,
-  "2023-03-23": 31544,
-  "2023-03-24": 31544,
-  "2023-03-25": 31690,
-  "2023-03-26": 31760,
-  "2023-03-27": 31902,
-  "2023-03-28": 32027,
-  "2023-03-29": 32138,
-  "2023-03-30": 32283,
-  "2023-03-31": 32283,
-  "2023-04-01": 32379,
-  "2023-04-02": 32452,
-  "2023-04-03": 32530,
-  "2023-04-04": 32596,
-  "2023-04-05": 32664,
-  "2023-04-06": 32721,
-  "2023-04-07": 32802,
-  "2023-04-09": 32935,
-  "2023-04-10": 32983,
-  "2023-04-11": 33120,
-  "2023-04-12": 33120,
-  "2023-04-13": 33171,
-  "2023-04-14": 33210,
-  "2023-04-15": 33260,
-  "2023-04-16": 33291,
-  "2023-04-17": 33343,
-  "2023-04-18": 33406,
-  "2023-04-19": 33473,
-  "2023-04-20": 33525,
-  "2023-04-21": 33583,
-  "2023-04-22": 33647,
-  "2023-04-23": 33705,
-  "2023-04-24": 33765,
-  "2023-04-25": 33819,
-  "2023-04-26": 33867,
-  "2023-04-27": 33943,
-  "2023-04-28": 34040,
-  "2023-04-29": 34135,
-  "2023-04-30": 34203,
-  "2023-05-01": 34255,
-  "2023-05-02": 34316,
-  "2023-05-03": 34371,
-  "2023-05-04": 34424,
-  "2023-05-05": 34469,
-  "2023-05-06": 34509,
-  "2023-05-07": 34554,
-  "2023-05-08": 34596,
-  "2023-05-09": 34654,
-  "2023-05-10": 34718,
-  "2023-05-11": 34770,
-  "2023-05-12": 34816,
-  "2023-05-13": 34877,
-  "2023-05-14": 34925,
-  "2023-05-15": 34972,
-  "2023-05-16": 35026,
-  "2023-05-17": 35067,
-  "2023-05-18": 35110,
-  "2023-05-19": 35143,
-  "2023-05-20": 35223,
-  "2023-05-21": 35223,
-  "2023-05-22": 35223,
-  "2023-05-23": 35303,
-  "2023-05-24": 35358,
-  "2023-05-25": 35374,
-  "2023-05-26": 35406,
-  "2023-05-27": 35455,
-  "2023-05-28": 35493,
-  "2023-05-29": 35493,
-  "2023-05-30": 35554,
-  "2023-05-31": 35583,
-  "2023-06-01": 35615,
-  "2023-06-02": 35651,
-  "2023-06-03": 35667,
-  "2023-06-04": 35700,
-  "2023-06-05": 35736,
-  "2023-06-06": 35781,
-  "2023-06-07": 35824,
-  "2023-06-08": 35883,
-  "2023-06-09": 35931,
-  "2023-06-10": 36053,
-  "2023-06-11": 36113,
-  "2023-06-12": 36185,
-  "2023-06-13": 36238,
-  "2023-06-14": 36310,
-  "2023-06-15": 36372,
-  "2023-06-16": 36399,
-  "2023-06-17": 36455,
-  "2023-06-18": 36515,
-  "2023-06-19": 36549,
-  "2023-06-20": 36618,
-  "2023-06-21": 36683,
-  "2023-06-22": 36753,
-  "2023-06-23": 36819,
-  "2023-06-24": 36881,
-  "2023-06-25": 36949,
-  "2023-06-26": 36990,
-  "2023-06-27": 37037,
-  "2023-06-28": 37092,
-  "2023-06-29": 37144,
-  "2023-06-30": 37195,
-  "2023-07-01": 37276,
-  "2023-07-02": 37276,
-  "2023-07-03": 37298,
-  "2023-07-04": 37326,
-  "2023-07-05": 37353,
-  "2023-07-06": 37385,
-  "2023-07-07": 37385,
-  "2023-07-08": 37428,
-  "2023-07-09": 37471,
-  "2023-07-10": 37534,
-  "2023-07-11": 37593,
-  "2023-07-12": 37640,
-  "2023-07-13": 37659,
-  "2023-07-14": 37696,
-  "2023-07-15": 37724,
-  "2023-07-16": 37758,
-  "2023-07-17": 37786,
-  "2023-07-18": 37814,
-  "2023-07-19": 37865,
-  "2023-07-20": 37906,
-  "2023-07-21": 37940,
-  "2023-07-22": 37992,
-  "2023-07-23": 38034,
-  "2023-07-24": 38067,
-  "2023-07-25": 38106,
-  "2023-07-26": 38130,
-  "2023-07-27": 38164,
-  "2023-07-28": 38193,
-  "2023-07-29": 38242,
-  "2023-07-30": 38281,
-  "2023-07-31": 38318,
-  "2023-08-01": 38352,
-  "2023-08-02": 38386,
-  "2023-08-03": 38419,
-  "2023-08-04": 38443,
-  "2023-08-05": 38495,
-  "2023-08-06": 38569,
-  "2023-08-07": 38569,
-  "2023-08-08": 38604,
-  "2023-08-09": 38638,
-  "2023-08-10": 38680,
-  "2023-08-11": 38712,
-  "2023-08-12": 38734,
-  "2023-08-13": 38756,
-  "2023-08-14": 38783,
-  "2023-08-15": 38850,
-  "2023-08-16": 38850,
-  "2023-08-17": 38877,
-  "2023-08-18": 38924,
-  "2023-08-19": 38948,
-  "2023-08-20": 38981,
-  "2023-08-21": 39006,
-  "2023-08-22": 39023,
-  "2023-08-23": 39040,
-  "2023-08-24": 39077,
-  "2023-08-25": 39101,
-  "2023-08-26": 39136,
-  "2023-08-27": 39153,
-  "2023-08-28": 39182,
-  "2023-08-29": 39217,
-  "2023-08-30": 39235,
-  "2023-08-31": 39252,
-  "2023-09-01": 39285,
-  "2023-09-02": 39285,
-  "2023-09-03": 39294,
-  "2023-09-04": 39317,
-  "2023-09-05": 39336,
-  "2023-09-06": 39355,
-  "2023-09-07": 39378,
-  "2023-09-08": 39395,
-  "2023-09-09": 39418,
-  "2023-09-10": 39440,
-  "2023-09-11": 39452,
-  "2023-09-12": 39464,
-  "2023-09-13": 39490,
-  "2023-09-14": 39507,
-  "2023-09-15": 39526,
-  "2023-09-16": 39538,
-  "2023-09-17": 39558,
-  "2023-09-18": 39576,
-  "2023-09-19": 39592,
-  "2023-09-20": 39601,
-  "2023-09-21": 39612,
-  "2023-09-22": 39617,
-  "2023-09-23": 39634,
-  "2023-09-24": 39639,
-  "2023-09-25": 39643,
-  "2023-09-26": 39662,
-  "2023-09-27": 39681,
-  "2023-09-28": 39692,
-  "2023-09-29": 39705,
-  "2023-09-30": 39719,
-  "2023-10-01": 39732,
-  "2023-10-02": 39739,
-  "2023-10-03": 39751,
-  "2023-10-04": 39772,
-  "2023-10-05": 39785,
-  "2023-10-06": 39804,
-  "2023-10-07": 39827,
-  "2023-10-08": 39838,
-  "2023-10-09": 39845,
-  "2023-10-10": 39857,
-  "2023-10-11": 39879,
-  "2023-10-12": 39879,
-  "2023-10-13": 39897,
-  "2023-10-14": 39903,
-  "2023-10-15": 39923,
-  "2023-10-16": 39935,
-  "2023-10-17": 39948,
-  "2023-10-18": 39955,
-  "2023-10-19": 39975,
-  "2023-10-20": 39998,
-  "2023-10-21": 40007,
-  "2023-10-22": 40022,
-  "2023-10-23": 40036,
-  "2023-10-24": 40050,
-  "2023-10-25": 40068,
-  "2023-10-26": 40077,
-  "2023-10-27": 40093,
-  "2023-10-28": 40101,
-  "2023-10-29": 40120,
-  "2023-10-30": 40136,
-  "2023-10-31": 40136,
-  "2023-11-01": 40150,
-  "2023-11-02": 40163,
-  "2023-11-03": 40177,
-  "2023-11-04": 40189,
-  "2023-11-05": 40204,
-  "2023-11-06": 40222,
-  "2023-11-07": 40228,
-  "2023-11-08": 40245,
-  "2023-11-09": 40254,
-  "2023-11-10": 40276,
-  "2023-11-11": 40297,
-  "2023-11-12": 40306,
-  "2023-11-13": 40316,
-  "2023-11-14": 40324,
-  "2023-11-15": 40324,
-  "2023-11-16": 40349,
-  "2023-11-17": 40371,
-  "2023-11-18": 40371,
-  "2023-11-19": 40385,
-  "2023-11-20": 40402,
-  "2023-11-21": 40417,
-  "2023-11-22": 40435,
-  "2023-11-23": 40459,
-  "2023-11-24": 40478,
-  "2023-11-25": 40491,
-  "2023-11-26": 40508,
-  "2023-11-27": 40522,
-  "2023-11-28": 40529,
-  "2023-11-29": 40563,
-  "2023-11-30": 40563,
-  "2023-12-01": 40568,
-  "2023-12-02": 40588,
-  "2023-12-03": 40597,
-  "2023-12-04": 40614,
-  "2023-12-05": 40628,
-  "2023-12-06": 40638,
-  "2023-12-07": 40659,
-  "2023-12-08": 40668,
-  "2023-12-09": 40692,
-  "2023-12-10": 40710,
-  "2023-12-11": 40742,
-  "2023-12-12": 40757,
-  "2023-12-13": 40785,
-  "2023-12-14": 40817,
-  "2023-12-15": 40834,
-  "2023-12-16": 40849,
-  "2023-12-17": 40869,
-  "2023-12-18": 40889,
-  "2023-12-19": 40916,
-  "2023-12-20": 40936,
-  "2023-12-21": 40960,
-  "2023-12-22": 40979,
-  "2023-12-23": 41004,
-  "2023-12-24": 41027,
-  "2023-12-25": 41046,
-  "2023-12-26": 41051,
-  "2023-12-27": 41081,
-  "2023-12-30": 41162,
-  "2023-12-31": 41187,
-  "2024-01-01": 41214,
-  "2024-01-02": 41242,
-  "2024-01-03": 41272
+  "2024-01-17": 41605,
+  "date_first_scraped": "2022-06-10",
+  "description": "Listen to soundtracks from SF anime series \"TRIGUN\".\u300c\u30c8\u30e9\u30a4\u30ac\u30f3\u300d\u30b7\u30ea\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\u00a9 2023 \u5185\u85e4\u6cf0\u5f18\u30fb\u5c11\u5e74\u753b\u5831\u793e\uff0f\u300cTRIGUN STAMPEDE\u300d\u88fd\u4f5c\u59d4\u54e1\u4f1a",
+  "name": "TRIGUN series \u30c8\u30e9\u30a4\u30ac\u30f3 \u30b7\u30ea\u30fc\u30ba",
+  "tracks": [
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150064,
+      "name": "Badlands rendez-vous",
+      "url": "https://open.spotify.com/track/5ykpANKPBgBGzJiprdSnnx"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224900,
+      "name": "BIG BLUFF",
+      "url": "https://open.spotify.com/track/36wkLZs1Cjk1wx0jLByYpe"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217833,
+      "name": "BLOOD AND THUNDER",
+      "url": "https://open.spotify.com/track/76l7MFgonqaorlrd5yeBwS"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 36500,
+      "name": "Blues Harp in The Wasteland-ii",
+      "url": "https://open.spotify.com/track/05TLgTdyjPaOjlUOTyHZck"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 36500,
+      "name": "Blues Harp in The Wasteland-ii",
+      "url": "https://open.spotify.com/track/5Wef4pqNhF8KY0w19xHuAC"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 149000,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/1VywfMEGuXLmiPmYCfgPSB"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/6sUL53k924OnUtERBA3sne"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/7AxloVMZ7GWpp86ohQ1Gfu"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "Colorless Sky",
+      "url": "https://open.spotify.com/track/71nALFU4TxDx0OI9booPii"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 143000,
+      "name": "Complicity",
+      "url": "https://open.spotify.com/track/17n1KWb6QmV24QnUOg37ox"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Complicity",
+      "url": "https://open.spotify.com/track/1L8dAeI3mJUWP4PdYBBvcK"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 90000,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/5Bf9gUZjat10JQPv10lQFd"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Conception",
+      "url": "https://open.spotify.com/track/72IxizsbYfS3Pg3AberyRf"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/0GA2FUwZjOw7HTuwjEQ6u7"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 190000,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/3MhvZ34dg8w7hej6AJBvjT"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "Zinee",
+          "url": "https://open.spotify.com/artist/3bEZq7F1YgxVIINr7OrK1K"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 337500,
+      "name": "Drain Arm",
+      "url": "https://open.spotify.com/track/5VQEDM7TX8ELS6DXbbZn96"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "Zinee",
+          "url": "https://open.spotify.com/artist/3bEZq7F1YgxVIINr7OrK1K"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 337500,
+      "name": "Drain Arm",
+      "url": "https://open.spotify.com/track/5fDUnd3zMp9ZI7becpOT1x"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88500,
+      "name": "Drain Gate",
+      "url": "https://open.spotify.com/track/17GBap2xZdq1fQhDd5Em4v"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 88500,
+      "name": "Drain Gate",
+      "url": "https://open.spotify.com/track/5OP9vmzAQXDpomo62u3KWT"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86000,
+      "name": "Duet",
+      "url": "https://open.spotify.com/track/0la244keUs78ymNYy0mK13"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 86000,
+      "name": "Duet",
+      "url": "https://open.spotify.com/track/3n6tOT8VIDzwbac1ekWrek"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 59000,
+      "name": "Elendira the Crimsonnail",
+      "url": "https://open.spotify.com/track/4BPDzvgptsGk12vBwN3eoU"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 59000,
+      "name": "Elendira the Crimsonnail",
+      "url": "https://open.spotify.com/track/5hwD8EoE74sE8FcaaEzvvO"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136500,
+      "name": "Energy of The Plant",
+      "url": "https://open.spotify.com/track/1uLzROCvBOTRctoKaoTCMU"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 136500,
+      "name": "Energy of The Plant",
+      "url": "https://open.spotify.com/track/5takVMwKLR4TQlGSpuaIKJ"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 126500,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/576DGeFXkPuEtRlAxDVAWR"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126500,
+      "name": "Epilogue",
+      "url": "https://open.spotify.com/track/6EL0KHuGisTN2KRRspiDcP"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 44000,
+      "name": "Erhu in July",
+      "url": "https://open.spotify.com/track/0Ukjda8byAQtyhhFRnSxid"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44000,
+      "name": "Erhu in July",
+      "url": "https://open.spotify.com/track/66P3vRKqhELHLwtFkJXdp8"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248066,
+      "name": "Fool's Paradise",
+      "url": "https://open.spotify.com/track/64ixLm2tbzTkXvs4fk3S9S"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 167000,
+      "name": "Geodome",
+      "url": "https://open.spotify.com/track/5yqCmWMtbAx2rov81YwxiA"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Geodome",
+      "url": "https://open.spotify.com/track/6A6QUDTGxPrVc2UpxVe3Mc"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146385,
+      "name": "get even",
+      "url": "https://open.spotify.com/track/6f4G8cwwKtbURYV4P6eWEU"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241410,
+      "name": "good men or bad?",
+      "url": "https://open.spotify.com/track/04NVPeDDtXQcfBqgFycREt"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127706,
+      "name": "Gunpowder Tea",
+      "url": "https://open.spotify.com/track/6b26n4y6aeo1A3p0CdTfXn"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91233,
+      "name": "H.T",
+      "url": "https://open.spotify.com/track/27MWlouE3EXEJUZbiAS6tk"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276826,
+      "name": "H.T - Destoyingangel mix",
+      "url": "https://open.spotify.com/track/4Om3Nzs9wDT995sCNmROvT"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186547,
+      "name": "H.T. in\u201cBadlands Rumble\u201d",
+      "url": "https://open.spotify.com/track/2Z8sw3CMhpJGwrt0KOc1XZ"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246266,
+      "name": "Hash Hash",
+      "url": "https://open.spotify.com/track/5FdJDtnVpWVBfzJIXfUTt8"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 149000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/6yKAwWHgH2OtrKHrOvKUao"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/7mfdJA5axbaEOYljTLUAQA"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Human or Plant?",
+      "url": "https://open.spotify.com/track/38xpIxhCnCO8EIsMbz4wil"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 68000,
+      "name": "Human or Plant?",
+      "url": "https://open.spotify.com/track/71kcDXRQqR4CfIQzPGBbsY"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289500,
+      "name": "I Have to Choose",
+      "url": "https://open.spotify.com/track/20rxrMqIXUUYujHqzU74wl"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 289500,
+      "name": "I Have to Choose",
+      "url": "https://open.spotify.com/track/72Izr3P6T80QVwOzhkfebV"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Immigrant Space Explorer",
+      "url": "https://open.spotify.com/track/4Fv2STRNkIHXqIzMYsdNfS"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74500,
+      "name": "July City",
+      "url": "https://open.spotify.com/track/2kuNsxcDAHEtXR9ThN7DCm"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-15",
+      "duration_ms": 74500,
+      "name": "July City",
+      "url": "https://open.spotify.com/track/6O7jfSaUUcjTVsbtsoBmtk"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 199000,
+      "name": "KNIVES's Piano",
+      "url": "https://open.spotify.com/track/1Xf8vVWEXUDD3VnWqdYJlW"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "KNIVES's Piano",
+      "url": "https://open.spotify.com/track/4Qgwztr7yJBg6ZZAR4nj6H"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467000,
+      "name": "Last Run",
+      "url": "https://open.spotify.com/track/0Vu58tSlwtDdvY6MdAArFR"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 467000,
+      "name": "Last Run",
+      "url": "https://open.spotify.com/track/3j5bbJZed3q1PKnnmZAVfK"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237373,
+      "name": "Lost Planet",
+      "url": "https://open.spotify.com/track/4gAwcKcdB8phmZGU3qoL7R"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268579,
+      "name": "lovely calamities",
+      "url": "https://open.spotify.com/track/5xEopVMEpBfz1ny2C6MBRS"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 180000,
+      "name": "Luida's Decision",
+      "url": "https://open.spotify.com/track/07YNtKUe1Jie7q25wwqiX9"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Luida's Decision",
+      "url": "https://open.spotify.com/track/3NDKKYkX1NDDZdLGsRB25T"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 93500,
+      "name": "Memory of Geranium",
+      "url": "https://open.spotify.com/track/1oJSKcpnRTkwvJvsYBeo4q"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93500,
+      "name": "Memory of Geranium",
+      "url": "https://open.spotify.com/track/3Z8uCQ81GwWHR0IRqcVwBa"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80000,
+      "name": "Memory of Piano",
+      "url": "https://open.spotify.com/track/5BbCVy9kL1dfoS58k7idcr"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Memory of Rem",
+      "url": "https://open.spotify.com/track/4oLeBzUT7JP7Ym7U30RtzV"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-02",
+      "duration_ms": 169000,
+      "name": "Memory of Rem",
+      "url": "https://open.spotify.com/track/6IPYGQkCFSRpeXh1at4OY4"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 313000,
+      "name": "Memory Retrieval",
+      "url": "https://open.spotify.com/track/0yrbkk38J7rB38yzEgOCzW"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313000,
+      "name": "Memory Retrieval",
+      "url": "https://open.spotify.com/track/6qr0Kb0SgUnnj2pD7vpvRL"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Meryl's Regrets",
+      "url": "https://open.spotify.com/track/1dn3LEerJt3wQY5VytCz84"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 147000,
+      "name": "Meryl's Regrets",
+      "url": "https://open.spotify.com/track/3sDezMbVQYBqgw7ESUJ2Lv"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239000,
+      "name": "MILLIONS KNIVES",
+      "url": "https://open.spotify.com/track/7kJE7Qt6DA1l9UCAPNmy7b"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "Zinee",
+          "url": "https://open.spotify.com/artist/3bEZq7F1YgxVIINr7OrK1K"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "MILLIONS KNIVES - Vocal Ver.",
+      "url": "https://open.spotify.com/track/7mcUb0JTBHnQQQCg3TBV96"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "Zinee",
+          "url": "https://open.spotify.com/artist/3bEZq7F1YgxVIINr7OrK1K"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 240000,
+      "name": "MILLIONS KNIVES -Vocal Ver.-",
+      "url": "https://open.spotify.com/track/5j91l7mfg4VS0CqqooaUVi"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279400,
+      "name": "Nerve Rack",
+      "url": "https://open.spotify.com/track/0EPBewiNaDGS2Fp59x149v"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52500,
+      "name": "Nicholas and Meryl",
+      "url": "https://open.spotify.com/track/1OZ0NOfR7bL1xu0B0fnrVw"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 52500,
+      "name": "Nicholas and Meryl",
+      "url": "https://open.spotify.com/track/7jnVJBaoP1uDrFCvxBfdth"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "NICHOLAS THE PUNISHER",
+      "url": "https://open.spotify.com/track/2UOUsItMAMwL0S7R38wyh4"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-30",
+      "duration_ms": 122000,
+      "name": "NICHOLAS THE PUNISHER",
+      "url": "https://open.spotify.com/track/7KqLCHIGhFvNUyv5pfmLh6"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189500,
+      "name": "NO-BEAT",
+      "url": "https://open.spotify.com/track/4sAC0qvCUH15Md7hz7QFb7"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-07",
+      "duration_ms": 193000,
+      "name": "Orphanage",
+      "url": "https://open.spotify.com/track/3bdxYLFii4N9BYg9V3v0fQ"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Orphanage",
+      "url": "https://open.spotify.com/track/6BZ6LdCDBjk1AMquj8oPXX"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277300,
+      "name": "PHILOSOPHY in a Tea Cup",
+      "url": "https://open.spotify.com/track/5rCjxDHLkq7o13PgSdbet0"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 189000,
+      "name": "Plant of Drain",
+      "url": "https://open.spotify.com/track/2m1DfvKZlRd4kIqplMoT5l"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Plant of Drain",
+      "url": "https://open.spotify.com/track/5Qe1QN9FzGgmJiAZB5U9CJ"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 47500,
+      "name": "Plant Song on Erhu",
+      "url": "https://open.spotify.com/track/1SPGpGLHNM1209NbkvS7SP"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 47500,
+      "name": "Plant Song on Erhu",
+      "url": "https://open.spotify.com/track/3muJFGtjwGwgxD1ZvgHe1I"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68000,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/30VAWWv39qiuIl4NIqeAnp"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 68000,
+      "name": "Reborn",
+      "url": "https://open.spotify.com/track/6gmbPvWTlTNzGBu49zZTG2"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46000,
+      "name": "Reckless Driving",
+      "url": "https://open.spotify.com/track/0qHkR74gcxjpgeXSgBWeIE"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 46000,
+      "name": "Reckless Driving",
+      "url": "https://open.spotify.com/track/6zzgYqFzeLESKxMDmAXbrE"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75000,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/3TjTe3XF2aHq2kLnRXrXya"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 75000,
+      "name": "Reunion",
+      "url": "https://open.spotify.com/track/6JM5wlnOckUv7P6fcXrnPC"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 148000,
+      "name": "Rollo's Ill",
+      "url": "https://open.spotify.com/track/4Ntyj7Gwr9xtaDJmbNkie2"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Rollo's Ill",
+      "url": "https://open.spotify.com/track/79vealqcx9RRqYl7y8g0Oo"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109000,
+      "name": "Sand Steem Ship",
+      "url": "https://open.spotify.com/track/0rnc9Cjij51f7YXcp73oJZ"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 109000,
+      "name": "Sand Steem Ship",
+      "url": "https://open.spotify.com/track/5QJmMI1dSz4VNBwUBboJMl"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158597,
+      "name": "sandsteam",
+      "url": "https://open.spotify.com/track/0VHwe1zrdQ14oRT8Fv8riN"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 330373,
+      "name": "Scattered Rain",
+      "url": "https://open.spotify.com/track/1EzSxVwrgSP3RUZT36moER"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136634,
+      "name": "snatch!snatch!snatch!",
+      "url": "https://open.spotify.com/track/7KG0iTQojPBMdi0ZgSM2Lx"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "AJA",
+          "url": "https://open.spotify.com/artist/5u5RIHJRSfFYkhlWzNWxJU"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323300,
+      "name": "Sound Life ~ LEM",
+      "url": "https://open.spotify.com/track/7slEiXsz2Km5PhNgoPbKye"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135500,
+      "name": "Stampede Out",
+      "url": "https://open.spotify.com/track/2wKByMZ7tUkRYFNrEooMMv"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 135500,
+      "name": "Stampede Out",
+      "url": "https://open.spotify.com/track/3N1VixCNnvFajqNgIBVCPI"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 119000,
+      "name": "The Desert Rogue",
+      "url": "https://open.spotify.com/track/36DCmJ2vGEVjcqOVtPH2DC"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119000,
+      "name": "The Desert Rogue",
+      "url": "https://open.spotify.com/track/51x52YcmnTOc7bW7kotayE"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "The JENEORA ROCK Resistance",
+      "url": "https://open.spotify.com/track/4YhaEGoCtpNbYO81x3aFs9"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 79500,
+      "name": "The Memory World of KNIVES",
+      "url": "https://open.spotify.com/track/1M55wiTnqLUAumcemLV2fQ"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79500,
+      "name": "The Memory World of KNIVES",
+      "url": "https://open.spotify.com/track/4kygk2pgals3anMv81qve5"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80763,
+      "name": "the Stampede",
+      "url": "https://open.spotify.com/track/7aHWxlBj7OyMN3INPWyQnQ"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311000,
+      "name": "Time Left",
+      "url": "https://open.spotify.com/track/1cO1b3wOIlAuokY8V2u195"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 311000,
+      "name": "Time Left",
+      "url": "https://open.spotify.com/track/6RlvG1tavHYtkESC8dqLb3"
+    },
+    {
+      "album": {
+        "name": "TOMBI",
+        "url": "https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "date_added": "2023-01-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206509,
+      "name": "TOMBI",
+      "url": "https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "TRIGUN STAMPEDE",
+      "url": "https://open.spotify.com/track/5YqWBoVMeuFO3nZCpfOAhc"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167306,
+      "name": "Unhappy Song",
+      "url": "https://open.spotify.com/track/4qgw4QfoK7FWpwqzVMZj5Q"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287500,
+      "name": "Vash the Stampede",
+      "url": "https://open.spotify.com/track/0fDlss5k78LNJkw7zYNxlr"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        },
+        {
+          "name": "issei",
+          "url": "https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 287500,
+      "name": "Vash the Stampede",
+      "url": "https://open.spotify.com/track/2RO2P6gG5sB9VfwMYDJBwY"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 1",
+        "url": "https://open.spotify.com/album/0tNFMwQRWZkDuxxhbrBZti"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Visitation of A Calamity",
+      "url": "https://open.spotify.com/track/52LBMHcpLg6XOXnUkAxz1R"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-01",
+      "duration_ms": 154500,
+      "name": "Which Is The Monster?",
+      "url": "https://open.spotify.com/track/5VFegBxT7gBHXgjrk0RrXI"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "Which Is The Monster?",
+      "url": "https://open.spotify.com/track/5ZDeMf03xyiTKrDoD5R1St"
+    },
+    {
+      "album": {
+        "name": "\u300cTRIGUN STAMPEDE\u300d Original Soundtrack 2",
+        "url": "https://open.spotify.com/album/6csNXzQg2Eq9qRexsVT2s8"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Whom to Kill, Whom to Let Live",
+      "url": "https://open.spotify.com/track/1K1vU545ThkzQx9jOpzrlM"
+    },
+    {
+      "album": {
+        "name": "TRIGUN STAMPEDE - Original Television Soundtrack 2",
+        "url": "https://open.spotify.com/album/07Zvo11qyw1uDtS5SspjZt"
+      },
+      "artists": [
+        {
+          "name": "\u52a0\u85e4\u9054\u4e5f",
+          "url": "https://open.spotify.com/artist/68c6aJmIbV2VVfU6ObU1Nx"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-31",
+      "duration_ms": 136000,
+      "name": "Whom to Kill, Whom to Let Live",
+      "url": "https://open.spotify.com/track/4Edy149x6lgd7ovtxJ9FbL"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112307,
+      "name": "you've blown it over the sands",
+      "url": "https://open.spotify.com/track/57hyjxTe2HKiujEV7vpMC4"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189128,
+      "name": "\u30c8\u30de\u30af\u30f3",
+      "url": "https://open.spotify.com/track/6qC9EuTHWb6G5yNSBTnEZR"
+    },
+    {
+      "album": {
+        "name": "\u661f\u306e\u30af\u30ba \u03b1",
+        "url": "https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0"
+      },
+      "artists": [
+        {
+          "name": "Salyu",
+          "url": "https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W"
+        },
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "date_added": "2023-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303627,
+      "name": "\u661f\u306e\u30af\u30ba \u03b1",
+      "url": "https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317733,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/1WSgqqmMQZgxMJZj7l31VL"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 THE 2nd Donut HAPPY PACK",
+        "url": "https://open.spotify.com/album/0ySwOzWYkqaGrXQp8vJgId"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203106,
+      "name": "\u7802\u306e\u661f",
+      "url": "https://open.spotify.com/track/7gz7GnLjMSKImEJBFPj8Ie"
+    },
+    {
+      "album": {
+        "name": "\u300c\u5287\u5834\u7248 TRIGUN -Badlands Rumble-\u300dO.S.T.",
+        "url": "https://open.spotify.com/album/1gFKvXjaV7ws7MnONh7KKx"
+      },
+      "artists": [
+        {
+          "name": "Tsuneo Imahori",
+          "url": "https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 51667,
+      "name": "\u98a8\u304c\u6b62\u3093\u3060\u6642",
+      "url": "https://open.spotify.com/track/6ymDCa24f89mWrg7sukd5v"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30ac\u30f3 TRIGUN THE FIRST DONUTS",
+        "url": "https://open.spotify.com/album/2GIZ52Vb5m6s7KV2SRxT4h"
+      },
+      "artists": [
+        {
+          "name": "AKIMA & NEOS",
+          "url": "https://open.spotify.com/artist/6oyF8IrO4SGOVrT2NZftbb"
+        }
+      ],
+      "date_added": "2021-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223566,
+      "name": "\u98a8\u306f\u672a\u6765\u306b\u5439\u304f",
+      "url": "https://open.spotify.com/track/7KBqiGyvY1uFYlvi8gA335"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX39iJO9NeCvA"
 }

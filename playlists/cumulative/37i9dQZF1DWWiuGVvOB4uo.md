@@ -4,7 +4,7 @@
 
 > Acoustic covers of all your favourite songs.
 
-294 songs - 16 hr 2 min
+298 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [A Sky Full of Stars](https://open.spotify.com/track/18PrtmAcNMgZNy1edWuXGb) | [Mother's Daughter](https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k), [Beck Pete](https://open.spotify.com/artist/5hhVBlzS6hGuC1BNWANyyj) | [A Sky Full of Stars](https://open.spotify.com/album/57ua1UneZQCLbZhEI5OGwZ) | 2:45 | 2022-08-26 | 2023-01-05 |
 | [A Thousand Miles](https://open.spotify.com/track/3Pi5zbgCtaUN2uFCS8toqo) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [A Thousand Miles](https://open.spotify.com/album/1bde2esHMYQPdFAngKDrDz) | 3:51 | 2023-03-16 | 2023-06-09 |
 | [A thousand Years \- Acoustic](https://open.spotify.com/track/57CxlA1lWjST9FEueqzvfT) | [VDVM](https://open.spotify.com/artist/4MPlssgWPLQ72k2JaQNnV4) | [A Thousand Years](https://open.spotify.com/album/0gyYpeO6THIOodyYcI7AY6) | 3:18 | 2022-10-14 | 2023-05-12 |
-| [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 |  |
+| [Accidentally In Love](https://open.spotify.com/track/30vbL0UiPR2NeiiKKk9L9E) | [City Sessions](https://open.spotify.com/artist/07DvMcK02BLaDvzMbkFd7g) | [Accidentally In Love](https://open.spotify.com/album/7BAXSSzHQB2XCWU3vry7dQ) | 2:48 | 2023-05-12 | 2024-01-12 |
 | [All I Want](https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE) | [Rosebud Nash](https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE) | [All I Want](https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS) | 3:18 | 2023-06-08 |  |
+| [all night long](https://open.spotify.com/track/61wHg8g1eNbBatDAijJ2IT) | [Gracie Schram](https://open.spotify.com/artist/3TOUW1MYPgYX13UXBm552d) | [all night long](https://open.spotify.com/album/5EZ1Gg6Qq4ZBPqPNZ64gTO) | 3:14 | 2024-01-12 |  |
 | [All Shook Up](https://open.spotify.com/track/5PYMu45h2MlZ3Pdqya8QGC) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [All Shook Up](https://open.spotify.com/album/5U7rExIsboni80h2SmVjNR) | 1:44 | 2022-08-26 | 2023-02-18 |
 | [All Star \- Acoustic](https://open.spotify.com/track/3h6xSQHGIkM3QyLHS5GD8c) | [Nelly Hope](https://open.spotify.com/artist/2MYa23iZLfrK6Yj4eAIOGt) | [All Star \- Acoustic](https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1) | 3:50 | 2022-12-02 |  |
 | [Always Be My Baby](https://open.spotify.com/track/7tvUpiHnjjkBA8BbMwCwTs) | [Luke Antony](https://open.spotify.com/artist/6W6FBsdtIeUFTHE3e9ZsHI) | [Always Be My Baby](https://open.spotify.com/album/6qGIYcVJnlz3D32wqAJ6Qz) | 4:00 | 2022-09-29 |  |
@@ -207,6 +208,7 @@
 | [New Slang](https://open.spotify.com/track/4zYHZg9c9KHkX2jQrZ24qe) | [Big Love and Little Hollywood](https://open.spotify.com/artist/6EWhaIgWq8P6AmvXu1q6U0) | [New Slang](https://open.spotify.com/album/7Jrjpc2NmWTypspUUm8t0y) | 4:00 | 2022-08-26 | 2022-12-02 |
 | [No Air](https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok) | [Lúc](https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX) | [No Air](https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO) | 3:19 | 2022-08-26 | 2023-02-18 |
 | [No Rain](https://open.spotify.com/track/5CeUHrp7CEinXMlouKYBBZ) | [Nara Gilberto](https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs) | [No Rain](https://open.spotify.com/album/2P1DLrOdqJ06BFKA1hgoiu) | 3:16 | 2022-08-26 | 2022-12-24 |
+| [Nobody Gets Me](https://open.spotify.com/track/2eWYem39jbaXKQ38BCtQDV) | [Demi Femme](https://open.spotify.com/artist/2d09AaNvj1TRW0GociCEDY) | [Nobody Gets Me](https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q) | 2:38 | 2024-01-12 |  |
 | [Nutshell](https://open.spotify.com/track/4ElGaXU3jJJI5HtRpli5Tv) | [Francis Nola](https://open.spotify.com/artist/6a1RYumukMXDLES7imW2Ah) | [Nutshell](https://open.spotify.com/album/0GZduTtg1Dj4BRGTHzYlMS) | 3:05 | 2022-08-26 |  |
 | [One](https://open.spotify.com/track/1hoSHBbsZBNvv051EjQP5D) | [Castle Theater](https://open.spotify.com/artist/66DA1SaRhtBFQo4dQ8eF3e) | [One](https://open.spotify.com/album/0bSKEEtgOoaruEJ6NKvkCk) | 3:03 | 2022-08-26 | 2023-03-31 |
 | [One](https://open.spotify.com/track/1YuKlF5t0vvkMeq7GCHYZJ) | [M.I.R.K](https://open.spotify.com/artist/0XZuiuoZkCu26CRkSHKhwA) | [One](https://open.spotify.com/album/0HzIOmD8Uz36WOucuJrijn) | 2:29 | 2022-08-26 |  |
@@ -253,6 +255,7 @@
 | [Something Just Like This \- Acoustic](https://open.spotify.com/track/6tmwEEqi4o7wpys88d0sqg) | [Missy & Blonde](https://open.spotify.com/artist/2XpEZIV9uuJY6pdhKAbuBh), [Julia Ross](https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu) | [Something Just Like This](https://open.spotify.com/album/10XBLTxCUvDqAUcKAqxxy7) | 3:09 | 2022-08-26 |  |
 | [Speak Your Heart](https://open.spotify.com/track/3d4k38C0dO6BWOkPn62eey) | [Lilith Merlot](https://open.spotify.com/artist/1aj2btWZXYFQP5KhTKGO0s), [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Speak Your Heart](https://open.spotify.com/album/6XWyL2HcchIDLcTQCcE4Hy) | 3:47 | 2022-08-26 | 2023-02-18 |
 | [Stand by Me](https://open.spotify.com/track/3bkrE2TqHt5o8OZmvdtlfv) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu), [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Stand by Me](https://open.spotify.com/album/0zdozOrvqTR9fhHsbV8wPE) | 2:22 | 2022-08-26 | 2022-12-24 |
+| [Stay](https://open.spotify.com/track/0s9e0j3kCt5Ofmm5LmJEl9) | [Norah Davis](https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G) | [Stay](https://open.spotify.com/album/41xT4BqzV4UUH2V9T8dAT5) | 3:46 | 2024-01-12 |  |
 | [Stay with me](https://open.spotify.com/track/04tPBcDtaaIv28US53KjAV) | [Linus Svenning](https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8) | [Stay with me](https://open.spotify.com/album/5NenRWEwq6jxOugTnIEQlL) | 2:54 | 2022-12-23 |  |
 | [Stay with Me](https://open.spotify.com/track/3JQ71NtViPEp9utyY349ut) | [Music Travel Love](https://open.spotify.com/artist/2qNrJcE9LjzPdiXbrjkqFa) | [Stay with Me](https://open.spotify.com/album/4tpkRxlOxQaNMPlxczThF1) | 3:10 | 2022-08-26 | 2023-08-25 |
 | [Steal My Sunshine](https://open.spotify.com/track/5nt4jj7r2dCnR9chlOaiur) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Steal My Sunshine](https://open.spotify.com/album/5mo1IZa96A4BsJ6AKHGHMw) | 3:42 | 2022-08-26 |  |
@@ -283,7 +286,8 @@
 | [We Can't Stop \- Acoustic](https://open.spotify.com/track/2nYRexPm8vndayCOHgbovU) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ) | [We Can't Stop \(Acoustic\)](https://open.spotify.com/album/1KfszzDrkQINyxI5oUgCxk) | 2:58 | 2022-08-26 |  |
 | [What About Us \- Acoustic](https://open.spotify.com/track/7e4Pftu2tzDeY0W0690OKQ) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [What About Us \(Acoustic\)](https://open.spotify.com/album/0oqgSmNw05kvsTG9ap2Vv5) | 4:15 | 2022-08-26 | 2023-01-20 |
 | [what if](https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl) | [JML](https://open.spotify.com/artist/4eUw7FO3xhglLxCYeUTmlG) | [what if](https://open.spotify.com/album/1W5ECbG8ihdhKRkRpVEWNq) | 3:21 | 2023-10-27 |  |
-| [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 |  |
+| [What Makes You Beautiful](https://open.spotify.com/track/1H42VdCQ97or9QjnH5tlXf) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/4iW9eYGpYhIQ1p4QC05ihN) | 2:48 | 2022-09-29 | 2024-01-10 |
+| [What Makes You Beautiful](https://open.spotify.com/track/4ExpBFkBgqT7Uexuwo0lU4) | [John Buckley](https://open.spotify.com/artist/5dID7TuTjqElOjVuFYCJ9o) | [What Makes You Beautiful](https://open.spotify.com/album/5TEUGJdUEUeRbjxOwO44s7) | 2:48 | 2023-12-15 |  |
 | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/track/1fsOH02E5iqS6xZZY7UOpd) | [Macy Ellen](https://open.spotify.com/artist/3KwkTBHTZViURYGQrl266L) | [WHAT THE HELL ARE WE DYING FOR?](https://open.spotify.com/album/7pbeE2xmYADDOEjd3H62xA) | 3:22 | 2023-08-31 |  |
 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 | 2023-04-14 |  |
 | [when the party's over](https://open.spotify.com/track/0EQosAeGhodWC4Uj2x56KH) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [when the party's over](https://open.spotify.com/album/2YNDRJdrWNnoIY6P5Pii1g) | 4:38 | 2022-08-26 | 2022-12-02 |

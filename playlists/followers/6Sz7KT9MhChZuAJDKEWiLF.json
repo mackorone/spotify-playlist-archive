@@ -1,735 +1,825 @@
 {
-  "2021-12-25": 676,
-  "2021-12-26": 675,
-  "2021-12-27": 674,
-  "2021-12-28": 674,
-  "2021-12-29": 674,
-  "2021-12-30": 674,
-  "2021-12-31": 674,
-  "2022-01-01": 674,
-  "2022-01-02": 674,
-  "2022-01-03": 674,
-  "2022-01-04": 674,
-  "2022-01-05": 674,
-  "2022-01-06": 675,
-  "2022-01-07": 675,
-  "2022-01-08": 675,
-  "2022-01-09": 675,
-  "2022-01-10": 675,
-  "2022-01-11": 675,
-  "2022-01-12": 675,
-  "2022-01-13": 675,
-  "2022-01-14": 675,
-  "2022-01-15": 675,
-  "2022-01-16": 675,
-  "2022-01-17": 675,
-  "2022-01-18": 675,
-  "2022-01-19": 675,
-  "2022-01-20": 675,
-  "2022-01-21": 675,
-  "2022-01-22": 675,
-  "2022-01-23": 675,
-  "2022-01-24": 675,
-  "2022-01-25": 675,
-  "2022-01-26": 675,
-  "2022-01-27": 675,
-  "2022-01-28": 675,
-  "2022-01-29": 675,
-  "2022-01-30": 675,
-  "2022-01-31": 674,
-  "2022-02-01": 674,
-  "2022-02-02": 674,
-  "2022-02-03": 674,
-  "2022-02-04": 674,
-  "2022-02-05": 674,
-  "2022-02-06": 674,
-  "2022-02-07": 674,
-  "2022-02-08": 674,
-  "2022-02-09": 674,
-  "2022-02-10": 674,
-  "2022-02-11": 674,
-  "2022-02-12": 674,
-  "2022-02-13": 674,
-  "2022-02-14": 674,
-  "2022-02-15": 674,
-  "2022-02-16": 674,
-  "2022-02-17": 674,
-  "2022-02-18": 674,
-  "2022-02-19": 674,
-  "2022-02-20": 674,
-  "2022-02-21": 674,
-  "2022-02-22": 674,
-  "2022-02-23": 674,
-  "2022-02-24": 674,
-  "2022-02-25": 674,
-  "2022-02-26": 675,
-  "2022-02-27": 675,
-  "2022-02-28": 675,
-  "2022-03-01": 675,
-  "2022-03-02": 675,
-  "2022-03-03": 675,
-  "2022-03-04": 675,
-  "2022-03-05": 675,
-  "2022-03-06": 675,
-  "2022-03-07": 675,
-  "2022-03-08": 675,
-  "2022-03-09": 675,
-  "2022-03-10": 675,
-  "2022-03-11": 675,
-  "2022-03-12": 674,
-  "2022-03-13": 674,
-  "2022-03-14": 674,
-  "2022-03-15": 674,
-  "2022-03-16": 674,
-  "2022-03-17": 674,
-  "2022-03-18": 674,
-  "2022-03-19": 674,
-  "2022-03-20": 674,
-  "2022-03-21": 674,
-  "2022-03-22": 674,
-  "2022-03-23": 674,
-  "2022-03-24": 674,
-  "2022-03-25": 673,
-  "2022-03-26": 673,
-  "2022-03-27": 673,
-  "2022-03-28": 673,
-  "2022-03-30": 673,
-  "2022-03-31": 673,
-  "2022-04-01": 673,
-  "2022-04-02": 673,
-  "2022-04-03": 673,
-  "2022-04-04": 673,
-  "2022-04-05": 673,
-  "2022-04-06": 673,
-  "2022-04-07": 674,
-  "2022-04-08": 674,
-  "2022-04-09": 675,
-  "2022-04-10": 675,
-  "2022-04-11": 675,
-  "2022-04-12": 675,
-  "2022-04-13": 675,
-  "2022-04-14": 675,
-  "2022-04-15": 675,
-  "2022-04-16": 675,
-  "2022-04-17": 675,
-  "2022-04-18": 675,
-  "2022-04-19": 675,
-  "2022-04-20": 674,
-  "2022-04-21": 674,
-  "2022-04-22": 674,
-  "2022-04-23": 674,
-  "2022-04-24": 674,
-  "2022-04-25": 674,
-  "2022-04-26": 673,
-  "2022-04-27": 673,
-  "2022-04-28": 673,
-  "2022-04-29": 673,
-  "2022-04-30": 673,
-  "2022-05-01": 673,
-  "2022-05-02": 673,
-  "2022-05-03": 673,
-  "2022-05-04": 673,
-  "2022-05-05": 673,
-  "2022-05-06": 673,
-  "2022-05-07": 673,
-  "2022-05-08": 673,
-  "2022-05-09": 673,
-  "2022-05-10": 673,
-  "2022-05-11": 673,
-  "2022-05-12": 673,
-  "2022-05-13": 673,
-  "2022-05-14": 673,
-  "2022-05-15": 673,
-  "2022-05-16": 673,
-  "2022-05-17": 673,
-  "2022-05-18": 673,
-  "2022-05-19": 673,
-  "2022-05-20": 673,
-  "2022-05-21": 673,
-  "2022-05-22": 673,
-  "2022-05-23": 673,
-  "2022-05-24": 673,
-  "2022-05-25": 672,
-  "2022-05-26": 672,
-  "2022-05-27": 672,
-  "2022-05-28": 672,
-  "2022-05-29": 672,
-  "2022-05-30": 672,
-  "2022-05-31": 672,
-  "2022-06-01": 672,
-  "2022-06-02": 672,
-  "2022-06-03": 672,
-  "2022-06-04": 672,
-  "2022-06-05": 672,
-  "2022-06-06": 674,
-  "2022-06-07": 674,
-  "2022-06-08": 674,
-  "2022-06-09": 674,
-  "2022-06-10": 674,
-  "2022-06-11": 674,
-  "2022-06-12": 674,
-  "2022-06-13": 674,
-  "2022-06-14": 674,
-  "2022-06-15": 674,
-  "2022-06-16": 674,
-  "2022-06-17": 674,
-  "2022-06-18": 673,
-  "2022-06-19": 673,
-  "2022-06-20": 673,
-  "2022-06-21": 673,
-  "2022-06-22": 673,
-  "2022-06-23": 673,
-  "2022-06-24": 672,
-  "2022-06-25": 672,
-  "2022-06-26": 672,
-  "2022-06-27": 672,
-  "2022-06-28": 672,
-  "2022-06-29": 671,
-  "2022-06-30": 671,
-  "2022-07-01": 671,
-  "2022-07-02": 671,
-  "2022-07-03": 671,
-  "2022-07-04": 671,
-  "2022-07-05": 671,
-  "2022-07-06": 671,
-  "2022-07-07": 671,
-  "2022-07-08": 671,
-  "2022-07-09": 671,
-  "2022-07-10": 671,
-  "2022-07-11": 671,
-  "2022-07-12": 671,
-  "2022-07-13": 671,
-  "2022-07-14": 671,
-  "2022-07-15": 671,
-  "2022-07-16": 671,
-  "2022-07-17": 670,
-  "2022-07-18": 670,
-  "2022-07-19": 670,
-  "2022-07-20": 670,
-  "2022-07-21": 670,
-  "2022-07-22": 670,
-  "2022-07-23": 670,
-  "2022-07-24": 670,
-  "2022-07-25": 670,
-  "2022-07-26": 670,
-  "2022-07-27": 670,
-  "2022-07-28": 670,
-  "2022-07-29": 670,
-  "2022-07-30": 670,
-  "2022-07-31": 670,
-  "2022-08-01": 670,
-  "2022-08-02": 670,
-  "2022-08-03": 670,
-  "2022-08-04": 670,
-  "2022-08-05": 670,
-  "2022-08-06": 670,
-  "2022-08-07": 670,
-  "2022-08-08": 670,
-  "2022-08-09": 670,
-  "2022-08-10": 670,
-  "2022-08-11": 670,
-  "2022-08-12": 670,
-  "2022-08-13": 670,
-  "2022-08-14": 670,
-  "2022-08-15": 670,
-  "2022-08-16": 670,
-  "2022-08-17": 670,
-  "2022-08-18": 670,
-  "2022-08-19": 670,
-  "2022-08-20": 670,
-  "2022-08-21": 670,
-  "2022-08-22": 670,
-  "2022-08-23": 670,
-  "2022-08-24": 670,
-  "2022-08-25": 670,
-  "2022-08-26": 670,
-  "2022-08-27": 671,
-  "2022-08-28": 671,
-  "2022-08-29": 671,
-  "2022-08-30": 671,
-  "2022-08-31": 671,
-  "2022-09-01": 671,
-  "2022-09-02": 671,
-  "2022-09-03": 671,
-  "2022-09-04": 671,
-  "2022-09-05": 671,
-  "2022-09-06": 671,
-  "2022-09-07": 671,
-  "2022-09-09": 671,
-  "2022-09-10": 671,
-  "2022-09-11": 671,
-  "2022-09-12": 671,
-  "2022-09-13": 671,
-  "2022-09-15": 671,
-  "2022-09-16": 671,
-  "2022-09-17": 671,
-  "2022-09-18": 671,
-  "2022-09-19": 671,
-  "2022-09-20": 671,
-  "2022-09-21": 670,
-  "2022-09-22": 670,
-  "2022-09-23": 671,
-  "2022-09-24": 671,
-  "2022-09-25": 671,
-  "2022-09-26": 671,
-  "2022-09-27": 671,
-  "2022-09-28": 671,
-  "2022-09-29": 671,
-  "2022-09-30": 671,
-  "2022-10-01": 671,
-  "2022-10-02": 671,
-  "2022-10-03": 671,
-  "2022-10-04": 670,
-  "2022-10-05": 670,
-  "2022-10-06": 670,
-  "2022-10-07": 670,
-  "2022-10-08": 670,
-  "2022-10-09": 670,
-  "2022-10-10": 670,
-  "2022-10-11": 670,
-  "2022-10-12": 670,
-  "2022-10-13": 670,
-  "2022-10-14": 670,
-  "2022-10-15": 670,
-  "2022-10-16": 670,
-  "2022-10-17": 670,
-  "2022-10-18": 670,
-  "2022-10-19": 670,
-  "2022-10-20": 670,
-  "2022-10-21": 670,
-  "2022-10-22": 670,
-  "2022-10-23": 670,
-  "2022-10-24": 670,
-  "2022-10-25": 670,
-  "2022-10-26": 670,
-  "2022-10-27": 671,
-  "2022-10-28": 670,
-  "2022-10-29": 670,
-  "2022-10-30": 670,
-  "2022-10-31": 670,
-  "2022-11-01": 670,
-  "2022-11-02": 671,
-  "2022-11-03": 671,
-  "2022-11-04": 671,
-  "2022-11-05": 671,
-  "2022-11-06": 671,
-  "2022-11-07": 671,
-  "2022-11-08": 671,
-  "2022-11-09": 671,
-  "2022-11-10": 676,
-  "2022-11-11": 677,
-  "2022-11-12": 677,
-  "2022-11-13": 677,
-  "2022-11-14": 677,
-  "2022-11-15": 678,
-  "2022-11-16": 678,
-  "2022-11-17": 678,
-  "2022-11-18": 676,
-  "2022-11-19": 677,
-  "2022-11-20": 673,
-  "2022-11-21": 673,
-  "2022-11-22": 673,
-  "2022-11-23": 673,
-  "2022-11-24": 672,
-  "2022-11-25": 672,
-  "2022-11-26": 672,
-  "2022-11-27": 672,
-  "2022-11-28": 672,
-  "2022-11-29": 672,
-  "2022-11-30": 672,
-  "2022-12-01": 672,
-  "2022-12-02": 672,
-  "2022-12-03": 672,
-  "2022-12-04": 670,
-  "2022-12-05": 670,
-  "2022-12-06": 669,
-  "2022-12-07": 669,
-  "2022-12-08": 668,
-  "2022-12-09": 668,
-  "2022-12-10": 668,
-  "2022-12-11": 668,
-  "2022-12-12": 668,
-  "2022-12-13": 668,
-  "2022-12-14": 668,
-  "2022-12-15": 667,
-  "2022-12-16": 667,
-  "2022-12-17": 667,
-  "2022-12-18": 667,
-  "2022-12-19": 666,
-  "2022-12-20": 666,
-  "2022-12-21": 666,
-  "2022-12-22": 666,
-  "2022-12-24": 666,
-  "2022-12-25": 666,
-  "2022-12-26": 666,
-  "2022-12-27": 666,
-  "2022-12-28": 666,
-  "2022-12-29": 666,
-  "2022-12-30": 666,
-  "2022-12-31": 665,
-  "2023-01-01": 665,
-  "2023-01-02": 665,
-  "2023-01-03": 665,
-  "2023-01-04": 665,
-  "2023-01-05": 665,
-  "2023-01-06": 665,
-  "2023-01-07": 665,
-  "2023-01-08": 665,
-  "2023-01-09": 665,
-  "2023-01-10": 665,
-  "2023-01-11": 665,
-  "2023-01-12": 665,
-  "2023-01-13": 665,
-  "2023-01-14": 665,
-  "2023-01-15": 665,
-  "2023-01-16": 665,
-  "2023-01-17": 665,
-  "2023-01-18": 665,
-  "2023-01-19": 665,
-  "2023-01-20": 665,
-  "2023-01-21": 665,
-  "2023-01-22": 665,
-  "2023-01-23": 665,
-  "2023-01-24": 665,
-  "2023-01-25": 664,
-  "2023-01-26": 664,
-  "2023-01-27": 664,
-  "2023-01-28": 664,
-  "2023-01-29": 664,
-  "2023-01-30": 664,
-  "2023-01-31": 664,
-  "2023-02-01": 664,
-  "2023-02-02": 664,
-  "2023-02-03": 664,
-  "2023-02-04": 664,
-  "2023-02-05": 664,
-  "2023-02-06": 665,
-  "2023-02-07": 665,
-  "2023-02-08": 665,
-  "2023-02-09": 665,
-  "2023-02-10": 665,
-  "2023-02-11": 665,
-  "2023-02-12": 665,
-  "2023-02-13": 665,
-  "2023-02-14": 665,
-  "2023-02-15": 665,
-  "2023-02-16": 665,
-  "2023-02-17": 665,
-  "2023-02-18": 665,
-  "2023-02-19": 665,
-  "2023-02-20": 665,
-  "2023-02-21": 665,
-  "2023-02-22": 665,
-  "2023-02-23": 665,
-  "2023-02-24": 665,
-  "2023-02-25": 665,
-  "2023-02-26": 665,
-  "2023-02-27": 665,
-  "2023-02-28": 665,
-  "2023-03-01": 665,
-  "2023-03-02": 665,
-  "2023-03-03": 665,
-  "2023-03-04": 665,
-  "2023-03-05": 665,
-  "2023-03-06": 665,
-  "2023-03-07": 666,
-  "2023-03-08": 666,
-  "2023-03-09": 666,
-  "2023-03-10": 666,
-  "2023-03-11": 666,
-  "2023-03-12": 666,
-  "2023-03-13": 667,
-  "2023-03-14": 667,
-  "2023-03-15": 667,
-  "2023-03-16": 667,
-  "2023-03-17": 667,
-  "2023-03-18": 667,
-  "2023-03-19": 667,
-  "2023-03-20": 667,
-  "2023-03-21": 667,
-  "2023-03-22": 667,
-  "2023-03-23": 667,
-  "2023-03-24": 667,
-  "2023-03-25": 666,
-  "2023-03-26": 666,
-  "2023-03-27": 666,
-  "2023-03-28": 666,
-  "2023-03-29": 665,
-  "2023-03-30": 665,
-  "2023-03-31": 665,
-  "2023-04-01": 665,
-  "2023-04-02": 665,
-  "2023-04-03": 665,
-  "2023-04-04": 665,
-  "2023-04-05": 665,
-  "2023-04-06": 665,
-  "2023-04-07": 665,
-  "2023-04-09": 665,
-  "2023-04-10": 665,
-  "2023-04-11": 665,
-  "2023-04-12": 665,
-  "2023-04-13": 665,
-  "2023-04-14": 665,
-  "2023-04-15": 665,
-  "2023-04-16": 665,
-  "2023-04-17": 665,
-  "2023-04-18": 665,
-  "2023-04-19": 665,
-  "2023-04-20": 665,
-  "2023-04-21": 665,
-  "2023-04-22": 665,
-  "2023-04-23": 665,
-  "2023-04-24": 665,
-  "2023-04-25": 665,
-  "2023-04-26": 665,
-  "2023-04-27": 665,
-  "2023-04-28": 665,
-  "2023-04-29": 665,
-  "2023-04-30": 665,
-  "2023-05-01": 665,
-  "2023-05-02": 665,
-  "2023-05-03": 665,
-  "2023-05-04": 665,
-  "2023-05-05": 664,
-  "2023-05-06": 664,
-  "2023-05-07": 664,
-  "2023-05-08": 664,
-  "2023-05-09": 664,
-  "2023-05-10": 664,
-  "2023-05-11": 664,
-  "2023-05-12": 664,
-  "2023-05-13": 664,
-  "2023-05-14": 664,
-  "2023-05-15": 664,
-  "2023-05-16": 664,
-  "2023-05-17": 664,
-  "2023-05-18": 664,
-  "2023-05-19": 664,
-  "2023-05-20": 664,
-  "2023-05-21": 664,
-  "2023-05-22": 664,
-  "2023-05-23": 664,
-  "2023-05-24": 664,
-  "2023-05-25": 664,
-  "2023-05-26": 664,
-  "2023-05-27": 664,
-  "2023-05-28": 664,
-  "2023-05-29": 664,
-  "2023-05-30": 664,
-  "2023-05-31": 664,
-  "2023-06-01": 664,
-  "2023-06-02": 664,
-  "2023-06-03": 664,
-  "2023-06-04": 664,
-  "2023-06-05": 663,
-  "2023-06-06": 663,
-  "2023-06-07": 663,
-  "2023-06-08": 663,
-  "2023-06-09": 663,
-  "2023-06-10": 663,
-  "2023-06-11": 663,
-  "2023-06-12": 663,
-  "2023-06-13": 663,
-  "2023-06-14": 663,
-  "2023-06-15": 663,
-  "2023-06-16": 663,
-  "2023-06-17": 663,
-  "2023-06-18": 663,
-  "2023-06-19": 663,
-  "2023-06-20": 663,
-  "2023-06-21": 663,
-  "2023-06-22": 663,
-  "2023-06-23": 663,
-  "2023-06-24": 663,
-  "2023-06-25": 663,
-  "2023-06-26": 663,
-  "2023-06-27": 664,
-  "2023-06-28": 664,
-  "2023-06-29": 664,
-  "2023-06-30": 664,
-  "2023-07-01": 664,
-  "2023-07-02": 664,
-  "2023-07-03": 664,
-  "2023-07-04": 663,
-  "2023-07-05": 663,
-  "2023-07-06": 663,
-  "2023-07-07": 663,
-  "2023-07-08": 663,
-  "2023-07-09": 662,
-  "2023-07-10": 662,
-  "2023-07-11": 662,
-  "2023-07-12": 662,
-  "2023-07-13": 662,
-  "2023-07-14": 662,
-  "2023-07-15": 662,
-  "2023-07-16": 662,
-  "2023-07-17": 662,
-  "2023-07-18": 662,
-  "2023-07-19": 662,
-  "2023-07-20": 662,
-  "2023-07-21": 662,
-  "2023-07-22": 662,
-  "2023-07-23": 662,
-  "2023-07-24": 662,
-  "2023-07-25": 662,
-  "2023-07-26": 662,
-  "2023-07-27": 662,
-  "2023-07-28": 662,
-  "2023-07-29": 662,
-  "2023-07-30": 662,
-  "2023-07-31": 662,
-  "2023-08-01": 662,
-  "2023-08-02": 661,
-  "2023-08-03": 661,
-  "2023-08-04": 661,
-  "2023-08-05": 661,
-  "2023-08-06": 661,
-  "2023-08-07": 661,
-  "2023-08-08": 661,
-  "2023-08-09": 661,
-  "2023-08-10": 661,
-  "2023-08-11": 661,
-  "2023-08-12": 661,
-  "2023-08-13": 661,
-  "2023-08-14": 661,
-  "2023-08-15": 661,
-  "2023-08-16": 661,
-  "2023-08-17": 661,
-  "2023-08-18": 661,
-  "2023-08-19": 661,
-  "2023-08-20": 661,
-  "2023-08-21": 661,
-  "2023-08-22": 661,
-  "2023-08-23": 661,
-  "2023-08-24": 661,
-  "2023-08-25": 661,
-  "2023-08-26": 661,
-  "2023-08-27": 661,
-  "2023-08-28": 661,
-  "2023-08-29": 661,
-  "2023-08-30": 661,
-  "2023-08-31": 661,
-  "2023-09-01": 661,
-  "2023-09-02": 661,
-  "2023-09-03": 661,
-  "2023-09-04": 661,
-  "2023-09-05": 661,
-  "2023-09-06": 661,
-  "2023-09-07": 661,
-  "2023-09-08": 661,
-  "2023-09-09": 661,
-  "2023-09-10": 661,
-  "2023-09-11": 661,
-  "2023-09-12": 661,
-  "2023-09-13": 661,
-  "2023-09-14": 661,
-  "2023-09-15": 661,
-  "2023-09-16": 661,
-  "2023-09-17": 661,
-  "2023-09-18": 661,
-  "2023-09-19": 661,
-  "2023-09-20": 661,
-  "2023-09-21": 661,
-  "2023-09-22": 661,
-  "2023-09-23": 661,
-  "2023-09-24": 661,
-  "2023-09-25": 661,
-  "2023-09-26": 661,
-  "2023-09-27": 661,
-  "2023-09-28": 661,
-  "2023-09-29": 661,
-  "2023-09-30": 661,
-  "2023-10-01": 661,
-  "2023-10-02": 661,
-  "2023-10-03": 661,
-  "2023-10-04": 661,
-  "2023-10-05": 661,
-  "2023-10-06": 661,
-  "2023-10-07": 661,
-  "2023-10-08": 661,
-  "2023-10-09": 661,
-  "2023-10-10": 661,
-  "2023-10-11": 661,
-  "2023-10-12": 661,
-  "2023-10-13": 661,
-  "2023-10-14": 661,
-  "2023-10-15": 661,
-  "2023-10-16": 661,
-  "2023-10-17": 661,
-  "2023-10-18": 661,
-  "2023-10-19": 661,
-  "2023-10-20": 661,
-  "2023-10-21": 661,
-  "2023-10-22": 661,
-  "2023-10-23": 661,
-  "2023-10-24": 661,
-  "2023-10-25": 661,
-  "2023-10-26": 661,
-  "2023-10-27": 661,
-  "2023-10-28": 661,
-  "2023-10-29": 661,
-  "2023-10-30": 661,
-  "2023-10-31": 661,
-  "2023-11-01": 661,
-  "2023-11-02": 661,
-  "2023-11-03": 661,
-  "2023-11-04": 661,
-  "2023-11-05": 661,
-  "2023-11-06": 661,
-  "2023-11-07": 661,
-  "2023-11-08": 661,
-  "2023-11-09": 661,
-  "2023-11-10": 661,
-  "2023-11-11": 661,
-  "2023-11-12": 661,
-  "2023-11-13": 661,
-  "2023-11-14": 661,
-  "2023-11-15": 661,
-  "2023-11-16": 661,
-  "2023-11-17": 661,
-  "2023-11-18": 661,
-  "2023-11-19": 661,
-  "2023-11-20": 661,
-  "2023-11-21": 661,
-  "2023-11-22": 661,
-  "2023-11-23": 661,
-  "2023-11-24": 661,
-  "2023-11-25": 661,
-  "2023-11-26": 661,
-  "2023-11-27": 661,
-  "2023-11-28": 661,
-  "2023-11-29": 661,
-  "2023-11-30": 661,
-  "2023-12-01": 661,
-  "2023-12-02": 661,
-  "2023-12-03": 661,
-  "2023-12-04": 661,
-  "2023-12-05": 661,
-  "2023-12-06": 661,
-  "2023-12-07": 661,
-  "2023-12-08": 661,
-  "2023-12-09": 661,
-  "2023-12-10": 661,
-  "2023-12-11": 661,
-  "2023-12-12": 661,
-  "2023-12-13": 661,
-  "2023-12-14": 657,
-  "2023-12-15": 657,
-  "2023-12-16": 657,
-  "2023-12-17": 657,
-  "2023-12-18": 657,
-  "2023-12-19": 657,
-  "2023-12-20": 657,
-  "2023-12-21": 657,
-  "2023-12-22": 657,
-  "2023-12-23": 657,
-  "2023-12-24": 657,
-  "2023-12-25": 657,
-  "2023-12-26": 657,
-  "2023-12-27": 657,
-  "2023-12-30": 657,
-  "2023-12-31": 657,
-  "2024-01-01": 657,
-  "2024-01-02": 657,
-  "2024-01-03": 657
+  "2024-01-17": 655,
+  "date_first_scraped": "2021-12-21",
+  "description": "Some soulful sets from Ye plus contributions to soul. Please enjoy this curated set entitled &quot;Kanye To The&quot;. (1,2,3, rest)",
+  "name": "Kanye To The",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323293,
+      "name": "30 Hours",
+      "url": "https://open.spotify.com/track/4E7FUbLDezvkVS6BCkKIup"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Syleena Johnson",
+          "url": "https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223506,
+      "name": "All Falls Down",
+      "url": "https://open.spotify.com/track/2cYZpcIV39X48RnOFM7w2V"
+    },
+    {
+      "album": {
+        "name": "808s & Heartbreak (Softpak)",
+        "url": "https://open.spotify.com/album/5V3swZLEDfUwJ1HlZ6C2EW"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238333,
+      "name": "Amazing",
+      "url": "https://open.spotify.com/track/3prS2gn9vzuU6kA7TQmtI2"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188013,
+      "name": "Black Skinhead",
+      "url": "https://open.spotify.com/track/722tgOgdIbNe3BEyLnejw4"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469866,
+      "name": "Blame Game",
+      "url": "https://open.spotify.com/track/4EndPA8b6FDWYp1RgsnLEB"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229146,
+      "name": "Bound 2",
+      "url": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271600,
+      "name": "Can't Tell Me Nothing",
+      "url": "https://open.spotify.com/track/4ImL3v98u2BLkwnyQDjfRm"
+    },
+    {
+      "album": {
+        "name": "Champions",
+        "url": "https://open.spotify.com/album/1xuSorM2dDIiB5zhftB5NY"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334253,
+      "name": "Champions",
+      "url": "https://open.spotify.com/track/2nBI3iWLhupR7LyAJ5GGkE"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280786,
+      "name": "Dark Fantasy",
+      "url": "https://open.spotify.com/track/7yNK27ZTpHew0c55VvIJgm"
+    },
+    {
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272226,
+      "name": "Drive Slow",
+      "url": "https://open.spotify.com/track/6vB49BJ70zBpDrrAPwdaB8"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200733,
+      "name": "Facts (Charlie Heat Version)",
+      "url": "https://open.spotify.com/track/70mkjE0eVDfuuVKXX7KZXB"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/4BsFUZlt8vQ1wH3vlmBu8c"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/7GwMPc1Id4sAotVekDP4b2"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236120,
+      "name": "FML",
+      "url": "https://open.spotify.com/track/34kRg5EbCB3r20QXZbnGeY"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 38333,
+      "name": "Frank's Track",
+      "url": "https://open.spotify.com/track/2tNNECuPFrnG9ezMCGZXow"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123386,
+      "name": "Freestyle 4",
+      "url": "https://open.spotify.com/track/1r53kDsIVmyTwdjeGRAber"
+    },
+    {
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Jamie Foxx",
+          "url": "https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207626,
+      "name": "Gold Digger",
+      "url": "https://open.spotify.com/track/1PS1QMdUqOal0ai3Gt7sDQ"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/1fLdeDTrJWNkwOeFyAVLvF"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "Good Morning",
+      "url": "https://open.spotify.com/track/27eO3EGKIUU7yug1eOxUZu"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140746,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/2Kbxfq8wkjMCno1QJe4yyw"
+    },
+    {
+      "album": {
+        "name": "808s & Heartbreak (Softpak)",
+        "url": "https://open.spotify.com/album/5V3swZLEDfUwJ1HlZ6C2EW"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/28siypca4TEqLnQ6Cgbdbe"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Highlights",
+      "url": "https://open.spotify.com/track/4dmCMIu39DqyalBCENwSxk"
+    },
+    {
+      "album": {
+        "name": "Yeezus",
+        "url": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326946,
+      "name": "Hold My Liquor",
+      "url": "https://open.spotify.com/track/5nIu0VwPOsjkF61zfevLKh"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 44826,
+      "name": "I Love Kanye",
+      "url": "https://open.spotify.com/track/0sM1hCHeHkGEGo4XXktCHg"
+    },
+    {
+      "album": {
+        "name": "Graduation",
+        "url": "https://open.spotify.com/album/3SZr5Pco2oqKFORCP3WNj9"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/6bXOlIfGIWh7Tyn4oyvLQW"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193733,
+      "name": "Jesus Walks",
+      "url": "https://open.spotify.com/track/62r62ArmWq38cu6QCVgyTc"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "Low Lights",
+      "url": "https://open.spotify.com/track/5cljAxD4iQ4cwWM3Lc49Ju"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292066,
+      "name": "Made In America",
+      "url": "https://open.spotify.com/track/1uvcNjAEUEuA0kPqHVrmw3"
+    },
+    {
+      "album": {
+        "name": "Watch The Throne (Deluxe)",
+        "url": "https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272506,
+      "name": "No Church In The Wild",
+      "url": "https://open.spotify.com/track/0aFObVR01JzPbBMjze4xPV"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/5FjZyY1U0ofktPtn3kF3J6"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130293,
+      "name": "Pt. 2",
+      "url": "https://open.spotify.com/track/6BrppQL1SAkKVWqp6w0nNm"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251573,
+      "name": "Real Friends",
+      "url": "https://open.spotify.com/track/0HDdyhtep8nLbCbcjFNlcz"
+    },
+    {
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547733,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320680,
+      "name": "Ultralight Beam",
+      "url": "https://open.spotify.com/track/6CbEf47L2P4wEKY96uu6W8"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/0T3ruvJQNQeTyK7tWKvdoX"
+    },
+    {
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/3ff2p3LnR6V7m6BinwhNaQ"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239880,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/0Z1ozhbWc9XPczRSrFYqBb"
+    },
+    {
+      "album": {
+        "name": "Late Registration",
+        "url": "https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Really Doe",
+          "url": "https://open.spotify.com/artist/69m0yjx8ruKebsRvbNuEDz"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 448000,
+      "name": "We Major",
+      "url": "https://open.spotify.com/track/46fk9wjYcPm0sgym2b7EEE"
+    },
+    {
+      "album": {
+        "name": "808s & Heartbreak (Softpak)",
+        "url": "https://open.spotify.com/album/5V3swZLEDfUwJ1HlZ6C2EW"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262933,
+      "name": "Welcome To Heartbreak",
+      "url": "https://open.spotify.com/track/4kmvOplv4rMF7rNjuR63iG"
+    },
+    {
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/2f4cvZmkZqlzjNf7bcmeCb"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "date_added": "2016-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301586,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/4vgVpxNTdfmcbBvk6hMPn4"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/6Sz7KT9MhChZuAJDKEWiLF"
 }

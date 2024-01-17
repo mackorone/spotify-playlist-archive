@@ -1,569 +1,1617 @@
 {
-  "2022-06-10": 13865,
-  "2022-06-11": 13867,
-  "2022-06-12": 13869,
-  "2022-06-13": 13883,
-  "2022-06-14": 13895,
-  "2022-06-15": 13897,
-  "2022-06-16": 13905,
-  "2022-06-17": 13908,
-  "2022-06-18": 13913,
-  "2022-06-19": 13934,
-  "2022-06-20": 13934,
-  "2022-06-21": 13942,
-  "2022-06-22": 13963,
-  "2022-06-23": 13963,
-  "2022-06-24": 13968,
-  "2022-06-25": 13973,
-  "2022-06-26": 13980,
-  "2022-06-27": 13991,
-  "2022-06-28": 13997,
-  "2022-06-29": 14000,
-  "2022-06-30": 14006,
-  "2022-07-01": 14009,
-  "2022-07-02": 14021,
-  "2022-07-03": 14032,
-  "2022-07-04": 14048,
-  "2022-07-05": 14052,
-  "2022-07-06": 14052,
-  "2022-07-07": 14073,
-  "2022-07-08": 14083,
-  "2022-07-09": 14089,
-  "2022-07-10": 14100,
-  "2022-07-11": 14108,
-  "2022-07-12": 14111,
-  "2022-07-13": 14127,
-  "2022-07-14": 14133,
-  "2022-07-15": 14150,
-  "2022-07-16": 14159,
-  "2022-07-17": 14172,
-  "2022-07-18": 14182,
-  "2022-07-19": 14203,
-  "2022-07-20": 14208,
-  "2022-07-21": 14212,
-  "2022-07-22": 14229,
-  "2022-07-23": 14253,
-  "2022-07-24": 14273,
-  "2022-07-25": 14291,
-  "2022-07-26": 14307,
-  "2022-07-27": 14325,
-  "2022-07-28": 14340,
-  "2022-07-29": 14354,
-  "2022-07-30": 14396,
-  "2022-07-31": 14396,
-  "2022-08-01": 14414,
-  "2022-08-02": 14434,
-  "2022-08-03": 14434,
-  "2022-08-04": 14453,
-  "2022-08-05": 14461,
-  "2022-08-06": 14480,
-  "2022-08-07": 14497,
-  "2022-08-08": 14520,
-  "2022-08-09": 14542,
-  "2022-08-10": 14571,
-  "2022-08-11": 14578,
-  "2022-08-12": 14591,
-  "2022-08-13": 14599,
-  "2022-08-14": 14612,
-  "2022-08-15": 14625,
-  "2022-08-16": 14641,
-  "2022-08-17": 14655,
-  "2022-08-18": 14668,
-  "2022-08-19": 14682,
-  "2022-08-20": 14696,
-  "2022-08-21": 14707,
-  "2022-08-22": 14726,
-  "2022-08-23": 14741,
-  "2022-08-24": 14755,
-  "2022-08-25": 14769,
-  "2022-08-26": 14780,
-  "2022-08-27": 14800,
-  "2022-08-28": 14812,
-  "2022-08-29": 14820,
-  "2022-08-30": 14828,
-  "2022-08-31": 14812,
-  "2022-09-01": 14780,
-  "2022-09-02": 14765,
-  "2022-09-03": 14706,
-  "2022-09-04": 14706,
-  "2022-09-05": 14707,
-  "2022-09-06": 14720,
-  "2022-09-07": 14728,
-  "2022-09-09": 14755,
-  "2022-09-10": 14768,
-  "2022-09-11": 14775,
-  "2022-09-12": 14786,
-  "2022-09-13": 14801,
-  "2022-09-15": 14818,
-  "2022-09-16": 14832,
-  "2022-09-17": 14840,
-  "2022-09-18": 14844,
-  "2022-09-19": 14850,
-  "2022-09-20": 14869,
-  "2022-09-21": 14876,
-  "2022-09-22": 14886,
-  "2022-09-23": 14905,
-  "2022-09-24": 14905,
-  "2022-09-25": 14931,
-  "2022-09-26": 14955,
-  "2022-09-27": 14971,
-  "2022-09-28": 14994,
-  "2022-09-29": 15011,
-  "2022-09-30": 15022,
-  "2022-10-01": 15035,
-  "2022-10-02": 15044,
-  "2022-10-03": 15060,
-  "2022-10-04": 15080,
-  "2022-10-05": 15092,
-  "2022-10-06": 15107,
-  "2022-10-07": 15119,
-  "2022-10-08": 15128,
-  "2022-10-09": 15137,
-  "2022-10-10": 15140,
-  "2022-10-11": 15149,
-  "2022-10-12": 15162,
-  "2022-10-13": 15180,
-  "2022-10-14": 15190,
-  "2022-10-15": 15199,
-  "2022-10-16": 15215,
-  "2022-10-17": 15221,
-  "2022-10-18": 15234,
-  "2022-10-19": 15246,
-  "2022-10-20": 15253,
-  "2022-10-21": 15262,
-  "2022-10-22": 15273,
-  "2022-10-23": 15280,
-  "2022-10-24": 15295,
-  "2022-10-25": 15313,
-  "2022-10-26": 15317,
-  "2022-10-27": 15327,
-  "2022-10-28": 15336,
-  "2022-10-29": 15347,
-  "2022-10-30": 15357,
-  "2022-10-31": 15373,
-  "2022-11-01": 15383,
-  "2022-11-02": 15401,
-  "2022-11-03": 15417,
-  "2022-11-04": 15424,
-  "2022-11-05": 15432,
-  "2022-11-06": 15447,
-  "2022-11-07": 15463,
-  "2022-11-08": 15469,
-  "2022-11-09": 15479,
-  "2022-11-10": 15496,
-  "2022-11-11": 15509,
-  "2022-11-12": 15523,
-  "2022-11-13": 15528,
-  "2022-11-14": 15543,
-  "2022-11-15": 15553,
-  "2022-11-16": 15558,
-  "2022-11-17": 15568,
-  "2022-11-18": 15577,
-  "2022-11-19": 15578,
-  "2022-11-20": 15584,
-  "2022-11-21": 15603,
-  "2022-11-22": 15615,
-  "2022-11-23": 15630,
-  "2022-11-24": 15645,
-  "2022-11-25": 15655,
-  "2022-11-26": 15664,
-  "2022-11-27": 15676,
-  "2022-11-28": 15691,
-  "2022-11-29": 15702,
-  "2022-11-30": 15720,
-  "2022-12-01": 15732,
-  "2022-12-02": 15742,
-  "2022-12-03": 15760,
-  "2022-12-04": 15771,
-  "2022-12-05": 15780,
-  "2022-12-06": 15798,
-  "2022-12-07": 15817,
-  "2022-12-08": 15834,
-  "2022-12-09": 15856,
-  "2022-12-10": 15868,
-  "2022-12-11": 15877,
-  "2022-12-12": 15889,
-  "2022-12-13": 15906,
-  "2022-12-14": 15915,
-  "2022-12-15": 15924,
-  "2022-12-16": 15934,
-  "2022-12-17": 15948,
-  "2022-12-18": 15958,
-  "2022-12-19": 15973,
-  "2022-12-20": 15998,
-  "2022-12-21": 15998,
-  "2022-12-22": 16016,
-  "2022-12-24": 16038,
-  "2022-12-25": 16051,
-  "2022-12-26": 16059,
-  "2022-12-27": 16076,
-  "2022-12-28": 16087,
-  "2022-12-29": 16094,
-  "2022-12-30": 16105,
-  "2022-12-31": 16118,
-  "2023-01-01": 16122,
-  "2023-01-02": 16133,
-  "2023-01-03": 16140,
-  "2023-01-04": 16148,
-  "2023-01-05": 16158,
-  "2023-01-06": 16167,
-  "2023-01-07": 16178,
-  "2023-01-08": 16181,
-  "2023-01-09": 16191,
-  "2023-01-10": 16207,
-  "2023-01-11": 16220,
-  "2023-01-12": 16227,
-  "2023-01-13": 16237,
-  "2023-01-14": 16252,
-  "2023-01-15": 16253,
-  "2023-01-16": 16264,
-  "2023-01-17": 16275,
-  "2023-01-18": 16287,
-  "2023-01-19": 16292,
-  "2023-01-20": 16295,
-  "2023-01-21": 16301,
-  "2023-01-22": 16307,
-  "2023-01-23": 16325,
-  "2023-01-24": 16337,
-  "2023-01-25": 16352,
-  "2023-01-26": 16363,
-  "2023-01-27": 16379,
-  "2023-01-28": 16392,
-  "2023-01-29": 16402,
-  "2023-01-30": 16407,
-  "2023-01-31": 16407,
-  "2023-02-01": 16430,
-  "2023-02-02": 16440,
-  "2023-02-03": 16448,
-  "2023-02-04": 16451,
-  "2023-02-05": 16467,
-  "2023-02-06": 16478,
-  "2023-02-07": 16491,
-  "2023-02-08": 16514,
-  "2023-02-09": 16514,
-  "2023-02-10": 16520,
-  "2023-02-11": 16527,
-  "2023-02-12": 16553,
-  "2023-02-13": 16567,
-  "2023-02-14": 16567,
-  "2023-02-15": 16570,
-  "2023-02-16": 16580,
-  "2023-02-17": 16584,
-  "2023-02-18": 16598,
-  "2023-02-19": 16603,
-  "2023-02-20": 16610,
-  "2023-02-21": 16620,
-  "2023-02-22": 16637,
-  "2023-02-23": 16652,
-  "2023-02-24": 16660,
-  "2023-02-25": 16677,
-  "2023-02-26": 16689,
-  "2023-02-27": 16723,
-  "2023-02-28": 16723,
-  "2023-03-01": 16744,
-  "2023-03-02": 16756,
-  "2023-03-03": 16768,
-  "2023-03-04": 16777,
-  "2023-03-05": 16816,
-  "2023-03-06": 16816,
-  "2023-03-07": 16845,
-  "2023-03-08": 16861,
-  "2023-03-09": 16876,
-  "2023-03-10": 16892,
-  "2023-03-11": 16902,
-  "2023-03-12": 16915,
-  "2023-03-13": 16935,
-  "2023-03-14": 16943,
-  "2023-03-15": 16949,
-  "2023-03-16": 16949,
-  "2023-03-17": 16949,
-  "2023-03-18": 16983,
-  "2023-03-19": 16983,
-  "2023-03-20": 17007,
-  "2023-03-21": 17017,
-  "2023-03-22": 17031,
-  "2023-03-23": 17043,
-  "2023-03-24": 17043,
-  "2023-03-25": 17068,
-  "2023-03-26": 17080,
-  "2023-03-27": 17087,
-  "2023-03-28": 17098,
-  "2023-03-29": 17118,
-  "2023-03-30": 17147,
-  "2023-03-31": 17147,
-  "2023-04-01": 17155,
-  "2023-04-02": 17162,
-  "2023-04-03": 17171,
-  "2023-04-04": 17181,
-  "2023-04-05": 17191,
-  "2023-04-06": 17204,
-  "2023-04-07": 17216,
-  "2023-04-09": 17241,
-  "2023-04-10": 17254,
-  "2023-04-11": 17267,
-  "2023-04-12": 17267,
-  "2023-04-13": 17278,
-  "2023-04-14": 17295,
-  "2023-04-15": 17300,
-  "2023-04-16": 17315,
-  "2023-04-17": 17322,
-  "2023-04-18": 17336,
-  "2023-04-19": 17348,
-  "2023-04-20": 17352,
-  "2023-04-21": 17370,
-  "2023-04-22": 17381,
-  "2023-04-23": 17396,
-  "2023-04-24": 17411,
-  "2023-04-25": 17421,
-  "2023-04-26": 17432,
-  "2023-04-27": 17440,
-  "2023-04-28": 17451,
-  "2023-04-29": 17457,
-  "2023-04-30": 17472,
-  "2023-05-01": 17481,
-  "2023-05-02": 17493,
-  "2023-05-03": 17506,
-  "2023-05-04": 17514,
-  "2023-05-05": 17522,
-  "2023-05-06": 17528,
-  "2023-05-07": 17533,
-  "2023-05-08": 17537,
-  "2023-05-09": 17544,
-  "2023-05-10": 17555,
-  "2023-05-11": 17562,
-  "2023-05-12": 17572,
-  "2023-05-13": 17584,
-  "2023-05-14": 17592,
-  "2023-05-15": 17599,
-  "2023-05-16": 17609,
-  "2023-05-17": 17616,
-  "2023-05-18": 17624,
-  "2023-05-19": 17640,
-  "2023-05-20": 17672,
-  "2023-05-21": 17672,
-  "2023-05-22": 17672,
-  "2023-05-23": 17683,
-  "2023-05-24": 17707,
-  "2023-05-25": 17710,
-  "2023-05-26": 17717,
-  "2023-05-27": 17728,
-  "2023-05-28": 17744,
-  "2023-05-29": 17744,
-  "2023-05-30": 17765,
-  "2023-05-31": 17769,
-  "2023-06-01": 17776,
-  "2023-06-02": 17784,
-  "2023-06-03": 17795,
-  "2023-06-04": 17809,
-  "2023-06-05": 17825,
-  "2023-06-06": 17842,
-  "2023-06-07": 17850,
-  "2023-06-08": 17856,
-  "2023-06-09": 17864,
-  "2023-06-10": 17868,
-  "2023-06-11": 17875,
-  "2023-06-12": 17876,
-  "2023-06-13": 17887,
-  "2023-06-14": 17895,
-  "2023-06-15": 17905,
-  "2023-06-16": 17904,
-  "2023-06-17": 17912,
-  "2023-06-18": 17919,
-  "2023-06-19": 17929,
-  "2023-06-20": 17939,
-  "2023-06-21": 17945,
-  "2023-06-22": 17949,
-  "2023-06-23": 17966,
-  "2023-06-24": 17968,
-  "2023-06-25": 17984,
-  "2023-06-26": 17995,
-  "2023-06-27": 17997,
-  "2023-06-28": 18008,
-  "2023-06-29": 18014,
-  "2023-06-30": 18027,
-  "2023-07-01": 18052,
-  "2023-07-02": 18052,
-  "2023-07-03": 18052,
-  "2023-07-04": 18059,
-  "2023-07-05": 18070,
-  "2023-07-06": 18078,
-  "2023-07-07": 18078,
-  "2023-07-08": 18091,
-  "2023-07-09": 18099,
-  "2023-07-10": 18105,
-  "2023-07-11": 18120,
-  "2023-07-12": 18127,
-  "2023-07-13": 18131,
-  "2023-07-14": 18142,
-  "2023-07-15": 18150,
-  "2023-07-16": 18159,
-  "2023-07-17": 18170,
-  "2023-07-18": 18183,
-  "2023-07-19": 18189,
-  "2023-07-20": 18200,
-  "2023-07-21": 18211,
-  "2023-07-22": 18223,
-  "2023-07-23": 18228,
-  "2023-07-24": 18235,
-  "2023-07-25": 18247,
-  "2023-07-26": 18251,
-  "2023-07-27": 18257,
-  "2023-07-28": 18264,
-  "2023-07-29": 18268,
-  "2023-07-30": 18281,
-  "2023-07-31": 18283,
-  "2023-08-01": 18292,
-  "2023-08-02": 18299,
-  "2023-08-03": 18313,
-  "2023-08-04": 18321,
-  "2023-08-05": 18339,
-  "2023-08-06": 18367,
-  "2023-08-07": 18367,
-  "2023-08-08": 18381,
-  "2023-08-09": 18394,
-  "2023-08-10": 18405,
-  "2023-08-11": 18415,
-  "2023-08-12": 18415,
-  "2023-08-13": 18415,
-  "2023-08-14": 18460,
-  "2023-08-15": 18460,
-  "2023-08-16": 18460,
-  "2023-08-17": 18489,
-  "2023-08-18": 18489,
-  "2023-08-19": 18489,
-  "2023-08-20": 18526,
-  "2023-08-21": 18526,
-  "2023-08-22": 18548,
-  "2023-08-23": 18548,
-  "2023-08-24": 18568,
-  "2023-08-25": 18568,
-  "2023-08-26": 18579,
-  "2023-08-27": 18579,
-  "2023-08-28": 18603,
-  "2023-08-29": 18603,
-  "2023-08-30": 18603,
-  "2023-08-31": 18634,
-  "2023-09-01": 18643,
-  "2023-09-02": 18643,
-  "2023-09-03": 18659,
-  "2023-09-04": 18659,
-  "2023-09-05": 18659,
-  "2023-09-06": 18692,
-  "2023-09-07": 18692,
-  "2023-09-08": 18692,
-  "2023-09-09": 18692,
-  "2023-09-10": 18721,
-  "2023-09-11": 18721,
-  "2023-09-12": 18721,
-  "2023-09-13": 18749,
-  "2023-09-14": 18749,
-  "2023-09-15": 18749,
-  "2023-09-16": 18765,
-  "2023-09-17": 18765,
-  "2023-09-18": 18765,
-  "2023-09-19": 18801,
-  "2023-09-20": 18801,
-  "2023-09-21": 18801,
-  "2023-09-22": 18822,
-  "2023-09-23": 18822,
-  "2023-09-24": 18822,
-  "2023-09-25": 18822,
-  "2023-09-26": 18850,
-  "2023-09-27": 18850,
-  "2023-09-28": 18850,
-  "2023-09-29": 18850,
-  "2023-09-30": 18850,
-  "2023-10-01": 18850,
-  "2023-10-02": 18903,
-  "2023-10-03": 18903,
-  "2023-10-04": 18903,
-  "2023-10-05": 18923,
-  "2023-10-06": 18930,
-  "2023-10-07": 18930,
-  "2023-10-08": 18930,
-  "2023-10-09": 18930,
-  "2023-10-10": 18930,
-  "2023-10-11": 18988,
-  "2023-10-12": 18988,
-  "2023-10-13": 18988,
-  "2023-10-14": 18988,
-  "2023-10-15": 18988,
-  "2023-10-16": 18988,
-  "2023-10-17": 18988,
-  "2023-10-18": 18988,
-  "2023-10-19": 18988,
-  "2023-10-20": 18988,
-  "2023-10-21": 18988,
-  "2023-10-22": 18988,
-  "2023-10-23": 18988,
-  "2023-10-24": 18988,
-  "2023-10-25": 18988,
-  "2023-10-26": 18988,
-  "2023-10-27": 18988,
-  "2023-10-28": 18988,
-  "2023-10-29": 18988,
-  "2023-10-30": 18988,
-  "2023-10-31": 18988,
-  "2023-11-01": 18988,
-  "2023-11-02": 18988,
-  "2023-11-03": 18988,
-  "2023-11-04": 18988,
-  "2023-11-05": 18988,
-  "2023-11-06": 18988,
-  "2023-11-07": 18988,
-  "2023-11-08": 18988,
-  "2023-11-09": 18988,
-  "2023-11-10": 18988,
-  "2023-11-11": 19232,
-  "2023-11-12": 19232,
-  "2023-11-13": 19232,
-  "2023-11-14": 19232,
-  "2023-11-15": 19232,
-  "2023-11-16": 19232,
-  "2023-11-17": 19232,
-  "2023-11-18": 19232,
-  "2023-11-19": 19232,
-  "2023-11-20": 19232,
-  "2023-11-21": 19232,
-  "2023-11-22": 19232,
-  "2023-11-23": 19232,
-  "2023-11-24": 19232,
-  "2023-11-25": 19232,
-  "2023-11-26": 19232,
-  "2023-11-27": 19232,
-  "2023-11-28": 19232,
-  "2023-11-29": 19232,
-  "2023-11-30": 19232,
-  "2023-12-01": 19232,
-  "2023-12-02": 19232,
-  "2023-12-03": 19232,
-  "2023-12-04": 19232,
-  "2023-12-05": 19232,
-  "2023-12-06": 19232,
-  "2023-12-07": 19232,
-  "2023-12-08": 19232,
-  "2023-12-09": 19232,
-  "2023-12-10": 19232,
-  "2023-12-11": 19232,
-  "2023-12-12": 19232,
-  "2023-12-13": 19232,
-  "2023-12-14": 19443,
-  "2023-12-15": 19446,
-  "2023-12-16": 19455,
-  "2023-12-17": 19466,
-  "2023-12-18": 19472,
-  "2023-12-19": 19478,
-  "2023-12-20": 19487,
-  "2023-12-21": 19498,
-  "2023-12-22": 19503,
-  "2023-12-23": 19510,
-  "2023-12-24": 19519,
-  "2023-12-25": 19523,
-  "2023-12-26": 19528,
-  "2023-12-27": 19541,
-  "2023-12-30": 19566,
-  "2023-12-31": 19570,
-  "2024-01-01": 19576,
-  "2024-01-02": 19579,
-  "2024-01-03": 19585
+  "2024-01-17": 19707,
+  "date_first_scraped": "2022-06-10",
+  "description": "This is ReoNa. The essential tracks, all in one playlist.",
+  "name": "This Is ReoNa",
+  "tracks": [
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-11-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258532,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/08EaMQ9Ro0NavqaBpdfJDk"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
+    },
+    {
+      "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269120,
+      "name": "ANIMA",
+      "url": "https://open.spotify.com/track/2j1r3ubqqxuoTFaPVnTV1j"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314239,
+      "name": "ANIMA -Naked Style.-",
+      "url": "https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-09",
+      "duration_ms": 314253,
+      "name": "ANIMA -Naked Style.- -Instrumental-",
+      "url": "https://open.spotify.com/track/1D7CDijkgMBPtWARJiOxNt"
+    },
+    {
+      "album": {
+        "name": "ANIMA\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+        "url": "https://open.spotify.com/album/2MU4fbl4F3KwiR6RbVVARz"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 266366,
+      "name": "ANIMA\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/79XOaxIV8zO7Qn0jyqhpLF"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259174,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/0ii7ebPPvmqVl5oPlet3JL"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 106017,
+      "name": "Believer -Game size-",
+      "url": "https://open.spotify.com/track/1VwtelvWY49iuXvg3Ltn8c"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257372,
+      "name": "Dancer in the Discord",
+      "url": "https://open.spotify.com/track/7KmzkpVC89akEovfbwTFG7"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-07",
+      "duration_ms": 257373,
+      "name": "Dancer in the Discord",
+      "url": "https://open.spotify.com/track/5Y7cubpgAgilw7QGkMi0DL"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 367986,
+      "name": "Disorder -Acoustic Live ver.-",
+      "url": "https://open.spotify.com/track/4TsuMLyaataCvRJPnr2Wzf"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-31",
+      "duration_ms": 367986,
+      "name": "Disorder -Acoustic Live ver.-",
+      "url": "https://open.spotify.com/track/68sF62rsfyzfOxjeKaydVp"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266560,
+      "name": "forget-me-not",
+      "url": "https://open.spotify.com/track/6DCOPYnwHSpJ0GCKaXdjn5"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert Tour \"unknown\" Live at PACIFICO YOKOHAMA",
+        "url": "https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-11",
+      "duration_ms": 264653,
+      "name": "forget-me-not \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" - Live Version",
+      "url": "https://open.spotify.com/track/2JThg9NXaWPyHvbZouBDrX"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "url": "https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 271955,
+      "name": "forget-me-not\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/1DOUl7bfdrYDtm3ZY43noW"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272600,
+      "name": "FRIENDS",
+      "url": "https://open.spotify.com/track/3OqnmwhyLMrOLynHp1Lijm"
+    },
+    {
+      "album": {
+        "name": "heartbeat-axelator",
+        "url": "https://open.spotify.com/album/0ud7dpZJPQoyZNHl2HBH2M"
+      },
+      "artists": [
+        {
+          "name": "\u76f8\u7fbd\u3042\u3044\u306a(Roselia \u6e4a\u53cb\u5e0c\u90a3\u5f79)",
+          "url": "https://open.spotify.com/artist/4Iaxh5EoK1QkPdR17tGDY7"
+        },
+        {
+          "name": "Aimi",
+          "url": "https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi"
+        },
+        {
+          "name": "\u96e8\u5bae\u5929",
+          "url": "https://open.spotify.com/artist/4KZzy4InZnRABJUN5Jtq7V"
+        },
+        {
+          "name": "Masayoshi Oishi",
+          "url": "https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC"
+        },
+        {
+          "name": "\u68b6\u539f\u5cb3\u4eba(Paradox Live \u6731\u96c0\u91ce\u30a2\u30ec\u30f3\u5f79)",
+          "url": "https://open.spotify.com/artist/6ngKeeVr3JDuJiO5QBMBen"
+        },
+        {
+          "name": "Konomi Suzuki",
+          "url": "https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF"
+        },
+        {
+          "name": "TRUE",
+          "url": "https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te"
+        },
+        {
+          "name": "\u4e09\u68ee\u3059\u305a\u3053",
+          "url": "https://open.spotify.com/artist/29pz21zpLIOXyhABfDZjg2"
+        },
+        {
+          "name": "\u52c7-YOU-(SCREEN mode)",
+          "url": "https://open.spotify.com/artist/6sy95HiaIUp1nN8UIYuaqQ"
+        },
+        {
+          "name": "YOU-TA(MADKID)",
+          "url": "https://open.spotify.com/artist/6ogDkCIzvPi7KL0rR91zy2"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 232990,
+      "name": "heartbeat-axelator",
+      "url": "https://open.spotify.com/track/5JLBKCO7dHAhpkZTem0yZz"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322120,
+      "name": "HUMAN",
+      "url": "https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f(Special Edition)",
+        "url": "https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "JAMMER",
+      "url": "https://open.spotify.com/track/7ep6br0XudQ9RlNalp7vQn"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315897,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-13",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-12",
+      "duration_ms": 241168,
+      "name": "Lost -Game size-",
+      "url": "https://open.spotify.com/track/7g42Ofn6XWXD61OM8Vqwk0"
+    },
+    {
+      "album": {
+        "name": "Null",
+        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332160,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/6lrSpZi8Isa1oBwvkIzP7R"
+    },
+    {
+      "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253240,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/1Hane5qDm7pjoe5F96HtnZ"
+    },
+    {
+      "album": {
+        "name": "R.I.P.",
+        "url": "https://open.spotify.com/album/4d5W6sksMk3FHYYmdd4u0E"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202708,
+      "name": "R.I.P.",
+      "url": "https://open.spotify.com/track/4d4RL0VuwSA1JfRRXD9tXt"
+    },
+    {
+      "album": {
+        "name": "R.I.P.(Special Edition)",
+        "url": "https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94093,
+      "name": "R.I.P. -TV ver. \u03b2-",
+      "url": "https://open.spotify.com/track/274YN5NLQfwSovrXlcLf6n"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309600,
+      "name": "Rea(s)oN -Acoustic Live ver.-",
+      "url": "https://open.spotify.com/track/5Fa7xFiV4wiqI6od5Tge6O"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-29",
+      "duration_ms": 309600,
+      "name": "Rea(s)oN -Acoustic Live ver.-",
+      "url": "https://open.spotify.com/track/66SJdEgge2tTZQj6vWGP8s"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189866,
+      "name": "SACRA",
+      "url": "https://open.spotify.com/track/3ZAzz9T4ANqovBZBJkOiVh"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257786,
+      "name": "Scar/let",
+      "url": "https://open.spotify.com/track/5IMh6f4sfKR5820IkKw74f"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert Tour \"unknown\" Live at PACIFICO YOKOHAMA",
+        "url": "https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-13",
+      "duration_ms": 294093,
+      "name": "Scar/let \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" - Live Version",
+      "url": "https://open.spotify.com/track/1Cklvrsc26PRg2kenZimUG"
+    },
+    {
+      "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320560,
+      "name": "Simoom",
+      "url": "https://open.spotify.com/track/05MXmdbsQsZbyBpuFr5f3P"
+    },
+    {
+      "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/5Dfj0lFPagb6MG3cUV8lH3"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318013,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6wI3Tt9Nwk3VPiL2FlqYxV"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-10",
+      "duration_ms": 319013,
+      "name": "Someday -Instrumental-",
+      "url": "https://open.spotify.com/track/5Q5ImMxs1liLdfsZ8tm4C8"
+    },
+    {
+      "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "url": "https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-02",
+      "duration_ms": 274226,
+      "name": "SWEET HURT\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/6unZbT8gJBqsqSzFBv8L9S"
+    },
+    {
+      "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364013,
+      "name": "Till the End",
+      "url": "https://open.spotify.com/track/4iaSSJYuSYd9MSOQ2au3Pc"
+    },
+    {
+      "album": {
+        "name": "time",
+        "url": "https://open.spotify.com/album/18bxCRrBnYE2CKtnJWrgMj"
+      },
+      "artists": [
+        {
+          "name": "SawanoHiroyuki[nZk]",
+          "url": "https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238666,
+      "name": "time",
+      "url": "https://open.spotify.com/track/7grcN18xiQDGUVqWR7mUF0"
+    },
+    {
+      "album": {
+        "name": "VITA",
+        "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-01-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306586,
+      "name": "VITA",
+      "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+    },
+    {
+      "album": {
+        "name": "R.I.P.(Special Edition)",
+        "url": "https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580293,
+      "name": "VITA -The Days-",
+      "url": "https://open.spotify.com/track/57cU3nbUkPzdbQ6RdDQjjy"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280186,
+      "name": "Weaker",
+      "url": "https://open.spotify.com/track/7pR7ScZMyG8jLreMh1r2Y3"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 252266,
+      "name": "\u3042\u3057\u305f\u306f\u30cf\u30ec\u30eb\u30e4",
+      "url": "https://open.spotify.com/track/2CjgUjb98tknCsDWiMn7Oz"
+    },
+    {
+      "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "\u304a\u3084\u3059\u307f\u306e\u8a69",
+      "url": "https://open.spotify.com/track/078Zvw4Fd1PBx8efZdyuuY"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 234506,
+      "name": "\u3055\u3088\u30ca\u30e9",
+      "url": "https://open.spotify.com/track/0aLjwTbwYAQJnUkfuWo0Oi"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "\u306a\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/3GsiCUipvdSCOSNVcHkJYl"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044",
+        "url": "https://open.spotify.com/album/32zJ24dBNSbpAb5Ivc7Osp"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-28",
+      "duration_ms": 254093,
+      "name": "\u306a\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/1VVFJeC7AWaDcC6eCr3XqV"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-26",
+      "duration_ms": 254093,
+      "name": "\u306a\u3044\u306a\u3044",
+      "url": "https://open.spotify.com/track/2lD8rPegYoYC1WucU3vU1W"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252600,
+      "name": "\u307e\u3063\u3055\u3089",
+      "url": "https://open.spotify.com/track/6gJ5wPcapcwS4nCN5aOBDW"
+    },
+    {
+      "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287040,
+      "name": "\u30ab\u30ca\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/4vn0eCi3dRwGDHdyskh3Oy"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+        "url": "https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299255,
+      "name": "\u30ac\u30b8\u30e5\u30de\u30eb \uff5eHeaven in the Rain\uff5e",
+      "url": "https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+        "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266906,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?",
+      "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "url": "https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 271671,
+      "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/0jMS7S4by55KgUdyvtebyh"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263321,
+      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/0aNo5AAvXdaY2bFUQ0OedX"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-27",
+      "duration_ms": 105233,
+      "name": "\u30b8\u30e5\u30d6\u30ca\u30a4\u30eb -Game size-",
+      "url": "https://open.spotify.com/track/17JdWVTBngJuovKv7jCR7G"
+    },
+    {
+      "album": {
+        "name": "\u30c6\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 285306,
+      "name": "\u30c6\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-24",
+      "duration_ms": 283866,
+      "name": "\u30c6\u30c7\u30a3 -Instrumental-",
+      "url": "https://open.spotify.com/track/2ZkyYkOaYK68huD13crRu4"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314706,
+      "name": "\u30c8\u30a6\u30b7\u30f3\u30c0\u30a4",
+      "url": "https://open.spotify.com/track/24X8oKzZfqG7eQ3XhN0kSf"
+    },
+    {
+      "album": {
+        "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+        "url": "https://open.spotify.com/album/0QV4t1Qt8T9hBo0UtenRvQ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-07-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-28",
+      "duration_ms": 352920,
+      "name": "\u30cd\u30ea\u30e4\u30ab\u30ca\u30e4 ~\u7f8e\u3089\u5944\u7f8e~",
+      "url": "https://open.spotify.com/track/1X11FE8znvNDJ1TqUOshXi"
+    },
+    {
+      "album": {
+        "name": "\u30d4\u30eb\u30b0\u30ea\u30e0\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+        "url": "https://open.spotify.com/album/5NAxhdUS0avSUR7Ev63AlH"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246240,
+      "name": "\u30d4\u30eb\u30b0\u30ea\u30e0\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/5ZgyM4hWFKrUhHHgflIJBu"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353546,
+      "name": "\u30df\u30df\u30c3\u30af",
+      "url": "https://open.spotify.com/track/6KvzNhC0ZEJrEQNMrC4u3t"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249706,
+      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
+      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc",
+        "url": "https://open.spotify.com/album/4kKFEYFPzJ4xPCNEsFn33d"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-02",
+      "duration_ms": 266093,
+      "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc",
+      "url": "https://open.spotify.com/track/0f1tDeWjRuTAMqxNQu6ofn"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266093,
+      "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc",
+      "url": "https://open.spotify.com/track/16USvX84tvZa3ppnS06N1e"
+    },
+    {
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-21",
+      "duration_ms": 267533,
+      "name": "\u30e9\u30a4\u30d5\u30fb\u30a4\u30ba\u30fb\u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30a9\u30fc -Instrumental-",
+      "url": "https://open.spotify.com/track/4h2bkYwwW83WbPVFixtzE4"
+    },
+    {
+      "album": {
+        "name": "Alive(Special Edition)",
+        "url": "https://open.spotify.com/album/26JBEoaivvoXVywvkRptbZ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 319346,
+      "name": "\u4e00\u756a\u661f",
+      "url": "https://open.spotify.com/track/0rFlCZTNJO8p9A7Jg7PYn3"
+    },
+    {
+      "album": {
+        "name": "R.I.P.(Special Edition)",
+        "url": "https://open.spotify.com/album/3mDtsGDbDq217sIAjkLKGO"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219533,
+      "name": "\u539f\u4f5c\u8005",
+      "url": "https://open.spotify.com/track/3irzccxO2G1XkIOzDOAWmL"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7403\u304c\u4e00\u679a\u306e\u677f\u3060\u3063\u305f\u3089",
+        "url": "https://open.spotify.com/album/3R3riL6DJBBaxPW3RjUmQ3"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189732,
+      "name": "\u5730\u7403\u304c\u4e00\u679a\u306e\u677f\u3060\u3063\u305f\u3089",
+      "url": "https://open.spotify.com/track/5WERwXiN90uZMTBPoXtOaD"
+    },
+    {
+      "album": {
+        "name": "unknown",
+        "url": "https://open.spotify.com/album/0IDNAr9hNxxTC8dBwcsvhW"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262666,
+      "name": "\u602a\u7269\u306e\u8a69",
+      "url": "https://open.spotify.com/track/4Ym1HPO8pl7zrrR2b9MEI3"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert Tour \"unknown\" Live at PACIFICO YOKOHAMA",
+        "url": "https://open.spotify.com/album/05KgPALG9hNtOX4BCUBG1i"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-02-22",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-11",
+      "duration_ms": 267533,
+      "name": "\u602a\u7269\u306e\u8a69 \"unknown ver. Live at PACIFICO YOKOHAMA 2021.04.29\" - Live Version",
+      "url": "https://open.spotify.com/track/1HGz35cp5lX5jSH06KjFeo"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "url": "https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-10-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 262983,
+      "name": "\u602a\u7269\u306e\u8a69\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/3UzgHDLf1nByzMktWx2oGZ"
+    },
+    {
+      "album": {
+        "name": "Null",
+        "url": "https://open.spotify.com/album/0Ei7kMa7ZFqHucY4rIjbLC"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311800,
+      "name": "\u6c7a\u610f\u306e\u671d\u306b",
+      "url": "https://open.spotify.com/track/7hCrZjwlauy8LMU9z1XcO7"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30bf\u3099\u30f3\u30b9?(Special Edition)",
+        "url": "https://open.spotify.com/album/3uZkJY4VIWYjPtE7FbWpH9"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-03",
+      "duration_ms": 355040,
+      "name": "\u732b\u5931\u683c",
+      "url": "https://open.spotify.com/track/6BK3WZy3MR5GmH4zOk2O8F"
+    },
+    {
+      "album": {
+        "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
+        "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341773,
+      "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
+      "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
+    },
+    {
+      "album": {
+        "name": "\u751f\u547d\u7dda",
+        "url": "https://open.spotify.com/album/3SwHgKMcPcYO2KIFOSILxx"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-19",
+      "duration_ms": 255520,
+      "name": "\u751f\u547d\u7dda",
+      "url": "https://open.spotify.com/track/0xWl3d2OOeKJvbebz5lUlm"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-07",
+      "duration_ms": 255520,
+      "name": "\u751f\u547d\u7dda",
+      "url": "https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC"
+    },
+    {
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255546,
+      "name": "\u751f\u547d\u7dda",
+      "url": "https://open.spotify.com/track/2fgAVfnav5XAEwKi19PVxC"
+    },
+    {
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- Original Soundtrack",
+        "url": "https://open.spotify.com/album/1vbPDL5Hm1PcjUrbcw5Ulo"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99449,
+      "name": "\u751f\u547d\u7dda -Game size-",
+      "url": "https://open.spotify.com/track/48HR0RKVyUbjctXPbI4y4r"
+    },
+    {
+      "album": {
+        "name": "ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e",
+        "url": "https://open.spotify.com/album/4pihhDAaMalT3QVUOnk1Na"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274982,
+      "name": "\u751f\u547d\u7dda\uff08ReoNa ONE-MAN Concert 2023\u300c\u30d4\u30eb\u30b0\u30ea\u30e0\u300d\uff5e3.6 day \u9003\u3052\u3066\u9022\u304a\u3046\u306d\uff5e\uff09",
+      "url": "https://open.spotify.com/track/1XnoPCzkfnHOLjApDFIMPb"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/3zGbre3z1scVAZcRyRfTpw"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-22",
+      "duration_ms": 242373,
+      "name": "\u846c\u9001\u306e\u5100",
+      "url": "https://open.spotify.com/track/4pLF9u0jEuO6jIeaydBkRW"
+    },
+    {
+      "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242373,
+      "name": "\u846c\u9001\u306e\u5100",
+      "url": "https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ"
+    },
+    {
+      "album": {
+        "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+        "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
+      },
+      "artists": [
+        {
+          "name": "FictionJunction",
+          "url": "https://open.spotify.com/artist/5Q08YLH6CfTdmvhvRJ3iyz"
+        },
+        {
+          "name": "Eir Aoi",
+          "url": "https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3"
+        },
+        {
+          "name": "ASCA",
+          "url": "https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2023-03-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318760,
+      "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/0wMBwx4SiRJmcmRxtq6l4N"
+    },
+    {
+      "album": {
+        "name": "forget-me-not",
+        "url": "https://open.spotify.com/album/4PwgqiO9jB02M92C6YfGo2"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293746,
+      "name": "\u8679\u306e\u5f7c\u65b9\u306b",
+      "url": "https://open.spotify.com/track/73EQPKdoo72AxZXJ7Xhiq1"
+    },
+    {
+      "album": {
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269746,
+      "name": "\u96e8\u306b\u5504\u3048\u3070",
+      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
+    },
+    {
+      "album": {
+        "name": "\u9ec4\u91d1\u306e\u8f1d\u304d",
+        "url": "https://open.spotify.com/album/0W8cGloQ7NeIybHialOSvh"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2022-06-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 299853,
+      "name": "\u9ec4\u91d1\u306e\u8f1d\u304d",
+      "url": "https://open.spotify.com/track/6zTUmYzeOn7wd6bfLLjfQV"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS"
 }

@@ -4,7 +4,7 @@
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-146 songs - 10 hr 12 min
+147 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [All Is Not Lost](https://open.spotify.com/track/5RGTm1UzGhSuNAkrq1XIrA) | [The Brilliance](https://open.spotify.com/artist/26nltVmOVeIfYmwcmqTm7e) | [All Is Not Lost](https://open.spotify.com/album/3tFBH9TyKnenOi1E6bjRbz) | 3:48 | 2018-02-14 | 2022-07-29 |
 | [Always Will Be](https://open.spotify.com/track/2e5TtXZgMvWnnVAv5zQuHX) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Always Will Be](https://open.spotify.com/album/5vX74Wne2jfdf4KjAaHT3x) | 3:50 | 2023-07-28 |  |
 | [Anchor](https://open.spotify.com/track/2kDS6kwrjR2QDOj5RF52xj) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh), [Madison Nightingale](https://open.spotify.com/artist/7rtM8hShcn3uvAJrXapFSq) | [Anchor](https://open.spotify.com/album/2SIHwdpJ51catH3G1vNLGG) | 5:01 | 2023-07-28 | 2023-11-07 |
+| [Anthem](https://open.spotify.com/track/4FEo0LfhMnTF3XxRFeHEvK) | [SpiritFit Music](https://open.spotify.com/artist/0Ogq9gIMIesIEd65hhYuew) | [Spirit Stretch \(For Christian Yoga, Relaxation and Massage\)](https://open.spotify.com/album/0Rz24y1BSFrHxE5VvXQKj4) | 5:46 | 2023-07-28 |  |
 | [Be Kind To Yourself](https://open.spotify.com/track/1wGT5V8UDHe2Hd4UU9YFuM) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [The Burning Edge Of Dawn](https://open.spotify.com/album/4entt8rqr2zBv3UyyhnTsc) | 2:44 | 2018-02-14 | 2022-07-29 |
 | [Be Kind to Yourself](https://open.spotify.com/track/6kg7KswPKQVqJkgNaQl2MH) | [Andrew Peterson](https://open.spotify.com/artist/1HYNk3B7EsRPIqAOACgjK1) | [The Burning Edge of Dawn](https://open.spotify.com/album/23a5fqEE5DSe4NOqS6wqSW) | 2:44 | 2018-02-14 |  |
 | [Beckon](https://open.spotify.com/track/4do1jPPpGVUbOCEgMH2sB3) | [The Church Vessel](https://open.spotify.com/artist/56kazKXQjQT2Xy9k8HM5so) | [Rekindle](https://open.spotify.com/album/64qrjQnePZQS6tASw3qiVQ) | 6:34 | 2018-02-14 |  |
@@ -129,7 +130,7 @@
 | [The Lion And The Lamb \- Instrumental](https://open.spotify.com/track/4G46PbCzNXjAzYbzYGNc8Z) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [Rivers & Robots Presents: Still, Vol\. 1 \(Instrumentals\)](https://open.spotify.com/album/4g34k44C3ymTpr86zk1FJM) | 4:02 | 2018-02-14 |  |
 | [The Promise](https://open.spotify.com/track/0GX2XQoebthirwpAxC6gx5) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [The Promise](https://open.spotify.com/album/0fahYrdNLIq2AZ0YRFRkcF) | 5:52 | 2023-07-28 |  |
 | [The Sun Will Rise](https://open.spotify.com/track/6dQh3ivvGZqQh42B5avolF) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [The Sun Will Rise](https://open.spotify.com/album/1bwaS6JvUGRErJYUCWsWXP) | 3:30 | 2023-07-28 |  |
-| [There is a King \- Live Rehearsal Demo](https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [There is a King \(Live Rehearsal Demo\)](https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY) | 3:42 | 2023-07-28 |  |
+| [There is a King \- Live Rehearsal Demo](https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [There is a King \(Live Rehearsal Demo\)](https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY) | 3:42 | 2023-07-28 | 2024-01-16 |
 | [To The Sky](https://open.spotify.com/track/6JSyLsZlKdtyN39cbMnwXO) | [The Spacies](https://open.spotify.com/artist/3YpKkSd9uluZRtrh2oUsVn) | [The Spacies](https://open.spotify.com/album/4mDTFF0tmIpDbW92F9FzJp) | 4:21 | 2023-07-28 |  |
 | [Tracking Aeroplanes](https://open.spotify.com/track/4J4yJ9VpPIIsRDf9w4cPG7) | [The Echelon Effect](https://open.spotify.com/artist/20lGLFmdtadbUYmqzFRcA2) | [Field Recordings](https://open.spotify.com/album/0TNUVnjYHwbsilNnbweuZa) | 7:48 | 2018-02-14 |  |
 | [Undress My Heart](https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI) | [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Undress My Heart](https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo) | 3:45 | 2023-07-28 |  |

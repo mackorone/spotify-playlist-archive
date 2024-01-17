@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:7qAu2kYGjO28g0CJERiQhM\">MAJA</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:09GfElZ8wfFoJyaHNbSaan\">Sophie Szklarska</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-15",
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 137166,
       "name": "MAJU\u015a",
       "url": "https://open.spotify.com/track/5fPPFNftcGOcQOFerDTRwY"
@@ -1485,6 +1485,60 @@
     },
     {
       "album": {
+        "name": "Nawzajem",
+        "url": "https://open.spotify.com/album/75GNnZ1zBakXOS6ibrMcuI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Szklarska",
+          "url": "https://open.spotify.com/artist/09GfElZ8wfFoJyaHNbSaan"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142975,
+      "name": "Nawzajem",
+      "url": "https://open.spotify.com/track/0co1lgFF2B3fimrK2PqHok"
+    },
+    {
+      "album": {
+        "name": "nie b\u00f3j si\u0119",
+        "url": "https://open.spotify.com/album/6XjzyFPri2WsfWYfVx1EaC"
+      },
+      "artists": [
+        {
+          "name": "ania cringe",
+          "url": "https://open.spotify.com/artist/0oZoMVPLVPErIc7HIabZMn"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "nie b\u00f3j si\u0119",
+      "url": "https://open.spotify.com/track/1IXfFdokeeiqjzzKx2U51y"
+    },
+    {
+      "album": {
+        "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
+        "url": "https://open.spotify.com/album/2S2S3x5NcK9Ze3OrHEioKC"
+      },
+      "artists": [
+        {
+          "name": "27.Fuckdemons",
+          "url": "https://open.spotify.com/artist/2FhI5QfUYl5iIlUog9HHEw"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203805,
+      "name": "NIE CHC\u0118 CI\u0118 ZNA\u0106",
+      "url": "https://open.spotify.com/track/6H0FBOuMvEzGzP2T6sD1wT"
+    },
+    {
+      "album": {
         "name": "Nie chc\u0119 tu wraca\u0107 ju\u017c",
         "url": "https://open.spotify.com/album/2gUbKgJjAhfDkV5WGNHQCd"
       },
@@ -1572,7 +1626,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 160836,
       "name": "niem\u00f3wmi",
       "url": "https://open.spotify.com/track/7KSRgQPBOsuTi9SclLCQHc"
@@ -1598,6 +1652,24 @@
       "duration_ms": 196000,
       "name": "Niepolka",
       "url": "https://open.spotify.com/track/3SEP7Q0BsICf5qlhRBGtwG"
+    },
+    {
+      "album": {
+        "name": "Nowhere to Go",
+        "url": "https://open.spotify.com/album/7oXpWQGXkMc2rG9NwiXzZX"
+      },
+      "artists": [
+        {
+          "name": "Izabela Zabielska",
+          "url": "https://open.spotify.com/artist/04HwAPYr2hTMLjDVrpewQZ"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Nowhere to Go",
+      "url": "https://open.spotify.com/track/6tjgcuQ0GVd8woWQHDBp5I"
     },
     {
       "album": {
@@ -1688,7 +1760,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Organic Love",
       "url": "https://open.spotify.com/track/6X4IRCLajdsOARXdefbv4m"
@@ -1724,7 +1796,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 202666,
       "name": "Parlez Vous Francais",
       "url": "https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32"
@@ -2618,7 +2690,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 200419,
       "name": "Super",
       "url": "https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB"

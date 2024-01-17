@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: STONE",
+  "description": "Boss music for boss people. Cover: The Vaccines ",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -575,7 +575,7 @@
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 194245,
+      "duration_ms": 195152,
       "name": "Chancer",
       "url": "https://open.spotify.com/track/52dwlwO6RJoCv60NgCcjai"
     },
@@ -610,7 +610,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 211701,
       "name": "CHEMICALS",
       "url": "https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-03",
+      "date_removed": null,
       "duration_ms": 168095,
       "name": "Hard To Love",
       "url": "https://open.spotify.com/track/5ZydsKomR0uijruih5pVZ0"
@@ -1392,6 +1392,42 @@
       "duration_ms": 202434,
       "name": "Hardly News",
       "url": "https://open.spotify.com/track/1vB2WPQZUrm1jL0zPZtnhX"
+    },
+    {
+      "album": {
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+    },
+    {
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1KQD3JoNR34P5qHvUcyvsl"
+      },
+      "artists": [
+        {
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-11",
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/34ZvRwa42pvx6ZeXGS1ydC"
     },
     {
       "album": {
@@ -1468,24 +1504,6 @@
     {
       "album": {
         "name": "Hometown",
-        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
-      },
-      "artists": [
-        {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
-        }
-      ],
-      "date_added": "2023-07-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292436,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
-    },
-    {
-      "album": {
-        "name": "Hometown",
         "url": "https://open.spotify.com/album/3pWXwphIVPJlFcvuxXvghu"
       },
       "artists": [
@@ -1500,6 +1518,24 @@
       "duration_ms": 292437,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/2kRuduqaJfLIWGZy5EOBam"
+    },
+    {
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/6dV3WNRJOzU583dR5795pR"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293461,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/4i72Dwm23Pn1u1waLYMnBm"
     },
     {
       "album": {
@@ -1939,6 +1975,28 @@
     },
     {
       "album": {
+        "name": "Just Another Rainbow",
+        "url": "https://open.spotify.com/album/5LLmGei4KIOkZaO3FI2KzX"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        },
+        {
+          "name": "John Squire",
+          "url": "https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ"
+        }
+      ],
+      "date_added": "2024-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336218,
+      "name": "Just Another Rainbow",
+      "url": "https://open.spotify.com/track/2xE7912IhBp4poxLjOS6WJ"
+    },
+    {
+      "album": {
         "name": "Just Move",
         "url": "https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6"
       },
@@ -2041,7 +2099,7 @@
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 283593,
+      "duration_ms": 284324,
       "name": "Landmines",
       "url": "https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8"
     },
@@ -2436,7 +2494,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": "2024-01-15",
       "duration_ms": 166698,
       "name": "Patsy Decline",
       "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
@@ -2962,7 +3020,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-06",
       "duration_ms": 188336,
       "name": "The Enemy",
       "url": "https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr"
@@ -3232,7 +3290,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 177866,
       "name": "Wait For Me",
       "url": "https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG"

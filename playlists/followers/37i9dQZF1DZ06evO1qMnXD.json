@@ -1,246 +1,939 @@
 {
-  "2023-05-03": 176769,
-  "2023-05-04": 176888,
-  "2023-05-05": 177013,
-  "2023-05-06": 177124,
-  "2023-05-07": 177251,
-  "2023-05-08": 177384,
-  "2023-05-09": 177529,
-  "2023-05-10": 177667,
-  "2023-05-11": 177827,
-  "2023-05-12": 177995,
-  "2023-05-13": 178155,
-  "2023-05-14": 178280,
-  "2023-05-15": 178445,
-  "2023-05-16": 178589,
-  "2023-05-17": 178731,
-  "2023-05-18": 178867,
-  "2023-05-19": 178993,
-  "2023-05-20": 179199,
-  "2023-05-21": 179199,
-  "2023-05-22": 179199,
-  "2023-05-23": 179451,
-  "2023-05-24": 179685,
-  "2023-05-25": 179723,
-  "2023-05-26": 179860,
-  "2023-05-27": 179960,
-  "2023-05-28": 180049,
-  "2023-05-29": 180049,
-  "2023-05-30": 180251,
-  "2023-05-31": 180352,
-  "2023-06-01": 180506,
-  "2023-06-02": 180643,
-  "2023-06-03": 180747,
-  "2023-06-04": 180863,
-  "2023-06-05": 180961,
-  "2023-06-06": 181100,
-  "2023-06-07": 181233,
-  "2023-06-08": 181345,
-  "2023-06-09": 181480,
-  "2023-06-10": 181609,
-  "2023-06-11": 181755,
-  "2023-06-12": 181895,
-  "2023-06-13": 181979,
-  "2023-06-14": 182104,
-  "2023-06-15": 182212,
-  "2023-06-16": 182320,
-  "2023-06-17": 182427,
-  "2023-06-18": 182547,
-  "2023-06-19": 182586,
-  "2023-06-20": 182664,
-  "2023-06-21": 182741,
-  "2023-06-22": 182866,
-  "2023-06-23": 182955,
-  "2023-06-24": 183064,
-  "2023-06-25": 183171,
-  "2023-06-26": 183221,
-  "2023-06-27": 183308,
-  "2023-06-28": 183406,
-  "2023-06-29": 183503,
-  "2023-06-30": 183597,
-  "2023-07-01": 183817,
-  "2023-07-02": 183817,
-  "2023-07-03": 183906,
-  "2023-07-04": 183979,
-  "2023-07-05": 184097,
-  "2023-07-06": 184282,
-  "2023-07-07": 184282,
-  "2023-07-08": 184366,
-  "2023-07-09": 184444,
-  "2023-07-10": 184513,
-  "2023-07-11": 184595,
-  "2023-07-12": 184680,
-  "2023-07-13": 184781,
-  "2023-07-14": 184837,
-  "2023-07-15": 184911,
-  "2023-07-16": 185003,
-  "2023-07-17": 185083,
-  "2023-07-18": 185187,
-  "2023-07-19": 185294,
-  "2023-07-20": 185391,
-  "2023-07-21": 185455,
-  "2023-07-22": 185569,
-  "2023-07-23": 185696,
-  "2023-07-24": 185789,
-  "2023-07-25": 186008,
-  "2023-07-26": 186245,
-  "2023-07-27": 186735,
-  "2023-07-28": 187111,
-  "2023-07-29": 187369,
-  "2023-07-30": 187555,
-  "2023-07-31": 187766,
-  "2023-08-01": 187937,
-  "2023-08-02": 188098,
-  "2023-08-03": 188284,
-  "2023-08-04": 188457,
-  "2023-08-05": 188588,
-  "2023-08-06": 188908,
-  "2023-08-07": 188908,
-  "2023-08-08": 189059,
-  "2023-08-09": 189196,
-  "2023-08-10": 189327,
-  "2023-08-11": 189458,
-  "2023-08-12": 189458,
-  "2023-08-13": 189458,
-  "2023-08-14": 189844,
-  "2023-08-15": 189844,
-  "2023-08-16": 189844,
-  "2023-08-17": 189844,
-  "2023-08-18": 189844,
-  "2023-08-19": 189844,
-  "2023-08-20": 190677,
-  "2023-08-21": 190677,
-  "2023-08-22": 190960,
-  "2023-08-23": 190960,
-  "2023-08-24": 190960,
-  "2023-08-25": 190960,
-  "2023-08-26": 191552,
-  "2023-08-27": 191552,
-  "2023-08-28": 191764,
-  "2023-08-29": 191764,
-  "2023-08-30": 191764,
-  "2023-08-31": 192146,
-  "2023-09-01": 192279,
-  "2023-09-02": 192279,
-  "2023-09-03": 192531,
-  "2023-09-04": 192531,
-  "2023-09-05": 192531,
-  "2023-09-06": 192955,
-  "2023-09-07": 192955,
-  "2023-09-08": 192955,
-  "2023-09-09": 192955,
-  "2023-09-10": 193548,
-  "2023-09-11": 193548,
-  "2023-09-12": 193548,
-  "2023-09-13": 193969,
-  "2023-09-14": 193969,
-  "2023-09-15": 193969,
-  "2023-09-16": 194636,
-  "2023-09-17": 194636,
-  "2023-09-18": 194636,
-  "2023-09-19": 195292,
-  "2023-09-20": 195292,
-  "2023-09-21": 195292,
-  "2023-09-22": 196054,
-  "2023-09-23": 196054,
-  "2023-09-24": 196054,
-  "2023-09-25": 196054,
-  "2023-09-26": 197206,
-  "2023-09-27": 197206,
-  "2023-09-28": 197206,
-  "2023-09-29": 197206,
-  "2023-09-30": 197206,
-  "2023-10-01": 197206,
-  "2023-10-02": 199112,
-  "2023-10-03": 199112,
-  "2023-10-04": 199112,
-  "2023-10-05": 200215,
-  "2023-10-06": 200215,
-  "2023-10-07": 200215,
-  "2023-10-08": 200215,
-  "2023-10-09": 200215,
-  "2023-10-10": 200215,
-  "2023-10-11": 202716,
-  "2023-10-12": 202716,
-  "2023-10-13": 202716,
-  "2023-10-14": 202716,
-  "2023-10-15": 202716,
-  "2023-10-16": 202716,
-  "2023-10-17": 202716,
-  "2023-10-18": 202716,
-  "2023-10-19": 202716,
-  "2023-10-20": 202716,
-  "2023-10-21": 202716,
-  "2023-10-22": 202716,
-  "2023-10-23": 202716,
-  "2023-10-24": 202716,
-  "2023-10-25": 202716,
-  "2023-10-26": 202716,
-  "2023-10-27": 202716,
-  "2023-10-28": 202716,
-  "2023-10-29": 202716,
-  "2023-10-30": 202716,
-  "2023-10-31": 202716,
-  "2023-11-01": 202716,
-  "2023-11-02": 202716,
-  "2023-11-03": 202716,
-  "2023-11-04": 202716,
-  "2023-11-05": 202716,
-  "2023-11-06": 202716,
-  "2023-11-07": 202716,
-  "2023-11-08": 202716,
-  "2023-11-09": 202716,
-  "2023-11-10": 202716,
-  "2023-11-11": 213139,
-  "2023-11-12": 213139,
-  "2023-11-13": 213139,
-  "2023-11-14": 213139,
-  "2023-11-15": 213139,
-  "2023-11-16": 213139,
-  "2023-11-17": 213139,
-  "2023-11-18": 213139,
-  "2023-11-19": 213139,
-  "2023-11-20": 213139,
-  "2023-11-21": 213139,
-  "2023-11-22": 213139,
-  "2023-11-23": 213139,
-  "2023-11-24": 213139,
-  "2023-11-25": 213139,
-  "2023-11-26": 213139,
-  "2023-11-27": 213139,
-  "2023-11-28": 213139,
-  "2023-11-29": 213139,
-  "2023-11-30": 213139,
-  "2023-12-01": 213139,
-  "2023-12-02": 213139,
-  "2023-12-03": 213139,
-  "2023-12-04": 213139,
-  "2023-12-05": 213139,
-  "2023-12-06": 213139,
-  "2023-12-07": 213139,
-  "2023-12-08": 213139,
-  "2023-12-09": 213139,
-  "2023-12-10": 213139,
-  "2023-12-11": 213139,
-  "2023-12-12": 213139,
-  "2023-12-13": 213139,
-  "2023-12-14": 223302,
-  "2023-12-15": 223519,
-  "2023-12-16": 223881,
-  "2023-12-17": 224141,
-  "2023-12-18": 224411,
-  "2023-12-19": 224669,
-  "2023-12-20": 224927,
-  "2023-12-21": 225200,
-  "2023-12-22": 225442,
-  "2023-12-23": 225698,
-  "2023-12-24": 225968,
-  "2023-12-25": 226136,
-  "2023-12-26": 226325,
-  "2023-12-27": 226588,
-  "2023-12-30": 227296,
-  "2023-12-31": 227494,
-  "2024-01-01": 227694,
-  "2024-01-02": 227879,
-  "2024-01-03": 228077
+  "2024-01-17": 231229,
+  "date_first_scraped": "2023-05-03",
+  "description": "This is Mitski. The essential tracks, all in one playlist.",
+  "name": "This Is Mitski",
+  "tracks": [
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109627,
+      "name": "A Burning Hill",
+      "url": "https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156145,
+      "name": "A Pearl",
+      "url": "https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-12-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Abbey",
+      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276226,
+      "name": "Bag of Bones",
+      "url": "https://open.spotify.com/track/4ScCM5slsFwNzGV8BAYFWK"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185070,
+      "name": "Because Dreaming Costs Money, My Dear",
+      "url": "https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132773,
+      "name": "Brand New City",
+      "url": "https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 160293,
+      "name": "Buffalo Replaced",
+      "url": "https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf"
+    },
+    {
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-07-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-26",
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109824,
+      "name": "Class of 2013",
+      "url": "https://open.spotify.com/track/39bPZbBmJfBgNJUtbOua0D"
+    },
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292031,
+      "name": "Crack Baby",
+      "url": "https://open.spotify.com/track/0I0MPzbmzsjpttpkqWgNyx"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155506,
+      "name": "Drunk Walk Home",
+      "url": "https://open.spotify.com/track/093N3AMhUnOeE4wgNRsBOO"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-23",
+      "duration_ms": 197746,
+      "name": "Eric",
+      "url": "https://open.spotify.com/track/6xsoxv6FtJSjAOBVwuZSGf"
+    },
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157982,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/17o747C5ZZ3UnAg0zNBjOW"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278640,
+      "name": "First Love/Late Spring",
+      "url": "https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149680,
+      "name": "Francis Forever",
+      "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137024,
+      "name": "Goodbye, My Danish Sweetheart",
+      "url": "https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171931,
+      "name": "Heat Lightning",
+      "url": "https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK"
+    },
+    {
+      "album": {
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/4inoOfvjCBQrJKdVwfJjlT"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201088,
+      "name": "Humpty",
+      "url": "https://open.spotify.com/track/1F0BkspIdyq3N7EyZ94Bfa"
+    },
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "I Bet on Losing Dogs",
+      "url": "https://open.spotify.com/track/2Co0IjcLTSHMtodwD4gzfg"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145026,
+      "name": "I Don't Like My Mind",
+      "url": "https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183792,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174760,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/2yYP6zjOBqGKqI6s2lZyer"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209533,
+      "name": "I'm Your Man",
+      "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126746,
+      "name": "Jobless Monday",
+      "url": "https://open.spotify.com/track/3ngZf8e29zHlW4gNMQb6IR"
+    },
+    {
+      "album": {
+        "name": "Bury Me At Makeout Creek",
+        "url": "https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "Last Words of a Shooting Star",
+      "url": "https://open.spotify.com/track/7gn3NdQez9Pwbqak4gspz5"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169773,
+      "name": "Liquid Smooth",
+      "url": "https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212660,
+      "name": "Love Me More",
+      "url": "https://open.spotify.com/track/4PUT0cH2iggaje5hTJZeGe"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137141,
+      "name": "Me and My Husband",
+      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193429,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k"
+    },
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180999,
+      "name": "Once More to See You",
+      "url": "https://open.spotify.com/track/3NE5nGm06kB8QQbQqJaOke"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164226,
+      "name": "Pearl Diver",
+      "url": "https://open.spotify.com/track/6jaD8oGpAkZRvJaZ76amtb"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136667,
+      "name": "Pink in the Night",
+      "url": "https://open.spotify.com/track/51vArgRF64yIWk3JIcRITo"
+    },
+    {
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161800,
+      "name": "Real Men",
+      "url": "https://open.spotify.com/track/1BkQ2tVHP4VATMyuu7KU8Z"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191774,
+      "name": "Should've Been Me",
+      "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo"
+    },
+    {
+      "album": {
+        "name": "Star b/w Heaven",
+        "url": "https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 179346,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Stay Soft",
+      "url": "https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL"
+    },
+    {
+      "album": {
+        "name": "Retired from Sad, New Career in Business",
+        "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114277,
+      "name": "Strawberry Blond",
+      "url": "https://open.spotify.com/track/1EO9dn7V0ufwPHJngZThO5"
+    },
+    {
+      "album": {
+        "name": "Cape God",
+        "url": "https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-19",
+      "duration_ms": 238880,
+      "name": "Susie Save Your Love",
+      "url": "https://open.spotify.com/track/5jYkyOIoEeWZobedmHM50N"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 232200,
+      "name": "The Deal",
+      "url": "https://open.spotify.com/track/0CNJcM33kvWE8v26wBy9wB"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168480,
+      "name": "The Frost",
+      "url": "https://open.spotify.com/track/41nIJErYY9goKvnCyG7ov6"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184549,
+      "name": "The Only Heartbreaker",
+      "url": "https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc"
+    },
+    {
+      "album": {
+        "name": "Everything Everywhere All at Once (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu"
+      },
+      "artists": [
+        {
+          "name": "Son Lux",
+          "url": "https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        },
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161022,
+      "name": "This Is A Life",
+      "url": "https://open.spotify.com/track/20UK2eUwlRzNuW60gzITuj"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155015,
+      "name": "Valentine, Texas",
+      "url": "https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104253,
+      "name": "When Memories Snow",
+      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+    },
+    {
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141978,
+      "name": "Why Didn't You Stop Me?",
+      "url": "https://open.spotify.com/track/2nifujUVU1XyhTSHI2kQ8g"
+    },
+    {
+      "album": {
+        "name": "Laurel Hell",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158617,
+      "name": "Working for the Knife",
+      "url": "https://open.spotify.com/track/2ORVHijyYA8bAOCVaIbmdS"
+    },
+    {
+      "album": {
+        "name": "Puberty 2",
+        "url": "https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-05-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212183,
+      "name": "Your Best American Girl",
+      "url": "https://open.spotify.com/track/7g5qe8VITjr13RIe8uM2p6"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qMnXD"
 }

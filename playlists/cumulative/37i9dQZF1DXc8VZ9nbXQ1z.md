@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-452 songs - 1 day 21 hr 22 min
+454 songs - 1 day 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Moth To A Flame \(with The Weeknd, Moojo\) \- Moojo Remix](https://open.spotify.com/track/40MXr7BMh3ShPf2b9giSRt) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m) | [Moth To A Flame \(Moojo Remix\)](https://open.spotify.com/album/17cYF29ZBcDYoRkWUzFWfQ) | 7:16 | 2022-09-13 | 2023-01-20 |
 | [Mount Kilimanjaro](https://open.spotify.com/track/4EFg9pFTJs2Pm2LTtM8k5v) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Mount Kilimanjaro](https://open.spotify.com/album/7sAM6Rsxg7tVyP8LDIUEFL) | 6:51 | 2022-09-13 | 2023-03-18 |
 | [Moya](https://open.spotify.com/track/3vjILWF3HavZPxmazrSWEc) | [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Moya](https://open.spotify.com/album/6iMrzOdbrhCf6R03nylajZ) | 2:44 | 2023-12-21 |  |
+| [Moya](https://open.spotify.com/track/7gYMqL0qPmP5rg6UMrjh06) | [Morena](https://open.spotify.com/artist/1e9EVXjjycz6jn201oEJTI) | [Moya](https://open.spotify.com/album/1LuwaqnAQtmW6yjViz5wHG) | 7:58 | 2024-01-12 |  |
 | [Moya](https://open.spotify.com/track/1AhBzZtwrbeyAyuUwBnDuP) | [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU) | [Moya](https://open.spotify.com/album/5ZGoooiMAjYiPdU0sDaby6) | 4:06 | 2022-12-14 | 2023-03-25 |
 | [Mtaani](https://open.spotify.com/track/32E3BFIDAwk9qBjoQKmtS3) | [LevyM](https://open.spotify.com/artist/6kekX8B3zzb3xBsX4KQgAg), [Yazz Min](https://open.spotify.com/artist/5kWRd1y8vHCnjR7K4HQojf), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Mtaani](https://open.spotify.com/album/2S2KCON59FltQZkEQj6wV1) | 6:22 | 2022-09-13 | 2023-01-20 |
 | [Mucho Bien \- Joezi Remix](https://open.spotify.com/track/0Ddeid0TvlJGI1d01nI2G6) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Offer Nissim](https://open.spotify.com/artist/2U5N2KMBT6aFPrQMygMkhj), [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B) | [Mucho Bien \(Joezi Remix\)](https://open.spotify.com/album/1HHowovrMxFiwwEB83Cyyo) | 3:48 | 2022-11-11 | 2023-01-13 |
@@ -284,6 +285,7 @@
 | [No More VIP](https://open.spotify.com/track/3HiEQv4YBnwd3OMvIUaF4R) | [Meith](https://open.spotify.com/artist/2XTv5bUTw9Dm3H730vqdV9) | [No More VIP](https://open.spotify.com/album/5TfPZpST2xUHzTG3ctQ4jg) | 4:28 | 2023-12-15 |  |
 | [No Rainbow](https://open.spotify.com/track/1AfjVOW1tXh1gLT0pJ5IMz) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 | 2022-09-13 | 2023-06-20 |
 | [Nomada](https://open.spotify.com/track/4Om4hcaPAyltvB2vujUzjj) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Humanidad](https://open.spotify.com/album/0qtCZwkShRkYRjIbOLjvu6) | 7:54 | 2022-09-13 | 2022-12-15 |
+| [Normalize](https://open.spotify.com/track/2hyqsTz3yVbiEvPOhXHuBZ) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [NAE \(SA\)](https://open.spotify.com/artist/7jQMNIOf6vfiQvzwQqSzFs) | [Normalize](https://open.spotify.com/album/4QR8sCmgq6WvKY9ia86O8p) | 5:33 | 2024-01-12 |  |
 | [Nothergram](https://open.spotify.com/track/3wuT61AZeCnXQOTtM8uefw) | [Obataiye](https://open.spotify.com/artist/3tIJxPEQ5mwQmfeHJ0fEnY) | [Nothergram](https://open.spotify.com/album/3tWgcfEP30hvqwGbS0KJqG) | 4:59 | 2023-03-10 | 2023-10-13 |
 | [Nothing On Me](https://open.spotify.com/track/1Rh8OSTma2g6BdfBYXiTrq) | [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [APACHE \(FR\)](https://open.spotify.com/artist/1g0xOdroOocyFkNCMAq5TU), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Tabia](https://open.spotify.com/artist/3fvAIzLvQim7Bas6O8FCK8) | [Nothing On Me](https://open.spotify.com/album/1c79b4P58cpDUHZXUqvqxS) | 4:02 | 2023-07-21 | 2023-12-22 |
 | [Ntumba Chushi](https://open.spotify.com/track/6qHM3pKhe6s04OC0CVqnVT) | [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Sebastien Dutch Presents Smoke & Thunder](https://open.spotify.com/album/79d9PMhDStqT2fxMXqfW1I) | 7:17 | 2023-05-03 | 2023-12-22 |

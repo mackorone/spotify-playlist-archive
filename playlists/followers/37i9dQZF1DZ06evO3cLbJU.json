@@ -1,54 +1,895 @@
 {
-  "2023-11-11": 41969,
-  "2023-11-12": 41969,
-  "2023-11-13": 41969,
-  "2023-11-14": 41969,
-  "2023-11-15": 41969,
-  "2023-11-16": 41969,
-  "2023-11-17": 41969,
-  "2023-11-18": 41969,
-  "2023-11-19": 41969,
-  "2023-11-20": 41969,
-  "2023-11-21": 41969,
-  "2023-11-22": 41969,
-  "2023-11-23": 41969,
-  "2023-11-24": 41969,
-  "2023-11-25": 41969,
-  "2023-11-26": 41969,
-  "2023-11-27": 41969,
-  "2023-11-28": 41969,
-  "2023-11-29": 41969,
-  "2023-11-30": 41969,
-  "2023-12-01": 41969,
-  "2023-12-02": 41969,
-  "2023-12-03": 41969,
-  "2023-12-04": 41969,
-  "2023-12-05": 41969,
-  "2023-12-06": 41969,
-  "2023-12-07": 41969,
-  "2023-12-08": 41969,
-  "2023-12-09": 41969,
-  "2023-12-10": 41969,
-  "2023-12-11": 41969,
-  "2023-12-12": 41969,
-  "2023-12-13": 41969,
-  "2023-12-14": 43331,
-  "2023-12-15": 43360,
-  "2023-12-16": 43379,
-  "2023-12-17": 43417,
-  "2023-12-18": 43447,
-  "2023-12-19": 43485,
-  "2023-12-20": 43536,
-  "2023-12-21": 43562,
-  "2023-12-22": 43613,
-  "2023-12-23": 43660,
-  "2023-12-24": 43706,
-  "2023-12-25": 43749,
-  "2023-12-26": 43776,
-  "2023-12-27": 43817,
-  "2023-12-30": 43973,
-  "2023-12-31": 44022,
-  "2024-01-01": 44054,
-  "2024-01-02": 44083,
-  "2024-01-03": 44123
+  "2024-01-17": 44800,
+  "date_first_scraped": "2023-11-11",
+  "description": "This is El Mat\u00f3 a un Polic\u00eda Motorizado. The essential tracks, all in one playlist.",
+  "name": "This Is El Mat\u00f3 a un Polic\u00eda Motorizado",
+  "tracks": [
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157667,
+      "name": "Ahora Imagino Cosas",
+      "url": "https://open.spotify.com/track/7KflGu9Nlb0JFXpDOt2TRN"
+    },
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "Alguien Que Lo Merece",
+      "url": "https://open.spotify.com/track/2CfhFZfUYfb62O82qaJzv5"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n de Euros",
+        "url": "https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254013,
+      "name": "Amigo Piedra",
+      "url": "https://open.spotify.com/track/4DQfu72qP1PkhL2gkNNlk7"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314200,
+      "name": "Buscando M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/7xlFGu8Xdu0OW1jEkiwi9t"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233586,
+      "name": "Chica de Oro",
+      "url": "https://open.spotify.com/track/6gqqdXshLNeVIXUV7B5O6p"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n de Euros",
+        "url": "https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238853,
+      "name": "Chica Rutera",
+      "url": "https://open.spotify.com/track/4R8l3l5PNUzPn3aS2ROOnI"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181766,
+      "name": "Diamante Roto",
+      "url": "https://open.spotify.com/track/2kKDMlOpLR5NsTuOdTyukm"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273321,
+      "name": "D\u00eda de los Muertos - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/0LseNPvS1vJGmNsmdf4fQd"
+    },
+    {
+      "album": {
+        "name": "Violencia",
+        "url": "https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "El Baile de la Colina",
+      "url": "https://open.spotify.com/track/4QpW7Ufhek26AzJGtcN08f"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265743,
+      "name": "El D\u00eda del Hurac\u00e1n - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/2x0prtVhSBk4fESMpqrTdg"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88880,
+      "name": "El Magnetismo",
+      "url": "https://open.spotify.com/track/4u8A7x0YPkPCkC0eRM9qL7"
+    },
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238311,
+      "name": "El Mundo Extra\u00f1o",
+      "url": "https://open.spotify.com/track/3z6CZiS2I89YQ2N0FMtGlG"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236200,
+      "name": "El Perro",
+      "url": "https://open.spotify.com/track/4Fgrt5xUJMP9ylBBxl8lt8"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n de Euros",
+        "url": "https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148200,
+      "name": "El Rey de la Tv Italiana",
+      "url": "https://open.spotify.com/track/55g3VSm0eR8VzszV5Uc4oP"
+    },
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271400,
+      "name": "El Tesoro",
+      "url": "https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de los Muertos",
+        "url": "https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265200,
+      "name": "El \u00daltimo Sereno",
+      "url": "https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH"
+    },
+    {
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+        "url": "https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181920,
+      "name": "Escup\u00edme",
+      "url": "https://open.spotify.com/track/6e6aEVwva7CSP55xJRmT2U"
+    },
+    {
+      "album": {
+        "name": "Espacio Vac\u00edo",
+        "url": "https://open.spotify.com/album/2kcjb9G2ME8sF1b8j0DEXp"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        },
+        {
+          "name": "Carolina Durante",
+          "url": "https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233932,
+      "name": "Espacio Vac\u00edo",
+      "url": "https://open.spotify.com/track/7yA5MAd2vRuEnSH9LMGoqO"
+    },
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311550,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/7mhHTogBD9THpIUeLE6atl"
+    },
+    {
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+        "url": "https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174053,
+      "name": "Guitarra Comunista",
+      "url": "https://open.spotify.com/track/26WaUJaz1bUVKQ8tnKfxya"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319061,
+      "name": "La Casa Fantasmal",
+      "url": "https://open.spotify.com/track/6yTsxAaH03k68AQtErgU7h"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de los Muertos",
+        "url": "https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167266,
+      "name": "La Celebraci\u00f3n del Fuego",
+      "url": "https://open.spotify.com/track/1U9PDBj6Pj8ZWghNZo7JnV"
+    },
+    {
+      "album": {
+        "name": "La Sintesis O'Konor",
+        "url": "https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327739,
+      "name": "La Noche Eterna",
+      "url": "https://open.spotify.com/track/58zB7AczXbwRfmPmiVjeqh"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n de Euros",
+        "url": "https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160093,
+      "name": "Lenguas de Fuego en el Cielo",
+      "url": "https://open.spotify.com/track/6Z07AuS1QEeFv3vN6ENZNs"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161600,
+      "name": "Madre",
+      "url": "https://open.spotify.com/track/2K3gYx9FgXewNWinYWcmlL"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253520,
+      "name": "Mas o Menos Bien",
+      "url": "https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340700,
+      "name": "Medalla de Oro",
+      "url": "https://open.spotify.com/track/2BkCOixgH4hPK0lVYOfh3Z"
+    },
+    {
+      "album": {
+        "name": "D\u00eda de los Muertos",
+        "url": "https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267760,
+      "name": "Mi Pr\u00f3ximo Movimiento",
+      "url": "https://open.spotify.com/track/4bTrhfTOvC4X3KvFCvnz0I"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186306,
+      "name": "Mujeres Bellas y Fuertes",
+      "url": "https://open.spotify.com/track/1DmEGR1gWk4YZAItLGtbzF"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146510,
+      "name": "Noche Negra - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/1gq4FV6nuuzhW1hiou3QY7"
+    },
+    {
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+        "url": "https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202640,
+      "name": "Nuestro Verano",
+      "url": "https://open.spotify.com/track/50wYKEBgPlO1oDdMqTFqAc"
+    },
+    {
+      "album": {
+        "name": "La Otra Dimensi\u00f3n",
+        "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156700,
+      "name": "Postales Negras",
+      "url": "https://open.spotify.com/track/60uaRxHbP2XSgiysI6QYAt"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Magnetismo (2003 - 2011)",
+        "url": "https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163893,
+      "name": "Prenderte Fuego",
+      "url": "https://open.spotify.com/track/4mkbh7PyMxXheU7acmPX9T"
+    },
+    {
+      "album": {
+        "name": "Un Mill\u00f3n de Euros",
+        "url": "https://open.spotify.com/album/6MFmo9HRdGqTD8XpEXST7L"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Provincia de Buenos Aires",
+      "url": "https://open.spotify.com/track/2RT7CiOobV3IkNHTgnbbPv"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342222,
+      "name": "Rey del Terror - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/0qlDZcp4EnX3sLqrkzbDnM"
+    },
+    {
+      "album": {
+        "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+        "url": "https://open.spotify.com/album/4SytbRWPunDiwa1oLCuiEP"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185800,
+      "name": "Rock Espacial",
+      "url": "https://open.spotify.com/track/0AhdjImSQMu0fj1NUO3SCf"
+    },
+    {
+      "album": {
+        "name": "Violencia",
+        "url": "https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142112,
+      "name": "Rucho",
+      "url": "https://open.spotify.com/track/4dmVjUhluiYmeO9MKBSX4O"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Magnetismo (2003 - 2011)",
+        "url": "https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139453,
+      "name": "Sobredosis de Droga",
+      "url": "https://open.spotify.com/track/5TjLFMFoiiIwSLDL1ObOWO"
+    },
+    {
+      "album": {
+        "name": "El Nuevo Magnetismo (2003 - 2011)",
+        "url": "https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188600,
+      "name": "S\u00e1bado",
+      "url": "https://open.spotify.com/track/77bPb4aA6Kllu8IbOi732c"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238722,
+      "name": "Tantas Cosas Buenas",
+      "url": "https://open.spotify.com/track/7hZ5ChA3eSzlw5QJDJa7ks"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "Terror",
+      "url": "https://open.spotify.com/track/38jOdi0uFY0EbSfW0Uc790"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277230,
+      "name": "Un Segundo Plan",
+      "url": "https://open.spotify.com/track/40a6HU6cI4BGv0fJmR0Dfq"
+    },
+    {
+      "album": {
+        "name": "Chica de Oro",
+        "url": "https://open.spotify.com/album/2mCoE7CFjrCbi99InNkFgr"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285506,
+      "name": "Vestida de Poder",
+      "url": "https://open.spotify.com/track/7r6AbNKECW9rKrj7tkotEU"
+    },
+    {
+      "album": {
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236451,
+      "name": "Vienen Bajando - Versi\u00f3n 2021",
+      "url": "https://open.spotify.com/track/4T8fellDyfDz4PeMp6nQsM"
+    },
+    {
+      "album": {
+        "name": "Violencia",
+        "url": "https://open.spotify.com/album/7ftczSg5sH9GfOxdGrhDzC"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207652,
+      "name": "Violencia",
+      "url": "https://open.spotify.com/track/5yd0LDuANSZTnOGMozk2g1"
+    },
+    {
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235817,
+      "name": "Voy a Disparar al Aire",
+      "url": "https://open.spotify.com/track/6M8vAnMGTssVdiO8FjPbo1"
+    },
+    {
+      "album": {
+        "name": "La Dinast\u00eda Scorpio",
+        "url": "https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183946,
+      "name": "Yoni B",
+      "url": "https://open.spotify.com/track/1WlssNUcmdDmNWtIkZrw9u"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cLbJU"
 }

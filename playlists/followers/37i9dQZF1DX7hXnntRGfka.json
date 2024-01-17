@@ -1,160 +1,513 @@
 {
-  "2023-07-28": 23358,
-  "2023-07-29": 23543,
-  "2023-07-30": 23662,
-  "2023-07-31": 23831,
-  "2023-08-01": 24070,
-  "2023-08-02": 24274,
-  "2023-08-03": 24411,
-  "2023-08-04": 24604,
-  "2023-08-05": 24659,
-  "2023-08-06": 24731,
-  "2023-08-07": 24731,
-  "2023-08-08": 24767,
-  "2023-08-09": 24808,
-  "2023-08-10": 24840,
-  "2023-08-11": 24866,
-  "2023-08-12": 24879,
-  "2023-08-13": 24911,
-  "2023-08-14": 24936,
-  "2023-08-15": 24994,
-  "2023-08-16": 24994,
-  "2023-08-17": 25018,
-  "2023-08-18": 25046,
-  "2023-08-19": 25059,
-  "2023-08-20": 25072,
-  "2023-08-21": 25079,
-  "2023-08-22": 25098,
-  "2023-08-23": 25107,
-  "2023-08-24": 25124,
-  "2023-08-25": 25148,
-  "2023-08-26": 25175,
-  "2023-08-27": 25201,
-  "2023-08-28": 25220,
-  "2023-08-29": 25244,
-  "2023-08-30": 25260,
-  "2023-08-31": 25264,
-  "2023-09-01": 25304,
-  "2023-09-02": 25304,
-  "2023-09-03": 25314,
-  "2023-09-04": 25338,
-  "2023-09-05": 25366,
-  "2023-09-06": 25397,
-  "2023-09-07": 25449,
-  "2023-09-08": 25832,
-  "2023-09-09": 26089,
-  "2023-09-10": 26189,
-  "2023-09-11": 26252,
-  "2023-09-12": 26308,
-  "2023-09-13": 26350,
-  "2023-09-14": 26389,
-  "2023-09-15": 26412,
-  "2023-09-16": 26432,
-  "2023-09-17": 26455,
-  "2023-09-18": 26482,
-  "2023-09-19": 26491,
-  "2023-09-20": 26497,
-  "2023-09-21": 26526,
-  "2023-09-22": 26535,
-  "2023-09-23": 26546,
-  "2023-09-24": 26556,
-  "2023-09-25": 26570,
-  "2023-09-26": 26597,
-  "2023-09-27": 26610,
-  "2023-09-28": 26620,
-  "2023-09-29": 26627,
-  "2023-09-30": 26643,
-  "2023-10-01": 26662,
-  "2023-10-02": 26669,
-  "2023-10-03": 26683,
-  "2023-10-04": 26693,
-  "2023-10-05": 26704,
-  "2023-10-06": 26720,
-  "2023-10-07": 26732,
-  "2023-10-08": 26747,
-  "2023-10-09": 26756,
-  "2023-10-10": 26761,
-  "2023-10-11": 26773,
-  "2023-10-12": 26773,
-  "2023-10-13": 26772,
-  "2023-10-14": 26781,
-  "2023-10-15": 26786,
-  "2023-10-16": 26794,
-  "2023-10-17": 26803,
-  "2023-10-18": 26823,
-  "2023-10-19": 26833,
-  "2023-10-20": 26857,
-  "2023-10-21": 26883,
-  "2023-10-22": 26909,
-  "2023-10-23": 26922,
-  "2023-10-24": 26944,
-  "2023-10-25": 26966,
-  "2023-10-26": 26987,
-  "2023-10-27": 27009,
-  "2023-10-28": 27019,
-  "2023-10-29": 27038,
-  "2023-10-30": 27066,
-  "2023-10-31": 27066,
-  "2023-11-01": 27072,
-  "2023-11-02": 27081,
-  "2023-11-03": 27087,
-  "2023-11-04": 27090,
-  "2023-11-05": 27094,
-  "2023-11-06": 27098,
-  "2023-11-07": 27103,
-  "2023-11-08": 27117,
-  "2023-11-09": 27133,
-  "2023-11-10": 27134,
-  "2023-11-11": 27161,
-  "2023-11-12": 27170,
-  "2023-11-13": 27190,
-  "2023-11-14": 27195,
-  "2023-11-15": 27195,
-  "2023-11-16": 27211,
-  "2023-11-17": 27224,
-  "2023-11-18": 27224,
-  "2023-11-19": 27234,
-  "2023-11-20": 27244,
-  "2023-11-21": 27262,
-  "2023-11-22": 27290,
-  "2023-11-23": 27302,
-  "2023-11-24": 27318,
-  "2023-11-25": 27331,
-  "2023-11-26": 27347,
-  "2023-11-27": 27362,
-  "2023-11-28": 27379,
-  "2023-11-29": 27445,
-  "2023-11-30": 27445,
-  "2023-12-01": 27487,
-  "2023-12-02": 27496,
-  "2023-12-03": 27511,
-  "2023-12-04": 27526,
-  "2023-12-05": 27542,
-  "2023-12-06": 27556,
-  "2023-12-07": 27566,
-  "2023-12-08": 27581,
-  "2023-12-09": 27584,
-  "2023-12-10": 27601,
-  "2023-12-11": 27615,
-  "2023-12-12": 27631,
-  "2023-12-13": 27649,
-  "2023-12-14": 27658,
-  "2023-12-15": 27664,
-  "2023-12-16": 27670,
-  "2023-12-17": 27682,
-  "2023-12-18": 27685,
-  "2023-12-19": 27687,
-  "2023-12-20": 27687,
-  "2023-12-21": 27698,
-  "2023-12-22": 27714,
-  "2023-12-23": 27728,
-  "2023-12-24": 27731,
-  "2023-12-25": 27733,
-  "2023-12-26": 27735,
-  "2023-12-27": 27749,
-  "2023-12-30": 27800,
-  "2023-12-31": 27804,
-  "2024-01-01": 27827,
-  "2024-01-02": 27833,
-  "2024-01-03": 27843
+  "2024-01-17": 27944,
+  "date_first_scraped": "2023-07-28",
+  "description": "Songs from all 12 Albums of the Year shortlisted for the Mercury Prize 2023.",
+  "name": "Mercury Prize 2023: The Shortlist",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290584,
+      "name": "Body Paint",
+      "url": "https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs"
+    },
+    {
+      "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372800,
+      "name": "Concrete Over Water",
+      "url": "https://open.spotify.com/track/4yBkKSNDihdHWcFQuSRkKV"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/09Rv6ctDE0t9z8zk5FINg8"
+    },
+    {
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Delilah Montagu",
+          "url": "https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250702,
+      "name": "Delilah (pull me out of this)",
+      "url": "https://open.spotify.com/track/5w9upngVRHNjdZcRC7Xxr2"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200759,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/36vmaZyO0iAE6FZ7287fg2"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272373,
+      "name": "Escapism.",
+      "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198625,
+      "name": "Firefly",
+      "url": "https://open.spotify.com/track/6K51akbgV0Tb3WI0NY1yYX"
+    },
+    {
+      "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234080,
+      "name": "Free Yourself",
+      "url": "https://open.spotify.com/track/7axM6HbfUTu3dXEIWOYcH1"
+    },
+    {
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213671,
+      "name": "Geronimo",
+      "url": "https://open.spotify.com/track/1miJ79Xlen9j3MjSl0dzZh"
+    },
+    {
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 518745,
+      "name": "Go Dig My Grave",
+      "url": "https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ"
+    },
+    {
+      "album": {
+        "name": "I Love You Jennifer B",
+        "url": "https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8"
+      },
+      "artists": [
+        {
+          "name": "Jockstrap",
+          "url": "https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Greatest Hits",
+      "url": "https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1"
+    },
+    {
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248733,
+      "name": "Ice Cream Man.",
+      "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203560,
+      "name": "Life Goes On (feat. Sampa the Great)",
+      "url": "https://open.spotify.com/track/5PT4yvb1Poy5AssADb0vwB"
+    },
+    {
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204880,
+      "name": "Masculine (feat. Burna Boy)",
+      "url": "https://open.spotify.com/track/4M6yrN4rJUrwNgHzGKfrN1"
+    },
+    {
+      "album": {
+        "name": "False Lankum",
+        "url": "https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H"
+      },
+      "artists": [
+        {
+          "name": "Lankum",
+          "url": "https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343000,
+      "name": "Newcastle",
+      "url": "https://open.spotify.com/track/2GiVRxdolsLBU3QZ8U7CNk"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/0nhfG8lPabvjTN0ACcwBux"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/1DkHcsvPvbfmEtKwDvmYmY"
+    },
+    {
+      "album": {
+        "name": "Where I'm Meant To Be",
+        "url": "https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT"
+      },
+      "artists": [
+        {
+          "name": "Ezra Collective",
+          "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W"
+        },
+        {
+          "name": "Kojey Radical",
+          "url": "https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-04",
+      "duration_ms": 194440,
+      "name": "No Confusion (feat. Kojey Radical)",
+      "url": "https://open.spotify.com/track/7qQM4p5Kb8i6xYSkaEDYyR"
+    },
+    {
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187844,
+      "name": "Nobody Knows (Ladas Road)",
+      "url": "https://open.spotify.com/track/6n3gJBvi9jZB9kkzHqmZ8P"
+    },
+    {
+      "album": {
+        "name": "That! Feels Good!",
+        "url": "https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243106,
+      "name": "Pearls",
+      "url": "https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG"
+    },
+    {
+      "album": {
+        "name": "Heavy Heavy",
+        "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
+      },
+      "artists": [
+        {
+          "name": "Young Fathers",
+          "url": "https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159616,
+      "name": "Rice",
+      "url": "https://open.spotify.com/track/79yGgP2ruLB7SavHhjPFI3"
+    },
+    {
+      "album": {
+        "name": "Nymph",
+        "url": "https://open.spotify.com/album/3i4ZYO2l14kCTRzw90JmZ4"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132625,
+      "name": "Shlut",
+      "url": "https://open.spotify.com/track/6bAR0U4WV9uEBzuoNUzQSC"
+    },
+    {
+      "album": {
+        "name": "hugo",
+        "url": "https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH"
+      },
+      "artists": [
+        {
+          "name": "Loyle Carner",
+          "url": "https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180723,
+      "name": "Speed Of Plight",
+      "url": "https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176048,
+      "name": "The Hardest Part",
+      "url": "https://open.spotify.com/track/3cPoiK69oQ1SdbB2j2ulGm"
+    },
+    {
+      "album": {
+        "name": "The Car",
+        "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265798,
+      "name": "There\u2019d Better Be A Mirrorball",
+      "url": "https://open.spotify.com/track/1zx6GSqLYI2ynzAHnPRKBR"
+    },
+    {
+      "album": {
+        "name": "Beautiful And Brutal Yard",
+        "url": "https://open.spotify.com/album/766bxryPZBL0hjz0KM6VUD"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208920,
+      "name": "Who Told You (feat. Drake)",
+      "url": "https://open.spotify.com/track/6kgaI3kHkqmRimeGQdS4Ga"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7hXnntRGfka"
 }

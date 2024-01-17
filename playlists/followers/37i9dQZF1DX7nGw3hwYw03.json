@@ -1,735 +1,1733 @@
 {
-  "2021-12-25": 145850,
-  "2021-12-26": 145893,
-  "2021-12-27": 145976,
-  "2021-12-28": 145975,
-  "2021-12-29": 146018,
-  "2021-12-30": 146104,
-  "2021-12-31": 146202,
-  "2022-01-01": 146349,
-  "2022-01-02": 146374,
-  "2022-01-03": 146410,
-  "2022-01-04": 146448,
-  "2022-01-05": 146492,
-  "2022-01-06": 146542,
-  "2022-01-07": 146600,
-  "2022-01-08": 146702,
-  "2022-01-09": 146704,
-  "2022-01-10": 146759,
-  "2022-01-11": 146808,
-  "2022-01-12": 146875,
-  "2022-01-13": 146939,
-  "2022-01-14": 146999,
-  "2022-01-15": 147100,
-  "2022-01-16": 147105,
-  "2022-01-17": 147230,
-  "2022-01-18": 147241,
-  "2022-01-19": 147276,
-  "2022-01-20": 147325,
-  "2022-01-21": 147383,
-  "2022-01-22": 147451,
-  "2022-01-23": 147520,
-  "2022-01-24": 147576,
-  "2022-01-25": 147633,
-  "2022-01-26": 147699,
-  "2022-01-27": 147758,
-  "2022-01-28": 147809,
-  "2022-01-29": 147858,
-  "2022-01-30": 147927,
-  "2022-01-31": 147990,
-  "2022-02-01": 148038,
-  "2022-02-02": 148090,
-  "2022-02-03": 148123,
-  "2022-02-04": 148176,
-  "2022-02-05": 148226,
-  "2022-02-06": 148298,
-  "2022-02-07": 148338,
-  "2022-02-08": 148390,
-  "2022-02-09": 148440,
-  "2022-02-10": 148477,
-  "2022-02-11": 148536,
-  "2022-02-12": 148603,
-  "2022-02-13": 148659,
-  "2022-02-14": 148706,
-  "2022-02-15": 148769,
-  "2022-02-16": 148814,
-  "2022-02-17": 148860,
-  "2022-02-18": 148926,
-  "2022-02-19": 148982,
-  "2022-02-20": 149062,
-  "2022-02-21": 149116,
-  "2022-02-22": 149177,
-  "2022-02-23": 149229,
-  "2022-02-24": 149278,
-  "2022-02-25": 149317,
-  "2022-02-26": 149366,
-  "2022-02-27": 149489,
-  "2022-02-28": 149489,
-  "2022-03-01": 149556,
-  "2022-03-02": 149632,
-  "2022-03-03": 149691,
-  "2022-03-04": 149774,
-  "2022-03-05": 149850,
-  "2022-03-06": 149911,
-  "2022-03-07": 149951,
-  "2022-03-08": 149983,
-  "2022-03-09": 150033,
-  "2022-03-10": 150099,
-  "2022-03-11": 150158,
-  "2022-03-12": 150200,
-  "2022-03-13": 150261,
-  "2022-03-14": 150322,
-  "2022-03-15": 150358,
-  "2022-03-16": 150432,
-  "2022-03-17": 150500,
-  "2022-03-18": 150585,
-  "2022-03-19": 150687,
-  "2022-03-20": 150687,
-  "2022-03-21": 150929,
-  "2022-03-22": 151020,
-  "2022-03-23": 151100,
-  "2022-03-24": 151148,
-  "2022-03-25": 151214,
-  "2022-03-26": 151283,
-  "2022-03-27": 151375,
-  "2022-03-28": 151456,
-  "2022-03-30": 151669,
-  "2022-03-31": 151739,
-  "2022-04-01": 151805,
-  "2022-04-02": 151885,
-  "2022-04-03": 151968,
-  "2022-04-04": 152026,
-  "2022-04-05": 152082,
-  "2022-04-06": 152124,
-  "2022-04-07": 152177,
-  "2022-04-08": 152244,
-  "2022-04-09": 152295,
-  "2022-04-10": 152402,
-  "2022-04-11": 152453,
-  "2022-04-12": 152463,
-  "2022-04-13": 152517,
-  "2022-04-14": 152566,
-  "2022-04-15": 152613,
-  "2022-04-16": 152668,
-  "2022-04-17": 152711,
-  "2022-04-18": 152761,
-  "2022-04-19": 152792,
-  "2022-04-20": 152844,
-  "2022-04-21": 152910,
-  "2022-04-22": 152963,
-  "2022-04-23": 153029,
-  "2022-04-24": 153103,
-  "2022-04-25": 153171,
-  "2022-04-26": 153228,
-  "2022-04-27": 153303,
-  "2022-04-28": 153353,
-  "2022-04-29": 153458,
-  "2022-04-30": 153528,
-  "2022-05-01": 153610,
-  "2022-05-02": 153610,
-  "2022-05-03": 153678,
-  "2022-05-04": 153738,
-  "2022-05-05": 153786,
-  "2022-05-06": 153852,
-  "2022-05-07": 153943,
-  "2022-05-08": 154039,
-  "2022-05-09": 154048,
-  "2022-05-10": 154108,
-  "2022-05-11": 154166,
-  "2022-05-12": 154213,
-  "2022-05-13": 154270,
-  "2022-05-14": 154327,
-  "2022-05-15": 154379,
-  "2022-05-16": 154439,
-  "2022-05-17": 154496,
-  "2022-05-18": 154558,
-  "2022-05-19": 154625,
-  "2022-05-20": 154701,
-  "2022-05-21": 154811,
-  "2022-05-22": 154811,
-  "2022-05-23": 154884,
-  "2022-05-24": 154946,
-  "2022-05-25": 155006,
-  "2022-05-26": 155057,
-  "2022-05-27": 155107,
-  "2022-05-28": 155168,
-  "2022-05-29": 155226,
-  "2022-05-30": 155284,
-  "2022-05-31": 155348,
-  "2022-06-01": 155479,
-  "2022-06-02": 155485,
-  "2022-06-03": 155535,
-  "2022-06-04": 155589,
-  "2022-06-05": 155651,
-  "2022-06-06": 155709,
-  "2022-06-07": 155768,
-  "2022-06-08": 155863,
-  "2022-06-09": 155919,
-  "2022-06-10": 155980,
-  "2022-06-11": 156030,
-  "2022-06-12": 156091,
-  "2022-06-13": 156129,
-  "2022-06-14": 156191,
-  "2022-06-15": 156238,
-  "2022-06-16": 156302,
-  "2022-06-17": 156354,
-  "2022-06-18": 156400,
-  "2022-06-19": 156482,
-  "2022-06-20": 156482,
-  "2022-06-21": 156547,
-  "2022-06-22": 156678,
-  "2022-06-23": 156678,
-  "2022-06-24": 156733,
-  "2022-06-25": 156778,
-  "2022-06-26": 156837,
-  "2022-06-27": 156892,
-  "2022-06-28": 156926,
-  "2022-06-29": 156972,
-  "2022-06-30": 157026,
-  "2022-07-01": 157077,
-  "2022-07-02": 157139,
-  "2022-07-03": 157198,
-  "2022-07-04": 157274,
-  "2022-07-05": 157319,
-  "2022-07-06": 157369,
-  "2022-07-07": 157412,
-  "2022-07-08": 157467,
-  "2022-07-09": 157502,
-  "2022-07-10": 157544,
-  "2022-07-11": 157617,
-  "2022-07-12": 157675,
-  "2022-07-13": 157747,
-  "2022-07-14": 157788,
-  "2022-07-15": 157831,
-  "2022-07-16": 157893,
-  "2022-07-17": 157962,
-  "2022-07-18": 158059,
-  "2022-07-19": 158142,
-  "2022-07-20": 158229,
-  "2022-07-21": 158312,
-  "2022-07-22": 158410,
-  "2022-07-23": 158491,
-  "2022-07-24": 158564,
-  "2022-07-25": 158682,
-  "2022-07-26": 158814,
-  "2022-07-27": 158896,
-  "2022-07-28": 158987,
-  "2022-07-29": 159057,
-  "2022-07-30": 159217,
-  "2022-07-31": 159217,
-  "2022-08-01": 159276,
-  "2022-08-02": 159416,
-  "2022-08-03": 159416,
-  "2022-08-04": 159474,
-  "2022-08-05": 159556,
-  "2022-08-06": 159611,
-  "2022-08-07": 159685,
-  "2022-08-08": 159730,
-  "2022-08-09": 159787,
-  "2022-08-10": 159850,
-  "2022-08-11": 159906,
-  "2022-08-12": 159971,
-  "2022-08-13": 160026,
-  "2022-08-14": 160107,
-  "2022-08-15": 160161,
-  "2022-08-16": 160220,
-  "2022-08-17": 160286,
-  "2022-08-18": 160337,
-  "2022-08-19": 160400,
-  "2022-08-20": 160461,
-  "2022-08-21": 160507,
-  "2022-08-22": 160553,
-  "2022-08-23": 160614,
-  "2022-08-24": 160653,
-  "2022-08-25": 160717,
-  "2022-08-26": 160770,
-  "2022-08-27": 160825,
-  "2022-08-28": 160903,
-  "2022-08-29": 160946,
-  "2022-08-30": 160991,
-  "2022-08-31": 161023,
-  "2022-09-01": 161033,
-  "2022-09-02": 161073,
-  "2022-09-03": 161116,
-  "2022-09-04": 161141,
-  "2022-09-05": 161189,
-  "2022-09-06": 161236,
-  "2022-09-07": 161301,
-  "2022-09-09": 161409,
-  "2022-09-10": 161467,
-  "2022-09-11": 161528,
-  "2022-09-12": 161589,
-  "2022-09-13": 161634,
-  "2022-09-15": 161728,
-  "2022-09-16": 161778,
-  "2022-09-17": 161835,
-  "2022-09-18": 161894,
-  "2022-09-19": 161933,
-  "2022-09-20": 161999,
-  "2022-09-21": 162036,
-  "2022-09-22": 162094,
-  "2022-09-23": 162156,
-  "2022-09-24": 162241,
-  "2022-09-25": 162315,
-  "2022-09-26": 162371,
-  "2022-09-27": 162419,
-  "2022-09-28": 162474,
-  "2022-09-29": 162535,
-  "2022-09-30": 162595,
-  "2022-10-01": 162647,
-  "2022-10-02": 162695,
-  "2022-10-03": 162778,
-  "2022-10-04": 162832,
-  "2022-10-05": 162885,
-  "2022-10-06": 162945,
-  "2022-10-07": 162985,
-  "2022-10-08": 163039,
-  "2022-10-09": 163142,
-  "2022-10-10": 163157,
-  "2022-10-11": 163219,
-  "2022-10-12": 163260,
-  "2022-10-13": 163314,
-  "2022-10-14": 163357,
-  "2022-10-15": 163423,
-  "2022-10-16": 163488,
-  "2022-10-17": 163552,
-  "2022-10-18": 163603,
-  "2022-10-19": 163650,
-  "2022-10-20": 163709,
-  "2022-10-21": 163765,
-  "2022-10-22": 163815,
-  "2022-10-23": 163867,
-  "2022-10-24": 163920,
-  "2022-10-25": 163963,
-  "2022-10-26": 164004,
-  "2022-10-27": 164046,
-  "2022-10-28": 164087,
-  "2022-10-29": 164155,
-  "2022-10-30": 164192,
-  "2022-10-31": 164234,
-  "2022-11-01": 164265,
-  "2022-11-02": 164313,
-  "2022-11-03": 164361,
-  "2022-11-04": 164422,
-  "2022-11-05": 164492,
-  "2022-11-06": 164552,
-  "2022-11-07": 164605,
-  "2022-11-08": 164641,
-  "2022-11-09": 164703,
-  "2022-11-10": 164762,
-  "2022-11-11": 164809,
-  "2022-11-12": 164870,
-  "2022-11-13": 164924,
-  "2022-11-14": 164992,
-  "2022-11-15": 165042,
-  "2022-11-16": 165083,
-  "2022-11-17": 165135,
-  "2022-11-18": 165161,
-  "2022-11-19": 165161,
-  "2022-11-20": 165202,
-  "2022-11-21": 165252,
-  "2022-11-22": 165309,
-  "2022-11-23": 165351,
-  "2022-11-24": 165427,
-  "2022-11-25": 165510,
-  "2022-11-26": 165560,
-  "2022-11-27": 165601,
-  "2022-11-28": 165639,
-  "2022-11-29": 165694,
-  "2022-11-30": 165739,
-  "2022-12-01": 165796,
-  "2022-12-02": 165826,
-  "2022-12-03": 165890,
-  "2022-12-04": 165960,
-  "2022-12-05": 166003,
-  "2022-12-06": 166064,
-  "2022-12-07": 166121,
-  "2022-12-08": 166177,
-  "2022-12-09": 166245,
-  "2022-12-10": 166297,
-  "2022-12-11": 166350,
-  "2022-12-12": 166404,
-  "2022-12-13": 166464,
-  "2022-12-14": 166532,
-  "2022-12-15": 166594,
-  "2022-12-16": 166650,
-  "2022-12-17": 166727,
-  "2022-12-18": 166802,
-  "2022-12-19": 166873,
-  "2022-12-20": 166989,
-  "2022-12-21": 166989,
-  "2022-12-22": 167047,
-  "2022-12-24": 167160,
-  "2022-12-25": 167216,
-  "2022-12-26": 167247,
-  "2022-12-27": 167306,
-  "2022-12-28": 167346,
-  "2022-12-29": 167406,
-  "2022-12-30": 167469,
-  "2022-12-31": 167524,
-  "2023-01-01": 167570,
-  "2023-01-02": 167630,
-  "2023-01-03": 167693,
-  "2023-01-04": 167755,
-  "2023-01-05": 167804,
-  "2023-01-06": 167870,
-  "2023-01-07": 167938,
-  "2023-01-08": 167952,
-  "2023-01-09": 168005,
-  "2023-01-10": 168064,
-  "2023-01-11": 168126,
-  "2023-01-12": 168194,
-  "2023-01-13": 168245,
-  "2023-01-14": 168375,
-  "2023-01-15": 168379,
-  "2023-01-16": 168430,
-  "2023-01-17": 168475,
-  "2023-01-18": 168509,
-  "2023-01-19": 168576,
-  "2023-01-20": 168626,
-  "2023-01-21": 168676,
-  "2023-01-22": 168733,
-  "2023-01-23": 168779,
-  "2023-01-24": 168821,
-  "2023-01-25": 168875,
-  "2023-01-26": 168923,
-  "2023-01-27": 168967,
-  "2023-01-28": 169015,
-  "2023-01-29": 169078,
-  "2023-01-30": 169121,
-  "2023-01-31": 169121,
-  "2023-02-01": 169216,
-  "2023-02-02": 169262,
-  "2023-02-03": 169312,
-  "2023-02-04": 169368,
-  "2023-02-05": 169429,
-  "2023-02-06": 169474,
-  "2023-02-07": 169515,
-  "2023-02-08": 169613,
-  "2023-02-09": 169613,
-  "2023-02-10": 169643,
-  "2023-02-11": 169705,
-  "2023-02-12": 169784,
-  "2023-02-13": 169826,
-  "2023-02-14": 169826,
-  "2023-02-15": 169869,
-  "2023-02-16": 169896,
-  "2023-02-17": 169936,
-  "2023-02-18": 170032,
-  "2023-02-19": 170044,
-  "2023-02-20": 170071,
-  "2023-02-21": 170113,
-  "2023-02-22": 170161,
-  "2023-02-23": 170202,
-  "2023-02-24": 170244,
-  "2023-02-25": 170308,
-  "2023-02-26": 170337,
-  "2023-02-27": 170427,
-  "2023-02-28": 170427,
-  "2023-03-01": 170474,
-  "2023-03-02": 170514,
-  "2023-03-03": 170594,
-  "2023-03-04": 170639,
-  "2023-03-05": 170765,
-  "2023-03-06": 170765,
-  "2023-03-07": 170816,
-  "2023-03-08": 170876,
-  "2023-03-09": 170920,
-  "2023-03-10": 170966,
-  "2023-03-11": 171022,
-  "2023-03-12": 171060,
-  "2023-03-13": 171103,
-  "2023-03-14": 171148,
-  "2023-03-15": 171177,
-  "2023-03-16": 171216,
-  "2023-03-17": 171216,
-  "2023-03-18": 171312,
-  "2023-03-19": 171379,
-  "2023-03-20": 171406,
-  "2023-03-21": 171458,
-  "2023-03-22": 171503,
-  "2023-03-23": 171556,
-  "2023-03-24": 171556,
-  "2023-03-25": 171666,
-  "2023-03-26": 171720,
-  "2023-03-27": 171787,
-  "2023-03-28": 171852,
-  "2023-03-29": 171935,
-  "2023-03-30": 172059,
-  "2023-03-31": 172059,
-  "2023-04-01": 172125,
-  "2023-04-02": 172165,
-  "2023-04-03": 172226,
-  "2023-04-04": 172283,
-  "2023-04-05": 172347,
-  "2023-04-06": 172403,
-  "2023-04-07": 172453,
-  "2023-04-09": 172564,
-  "2023-04-10": 172620,
-  "2023-04-11": 172702,
-  "2023-04-12": 172702,
-  "2023-04-13": 172740,
-  "2023-04-14": 172808,
-  "2023-04-15": 172844,
-  "2023-04-16": 172901,
-  "2023-04-17": 172952,
-  "2023-04-18": 173009,
-  "2023-04-19": 173076,
-  "2023-04-20": 173137,
-  "2023-04-21": 173192,
-  "2023-04-22": 173255,
-  "2023-04-23": 173314,
-  "2023-04-24": 173375,
-  "2023-04-25": 173426,
-  "2023-04-26": 173486,
-  "2023-04-27": 173541,
-  "2023-04-28": 173590,
-  "2023-04-29": 173632,
-  "2023-04-30": 173677,
-  "2023-05-01": 173731,
-  "2023-05-02": 173781,
-  "2023-05-03": 173829,
-  "2023-05-04": 173878,
-  "2023-05-05": 173933,
-  "2023-05-06": 173976,
-  "2023-05-07": 174029,
-  "2023-05-08": 174076,
-  "2023-05-09": 174140,
-  "2023-05-10": 174185,
-  "2023-05-11": 174235,
-  "2023-05-12": 174299,
-  "2023-05-13": 174359,
-  "2023-05-14": 174411,
-  "2023-05-15": 174444,
-  "2023-05-16": 174493,
-  "2023-05-17": 174543,
-  "2023-05-18": 174598,
-  "2023-05-19": 174657,
-  "2023-05-20": 174768,
-  "2023-05-21": 174768,
-  "2023-05-22": 174768,
-  "2023-05-23": 174888,
-  "2023-05-24": 174992,
-  "2023-05-25": 174997,
-  "2023-05-26": 175047,
-  "2023-05-27": 175097,
-  "2023-05-28": 175150,
-  "2023-05-29": 175150,
-  "2023-05-30": 175237,
-  "2023-05-31": 175271,
-  "2023-06-01": 175310,
-  "2023-06-02": 175338,
-  "2023-06-03": 175369,
-  "2023-06-04": 175433,
-  "2023-06-05": 175480,
-  "2023-06-06": 175498,
-  "2023-06-07": 175533,
-  "2023-06-08": 175577,
-  "2023-06-09": 175631,
-  "2023-06-10": 175674,
-  "2023-06-11": 175821,
-  "2023-06-12": 175893,
-  "2023-06-13": 175939,
-  "2023-06-14": 175964,
-  "2023-06-15": 175995,
-  "2023-06-16": 176042,
-  "2023-06-17": 176042,
-  "2023-06-18": 176042,
-  "2023-06-19": 176042,
-  "2023-06-20": 176042,
-  "2023-06-21": 176042,
-  "2023-06-22": 176042,
-  "2023-06-23": 176042,
-  "2023-06-24": 176042,
-  "2023-06-25": 176042,
-  "2023-06-26": 176042,
-  "2023-06-27": 176042,
-  "2023-06-28": 176042,
-  "2023-06-29": 176042,
-  "2023-06-30": 176042,
-  "2023-07-01": 176042,
-  "2023-07-02": 176042,
-  "2023-07-03": 176042,
-  "2023-07-04": 176042,
-  "2023-07-05": 176042,
-  "2023-07-06": 176042,
-  "2023-07-07": 176042,
-  "2023-07-08": 176042,
-  "2023-07-09": 176042,
-  "2023-07-10": 176042,
-  "2023-07-11": 176042,
-  "2023-07-12": 176042,
-  "2023-07-13": 176042,
-  "2023-07-14": 176042,
-  "2023-07-15": 176042,
-  "2023-07-16": 176042,
-  "2023-07-17": 176042,
-  "2023-07-18": 176042,
-  "2023-07-19": 176042,
-  "2023-07-20": 176042,
-  "2023-07-21": 176042,
-  "2023-07-22": 176042,
-  "2023-07-23": 176042,
-  "2023-07-24": 176042,
-  "2023-07-25": 176042,
-  "2023-07-26": 176042,
-  "2023-07-27": 176042,
-  "2023-07-28": 176042,
-  "2023-07-29": 176042,
-  "2023-07-30": 176042,
-  "2023-07-31": 176042,
-  "2023-08-01": 176042,
-  "2023-08-02": 176042,
-  "2023-08-03": 176042,
-  "2023-08-04": 176042,
-  "2023-08-05": 176042,
-  "2023-08-06": 176042,
-  "2023-08-07": 176042,
-  "2023-08-08": 176042,
-  "2023-08-09": 176042,
-  "2023-08-10": 176042,
-  "2023-08-11": 176042,
-  "2023-08-12": 176042,
-  "2023-08-13": 176042,
-  "2023-08-14": 176042,
-  "2023-08-15": 176042,
-  "2023-08-16": 176042,
-  "2023-08-17": 176042,
-  "2023-08-18": 176042,
-  "2023-08-19": 176042,
-  "2023-08-20": 176042,
-  "2023-08-21": 176042,
-  "2023-08-22": 176042,
-  "2023-08-23": 176042,
-  "2023-08-24": 176042,
-  "2023-08-25": 176042,
-  "2023-08-26": 176042,
-  "2023-08-27": 176042,
-  "2023-08-28": 176042,
-  "2023-08-29": 176042,
-  "2023-08-30": 176042,
-  "2023-08-31": 176042,
-  "2023-09-01": 176042,
-  "2023-09-02": 176042,
-  "2023-09-03": 176042,
-  "2023-09-04": 176042,
-  "2023-09-05": 176042,
-  "2023-09-06": 176042,
-  "2023-09-07": 176042,
-  "2023-09-08": 176042,
-  "2023-09-09": 176042,
-  "2023-09-10": 176042,
-  "2023-09-11": 176042,
-  "2023-09-12": 176042,
-  "2023-09-13": 176042,
-  "2023-09-14": 176042,
-  "2023-09-15": 176042,
-  "2023-09-16": 176042,
-  "2023-09-17": 176042,
-  "2023-09-18": 176042,
-  "2023-09-19": 176042,
-  "2023-09-20": 176042,
-  "2023-09-21": 176042,
-  "2023-09-22": 176042,
-  "2023-09-23": 176042,
-  "2023-09-24": 176042,
-  "2023-09-25": 176042,
-  "2023-09-26": 176042,
-  "2023-09-27": 176042,
-  "2023-09-28": 176042,
-  "2023-09-29": 176042,
-  "2023-09-30": 176042,
-  "2023-10-01": 176042,
-  "2023-10-02": 176042,
-  "2023-10-03": 176042,
-  "2023-10-04": 176042,
-  "2023-10-05": 176042,
-  "2023-10-06": 176042,
-  "2023-10-07": 176042,
-  "2023-10-08": 176042,
-  "2023-10-09": 176042,
-  "2023-10-10": 176042,
-  "2023-10-11": 176042,
-  "2023-10-12": 176042,
-  "2023-10-13": 176042,
-  "2023-10-14": 176042,
-  "2023-10-15": 176042,
-  "2023-10-16": 176042,
-  "2023-10-17": 176042,
-  "2023-10-18": 176042,
-  "2023-10-19": 176042,
-  "2023-10-20": 176042,
-  "2023-10-21": 176042,
-  "2023-10-22": 176042,
-  "2023-10-23": 176042,
-  "2023-10-24": 176042,
-  "2023-10-25": 176042,
-  "2023-10-26": 176042,
-  "2023-10-27": 176042,
-  "2023-10-28": 176042,
-  "2023-10-29": 176042,
-  "2023-10-30": 176042,
-  "2023-10-31": 176042,
-  "2023-11-01": 176042,
-  "2023-11-02": 176042,
-  "2023-11-03": 176042,
-  "2023-11-04": 176042,
-  "2023-11-05": 176042,
-  "2023-11-06": 176042,
-  "2023-11-07": 176042,
-  "2023-11-08": 176042,
-  "2023-11-09": 176042,
-  "2023-11-10": 176042,
-  "2023-11-11": 176042,
-  "2023-11-12": 176042,
-  "2023-11-13": 176042,
-  "2023-11-14": 176042,
-  "2023-11-15": 176042,
-  "2023-11-16": 176042,
-  "2023-11-17": 176042,
-  "2023-11-18": 176042,
-  "2023-11-19": 176042,
-  "2023-11-20": 176042,
-  "2023-11-21": 176042,
-  "2023-11-22": 176042,
-  "2023-11-23": 176042,
-  "2023-11-24": 176042,
-  "2023-11-25": 176042,
-  "2023-11-26": 176042,
-  "2023-11-27": 176042,
-  "2023-11-28": 176042,
-  "2023-11-29": 176042,
-  "2023-11-30": 176042,
-  "2023-12-01": 176042,
-  "2023-12-02": 176042,
-  "2023-12-03": 176042,
-  "2023-12-04": 176042,
-  "2023-12-05": 176042,
-  "2023-12-06": 176042,
-  "2023-12-07": 176042,
-  "2023-12-08": 176042,
-  "2023-12-09": 176042,
-  "2023-12-10": 176042,
-  "2023-12-11": 176042,
-  "2023-12-12": 176042,
-  "2023-12-13": 176042,
-  "2023-12-14": 176042,
-  "2023-12-15": 176042,
-  "2023-12-16": 176042,
-  "2023-12-17": 176042,
-  "2023-12-18": 176042,
-  "2023-12-19": 176042,
-  "2023-12-20": 176042,
-  "2023-12-21": 176042,
-  "2023-12-22": 176042,
-  "2023-12-23": 176042,
-  "2023-12-24": 176042,
-  "2023-12-25": 176042,
-  "2023-12-26": 176042,
-  "2023-12-27": 176042,
-  "2023-12-30": 176042,
-  "2023-12-31": 176042,
-  "2024-01-01": 176042,
-  "2024-01-02": 176042,
-  "2024-01-03": 176042
+  "2024-01-17": 176042,
+  "date_first_scraped": "2021-12-21",
+  "description": "Essential Alesso originals and remixes.",
+  "name": "This Is Alesso",
+  "tracks": [
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Noonie Bao",
+          "url": "https://open.spotify.com/artist/1vIuPjtFhqIPE2n9W2ePgO"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
+      "duration_ms": 251400,
+      "name": "All This Love",
+      "url": "https://open.spotify.com/track/3ZUEdWfVROkbgOsG53ctme"
+    },
+    {
+      "album": {
+        "name": "Festival Electro en tu Casa",
+        "url": "https://open.spotify.com/album/4Mjy3J9AdBR291XMUuuBbe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 375400,
+      "name": "Calling (Lose My Mind) - Extended Club Mix",
+      "url": "https://open.spotify.com/track/0tDPVHElpjbBUqB6hdgp74"
+    },
+    {
+      "album": {
+        "name": "Calling (Lose My Mind)",
+        "url": "https://open.spotify.com/album/1QL4aGJ6SwMK94EEf8Kdhc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 375400,
+      "name": "Calling (Lose My Mind) - Extended Club Mix",
+      "url": "https://open.spotify.com/track/2M8hogIUDLzlx3ac9yTiAI"
+    },
+    {
+      "album": {
+        "name": "Calling (Lose My Mind) [Remixes]",
+        "url": "https://open.spotify.com/album/5OHWB93rTVYNAWu4xF1VAc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375400,
+      "name": "Calling (Lose My Mind) - Extended Club Mix",
+      "url": "https://open.spotify.com/track/6KZa7U25YolwUi0TF5gov7"
+    },
+    {
+      "album": {
+        "name": "Electrofarra retrochimba",
+        "url": "https://open.spotify.com/album/3HfSmeFuIuhiZQSxVcqYA1"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-09-11",
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/2hjdloZutKZyIwSBfExHF2"
+    },
+    {
+      "album": {
+        "name": "Calling (Lose My Mind)",
+        "url": "https://open.spotify.com/album/2fI3bvXQeO3ZRgHKI5MTLe"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/34NNeV9jfgNgaALgUr0u9V"
+    },
+    {
+      "album": {
+        "name": "Summer Hits 2012",
+        "url": "https://open.spotify.com/album/0j6KOCBoaWi8NUBwVN0USL"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/3uImaAZ393WNnCfTgjHJkT"
+    },
+    {
+      "album": {
+        "name": "EDM Hits",
+        "url": "https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6"
+    },
+    {
+      "album": {
+        "name": "Gaming EDM 2022",
+        "url": "https://open.spotify.com/album/6XMMd2hjfBRulH7UezOav0"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Ingrosso",
+          "url": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-07",
+      "duration_ms": 205440,
+      "name": "Calling (Lose My Mind) - Radio Edit",
+      "url": "https://open.spotify.com/track/7sarPDq8wLcuqFZJTCSJsZ"
+    },
+    {
+      "album": {
+        "name": "Chasing Stars (feat. James Bay)",
+        "url": "https://open.spotify.com/album/09vWMvGsbMxlVuFS7hCsf6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170457,
+      "name": "Chasing Stars (feat. James Bay)",
+      "url": "https://open.spotify.com/track/6y6xhAgZjvxy5kR5rigpY3"
+    },
+    {
+      "album": {
+        "name": "Chasing Stars (Stripped)",
+        "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164927,
+      "name": "Chasing Stars (feat. James Bay) [Stripped]",
+      "url": "https://open.spotify.com/track/13IMd84eJeHLdnLbzmIP2Q"
+    },
+    {
+      "album": {
+        "name": "Chasing Stars (Stripped)",
+        "url": "https://open.spotify.com/album/7IY75Hh3USffqjFZi2oCNz"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
+      "duration_ms": 169180,
+      "name": "Chasing Stars (feat. James Bay) [VIP]",
+      "url": "https://open.spotify.com/track/47crMnBBovP3ErVw07kadS"
+    },
+    {
+      "album": {
+        "name": "City Of Dreams",
+        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ruben Haze",
+          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-25",
+      "duration_ms": 405000,
+      "name": "City Of Dreams - Original Mix",
+      "url": "https://open.spotify.com/track/5DKHdWT3u5mOu3dm8A8P1V"
+    },
+    {
+      "album": {
+        "name": "City Of Dreams",
+        "url": "https://open.spotify.com/album/3mDXpAc8LCT6ssObfK7mym"
+      },
+      "artists": [
+        {
+          "name": "Dirty South",
+          "url": "https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ruben Haze",
+          "url": "https://open.spotify.com/artist/5nkzSFYwr8GJcwHT6vbbYL"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "City Of Dreams - Radio Edit",
+      "url": "https://open.spotify.com/track/54ZPmGE1uOG9IYoUBSRSp7"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Roy English",
+          "url": "https://open.spotify.com/artist/1m42JiZ7Rv8D7Lc7FTSWAR"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221400,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/2ToIksTPpJ4csKPEOdUEyM"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/233Z7fuQQJdAZIdYEbbusf"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-03-02",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-07",
+      "duration_ms": 77343,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/26jRyz87hxFJbFOCQcjP8B"
+    },
+    {
+      "album": {
+        "name": "Dark",
+        "url": "https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-03-06",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 123228,
+      "name": "Dark",
+      "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/0aoPXd30dX02Jm9FkDgWUE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202313,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3d9JucRI60arArgQXqtfjJ"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/79lixUK9CJi0VpDymcQ3iY"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202313,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/43mNwDn0zOH2HKl5B4aqcx"
+    },
+    {
+      "album": {
+        "name": "Love You Tonight",
+        "url": "https://open.spotify.com/album/2mKlq9NoY6Y0aJip5eZSyt"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 202313,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4saie0ahlq7UUhrB66NLTI"
+    },
+    {
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-06-24",
+      "duration_ms": 162139,
+      "name": "Get To Know Me",
+      "url": "https://open.spotify.com/track/32lyOiqQrmCUICCcBfkBeG"
+    },
+    {
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168601,
+      "name": "Going Dumb",
+      "url": "https://open.spotify.com/track/7arsXR8AtExnOFN3v3HiJI"
+    },
+    {
+      "album": {
+        "name": "Going Dumb",
+        "url": "https://open.spotify.com/album/5IMZvYqklgYzabWtgtD74l"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169506,
+      "name": "Going Dumb (with Stray Kids)",
+      "url": "https://open.spotify.com/track/3Ea1CNsTqBY4RtAESrBeNI"
+    },
+    {
+      "album": {
+        "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+        "url": "https://open.spotify.com/album/7rg1EDt1ggAvyiVsQRRVFr"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "CORSAK",
+          "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166875,
+      "name": "Going Dumb (with Stray Kids) [Mike Williams Remix]",
+      "url": "https://open.spotify.com/track/3csbMYO3DEWUpHemWaXlaH"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210013,
+      "name": "Heroes (we could be)",
+      "url": "https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77"
+    },
+    {
+      "album": {
+        "name": "Heroes (we could be) [The Remixes]",
+        "url": "https://open.spotify.com/album/03cpWxb3t38YrVTxBI62og"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204906,
+      "name": "Heroes (we could be) - Branchez Remix",
+      "url": "https://open.spotify.com/track/3wyJ90In0gjiWYgXniY4Op"
+    },
+    {
+      "album": {
+        "name": "I Wanna Know",
+        "url": "https://open.spotify.com/album/717X9LkHS8UXp8nb79Jnh6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240413,
+      "name": "I Wanna Know",
+      "url": "https://open.spotify.com/track/2kYqdSlrtovVMMIn6ykzba"
+    },
+    {
+      "album": {
+        "name": "I Wanna Know (The Remixes)",
+        "url": "https://open.spotify.com/album/5hJZzQwrDN0vzS5LLLafq5"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327053,
+      "name": "I Wanna Know - Alesso & Deniz Koyu Remix",
+      "url": "https://open.spotify.com/track/7HwGFDbX9zC4R4fgFUZBrD"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214813,
+      "name": "If I Lose Myself - Alesso vs OneRepublic",
+      "url": "https://open.spotify.com/track/1hZk9dktp4yRFTm0TrycuH"
+    },
+    {
+      "album": {
+        "name": "Native",
+        "url": "https://open.spotify.com/album/42UJjk8i8L0De7lQtu7sqi"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 215186,
+      "name": "If I Lose Myself - Alesso vs OneRepublic",
+      "url": "https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"
+    },
+    {
+      "album": {
+        "name": "Pop Party",
+        "url": "https://open.spotify.com/album/2XqrrdY9AGE4iBefuGGrjp"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 215480,
+      "name": "If I Lose Myself - Alesso vs OneRepublic",
+      "url": "https://open.spotify.com/track/4k9c4x6oPpIfXAmz1wZgNU"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232480,
+      "name": "If It Wasn't For You",
+      "url": "https://open.spotify.com/track/0R3aF3iq67sbMgqe0A4nup"
+    },
+    {
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
+    },
+    {
+      "album": {
+        "name": "In The Middle",
+        "url": "https://open.spotify.com/album/23yCVntK9nAjsZXHqX6hGS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "SUMR CAMP",
+          "url": "https://open.spotify.com/artist/5t8tQRTRMQFxAPCiYMR694"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148189,
+      "name": "In The Middle",
+      "url": "https://open.spotify.com/track/7JHdotEeGSIbtFuo4dVvsC"
+    },
+    {
+      "album": {
+        "name": "Is That For Me",
+        "url": "https://open.spotify.com/album/1LtTYrAjvMjXTAo8U70eWL"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169269,
+      "name": "Is That For Me",
+      "url": "https://open.spotify.com/track/2KwojFDebQV4J2b0JMRR5Q"
+    },
+    {
+      "album": {
+        "name": "Leave A Little Love",
+        "url": "https://open.spotify.com/album/7b6PW07JgJwP6ONZo0ipbS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187029,
+      "name": "Leave A Little Love",
+      "url": "https://open.spotify.com/track/3RQMCAfUMzRCSW93LCRiJy"
+    },
+    {
+      "album": {
+        "name": "A State Of Trance Year Mix 2021 (Mixed by Armin van Buuren)",
+        "url": "https://open.spotify.com/album/4OaMsk8VihZmMNIx8oYdoo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88813,
+      "name": "Leave A Little Love (Mixed) - Club Mix",
+      "url": "https://open.spotify.com/track/0oGKDmrn3HQ4ih50iWD7sl"
+    },
+    {
+      "album": {
+        "name": "Leave A Little Love (Club Mix)",
+        "url": "https://open.spotify.com/album/5nV1iCvWWEWgJwwwn6jtHH"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173830,
+      "name": "Leave A Little Love - Club Mix",
+      "url": "https://open.spotify.com/track/2SPZAzJWwy0IXTbmqdzsVM"
+    },
+    {
+      "album": {
+        "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+        "url": "https://open.spotify.com/album/3ggBBGRhkDVAu7pQRXRPXO"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
+          "name": "WATT",
+          "url": "https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "Let Me Go (with Alesso, Florida Georgia Line & watt)",
+      "url": "https://open.spotify.com/track/5Gu0PDLN4YJeW75PpBSg9p"
+    },
+    {
+      "album": {
+        "name": "Mi Gente (with Willy William) [Alesso Remix]",
+        "url": "https://open.spotify.com/album/52AwG4XGwdtoQmjuDX0Pdh"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213360,
+      "name": "Mi Gente - Alesso Remix",
+      "url": "https://open.spotify.com/track/4uLObuemgRYF5b96UpqjH3"
+    },
+    {
+      "album": {
+        "name": "Mi Gente (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5kAmI4hEbce6ncnHbAbX6g"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213760,
+      "name": "Mi Gente - Alesso Remix",
+      "url": "https://open.spotify.com/track/4ohMD1wzaaOC2I6jSGFMeP"
+    },
+    {
+      "album": {
+        "name": "Midnight (feat. Liam Payne)",
+        "url": "https://open.spotify.com/album/4Cq0dfyCX1msQ6ZRbdT4YG"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220140,
+      "name": "Midnight (feat. Liam Payne)",
+      "url": "https://open.spotify.com/track/4ZTTUAjJCd4NMZmIU7RB4c"
+    },
+    {
+      "album": {
+        "name": "One Last Time",
+        "url": "https://open.spotify.com/album/25KcL764VFvS0yqVwbm9yX"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240383,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/17kleFbwU5STT8AiR1EXOT"
+    },
+    {
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "date_added": "2022-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-22",
+      "duration_ms": 197866,
+      "name": "PAYDAY",
+      "url": "https://open.spotify.com/track/0yr4DKIedcAD4av7wKzHRO"
+    },
+    {
+      "album": {
+        "name": "Pressure (Alesso Radio Edit)",
+        "url": "https://open.spotify.com/album/6KEKDpsquT9q0oiG3YcGyI"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        },
+        {
+          "name": "Starkillers",
+          "url": "https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0"
+        },
+        {
+          "name": "Alex Kenji",
+          "url": "https://open.spotify.com/artist/57emG0pZhSfbfskupwZ4Bu"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182929,
+      "name": "Pressure - Alesso Radio Edit",
+      "url": "https://open.spotify.com/track/4uB7RmCoM5NAZKMYypDLpz"
+    },
+    {
+      "album": {
+        "name": "Pressure (Alesso Radio Edit)",
+        "url": "https://open.spotify.com/album/1TpzXbZdjk34I5i3LnrUjp"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        },
+        {
+          "name": "Starkillers",
+          "url": "https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0"
+        },
+        {
+          "name": "Alex Kenji",
+          "url": "https://open.spotify.com/artist/57emG0pZhSfbfskupwZ4Bu"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 182933,
+      "name": "Pressure - Alesso Radio Edit",
+      "url": "https://open.spotify.com/track/4ZJjf1jKxiHTcBnF7K6TLW"
+    },
+    {
+      "album": {
+        "name": "Pressure (The Remixes)",
+        "url": "https://open.spotify.com/album/7CAu0Fk9xQxFCKgOBylOMM"
+      },
+      "artists": [
+        {
+          "name": "Nadia Ali",
+          "url": "https://open.spotify.com/artist/1C60viSZv6BoYtrnkZ44g5"
+        },
+        {
+          "name": "Starkillers",
+          "url": "https://open.spotify.com/artist/6gJE2UbjRlQBb0dFmMQTm0"
+        },
+        {
+          "name": "Alex Kenji",
+          "url": "https://open.spotify.com/artist/57emG0pZhSfbfskupwZ4Bu"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368000,
+      "name": "Pressure - Alesso Remix",
+      "url": "https://open.spotify.com/track/582JLMTy2WCHPgKFJ4xCq7"
+    },
+    {
+      "album": {
+        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
+        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299520,
+      "name": "PROGRESSO",
+      "url": "https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC"
+    },
+    {
+      "album": {
+        "name": "REMEDY",
+        "url": "https://open.spotify.com/album/0LOJHhz9ybWLVMLucHYtCe"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190295,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/6jreFSOTUAViWjKyzOC4Kg"
+    },
+    {
+      "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "album": {
+        "name": "Sad Song (feat. TINI)",
+        "url": "https://open.spotify.com/album/0D26ZmfHtg7309j2TEKxnR"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154024,
+      "name": "Sad Song (feat. TINI)",
+      "url": "https://open.spotify.com/track/2JoIjuzRplpYGvvLpSW2on"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Ryan Tedder",
+          "url": "https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198240,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/6wZYxok5OMWAZh8r91vFEL"
+    },
+    {
+      "album": {
+        "name": "Silenced By The Night (Alesso Remix)",
+        "url": "https://open.spotify.com/album/5AeIaYONwneTOcR0rRguYz"
+      },
+      "artists": [
+        {
+          "name": "Keane",
+          "url": "https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2021-12-30",
+      "duration_ms": 373124,
+      "name": "Silenced By The Night [Alesso vs. Keane] - Alesso Remix",
+      "url": "https://open.spotify.com/track/1HTh4meXIkX5JHVYs8DQ6r"
+    },
+    {
+      "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154031,
+      "name": "Somebody To Use",
+      "url": "https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13"
+    },
+    {
+      "album": {
+        "name": "Somebody To Use",
+        "url": "https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191618,
+      "name": "Somebody To Use - Toxic Mix",
+      "url": "https://open.spotify.com/track/1fU9jcKCej9LobWUT6K7Fo"
+    },
+    {
+      "album": {
+        "name": "Something Just Like This (Remix Pack) [Remixes]",
+        "url": "https://open.spotify.com/album/4uRfYhBBaSX8N3amojmMBE"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252933,
+      "name": "Something Just Like This - Alesso Remix",
+      "url": "https://open.spotify.com/track/50RJdoxw8iajGNtHQe6QeS"
+    },
+    {
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sirena",
+          "url": "https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Sweet Escape",
+      "url": "https://open.spotify.com/track/6vPJvkEuWZPcv58NnQ3dBR"
+    },
+    {
+      "album": {
+        "name": "POWDER VIBES SKI PLAYLIST",
+        "url": "https://open.spotify.com/album/5eV7rFuMuibN8KgVEBmBpb"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 188710,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/0kKay4d99zaQWIjRWVbB3q"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/26OU1dvkiERY8oCF1W369N"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188710,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/2U1uiiXgExCpPr4GhLGJMv"
+    },
+    {
+      "album": {
+        "name": "Take My Breath Away",
+        "url": "https://open.spotify.com/album/30EbNBBriMXKYEG54aL8nr"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 188710,
+      "name": "Take My Breath Away",
+      "url": "https://open.spotify.com/track/5iAfLe0T0yRIYbL2v58Mzv"
+    },
+    {
+      "album": {
+        "name": "THE END",
+        "url": "https://open.spotify.com/album/1uLwrKImFoCGDkQt1F0Y1e"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206308,
+      "name": "THE END",
+      "url": "https://open.spotify.com/track/4w7vZjpsnpKizj7NE0Nuld"
+    },
+    {
+      "album": {
+        "name": "This Summer (Maroon 5 vs. Alesso)",
+        "url": "https://open.spotify.com/album/6fdOFgB93CtMLBKusqFDdD"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 191506,
+      "name": "This Summer - Maroon 5 vs. Alesso",
+      "url": "https://open.spotify.com/track/1r36CeHucX7V6tuK78Iw3Q"
+    },
+    {
+      "album": {
+        "name": "This Summer (Maroon 5 vs. Alesso)",
+        "url": "https://open.spotify.com/album/7bMGAJIsFUGXuH62kxSS63"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191506,
+      "name": "This Summer - Maroon 5 vs. Alesso",
+      "url": "https://open.spotify.com/track/4Fqf6sRaSGQppXHwO0gZs3"
+    },
+    {
+      "album": {
+        "name": "Tilted Towers",
+        "url": "https://open.spotify.com/album/1ROknPR3DQnKIqajsMzw85"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-03-25",
+      "duration_ms": 259475,
+      "name": "Tilted Towers",
+      "url": "https://open.spotify.com/track/5hdAQegqnitMjNacfLOHQd"
+    },
+    {
+      "album": {
+        "name": "ALESSO MIXTAPE - PROGRESSO VOLUME 1",
+        "url": "https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/108r6pnZHStBIktpyyps9w"
+    },
+    {
+      "album": {
+        "name": "TIME (Alesso & Deniz Koyu Remix)",
+        "url": "https://open.spotify.com/album/75FRR5VgQfUAGYw8nazMrI"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "TIME - Alesso & Deniz Koyu Remix",
+      "url": "https://open.spotify.com/track/6EHfy60U5dH5QJcQKdbNPQ"
+    },
+    {
+      "album": {
+        "name": "Titanium (feat. Sia)",
+        "url": "https://open.spotify.com/album/7blIKgWQs6pk2xdCzDk3gB"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403809,
+      "name": "Titanium (feat. Sia) - Alesso Remix",
+      "url": "https://open.spotify.com/track/1fI5yYMJEYkAHI5YRdnikY"
+    },
+    {
+      "album": {
+        "name": "PROGRESSO VOL 2",
+        "url": "https://open.spotify.com/album/0SkgI9DVsKoNpkM7JUWaGS"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-22",
+      "duration_ms": 228395,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/0hvOu1yvUgbjNrzXfWVLYS"
+    },
+    {
+      "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184280,
+      "name": "Under Control (feat. Hurts)",
+      "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
+    },
+    {
+      "album": {
+        "name": "Under Control (feat. Hurts)",
+        "url": "https://open.spotify.com/album/5PXsUtfvYHPvlvGRVuwNOp"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Hurts",
+          "url": "https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336613,
+      "name": "Under Control (feat. Hurts) - Extended Mix",
+      "url": "https://open.spotify.com/track/3IRopjEQzdRC8oP98yUikY"
+    },
+    {
+      "album": {
+        "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+        "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171840,
+      "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
+      "url": "https://open.spotify.com/track/53y02rkTgMKgaJihn2Y2jE"
+    },
+    {
+      "album": {
+        "name": "When I\u2019m Gone (with Katy Perry)",
+        "url": "https://open.spotify.com/album/5itVTi6rI3MlOcWBxROxd9"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2021-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161266,
+      "name": "When I\u2019m Gone (with Katy Perry)",
+      "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson)",
+        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142677,
+      "name": "Words (feat. Zara Larsson)",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+    },
+    {
+      "album": {
+        "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+        "url": "https://open.spotify.com/album/1zxmx7xohRxY2GW4qSXsKE"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328803,
+      "name": "Words (feat. Zara Larsson) [Alesso VIP Mix]",
+      "url": "https://open.spotify.com/track/42BybLW0zc7x7ebEfy02pZ"
+    },
+    {
+      "album": {
+        "name": "Years",
+        "url": "https://open.spotify.com/album/1lxz4qsMenWD4SR1e5uX6x"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Matthew Koma",
+          "url": "https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo"
+        }
+      ],
+      "date_added": "2021-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195466,
+      "name": "Years",
+      "url": "https://open.spotify.com/track/5pVk15sR3OgIeKBKqG9jWw"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX7nGw3hwYw03"
 }

@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-626 songs - 1 day 11 hr 24 min
+629 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,6 +342,7 @@
 | [Lost Inside My Head](https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01) | [Goldkimono](https://open.spotify.com/artist/3krHIfEy37pVe0zjdisDBk) | [Lost Inside My Head](https://open.spotify.com/album/7tOl1qi1qAGEWzKtgtM4QT) | 2:41 | 2023-05-26 | 2023-10-27 |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-01-13 |  |
 | [Love Test](https://open.spotify.com/track/1IKMIPn0zCJ0CilYEpEkyK) | [The Growlers](https://open.spotify.com/artist/2RhgnQNC74QoBlaUvT4MEe) | [Chinese Fountain](https://open.spotify.com/album/6exFB8EKturdauvN5XV0ov) | 4:09 | 2021-07-19 | 2022-04-19 |
+| [Love To Walk Away](https://open.spotify.com/track/7wykJuA5AbOMLTmsNSi1Cq) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Love To Walk Away](https://open.spotify.com/album/3H3oeo1nVS1IzgQVOXcDdD) | 2:07 | 2024-01-12 |  |
 | [Love/Paranoia](https://open.spotify.com/track/5h9hkYIBWTZYFRmF6Iz1gt) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:05 | 2022-04-13 | 2022-07-30 |
 | [Low Again](https://open.spotify.com/track/6pc0MSwfQ5etN4YOVjMh62) | [Hard Yes](https://open.spotify.com/artist/3eeN2fAZGLbg3xJ8bjnFV9) | [Low Again](https://open.spotify.com/album/248UYIf6N83YRecTmFikrx) | 4:04 | 2022-05-06 | 2022-07-28 |
 | [Magic Tide](https://open.spotify.com/track/0SEGzVjv7gMuKvEqBBDKp8) | [Frills](https://open.spotify.com/artist/6YY4AQPjE7JqwpkqyPRfid) | [Magic Tide](https://open.spotify.com/album/2d8AC2Bb7QhR0WqGfu0XCR) | 3:24 | 2021-05-01 | 2022-04-14 |
@@ -349,7 +350,7 @@
 | [MANGO](https://open.spotify.com/track/0a5szJBZfMo2ijE68r5oAR) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [MANGO](https://open.spotify.com/album/16xXUwfYa80OKyuLpqD5Pp) | 3:05 | 2021-05-01 | 2022-07-29 |
 | [MANY FACES](https://open.spotify.com/track/27cWalfVkjaY21WxHiR426) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [MANY FACES](https://open.spotify.com/album/5wYDGLWfZKFt11XSqtbKxc) | 2:33 | 2021-05-01 | 2022-07-26 |
 | [Maple Syrup](https://open.spotify.com/track/4MXE6VCvTsQitHWrAxj7Kg) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:03 | 2022-04-13 |  |
-| [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-05-01 |  |
+| [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-05-01 | 2024-01-09 |
 | [Marinade](https://open.spotify.com/track/2N60TAtXaCbmi7zqdUoW61) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Honey Bones](https://open.spotify.com/album/3diCjjzTaCODKwH1OOmrWf) | 3:57 | 2021-05-01 | 2022-04-14 |
 | [Marlboro Nights](https://open.spotify.com/track/755inykyaG4w22GWAsA3MX) | [Lonely God](https://open.spotify.com/artist/6pF6MN603wSrisJcf7HS5v) | [Marlboro Nights](https://open.spotify.com/album/5yJOsoT7fr37BP8su0RGrz) | 1:08 | 2021-05-26 | 2023-03-25 |
 | [Marvelous](https://open.spotify.com/track/5wkEdciZkVGiasumRPReSV) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Tell Me That It’s Over](https://open.spotify.com/album/5L6fAzbz2x5oF8l0qluSKm) | 2:22 | 2022-06-08 |  |
@@ -527,7 +528,7 @@
 | [Sunflower](https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE) | 4:12 | 2022-10-14 | 2023-04-15 |
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2021-05-01 | 2022-07-29 |
 | [Sunset Chaser](https://open.spotify.com/track/0US7M5Cc4HToQXy99z92SV) | [Ragamuffs](https://open.spotify.com/artist/0IIb8Xf1ZDISXLSntUDMRq) | [Achy Luminescence](https://open.spotify.com/album/0rUhSoE2bdLyMMO0m2ywBG) | 5:30 | 2022-04-13 | 2022-04-18 |
-| [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-12-01 |  |
+| [Superbloomer](https://open.spotify.com/track/6HqdxpWOasNjyjLFVXCB6x) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Superbloomer](https://open.spotify.com/album/43M8szELX9et29YildxYbP) | 4:37 | 2023-12-01 | 2024-01-13 |
 | [Superglue](https://open.spotify.com/track/1xppwXzb1L9dwPigcki6Tf) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [It Will Never Be The Same](https://open.spotify.com/album/0yIOi8b3saNbLzoxIqKWCX) | 4:10 | 2023-05-26 |  |
 | [supermarket](https://open.spotify.com/track/11cufrIGJ6pbcVqJ205Eqe) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/2rpxxVofUOFlcnFD5jriTt) | 2:25 | 2022-11-07 | 2023-09-30 |
 | [supermarket](https://open.spotify.com/track/5FdE9hALukJ6ivdFXbCGEj) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [supermarket](https://open.spotify.com/album/1I00sBmH4cpFAbEPr33t1S) | 2:25 | 2022-05-27 | 2022-06-18 |
@@ -554,6 +555,7 @@
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-05-01 | 2023-09-30 |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2021-06-04 | 2023-06-17 |
 | [The Narcissist](https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Narcissist](https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz) | 4:05 | 2023-05-19 |  |
+| [The Place That Makes Me Happy](https://open.spotify.com/track/6fOemgTsBaM10g8Rz3unmT) | [The Moss](https://open.spotify.com/artist/4wPeDqxPKkBN50kr8XhEma) | [The Place That Makes Me Happy](https://open.spotify.com/album/6UklsqQkhLmsEqFZZuVKkW) | 3:01 | 2024-01-12 |  |
 | [THE SHADE](https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 3:01 | 2022-04-13 |  |
 | [The Summer](https://open.spotify.com/track/3O2bW6OI1jo3l2DhHfEffP) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [The Summer](https://open.spotify.com/album/7qBHuHCWS1A6eLXupHao0z) | 3:36 | 2021-05-01 | 2022-04-14 |
 | [The Sun](https://open.spotify.com/track/5UEZzRsrB4FKw1SIMoMD2y) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Born a Loser](https://open.spotify.com/album/6OQjfXsIharHjMAMbGYGNd) | 3:27 | 2022-07-22 |  |
@@ -575,7 +577,7 @@
 | [Tightrope](https://open.spotify.com/track/5kzsfmg5XrlG2cxnHbBNC5) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2) | [Tightrope](https://open.spotify.com/album/6tUJXb2qxc4VBSmPeQYXrp) | 2:20 | 2022-04-20 | 2022-10-13 |
 | [Time Shrinks](https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV) | [Arcy Drive](https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O) | [Time Shrinks](https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0) | 3:36 | 2023-09-29 | 2023-12-02 |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2022-04-13 |  |
-| [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-09-29 |  |
+| [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-09-29 | 2024-01-14 |
 | [To Seattle](https://open.spotify.com/track/3aJECP6Q5TsoGixvgU5dhp) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Pollen](https://open.spotify.com/album/1BsPPyv9hzDSyvyFin3WKT) | 3:26 | 2021-05-01 | 2022-04-14 |
 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 | 2022-04-13 | 2023-06-17 |
 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2021-05-01 |  |
@@ -622,6 +624,7 @@
 | [Wonderful Life \- Edit](https://open.spotify.com/track/1UW4ovo5jTxYnmbTw89BpJ) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Wonderful Life](https://open.spotify.com/album/22fUT9dL0jQhBB5c05h4pj) | 3:05 | 2022-07-22 | 2022-07-28 |
 | [Yeah](https://open.spotify.com/track/6WtYaLMrdr2CKmUL59IRcz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [YEAH YEAH YEAH YEAH YEAH YEAH YEAH YEAH](https://open.spotify.com/album/4Dgtsf0LqQz9YO5Yxm8qlk) | 2:55 | 2021-05-01 | 2022-04-13 |
 | [Yeah Yeah Yeah](https://open.spotify.com/track/32giR6EjJXyPBPS83p3o48) | [Cayucas](https://open.spotify.com/artist/7LLcRttKjV6PeJOlCNCYon) | [Yeah Yeah Yeah](https://open.spotify.com/album/4GqoyJCF14Wb3OjUBy3HOD) | 3:25 | 2021-05-01 | 2022-07-29 |
+| [You Get What You Give](https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:00 | 2024-01-08 |  |
 | [You Won't](https://open.spotify.com/track/2G8oGywOTdmVsxq7BEJWU6) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:59 | 2021-05-01 | 2022-03-19 |
 | [You'll Understand When you're Older](https://open.spotify.com/track/2LSKaL5wM8r5DaNBW1Oqx6) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/43yKUvEVZ2dTy2vOrozS2j) | 3:52 | 2022-10-14 | 2022-12-08 |
 | [You'll Understand When you're Older](https://open.spotify.com/track/4jbxk26vQ2cl5dMaYJtOzM) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/5FjI8XVSj9YAmGAlZub7Bo) | 3:52 | 2022-09-02 | 2022-10-13 |

@@ -1,430 +1,2055 @@
 {
-  "2022-10-29": 164833,
-  "2022-10-30": 164911,
-  "2022-10-31": 164966,
-  "2022-11-01": 165022,
-  "2022-11-02": 165099,
-  "2022-11-03": 165178,
-  "2022-11-04": 165280,
-  "2022-11-05": 165344,
-  "2022-11-06": 165416,
-  "2022-11-07": 165481,
-  "2022-11-08": 165579,
-  "2022-11-09": 165669,
-  "2022-11-10": 165731,
-  "2022-11-11": 165818,
-  "2022-11-12": 165976,
-  "2022-11-13": 166076,
-  "2022-11-14": 166159,
-  "2022-11-15": 166270,
-  "2022-11-16": 166357,
-  "2022-11-17": 166468,
-  "2022-11-18": 166491,
-  "2022-11-19": 166512,
-  "2022-11-20": 166591,
-  "2022-11-21": 166671,
-  "2022-11-22": 166761,
-  "2022-11-23": 166865,
-  "2022-11-24": 167043,
-  "2022-11-25": 167210,
-  "2022-11-26": 167320,
-  "2022-11-27": 167430,
-  "2022-11-28": 167523,
-  "2022-11-29": 167607,
-  "2022-11-30": 167699,
-  "2022-12-01": 167819,
-  "2022-12-02": 167888,
-  "2022-12-03": 168018,
-  "2022-12-04": 168113,
-  "2022-12-05": 168212,
-  "2022-12-06": 168335,
-  "2022-12-07": 168435,
-  "2022-12-08": 168538,
-  "2022-12-09": 168657,
-  "2022-12-10": 168752,
-  "2022-12-11": 168821,
-  "2022-12-12": 168912,
-  "2022-12-13": 169006,
-  "2022-12-14": 169081,
-  "2022-12-15": 169150,
-  "2022-12-16": 169227,
-  "2022-12-17": 169321,
-  "2022-12-18": 169413,
-  "2022-12-19": 169502,
-  "2022-12-20": 169671,
-  "2022-12-21": 169671,
-  "2022-12-22": 169781,
-  "2022-12-24": 169969,
-  "2022-12-25": 170059,
-  "2022-12-26": 170145,
-  "2022-12-27": 170246,
-  "2022-12-28": 170350,
-  "2022-12-29": 170426,
-  "2022-12-30": 170519,
-  "2022-12-31": 170635,
-  "2023-01-01": 170730,
-  "2023-01-02": 170811,
-  "2023-01-03": 170909,
-  "2023-01-04": 171004,
-  "2023-01-05": 171111,
-  "2023-01-06": 171243,
-  "2023-01-07": 171400,
-  "2023-01-08": 171431,
-  "2023-01-09": 171511,
-  "2023-01-10": 171622,
-  "2023-01-11": 171709,
-  "2023-01-12": 171795,
-  "2023-01-13": 171908,
-  "2023-01-14": 172099,
-  "2023-01-15": 172116,
-  "2023-01-16": 172253,
-  "2023-01-17": 172367,
-  "2023-01-18": 172509,
-  "2023-01-19": 172607,
-  "2023-01-20": 172686,
-  "2023-01-21": 172767,
-  "2023-01-22": 172842,
-  "2023-01-23": 172919,
-  "2023-01-24": 173004,
-  "2023-01-25": 173108,
-  "2023-01-26": 173187,
-  "2023-01-27": 173263,
-  "2023-01-28": 173336,
-  "2023-01-29": 173406,
-  "2023-01-30": 173472,
-  "2023-01-31": 173472,
-  "2023-02-01": 173620,
-  "2023-02-02": 173707,
-  "2023-02-03": 173772,
-  "2023-02-04": 173847,
-  "2023-02-05": 173891,
-  "2023-02-06": 173954,
-  "2023-02-07": 174030,
-  "2023-02-08": 174143,
-  "2023-02-09": 174143,
-  "2023-02-10": 174223,
-  "2023-02-11": 174278,
-  "2023-02-12": 174396,
-  "2023-02-13": 174451,
-  "2023-02-14": 174451,
-  "2023-02-15": 174499,
-  "2023-02-16": 174572,
-  "2023-02-17": 174640,
-  "2023-02-18": 174805,
-  "2023-02-19": 174819,
-  "2023-02-20": 174858,
-  "2023-02-21": 174916,
-  "2023-02-22": 174979,
-  "2023-02-23": 175034,
-  "2023-02-24": 175090,
-  "2023-02-25": 175177,
-  "2023-02-26": 175225,
-  "2023-02-27": 175362,
-  "2023-02-28": 175362,
-  "2023-03-01": 175414,
-  "2023-03-02": 175470,
-  "2023-03-03": 175549,
-  "2023-03-04": 175621,
-  "2023-03-05": 175766,
-  "2023-03-06": 175766,
-  "2023-03-07": 175841,
-  "2023-03-08": 175904,
-  "2023-03-09": 175959,
-  "2023-03-10": 176031,
-  "2023-03-11": 176096,
-  "2023-03-12": 176161,
-  "2023-03-13": 176217,
-  "2023-03-14": 176265,
-  "2023-03-15": 176337,
-  "2023-03-16": 176337,
-  "2023-03-17": 176337,
-  "2023-03-18": 176536,
-  "2023-03-19": 176536,
-  "2023-03-20": 176640,
-  "2023-03-21": 176703,
-  "2023-03-22": 176759,
-  "2023-03-23": 176826,
-  "2023-03-24": 176826,
-  "2023-03-25": 176956,
-  "2023-03-26": 177016,
-  "2023-03-27": 177061,
-  "2023-03-28": 177126,
-  "2023-03-29": 177184,
-  "2023-03-30": 177332,
-  "2023-03-31": 177332,
-  "2023-04-01": 177405,
-  "2023-04-02": 177469,
-  "2023-04-03": 177523,
-  "2023-04-04": 177607,
-  "2023-04-05": 177681,
-  "2023-04-06": 177762,
-  "2023-04-07": 177835,
-  "2023-04-09": 177936,
-  "2023-04-10": 177995,
-  "2023-04-11": 178092,
-  "2023-04-12": 178092,
-  "2023-04-13": 178160,
-  "2023-04-14": 178218,
-  "2023-04-15": 178295,
-  "2023-04-16": 178364,
-  "2023-04-17": 178404,
-  "2023-04-18": 178484,
-  "2023-04-19": 178556,
-  "2023-04-20": 178617,
-  "2023-04-21": 178701,
-  "2023-04-22": 178780,
-  "2023-04-23": 178838,
-  "2023-04-24": 178906,
-  "2023-04-25": 178997,
-  "2023-04-26": 179076,
-  "2023-04-27": 179157,
-  "2023-04-28": 179218,
-  "2023-04-29": 179293,
-  "2023-04-30": 179355,
-  "2023-05-01": 179413,
-  "2023-05-02": 179465,
-  "2023-05-03": 179525,
-  "2023-05-04": 179598,
-  "2023-05-05": 179665,
-  "2023-05-06": 179738,
-  "2023-05-07": 179796,
-  "2023-05-08": 179844,
-  "2023-05-09": 179902,
-  "2023-05-10": 179970,
-  "2023-05-11": 180043,
-  "2023-05-12": 180108,
-  "2023-05-13": 180166,
-  "2023-05-14": 180217,
-  "2023-05-15": 180262,
-  "2023-05-16": 180316,
-  "2023-05-17": 180396,
-  "2023-05-18": 180465,
-  "2023-05-19": 180531,
-  "2023-05-20": 180667,
-  "2023-05-21": 180667,
-  "2023-05-22": 180667,
-  "2023-05-23": 180792,
-  "2023-05-24": 180913,
-  "2023-05-25": 180941,
-  "2023-05-26": 181005,
-  "2023-05-27": 181097,
-  "2023-05-28": 181186,
-  "2023-05-29": 181186,
-  "2023-05-30": 181300,
-  "2023-05-31": 181360,
-  "2023-06-01": 181429,
-  "2023-06-02": 181504,
-  "2023-06-03": 181580,
-  "2023-06-04": 181641,
-  "2023-06-05": 181691,
-  "2023-06-06": 181760,
-  "2023-06-07": 181832,
-  "2023-06-08": 181905,
-  "2023-06-09": 182003,
-  "2023-06-10": 182086,
-  "2023-06-11": 182173,
-  "2023-06-12": 182263,
-  "2023-06-13": 182352,
-  "2023-06-14": 182452,
-  "2023-06-15": 182556,
-  "2023-06-16": 182643,
-  "2023-06-17": 182733,
-  "2023-06-18": 182807,
-  "2023-06-19": 182898,
-  "2023-06-20": 182972,
-  "2023-06-21": 183057,
-  "2023-06-22": 183134,
-  "2023-06-23": 183197,
-  "2023-06-24": 183261,
-  "2023-06-25": 183337,
-  "2023-06-26": 183416,
-  "2023-06-27": 183478,
-  "2023-06-28": 183559,
-  "2023-06-29": 183613,
-  "2023-06-30": 183662,
-  "2023-07-01": 183785,
-  "2023-07-02": 183785,
-  "2023-07-03": 183845,
-  "2023-07-04": 183889,
-  "2023-07-05": 183959,
-  "2023-07-06": 184106,
-  "2023-07-07": 184106,
-  "2023-07-08": 184106,
-  "2023-07-09": 184245,
-  "2023-07-10": 184311,
-  "2023-07-11": 184382,
-  "2023-07-12": 184464,
-  "2023-07-13": 184535,
-  "2023-07-14": 184600,
-  "2023-07-15": 184652,
-  "2023-07-16": 184720,
-  "2023-07-17": 184779,
-  "2023-07-18": 184841,
-  "2023-07-19": 184897,
-  "2023-07-20": 184966,
-  "2023-07-21": 185024,
-  "2023-07-22": 185082,
-  "2023-07-23": 185156,
-  "2023-07-24": 185240,
-  "2023-07-25": 185333,
-  "2023-07-26": 185409,
-  "2023-07-27": 185492,
-  "2023-07-28": 185575,
-  "2023-07-29": 185667,
-  "2023-07-30": 185732,
-  "2023-07-31": 185789,
-  "2023-08-01": 185835,
-  "2023-08-02": 185892,
-  "2023-08-03": 185951,
-  "2023-08-04": 186009,
-  "2023-08-05": 186060,
-  "2023-08-06": 186182,
-  "2023-08-07": 186182,
-  "2023-08-08": 186224,
-  "2023-08-09": 186274,
-  "2023-08-10": 186328,
-  "2023-08-11": 186382,
-  "2023-08-12": 186382,
-  "2023-08-13": 186382,
-  "2023-08-14": 186593,
-  "2023-08-15": 186593,
-  "2023-08-16": 186593,
-  "2023-08-17": 186593,
-  "2023-08-18": 186593,
-  "2023-08-19": 186593,
-  "2023-08-20": 186926,
-  "2023-08-21": 186926,
-  "2023-08-22": 187037,
-  "2023-08-23": 187037,
-  "2023-08-24": 187037,
-  "2023-08-25": 187037,
-  "2023-08-26": 187298,
-  "2023-08-27": 187298,
-  "2023-08-28": 187410,
-  "2023-08-29": 187410,
-  "2023-08-30": 187410,
-  "2023-08-31": 187582,
-  "2023-09-01": 187654,
-  "2023-09-02": 187654,
-  "2023-09-03": 187654,
-  "2023-09-04": 187654,
-  "2023-09-05": 187654,
-  "2023-09-06": 187654,
-  "2023-09-07": 187654,
-  "2023-09-08": 187654,
-  "2023-09-09": 187654,
-  "2023-09-10": 187654,
-  "2023-09-11": 187654,
-  "2023-09-12": 187654,
-  "2023-09-13": 187654,
-  "2023-09-14": 187654,
-  "2023-09-15": 187654,
-  "2023-09-16": 188546,
-  "2023-09-17": 188546,
-  "2023-09-18": 188546,
-  "2023-09-19": 188720,
-  "2023-09-20": 188720,
-  "2023-09-21": 188720,
-  "2023-09-22": 188890,
-  "2023-09-23": 188890,
-  "2023-09-24": 188890,
-  "2023-09-25": 188890,
-  "2023-09-26": 189106,
-  "2023-09-27": 189106,
-  "2023-09-28": 189106,
-  "2023-09-29": 189106,
-  "2023-09-30": 189106,
-  "2023-10-01": 189106,
-  "2023-10-02": 189106,
-  "2023-10-03": 189106,
-  "2023-10-04": 189106,
-  "2023-10-05": 189106,
-  "2023-10-06": 189106,
-  "2023-10-07": 189106,
-  "2023-10-08": 189106,
-  "2023-10-09": 189106,
-  "2023-10-10": 189106,
-  "2023-10-11": 189815,
-  "2023-10-12": 189815,
-  "2023-10-13": 189815,
-  "2023-10-14": 189815,
-  "2023-10-15": 189815,
-  "2023-10-16": 189815,
-  "2023-10-17": 189815,
-  "2023-10-18": 189815,
-  "2023-10-19": 189815,
-  "2023-10-20": 189815,
-  "2023-10-21": 189815,
-  "2023-10-22": 189815,
-  "2023-10-23": 189815,
-  "2023-10-24": 189815,
-  "2023-10-25": 189815,
-  "2023-10-26": 189815,
-  "2023-10-27": 189815,
-  "2023-10-28": 189815,
-  "2023-10-29": 189815,
-  "2023-10-30": 189815,
-  "2023-10-31": 189815,
-  "2023-11-01": 189815,
-  "2023-11-02": 189815,
-  "2023-11-03": 189815,
-  "2023-11-04": 189815,
-  "2023-11-05": 189815,
-  "2023-11-06": 189815,
-  "2023-11-07": 189815,
-  "2023-11-08": 189815,
-  "2023-11-09": 189815,
-  "2023-11-10": 189815,
-  "2023-11-11": 191415,
-  "2023-11-12": 191415,
-  "2023-11-13": 191415,
-  "2023-11-14": 191415,
-  "2023-11-15": 191415,
-  "2023-11-16": 191415,
-  "2023-11-17": 191415,
-  "2023-11-18": 191415,
-  "2023-11-19": 191415,
-  "2023-11-20": 191415,
-  "2023-11-21": 191415,
-  "2023-11-22": 191415,
-  "2023-11-23": 191415,
-  "2023-11-24": 191415,
-  "2023-11-25": 191415,
-  "2023-11-26": 191415,
-  "2023-11-27": 191415,
-  "2023-11-28": 191415,
-  "2023-11-29": 191415,
-  "2023-11-30": 191415,
-  "2023-12-01": 191415,
-  "2023-12-02": 191415,
-  "2023-12-03": 191415,
-  "2023-12-04": 191415,
-  "2023-12-05": 191415,
-  "2023-12-06": 191415,
-  "2023-12-07": 191415,
-  "2023-12-08": 191415,
-  "2023-12-09": 191415,
-  "2023-12-10": 191415,
-  "2023-12-11": 191415,
-  "2023-12-12": 191415,
-  "2023-12-13": 191415,
-  "2023-12-14": 193343,
-  "2023-12-15": 193399,
-  "2023-12-16": 193476,
-  "2023-12-17": 193543,
-  "2023-12-18": 193587,
-  "2023-12-19": 193631,
-  "2023-12-20": 193696,
-  "2023-12-21": 193773,
-  "2023-12-22": 193830,
-  "2023-12-23": 193893,
-  "2023-12-24": 193947,
-  "2023-12-25": 193998,
-  "2023-12-26": 194029,
-  "2023-12-27": 194094,
-  "2023-12-30": 194245,
-  "2023-12-31": 194279,
-  "2024-01-01": 194330,
-  "2024-01-02": 194373,
-  "2024-01-03": 194438
+  "2024-01-17": 194607,
+  "date_first_scraped": "2022-10-29",
+  "description": "This is Kodak Black. The essential tracks, all in one playlist.",
+  "name": "This Is Kodak Black",
+  "tracks": [
+    {
+      "album": {
+        "name": "2'CY",
+        "url": "https://open.spotify.com/album/1OeImrfH0v0zDItzvbov9y"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 179141,
+      "name": "2'CY",
+      "url": "https://open.spotify.com/track/3R0SI46gC5a9BfFKXtbtSo"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 166494,
+      "name": "300 Blackout",
+      "url": "https://open.spotify.com/track/3y3NwQPQAjKCunRz2eKggA"
+    },
+    {
+      "album": {
+        "name": "Survivor's Remorse: A Side & B Side",
+        "url": "https://open.spotify.com/album/7i1M24FtpfeRmaztP15sDU"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-30",
+      "duration_ms": 109281,
+      "name": "All That (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4pE1289TEn8kZ87N08lPOp"
+    },
+    {
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241658,
+      "name": "Already",
+      "url": "https://open.spotify.com/track/3XoMtVDuIbmMQ9UKSShXti"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "date_added": "2023-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
+      "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
+    },
+    {
+      "album": {
+        "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
+        "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62789,
+      "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
+      "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
+    },
+    {
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Calling My Spirit",
+      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/0CzPQGFqw7pO6SnPkf3RkJ"
+      },
+      "artists": [
+        {
+          "name": "King Combs",
+          "url": "https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 158350,
+      "name": "Can't Stop Won't Stop (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/4L1zI1GJxi0Qq38aSYmsS0"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
+    },
+    {
+      "album": {
+        "name": "MANSION MUSIK",
+        "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-21",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-02",
+      "duration_ms": 164571,
+      "name": "COLORS (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/767iOXvMCZC0W8HcPJm1am"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 182833,
+      "name": "Corrlinks and JPay",
+      "url": "https://open.spotify.com/track/189SCF7XFCfIQybq5CZwD9"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-06",
+      "duration_ms": 168312,
+      "name": "Day for Day",
+      "url": "https://open.spotify.com/track/0rGipWrGwAnZsaVkyiJpap"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-24",
+      "duration_ms": 152797,
+      "name": "Demand My Respect",
+      "url": "https://open.spotify.com/track/5EbLS4q2S21ROWsI1XcMZX"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Lil Crix",
+          "url": "https://open.spotify.com/artist/1PVJd1GADq9I6pSa1rvEzk"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-22",
+      "duration_ms": 233597,
+      "name": "Dirt McGerk (feat. EST Gee & Lil Crix)",
+      "url": "https://open.spotify.com/track/2fVsxlNzZlTDmj0xQzooOb"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196672,
+      "name": "Don't Wanna Breathe",
+      "url": "https://open.spotify.com/track/567CrVjCl2p3qmZqMKfOD9"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
+      "duration_ms": 137358,
+      "name": "Dope Boy Magic",
+      "url": "https://open.spotify.com/track/2pfVxwR1CfiQuqx6fMsXYs"
+    },
+    {
+      "album": {
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
+    },
+    {
+      "album": {
+        "name": "Drowning (Sped Up Version)",
+        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174517,
+      "name": "Drowning - Sped Up Version",
+      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+    },
+    {
+      "album": {
+        "name": "Feelin' Peachy",
+        "url": "https://open.spotify.com/album/4hmAVd9JpGlVurESrULRTh"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-10-31",
+      "duration_ms": 191625,
+      "name": "Feelin' Peachy",
+      "url": "https://open.spotify.com/track/2cv6XK6H0imQqD16uvHMOS"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-17",
+      "duration_ms": 180000,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/21jCQLUNNLIdlcPkRInJNm"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-22",
+      "duration_ms": 139359,
+      "name": "Freezing My Pinky",
+      "url": "https://open.spotify.com/track/1Gc2CfplXLMVbR1WxzTeXm"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-25",
+      "duration_ms": 169340,
+      "name": "Game From Pluto",
+      "url": "https://open.spotify.com/track/0jZfuUPYftKlFUxPzKmeNt"
+    },
+    {
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-07-31",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-14",
+      "duration_ms": 231771,
+      "name": "Get Ready (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
+    },
+    {
+      "album": {
+        "name": "Almost Healed",
+        "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 140800,
+      "name": "Grandson (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/2iUQCloOfXTzjZAyW23pGf"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Gunsmoke Town",
+      "url": "https://open.spotify.com/track/4286sbHO5syVcp8BrFO2dI"
+    },
+    {
+      "album": {
+        "name": "Haitian Scarface",
+        "url": "https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-01",
+      "duration_ms": 145245,
+      "name": "Haitian Scarface",
+      "url": "https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4"
+    },
+    {
+      "album": {
+        "name": "FEMA (Finesse Elevate Motivate Achieve)",
+        "url": "https://open.spotify.com/album/1mUwtBhnrDj0dkwnEjhOj0"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Plies",
+          "url": "https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203840,
+      "name": "Heart Mind",
+      "url": "https://open.spotify.com/track/2OPxM2L3KtuehqY24vTMGs"
+    },
+    {
+      "album": {
+        "name": "LIVE LIFE FAST",
+        "url": "https://open.spotify.com/album/1eVrpJbHRLBbioB9sb5b94"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170413,
+      "name": "hibachi (feat. Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/7FCDmAel69bzxRkOxbh2dB"
+    },
+    {
+      "album": {
+        "name": "Hit Bout It",
+        "url": "https://open.spotify.com/album/5TD1ySNZ2lB0UfuMUMWjq0"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177158,
+      "name": "Hit Bout It",
+      "url": "https://open.spotify.com/track/6SN1H9p6A0UbsNpfkxEEX6"
+    },
+    {
+      "album": {
+        "name": "Hope You Know",
+        "url": "https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227184,
+      "name": "Hope You Know",
+      "url": "https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql"
+    },
+    {
+      "album": {
+        "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+        "url": "https://open.spotify.com/album/4oiTkphB9JYcl3lRVYGxCv"
+      },
+      "artists": [
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-14",
+      "duration_ms": 249240,
+      "name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/5de7ci7TFqbQ1PFgKAD7MR"
+    },
+    {
+      "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160266,
+      "name": "how you did that (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+    },
+    {
+      "album": {
+        "name": "HVN ON EARTH",
+        "url": "https://open.spotify.com/album/5bHwBaNZKESVBhqCvs4Ify"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188870,
+      "name": "HVN ON EARTH (with Kodak Black)",
+      "url": "https://open.spotify.com/track/4367dXCt02KMgELPisJ2D4"
+    },
+    {
+      "album": {
+        "name": "I Can't Lie (with Kodak Black) [Versions]",
+        "url": "https://open.spotify.com/album/61ZFEiyOrBAMzrYGd9HMnR"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "London On Da Track",
+          "url": "https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg"
+        }
+      ],
+      "date_added": "2023-06-05",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-15",
+      "duration_ms": 186453,
+      "name": "I Can't Lie (with Kodak Black)",
+      "url": "https://open.spotify.com/track/3VLsdzHOFM9pyn79QTjiGJ"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-02",
+      "duration_ms": 145847,
+      "name": "I Can\u2019t Sleep",
+      "url": "https://open.spotify.com/track/1hHJaam6wi4WJPDTaiLNyP"
+    },
+    {
+      "album": {
+        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+        "url": "https://open.spotify.com/album/749GleHYU2wv0BNApkzE66"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173379,
+      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+      "url": "https://open.spotify.com/track/35WYZ6YW1I3jRomO9fuhEa"
+    },
+    {
+      "album": {
+        "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+        "url": "https://open.spotify.com/album/3uAsKIks1rWzarn1anRo4K"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-03-26",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 173379,
+      "name": "I Remember (feat. Roddy Ricch & Kodak Black)",
+      "url": "https://open.spotify.com/track/7qAwnjc2qPbpK1gB4VRwXW"
+    },
+    {
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165760,
+      "name": "I Wish",
+      "url": "https://open.spotify.com/track/0FmKMGrNrrf12GmmCYh2eJ"
+    },
+    {
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130929,
+      "name": "If I'm Lyin', I'm Flyin'",
+      "url": "https://open.spotify.com/track/7HdNB8nvJOBwHa8hIkzvxp"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-19",
+      "duration_ms": 217430,
+      "name": "If You Ever",
+      "url": "https://open.spotify.com/track/0V21OKHI5LkeRKCxfFkHUN"
+    },
+    {
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176091,
+      "name": "Institution",
+      "url": "https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ"
+    },
+    {
+      "album": {
+        "name": "Lil Durk Presents: Loyal Bros 2",
+        "url": "https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL"
+      },
+      "artists": [
+        {
+          "name": "Doodie Lo",
+          "url": "https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-20",
+      "duration_ms": 146440,
+      "name": "ISTG, Pt. 2 (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/0RP6HrnzkgcmDjoa3B6eIA"
+    },
+    {
+      "album": {
+        "name": "GOD DID",
+        "url": "https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-14",
+      "duration_ms": 170197,
+      "name": "IT AIN'T SAFE (feat. Nardo Wick & Kodak Black)",
+      "url": "https://open.spotify.com/track/2d4XHh61JufZpNdm88TXXx"
+    },
+    {
+      "album": {
+        "name": "It's All on U",
+        "url": "https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy"
+      },
+      "artists": [
+        {
+          "name": "Icewear Vezzo",
+          "url": "https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-22",
+      "duration_ms": 166265,
+      "name": "It's All on U",
+      "url": "https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3"
+    },
+    {
+      "album": {
+        "name": "I\u2019m So Awesome",
+        "url": "https://open.spotify.com/album/4D0WwN3ZWPdVqGLYRQw7pd"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-25",
+      "duration_ms": 187202,
+      "name": "I\u2019m So Awesome",
+      "url": "https://open.spotify.com/track/5tzEcVk8jFSBhTrO0ZYJdZ"
+    },
+    {
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "album": {
+        "name": "King Snipe",
+        "url": "https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214593,
+      "name": "King Snipe",
+      "url": "https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2023-02-09",
+      "duration_ms": 133950,
+      "name": "Kodak The Boss",
+      "url": "https://open.spotify.com/track/7j7GamsurrUCCPiHvBoxSZ"
+    },
+    {
+      "album": {
+        "name": "When I Was Dead",
+        "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165765,
+      "name": "Lemme See",
+      "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
+    },
+    {
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-01",
+      "duration_ms": 200781,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/63gfBuiVoBne4Xhvb5H7d5"
+    },
+    {
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200097,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/788NX6uCNEVuZW8x5BkQqM"
+    },
+    {
+      "album": {
+        "name": "Live Life Die Faster (with Kodak Black)",
+        "url": "https://open.spotify.com/album/2iAZ2v69xjK5mz9ndKywVr"
+      },
+      "artists": [
+        {
+          "name": "Hotboii",
+          "url": "https://open.spotify.com/artist/220xv2aB3dsGxaJI1gGs7l"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-08",
+      "duration_ms": 180002,
+      "name": "Live Life Die Faster (with Kodak Black)",
+      "url": "https://open.spotify.com/track/79TJ0JoYhZYJLEozMVrT0T"
+    },
+    {
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239146,
+      "name": "Love & War",
+      "url": "https://open.spotify.com/track/293mQGfVwgXIOdA1GpiwAt"
+    },
+    {
+      "album": {
+        "name": "Mopstick (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/1RuIdS69hrZ6ToCFOIRjYK"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-13",
+      "duration_ms": 216414,
+      "name": "Mopstick (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/5FAQb7Cfps6JCYl2ZjtWHO"
+    },
+    {
+      "album": {
+        "name": "They Got Amnesia",
+        "url": "https://open.spotify.com/album/0dMCnf42bF5BSLhDr2EMyl"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-11-16",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 216414,
+      "name": "Mopstick (with Kodak Black)",
+      "url": "https://open.spotify.com/track/2i3y5eG5Brkb96v5ZslpXS"
+    },
+    {
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
+    },
+    {
+      "album": {
+        "name": "No Flockin'",
+        "url": "https://open.spotify.com/album/12YTH28wiBXQ16gvWOCMLU"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165290,
+      "name": "No Flockin'",
+      "url": "https://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4"
+    },
+    {
+      "album": {
+        "name": "No Love For A Thug",
+        "url": "https://open.spotify.com/album/0pYqfL98U56ocG8caO8uBe"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-04-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-19",
+      "duration_ms": 305366,
+      "name": "No Love For A Thug",
+      "url": "https://open.spotify.com/track/2IyD3ugrNb0LIV4x2RyHIP"
+    },
+    {
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265120,
+      "name": "No More (feat. Travis Scott, Kodak Black & 21 Savage)",
+      "url": "https://open.spotify.com/track/42k9e2hgl98IdgkXLg4pxs"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "album": {
+        "name": "Heartbreak on a Full Moon",
+        "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293434,
+      "name": "Pills & Automobiles (feat. Yo Gotti, A Boogie Wit Da Hoodie & Kodak Black)",
+      "url": "https://open.spotify.com/track/5gx2E5aIXMRBellPZW1up5"
+    },
+    {
+      "album": {
+        "name": "Pimpin' Ain't Eazy",
+        "url": "https://open.spotify.com/album/5kltcGxaQ7kpkDx05qJlZ0"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-12",
+      "duration_ms": 177000,
+      "name": "Pimpin Ain't Eazy",
+      "url": "https://open.spotify.com/track/5FxKZ4IajYIRDjAWAboiB4"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-31",
+      "duration_ms": 191977,
+      "name": "Pistolz & Pearlz",
+      "url": "https://open.spotify.com/track/43aEtkzRaDyQi1FR0Sc41u"
+    },
+    {
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
+    },
+    {
+      "album": {
+        "name": "Rocky Road (with Kodak Black)",
+        "url": "https://open.spotify.com/album/4K2dNqc9VgacrNtJ8pOWer"
+      },
+      "artists": [
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-13",
+      "duration_ms": 178948,
+      "name": "Rocky Road (with Kodak Black)",
+      "url": "https://open.spotify.com/track/7quesdAv9sxXO0oUOApmIo"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213132,
+      "name": "Roll in Peace (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
+    },
+    {
+      "album": {
+        "name": "Senseless",
+        "url": "https://open.spotify.com/album/1Kb6HgD9hML4dsu2meKGqJ"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143857,
+      "name": "Senseless",
+      "url": "https://open.spotify.com/track/3zzzVTaq2evjtfz4SryuaE"
+    },
+    {
+      "album": {
+        "name": "Shaka Laka (feat. Kodak Black & Yailin la Mas Viral)",
+        "url": "https://open.spotify.com/album/7LkAq5J9fXsl7OGLOBfMU5"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 177028,
+      "name": "Shaka Laka (feat. Kodak Black & Yailin la Mas Viral)",
+      "url": "https://open.spotify.com/track/1ESr4YCDSyToO2fcRq4IDF"
+    },
+    {
+      "album": {
+        "name": "SHAKA LAKA (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/7A7J7WdAhJZBr8VfV4QFtd"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177028,
+      "name": "SHAKA LAKA (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/4thyim0b9fKcBByGgtnqHF"
+    },
+    {
+      "album": {
+        "name": "Institution",
+        "url": "https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183562,
+      "name": "Shake Back",
+      "url": "https://open.spotify.com/track/7HbJiOw9TePjIcvvHCeWRc"
+    },
+    {
+      "album": {
+        "name": "Mr. Morale & The Big Steppers",
+        "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220779,
+      "name": "Silent Hill",
+      "url": "https://open.spotify.com/track/3lzUeaCbcCDB5IXYfqWRlF"
+    },
+    {
+      "album": {
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224864,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
+    },
+    {
+      "album": {
+        "name": "Kutthroat Bill: Vol. 1",
+        "url": "https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-16",
+      "duration_ms": 133874,
+      "name": "Slay Like Santa",
+      "url": "https://open.spotify.com/track/3Kj9pwFxtYXEQR4ZsZg3NU"
+    },
+    {
+      "album": {
+        "name": "Slidin' (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/7mi906Ss21stvJEPrTz1ZT"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-14",
+      "duration_ms": 156300,
+      "name": "Slidin' (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/173ff06by7Ujur3An4cHWf"
+    },
+    {
+      "album": {
+        "name": "Closure",
+        "url": "https://open.spotify.com/album/1ikdpE0fWB9UkZG0FvvklA"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-20",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-22",
+      "duration_ms": 135096,
+      "name": "Some Time Away",
+      "url": "https://open.spotify.com/track/09rSKHw4oIFRgR9I4VuUG9"
+    },
+    {
+      "album": {
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151637,
+      "name": "Spin",
+      "url": "https://open.spotify.com/track/3F0RMjxSY9YeH8p5SylbyF"
+    },
+    {
+      "album": {
+        "name": "LLNM2",
+        "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2022-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276835,
+      "name": "Sufro",
+      "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
+    },
+    {
+      "album": {
+        "name": "Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies",
+        "url": "https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200547,
+      "name": "Super Gremlin",
+      "url": "https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-06",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-22",
+      "duration_ms": 146823,
+      "name": "That For Real",
+      "url": "https://open.spotify.com/track/3DG8A4l8nOWDouQrfu8t1V"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196113,
+      "name": "There He Go",
+      "url": "https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz"
+    },
+    {
+      "album": {
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196336,
+      "name": "Too Many Years",
+      "url": "https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169344,
+      "name": "Transportin'",
+      "url": "https://open.spotify.com/track/1WIZiOuNO3woKfdlSK2gNn"
+    },
+    {
+      "album": {
+        "name": "Pistolz & Pearlz",
+        "url": "https://open.spotify.com/album/5RHAybGQ8yuZHBd45DJ05b"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-10",
+      "duration_ms": 208939,
+      "name": "Tryna Figure Why",
+      "url": "https://open.spotify.com/track/3BfNIW0GIh5V56rhaMUSpe"
+    },
+    {
+      "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268186,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
+    },
+    {
+      "album": {
+        "name": "Back For Everything",
+        "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-05",
+      "duration_ms": 186677,
+      "name": "Usain Boo",
+      "url": "https://open.spotify.com/track/4N20NYwhJRArlzEhdCKXka"
+    },
+    {
+      "album": {
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2024-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 418627,
+      "name": "Versatile",
+      "url": "https://open.spotify.com/track/5R0gQ30puwU1ffBH6ccEwq"
+    },
+    {
+      "album": {
+        "name": "Wake Up in the Sky",
+        "url": "https://open.spotify.com/album/7mkyc2BUahNfo0orKzqNGB"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204664,
+      "name": "Wake Up in the Sky",
+      "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
+    },
+    {
+      "album": {
+        "name": "Walk/Spin",
+        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166039,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+    },
+    {
+      "album": {
+        "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
+        "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/231JL1zyH8JlEvYkCymu1K"
+    },
+    {
+      "album": {
+        "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+        "url": "https://open.spotify.com/album/3H6onVGHhKCNYV3ctLLMBf"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-03",
+      "duration_ms": 155495,
+      "name": "Wasted (feat. Kodak Black & Koe Wetzel)",
+      "url": "https://open.spotify.com/track/7ndDjjFDzw6Q68TmIzgHep"
+    },
+    {
+      "album": {
+        "name": "Water / Drowning",
+        "url": "https://open.spotify.com/album/2VOATVRdEQXaOHpjQkFE0L"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-09",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-11",
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/3J8uSfhmDeIgWrzxUAd8rm"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-06-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA"
+    },
+    {
+      "album": {
+        "name": "Me vs. Myself",
+        "url": "https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-12-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-18",
+      "duration_ms": 206769,
+      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
+      "url": "https://open.spotify.com/track/6yDPFrHZLQbQa9Itd2J4Gp"
+    },
+    {
+      "album": {
+        "name": "What It Is (Block Boy) (with Kodak Black)",
+        "url": "https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2023-03-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223343,
+      "name": "What It Is (Block Boy) (with Kodak Black)",
+      "url": "https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE"
+    },
+    {
+      "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": "2023-03-18",
+      "duration_ms": 156112,
+      "name": "Z Look Jamaican",
+      "url": "https://open.spotify.com/track/2Lw5B2B1KsssGf5NbjDeyj"
+    },
+    {
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2022-10-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228759,
+      "name": "ZEZE (feat. Travis Scott & Offset)",
+      "url": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2oTcyc"
 }

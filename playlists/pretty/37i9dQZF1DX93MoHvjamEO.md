@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93MoHvjamEO.md) - [plain]
 
 > Featuring Papi Souza, Quevedo, Jhayco & more\. Find this week's Fuego mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX8sljIJzI0oo?si=aa97e696f74241eb">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,164 likes - 25 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,197 likes - 25 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93MoHvjamEO.md) - [plain]
 | 16 | [No Me Hables de Amor](https://open.spotify.com/track/0UciVcpm66DLmnMJ9w6HzL) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [No Me Hables de Amor](https://open.spotify.com/album/5ar0gCfoPnD3g64IcqAO98) | 3:21 |
 | 17 | [Te Encontré](https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Te Encontré](https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9) | 3:42 |
 | 18 | [Britney](https://open.spotify.com/track/0HsVmdaCFtlbgJVf8EFF3k) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [Britney](https://open.spotify.com/album/0somiWz8sfv6oaZgCZdLyj) | 1:16 |
-| 19 | [XQ TAN SOLA?](https://open.spotify.com/track/5DoGJMtInwrPZrzyKnuqMi) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [XQ TAN SOLA?](https://open.spotify.com/album/3Yd8cEiwelgcJrxPi6YEWE) | 3:20 |
+| 19 | [XQ TAN SOLA?](https://open.spotify.com/track/42wzqKYpAInONWmT0FtiIj) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [GIRO 180](https://open.spotify.com/album/7EGR2zSMgUJDWWEvxT8bsJ) | 3:20 |
 | 20 | [Perreándote](https://open.spotify.com/track/5RgBJX31NEVDcGUSMGBWWO) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Reggaetón Sex](https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif) | 3:26 |
 | 21 | [Bellako Triste](https://open.spotify.com/track/2qhH0XlKiIYJpHkx1HzLmC) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Nekxum](https://open.spotify.com/artist/4gZwJrNP5NG3KGS2dRcS5c) | [Santuario](https://open.spotify.com/album/3uo1QU42J1TEctlj9EujvD) | 2:35 |
 | 22 | [En Su Nota](https://open.spotify.com/track/7MBSL396aTUTolS3jeI6lC) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [En Su Nota](https://open.spotify.com/album/48GYgcbW6eNW8us6VsWluS) | 2:47 |

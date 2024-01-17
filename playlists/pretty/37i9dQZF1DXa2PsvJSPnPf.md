@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,759 likes - 148 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,618 likes - 148 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,13 +12,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 2 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 3 | [Hurts so Good](https://open.spotify.com/track/0pERFI5FC1bCTH0n6EvyWo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:55 |
 | 4 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 |
-| 5 | [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 |
-| 6 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 |
-| 7 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
-| 8 | [Heart is the Hero](https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Heart is the Hero](https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS) | 2:56 |
-| 9 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 |
-| 10 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 |
-| 11 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
+| 5 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
+| 6 | [Help Me Make It Through the Night](https://open.spotify.com/track/0m8AwvB9ux2DXJETxOTIbd) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Rustin' In The Rain](https://open.spotify.com/album/7rSObXhKazzmeZFHuGX1mx) | 4:08 |
+| 7 | [Rhododendron \- Alt Version](https://open.spotify.com/track/3BztjA6CxeX7vAAzQ92uLL) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron \(Alt Version\)](https://open.spotify.com/album/59EGA2TGxXHE6lVXFnybKp) | 5:22 |
+| 8 | [Crooked Tree](https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:52 |
+| 9 | [Heart is the Hero](https://open.spotify.com/track/4ZufgwcvuH5BLMOmOVPQy8) | [The Wood Brothers](https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT) | [Heart is the Hero](https://open.spotify.com/album/7agPCGrKm2ARoQZFVx1qRS) | 2:56 |
+| 10 | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/track/7pNCw2WPlLImrZSSI3tXC8) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Mornings With You \(with Kaitlin Butts\)](https://open.spotify.com/album/1UkSXpE3GpdEPenT83tsnW) | 3:43 |
+| 11 | [Clover On The Hillside](https://open.spotify.com/track/0LzBbaVoutPab71K2C5L03) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Clover On The Hillside](https://open.spotify.com/album/07lozbMVgjcKVQKhHkk976) | 2:21 |
 | 12 | [Winter's Come and Gone \- from The Hunger Games: The Ballad of Songbirds & Snakes](https://open.spotify.com/track/7vN6yDVTOphQUXJ1leQgPB) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [The Hunger Games: The Ballad of Songbirds & Snakes \(Music From & Inspired By\)](https://open.spotify.com/album/2yHTMVFGHODKJOjVL1hLgk) | 2:49 |
 | 13 | [In His Arms](https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Jon Randall](https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX) | [In His Arms](https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV) | 2:30 |
 | 14 | [Free \(Not Afraid to Die\)](https://open.spotify.com/track/6aa9jJaR6doT20dBnO9wkU) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Strangers No More](https://open.spotify.com/album/5tnxqWDBONuqqZ3vLSUSJV) | 4:30 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 147 | [You're Free Now \(feat\. Sarah Jarosz\)](https://open.spotify.com/track/271g7BFvo00WN1YN78m0JG) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [da Costa \(Deluxe\)](https://open.spotify.com/album/2VH2F0wlJCfm7wuUYYD87E) | 4:19 |
 | 148 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
 
-Snapshot ID: `MCxiZWJjZGYyMWE2ODFhY2Q3OTRhZTc2ZjYxYTZiY2I5NjYzZWE4YmE4`
+Snapshot ID: `MCxiNmZhZTAxYzE3NzJlOGJmNmEyZjM0NDk4YzQ0YWZkYmRkMzY4ZWY1`

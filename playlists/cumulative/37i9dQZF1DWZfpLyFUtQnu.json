@@ -197,6 +197,28 @@
     },
     {
       "album": {
+        "name": "DEMAIN",
+        "url": "https://open.spotify.com/album/3BvYRp6X5IiHbzDtdOUg7m"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199680,
+      "name": "DEMAIN",
+      "url": "https://open.spotify.com/track/3PLI39VQCqmce71B0en2SK"
+    },
+    {
+      "album": {
         "name": "Effet miroir",
         "url": "https://open.spotify.com/album/5aM8gkw3dJQ7XSc2Uq8g8a"
       },
@@ -323,6 +345,24 @@
     },
     {
       "album": {
+        "name": "n\u00b09",
+        "url": "https://open.spotify.com/album/4uBYBjrLksYgMtkUqSO10g"
+      },
+      "artists": [
+        {
+          "name": "Jenifer",
+          "url": "https://open.spotify.com/artist/7p0bICJNx2HM4jS28qexvv"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280840,
+      "name": "En attendant",
+      "url": "https://open.spotify.com/track/5mOU0uqJsqx2XVTvcGgMfD"
+    },
+    {
+      "album": {
         "name": "Et Bam",
         "url": "https://open.spotify.com/album/1oKPZz10joNRUeoG3qFKD8"
       },
@@ -446,6 +486,24 @@
       "duration_ms": 263066,
       "name": "Femmes... Je vous aime",
       "url": "https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR"
+    },
+    {
+      "album": {
+        "name": "Histoires vraies",
+        "url": "https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp"
+      },
+      "artists": [
+        {
+          "name": "chien noir",
+          "url": "https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "Histoire vraie",
+      "url": "https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g"
     },
     {
       "album": {
@@ -670,7 +728,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 248373,
       "name": "L'ombre et la lumi\u00e8re",
       "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
@@ -912,7 +970,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 207040,
       "name": "Les p'tites jolies choses",
       "url": "https://open.spotify.com/track/79X8l247aT8r4cKON18nMX"
@@ -1194,7 +1252,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 188408,
       "name": "Premier amour",
       "url": "https://open.spotify.com/track/7GNYp8iyvgLSqgSLLndu1P"
@@ -1396,7 +1454,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 182040,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/7B6z0HrxAByztLfgzkoxBw"
@@ -1522,7 +1580,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 271320,
       "name": "Ta reine - Version orchestrale",
       "url": "https://open.spotify.com/track/4hJljAGAHwfbeCx4y3UpgW"

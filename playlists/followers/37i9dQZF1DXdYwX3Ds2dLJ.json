@@ -1,580 +1,2113 @@
 {
-  "2022-05-30": 60588,
-  "2022-05-31": 60610,
-  "2022-06-01": 60686,
-  "2022-06-02": 60684,
-  "2022-06-03": 60723,
-  "2022-06-04": 60760,
-  "2022-06-05": 60792,
-  "2022-06-06": 60839,
-  "2022-06-07": 60878,
-  "2022-06-08": 60914,
-  "2022-06-09": 60961,
-  "2022-06-10": 61018,
-  "2022-06-11": 61055,
-  "2022-06-12": 61098,
-  "2022-06-13": 61139,
-  "2022-06-14": 61173,
-  "2022-06-15": 61225,
-  "2022-06-16": 61267,
-  "2022-06-17": 61311,
-  "2022-06-18": 61362,
-  "2022-06-19": 61467,
-  "2022-06-20": 61467,
-  "2022-06-21": 61516,
-  "2022-06-22": 61608,
-  "2022-06-23": 61608,
-  "2022-06-24": 61641,
-  "2022-06-25": 61686,
-  "2022-06-26": 61713,
-  "2022-06-27": 61748,
-  "2022-06-28": 61799,
-  "2022-06-29": 61834,
-  "2022-06-30": 61872,
-  "2022-07-01": 61910,
-  "2022-07-02": 61948,
-  "2022-07-03": 61997,
-  "2022-07-04": 62039,
-  "2022-07-05": 62084,
-  "2022-07-06": 62123,
-  "2022-07-07": 62178,
-  "2022-07-08": 62229,
-  "2022-07-09": 62271,
-  "2022-07-10": 62299,
-  "2022-07-11": 62345,
-  "2022-07-12": 62486,
-  "2022-07-13": 62577,
-  "2022-07-14": 62654,
-  "2022-07-15": 62701,
-  "2022-07-16": 62748,
-  "2022-07-17": 62807,
-  "2022-07-18": 62872,
-  "2022-07-19": 62950,
-  "2022-07-20": 63038,
-  "2022-07-21": 63098,
-  "2022-07-22": 63145,
-  "2022-07-23": 63181,
-  "2022-07-24": 63235,
-  "2022-07-25": 63288,
-  "2022-07-26": 63338,
-  "2022-07-27": 63402,
-  "2022-07-28": 63447,
-  "2022-07-29": 63487,
-  "2022-07-30": 63589,
-  "2022-07-31": 63589,
-  "2022-08-01": 63631,
-  "2022-08-02": 63716,
-  "2022-08-03": 63716,
-  "2022-08-04": 63776,
-  "2022-08-05": 63805,
-  "2022-08-06": 63838,
-  "2022-08-07": 63875,
-  "2022-08-08": 63919,
-  "2022-08-09": 63950,
-  "2022-08-10": 63998,
-  "2022-08-11": 64025,
-  "2022-08-12": 64053,
-  "2022-08-13": 64105,
-  "2022-08-14": 64137,
-  "2022-08-15": 64190,
-  "2022-08-16": 64236,
-  "2022-08-17": 64270,
-  "2022-08-18": 64300,
-  "2022-08-19": 64341,
-  "2022-08-20": 64367,
-  "2022-08-21": 64399,
-  "2022-08-22": 64451,
-  "2022-08-23": 64508,
-  "2022-08-24": 64545,
-  "2022-08-25": 64576,
-  "2022-08-26": 64622,
-  "2022-08-27": 64670,
-  "2022-08-28": 64719,
-  "2022-08-29": 64751,
-  "2022-08-30": 64740,
-  "2022-08-31": 64682,
-  "2022-09-01": 64634,
-  "2022-09-02": 64579,
-  "2022-09-03": 64463,
-  "2022-09-04": 64418,
-  "2022-09-05": 64428,
-  "2022-09-06": 64471,
-  "2022-09-07": 64499,
-  "2022-09-09": 64569,
-  "2022-09-10": 64605,
-  "2022-09-11": 64659,
-  "2022-09-12": 64693,
-  "2022-09-13": 64723,
-  "2022-09-15": 64763,
-  "2022-09-16": 64795,
-  "2022-09-17": 64828,
-  "2022-09-18": 64865,
-  "2022-09-19": 64884,
-  "2022-09-20": 64927,
-  "2022-09-21": 64941,
-  "2022-09-22": 64971,
-  "2022-09-23": 65001,
-  "2022-09-24": 65022,
-  "2022-09-25": 65064,
-  "2022-09-26": 65092,
-  "2022-09-27": 65118,
-  "2022-09-28": 65144,
-  "2022-09-29": 65164,
-  "2022-09-30": 65203,
-  "2022-10-01": 65231,
-  "2022-10-02": 65253,
-  "2022-10-03": 65274,
-  "2022-10-04": 65303,
-  "2022-10-05": 65321,
-  "2022-10-06": 65344,
-  "2022-10-07": 65343,
-  "2022-10-08": 65365,
-  "2022-10-09": 65409,
-  "2022-10-10": 65414,
-  "2022-10-11": 65431,
-  "2022-10-12": 65467,
-  "2022-10-13": 65483,
-  "2022-10-14": 65495,
-  "2022-10-15": 65520,
-  "2022-10-16": 65535,
-  "2022-10-17": 65578,
-  "2022-10-18": 65629,
-  "2022-10-19": 65649,
-  "2022-10-20": 65674,
-  "2022-10-21": 65701,
-  "2022-10-22": 65725,
-  "2022-10-23": 65740,
-  "2022-10-24": 65775,
-  "2022-10-25": 65797,
-  "2022-10-26": 65829,
-  "2022-10-27": 65830,
-  "2022-10-28": 65860,
-  "2022-10-29": 65885,
-  "2022-10-30": 65909,
-  "2022-10-31": 65944,
-  "2022-11-01": 65968,
-  "2022-11-02": 65991,
-  "2022-11-03": 66027,
-  "2022-11-04": 66073,
-  "2022-11-05": 66098,
-  "2022-11-06": 66127,
-  "2022-11-07": 66138,
-  "2022-11-08": 66163,
-  "2022-11-09": 66185,
-  "2022-11-10": 66204,
-  "2022-11-11": 66248,
-  "2022-11-12": 66284,
-  "2022-11-13": 66305,
-  "2022-11-14": 66344,
-  "2022-11-15": 66382,
-  "2022-11-16": 66422,
-  "2022-11-17": 66443,
-  "2022-11-18": 66447,
-  "2022-11-19": 66450,
-  "2022-11-20": 66459,
-  "2022-11-21": 66491,
-  "2022-11-22": 66516,
-  "2022-11-23": 66548,
-  "2022-11-24": 66607,
-  "2022-11-25": 66672,
-  "2022-11-26": 66709,
-  "2022-11-27": 66737,
-  "2022-11-28": 66778,
-  "2022-11-29": 66805,
-  "2022-11-30": 66832,
-  "2022-12-01": 66881,
-  "2022-12-02": 66896,
-  "2022-12-03": 66968,
-  "2022-12-04": 66987,
-  "2022-12-05": 67031,
-  "2022-12-06": 67083,
-  "2022-12-07": 67094,
-  "2022-12-08": 67118,
-  "2022-12-09": 67169,
-  "2022-12-10": 67193,
-  "2022-12-11": 67214,
-  "2022-12-12": 67231,
-  "2022-12-13": 67263,
-  "2022-12-14": 67297,
-  "2022-12-15": 67334,
-  "2022-12-16": 67360,
-  "2022-12-17": 67405,
-  "2022-12-18": 67448,
-  "2022-12-19": 67466,
-  "2022-12-20": 67516,
-  "2022-12-21": 67516,
-  "2022-12-22": 67534,
-  "2022-12-24": 67580,
-  "2022-12-25": 67592,
-  "2022-12-26": 67620,
-  "2022-12-27": 67635,
-  "2022-12-28": 67655,
-  "2022-12-29": 67695,
-  "2022-12-30": 67739,
-  "2022-12-31": 67763,
-  "2023-01-01": 67795,
-  "2023-01-02": 67821,
-  "2023-01-03": 67842,
-  "2023-01-04": 67860,
-  "2023-01-05": 67880,
-  "2023-01-06": 67923,
-  "2023-01-07": 67976,
-  "2023-01-08": 67982,
-  "2023-01-09": 68006,
-  "2023-01-10": 68042,
-  "2023-01-11": 68068,
-  "2023-01-12": 68109,
-  "2023-01-13": 68150,
-  "2023-01-14": 68210,
-  "2023-01-15": 68205,
-  "2023-01-16": 68245,
-  "2023-01-17": 68264,
-  "2023-01-18": 68299,
-  "2023-01-19": 68325,
-  "2023-01-20": 68354,
-  "2023-01-21": 68380,
-  "2023-01-22": 68416,
-  "2023-01-23": 68456,
-  "2023-01-24": 68480,
-  "2023-01-25": 68501,
-  "2023-01-26": 68511,
-  "2023-01-27": 68541,
-  "2023-01-28": 68566,
-  "2023-01-29": 68578,
-  "2023-01-30": 68614,
-  "2023-01-31": 68614,
-  "2023-02-01": 68668,
-  "2023-02-02": 68685,
-  "2023-02-03": 68693,
-  "2023-02-04": 68736,
-  "2023-02-05": 68746,
-  "2023-02-06": 68769,
-  "2023-02-07": 68793,
-  "2023-02-08": 68841,
-  "2023-02-09": 68841,
-  "2023-02-10": 68856,
-  "2023-02-11": 68878,
-  "2023-02-12": 68920,
-  "2023-02-13": 68937,
-  "2023-02-14": 68937,
-  "2023-02-15": 68959,
-  "2023-02-16": 68977,
-  "2023-02-17": 68985,
-  "2023-02-18": 69040,
-  "2023-02-19": 69042,
-  "2023-02-20": 69066,
-  "2023-02-21": 69092,
-  "2023-02-22": 69109,
-  "2023-02-23": 69126,
-  "2023-02-24": 69156,
-  "2023-02-25": 69192,
-  "2023-02-26": 69202,
-  "2023-02-27": 69230,
-  "2023-02-28": 69230,
-  "2023-03-01": 69264,
-  "2023-03-02": 69283,
-  "2023-03-03": 69313,
-  "2023-03-04": 69337,
-  "2023-03-05": 69373,
-  "2023-03-06": 69373,
-  "2023-03-07": 69386,
-  "2023-03-08": 69414,
-  "2023-03-09": 69443,
-  "2023-03-10": 69467,
-  "2023-03-11": 69477,
-  "2023-03-12": 69496,
-  "2023-03-13": 69523,
-  "2023-03-14": 69545,
-  "2023-03-15": 69575,
-  "2023-03-16": 69601,
-  "2023-03-17": 69601,
-  "2023-03-18": 69645,
-  "2023-03-19": 69669,
-  "2023-03-20": 69688,
-  "2023-03-21": 69710,
-  "2023-03-22": 69742,
-  "2023-03-23": 69755,
-  "2023-03-24": 69755,
-  "2023-03-25": 69781,
-  "2023-03-26": 69785,
-  "2023-03-27": 69797,
-  "2023-03-28": 69804,
-  "2023-03-29": 69844,
-  "2023-03-30": 69884,
-  "2023-03-31": 69884,
-  "2023-04-01": 69903,
-  "2023-04-02": 69917,
-  "2023-04-03": 69945,
-  "2023-04-04": 69964,
-  "2023-04-05": 69980,
-  "2023-04-06": 69993,
-  "2023-04-07": 70014,
-  "2023-04-09": 70041,
-  "2023-04-10": 70043,
-  "2023-04-11": 70089,
-  "2023-04-12": 70089,
-  "2023-04-13": 70104,
-  "2023-04-14": 70132,
-  "2023-04-15": 70148,
-  "2023-04-16": 70171,
-  "2023-04-17": 70191,
-  "2023-04-18": 70208,
-  "2023-04-19": 70241,
-  "2023-04-20": 70257,
-  "2023-04-21": 70277,
-  "2023-04-22": 70304,
-  "2023-04-23": 70322,
-  "2023-04-24": 70343,
-  "2023-04-25": 70355,
-  "2023-04-26": 70365,
-  "2023-04-27": 70394,
-  "2023-04-28": 70428,
-  "2023-04-29": 70454,
-  "2023-04-30": 70464,
-  "2023-05-01": 70482,
-  "2023-05-02": 70508,
-  "2023-05-03": 70522,
-  "2023-05-04": 70540,
-  "2023-05-05": 70546,
-  "2023-05-06": 70566,
-  "2023-05-07": 70582,
-  "2023-05-08": 70607,
-  "2023-05-09": 70631,
-  "2023-05-10": 70653,
-  "2023-05-11": 70685,
-  "2023-05-12": 70705,
-  "2023-05-13": 70724,
-  "2023-05-14": 70739,
-  "2023-05-15": 70757,
-  "2023-05-16": 70789,
-  "2023-05-17": 70815,
-  "2023-05-18": 70847,
-  "2023-05-19": 70875,
-  "2023-05-20": 70933,
-  "2023-05-21": 70933,
-  "2023-05-22": 70933,
-  "2023-05-23": 70981,
-  "2023-05-24": 71024,
-  "2023-05-25": 71029,
-  "2023-05-26": 71049,
-  "2023-05-27": 71061,
-  "2023-05-28": 71076,
-  "2023-05-29": 71076,
-  "2023-05-30": 71118,
-  "2023-05-31": 71137,
-  "2023-06-01": 71164,
-  "2023-06-02": 71176,
-  "2023-06-03": 71194,
-  "2023-06-04": 71222,
-  "2023-06-05": 71237,
-  "2023-06-06": 71246,
-  "2023-06-07": 71271,
-  "2023-06-08": 71277,
-  "2023-06-09": 71300,
-  "2023-06-10": 71310,
-  "2023-06-11": 71330,
-  "2023-06-12": 71352,
-  "2023-06-13": 71370,
-  "2023-06-14": 71387,
-  "2023-06-15": 71416,
-  "2023-06-16": 71432,
-  "2023-06-17": 71447,
-  "2023-06-18": 71471,
-  "2023-06-19": 71499,
-  "2023-06-20": 71520,
-  "2023-06-21": 71539,
-  "2023-06-22": 71571,
-  "2023-06-23": 71602,
-  "2023-06-24": 71622,
-  "2023-06-25": 71638,
-  "2023-06-26": 71648,
-  "2023-06-27": 71661,
-  "2023-06-28": 71686,
-  "2023-06-29": 71708,
-  "2023-06-30": 71740,
-  "2023-07-01": 71803,
-  "2023-07-02": 71803,
-  "2023-07-03": 71826,
-  "2023-07-04": 71844,
-  "2023-07-05": 71858,
-  "2023-07-06": 71908,
-  "2023-07-07": 71908,
-  "2023-07-08": 71920,
-  "2023-07-09": 71944,
-  "2023-07-10": 71966,
-  "2023-07-11": 71972,
-  "2023-07-12": 71984,
-  "2023-07-13": 71996,
-  "2023-07-14": 72036,
-  "2023-07-15": 72048,
-  "2023-07-16": 72075,
-  "2023-07-17": 72096,
-  "2023-07-18": 72103,
-  "2023-07-19": 72130,
-  "2023-07-20": 72150,
-  "2023-07-21": 72172,
-  "2023-07-22": 72185,
-  "2023-07-23": 72205,
-  "2023-07-24": 72217,
-  "2023-07-25": 72241,
-  "2023-07-26": 72254,
-  "2023-07-27": 72268,
-  "2023-07-28": 72278,
-  "2023-07-29": 72286,
-  "2023-07-30": 72292,
-  "2023-07-31": 72303,
-  "2023-08-01": 72322,
-  "2023-08-02": 72334,
-  "2023-08-03": 72364,
-  "2023-08-04": 72386,
-  "2023-08-05": 72395,
-  "2023-08-06": 72434,
-  "2023-08-07": 72434,
-  "2023-08-08": 72453,
-  "2023-08-09": 72483,
-  "2023-08-10": 72498,
-  "2023-08-11": 72515,
-  "2023-08-12": 72538,
-  "2023-08-13": 72554,
-  "2023-08-14": 72576,
-  "2023-08-15": 72614,
-  "2023-08-16": 72614,
-  "2023-08-17": 72629,
-  "2023-08-18": 72644,
-  "2023-08-19": 72652,
-  "2023-08-20": 72663,
-  "2023-08-21": 72698,
-  "2023-08-22": 72719,
-  "2023-08-23": 72762,
-  "2023-08-24": 72773,
-  "2023-08-25": 72786,
-  "2023-08-26": 72812,
-  "2023-08-27": 72821,
-  "2023-08-28": 72833,
-  "2023-08-29": 72849,
-  "2023-08-30": 72861,
-  "2023-08-31": 72868,
-  "2023-09-01": 72896,
-  "2023-09-02": 72896,
-  "2023-09-03": 72904,
-  "2023-09-04": 72904,
-  "2023-09-05": 72932,
-  "2023-09-06": 72948,
-  "2023-09-07": 72948,
-  "2023-09-08": 72948,
-  "2023-09-09": 73010,
-  "2023-09-10": 73034,
-  "2023-09-11": 73055,
-  "2023-09-12": 73055,
-  "2023-09-13": 73093,
-  "2023-09-14": 73093,
-  "2023-09-15": 73135,
-  "2023-09-16": 73168,
-  "2023-09-17": 73168,
-  "2023-09-18": 73168,
-  "2023-09-19": 73230,
-  "2023-09-20": 73258,
-  "2023-09-21": 73292,
-  "2023-09-22": 73293,
-  "2023-09-23": 73293,
-  "2023-09-24": 73293,
-  "2023-09-25": 73293,
-  "2023-09-26": 73384,
-  "2023-09-27": 73384,
-  "2023-09-28": 73405,
-  "2023-09-29": 73415,
-  "2023-09-30": 73415,
-  "2023-10-01": 73455,
-  "2023-10-02": 73473,
-  "2023-10-03": 73479,
-  "2023-10-04": 73493,
-  "2023-10-05": 73520,
-  "2023-10-06": 73539,
-  "2023-10-07": 73539,
-  "2023-10-08": 73578,
-  "2023-10-09": 73578,
-  "2023-10-10": 73578,
-  "2023-10-11": 73578,
-  "2023-10-12": 73578,
-  "2023-10-13": 73561,
-  "2023-10-14": 73561,
-  "2023-10-15": 73561,
-  "2023-10-16": 73561,
-  "2023-10-17": 73561,
-  "2023-10-18": 73561,
-  "2023-10-19": 73561,
-  "2023-10-20": 73561,
-  "2023-10-21": 73561,
-  "2023-10-22": 73561,
-  "2023-10-23": 73561,
-  "2023-10-24": 73561,
-  "2023-10-25": 73561,
-  "2023-10-26": 73561,
-  "2023-10-27": 73561,
-  "2023-10-28": 73561,
-  "2023-10-29": 73561,
-  "2023-10-30": 73561,
-  "2023-10-31": 73561,
-  "2023-11-01": 73561,
-  "2023-11-02": 73561,
-  "2023-11-03": 73561,
-  "2023-11-04": 73561,
-  "2023-11-05": 73561,
-  "2023-11-06": 73561,
-  "2023-11-07": 73561,
-  "2023-11-08": 73561,
-  "2023-11-09": 73561,
-  "2023-11-10": 73561,
-  "2023-11-11": 73867,
-  "2023-11-12": 73867,
-  "2023-11-13": 73867,
-  "2023-11-14": 73867,
-  "2023-11-15": 73867,
-  "2023-11-16": 73867,
-  "2023-11-17": 73936,
-  "2023-11-18": 73936,
-  "2023-11-19": 73936,
-  "2023-11-20": 73936,
-  "2023-11-21": 73936,
-  "2023-11-22": 73936,
-  "2023-11-23": 73974,
-  "2023-11-24": 73974,
-  "2023-11-25": 73974,
-  "2023-11-26": 73974,
-  "2023-11-27": 73974,
-  "2023-11-28": 73974,
-  "2023-11-29": 73974,
-  "2023-11-30": 73974,
-  "2023-12-01": 73974,
-  "2023-12-02": 73974,
-  "2023-12-03": 73974,
-  "2023-12-04": 73974,
-  "2023-12-05": 73974,
-  "2023-12-06": 73974,
-  "2023-12-07": 73974,
-  "2023-12-08": 73974,
-  "2023-12-09": 73974,
-  "2023-12-10": 73974,
-  "2023-12-11": 73974,
-  "2023-12-12": 73974,
-  "2023-12-13": 73974,
-  "2023-12-14": 74167,
-  "2023-12-15": 74179,
-  "2023-12-16": 74183,
-  "2023-12-17": 74208,
-  "2023-12-18": 74226,
-  "2023-12-19": 74218,
-  "2023-12-20": 74234,
-  "2023-12-21": 74240,
-  "2023-12-22": 74252,
-  "2023-12-23": 74264,
-  "2023-12-24": 74277,
-  "2023-12-25": 74284,
-  "2023-12-26": 74299,
-  "2023-12-27": 74318,
-  "2023-12-30": 74354,
-  "2023-12-31": 74364,
-  "2024-01-01": 74372,
-  "2024-01-02": 74374,
-  "2024-01-03": 74405
+  "2024-01-17": 74449,
+  "date_first_scraped": "2022-05-30",
+  "description": "Querencia is here !",
+  "name": "This Is CHUNG HA",
+  "tracks": [
+    {
+      "album": {
+        "name": "[Vol.13] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'",
+        "url": "https://open.spotify.com/album/5ramYGPYBoUgDzQHUml7xa"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205749,
+      "name": "A REUM DA UN I BYEOL",
+      "url": "https://open.spotify.com/track/5dcRsgrAojHRlS0BFpmbdj"
+    },
+    {
+      "album": {
+        "name": "Bloody Heart, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5mUdKodxv172t3aB4AhrWy"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213920,
+      "name": "A Star in the dawn",
+      "url": "https://open.spotify.com/track/3w0ICgCMIiWdvdgRs3suj2"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225263,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/4CGmwiG8f9QqMYz33fxSzs"
+    },
+    {
+      "album": {
+        "name": "Hotel Del Luna OST Part.6",
+        "url": "https://open.spotify.com/album/1U3PIfgY7PqNd7DDeX29P6"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 224283,
+      "name": "At the end",
+      "url": "https://open.spotify.com/track/4wX8BpSzIqqVjnf1X4RohI"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 187224,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1I6usdEjxE3AiMmQElFmFz"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187224,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/2lEmjaR8rQqsQqe6CLXtdz"
+    },
+    {
+      "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182586,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc"
+    },
+    {
+      "album": {
+        "name": "Street Woman Fighter(SWF) Special",
+        "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
+      },
+      "artists": [
+        {
+          "name": "LACHICA",
+          "url": "https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194053,
+      "name": "BAD GIRL (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 77499,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/3BTNnAzljnaWTyYxxsX7YR"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77499,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/6rKSqNmZad9VPfCQGHPojb"
+    },
+    {
+      "album": {
+        "name": "Be Yourself.newwav",
+        "url": "https://open.spotify.com/album/1qXEwadpMUuNwByliKWdbc"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205186,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/0LCd5cmqVkZy0koiWB4kb9"
+    },
+    {
+      "album": {
+        "name": "Be Yourself",
+        "url": "https://open.spotify.com/album/5JGB7sxVshd2D4WSSFTEXt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 205186,
+      "name": "Be Yourself",
+      "url": "https://open.spotify.com/track/509VlYwebt36Tn80X5y4vC"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179156,
+      "name": "Bicycle",
+      "url": "https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202731,
+      "name": "Bother Me",
+      "url": "https://open.spotify.com/track/3t4ozuyQ2OidVwuG08FHBn"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223101,
+      "name": "BYULHARANG (160504 + 170607)",
+      "url": "https://open.spotify.com/track/0Ric2EfmVW0Xlz35v5ucMx"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "California Dream",
+      "url": "https://open.spotify.com/track/3ulIMvCtahvAmAQHcCbDFs"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241093,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/3HxurUySp2zUcExO1zi6Y9"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 241093,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/6umBmcMxeC2kRbwCMNgElC"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194429,
+      "name": "Cherry Kisses",
+      "url": "https://open.spotify.com/track/0y4QB8wG2x2cNhyjajh7X0"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 194429,
+      "name": "Cherry Kisses",
+      "url": "https://open.spotify.com/track/4k1CSu3P92IxhRYkVQoIoV"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192484,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/6wV0zmb3delVInoCiWdEdZ"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192484,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/7Bt5HMVKtBOC5OaE7s3tym"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206347,
+      "name": "Chill",
+      "url": "https://open.spotify.com/track/4yWgTBYmJGnQKn63S9GUbf"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211880,
+      "name": "Come N Goes",
+      "url": "https://open.spotify.com/track/5FANrx0S8OLZrHiG8OpvVB"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 223934,
+      "name": "Cosmic Dust",
+      "url": "https://open.spotify.com/track/4aHhujtzdvNGcNxwkrwPvo"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223934,
+      "name": "Cosmic Dust",
+      "url": "https://open.spotify.com/track/5QxRlfnjp8ELreyz36iS5g"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175480,
+      "name": "Crazy Like You (feat. BIBI)",
+      "url": "https://open.spotify.com/track/0oUK4m2wNIBPfejlcB1N9k"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163799,
+      "name": "Demente (feat. Guaynaa)",
+      "url": "https://open.spotify.com/track/0NhHFXC06r5kK1rTUuOjxM"
+    },
+    {
+      "album": {
+        "name": "Demente (Spanish Version)",
+        "url": "https://open.spotify.com/album/46Veo9EtvuDO0UaNJN14Dv"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163799,
+      "name": "Demente - Spanish Version",
+      "url": "https://open.spotify.com/track/4pBsmktr55rBxprHFXIFy8"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213748,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/2tl26PSgyCVBLRimkQzmyD"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213748,
+      "name": "Do It",
+      "url": "https://open.spotify.com/track/5CBL6eFkYZEr5MshEN3MmL"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192735,
+      "name": "Dream of You (with R3HAB)",
+      "url": "https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa"
+    },
+    {
+      "album": {
+        "name": "Dream of You (with R3HAB)",
+        "url": "https://open.spotify.com/album/7v5VyW176u5m9aNcnvs2Cv"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 192735,
+      "name": "Dream of You (with R3HAB)",
+      "url": "https://open.spotify.com/track/5SEvxpu5ImOFOcXyeM8fbx"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 196460,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/00cYrRITgd7wOUEVQsnvQW"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196460,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/75h5JEOLUJzYH5836V3BQE"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222454,
+      "name": "Everybody Has",
+      "url": "https://open.spotify.com/track/2UcC7n5jG6QMtOE0Zxznpm"
+    },
+    {
+      "album": {
+        "name": "Everybody Has",
+        "url": "https://open.spotify.com/album/1Tpw7AJHbA2lh32bY1An0C"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 222454,
+      "name": "Everybody Has",
+      "url": "https://open.spotify.com/track/7AKAZxuCnOqkNFVsDxVzYn"
+    },
+    {
+      "album": {
+        "name": "FAST",
+        "url": "https://open.spotify.com/album/1tnhaRf0aRqIrmdyCPPIYc"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Mommy Son",
+          "url": "https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184199,
+      "name": "FAST",
+      "url": "https://open.spotify.com/track/5qz2JLETV6S7nWakMB37ki"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 195496,
+      "name": "Flourishing",
+      "url": "https://open.spotify.com/track/3ZBcChaDht7PCXsBzdVnBB"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195496,
+      "name": "Flourishing",
+      "url": "https://open.spotify.com/track/5kbYgt4pAhKsmoQJGCj33x"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186701,
+      "name": "Flying on Faith",
+      "url": "https://open.spotify.com/track/34v3Sm3KEc7DtGPP50jyrl"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 209002,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/2mBSRrNtebhFsOeH2uXMKc"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209002,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/3gNKQYq9kdTBWoqlGuDb6e"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232080,
+      "name": "Good Night My Princess",
+      "url": "https://open.spotify.com/track/12QoF5mIoZ1ZrVZFoc2Nwl"
+    },
+    {
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/7BYCvUqCaeIo2jgOl9iAGr"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 221813,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/0xq4ZTcmwBfkPGo4RRKmMe"
+    },
+    {
+      "album": {
+        "name": "Gotta Go",
+        "url": "https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221813,
+      "name": "Gotta Go",
+      "url": "https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68251,
+      "name": "Hands on Me",
+      "url": "https://open.spotify.com/track/067hR2ouOr91wKoMKh1K9E"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 68251,
+      "name": "Hands on Me",
+      "url": "https://open.spotify.com/track/1VXcP1JOGLcTeZa5nIZBIu"
+    },
+    {
+      "album": {
+        "name": "Luvpub OST Part.3",
+        "url": "https://open.spotify.com/album/0OsxPl82DJAyCJDKHzgTx7"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199018,
+      "name": "How about you",
+      "url": "https://open.spotify.com/track/31vk0g0BrHazdDVN3IP76u"
+    },
+    {
+      "album": {
+        "name": "Seoul Check-in OST Part 4",
+        "url": "https://open.spotify.com/album/4sBO5xbe5KXQGcAYD5Fe3z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211082,
+      "name": "It's only mine",
+      "url": "https://open.spotify.com/track/4NGt7PDTJE5rBWhU79kEBz"
+    },
+    {
+      "album": {
+        "name": "Where Stars Land Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0SOZrGopETCWW79NECLmqJ"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202904,
+      "name": "It\u2019s You",
+      "url": "https://open.spotify.com/track/1Du9g7ILOs5tgoEAPTxJM1"
+    },
+    {
+      "album": {
+        "name": "Where Stars Land, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2IHpMfAjV0W0eCYT1rHHFQ"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-05",
+      "duration_ms": 202904,
+      "name": "It\u2019s You",
+      "url": "https://open.spotify.com/track/4V0I40WRUwS3by62lZdsfM"
+    },
+    {
+      "album": {
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164053,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
+    },
+    {
+      "album": {
+        "name": "LA VIDA LOCA",
+        "url": "https://open.spotify.com/album/6rEdWTwLAfTNzSHSH7WHBi"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3P16F9giedxmc5238b66bo"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214782,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/1mW3V0DtbrEaUHgApt9Uql"
+    },
+    {
+      "album": {
+        "name": "LA VIDA LOCA",
+        "url": "https://open.spotify.com/album/6fdrYnxEO9t6gTNoigMA2L"
+      },
+      "artists": [
+        {
+          "name": "Babylon",
+          "url": "https://open.spotify.com/artist/3QnTGKc4YZ7KcGDpoagMBD"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 214782,
+      "name": "LALALA",
+      "url": "https://open.spotify.com/track/6ELQowPew55VfAKxlk7SJN"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202445,
+      "name": "Lemon (feat. Colde)",
+      "url": "https://open.spotify.com/track/0YxrpGXvAX6RsvdwRky6qN"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179760,
+      "name": "Louder",
+      "url": "https://open.spotify.com/track/4cZvTWcgPyHx2eZb0ruyX3"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Love Me Out Loud",
+      "url": "https://open.spotify.com/track/1zFT6Z2zT4Z4kUFnerd9lE"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/6Np41VY6robn2MhsVhl9Z2"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/0Hk7Aoxk7qdfj7bO83iL69"
+    },
+    {
+      "album": {
+        "name": "Blooming Blue",
+        "url": "https://open.spotify.com/album/0eATYdmnbZkslIYNCyTjhL"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 190920,
+      "name": "Love U",
+      "url": "https://open.spotify.com/track/4x5l1gjNcoBhhWBPEMo7OQ"
+    },
+    {
+      "album": {
+        "name": "Loveship",
+        "url": "https://open.spotify.com/album/6bwWdBKK3YGxgFJkZ8BYVQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259866,
+      "name": "Loveship",
+      "url": "https://open.spotify.com/track/6Hqk3UKf4uIrdbkJvwM7y3"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191805,
+      "name": "Luce Sicut Stellae",
+      "url": "https://open.spotify.com/track/6j2Tpn3qQS2BLPNwytsefO"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 185206,
+      "name": "Make a Wish",
+      "url": "https://open.spotify.com/track/7mDqPdyV1iNyj5ojSYoiFK"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185206,
+      "name": "Make a Wish",
+      "url": "https://open.spotify.com/track/7sN4v0ElVmdvdTkjT23y16"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197011,
+      "name": "Masquerade",
+      "url": "https://open.spotify.com/track/0AABiBAIYQCMpLI0ODbDDL"
+    },
+    {
+      "album": {
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/21Rd8YU3BI7P4PVtfsf9ji"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 149000,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/0vFKaaqXkeaaC2iGtKRGyt"
+    },
+    {
+      "album": {
+        "name": "My Friend",
+        "url": "https://open.spotify.com/album/0FBwobo00ZRJRZzPvpWRyj"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149000,
+      "name": "My Friend",
+      "url": "https://open.spotify.com/track/7KDBSl1GZqrf8wEuFpI3L0"
+    },
+    {
+      "album": {
+        "name": "My Lips Like Warm Coffee",
+        "url": "https://open.spotify.com/album/5RsWNGFreBwwHCHln5CL6D"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214120,
+      "name": "My Lips Like Warm Coffee",
+      "url": "https://open.spotify.com/track/3BWTaW69km35u55PN4O1UH"
+    },
+    {
+      "album": {
+        "name": "Dr. Romantic 2 OST Part.8",
+        "url": "https://open.spotify.com/album/2DrdSTXRKyA9C4QAZfaVoa"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 220963,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/5PacHWbW1rFLDt2r0Ilb4u"
+    },
+    {
+      "album": {
+        "name": "[Vol.14] You Hee yul's Sketchbook 10th Anniversary Project : 6th Voice 'Sketchbook X CHUNG HA'",
+        "url": "https://open.spotify.com/album/7mVJtnGHJWeb5bCBPBx5Mx"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259885,
+      "name": "NA YEOSS EU MYEON",
+      "url": "https://open.spotify.com/track/5VnJMPXdPc9p5arVZRHj8O"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200880,
+      "name": "Nuh-Uh",
+      "url": "https://open.spotify.com/track/0um5z70pgfggfEzkhQuspz"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69612,
+      "name": "Offset",
+      "url": "https://open.spotify.com/track/1oAeGMfEUvJI2cdiG5vURo"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 69612,
+      "name": "Offset",
+      "url": "https://open.spotify.com/track/5er13CHqB6ugUuM0kZdafs"
+    },
+    {
+      "album": {
+        "name": "Strong Woman Do Bong Soon, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7EL2MtMonriK4Tb2rh0IL5"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2024-01-10",
+      "duration_ms": 210429,
+      "name": "Pit-A-Pat",
+      "url": "https://open.spotify.com/track/2VI3BhUQPGgwFdkbnnZyEy"
+    },
+    {
+      "album": {
+        "name": "Strong Woman Do Bong Soon, Pt. 4 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/7LjpHP7KtIoRrqm5vtNel9"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210429,
+      "name": "Pit-A-Pat",
+      "url": "https://open.spotify.com/track/6fMSweBYKXSiY3mIbixgU7"
+    },
+    {
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/7tzaUrzvzQGfqvzsYzSODr"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 199524,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/1SdLedoEjrMRu5AnvK2EYk"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199524,
+      "name": "PLAY (feat. Changmo)",
+      "url": "https://open.spotify.com/track/6UM5HKVVm1cjOQhUJB4Ft3"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94313,
+      "name": "Querencia (Epilogue)",
+      "url": "https://open.spotify.com/track/6WKRso2bBkl1GR5ChIT8K1"
+    },
+    {
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/3eX0C672y1Y2HQTotIGU8V"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 201971,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/2lcyGwKCUslTENGuV23XSA"
+    },
+    {
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri"
+      },
+      "artists": [
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201971,
+      "name": "REMEDY",
+      "url": "https://open.spotify.com/track/3BcVxAJ4Ok0zbQ6nsu1No4"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/3XP4CrI6jHlo2ZJ9Jpn4EX"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 243440,
+      "name": "Remind of You",
+      "url": "https://open.spotify.com/track/5eMcOpk3WrWKCw8Ttw9i0a"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/4FO6zeenyyhew9sB4ErG9z"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/4xTqgN4ej7EHMd0gWXJdrI"
+    },
+    {
+      "album": {
+        "name": "Offset",
+        "url": "https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212136,
+      "name": "Roller Coaster",
+      "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
+    },
+    {
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/48A6N9jopPaR7RtwMiQysL"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176626,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/0avAEHS9V6lDcZ5yUgU6sT"
+    },
+    {
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/0yJV3VXMUvWWQGt27lojCu"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-08",
+      "duration_ms": 176626,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/0pAwtPm7uIMxXlmyvMaZ5g"
+    },
+    {
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/1A4uz12sqJwbiAOSyiKMVz"
+      },
+      "artists": [
+        {
+          "name": "Grizzly",
+          "url": "https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": "2023-01-01",
+      "duration_ms": 176626,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/5EI1PqfGKGTk746tL2rqft"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213164,
+      "name": "Snapping",
+      "url": "https://open.spotify.com/track/4IOxk5ep5ONrdlL0ZIy64v"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 213164,
+      "name": "Snapping",
+      "url": "https://open.spotify.com/track/7JCi89HGiURxFpr6NITY7q"
+    },
+    {
+      "album": {
+        "name": "One the Woman (Original Television Soundtrack, Pt. 3)",
+        "url": "https://open.spotify.com/album/57PE5m7bKkHg2pXQThizAj"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202040,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2Hd9y1sae4yhYBVvqYOIqx"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186906,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6TzU11huC8Hz4FVEsvCeE7"
+    },
+    {
+      "album": {
+        "name": "Stay Tonight",
+        "url": "https://open.spotify.com/album/41rtmYpSvv0s6p4TJwTzrR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 217238,
+      "name": "Stay Tonight",
+      "url": "https://open.spotify.com/track/3As0OA5B06BxLfADvYyG8L"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217238,
+      "name": "Stay Tonight",
+      "url": "https://open.spotify.com/track/7Cn6R7YB4EjQkfci9DdceG"
+    },
+    {
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223006,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
+    },
+    {
+      "album": {
+        "name": "Week",
+        "url": "https://open.spotify.com/album/7e6K1ouB0KpwCfCbkUBvdR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202547,
+      "name": "Week",
+      "url": "https://open.spotify.com/track/1pWriQ6nQV0KyPxF9omuKk"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 202547,
+      "name": "week",
+      "url": "https://open.spotify.com/track/238kglYyz9oWU5f436NPB9"
+    },
+    {
+      "album": {
+        "name": "Week",
+        "url": "https://open.spotify.com/album/0i3GmrB7DW4keoTd53g3AP"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "Week",
+      "url": "https://open.spotify.com/track/4banEKlbDsBOIvBDTssAf1"
+    },
+    {
+      "album": {
+        "name": "Whatcha Doin'",
+        "url": "https://open.spotify.com/album/5ZqrNpvlfW0qeZ6bDCjmaU"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209808,
+      "name": "Whatcha Doin'",
+      "url": "https://open.spotify.com/track/1kfEJ0w6qRZR9dIOWJGe0J"
+    },
+    {
+      "album": {
+        "name": "When I Get Old",
+        "url": "https://open.spotify.com/album/3mJMHqT2w0HwjQkneNVE14"
+      },
+      "artists": [
+        {
+          "name": "Christopher",
+          "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184732,
+      "name": "When I Get Old",
+      "url": "https://open.spotify.com/track/5f2CcxzZoW7hNs1O8NhG6y"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/7KM1Yi5xYv3O6OcKsEeV83"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198420,
+      "name": "Why Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/3L6OalQDbdCS0Tg1kFccYn"
+    },
+    {
+      "album": {
+        "name": "Hands on Me",
+        "url": "https://open.spotify.com/album/6RK3Y2SOZef8WWvopYB6Dn"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "Nucksal",
+          "url": "https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198420,
+      "name": "Why Don\u2019t You Know",
+      "url": "https://open.spotify.com/track/7BiaLnXa10sBpBEcFfm4PP"
+    },
+    {
+      "album": {
+        "name": "Wow Thing",
+        "url": "https://open.spotify.com/album/3xEPyp7h78uULpDPuKvokH"
+      },
+      "artists": [
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        },
+        {
+          "name": "SinB",
+          "url": "https://open.spotify.com/artist/0tZl5OAXf9jYXFmfRGejs2"
+        },
+        {
+          "name": "JEON SOYEON",
+          "url": "https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171998,
+      "name": "Wow Thing",
+      "url": "https://open.spotify.com/track/5MwfxCtqMFGYp9Nc1BkTrS"
+    },
+    {
+      "album": {
+        "name": "Querencia",
+        "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255496,
+      "name": "X",
+      "url": "https://open.spotify.com/track/4IQaBvlHjZrpZrIKWXuBxh"
+    },
+    {
+      "album": {
+        "name": "Bare&Rare, Pt. 1",
+        "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "XXXX",
+      "url": "https://open.spotify.com/track/49jIwnU0pAUWorDG4ahISg"
+    },
+    {
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 2",
+        "url": "https://open.spotify.com/album/3YlTiz3mgIUok8P9bgFA6U"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208786,
+      "name": "You're In My Soul",
+      "url": "https://open.spotify.com/track/2wQchESFUL4Scb30q4xCeL"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/1lNM7RF1SVUs66OtLj4MQh"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2021-11-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 198819,
+      "name": "Young In Love",
+      "url": "https://open.spotify.com/track/3T2In1aV3rdXSDCDOTNioF"
+    },
+    {
+      "album": {
+        "name": "Flourishing",
+        "url": "https://open.spotify.com/album/5rHnbSUBaflJgCLlZfDnzt"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198819,
+      "name": "Young In Love",
+      "url": "https://open.spotify.com/track/4dIObSazv75psS0AX9z6ro"
+    },
+    {
+      "album": {
+        "name": "Hotel del Luna (Original Television Soundtrack) Pt.6",
+        "url": "https://open.spotify.com/album/0iauGMMQmUJuBBWqnKx0Op"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224283,
+      "name": "\uadf8 \ub05d\uc5d0 \uadf8\ub300",
+      "url": "https://open.spotify.com/track/7D8IxjdvFTYPcnCmNfzvNS"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5Q8yAIQxE4JrdWNy1h7lKv"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-10-22",
+      "date_added_asterisk": false,
+      "date_removed": "2022-11-13",
+      "duration_ms": 220963,
+      "name": "\ub098\uc758 \uadf8\ub300",
+      "url": "https://open.spotify.com/track/6021PPpRakaZteKf8KNHLJ"
+    },
+    {
+      "album": {
+        "name": "\ub0ad\ub9cc\ub2e5\ud130 \uae40\uc0ac\ubd80 2 (Original Television Soundtrack) Pt.8",
+        "url": "https://open.spotify.com/album/2eDsS1VbMDEs0z2Lo0dHBv"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "date_added": "2022-07-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220963,
+      "name": "\ub098\uc758 \uadf8\ub300",
+      "url": "https://open.spotify.com/track/7EXTPBMNV9N2s3fUrqMC7i"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DXdYwX3Ds2dLJ"
 }

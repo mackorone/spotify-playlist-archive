@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7yt1EN3vjWR.md) - [plain]
 
 > 【全セットリスト公開！特別インタビューも】国内最大規模のヒップホップフェスティバル<a href="https://popyours.jp/">『POP YOURS』</a>。2023年5月27日\(土\)、5月28日\(日\)に幕張メッセで二日間開催！
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,210 likes - 268 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,236 likes - 268 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

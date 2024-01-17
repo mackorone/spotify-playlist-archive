@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,891,165 likes - 342 songs - 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,887,337 likes - 342 songs - 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -241,7 +241,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 231 | [Smile](https://open.spotify.com/track/0pQassNAXhd7OszdrhLrSF) | [Evah Linnet](https://open.spotify.com/artist/2BOqxhLZK8i0dICth5U9VH) | [Smile](https://open.spotify.com/album/2i8nDba3GDeI8HWDKNaJ4u) | 3:06 |
 | 232 | [Deep Sleeper](https://open.spotify.com/track/7lwl3ScD69HlJQtk7h49nw) | [Tranquomo](https://open.spotify.com/artist/6z737VR1MbCOSfYhG1mzY3) | [Deep Sleeper](https://open.spotify.com/album/4GD1oZku0kELvN5DzXWVJV) | 2:43 |
 | 233 | [Boy Blowing Bubbles](https://open.spotify.com/track/4vhjKm3JGXjBefwblXlExw) | [Olivia Line](https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA) | [Boy Blowing Bubbles](https://open.spotify.com/album/7CuFbbQgSZqJBp1VudRHu6) | 2:37 |
-| 234 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/3M97AbLFCPQV6dLLTfP1nD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 |
+| 234 | [Awareness](https://open.spotify.com/track/4osn2bAHvnGlOab7xOak7Q) | [Isa Duwall](https://open.spotify.com/artist/1Isryx8tW37VcoRksHidGD) | [Awareness](https://open.spotify.com/album/3Tonb9LcXzkJpfbd3xjV23) | 2:53 |
 | 235 | [Annashuwa](https://open.spotify.com/track/10ZtwOdYSWqKgiYgOg36N5) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Annashuwa](https://open.spotify.com/album/0nJZwim2ChJLwgnr6xo4PR) | 3:35 |
 | 236 | [Going Back](https://open.spotify.com/track/0QCWhIYVGx3ousdsUZgy84) | [Koby Laver](https://open.spotify.com/artist/639xerhpqwPMYay6bkjz75) | [Going Back](https://open.spotify.com/album/5dLs93ATW8WYVlszbtKKRa) | 3:48 |
 | 237 | [Peak Calm](https://open.spotify.com/track/5lXpowQ714d5VWxjdFLfi7) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Peak Calm](https://open.spotify.com/album/4Xfiq1H2pq5VtknmKXkUm8) | 2:36 |

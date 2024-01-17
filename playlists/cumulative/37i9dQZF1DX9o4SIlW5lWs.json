@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 164949,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
@@ -1580,6 +1580,24 @@
       "duration_ms": 120592,
       "name": "Dile Tu - En Vivo",
       "url": "https://open.spotify.com/track/20mrMuyFD9lP8gTpuIKkxy"
+    },
+    {
+      "album": {
+        "name": "DIOS ME PERDONE",
+        "url": "https://open.spotify.com/album/3FthtqxiqcpsNiypZhUtRY"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173548,
+      "name": "DIOS ME PERDONE",
+      "url": "https://open.spotify.com/track/7g9a6lnFy87FnToiWluG6v"
     },
     {
       "album": {
@@ -3234,7 +3252,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 242400,
       "name": "Maravillosa Esta Noche",
       "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
@@ -4459,6 +4477,28 @@
     },
     {
       "album": {
+        "name": "Por Dios Que No",
+        "url": "https://open.spotify.com/album/1DhhUhPzrfp8E4lqqifiTN"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168189,
+      "name": "Por Dios Que No",
+      "url": "https://open.spotify.com/track/5Qq2wpTegTGcvplLyrNmyd"
+    },
+    {
+      "album": {
         "name": "Sa, Za...Sabor!!!",
         "url": "https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp"
       },
@@ -4698,7 +4738,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-02",
+      "date_removed": "2024-01-12",
       "duration_ms": 207957,
       "name": "Que Ser\u00e1 de Ti",
       "url": "https://open.spotify.com/track/5hb2ExQhSytMFvRKuuv0zd"
@@ -4788,7 +4828,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 267445,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7"
@@ -6177,6 +6217,28 @@
     },
     {
       "album": {
+        "name": "Vamos a Trasnochar",
+        "url": "https://open.spotify.com/album/0OLFqYRvG5apgDNMFQiL3s"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        },
+        {
+          "name": "Nahuel Pennisi",
+          "url": "https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153403,
+      "name": "Vamos a Trasnochar",
+      "url": "https://open.spotify.com/track/4o5xNPc2cUAZnDG7TZ4a4e"
+    },
+    {
+      "album": {
         "name": "Vas a Llorar",
         "url": "https://open.spotify.com/album/63I1RAXIkhhIVpsG8b8aQK"
       },
@@ -6218,6 +6280,32 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "album": {
+        "name": "VAS A VOLVER",
+        "url": "https://open.spotify.com/album/0UkOCzJaNwtVwF0T1Txfh9"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "VAS A VOLVER",
+      "url": "https://open.spotify.com/track/2GI51zBcXdoEFW0mOg1pkZ"
     },
     {
       "album": {
@@ -6640,7 +6728,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 209133,
       "name": "Yo Que Te Am\u00e9",
       "url": "https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui"

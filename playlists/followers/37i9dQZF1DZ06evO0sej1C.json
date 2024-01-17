@@ -1,284 +1,1637 @@
 {
-  "2023-03-25": 26769,
-  "2023-03-26": 26795,
-  "2023-03-27": 26816,
-  "2023-03-28": 26843,
-  "2023-03-29": 26862,
-  "2023-03-30": 26915,
-  "2023-03-31": 26915,
-  "2023-04-01": 26938,
-  "2023-04-02": 26961,
-  "2023-04-03": 26981,
-  "2023-04-04": 27007,
-  "2023-04-05": 27028,
-  "2023-04-06": 27055,
-  "2023-04-07": 27085,
-  "2023-04-09": 27121,
-  "2023-04-10": 27129,
-  "2023-04-11": 27164,
-  "2023-04-12": 27164,
-  "2023-04-13": 27188,
-  "2023-04-14": 27201,
-  "2023-04-15": 27232,
-  "2023-04-16": 27256,
-  "2023-04-17": 27278,
-  "2023-04-18": 27309,
-  "2023-04-19": 27334,
-  "2023-04-20": 27352,
-  "2023-04-21": 27386,
-  "2023-04-22": 27403,
-  "2023-04-23": 27422,
-  "2023-04-24": 27446,
-  "2023-04-25": 27467,
-  "2023-04-26": 27492,
-  "2023-04-27": 27524,
-  "2023-04-28": 27541,
-  "2023-04-29": 27564,
-  "2023-04-30": 27586,
-  "2023-05-01": 27611,
-  "2023-05-02": 27622,
-  "2023-05-03": 27650,
-  "2023-05-04": 27677,
-  "2023-05-05": 27712,
-  "2023-05-06": 27730,
-  "2023-05-07": 27754,
-  "2023-05-08": 27773,
-  "2023-05-09": 27802,
-  "2023-05-10": 27830,
-  "2023-05-11": 27846,
-  "2023-05-12": 27874,
-  "2023-05-13": 27906,
-  "2023-05-14": 27933,
-  "2023-05-15": 27963,
-  "2023-05-16": 27987,
-  "2023-05-17": 28035,
-  "2023-05-18": 28064,
-  "2023-05-19": 28100,
-  "2023-05-20": 28150,
-  "2023-05-21": 28150,
-  "2023-05-22": 28150,
-  "2023-05-23": 28196,
-  "2023-05-24": 28245,
-  "2023-05-25": 28257,
-  "2023-05-26": 28298,
-  "2023-05-27": 28328,
-  "2023-05-28": 28353,
-  "2023-05-29": 28353,
-  "2023-05-30": 28388,
-  "2023-05-31": 28428,
-  "2023-06-01": 28466,
-  "2023-06-02": 28505,
-  "2023-06-03": 28532,
-  "2023-06-04": 28548,
-  "2023-06-05": 28571,
-  "2023-06-06": 28603,
-  "2023-06-07": 28627,
-  "2023-06-08": 28652,
-  "2023-06-09": 28686,
-  "2023-06-10": 28714,
-  "2023-06-11": 28729,
-  "2023-06-12": 28744,
-  "2023-06-13": 28767,
-  "2023-06-14": 28791,
-  "2023-06-15": 28817,
-  "2023-06-16": 28843,
-  "2023-06-17": 28873,
-  "2023-06-18": 28910,
-  "2023-06-19": 28925,
-  "2023-06-20": 28945,
-  "2023-06-21": 28969,
-  "2023-06-22": 28991,
-  "2023-06-23": 29024,
-  "2023-06-24": 29049,
-  "2023-06-25": 29068,
-  "2023-06-26": 29083,
-  "2023-06-27": 29115,
-  "2023-06-28": 29148,
-  "2023-06-29": 29173,
-  "2023-06-30": 29193,
-  "2023-07-01": 29256,
-  "2023-07-02": 29256,
-  "2023-07-03": 29277,
-  "2023-07-04": 29305,
-  "2023-07-05": 29325,
-  "2023-07-06": 29385,
-  "2023-07-07": 29385,
-  "2023-07-08": 29426,
-  "2023-07-09": 29456,
-  "2023-07-10": 29468,
-  "2023-07-11": 29486,
-  "2023-07-12": 29518,
-  "2023-07-13": 29536,
-  "2023-07-14": 29559,
-  "2023-07-15": 29558,
-  "2023-07-16": 29581,
-  "2023-07-17": 29602,
-  "2023-07-18": 29616,
-  "2023-07-19": 29642,
-  "2023-07-20": 29665,
-  "2023-07-21": 29686,
-  "2023-07-22": 29712,
-  "2023-07-23": 29740,
-  "2023-07-24": 29764,
-  "2023-07-25": 29799,
-  "2023-07-26": 29820,
-  "2023-07-27": 29847,
-  "2023-07-28": 29872,
-  "2023-07-29": 29892,
-  "2023-07-30": 29919,
-  "2023-07-31": 29929,
-  "2023-08-01": 29973,
-  "2023-08-02": 30000,
-  "2023-08-03": 30027,
-  "2023-08-04": 30063,
-  "2023-08-05": 30082,
-  "2023-08-06": 30130,
-  "2023-08-07": 30130,
-  "2023-08-08": 30148,
-  "2023-08-09": 30165,
-  "2023-08-10": 30200,
-  "2023-08-11": 30230,
-  "2023-08-12": 30230,
-  "2023-08-13": 30230,
-  "2023-08-14": 30310,
-  "2023-08-15": 30310,
-  "2023-08-16": 30310,
-  "2023-08-17": 30405,
-  "2023-08-18": 30405,
-  "2023-08-19": 30467,
-  "2023-08-20": 30489,
-  "2023-08-21": 30489,
-  "2023-08-22": 30542,
-  "2023-08-23": 30566,
-  "2023-08-24": 30593,
-  "2023-08-25": 30593,
-  "2023-08-26": 30667,
-  "2023-08-27": 30701,
-  "2023-08-28": 30722,
-  "2023-08-29": 30722,
-  "2023-08-30": 30722,
-  "2023-08-31": 30830,
-  "2023-09-01": 30922,
-  "2023-09-02": 30922,
-  "2023-09-03": 30958,
-  "2023-09-04": 30958,
-  "2023-09-05": 30958,
-  "2023-09-06": 31119,
-  "2023-09-07": 31119,
-  "2023-09-08": 31119,
-  "2023-09-09": 31119,
-  "2023-09-10": 31406,
-  "2023-09-11": 31442,
-  "2023-09-12": 31442,
-  "2023-09-13": 31575,
-  "2023-09-14": 31575,
-  "2023-09-15": 31575,
-  "2023-09-16": 31718,
-  "2023-09-17": 31718,
-  "2023-09-18": 31718,
-  "2023-09-19": 31867,
-  "2023-09-20": 31867,
-  "2023-09-21": 31867,
-  "2023-09-22": 32108,
-  "2023-09-23": 32108,
-  "2023-09-24": 32108,
-  "2023-09-25": 32108,
-  "2023-09-26": 32355,
-  "2023-09-27": 32355,
-  "2023-09-28": 32355,
-  "2023-09-29": 32355,
-  "2023-09-30": 32355,
-  "2023-10-01": 32355,
-  "2023-10-02": 32756,
-  "2023-10-03": 32756,
-  "2023-10-04": 32756,
-  "2023-10-05": 32925,
-  "2023-10-06": 32992,
-  "2023-10-07": 32992,
-  "2023-10-08": 32992,
-  "2023-10-09": 32992,
-  "2023-10-10": 32992,
-  "2023-10-11": 33241,
-  "2023-10-12": 33241,
-  "2023-10-13": 33241,
-  "2023-10-14": 33241,
-  "2023-10-15": 33241,
-  "2023-10-16": 33241,
-  "2023-10-17": 33241,
-  "2023-10-18": 33241,
-  "2023-10-19": 33241,
-  "2023-10-20": 33241,
-  "2023-10-21": 33241,
-  "2023-10-22": 33241,
-  "2023-10-23": 33241,
-  "2023-10-24": 33241,
-  "2023-10-25": 33241,
-  "2023-10-26": 33241,
-  "2023-10-27": 33241,
-  "2023-10-28": 33241,
-  "2023-10-29": 33241,
-  "2023-10-30": 33241,
-  "2023-10-31": 33241,
-  "2023-11-01": 33241,
-  "2023-11-02": 33241,
-  "2023-11-03": 33241,
-  "2023-11-04": 33241,
-  "2023-11-05": 33241,
-  "2023-11-06": 33241,
-  "2023-11-07": 33241,
-  "2023-11-08": 33241,
-  "2023-11-09": 33241,
-  "2023-11-10": 33241,
-  "2023-11-11": 34485,
-  "2023-11-12": 34485,
-  "2023-11-13": 34485,
-  "2023-11-14": 34485,
-  "2023-11-15": 34485,
-  "2023-11-16": 34485,
-  "2023-11-17": 34485,
-  "2023-11-18": 34485,
-  "2023-11-19": 34485,
-  "2023-11-20": 34485,
-  "2023-11-21": 34485,
-  "2023-11-22": 34485,
-  "2023-11-23": 34485,
-  "2023-11-24": 34485,
-  "2023-11-25": 34485,
-  "2023-11-26": 34485,
-  "2023-11-27": 34485,
-  "2023-11-28": 34485,
-  "2023-11-29": 34485,
-  "2023-11-30": 34485,
-  "2023-12-01": 34485,
-  "2023-12-02": 34485,
-  "2023-12-03": 34485,
-  "2023-12-04": 34485,
-  "2023-12-05": 34485,
-  "2023-12-06": 34485,
-  "2023-12-07": 34485,
-  "2023-12-08": 34485,
-  "2023-12-09": 34485,
-  "2023-12-10": 34485,
-  "2023-12-11": 34485,
-  "2023-12-12": 34485,
-  "2023-12-13": 34485,
-  "2023-12-14": 35404,
-  "2023-12-15": 35428,
-  "2023-12-16": 35460,
-  "2023-12-17": 35476,
-  "2023-12-18": 35490,
-  "2023-12-19": 35519,
-  "2023-12-20": 35547,
-  "2023-12-21": 35573,
-  "2023-12-22": 35591,
-  "2023-12-23": 35607,
-  "2023-12-24": 35635,
-  "2023-12-25": 35656,
-  "2023-12-26": 35664,
-  "2023-12-27": 35688,
-  "2023-12-30": 35783,
-  "2023-12-31": 35803,
-  "2024-01-01": 35831,
-  "2024-01-02": 35844,
-  "2024-01-03": 35876
+  "2024-01-17": 36208,
+  "date_first_scraped": "2023-03-25",
+  "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
+  "name": "This Is Yoss Bones",
+  "tracks": [
+    {
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/5X8GpJlGdZy5FraG3wHWgk"
+      },
+      "artists": [
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-04-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-27",
+      "duration_ms": 195500,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/3sOWHDPh8O8hen6UnTJqxZ"
+    },
+    {
+      "album": {
+        "name": "Alto Calibre",
+        "url": "https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171807,
+      "name": "Alto Calibre",
+      "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
+    },
+    {
+      "album": {
+        "name": "Alzypher Vol. 1",
+        "url": "https://open.spotify.com/album/4DUkuTeI0yoBSvFaj1YKDH"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Alzypher Vol. 1",
+      "url": "https://open.spotify.com/track/4tepeG09xywMIaQ9zKezfH"
+    },
+    {
+      "album": {
+        "name": "Alzypher Vol. 9",
+        "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Santa Salut",
+          "url": "https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207483,
+      "name": "Alzypher Vol. 9",
+      "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
+    },
+    {
+      "album": {
+        "name": "Andamos Al Cien",
+        "url": "https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF"
+      },
+      "artists": [
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192840,
+      "name": "Andamos Al Cien",
+      "url": "https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys"
+    },
+    {
+      "album": {
+        "name": "Al Sur de la Noche",
+        "url": "https://open.spotify.com/album/20k8vslpDovsribWcjDFX3"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "date_added": "2023-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163100,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7tBRS4vt64l7LSFRco8Ycz"
+    },
+    {
+      "album": {
+        "name": "Al Sur de la Noche",
+        "url": "https://open.spotify.com/album/4oySPuW0Zu1TT4CEWxPMDz"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Jose Macario",
+          "url": "https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-30",
+      "duration_ms": 163100,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/6g18SEW8hZzfIC1TpdEZ8k"
+    },
+    {
+      "album": {
+        "name": "Bien",
+        "url": "https://open.spotify.com/album/3RI5pKpWlcKFe0ziDizIMX"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-13",
+      "duration_ms": 207125,
+      "name": "Bien",
+      "url": "https://open.spotify.com/track/3WNSy6s729D5dwreu1SsNi"
+    },
+    {
+      "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
+    },
+    {
+      "album": {
+        "name": "Calor y Fr\u00edo",
+        "url": "https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Calor y Fr\u00edo",
+      "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
+    },
+    {
+      "album": {
+        "name": "Chip S (Metal Version)",
+        "url": "https://open.spotify.com/album/0eE73v8SPdXJyIVtwL5DG2"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-08-20",
+      "duration_ms": 193846,
+      "name": "Chip S (Metal Version)",
+      "url": "https://open.spotify.com/track/1CgPXNuxT2ZPQkE073ckQa"
+    },
+    {
+      "album": {
+        "name": "Cicatrices",
+        "url": "https://open.spotify.com/album/0F3fEUFRSIGRCEVsyAjfBJ"
+      },
+      "artists": [
+        {
+          "name": "Zoop One",
+          "url": "https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "alyona alyona",
+          "url": "https://open.spotify.com/artist/2ic3GGGmkixOZP4qnakSA8"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-04-11",
+      "duration_ms": 250666,
+      "name": "Cicatrices",
+      "url": "https://open.spotify.com/track/2noBdQ7C3V9BTbNlXtQGyc"
+    },
+    {
+      "album": {
+        "name": "Click Clack",
+        "url": "https://open.spotify.com/album/5rHtSYUHWTm6Jr76MVeGAE"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Chain Trackz",
+          "url": "https://open.spotify.com/artist/58HXUsUwpjyLNpaKs4gMvM"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Click Clack",
+      "url": "https://open.spotify.com/track/0YCWXhQ8rSi03cHRD4UTm6"
+    },
+    {
+      "album": {
+        "name": "Contra Corriente",
+        "url": "https://open.spotify.com/album/1C6yVzlnS2IZOCvU5zLO12"
+      },
+      "artists": [
+        {
+          "name": "Rapsusklei",
+          "url": "https://open.spotify.com/artist/451DVjaBuGYfvDfvG9MxaG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-10",
+      "duration_ms": 209887,
+      "name": "Contra Corriente",
+      "url": "https://open.spotify.com/track/56eurZLGRLoYxkqcU6ECfw"
+    },
+    {
+      "album": {
+        "name": "Cypher",
+        "url": "https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Bipo Montana",
+          "url": "https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk"
+        },
+        {
+          "name": "Teeam Revolver",
+          "url": "https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK"
+        },
+        {
+          "name": "Geassassin",
+          "url": "https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482926,
+      "name": "Cypher",
+      "url": "https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt"
+    },
+    {
+      "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "album": {
+        "name": "De Ti Me Olvid\u00e9",
+        "url": "https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "De Ti Me Olvid\u00e9",
+      "url": "https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb"
+    },
+    {
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
+    },
+    {
+      "album": {
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7oo7MqceHqBozYOfjWPx3r"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-11",
+      "duration_ms": 151719,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/1LPYZDxFTebhvqwX2gTu0j"
+    },
+    {
+      "album": {
+        "name": "D\u00e1melo",
+        "url": "https://open.spotify.com/album/3YUn7HRgQj6c8R0WeXpmpC"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2023-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "D\u00e1melo",
+      "url": "https://open.spotify.com/track/5C1YeWx8HhUnkWOuWvGxi2"
+    },
+    {
+      "album": {
+        "name": "D\u00eda / Noche",
+        "url": "https://open.spotify.com/album/7tjTyqdcbekIgCJRojLyvi"
+      },
+      "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269000,
+      "name": "D\u00eda / Noche",
+      "url": "https://open.spotify.com/track/52lKE6U9PlKZEXIlC35ggI"
+    },
+    {
+      "album": {
+        "name": "El",
+        "url": "https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "El",
+      "url": "https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU"
+    },
+    {
+      "album": {
+        "name": "El Fiest\u00f3n",
+        "url": "https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "El Fiest\u00f3n",
+      "url": "https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2tw4c2z6HkCKsrIfrhNy86"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/1sNoZW9xuJkNPeeBJgqLpG"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/3JQEMF8g2t7S3LwKnCDRAO"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-16",
+      "duration_ms": 225600,
+      "name": "Eres Mi Aire",
+      "url": "https://open.spotify.com/track/6TFD7lH9k8A8PC4CRns4IT"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/0bHlhoa28gqmsheSevIFZt"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0QK3Yshn8c0plhuErNvmKz"
+    },
+    {
+      "album": {
+        "name": "Ketamina",
+        "url": "https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171063,
+      "name": "Ketamina",
+      "url": "https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv"
+    },
+    {
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
+      },
+      "artists": [
+        {
+          "name": "Alzada",
+          "url": "https://open.spotify.com/artist/68Nt8XHuyEgQSOHih2iMlv"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        },
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Zornoza",
+          "url": "https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu"
+        },
+        {
+          "name": "Zoop One",
+          "url": "https://open.spotify.com/artist/22MvD3agFn8juQKDizmZWZ"
+        },
+        {
+          "name": "Kerox",
+          "url": "https://open.spotify.com/artist/2Aps4lMllN6Ka9nwm47pcc"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Cirujano Resendez",
+          "url": "https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY"
+        },
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Dande",
+          "url": "https://open.spotify.com/artist/3aCX8kSdZCCs6zPNOcuf9x"
+        },
+        {
+          "name": "Disc\u00edpulos del Concreto",
+          "url": "https://open.spotify.com/artist/5xeakxtmDPWeNivLJ1L2hk"
+        },
+        {
+          "name": "Andrew DDC",
+          "url": "https://open.spotify.com/artist/19cU8z1LdEpl6zPUkmtMAE"
+        },
+        {
+          "name": "Shainy",
+          "url": "https://open.spotify.com/artist/1dWbgySTFdOiYwHXESFqIJ"
+        },
+        {
+          "name": "Moiza",
+          "url": "https://open.spotify.com/artist/77146l5Vcu5vbpVPNXxvLC"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "La Familia",
+      "url": "https://open.spotify.com/track/3NFtMIwXTLsSrUua7AzxA6"
+    },
+    {
+      "album": {
+        "name": "La Nena",
+        "url": "https://open.spotify.com/album/05T9Ikq2YZWYh8RVrM96HF"
+      },
+      "artists": [
+        {
+          "name": "Dazoner",
+          "url": "https://open.spotify.com/artist/11rKJO8o50v5YoibpLLx3B"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-04",
+      "duration_ms": 202668,
+      "name": "La Nena",
+      "url": "https://open.spotify.com/track/2Puro9CnRw2gJFogRiMy83"
+    },
+    {
+      "album": {
+        "name": "Ladr\u00f3n",
+        "url": "https://open.spotify.com/album/5bSdirth1rYHmxVQ1CTEbr"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-09-22",
+      "duration_ms": 213968,
+      "name": "Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/275p97u74jV8pl7yODx3z0"
+    },
+    {
+      "album": {
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182844,
+      "name": "LIKE A BULL",
+      "url": "https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc"
+    },
+    {
+      "album": {
+        "name": "Lo Que Qued\u00f3",
+        "url": "https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207464,
+      "name": "Lo Que Qued\u00f3",
+      "url": "https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS"
+    },
+    {
+      "album": {
+        "name": "LQRA Session #3",
+        "url": "https://open.spotify.com/album/4CiyVMTKizu2N88qPuqPVR"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "LQRA Session #3",
+      "url": "https://open.spotify.com/track/65jUseB3hi312R6Sdg2eon"
+    },
+    {
+      "album": {
+        "name": "LQRA Session #5",
+        "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
+      },
+      "artists": [
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308000,
+      "name": "LQRA Session #5",
+      "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
+    },
+    {
+      "album": {
+        "name": "M4KYNA",
+        "url": "https://open.spotify.com/album/3cP5gKulWySdg1pwA7vbVB"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-04-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-17",
+      "duration_ms": 174222,
+      "name": "M4KYNA",
+      "url": "https://open.spotify.com/track/33BdopezTOy1DwusGG2GuB"
+    },
+    {
+      "album": {
+        "name": "Malvada",
+        "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Natos y Waor",
+          "url": "https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321951,
+      "name": "Malvada",
+      "url": "https://open.spotify.com/track/3yE70C2cmJ9FcuIEL7u23e"
+    },
+    {
+      "album": {
+        "name": "Me Levant\u00e9",
+        "url": "https://open.spotify.com/album/1LPzgOWPbJoopfLvwgVbBR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Me Levant\u00e9",
+      "url": "https://open.spotify.com/track/1zDoyt30lppzmdUKxLZR3Q"
+    },
+    {
+      "album": {
+        "name": "Mundo De Papel",
+        "url": "https://open.spotify.com/album/4m0KAB42QxgsFT3RJ2QkvR"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-12-25",
+      "duration_ms": 222428,
+      "name": "Mundo De Papel",
+      "url": "https://open.spotify.com/track/5XZwPDh81lZP85iMkxZ9VO"
+    },
+    {
+      "album": {
+        "name": "No Es Tan Facil",
+        "url": "https://open.spotify.com/album/4fWFrEBBNuECGBw7QSsS83"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194690,
+      "name": "No Es Tan Facil",
+      "url": "https://open.spotify.com/track/6ZbmnhpmNQODTzjbKUj63B"
+    },
+    {
+      "album": {
+        "name": "No Lo Intentes",
+        "url": "https://open.spotify.com/album/50tdaxXkU51BG1BYonYHZx"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-11-11",
+      "duration_ms": 196125,
+      "name": "No Lo Intentes",
+      "url": "https://open.spotify.com/track/2xaGi87tVkAXPBpT0qRl7L"
+    },
+    {
+      "album": {
+        "name": "No Me Dijeron",
+        "url": "https://open.spotify.com/album/3fvve2qtWst6nxb0Mgc4fb"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187768,
+      "name": "No Me Dijeron",
+      "url": "https://open.spotify.com/track/3Sp9XAakWhDeJahZmdbj8J"
+    },
+    {
+      "album": {
+        "name": "Monstruos",
+        "url": "https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151604,
+      "name": "No Me Marques Pedo",
+      "url": "https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW"
+    },
+    {
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225923,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
+    },
+    {
+      "album": {
+        "name": "No Soy Criminal",
+        "url": "https://open.spotify.com/album/6SSxecieX6s6mTmCnm0Cno"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "No Soy Criminal",
+      "url": "https://open.spotify.com/track/3VGWGVOAUcoCpiHqqdrxb3"
+    },
+    {
+      "album": {
+        "name": "No Vuelvas Mas A Mi",
+        "url": "https://open.spotify.com/album/02hGe8QdVFk6c7TYgda7Ho"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243461,
+      "name": "No Vuelvas Mas A Mi",
+      "url": "https://open.spotify.com/track/7j3IPzmBPPSf3DeyhVhGMn"
+    },
+    {
+      "album": {
+        "name": "Nunca Supiste",
+        "url": "https://open.spotify.com/album/3bIRrdw5Hjvlb59eiT6Ldo"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Reverie",
+          "url": "https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4"
+        }
+      ],
+      "date_added": "2023-05-15",
+      "date_added_asterisk": false,
+      "date_removed": "2023-05-18",
+      "duration_ms": 236000,
+      "name": "Nunca Supiste",
+      "url": "https://open.spotify.com/track/0C7ydVc1JJyw3kkthMiGLg"
+    },
+    {
+      "album": {
+        "name": "Otra Oportunidad",
+        "url": "https://open.spotify.com/album/5RVInsxbaYiGU4NmPSUPCc"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231111,
+      "name": "Otra Oportunidad",
+      "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
+    },
+    {
+      "album": {
+        "name": "Piensa En Mis Labios",
+        "url": "https://open.spotify.com/album/28uLx5hVcVsqpS1vfW7szR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197407,
+      "name": "Piensa En Mis Labios",
+      "url": "https://open.spotify.com/track/1BJ5lfbcxJnDICmo4QBF27"
+    },
+    {
+      "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
+    },
+    {
+      "album": {
+        "name": "Por Tu Piel",
+        "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "Por Tu Piel",
+      "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/1KsikoVZSgJNztXBMjolgc"
+      },
+      "artists": [
+        {
+          "name": "Realidad Mental",
+          "url": "https://open.spotify.com/artist/6XsBz8I4WvzbqSHP5pVrtD"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2023-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188501,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/0DNvAkAwLRecq9iZmnK5Wg"
+    },
+    {
+      "album": {
+        "name": "Retumbando en la Ciudad",
+        "url": "https://open.spotify.com/album/5cufO6yyzjtoouiGKv1R7J"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "date_added": "2023-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Retumbando en la Ciudad",
+      "url": "https://open.spotify.com/track/729kMWkfzHPcum2dMczWoa"
+    },
+    {
+      "album": {
+        "name": "Se Me Pas\u00f3",
+        "url": "https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239500,
+      "name": "Se Me Pas\u00f3",
+      "url": "https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6"
+    },
+    {
+      "album": {
+        "name": "Serendipia",
+        "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
+      },
+      "artists": [
+        {
+          "name": "Adan Golden Ganga",
+          "url": "https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Golden Ganga",
+          "url": "https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Serendipia",
+      "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
+    },
+    {
+      "album": {
+        "name": "Sientelo",
+        "url": "https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188264,
+      "name": "Sientelo",
+      "url": "https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs"
+    },
+    {
+      "album": {
+        "name": "Sin Rencor Ni Mal De Amores",
+        "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
+      },
+      "artists": [
+        {
+          "name": "Nunca Jamas",
+          "url": "https://open.spotify.com/artist/5MgEV0h2E4COzAXi2BtQE7"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-06-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198591,
+      "name": "Sin Rencor Ni Mal De Amores",
+      "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/4IbsYpeHXOiRiGYfMriL1i"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346038,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/0E7Ue4jKLBSNnHfpb5qLS0"
+    },
+    {
+      "album": {
+        "name": "So\u00f1ar",
+        "url": "https://open.spotify.com/album/7i4euJSKy4COiuUMwiom3k"
+      },
+      "artists": [
+        {
+          "name": "Danntik",
+          "url": "https://open.spotify.com/artist/1NnUgWVGkPQLsdXue00beJ"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "So\u00f1ar",
+      "url": "https://open.spotify.com/track/6lV0GSCVzTp8GpOd2H4HL4"
+    },
+    {
+      "album": {
+        "name": "Faruz Fit, Vol. 2",
+        "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
+      },
+      "artists": [
+        {
+          "name": "Faruz Feet",
+          "url": "https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283668,
+      "name": "Susurros",
+      "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
+    },
+    {
+      "album": {
+        "name": "Tequila y Miel",
+        "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211408,
+      "name": "Tequila y Miel",
+      "url": "https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8"
+    },
+    {
+      "album": {
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/3IWMKaP4kN3mgqpkQFhrMu"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/3AbJALTHShkODDRfL5BH8p"
+    },
+    {
+      "album": {
+        "name": "Toqu\u00e9 Fondo",
+        "url": "https://open.spotify.com/album/3pP50Wip0grdAxzPo7eDbC"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "COQE",
+          "url": "https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-06-16",
+      "duration_ms": 226206,
+      "name": "Toqu\u00e9 Fondo",
+      "url": "https://open.spotify.com/track/31UaO89hcqvZpv0ZxS0CBD"
+    },
+    {
+      "album": {
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/772jAkiIpQ9XXGh54OGaHl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-06",
+      "duration_ms": 229927,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/2waVXWweKkBdpSEMuH6HMV"
+    },
+    {
+      "album": {
+        "name": "Vas a Volver",
+        "url": "https://open.spotify.com/album/7Dc3OsO2OyxVWcG0G6YdQF"
+      },
+      "artists": [
+        {
+          "name": "Yoky Barrios",
+          "url": "https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203294,
+      "name": "Vas a Volver",
+      "url": "https://open.spotify.com/track/5A6ALVribfvYq8yUv97mlp"
+    },
+    {
+      "album": {
+        "name": "Ya No Quiero Verte",
+        "url": "https://open.spotify.com/album/711cIsL3jwCkosLTeycAg8"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-03-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Ya No Quiero Verte",
+      "url": "https://open.spotify.com/track/6m77XYqqnVxfREQsiUi7O9"
+    },
+    {
+      "album": {
+        "name": "\u00c1mame",
+        "url": "https://open.spotify.com/album/0U36RN0P9awTfozisaj49A"
+      },
+      "artists": [
+        {
+          "name": "La Inolvidable Banda Agua De La Llave",
+          "url": "https://open.spotify.com/artist/77JusW9TBpD4pfdcMSSNE3"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "date_added": "2023-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199280,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/5908gatfcY7nK2xJt75zGx"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C"
 }

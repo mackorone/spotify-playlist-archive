@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 ### [ALLURE](https://open.spotify.com/playlist/37i9dQZF1DX9G93rIVMmzM)
 
-> seduced in the shadows.
+> for the baddies
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,613 likes - 59 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,517 likes - 55 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,28 +44,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 34 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 |
 | 35 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 |
 | 36 | [Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:45 |
-| 37 | [Rush \- 2006 Remaster](https://open.spotify.com/track/79V6bZgxKO8LXRbS2y8WUB) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Alan Wilder](https://open.spotify.com/artist/2HBRMiRk7dAjCwBlBJmJva), [Steve Lyon](https://open.spotify.com/artist/5f4sO8x6n2ZFqghAOU4nto) | [Songs of Faith and Devotion \(2006 Remaster\)](https://open.spotify.com/album/1nHX4rMCk0NIBSplCjioCb) | 4:40 |
-| 38 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
-| 39 | [Bitches Brew](https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:28 |
-| 40 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
-| 41 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
-| 42 | [Out Of Control](https://open.spotify.com/track/6gwJm7LgsaHdd3CWi4K8e8) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 3:37 |
-| 43 | [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 |
-| 44 | [Adrenalize](https://open.spotify.com/track/06WohfoFEUa5faNy8f9S5N) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:15 |
-| 45 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 |
-| 46 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
-| 47 | [Sun Killer](https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:47 |
-| 48 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
-| 49 | [Where We Go When We Die](https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [The Dark Pool](https://open.spotify.com/album/2OZMqW5rQr6zUG06ZwfR6L) | 4:58 |
-| 50 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
-| 51 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
-| 52 | [Cold & Distant](https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [A Loner](https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy) | 5:09 |
-| 53 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
-| 54 | [Mist](https://open.spotify.com/track/6im4lMMvEXArdAT9PDy6Fk) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Willpower](https://open.spotify.com/album/5Bo92Wl3pVuwXApUENPZ6W) | 2:27 |
-| 55 | [Animals](https://open.spotify.com/track/2n1Go55RzCD8pvnEmA6HGO) | [SOM](https://open.spotify.com/artist/0l5d2oD9unQCRRogw47e2Q) | [The Shape of Everything](https://open.spotify.com/album/5t7diqfBBT6QnXADEKbyaZ) | 4:30 |
-| 56 | [Static King](https://open.spotify.com/track/30c7yitaxCPDer72DuJMpw) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Static King](https://open.spotify.com/album/6Ff2MALnanTK465bO5rIsa) | 3:37 |
-| 57 | [deprecating](https://open.spotify.com/track/0S3hKgCbYTWPOesdVM4bg7) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [deprecating](https://open.spotify.com/album/0zV1xLH1fwzi1ESG8tf6qt) | 2:06 |
-| 58 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
-| 59 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 |
+| 37 | [Follow You](https://open.spotify.com/track/6lFUdRItQEsEuD7dSINL47) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:51 |
+| 38 | [Bitches Brew](https://open.spotify.com/track/4E23uX1BDdUTk9x56nEbla) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [††† \(Crosses\)](https://open.spotify.com/album/0nmLUAAUIUfm8q8Mq3mRAV) | 3:28 |
+| 39 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 |
+| 40 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 |
+| 41 | [Out Of Control](https://open.spotify.com/track/6gwJm7LgsaHdd3CWi4K8e8) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 3:37 |
+| 42 | [Cold](https://open.spotify.com/track/7r7NIoBZynrYIKZnIS5Z1Q) | [Static\-X](https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf) | [Machine](https://open.spotify.com/album/3qbnM6ou43R4GEWcIHhzhS) | 3:38 |
+| 43 | [Adrenalize](https://open.spotify.com/track/06WohfoFEUa5faNy8f9S5N) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [Blood](https://open.spotify.com/album/3u8UbYIIZkOtawXLDuu57l) | 4:15 |
+| 44 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 |
+| 45 | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/track/6tRneEcItwpSxBtqgem5Dr) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3p7m1Pmg6n3BlpL9Py7IUA) | 4:01 |
+| 46 | [Sun Killer](https://open.spotify.com/track/0qZ03ABKZsGbGhvh1zbbil) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Eternal Blue](https://open.spotify.com/album/4OXoBlapQygTdzAifJm8BL) | 3:47 |
+| 47 | [Bite Marks](https://open.spotify.com/track/2iFoEIA2RSH1wt4i1LRiia) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [CCTV](https://open.spotify.com/album/6pLPp1De6DXPHhFry71Dn0) | 2:41 |
+| 48 | [Where We Go When We Die](https://open.spotify.com/track/60hlLMkJKy6pXtPMHspJao) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [The Dark Pool](https://open.spotify.com/album/2OZMqW5rQr6zUG06ZwfR6L) | 4:58 |
+| 49 | [Blood on the Sheets](https://open.spotify.com/track/7pCoALlwKHdGFfnkpgH0A1) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [Blood on the Sheets](https://open.spotify.com/album/5vNNEtI5ScBzU3Reba9Y5i) | 3:49 |
+| 50 | [In Your Way](https://open.spotify.com/track/0RLikYdZ4mltKZicGohFmg) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Here at All](https://open.spotify.com/album/4C02KdIWuoGpzoNndlW1XU) | 3:54 |
+| 51 | [Cold & Distant](https://open.spotify.com/track/039LjnW10JKYN3kfEo4wZ0) | [Hangman's Chair](https://open.spotify.com/artist/3jmqk617nnjalSiZUCaaBi) | [A Loner](https://open.spotify.com/album/0cVHeZCI9YO7zovnvacfhy) | 5:09 |
+| 52 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 |
+| 53 | [Mist](https://open.spotify.com/track/6im4lMMvEXArdAT9PDy6Fk) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Willpower](https://open.spotify.com/album/5Bo92Wl3pVuwXApUENPZ6W) | 2:27 |
+| 54 | [Blur Into One](https://open.spotify.com/track/3cH7SZph4QlDt1BVBPAXOM) | [Graywave](https://open.spotify.com/artist/4jN7TcBXppAcw0mc7yn9xR) | [Blur Into One](https://open.spotify.com/album/61MF3invPBN9Sj2LirPL3Z) | 3:50 |
+| 55 | [Lithium](https://open.spotify.com/track/5YaLFRpqpUzgLLDcukNn0H) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:44 |
 
-Snapshot ID: `MCw4OTdjMGRjZmZiNGY2MzYxNzkzNzAyZTI3YWVkZWVkYjMyYTBlYWFk`
+Snapshot ID: `MCw4ZWI5NWJjN2JmMzIxZjA0MmFlODNjZjJiMzBhYTU5MDMwNjIwYWIz`

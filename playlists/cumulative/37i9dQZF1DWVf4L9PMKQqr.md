@@ -4,7 +4,7 @@
 
 > Enamórate con las interpretaciones más románticas de El Flaco de Oro.
 
-86 songs - 4 hr 12 min
+87 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,13 +31,13 @@
 | [De Riguroso Schottis](https://open.spotify.com/track/0BrpSMP7erd1xjDSJFRIwU) | [Lilian De Celis](https://open.spotify.com/artist/6GJeh0dffUcq1r9axMRSKv) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:10 | 2021-05-07 |  |
 | [Dime Si Me Quieres](https://open.spotify.com/track/5tiM3oeYGZyjmXcjF4Iqep) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Música de Agustín Lará Con los Tres Caballeros](https://open.spotify.com/album/1Fr1bDJkcGGgQt7nO83HIq) | 2:18 | 2021-05-07 |  |
 | [El Capulin](https://open.spotify.com/track/4XBq7wuQTC05NrwquJ3HWP) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Suite Mexicana de Agustín Lara](https://open.spotify.com/album/7yVxgddVdrQVgXS3OCgPon) | 2:19 | 2021-05-07 |  |
-| [El Organillero](https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Coleccion Original RCA](https://open.spotify.com/album/6JOl5ODZIgfvgW4pMaEy8v) | 2:26 | 2021-05-07 | 2023-12-26 |
+| [El Organillero](https://open.spotify.com/track/4vqSjkiJKlgzsREqiTFeZt) | [Hugo Avendaño](https://open.spotify.com/artist/5t2eo8t8t6DwSA7goQgxpq) | [Coleccion Original RCA](https://open.spotify.com/album/6JOl5ODZIgfvgW4pMaEy8v) | 2:26 | 2021-05-07 | 2024-01-11 |
 | [El Organillero](https://open.spotify.com/track/59roAfQywRvHk6N7nPACSb) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:21 | 2021-05-07 |  |
 | [Escarcha](https://open.spotify.com/track/2Xdmm2Sm4Iy6CHXEj5qwP7) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Interpretan a Agustín Lara / De Puerto en Puerto](https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x) | 2:02 | 2021-05-07 |  |
 | [Escarcha](https://open.spotify.com/track/3eRQss3hfgY7Zvge8lK7iq) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [La Sonora Santanera Y La Inspiración de Agustín Lara](https://open.spotify.com/album/0PB2j6MxJasgBw89UXkKA8) | 3:15 | 2021-05-07 |  |
 | [Espanolerias](https://open.spotify.com/track/1YGt4KGi65q8TD0znunBXI) | [Alejandro Algara](https://open.spotify.com/artist/3u08FMRF8VMAeYmJjOuJzB) | [Agustin Lara Y Sus Interpretes Vol\. II](https://open.spotify.com/album/30YKVXoCbzQeUb7Mqi8NKa) | 2:14 | 2021-05-07 |  |
 | [Estoy Pensando en Ti](https://open.spotify.com/track/2MFl0jIJNvocGC8HPVm3XB) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/2aQzF1ccueoLiIzMpKDyYa) | 2:51 | 2021-05-07 |  |
-| [Estrella Solitaria](https://open.spotify.com/track/6RXz0sqsnvnPDOm1I5paIH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Inmortal](https://open.spotify.com/album/4oHk7oqpM1f34rQ6hCuOCe) | 3:00 | 2021-05-07 |  |
+| [Estrella Solitaria](https://open.spotify.com/track/6RXz0sqsnvnPDOm1I5paIH) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [La Inmortal](https://open.spotify.com/album/4oHk7oqpM1f34rQ6hCuOCe) | 3:00 | 2021-05-07 | 2024-01-16 |
 | [Farolito](https://open.spotify.com/track/3EOTK96yjVsgfgKPaw3CAo) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [RCA 100 Años de Música](https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK) | 2:52 | 2021-05-07 |  |
 | [Fermin](https://open.spotify.com/track/7vq0vLvz6mS2qHis0l9eF1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:24 | 2021-05-07 |  |
 | [Flor de Lis \- Instrumental](https://open.spotify.com/track/5K2u2m8kl7i9E82QFp90Lg) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Música y Piano](https://open.spotify.com/album/5ANYSvLVpHLjUAd9gPcSXV) | 2:40 | 2021-05-07 |  |
@@ -62,6 +62,7 @@
 | [Mía Nomas](https://open.spotify.com/track/0V3DjnQpumvPGsg6U5hNuF) | [Hermanas Huerta](https://open.spotify.com/artist/1hU5wdiWeIWv4fBklDgta1) | [Interpretan a Agustín Lara / De Puerto en Puerto](https://open.spotify.com/album/5inx7F0E85jiFDX2LPwy9x) | 2:49 | 2021-05-07 |  |
 | [Nadie](https://open.spotify.com/track/62roN8U8Lum4zpo2t8HYgH) | [Amparo Montes](https://open.spotify.com/artist/5eNHFHwqZOEZuxE6yMeybH) | [Coleccion Original RCA](https://open.spotify.com/album/2m2FaE4G9ZmdyokmG9fELn) | 4:12 | 2021-05-07 |  |
 | [Naufragio](https://open.spotify.com/track/7vTmlPkU3BGipqzeStpqSw) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [Tesoros de Colección \- Las Estrellas de la Hora Azul](https://open.spotify.com/album/5BOUGL5DKea3WtnFxX93YP) | 2:17 | 2021-05-07 |  |
+| [Noche Criolla](https://open.spotify.com/track/5Zrdtd4UC1ESsSFgyc0jqg) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3) | [Inmortales de Toña la Negra](https://open.spotify.com/album/6b15KuO5sKnJ78593YKTav) | 2:39 | 2021-05-07 |  |
 | [Noche criolla \(Bolero\)](https://open.spotify.com/track/4a3OlRMArXSfJT0Q7VhM3z) | [Toña La Negra](https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3), [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [Noche criolla](https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf) | 2:19 | 2021-05-07 |  |
 | [Noche de Ronda](https://open.spotify.com/track/5nWJkcCO2rWfR5AiRYLTwW) | [Agustín Lara](https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop) | [RCA 100 Años de Música](https://open.spotify.com/album/1UWdECkol3scb1Gp1yc0MK) | 3:31 | 2021-05-07 |  |
 | [Novillero](https://open.spotify.com/track/4Ek3tB6l5v1qnFBJmtlfkm) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Fantasia Espanola](https://open.spotify.com/album/0cBIMvZ85UwIswbbUSH7na) | 2:51 | 2021-05-07 |  |

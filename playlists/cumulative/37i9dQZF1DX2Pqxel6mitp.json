@@ -973,6 +973,24 @@
     },
     {
       "album": {
+        "name": "Hair On Fire",
+        "url": "https://open.spotify.com/album/50eRb4S7gHNJpNIqQGfZYK"
+      },
+      "artists": [
+        {
+          "name": "Jake La Botz",
+          "url": "https://open.spotify.com/artist/7pHtidPDRlqg71cTcwjWQX"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231133,
+      "name": "First McDonell's on the Moon",
+      "url": "https://open.spotify.com/track/2UGUwgFhyoNVGkO2Fnyome"
+    },
+    {
+      "album": {
         "name": "First McDonell's on the Moon",
         "url": "https://open.spotify.com/album/6hVnFJurOhApCMbjug96f4"
       },
@@ -1038,10 +1056,28 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 230040,
       "name": "Going To Chicago",
       "url": "https://open.spotify.com/track/2sxwR4yGCYUznXqgewA4Le"
+    },
+    {
+      "album": {
+        "name": "Somebody Loan Me A Dime (Remastered)",
+        "url": "https://open.spotify.com/album/5ygra0dlPxh6lH6CqSCOeZ"
+      },
+      "artists": [
+        {
+          "name": "Fenton Robinson",
+          "url": "https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227749,
+      "name": "Going To Chicago - Remastered",
+      "url": "https://open.spotify.com/track/4n4Ui8xq6vRPOHYEKGwQ68"
     },
     {
       "album": {
@@ -1154,7 +1190,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 234473,
       "name": "Got to Go Back Home",
       "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
@@ -1332,6 +1368,24 @@
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4V2f0Sy043rdiWJoeHkAwg"
+    },
+    {
+      "album": {
+        "name": "Holding Court",
+        "url": "https://open.spotify.com/album/2lqQLEtZ46XMtWNymL5fCV"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "date_added": "2023-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208012,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/3dish93LmeKpVtE5DNNi2p"
     },
     {
       "album": {
@@ -2114,7 +2168,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-14",
       "duration_ms": 301733,
       "name": "Mystery Woman",
       "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"

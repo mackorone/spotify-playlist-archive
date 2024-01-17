@@ -146,7 +146,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": "2024-01-06",
       "duration_ms": 242784,
       "name": "Acuarela",
       "url": "https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc"
@@ -531,7 +531,7 @@
       "date_added": "2023-12-23",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 210920,
+      "duration_ms": 161000,
       "name": "CORAZ\u00d3N VAC\u00cdO",
       "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
@@ -754,10 +754,32 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 171573,
       "name": "El Callej\u00f3n de los Milagros",
       "url": "https://open.spotify.com/track/0KAEdRme7EioqZPD2dQlj1"
+    },
+    {
+      "album": {
+        "name": "El Ruise\u00f1or, el Amor y la Muerte",
+        "url": "https://open.spotify.com/album/5RqHno42QNZ7aZoyYnztbj"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "date_added": "2023-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171573,
+      "name": "El Callej\u00f3n de los Milagros",
+      "url": "https://open.spotify.com/track/4VRPUoFBtTFcwco6YNFEx8"
     },
     {
       "album": {
@@ -1582,7 +1604,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-12",
       "duration_ms": 161559,
       "name": "Otro D\u00eda",
       "url": "https://open.spotify.com/track/6b1w4TmYneGyuyyI9LWorG"
@@ -1680,6 +1702,24 @@
       "duration_ms": 179393,
       "name": "Plegarias - Ac\u00fastico Premios Gardel 2020",
       "url": "https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC"
+    },
+    {
+      "album": {
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "date_added": "2024-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Por una cabeza",
+      "url": "https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C"
     },
     {
       "album": {

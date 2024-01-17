@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2GKumqRIZ7g.md) - [plain]
 
 > Four to the floor with your disco queens and kings\. Cover: Sylvester
 
-[Spotify](https://open.spotify.com/user/spotify) - 799,212 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 798,847 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

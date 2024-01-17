@@ -545,6 +545,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/6hxm9ZZL3y6A5WoFynQtSp"
+      },
+      "artists": [
+        {
+          "name": "Tankeflukt",
+          "url": "https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185620,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/5HDOvDkZSeVGiaNb4lPSPN"
+    },
+    {
+      "album": {
         "name": "Clear Day",
         "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
       },
@@ -704,6 +722,24 @@
       "duration_ms": 146035,
       "name": "Displacement",
       "url": "https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB"
+      },
+      "artists": [
+        {
+          "name": "Eigil Leuc",
+          "url": "https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165920,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN"
     },
     {
       "album": {

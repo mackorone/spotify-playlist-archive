@@ -4,7 +4,7 @@
 
 > would you like to save before closing?
 
-120 songs - 5 hr 52 min
+121 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [804](https://open.spotify.com/track/6jLaIaYXWkneF8qp99t3z4) | [Mayo.](https://open.spotify.com/artist/5qXBdxoTjNzrAmy3fpASbX) | [804](https://open.spotify.com/album/6ZzVFa0F3KuUHVqf8bse0h) | 1:29 | 2023-07-18 |  |
 | [A World That's Ending](https://open.spotify.com/track/4HIYZdQHMFfSxEKtukG5AY) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Do you love me?](https://open.spotify.com/album/4Ub4G9wTMXothEPm3oAHsW) | 2:02 | 2022-03-02 | 2023-06-13 |
 | [About You Now](https://open.spotify.com/track/6V9kVTlpA1yaqT89LlPwhO) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046) | [About You Now](https://open.spotify.com/album/2QDcs5hH8Y0n73aKeqD8PW) | 3:38 | 2022-03-02 | 2023-02-02 |
-| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-03-02 | 2023-08-26 |
+| [About You Now](https://open.spotify.com/track/4Fpgcj55igVn9pOJeZKFZ8) | [OTTO](https://open.spotify.com/artist/4PxPpid4wSQJ630DTqZ046), [Max Beirne Shafer](https://open.spotify.com/artist/5SXBLk2wYMZznypiR94wYE) | [About You Now](https://open.spotify.com/album/02zc2IIraWCKNpizpKdvKD) | 3:38 | 2022-03-02 | 2024-01-16 |
 | [An Obsession With Kit](https://open.spotify.com/track/0xTEyuQcdlcctj53Ca3Bkm) | [Graham Kartna](https://open.spotify.com/artist/4sj7VQUlAl4Bkkxudd5h3E) | [An Obsession With Kit](https://open.spotify.com/album/5lrb7fAIftGbxGzBYADVf4) | 3:07 | 2022-03-02 | 2023-06-13 |
 | [Angel](https://open.spotify.com/track/7GdAzd0WQypZOd7pcwUhxf) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Angel](https://open.spotify.com/album/5dkVASayX6wbSxD3ZWWsuB) | 2:17 | 2022-03-02 | 2023-06-17 |
 | [Answers](https://open.spotify.com/track/2XrdLU23MqMdrYhhuf1vtS) | [Carpainter](https://open.spotify.com/artist/5ac1qjsr4dSDWsfYY6YvBa) | [Answers](https://open.spotify.com/album/4Rv4S6zw3hCRlwAt3KbW1X) | 4:48 | 2022-03-02 | 2022-07-28 |
@@ -94,12 +94,13 @@
 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 | 2023-07-18 |  |
 | [Partymonst3r](https://open.spotify.com/track/40JKHWIqZ6Yhvi13Va054H) | [Yesterdayneverhappened](https://open.spotify.com/artist/3tGFcZOV2YCIlEV9hwKceh) | [twilight princess](https://open.spotify.com/album/5inmxPZxsMZIq9GJRJEQtg) | 2:41 | 2022-03-02 | 2023-06-13 |
 | [Pick a Seat](https://open.spotify.com/track/1jbGAVF3cTvh1nGZW1DHuF) | [Docx](https://open.spotify.com/artist/3HzHd9hqwIewAmpMOh4BOj) | [I8](https://open.spotify.com/album/6bsNlLoY9chgUrwyLMCgnC) | 4:12 | 2022-03-06 | 2023-06-13 |
-| [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 | 2022-03-02 | 2023-06-25 |
+| [Pink Origins](https://open.spotify.com/track/1q61syO9gqIiHhO2rsnLq7) | [Metaroom](https://open.spotify.com/artist/72igsHCazmE9rlVm0c4I9d) | [Pink Origins](https://open.spotify.com/album/5h2SFt5UpNmeAx8ZV0cX7H) | 2:17 | 2022-03-02 | 2024-01-17 |
 | [PPPP PaPiPuPePo](https://open.spotify.com/track/3zyySoaik0chWbfEQAHyZD) | [emamouse](https://open.spotify.com/artist/4dJoDugNSycsvrfS5TAsx7) | [PPPP PaPiPuPePo](https://open.spotify.com/album/5GfPmmrh30B8UxVeauXCr6) | 3:28 | 2022-03-02 | 2023-06-13 |
+| [Pretty Cvnt](https://open.spotify.com/track/6ZvXnnLiYq8IWZMfekH0Jn) | [725](https://open.spotify.com/artist/2OLCz6M82gOFqBo5rNkg4f) | [Pretty Cvnt](https://open.spotify.com/album/6ZdFfqYl6RnEb1Cu7DKYd3) | 3:40 | 2023-07-18 |  |
 | [Pretty Cvnt](https://open.spotify.com/track/0hz0bTQC2VVb4CEjLxmKiH) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Sewer//slvt](https://open.spotify.com/album/4H8zRNpiAfbdJxCgWMqosu) | 3:40 | 2022-03-02 | 2022-08-25 |
 | [Pretty Cvnt](https://open.spotify.com/track/2zFfwBk2frngZUVajhkbxf) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Sewer//Slvt](https://open.spotify.com/album/1b1tJ7nzqwsCyhtHDGBTHw) | 3:40 | 2022-03-02 | 2022-10-28 |
 | [Pretty Cvnt](https://open.spotify.com/track/4aonVufCxoIUqqSEDc6KCs) | [swelavin](https://open.spotify.com/artist/5cIopFMTkAGk0w0MgSXC0n) | [Pretty Cvnt](https://open.spotify.com/album/52mqwizCJozEgmbGDHMcLN) | 3:40 | 2022-03-02 | 2022-08-11 |
-| [Pretty Cvnt](https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv) | [SWRSLT](https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6) | [Pretty Cvnt](https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw) | 3:40 | 2022-03-02 |  |
+| [Pretty Cvnt](https://open.spotify.com/track/2CTcTL788DBaFLnc6QJSzv) | [SWRSLT](https://open.spotify.com/artist/4hljLrM4LIIh85DLjURyS6) | [Pretty Cvnt](https://open.spotify.com/album/3C7mweDprNNq2yJuWZm8iw) | 3:40 | 2022-03-02 | 2024-01-11 |
 | [Pro: Lov: Ad](https://open.spotify.com/track/7rR1msZYCT2MlrssnJMYgw) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 5:46 | 2022-03-02 |  |
 | [Puddle of Nitrogen](https://open.spotify.com/track/69OVnCNC0SB8EsLsq51lQF) | [Acetantina](https://open.spotify.com/artist/4pOU5L3kyzl3mOup7X0Xxp) | [Temple of Null](https://open.spotify.com/album/3vmSi6NMDAxnYPVKB5EATU) | 3:51 | 2022-03-02 | 2022-08-22 |
 | [RED ALERT](https://open.spotify.com/track/5qZYiUWxG55qm89Vd4VwCO) | [DJ CAMGIRL](https://open.spotify.com/artist/5swTIBAtYWBafM7YZZriMc), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [CANNON](https://open.spotify.com/album/4Kj5EumxhbumHhNjwt6bIQ) | 1:56 | 2022-03-11 | 2023-06-13 |

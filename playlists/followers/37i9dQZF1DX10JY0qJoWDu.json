@@ -1,732 +1,2667 @@
 {
-  "2021-12-28": 104137,
-  "2021-12-29": 104233,
-  "2021-12-30": 104219,
-  "2021-12-31": 104203,
-  "2022-01-01": 104178,
-  "2022-01-02": 104143,
-  "2022-01-03": 104103,
-  "2022-01-04": 104015,
-  "2022-01-05": 103911,
-  "2022-01-06": 103831,
-  "2022-01-07": 103767,
-  "2022-01-08": 103612,
-  "2022-01-09": 103613,
-  "2022-01-10": 103556,
-  "2022-01-11": 103485,
-  "2022-01-12": 103413,
-  "2022-01-13": 103348,
-  "2022-01-14": 103307,
-  "2022-01-15": 103213,
-  "2022-01-16": 103212,
-  "2022-01-17": 103116,
-  "2022-01-18": 103109,
-  "2022-01-19": 103082,
-  "2022-01-20": 103040,
-  "2022-01-21": 103002,
-  "2022-01-22": 102965,
-  "2022-01-23": 102919,
-  "2022-01-24": 102892,
-  "2022-01-25": 102852,
-  "2022-01-26": 102804,
-  "2022-01-27": 102778,
-  "2022-01-28": 102736,
-  "2022-01-29": 102701,
-  "2022-01-30": 102664,
-  "2022-01-31": 102623,
-  "2022-02-01": 102592,
-  "2022-02-02": 102570,
-  "2022-02-03": 102547,
-  "2022-02-04": 102524,
-  "2022-02-05": 102500,
-  "2022-02-06": 102479,
-  "2022-02-07": 102457,
-  "2022-02-08": 102421,
-  "2022-02-09": 102383,
-  "2022-02-10": 102350,
-  "2022-02-11": 102326,
-  "2022-02-12": 102304,
-  "2022-02-13": 102276,
-  "2022-02-14": 102245,
-  "2022-02-15": 102219,
-  "2022-02-16": 102189,
-  "2022-02-17": 102151,
-  "2022-02-18": 102111,
-  "2022-02-19": 102090,
-  "2022-02-20": 102069,
-  "2022-02-21": 102044,
-  "2022-02-22": 102019,
-  "2022-02-23": 102000,
-  "2022-02-24": 101981,
-  "2022-02-25": 101954,
-  "2022-02-26": 101941,
-  "2022-02-27": 101901,
-  "2022-02-28": 101901,
-  "2022-03-01": 101874,
-  "2022-03-02": 101859,
-  "2022-03-03": 101839,
-  "2022-03-04": 101825,
-  "2022-03-05": 101805,
-  "2022-03-06": 101790,
-  "2022-03-07": 101770,
-  "2022-03-08": 101749,
-  "2022-03-09": 101724,
-  "2022-03-10": 101711,
-  "2022-03-11": 101699,
-  "2022-03-12": 101685,
-  "2022-03-13": 101664,
-  "2022-03-14": 101660,
-  "2022-03-15": 101645,
-  "2022-03-16": 101627,
-  "2022-03-17": 101614,
-  "2022-03-18": 101590,
-  "2022-03-19": 101588,
-  "2022-03-20": 101588,
-  "2022-03-21": 101552,
-  "2022-03-22": 101535,
-  "2022-03-23": 101520,
-  "2022-03-24": 101511,
-  "2022-03-25": 101504,
-  "2022-03-26": 101513,
-  "2022-03-27": 101517,
-  "2022-03-28": 101506,
-  "2022-03-30": 101515,
-  "2022-03-31": 101502,
-  "2022-04-01": 101501,
-  "2022-04-02": 101502,
-  "2022-04-03": 101496,
-  "2022-04-04": 101489,
-  "2022-04-05": 101483,
-  "2022-04-06": 101470,
-  "2022-04-07": 101462,
-  "2022-04-08": 101457,
-  "2022-04-09": 101458,
-  "2022-04-10": 101439,
-  "2022-04-11": 101442,
-  "2022-04-12": 101442,
-  "2022-04-13": 101437,
-  "2022-04-14": 101434,
-  "2022-04-15": 101428,
-  "2022-04-16": 101419,
-  "2022-04-17": 101409,
-  "2022-04-18": 101403,
-  "2022-04-19": 101399,
-  "2022-04-20": 101389,
-  "2022-04-21": 101380,
-  "2022-04-22": 101371,
-  "2022-04-23": 101364,
-  "2022-04-24": 101358,
-  "2022-04-25": 101345,
-  "2022-04-26": 101348,
-  "2022-04-27": 101350,
-  "2022-04-28": 101354,
-  "2022-04-29": 101338,
-  "2022-04-30": 101336,
-  "2022-05-01": 101324,
-  "2022-05-02": 101324,
-  "2022-05-03": 101322,
-  "2022-05-04": 101323,
-  "2022-05-05": 101306,
-  "2022-05-06": 101308,
-  "2022-05-07": 101300,
-  "2022-05-08": 101303,
-  "2022-05-09": 101302,
-  "2022-05-10": 101288,
-  "2022-05-11": 101278,
-  "2022-05-12": 101270,
-  "2022-05-13": 101264,
-  "2022-05-14": 101263,
-  "2022-05-15": 101273,
-  "2022-05-16": 101270,
-  "2022-05-17": 101261,
-  "2022-05-18": 101255,
-  "2022-05-19": 101243,
-  "2022-05-20": 101249,
-  "2022-05-21": 101238,
-  "2022-05-22": 101238,
-  "2022-05-23": 101242,
-  "2022-05-24": 101231,
-  "2022-05-25": 101231,
-  "2022-05-26": 101224,
-  "2022-05-27": 101226,
-  "2022-05-28": 101220,
-  "2022-05-29": 101225,
-  "2022-05-30": 101225,
-  "2022-05-31": 101212,
-  "2022-06-01": 101198,
-  "2022-06-02": 101198,
-  "2022-06-03": 101196,
-  "2022-06-04": 101178,
-  "2022-06-05": 101189,
-  "2022-06-06": 101180,
-  "2022-06-07": 101165,
-  "2022-06-08": 101160,
-  "2022-06-09": 101154,
-  "2022-06-10": 101157,
-  "2022-06-11": 101153,
-  "2022-06-12": 101153,
-  "2022-06-13": 101142,
-  "2022-06-14": 101141,
-  "2022-06-15": 101140,
-  "2022-06-16": 101142,
-  "2022-06-17": 101135,
-  "2022-06-18": 101142,
-  "2022-06-19": 101136,
-  "2022-06-20": 101136,
-  "2022-06-21": 101142,
-  "2022-06-22": 101141,
-  "2022-06-23": 101141,
-  "2022-06-24": 101138,
-  "2022-06-25": 101138,
-  "2022-06-26": 101146,
-  "2022-06-27": 101148,
-  "2022-06-28": 101139,
-  "2022-06-29": 101141,
-  "2022-06-30": 101131,
-  "2022-07-01": 101121,
-  "2022-07-02": 101121,
-  "2022-07-03": 101119,
-  "2022-07-04": 101113,
-  "2022-07-05": 101108,
-  "2022-07-06": 101100,
-  "2022-07-07": 101092,
-  "2022-07-08": 101088,
-  "2022-07-09": 101076,
-  "2022-07-10": 101068,
-  "2022-07-11": 101067,
-  "2022-07-12": 101070,
-  "2022-07-13": 101066,
-  "2022-07-14": 101066,
-  "2022-07-15": 101063,
-  "2022-07-16": 101059,
-  "2022-07-17": 101055,
-  "2022-07-18": 101060,
-  "2022-07-19": 101060,
-  "2022-07-20": 101063,
-  "2022-07-21": 101063,
-  "2022-07-22": 101058,
-  "2022-07-23": 101057,
-  "2022-07-24": 101043,
-  "2022-07-25": 101052,
-  "2022-07-26": 101063,
-  "2022-07-27": 101060,
-  "2022-07-28": 101060,
-  "2022-07-29": 101066,
-  "2022-07-30": 101066,
-  "2022-07-31": 101066,
-  "2022-08-01": 101074,
-  "2022-08-02": 101067,
-  "2022-08-03": 101067,
-  "2022-08-04": 101076,
-  "2022-08-05": 101074,
-  "2022-08-06": 101078,
-  "2022-08-07": 101080,
-  "2022-08-08": 101079,
-  "2022-08-09": 101082,
-  "2022-08-10": 101085,
-  "2022-08-11": 101083,
-  "2022-08-12": 101086,
-  "2022-08-13": 101091,
-  "2022-08-14": 101083,
-  "2022-08-15": 101095,
-  "2022-08-16": 101092,
-  "2022-08-17": 101082,
-  "2022-08-18": 101092,
-  "2022-08-19": 101097,
-  "2022-08-20": 101104,
-  "2022-08-21": 101102,
-  "2022-08-22": 101096,
-  "2022-08-23": 101109,
-  "2022-08-24": 101104,
-  "2022-08-25": 101119,
-  "2022-08-26": 101140,
-  "2022-08-27": 101138,
-  "2022-08-28": 101150,
-  "2022-08-29": 101156,
-  "2022-08-30": 101170,
-  "2022-08-31": 101183,
-  "2022-09-01": 101190,
-  "2022-09-02": 101217,
-  "2022-09-03": 101246,
-  "2022-09-04": 101266,
-  "2022-09-05": 101274,
-  "2022-09-06": 101292,
-  "2022-09-07": 101311,
-  "2022-09-09": 101364,
-  "2022-09-10": 101388,
-  "2022-09-11": 101398,
-  "2022-09-12": 101415,
-  "2022-09-13": 101424,
-  "2022-09-15": 101461,
-  "2022-09-16": 101477,
-  "2022-09-17": 101490,
-  "2022-09-18": 101511,
-  "2022-09-19": 101529,
-  "2022-09-20": 101549,
-  "2022-09-21": 101562,
-  "2022-09-22": 101588,
-  "2022-09-23": 101600,
-  "2022-09-24": 101632,
-  "2022-09-25": 101670,
-  "2022-09-26": 101714,
-  "2022-09-27": 101737,
-  "2022-09-28": 101762,
-  "2022-09-29": 101792,
-  "2022-09-30": 101829,
-  "2022-10-01": 101859,
-  "2022-10-02": 101888,
-  "2022-10-03": 101918,
-  "2022-10-04": 101964,
-  "2022-10-05": 101990,
-  "2022-10-06": 102019,
-  "2022-10-07": 102052,
-  "2022-10-08": 102085,
-  "2022-10-09": 102147,
-  "2022-10-10": 102158,
-  "2022-10-11": 102185,
-  "2022-10-12": 102217,
-  "2022-10-13": 102256,
-  "2022-10-14": 102301,
-  "2022-10-15": 102336,
-  "2022-10-16": 102379,
-  "2022-10-17": 102425,
-  "2022-10-18": 102472,
-  "2022-10-19": 102531,
-  "2022-10-20": 102575,
-  "2022-10-21": 102635,
-  "2022-10-22": 102684,
-  "2022-10-23": 102738,
-  "2022-10-24": 102804,
-  "2022-10-25": 102856,
-  "2022-10-26": 102921,
-  "2022-10-27": 103067,
-  "2022-10-28": 103271,
-  "2022-10-29": 103487,
-  "2022-10-30": 103702,
-  "2022-10-31": 103923,
-  "2022-11-01": 104150,
-  "2022-11-02": 104740,
-  "2022-11-03": 105380,
-  "2022-11-04": 106105,
-  "2022-11-05": 106707,
-  "2022-11-06": 107249,
-  "2022-11-07": 107873,
-  "2022-11-08": 108397,
-  "2022-11-09": 108925,
-  "2022-11-10": 109449,
-  "2022-11-11": 109937,
-  "2022-11-12": 110599,
-  "2022-11-13": 111247,
-  "2022-11-14": 111933,
-  "2022-11-15": 112544,
-  "2022-11-16": 113128,
-  "2022-11-17": 113834,
-  "2022-11-18": 113981,
-  "2022-11-19": 113856,
-  "2022-11-20": 115009,
-  "2022-11-21": 114885,
-  "2022-11-22": 116704,
-  "2022-11-23": 116609,
-  "2022-11-24": 118778,
-  "2022-11-25": 119811,
-  "2022-11-26": 120599,
-  "2022-11-27": 121630,
-  "2022-11-28": 122562,
-  "2022-11-29": 123601,
-  "2022-11-30": 124559,
-  "2022-12-01": 125500,
-  "2022-12-02": 126157,
-  "2022-12-03": 127387,
-  "2022-12-04": 128330,
-  "2022-12-05": 129392,
-  "2022-12-06": 130346,
-  "2022-12-07": 131202,
-  "2022-12-08": 132074,
-  "2022-12-09": 133063,
-  "2022-12-10": 134148,
-  "2022-12-11": 135303,
-  "2022-12-12": 136406,
-  "2022-12-13": 137478,
-  "2022-12-14": 138697,
-  "2022-12-15": 139755,
-  "2022-12-16": 140774,
-  "2022-12-17": 141902,
-  "2022-12-18": 143138,
-  "2022-12-19": 144249,
-  "2022-12-20": 146655,
-  "2022-12-21": 146655,
-  "2022-12-22": 148136,
-  "2022-12-24": 150996,
-  "2022-12-25": 152780,
-  "2022-12-26": 153929,
-  "2022-12-27": 154235,
-  "2022-12-28": 154431,
-  "2022-12-29": 154644,
-  "2022-12-30": 154884,
-  "2022-12-31": 155074,
-  "2023-01-01": 155213,
-  "2023-01-02": 155293,
-  "2023-01-03": 155329,
-  "2023-01-04": 155330,
-  "2023-01-05": 155335,
-  "2023-01-06": 155345,
-  "2023-01-07": 155395,
-  "2023-01-08": 155412,
-  "2023-01-09": 155451,
-  "2023-01-10": 155467,
-  "2023-01-11": 155461,
-  "2023-01-12": 155474,
-  "2023-01-13": 155515,
-  "2023-01-14": 155559,
-  "2023-01-15": 155574,
-  "2023-01-16": 155573,
-  "2023-01-17": 155607,
-  "2023-01-18": 155657,
-  "2023-01-19": 155679,
-  "2023-01-20": 155697,
-  "2023-01-21": 155713,
-  "2023-01-22": 155758,
-  "2023-01-23": 155814,
-  "2023-01-24": 155828,
-  "2023-01-25": 155852,
-  "2023-01-26": 155864,
-  "2023-01-27": 155884,
-  "2023-01-28": 155878,
-  "2023-01-29": 155888,
-  "2023-01-30": 155897,
-  "2023-01-31": 155897,
-  "2023-02-01": 155870,
-  "2023-02-02": 155850,
-  "2023-02-03": 155828,
-  "2023-02-04": 155798,
-  "2023-02-05": 155777,
-  "2023-02-06": 155742,
-  "2023-02-07": 155704,
-  "2023-02-08": 155652,
-  "2023-02-09": 155652,
-  "2023-02-10": 155615,
-  "2023-02-11": 155577,
-  "2023-02-12": 155537,
-  "2023-02-13": 155518,
-  "2023-02-14": 155518,
-  "2023-02-15": 155497,
-  "2023-02-16": 155467,
-  "2023-02-17": 155442,
-  "2023-02-18": 155387,
-  "2023-02-19": 155382,
-  "2023-02-20": 155369,
-  "2023-02-21": 155351,
-  "2023-02-22": 155322,
-  "2023-02-23": 155285,
-  "2023-02-24": 155251,
-  "2023-02-25": 155220,
-  "2023-02-26": 155202,
-  "2023-02-27": 155148,
-  "2023-02-28": 155148,
-  "2023-03-01": 155127,
-  "2023-03-02": 155105,
-  "2023-03-03": 155076,
-  "2023-03-04": 155063,
-  "2023-03-05": 155018,
-  "2023-03-06": 155018,
-  "2023-03-07": 155000,
-  "2023-03-08": 154987,
-  "2023-03-09": 154963,
-  "2023-03-10": 154950,
-  "2023-03-11": 154926,
-  "2023-03-12": 154907,
-  "2023-03-13": 154894,
-  "2023-03-14": 154880,
-  "2023-03-15": 154861,
-  "2023-03-16": 154837,
-  "2023-03-17": 154837,
-  "2023-03-18": 154816,
-  "2023-03-19": 154797,
-  "2023-03-20": 154776,
-  "2023-03-21": 154753,
-  "2023-03-22": 154728,
-  "2023-03-23": 154720,
-  "2023-03-24": 154720,
-  "2023-03-25": 154692,
-  "2023-03-26": 154678,
-  "2023-03-27": 154660,
-  "2023-03-28": 154638,
-  "2023-03-29": 154619,
-  "2023-03-30": 154591,
-  "2023-03-31": 154591,
-  "2023-04-01": 154583,
-  "2023-04-02": 154571,
-  "2023-04-03": 154567,
-  "2023-04-04": 154551,
-  "2023-04-05": 154535,
-  "2023-04-06": 154510,
-  "2023-04-07": 154493,
-  "2023-04-09": 154472,
-  "2023-04-10": 154464,
-  "2023-04-11": 154433,
-  "2023-04-12": 154433,
-  "2023-04-13": 154422,
-  "2023-04-14": 154421,
-  "2023-04-15": 154417,
-  "2023-04-16": 154397,
-  "2023-04-17": 154373,
-  "2023-04-18": 154365,
-  "2023-04-19": 154353,
-  "2023-04-20": 154343,
-  "2023-04-21": 154323,
-  "2023-04-22": 154320,
-  "2023-04-23": 154308,
-  "2023-04-24": 154299,
-  "2023-04-25": 154281,
-  "2023-04-26": 154275,
-  "2023-04-27": 154270,
-  "2023-04-28": 154254,
-  "2023-04-29": 154253,
-  "2023-04-30": 154237,
-  "2023-05-01": 154224,
-  "2023-05-02": 154207,
-  "2023-05-03": 154193,
-  "2023-05-04": 154185,
-  "2023-05-05": 154175,
-  "2023-05-06": 154159,
-  "2023-05-07": 154144,
-  "2023-05-08": 154129,
-  "2023-05-09": 154128,
-  "2023-05-10": 154119,
-  "2023-05-11": 154109,
-  "2023-05-12": 154100,
-  "2023-05-13": 154096,
-  "2023-05-14": 154081,
-  "2023-05-15": 154067,
-  "2023-05-16": 154052,
-  "2023-05-17": 154048,
-  "2023-05-18": 154042,
-  "2023-05-19": 154027,
-  "2023-05-20": 154004,
-  "2023-05-21": 154004,
-  "2023-05-22": 154004,
-  "2023-05-23": 153984,
-  "2023-05-24": 153977,
-  "2023-05-25": 153974,
-  "2023-05-26": 153965,
-  "2023-05-27": 153962,
-  "2023-05-28": 153959,
-  "2023-05-29": 153959,
-  "2023-05-30": 153948,
-  "2023-05-31": 153933,
-  "2023-06-01": 153926,
-  "2023-06-02": 153916,
-  "2023-06-03": 153905,
-  "2023-06-04": 153898,
-  "2023-06-05": 153881,
-  "2023-06-06": 153874,
-  "2023-06-07": 153865,
-  "2023-06-08": 153850,
-  "2023-06-09": 153854,
-  "2023-06-10": 153849,
-  "2023-06-11": 153844,
-  "2023-06-12": 153833,
-  "2023-06-13": 153818,
-  "2023-06-14": 153814,
-  "2023-06-15": 153810,
-  "2023-06-16": 153800,
-  "2023-06-17": 153791,
-  "2023-06-18": 153793,
-  "2023-06-19": 153782,
-  "2023-06-20": 153770,
-  "2023-06-21": 153763,
-  "2023-06-22": 153768,
-  "2023-06-23": 153758,
-  "2023-06-24": 153759,
-  "2023-06-25": 153750,
-  "2023-06-26": 153746,
-  "2023-06-27": 153740,
-  "2023-06-28": 153742,
-  "2023-06-29": 153731,
-  "2023-06-30": 153723,
-  "2023-07-01": 153712,
-  "2023-07-02": 153712,
-  "2023-07-03": 153715,
-  "2023-07-04": 153718,
-  "2023-07-05": 153707,
-  "2023-07-06": 153695,
-  "2023-07-07": 153695,
-  "2023-07-08": 153679,
-  "2023-07-09": 153669,
-  "2023-07-10": 153661,
-  "2023-07-11": 153652,
-  "2023-07-12": 153647,
-  "2023-07-13": 153653,
-  "2023-07-14": 153647,
-  "2023-07-15": 153641,
-  "2023-07-16": 153637,
-  "2023-07-17": 153638,
-  "2023-07-18": 153636,
-  "2023-07-19": 153628,
-  "2023-07-20": 153615,
-  "2023-07-21": 153618,
-  "2023-07-22": 153616,
-  "2023-07-23": 153622,
-  "2023-07-24": 153610,
-  "2023-07-25": 153609,
-  "2023-07-26": 153608,
-  "2023-07-27": 153607,
-  "2023-07-28": 153612,
-  "2023-07-29": 153620,
-  "2023-07-30": 153622,
-  "2023-07-31": 153623,
-  "2023-08-01": 153628,
-  "2023-08-02": 153629,
-  "2023-08-03": 153626,
-  "2023-08-04": 153632,
-  "2023-08-05": 153644,
-  "2023-08-06": 153645,
-  "2023-08-07": 153645,
-  "2023-08-08": 153640,
-  "2023-08-09": 153648,
-  "2023-08-10": 153639,
-  "2023-08-11": 153644,
-  "2023-08-12": 153661,
-  "2023-08-13": 153666,
-  "2023-08-14": 153659,
-  "2023-08-15": 153660,
-  "2023-08-16": 153660,
-  "2023-08-17": 153656,
-  "2023-08-18": 153651,
-  "2023-08-19": 153665,
-  "2023-08-20": 153663,
-  "2023-08-21": 153673,
-  "2023-08-22": 153666,
-  "2023-08-23": 153659,
-  "2023-08-24": 153677,
-  "2023-08-25": 153680,
-  "2023-08-26": 153679,
-  "2023-08-27": 153688,
-  "2023-08-28": 153687,
-  "2023-08-29": 153697,
-  "2023-08-30": 153689,
-  "2023-08-31": 153692,
-  "2023-09-01": 153710,
-  "2023-09-02": 153710,
-  "2023-09-03": 153737,
-  "2023-09-04": 153755,
-  "2023-09-05": 153765,
-  "2023-09-06": 153784,
-  "2023-09-07": 153804,
-  "2023-09-08": 153811,
-  "2023-09-09": 153831,
-  "2023-09-10": 153848,
-  "2023-09-11": 153861,
-  "2023-09-12": 153885,
-  "2023-09-13": 153891,
-  "2023-09-14": 153909,
-  "2023-09-15": 153925,
-  "2023-09-16": 153943,
-  "2023-09-17": 153961,
-  "2023-09-18": 153988,
-  "2023-09-19": 154001,
-  "2023-09-20": 154008,
-  "2023-09-21": 154031,
-  "2023-09-22": 154037,
-  "2023-09-23": 154056,
-  "2023-09-24": 154094,
-  "2023-09-25": 154123,
-  "2023-09-26": 154146,
-  "2023-09-27": 154160,
-  "2023-09-28": 154170,
-  "2023-09-29": 154177,
-  "2023-09-30": 154193,
-  "2023-10-01": 154200,
-  "2023-10-02": 154215,
-  "2023-10-03": 154231,
-  "2023-10-04": 154258,
-  "2023-10-05": 154264,
-  "2023-10-06": 154288,
-  "2023-10-07": 154298,
-  "2023-10-08": 154317,
-  "2023-10-09": 154334,
-  "2023-10-10": 154293,
-  "2023-10-11": 154269,
-  "2023-10-12": 154269,
-  "2023-10-13": 154249,
-  "2023-10-14": 154234,
-  "2023-10-15": 154234,
-  "2023-10-16": 154260,
-  "2023-10-17": 154290,
-  "2023-10-18": 154314,
-  "2023-10-19": 154333,
-  "2023-10-20": 154345,
-  "2023-10-21": 154368,
-  "2023-10-22": 154400,
-  "2023-10-23": 154439,
-  "2023-10-24": 154453,
-  "2023-10-25": 154482,
-  "2023-10-26": 154508,
-  "2023-10-27": 154553,
-  "2023-10-28": 154585,
-  "2023-10-29": 154629,
-  "2023-10-30": 154729,
-  "2023-10-31": 154729,
-  "2023-11-01": 154795,
-  "2023-11-02": 154999,
-  "2023-11-03": 155158,
-  "2023-11-04": 155265,
-  "2023-11-05": 155382,
-  "2023-11-06": 155513,
-  "2023-11-07": 155610,
-  "2023-11-08": 155740,
-  "2023-11-09": 155855,
-  "2023-11-10": 155960,
-  "2023-11-11": 156081,
-  "2023-11-12": 156195,
-  "2023-11-13": 156334,
-  "2023-11-14": 156459,
-  "2023-11-15": 156459,
-  "2023-11-16": 156767,
-  "2023-11-17": 157461,
-  "2023-11-18": 157461,
-  "2023-11-19": 157645,
-  "2023-11-20": 157800,
-  "2023-11-21": 157966,
-  "2023-11-22": 158187,
-  "2023-11-23": 158439,
-  "2023-11-24": 158646,
-  "2023-11-25": 158900,
-  "2023-11-26": 159320,
-  "2023-11-27": 159676,
-  "2023-11-28": 160232,
-  "2023-11-29": 160939,
-  "2023-11-30": 160939,
-  "2023-12-01": 161257,
-  "2023-12-02": 161714,
-  "2023-12-03": 162258,
-  "2023-12-04": 162830,
-  "2023-12-05": 163299,
-  "2023-12-06": 164217,
-  "2023-12-07": 164691,
-  "2023-12-08": 165103,
-  "2023-12-09": 165446,
-  "2023-12-10": 165903,
-  "2023-12-11": 166242,
-  "2023-12-12": 166556,
-  "2023-12-13": 166918,
-  "2023-12-14": 167411,
-  "2023-12-15": 167724,
-  "2023-12-16": 168084,
-  "2023-12-17": 168427,
-  "2023-12-18": 168784,
-  "2023-12-19": 169122,
-  "2023-12-20": 169585,
-  "2023-12-21": 170065,
-  "2023-12-22": 170433,
-  "2023-12-23": 170978,
-  "2023-12-24": 171568,
-  "2023-12-25": 172418,
-  "2023-12-26": 172783,
-  "2023-12-27": 172879,
-  "2023-12-30": 172886,
-  "2023-12-31": 172889,
-  "2024-01-01": 172903,
-  "2024-01-02": 172845,
-  "2024-01-03": 172767
+  "2024-01-17": 172003,
+  "date_first_scraped": "2021-12-28",
+  "description": "Holiday cheer from your Disney favorites!",
+  "name": "Disney Christmas",
+  "tracks": [
+    {
+      "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154720,
+      "name": "'Zat You, Santa Claus?",
+      "url": "https://open.spotify.com/track/71CYeO8QuGeIyCAdk1eTeH"
+    },
+    {
+      "album": {
+        "name": "A Little More",
+        "url": "https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd"
+      },
+      "artists": [
+        {
+          "name": "Jessica Darrow",
+          "url": "https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186726,
+      "name": "A Little More",
+      "url": "https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa"
+    },
+    {
+      "album": {
+        "name": "Rockin' Holiday",
+        "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227584,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0yJI0V4U9cy59pGFR7SQui"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk"
+        },
+        {
+          "name": "Sebastian",
+          "url": "https://open.spotify.com/artist/3SDQzHnLxVFNK6hvg9Lrks"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Ariel's Christmas Island",
+      "url": "https://open.spotify.com/track/0aCVcGoCbdnfFowNu6IzvU"
+    },
+    {
+      "album": {
+        "name": "Audrey's Christmas Rewind",
+        "url": "https://open.spotify.com/album/7fDSJl22e3oDb0L6tiAS4S"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jeffery",
+          "url": "https://open.spotify.com/artist/0uqrdF1UCmMshSk6veOa5K"
+        },
+        {
+          "name": "Jadah Marie",
+          "url": "https://open.spotify.com/artist/3hAR5VO7T6QRfivYreeXmz"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133611,
+      "name": "Audrey's Christmas Rewind",
+      "url": "https://open.spotify.com/track/41EBsCOnEjg6j9l72fFtRf"
+    },
+    {
+      "album": {
+        "name": "Bring on Christmas Day",
+        "url": "https://open.spotify.com/album/40jWI7gm77i5F32eXQiIwK"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228860,
+      "name": "Bring on Christmas Day",
+      "url": "https://open.spotify.com/track/4aBOiLLaZesaTEYPItY8A9"
+    },
+    {
+      "album": {
+        "name": "Candlelight Processional",
+        "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
+      },
+      "artists": [
+        {
+          "name": "Massed Choir",
+          "url": "https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324880,
+      "name": "Candlelight Overture",
+      "url": "https://open.spotify.com/track/0x3ZtKQ5V6VSkAKx5GwIku"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93506,
+      "name": "Carol of the Bells",
+      "url": "https://open.spotify.com/track/1JkD85e8leiLWPwW4b0qWa"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Hits",
+        "url": "https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9"
+      },
+      "artists": [
+        {
+          "name": "Forever in Your Mind",
+          "url": "https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190226,
+      "name": "Celebrate (It's Christmas)",
+      "url": "https://open.spotify.com/track/12blByfqH50AD5VZnRZukS"
+    },
+    {
+      "album": {
+        "name": "Chillin' Like a Snowman",
+        "url": "https://open.spotify.com/album/5tUSvSpOA1yOdvfK09wYu5"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149877,
+      "name": "Chillin' Like a Snowman",
+      "url": "https://open.spotify.com/track/0OB9E1FwewopKBgGTEc8Ir"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Dara Rene\u00e9",
+          "url": "https://open.spotify.com/artist/7BtVR5EyH1mjLM5bjXUD5s"
+        },
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        },
+        {
+          "name": "Matt Cornett",
+          "url": "https://open.spotify.com/artist/61lrTfBVPrE3DOTu9MGmhQ"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138827,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/3xnbm32H80upWWCEY20RQd"
+    },
+    {
+      "album": {
+        "name": "Christmas (Baby Please Come Home)",
+        "url": "https://open.spotify.com/album/6ca5oWPPv6nXVjeFUyucvA"
+      },
+      "artists": [
+        {
+          "name": "Olivia Holt",
+          "url": "https://open.spotify.com/artist/188VINPQh5dyNfLUkevKqf"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150440,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/61Bk7DCKXyMdfdJqK0DuoR"
+    },
+    {
+      "album": {
+        "name": "Christmas Again (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2p2vhl9JhrEgLHufU2ynjT"
+      },
+      "artists": [
+        {
+          "name": "Scarlett Estevez",
+          "url": "https://open.spotify.com/artist/7vtaa3f6pG08gYqAs2l9fk"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184478,
+      "name": "Christmas Again",
+      "url": "https://open.spotify.com/track/5wVIYvdUYoL8cPhf5erVTx"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283960,
+      "name": "Christmas Eve Montage",
+      "url": "https://open.spotify.com/track/6VNtoQ5FSWZhiGgJ3DZSUb"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Playlist",
+        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
+      },
+      "artists": [
+        {
+          "name": "Ross Lynch and R5",
+          "url": "https://open.spotify.com/artist/5pqZ35N7W2L1naGMgOddVW"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/5adIYznGmdO5b0cSwJZrjb"
+    },
+    {
+      "album": {
+        "name": "Mickey Saves Christmas (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7pRegyKmNmsJN1UkB77iIu"
+      },
+      "artists": [
+        {
+          "name": "Mickey Saves Christmas - Cast",
+          "url": "https://open.spotify.com/artist/7jsEWApcTNGDyVHlYm9QZh"
+        }
+      ],
+      "date_added": "2022-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139919,
+      "name": "Christmas Is Nearly Here",
+      "url": "https://open.spotify.com/track/3q2EkP9QIXLAW0VNM8QZTx"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Miles Goodman",
+          "url": "https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 57160,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/2L2PfoLfYE2a5ExqfymzLF"
+    },
+    {
+      "album": {
+        "name": "The Muppets Christmas Carol",
+        "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
+      },
+      "artists": [
+        {
+          "name": "Miles Goodman",
+          "url": "https://open.spotify.com/artist/6EO3sg6d03gDegWGl2eILt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 57160,
+      "name": "Christmas Morning",
+      "url": "https://open.spotify.com/track/3GID4s7AqCNCWureohDnZ9"
+    },
+    {
+      "album": {
+        "name": "Come December",
+        "url": "https://open.spotify.com/album/0wRxTwZuZA2EW4OTyZbM3C"
+      },
+      "artists": [
+        {
+          "name": "Jordan Fisher",
+          "url": "https://open.spotify.com/artist/60wslYioiBcxSTInM4nIy2"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Come December",
+      "url": "https://open.spotify.com/track/0sgFXUqZUc8aULEbhY8bO5"
+    },
+    {
+      "album": {
+        "name": "Dancing with My Elf (From \"The Santa Clauses: Season 2\")",
+        "url": "https://open.spotify.com/album/7kDzYXuRLjSNgChDuOeGVy"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230206,
+      "name": "Dancing with My Elf",
+      "url": "https://open.spotify.com/track/5F6dhXfQxfxx3FIaMl7Vc1"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97573,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/5jtvS4uu9odCpRC4XvI29B"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music: Holiday Classics",
+        "url": "https://open.spotify.com/album/2USXZSmAueWsHffgOa6GUk"
+      },
+      "artists": [
+        {
+          "name": "Genevieve Goings",
+          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84155,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/4oU1MnU8IVozO4VpYodGTX"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "Mickey & His Friends",
+          "url": "https://open.spotify.com/artist/5t7Q9iwSyvZDJqLJYoqEX9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158373,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/7bACqpSGu8DLSXsg2T85Ym"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Lullaby",
+        "url": "https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164211,
+      "name": "Do You Want to Build a Snowman?",
+      "url": "https://open.spotify.com/track/3xF2Gejis04bdObgo1rxqv"
+    },
+    {
+      "album": {
+        "name": "Do You Want To Build A Snowman?",
+        "url": "https://open.spotify.com/album/2odWGcUlNzLX6SbpefywbM"
+      },
+      "artists": [
+        {
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190840,
+      "name": "Do You Want To Build A Snowman?",
+      "url": "https://open.spotify.com/track/3okmTyVQzbCvy35O0qw8IS"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Agatha Lee Monn",
+          "url": "https://open.spotify.com/artist/6kHu5ICQRBZdsAHjAjQlmp"
+        },
+        {
+          "name": "Katie Lopez",
+          "url": "https://open.spotify.com/artist/5Kkhk21siwbW3BfZUwpykJ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
+    },
+    {
+      "album": {
+        "name": "Elves Just Wanna Have Fun (From \"The Santa Clauses\")",
+        "url": "https://open.spotify.com/album/1s0YL7lVhIeAP7912Ly0XU"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85718,
+      "name": "Elves Just Wanna Have Fun - From \"The Santa Clauses\"",
+      "url": "https://open.spotify.com/track/3VtNPlYZPNALshmbvb31He"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199020,
+      "name": "Eventually",
+      "url": "https://open.spotify.com/track/69cTqxNCHIr1afPVDbgi06"
+    },
+    {
+      "album": {
+        "name": "Fall On Me (From Disney's \"The Nutcracker And The Four Realms\")",
+        "url": "https://open.spotify.com/album/1uJ2clTZqBBtpINfeG5Yet"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258815,
+      "name": "Fall On Me - From Disney's \"The Nutcracker And The Four Realms\" / English Version",
+      "url": "https://open.spotify.com/track/6eZepRfg201eTOlbire06i"
+    },
+    {
+      "album": {
+        "name": "Rockin' Holiday",
+        "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145877,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/69dpFbPJyNg3ljZ72KpktM"
+    },
+    {
+      "album": {
+        "name": "Feliz Navidad (with The Simpsons)",
+        "url": "https://open.spotify.com/album/0ZcvS854Zujt3tuVmKzEUY"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+        },
+        {
+          "name": "Matteo Bocelli",
+          "url": "https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w"
+        },
+        {
+          "name": "Virginia Bocelli",
+          "url": "https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX"
+        },
+        {
+          "name": "The Simpsons",
+          "url": "https://open.spotify.com/artist/7r0Otd9dEStSVIxJ02ml5a"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122320,
+      "name": "Feliz Navidad (with The Simpsons)",
+      "url": "https://open.spotify.com/track/4xBS1p60I9p8TxbBVcTrOQ"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Ghost of Christmas Present",
+          "url": "https://open.spotify.com/artist/2RmGe4wEgHudP9BBRfR8Ez"
+        },
+        {
+          "name": "Tiny Tim",
+          "url": "https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC"
+        },
+        {
+          "name": "Scrooge",
+          "url": "https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7"
+        },
+        {
+          "name": "The Muppet Cast",
+          "url": "https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Finale \u2013 When Love Is Found/It Feels Like Christmas",
+      "url": "https://open.spotify.com/track/0yi2TZfGAffVmfnQD1sm8j"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Frosty the Snowman",
+      "url": "https://open.spotify.com/track/5HtbV8EtYpz5VLEhbKuHSO"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Carl the Intern",
+          "url": "https://open.spotify.com/artist/4FtomEyAmaG5fHc283H9JZ"
+        },
+        {
+          "name": "Major Monogram",
+          "url": "https://open.spotify.com/artist/2cKSFMz5WSX7aJS3hclJbz"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146106,
+      "name": "Frosty the Snowman (Recorded as \"Perry Saves Christmas\")",
+      "url": "https://open.spotify.com/track/35RR0sUJtfdTVWi98cGMCg"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-09",
+      "duration_ms": 218466,
+      "name": "Greatest Time Of Year",
+      "url": "https://open.spotify.com/track/6zOxBHvtYKy43AeeUlurBR"
+    },
+    {
+      "album": {
+        "name": "Acoustic Hearts Of Winter",
+        "url": "https://open.spotify.com/album/4B5cO6NvbMw9c8rjBmMd6h"
+      },
+      "artists": [
+        {
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218493,
+      "name": "Greatest Time Of Year",
+      "url": "https://open.spotify.com/track/7yrqJUfnjteV1FLe9dXcVa"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 46213,
+      "name": "Hark! The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/44BgPCapQFriRQEQiGQMz1"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Snow White",
+          "url": "https://open.spotify.com/artist/6BAIFK6o6egITr3K8JysWa"
+        },
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/4PNxaLK53sf9AebS32lwsB"
+        },
+        {
+          "name": "The Bashful",
+          "url": "https://open.spotify.com/artist/5XYl7tpQiqm8xFFLzX4pjL"
+        },
+        {
+          "name": "Doc",
+          "url": "https://open.spotify.com/artist/0yCFOUK2sXwZhpWQ20rNV4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128746,
+      "name": "Have A Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/3CX3aJnXjRw2V1V6nNcxaL"
+    },
+    {
+      "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Kermit the Frog",
+          "url": "https://open.spotify.com/artist/1PGjAoXiKP1Hcx788WVFx9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229093,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7pDQSx6Gee0ZTpLE41ZtXR"
+    },
+    {
+      "album": {
+        "name": "Have Yourself a Merry Little Christmas",
+        "url": "https://open.spotify.com/album/78ghmfG83tQUF43coZ6FiH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226713,
+      "name": "Have Yourself a Merry Little Christmas",
+      "url": "https://open.spotify.com/track/3raNSxsive7mKRQvSAoAmE"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Holiday Hits",
+        "url": "https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136725,
+      "name": "Hearts Full of Cheer - From \"Elena of Avalor\"",
+      "url": "https://open.spotify.com/track/30LsNscPjAU2uzAfMMbrx9"
+    },
+    {
+      "album": {
+        "name": "Disney Holiday Magic",
+        "url": "https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112720,
+      "name": "Here Comes Santa Claus",
+      "url": "https://open.spotify.com/track/6UikPXIvtRFBK7SM8s9sY4"
+    },
+    {
+      "album": {
+        "name": "The Guardians of the Galaxy Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M"
+      },
+      "artists": [
+        {
+          "name": "Kevin Bacon",
+          "url": "https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz"
+        },
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206013,
+      "name": "Here It Is Christmastime",
+      "url": "https://open.spotify.com/track/2yQLP5RVrvJgkViKronxrK"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151293,
+      "name": "Holidays At Home",
+      "url": "https://open.spotify.com/track/6FQSGMx4izRscahI2z0YVl"
+    },
+    {
+      "album": {
+        "name": "Home for the Holidays with DCappella",
+        "url": "https://open.spotify.com/album/3FHCtrY8Pu5KfPfvNSMmcZ"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156360,
+      "name": "Home for Christmas",
+      "url": "https://open.spotify.com/track/1dQj0qJwCccf6b9f7zJST5"
+    },
+    {
+      "album": {
+        "name": "Disney Junior Music Holiday Hits",
+        "url": "https://open.spotify.com/album/3MnoSzB6Ynq2vq0BV3krZg"
+      },
+      "artists": [
+        {
+          "name": "\"Elena Of Avalor\" Cast",
+          "url": "https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119522,
+      "name": "Home for Navidad - From \"Elena of Avalor\"",
+      "url": "https://open.spotify.com/track/1vf4EFxsTupQjuffFRP1IL"
+    },
+    {
+      "album": {
+        "name": "The Guardians of the Galaxy Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7hgaezyHeEDN4zFnjRWk9M"
+      },
+      "artists": [
+        {
+          "name": "Old 97's",
+          "url": "https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182986,
+      "name": "I Don't Know What Christmas Is (But Christmastime Is Here)",
+      "url": "https://open.spotify.com/track/7AD4sAsJJQm0Bog0zhwYrf"
+    },
+    {
+      "album": {
+        "name": "I Love Christmas",
+        "url": "https://open.spotify.com/album/6qn2TGYSCLeHCkk6t71Nk1"
+      },
+      "artists": [
+        {
+          "name": "Austin Moon",
+          "url": "https://open.spotify.com/artist/1eBGyqw9kLsidL0q2dimWF"
+        },
+        {
+          "name": "Laura Marano",
+          "url": "https://open.spotify.com/artist/21mgsWjJ4TmBxsUKexjJPT"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "I Love Christmas",
+      "url": "https://open.spotify.com/track/39rTGk6MVeykS2Z8FJkYdl"
+    },
+    {
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+      },
+      "artists": [
+        {
+          "name": "Mandy Moore",
+          "url": "https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu"
+        },
+        {
+          "name": "Zachary Levi",
+          "url": "https://open.spotify.com/artist/3XSyTI9ct70ZheMESAv2st"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224240,
+      "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
+      "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl"
+    },
+    {
+      "album": {
+        "name": "A Muppets Christmas: Letters to Santa",
+        "url": "https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci"
+      },
+      "artists": [
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC"
+        },
+        {
+          "name": "Fozzie",
+          "url": "https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146600,
+      "name": "I Wish I Could Be Santa Claus",
+      "url": "https://open.spotify.com/track/1IL3cX5wKaahkzLvIxvgpj"
+    },
+    {
+      "album": {
+        "name": "Edward Scissorhands",
+        "url": "https://open.spotify.com/album/4pv4SQkB4SXrY5bynbW0lf"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104973,
+      "name": "Ice Dance",
+      "url": "https://open.spotify.com/track/6HH8ZoDIe5qw8EYTTHVZh7"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110986,
+      "name": "In Summer - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/7bG6SQBGZthPDG5QJL5Gf7"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194848,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/3Z0oQ8r78OUaHvGPiDBR3W"
+    },
+    {
+      "album": {
+        "name": "A Muppets Christmas: Letters to Santa",
+        "url": "https://open.spotify.com/album/7ioIJ7nA0LziUkEEPy6fci"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        },
+        {
+          "name": "Gonzo",
+          "url": "https://open.spotify.com/artist/5HYbLJiXakWkswW7XNfVAC"
+        },
+        {
+          "name": "Fozzie",
+          "url": "https://open.spotify.com/artist/7l1UtP9HDcanyFwHs3abSw"
+        },
+        {
+          "name": "Pepe",
+          "url": "https://open.spotify.com/artist/79LIIdGsfWO6Ckiuejy2Ba"
+        },
+        {
+          "name": "Rizzo",
+          "url": "https://open.spotify.com/artist/1vROEVubfEqo8fgOqQ9Pn6"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103400,
+      "name": "It's All About Heart",
+      "url": "https://open.spotify.com/track/21AStETk1yF31eVA7QR8Fz"
+    },
+    {
+      "album": {
+        "name": "Disney Jingle Bell Fun",
+        "url": "https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164173,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/1WQg9VQ8Ytar8RKhdWZvx8"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/2Nd5zTQzOxz2UA4HDHc8Yi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "It's The Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/3ttzw5DKv0aETbCw6mh12C"
+    },
+    {
+      "album": {
+        "name": "Disney Holiday Magic",
+        "url": "https://open.spotify.com/album/3s3K3PpzvcW4RARpmUMZgy"
+      },
+      "artists": [
+        {
+          "name": "Huey",
+          "url": "https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf"
+        },
+        {
+          "name": "Dewey",
+          "url": "https://open.spotify.com/artist/2baibcPB54ZviMVMj8w25N"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/7zMwSfJMdl84Ai26VJr8VK"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160386,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/2cYRS293yoUntnfqyzsUrf"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "Mickey and the Gang",
+          "url": "https://open.spotify.com/artist/314zuaSQxaFN1VAOL2IKR7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131906,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/4IHPfrNW1DhFKmAxC0XkAD"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Hits",
+        "url": "https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9"
+      },
+      "artists": [
+        {
+          "name": "Cast - Descendants",
+          "url": "https://open.spotify.com/artist/6iOvIzJzeDKmXWrUlchtKz"
+        },
+        {
+          "name": "Dove Cameron",
+          "url": "https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE"
+        },
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        },
+        {
+          "name": "Cameron Boyce",
+          "url": "https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH"
+        },
+        {
+          "name": "Booboo Stewart",
+          "url": "https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186080,
+      "name": "Jolly to the Core",
+      "url": "https://open.spotify.com/track/0Jkt3yFTzOpwOAUFbaHEMG"
+    },
+    {
+      "album": {
+        "name": "Rockin' Holiday",
+        "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200192,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/5MlS3W0G127IhsDLUe3QqQ"
+    },
+    {
+      "album": {
+        "name": "Last Christmas (From \"The Santa Clauses\")",
+        "url": "https://open.spotify.com/album/0gCWN3e105Yl2K9v4Su8OD"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2022-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "Last Christmas - From \"The Santa Clauses\"",
+      "url": "https://open.spotify.com/track/4X1briUG2VKKO1oP582NRT"
+    },
+    {
+      "album": {
+        "name": "Let It Glow (From \"Frozen Northern Lights\")",
+        "url": "https://open.spotify.com/album/4dPtBNViH8bSO5Xe6MRsfF"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Madison Hu",
+          "url": "https://open.spotify.com/artist/612BRdnZhqoymH42utLvA7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79096,
+      "name": "Let It Glow - From \"Frozen Northern Lights\"",
+      "url": "https://open.spotify.com/track/5fvrAgYWC8D63PYqJNh3tf"
+    },
+    {
+      "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Let It Go - From \"Frozen / Single Version",
+      "url": "https://open.spotify.com/track/1A2PVHd6kWaMlaJVkMfXmz"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Isabella",
+          "url": "https://open.spotify.com/artist/2EmRXI8KZXDepJZ5niFy3y"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127666,
+      "name": "Let it Snow, Let it Snow, Let it Snow",
+      "url": "https://open.spotify.com/track/0TVNlaD7qwDybSNxVmXnlj"
+    },
+    {
+      "album": {
+        "name": "Love Is A Compass (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181469,
+      "name": "Love Is A Compass - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi"
+    },
+    {
+      "album": {
+        "name": "Love Runs Deeper (Disney supporting Make-A-Wish)",
+        "url": "https://open.spotify.com/album/6JMPUM3maKzxvFmXUthJ2I"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 162752,
+      "name": "Love Runs Deeper - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/18AKQ0fflzM3vHjlUDh7jA"
+    },
+    {
+      "album": {
+        "name": "Still Rising - The Collection",
+        "url": "https://open.spotify.com/album/3a36uEHK11iZOzaVXTYh50"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        },
+        {
+          "name": "CHERISE",
+          "url": "https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162752,
+      "name": "Love Runs Deeper - Disney supporting Make-A-Wish",
+      "url": "https://open.spotify.com/track/4rZM46K4uu9rTAwkS5KSNr"
+    },
+    {
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack) [Anniversary Edition]",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293533,
+      "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\") - Voice",
+      "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
+        "name": "Father Of The Bride (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3cXfo1Qhssl2vgPaSzoJxa"
+      },
+      "artists": [
+        {
+          "name": "Alan Silvestri",
+          "url": "https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "Main Title - From \"Father Of The Bride\"",
+      "url": "https://open.spotify.com/track/0i30bPPakybjqfAkxApcLM"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "The Citizens of Halloween",
+          "url": "https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r"
+        },
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237866,
+      "name": "Making Christmas",
+      "url": "https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt"
+    },
+    {
+      "album": {
+        "name": "The Muppets Christmas Carol",
+        "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
+      },
+      "artists": [
+        {
+          "name": "Marley and Marley",
+          "url": "https://open.spotify.com/artist/51BfdWypRDtOOb3qqHUmc9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 193200,
+      "name": "Marley and Marley",
+      "url": "https://open.spotify.com/track/2u0sdhSUMf0JgY1Hc7np4Y"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Marley and Marley",
+          "url": "https://open.spotify.com/artist/51BfdWypRDtOOb3qqHUmc9"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193200,
+      "name": "Marley and Marley",
+      "url": "https://open.spotify.com/track/65kJ7r3yumBXKRutWhfMLo"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162276,
+      "name": "Merry Christmas Baby",
+      "url": "https://open.spotify.com/track/0ozLMntlOvHd0Ft21VkdRu"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Playlist",
+        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
+      },
+      "artists": [
+        {
+          "name": "Bridgit Mendler",
+          "url": "https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb"
+        },
+        {
+          "name": "Shane Harper",
+          "url": "https://open.spotify.com/artist/1zKD316iTPlm0I1EUk8x6j"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201733,
+      "name": "My Song For You (from \"Good Luck Charlie\")",
+      "url": "https://open.spotify.com/track/5sCFhZksQS7YZjG5nl1fyP"
+    },
+    {
+      "album": {
+        "name": "Candlelight Processional",
+        "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
+      },
+      "artists": [
+        {
+          "name": "Massed Choir",
+          "url": "https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/0nEYuVerCeDEj1tCzJDUDz"
+    },
+    {
+      "album": {
+        "name": "Candlelight Processional",
+        "url": "https://open.spotify.com/album/0avfdTE7RNtvrH1E56vfTy"
+      },
+      "artists": [
+        {
+          "name": "Massed Choir",
+          "url": "https://open.spotify.com/artist/0aCR3bf6V9FySG3cJWbogr"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156213,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/2rB5qBiVYAbUGrglToUv7F"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/2lKVLoBlDFcONGT1XhQsIw"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170293,
+      "name": "One More Sleep \u2019til Christmas",
+      "url": "https://open.spotify.com/track/4ZEUe2d1foQdbsNdgQXZlS"
+    },
+    {
+      "album": {
+        "name": "Put the Happy in the Holidays",
+        "url": "https://open.spotify.com/album/1Pjl8ZqtiS4Eo4zmx77HP3"
+      },
+      "artists": [
+        {
+          "name": "Issac Ryan Brown",
+          "url": "https://open.spotify.com/artist/5aOMbv75CfxervJbTpcGXO"
+        },
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Sky Katz",
+          "url": "https://open.spotify.com/artist/05U4J0pOT7paL8rMJ679Jz"
+        },
+        {
+          "name": "Chandler Kinney",
+          "url": "https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk"
+        },
+        {
+          "name": "Ruth Righi",
+          "url": "https://open.spotify.com/artist/7wXmoaPGvuUUGedB6D52ku"
+        },
+        {
+          "name": "Navia Robinson",
+          "url": "https://open.spotify.com/artist/6eT9WXYVb5CR9sbru8xfOf"
+        },
+        {
+          "name": "Trevor Tordjman",
+          "url": "https://open.spotify.com/artist/4cCKeV2O9AE36tLDYlyVZt"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180557,
+      "name": "Put the Happy in the Holidays",
+      "url": "https://open.spotify.com/track/4xYTkjQuWnG15P2vBoWoL4"
+    },
+    {
+      "album": {
+        "name": "Season's Speedings from Cars Land: Holiday Songs from Mater & Luigi",
+        "url": "https://open.spotify.com/album/3lfUQ49g7aDndmiJ4sCvv4"
+      },
+      "artists": [
+        {
+          "name": "Larry The Cable Guy",
+          "url": "https://open.spotify.com/artist/2iVKGetYUZQElKZKWECyF4"
+        }
+      ],
+      "date_added": "2023-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95806,
+      "name": "Radiator Rockin' Holiday",
+      "url": "https://open.spotify.com/track/74aAZfdIT4EFgB9rAF1tuD"
+    },
+    {
+      "album": {
+        "name": "Disney Peaceful Piano: Holiday",
+        "url": "https://open.spotify.com/album/4lI72R566Md6rfdPAOtRFJ"
+      },
+      "artists": [
+        {
+          "name": "Disney Peaceful Piano",
+          "url": "https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179444,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4EPhn7t0rwqUe6JHjBasmp"
+    },
+    {
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118833,
+      "name": "Ring in the Season",
+      "url": "https://open.spotify.com/track/4UoYb2HJklHzXbVA5klJGt"
+    },
+    {
+      "album": {
+        "name": "Godmothered (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2hq50mdkzgz6UEeqnePnGb"
+      },
+      "artists": [
+        {
+          "name": "Jillian Shea",
+          "url": "https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157953,
+      "name": "Rise Up (Joy to the World)",
+      "url": "https://open.spotify.com/track/1We0BQ3tzm1BxJSw4xxMkq"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Playlist",
+        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
+      },
+      "artists": [
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132626,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2NGLgIhdcuqAnEXlx7D82U"
+    },
+    {
+      "album": {
+        "name": "Rockin' Holiday",
+        "url": "https://open.spotify.com/album/2yKCih4uWRew4GFBpWDdTA"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107349,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/2FNkFvL3pHNJWECPpYZcnP"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday",
+        "url": "https://open.spotify.com/album/1A7xeEQISORj0aNqjIdUdv"
+      },
+      "artists": [
+        {
+          "name": "Hannah Montana",
+          "url": "https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc"
+        },
+        {
+          "name": "Miley Cyrus as Hannah Montana",
+          "url": "https://open.spotify.com/artist/3NkUVbGU8HjV9CqzfmtwMa"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142826,
+      "name": "Rockin' Around the Christmas Tree",
+      "url": "https://open.spotify.com/track/6R9qZhOAWrClF5KLPZn8Ht"
+    },
+    {
+      "album": {
+        "name": "Disney Jingle Bell Fun",
+        "url": "https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8"
+      },
+      "artists": [
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154466,
+      "name": "Rudolph The Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/35corN4vO44BQSS0VsbwwX"
+    },
+    {
+      "album": {
+        "name": "Disney's Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "Rudolph the Red-Nosed Reindeer",
+      "url": "https://open.spotify.com/track/4UUhE9j5sG3E5rxPK79e73"
+    },
+    {
+      "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Dr. Teeth and The Electric Mayhem",
+          "url": "https://open.spotify.com/artist/2ga7tr3zy7iQ9r2VQ6AMGF"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189933,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/6wBQYLB2ANxGi1gfACyoRL"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Phineas",
+          "url": "https://open.spotify.com/artist/48biqUQJGRdB9iTPIUPY0h"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161240,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/3ka39mtGP7QkqNirZYQk3Z"
+    },
+    {
+      "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Miss Piggy",
+          "url": "https://open.spotify.com/artist/0r1QrxNtH4pRKXyiCJwZUn"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171040,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/016NunpM8jiU0bjSvxi9yF"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        },
+        {
+          "name": "Stolen Jars",
+          "url": "https://open.spotify.com/artist/5EAJ2dKLdisq7BOJHQ1B7r"
+        }
+      ],
+      "date_added": "2022-12-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172738,
+      "name": "Santa Claus Is Comin' to Town",
+      "url": "https://open.spotify.com/track/7mE5nyoRdlZq7hKW2Uzxkl"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Love H\u00e4ndel",
+          "url": "https://open.spotify.com/artist/1dDpevEQhtnOqfQce5TrEl"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-12-17",
+      "duration_ms": 103266,
+      "name": "Santa Claus is Comin' to Town",
+      "url": "https://open.spotify.com/track/2AWqIjJYNlOHtU71tTaPAT"
+    },
+    {
+      "album": {
+        "name": "Disney Jingle Bell Fun",
+        "url": "https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Donald Duck",
+          "url": "https://open.spotify.com/artist/7KksEpdok2fNHMXn9O24lU"
+        },
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163120,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/5Uh79do7x63JsFZT75KGW1"
+    },
+    {
+      "album": {
+        "name": "Diary of a Wimpy Kid Christmas: Cabin Fever (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/72NEYxSD50cLeJGy9XhaJt"
+      },
+      "artists": [
+        {
+          "name": "Anthony Parnther",
+          "url": "https://open.spotify.com/artist/7ra8Zt3B4DlqRDYMyT1Okx"
+        }
+      ],
+      "date_added": "2023-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160966,
+      "name": "Santa Never Sleeps",
+      "url": "https://open.spotify.com/track/3e4yzleWWrq00WsnRrxml0"
+    },
+    {
+      "album": {
+        "name": "Dashing Through the Snow (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/21yMUgO7F4MrEsEbDb7avs"
+      },
+      "artists": [
+        {
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        }
+      ],
+      "date_added": "2023-11-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169246,
+      "name": "Santa You're Alright",
+      "url": "https://open.spotify.com/track/4ulvNL6uOQPAT4HwYpKDby"
+    },
+    {
+      "album": {
+        "name": "The Muppets Christmas Carol",
+        "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
+      },
+      "artists": [
+        {
+          "name": "The Muppet Cast",
+          "url": "https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 147400,
+      "name": "Scrooge",
+      "url": "https://open.spotify.com/track/7xdU07TVdbK1XJOiFkcH1X"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "The Muppet Cast",
+          "url": "https://open.spotify.com/artist/0xbgjlBWqSP2hP54ZgjLEW"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147426,
+      "name": "Scrooge",
+      "url": "https://open.spotify.com/track/5qzKbcG0u62q0e8FYyny4s"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Playlist",
+        "url": "https://open.spotify.com/album/3u4JngBheQE1ZUyP6my3zE"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176093,
+      "name": "Shake Santa Shake (from \"Shake It Up\")",
+      "url": "https://open.spotify.com/track/5IfCZf4C8zcaww1npKkCn7"
+    },
+    {
+      "album": {
+        "name": "Disney Channel Holiday Hits",
+        "url": "https://open.spotify.com/album/0mbCOOXGsz6SLRTopXAUF9"
+      },
+      "artists": [
+        {
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148026,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/5wCnO8NfiPyQ07MVAoJk8o"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        },
+        {
+          "name": "Cast of Frozen 2",
+          "url": "https://open.spotify.com/artist/0PYSU1xJn8ay3ckZYsumdH"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209964,
+      "name": "Some Things Never Change",
+      "url": "https://open.spotify.com/track/4Xbotg4PCLJw9cDx2dtZLK"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Cast of High School Musical: The Musical: The Series",
+          "url": "https://open.spotify.com/artist/1YWJ1WjMkBCB1X3QOJ1Wdn"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196323,
+      "name": "Something in the Air",
+      "url": "https://open.spotify.com/track/7AxATDcRnvya38woe2Ro8w"
+    },
+    {
+      "album": {
+        "name": "Beauty and the Beast",
+        "url": "https://open.spotify.com/album/3O5p9VNddbwvqWTdYKEqV5"
+      },
+      "artists": [
+        {
+          "name": "Robby Benson",
+          "url": "https://open.spotify.com/artist/3QcGV278a6mmLRTOK29WBP"
+        },
+        {
+          "name": "Jerry Orbach",
+          "url": "https://open.spotify.com/artist/5i2OpmeVKsmViqoETxuOvO"
+        },
+        {
+          "name": "Paige O'Hara",
+          "url": "https://open.spotify.com/artist/7oavKrnYbTZPAPq7zCuipM"
+        },
+        {
+          "name": "Angela Lansbury",
+          "url": "https://open.spotify.com/artist/0LtVJXnPR8msCJiE2DjHxy"
+        },
+        {
+          "name": "David Ogden Stiers",
+          "url": "https://open.spotify.com/artist/0N0dbr5s2y20PAo2cDAeVP"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "Something There",
+      "url": "https://open.spotify.com/track/6mDxu0xwhv5tn1oMTNUypu"
+    },
+    {
+      "album": {
+        "name": "The Muppet Christmas Carol (Special Anniversary Edition)",
+        "url": "https://open.spotify.com/album/63DYbHrvwaBaWVjqQkNvT0"
+      },
+      "artists": [
+        {
+          "name": "Scrooge",
+          "url": "https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136840,
+      "name": "Thankful Heart",
+      "url": "https://open.spotify.com/track/10gNJKknyceHIU2jEwUq1t"
+    },
+    {
+      "album": {
+        "name": "The Muppets Christmas Carol",
+        "url": "https://open.spotify.com/album/0bIXffBZFKL5bj7A2Whpm4"
+      },
+      "artists": [
+        {
+          "name": "Scrooge",
+          "url": "https://open.spotify.com/artist/2kXLMOzLGIsJunZCUFwKh7"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 136840,
+      "name": "Thankful Heart",
+      "url": "https://open.spotify.com/track/5bha8vGIy6f9Ph7t0nApno"
+    },
+    {
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Cast - Olaf's Frozen Adventure",
+          "url": "https://open.spotify.com/artist/5UvAcLn6pAJHjdtA1yVI1A"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183174,
+      "name": "That Time of Year",
+      "url": "https://open.spotify.com/track/1kEFzZpyfpgBYC0PnODx2F"
+    },
+    {
+      "album": {
+        "name": "The Muppets: A Green and Red Christmas",
+        "url": "https://open.spotify.com/album/2SRnKY8vy3G72k8D55tWoA"
+      },
+      "artists": [
+        {
+          "name": "Rowlf",
+          "url": "https://open.spotify.com/artist/0njFkc3vOf0MCMlX3CBrT4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180640,
+      "name": "The Christmas Party Sing-Along",
+      "url": "https://open.spotify.com/track/4XXaOFgKRkGXLaYe4sJFYH"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "Vanessa",
+          "url": "https://open.spotify.com/artist/5GwTFOTK3Hdj9xiXBUcny3"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261973,
+      "name": "The Christmas Song (Chestnuts Roasting on an Open Fire)",
+      "url": "https://open.spotify.com/track/5JpOj1h20B7rVqToAmOaAm"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Snow White",
+          "url": "https://open.spotify.com/artist/6BAIFK6o6egITr3K8JysWa"
+        },
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/4PNxaLK53sf9AebS32lwsB"
+        },
+        {
+          "name": "The Bashful",
+          "url": "https://open.spotify.com/artist/5XYl7tpQiqm8xFFLzX4pjL"
+        },
+        {
+          "name": "Doc",
+          "url": "https://open.spotify.com/artist/0yCFOUK2sXwZhpWQ20rNV4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167346,
+      "name": "The Night Before Christmas",
+      "url": "https://open.spotify.com/track/24VHmDy2EXjToniDzCutbn"
+    },
+    {
+      "album": {
+        "name": "The Nutcracker and the Four Realms (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1LxSK2MQB44rHy5iATbMXY"
+      },
+      "artists": [
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "The Nutcracker Suite",
+      "url": "https://open.spotify.com/track/2h1rdZtP5pieiZgAeEUF7O"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/2TI63mU5xp70bx7d8ORIek"
+      },
+      "artists": [
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-07-29",
+      "duration_ms": 141426,
+      "name": "The Santa Wrap",
+      "url": "https://open.spotify.com/track/1Msh8qZfJ708O9BfVwem5Y"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "Rayvon",
+          "url": "https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141426,
+      "name": "The Santa Wrap",
+      "url": "https://open.spotify.com/track/4CqPPBjuIaxn0pPoZ6XsMO"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Phineas and Ferb",
+          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "The Twelve Days of Christmas",
+      "url": "https://open.spotify.com/track/18NtQ8IhxiQof1Kv7r9uPr"
+    },
+    {
+      "album": {
+        "name": "Princess Christmas",
+        "url": "https://open.spotify.com/album/1WJHhN69hjNuQPG2iJ36BY"
+      },
+      "artists": [
+        {
+          "name": "Ariel",
+          "url": "https://open.spotify.com/artist/1RJ9qwSsCfnOcTXBSqotNk"
+        },
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/0PPpKyvqALNTHqNCkPh9WM"
+        },
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/2Nd5zTQzOxz2UA4HDHc8Yi"
+        },
+        {
+          "name": "Jasmine.",
+          "url": "https://open.spotify.com/artist/4MN7HjSpAQptHvlRwBaWwl"
+        },
+        {
+          "name": "Sleeping Beauty",
+          "url": "https://open.spotify.com/artist/4PiPCef8wM0O4QK1dz02v0"
+        },
+        {
+          "name": "Snow White",
+          "url": "https://open.spotify.com/artist/6BAIFK6o6egITr3K8JysWa"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222360,
+      "name": "The Twelve Days of Christmas - Princess Version",
+      "url": "https://open.spotify.com/track/4IZ9TrRe76ysqUeCpvL8to"
+    },
+    {
+      "album": {
+        "name": "Noelle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7GZR54Ir7Aq5T34aRhJQfw"
+      },
+      "artists": [
+        {
+          "name": "Lawrence",
+          "url": "https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134116,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7m3rGRL4SeCDRonzwKGGle"
+    },
+    {
+      "album": {
+        "name": "High School Musical: The Musical: The Holiday Special (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/389VFKfgX6qu3L25ctkEFj"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wylie",
+          "url": "https://open.spotify.com/artist/0K0YUvOFH3TVILvIPBfeYN"
+        }
+      ],
+      "date_added": "2022-11-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160922,
+      "name": "This Christmas (Hang All the Mistletoe)",
+      "url": "https://open.spotify.com/track/1DJG5QEDHGMnVeOeBRKPTG"
+    },
+    {
+      "album": {
+        "name": "This Wish (From \"Wish\")",
+        "url": "https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9"
+      },
+      "artists": [
+        {
+          "name": "Ariana DeBose",
+          "url": "https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2023-11-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205480,
+      "name": "This Wish - From \"Wish\"",
+      "url": "https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw"
+    },
+    {
+      "album": {
+        "name": "Deck the Halls",
+        "url": "https://open.spotify.com/album/1SKpUUo0isTRq19wE5RUs0"
+      },
+      "artists": [
+        {
+          "name": "DCappella",
+          "url": "https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89400,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5a91gSADKfKNpsWr1vcOjD"
+    },
+    {
+      "album": {
+        "name": "Phineas and Ferb Holiday Favorites",
+        "url": "https://open.spotify.com/album/4LyKQilbZTx4SL1gXG3u8x"
+      },
+      "artists": [
+        {
+          "name": "The Cast of Phineas and Ferb",
+          "url": "https://open.spotify.com/artist/3j6JwnGGXEJArJwgEt3iXi"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140533,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/5u3rdVDkGiRlmKZ773xte4"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104186,
+      "name": "We Wish You a Merry Christmas",
+      "url": "https://open.spotify.com/track/14qzig8cvFMvUVeCxbaO38"
+    },
+    {
+      "album": {
+        "name": "We Wish You A Merry Christmas (From \"The Santa Clauses: Season 2\")",
+        "url": "https://open.spotify.com/album/1F06xtgHCyekJfrnKbklOV"
+      },
+      "artists": [
+        {
+          "name": "The Santa Clauses - Cast",
+          "url": "https://open.spotify.com/artist/1fcqHgM7myURz9HBW2jEQU"
+        }
+      ],
+      "date_added": "2023-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112799,
+      "name": "We Wish You a Merry Christmas - From \"The Santa Clauses: Season 2\"",
+      "url": "https://open.spotify.com/track/0fMSRi3f7CBLQ6BROBqVhH"
+    },
+    {
+      "album": {
+        "name": "What Christmas Means to Me",
+        "url": "https://open.spotify.com/album/1RcoVRUDGhepaBcxeEp4A0"
+      },
+      "artists": [
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "date_added": "2022-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191933,
+      "name": "What Christmas Means to Me",
+      "url": "https://open.spotify.com/track/1ZRq7JZzM3Q26xweRKz0SF"
+    },
+    {
+      "album": {
+        "name": "Nightmare Before Christmas Special Edition",
+        "url": "https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185573,
+      "name": "What's This?",
+      "url": "https://open.spotify.com/track/3fytQQcjEOWXlvI9BDXVcK"
+    },
+    {
+      "album": {
+        "name": "Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4M07HWIlZr7zoXoxDHR5mz"
+      },
+      "artists": [
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        }
+      ],
+      "date_added": "2022-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111452,
+      "name": "When I Am Older",
+      "url": "https://open.spotify.com/track/1Tt7zr1yDbKbT8L4jzSZ74"
+    },
+    {
+      "album": {
+        "name": "Olaf's Frozen Adventure (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2XaJcrXkpMvHaVJqr4FbPa"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        {
+          "name": "Kristen Bell",
+          "url": "https://open.spotify.com/artist/2kHxkdiKCSnHMkhIgFBZaI"
+        },
+        {
+          "name": "Josh Gad",
+          "url": "https://open.spotify.com/artist/4dSQICBjdUIp5iK6RRU2bY"
+        },
+        {
+          "name": "Jonathan Groff",
+          "url": "https://open.spotify.com/artist/7KkqUt65v6LMtR369OQ6FB"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170521,
+      "name": "When We're Together",
+      "url": "https://open.spotify.com/track/6xsanHBuSwNCTESsldlB0o"
+    },
+    {
+      "album": {
+        "name": "When You Wish Upon A Star",
+        "url": "https://open.spotify.com/album/0RwaotyCpvAytYj5WaH96L"
+      },
+      "artists": [
+        {
+          "name": "The Mamas",
+          "url": "https://open.spotify.com/artist/5HUGPIHRwh79LbffYIUJeJ"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183666,
+      "name": "When You Wish Upon A Star",
+      "url": "https://open.spotify.com/track/6JFyoWiWW69dTjPrJ0RxQ1"
+    },
+    {
+      "album": {
+        "name": "Disney's Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1G9F59LYOnLc9RqWyFNYYz"
+      },
+      "artists": [
+        {
+          "name": "Goofy",
+          "url": "https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/7yURtJ9ZInIE8nwVj8vJSM"
+    },
+    {
+      "album": {
+        "name": "Disney's Family Christmas Collection",
+        "url": "https://open.spotify.com/album/5zeGI3fFVGKZ8DBMC6vuQg"
+      },
+      "artists": [
+        {
+          "name": "The Disney Holiday Chorus",
+          "url": "https://open.spotify.com/artist/4ag7CRSzcTZQX2Bter3fLR"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108480,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/0ptalwARekSbKYsrTExmwY"
+    },
+    {
+      "album": {
+        "name": "Disney Jingle Bell Fun",
+        "url": "https://open.spotify.com/album/6Bd6pZU3QoytmcZxmMZbt8"
+      },
+      "artists": [
+        {
+          "name": "Randy Crenshaw",
+          "url": "https://open.spotify.com/artist/1uYWNGwHu2d2au8iOXZROv"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156586,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/2VmipRkRAi9F78zojC3CzN"
+    },
+    {
+      "album": {
+        "name": "Wrapped Up for Christmas",
+        "url": "https://open.spotify.com/album/4qYm830ZeL7uNnxA9jC33C"
+      },
+      "artists": [
+        {
+          "name": "Forever in Your Mind",
+          "url": "https://open.spotify.com/artist/6gQnbY1egUGK5llcWsrwgE"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222920,
+      "name": "Wrapped Up for Christmas",
+      "url": "https://open.spotify.com/track/6q2CZUCGib5kTOldnKNDXI"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DX10JY0qJoWDu"
 }

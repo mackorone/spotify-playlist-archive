@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2024-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253004,
+      "name": "Lugar Santo",
+      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+    },
+    {
+      "album": {
         "name": "Melhor Amigo",
         "url": "https://open.spotify.com/album/04izDnUmcYZ9UUzbQJ7FVU"
       },
@@ -782,7 +800,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 244970,
       "name": "Por Tuas M\u00e3os",
       "url": "https://open.spotify.com/track/41HzNQNqNMQ7CEUoI5avFy"

@@ -1755,6 +1755,24 @@
     },
     {
       "album": {
+        "name": "Gone In Your Wake",
+        "url": "https://open.spotify.com/album/0ypAkNPpFt6jUn6u5Q33CC"
+      },
+      "artists": [
+        {
+          "name": "Thousand Below",
+          "url": "https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191229,
+      "name": "Disassociate",
+      "url": "https://open.spotify.com/track/7f0alEJ3NtU3iqAVrVGAO8"
+    },
+    {
+      "album": {
         "name": "Disease",
         "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-10",
       "duration_ms": 212832,
       "name": "Hell Is Where The Heart Is",
       "url": "https://open.spotify.com/track/0O2b2DVpnhGFog8ENORm7x"
@@ -5916,7 +5934,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 158824,
       "name": "Shh!",
       "url": "https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z"
@@ -6544,7 +6562,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-26",
+      "date_removed": null,
       "duration_ms": 178154,
       "name": "Takeover",
       "url": "https://open.spotify.com/track/5TcpsBCqICDWlk2kT3ieFg"

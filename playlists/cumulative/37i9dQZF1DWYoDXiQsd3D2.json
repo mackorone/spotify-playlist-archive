@@ -1818,7 +1818,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 82190,
       "name": "Healing As A Family",
       "url": "https://open.spotify.com/track/3WiVNSxYwImI728OxgLA2h"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-12",
+      "date_removed": null,
       "duration_ms": 82190,
       "name": "Healing as a Family",
       "url": "https://open.spotify.com/track/0fs8CepANvhFGee0M6P5AW"
@@ -2096,10 +2096,28 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 321791,
       "name": "Infinite",
       "url": "https://open.spotify.com/track/0uA9Swmbn7wxH8gVja1wQ9"
+    },
+    {
+      "album": {
+        "name": "Late Reflections",
+        "url": "https://open.spotify.com/album/7a7YOE7qLNrQPWv9b0V9SH"
+      },
+      "artists": [
+        {
+          "name": "Grandbrothers",
+          "url": "https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321791,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/2qv1dsEFtDGtPDyX0kew5i"
     },
     {
       "album": {
@@ -3222,10 +3240,32 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-05",
       "duration_ms": 217371,
       "name": "Ripples - Ambient Rework",
       "url": "https://open.spotify.com/track/5eOS4q21Ykr0xXlj2SIol0"
+    },
+    {
+      "album": {
+        "name": "Remixes of a Lockdown",
+        "url": "https://open.spotify.com/album/6j119jGCBkVUiC7bobYn9C"
+      },
+      "artists": [
+        {
+          "name": "Pablo J. Garmon",
+          "url": "https://open.spotify.com/artist/27SRdTyMmpXKh0x37k4cIE"
+        },
+        {
+          "name": "Andrew Simpson",
+          "url": "https://open.spotify.com/artist/5ECrwbYGsuZReQfgyY4BvU"
+        }
+      ],
+      "date_added": "2023-04-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217413,
+      "name": "Ripples - Ambient Rework",
+      "url": "https://open.spotify.com/track/70BoDJMyp0sdDXao92dqAp"
     },
     {
       "album": {
@@ -3728,7 +3768,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-05",
+      "date_removed": null,
       "duration_ms": 210240,
       "name": "Stillness (Reworked)",
       "url": "https://open.spotify.com/track/17IbDcL196PgvTVrcUDut1"
@@ -3746,7 +3786,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-13",
       "duration_ms": 210240,
       "name": "Stillness - Reworked",
       "url": "https://open.spotify.com/track/38e2GidL9UTv430biHt3a5"

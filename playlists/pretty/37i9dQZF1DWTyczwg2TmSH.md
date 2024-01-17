@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyczwg2TmSH.md) - [plain]
 
 > Music inspired by Eric Effiong from Sex Education, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,658 likes - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,828 likes - 29 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

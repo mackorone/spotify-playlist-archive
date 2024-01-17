@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: A.C.E) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: B1A4) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -867,6 +867,24 @@
     },
     {
       "album": {
+        "name": "Be There For Me - Winter Special Single",
+        "url": "https://open.spotify.com/album/0uJxcHEh5lpFMd971KU7Wd"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-01-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217933,
+      "name": "Be There For Me",
+      "url": "https://open.spotify.com/track/1Lkd4pjGFQilS5zPoMnLL7"
+    },
+    {
+      "album": {
         "name": "Be Your Star",
         "url": "https://open.spotify.com/album/7F8dZ0pPGvWHWYZf8a5k2D"
       },
@@ -1008,6 +1026,24 @@
       "duration_ms": 264613,
       "name": "Beauty and the Beast",
       "url": "https://open.spotify.com/track/6cLwgFQvn69ATT9GX7hCIs"
+    },
+    {
+      "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/23325hP3aqsiTottDna0mg"
+      },
+      "artists": [
+        {
+          "name": "SF9",
+          "url": "https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194120,
+      "name": "BIBORA",
+      "url": "https://open.spotify.com/track/0F2woEmPkBMafpMCmgKc6a"
     },
     {
       "album": {
@@ -1260,7 +1296,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 195080,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/6rcn967QN5JtkPOBDwYIuT"
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": "2024-01-05",
       "duration_ms": 210641,
       "name": "BOSS",
       "url": "https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix"
@@ -1848,7 +1884,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 192533,
       "name": "Christmas Love",
       "url": "https://open.spotify.com/track/07RqTH1eogXDP6lvfkpTgr"
@@ -2298,7 +2334,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-04",
       "duration_ms": 217194,
       "name": "Daymoon [CLEF X DKZ]",
       "url": "https://open.spotify.com/track/3dBCJvCE1QKqOE64nNPlEN"
@@ -3080,7 +3116,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-09",
       "duration_ms": 195466,
       "name": "FIRST SNOW",
       "url": "https://open.spotify.com/track/2gAeC9cZY154LvRWhCck04"
@@ -3372,6 +3408,24 @@
       "duration_ms": 226933,
       "name": "GEMINI",
       "url": "https://open.spotify.com/track/7L9gc9u9Ev2OprF08AMhGH"
+    },
+    {
+      "album": {
+        "name": "Get A Guitar",
+        "url": "https://open.spotify.com/album/4QzCT76QtPCyLinchwVt8l"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160371,
+      "name": "Get A Guitar",
+      "url": "https://open.spotify.com/track/3Dah48XTdzVtbIl4dUn6l4"
     },
     {
       "album": {
@@ -4486,7 +4540,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-24",
+      "date_removed": "2024-01-05",
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -5074,6 +5128,24 @@
       "duration_ms": 198760,
       "name": "Louder",
       "url": "https://open.spotify.com/track/6btX7akvoYxoh1zKXQHs2e"
+    },
+    {
+      "album": {
+        "name": "Love 119",
+        "url": "https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173489,
+      "name": "Love 119",
+      "url": "https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9"
     },
     {
       "album": {
@@ -6295,6 +6367,24 @@
     },
     {
       "album": {
+        "name": "Oh Mymy : 7s",
+        "url": "https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40"
+      },
+      "artists": [
+        {
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+        }
+      ],
+      "date_added": "2024-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189973,
+      "name": "Oh Mymy : 7s",
+      "url": "https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80"
+    },
+    {
+      "album": {
         "name": "insatiable <3",
         "url": "https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA"
       },
@@ -6929,6 +7019,24 @@
     },
     {
       "album": {
+        "name": "CONNECT",
+        "url": "https://open.spotify.com/album/4JdZ37sM1QoMhUvY3nzorw"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "date_added": "2024-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189800,
+      "name": "REWIND",
+      "url": "https://open.spotify.com/track/3gnby6MCtW10Zl0EvA308e"
+    },
+    {
+      "album": {
         "name": "WELCOME BACK",
         "url": "https://open.spotify.com/album/6oV4Vxt8N7RGUOKtQ051ml"
       },
@@ -7448,7 +7556,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-16",
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/5HrIcZOo1DysX53qDRlRnt"
@@ -8114,7 +8222,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-01-08",
       "duration_ms": 190941,
       "name": "Talk Saxy",
       "url": "https://open.spotify.com/track/2cEwQnP4284g37N6D7ETND"

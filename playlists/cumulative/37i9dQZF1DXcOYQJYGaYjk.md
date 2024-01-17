@@ -4,7 +4,7 @@
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-190 songs - 12 hr 35 min
+191 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,8 +181,9 @@
 | [Tip Your Bartender](https://open.spotify.com/track/5h1xoldxbnstLnslJ77rER) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 2:59 | 2022-04-28 | 2022-05-13 |
 | [Trapped](https://open.spotify.com/track/0COnTxJkjs9DkiIKYTXmqv) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Dark Matter](https://open.spotify.com/album/773YYuhtcxIt4wqBVnsOgk) | 3:56 | 2022-04-28 | 2022-07-23 |
 | [Uber](https://open.spotify.com/track/04iX6F51I3EVfTn3QX4Qka) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Amazing Things](https://open.spotify.com/album/5mIbeOd1gcpiIq08SQ3rxH) | 3:31 | 2022-04-28 | 2022-07-29 |
+| [Unstoppable](https://open.spotify.com/track/5t2Wv4h5MO2ZyRBsLbFz55) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/10y8DNZXtoHqW8NHo9eeR9) | 3:58 | 2022-12-15 |  |
 | [Unstoppable](https://open.spotify.com/track/6KrxqNJFgdSrJTnfDnPT82) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Unstoppable](https://open.spotify.com/album/0ZgFPrROyBNPg4jx2a261Q) | 3:58 | 2022-09-27 | 2023-12-14 |
-| [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2022-12-15 |  |
+| [Unstoppable](https://open.spotify.com/track/6l769YojBjFfjOItRJQPCM) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Divisive](https://open.spotify.com/album/592wLCECATlzgwiEWTOPEa) | 3:58 | 2022-12-15 | 2024-01-12 |
 | [Vice Grip](https://open.spotify.com/track/0AHHDAHFRaT82UVw5fMr1R) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Ire](https://open.spotify.com/album/7712cWOELt2oQyxrlFWY8D) | 4:23 | 2022-06-16 |  |
 | [Vice Grip](https://open.spotify.com/track/2c9TM5qY2Kx330wuh4O72y) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Vice Grip](https://open.spotify.com/album/6Fdm9lHPvuB2sIFT4tmMbZ) | 4:23 | 2022-05-12 | 2022-07-28 |
 | [Victim](https://open.spotify.com/track/38RTTDR84odCz5gQrLuZQR) | [Eighteen Visions](https://open.spotify.com/artist/1KcePrJuVbBv9SyqCEpdPb) | [Eighteen Visions](https://open.spotify.com/album/2DZCKhA1FdFJwRSKL2cPYM) | 2:58 | 2022-04-28 | 2022-07-27 |
